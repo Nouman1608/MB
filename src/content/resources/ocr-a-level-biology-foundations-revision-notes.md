@@ -82,13 +82,13 @@ The specification deliberately opens with microscopy rather than molecules: biol
 
 ## The cytoskeleton and organelle interrelationships
 
-The cytoskeleton provides mechanical strength, aids transport, and enables cell movement -- worth learning as a distinct, examinable structure rather than folding it into general "cell support". The specification also expects an understanding of how organelles involved in producing and secreting proteins work together (rough ER, Golgi apparatus, secretory vesicles) -- know both the sequence of organelles involved and, once 2.1.4 Nucleic acids is reached, the biochemistry of transcription and translation that underlies it.
+The cytoskeleton provides mechanical strength, aids transport, and enables cell movement -- worth learning as a distinct, examinable structure rather than folding it into general "cell support". The specification also expects an understanding of how organelles involved in producing and secreting proteins work together (rough ER, Golgi apparatus, secretory vesicles) -- know both the sequence of organelles involved and, once 2.1.3 Nucleotides and nucleic acids is reached, the biochemistry of transcription and translation that underlies it.
 
 ## Common mistakes
 
 - Confusing magnification and resolution.
 - Mixing units when applying the magnification formula (convert to the same unit first).
-- Neglecting transcription and translation once 2.1.4 Nucleic acids is reached — this is required content, with named guidance on RNA polymerase and messenger RNA.
+- Neglecting transcription and translation once 2.1.3 Nucleotides and nucleic acids is reached — this is required content (outcome (g)), with named guidance on the roles of RNA polymerase and messenger, transfer and ribosomal RNA.
 - Learning organelle names without their functions.
 - Listing water's properties without linking them back to hydrogen bonding.
 

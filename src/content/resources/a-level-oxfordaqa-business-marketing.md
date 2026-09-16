@@ -75,8 +75,10 @@ and international markets, and e-commerce; product (new product
 development, the product life cycle and extension strategies, the
 Boston Matrix, and branding); pricing (influences on price, pricing
 strategies including skimming, penetration and discrimination, and
-price elasticity of demand); the promotional mix (advertising, sales
-promotions, the sales force, public relations, exhibitions);
+price elasticity of demand); the promotional mix, which under **9625**
+is advertising, sales promotions, the sales force, public relations and
+exhibitions (**9725** revises this list, so use the 9725 specification's
+own list if you follow 9725);
 distribution, including online and multi-channel distribution; and
 influences on people, process and physical environment. **Under
 9725**, the mix is simplified to the classic **4Ps** (product, price,

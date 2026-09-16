@@ -74,16 +74,17 @@ Related: [Paper 2 study guide](/resources/a-level-edexcel-urdu-translation-and-w
 
 > پچھلے بیس برسوں میں بیرونِ ملک تعلیم حاصل کرنے والے طلبہ کی تعداد میں تیزی سے اضافہ ہوا ہے۔ بہت سے طلبہ نئی مہارتیں لے کر واپس آتے ہیں، لیکن کچھ کبھی واپس نہیں لوٹتے، اور اُن کا ملک اُس صلاحیت سے محروم ہو جاتا ہے جس پر اُس نے سرمایہ لگایا تھا۔
 
-**Marking (points-based — one mark per correct individual section of language, no chunk worth
-more than one):** over the past twenty years = پچھلے بیس برسوں میں [1]; the number of = تعداد میں
-[1]; students studying abroad = بیرونِ ملک تعلیم حاصل کرنے والے طلبہ [1]; has risen = اضافہ ہوا ہے
-[1]; sharply = تیزی سے [1]; many return = بہت سے طلبہ ... واپس آتے ہیں [1]; with new skills = نئی
-مہارتیں لے کر [1]; but = لیکن [1]; some never come back = کچھ کبھی واپس نہیں لوٹتے [1]; and = اور
-[1]; their country = اُن کا ملک [1]; loses = محروم ہو جاتا ہے [1]; the talent = صلاحیت [1]; it
-invested in, rendered as a relative clause = جس پر ... سرمایہ لگایا تھا [1]; correct perfect-tense
-formation throughout [1]; correct habitual-tense formation throughout [1]; gender agreement
-(طلبہ/ملک/صلاحیت) [1]; verb agreement throughout [1]; correct ergative نے with the perfective
-transitive سرمایہ لگایا [1]; overall coherent, natural Urdu register [1].
+**Marking (points-based — 20 chunks, one mark for the correct translation of each, no chunk worth
+more than one; the specification gives one mark for each correct individual section of language, and
+Pearson's Getting Started Guide for 9UR0 describes the translation as divided into 20 chunks. Accept
+variants that convey the same meaning; non-grammatical, unambiguous misspellings are tolerated, but verb
+and adjective endings must be correct.):** over the past = پچھلے ... میں [1];
+twenty years = بیس برسوں [1]; the number of = کی تعداد [1]; students = طلبہ [1]; studying = تعلیم
+حاصل کرنے والے [1]; abroad = بیرونِ ملک [1]; has risen = اضافہ ہوا ہے [1]; sharply = تیزی سے [1];
+many = بہت سے (طلبہ) [1]; return = واپس آتے ہیں [1]; with new skills = نئی مہارتیں لے کر [1]; but =
+لیکن [1]; some = کچھ [1]; never = کبھی ... نہیں [1]; come back = واپس لوٹتے [1]; and = اور [1]; their
+country = اُن کا ملک [1]; loses = محروم ہو جاتا ہے [1]; the talent = اُس صلاحیت (سے) [1]; it invested
+in, rendered as a relative clause with ergative نے = جس پر اُس نے سرمایہ لگایا تھا [1]. (Total 20.)
 
 **1.** 110 marks total, over 2 hours 40 minutes. **[2]**
 

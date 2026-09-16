@@ -37,6 +37,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 ```
 Delta E = c^2 Delta m       (mass deficit -> energy released)
+1 u = 1.66 x 10^-27 kg      (equivalent to about 931.5 MeV/c^2)
 ```
 
 **Mass deficit** is the difference between the mass of separated nucleons and the mass of the assembled nucleus — that "missing" mass is released as **binding energy**. Small masses at this scale are expressed in the **atomic mass unit (u)**. Plotting binding energy per nucleon against nucleon number gives a curve peaking around **iron** — both **fusion** (combining light nuclei) and **fission** (splitting heavy nuclei) release energy because both move nuclei towards this more stable, higher binding-energy-per-nucleon region. Fusion needs very high density and temperature to overcome electrostatic repulsion between nuclei and bring them close enough for the strong nuclear force to act.

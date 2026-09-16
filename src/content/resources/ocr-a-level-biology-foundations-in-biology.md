@@ -122,8 +122,9 @@ magnification itself -- is essential.
   especially forgetting to convert both image size and object size to
   the same unit before dividing.
 - **Skipping transcription and translation.** These are required
-  content later in the same module (2.1.4 Nucleic acids), with named
-  guidance on RNA polymerase and messenger RNA, so the biochemistry of
+  content later in the same module (2.1.3 Nucleotides and nucleic
+  acids, outcome (g)), with named guidance on the roles of RNA
+  polymerase and messenger, transfer and ribosomal RNA, so the biochemistry of
   protein synthesis should not be neglected once that sub-topic is
   reached.
 - **Learning organelle names without their functions**, when exam

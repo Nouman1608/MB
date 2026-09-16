@@ -84,11 +84,12 @@ cohort is also using.
 
 ## How this connects to the HL extension
 
-For HL students, the Global political challenges extension (Paper 3) asks for synthesis across all
-three thematic studies rather than treating Peace and conflict in isolation -- a conflict case study
-can just as easily illustrate a rights and justice violation, or a development and sustainability
-tension, as it can illustrate conflict dynamics alone. Building case studies that can be discussed
-from more than one thematic angle is efficient preparation for both Paper 2 and, at HL, Paper 3.
+For HL students, the Global political challenges extension (Paper 3) is not a synthesis of the three
+thematic studies: it is built on cases each student researches independently, connected to eight
+topic areas -- borders, environment, equality, health, identity, poverty, security and technology. A conflict case you have studied here may connect naturally to
+one of those areas (borders, security or identity, for example), so noting such links is a useful
+starting point for the HL research. For Paper 2, a conflict case that can also illustrate a rights and
+justice violation or a development and sustainability tension is efficient preparation.
 
 ## How to approach it
 

@@ -12,14 +12,14 @@ order: 3
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-language-acquisition-eassessment-structure"
-description: "Task-by-task exam preparation for IB Middle Years Programme Language Acquisition's two eAssessment components -- the on-screen listening/reading/writing paper and the separately assessed speaking examination -- with a proficiency-band checklist."
+description: "Task-by-task exam preparation for IB Middle Years Programme Language Acquisition's two eAssessment components -- the on-screen listening/reading/writing paper and the separately assessed speaking examination -- with a proficiency-level checklist."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
 ---
 
 The [full syllabus guide](/resources/ib-myp-language-acquisition-syllabus-guide/) sets out the four
-criteria and the emergent/capable/proficient proficiency bands eAssessment results are reported
+criteria and the emergent/capable/proficient proficiency levels eAssessment results are reported
 against (day-to-day teaching instead uses a separate, finer six-phase continuum -- see below).
 These notes focus specifically on preparing for the two separately assessed eAssessment components,
 alongside the [subject overview](/resources/ib-myp-language-acquisition-subject-guide/) and
@@ -34,7 +34,7 @@ multimodal texts (criterion D) -- each worth 24 marks in the eAssessment bluepri
 from the 8-level, 32-mark-total classroom assessment). Because all three are assessed together,
 exam-preparation time should be distributed across all three skills rather than concentrated on
 whichever feels most comfortable. A practical preparation routine: for listening, practise with
-authentic or course-level audio at your assessed proficiency band and note down key information while
+authentic or course-level audio at your assessed proficiency level and note down key information while
 listening rather than only afterwards; for reading, practise skimming a multimodal text (one combining
 written and visual/spatial elements) for overall meaning before rereading for detail; for writing,
 practise producing short pieces in different registers (formal, informal, social, academic) to
@@ -68,31 +68,26 @@ A student who is confident on paper but has not rehearsed spontaneous speaking u
 under-prepared for a full quarter of the total assessment, regardless of how strong their listening,
 reading and writing scores might be.
 
-## Why eAssessment uses three bands, not six phases
+## Six phases for teaching, three levels for reporting
 
-Day-to-day classroom teaching tracks students against the finer-grained **six-phase proficiency
-continuum**, but eAssessment reports results against only the three broader bands -- emergent,
-capable and proficient. This is a deliberate difference in purpose rather than an inconsistency: a
-summative external exam needs categories that are coarse enough to compare fairly across every
-school and student sitting the assessment, whereas the six-phase continuum exists for the finer,
-ongoing formative tracking a classroom teacher needs day to day. Understanding this distinction
-matters for exam preparation specifically because the practice material and past-paper style
-questions you use should be pitched at your assessed **band**, not at your more precise classroom
-phase, which can sit anywhere within that band.
+Teaching and learning are organised into **six phases**, which do not correspond to age or year
+group and which students can enter or leave at any point, while eAssessment reports course results
+at **three proficiency levels** -- emergent, capable and proficient. These are two different things,
+not two names for the same scale. For exam preparation, what matters is the proficiency level your
+assessment targets: pitch practice material and past-paper style questions at that **level**.
 
-## Confirming your proficiency band before you prepare
+## Confirming your proficiency level before you prepare
 
-Because MYP eAssessment results are reported at one of three proficiency bands -- emergent,
-capable or proficient -- rather than by year group alone, confirm with your teacher which band your
+Because MYP eAssessment results are reported at one of three proficiency levels -- emergent,
+capable or proficient -- rather than by year group, confirm with your teacher which level your
 own assessment targets before beginning focused exam preparation. Practising with material pitched at
-the wrong band either underprepares you (if you practise below your actual band) or wastes revision
-time on unrealistic expectations (if you practise above it). This is the single most common
-preparation mistake in this subject, because year group and proficiency band do not always align
-one-to-one.
+the wrong level either underprepares you (if you practise below your actual level) or wastes revision
+time on unrealistic expectations (if you practise above it). Year group and proficiency level do not
+necessarily align, which is why this check matters.
 
 ## Preparation checklist
 
-- Confirm your assessed proficiency band (emergent, capable or proficient) with your teacher before
+- Confirm your assessed proficiency level (emergent, capable or proficient) with your teacher before
   selecting practice material.
 - Practise listening and reading with multimodal texts (not audio- or text-only), since both criteria
   explicitly include interpreting spatial and visual elements alongside spoken or written content.
@@ -109,7 +104,7 @@ one-to-one.
    assessed separately?
 2. Why is rehearsing only a fixed set of prepared answers a weaker speaking-preparation strategy than
    practising spontaneous interaction?
-3. What could go wrong if you prepare using material pitched at the wrong proficiency band?
+3. What could go wrong if you prepare using material pitched at the wrong proficiency level?
 4. Name one practical preparation habit specific to the writing component (criterion D).
 5. Why can't strong written performance substitute for speaking preparation, or vice versa?
 
@@ -117,7 +112,7 @@ one-to-one.
 examination; speaking (C) is assessed separately as an internally assessed, IB-moderated task.
 2. Because the speaking examination is genuinely interactive, and an unexpected follow-up question can
 expose a student who has only rehearsed a fixed script, whereas practising spontaneous interaction
-builds the flexibility the actual task requires. 3. Practising below your actual proficiency band
+builds the flexibility the actual task requires. 3. Practising below your actual proficiency level
 leaves you underprepared for the real assessment's complexity; practising above it wastes revision
 time on unrealistic expectations you are not yet being assessed against. 4. Practising short pieces in
 different registers (formal, informal, social, academic) so you can recognise and produce the register
@@ -130,4 +125,4 @@ genuinely separate quarter of the total assessment.
 International Baccalaureate Organization, *Middle Years Programme Subject Brief -- Language
 Acquisition*, from 2020, (c) 2020 -- the same source already cited by the
 [full syllabus guide](/resources/ib-myp-language-acquisition-syllabus-guide/), which first described
-the two-component eAssessment structure and the six-phase/three-band system from it.
+the two-component eAssessment structure and the six-phase/three-level system from it.

@@ -40,14 +40,7 @@ relate to a Resource Booklet describing a real-life business.
 
 ## Section B — Extended-Response Questions
 
-> **Resource Booklet.** *Maple & Kent* is a UK-based chain of 14 homeware
-> stores, selling kitchenware and furnishings through its stores and a
-> growing website. It faces a well-established, low-price competitor and a
-> smaller, design-led online rival. Sales growth has slowed over the past
-> two years and the board is reviewing its strategic options, including
-> whether to open stores overseas.
->
-> Questions 3–9 refer to Maple & Kent.
+*Questions 3–8 are free-standing and do not use the Resource Booklet (questions 7 and 8 give their own data). Question 9, at the end of this section, uses the Resource Booklet on Maple & Kent.*
 
 **3.** Explain each quadrant of Ansoff's matrix, giving an example and stating which carries the greatest risk and why. **[8]**
 
@@ -72,6 +65,17 @@ relate to a Resource Booklet describing a real-life business.
 **(a)** Calculate the payback period. **[2]**
 **(b)** Calculate the average rate of return (ARR). **[3]**
 **(c)** Explain **one** advantage NPV has over both these methods. **[2]**
+
+## Resource Booklet Question (Section B)
+
+> **Resource Booklet.** *Maple & Kent* is a UK-based chain of 14 homeware
+> stores, selling kitchenware and furnishings through its stores and a
+> growing website. It faces a well-established, low-price competitor and a
+> smaller, design-led online rival. Sales growth has slowed over the past
+> two years and the board is reviewing its strategic options, including
+> whether to open stores overseas.
+>
+> Question 9 refers to Maple & Kent.
 
 **9.** Using Maple & Kent, evaluate whether opening stores overseas is the most appropriate strategic option for reversing its slowing sales growth. **[15]**
 

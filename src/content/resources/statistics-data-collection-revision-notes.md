@@ -69,10 +69,11 @@ Lower bound uses **≤**, upper bound uses **<** — the convention avoids two a
 | Stratified | Proportional numbers from each group | Strata must be identifiable |
 | Quota | Set numbers per category, interviewer chooses | Not random; interviewer bias |
 
-**Background only -- not required by 0479.** Cluster sampling (whole groups chosen at random; less precise
-if clusters differ) and opportunity sampling (whoever is available; unrepresentative) are common wider
-sampling vocabulary, but they are not among the four methods 0479 names, so do not expect them to be
-examined by name in this code.
+**Background -- not among the methods 0479 names.** Cluster sampling (whole groups chosen at random; less
+precise if clusters differ) and opportunity sampling (whoever is available; unrepresentative) are common wider
+sampling vocabulary. The syllabus does not name either, so learn the four above first and treat these two as
+background. (The syllabus's own example of a biased method -- surveying the first people to arrive -- is in
+effect an opportunity sample.)
 
 **Stratified sample size** = (group size ÷ population) × sample size. Round so the parts still total correctly.
 

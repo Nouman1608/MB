@@ -53,7 +53,10 @@ The course encourages and enables students to:
 MYP Language Acquisition is assessed against four equally weighted
 criteria, each scored on an eight-point scale (1-8): Criterion A,
 Listening; Criterion B, Reading; Criterion C, Speaking; and Criterion D,
-Writing. Rather than being tied to a fixed year group, teaching and
+Writing. The eight levels form four descriptor bands, and a level of 0
+is also awarded for work that does not reach any band, so each
+criterion's attainable range is 0-8 and the four-criterion total 0-32.
+Rather than being tied to a fixed year group, teaching and
 learning is organized into six proficiency phases forming a developmental
 continuum -- students can begin at any phase depending on prior experience,
 and progress at their own pace rather than moving up with an age cohort.

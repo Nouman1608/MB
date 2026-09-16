@@ -54,8 +54,9 @@ formation
 - **1.3 Electron configurations** — emission spectra as evidence of
 quantised energy levels; energy levels, sub-levels (s, p, d and f) and
 orbitals; the aufbau principle, Pauli exclusion principle and Hund's
-rule together; the chromium and copper exceptions; ionisation energy
-and its periodic trends
+rule together; the chromium and copper exceptions; at HL only (1.3.6-1.3.7),
+first ionisation energy and its periodic trends, and successive
+ionisation energies
 - **1.4 Counting particles by mass: the mole** — the mole and the
 Avogadro constant; molar mass; empirical and molecular formulae;
 concentration and molar volume
@@ -131,6 +132,42 @@ together) at higher frequency, and this convergence limit corresponds
 to the electron being removed from the atom entirely — the HL route to
 calculating ionisation energy directly from spectral data.
 
+## HL only: mass spectra and ionisation energies
+
+These are the HL-only extensions named above: the extensions to 1.2 (one additional hour) and 1.3 (three additional hours).
+
+- **Interpreting a mass spectrum of an element (1.2, HL).** Each peak is one isotope. The
+  m/z value identifies the isotope (for an ion with a 1+ charge, m/z equals the isotope's relative
+  mass) and the peak height, or percentage abundance, gives its relative abundance. Relative atomic
+  mass is the abundance-weighted mean:
+
+  ```
+  Peaks: m/z 24 (79%), m/z 25 (10%), m/z 26 (11%)   -> magnesium
+  Ar = (24 x 79 + 25 x 10 + 26 x 11) / 100 = 2432 / 100 = 24.32
+  ```
+
+- **Ionisation energy from the convergence limit (1.3, HL).** At the convergence limit of the
+  hydrogen emission spectrum the electron is removed completely, so the photon energy there is the
+  ionisation energy of one atom: E = hν (or E = hc/λ if a wavelength is given). Multiply by the
+  Avogadro constant for a molar value:
+
+  ```
+  convergence frequency = 3.29 x 10^15 Hz
+  E(one atom) = 6.63 x 10^-34 J s x 3.29 x 10^15 Hz = 2.18 x 10^-18 J
+  IE = 2.18 x 10^-18 J x 6.02 x 10^23 mol^-1 = 1.31 x 10^6 J mol^-1 (1310 kJ mol^-1 to 3 s.f.)
+  ```
+
+- **Successive ionisation energies (1.3, HL).** Each successive ionisation energy is larger than
+  the one before, because each electron is removed from an increasingly positive ion. A **large
+  jump** appears when the next electron must come from a new shell closer to the nucleus, with
+  less shielding. The number of electrons removed before the first large jump is the number of
+  outer-shell electrons, which gives the group:
+
+  ```
+  aluminium, kJ mol^-1:  IE1 578   IE2 1817   IE3 2745   IE4 11577
+  largest jump between IE3 and IE4 -> 3 outer electrons -> group 13
+  ```
+
 ## Common mistakes
 
 Confusing mass number with atomic number when working out neutron
@@ -153,6 +190,9 @@ substituting into the ideal gas equation.
 - Treat the mole as an over-learned skill, not a one-off revision
   topic, given how heavily later components depend on it.
 - Always convert to kelvin before using pV = nRT.
+- *(HL)* Read isotope identity and abundance from a mass spectrum and calculate Ar from it.
+- *(HL)* Calculate an ionisation energy from the convergence-limit frequency or wavelength
+  (E = hν, then × Avogadro constant), and deduce a group from successive ionisation energies.
 
 ## Official syllabus
 

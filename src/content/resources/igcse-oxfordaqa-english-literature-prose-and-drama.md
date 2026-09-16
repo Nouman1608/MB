@@ -137,4 +137,4 @@ November 2027 resit series, the real final sitting (not the May/June
 
 OxfordAQA International GCSE English Literature (9275) specification,
 Version 5.1, for exams May/June 2018 onwards —
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-international-gcse-english-literature-specification-2018.pdf).
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-english-literature-specification-2018.pdf).

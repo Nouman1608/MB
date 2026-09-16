@@ -99,15 +99,17 @@ proton) rather than as a nucleophile (attacking the carbon).
 
 **SN2 (bimolecular substitution)** — the nucleophile attacks the
 halogen-bearing carbon from the side opposite the halogen, in a single step:
-as the new bond forms, the C–X bond breaks simultaneously. The rate depends
-on the concentration of both the halogenoalkane and the nucleophile. Primary
+as the new bond forms, the C–X bond breaks simultaneously. *(A Level
+extension, Topic 26, not required at AS: the rate depends on the
+concentration of both the halogenoalkane and the nucleophile.)* Primary
 halogenoalkanes react this way because the back side of the carbon is
 sterically unhindered — only a hydrogen and one alkyl group are in the way.
 
 **SN1 (unimolecular substitution)** — the C–X bond breaks first, in a slow
 step, forming a carbocation intermediate; the nucleophile then attacks the
-carbocation in a fast second step. The rate depends only on the
-concentration of the halogenoalkane. Tertiary halogenoalkanes react this way
+carbocation in a fast second step. *(A Level extension, Topic 26, not
+required at AS: the rate depends only on the concentration of the
+halogenoalkane.)* Tertiary halogenoalkanes react this way
 because three alkyl groups donate electron density inductively, stabilising
 the carbocation intermediate enough for it to form at a reasonable rate —
 the same stabilisation logic as Markovnikov addition in alkenes.
@@ -132,8 +134,8 @@ in which a precipitate appears, and explain why.
 
 All three are primary halogenoalkanes, so all three react by the SN2
 mechanism with water acting as the nucleophile, releasing the halide ion
-which then precipitates with Ag⁺. The rate-determining step is breaking the
-C–X bond, so the weakest bond breaks fastest. Bond strength decreases C–Cl >
+which then precipitates with Ag⁺. The single SN2 step includes breaking the
+C–X bond, so the weaker that bond, the faster the substitution. Bond strength decreases C–Cl >
 C–Br > C–I, so reactivity — and precipitate formation — increases in the
 reverse order: **iodobutane reacts fastest (yellow precipitate of
 AgI appears first), then bromobutane (cream, AgBr), then chlorobutane
@@ -163,8 +165,8 @@ HX(g)/PCl₃/PCl₅/SOCl₂/KCl+conc. acid
 - Nucleophilic substitution products: NaOH(aq) → alcohol; KCN/ethanol →
 nitrile; NH₃/ethanol → amine; AgNO₃(aq)/ethanol → halide identification
 - Elimination: NaOH in ethanol + heat → alkene
-- SN1 vs SN2: mechanism, rate dependence, and which halogenoalkane class
-favours which
+- SN1 vs SN2: mechanism, the inductive effect of alkyl groups, and which
+halogenoalkane class favours which (rate dependence is A Level extension)
 - C–X bond strength trend and its effect on reactivity and the AgNO₃ test
 
 ## Related resources

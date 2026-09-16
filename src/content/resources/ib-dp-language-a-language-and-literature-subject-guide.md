@@ -140,8 +140,9 @@ weighting.
 Unlike a traditional literature course, Language A: Language and Literature treats non-literary
 texts — advertisements, speeches, articles, social media posts — as objects of serious critical
 analysis in their own right, not merely as a lighter supplement to literary study. Paper 1's guided
-textual analysis in particular is built around this principle: candidates analyse two previously
-unseen **non-literary** texts, from different text types, using close reading skills developed
+textual analysis in particular is built around this principle: the paper sets two previously
+unseen **non-literary** texts from different text types (SL candidates analyse one of them, HL
+candidates both), and candidates apply close reading skills developed
 across the whole course, reflecting the course's core claim that language shapes meaning regardless
 of whether a text calls itself "literature." (Paper 1's texts are non-literary at both levels; it is
 Language A: Literature's Paper 1 that is exclusively literary.)

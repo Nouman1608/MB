@@ -64,7 +64,7 @@ an estimate step by step rather than simply stating a number.
 ## Official syllabus
 
 OxfordAQA International AS & A-Level Physics specification PDF —
-[oxfordaqa.com](https://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-as-and-a-level-physics-specification.pdf).
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-as-and-a-level-physics-specification.pdf).
 
 ## SI units, prefixes and homogeneity
 

@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-nature-of-law-and-the-english-legal-system-7162"
-description: "Condensed recall notes on law making, precedent, statutory interpretation, the courts, legal personnel and law and morality for AQA A Level Law 7162."
+description: "Condensed recall notes on law making, precedent, statutory interpretation, the courts, legal personnel, access to justice, law and society, fault, and law and morality for AQA A Level Law 7162."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -41,7 +41,7 @@ The criticism is that thousands of statutory instruments a year are made by **un
 
 **Practice Statement 1966** allows the Supreme Court to depart from its own decisions "when it appears right to do so" — used sparingly to preserve certainty.
 
-**Avoiding precedent:** **distinguishing** (material facts differ — the everyday technique), **overruling** (a higher court declares an earlier decision in a *different* case wrong), **reversing** (a higher court changes the outcome of the *same* case on appeal).
+**Operation of precedent — this specification's three:** **following** (applying a binding decision on sufficiently similar material facts), **distinguishing** (material facts differ — the everyday way of avoiding a precedent), **overruling** (a higher court declares an earlier decision in a *different* case wrong). *Reversing* — a higher court changing the outcome of the *same* case on appeal — is not on this specification's list, so do not offer it as a way of avoiding a precedent.
 
 **Evaluation:** certainty, consistency, flexibility, and detailed real-case rules — against rigidity, complexity from volume, **retrospective effect** (the parties could not have known the law), and the democratic objection to judicial law-making.
 
@@ -57,6 +57,8 @@ The criticism is that thousands of statutory instruments a year are made by **un
 **Aids:** intrinsic (title, preamble, definitions, schedules) and extrinsic (dictionaries, prior statutes, Law Commission reports, *Hansard* since *Pepper v Hart*).
 
 **Rules of language:** *ejusdem generis*, *expressio unius est exclusio alterius*, *noscitur a sociis*.
+
+**Two named influences:** **EU law** — courts had to read domestic law, as far as possible, to give effect to EU law, pushing them towards the purposive approach (*Pickstone v Freemans*); largely historical since withdrawal. **Human Rights Act 1998 s 3** — read legislation compatibly with Convention rights "so far as it is possible to do so" (*Ghaidan v Godin-Mendoza*); if impossible, a s 4 **declaration of incompatibility** (*Bellinger v Bellinger*), and the Act stays in force.
 
 **Every evaluation question is a version of one tension:** the literal rule respects parliamentary supremacy but can defeat Parliament's evident intention; the purposive approach achieves justice but risks judges legislating.
 
@@ -79,6 +81,12 @@ Offence classification: summary, either-way, indictable.
 
 Legal aid, conditional fee agreements, Citizens Advice, law centres, trade unions, insurance. **LASPO 2012 substantially reduced civil legal aid**, and the standard essay is whether access to justice remains adequate — argue the cost-saving case against the access case, then judge.
 
+## Law and society, and fault
+
+**Role of law:** order and social control, protecting people and property, regulating relationships, resolving disputes peacefully. It creates **enforceable rights** and must **balance competing interests**, e.g. public against private (liberty against public safety; a landowner against a neighbour in nuisance).
+
+**Fault:** criminal — **mens rea** alongside actus reus, and degree of fault shapes offence and sentence (murder versus manslaughter); **strict liability** is the exception. Civil — negligence requires falling below the reasonable person standard; **contributory negligence** reduces damages; **vicarious liability** imposes liability without personal fault. Evaluate: fault links liability to blame, but no-fault liability can be justified to protect the public or compensate victims.
+
 ## Law and morality
 
 Law is enforced by the state; morality by conscience and social pressure. They overlap but are not identical — adultery is widely regarded as immoral yet lawful; parking offences are unlawful but not immoral.
@@ -93,7 +101,7 @@ Law is enforced by the state; morality by conscience and social pressure. They o
 
 - Treating *obiter dicta* as binding.
 - Stating parliamentary supremacy without its practical limits.
-- Confusing overruling with reversing.
+- Confusing overruling with reversing, or listing reversing as a way of avoiding precedent — this specification names following, overruling and distinguishing.
 - Naming an interpretation rule without applying it to the facts.
 - Recounting Hart–Devlin rather than applying it.
 - Omitting case names — cases are the evidence in Law.

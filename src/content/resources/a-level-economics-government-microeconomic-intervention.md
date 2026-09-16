@@ -58,7 +58,7 @@ mechanism and consequences:
 | Direct provision of goods and services | The government supplies the good or service itself, bypassing the market mechanism entirely |
 | Maximum and minimum prices | Legally caps or floors the price a good can be sold at, creating shortages (maximum prices set below equilibrium) or surpluses (minimum prices set above equilibrium) |
 | Buffer stock schemes | The government or an agency buys and stores a commodity when price is low and sells from storage when price is high, aiming to stabilise price |
-| Provision of information | Addresses market failure caused by consumers or producers lacking the information needed to make efficient decisions, without directly altering price |
+| Provision of information | Addresses the under- or over-consumption caused by consumers or producers lacking the information needed to make well-informed decisions, without directly altering price |
 
 You need to understand the **impact and incidence** of indirect taxes
 and subsidies specifically -- incidence meaning how the burden (of a

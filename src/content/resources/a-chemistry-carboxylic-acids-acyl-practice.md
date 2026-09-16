@@ -107,7 +107,7 @@ Related: [Carboxylic Acids and Acyl Chlorides revision notes](/resources/a-chemi
 
 **(c)** **Nucleophilic addition–elimination** [1].
 
-**(d)** The hydroxyl oxygen's lone pair delocalises into the carbonyl carbon more effectively than chlorine's lone pair does, so in an acyl chloride the carbonyl carbon carries a **greater δ+ charge** and is more strongly attacked by nucleophiles [1]. Chloride is also a **much better leaving group** than hydroxide, so it departs more readily once the nucleophile has attacked [1].
+**(d)** In a carboxylic acid, a lone pair on the **–OH oxygen delocalises into the C=O group**, partly cancelling the δ+ charge on the carbonyl carbon [1]. Chlorine's lone pairs, in larger 3p orbitals, overlap poorly with carbon's 2p orbital and delocalise far less, so in an acyl chloride the carbonyl carbon, bonded to two electronegative atoms (O and Cl), keeps a **greater δ+ charge** and is attacked more readily by nucleophiles [1]. Chloride is also a **much better leaving group** than hydroxide, so it is lost readily in the elimination step once the nucleophile has added [1].
 
 **6. (a)** Concentrated **sulfuric acid catalyst**, heat under **reflux** [1] [1]. Disadvantage: the reaction is **reversible**, so the equilibrium yield is limited [1].
 

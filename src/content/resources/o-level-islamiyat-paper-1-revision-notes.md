@@ -99,17 +99,32 @@ unsupported label scores little.
 632  Farewell Sermon; death of the Prophet
 ```
 
-## The first Islamic community
+## Key events in Madinah (part of the Prophet's life, 1.3)
 
 - **Constitution of Madinah** — defined rights and duties of
   Muslims, Jews and other groups; established Madinah as a single
   community with the Prophet as arbiter.
-- **Muhajirun** (migrants from Makkah) paired with the **Ansar**
-  (helpers of Madinah) — a practical response to destitution and a
-  model of brotherhood.
 - The **Farewell Sermon** set out equality regardless of race, the
   sanctity of life and property, the rights of women, and the
   abolition of usury and blood feuds.
+
+## The first Islamic community (1.4) — organised by people
+
+The syllabus builds this sub-topic around **named groups of people**. Know the significant facts of
+their lives and be ready to explain the importance of their actions and experiences.
+
+- **The Prophet's wives** — for example **Khadijah**, his first wife and the first person to accept
+  his message, whose support sustained him in Makkah, and **Aisha**, later an important narrator of
+  Hadith.
+- **His descendants** — his children (including **Fatimah**), his grandchildren (including **Hasan**
+  and **Husayn**), and the line recognised among Shi'a Muslims as the **Imams**.
+- **His leading Companions** — the **Ten Blessed Companions**, his **Scribes** (such as **Zayd ibn
+  Thabit**, who wrote down revelation), and the other major figures of his ministry; for converts,
+  know how and why they accepted Islam and what it cost them.
+- **The Emigrants (Muhajirun) and Helpers (Ansar)** — the Muslims who left Makkah for Madinah and the
+  Muslims of Madinah who received them; the Prophet paired them in brotherhood on arrival.
+- **The four Rightly Guided Caliphs during his lifetime** — Abu Bakr, Umar, Uthman and Ali, studied
+  here for their lives and roles while the Prophet lived; their rule after his death is Paper 2.
 
 ## Exam traps
 
@@ -125,6 +140,9 @@ unsupported label scores little.
   examples better than another.
 - Running out of time on Questions 3–5 because Question 1 or 2 was
   over-written relative to its marks.
+- Answering a first-Islamic-community question (1.4) with events
+  alone — the topic is built around named people, so name them and
+  explain the importance of what they did.
 
 ## Self-test
 
@@ -134,6 +152,8 @@ unsupported label scores little.
 3. What specifically pushes an AO1 answer into the top band?
 4. Who compiled the Qur'an, and who standardised it?
 5. Why was the Constitution of Madinah significant?
+6. Which groups of people does the syllabus list under the first
+   Islamic community?
 
 **Answers:** 1. Question 1 and Question 2 are compulsory; two more
 must be answered from Questions 3–5. 2. 8 marks; candidates choose any
@@ -143,7 +163,12 @@ knowledge. 4. Abu Bakr compiled it after Yamama; Uthman standardised
 it and distributed official copies. 5. It bound Muslims, Jews and
 other groups into one community with defined rights and duties, and
 established the Prophet as arbiter — the first written constitution
-of the Islamic state.
+of the Islamic state. 6. The Prophet's wives; his descendants (his
+children, grandchildren and the line recognised among Shi'a Muslims as
+Imams); and his leading Companions, including the Ten Blessed
+Companions, his Scribes, the major figures of his ministry, the
+Emigrants and Helpers, and the four Rightly Guided Caliphs during his
+lifetime.
 
 ## Related resources
 

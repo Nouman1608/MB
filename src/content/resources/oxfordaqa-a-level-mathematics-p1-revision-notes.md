@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-p1-pure-maths-oxfordaqa-alevel-maths"
-description: "Condensed recall notes on algebra, quadratics, coordinate geometry, trigonometry and calculus for International AS Mathematics."
+description: "Condensed recall notes on algebra, quadratics, coordinate geometry and calculus for OxfordAQA 9660 Unit P1, with circle and trigonometry sections marked as Unit PSM1 content."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false

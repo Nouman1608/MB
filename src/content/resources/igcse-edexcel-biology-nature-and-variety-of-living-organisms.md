@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "the-nature-and-variety-of-living-organisms-edexcel-igcse-biology"
-description: "Characteristics of living organisms, cells and classification -- the opening topic of Pearson Edexcel International GCSE Biology (4BI1), an untiered, linear qualification."
+description: "Characteristics of living organisms and the variety of living organisms (plants, animals, fungi, protoctists, bacteria and pathogens) -- the opening topic of Pearson Edexcel International GCSE Biology (4BI1), an untiered, linear qualification."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
@@ -25,10 +25,12 @@ is untiered and linear, assessed across two written papers.
 
 ## Where this fits in 4BI1
 
-Topic 1 establishes the characteristics that define living organisms
-and the basics of cell structure and classification, providing the
-foundation for the four topics that follow: Structures and functions
-in living organisms, Reproduction and inheritance, Ecology and the
+Topic 1 establishes the characteristics shared by living organisms
+and the variety of living organisms (the common features of plants,
+animals, fungi, protoctists and bacteria, and pathogens including
+viruses). Cell structure is not part of Topic 1; it belongs to Topic 2.
+Topic 1 provides the foundation for the four topics that follow:
+Structure and functions in living organisms, Reproduction and inheritance, Ecology and the
 environment, and Use of biological resources.
 
 ## Syllabus coverage

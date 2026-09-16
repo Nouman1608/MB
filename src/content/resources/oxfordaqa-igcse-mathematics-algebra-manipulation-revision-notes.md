@@ -111,7 +111,7 @@ A student secure on the Core version of A5 (factorising x^2 + bx + c) is most of
 1. Expand (x − 2)(x + 3).
 2. Factorise x² − 9 (difference of two squares).
 3. Simplify x⁵ ÷ x².
-4. Why can't x²y³ and x³y² be combined by adding exponents as though they were **like terms**?
+4. Why can't x²y³ + x³y² be simplified by collecting them as **like terms**?
 5. What is the key difference between an equation and an identity?
 6. Make r the subject of A = pi r^2.
 

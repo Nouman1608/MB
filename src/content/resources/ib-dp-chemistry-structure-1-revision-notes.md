@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-chemistry-structure-1"
-description: "Condensed SL-level recall notes on Structure 1 -- particle theory, the nuclear atom, electron configurations, the mole and ideal gases -- for IB Diploma Programme Chemistry."
+description: "Condensed recall notes on Structure 1 -- particle theory, the nuclear atom, electron configurations, the mole and ideal gases, with the HL-only mass spectra and ionisation energy extensions -- for IB Diploma Programme Chemistry."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
@@ -74,7 +74,7 @@ five official sub-topics.
   than following the 3d⁴4s² / 3d⁹4s² pattern the aufbau order alone would predict.
 - The link between an element's electron configuration -- specifically its valence electrons --
   and its position in the periodic table (group and period).
-- **Ionisation energy** (SL): the energy needed to remove one mole of electrons from one mole of
+- **Ionisation energy** (HL only, Structure 1.3.6; the SL 1.3 content stops at orbitals): the energy needed to remove one mole of electrons from one mole of
   gaseous atoms (or ions) in their ground state. First ionisation energy generally increases across
   a period (greater nuclear charge, similar shielding) and decreases down a group (outer electron
   further from the nucleus, more shielding) -- the same reasoning used for reactivity trends
@@ -96,6 +96,42 @@ five official sub-topics.
 - The combined and ideal gas equations (pV = nRT), and using them to relate pressure, volume,
   temperature and moles of gas.
 - Standard temperature and pressure (STP) conventions used in gas calculations.
+
+## HL only: mass spectra and ionisation energies
+
+These are the HL-only extensions to 1.2 (one additional hour) and 1.3 (three additional hours).
+
+- **Interpreting a mass spectrum of an element (1.2, HL).** Each peak is one isotope. The
+  m/z value identifies the isotope (for an ion with a 1+ charge, m/z equals the isotope's relative
+  mass) and the peak height, or percentage abundance, gives its relative abundance. Relative atomic
+  mass is the abundance-weighted mean:
+
+  ```
+  Peaks: m/z 24 (79%), m/z 25 (10%), m/z 26 (11%)   -> magnesium
+  Ar = (24 x 79 + 25 x 10 + 26 x 11) / 100 = 2432 / 100 = 24.32
+  ```
+
+- **Ionisation energy from the convergence limit (1.3, HL).** At the convergence limit of the
+  hydrogen emission spectrum the electron is removed completely, so the photon energy there is the
+  ionisation energy of one atom: E = hν (or E = hc/λ if a wavelength is given). Multiply by the
+  Avogadro constant for a molar value:
+
+  ```
+  convergence frequency = 3.29 x 10^15 Hz
+  E(one atom) = 6.63 x 10^-34 J s x 3.29 x 10^15 Hz = 2.18 x 10^-18 J
+  IE = 2.18 x 10^-18 J x 6.02 x 10^23 mol^-1 = 1.31 x 10^6 J mol^-1 (1310 kJ mol^-1 to 3 s.f.)
+  ```
+
+- **Successive ionisation energies (1.3, HL).** Each successive ionisation energy is larger than
+  the one before, because each electron is removed from an increasingly positive ion. A **large
+  jump** appears when the next electron must come from a new shell closer to the nucleus, with
+  less shielding. The number of electrons removed before the first large jump is the number of
+  outer-shell electrons, which gives the group:
+
+  ```
+  aluminium, kJ mol^-1:  IE1 578   IE2 1817   IE3 2745   IE4 11577
+  largest jump between IE3 and IE4 -> 3 outer electrons -> group 13
+  ```
 
 ## Worked example: mass to moles to particles
 
@@ -133,6 +169,8 @@ questions; the only thing that changes is which quantity you're solving for.
    chemical properties but different physical properties such as density.
 3. What is the difference between an empirical formula and a molecular formula?
 4. Why does relative atomic mass often appear as a non-integer value on the periodic table?
+5. *(HL)* The first five successive ionisation energies of an element are 738, 1451, 7733, 10543
+   and 13630 kJ mol⁻¹. Deduce its group, and explain your reasoning.
 
 **Answers:** 1. Negligible particle volume compared with the container, no intermolecular forces
 between particles, and perfectly elastic collisions between particles (and with the container
@@ -143,7 +181,10 @@ charge or electron arrangement. 3. An empirical formula gives the simplest whole
 atoms of each element in a compound; a molecular formula gives the actual number of atoms of each
 element in one molecule, which may be a whole-number multiple of the empirical formula. 4. Because
 it is a weighted average of the masses of all naturally occurring isotopes of the element, weighted
-by their relative abundance -- not the mass of a single atom.
+by their relative abundance -- not the mass of a single atom. 5. *(HL)* Group 2: the largest jump
+comes between the second (1451) and third (7733) ionisation energies, so two electrons are removed
+from the outer shell before the third must come from a full inner shell closer to the nucleus with
+less shielding (these are the values for magnesium).
 
 ## How to approach it
 

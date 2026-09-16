@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-nitrogen-compounds"
     subtopic: "as-nitriles-and-hydroxynitriles"
-description: "Original exam-style practice questions with full worked answers on amines, basicity, preparation and nitriles for AS Chemistry."
+description: "Original exam-style practice questions with full worked answers on primary amine preparation, nitriles and hydroxynitriles for AS Chemistry, with clearly labelled A Level extension questions on amine basicity and further amine routes."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
 featured: false
@@ -34,11 +34,11 @@ Related: [Nitrogen Compounds revision notes](/resources/as-chemistry-nitrogen-co
 
 ## Section A
 
-**1.** Explain why amines are basic, referring to the nitrogen lone pair. **[2]**
+**1.** Ethanenitrile, CH₃CN, is heated under reflux with dilute sodium hydroxide, and the mixture is then acidified. Name the organic product present before acidification and the organic product obtained after acidification. **[2]**
 
 ## Section B
 
-**2.** Ethylamine can be prepared from bromoethane or from ethanenitrile, two routes worth comparing directly.
+**2.** Ethylamine can be prepared from bromoethane.
 
 **(a)** Give the reagent and conditions for the reaction of bromoethane with ammonia, and name the mechanism. **[3]**
 **(b)** Explain why a mixture of products is obtained and how the yield of the primary amine can be improved. **[3]**
@@ -75,7 +75,7 @@ Syllabus outcome 19.1 is limited to **one production reaction** (a halogenoalkan
 
 ## Answers
 
-**1.** The nitrogen atom has a **lone pair of electrons** [1] which can **accept a proton**, forming a dative covalent bond [1] — the same reasoning that explains ammonia's own basicity.
+**1.** Before acidification: **sodium ethanoate**, CH₃COONa (accept the ethanoate ion; ammonia is also released) [1]. After acidification: **ethanoic acid**, CH₃COOH [1].
 
 **2. (a)** **Excess concentrated ammonia in ethanol**, heated **in a sealed tube** [1] [1]; **nucleophilic substitution** [1].
 **(b)** The primary amine formed is **itself a nucleophile and can attack more bromoethane** [1], giving secondary and tertiary amines and finally a quaternary ammonium salt [1]. Using a **large excess of ammonia** makes it more likely that a bromoethane molecule meets ammonia rather than the amine, raising the yield of the primary amine [1].
@@ -100,7 +100,8 @@ Syllabus outcome 19.1 is limited to **one production reaction** (a halogenoalkan
 
 ## Where marks are usually lost
 
-- Saying amines are basic because they contain nitrogen, without mentioning the lone pair.
+- Stopping at the carboxylate salt after alkaline hydrolysis of a nitrile — acidification is needed to obtain the free carboxylic acid.
+- (A Level extension questions) Saying amines are basic because they contain nitrogen, without mentioning the lone pair.
 - Omitting "excess ammonia" as the way to favour the primary amine.
 - Using aqueous rather than ethanolic KCN when preparing a nitrile from a halogenoalkane — aqueous conditions favour hydrolysis to the alcohol instead of substitution to the nitrile.
 - Stating that a hydroxynitrile forms as a racemic mixture without explaining *why*, in terms of the planar carbonyl compound being attacked from either face with equal probability — a bare assertion earns fewer marks than the explanation.

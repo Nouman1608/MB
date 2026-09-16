@@ -88,7 +88,7 @@ and the [IB DP Business Management syllabus guide](/resources/ib-dp-business-man
 ## Why this set stays calculation-led
 
 Every Section B and C question in this set requires at least one numerical calculation, mirroring how
-Paper 2's unseen stimulus material is structured around a real (fictional) business's financial data
+Paper 2's unseen stimulus material is structured around a business's financial data
 rather than abstract definitions. Question 7 deliberately stacks a qualitative explanation (7a), a
 recommendation (7b), an HL-only ratio discussion (7c), and a full evaluate-style question (7d) into one
 scenario, because that is exactly the format Paper 2's final question typically takes -- testing

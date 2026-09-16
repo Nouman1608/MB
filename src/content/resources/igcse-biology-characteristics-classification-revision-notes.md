@@ -25,13 +25,13 @@ Condensed for the final weeks. For the full explanation, use the
 
 | Letter | Process | Definition |
 |---|---|---|
-| **M** | Movement | An action causing a change of position or place |
-| **R** | Respiration | Chemical reactions in cells that **break down nutrients to release energy** |
-| **S** | Sensitivity | Detecting and responding to changes in the internal or external environment |
+| **M** | Movement | An action by an organism or part of an organism causing a change of position or place |
+| **R** | Respiration | The chemical reactions in cells that **break down nutrient molecules and release energy for metabolism** |
+| **S** | Sensitivity | The ability to detect and respond to changes in the internal or external environment |
 | **G** | Growth | A **permanent** increase in size and dry mass |
-| **R** | Reproduction | Processes that make more of the same kind of organism |
-| **E** | Excretion | Removal of **the waste products of metabolism and substances in excess of requirements** |
-| **N** | Nutrition | Taking in materials for energy, growth and development |
+| **R** | Reproduction | The processes that make more of the same kind of organism |
+| **E** | Excretion | The removal of **the waste products of metabolism and substances in excess of requirements** |
+| **N** | Nutrition | The taking in of materials for energy, growth and development |
 
 Two definitions carry the marks and are usually the ones dropped:
 

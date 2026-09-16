@@ -132,11 +132,14 @@ specific problem it addresses.
 recognising the buy-low/sell-high stabilisation mechanism is
 distinct.
 
-## Government failure: the counterweight to intervention
+## Government failure: the counterweight to intervention (A Level 8.1.2)
 
-Every tool in 3.2 can also **fail** to achieve its aim, and examiners
-reward answers that weigh this against the intended benefit rather
-than assuming intervention automatically improves the outcome:
+The term **government failure**, with its causes and consequences, is
+A Level content (8.1.2) and is not named in the AS syllabus. At AS the
+same idea appears as the disadvantages and effectiveness of each 3.2
+method: every tool can also **fail** to achieve its aim, and answers
+should weigh this against the intended benefit rather than assuming
+intervention automatically improves the outcome:
 
 | Cause of government failure | Example |
 |---|---|

@@ -46,7 +46,7 @@ calculating anything; it is the fastest way to spot the resultant.
 ```
 F = m a        F in newtons, m in kg, a in m/s2
 
-weight:  W = m g       (g = 9.8 or 10 N/kg)
+weight:  W = m g       (g ≈ 9.8 N/kg on Earth)
 ```
 
 **Mass** is the amount of matter in kg and never changes. **Weight** is a force in newtons and changes with gravitational field strength.

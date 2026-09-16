@@ -99,8 +99,10 @@ Soil composition questions typically use **"describe,"** expecting the named com
 erosion-strategy questions more often use **"discuss the benefits and limitations,"** the syllabus's
 own stem for weighing a strategy's effectiveness against its cost or practicality in the given scenario,
 not simply naming it. Paper 1 (Principles of Environmental Management) and Paper 2 (Environmental
-Management in Context) are equally weighted and the same length, and both include short-answer,
-structured and extended-response questions based on source material — the real difference between them
+Management in Context) are equally weighted and the same length (1 hour 45 minutes, 80 marks each), and
+both set extended response questions based on source material. The syllabus describes Paper 1 as
+short-answer and structured questions, and Paper 2 as short-answer, data processing and analysis
+questions, with practical method-based (fieldwork) questions limited to Paper 2. The bigger difference
 is in assessment-objective emphasis: Paper 1 leans towards knowledge and recall (AO1 is 55% of its
 marks), Paper 2 towards analysis and judgement (AO3 is 40% of its marks). Preparing separate answer
 structures for the two command-word families above — factual description versus weighed discussion —
@@ -114,9 +116,10 @@ avoids under-answering a question that asks for more than recall, on either pape
   production."
 - Answering "discuss the benefits and limitations" questions on erosion strategies by only naming
   strategies, without weighing effectiveness against cost or practicality.
-- Treating "structured questions" as something only Paper 2 has, or Paper 1 as a pure-recall paper —
-  both papers combine short-answer, structured and extended-response questions; they differ in AO
-  emphasis, not question style.
+- Treating Paper 1 as a pure-recall paper, or structured questions as Paper 2's feature — the syllabus
+  gives Paper 1 short-answer and structured questions and Paper 2 short-answer, data processing and
+  analysis questions, both with extended response on source material; the papers also differ in AO
+  emphasis (Paper 1 AO1 55%, Paper 2 AO3 40%).
 
 ## Self-test
 

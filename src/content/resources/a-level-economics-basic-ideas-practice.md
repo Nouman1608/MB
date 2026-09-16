@@ -44,7 +44,7 @@ Related: [Basic Economic Ideas revision notes](/resources/a-level-economics-basi
 
 **(a)** State the two defining characteristics of a public good. **[2]**
 
-**(b)** Explain, using the free-rider problem, why the market fails to provide street lighting. **[4]**
+**(b)** Explain, using the free-rider problem, why a free market does not provide street lighting. **[4]**
 
 **(c)** Explain why healthcare is a merit good rather than a public good. **[3]**
 
@@ -108,7 +108,7 @@ A **normative** statement contains a **value judgement** and cannot be tested [1
 
 **6. (a)** **What** to produce [1], **how** to produce it [1], and **for whom** to produce it [1].
 
-**(b)** **Market economy** — strength: efficiency, choice and innovation [1]; weakness: inequality and market failure, including no provision of public goods [1]. **Planned economy** — strength: greater equity and provision of merit/public goods [1]; weakness: inefficiency from the lack of a profit incentive and poor information [1].
+**(b)** **Market economy** — strength: efficiency, choice and innovation [1]; weakness: inequality, or the non-provision of public goods [1]. **Planned economy** — strength: greater equity and provision of merit/public goods [1]; weakness: inefficiency from the lack of a profit incentive and poor information [1].
 
 **(c)** Because a purely market or purely planned economy each carry **significant weaknesses** [1], most real economies **combine both** to balance efficiency against equity — the practical question is usually the **degree** of intervention, not a binary choice [1].
 

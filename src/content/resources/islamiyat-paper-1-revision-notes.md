@@ -49,11 +49,28 @@ Condensed for the final weeks. For the full explanation, use the
 632  Farewell Sermon; death of the Prophet
 ```
 
-## The first Islamic community
+## Key events in Madinah (part of the Prophet's life, 1.3)
 
 - **Constitution of Madinah** — defined rights and duties of Muslims, Jews and other groups; established Madinah as a single community with the Prophet as arbiter.
-- **Muhajirun** (migrants from Makkah) were paired with the **Ansar** (helpers of Madinah) — a practical solution to destitution and a model of brotherhood.
 - The **Farewell Sermon** set out equality regardless of race, the sanctity of life and property, rights of women, and the abolition of usury and blood feuds.
+
+## The first Islamic community (1.4) — organised by people
+
+The syllabus builds this sub-topic around **named groups of people**. Know the significant facts of
+their lives and be ready to explain the importance of their actions and experiences.
+
+- **The Prophet's wives** — for example **Khadijah**, his first wife and the first person to accept
+  his message, whose support sustained him in Makkah, and **Aisha**, later an important narrator of
+  Hadith.
+- **His descendants** — his children (including **Fatimah**), his grandchildren (including **Hasan**
+  and **Husayn**), and the line recognised among Shi'a Muslims as the **Imams**.
+- **His leading Companions** — the **Ten Blessed Companions**, his **Scribes** (such as **Zayd ibn
+  Thabit**, who wrote down revelation), and the other major figures of his ministry; for converts,
+  know how and why they accepted Islam and what it cost them.
+- **The Emigrants (Muhajirun) and Helpers (Ansar)** — the Muslims who left Makkah for Madinah and the
+  Muslims of Madinah who received them; the Prophet paired them in brotherhood on arrival.
+- **The four Rightly Guided Caliphs during his lifetime** — Abu Bakr, Umar, Uthman and Ali, studied
+  here for their lives and roles while the Prophet lived; their rule after his death is Paper 2.
 
 ## Battle of Badr — the detail examiners reward
 
@@ -92,7 +109,8 @@ the event covered under "The Qur'an — key facts" above.
 - Uhud was a **setback**, not a total defeat.
 - The Hijra marks the start of the Islamic calendar, not the Prophet's birth.
 - Always support a point with a specific event, date or Qur'anic reference.
-- Omitting the Ridda wars when asked about Abu Bakr's achievements — they are often the strongest part of the answer.
+- Answering a first-Islamic-community question (1.4) with events alone — the topic is built around named people, so name them and explain the importance of what they did.
+- Writing about a Caliph's rule after the Prophet's death (for example the Ridda wars) in a Paper 1 answer — that is Paper 2 content; on Paper 1 the Caliphs are studied for their lives during the Prophet's lifetime.
 - Giving only "the Muslims won at Badr" without the numbers, the securing of the wells, or the treatment of prisoners that examiners look for.
 
 ## Self-test
@@ -103,6 +121,6 @@ the event covered under "The Qur'an — key facts" above.
 4. What went wrong at Uhud?
 5. Name three principles from the Farewell Sermon.
 6. Why did Hudhayfah warn Uthman about how the Qur'an was being recited?
-7. What did the Ridda wars establish about the basis of allegiance to the Muslim state?
+7. Which groups of people does the syllabus list under the first Islamic community?
 
-**Answers:** 1. Abu Bakr compiled it after Yamama; Uthman standardised it and distributed official copies. 2. Makkan are generally shorter and focus on tawhid, the afterlife and moral conduct; Madinan are longer and address law, community organisation and social order. 3. It bound Muslims, Jews and other groups into one community with defined rights and duties, and established the Prophet as arbiter — the first written constitution of the Islamic state. 4. Archers abandoned their position to collect spoils, allowing a counter-attack from the rear. 5. Any three: equality regardless of race, sanctity of life and property, rights of women, abolition of usury, ending of blood feuds. 6. Because Muslims in different regions had begun reciting the Qur'an in different dialects during the campaigns in Armenia and Azerbaijan, risking division over the text itself. 7. That allegiance was owed to Islam and the Muslim state as a whole, not personally to the Prophet, which is why the community held together after his death rather than fragmenting.
+**Answers:** 1. Abu Bakr compiled it after Yamama; Uthman standardised it and distributed official copies. 2. Makkan are generally shorter and focus on tawhid, the afterlife and moral conduct; Madinan are longer and address law, community organisation and social order. 3. It bound Muslims, Jews and other groups into one community with defined rights and duties, and established the Prophet as arbiter — the first written constitution of the Islamic state. 4. Archers abandoned their position to collect spoils, allowing a counter-attack from the rear. 5. Any three: equality regardless of race, sanctity of life and property, rights of women, abolition of usury, ending of blood feuds. 6. Because Muslims in different regions had begun reciting the Qur'an in different dialects during the campaigns in Armenia and Azerbaijan, risking division over the text itself. 7. The Prophet's wives; his descendants (his children, grandchildren and the line recognised among Shi'a Muslims as Imams); and his leading Companions, including the Ten Blessed Companions, his Scribes, the major figures of his ministry, the Emigrants and Helpers, and the four Rightly Guided Caliphs during his lifetime.

@@ -112,4 +112,4 @@ The specification itself introduces Topic 1 by noting atoms are the building blo
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 5.3 —
-[oxfordaqaexams.org.uk/9202](https://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-gcse-chemistry-specification.pdf).
+[oxfordaqa.com/9202](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-gcse-chemistry-specification.pdf).

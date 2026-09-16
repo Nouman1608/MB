@@ -55,9 +55,10 @@ weaknesses of each system
 - 1.5 Production possibility curves — drawing, interpreting and using
 PPC diagrams to illustrate opportunity cost, efficiency and economic
 growth
-- 1.6 Classification of goods and services — distinguishing private,
-public, merit and demerit goods, and the market failure implications
-of each
+- 1.6 Classification of goods and services — distinguishing free,
+private (economic) and public goods, and defining merit and demerit
+goods by under- and over-consumption resulting from imperfect
+information in the market
 
 ## How to approach it
 
@@ -78,8 +79,8 @@ economic growth — this diagram appears across so many later essay and
 data-response questions that fluency here has an outsized payoff
 relative to the single sub-topic it is nominally attached to. For 1.6, be precise about why public goods are
 under-provided by markets (non-excludability and non-rivalry) rather
-than describing them only through examples — the underlying market
-failure mechanism is what examiners test.
+than describing them only through examples — the free-rider
+mechanism is what examiners test.
 
 ## Positive versus normative statements
 
@@ -112,9 +113,15 @@ use doesn't reduce availability for another). Together these create the free-rid
 nobody can be excluded from benefiting, there is little incentive for anyone to pay voluntarily,
 so a private firm cannot profitably supply the good even though it delivers genuine value to
 society. This is why public goods (national defence, street lighting) are typically provided
-directly by the government rather than left to the market, which distinguishes them from merit
-goods (positively regarded but still excludable and rivalrous, such as education), where the
-market failure is under-consumption rather than complete absence of provision.
+directly by the government rather than left to the market. Merit goods are classified on a different
+axis: the syllabus defines them by **under-consumption as a result of imperfect information** in the
+market — consumers underestimate the private benefit of, for example, education or vaccination, so they
+buy less than they would if fully informed. Demerit goods are the mirror case, **over-consumed as a
+result of imperfect information** because consumers underestimate the private harm (for example,
+tobacco). Whether a good is excludable or rival does not make it a merit good; the defining feature
+is the information problem, and the result is under-consumption rather than complete absence of
+provision. (Externalities and market failure are A Level content, Topic 7, and are not needed for
+this AS classification.)
 
 ## Official syllabus
 

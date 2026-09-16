@@ -58,7 +58,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 Made from the carboxylic acid using **SOCl₂** (or PCl₅).
 
-**Acyl chlorides are far more reactive than carboxylic acids** because chlorine is strongly electronegative and a good leaving group, so the carbonyl carbon carries a greater δ+ charge and is more readily attacked by nucleophiles.
+**Acyl chlorides are far more reactive than carboxylic acids** because the carbonyl carbon is bonded to two electronegative atoms (O and Cl) and, unlike the –OH oxygen of an acid, chlorine delocalises little lone-pair density into the C=O group, so the carbonyl carbon keeps a greater δ+ charge and is more readily attacked by nucleophiles; chloride is also a good leaving group.
 
 **All reactions produce HCl** — visible as steamy white fumes, which is the practical identification.
 

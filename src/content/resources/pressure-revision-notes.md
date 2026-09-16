@@ -30,7 +30,7 @@ p = F / A            p in pascals (Pa), F in N, A in m2
                      1 Pa = 1 N/m2
 
 PRESSURE IN A LIQUID (at depth h)
-p = rho g h          rho = density (kg/m3), g = 9.8 or 10 N/kg
+p = rho g h          rho = density (kg/m3), g ≈ 9.8 N/kg on Earth
                      h = DEPTH below the surface
 ```
 
@@ -70,13 +70,13 @@ Mercury is used rather than water because its high density keeps the column a ma
 ## Worked example
 
 A tank holds water 2.5 m deep. Find the pressure at the bottom.
-(ρ = 1000 kg/m³, g = 10 N/kg)
+(ρ = 1000 kg/m³, g = 9.8 N/kg)
 
 ```
-p = rho g h = 1000 x 10 x 2.5 = 25 000 Pa
+p = rho g h = 1000 x 9.8 x 2.5 = 24 500 Pa
 
 Total pressure including atmosphere:
-25 000 + 100 000 = 125 000 Pa
+24 500 + 100 000 = 124 500 Pa
 ```
 
 Read the question carefully — "pressure due to the water" excludes atmospheric; "total pressure" includes it.

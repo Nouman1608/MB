@@ -8,7 +8,7 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Business Management"]
 order: 1
-description: "Paper-by-paper exam preparation for IB Diploma Programme Business Management -- how to use the pre-released Paper 1 case study, timing strategy across the papers, a worked scenario and a before/during-exam checklist."
+description: "Paper-by-paper exam preparation for IB Diploma Programme Business Management -- how to use the pre-released Paper 1 statement, timing strategy across the papers, a worked scenario and a before/during-exam checklist."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-07
 featured: false
@@ -88,8 +88,8 @@ Step 4 -- reach a judgement:     Recommend a course of action and state what it
 ```
 
 This concept-then-tool-then-judgement structure is the same shape "recommend and justify" and
-"evaluate" questions reward across every paper, whether the stimulus is pre-released (Paper 1) or
-fully unseen (Paper 2/3).
+"evaluate" questions reward across every paper, whether the stimulus is partly pre-released (Paper 1's
+statement, ahead of an unseen case study) or fully unseen (Paper 2/3).
 
 ## Before/during exam checklist
 

@@ -62,7 +62,7 @@ Choosing capital goods over consumer goods today shifts the PPC further out in f
 
 | System | Allocation | Strength | Weakness |
 |---|---|---|---|
-| **Market** | Price mechanism | Efficiency, choice, innovation | Inequality, market failure, no public goods |
+| **Market** | Price mechanism | Efficiency, choice, innovation | Inequality; public goods not provided; merit goods under-consumed and demerit goods over-consumed |
 | **Planned** | Government | Equity, provision of merit and public goods | Inefficiency, no incentive, poor information |
 | **Mixed** | Both | Balances the two | Requires effective regulation |
 
@@ -70,18 +70,19 @@ Almost every real economy is mixed; the exam question is usually about the **deg
 
 ## Classification of goods and services (1.6)
 
-AS Topic 1 classifies goods by **excludability** and **rivalry**, and by the market failure each type can cause if left to a free market.
+AS Topic 1 (1.6) classifies free, private and public goods by **scarcity**, **excludability** and **rivalry**, and defines merit and demerit goods by the **imperfect information** that leads to their under- or over-consumption.
 
 | Type | Explanation |
 |---|---|
-| **Private goods** | **Excludable** and **rival** — the type the free market allocates without difficulty |
+| **Free goods** | Not scarce — no opportunity cost in using them (e.g. air) |
+| **Private goods** (economic goods) | Scarce, **excludable** and **rival** — the type the free market allocates without difficulty |
 | **Public goods** | **Non-excludable** and **non-rival** — the free-rider problem means the market provides none |
-| **Merit goods** | **Under-consumed** relative to the social optimum because of **imperfect information** — consumers underestimate the private benefit |
-| **Demerit goods** | **Over-consumed** relative to the social optimum because of **imperfect information** — consumers underestimate the private harm |
+| **Merit goods** | **Under-consumed** as a result of **imperfect information** in the market — consumers underestimate the private benefit |
+| **Demerit goods** | **Over-consumed** as a result of **imperfect information** in the market — consumers underestimate the private harm |
 
 **Public goods must be defined by both properties.** Non-excludable means non-payers cannot be prevented from consuming; non-rival means one person's consumption does not reduce the amount available to others. Street lighting and national defence are the standard examples. Because of free riding, no private firm can profitably supply them — this is the strongest argument for government provision (Topic 3.1).
 
-Externalities, market structures and government failure are **A Level** content (Topics 7 and 8) and are not examined at AS — don't import them into a Topic 1 answer.
+Market failure, externalities, market structures and government failure are **A Level** content (Topics 7 and 8) and are not examined at AS — don't import them into a Topic 1 answer.
 
 ## Worked example: reading opportunity cost from a PPC
 

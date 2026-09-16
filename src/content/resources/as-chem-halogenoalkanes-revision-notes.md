@@ -101,7 +101,7 @@ order in which a precipitate appears.
 
 ```
 All three are PRIMARY -> all react by SN2, with water as the nucleophile
-Rate-determining step = breaking the C-X bond
+The single SN2 step includes breaking the C-X bond
 Bond strength: C-Cl > C-Br > C-I  ->  weakest bond breaks FASTEST
 
 Order of precipitate appearing (fastest to slowest):
@@ -135,7 +135,7 @@ mechanism choice.
 6. Name the three classes of AS organic compound from which a halogenoalkane can be made.
 7. Equal amounts of 1-chlorobutane and 1-iodobutane are warmed with aqueous silver nitrate. Which produces a precipitate faster, and why?
 
-**Answers:** 1. SN1 — the three electron-donating alkyl groups stabilise the carbocation intermediate. 2. An alkene, by elimination. 3. The C–I bond has the lowest bond enthalpy, so it breaks most readily; the trend follows bond strength, not polarity. 4. SN1 is slowest for a primary halogenoalkane and fastest for a tertiary one, because more alkyl groups stabilise the carbocation intermediate more effectively. 5. Ethanolic KCN — the nitrile formed adds one carbon. 6. Alkanes (free-radical substitution with X₂/UV), alkenes (electrophilic addition with X₂ or HX), and alcohols (substitution, e.g. with PCl₅). 7. 1-iodobutane, because the C–I bond is weaker than the C–Cl bond, so it breaks faster in the rate-determining step even though both react by the same SN2 mechanism.
+**Answers:** 1. SN1 — the three electron-donating alkyl groups stabilise the carbocation intermediate. 2. An alkene, by elimination. 3. The C–I bond has the lowest bond enthalpy, so it breaks most readily; the trend follows bond strength, not polarity. 4. SN1 is slowest for a primary halogenoalkane and fastest for a tertiary one, because more alkyl groups stabilise the carbocation intermediate more effectively. 5. Ethanolic KCN — the nitrile formed adds one carbon. 6. Alkanes (free-radical substitution with X₂/UV), alkenes (electrophilic addition with X₂ or HX), and alcohols (substitution, e.g. with PCl₅). 7. 1-iodobutane, because the C–I bond is weaker than the C–Cl bond, so it breaks more readily and the substitution is faster, even though both react by the same SN2 mechanism.
 
 For the full mechanism diagrams and production routes, see the
 [Halogenoalkanes study guide](/resources/as-halogenoalkanes/).

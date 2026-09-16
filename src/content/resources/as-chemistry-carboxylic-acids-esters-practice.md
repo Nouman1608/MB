@@ -48,25 +48,25 @@ Related: [Carboxylic Acids and Esters revision notes](/resources/as-chemistry-ca
 
 **4.** Compare the acid and alkaline hydrolysis of ethyl ethanoate, giving products and stating which goes to completion. **[5]**
 
-## A Level extension
+**5.** Explain why ethanoic acid has a much higher boiling point than propanone, despite a similar relative molecular mass. **[3]**
 
-Acyl chlorides are not part of the AS 9701 syllabus (Topic 18.2 covers only esterification and hydrolysis) — they are introduced at A Level in Topic 33. The question below is included as extension material only; see the [Carboxylic Acids and Acyl Chlorides study guide](/resources/a-carboxylic-acids-and-acyl-chlorides/) for the full A Level treatment.
+**6.** State **three** different methods by which a carboxylic acid can be prepared, giving the reagents or conditions for each. **[3]**
 
-**5.** Ethanoyl chloride reacts with ethanol.
-
-**(a)** Give the products and state one observation. **[3]**
-**(b)** Explain why acyl chlorides are far more reactive than carboxylic acids towards nucleophiles. **[3]**
-
-**6.** Explain why ethanoic acid has a much higher boiling point than propanone, despite a similar relative molecular mass. **[3]**
-
-**7.** State **three** different methods by which a carboxylic acid can be prepared, giving the reagents or conditions for each. **[3]**
-
-**8.** Ethanoic acid is reduced to ethanol using LiAlH₄.
+**7.** Ethanoic acid is reduced to ethanol using LiAlH₄.
 
 **(a)** Write an equation for the reaction, using [H] to represent the reducing agent. **[1]**
 **(b)** Explain why NaBH₄ cannot be used for this reduction instead. **[2]**
 
-**9.** Write a balanced equation for the reaction between ethanoic acid and sodium hydroxide, and name the type of reaction taking place. **[2]**
+**8.** Write a balanced equation for the reaction between ethanoic acid and sodium hydroxide, and name the type of reaction taking place. **[2]**
+
+## A Level extension (not AS content)
+
+Acyl chlorides are not part of the AS 9701 syllabus (Topic 18.2 covers only esterification and hydrolysis) — they are introduced at A Level in Topic 33. Question 9 is extension material only and is not part of the AS practice; see the [Carboxylic Acids and Acyl Chlorides study guide](/resources/a-carboxylic-acids-and-acyl-chlorides/) for the full A Level treatment.
+
+**9.** Ethanoyl chloride reacts with ethanol.
+
+**(a)** Give the products and state one observation. **[3]**
+**(b)** Explain why acyl chlorides are far more reactive than carboxylic acids towards nucleophiles. **[3]**
 
 ---
 
@@ -84,17 +84,19 @@ Acyl chlorides are not part of the AS 9701 syllabus (Topic 18.2 covers only este
 **4. Acid hydrolysis** — heat under reflux with **dilute sulfuric acid**, giving **ethanoic acid and ethanol** [1] [1]; it is **reversible and does not go to completion**, reaching an equilibrium mixture instead [1].
 **Alkaline hydrolysis** — heat under reflux with **sodium hydroxide**, giving **sodium ethanoate and ethanol** [1]; it **goes to completion**, because the carboxylate ion formed is negatively charged and not attacked by the alcohol, so nothing pulls the reaction backwards [1].
 
-**5. (a)** **Ethyl ethanoate** [1] and **hydrogen chloride** [1]; **steamy/misty white fumes** are seen, and the reaction is vigorous even at room temperature, unlike the carboxylic acid equivalent [1].
-**(b)** The **chlorine is highly electronegative and there are two electronegative atoms on the carbonyl carbon** [1], making the carbon **more strongly δ+ and more open to nucleophilic attack** [1]; in addition **Cl⁻ is a very good leaving group**, whereas in a carboxylic acid the OH group is a poor one and is not readily displaced [1].
+**5.** Ethanoic acid molecules form **hydrogen bonds with one another through the O–H group** [1], and in the pure liquid they form **dimers held by two hydrogen bonds** [1]. Propanone can only form **weaker permanent dipole–dipole attractions**, as it has no O–H, so much less energy is needed to separate its molecules [1].
 
-**6.** Ethanoic acid molecules form **hydrogen bonds with one another through the O–H group** [1], and in the pure liquid they form **dimers held by two hydrogen bonds** [1]. Propanone can only form **weaker permanent dipole–dipole attractions**, as it has no O–H, so much less energy is needed to separate its molecules [1].
+**6.** Any three of: **oxidation of a primary alcohol or aldehyde** with acidified K₂Cr₂O₇ or KMnO₄ under reflux [1]; **hydrolysis of a nitrile** with dilute acid or dilute alkali, followed by acidification [1]; **hydrolysis of an ester** with dilute acid or dilute alkali and heat, followed by acidification [1].
 
-**7.** Any three of: **oxidation of a primary alcohol or aldehyde** with acidified K₂Cr₂O₇ or KMnO₄ under reflux [1]; **hydrolysis of a nitrile** with dilute acid or dilute alkali, followed by acidification [1]; **hydrolysis of an ester** with dilute acid or dilute alkali and heat, followed by acidification [1].
-
-**8. (a)** CH₃COOH + 4[H] → CH₃CH₂OH + H₂O [1].
+**7. (a)** CH₃COOH + 4[H] → CH₃CH₂OH + H₂O [1].
 **(b)** A carboxylic acid is **harder to reduce than an aldehyde or ketone**, so a **stronger reducing agent** is needed [1]; **LiAlH₄ is strong enough, but NaBH₄ is not** [1].
 
-**9.** CH₃COOH + NaOH → CH₃COONa + H₂O [1]; this is a **neutralisation** reaction [1].
+**8.** CH₃COOH + NaOH → CH₃COONa + H₂O [1]; this is a **neutralisation** reaction [1].
+
+### A Level extension answer (not AS content)
+
+**9. (a)** **Ethyl ethanoate** [1] and **hydrogen chloride** [1]; **steamy/misty white fumes** are seen, and the reaction is vigorous even at room temperature, unlike the carboxylic acid equivalent [1].
+**(b)** The carbonyl carbon is bonded to **two electronegative atoms, O and Cl**, and chlorine donates its lone-pair density into the C=O far less effectively than the –OH oxygen of a carboxylic acid does [1], so the carbonyl carbon stays **more strongly δ+ and more open to nucleophilic attack** [1]; in addition **Cl⁻ is a very good leaving group**, whereas in a carboxylic acid the OH group is a poor one and is not readily displaced [1].
 
 ---
 
@@ -103,7 +105,7 @@ Acyl chlorides are not part of the AS 9701 syllabus (Topic 18.2 covers only este
 - Saying carboxylic acids are weak because they are dilute.
 - Forgetting that esterification is reversible.
 - Naming the ester the wrong way round — the alcohol supplies the alkyl part.
-- Giving only electronegativity, not the leaving group, for acyl chloride reactivity.
+- *(A Level extension, question 9)* Giving only the δ+ carbonyl carbon, not the leaving group, for acyl chloride reactivity.
 - Trying to reduce a carboxylic acid with NaBH₄ — it isn't strong enough; only LiAlH₄ can do it.
 - Naming acid hydrolysis and alkaline hydrolysis as if they give the same products — acid hydrolysis gives the free carboxylic acid, alkaline hydrolysis gives the carboxylate salt.
 - Forgetting that reaction with a reactive metal is a redox reaction (producing hydrogen), while reaction with an alkali is neutralisation — the same acid, two different reaction types depending on what it reacts with.

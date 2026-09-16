@@ -28,7 +28,7 @@ several points, so check which applies to you before revising.
 
 ## Purpose, mission and objectives
 
-**Mission** states why the business exists. **Corporate objectives** flow from it, then **functional objectives**, then **tactics**.
+**Mission** states why the business exists. **Corporate objectives** flow from it, then **functional objectives**, then **tactics**. *(Second-year note: under 9625, mission and the links between mission, objectives and strategy are A2 content, 3.3.1 Mission, objectives and strategy. First-year 3.1.1.1 requires setting objectives, strategy and tactics, and the business objectives of profit, growth, survival, cash flow, and personal, social and ethical objectives.)*
 
 Objectives must be **SMART**. "Increase sales" is not an objective; "increase sales by 10% within twelve months" is.
 

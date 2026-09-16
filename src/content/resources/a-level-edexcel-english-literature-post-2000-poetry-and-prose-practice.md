@@ -20,8 +20,8 @@ featured: false
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
-> practice on this content, and do not reference any specific set poem or prose
-> text — apply the method below to your own prescribed texts. They are **not**
+> practice on this content. The questions themselves do not name a specific set
+> poem or prose text — apply the method below to your own prescribed texts. They are **not**
 > reproduced past-paper questions. Examination boards hold copyright in their
 > own papers. Use these alongside the official past papers available free from
 > your board, since these questions are designed to build transferable exam
@@ -34,20 +34,23 @@ questions and two Section B questions below model the range of ways the exam can
 demand, so that practising against both sharpens your ability to adapt a prepared argument to
 whichever wording appears on the day, rather than relying on a single memorised essay shape.
 
-**Set texts (for your own revision, not needed to attempt the questions below):** the *Poems of the
-Decade* anthology (ISBN 978-0571325405) for Section A, and one of five prose titles for Section B —
+**Set texts (for your own revision, not needed to attempt the questions below):** 21 prescribed
+poems from the *Poems of the Decade* anthology (ISBN 978-0571325405) for Section A, and one of five prose titles for Section B —
 *Brooklyn*, *The Kite Runner*, *Life of Pi*, *Purple Hibiscus* and *The White Tiger* — both named in
 full, with authors, in the [study guide](/resources/a-level-edexcel-english-literature-post-2000-poetry-and-prose/)
 and [revision notes](/resources/a-level-edexcel-english-literature-post-2000-poetry-and-prose-revision-notes/).
 Both lists are revised by specification issue, not rotated by series.
 
+**The 21 prescribed poems (specification Appendix 5)** — choose both of your Section A poems from
+this list: *Eat Me* (Patience Agbabi); *Chainsaw Versus the Pampas Grass* (Simon Armitage); *Material* (Ros Barber); *History* (John Burnside); *An Easy Passage* (Julia Copus); *The Deliverer* (Tishani Doshi); *The Map Woman* (Carol Ann Duffy); *The Lammas Hireling* (Ian Duhig); *To My Nine-Year-Old Self* (Helen Dunmore); *A Minor Role* (U A Fanthorpe); *The Gun* (Vicki Feaver); *The Furthest Distances I’ve Travelled* (Leontia Flynn); *Giuseppe* (Roderick Ford); *Out of the Bag* (Seamus Heaney); *Effects* (Alan Jenkins); *Genetics* (Sinéad Morrissey); *From the Journal of a Disappointed Man* (Andrew Motion); *Look We Have Coming to Dover* (Daljit Nagra); *Please Hold* (Ciaran O’Driscoll); *On Her Blindness* (Adam Thorpe); *Ode on a Grayson Perry Urn* (Tim Turnbull).
+
 ---
 
-## Section A (practise using two poems from your *Poems of the Decade* anthology)
+## Section A (practise using two of the 21 prescribed *Poems of the Decade* poems)
 
-**1.** Compare how two poems from *Poems of the Decade* present a shared post-2000 concern (e.g. technology, conflict, identity, the environment). **[25]**
+**1.** Compare how two of the prescribed poems from *Poems of the Decade* present a shared post-2000 concern (e.g. technology, conflict, identity, the environment). **[25]**
 
-**1b.** (Alternative Section A question) Compare the ways two poems from *Poems of the Decade* use form and language to explore the relationship between the individual and the wider world. **[25]**
+**1b.** (Alternative Section A question) Compare the ways two of the prescribed poems from *Poems of the Decade* use form and language to explore the relationship between the individual and the wider world. **[25]**
 
 ## Section B (practise using your own post-2000 prose text)
 

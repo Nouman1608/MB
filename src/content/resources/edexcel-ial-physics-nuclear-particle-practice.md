@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-4-further-mechanics-fields-and-particles"
     subtopic: "nuclear-and-particle-physics"
-description: "Original exam-style practice questions with full worked answers on radioactive decay, half-life, binding energy, quarks and conservation laws."
+description: "Original exam-style practice questions with full worked answers on atomic structure, thermionic emission, particle accelerators and detectors, relativistic lifetimes, MeV and GeV units, quarks and conservation laws, for Unit 4 sub-topic 4.5."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
 featured: false
@@ -26,35 +26,34 @@ featured: false
 
 Related: [Nuclear and Particle Physics revision notes](/resources/edexcel-ial-physics-nuclear-particle-revision-notes/)
 
-> **Scope note:** this paper is filed under Unit 4 sub-topic 4.5. Questions 1–6 and 9–10 (radioactive decay types, half-life, decay constant, beta decay, mass defect/binding energy, fission/fusion, particle classification) sit substantially in Unit 5 sub-topic 5.4, and are included here as useful overlap/context alongside the genuine Unit 4.5 material. Questions 11–12 test the Unit 4.5 outcomes proper (thermionic emission, accelerators, MeV/MeV-c² conversions).
+> **Scope note:** every question in this paper tests Unit 4 sub-topic 4.5, Nuclear and Particle Physics. Radioactive decay, half-life, nuclear decay equations, mass deficit, binding energy, fission and fusion belong to Unit 5 sub-topic 5.4 and are practised in the [Nuclear Decay practice questions](/resources/edexcel-ial-physics-nuclear-decay-practice/).
 
 ---
 
 ## Section A
 
-**1.** Compare alpha, beta-minus and gamma radiation in terms of nature, penetration and ionising power. **[9]**
+**1.** State what is meant by the nucleon number and the proton number of a nucleus, and give both for the nucleus ⁵⁶₂₆Fe. **[3]**
 
 **2.** State the quark composition of a proton and a neutron. **[2]**
 
 ## Section B
 
-**3.** A sample has an activity of 640 Bq. After 24 hours the activity is 40 Bq.
+**3.** Electrons are released from a heated filament by thermionic emission and are accelerated from rest through a potential difference of 5.0 kV. (Mass of an electron = 9.11 × 10⁻³¹ kg; e = 1.60 × 10⁻¹⁹ C.)
 
-**(a)** Calculate the half-life. **[3]**
-**(b)** Calculate the decay constant. **[2]**
-**(c)** Calculate the activity after a further 12 hours. **[2]**
+**(a)** State the kinetic energy of each electron in keV, and calculate it in joules. **[2]**
+**(b)** Calculate the speed of the electrons. **[2]**
+**(c)** The beam then enters a uniform magnetic field at right angles to its velocity. Explain why the field changes the direction of the electrons but not their speed. **[2]**
 
-**4.** In beta-minus decay a neutron becomes a proton.
+**4.** Muons are created by cosmic rays about 15 km above the Earth's surface and travel towards the ground at a speed very close to the speed of light (take this speed as 3.0 × 10⁸ m s⁻¹). A muon at rest has a mean lifetime of 2.2 × 10⁻⁶ s.
 
-**(a)** Write the decay equation at the nucleon level, including the antineutrino. **[2]**
-**(b)** Explain why the antineutrino had to be proposed. **[3]**
-**(c)** State which fundamental force is responsible. **[1]**
+**(a)** Calculate the time, measured on Earth, for a muon to travel 15 km. **[1]**
+**(b)** Compare this time with the muon's lifetime at rest, and state what the comparison would suggest about the number of muons reaching the ground. **[2]**
+**(c)** Large numbers of muons are detected at ground level. Explain this observation. **[3]**
 
-**5.** The mass defect of a helium-4 nucleus is 5.05 × 10⁻²⁹ kg.
+**5.** In a particle accelerator, protons are each given a kinetic energy of 7.0 GeV.
 
-**(a)** Calculate the binding energy in joules and in MeV. **[3]**
-**(b)** Calculate the binding energy per nucleon in MeV. **[2]**
-**(c)** Explain, using a binding energy per nucleon curve, why both fission and fusion release energy. **[3]**
+**(a)** Convert this energy to joules. **[2]**
+**(b)** Explain why such high energies are needed to investigate the structure of nucleons. **[3]**
 
 **6.** Check whether this interaction is possible, testing charge, baryon number and lepton number: p + p → p + n + e⁺ + ν_e. **[4]**
 
@@ -74,21 +73,20 @@ Related: [Nuclear and Particle Physics revision notes](/resources/edexcel-ial-ph
 
 ## Answers
 
-**1. Alpha** — a **helium nucleus** [1], stopped by **paper or a few cm of air** [1], **most strongly ionising** [1]. **Beta-minus** — a **fast electron** [1], stopped by a **few mm of aluminium** [1], moderately ionising [1]. **Gamma** — a **high-energy electromagnetic photon** [1], reduced by **several cm of lead** [1], **least ionising** [1].
+**1.** The **nucleon number** (mass number) is the **total number of protons and neutrons** in the nucleus [1]; the **proton number** (atomic number) is the **number of protons** [1]. For ⁵⁶₂₆Fe: nucleon number **56**, proton number **26** (so 30 neutrons) [1].
 
 **2.** Proton = **uud** [1]; neutron = **udd** [1].
 
-**3. (a)** 640 → 320 → 160 → 80 → 40 is **four halvings** [1] in 24 hours [1], so the half-life is **6.0 hours** [1].
-**(b)** λ = ln 2 ÷ T½ = 0.693 ÷ 6.0 [1] = **0.116 h⁻¹** (3.2 × 10⁻⁵ s⁻¹) [1].
-**(c)** 12 hours is **two further half-lives** [1], so activity = 40 ÷ 4 = **10 Bq** [1].
+**3. (a)** Each electron gains **5.0 keV** [1]; E = eV = 1.60 × 10⁻¹⁹ × 5.0 × 10³ = **8.0 × 10⁻¹⁶ J** [1].
+**(b)** ½mv² = 8.0 × 10⁻¹⁶, so v = √(2 × 8.0 × 10⁻¹⁶ ÷ 9.11 × 10⁻³¹) [1] = **4.2 × 10⁷ m s⁻¹** [1].
+**(c)** The magnetic force (F = Bev) is **perpendicular to the velocity at every instant** [1], so it does **no work** on the electrons: their kinetic energy, and so their speed, is unchanged and only their direction changes [1].
 
-**4. (a)** ¹₀n → ¹₁p + ⁰₋₁e + ν̄_e [1], with nucleon and charge numbers balanced [1].
-**(b)** The emitted beta particles had a **continuous range of energies**, not a single value [1], which appeared to **violate the conservation of energy and momentum** [1]. A **third, almost undetectable particle carrying away the remaining energy** was proposed to preserve those conservation laws [1].
-**(c)** The **weak nuclear force** [1].
+**4. (a)** t = 15 × 10³ ÷ 3.0 × 10⁸ = **5.0 × 10⁻⁵ s** [1].
+**(b)** 5.0 × 10⁻⁵ ÷ 2.2 × 10⁻⁶ ≈ 23, so the journey lasts about **23 lifetimes** [1]; this suggests almost all the muons would decay before reaching the ground [1].
+**(c)** The muons move at speeds close to c, where the **relativistic increase in particle lifetime is significant** [1]. Measured by an observer on Earth, the lifetime of a fast-moving muon is **much longer** than its lifetime at rest [1]. So the journey lasts far fewer of these extended lifetimes, and a **significant fraction of the muons survive** to reach the ground [1].
 
-**5. (a)** E = Δmc² = 5.05 × 10⁻²⁹ × (3.00 × 10⁸)² [1] = **4.55 × 10⁻¹² J** [1]; ÷ 1.60 × 10⁻¹³ = **28.4 MeV** [1].
-**(b)** 28.4 ÷ 4 [1] = **7.1 MeV per nucleon** [1].
-**(c)** The curve **peaks near iron-56** [1]. **Fusion of light nuclei** moves the product **up the curve towards the peak**, increasing binding energy per nucleon and releasing energy [1]. **Fission of very heavy nuclei** also moves the products **towards the peak from the right**, so energy is again released [1].
+**5. (a)** 7.0 GeV = 7.0 × 10⁹ eV [1]; × 1.60 × 10⁻¹⁹ J eV⁻¹ = **1.1 × 10⁻⁹ J** [1].
+**(b)** To resolve structure inside a nucleon, the probing particle's **de Broglie wavelength must be comparable with or smaller than the nucleon** (about 10⁻¹⁵ m) [1]. Since λ = h/p, a very short wavelength needs a **very large momentum** [1], and therefore a **very high energy** [1].
 
 **6. Charge:** left 2, right 1 + 0 + 1 + 0 = 2 ✓ [1]. **Baryon number:** left 2, right 1 + 1 + 0 + 0 = 2 ✓ [1]. **Lepton number:** left 0, right 0 + 0 + (−1) + (+1) = 0 ✓ [1]. All three quantities are conserved, so the interaction **is possible** [1].
 
@@ -111,6 +109,7 @@ Related: [Nuclear and Particle Physics revision notes](/resources/edexcel-ial-ph
 - Giving the charge of a positron as −1.
 - Forgetting that an antineutrino has lepton number −1.
 - Using grams instead of kilograms in E = mc².
-- Saying only fission releases energy.
+- Forgetting to convert GeV or MeV to eV (× 10⁹ or × 10⁶) before multiplying by 1.60 × 10⁻¹⁹ J eV⁻¹.
+- Saying a muon's lifetime at rest changes: it is the lifetime **measured by an observer** for whom the particle moves close to c that increases.
 - Forgetting that the top quark's existence was predicted by the symmetry of the standard model before it was observed.
 - Confusing a baryon (three quarks) with a meson (a quark and an antiquark).

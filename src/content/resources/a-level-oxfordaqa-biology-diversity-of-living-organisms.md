@@ -13,7 +13,7 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-diversity-of-living-organisms-oxfordaqa-alevel-biology"
-description: "Classification, biodiversity, adaptation and natural selection, and field investigation technique, from Unit 1 of OxfordAQA International AS & A-Level Biology (9610), the first of two units forming the International AS."
+description: "Species and taxonomy, biodiversity within a community and random sampling in investigations of variation, from Unit 1 of OxfordAQA International AS & A-Level Biology (9610), the first of two units forming the International AS."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
@@ -44,15 +44,19 @@ and cell structure through to biodiversity (3.1.1-3.1.11). This guide
 covers the classification and ecology strand of Unit 1: species and
 taxonomy (3.1.10), biodiversity within a community and genetic
 diversity as measured by base, mRNA and amino acid sequences
-(3.1.11), and the field-sampling practical skills that go with them.
-Natural selection, directional and stabilising selection and the
-genetic bottleneck are **not** Unit 1 content -- the specification
-places them in Unit 3 (Investigating cells, and Populations and
-genetics), which is International A2-only and is covered in a
-companion guide for that unit. Biological molecules, cell structure,
-enzymes, transport into and out of cells, gas exchange, DNA and
-genes, protein synthesis and meiosis (3.1.1-3.1.5 and 3.1.7-3.1.9)
-are covered in the companion guides for those sections.
+(3.1.11), and the random sampling, chance and sample-size content
+that 3.1.6 (Living organisms vary) sets for investigations of
+variation. Natural selection, directional and stabilising selection
+and the genetic bottleneck are **not** Unit 1 content -- the
+specification places them in Unit 3 (Populations and genes), which is
+International A2-only. The rest of Unit 1 is not covered by this
+guide: biological molecules (3.1.1), cells and cell structure (3.1.2),
+enzymes (3.1.3), transport into and out of cells (3.1.4), gas exchange
+and the transport of oxygen (3.1.5), the rest of 3.1.6 (intraspecific
+and interspecific variation, normal distribution, mean and standard
+deviation), DNA, genes and chromosomes (3.1.7), protein synthesis
+(3.1.8) and meiosis (3.1.9). Use the specification for those
+sections.
 
 ## How to approach it
 
@@ -64,7 +68,7 @@ avoids bias, so practise explaining the reasoning behind random
 quadrat placement and transects, not just describing the methods.
 (Natural selection questions, marked strictly on causal order --
 variation first, by chance, then selection acting on it -- belong to
-Unit 3 and are covered in that unit's guide.)
+Unit 3, not Unit 1.)
 
 ## Official syllabus
 

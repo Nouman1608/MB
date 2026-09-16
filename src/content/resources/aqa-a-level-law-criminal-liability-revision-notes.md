@@ -95,7 +95,7 @@ the defendant's own mind, while negligence does not.
 ## Building a scenario answer
 
 Scenario questions on this content reward a consistent structure: identify the actus reus first
-(is it an act, omission, or state of affairs, and can causation be proven?), then identify the mens
+(what is the conduct — an act, an omission or a state of affairs — was it voluntary, did it cause the consequence, and did the required consequence follow?), then identify the mens
 rea (intention, subjective recklessness, negligence, or strict liability), then check the coincidence
 requirement, then apply any relevant doctrine such as transferred malice. Working through the elements
 in this fixed order, rather than jumping straight to a conclusion about guilt, is what AQA's law mark

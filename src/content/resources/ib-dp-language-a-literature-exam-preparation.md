@@ -22,12 +22,13 @@ oral across two works -- with a worked scenario and a checklist, alongside the
 
 ## Paper 1: two unseen extracts, each with its own guiding question
 
-Paper 1 provides a specific guiding question for each of the two unseen literary extracts, and
-responses are expected to work closely from that question rather than offering a generic close
-reading. **Exam-preparation priority**: practise reading the guiding question before annotating each
-extract, and treat the two extracts as genuinely separate tasks with separate guiding questions --
-don't let observations from the first extract bleed into the second without being re-anchored to its
-own question.
+Paper 1 sets two unseen literary extracts, each with its own guiding question: SL students write a
+guided analysis of **one** of them (1 hour 15 minutes, 20 marks), HL students of **both** (2 hours
+15 minutes, 40 marks). Responses are expected to work closely from the guiding question rather than
+offering a generic close reading. **Exam-preparation priority**: practise reading the guiding question
+before annotating an extract; at SL, practise choosing quickly between the two extracts, and at HL
+treat the two as genuinely separate tasks with separate guiding questions -- don't let observations
+from the first extract bleed into the second without being re-anchored to its own question.
 
 ## Paper 2: interweave evidence from both texts into one argument
 

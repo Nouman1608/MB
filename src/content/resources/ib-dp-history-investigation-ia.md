@@ -127,14 +127,14 @@ the student can source and evaluate evidence for.
 
 ## Structuring the written response
 
-Beyond source evaluation itself, the investigation's written response typically moves through an
-identification of method (how sources were selected and why), an evidence-based analysis section that
-directly answers the inquiry question using the evaluated sources, and a reflection on the investigation's
-own process -- what the process of researching this specific question revealed about the challenges or
-limitations of investigating this kind of historical topic. This reflective element is easy to
-under-prepare, since it asks for genuine reflection on method and evidence rather than a restatement of
-the essay's conclusion, and a reflection that simply repeats the argument already made in the analysis
-section misses what this component specifically asks for.
+In the course first assessed in 2028, the investigation is organised into three sections:
+**historical inquiry question**, **sources and perspectives**, and **synthesis and evaluation**. The
+subject brief describes the task the same way: students formulate an inquiry question, identify and
+choose sources, synthesize information and evaluate sources to produce a response (24 marks). There is **no separate reflection section** -- the reflection on
+the methods and challenges facing the historian belonged to the previous course, so words spent on
+one here go to a section that is not assessed, in a task with a word limit. Build the synthesis as
+a sustained, evidenced argument that weighs the evaluated sources against each other, rather than a
+source-by-source summary followed by a conclusion.
 
 ## Official syllabus
 

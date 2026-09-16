@@ -41,17 +41,7 @@ relate to a Resource Booklet describing a real-life business.
 
 ## Section B — Extended-Response Questions
 
-> **Resource Booklet.** *Ferrowest Components Ltd* is a UK-based manufacturer
-> of precision metal parts for the automotive industry, supplying both UK
-> car makers and, increasingly, customers in mainland Europe. Around a
-> third of its raw steel is imported. Its main UK rivals are two larger,
-> more diversified engineering groups; its most direct competitor for
-> price-sensitive contracts is a lower-cost manufacturer based overseas.
-> Ferrowest's directors are reviewing how far external economic and
-> political conditions should shape the company's strategy over the next
-> three years.
->
-> Questions 3–10 refer to Ferrowest Components Ltd.
+*Questions 3–9 are free-standing and do not use the Resource Booklet. Question 10, at the end of this section, uses the Resource Booklet on Ferrowest Components Ltd.*
 
 **3.** Explain why monopoly, oligopoly and monopolistic competition are best understood as a spectrum of competitive intensity rather than three fixed, separate categories. **[6]**
 
@@ -66,6 +56,18 @@ relate to a Resource Booklet describing a real-life business.
 **8.** A UK manufacturer experiences a sharp currency depreciation. Explain the chain of effects this has on the business's imported raw material costs and its final impact on margins or prices. **[6]**
 
 **9.** Evaluate whether globalisation is likely to benefit a medium-sized UK manufacturing business that begins exporting to a new overseas market. **[12]**
+
+> **Resource Booklet.** *Ferrowest Components Ltd* is a UK-based manufacturer
+> of precision metal parts for the automotive industry, supplying both UK
+> car makers and, increasingly, customers in mainland Europe. Around a
+> third of its raw steel is imported. Its main UK rivals are two larger,
+> more diversified engineering groups; its most direct competitor for
+> price-sensitive contracts is a lower-cost manufacturer based overseas.
+> Ferrowest's directors are reviewing how far external economic and
+> political conditions should shape the company's strategy over the next
+> three years.
+>
+> Question 10 refers to Ferrowest Components Ltd.
 
 **10.** Using Ferrowest Components Ltd, evaluate whether the company should reduce its reliance on imported steel by sourcing more materials domestically. **[15]**
 

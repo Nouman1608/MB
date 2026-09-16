@@ -7,12 +7,12 @@ topic: "Paper 2 – Grammar, Writing and Translation"
 boards: ["cambridge"]
 qualifications: ["o-level"]
 syllabusCodes: ["3248"]
-syllabusSeries: "2024-2026"
+syllabusSeries: "2027-2029"
 order: 3
 syllabusTopics:
   - qualification: "o-level"
     topic: "sl-paper-2-grammar-writing-translation-3248"
-description: "Condensed recall notes on sentence transformation, cloze, extended writing and translation for Paper 2 of Cambridge O Level Second Language Urdu (3248), 2024-2026 series."
+description: "Condensed recall notes on sentence transformation, cloze, extended writing and translation for Paper 2 of Cambridge O Level Second Language Urdu (3248), 2027-2029 series."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
 featured: false
@@ -72,12 +72,13 @@ than speed.
 
 ## Why 3248 is a genuinely separate exercise structure
 
-Marlbridge's existing O-Level Urdu resources cover Paper 1 (Reading and Writing, shared between 3247
-and 3248) and 3247's own Paper 2 (Texts). This guide is specifically for 3248's own distinct second
+Marlbridge's existing O-Level Urdu resources cover Paper 1 (Reading and Writing, a title both 3247
+and 3248 use for different papers) and 3247's own Paper 2 (Texts). This guide is specifically for 3248's own distinct second
 paper, which has no equivalent in 3247 — 3247's Paper 2 tests literary set texts, while 3248's Paper 2
 tests applied language skills: grammar in context, extended writing, and translation from English into
 Urdu. Because the two Paper 2s test such different skills, revision materials genuinely do not
-transfer between the two routes even though both share the same Paper 1. Confirm your route before
+transfer between the two routes. (The two Paper 1s differ too: they share a title, but not a duration
+or structure.) Confirm your route before
 building a revision plan around this guide.
 
 ## Building a personal grammar checklist for Exercise 2
@@ -131,5 +132,7 @@ may not fit the specific context of the passage around the gap.
 
 ## Official syllabus
 
-Cambridge O Level Second Language Urdu (3248) syllabus for 2024, 2025 and 2026 —
-[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/634455-2024-2026-syllabus.pdf).
+Cambridge O Level Second Language Urdu (3248) syllabus for 2027, 2028 and 2029 —
+[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/721465-2027-2029-syllabus.pdf).
+Its Paper 2 description (duration, four exercises, tariffs, word counts and grammar list) is the same
+as in the 2024-2026 syllabus it replaces.

@@ -84,8 +84,8 @@ rather than requiring recall.*
 
 **1.** The acceleration is **proportional to the displacement** from the equilibrium position [1] and always directed **towards** that position [1], which is why the motion is restoring rather than divergent.
 
-**2. (a)** ω = 2π ÷ T = 2π ÷ 0.80 [1] = **7.85 rad s⁻¹** [1].
-**(b)** v_max = ωx₀ = 7.85 × 0.045 [1] = **0.353 m s⁻¹** [1].
+**2. (a)** ω = 2π ÷ T = 2π ÷ 0.80 = 7.854 [1] ≈ **7.9 rad s⁻¹** [1] (2 s.f.; carry the unrounded 7.854 into later parts).
+**(b)** v_max = ωx₀ = 7.854 × 0.045 [1] = 0.3534 ≈ **0.35 m s⁻¹** [1].
 **(c)** a_max = ω²x₀ = 7.854² × 0.045 [1] = **2.8 m s⁻²** [1] (using the unrounded ω = 7.854 rad s⁻¹; quoted to 2 s.f. to match the data).
 **(d)** v = ω√(x₀² − x²) = 7.854 × √(0.045² − 0.020²) [1]
 = 7.854 × √(2.025 × 10⁻³ − 4.0 × 10⁻⁴) = 7.854 × 0.04031 [1] = **0.32 m s⁻¹** [1].

@@ -98,7 +98,7 @@ Seeing two peaks two units apart in roughly equal height means **bromine**; a 3:
 
 ## Exam traps
 
-- Confusing the broad acid O–H (2500–3000) with the alcohol O–H (3230–3550).
+- Confusing the broad acid O–H (2500–3000) with the alcohol O–H (3200–3600).
 - Interpreting individual fingerprint-region peaks instead of comparing spectra.
 - Taking an isotope peak as the molecular ion.
 - Reversing the chlorine and bromine M+2 ratios.

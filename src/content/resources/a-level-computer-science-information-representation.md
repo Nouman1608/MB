@@ -13,7 +13,7 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "information-representation"
-description: "An overview of data representation, multimedia (graphics and sound), and compression for Topic 1 Information representation, Cambridge AS & A Level Computer Science 9618, 2027-2029 series -- covering number-base conversion, file-size calculation and compression choice; see the note below on parts of 1.1 this overview does not go into."
+description: "An overview of data representation, multimedia (graphics and sound), and compression for Topic 1 Information representation, Cambridge AS & A Level Computer Science 9618, 2027-2029 series -- covering number-base conversion, file-size calculation, the choice between bitmap and vector graphics, and compression choice; see the note below on parts of 1.1 this overview does not go into."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
@@ -116,6 +116,30 @@ show the file size roughly quadrupling (since both width and height double), not
 duration (seconds). A higher sampling rate captures the waveform more accurately (closer to the
 original analogue sound) and a higher sampling resolution captures more possible amplitude values per
 sample — both trade higher audio quality for a larger file.
+
+## Bitmap images versus vector graphics
+
+**How a bitmap is encoded.** A bitmap image is a grid of **pixels** (picture elements, the smallest
+addressable part of the image), each stored as a binary value that represents its colour. The number
+of bits used per pixel is the **colour depth** (or **bit depth**): a colour depth of *n* bits allows
+2ⁿ different colours. **Image resolution** is the number of pixels in the image (width × height),
+while **screen resolution** is the number of pixels the display device can show. The file also
+contains a **file header** holding the data needed to decode the pixels, such as the image's
+dimensions and colour depth — which is why the image formula above gives an *estimate* of file size
+rather than an exact figure.
+
+**How a vector graphic is encoded.** A vector graphic is stored as a **drawing list**: a sequence of
+**drawing objects** (such as lines, rectangles, circles and text), each defined by its
+**properties** (for example its coordinates, dimensions, line colour, line thickness and fill
+colour). The image is recalculated from these instructions whenever it is displayed.
+
+**Justifying a choice.** A **bitmap** suits photographs and other images with continuous, irregular
+variation in colour, which cannot practically be described as a set of geometric objects; enlarged
+beyond its resolution it becomes pixelated. A **vector graphic** suits logos, diagrams, maps and line
+art built from distinct shapes: it can be scaled to any size without loss of quality, and its file
+size depends on the number and complexity of its objects rather than on how large it is displayed,
+so for such images it is usually much smaller than an equivalent bitmap. In an exam answer, tie the
+justification to the specific task in the question rather than listing general properties.
 
 ## Lossy versus lossless compression
 

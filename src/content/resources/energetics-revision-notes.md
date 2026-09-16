@@ -155,8 +155,8 @@ energetics diagram.)
 - Eₐ is measured from the reactants to the **peak**, not from the peak to the products.
 - A catalyst changes Eₐ only, never ΔH.
 - Include the sign and units (kJ/mol) in the final answer.
-- Using the mass of the **solute** rather than the total mass of the **solution** in Q = mcΔT.
-- Forgetting that a calorimetry experiment's measured energy change is usually **smaller in magnitude** than the accepted (data-book) value, because of heat loss to the surroundings, the thermometer and the container.
+- *(Background only, not a 0620/5070 outcome — AS 9701 progression)* Using the mass of the **solute** rather than the total mass of the **solution** in Q = mcΔT.
+- *(Background only, not a 0620/5070 outcome — AS 9701 progression)* Forgetting that a calorimetry experiment's measured energy change is usually **smaller in magnitude** than the accepted (data-book) value, because of heat loss to the surroundings, the thermometer and the container.
 
 ## Self-test
 
@@ -165,9 +165,12 @@ energetics diagram.)
 3. Calculate ΔH for a reaction where 950 kJ is needed to break bonds and 1120 kJ released forming them.
 4. What does a catalyst change on a reaction pathway diagram?
 5. Give two examples of endothermic processes.
+
+*Background only — questions 6 and 7 use calorimetry, which is not a 0620 or 5070 outcome and is included only for progression to AS Chemistry 9701:*
+
 6. 25.0 g of water rises in temperature by 4.0 °C. Using c = 4.18 J g⁻¹ °C⁻¹, calculate the energy transferred.
 7. Give two reasons why a calorimetry experiment usually underestimates the true energy change.
 
-**Answers:** 1. **Negative** — the reaction releases energy to the surroundings, so it is exothermic. 2. Endothermic — energy must be supplied to break a bond. 3. 950 − 1120 = **−170 kJ/mol**, exothermic. 4. It lowers the activation energy by providing an alternative pathway; the reactant and product energy levels, and therefore ΔH, are unchanged. 5. Any two: thermal decomposition of calcium carbonate, photosynthesis, dissolving ammonium nitrate, reaction of citric acid with sodium hydrogencarbonate. 6. Q = 25.0 × 4.18 × 4.0 = **418 J**. 7. Any two: heat lost to the surroundings during the reaction, heat absorbed by the thermometer and container rather than staying in the solution, and extra heat lost through an open or poorly insulated cup rather than a proper calorimeter — all of which mean less energy is measured than the reaction actually released.
+**Answers:** 1. **Negative** — the reaction releases energy to the surroundings, so it is exothermic. 2. Endothermic — energy must be supplied to break a bond. 3. 950 − 1120 = **−170 kJ/mol**, exothermic. 4. It lowers the activation energy by providing an alternative pathway; the reactant and product energy levels, and therefore ΔH, are unchanged. 5. Any two: thermal decomposition of calcium carbonate, photosynthesis, dissolving ammonium nitrate, reaction of citric acid with sodium hydrogencarbonate. 6. *(Background)* Q = 25.0 × 4.18 × 4.0 = **418 J**. 7. *(Background)* Any two: heat lost to the surroundings during the reaction, heat absorbed by the thermometer and container rather than staying in the solution, and extra heat lost through an open or poorly insulated cup rather than a proper calorimeter — all of which mean less energy is measured than the reaction actually released.
 
 For the full worked explanation with additional detail, see the [Exothermic and Endothermic Reactions study guide](/resources/exothermic-and-endothermic-reactions/); for exam-style questions with full mark schemes, see the [Exothermic and Endothermic Reactions practice questions](/resources/energetics-practice/).

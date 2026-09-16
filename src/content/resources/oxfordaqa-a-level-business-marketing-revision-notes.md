@@ -153,7 +153,7 @@ A stratified sample (dividing the population into subgroups and sampling proport
 4. Name the three sampling methods this specification includes.
 5. What three factors influence choice of research method?
 
-**Answers:** 1. Segment, target, position. 2. Product, price, promotion, place, people, process, physical evidence. 3. Increase — inelastic demand means quantity falls proportionally less than price rises. 4. Random, stratified, quota. 5. Cost, time, reliability.
+**Answers:** 1. Segment, target, position. 2. Under 9625: product, price, promotion, place, people, process, physical environment (9725 uses only the 4Ps: product, price, promotion, place). 3. Increase — inelastic demand means quantity falls proportionally less than price rises. 4. Random, stratified, quota. 5. Cost, time, reliability.
 
 ## How this connects forward
 

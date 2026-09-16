@@ -19,9 +19,11 @@ publishedDate: 2026-08-21
 featured: false
 ---
 
-This guide covers **Topic 1 What is Business?**, the first of thirteen
-topics in OxfordAQA International AS & A-Level Business (9625), first
-teaching September 2018. Note that 9625 is being withdrawn and
+This guide covers **Topic 1 What is Business?**, the opening topic
+(3.1.1) of the subject content of OxfordAQA International AS & A-Level
+Business (9625), first teaching September 2018. (Topic numbers and the
+number of topics are those of 9625; 9725 revises the topic list, so
+they do not carry over to 9725.) Note that 9625 is being withdrawn and
 replaced by revised specification 9725 (first teaching September 2026
 for AS, September 2027 for A2); students already partway through the
 course follow 9625 to completion, while new starts from September

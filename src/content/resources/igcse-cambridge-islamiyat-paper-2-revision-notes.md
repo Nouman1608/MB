@@ -77,6 +77,12 @@ for quick recall in the final stretch of revision.
   death.
 - Exam question: one or two questions, usually multi-part,
   essay-length answers. [14 marks]
+- Do not omit the **Ridda (apostasy) wars** when asked about Abu
+  Bakr's rule, achievements or difficulties: tribes that withheld zakat
+  or followed false prophets after the Prophet's death were brought
+  back under the authority of Madinah, holding the community together.
+  (Only the link to Yamama and the Qur'an's compilation belongs to
+  Paper 1.)
 
 ## 4. The Articles of Faith and the Pillars of Islam
 

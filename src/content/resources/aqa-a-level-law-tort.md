@@ -19,8 +19,8 @@ featured: false
 ---
 
 This guide covers **3.3 Tort**, the third of five subject-content sections in AQA A-level Law (7162),
-first teaching September 2017. It is A-level-only content, examined on Paper 3 alongside the Law of
-Contract, and shares its applied-problem-question technique with the specification's other substantive
+first teaching September 2017. It is examined on Paper 2, where it carries 75 of the paper's 100
+marks alongside 25 marks on the nature of law and the English legal system, and shares its applied-problem-question technique with the specification's other substantive
 law topics. These notes complement the site's guides to
 [The Nature of Law and the English Legal System](/resources/a-level-aqa-law-nature-of-law-and-english-legal-system/)
 and [General Elements of Criminal Liability](/resources/a-level-aqa-law-general-elements-of-criminal-liability/).

@@ -28,7 +28,8 @@ Condensed for the final weeks. For the full course picture, use the
 
 The historic environment element is not a separate section with its own two-question structure —
 it is examined by **one question**: the fourth and final question of Section B (British depth
-studies) on Paper 2, worth 16 marks (including 4 for spelling, punctuation and grammar). It is an
+studies) on Paper 2, worth 16 marks (8 AO1, 8 AO2). No spelling, punctuation and grammar marks are
+attached to it: Paper 2's 4 SPaG marks go with the Section A thematic-study essay. It is an
 essay question linked to your specified site, drawing on cause, consequence, change and continuity,
 not a low-tariff describe-then-explain pair.
 
@@ -42,7 +43,8 @@ study:
 - **Q4** (16 marks, AO1/AO2) — the historic environment essay, linked to your specified site.
 
 Because Q4 is the highest-tariff question in the section and an essay in its own right, plan your
-writing time accordingly — it is worth as much as Q1, Q2 and Q3 combined.
+writing time accordingly — its 16 marks are double any other Section B question and 40% of the
+section's 40 marks (Q1 to Q3 together carry 24).
 
 ## What the study tests
 

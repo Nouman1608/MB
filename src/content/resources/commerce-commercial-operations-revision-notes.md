@@ -24,7 +24,9 @@ Condensed for the final weeks. For the full explanation, use the
 ## Ownership types — the progression to memorise
 
 Sole trader → partnership → private limited company. Each step trades away personal control for
-access to more capital and less personal liability. Also know: cooperative, public limited company,
+access to more capital. Personal liability does **not** fall at every step: a sole trader and the
+partners in an ordinary partnership all have unlimited liability; it becomes limited only at
+incorporation, when the private limited company is a separate legal person. Also know: cooperative, public limited company,
 public corporation (public sector).
 
 ## Location factors — two lists, don't mix them

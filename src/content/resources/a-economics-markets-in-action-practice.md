@@ -74,7 +74,7 @@ D) A tax fails to raise any revenue **[1]**
 
 **7.** Define price elasticity of demand. **[2]**
 
-**8.** Calculate the income elasticity of demand for a good if a 10% rise in income leads to a 4% fall in quantity demanded, and state what this reveals about the good. **[4]**
+**8.** When average household income rises from $20,000 to $22,000 a year, the quantity demanded of a good falls from 500 to 480 units a week. Calculate the income elasticity of demand for the good. You are advised to show your working. **[4]**
 
 **9.** Draw and fully label a diagram to show a positive externality of consumption (for example, vaccination), indicating the free-market equilibrium, the social optimum, and the resulting welfare loss. **[4]**
 
@@ -86,11 +86,11 @@ D) A tax fails to raise any revenue **[1]**
 
 ## Section C — Five-part question
 
-A government introduces an indirect tax on sugary drinks. The health cost of excessive sugar consumption falls mainly on the consumer, so this is a negative externality of **consumption** rather than of production.
+**12.** A government introduces an indirect tax on sugary drinks. The health cost of excessive sugar consumption falls mainly on the consumer, so this is a negative externality of **consumption** rather than of production.
 
 **(a)** Define what is meant by an indirect tax. **[2]**
 
-**(b)** Calculate the price elasticity of demand for sugary drinks if the 10% price rise caused by the tax leads to a 6% fall in quantity demanded, and state whether demand is elastic or inelastic. **[4]**
+**(b)** The tax raises the price of a bottle of a sugary drink from $2.00 to $2.20, and weekly sales fall from 50,000 to 47,000 bottles. Calculate the price elasticity of demand for sugary drinks. You are advised to show your working. **[4]**
 
 **(c)** Draw and fully label a diagram to show the negative externality of consumption in the market for sugary drinks. **[4]**
 
@@ -104,11 +104,11 @@ A government introduces an indirect tax on sugary drinks. The health cost of exc
 
 **EITHER**
 
-**12.** Evaluate the view that a tradable permit scheme is a more effective way of correcting a negative externality than a fixed indirect tax. **[20]**
+**13.** Evaluate the view that a tradable permit scheme is a more effective way of correcting a negative externality than a fixed indirect tax. **[20]**
 
 **OR**
 
-**13.** Evaluate the extent to which government intervention can improve economic welfare when a market fails. **[20]**
+**14.** Evaluate the extent to which government intervention can improve economic welfare when a market fails. **[20]**
 
 ---
 
@@ -128,7 +128,7 @@ A government introduces an indirect tax on sugary drinks. The health cost of exc
 
 **7.** Price elasticity of demand measures the **responsiveness of quantity demanded to a change in price** [1], calculated as %ΔQd ÷ %ΔP [1].
 
-**8.** YED = %ΔQd ÷ %Δincome = −4% ÷ +10% = **−0.4** [2]. A negative YED means the good is an **inferior good** [1]; because the magnitude is below 1, demand is relatively insensitive to the change in income [1].
+**8.** %Δ quantity demanded = (480 − 500) ÷ 500 × 100 = **−4%** [1]. %Δ income = (22,000 − 20,000) ÷ 20,000 × 100 = **+10%** [1]. YED = %ΔQd ÷ %Δincome [1] = −4 ÷ 10 = **−0.4** [1]. *(The negative sign shows the good is an inferior good.)*
 
 **9.** For a positive consumption externality, marginal social benefit (MSB) lies **above** marginal private benefit (MPB), with a single marginal cost (MC) curve [1] [1]. The **free-market equilibrium** is where MPB = MC, at a lower quantity [1]; the **social optimum** is where MSB = MC, at a higher quantity, with the **welfare loss** (the foregone net benefit) shaded between the two output levels [1].
 
@@ -138,23 +138,23 @@ A government introduces an indirect tax on sugary drinks. The health cost of exc
 
 **12. (a)** An indirect tax is a tax imposed on spending on goods and services [1], collected by an intermediary such as the seller rather than paid directly to the government by the consumer, and typically added to the price of the good [1].
 
-**(b)** PED = %ΔQd ÷ %ΔP = −6 ÷ 10 = **−0.6** [2]; since the magnitude is less than 1, demand is **inelastic** [2].
+**(b)** %Δ quantity demanded = (47,000 − 50,000) ÷ 50,000 × 100 = **−6%** [1]. %Δ price = (2.20 − 2.00) ÷ 2.00 × 100 = **+10%** [1]. PED = %ΔQd ÷ %ΔP [1] = −6 ÷ 10 = **−0.6** [1]. *(Because the magnitude is less than 1, demand is price inelastic, which part (d) uses.)*
 
 **(c)** For a negative consumption externality, marginal private benefit (MPB) lies **above** marginal social benefit (MSB), with a single marginal cost (MC) curve, since production itself imposes no extra cost [1] [1]. The **free-market equilibrium** is where MPB = MC, at a higher quantity than is socially desirable [1]; the **social optimum** is where MSB = MC, at a lower quantity, with the **welfare loss** shaded between the two [1].
 
-**(d)** Because demand is inelastic (from (b)), a price rise causes only a proportionally smaller fall in quantity demanded [1], so the tax is collected on **almost the same quantity** as before, generating **large and stable revenue** [1]. For the same reason, **consumption — and therefore the externality — falls only slightly** [1], so the tax is only weakly effective at correcting the externality itself, even though it raises substantial revenue [1].
+**(d)** Because demand is price inelastic (|PED| = 0.6, from (b)), a price rise causes only a proportionally smaller fall in quantity demanded [1], so the tax is collected on **almost the same quantity** as before, generating **large and stable revenue** [1]. For the same reason, **consumption — and therefore the externality — falls only slightly** [1], so the tax is only weakly effective at correcting the externality itself, even though it raises substantial revenue [1].
 
 **(e)** *Indicative content.*
 **For** [up to 8, 2 marks each]: it **internalises the external cost**, moving consumption towards the social optimum; it raises **revenue** that could fund health education or treatment; it **signals** the product's harm to consumers; combined with public information, it can still shift demand over time even if the immediate effect is small.
 **Against** [up to 8, 2 marks each]: demand is **inelastic**, so it is **weak at its stated aim** in the short run; it is **regressive**, taking a larger share of poorer households' income; it may cause **substitution to other unhealthy, untaxed products**; the **optimal rate is difficult to identify** (a form of government failure) — too low and it has little effect, too high and it is seen as excessive.
 **Judgement** [4]: the tax is likely to be effective as a revenue-raiser and as a signal of harm, but weak as a stand-alone tool for changing behaviour given inelastic demand; it is most effective when combined with measures (such as education) that make demand more elastic over time, and its overall effectiveness depends on the size of the external cost and how the revenue raised is used.
 
-**13. (Essay 12)** *Indicative content.*
+**13.** *Indicative content.*
 **For tradable permits** [up to 8, 2 marks each]: the **cap guarantees the target level of the externality is met**, unlike a tax where the resulting quantity is uncertain; the market finds the **cheapest-cost firms to reduce output/emissions first**, giving cost-effective abatement across the industry; permits can be **auctioned to raise revenue**, similar to a tax; the scheme **adapts automatically** as the number of firms or output changes, since permits are simply bought and sold.
 **Against tradable permits** [up to 8, 2 marks each]: setting the cap correctly requires **as much information** as setting a tax rate correctly, so the same information problem persists; a **new permit market must be created and monitored**, which has administrative costs; firms may pass on the cost of buying permits to consumers just as with a tax, so the burden may still be **regressive**; in practice a **fixed tax** may already achieve a similar effect with **lower administrative complexity**.
 **Judgement** [4]: a tradable permit scheme has the advantage of certainty over quantity, which is valuable where the externality has a critical threshold (e.g. total emissions), while a tax is simpler to administer and gives certainty over price; which is more effective depends on whether the priority is controlling the exact quantity of the externality or minimising administrative cost and complexity.
 
-**13. (Essay 13)** *Indicative content.*
+**14.** *Indicative content.*
 **For intervention improving welfare** [up to 8, 2 marks each]: correcting a **negative externality** (e.g. a tax or regulation) reduces over-consumption or over-production towards the social optimum, increasing total welfare; correcting a **positive externality** (e.g. a subsidy or direct provision) increases under-consumed output towards the social optimum; **providing a public good** directly addresses the complete non-provision that a free market would otherwise leave; **information provision** can correct a market failure without the deadweight loss risked by a price-based intervention.
 **Against intervention improving welfare** [up to 8, 2 marks each]: **government failure** can leave the market allocation worse than before, through poor information, administrative cost, or unintended consequences such as black markets; intervention often has **opportunity costs** (e.g. subsidy spending funded by taxation elsewhere) that are not always visible in the market being corrected; **regulatory capture** or political pressure can result in intervention that serves producers rather than consumers; the **size of the externality is difficult to measure precisely**, so intervention may over-correct or under-correct the market failure.
 **Judgement** [4]: intervention can improve welfare where the market failure and its remedy are both well understood and correctly sized, but the risk of government failure means intervention does not automatically improve on the market outcome — the case for intervening depends on comparing the specific market failure against the specific risks of the chosen policy tool.

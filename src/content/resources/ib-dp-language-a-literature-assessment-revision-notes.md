@@ -31,7 +31,7 @@ Paper 1 stays at 35% at both levels, but Paper 2 drops from 35% at SL to 25% at 
 
 | Component | SL | HL |
 |---|---|---|
-| Paper 1 (guided analysis of two unseen literary extracts) | 35% | 35% |
+| Paper 1 (guided analysis of unseen literary extracts: one of two at SL, 1h15, 20 marks; both at HL, 2h15, 40 marks) | 35% | 35% |
 | Paper 2 (comparative essay, studied literary works) | 35% | 25% |
 | HL essay (independent coursework, 1,200-1,500 words) | — | 20% |
 | Individual oral | 30% | 20% |

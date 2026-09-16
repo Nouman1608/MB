@@ -32,9 +32,9 @@ the other, never both, and the right choice depends on whether Urdu is
 the candidate's main language (3247) or a learned additional language
 (3248).
 
-This guide covers **Paper 1 Reading and Writing**, the shared
-structural starting point of two distinct, currently examined
-Cambridge O-Level Urdu syllabuses: 3247 First Language Urdu
+This guide covers **Paper 1 Reading and Writing**, the paper title
+used by both of two distinct, currently examined Cambridge O-Level
+Urdu syllabuses (with a different paper behind that title in each): 3247 First Language Urdu
 (valid for the 2027 series) and 3248 Second Language Urdu (valid for
 the 2027-2029 series). Candidates take one or the other, not both, in
 the same series.
@@ -60,10 +60,11 @@ paired with Paper 2 Grammar, Writing and Translation (50%)
 
 ## How to approach it
 
-Because 3247 and 3248 are genuinely different qualifications despite
-sharing a Paper 1 structure, confirm with your centre which
-syllabus you are entered for before revising, since the second
-paper's content differs substantially between the two. For 3247's
+Because 3247 and 3248 are genuinely different qualifications, with
+different Paper 1 durations and structures as well as different second
+papers, confirm with your centre which
+syllabus you are entered for before revising, since both papers
+differ between the two. For 3247's
 Paper 2, secure knowledge of the prescribed poetry and prose set texts
 is essential, so build quotation banks in the same way you would for
 an English Literature paper. For 3248's Paper 2, translation and

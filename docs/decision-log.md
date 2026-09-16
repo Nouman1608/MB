@@ -11050,3 +11050,237 @@ Topic 2 and Topic 3 pages also carry the differences specific to their topic, ea
 - API tests: 31/31.
 
 The rendered `/boards/cambridge/igcse/accounting/` page shows the 2027-2029 series, the new Topic 7 and the 40-mark Paper 1. `check-duplicate-resource-scope.mjs` still reports the same four pre-existing unreviewed groups (IB MYP Design, OxfordAQA Chemistry). None involves 0452.
+
+## D-235 - Audit round 12 (Q389): the 101 reopened closures and E903-E911 repaired (2026-09-16)
+
+**Trigger.** Audit round 12 (`docs/audit/2026-10-19-findings.md`, `406ff00`) reread the 692 closures in D-138 to D-225.
+
+- **Reopened:** 101 closures whose defect, or a named part of it, still stands on `main`.
+- **New errors:** E903-E911, introduced by repairs. Round 13 (Q390) left the count at 110.
+
+**Method.**
+
+- **Finding texts.** Read from the audit evidence file (`findings[]` and `post_baseline_findings[]`) on the audit PC and extracted per cluster. Copies were saved in the repair workspace. The round-12 table gave the residue on `main` for each ID.
+- **Agents.** Seven parallel repair agents worked under a written brief, split by cluster: chemistry, physics, biology and maths, economics and business, languages and humanities, law/CS/sociology, and psychology/IB/other. The brief required:
+  - reading each file and the decision-log entry first;
+  - fixing the residue;
+  - searching the family, descriptions, self-tests, checklists and answer keys for the same wording, as §8 asks;
+  - recounting every tariff touched;
+  - verifying against the board document, read to its closing matter.
+- **Lead checks.** The lead read the riskiest diffs:
+  - the new science statements E903-E908;
+  - thermodynamics sign convention (E173) and circular-motion figures (E187);
+  - the IB economics outline (E358/E911).
+- **IB documents.** The subagents could not read IB documents because two Chrome browsers were connected. The owner selected a browser, and the lead read the guides in a browser session at the ibo.org origin, using pdf.js on same-origin fetches. No challenge was bypassed. Guides read:
+  - Economics guide, 84 pp. to the bibliography.
+  - Language B guide, 79 pp. to the bibliography.
+  - Mathematics: analysis and approaches guide, 100 pp. to the notation list.
+  - Global politics guide (first assessment 2026), 85 pp. to the bibliography.
+  - Chemistry guide, 89 pp. to the bibliography.
+  - Business management guide, 77 pp. to the bibliography.
+  - ESS subject brief, 5 pp. to the assessment table.
+  - DP History subject brief (first assessment 2028), 7 pp. to the sample questions.
+  - The DP Maths subject briefs returned 403 and were not needed.
+
+### Closed -- chemistry (29 files)
+
+| ID | What changed / verified |
+|---|---|
+| E59 | Atom economy now uses stoichiometric coefficients. Added a worked example: glucose to 2 ethanol + 2 CO2 gives 51.1%, and omitting the 2 gives 25.6%. Practice 8(a) updated; still 3 marks. Labelled background (9701 has no atom-economy outcome). |
+| E70 | Odd-electron species taught (NO worked example) in the guide. The revision notes, which claimed 3.4/3.7 without teaching them, now cover dative bonding, expanded octets, bond energy and length, and the dot-and-cross rules (9701 3.4.1, 3.4.3, 3.7.1). |
+| E78 | Fermentation Q6 replaced with a 16.1.1(d)-(f) question on reduction and hydrolysis routes, 2+2+2. Practice 5(c) "or" scheme split so both marks are earnable. The 170 °C condition now pairs with conc. H2SO4 or Al2O3. |
+| E80 | The rate-determining step is no longer stated in AS halogenoalkane notes. The sibling guide's SN1/SN2 rate sentences are labelled A Level (Topic 26); 9701 15.1.5-15.1.7. |
+| E85 | AS questions renumbered 5-8. The acyl chloride question is now Q9 under a closed "A Level extension (not AS content)" heading, with its answer labelled. |
+| E87 | Practice Q1 replaced with an AS 19.2.3 nitrile hydrolysis question (2 marks). Basicity self-tests and traps labelled A Level; 9701 19.1 "Classification of amines will not be tested at AS Level". |
+| E93 | O-H range corrected to 3200-3600. Sibling trap ranges set to the data section (C≡N 2200-2250, C=O 1640-1750). Answer 8(a) no longer refers to an absent peak (9701 Data section table 8, p.90). |
+| E101 | The NMR table is replaced by the 13 rows of 9701 Data section table 6 (p.88), with its note; -COOH is 9.0-13.0. The D2O "no chemical change" mistake is corrected. |
+| E104 | The Kstab paragraph is rewritten. Kstab is defined for formation from the aqua ion, and water is excluded, so the aqua ion has no separate constant. The ammine value is shown to measure stability. Worked value rechecked (9701 28.5). |
+| E131 | Calorimetry traps, self-test Q6-7 and practice description, Q6/Q8 and answers labelled background, not a 0620/5070 outcome, matching the files' own banners. |
+| E139 | NaCl and MgO dot-and-cross diagrams redrawn: Cl- 7 crosses + 1 dot, O2- 6 crosses + 2 dots, metal electrons as dots. Water redrawn, convention stated. Practice answer 2 uses the same convention (3 marks). |
+| E235 | "Mononuclear" now glossed as a single-atom ion; the 1+ m/z point is made separately (OxfordAQA 9620 v4.3, 3.1.1.2). |
+| E236 | HL-only sections added to both Structure 1 files. Verified against the IB Chemistry guide (first assessment 2025): Structure 1.2.3 is additional HL (1 hour), mass spectra; 1.3.6-1.3.7 are additional HL (3 hours), convergence limit, first-IE trends, successive IE. Worked examples (Mg Ar 24.32; 1.31 × 10^6 J mol^-1; Al successive IE) added. **The lead also corrected the notes' "(SL)" label on first ionisation energy trends and the guide's coverage line: the guide puts both in HL-only 1.3.6.** |
+| E903 | Q2 moved to ethanal, giving 2-hydroxypropanenitrile. Q3 rebuilt: (a) chiral centre identified [2]; (b) planar carbonyl attacked from either face gives equal amounts of the two isomers [3]; (c) propanone's product has no chiral centre [1]. Total 6, recounted. The same over-generalisation (every carbonyl gives enantiomers) was fixed in the nitrogen-compounds notes and self-test Q5. |
+| E904 | Hydrogen ions are the species discharged at the cathode; sulfate ions are not discharged and increase conductivity, and the acid becomes more concentrated. |
+| E905 | The causal link is removed. The halide test is given on its own (nitric acid, then silver nitrate: white, cream, yellow), and the text states that the precipitates are not caused by the reactivity order. |
+| E909 (alcohols 4(a)) | One route: reagent [1] + its condition [1] = 2. |
+| E909 (acyl 5(d)) | Three marking points: delocalisation of the -OH lone pair; larger δ+ on the acyl carbon; Cl- the better leaving group. Sums to 3. The sibling notes give the same argument. |
+
+### Closed -- physics (28 files)
+
+| ID | What changed / verified |
+|---|---|
+| E168 | Hall voltage derivation added: qE = Bqv, E = VH/d, I = n(dt)vq, so VH = BI/(ntq) (9702 20.3). |
+| E170 | Kinematics practice 4(a) uses the syllabus definition of acceleration, not v = u + at (5054 1.2). No other 5054 file uses the equations of motion. |
+| E173 | Isobaric rows now say pΔV is work done by the gas, so W = -pΔV and ΔU = q - pΔV, in the guide and the notes. "(line 46 above)" removed. Each row has a correct reason. The 9702 16.2 "work done by vs on" outcome added to coverage. |
+| E180 | g = 9.8 N kg^-1 stated in energy practice Q4. The same defect in four more 5054 files was fixed with answers recomputed: pressure practice Q3 (was g = 10) and Q5 (was "9.81 N kg^-2"), pressure notes, forces notes and energy notes. |
+| E182 | Coverage for 25.1-25.3 rewritten from the syllabus wording. Stefan-Boltzmann moved to stellar radii. H0 given in s^-1 (SI units only). "The syllabus explicitly notes" removed. Age-of-universe items labelled background. |
+| E187 | Circular-motion 4(a)-(d) now 31 m s^-2, 5.4 N, 10 N, 2.8 m s^-1, carrying unrounded values. Oscillations 2(a)-(b) now 7.9 rad s^-1 and 0.35 m s^-1. |
+| E189 | Electric and gravitational field strength added to the vector list and table (5054 1.1). |
+| E190 | At-rest row added to the speed-time table in the guide and notes; notes rows completed. |
+| E206 | Checked against Pearson IAL Physics Issue 3, outcomes 111-124 and 133-142. Unit 4 decay, half-life and binding-energy questions moved to the Unit 5 nuclear-decay practice (Q11-Q14), not deleted. The Unit 4 practice has new original questions on outcomes 111, 113, 117, 119 and 120. The Unit 4 notes' mass-defect section is replaced with annihilation, pair creation and MeV/GeV. Items outside the specification (exchange particles, strangeness, synchrotrons, the weak force) are labelled background. Schemes recounted. |
+| E211 / E419 | One rule, crossover at √10, applied to every example in both estimation files. 5000 is order 10^4; practice Q8 and Q9 recomputed. |
+| E223 | The Theme E paragraph now marks quantum physics HL only, matching the file's own HL lists. |
+| E906 | Two real pairs are given (feet/ground contact forces; Earth/you gravitational), and the text states that weight and the normal force are not a pair. Corpus search found no other occurrence. |
+| E909 (medical physics 8) | Q8 is now "outline how CT builds a 3D image" [3] with 3 marking points (9702 24.2). The non-syllabus advantages/disadvantages are kept as an unmarked note, and the same correction is made in the guide and notes. |
+| E909 (kinematics 4(b)) | Scheme is area expression [1] + 30.6 m [1] = 2. |
+| E909 (fields 7(a)) | Retariffed [2] to [3] to match its three-mark scheme; the file states no paper total. |
+
+### Closed -- biology and maths (19 files)
+
+| ID | What changed / verified |
+|---|---|
+| E244 | All seven characteristics use the 0610 1.1 wording word for word in the guide and notes; practice was already exact. |
+| E247 | Myriapods (Core 1.3.2(b)) moved from Supplement Q9(c) to Core Q6(d), with its answer. Q6 5 to 6 marks, Q9 4 to 3; paper total unchanged. |
+| E251 | The 2.4 outcome is given as its closed list: solvent action, high specific heat capacity, latent heat of vaporisation (9700 2.4). |
+| E255 | "2.1.4 Nucleic acids" corrected to 2.1.3 Nucleotides and nucleic acids (g) in three places (H420 v4.1). |
+| E257 | Nucleus and DNA rows merged into one row, so the table has four rows, matching the four-row checklist (AQA 3.2.1.2). |
+| E258 | "Where this fits" no longer puts cell structure in Topic 1; Topic 2 named (4BI1 Issue 3). Description fixed. |
+| E268 | The graph-transformations table is labelled extension, not a 4024 outcome (7.1 covers transforming shapes). |
+| E281 | Description no longer lists adaptation and natural selection as Unit 1 content. Unit 3 name, sampling attribution (3.1.6) and two false companion-guide claims corrected in the guide; notes description fixed (9610). |
+| E415 | "Rational-function" removed from the description, section 2.1, self-test and practice description. 2.1 rewritten to the 9709 P2 2.1 scope (modulus and polynomial division), with a checked worked example. |
+| E828 | P1 practice and guide now state that P1 has no trigonometry (the sin/cos/tan graphs are PP1.2). Descriptions list the P1 topics set; PSM1 items marked (9660 v5.2). |
+| E830 | Self-test Q4 reworded to ask why the terms cannot be collected as like terms. |
+| E907 | Centrioles form the basal bodies of cilia (microtubule core). Microvilli are membrane folds supported by actin and do not arise from centrioles. No other file makes the claim. |
+| E908 | Root hair cells absorb mineral ions from dilute soil solution; glucose is absorbed from the gut; plants make glucose by photosynthesis (AQA 8461 4.1.3.3). |
+
+### Closed -- economics and business (38 files)
+
+| ID | What changed / verified |
+|---|---|
+| E302 | "Market failure" removed from the AS notes and practice answer; free-goods row added (9708 1.6.1). Sibling AS topic 3 files: government failure labelled A Level 8.1.2; Q7 and the provision-of-information row reworded to 3.1.2. |
+| E303 | The paired guide now defines merit/demerit goods by imperfect information (1.6.3-1.6.4); externalities labelled A Level. Also fixed OxfordAQA 9640 practice answer 10 (4 marks). |
+| E320 | The three "state" stems replaced by "Calculate" questions [4] (1+1+1+1); growth C(b) rebuilt as a GDP/price-index calculation. Notes self-tests use listed command words (Pearson Appendix 6). |
+| E328 | The opening now covers Topic 1 (1.1-1.2) of Component 01, not the whole component. |
+| E332 | "Full content" claim removed. Explanations added: specialisation and exchange, market structures, productivity, wage determination, and money and interest rates with a worked calculation (J205 2.1-2.8). Notes aligned. |
+| E345 | The introduction now points to Extension Q13-15; "A2" corrected to "A-level". |
+| E346 | Q17 [6] scheme is 1+1+2+2. Section B actually summed to 36 against the 32 the specification sets, so Q16 [10] became [6]. Section B 32, paper 52 (9214). |
+| E356 | GNI = GDP + net income from abroad (can be negative). The same error fixed in `ib-dp-economics-macroeconomics-practice` answer 1 and the guide checklist. |
+| E358 + E911 (IB econ intro) | Introduction and question set now (a)-(g) for 40 marks; price-ceiling part removed as outside 2.1-2.3. **Lead verified against the IB Economics guide, SL/HL Paper 2 external assessment details: parts (a)-(g), (a) 4 (2+2), (b) 5 in two sub-parts, (c)-(f) 4 each, (g) 15, maximum 40.** The introduction was re-worded to that breakdown. The lead also corrected the notes' "sub-topic 2.4" for price controls: 2.4 is the HL critique of maximizing behaviour, and price ceilings and floors sit in 2.7, role of government in microeconomics. |
+| E359 | ASCII diagram redrawn: D and S cross at one marked point on the Pe row, with Qe beneath it. Each curve labelled once; axes labelled. |
+| E368 | "Five named influences" corrected to six (AQA 8132 3.2). |
+| E383 | Power/interest grid question replaced with a stakeholder-conflict question (2+2+2). PESTLE changed to PEST (9609 6.2). Notes and guide re-worded to the 1.5.2 wording; self-test and description fixed. |
+| E391 | Both OCR J204 practice papers now open with 15 original 1-mark multiple-choice questions and answer keys (J204 specification 3a; June 2025 J204/01 and /02 confirm 15 × 1). Section B renumbered 16-23 with cross-references updated. |
+| E405 | Paper 1 is a pre-released statement with an unseen case study (verified: IB Business management guide, assessment outline pp.45-46). Notes L29 and L62 and three sibling files corrected. |
+| E870 | The promotional-mix list is labelled as 9625's, with a note that 9725 revises it (as the finding records from the 9725 summary of changes). "First of thirteen topics" re-worded to "the opening topic (3.1.1)". The 9725 summary itself was not reachable (404 or challenge); no 9725 list is asserted. |
+| E874 | Mission statements labelled 9625 A2 content (3.3.1); Q1 added to the practice scope note. |
+| E881 | Self-test answer "physical evidence" changed to "physical environment", with a note that 9725 uses the 4Ps. |
+| E883 | Q14 added: average unit cost ($0.80 and $0.60) [2], then interpretation as economies of scale [2]. Scope note and description updated (9225). |
+| E910 (econ keys) | In both Edexcel A Level papers, Section C answers are numbered to match the questions, with each essay answered under its own number. |
+| E910 (business booklets) | Each booklet statement is confined to the final question that uses the case (strategy Q9, external influences Q10), with the booklet placed there and a note that the other Section B questions stand alone. No tariffs changed. |
+
+### Closed -- languages and humanities
+
+| ID | What changed / verified |
+|---|---|
+| E208 | AQA 8702 Paper 2 guide gives the section marks 34/30/32; the practice paper's "structure and form credited equally" line is replaced with AO2 (language, form and structure). |
+| E215 | The claim that command verbs identify the sub-topic is replaced: the split is by subject matter (AQA 8463 4.1.1-4.1.2). |
+| E451 | Section A is now one compulsory 25-mark question on two texts; the old short questions became an unmarked warm-up. **Section B keeps a choice of two questions.** Round 12's evidence line says the unit "sets one directed writing task". The OxfordAQA 9670 specification (v5.2, §2.2 p.10 and §3.1 p.13) reads: "Section B: students carry out one writing task, from a choice of two questions." One task is written, chosen from two, as the file now states. |
+| E463 | The notes description says Section B offers a choice of two passages drawn from two of prose, poetry and drama. The practice paper's prose-only answer and a false weighting claim are fixed (9695 p.51). |
+| E470 | The 21 prescribed *Poems of the Decade* poems are named (titles, poets, page numbers) from Pearson IAL English Literature Appendix 5 in the guide, notes and practice; "the anthology" becomes "the prescribed list". |
+| E472 | 2(c) removed: it needed two unprinted set poems and closely paraphrased a live question. Section B is now a choice of two, as in the specification, and the guide and notes state the choice. |
+| E476 | Unit 4 is Shakespeare and pre-1900 poetry; Unit 3 is an unseen post-1900 poem and two prose texts from a theme. The earlier repair's line "Unit 3 stays with post-1900 material" was also corrected, because Unit 2 has a pre-1900 play and some Unit 3 prose themes include pre-1900 novels. Context advice points to those texts (Pearson IAL English Literature pp.8, 19-24). |
+| E478 | Sibling practice version set to 5.1; five English Literature links repointed to live copies. Legacy `oaqaresources` sweep: all 13 OxfordAQA science files' specification URLs now point to live copies of 9201, 9202, 9620 and 9630, each downloaded and checked. URL lines only. |
+| E548 | The 2028-series investigation guide no longer teaches a reflection section. The lead aligned it to the three sections the finding records (historical inquiry question, sources and perspectives, synthesis and evaluation) and to the DP History subject brief, first assessment 2028: "They formulate an inquiry question, identify and choose sources, synthesize information and evaluate sources to produce a response. (24 marks)". |
+| E689 / E690 | Islamiyat Paper 1 notes (2058 and 0493) teach 1.4 through the named groups of people, with the Madinan events moved to 1.3. The Ridda wars trap and self-test moved from Paper 1 to the Paper 2 notes. |
+| E711 | The Nehru Report is described correctly: joint electorates, with seats reserved only at the centre and where Muslims were a minority. No "no reserved seats" wording remains. |
+| E749 | The 3247/3248 guide and three sibling files no longer claim a shared Paper 1. |
+| E754 | The Urdu Exercise 1 key covers (e)-(h), so the paper is 8+8+6+8 = 30. A "single hearing" line corrected (recordings are played twice). |
+| E760 | The three 3248 Paper 2 files declare and cite 2027-2029. Paper 2 was compared line by line with 2024-2026 and is identical. |
+| E764 | Both translation schemes are 20 one-mark chunks with no global marks, recounted (9UR0 specification and Getting Started Guide). |
+| E768 | The notes name the three texts, five prescribed essays and films with year (9UR0 Appendix 1). |
+| E770 | "Six sub-topics" corrected to eight; the 9264 specification link repointed in three files. |
+| E773 | Literature notes and the exam-preparation sibling: one extract at SL (1h15, 20 marks), both at HL (2h15, 40 marks). |
+| E783 | Emergent/capable/proficient no longer called phases; the eAssessment sibling says "levels", and its unsupported claim is removed. |
+| E784 | **Lead fix, verified against the IB Language B guide (first assessment 2020), individual oral assessment criteria SL pp.56-59 and HL pp.64-66.** Both files now give Criterion A Language (12); B1 Message—visual stimulus at SL, Message—literary extract at HL (6); B2 Message—conversation (6); C Interactive skills—communication (6); total 30, with the presentation and conversation marked separately. Self-test answer 5 updated. |
+| E911 (history notes) | Q4 is described as the highest-tariff question (16 of Section B's 40; Q1-Q3 carry 24). "Including 4 for SPaG" removed from notes and practice: AQA 8145 puts Paper 2's SPaG on the Section A essay. |
+| E911 (lang & lit) | The guide says two unseen non-literary texts are set: SL analyses one, HL both. Syllabus guide "passage" changed to "passages". |
+
+### Closed -- law, computer science, sociology (18 files)
+
+| ID | What changed / verified |
+|---|---|
+| E498 | Description no longer claims "full content"; names 4.1.1 and 4.1.2. The AQA 7517 4.1 points the file lacked are added: types, operations, exception handling, subroutines, OOP principles and class diagrams. |
+| E502 | Bitmap versus vector graphics section added with the 9618 §1.2 terms (2026 and 2027-2029 syllabuses). |
+| E517 | O Level guide has no "full content" claim. Paper 2 facts corrected, 4.1-6.3 listed, and functionalist, Marxist and feminist views plus the 6.2.6 crime theories added (2251). Sibling IGCSE file: measuring crime under 6.1.6; the syllabus's five aims of punishment. |
+| E532 | Section C rebuilt on an invented data table: Q9 [2], Q10 [4], Q11 (a)-(e) [10]. Section C 16, paper 60, schemes recomputed (OxfordAQA 9292 §2.2; specimen for shape only). |
+| E673 | Description and scope: one of five sections and the only one on all three papers (25 marks each). Criminal law is Paper 1, Tort Paper 2, Contract or Human rights Paper 3; the false "a third" quote removed. Siblings: Tort guide Paper 3 changed to Paper 2; exam preparation 34% changed to 33% (AQA 7162 v1.0/v1.1). |
+| E675 | Actus reus elements are conduct, voluntariness, causation and consequences, in the practice, notes and guide. |
+| E676 | Following, overruling and distinguishing (the specification's list); reversing no longer given as a way to avoid precedent in AQA files. Cambridge 9084 files left alone, since 9084 §1.1.5 lists reversing. |
+| E683 | Regulation of the professions added (BSB, SRA/SDT, Legal Services Act 2007, Legal Ombudsman), plus a scope sentence on what the guide does not cover (9084 §1.3.2). |
+| E684 | Role of law in society, meaning of fault, and the impact of EU law (*Pickstone*) and HRA 1998 ss 3-4 (*Ghaidan*, *Bellinger*) on interpretation added to the guide and notes. Tribunals and access to justice completed. Rule-of-law element uses the specification's wording. |
+| E687 | Sibling descriptions now promise only what the practice files contain (access to justice removed; privacy removed; occupiers' liability, sentencing and omissions added). |
+| E910 (sociology essay 5) | Guidance answers why an interpretivist prefers participant observation, weighed against its weaknesses (9699 §2.1-2.3). |
+| E911 (CS communication) | Paper 1 Theory Fundamentals covers sections 1-8; sections 9-12 are Paper 2 (9618 p.11). |
+
+### Closed -- psychology, IB and other (28 files)
+
+| ID | What changed / verified |
+|---|---|
+| E789 | Cluster and opportunity sampling are background, not among the methods 0479 names, rather than "not required", with the syllabus's own opportunity-style example noted (0479 2027, 1.2-1.3). |
+| E801 | Paper 1 and 2 question types use the 0680 syllabus descriptions in the land guide and notes; the sibling sentence fixed (0680 2027-2029 pp.9, 13, 36). |
+| E813 | Each ownership step trades control for capital; liability becomes limited only at incorporation (0715 2028). |
+| E817 | Component 1 coverage names deconstruction, reconstruction and communication; reflection and collaboration belong to other components (9239 skills mapping and AO table). |
+| E833 | Three biopsychology questions added: fight or flight [4], synaptic transmission [5], Broca's/Wernicke's areas [4], all recounted. Description updated (OxfordAQA 9218 v1.1). |
+| E834 | Description "development" changed to "biopsychology". |
+| E843 | Self-test Q4 reads "What is scaffolding, in Vygotsky's theory?" |
+| E844 | Q5 asks for the four categories of method, and the answer lists all four (OxfordAQA 9685 3.2.3). |
+| E854 | The AA and AI guides give the 30 hours to the toolkit and exploration together. **Verified: AA guide p.20, "30 hours will be spent on developing inquiry, modelling and investigation skills. This includes up to 15 hours for work on the internal assessment which is called the exploration."** |
+| E862 | Level 0 (0-8 per criterion, 0-32 total) stated alongside the existing 1-8 wording in five MYP language-acquisition files and the MYP design notes self-test. The MYP guide itself was not read; level 0 ("does not reach a standard described by any of the descriptors") is the same in every MYP criterion table, as the finding records from the MYP Individuals and societies criteria. |
+| E868 | MYP design cycle given as its four stages in both places. |
+| E887 | AI notes and exam-preparation guide: real-world grounding is advice, not a requirement of the exploration. |
+| E891 | AI subject guide aims replaced with the twelve aims of all DP mathematics courses. **Verified verbatim against the AA guide, aims 1-12, p.22.** |
+| E896 | The HL extension is described as independent research on cases linked to the eight topic areas, not a synthesis of the thematic studies, in the syllabus guide and four sibling files. **Verified: Global politics guide (first assessment 2026) p.28 lists the eight HL topic areas; p.52: "at least two different case studies and on at least two different topic areas".** |
+| E909 (GP 4(c)) | An overall-judgement mark added, so the scheme is 6; Q6's AO1 name corrected. |
+| E909 (conformity 2a) | First procedure point [1], so 2+2+2 = 6; other schemes recounted. |
+| E910 (GP note) | The note says Questions 3-5 are source-based and 1, 2 and 6 are short skills checks (0457 2025-2027 p.14). |
+| E911 (ESS hours) | One breakdown: syllabus content 100 to 190 hours; topics 100 to 173 (73 extra) plus HL lenses 5 + 7 + 5 = 17; 73 + 17 = 90. **Verified against the ESS subject brief (first assessment 2026) curriculum table:** Topic 1 16 hours at both levels; topics 2-8 SL 22, 13, 12, 8, 10, 10, 9 and HL 35, 26, 25, 15, 23, 18, 15; lenses 5, 7, 5; syllabus content 100 and 190. |
+
+### Deferred
+
+| ID | Why | What would unblock it |
+|---|---|---|
+| E485 | The finding's second half is to add `8464` to `syllabusCodes` in the guide and practice. `validate-academic-content.mjs` rejects a code with no `syllabuses.ts` record, and Combined Science 8464 is not modelled. Both files already state that the content is also 8464 sub-topic 6.1.3. | An owner decision to model AQA 8464 in the data layer (record, topics), after which the code can be added. |
+
+### Already correct
+
+None in this batch.
+
+### Observations, not actioned (for the audit's next round)
+
+- **Chemistry.** OCR and OxfordAQA amount-of-substance files give atom economy without coefficients; their boards' specifications were not read.
+- **Physics.**
+  - Magnetic fields notes and practice do not cover the Hall effect.
+  - Astronomy practice 6(c) (cosmic microwave background) is beyond 9702 and unlabelled.
+  - Oscillations practice 7(a)/(b) quote three significant figures from two-figure data.
+  - The Unit 4 IAL notes still say the weak force explains beta decay.
+- **Biology.**
+  - 4BI1 notes and practice descriptions say "the five kingdoms", which the specification does not name.
+  - The 9610 guide L98 names "polymorphic gene loci" and mutation, which are not in 3.1.11.
+- **Economics and business.**
+  - The J204/01 practice uses "added value" (not in J204) and a break-even question (Business 2 content).
+  - The 9708 AS basic-ideas practice uses Sections A/B/C (headings left, as the order requires).
+- **Languages.**
+  - The 3248 record in `syllabuses.ts` still links the 2024-2026 syllabus.
+  - Several OxfordAQA science files declare versions older than the live documents (9201 v4.3 against live v5.2; 9620 v4.3 against v5.3).
+  - OxfordAQA has published 9275 v1.0 and 9675 v5.6 for exams from 2028.
+  - OxfordAQA Urdu Theme 2/3 files call topics "sub-topics", and `igcse-oxfordaqa-urdu-study-employment-practice` Q7 has the E215 pattern.
+- **Law.**
+  - The 9084 files say four civil tracks, where the syllabus lists three.
+  - The 9699 practice Q2b/Q3 do not follow the syllabus question patterns.
+- **The audit's own record.**
+  - E451's round-12 evidence ("the unit sets one directed writing task") omits the specification's "from a choice of two questions".
+  - E476's earlier repair had over-corrected, as described above.
+
+**Validation.** All pass:
+
+- `astro check`: 0 errors
+- `validate:academic`
+- build: 2128 pages
+- `audit:all`: 0 problems
+- cross-board regression
+- negative suite
+- API tests: 31/31
+
+`check-duplicate-resource-scope.mjs` still reports only the same four pre-existing unreviewed groups.
+
+**Open-count position after D-235, as this log reads it (for the audit to reconcile, not to take on trust).** Of round 12's 110 open confirmed errors, 109 are closed here (the 101 reopened IDs less E485, plus E903-E911). **Still open: E485** (deferred, data-layer decision).

@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-cognition-and-behaviour-9218"
-description: "Original exam-style practice questions with full worked answers on memory, perception, research methods and psychological explanations."
+description: "Original exam-style practice questions with full worked answers on memory, perception, biopsychology, research methods and psychological explanations."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -64,6 +64,12 @@ Related: [Cognition and Behaviour revision notes](/resources/igcse-psychology-co
 
 **10.** Distinguish between monocular and binocular depth cues, giving **one** example of each. **[4]**
 
+**11.** Describe the fight or flight response, referring to the autonomic nervous system and the endocrine system. **[4]**
+
+**12.** Explain the process of synaptic transmission, including what is meant by excitation and inhibition. **[5]**
+
+**13.** Identify the location and function of Broca's area and Wernicke's area. **[4]**
+
 ---
 
 ## Answers
@@ -98,6 +104,12 @@ Related: [Cognition and Behaviour revision notes](/resources/igcse-psychology-co
 
 **10. Monocular** depth cues require only **one eye**, e.g. linear perspective, relative size, height in the visual plane, or occlusion (accept any one) [1] [1]. **Binocular** depth cues require **both eyes working together**, e.g. retinal disparity or convergence [1] [1].
 
+**11.** When a threat is perceived, the **sympathetic branch of the autonomic nervous system** is activated [1]. It stimulates the **adrenal glands** (part of the endocrine system) to release the hormone **adrenaline** into the bloodstream [1]. This prepares the body for action, e.g. **increased heart rate and breathing rate, dilated pupils, and energy diverted to the muscles** (any two effects) [1]. When the threat has passed, the **parasympathetic branch** returns the body to its resting state [1].
+
+**12.** An electrical impulse travels along the neuron and reaches the **presynaptic terminal** [1]. This triggers the release of **neurotransmitters** from vesicles into the **synaptic gap (cleft)** [1]. The neurotransmitters cross the gap and **bind to receptors on the postsynaptic neuron** [1]. **Excitation** means the neurotransmitter makes the postsynaptic neuron **more likely to fire** an impulse; **inhibition** means it makes the neuron **less likely to fire** [1]. The neurotransmitter is then removed from the gap, mainly by **reuptake** into the presynaptic neuron, which ends the signal [1].
+
+**13. Broca's area** is in the **frontal lobe** (usually of the left hemisphere) [1] and is responsible for **speech production** [1]. **Wernicke's area** is in the **temporal lobe** (usually of the left hemisphere) [1] and is responsible for **understanding (comprehending) language** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -107,3 +119,4 @@ Related: [Cognition and Behaviour revision notes](/resources/igcse-psychology-co
 - Naming control variables without saying why they matter.
 - Describing reconstructive memory without applying it to eyewitness testimony.
 - Stating the capacity and duration of each memory store without describing the model's structure (the flow between stores, attention as the first transfer mechanism, rehearsal as the second).
+- Swapping Broca's and Wernicke's areas (production versus comprehension), or describing fight or flight without naming the autonomic nervous system and adrenaline.

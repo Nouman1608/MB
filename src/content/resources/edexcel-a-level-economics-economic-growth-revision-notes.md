@@ -102,7 +102,7 @@ When a government reports "economic growth" of, say, 3%, it is almost always rep
 ## Quick self-test
 
 1. Explain all three distinctions (real/nominal, total/per capita, value/volume) using one GDP figure as an example.
-2. State the purpose of PPP adjustment in international comparison.
+2. Explain the purpose of PPP adjustment in international comparison.
 3. Given quarterly growth figures, determine whether and when a recession began.
 4. Name two limitations of GDP as a measure of living standards.
 5. Explain why GNI can differ from GDP for a specific country.

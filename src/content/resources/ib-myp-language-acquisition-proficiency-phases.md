@@ -55,8 +55,9 @@ be treated as the same scale.
 
 ## The four criteria are independently weighted
 
-Each criterion is scored on an 8-point scale (1-8) for classroom assessment, giving a classroom
-total of 32 across all four -- a separate scale from the eAssessment blueprint figures below, which
+Each criterion is scored on an 8-point scale (1-8) for classroom assessment (with a level of 0 for
+work that does not reach any of the four descriptor bands, so each criterion runs 0-8), giving a
+classroom total of 0-32 across all four -- a separate scale from the eAssessment blueprint figures below, which
 are raw marks, not achievement levels. In the eAssessment blueprint: Criterion A, Listening (24
 marks), covers interpreting and constructing meaning from spoken multimodal text. Criterion B,
 Reading (24 marks), covers constructing meaning from written, spatial and visual text. Criterion C,

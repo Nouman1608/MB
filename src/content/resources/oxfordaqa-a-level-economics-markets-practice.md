@@ -13,7 +13,7 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-operation-of-markets-market-failure-and-the-role-of-government-oxfordaqa-alevel-economics"
-description: "Original exam-style practice questions with full worked answers on marginal utility, elasticity, market failure and government intervention."
+description: "Original exam-style practice questions with full worked answers on market failure, externalities, tax incidence and government intervention for OxfordAQA International AS Economics Unit 1, with separately marked Unit 3 extension questions on utility, surplus and efficiency."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -28,11 +28,11 @@ Related: [The Operation of Markets revision notes](/resources/oxfordaqa-a-level-
 
 The real unit has two compulsory sections: Section A is 15 marks of
 multiple choice, and Section B is a single 65-mark data-response
-context. This paper follows that two-section structure. Questions 8-10
-below cover utility, surplus and efficiency, which are **Unit 3
-content examined at A2**, not Unit 1 AS content -- they are included
-here as forward-looking extension only, and are not part of this
-unit's own assessment.
+context. This paper follows that two-section structure. Questions 13-15, in
+the Extension section after Section B, cover utility, surplus and
+efficiency, which are **Unit 3 content examined at A-level**, not Unit 1
+AS content -- they are included as forward-looking extension only, and
+are not part of this unit's own assessment.
 
 ---
 
@@ -99,7 +99,7 @@ A. be borne mostly by the producer  B. be borne mostly by the consumer  C. have 
 
 **9. Non-excludable** — once the good is provided, **non-payers cannot be prevented from consuming it**, so individuals have an incentive to **free ride** rather than pay [1] [1]. **Non-rival** — **one person's consumption does not reduce what is available to others**, so there is no price mechanism to ration it [1] [1].
 
-**10. Merit goods** generate a **positive externality** and are **under-consumed** relative to the social optimum, because consumers **underestimate the benefit** to themselves (information failure), e.g. **education or healthcare** [1] [1]. **Demerit goods** generate a **negative externality**, and are **over-consumed** because consumers **underestimate the harm**, e.g. **tobacco or alcohol** [1] [1].
+**10. Merit goods** — judged (a value judgement) to be under-consumed in a free market; they are often subject to **positive externalities in consumption**, and under-provision may also result from **imperfect information**, as consumers **underestimate the benefit** to themselves, e.g. **education or healthcare** [1] [1]. **Demerit goods** — judged to be over-consumed; they are often subject to **negative externalities in consumption**, and over-provision may also result from consumers **underestimating the harm**, e.g. **tobacco or alcohol** [1] [1].
 
 **11. (a)** Because demand is **inelastic (PED = −0.2)**, the leftward shift in supply from the tax causes quantity to fall only slightly, so **most of the tax is passed to consumers** as a higher price [1] [1]. **(b)** Because quantity barely changes, **tax revenue is large and predictable** [1] [1]. **(c)** The government's welfare objective — reducing consumption of the good — is **largely missed**, since consumption is close to unchanged; the tax is effective at **raising revenue** but poor at **changing behaviour**, and is also **regressive**, taking a larger share of the income of poorer households [1] [1].
 

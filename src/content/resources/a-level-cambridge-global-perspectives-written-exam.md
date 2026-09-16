@@ -49,10 +49,11 @@ published so far, cover Components 1-3 (the AS Level) only. Component
 
 Component 1 is an externally set and marked written paper based on
 source material relating to a global issue. Candidates apply the
-Critical Path -- interrogating information, exploring different
-perspectives and communicating personal reflections -- to analyse and
-respond to the sources provided, rather than recalling memorised
-subject content.
+Critical Path skills this component uses -- deconstruction,
+reconstruction and communication (the syllabus maps reflection and
+collaboration to other components, not this one) -- to analyse and
+evaluate the arguments, evidence and perspectives in the sources
+provided, rather than recalling memorised subject content.
 
 ## How to approach it
 

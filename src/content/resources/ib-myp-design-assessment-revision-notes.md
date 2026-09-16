@@ -32,7 +32,8 @@ attainable range is 0-8, and the four-criterion subject total is 0-32, not 4-32.
 
 ## The design cycle drives everything
 
-Inquire → analyse → develop ideas → create → evaluate. Every criterion maps onto a stage of this
+Inquiring and analysing → developing ideas → creating the solution → evaluating. The cycle has four
+stages, and each of the four criteria maps onto one stage of this
 cycle — work that skips a stage (e.g. building a prototype with no documented specification) will
 lose marks on the criterion tied to the missing stage.
 
@@ -48,7 +49,7 @@ Each criterion is assessed against level descriptors organised in bands: criteri
 
 ## Why the design cycle is assessed as a genuine process
 
-The inquire-analyse-develop-create-evaluate cycle is not simply a checklist of stages to complete -- it models how design actually happens in practice, and each criterion is built to assess a distinct stage of that process rather than the final product alone. This is why two students who produce visually similar final prototypes can receive very different marks: the criteria reward the *process* documented behind the prototype (the research, the specification, the planning, the testing and reflection) at least as much as the finished object itself. Students who focus revision or coursework time disproportionately on making a polished final product, at the expense of documenting the process, consistently underperform relative to their actual design thinking.
+The four-stage cycle (inquiring and analysing, developing ideas, creating the solution, evaluating) is not simply a checklist of stages to complete -- it models how design actually happens in practice, and each criterion is built to assess a distinct stage of that process rather than the final product alone. This is why two students who produce visually similar final prototypes can receive very different marks: the criteria reward the *process* documented behind the prototype (the research, the specification, the planning, the testing and reflection) at least as much as the finished object itself. Students who focus revision or coursework time disproportionately on making a polished final product, at the expense of documenting the process, consistently underperform relative to their actual design thinking.
 
 ## The ePortfolio in more depth
 
@@ -73,7 +74,7 @@ The four criteria mirror the design thinking process used professionally across 
 5. Why can two visually similar prototypes receive very different marks?
 6. What happens to a folder's overall achievement level if the prototype is strong but the specification/development record is thin?
 
-**Answers:** 1. Inquiring and analysing; Developing ideas; Creating the solution; Evaluating. 2. An eight-point scale (1-8). 3. Reflecting on how the solution could be improved, not just testing whether it works. 4. By ePortfolio — a complete design folder marked by the teacher and externally moderated by the IB on a sampled basis. 5. Because the criteria reward the documented process behind the prototype (research, specification, planning, testing and reflection), not just the finished object, so a strong process with a modest prototype can outscore a strong prototype with a thin process. 6. It is dragged down overall, since criteria A, B and D score poorly even though criterion C (creating the solution) might score well.
+**Answers:** 1. Inquiring and analysing; Developing ideas; Creating the solution; Evaluating. 2. An eight-point scale (1-8) across four descriptor bands, with a level of 0 for work below the lowest band (so 0-8 in practice). 3. Reflecting on how the solution could be improved, not just testing whether it works. 4. By ePortfolio — a complete design folder marked by the teacher and externally moderated by the IB on a sampled basis. 5. Because the criteria reward the documented process behind the prototype (research, specification, planning, testing and reflection), not just the finished object, so a strong process with a modest prototype can outscore a strong prototype with a thin process. 6. It is dragged down overall, since criteria A, B and D score poorly even though criterion C (creating the solution) might score well.
 
 ## Official syllabus
 

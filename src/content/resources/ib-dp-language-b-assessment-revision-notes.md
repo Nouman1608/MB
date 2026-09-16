@@ -55,7 +55,7 @@ time is 150 hours at SL and 240 hours at HL.
 
 ## The individual oral in more depth
 
-The oral is graded against criteria covering: **language** (range, accuracy and fluency appropriate to the level); the ability to **respond to and develop** the stimulus or extract in a structured way, rather than simply describing what is shown or narrated; and, at the level appropriate to SL or HL, the depth of **analysis and connection** made to the relevant prescribed theme or literary work. A common weakness at both levels is spending too much of the prepared time describing the surface content of the stimulus or extract, leaving too little time to develop an argument or connect it to the broader theme -- examiners consistently reward students who move beyond description into interpretation and connection within the time available.
+The oral is marked against four criteria: Criterion A, **language** (12 marks); Criterion B1, **message** (6 marks), which is *Message—visual stimulus* at SL and *Message—literary extract* at HL; Criterion B2, **message—conversation** (6 marks); and Criterion C, **interactive skills—communication** (6 marks), for a total of 30. The presentation on the stimulus or extract and the follow-up conversation are marked separately (B1 and B2), and interactive skills are a fifth of the marks. A common weakness at both levels is spending too much of the prepared time describing the surface content of the stimulus or extract, leaving too little time to develop an argument or connect it to the broader theme -- examiners consistently reward students who move beyond description into interpretation and connection within the time available.
 
 ## Command terms and the two papers
 
@@ -84,7 +84,7 @@ Language B is studied as an additional, typically non-native language, whereas t
 5. Name one criterion the individual oral is graded against, beyond language accuracy.
 6. How many literary works are required to be studied at HL?
 
-**Answers:** 1. 50%, split evenly by weighting between listening comprehension (25%, 25 raw marks) and reading comprehension (25%, 40 raw marks) -- the weighting is even but the raw marks are not. 2. Study of two literary works originally written in the target language. 3. A photograph or short stimulus connected to one of the five prescribed themes. 4. The student's own teacher. 5. The ability to respond to and develop the stimulus or extract in a structured way, or the depth of analysis and connection made to the relevant theme/work. 6. Two.
+**Answers:** 1. 50%, split evenly by weighting between listening comprehension (25%, 25 raw marks) and reading comprehension (25%, 40 raw marks) -- the weighting is even but the raw marks are not. 2. Study of two literary works originally written in the target language. 3. A photograph or short stimulus connected to one of the five prescribed themes. 4. The student's own teacher. 5. Any one of: Criterion B1, message (visual stimulus at SL, literary extract at HL); Criterion B2, message—conversation; Criterion C, interactive skills—communication. 6. Two.
 
 ## Official syllabus
 

@@ -26,7 +26,7 @@ featured: false
 
 Related: [Business and Its Environment revision notes](/resources/a-business-environment-revision-notes/)
 
-This paper covers AS Topic 1 (1.1–1.5) only. The external environment (PESTLE) and business strategy (SWOT, Ansoff, Porter's five forces) are A Level Topic 6 content and are not assessed at AS.
+This paper covers AS Topic 1 (1.1–1.5) only. The external environment (for example PEST analysis) and business strategy (SWOT analysis, the Ansoff matrix, Porter's five forces) are A Level Topic 6 content and are not assessed at AS.
 
 ---
 
@@ -40,7 +40,7 @@ This paper covers AS Topic 1 (1.1–1.5) only. The external environment (PESTLE)
 
 **3.** Explain **two** benefits and **two** costs to a business of adopting a corporate social responsibility policy. **[8]**
 
-**4.** Explain the relative importance and influence of stakeholders, and how a business should manage a stakeholder with **high power and high interest** compared with one of **low power and low interest**. **[6]**
+**4.** A manufacturer decides to close one of its factories to cut costs. Explain how **two** stakeholder groups are likely to react to this decision, and how conflict might arise from their different aims. **[6]**
 
 **5.** Evaluate whether a rapidly growing business should expand through organic growth or through merger and takeover. **[12]**
 
@@ -59,7 +59,8 @@ This paper covers AS Topic 1 (1.1–1.5) only. The external environment (PESTLE)
 **3. Benefits:** CSR **enhances brand reputation and differentiates the business**, attracting customers who care about how products are made and supporting a price premium [1] [1]. It **improves recruitment, motivation and retention of staff**, cutting the cost of turnover and raising productivity [1] [1].
 **Costs:** CSR **raises direct costs** — fair-trade sourcing, higher wages, recycled packaging — which either reduces margin or raises price [1] [1]. It **constrains decision-making**: the business may be unable to relocate to a cheaper supplier or close a loss-making site without reputational damage, reducing flexibility [1] [1].
 
-**4.** Stakeholders vary in how much **power** they hold over a business and how much **interest** they take in a given decision [1] [1]. A stakeholder with **high power and high interest** — for example a major institutional shareholder — must be **managed closely**: consulted before major decisions and kept fully informed, because they can block or force change [1] [1]. A stakeholder with **low power and low interest** requires only **minimal effort — general monitoring** [1], with information provided through routine channels rather than active engagement [1].
+**4.** Any two stakeholder groups, 2 marks each (1 for the impact of the decision on the group, 1 for its likely reaction): **employees** at the factory lose their jobs or face relocation [1], so they may protest, strike through a trade union, or lose motivation across the rest of the business [1]; **shareholders** gain from lower costs and higher expected profit [1], so they are likely to support the closure [1]; the **local community** loses income and spending in the area [1], so it may campaign against the closure or damage the firm's local reputation [1].
+**Conflict**, 2 marks: the shareholders' aim of higher profit and dividends is opposed to the employees' aim of job security [1], so the business must decide whose aim takes priority, and how it remains accountable to the group that loses, for example through redundancy support or retraining [1].
 
 **5. For organic growth:** it lets the business **retain full control and ownership** [1]; it builds on **existing capabilities and culture**, so it carries **lower risk** than buying an unfamiliar business [1]; it can be funded from **retained profit**, avoiding new debt or share issues [1].
 **For external growth (merger/takeover):** it is **much faster**, giving immediate access to new markets, brands, technology or capacity that would take years to build organically [1] [1]; it can **remove a competitor** from the market at the same time as growing [1].
@@ -75,6 +76,6 @@ This paper covers AS Topic 1 (1.1–1.5) only. The external environment (PESTLE)
 ## Where marks are usually lost
 
 - Giving only the costs or only the benefits of CSR.
-- Describing stakeholder power and interest without saying how each group is managed.
+- Listing stakeholder groups without explaining how the decision affects each one and why their different aims lead to conflict.
 - Writing a one-sided answer to an "evaluate" question — a judgement is required.
 - Naming an entrepreneurial quality without explaining why it matters to that specific business idea.

@@ -76,7 +76,7 @@ The product has **one more carbon** than the starting carbonyl — a chain-lengt
 
 **Curly arrows:** from the CN⁻ lone pair to the carbon; from the C=O π bond to the oxygen.
 
-If the carbonyl carbon has two different groups, the product is **chiral** and forms as a **racemic mixture** ("racemic mixture" and "optically active" are A Level terms — at AS it's enough to say equal amounts of both enantiomers form), because the planar carbonyl can be attacked equally from either face.
+If the carbonyl carbon has two different groups (e.g. ethanal, H and CH₃; not propanone, whose two CH₃ groups are identical, so its product has no chiral centre), the product is **chiral** and forms as a **racemic mixture** ("racemic mixture" and "optically active" are A Level terms — at AS it's enough to say equal amounts of both enantiomers form), because the planar carbonyl can be attacked equally from either face.
 
 ## The identifying tests
 

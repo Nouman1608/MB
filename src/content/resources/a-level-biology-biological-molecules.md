@@ -51,9 +51,10 @@ secondary, tertiary and quaternary levels of protein structure, and
 how structure relates to function, including the distinction between
 globular proteins (such as haemoglobin) and fibrous proteins (such as
 collagen)
-- 2.4 Water — the properties of water (as a solvent, its high specific
-heat capacity, latent heat of vaporisation and other properties) and
-their significance for living organisms
+- 2.4 Water — how hydrogen bonding occurs between water molecules, and
+the properties of water related to its roles in living organisms,
+limited to solvent action, high specific heat capacity and latent heat
+of vaporisation
 
 ## How to approach it
 
@@ -107,9 +108,9 @@ and "fibrous" as unexplained labels, is exactly the kind of
 structure-to-function reasoning this sub-topic rewards.
 
 Water (2.4) is a short sub-topic but a frequently underprepared one:
-be ready to explain properties such as water's high specific heat
-capacity, its high latent heat of vaporisation, and its effectiveness
-as a solvent, each in terms of hydrogen bonding between polar water
+be ready to explain the three properties the outcome is limited to,
+water's high specific heat capacity, its high latent heat of
+vaporisation, and its effectiveness as a solvent, each in terms of hydrogen bonding between polar water
 molecules, and to link each property to a concrete biological
 consequence (thermal stability of aquatic habitats, evaporative
 cooling by sweating or transpiration, or transport of dissolved

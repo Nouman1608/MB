@@ -52,8 +52,8 @@ differ between the two qualifications even where topic names match.
 - Understand that a scalar quantity has magnitude only, and a vector quantity
 has magnitude and direction (1.1)
 - Know that distance, speed, time, mass, energy and temperature are scalars;
-displacement, force, weight, velocity, acceleration and momentum are vectors
-(1.1)
+displacement, force, weight, velocity, acceleration, momentum, electric field
+strength and gravitational field strength are vectors (1.1)
 - Define speed as distance travelled per unit time, and velocity as change in
 displacement per unit time (1.2)
 - Recall and use speed = distance ÷ time, and average speed = total distance
@@ -82,6 +82,7 @@ displacement; "5 metres" on its own, with no direction, is just a distance.
 | distance | displacement |
 | speed | velocity |
 | time, mass, energy, temperature | acceleration, force, weight, momentum |
+| | electric field strength, gravitational field strength |
 
 This distinction matters constantly in kinematics: **distance** is the total
 length of a path travelled, regardless of direction, while **displacement**
@@ -166,7 +167,8 @@ is the gradient of the tangent to the curve at that point.
 
 A speed–time graph carries different information from the same-shaped lines:
 
-- **Flat (horizontal) line** — constant speed (zero acceleration).
+- **Horizontal line lying on the time axis** (speed = 0) — the object is at rest.
+- **Flat (horizontal) line above the time axis** — constant speed (zero acceleration).
 - **Straight line, sloping up** — constant acceleration.
 - **Curve** — changing acceleration.
 

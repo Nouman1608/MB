@@ -127,11 +127,17 @@ W = m × g
 
 **Newton's third law** states that when object A exerts a force on object
 B, object B exerts an equal and opposite force on object A, acting on
-different objects along the same line. For example, when you stand on the
-ground, your weight pushes down on the ground, and the ground pushes up on
-you with an equal and opposite normal contact force — the two forces of a
-Newton's third law pair always act on **different objects**, which is why
-they never cancel each other out for a single object.
+different objects along the same line, and the two forces are always the
+same type of force. For example, when you stand on the ground, your feet
+push down on the ground and the ground pushes up on you with an equal and
+opposite normal contact force: that is one third-law pair (both contact
+forces). Separately, the Earth pulls down on you (your weight) and you pull
+up on the Earth with an equal gravitational force: that is a second pair.
+Your weight and the ground's upward push are **not** a third-law pair:
+they are different types of force and both act on you, and they are equal
+only because you are in equilibrium. The two forces of a Newton's third law
+pair always act on **different objects**, which is why they never cancel
+each other out for a single object.
 
 ## Stopping distance and terminal velocity
 

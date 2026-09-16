@@ -50,7 +50,7 @@ Because every paper permits technology, including Paper 1, the course's papers a
 
 ## The mathematical exploration in more depth
 
-The exploration is graded against criteria covering: **presentation** (a coherent, well-organised piece of mathematical writing); **mathematical communication** (using appropriate notation and terminology consistently); **personal engagement** (evidence of the student's own initiative and interest, not a re-worked textbook example); **reflection** (critical, not just descriptive, commentary on the mathematics used and its limitations); and **use of mathematics** (demonstrating knowledge and understanding appropriate to the level, applied correctly and, where possible, with some element of rigour or generalisation). A common weakness is choosing a topic so broad that the mathematics used ends up superficial -- a tightly scoped, genuinely real-world question, explored with real data or a real scenario, generally scores more highly than an ambitious but under-developed one.
+The exploration is graded against criteria covering: **presentation** (a coherent, well-organised piece of mathematical writing); **mathematical communication** (using appropriate notation and terminology consistently); **personal engagement** (evidence of the student's own initiative and interest, not a re-worked textbook example); **reflection** (critical, not just descriptive, commentary on the mathematics used and its limitations); and **use of mathematics** (demonstrating knowledge and understanding appropriate to the level, applied correctly and, where possible, with some element of rigour or generalisation). A common weakness is choosing a topic so broad that the mathematics used ends up superficial -- a tightly scoped question, developed in depth, generally scores more highly than an ambitious but under-developed one. In this course a real dataset or real scenario is often a natural way to scope it, though the exploration itself only requires an area of mathematics chosen by the student.
 
 ## How this course compares to Analysis and Approaches
 
@@ -63,7 +63,7 @@ As with every DP subject, command terms signal the depth of response expected: *
 ## Exam traps
 
 - Not practising efficient use of allowed technology (GDC/software), since every paper permits it here.
-- Choosing an exploration topic without a genuine real-world grounding, when the course's whole emphasis is applied, data-rich modelling.
+- Believing the exploration must investigate a real-world issue -- it is an investigation into an area of mathematics chosen by the student; a real dataset or context suits this course's applied emphasis well, but it is advice, not a requirement.
 - Confusing this course's technology rules with Analysis and Approaches' no-technology Paper 1.
 
 ## Self-test

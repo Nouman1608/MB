@@ -63,7 +63,7 @@ Related: [Astronomy and Cosmology revision notes](/resources/a-physics-astronomy
 
 **(b)** Calculate the distance to the galaxy. **[2]**
 
-**(c)** Estimate the age of the universe from H₀. **[2]**
+**(c)** *(Background, beyond the 9702 learning outcomes — the age of the universe is not in the syllabus.)* Estimate the age of the universe from H₀. **[2]**
 
 **6.** Almost every galaxy observed shows redshift, and the redshift increases with distance.
 
@@ -85,9 +85,9 @@ Related: [Astronomy and Cosmology revision notes](/resources/a-physics-astronomy
 
 **(c)** Explain why measuring flux alone, without knowing the object is a standard candle, is not sufficient to determine its distance. **[2]**
 
-**8.** Different measurement techniques for the Hubble constant give values that disagree by several percent, even though all cluster around 70 km s⁻¹ Mpc⁻¹.
+**8.** Different measurement techniques for the Hubble constant give values that disagree by several percent, even though all cluster around 2.3 × 10⁻¹⁸ s⁻¹ (quoted by astronomers as about 70 km s⁻¹ Mpc⁻¹; 9702 questions use SI units only).
 
-**(a)** State what this disagreement implies about using 1/H₀ to estimate the age of the universe. **[2]**
+**(a)** *(Background, beyond the 9702 learning outcomes.)* State what this disagreement implies about using 1/H₀ to estimate the age of the universe. **[2]**
 
 **(b)** A galaxy has an independently measured distance of 1.2 × 10²⁴ m and a recession velocity of 2.76 × 10⁶ m s⁻¹. Calculate the value of H₀ implied by this single galaxy. **[2]**
 

@@ -169,8 +169,8 @@ error IB data-response mark schemes penalise.
 
 ## Quick revision checklist
 
-- State the difference between GDP and GNI, and know why GNI is a
-broader measure.
+- State the difference between GDP and GNI, and know why GNI can be
+above or below GDP (net income from abroad can be positive or negative).
 - Describe the four phases of the business cycle and give one example
 of each from real-world data.
 - Sketch the AD-AS diagram from memory, labelling both curves and the

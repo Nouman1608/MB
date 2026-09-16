@@ -18,11 +18,14 @@ publishedDate: 2026-08-21
 featured: false
 ---
 
-This guide covers **Component 1 Introduction to Economics**, one of
+This guide covers **Topic 1 Introduction to Economics** (1.1 and 1.2),
+the first of the two topics in Component 01 (J205/01), which is one of
 two equally weighted components in OCR GCSE (9-1) Economics (J205),
-for first teaching from 2017. This component introduces fundamental
-economic terms and concepts, applying them to explain how markets work
-in contemporary and historical economic contexts.
+for first teaching from 2017. It does not cover Topic 2, The role of
+markets and money (2.1 to 2.8), which makes up the rest of Component 01.
+Component 01 as a whole introduces fundamental economic terms and
+concepts, applying them to explain how markets work in contemporary and
+historical economic contexts.
 
 ## Where this fits in J205
 
@@ -37,7 +40,7 @@ arising from economic activity.
 
 ## Syllabus coverage
 
-**OCR GCSE ECONOMICS (J205) — COMPONENT 01 INTRODUCTION TO ECONOMICS — TOPIC 1**
+**OCR GCSE ECONOMICS (J205) — COMPONENT 01 — TOPIC 1 INTRODUCTION TO ECONOMICS**
 
 - 1.1 Main economic groups and factors of production — the role of the
 main economic groups (consumers, producers and the government) and

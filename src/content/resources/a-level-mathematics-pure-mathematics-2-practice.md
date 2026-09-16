@@ -12,7 +12,7 @@ order: 4
 syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-2-cambridge-alevel"
-description: "Original exam-style practice questions with full worked solutions on the modulus function, rational-function algebra, logarithms and exponentials, extended trigonometry, differentiation, integration and numerical methods, for Cambridge International AS & A Level Mathematics (9709) Pure Mathematics 2."
+description: "Original exam-style practice questions with full worked solutions on the modulus function, polynomial division and the factor theorem, logarithms and exponentials, extended trigonometry, differentiation, integration and numerical methods, for Cambridge International AS & A Level Mathematics (9709) Pure Mathematics 2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false

@@ -45,19 +45,24 @@ they build directly on the scarcity-and-opportunity-cost toolkit introduced in U
 ```
 Price
   ^
-  |   D                   S
-  |    \                 /
-  |     \               /
-  |      \             /
-Pe|-------\-----------/-------  <- equilibrium price
-  |        \         /
-  |         \       /
-  |          \     /
-  +------------------------------> Quantity
-                  Qe
+  | D                 S
+  |  \               /
+  |   \             /
+  |    \           /
+  |     \         /
+  |      \       /
+  |       \     /
+  |        \   /
+  |         \ /
+Pe|----------X
+  |         /:\
+  |        / : \
+  |       /  :  \
+  +---------------------------> Quantity
+             Qe
 ```
 
-The **downward-sloping line is demand (D)**; the **upward-sloping line is supply (S)**; the vertical axis is **Price** and the horizontal axis is **Quantity**; the intersection marks the equilibrium price (Pe) and equilibrium quantity (Qe) directly beneath it.
+The **downward-sloping line is demand (D)**; the **upward-sloping line is supply (S)**; the vertical axis is **Price** and the horizontal axis is **Quantity**; the two lines cross at X, where the dashed line across to the price axis marks the equilibrium price (Pe) and the dotted line down to the quantity axis marks the equilibrium quantity (Qe) directly beneath the intersection.
 
 Equilibrium is where quantity demanded = quantity supplied. A **shortage** (price below
 equilibrium) pushes price up; a **surplus** (price above equilibrium) pushes price down —
@@ -107,7 +112,7 @@ available to buyers falls short of what the free-market equilibrium quantity wou
 though the ceiling was intended to make the good more affordable. Price ceilings on housing rents
 are the standard example. This is only a preview of price controls — the full sub-topic on
 government intervention in markets, covering both price ceilings and price floors in depth, is
-sub-topic 2.4, which follows immediately after 2.1-2.3 and is not covered by these notes.
+part of sub-topic 2.7, Role of government in microeconomics, which is not covered by these notes.
 
 ## Connecting forward to elasticity
 

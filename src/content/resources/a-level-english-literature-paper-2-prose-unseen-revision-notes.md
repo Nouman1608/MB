@@ -13,7 +13,7 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-prose-and-unseen-9695"
-description: "Condensed revision notes on approaching Section A (set prose) and Section B (unseen prose) for Cambridge International A Level English Literature Paper 2 (9695)."
+description: "Condensed revision notes on approaching Section A (set prose) and Section B (a choice of two previously unseen passages drawn from two of prose, poetry and drama) for Cambridge International A Level English Literature Paper 2 (9695)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
 featured: false

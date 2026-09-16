@@ -57,8 +57,11 @@ relative abundance, and can be used both to identify elements and to
 determine relative molecular mass. You need to be able to interpret
 simple mass spectra of elements, and calculate relative atomic mass
 from isotopic abundance data (limited to mononuclear ions -- that is,
-single-atom ions rather than molecular or polyatomic ones, so
-mass-to-charge ratio equals mass directly).
+ions containing a single nucleus, i.e. single-atom ions rather than
+molecular or polyatomic ones). The restriction is about the number of
+atoms in the ion, not its charge; as a separate point, where an ion
+carries a single positive charge (1+), its mass-to-charge ratio is
+numerically equal to its relative mass.
 
 ## Electron configuration and ionisation energies
 
@@ -132,5 +135,5 @@ in the course.
 OxfordAQA, *International AS and A-level Chemistry (9620)
 specification*, Version 4.3, for International AS and A-level exams
 May/June 2020 onwards: [official specification
-PDF](https://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-as-and-a-level-chemistry-specification.pdf),
+PDF](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-a-level-chemistry-specification.pdf),
 section 3.1.1 "Atomic structure". Verified 2026-09-02.

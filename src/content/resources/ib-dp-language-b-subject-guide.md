@@ -93,12 +93,7 @@ themes. This is consistent with the earlier point that HL Language B
 students study two literary works originally written in the target
 language, while SL students are not required to.
 
-The oral itself is graded against criteria covering **language** (range,
-accuracy and fluency appropriate to the level), the ability to
-**respond to and develop** the stimulus or extract in a structured way
-rather than simply describing what is shown or narrated, and, at the
-level appropriate to SL or HL, the depth of **analysis and connection**
-made to the relevant prescribed theme or literary work. A common
+The oral itself is marked against four criteria: Criterion A, **language** (12 marks); Criterion B1, **message** (6 marks), which is *Message—visual stimulus* at SL and *Message—literary extract* at HL; Criterion B2, **message—conversation** (6 marks); and Criterion C, **interactive skills—communication** (6 marks), for a total of 30. The presentation on the stimulus or extract and the follow-up conversation are marked separately (B1 and B2), and interactive skills are a fifth of the marks. A common
 weakness at both levels is spending too much of the prepared time
 describing the surface content of the stimulus or extract, leaving too
 little time to develop an argument or connect it to the broader theme.

@@ -151,4 +151,4 @@ genuinely tracks reading and analytical skill rather than recall alone.
 ## Official specification
 
 OxfordAQA International GCSE English Literature (9275) specification,
-Version 5.1 — [oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-international-gcse-english-literature-specification-2018.pdf).
+Version 5.1 — [oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-english-literature-specification-2018.pdf).

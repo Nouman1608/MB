@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "chemical-energetics"
     subtopic: "exothermic-and-endothermic-reactions"
-description: "Original exam-style practice questions with full worked answers on energy profiles, bond energies, enthalpy calculations and calorimetry."
+description: "Original exam-style practice questions with full worked answers on energy profiles, bond energies and enthalpy calculations, plus two calorimetry questions labelled as background beyond 0620/5070 for progression to AS."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
 featured: false
@@ -56,7 +56,7 @@ Related: [Exothermic and Endothermic Reactions revision notes](/resources/energe
 > only as useful background for progression to AS Chemistry (9701), and
 > won't be examined at IGCSE/O Level.
 
-**6.** 50.0 cm³ of acid is neutralised by 50.0 cm³ of alkali (equal volumes); the temperature rises by 6.8 °C. Take the specific heat capacity as 4.18 J g⁻¹ °C⁻¹ and the density as 1.00 g cm⁻³.
+**6.** *(Background — not a 0620/5070 outcome.)* 50.0 cm³ of acid is neutralised by 50.0 cm³ of alkali (equal volumes); the temperature rises by 6.8 °C. Take the specific heat capacity as 4.18 J g⁻¹ °C⁻¹ and the density as 1.00 g cm⁻³.
 
 **(a)** Calculate the energy released in joules. **[2]**
 **(b)** Give **two** reasons why the experimental value is lower in magnitude than the accepted value. **[2]**
@@ -67,7 +67,7 @@ Related: [Exothermic and Endothermic Reactions revision notes](/resources/energe
 **(b)** State what happens to ΔH when a catalyst is used, explaining why. **[2]**
 **(c)** Describe how the catalysed pathway would be drawn on the same energy profile axes as the uncatalysed pathway. **[2]**
 
-**8.** 100 cm³ of dilute acid (density 1.00 g cm⁻³) is neutralised by 100 cm³ of alkali (equal volumes), and the temperature rises by 5.5 °C. Take c = 4.18 J g⁻¹ °C⁻¹.
+**8.** *(Background — not a 0620/5070 outcome.)* 100 cm³ of dilute acid (density 1.00 g cm⁻³) is neutralised by 100 cm³ of alkali (equal volumes), and the temperature rises by 5.5 °C. Take c = 4.18 J g⁻¹ °C⁻¹.
 
 **(a)** Calculate the energy released, in joules. **[2]**
 **(b)** Give **one** reason for the difference between this experimental value and the accepted data-book value, other than heat loss to the surroundings. **[1]**
@@ -88,14 +88,14 @@ Related: [Exothermic and Endothermic Reactions revision notes](/resources/energe
 
 **5.** Reactants drawn **lower than the products** on the energy axis [1]; a **hump between them** with **activation energy measured from the reactants up to the peak** [1] [1]; **ΔH measured from the reactants up to the products**, arrow pointing **upwards** and labelled as positive [1].
 
-**6. (a)** Total volume = 50.0 + 50.0 = 100.0 cm³ (acid + alkali, both warmed), so mass = 100.0 g; Q = mcΔT = 100.0 × 4.18 × 6.8 [1] = **2842 J** (2.84 kJ) [1].
+**6. (Background.) (a)** Total volume = 50.0 + 50.0 = 100.0 cm³ (acid + alkali, both warmed), so mass = 100.0 g; Q = mcΔT = 100.0 × 4.18 × 6.8 [1] = **2842 J** (2.84 kJ) [1].
 **(b)** **Heat is lost to the surroundings, the thermometer and the container** during the reaction, so less energy ends up warming the measured solution than the reaction actually released [1]; a **simple polystyrene cup is not fully insulated**, so it loses further heat in the same direction [1]. (The assumption that the solution has the specific heat capacity of pure water is a separate simplifying assumption — it does not, by itself, explain why the value is *lower*.)
 
 **7. (a)** The catalyst provides an **alternative reaction pathway with a lower activation energy** [1], so a greater proportion of colliding particles have enough energy to react, increasing the frequency of successful collisions [1].
 **(b)** ΔH is **unchanged** [1], because the catalyst only affects the pathway between reactants and products, not their **relative energy levels**, which is what ΔH actually measures [1].
 **(c)** A **second, lower curve** drawn between the *same two* starting and ending energy levels as the uncatalysed pathway [1], with a **smaller hump** representing the reduced activation energy [1].
 
-**8. (a)** Total volume = 100 + 100 = 200 cm³ (acid + alkali, both warmed), so mass = 200 g; Q = mcΔT = 200 × 4.18 × 5.5 [1] = **4598 J** (4.60 kJ) [1].
+**8. (Background.) (a)** Total volume = 100 + 100 = 200 cm³ (acid + alkali, both warmed), so mass = 200 g; Q = mcΔT = 200 × 4.18 × 5.5 [1] = **4598 J** (4.60 kJ) [1].
 **(b)** The specific heat capacity used (4.18 J g⁻¹ °C⁻¹) is that of **pure water**, not the actual dilute acid/salt solution, which differs slightly [1].
 
 ---
@@ -105,8 +105,8 @@ Related: [Exothermic and Endothermic Reactions revision notes](/resources/energe
 - Giving ΔH the wrong sign.
 - Reversing "bonds broken − bonds made".
 - Measuring activation energy from the products instead of the reactants.
-- Using the mass of the solute rather than the total solution mass in Q = mcΔT.
+- *(Background questions 6 and 8 only — not a 0620/5070 outcome)* Using the mass of the solute rather than the total solution mass in Q = mcΔT.
 - Saying a catalyst changes ΔH, or drawing the catalysed curve starting/ending at different energy levels from the uncatalysed one — only the height of the hump should change.
 - Explaining "increases the rate" without linking it back to activation energy and the proportion of particles with enough energy to react.
 
-Question 7 draws on the catalyst section of the [Exothermic and Endothermic Reactions revision notes](/resources/energetics-revision-notes/); questions 6 and 8 draw on the calorimetry section instead, since question 8 is itself a calorimetry question and has nothing to do with catalysts.
+Question 7 draws on the catalyst section of the [Exothermic and Endothermic Reactions revision notes](/resources/energetics-revision-notes/); questions 6 and 8 draw on the calorimetry section instead (background beyond 0620/5070), since question 8 is itself a calorimetry question and has nothing to do with catalysts.

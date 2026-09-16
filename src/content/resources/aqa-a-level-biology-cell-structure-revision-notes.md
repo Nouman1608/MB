@@ -42,9 +42,8 @@ Also required: cell-surface membrane, nucleus (chromosomes = protein-bound linea
 |---|---|---|
 | **Membrane-bound organelles** | Present | **Absent** |
 | **Ribosome size** | Larger | **Smaller** |
-| **Nucleus** | True nucleus | **None** — DNA free in cytoplasm |
-| **DNA form** | Protein-bound, linear | **Circular, NOT protein-bound** |
-| **Cell wall** | Cellulose/chitin (plants/fungi) | **Murein** (a glycoprotein) |
+| **Nucleus and DNA** (one specification bullet) | Nucleus present; linear DNA associated with proteins | **No nucleus** — a single **circular** DNA molecule free in the cytoplasm, **NOT associated with proteins** |
+| **Cell wall** | Cellulose (plants, algae) or chitin (fungi); none in animal cells | Contains **murein** (a glycoprotein) |
 
 Many prokaryotes also have **plasmids** (extra circular DNA, e.g. carrying antibiotic resistance genes), a **capsule**, and **flagella** (structural detail not required).
 

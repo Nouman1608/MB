@@ -113,7 +113,7 @@ Related: [Infrared and Mass Spectrometry revision notes](/resources/as-chemistry
 **7. (a)** Loss of 15: **CH₃** [1]. Loss of 45: **COOH** [1]. Both are standard losses worth recognising directly from the fragment mass, without working out a full structure first.
 **(b)** A **carboxylic acid** group [1] — losing 45 (COOH) directly from the molecular ion is a strong indicator on its own, and losing 15 (CH₃) as well narrows the structure further, consistent with a short-chain carboxylic acid such as propanoic or ethanoic acid.
 
-**8. (a)** The sharp peak at ~2240 cm⁻¹ is a **C≡N** bond [1]; the peak at ~3350–3400 cm⁻¹, appearing as two components, is an **N–H** bond, distinct from the broader O–H absorptions seen elsewhere in the spectrum [1].
+**8. (a)** The sharp peak at ~2240 cm⁻¹ is a **C≡N** bond [1]; the peak at ~3350–3400 cm⁻¹, appearing as two components, is an **N–H** bond, distinct from the broader O–H absorption (3200–3600) that an alcohol would show [1].
 **(b)** C≡N is consistent with a **nitrile** [1]; N–H is consistent with an **amine** [1].
 **(c)** *(Background only.)* The two components arise from the symmetric and asymmetric stretching of the **two N–H bonds** in a primary amine, –NH₂ (a secondary amine has only one N–H bond and shows a single peak) — useful analytical context, but distinguishing primary from secondary amines is not tested at AS.
 
@@ -126,7 +126,7 @@ Related: [Infrared and Mass Spectrometry revision notes](/resources/as-chemistry
 - Reversing the chlorine and bromine M+2 ratios.
 - Taking an isotope peak as the molecular ion.
 - Reading the base peak (tallest) as the molecular ion.
-- Confusing a nitrile's sharp C≡N absorption (~2220–2260) with a carbonyl's C=O (~1680–1750) — very different wavenumbers, easy to mix up if only skimming for "a sharp peak."
+- Confusing a nitrile's sharp C≡N absorption (2200–2250 in the data table) with a C=O absorption (1640–1750 across the amide, carbonyl/carboxyl and ester rows) — very different wavenumbers, easy to mix up if only skimming for "a sharp peak."
 - Forgetting that a **primary** amine's N–H shows as **two** peaks (symmetric and asymmetric stretching of the two N–H bonds), while a secondary amine shows only one — useful background, though classifying amines this way is not tested at AS.
 - Guessing a fragment's identity from its mass alone without checking it against the standard loss table (15, 17, 29, 31, 45).
 

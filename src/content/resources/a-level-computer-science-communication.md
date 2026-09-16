@@ -25,8 +25,9 @@ Information Representation](/resources/a-level-computer-science-information-repr
 The whole topic consists of one dense sub-topic, 2.1 Networks including
 the internet, which covers everything from how a LAN is physically
 built to how a URL locates a specific resource on the web. It is
-examined on Paper 1, "Theory Fundamentals", alongside the rest of the
-AS-level content.
+examined on Paper 1, "Theory Fundamentals", which assesses syllabus
+sections 1 to 8; the remaining AS sections, 9 to 12, are assessed on
+Paper 2, "Fundamental Problem-solving and Programming Skills".
 
 ## Networking devices, LANs and WANs
 

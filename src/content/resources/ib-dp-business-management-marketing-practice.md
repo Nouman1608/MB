@@ -89,8 +89,8 @@ and the [IB DP Business Management syllabus guide](/resources/ib-dp-business-man
 Unlike Unit 3, where nearly every question involves a numerical calculation, Unit 4's assessment
 style is more evenly split between qualitative justification (recommending a sampling method,
 explaining an orientation) and applied numerical reasoning (interpreting a sales forecast against
-production capacity, as in Question 7c). This mirrors how Paper 1's pre-released case study typically
-tests Unit 4 -- asking students to justify a marketing recommendation for a specific business context,
+production capacity, as in Question 7c). This mirrors how Paper 1's case study (unseen apart from its pre-released statement) can
+test Unit 4 -- asking students to justify a marketing recommendation for a specific business context,
 not just define marketing terms in isolation. Question 7 deliberately stacks two straightforward
 explanations (7a, 7b), an HL-only applied-reasoning question (7c), and a full evaluate-style question
 (7d) into one scenario, mirroring Paper 2's typical final-question structure.

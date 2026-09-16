@@ -44,38 +44,32 @@ and photon energy from [Quantum Physics](/resources/a-physics-quantum-physics/).
 
 **CAMBRIDGE INTERNATIONAL AS & A LEVEL PHYSICS 9702 — A Level, Topic 25**
 
-**25.1 Standard candles** — understanding that a standard candle is any
-astronomical object that has a known luminosity; understanding that the
-luminosity of an object may be determined using the Stefan-Boltzmann law;
-understanding that the luminosity of a star may be estimated by assuming it is a
-standard candle; recalling and using the inverse square law for radiant
-flux intensity F = L/(4πd²) in relation to standard candles.
+**25.1 Standard candles** — understanding the term luminosity as the total
+power of radiation emitted by a star; recalling and using the inverse square
+law for radiant flux intensity F = L/(4πd²); understanding that an object of
+known luminosity is called a standard candle; understanding the use of
+standard candles to determine distances to galaxies.
 
-**25.2 Stellar radii** — using Wien's law λₘₐₓT = constant to estimate the
-peak surface temperature of a star; recalling and using the
-Stefan-Boltzmann law L = 4πr²σT⁴, combined with Wien's law, to estimate
-the radius of a star, given its luminosity and temperature.
+**25.2 Stellar radii** — recalling and using Wien's displacement law
+λₘₐₓ ∝ 1/T to estimate the peak surface temperature of a star; using the
+Stefan–Boltzmann law L = 4πσr²T⁴; using Wien's displacement law and the
+Stefan–Boltzmann law to estimate the radius of a star.
 
-**25.3 Hubble's law and the Big Bang theory** — recalling that the
-Doppler effect may be used to determine the recession speeds of galaxies;
-recalling and using Δλ/λ ≈ Δf/f ≈ v/c for the redshift of electromagnetic
-radiation from a receding source; recalling and using Hubble's law v = H₀d;
-understanding that the Hubble constant and Hubble's law are consistent with
-the Big Bang theory for the origin of the universe.
+**25.3 Hubble's law and the Big Bang theory** — understanding that the lines
+in the emission and absorption spectra from distant objects show an increase
+in wavelength from their known values; using Δλ/λ ≈ Δf/f ≈ v/c for the
+redshift of electromagnetic radiation from a source moving relative to an
+observer; explaining why redshift leads to the idea that the Universe is
+expanding; recalling and using Hubble's law v ≈ H₀d and explaining how this
+leads to the Big Bang theory (candidates are only required to use SI units).
 
 ## Luminosity and standard candles
 
-A star's **luminosity** L is the total power it radiates, related to its
-radius r and surface temperature T by the **Stefan-Boltzmann law**:
-
-```
-L = 4πr²σT⁴
-```
-
-where σ is the Stefan-Boltzmann constant. A **standard candle** is any
-astronomical object whose luminosity is already known (or can be reliably
-assumed), so that measuring how bright it appears from Earth allows its
-distance to be calculated.
+A star's **luminosity** L is the total power of radiation it emits, in
+watts. A **standard candle** is any astronomical object whose luminosity is
+already known (or can be reliably assumed), so that measuring how bright it
+appears from Earth allows its distance to be calculated. Standard candles in
+distant galaxies are how the distances to those galaxies are found.
 
 ## Radiant flux intensity and distance
 
@@ -107,16 +101,26 @@ surface temperature:
 λₘₐₓT = constant
 ```
 
-Measuring a star's spectrum gives λₘₐₓ, and hence its temperature T via
-Wien's law. Combining this temperature with the star's luminosity
-(determined, for example, via the standard-candle method) in the
+(equivalently λₘₐₓ ∝ 1/T). The **Stefan–Boltzmann law** relates a star's
+luminosity to its radius r and surface temperature T:
+
+```
+L = 4πσr²T⁴
+```
+
+where σ is the Stefan–Boltzmann constant. Measuring a star's spectrum gives
+λₘₐₓ, and hence its temperature T via Wien's law. Combining this temperature with the star's luminosity
+(found, for example, from its measured flux and known distance using
+F = L/(4πd²)) in the
 Stefan-Boltzmann law, L = 4πr²σT⁴, allows the star's radius r to be
 calculated — a two-step method connecting the two laws covered in this
 topic.
 
 ## The Doppler effect and redshift
 
-Light from a receding astronomical source is shifted to longer wavelengths
+The lines in the emission and absorption spectra of distant galaxies are
+observed at longer wavelengths than their known laboratory values. Light
+from a receding astronomical source is shifted to longer wavelengths
 (**redshift**), an application of the Doppler effect to electromagnetic
 waves:
 
@@ -137,11 +141,12 @@ its distance from Earth:
 v = H₀d
 ```
 
-where H₀ is the **Hubble constant**. Its value is not precisely known, but
-it is of the order of **2.3 × 10⁻¹⁸ s⁻¹** — the syllabus expects the
-constant in this base SI form, though it is often quoted in astronomy as
-roughly 70 km s⁻¹ Mpc⁻¹ (the two are equivalent: 70 km s⁻¹ Mpc⁻¹ converts
-to base units via 1 Mpc = 3.086 × 10²² m). Because more distant galaxies
+where H₀ is the **Hubble constant**. Its value is not precisely known;
+measurements give about **2.3 × 10⁻¹⁸ s⁻¹**. The syllabus states that
+candidates will only be required to use SI units with Hubble's law, so work
+with H₀ in s⁻¹ and distances in metres. (Astronomers often quote the same
+value as roughly 70 km s⁻¹ Mpc⁻¹, a non-SI form you will not need: with
+1 Mpc = 3.086 × 10²² m it converts to 2.3 × 10⁻¹⁸ s⁻¹.) Because more distant galaxies
 recede faster, Hubble's law is direct observational evidence that the
 universe is expanding — and running this expansion backward in time
 implies the universe originated from an extremely small, dense state at a
@@ -158,9 +163,9 @@ these are related by the inverse square law but are not the same quantity.
 - **Applying Wien's law and the Stefan-Boltzmann law independently without
 connecting them** — finding a stellar radius requires combining temperature
 from Wien's law with luminosity in the Stefan-Boltzmann law.
-- **Treating the Hubble constant as a precisely known, fixed number** — the
-syllabus explicitly notes it is not well known, only of the order of
-2.3 × 10⁻¹⁸ s⁻¹ (about 70 km s⁻¹ Mpc⁻¹).
+- **Treating the Hubble constant as a precisely known, fixed number** — its
+measured value is uncertain; about 2.3 × 10⁻¹⁸ s⁻¹ in the SI units the
+syllabus requires.
 - **Assuming redshift implies motion through space in the everyday sense**
 rather than the large-scale expansion of space itself — a subtlety beyond
 what is required at this level, but worth being aware of conceptually.

@@ -157,6 +157,26 @@ proportional to B for a given slice, current and carrier density, this
 effect is used in a **Hall probe**: a calibrated Hall slice whose voltage
 output gives a direct reading of magnetic flux density.
 
+**Deriving the Hall voltage.** Let the slice have width d (the dimension
+across which V_H appears) and thickness t (in the direction of B), so its
+cross-sectional area is A = dt. Each carrier, of charge q and drift speed v,
+feels a magnetic force Bqv. The Hall voltage builds up until the electric
+force from the Hall field E = V_H/d balances it:
+
+```
+qE = Bqv   ⟹   V_H / d = Bv   ⟹   V_H = Bvd
+```
+
+The current is I = nAvq = n(dt)vq, so v = I/(ndtq). Substituting:
+
+```
+V_H = B × I/(ndtq) × d = BI/(ntq)
+```
+
+The width d cancels, which is why V_H depends on the thickness t but not on
+the width of the slice. A small n (as in a semiconductor) gives a larger,
+more easily measured Hall voltage.
+
 ### Velocity selection
 
 A **velocity selector** uses crossed (perpendicular) electric and
@@ -223,7 +243,7 @@ moving faster or slower than v₀ = E/B feels a net force and is deflected.
 - F = BIL sin θ, and defining the tesla from it
 - Forces between current-carrying conductors: same direction attracts, opposite repels
 - F = BQv sin θ, and how it provides centripetal force for charged particles in circular motion
-- V_H = BI/(ntq), the Hall voltage, and how a Hall probe measures B
+- V_H = BI/(ntq), the Hall voltage: its origin, its derivation from qE = Bqv and I = nAvq, and how a Hall probe measures B
 - Velocity selection: v₀ = E/B when the electric and magnetic forces balance
 - Field patterns for a straight wire, flat coil and solenoid, and the effect of a ferrous core
 - Faraday's law (rate of change of flux linkage) and Lenz's law (opposing direction)

@@ -51,7 +51,9 @@ the three reporting levels, not the six teaching phases.
 ## Two mark scales — don't conflate them
 
 Classroom assessment scores each criterion on eight achievement levels (1-8), so a student's
-classroom total across all four criteria is out of 32. The eAssessment blueprint is a separate
+classroom total across all four criteria is out of 32. Those eight levels form the four descriptor
+bands; a **level of 0** is also awarded for work that does not reach any band, so each criterion runs
+0-8 and the classroom total 0-32. The eAssessment blueprint is a separate
 scale: it allocates 24 raw marks to each criterion (with the actual distribution permitted to vary
 by up to three marks), so the eAssessment total across all four criteria is out of 96, not 128.
 Every mark figure below is the eAssessment blueprint figure, not the classroom one.

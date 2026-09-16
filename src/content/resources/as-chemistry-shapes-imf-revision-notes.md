@@ -23,7 +23,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-chemical-bonding"
     subtopic: "as-dot-and-cross-diagrams"
-description: "Condensed recall notes on VSEPR shapes, bond angles, polarity and van der Waals' forces (id-id, pd-pd and hydrogen bonding) for Cambridge AS & A Level Chemistry 9701."
+description: "Condensed recall notes on covalent and coordinate bonding, expanded octets, bond energy, dot-and-cross diagrams, VSEPR shapes, bond angles, polarity and van der Waals' forces (id-id, pd-pd and hydrogen bonding) for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
 featured: false
@@ -45,6 +45,21 @@ A **single bond is always one σ bond alone**. A **double bond is one σ bond pl
 | **sp³** | Four equivalent hybrids | Tetrahedral | Methane, ethane |
 | **sp²** | Three hybrids in a plane, one unhybridised p orbital left for a π bond | Trigonal planar | Ethene |
 | **sp** | Two hybrids arranged linearly, two unhybridised p orbitals left for two π bonds | Linear | Ethyne |
+
+## Covalent and coordinate bonds, expanded octets, bond energy (3.4)
+
+- **Covalent bond:** the electrostatic attraction between two nuclei and a shared pair of electrons. Named examples: H₂, O₂, N₂, Cl₂, HCl, CO₂, NH₃, CH₄, C₂H₆, C₂H₄.
+- **Coordinate (dative covalent) bond:** a shared pair in which **both electrons come from the same atom**. NH₃(g) + HCl(g) → NH₄Cl(s): the lone pair on nitrogen bonds to H⁺, forming NH₄⁺. In **Al₂Cl₆**, a lone pair on a chlorine of each AlCl₃ unit is donated to the aluminium of the other unit, giving two bridging chlorine atoms.
+- **Expanded octet** (Period 3 central atoms only): **SO₂** has 10 electrons around S, **PCl₅** 10 around P, **SF₆** 12 around S. Period 2 atoms (C, N, O) never exceed eight.
+- **Bond energy:** energy to break one mole of a particular covalent bond in the gaseous state. **Bond length:** internuclear distance of two covalently bonded atoms. For the same two atoms, triple is shorter and stronger than double, which is shorter and stronger than single; the longest, weakest bond is usually where a molecule reacts.
+
+## Dot-and-cross diagrams (3.7)
+
+- Dots for one atom's outer electrons, crosses for the other's, so the origin of every electron is visible. Show outer shells only.
+- **Ionic:** draw each ion separately in square brackets with its charge, e.g. [Mg]²⁺ and two [Cl]⁻, each chloride with a full octet (seven crosses plus one dot).
+- **Coordinate:** the donated pair is drawn as **two symbols of the same kind** (e.g. two dots from N in the fourth N–H bond of NH₄⁺).
+- **Expanded octet:** draw every bonding pair around the central atom — 12 electrons around S in SF₆.
+- **Odd-electron species:** count the total outer electrons first. **NO** has 5 + 6 = 11, so the N=O double bond is two shared pairs, oxygen has two lone pairs (octet), and nitrogen has one lone pair plus **one unpaired electron**, only seven around it.
 
 ## VSEPR — the one rule
 
@@ -118,6 +133,8 @@ The ice-density explanation must mention the **open lattice** and the **tetrahed
 - Saying covalent bonds break during boiling.
 - Forgetting that hydrogen bonding also needs an acceptor lone pair.
 - Explaining ice's density without mentioning the open tetrahedral lattice.
+- Drawing a coordinate bond with one dot and one cross — both electrons of a dative pair come from the donor atom.
+- Forcing an odd-electron species such as NO into a false octet instead of showing the unpaired electron.
 
 ## Self-test
 

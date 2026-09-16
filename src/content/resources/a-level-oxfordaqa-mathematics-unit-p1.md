@@ -107,7 +107,7 @@ Integration reverses differentiation, raising the power and dividing, and requir
 
 ## Circle geometry and trigonometry — this is Unit PSM1 content, not P1
 
-**P1 has no circle geometry and no trigonometry beyond the graphs of sin/cos/tan.** Both topics
+**P1 has no circle geometry and no trigonometry at all** (the sine, cosine and tangent graphs are PP1.2 content too). Both topics
 are genuine 9660 content, but they belong to the *other* AS unit, Unit PSM1's pure maths strand
 (PP1.1 Circle and PP1.2 Trigonometry) -- not to P1. Every P1 candidate also sits PSM1, so the
 material below is included here as a convenient single reference, but it should not be revised as

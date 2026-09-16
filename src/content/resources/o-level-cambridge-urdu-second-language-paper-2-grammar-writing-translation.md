@@ -7,12 +7,12 @@ topic: "Paper 2 – Grammar, Writing and Translation"
 boards: ["cambridge"]
 qualifications: ["o-level"]
 syllabusCodes: ["3248"]
-syllabusSeries: "2024-2026"
+syllabusSeries: "2027-2029"
 order: 3
 syllabusTopics:
   - qualification: "o-level"
     topic: "sl-paper-2-grammar-writing-translation-3248"
-description: "Sentence transformation, multiple-choice cloze, extended writing and English-to-Urdu translation -- Paper 2 Grammar, Writing and Translation of Cambridge O Level Second Language Urdu (3248), 2024-2026 series."
+description: "Sentence transformation, multiple-choice cloze, extended writing and English-to-Urdu translation -- Paper 2 Grammar, Writing and Translation of Cambridge O Level Second Language Urdu (3248), 2027-2029 series."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
@@ -20,9 +20,10 @@ featured: false
 
 This guide covers **Paper 2 Grammar, Writing and Translation**, the
 second of two papers in Cambridge O Level Second Language Urdu (3248),
-2024–2026 series. Marlbridge's existing O-Level Urdu resources cover
-Paper 1 (Reading and Writing, shared with sibling syllabus 3247 First
-Language Urdu) and 3247's own Paper 2 (Texts); this guide is the first
+2027–2029 series. Marlbridge's existing O-Level Urdu resources cover
+Paper 1 (Reading and Writing, a title sibling syllabus 3247 First
+Language Urdu also uses, for a paper with a different duration and
+structure) and 3247's own Paper 2 (Texts); this guide is the first
 Marlbridge resource dedicated specifically to 3248's own distinct
 second paper, which has no equivalent in 3247.
 
@@ -143,6 +144,7 @@ designed to probe exactly this list.
 ## Official syllabus
 
 Cambridge Assessment International Education, Cambridge O Level Second
-Language Urdu 3248 syllabus for 2024, 2025 and 2026:
-https://www.cambridgeinternational.org/Images/634455-2024-2026-syllabus.pdf
-(verified 2026-09-02).
+Language Urdu 3248 syllabus for 2027, 2028 and 2029:
+https://www.cambridgeinternational.org/Images/721465-2027-2029-syllabus.pdf
+(verified 2026-09-16; its Paper 2 description is the same as in the
+2024-2026 syllabus it replaces).

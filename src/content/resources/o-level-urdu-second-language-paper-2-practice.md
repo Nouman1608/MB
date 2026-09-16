@@ -7,7 +7,7 @@ topic: "Paper 2 – Grammar, Writing and Translation"
 boards: ["cambridge"]
 qualifications: ["o-level"]
 syllabusCodes: ["3248"]
-syllabusSeries: "2024-2026"
+syllabusSeries: "2027-2029"
 order: 4
 syllabusTopics:
   - qualification: "o-level"
@@ -139,8 +139,9 @@ concentrated, rather than splitting effort evenly across all four
 exercises [2].
 
 **9. (a)** This assumption is mistaken because 3247 and 3248 are two
-separate syllabuses with genuinely different Paper 2 content, even
-though both share a similar Paper 1 [2].
+separate syllabuses with genuinely different Paper 2 content (and
+different Paper 1s too, which share only the title Reading and
+Writing) [2].
 **(b)** 3247's Paper 2 (Texts) tests literary set texts through an
 unseen passage plus prescribed poetry and prose; 3248's Paper 2
 (Grammar, Writing and Translation) tests applied language skills —

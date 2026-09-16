@@ -70,7 +70,7 @@ Related: [Electric and Magnetic Fields revision notes](/resources/edexcel-ial-ph
 
 **7.** A point charge of +3.0 μC and a point charge of −5.0 μC are placed 0.20 m apart in a vacuum.
 
-**(a)** Calculate the magnitude of the electrostatic force between the two charges, and state whether it is attractive or repulsive. **[2]**
+**(a)** Calculate the magnitude of the electrostatic force between the two charges, and state whether it is attractive or repulsive. **[3]**
 
 **(b)** Calculate the electric potential at the midpoint between the two charges. **[3]**
 

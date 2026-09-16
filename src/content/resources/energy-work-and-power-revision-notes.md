@@ -108,10 +108,10 @@ Forgetting to square the velocity in Ek = ½mv² is one of the most common error
 
 ## Self-test
 
-1. A 2 kg ball is dropped 5 m. Find its speed on landing (g = 10 m/s²).
+1. A 2 kg ball is dropped 5 m. Find its speed on landing (g = 9.8 m/s², no air resistance).
 2. Why does doubling a car's speed quadruple its braking distance?
 3. A motor uses 500 J and does 350 J of useful work. Find its efficiency.
 4. Does a waiter carrying a tray horizontally at constant speed do work against gravity?
 5. State the difference between energy and power.
 
-**Answers:** 1. v = √(2 × 10 × 5) = **10 m/s**. 2. Ek ∝ v², so four times the kinetic energy must be removed by the braking force over four times the distance. 3. (350/500) × 100 = **70%**. 4. No — the force (upward) is perpendicular to the motion (horizontal), so no work is done against gravity. 5. Energy is the capacity to do work, measured in joules; power is the rate of energy transfer, measured in watts.
+**Answers:** 1. v = √(2 × 9.8 × 5) = √98 ≈ **9.9 m/s**. 2. Ek ∝ v², so four times the kinetic energy must be removed by the braking force over four times the distance. 3. (350/500) × 100 = **70%**. 4. No — the force (upward) is perpendicular to the motion (horizontal), so no work is done against gravity. 5. Energy is the capacity to do work, measured in joules; power is the rate of energy transfer, measured in watts.

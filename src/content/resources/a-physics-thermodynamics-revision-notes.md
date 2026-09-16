@@ -61,8 +61,8 @@ The **magnitude** of the work done at constant pressure is:
 W = p delta-V     (delta-V is the change in volume; this gives the work done BY the gas during an expansion)
 ```
 
-Since W in delta-U = q + W is defined as work done **ON** the system (line
-46 above), its **sign** must be fixed up to match: for an **expansion**
+Since W in delta-U = q + W is defined as work done **ON** the system (see the
+box above), its **sign** must be fixed up to match: for an **expansion**
 (ΔV positive), the gas does work on its surroundings, so work done on the
 system is **negative**, W = −pΔV; for a **compression** (ΔV negative), the
 surroundings do work on the gas, so work done on the system is
@@ -83,10 +83,10 @@ The gas's internal energy increases by 300 J.
 |---|---|---|
 | **Isothermal** | Constant T | ΔU = 0, so q = −W |
 | **Adiabatic** | No heat transfer | q = 0, so ΔU = W |
-| **Isobaric** | Constant p | W = pΔV |
+| **Isobaric** | Constant p | pΔV is the work done **by** the gas, so work done on it is W = −pΔV (negative for an expansion) and ΔU = q − pΔV |
 | **Isovolumetric** | Constant V | W = 0, so ΔU = q |
 
-Two of these follow directly from ΔU depending only on temperature for an ideal gas.
+The isothermal row follows from ΔU depending only on temperature for an ideal gas; the isovolumetric row follows because no work is done without a change in volume.
 
 **Internal energy is a state function** — it depends only on the current state of the system (its temperature, for an ideal gas), never on the process or path used to reach that state. Two different routes between the same start and end states give the same ΔU, even if q and W individually differ along each route.
 

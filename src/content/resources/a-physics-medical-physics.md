@@ -65,9 +65,11 @@ and using λ_min = hc/(eV) for the minimum wavelength (maximum photon
 energy) produced for a given accelerating potential difference; describing
 the use of X-rays in imaging internal body structures, including a simple
 treatment of the contrast of X-ray images; recalling and using the equation
-I = I₀e^(−μx) for the attenuation of X-rays in matter; outlining the
-principles of computed tomography (CT) scanning and its advantages and
-disadvantages compared with a simple X-ray image.
+I = I₀e^(−μx) for the attenuation of X-rays in matter; understanding
+that computed tomography (CT) scanning produces a 3D image of an internal
+structure by combining multiple X-ray images of the same section, taken
+from different angles, into a 2D image of that section, then repeating this
+along an axis and combining the 2D images of multiple sections.
 
 **24.3 PET scanning** — outlining the principles of positron emission
 tomography (PET scanning), including the production of positron-emitting
@@ -191,13 +193,16 @@ I/I₀ = e^(−μx) = e^(−0.20 × 5.0) = e^(−1.0) ≈ 0.37
 ## Computed tomography (CT)
 
 A **CT scanner** rotates an X-ray tube (and detectors) around the patient,
-taking many two-dimensional X-ray images from different angles. A computer
-combines this whole set of images to reconstruct a **three-dimensional**
-image of internal structures, which can then be viewed as any chosen
-slice. Compared with a single plain X-ray image, CT gives far better
+taking many X-ray images of the **same thin section** from different
+angles. A computer combines these images into a **two-dimensional image of
+that section**. The process is then repeated for successive sections along
+an axis through the body, and the 2D images of all the sections are
+combined into a **three-dimensional** image of the internal structure,
+which can be viewed as any chosen slice. (Background, beyond the syllabus
+outcome: compared with a single plain X-ray image, CT gives far better
 soft-tissue contrast and full 3-D information, but at the cost of a
 substantially **higher radiation dose**, longer scan time and higher
-expense.
+expense.)
 
 ## PET scanning
 

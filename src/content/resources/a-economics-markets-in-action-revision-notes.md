@@ -110,7 +110,7 @@ Traditional theory assumes **rational** utility-maximising agents with full info
 
 1. Who bears more of an indirect tax, and what determines it?
 2. Give both defining properties of a public good.
-3. Distinguish adverse selection from moral hazard.
+3. Explain the difference between adverse selection and moral hazard.
 4. Why can a tax on a demerit good raise large revenue yet change little behaviour?
 5. Name three reasons, other than imperfect information, why a consumer may not maximise utility.
 

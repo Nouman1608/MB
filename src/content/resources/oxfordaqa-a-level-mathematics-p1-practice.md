@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-p1-pure-maths-oxfordaqa-alevel-maths"
-description: "Original exam-style practice questions with full worked answers on indices, surds, quadratics, binomial expansion and trigonometry."
+description: "Original exam-style practice questions with full worked answers on indices, surds, quadratics, binomial expansion, simultaneous equations, differentiation and integration for OxfordAQA 9660 Unit P1, plus two trigonometry questions marked as Unit PSM1 content."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -23,7 +23,7 @@ featured: false
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
 
-Related: [Pure Maths 1 revision notes](/resources/oxfordaqa-a-level-mathematics-p1-revision-notes/), covering algebra, quadratics, coordinate geometry, trigonometry, differentiation and integration for International AS Mathematics.
+Related: [Pure Maths 1 revision notes](/resources/oxfordaqa-a-level-mathematics-p1-revision-notes/), covering algebra, quadratics, coordinate geometry, differentiation and integration for Unit P1 (with circle and trigonometry sections marked as Unit PSM1 content).
 
 ---
 
@@ -37,7 +37,7 @@ Related: [Pure Maths 1 revision notes](/resources/oxfordaqa-a-level-mathematics-
 
 **Questions 6 and 7 test trigonometry** (sine/cosine rule, area of a triangle, solving a trig
 equation). OxfordAQA's 9660 specification places all trigonometry in Unit PSM1's pure maths
-strand, not in Unit P1 -- P1 has no trigonometry beyond the shapes of the sin/cos/tan graphs.
+strand (PP1.2), not in Unit P1 -- P1 contains no trigonometry at all, including the sin/cos/tan graphs.
 They're included in this P1 practice set because every P1 candidate also sits PSM1, but they are
 PSM1-syllabus questions, not P1 ones.
 

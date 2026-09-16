@@ -56,7 +56,10 @@ most offences require a positive act, but some can be committed by an
 omission (a failure to act) where the law recognises a duty to act;
 "state of affairs" offences are a narrower category where simply being
 in a certain situation (regardless of voluntary conduct) can satisfy
-actus reus. Causation is its own sub-skill — the prosecution must
+actus reus. Outside that category, conduct must normally be voluntary
+-- an involuntary movement, such as a reflex, does not satisfy actus
+reus -- and where an offence is defined by its result, that
+consequence must actually follow. Causation is its own sub-skill — the prosecution must
 prove the defendant's conduct was both the factual cause (using the
 "but for" test: but for the defendant's act, would the consequence
 have occurred?) and the legal cause of the prohibited consequence.
@@ -101,9 +104,10 @@ mark schemes reward.
 
 ## Key terms to define precisely
 
-**Actus reus** — the physical or "guilty act" element of a crime,
-which can consist of a positive act, an omission where a duty to act
-exists, or a defined state of affairs. **Mens rea** — the mental or
+**Actus reus** — the physical or "guilty act" element of a crime:
+conduct (a positive act, an omission where a duty to act exists, or a
+defined state of affairs), normally voluntary, together with any
+consequence the offence requires and causation of it. **Mens rea** — the mental or
 "guilty mind" element of a crime, reflecting the defendant's state of
 mind at the time of the actus reus. **Causation** — the requirement
 that the defendant's conduct be both the factual cause (satisfying the

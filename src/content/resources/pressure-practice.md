@@ -36,14 +36,14 @@ Related: [Pressure revision notes](/resources/pressure-revision-notes/)
 
 ## Section B
 
-**3.** A block of mass 12 kg has a base measuring 0.30 m × 0.20 m. Take g = 10 N kg⁻¹.
+**3.** A block of mass 12 kg has a base measuring 0.30 m × 0.20 m. Take g = 9.8 N kg⁻¹.
 
 **(a)** Calculate the pressure it exerts on the ground. **[3]**
 **(b)** The block is stood on a smaller face measuring 0.20 m × 0.15 m. Calculate the new pressure and explain the change. **[3]**
 
 **4.** *(Cross-topic — the particle explanation of gas pressure is a thermal physics/kinetic theory outcome, not part of this pressure subtopic.)* Explain, in terms of particles, why a gas exerts pressure, and why the pressure rises when the volume is reduced at constant temperature. **[4]**
 
-**5.** A diver descends to 25 m in water of density 1030 kg m⁻³. Take g = 9.81 N kg⁻².
+**5.** A diver descends to 25 m in water of density 1030 kg m⁻³. Take g = 9.8 N kg⁻¹.
 
 **(a)** Calculate the pressure due to the water alone. **[3]**
 **(b)** Calculate the total pressure, taking atmospheric pressure as 101 000 Pa. **[1]**
@@ -69,13 +69,13 @@ Related: [Pressure revision notes](/resources/pressure-revision-notes/)
 
 **2.** p = ρgh [1], where **ρ is the density of the liquid (kg m⁻³)**, **g is the gravitational field strength (N kg⁻¹)** and **h is the depth below the surface (m)** [1] [1].
 
-**3. (a)** Weight = 12 × 10 = 120 N [1]; area = 0.060 m² [1]; p = 120 ÷ 0.060 = **2000 Pa** [1].
-**(b)** Area = 0.030 m² [1]; p = 120 ÷ 0.030 = **4000 Pa** [1]; the **force is unchanged but the area is halved**, so the pressure doubles [1].
+**3. (a)** Weight = 12 × 9.8 = 117.6 N [1]; area = 0.30 × 0.20 = 0.060 m² [1]; p = 117.6 ÷ 0.060 = **1960 Pa** [1].
+**(b)** Area = 0.030 m² [1]; p = 117.6 ÷ 0.030 = **3920 Pa** [1]; the **force is unchanged but the area is halved**, so the pressure doubles [1].
 
 **4.** Gas particles are in **constant random motion and collide with the container walls** [1]; each collision exerts a force, and force per unit area is pressure [1]. Reducing the volume means the particles have **less distance to travel between collisions** [1], so collisions with the walls are **more frequent**, and the pressure rises [1].
 
-**5. (a)** p = ρgh = 1030 × 9.81 × 25 [1] [1] = **253 000 Pa** (2.53 × 10⁵ Pa) [1].
-**(b)** Total = 253 000 + 101 000 = **354 000 Pa** [1].
+**5. (a)** p = ρgh = 1030 × 9.8 × 25 [1] [1] = 252 350 Pa ≈ **252 000 Pa** (2.52 × 10⁵ Pa) [1].
+**(b)** Total = 252 350 + 101 000 = 353 350 Pa ≈ **353 000 Pa** [1].
 **(c)** Pressure at a point in a liquid depends **only on depth, density and g** [1]; a larger area experiences a proportionally larger force, so the **force per unit area is unchanged** [1].
 
 **6. (a)** p = 40 ÷ 0.0004 [1] = **100 000 Pa** [1].

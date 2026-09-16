@@ -46,7 +46,9 @@ the sum of the random distribution of kinetic and potential energies
 associated with the molecules of a system.
 
 **16.2 The first law of thermodynamics** — recalling and using W = pΔV for
-the work done when the volume of a gas changes at constant pressure;
+the work done when the volume of a gas changes at constant pressure, and
+understanding the difference between the work done by the gas and the work
+done on the gas;
 recalling and using the first law of thermodynamics, expressed in terms of
 the increase in internal energy, the heating of the system, and the work
 done on the system, ΔU = q + W.
@@ -119,10 +121,10 @@ The gas's internal energy increases by 300 J.
 |---|---|---|
 | **Isothermal** | Constant temperature | ΔU = 0, so q = −W |
 | **Adiabatic** | No heat transfer | q = 0, so ΔU = W |
-| **Isobaric** | Constant pressure | W = pΔV |
+| **Isobaric** | Constant pressure | pΔV is the work done **by** the gas, so work done on it is W = −pΔV (negative for an expansion) and ΔU = q − pΔV |
 | **Isovolumetric** | Constant volume | W = 0, so ΔU = q |
 
-Two of these follow directly from ΔU depending only on temperature for an ideal gas: at constant temperature, ΔU must be zero regardless of what q and W do individually, and at constant volume, no work can be done since W = pΔV requires a volume change.
+The isothermal row follows from ΔU depending only on temperature for an ideal gas: at constant temperature, ΔU must be zero regardless of what q and W do individually. The isovolumetric row follows because no work is done on or by a gas unless its volume changes.
 
 ## Common mistakes
 
@@ -141,7 +143,7 @@ approach is needed if pressure changes during the process.
 ## Quick revision checklist
 
 - Internal energy = sum of random kinetic + potential energies of molecules
-- W = pΔV for work done at constant pressure
+- pΔV is the magnitude of the work done at constant pressure; in ΔU = q + W an expansion enters as W = −pΔV and a compression as W = +p|ΔV|
 - ΔU = q + W, and correctly signing q and W for the direction of energy transfer
 - Internal energy depends only on the state of the system, not the path taken
 

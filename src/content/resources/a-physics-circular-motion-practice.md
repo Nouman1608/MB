@@ -86,18 +86,18 @@ Related: [Circular Motion revision notes](/resources/a-physics-circular-motion-r
 
 **3.** **Centripetal force should not be a separate arrow** [1]. It is not an additional force but the **resultant** of the forces already present [1] — here, the **friction** between tyres and road provides it [1].
 
-**4. (a)** a = v² ÷ r = 5.0² ÷ 0.80 [1] = **31.25 m s⁻²** [1].
+**4. (a)** a = v² ÷ r = 5.0² ÷ 0.80 = 31.25 [1] ≈ **31 m s⁻²** [1] (quoted to 2 s.f. to match the data; carry 31.25 into later parts).
 
 **(b)** At the top, both tension and weight act **towards the centre**:
 T + mg = mv²/r [1]
-T = (0.25 × 31.25) − (0.25 × 9.81) [1] = 7.81 − 2.45 = **5.36 N** [1].
+T = (0.25 × 31.25) − (0.25 × 9.81) [1] = 7.8125 − 2.4525 = 5.36 ≈ **5.4 N** [1].
 
 **(c)** At the bottom, tension acts towards the centre and weight away:
-T = mv²/r + mg [1] = 7.81 + 2.45 = **10.3 N** [1].
+T = mv²/r + mg [1] = 7.8125 + 2.4525 = 10.265 ≈ **10 N** [1] (2 s.f.).
 *Note the tensions differ by 2mg = 4.9 N.*
 
 **(d)** At minimum speed T = 0, so **weight alone provides the centripetal force** [1]:
-mg = mv²/r, so v = √(gr) [1] = √(9.81 × 0.80) = **2.80 m s⁻¹** [1].
+mg = mv²/r, so v = √(gr) [1] = √(9.81 × 0.80) = 2.801 ≈ **2.8 m s⁻¹** [1].
 
 **5. (a)** F = mv²/r = (950 × 18²) ÷ 45 [1] = **6840 N** [1].
 

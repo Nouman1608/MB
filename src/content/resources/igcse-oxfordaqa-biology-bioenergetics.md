@@ -151,4 +151,4 @@ candidate.
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201) specification, Version 4.3
-— [oxfordaqaexams.org.uk/9201](https://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-gcse-biology-specification.pdf).
+— [oxfordaqa.com/9201](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-gcse-biology-specification.pdf).

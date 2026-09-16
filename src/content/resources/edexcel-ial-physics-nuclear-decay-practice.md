@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-5-thermodynamics-radiation-oscillations-and-cosmology"
     subtopic: "nuclear-decay"
-description: "Original exam-style practice questions with full worked answers on radioactive decay equations, half-life, activity, dating and safety."
+description: "Original exam-style practice questions with full worked answers on radioactive decay equations, radiation types, half-life, activity, dating, safety, mass deficit and binding energy per nucleon."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
 featured: false
@@ -70,6 +70,25 @@ Related: [Nuclear Decay revision notes](/resources/edexcel-ial-physics-nuclear-d
 
 **10.** Describe how the absorption of gamma radiation by lead could be investigated experimentally. **[3]**
 
+**11.** Compare alpha, beta-minus and gamma radiation in terms of nature, penetration and ionising power. **[9]**
+
+**12.** A sample has an activity of 640 Bq. After 24 hours the activity is 40 Bq.
+
+**(a)** Calculate the half-life. **[3]**
+**(b)** Calculate the decay constant. **[2]**
+**(c)** Calculate the activity after a further 12 hours. **[2]**
+
+**13.** The mass deficit of a helium-4 nucleus is 5.05 × 10⁻²⁹ kg.
+
+**(a)** Calculate the binding energy in joules and in MeV. **[3]**
+**(b)** Calculate the binding energy per nucleon in MeV. **[2]**
+
+**14.** In beta-minus decay a neutron becomes a proton.
+
+**(a)** Write the decay equation at the nucleon level, including the antineutrino. **[2]**
+**(b)** Explain why the antineutrino had to be proposed. **[3]**
+**(c)** *(Background, not a specification outcome.)* State which fundamental force is responsible. **[1]**
+
 ---
 
 ## Answers
@@ -103,6 +122,19 @@ A half-life is nevertheless reliable because a sample contains an **enormous num
 
 **10.** Different thicknesses of lead are placed between a gamma source and a detector (such as a Geiger-Müller tube) [1]; the count rate is measured for each thickness, correcting for background radiation each time [1]; the results show how the intensity of gamma radiation decreases as absorber thickness increases, allowing the absorption to be characterised [1].
 
+**11. Alpha** — a **helium nucleus** [1], stopped by **paper or a few cm of air** [1], **most strongly ionising** [1]. **Beta-minus** — a **fast electron** [1], stopped by a **few mm of aluminium** [1], moderately ionising [1]. **Gamma** — a **high-energy electromagnetic photon** [1], reduced by **several cm of lead** [1], **least ionising** [1].
+
+**12. (a)** 640 → 320 → 160 → 80 → 40 is **four halvings** [1] in 24 hours [1], so the half-life is **6.0 hours** [1].
+**(b)** λ = ln 2 ÷ t½ = 0.693 ÷ 6.0 [1] = **0.116 h⁻¹** (3.2 × 10⁻⁵ s⁻¹) [1].
+**(c)** 12 hours is **two further half-lives** [1], so activity = 40 ÷ 4 = **10 Bq** [1].
+
+**13. (a)** ΔE = c²Δm = (3.00 × 10⁸)² × 5.05 × 10⁻²⁹ [1] = **4.55 × 10⁻¹² J** [1]; ÷ 1.60 × 10⁻¹³ J MeV⁻¹ = **28.4 MeV** [1].
+**(b)** 28.4 ÷ 4 [1] = **7.1 MeV per nucleon** [1].
+
+**14. (a)** ¹₀n → ¹₁p + ⁰₋₁e + ν̄ₑ [1], with nucleon and charge numbers balanced [1].
+**(b)** The emitted beta particles had a **continuous range of energies**, not a single value [1], which appeared to **violate the conservation of energy and momentum** [1]. A **third, almost undetectable particle carrying away the remaining energy** was proposed to preserve those conservation laws [1].
+**(c)** The **weak nuclear force** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -111,3 +143,5 @@ A half-life is nevertheless reliable because a sample contains an **enormous num
 - Using λ in per-hour with t in seconds.
 - Saying half-life is the time for the source to become half as dangerous.
 - Giving safety precautions without a reason.
+- Dividing the binding energy by the proton number instead of the nucleon number when finding binding energy per nucleon.
+- Saying only fission releases energy.

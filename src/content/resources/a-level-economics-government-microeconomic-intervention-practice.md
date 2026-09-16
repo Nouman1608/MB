@@ -58,7 +58,7 @@ receives the greater benefit of the subsidy. **[4]**
 which specific problem each addresses. **[4]**
 
 **7.** A government publishes clear nutritional labelling on all packaged food, without changing any
-prices. Explain what type of market failure this policy addresses, and why the government might
+prices. Explain which reason for government intervention this policy addresses, and why the government might
 choose this approach over an indirect tax. **[3]**
 
 ---
@@ -103,11 +103,11 @@ proportion of income or wealth as the amount taxed rises, reducing after-tax ine
 provision of essential goods and services** — addresses unequal access to essentials such as
 healthcare or education regardless of a household's market income [2].
 
-**7.** This policy addresses market failure caused by consumers lacking the information needed to
-make efficient decisions [1] — provision of information does not directly alter price, unlike an
+**7.** This policy addresses the under-consumption of merit goods and over-consumption of demerit goods
+that result from consumers lacking the information needed to make well-informed decisions [1] — provision of information does not directly alter price, unlike an
 indirect tax [1]. A government might prefer this approach where it wants to help consumers make
 better-informed choices themselves, rather than imposing a cost through taxation, particularly where
-policymakers are uncertain about the most appropriate size of tax to correct the market failure [1].
+policymakers are uncertain about the most appropriate size of tax to correct the problem [1].
 
 ## A note on exam technique for this topic
 

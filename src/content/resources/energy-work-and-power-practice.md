@@ -43,7 +43,7 @@ Related: [Energy, Work and Power revision notes](/resources/energy-work-and-powe
 **(c)** The motor draws 4.5 kW. Calculate the efficiency. **[3]**
 **(d)** Suggest **two** reasons why the efficiency is less than 100%. **[2]**
 
-**4.** A 0.25 kg ball is dropped from 2.0 m and rebounds to 1.4 m.
+**4.** A 0.25 kg ball is dropped from 2.0 m and rebounds to 1.4 m. Take g = 9.8 N kg⁻¹.
 
 **(a)** Calculate its gravitational potential energy at 2.0 m. **[2]**
 **(b)** Calculate its speed just before impact, assuming no air resistance. **[3]**

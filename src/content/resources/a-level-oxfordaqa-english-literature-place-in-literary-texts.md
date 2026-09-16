@@ -156,4 +156,4 @@ exam.
 
 OxfordAQA International AS and A-Level English Literature (9675)
 specification PDF, Version 5.3, pages 12-13 —
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2024/02/oxfordaqa-a-level-english-literature-specification.pdf).
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-a-level-english-literature-specification.pdf).

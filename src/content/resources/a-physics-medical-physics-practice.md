@@ -64,7 +64,7 @@ Related: [Medical Physics revision notes](/resources/a-physics-medical-physics-r
 **(a)** Write down the equation for the exponential attenuation of ultrasound intensity with distance travelled. **[1]**
 **(b)** Calculate the attenuation coefficient of the tissue. **[2]**
 
-**8.** Outline how a CT scanner builds up a three-dimensional image, and state one advantage and one disadvantage of CT compared with a plain X-ray image. **[3]**
+**8.** Outline how a CT scanner builds up a three-dimensional image of an internal structure. **[3]**
 
 **9.** X-rays of initial intensity I₀ pass through 5.0 cm of tissue with attenuation coefficient 0.20 cm⁻¹. Calculate the transmitted intensity as a fraction of I₀. **[2]**
 
@@ -95,7 +95,7 @@ Related: [Medical Physics revision notes](/resources/a-physics-medical-physics-r
 **7. (a)** I = I₀e^(−μx) [1].
 **(b)** 0.60 = e^(−μ × 4.0) → ln(0.60) = −4.0μ [1] → μ = −ln(0.60)/4.0 ≈ **0.128 cm⁻¹** [1].
 
-**8.** An X-ray tube (with detectors) **rotates around the patient**, taking many 2-D X-ray images from different angles [1]; a computer **combines this set of images** to reconstruct a three-dimensional image, which can be viewed as any chosen slice [1]. Advantage: a **3-D image with much better soft-tissue contrast** than a plain X-ray (or: any slice can be viewed) [1]; disadvantage: a **much higher radiation dose** (or: slower and more expensive) [1].
+**8.** The X-ray tube and detectors rotate around the patient so that **many X-ray images of the same thin section are taken from different angles** [1]; a computer **combines these images to obtain a 2-D image of that section** [1]; the process is **repeated for successive sections along an axis**, and the 2-D images of the sections are **combined to give a 3-D image** [1]. *(Background, not required by 9702: compared with a plain X-ray image, CT gives 3-D information and better soft-tissue contrast, but at a much higher radiation dose.)*
 
 **9.** I/I₀ = e^(−μx) = e^(−0.20 × 5.0) [1] = e^(−1.0) ≈ **0.37** [1].
 

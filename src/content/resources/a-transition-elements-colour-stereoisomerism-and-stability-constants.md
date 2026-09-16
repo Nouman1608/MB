@@ -163,15 +163,18 @@ does appear, since it is the reference species being converted, not the
 solvent).
 
 **A large Kstab** means the equilibrium lies strongly towards the new
-complex — the new ligand binds much more strongly than the one it
-displaced. This is precisely why ligand exchange happens at all: adding
-excess NH₃ to [Cu(H₂O)₆]²⁺ drives the equilibrium towards
-[Cu(NH₃)₄(H₂O)₂]²⁺ because that complex has a substantially larger Kstab
-value than [Cu(H₂O)₆]²⁺ has as the starting (reference) species — the new
-complex is simply more thermodynamically stable once enough of the new
-ligand is available. (By convention, water is omitted from the expression
-and [Cu(H₂O)₆]²⁺ is treated as the reference species rather than a
-species with its own separate stability constant.)
+complex — a stable complex ion is formed, and the new ligand binds to the
+metal ion much more strongly than the water it displaced. Kstab here is
+defined for the formation of the complex *from the aqua ion*: water is the
+solvent, [H₂O] is not included in the expression, and so
+[Cu(H₂O)₆]²⁺ is the starting point against which every other copper(II)
+complex's Kstab is measured, not a complex with a stability constant of its
+own. That is why adding NH₃ to [Cu(H₂O)₆]²⁺ converts it almost completely
+into [Cu(NH₃)₄(H₂O)₂]²⁺: the Kstab of about 10¹³ shows the ammine complex
+is far more stable than the aqua ion. When two ligands other than water
+compete for the same metal ion, the exchange favours the complex with the
+larger Kstab, although a large excess of the other ligand can still shift
+the position of equilibrium.
 
 **Worked example.** Kstab for [Cu(NH₃)₄(H₂O)₂]²⁺ formation (as above) is
 1.2 × 10¹³ mol⁻⁴ dm¹². At equilibrium, [[Cu(NH₃)₄(H₂O)₂]²⁺] = 0.0500 mol

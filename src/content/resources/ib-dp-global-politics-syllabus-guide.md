@@ -93,12 +93,12 @@ independent student research into cases the student selects, connected
 to eight named HL topic areas set by the syllabus: borders, environment,
 equality, health, identity, poverty, security and technology. Each HL
 student must research at least two different case studies across at
-least two different topic areas. The extension asks
-students to examine political issues that cut across the boundaries of
-a single thematic study, requiring genuine synthesis of material from
-Rights and justice, Development and sustainability and Peace and
-conflict rather than treating global political challenges as a fourth,
-separate topic learned in isolation from the three compulsory themes.
+least two different topic areas. The extension is organised by those
+topic areas and by the student's own cases, not by the three thematic
+studies: it is not a synthesis exercise across Rights and justice,
+Development and sustainability and Peace and conflict, although
+concepts and knowledge from the core topic and the thematic studies
+can inform the analysis of a researched case.
 
 ## How to approach it
 

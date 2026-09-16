@@ -76,7 +76,7 @@ D) Nominal GDP × inflation rate **[1]**
 
 **7.** Define what the specification means by a "recession". **[2]**
 
-**8.** Calculate the real GDP per capita of Country A (total real GDP of $900 billion, population 30 million) and Country B (total real GDP of $360 billion, population 9 million), and state which has the higher living standard by this measure. **[4]**
+**8.** Country A has a total real GDP of $900 billion and a population of 30 million. Country B has a total real GDP of $360 billion and a population of 9 million. Calculate the difference between the real GDP per capita of Country B and that of Country A. You are advised to show your working. **[4]**
 
 **9.** Explain the difference between real and nominal GDP, and why real GDP should be used to compare economic growth over a period of high inflation. **[4]**
 
@@ -88,11 +88,11 @@ D) Nominal GDP × inflation rate **[1]**
 
 ## Section C — Five-part question
 
-A country reports quarterly real GDP growth of +0.2% in Q1, +0.1% in Q2, −0.4% in Q3 and −0.2% in Q4 of one year. In the following year, nominal GDP rises by 5% while inflation over the same period is also 5%.
+**12.** A country reports quarterly real GDP growth of +0.2% in Q1, +0.1% in Q2, −0.4% in Q3 and −0.2% in Q4 of one year. In the following year, nominal GDP rises from $500 billion to $525 billion, while a price index covering all of that output rises from 100 to 105.
 
 **(a)** Define real GDP. **[2]**
 
-**(b)** Calculate the approximate real GDP growth rate for the following year, given that nominal GDP rises by 5% while inflation is 5% over the same period. **[4]**
+**(b)** Calculate the real GDP growth rate for the following year, using the nominal GDP and price index figures given. You are advised to show your working. **[4]**
 
 **(c)** Explain, with reference to the quarterly data given, whether and when the country entered a technical recession. **[4]**
 
@@ -106,11 +106,11 @@ A country reports quarterly real GDP growth of +0.2% in Q1, +0.1% in Q2, −0.4%
 
 **EITHER**
 
-**12.** Evaluate the view that GDP is the best available measure of a country's living standards. **[20]**
+**13.** Evaluate the view that GDP is the best available measure of a country's living standards. **[20]**
 
 **OR**
 
-**13.** Evaluate the extent to which international comparisons of living standards are made more meaningful by the use of purchasing power parity exchange rates. **[20]**
+**14.** Evaluate the extent to which international comparisons of living standards are made more meaningful by the use of purchasing power parity exchange rates. **[20]**
 
 ---
 
@@ -130,7 +130,7 @@ A country reports quarterly real GDP growth of +0.2% in Q1, +0.1% in Q2, −0.4%
 
 **7.** A recession is **two consecutive quarters of negative real economic growth** [2].
 
-**8.** Country A real GDP per capita = 900,000,000,000 ÷ 30,000,000 = **$30,000** [1]. Country B real GDP per capita = 360,000,000,000 ÷ 9,000,000 = **$40,000** [1]. Despite having a smaller total economy, **Country B has the higher real GDP per capita** [1], and therefore the higher living standard by this measure [1].
+**8.** Real GDP per capita = real GDP ÷ population [1]. Country A = $900,000,000,000 ÷ 30,000,000 = **$30,000** [1]. Country B = $360,000,000,000 ÷ 9,000,000 = **$40,000** [1]. Difference = $40,000 − $30,000 = **$10,000**, Country B's real GDP per capita being the higher despite its smaller total economy [1].
 
 **9. Nominal GDP** is measured in current prices, without adjusting for inflation, while **real GDP** has been adjusted to remove the effect of price changes [1] [1]. Real GDP should be used to compare growth over a period of high inflation, because a rise in nominal GDP could simply reflect rising prices rather than any genuine increase in the quantity of goods and services produced [1] [1].
 
@@ -140,7 +140,7 @@ A country reports quarterly real GDP growth of +0.2% in Q1, +0.1% in Q2, −0.4%
 
 **12. (a)** Real GDP is the total monetary value of all goods and services produced within a country's borders in a given period [1], adjusted to remove the effect of price changes so that only genuine changes in output are measured [1].
 
-**(b)** If nominal GDP growth (5%) exactly equals the inflation rate (5%), **real GDP growth is approximately 0%** [2] — the entire nominal increase is explained by rising prices, meaning the actual quantity of goods and services produced has **not increased** [2].
+**(b)** Real GDP in the following year, at the first year's prices = $525 billion × 100 ÷ 105 [1] = **$500 billion** [1]. Real GDP growth = ($500 billion − $500 billion) ÷ $500 billion × 100 [1] = **0%** [1]. *(The whole 5% rise in nominal GDP is explained by rising prices; the quantity of goods and services produced has not increased.)*
 
 **(c)** Q1 and Q2 show **positive growth**, so there is no recession signal in the first half of the year [1]. Q3 (−0.4%) is the **first consecutive quarter of negative growth**, and Q4 (−0.2%) is the **second consecutive quarter** [1] [1]. By the specification's definition, the country entered a **technical recession as of the end of Q4**, once Q3 and Q4 together confirmed two consecutive quarters of decline [1].
 
@@ -151,12 +151,12 @@ A country reports quarterly real GDP growth of +0.2% in Q1, +0.1% in Q2, −0.4%
 **Against** [up to 8, 2 marks each]: GDP figures say nothing about the **distribution** of income, so a rising average can mask most citizens seeing no improvement; GDP excludes **non-market activity** such as unpaid work and takes no account of **environmental costs**; GDP is not adjusted for factors such as working hours or leisure time, which also affect wellbeing; the relationship between income and **subjective wellbeing** is not straightforwardly proportional once basic needs are met.
 **Judgement** [4]: GDP figures provide useful, comparable evidence of the scale of economic activity and are a reasonable starting indicator of living standards, but they are not sufficient alone — a full assessment of living standards needs GDP data read alongside distributional, environmental and wellbeing indicators, since GDP was never designed to capture those dimensions.
 
-**13. (Essay 12)** *Indicative content.*
+**13.** *Indicative content.*
 **For GDP as the best available measure** [up to 8, 2 marks each]: it is measured **consistently** across countries and over time, using an internationally agreed methodology; it is available **promptly and regularly**, unlike many wellbeing surveys; **GDP per capita, adjusted for PPP**, already goes some way to correcting for population size and cost-of-living differences; despite its flaws, it correlates with many aspects of wellbeing (education, health) that are harder to measure directly.
 **Against** [up to 8, 2 marks each]: it ignores the **distribution of income**; it excludes **non-market activity** and takes no account of **environmental costs**; alternative measures (e.g. wellbeing indices, the Human Development Index) explicitly combine income with health and education data, arguably giving a fuller picture; GDP treats all output as equally valuable regardless of whether it improves quality of life.
 **Judgement** [4]: GDP remains the most practical single measure because of its consistency and availability, but "best available" is not the same as "sufficient" — a rigorous assessment of living standards should treat GDP as one input alongside distributional and wellbeing measures rather than as a complete measure on its own.
 
-**13. (Essay 13)** *Indicative content.*
+**14.** *Indicative content.*
 **For PPP making comparisons more meaningful** [up to 8, 2 marks each]: PPP exchange rates adjust for **differences in the cost of living**, so a given income is compared in terms of what it can actually buy locally; market exchange rates can be **volatile** and driven by financial flows unrelated to living costs, making PPP a more stable basis for comparison; PPP comparisons are particularly important between countries at very different levels of development, where cost-of-living gaps are largest; international organisations (e.g. for global living-standards rankings) widely use PPP-adjusted figures precisely because they are considered more meaningful.
 **Against** [up to 8, 2 marks each]: constructing a PPP exchange rate still relies on a **representative basket of goods**, which may not reflect actual local consumption patterns well; PPP adjustment does not correct for **non-market activity, distribution or environmental costs**, so it improves only the cross-country comparability of GDP, not GDP's other limitations; **exact PPP calculation is complex** and estimates can vary between sources; for very open economies engaged heavily in international trade, market exchange rates may still be relevant for some purposes (e.g. purchasing imported goods).
 **Judgement** [4]: PPP adjustment makes international living-standards comparisons more meaningful by correcting for cost-of-living differences that market exchange rates ignore, but it does not resolve GDP's other well-known limitations, so PPP-adjusted GDP per capita is a better basis for comparison than unadjusted GDP, without being a complete measure of comparative living standards.

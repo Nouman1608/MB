@@ -29,8 +29,9 @@ Related: [Historic Environment revision notes](/resources/gcse-history-historic-
 ## Where this question sits
 
 The historic environment is examined by **one question** — the fourth and final question of
-Section B (British depth studies) on Paper 2 — worth 16 marks (including 4 for spelling,
-punctuation and grammar). Section B has four compulsory questions in total: Q1 (8 marks) evaluates
+Section B (British depth studies) on Paper 2 — worth 16 marks (8 AO1, 8 AO2), with no spelling,
+punctuation and grammar marks attached (Paper 2's 4 SPaG marks go with the Section A thematic-study
+essay). Section B has four compulsory questions in total: Q1 (8 marks) evaluates
 a written or visual interpretation and is where "how far do you agree" judgement phrasing belongs;
 Q2 (8 marks) explains causation, change, continuity or consequence; Q3 (8 marks) is a narrative
 account; and Q4 — the one this page practises — is an essay linked to your specified site, drawing

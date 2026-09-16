@@ -78,6 +78,8 @@ Hubble's law:       v = H0 d
 
 Crucially, this does **not** mean we are at the centre. The expansion is of space itself, so every observer in every galaxy would see the same pattern. Stating that explicitly is what distinguishes a strong answer. It is space itself expanding, not galaxies moving through fixed space — every point recedes from every other point, so an observer in any other galaxy would measure the same distance–velocity relationship.
 
+*Background, beyond the 9702 learning outcomes (the syllabus does not mention the age of the universe):*
+
 ```
 age of the universe  ~  1 / H0
 ```

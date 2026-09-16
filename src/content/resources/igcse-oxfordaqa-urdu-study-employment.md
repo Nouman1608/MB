@@ -134,7 +134,7 @@ switching from present-tense description to future-tense plans within the same r
 
 OxfordAQA International GCSE Urdu (9264) specification, Version 1.1, for International GCSE exams
 May/June 2026 onwards --
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2024/03/oxfordaqa-intenational-gcse-urdu-specification.pdf),
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-intenational-gcse-urdu-specification.pdf),
 verified 2026-08-19 -- the same source already cited by
 [Theme 1](/resources/igcse-oxfordaqa-urdu-identity-and-culture/) and
 [Theme 2](/resources/igcse-oxfordaqa-urdu-local-national-international/), which first reproduced this

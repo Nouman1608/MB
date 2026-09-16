@@ -12,7 +12,7 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-2-cambridge-alevel"
-description: "Condensed recall notes on the modulus function and rational-function algebra, logarithms/exponentials, extended trigonometry, differentiation/integration, and numerical methods for Cambridge International AS & A Level Mathematics (9709), Pure Mathematics 2."
+description: "Condensed recall notes on the modulus function and polynomial division with the factor and remainder theorems, logarithms/exponentials, extended trigonometry, differentiation/integration, and numerical methods for Cambridge International AS & A Level Mathematics (9709), Pure Mathematics 2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-05
 featured: false
@@ -24,16 +24,24 @@ Condensed for the final weeks. For the full explanation, use the
 ## 2.1 Algebra — modulus first, then fluency with division
 
 **The modulus function |x|** gives the non-negative value of x,
-so |x| = x for x ≥ 0 and |x| = -x for x < 0 — its graph is a
-"V" shape reflected in the x-axis for negative x. Solve equations
-and inequalities involving a modulus by considering both the
-positive and negative case, or by squaring both sides when both
-sides are known to be non-negative (since |a| = |b| iff a² = b²).
+so |x| = x for x ≥ 0 and |x| = -x for x < 0. The graph of
+y = |ax + b| is a "V": the part of the line y = ax + b that lies below
+the x-axis is reflected in the x-axis, with the vertex at x = -b/a.
+Solve equations and inequalities involving a modulus by considering
+both the positive and negative case, or by squaring both sides, using
+|a| = |b| ⇔ a² = b². For inequalities use
+|x − a| < b ⇔ a − b < x < a + b. For example, |3x − 2| = |2x + 7|
+gives 3x − 2 = 2x + 7 or 3x − 2 = −(2x + 7), so x = 9 or x = −1.
+(Graphs of y = |f(x)| and y = f(|x|) for non-linear f are not
+required.)
 
-**Factor theorem and polynomial division must also be automatic**
-before moving on — later rational-function work assumes this, not a
-fresh challenge each time. Use the factor theorem to find roots, then
-divide to simplify or solve.
+**Polynomial division, the factor theorem and the remainder theorem
+must also be automatic.** Divide a polynomial of degree up to 4 by a
+linear or quadratic polynomial, identifying the quotient and the
+remainder. The remainder when f(x) is divided by (ax + b) is f(−b/a),
+and (ax + b) is a factor exactly when f(−b/a) = 0. Use these to find
+factors and remainders, solve polynomial equations and find unknown
+coefficients.
 
 ## 2.2 Logarithms and exponentials — practise as a pair
 
@@ -183,9 +191,9 @@ Paper 1.
 
 ## Self-test
 
-1. How do you solve an equation involving a modulus, and what must
-be automatic before attempting rational-function simplification in
-2.1?
+1. How do you solve an equation involving a modulus, and how does the
+remainder theorem give the remainder when f(x) is divided by (ax + b)
+in 2.1?
 2. Why should logarithms and exponentials be practised as a pair
 rather than separately?
 3. What does a sign change across an interval demonstrate in 2.6 —
@@ -196,8 +204,8 @@ any expression in 2.4–2.5?
 how questions are structured?
 
 **Answers:** 1. Consider the positive and negative case separately
-(or square both sides when both are non-negative); fluency with the
-factor theorem and polynomial division must also be automatic.
+(or square both sides, using |a| = |b| ⇔ a² = b²); the remainder is
+f(−b/a), and (ax + b) is a factor exactly when f(−b/a) = 0.
 2. Because exam questions frequently mix index and
 logarithmic representations within a single problem, rather than
 testing either form in isolation. 3. It demonstrates that a root lies

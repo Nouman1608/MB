@@ -148,7 +148,7 @@ Sub-topics 3.1-3.3 are the shared foundation the rest of Unit 3 depends on: dema
 
 ## Key terms
 
-**GDP** — total output/income within a country. **GNI** — GDP plus income earned by residents abroad. **Business cycle** — the recurring pattern of expansion, peak, contraction, trough. **Aggregate demand** — total planned spending in an economy at each price level. **Aggregate supply** — total output producers are willing to supply at each price level.
+**GDP** — total output/income within a country. **GNI** — GDP plus net income from abroad (income received from abroad minus income paid abroad); the net term can be negative, so GNI can be below GDP. **Business cycle** — the recurring pattern of expansion, peak, contraction, trough. **Aggregate demand** — total planned spending in an economy at each price level. **Aggregate supply** — total output producers are willing to supply at each price level.
 
 ## Common mistakes
 

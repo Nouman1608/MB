@@ -149,4 +149,4 @@ result shows about particle behaviour, not just to describe the setup.
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 5.3
-— [oxfordaqaexams.org.uk/9202](https://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-gcse-chemistry-specification.pdf).
+— [oxfordaqa.com/9202](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-gcse-chemistry-specification.pdf).

@@ -69,7 +69,9 @@ development.
 
 Each criterion carries equal weight and is scored on eight achievement
 levels (1-8), grouped into four descriptor bands -- the same
-level-and-band structure used across every MYP subject group.
+level-and-band structure used across every MYP subject group. Below the
+lowest band, a level of 0 is awarded for work that does not reach any
+descriptor, so the attainable range for each criterion is 0-8.
 
 ## Six teaching phases, three reporting levels
 
@@ -94,7 +96,8 @@ This subject uses **two different numeric scales**, and confusing them is the si
 common mistake in revision material about assessment structure:
 
 - **Classroom assessment** uses the eight achievement levels (1-8) described above for each
-  criterion, so a student's classroom total across all four criteria is out of **32**.
+  criterion (plus level 0 below the lowest band), so a student's classroom total across all four
+  criteria is out of **32**, with an attainable range of 0-32.
 - **The eAssessment blueprint** (below) allocates **24 raw marks** to each criterion in the
   external examination, with the actual distribution permitted to vary by up to three marks
   from that blueprint figure. Thirty-two is not a valid eAssessment mark total for any single
@@ -135,11 +138,13 @@ oral fluency and interaction -- rehearsing spontaneous, interactive
 speaking under time pressure, not just prepared monologues -- alongside
 written and receptive-skills practice, rather than assuming
 comprehensive written revision automatically prepares you for the
-speaking component too. Because MYP language acquisition is assessed
-by proficiency phase rather than by year group alone, confirm with your
-teacher which phase (emergent, capable or proficient) your own
-assessment will actually target, since practising with material pitched
-at the wrong phase either underprepares or wastes revision time.
+speaking component too. Because MYP language acquisition teaching is
+organised into six phases rather than by year group, and eAssessment
+results are reported at one of three proficiency levels (emergent,
+capable or proficient), confirm with your teacher which phase you are
+working in and which level your own assessment will actually target,
+since practising with material pitched at the wrong level either
+underprepares or wastes revision time.
 MYP language acquisition examination tasks are explicitly aligned with
 the skills needed for high levels of achievement in both DP Language
 Acquisition and DP Studies in Language and Literature courses, so

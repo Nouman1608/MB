@@ -120,7 +120,7 @@ the text alone.
 ## Where marks are usually lost
 
 - Section A answers that retell the plot chronologically instead of analysing the writer's methods at a series of chosen moments.
-- Section B comparisons that address theme only, ignoring the structure and form AQA credits equally.
+- Section B comparisons that address theme only, ignoring the language, form and structure that the analysis objective (AO2) asks candidates to analyse.
 - Choosing a second poem for Section B under exam pressure rather than deciding on a pairing in advance.
 - Section C answers that describe what an unseen poem is about without analysing how language and structure create that effect.
 - Running short on time for Section C because it feels the least prepared-for, even though it carries 32 of the paper's 96 marks — not the same tariff as Sections A (34) and B (30), but still too substantial a share to under-time.

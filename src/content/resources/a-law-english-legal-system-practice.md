@@ -13,7 +13,7 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "english-legal-system-9084"
-description: "Original exam-style practice questions with full worked answers on the courts, judiciary, juries, legal personnel and access to justice."
+description: "Original exam-style practice questions with full worked answers on civil and criminal law, the criminal courts and classification of offences, the jury, barristers, solicitors and legal executives, and judicial independence."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false

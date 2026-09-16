@@ -57,7 +57,7 @@ language exams, so prioritise fluency here early, since it also
 supports more complex writing tasks later in the course. Practising
 short, structured written responses on each sub-topic -- rather than
 only vocabulary lists -- builds the sentence-level accuracy that Paper
-2 rewards. Technology in Everyday Life (1.2) is a useful sub-topic for
+2 rewards. Technology in Everyday Life (1.2) is a useful topic for
 practising more abstract opinion-giving language -- likes, dislikes
 and reasons -- which extends naturally into the more complex themes
 that follow.
@@ -66,7 +66,7 @@ that follow.
 
 OxfordAQA International GCSE Urdu (9264) specification, Version 1.1,
 for International GCSE exams May/June 2026 onwards —
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2024/03/oxfordaqa-intenational-gcse-urdu-specification.pdf).
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-intenational-gcse-urdu-specification.pdf).
 
 ## The theme and how it is assessed
 
@@ -131,7 +131,7 @@ Missing a bullet point in the task. Writing entirely in the present tense. Givin
 
 ## Quick revision checklist
 
-- Build active vocabulary across all six sub-topics of the theme.
+- Build active vocabulary across all eight sub-topics of the theme's three topics.
 - Use three tenses accurately and consistently, watching gender agreement.
 - Give every opinion a reason, and where possible an example.
 - Address every bullet point in a writing task.

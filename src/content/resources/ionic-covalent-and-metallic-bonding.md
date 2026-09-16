@@ -99,25 +99,30 @@ each ion.
 (2,8,7):
 
 ```
-Na [•]              →      [Na]⁺        [ :Cl:×× ]⁻
- (one outer dot            (empty outer         (chlorine's 7 outer electrons,
-  electron, lost)           shell, no dots)       plus the transferred dot,
-                                                   making 8 — a full outer shell)
+             ××                             ××
+ Na•   +   ××Cl×      →      [Na]⁺      [ ××Cl×• ]⁻
+             ××                             ××
+
+Na: 1 outer electron (•), lost      Cl⁻: 7 crosses (its own) + 1 dot (from Na)
+[Na]⁺: no outer electrons left      = 8 outer electrons, a full outer shell
 ```
 
 **Magnesium oxide, MgO** — magnesium (2,8,2) transfers **both** outer electrons to oxygen
 (2,6), so the ratio is 1:1 and each ion carries a 2+ or 2− charge:
 
 ```
-Mg [• •]             →     [Mg]²⁺       [ :O:×× ]²⁻
- (two outer dot             (empty outer        (oxygen's 6 outer electrons,
-  electrons, lost)           shell)               plus 2 transferred dots,
-                                                    making 8)
+              ××                             ××
+ •Mg•   +   ××O       →      [Mg]²⁺      [ ××O•• ]²⁻
+              ××                             ××
+
+Mg: 2 outer electrons (• •), lost   O²⁻: 6 crosses (its own) + 2 dots (from Mg)
+[Mg]²⁺: no outer electrons left     = 8 outer electrons, a full outer shell
 ```
 
-In both cases the metal ends up with an empty outer shell (so the full shell underneath
-is shown as the outer one) and the non-metal ends up with 8 outer electrons — a full
-outer shell for both ions.
+In both cases the metal ion has lost its whole outer shell, so no dots are left around
+it (if a shell is drawn for the ion, it is the full shell underneath, now the outer one),
+and the non-metal ion has 8 outer electrons: its own electrons as crosses plus the
+transferred electrons as dots. Count the symbols inside each bracket before moving on.
 
 ## 2.5 Simple molecules and covalent bonds
 
@@ -148,10 +153,13 @@ sits where the outer shells overlap.
 **Water, H₂O** — oxygen (2,6) shares one electron with each of two hydrogen atoms:
 
 ```
-      H×
-       )O(  ו  → each H contributes one electron to a shared pair with O;
-      H×          O ends with 8 outer electrons (6 of its own + 2 shared),
-                   each H ends with 2 (a full shell for hydrogen)
+       ××
+   H •× O ×• H
+       ××
+
+O: 6 crosses (4 in two lone pairs, 1 in each bond); each H: 1 dot
+O ends with 8 outer electrons, each H with 2 (a full shell for hydrogen)
+(the diagram shows how electrons are shared, not the bent shape of the molecule)
 ```
 
 **Methane, CH₄** — carbon (2,4) shares one electron with each of four hydrogen atoms,

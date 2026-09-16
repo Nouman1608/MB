@@ -188,10 +188,12 @@ at the anode: no halide is present, so OH⁻/water is discharged → oxygen gas
 Hydrogen and oxygen are collected in the ratio **2 : 1 by volume**
 (hydrogen : oxygen), matching the formula of water. Confirm each gas with
 the standard test: hydrogen gives a **squeaky pop** with a lit splint;
-oxygen **relights a glowing splint**. The sulfate ion, SO₄²⁻, is not
-discharged at all — it, like the sulfuric acid's hydrogen ion, simply makes
-the solution a better conductor, and its concentration in solution actually
-increases slowly as electrolysis proceeds.
+oxygen **relights a glowing splint**. The hydrogen ions are the
+species discharged at the cathode. The sulfate ions, SO₄²⁻, are **not**
+discharged at all: they stay in solution and increase its conductivity.
+Because hydrogen and oxygen leave while the sulfate ions remain, water is
+effectively being removed, so the acid slowly becomes more concentrated as
+electrolysis proceeds.
 
 ## Electroplating
 

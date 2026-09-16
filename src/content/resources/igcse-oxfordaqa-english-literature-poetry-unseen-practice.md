@@ -7,7 +7,7 @@ topic: "Poetry and Unseen Texts"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9275"]
-syllabusSeries: "Version 4.2, for exams May/June 2018 onwards"
+syllabusSeries: "Version 5.1, for exams May/June 2018 onwards"
 order: 2
 syllabusTopics:
   - qualification: "igcse"

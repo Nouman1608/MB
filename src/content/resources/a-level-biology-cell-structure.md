@@ -208,11 +208,15 @@ sorts and packages proteins arriving from the rough endoplasmic
 reticulum, and buds off vesicles including lysosomes. Lysosomes are
 membrane-bound sacs of hydrolytic enzymes that digest worn organelles,
 foreign material and pathogens. Centrioles, found in animal cells,
-organise the spindle fibres used to separate chromosomes during
-division, and give rise to cilia and microvilli, which are finger-like
-or hair-like extensions of the cell surface membrane that respectively
-move fluid or particles across a surface (cilia) and increase surface
-area for absorption (microvilli).
+are a pair of short hollow cylinders built from microtubules; they
+organise the spindle fibres (also microtubules) used to separate
+chromosomes during division, and a centriole forms the basal body at
+the base of each cilium. Cilia are hair-like extensions of the cell
+surface membrane with a core of microtubules; they beat to move fluid
+or particles across a surface. Microvilli do not arise from
+centrioles: they are much smaller, finger-like folds of the cell
+surface membrane supported by actin microfilaments, and they increase
+the surface area for absorption.
 
 ## Official syllabus
 

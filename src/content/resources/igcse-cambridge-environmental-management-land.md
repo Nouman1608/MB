@@ -77,7 +77,7 @@ ploughing or maintaining a vegetation buffer become the practical
 fixes examiners expect candidates to suggest. Working through a
 chain like this, rather than memorising 2.1, 2.2 and 2.3 as separate
 lists, is what turns recall into the kind of application both papers
-reward through their structured and extended-response questions.
+reward, above all in their extended response questions.
 
 ## How to approach it
 
@@ -102,9 +102,12 @@ Paper 2 (Environmental Management in Context) are the same length and
 carry equal weight, but they emphasise different assessment objectives:
 Paper 1 is weighted towards knowledge and recall (AO1 55% of its
 marks), while Paper 2 leans towards analysis and judgement (AO3 40% of
-its marks) -- both papers include short-answer, structured and
-extended-response questions based on source material, so "structured
-questions" is not a feature unique to either one. Command words matter
+its marks). The syllabus describes Paper 1 as short-answer and
+structured questions with extended response questions based on source
+material, and Paper 2 as short-answer, data processing and analysis,
+and extended response questions based on source material, with
+practical method-based (fieldwork) questions limited to Paper 2 --
+neither is a pure-recall paper. Command words matter
 here too: a "describe" question on soil composition wants the named
 components in context, while a "discuss the benefits and limitations"
 question on erosion strategies wants candidates to weigh a strategy's

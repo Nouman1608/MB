@@ -74,8 +74,9 @@ crowd, denying the reader any pause."
 **(a)** Explain the key difference between these two responses. **[2]**
 **(b)** Explain why the second response would score more highly. **[2]**
 
-**9.** Explain why Section B weights analysis of language, form and
-structure especially heavily compared with Section A. **[2]**
+**9.** Both sections of Paper 2 assess the same four assessment
+objectives. Explain why close analysis of language, form and structure
+has to carry more of a Section B answer than a Section A answer. **[2]**
 
 **10.** Explain why tracking a set text's themes and characters
 chronologically across the whole novel is recommended over revising
@@ -85,8 +86,9 @@ only a handful of memorable scenes. **[3]**
 
 ## Answers
 
-**1.** Section A is based on a set text; Section B is based on an
-unseen prose passage [2].
+**1.** Section A is based on a set text; Section B is based on a
+previously unseen passage, answered from a choice of two passages that
+cover two of prose, poetry and drama [2].
 
 **2.** A first read for overall sense and tone; a second read
 annotating specific language and structural choices and their
@@ -143,7 +145,7 @@ explaining precisely how a specific technical choice shapes the
 reader's experience, rather than simply asserting that an effect
 exists [2].
 
-**9.** Section B weights language, form and structure heavily because,
+**9.** Both sections assess the same objectives (AO1 to AO4), but,
 unlike Section A, there is no wider text or established context to
 draw on beyond the extract itself, so analysis has to be grounded
 entirely in what is present on the page [2].

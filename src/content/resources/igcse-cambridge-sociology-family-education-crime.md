@@ -130,13 +130,19 @@ crime belongs to before analysing it further, and don't stop at the
 first seven: cyber, hate, organised and domestic crime are exactly the
 categories most likely to appear in a contemporary stimulus.
 
-Sub-topic 6.2 turns to measuring crime and to sociological explanation.
+Measuring crime (6.1.6) sets up the explanations in 6.2: the syllabus
+names official statistics, self-report studies and victim surveys
+(local and national), and the strengths and limitations of each.
 Official crime statistics have well-known limitations — under-reporting
 (victims not reporting to police), under-recording (police not
 recording every reported incident) and definitional change over time
 all mean recorded crime is not the same as the true, unmeasured level
-of offending. Sociological explanations for offending draw on the same
-theoretical perspectives used across the qualification: functionalist
+of offending. Sub-topic 6.2 sets out patterns of crime and
+victimisation by age, social class, gender and ethnicity, and the
+explanations for each. Its sociological theories (6.2.6) are
+postmodernism, interactionism (including labelling and moral panic
+theory), functionalism (including the New Right, subculturalism and
+strain theory), Marxism and feminism. Functionalist
 explanations (for example, crime as a product of weak social bonds or
 inadequate socialisation), Marxist explanations (crime as a product of
 economic inequality, and criminal law itself reflecting ruling-class
@@ -146,8 +152,10 @@ should each be linked to a named pattern of offending by class, gender,
 age or ethnicity, rather than treated as abstract theory alone.
 
 Sub-topic 6.3 examines how different societies respond to crime,
-comparing the aims and methods of punishment (for example retribution,
-deterrence, rehabilitation and reparation) and how these are balanced
+comparing the aims of punishment the syllabus names (protection of
+citizens, deterrence, retribution, incapacitation and rehabilitation),
+the effectiveness of different types of punishment, and the
+effectiveness of policing and law enforcement, and how these are balanced
 differently across societies and over time — an angle that rewards
 comparison rather than describing a single society's criminal justice
 approach as if it were universal.

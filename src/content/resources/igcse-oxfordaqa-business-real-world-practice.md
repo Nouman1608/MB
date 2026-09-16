@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "business-in-the-real-world-oxfordaqa-igcse-business"
-description: "Original exam-style practice questions with full worked answers on business ownership, objectives, stakeholders, location, business planning and growth, plus related Topic 2 (economic climate, legislation, ethics) and Finance questions."
+description: "Original exam-style practice questions with full worked answers on business ownership, objectives, stakeholders, location, business planning, growth and average unit costs, plus related Topic 2 (economic climate, legislation, ethics) and Finance questions."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -45,7 +45,8 @@ business — but this remains a balance issue: four of Topic 1's seven
 sub-topics (aims and objectives, stakeholders, location, and business
 planning) previously received no marks at all. Section C below adds
 coverage of those four sub-topics to rebalance the paper toward its
-named topic.
+named topic, and question 14 sets the topic's named calculation,
+average unit costs (3.1.7 Expanding a business).
 
 ---
 
@@ -116,6 +117,11 @@ named topic.
 
 **13.** Explain **one** benefit and **one** drawback of preparing a business plan before starting up. **[4]**
 
+**14.** A bakery makes 2,000 loaves a week at a total cost of $1,600. After expanding with a larger oven, it makes 5,000 loaves a week at a total cost of $3,000.
+
+**(a)** Calculate the bakery's average unit cost per loaf before and after the expansion. **[2]**
+**(b)** Interpret your answers to part (a), explaining **one** likely reason for the change. **[2]**
+
 ---
 
 ## Section C — Answers
@@ -129,6 +135,9 @@ named topic.
 **12.** Any three stakeholders, e.g. **owners, employees, customers, local community, suppliers** [1] [1] [1]. Conflict example: **owners** want to minimise costs (including wages) to maximise profit, while **employees** want higher pay and job security — the same funds cannot satisfy both [1] [1] [1].
 
 **13.** **Benefit:** writing a plan forces the founder to research the market and finances properly, reducing the risk of overlooking a serious problem before money is committed [1] [1]. **Drawback:** preparing a thorough plan takes time and, since it rests on assumptions about the market, may quickly become out of date if conditions change faster than expected [1] [1].
+
+**14. (a)** Average unit cost = total costs ÷ output. Before: $1,600 ÷ 2,000 = **$0.80** per loaf [1]. After: $3,000 ÷ 5,000 = **$0.60** per loaf [1].
+**(b)** Average unit cost has fallen by $0.20 per loaf (25%) even though total costs rose, so the bakery is benefiting from **economies of scale** as it expands [1]; a likely reason is a **technical economy of scale** — the larger oven bakes many more loaves at once, so its cost is spread over more units (or a **purchasing economy**, buying flour in bulk at a lower price per kilogram) [1].
 
 ---
 

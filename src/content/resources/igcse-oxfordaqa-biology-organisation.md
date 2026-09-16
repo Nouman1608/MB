@@ -73,7 +73,7 @@ surface (small intestine, lungs, roots or leaves).
 
 OxfordAQA International GCSE Biology (9201) specification PDF,
 Version 4.3 —
-[oxfordaqa.com](https://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-gcse-biology-specification.pdf).
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-gcse-biology-specification.pdf).
 
 ## Cell structure (3.1.1)
 

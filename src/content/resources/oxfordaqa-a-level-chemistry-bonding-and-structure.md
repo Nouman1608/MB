@@ -133,5 +133,5 @@ answer.
 OxfordAQA, *International AS and A-level Chemistry (9620)
 specification*, Version 4.3, for International AS and A-level exams
 May/June 2020 onwards: [official specification
-PDF](https://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-as-and-a-level-chemistry-specification.pdf),
+PDF](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-a-level-chemistry-specification.pdf),
 sections 3.1.3.1-3.1.3.4 "Bonding". Verified 2026-09-02.

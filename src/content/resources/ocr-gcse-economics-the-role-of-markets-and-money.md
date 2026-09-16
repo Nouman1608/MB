@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "the-role-of-markets-and-money-ocr-gcse-economics"
-description: "Markets, demand, supply, price, competition, production, the labour market and the role of money -- the full content of Topic 2 for OCR GCSE (9-1) Economics (J205), Component 01."
+description: "Markets, demand, supply, price, competition, production, the labour market and the role of money -- a map of the eight sub-topics of Topic 2 for OCR GCSE (9-1) Economics (J205), Component 01, with core explanations and worked calculations."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
@@ -121,6 +121,79 @@ output -- through bulk purchasing, more efficient large-scale
 machinery, cheaper borrowing for larger firms, and spreading
 advertising cost over more units. Total cost still rises with output;
 it is cost *per unit* that falls.
+
+**Specialisation and exchange (2.1).** Specialisation is when
+workers, firms, regions or countries concentrate on producing
+particular goods or services and then exchange them. The benefits are
+higher output and productivity, as skills improve with repetition, and
+access to a wider range of goods through trade. The costs are that
+repetitive work can lower motivation, workers with narrow skills may
+struggle to find new jobs if demand for their product falls, and a
+region or country that depends on one industry is exposed when that
+industry declines.
+
+**Competition, monopoly and oligopoly (2.5).** Producers compete to win
+customers, sales and profit, which tends to push prices down and to
+encourage efficiency, innovation, quality and choice; the cost to
+producers is lower profit, and less efficient firms may close. A
+**monopoly** is a market dominated by a single producer and an
+**oligopoly** is a market dominated by a few large producers. Firms with
+this market power face less pressure to keep prices down, so prices
+can be higher and consumer choice narrower than in a competitive
+market, although large firms may gain economies of scale and have
+profits to fund new products.
+
+**Productivity (2.6)** is output per worker (or per unit of input) in a
+given period. Higher productivity lowers the cost of each unit
+produced, which lets firms supply more at each price and raises the
+output an economy can produce from the same resources.
+
+## The labour market and wage determination (2.7)
+
+The **demand for labour** comes from employers and is a **derived
+demand**: workers are wanted for the goods and services they produce.
+The demand curve for labour slopes downward -- at a lower wage,
+employers are willing to hire more workers. The **supply of labour**
+comes from workers and slopes upward -- a higher wage attracts more
+people willing and able to do the job. The **equilibrium wage** is where
+the demand for labour equals the supply of labour.
+
+- **Demand for labour** shifts with demand for the product, the
+  productivity of workers, and the cost of machinery that could replace
+  them.
+- **Supply of labour** shifts with the skills, qualifications and length
+  of training the job needs, the number of people who have them,
+  working conditions and non-wage benefits, and changes in the size of
+  the working population.
+
+For example, a rise in demand for online services shifts the demand
+for software developers to the right and raises their wage; the long
+training needed to qualify as a surgeon keeps the supply of surgeons
+low, which is one reason their wage is high.
+
+## Money, the financial sector and interest rates (2.8)
+
+**Money** is a **medium of exchange**: it is accepted in payment for
+goods and services, which removes the need for barter. **Banks** and
+**building societies** take deposits from savers and lend to households
+and firms, linking savers with borrowers; **insurance companies** let
+people and firms pay a premium to protect themselves against the cost
+of a loss. A **rise in interest rates** makes saving more rewarding and
+borrowing more expensive, so saving tends to rise while borrowing and
+investment tend to fall; a fall in interest rates has the opposite
+effects.
+
+Worked example (interest for one year):
+
+```
+Saver with £5,000:     at 2%  interest = £5,000 × 0.02 = £100
+                       at 3%  interest = £5,000 × 0.03 = £150
+                       the rate rise earns the saver £50 more
+
+Borrower of £10,000:   at 5%  interest = £10,000 × 0.05 = £500
+                       at 7%  interest = £10,000 × 0.07 = £700
+                       the rate rise costs the borrower £200 more
+```
 
 ## How the eight sub-topics build on each other
 

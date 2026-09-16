@@ -88,8 +88,8 @@ A **census** surveys every member of the population — completely accurate but 
 
 These four are the sampling methods 0479 names (a sampling frame is needed for all except quota).
 **Opportunity sampling** (whoever happens to be available; highly unrepresentative) is common wider
-sampling vocabulary, but it is not one of the methods 0479 names, so treat it as background rather than
-required content.
+sampling vocabulary, but it is not one of the methods 0479 names, so treat it as background. (The syllabus's
+own example of a biased method -- surveying the first people to arrive -- is in effect an opportunity sample.)
 
 Larger samples are more reliable but cost more. **Bias** arises from an incomplete sampling frame, non-response, leading questions, self-selection, or the **interviewer effect**, where respondents answer differently depending on who is asking. A larger sample reduces **sampling error** — the random variation between samples — but does **not** remove bias: a biased method stays biased at any size, however large, since bias is a systematic fault in the method itself rather than a matter of random variation. These two ideas are frequently confused but need to be argued separately.
 

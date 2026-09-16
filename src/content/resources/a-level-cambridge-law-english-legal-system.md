@@ -44,7 +44,14 @@ the underlying principles that structure the legal system
 - 1.2 Machinery of justice — the courts and institutions through
 which law is applied and disputes resolved
 - 1.3 Legal personnel — the roles of judges, lawyers and other legal
-professionals within the system
+professionals within the system, including how the legal professions
+are regulated
+
+This guide is an overview of all three sub-topics rather than a
+complete set of notes: it does not go into police powers (1.2.4), bail,
+pre-trial procedure, or the detailed qualifications, selection,
+training and removal of judges, magistrates and jurors, which the
+syllabus also lists.
 
 ## How to approach it
 
@@ -122,6 +129,8 @@ Judges avoid an inconvenient precedent by **distinguishing** on the facts, and h
 
 **Barristers** are typically self-employed specialists in advocacy and legal opinion, practising from chambers and traditionally instructed by a solicitor rather than directly by the client. **Solicitors** deal directly with clients, handle case preparation, conveyancing, wills and litigation, and increasingly exercise rights of audience in the higher courts. **Legal executives**, qualified through CILEX, specialise in one area of law within a solicitors' firm and may in time gain rights of audience and judicial appointment.
 
+**Regulation of the legal professions.** Each branch has a representative professional body and a separate regulator. The **Bar Council** represents barristers, while its regulatory functions are carried out independently by the **Bar Standards Board**, which sets the standards for qualifying and training as a barrister, publishes the code of conduct and investigates and prosecutes breaches of it. The **Law Society** represents solicitors, while the **Solicitors Regulation Authority** regulates them: it sets the requirements for admission, the standards and code of conduct solicitors must follow, and takes disciplinary action, referring the most serious cases to the Solicitors Disciplinary Tribunal. This separation of representation from regulation was required by the Legal Services Act 2007, which also created the **Legal Ombudsman**. A client dissatisfied with the service a lawyer provided must first complain to the lawyer; if that does not resolve it, the Legal Ombudsman can investigate and require remedies such as an apology, a refund of fees or compensation.
+
 The **judiciary** is appointed by the independent Judicial Appointments Commission. Judicial independence is protected by **security of tenure** (senior judges can be removed only by a petition to the monarch approved by both Houses of Parliament), **salaries charged on the Consolidated Fund** rather than subject to annual parliamentary vote, and **immunity from suit** for acts done in a judicial capacity.
 
 **Lay people** — magistrates and jurors — bring community participation to the system. Magistrates are unpaid, trained volunteers who deal with the great majority of criminal cases; jurors are randomly selected members of the public who decide guilt or innocence on the facts in Crown Court trials. Both attract criticism over representativeness and, for juries, competence in complex or lengthy cases.
@@ -156,3 +165,4 @@ Confusing ratio decidendi with obiter dicta. Treating distinguishing and overrul
 - Distinguish summary, either-way and indictable offences and where each is tried.
 - Compare negotiation, mediation, conciliation and arbitration as forms of ADR.
 - Describe the roles of barristers, solicitors and legal executives, and how judicial independence is protected.
+- Explain how barristers and solicitors are regulated, naming the Bar Council, Bar Standards Board, Law Society, Solicitors Regulation Authority and Legal Ombudsman.

@@ -110,7 +110,15 @@ root. The turning point lies on the line of symmetry, halfway between
 the roots at x = 1, giving y = 1 − 2 − 3 = −4, so the minimum is
 (1, −4).
 
-## Transformations of graphs
+## Transformations of graphs (extension, not a 4024 learning outcome)
+
+> **Extension material.** Transforming the graph of a function is not a
+> learning outcome in 4024. The syllabus sub-topics 2.10 Graphs of
+> functions and 2.11 Sketching curves ask you to recognise, draw and
+> sketch the listed equation forms, and topic 7.1 Transformations covers
+> reflecting, rotating, enlarging and translating a shape, not a graph.
+> You will not be asked to describe a graph transformation in `f(x)`
+> notation; the table below is only a sketching shortcut.
 
 Recognise how shifting or reflecting an equation moves its graph,
 without needing to re-derive the shape from scratch each time:

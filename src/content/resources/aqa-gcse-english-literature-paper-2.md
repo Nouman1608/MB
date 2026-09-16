@@ -143,9 +143,11 @@ on content, theme, structure and language rather than biographical
 guesswork about the poet.
 - Use connectives of comparison throughout a Section B or Section C
 answer, not only in the introduction or conclusion.
-- Check the timing split reflects the mark allocation: roughly equal
-time across all three sections, since Section C carries the same
-weight as A and B despite feeling less prepared-for.
+- Check the timing split reflects the mark allocation: Section A
+carries 34 marks, Section B 30 and Section C 32, so give each section
+a broadly similar share of the time -- Section C is not the same
+tariff as A or B, but it is too large a share to under-time just
+because it feels less prepared-for.
 
 ## Related resources
 

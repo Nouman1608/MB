@@ -98,11 +98,13 @@ fieldwork as a purely scientific exercise.
 
 ESS packages its HL content differently from its sibling DP sciences, but it is not true that HL
 adds nothing beyond SL content -- it adds 90 recommended teaching hours over SL (240 against 150
-overall), and this shows up in two distinct ways. First, the eight shared syllabus topics
-themselves grow: HL students engage with the same topics as SL students but in greater breadth and
-depth, with syllabus content recommended hours rising from 100 at SL to 190 at HL. Second, HL
-students study three **HL-only lenses** that SL students never encounter at all: environmental law
-(5 hours), environmental and ecological economics (7 hours), and environmental ethics (5 hours).
+overall; the 50-hour experimental programme is the same at both levels, so all 90 extra hours are
+syllabus content, which rises from 100 hours at SL to 190 at HL). Those 90 hours come in two
+distinct ways. First, the eight shared syllabus topics themselves grow: HL students engage with the
+same topics as SL students but in greater breadth and depth, the topics' recommended hours rising
+from 100 at SL to 173 at HL (73 extra hours). Second, HL students study three **HL-only lenses** that
+SL students never encounter at all: environmental law (5 hours), environmental and ecological
+economics (7 hours), and environmental ethics (5 hours) -- 17 hours in total, making 73 + 17 = 90.
 Unlike, say, DP Biology, where HL content is marked as extra sub-topics threaded through the same
 numbered topics, ESS keeps its HL-only material as these three separately named lenses that HL
 students apply across the core content, on top of the general extra depth and breadth built into

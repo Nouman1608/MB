@@ -99,7 +99,7 @@ Reactivity falls because the outer shell is further from the nucleus, so an elec
 
 All exist as **diatomic** molecules and form 1− ions.
 
-The same reactivity order (Cl > Br > I) is exactly why chloride, bromide and iodide give progressively less soluble, differently coloured precipitates with silver nitrate — a direct link to the [halide ion tests](/resources/identification-of-ions-and-gases/) in qualitative analysis, and a reminder that the two topics describe the same underlying trend from different angles.
+**Halide ions are identified by a separate test**, not by their reactivity: acidify the solution with dilute nitric acid, then add aqueous silver nitrate — chloride gives a **white** precipitate, bromide **cream**, iodide **yellow** (see the [halide ion tests](/resources/identification-of-ions-and-gases/) in qualitative analysis). The precipitate colours are observations used to identify the ion; they are not caused by the halogen reactivity order, even though the silver halides' solubility happens to fall in the same order, Cl > Br > I.
 
 ## Transition elements vs Group I
 

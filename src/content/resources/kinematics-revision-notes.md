@@ -70,8 +70,10 @@ separate "deceleration formula" to remember.
 |---|---|---|
 | Gradient gives | **Speed** | **Acceleration** |
 | Horizontal line | At rest | Constant speed |
+| Horizontal line lying on the time axis | At rest | At rest (speed = 0) |
 | Straight slope | Constant speed | Constant acceleration |
-| Curve upward | Accelerating | Increasing acceleration |
+| Curve getting steeper | Accelerating | Changing acceleration |
+| Curve getting less steep | Decelerating | Changing acceleration |
 | Area under graph | *No meaning* | **Distance travelled** |
 
 The single most useful fact: **area under a speed–time graph = distance**, found by splitting the graph into triangles and rectangles — this technique applies to motion with **constant speed or constant acceleration** (a graph with changing acceleration isn't calculated this way at this level).

@@ -86,7 +86,9 @@ half-value thickness:   x_1/2 = ln2 / mu
 
 ## CT scanning
 
-An X-ray tube rotates around the patient, taking many images from different angles; a computer reconstructs a **three-dimensional** image from the set of two-dimensional slices.
+An X-ray tube rotates around the patient, taking many images of the **same section** from different angles; a computer combines them into a **2D image of that section**. Repeating this for successive sections along an axis and combining the 2D images gives a **three-dimensional** image.
+
+*Background, beyond the 9702 outcome:*
 
 | | Advantage | Disadvantage |
 |---|---|---|

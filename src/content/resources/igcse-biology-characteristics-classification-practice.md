@@ -53,13 +53,15 @@ Related: [Characteristics and Classification revision notes](/resources/igcse-bi
 
 **(b)** State the single feature that distinguishes prokaryotes from protoctists. **[1]**
 
-**6.** Four arthropods are examined.
+**6.** This question is about arthropods.
 
 **(a)** State the three features common to all arthropods. **[3]**
 
 **(b)** An organism has eight legs, two body parts and no antennae. Identify its group. **[1]**
 
 **(c)** An organism has six legs, three body parts and one pair of antennae. Identify its group. **[1]**
+
+**(d)** An organism has many pairs of legs, one or two pairs per body segment, and a body made of many segments. Identify its group. **[1]**
 
 **7.** A student constructs a dichotomous key for five leaves.
 
@@ -78,8 +80,6 @@ Related: [Characteristics and Classification revision notes](/resources/igcse-bi
 **(a)** State whether it is a monocotyledon or a dicotyledon, using **both** pieces of evidence given. **[2]**
 
 **(b)** State the number of cotyledons its seed would contain. **[1]**
-
-**(c)** A different organism has many pairs of legs, one or two pairs per body segment, and a body made of many segments. Identify its arthropod group. **[1]**
 
 ---
 
@@ -111,6 +111,8 @@ Fungi: **chitin** [1] wall, **saprotrophic** nutrition [1].
 
 **(c)** **Insect** [1].
 
+**(d)** **Myriapod** [1].
+
 **7. (a)** A series of **paired, contrasting statements** [1]; at each step one is chosen, leading either to the next pair or to an identification [1].
 
 **(b)** Any two with reasons: **colour** — it changes with age and season [1]; **size** — it varies between individuals and is relative rather than absolute [1].
@@ -121,7 +123,6 @@ Fungi: **chitin** [1] wall, **saprotrophic** nutrition [1].
 
 **9. (a)** **Monocotyledon** [1]; flower parts in **threes** and **parallel** leaf veins are both diagnostic monocotyledon features (dicotyledons have flower parts in fours or fives and branching, net-like veins) [1].
 **(b)** **One** cotyledon [1].
-**(c)** **Myriapod** [1].
 
 ---
 

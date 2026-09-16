@@ -24,7 +24,7 @@ Condensed for the final weeks. For the full explanation, use the
 ## Working with the extract — the skill Paper 1 actually tests
 
 Paper 1 carries **no source-handling marks at all** (0% AO3) -- unlike Paper 2, it is not a
-source-evaluation paper, and "how far do the sources agree" questions belong to Paper 2, not here
+source-evaluation paper. Cross-referencing sources is not tested here; it belongs to Paper 2's historical investigation, which sets it in the form *"How far does Source A support the evidence of Source B about [topic]?"*
 (see the [Paper 2 revision notes](/resources/edexcel-igcse-world-history-paper-2-revision-notes/)
 for that skill). Each depth-study question opens with a short printed extract, but that extract is a
 **secondary historian's interpretation** (attributed to a named author and a publication date), not

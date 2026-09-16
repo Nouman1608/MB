@@ -95,9 +95,9 @@ Related: [Energy Changes in a System study guide](/resources/aqa-gcse-physics-en
 - Describing Required practical activity 1 without naming what it measures (specific heat capacity) or the method (linking electrical work done to temperature rise).
 - Treating power and energy as the same quantity — power questions always involve a time.
 
-## Approaching "why does this belong here" questions
+## How this sub-topic relates to Conservation and Dissipation
 
-A small number of marks each series test whether candidates can place a calculation in the right sub-topic — not because the mark scheme cares about labels, but because confusing "calculating an energy change" (this sub-topic) with "explaining what happens to energy afterwards" (Conservation and Dissipation) usually means answering the wrong question. If a question gives you numbers and asks for a value, it is testing the equations on this page. If it asks you to explain, evaluate, or improve efficiency, it is testing Conservation and Dissipation instead — checking which verb the question uses is a fast way to identify which set of ideas to reach for under time pressure.
+Exam questions do not ask you to name the specification sub-topic they come from, and the command word is not a reliable guide to it: the two sub-topics are divided by **subject matter**. Sub-topic 4.1.1 covers energy stores and systems (including describing how energy is stored before and after a change), kinetic, elastic potential and gravitational potential energy, specific heat capacity and power. Sub-topic 4.1.2 covers energy transfers in a closed system, dissipation, reducing unwanted transfers (for example lubrication and thermal insulation) and efficiency — and efficiency is itself a calculation, so a question that asks for a value is not automatically about this page's equations. What matters in the exam is recognising which physical ideas a question needs, then applying them.
 
 
 ## Approaching multi-step calculation questions

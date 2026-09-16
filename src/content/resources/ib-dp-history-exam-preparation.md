@@ -58,8 +58,9 @@ topic.
 
 ## The historical investigation: evaluation must connect to the research question
 
-The investigation is graded on identifying a focused research question, the range and quality of
-sources evaluated, the organisation and analysis of evidence, and critical reflection on method.
+The investigation is organised into three sections -- a focused inquiry question, the selection
+and evaluation of sources, and a synthesis of the evidence into a response to the question -- with
+no separate reflection section in the course first examined in 2028.
 **Exam-preparation priority**: a common weakness is describing a source's origin and content without
 genuinely assessing its value and limitation for answering the *specific* research question --
 revise source evaluation as always tied back to the question being investigated, not a generic

@@ -77,7 +77,7 @@ change rather than pursuing rigorous proof for its own sake.
 
 Together, the five content strands total 120 hours at SL and 210 hours
 at HL, with the remaining 30 hours at both levels given to the
-exploration described below.
+toolkit and the mathematical exploration together, as described below.
 
 ## Toolkit and exploration (30 hours, both SL and HL)
 

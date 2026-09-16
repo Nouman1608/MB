@@ -26,7 +26,7 @@ Paper 1 drops from 35% at SL to 25% at HL, and the IA drops from 30% to 20%, wit
 
 | Component | SL | HL |
 |---|---|---|
-| Paper 1 (pre-seen case study) | 35% | 25% |
+| Paper 1 (pre-released statement + unseen case study) | 35% | 25% |
 | Paper 2 (stimulus material + extended response) | 35% | 30% |
 | Paper 3 (social-enterprise stimulus) | — | 25% |
 | Internal assessment | 30% | 20% |
@@ -59,7 +59,7 @@ The research project, at both SL and HL, requires applying business tools and th
 
 ## Command terms across the papers
 
-Command terms are grouped by assessment objective. **AO1** (knowledge and understanding) covers **define**, **describe**, **identify**, **list**, **outline** and **state**. **AO2** (application and analysis) covers **analyse**, **apply**, **comment**, **demonstrate**, **distinguish**, **explain** and **suggest**. **AO3** (synthesis and evaluation) covers **compare**, **contrast**, **discuss**, **evaluate**, **examine**, **justify**, **recommend** and **to what extent** -- these require a reasoned judgement supported by business tools and evidence from the stimulus material. **AO4** (use and application of appropriate skills) is separate from this cognitive-demand ladder and covers skills-specific terms such as **annotate**, **calculate**, **complete**, **construct**, **determine**, **draw**, **label**, **plot** and **prepare**. An examination question can use a command term from the assessment objective level set for that topic, or a less demanding term from a lower level, but not a more demanding term from a higher level. Because Paper 1's case study is released in advance, AO3 command terms there can be prepared for in more depth than on Paper 2 or HL Paper 3, where the same command terms must be answered against largely unseen stimulus material under full exam-time pressure -- a genuinely different skill worth practising separately.
+Command terms are grouped by assessment objective. **AO1** (knowledge and understanding) covers **define**, **describe**, **identify**, **list**, **outline** and **state**. **AO2** (application and analysis) covers **analyse**, **apply**, **comment**, **demonstrate**, **distinguish**, **explain** and **suggest**. **AO3** (synthesis and evaluation) covers **compare**, **contrast**, **discuss**, **evaluate**, **examine**, **justify**, **recommend** and **to what extent** -- these require a reasoned judgement supported by business tools and evidence from the stimulus material. **AO4** (use and application of appropriate skills) is separate from this cognitive-demand ladder and covers skills-specific terms such as **annotate**, **calculate**, **complete**, **construct**, **determine**, **draw**, **label**, **plot** and **prepare**. An examination question can use a command term from the assessment objective level set for that topic, or a less demanding term from a lower level, but not a more demanding term from a higher level. Because Paper 1's pre-released statement (its research topics and roughly the first 200 words of the case study) arrives three months before the exam, students can research those topics in advance, although the rest of the case study, about a fictitious organisation, is unseen until the exam; on Paper 2 and HL Paper 3 the same command terms must be answered against entirely unseen stimulus material under full exam-time pressure -- a genuinely different skill worth practising separately.
 
 ## Why the four concepts matter for every paper
 

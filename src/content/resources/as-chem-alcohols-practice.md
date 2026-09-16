@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-hydroxy-compounds"
     subtopic: "as-alcohols"
-description: "Original exam-style practice questions with full worked answers on alcohol classification, oxidation, dehydration and the iodoform test for AS Chemistry."
+description: "Original exam-style practice questions with full worked answers on alcohol classification, oxidation, dehydration, the iodoform test and the preparation of alcohols by reduction and ester hydrolysis for AS Chemistry."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
 featured: false
@@ -44,7 +44,7 @@ Related: [Alcohols revision notes](/resources/as-chem-alcohols-revision-notes/),
 
 **4.** Ethanol can be dehydrated to ethene.
 
-**(a)** State the reagent and conditions. **[2]**
+**(a)** State a suitable reagent and the conditions for this dehydration. **[2]**
 **(b)** Name the type of reaction. **[1]**
 
 **5.** Describe the iodoform (tri-iodomethane) test.
@@ -53,7 +53,11 @@ Related: [Alcohols revision notes](/resources/as-chem-alcohols-revision-notes/),
 **(b)** State the positive observation. **[1]**
 **(c)** State which structural feature gives a positive result. **[2]**
 
-**6. (Fermentation is prior IGCSE knowledge, not itself an AS 9701 syllabus point — 16.1.1 lists six AS production routes for alcohols and fermentation is not one of them. Included here for context and comparison only; no AS marks are awarded for fermentation recall alone, only for the hydration-of-ethene side.)** Compare the two industrial routes to ethanol — hydration of ethene and fermentation — on **rate**, **purity** and **sustainability**. **[6]**
+**6.** Ethanol can be prepared from ethanal, from ethanoic acid or from ethyl ethanoate.
+
+**(a)** State a reagent for converting ethanal into ethanol, and write an equation for the reaction, using [H] to represent the reducing agent. **[2]**
+**(b)** State the only one of the two common hydride reducing agents that can convert ethanoic acid into ethanol, and write an equation for the reaction, using [H]. **[2]**
+**(c)** State the reagents and conditions for obtaining ethanol from ethyl ethanoate, and name the other product formed when an alkali is used. **[2]**
 
 **7.** Ethanol is added separately to (i) a small piece of sodium and (ii) phosphorus(V) chloride (PCl₅).
 
@@ -79,17 +83,16 @@ Related: [Alcohols revision notes](/resources/as-chem-alcohols-revision-notes/),
 **(c)** **Orange to green** [1].
 **(d)** **No reaction / no colour change** [1], because a tertiary alcohol has **no hydrogen on the carbon bearing the OH group**, so it cannot be oxidised without breaking a C–C bond [1].
 
-**4. (a)** Either **concentrated sulfuric acid, heated to about 170 °C** (elimination in the liquid phase) [1], **or** alcohol **vapour passed over a heated aluminium oxide (Al₂O₃) catalyst at about 300–400 °C** [1].
+**4. (a)** Any **one** route, reagent and matching condition: **concentrated sulfuric acid** [1], **heated to about 170 °C** [1]; **or** an **aluminium oxide (Al₂O₃) catalyst** [1], with ethanol **vapour passed over the heated catalyst at about 300–400 °C** [1]. Maximum 2; the condition mark is awarded only with its own reagent (170 °C with Al₂O₃ scores the reagent mark only).
 **(b)** **Elimination** (dehydration) [1].
 
 **5. (a)** **Iodine and sodium hydroxide** (alkaline aqueous iodine) [1].
 **(b)** A **pale yellow precipitate** with an antiseptic smell [1].
-**(c)** The presence of a **CH₃CH(OH)–** group [1] or a **CH₃CO–** group [1].
+**(c)** A **CH₃CH(OH)–** group, in an alcohol [1]; and a **CH₃CO–** group, in a carbonyl compound [1].
 
-**6. (Background context; marks apply to the hydration-of-ethene content, which is the AS syllabus route.)**
-**Rate:** hydration of ethene is **fast and continuous**; fermentation is **slow and batch** [1] [1].
-**Purity:** hydration gives a **pure product**; fermentation gives a **dilute aqueous mixture** requiring fractional distillation [1] [1].
-**Sustainability:** hydration uses **ethene from crude oil**, which is finite and non-renewable [1]; fermentation uses **renewable plant material** and is close to carbon neutral, but competes with food production for land [1].
+**6. (a)** **NaBH₄** (or LiAlH₄) [1]; `CH₃CHO + 2[H] → CH₃CH₂OH` [1].
+**(b)** **LiAlH₄** (NaBH₄ is not a powerful enough reducing agent) [1]; `CH₃COOH + 4[H] → CH₃CH₂OH + H₂O` [1].
+**(c)** Heat with **dilute acid** (e.g. dilute H₂SO₄) **or dilute alkali** (e.g. NaOH(aq)) — hydrolysis [1]; with NaOH(aq) the other product is **sodium ethanoate**, CH₃COONa (accept the ethanoate ion) [1].
 
 **7. (a)** With sodium: **effervescence** (bubbles of gas) as the sodium reacts and gradually disappears [1]. With PCl₅: **misty/steamy white fumes** (of HCl) are produced [1].
 **(b)** `2CH₃CH₂OH + 2Na → 2CH₃CH₂ONa + H₂` [1].
@@ -105,7 +108,7 @@ Related: [Alcohols revision notes](/resources/as-chem-alcohols-revision-notes/),
 - Confusing distil with reflux, so the aldehyde over-oxidises.
 - Saying tertiary alcohols "react slowly" — they do not react at all under these conditions.
 - Giving only one product for the iodoform-positive structural feature.
-- Evaluating the ethanol routes on one dimension only.
+- Using NaBH₄ to reduce a carboxylic acid — only LiAlH₄ is a powerful enough reducing agent.
 - Forgetting to balance the sodium/alcohol equation — two moles of alcohol react with two moles of sodium to produce one mole of hydrogen gas.
 - Describing the PCl₅ test result as "bubbles" rather than the distinctive misty/steamy white fumes of HCl gas.
 - Naming the ester product the wrong way round, or forgetting that concentrated sulfuric acid here is acting purely as a catalyst rather than being consumed in the reaction.
@@ -115,9 +118,9 @@ Related: [Alcohols revision notes](/resources/as-chem-alcohols-revision-notes/),
 Beyond oxidation, an alcohol's -OH group takes part in several other
 reaction types worth holding together as a set: with **sodium**, it
 behaves as a weakly acidic O-H group, releasing hydrogen gas and
-forming a sodium alkoxide; with **concentrated sulfuric or phosphoric
-acid** at about 170°C, it undergoes elimination (dehydration) to form
-an alkene; with a **carboxylic acid** and an acid catalyst, it
+forming a sodium alkoxide; with **concentrated sulfuric acid** at about
+170°C, or as vapour over a heated Al₂O₃ catalyst, it undergoes
+elimination (dehydration) to form an alkene; with a **carboxylic acid** and an acid catalyst, it
 undergoes condensation (esterification) to form an ester; and with
 **PCl₅**, it substitutes the -OH for chlorine, producing the
 characteristic misty fumes used as a simple confirmatory test for the

@@ -35,9 +35,10 @@ political content rather than recalled as a separate list. Because
 all three thematic studies are compulsory, Peace and Conflict should
 not be treated as optional relative to Rights and Justice or
 Development and Sustainability: Paper 2's extended-response questions
-can draw on any of the three, and at HL, the Global political
-challenges extension (Paper 3) asks for synthesis across all three
-rather than treating any one in isolation.
+can draw on any of the three. The HL Global political challenges
+extension (Paper 3) is separate again: it is built on cases each HL
+student researches independently, connected to eight topic areas
+(borders, environment, equality, health, identity, poverty, security and technology).
 
 ## Syllabus coverage
 
@@ -154,9 +155,10 @@ example.
   (e.g. a named truth and reconciliation commission or the ICC).
 - Distinguish peacemaking, peacekeeping and
   peacebuilding, with a named mechanism or actor for each.
-- HL: build case studies that can be discussed from more than one
-  thematic angle, since Paper 3 requires synthesis across all three
-  thematic studies.
+- HL: where a conflict case you know well connects to one of the
+  eight HL topic areas (for example borders, security or identity),
+  note it as a possible starting point for the independent case
+  research that Paper 3 is based on.
 
 ## Official syllabus
 

@@ -12,7 +12,7 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-the-law-in-action-yla1"
-description: "Original exam-style practice questions with full worked answers on contract formation and terms, negligence, criminal liability and property offences, and defamation and privacy for A Level Law Paper 2."
+description: "Original exam-style practice questions with full worked answers on contract terms and the Consumer Rights Act 2015, negligence, actus reus, mens rea and omissions, theft, sentencing, defamation, and occupiers' liability for A Level Law Paper 2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-30
 featured: false

@@ -12,16 +12,19 @@ order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "paper-2-family-education-crime-2251"
-description: "Family, education, and crime, deviance and social control -- the full content of Paper 2 for Cambridge O Level Sociology 2251, 2025-2027 series."
+description: "A guide to Paper 2 of Cambridge O Level Sociology 2251, 2025-2027 series: the sub-topics of Family, Education, and Crime, deviance and social control, the functionalist, Marxist and feminist views the syllabus names, and how to revise and answer on the two topics candidates choose."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-01
 featured: false
 ---
 
-This guide covers **Paper 2 Family, Education and Crime**, for
-Cambridge O Level Sociology 2251, Version 3, 2025–2027 series. Paper 2
-covers three further named topics, and candidates answer questions on
-2 of the 3 — unlike Paper 1, where Question 1 (Research Methods) is
+This guide sets out **Paper 2 Family, Education and Crime**, for
+Cambridge O Level Sociology 2251, Version 3, 2025–2027 series: what each
+of its topics contains, the sociological perspectives they use, and how
+to revise them. It is an overview rather than a full set of notes on
+every syllabus point. Paper 2 (1 hour 45 minutes, 80 marks, 50% of the
+qualification) covers three further named topics, and candidates
+answer two structured questions from a choice of three — unlike Paper 1, where Question 1 (Research Methods) is
 compulsory alongside a choice of one more.
 
 ## Where this fits in 2251
@@ -48,15 +51,32 @@ to Paper 1's Identity topic: how we learn our identity, how society
 controls us, and what influences our social identity — a different
 topic on a different paper.)
 
-- **4. Family** — the different forms family takes across societies, the
-functions the family performs, and how family structures and roles
-are changing
-- **5. Education** — the role and functions of education in society, and
-factors affecting educational achievement
-- **6. Crime, Deviance and Social Control** — how crime and deviance are
-defined and measured, explanations for criminal and deviant
-behaviour, and the formal and informal methods societies use to
-control it
+- **4. Family** — 4.1 What are the different types of families?
+(family structures, diversity, New Right and postmodernist views on
+family diversity, alternatives to the family, types of marriage);
+4.2 What is the role of the family for the individual and society?
+(functionalist, Marxist and feminist views, their strengths and
+limitations, and whether family life is positive or negative for its
+members); 4.3 How is family life changing? (demographic factors,
+industrialisation and urbanisation, marriage, divorce and cohabitation,
+alternatives to marriage, and changing roles of partners, children and
+grandparents)
+- **5. Education** — 5.1 What is education and schooling? (formal and
+informal education, the official and hidden curriculum, types of
+school, alternative approaches); 5.2 What are the roles and functions
+of education? (functionalist, Marxist and feminist views, with their
+strengths and limitations); 5.3 What factors help to explain
+differences in educational achievement and experience? (patterns and
+explanations by social class, ethnicity and gender, and global
+differences)
+- **6. Crime, Deviance and Social Control** — 6.1 What are crime,
+deviance and social control? (definitions and relativity, formal and
+informal social control, types of crime, measuring crime); 6.2 What are
+the patterns of and explanations for crime and deviance? (patterns by
+age, social class, gender and ethnicity, and the sociological theories:
+postmodernism, interactionism, functionalism, Marxism and feminism);
+6.3 How is crime dealt with in different societies? (aims and types of
+punishment, policing and law enforcement)
 
 ## How to approach it
 
@@ -109,6 +129,38 @@ studying a specific family, education or crime-related question, and
 why, since examiners reward candidates who treat the syllabus as one
 connected body of knowledge rather than three separate topics with no
 relationship to the methods content examined elsewhere.
+
+## The perspectives Paper 2 names
+
+The same three structural perspectives run through Family and
+Education, and the syllabus asks for the strengths and limitations of
+each, so learn one specific argument per perspective per topic:
+
+- **Functionalism** sees institutions as meeting the needs of society
+and its members. On the family (4.2.1): the functions the family
+performs, the "warm bath" theory of the family stabilising adult
+personalities, the loss of functions debate and the importance of the
+nuclear family. On education (5.2.1): socialisation, social control,
+role allocation, value consensus, and meritocracy — the idea that
+rewards go to ability and effort.
+- **Marxism** sees institutions as serving capitalism and the ruling
+class. On the family (4.2.2): the family as a unit of consumption, the
+reproduction of class inequalities and ideological control. On
+education (5.2.2): the reproduction of class inequalities through the
+hidden and official curriculum, middle-class culture in schools
+and cultural capital, and the "myth of meritocracy".
+- **Feminism** sees institutions as reproducing patriarchy. On the
+family (4.2.3): the domestic division of labour, joint and segregated
+conjugal roles, the dual burden and triple shift, domestic violence and
+gendered socialisation. On education (5.2.3): the patriarchal culture
+of schools, gendered subject choice, teacher expectations and role
+models.
+
+For crime (6.2.6) the syllabus names five theories: **postmodernism**;
+**interactionism**, including labelling and moral panic theory;
+**functionalism**, including the New Right, subculturalism and strain
+theory; **Marxism**; and **feminism** — and 6.2.7 asks for the
+strengths and limitations of each explanation.
 
 ## Worked example: explaining educational achievement
 

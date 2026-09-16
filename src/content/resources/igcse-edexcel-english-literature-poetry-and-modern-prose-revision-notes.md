@@ -40,12 +40,13 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Section B — comparing two poems
 
-- You get a choice of two questions: one names both poems for you to compare; the other names one poem and asks you to choose a second poem from the anthology yourself to compare it with.
+- You get a choice of two questions, each comparing two anthology poems — typically one names both poems and the other names one poem and asks you to choose the second from the anthology yourself (as in the November 2023 paper).
 - AO2 (language/form/structure) **and** AO3 (comparison) — a response that analyses each poem well but never directly compares them is missing AO3 marks entirely.
 - Build short comparative notes across pairs of poems by theme — don't revise poems only in isolation.
 
 ## Section C — modern prose
 
+- A choice of two questions on each set text; answer one on your studied text.
 - AO1 (informed, textually-supported response) and AO4 (understanding of context).
 - Reward tracking how a theme or character **develops across the whole novel**, not just one memorable scene.
 - Context (social, historical, cultural) must be integrated into the argument, not bolted on as a separate paragraph.

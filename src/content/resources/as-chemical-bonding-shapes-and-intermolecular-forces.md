@@ -23,7 +23,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-chemical-bonding"
     subtopic: "as-dot-and-cross-diagrams"
-description: "Orbital overlap, VSEPR shapes and bond angles, hydrogen bonding and van der Waals' forces, for Cambridge International AS & A Level Chemistry 9701."
+description: "Covalent and coordinate bonding, expanded octets, orbital overlap, bond energy and length, VSEPR shapes and bond angles, hydrogen bonding and van der Waals' forces, and dot-and-cross diagrams including odd-electron species, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
@@ -244,6 +244,17 @@ identical.
 sulfur, showing twelve electrons around the central atom rather than the
 usual eight, with each fluorine also showing three lone pairs to complete its
 own octet.
+
+**Odd-electron species (NO).** Nitrogen monoxide has an odd total of outer
+electrons: 5 from nitrogen (dots) and 6 from oxygen (crosses), 11 in all, so
+not every electron can be paired. The N=O double bond is drawn as two shared
+pairs, each made of one dot and one cross. Oxygen's remaining four crosses
+form two lone pairs, giving oxygen a full octet. Nitrogen's remaining three
+dots are drawn as one lone pair plus **one single, unpaired dot**, so
+nitrogen is surrounded by only **seven** electrons. The unpaired electron is
+what makes a species such as NO a free radical; when drawing any species
+with an odd number of electrons, count the total first so the unpaired
+electron is placed deliberately rather than forced into a false octet.
 
 ## Common mistakes
 

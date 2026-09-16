@@ -122,8 +122,8 @@ language to gravitational, electric and magnetic fields and to motion
 within them, with induction reserved for HL. Theme E, Nuclear and
 quantum physics, closes the syllabus by applying the course's
 accumulated models to the atomic and subatomic scale, covering the
-structure of the atom, quantum physics, radioactive decay, fission and
-fusion.
+structure of the atom, radioactive decay, fission and fusion, with
+quantum physics reserved for HL.
 
 ## The experimental programme
 

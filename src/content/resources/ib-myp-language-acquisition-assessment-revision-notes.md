@@ -30,7 +30,9 @@ Like every MYP subject, Language Acquisition does not distinguish Standard and H
 | D | Writing |
 
 Each scored on an **8-point scale (1-8)**, equally weighted -- a classroom total of 32 across the four
-criteria. This is a separate scale from the eAssessment blueprint below, which allocates 24 raw marks
+criteria. This "1-8" describes the four descriptor bands; the MYP subject-group guides additionally
+recognise a **level of 0** for work that does not reach any band descriptor, so a single criterion's
+attainable range is 0-8 and the four-criterion classroom total is 0-32, not 4-32. This is a separate scale from the eAssessment blueprint below, which allocates 24 raw marks
 per criterion (96 total), not 32.
 
 ## Proficiency phases, not year groups

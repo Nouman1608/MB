@@ -79,8 +79,8 @@ Related: [Kinematics and Motion Graphs revision notes](/resources/kinematics-rev
 **(b)** The speed–time graph is a **trapezium**: split it into a rectangle of height 8.0 m/s and a triangle of height (26.0 − 8.0) = 18.0 m/s, both of base 6.0 s [1]. Area = (8.0 × 6.0) + ½ × 6.0 × 18.0 = 48 + 54 [1] = **102 m** [1].
 **(c)** A **straight line of positive gradient** [1] starting at 8.0 m/s and finishing at 26.0 m/s at t = 6.0 s [1].
 
-**4. (a)** v = u + at = 0 + 9.8 × 2.5 [1] = **24.5 m/s** [1].
-**(b)** The speed–time graph is a **triangle**, since the ball starts from rest and its speed rises uniformly to 24.5 m/s over 2.5 s [1]. Height fallen = area under the graph = ½ × base × height = ½ × 2.5 × 24.5 [1] ≈ **30.6 m** [1].
+**4. (a)** Acceleration = change in velocity ÷ time taken, so change in velocity = acceleration × time = 9.8 × 2.5 [1]; the ball starts from rest, so its velocity on impact is **24.5 m/s** [1].
+**(b)** The speed–time graph is a **triangle** (the speed rises uniformly from 0 to 24.5 m/s over 2.5 s), so height fallen = area under the graph = ½ × 2.5 × 24.5 [1] ≈ **30.6 m** [1].
 **(c)** Air resistance acts **upwards, opposing the motion** [1], so the **resultant force and therefore the acceleration are less than g** [1]; the ball would reach a **lower final velocity and would have fallen a shorter distance** in the same time [1].
 
 **5. (a)** Time to reach maximum height (v = 0): a = (v − u)/t → t = (0 − 15) ÷ (−9.8) ≈ 1.53 s [1]. The speed–time graph from launch to maximum height is a **triangle** (speed falling uniformly from 15 m/s to 0), so maximum height = area under the graph = ½ × 1.53 × 15 [1] ≈ **11.5 m** [1].

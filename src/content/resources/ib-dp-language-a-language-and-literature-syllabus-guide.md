@@ -126,7 +126,7 @@ Because all three components share the same non-literary-plus-literary
 approach, the most useful revision strategy is to build a bank of
 non-literary text types you have practised analysing (adverts, opinion
 columns, social media posts, speeches) alongside your literary works, so
-that Paper 1's unseen non-literary passage does not feel unfamiliar on
+that Paper 1's unseen non-literary passages do not feel unfamiliar on
 exam day. For Paper 2's comparative essay, remember it is set on
 **literary works only**, so keep your literary-text preparation and
 non-literary-text preparation as two genuinely separate revision tracks

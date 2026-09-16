@@ -90,7 +90,16 @@ Related: [Bonding revision notes](/resources/ionic-covalent-metallic-bonding-rev
 
 **2.** Sodium **loses one electron** from its outer shell, forming Na⁺ [1]. Chlorine **gains that electron**, forming Cl⁻ [1]. Both ions now have a **full outer shell**, and they are held together by electrostatic attraction [1].
 
-Dot-and-cross diagram: Na has one outer dot (•), which transfers across to Cl, shown as a cross (×) among Cl's own seven dots. This leaves `[Na]⁺` with an empty outer shell drawn as the full shell beneath it, and `[Cl, with 7 of its own dots plus 1 transferred cross, all in square brackets]⁻` with a complete outer shell of eight electrons (seven dots and one cross).
+Dot-and-cross diagram (outer shells only): Na's one outer electron is shown as a dot (•) and Cl's own seven outer electrons as crosses (×). The dot transfers to chlorine and stays a dot, so `[Cl]⁻` has eight outer electrons — seven crosses and one dot — and `[Na]⁺` has no outer electrons left:
+
+```
+             ××                             ××
+ Na•   +   ××Cl×      →      [Na]⁺      [ ××Cl×• ]⁻
+             ××                             ××
+
+Na: 1 outer electron (•), lost      Cl⁻: 7 crosses (its own) + 1 dot (from Na)
+[Na]⁺: no outer electrons left      = 8 outer electrons, a full outer shell
+```
 
 **3.** Mg²⁺ and O²⁻ carry **double the charge** of Na⁺ and Cl⁻ [1], so there is a **greater electrostatic force of attraction** between the oppositely charged ions [1]; this stronger attraction requires **much more energy to overcome**, giving MgO a much higher melting point [1].
 

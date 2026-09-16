@@ -33,18 +33,18 @@ Related: [Aldehydes and Ketones revision notes](/resources/as-chem-carbonyls-rev
 
 **1.** Explain why the carbonyl carbon is susceptible to nucleophilic attack. **[2]**
 
-**2.** Propanone reacts with HCN in the presence of a small amount of KCN.
+**2.** Ethanal, CH₃CHO, reacts with HCN in the presence of a small amount of KCN.
 
 **(a)** Name the mechanism. **[1]**
 **(b)** Name the product. **[1]**
 **(c)** Describe the mechanism, stating where each curly arrow starts. **[3]**
 **(d)** Explain why KCN is required and not HCN alone. **[2]**
 
-**3.** The product in question 2 is optically inactive despite containing a chiral centre.
+**3.** The product in question 2 contains a chiral centre, and the reaction gives equal amounts of its two optical isomers.
 
-**(a)** Explain what a chiral centre is. **[1]**
-**(b)** Explain why the product is optically inactive. **[3]**
-**(c)** Explain what this tells us about the shape of the carbonyl compound. **[2]**
+**(a)** Explain what is meant by a chiral centre, and identify the chiral centre in the product. **[2]**
+**(b)** Explain, in terms of the shape of the carbonyl compound, why the two optical isomers are formed in equal amounts. **[3]**
+**(c)** Propanone reacts with HCN in the same way. Explain why its product has no optical isomers. **[1]**
 
 **4.** Describe **two** chemical tests that distinguish an aldehyde from a ketone, stating the reagent and both observations in each case. **[6]**
 
@@ -67,13 +67,13 @@ Related: [Aldehydes and Ketones revision notes](/resources/as-chem-carbonyls-rev
 **1.** Oxygen is **more electronegative than carbon** [1], so the C=O bond is polar and the carbon carries a **partial positive charge (δ+)** that attracts electron-rich nucleophiles [1].
 
 **2. (a)** **Nucleophilic addition** [1].
-**(b)** **2-hydroxy-2-methylpropanenitrile** [1].
+**(b)** **2-hydroxypropanenitrile**, CH₃CH(OH)CN [1].
 **(c)** An arrow from the **lone pair on CN⁻ to the δ+ carbonyl carbon** [1]; an arrow from the **C=O π bond to the oxygen** [1]; the resulting alkoxide is then **protonated by HCN or water** [1].
 **(d)** The **nucleophile is the cyanide ion CN⁻**, not HCN [1]; KCN provides a sufficient concentration of CN⁻, since HCN is a weak acid and dissociates only slightly [1].
 
-**3. (a)** A carbon atom bonded to **four different groups** [1].
-**(b)** Equal amounts of both **enantiomers** are formed — a **racemic mixture** (the term is properly introduced at A Level; at AS, "equal amounts of both enantiomers form" is all that's required) [1] [1]; their **equal and opposite optical rotations cancel** [1].
-**(c)** The carbonyl **carbon (in propanone, the reactant) is planar (trigonal, sp²)** [1], so the nucleophile attacks it with **equal probability from either face**, giving the racemic product [1]. (The alkoxide intermediate formed after attack is tetrahedral, not planar — it is the shape of the starting carbonyl compound that this observation reveals.)
+**3. (a)** A carbon atom bonded to **four different groups** [1]; in 2-hydroxypropanenitrile it is **C2, the carbon bonded to H, CH₃, OH and CN** [1].
+**(b)** The carbonyl **carbon in ethanal, the reactant, is planar (trigonal, sp²)** [1], so CN⁻ attacks it with **equal probability from either face** [1]; attack from the two faces gives the **two different optical isomers**, so they form in equal amounts [1]. (The alkoxide intermediate formed after attack is tetrahedral, not planar — it is the shape of the starting carbonyl compound that this reveals. The name *racemic mixture* for such a product is A Level, 29.4.)
+**(c)** Its product, **2-hydroxy-2-methylpropanenitrile**, has **two identical methyl groups** on the carbon bonded to OH and CN, so that carbon is not bonded to four different groups — there is no chiral centre, and attack from either face gives the same molecule [1].
 
 **4. Tollens' reagent** (ammoniacal silver nitrate), warmed [1] — the aldehyde gives a **silver mirror** [1]; the ketone gives **no change** [1].
 **Fehling's or Benedict's solution**, warmed [1] — the aldehyde gives a **brick-red precipitate** [1]; the ketone gives **no change** [1].
@@ -95,6 +95,7 @@ Related: [Aldehydes and Ketones revision notes](/resources/as-chem-carbonyls-rev
 
 - Saying HCN is the nucleophile rather than CN⁻.
 - Stating a racemate forms without explaining the planar carbonyl reactant (the shape being revealed is the starting carbonyl compound's, not the tetrahedral alkoxide intermediate formed after attack).
+- Claiming two optical isomers from a symmetrical ketone such as propanone — its hydroxynitrile has two identical methyl groups on the new carbon and no chiral centre; only an aldehyde other than methanal or an unsymmetrical ketone gives a chiral product.
 - Giving only one observation in a distinguishing test — both are needed.
 - Claiming IR alone easily distinguishes an aldehyde from a ketone.
 - Claiming that 2,4-DNPH distinguishes an aldehyde from a ketone — it only confirms a carbonyl group is present; Tollens' or Fehling's is needed to tell them apart.

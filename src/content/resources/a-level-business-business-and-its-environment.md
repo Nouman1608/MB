@@ -147,11 +147,12 @@ answers explain why each stakeholder group holds its position before
 evaluating how a business might realistically balance the competing
 claims, rather than simply asserting that a compromise is possible
 without explaining what that compromise would involve. A useful
-underlying idea here is that stakeholder power and interest vary
-considerably between groups -- a small group with high power and high
-interest in a decision, such as a major shareholder, typically needs
-to be managed far more closely than a large but low-interest group,
-even where the low-interest group is more numerous.
+underlying idea here is the syllabus's relative importance and
+influence of stakeholders (1.5.2), which differ between groups and
+between decisions -- a small group whose aims can shape a decision,
+such as a major shareholder, may affect the outcome far more than a
+larger group with little influence, and the business still needs to
+remain accountable to the groups whose aims it does not put first.
 
 ## Business objectives across the business lifecycle
 

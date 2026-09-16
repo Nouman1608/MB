@@ -86,9 +86,10 @@ question paper and the anthology poems for Section B come in a
 booklet issued with it, so only Section C's prose text is unavailable
 in the exam room. It has three sections: Section A is a 20-mark essay
 exploring meaning and effects in an unseen poem printed in the
-question paper (AO2); Section B is a 30-mark essay comparing two
-poems from the prescribed anthology (AO2, AO3); Section C is a
-40-mark essay on the candidate's chosen modern prose text, testing
+question paper (AO2); Section B is a 30-mark essay, from a choice of
+two questions, comparing two poems from the prescribed anthology (AO2,
+AO3); Section C is a 40-mark essay, from a choice of two questions on
+each set text, on the candidate's chosen modern prose text, testing
 close textual knowledge and understanding of context (AO1, AO4).
 
 Component 1 combines with Component 2 (Modern Drama and Literary

@@ -13,7 +13,7 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "business-and-its-environment-as-cambridge-alevel-business"
-description: "Condensed recall notes on business objectives, stakeholders, external environment, growth and business strategy for Cambridge AS & A Level Business 9609."
+description: "Condensed recall notes on enterprise, business objectives, ownership, stakeholders and growth for AS Topic 1 of Cambridge AS & A Level Business 9609."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -58,9 +58,9 @@ Shareholders, employees, customers, suppliers, government, community, lenders.
 
 **Shareholder versus stakeholder approaches** often converge in the long run — treating employees and customers well tends to protect shareholder value.
 
-**Power and interest vary between groups**, which affects how closely a business must manage each: a small group with **high power and high interest** in a decision, such as a major shareholder, typically needs managing far more closely than a large but **low-interest** group, even where that group is more numerous.
+**The relative importance and influence of stakeholders (1.5.2)** differ between groups and between decisions: a small group whose aims can shape the decision, such as a major shareholder, may affect the outcome far more than a larger group with little influence. Explain how the decision affects each group, how each is likely to react, and how a business remains **accountable** to stakeholders whose aims it does not put first.
 
-*The external environment (PESTLE, exchange rates, inflation, income elasticity) is not part of this AS topic. It is examined under A Level Topic 6, Business and its environment (A Level), which builds on this topic but is not assessed at AS.*
+*The external environment (PEST analysis, exchange rates, inflation, income elasticity) is not part of this AS topic. It is examined under A Level Topic 6, Business and its environment (A Level), which builds on this topic but is not assessed at AS.*
 
 ## Growth
 
@@ -123,7 +123,7 @@ directly.
 1. What is the divorce of ownership from control, and how is it addressed?
 2. What is the difference between organic (internal) and external growth?
 3. Name two economies of scale a growing business might experience.
-4. Why does a small group with high power and high interest need closer management than a large, low-interest group?
+4. Give one way in which conflict might arise between two stakeholder groups when a business decides to close a factory.
 5. How does a new business's objectives typically differ from an established, profitable business's?
 
-**Answers:** 1. Shareholders own a plc but directors control decisions, so their objectives can diverge; share options and performance-related pay are used to align directors' interests with shareholders'. 2. Organic growth expands the business using its own resources and retains control but is slower; external growth is through merger or takeover, which is faster but carries integration risk and cost. 3. Any two, e.g. purchasing economies (bulk-buying discounts) and technical economies (large-scale production spreading the cost of specialist machinery). 4. Because that group has the power to block or force a decision and is actively interested in doing so, so it must be consulted and kept informed, unlike a group with little influence or engagement. 5. A new business typically prioritises survival and building a customer base, while an established, profitable business can prioritise growth, profit maximisation or increasing market share.
+**Answers:** 1. Shareholders own a plc but directors control decisions, so their objectives can diverge; share options and performance-related pay are used to align directors' interests with shareholders'. 2. Organic growth expands the business using its own resources and retains control but is slower; external growth is through merger or takeover, which is faster but carries integration risk and cost. 3. Any two, e.g. purchasing economies (bulk-buying discounts) and technical economies (large-scale production spreading the cost of specialist machinery). 4. For example, shareholders' aim of higher profit from lower costs conflicts with employees' aim of job security, since the closure serves one aim at the expense of the other. 5. A new business typically prioritises survival and building a customer base, while an established, profitable business can prioritise growth, profit maximisation or increasing market share.

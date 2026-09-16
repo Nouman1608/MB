@@ -32,6 +32,10 @@ same body of material on the nature of law and the English legal system. **Exam-
 revise the common core early, thoroughly, and repeatedly, because it is the only content on the
 specification that pays back three times. Candidates who treat it as a preliminary topic to be
 covered once at the start of the course systematically underinvest in a quarter of the qualification.
+Note that the specification's Appendix 2 assigns particular topics within this section to particular
+papers: some, such as the nature of law, types of judge and access to justice, appear on all three,
+while others, such as statutory interpretation (Paper 1), law reform (Paper 2) and the European Union
+(Paper 3), are listed for one paper only.
 
 ## Confirm which Paper 3 option you are taking
 
@@ -42,7 +46,7 @@ Seventy-five marks depends on one of them being known properly.
 
 ## Three papers of equal size means no compensation strategy
 
-Papers 1 and 2 are each 33% and Paper 3 is 34% -- effectively equal thirds. **Exam-preparation
+Each paper is stated as 33% of the A-level (33.33% in the specification's weighting table) -- equal thirds. **Exam-preparation
 priority**: distribute revision evenly across the three substantive areas rather than concentrating on
 whichever you find most engaging. Criminal law tends to attract the most attention and Tort the least;
 they carry identical weight.
@@ -121,7 +125,7 @@ it with authority: a named case or statutory provision, together with what that 
 of the law in general terms.
 
 *Written against the AQA A-Level Law 7162 specification-at-a-glance (official AQA specification page,
-verified 2026-08-28). Paper weightings are 33%, 33% and 34%, the third recorded so the total sums to
-100. The application routine above is an original model written for this resource, not a reproduction
+verified 2026-08-28). The specification gives each paper as 33% of the A-level, and as 33.33% in its assessment
+objective weighting table, so the three papers carry equal weight. The application routine above is an original model written for this resource, not a reproduction
 of any official past paper or mark scheme. Always check the current specification for your examination
 year at [aqa.org.uk](https://www.aqa.org.uk/subjects/law/a-level/law-7162/specification/specification-at-a-glance).*

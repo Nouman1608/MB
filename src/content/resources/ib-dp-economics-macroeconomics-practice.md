@@ -64,7 +64,7 @@ and the [study guide](/resources/ib-dp-economics-macroeconomics-measuring-and-ma
 
 ## Worked answers
 
-**1.** GDP is the total output/income of an economy; GNI additionally accounts for income earned by residents abroad. **[2]** (1 mark for each correct definition, with the distinction stated explicitly)
+**1.** GDP is the total output/income produced within an economy; GNI is GDP plus net income from abroad (income received from abroad minus income paid abroad), which can be negative, so GNI can be above or below GDP. **[2]** (1 mark for each correct definition, with the distinction stated explicitly)
 
 **2.** Expansion, peak, contraction (recession), trough. **[2]**
 

@@ -41,8 +41,9 @@ language, form and structure. Section B (30 marks) assesses AO2 and AO3
 together, and AO3 specifically means a response that analyses two poems
 well but never directly compares them is missing marks it could otherwise
 have earned; the real paper offers a choice of two questions in this
-section, one naming both poems to compare and the other naming one poem
-and leaving the second choice to the candidate. Section C (40 marks)
+section, each comparing two anthology poems (in the November 2023 paper,
+for example, one question named both poems and the other named one poem
+and left the second choice to the candidate). Section C (40 marks)
 assesses AO1, an informed and textually supported argument, and AO4,
 understanding of context, and rewards tracking how a theme or character
 develops across the whole novel rather than focusing on one memorable
@@ -87,7 +88,7 @@ structure. **[20]**
 >
 > *(An original poem written for this practice exercise — not a set text.)*
 
-## Section B (answer (a), (b), or (c) — the real anthology pairing)
+## Section B (answer (a) or (b) — original poems, for practice)
 
 **2(a).** Compare how "Letters" and "The Call" below present the experience of
 distance in a relationship. **[30]**
@@ -134,16 +135,16 @@ relationship with a second poem of your own choosing on a related theme.
 > carrying off small pieces neither of us mourned  
 > until we counted what was left.
 
-**2(c).** Using your own copy of the anthology, compare how Shakespeare's
-"Sonnet 116" and Browning's "My Last Duchess" each present a view of love.
-**[30]**
-
-> Roughly half of the real 4ET1 anthology, including this exact pairing, is
-> public domain — but it is not reprinted here, since Marlbridge does not
-> reproduce set poems even where copyright has expired; use your own copy of
-> the anthology or specification booklet. This pairing was the real Section B
-> question set in the November 2023 series, so it is worth practising on the
-> actual text rather than only on the original poems above.
+> **Taking the method to the real anthology (not part of this practice
+> paper, no marks).** In the exam, both Section B questions are set on poems
+> from Part 3 of the Pearson Edexcel International GCSE English Anthology, and
+> the poems are provided with the paper. Marlbridge does not reprint the
+> anthology poems, so once you have practised on 2(a) or 2(b), use your
+> school's copy of the anthology to choose a pair of poems from the 16 listed in
+> the [study guide](/resources/igcse-edexcel-english-literature-poetry-and-modern-prose/),
+> set yourself a comparison focus (a view of love, a sense of loss, a
+> relationship between parent and child) and repeat the same method, then move
+> on to the official past papers, which print their own anthology questions.
 
 ## Section C (practise using your own studied prose text — answer either (a) or (b))
 
@@ -170,12 +171,8 @@ point of comparison**, not poem-by-poem (e.g. "both poems use domestic
 detail, but 'Letters' does X while 'The Call' does Y"), analyse
 language/form/structure in each poem with precision, and make the
 comparison **explicit and sustained** throughout rather than only in a
-closing paragraph. For 2(c), the real pairing rewards contrasting
-Shakespeare's idealised, unconditional definition of love with the way
-Browning's Duke's language of possession and control reveals a
-disturbing, transactional view of love masquerading as devotion — the
-comparison, not just a summary of each poem's content on its own, is
-what AO3 credits. For 2(b), the strength of your chosen second poem
+closing paragraph — the comparison, not just a summary of each poem's
+content on its own, is what AO3 credits. For 2(b), the strength of your chosen second poem
 matters: pick one with a genuine point of connection to "Riverbank" rather
 than a loosely related text. As with question 1, this is marked
 holistically against level descriptors, not a fixed split of marks.
@@ -277,5 +274,5 @@ at the end to check all three responses.
 - Context in Section C treated as a bolt-on paragraph rather than woven into the analysis.
 - Uneven time management — remember the marks are not equal across sections (20/30/40).
 - Writing about only one poem in Section B when direct comparison is explicitly credited by AO3.
-- Practising only on invented poems and never on the real anthology pairing (question 2(c)), since the actual exam draws on set texts, not original material.
+- Practising only on invented poems and never on pairings from the real anthology (see the note after question 2(b)), since the actual exam's Section B draws on the anthology poems, not original material.
 - Forgetting that the set texts (poetry anthology and prose novel) are fixed by the specification and only change when Pearson issues a revised specification, not on a series-by-series rotation — see the study guide and revision notes for the current lists, and always confirm you're revising the texts for your own specification issue.

@@ -28,22 +28,22 @@ Advanced Level (IAL) adds Units 3-4.
 ## Where this fits in YET01
 
 Unit 1 gives candidates their first taste of contemporary literature,
-studying poetry and prose published since 2000, before Unit 2 shifts
-to drama. This ordering means candidates build analytical skills on
-recent, accessible texts before Unit 4 introduces Shakespeare and
-pre-1900 poetry at the full A-Level stage -- Unit 3, which comes
-before it, stays with post-1900 material, applying Unit 1's poetry
-skills to a compulsory unseen post-1900 poem and a prescribed prose
-theme.
+studying poetry and prose published since 2000. Unit 2 is drama: one
+pre-1900 play (the choices include two Shakespeare plays) and one
+post-1900 play. At the full A-Level stage, Unit 3 applies Unit 1's
+poetry skills to a compulsory unseen post-1900 poem and adds two prose
+fiction texts from a chosen theme (the theme lists mix pre-1900 and
+post-1900 novels), and Unit 4 sets a Shakespeare play and pre-1900
+poetry. Unit 4 is the only unit that assesses pre-1900 poetry.
 
 ## Syllabus coverage
 
 **PEARSON EDEXCEL INTERNATIONAL ADVANCED LEVEL ENGLISH LITERATURE
 (YET01) — UNIT 1 POST-2000 POETRY AND PROSE**
 
-Unit 1 assesses the prescribed *Poems of the Decade: An Anthology of
-the Forward Books of Poetry 2002-2011* (ISBN 978-0571325405, page
-references given in the specification) for Section A, and a post-2000
+Unit 1 assesses a prescribed selection of 21 poems from *Poems of the
+Decade: An Anthology of the Forward Books of Poetry 2002-2011* (ISBN
+978-0571325405) for Section A, and a post-2000
 prose fiction text chosen from a list of five for Section B: *Brooklyn*
 (Colm Toibin), *The Kite Runner* (Khaled Hosseini), *Life of Pi* (Yann
 Martel), *Purple Hibiscus* (Chimamanda Ngozi Adichie) and *The White
@@ -53,13 +53,42 @@ study both texts and respond to questions testing close reading,
 interpretation and understanding of how contemporary writers shape
 meaning.
 
+The 21 prescribed poems, as listed in Appendix 5 of the specification
+(page numbers refer to the anthology):
+
+| Poem | Poet | Page |
+|---|---|---|
+| *Eat Me* | Patience Agbabi | 3 |
+| *Chainsaw Versus the Pampas Grass* | Simon Armitage | 6 |
+| *Material* | Ros Barber | 10 |
+| *History* | John Burnside | 25 |
+| *An Easy Passage* | Julia Copus | 37 |
+| *The Deliverer* | Tishani Doshi | 43 |
+| *The Map Woman* | Carol Ann Duffy | 47 |
+| *The Lammas Hireling* | Ian Duhig | 51 |
+| *To My Nine-Year-Old Self* | Helen Dunmore | 52 |
+| *A Minor Role* | U A Fanthorpe | 57 |
+| *The Gun* | Vicki Feaver | 62 |
+| *The Furthest Distances I’ve Travelled* | Leontia Flynn | 64 |
+| *Giuseppe* | Roderick Ford | 66 |
+| *Out of the Bag* | Seamus Heaney | 81 |
+| *Effects* | Alan Jenkins | 92 |
+| *Genetics* | Sinéad Morrissey | 125 |
+| *From the Journal of a Disappointed Man* | Andrew Motion | 127 |
+| *Look We Have Coming to Dover* | Daljit Nagra | 129 |
+| *Please Hold* | Ciaran O’Driscoll | 132 |
+| *On Her Blindness* | Adam Thorpe | 170 |
+| *Ode on a Grayson Perry Urn* | Tim Turnbull | 172 |
+
 ## How to approach it
 
 Because both set texts postdate 2000, contextual analysis here tends
 to focus on contemporary social and cultural concerns rather than
 historical background -- keep this focus in mind rather than defaulting
-to the kind of historical context work suited to Units 3-4's pre-1900
-material. Building precise, well-selected quotations for both the
+to the kind of historical context work suited to the older texts
+elsewhere in the qualification (Unit 2's pre-1900 drama, the pre-1900
+novels in some Unit 3 prose themes, and Unit 4's Shakespeare and
+pre-1900 poetry). Building precise, well-selected quotations for both the
 poetry and prose texts pays off directly in exam responses, since IAL
 literature papers reward close textual engagement over general
 plot summary. The anthology and prose list above are revised by
@@ -74,8 +103,8 @@ Unit 1 (WET01/01) is a 2-hour, open-book written exam worth 50 marks
 International Advanced Level (YET01). It splits into two 25-mark
 sections: Section A requires one comparative essay, from a choice of
 two questions, linking a named poem from the prescribed *Poems of the
-Decade* anthology with a second poem of the candidate's own choosing
-from the same anthology, marked against AO1, AO2 and
+Decade* selection with a second poem of the candidate's own choosing
+from the same prescribed list, marked against AO1, AO2 and
 AO4; Section B requires one essay, from a choice of two, on the
 candidate's chosen post-2000 prose fiction text, marked against AO1,
 AO2 and AO3.
@@ -90,8 +119,8 @@ force for current examination series.
 ## Section A in more depth
 
 Section A's comparative poetry essay pairs one poem named by the exam
-board with a second poem the candidate chooses from the *Poems of the
-Decade* anthology, and is marked against AO1 (a coherent, accurate
+board with a second poem the candidate chooses from the prescribed
+list of 21 *Poems of the Decade* poems above, and is marked against AO1 (a coherent, accurate
 argument), AO2 (analysing the ways in which meanings are shaped in the
 poems -- through form, structure and language among other methods, not
 a fixed three-item checklist) and AO4 (making connections across texts)
@@ -134,16 +163,17 @@ that Unit 1 carries double its full-IAL weighting in that context: 50%
 of the AS rather than 25% of the full A-Level. This makes Unit 1, and
 its companion Unit 2 on drama, disproportionately important for
 AS-only candidates compared with those planning to sit the full
-qualification, since Units 3 and 4 -- of which Unit 4 introduces
-Shakespeare and pre-1900 poetry, while Unit 3 stays with post-1900
-unseen poetry and prescribed prose -- do not factor into an AS-only
-result at all.
+qualification, since Units 3 and 4 -- Unit 3's unseen post-1900
+poetry and thematic prose, and Unit 4's Shakespeare and pre-1900
+poetry -- do not factor into an AS-only result at all.
 
 ## Why post-2000 texts often come first
 
-Studying post-2000 poetry and prose before Unit 4 introduces
-Shakespeare and pre-1900 poetry is a common and sensible teaching
-order rather than a sequence the qualification itself mandates: the
+Studying post-2000 poetry and prose before the older texts elsewhere
+in the course (Unit 2's pre-1900 drama, the pre-1900 novels in some
+Unit 3 themes, and Unit 4's Shakespeare and pre-1900 poetry) is a
+common and sensible teaching order rather than a sequence the
+qualification itself mandates: the
 specification allows centres to teach the four units as distinct
 modules at appropriate stages or as a linear course assessed at the
 end, with no prescribed order, and any unit may be resat regardless of
@@ -153,8 +183,8 @@ linguistically accessible than the older material studied later, so
 building core analytical skills -- close reading, structuring an
 argument, comparing texts -- on more approachable contemporary
 material first can give candidates a stronger foundation before they
-tackle the additional linguistic demands of Shakespearean and
-pre-1900 language in Unit 4.
+tackle the additional linguistic demands of Shakespearean and other
+pre-1900 language later in the course.
 
 ## Official specification
 

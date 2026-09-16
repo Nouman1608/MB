@@ -119,8 +119,8 @@ components as one connected model of matter and its changes, not six
 separate topics to revise in isolation. HL students should track the
 extra hours and named HL-only content carried by all six components
 (Structure 1: 17 to 21 hours; Structure 2: 20 to 30 hours; Structure
-3: 16 to 31 hours; Reactivity 1: 12 to 22 hours, including entropy and
-spontaneity; Reactivity 2: 21 to 31 hours; Reactivity 3: 24 to 45
+3: 16 to 31 hours; Reactivity 1: 12 to 22 hours, split between energy cycles and entropy
+and spontaneity; Reactivity 2: 21 to 31 hours; Reactivity 3: 24 to 45
 hours) since these are where SL-level revision habits most often
 under-prepare HL candidates.
 

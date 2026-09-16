@@ -145,4 +145,4 @@ keeps this genre focus visible throughout rather than only in an introduction.
 
 OxfordAQA International AS & A-Level English Literature specification
 PDF, Version 5.3 —
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2024/02/oxfordaqa-a-level-english-literature-specification.pdf).
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-a-level-english-literature-specification.pdf).

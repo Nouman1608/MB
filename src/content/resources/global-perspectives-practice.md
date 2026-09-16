@@ -29,11 +29,16 @@ featured: false
 > shorter questions below, which are organised by skill for focused practice
 > rather than as a full-paper simulation.
 >
-> **Every question below is source-based**, matching the real paper's
-> format: 0457's syllabus states twice that candidates are not assessed on
-> prior knowledge of the topic or issue presented, and that content
-> knowledge is not assessed in this syllabus at all. Answer only from the
-> source material given, not from what you already know about the topic.
+> **Questions 3, 4 and 5 are source-based**, matching the real paper,
+> where every question is based on the source insert: 0457's syllabus
+> states that candidates are not assessed on prior knowledge of the topic
+> or issue presented, and that knowledge of content is not assessed in
+> this syllabus at all. Answer those questions only from the source
+> material given, not from what you already know about the topic.
+> **Questions 1, 2 and 6 are short skills checks** on concepts and
+> techniques the paper uses (fact and opinion, the three perspectives,
+> writing a conclusion); they use no source, whereas the real paper always
+> asks you to apply these skills to its sources.
 
 Related: [Global Perspectives revision notes](/resources/global-perspectives-revision-notes/)
 
@@ -94,11 +99,11 @@ Using Source C, explain the difference between a **personal**, a **local and/or 
 
 **4. (a)** Any two drawn from Source B, 2 marks each: the source shows **imported packaging driving the waste stream** ("most of it packaging from imported consumer goods") [1] [1]. It also implies **under-funded local waste collection**, since the council "cannot afford further clean-ups" [1] [1].
 **(b) Environmental** — the source shows **large volumes of waste reaching the beach and sea** ("over two tonnes... collected... last month alone"), which is consistent with harm to marine life and habitats even though the source itself does not detail this [1] [1]. **Economic** — the **cost falls on the local council**, which says it "cannot afford further clean-ups" without national support, showing a direct financial burden on local public funds [1] [1].
-**(c)** A course of action such as **national government funding for local council clean-up and collection costs**, addressing the dispute in the source over who should pay [1]. **Effective because** it responds directly to the funding gap the source identifies, and central government has greater capacity to fund infrastructure than a single local council [1] [1]. **Limited because** the source suggests **central government instead expects manufacturers to bear the cost**, so this course of action may not be adopted without a change in national policy [1], and funding collection alone does not address the **import of plastic packaging** identified as a cause in (a) [1].
+**(c)** A course of action such as **national government funding for local council clean-up and collection costs**, addressing the dispute in the source over who should pay [1]. **Effective because** it responds directly to the funding gap the source identifies, and central government has greater capacity to fund infrastructure than a single local council [1] [1]. **Limited because** the source suggests **central government instead expects manufacturers to bear the cost**, so this course of action may not be adopted without a change in national policy [1], and funding collection alone does not address the **import of plastic packaging** identified as a cause in (a) [1]. **Overall judgement** — a reasoned conclusion on how effective the action is likely to be, e.g. that it would ease the immediate funding problem but work fully only if combined with action on packaging at its source [1].
 
 **5.** **Personal** — the upstream farmer's own words show the personal, lived stake in the issue: water "lets my family grow enough food to eat and sell -- without it we'd have nothing" [1] [1]. **Local and/or national** — the downstream city resident's account, and their call for "our national government" to negotiate a fairer share, shows this level operating through everyday local experience (dry taps) and national political action together [1] [1]. **Global** — the international water agency's observation that "basin-wide agreements between the two countries have never been ratified" shows the issue operating beyond either country alone, requiring cross-border cooperation [1] [1].
 
-**6.** Any three, 2 marks each: it gives a **clear personal judgement that directly answers the question**, rather than restating both sides neutrally [1] [1]. It is **supported by the evidence and reasoning already presented**, and introduces no new material [1] [1]. It **acknowledges the strongest opposing argument and explains why it is outweighed**, which demonstrates that the judgement is informed rather than assumed [1] [1]. It **explicitly weighs the sources' evidence against each other** rather than simply repeating it, which is what the Written Exam's evaluation and reasoning objective (AO1) actually rewards in a conclusion [1] [1].
+**6.** Any three, 2 marks each: it gives a **clear personal judgement that directly answers the question**, rather than restating both sides neutrally [1] [1]. It is **supported by the evidence and reasoning already presented**, and introduces no new material [1] [1]. It **acknowledges the strongest opposing argument and explains why it is outweighed**, which demonstrates that the judgement is informed rather than assumed [1] [1]. It **explicitly weighs the sources' evidence against each other** rather than simply repeating it, which is what the Written Exam's research, analysis and evaluation objective (AO1) actually rewards in a conclusion [1] [1].
 
 ---
 

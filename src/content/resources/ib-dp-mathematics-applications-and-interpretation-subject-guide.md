@@ -46,17 +46,23 @@ enable students to:
 - communicate mathematics clearly, concisely and confidently in a
   variety of contexts
 - develop logical and creative thinking, and patience and persistence
-  in problem solving
-- employ and refine powers of abstraction and generalization
-- apply and transfer skills to alternative situations, other areas of
-  knowledge, and future developments in local and global communities
+  in problem solving to instil confidence in using mathematics
+- employ and refine their powers of abstraction and generalization
+- take action to apply and transfer skills to alternative situations,
+  to other areas of knowledge and to future developments in their
+  local and global communities
 - appreciate how developments in technology and mathematics influence
   each other
 - appreciate the moral, social and ethical questions arising from the
   work of mathematicians and the applications of mathematics
 - appreciate the universality of mathematics and its multicultural,
   international and historical perspectives
-- reflect critically upon their own work and the work of others.
+- appreciate the contribution of mathematics to other disciplines, and
+  as a particular "area of knowledge" in the TOK course
+- develop the ability to reflect critically upon their own work and
+  the work of others
+- independently and collaboratively extend their understanding of
+  mathematics.
 
 ## How it's assessed
 

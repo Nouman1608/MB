@@ -60,15 +60,16 @@ demand from Paper 1 and Paper 2's shorter, more contained questions. This 1 hour
 applies to the current course, through its final examination session in November 2028; the successor
 course, first assessed in 2029, shortens Paper 3 to 1 hour.
 
-## The mathematical exploration: choose a genuinely real-world question, and start early
+## The mathematical exploration: scope the question tightly, and start early
 
 The exploration is worth 20% at both SL and HL and is completed without exam-day time pressure,
 making it one of the most controllable components of the final grade if work begins early. A first
 draft written and checked against the criteria well before the deadline, then revised at least once,
 consistently outperforms one rushed in the final weeks. A common weakness is choosing a topic so
-broad that the mathematics used ends up superficial -- a tightly scoped, genuinely real-world
-question explored with real data generally scores more highly than an ambitious but under-developed
-one.
+broad that the mathematics used ends up superficial -- a tightly scoped question, developed in
+depth, generally scores more highly than an ambitious but under-developed one. The exploration is an
+investigation into an area of mathematics chosen by the student; in this applied course a question
+built on real data is often a natural choice, but it is not a requirement.
 
 ## Worked practice scenario: calculating and then interpreting a result
 

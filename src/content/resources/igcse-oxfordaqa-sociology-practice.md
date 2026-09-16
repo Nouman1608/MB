@@ -25,8 +25,10 @@ featured: false
 >
 > Paper 1 is examined in three sections: **Section A Families** (22 of the
 > paper's 60 marks), **Section B Education** (22 marks) and **Section C
-> Research methods** (16 marks, short questions plus structured data-based
-> questions). This paper follows that shape.
+> Research methods** (16 marks: short questions and a structured question
+> based on data about an issue of global sociological significance). This
+> paper follows that shape: Section C has two short questions and one
+> structured question on a data item.
 
 Related: [Introducing Sociology revision notes](/resources/igcse-oxfordaqa-sociology-revision-notes/)
 
@@ -62,15 +64,39 @@ educational achievement between pupils. **[6]**
 ---
 ## Section C: Research methods (16 marks)
 
-**9.** A sociologist wishes to study bullying in a secondary school.
+**9.** Define what is meant by **secondary data**. **[2]**
 
-**(a)** Suggest a suitable method for this study and justify your choice. **[6]**
+**10.** A sociologist wishes to study bullying in a secondary school.
+Identify and briefly explain **two** ethical issues the sociologist should
+consider. **[4]**
 
-**(b)** Explain **two** ethical issues that arise in this study and how
-each should be handled. **[6]**
+**11.** Study **Item A** and answer the questions that follow.
 
-**(c)** Explain **one** problem of researching a sensitive topic with
-young people. **[4]**
+> **Item A** — Percentage of young people aged 15–24 who used the internet
+> in the previous three months, by sex, in five countries
+>
+> *Hypothetical data, invented for this practice question. The countries
+> are identified only by letter.*
+>
+> | Country | Females (%) | Males (%) |
+> |---|---|---|
+> | P | 92 | 94 |
+> | Q | 61 | 74 |
+> | R | 85 | 83 |
+> | S | 38 | 55 |
+> | T | 77 | 79 |
+
+**(a)** Using Item A, identify the country with the lowest percentage for
+females and the country with the highest percentage for males. **[2]**
+
+**(b)** Using Item A, identify the country with the largest difference
+between males and females, and state the size of that difference. **[2]**
+
+**(c)** Identify **one** pattern shown by the data in Item A. **[2]**
+
+**(d)** Identify and explain **one** limitation of the data in Item A. **[2]**
+
+**(e)** Identify and explain **one** strength of the data in Item A. **[2]**
 
 ---
 
@@ -174,41 +200,64 @@ just named.
 ---
 ## Answers: Section C
 
-**A9 (a)** [6 marks — up to 2 for the method, up to 2 marks per justification, best two justifications credited]
+**A9** [2 marks]
 
-A suitable method would be an **anonymous self-completion questionnaire
-distributed to all pupils**, possibly followed by a small number of
-unstructured follow-up interviews [1] [1]. Justification — two from: the
-questionnaire is **anonymous, so pupils are more likely to admit to
-being bullied or bullying than in a face-to-face interview** [1] [1]; it
-reaches a **large sample quickly, giving representative quantitative
-data** on how widespread bullying is [1] [1]; follow-up interviews then
-provide the **depth and validity** needed to understand pupils'
-experiences in their own words [1] [1]. Credit any two justifications
-that are explained rather than just named.
+Secondary data is data that **already exists, having been collected or
+produced by someone else** — such as a government, an organisation or
+another researcher — **for a different purpose** [1], which the
+sociologist then uses, e.g. official statistics, documents or earlier
+research findings [1].
 
-**A9 (b)** [6 marks — up to 3 marks per issue]
+**A10** [4 marks — 2 marks per issue: 1 for identifying it, 1 for the explanation]
 
-Two from: **informed consent** — since the participants are children,
-**consent must be obtained from parents or guardians as well as from the
-pupils themselves**, and pupils must be told clearly that they may
-refuse or withdraw at any point [1] [1] [1]; **protection from harm** —
-questions may cause **distress by prompting pupils to recall upsetting
-experiences**, so questions should be carefully worded, pupils should be
-able to skip items, and **support from a counsellor or pastoral staff
-should be available afterwards** [1] [1] [1]. (Also accept
-confidentiality, with the caveat that disclosure of serious harm to a
-pupil must still be reported, which should be explained to participants
-in advance.)
+Two from: **informed consent** [1] — because the participants are
+children, consent should be obtained from parents or guardians as well
+as from the pupils, who must be told they may refuse or withdraw at any
+point [1]; **protection from harm** [1] — questions about bullying may
+cause distress by making pupils recall upsetting experiences, so
+questions should be worded carefully and support from pastoral staff
+should be available [1]; **confidentiality and anonymity** [1] — pupils
+must not be identifiable, or they could face reprisals, although a
+disclosure of serious harm may still have to be reported, which should
+be explained in advance [1].
 
-**A9 (c)** [4 marks]
+**A11 (a)** [2 marks]
 
-Young people may **under-report or exaggerate** their experiences
-because of embarrassment, fear of reprisal from the person bullying
-them, or a desire to give the answer they think the adult researcher
-wants to hear [1] [1], which threatens the **validity** of the data —
-the results may not give a true picture of how much bullying is actually
-happening [1] [1].
+Lowest percentage for females: **Country S (38%)** [1]. Highest
+percentage for males: **Country P (94%)** [1].
+
+**A11 (b)** [2 marks]
+
+**Country S** [1]; the difference is **17 percentage points** (55 − 38)
+[1].
+
+**A11 (c)** [2 marks — 1 for the pattern, 1 for supporting figures from Item A]
+
+e.g. In **four of the five countries the percentage for males is higher
+than for females** [1] — Country R is the only exception, at 85% for
+females and 83% for males [1]. Or: the countries with the **lowest
+overall internet use have the largest gaps between males and females**
+[1] — S (17 points) and Q (13 points), compared with 2 points in P, R
+and T [1].
+
+**A11 (d)** [2 marks — 1 for the limitation, 1 for the explanation]
+
+e.g. The data **does not say how internet use was measured** [1] — using
+it once in three months counts the same as using it every day, so the
+figures may hide large differences in how much young people actually
+use it [1]. Or: the data **shows patterns but not their causes** [1], so
+it cannot explain why fewer females than males use the internet in
+some countries [1]. Or: it gives **no information about who was sampled or
+how** [1], so we cannot judge whether the percentages are representative
+of all young people in each country [1].
+
+**A11 (e)** [2 marks — 1 for the strength, 1 for the explanation]
+
+e.g. The data is **quantitative and uses the same measure for every
+country** [1], so patterns and differences can be compared quickly and
+directly across countries and between the sexes [1]. Or: it covers
+**several countries** [1], so it can reveal global inequalities that a
+study of one society would miss [1].
 
 ---
 
@@ -218,7 +267,8 @@ happening [1] [1].
 - Naming a family type or a factor in achievement without explaining it.
 - Describing a perspective on families or education without a
   clearly-stated point of difference from the other perspective.
-- Choosing a research method without justifying it for this specific
-  topic and this specific age group.
+- Reading a data item carelessly — giving the wrong country, or a gap
+  without stating its size — and describing a pattern without quoting
+  figures from the item to support it.
 - Forgetting that research with children requires parental consent as
   well as the child's own agreement.

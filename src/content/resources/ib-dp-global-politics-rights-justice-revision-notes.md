@@ -109,8 +109,9 @@ boundaries.
   studies are equally compulsory and examinable.
 - Using only dated, textbook case studies instead of current, real-world examples the guide
   explicitly expects.
-- At HL, forgetting that the global political challenges extension expects genuine synthesis across
-  all three thematic studies, not treatment of Rights and justice as fully separate from the others.
+- At HL, treating the global political challenges extension as a synthesis of the three thematic
+  studies or as a pair of school-chosen case studies -- it is independent research on cases the
+  student selects, connected to eight topic areas (borders, environment, equality, health, identity, poverty, security and technology).
 
 ## A note on assessment structure
 
@@ -129,8 +130,8 @@ well.
 2. Why is Rights and justice just as important to revise as Peace and conflict?
 3. What tension does "sovereignty" create for rights issues specifically?
 4. What kind of case studies does the guide explicitly favour?
-5. What does HL's global political challenges extension require in relation to the three thematic
-   studies?
+5. What does HL's global political challenges extension require, and which topic areas must its
+   cases connect to?
 
 **Answers:** 1. Power, sovereignty, legitimacy and interdependence. 2. Because all three thematic
 studies (Rights and justice, Development and sustainability, Peace and conflict) are compulsory for
@@ -138,5 +139,5 @@ every student and can appear in Paper 2's extended-response questions. 3. The te
 state's claimed authority to handle rights issues within its own borders and universal or
 international human rights claims that may conflict with that authority. 4. Contemporary, real-world
 examples, ideally current ones followed as the course progresses rather than only dated textbook
-cases. 5. Genuine synthesis of material across Rights and justice, Development and sustainability and
-Peace and conflict, rather than treating them as separate, unconnected topics.
+cases. 5. Independent research on cases the student selects (at least two case studies across at least two
+topic areas), connected to the eight HL topic areas: borders, environment, equality, health, identity, poverty, security and technology.

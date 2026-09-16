@@ -104,6 +104,8 @@ Match each speaker (1–6) to the correct view (A–F).
 ## Answers
 
 **Exercise 1: (a)** لاہور [1]. **(b)** دس بجے [1]. **(c)** پلیٹ فارم دو [1]. **(d)** خراب موسم [1].
+**(e)** چائے اور پانی کا انتظام، پلیٹ فارم ایک پر (دونوں باتیں ضروری) [1]. **(f)** ٹکٹ والے مسافروں کو [1].
+**(g)** انکوائری کاؤنٹر سے [1]. **(h)** توجہ دینے کو کہا گیا ("مسافروں کی توجہ کے لیے") [1]. (کل: 8)
 
 **Exercise 2: (a)** صبح آٹھ بجے / شام پانچ بجے [1] [1]. **(b)** دس ہزار [1]. **(c)** کہانیاں، تاریخ، سائنس
 [1] [1] [1]. **(d)** دو کتابیں / دو ہفتے [1] [1].
@@ -131,7 +133,7 @@ Cambridge does not release Paper 2 listening audio publicly, so the closest simu
 outside a registered centre is reading practice: have a parent, tutor or classmate read each script
 aloud at a natural, unhurried pace — twice, exactly as the real exam presents each exercise — while
 you answer without looking at the Urdu text. This trains the two skills Paper 2 actually tests:
-catching specific factual detail on a single hearing (Exercises 1–2) and following an unscripted-style
+catching specific factual detail across two hearings (Exercises 1–2) and following an unscripted-style
 discussion for tone, viewpoint and inference (Exercises 3–4), rather than reading comprehension, which
 Paper 1 already covers.
 

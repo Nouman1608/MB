@@ -50,24 +50,29 @@ Propan-1-ol has three carbons, each in a genuinely different environment (termin
 
 **1. Chemical shift (δ)** — identifies the environment:
 
-This table matches the one supplied in the examination Data section, so
-it need not be memorised — only read correctly:
+The table below gives the thirteen rows of the *Typical proton (¹H) NMR
+chemical shift values (δ) relative to TMS = 0* table printed in the Data
+section of the 9701 syllabus (2025–2027), which is provided in the
+examination — so it need not be memorised, only read correctly:
 
-| Environment | δ (ppm) |
-|---|---|
-| Alkane C–H (R–CH₃, R–CH₂–R) | 0.9–1.7 |
-| Alkyl adjacent to C=O (R–CO–CH₃) | 2.2–3.0 |
-| Alkyl adjacent to an aromatic ring (Ar–CH₃) | 2.3–2.7 |
-| Alkyl adjacent to a halogen (R–CH₂–Cl / Br) | 3.2–4.0 (varies with the halogen) |
-| Alkyl adjacent to O–H or O–R (R–CH₂–OH, R–O–CH₃) | 3.3–4.3 |
-| Alcohol O–H | 1.0–5.5 (variable) |
-| Phenol O–H | 4.0–12.0 (variable) |
-| Amine N–H | 1.0–5.0 (variable) |
-| Amide N–H | 5.0–8.0 (variable) |
-| Alkene =C–H | 4.5–6.0 |
-| Aromatic ring C–H | 6.0–9.0 |
-| Aldehyde –CHO | 9.0–10.0 |
-| Carboxylic acid –COOH | 10.0–13.0 |
+| Environment of proton | Example | δ / ppm |
+|---|---|---|
+| alkane | –CH₃, –CH₂–, >CH– | 0.9–1.7 |
+| alkyl next to C=O | CH₃–C=O, –CH₂–C=O, >CH–C=O | 2.2–3.0 |
+| alkyl next to aromatic ring | CH₃–Ar, –CH₂–Ar, >CH–Ar | 2.3–3.0 |
+| alkyl next to electronegative atom | CH₃–O, –CH₂–O, –CH₂–Cl | 3.2–4.0 |
+| attached to alkene | =CHR | 4.5–6.0 |
+| attached to aromatic ring | H–Ar | 6.0–9.0 |
+| aldehyde | HCOR | 9.3–10.5 |
+| alcohol | ROH | 0.5–6.0 |
+| phenol | Ar–OH | 4.5–7.0 |
+| carboxylic acid | RCOOH | 9.0–13.0 |
+| alkyl amine | R–NH– | 1.0–5.0 |
+| aryl amine | Ar–NH₂ | 3.0–6.0 |
+| amide | RCONHR | 5.0–12.0 |
+
+*Note (as printed): δ values for O–H and N–H protons can vary depending on
+solvent and concentration. Ar is used to represent an aromatic ring.*
 
 O–H and N–H shifts are **highly variable**, depending on concentration,
 solvent and hydrogen bonding — this is exactly why they are excluded from
@@ -102,7 +107,7 @@ These appear as **broad singlets** at variable shift, and they do **not** split 
 
 **Including an OH or NH proton in a neighbouring group's splitting count.** Because these protons usually exchange rapidly, they don't show the expected coupling to neighbouring C–H protons, and are excluded when applying the n+1 rule to an adjacent CH₂ or CH₃.
 
-**Assuming the D₂O shake permanently changes the molecule.** It only removes that peak from *this particular spectrum*, by temporarily swapping an exchangeable proton for deuterium — a diagnostic trick, not a permanent chemical change to the compound itself.
+**Assuming the D₂O shake changes the carbon skeleton.** The exchange R–OH + D₂O ⇌ R–OD + HOD is a real, reversible reaction, but it swaps only the labile O–H/N–H hydrogen for deuterium; every C–H bond and the carbon connectivity are unchanged, which is why only the O–H/N–H peak disappears.
 
 ## Solvents
 

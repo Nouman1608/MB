@@ -32,11 +32,12 @@ featured: false
 
 Related: [What is Business revision notes](/resources/a-business-what-is-business-revision-notes/)
 
-**Scope note:** these questions primarily follow 9625. Questions 4 and
-6 draw on content the 9625 specification places in **second-year (A2)**
-topics (the shareholder/stakeholder debate, economies of scale,
-overtrading and gearing all sit in section 3.3, not first-year Topic
-1), and question 8 draws on **price elasticity of demand**, which is
+**Scope note:** these questions primarily follow 9625. Questions 1, 4
+and 6 draw on content the 9625 specification places in **second-year
+(A2)** topics (mission statements and the link from mission to
+objectives sit in 3.3.1 Mission, objectives and strategy; the
+shareholder/stakeholder debate, economies of scale, overtrading and
+gearing also sit in section 3.3, not first-year Topic 1), and question 8 draws on **price elasticity of demand**, which is
 Topic 2 Marketing content, not Topic 1. They are kept here as useful
 application practice but should not be treated as first-year Topic 1
 exam scope. "SMART" (question 2) and "income elasticity of demand"

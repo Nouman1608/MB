@@ -43,7 +43,10 @@ Marking is **points-based**: the passage is divided into 20 chunks, one mark eac
 
 ## Sections B/C: works studied
 
-Prescribed list (Pearson Edexcel): three literary texts — including an essay collection by "Patras" (Ahmad Shah Bukhari), a novel, and a play — and three films.
+Prescribed list (Pearson Edexcel, specification Appendix 1) — study **two** works: two literary texts, or one literary text and one film (never two films).
+
+- **Literary texts:** *Aangan* (آنگن), Khadija Mastur, 1999 (novel); five prescribed essays — not the whole book — from *Patras Ke Mazameen* (پطرس کے مضامین), Ahmad Shah Patras Bukhari, 2011: "Savere Jo Kal Aankh Meri Khuli", "Urdu Ki Aakhri Kitab", "Murid Pur Ka Peer", "Marhoom Ki Yaad Mein" and "Lahore Ka Jughrafia"; *Bisaat* (بساط), Baseer Kazmi, 1987 (play).
+- **Films** (given in the specification as a name and a year only, with no role label): *Bin Roye* (بن روئے), Momina Duraid, 2015; *Baaghban* (باغبان), Ravi Chopra, 2003; *Bajrangi Bhaijaan* (بجرنگی بھائی جان), Kabir Khan, 2015.
 
 Marked against three levels-based criteria:
 

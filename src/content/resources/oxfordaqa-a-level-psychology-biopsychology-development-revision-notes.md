@@ -131,10 +131,10 @@ perform it.
 1. Which two systems compose the peripheral nervous system?
 2. What does Baillargeon's research challenge in Piaget's account?
 3. Give one strength and one limitation of a correlational study.
-4. What is the central executive... no — what is scaffolding, in Vygotsky's theory?
-5. Name the three self-report/observation categories examined in Research Methods 1.
+4. What is scaffolding, in Vygotsky's theory?
+5. Name the four categories of research method listed under Methods in Research Methods 1.
 
-**Answers:** 1. The somatic and autonomic nervous systems. 2. The timing of when object permanence develops in infants, via violation-of-expectation methodology. 3. Strength: can efficiently and ethically identify relationships without manipulating variables; limitation: cannot establish causation and can be affected by unmeasured third variables. 4. Support given by a more knowledgeable other, adjusted and withdrawn as the learner's competence grows, within their zone of proximal development. 5. Observation techniques, self-report techniques, and experimental/correlational methods.
+**Answers:** 1. The somatic and autonomic nervous systems. 2. The timing of when object permanence develops in infants, via violation-of-expectation methodology. 3. Strength: can efficiently and ethically identify relationships without manipulating variables; limitation: cannot establish causation and can be affected by unmeasured third variables. 4. Support given by a more knowledgeable other, adjusted and withdrawn as the learner's competence grows, within their zone of proximal development. 5. The experimental method (laboratory, field and natural experiments), observation techniques, self-report techniques (questionnaires, interviews), and correlations.
 
 ## Related resources
 

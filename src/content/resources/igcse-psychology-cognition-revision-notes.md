@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-cognition-and-behaviour-9218"
-description: "Condensed recall notes on memory, perception, development, research methods and ethics for International GCSE Psychology."
+description: "Condensed recall notes on memory, perception, biopsychology, research methods and ethics for International GCSE Psychology."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false

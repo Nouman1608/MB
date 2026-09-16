@@ -12,7 +12,7 @@ order: 2
 syllabusTopics:
   - qualification: "gcse"
     topic: "the-role-of-markets-and-money-ocr-gcse-economics"
-description: "Condensed recall notes on demand, supply, price determination, competition, production and the labour market, for OCR GCSE (9-1) Economics (J205), Topic 2."
+description: "Condensed recall notes on markets, demand, supply, price determination, competition, production, the labour market and the role of money, for OCR GCSE (9-1) Economics (J205), Topic 2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
@@ -31,6 +31,8 @@ Condensed for the final weeks. For the full explanation, use the
 ## Markets and sectors (2.1)
 
 **Primary** sector extracts raw materials; **secondary** manufactures; **tertiary** provides services. A **product market** trades goods/services; a **factor market** trades land, labour, capital or enterprise.
+
+**Specialisation and exchange**: benefits — higher output and productivity, wider choice through trade; costs — repetitive work, narrow skills if demand falls, a region dependent on one industry is exposed when it declines.
 
 ## Demand, supply and equilibrium (2.2–2.4)
 
@@ -53,6 +55,12 @@ average cost = total cost / output     average revenue = total revenue / output
 
 **Economies of scale** reduce **average** cost as output rises (bulk buying, large-scale machinery, cheaper finance, shared advertising cost); total cost still rises, only cost *per unit* falls.
 
+Worked example: 200 units, total cost £8,000, total revenue £11,000 → average cost £40, average revenue £55, profit £3,000.
+
+## The labour market (2.7)
+
+**Demand for labour** (from employers) is a **derived demand** and slopes **down**; **supply of labour** (from workers) slopes **up**; the **equilibrium wage** is where they meet. Demand shifts with demand for the product, productivity and the cost of machinery; supply shifts with the skills and training needed, the number of people who have them, working conditions and non-wage benefits, and the size of the working population.
+
 ## Worked example: net pay (2.7)
 
 Gross pay £2,400/month; income tax £280; national insurance £190; pension £120.
@@ -64,6 +72,8 @@ Net pay = £2,400 - (£280 + £190 + £120) = £2,400 - £590 = £1,810
 ## The role of money (2.8)
 
 Money as a medium of exchange. The financial sector (banks, building societies, insurance) enables saving, borrowing and investment, and **transmits interest rate changes** through the economy — not just "storing money."
+
+Higher interest rates → saving ↑, borrowing ↓, investment ↓ (and the reverse). Example: £5,000 saved for a year earns £100 at 2% and £150 at 3%.
 
 ## Worked example: interpreting a demand curve shift
 

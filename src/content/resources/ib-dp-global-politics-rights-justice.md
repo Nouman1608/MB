@@ -33,10 +33,10 @@ Conflict](/resources/ib-dp-global-politics-peace-conflict/) and
 Development and Sustainability as one of the three compulsory
 thematic studies. Because all three are equally examinable in Paper
 2's extended-response questions, Rights and Justice should not be
-deprioritised relative to the other two -- and at HL, the Global
-political challenges extension (Paper 3) explicitly asks for synthesis
-across all three, rather than treating any one thematic study in
-isolation.
+deprioritised relative to the other two. The HL Global political
+challenges extension (Paper 3) is separate: it is built on cases each
+HL student researches independently, connected to eight topic areas
+(borders, environment, equality, health, identity, poverty, security and technology).
 
 ## Applying the four core concepts
 
@@ -141,10 +141,11 @@ compulsory thematic studies, since Paper 2 can draw on any of them.
 Practise structuring answers explicitly around power, sovereignty,
 legitimacy and interdependence rather than describing a rights issue
 in general terms, and build a current, named case-study bank rather
-than relying on generic or dated examples. At HL, look for genuine
-opportunities to connect Rights and Justice content to Peace and
-Conflict and Development and Sustainability, since the Global
-political challenges extension specifically rewards this synthesis.
+than relying on generic or dated examples. At HL, note where a rights
+case you know connects to one of the eight HL topic areas (equality or
+identity, for example), as a possible starting point for the
+independent case research the Global political challenges extension
+requires.
 
 ## Official syllabus
 

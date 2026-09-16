@@ -100,18 +100,19 @@ responses in Sections B and C of the real paper are in Urdu, not English.
 
 > Education is not merely a matter of obtaining a degree; rather, it transforms a person's way of thinking. A nation that does not educate its daughters loses half its own future. History is witness that the societies which gave priority to women's education moved ahead of others in economic and social development.
 
-**Marking (points-based — one mark per correct individual section of language, no chunk worth
-more than one, matching the board's own scheme):** تعلیم = "education" [1]; صرف = "merely/only" [1];
+**Marking (points-based — 20 chunks, one mark for the correct translation of each, no chunk worth
+more than one; the specification gives one mark for each correct individual section of language, and
+Pearson's Getting Started Guide for 9UR0 describes the translation as divided into 20 chunks. Accept
+variants that convey the same meaning.):** تعلیم = "education" [1]; صرف = "merely/only" [1];
 ...کا نام نہیں = "is not [just] a matter of" [1]; بلکہ = "rather" [1]; انسان کے طرزِ فکر = "a
 person's way of thinking/outlook" [1]; کو بدل دیتی ہے = "transforms/changes" [1]; جو قوم = "the
-nation which/a nation that" [1]; اپنی بیٹیوں کو تعلیم نہیں دیتی = "does not educate its
-daughters" [1]; اپنے آدھے مستقبل سے = "of/from half its own future" [1]; خود = "itself" [1]; ہاتھ
+nation which/a nation that" [1]; اپنی بیٹیوں کو = "its daughters" [1]; تعلیم نہیں دیتی = "does not
+educate/give education to" [1]; اپنے آدھے مستقبل سے = "of/from half its own future" [1]; خود = "itself" [1]; ہاتھ
 دھو بیٹھتی ہے = "loses/forfeits" — **not** "washes its hands" [1]; تاریخ گواہ ہے = "history is
 witness/testifies" [1]; کہ = "that" [1]; جن معاشروں نے = "the societies which" [1]; عورتوں کی
 تعلیم کو ترجیح دی = "gave priority to women's education" [1]; وہ (referring back to معاشروں) =
-"those [societies]" [1]; معاشی اور سماجی ترقی میں = "in economic and social development" [1];
-دوسروں سے آگے نکل گئے = "moved ahead of others" [1]; consistent tense/aspect across all three
-clauses [1]; overall coherent, natural English register [1].
+"those [societies]" [1]; معاشی اور سماجی = "economic and social" [1]; ترقی میں = "in
+development/progress" [1]; دوسروں سے آگے نکل گئے = "moved ahead of others" [1]. (Total 20.)
 
 **3.** A **literal translation** renders **each word individually in the same order**, preserving the form of the original [1]. An **idiomatic translation** conveys the **meaning and effect in natural target-language expression**, changing the wording where necessary [1]. **Idiomatic translation is expected at A Level** [1], because the examiner is testing **understanding of meaning and command of natural expression**, and a literal version of an idiom is usually meaningless or absurd in the target language [1].
 

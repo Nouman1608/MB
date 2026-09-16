@@ -22,7 +22,7 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Nuclear and Particle Physics study guide](/resources/edexcel-ial-physics-nuclear-and-particle-physics/).
 
-> **Scope note:** this page is filed under Unit 4 sub-topic 4.5. The "Atomic structure and accelerators", "The standard model", "Fundamental forces" and "Particle accelerators" sections below are genuine Unit 4.5 material. The "Mass–energy equivalence" section's binding-energy/fission/fusion content sits substantially in Unit 5 sub-topic 5.4, and is included here as useful overlap/context.
+> **Scope note:** this page covers Unit 4 sub-topic 4.5, Nuclear and Particle Physics. Mass deficit, binding energy, fission and fusion belong to Unit 5 sub-topic 5.4 and are in the [Nuclear Decay revision notes](/resources/edexcel-ial-physics-nuclear-decay-revision-notes/). The exchange particles in the "Fundamental forces" table, strangeness and synchrotrons are background beyond the specification.
 
 ## Atomic structure and accelerators
 
@@ -62,21 +62,19 @@ Charge, baryon number, lepton number (per family), energy and momentum must all 
 
 **When rejecting a proposed interaction, you must name which rule is violated** — saying "it's impossible" without the reason scores nothing.
 
-## Mass–energy equivalence
+## Mass–energy equivalence: creation and annihilation
 
 ```
-E = mc^2         1 u = 931.5 MeV/c^2
-binding energy = mass defect x c^2
+Delta E = c^2 Delta m
+1 eV = 1.60 x 10^-19 J      1 MeV = 1.60 x 10^-13 J      1 GeV = 1.60 x 10^-10 J
+mass in MeV/c^2 = rest energy in MeV     (e.g. electron 0.511 MeV/c^2, proton 938 MeV/c^2)
 ```
 
-**Mass defect** — the mass of a nucleus is **less** than the sum of its separate nucleons, because energy was released when they bound together.
+**Annihilation** — a particle and its antiparticle meet and their mass is converted to energy, usually as two photons travelling in opposite directions (so momentum is conserved). For an electron and positron at rest, each photon carries 0.511 MeV.
 
-**Binding energy per nucleon** peaks around **iron-56**. This single graph explains both processes:
+**Pair creation** — a photon (or collision energy) of at least the combined rest energy of a particle and its antiparticle can create the pair; an electron–positron pair needs at least 1.02 MeV.
 
-- **Fusion** of light nuclei moves towards the peak → energy released.
-- **Fission** of heavy nuclei moves towards the peak → energy released.
-
-Both release energy because both increase binding energy per nucleon. Being able to say *why* from the graph is the high-value answer.
+In accelerator collisions the kinetic energy of the colliding particles can become the mass of new particles, which is one reason very high energies are needed.
 
 ## Particle accelerators
 
@@ -93,19 +91,19 @@ Both release energy because both increase binding energy per nucleon. Being able
 - Calling protons or neutrons fundamental.
 - Saying leptons feel the strong force.
 - Not naming the violated conservation rule.
-- Saying the nucleus is heavier than its constituent nucleons.
-- Explaining fission and fusion without reference to binding energy per nucleon.
+- Forgetting that annihilation produces two photons, not one, so that momentum is conserved.
+- Converting GeV to joules without the factor of 10⁹.
 - Forgetting the relativistic limit of the cyclotron.
 
 ## Self-test
 
 1. Which particles are fundamental?
 2. Which force changes quark flavour, and what does that explain?
-3. What is the mass defect, and why does it exist?
-4. Why do both fission and fusion release energy?
+3. An electron and a positron annihilate at rest. What is produced, and what is the energy of each product in MeV?
+4. Express 2.0 GeV in joules, and a mass of 938 MeV/c² in kilograms.
 5. What limits a cyclotron at high speeds?
 6. Distinguish nucleon number from proton number.
 7. Why does relativistic time dilation matter for detecting short-lived particles?
 8. What did the symmetry of the standard model successfully predict, before it was confirmed experimentally?
 
-**Answers:** 1. Quarks and leptons; protons and neutrons are composite. 2. The weak force; it explains beta decay, where a down quark becomes an up quark or vice versa. 3. The difference between the mass of a nucleus and the total mass of its separate nucleons; it exists because energy was released when the nucleons bound together, and that energy came from mass. 4. Both move nuclei towards the peak of the binding energy per nucleon curve at around iron-56, increasing binding energy per nucleon and releasing the difference. 5. As the particle approaches the speed of light its mass increases, so the time to complete each semicircle is no longer constant and it loses synchronisation with the alternating supply. 6. Nucleon number (mass number) is the total number of protons and neutrons in a nucleus; proton number (atomic number) is the number of protons only. 7. It increases a fast-moving particle's observed lifetime, so particles that would otherwise decay almost instantly can travel measurable distances and be detected in accelerator experiments. 8. The existence of the top quark, before it was experimentally confirmed.
+**Answers:** 1. Quarks and leptons; protons and neutrons are composite. 2. The weak force; it explains beta decay, where a down quark becomes an up quark or vice versa. 3. Two photons travelling in opposite directions (so momentum is conserved), each with energy 0.511 MeV, the rest energy of one electron. 4. 2.0 × 10⁹ × 1.60 × 10⁻¹⁹ = 3.2 × 10⁻¹⁰ J; 938 × 1.60 × 10⁻¹³ = 1.50 × 10⁻¹⁰ J, and dividing by c² = (3.00 × 10⁸)² gives 1.67 × 10⁻²⁷ kg. 5. As the particle approaches the speed of light its mass increases, so the time to complete each semicircle is no longer constant and it loses synchronisation with the alternating supply. 6. Nucleon number (mass number) is the total number of protons and neutrons in a nucleus; proton number (atomic number) is the number of protons only. 7. It increases a fast-moving particle's observed lifetime, so particles that would otherwise decay almost instantly can travel measurable distances and be detected in accelerator experiments. 8. The existence of the top quark, before it was experimentally confirmed.

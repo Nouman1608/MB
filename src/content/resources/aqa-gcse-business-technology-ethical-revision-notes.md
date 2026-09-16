@@ -113,7 +113,7 @@ Because exam time is limited, practise producing the cost-benefit-judgement stru
 - Treating "environmental considerations" and "sustainability" as identical, when the specification lists them as related but distinct.
 - Failing to reach a reasoned judgement when a question asks for analysis/evaluation.
 
-## Where this sits among the five named influences
+## Where this sits among the six named influences
 
 Technology and ethics/environment are two of **six** named external influences in Topic 2 — alongside 3.2.3 (The Economic Climate on Businesses), 3.2.4 (Globalisation), 3.2.5 (Legislation) and 3.2.6 (Competitive Environment). Reviewing all six together later in revision helps recognise which specific influence a scenario is testing, since questions often describe a business situation without naming the influence directly.
 
