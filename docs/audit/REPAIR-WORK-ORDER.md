@@ -10,7 +10,7 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-**6 confirmed-error groups open (E914–E919, 80 errors)** *(2026-10-26, round 19: first read of the 370 unread post-baseline resources. D-240 closed I361 and I362, and both read fixed on `main`.)*
+**8 confirmed-error groups open (E914–E919 until D-241 is verified; E920, E921)** *(2026-10-27, round 20: Cambridge board claims checked. D-241 claims E914–E919 and I363–I368; the audit reads it next.)*
 
 > **Amended 2026-10-12 (Q374).** This order first said 658. That figure never subtracted repair
 > rounds D-138…D-191, which closed 508 of them. The list of what is actually open — 89 plain,
@@ -137,6 +137,10 @@ work order can be a document rather than a conversation.
 ---
 
 ## 8. Current specifics
+
+- **Round 20 (2026-10-27, Q401): Cambridge board claims.** Work **E920** (5 statements) and **E921** (7 statements,
+  13 files), then **I369**. Each item quotes the syllabus. Withdrawn, no change needed: I363.11, I363.21, Q400.9,
+  Q400.11, Q400.12, Q400.13. Your I363.10 dispute is upheld. Q400.7 and Q400.14 stay leads (mark-scheme practice).
 
 - **Round 19 (2026-10-26, Q397): post-baseline resources read.** Work **E914–E919** (80 errors, every item
   with file and line in `2026-10-26-findings.md`), then **I363–I368**. Q399 and Q400 are leads to confirm
