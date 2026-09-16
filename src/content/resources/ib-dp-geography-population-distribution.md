@@ -31,7 +31,8 @@ Because the geographic-themes options vary by school, revision
 material on an unstudied option is wasted effort. The core is
 different: every DP Geography student, regardless of school, studies
 Population Distribution as part of the shared core, examined in Paper
-2 with the same weight given to Paper 1's option content. Population
+2 (40% of the final grade at SL and 25% at HL, against 35% for Paper 1's
+options at both levels). Population
 Distribution sits alongside [Global Climate: Vulnerability and
 Resilience](/resources/ib-dp-geography-global-climate/) and Global
 Resource Consumption and Security within the compulsory core -- the
@@ -123,7 +124,7 @@ sub-theme within a single answer.
 
 Because this content is examined identically for SL and HL students,
 do not deprioritise it relative to your chosen Paper 1 options -- Paper
-2 tests this core with the same weight Paper 1 gives to your options.
+2 tests this core at 40% of the final grade at SL (more than Paper 1's 35%) and 25% at HL.
 Practise the specific skill of moving between quantitative data reading
 (extracting a figure or trend from a pyramid, map or graph) and
 qualitative explanation (why that pattern exists, using named factors)

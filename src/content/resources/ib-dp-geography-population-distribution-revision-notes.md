@@ -82,7 +82,7 @@ that draw on more than one sub-theme within a single answer.
 ## How to approach it
 
 Because this content is examined identically for SL and HL students, do not deprioritise it relative
-to your chosen options -- Paper 2 tests this core with the same weight as Paper 1 tests your options.
+to your chosen options -- Paper 2 tests this core at 40% of the final grade at SL (more than Paper 1's 35%) and 25% at HL.
 Practise the specific skill of moving between quantitative data reading (extracting a figure or trend
 from a pyramid, map or graph) and qualitative explanation (why that pattern exists, using named
 factors) within the same answer, since this combination is exactly what data-response questions on

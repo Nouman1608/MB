@@ -32,18 +32,18 @@ perspectives — from the highly local (a single fieldwork site) to the genuinel
 DP Geography is assessed differently at Standard Level and Higher
 Level, both in the number of papers sat and in how much weight each
 carries. SL students sit two written papers: Paper 1 examines two
-elective geography themes chosen by the school and is worth 35% of the
+optional geography themes chosen by the school and is worth 35% of the
 final grade, while Paper 2, covering the core geography topics common
 to all students, is worth 40%. HL students sit a third paper in
-addition: their Paper 1 (covering three, rather than two, elective
+addition: their Paper 1 (covering three, rather than two, optional
 themes) is also worth 35%, Paper 2 is worth 25%, and Paper 3 -- an
 HL-only paper on global interactions, requiring more extended,
 synoptic answers -- adds a further 20%.
 
 Exam length also differs by level. SL students are given one hour
 thirty minutes for Paper 1 and one hour fifteen minutes for Paper 2;
-HL students have two hours ten minutes for the longer Paper 1 and the
-same one hour fifteen minutes for Paper 2, reflecting the extra elective
+HL students have two hours fifteen minutes for the longer Paper 1 and the
+same one hour fifteen minutes for Paper 2, reflecting the extra optional
 theme HL students study within Paper 1 specifically. Paper 3, sat only by HL
 students, runs for one hour plus five minutes of reading time and
 carries a maximum of 28 marks.
@@ -62,21 +62,21 @@ location — a deliberate feature of the design that keeps the investigation
 grounded in each student's own genuine inquiry rather than a
 standardised task completed identically by an entire class.
 
-The elective themes examined in Paper 1 are chosen by each school from
+The optional themes examined in Paper 1 are chosen by each school from
 options set out in the syllabus, so the specific topics a Marlbridge
 student sits in their Paper 1 exam depend on which options their
 school has taught -- something worth clarifying with a school's
 geography department well before study begins in earnest. Two Marlbridge
 students at different schools could therefore sit entirely different
 Paper 1 questions despite both studying "DP Geography," which is why
-generic revision material assuming a fixed set of elective themes should
+generic revision material assuming a fixed set of optional themes should
 always be checked against a student's own school's actual teaching.
 
-## Core versus elective content, at a glance
+## Core versus optional content, at a glance
 
 | Component | Content basis | Weighting (SL / HL) |
 |---|---|---|
-| Paper 1 | Elective themes, chosen by the school (2 at SL, 3 at HL) | 35% / 35% |
+| Paper 1 | Optional themes, chosen by the school (2 at SL, 3 at HL) | 35% / 35% |
 | Paper 2 | Core geography topics, common to all students | 40% / 25% |
 | Paper 3 | Global interactions, HL only | — / 20% |
 | Internal assessment | Fieldwork investigation | 25% / 20% |
@@ -88,7 +88,7 @@ part of why it carries the single largest weighting at SL.
 ## Why HL adds a paper rather than simply lengthening the existing ones
 
 HL students face a genuinely different assessment structure from SL students, not just a longer
-version of the same one: they study an additional elective theme in Paper 1, sit an entirely
+version of the same one: they study an additional optional theme in Paper 1, sit an entirely
 separate Paper 3 focused on global interactions with more extended, synoptic questions, and see
 Paper 2's weighting drop from 40% to 25% to make room for Paper 3. This design reflects the DP's
 broader approach to HL sciences and social sciences, where higher demand usually means additional,
@@ -99,7 +99,7 @@ distinctly structured assessment rather than simply more time on the same exam.
 The internally assessed fieldwork investigation is designed to apply the analytical techniques and
 geographic concepts taught in the classroom to a genuine, student-formulated research question —
 it is not a separate, disconnected piece of coursework. A strong investigation typically draws
-directly on techniques and concepts covered in whichever elective themes and core topics a student
+directly on techniques and concepts covered in whichever optional themes and core topics a student
 has studied, using the investigation as an opportunity to apply that classroom learning to primary
 data collected firsthand, rather than treating fieldwork as an isolated skill practised only once.
 

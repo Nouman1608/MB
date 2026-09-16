@@ -10913,3 +10913,42 @@ None in this batch.
 | E175 (reopened, Q382) | `a-physics-temperature.md`; sibling `a-physics-temperature-revision-notes.md` | 9702 2025-2027 (read to the address block) 14.2.1 names "the density of a liquid, volume of a gas at constant pressure, resistance of a metal, e.m.f. of a thermocouple". The guide now names all four as the syllabus's examples and keeps the constant-volume gas thermometer as an additional one; the revision notes, which named none, now name the four. |
 
 **Validation.** `validate:academic` pass; full gate run below with the push.
+
+## D-232 - Repair work order batch 6: the IB DP Geography deferrals E605, E606, E607 closed; E48 withdrawn by the audit (Q384) (2026-09-16)
+
+**Trigger.** D-228 deferred E605-E607 because the IB documents could not be read (curl gets a Cloudflare challenge, which was not worked around; Chrome's built-in PDF viewer cannot be read by the text tool). This batch opened `https://www.ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/geography/` in a real Chrome session, where the page loaded without a challenge. The subject brief linked from that page ("Geography SL & HL") was then fetched same-origin in that session and its text extracted with pdf.js in the page. It was read in full, both pages, through to the closing matter (IV. Sample questions). No challenge was bypassed, and no mirror or cached copy was used.
+
+**Primary source.** International Baccalaureate, *Diploma Programme Subject Brief -- Individuals and societies: Geography*, first assessments 2019, (c) IBO 2017. `https://www.ibo.org/contentassets/5895a05412144fe890312bad52b17044/geography-sl-hl-2017-en.pdf`. "Assessment at a glance":
+
+- External: 2.75 h (SL) / 4.5 h (HL); 75% / 80%.
+- Paper 1: 1.5 h / 2.25 h; 35% / 35%.
+- Paper 2: 1.25 h / 1.25 h; 40% / 25%.
+- Paper 3: HL only, 1 h, 20%.
+- Internal (fieldwork): 20 teaching hours at both levels; 25% / 20%.
+
+Curriculum model: "Geographic themes--seven options / SL--two options; HL-- three options". Assessment objective 1: "two optional themes at SL and three optional themes at HL". The word "elective" does not occur anywhere in the brief. The DP Geography guide, the second source cited by E605, was not needed: the brief alone settles each correction.
+
+### Closed -- fixed and verified
+
+| ID | Finding (quoted) | Files | What was changed / verified |
+|---|---|---|---|
+| E605 | "Three resources give the higher level first paper as two hours ten minutes. It is two hours fifteen." FIX: "Correct the duration to two hours fifteen and recompute the two derived statements." | `ib-dp-geography-assessment-revision-notes.md`, `ib-dp-geography-subject-guide.md`, `ib-dp-geography-exam-preparation.md` (the post-baseline third file) | Brief: HL Paper 1 is 2.25 h, and 2.25 + 1.25 + 1 = 4.5 h external, matching the stated total; 2h10 does not reach it. Every "2h10" and "two hours ten minutes" is now 2h15 or two hours fifteen minutes (6 occurrences across 3 files). Derived statements recomputed. "Nearly 40 minutes longer" is now "45 minutes longer" (135 − 90). "Proportional time pressure per theme is actually similar" and "time-per-theme pressure is broadly similar" now read exactly equal at 45 minutes per option (90/2 = 135/3 = 45), in the notes, the exam-preparation guide and the self-test answer. |
+| E606 | "One resource says the second paper carries the largest single weighting at standard level and adds that it is more than the first paper and the internal assessment combined ... Another resource says the second paper tests the core with the same weight as the first paper tests the options". FIX: "Delete the parenthetical from the first and correct the second against the published weightings." | `ib-dp-geography-assessment-revision-notes.md`, `ib-dp-geography-population-distribution-revision-notes.md`; sibling `ib-dp-geography-population-distribution.md` (2 occurrences) | "more than Papers 1 and the IA combined" deleted; the sentence keeps "at SL (40%)". All three "same weight" claims now give the published figures: Paper 2 is 40% at SL (more than Paper 1's 35%) and 25% at HL, against 35% for Paper 1 at both levels. Same-class weighting errors found in the family check and corrected in the same files. (1) The notes said "every other component's percentage weighting is slightly lower at HL". Paper 1 is 35% at both levels, so it now names Paper 2 (40% to 25%) and the IA (25% to 20%). (2) Self-test answer 5 said the IA is lower at HL because "the longer Paper 1" takes more weight. Paper 1's weight does not change, so the answer now attributes it to Paper 3 (20%) alone. (3) The exam-preparation guide said "Paper 2 and Paper 3 carry different weightings at each level". Paper 3 has no SL weighting, so it now reads Paper 2 differs by level and Paper 3 is HL only. |
+| E607 | "Three resources call the school-chosen themes of the first paper elective themes ... The organisation calls them options, or optional themes, in both its guide and its subject brief; the word elective appears in neither." FIX: "Use options or optional themes throughout." | `ib-dp-geography-assessment-revision-notes.md`, `ib-dp-geography-subject-guide.md`, `ib-dp-geography-exam-preparation.md` | Checked against the brief read end to end: the brief never uses "elective". All 31 occurrences (11, 9 and 11) are now "optional theme(s)", "option(s)" or "choice of options". They include the headings "Optional themes are school-chosen", "Core versus optional content, at a glance" and "First: confirm your school's optional themes", the Paper 1 heading, both assessment tables and the exam-preparation `description`. Headings were renamed, not dropped. `grep -i elective ib-dp-geography-*` now returns nothing. The data layer (`syllabuses.ts`, `syllabus-topics.ts`) has no "elective". Family checked: `ib-dp-geography-syllabus-guide.md`, `-global-climate*` and `-population-distribution*` already used "options". |
+
+### Deferred
+
+None in this batch.
+
+### Already correct / withdrawn
+
+| ID | Record |
+|---|---|
+| E48 | Withdrawn by the audit in round 9 (Q384, `docs/audit/2026-10-16-findings.md`, on `main` at `57c13ac`, which this entry is rebased onto): "Both halves of the finding are therefore wrong against its own source, and the file's mapping to 3.2.2.1 to 3.2.2.5 is correct." File left unchanged, as Q384's fix says. D-227's deferral was for want of the finding text, which Q384 locates in the evidence file's `post_baseline_findings` array, not `findings[]`. |
+
+### Observations, not actioned
+
+- `ib-dp-geography-subject-guide.md` says Paper 3 "carries a maximum of 28 marks" and runs for "one hour plus five minutes of reading time". `ib-dp-geography-assessment-revision-notes.md` gives Paper 3 as "1h + 5 min reading". The brief gives only "1" hour and no marks or reading time, so neither can be confirmed without the full guide. Not a finding; unchanged.
+- `ib-dp-geography-subject-guide.md` ("Why HL adds a paper ...") says higher demand means additional assessment "rather than simply more time on the same exam". HL Paper 1 is also 45 minutes longer. Not a finding; unchanged.
+
+**Open-count position after D-232, as this log reads it (for the audit to reconcile, not to take on trust).** Round 9 (Q385) lists seven open: E605, E606, E607, E615, E616, E617, E628. E605-E607 are closed here; Q385 names the same five geography files this entry fixes. **Still open: E615, E616, E617, E628** (never worked; texts in `post_baseline_findings`), plus Q383's E64 description residual.

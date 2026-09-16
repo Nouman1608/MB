@@ -8,7 +8,7 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Geography"]
 order: 6
-description: "Paper-by-paper exam preparation for IB Diploma Programme Geography -- timing strategy for each paper, confirming your school's elective themes, a worked resource-based question and a before/during-exam checklist."
+description: "Paper-by-paper exam preparation for IB Diploma Programme Geography -- timing strategy for each paper, confirming your school's optional themes, a worked resource-based question and a before/during-exam checklist."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-07
 featured: false
@@ -19,20 +19,20 @@ paper's weighting and timing. These notes turn that into an exam-day plan -- how
 given its specific time allowance, and how to handle Paper 2's resource-based questions -- with a
 worked scenario and a checklist.
 
-## First: confirm your school's elective themes
+## First: confirm your school's optional themes
 
-Paper 1's elective themes are chosen by your school from the syllabus options, so revision material
+Paper 1's optional themes are chosen by your school from the syllabus options, so revision material
 that assumes a particular set of themes may not match what you were actually taught. Before doing
 any Paper 1 exam preparation, confirm with your geography department exactly which themes (two at
 SL, three at HL) you are being examined on -- this single check prevents wasted revision time on
 content you will never be tested on.
 
-## Paper 1: elective themes (1h30 SL / 2h10 HL, 35% at both levels)
+## Paper 1: optional themes (1h30 SL / 2h15 HL, 35% at both levels)
 
 Because Paper 1 keeps the same 35% weighting at both levels but HL students cover one extra theme
-in a proportionally similar time allowance, the time-per-theme pressure is broadly similar at SL and
-HL -- pace practice papers accordingly, allocating roughly equal time to each elective theme's
-questions rather than assuming HL's longer paper means more time per theme.
+with 45 minutes more, the time per option is exactly the same at SL and HL: 45 minutes (90 minutes
+for two options, 135 minutes for three) -- pace practice papers accordingly, allocating equal time to
+each option's questions rather than assuming HL's longer paper means more time per theme.
 
 ## Paper 2: the compulsory core (1h15 at both levels, 40% SL / 25% HL)
 
@@ -82,10 +82,10 @@ specific map, graph or data table shows.
 
 ## Before/during exam checklist
 
-- **Before the exam**: confirm your school's specific elective themes for Paper 1; prioritise Paper
+- **Before the exam**: confirm your school's specific options for Paper 1; prioritise Paper
   2 preparation given its uniform content and, at SL, its larger weighting; practise Paper 3's
   synoptic style specifically if sitting HL, using the reading time to plan before writing.
-- **During Paper 1**: pace questions evenly across your elective themes rather than favouring one.
+- **During Paper 1**: pace questions evenly across your options rather than favouring one.
 - **During Paper 2**: read unfamiliar resources carefully and state approximate values directly from
   them before explaining the pattern shown.
 - **During HL Paper 3**: use the 5 minutes' reading time to identify which syllabus areas the
@@ -93,8 +93,8 @@ specific map, graph or data table shows.
 
 ## Why timing awareness matters more here than in most subjects
 
-Because Paper 1's duration itself differs between SL (1h30) and HL (2h10), and Paper 2 and Paper 3
-carry different weightings at each level, a generic "spend X minutes per mark" rule copied from
+Because Paper 1's duration itself differs between SL (1h30) and HL (2h15), Paper 2 carries a different
+weighting at each level and Paper 3 is sat at HL only, a generic "spend X minutes per mark" rule copied from
 another subject will not transfer cleanly to Geography. Work out your own per-paper timing plan from
 the actual weightings and durations above -- roughly, time spent per question should track its mark
 allocation within that paper's own time limit, rather than assuming every DP subject's papers are
@@ -102,15 +102,15 @@ timed the same way.
 
 ## Self-test
 
-1. Why should you confirm your school's elective themes before starting Paper 1 revision?
+1. Why should you confirm your school's optional themes before starting Paper 1 revision?
 2. Why does Paper 2 reward close, structured revision more reliably than Paper 1?
 3. What should HL students do with Paper 3's 5 minutes of reading time?
 4. In the worked scenario, what two things does a strong resource-based answer do?
 
-**Answers:** 1. Because elective themes are chosen by each school from the syllabus's options, so
+**Answers:** 1. Because the optional themes are chosen by each school from the syllabus's options, so
 generic revision material may not match the specific themes actually taught and examined at your
 school. 2. Because Paper 2's core geography topics are the same for every DP Geography candidate,
-regardless of school or elective choice, unlike Paper 1's school-chosen elective themes. 3. Use it
+regardless of school or choice of options, unlike Paper 1's school-chosen optional themes. 3. Use it
 to identify which syllabus areas the question draws on and sketch a brief answer structure, rather
 than beginning to write immediately. 4. It reads and states approximate values directly from the
 resource to satisfy "describe," and links the pattern to a named geographic concept to satisfy
