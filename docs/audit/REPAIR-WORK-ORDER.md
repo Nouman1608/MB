@@ -10,7 +10,7 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-**1 confirmed-error group open (E922)** *(2026-10-29, round 22: D-242 and D-243 verified — 21 of 21 fixed; E920, E921, I369 and I370 closed; AQA board claims checked.)*
+**2 confirmed-error groups open (E922, E923)** *(2026-10-30, round 23: IB board claims checked; D-241's IB settlements hold; D-244 lands E922 and is read next.)*
 
 > **Amended 2026-10-12 (Q374).** This order first said 658. That figure never subtracted repair
 > rounds D-138…D-191, which closed 508 of them. The list of what is actually open — 89 plain,
@@ -137,6 +137,11 @@ work order can be a document rather than a conversation.
 ---
 
 ## 8. Current specifics
+
+- **Round 23 (2026-10-30, Q404): IB board claims.** New: **E923** (seven IB families: Psychology biological
+  approach topics, Biology gas-exchange properties, Physics SL Paper 2 marks and IA criteria, Geography global
+  climate coverage and fieldwork, History 2028 Paper 1, Computer science SQL, Chemistry HL markers), **I372**
+  (eight wording items) and **U74** (six claims the public IB documents cannot settle). D-241's IB fixes all hold.
 
 - **Round 22 (2026-10-29, Q403): D-242 and D-243 verified.** Nothing more on E920, E921, I369 or I370; your
   I370.2 call was right. New: **E922** (seven families: 7131 external environment, 7136 3.2.2, 7405 3.1.3
