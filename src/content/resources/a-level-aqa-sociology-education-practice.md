@@ -148,50 +148,51 @@ of the ethnic majority.)
 **8.** Indicative content — award up to 30 marks using the level
 descriptors in AQA's published mark schemes for 30-mark questions
 (the specification itself contains none); look for a developed, evaluative
-argument rather than a checklist of points. Stronger answers apply
+argument rather than a checklist of points, so nothing below carries an
+individual mark value. Stronger answers apply
 Item A explicitly — for example, its reference to sorting pupils
 "through examinations" (role allocation) and its point that critics
 question whether the system is "as fair and meritocratic as it claims
 to be" (a route into the Marxist critique). **For "wider society"**:
 functionalists argue education provides secondary socialisation and
 social solidarity that benefit society as a whole, while role
-allocation matches individuals to jobs the economy needs [1] [1];
+allocation matches individuals to jobs the economy needs;
 Marxists similarly see education as serving a wider structural
 interest — reproducing a compliant workforce for capitalism via the
 correspondence principle — though this benefits a ruling class rather
 than society as a whole, a distinction candidates should draw
-explicitly [1] [1]. **For "the individual"**: education also provides
+explicitly. **For "the individual"**: education also provides
 individual credentials, social mobility opportunities, and personal
 development, which candidates should weigh against the
-society-benefiting functions above [1] [1]. **Evaluation**: strong
+society-benefiting functions above. **Evaluation**: strong
 answers note that functionalism assumes a value consensus and fair
 meritocracy that Marxists and others dispute, and that the same
 institutional feature (e.g. qualifications) can be read as serving
 either the individual or wider society depending on the theoretical
 lens applied, meaning the "primarily" framing of the question invites
-direct comparison rather than a one-sided answer [1] [1] [1] [1].
+direct comparison rather than a one-sided answer.
 
 **9.** Indicative content — award up to 30 marks using the level
-descriptors in AQA's published mark schemes for 30-mark questions.
-Stronger answers apply Item B
+descriptors in AQA's published mark schemes for 30-mark questions, so
+nothing below carries an individual mark value. Stronger answers apply Item B
 explicitly — its "factors outside school" (low family income, cultural
 resources) lead into material and cultural explanations, and its
 "processes inside school" (labelling, sets and streams) into in-school
 explanations. **Material/economic explanations**:
 lack of resources such as books, internet access, or a quiet study
 space, and pressure on some working-class pupils to take paid work,
-directly limiting study time and opportunity [1] [1]. **Cultural
+directly limiting study time and opportunity. **Cultural
 explanations**: Bourdieu's cultural capital and Bernstein's speech
 codes, disadvantaging working-class pupils in a system that
-implicitly rewards middle-class cultural traits and language [1] [1].
+implicitly rewards middle-class cultural traits and language.
 **In-school explanations**: labelling, setting and streaming, and
 anti-school subcultures that can compound disadvantage that
-originates outside school [1] [1]. **Evaluation**: candidates should
+originates outside school. **Evaluation**: candidates should
 weigh whether material or cultural explanations carry more
 explanatory weight, note that in-school and out-of-school
 explanations likely interact rather than operate independently, and
 consider critiques such as the risk of stereotyping working-class
-culture as uniformly deficient [1] [1] [1] [1].
+culture as uniformly deficient.
 
 ## Where marks are usually lost
 

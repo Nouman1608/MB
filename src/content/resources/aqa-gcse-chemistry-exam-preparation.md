@@ -35,10 +35,11 @@ Foundation-tier demand on the same topic.
 
 ## Quantitative chemistry rewards calculation fluency, not just recall
 
-Because Paper 1 includes quantitative chemistry directly, and mole-based calculations recur across
-several other topics (chemical changes, using resources), calculation questions are not confined to
-one section of the paper. **Exam-preparation priority**: practise mole, mass and concentration
-calculations as a distinct revision strand with its own dedicated practice time, showing every step
+Because Paper 1 includes quantitative chemistry directly, and calculations recur across several other
+topics (chemical changes, using resources), calculation questions are not confined to one section of
+the paper. **Exam-preparation priority**: practise the calculations for your tier (relative formula
+mass and concentration in g/dm3 for both tiers; moles, 4.3.2.1 to 4.3.2.4, concentration in mol/dm3,
+4.3.4, and gas volumes, 4.3.5, Higher Tier only) as a distinct revision strand with its own dedicated practice time, showing every step
 of working -- partial credit is available for correct method even when a final numerical answer is
 wrong, but only if the working is shown.
 
@@ -57,7 +58,11 @@ accurate account of what happens, without needing to explain why. **Explain** re
 account of why something happens. **Calculate** requires a numerical answer built through shown
 working, with the correct number of significant figures and units where relevant.
 
-## Worked practice scenario: a calculation showing full method
+## Worked practice scenario (Higher Tier only): a calculation showing full method
+
+This scenario uses moles and the amounts of substances in an equation, which the specification marks
+HT only (4.3.2.1 Moles and 4.3.2.2 Amounts of substances in equations). Foundation Tier students are
+not assessed on it.
 
 Question: "Calculate the mass of magnesium oxide produced when 6 g of magnesium reacts completely
 with oxygen. (Mg = 24, O = 16). Mg + 1/2 O2 -> MgO"

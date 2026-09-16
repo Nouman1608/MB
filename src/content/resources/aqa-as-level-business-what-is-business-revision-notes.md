@@ -12,7 +12,7 @@ order: 2
 syllabusTopics:
   - qualification: "as-level"
     topic: "what-is-business-aqa-aslevel-business"
-description: "Condensed recall notes on added value, business forms and the external environment for AQA AS-Level Business (7131), Topic 1."
+description: "Condensed recall notes on business forms and the external environment, with added value (specification 3.4.1, background for Topic 1), for AQA AS-Level Business (7131), Topic 1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
@@ -29,7 +29,9 @@ Condensed for the final weeks. For the full explanation, use the
 
 Remember: AS Business (7131) is a **stand-alone qualification** with its own full assessment — this content is not "worth less" than the identical A-level Topic 1.
 
-## Added value
+## Added value (3.4.1 content, background for Topic 1)
+
+The specification names added value under **3.4.1 Setting operational objectives**; 3.1 What is business? does not list it. It belongs to 3.4 Operational management, and is revised here only as background.
 
 ```
 added value = price customer will pay - cost of inputs
@@ -54,7 +56,7 @@ The specification's heading is *how the external environment can affect costs an
 
 **S**pecific, **M**easurable, **A**chievable, **R**ealistic, **T**ime-bound. "Grow" = a purpose, not an objective. "Increase market share by 5% within two years" = SMART.
 
-## Worked example: added value
+## Worked example: added value (3.4.1 content, background for Topic 1)
 
 A small coffee shop sources specialty beans and trains staff, charging more than a chain competitor. Input cost is broadly similar to the chain's; added value comes from **quality** (specialty sourcing) and **service** (trained staff), not from raising price on an identical product — justifying the higher margin.
 
@@ -89,7 +91,7 @@ A common error is treating 3.1.3 as a fixed list of external factors to memorise
 
 ## Exam traps
 
-- Confusing added value with profit (added value is pre-overheads).
+- Confusing added value with profit (added value is pre-overheads; 3.4.1 content).
 - Describing a business form's features without comparing it against alternatives on liability/capital/control.
 - Listing external-environment factors abstractly instead of applying one to a named business scenario.
 - Treating AS content as less rigorously examined than A-level — it is assessed as its own complete qualification.
@@ -98,8 +100,8 @@ A common error is treating 3.1.3 as a fixed list of external factors to memorise
 
 ## Self-test
 
-1. Give the formula for added value.
-2. Name three ways to increase added value besides raising price.
+1. Give the formula for added value (3.4.1 content, background for Topic 1).
+2. Name three ways to increase added value besides raising price (3.4.1 content, background for Topic 1).
 3. Compare a sole trader and a private limited company on liability and capital access.
 4. The specification says the external environment can affect which two things, and which six factors does it name?
 5. Rewrite "we want to grow" as a SMART objective.

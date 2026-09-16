@@ -11950,3 +11950,32 @@ None. No existing resource or data-layer record was edited.
 **Validation.** All pass: `astro check` 0 errors; `validate:academic`; `validate-assessments`; build 2141 pages; `audit:all` 0 problems; cross-board regression; negative suite; API tests 31/31; `check-duplicate-resource-scope` the four pre-existing groups only.
 
 **Open-count position after D-245.** Round 23 leaves E922 (closed by D-244, unread), E923, I372 and U74; E923, I372 and U74 (21 items) are closed here. Confirmed errors declared open: 0.
+
+## D-246 - Audit round 24 (Q405): I373 closed (2026-09-16)
+
+**Trigger.** Round 24 (`docs/audit/2026-10-31-findings.md`, `556975e`) verified D-244 (17 of 17 fixed; E922, I371 and U73 closed) and recorded I373, five items confirmed from D-244's observations. D-245 (round 23) is rebased onto `556975e` and unchanged.
+
+**Primary sources.** AQA AS and A-level Business 7131/7132 specification version 2.0 (June 2023), downloaded from filestore.aqa.org.uk and read as text: 3.1 What is business? (3.1.1-3.1.3, where added value is not listed) and 3.4 Operational management, 3.4.1 Setting operational objectives ("Operational objectives include: costs, quality, speed of response, flexibility, environmental objectives, added value"). AQA GCSE Chemistry 8462 specification version 1.1: 4.3.2.1 Moles (HT only), 4.3.2.2 Amounts of substances in equations (HT only), 4.3.2.3 and 4.3.2.4 (HT only), 4.3.2.5 Concentration of solutions (g/dm3, both tiers, with an HT-only bullet), 4.3.4 mol/dm3 (chemistry only, HT only), 4.3.5 volumes of gases (chemistry only, HT only). Cambridge IGCSE Economics 0455 2026 syllabus (697154), 3.1.2 banking: "The role and importance of central banks and commercial banks for government, producers and consumers." For the 8192 item, the audit's reading of the web specification (no level descriptors) is taken as recorded.
+
+### I373 - Five items from D-244's observations
+
+| Item | Files | What changed |
+|---|---|---|
+| I373.1 | `aqa-gcse-sociology-families-education-practice.md`, `gcse-sociology-crime-stratification-practice.md` (answers 7 and 14 in each) | 'The levels descriptors in the specification' replaced with the level descriptors in AQA's published 8192 mark schemes, noting that the specification contains none. Sibling search: no other resource refers to level descriptors in a specification. |
+| I373.2 | `a-level-aqa-sociology-education-practice.md` (answers 8 and 9) | All twenty [1] tokens removed from the two [30] answers, which now say that nothing in the indicative content carries an individual mark value; marking by AQA's published level descriptors unchanged. Sibling check: the other AQA and OxfordAQA sociology practice files' levels-marked answers carry no point tokens; the two OCR GCSE Business [9] answers already state that their tokens are indicative. |
+| I373.3 | `aqa-gcse-chemistry-exam-preparation.md` | Worked scenario (6 g Mg to 10 g MgO via moles) headed Higher Tier only, with a line citing 4.3.2.1 and 4.3.2.2 as HT only. The calculation-priority paragraph no longer presents mole calculations to both tiers: relative formula mass and g/dm3 concentration for both tiers; moles (4.3.2.1-4.3.2.4), mol/dm3 (4.3.4) and gas volumes (4.3.5) Higher Tier only. Sibling: `aqa-gcse-chemistry-quantitative-chemistry.md` already labels these (D-244). |
+| I373.4 | `aqa-as-level-business-what-is-business-revision-notes.md`, `aqa-as-level-business-what-is-business-practice.md`; siblings `aqa-a-level-business-what-is-business.md`, `aqa-a-level-business-what-is-business-revision-notes.md` (7132, same Topic 1 content) | Added value labelled as 3.4.1 content (3.4 Operational management), background for Topic 1: both AS descriptions rewritten; notes section heading, explanatory line, worked example heading, exam trap and self-test 1-2; practice intro line, Q1, Q2 and Q5 and their answers. The 7132 guide's 'Why businesses exist' paragraph, common-mistakes line and checklist item, and the 7132 notes' purpose paragraph, carry the same label. No tariff changed. The AS study guide does not mention added value. |
+| I373.5 | `cambridge-igcse-economics-microeconomic-decision-makers.md` | Credit creation labelled 'Background, not required by 0455', with 3.1.2's wording quoted. Sibling search: no other IGCSE or O Level economics resource teaches credit creation. |
+
+### Log correction
+
+- D-244's E922.4 row cites 8462 4.3.1.3 for the uncertainty wording; the section is **4.3.1.4 Chemical measurements** (4.3.1.3 is Mass changes when a reactant or product is a gas), as round 24 notes. The file cites no section number for it; nothing in the resources changes.
+
+### Observations, not actioned
+
+- `aqa-as-level-business-what-is-business-revision-notes.md` and `-practice.md` teach SMART objectives; 7131 3.1.1 lists 'Why businesses set objectives' but does not name SMART.
+- `aqa-as-level-business-what-is-business-practice.md` footer: 'Verified 2026-09-03' against the specification-at-a-glance page, not the version 2.0 PDF read here.
+
+**Validation.** All pass: `astro check` 0 errors; `validate:academic`; `validate-assessments`; cross-board integrity; build (2141 HTML files); `audit:all` 0 problems across 2140 pages; cross-board regression; negative suite; API tests 31/31; `check-duplicate-resource-scope` the four pre-existing groups only.
+
+**Open-count position after D-246.** Round 24 leaves E923 open (closed by D-245, unread) with I372, U74 and I373; D-245 closes the first three and I373 (5 items) is closed here. Confirmed errors declared open: 0.

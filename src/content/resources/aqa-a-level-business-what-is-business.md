@@ -76,7 +76,7 @@ September 2023 —
 
 ## Why businesses exist
 
-A business converts inputs into outputs that satisfy customer needs and wants, adding value in the process. **Added value** is the difference between the cost of inputs and the price the customer pays, and it is increased by branding, quality, service, convenience and design — not only by raising price.
+A business converts inputs into outputs that satisfy customer needs and wants, adding value in the process. **Added value** (named in the specification under 3.4.1 Setting operational objectives, not under 3.1, so background for Topic 1) is the difference between the cost of inputs and the price the customer pays, and it is increased by branding, quality, service, convenience and design — not only by raising price.
 
 ## Objectives and their hierarchy
 
@@ -132,11 +132,11 @@ Marks come from a judgement that depends on context — the size of expansion pl
 
 ## Common mistakes
 
-Confusing added value with profit — added value ignores overheads. Saying limited liability means the business has limited debts, rather than that the shareholder's loss is capped. Treating stakeholders and shareholders as synonyms. Listing external factors, by PESTLE or otherwise, without applying them to the case. Asserting profit maximisation is always the objective, which ignores survival and growth stages.
+Confusing added value (3.4.1 content) with profit — added value ignores overheads. Saying limited liability means the business has limited debts, rather than that the shareholder's loss is capped. Treating stakeholders and shareholders as synonyms. Listing external factors, by PESTLE or otherwise, without applying them to the case. Asserting profit maximisation is always the objective, which ignores survival and growth stages.
 
 ## Quick revision checklist
 
-- Define added value and explain the ways a business can increase it.
+- Define added value and explain the ways a business can increase it (3.4.1 content, background for Topic 1).
 - Explain the hierarchy from mission to functional objectives and write SMART objectives.
 - Compare the four forms of ownership, focusing on liability and access to capital.
 - Distinguish stakeholder from shareholder approaches and argue both sides.

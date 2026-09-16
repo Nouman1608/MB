@@ -23,7 +23,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Purpose and objectives
 
-A business converts inputs into outputs that satisfy customer needs, **adding value** in the process — the difference between the cost of inputs and the price the customer pays. Added value is increased by **branding, quality, service, convenience and design**, not only by raising price.
+A business converts inputs into outputs that satisfy customer needs, **adding value** in the process — the difference between the cost of inputs and the price the customer pays (added value is named in the specification under 3.4.1 Setting operational objectives, not under 3.1, so it is background for this topic). Added value is increased by **branding, quality, service, convenience and design**, not only by raising price.
 
 **Mission → corporate objectives → functional objectives → tactics.**
 

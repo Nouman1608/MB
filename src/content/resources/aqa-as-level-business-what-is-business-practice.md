@@ -12,7 +12,7 @@ order: 3
 syllabusTopics:
   - qualification: "as-level"
     topic: "what-is-business-aqa-aslevel-business"
-description: "Original exam-style practice questions with full worked answers on added value, business forms and the external environment for AQA AS-Level Business (7131), Topic 1."
+description: "Original exam-style practice questions with full worked answers on business forms and the external environment, with added value (specification 3.4.1, background for Topic 1), for AQA AS-Level Business (7131), Topic 1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
@@ -26,13 +26,15 @@ featured: false
 
 Related: [What Is Business? revision notes](/resources/aqa-as-level-business-what-is-business-revision-notes/)
 
+Questions 1, 2 and 5 are on added value, which the specification names under **3.4.1 Setting operational objectives** (3.4 Operational management), not under 3.1 What is business?; they are included as background for Topic 1.
+
 ---
 
 ## Section A
 
-**1.** State the formula for calculating added value. **[2]**
+**1.** State the formula for calculating added value. (3.4.1 content, background for Topic 1) **[2]**
 
-**2.** Identify two ways a business can increase added value other than raising its price. **[2]**
+**2.** Identify two ways a business can increase added value other than raising its price. (3.4.1 content, background for Topic 1) **[2]**
 
 **3.** State **two** of the factors the specification names as influencing a business's costs and demand. **[2]**
 
@@ -45,7 +47,7 @@ Related: [What Is Business? revision notes](/resources/aqa-as-level-business-wha
 **(a)** Recommend a suitable alternative business form. **[1]**
 **(b)** Justify your recommendation, referring to liability, capital access and control. **[4]**
 
-**5.** A bakery increases the quality of its ingredients and improves customer service, allowing it to charge a higher price than a rival selling a similar product at similar input cost.
+**5.** (3.4.1 content, background for Topic 1) A bakery increases the quality of its ingredients and improves customer service, allowing it to charge a higher price than a rival selling a similar product at similar input cost.
 
 **(a)** Explain how this scenario illustrates added value. **[3]**
 **(b)** Explain why this is not the same as simply increasing profit. **[2]**
@@ -67,16 +69,16 @@ Related: [What Is Business? revision notes](/resources/aqa-as-level-business-wha
 
 ## Worked answers
 
-**1.** Added value = the price a customer is willing to pay minus the cost of the inputs used to produce it. **[2]**
+**1.** (3.4.1 content, background for Topic 1) Added value = the price a customer is willing to pay minus the cost of the inputs used to produce it. **[2]**
 
-**2.** Any two of: branding, quality, service, convenience, design. **[2]**
+**2.** (3.4.1 content, background for Topic 1) Any two of: branding, quality, service, convenience, design. **[2]**
 
 **3.** Any two of: competition; market conditions; incomes; interest rates; demographic factors; environmental issues and fair trade (1 mark each). **[2]**
 
 **4. (a)** A private limited company. **[1]**
 **(b)** A private limited company offers limited liability, replacing the sole trader's unlimited liability and reducing the owner's personal financial risk; it also allows outside investors to buy shares, improving access to capital compared with a sole trader; the trade-off is some reduction in control, since decisions may need to be shared with other shareholders, and a new requirement to publish annual accounts, though this loss of control is generally less than converting to a public limited company. **[4]**
 
-**5. (a)** The bakery's input costs are similar to its rival's, but it charges a higher price because of the added value created by higher-quality ingredients and better service — added value being the difference between what a customer is willing to pay and the cost of the inputs used, which here has increased through quality and service rather than through raising price on an identical product. **[3]**
+**5.** (3.4.1 content, background for Topic 1) **(a)** The bakery's input costs are similar to its rival's, but it charges a higher price because of the added value created by higher-quality ingredients and better service — added value being the difference between what a customer is willing to pay and the cost of the inputs used, which here has increased through quality and service rather than through raising price on an identical product. **[3]**
 **(b)** Added value is calculated before overheads are deducted, so a larger gap between input cost and selling price does not automatically mean higher profit — the bakery's actual profit will also depend on its other costs, such as staff wages (including the extra staff time behind better service) and rent, which added value alone does not account for. The higher-quality ingredients are not one of these overheads: they are bought-in inputs, already deducted when added value is calculated. **[2]**
 
 **6. (a)** It states a general purpose ("grow") without being specific, measurable, achievable, realistic or time-bound, so there is no way to judge whether the objective has actually been achieved. **[2]**

@@ -98,9 +98,10 @@ Money performs four widely recognised functions: a medium of exchange (avoiding 
 barter), a unit of account (allowing prices to be compared), a store of value (allowing purchasing power
 to be held over time), and a standard for deferred payment (allowing debts to be specified in monetary
 terms). Central banks oversee a country's monetary system and typically set the base interest rate, while
-commercial banks accept deposits and make loans to households and firms -- in doing so, commercial banks
-create credit, since a loan made from deposited funds effectively increases the total money available in
-the economy beyond the original deposit.
+commercial banks accept deposits and make loans to households and firms. (Background, not required by
+0455, whose 3.1.2 asks for the role and importance of central and commercial banks for government,
+producers and consumers: in lending, commercial banks create credit, since a loan made from deposited
+funds effectively increases the total money available in the economy beyond the original deposit.)
 
 ## Worked example: a competitive market vs a monopoly
 
