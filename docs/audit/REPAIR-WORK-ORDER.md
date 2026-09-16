@@ -10,7 +10,7 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-**7 open confirmed errors → zero.** *(2026-10-16, round 9: E605, E606, E607, E615, E616, E617, E628.)*
+**0 confirmed errors declared open** *(2026-10-17, round 10). Nothing in this work order is outstanding; see §8 for what remains unverified.*
 
 > **Amended 2026-10-12 (Q374).** This order first said 658. That figure never subtracted repair
 > rounds D-138…D-191, which closed 508 of them. The list of what is actually open — 89 plain,
@@ -137,6 +137,11 @@ work order can be a document rather than a conversation.
 ---
 
 ## 8. Current specifics
+
+- **Round 10 (2026-10-17, Q386–Q387): nothing to repair.** D-232 and D-233 verified. No confirmed
+  error is declared open. The audit has read 89 of the 145 closures in D-226…D-233; the 56 unread
+  (mainly D-227's E60–E69, E109, E114, E397 and D-228's E572–E657) will be read by the audit — no
+  repair action unless that reading reopens one.
 
 - **Round 9 (2026-10-16, Q383–Q385): seven left.**
   - **E615, E616, E617, E628:** read their texts from `post_baseline_findings` in the evidence file
