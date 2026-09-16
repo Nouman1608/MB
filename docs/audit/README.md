@@ -48,6 +48,7 @@ corpus briefly ended up worse than baseline on five files — see the amendment 
 | `2026-10-21-findings.md` | Round 14: D-235 and D-236 read — **all 110 fixed; 0 confirmed errors declared open**. E451 round-12 residue corrected. I356, I357. |
 | `2026-10-22-findings.md` | Round 15: D-235's unactioned observations checked — **E912, E913** open, I358–I360, Q393. |
 | `2026-10-23-findings.md` | Round 16: D-237 read — I356, I357 fixed. E912, E913 still open. |
+| `2026-10-24-findings.md` | Round 17: D-238 read — all six round-15 items fixed; **0 confirmed errors declared open**. |
 | `2026-09-15-tier-resolution-response.md` | Cambridge 0620 tier question, resolved by coordinates. |
 | `correction-constraints.md` | **Standing rules. Start here.** |
 
@@ -131,9 +132,9 @@ finding against a snapshot that was three days old.
 
 | | |
 |---|---|
-| findings recorded | 1,703 |
-| confirmed errors open | **2** *(E912, E913, round 15; reconciliation current through **D-236**; all 110 from round 12 closed and read fixed in round 14. 515 closures in D-138…D-225 were sampled, not read. **Not a statement that the resources are correct.**)* |
-| declared closed by decision log D-138…D-236 | 846 |
+| findings recorded | 1,704 |
+| confirmed errors open | **0 declared** *(reconciliation current through **D-238**; every closure from D-226 to D-238 read and fixed. 515 closures in D-138…D-225 were sampled, not read. **Not a statement that the resources are correct.**)* |
+| declared closed by decision log D-138…D-238 | 848 |
 | still open despite a closing round (deferred, partial, disputed, heading-only, or reopened) | 0 |
 | withdrawn by this audit | 1 (E746) |
 | resources read end to end | 1,251 of 1,251 |

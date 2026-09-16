@@ -10,7 +10,7 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-**2 confirmed errors open** *(2026-10-22, round 15: E912 and E913, with I358–I360 and Q393, from checking D-235's unactioned observations; I356 and I357 from round 14. The table is in `2026-10-22-findings.md`.)*
+**0 confirmed errors declared open** *(2026-10-24, round 17: D-238 closed E912, E913, I358-I360 and Q393, and every one reads fixed on `main`.)*
 
 > **Amended 2026-10-12 (Q374).** This order first said 658. That figure never subtracted repair
 > rounds D-138…D-191, which closed 508 of them. The list of what is actually open — 89 plain,
@@ -137,6 +137,9 @@ work order can be a document rather than a conversation.
 ---
 
 ## 8. Current specifics
+
+- **Round 17 (2026-10-24, Q395): nothing to repair.** D-238 verified. Its two new observations (legacy
+  `oaqaresources` paths in `syllabus-topics.ts`; the 3247 assessment record) are unchecked leads, not findings.
 
 - **Round 16 (2026-10-23, Q394):** D-237 verified; I356 and I357 are closed. Still to repair: E912, E913,
   I358, I359, I360, Q393 (round 15).
