@@ -10,7 +10,7 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-**0 confirmed errors declared open** *(2026-10-17, round 10). Nothing in this work order is outstanding; see §8 for what remains unverified.*
+**110 confirmed errors open** *(2026-10-19, round 12: 101 declared closures in D-138…D-225 reopened, and 9 new errors E903…E911 introduced by repairs. The list with evidence is in `2026-10-19-findings.md`.)*
 
 > **Amended 2026-10-12 (Q374).** This order first said 658. That figure never subtracted repair
 > rounds D-138…D-191, which closed 508 of them. The list of what is actually open — 89 plain,
@@ -137,6 +137,15 @@ work order can be a document rather than a conversation.
 ---
 
 ## 8. Current specifics
+
+- **Round 12 (2026-10-19, Q389): 110 to repair.** The audit read the 692 closures D-138…D-225 declare.
+  101 are not fixed and are reopened; the evidence for each (file and line on `main`) is tabled in
+  `2026-10-19-findings.md`. Nine new confirmed errors, E903…E911, were introduced by repairs whose
+  findings stay closed — six are science errors (E903…E908: chirality, H⁺ in electrolysis,
+  halide solubility, third-law pair, centrioles, root hair glucose), one is seven tariff mismatches (E909),
+  one is practice-paper apparatus contradicting its questions (E910), one is misstated assessment structure (E911).
+  When a correction is applied, search the family and the frontmatter for the same wording, and re-add every
+  tariff the edit touches: most reopenings are a missed sibling, description or self-test.
 
 - **Round 11 (2026-10-18, Q388):** the audit has now read all 147 closures in D-226…D-233 on `main`;
   all are fixed. Nothing to repair.
