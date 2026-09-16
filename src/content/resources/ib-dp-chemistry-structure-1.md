@@ -35,9 +35,9 @@ arithmetic, so treat it as a skill to over-learn rather than a topic
 revised once and set aside. Structure 1 is mostly SL-depth content
 shared between SL and HL students, but it carries 4 hours of HL-only
 extension: one additional hour in 1.2 on interpreting mass spectra,
-and three additional hours in 1.3 on ionisation energy from the
-convergence limit of spectral lines and successive ionisation
-energies — do not assume the whole component is SL-only just because
+and three additional hours in 1.3 on first ionisation energy (its
+trends and discontinuities, and its value from the convergence limit
+of spectral lines) and successive ionisation energies — do not assume the whole component is SL-only just because
 most of it is shared.
 
 ## Syllabus coverage
@@ -55,8 +55,11 @@ formation
 quantised energy levels; energy levels, sub-levels (s, p, d and f) and
 orbitals; the aufbau principle, Pauli exclusion principle and Hund's
 rule together; the chromium and copper exceptions; at HL only (1.3.6-1.3.7),
-ionisation energy from the convergence limit of the emission spectrum,
-and successive ionisation energies
+the trends and discontinuities in first ionisation energy across a
+period and down a group, first ionisation energy from the convergence
+limit of the emission spectrum, and successive ionisation energies
+(the periodicity of ionisation energy is also SL content, in Structure
+3.1.3)
 - **1.4 Counting particles by mass: the mole** — the mole and the
 Avogadro constant; molar mass; empirical and molecular formulae;
 concentration and molar volume
@@ -145,6 +148,13 @@ These are the HL-only extensions named above: the extensions to 1.2 (one additio
   Peaks: m/z 24 (79%), m/z 25 (10%), m/z 26 (11%)   -> magnesium
   Ar = (24 x 79 + 25 x 10 + 26 x 11) / 100 = 2432 / 100 = 24.32
   ```
+
+- **Trends and discontinuities in first ionisation energy (1.3, HL).** First ionisation energy
+  generally increases across a period (greater nuclear charge, similar shielding) and decreases down
+  a group (outer electron further from the nucleus, more shielding). The discontinuities come from
+  sub-levels: it falls from group 2 to group 13 (the electron is removed from a higher-energy p
+  sub-level) and from group 15 to group 16 (the electron is removed from a doubly occupied p orbital,
+  where electron-electron repulsion makes it easier to remove).
 
 - **Ionisation energy from the convergence limit (1.3, HL).** At the convergence limit of the
   hydrogen emission spectrum the electron is removed completely, so the photon energy there is the

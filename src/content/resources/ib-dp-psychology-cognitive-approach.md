@@ -142,9 +142,9 @@ explicitly which approach a given point belongs to. Apply the
 cognitive approach's key concepts -- schema, reconstructive memory,
 information-processing -- to a novel scenario, not just a memorised
 study, since Paper 1 questions are frequently framed around an unseen
-context. Prepare at least one worked cross-approach comparison in
-advance, since improvising one under exam conditions from separately
-memorised facts is far harder than adapting a rehearsed one.
+context. As revision practice, work through at least one cross-approach
+comparison of the same topic: it sharpens which points belong to the
+cognitive approach, which is what a single-approach answer needs.
 
 ## Common mistakes
 

@@ -74,7 +74,8 @@ five official sub-topics.
   than following the 3d⁴4s² / 3d⁹4s² pattern the aufbau order alone would predict.
 - The link between an element's electron configuration -- specifically its valence electrons --
   and its position in the periodic table (group and period).
-- **Ionisation energy** (HL only, Structure 1.3.6; the SL 1.3 content stops at orbitals): the energy needed to remove one mole of electrons from one mole of
+- **Ionisation energy** (HL only in Structure 1.3, as 1.3.6; the SL 1.3 content stops at orbitals,
+  although the periodicity of ionisation energy is SL content in Structure 3.1.3): the energy needed to remove one mole of electrons from one mole of
   gaseous atoms (or ions) in their ground state. First ionisation energy generally increases across
   a period (greater nuclear charge, similar shielding) and decreases down a group (outer electron
   further from the nucleus, more shielding) -- the same reasoning used for reactivity trends

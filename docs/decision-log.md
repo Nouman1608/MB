@@ -11820,3 +11820,20 @@ None. No existing resource or data-layer record was edited.
 **Validation.** All pass: `astro check` 0 errors; `validate:academic`; `validate-assessments`; `validate-cross-board-integrity`; build 2141 pages; `audit:all` 0 problems; cross-board regression; negative suite; API tests 31/31. `check-duplicate-resource-scope`: the four pre-existing groups only.
 
 **Open-count position after D-242.** Round 20 leaves E920, E921 and I369 for repair; all 19 items are closed here. D-241's 191 closures and 3 remaining disputes (I363.21 and I363.11 withdrawn by the audit; I363.10 upheld; I366.4, I366.5 outstanding) await the audit's read. Confirmed errors declared open: 0.
+
+## D-243 - Audit round 21 (Q402): I370 closed; D-241's I365.18 change corrected against the IB guide (2026-09-16)
+
+**Trigger.** Round 21 (`docs/audit/2026-10-28-findings.md`, `5da1cd7`) verified D-241: 190 of 195 items fixed, I363.38 partly, and all four disputes (I363.10, I363.21, I366.4, I366.5) upheld as audit errors. It recorded I370 (two residuals). D-242 (round 20) was pushed after round 21 was published, rebased onto `5da1cd7` as `784ca7d`.
+
+**Primary source.** IB Diploma Programme Chemistry guide, first assessment 2025 (89 pp.), read in a browser at the ibo.org origin (`/globalassets/new-structure/university-admission/pdfs/subject-guides/chemistry-guide.pdf`, same-origin fetch and pdf.js; no challenge). Additional higher level, Structure 1.3.6: "In an emission spectrum, the limit of convergence at higher frequency corresponds to ionization. Explain the trends and discontinuities in first ionization energy (IE) across a period and down a group. Calculate the value of the first IE from spectral data that gives the wavelength or frequency of the convergence limit." Structure 1.3.7: "Successive ionization energy (IE) data for an element give information about its electron configuration. Deduce the group of an element from its successive ionization data." SL Structure 3.1.3: "Explain the periodicity of atomic radius, ionic radius, ionization energy, electron affinity and electronegativity."
+
+### Closed
+
+| Item | Files | What changed / verified |
+|---|---|---|
+| I370.1 | `ib-dp-psychology-cognitive-approach.md` | The closing 'How to approach it' sentence no longer implies the exam asks for a comparison: a cross-approach comparison is now revision practice that sharpens which points belong to the cognitive approach, matching the single-approach rule in the section D-241 rewrote. |
+| I370.2 | `ib-dp-chemistry-structure-1.md`; `ib-dp-chemistry-structure-1-revision-notes.md` | **Closed by correcting the guide, not the notes; the finding's fix would have introduced an error.** AHL 1.3.6 (quoted above) puts the trends and discontinuities in first ionisation energy in the HL extension of Structure 1.3, so the revision notes' 'HL only, Structure 1.3.6' was right. D-241's I365.18 edit had removed first-IE trends from the guide's HL list. The guide's intro, coverage bullet and HL section now give 1.3.6 in full (trends and discontinuities, with a new bullet explaining the group 2→13 and 15→16 discontinuities, and the convergence-limit calculation) and 1.3.7, and note that the periodicity of ionisation energy is also SL content in Structure 3.1.3. The notes gain the same Structure 3.1.3 qualifier. |
+
+**Validation.** `astro check` 0 errors; `validate:academic`; build 2141 pages; `audit:all` 0 problems; cross-board regression; API tests 31/31.
+
+**Open-count position after D-243.** Round 21 leaves E920, E921 (closed by D-242, not yet read) and I370 (closed here). Confirmed errors declared open: 0.
