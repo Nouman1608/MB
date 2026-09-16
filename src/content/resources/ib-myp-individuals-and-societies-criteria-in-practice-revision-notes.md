@@ -38,11 +38,13 @@ unfamiliar trade route they had not specifically studied.
 ## Criterion B: Investigating
 
 Top-band evidence develops a systematic research question and process, working both independently and
-collaboratively, and evaluates the reliability and relevance of a range of sources rather than
-accepting the first sources found without scrutiny.
+collaboratively. The public subject brief gives only a one-line description of each criterion, so it
+does not settle which criterion's strands assess source evaluation; check the strand-level descriptors
+in your school's copy of the subject guide. As general good practice, a strong investigation does not
+accept the first sources found without scrutiny.
 
-**Worked example:** A lower-band investigation into a local environmental issue might use only one or
-two easily found sources without comment on their reliability. Top-band Criterion B evidence poses a
+**Worked example:** A weaker investigation into a local environmental issue might use only one or
+two easily found sources without comment on their reliability. A stronger one poses a
 clear, specific research question, consults a genuine range of source types (e.g. a government report,
 a news article, a firsthand community account), and explicitly evaluates each source's reliability and
 relevance to the specific research question before drawing conclusions from them.
@@ -76,13 +78,12 @@ supports, rather than presenting one interpretation as simply correct without co
 
 A well-designed unit -- for example, a local-issue investigation combining history and geography --
 naturally generates evidence for all four criteria in one connected piece of work: the conceptual
-knowledge needed to frame the issue (Criterion A), the process of researching and evaluating sources
-about it (Criterion B), the structured, properly referenced write-up of findings (Criterion C), and a
+knowledge needed to frame the issue (Criterion A), the process of researching it (Criterion B), the structured, properly referenced write-up of findings (Criterion C), and a
 final critical evaluation weighing different perspectives on the issue (Criterion D). Revising each
 criterion as an entirely separate skill, disconnected from how a real investigation actually unfolds,
 risks missing how naturally the four build on each other within a single piece of coursework -- strong
-Criterion D evaluation, for instance, is only possible once Criterion B's source evaluation has
-already surfaced more than one perspective to weigh.
+Criterion D evaluation, for instance, is only possible once the Criterion B research has already
+gathered more than one perspective to weigh.
 
 ## Why these four criteria reward disciplinary variety, not a single fixed method
 
@@ -90,13 +91,13 @@ Because "individuals and societies" spans multiple disciplines (history, geograp
 others depending on how a school structures the course), the four criteria are deliberately written
 broadly enough to apply across all of them -- a genuinely investigative geography fieldwork task and a
 genuinely investigative historical source-evaluation task can both generate strong Criterion B evidence
-despite using very different specific methods, provided each demonstrates the same underlying
-systematic, source-critical approach the criterion actually assesses.
+despite using very different specific methods, provided each follows a systematic research question
+and process.
 
 ## Self-test
 
 1. What must top-band Criterion A evidence demonstrate beyond stating accurate facts?
-2. Why is using only one or two unevaluated sources insufficient for top-band Criterion B evidence?
+2. Why is using only one or two unevaluated sources a weakness in an investigation?
 3. What distinguishes top-band Criterion C communication from an accurate but unstructured list of
    facts?
 4. What must top-band Criterion D evidence include beyond a single interpretation presented as
@@ -105,14 +106,15 @@ systematic, source-critical approach the criterion actually assesses.
    evaluation) both generate strong Criterion B evidence?
 
 **Answers:** 1. Applying that factual and conceptual knowledge accurately to explain or analyse an
-unfamiliar context, using discipline-appropriate terminology precisely. 2. Because top-band evidence
-requires evaluating the reliability and relevance of a genuine range of source types, not simply
-citing whatever sources were easiest to find. 3. A clear, appropriate structure with properly
+unfamiliar context, using discipline-appropriate terminology precisely. 2. Because a strong
+investigation evaluates the reliability and relevance of a genuine range of source types, not simply
+citing whatever sources were easiest to find (general good practice; check your school's copy of the
+subject guide for which criterion strand assesses it). 3. A clear, appropriate structure with properly
 referenced sources and consistent, accurate use of subject-specific terminology, rather than a
 chronological or unstructured presentation of facts. 4. Explicit consideration of more than one
 perspective or interpretation, with an evaluation of their relative strengths and weaknesses leading
-to a substantiated conclusion. 5. Because the criteria assess an underlying systematic, source-critical
-approach that is common across disciplines, even though the specific methods and content each
+to a substantiated conclusion. 5. Because the criterion rewards a systematic research question and
+process, which is common across disciplines, even though the specific methods and content each
 discipline uses differ substantially.
 
 ## Official syllabus

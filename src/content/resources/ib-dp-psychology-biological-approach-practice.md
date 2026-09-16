@@ -12,7 +12,7 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-biological-approach"
-description: "Original practice questions with full worked answers covering physiology, neurochemistry and genetics, for the compulsory core Biological approach of IB Diploma Programme Psychology."
+description: "Original practice questions with full worked answers covering the brain and behaviour, hormones and pheromones, genetics and behaviour, and (HL only) animal research, for the compulsory core Biological approach of IB Diploma Programme Psychology."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
@@ -37,7 +37,7 @@ and the [IB DP Psychology syllabus guide](/resources/ib-dp-psychology-syllabus-g
 
 ## Section A
 
-**1.** State the three main areas of study within the biological approach. **[3]**
+**1.** State the three topics of the biological approach that are studied at both SL and HL. **[3]**
 
 **2.** Define "concordance rate" as used in twin studies. **[2]**
 
@@ -63,7 +63,7 @@ and the [IB DP Psychology syllabus guide](/resources/ib-dp-psychology-syllabus-g
 
 ## Worked answers
 
-**1.** Physiology, neurochemistry and genetics. **[3]**
+**1.** The relationship between the brain and behaviour **[1]**; hormones and pheromones and their effects on behaviour **[1]**; the relationship between genetics and behaviour **[1]**. (HL students also study a fourth topic, the role of animal research in understanding human behaviour; it earns no marks here.) **[3]**
 
 **2.** Concordance rate is the percentage of twin pairs in which both twins share a particular trait or behaviour, used to estimate the degree of similarity between twins for that characteristic. **[2]**
 
@@ -77,12 +77,15 @@ and the [IB DP Psychology syllabus guide](/resources/ib-dp-psychology-syllabus-g
 
 **6.** Strength: brain imaging provides objective, quantifiable data about brain structure or activity, reducing reliance on self-report or subjective observation. **[2]** Limitation: brain imaging typically shows correlation between brain activity and a task or behaviour, not causation, and scanning conditions (e.g. lying still in a scanner) may not reflect how the brain behaves in natural, everyday settings, limiting ecological validity. **[2]**
 
-**7.** A strong answer would define the biological approach's core claim (behaviour explained via physiology, neurochemistry and genetics) and support it with a named study or theory, such as twin study evidence for a genetic contribution to a specific trait, or a neurochemical explanation for a behaviour such as stress or motivation. Strengths to raise: objective, often quantifiable evidence (e.g. brain scans, hormone assays); biological explanations can be tested and often replicated using standardised measures; some biological interventions (e.g. drug treatments derived from neurochemical theories) have demonstrable real-world efficacy, which is itself evidence for the underlying explanation's validity. Limitations to raise: biological studies are frequently correlational, so causal claims often go beyond what the evidence supports; biological explanations alone cannot account for all variation in behaviour, since cognitive and sociocultural factors (such as schema, culture, and social context) clearly also shape behaviour, as the syllabus's own three-approach structure implies; reductionism -- explaining complex behaviour purely at the biological level risks oversimplifying phenomena that involve cognitive and social processes too. A well-rounded discussion should conclude that the biological approach offers valuable and often rigorous evidence, but the claim that it is the "most complete" explanation overstates its scope, since the syllabus itself frames it as one of three complementary approaches rather than a standalone, sufficient account of behaviour. **[9]** (Marks awarded across accurate description of approach and named study, balanced evaluation with genuine strengths and limitations, and a reasoned conclusion addressing the claim directly.)
+**7.** A strong answer would define the biological approach's core claim (behaviour explained through the brain, hormones and pheromones, and genetics) and support it with a named study or theory, such as twin study evidence for a genetic contribution to a specific trait, or a neurochemical or hormonal explanation for a behaviour such as stress or motivation. Strengths to raise: objective, often quantifiable evidence (e.g. brain scans, hormone assays); biological explanations can be tested and often replicated using standardised measures; some biological interventions (e.g. drug treatments derived from neurochemical theories) have demonstrable real-world efficacy, which is itself evidence for the underlying explanation's validity. Limitations to raise: biological studies are frequently correlational, so causal claims often go beyond what the evidence supports; biological explanations alone cannot account for all variation in behaviour, since cognitive and sociocultural factors (such as schema, culture, and social context) clearly also shape behaviour, as the syllabus's own three-approach structure implies; reductionism -- explaining complex behaviour purely at the biological level risks oversimplifying phenomena that involve cognitive and social processes too. A well-rounded discussion should conclude that the biological approach offers valuable and often rigorous evidence, but the claim that it is the "most complete" explanation overstates its scope, since the syllabus itself frames it as one of three complementary approaches rather than a standalone, sufficient account of behaviour. **[9]** (Marks awarded across accurate description of approach and named study, balanced evaluation with genuine strengths and limitations, and a reasoned conclusion addressing the claim directly.)
 
-## Why question 7 is weighted so heavily
+## Why question 7 carries the most marks
 
-Question 7 is written at Paper 1 essay length and mark value because that single essay question is the
-paper's main test of the skill the revision notes identify as decisive: evaluation, not description.
+Question 7 uses an essay-style "discuss" prompt because Paper 1's essay is the paper's main test of the
+skill the revision notes identify as decisive: evaluation, not description. It is **not** set at Paper 1
+essay length or mark value. On the real Paper 1 (first assessment 2019), each of the three short-answer
+questions in Section A is worth 9 marks and the Section B essay is worth 22 marks, so treat question 7
+as a shorter rehearsal of the essay's evaluative skill rather than a full-length essay.
 Every other question in this set builds towards the two-part habit the notes recommend -- naming a
 mechanism and then explaining what behaviour it accounts for, or naming a finding and then evaluating
 it -- so that by question 7, a student who has worked through Sections A and B has already rehearsed

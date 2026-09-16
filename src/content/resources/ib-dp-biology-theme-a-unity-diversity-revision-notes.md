@@ -76,10 +76,13 @@ material, with no independent metabolism, entirely reliant on host-cell machiner
 
 ## Diversity of organisms
 
-Classification and the diversity of life, and the practical challenge of grouping millions of
-species sensibly. At SL, this covers the logic of classification systems and why any classification
-scheme has to balance being detailed enough to be useful against being simple enough to apply
-consistently.
+Variation and how species are recognised and named (A3.1) -- not the building of classification
+schemes, which is the HL-only sub-topic below. Revise: variation between organisms as a defining
+feature of life and the basis for naming and classifying organisms; species as groups of organisms
+with shared traits; the binomial system (genus then species, e.g. *Homo sapiens*); the biological
+species concept (organisms that can interbreed to produce fertile offspring); why populations that do
+not interbreed can be hard to distinguish from species as they diverge; diversity in chromosome
+numbers of plant and animal species; karyotyping and karyograms; and genome diversity.
 
 ## Classification and cladistics (HL only)
 

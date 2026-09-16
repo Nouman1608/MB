@@ -88,12 +88,14 @@ five official sub-topics.
 - Molar mass (M) and its use to convert between mass, moles and number of particles.
 - Empirical and molecular formulae, and determining them from percentage composition or
   combustion data.
-- Concentration of solutions (mol dm⁻³) and molar volume of a gas at standard conditions.
+- Concentration of solutions (mol dm⁻³).
 
 ## 1.5 Ideal gases
 
 - The ideal gas model's assumptions (negligible particle volume, no intermolecular forces,
   elastic collisions) and where real gases deviate from it.
+- The molar volume of an ideal gas, a constant at a specific temperature and pressure (for example
+  at STP).
 - The combined and ideal gas equations (pV = nRT), and using them to relate pressure, volume,
   temperature and moles of gas.
 - Standard temperature and pressure (STP) conventions used in gas calculations.

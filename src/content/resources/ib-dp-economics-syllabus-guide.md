@@ -114,9 +114,11 @@ total teaching time at both SL and HL). Standard Level candidates sit
 **two** external papers (Paper 1 and Paper 2, three hours in total,
 worth 70% of the SL grade); Higher Level candidates sit a **third**
 paper, Paper 3 (a policy paper), taking external assessment to four
-hours forty-five minutes and 80% of the HL grade. The external papers test
-definitions, diagram construction, short-answer application and
-extended essay-style evaluation -- Economics is graded heavily on
+hours forty-five minutes and 80% of the HL grade. The papers differ in
+kind: Paper 1 is an extended response paper (one question from a choice
+of three, in two parts: part (a), worth 10 marks, and part (b), worth 15 marks);
+Paper 2 is the data response paper; and HL Paper 3 is the policy paper.
+Economics is graded heavily on
 evaluation (weighing up arguments, not just describing them), which is
 worth practising deliberately rather than assuming it follows
 automatically from knowing the content.

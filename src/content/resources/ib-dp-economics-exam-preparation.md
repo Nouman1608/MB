@@ -22,8 +22,10 @@ with a worked scenario and a checklist.
 
 ## Papers 1 and 2 (SL: three hours total, 70% of the grade)
 
-Both papers test definitions, diagram construction, short-answer application and extended
-essay-style evaluation. Because Economics is graded heavily on **evaluation** -- weighing up
+The two papers are different in kind. **Paper 1** (1 hour 15 minutes, 25 marks) is an extended
+response paper: you answer one question from a choice of three, in two parts -- part (a), worth 10
+marks, and part (b), worth 15 marks. **Paper 2** is the data response paper, built around data
+provided in the paper. Because Economics is graded heavily on **evaluation** -- weighing up
 arguments, not just describing them -- the highest-value exam preparation is not re-reading
 definitions that are already secure, but deliberately practising argument-and-counter-argument
 paragraphs: state a position, support it with theory and a diagram, then weigh a genuine
@@ -49,7 +51,7 @@ only revising Paper 3 content the same way as Papers 1 and 2.
 
 ## Worked practice scenario: building an evaluate-style answer
 
-A Paper 2-style question asks: "Evaluate the view that indirect taxes are an effective way to
+An evaluate-style question asks: "Evaluate the view that indirect taxes are an effective way to
 correct the market failure caused by a negative production externality."
 
 ```

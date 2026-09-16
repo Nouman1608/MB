@@ -49,17 +49,21 @@ buffer solutions
 - **3.2 Electron transfer reactions** — redox chemistry (oxidation is
 loss of electrons, reduction is gain — OIL RIG); oxidation states;
 half-equations; the reactivity series; electrochemical cells (voltaic,
-electrolytic, fuel cells) and electrochemical data for predicting
-spontaneity
+electrolytic, fuel cells); at HL, extends to standard electrode
+potentials (with the standard hydrogen electrode assigned zero by
+convention) and cell potentials for predicting spontaneity
 - **3.3 Electron sharing reactions** — radical chemistry: homolytic
 fission and free-radical substitution built from initiation,
 propagation and termination stages, shown using half-headed
 (single-barbed) arrows
 - **3.4 Electron-pair sharing reactions** — organic reaction
 mechanisms built on shared electron pairs: nucleophilic and
-electrophilic behaviour, Lewis acid-base reactions, coordination bonds
-and transition-element complex formation, shown using full curly
-arrows
+electrophilic behaviour, shown using full curly arrows; at HL, extends
+to Lewis acid-base theory (a Lewis acid is an electron-pair acceptor, a
+Lewis base an electron-pair donor) applied to inorganic and organic
+chemistry, including the formation of transition-element complexes
+(identifying coordination bonds is standard level content, in
+Structure 2.2.3; transition-element complexes are HL)
 
 ## How to approach it
 
@@ -115,8 +119,9 @@ to occur (electrolysis), meaning energy must be supplied rather than
 released. A **fuel cell** generates a current directly and continuously
 from an external supply of fuel (such as hydrogen) and an oxidant,
 without storing the reactants internally the way a battery does.
-Electrochemical data (standard electrode or cell potentials) is used
-to predict spontaneity: a positive overall cell potential indicates a
+At HL only, electrochemical data (standard electrode or cell
+potentials) is used to predict spontaneity: a positive overall cell
+potential indicates a
 spontaneous reaction under standard conditions, which is the
 calculation that determines whether a described cell is behaving as a
 voltaic cell or would require external current to run as an

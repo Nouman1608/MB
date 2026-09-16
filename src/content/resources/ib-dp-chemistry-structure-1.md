@@ -62,9 +62,11 @@ limit of the emission spectrum, and successive ionisation energies
 3.1.3)
 - **1.4 Counting particles by mass: the mole** — the mole and the
 Avogadro constant; molar mass; empirical and molecular formulae;
-concentration and molar volume
+concentration
 - **1.5 Ideal gases** — the ideal gas model's assumptions and where
-real gases deviate from it; the combined and ideal gas equations
+real gases deviate from it; the molar volume of an ideal gas, a
+constant at a specific temperature and pressure; the combined and
+ideal gas equations
 (pV = nRT)
 
 ## How to approach it

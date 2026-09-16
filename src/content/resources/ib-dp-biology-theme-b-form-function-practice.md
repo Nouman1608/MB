@@ -49,8 +49,8 @@ identical DNA but produce very different sets of proteins.
 
 **5.** A student is asked to explain why alveoli are efficient gas exchange surfaces.
 
-**(a)** Name two structural features shared by efficient gas exchange surfaces. **[2]**
-**(b)** For each feature named, explain why it increases the rate of diffusion. **[2]**
+**(a)** Name two properties shared by efficient gas-exchange surfaces. **[2]**
+**(b)** For each property named, explain why it increases the rate of diffusion. **[2]**
 
 **6.** Explain why dividing a eukaryotic cell into membrane-bound compartments (organelles) is
 functionally useful, giving two distinct reasons. **[2]**
@@ -88,10 +88,13 @@ skin cell produce different proteins despite an identical genome [1].
 **(b)** Differentiation occurs through differences in which genes are expressed, not through cells
 gaining or losing genetic material [1].
 
-**5. (a)** Any two of: large surface area, thin barrier, good blood supply, ventilation [2].
+**5. (a)** Any two of: permeability, thin tissue layer, moisture, large surface area [2]. (Blood
+supply and ventilation are not properties of the surface; they maintain the concentration gradient
+across it, so they do not answer this part.)
 **(b)** For example: a large surface area provides more area across which diffusion can occur
-simultaneously [1]; a thin barrier shortens the diffusion distance the gas must travel [1]. (A good
-blood supply or ventilation maintaining a steep concentration gradient would also gain credit.)
+simultaneously [1]; a thin tissue layer shortens the diffusion distance the gas must travel [1]. (Also
+creditable, one mark each: moisture lets gases dissolve before diffusing across; permeability lets
+oxygen and carbon dioxide pass through the surface.)
 
 **6.** Compartmentalization allows chemically incompatible processes to occur simultaneously in
 separate parts of the cell [1], and allows each organelle to maintain the specific internal conditions

@@ -20,9 +20,10 @@ structure below is drawn directly from the same official IB Physics guide used t
 [full syllabus guide](/resources/ib-dp-physics-syllabus-guide/) and this site's assessment records:
 Paper 1 (multiple-choice with short data-based questions, SL 90 minutes/45 marks/36%, HL 120
 minutes/60 marks/36%, calculator and data booklet permitted), Paper 2 (short-and-extended-response
-questions, SL 90 minutes/50 marks/44%, HL 150 minutes/90 marks/44%, calculator and data booklet
+questions, SL 90 minutes/55 marks/44%, HL 150 minutes/90 marks/44%, calculator and data booklet
 permitted), and an internally assessed scientific investigation (24 marks, 20%, marked against 4
-criteria worth 6 marks each, externally moderated). These notes turn that structure into an exam-day
+criteria worth 6 marks each -- research design, data analysis, conclusion and evaluation --
+externally moderated). These notes turn that structure into an exam-day
 plan.
 
 ## Paper 1: data-based questions sit alongside pure recall multiple-choice
@@ -56,10 +57,9 @@ data-based questions and extended responses that carry most of the marks.
 
 ## The internal assessment: reducing and evaluating uncertainty is a distinct skill
 
-The investigation is graded against 4 equally weighted criteria (24 marks total, 20% of the final
-grade): the theoretical framing of the investigation, the quality of the experimental design, the
-accurate recording and processing of data (including uncertainty), and a critical evaluation of the
-method and results. **Exam-preparation priority**: because identifying and reducing sources of
+The investigation is graded against 4 equally weighted criteria, each worth 6 marks (24 marks total,
+20% of the final grade): **research design**, **data analysis**, **conclusion** and **evaluation**.
+**Exam-preparation priority**: because identifying and reducing sources of
 uncertainty is examined directly in the written papers as well as in the IA, practising uncertainty
 estimation from given data -- not just recalling it as an IA-only skill -- strengthens both.
 

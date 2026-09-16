@@ -12,7 +12,7 @@ order: 2
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-computer-science-theme-a"
-description: "Computer fundamentals, networks, databases and machine learning -- the four sub-topics of Theme A for IB Diploma Programme Computer Science, first assessment 2027, and how Theme A is tested through Paper 1 and the pre-released case study."
+description: "Computer fundamentals, networks, databases (including SQL queries) and machine learning -- the four sub-topics of Theme A for IB Diploma Programme Computer Science, first assessment 2027, and how Theme A is tested through Paper 1 and the pre-released case study."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
@@ -57,9 +57,15 @@ decentralised architecture
 rather than flat files (reducing redundancy, preserving integrity,
 controlling access); the relational model (tables, records, fields,
 primary and foreign keys) and how relationships between tables are
-represented; querying data conceptually, independent of any one query
-language, to retrieve, filter and combine information across related
-tables
+represented; and database programming in SQL, which is required
+content at both SL and HL -- the difference between SQL's data
+definition and data manipulation language types, constructing queries
+between two tables (joins, relational operators, filtering, pattern
+matching and ordering, using commands such as SELECT, DISTINCT, FROM,
+WHERE, BETWEEN, ORDER BY, GROUP BY, HAVING, ASC, DESC, JOIN, LIKE with
+the % wildcard, AND, OR and NOT; exact syntax can vary between database
+systems), and how SQL is used to update data in a database. HL students
+also study alternative databases and data warehouses
 - **A.4 Machine learning** — the distinction between traditional
 rule-based programming and machine learning, where a system derives
 its own rules from data; core concepts including training data,
@@ -73,7 +79,8 @@ content rather than an optional add-on
 
 Because Theme A is largely descriptive and conceptual rather than
 programming-based, the skill being tested is usually explanation of
-mechanism or evaluation of a design choice, not writing code — a
+mechanism or evaluation of a design choice, not writing code (the
+exception is A.3, where you must be able to construct SQL queries) — a
 strong A.1 answer on the fetch-execute cycle explains what each stage
 actually does to data in the registers, not just names the stages in
 sequence. Students sometimes over-invest revision time in Theme B
@@ -83,8 +90,9 @@ study, so under-revising A.1–A.4 leaves real marks on the table
 independently of programming ability. Because the case study is
 pre-released, practise applying each of the four sub-topics directly
 to its specific scenario rather than revising Theme A only in the
-abstract, since three of Paper 1's questions are built around that
-case study specifically.
+abstract, since Paper 1 gives the case study its own section (Section
+B, short-response questions linked to the pre-seen case study),
+alongside Section A's extended-response questions on Theme A.
 
 ## Worked example: applying A.3 to an unfamiliar scenario
 
@@ -109,9 +117,26 @@ Result:                borrower details are stored once, referenced
                        relational model applied directly to the
                        case-study scenario, not just defined in the
                        abstract
+
+Query (SQL):           list each loan for borrowers whose surname
+                       begins with "Mc", earliest due date first
+                       (Borrowers holds a Surname field; Loans holds
+                       BookTitle and DueDate fields)
+
+SELECT Borrowers.Surname, Loans.BookTitle, Loans.DueDate
+FROM Borrowers
+JOIN Loans ON Borrowers.BorrowerID = Loans.BorrowerID
+WHERE Borrowers.Surname LIKE 'Mc%'
+ORDER BY Loans.DueDate ASC;
 ```
 
-This is the pattern Theme A exam questions typically reward: naming
+The query shows why the key design matters for A.3's SQL content: the
+JOIN matches each loan to its borrower through the foreign key, WHERE
+with LIKE and the % wildcard filters by a pattern, and ORDER BY ... ASC
+sorts the result -- the kind of two-table query A.3 requires you to
+construct.
+
+The relational fix is the pattern Theme A exam questions typically reward: naming
 the specific concept (here, the relational model and the
 primary/foreign key relationship) and applying it to the specific
 detail given in the scenario, rather than defining the concept in
@@ -137,6 +162,9 @@ vocabulary (client, server, protocol) in exam answers.
   cycle.
 - Know the relational model well enough to redesign a flat-file
   scenario into related tables with primary and foreign keys.
+- Be able to write SQL queries between two tables (JOIN, WHERE,
+  BETWEEN, LIKE with %, ORDER BY) and explain how SQL is used to
+  update data.
 - Learn at least two ethical issues machine learning applications can
   raise, alongside the technical concepts of A.4.
 - Revise A.1–A.4 directly against the pre-released case study, not

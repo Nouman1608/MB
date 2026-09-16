@@ -64,7 +64,8 @@ technique, is what separates strong from adequate answers in this component.
 
 ## Genre and form across literary types
 
-Because this course's reading list spans novels, poetry and drama, revise this component's key terms
+The course's works are selected across the literary forms defined on the IB's prescribed reading
+list -- fiction, non-fiction, poetry and drama -- so revise this component's key terms
 separately for each form rather than assuming they transfer directly: narrative voice and structure
 apply differently to a novel than to a poem's speaker, and dramatic structure (staging, dialogue,
 dramatic irony) introduces performance-specific considerations neither prose nor poetry share.
@@ -98,7 +99,8 @@ governing idea that should shape the whole analysis.
 
 - For each studied work, identify at least one specific technique and explain its effect on how a
   reader constructs meaning, not just what it is called.
-- Keep separate technique vocabulary for prose, poetry and drama rather than one undifferentiated list.
+- Keep separate technique vocabulary for prose (fiction and non-fiction), poetry and drama rather than
+  one undifferentiated list.
 - Practise explaining how meaning might shift or develop for a reader across a text, not just at a
   single fixed point.
 
@@ -117,7 +119,7 @@ component as isolated content to be recalled on its own.
    Language and Literature's version?
 3. Give one form-specific consideration relevant to drama that does not apply to prose.
 4. What separates a strong answer on technique from an adequate one?
-5. Name the three literary forms this component's vocabulary must be adapted across.
+5. Name the four literary forms defined on the IB's prescribed reading list.
 
 **Answers:** 1. That interpretation is an active process — different readers can build genuinely
 different, defensible meanings from a writer's choices, rather than there being one meaning simply
@@ -125,4 +127,4 @@ transmitted to a passive reader. 2. Because this course studies literary works e
 teaching time within this component goes into literary technique rather than being split with
 non-literary text types. 3. Staging, dialogue and dramatic irony — considerations specific to a work
 being performed. 4. Explaining the effect a named technique has on how the reader constructs meaning,
-rather than simply identifying that the technique is present. 5. Prose, poetry, and drama.
+rather than simply identifying that the technique is present. 5. Fiction, non-fiction, poetry and drama.

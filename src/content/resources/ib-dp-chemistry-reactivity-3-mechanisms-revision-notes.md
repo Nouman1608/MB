@@ -67,8 +67,9 @@ cells** convert chemical energy to electrical energy or vice versa: a **voltaic 
 uses a spontaneous redox reaction to generate a current, an **electrolytic cell** uses an external
 current to force a non-spontaneous redox reaction (electrolysis), and a **fuel cell** generates a
 current directly from the continuous supply of a fuel (such as hydrogen) and an oxidant, without
-storing the reactants internally. **Electrochemical data** (standard electrode/cell potentials) is
-used to predict whether a redox reaction is spontaneous: a positive overall cell potential indicates
+storing the reactants internally. **At HL only**, **electrochemical data** (standard electrode/cell
+potentials, with the standard hydrogen electrode assigned zero by convention) is used to predict
+whether a redox reaction is spontaneous: a positive overall cell potential indicates
 a spontaneous reaction under standard conditions. This sub-topic connects directly to Structure 2's
 ionic and metallic bonding models -- electron transfer only makes sense once you can already picture
 electrons as things atoms genuinely gain, lose or share, which is exactly what Structure 2
@@ -87,14 +88,18 @@ since exam questions often ask for a named stage rather than the whole mechanism
 ## Reactivity 3.4 -- Electron-pair sharing reactions
 
 Organic reaction mechanisms built on shared electron pairs -- the syllabus's most mechanism-heavy
-sub-topic, covering nucleophilic and electrophilic behaviour in organic reactions, together with
-Lewis acid-base reactions, coordination bonds and the formation of transition-element complexes,
-which are also electron-pair-sharing processes. A nucleophile donates an electron pair to form a
+sub-topic, covering nucleophilic and electrophilic behaviour in organic reactions. A nucleophile donates an electron pair to form a
 new bond; an electrophile accepts one. Revise by being able to identify, in a given organic
 reaction, which species is acting as the nucleophile and which as the electrophile, and to draw the
 curly-arrow mechanism showing electron-pair movement from the nucleophile to the electrophile. This
 is where Structure 3.2's functional-group classification comes in directly -- you cannot predict a
 mechanism without first correctly identifying the functional group involved.
+
+**At HL**, Reactivity 3.4
+extends to Lewis acid-base theory (a Lewis acid is an electron-pair acceptor, a Lewis base an
+electron-pair donor), applied to inorganic and organic chemistry and including the formation of
+transition-element complexes, which are also electron-pair-sharing processes. Identifying
+coordination bonds is standard level content (Structure 2.2.3); transition-element complexes are HL.
 
 ## Why this component draws on Structure so heavily
 

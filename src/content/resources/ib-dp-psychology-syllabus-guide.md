@@ -40,8 +40,11 @@ the chosen option or options (20 SL / 40 HL), and the internal assessment
 
 ## Core (90 hours SL / 120 hours HL)
 
-- **Biological approach to understanding behaviour** -- how physiology,
-  neurochemistry and genetics contribute to explaining behaviour.
+- **Biological approach to understanding behaviour** -- the relationship
+  between the brain and behaviour; hormones and pheromones and their
+  effects on behaviour; the relationship between genetics and behaviour;
+  and, at HL only, the role of animal research in understanding human
+  behaviour.
 - **Cognitive approach to understanding behaviour** -- how mental
   processes such as memory, perception and thinking shape behaviour.
 - **Sociocultural approach to understanding behaviour** -- how social

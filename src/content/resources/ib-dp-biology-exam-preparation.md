@@ -24,8 +24,8 @@ alongside the [full syllabus guide](/resources/ib-dp-biology-syllabus-guide/) an
 ## Paper 1 (36% of the final grade)
 
 A multiple-choice section followed by a data-based section, drawn across the **whole syllabus**, not
-concentrated in one theme -- the data-based section still requires written "state"/"outline" answers,
-not just selecting an option, so Paper 1 is not purely multiple choice. Because coverage is broad
+concentrated in one theme -- the data-based section still requires written answers, not just
+selecting an option, so Paper 1 is not purely multiple choice. Because coverage is broad
 rather than deep, the highest-value preparation is a topic-by-topic
 confidence self-audit in the weeks before the exam -- rating each theme honestly and directing
 remaining revision time at the weakest ones, rather than re-revising whatever was covered most
@@ -45,9 +45,9 @@ question should not receive the same share of your working time.
 
 ## Paper 2 (44% of the final grade)
 
-Data-based, short-answer and extended-response questions requiring **sustained scientific writing** --
-this is the paper where the command terms **evaluate**, **discuss** and **justify** appear most often,
-requiring a reasoned judgement built from evidence rather than a short factual answer.
+Data-based, short-answer and extended-response questions requiring **sustained scientific writing**.
+As general advice, whenever a question on either paper uses a command term such as **evaluate**, **discuss** or
+**justify**, it needs a reasoned judgement built from evidence rather than a short factual answer.
 
 Because Paper 2 carries the larger share of the grade (44% of the final grade -- 55% of the 80%
 decided by the two examination papers) and specifically rewards sustained written

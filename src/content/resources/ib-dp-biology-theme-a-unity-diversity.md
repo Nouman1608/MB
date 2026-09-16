@@ -94,11 +94,17 @@ cell.
 
 ## Diversity of organisms
 
-With millions of species to account for, classification systems exist to group organisms in a way
-that is detailed enough to be biologically useful while remaining simple enough to apply consistently.
-This sub-topic covers the logic behind classification as a practical and scientific challenge, rather
-than the details of any one classification scheme -- the emphasis is on why classification is
-necessary and what trade-offs any scheme must balance.
+This sub-topic (A3.1) is about variation and how species are recognised and named; building
+classification schemes belongs to the HL-only classification and cladistics sub-topic below. It opens
+with **variation between organisms as a defining feature of life** -- the patterns of variation are
+complex, and they are the basis for naming and classifying organisms. It then covers **species** as
+groups of organisms with shared traits; the **binomial system** for naming organisms (a genus name
+followed by a species name, as in *Homo sapiens*); the **biological species concept** (a species as a
+group of organisms that can interbreed to produce fertile offspring); the **difficulty of
+distinguishing populations from species** when populations that do not interbreed diverge; **diversity
+in chromosome numbers** of plant and animal species; **karyotyping and karyograms** (a karyogram
+displays an organism's chromosomes arranged in homologous pairs, ordered by size); and **genome
+diversity**.
 
 ## Classification and cladistics (HL only)
 

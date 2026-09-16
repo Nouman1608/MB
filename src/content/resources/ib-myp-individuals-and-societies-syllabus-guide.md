@@ -101,14 +101,14 @@ up of three tasks:
   culminating in an extended piece of writing. This is the largest of
   the three tasks by mark allocation.
 
-Sample topics the on-screen examinations draw on include, verbatim from
-the official brief: demographics and human movements, settlement and
+The official brief says the topics explored in the on-screen
+examinations include: demographics and human movements, settlement and
 urban morphology, superpowers, empires, and supra-national alliances
 and organizations, significant individuals, warfare and peacekeeping,
 rights and social protest, trade, aid and exchange, economic agents and
 their interests and role in the economy (consumers, producers,
-governments, banks), measurements and trends, ecological relationships,
-and industrialization and technological developments.
+governments, banks), measurements and trends, and industrialization
+and technological developments.
 
 ## How to approach it
 

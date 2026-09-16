@@ -11892,3 +11892,61 @@ None. No existing resource or data-layer record was edited.
 **Validation.** All pass: `astro check` 0 errors; `validate:academic`; `validate-assessments`; build 2141 pages; `audit:all` 0 problems; cross-board regression; negative suite; API tests 31/31; `check-duplicate-resource-scope` the four pre-existing groups only.
 
 **Open-count position after D-244.** Round 22 leaves E922, I371 and U73 for repair; all 17 items are closed here. Confirmed errors declared open: 0.
+
+## D-245 - Audit round 23 (Q404): E923, I372 and U74 closed (2026-09-16)
+
+**Trigger.** Round 23 (`docs/audit/2026-10-30-findings.md`, `bccafae`) checked the 78 IB board claims in U72, D-241's IB settlements (all held) and Q400.15-21 against the IB guides and briefs, and recorded E923 (7 families), I372 (8 items) and U74 (6 claims the public documents cannot settle).
+
+**Primary sources.** Read by the lead in a browser at the ibo.org origin (same-origin fetch and pdf.js; no challenge), with every passage used recorded verbatim for the repair clusters: Psychology guide (first examinations 2019), biological approach topics and Paper 1 structure; Biology guide (2025) A3.1, A3.2, B3.1.2-3; Physics guide (2025) SL assessment outline and IA criteria; Geography guide (2019) Unit 2 sub-topics and the fieldwork unsuitable-topics list; Language A: literature guide (2021) literary forms; DP History subject brief (2028) Paper 1; Computer science guide (first assessment 2027) A3.3 and Paper 1; Chemistry guide (2025) Reactivity 3.2.12 and 3.4.6 (both under 'Additional higher level'), Structure 2.2.3 and 1.5.3, Paper 1; Mathematics: applications and interpretation guide AHL 3.7-3.16; Economics guide (2022) Paper 1 and Paper 2; MYP individuals and societies subject brief (eAssessment topics); ibo.org MYP language acquisition curriculum page ("teaching and learning is organized into six phases") and MYP grading and awards page (bilingual certificate availability only).
+
+**How.** Two clusters worked from the evidence file only (no IB claim beyond it), then one adversarial reviewer over all 49 diffs.
+
+### E923 - IB content, criteria, marks or tier labels
+
+| Item | Files | What changed / verified |
+|---|---|---|
+| E923.1 | `ib-dp-psychology-biological-approach.md`, `-revision-notes.md`, `-practice.md`; siblings `ib-dp-psychology-syllabus-guide.md`, `ib-dp-psychology-subject-guide.md`, `ib-dp-psychology-cognitive-approach-revision-notes.md` | The three invented strands replaced by the guide's topics: brain and behaviour, hormones and pheromones, genetics and behaviour (SL and HL), and the role of animal research (HL only). Existing correct content regrouped under them; short sections added on hormones, pheromones (no human pheromone confirmed) and HL animal research; practice Q1 asks for the three SL/HL topics ([3], 1 each). |
+| E923.2 | `ib-dp-biology-theme-b-form-function.md`, `-revision-notes.md`, `-practice.md` | B3.1.2 properties: permeability, thin tissue layer, moisture, large surface area; blood vessels, continuous blood flow and ventilation placed under B3.1.3 concentration gradients. Practice 5(a)/(b) re-marked to those properties ([2]+[2]). |
+| E923.3 | `ib-dp-physics-exam-preparation.md` | SL Paper 2 is 55 marks; IA criteria research design, data analysis, conclusion, evaluation (6 marks each). |
+| E923.4 | `ib-dp-geography-global-climate.md`, `-revision-notes.md`, `-practice.md`; sibling `ib-dp-geography-syllabus-guide.md` | Coverage gives the three sub-topics (causes: energy balance, greenhouse effect, feedback loops; consequences; responding: disparities in exposure and vulnerability, contrasting societies, adaptation and mitigation). Exposure/sensitivity/adaptive capacity presented as the resources' own framework, noting the guide uses neither 'sensitivity' nor 'adaptive capacity'. Fieldwork advice reversed: the guide lists Unit 2 among topics "unlikely to be suitable for fieldwork investigation". |
+| E923.5 | `ib-dp-history-exam-preparation.md` | Paper 1 (2028): 1 h 15, 24 marks, three static questions on one focused study linked by an inquiry question (content of two sources; a source's context; perspectives in all sources). The outgoing course's 'compare and contrast' and 'own knowledge' types labelled as the previous course; checklist, self-test and description aligned. |
+| E923.6 | `ib-dp-computer-science-theme-a.md`, `-revision-notes.md` | A3.3 Database programming (SL and HL) is required: A3.3.1 data definition vs manipulation, A3.3.2 two-table SQL queries (joins, relational operators, filtering, pattern matching, ordering; the guide's command list), A3.3.3 updating data; A3.4 noted as HL only. A worked two-table JOIN/LIKE/ORDER BY query and a notes self-test added. |
+| E923.7 | `ib-dp-chemistry-reactivity-3-mechanisms.md`, `-revision-notes.md`; sibling `ib-dp-chemistry-syllabus-guide.md` | HL markers on standard electrode potentials and cell potential (Reactivity 3.2.12 onward), Lewis acid-base theory (3.4.6 onward) and transition-element complexes; identifying coordination bonds noted as SL (Structure 2.2.3). |
+
+### I372 - Wording
+
+| Item | Files | What changed / verified |
+|---|---|---|
+| I372.1 | `ib-dp-biology-theme-a-unity-diversity.md`, `-revision-notes.md`; sibling `ib-dp-biology-syllabus-guide.md` | A3.1 described as variation, species concepts, binomial naming, populations versus species, chromosome numbers, karyotypes and genome diversity; classification is A3.2 (AHL). |
+| I372.2 | `ib-dp-psychology-biological-approach-practice.md` | Q7 stays [9]; no longer claimed to be essay length and value (Paper 1: SAQs 9 marks each, essay 22). |
+| I372.3 | `ib-dp-language-a-literature-readers-writers-texts.md`, `-revision-notes.md`, `-practice.md` | Four literary forms (fiction, non-fiction, poetry, drama) on the prescribed reading list; practice Q2 re-marked [3] → [4]. |
+| I372.4 | `ib-dp-mathematics-ai-geometry-trigonometry.md`, `-revision-notes.md`; siblings `ib-dp-mathematics-applications-and-interpretation-syllabus-guide.md`, `-subject-guide.md` | Full AHL Topic 3: radians and circular functions (3.7-3.8), matrix transformations (3.9), vectors (3.10-3.13), graph theory (3.14-3.16). |
+| I372.5 | `ib-myp-individuals-societies-disciplines.md`, `-revision-notes.md`; siblings `ib-myp-individuals-and-societies-subject-guide.md`, `-syllabus-guide.md` | The brief's eAssessment topic list without the added 'ecological relationships'. |
+| I372.6 | `ib-dp-economics-exam-preparation.md`; sibling `ib-dp-economics-syllabus-guide.md` | Paper 1: one extended-response question from three, part (a) 10 and part (b) 15 marks; Paper 2 described separately as the data response paper. |
+| I372.7 | `ib-dp-chemistry-exam-preparation.md`; siblings `ib-dp-chemistry-assessment-revision-notes.md`, `ib-dp-chemistry-subject-guide.md` | Paper 1 = 1A multiple-choice and 1B data-based questions; no short-answer questions on Paper 1. |
+| I372.8 | `ib-dp-chemistry-structure-1.md`, `-revision-notes.md` | Molar volume of an ideal gas placed under Structure 1.5.3. |
+
+### U74 - Claims the public documents cannot settle
+
+| Item | Files | Result |
+|---|---|---|
+| U74.1 | `ib-dp-biology-exam-preparation.md` | Which command terms appear most on which paper removed; advice now applies to both papers. |
+| U74.2 | `ib-dp-computer-science-theme-a.md`; sibling `ib-dp-computer-science-theme-a-practice.md` | 'Three of Paper 1's questions' replaced by the guide's structure (Section A extended response on Theme A; Section B short-response questions on the pre-seen case study), with no question count. |
+| U74.3, U74.4 | `ib-myp-individuals-and-societies-criteria-in-practice.md`, `-practice.md`, `-revision-notes.md` | Source evaluation no longer attributed to Criterion B (the brief gives only one-line criterion descriptions); presented as good practice, with students directed to the subject guide. No tariffs changed. |
+| U74.5 | `ib-myp-language-acquisition-proficiency-phases.md` | Settled: the ibo.org MYP language acquisition curriculum page states "teaching and learning is organized into six phases. The phases do not correspond to particular age groups or MYP year levels." The six phases are kept and attributed to that page. |
+| U74.6 | `ib-myp-language-acquisition-proficiency-phases.md`, `-revision-notes.md`; sibling `ib-myp-language-acquisition-syllabus-guide.md` | The ibo.org MYP grading and awards page now says only that "The IB MYP certificate and the IB MYP bilingual certificate are available to students who complete the IB's broad and balanced course of study" and sets out no qualifying routes. The two-route and 'Language Acquisition excluded' statements (from Q299) removed in all three files; students directed to their MYP coordinator. |
+
+### Observations, not actioned
+
+- `ib-dp-physics-exam-preparation.md` ~L30-32: Paper 1's two question types described as 'mixed together'; the guide separates Paper 1A and 1B.
+- `ib-dp-psychology-assessment-revision-notes.md` L65: IA criteria described in terms not checked against the guide.
+- `ib-dp-geography-global-climate-practice.md` L72-74 and HL sections: 'routinely' needing case studies; HL extension coverage claims.
+- `ib-dp-computer-science-theme-a` guide L35-38 and notes L83-84: Theme A 'routinely appears embedded in case-study scenarios'; 'normalisation, in A.3'.
+- `ib-dp-chemistry-exam-preparation.md` L35-37 and assessment notes L49: command-term tiers per paper.
+- MYP I&S criteria files: 'working both independently and collaboratively' as Criterion B descriptor text.
+- `ib-dp-history-syllabus-guide.md` L45-50: 'five focused-study options ... both focused studies within the chosen option' against the brief's 'one of the focused studies'.
+- `ib-dp-psychology-cognitive-approach.md` L43 and its notes L38: 'the biological approach's focus on physiology'.
+
+**Validation.** All pass: `astro check` 0 errors; `validate:academic`; `validate-assessments`; build 2141 pages; `audit:all` 0 problems; cross-board regression; negative suite; API tests 31/31; `check-duplicate-resource-scope` the four pre-existing groups only.
+
+**Open-count position after D-245.** Round 23 leaves E922 (closed by D-244, unread), E923, I372 and U74; E923, I372 and U74 (21 items) are closed here. Confirmed errors declared open: 0.

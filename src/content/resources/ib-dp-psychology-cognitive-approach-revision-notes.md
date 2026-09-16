@@ -154,7 +154,8 @@ it trains you to recognise which approach a question is asking for and to keep y
 5. Which paper specifically tests approaches to researching behaviour, separately from content?
 
 **Answers:** 1. The cognitive approach focuses on internal mental processes (memory, perception,
-thinking); the biological approach focuses on physiology, neurochemistry and genetics. 2. That memory
+thinking); the biological approach looks at the relationship between the brain and behaviour, hormones
+and pheromones, and genetics (with the role of animal research added at HL). 2. That memory
 is an active reconstruction shaped by existing schema and later information, not an accurate recording
 of the original event. 3. Because many topics (such as memory) can be explained from more than one
 approach, and blending them without distinction produces an unclear, unfocused answer. 4. Its

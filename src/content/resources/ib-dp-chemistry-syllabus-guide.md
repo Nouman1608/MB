@@ -86,15 +86,18 @@ and the scientific investigation.
 
 - **Reactivity 3.1** -- Proton transfer reactions -- acid-base
   chemistry.
-- **Reactivity 3.2** -- Electron transfer reactions -- redox chemistry.
+- **Reactivity 3.2** -- Electron transfer reactions -- redox chemistry;
+  standard electrode potentials and cell potentials for predicting
+  spontaneity are **Additional higher level** (HL only).
 - **Reactivity 3.3** -- Electron sharing reactions -- radical
   chemistry: homolytic fission and free-radical substitution, with its
   initiation, propagation and termination stages, shown using
   half-headed (single-barbed) arrows that move one electron.
 - **Reactivity 3.4** -- Electron-pair sharing reactions -- organic
-  reaction mechanisms built on shared electron pairs, together with
-  Lewis acid-base reactions, coordination bonds and the formation of
-  transition-element complexes.
+  reaction mechanisms built on shared electron pairs; Lewis acid-base
+  theory, including the formation of transition-element complexes, is
+  **Additional higher level** (HL only). Identifying coordination bonds
+  is standard level content, in Structure 2.2.3.
 
 ## Reading the Structure / Reactivity split
 

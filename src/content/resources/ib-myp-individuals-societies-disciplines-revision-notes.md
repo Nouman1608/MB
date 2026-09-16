@@ -99,11 +99,11 @@ instead of a structured, judgement-based argument.
 
 ## Sample eAssessment topics
 
-The official brief lists sample topics the on-screen examinations may draw on, verbatim: demographics
+The official brief says the topics explored in the on-screen examinations include: demographics
 and human movements, settlement and urban morphology, superpowers, empires, and supra-national
 alliances and organizations, significant individuals, warfare and peacekeeping, rights and social
 protest, trade, aid and exchange, economic agents and their interests and role in the economy
-(consumers, producers, governments, banks), measurements and trends, ecological relationships, and
+(consumers, producers, governments, banks), measurements and trends, and
 industrialization and technological developments. Because these span history, geography and broader
 social-science themes, they illustrate why the three eAssessment subjects (history, geography,
 integrated humanities) can draw on genuinely overlapping content even though a student's own taught

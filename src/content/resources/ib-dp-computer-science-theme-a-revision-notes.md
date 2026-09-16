@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-computer-science-theme-a"
-description: "Condensed recall notes on Theme A -- computer fundamentals, networks, databases and machine learning -- for IB Diploma Programme Computer Science, first assessment 2027."
+description: "Condensed recall notes on Theme A -- computer fundamentals, networks, databases (including SQL queries) and machine learning -- for IB Diploma Programme Computer Science, first assessment 2027."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
@@ -54,8 +54,13 @@ where B.4 is HL only).
   preserving integrity, and controlling access.
 - The relational model -- tables, records, fields, primary and foreign keys -- and how
   relationships between tables are represented.
-- Querying data (conceptually, independent of any one query language) to retrieve, filter and
-  combine information stored across related tables.
+- Database programming in SQL, required at both SL and HL: the difference between SQL's data
+  definition language (defining the structure of the database) and data manipulation language
+  (working with the data it holds); constructing queries between two tables, including joins,
+  relational operators, filtering, pattern matching and ordering (SELECT, DISTINCT, FROM, WHERE,
+  BETWEEN, ORDER BY, GROUP BY, HAVING, ASC, DESC, JOIN, LIKE with the % wildcard, AND, OR, NOT --
+  exact syntax can vary between database systems); and how SQL is used to update data in a database.
+- HL only: alternative databases and data warehouses.
 
 ## A.4 Machine learning
 
@@ -83,8 +88,8 @@ table independently of programming ability.
 Paper 1 is set on Theme A together with the pre-released case study, so A.1-A.4 content routinely appears embedded in case-study scenarios
 rather than as standalone recall questions. Programming-heavy content lives in Theme B, not Theme
 A, so Theme A questions are more conceptual: explaining how something works, evaluating a design
-choice, or applying a concept (e.g. normalisation, in A.3) to an unfamiliar scenario, rather than
-writing code.
+choice, or applying a concept (e.g. normalisation, in A.3) to an unfamiliar scenario. The exception
+is A.3's SQL content, where you must be able to construct queries between two tables.
 
 ## Common exam pitfalls
 
@@ -107,6 +112,9 @@ writing code.
 2. Why is a relational database preferred over storing all data in a single flat file?
 3. Name two ethical issues machine learning applications can raise.
 4. What is the fetch-execute cycle, in outline?
+5. Tables Borrowers(BorrowerID, Surname) and Loans(LoanID, BorrowerID, BookTitle) are linked by
+   BorrowerID. Write an SQL query listing each borrower's surname and the titles of the books they
+   have on loan, for surnames beginning with "Mc", in alphabetical order of surname.
 
 **Answers:** 1. Primary storage (e.g. RAM) is directly accessible to the CPU and is typically
 volatile and fast but limited in capacity; secondary storage (e.g. an SSD) is non-volatile,
@@ -118,7 +126,10 @@ enforce consistency between copies. 3. Any two of: bias in training data leading
 discriminatory outputs, lack of transparency in how automated decisions are reached, and the
 environmental/energy cost of training large models. 4. The CPU fetches an instruction from memory,
 decodes what operation it specifies, and executes that operation (which may read or write data via
-the registers), before repeating the cycle for the next instruction.
+the registers), before repeating the cycle for the next instruction. 5. `SELECT Borrowers.Surname, Loans.BookTitle
+FROM Borrowers JOIN Loans ON Borrowers.BorrowerID = Loans.BorrowerID WHERE Borrowers.Surname LIKE
+'Mc%' ORDER BY Borrowers.Surname ASC;` -- the JOIN links the tables through the foreign key, LIKE
+with the % wildcard filters by pattern, and ORDER BY sorts the result.
 
 ## Official syllabus
 

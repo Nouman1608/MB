@@ -98,8 +98,10 @@ that comes with the HL-only Paper 3 on approaches to research.
 
 Every DP Psychology student studies three core approaches to
 understanding behaviour, and they are not alternatives to choose
-between: the biological approach, examining how physiology,
-neurochemistry and genetics contribute to explaining behaviour; the
+between: the biological approach, examining the relationship between
+the brain and behaviour, hormones and pheromones and their effects on
+behaviour, the relationship between genetics and behaviour and, at HL
+only, the role of animal research in understanding human behaviour; the
 cognitive approach, examining how mental processes such as memory,
 perception and thinking shape behaviour; and the sociocultural
 approach, examining how social and cultural context shapes both

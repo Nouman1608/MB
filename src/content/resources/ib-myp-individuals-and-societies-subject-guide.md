@@ -80,14 +80,13 @@ optional external exam.
 Where schools do offer MYP eAssessment, it is only available in three of
 the many disciplines individuals and societies can draw on -- history,
 geography and integrated humanities -- and the on-screen exam questions
-draw on the topics the official brief lists: demographics and human
+draw on topics the official brief lists, which include: demographics and human
 movements, settlement and urban morphology, superpowers, empires, and
 supra-national alliances and organizations, significant individuals,
 warfare and peacekeeping, rights and social protest, trade, aid and
 exchange, economic agents and their interests and role in the economy
 (consumers, producers, governments, banks), measurements and trends,
-ecological relationships, and industrialization and technological
-developments -- always requiring students to work with source material
+and industrialization and technological developments -- always requiring students to work with source material
 rather than recall facts in isolation.
 
 The three eAssessment tasks are weighted by marks rather than equally:

@@ -50,9 +50,10 @@ diversity comes from.
 - **Viruses** (HL only) -- the structure and diversity of viruses as
   non-living infectious particles that depend entirely on host cells to
   replicate.
-- **Diversity of organisms** -- classification and the diversity of
-  life, and the practical challenge of grouping millions of species
-  sensibly.
+- **Diversity of organisms** -- variation as a defining feature of
+  life, species and the biological species concept, binomial naming,
+  chromosome numbers, karyotyping and genome diversity (classification
+  itself is the HL-only sub-topic that follows).
 - **Classification and cladistics** (HL only) -- using shared derived
   characteristics, rather than surface similarity, to build evolutionary
   trees.

@@ -21,7 +21,7 @@ exam-day plan see the [exam preparation guide](/resources/ib-dp-chemistry-exam-p
 
 | Component | Weight | What it involves |
 |---|---|---|
-| Paper 1 | 36% | Multiple-choice, short-answer and data-based questions across the syllabus |
+| Paper 1 | 36% | Paper 1A multiple-choice questions and Paper 1B data-based questions, across the syllabus |
 | Paper 2 | 44% | Short-answer and extended-response questions on structure and reactivity |
 | Internal assessment | 20% | An individual scientific investigation, up to 3,000 words |
 
@@ -46,7 +46,7 @@ keep these separate in your revision/coursework planning.
 
 ## Command terms and how each paper uses them
 
-Both papers draw their questions from the same command-term glossary used across all DP sciences -- **state**, **define**, **identify** and **describe** at the lower end (recall and straightforward description), through **explain**, **compare**, **deduce** and **suggest** in the middle, up to **evaluate**, **discuss** and **justify** at the top, where a reasoned judgement or synthesis across multiple pieces of evidence is required. Paper 1's multiple-choice, short-answer and data-based questions lean more heavily on the lower and middle tiers; Paper 2's extended-response questions, on the paper worth the larger share of the external mark (44 of the 80 percentage points, or 55%), more often reach the top tier -- so revision time spent specifically practising **evaluate** and **discuss** style answers (weighing evidence, acknowledging limitations, reaching a justified conclusion) pays off disproportionately for Paper 2.
+Both papers draw their questions from the same command-term glossary used across all DP sciences -- **state**, **define**, **identify** and **describe** at the lower end (recall and straightforward description), through **explain**, **compare**, **deduce** and **suggest** in the middle, up to **evaluate**, **discuss** and **justify** at the top, where a reasoned judgement or synthesis across multiple pieces of evidence is required. Paper 1's multiple-choice (1A) and data-based (1B) questions lean more heavily on the lower and middle tiers; Paper 2's extended-response questions, on the paper worth the larger share of the external mark (44 of the 80 percentage points, or 55%), more often reach the top tier -- so revision time spent specifically practising **evaluate** and **discuss** style answers (weighing evidence, acknowledging limitations, reaching a justified conclusion) pays off disproportionately for Paper 2.
 
 ## The internal assessment in more depth
 

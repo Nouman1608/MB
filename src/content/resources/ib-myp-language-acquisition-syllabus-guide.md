@@ -153,16 +153,12 @@ for a specified audience and purpose, and confident, unscripted
 speaking -- transfer directly into whichever DP language pathway a
 student later chooses.
 
-Students who go on to demonstrate additional proficiency in a second
-language or their mother tongue can also earn the separate **MYP
-bilingual certificate** -- but, as far as public IB sources go, Language
-Acquisition itself is not one of the routes to it. The IB's grading and
-awards page sets out two qualifying routes: a second language and
-literature course, or an examination in another subject group taken in
-a language other than the student's language and literature course --
-Language Acquisition is excluded from both. Students should confirm
-the actual route to the bilingual certificate with their school rather
-than assuming this subject leads to it.
+The IB's grading and awards page says the IB MYP certificate and the
+**IB MYP bilingual certificate** are available to students who complete
+the IB's broad and balanced course of study, but it does not set out
+separate qualifying conditions for the bilingual certificate. Students should confirm those
+conditions with their school's MYP coordinator rather than assuming
+whether this subject counts towards it.
 
 ## Official syllabus
 

@@ -31,7 +31,7 @@ and the [IB DP Language A: Literature syllabus guide](/resources/ib-dp-language-
 
 **1.** State the specification's central idea about how readers relate to a text. **[2]**
 
-**2.** Name the three literary forms this component's technique vocabulary must be adapted across. **[3]**
+**2.** Name the four literary forms defined on the IB's prescribed reading list, across which this component's technique vocabulary must be adapted. **[4]**
 
 **3.** State one form-specific consideration relevant to drama that does not apply to prose. **[1]**
 
@@ -60,7 +60,7 @@ and the [IB DP Language A: Literature syllabus guide](/resources/ib-dp-language-
 
 **1.** That reading is an active process: readers construct meaning from a writer's choices, and two readers can build genuinely different, both defensible, interpretations of the same passage, rather than there being one meaning simply transmitted to a passive reader. **[2]**
 
-**2.** Prose, poetry, and drama. **[3]**
+**2.** Fiction **[1]**, non-fiction **[1]**, poetry **[1]** and drama **[1]**. **[4]**
 
 **3.** Staging (or dialogue, or dramatic irony) -- a consideration specific to a work being performed. **[1]**
 

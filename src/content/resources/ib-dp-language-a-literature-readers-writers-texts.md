@@ -48,10 +48,11 @@ can construct genuinely different, both defensible, interpretations of
 the same passage based on the meaning they build from a writer's
 choices. Focus areas span **narrative voice**, **poetic form**,
 **dramatic structure**, and how a writer's specific craft choices shape
-what a reader constructs from the text. Because this course's reading
-list spans novels, poetry and drama, this component's key terms must
-be revised separately for each form rather than assumed to transfer
-directly: narrative voice and structure apply differently to a novel
+what a reader constructs from the text. The course's works are
+selected across the literary forms defined on the IB's prescribed
+reading list, which names four: fiction, non-fiction, poetry and drama.
+This component's key terms must therefore be revised separately for
+each form rather than assumed to transfer directly: narrative voice and structure apply differently to a novel
 than to a poem's speaker, and dramatic structure (staging, dialogue,
 dramatic irony) introduces performance-specific considerations that
 neither prose nor poetry share.
@@ -115,7 +116,10 @@ being performed rather than only read silently. A student who revises
 only prose-style vocabulary will often struggle to say anything
 specific about a poem or play beyond generic comments on imagery or
 theme, precisely because the vocabulary needed is genuinely different
-across the three forms this component covers.
+across the literary forms the course draws on (the prescribed reading
+list defines four: fiction, non-fiction, poetry and drama). Prose
+vocabulary serves both fiction and non-fiction, but with non-fiction
+also consider how the writer presents real people and events.
 
 ## Common mistakes
 
@@ -133,8 +137,8 @@ across the whole passage.
 - For each studied work, identify at least one specific technique and
   explain its effect on how a reader constructs meaning, not just what
   it is called.
-- Keep separate technique vocabulary for prose, poetry and drama
-  rather than one undifferentiated list.
+- Keep separate technique vocabulary for prose (fiction and
+  non-fiction), poetry and drama rather than one undifferentiated list.
 - Practise explaining how meaning might shift or develop for a reader
   across a text, not just at a single fixed point.
 - Practise Paper 1 guided analysis by selecting a small number of

@@ -56,15 +56,15 @@ aims to enable students to:
 DP Chemistry follows the same overall assessment model as the other DP
 sciences, combining external examination with an individual internal
 assessment, at both Standard Level and Higher Level. Paper 1 is
-weighted at 36% of the final grade and includes multiple-choice
-questions alongside short-answer and data-based questions spanning the
+weighted at 36% of the final grade and is made up of multiple-choice
+questions (Paper 1A) and data-based questions (Paper 1B) spanning the
 syllabus; Paper 2 is weighted at 44% and includes short-answer and
 extended-response answers that draw together structure and reactivity
-concepts across topics. (This
-guide's own extraction stops before the assessment outline pages, so
-the exact split of question types within each paper has not been
-verified directly against the guide -- check the current subject
-guide's assessment section for the definitive breakdown.) Between
+concepts across topics. (The Paper 1A/1B
+split is taken from the guide's assessment outline; the exact split of
+question types within Paper 2 has not been verified here -- check the
+current subject guide's assessment section for the definitive
+breakdown.) Between
 them, the two papers account for 80% of the final mark, with SL and
 HL differing in exam length and mark totals rather than in this
 weighting split.

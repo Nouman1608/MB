@@ -32,7 +32,7 @@ and [revision notes](/resources/ib-myp-individuals-and-societies-criteria-in-pra
 
 **1.** Name the four assessment criteria for MYP Individuals and Societies. **[4]**
 
-**2.** State the two things top-band Criterion B evidence must do with the sources it uses, beyond simply citing them. **[2]**
+**2.** State two things a strong investigation should do with the sources it uses, beyond simply citing them. **[2]**
 
 ---
 
@@ -40,7 +40,7 @@ and [revision notes](/resources/ib-myp-individuals-and-societies-criteria-in-pra
 
 **3.** A student researching a local environmental issue uses two sources: a single blog post and a friend's opinion, with no comment on either source's reliability.
 
-**(a)** Identify what is missing from this Criterion B evidence. **[2]**
+**(a)** Identify what is missing from this investigation. **[2]**
 **(b)** Describe what the student would need to add to move toward top-band evidence. **[3]**
 
 **4.** A student's Criterion A response to "explain why a historical trade route developed where it did" lists three accurate facts (favourable terrain, available water, proximity to resources) but does not connect them to any wider explanatory framework.
@@ -67,7 +67,7 @@ and [revision notes](/resources/ib-myp-individuals-and-societies-criteria-in-pra
 
 **1.** Knowing and understanding, Investigating, Communicating, and Thinking critically. **[4]**
 
-**2.** Evaluate the reliability of each source, and evaluate the relevance of each source to the specific research question being investigated. **[2]**
+**2.** Evaluate the reliability of each source, and evaluate the relevance of each source to the specific research question being investigated. **[2]** (This is general good practice for any investigation: the public subject brief gives only one-line criterion descriptions, so check your school's copy of the subject guide for which criterion strand assesses it.)
 
 **3. (a)** Missing is any evaluation of the sources' reliability -- a blog post and a friend's opinion are both used without any comment on who produced them, why, or how trustworthy they are for this specific research question; the investigation also uses a very narrow range of source types, with no official report, news source, or other independent evidence to compare against. **[2]**
 **(b)** The student would need to add at least one more varied, credible source type (a local government report, a news article, or a scientific study relevant to the issue), and explicitly state for each source used why it is or is not reliable and relevant to the specific research question, rather than treating source use and evaluation as separate, unconnected steps. **[3]**
@@ -80,7 +80,7 @@ and [revision notes](/resources/ib-myp-individuals-and-societies-criteria-in-pra
 
 **6.** Top-band Criterion D evidence requires explicitly considering more than one plausible perspective or interpretation, evaluating their relative strengths and weaknesses, and reaching a substantiated conclusion about which interpretation the available evidence best supports. Relying on a single textbook account and presenting it as the definitive explanation does not demonstrate this comparative evaluation at all -- there is no second perspective being weighed, and no substantiated judgment about which account is better supported, only an unexamined acceptance of one source's framing. The student would need to seek out at least one genuinely different account or interpretation of the same conflict's causes -- ideally from a source reflecting a different national, political or historiographical perspective -- compare it explicitly against the textbook's account, evaluate the strengths and limitations of each, and reach a conclusion about which the available evidence best supports, rather than presenting either account as simply correct. **[6]**
 
-**7.** In a combined history-and-geography local-issue investigation, Criterion A evidence emerges from applying relevant conceptual frameworks (from either discipline) to explain the issue's origins or dynamics; Criterion B evidence emerges from the process of researching and evaluating a genuine range of sources about the issue; Criterion C evidence emerges from how that research is organised, referenced and communicated in the final write-up; and Criterion D evidence emerges from a critical evaluation of the issue that weighs different perspectives. Criterion D illustrates the dependency clearly: a strong critical evaluation weighing different perspectives on the local issue is only possible once Criterion B's source-evaluation process has already surfaced more than one genuinely different perspective or source type to weigh against each other -- if the investigation's Criterion B work used only one narrow source type, there would be no real perspectives available to compare for Criterion D, regardless of how carefully the final evaluation is written. **[6]**
+**7.** In a combined history-and-geography local-issue investigation, Criterion A evidence emerges from applying relevant conceptual frameworks (from either discipline) to explain the issue's origins or dynamics; Criterion B evidence emerges from the process of researching the issue systematically across a genuine range of sources; Criterion C evidence emerges from how that research is organised, referenced and communicated in the final write-up; and Criterion D evidence emerges from a critical evaluation of the issue that weighs different perspectives. Criterion D illustrates the dependency clearly: a strong critical evaluation weighing different perspectives on the local issue is only possible once the Criterion B research has already gathered more than one genuinely different perspective or source type to weigh against each other -- if the investigation's Criterion B work used only one narrow source type, there would be no real perspectives available to compare for Criterion D, regardless of how carefully the final evaluation is written. **[6]**
 
 ## Official syllabus
 

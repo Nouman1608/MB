@@ -74,10 +74,12 @@ different functions.
 
 Covers how organisms exchange gases with their environment and move substances internally, at scales
 from single cells to large multicellular bodies. Revise the structure-function connections
-specifically: gas exchange surfaces (such as alveoli or gill lamellae) share common structural
-features -- large surface area, thin barrier, good blood supply, and ventilation -- each of which
-directly increases the rate or efficiency of diffusion, and being able to explain WHY each feature
-helps (not just naming it) is what a strong answer does. Transport systems (such as circulatory
+specifically: gas-exchange surfaces (such as alveoli or gill lamellae) share four properties
+(B3.1.2) -- permeability, a thin tissue layer, moisture and a large surface area -- and being able to
+explain WHY each property helps (not just naming it) is what a strong answer does. Keep these apart
+from how animals maintain the concentration gradient across the surface (B3.1.3): dense networks of
+blood vessels, continuous blood flow, and ventilation with air for lungs and with water for gills.
+Transport systems (such as circulatory
 systems) are revised similarly: their structural features suit the specific demand for moving
 substances over the distances a given organism's body size requires.
 
@@ -125,7 +127,7 @@ reuses, not as a self-contained block to revise once and set aside.
 4. Why is compartmentalization functionally useful for a eukaryotic cell?
 5. Explain, in terms of gene expression, how a nerve cell and a muscle cell can perform very different
    functions despite sharing the same genome.
-6. Name two structural features shared by efficient gas exchange surfaces, and explain why each
+6. Name two properties shared by efficient gas-exchange surfaces, and explain why each
    increases diffusion rate.
 
 **Answers:** 1. Cellulose's specific bonding arrangement gives long, strong, non-branching chains
@@ -140,9 +142,10 @@ its function needs, rather than requiring every process to occur under one share
 5. Both cells contain the same genes, but differential gene expression means each cell type expresses
 only the subset of genes relevant to its own specialised function, producing structurally and
 functionally different cells from identical genetic material. 6. Any two of: large surface area
-(more area for diffusion to occur across at once), thin barrier (shorter diffusion distance), good
-blood supply (maintains a steep concentration gradient by removing/supplying gas), ventilation
-(maintains a steep concentration gradient by refreshing the gas on one side of the exchange surface).
+(more area for diffusion to occur across at once), thin tissue layer (shorter diffusion distance),
+moisture (gases dissolve before diffusing across), permeability (lets oxygen and carbon dioxide pass
+through). Blood supply and ventilation are not properties of the surface: they maintain the
+concentration gradient across it (B3.1.3).
 
 ## Official syllabus
 

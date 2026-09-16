@@ -103,8 +103,9 @@ linear, quadratic, exponential and other function types using
 technology to fit and interpret models against real data -- a strand
 that is central to this course's identity as a whole. Geometry and
 trigonometry covers spatial reasoning with a strong emphasis on
-real-world contexts such as navigation and design, extending to
-vectors at HL. Statistics and probability is one of the two largest
+real-world contexts such as navigation and design, extending at HL to
+radians and circular functions, matrix transformations, vectors and
+graph theory. Statistics and probability is one of the two largest
 strands by teaching time at both levels, covering descriptive and
 inferential statistics, probability and distributions in considerably
 more depth than the equivalent strand in Analysis and Approaches.

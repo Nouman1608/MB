@@ -44,9 +44,9 @@ underprepares you or wastes study time on unnecessary complexity.
 ## Six teaching phases, three reporting levels
 
 It's worth being precise about two genuinely different things the IB uses similar-sounding language
-for. Day-to-day teaching and learning in MYP Language Acquisition is organised into **six phases**
-forming a continuum -- these do not correspond to age or MYP year group, and a student can enter or
-exit any phase individually, at any point, based on their actual progress in the language. Separately,
+for. Day-to-day teaching and learning in MYP Language Acquisition is organised into **six phases**; the IB's MYP language acquisition curriculum page states that "the
+phases do not correspond to particular age groups or MYP year levels". The phases form a continuum,
+and a student moves through them individually, based on their actual progress in the language. Separately,
 where a school offers MYP eAssessment, **course results are reported at three proficiency levels** --
 emergent, capable or proficient -- which is the coarser, summative categorisation this page's
 "proficiency level" language refers to throughout. The six phases and the three reporting levels serve
@@ -100,17 +100,13 @@ study in multiple languages within the MYP Language and Literature
 subject group instead. Confirming which pathway applies to you --
 Language Acquisition versus a bilingual Language and Literature route
 -- is a basic but important check before assuming this subject's
-proficiency-level structure applies to your own course. Students who
-demonstrate additional proficiency in a second language or their
-mother tongue can earn the separate MYP bilingual certificate --
-but, as far as public IB sources go, Language Acquisition itself is
-not one of the routes to it: the IB's grading and awards page sets out
-two ways to qualify (a second language and literature course, or an
-examination in another subject group taken in a language other than
-the student's language and literature course), and Language
-Acquisition is excluded from both. Students interested in the
-bilingual certificate should discuss the actual route with their
-school rather than assuming this course leads to it.
+proficiency-level structure applies to your own course. The IB's
+grading and awards page says the IB MYP certificate and the IB MYP
+bilingual certificate are available to students who complete the IB's
+broad and balanced course of study, but it does not set out separate
+qualifying conditions for the bilingual certificate; students interested in it should confirm those
+conditions with their school's MYP coordinator rather than assuming
+whether this course counts towards it.
 
 ## Connecting to the DP pathway
 

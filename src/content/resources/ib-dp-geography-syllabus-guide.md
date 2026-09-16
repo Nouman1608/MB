@@ -61,9 +61,11 @@ consequences, rather than treating either half in isolation.
 - **Population distribution** -- changing population, examining why
   people are distributed unevenly and how that distribution changes
   over time.
-- **Global climate** -- vulnerability and resilience, examining how
-  different places and communities are affected by, and adapt to,
-  climate change.
+- **Global climate** -- vulnerability and resilience, in three
+  sub-topics: the causes of global climate change (the energy balance,
+  greenhouse effect and feedback loops), its consequences, and
+  responding to it (including disparities in vulnerability, and
+  adaptation and mitigation).
 - **Global resource consumption and security** -- examining how
   resource demand and supply are distributed globally, and the
   tensions this creates.
@@ -88,7 +90,10 @@ separately in Paper 3, which SL students do not sit.
 A single written report based on a fieldwork question of the student's
 choosing, drawing on information collection and analysis with
 evaluation. The report can be based on any suitable syllabus topic --
-option, core or (at HL) extension. Because the fieldwork question is
+option, core or (at HL) extension -- but the guide lists some topics
+as unlikely to be suitable for fieldwork, including the core units on
+changing population and global climate, and says global issues are
+unsuitable unless they can be adapted to the local scale. Because the fieldwork question is
 student-designed rather than set by the IB, it rewards early planning:
 students who settle on a genuinely testable geographic question and a
 realistic data-collection method well before the fieldwork trip itself

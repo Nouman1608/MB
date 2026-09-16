@@ -58,8 +58,8 @@ identity.
 
 ## Geometry and trigonometry (18 hours SL / 46 hours HL)
 
-Covers geometry, trigonometry and (at HL) vectors and further
-geometric reasoning, with a strong emphasis on real-world spatial
+Covers geometry and trigonometry and, at HL, radians and circular
+functions, matrix transformations, vectors and graph theory, with a strong emphasis on real-world spatial
 problems such as navigation and design contexts.
 
 ## Statistics and probability (36 hours SL / 52 hours HL)

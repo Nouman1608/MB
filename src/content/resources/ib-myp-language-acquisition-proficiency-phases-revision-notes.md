@@ -128,13 +128,10 @@ understanding well beyond the immediate MYP assessment itself.
 
 ## The bilingual certificate route
 
-Students who demonstrate additional proficiency in a second language or their mother tongue can earn
-the separate **MYP bilingual certificate** — but, as far as public IB sources go, Language Acquisition
-itself is not one of the routes to it. The IB's grading and awards page sets out two qualifying routes:
-a second language and literature course, or an examination in another subject group taken in a
-language other than the student's language and literature course — Language Acquisition is excluded
-from both. Don't assume this course is a path to the bilingual certificate; confirm the actual route
-with your school.
+The IB's grading and awards page says the IB MYP certificate and the **IB MYP bilingual certificate**
+are available to students who complete the IB's broad and balanced course of study, but it does not
+set out separate qualifying conditions for the bilingual certificate. Don't assume this course is or
+isn't a route to the bilingual certificate; confirm the conditions with your school's MYP coordinator.
 
 ## Compulsory status and its exception
 

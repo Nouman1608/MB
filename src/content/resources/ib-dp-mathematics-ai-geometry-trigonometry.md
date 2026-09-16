@@ -12,7 +12,7 @@ order: 4
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-mathematics-applications-and-interpretation-geometry-and-trigonometry"
-description: "Real-world spatial problems, triangle trigonometry, compound solids and vectors -- the strand with the largest SL-to-HL jump in IB Diploma Programme Mathematics: Applications and Interpretation, first assessment 2021, and its technology-driven approach."
+description: "Real-world spatial problems, triangle trigonometry, compound solids and, at HL, radians and circular functions, matrix transformations, vectors and graph theory -- the strand with the largest SL-to-HL jump in IB Diploma Programme Mathematics: Applications and Interpretation, first assessment 2021, and its technology-driven approach."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
@@ -24,8 +24,9 @@ proportional SL-to-HL increase of the five strands -- for IB Diploma
 Programme Mathematics: Applications and Interpretation, first
 assessment 2021. The [full syllabus
 guide](/resources/ib-dp-mathematics-applications-and-interpretation-syllabus-guide/)
-confirms that jump is almost entirely HL-only vector work and further
-geometric reasoning, alongside [Statistics and
+gives the hours; the additional higher level content behind that jump
+is radians and circular functions, matrix transformations, vectors and
+graph theory (AHL 3.7-3.16), alongside [Statistics and
 Probability](/resources/ib-dp-mathematics-ai-statistics-probability/),
 this course's other large strand.
 
@@ -52,12 +53,17 @@ applied to real contexts such as construction or design
 trigonometry (sine rule, cosine rule, area of a triangle formula),
 angles of elevation and depression, and bearings -- the classic
 navigation-style application this course favours
-- **Vectors (HL only)** -- position and displacement vectors, the
-vector equation of a line, and applications to problems of motion and
-intersection
-- **Further geometric reasoning (HL only)** -- additional depth
-building on the SL geometry content, reflecting the strand's large HL
-hour allocation
+- **Radians and circular functions (HL only, AHL 3.7-3.8)** -- the
+definition of a radian, and the definitions of cosine and sine as
+circular functions
+- **Matrix transformations (HL only, AHL 3.9)** -- geometric
+transformations using matrices
+- **Vectors (HL only, AHL 3.10-3.13)** -- position and displacement
+vectors, the vector equation of a line, vector applications to
+kinematics (problems of motion) and intersection, and the scalar and
+vector products
+- **Graph theory (HL only, AHL 3.14-3.16)** -- graphs, vertices and
+edges; adjacency matrices and walks; tree and cycle algorithms
 
 ## Sine rule vs cosine rule -- which to use
 

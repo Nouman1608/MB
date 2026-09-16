@@ -32,13 +32,13 @@ page becomes automatic rather than something that eats into thinking time during
 
 ## Paper 1 (36% of the final grade)
 
-Multiple-choice, short-answer and data-based questions drawn across the syllabus, leaning more
+Multiple-choice questions (Paper 1A) and data-based questions (Paper 1B) drawn across the syllabus, leaning more
 heavily on the lower and middle command-term tiers (**state**, **define**, **describe**, **explain**,
 **compare**) than Paper 2's extended-response questions. Because this paper covers the syllabus
 broadly, a topic-by-topic confidence self-audit in the final weeks is a more efficient use of
 revision time than repeatedly reviewing already-secure topics.
 
-**Time allocation**: work through multiple-choice and short-answer questions at a steady pace rather
+**Time allocation**: work through Paper 1A's multiple-choice questions at a steady pace rather
 than lingering on any single question -- if a multiple-choice question is not immediately clear,
 mark a best guess, flag it, and return only if time remains, since every multiple-choice question is
 worth the same regardless of difficulty.
@@ -109,8 +109,8 @@ even when the underlying facts are known.
 
 **Answers:** 1. Because the data booklet is provided for every paper at both levels, so the syllabus
 deliberately emphasises interpreting and applying supplied data over memorising it -- exam time is
-better spent finding the right data quickly than trying to recall it. 2. Multiple-choice,
-short-answer and data-based questions, drawing mostly from the lower and middle command-term tiers
+better spent finding the right data quickly than trying to recall it. 2. Multiple-choice
+questions (Paper 1A) and data-based questions (Paper 1B), drawing mostly from the lower and middle command-term tiers
 (state, define, describe, explain, compare). 3. Because melting requires overcoming the forces
 BETWEEN particles, not the bonds within them -- the ionic compound's giant lattice has strong
 electrostatic forces extending throughout the structure, while the covalent molecule's individual

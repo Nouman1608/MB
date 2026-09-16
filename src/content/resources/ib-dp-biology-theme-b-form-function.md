@@ -85,13 +85,17 @@ from identical genetic starting material.
 ## Gas exchange and transport
 
 Organisms exchange gases with their environment, and move substances internally, at scales ranging
-from a single cell to a large multicellular body. Effective gas exchange surfaces -- such as alveoli
-in the lungs, or gill lamellae in fish -- share four structural features: a large surface area, a thin
-barrier, a good blood supply, and ventilation. Each feature directly increases the rate or efficiency
-of diffusion across the surface, and a strong exam answer explains *why* each feature helps (larger
-surface area provides more area for diffusion to occur across simultaneously; a thin barrier shortens
-the diffusion distance; a good blood supply and ventilation both maintain a steep concentration
-gradient across the surface) rather than simply listing the features. Internal transport systems, such
+from a single cell to a large multicellular body. The IB Biology guide (first assessment 2025) lists
+four properties of gas-exchange surfaces (B3.1.2): **permeability, a thin tissue layer, moisture and a large surface area**. A strong
+exam answer explains *why* each property helps rather than simply listing them: a permeable surface
+lets oxygen and carbon dioxide pass through; a thin tissue layer shortens the diffusion distance;
+moisture lets gases dissolve before they diffuse across; and a large surface area provides more area
+for diffusion to occur across simultaneously. Separately, animals **maintain the concentration
+gradients** across these surfaces (B3.1.3) through dense networks of blood vessels, continuous blood
+flow, and ventilation with air for lungs and with water for gills: blood flow carries absorbed oxygen
+away and brings carbon dioxide to the surface, while ventilation replaces the air or water on the
+outer side, so the gradient stays steep. Keep the two lists apart -- blood supply and ventilation are
+not properties of the surface itself. Internal transport systems, such
 as circulatory systems, are revised with the same logic: their structural features suit the specific
 demand of moving substances over the distances a given organism's body size requires.
 

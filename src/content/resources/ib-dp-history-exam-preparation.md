@@ -8,27 +8,31 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP History"]
 order: 6
-description: "Paper-by-paper exam preparation for IB DP History -- Paper 1's source-evaluation strategy, Paper 2's concept question and two-part thematic-study question, HL Paper 3's regional depth study, a worked source-value-and-limitation answer and a checklist. First examined 2028."
+description: "Paper-by-paper exam preparation for IB DP History -- Paper 1's three source questions on an inquiry question, Paper 2's concept question and two-part thematic-study question, HL Paper 3's regional depth study, a worked answer on how a source's context shapes its use, and a checklist. First examined 2028."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-07
 featured: false
 ---
 
 The [assessment revision notes](/resources/ib-dp-history-assessment-revision-notes/) set out what
-each paper weighs and tests. These notes turn that into an exam-day plan -- Paper 1's source
-evaluation, Paper 2's concept question and two-part thematic-study question, HL Paper 3's separate regional study, and the four
+each paper weighs and tests. These notes turn that into an exam-day plan -- Paper 1's three source
+questions, Paper 2's concept question and two-part thematic-study question, HL Paper 3's separate regional study, and the four
 concepts as transferable analytical tools -- with a worked example and a checklist, alongside the
 [full syllabus guide](/resources/ib-dp-history-syllabus-guide/) already on the site. This covers the
 current course, first examined 2028.
 
-## Paper 1 (30% SL / 20% HL): source evaluation is a distinct, practisable skill
+## Paper 1 (30% SL / 20% HL): three source questions on one inquiry question
 
-Paper 1 is source-based, not pure essay-writing -- **compare and contrast** two sources, **assess the
-value and limitations** of a source given its origin and purpose, and **using the sources and your
-own knowledge** to construct an argument that integrates both. **Exam-preparation priority**:
-practise source-evaluation questions specifically, not just content recall for the focused-study
-topic, since examiners consistently reward evaluation tied directly back to the specific research or
-exam question, not a generic commentary on a source in isolation.
+Paper 1 (1 hour 15 minutes, 24 marks) is source-based, not pure essay-writing. It is set on the
+focused studies and linked by an overarching **inquiry question**, and students answer all three of
+its static questions for one focused study: the first asks you to **explain** how the content of two
+sources can be used to answer the inquiry question; the second to **analyse** how the context of a
+source influences how it can be used to answer it; and the third to **examine** how the perspectives
+in all the sources can be used to answer it. These replace the "compare and contrast" and "using the
+sources and your own knowledge" questions of the previous course. **Exam-preparation priority**:
+practise these three question types specifically, not just content recall for the focused-study
+topic, since every one of them asks how the sources can be used to answer the inquiry question --
+not for a generic commentary on a source in isolation.
 
 ## Paper 2 (40% SL / 25% HL): a concept question, then a short response and an essay
 
@@ -71,14 +75,15 @@ genuinely assessing its value and limitation for answering the *specific* resear
 revise source evaluation as always tied back to the question being investigated, not a generic
 commentary on the source.
 
-## Worked practice scenario: assessing the value and limitations of a source
+## Worked practice scenario: analysing how a source's context shapes its use
 
-Question: "A 1917 newspaper editorial from a government-controlled press supports a wartime policy.
-Assess the value and limitations of this source for a historian investigating public support for the
-policy."
+Inquiry question: "How far did the public support a wartime policy in 1917?" Source C is a 1917
+newspaper editorial, published by a government-controlled press, that supports the policy. In the
+style of Paper 1's second question: "Analyse how the context of source C influences how it can be
+used to answer the inquiry question."
 
 ```
-Step 1 - origin:
+Step 1 - context (origin):
 The source is a 1917 newspaper editorial, published under a
 government-controlled press during wartime.
 
@@ -86,40 +91,43 @@ Step 2 - purpose:
 Its purpose is very likely to build public support for the policy,
 not to record public opinion neutrally.
 
-Step 3 - value (tied to the specific research question):
+Step 3 - how the context helps (tied to the inquiry question):
 It is valuable evidence of the OFFICIAL narrative the government
 wanted the public to believe about the policy at the time -- useful
 for investigating state propaganda and messaging strategy.
 
-Step 4 - limitation (tied to the specific research question):
+Step 4 - how the context limits (tied to the inquiry question):
 It has limited value as direct evidence of ACTUAL public support,
 precisely because government control over the press in wartime makes
 independent, critical reporting of genuine public opinion unlikely --
 the source cannot be assumed to reflect what people actually thought.
 
 Step 5 - conclusion:
-The source is valuable for one specific question (official messaging)
-and limited for a closely related but different one (actual public
-opinion) -- the same source can have different value depending on
-exactly what a historian is investigating it for.
+Its context makes the source valuable for one specific question
+(official messaging) and limited for a closely related but different
+one (actual public opinion) -- the same source can be used in
+different ways depending on exactly what a historian is investigating.
 ```
 
-Notice that every step is tied back to the *specific* research question asked (public support for
-the policy), not a generic comment on newspapers or government sources in the abstract -- exactly
-the distinction the assessment revision notes flag as separating strong from weak source evaluation.
+Notice that every step is tied back to the *specific* inquiry question asked (public support for
+the policy), not a generic comment on newspapers or government sources in the abstract -- the second
+Paper 1 question asks how context affects the source's use for that inquiry question, not for a
+general judgement on the source.
 
 ## Before/during exam checklist
 
-- **Before the exam**: practise source-evaluation questions specifically for Paper 1, not just
-  content recall; build a bank of specific, dated evidence for each Paper 2 thematic topic; HL
+- **Before the exam**: practise the three Paper 1 question types (content, context, perspectives)
+  specifically, not just content recall; build a bank of specific, dated evidence for each Paper 2 thematic topic; HL
   students should revise Paper 3's regional study as a genuinely separate strand with its own
   revision time; practise applying the four concepts across more than one topic or period.
-- **During Paper 1**: tie every source evaluation back to the specific question asked, not a generic
-  comment on the source type.
+- **During Paper 1**: tie every answer back to the inquiry question, not a generic comment on the
+  source type.
 - **During Paper 2 and HL Paper 3**: deploy specific dates, events and named individuals, not general
   narrative description.
-- **On every paper**: check which command term is used -- "compare and contrast" needs both
-  similarity and difference; "assess value and limitations" needs both, tied to origin and purpose.
+- **On every paper**: check which command term is used -- on Paper 1, "explain" (how the content of
+  sources can be used), "analyse" (how a source's context influences its use) and "examine" (how the
+  perspectives in all the sources can be used) each ask for a different answer, always tied to the
+  inquiry question.
 
 ## Self-test
 
@@ -130,13 +138,13 @@ the distinction the assessment revision notes flag as separating strong from wea
    limited for a related one (actual public opinion)?
 4. What distinguishes HL Paper 3 from Papers 1 and 2 in terms of content?
 
-**Answers:** 1. Paper 1 is source-based, testing evaluation of given sources (their origin, purpose,
-value and limitation); Paper 2 and Paper 3 are answered from a student's own knowledge -- Paper 2
+**Answers:** 1. Paper 1 is source-based, testing how given sources can be used to answer an inquiry
+question (through their content, their context and their perspectives); Paper 2 and Paper 3 are answered from a student's own knowledge -- Paper 2
 through a concept question (Section A) and a short response plus an essay on the thematic study
 (Section B), Paper 3 through essays on a regional study. 2. Because Paper 2 and Paper 3 questions are
 always set on a named period, region or theme, and examiners reward evidence-based argument over
 broad, undated narrative description. 3.
-Because a government-controlled wartime press's purpose is to build support for a policy, making it
+Because of its context: a government-controlled wartime press's purpose is to build support for a policy, making it
 strong evidence of the official narrative but weak evidence of what people genuinely thought, since
 independent reporting of real public opinion was unlikely under those conditions. 4. Paper 3 is built
 around an entirely additional regional depth study not examined at SL at all, rather than a harder

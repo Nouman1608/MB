@@ -85,8 +85,9 @@ Question 7 is deliberately built around a single case-study-style scenario touch
 cycle), A.2 (packet switching), and A.4 (supervised learning and its ethical risks) at once -- A.3
 appears only as background in the scenario's networked databases, and is tested directly in questions
 3 and 4 -- because
-this is exactly how the real Paper 1 case-study questions are structured -- Theme A content rarely
-appears as four separate standalone questions in the actual exam. Practising the skill of pulling the
+Paper 1 sets questions on the pre-seen case study in their own section (Section B, short-response
+questions linked to the case study), so Theme A content has to be applied to a scenario, not only
+recalled. Practising the skill of pulling the
 relevant sub-topic out of a scenario, rather than only answering direct recall questions, closes the gap
 the revision notes flag: revising A.1-A.4 in isolation from the pre-released case study.
 

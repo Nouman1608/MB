@@ -31,7 +31,7 @@ and the [IB DP Geography syllabus guide](/resources/ib-dp-geography-syllabus-gui
 
 **1.** Define "vulnerability" as used in the Global climate core theme. **[2]**
 
-**2.** State the three components of vulnerability the specification identifies. **[3]**
+**2.** State the three components of vulnerability in the exposure-sensitivity-adaptive capacity framework used in these Marlbridge resources. **[3]**
 
 **3.** Distinguish adaptation from mitigation, giving one example of each. **[2]**
 
@@ -42,7 +42,7 @@ and the [IB DP Geography syllabus guide](/resources/ib-dp-geography-syllabus-gui
 **(a)** Using the concept of vulnerability, explain why Town A is likely to experience worse outcomes than Town B despite facing the same hazard. **[3]**
 **(b)** Suggest one adaptation measure each town could adopt, explaining why it addresses a specific component of vulnerability. **[3]**
 
-**5.** "Resilience is simply the opposite of vulnerability." Evaluate this statement with reference to the specification's definitions. **[4]**
+**5.** "Resilience is simply the opposite of vulnerability." Evaluate this statement with reference to the definitions used in these resources. **[4]**
 
 ## Section C
 
@@ -54,14 +54,14 @@ and the [IB DP Geography syllabus guide](/resources/ib-dp-geography-syllabus-gui
 
 **1.** Vulnerability is the degree to which a place, community or system is susceptible to harm from a climate hazard. **[2]**
 
-**2.** Exposure, sensitivity, and adaptive capacity. **[3]**
+**2.** Exposure, sensitivity, and adaptive capacity. **[3]** (This is a framework widely used in climate-change research, not the IB guide's own wording: the guide does not use the terms sensitivity or adaptive capacity. It speaks of disparities in exposure to climate change risk and vulnerability, including variations in location, wealth, social differences and risk perception.)
 
 **3.** Adaptation is a deliberate change made in response to actual or expected climate impacts, e.g. building flood defences. **[1]** Mitigation is action taken to reduce the underlying causes of climate change itself, e.g. reducing carbon emissions. **[1]**
 
 **4. (a)** Although exposure to the hazard (rising flood risk) is identical for both towns, Town A has greater sensitivity (weak building codes mean housing stock is more easily damaged) and lower adaptive capacity (lower household incomes mean fewer resources to invest in defences or recover afterwards); Town B's stronger building codes reduce sensitivity and higher incomes increase adaptive capacity, so despite an identical hazard, Town A's combination of higher sensitivity and lower adaptive capacity produces a higher overall vulnerability and therefore worse expected outcomes. **[3]**
 **(b)** Town A: strengthening building codes for new and existing housing, which directly reduces sensitivity by making the physical building stock less susceptible to flood damage. Town B: investing in early-warning systems, which builds adaptive capacity by giving residents more time and information to respond before a flood event occurs. **[3]** (Other valid, well-justified measures are acceptable.)
 
-**5.** A partial truth: resilience (the capacity to absorb, recover from and adapt to disturbance) is related to vulnerability but is not simply its inverse, because the specification treats adaptive capacity as one component feeding into both concepts rather than resilience being a separate opposite scale. A place can reduce its vulnerability by lowering exposure or sensitivity (e.g. relocating away from a floodplain) without necessarily building resilience in the sense of an ongoing capacity to recover from future, unanticipated disturbances; conversely, a resilient community might still be highly exposed to a hazard while retaining a strong capacity to bounce back afterwards. A well-evaluated answer concludes that while lower vulnerability and higher resilience often occur together in practice, treating them as strict opposites oversimplifies two related but analytically distinct concepts. **[4]**
+**5.** A partial truth: resilience (the capacity to absorb, recover from and adapt to disturbance) is related to vulnerability but is not simply its inverse, because, in the framework used here, adaptive capacity feeds into both concepts rather than resilience being a separate opposite scale. A place can reduce its vulnerability by lowering exposure or sensitivity (e.g. relocating away from a floodplain) without necessarily building resilience in the sense of an ongoing capacity to recover from future, unanticipated disturbances; conversely, a resilient community might still be highly exposed to a hazard while retaining a strong capacity to bounce back afterwards. A well-evaluated answer concludes that while lower vulnerability and higher resilience often occur together in practice, treating them as strict opposites oversimplifies two related but analytically distinct concepts. **[4]**
 
 **6.** A strong answer names a specific climate hazard event (e.g. a named flood, drought or heatwave with real dates, location and figures) and works through all three components explicitly: exposure (the physical scale and nature of the hazard the place faced), sensitivity (specific characteristics of the place's population, infrastructure or economy that made it susceptible to harm from that exposure), and adaptive capacity (the specific institutional, financial or social resources the place had available to respond and recover). The strongest answers explain how the three components interacted rather than describing them as a simple checklist -- for example, showing how low adaptive capacity worsened the practical impact of a given level of sensitivity, or how a policy response changed adaptive capacity over the course of the event itself. **[8]** (Marks awarded for accurate, specific case-study detail; explicit, correctly applied use of all three vulnerability components; and a connected rather than listed explanation.)
 
