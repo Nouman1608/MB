@@ -1684,6 +1684,51 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-09-08',
     notes: 'IB is running two computer science specifications side by side during a transition. The legacy course (first assessment 2014) is the one current DP cohorts are actually examined under today: SL/HL core (system fundamentals, computer organization, networks, computational thinking/problem-solving/programming) plus an HL extension (abstract data structures, resource management, control) and an annually issued pre-seen case study (HL Paper 3 only), with an Option (Databases, Modelling and Simulation, Web Science, or Object-Oriented Programming) sat as Paper 2. The new course (Audit I07 fix -- launched February 2025, first teaching August 2025, first assessment May 2027, confirmed directly against the official public subject brief) removes the option papers and HL-only Paper 3, folding databases and machine learning into the core Theme A and restructuring Theme B around computational thinking, programming, OOP and abstract data types, plus a case study and an internal-assessment computational solution, studied in Python or Java. This matches the theme/subtopic breakdown already used in this site\'s existing DP Computer Science resources (syllabusCodes: ["DP Computer Science"]) -- their content was independently correct. See the two matching assessment records (2014 marked \'current\', 2027 marked \'future\') for the sourced paper-by-paper breakdown of both.',
   },
+  {
+    // AQA GCSE Combined Science: Trilogy (8464) is one double-award qualification spanning three
+    // subjects. It is recorded once per subject so a resource tagged with its separate-science
+    // subject can also declare 8464 (D-236, closing E485). It is placed after the separate-science
+    // record (8461) so that board-subject pages and syllabusFor() without codes still resolve
+    // to 8461; syllabusFor() with codes prefers 8461 when both are declared.
+    boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'biology',
+    officialTitle: 'AQA GCSE Combined Science: Trilogy (8464)',
+    code: '8464',
+    boardSummary:
+      'The subject content and required practicals in this specification are also in our GCSE Biology, Chemistry and Physics. So you have the flexibility to co-teach and to move your students between courses.',
+    officialUrl: 'https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification',
+    verifiedOn: '2026-09-16',
+    notes: 'Specification version 1.1 (4 October 2019), for teaching from September 2016 and exams from June 2018. A double-award GCSE graded on a 17-point scale (1-1 to 9-9). Six written papers, two each in biology, chemistry and physics, each 1 hour 15 minutes, 70 marks and 16.7% of the GCSE, all tiered Foundation and Higher. Biology Paper 1 covers topics 1-4 (cell biology, organisation, infection and response, bioenergetics) and Paper 2 topics 5-7 (homeostasis and response; inheritance, variation and evolution; ecology). Subject content sections 4 (biology), 5 (chemistry) and 6 (physics).',
+  },
+  {
+    // AQA GCSE Combined Science: Trilogy (8464) is one double-award qualification spanning three
+    // subjects. It is recorded once per subject so a resource tagged with its separate-science
+    // subject can also declare 8464 (D-236, closing E485). It is placed after the separate-science
+    // record (8462) so that board-subject pages and syllabusFor() without codes still resolve
+    // to 8462; syllabusFor() with codes prefers 8462 when both are declared.
+    boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'chemistry',
+    officialTitle: 'AQA GCSE Combined Science: Trilogy (8464)',
+    code: '8464',
+    boardSummary:
+      'The subject content and required practicals in this specification are also in our GCSE Biology, Chemistry and Physics. So you have the flexibility to co-teach and to move your students between courses.',
+    officialUrl: 'https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification',
+    verifiedOn: '2026-09-16',
+    notes: 'Specification version 1.1 (4 October 2019), for teaching from September 2016 and exams from June 2018. A double-award GCSE graded on a 17-point scale (1-1 to 9-9). Six written papers, two each in biology, chemistry and physics, each 1 hour 15 minutes, 70 marks and 16.7% of the GCSE, all tiered Foundation and Higher. Chemistry Paper 1 covers topics 8-12 (atomic structure and the periodic table; bonding, structure and the properties of matter; quantitative chemistry; chemical changes; energy changes) and Paper 2 topics 13-17 (rate and extent of chemical change; organic chemistry; chemical analysis; chemistry of the atmosphere; using resources). Subject content sections 4 (biology), 5 (chemistry) and 6 (physics).',
+  },
+  {
+    // AQA GCSE Combined Science: Trilogy (8464) is one double-award qualification spanning three
+    // subjects. It is recorded once per subject so a resource tagged with its separate-science
+    // subject can also declare 8464 (D-236, closing E485). It is placed after the separate-science
+    // record (8463) so that board-subject pages and syllabusFor() without codes still resolve
+    // to 8463; syllabusFor() with codes prefers 8463 when both are declared.
+    boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'physics',
+    officialTitle: 'AQA GCSE Combined Science: Trilogy (8464)',
+    code: '8464',
+    boardSummary:
+      'The subject content and required practicals in this specification are also in our GCSE Biology, Chemistry and Physics. So you have the flexibility to co-teach and to move your students between courses.',
+    officialUrl: 'https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification',
+    verifiedOn: '2026-09-16',
+    notes: 'Specification version 1.1 (4 October 2019), for teaching from September 2016 and exams from June 2018. A double-award GCSE graded on a 17-point scale (1-1 to 9-9). Six written papers, two each in biology, chemistry and physics, each 1 hour 15 minutes, 70 marks and 16.7% of the GCSE, all tiered Foundation and Higher. Physics Paper 1 covers topics 18-21 (energy, electricity, particle model of matter, atomic structure) and Paper 2 topics 22-24 (forces, waves, magnetism and electromagnetism); space physics is not in this qualification. Subject content sections 4 (biology), 5 (chemistry) and 6 (physics).',
+  },
 ] as const;
 
 /**

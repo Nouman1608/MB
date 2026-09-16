@@ -11284,3 +11284,38 @@ None in this batch.
 `check-duplicate-resource-scope.mjs` still reports only the same four pre-existing unreviewed groups.
 
 **Open-count position after D-235, as this log reads it (for the audit to reconcile, not to take on trust).** Of round 12's 110 open confirmed errors, 109 are closed here (the 101 reopened IDs less E485, plus E903-E911). **Still open: E485** (deferred, data-layer decision).
+
+## D-236 - E485 closed: AQA GCSE Combined Science: Trilogy (8464) added to the data layer, and the energy-resources pair now declares both codes (2026-09-16)
+
+**Trigger.** D-235 deferred E485. The finding asks to add the second code to the guide's frontmatter and to scope the practice paper to both codes. `validate-academic-content.mjs` rejects any code without a `syllabuses.ts` record, and 8464 had none. The owner approved modelling AQA Combined Science.
+
+**Primary source.** AQA GCSE Combined Science: Trilogy (8464) specification, version 1.1 (4 October 2019). Read to the registered-address block (AQA, Devas Street, Manchester M15 6EX). Used:
+
+- §1.1 for the board summary, quoted verbatim.
+- §2.2 for the six papers: two biology, two chemistry, two physics, each 1 hour 15 minutes, 70 marks, 16.7%, Foundation and Higher tier, with the topics each paper covers.
+- §6.1.3, National and global energy resources.
+- The 17-point grading scale, 1-1 to 9-9.
+
+The live AQA specification page is `https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification` (H1 "GCSE Combined Science: Trilogy").
+
+### Closed -- fixed and verified
+
+| ID | Files | What changed / verified |
+|---|---|---|
+| E485 | `src/data/academic/syllabuses.ts`; `aqa-gcse-physics-national-and-global-energy-resources.md`; `aqa-gcse-physics-national-and-global-energy-resources-practice.md` | **Data layer.** 8464 added as three `syllabuses.ts` records (aqa / gcse / biology, chemistry and physics), because one double-award qualification spans three subjects and resources are tagged by subject. They go after the separate-science records (8461, 8462, 8463), so board-subject pages and `syllabusFor()` without codes still resolve to the separate science. `syllabusFor()` with codes prefers the separate science when both are declared. **Resources.** Both files now declare `syllabusCodes: ["8463", "8464"]`. The practice paper's description and scope note already name 6.1.3 of 8464 from the D-235 round, and the guide already did. The rendered resource line reads "Aligned to AQA GCSE Physics (8463, 8464)". No assessment record was added for 8464; `assessments.ts` still notes the Trilogy route as not modelled. |
+
+### Deferred / Already correct
+
+None.
+
+**Validation.** All pass:
+
+- `validate:academic`, including syllabus-code references
+- `validate-assessments`
+- `validate-cross-board-integrity`
+- `astro check`: 0 errors
+- build: 2128 pages
+- `audit:all`: 0 problems
+- cross-board regression
+
+**Open-count position after D-236, as this log reads it (for the audit to reconcile).** Round 12's 110 are all closed: 109 in D-235 and E485 here. **Still open: none.**

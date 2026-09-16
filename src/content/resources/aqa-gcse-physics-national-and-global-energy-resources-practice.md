@@ -6,7 +6,7 @@ level: ["gcse"]
 topic: "Energy"
 boards: ["aqa"]
 qualifications: ["gcse"]
-syllabusCodes: ["8463"]
+syllabusCodes: ["8463", "8464"]
 syllabusSeries: "For first teaching 2016"
 order: 1
 syllabusTopics:
