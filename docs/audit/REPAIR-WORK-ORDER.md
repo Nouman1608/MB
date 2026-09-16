@@ -138,6 +138,9 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 16 (2026-10-23, Q394):** D-237 verified; I356 and I357 are closed. Still to repair: E912, E913,
+  I358, I359, I360, Q393 (round 15).
+
 - **Round 15 (2026-10-22, Q392): 2 errors, 4 lesser items.** D-235's observations were checked against
   their documents. E912 (J204/01 break-even and added value), E913 (9702 CMB question), I358 (3248 data link),
   I359 (OxfordAQA version declarations), I360 (9264 topic naming and Q7), Q393 (9610 genetic diversity).
