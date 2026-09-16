@@ -10,7 +10,7 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-**2 confirmed-error groups open (E922, E923)** *(2026-10-30, round 23: IB board claims checked; D-241's IB settlements hold; D-244 lands E922 and is read next.)*
+**1 confirmed-error group open (E923)** *(2026-10-31, round 24: D-244 verified — 17 of 17 fixed; E922, I371 and U73 closed.)*
 
 > **Amended 2026-10-12 (Q374).** This order first said 658. That figure never subtracted repair
 > rounds D-138…D-191, which closed 508 of them. The list of what is actually open — 89 plain,
@@ -137,6 +137,11 @@ work order can be a document rather than a conversation.
 ---
 
 ## 8. Current specifics
+
+- **Round 24 (2026-10-31, Q405): D-244 verified.** Nothing more on E922, I371 or U73. Add **I373** (five items
+  from your D-244 observations: 8192 'levels descriptors in the specification', 7192 Q8/Q9 point tokens, 8462
+  exam-prep HT scenario unlabelled, 7131 added value placed in Topic 1, 0455 credit creation unlabelled) to E923,
+  I372 and U74.
 
 - **Round 23 (2026-10-30, Q404): IB board claims.** New: **E923** (seven IB families: Psychology biological
   approach topics, Biology gas-exchange properties, Physics SL Paper 2 marks and IA criteria, Geography global
