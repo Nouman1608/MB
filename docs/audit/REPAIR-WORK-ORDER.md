@@ -10,7 +10,7 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-**1 confirmed-error group open (E925)** *(2026-11-03, round 27: D-247 and D-248 verified — 13 of 13 fixed; E924, I374, U75 and I375 closed; E925 recorded.)*
+**0 confirmed-error groups open** *(2026-11-05, round 29: D-249 verified — E925 and I376 closed. Improvement items I377, I378 and I379 open.)*
 
 > **Amended 2026-10-12 (Q374).** This order first said 658. That figure never subtracted repair
 > rounds D-138…D-191, which closed 508 of them. The list of what is actually open — 89 plain,
@@ -137,6 +137,12 @@ work order can be a document rather than a conversation.
 ---
 
 ## 8. Current specifics
+
+- **Round 29 (2026-11-05, Q410): D-249 verified; 40 more closures read, all fixed; leads worked.** Nothing more on
+  E925 or I376. Work **I378** (CS Theme A: A2.1.3, SL and HL, maps network devices to the TCP/IP layers, so the
+  layers are not HL only) and **I379** (11 items: 2058 edition labels, the accounting 25% conclusion, the maths
+  identity's cos x condition, 0495 Q4, 0580 'equal weight', 0610 villus labelling and organism definition, the IB
+  Literature oral timing, the MYP design ePortfolio, J247 digestion, J248 C3.2), with I377.
 
 - **Round 28 (2026-11-04, Q409): the five unsettled round-12 closures read.** E360, E822 and E866 fixed; E850
   and E539 fixed with residues. Add **I377** (the IB Psychology subject guide's opening is 2027-guide text in a
