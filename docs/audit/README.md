@@ -75,6 +75,7 @@ corpus briefly ended up worse than baseline on five files — see the amendment 
 | `2026-11-17-findings.md` | Round 41: every edit in D-252 to D-255 read (193 files) — no error introduced; I392. D-256 read — I390, I391 fixed; E936 three sub-points remain. **1 confirmed-error group open** (E936). |
 | `2026-11-18-findings.md` | Round 42: site content outside the resources read for the first time — **E937** (boards' documents contradict 9 statements), **E938** (site's own code or data contradicts 10), I393, U76. D-257 read — E936, I392 fixed. **2 confirmed-error groups open.** |
 | `2026-11-19-findings.md` | Round 43: syllabus data layer read record by record (434 records, 22 IB assessment records) — **E939** (topic lists), **E940** (figures, dates, notes), **E941** (links), I394–I396, U77. Every non-IB assessment component matches. **5 confirmed-error groups open.** |
+| `2026-11-20-findings.md` | Round 44: D-258 read — E940, E941, I393–I395 closed (two audit sub-points withdrawn); E937, E938 residues; E939 deferrals upheld; **E942** (2 new errors), I397. **4 confirmed-error groups open.** |
 | `2026-09-15-tier-resolution-response.md` | Cambridge 0620 tier question, resolved by coordinates. |
 | `correction-constraints.md` | **Standing rules. Start here.** |
 
@@ -158,9 +159,9 @@ finding against a snapshot that was three days old.
 
 | | |
 |---|---|
-| findings recorded | 1,803 |
-| confirmed errors open | **5 groups** (E937, E938: site content; E939, E940, E941: syllabus data) *(reconciliation current through **D-257**; every declared closure D-138 to D-257 read; site content first read in round 42 and the syllabus data layer in round 43. I393–I396, U76, U77 open. **Not a statement that the site is correct.**)* |
-| declared closed by decision log D-138…D-257 | 871 |
+| findings recorded | 1,806 |
+| confirmed errors open | **4 groups** (E937, E938: residues; E939: two deferrals; E942: new) *(reconciliation current through **D-258**; every declared closure D-138 to D-258 read. I396, I397, U76, U77 open. **Not a statement that the site is correct.**)* |
+| declared closed by decision log D-138…D-258 | 873 |
 | still open despite a closing round (deferred, partial, disputed, heading-only, or reopened) | 0 |
 | withdrawn by this audit | 1 (E746) |
 | resources read end to end | 1,251 of 1,251 baseline; all 1,645 on `main` at `251571e` read at least once (round 19). Board claims in the 397 post-baseline resources unchecked (U72). |

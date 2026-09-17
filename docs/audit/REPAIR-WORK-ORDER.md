@@ -138,6 +138,10 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 44 (2026-11-20, Q425): D-258 verified.** E940, E941, I393-I395 closed. Finish **E937** and **E938** residues
+  (I397 (1)-(3)), **E942** (equilibria practice Kp labelled AS; 9990 and 7182 complete flags), the **E939** deferrals (0457, 9UR0),
+  and **I397** (I396 residues, minor items, right-to-left blocks mixing Urdu and English).
+
 - **Round 43 (2026-11-19, Q424): syllabus data layer read record by record.** Fix **E939** (topic lists that leave out or replace
   topics, sections or options), **E940** (17 wrong figures, dates and notes, including IB Mathematics HL Paper 3 and Global Politics
   Paper 2 durations) and **E941** (dead or wrong links); then **I394** (partial subtopic lists), **I395** (paraphrased board summaries)
