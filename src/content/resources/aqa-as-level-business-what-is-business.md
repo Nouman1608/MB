@@ -34,8 +34,10 @@ background content, on AS Paper 2 (which focuses on Unit 3.2 but is
 explicitly scoped by AQA to also draw on 3.1.1 and 3.1.2).
 
 This guide does not cover the remainder of Unit 3.1 -- **3.1.3
-Marketing management** and **3.1.4 Financial management** -- which are
-not yet published on this site as dedicated AS resources.
+Marketing management** and **3.1.4 Financial management** -- nor Unit
+3.2 (**3.2.1 People management** and **3.2.2 Operations management**),
+the unit AS Paper 2 focuses on. None of those four sub-topics is yet
+published on this site as a dedicated AS resource.
 
 ## Where this fits in 7137
 
@@ -88,10 +90,11 @@ examined on exactly this sub-topic set on Paper 1, and its concepts
 recur throughout the rest of the AS course.
 
 Start with **entrepreneurs and business planning (3.1.1)**: the
-specification asks you to explain both the financial motives for
-starting a business (profit, independence, control) and the
-non-financial ones (turning a passion into a career, filling a gap the
-entrepreneur has noticed), and to link named entrepreneurial
+specification asks you to explain the reasons for setting up in
+business, financial and non-financial: financial ones such as profit
+and income, and non-financial ones such as independence, control,
+turning a passion into a career and filling a gap the entrepreneur has
+noticed, and to link named entrepreneurial
 characteristics -- risk-taking, resilience, focus, passion, innovation,
 adaptability -- to how they help someone navigate the real challenges
 of setting up a business (funding, competition, uncertainty). Questions

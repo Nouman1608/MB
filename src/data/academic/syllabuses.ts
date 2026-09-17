@@ -815,13 +815,13 @@ export const SYLLABUSES: readonly Syllabus[] = [
       "The Cambridge IGCSE Business Studies syllabus develops learners' understanding of business activity in the public and private sectors, and the importance of innovation and change.",
     officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-business-studies-0450/',
     verifiedOn: '2026-08-19',
-    notes: 'Syllabus for exams in 2026 (Version 2), the last examination year for 0450: Cambridge has changed the syllabus code to 0264 (Cambridge IGCSE Business) for first assessment in March 2027. Six topics: understanding business activity, people in business, marketing, operations management, financial information and decisions, and external influences on business activity. 0450 is replaced from 2027 by Cambridge IGCSE Business (0264), which has a new syllabus code and name and revised content (0264 syllabus for exams in 2027, 2028 and 2029; exams in the June and November series, and in the March series in India). Both codes now have their own assessment record (0450 legacy-teach-out, 0264 current) since D-262.',
+    notes: 'Syllabus for exams in 2026 (Version 2), the last examination year for 0450: Cambridge has changed the syllabus code to 0264 (Cambridge IGCSE Business) for first assessment in March 2027. Six topics: understanding business activity, people in business, marketing, operations management, financial information and decisions, and external influences on business activity. 0450 is replaced from 2027 by Cambridge IGCSE Business (0264), which has a new syllabus code and name and revised content (0264 syllabus for exams in 2027, 2028 and 2029; exams in the June and November series, and in the March series in India). Both codes now have their own assessment record (0450 legacy-teach-out, 0264 current) since 2026-09-17.',
   },
   {
     boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'business',
     officialTitle: 'Pearson Edexcel International Advanced Level Business (YBS11 / XBS11)',
     code: 'YBS11',
-    relatedCodes: ['XBS11', 'WBS11', 'WBS12', 'WBS13', 'WBS14'],
+    relatedCodes: ['XBS11', 'WBS11/01', 'WBS12/01', 'WBS13/01', 'WBS14/01'],
     boardSummary:
       'Pearson Edexcel International Advanced Level Business develops learners\' understanding of business concepts, decision-making and strategy through a modular four-unit structure.',
     officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-advanced-levels/business-2018.html',
@@ -848,6 +848,10 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-08-19',
     notes: 'For first teaching from September 2023; being taught out to cohorts taking exams through summer 2027. It is replaced by 7138, taught from September 2026, which runs alongside 7132 during the transition. Ten subject-content sections spanning functional decision-making (marketing, operations, finance, HR) through to business strategy.',
   },
+  // Ordering (D-264; wording moved out of `notes` in D-265, round 48 E944 (3)):
+  // this 7137 entry is listed before the withdrawn 7131 entry below so the
+  // cross-board-integrity validator's first-match lookup resolves to the
+  // current specification. Reader-facing `notes` never carry internal notes.
   {
     boardSlug: 'aqa', qualificationSlug: 'as-level', subjectSlug: 'business',
     officialTitle: 'AQA AS Business (7137)',
@@ -856,7 +860,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'AQA AS Business (7137) is AQA\'s reformed AS specification, replacing 7131, sharing its subject content with the first two units of AQA A-level Business (7138).',
     officialUrl: 'https://www.aqa.org.uk/subjects/business/as-level/business-7137',
     verifiedOn: '2026-08-28',
-    notes: 'For first teaching from September 2026; first AS exams June 2027. Replaces 7131, which was last examined in summer 2026. AS Paper 1 assesses the AS content in Unit 3.1 (What is business? Managing marketing and finance) and AS Paper 2 the AS content in Unit 3.2 (Managing people and operations), the first two units of the A-level Business (7138) content. Listed before the withdrawn 7131 record below so the cross-board-integrity validator\'s first-match lookup resolves to the current spec (I396/D-264).',
+    notes: 'For first teaching from September 2026; first AS exams June 2027. Replaces 7131, which was last examined in summer 2026. AS Paper 1 assesses the AS content in Unit 3.1 (What is business? Managing marketing and finance) and AS Paper 2 the AS content in Unit 3.2 (Managing people and operations), the first two units of the A-level Business (7138) content.',
   },
   {
     boardSlug: 'aqa', qualificationSlug: 'as-level', subjectSlug: 'business',
@@ -1323,7 +1327,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'Cambridge O Level Urdu is offered as two distinct syllabuses: First Language Urdu for candidates whose mother tongue is Urdu, and Second Language Urdu for candidates learning Urdu as an additional language.',
     officialUrl: 'https://www.cambridgeinternational.org/Images/721463-2027-syllabus.pdf',
     verifiedOn: '2026-08-25',
-    notes: 'First Language Urdu (3247): Paper 1 Reading and Writing (50%) and Paper 2 Texts — Unseen Passage, Poetry and Prose with prescribed set texts (50%). Second Language Urdu (3248, source: cambridgeinternational.org/Images/721465-2027-2029-syllabus.pdf, Version 1, for exams in 2027, 2028 and 2029): Paper 1 Reading and Writing (50%) and Paper 2 Grammar, Writing and Translation (50%). Candidates take one syllabus or the other, not both, in the same series. The 2024-2026 3248 syllabus (634455) is still examined in November 2026, its final series; the 2027-2029 syllabus keeps the identical two-paper split and states there are no significant changes which affect teaching. This combined record\'s officialUrl links the 3247 document; resources declaring syllabusCodes ["3248"] specifically resolve instead to the dedicated 3248 record below (D-133).',
+    notes: 'First Language Urdu (3247): Paper 1 Reading and Writing (50%) and Paper 2 Texts — Unseen Passage, Poetry and Prose with prescribed set texts (50%). Second Language Urdu (3248, source: cambridgeinternational.org/Images/721465-2027-2029-syllabus.pdf, Version 1, for exams in 2027, 2028 and 2029): Paper 1 Reading and Writing (50%) and Paper 2 Grammar, Writing and Translation (50%). Candidates take one syllabus or the other, not both, in the same series. The 2024-2026 3248 syllabus (634455) is still examined in November 2026, its final series; the 2027-2029 syllabus keeps the identical two-paper split and states there are no significant changes which affect teaching. This combined record\'s officialUrl links the 3247 document; resources declaring syllabusCodes ["3248"] specifically resolve instead to the dedicated 3248 record below.',
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'urdu-language',
@@ -1333,7 +1337,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'Cambridge O Level Second Language Urdu is for candidates learning Urdu as an additional language, covering reading, writing, grammar and translation from English into Urdu.',
     officialUrl: 'https://www.cambridgeinternational.org/Images/721465-2027-2029-syllabus.pdf',
     verifiedOn: '2026-09-16',
-    notes: 'D-133: split out from the combined 3247/3248 record so that resources declaring syllabusCodes ["3248"] link the Second Language document rather than the combined record\'s 3247 (First Language) URL. D-238 (I358): now the syllabus for exams in 2027, 2028 and 2029 (721465, Version 1, September 2024), which the 3248 resources declare. Paper 1 Reading and Writing (1h45, 50 marks, 50%) and Paper 2 Grammar, Writing and Translation (1h30, 50 marks, 50%), identical to 2024-2026; the syllabus states there are no significant changes which affect teaching. The 2024-2026 syllabus (634455) is still examined in November 2026, its final series.',
+    notes: 'Split out from the combined 3247/3248 record so that resources declaring syllabusCodes ["3248"] link the Second Language document rather than the combined record\'s 3247 (First Language) URL. Now the syllabus for exams in 2027, 2028 and 2029 (721465, Version 1, September 2024), which the 3248 resources declare. Paper 1 Reading and Writing (1h45, 50 marks, 50%) and Paper 2 Grammar, Writing and Translation (1h30, 50 marks, 50%), identical to 2024-2026; the syllabus states there are no significant changes which affect teaching. The 2024-2026 syllabus (634455) is still examined in November 2026, its final series.',
   },
   {
     boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'urdu-language',
@@ -1583,7 +1587,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'IB DP Chemistry is concerned with identifying patterns that help explain matter at the microscopic level, allowing its behaviour to be predicted and controlled at a macroscopic level, combining representative models and explanatory theories with an emphasis on scientific inquiry, at Standard Level (SL) and Higher Level (HL).',
     officialUrl: 'https://www.ibo.org/globalassets/new-structure/recognition/pdfs/dp_sciences_chemistry_subject-brief_jan_2022_e.pdf',
     verifiedOn: '2026-09-04',
-    notes: 'First assessment 2025. Sourced from the freely public official subject brief plus the freely public official specimen exam papers, both directly fetched and read this session -- no licensed subject guide was needed. Six structure/reactivity topics plus an experimental programme including a scientific investigation. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at Higher Level only. Note (2026-09-13, I282): this officialUrl correctly remains the freely public subject brief, which is what was actually used to verify this syllabus entry\'s structure -- a separate task from writing resource content. The ten ib-dp-chemistry-* resource files themselves cite the full Chemistry guide directly (D-190), since that fuller document was needed for content depth; the two citations are not in conflict, they answer different questions.',
+    notes: 'First assessment 2025. Sourced from the freely public official subject brief plus the freely public official specimen exam papers, both directly fetched and read this session -- no licensed subject guide was needed. Six structure/reactivity topics plus an experimental programme including a scientific investigation. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at Higher Level only. Note (2026-09-13, I282): this officialUrl correctly remains the freely public subject brief, which is what was actually used to verify this syllabus entry\'s structure -- a separate task from writing resource content. The ten ib-dp-chemistry-* resource files themselves cite the full Chemistry guide directly, since that fuller document was needed for content depth; the two citations are not in conflict, they answer different questions.',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'geography',
@@ -1673,7 +1677,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'DP psychology introduces students to the biological, cognitive and sociocultural approaches to understanding behaviour, applied through four contexts of study, at Standard Level (SL) and Higher Level (HL).',
     officialUrl: 'https://www.ibo.org/university-admission/latest-curriculum-updates/psychology-updates/',
     verifiedOn: '2026-09-08',
-    notes: 'IB is running two psychology specifications side by side during a transition. The earlier course (first assessment 2019, still examined for cohorts partway through it) covers three core approaches to understanding behaviour -- biological, cognitive and sociocultural -- plus one of four options (abnormal, developmental, health, or relationships psychology) and a research/ethics strand running throughout, assessed via an experimental-study internal assessment. The new course (launched February 2025, first teaching August 2025, first assessment May 2027, confirmed directly against the official public subject brief) restructures around four concepts (bias, causality, change, measurement, perspective, responsibility) explored through four contexts (health and well-being; human development; human relationships; learning and cognition), with Higher-Level-only extensions covering culture, motivation and technology plus data analysis and interpretation, assessed via a research-proposal internal assessment. See the two matching assessment records (2019 marked `legacy-teach-out` and 2027 marked `current` since D-261, because teaching of the new course began in August 2025) for the sourced paper-by-paper breakdown of both.',
+    notes: 'IB is running two psychology specifications side by side during a transition. The earlier course (first assessment 2019, still examined for cohorts partway through it) covers three core approaches to understanding behaviour -- biological, cognitive and sociocultural -- plus one of four options (abnormal, developmental, health, or relationships psychology) and a research/ethics strand running throughout, assessed via an experimental-study internal assessment. The new course (launched February 2025, first teaching August 2025, first assessment May 2027, confirmed directly against the official public subject brief) restructures around four concepts (bias, causality, change, measurement, perspective, responsibility) explored through four contexts (health and well-being; human development; human relationships; learning and cognition), with Higher-Level-only extensions covering culture, motivation and technology plus data analysis and interpretation, assessed via a research-proposal internal assessment. See the two matching assessment records (2019 marked `legacy-teach-out` and 2027 marked `current` since 2026-09-17, because teaching of the new course began in August 2025) for the sourced paper-by-paper breakdown of both.',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'environmental-systems-and-societies',

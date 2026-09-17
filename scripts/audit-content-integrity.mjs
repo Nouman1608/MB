@@ -141,7 +141,7 @@ for (const file of builtHtmlFiles) {
 // overbroad filter rather than a targeted one.
 const INTERNAL_NOTE_PATTERNS = [
   { re: /docs\/decision-log\.md/i, label: 'decision-log.md file path' },
-  { re: /\bD-0\d{2,3}\b/, label: 'decision-log entry ID (D-0NN)' },
+  { re: /\bD-\d{2,4}\b/, label: 'decision-log entry ID (D-NNN)' },
   { re: /\bWS\d{1,2}\b/, label: 'workstream ID (WSN)' },
   { re: /src\/data\/academic\//, label: 'source file path' },
   { re: /\bscripts\/[a-z-]+\.mjs\b/, label: 'validator/script file path' },

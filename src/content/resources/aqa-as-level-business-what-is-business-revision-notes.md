@@ -132,7 +132,7 @@ A common error is treating the influences on business decisions (objectives, ris
 ## Self-test
 
 1. Name three characteristics of entrepreneurs named by the specification.
-2. Name the six influences on business decisions the specification lists.
+2. Name the seven influences on business decisions the specification lists.
 3. What does SMART stand for, and which word does the specification use in place of "Achievable"?
 4. Compare a sole trader and a private limited company on liability and access to finance.
 5. Give the formula for dividend yield.

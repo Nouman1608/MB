@@ -6,7 +6,7 @@ level: ["a-levels"]
 topic: "Managing business activities"
 boards: ["edexcel"]
 qualifications: ["a-level"]
-syllabusCodes: ["WBS12"]
+syllabusCodes: ["WBS12/01"]
 syllabusSeries: "Issue 1, September 2017"
 stage: "AS"
 order: 2

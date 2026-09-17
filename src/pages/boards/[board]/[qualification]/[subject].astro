@@ -1,6 +1,6 @@
 ---
 import { teachingMonthLabel } from '../../../../utils/academic/teaching-month';
-import { rtlLangFor } from '../../../../utils/markdown/hast-rtl-blocks.mjs';
+import { recordRtlLang, nameRtlLang } from '../../../../utils/academic/rtl-names';
 /**
  * Academic hub — /boards/{board}/{qualification}/{subject}/
  *
@@ -189,6 +189,7 @@ const articles = await relatedArticles({ subject: hubSlug, limit: 3 });
  * plainly which topics we have material for — and which we do not.
  */
 const syllabusTopics = topicsFor(c.boardSlug, c.qualificationSlug, c.subjectSlug);
+const topicsRtlLang = recordRtlLang(syllabusTopics?.topics ?? []);
 const coverage = (syllabusTopics?.topics ?? []).map((t) => ({
   topic: t,
   resources: resources.filter((r) =>
@@ -649,7 +650,7 @@ const jsonLd = [
                         <td class="py-2 pe-3 text-ink-mute">{comp.marks}</td>
                         <td class="py-2 pe-3 text-ink-mute">{comp.asWeightingPercent != null && comp.asWeightingPercent !== comp.weightingPercent
                           ? (comp.weightingPercent === 0 ? `${comp.asWeightingPercent}% (AS only)` : `${comp.asWeightingPercent}% AS / ${comp.weightingPercent}% A Level`)
-                          : `${comp.weightingPercent}%`}{comp.alternativeGroup && <span aria-label="Sat as an alternative to another component" title="Sat as an alternative to another component"> *</span>}</td>
+                          : `${comp.weightingPercent}%`}{comp.alternativeGroup && <span aria-label="Sat as an alternative to another component" title="Sat as an alternative to another component"> *</span>}{comp.asAlternativeGroup && <span aria-label="At AS Level, sat as an alternative to another component" title="At AS Level, sat as an alternative to another component"> †</span>}</td>
                         <td class="py-2 text-ink-mute">{ASSESSMENT_TYPE_LABEL[comp.assessmentType] ?? comp.assessmentType}</td>
                       </tr>
                     ))}
@@ -658,6 +659,11 @@ const jsonLd = [
                 </div>
                 {a.components.some((comp) => comp.alternativeGroup) && (
                   <p class="m-0 mt-2 text-[13px] text-ink-mute">* Candidates sit one of the components marked with an asterisk, not all of them.</p>
+                )}
+                {/* D-265 (round 48, I401 (5)): an AS-only alternative group needs its own
+                    footnote, or the AS column reads as though every paper is sat. */}
+                {a.components.some((comp) => comp.asAlternativeGroup) && (
+                  <p class="m-0 mt-2 text-[13px] text-ink-mute">† At AS Level, candidates sit one of the components marked with a dagger, not all of them.</p>
                 )}
                 {a.components.some((comp) => comp.routeGroup && comp.routeGroup.length > 0) && (
                   <p class="m-0 mt-2 text-[13px] text-ink-mute">
@@ -750,7 +756,7 @@ const jsonLd = [
                         <span class="font-mono text-[12px] text-gold-600">
                           {topic.stage ? `${topic.stage} ` : ''}{topic.number}
                         </span>
-                        <span>{rtlLangFor(topic.name) ? <bdi dir="rtl" lang={rtlLangFor(topic.name)}>{topic.name}</bdi> : topic.name}</span>
+                        <span>{nameRtlLang(topic.name, topicsRtlLang) ? <bdi dir="rtl" lang={nameRtlLang(topic.name, topicsRtlLang)}>{topic.name}</bdi> : topic.name}</span>
                       </p>
                       {got.length > 0 ? (
                         <span class="shrink-0 rounded-sm border border-[#B7D8C6] bg-[#EEF7F1] px-2 py-0.5 font-mono text-[10.5px] uppercase tracking-[0.08em] text-success">
@@ -776,7 +782,7 @@ const jsonLd = [
                         {topic.subtopics.map((st: { name: string }, i: number) => (
                           <>
                             {i > 0 && ' · '}
-                            {rtlLangFor(st.name) ? <bdi dir="rtl" lang={rtlLangFor(st.name)}>{st.name}</bdi> : st.name}
+                            {nameRtlLang(st.name, topicsRtlLang) ? <bdi dir="rtl" lang={nameRtlLang(st.name, topicsRtlLang)}>{st.name}</bdi> : st.name}
                           </>
                         ))}
                       </p>

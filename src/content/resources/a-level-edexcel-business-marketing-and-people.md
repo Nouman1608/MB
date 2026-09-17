@@ -6,7 +6,7 @@ level: ["a-levels"]
 topic: "Marketing and people"
 boards: ["edexcel"]
 qualifications: ["a-level"]
-syllabusCodes: ["WBS11"]
+syllabusCodes: ["WBS11/01"]
 syllabusSeries: "Issue 1, September 2017"
 stage: "AS"
 order: 1

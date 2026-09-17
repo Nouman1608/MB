@@ -17,7 +17,7 @@ import { boardBySlug } from '../../../../data/academic/boards';
 import { qualificationBySlug } from '../../../../data/academic/qualifications';
 import { subjectBySlug } from '../../../../data/academic/subjects';
 import { activeOnly, academicHubPath } from '../../../../utils/academic';
-import { rtlLangFor } from '../../../../utils/markdown/hast-rtl-blocks.mjs';
+import { recordRtlLang, nameRtlLang } from '../../../../utils/academic/rtl-names';
 
 export async function getStaticPaths() {
   const activeKeys = new Set(activeOnly().map((c) => `${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`));
@@ -36,6 +36,7 @@ if (!version) throw new Error(`No syllabus version for ${board}/${qualification}
 const boardName = boardBySlug(board)?.name ?? board;
 const qualificationName = qualificationBySlug(qualification)?.name ?? qualification;
 const subjectName = subjectBySlug(subject)?.name ?? subject;
+const rtlLang = recordRtlLang(version.topics);
 const hubHref = academicHubPath({ boardSlug: board, qualificationSlug: qualification, subjectSlug: subject } as any);
 ---
 <BaseLayout
@@ -63,13 +64,13 @@ const hubHref = academicHubPath({ boardSlug: board, qualificationSlug: qualifica
       <ol class="m-0 list-none space-y-8 p-0">
         {version.topics.map((topic) => (
           <li>
-            <h2 class="m-0 mb-3 text-[18px] font-semibold text-navy-900">{topic.number}. {rtlLangFor(topic.name) ? <bdi dir="rtl" lang={rtlLangFor(topic.name)}>{topic.name}</bdi> : topic.name}{topic.stage ? ` (${topic.stage})` : ''}</h2>
+            <h2 class="m-0 mb-3 text-[18px] font-semibold text-navy-900">{typeof topic.number === 'number' ? `${topic.number}. ` : `${topic.number} `}{nameRtlLang(topic.name, rtlLang) ? <bdi dir="rtl" lang={nameRtlLang(topic.name, rtlLang)}>{topic.name}</bdi> : topic.name}{topic.stage ? ` (${topic.stage})` : ''}</h2>
             {topic.subtopics.length > 0 ? (
               <ul class="m-0 grid gap-2 p-0 sm:grid-cols-2">
                 {topic.subtopics.map((s) => (
                   <li class="flex items-start gap-2 text-[14.5px] text-ink-mute">
                     <span class="mt-0.5 h-4 w-4 shrink-0 rounded-sm border border-navy-rule print:border-black" aria-hidden="true"></span>
-                    <span>{s.number} {rtlLangFor(s.name) ? <bdi dir="rtl" lang={rtlLangFor(s.name)}>{s.name}</bdi> : s.name}{s.tier ? ` — ${s.tier}` : ''}</span>
+                    <span>{s.number} {nameRtlLang(s.name, rtlLang) ? <bdi dir="rtl" lang={nameRtlLang(s.name, rtlLang)}>{s.name}</bdi> : s.name}{s.tier ? ` — ${s.tier}` : ''}</span>
                   </li>
                 ))}
               </ul>
