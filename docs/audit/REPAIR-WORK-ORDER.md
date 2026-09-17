@@ -10,7 +10,7 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-**28 confirmed-error groups open** *(2026-11-07, round 31: 23 closures from D-138…D-225 reopened in rounds 30–31; E926–E930 recorded. Improvement items I380–I382 open.)*
+**40 confirmed-error groups open** *(2026-11-08, round 32: 34 closures from D-138…D-225 reopened in rounds 30–32; E926–E931 recorded. Improvement items I380–I383 open.)*
 
 > **Amended 2026-10-12 (Q374).** This order first said 658. That figure never subtracted repair
 > rounds D-138…D-191, which closed 508 of them. The list of what is actually open — 89 plain,
@@ -137,6 +137,13 @@ work order can be a document rather than a conversation.
 ---
 
 ## 8. Current specifics
+
+- **Round 32 (2026-11-08, Q413): closures E338–E466 read; 11 reopened.** Reopened (Q413 gives file and line): E343,
+  E399, E406 (`syllabus-topics.ts` records rendered on the subject pages and checklists), E354 (IB Economics practice
+  Q5), E373 (7132 managers-leadership paper layout), E377 (0450 'Suggest'), E382 (9609 'State'), E386 (Edexcel
+  organisational design), E390 (J204 'synoptic section'), E431 (9093 region sociolects), E458 (8702 unseen poetry).
+  Also **E931** (0264 'renumbers every sub-topic'; 'lowers total cost to £135,000'; a scheme citing a fact the source
+  lacks) and I383. E398 is withdrawn.
 
 - **Round 31 (2026-11-07, Q412): closures E194–E337 read; 9 reopened; D-250 and D-251 verified.** Reopened (Q412 gives
   file and line): E199 (IAL Physics descriptions WPH14/WPH15), E218 (OCR Gateway exam-prep 'required practical'),
