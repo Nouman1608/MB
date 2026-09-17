@@ -790,13 +790,13 @@ export const SYLLABUSES: readonly Syllabus[] = [
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'business',
-    officialTitle: 'Cambridge IGCSE Business Studies (0450)',
-    code: '0450',
+    officialTitle: 'Cambridge IGCSE Business Studies (0450) / Cambridge IGCSE Business (0264)',
+    code: '0450 / 0264',
     boardSummary:
       "The Cambridge IGCSE Business Studies syllabus develops learners' understanding of business activity in the public and private sectors, and the importance of innovation and change.",
     officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-business-studies-0450/',
     verifiedOn: '2026-08-19',
-    notes: 'Syllabus for exams in 2026 (Version 2), the last examination year for 0450: Cambridge has changed the syllabus code to 0264 (Cambridge IGCSE Business) for first assessment in March 2027. Six topics: understanding business activity, people in business, marketing, operations management, financial information and decisions, and external influences on business activity. 0450 is replaced from 2027 by Cambridge IGCSE Business (0264), which has a new syllabus code and name and revised content (0264 syllabus for exams in 2027, 2028 and 2029).',
+    notes: 'Syllabus for exams in 2026 (Version 2), the last examination year for 0450: Cambridge has changed the syllabus code to 0264 (Cambridge IGCSE Business) for first assessment in March 2027. Six topics: understanding business activity, people in business, marketing, operations management, financial information and decisions, and external influences on business activity. 0450 is replaced from 2027 by Cambridge IGCSE Business (0264), which has a new syllabus code and name and revised content (0264 syllabus for exams in 2027, 2028 and 2029; exams in the June and November series, and in the March series in India). Both codes now have their own assessment record (0450 legacy-teach-out, 0264 current) since D-262.',
   },
   {
     boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'business',

@@ -2,6 +2,7 @@
 # Static rules first (Cloudflare evaluates these before dynamic ones).
 
 # Syllabus/specification-code discovery: /syllabus/<CODE>/ -> canonical hub (WS1)
+/syllabus/0264/                                           /boards/cambridge/igcse/business/  301
 /syllabus/0417/                                           /boards/cambridge/igcse/ict/  301
 /syllabus/0448/                                           /boards/cambridge/igcse/pakistan-studies/  301
 /syllabus/0450/                                           /boards/cambridge/igcse/business/  301

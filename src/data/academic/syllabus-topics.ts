@@ -1943,12 +1943,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
 
   {
     boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'business',
-    syllabusCode: '0450', syllabusSeries: 'For examination in 2026', 
+    syllabusCode: '0450 / 0264', syllabusSeries: 'For examination in 2026 (0450)', 
     effectiveFrom: '2026', effectiveTo: '2026', status: 'current',
     tiered: false,
     source: 'Cambridge International -- official IGCSE Business Studies (0450) syllabus PDF, Version 2, published December 2025',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/697146-2026-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'Cambridge IGCSE Business Studies (0450), syllabus for exams in 2026 (Version 2, no significant changes affecting teaching). Full topic and sub-topic structure reproduced directly from the official syllabus PDF, fetched 2026-08-19.',
+    notes: 'Cambridge IGCSE Business Studies (0450), syllabus for exams in 2026 (Version 2, no significant changes affecting teaching). Full topic and sub-topic structure reproduced directly from the official syllabus PDF, fetched 2026-08-19. The code field carries the transition pair 0450 / 0264 from D-262 (round 47, I400 (3)), but the topics below are 0450\'s. The successor syllabus, Cambridge IGCSE Business (0264, for exams 2027-2029), keeps the same six topics and renames and reorders several sub-topics (for example 1.2 Economic sectors, 2.1 Human resource management (HRM), 3.1 Marketing and the market, 4.2 Technology and production of goods and services, 4.3 Sustainable production of goods and services, 5.3 Profit and loss, 6.5 Pressure groups), read from its own syllabus PDF on 2026-09-17; entering that list, and re-pointing the resources that link 0450 sub-topic slugs, is deferred.',
     topics: [
       { number: 1, name: 'Understanding business activity', slug: 'understanding-business-activity-cambridge-igcse-business', subtopics: [
         { number: '1.1', name: 'Business activity', slug: 'business-activity-cambridge-igcse-business' },

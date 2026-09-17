@@ -257,11 +257,12 @@ export const MATRIX: readonly Combination[] = [
     // IGCSE Business" (new syllabus code and name; 0264 syllabus 2027-2029,
     // Version 2, "Changes to syllabus code": "The syllabus name has been
     // changed" / "There is a new syllabus code 0264"). First 0264 exams are
-    // in the March 2027 series (India only), then June 2027. Recorded as 0450
-    // since 2026 is the current year, as with O Level 7115 -> 7081 below.
+    // in the March 2027 series (India only), then June 2027. Recorded as the
+    // transition pair '0450 / 0264' since D-262 (round 47, I400 (3)), as with
+    // OxfordAQA Business '9625 / 9725'.
     codes: {
       chemistry: '0620', mathematics: '0580', physics: '0625', biology: '0610',
-      business: '0450', economics: '0455', accounting: '0452',
+      business: '0450 / 0264', economics: '0455', accounting: '0452',
       // Verified at cambridgeinternational.org 2026-08-19. Plain A*-G codes,
       // not the numeric-grade "(9-1)" sibling syllabuses (0984, 0983).
       'computer-science': '0478', ict: '0417',

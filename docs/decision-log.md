@@ -12782,3 +12782,33 @@ U76; I393 (14); U77 except Global Politics; 5014 companions; a native reader's c
 **Validation.** `astro check` 0 errors; `validate:academic`; `validate-assessments` (exactly one current DP Psychology record); cross-board integrity; rendered academic labels (after build); practice bank; commercial claims, pricing consistency, tiered FAQ routes, review integrity, grade thresholds, AS-level display, academic matrix and FX policy; cross-board regression; negative suite 35/35; functions tests 31 pass; duplicate-scope check (the 4 pre-existing groups only); build 2141 HTML files (content cache cleared first); `audit:all` 0 problems across 2140 pages. Rendered: IB programme fee answer; IB Psychology hub (2019 being withdrawn in favour of 2027; no "coming" FAQ); syllabus-updates (no Upcoming section; 2019 under being withdrawn); ar/ur/bn legal dates.
 
 **Open-count position after D-261.** E938 residue fixed (repaired pending audit). I399 fixed. E939 open on its two deferrals; U78 open for evidence.
+
+## D-262 - Audit round 47 (Q428): I400, the status rule carried through (2026-09-17)
+
+**Trigger.** Round 47 (`docs/audit/2026-11-23-findings.md`, `bcd3bf7`) verified D-261: E938 and I399 closed, leaving E939's two deferrals as the only confirmed group open. New: I400 — D-261's status rule ("current once first teaching has begun") is not carried into three places.
+
+**Method.** The lead read the IB computer science updates page and its subject brief, and the Cambridge 0264 and 0450 qualification pages and the 0264 syllabus, in a real Chrome session; applied the rule to the two records the audit names; recorded 0264 so the changeover exists on both sides; rebuilt with the content cache cleared and read the rendered tracker, Business hub and DP Computer Science hub; ran every gate.
+
+**Primary sources (read 2026-09-17).**
+- IB computer science updates page (ibo.org): "The new DP computer science course will be launched in February 2025 for first teaching in August 2025. First assessment will take place in May 2027." Its assessment table and the DP computer science subject brief give papers, durations and weightings (SL Paper 1 and Paper 2 each 1 hour 15 minutes at 35%; HL each 2 hours at 40%; the computational solution) but **no mark totals**.
+- Cambridge IGCSE Business 0264 syllabus PDF (Version 2, published March 2025): "Use this syllabus for exams in 2027, 2028 and 2029. Exams are available in the June and November series. Exams are also available in the March series in India"; Assessment overview: Paper 1 Short Answer and Data Response, 1 hour 30 minutes, 80 marks, 50%; Paper 2 Case Study, 1 hour 30 minutes, 80 marks, 50%, both externally assessed; "Changes to syllabus code": "The syllabus name has been changed", "There is a new syllabus code 0264". Content overview: the same six topics, with several sub-topics renamed or reordered.
+- Cambridge IGCSE Business Studies 0450 qualification page, Important notices: "New syllabus name and code for first assessment March 2027".
+
+| Item | Files | What changed |
+|---|---|---|
+| I400.1 | `assessments.ts` DP Computer Science (2014) | `legacy-teach-out`, with the note rewritten to give the rule and quote the IB page; no final session is recorded because the IB page names none. The hub now reads "DP Computer Science (2014) is being withdrawn in favour of DP Computer Science (2027)". The 2027 course still has no assessment record: its papers, durations and weightings are published but not its mark totals, and the note says so. |
+| I400.2 | `syllabus-updates/index.astro` | The "Being withdrawn" introduction now matches the legend: still assessable for learners partway through, replaced for new learners, "the last exam series is shown on the card where the board has announced one". A legacy card whose successor has no record of its own says so, as the changeover cards already did (DP Computer Science (2027)). |
+| I400.3 | `assessments.ts` (0450 and a new 0264 record); `syllabuses.ts`; `matrix.ts`; `syllabus-topics.ts` | 0264 recorded from its own syllabus (two papers, 80 marks and 50% each, first assessment 2027; no first-teaching date published, so none recorded), `current` because 0450's final examination year is 2026. 0450 is `legacy-teach-out` with `relatedCode: '0264'`. The transition pair now reads '0450 / 0264' in `syllabuses.ts`, `matrix.ts` and the topic record's code, following the OxfordAQA '9625 / 9725' pattern. The tracker shows the changeover and the hub shows 0450 being withdrawn in favour of 0264, with 0264's assessment structure. |
+
+### Deferred (new)
+
+- The 0450 topic record still lists 0450's sub-topics (its series line says "For examination in 2026 (0450)"). 0264 keeps the six topics but renames and reorders several sub-topics (1.2 Economic sectors, 2.1 Human resource management (HRM), 3.1 Marketing and the market, 4.2 Technology and production of goods and services, 4.3 Sustainable production of goods and services, 5.3 Profit and loss, 6.5 Pressure groups). Entering that list means re-pointing the resources that link 0450 sub-topic slugs, so it is deferred and recorded in the note.
+- DP Computer Science (2027): no assessment record until mark totals are published.
+
+### Still open
+
+E939 (3) 0457 and (12) 9UR0 deferred; U78 (IB ESS guide); I396 deferrals; U76, U77 and I393 (14) with the owner.
+
+**Validation.** `astro check` 0 errors; `validate:academic`; `validate-assessments` (one current record per overlapping-tier group, with 0264 current and 0450 teach-out); cross-board integrity (the topic record's compound code matches `syllabuses.ts`); rendered academic labels (after build); practice bank; commercial claims, pricing consistency, tiered FAQ routes, review integrity, grade thresholds, AS-level display, academic matrix and FX policy; cross-board regression; negative suite 35/35; functions tests 31 pass; duplicate-scope check (the 4 pre-existing groups only); build 2141 HTML files (content cache cleared first); `audit:all` 0 problems across 2140 pages.
+
+**Open-count position after D-262.** I400 fixed (all three). No record is `future`; no record is `current` before its teaching has begun, except 0264, whose predecessor's exams end in 2026 and whose own first-teaching date the board does not publish (recorded in its note). E939 stays open on its two deferrals; U78 open for evidence.

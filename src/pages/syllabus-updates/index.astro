@@ -201,13 +201,13 @@ const flagshipInTransition = [...future, ...legacy].some((r) => flagshipCodes.ha
       {legacy.length > 0 && (
         <div class="mb-12">
           <h2 class="m-0 mb-1 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Being withdrawn</h2>
-          <p class="m-0 mb-6 text-[14.5px] text-ink-mute">Still current and assessable, but on their way out -- last exam series noted below.</p>
+          <p class="m-0 mb-6 text-[14.5px] text-ink-mute">Still assessable for learners already partway through them, but replaced for new learners by a newer specification. The last exam series is shown on the card where the board has announced one.</p>
           <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
             {legacy.map((r) => (
               <div class="flex h-full flex-col gap-2 rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)]">
                 <span class="font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600">{r.boardLabel} {r.qualificationLabel}</span>
                 <span class="text-[17px] font-semibold tracking-[-0.01em] text-navy-800">{r.subjectLabel}</span>
-                <span class="text-[13.5px] text-ink-mute">Specification {r.assessment.code}{r.assessment.relatedCode && <> (being replaced by {r.assessment.relatedCode})</>}</span>
+                <span class="text-[13.5px] text-ink-mute">Specification {r.assessment.code}{r.assessment.relatedCode && <> (being replaced by {r.assessment.relatedCode}{!ASSESSMENTS.some((o) => o.code === r.assessment.relatedCode && o.boardSlug === r.assessment.boardSlug) && <>, which has no Marlbridge assessment record yet</>})</>}</span>
                 {r.assessment.finalAssessment && (
                   <p class="m-0 mt-1 text-[13px] text-ink-mute"><span class="font-medium text-navy-800">Final assessment:</span> {r.assessment.finalAssessment}</p>
                 )}
