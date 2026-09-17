@@ -9,9 +9,6 @@ qualifications: ["a-level"]
 syllabusCodes: ["9UR0"]
 syllabusSeries: "2018"
 order: 3
-syllabusTopics:
-  - qualification: "a-level"
-    topic: "paper-3-listening-reading-writing-9ur0"
 description: "Section A Listening Comprehension and Section B Listening, Reading and Writing -- the structure, timing and skills of Paper 3 for Pearson Edexcel GCE A-Level Urdu (9UR0)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-05

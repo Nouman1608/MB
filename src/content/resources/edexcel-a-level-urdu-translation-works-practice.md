@@ -9,9 +9,6 @@ qualifications: ["a-level"]
 syllabusCodes: ["9UR0"]
 syllabusSeries: "2018"
 order: 2
-syllabusTopics:
-  - qualification: "a-level"
-    topic: "paper-2-translation-works-9ur0"
 description: "Original practice questions with full worked answers covering a full Section A translation-into-Urdu exercise and its mechanics, plus Section B/C works-response structure, for Pearson Edexcel A-Level Urdu (9UR0) Paper 2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

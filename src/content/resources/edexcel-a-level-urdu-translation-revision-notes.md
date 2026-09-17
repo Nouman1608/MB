@@ -9,9 +9,6 @@ qualifications: ["a-level"]
 syllabusCodes: ["9UR0"]
 syllabusSeries: "2018"
 order: 1
-syllabusTopics:
-  - qualification: "a-level"
-    topic: "paper-1-translation-research-9ur0"
 description: "Condensed recall notes on translation technique, register, grammar and reading comprehension for Edexcel A Level Urdu."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22

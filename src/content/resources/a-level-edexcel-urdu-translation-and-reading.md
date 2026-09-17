@@ -9,9 +9,6 @@ qualifications: ["a-level"]
 syllabusCodes: ["9UR0"]
 syllabusSeries: "2018"
 order: 1
-syllabusTopics:
-  - qualification: "a-level"
-    topic: "paper-1-translation-research-9ur0"
 description: "Translation into English, reading comprehension and a research-based writing question in Urdu -- Paper 1 of Pearson Edexcel GCE A-Level Urdu (9UR0)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21

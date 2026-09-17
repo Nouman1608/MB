@@ -9,9 +9,6 @@ qualifications: ["igcse"]
 syllabusCodes: ["0457"]
 syllabusSeries: "2025-2027"
 order: 2
-syllabusTopics:
-  - qualification: "igcse"
-    topic: "component-2-individual-report-0457"
 description: "Condensed recall notes on structuring, researching and referencing the 1500-2000 word Individual Report for Cambridge IGCSE Global Perspectives (0457), 2025-2027 series."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03

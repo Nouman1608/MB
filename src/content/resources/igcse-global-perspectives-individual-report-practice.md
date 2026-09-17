@@ -9,9 +9,6 @@ qualifications: ["igcse"]
 syllabusCodes: ["0457"]
 syllabusSeries: "2025-2027"
 order: 3
-syllabusTopics:
-  - qualification: "igcse"
-    topic: "component-2-individual-report-0457"
 description: "Exam-style questions with full worked answers on framing a research question, structuring the report to the syllabus's recommended sequence and assessment objectives, evaluating sources, and explaining contrasting perspectives, for Cambridge IGCSE Global Perspectives (0457) Component 2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

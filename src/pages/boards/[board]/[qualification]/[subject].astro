@@ -1,5 +1,6 @@
 ---
 import { teachingMonthLabel } from '../../../../utils/academic/teaching-month';
+import { rtlLangFor } from '../../../../utils/markdown/hast-rtl-blocks.mjs';
 /**
  * Academic hub — /boards/{board}/{qualification}/{subject}/
  *
@@ -721,7 +722,7 @@ const jsonLd = [
                         <span class="font-mono text-[12px] text-gold-600">
                           {topic.stage ? `${topic.stage} ` : ''}{topic.number}
                         </span>
-                        <span>{topic.name}</span>
+                        <span>{rtlLangFor(topic.name) ? <bdi dir="rtl" lang={rtlLangFor(topic.name)}>{topic.name}</bdi> : topic.name}</span>
                       </p>
                       {got.length > 0 ? (
                         <span class="shrink-0 rounded-sm border border-[#B7D8C6] bg-[#EEF7F1] px-2 py-0.5 font-mono text-[10.5px] uppercase tracking-[0.08em] text-success">
@@ -744,7 +745,12 @@ const jsonLd = [
                     )}
                     {topic.subtopics.length > 0 && (
                       <p class="m-0 mt-2 ps-[calc(1.5rem+12px)] text-[14px] leading-relaxed text-ink-mute">
-                        {topic.subtopics.map((st: { name: string }) => st.name).join(' · ')}
+                        {topic.subtopics.map((st: { name: string }, i: number) => (
+                          <>
+                            {i > 0 && ' · '}
+                            {rtlLangFor(st.name) ? <bdi dir="rtl" lang={rtlLangFor(st.name)}>{st.name}</bdi> : st.name}
+                          </>
+                        ))}
                       </p>
                     )}
                   </li>

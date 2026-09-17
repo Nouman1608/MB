@@ -9,9 +9,6 @@ qualifications: ["a-level"]
 syllabusCodes: ["9UR0"]
 syllabusSeries: "2018"
 order: 4
-syllabusTopics:
-  - qualification: "a-level"
-    topic: "paper-3-listening-reading-writing-9ur0"
 description: "Condensed recall notes on Paper 3's two-section structure, timing and technique for Pearson Edexcel GCE A-Level Urdu (9UR0)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

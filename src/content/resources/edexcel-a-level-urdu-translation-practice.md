@@ -11,7 +11,8 @@ syllabusSeries: "2018"
 order: 1
 syllabusTopics:
   - qualification: "a-level"
-    topic: "paper-1-translation-research-9ur0"
+    topic: "theme-4-aspects-of-pakistani-politics-9ur0"
+    subtopic: "environmental-issues-pakistan-research-subject-9ur0"
 description: "Original exam-style practice questions with full worked answers on translation out of Urdu, idiom, register and reading comprehension, and a full 40-mark Section C research question with an unseen Urdu text, the three-grid mark scheme and a model-answer outline."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22

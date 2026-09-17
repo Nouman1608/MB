@@ -9,9 +9,6 @@ qualifications: ["a-level"]
 syllabusCodes: ["9UR0"]
 syllabusSeries: "2018"
 order: 5
-syllabusTopics:
-  - qualification: "a-level"
-    topic: "paper-3-listening-reading-writing-9ur0"
 description: "Original exam-technique practice questions with full worked answers on Paper 3's format, sections and revision strategy for Pearson Edexcel GCE A-Level Urdu (9UR0)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

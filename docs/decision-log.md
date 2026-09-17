@@ -12689,7 +12689,7 @@ U76 (results, organisation, in-person teaching, teacher credentials and coverage
 
 ### Deferred (unchanged from D-258, restated)
 
-- E939 (3) 0457 and (12) 9UR0: resource topic links (9 and 6 resources) and the 9UR0 Urdu check.
+- E939 (3) 0457 and (12) 9UR0: resource topic links (9 and 9 resources -- corrected by D-263 from this entry's original "9 and 6"; the 9UR0 slugs are linked by all three papers' resources, nine files, not six) and the 9UR0 Urdu check.
 - 9709 AS weighting (schema); YAC11 and 4EC1 printed topic numbers (schema); YBS11/YEC11 combined code.
 - 9489 to the 2027-2029 syllabus: every AS option and the Paper 4 options change, not only the American option; a full rebuild of the record and its resources' links.
 - 7137 topic record and the four 7131 AS Business resources.
@@ -12812,3 +12812,79 @@ E939 (3) 0457 and (12) 9UR0 deferred; U78 (IB ESS guide); I396 deferrals; U76, U
 **Validation.** `astro check` 0 errors; `validate:academic`; `validate-assessments` (one current record per overlapping-tier group, with 0264 current and 0450 teach-out); cross-board integrity (the topic record's compound code matches `syllabuses.ts`); rendered academic labels (after build); practice bank; commercial claims, pricing consistency, tiered FAQ routes, review integrity, grade thresholds, AS-level display, academic matrix and FX policy; cross-board regression; negative suite 35/35; functions tests 31 pass; duplicate-scope check (the 4 pre-existing groups only); build 2141 HTML files (content cache cleared first); `audit:all` 0 problems across 2140 pages.
 
 **Open-count position after D-262.** I400 fixed (all three). No record is `future`; no record is `current` before its teaching has begun, except 0264, whose predecessor's exams end in 2026 and whose own first-teaching date the board does not publish (recorded in its note). E939 stays open on its two deferrals; U78 open for evidence.
+
+## D-263 - Closing E939: 0457 topic list and 9UR0 themes (2026-09-17)
+
+**Trigger.** The last open confirmed-error group, E939, carried two items deferred since D-258 and upheld through D-259/D-260: (3) Cambridge IGCSE Global Perspectives 0457 replaced the syllabus's 22-topic list with its three assessed components; (12) Pearson Edexcel A Level Urdu 9UR0 listed its three papers instead of the specification's themes, sub-themes, research subjects and prescribed works. The independent auditor's round-46 handoff (`docs/audit/2026-11-19-findings.md`, checked against the boards' own documents 17 September 2026) set out both records in full, including the exact printed wording, and flagged that D-259's "9 and 6 resources" was wrong -- both syllabuses' slugs are each linked by nine resource files.
+
+**Method.** Fetched both syllabus PDFs directly from the boards' own sites (`curl`, both 200 OK). For 0457, `pdftotext -layout` on the syllabus PDF was reliable (English, left-to-right) and the topic list was also read from a rendered page image (p.12) to confirm layout and completeness. For 9UR0, `pdftotext` was not trusted for the Urdu pages (confirmed unreliable: garbled, reordered presentation-form output on a direct check) -- every Urdu string was read from 200-400dpi page-image renders (`pdftoppm`) of pp.8-9 and p.41, letter by letter, then cross-checked against the handoff's own independent transcription. Rebuilt both `syllabus-topics.ts` records; read all 18 resource files linking the old component/paper slugs and re-linked each based on what its own body actually teaches (Option A from the handoff, the audit's own recommendation); added RTL rendering to the two templates that print topic/subtopic names; ran every required gate and rendered both hubs and checklists in the built output.
+
+**Primary sources.**
+- Cambridge IGCSE Global Perspectives 0457 syllabus, Version 2 (April 2025) -- `https://www.cambridgeinternational.org/Images/662457-2025-2027-syllabus.pdf` (confirmed 21pp., "Version 2" on the cover). Section 3, "Topics" / "Topic list", printed p.12: 22 topics in two unnumbered alphabetical columns, "The topic list is for all components," "Knowledge of content is not assessed in this syllabus." The Version 2 syllabus update (`674932-2025-2027-syllabus-update.pdf`) confirms Version 2 only clarified Component 1 skills wording. The 2028 syllabus (`744776-2028-syllabus.pdf`) prints the same 22 topics with "no significant changes" -- not adopted into this record, which stays scoped to the current 2025-2027 series.
+- Pearson Edexcel A Level Urdu 9UR0 specification, Issue 1 (June 2018, 56pp.) -- `https://qualifications.pearson.com/content/dam/pdf/A%20Level/Urdu/2018/specification-and-sample-assessments/a-level-urdu-specification11.pdf`. "Themes, sub-themes and research subjects" printed pp.8-9 (PDF pp.10-11); "Appendix 1: Prescribed literary texts and films" printed p.41 (PDF p.43).
+- Pearson's "Getting Started Guide" (2018) -- `https://qualifications.pearson.com/content/dam/pdf/A%20Level/Urdu/2018/teaching-and-learning-materials/GCE-2018-getting-started-guide-Urdu.pdf`, section 4.1, for the English theme/sub-theme/research-subject names (Pearson's own secondary document, not the specification).
+
+### E939 (3) - Cambridge IGCSE Global Perspectives 0457 (22 topics)
+
+`syllabus-topics.ts`: the three-component entry is replaced with the syllabus's own 22-topic list (Arts in society ... Water, food and agriculture), each with an empty subtopics array, since the syllabus assesses skills, not topic content. The syllabus prints the list alphabetically in two unnumbered columns; topic numbers 1-22 here are Marlbridge's own sequential ordinals (alphabetical, matching the syllabus's own order), stated as such in the note. `verifiedDate` 2026-09-17.
+
+### E939 (12) - Pearson Edexcel A Level Urdu 9UR0 (4 themes + prescribed works)
+
+`syllabus-topics.ts`: the three-paper entry is replaced with five topics. Topics 1-4 are the specification's four themes (printed only in Urdu), each with three subtopics -- its two sub-themes, then its research subject:
+
+| Topic | Urdu (specification) | English (Pearson's Getting Started Guide, secondary) |
+|---|---|---|
+| 1 | پاکستانی معاشرے کا ارتقا | Evolving Pakistani society |
+| 1.1 / 1.2 / 1.3 | خاندان / کام / تعلیم | Family / Work / (research subject) equal access to education in Pakistan |
+| 2 | اردو بولنے والی دنیا میں تمدن اور فنونِ لطیفہ | Art and culture in the Urdu-speaking world |
+| 2.1 / 2.2 / 2.3 | لوک رسوم و روایت / مقبول کلچر / میڈیا | folklore / popular culture / (research subject) the media |
+| 3 | (ہجرت ترکِ وطن) اور کثیر الثقافتی معاشرہ | Immigration and multicultural society |
+| 3.1 / 3.2 / 3.3 | ایک متنوع اور گوناگوں معاشرے کے مثبت پہلو / ہجرت (ترکِ وطن) کی جانب رجحانات و طرزِ فکر / پاکستان سے ہجرت | positive features of a diverse society / attitudes towards immigration / (research subject) emigration from Pakistan |
+| 4 | پاکستانی سیاست کے رُخ | Aspects of Pakistani politics |
+| 4.1 / 4.2 / 4.3 | قیام پاکستان (1947) / جاگیرداری نظام / پاکستان میں ماحولیاتی مسائل سے متعلّق اقدامات | (no guide translation) / (no guide translation) / (research subject) responses to environmental issues in Pakistan |
+
+Two corrections against the raw print, both stated in the record's note: Theme 1's second sub-theme ("kaam"/work) and research subject ("taleem"/education) are printed as plain, unstyled text in the specification, unlike every other theme's bold-blue labels -- transcribed at the same structural position regardless, not omitted. The Theme 4 research-subject line on p.9 is printed with a stray leading "پ" before "پاکستان میں ..."; that typesetting artifact is not reproduced.
+
+Topic 5, "Prescribed literary texts and films" (the specification's own English heading, Appendix 1, p.41), lists the six works exactly as printed: novel آنگن (Khadija Mastur, 1999); essay collection پطرس کے مضامین (Ahmad Shah Patras Bukhari, 2011), with its five prescribed essay titles folded into that one subtopic's name since the schema has no third nesting level below topic/subtopic; play بساط (Baseer Kazmi, 1987); films بن روئے (Momina Duraid, 2015), باغبان (Ravi Chopra, 2003) and بجرنگی بھائی جان (Kabir Khan, 2015).
+
+No sub-theme, research subject or prescribed work carries a printed number; all subtopic numbers (1.1-1.3, ..., 5.1-5.6) are Marlbridge's own, stated as such. `verifiedDate` 2026-09-17.
+
+**The Urdu check.** Every Urdu string was read from `pdftoppm` page-image renders at 200-400dpi (pp.8-9 for the themes, p.41 for Appendix 1), letter by letter against the rendered page -- not from `pdftotext`, which was confirmed unreliable on this PDF (reordered, presentation-form output) before any Urdu was transcribed from it. Each string was cross-checked against the round-46 handoff's own independent transcription; the two documents agreed on every theme, sub-theme, research-subject and prescribed-work name, including both corrections above. A native Urdu reader's readability review has not been done and stays an open owner item; it does not block this closure, consistent with the standing rule for this kind of check.
+
+### Resource-link decisions (18 files, both syllabuses)
+
+Read every resource file's body before deciding (Option A: link only what a resource teaches in substance).
+
+**0457 (9 files, all three components x three formats).** All nine are genuinely about how a component works or is marked (source-based Written Exam technique; the Individual Report's research-question process; the Team Project's mark breakdown) -- none teaches or exemplifies any one of the 22 content topics in substance, since the syllabus itself assesses skills, not topic knowledge. All nine `syllabusTopics:` blocks removed (default `[]`). The hub's "Marlbridge currently has resources for N of M topics" line now honestly reads 0 of 22 -- Marlbridge's nine 0457 resources are real and still linked by `syllabusCodes`/`topic` (free-text label), they simply don't map onto a specific one of the 22 open topics.
+
+**9UR0 (9 files, all three papers x three formats).**
+
+| File | Old (stale) link | New link | Why |
+|---|---|---|---|
+| `a-level-edexcel-urdu-translation-and-reading.md` (Paper 1 study guide) | paper-1 | *(none)* | Paper mechanics and general research-question process; no single theme/research subject developed in substance. |
+| `edexcel-a-level-urdu-translation-practice.md` (Paper 1 practice) | paper-1 | Theme 4 / research subject (environmental issues) | Question 6 and its full worked model answer are built entirely around Theme 4's research subject, with a table giving all four research subjects' three aspects. |
+| `edexcel-a-level-urdu-translation-revision-notes.md` (Paper 1 revision notes) | paper-1 | *(none)* | Same reasoning as the study guide -- describes the research-question process in general terms only. |
+| `a-level-edexcel-urdu-translation-and-works.md` (Paper 2 study guide) | paper-2 | Topic 5 (prescribed works) | Names and discusses all six prescribed works by title, author/director, year and form. |
+| `edexcel-a-level-urdu-translation-works-practice.md` (Paper 2 practice) | paper-2 | *(none)* | Tests the Section A mark-scheme rules and the two-response combination rule, not the works themselves -- no work is named or discussed. |
+| `edexcel-a-level-urdu-translation-works-revision-notes.md` (Paper 2 revision notes) | paper-2 | Topic 5 (prescribed works) | Same as the study guide -- names and discusses all six works. |
+| `a-level-edexcel-urdu-listening-reading-writing.md` (Paper 3 study guide) | paper-3 | *(none)* | Entirely paper mechanics (two sections, timing, technique); no theme content. |
+| `edexcel-a-level-urdu-listening-reading-writing-practice.md` (Paper 3 practice) | paper-3 | *(none)* | Exam-technique questions on Paper 3's structure and timing only. |
+| `edexcel-a-level-urdu-listening-reading-writing-revision-notes.md` (Paper 3 revision notes) | paper-3 | *(none)* | Same as the study guide. |
+
+The hub's coverage line for 9UR0 now reads 2 of 5 topics (Theme 4 and the prescribed-works topic).
+
+**Duplicate-scope check.** Read `scripts/check-duplicate-resource-scope.mjs` itself rather than relying on the handoff's summary of it: the grouping loop explicitly skips any resource whose `syllabusTopics` is empty (`if (topics.length === 0) continue; // nothing to compare -- can't claim scope overlap`), so removing all nine 0457 links, and six of the nine 9UR0 links, creates no comparable "same empty scope" group at all -- confirmed by running the checker both before and after this change (`git stash`) and diffing the output: identical result, the same 4 pre-existing unreviewed groups (`myp-design` x3, `oxfordaqa-a-level-chemistry` x1), none of them 0457 or 9UR0, none introduced by this change. No `REVIEWED_LEGITIMATE` entries were needed for this fix.
+
+### RTL rendering (new)
+
+Neither the academic hub template (`src/pages/boards/[board]/[qualification]/[subject].astro`) nor the checklist template (`src/pages/checklists/[board]/[qualification]/[subject].astro`) had ever printed a topic or subtopic name containing Arabic-script text -- this is the first record in `syllabus-topics.ts` to do so. Both templates now import `rtlLangFor` from `src/utils/markdown/hast-rtl-blocks.mjs` (already used for Markdown content, D-257) and wrap `topic.name` and each subtopic name in `<bdi dir="rtl" lang="ur"|"ar">` when it detects Arabic-script text, leaving non-Arabic names untouched. Checked in the built output: all 4 Urdu theme names and 18 Urdu subtopic names on both the 9UR0 hub and checklist render inside a `<bdi>` with `dir="rtl"` and the correct `lang`; the English "Prescribed literary texts and films" topic and the mixed Urdu/English work subtopics (e.g. "آنگن — خدیجہ مستور (1999) novel") are wrapped as a whole and read correctly left-to-right for the embedded English/digits within the RTL run.
+
+### Observations, not actioned
+
+- Appendix 2 (Grammar list) of the 9UR0 specification is not modelled as a topic -- the handoff flagged this as optional, and the E939 (12) finding was about missing themes and prescribed works, not the grammar appendix. Left for a future item if wanted.
+- The 4 pre-existing unreviewed duplicate-scope groups (`myp-design` x3, `oxfordaqa-a-level-chemistry` x1) predate this change (confirmed via `git stash`) and are unrelated to E939; not actioned here.
+- Cambridge's 0457 2028 syllabus (`744776-2028-syllabus.pdf`) is now the file linked from the qualification page; this record stays scoped to the current 2025-2027 series per its `effectiveTo`. A future series record, if wanted, is a separate addition, not an edit to this one.
+
+**Validation.** `astro check` 0 errors, 0 warnings (18 pre-existing hints, unrelated); `validate:academic` (matrix, content tagging, syllabus topic references, stage consistency, syllabus code references, commercial claims, cross-board integrity, pricing consistency, review integrity, pinned teachers, worker bindings, AS-level display, FX policy, assessments, grade thresholds, practice bank, practice-question schema) all PASS; `check:duplicate-scope` -- same 4 pre-existing unreviewed groups only, confirmed pre-existing by `git stash` diff, none touching 0457/9UR0; negative suite 30/30 (reporting tool; some categories skip pending a build, as designed); functions tests 51/51 across all 5 test files (`src/worker/__tests__/index.test.mjs`, `scripts/growth/__tests__/scoring.test.mjs`, `functions/_lib/__tests__/gsc-refresh.test.mjs`, `functions/api/__tests__/enquiry-resend-integration.test.mjs`, `functions/api/__tests__/enquiry-validation.test.mjs`); `npm run build` with the Astro content cache cleared first -- 2141 pages (unchanged from `385b5ac`); `npm run audit:all` 0 problems across every category. Rendered: `/boards/cambridge/igcse/global-perspectives/` shows "The 22 topics below" and "resources for 0 of 22 topics"; `/boards/edexcel/a-level/urdu-language/` shows "The 5 topics below" and "resources for 2 of 5 topics"; both checklists print all topics/subtopics with the Urdu right-to-left and left-to-right where mixed, confirmed by inspecting the built HTML directly for `<bdi dir="rtl" ...>` wrapping on every Arabic-script name.
+
+**Open-count position after D-263.** E939 closed (both (3) and (12)). With E938 and I399 also repaired in earlier rounds (per the handoff), and nothing else open in this document's own record, the confirmed-error count this document tracks reaches 0 -- restated in the handoff's own terms: this is not a statement that the site is correct; U76-U78 and the I396 deferrals remain, plus the round-46 items E938 residue and I399 (1)-(6) if not already actioned by this same instance.

@@ -9,9 +9,6 @@ qualifications: ["igcse"]
 syllabusCodes: ["0457"]
 syllabusSeries: "2025-2027"
 order: 1
-syllabusTopics:
-  - qualification: "igcse"
-    topic: "component-1-written-exam-0457"
 description: "Original exam-style practice questions with full worked answers on source evaluation, perspectives, causes, consequences and course of action."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22

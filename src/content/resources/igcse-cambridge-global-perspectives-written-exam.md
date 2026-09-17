@@ -9,9 +9,6 @@ qualifications: ["igcse"]
 syllabusCodes: ["0457"]
 syllabusSeries: "2025-2027"
 order: 1
-syllabusTopics:
-  - qualification: "igcse"
-    topic: "component-1-written-exam-0457"
 description: "How the source-based Written Exam works within Cambridge IGCSE Global Perspectives (0457), a skills-based syllabus where knowledge of content is not assessed."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21

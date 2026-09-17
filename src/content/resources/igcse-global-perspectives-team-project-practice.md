@@ -9,9 +9,6 @@ qualifications: ["igcse"]
 syllabusCodes: ["0457"]
 syllabusSeries: "2025-2027"
 order: 5
-syllabusTopics:
-  - qualification: "igcse"
-    topic: "component-3-team-project-0457"
 description: "Exam-style questions with full worked answers on the mark breakdown, word and time limits, the Reflective Paper, Evidence of Action, and Collaboration marking, for Cambridge IGCSE Global Perspectives (0457) Component 3."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
