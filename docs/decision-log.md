@@ -12431,4 +12431,4 @@ A proofreading agent compared every Arabic passage in `o-level-islamiyat-paper-1
 
 **Validation.** `astro check`: 0 errors in files touched here (1 pre-existing error noted above); `validate:academic`; `validate-assessments`; cross-board integrity; rendered academic labels; build (2142 HTML files); `audit:all` 0 problems across 2141 pages; cross-board regression; negative suite; API tests 31/31; `check-duplicate-resource-scope` the four pre-existing groups only.
 
-**Open-count position after D-255.** Round 38 leaves E386, E934 and E935 (confirmed) and I389; all are closed here (13 files including two data files), with the Arabic proofread. D-254 (I388) awaits the audit's read. Confirmed errors declared open: 0.
+**Open-count position after D-255.** Round 38 leaves E386, E934 and E935 (confirmed) and I389; all are closed here (9 files, including two data files); the Arabic proofread changed 2 files. D-254 (I388) awaits the audit's read. Confirmed errors declared open: 0.
