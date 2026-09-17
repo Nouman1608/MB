@@ -35,9 +35,9 @@ A separate "fixer" instance does the repairs; you do not. If you have been broug
 | | |
 |---|---|
 | resources read end to end | 1,251 of 1,251 baseline; all 1,645 on `main` at `251571e` (round 19) |
-| findings recorded | 1,754 *(updated 2026-11-05, round 29)* |
-| **open confirmed errors** | **0 groups** *(updated 2026-11-05, round 29 - correctness not established; 475 D-138…D-225 closures unread; I377–I379 open)* |
-| declared closed by decision log | 860 (D-138 through **D-249**) |
+| findings recorded | 1,758 *(updated 2026-11-06, round 30)* |
+| **open confirmed errors** | **16 groups** *(updated 2026-11-06, round 30 - correctness not established; 380 D-138…D-225 closures unread; I377–I380 open)* |
+| declared closed by decision log | 846 (D-138 through **D-249**, after 14 reopened) |
 | still open despite a closing round | 0 |
 
 **"Declared closed" means a repair round recorded it as handled — not that the audit verified

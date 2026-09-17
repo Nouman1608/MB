@@ -10,7 +10,7 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-**0 confirmed-error groups open** *(2026-11-05, round 29: D-249 verified — E925 and I376 closed. Improvement items I377, I378 and I379 open.)*
+**16 confirmed-error groups open** *(2026-11-06, round 30: 14 closures from D-138…D-225 reopened, E926 and E927 recorded. Improvement items I377–I380 open.)*
 
 > **Amended 2026-10-12 (Q374).** This order first said 658. That figure never subtracted repair
 > rounds D-138…D-191, which closed 508 of them. The list of what is actually open — 89 plain,
@@ -137,6 +137,13 @@ work order can be a document rather than a conversation.
 ---
 
 ## 8. Current specifics
+
+- **Round 30 (2026-11-06, Q411): 95 unread closures read; 14 reopened.** Each reopened closure still has the error in
+  a named or sibling file (the Q411 text gives file and line): E54, E56, E83, E95, E96, E111, E118, E119, E120 (9701
+  chemistry siblings, mostly `a-chemistry-synthesis-routes-practice` and the AS notes), E146, E147, E155 (0620),
+  E160 (0625 moments tiering), E176 (5054 'sound stores'). Also **E926** (two repair explanations contradict 9701:
+  26.1.2(a) misquoted; OH- 'not a ligand'), **E927** (moments-and-stability-practice Q10 [4] with six marks) and I380.
+  Rounds 31-34 read the remaining 380 closures.
 
 - **Round 29 (2026-11-05, Q410): D-249 verified; 40 more closures read, all fixed; leads worked.** Nothing more on
   E925 or I376. Work **I378** (CS Theme A: A2.1.3, SL and HL, maps network devices to the TCP/IP layers, so the
