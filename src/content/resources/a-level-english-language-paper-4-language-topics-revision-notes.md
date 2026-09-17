@@ -47,7 +47,7 @@ Both sections present an unseen text (article, blog, online comments) and ask yo
 
 ## A worked mini-example: Section B (identity strand)
 
-Stimulus: a short passage describing how new employees learn to "talk like the team" in their first weeks at a job. A fast plan: (1) name the issue — sociolect and belonging, language as a marker of group membership; (2) develop with wider knowledge — occupation as a source of shared sociolect, comparable to region or age producing their own group-specific ways of speaking; (3) a second angle — getting the register wrong marking someone as an outsider, linking to inclusion/exclusion; (4) judgement, tying back to the passage's own specific framing rather than a generic statement about workplace jargon.
+Stimulus: a short passage describing how new employees learn to "talk like the team" in their first weeks at a job. A fast plan: (1) name the issue — sociolect and belonging, language as a marker of group membership; (2) develop with wider knowledge — occupation as a source of shared sociolect, comparable to age or social class producing their own sociolects (region, by contrast, produces dialects); (3) a second angle — getting the register wrong marking someone as an outsider, linking to inclusion/exclusion; (4) judgement, tying back to the passage's own specific framing rather than a generic statement about workplace jargon.
 
 ## A worked mini-example: Section B (thought/innateness strand)
 

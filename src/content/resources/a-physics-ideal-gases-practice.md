@@ -99,7 +99,7 @@ T₂ = 400 K, so p₂ = 2.4 × 10⁵ × (400 ÷ 300) [1] = **3.2 × 10⁵ Pa** [
 
 **6.** Molecules are in continuous **random motion** and repeatedly **collide with the walls** of the container [1]. At each collision, the component of a molecule's momentum perpendicular to the wall **reverses**, so the molecule undergoes a **change in momentum** [1]. By Newton's second and third laws, this change in momentum exerts an equal and opposite **force on the wall** [1]. The **large number of such collisions per second, spread over the wall's area**, produces a steady macroscopic pressure [1].
 
-**7.** pV = (1/3)Nm⟨c²⟩ [1], where **N** is the number of molecules, **m** is the mass of one molecule and **⟨c²⟩** is the mean square speed [1]. Molecules move randomly in all directions, so the **mean velocity is zero**; averaging speeds directly is therefore less useful than averaging their squares (which are always positive), so the square root of the mean square speed is used instead [1].
+**7.** pV = (1/3)Nm⟨c²⟩ [1], where **N** is the number of molecules, **m** is the mass of one molecule and **⟨c²⟩** is the mean square speed [1]. Molecules move randomly in all directions, so their velocity components (positive and negative) average to zero and would **cancel**; the squared components are all positive, and it is the **mean square speed** ⟨c²⟩ that arises from the momentum change at the walls in the derivation, so its square root, cᵣₘₛ, is used [1].
 
 **8.** Mass of one oxygen molecule: m = 0.032 ÷ (6.02 × 10²³) = 5.32 × 10⁻²⁶ kg [1]. From E = ½m⟨c²⟩, ⟨c²⟩ = 2E/m = (2 × 6.21 × 10⁻²¹) ÷ (5.32 × 10⁻²⁶) = 2.34 × 10⁵ m² s⁻² [1]. c_rms = √⟨c²⟩ = **483 m s⁻¹** [1].
 

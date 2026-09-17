@@ -82,6 +82,8 @@ The mix must be **internally consistent**. Premium pricing with discount-channel
 
 - **Tall** structure — many levels, **narrow** span of control. Close supervision and clear promotion paths, but slow communication and higher cost.
 - **Flat** structure — few levels, **wide** span of control. Faster communication and greater empowerment, but managers may be overstretched.
+- **Matrix** structure — staff from different functional departments work in project teams and report to both a functional manager and a project manager. Combines expertise for project work, but two lines of authority can cause conflict.
+- **Hierarchy** is the levels of authority; the **chain of command** is the route instructions pass down and information passes up; the **span of control** is the number of subordinates reporting directly to one manager.
 
 **Delayering** removes management levels: it cuts costs and speeds decisions, but increases workload and can damage morale and lose expertise.
 

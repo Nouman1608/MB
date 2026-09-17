@@ -47,7 +47,7 @@ featured: false
 
 Related: [Bonding revision notes](/resources/ionic-covalent-metallic-bonding-revision-notes/)
 
-> **Tier note:** questions and parts marked *(0620 Extended only, 5070 required)* — metallic bonding and silicon(IV) oxide — are not required for a 0620 Core candidate. All other questions are answerable at Core.
+> **Tier note:** questions and parts marked *(0620 Extended only, 5070 required)* — ionic bonding beyond Group I with Group VII (e.g. magnesium oxide), explaining the properties of ionic compounds, metallic bonding and silicon(IV) oxide — are not required for a 0620 Core candidate. All other questions are answerable at Core.
 
 ---
 
@@ -57,9 +57,9 @@ Related: [Bonding revision notes](/resources/ionic-covalent-metallic-bonding-rev
 
 **2.** Describe, using dot-and-cross reasoning, what happens to the electrons when sodium reacts with chlorine. **[3]**
 
-**3.** Explain why magnesium oxide has a much higher melting point than sodium chloride. **[3]**
+**3.** *(0620 Extended only, 5070 required)* Explain why magnesium oxide has a much higher melting point than sodium chloride. **[3]**
 
-**4.** Explain why ionic compounds conduct electricity when molten or dissolved but not when solid. **[2]**
+**4.** *(0620 Extended only, 5070 required)* Explain why ionic compounds conduct electricity when molten or dissolved but not when solid. **[2]**
 
 **5.** Compare diamond and graphite.
 

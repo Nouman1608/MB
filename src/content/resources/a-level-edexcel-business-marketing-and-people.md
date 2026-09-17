@@ -13,7 +13,7 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "marketing-and-people-edexcel-alevel-business"
-description: "Meeting customer needs, the market, marketing mix and strategy, managing people, and entrepreneurs and leaders -- the full content of Unit 1 (entry code WBS11) for Pearson Edexcel International A Level Business (YBS11/XBS11)."
+description: "Meeting customer needs, the market, marketing mix and strategy, managing people, and entrepreneurs and leaders, including organisational design -- a study guide to the five content sections of Unit 1 (entry code WBS11) for Pearson Edexcel International A Level Business (YBS11/XBS11)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
@@ -51,8 +51,12 @@ significance of price elasticity of demand (PED) and income elasticity
 of demand (YED)
 - 1.3.3 Marketing mix and strategy — marketing objectives and the
 elements of the marketing mix
-- 1.3.4 Managing people — recruitment, training, organisational
-structure and motivation of employees
+- 1.3.4 Managing people — approaches to staffing (staff as an asset
+or a cost, the flexible workforce, dismissal and redundancy,
+employer/employee relationships); recruitment, selection and training;
+organisational design (hierarchy, chain of command, span of control,
+centralised and decentralised decision making; tall, flat and matrix
+structures); motivation in theory and practice; leadership
 - 1.3.5 Entrepreneurs and leaders — the role of enterprising
 individuals and leadership in business start-up and growth
 
@@ -117,13 +121,15 @@ Branding builds loyalty, allows premium pricing and eases new product launches.
 
 ## Managing people
 
-**Approaches to staffing** range from treating staff as an asset (investment, training, low turnover) to a cost (flexibility, minimum commitment). Flexible workforces use part-time, temporary, outsourced and multi-skilled workers.
+**Approaches to staffing** range from treating staff as an asset (investment, training, low turnover) to a cost (flexibility, minimum commitment). A flexible workforce uses multi-skilling, part-time and temporary staff, zero-hour contracts, flexible hours and home working, and outsourcing. **Dismissal** ends an employee's contract for a reason connected with that employee, such as misconduct; **redundancy** happens when the job itself is no longer needed. Employer/employee relationships can be managed through an **individual approach** (terms agreed with each employee) or **collective bargaining** (terms negotiated with a group, usually a trade union, on behalf of the employees it represents).
 
 **Recruitment, selection and training** — induction, on-the-job and off-the-job — carry costs justified by productivity and retention.
 
-**Motivation theory**: Taylor (pay and control), Mayo (social needs and group belonging), Maslow (hierarchy of needs), Herzberg (hygiene factors prevent dissatisfaction, motivators create satisfaction).
+**Organisational design** describes how authority and communication are arranged. The **hierarchy** is the levels of authority from the top of the business to the bottom; the **chain of command** is the line through which instructions pass down and information passes up; the **span of control** is the number of subordinates who report directly to one manager. Decision making is **centralised** when it is kept at the top and **decentralised** when it is delegated to lower levels or local managers. A **tall** structure has many levels and narrow spans of control: supervision is close and there are clear promotion routes, but communication is slower and management costs are higher. A **flat** structure has few levels and wide spans of control: communication is quicker and staff have more autonomy, but managers can become overstretched. A **matrix** structure brings staff from different functional departments together in project teams, so an employee reports to a functional manager and to a project manager: it combines expertise for project work, but two lines of authority can cause conflict and confusion. The specification asks for the **impact of these structures on business efficiency and employee motivation**: for example, removing a management level to make a structure flatter can cut costs and give staff more responsibility, but it widens spans of control and removes a step on the promotion ladder.
 
-**Leadership styles** — autocratic, paternalistic, democratic, laissez-faire — suit different situations, and the examinable point is that no style is universally best.
+**Motivation theory**: Taylor (pay and control), Mayo (social needs and group belonging), Maslow (hierarchy of needs), Herzberg (hygiene factors prevent dissatisfaction, motivators create satisfaction). **Financial methods** to improve performance are piecework, commission, bonus, profit share and performance-related pay; **non-financial methods** are delegation, consultation, empowerment, team working, flexible working, job enrichment, job rotation and job enlargement.
+
+**Leadership styles** — autocratic, paternalistic, democratic, laissez-faire — suit different situations, and the examinable point is that no style is universally best. The specification also names the distinction between **management and leadership** and the **difficulty of moving from entrepreneur to leader** as a business grows and its founder has to delegate.
 
 ## Entrepreneurs and leaders
 
@@ -162,6 +168,7 @@ Confusing market size with market share. Ignoring the minus sign on PED and misc
 - Calculate PED and YED and link them to pricing and portfolio decisions.
 - Apply the marketing mix, product life cycle and Boston Matrix.
 - Compare staffing approaches, training methods and leadership styles.
+- Explain hierarchy, chain of command, span of control and centralisation, and judge how a tall, flat or matrix structure affects efficiency and motivation.
 - Apply Taylor, Mayo, Maslow and Herzberg to a given workforce problem.
 - Explain the design mix and identify a predatory pricing strategy and a distribution channel structure.
 - Name the financial and non-financial motives for setting up a business, and identify an opportunity cost or trade-off in a given scenario.

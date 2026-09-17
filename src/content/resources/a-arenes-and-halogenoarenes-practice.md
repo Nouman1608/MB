@@ -40,7 +40,7 @@ Related: [Arenes and Halogenoarenes study guide](/resources/a-arenes-and-halogen
 
 **3.** State whether the –NO₂ group is ring-activating or ring-deactivating, and which position(s) it directs to. **[2]**
 
-**4.** State one reason why chlorobenzene resists nucleophilic substitution under conditions that readily hydrolyse chloroethane. **[2]**
+**4.** Chloroethane is hydrolysed when heated under reflux with NaOH(aq); chlorobenzene does not react under the same conditions. State one reason why chlorobenzene resists nucleophilic substitution. **[2]**
 
 ---
 

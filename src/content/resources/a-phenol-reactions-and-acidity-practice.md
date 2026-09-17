@@ -112,7 +112,7 @@ C₆H₅N₂⁺Cl⁻ + H₂O → C₆H₅OH + N₂ + HCl
 ## Where marks are usually lost
 
 - Using benzene-like conditions (concentrated acid mixture, or an AlBr₃/AlCl₃ catalyst) when describing phenol's nitration or bromination — phenol needs only mild, dilute conditions.
-- Explaining phenol's acidity by comparing it only to benzene, rather than specifically to ethanol (delocalisation absent) as the syllabus requires.
+- Explaining phenol's acidity by comparing it only to benzene, rather than making the three-way comparison of water, phenol and ethanol that the syllabus sets: delocalisation stabilises the phenoxide ion but is absent in OH⁻ and ethoxide, and the ethyl group's electron-donating effect makes ethoxide the least stable of the three conjugate bases.
 - Forgetting that phenol reacts with NaOH but not with the weaker base NaHCO₃ — a common distinguishing test between a phenol and a carboxylic acid group.
 - Naming the ester product incorrectly, or forgetting HCl is also produced in the acyl chloride reaction.
 - Confusing the azo-coupling product with a simple substitution product, or omitting that the reaction needs alkaline conditions.

@@ -139,7 +139,7 @@ work written originally in the language studied, and one from a work
 studied in translation. Students select the global issue themselves
 and are expected to root their discussion in close analysis of
 authorial choices -- narrative technique, structure, form -- across
-both works from the outset, rather than discussing the issue in the
+both works, rather than discussing the issue in the
 abstract, since the assessment rewards close textual grounding over
 general commentary on the issue itself.
 

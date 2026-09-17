@@ -49,7 +49,7 @@ Related: [Cognitive approach study guide](/resources/ib-dp-psychology-cognitive-
 
 ## Section B
 
-**4.** A candidate answers a question on memory by describing both hippocampal activity and information-processing models in the same paragraph, without stating which approach each point belongs to.
+**4.** A candidate answers a Paper 1 essay question on the cognitive approach, about memory, by describing both hippocampal activity and information-processing models in the same paragraph, without stating which approach each point belongs to.
 
 **(a)** Explain why this answer would likely lose marks even if both points are factually accurate. **[3]**
 **(b)** Rewrite the opening of this answer to fix the problem, in outline. **[3]**
@@ -64,7 +64,7 @@ Related: [Cognitive approach study guide](/resources/ib-dp-psychology-cognitive-
 
 **7.** "The cognitive approach's use of computer-like models is a strength because it makes an unobservable process easier to study, but this is also its main limitation." Discuss this statement, using named cognitive concepts. **[8]**
 
-**8.** Prepare a worked comparison of how the cognitive and biological approaches would each explain a decline in memory accuracy after a stressful event, and explain what a strong answer does with this comparison that a weaker answer does not. **[6]**
+**8.** As a revision exercise (not a Paper 1 essay format), prepare a worked comparison of how the cognitive and biological approaches would each explain a decline in memory accuracy after a stressful event, and explain what a strong answer does with this comparison that a weaker answer does not. **[6]**
 
 ---
 
@@ -76,8 +76,8 @@ Related: [Cognitive approach study guide](/resources/ib-dp-psychology-cognitive-
 
 **3.** The study's methodology, and at least one genuine evaluative point (a strength or limitation of how it was conducted or how applicable its model is to real-world behaviour). **[2]**
 
-**4. (a)** Even where both points are individually accurate, the syllabus deliberately treats memory as a topic studied from more than one approach, and Paper 1 credits candidates for recognising which approach a question or point is drawing on. An answer that blends biological and cognitive explanations without distinguishing them reads as unfocused, and makes it harder for an examiner to credit either explanation as a clearly developed point, since the answer never states which approach's reasoning is doing the explanatory work at any given moment. **[3]**
-**(b)** A stronger opening states the approach explicitly before the content, for example: "From a cognitive perspective, information-processing models suggest memory is encoded, stored and retrieved through distinct stages, and reconstructive memory theory suggests retrieval can be distorted by schema. A biological perspective on the same topic would instead focus on structures such as the hippocampus..." -- explicitly naming each approach before its content, rather than blending both into one undifferentiated paragraph. **[3]**
+**4. (a)** Even where both points are individually accurate, the Paper 1 essay is answered from the single approach the question names -- here the cognitive approach -- with no separate credit for bringing in a second approach. The hippocampal material is biological-approach content, so it adds nothing creditable on its own, takes time away from developing and evaluating cognitive theories and studies, and, blended in without being labelled, makes the answer read as unfocused. **[3]**
+**(b)** A stronger opening names the approach the question asks for and stays within it, for example: "From the cognitive approach, information-processing models such as the multi-store model suggest memory is encoded, stored and retrieved through distinct stages, and reconstructive memory theory suggests retrieval can be distorted by schema..." -- then develops and evaluates cognitive theories and studies throughout, leaving the hippocampus out rather than blending a biological explanation into a cognitive-approach essay. **[3]**
 
 **5.** Reconstructive memory theory holds that recall is an active reconstruction shaped by each individual's existing schema -- their prior knowledge, expectations and beliefs -- rather than an accurate playback of the original event. Two eyewitnesses can have different schema going into the same event (different prior experiences, expectations, or areas of attention), so each reconstructs the event slightly differently during recall, integrating gaps with schema-consistent assumptions without being aware they have done so. Because this integration happens below conscious awareness, both witnesses can report their differing accounts with equal, genuine confidence -- confidence is a feature of how convincingly the memory has been reconstructed, not a reliable indicator of its objective accuracy. **[4]**
 

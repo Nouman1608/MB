@@ -40,7 +40,7 @@ Paper 2 as a fresh start.
 
 **AQA GCSE PSYCHOLOGY (8182) — PAPER 2 SOCIAL CONTEXT AND BEHAVIOUR**
 
-- 2.1 Social influence — how social factors (group size, anonymity,
+- 3.2.1 Social influence — how social factors (group size, anonymity,
 task difficulty) and dispositional factors (personality, expertise)
 affect conformity to majority influence, including Asch's study;
 Milgram's Agency Theory of obedience, covering agency, authority,
@@ -52,7 +52,7 @@ intervention, including Piliavin's subway study; and prosocial and
 antisocial behaviour in crowds, covering social factors (social
 loafing, deindividuation, culture) and dispositional factors
 (personality, morality)
-- 2.2 Language, thought and communication — the possible relationship
+- 3.2.2 Language, thought and communication — the possible relationship
 between language and thought, comparing Piaget's theory (language
 depends on thought) with the Sapir-Whorf hypothesis (thinking depends
 on language), including variation in recall and colour recognition
@@ -62,7 +62,7 @@ eye contact, body language, postural echo, touch and personal space;
 and explanations of non-verbal behaviour, contrasting Darwin's
 evolutionary account with evidence it is learned, including Yuki's
 study of emoticons
-- 2.3 Brain and neuropsychology — the structure and function of the
+- 3.2.3 Brain and neuropsychology — the structure and function of the
 nervous system, including the autonomic nervous system, fight-or-flight,
 and the James-Lange theory of emotion; neuron structure and function,
 covering sensory, relay and motor neurons, synaptic transmission and
@@ -72,7 +72,7 @@ with Penfield's study of the interpretive cortex; and an introduction
 to neuropsychology, covering cognitive neuroscience, CT/PET/fMRI
 scanning, Tulving's memory study, and how neurological damage affects
 behaviour
-- 2.4 Psychological problems — an introduction to mental health and how
+- 3.2.4 Psychological problems — an introduction to mental health and how
 its incidence changes over time; the effects of significant mental
 health problems on individuals and society; the characteristics of
 clinical depression, including the ICD approach to diagnosis; theories

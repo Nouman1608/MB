@@ -155,9 +155,13 @@ intermediate.
 The rate-determining step is step 2, so the rate equation based on its
 reactants alone would be rate = k[NOBr₂][NO]. But NOBr₂ doesn't appear in
 the overall equation, so it's an **intermediate**, formed in step 1 and
-consumed in step 2 — and outcome 26.1.2(a) restricts a rate equation to
-species that appear in the overall equation, so this intermediate must be
-eliminated before the rate equation is complete.
+consumed in step 2. Its concentration cannot be set at the start of an
+experiment or readily measured as the reaction proceeds, so a rate
+equation written in terms of it cannot be tested against experimental
+data; it has to be re-expressed in terms of species whose concentrations
+can be. (This is not a rule that a rate equation may contain only species
+from the overall equation: a catalyst does not appear in the overall
+equation, yet it can appear in the rate equation.)
 
 Because step 1 is a **fast, reversible pre-equilibrium**, [NOBr₂] can be
 re-expressed in terms of the species it was made from. Treating step 1 as
@@ -167,7 +171,7 @@ Substituting this into rate = k[NOBr₂][NO] gives:
 rate = k × K₁[NO][Br₂] × [NO] = k'[NO]²[Br₂]
 
 where k' = kK₁. This final rate equation, **rate = k[NO]²[Br₂]**, contains
-only NO and Br₂ — both in the overall equation — and matches the
+only NO and Br₂, whose concentrations can be controlled and measured, and matches the
 experimentally observed second-order dependence on NO.
 
 This works in reverse too: given an experimental rate equation, a proposed

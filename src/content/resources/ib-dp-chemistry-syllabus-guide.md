@@ -129,9 +129,10 @@ under-prepare HL candidates.
 
 Reactivity 3, on reaction mechanisms, is worth extra attention simply on
 teaching-hours grounds -- at 24 hours SL and 45 hours HL it is the
-single largest component in the whole syllabus, though not by a wide
-margin: at SL the next largest is Reactivity 2 at 21 hours, and at HL
-Structure 3 and Reactivity 2 are both close behind at 31 hours each. Because it draws together proton transfer,
+single largest component in the whole syllabus. At SL it leads only
+narrowly (the next largest, Reactivity 2, has 21 hours), but at HL it
+leads clearly: Structure 3 and Reactivity 2, the next largest, have 31
+hours each, 14 fewer. Because it draws together proton transfer,
 electron transfer and two different modes of electron sharing, it also
 tends to be where students who have revised Structure and Reactivity 1-2
 in isolation discover gaps: mechanism questions routinely expect fluent

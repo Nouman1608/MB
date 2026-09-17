@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "cell-level-systems-ocr-gcse-biology"
-description: "Cell structures, DNA and protein synthesis, respiration, and photosynthesis -- the full content of Topic B1 Cell level systems for OCR GCSE Gateway Science Suite Biology A (J247)."
+description: "Cell structures and microscopy, DNA and protein synthesis, enzymes, respiration and the synthesis and breakdown of biological molecules, and photosynthesis, including experiments to investigate it -- a study guide to Topic B1 Cell level systems for OCR GCSE Gateway Science Suite Biology A (J247)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
@@ -40,9 +40,16 @@ bacterial cells and how they relate to function
 - B1.2 What happens in cells (and what do cells need)? — DNA structure,
 protein synthesis (transcription and translation), and enzyme
 mechanism, including the effect of temperature and pH
-- B1.3 Respiration — how cells release energy through aerobic and
-anaerobic respiration
-- B1.4 Photosynthesis — how plant cells capture and use light energy
+- B1.3 Respiration — respiration as a continuous, exothermic process
+supplying ATP in all living cells; aerobic and anaerobic respiration
+compared; and the importance of sugars, amino acids, and fatty acids
+and glycerol in the synthesis and breakdown of carbohydrates, proteins
+and lipids
+- B1.4 Photosynthesis — photosynthetic organisms as the main producers
+of food and biomass; photosynthesis as a two-stage, endothermic process
+in the chloroplasts; experiments to investigate photosynthesis; and the
+effect and interaction of temperature, light intensity and carbon
+dioxide concentration as limiting factors
 
 ## How to approach it
 
@@ -104,13 +111,27 @@ Because the folded shape of a protein depends on its amino acid sequence, a chan
 
 Enzymes are proteins with an active site complementary to a specific substrate. Rate rises with temperature until the optimum, then falls sharply as the enzyme **denatures** — the tertiary structure breaks and the active site changes shape irreversibly. pH behaves the same way.
 
+Substrate concentration and enzyme concentration also affect the rate: increasing either one raises the rate until the other becomes the limiting factor. Enzyme-controlled reactions are investigated by changing one factor and measuring how quickly the substrate is used up or the product forms — for example, sampling a starch and amylase mixture into iodine solution at regular intervals and timing how long it takes until the sample no longer turns blue-black.
+
 ```
 Aerobic:    glucose + oxygen -> carbon dioxide + water    (large ATP yield)
 Anaerobic in muscle: glucose -> lactic acid               (small yield, oxygen debt)
 Anaerobic in yeast:  glucose -> ethanol + carbon dioxide  (fermentation)
 ```
 
-Respiration happens in every living cell, continuously, and is not the same as breathing.
+Cellular respiration is a universal process, happening continuously in every living cell to supply **ATP**, and it is an **exothermic** reaction — energy is transferred to the surroundings. It is not the same as breathing (ventilation).
+
+## Building and breaking down biological molecules
+
+Cells both **synthesise** large molecules from smaller ones and **break them down** again, for example to supply fuel for respiration.
+
+| Large molecule | Built from |
+|---|---|
+| Carbohydrates such as starch, glycogen and cellulose (polymers) | Sugars such as glucose (monomers) |
+| Proteins (polymers) | Amino acids (monomers) |
+| Lipids | Fatty acids and glycerol |
+
+Lipids are not polymers — they are not made of a chain of repeating units — so the terms monomer and polymer apply to the carbohydrates and proteins here, not to lipids.
 
 ## Photosynthesis
 
@@ -125,6 +146,8 @@ carbon dioxide + water --light energy--> glucose + oxygen
 Photosynthesis is an **endothermic reaction** — energy is transferred from the environment (as light) to the chloroplast, rather than released. It happens in **two stages**: light energy absorbed by chlorophyll is first used to split water, and that energy is then used to combine carbon dioxide with hydrogen to build glucose. Both stages take place in the **chloroplasts**.
 
 Three factors can each limit the rate of photosynthesis: **light intensity**, **carbon dioxide concentration** and **temperature**. A **limiting factor** is whichever of these is in shortest supply at a given moment — it alone determines the rate, however much of the other two factors is available. On a rate graph, increasing one factor raises the rate until it plateaus, at which point a different factor has become limiting. Light intensity follows an inverse square law with distance from a light source, so doubling the distance from a lamp quarters the intensity reaching the plant.
+
+**Investigating photosynthesis.** The rate can be measured from the oxygen an aquatic plant such as pondweed gives off — counting bubbles, or collecting the gas and measuring its volume — with the lamp at different distances while the temperature is kept constant. To show that light is needed, a plant is first **destarched** by keeping it in the dark, then part of a leaf is covered with foil and the plant is placed in light. The leaf is boiled in water, soaked in hot ethanol (heated in a water bath, not over a flame) to remove the chlorophyll, rinsed and tested with iodine solution: the uncovered parts turn blue-black because they made starch, while the covered part stays orange-brown.
 
 ## Worked example
 
@@ -149,6 +172,9 @@ Saying bacteria have no DNA rather than no nucleus. Confusing magnification with
 - Distinguish magnification from resolution and calculate magnification with unit conversion.
 - State the base-pairing rules and describe transcription and translation.
 - Explain enzyme action and the effects of temperature and pH, using denature correctly.
-- Write word equations for aerobic and both types of anaerobic respiration.
+- Write word equations for aerobic and both types of anaerobic respiration, and describe respiration as a continuous, exothermic process supplying ATP.
+- Name the smaller molecules that carbohydrates, proteins and lipids are built from and broken down into, using monomer and polymer correctly.
+- Describe how to investigate the effect of a factor on an enzyme-controlled reaction.
 - Give the word and balanced symbol equation for photosynthesis, and explain why it is endothermic.
 - Describe the two-stage process of photosynthesis and identify light intensity, carbon dioxide concentration and temperature as limiting factors.
+- Describe an experiment to measure the rate of photosynthesis and an experiment to show that light is needed for starch production.

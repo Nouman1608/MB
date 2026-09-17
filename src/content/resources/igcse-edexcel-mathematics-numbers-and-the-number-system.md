@@ -39,28 +39,41 @@ NUMBERS AND THE NUMBER SYSTEM**
 This topic is tiered: each sub-topic below carries Foundation-tier
 content, and several also carry Higher-tier extensions, marked (H).
 
-- 1.1 Integers — properties of integers, place value, and ordering
-- 1.2 Fractions — proper and improper fractions, mixed numbers, and
-calculating with fractions; (H) converting a recurring decimal to a
-fraction
-- 1.3 Decimals — calculating with decimals and converting between
-decimals and other forms
-- 1.4 Powers and roots — squares, cubes, square roots, cube roots, and
-other powers and roots; index laws for integer, fractional and
-negative powers; (H) surds, including simplifying surd expressions and
-rationalising a denominator
-- 1.5 Set language and notation — set notation and Venn diagrams; (H)
-the number of elements in a set, using notation such as n(A)
-- 1.6 Percentages — percentage of a quantity, percentage change, and
-simple and compound interest; (H) repeated percentage change
+- 1.1 Integers — positive, negative and zero integers, place value,
+directed numbers, ordering, the four rules and the hierarchy of
+operations, and odd, even and prime numbers, factors, multiples, prime
+factors, common factors and common multiples
+- 1.2 Fractions — equivalent fractions, mixed numbers and vulgar
+fractions, ordering fractions, adding, subtracting, multiplying and
+dividing fractions and mixed numbers, and converting a fraction to a
+decimal or a percentage
+- 1.3 Decimals — decimal notation, place value and ordering, and
+converting a terminating decimal to a fraction or a percentage; (H)
+converting a recurring decimal into a fraction
+- 1.4 Powers and roots — square and cube numbers, squares, cubes and
+their roots, index laws for positive and negative integer powers
+including zero, products of prime factors, and HCF and LCM; (H) surds,
+including rationalising a denominator, and index laws for integer,
+fractional and negative powers
+- 1.5 Set language and notation — the notation ∪, ∩, ∈ and ∉, the
+universal set, the empty set, complements and Venn diagrams; (H) sets
+defined in algebraic terms, subsets, the number of elements in a set
+using the notation n(A), and sets in practical situations
+- 1.6 Percentages — expressing one number as a percentage of another,
+percentage increase and decrease, reverse percentages, and compound
+interest and depreciation; (H) repeated percentage change and compound
+interest problems
 - 1.7 Ratio and proportion — simplifying ratios, dividing in a given
-ratio, and direct and inverse proportion
-- 1.8 Degree of accuracy — rounding to decimal places and significant
-figures, and upper and lower bounds; (H) upper and lower bounds in the
-context of a calculation such as a sum, difference, product or
-quotient
-- 1.9 Standard form — converting into and calculating with standard
-form
+ratio, direct proportion, and ratio and proportion word problems
+including maps and scale diagrams (no separate Higher-tier content;
+inverse proportion is Higher-tier sub-topic 2.5 in Topic 2)
+- 1.8 Degree of accuracy — rounding to a power of 10, significant
+figures and decimal places, identifying upper and lower bounds, and
+estimating by rounding; (H) solving problems using upper and lower
+bounds, for example in a calculation such as a sum, difference,
+product or quotient
+- 1.9 Standard form — calculating with and interpreting numbers in the
+form a × 10ⁿ; (H) solving problems involving standard form
 - 1.10 Applying number — using numerical skills in everyday, personal,
 domestic or community contexts, including calculations with metric
 units of mass, length, area, volume and capacity, and calculations

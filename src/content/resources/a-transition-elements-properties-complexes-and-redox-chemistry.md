@@ -155,9 +155,12 @@ standard examples:
 
 **Sodium hydroxide** and **ammonia** behave differently in excess. Any
 amount of NaOH(aq), limited or excess, precipitates the metal hydroxide —
-e.g. Cu²⁺(aq) + 2OH⁻(aq) → Cu(OH)₂(s), a pale blue precipitate — and this
-precipitate does **not** redissolve in excess NaOH(aq) at this level, since
-OH⁻ acts only as a base here, not as a ligand that displaces water.
+e.g. Cu²⁺(aq) + 2OH⁻(aq) → Cu(OH)₂(s), a pale blue precipitate. Written as
+a complex, [Cu(H₂O)₆]²⁺ + 2OH⁻ → [Cu(OH)₂(H₂O)₄](s) + 2H₂O: two hydroxide
+ions take the place of two water ligands, giving an **uncharged** complex
+that is insoluble in water (the syllabus lists hydroxide ions among the
+ligands in the ligand exchange of copper(II) and cobalt(II), 28.2.7). This
+precipitate does **not** redissolve in excess NaOH(aq) at this level.
 **Ammonia**, by contrast, gives the same kind of precipitate with limited
 NH₃(aq) (acting as a base), but that precipitate **does** redissolve in
 excess NH₃(aq), as NH₃ then acts as a ligand and undergoes ligand exchange

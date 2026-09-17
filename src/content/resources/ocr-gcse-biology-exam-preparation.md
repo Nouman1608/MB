@@ -35,9 +35,12 @@ topics, and a synoptic question can require both.
 ## Topic 7 practical skills appear on every paper
 
 Practical skills are examined on both papers at both tiers rather than being confined to one.
-**Exam-preparation priority**: treat the required practical activities as examinable content of equal
-standing with the biology topics. For each one, know the variables, the measurements taken, the main
-source of error, and one specific improvement -- this set of four facts answers most practical
+**Exam-preparation priority**: treat practical work as examinable content of equal standing with the
+biology topics. OCR sets no list of "required practicals": centres run at least eight practical
+activities covering the apparatus and techniques of the Practical Activity Groups (PAGs), and the
+written papers can ask about any of these techniques and the practicals suggested in the specification.
+For each practical you have carried out or met in the specification, know the variables, the
+measurements taken, the main source of error, and one specific improvement -- this set of four facts answers most practical
 questions regardless of which paper they appear on.
 
 ## The tier decision should rest on full-paper evidence
@@ -95,7 +98,7 @@ while naming it and explaining why it had to be controlled is a complete answer.
 ## Before/during exam checklist
 
 - **Before the exams**: keep topics 1-3 revised after the first paper, since they are assumed
-  knowledge on the second; learn four facts per required practical (variables, measurements, main
+  knowledge on the second; learn four facts per practical activity (variables, measurements, main
   error, targeted improvement); settle the tier decision on timed full-paper evidence; practise
   complete papers to build pacing.
 - **During either paper**: bank time early so the extended-response questions are not rushed.

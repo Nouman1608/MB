@@ -92,13 +92,19 @@ need to use them cold, not annotations you can't actually bring in.
 
 ## Answering the questions
 
-**Source questions:** consider the source's **content, provenance
-(who, when, why) and your own contextual knowledge together** to
-explain how it is useful for a stated purpose. Usefulness is not
-reduced by bias; a biased source is highly useful evidence of what
-its author wanted people to believe. **Reliability is not a question
-type on this paper**, and evaluating a source's limitations — how it
-is *not* useful — is explicitly not required.
+**Source questions (Section A):** there are four, each with a
+different task. Question 1 (4 marks) uses a source's content and/or
+provenance with your contextual knowledge to support a given claim;
+Question 2 (6 marks) explains a difference between two sources;
+Question 3 (8 marks) explains how a source is useful to a historian
+studying a given issue, using its **content, provenance (who, when,
+why) and your own contextual knowledge together**; Question 4 (12
+marks) evaluates a given issue or development using a range of the
+sources and your own knowledge. On Question 3, usefulness is not
+reduced by bias: a biased source is useful evidence of what its author
+wanted people to believe. **Reliability is not a separate question
+type on this paper**, and evaluating a source's limitations (how it is
+*not* useful) is explicitly not required.
 
 **Essay questions:** examiners reward **weighing**, not listing. Give the factors, explain how each contributed, then judge which mattered most and why.
 

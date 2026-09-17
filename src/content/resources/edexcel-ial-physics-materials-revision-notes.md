@@ -33,7 +33,7 @@ An object floats if its **average density** is less than the fluid's.
 **Viscous drag — Stokes' law:**
 
 ```
-F = 6 pi eta r v        (small sphere, laminar flow only)
+F = 6 pi eta r v        (small sphere, low speed, laminar flow only)
 ```
 
 **Terminal velocity in a fluid** occurs when weight = upthrust + viscous drag. Note that this is a **three-force** balance, not two — omitting upthrust is the standard error in the falling-sphere experiment.
@@ -105,7 +105,7 @@ For loading beyond the elastic limit, the loading and unloading curves differ an
 - Treating the Young modulus as a property of the object.
 - Using ½Fx on a non-linear graph.
 - Confusing strong, stiff and tough.
-- Applying Stokes' law to turbulent flow or to non-spherical objects.
+- Applying Stokes' law to turbulent flow, to high speeds, or to objects that are not small spheres.
 
 ## Self-test
 

@@ -24,10 +24,11 @@ series. 9709 is modular: six papers across three content strands —
 Pure Mathematics (Papers 1–3), Mechanics (Paper 4), and Probability &
 Statistics (Papers 5–6). Paper 1 is compulsory for both the AS Level
 and the A Level. Pure Mathematics 2 is examined through Paper 2, which
-is offered only as part of the standalone AS Level award (Paper 1 plus
-Paper 2); it does not count towards the full A Level, for which
-candidates take Paper 3 (Pure Mathematics 3) instead, and candidates
-are not permitted to take both Paper 2 and Paper 3.
+is offered only in the Pure Mathematics only AS Level route (Paper 1
+plus Paper 2); that route cannot count towards the full A Level, for
+which candidates take Paper 3 (Pure Mathematics 3) instead, and
+candidates may not take both Paper 2 and Paper 3 in the same
+examination series.
 
 ## Where this fits in 9709
 
@@ -37,9 +38,13 @@ differentiation and integration to exponential, logarithmic and
 trigonometric functions, and introducing techniques — the modulus
 function, radian measure in calculus, and numerical methods for
 equations that cannot be solved exactly. Paper 2 and Paper 3 are
-alternative routes built on the same Paper 1 foundation, not a
-sequence: a candidate takes Paper 1 plus Paper 2 for the AS Level, or
-Paper 1 plus Paper 3 for the A Level, never both Paper 2 and Paper 3.
+taken in alternative routes built on the same Paper 1 foundation, not
+a sequence. Candidates take two components for AS Level Mathematics:
+Paper 1 with Paper 2, Paper 4 or Paper 5, and only the Paper 1 plus
+Paper 2 combination cannot be carried forward to the A Level.
+Candidates take four components for A Level Mathematics: Papers 1 and
+3 with either Papers 4 and 5 or Papers 5 and 6, so Paper 2 is never
+part of an A Level.
 Pure Mathematics 2's content is often where AS Level students meet,
 for the first time, functions and equations that genuinely cannot be
 handled by purely algebraic methods, which is part of why numerical

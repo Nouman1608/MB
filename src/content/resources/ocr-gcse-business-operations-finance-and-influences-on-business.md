@@ -24,8 +24,10 @@ OCR GCSE (9-1) Business (J204), for first assessment 2019. Where
 Business 1 (J204/01) introduces business activity, marketing and
 people, Business 2 takes a closer look at how a business actually
 operates day to day, how it manages money, and how external forces
-shape its decisions -- and, uniquely among the two components, it
-includes a synoptic section drawing on content from both papers.
+shape its decisions -- and it is the component that carries synoptic
+assessment: at least two of the questions in Section B of its paper
+require candidates to draw on the full range of content from both
+components.
 
 ## Syllabus coverage
 
@@ -60,9 +62,12 @@ includes a synoptic section drawing on content from both papers.
 - **7. The interdependent nature of business** -- drawing together
   content from both Business 1 and Business 2 to show how operations,
   finance, marketing and human resources depend on each other, and how
-  this interdependency underpins real business decision-making;
-  Business 2 questions in this area are explicitly synoptic and may
-  require candidates to draw on Business 1 content.
+  this interdependency underpins real business decision-making; the
+  impact of risk and reward on business activity; and the use of
+  financial information in measuring and understanding business
+  performance and decision making. The synoptic questions in Section B
+  of the Business 2 paper may require candidates to draw on Business 1
+  content.
 
 ## Why Business 2 assumes Business 1
 
@@ -126,11 +131,12 @@ production overseas (4.5, location) affects supplier relationships
 calculations (break-even, profit and loss, profitability ratios,
 average rate of return, cash flow forecasts) until they are fluent, since at least 10% of the
 overall qualification's marks explicitly reward quantitative skills at
-a demand not lower than that expected at Key Stage 3 level. Keep the
-synoptic section (7) in mind throughout
+a demand not lower than that expected at Key Stage 3 level. Keep
+section 7 (the interdependent nature of business) in mind throughout
 revision of both components -- rather than revising it separately at
-the end -- since it is not a distinct block of content but a way of
-answering Business 2 exam questions that draw on Business 1 material.
+the end -- since its content is the connections between operations,
+finance, marketing and human resources, which is what the synoptic
+questions in Section B of the Business 2 paper draw on.
 
 ## Related resources
 

@@ -150,8 +150,8 @@ the right analytical toolkit to it.
 For the individual oral, which asks students to connect one literary
 work and one non-literary body of work to a common global issue, start
 identifying possible pairings well before the assessment itself --
-finding a genuine, well-supported connection between a literary text and
-a body of non-literary material takes real thought, and rushing this
+finding a genuine, well-supported connection between a literary work and
+a non-literary body of work takes real thought, and rushing this
 stage tends to produce oral commentaries that assert a connection
 without properly demonstrating it.
 

@@ -107,7 +107,7 @@ Na: 1 outer electron (•), lost      Cl⁻: 7 crosses (its own) + 1 dot (from N
 [Na]⁺: no outer electrons left      = 8 outer electrons, a full outer shell
 ```
 
-**Magnesium oxide, MgO** — magnesium (2,8,2) transfers **both** outer electrons to oxygen
+**Magnesium oxide, MgO** *(0620 Extended, 5070 required — 0620 Core covers only Group I with Group VII)* — magnesium (2,8,2) transfers **both** outer electrons to oxygen
 (2,6), so the ratio is 1:1 and each ion carries a 2+ or 2− charge:
 
 ```
@@ -230,7 +230,8 @@ another without breaking the bonding.
 ## Quick revision checklist
 
 - Formation of cations and anions; definition of an ionic bond
-- Dot-and-cross diagrams for ionic bonding (e.g. sodium chloride, magnesium oxide)
+- Dot-and-cross diagrams for ionic bonding between Group I and Group VII elements (e.g. sodium chloride)
+- *(0620 Extended, 5070 required)* dot-and-cross diagrams for other metal–non-metal ionic compounds (e.g. magnesium oxide)
 - Properties of ionic compounds
 - *(0620 Extended, 5070 required)* giant ionic lattice, and explaining the properties
 - Covalent bond defined; bonding in simple molecules

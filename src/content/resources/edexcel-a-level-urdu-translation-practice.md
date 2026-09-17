@@ -44,17 +44,17 @@ not here.)*
 
 ## Section B — Language and response
 
-**3.** Explain the difference between a literal and an idiomatic translation, and state which is expected at A Level, with a reason. **[4]**
+**2.** Explain the difference between a literal and an idiomatic translation, and state which is expected at A Level, with a reason. **[4]**
 
-**4.** Translate these idioms into English and explain why a word-for-word rendering fails:
+**3.** Translate these idioms into English and explain why a word-for-word rendering fails:
 
 **(a)** آنکھوں کا تارا **(b)** ہاتھ دھو بیٹھنا **(c)** دال میں کچھ کالا ہونا **[6]**
 
-**5.** Explain **three** differences between formal and informal register in Urdu, giving an example of each. **[6]**
+**4.** Explain **three** differences between formal and informal register in Urdu, giving an example of each. **[6]**
 
 ## Reading comprehension (Section B skills)
 
-**6.** Read the passage, then answer the questions that follow **in Urdu** — all questions and
+**5.** Read the passage, then answer the questions that follow **in Urdu** — all questions and
 responses in Sections B and C of the real paper are in Urdu, not English.
 
 > ماحولیاتی تبدیلی صرف سائنس دانوں کا مسئلہ نہیں رہی، بلکہ اب یہ ہر گھر کی بات بن چکی ہے۔ شہروں میں گرمی کی شدت ہر سال بڑھ رہی ہے، اور بارشوں کا وقت بھی بے ترتیب ہو گیا ہے۔ کچھ لوگ سمجھتے ہیں کہ یہ مسئلہ صرف حکومتوں کا ہے، مگر حقیقت یہ ہے کہ عام آدمی کی چھوٹی چھوٹی عادتیں بھی بڑا فرق ڈال سکتی ہیں۔
@@ -74,7 +74,7 @@ responses in Sections B and C of the real paper are in Urdu, not English.
 | 3 — ہجرت (ترکِ وطن) اور کثیر الثقافتی معاشرہ | پاکستان سے ہجرت: ہجرت کی سیاسی اور معاشی وجوہات؛ اعلیٰ تعلیم یافتہ طبقے کا ترکِ وطن؛ پاکستانی معاشرے پر وطن لوٹنے والوں کے مثبت اثرات | Pakistan only |
 | 4 — پاکستانی سیاست کے رخ | پاکستان میں ماحولیاتی مسائل سے متعلق اقدامات: موسمیاتی تبدیلیوں اور آلودگی کے مسائل کے سدِباب کے لئے حکومت کی کارروائیاں؛ قدرتی آفات کے سدِباب کے لئے حکومت کے اقدام؛ پاکستان میں غیر ملکی امدادی ادارے | Pakistan only |
 
-**7.** **تحقیقی موضوع: پاکستان میں ماحولیاتی مسائل سے متعلق اقدامات (موضوع 4)**
+**6.** **تحقیقی موضوع: پاکستان میں ماحولیاتی مسائل سے متعلق اقدامات (موضوع 4)**
 
 نیچے دی گئی عبارت غور سے پڑھیے اور پھر سوال کا جواب اردو میں دیجیے۔
 
@@ -114,22 +114,22 @@ witness/testifies" [1]; کہ = "that" [1]; جن معاشروں نے = "the socie
 "those [societies]" [1]; معاشی اور سماجی = "economic and social" [1]; ترقی میں = "in
 development/progress" [1]; دوسروں سے آگے نکل گئے = "moved ahead of others" [1]. (Total 20.)
 
-**3.** A **literal translation** renders **each word individually in the same order**, preserving the form of the original [1]. An **idiomatic translation** conveys the **meaning and effect in natural target-language expression**, changing the wording where necessary [1]. **Idiomatic translation is expected at A Level** [1], because the examiner is testing **understanding of meaning and command of natural expression**, and a literal version of an idiom is usually meaningless or absurd in the target language [1].
+**2.** A **literal translation** renders **each word individually in the same order**, preserving the form of the original [1]. An **idiomatic translation** conveys the **meaning and effect in natural target-language expression**, changing the wording where necessary [1]. **Idiomatic translation is expected at A Level** [1], because the examiner is testing **understanding of meaning and command of natural expression**, and a literal version of an idiom is usually meaningless or absurd in the target language [1].
 
-**4. (a)** آنکھوں کا تارا — "the apple of one's eye" [1]; literally "the star of the eyes", which in English conveys nothing about being deeply loved [1].
+**3. (a)** آنکھوں کا تارا — "the apple of one's eye" [1]; literally "the star of the eyes", which in English conveys nothing about being deeply loved [1].
 **(b)** ہاتھ دھو بیٹھنا — "to lose (something) for good" [1]; literally "to sit having washed one's hands", which in English suggests giving up responsibility, the opposite of the Urdu sense of irrecoverable loss [1].
 **(c)** دال میں کچھ کالا ہونا — "there is something fishy about it" [1]; literally "there is something black in the lentils", which would be read as a comment on food rather than as suspicion [1].
 
-**Worked illustration of register choice**, translating the idea *"he lost his temper"* into natural Urdu-register English elsewhere in a passage: a literal rendering ("anger came upon him") is unnatural English; an overly free rendering ("he flipped out") loses the register of a formal passage; the balanced version ("he became angry") is both accurate and appropriately formal — the same literal/too-free/balanced check applies when translating **out of** Urdu, not only into it.
+**Worked illustration of register choice**, translating out of Urdu as Section A requires: for اسے غصہ آ گیا, a literal rendering ("to him anger came") is unnatural English; an overly free rendering ("he flipped out") loses the register of a formal passage; the balanced version ("he became angry") is both accurate and appropriately formal. Run the same literal / too-free / balanced check on every idiom in a Section A passage.
 
-**5.** Any three, 2 marks each: **pronouns and verb forms** — formal Urdu uses **آپ with the ہیں/کیجیے forms**, informal uses **تم or تُو with کرو/کر** [1] [1]. **Vocabulary** — formal register draws on **Persian and Arabic loanwords** (تشریف لائیے، ملاحظہ فرمائیے) where informal uses plain everyday words (آؤ، دیکھو) [1] [1]. **Sentence structure and openings** — formal writing uses **longer, more complex sentences and set conventions** such as جنابِ محترم or گزارش ہے کہ, while informal writing is short and direct [1] [1]. **Honorific plurals** — a single respected person is referred to in the **plural** (والد صاحب آئے ہیں), which does not occur in informal speech about peers [1] [1].
+**4.** Any three, 2 marks each: **pronouns and verb forms** — formal Urdu uses **آپ with the ہیں/کیجیے forms**, informal uses **تم or تُو with کرو/کر** [1] [1]. **Vocabulary** — formal register draws on **Persian and Arabic loanwords** (تشریف لائیے، ملاحظہ فرمائیے) where informal uses plain everyday words (آؤ، دیکھو) [1] [1]. **Sentence structure and openings** — formal writing uses **longer, more complex sentences and set conventions** such as جنابِ محترم or گزارش ہے کہ, while informal writing is short and direct [1] [1]. **Honorific plurals** — a single respected person is referred to in the **plural** (والد صاحب آئے ہیں), which does not occur in informal speech about peers [1] [1].
 
-**6. (a)** یہ اب صرف سائنس دانوں کا مسئلہ نہیں رہا [1]؛ بلکہ ہر گھر کی بات بن چکا ہے [1]۔ **(b)**
+**5. (a)** یہ اب صرف سائنس دانوں کا مسئلہ نہیں رہا [1]؛ بلکہ ہر گھر کی بات بن چکا ہے [1]۔ **(b)**
 بارشوں کا وقت بے ترتیب ہو گیا ہے [1]۔ **(c)** عبارت کے مطابق عام آدمی کی چھوٹی چھوٹی عادتیں بھی بڑا
 فرق ڈال سکتی ہیں [1]، اس لیے مسئلے کو صرف حکومت کا سمجھنا ایک نامکمل نکتہ نظر ہے [1]؛ own-words
 paraphrase rather than lifted sentence [1].
 
-**7.** **How this question is marked (40 marks).** The specification's marking guidance for Section C applies three levels-based grids to the whole response, each on a best-fit basis: decide the band, then the mark within it.
+**6.** **How this question is marked (40 marks).** The specification's marking guidance for Section C applies three levels-based grids to the whole response, each on a best-fit basis: decide the band, then the mark within it.
 
 | Grid | Assessment objective | Marks |
 |---|---|---|

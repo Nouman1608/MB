@@ -47,13 +47,13 @@ Related: [Paper 1 revision notes](/resources/aqa-english-language-paper-1-revisi
 
 **7.** Explain how **mode** affects a text, comparing a scripted news bulletin with a live radio phone-in. **[4]**
 
+**8.** Distinguish between idiolect and sociolect, giving an example of each, as terms for describing how identity is constructed in a text. (Sociolects are studied in more depth for Paper 2, Language diversity and change.) **[4]**
+
 ## Section B -- Children's Language Development
 
-**8.** Give the five stages of child language acquisition, in order. **[5]**
+**9.** Give the five stages of child language acquisition, in order. **[5]**
 
-**9.** Explain how "virtuous errors" (e.g. "goed", "sheeps") are used as evidence for Chomsky's nativist theory of language acquisition, and explain how this challenges a purely behaviourist account. **[5]**
-
-**10.** Distinguish between idiolect and sociolect, giving an example of each. **[4]**
+**10.** Explain how "virtuous errors" (e.g. "goed", "sheeps") are used as evidence for Chomsky's nativist theory of language acquisition, and explain how this challenges a purely behaviourist account. **[5]**
 
 ---
 
@@ -74,11 +74,11 @@ Related: [Paper 1 revision notes](/resources/aqa-english-language-paper-1-revisi
 
 **7.** A **scripted news bulletin** is **written to be spoken**: it is **planned, edited and dense with information**, uses **complete sentences and standard grammar**, and has **no interaction or repair** [1] [1]. A **live phone-in** is **spontaneous speech**: it contains **fillers, false starts, overlaps, interruption and self-repair**, and its structure is **negotiated between participants in real time** rather than fixed in advance [1] [1].
 
-**8.** **Babbling** [1], **holophrastic (one-word)** [1], **two-word** [1], **telegraphic** [1], **post-telegraphic** [1].
+**8. Idiolect** is an **individual's** own distinctive, personal way of using language [1] — e.g. a person's characteristic catchphrases or habitual turns of phrase [1]. **Sociolect** is the variety of language **shared by a particular social group** [1] — e.g. the shared vocabulary of an occupational group, such as medical staff's abbreviations, or of a teenage friendship group [1]. (A variety shared by people from the same region is a **dialect**, not a sociolect.)
 
-**9.** A virtuous error is a **grammatically logical mistake a child could not have heard an adult produce**, e.g. "goed" for *went*, or "sheeps" for *sheep* [1] [1] — the child has **over-applied a regular grammatical rule to an irregular word** [1]. Nativists use this as evidence for an **innate language acquisition device**, since the child cannot simply be **imitating adult speech** they have never heard [1]; this directly challenges Skinner's **behaviourist** account, which explains acquisition through **imitation and reinforcement alone**, and cannot explain an error no adult ever modelled [1].
+**9.** **Babbling** [1], **holophrastic (one-word)** [1], **two-word** [1], **telegraphic** [1], **post-telegraphic** [1].
 
-**10. Idiolect** is an **individual's** own distinctive, personal way of using language [1] — e.g. a person's characteristic catchphrases or habitual turns of phrase [1]. **Sociolect** is the variety of language **shared by a particular social group** [1] — e.g. the shared vocabulary and grammar of a regional or occupational community [1].
+**10.** A virtuous error is a **grammatically logical mistake a child could not have heard an adult produce**, e.g. "goed" for *went*, or "sheeps" for *sheep* [1] [1] — the child has **over-applied a regular grammatical rule to an irregular word** [1]. Nativists use this as evidence for an **innate language acquisition device**, since the child cannot simply be **imitating adult speech** they have never heard [1]; this directly challenges Skinner's **behaviourist** account, which explains acquisition through **imitation and reinforcement alone**, and cannot explain an error no adult ever modelled [1].
 
 ---
 

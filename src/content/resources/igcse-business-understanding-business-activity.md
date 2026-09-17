@@ -40,7 +40,12 @@ objectives or organisational form.
 Cambridge replaces it with 0264 ("Cambridge IGCSE Business") from 2027
 onward, which changes the assessment-objective weightings from
 40/20/25/15 to 35/30/22/13, reduces each Paper 1 question from five
-parts to four, and renumbers every sub-topic. Always check which
+parts to four, and revises the subject content. Some sub-topics keep
+their numbers (for example 1.1 Business activity and 3.2 Market
+research); others are renamed, reordered, split or newly added (for
+example 4.2 Technology and production of goods and services and 4.3
+Sustainable production of goods and services are new), so the numbering
+does not always match. Always check which
 syllabus code your own examination series uses.
 
 ## Syllabus coverage

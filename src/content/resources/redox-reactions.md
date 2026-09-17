@@ -136,9 +136,12 @@ iodide ions are oxidised to iodine, turning the solution brown.
 
 ## Common mistakes
 
-- **Treating "oxidation" as only meaning "gaining oxygen."** That's true, but
-incomplete — the electron and oxidation-number definitions describe the same
-process in reactions with no oxygen at all.
+- **0620 Extended and 5070: treating "oxidation" as only meaning "gaining
+oxygen."** For 0620 Core, gain and loss of oxygen is the complete
+requirement, so a Core answer using the oxygen definition alone is correct.
+Extended and 5070 candidates must also define oxidation as loss of electrons
+and as an increase in oxidation number, which describe the same process in
+reactions with no oxygen at all.
 - **Forgetting that oxidation and reduction always happen together.** A reaction
 cannot be "just oxidation" — if one species is oxidised, another is reduced.
 - **Mixing up which species is the oxidising agent.** The oxidising agent is the

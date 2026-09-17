@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-4-further-mechanics-fields-and-particles"
     subtopic: "electric-and-magnetic-fields"
-description: "Original exam-style practice questions with full worked answers on electric fields, capacitance and electromagnetic induction for Edexcel International A Level Physics WPH14."
+description: "Original exam-style practice questions with full worked answers on electric fields, capacitance and electromagnetic induction for Edexcel International A Level Physics YPH11 (Unit 4, WPH14)."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
 featured: false

@@ -114,7 +114,9 @@ subducted beneath it, producing frequent, powerful earthquakes and a
 line of active volcanoes. Chile sits above a different destructive
 boundary, where the **Nazca Plate** is subducted beneath the South
 American Plate along the Peru-Chile Trench, producing the same
-earthquake-and-volcano pattern for a different reason. Indonesia's
+earthquake-and-volcano pattern for the same underlying reason --
+subduction at a destructive boundary -- but with a different pair of
+plates. Indonesia's
 most active volcanoes and largest earthquakes, concentrated along
 Sumatra and Java, are driven by the subduction of the **Indo-
 Australian Plate** beneath the Sunda Plate; the Pacific Plate plays a

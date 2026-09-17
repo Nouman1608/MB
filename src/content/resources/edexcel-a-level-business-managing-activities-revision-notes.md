@@ -75,7 +75,7 @@ Ways to improve liquidity: better supplier credit terms, **factoring** (selling 
 **Keep internal and external causes as two separate lists** — exam answers that blur the two rarely score full marks for analysis.
 
 - **Internal:** poor cash-flow management, overestimated sales, **overtrading** (growing faster than cash flow supports), poor inventory control, poor marketing, poor quality.
-- **External:** market conditions, competition, economic factors, exchange rates.
+- **External:** market conditions, competition, economic factors, exchange rates, interest rates, government regulations, supplier problems, natural phenomena.
 
 ## Resource management (2.3.4)
 

@@ -55,14 +55,14 @@ in a crisis. **[3]**
 the changes to staff, but many employees remain confused about what to do.
 
 **(a)** Identify one possible barrier to communication in this scenario. **[1]**
-**(b)** Suggest and justify one way this barrier could be reduced. **[3]**
+**(b)** Identify one way this barrier could be reduced, and justify your choice. **[3]**
 
 **7.** A business has recently automated part of its production line and needs to make some
 production workers redundant.
 
 **(a)** Explain why this is a genuine redundancy situation rather than a dismissal. **[2]**
-**(b)** Suggest one factor the business might consider when deciding which specific employees to make
-redundant, and justify your suggestion. **[3]**
+**(b)** Identify one factor the business might consider when deciding which specific employees to make
+redundant, and justify your choice. **[3]**
 
 **8.** A retail business is training a newly hired employee with no previous retail experience,
 alongside an experienced employee who has just been promoted to team leader.

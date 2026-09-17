@@ -90,7 +90,7 @@ TOP:     T + mg = m v^2 / r      ->   T = m v^2 / r - mg
 BOTTOM:  T - mg = m v^2 / r      ->   T = m v^2 / r + mg
 ```
 
-Tension is **greatest at the bottom** and **least at the top**, differing by 2mg.
+Tension is **greatest at the bottom** and **least at the top**. Subtracting the two equations gives a difference of **2mg only if the speed is the same at both points** (e.g. a stone whirled at constant speed). If the object moves freely and energy is conserved, it is faster at the bottom: ½mv_bottom² = ½mv_top² + mg(2r), so v_bottom² = v_top² + 4gr, and the tensions then differ by **6mg**.
 
 **Minimum speed at the top** occurs when T = 0 and gravity alone supplies the centripetal force:
 
@@ -121,4 +121,4 @@ Below that speed the object leaves the circular path — the string would go sla
 6. *(Extension, beyond the syllabus)* Derive the relationship between banking angle, speed and radius for a frictionless banked track.
 7. *(Extension, beyond the syllabus)* A track is banked at 15° for cars travelling at 20 m/s. Find the design radius.
 
-**Answers:** 1. a = v²/r and a = rω². 2. Velocity is a vector and its direction changes continuously, so the velocity changes even though the speed does not. 3. Friction between the tyres and the road surface. 4. At minimum speed the tension is zero, so weight alone supplies the centripetal force: mg = mv²/r, giving v = √(gr). 5. At the bottom; it exceeds the tension at the top by 2mg. 6. Resolving the normal contact force: N cos θ = mg (vertical) and N sin θ = mv²/r (horizontal); dividing gives tan θ = v²/(rg). 7. r = v² ÷ (g tan θ) = 20² ÷ (9.81 × tan 15°) = 400 ÷ (9.81 × 0.268) = **152 m**.
+**Answers:** 1. a = v²/r and a = rω². 2. Velocity is a vector and its direction changes continuously, so the velocity changes even though the speed does not. 3. Friction between the tyres and the road surface. 4. At minimum speed the tension is zero, so weight alone supplies the centripetal force: mg = mv²/r, giving v = √(gr). 5. At the bottom; if the speed is the same at the top and bottom it exceeds the tension at the top by 2mg (if energy is conserved instead, so the object is faster at the bottom, by 6mg). 6. Resolving the normal contact force: N cos θ = mg (vertical) and N sin θ = mv²/r (horizontal); dividing gives tan θ = v²/(rg). 7. r = v² ÷ (g tan θ) = 20² ÷ (9.81 × tan 15°) = 400 ÷ (9.81 × 0.268) = **152 m**.

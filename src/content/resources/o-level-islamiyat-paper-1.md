@@ -61,14 +61,18 @@ questions**. Candidates must answer **Question 1 and Question 2**,
 which are compulsory, plus **two further questions chosen from
 Questions 3 to 5**. Question 1 (worth 8 marks) sets three short
 passages on the major themes of the Qur'an and offers a choice of
-**any two** to write on; Questions 2 to 5 are essay-length, each worth
-14 marks and drawn respectively from the history and importance of the
-Qur'an, the life and importance of the Prophet (pbuh), and the first
-Islamic community. Because the two compulsory questions cover 1.1 and
-1.2 specifically, a candidate cannot simply avoid a weaker sub-topic if
-it happens to fall in that compulsory pair — which is why breadth
-across all four sub-topics, not just depth in two or three, is the
-safer preparation strategy.
+**any two** to write on; Question 2, on the history and importance of
+the Qur'an, is essay-length and worth 14 marks. Questions 3 to 5 are
+also essay-length, worth 14 marks each, and are set on the other two
+sub-topics: the syllabus says that one or two questions are set on the
+life and importance of the Prophet (pbuh) and one or two on the first
+Islamic community, so which question number covers which sub-topic
+varies from paper to paper, and in a given series either sub-topic may
+have only one question. Because the two compulsory questions cover 1.1
+and 1.2, and the choice among Questions 3 to 5 depends on how the
+remaining questions fall between 1.3 and 1.4, breadth across all four
+sub-topics, not just depth in two or three, is the safer preparation
+strategy.
 
 Marks are also split by assessment objective: **AO1 (Recall, select
 and present)** makes up 68% of the qualification, covering the
@@ -106,7 +110,7 @@ Battles of Badr, Uhud and the Trench, and the Farewell Sermon setting
 out equality, the sanctity of life and property, and the abolition of
 usury and blood feuds. Placing these events in relation to one
 another, rather than recalling them in isolation, is exactly what
-Questions 3 and 4 most often ask candidates to do.
+essay questions on these two sub-topics often ask candidates to do.
 
 ## How to approach it
 

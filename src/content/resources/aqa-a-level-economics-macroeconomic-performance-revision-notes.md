@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-and-international-economy-aqa-alevel-economics"
     subtopic: "the-measurement-of-macroeconomic-performance-aqa-alevel-economics"
-description: "Condensed recall notes on government macroeconomic policy objectives, macroeconomic indicators, index numbers and the uses of national income data for AQA AS and A-Level Economics (7135/7136), 3.2.1."
+description: "Condensed recall notes on government macroeconomic policy objectives, macroeconomic indicators, index numbers and the uses of national income data for AQA A-Level Economics (7136), 3.2.1. AS Economics (7135) has 3.2.1.1-3.2.1.3; uses of national income data (3.2.1.4) is A-level only."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
@@ -72,7 +72,7 @@ An index number is **relative**, not absolute: a change from 100 to 103 = **a 3%
 
 Index numbers use a **"basket of goods and services"** (representing typical spending), **weighted** by relative importance in spending. **You do NOT need the detailed construction of RPI/CPI** — only awareness of these underlying features (base year, weighting, "average family," basket of goods).
 
-## Uses of national income data (3.2.1.4)
+## Uses of national income data (3.2.1.4, A-level only)
 
 National income data (e.g. real GDP per capita) is widely used but **limited** as a measure of living standards: it ignores the **distribution of income**, the **informal economy**, **externalities**, and **non-marketed activity** (e.g. unpaid work).
 
@@ -133,7 +133,7 @@ Beyond the four headline objectives, the specification explicitly names balancin
 - Match real GDP per capita, CPI and the balance of payments to the objective each measures.
 - Explain what a fall in a price index from 100 to 96 represents.
 - State two underlying features of RPI/CPI you ARE expected to know, without needing their exact construction.
-- State two limitations of national income data as a measure of living standards, and explain why PPP exchange rates are used for international comparisons.
+- (A-level only) State two limitations of national income data as a measure of living standards, and explain why PPP exchange rates are used for international comparisons.
 
 ## Related resources
 

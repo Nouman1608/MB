@@ -19,7 +19,8 @@ featured: false
 ---
 
 Reactivity 3 is the largest single component in the whole DP Chemistry syllabus -- 24 hours at SL,
-45 hours at HL -- though not by a wide margin over the next largest, as set out in the
+45 hours at HL -- narrowly ahead of the next largest at SL (Reactivity 2, 21 hours) but well ahead at HL
+(Structure 3 and Reactivity 2, 31 hours each), as set out in the
 [full syllabus guide](/resources/ib-dp-chemistry-syllabus-guide/). These notes work through its four
 sub-topics with the cross-references to Structure 1 and Structure 2 that questions on this component
 routinely expect, alongside the [subject overview](/resources/ib-dp-chemistry-subject-guide/) and

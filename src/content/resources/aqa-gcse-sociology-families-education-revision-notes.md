@@ -36,8 +36,8 @@ Nuclear, extended, reconstituted (step), lone-parent, same-sex, and **beanpole**
 | Perspective | View |
 |---|---|
 | **Functionalism** (Murdock, Parsons) | The family performs essential functions — sexual, reproductive, economic, educational; primary socialisation and stabilisation of adult personalities |
-| **Marxism** | Reproduces class inequality; inheritance of private property; a unit of consumption |
-| **Feminism** | Reproduces patriarchy; the **dual burden** and **triple shift** fall on women |
+| **Marxism** | Reproduces class inequality; inheritance of private property; a unit of consumption. **Zaretsky**: the "private" family is an illusion of separation from the economy; it cushions but props up capitalism through domestic labour and consumption |
+| **Feminism** | Reproduces patriarchy; the **dual burden** and **triple shift** fall on women. **Delphy and Leonard**: the family is an economic system in which men, not capitalists as such, exploit women's work |
 | **New Right** | The nuclear family is the ideal; lone parenthood is blamed for social problems |
 | **Postmodernism** | Family structure is a matter of individual choice; diversity is the norm |
 

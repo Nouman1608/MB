@@ -94,7 +94,7 @@ T = (0.25 × 31.25) − (0.25 × 9.81) [1] = 7.8125 − 2.4525 = 5.36 ≈ **5.4 
 
 **(c)** At the bottom, tension acts towards the centre and weight away:
 T = mv²/r + mg [1] = 7.8125 + 2.4525 = 10.265 ≈ **10 N** [1] (2 s.f.).
-*Note the tensions differ by 2mg = 4.9 N.*
+*Note the tensions differ by 2mg = 4.9 N, because the speed is the same at the top and the bottom here. If the stone were moving freely with energy conserved, it would be faster at the bottom and the difference would be 6mg.*
 
 **(d)** At minimum speed T = 0, so **weight alone provides the centripetal force** [1]:
 mg = mv²/r, so v = √(gr) [1] = √(9.81 × 0.80) = 2.801 ≈ **2.8 m s⁻¹** [1].

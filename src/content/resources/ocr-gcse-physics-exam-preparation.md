@@ -74,8 +74,10 @@ with it.
 ## Topic P9 practical skills matter on every paper
 
 Topic P9 is assessed directly on Paper 1/3 and is assumed knowledge on Paper 2/4, and Section B of both
-papers at both tiers includes practical question styles. **Exam-preparation priority**: for each required
-practical, know what was measured and with what instrument, the main source of uncertainty, and one
+papers at both tiers includes practical question styles. **Exam-preparation priority**: OCR sets no list of
+"required practicals" (centres run at least eight practical activities covering the apparatus and
+techniques of the Practical Activity Groups, PAGs), so for each practical activity you have carried out or
+met in the specification, know what was measured and with what instrument, the main source of uncertainty, and one
 improvement that targets it. Physics practical questions frequently ask about the precision of an
 instrument or about repeat readings, so knowing the apparatus specifically matters.
 
@@ -113,7 +115,7 @@ mistake into a visible algebraic one.
 
 - **Before the exams**: practise equation rearrangement as a standalone skill; practise SI conversions
   in writing; practise gradients and areas from graphs; keep Topics P1-P4 revised through to the second
-  paper; know instrument, uncertainty and a targeted improvement for each required practical; settle
+  paper; know instrument, uncertainty and a targeted improvement for each practical activity; settle
   the tier decision on timed full papers.
 - **During either paper**: pace so the extended-response questions later in the paper have time.
 - **In every calculation**: write the equation, convert units in writing, rearrange with symbols,

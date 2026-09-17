@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-5-thermodynamics-radiation-oscillations-and-cosmology"
     subtopic: "oscillations-edexcel"
-description: "Condensed recall notes on simple harmonic motion, energy in SHM, damping and resonance for Edexcel International A Level Physics WPH15."
+description: "Condensed recall notes on simple harmonic motion, energy in SHM, damping and resonance for Edexcel International A Level Physics YPH11 (Unit 5, WPH15)."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
 featured: false

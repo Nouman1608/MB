@@ -24,11 +24,11 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Energy stores
 
-Kinetic · gravitational potential · elastic potential · chemical · thermal (internal) · nuclear · electrostatic
+Kinetic · gravitational potential · chemical · elastic (strain) · nuclear · electrostatic · internal (thermal)
 
-Energy is **transferred** between stores — mechanically, electrically, by heating, or by radiation. It is never "used up" or "created".
+Energy is **transferred** between stores — by forces (mechanical work), by electrical currents (electrical work), by heating, and by electromagnetic, sound and other waves. It is never "used up" or "created".
 
-A falling ball transfers energy from its gravitational potential store to its kinetic store, and eventually, on landing, to internal/thermal and sound stores; a battery-powered motor transfers energy from a chemical store to a kinetic store via electrical work. The principle of conservation of energy underlies every such transfer: the total amount of energy stays constant throughout, however many stores it passes through.
+A falling ball transfers energy from its gravitational potential store to its kinetic store, and eventually, on landing, to the internal (thermal) store of the ball and the ground, with some energy transferred by sound waves (a transfer, not a store) to the internal store of the surroundings; a battery-powered motor transfers energy from a chemical store to a kinetic store via electrical work. The principle of conservation of energy underlies every such transfer: the total amount of energy stays constant throughout, however many stores it passes through.
 
 ## Where this fits in 5054
 

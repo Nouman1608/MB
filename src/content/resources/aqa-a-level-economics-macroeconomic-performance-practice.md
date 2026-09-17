@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-and-international-economy-aqa-alevel-economics"
     subtopic: "the-measurement-of-macroeconomic-performance-aqa-alevel-economics"
-description: "Original exam-style practice questions with full worked answers on government macroeconomic policy objectives, macroeconomic indicators, index numbers and the uses of national income data for AQA AS and A-Level Economics (7135/7136), 3.2.1."
+description: "Original exam-style practice questions with full worked answers on government macroeconomic policy objectives, macroeconomic indicators, index numbers and the uses of national income data for AQA A-Level Economics (7136), 3.2.1. AS Economics (7135) has 3.2.1.1-3.2.1.3; questions 10 and 11 (uses of national income data, 3.2.1.4) are A-level only."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-04
 featured: false
@@ -55,9 +55,9 @@ Related: [The Measurement of Macroeconomic Performance study guide](/resources/a
 
 **9.** Evaluate the extent to which a government can pursue all four main macroeconomic policy objectives simultaneously. **[9]**
 
-**10.** State two limitations of using national income data (such as real GDP per capita) as a measure of living standards. **[2]**
+**10.** *(A-level only, 3.2.1.4)* State two limitations of using national income data (such as real GDP per capita) as a measure of living standards. **[2]**
 
-**11.** Explain why economists use purchasing power parity (PPP) exchange rates, rather than market exchange rates, when comparing living standards between countries. **[3]**
+**11.** *(A-level only, 3.2.1.4)* Explain why economists use purchasing power parity (PPP) exchange rates, rather than market exchange rates, when comparing living standards between countries. **[3]**
 
 ---
 

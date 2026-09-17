@@ -96,8 +96,8 @@ Related: [Measurements and Their Errors revision notes](/resources/oxfordaqa-a-l
 
 **10. 4.9** [1] — a calculated result cannot be more precise than the **least precise measurement** used to obtain it, so it should be quoted to **2 significant figures** [1].
 
-**11. (a)** Volume = (2.00)³ = **8.00 cm³** [1]. Percentage uncertainty in side = (0.02 ÷ 2.00) × 100 = 1% [1]; volume involves the side **cubed**, so percentage uncertainty in volume = 3 × 1% = **3%** [1].
-**(b)** Density = mass ÷ volume = 43.0 ÷ 8.00 = **5.375 g/cm³** [1]. Percentage uncertainty in mass = (0.5 ÷ 43.0) × 100 = 1.16% [1]; percentage uncertainty in density = 3% + 1.16% = **4.16%** [1], giving an absolute uncertainty of 5.375 × 0.0416 = 0.22 g/cm³, so the final answer is **5.4 ± 0.2 g/cm³** (2 significant figures, matching the least precise input) [1].
+**11. (a)** Volume = (2.00)³ = **8.00 cm³** [1]. Percentage uncertainty in side = (0.02 ÷ 2.00) × 100 = 1%; volume involves the side **cubed**, so percentage uncertainty in volume = 3 × 1% = **3%** [1].
+**(b)** Density = mass ÷ volume = 43.0 ÷ 8.00 = **5.375 g/cm³** [1]. Percentage uncertainty in mass = (0.5 ÷ 43.0) × 100 = 1.16%, so percentage uncertainty in density = 3% + 1.16% = 4.16%, giving an absolute uncertainty of 5.375 × 0.0416 = **0.22 g/cm³** [1]. Final answer **5.4 ± 0.2 g/cm³** [1]: the uncertainty, quoted to 1 significant figure as ±0.2, affects the first decimal place, so the density is rounded to that place (2 significant figures). Both inputs have 3 significant figures; it is the size of the uncertainty, not the least precise input, that limits the answer here.
 
 ---
 

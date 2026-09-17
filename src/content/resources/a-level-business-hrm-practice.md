@@ -31,7 +31,7 @@ and [revision notes](/resources/a-level-business-hrm-revision-notes/)
 
 ## Section A
 
-**1.** State two stages of the recruitment and selection process. **[2]**
+**1.** Identify two stages of the recruitment and selection process. **[2]**
 
 **2.** Explain the difference between financial and non-financial methods of motivation, giving one example of
 each. **[2]**
@@ -43,15 +43,15 @@ each. **[2]**
 **4.** A growing technology business needs to fill a new, highly specialist software engineering role
 quickly.
 
-**(a)** State one advantage and one disadvantage of recruiting internally for this role. **[2]**
-**(b)** State one advantage and one disadvantage of recruiting externally for this role. **[2]**
-**(c)** Recommend, with justification, which recruitment method the business should use. **[4]**
+**(a)** Identify one advantage and one disadvantage of recruiting internally for this role. **[2]**
+**(b)** Identify one advantage and one disadvantage of recruiting externally for this role. **[2]**
+**(c)** Advise the business which recruitment method it should use, justifying your answer. **[4]**
 
 **5.** A business employs a highly skilled team of design professionals who value autonomy in their
 work.
 
-**(a)** Suggest one non-financial motivator that might be effective for this team, and explain why. **[3]**
-**(b)** Suggest which management style is likely to suit this team, and justify your answer. **[3]**
+**(a)** Identify one non-financial motivator that might be effective for this team, and explain why. **[3]**
+**(b)** Identify the management style most likely to suit this team, and justify your answer. **[3]**
 
 **6.** A manufacturing business facing a sudden safety crisis needs its management team to make and
 implement decisions immediately.

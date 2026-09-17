@@ -569,7 +569,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'A relevant, engaging specification with culturally relevant, contemporary topics – designed for international students to develop their critical thinking skills and prepare them for university study.',
     officialUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-sociology/',
     verifiedOn: '2026-08-18',
-    notes: 'AS units cover families and socialisation/social control alongside research methods; A2 adds people and development, people and the environment, and people and technologies. This is a newly launched specification: first teaching September 2026, first AS exams May/June 2027, first A-level exams May/June 2028.',
+    notes: 'AS units cover families and socialisation/social control alongside research methods; A2 adds people and development, people and the environment, and people and technology (Units 3-5, per the specification PDF Version 1.0). This is a newly launched specification: first teaching September 2026, first AS exams May/June 2027, first A-level exams May/June 2028.',
   },
   {
     boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'world-history',
@@ -579,7 +579,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'A truly international specification, which engages students with modern international relations, relevant and contemporary themes and perspectives, and long-term global historical developments.',
     officialUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-history/',
     verifiedOn: '2026-08-18',
-    notes: 'Paper 1 offers a choice of International Relations depth studies and origins/development studies; Paper 2 offers a choice of a societal depth study and a thematic study in either technology or medicine, with some sections using pre-released sources. OxfordAQA publishes this qualification as International GCSE History; Marlbridge groups it under World History alongside the equivalent offering from other boards. A newly launched specification: first teaching 2026, first examined May/June 2028. OxfordAQA does not offer History at AS or A-level.',
+    notes: 'Paper 1 offers a choice of International Relations depth studies and origins/development studies; Paper 2 offers a choice of a study of societies in change and a thematic study in either technology or medicine. Paper 1 Section A is assessed on sources, including a pre-released booklet of three sources (specification Version 1.1). OxfordAQA publishes this qualification as International GCSE History; Marlbridge groups it under World History alongside the equivalent offering from other boards. A newly launched specification: first teaching 2026, first examined May/June 2028. OxfordAQA does not offer History at AS or A-level.',
   },
   {
     boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'islamiyat',
@@ -867,8 +867,8 @@ export const SYLLABUSES: readonly Syllabus[] = [
     boardSummary:
       'Cambridge International AS & A Level Economics allows students to experience the diverse and dynamic world within which economics exists, developing an understanding of both micro- and macroeconomic theory and how it can be applied.',
     officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-economics-9708/',
-    verifiedOn: '2026-08-19',
-    notes: 'Syllabus for exams in 2026, 2027 and 2028 (Version 1, published September 2023). AS Level covers topics 1-6 (basic economic ideas and resource allocation, the price system and the microeconomy, government microeconomic intervention, the macroeconomy, government macroeconomic intervention, international economic issues); A Level adds topics 7-9 building further micro- and macroeconomic depth.',
+    verifiedOn: '2026-09-17',
+    notes: 'Syllabus for exams in 2026, 2027 and 2028 (Version 2, published December 2025). AS Level covers topics 1-6 (basic economic ideas and resource allocation, the price system and the microeconomy, government microeconomic intervention, the macroeconomy, government macroeconomic intervention, international economic issues); A Level adds topics 7-11, taking the price system and the microeconomy, government microeconomic intervention, the macroeconomy, government macroeconomic intervention and international economic issues to A Level depth.',
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'economics',
@@ -1141,7 +1141,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'Cambridge O Level Sociology develops learners’ understanding of human societies, and helps them recognise the influence of social structures and social change on individuals and groups.',
     officialUrl: 'https://www.cambridgeinternational.org/Images/662478-2025-2027-syllabus.pdf',
     verifiedOn: '2026-08-19',
-    notes: "Version 3, for exams in 2025, 2026 and 2027. Mirrors Cambridge IGCSE Sociology (0495) in paper structure: Paper 1 'Research Methods, Identity and Inequality' (compulsory, all 3 topics taught, 2 of 3 questions answered) and Paper 2 'Family, Education and Crime' (candidates answer on 2 of the 3 topics). Independently confirmed against 2251's own specification PDF, not assumed from 0495.",
+    notes: "Version 3, for exams in 2025, 2026 and 2027. Mirrors Cambridge IGCSE Sociology (0495) in paper structure: Paper 1 'Research Methods, Identity and Inequality' (compulsory, all 3 topics taught, 2 of 3 questions answered) and Paper 2 'Family, Education and Crime' (candidates answer on 2 of the 3 topics). Independently confirmed against 2251's own syllabus PDF, not assumed from 0495.",
   },
   {
     boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'psychology',
@@ -1191,7 +1191,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'Cambridge O Level Geography enables learners to appreciate the relevance of geography to their own lives and to think about the wider world, developing a range of skills relevant to geographical study.',
     officialUrl: 'https://www.cambridgeinternational.org/Images/697292-2026-syllabus.pdf',
     verifiedOn: '2026-08-19',
-    notes: 'Version 3, for exams in 2026 (November series). Independently confirmed against 2217’s own specification PDF: identical three-theme structure to Cambridge IGCSE Geography (0460) — Population and settlement, The natural environment, Economic development — with the same 19 named sub-topics.',
+    notes: 'Version 3, for exams in 2026 (November series). Independently confirmed against 2217’s own syllabus PDF: identical three-theme structure to Cambridge IGCSE Geography (0460) — Population and settlement, The natural environment, Economic development — with the same 19 named sub-topics.',
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'geography',
@@ -1231,7 +1231,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'Cambridge O Level History looks at some of the major international issues of the nineteenth and twentieth centuries, as well as covering the history of particular regions in more depth.',
     officialUrl: 'https://www.cambridgeinternational.org/Images/649640-2024-2026-syllabus.pdf',
     verifiedOn: '2026-08-19',
-    notes: 'Independently confirmed against 2147’s own specification PDF: identical Core content options (A: nineteenth-century nation states; B: twentieth-century international relations) and identical five named Depth studies (A-E) to Cambridge IGCSE History (0470). Assessed via Paper 1 (Structured Questions, drawing on Core content and one Depth study) and Paper 2 (Document Questions, based on one Depth study) — no coursework or Paper 4 alternative at this level.',
+    notes: 'Independently confirmed against 2147’s own syllabus PDF: identical Core content options (A: nineteenth-century nation states; B: twentieth-century international relations) and identical five named Depth studies (A-E) to Cambridge IGCSE History (0470). Assessed via Paper 1 (Structured Questions, drawing on Core content and one Depth study) and Paper 2 (Document Questions, based on one Depth study) — no coursework or Paper 4 alternative at this level.',
   },
   {
     boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'world-history',
@@ -1299,10 +1299,10 @@ export const SYLLABUSES: readonly Syllabus[] = [
     officialTitle: 'Cambridge O Level Urdu — First Language (3247) / Second Language (3248)',
     code: '3247 / 3248',
     boardSummary:
-      'Cambridge O Level Urdu is offered as two distinct specifications: First Language Urdu for candidates whose mother tongue is Urdu, and Second Language Urdu for candidates learning Urdu as an additional language.',
+      'Cambridge O Level Urdu is offered as two distinct syllabuses: First Language Urdu for candidates whose mother tongue is Urdu, and Second Language Urdu for candidates learning Urdu as an additional language.',
     officialUrl: 'https://www.cambridgeinternational.org/Images/721463-2027-syllabus.pdf',
     verifiedOn: '2026-08-25',
-    notes: 'First Language Urdu (3247): Paper 1 Reading and Writing (50%) and Paper 2 Texts — Unseen Passage, Poetry and Prose with prescribed set texts (50%). Second Language Urdu (3248, source: cambridgeinternational.org/Images/721465-2027-2029-syllabus.pdf, Version 1, for exams in 2027, 2028 and 2029): Paper 1 Reading and Writing (50%) and Paper 2 Grammar, Writing and Translation (50%). Candidates take one specification or the other, not both, in the same series. The 2024-2026 3248 syllabus (634455) is still examined in November 2026, its final series; the 2027-2029 syllabus keeps the identical two-paper split and states there are no significant changes which affect teaching. This combined record\'s officialUrl links the 3247 document; resources declaring syllabusCodes ["3248"] specifically resolve instead to the dedicated 3248 record below (D-133).',
+    notes: 'First Language Urdu (3247): Paper 1 Reading and Writing (50%) and Paper 2 Texts — Unseen Passage, Poetry and Prose with prescribed set texts (50%). Second Language Urdu (3248, source: cambridgeinternational.org/Images/721465-2027-2029-syllabus.pdf, Version 1, for exams in 2027, 2028 and 2029): Paper 1 Reading and Writing (50%) and Paper 2 Grammar, Writing and Translation (50%). Candidates take one syllabus or the other, not both, in the same series. The 2024-2026 3248 syllabus (634455) is still examined in November 2026, its final series; the 2027-2029 syllabus keeps the identical two-paper split and states there are no significant changes which affect teaching. This combined record\'s officialUrl links the 3247 document; resources declaring syllabusCodes ["3248"] specifically resolve instead to the dedicated 3248 record below (D-133).',
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'urdu-language',

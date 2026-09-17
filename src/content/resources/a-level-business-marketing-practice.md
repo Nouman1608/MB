@@ -35,7 +35,7 @@ Related: [Marketing study guide](/resources/a-level-business-marketing/) and
 
 **2.** Identify the three named methods of market segmentation. **[3]**
 
-**3.** State one advantage and one disadvantage of primary research compared with secondary
+**3.** Identify one advantage and one disadvantage of primary research compared with secondary
 research. **[2]**
 
 ## Section B
@@ -43,7 +43,7 @@ research. **[2]**
 **4.** A long-established car manufacturer is planning to launch a genuinely new type of vehicle with
 no direct competitors yet on the market.
 
-**(a)** Recommend a pricing method for the launch, and justify your recommendation. **[4]**
+**(a)** Advise the manufacturer which pricing method to use for the launch, justifying your advice. **[4]**
 **(b)** Explain how the Boston Matrix might help the manufacturer decide how to allocate marketing
 resources across its wider vehicle range once the new model has been launched. **[4]**
 
@@ -52,13 +52,13 @@ new product before investing in it.
 
 **(a)** Identify a primary research method the business could use, and justify your choice. **[3]**
 **(b)** Explain why sampling, rather than surveying the entire local population, might be necessary,
-and state one limitation of sampling. **[3]**
+and identify one limitation of sampling. **[3]**
 
 **6.** A company selling a well-established, mass-market snack food is considering demographic
 segmentation of its customer base.
 
 **(a)** Explain what is meant by demographic segmentation, with an example relevant to this product. **[3]**
-**(b)** Suggest one advantage this approach offers over treating the whole market as a single, mass
+**(b)** Explain one advantage this approach offers over treating the whole market as a single, mass
 market. **[2]**
 
 **7.** A business selling a niche, specialist product decides to target only serious enthusiasts of

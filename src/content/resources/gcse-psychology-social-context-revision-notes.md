@@ -28,10 +28,10 @@ spot this pattern and comparison questions become far easier.
 
 | Topic | Core content |
 |---|---|
-| 2.1 Social influence | Conformity (Asch), obedience (Milgram), bystander behaviour (Piliavin), crowd behaviour |
-| 2.2 Language, thought, communication | Piaget vs Sapir-Whorf, human/animal communication, non-verbal behaviour |
-| 2.3 Brain and neuropsychology | Nervous system, neurons, brain structure, scanning techniques |
-| 2.4 Psychological problems | Depression and addiction: biological vs psychological explanations and treatments |
+| 3.2.1 Social influence | Conformity (Asch), obedience (Milgram), bystander behaviour (Piliavin), crowd behaviour |
+| 3.2.2 Language, thought, communication | Piaget vs Sapir-Whorf, human/animal communication, non-verbal behaviour |
+| 3.2.3 Brain and neuropsychology | Nervous system, neurons, brain structure, scanning techniques |
+| 3.2.4 Psychological problems | Depression and addiction: biological vs psychological explanations and treatments |
 
 ## Piaget vs Sapir-Whorf — opposite claims
 

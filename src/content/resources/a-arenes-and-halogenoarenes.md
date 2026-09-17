@@ -170,10 +170,10 @@ benzene → chlorobenzene, or methylbenzene → a mixture of
 2,4- as expected).
 
 **Halogenoarenes are far less reactive than halogenoalkanes** towards
-nucleophilic substitution — chlorobenzene does not undergo the SN1/SN2
-hydrolysis that chloroethane readily does with, for example, aqueous
-silver nitrate. Two reinforcing reasons, both traceable to the ring's
-delocalised system:
+nucleophilic substitution — heated under reflux with NaOH(aq), chloroethane
+is hydrolysed to ethanol (slowly, since C–Cl is stronger than C–Br or
+C–I), whereas chlorobenzene does not react at all.
+Two reinforcing reasons, both traceable to the ring's delocalised system:
 
 - **The C–Cl bond in chlorobenzene is shorter and stronger** than in
   chloroethane, because one of chlorine's lone pairs partially delocalises
@@ -187,7 +187,7 @@ delocalised system:
 
 Both effects point the same way, which is why the reactivity gap between
 the two is so large — halogenoarenes are essentially inert to the
-conditions that hydrolyse halogenoalkanes readily.
+conditions that hydrolyse halogenoalkanes.
 
 ## Common mistakes
 

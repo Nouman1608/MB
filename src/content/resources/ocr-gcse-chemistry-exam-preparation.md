@@ -51,8 +51,10 @@ chemical misunderstanding, which makes them among the most recoverable marks on 
 
 Practical skills are examined on both papers at both tiers. In chemistry that means the specific
 techniques -- filtration, crystallisation, chromatography, titration, gas collection -- and the
-reasoning around them. **Exam-preparation priority**: for each required practical, know the apparatus,
-the measurement taken, the main source of error, and one targeted improvement.
+reasoning around them. **Exam-preparation priority**: OCR sets no list of "required practicals" (centres
+run at least eight practical activities covering the apparatus and techniques of the Practical Activity
+Groups, PAGs), so for each practical activity you have carried out or met in the specification, know the
+apparatus, the measurement taken, the main source of error, and one targeted improvement.
 
 ## The tier decision should be made on timed evidence
 
@@ -95,7 +97,7 @@ that protects everything after it.
 
 - **Before the exams**: drill equation writing and balancing to automaticity; keep topics 1-3 revised
   through to the second paper; practise the narrow set of chemistry calculations to speed; know
-  apparatus, measurement, main error and one improvement for each required practical; settle the tier
+  apparatus, measurement, main error and one improvement for each practical activity; settle the tier
   decision on timed full papers.
 - **During either paper**: pace so the extended-response questions later in the paper are not rushed.
 - **In every calculation**: write formulae correctly first, show the relationship before substituting,

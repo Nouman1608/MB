@@ -55,18 +55,19 @@ and using pV = nRT, where n is the number of moles; recalling and using
 pV = NkT, where N is the number of particles and k is the Boltzmann
 constant, and relating k to the molar gas constant by k = R/Nₐ.
 
-**15.3 Kinetic theory of gases** — understanding the basic assumptions of the
-kinetic theory of gases; understanding that pressure is caused by collisions
-between particles and the walls of a container; deriving, following the
-prescribed route of considering the change in momentum of particles
-colliding with a container wall, and using the kinetic theory equation
-pV = (1/3)Nm⟨c²⟩; understanding that the root-mean-square speed cᵣₘₛ is
-used, rather than the mean speed, because velocity is a vector and the
-particles' directions are random, so the mean *velocity* is zero — speeds
-are squared before averaging so that they do not cancel; comparing the
-kinetic theory model with the equation of state for an ideal gas to deduce
-that the average translational kinetic energy of a molecule is proportional
-to the thermodynamic temperature.
+**15.3 Kinetic theory of gases** — stating the basic assumptions of the
+kinetic theory of gases; explaining how molecular movement causes the
+pressure exerted by a gas, and deriving and using pV = (1/3)Nm⟨c²⟩, where
+⟨c²⟩ is the mean-square speed (a simple model considering one-dimensional
+collisions and then extending to three dimensions using
+(1/3)⟨c²⟩ = ⟨cₓ²⟩ is sufficient); understanding that the root-mean-square
+speed cᵣₘₛ is given by √⟨c²⟩; and comparing pV = (1/3)Nm⟨c²⟩ with
+pV = NkT to deduce that the average translational kinetic energy of a
+molecule is (3/2)kT, and recalling and using this expression. (Why a mean
+square is used: the particles move randomly, so their velocity components
+average to zero — positive and negative values would cancel — whereas the
+squares of the velocity components are all positive and have a non-zero
+mean.)
 
 ## The mole and the Avogadro constant
 

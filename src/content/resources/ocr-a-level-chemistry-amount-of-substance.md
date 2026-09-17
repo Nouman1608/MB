@@ -61,8 +61,8 @@ substance — the **Avogadro constant**, Nₐ = 6.02 × 10²³ per mole.
 numerically equal to its relative formula mass.
 - **Molar gas volume** (units dm³ mol⁻¹) is the volume occupied by one mole
 of any gas at a given temperature and pressure; at room temperature and
-pressure this is taken as 24 dm³ mol⁻¹ (the exact value is given on OCR's
-data sheet in the exam).
+pressure (RTP) OCR's Data Sheet, provided in the exam, gives it as
+24.0 dm³ mol⁻¹.
 
 OCR accepts both the classical (carbon-12-based) and the revised
 (Avogadro-constant-based) definitions of the mole — this distinction reflects

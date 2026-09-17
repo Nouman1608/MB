@@ -102,7 +102,7 @@ relate to a Resource Booklet describing a real-life business.
 - Naming a market structure from a textbook definition instead of explaining where the business sits on the competitive spectrum.
 - Confusing a shift in the supply curve with a movement along it.
 - Equating firm size with market dominance.
-- Treating globalisation, or EU membership, as purely positive or purely negative rather than evaluating both sides for a specific business.
+- Treating globalisation, or the UK not being part of the EU, the Eurozone and the Single European Market, as purely positive or purely negative rather than evaluating both sides for a specific business.
 - Discussing ethical and legal factors as if they were the same thing.
 
 ## Approaching external influences questions

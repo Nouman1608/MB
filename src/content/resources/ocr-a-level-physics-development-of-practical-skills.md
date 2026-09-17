@@ -38,9 +38,17 @@ are and how they connect to the physics content covered in Modules
 **OCR A-LEVEL PHYSICS A (H556) — MODULE 1 DEVELOPMENT OF PRACTICAL
 SKILLS IN PHYSICS**
 
-- 1.1 Practical skills assessed in a written examination — planning,
-implementing and analysing practical work as tested through written
-exam questions
+- 1.1 Practical skills assessed in a written examination, in four
+parts: 1.1.1 Planning (experimental design, identifying the variables
+to be controlled, and evaluating whether a method is appropriate);
+1.1.2 Implementing (using apparatus and techniques correctly,
+appropriate units, and presenting observations and data); 1.1.3
+Analysis (processing and interpreting results, mathematical skills,
+significant figures, and plotting graphs and measuring gradients and
+intercepts); and 1.1.4 Evaluation (evaluating results and drawing
+conclusions, identifying anomalies, limitations of procedures,
+precision, accuracy and uncertainties, and suggesting improvements to
+procedures and apparatus)
 - 1.2 Practical skills assessed in the Practical Endorsement — the
 separately-reported, teacher-assessed competencies confirming a
 student can work safely and competently in a practical context

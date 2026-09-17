@@ -27,7 +27,8 @@ the site.
 
 Paper 2 is worth 60% of the qualification against Paper 1's 40%, and covers three separate
 components -- a modern prose/drama essay, a comparative poetry-anthology question, and an
-unseen-poetry comparison -- against Paper 1's two. **Exam-preparation priority**: allocate revision
+unseen-poetry section of two questions (one on a single unseen poem, then one comparing that poem
+with a second unseen poem) -- against Paper 1's two. **Exam-preparation priority**: allocate revision
 time roughly in proportion to marks and component count, not evenly split between the two papers,
 since an even split under-prepares Paper 2's larger and more varied demand.
 
@@ -84,8 +85,9 @@ allow only about 1.4 minutes per mark -- noticeably tighter -- and Paper 2's thr
 timing has to be actively managed within the paper, not just across it. **Exam-preparation priority**:
 practise a fixed time budget for each of Paper 2's three components in advance -- for example,
 roughly 45 minutes for the modern text essay, 45 minutes for the poetry-anthology comparison, and 45
-minutes for the unseen-poetry comparison -- so that a strong start on the first component does not
-leave the unseen-poetry comparison rushed at the end, where marks are just as available.
+minutes for the two unseen-poetry questions, divided between them in proportion to the marks printed
+on the paper -- so that a strong start on the first component does not leave the unseen poetry
+rushed at the end, where marks are just as available.
 
 ## Before/during exam checklist
 

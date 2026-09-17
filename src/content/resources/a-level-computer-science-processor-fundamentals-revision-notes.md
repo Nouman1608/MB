@@ -33,8 +33,10 @@ summary:
 | MAR | Address currently being accessed |
 | MDR | Data/instruction transferred |
 | CIR | Instruction being decoded |
-| ACC | Result of ALU operations |
-| Address/data bus | Carries the address/data between components |
+| ACC | Result of ALU operations (the one general-purpose register assumed in 9618 questions) |
+| IX (index register) | Value added to an operand's address in indexed addressing, e.g. to step through an array |
+| Status register | Flag bits set by the result of an operation (such as carry, negative, overflow, zero), which conditional instructions can test |
+| Address/data/control bus | Address bus carries addresses from the MAR to memory; data bus carries data and instructions; control bus carries control signals such as memory read/write and clock signals |
 
 **Practise the fetch-execute cycle as a diagram from memory** —
 completing a partially given cycle is a common exam format.
@@ -49,9 +51,11 @@ about what instructions do.
 
 | Addressing mode | Meaning |
 |---|---|
-| Immediate | Instruction contains the value itself |
-| Direct | Instruction contains the address of the value |
-| Indirect / Indexed | (further variations — fix the immediate/direct distinction first) |
+| Immediate | Operand is the value itself (e.g. `LDM #n`) |
+| Direct | Operand is the address of the value (e.g. `LDD <address>`) |
+| Indirect | Operand is an address that holds the address of the value (e.g. `LDI <address>`) |
+| Indexed | Address used is the operand plus the contents of the index register (e.g. `LDX <address>`) |
+| Relative | Operand is an offset: the address used is worked out relative to a base address, usually that of the current instruction |
 
 **Exam questions often test near-identical instructions differing
 only in addressing mode** — fix the immediate-vs-direct distinction

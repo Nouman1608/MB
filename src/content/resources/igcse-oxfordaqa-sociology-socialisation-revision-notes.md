@@ -102,9 +102,10 @@ actual content are crossed with each other in the published
 specification, so revise this topic by part number and content, not by
 title. These notes deliberately do not cover the sociological
 imagination or concepts of culture (3.2.2.1), social control and its
-agencies (3.2.2.3), or crime and deviance (3.2.2.4) — revise those as
-separate blocks so this section's socialisation-specific content stays
-sharp rather than blurring into the adjacent sub-topics.
+agencies (3.2.2.3), or crime and deviance (3.2.2.4). No Marlbridge 9292
+resource covers those parts yet, so revise them as separate blocks from
+the specification's content list and your textbook; all three are
+examined on Paper 2.
 
 ## Exam traps
 

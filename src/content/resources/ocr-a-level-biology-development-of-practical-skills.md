@@ -46,11 +46,13 @@ whether a method is appropriate), implementing (using practical
 apparatus and techniques correctly, using appropriate units, presenting
 data appropriately), analysis (processing, analysing and
 interpreting qualitative and quantitative results, using appropriate
-mathematical skills, and plotting and interpreting graphs), and
-evaluation (evaluating results and drawing conclusions, identifying
-anomalies, the limitations of experimental procedures, and the
-precision and accuracy of measurements including margins of error,
-percentage errors and uncertainties in apparatus)
+mathematical skills, using significant figures appropriately, and
+plotting and interpreting graphs), and evaluation (evaluating results
+and drawing conclusions, identifying anomalies, the limitations of
+experimental procedures, the precision and accuracy of measurements
+including margins of error, percentage errors and uncertainties in
+apparatus, and refining experimental design by suggesting improvements
+to the procedures and apparatus)
 - 1.2 Practical skills assessed in the Practical Endorsement — the
 separately-reported, teacher-assessed competencies confirming a
 student can work safely and competently in a practical context

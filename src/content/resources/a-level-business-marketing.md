@@ -89,8 +89,8 @@ where the others sit.
 
 **Price** covers the objectives and usefulness of a named set of
 pricing methods: competitive, penetration, skimming, price
-discrimination, dynamic, cost-based and psychological pricing. Exam
-questions frequently ask you to recommend and justify a specific
+discrimination, dynamic, cost-based and psychological pricing. A
+question may ask you to advise on and justify a specific
 method for a given scenario, so know not just what each method means
 but the market conditions that make it the sensible choice.
 
@@ -123,8 +123,8 @@ most named methods, build yourself a reference table of the seven
 pricing methods and the market condition each suits best (for example,
 penetration pricing for a new entrant trying to build market share
 quickly; price skimming for a genuinely novel product with few early
-competitors), since "recommend and justify" questions are the most
-common format on this content. The Boston Matrix and product life
+competitors), since advising on and justifying a method for a given
+scenario is the skill this content tests. The Boston Matrix and product life
 cycle are frequently tested together -- practise using one to explain
 decisions made about the other, since a product entering the "decline"
 stage of its life cycle is the same signal a Boston Matrix might

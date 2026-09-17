@@ -27,9 +27,9 @@ Condensed for the final weeks. For the full explanation, use the
 choice. Exercises 1-3: questions and answers in **Urdu**. Exercise 4: question in **English**, answer
 in **Urdu**.
 
-## Which spec is this?
+## Which syllabus is this?
 
-Cambridge runs **two** separate O Level Urdu specs: **3247 First Language** (Paper 2 = Texts) and
+Cambridge offers **two** separate O Level Urdu syllabuses: **3247 First Language** (Paper 2 = Texts) and
 **3248 Second Language** (Paper 2 = Grammar, Writing and Translation, this resource). Confirm which
 one your school has entered you for before using this guide — 3247 candidates need the Texts guide
 instead.

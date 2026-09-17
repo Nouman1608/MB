@@ -52,11 +52,15 @@ have exactly the same shape in this respect, so the pacing practice transfers be
 
 ## The historical investigation rewards handling evidence, not narrating the topic
 
-Paper 2's investigation component is about working with historical material -- what it shows, how far
-it can be trusted, what it does and does not establish. **Exam-preparation priority**: practise
-evaluating sources you have not seen before, and specifically practise saying what a source is good
-evidence *for* given who produced it, rather than dismissing it as biased. Provenance is information,
-not a disqualification.
+Paper 2's investigation question tests the specification's source objective, "use a range of source
+material to comprehend, interpret and cross-refer sources" (AO3), and its interpretations objective,
+"analyse and evaluate historical interpretations" (AO4), alongside knowledge. In Pearson's sample paper
+that means describing two features, then judging **how far one source supports another** by
+cross-referring them, then judging **how far you agree with an interpretation** using the extract, the
+sources and your own knowledge. It does not ask how useful or reliable a source is from its provenance.
+**Exam-preparation priority**: practise, on sources you have not seen before, pairing specific points
+of agreement and of difference between two sources and reaching a judgement on the extent of support;
+and practise testing an interpretation against the sources and your own contextual knowledge.
 
 ## Change questions need causes ranked, not listed
 
@@ -99,11 +103,11 @@ the same, and answers that only evidence change have addressed half of it.
 
 - **Before the exams**: write down the four options you are actually entered for and revise only
   those; keep depth-study notes detailed and chronological, and breadth-study notes as a timeline of
-  turning points; rehearse ranking causes for each breadth study; practise source evaluation on
-  unseen material.
+  turning points; rehearse ranking causes for each breadth study; practise cross-referring unseen
+  sources and testing interpretations against them.
 - **During either paper**: budget about 45 minutes per answer, including planning.
-- **On the investigation**: say what each source is good evidence for, given its provenance, rather
-  than dismissing it as biased.
+- **On the investigation**: compare the sources point by point for agreement and difference, judge
+  the extent of support, and test the interpretation against the sources and your own knowledge.
 - **On change questions**: evidence both change and continuity, then weigh them, then conclude.
 
 ## Self-test
@@ -111,15 +115,15 @@ the same, and answers that only evidence change have addressed half of it.
 1. How many options is a candidate examined on across the two papers, and from how many menus?
 2. How should depth-study notes differ from breadth-study notes?
 3. What half of a change question is most often missing from answers?
-4. Why is calling a source biased not, by itself, an evaluation?
+4. What does the investigation's source question ask you to do with two sources?
 
 **Answers:** 1. Four -- two depth studies, one historical investigation and one breadth study in
 change -- drawn from three separate lists of named options. 2. Depth notes should be dense and
 chronological, carrying names, dates and specific policies; breadth notes should be a long timeline
 with turning points marked and a one-line statement of what changed at each. 3. Continuity: specific
 evidence of what did *not* change over the period, which is half of what a change question asks. 4.
-Because provenance is information rather than a disqualification -- the mark comes from saying what
-the source is good evidence for, given who produced it and why.
+Cross-refer them: identify specific points where they agree and where they differ, and explain how far
+one supports the other. It is not a question about which source is more useful or reliable.
 
 *Written against the Pearson Edexcel International GCSE History 4HI1 specification (official
 specification PDF, Issue 5, February 2026, verified 2026-08-28). Option lists are as named in that

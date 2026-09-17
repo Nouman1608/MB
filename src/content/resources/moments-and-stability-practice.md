@@ -97,7 +97,7 @@ Method: **suspend the card freely from a point near its edge** and let it settle
 **(b)** k = F/x = 2.4 ÷ 0.040 = **60 N/m** [1] [1].
 **(c)** Up to the **limit of proportionality**, the load–extension graph is a **straight line through the origin**, since extension is directly proportional to load [1]. Beyond the limit of proportionality, the graph **curves away from the straight line** [1], showing that extension is no longer proportional to load [1].
 
-**10.** Stability depends on the **position of the centre of gravity relative to the base**, not on weight [1] [1]. Because crate A has a **lower centre of gravity**, it must be **tilted through a larger angle before the line of action of its weight moves outside its base** than crate B [1] [1]; crate A therefore returns to its original position over a wider range of tilt and is **more stable**, even though the two crates have equal weight and the same base area [1] [1].
+**10.** Stability depends on the **position of the centre of gravity relative to the base**, not on weight [1]. Because crate A has a **lower centre of gravity**, it must be **tilted through a larger angle before the line of action of its weight moves outside its base** than crate B [1] [1]. Until that happens, the weight produces a moment that returns the crate to its original position, so crate A recovers over a wider range of tilt and is **more stable** [1].
 
 ---
 

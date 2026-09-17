@@ -61,7 +61,7 @@ B) 16.0
 C) 4.00
 D) 0.400 **[1]**
 
-**6.** What is the molar volume of any ideal gas at RTP (room temperature and pressure, 298 K, 100 kPa)?
+**6.** What is the molar gas volume at RTP (room temperature and pressure), as given on the OCR Chemistry A Data Sheet?
 A) 22.4 dm³ mol⁻¹
 B) 24.0 dm³ mol⁻¹
 C) 24.0 cm³ mol⁻¹
@@ -167,7 +167,7 @@ D) 108% **[1]**
 
 **5. D)** Moles NaOH = 4.00 ÷ 40 = 0.100 mol; concentration = 0.100 ÷ (250 ÷ 1000) = 0.100 ÷ 0.250 = **0.400 mol dm⁻³** [1].
 
-**6. B)** At A Level, the molar volume of any ideal gas at RTP (298 K, 100 kPa) is taken as **24.0 dm³ mol⁻¹**; 22.4 dm³ mol⁻¹ is the value at STP (273 K, 100 kPa), a different reference condition [1].
+**6. B)** The Data Sheet gives the molar gas volume as **24.0 dm³ mol⁻¹** at room temperature and pressure, RTP [1]. 22.4 dm³ mol⁻¹ is the molar volume of an ideal gas at 273 K and 101.3 kPa (1 atm), a colder reference condition, so it is not the RTP value; C has the wrong unit, and D confuses molar volume with the Avogadro constant.
 
 **7. C)** Concentration = moles ÷ volume (in dm³) = 0.500 ÷ 2.00 = **0.250 mol dm⁻³** [1].
 

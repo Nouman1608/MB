@@ -107,7 +107,7 @@ end of the course.
 
 ## The experimental programme
 
-Fifty hours, shared by SL and HL, split into three separately-hours
+Fifty hours, shared by SL and HL, split into three separately timed
 components: practical work (30 hours), the group-based collaborative
 sciences project (10 hours), and scientific investigation (10 hours).
 This underpins the internally assessed individual investigation, in
@@ -120,12 +120,14 @@ individual investigation, not marks of its own.
 
 ## How to approach it
 
-Start by mapping the eight topics against their teaching hours: topics
-with a large HL-hours gap relative to SL (Topic 6, Atmosphere and
-climate change, nearly doubles from 10 to 23 hours; Topic 4, Water,
-roughly doubles from 12 to 25) signal where HL students should expect
-the most additional depth, and therefore where revision time is most
-efficiently weighted. Because Topic 1's three concepts recur across
+Start by mapping the eight topics against their teaching hours: the
+largest HL-hours gaps relative to SL signal where HL students should
+expect the most additional depth. Four topics each gain 13 hours at HL:
+Topic 2, Ecology (22 to 35), Topic 3, Biodiversity and conservation
+(13 to 26), Topic 4, Water (12 to 25) and Topic 6, Atmosphere and
+climate change (10 to 23). Topics 5, 7 and 8 gain 7, 8 and 6 hours,
+and Topic 1 is 16 hours at both levels. Those four topics are
+therefore where HL revision time is most efficiently weighted. Because Topic 1's three concepts recur across
 every other topic, revise them first and explicitly practise using
 their vocabulary when summarising each later topic, rather than
 revising Topic 1 in isolation and moving on. HL students should treat

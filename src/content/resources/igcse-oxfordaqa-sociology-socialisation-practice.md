@@ -28,7 +28,7 @@ featured: false
 
 Related: [Socialisation study guide](/resources/igcse-oxfordaqa-sociology-socialisation/), [Socialisation revision notes](/resources/igcse-oxfordaqa-sociology-socialisation-revision-notes/)
 
-These questions cover 3.2.2.2 Socialisation only — types of socialisation, its agencies, and the four sociological perspectives applied to it. They do not cover 3.2.2.1 (culture and the sociological imagination) or 3.2.2.3 (social control and social identities), which are revised separately.
+These questions cover 3.2.2.2 Socialisation only — types of socialisation, its agencies, and the four sociological perspectives applied to it. They do not cover 3.2.2.1 (culture and the sociological imagination), 3.2.2.3 (social control) or 3.2.2.4 (crime and deviance), which are also examined on Paper 2 and are not yet covered by a Marlbridge 9292 resource.
 
 ---
 

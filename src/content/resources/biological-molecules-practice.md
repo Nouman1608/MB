@@ -61,10 +61,11 @@ Related: [Biological Molecules revision notes](/resources/biological-molecules-r
 **(a)** Describe the test and the positive result that would show whether starch is present. **[2]**
 **(b)** Describe the test and the positive result that would show whether protein is present. **[2]**
 
-**9.** A student compares two food samples, X and Y. Sample X gives a positive Benedict's test result without any prior treatment. Sample Y only gives a positive Benedict's test result after first being boiled with dilute hydrochloric acid and then neutralised.
+**9.** A student adds equal volumes of Benedict's solution to equal volumes of two food solutions, X and Y, and heats both tubes in the same water bath for the same length of time. Solution X turns brick-red; solution Y turns green.
 
-**(a)** State what type of sugar is present in sample X. **[1]**
-**(b)** Explain what the treatment applied to sample Y suggests about the sugar it contains. **[3]**
+**(a)** Name **one** sugar that this test detects. **[1]**
+**(b)** State what the two colours suggest about solutions X and Y. **[1]**
+**(c)** Explain why the student kept the volumes, the water-bath temperature and the heating time the same for both tubes. **[2]**
 
 ---
 
@@ -94,8 +95,9 @@ Related: [Biological Molecules revision notes](/resources/biological-molecules-r
 **8. (a)** Add a few drops of **iodine solution** directly to the sample at room temperature [1]; a colour change from orange-brown to **blue-black** shows starch is present, and no colour change shows it is absent [1].
 **(b)** Add **biuret reagent** (or sodium hydroxide solution followed by a few drops of copper sulfate solution) at room temperature, without heating [1]; a colour change from blue to **purple/lilac** shows protein is present, and no colour change shows it is absent [1].
 
-**9. (a)** A **reducing sugar** (e.g. glucose) [1].
-**(b)** Sample Y contains a **non-reducing sugar** (e.g. sucrose) [1]; boiling with dilute hydrochloric acid **hydrolyses** the non-reducing sugar into its constituent reducing sugars [1], and neutralising the acid is necessary before adding Benedict's solution, since the test does not give a reliable result in acidic conditions [1].
+**9. (a)** **Glucose** or **maltose** (a reducing sugar) [1].
+**(b)** Both contain reducing sugar, but X contains **more** (a higher concentration) than Y, because the colour moves further along the sequence blue → green → yellow → brick-red as the amount of reducing sugar increases [1].
+**(c)** The colour reached also depends on the volumes used, the temperature and how long the tubes are heated [1], so keeping these the same means any difference in colour is caused only by the amount of reducing sugar in each solution, making the comparison fair [1].
 
 ---
 
@@ -107,7 +109,7 @@ Related: [Biological Molecules revision notes](/resources/biological-molecules-r
 - Giving only the solvent role of water.
 - Forgetting phosphorus alongside nitrogen when naming the elements unique to DNA compared with a carbohydrate.
 - Naming DNA's monomer as "a base" rather than a full **nucleotide** (which includes a sugar, a phosphate group and a base).
-- Forgetting to hydrolyse (boil with dilute HCl, then neutralise) before testing a suspected non-reducing sugar with Benedict's solution.
+- Treating the Benedict's test as only positive or negative: green, yellow and brick-red show increasing amounts of reducing sugar, so colours can be compared only when volumes, temperature and heating time are kept the same.
 
 ## The four food tests, side by side
 

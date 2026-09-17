@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-and-international-economy-aqa-alevel-economics"
     subtopic: "the-measurement-of-macroeconomic-performance-aqa-alevel-economics"
-description: "Government macroeconomic policy objectives, the indicators used to measure economic performance, how index numbers work, and the uses and limitations of national income data -- 3.2.1 of AQA AS and A-Level Economics (7135/7136)."
+description: "Government macroeconomic policy objectives, the indicators used to measure economic performance, how index numbers work, and the uses and limitations of national income data -- 3.2.1 of AQA A-Level Economics (7136). AS Economics (7135) has the first three parts; uses of national income data (3.2.1.4) is A-level only."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
@@ -21,12 +21,16 @@ featured: false
 
 This guide covers **3.2.1 The Measurement of Macroeconomic
 Performance**, the opening sub-topic of 3.2 The National and
-International Economy in AQA AS and A-level Economics (7135/7136), AS
-and A-level exams June 2016 onwards, Version 1.3.
+International Economy in AQA A-level Economics (7136), AS and A-level
+exams June 2016 onwards, Version 1.3. AQA AS Economics (7135) has the
+same sub-topic, as 3.2.1 of 3.2 The national economy in a global
+context, but with three parts only: 3.2.1.4 Uses of national income
+data is A-level content (numbered 4.2.1.4 in the combined AS and
+A-level specification PDF).
 
 ## Syllabus coverage
 
-**AQA AS AND A-LEVEL ECONOMICS (7135/7136) — 3.2.1 THE MEASUREMENT OF MACROECONOMIC PERFORMANCE**
+**AQA A-LEVEL ECONOMICS (7136) — 3.2.1 THE MEASUREMENT OF MACROECONOMIC PERFORMANCE** (AS 7135: 3.2.1.1-3.2.1.3 only)
 
 - 3.2.1.1 The objectives of government economic policy — the main
 objectives of government macroeconomic policy: economic growth, price
@@ -47,7 +51,7 @@ economic variables; awareness of the underlying features of indices
 such as RPI and CPI, including the concept of the "average family" and
 a "basket of goods and services" (detailed technical knowledge of their
 construction is not expected)
-- 3.2.1.4 Uses of national income data — the use and limitations of
+- 3.2.1.4 Uses of national income data (A-level only) — the use and limitations of
 national income data to assess changes in living standards over time
 and to compare living standards between countries, and the importance
 of purchasing power parity (PPP) exchange rates in making international
@@ -80,7 +84,7 @@ of RPI or CPI, but you should understand that they are built from a
 weighted according to their relative importance in that spending, and
 expressed relative to a base year set at 100.
 
-For 3.2.1.4, be ready to evaluate national income data rather than
+For 3.2.1.4 (A-level only), be ready to evaluate national income data rather than
 just quote it: it is a widely used but limited measure of living
 standards, since it ignores the distribution of income, the size and
 value of the informal economy, externalities, and non-marketed
@@ -153,7 +157,7 @@ objectives.
 measure.
 - Understand the concepts of base year, weighting and "basket of goods"
 without needing RPI/CPI's exact construction method.
-- Be able to state the limitations of national income data as a
+- A-level only: be able to state the limitations of national income data as a
 measure of living standards, and explain why PPP exchange rates are
 used for international comparisons.
 

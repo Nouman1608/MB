@@ -181,9 +181,11 @@ methods questions.
 
 9709 is modular: Pure Mathematics (Papers 1-3), Mechanics (Paper 4),
 Probability & Statistics (Papers 5-6). Pure Mathematics 2 (Paper 2)
-is offered only as part of the standalone AS Level award (Paper 1
-plus Paper 2); it does not count towards the full A Level, for which
-Paper 1 is instead paired with Paper 3.
+is offered only in the Pure Mathematics only AS Level route (Paper 1
+plus Paper 2), which cannot count towards the full A Level. AS Level
+candidates take two components: Paper 1 with Paper 2, Paper 4 or
+Paper 5. A Level candidates take four components: Papers 1 and 3 with
+either Papers 4 and 5 or Papers 5 and 6.
 Students moving straight from Paper 1 into Paper 2 should expect
 single questions that combine techniques across several sub-topics at
 once, rather than the more isolated sub-topic testing typical of

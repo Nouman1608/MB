@@ -106,11 +106,12 @@ it has no delocalised electrons free to move; only a small number of
 electrons gain enough energy to become mobile.
 
 **P → S → Cl₂ → Ar**: melting point drops sharply and none of these
-conduct, because from silicon onwards the elements exist as **simple
+conduct, because after silicon the elements exist as **simple
 molecular** (P₄, S₈, Cl₂) or **monatomic** (Ar) structures — held together
 in the solid only by weak instantaneous dipole–induced dipole (id-id,
-London dispersion) forces *between* molecules, while the strong covalent bonds *within*
-each molecule are irrelevant to melting. The small remaining variation
+London dispersion) forces *between* molecules (for argon, between separate
+atoms), while the strong covalent bonds *within* each molecule are
+irrelevant to melting (argon, as single atoms, has no covalent bonds at all). The small remaining variation
 (S₈ > P₄ > Cl₂ > Ar) follows molecule size and number of electrons, exactly
 as for any id-id comparison.
 

@@ -71,10 +71,10 @@ This is why AlCl₃ behaves covalently — Al³⁺ is small and triply charged, 
 
 | Structure | Example | m.p. | Conducts | Solubility |
 |---|---|---|---|---|
-| **Giant ionic** | NaCl | High | Molten/aqueous only | Soluble in water |
+| **Giant ionic** | NaCl | High | Molten/aqueous only | Often soluble in water (not all: MgO is only sparingly soluble) |
 | **Giant covalent** | Diamond, SiO₂ | Very high | No | Insoluble |
 | **Giant covalent (layered)** | Graphite | Very high | **Yes** | Insoluble |
-| **Simple molecular** | I₂, CO₂ | Low | No | Non-polar solvents |
+| **Simple molecular** | I₂, CO₂ | Low | No | Depends on polarity: non-polar molecules such as I₂ dissolve best in non-polar solvents; molecules that can hydrogen bond with water (e.g. ethanol) dissolve in water |
 | **Giant metallic** | Cu, Fe | High | **Yes**, solid and molten | Insoluble |
 
 **Ionic solids do not conduct** because the ions are fixed in the lattice; molten or dissolved, they are free to move. **Metals conduct in both states** because the delocalised electrons are mobile regardless.

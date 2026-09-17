@@ -12140,3 +12140,189 @@ None. No existing resource or data-layer record was edited.
 **Validation.** All pass: `astro check` 0 errors; `validate:academic`; `validate-assessments`; cross-board integrity; build (2141 HTML files); `audit:all` 0 problems across 2140 pages; cross-board regression; negative suite; API tests 31/31; `check-duplicate-resource-scope` the four pre-existing groups only.
 
 **Open-count position after D-251.** Round 29 leaves I377 (closed by D-250), I378 and I379; I378 and all eleven I379 items are closed here (15 files). Confirmed errors declared open: 0.
+
+## D-252 - Audit rounds 30-34 (Q411-Q415): 64 reopened closures, E926-E933 and I380-I385 closed (2026-09-17)
+
+**Trigger.** Rounds 30-34 (`docs/audit/2026-11-06-findings.md` to `2026-11-10-findings.md`, commits `f378821`, `e614762`, `d393064`, `fcd470c`, `d04ba3c`) read all 475 D-138-D-225 closures that round 12 had triaged as fixed without reading, and verified D-250 and D-251. They reopened 64 closures (14, 9, 11, 20 and 10 by round), recorded new errors introduced by repairs (E926-E929, E931-E933) and the same errors in other boards' files (E930), five residue groups (I380-I385, including I382 on D-251's siblings), and withdrew E398. Round 34 reports 72 confirmed-error groups open. D-250's paper-name dispute (9489, 2027-2029) was upheld by round 31 and is not reopened.
+
+**Primary sources.** Each row was read against the document its finding quotes, downloaded from the board and read as text, or, for IB, read at ibo.org in a browser (same-origin fetch, pdf.js); the rows cite the section. Cambridge: 9701, 9708, 9709, 9093, 9489 (2027-2029), 9609, 9618, 9699; IGCSE 0264, 0450, 0460, 0495, 0539, 0620, 0625, 0680; O Level 2058, 2147, 2217, 2251, 3247, 3248, 5054, 5070, 5090. Pearson: International GCSE 4HI1, 4MA1; International A Level Physics (Issue 3; cash-in YPH11), Economics, Business; A Level Urdu 9UR0. OCR: J204, J247, J248, J249, H420, H431, H432 (with Data Sheet), H460, H556. AQA: 7131/7132, 7135/7136, 7516/7517, 7702, 8136, 8182, 8192, 8702. OxfordAQA: 9201, 9214, 9218, 9225, 9236, 9245 (Version 1.1), 9292, 9625, 9640, 9670, 9685, 9690, 9725. Civil Procedure Rules Part 26. IB: chemistry guide (first assessment 2025) teaching hours; business management guide (first assessment 2024) Units 3 and 5; Language A: literature and Language A: language and literature guides (first assessment 2021), individual oral; environmental systems and societies guide (first assessment 2026) teaching hours; global politics guide (first assessment 2026) pp. 54 and 81; mathematics AA and AI guides (first assessment 2021, updated November 2020), 'Paper 3 Duration: 1 hour', and the IB May 2026 examination schedule, p. 6: "Mathematics: analysis and approaches HL paper 3 / Mathematics: applications and interpretation HL paper 3 1h 15m".
+
+
+### Round 30 reopened (Q411)
+
+| Item | Files | What changed |
+|---|---|---|
+| E54 | `as-periodicity-across-period-3.md` | id-id forces now act between molecules (for argon, between separate atoms); 'from silicon onwards' now 'after silicon'. 9701 9.1.2, 3.4.3(b). |
+| E56 | `as-chemistry-bonding-revision-notes.md` | Simple-molecular solubility depends on polarity (I2 in non-polar solvents; hydrogen-bonding molecules such as ethanol in water); giant ionic 'often soluble (not all: MgO sparingly)'. 9701 4.2.2. |
+| E83 | `as-chem-alcohols-revision-notes.md` | Secondary alcohol to ketone by oxidation with distillation. 9701 17.1.1(b). |
+| E95 | `a-chemistry-synthesis-routes-practice.md` (Q6 and answer), `a-chemistry-synthesis-routes-revision-notes.md` (exam trap, self-test 3) | NaOH(aq) versus NaOH in ethanol, not KOH. 9701 14.2.1(a), 15.1.3(a), 15.1.4. Tariff [3] unchanged. |
+| E96 | `a-phenol-reactions-and-acidity.md`, `a-phenol-reactions-and-acidity-practice.md` | Three-way comparison of water, phenol and ethanol, quoting 9701 32.2.4, with the delocalisation and inductive-effect explanations. |
+| E111 | `a-chemistry-electrochemistry-practice.md` answer 9(c) | Oxygen from water/hydroxide is the default; chloride, bromide or iodide discharged only at high concentration; fluoride never; 'OH- harder to oxidise than water' removed. 9701 24.1.1. [3] unchanged. |
+| E118 | `a-arenes-and-halogenoarenes-practice.md` Q4, `a-arenes-and-halogenoarenes.md` | Chloroethane hydrolysed slowly under reflux with NaOH(aq); 'readily' removed. 9701 31.1.2. [2] unchanged. |
+| E119 | `a-chemistry-synthesis-routes-practice.md` answer 7(b) and L125 | Hot alkaline KMnO4, then dilute acid. 9701 30.1.1(e), 33.1.1(a). [2] unchanged. |
+| E120 | `a-chemistry-synthesis-routes-practice.md` 8(a), 8(b), L114, L121 | Nitration between 25 and 60 C; dinitration above about 60 C. 9701 30.1.1(b). Tariffs unchanged. |
+| E146 | `rates-of-reaction-practice.md` tier note and Q7 | Haber question labelled 0620 Extended / 5070 required (0620 6.3 Supplement 6; 5070 6.3.6). Two Core schemes that credited Supplement ideas (3(a) collision frequency, 4 activation energy) relabelled with the extra point Extended; tariffs unchanged. |
+| E147 | `redox-reactions.md` common mistake | Headed 0620 Extended and 5070; the oxygen definition is the complete 0620 Core requirement. 0620 6.4 Core 3, Supplement 6. |
+| E155 | `identification-tests-revision-notes.md` L56 | 'never' removed: excess reagent cannot separate Cr3+ and Al3+, but precipitate colour (green, white) can with either reagent. 0620 qualitative analysis notes. |
+| E160 | `igcse-physics-motion-forces-and-energy.md` coverage and worked example | Core: principle of moments with one force each side including balancing a beam, and equilibrium as no resultant force and no resultant moment; Supplement: more than one force each side and the experiment. Core example 2.0 x 0.30 = W x 0.20, W = 3.0 N. 0625 1.5.2 Core 3-4, Supplement 5-6. |
+| E176 | `energy-work-and-power.md` L74, `energy-work-and-power-revision-notes.md` L31 | Energy to the internal (thermal) store; sound as a transfer by waves, not a store; store list and transfer list in 5054 1.7.1 wording. |
+
+### Round 31 reopened (Q412)
+
+| Item | Files | What changed |
+|---|---|---|
+| E199 | Eight Edexcel IAL Physics descriptions (astrophysics, nuclear-particle, oscillations, further-mechanics, thermodynamics, fields, nuclear-decay revision notes; fields practice) | Descriptions end 'YPH11 (Unit 4, WPH14)' or '(Unit 5, WPH15)'. Pearson IAL Physics Issue 3 Appendix 1 cash-in code YPH11. |
+| E218 | `ocr-gcse-physics-exam-preparation.md`, `ocr-gcse-biology-exam-preparation.md`, `ocr-gcse-chemistry-exam-preparation.md` | 'required practical' replaced by practical activities within OCR's eight Practical Activity Groups. J247/J248/J249: 'at least eight practical activities ... eight Practical Activity Groups or PAGs'. |
+| E249 | `biological-molecules-revision-notes.md`, `biological-molecules-practice.md` Q9 and L110 | Non-reducing sugar example labelled 'Beyond the syllabus, not required for 5090' with the four 5090 4.1.3 tests quoted; Q9 replaced by an in-syllabus Benedict's comparison, [4] = 1 + 1 + 2. |
+| E276 | `igcse-oxfordaqa-biology-organisation-revision-notes.md` | Rebuilt on 9201 Topic 1 (3.1.1-3.1.5: cells, organisation, animal and plant tissues and organs, transport in cells); enzymes/digestion, heart and lungs kept as linked Topic 2 notes labelled 3.2.4, 3.2.3, 3.2.5; description, exam traps and self-test split. |
+| E284 | `igcse-edexcel-mathematics-numbers-and-the-number-system.md` | Coverage from 4MA1 Issue 2: recurring decimals to fractions (H) 1.3; fractional indices (H) 1.4; inverse proportion removed from 1.7 (Higher 2.5); 'simple interest' removed. |
+| E297 | `src/data/academic/syllabus-topics.ts` 9708 record; `syllabuses.ts` 9708 | Topics 10 (10.1-10.3) and 11 (11.1-11.6) added with syllabus names; notes to 1.1-11.6; syllabuses.ts 'topics 7-11'. 9708 (2026-2028) p. 9. |
+| E300 | `syllabus-topics.ts` 9708 record; `syllabuses.ts` 9708 | 'Version 2, published December 2025' (changes page p. 43); verifiedDate 2026-09-17. |
+| E307 | `syllabus-topics.ts` 7136 record | Topic 1 now the eight A-level sub-topics 3.1.1-3.1.8; topic 2 all of 3.2.1-3.2.6; notes explain web 3.x versus PDF 4.x numbering. AQA 7136 web specification; PDF v1.3. |
+| E311 | `aqa-gcse-economics-interest-rates-practice.md` | Section A opens with three multiple-choice questions [1] each (8136 2.2: 'Section A: 10 multiple choice questions followed by ...'); later questions renumbered; Q12 [9] had an 8-mark scheme, ninth mark added. Q11 now asks for spending areas and revenue sources other than those named in the multiple-choice questions. |
+
+### Round 32 reopened (Q413)
+
+| Item | Files | What changed |
+|---|---|---|
+| E343 | `syllabus-topics.ts` 9214, 9640 records; sibling 9225 record | Specification numbering: 9214 3.1.1-3.1.6 and 3.2.1-3.2.5 (3.2.1 Introduction to the national economy added); 9640 3.1.1-3.4.3, Topic 4 'Economic development and the global economy'; 9225 Influences 3.2.1-3.2.6. Slugs kept. |
+| E354 | `ib-dp-economics-macroeconomics-practice.md` Q5 | Growth slowing to 0.5% and inflation to 1% explained as slower AD growth (output and price level still rising); supply-side changes move the rates oppositely. [3] + [2]. |
+| E373 | `aqa-a-level-business-managers-leadership-practice.md` | Rebuilt to 7132 Paper 1: Section A 15 MCQ (15), Section B 35 (2+3+4+6+7+9+4), Sections C and D one 25-mark essay each from two; total 100. 7131/7132 v2.0 p. 9. Net-gain calculation added (3.2.2); unsupported mark-scheme claims removed. |
+| E377 | `igcse-business-marketing-practice.md`, `igcse-business-people-in-business-practice.md`, `igcse-business-people-in-business.md` | 'Suggest' and 'Give' replaced with 0450 command words (Identify, justify). 0450 (2026) command words. |
+| E382 | `a-level-business-hrm-practice.md`, `a-level-business-marketing-practice.md`, `-marketing-revision-notes.md`, `a-level-business-marketing.md`; sibling `a-level-business-hrm-revision-notes.md` | 'State', 'Suggest', 'Recommend' replaced with 9609 command words (Identify, Advise, Explain); unsupported 'most common format' claims softened. 9609 (2026-2028) command words. |
+| E386 | `a-level-edexcel-business-marketing-and-people.md`; `a-business-marketing-people-revision-notes.md` | Organisational design section added (structure, tall/flat/matrix, impact) from IAL Business 1.3.4.3; 1.3.4 coverage completed; 'full content' claim removed. |
+| E390 | `ocr-gcse-business-operations-finance-and-influences-on-business.md`; `syllabus-topics.ts` J204 notes | Synoptic assessment in at least two section B questions of Business 2 (J204 3j); section 7 described as content. |
+| E399 | `syllabus-topics.ts` H431 Topic 1 | All 16 content headings of Business objectives and strategy in specification order; notes say 1.1-1.16 are sequence numbers only. H431 v2.1 pp. 6-13. |
+| E406 | `syllabus-topics.ts` IB BM 3.6 | '3.6 Efficiency ratio analysis (HL only)' (business management guide, Unit 3). |
+| E431 | `a-level-english-language-paper-4-language-topics-practice.md`, `-revision-notes.md` | Age or social class produce sociolects; region produces dialects. 9093 Section B list. |
+| E458 | `aqa-gcse-english-literature-exam-preparation.md`; `assessments.ts` 8702 notes | One question on one unseen poem and one comparing it with a second (8702 at a glance); timing split 'in proportion to the marks printed'. |
+
+### Round 33 reopened (Q414)
+
+| Item | Files | What changed |
+|---|---|---|
+| E495 | `aqa-english-language-diversity-and-change-practice.md` Q9 | Ninth mark added (a specific example of change supporting the judgement); sums to [9]. The economics Q9 (now Q12) was fixed under E311. |
+| E496 | `syllabus-topics.ts` 7517 record | A-level numbering 4.1.1, 4.1.2, 4.2.1.1-4.2.1.3; notes rewritten. AQA 7516/7517 v1.6 and web 4.1-4.2. |
+| E497 | `syllabus-topics.ts` 7517 record | 4.2.1.4 Abstract data types/data structures and 4.2.2 Queues to 4.2.8 Vectors added; slug `data-structures-7517` kept. |
+| E503 | `a-level-computer-science-processor-fundamentals-revision-notes.md` | Index register (IX), status register and control bus added; addressing modes include indirect, indexed and relative. 9618 4.1-4.2. |
+| E507 | `syllabus-topics.ts` 9699 record | Paper 3 content 5.1-6.4 and Paper 4 content 7.1-12.3 with syllabus names; Sections A/B/C mapped to content areas 7-8, 9-10, 11-12. 9699 v3. |
+| E509 | `syllabus-topics.ts` 2251 and 0495 records; `syllabuses.ts` 2251 notes | Syllabus key questions 1.1-6.3 under content areas 1-6; 'specification PDF' to 'syllabus PDF'. 2251 and 0495 v3 p. 7. |
+| E511 | `igcse-sociology-family-education-crime-practice.md` | Rebuilt to 0495 Paper 2: three 40-mark questions, answer two (80); parts 2+2+2+6+6+8+14 with level schemes and the one-sided cap of 6, following the 0495 specimen Paper 2 and mark scheme (stated in the banner). |
+| E521 | `syllabus-topics.ts` 8192 record | Specification numbering 3.1-3.4, 3.7 (Paper 1) and 3.5-3.6 (Paper 2). 8192 v1.1. |
+| E522 | `aqa-gcse-sociology-families-and-education.md`; `aqa-gcse-sociology-families-education-revision-notes.md` | Criticisms of families (3.3.5: Zaretsky; Delphy and Leonard) and divorce (3.3.6) added; 'full content of Paper 1' removed. |
+| E525 | `syllabus-topics.ts` 9690 record | Source is the specification PDF (2026/07 upload, v1.0), not the switching guide. |
+| E526 | `syllabus-topics.ts` 9690 record; `syllabuses.ts` and `assessments.ts` Unit 5 title | Subtopics from the specification (3.1.1.x, 3.1.2.x, 3.1.3, 3.2.x); 'People and technology'. Sibling 9292 record renumbered 3.1.1-3.2.2 with the 2026/07 link. |
+| E529 | `oxfordaqa-a-level-sociology-exploring-sociology-practice.md` | Rebuilt to 9690 Unit 2: Section A 2+2+4+4+8+20 = 40, Section B one 20-mark response; total 60 (tariff pattern from the Unit 1 specimen paper, stated). |
+| E533 | `igcse-oxfordaqa-sociology-introducing-sociology.md`; `a-level-oxfordaqa-sociology-exploring-sociology.md` | Global education (3.1.2.5) added and 'full content' removed; Goffman tied to stigma; ideological state apparatuses to Althusser, hegemony to Gramsci. |
+| E550 | `ib-dp-history-subject-guide.md` | Description and framing use the four concepts the file gives at L85-88; the six-concept list labelled as the previous course. |
+| E552 | `edexcel-igcse-world-history-exam-preparation.md` | Investigation described as Paper 2 tests it (AO3 comprehend, interpret and cross-refer sources; AO4 interpretations), per 4HI1 Issue 5 and the sample assessment materials. |
+| E559 | `syllabus-topics.ts` 9245 record | syllabusSeries 'Version 1.1'; link to 2026/07 upload. |
+| E560 | `syllabus-topics.ts` 9245 record; `syllabuses.ts` 9245 notes | 'Life in the USA, 1920-1968'; two other option names corrected to the specification; Paper 1 Section A (not Paper 2) uses pre-released sources. |
+| E567 | `igcse-geography-population-and-settlement.md` | 1.1 coverage includes over- and under-population and population policies. 0460 v2 1.1. |
+| E696 | `syllabus-topics.ts` 2058 record | Moved to 2026-2027, source 697279; 2024-2025 (635787) logged under KNOWN_OTHER_SERIES. |
+| E698 | `o-level-islamiyat-paper-1.md` | 'drawn respectively' and the question-to-topic tie removed; 'one or two questions are set' on topics 3 and 4 (2058 2026-2027). |
+
+### Round 34 reopened (Q415)
+
+| Item | Files | What changed |
+|---|---|---|
+| E708 | `syllabus-topics.ts` 9236 record; `igcse-oxfordaqa-pakistan-studies-history-and-culture.md` and `-revision-notes.md` | Specification numbering 3.1.1-3.1.4 and 3.2.1-3.2.4 (9236 v1.9). |
+| E772 | `igcse-urdu-identity-culture-revision-notes.md` | Past of 'I read' is main ne parha (transitive, ne, object agreement); main parhta tha labelled 'I used to read'; simple-past row added. |
+| E779 | `ib-dp-language-a-language-and-literature-exam-preparation.md`; `-syllabus-guide.md` | Oral built on one literary work and one non-literary body of work, 40-line extracts (language and literature guide, individual oral). |
+| E797 | `o-level-cambridge-environmental-management-rocks-and-minerals.md` | Iron (an element) and bauxite (a rock of several aluminium-bearing minerals) no longer called minerals; examples quartz, feldspar, haematite, cassiterite. |
+| E837 | `syllabus-topics.ts` 9685 record | syllabusSeries 'Version 3.1'; current specification link (HTTP 200); subtopics renumbered 3.1.1-3.4.3 in specification wording. |
+| E838 | `a-level-oxfordaqa-psychology-introductory-topics.md`; `oxfordaqa-a-level-psychology-revision-notes.md` | Forgetting, interference and retrieval failure removed as 9685 content (not in 3.1.1 Memory); coverage now multi-store, working memory, types of LTM, eyewitness testimony and cognitive interview; renumbered 3.1.x. |
+| E846 | `aqa-gcse-psychology-social-context-and-behaviour.md`; `gcse-psychology-social-context-revision-notes.md`; `syllabus-topics.ts` 8182 and 9218 records | Specification numbering 3.1.x and 3.2.x (8182 v1.1; 9218 v1.1). |
+| E853 | `assessments.ts` IB Mathematics AA and AI records | HL Paper 3 durationMinutes 60 to 75; notes cite the IB May 2026 examination schedule ('HL paper 3 ... 1h 15m', read at ibo.org) and record that the guide (updated November 2020) still says 60 minutes. The resources already said 1 h 15 min. |
+| E879 | `oxfordaqa-a-level-business-marketing-practice.md`; `a-business-what-is-business-practice.md` | Rebuilt to 9625 Unit 1: Section A 17, B 27, C 36 = 80; 9725 layout (1 h 15, 60 marks, 10/10/16/24) stated; old tariff mismatches fixed; the 'shortest section' note removed; four extra questions kept outside the paper layout. Q11 in the what-is-business practice now develops one policy for all three marks. |
+| E901 | `syllabus-topics.ts` 2058 record | Same record as E696: 2026-2027, 697279, status current. |
+
+### New errors E926-E933
+
+| Item | Files | What changed |
+|---|---|---|
+| E926 (1) | `a-reaction-kinetics-rate-equations-and-catalysis.md` | Attribution to 26.1.2(a) removed; intermediate replaced because its concentration cannot be set or measured (fast pre-equilibrium); a catalyst can appear in a rate equation. 9701 26.1.2(a), 26.1.5(d). |
+| E926 (2) | `a-transition-elements-properties-complexes-and-redox-chemistry.md`; `a-chemistry-transition-elements-revision-notes.md` | 'not a ligand' reasons deleted; [Cu(H2O)6]2+ + 2OH- -> [Cu(OH)2(H2O)4] + 2H2O as ligand exchange (9701 28.2.7, 28.3.5). |
+| E927 | `moments-and-stability-practice.md` Q10 | Scheme cut to four marks for [4]. |
+| E928 (1) | `a-level-mathematics-pure-mathematics-2.md`; `-revision-notes.md`; `assessments.ts` 9709 notes | Two components for AS (Paper 1 with 2, 4 or 5), four for A Level; not both Paper 2 and Paper 3 in one series. 9709 (2026-2027) pp. 10-16. |
+| E928 (2) | `a-level-edexcel-economics-markets-in-action.md` | Unit 3 draws on Units 1 and 2; Unit 4 on Units 1, 2 and 3 (IAL Economics Issue 2). |
+| E928 (3) | `ocr-a-level-economics-microeconomics.md` | H460 v3.0 numbering and titles throughout; no 'price mechanism' sub-topic. |
+| E929 | `oxfordaqa-a-level-physics-measurements-practice.md` Q11 | (a) 2 marks for [2], (b) 3 for [3]; rounding justified by the size of the uncertainty (both inputs have 3 significant figures). |
+| E930 (1) | `a-physics-circular-motion-revision-notes.md`; `a-physics-motion-in-a-circle.md`; sibling `a-physics-circular-motion-practice.md` | 2mg difference only at equal speeds; 6mg with energy conserved. |
+| E930 (2) | `ocr-a-level-physics-development-of-practical-skills.md` | H556 1.1.1 Planning, 1.1.2 Implementing, 1.1.3 Analysis, 1.1.4 Evaluation. |
+| E931 (1) | Six 0450 business files | 'renumbers every sub-topic' replaced: some 0264 sub-topics keep their numbers (1.1, 3.2), others are renamed, reordered, split or added (0264 changes page). |
+| E931 (2) | `aqa-gcse-business-business-in-the-real-world.md` | Total cost rises to £135,000 while average unit cost falls to £6.75. |
+| E931 (3) | `edexcel-a-level-business-managing-activities-practice.md` Q4 | Scheme credits only what the Bright Leaf source says; [4] unchanged. |
+| E932 (1) | `igcse-oxfordaqa-world-history-international-relations-depth-studies.md`; `igcse-world-history-international-relations-revision-notes.md` | Question 3 (8 marks) usefulness; Question 4 (12 marks) evaluation of an issue from the sources (9245 v1.1). |
+| E932 (2) | `law-english-legal-system-practice.md` answer 3 | Party condition quoted from CPR r.26.9(7)(d); classes allocated regardless of value go to the multi-track (r.26.9(10)). [8] unchanged. |
+| E933 | `oxfordaqa-a-level-psychology-practice.md` Q3 | 2 + 2 + 2 = 6 for [6]. |
+
+### Residues I380-I385
+
+| Item | Files | What changed |
+|---|---|---|
+| I380 (1) | `ionic-covalent-and-metallic-bonding.md`; `ionic-covalent-metallic-bonding-revision-notes.md`; sibling `ionic-covalent-metallic-bonding-practice.md` | Magnesium oxide labelled 0620 Extended / 5070 required; practice Q3-Q4 labelled. |
+| I380 (2) | `a-physics-ideal-gases.md`; sibling `a-physics-ideal-gases-practice.md` answer 7 | Velocity components average to zero, so mean square speed is used; 'speeds do not cancel' removed. |
+| I381 (1) | `edexcel-ial-physics-materials-revision-notes.md` | Stokes' law: small spheres at low speed with laminar flow. |
+| I381 (2) | `ib-dp-chemistry-syllabus-guide.md`; `ib-dp-chemistry-reactivity-3-mechanisms-revision-notes.md` | Reactivity 3 leads narrowly at SL (24 vs 21) and clearly at HL (45 vs 31) (chemistry guide teaching hours). |
+| I381 (3) | `ocr-gcse-biology-cell-level-systems.md` | 'full content' removed; B1.2f/g, B1.3a/b, B1.3d-f and B1.4d added. |
+| I381 (4) | `ocr-a-level-biology-development-of-practical-skills.md` | H420 1.1.4(e) added (and 1.1.3(c)). |
+| I381 (5) | `ocr-a-level-biology-foundations-practice.md`; sibling `ocr-a-level-biology-practical-skills-practice.md` | Components 01 and 02 have Section A 15 marks of multiple choice; Unified biology (03) has none. |
+| I381 (6) | `graphs-of-functions-and-sketching-curves.md` | Table shows only a minimum between 1 and 3; y(1.5) = 2.48 and y(2.5) = 2.05 narrow it; minimum near x = 2.17, y = 1.97. |
+| I381 (7) | `a-level-aqa-economics-measurement-of-macroeconomic-performance.md`; `aqa-a-level-economics-macroeconomic-performance-revision-notes.md`; `-practice.md` | 3.2.1.4 labelled A-level only (7136); 7135 has 3.2.1.1-3.2.1.3. |
+| I381 (8) | `ocr-a-level-chemistry-amount-of-substance-practice.md`; sibling `ocr-a-level-chemistry-amount-of-substance.md` | Molar gas volume as given on the H432 Data Sheet (24.0 dm3 mol-1 at RTP); 22.4 explained as 273 K and 101.3 kPa. |
+| I382 (1) | `igcse-cambridge-sociology-family-education-crime.md` | D-251 wording: ageing population effects; boomerang children under changing roles of children (0495 4.3.5). |
+| I382 (2) | `a-level-world-history-international-1870-1945.md`; `a-level-world-history-usa-1820-1941.md` | Paper 1 (Historical Sources), Paper 2 (Outline Study) (9489 2027-2029). |
+| I383 (1) | `ocr-a-level-economics-microeconomics.md` | 'full content' removed; price discrimination, natural monopoly, monopsony, trade unions, bilateral monopoly named in the map. |
+| I383 (2) | `ib-dp-economics-syllabus-guide.md` L142 | 'the extended response paper and the data response paper'. |
+| I383 (3) | `ocr-a-level-business-external-influences-practice.md` | UK not part of the EU, the Eurozone and the Single European Market (H431). |
+| I383 (4) | `a-level-edexcel-business-managing-business-activities.md`; `edexcel-a-level-business-managing-activities-revision-notes.md` | All eight external causes of failure (IAL Business 2.3.3.3b). |
+| I383 (5) | `a-business-marketing-people-practice.md` | Exit-interview reason and three other claims the case does not support removed; tariffs unchanged. |
+| I383 (6) | `ib-dp-business-management-subject-guide.md`; `ib-dp-business-management-syllabus-guide.md` | Break-even analysis is 5.5 in Unit 5 (business management guide, Unit 5). |
+| I383 (7) | `gcse-english-language-paper-2-practice.md` | Q3 [12] asks for analysis of language across a section; Q4 is the highest-tariff reading question (16 of 80). |
+| I383 (8) | `aqa-english-language-paper-1-practice.md` | Idiolect/sociolect question moved to Section A (identity, 7702 3.1.1); regional example corrected to dialect. |
+| I383 (9) | `a-level-english-language-paper-4-language-topics.md` | Sociolect continuum in Section A, explained (basilect-mesolect-acrolect); removed from Section B (9093). |
+| I383 (10) | `a-level-oxfordaqa-english-language-unit-2.md`; `-unit-2-practice.md` | Multimodal example (meme, advertisement) added (9670 3.2.1). |
+| I384 (1) | `edexcel-a-level-english-literature-drama-revision-notes.md` | Genre examples from the set plays (Doctor Faustus, The Rover, Othello). |
+| I384 (2) | `igcse-oxfordaqa-sociology-socialisation.md`, `-revision-notes.md`, `-practice.md` | 'left for separate resources' replaced: no Marlbridge resource covers 3.2.2.1, 3.2.2.3, 3.2.2.4 yet. |
+| I384 (3) | `edexcel-igcse-world-history-paper-2-practice.md` answer 1(b) | Quotes 'troubled'; no claim that Source A says supporters are ready for action. |
+| I384 (4) | `igcse-geography-earthquakes-and-volcanoes.md` | Chile shows the same reason as Japan (subduction at a destructive boundary) with a different pair of plates. |
+| I384 (5) | `o-level-urdu-second-language-paper-2-revision-notes.md`; `syllabuses.ts` Urdu, 2217, 2147 notes | Cambridge 'syllabus', not 'specification'. |
+| I385 (1) | `o-level-cambridge-urdu-first-and-second-language.md` | Same-level statement quoted from 3247/3248/0539; none names an IGCSE (9-1) Urdu syllabus. |
+| I385 (2) | `urdu-paper-2-listening-practice.md` | Exercise 2 notes and answers in Urdu from the script: (b) تقریباً دس ہزار, (d) دو ہفتوں; total 8. |
+| I385 (3) | `edexcel-a-level-urdu-translation-practice.md` | Questions renumbered 1-6; register illustration works out of Urdu; tariffs unchanged. |
+| I385 (4) | `edexcel-a-level-urdu-translation-revision-notes.md` | Theme 2 rule quoted from 9UR0: content based on the country/area that gains the highest mark. |
+| I385 (5) | `ib-dp-language-a-literature-assessment-revision-notes.md`; siblings `ib-dp-language-a-literature-exam-preparation.md`, `-subject-guide.md` | No order of discussion prescribed; pairing rule (one original, one in translation) and broader-work discussion (literature guide, individual oral). |
+| I385 (6) | `igcse-cambridge-environmental-management-water.md` | Species note under both 3.4.2 and 3.5.2 (0680 2027-2029). |
+| I385 (7) | `igcse-psychology-cognition-practice.md`; siblings `igcse-oxfordaqa-psychology-cognition-and-behaviour.md`, `igcse-psychology-cognition-revision-notes.md` | Kunst-Wilson and Zajonc under emotion; Gilchrist and Nesberg under motivation (9218). |
+| I385 (8) | `ib-dp-environmental-systems-and-societies-syllabus-guide.md` | Topics 2, 3, 4 and 6 each gain 13 hours; 5, 7, 8 gain 7, 8, 6 (ESS guide teaching hours). |
+| I385 (9) | `a-level-oxfordaqa-business-what-is-business.md` | Net gain defined and worked (A $190,000, B $170,000); 9625 3.1.1.1. |
+| I385 (10) | `ib-dp-psychology-cognitive-approach-practice.md` | Memory essay modelled within the cognitive approach only; tariffs [3] + [3]. |
+| I385 (11) | `ib-dp-global-politics-syllabus-guide.md`; `ib-dp-global-politics-assessment-revision-notes.md` | Report limit 2,000 words SL / 2,400 HL; recommendation assessed as criterion F (6 marks) (global politics guide pp. 54, 81). |
+
+### Withdrawn by the audit
+
+- E398 (round 32): the finding was wrong; nothing changed.
+
+### Observations, not actioned
+
+Raised by the repair agents and reviewers while reading siblings; not recorded by the audit, so left for its next round.
+
+- `aqa-gcse-physics-energy-practice.md` answer 7 (L90) sends energy 'to the sound store'. AQA 8463, not 5054, governs the file; not read against 8463 here.
+- `a-chemistry-electrochemistry-revision-notes.md` L123 says hydroxide/water 'is easier to oxidise than most halides on electrode-potential grounds'; iodide, and bromide in acid, are easier to oxidise than water.
+- `redox-reactions-practice.md`: the tier note makes unlabelled questions Core, but Q3-Q7 use 0620 Supplement content (oxidation numbers 6.4.9, ionic equations, displacement 9.4, oxidising agents 6.4.11, the manganate(VII) and iodide tests 6.4.10); the revision notes' oxidising/reducing agent lists are untiered. `rates-of-reaction-revision-notes.md` exam traps cover collision theory (0620 Supplement 6.2.5) untiered. `redox-reactions.md` L34-36 presents 5070 6.4.3 (a)-(c) as continuous wording.
+- `moments-and-stability-practice.md` Q8 (stable, unstable and neutral equilibrium) goes beyond 5054 1.5.6. `a-physics-circular-motion-practice.md` answer 5(d) 'any two' marks only two of three options.
+- `ocr-a-level-biology-development-of-practical-skills.md`: worked example '13% error' (1/43.5 to 1/50.4 is 13.7%); its 'Version 4.1' conflicts with the `syllabus-topics.ts` H420 record ('Version 3'). `ocr-gcse-biology-scaling-up.md` L15 claims 'the full content of Topic B2' (not checked). `biological-molecules-practice.md` Q6 roles of water goes beyond 5090. `oxfordaqa-a-level-psychology-practice.md` Q9 offers Beck or Ellis; the model answer covers Beck only.
+- OxfordAQA data records with numbering not in the specification, as E343: 9215 Topic 2 (2.1-2.4) and 9670 (1.1/1.2 mixed with 3.2.1/3.2.2).
+- Business: `a-level-edexcel-business-marketing-and-people.md` omits several IAL Unit 1 areas (market research and sampling, marketing objectives, B2B/B2C and loyalty, promotion and branding, normal and inferior goods) and names 'people, process and physical environment'; `edexcel-a-level-business-managing-activities-practice.md` Q12 answer says 'in its early months', which the source does not; `aqa-gcse-business-business-in-the-real-world.md` places outsourcing under external growth (8132 ambiguous). 0450 files' 'Recommend' stems are left: the 0450 (2026) subject content itself says 'Recommend and justify'.
+- `aqa-gcse-economics-interest-rates-practice.md` Q4 'State the two factors' reads as a closed list; 8136 says 'the factors that influence the different rates of interest'.
+- Sociology: `oxfordaqa-a-level-sociology-practice.md` Section A tariffs 4/6/8/10/12 against the 9690 specimen's 2/2/4/4/8/20; `igcse-sociology-methods-inequality-practice.md` (0495) and `o-level-sociology-family-education-crime-practice.md` (2251) part tariffs differ from the specimen pattern; `aqa-gcse-sociology-families-and-education.md` L110 credits Oakley with the 'triple shift'; `igcse-oxfordaqa-sociology-introducing-sociology.md` puts Bourdieu under Marxism. The 9699 record's notes say the 9690 switching guide 'reproduces this same paper structure'; the switching guide gives Paper 3 1h30 at 20% and Paper 4 30%, 9699 v3 Paper 3 1h15 at 21% and Paper 4 29%.
+- The 9618 processor revision notes and practice carry `syllabusSeries` "2026"; the study guide says 2027-2029.
+- `ib-dp-computer-science-theme-a.md` names servers among network fundamentals without a label; A2.2.2 'Describe the function of servers' is HL only.
+- Urdu and languages: `urdu-paper-2-listening-practice.md` Exercises 3-4 have English questions and options (0539: questions in Urdu) and Exercise 1 has one announcement; `igcse-urdu-identity-culture-practice.md` L80 says the verb agrees with the subject (with *ne* in the perfective it agrees with the object); `edexcel-a-level-urdu-translation-revision-notes.md` self-test 6 is debatable; `ib-dp-language-a-literature-assessment-revision-notes.md` answer 2 names only the HL essay as the HL difference while answer 1 also names both Paper 1 passages; `ib-dp-language-a-language-and-literature-exam-preparation.md` says focus and organisation are 'explicitly graded criteria' (not checked against the guide).
+- `gcse-psychology-social-context-revision-notes.md` L25-26 and `aqa-gcse-psychology-social-context-and-behaviour.md` L90-92 say each Paper 2 topic pairs a biological with a psychological explanation; social influence (situational and dispositional) does not.
+- `a-level-world-history-international-1870-1945-practice.md` L60 '(Historical Sources, a document question)' kept as in D-250.
+
+**Validation.** All pass: `astro check` 0 errors; `validate:academic`; `validate-assessments`; cross-board integrity; build (2141 HTML files); `audit:all` 0 problems across 2140 pages; cross-board regression; negative suite; API tests 31/31; `check-duplicate-resource-scope` the four pre-existing groups only.
+
+**Open-count position after D-252.** Rounds 30-34 leave 72 confirmed-error groups open: the 64 reopened closures and E926-E933. All 64 and E926-E933 are closed here, with residues I380-I385 (156 files, including `syllabus-topics.ts`, `syllabuses.ts` and `assessments.ts`). Confirmed errors declared open: 0.

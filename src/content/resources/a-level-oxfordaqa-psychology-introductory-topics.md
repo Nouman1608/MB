@@ -41,10 +41,11 @@ sections: Memory, Social Psychology and Psychopathology.
 **OXFORDAQA INTERNATIONAL A-LEVEL PSYCHOLOGY (9685) — UNIT 1
 INTRODUCTORY TOPICS IN PSYCHOLOGY**
 
-- 1.1 Memory — models and processes of memory and forgetting
-- 1.2 Social Psychology — how individuals are influenced by the
+- 3.1.1 Memory — the multi-store and working memory models, types of
+long-term memory, and eyewitness testimony with the cognitive interview
+- 3.1.2 Social Psychology — how individuals are influenced by the
 presence and behaviour of others
-- 1.3 Psychopathology — the definition, causes and treatment of
+- 3.1.3 Psychopathology — the definition, causes and treatment of
 psychological disorders
 
 ## How to approach it
@@ -53,10 +54,10 @@ Each of the three sub-topics is built around named studies and models,
 so structure revision around being able to describe a study or model
 accurately and then evaluate it, rather than description alone, since
 this description-plus-evaluation pattern is how OxfordAQA Psychology
-essay questions are typically marked. Social Psychology (1.2) connects
+essay questions are typically marked. Social Psychology (3.1.2) connects
 naturally to research methods content developed later in Unit 2, so
 notice methodological issues -- such as ecological validity or ethical
-concerns -- as you learn the named studies here. Psychopathology (1.3)
+concerns -- as you learn the named studies here. Psychopathology (3.1.3)
 benefits from a clear compare-and-contrast structure across different
 disorders and their treatments, since exam questions frequently ask
 students to weigh competing explanations or treatment approaches
@@ -88,9 +89,9 @@ The **multi-store model** separates sensory, short-term (5-9 items, 18-30 second
 
 Long-term memory divides into episodic, semantic and procedural.
 
-Forgetting is explained by **interference** (proactive and retroactive) and **retrieval failure** (cue-dependent forgetting).
+Explanations for forgetting, such as interference and retrieval failure, are not part of this specification's memory content (3.1.1 lists the multi-store model, the working memory model, types of long-term memory, and eyewitness testimony with the cognitive interview), so they are not taught here.
 
-**Eyewitness testimony** is distorted by misleading information — Loftus and Palmer's leading questions — and by anxiety, with the weapon focus effect. The **cognitive interview** improves accuracy through context reinstatement, report everything, reverse order and change of perspective.
+**Eyewitness testimony** is distorted by misleading information — leading questions (Loftus and Palmer) and post-event discussion — and by anxiety, with the weapon focus effect. The **cognitive interview** improves accuracy through context reinstatement, report everything, reverse order and change of perspective.
 
 ## Psychopathology
 
@@ -133,13 +134,13 @@ band.
 
 ## Common mistakes
 
-Confusing normative with informational influence. Describing compliance as internalisation. Saying Milgram studied conformity — it was obedience. Treating the working memory model as replacing long-term memory. Confusing proactive with retroactive interference. Describing evaluation as "the sample was small" without explaining the effect on validity.
+Confusing normative with informational influence. Describing compliance as internalisation. Saying Milgram studied conformity — it was obedience. Treating the working memory model as replacing long-term memory. Describing evaluation as "the sample was small" without explaining the effect on validity.
 
 ## Quick revision checklist
 
 - Define the three types and two explanations of conformity, with Asch's variables.
 - Explain obedience, situational variables, the agentic state and the authoritarian personality.
 - Compare the multi-store and working memory models with supporting evidence.
-- Explain interference and retrieval failure as accounts of forgetting.
+- Distinguish episodic, semantic and procedural long-term memory.
 - Evaluate eyewitness testimony research and outline the cognitive interview.
 - Describe the two named disorders (phobias, depression) with their defining characteristics, explanations and treatments, including the components of systematic desensitisation and CBT.

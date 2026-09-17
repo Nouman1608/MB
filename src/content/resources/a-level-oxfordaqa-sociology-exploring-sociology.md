@@ -91,12 +91,16 @@ Distinguishes **formal** social control (government and law, police,
 the criminal justice system) from **informal** social control
 (families, schools, peers, media, religion, the workplace), and
 **positive** from **negative sanctions**, read through consensus and
-conflict views. Named concepts: **stigmatised identities** and
-**othering** (Goffman), the **aims and types of punishment**, **crime
-prevention** (types of policing, surveillance), and **repressive and
-ideological state apparatuses**, **interpellation** and **hegemony**
-(Althusser-derived concepts examined through functionalist, Marxist,
-feminist and social action/interactionist perspectives).
+conflict views. Named concepts: **stigmatised identities** (Goffman's
+work on stigma and "spoiled" identity is a useful source here) and
+**othering** (treating a group as different from, and inferior to, "us"),
+the **aims and types of punishment**, **crime prevention** (types of
+policing, surveillance), **repressive and ideological state
+apparatuses** and **interpellation** (concepts from the Marxist
+Althusser) and **hegemony** (from the Marxist Gramsci: rule through the
+consent of the governed to ruling-class ideas). The specification asks
+for social control to be read through functionalist, Marxist, feminist
+and social action/interactionist perspectives.
 
 ## Deviance, harm and crime (3.1.2.5)
 
@@ -107,8 +111,8 @@ measurement issues -- official/police statistics, self-report studies
 and victim surveys; and patterns of offending and victimisation by
 gender, social class, age and ethnicity.
 
-**Named sociologists for Unit 2:** Cohen, Fanon, Goffman, Mead, Mills,
-Zuboff.
+**Named sociologists for Unit 2:** Stanley Cohen, Fanon, Goffman, Mead,
+Mills, Zuboff.
 
 ## Research methods and theory, revisited
 
@@ -147,9 +151,9 @@ meaning together.
 
 Treating "deviance, harm and crime" as a footnote to social control
 rather than the full fifth sub-section it is. Describing stigmatised
-identities or state apparatuses without the named concepts (othering,
-interpellation, hegemony) the specification attaches to them. Naming
-no sociologists -- Cohen, Fanon, Goffman, Mead, Mills and Zuboff are
+identities or state apparatuses without the named concepts the
+specification lists alongside them (othering, interpellation, hegemony). Naming
+no sociologists -- Stanley Cohen, Fanon, Goffman, Mead, Mills and Zuboff are
 all directly assessable across this unit. Describing a research
 method's practical strengths and weaknesses without connecting the
 choice back to a theoretical justification, which is what
@@ -181,7 +185,7 @@ assessment, since both are examined at the end of that stage.
 
 OxfordAQA International AS and A-level Sociology (9690) specification,
 Version 1.0 —
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2025/08/oxfordaqa-international-a-level-sociology-specification.pdf),
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-a-level-sociology-specification.pdf),
 verified 2026-09-02. Unit 2 timing and marks: 1 hour 45 minutes, 60
 marks (Section A Socialisation and social control 40 marks; Section B
 Research methods and theory 20 marks). A specimen question paper and

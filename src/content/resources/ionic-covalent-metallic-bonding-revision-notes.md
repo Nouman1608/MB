@@ -87,7 +87,7 @@ other's, so the examiner can see where each electron came from.
 
 - **Ionic** (electron transfer) — e.g. **sodium chloride**: Na's one outer dot moves
   across to Cl, giving `[Na]⁺` (empty outer shell) and `[Cl]⁻` with 8 outer electrons.
-  **Magnesium oxide** is the same idea with two electrons transferred: `[Mg]²⁺` and
+  **Magnesium oxide** (0620 Extended/5070; Core covers only Group I with Group VII) is the same idea with two electrons transferred: `[Mg]²⁺` and
   `[O]²⁻`, both ions carrying a 2+/2− charge.
 - **Covalent** (electron sharing) — e.g. **water**, **methane** and **hydrogen
   chloride**: each shared pair sits between the two atoms, and every atom ends with a

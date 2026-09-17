@@ -50,7 +50,8 @@ achhi larki   (good girl - feminine)
 | Tense | Form | Example |
 |---|---|---|
 | **Present** | verb stem + ta/ti/te + hoon/hai/hain | *main parhta hoon* |
-| **Past habitual** | verb stem + ta/ti/te + tha/thi/the | *main parhta tha* |
+| **Simple past** | verb stem + a/i/e (a transitive verb such as *parhna* takes *ne* after the subject and agrees with the object) | *main ne kitaab parhi* (I read a book) |
+| **Past habitual** | verb stem + ta/ti/te + tha/thi/the | *main parhta tha* (I used to read) |
 | **Future** | verb stem + oon-ga/ega/enge | *main parhoon-ga* |
 | **Continuous** | rahaa/rahi/rahe + hai | *main parh rahaa hoon* |
 
@@ -112,4 +113,4 @@ Related: [Identity and Culture practice questions](/resources/igcse-urdu-identit
 6. Give an example of a comparative structure and explain why it is worth using.
 7. In the festival worked example, what five elements together produce a top-band response?
 
-**Answers:** 1. Subject–Object–Verb, with the verb at the end, whereas English uses Subject–Verb–Object. 2. Adjectives and verb endings must agree with the noun's gender, so an error in gender propagates through the sentence. 3. *main parhta hoon*, *main parhta tha*, *main parhoon-ga*. 4. Using only one tense caps the language mark regardless of accuracy, because range is assessed separately from correctness. 5. Including opinions with reasons, connectives such as *kyunke* and *lekin*, and a range of tenses. 6. e.g. *is se zyaada mushkil* (more difficult than this) — comparatives let an answer evaluate and compare rather than only describe, raising the range of structures used. 7. Present, past and future tenses; an opinion given with a reason; and one specific personal detail that only the candidate would know.
+**Answers:** 1. Subject–Object–Verb, with the verb at the end, whereas English uses Subject–Verb–Object. 2. Adjectives and verb endings must agree with the noun's gender, so an error in gender propagates through the sentence. 3. *main parhta hoon* (I read), *main ne parha* (I read, simple past; *parhna* is transitive, so the subject takes *ne*, and with an object the verb agrees with it: *main ne kitaab parhi*), *main parhoon-ga* (I will read). *main parhta tha* is the past habitual, "I used to read", not the simple past. 4. Using only one tense caps the language mark regardless of accuracy, because range is assessed separately from correctness. 5. Including opinions with reasons, connectives such as *kyunke* and *lekin*, and a range of tenses. 6. e.g. *is se zyaada mushkil* (more difficult than this) — comparatives let an answer evaluate and compare rather than only describe, raising the range of structures used. 7. Present, past and future tenses; an opinion given with a reason; and one specific personal detail that only the candidate would know.

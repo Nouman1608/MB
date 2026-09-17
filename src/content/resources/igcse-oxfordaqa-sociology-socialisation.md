@@ -41,8 +41,10 @@ the socialisation content itself — types of socialisation, its agencies,
 and the sociological perspectives applied to it — since this alone
 covers enough distinct content for a full resource. The concepts of
 culture and the sociological imagination (3.2.2.1), social control and
-its agencies (3.2.2.3), and crime and deviance (3.2.2.4) are left for
-separate resources.
+its agencies (3.2.2.3), and crime and deviance (3.2.2.4) are not covered
+here, and Marlbridge does not yet have a 9292 resource on them: revise
+those parts directly from the specification's content list and your
+textbook, since all three are examined on Paper 2.
 
 ## Syllabus coverage
 
@@ -179,4 +181,4 @@ explicit point of contrast.
 
 OxfordAQA International GCSE Sociology (9292) specification, Version
 1.0 —
-[oxfordaqa.com/9292](https://www.oxfordaqa.com/wp-content/uploads/2025/08/oxfordaqa-international-gcse-sociology-specification.pdf).
+[oxfordaqa.com/9292](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-sociology-specification.pdf).

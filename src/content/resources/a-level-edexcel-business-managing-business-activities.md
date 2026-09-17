@@ -75,7 +75,9 @@ terms, factoring and just-in-time inventory; working capital
 management; and the internal causes (poor cash-flow management,
 overestimated sales, overtrading, poor inventory control, poor
 marketing, poor quality) and external causes (market conditions,
-competition, economic factors, exchange rates) of business failure
+competition, economic factors, exchange rates, interest rates,
+government regulations, supplier problems, natural phenomena) of
+business failure
 - 2.3.4 Resource management — methods of production (job, batch, flow,
 cell), productivity, efficiency, the distinction between labour- and
 capital-intensive production, and competitive advantage from short

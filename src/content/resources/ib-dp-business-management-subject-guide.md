@@ -114,7 +114,7 @@ management toolkit**: fifteen named quantitative and qualitative tools
 matrix, business plans, decision trees, descriptive statistics and
 circular business models) applied across units rather than confined to
 a single one. Break-even analysis is not part of the toolkit -- it is
-syllabus content within Unit 4 (Operations management). The toolkit is
+syllabus content, sub-topic 5.5 of Unit 5 (Operations management). The toolkit is
 not level-neutral: seven of the fifteen tools (force field analysis,
 the Gantt chart, Hofstede's cultural dimensions, Porter's generic
 strategies, contribution, critical path analysis, and simple linear

@@ -74,7 +74,7 @@ list, which is a strong signal of exactly what examiners can ask.
   (overfishing, overharvesting, effects on target and bycatch species
   and on food chains); the definition of marine aquaculture as farming
   marine species (fish, crustaceans, seaweeds) in captivity — knowledge
-  of specific species is not required for that definition outcome only;
+  of specific species is not required for that definition outcome;
   the impacts of marine aquaculture itself (reduced exploitation of
   natural fisheries, increased food supply, risk of escape and disease,
   effects on local food webs, nutrient enrichment from waste, energy
@@ -87,7 +87,8 @@ list, which is a strong signal of exactly what examiners can ask.
 - 3.5 Oil pollution — the causes of oil pollution on marine and coastal
   ecosystems (off-shore/on-shore extraction, pipelines, shipping,
   tank-cleaning at sea, refineries); its impacts on birds, marine
-  mammals, fish, crustaceans, seaweeds, coral reefs and beaches;
+  mammals, fish, crustaceans, seaweeds, coral reefs and beaches (again,
+  knowledge of specific species is not required);
   prevention strategies (MARPOL, the International Convention for the
   Prevention of Pollution from Ships, double-hulled tankers, risk
   assessments, regular maintenance); and strategies for minimising
@@ -148,8 +149,8 @@ spraying programmes, or vaccination access gaps) rather than a generic
 ## Marine aquaculture (3.4)
 
 With five learning outcomes against three and four for its water-pollution and disease neighbours,
-this is actually one of the larger sub-topics in Topic 3, even though only one specific outcome within
-it (defining marine aquaculture itself) says species-specific knowledge is not required. Cover the
+this is actually one of the larger sub-topics in Topic 3, and within it only the outcome defining marine aquaculture
+itself (3.4.2) says species-specific knowledge is not required. Cover the
 *reasons* wild marine stocks are exploited (overfishing, overharvesting), the distinction between
 target and bycatch species, the impacts of aquaculture itself (not just of wild exploitation) on food
 webs, disease risk and energy use, and the full nine-item list of strategies for managing the
@@ -183,9 +184,10 @@ recycling, legislation and enforcement).
 - **Mixing up malaria and cholera control strategies** — vector control
   applies to malaria, not cholera, and vice versa for sanitation-based
   measures.
-- **Adding species-specific detail to the marine-aquaculture
-  definition outcome**, the one place the syllabus explicitly does
-  not require it.
+- **Adding species-specific detail where the syllabus says it is not
+  required** -- both the marine-aquaculture definition (3.4.2) and the
+  impacts of oil pollution (3.5.2) state that knowledge of specific
+  species is not required.
 - **Stopping revision at marine aquaculture (3.4)** and treating Topic
   3 as running only 1st-to-4th — two more sub-topics, oil pollution
   and plastic pollution, follow it and are equally examinable.

@@ -6,7 +6,7 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP History"]
-description: "An overview of IB Diploma Programme History -- a comparative, multi-perspective world history course built around six key concepts."
+description: "An overview of IB Diploma Programme History -- a comparative, multi-perspective world history course built around four historical concepts: cause and consequence, continuity and change, perspectives, and significance."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -29,15 +29,12 @@ challenging and demanding critical exploration of the past. Teachers
 explicitly teach thinking and research skills such as comprehension,
 text analysis, transfer, and the use of primary sources.
 
-Six key concepts have particular prominence throughout the course:
-change, continuity, causation, consequence, significance and
-perspectives. The IB's current DP History specification (first
-examined 2028, see "How it's assessed" below) consolidates these into
-four named concepts -- cause and consequence, continuity and change,
-perspectives, and significance -- covering the same underlying ideas
-in a revised structure, so both framings describe the same course
-philosophy rather than a change in what the subject is fundamentally
-about.
+The current course (first examined 2028, see "How it's assessed"
+below) is built around four historical concepts: cause and consequence,
+continuity and change, perspectives, and significance. Older textbooks
+and past papers written for the previous course refer instead to six
+key concepts (change, continuity, causation, consequence, significance
+and perspectives); use the four-concept framing for the current course.
 
 Briefly, in the specification's current four-concept framing: **cause
 and consequence** asks why events happened and what resulted; **continuity

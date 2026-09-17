@@ -34,7 +34,7 @@ Related: [Marketing study guide](/resources/igcse-business-marketing/) and
 
 **2.** Identify the four stages of the product life cycle, in order. **[2]**
 
-**3.** Give one example of primary research and one example of secondary research. **[2]**
+**3.** Identify one example of primary research and one example of secondary research. **[2]**
 
 ## Section B
 
@@ -48,14 +48,14 @@ detail from the scenario. **[3]**
 **5.** A well-established snack food, which has been on the market for many years with slowing sales
 growth, is approaching the maturity stage of its product life cycle.
 
-**(a)** Suggest one extension strategy the business could use, and explain how it might work. **[3]**
+**(a)** Identify one extension strategy the business could use, and explain how it might work. **[3]**
 **(b)** Explain how the product's position in its life cycle might influence its pricing strategy at
 this stage. **[3]**
 
 **6.** A business wants to expand into a foreign market for the first time.
 
 **(a)** Identify two problems the business might face when entering this new market. **[2]**
-**(b)** Suggest and justify one method the business could use to overcome these problems. **[3]**
+**(b)** Identify one method the business could use to overcome these problems, and justify your choice. **[3]**
 
 **7.** A supermarket segments its customers by age group, offering different promotions to teenagers,
 young families and retired customers. Explain one advantage this segmentation approach offers the

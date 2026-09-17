@@ -76,9 +76,15 @@ and an exponential term.
 | y | 4.50 | 2.00 | 2.44 |
 
 The y-values fall from x = 1 to x = 2 and then rise from x = 2 to x = 3,
-so the curve has a minimum somewhere between x = 2 and x = 3: the
-negative-power term dominates while x is small, pulling y down, and the
-exponential term takes over and pulls y back up as x increases.
+so the curve has a minimum somewhere between x = 1 and x = 3. The table
+cannot say which side of x = 2 it lies: the lowest tabulated value is at
+x = 2, but the true minimum could be a little before or after it.
+Working out more values narrows it down: y(1.5) ≈ 2.48 and y(2.5) ≈ 2.05
+are both above y(2) = 2.00, so the minimum lies between x = 1.5 and
+x = 2.5 (it is in fact near x = 2.2, where y ≈ 1.97). The shape comes
+from the two terms: the negative-power term dominates while x is small,
+pulling y down as x increases, and the exponential term takes over and
+pulls y back up for larger x.
 
 The functions this syllabus covers combine terms of the form axⁿ (for the
 specific list of powers n given above, including negative and fractional

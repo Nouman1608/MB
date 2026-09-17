@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-5-thermodynamics-radiation-oscillations-and-cosmology"
     subtopic: "thermodynamics-edexcel"
-description: "Condensed recall notes on internal energy, specific heat capacity, latent heat, the gas laws and kinetic theory for Edexcel International A Level Physics WPH15."
+description: "Condensed recall notes on internal energy, specific heat capacity, latent heat, the gas laws and kinetic theory for Edexcel International A Level Physics YPH11 (Unit 5, WPH15)."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
 featured: false

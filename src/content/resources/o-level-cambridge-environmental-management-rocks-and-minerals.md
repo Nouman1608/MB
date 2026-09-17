@@ -105,7 +105,7 @@ Metamorphic rocks form where rock meets new magma flows or lies along plate boun
 
 ## Minerals and reserves
 
-A **mineral** is a naturally occurring solid with a definite chemical composition and an ordered crystalline structure. Some, such as iron and bauxite, are abundant in crustal rock; others, such as gold, tin and copper, are rare in ordinary rock and occur only in concentrated deposits.
+A **mineral** is a naturally occurring solid with a definite chemical composition and an ordered crystalline structure. Quartz and feldspar are common minerals found in many rocks; haematite (mined for iron) and cassiterite (mined for tin) are examples of minerals worked for the metal they contain. Iron itself is a chemical element, not a mineral, and bauxite, mined for aluminium, is a rock made up of several aluminium-bearing minerals rather than a single mineral. The metals also differ in how common they are: iron and aluminium are among the most abundant elements in the Earth's crust, whereas tin, copper and gold are scarce and are worth mining only where they are concentrated.
 
 A **reserve** is a known deposit that has not yet been mined and could be extracted in future. Reserve figures are estimates, and they change — upwards when new deposits are discovered or when higher prices make lower-grade ore worth working, downwards as extraction proceeds. A resource becomes a reserve only when extraction is economically viable, which is why "how long will supplies last" questions cannot be answered by division alone.
 

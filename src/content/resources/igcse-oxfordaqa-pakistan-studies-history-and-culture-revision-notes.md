@@ -25,12 +25,12 @@ Condensed for the final weeks. For the full explanation, use the
 
 | Topic | Status | Coverage |
 |---|---|---|
-| 1.1 The Pakistan Movement (1857–1947) | Compulsory | Political/social developments leading to independence |
-| 1.2 Pakistan into the 21st Century (Independence–2022) | Compulsory | Political/social development since independence |
-| 1.3 Islam in the Subcontinent (c700–c1831) | Optional | — |
-| 1.4 The Mughal Empire (c1526–c1850s) | Optional | — |
+| 3.1.1 The Pakistan Movement (1857–1947) | Compulsory | Political/social developments leading to independence |
+| 3.1.2 Pakistan into the 21st Century (Independence–2022) | Compulsory | Political/social development since independence |
+| 3.1.3 Islam in the Subcontinent (c700–c1831) | Optional | — |
+| 3.1.4 The Mughal Empire (c1526–c1850s) | Optional | — |
 
-Confirm with your teacher which of 1.3/1.4 your course follows.
+Confirm with your teacher which of 3.1.3/3.1.4 your course follows.
 
 ## The Reform → 1857 → Aligarh → Partition chain
 
@@ -106,7 +106,7 @@ point of the entire narrative.
 
 - Listing events without explaining *causation* — "explain why" questions require linking cause to effect.
 - Treating Jinnah's position as fixed throughout — he moved from unity advocate to partition leader as circumstances (especially 1937-39 Congress rule) changed.
-- Confusing compulsory topics (1.1-1.2) with whichever optional topic (1.3 or 1.4) your course follows.
+- Confusing compulsory topics (3.1.1 and 3.1.2) with whichever optional topic (3.1.3 or 3.1.4) your course follows.
 
 ## Self-test
 

@@ -53,7 +53,7 @@ Method: clean nichrome wire in concentrated HCl, dip in sample, hold in a **blue
 | Cr³⁺ | Green precipitate | **Dissolves** in excess* |
 | NH₄⁺ | No precipitate; **warm** → ammonia gas | — |
 
-With **ammonia solution** instead: Zn²⁺ redissolves in excess, Al³⁺ does **not**. That is how you tell zinc from aluminium — a favourite question. Cr³⁺ behaves like Al³⁺ and Zn²⁺ with NaOH (precipitate dissolving in excess) but, like Al³⁺, stays **insoluble** in excess ammonia — so ammonia only ever separates the aluminium/chromium pair from zinc, never chromium from aluminium. (*The exact colour of the solution formed when chromium(III) hydroxide redissolves is additional detail beyond the core observation, not required.)
+With **ammonia solution** instead: Zn²⁺ redissolves in excess, Al³⁺ does **not**. That is how you tell zinc from aluminium — a favourite question. Cr³⁺ behaves like Al³⁺ and Zn²⁺ with NaOH (precipitate dissolving in excess) but, like Al³⁺, stays **insoluble** in excess ammonia — so the *excess* stage of either reagent cannot separate chromium from aluminium. The **precipitate colour** does, with either reagent: chromium(III) gives a **green** precipitate, aluminium a **white** one. (*The exact colour of the solution formed when chromium(III) hydroxide redissolves is additional detail beyond the core observation, not required.)
 
 **Ca²⁺ gives no useful precipitate with ammonia at all** — aqueous ammonia is too weak a base to precipitate the more soluble calcium hydroxide in any noticeable amount. That absence of a precipitate is itself the identifying observation, telling calcium apart from aluminium, chromium and zinc, which all give a precipitate with ammonia at the dropwise stage.
 

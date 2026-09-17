@@ -41,9 +41,10 @@ Global Politics sits within the individuals-and-societies subject group alongsid
 - Students investigate a political issue of **genuine personal interest** through **direct
   engagement**, not desk research alone.
 - Complemented with theoretical perspectives from research.
-- Submitted as a written report — the report itself is common to both SL and HL, but HL students
+- Submitted as a written report of up to 2,000 words at SL or 2,400 words at HL. HL students
   additionally carry out further research and formulate a **recommendation** addressing the
-  identified political issue, submitted as a separate section; SL students do not complete this task.
+  identified political issue, within that HL report and assessed by an extra criterion (F:
+  Recommendation); SL students do not complete this task.
 
 ## The engagement project in more depth
 
@@ -65,7 +66,7 @@ Like other individuals-and-societies DP subjects, Global Politics combines exter
 
 - Preparing Paper 1 and Paper 2 around only one or two of the core topics and thematic studies, when all of them are examinable.
 - Treating the engagement project as a research essay, missing the required direct-engagement component.
-- HL students underestimating Paper 3's case-study demands, since it's a distinct paper from Papers 1-2 -- and forgetting that HL's engagement project also requires a separate recommendation section that SL does not.
+- HL students underestimating Paper 3's case-study demands, since it's a distinct paper from Papers 1-2 -- and forgetting that HL's engagement project report must also include a well-supported recommendation, assessed by a criterion SL does not have.
 
 ## Self-test
 

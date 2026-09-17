@@ -55,7 +55,7 @@ Related: [Multi-Step Synthesis Routes revision notes](/resources/a-chemistry-syn
 
 **(b)** Route 2 converts the acid to ethanoyl chloride first. State the reagent for that conversion, and explain why this route gives a better yield. **[3]**
 
-**6.** Explain why aqueous KOH and ethanolic KOH give different products with 1-bromopropane, naming both products. **[3]**
+**6.** 1-Bromopropane is heated with NaOH(aq) in one experiment and with NaOH in ethanol in another. Explain why the two give different products, naming both products. **[3]**
 
 **7.** Benzene is converted to phenylethanone (C₆H₅COCH₃) in one step, and methylbenzene is converted to benzoic acid in a separate reaction.
 
@@ -93,13 +93,13 @@ Step 2: **dilute HCl(aq), heat under reflux** [1] → butanoic acid [1].
 
 **(b)** **SOCl₂** [1]. The reaction of an acyl chloride with an alcohol is **fast, irreversible and near-quantitative** at room temperature [1], so the yield is much higher than the equilibrium-limited esterification [1].
 
-**6.** **Aqueous** KOH gives **nucleophilic substitution** → **propan-1-ol** [1]. **Ethanolic** KOH gives **elimination** → **propene** [1]. The solvent determines whether OH⁻ acts as a nucleophile or as a base [1].
+**6.** **NaOH(aq)** and heat gives **nucleophilic substitution** → **propan-1-ol** [1]. **NaOH in ethanol** and heat gives **elimination** of HBr → **propene** [1]. The solvent determines whether OH⁻ acts mainly as a nucleophile or as a base [1].
 
 **7. (a)** **Ethanoyl chloride (CH₃COCl) with an AlCl₃ catalyst** [1] — this is **Friedel–Crafts acylation** [1], an **electrophilic substitution** [1].
-**(b)** **Acidified potassium manganate(VII) (KMnO₄/H₂SO₄), heated under reflux** [1]; this oxidises any alkyl side chain with at least one **benzylic hydrogen** (a hydrogen on the carbon directly attached to the ring) all the way down to a single **–COOH group** on the ring, regardless of how long the chain was — a side chain with no benzylic hydrogen, such as the tert-butyl group in tert-butylbenzene, is not oxidised this way [1].
+**(b)** **Hot alkaline potassium manganate(VII)** (KMnO₄ with NaOH(aq)) [1], **then dilute acid** (e.g. dilute H₂SO₄), which converts the benzoate ion formed in the alkaline mixture into benzoic acid [1]. *The side chain is oxidised all the way down to a single –COOH group on the ring, regardless of how long the chain was, provided the carbon attached to the ring carries at least one hydrogen; a side chain with no such hydrogen, such as the tert-butyl group in tert-butylbenzene, is not oxidised this way.*
 
-**8. (a)** **Concentrated nitric acid with concentrated sulfuric acid** (as catalyst) [1], at a temperature of about **55 °C** [1], generating the electrophile NO₂⁺ [1].
-**(b)** Above about 55 °C, a **second nitro group is introduced (dinitration)**, giving a mixture of dinitrobenzene isomers as well as the desired mononitrobenzene, reducing the yield of the intended product [1]; keeping the temperature controlled ensures the reaction stops at a single substitution [1].
+**8. (a)** **Concentrated nitric acid with concentrated sulfuric acid** (as catalyst) [1], at a temperature **between 25 °C and 60 °C** [1], generating the electrophile NO₂⁺ [1].
+**(b)** Above about 60 °C, a **second nitro group is introduced (dinitration)**, giving a mixture of dinitrobenzene isomers as well as the desired mononitrobenzene, reducing the yield of the intended product [1]; keeping the temperature within the 25–60 °C range ensures the reaction stops at a single substitution [1].
 
 ---
 
@@ -111,19 +111,19 @@ Step 2: **dilute HCl(aq), heat under reflux** [1] → butanoic acid [1].
 - Routes that gain or lose carbons with no reaction accounting for it.
 - Using NaBH₄ on a nitrile or carboxylic acid.
 - Forgetting AlCl₃ as the catalyst in a Friedel–Crafts reaction, or calling it addition rather than electrophilic **substitution**.
-- Forgetting the risk of dinitration if the nitration temperature is not carefully controlled at about 55 °C.
+- Forgetting the risk of dinitration if the nitration temperature is not kept within 25–60 °C.
 
 ## Bringing aliphatic and aromatic routes together
 
 A synthesis question can require moving between an aliphatic starting
 material and an aromatic ring in the same route, so it is worth
 holding the aromatic-specific reactions in mind alongside the aliphatic
-interconversion ladder above: **nitration** (conc. HNO₃/H₂SO₄, ~55°C)
+interconversion ladder above: **nitration** (conc. HNO₃/H₂SO₄, 25–60 °C)
 introduces a nitro group that can then be reduced to an amine (Sn/conc.
 HCl, then NaOH); **Friedel–Crafts alkylation** (RCl/AlCl₃) and
 **acylation** (RCOCl/AlCl₃) attach an alkyl or acyl group directly to
-the ring; and oxidising an alkyl side chain with hot acidified KMnO₄
-converts it all the way to a **–COOH group** regardless of its original
+the ring; and oxidising an alkyl side chain with hot alkaline KMnO₄, then
+dilute acid, converts it all the way to a **–COOH group** regardless of its original
 length, which is a distinct reaction from the aliphatic alcohol
 oxidation ladder covered earlier. For the full reagent table and
 worked routes, see the [Multi-Step Synthesis Routes revision notes](/resources/a-chemistry-synthesis-routes-revision-notes/).

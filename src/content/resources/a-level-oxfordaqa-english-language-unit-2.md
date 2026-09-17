@@ -68,9 +68,11 @@ most valuable exam-technique skill for this unit: read for evidence in
 Section A with an eye to what argument it could support in Section B,
 rather than treating the two sections as unrelated tasks. Since the
 source texts can be spoken, written or multimodal, revision should
-include a genuine range of text types -- an interview transcript, a
-piece of persuasive writing, an example of in-group banter or
-wordplay -- rather than only written prose, so that unfamiliar text
+include a genuine range of text types -- an interview transcript
+(spoken), a piece of persuasive writing (written), a multimodal text
+such as a meme or an advertisement in which image and words work
+together, and an example of in-group banter or wordplay -- rather than
+only written prose, so that unfamiliar text
 types in the exam do not come as a surprise.
 
 ## Common mistakes
@@ -117,7 +119,8 @@ social work the specification asks students to identify.
 social functions: group rapport, power and status, identity and
 relationship, and play and performance.
 - Analyse a range of text types for Section A -- spoken transcripts,
-persuasive writing, and multimodal or informal material -- not only
+persuasive writing, multimodal texts that combine words and images,
+and informal material such as banter -- not only
 formal written prose.
 - Practise moving directly from a Section A analysis into a Section B
 academic essay that uses that analysis as evidence.

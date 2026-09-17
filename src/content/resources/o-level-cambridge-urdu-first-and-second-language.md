@@ -160,11 +160,13 @@ Copying from the passage where own words are required. Writing at length for low
   full worked answers
 - [Cambridge IGCSE Urdu as a Second Language: Paper 1 Reading and Writing
   (0539)](/resources/igcse-cambridge-urdu-paper-1-reading-writing/) —
-  the same Paper 1 skill set at the **same level** (Cambridge states
-  O-Level, IGCSE and numeric-grade IGCSE Urdu are equivalent), for
+  the same Paper 1 skill set at the **same level** (each syllabus states
+  that Cambridge O Level, Cambridge IGCSE and Cambridge IGCSE (9–1)
+  syllabuses are at the same level; none of the three Urdu syllabuses
+  names an IGCSE (9–1) Urdu syllabus), for
   candidates studying towards Cambridge IGCSE Urdu instead — note that
-  the three syllabuses are mutually exclusive combinations within a
-  single examination series
+  3247, 3248 and 0539 each list the other two as syllabuses that cannot
+  be taken with it in the same examination series
 - [Cambridge IGCSE Urdu as a Second Language: Paper 1 Reading and
   Writing — Practice
   Questions](/resources/urdu-reading-and-writing-practice/) — exam-style

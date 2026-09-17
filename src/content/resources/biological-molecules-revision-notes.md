@@ -79,10 +79,15 @@ See the [Biological Molecules study guide](/resources/biological-molecules/) for
 - Forgetting biuret can be a single ready-made solution **or** sodium hydroxide followed by copper sulfate — either is creditable.
 - Assuming every food test needs heating — only Benedict's does; iodine, biuret and the emulsion test are all room-temperature tests.
 
-## Worked example: testing for a non-reducing sugar
+## Beyond the syllabus: what a negative Benedict's result does not show
 
-An unknown solution gives a negative Benedict's test result at first,
-but the question asks whether it might still contain sugar.
+**Not required for 5090.** Syllabus 4.1.3 lists four food tests only: starch
+(iodine solution), glucose and maltose (Benedict's solution), protein (biuret
+test) and lipids (ethanol emulsion test). The extra procedure below is not one
+of them and is included only as background.
+
+An unknown solution gives a negative Benedict's test result, but it might
+still contain a sugar that Benedict's solution does not detect.
 
 ```
 Step 1: Boil a fresh sample with dilute hydrochloric acid, then
@@ -95,10 +100,10 @@ hydrolysed into reducing sugars the standard Benedict's test can
 detect.
 ```
 
-A negative result on the first Benedict's test alone is not enough to
-conclude "no sugar present" — it only rules out a **reducing** sugar,
-which is why this follow-up hydrolysis step is worth remembering as
-part of the full food-test toolkit.
+The point to keep for 5090: a negative Benedict's result shows that no
+glucose or maltose (no reducing sugar) is present, not that the sample
+contains no sugar at all. For the exam, learn the four tests in the table
+above.
 
 ## Self-test
 

@@ -106,7 +106,7 @@ Choosing NaBH₄ when a nitrile must be reduced is a common error.
 
 - Writing "oxidise" without naming the reagent **and** the conditions.
 - Reflux where distillation is needed, so the aldehyde over-oxidises.
-- Aqueous KOH (gives alcohol) versus ethanolic KOH (gives alkene) — the solvent decides the product.
+- NaOH(aq) and heat (gives the alcohol) versus NaOH in ethanol and heat (gives the alkene) — the solvent decides the product.
 - Forgetting the second stage of nitrobenzene reduction: NaOH is needed to liberate the free amine from its salt.
 - Using NaBH₄ on a nitrile or carboxylic acid.
 - Routes that lose or gain carbons with no reaction that could account for it.
@@ -117,10 +117,10 @@ Choosing NaBH₄ when a nitrile must be reduced is a common error.
 
 1. How do you convert a halogenoalkane into a carboxylic acid with one extra carbon?
 2. What single difference gives an aldehyde rather than a carboxylic acid from an alcohol?
-3. Which reagent distinguishes aqueous from ethanolic KOH in outcome?
+3. A halogenoalkane is heated with NaOH. What decides whether the product is an alcohol or an alkene?
 4. Name the reagents for converting benzene into phenylamine.
 5. Which reducing agent would you use for a nitrile, and why not the other?
 6. What condition is essential for forming a diazonium salt, and why?
 7. In the route benzoic acid → benzoyl chloride → benzamide, name the reaction type and by-product of the final step.
 
-**Answers:** 1. KCN in ethanol under reflux to form the nitrile, then dilute HCl(aq) under reflux to hydrolyse it to the carboxylic acid. 2. Distil the aldehyde off as it forms rather than refluxing, so it cannot be oxidised further. 3. KOH itself — aqueous gives nucleophilic substitution to the alcohol, ethanolic gives elimination to the alkene. 4. Conc. HNO₃ with conc. H₂SO₄ between 25 and 60 °C, then Sn with conc. HCl, then NaOH to liberate the amine. 5. LiAlH₄ in dry ether (or H₂/Ni); NaBH₄ is not powerful enough to reduce a nitrile. 6. The temperature must stay below 10°C, since the diazonium salt decomposes above this temperature before it can be used. 7. Condensation (addition-elimination), using excess ammonia at room temperature; the by-product is ammonium chloride, NH₄Cl.
+**Answers:** 1. KCN in ethanol under reflux to form the nitrile, then dilute HCl(aq) under reflux to hydrolyse it to the carboxylic acid. 2. Distil the aldehyde off as it forms rather than refluxing, so it cannot be oxidised further. 3. The solvent — NaOH(aq) and heat gives nucleophilic substitution to the alcohol; NaOH in ethanol and heat gives elimination to the alkene. 4. Conc. HNO₃ with conc. H₂SO₄ between 25 and 60 °C, then Sn with conc. HCl, then NaOH to liberate the amine. 5. LiAlH₄ in dry ether (or H₂/Ni); NaBH₄ is not powerful enough to reduce a nitrile. 6. The temperature must stay below 10°C, since the diazonium salt decomposes above this temperature before it can be used. 7. Condensation (addition-elimination), using excess ammonia at room temperature; the by-product is ammonium chloride, NH₄Cl.

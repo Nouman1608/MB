@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-introducing-sociology-9292"
-description: "Families, education, and research methods -- the full content of Paper 1 Introducing Sociology for OxfordAQA International GCSE Sociology (9292)."
+description: "A guide to Paper 1 Introducing Sociology for OxfordAQA International GCSE Sociology (9292): families (3.1.1), education including global education (3.1.2) and research methods (3.1.3), with the named sociologists for each."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
@@ -40,9 +40,10 @@ SOCIOLOGY**
 
 - 3.1.1 Families — family types, marriage, perspectives on the family,
 social change and family diversity, and gender/age in family life
-- 3.1.2 Education — the official and hidden curriculum, perspectives
-on education, labelling and the self-fulfilling prophecy, and
-educational attainment
+- 3.1.2 Education — education and schooling, perspectives on
+education, relationships and processes in schools (labelling and the
+self-fulfilling prophecy), educational attainment, and global education
+(3.1.2.5)
 - 3.1.3 Research Methods — the methods sociologists use to investigate
 social life (shared with Paper 2)
 
@@ -70,7 +71,7 @@ otherwise similar sociology specifications.
 
 OxfordAQA International GCSE Sociology (9292) specification, Version
 1.0 —
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2025/08/oxfordaqa-international-gcse-sociology-specification.pdf).
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-sociology-specification.pdf).
 
 ## Families (3.1.1)
 
@@ -130,8 +131,28 @@ classroom can operate through the same labelling process.
 **Educational attainment:** differences by social class (cultural
 capital, resources for study), gender (subject-choice patterns, gendered
 expectations) and ethnicity (differing teacher expectations,
-stereotyping); **credentialism** raises measurement issues when
-comparing attainment across groups.
+stereotyping), and the intersections of these. Attainment is measured
+through examinations and IQ tests, each open to criticism, and
+**credentialism** (the growing emphasis on formal qualifications as the
+route into jobs) raises the stakes of those measures.
+
+**Global education (3.1.2.5):** the specification lists **literacy
+rates** (global rates and comparisons between countries); **differences
+in educational provision** around the world (for example how many years
+of schooling are free and compulsory, class sizes, trained teachers,
+school buildings and materials); the **effects of poverty on schools
+and education** (children kept at home to work or care for siblings,
+school fees and uniform costs, underfunded schools); **gender and other
+inequalities in access to education** (in some
+societies girls are more likely to leave school early through early
+marriage, domestic work or safety concerns, and disability, rural
+location and conflict also limit access; UNESCO reports that about
+two-thirds of adults without basic literacy skills are women); and
+**inequalities in access to digital education** (devices,
+electricity and internet connection, which became especially visible
+when schools closed during the COVID-19 pandemic). Use examples from
+your own society or one you know about, and link explanations back to
+the perspectives in 3.1.2.2.
 
 ## Research methods (3.1.3 — shared with Paper 2)
 
@@ -188,6 +209,8 @@ with one named sociologist for each.
 - Explain how labelling can produce a self-fulfilling prophecy in
 school, referencing Becker.
 - Explain factors linked to differences in educational attainment.
+- Compare literacy rates and educational provision between countries,
+and explain how poverty, gender and digital access affect education.
 - Compare research methods on reliability, validity and
 representativeness.
 - Choose and justify a method for a specific research aim, and apply

@@ -42,11 +42,12 @@ planning one paragraph per text.
 
 ## The individual oral: frame the global issue narrowly
 
-A tightly framed global issue, evidenced with specific textual detail from both a literary and a
-non-literary text, consistently scores more highly than a broad theme only gestured at in general
+The oral examines a global issue through one literary work and one non-literary body of work, with
+an extract of no more than 40 lines chosen from each. A tightly framed global issue, evidenced with
+specific detail from both the work and the body of work, consistently scores more highly than a broad theme only gestured at in general
 terms. **Exam-preparation priority**: when choosing and preparing the global issue, practise stating
 it as a specific, arguable claim (e.g. "how consumer advertising exploits anxiety about ageing," not
-just "media and society"), and rehearse pointing to precise moments in both texts as evidence, since
+just "media and society"), and rehearse pointing to precise moments in both the work and the body of work as evidence, since
 focus and organisation are explicitly graded criteria.
 
 ## The HL essay: write independent argument, not an expanded exam answer
@@ -65,8 +66,9 @@ assessment bands.
 
 ## Worked practice scenario: narrowing a global issue for the oral
 
-A student has studied a novel about a family business and a set of print advertisements as their two
-texts, and wants to explore "identity" as a global issue -- too broad to analyse precisely in the
+A student has chosen a novel about a family business as their literary work and one brand's print
+advertising campaign as their non-literary body of work, with an extract from each, and wants to
+explore "identity" as a global issue -- too broad to analyse precisely in the
 time available.
 
 ```
@@ -81,13 +83,14 @@ Narrowed:         "How financial precarity shapes characters' and consumers'
 Why it's
 stronger:          The narrowed version gives a precise claim to argue,
                   which structures the whole response and makes it easy
-                  to select focused, specific evidence from both texts --
+                  to select focused, specific evidence from both the novel
+                  and the campaign --
                   rather than surveying "identity" generally, which
                   invites description over analysis.
 ```
 
-This narrow-a-broad-theme-into-a-specific-claim step applies to any global issue chosen for the
-oral, regardless of the two texts studied.
+This narrow-a-broad-theme-into-a-specific-claim step applies to any global issue for the oral,
+whichever work and body of work are selected.
 
 ## Before/during exam checklist
 
@@ -101,7 +104,8 @@ oral, regardless of the two texts studied.
 - **During Paper 2**: check each body paragraph references both texts, not just one, before moving
   on.
 - **During the individual oral**: keep evidence specific and drawn from precise moments in both
-  texts, and manage time so both texts receive genuinely balanced treatment.
+  extracts, and manage time so the literary work and the non-literary body of work receive genuinely
+  balanced treatment.
 
 ## Self-test
 
@@ -115,7 +119,7 @@ expected to work from directly; ignoring it in favour of a broad, generic close 
 even when the textual observations are accurate. 2. Treating the two studied texts as separate
 mini-essays rather than building one sustained argument that interweaves evidence from both. 3.
 Because it gives a precise, arguable claim that can be traced through specific, named moments in both
-texts, rather than surveying a broad theme in general terms that invites description over analysis.
+the literary work and the body of work, rather than surveying a broad theme in general terms that invites description over analysis.
 4. Because it is produced independently, outside exam conditions, with regular formative feedback but
 written advice on only one complete draft (which the teacher may not edit), so examiners expect more sustained argument and more precisely selected textual
 evidence than a timed response can typically produce.

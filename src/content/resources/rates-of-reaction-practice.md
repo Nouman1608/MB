@@ -35,7 +35,7 @@ featured: false
 
 Related: [Rates of Reaction revision notes](/resources/rates-of-reaction-revision-notes/)
 
-> **Tier note:** questions and parts marked *(0620 Extended, 5070 required)* — collision theory explanations and equilibrium/Haber-process reasoning — go beyond 0620 Core. All other questions are answerable by a 0620 Core candidate.
+> **Tier note:** questions marked *(0620 Extended, 5070 required)* — collision theory explanations, equilibrium, and all of the Haber process (its equation, the sources of nitrogen and hydrogen, the conditions and the reasoning behind them) — go beyond 0620 Core. All other questions are answerable by a 0620 Core candidate; where an answer adds an Extended point, it is labelled and not needed for the marks.
 
 ---
 
@@ -70,11 +70,11 @@ Related: [Rates of Reaction revision notes](/resources/rates-of-reaction-revisio
 **(a)** Write the equation for the reversible reaction between them, including state symbols and colours. **[2]**
 **(b)** Explain why this reaction is described as reversible, and state how you would reverse it once it has gone one way. **[2]**
 
-**7.** The Haber process is represented by `N₂(g) + 3H₂(g) ⇌ 2NH₃(g)`, typically run at 450 °C, 200 atm, with an iron catalyst.
+**7.** *(0620 Extended, 5070 required)* The Haber process is represented by `N₂(g) + 3H₂(g) ⇌ 2NH₃(g)`, typically run at 450 °C, 200 atm, with an iron catalyst.
 
 **(a)** State the source of the nitrogen and of the hydrogen used. **[2]**
-**(b)** *(0620 Extended, 5070 required)* Explain why a pressure of 200 atm is used rather than a much higher pressure, given that higher pressure would increase the yield. **[2]**
-**(c)** *(0620 Extended, 5070 required)* Explain why the iron catalyst is used, given that it has no effect on the position of equilibrium. **[2]**
+**(b)** Explain why a pressure of 200 atm is used rather than a much higher pressure, given that higher pressure would increase the yield. **[2]**
+**(c)** Explain why the iron catalyst is used, given that it has no effect on the position of equilibrium. **[2]**
 
 ---
 
@@ -86,11 +86,11 @@ Related: [Rates of Reaction revision notes](/resources/rates-of-reaction-revisio
 **(b)** More acid particles per unit volume [1], so **collisions are more frequent** [1].
 **(c)** Particles have **more kinetic energy** and move faster, so they collide more often [1]. More importantly, a **greater proportion of collisions have energy above the activation energy** [1], so more are successful [1].
 
-**3. (a)** The **concentration of reactants is highest** at the start [1], so collisions are most frequent [1].
+**3. (a)** The **concentration of reactants is highest** at the start [1], so the **rate of reaction is greatest** then [1]. *(Extended: because collisions between reacting particles are most frequent.)*
 **(b)** A reactant has been **used up** — either it has run out or its concentration has fallen very low [1], so no more product is formed [1].
 **(c)** The graph would be **steeper initially** [1] but level off at the **same final volume** [1], because the catalyst increases the rate but does not change the amount of product formed [1].
 
-**4.** It **increases the rate of reaction** [1] by providing an **alternative route of lower activation energy** [1], and it is **not used up** in the process. In industry, this means reactions can run at **lower temperatures**, saving energy and cost [1].
+**4.** It **increases the rate of reaction** [1] and is **unchanged at the end of the reaction** (it is not used up) [1]. In industry, this means reactions can run at **lower temperatures**, saving energy and cost [1]. *(Extended: it works by providing an alternative route of lower activation energy.)*
 
 **5.** *(0620 Extended, 5070 required)* **(a)** The **forward and reverse reactions occur at the same rate** [1], so the **concentrations of all species remain constant** in a closed system [1].
 **(b)** Yield **increases** [1] — there are **4 moles of gas on the left and 2 on the right**, so higher pressure favours the side with fewer gas moles [1].
@@ -100,9 +100,9 @@ Related: [Rates of Reaction revision notes](/resources/rates-of-reaction-revisio
 **6. (a)** CuSO₄·5H₂O(s) ⇌ CuSO₄(s) + 5H₂O(l) [1]; **blue** hydrated salt ⇌ **white** anhydrous salt [1].
 **(b)** It is reversible because heating the blue hydrated salt drives off the water of crystallisation, leaving the white anhydrous salt [1], and adding water to the white anhydrous salt reverses this, turning it back to blue [1].
 
-**7. (a)** Nitrogen is obtained from the air; hydrogen from methane (natural gas) [1] [1].
-**(b)** *(0620 Extended, 5070 required)* Very high pressures are expensive to generate and maintain, and present safety risks, so 200 atm is a compromise between yield and cost/safety, not the highest pressure achievable [1] [1].
-**(c)** *(0620 Extended, 5070 required)* The catalyst speeds up both the forward and reverse reactions equally, so it lets equilibrium be reached quickly at a moderate temperature [1], without needing the higher temperature that would otherwise shift the equilibrium away from ammonia, since the forward reaction is exothermic [1].
+**7.** *(0620 Extended, 5070 required)* **(a)** Nitrogen is obtained from the air; hydrogen from methane (natural gas) [1] [1].
+**(b)** Very high pressures are expensive to generate and maintain, and present safety risks, so 200 atm is a compromise between yield and cost/safety, not the highest pressure achievable [1] [1].
+**(c)** The catalyst speeds up both the forward and reverse reactions equally, so it lets equilibrium be reached quickly at a moderate temperature [1], without needing the higher temperature that would otherwise shift the equilibrium away from ammonia, since the forward reaction is exothermic [1].
 
 ---
 

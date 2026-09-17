@@ -38,9 +38,10 @@ place described, or the people involved. **[4]**
 between the writers' situations and their attitudes toward the subject
 they describe. **[8]**
 
-**3.** From Source B, select **one** short phrase you find effective
-and explain the writer's use of language, including the effect
-created. **[12]**
+**3.** Choose one paragraph or section of Source B. How does the writer
+use language to convey their attitude towards the subject they
+describe? Refer to a range of words, phrases and language features in
+your answer. **[12]**
 
 **4.** Compare how the two writers present their different
 perspectives on [the shared theme of your chosen extracts], referring
@@ -69,11 +70,13 @@ each one in a single block, and keep to summarising *what* differs
 rather than analysing *how* the writers' language creates it, which
 belongs to Question 3.
 
-**3.** Follow the same three-step method as any language-analysis
-question: quote a short, precise phrase from Source B; name the
-technique (word class, imagery, connotation); explain the specific
-effect created, tied to the writer's evident attitude in this extract
-specifically — not a generic comment that could apply to any text.
+**3.** At 12 marks this is a longer answer, so analyse several
+examples from across your chosen section rather than a single phrase.
+For each, use the same three-step method: quote a short, precise word
+or phrase; name the technique where it helps (word class, imagery,
+connotation, sentence form); and explain the specific effect created,
+tied to the writer's evident attitude in this extract — not a generic
+comment that could apply to any text.
 
 **4.** The highest-value skill this question rewards is genuine,
 sustained comparison of **method**, not just content: for each point,
@@ -97,8 +100,8 @@ even-handedness.
 
 ## Building comparison points quickly
 
-Question 4's comparison of perspectives is where most of Paper 2's marks
-sit, so it is worth practising a fast method for generating comparison
+Question 4's comparison of perspectives is the highest-tariff reading
+question on Paper 2 (16 of the paper's 80 marks), so it is worth practising a fast method for generating comparison
 points before writing a full answer. A reliable approach: read both
 sources once each for overall sense, then draw a simple two-column
 table headed with each source's title, and fill in short notes under

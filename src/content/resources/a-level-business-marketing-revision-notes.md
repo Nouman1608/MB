@@ -64,7 +64,7 @@ tables/charts/graphs.
 | **Promotion** | Advertising, sales, direct, digital promotion; packaging; branding |
 | **Place** | Distribution channels — digital and physical |
 
-**"Recommend and justify" is the dominant question format** — know
+**Be ready to advise on a pricing method and justify it** — know
 *which market condition* suits each pricing method, not just its
 definition (e.g. penetration pricing for a new entrant building
 market share quickly; skimming for a genuinely novel product with
@@ -100,8 +100,8 @@ Contrast:             Penetration pricing (a low initial price to
 Practising this recommend-justify-contrast structure -- naming the
 method, justifying it with a scenario detail, then contrasting it
 with the alternative that would suit a different scenario -- is a
-reliable way to demonstrate the depth "recommend and justify"
-questions reward.
+reliable way to demonstrate the depth that questions asking you to
+advise on and justify a method reward.
 
 ## Data response questions on marketing
 

@@ -153,7 +153,10 @@ Bottom:  T − mg = mv²/r   =>   T = mv²/r + mg
 ```
 
 The tension (or normal force) is **greatest at the bottom** and **least at
-the top**, differing by 2mg between the two points. At the top, the
+the top**. Subtracting the two equations gives a difference of 2mg only
+if the speed is the same at both points; for an object moving freely with
+energy conserved, v² at the bottom exceeds v² at the top by 4gr (from
+½mv_bottom² = ½mv_top² + mg × 2r), and the difference is 6mg. At the top, the
 **minimum speed** occurs when T falls to zero, so that gravity alone
 supplies the entire centripetal force:
 

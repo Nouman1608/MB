@@ -25,7 +25,7 @@ featured: false
 
 Related: [Development of Practical Skills revision notes](/resources/ocr-a-level-biology-practical-skills-revision-notes/)
 
-*OCR's real H420 papers open with a whole-paper Section A of 15 multiple-choice questions (15 marks, four options A–D, single answer) before a longer Section B of short-answer and extended-response questions; the multiple-choice sample below is scoped to this topic (Development of Practical Skills) only, and is not a reproduction of a full paper's Section A.*
+*In OCR's H420 papers, Biological processes (H420/01) and Biological diversity (H420/02), each 100 marks, open with a Section A of multiple-choice questions worth 15 marks, followed by a Section B of short-answer and extended-response questions worth 85 marks; Unified biology (H420/03, 70 marks) has no multiple-choice section. The multiple-choice sample below is scoped to this topic (Development of Practical Skills) only, and is not a reproduction of a full paper's Section A.*
 
 ---
 

@@ -44,7 +44,9 @@ PRIMARY, DISTIL immediately     ->  ALDEHYDE
 PRIMARY, REFLUX with excess     ->  CARBOXYLIC ACID
         (keeps it in the flask so oxidation completes)
 
-SECONDARY, reflux               ->  KETONE
+SECONDARY, DISTIL               ->  KETONE
+        (the syllabus method; the ketone is not oxidised
+         further even if the mixture is refluxed)
 
 TERTIARY                        ->  no reaction, stays ORANGE
 ```

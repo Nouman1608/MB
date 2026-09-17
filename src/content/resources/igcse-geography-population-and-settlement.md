@@ -43,8 +43,11 @@ the syllabus expects across all three themes.
 
 **CAMBRIDGE IGCSE GEOGRAPHY 0460 — THEME 1 POPULATION AND SETTLEMENT**
 
-- 1.1 Population Dynamics — the causes of rapid population growth and
-change, including birth and death rates
+- 1.1 Population Dynamics — the causes of rapid world population growth
+and of change in population size, including birth rates, death rates
+and migration; contrasting rates of natural population change;
+over-population and under-population; and describing and evaluating
+population policies
 - 1.2 Migration — the causes and consequences of national and
 international migration, both voluntary and forced
 - 1.3 Population Structure — the causes and consequences of different

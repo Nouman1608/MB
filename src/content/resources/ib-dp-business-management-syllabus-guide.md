@@ -146,8 +146,9 @@ cross-unit -- a single unseen case study can require you to apply
 concepts from Unit 1 stakeholder analysis alongside Unit 3 ratio
 calculations in the same answer, so revising units in isolation from
 each other leaves a real gap. Paper 2, by contrast, is built around
-unseen quantitative stimulus material, which makes Unit 3's numerical
-tools (ratio analysis, investment appraisal, break-even) worth
+unseen quantitative stimulus material, which makes the numerical tools
+(Unit 3's ratio analysis and investment appraisal, and Unit 5's 5.5
+break-even analysis) worth
 practising under timed conditions specifically, rather than only
 reading through the formulae. Since the business research project
 (internal assessment) requires selecting a real organization and issue,

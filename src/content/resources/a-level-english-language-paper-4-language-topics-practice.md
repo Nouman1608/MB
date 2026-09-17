@@ -106,8 +106,8 @@ Para 2: link to wider knowledge of sociolect and identity -- how
         getting it wrong can mark someone as an outsider
 Para 3: connect to a named influence from wider study -- occupation
         and workplace as a source of shared sociolect, comparable to
-        the way region, age or social group produce their own
-        sociolects
+        the way age or social class produce their own sociolects
+        (region, by contrast, produces dialects)
 Para 4: a considered conclusion on what the extract reveals about the
         relationship between language choices and social identity
 ```

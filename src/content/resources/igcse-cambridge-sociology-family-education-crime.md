@@ -86,8 +86,11 @@ feminism's joint-versus-segregated conjugal roles and domestic division
 of labour — since exam questions reward specific concepts over generic
 "the family benefits society" statements. For changing family life,
 connect causes to effects directly: falling birth rates and rising life
-expectancy explain an ageing population, which in turn explains
-emerging roles like the "sandwich generation" and "boomerang children."
+expectancy explain an ageing population (4.3.1), which in turn helps
+explain effects such as more generations alive at once (beanpole
+families), the pivot or "sandwich generation", and changing roles of
+grandparents. "Boomerang children" belong to the changing roles of
+children (4.3.5), not to the effects of an ageing population.
 
 ## Education (Topic 5)
 

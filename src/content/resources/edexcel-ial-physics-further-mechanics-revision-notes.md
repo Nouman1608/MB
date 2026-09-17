@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-4-further-mechanics-fields-and-particles"
     subtopic: "further-mechanics"
-description: "Condensed recall notes on momentum in two dimensions, circular motion and centripetal force for Edexcel International A Level Physics WPH14."
+description: "Condensed recall notes on momentum in two dimensions, circular motion and centripetal force for Edexcel International A Level Physics YPH11 (Unit 4, WPH14)."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
 featured: false

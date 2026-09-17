@@ -52,11 +52,11 @@ Related: [Paper 2 – Listening study guide](/resources/igcse-cambridge-urdu-pap
 
 > "ہماری لائبریری ہر روز صبح آٹھ بجے کھلتی ہے اور شام پانچ بجے بند ہوتی ہے۔ اس میں تقریباً دس ہزار کتابیں موجود ہیں، جن میں کہانیاں، تاریخ اور سائنس کی کتابیں شامل ہیں۔ طالب علم ایک وقت میں دو کتابیں دو ہفتوں کے لیے لے جا سکتے ہیں۔ اگر کتاب وقت پر واپس نہ کی جائے تو جرمانہ دینا پڑتا ہے۔"
 
-**Complete the notes:**
-**(a)** Library opens at ______ and closes at ______. **[2]**
-**(b)** Approximate number of books: ______. **[1]**
-**(c)** Categories of books mentioned: ______, ______, ______. **[3]**
-**(d)** Number of books a student may borrow at once: ______, for ______ weeks. **[2]**
+**Complete the notes** (in Urdu, as in the exam):
+**(a)** لائبریری ______ کھلتی ہے اور ______ بند ہوتی ہے۔ **[2]**
+**(b)** کتابوں کی تعداد (تقریباً): ______ **[1]**
+**(c)** کتابوں کی قسمیں: ______، ______ اور ______ **[3]**
+**(d)** طالب علم ایک وقت میں ______ کتابیں ______ کے لیے لے جا سکتے ہیں۔ **[2]**
 
 ## Exercise 3 — Multiple matching (6 marks)
 
@@ -107,8 +107,8 @@ Match each speaker (1–6) to the correct view (A–F).
 **(e)** چائے اور پانی کا انتظام، پلیٹ فارم ایک پر (دونوں باتیں ضروری) [1]. **(f)** ٹکٹ والے مسافروں کو [1].
 **(g)** انکوائری کاؤنٹر سے [1]. **(h)** توجہ دینے کو کہا گیا ("مسافروں کی توجہ کے لیے") [1]. (کل: 8)
 
-**Exercise 2: (a)** صبح آٹھ بجے / شام پانچ بجے [1] [1]. **(b)** دس ہزار [1]. **(c)** کہانیاں، تاریخ، سائنس
-[1] [1] [1]. **(d)** دو کتابیں / دو ہفتے [1] [1].
+**Exercise 2: (a)** صبح آٹھ بجے / شام پانچ بجے [1] [1]. **(b)** تقریباً دس ہزار (the recording's own wording; دس ہزار alone also answers the gap, which already asks for an approximate number) [1]. **(c)** کہانیاں، تاریخ، سائنس
+[1] [1] [1]. **(d)** دو / دو ہفتوں [1] [1]. (کل: 8)
 
 **Exercise 3:** 1–A [1]; 2–E [1]; 3–C [1]; 4–D [1]; 5–B [1]; 6–F [1].
 
@@ -116,9 +116,10 @@ Match each speaker (1–6) to the correct view (A–F).
 
 ## Where marks are usually lost
 
-- **Exercise 1 and 2**: writing down an approximate figure instead of the exact one stated (e.g. "about
-  ten thousand" when the script gives a precise number) — Cambridge marking rewards the exact detail
-  heard.
+- **Exercise 1 and 2**: writing a detail that differs from what is heard, such as a changed time or
+  number. Give the figure exactly as the recording gives it: in Exercise 2(b) the speaker says
+  تقریباً دس ہزار, so تقریباً دس ہزار ("about ten thousand") is the right answer, not a more precise or a different
+  figure.
 - **Exercise 2 specifically**: filling a gap with a paraphrase rather than the actual word or short
   phrase used in the recording, which the notes format expects.
 - **Exercise 3**: matching speakers to a view based on a single keyword rather than their overall

@@ -107,13 +107,15 @@ dominated its public messaging, which gave supporters a clear focus for their lo
 rather than detailed policy proposals to build a following [3].
 
 **1(b)** Source A and Source B **agree** that the movement was attracting real,
-growing public attention: Source A's leader claims supporters are ready for "action,"
-and Source B's official independently reports a rally "larger than any I have seen,"
-which corroborates that the movement's appeal was not merely leadership rhetoric [3].
+growing public attention: Source A's leader, speaking to a rally of several thousand
+supporters, offers them "action" in place of the failures of those in power, and Source
+B's official independently reports a rally "larger than any I have seen" with enthusiasm
+that "did not look like the passing kind," which corroborates that the movement's appeal
+was not merely leadership rhetoric [3].
 However, the sources **disagree** in what that attention meant: Source A presents the
-support as confident and purposeful, while Source B frames the same growth as something
-"troubling" that had been "underestimated" — a sign of official alarm rather than
-celebration [3]. A strong answer identifies specific points of agreement and specific
+support as confident and purposeful, while Source B's official "left troubled" and
+fears the movement's spread has been "underestimated" — a sign of official alarm rather
+than celebration [3]. A strong answer identifies specific points of agreement and specific
 points of disagreement, rather than treating the sources as simply confirming or simply
 contradicting one another [2].
 

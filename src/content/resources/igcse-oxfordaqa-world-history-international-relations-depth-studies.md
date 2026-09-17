@@ -66,7 +66,7 @@ options will apply to you.
 ## Official syllabus
 
 OxfordAQA International GCSE History (9245) specification PDF —
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/02/oxfordaqa-international-gcse-history-specification.pdf).
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-history-specification.pdf).
 
 ## Section A's pre-released sources
 
@@ -80,12 +80,18 @@ exam; a clean copy of all five sources is provided on the day, so
 preparation means building familiarity and contextual knowledge, not
 memorising annotations you cannot bring in.
 
-Section A's questions test **content, provenance and usefulness** —
-not reliability, which is not a question type on this paper. The
-board's own guidance is explicit that evaluating a source's
-*limitations* (how it is *not* useful) is not required; the task is
-to explain how the source's content and/or provenance, combined with
-your own contextual knowledge, make it useful for a stated purpose.
+Section A has four questions, all testing source skills (AO3), as the
+specification describes them: **Question 1 (4 marks)** uses an unseen
+source's content and/or provenance and your contextual knowledge to
+support a given claim; **Question 2 (6 marks)** explains a difference
+between an unseen source and a pre-released one; **Question 3 (8
+marks)** evaluates how a source is useful to a historian studying a
+given issue, using its content, provenance and your own knowledge (the
+specification states that evaluating its limitations, how it is *not*
+useful, is not required); and **Question 4 (12 marks)** analyses and
+evaluates a given issue or development using a range of the sources,
+unseen and pre-released, together with your own knowledge. Reliability
+on its own is not a separate question type.
 
 ## What Section B requires
 
@@ -125,11 +131,12 @@ Key developments: the **Truman Doctrine** and **Marshall Plan** (1947), the **Be
 
 ## Worked example (Section B)
 
-Section B's knowledge-based essays follow this shape. Note that Section
-A's League of Nations and Cold War options never carry an open essay
-like this one -- Section A is entirely source-based, so its 12-mark
-item is always a source-usefulness question, not a "how far do you
-agree" essay.
+Section B's knowledge-based essays follow this shape. Section A's
+League of Nations and Cold War options have no knowledge-only essay like
+this one: Section A is entirely source-based, so its usefulness question
+is Question 3 (8 marks), and its 12-mark Question 4 asks you to evaluate
+a given issue or development using a range of the sources together with
+your own knowledge.
 
 "Appeasement was the main reason Hitler was not stopped before 1939."
 How far do you agree?

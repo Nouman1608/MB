@@ -167,9 +167,10 @@ costs start to rise again because of poor communication, coordination
 problems across a larger organisation, and reduced staff motivation.
 The specification requires the calculation itself: **average unit
 cost = total cost ÷ output**. A factory producing 10,000 units at a
-total cost of £80,000 has an average unit cost of £8; if expansion
-lowers total cost to £135,000 for 20,000 units, the average unit cost
-falls to £6.75, illustrating an economy of scale -- and a subsequent
+total cost of £80,000 has an average unit cost of £8; if it expands
+to 20,000 units, total cost rises to £135,000 but the average unit cost
+falls to £6.75 (£135,000 ÷ 20,000), illustrating an economy of scale:
+total cost still rises with output, but by proportionally less -- and a subsequent
 rise in average unit cost as output grows further would signal
 diseconomies of scale instead.
 

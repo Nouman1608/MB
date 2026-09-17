@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "paper-1-families-and-education-8192"
-description: "The sociological approach, social structures and processes, families, education, and sociological research methods -- the full content of Paper 1 for AQA GCSE Sociology (8192)."
+description: "A guide to Paper 1 of AQA GCSE Sociology (8192): the sociological approach, social structures and processes, families (functions, forms, conjugal roles, criticisms of families with Zaretsky and Delphy and Leonard, divorce) and education, with research methods pointed to its own guide."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
@@ -30,9 +30,10 @@ stratification.
 This paper establishes the sociological way of thinking -- key
 concepts, theoretical perspectives, and how sociologists study society
 -- before applying it to two everyday institutions: the family and
-education. Sociological Research Methods, while presented here, is
-examined across both papers rather than being confined to Paper 1
-alone.
+education. Sociological Research Methods is listed here but examined
+across both papers rather than being confined to Paper 1 alone; it is
+taught in the separate
+[research methods guide](/resources/aqa-gcse-sociology-research-methods/).
 
 ## Syllabus coverage
 
@@ -86,6 +87,20 @@ Sociologists disagree fundamentally about what the family is for, and questions 
 
 **Feminists** focus on patriarchy. Liberal feminists point to gradual progress towards equality; radical feminists argue the family is the central site of women's oppression; Marxist feminists connect unpaid domestic labour to capitalism's needs.
 
+## Criticisms of families (3.3.5)
+
+The specification lists the criticisms to know: isolation and unrealistic idealisation, loss of traditional functions, lack of contact with wider kinship networks, the status and role of women within families, marital breakdown and dysfunctional families. It names two writers here.
+
+**Zaretsky** (Marxist) argues that capitalist society has created an illusion that the "private life" of the family is separate from the economy. The family cannot meet all the psychological and social needs of the individual: it cushions people from the effects of capitalism but also props the system up, through the unpaid domestic labour that reproduces the next generation of workers and by acting as a unit of consumption. In his view only socialism would end the artificial separation of family and public life.
+
+**Delphy and Leonard** (feminist) see the family as an economic system in which men, rather than capitalists as such, benefit from and exploit women's work. The family has a central role in maintaining patriarchy: even when wives have paid jobs outside the home, they still carry out household tasks that are not equally shared with their male partners.
+
+The contrast is worth using in an answer: Zaretsky explains the family's problems through capitalism, Delphy and Leonard through patriarchy.
+
+## Divorce (3.3.6)
+
+The specification asks for the pattern of divorce in Britain since 1945, using statistics, and the reasons for its rise: changes in the law, changes in social attitudes and values, secularisation, and the changing status of women in society. The Divorce Reform Act 1969, in force from 1971, allowed divorce on the ground of irretrievable breakdown and was followed by a sharp rise in divorces. You also need the consequences of divorce for husbands and wives, children and the extended family, including the growth in the number of lone-parent families, and how functionalist, feminist and Marxist perspectives interpret these changes.
+
 ## Family diversity and change
 
 Family structures have diversified: nuclear, extended, lone-parent, reconstituted, same-sex and single-person households. The **Rapoports** identified five types of diversity — organisational, cultural, class, life-course and cohort.
@@ -132,6 +147,8 @@ Describing one perspective without contrasting others in an "assess" question. T
 ## Quick revision checklist
 
 - Outline functionalist, Marxist and feminist views of the family and evaluate each.
+- Describe the criticisms of families, with Zaretsky's Marxist view and Delphy and Leonard's feminist view.
+- Explain the rise in divorce since 1945 and its consequences for family members.
 - Describe family diversity and explain the reasons for changing structures.
 - Explain conjugal roles, symmetry, the dual burden and the triple shift, with named studies.
 - Outline functionalist, Marxist and interactionist views of education.

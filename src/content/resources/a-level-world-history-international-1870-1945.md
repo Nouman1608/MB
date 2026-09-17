@@ -130,9 +130,9 @@ Within Sections 8 and 9, the run of named treaties and conferences
 to blur together; anchor each one to the specific "key question" it
 answers (why tension remained high, why relations improved, why
 appeasement was pursued) rather than memorising a bare list of dates.
-Since Paper 1 and Paper 2 draw on the same three topics but rotate,
-following the fixed table above, which is examined via document
-question versus outline study, build secure knowledge of all three
+Since Paper 1 (Historical Sources) and Paper 2 (Outline Study) draw
+on the same three topics, and the fixed table above rotates which topic
+is set on each paper, build secure knowledge of all three
 rather than concentrating revision on whichever seems most likely to
 appear in a given year.
 

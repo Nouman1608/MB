@@ -38,23 +38,23 @@ Pakistan.
 **OXFORDAQA INTERNATIONAL GCSE PAKISTAN STUDIES (9236) — PAPER 1 THE
 HISTORY AND CULTURE OF PAKISTAN**
 
-- 1.1 The Pakistan Movement (1857–1947) — compulsory topic covering
+- 3.1.1 The Pakistan Movement (1857–1947) — compulsory topic covering
 the political and social developments leading to the creation of
 Pakistan
-- 1.2 Pakistan into the 21st Century: From Independence to 2022 —
+- 3.1.2 Pakistan into the 21st Century: From Independence to 2022 —
 compulsory topic covering Pakistan's political and social development
 since independence
-- 1.3 Islam in the Subcontinent (c700–c1831) — optional topic
-- 1.4 The Mughal Empire (c1526–c1850s) — optional topic
+- 3.1.3 Islam in the Subcontinent (c700–c1831) — optional topic
+- 3.1.4 The Mughal Empire (c1526–c1850s) — optional topic
 
 ## How to approach it
 
-The two compulsory topics (1.1-1.2) form a continuous historical
+The two compulsory topics (3.1.1 and 3.1.2) form a continuous historical
 narrative from the movement for independence through to recent
 decades, so revise them as a connected timeline rather than two
 isolated blocks -- exam questions often ask students to explain how
 earlier developments shaped later ones. Whichever optional topic a
-course follows (1.3 or 1.4), build a clear sense of its own internal
+course follows (3.1.3 or 3.1.4), build a clear sense of its own internal
 chronology and key turning points, since this depth of knowledge is
 what distinguishes strong optional-topic answers from general
 awareness. Because Paper 1 draws on named dates, individuals and

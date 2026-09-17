@@ -41,9 +41,10 @@ language that moves between texts within a single paragraph, rather than only at
 ## The individual oral: give both works genuinely balanced treatment
 
 The oral is a single prepared response, supported by an extract from **each** of two studied
-literary works (one written originally in the language studied, one studied in translation) from
-the very start -- it is not a sequential analysis of one extract that is then extended to a second.
-A common weakness is nonetheless spending most of the prepared time on the first work with only a
+literary works (one written originally in the language studied, one studied in translation). The
+guide sets no order for discussing the two extracts -- they can be interwoven or taken in turn --
+but the response should be one well-supported argument about how both works present the global
+issue. A common weakness is spending most of the prepared time on the first work with only a
 brief mention of the second. **Exam-preparation priority**: when rehearsing, time each work's
 share of the response separately and check both are genuinely developed -- not just mentioned --
 with the same depth of analysis and equally specific evidence connecting the chosen global issue to
@@ -65,7 +66,8 @@ for the revision that separates a strong essay from an adequate one.
 
 A student's two prepared extracts are from a novel depicting a character's isolation after a
 personal loss, and a second studied work exploring a related global issue -- how grief is
-represented and processed -- discussed together from the start of the response.
+represented and processed. The novel was written originally in the language studied; the second
+work is studied in translation.
 
 ```
 Weak time allocation:    8 minutes on the first extract's imagery and

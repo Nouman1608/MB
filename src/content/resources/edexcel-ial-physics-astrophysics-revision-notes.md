@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-5-thermodynamics-radiation-oscillations-and-cosmology"
     subtopic: "astrophysics-and-cosmology"
-description: "Condensed recall notes on luminosity, Wien and Stefan laws, the HR diagram, stellar evolution and Hubble law for Edexcel International A Level Physics WPH15."
+description: "Condensed recall notes on luminosity, Wien and Stefan laws, the HR diagram, stellar evolution and Hubble law for Edexcel International A Level Physics YPH11 (Unit 5, WPH15)."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
 featured: false

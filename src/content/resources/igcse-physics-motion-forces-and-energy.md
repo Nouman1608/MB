@@ -67,9 +67,12 @@ resultant of forces along a line, Newton's first law, and **solid
 friction and drag (fluid/viscous friction) as forces that oppose relative
 motion between surfaces or through a fluid**; Supplement: Hooke's law and
 spring constant, F = ma), turning effect of forces (Core: the moment of a
-force as force × perpendicular distance from the pivot; Supplement: the
-principle of moments for objects in equilibrium, including calculations
-with several forces), and centre of gravity (definition, experimental
+force as force × perpendicular distance from the pivot, applying the
+principle of moments to situations with one force each side of the pivot,
+including balancing a beam, and the condition for equilibrium — no
+resultant force and no resultant moment; Supplement: the principle of
+moments with more than one force each side of the pivot, and an experiment
+to show there is no resultant moment on an object in equilibrium), and centre of gravity (definition, experimental
 determination, and its effect on stability)
 - 1.6 Momentum (Supplement only) — momentum p = mv, impulse = FΔt,
 conservation of momentum in one dimension, and resultant force as
@@ -135,10 +138,17 @@ the **centre** of the circle.
 
 **Moments — Core vs Supplement.** Defining the moment of a force as
 force × perpendicular distance from the pivot, and identifying the
-factors that increase a moment, is Core. Applying the **principle of
-moments** to a system in equilibrium with several forces — for example,
-finding an unknown force or distance on a balanced beam — is Supplement
-content.
+factors that increase a moment, is Core. So is applying the **principle
+of moments** (for an object in equilibrium, the sum of the clockwise
+moments about the pivot equals the sum of the anticlockwise moments) to a
+beam with one force each side of the pivot, and stating that an object is
+in **equilibrium** when there is **no resultant force and no resultant
+moment**. For example, on a uniform beam pivoted at its centre, a 2.0 N weight
+hung 0.30 m to the left of the pivot
+balances a weight W hung 0.20 m to the right when 2.0 × 0.30 = W × 0.20,
+so W = 3.0 N. Supplement adds situations with more than one force on a
+side of the pivot, and describing an experiment to show that there is no
+resultant moment on an object in equilibrium.
 
 **Hooke's law.** A spring with spring constant 40 N/m is stretched by a
 force of 6.0 N. Provided the limit of proportionality is not exceeded,

@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "microeconomics-ocr-alevel-economics"
-description: "Introduction to microeconomics, the role of markets, business objectives, market structures, and the labour market -- the full content of Component 1 for OCR A-Level Economics (H460)."
+description: "Introduction to microeconomics, the role of markets, business objectives, market structures, and the labour market -- a syllabus map of all of Component 1 for OCR A-Level Economics (H460), with study notes on its core topics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
@@ -37,25 +37,41 @@ sustainability issues -- that are assessed throughout the paper.
 
 **OCR A-LEVEL ECONOMICS (H460) — COMPONENT 1 MICROECONOMICS**
 
-- 1. Introduction to microeconomics — the economic problem (scarcity,
-choice, needs and wants), normative and positive statements, the role
-of economic agents and the factors of production, the allocation of
-resources across market, planned and mixed economic systems, and
-opportunity cost with production possibility curves
-- 2. The role of markets (2.1-2.11) — 2.1 specialisation and trade;
-2.2 demand; 2.3 supply; 2.4 price determination and the interaction
-of markets; 2.5 the price mechanism; 2.6 elasticity of demand; 2.7
-elasticity of supply; 2.8 the concept of the margin; 2.9 consumer and
-producer surplus; 2.10 market failure, externalities, information
-failure and public goods; 2.11 government intervention in markets
-- 3. Business objectives — how businesses set and pursue objectives
-within a market context, including costs, economies of scale, revenue
-and profit
-- 4. Market structures — perfect competition, monopoly, monopolistic
-competition, oligopoly and contestable markets, and how the degree of
-competition in a market affects the behaviour of firms
-- 5. The labour market — how wages and employment are determined in
-labour markets
+- 1. Introduction to microeconomics — 1.1 the economic problem
+(economic and free goods; scarcity, choice, needs and wants; normative
+and positive statements; economic agents; the factors of production and
+their rewards); 1.2 the allocation of resources (incentives; market,
+planned and mixed economic systems; productive and allocative
+efficiency); 1.3 opportunity cost (trade-offs and the production
+possibility curve)
+- 2. The role of markets — 2.1 specialisation and trade; 2.2 demand;
+2.3 supply; 2.4 consumer and producer surplus; 2.5 the interaction of
+markets; 2.6 elasticity (PED, YED, XED and PES); 2.7 the concept of
+the margin; 2.8 market failure and externalities; 2.9 information
+failure (including asymmetric information, moral hazard, and merit and
+demerit goods); 2.10 public goods; 2.11 government intervention
+(including government failure)
+- 3. Business objectives — 3.1 business objectives (maximising and
+non-maximising objectives, and the principal-agent problem); 3.2 costs
+and economies of scale (including the law of diminishing returns and
+minimum efficient scale); 3.3 revenue and profit (accounting, normal
+and supernormal profit)
+- 4. Market structures — 4.1 perfect competition; 4.2 monopoly
+(including dynamic efficiency, X-inefficiency, price discrimination and
+natural monopoly); 4.3 monopolistic competition; 4.4 oligopoly
+(including the kinked demand curve, collusion and concentration
+ratios); 4.5 contestable markets
+- 5. The labour market — 5.1 demand for labour (derived demand, wage
+elasticity of demand, and marginal revenue product theory); 5.2 supply
+of labour (including economic rent and transfer earnings); 5.3 the
+interaction of labour markets (wage differentials, monopsony, trade
+unions and bilateral monopoly)
+
+The study notes below concentrate on the core models of sections 2-5.
+They do not cover every item in this map: use the specification itself
+to check topics such as price discrimination, natural monopoly, the
+kinked demand curve, economic rent, monopsony, trade unions and
+bilateral monopoly.
 
 ## How to approach it
 

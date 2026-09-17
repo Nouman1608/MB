@@ -55,7 +55,7 @@ to intervene in markets, and their effectiveness (indirect taxes, subsidies,
 price controls, and direct government provision of goods and services)
 
 
-Markets in action (Unit 1, WEC11/01) is examined by a single paper of 1 hour 45 minutes, worth 80 marks across four sections, sat alongside Unit 2 (Macroeconomic performance and policy, WEC12/01) as part of the International Advanced Subsidiary award (XEC11) — together the two units form the complete AS-level content, with Unit 1 worth half of the International Advanced Subsidiary award and a quarter of the full International Advanced Level award (YEC11). Unit 1's own paper is not cross-drawn from other units; that applies only to Unit 4, whose questions may draw on any content covered in Units 1 to 3.
+Markets in action (Unit 1, WEC11/01) is examined by a single paper of 1 hour 45 minutes, worth 80 marks across four sections, sat alongside Unit 2 (Macroeconomic performance and policy, WEC12/01) as part of the International Advanced Subsidiary award (XEC11) — together the two units form the complete AS-level content, with Unit 1 worth half of the International Advanced Subsidiary award and a quarter of the full International Advanced Level award (YEC11). The specification sets no cross-unit drawing for Unit 1 (or Unit 2); it is the two International A2 units that draw on earlier units: Unit 3 questions 'may draw on any content covered in Units 1 and 2', and Unit 4 questions on any content covered in Units 1, 2 and 3.
 
 ## How to approach it
 

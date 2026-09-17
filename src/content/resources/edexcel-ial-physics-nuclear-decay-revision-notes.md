@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-5-thermodynamics-radiation-oscillations-and-cosmology"
     subtopic: "nuclear-decay"
-description: "Condensed recall notes on radioactive decay, half-life, decay constant, nuclear equations and radiation safety for Edexcel International A Level Physics WPH15."
+description: "Condensed recall notes on radioactive decay, half-life, decay constant, nuclear equations and radiation safety for Edexcel International A Level Physics YPH11 (Unit 5, WPH15)."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
 featured: false

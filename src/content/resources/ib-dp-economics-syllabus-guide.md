@@ -139,7 +139,8 @@ structure tests them in ascending order of demand:
   against a counter-argument or a real-world limitation, and reach a
   reasoned judgement rather than simply listing both sides.
 
-Papers 1 and 2 (the extended-response papers) are weighted most
+Papers 1 and 2 (the extended response paper and the data response
+paper) are weighted most
 heavily toward evaluate-level command terms, which is why practising
 argument-and-counter-argument paragraphs is a better use of revision
 time close to the exam than re-reading definitions that are already

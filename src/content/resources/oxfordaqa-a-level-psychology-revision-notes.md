@@ -50,7 +50,7 @@ The distinction predicts durability: NSI changes behaviour only while observed; 
 
 **Working memory model** explains what the MSM cannot: **dual-task performance**. Two tasks using different slave systems can be done at once; two using the same one cannot.
 
-**Forgetting:** interference (proactive — old disrupts new; retroactive — new disrupts old) and retrieval failure (cue-dependent).
+**Not in 9685:** explanations for forgetting (interference, retrieval failure) are not in this specification's memory content, which is the multi-store model, the working memory model, types of long-term memory, and eyewitness testimony with the cognitive interview.
 
 **Eyewitness testimony:** leading questions and post-event discussion distort recall. **Anxiety is contradictory** — weapon focus narrows attention, yet the Yerkes-Dodson inverted U means moderate arousal can improve recall. That tension is the evaluation, not a problem to resolve.
 
@@ -82,7 +82,7 @@ The specification names exactly **two** disorders in this unit.
 ## Exam traps
 
 - Confusing NSI with ISI.
-- Confusing proactive with retroactive interference.
+- Writing about explanations for forgetting in a memory answer; they are not in this specification's memory content.
 - Describing when the question says evaluate.
 - Claiming anxiety always worsens eyewitness accuracy.
 - Using one definition of abnormality without its limitation.

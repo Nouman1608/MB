@@ -169,12 +169,13 @@ catalyst) are unnecessary and, for bromination, would simply be the wrong
 answer — phenol's activated ring needs only mild, dilute conditions.
 
 **Explaining phenol's acidity by comparing it only to benzene, rather than
-to water and ethanol specifically.** The syllabus outcome is precisely
-about the three-way comparison — be ready to explain both why phenol beats
-ethanol (delocalisation into the ring, absent in ethanol) and why phenol
-beats water (still delocalisation-stabilised, whereas water's conjugate
-base, OH⁻, has no comparable stabilisation available either, so the real
-distinguishing comparison usually asked for is phenol vs ethanol).
+to water and ethanol specifically.** Syllabus outcome 32.2.4 asks you to
+"describe and explain the relative acidities of water, phenol and ethanol",
+so be ready to explain all three positions in the order: why phenol is more
+acidic than water (the phenoxide ion's charge is delocalised into the ring,
+whereas water's conjugate base, OH⁻, has no comparable stabilisation), and
+why water is more acidic than ethanol (the ethyl group's electron-donating
+effect makes the ethoxide ion less stable than OH⁻).
 
 **Forgetting that phenol reacts with NaOH but not with the weaker base
 NaHCO₃.** Phenol is a weaker acid than carbonic acid/carboxylic acids, so

@@ -41,7 +41,7 @@ Condensed, exam-focused notes for Topic 2 of Cambridge AS & A Level Business (96
 - **External recruitment**: brings fresh ideas and a wider skills pool, but slower, costlier, and needs
   an adjustment period.
 - Training types: induction (new starters), on-the-job (while working), off-the-job (away from work) —
-  be ready to recommend and justify a specific method for a specific role.
+  be ready to advise on and justify a specific method for a specific role.
 
 ## 2.2 Motivation
 

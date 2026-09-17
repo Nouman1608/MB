@@ -52,7 +52,7 @@ literary texts** — Language and Literature's Paper 1 works with a wider range 
 
 ## The individual oral in more depth
 
-The oral is graded against criteria covering: **knowledge and understanding** of both studied works and their context; the quality of **analysis** connecting the chosen global issue to how it is presented in each extract; **focus and organisation** within the fixed preparation and speaking time; and **language**. Both extracts are present and discussed from the very start of the prepared response, not one followed sequentially by the other, so a common weakness is spending most of the available time on the first work and only briefly gesturing at the second -- examiners expect a genuinely balanced treatment that develops both works together, not a detailed analysis of one text followed by a token mention of the other.
+The oral is graded against criteria covering: **knowledge and understanding** of both studied works and their context; the quality of **analysis** connecting the chosen global issue to how it is presented in each extract; **focus and organisation** within the fixed preparation and speaking time; and **language**. The guide sets no order in which the two extracts must be discussed -- they can be interwoven or taken in turn -- but the oral should be one well-supported argument about how both works represent and explore the global issue, and where an extract comes from a larger work, relevant aspects of that work as a whole should be discussed too. A common weakness is spending most of the available time on the first work and only briefly gesturing at the second; plan a balanced treatment that develops both works, not a detailed analysis of one followed by a token mention of the other. An oral built on two works originally written in the language studied, or on two works in translation, does not meet the requirements of the task.
 
 ## The HL essay in more depth
 
@@ -69,19 +69,19 @@ Both Language A courses share an identical overall assessment structure and weig
 ## Exam traps
 
 - Confusing this course's exclusively-literary Paper 1 with Language A: Language and Literature's broader text-type range.
-- Treating the individual oral as a single-text analysis, when it requires a single response examining two studied works together from the start, supported by an extract from each.
+- Treating the individual oral as a single-text analysis, when it requires a single response examining two studied works -- one written originally in the language studied and one studied in translation -- supported by an extract from each.
 - HL students skipping dedicated planning time for the HL essay, since it's independent coursework rather than an in-class exam.
 
 ## Self-test
 
 1. What kind of texts does Paper 1 focus on in this course?
 2. What specifically distinguishes HL assessment from SL?
-3. How many literary works must the individual oral eventually connect?
+3. How many literary works does the individual oral examine, and how must they be paired?
 4. What are Paper 1 and Paper 2 weighted at, at SL?
 5. Name one criterion the individual oral is graded against, beyond language.
 6. Why does the HL essay typically demand a higher standard than an in-class timed essay?
 
-**Answers:** 1. Two previously unseen literary extracts, from different literary forms -- SL students analyse one of the two; HL students analyse both. 2. The HL essay — independent written coursework of 1,200-1,500 words, only completed at Higher Level. 3. Two — the oral is a single prepared response examining both works together from the start, supported by an extract from each. 4. Paper 1: 35%, Paper 2: 35%. 5. Any of: knowledge and understanding of both works and their context, the quality of analysis connecting the global issue across both extracts, or focus and organisation within the time available. 6. Because it is produced independently, outside exam conditions, with regular formative feedback but only one round of written advice on a single complete draft (which the teacher may not edit or rewrite directly) -- examiners expect more sustained argument and more precisely selected evidence than a timed response allows for.
+**Answers:** 1. Two previously unseen literary extracts, from different literary forms -- SL students analyse one of the two; HL students analyse both. 2. The HL essay — independent written coursework of 1,200-1,500 words, only completed at Higher Level. 3. Two -- one written originally in the language studied and one studied in translation, with an extract of no more than 40 lines from each; an oral on two original-language works, or on two works in translation, does not meet the requirements. 4. Paper 1: 35%, Paper 2: 35%. 5. Any of: knowledge and understanding of both works and their context, the quality of analysis connecting the global issue across both extracts, or focus and organisation within the time available. 6. Because it is produced independently, outside exam conditions, with regular formative feedback but only one round of written advice on a single complete draft (which the teacher may not edit or rewrite directly) -- examiners expect more sustained argument and more precisely selected evidence than a timed response allows for.
 
 ## Official syllabus
 

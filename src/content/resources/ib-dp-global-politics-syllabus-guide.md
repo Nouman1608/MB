@@ -69,11 +69,15 @@ just a shared assessment structure.
 
 A written report on a political issue explored through the student's own
 engagement and research. The HL allocation is 10 hours longer than SL's
-because HL students complete a genuinely extra task: beyond the written
-report all SL and HL students produce, HL students carry out further
-research and must formulate a recommendation addressing the identified
-political issue, submitted as a separate section of up to 400 words in
-addition to the report. This is a specific additional requirement, not
+because HL students complete a genuinely extra task: they carry out
+further research and must formulate a recommendation addressing the
+identified political issue. The written report has a limit of 2,000
+words at SL and 2,400 words at HL (a teacher assesses only the first
+2,000 or 2,400 words of a report that runs over), and the HL
+recommendation is assessed by an extra criterion, F: Recommendation (6
+marks), which asks whether the report includes a well-supported
+recommendation appropriate for the analysed context; criteria A to E are
+the same at both levels. This is a specific additional requirement, not
 simply a call for greater depth in the same written report. As
 with the fieldwork-style internal assessments in other DP individuals
 and societies subjects, the strongest engagement projects tend to come

@@ -200,23 +200,27 @@ stakeholder mapping and the broader political/economic/social/
 technological/legal/environmental analysis once you reach the
 second-year strategy content, not as first-year Topic 1 scope.
 
-## Worked example
+## Worked example: expected value and net gain
 
-A firm must choose between two projects. Project A has a 60% chance of $500,000 profit and 40% of a $100,000 loss. Project B returns $200,000 with certainty.
+On a decision tree, a **square** marks a decision the business makes and a **circle** marks a chance event whose outcomes are uncertain; the probabilities on the branches leaving each circle add up to 1. The **expected value** of an option is the sum of each outcome multiplied by its probability. The **net gain** of an option is its expected value minus the cost of choosing it, and is the figure used to compare options that cost different amounts.
+
+A firm must choose between two projects. Project A costs $150,000 and has a 60% chance of returning $500,000 and a 40% chance of returning $100,000. Project B costs $50,000 and returns $220,000 with certainty.
 
 ```
-Expected value of A = (0.6 x 500 000) + (0.4 x -100 000)
-                    = 300 000 - 40 000
-                    = $260 000
+Expected value of A = (0.6 x 500 000) + (0.4 x 100 000)
+                    = 300 000 + 40 000
+                    = $340 000
+Net gain of A       = 340 000 - 150 000 = $190 000
 
-Expected value of B = $200 000
+Expected value of B = $220 000 (certain)
+Net gain of B       = 220 000 - 50 000  = $170 000
 ```
 
-A has the higher expected value, but the recommendation depends on **risk appetite**: a business short of cash may prefer B's certainty, since a $100,000 loss could threaten survival. Stating that trade-off is what earns the evaluation marks.
+A has the higher net gain, by $20,000, but the recommendation depends on **risk appetite**: if A's low outcome happens, it returns $100,000 against its $150,000 cost, a loss of $50,000, whereas B's $170,000 gain is certain. A business short of cash may prefer B, and the probabilities behind A's figure are only estimates. Stating that trade-off is what earns the evaluation marks.
 
 ## Common mistakes
 
-Confusing mission with objectives, or strategy with tactics. Treating added value as profit. Calculating an expected value and stopping there, without considering risk and context. Citing "partnership" as a 9625 form of ownership (it belongs to 9725) or "co-operatives" as a 9725 form (it belongs to 9625). Treating stakeholder mapping, PESTLE or the full shareholder/stakeholder debate as first-year Topic 1 scope when they are second-year content. Assuming every business maximises profit, which ignores not-for-profits and survival-stage firms.
+Confusing mission with objectives, or strategy with tactics. Treating added value as profit. Comparing options by expected value without subtracting each option's cost to find its net gain. Calculating a net gain and stopping there, without considering risk and context. Citing "partnership" as a 9625 form of ownership (it belongs to 9725) or "co-operatives" as a 9725 form (it belongs to 9625). Treating stakeholder mapping, PESTLE or the full shareholder/stakeholder debate as first-year Topic 1 scope when they are second-year content. Assuming every business maximises profit, which ignores not-for-profits and survival-stage firms.
 
 ## Quick revision checklist
 

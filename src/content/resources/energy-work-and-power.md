@@ -71,7 +71,10 @@ The **principle of conservation of energy** underlies every such transfer:
 energy is never created or destroyed, only transferred between stores — the
 total amount stays constant. A falling ball transfers energy from its
 gravitational potential store to its kinetic store (and eventually, on
-landing, to internal/thermal and sound stores); a battery-powered motor
+landing, to the internal (thermal) store of the ball and the ground, with
+some energy transferred by sound waves — sound is a way of transferring
+energy, not a store — which ends up in the internal store of the
+surroundings); a battery-powered motor
 transfers energy from a chemical store to a kinetic store via electrical
 work.
 
