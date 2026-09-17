@@ -10,7 +10,7 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-**3 confirmed-error groups open** *(2026-11-14, round 38: D-252 and D-253 verified — 76 of 80 items fixed; E386, E934 and E935 open; I388 and I389 open.)*
+**4 confirmed-error groups open** *(2026-11-15, round 39: D-254 verified; E936 recorded from the repair team's observations. I389–I391 open.)*
 
 > **Amended 2026-10-12 (Q374).** This order first said 658. That figure never subtracted repair
 > rounds D-138…D-191, which closed 508 of them. The list of what is actually open — 89 plain,
@@ -137,6 +137,11 @@ work order can be a document rather than a conversation.
 ---
 
 ## 8. Current specifics
+
+- **Round 39 (2026-11-15, Q420): D-254 verified; observations worked.** Add **E936** (9701 anode order; 0620 tiering in
+  redox practice and notes and rates notes; 5054 equilibrium Q8; H420 data record version; Oakley and the triple shift;
+  8182 Paper 2 pairing claim; 0539 listening questions in English; Urdu نے agreement), **I390** (I388 siblings) and
+  **I391** (seven minor items, including the /uk/ page's Edexcel label) to E386, E934, E935 and I389.
 
 - **Round 38 (2026-11-14, Q419): D-252 and D-253 verified.** Work **E386** (a-level-edexcel-business-marketing-and-people
   coverage list names risk and uncertainty, market research and sampling, marketing objectives, none taught), **E934**
