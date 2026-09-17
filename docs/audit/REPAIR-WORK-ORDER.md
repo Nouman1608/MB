@@ -138,6 +138,11 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 42 (2026-11-18, Q423): site content outside the resources; D-257 verified.** E936 and I392 closed.
+  Fix **E937** (9 statements the boards' documents contradict) and **E938** (10 statements the site's own code or data contradicts,
+  including the analytics-before-consent wording); then **I393** (17 minor items). **U76** needs the owner's evidence
+  (results, the Learners Academy relationship, in-person teaching, teacher credentials and subject coverage).
+
 - **Round 41 (2026-11-17, Q422): repair edits reviewed; D-256 verified.** No new errors in D-252 to D-256. I390, I391 closed.
   Finish **E936** (2) 0620 Supplement tags in redox notes/practice and rates notes, (5) aqa-gcse-sociology-families-education-practice
   answer 6 triple shift, (6) gcse-psychology-social-context-practice L112 pairing claim; and **I392** (three minor items).
