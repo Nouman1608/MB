@@ -138,6 +138,11 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 46 (2026-11-22, Q427): D-259 and D-260 verified.** E937, E942, E943, I397 and I398 are closed (the A2.1 dispute is
+  upheld). Open work: **E938** (IB programme 'When do I start paying?' still cites 'the fee shown above'), **I399** (DP Psychology
+  (2027) status rule; 7162, 9640, 9630, J249 and Global Politics notes; 9696 practice rocks-and-weathering link; two K_p tips;
+  translated legal pages), E939 deferrals, and U78 evidence (the ESS guide).
+
 - **Round 45 (2026-11-21, Q426): IB topic records read against the IB guides.** Add to the open work: **E943** (mark DP Physics
   E.2 Quantum physics HL only), **I398** (Biology A2.1 'Origin of cells', D4.2 'Stability and change'; source notes for Business
   Management, Geography, Economics) and **U78** (ESS subtopics 2.1-8.3 from teacher websites).
