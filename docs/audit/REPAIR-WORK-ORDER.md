@@ -138,6 +138,12 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 48 (2026-11-24, Q429): D-262, D-263 and D-264 verified.** I400, E939 and the five I396 deferrals are
+  closed. Open work: **E944** (0457 subtopic caveat; 9UR0 subtopic 1.3; the validator note rendering on the AS Business
+  hub; two AQA AS Business content errors; the 9489 Paper 4 rotation claim) and **I401** (numbering, two Urdu diacritics,
+  lang="ar" on Urdu names, WBS unit-code form, the 9709 AS asterisk, notes and log slips, 3.2.1/3.2.2 disclosure,
+  the checklist's double period). I396's OCR series wording and the 0539 dispute are still deferred; U76-U78 are with the owner.
+
 - **Round 47 (2026-11-23, Q428): D-261 verified.** E938 and I399 are closed. Open work: **I400** (DP Computer Science (2014)
   still current under the old rule; the tracker's 'Being withdrawn' introduction against its own legend; Cambridge 0450 and the
   unrecorded 0264), the **E939** deferrals (0457 and 9UR0), and U78 evidence (the IB ESS guide).
