@@ -138,6 +138,10 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 45 (2026-11-21, Q426): IB topic records read against the IB guides.** Add to the open work: **E943** (mark DP Physics
+  E.2 Quantum physics HL only), **I398** (Biology A2.1 'Origin of cells', D4.2 'Stability and change'; source notes for Business
+  Management, Geography, Economics) and **U78** (ESS subtopics 2.1-8.3 from teacher websites).
+
 - **Round 44 (2026-11-20, Q425): D-258 verified.** E940, E941, I393-I395 closed. Finish **E937** and **E938** residues
   (I397 (1)-(3)), **E942** (equilibria practice Kp labelled AS; 9990 and 7182 complete flags), the **E939** deferrals (0457, 9UR0),
   and **I397** (I396 residues, minor items, right-to-left blocks mixing Urdu and English).
