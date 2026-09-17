@@ -138,6 +138,11 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 43 (2026-11-19, Q424): syllabus data layer read record by record.** Fix **E939** (topic lists that leave out or replace
+  topics, sections or options), **E940** (17 wrong figures, dates and notes, including IB Mathematics HL Paper 3 and Global Politics
+  Paper 2 durations) and **E941** (dead or wrong links); then **I394** (partial subtopic lists), **I395** (paraphrased board summaries)
+  and **I396** (statuses, versions, numbering). **U77**: IB mark totals and Pearson notes taken from third-party sources.
+
 - **Round 42 (2026-11-18, Q423): site content outside the resources; D-257 verified.** E936 and I392 closed.
   Fix **E937** (9 statements the boards' documents contradict) and **E938** (10 statements the site's own code or data contradicts,
   including the analytics-before-consent wording); then **I393** (17 minor items). **U76** needs the owner's evidence
