@@ -138,6 +138,10 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 41 (2026-11-17, Q422): repair edits reviewed; D-256 verified.** No new errors in D-252 to D-256. I390, I391 closed.
+  Finish **E936** (2) 0620 Supplement tags in redox notes/practice and rates notes, (5) aqa-gcse-sociology-families-education-practice
+  answer 6 triple shift, (6) gcse-psychology-social-context-practice L112 pairing claim; and **I392** (three minor items).
+
 - **Round 40 (2026-11-16, Q421): D-255 verified.** Nothing more on E386, E934, E935 or I389. The Islamiyat Arabic matches the
   2058 and 0493 appendices letter for letter. Work **E936**, **I390** and **I391** (round 39).
 
