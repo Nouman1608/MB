@@ -1,4 +1,5 @@
 ---
+import { teachingMonthLabel } from '../../../../utils/academic/teaching-month';
 /**
  * Academic hub — /boards/{board}/{qualification}/{subject}/
  *
@@ -417,7 +418,7 @@ if (primaryAssessment) {
    */
   const primaryStatusCaveat =
     primaryAssessment.specStatus === 'future'
-      ? ` ${primaryAssessment.code} is an upcoming specification: its first exams (${primaryAssessment.firstAssessment}) have not been sat yet.${primaryAssessment.firstTeaching ? ` Learners who start the course from ${primaryAssessment.firstTeaching} follow it.` : ''}`
+      ? ` ${primaryAssessment.code} is an upcoming specification: its first exams (${primaryAssessment.firstAssessment}) have not been sat yet.${primaryAssessment.firstTeaching ? ` Learners who start the course from ${teachingMonthLabel(primaryAssessment.firstTeaching)} follow it.` : ''}`
       : primaryAssessment.specStatus === 'legacy-teach-out'
         ? ` ${primaryAssessment.code} is being withdrawn${primaryAssessment.relatedCode ? ` in favour of ${primaryAssessment.relatedCode}` : ''}.`
         : primaryAssessment.specStatus === 'withdrawn'
@@ -432,7 +433,7 @@ if (primaryAssessment) {
   if (future && future !== primaryAssessment) {
     faqs.push({
       question: `Is there a new ${c.board} ${c.subject} specification coming?`,
-      answer: `Yes. ${future.code} is an upcoming specification${future.relatedCode ? `, replacing ${future.relatedCode}` : ''}${future.firstTeaching ? `, for first teaching from ${future.firstTeaching}` : ''}. First assessment: ${future.firstAssessment}. Learners who start the course ${future.firstTeaching ? `from ${future.firstTeaching}` : 'once its teaching begins'} follow ${future.code}; learners already partway through ${primaryAssessment.code} finish that specification${primaryAssessment.finalAssessment ? `, whose final exams are in ${primaryAssessment.finalAssessment}` : ''}.`,
+      answer: `Yes. ${future.code} is an upcoming specification${future.relatedCode ? `, replacing ${future.relatedCode}` : ''}${future.firstTeaching ? `, for first teaching from ${teachingMonthLabel(future.firstTeaching)}` : ''}. First assessment: ${future.firstAssessment}. Learners who start the course ${future.firstTeaching ? `from ${teachingMonthLabel(future.firstTeaching)}` : 'once its teaching begins'} follow ${future.code}; learners already partway through ${primaryAssessment.code} finish that specification${primaryAssessment.finalAssessment ? `, whose final exams are in ${primaryAssessment.finalAssessment}` : ''}.`,
     });
   }
   if (legacy && legacy !== primaryAssessment) {
@@ -564,9 +565,9 @@ const jsonLd = [
                 {a.specStatus === 'future' && (
                   <p class="m-0 mb-3 text-[15px] text-ink-mute">
                     {a.code} is an upcoming specification{a.relatedCode && <>, replacing {a.relatedCode}</>}
-                    {a.firstTeaching && <>, for first teaching from {a.firstTeaching}</>}. First assessment: {a.firstAssessment}.
+                    {a.firstTeaching && <>, for first teaching from {teachingMonthLabel(a.firstTeaching)}</>}. First assessment: {a.firstAssessment}.
                     {' '}Its first exams have not been sat yet.
-                    {' '}{a.firstTeaching ? <>Learners who start the course from {a.firstTeaching} follow it</> : <>Learners follow it once its teaching begins</>}{a.relatedCode && <>; learners already partway through {a.relatedCode} finish that specification{assessments.find((o) => o.code === a.relatedCode)?.finalAssessment && <>, whose final exams are in {assessments.find((o) => o.code === a.relatedCode)?.finalAssessment}</>}</>}.
+                    {' '}{a.firstTeaching ? <>Learners who start the course from {teachingMonthLabel(a.firstTeaching)} follow it</> : <>Learners follow it once its teaching begins</>}{a.relatedCode && <>; learners already partway through {a.relatedCode} finish that specification{assessments.find((o) => o.code === a.relatedCode)?.finalAssessment && <>, whose final exams are in {assessments.find((o) => o.code === a.relatedCode)?.finalAssessment}</>}</>}.
                   </p>
                 )}
                 {a.specStatus === 'withdrawn' && (

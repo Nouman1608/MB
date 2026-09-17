@@ -112,6 +112,11 @@ const programTuitionFaqs = hasGroupTuition
   : TUITION_FAQS
       .filter((f) => f.question !== 'How large are group classes?')
       .flatMap((f) => {
+        if (f.question === 'When do I start paying?') {
+          return [{ question: f.question, answer: feeOnEnquiry
+            ? 'Fees are billed monthly, starting once your free trial class has taken place. There is no separate registration or enrolment fee; the fee is confirmed on enquiry, before anything is booked.'
+            : f.answer }];
+        }
         if (f.question !== 'Is the trial one-to-one or in a group?') return [f];
         return isIb
           ? [{ question: 'Is the trial one-to-one or in a group?', answer: 'IB tuition is one-to-one only, so the free trial is an individual class with the teacher.' }]
@@ -219,7 +224,7 @@ const jsonLd = [
   {d.marlbridgeTeaches === 'teaching' && (
     <>
       {hasGroupTuition && <TuitionOptions surface="ivory" />}
-      <HowTuitionWorks surface="white" showCta={false} />
+      <HowTuitionWorks surface="white" showCta={false} trialFormatOverride={hasGroupTuition ? undefined : isIb ? 'IB tuition is one-to-one only, so the trial is an individual class with the teacher.' : 'The format of the trial class is confirmed when you enquire.'} />
     </>
   )}
 

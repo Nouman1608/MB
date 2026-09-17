@@ -30,8 +30,40 @@ export function rtlLangFor(text) {
   return URDU_ONLY.test(text) ? 'ur' : 'ar';
 }
 
+// A run of Latin-script text (English words with their spaces, digits and
+// punctuation), starting at an optional opening bracket or quote and a Latin
+// letter. Inside a right-to-left block such a run is wrapped in
+// <span dir="ltr"> so its punctuation and word order stay as written (I397 (6)).
+const LATIN_RUN = /[(\[“"‘']*[A-Za-z\u00C0-\u024F][A-Za-z\u00C0-\u024F0-9 \t\r\n'’"“”‘,.;:!?()\[\]\/&%+=…–—-]*/gu;
+
+const blockAncestor = (node, ctx) => {
+  let p = ctx.parent(node);
+  while (p && !(p.type === 'element' && BLOCK_TAGS.includes(p.tagName))) p = ctx.parent(p);
+  return p;
+};
+
 export const rtlBlocksPlugin = {
   name: 'marlbridge-rtl-blocks',
+  text(node, ctx) {
+    const value = node.value ?? '';
+    if (!/[A-Za-z]/.test(value)) return;
+    const block = blockAncestor(node, ctx);
+    if (!block || !rtlLangFor(ctx.textContent(block))) return;
+    const parts = [];
+    let last = 0;
+    for (const m of value.matchAll(LATIN_RUN)) {
+      let run = m[0];
+      const trimmed = run.replace(/[\s(\[“‘]+$/u, '');
+      if (!/[A-Za-z\u00C0-\u024F]{2,}/u.test(trimmed)) continue;
+      const start = m.index;
+      if (start > last) parts.push({ type: 'text', value: value.slice(last, start) });
+      parts.push({ type: 'element', tagName: 'span', properties: { dir: 'ltr' }, children: [{ type: 'text', value: trimmed }] });
+      last = start + trimmed.length;
+    }
+    if (parts.length === 0) return;
+    if (last < value.length) parts.push({ type: 'text', value: value.slice(last) });
+    ctx.replaceNode(node, parts);
+  },
   element: {
     filter: BLOCK_TAGS,
     visit(node, ctx) {

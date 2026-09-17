@@ -457,7 +457,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
   {
     boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'physics',
     syllabusCode: 'YPH11', syllabusSeries: 'Issue 3',
-    effectiveFrom: '2018', effectiveTo: '2027', status: 'current',
+    effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel -- official International Advanced Level Physics specification PDF',
     sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Physics/2018/Specification%20and%20Sample%20Assessment/9781446957783_IAL_Physics_Iss3.pdf', verifiedDate: '2026-09-17',
@@ -830,18 +830,18 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
   {
     boardSlug: 'oxfordaqa', qualificationSlug: 'a-level', subjectSlug: 'physics',
     syllabusCode: '9630', syllabusSeries: 'International AS and A-level',
-    effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
+    effectiveFrom: '2019', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA -- official International AS and A-level Physics specification PDF',
     sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-as-and-a-level-physics-specification.pdf', verifiedDate: '2026-09-16',
     notes: "OxfordAQA International AS and A-level Physics (9630); International AS (9610) is co-teachable. Guided learning hours: 180 for the International AS, 360 for the full International A-level. Sections 3.1-3.5 are the shared AS/A-level content; sections 3.6-3.13 (Circular and periodic motion; Gravitational fields and satellites; Electric fields and capacitance; Exponential change; Magnetic fields; Thermal physics; Nuclear energy; Energy sources) are International A-level only. All 13 topics and their sub-topic structure are as printed in the specification's subject content; topics 10-13 (3.10-3.13, 19 sub-topics) were missing until E939 (round 43) and were added from the Version 4.4 PDF (42 pp., read to its copyright block) on 2026-09-17, with the printed upper-case sub-topic headings set in sentence case. Topics 1-9 verified directly against the official specification PDF (oxfordaqa.com), fetched in full 2026-08-19. Content of 3.2.3 (Motion along a straight line) and 3.2.5 (Newton's laws of motion) re-verified against the same PDF (oxfordaqaexams.org.uk/9630, Version 4.4), fetched 2026-09-02. D-240 (I361): relinked to the Version 4.4 copy linked from the OxfordAQA qualification page (42 pp., read to its copyright block 2026-09-16); all topic and sub-topic names above appear in it.",
     topics: [
-      { number: 1, name: 'Measurements and their errors', slug: 'measurements-and-their-errors-oxfordaqa-alevel', subtopics: [
+      { number: 1, name: 'Measurements and their errors', slug: 'measurements-and-their-errors-oxfordaqa-alevel', stage: 'AS', subtopics: [
         { number: '3.1.1', name: 'Use of SI units and their prefixes', slug: 'use-of-si-units-and-their-prefixes-oxfordaqa' },
         { number: '3.1.2', name: 'Limitation of physical measurements', slug: 'limitation-of-physical-measurements-oxfordaqa' },
         { number: '3.1.3', name: 'Estimation of physical quantities', slug: 'estimation-of-physical-quantities-oxfordaqa' },
       ] },
-      { number: 2, name: 'Mechanics and materials', slug: 'mechanics-and-materials-oxfordaqa-alevel', subtopics: [
+      { number: 2, name: 'Mechanics and materials', slug: 'mechanics-and-materials-oxfordaqa-alevel', stage: 'AS', subtopics: [
         { number: '3.2.1', name: 'Scalars and vectors', slug: 'scalars-and-vectors-oxfordaqa' },
         { number: '3.2.2', name: 'Moments', slug: 'moments-oxfordaqa-alevel' },
         { number: '3.2.3', name: 'Motion along a straight line', slug: 'motion-along-a-straight-line-oxfordaqa' },
@@ -853,12 +853,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '3.2.9', name: 'Bulk properties of solids', slug: 'bulk-properties-of-solids-oxfordaqa' },
         { number: '3.2.10', name: 'The Young modulus', slug: 'the-young-modulus-oxfordaqa' },
       ] },
-      { number: 3, name: 'Particles, radiation and radioactivity', slug: 'particles-radiation-and-radioactivity', subtopics: [
+      { number: 3, name: 'Particles, radiation and radioactivity', slug: 'particles-radiation-and-radioactivity', stage: 'AS', subtopics: [
         { number: '3.3.1', name: 'Constituents of the atom', slug: 'constituents-of-the-atom-oxfordaqa' },
         { number: '3.3.2', name: 'Elementary particles', slug: 'elementary-particles-oxfordaqa' },
         { number: '3.3.3', name: 'Radioactivity', slug: 'radioactivity-oxfordaqa-alevel' },
       ] },
-      { number: 4, name: 'Electricity', slug: 'electricity-oxfordaqa-alevel', subtopics: [
+      { number: 4, name: 'Electricity', slug: 'electricity-oxfordaqa-alevel', stage: 'AS', subtopics: [
         { number: '3.4.1', name: 'Basics of electricity', slug: 'basics-of-electricity-oxfordaqa' },
         { number: '3.4.2', name: 'Current-voltage characteristics', slug: 'current-voltage-characteristics-oxfordaqa' },
         { number: '3.4.3', name: 'Resistivity', slug: 'resistivity-oxfordaqa-alevel' },
@@ -866,7 +866,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '3.4.5', name: 'Potential divider', slug: 'potential-divider-oxfordaqa' },
         { number: '3.4.6', name: 'Electromotive force and internal resistance', slug: 'electromotive-force-and-internal-resistance-oxfordaqa' },
       ] },
-      { number: 5, name: 'Oscillations and waves', slug: 'oscillations-and-waves-oxfordaqa-alevel', subtopics: [
+      { number: 5, name: 'Oscillations and waves', slug: 'oscillations-and-waves-oxfordaqa-alevel', stage: 'AS', subtopics: [
         { number: '3.5.1', name: 'Oscillating systems', slug: 'oscillating-systems-oxfordaqa' },
         { number: '3.5.2', name: 'Forced vibrations and resonance', slug: 'forced-vibrations-and-resonance-oxfordaqa' },
         { number: '3.5.3', name: 'Progressive waves', slug: 'progressive-waves-oxfordaqa-alevel' },
@@ -879,27 +879,27 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '3.5.10', name: 'Photoelectric effect', slug: 'photoelectric-effect-oxfordaqa' },
         { number: '3.5.11', name: 'Wave-particle duality', slug: 'wave-particle-duality-oxfordaqa' },
       ] },
-      { number: 6, name: 'Circular and periodic motion', slug: 'circular-and-periodic-motion-oxfordaqa', subtopics: [
+      { number: 6, name: 'Circular and periodic motion', slug: 'circular-and-periodic-motion-oxfordaqa', stage: 'A', subtopics: [
         { number: '3.6.1', name: 'Circular motion', slug: 'circular-motion-oxfordaqa-alevel' },
         { number: '3.6.2', name: 'Simple harmonic motion', slug: 'simple-harmonic-motion-oxfordaqa' },
       ] },
-      { number: 7, name: 'Gravitational fields and satellites', slug: 'gravitational-fields-and-satellites', subtopics: [
+      { number: 7, name: 'Gravitational fields and satellites', slug: 'gravitational-fields-and-satellites', stage: 'A', subtopics: [
         { number: '3.7.1', name: "Newton's gravitational law", slug: 'newtons-gravitational-law' },
         { number: '3.7.2', name: 'Gravitational field strength', slug: 'gravitational-field-strength-oxfordaqa' },
         { number: '3.7.3', name: 'Gravitational potential', slug: 'gravitational-potential-oxfordaqa' },
         { number: '3.7.4', name: 'Orbits of planets and satellites', slug: 'orbits-of-planets-and-satellites-oxfordaqa' },
       ] },
-      { number: 8, name: 'Electric fields and capacitance', slug: 'electric-fields-and-capacitance', subtopics: [
+      { number: 8, name: 'Electric fields and capacitance', slug: 'electric-fields-and-capacitance', stage: 'A', subtopics: [
         { number: '3.8.1', name: "Coulomb's law", slug: 'coulombs-law-oxfordaqa' },
         { number: '3.8.2', name: 'Electric field strength', slug: 'electric-field-strength-oxfordaqa' },
         { number: '3.8.3', name: 'Electric potential', slug: 'electric-potential-oxfordaqa' },
         { number: '3.8.4', name: 'Capacitors', slug: 'capacitors-oxfordaqa-alevel' },
       ] },
-      { number: 9, name: 'Exponential change', slug: 'exponential-change-oxfordaqa', subtopics: [
+      { number: 9, name: 'Exponential change', slug: 'exponential-change-oxfordaqa', stage: 'A', subtopics: [
         { number: '3.9.1', name: 'Capacitor charge and discharge', slug: 'capacitor-charge-and-discharge-oxfordaqa' },
         { number: '3.9.2', name: 'Exponential changes in radioactivity', slug: 'exponential-changes-in-radioactivity-oxfordaqa' },
       ] },
-      { number: 10, name: 'Magnetic fields', slug: 'magnetic-fields-oxfordaqa-alevel', subtopics: [
+      { number: 10, name: 'Magnetic fields', slug: 'magnetic-fields-oxfordaqa-alevel', stage: 'A', subtopics: [
         { number: '3.10.1', name: 'Magnetic flux density', slug: 'magnetic-flux-density-oxfordaqa-alevel-physics' },
         { number: '3.10.2', name: 'Moving charges in a magnetic field', slug: 'moving-charges-in-a-magnetic-field-oxfordaqa-alevel-physics' },
         { number: '3.10.3', name: 'Magnetic flux and flux linkage', slug: 'magnetic-flux-and-flux-linkage-oxfordaqa-alevel-physics' },
@@ -907,20 +907,20 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '3.10.5', name: 'Alternating currents', slug: 'alternating-currents-oxfordaqa-alevel-physics' },
         { number: '3.10.6', name: 'The operation of a transformer', slug: 'the-operation-of-a-transformer-oxfordaqa-alevel-physics' },
       ] },
-      { number: 11, name: 'Thermal physics', slug: 'thermal-physics-oxfordaqa-alevel', subtopics: [
+      { number: 11, name: 'Thermal physics', slug: 'thermal-physics-oxfordaqa-alevel', stage: 'A', subtopics: [
         { number: '3.11.1', name: 'Energy transfer by heating and doing work', slug: 'energy-transfer-by-heating-and-doing-work-oxfordaqa-alevel-physics' },
         { number: '3.11.2', name: 'Energy transfer by conduction', slug: 'energy-transfer-by-conduction-oxfordaqa-alevel-physics' },
         { number: '3.11.3', name: 'Ideal gases', slug: 'ideal-gases-oxfordaqa-alevel-physics' },
         { number: '3.11.4', name: 'Kinetic theory of gases', slug: 'kinetic-theory-of-gases-oxfordaqa-alevel-physics' },
       ] },
-      { number: 12, name: 'Nuclear energy', slug: 'nuclear-energy-oxfordaqa-alevel', subtopics: [
+      { number: 12, name: 'Nuclear energy', slug: 'nuclear-energy-oxfordaqa-alevel', stage: 'A', subtopics: [
         { number: '3.12.1', name: 'Radius of the nucleus', slug: 'radius-of-the-nucleus-oxfordaqa-alevel-physics' },
         { number: '3.12.2', name: 'Mass and energy', slug: 'mass-and-energy-oxfordaqa-alevel-physics' },
         { number: '3.12.3', name: 'Induced fission', slug: 'induced-fission-oxfordaqa-alevel-physics' },
         { number: '3.12.4', name: 'Safety aspects nuclear reactors', slug: 'safety-aspects-nuclear-reactors-oxfordaqa-alevel-physics' },
         { number: '3.12.5', name: 'Nuclear fusion', slug: 'nuclear-fusion-oxfordaqa-alevel-physics' },
       ] },
-      { number: 13, name: 'Energy sources', slug: 'energy-sources-oxfordaqa-alevel', subtopics: [
+      { number: 13, name: 'Energy sources', slug: 'energy-sources-oxfordaqa-alevel', stage: 'A', subtopics: [
         { number: '3.13.1', name: 'Rotational motion', slug: 'rotational-motion-oxfordaqa-alevel-physics' },
         { number: '3.13.2', name: 'Wind energy', slug: 'wind-energy-oxfordaqa-alevel-physics' },
         { number: '3.13.3', name: 'Solar energy', slug: 'solar-energy-oxfordaqa-alevel-physics' },
@@ -1150,7 +1150,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       { number: 3, name: 'Mechanics', slug: 'mechanics-ocr-alevel-maths', subtopics: [
         { number: '3.01', name: 'Quantities and units in mechanics', slug: 'quantities-and-units-in-mechanics-ocr-alevel-maths' },
         { number: '3.02', name: 'Kinematics', slug: 'kinematics-ocr-alevel-maths' },
-        { number: '3.3', name: "Forces and Newton's laws", slug: 'forces-and-newtons-laws-ocr-alevel-maths' },
+        { number: '3.03', name: "Forces and Newton's laws", slug: 'forces-and-newtons-laws-ocr-alevel-maths' },
         { number: '3.04', name: 'Moments', slug: 'moments-ocr-alevel-maths' },
       ] },
     ],
@@ -1850,7 +1850,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'OxfordAQA -- official International AS and A-level Biology (9610) specification PDF, Version 5.1',
     sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-a-level-biology-specification.pdf', verifiedDate: '2026-08-19',
-    notes: "OxfordAQA International AS and A-level Biology (9610), for teaching from September 2016; International AS exams from May/June 2017, International A-level exams from May/June 2018. Modular: Units 1-2 form the International AS (50% of the full A-level content, 40% of final marks); Units 3-4 are International A2-only. Four unit names reproduced directly from the official specification PDF's 'Specification at a glance' section, fetched 2026-08-19. Unit 2 (Biological systems and disease) sub-topic structure (3.2.1-3.2.11) reproduced directly from the same PDF's subject-content chapter: 3.2.1-3.2.6 fetched and verified 2026-09-02; 3.2.7-3.2.11 were missing (the list stopped at 3.2.6) until E939 (round 43) and were added from the Version 5.1 PDF at this record's link (49 pp., copyright 2025, read to its copyright block) on 2026-09-17. Sub-topics of Units 1, 3 and 4 are not yet entered.",
+    notes: "OxfordAQA International AS and A-level Biology (9610), for teaching from September 2016; International AS exams from May/June 2017, International A-level exams from May/June 2018. Modular: Units 1-2 form the International AS (50% of the full A-level content, 40% of final marks); Units 3-4 are International A2-only. Four unit names reproduced directly from the official specification PDF's 'Specification at a glance' section, fetched 2026-08-19. Unit 2 (Biological systems and disease) sub-topic structure (3.2.1-3.2.11) reproduced directly from the same PDF's subject-content chapter: 3.2.1-3.2.6 fetched and verified 2026-09-02; 3.2.7-3.2.11 were missing (the list stopped at 3.2.6) until E939 (round 43) and were added from the Version 5.1 PDF at this record's link (49 pp., copyright 2025, read to its copyright block) on 2026-09-17. Sub-topics of Units 1, 3 and 4 are not yet entered. D-259 (I397 (4)): the OxfordAQA qualification page (2026-09-17) links a specification file at the 2026/07 upload whose cover reads Version 4.2 (for teaching from September 2016); the Version 5.1 file cited here (2022/08 upload) still opens and carries the higher version number, so its content is kept; the version to cite is for OxfordAQA to confirm.",
     topics: [
       { number: 1, name: 'The diversity of living organisms', slug: 'the-diversity-of-living-organisms-oxfordaqa-alevel-biology', stage: 'AS', subtopics: [] },
       { number: 2, name: 'Biological systems and disease', slug: 'biological-systems-and-disease-oxfordaqa-alevel-biology', stage: 'AS', subtopics: [
@@ -2642,7 +2642,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '3.4.2', name: 'The balance of payments, exchange rates and financial markets', slug: 'the-balance-of-payments-exchange-rates-and-financial-markets-oxfordaqa-alevel-economics' },
         { number: '3.4.3', name: 'Economic growth and development', slug: 'economic-growth-and-development-oxfordaqa-alevel-economics' },
       ] },
-      { number: 5, name: 'Quantitative skills', slug: 'quantitative-skills-oxfordaqa-alevel-economics', stage: 'AS', subtopics: [
+      { number: 5, name: 'Quantitative skills', slug: 'quantitative-skills-oxfordaqa-alevel-economics', subtopics: [
         { number: 'QS1', name: 'calculate, use and understand ratios and fractions', slug: 'qs1-quantitative-skills-oxfordaqa-alevel-economics' },
         { number: 'QS2', name: 'calculate, use and understand percentages and percentage changes', slug: 'qs2-quantitative-skills-oxfordaqa-alevel-economics' },
         { number: 'QS3', name: 'understand and use the terms mean, median (for A2 assessments, students will also need to understand and use relevant quantiles)', slug: 'qs3-quantitative-skills-oxfordaqa-alevel-economics' },
@@ -3194,8 +3194,8 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
   },
   {
     boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'computer-science',
-    syllabusCode: '9210', syllabusSeries: '2022-onwards',
-    effectiveFrom: '2022', effectiveTo: 'ongoing', status: 'current',
+    syllabusCode: '9210', syllabusSeries: 'For teaching from September 2017, exams from May/June 2019',
+    effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA International Qualifications — official qualification page',
     sourceUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-computer-science/', verifiedDate: '2026-08-19',
@@ -3565,8 +3565,8 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
   },
   {
     boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'english-literature',
-    syllabusCode: '9275', syllabusSeries: 'Version 5.1, for exams May/June 2018 onwards',
-    effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
+    syllabusCode: '9275', syllabusSeries: 'Version 5.1, for exams May/June 2018 onwards (final May/June exams 2027)',
+    effectiveFrom: '2018', effectiveTo: '2027', status: 'current',
     tiered: false,
     source: 'OxfordAQA — official International GCSE English Literature (9275) specification PDF',
     sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-english-literature-specification-2018.pdf', verifiedDate: '2026-09-16',
@@ -3617,7 +3617,6 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/634461-2024-2026-syllabus.pdf', verifiedDate: '2026-08-19',
     notes: 'Rebuilt 2026-09-17 (round 43, E939 (2)) from section 3 Subject content of the 2024-2026 syllabus (Version 1; 62 pages, read to the Cambridge address block). AS Level content (3.1): the 12 compulsory core studies of 3.1.1, grouped in the syllabus under four unnumbered approaches (Biological, Cognitive, Learning, Social; three studies each, named in the syllabus), and 3.1.2 Research methodology (research methods and methodological concepts); the AS issues and debates apply across the core studies and are not a separate topic. A Level content (3.2): the four specialist options, of which candidates study two, with each option\'s five numbered topics as the syllabus numbers them (1.1-1.5 Clinical, 2.1-2.5 Consumer, 3.1-3.5 Health, 4.1-4.5 Organisational). The syllabus numbers neither the approaches nor the research-methodology headings, so those carry no number here. Papers 1-4 are assessment components, not content, and are not listed as topics. Topic slugs paper-1-approaches-issues-and-debates-9990, paper-2-research-methods-9990 and paper-3-specialist-options-1-9990 are older slugs kept because resources link them.',
-    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'The core studies', slug: 'paper-1-approaches-issues-and-debates-9990', stage: 'AS', subtopics: [
         { number: '', name: 'Biological approach', slug: 'biological-approach-9990' },
@@ -3804,13 +3803,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
   },
   {
     boardSlug: 'aqa', qualificationSlug: 'a-level', subjectSlug: 'psychology',
-    syllabusCode: '7182', syllabusSeries: 'first teaching 2015',
-    effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
+    syllabusCode: '7182', syllabusSeries: 'Version 1.4 (1 September 2025), for teaching from September 2025',
+    effectiveFrom: '2025', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'AQA — official specification pages',
     sourceUrl: 'https://www.aqa.org.uk/subjects/psychology/a-level/psychology-7182/specification', verifiedDate: '2026-08-19',
     notes: 'Linear A-level; AS Psychology (7181) is a separate qualification with its own papers. Rebuilt 2026-09-17 (round 43, E939 (11)) from the A-level subject content on the aqa.org.uk specification pages (3.1 Introductory topics in Psychology: 3.1.1-3.1.4; 3.2 Psychology in context: 3.2.1-3.2.3; 3.3 Issues and options in Psychology: 3.3.1-3.3.10), checked against the specification PDF those pages link (Version 1.4, 1 September 2025, for teaching from September 2025; 38 pages, read to the AQA registered-address block), whose A-level specification at a glance lists the same seventeen content areas. Paper 1 assesses 3.1 and Paper 2 assesses 3.2. Paper 3 assesses 3.3.1 and one topic from each of three options: option 1 (3.3.2 Relationships, 3.3.3 Gender, 3.3.4 Cognition and development), option 2 (3.3.5 Schizophrenia, 3.3.6 Eating behaviour, 3.3.7 Stress) and option 3 (3.3.8 Aggression, 3.3.9 Forensic Psychology, 3.3.10 Addiction). Research methods (3.2.3) has three numbered parts, 3.2.3.1 Scientific processes, 3.2.3.2 Data handling and analysis and 3.2.3.3 Inferential testing, not listed separately here. In Version 1.4, 3.1.2 Memory covers the multi-store model, the working memory model, explanations for forgetting and eyewitness testimony; types of long-term memory is no longer specification content.',
-    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Introductory topics in Psychology', slug: 'paper-1-introductory-topics-7182', subtopics: [
         { number: '3.1.1', name: 'Social influence', slug: 'social-influence-7182' },
@@ -4571,11 +4569,11 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2024/04/oxfordaqa-international-gcse-islamiat-specification.pdf', verifiedDate: '2026-09-02',
     notes: 'Paper 1 Living the Muslim Life and Paper 2 The Life of Hazrat Muhammad (pbuh) and Sources of Authority in Islam are each 1 hour 30 minutes, 50 marks, 50% of GCSE, with two sections of 25 marks each. Correction, 2026-09-02: the previously-recorded sourceUrl now 404s; re-located via the live qualification page (oxfordaqa.com/qualifications/international-gcse-islamiat/ -- note the board spells the subject \'Islamiat\' on its own site) and re-verified against the new URL, same content confirmed.',
     topics: [
-      { number: 1, name: 'Paper 1 – Living the Muslim Life', slug: 'paper-1-living-muslim-life-9237', subtopics: [
+      { number: 1, name: 'Living the Muslim life', slug: 'paper-1-living-muslim-life-9237', subtopics: [
         { number: '3.1.1', name: 'Islam: Beliefs and Teachings', slug: 'islam-beliefs-teachings-9237' },
         { number: '3.1.2', name: 'Islam: Practices', slug: 'islam-practices-9237' },
       ] },
-      { number: 2, name: 'Paper 2 – The Life of Hazrat Muhammad (pbuh) and Sources of Authority in Islam', slug: 'paper-2-life-hazrat-muhammad-9237', subtopics: [
+      { number: 2, name: 'The life of Hazrat Muhammad (pbuh) and sources of authority in Islam', slug: 'paper-2-life-hazrat-muhammad-9237', subtopics: [
         { number: '3.2.1', name: 'Life and Teachings of Hazrat Muhammad (pbuh)', slug: 'life-teachings-hazrat-muhammad-9237' },
         { number: '3.2.2', name: 'Sources of Authority in Islam', slug: 'sources-of-authority-9237' },
       ] },
@@ -4724,7 +4722,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA — official A-level Law (7162) specification PDF',
     sourceUrl: 'https://www.aqa.org.uk/subjects/law/a-level/law-7162/specification/specification-at-a-glance', verifiedDate: '2026-08-21',
-    notes: 'AQA A-level Law (7162), a linear UK GCE A-level (co-teachable with AS Law 7161). Rebuilt 2026-09-17 (round 43, E939 (9)) from section 3 Subject content of the current specification PDF (Version 1.1, July 2026; 32 pages, read to the AQA registered-address block) and the matching aqa.org.uk subject-content pages. Topics are the specification\'s five numbered content sections: 3.1 The nature of law and the English legal system, 3.2 Criminal law and 3.3 Tort (all compulsory) and the two options, 3.4 Law of contract and 3.5 Human Rights (\'Options\' in the specification at a glance). Paper 1 assesses 3.1 and 3.2, Paper 2 assesses 3.1 and 3.3, and Paper 3 assesses 3.1 with either 3.4 or 3.5. Sub-topics are the specification\'s content-table row headings, which it does not number, so they carry no number. Under 3.2 the specification groups Capacity defences and Necessity defences under a shared \'Defences\' label; under 3.5 \'The European Convention on Human Rights 1953\' heads the article rows that follow it.',
+    notes: 'AQA A-level Law (7162), a linear UK GCE A-level. Rebuilt 2026-09-17 (round 43, E939 (9)) from section 3 Subject content of the current specification PDF (Version 1.1, July 2026; 32 pages, read to the AQA registered-address block) and the matching aqa.org.uk subject-content pages. Topics are the specification\'s five numbered content sections: 3.1 The nature of law and the English legal system, 3.2 Criminal law and 3.3 Tort (all compulsory) and the two options, 3.4 Law of contract and 3.5 Human Rights (\'Options\' in the specification at a glance). Paper 1 assesses 3.1 and 3.2, Paper 2 assesses 3.1 and 3.3, and Paper 3 assesses 3.1 with either 3.4 or 3.5. Sub-topics are the specification\'s content-table row headings, which it does not number, so they carry no number. Under 3.2 the specification groups Capacity defences and Necessity defences under a shared \'Defences\' label; under 3.5 \'The European Convention on Human Rights 1953\' heads the article rows that follow it.',
     subtopicsComplete: true,
     topics: [
       { number: 1, name: 'The nature of law and the English legal system', slug: 'the-nature-of-law-and-the-english-legal-system-7162', subtopics: [

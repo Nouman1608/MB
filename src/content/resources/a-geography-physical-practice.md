@@ -13,6 +13,8 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-core-physical-geography-9696"
+  - qualification: "a-level"
+    topic: "atmosphere-and-weather-9696"
 description: "Original exam-style practice questions with full worked answers on hydrology and fluvial geomorphology, atmosphere and weather (diurnal energy budgets and urban climates), and plate tectonics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22

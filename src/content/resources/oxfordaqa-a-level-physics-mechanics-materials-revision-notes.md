@@ -8,6 +8,7 @@ boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9630"]
 syllabusSeries: "Version 4.4 (International AS and A-level)"
+stage: "AS"
 order: 2
 syllabusTopics:
   - qualification: "a-level"

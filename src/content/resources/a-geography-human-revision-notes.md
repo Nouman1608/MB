@@ -13,6 +13,10 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-core-human-geography-9696"
+  - qualification: "a-level"
+    topic: "migration-9696"
+  - qualification: "a-level"
+    topic: "settlement-dynamics-9696"
 description: "Condensed recall notes on population change, migration and settlement dynamics for Cambridge AS & A Level Geography 9696, Paper 2 Core Human Geography."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02

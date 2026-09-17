@@ -12656,3 +12656,53 @@ U76 (results, organisation, in-person teaching, teacher credentials and coverage
 **Validation.** `astro check` 0 errors; `validate:academic` (4 warnings: the 7131 resources); `validate-assessments`; cross-board integrity; rendered academic labels (after build); practice bank; commercial claims, pricing consistency, tiered FAQ routes, review integrity, grade thresholds, AS-level display, academic matrix and FX policy validators; build (2141 HTML files); `audit:all` 0 problems across 2140 pages; cross-board regression; negative suite (fixtures [U] and [AG] updated to the changed records); API tests 31/31; `check-duplicate-resource-scope` the four pre-existing groups only.
 
 **Open-count position after D-258.** Rounds 42 and 43 leave E937-E941 (confirmed) and I393-I396. Closed here: E937 (all 9), E938 (all 10), E939 (19 of 21; (3) and (12) deferred on resource links), E940 (16 of 17; (1) disputed), E941 (6 of 7; (6) disputed), I393 (16 of 17; (14) owner), I394 and I395 (labelled as the owner decided), I396 (all but the deferred and disputed points listed). Confirmed errors declared open: 2 deferred sub-points (E939 (3), (12)), with 2 disputed (E940 (1), E941 (6)).
+
+## D-259 - Audit round 44 (Q425): E942 and I397 (2026-09-17)
+
+**Trigger.** Round 44 (`docs/audit/2026-11-20-findings.md`, `aaf03ed`) verified D-258: E940 and E941 closed (E940 (1) and E941 (6) withdrawn by the audit), I393-I395 closed, E937 and E938 fixed except residues, E939's two deferrals upheld. New: E942 (two errors introduced by D-258) and I397 (residues, minor items and the right-to-left display defect from D-257).
+
+**Method.** The lead read each item against the file and, where a board fact was involved, the primary document named below; fixed the whole family (template, data layer and sibling pages); rebuilt the site with the Astro content cache cleared; screenshotted the four mixed Urdu/English blocks the finding names in the built pages (Playwright, Chromium, 900 px) before and after the fix; ran every gate.
+
+**Primary sources.** OxfordAQA 9620 specification (3.1.12 K_p, International A2 content). Cambridge 9990 syllabus (specialist-option sub-sections 1.1.1-4.5.3; 12 core studies). AQA 7182 specification Version 1.4 cover: "For teaching from September 2025". OxfordAQA 9630 specification Version 4.4 (2026/07 upload): Units 1-2 International AS, topics 3.1-3.5; Units 3-5 A2, 3.6-3.13; "for teaching from September 2019". OxfordAQA 9210 specification Version 3.5 cover: "For exams May/June 2019 onwards", teaching from September 2017. OCR H240 specification: "3.03 Forces and Newton's Laws". OxfordAQA 9275 qualification page: "final May/June exams in 2027, final resits November 2027". OxfordAQA 9610 qualification page (links a Version 4.2 file dated 2026/07; the record keeps the Version 5.1 file it was built from, noted). OxfordAQA 9640 specification: questions may draw on "any content from ... section 3.5 Quantitative skills" in all units. Cambridge 9237 syllabus: "3.1 Living the Muslim life", "3.2 The life of Hazrat Muhammad ... and sources of authority in Islam" (no "Paper N -" prefix). AQA 7162 specification (no mention of co-teaching with 7161). OxfordAQA 9725 revised-specification page: "available for first teaching from September 2026".
+
+### E942 - New errors from D-258 (2)
+
+| Item | Files | What changed |
+|---|---|---|
+| E942.1 | `oxfordaqa-a-level-chemistry-equilibria-practice.md` | Stage note added; Q3(a), Q4, Q5 and answers 3(a), 4, 5 labelled *(International A2 extension, 3.1.12: assessed in Unit 4, not this AS unit)*, as in the revision notes; the AS answer 3(b) says "the equilibrium constant falls" (not K_p); description names the labelled K_p questions. Resource keeps stage AS. |
+| E942.2 | `syllabus-topics.ts` 9990, 7182 | `subtopicsComplete` removed from both (11 records keep it); the hubs now say a topic may have more in the document. |
+
+### I397 - Residues and minor items (6)
+
+| Item | Files | What changed |
+|---|---|---|
+| I397.1 | `assessments.ts` DP Psychology (2027); new `src/utils/academic/teaching-month.ts`; hub template; `syllabus-updates/index.astro` | `firstTeaching: '2025-08'`; banner and FAQ now read "Learners who start the course from August 2025 follow ...". Every printed first-teaching date is formatted ('September 2026', not '2026-09') on hubs and the tracker. |
+| I397.2 | `HowTuitionWorks.astro` (new `trialFormatOverride` prop), `programs/[slug].astro` | Programmes without a group fee replace the trial-format sentence: IB "one-to-one only, so the trial is an individual class"; IELTS and Academic Support "confirmed when you enquire". Their "When do I start paying?" FAQ no longer says "the fee shown above", and says the fee is confirmed on enquiry. |
+| I397.3 | `assessments.ts` 9625, 9725; `syllabus-updates/index.astro` | 9725 current (first teaching September 2026 has begun), 9625 legacy-teach-out, notes rewritten; 9725 now listed with 7137 under the changeover section. A changeover card whose related record does not exist (DP Computer Science 2014) says "its successor, DP Computer Science (2027), has no Marlbridge assessment record yet" instead of "paired with". |
+| I397.4 | `syllabus-topics.ts`, `matrix.ts` (and generated `public/_redirects`) | 7182 series Version 1.4, teaching from September 2025 (effectiveFrom 2025); 9630 effectiveFrom 2019, topics 1-5 AS and 6-13 A; 9210 series "For teaching from September 2017, exams from May/June 2019" (effectiveFrom 2017); YPH11 effectiveTo ongoing; H240 '3.03'; matrix codes 7702 and 7162 (build adds `/syllabus/7702/` and `/syllabus/7162/` redirects); 9275 effectiveTo 2027 with the final series in the series string; 9610 note records that the page now links a Version 4.2 file and the Version 5.1 file is kept. 9489: the deferral is restated below with its full scope. |
+| I397.5 | `business.md`; `legal/cookies.astro`, `legal/privacy.astro`, `i18n/pages/legal.ts` (ar, ur, bn); `syllabus-updates/index.astro`; `assessments.ts` J249; `syllabuses.ts` Global Politics; `syllabus-topics.ts` 7162, 9640, 9237; 9696 and 9990 resources | Business FAQ lists 0450→0264, AQA 7137/7138 (replacing 7131/7132), OCR H436 (replacing H431), OxfordAQA 9725 (replacing 9625). Both policies 'Last updated 17 September 2026'; "IP anonymisation" replaced by "Google Analytics 4 does not log or store IP addresses" (English, Arabic, Urdu, Bengali). Privacy names every enquiry form (contact, trial, tutoring, schools) and the corrections form for Turnstile. DP Psychology 2019 note: Papers 1 and 3 from mirror markschemes, Paper 2 carried over, IA from teacher resources. J249 note cites the specification (Version 5.0) and says the guide's P1-P3 plus P7 wording is superseded. Global Politics note cites the guide, not a brief/mirror conflict. 7162 co-teachable claim removed. 9640 3.5 unstaged. 9237 names without "Paper N -". Whole-paper resources linked to every topic they cover: 9696 physical (hydrology, atmosphere and weather, rocks and weathering; practice set without rocks), human (population, migration, settlement dynamics); 9990 specialist options (clinical, consumer, health, organisational). |
+| I397.6 | `src/utils/markdown/hast-rtl-blocks.mjs` | Inside right-to-left blocks, each Latin-script run of two or more letters (with its punctuation, quotes, brackets and line breaks) is wrapped in `<span dir="ltr">` (a bidi isolate). Trailing opening quotes/brackets are left outside. Screenshots after the fix: igcse-oxfordaqa-urdu-local-national-international-practice 3(a) reads "(“Because of too many factories, the air is polluted.”) [2]" in order; o-level-cambridge-urdu-first-and-second-language-practice answer 1, urdu-reading-and-writing-practice answer 8 ("— a gist answer (R4); reject a single detail such as “...”.") and edexcel-a-level-urdu-translation-practice answer 5 ("own-words paraphrase rather than lifted sentence [1].") read in order. First build showed a run split at the source line break (two spans); the pattern now includes line breaks, giving one span per phrase. |
+
+### Knock-on
+
+- 9630 topic stages (AS for 1-5) require the resources linked to those topics to declare their stage: six OxfordAQA physics resources gained `stage: "AS"` (measurements and errors x3, motion and Newton's laws x2, mechanics and materials notes).
+
+### Deferred (unchanged from D-258, restated)
+
+- E939 (3) 0457 and (12) 9UR0: resource topic links (9 and 6 resources) and the 9UR0 Urdu check.
+- 9709 AS weighting (schema); YAC11 and 4EC1 printed topic numbers (schema); YBS11/YEC11 combined code.
+- 9489 to the 2027-2029 syllabus: every AS option and the Paper 4 options change, not only the American option; a full rebuild of the record and its resources' links.
+- 7137 topic record and the four 7131 AS Business resources.
+
+### Owner items
+
+U76; I393 (14); U77 except Global Politics; 5014 companions; a native reader's check of the Islamiyat Arabic.
+
+### Observations, not actioned
+
+- Round 45 (`5418dd5`, IB topic records) was pushed to origin while this batch was being validated; it reads D-258 and is handled next.
+- Single Latin letters in RTL blocks (for example "(b)") are not wrapped; they render in position because they sit next to digits and brackets.
+
+**Validation.** `astro check` 0 errors; `validate:academic`; `validate-assessments`; cross-board integrity; rendered academic labels (after build); practice bank; commercial claims, pricing consistency, tiered FAQ routes, review integrity, grade thresholds, AS-level display, academic matrix and FX policy; cross-board regression; negative suite 35/35; functions tests 31 pass; duplicate-scope check (the 4 pre-existing groups only); build 2141 HTML files (content cache cleared first); `audit:all` 0 problems across 2140 pages.
+
+**Open-count position after D-259.** E942 fixed (both items). I397 fixed (all six; the 9489 deferral restated). E937 and E938 had only the residues now fixed under I397 (1)-(3), so both are repaired pending audit. E939 stays open on its two deferrals (3) and (12). Round 45 (E943, I398) not yet actioned.

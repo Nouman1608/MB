@@ -13,6 +13,10 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-core-physical-geography-9696"
+  - qualification: "a-level"
+    topic: "atmosphere-and-weather-9696"
+  - qualification: "a-level"
+    topic: "rocks-and-weathering-9696"
 description: "Hydrology and fluvial geomorphology, atmosphere and weather, and rocks and weathering -- the full content of Paper 1 for Cambridge International AS & A Level Geography (9696)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21

@@ -13,6 +13,12 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-3-specialist-options-1-9990"
+  - qualification: "a-level"
+    topic: "consumer-psychology-9990"
+  - qualification: "a-level"
+    topic: "health-psychology-9990"
+  - qualification: "a-level"
+    topic: "organisational-psychology-9990"
 description: "Condensed recall notes on Clinical, Consumer, Health and Organisational Psychology, and how each connects back to Research Methods, for Cambridge A Level Psychology Paper 3 (9990)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-05

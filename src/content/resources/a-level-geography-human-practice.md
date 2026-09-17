@@ -13,6 +13,10 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-core-human-geography-9696"
+  - qualification: "a-level"
+    topic: "migration-9696"
+  - qualification: "a-level"
+    topic: "settlement-dynamics-9696"
 description: "Original exam-style practice questions with full worked answers on population change, migration and settlement dynamics for Cambridge AS & A Level Geography Paper 2 (9696)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03

@@ -13,6 +13,10 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-core-human-geography-9696"
+  - qualification: "a-level"
+    topic: "migration-9696"
+  - qualification: "a-level"
+    topic: "settlement-dynamics-9696"
 description: "Population, migration and settlement dynamics -- the three compulsory topics of Paper 2 for Cambridge International AS & A Level Geography (9696), 2025-2026 series."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02

@@ -153,6 +153,9 @@ const AQA_ALEVEL_CODES: Record<string, string> = {
   // Verified 2026-08-19 at aqa.org.uk/subjects/mathematics/a-level/mathematics-7357:
   // live specification code, first teaching 2017.
   mathematics: '7357',
+  // Round 44 (I397 (4)): codes already recorded in syllabuses.ts for these
+  // ACTIVE rows (English Language 7702, Law 7162).
+  'english-language': '7702', law: '7162',
 };
 
 /** Verified at ocr.org.uk GCSE qualification pages, 2026-08-18. */

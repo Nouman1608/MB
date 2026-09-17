@@ -2301,7 +2301,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.ocr.org.uk/Images/462559-exploring-our-question-papers-gateway-science.pdf',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against OCR\'s own official "GCSE (9-1) Gateway Science: Exploring our question papers" guide (covering J247/J248/J249/J250, 2026-08-28). For Physics A, assessment is through two exams per tier: Paper 1/3 assesses Topics P1-P4 and P9 (practical skills); Paper 2/4 assesses Topics P5-P8, with assumed knowledge of Topics P1-P4 and P9, and includes synoptic questions. Each paper is 90 marks, 1 hour 45 minutes, 50% weighting, for both Foundation tier (Papers 1-2) and Higher tier (Papers 3-4).',
+    notes: 'Paper structure from the J249 specification (Version 5.0), which supersedes the wording in OCR\'s "GCSE (9-1) Gateway Science: Exploring our question papers" guide (covering J247/J248/J249/J250, read 2026-08-28; the guide describes the physics papers as P1-P3 plus P7). For Physics A, assessment is through two exams per tier: Paper 1/3 assesses Topics P1-P4 and P9 (practical skills); Paper 2/4 assesses Topics P5-P8, with assumed knowledge of Topics P1-P4 and P9, and includes synoptic questions. Each paper is 90 marks, 1 hour 45 minutes, 50% weighting, for both Foundation tier (Papers 1-2) and Higher tier (Papers 3-4).',
     assessmentModel: 'linear',
   },
   {
@@ -2691,7 +2691,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     qualificationSlug: 'a-level',
     subjectSlug: 'business',
     code: '9625',
-    specStatus: 'current',
+    specStatus: 'legacy-teach-out',
     relatedCode: '9725',
     tiers: ['not-tiered'],
     firstTeaching: '2018',
@@ -2705,7 +2705,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-business/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section of the retained legacy qualification page, which now states only the wind-down window rather than the original first-assessment date: "the final May/June exams for AS will be in 2026, and for A2 in 2027. Re-sits will be available for AS in January 2027, and for A2 in January 2028. There will be no exams for this specification (9625) after January 2028." firstAssessment here (2020) is inferred from this specification\'s first-teaching date (September 2018) plus the standard two-year AS/A2 cycle observed consistently across every other OxfordAQA modular A-level in this dataset, since the source page itself no longer restates the original first-exam year. This remains the operative (\'current\') specification as of this record\'s verification date (2026-08-28) because its intended replacement, 9725, has not yet reached its own first-teaching date (September 2026) -- see that record\'s own notes. AS teaching under 9625 has already effectively concluded (its final May/June AS exam series was 2026, already past), leaving only A2 teaching/assessment and resits live; once 9725\'s September 2026 first teaching begins this record should be re-classified \'legacy-teach-out\'. Four papers: two AS papers at 20% of A-level each, two A2 papers at 30% each.',
+    notes: 'Directly confirmed against the official live "Assessment" section of the retained legacy qualification page, which now states only the wind-down window rather than the original first-assessment date: "the final May/June exams for AS will be in 2026, and for A2 in 2027. Re-sits will be available for AS in January 2027, and for A2 in January 2028. There will be no exams for this specification (9625) after January 2028." firstAssessment here (2020) is inferred from this specification\'s first-teaching date (September 2018) plus the standard two-year AS/A2 cycle observed consistently across every other OxfordAQA modular A-level in this dataset, since the source page itself no longer restates the original first-exam year. Re-classified \'legacy-teach-out\' (D-259): 9725 teaching began in September 2026, and 9625\'s final May/June AS series was 2026, leaving only A2 assessment (final May/June 2027) and resits (AS January 2027, A2 January 2028). Four papers: two AS papers at 20% of A-level each, two A2 papers at 30% each.',
     assessmentModel: 'modular',
   },
   {
@@ -2713,7 +2713,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     qualificationSlug: 'a-level',
     subjectSlug: 'business',
     code: '9725',
-    specStatus: 'future',
+    specStatus: 'current',
     relatedCode: '9625',
     tiers: ['not-tiered'],
     firstTeaching: '2026-09',
@@ -2726,7 +2726,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-business-revised/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section of the revised specification page: "available for first teaching from September 2026, with first AS exams in May/June 2027 and first A2 exams in May/June 2028." Four units: two AS units at 20% of A-level each, two A-level units at 30% each. specStatus is \'future\' (not \'current\') because, as of this record\'s verification date (2026-08-28), first teaching has not yet begun -- the legacy 9625 specification (see its own record, relatedCode 9725) remains the one existing cohorts are completing. Following teacher feedback, each A2 paper has separate topics and a simplified, fully case-study-based structure compared with the legacy specification. firstAssessment is the first International AS exam series (May/June 2027); the first International A-level exams are in May/June 2028. The specification (Version 1.0) cover confirms both: "For teaching from September 2026 onwards", "For International AS exams May/June 2027 onwards", "For International A-level exams May/June 2028 onwards".',
+    notes: 'Directly confirmed against the official live "Assessment" section of the revised specification page: "available for first teaching from September 2026, with first AS exams in May/June 2027 and first A2 exams in May/June 2028." Four units: two AS units at 20% of A-level each, two A-level units at 30% each. specStatus is \'current\' (D-259): first teaching began in September 2026; the legacy 9625 specification (relatedCode 9725) is in teach-out for cohorts completing it. Following teacher feedback, each A2 paper has separate topics and a simplified, fully case-study-based structure compared with the legacy specification. firstAssessment is the first International AS exam series (May/June 2027); the first International A-level exams are in May/June 2028. The specification (Version 1.0) cover confirms both: "For teaching from September 2026 onwards", "For International AS exams May/June 2027 onwards", "For International A-level exams May/June 2028 onwards".',
     assessmentModel: 'modular',
   },
   {
@@ -3416,6 +3416,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     specStatus: 'future',
     relatedCode: 'DP Psychology (2019)',
     tiers: ['sl', 'hl'],
+    firstTeaching: '2025-08',
     firstAssessment: '2027',
     components: [
       { paperCode: 'Paper 1', title: 'Paper 1 -- Integration of Concepts, Content and Contexts', durationMinutes: 90, marks: 35, weightingPercent: 35, assessmentType: 'written-exam', tier: 'sl', externallyAssessed: true },

@@ -13,6 +13,10 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-core-physical-geography-9696"
+  - qualification: "a-level"
+    topic: "atmosphere-and-weather-9696"
+  - qualification: "a-level"
+    topic: "rocks-and-weathering-9696"
 description: "Condensed recall notes on hydrology, fluvial landforms, rocks and weathering, and atmosphere for Cambridge AS & A Level Geography 9696."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22

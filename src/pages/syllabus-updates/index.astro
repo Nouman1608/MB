@@ -1,4 +1,5 @@
 ---
+import { teachingMonthLabel } from '../../utils/academic/teaching-month';
 /**
  * Syllabus/specification change tracker -- /syllabus-updates/
  *
@@ -133,7 +134,7 @@ function tierBlocks(a: Assessment) {
  */
 const MARKS_SOURCING_NOTE: Record<string, string> = {
   'ib|DP Psychology (2019)':
-    "The IB's public subject brief for this course gives durations and weightings but no marks. The mark totals shown were read from copies of May 2019 IB markschemes for Papers 1, 2 and 3 found on third-party websites, and the internal assessment's 22 marks from third-party teacher resources, not from a document published by the IB.",
+    "The IB's public subject brief for this course gives durations and weightings but no marks. The Paper 1 and Paper 3 totals shown were read from copies of May 2019 IB markschemes found on third-party websites; the Paper 2 total was carried over from an earlier check whose source the record does not name; and the internal assessment's 22 marks came from third-party teacher resources. None was read from a document published by the IB.",
 };
 const marksNote = (a: Assessment): string | undefined =>
   MARKS_SOURCING_NOTE[`${a.boardSlug}|${a.code}`]
@@ -185,7 +186,7 @@ const flagshipInTransition = [...future, ...legacy].some((r) => flagshipCodes.ha
                 <span class="text-[17px] font-semibold tracking-[-0.01em] text-navy-800">{r.subjectLabel}</span>
                 <span class="text-[13.5px] text-ink-mute">Specification {r.assessment.code}{r.assessment.relatedCode && <> (replaces {r.assessment.relatedCode})</>}</span>
                 <dl class="m-0 mt-1 grid grid-cols-[auto_1fr] gap-x-2 gap-y-0.5 text-[13px] text-ink-mute">
-                  {r.assessment.firstTeaching && (<><dt class="font-medium text-navy-800">First teaching</dt><dd class="m-0">{r.assessment.firstTeaching}</dd></>)}
+                  {r.assessment.firstTeaching && (<><dt class="font-medium text-navy-800">First teaching</dt><dd class="m-0">{teachingMonthLabel(r.assessment.firstTeaching)}</dd></>)}
                   <dt class="font-medium text-navy-800">First assessment</dt><dd class="m-0">{r.assessment.firstAssessment}</dd>
                 </dl>
                 {r.hubHref
@@ -228,9 +229,11 @@ const flagshipInTransition = [...future, ...legacy].some((r) => flagshipCodes.ha
               <div class="flex h-full flex-col gap-2 rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)]">
                 <span class="font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600">{r.boardLabel} {r.qualificationLabel}</span>
                 <span class="text-[17px] font-semibold tracking-[-0.01em] text-navy-800">{r.subjectLabel}</span>
-                <span class="text-[13.5px] text-ink-mute">Specification {r.assessment.code} (paired with {r.assessment.relatedCode})</span>
+                <span class="text-[13.5px] text-ink-mute">Specification {r.assessment.code} {ASSESSMENTS.some((o) => o.code === r.assessment.relatedCode && o.boardSlug === r.assessment.boardSlug)
+                  ? <>(paired with {r.assessment.relatedCode})</>
+                  : <>(its successor, {r.assessment.relatedCode}, has no Marlbridge assessment record yet)</>}</span>
                 <dl class="m-0 mt-1 grid grid-cols-[auto_1fr] gap-x-2 gap-y-0.5 text-[13px] text-ink-mute">
-                  {r.assessment.firstTeaching && (<><dt class="font-medium text-navy-800">First teaching</dt><dd class="m-0">{r.assessment.firstTeaching}</dd></>)}
+                  {r.assessment.firstTeaching && (<><dt class="font-medium text-navy-800">First teaching</dt><dd class="m-0">{teachingMonthLabel(r.assessment.firstTeaching)}</dd></>)}
                   <dt class="font-medium text-navy-800">First assessment</dt><dd class="m-0">{r.assessment.firstAssessment}</dd>
                   {r.assessment.finalAssessment && (<><dt class="font-medium text-navy-800">Final assessment</dt><dd class="m-0">{r.assessment.finalAssessment}</dd></>)}
                 </dl>
@@ -307,7 +310,7 @@ const flagshipInTransition = [...future, ...legacy].some((r) => flagshipCodes.ha
                 <div>
                   <p class="m-0 mb-2 text-[12px] font-medium uppercase tracking-[0.1em] text-ink-mute">{label}</p>
                   <dl class="m-0 mb-3 grid grid-cols-[auto_1fr] gap-x-3 gap-y-0.5 text-[13px] text-ink-mute">
-                    <dt class="font-medium text-navy-800">First teaching</dt><dd class="m-0">{a.firstTeaching ?? 'Not recorded'}</dd>
+                    <dt class="font-medium text-navy-800">First teaching</dt><dd class="m-0">{a.firstTeaching ? teachingMonthLabel(a.firstTeaching) : 'Not recorded'}</dd>
                     <dt class="font-medium text-navy-800">First assessment</dt><dd class="m-0">{a.firstAssessment}</dd>
                   </dl>
                   {tierBlocks(a).map((b) => (
