@@ -178,7 +178,7 @@ const flagshipInTransition = [...future, ...legacy].some((r) => flagshipCodes.ha
       {future.length > 0 && (
         <div class="mb-12">
           <h2 class="m-0 mb-1 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Upcoming specifications</h2>
-          <p class="m-0 mb-6 max-w-[70ch] text-[14.5px] leading-[1.6] text-ink-mute">First exams not yet sat, but teaching may already have started. Learners who start the course on or after the first-teaching date shown follow the new specification. Learners already partway through a specification it replaces finish that one (its final exam series, where Marlbridge records one, is on its card on this page). Where no first-teaching date is shown, check the board's own page for when teaching begins.</p>
+          <p class="m-0 mb-6 max-w-[70ch] text-[14.5px] leading-[1.6] text-ink-mute">Announced, but teaching has not begun yet (a specification is recorded as current once its first teaching has begun, even before its first exams). Learners who start the course on or after the first-teaching date shown follow the new specification. Learners already partway through a specification it replaces finish that one (its final exam series, where Marlbridge records one, is on its card on this page). Where no first-teaching date is shown, check the board's own page for when teaching begins.</p>
           <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
             {future.map((r) => (
               <div class="flex h-full flex-col gap-2 rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)]">
@@ -349,11 +349,11 @@ const flagshipInTransition = [...future, ...legacy].some((r) => flagshipCodes.ha
       <div class="grid gap-6 sm:grid-cols-3">
         <div>
           <p class="m-0 font-semibold text-navy-800">Upcoming</p>
-          <p class="m-0 mt-1.5 text-[14.5px] leading-[1.6] text-ink-mute">A new specification with a confirmed first-teaching and/or first-assessment date whose first exams have not yet been sat. Learners who start the course from its first-teaching date follow it, even before its first exams.</p>
+          <p class="m-0 mt-1.5 text-[14.5px] leading-[1.6] text-ink-mute">A new specification whose first teaching has not begun yet. Once teaching begins it is recorded as current, even before its first exams are sat.</p>
         </div>
         <div>
           <p class="m-0 font-semibold text-navy-800">Being withdrawn</p>
-          <p class="m-0 mt-1.5 text-[14.5px] leading-[1.6] text-ink-mute">Still a live, assessable specification today, with a confirmed final exam series after which it will no longer be offered.</p>
+          <p class="m-0 mt-1.5 text-[14.5px] leading-[1.6] text-ink-mute">Still assessable today for learners already partway through it, but replaced for new learners by a newer specification. Its final exam series is shown where the board has announced one.</p>
         </div>
         <div>
           <p class="m-0 font-semibold text-navy-800">Withdrawn</p>

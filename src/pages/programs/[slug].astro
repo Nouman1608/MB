@@ -14,7 +14,7 @@ import ProgramTeachers from '../../components/sections/ProgramTeachers.astro';
 import TuitionOptions from '../../components/sections/TuitionOptions.astro';
 import HowTuitionWorks from '../../components/sections/HowTuitionWorks.astro';
 import { TUITION_FAQS } from '../../data/tuition';
-import { PRICING_TERMS, QUALIFICATION_TIER } from '../../data/pricing';
+import { PRICING_TERMS, QUALIFICATION_TIER, IB_PRICING } from '../../data/pricing';
 import { getPrograms, availabilityLabel, availabilityTone } from '../../utils/content/collections';
 import { relatedResources } from '../../utils/content/related';
 import { courseNode } from '../../utils/schema/course';
@@ -113,9 +113,11 @@ const programTuitionFaqs = hasGroupTuition
       .filter((f) => f.question !== 'How large are group classes?')
       .flatMap((f) => {
         if (f.question === 'When do I start paying?') {
+          // D-261 (I399 (1)): neither IB nor the fee-on-enquiry programmes show a
+          // fee on this page, so neither may say "the fee shown above".
           return [{ question: f.question, answer: feeOnEnquiry
-            ? 'Fees are billed monthly, starting once your free trial class has taken place. There is no separate registration or enrolment fee; the fee is confirmed on enquiry, before anything is booked.'
-            : f.answer }];
+            ? `${PRICING_TERMS.billing} There is no separate registration or enrolment fee; the fee is confirmed on enquiry, before anything is booked.`
+            : `${PRICING_TERMS.billing} There is no separate registration or enrolment fee. IB tuition is charged per class: the pricing page gives the rate for ${IB_PRICING.region}, and outside ${IB_PRICING.region} the fee is confirmed on enquiry, before anything is booked.` }];
         }
         if (f.question !== 'Is the trial one-to-one or in a group?') return [f];
         return isIb
@@ -124,7 +126,7 @@ const programTuitionFaqs = hasGroupTuition
       })
       .concat(feeOnEnquiry
         ? [{ question: `How much does ${d.title} tuition cost?`, answer: `There is no fixed fee for ${d.title} on the pricing page. Send an enquiry and Marlbridge will confirm the fee before anything is booked.` }]
-        : [{ question: 'How is IB tuition charged?', answer: 'IB tuition is one-to-one only and charged per class, not per subject per month. The multi-subject and sibling discounts do not apply. See the pricing page for the current rate.' }]);
+        : [{ question: 'How is IB tuition charged?', answer: `IB tuition is one-to-one only and charged per class, not per subject per month. The multi-subject and sibling discounts do not apply. The pricing page gives the rate for ${IB_PRICING.region}; for other regions Marlbridge confirms the fee on enquiry.` }]);
 
 const visibleFaqs = d.marlbridgeTeaches === 'teaching'
   ? [...d.faqs, ...programTuitionFaqs]

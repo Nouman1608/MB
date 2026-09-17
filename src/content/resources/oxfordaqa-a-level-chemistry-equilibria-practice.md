@@ -86,8 +86,8 @@ Related: [Equilibria and Le Chatelier revision notes](/resources/oxfordaqa-a-lev
 ## Where marks are usually lost
 
 - Saying K changes with pressure or with a catalyst.
-- Forgetting to square the partial pressure of SO₃ and SO₂.
-- Not deducing the units of K_p from the expression.
+- *(International A2 extension, 3.1.12: assessed in Unit 4, not this AS unit)* Forgetting to square the partial pressures of SO₃ and SO₂ in K_p.
+- *(International A2 extension, 3.1.12: assessed in Unit 4, not this AS unit)* Not deducing the units of K_p from the expression.
 - Explaining the low Contact-process pressure by yield alone rather than by cost.
 - Converting moles to concentration incorrectly in an ICE table calculation, or forgetting to divide by the volume before substituting into K_c.
 - Assuming K_c always has units — when the total moles of gas are equal on both sides, as in question 6, the units cancel and K_c is dimensionless.

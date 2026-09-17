@@ -12751,3 +12751,34 @@ U76; I393 (14); U77 except Global Politics; 5014 companions; a native reader's c
 **Validation.** `astro check` 0 errors; `validate:academic`; `validate-assessments`; cross-board integrity; rendered academic labels (after build); practice bank; commercial claims, pricing consistency, tiered FAQ routes, review integrity, grade thresholds, AS-level display, academic matrix and FX policy; cross-board regression; negative suite 35/35; functions tests 31 pass; duplicate-scope check (the 4 pre-existing groups only); build 2141 HTML files (content cache cleared first); `audit:all` 0 problems across 2140 pages. Rendered: IB Physics hub and checklist show "Quantum physics (HL only)"; IB Biology hub "Stability and change", "Transfers of energy and matter"; ESS hub and checklist show the caveat.
 
 **Open-count position after D-260.** E943 fixed. I398 fixed except A2.1 (disputed with quotes). U78 labelled on the pages; open until the ESS guide can be read. Carried: E939 (3) and (12) deferred; E937, E938, E942 repaired pending audit (D-259).
+
+## D-261 - Audit round 46 (Q427): I399 and the E938 residue (2026-09-17)
+
+**Trigger.** Round 46 (`docs/audit/2026-11-22-findings.md`, `385b5ac`) verified D-259 and D-260: E937, E942, E943, I397 and I398 closed (the I398 (1) A2.1 sub-point withdrawn, the dispute upheld). Open: E938 (IB fee answer, I399 (1)) and E939 (two deferrals). New: I399 (6 items).
+
+**Method.** The lead read each item against the file and the primary document, fixed the families, rebuilt with the content cache cleared, read the rendered IB programme page, IB Psychology hub, syllabus-updates page and translated legal pages, and ran every gate.
+
+**Primary sources (read in Chrome, 2026-09-17).**
+- IB psychology updates page (ibo.org): "The new DP psychology course will be launched in February 2025 for first teaching in August 2025"; "First assessment will take place in May 2027". The page gives no final session for the 2019 course.
+- IB Global politics SL/HL subject brief (`global-politics-sl-hl-subject-brief-en.pdf`): 3 pages.
+- OxfordAQA 9630 specification (2026/07 upload), entry codes: "OxfordAQA International Advanced Subsidiary Physics OxfordAQA International Advanced Level Physics 9631 9632"; unit entry codes PH01-PH05. No mention of co-teaching with another code.
+- OCR J249 specification (`234600-specification-accredited-gcse-gateway-science-suite-physics-a-j249.pdf`), "Version 5.0 (July 2026)": "Paper 1 assesses content from Topics P1-P4 and P9", "Paper 2 assesses content from Topics P5-P8, with assumed knowledge of Topics P1-P4 and P9" (Papers 3 and 4 the same).
+
+| Item | Files | What changed |
+|---|---|---|
+| I399.1 (E938 (4) residue) | `programs/[slug].astro` | IB "When do I start paying?" no longer says "the fee shown above": fees billed monthly from the trial, no enrolment fee, IB charged per class, the pricing page gives the rate for Pakistan and elsewhere the fee is confirmed on enquiry (region from `IB_PRICING`). The IB "How is IB tuition charged?" answer no longer says "See the pricing page for the current rate" without the region. |
+| I399.2 | `assessments.ts` DP Psychology (2019) and (2027); `syllabuses.ts` note; `syllabus-updates/index.astro` | One rule for all five: a specification is current once its first teaching has begun, even before its first exams (7137, 7138, H436, 9725 already). DP Psychology (2027) now `current`, DP Psychology (2019) `legacy-teach-out` (no final session recorded: the IB page names none). Notes rewritten. The hub no longer asks "Is there a new ... specification coming?"; it shows 2019 as being withdrawn in favour of 2027. The tracker's Upcoming definition is now "first teaching has not begun yet", and "Being withdrawn" says the final series is shown where the board has announced one. The Upcoming section is now empty and hidden (no record is `future`). |
+| I399.3 | `syllabuses.ts` 7162 and Global Politics; `syllabus-topics.ts` 9640 and 9630; `assessments.ts` J249 | 7162 co-teaching claim removed. Global Politics brief "three-page". 9640 note: 3.5 "carries no AS or A2 stage because it may be assessed in any unit". 9630 note: entry codes 9631 and 9632 from the specification replace "International AS (9610) is co-teachable". J249 officialSourceUrl now the Version 5.0 specification (verifiedOn 2026-09-17). |
+| I399.4 | `a-geography-physical-practice.md` | Links `rocks-and-weathering-9696` (question 5, plate margins, is 3.1 Plate tectonics). D-259's statement that the set does not cover that topic was wrong. |
+| I399.5 | `oxfordaqa-a-level-chemistry-equilibria-practice.md` | The two K_p tips in "Where marks are usually lost" carry the International A2 label. |
+| I399.6 | `src/i18n/pages/legal.ts` (ar, ur, bn) | Privacy pages name every enquiry form (contact, trial, tutoring, schools) and the corrections form for Turnstile; the cookie pages' Turnstile paragraph names the same forms. Cookie and privacy 'last updated' 17 September 2026 in all three languages (17 سبتمبر 2026, 17 ستمبر 2026, ১৭ সেপ্টেম্বর ২০২৬). |
+
+**Corrections to earlier entries (from Q427).** D-259 called 9237 a Cambridge syllabus; it is OxfordAQA International GCSE Islamiat. D-259 named the 9210 cover as Version 3.5; the file OxfordAQA links is Version 3.4. No record depended on either.
+
+**Still open.** E939 (3) 0457 and (12) 9UR0 deferred (resource topic links; 9UR0 Urdu check). U78: ESS caveat shown; the IB ESS guide is still needed. I396 deferrals and U76/U77 owner items unchanged.
+
+**Observations, not actioned.** The translated cookie pages still omit the English page's disclosures that the IP address goes to Cloudflare and that Turnstile's script loads from challenges.cloudflare.com (the English version is the stated reference); noted since D-258.
+
+**Validation.** `astro check` 0 errors; `validate:academic`; `validate-assessments` (exactly one current DP Psychology record); cross-board integrity; rendered academic labels (after build); practice bank; commercial claims, pricing consistency, tiered FAQ routes, review integrity, grade thresholds, AS-level display, academic matrix and FX policy; cross-board regression; negative suite 35/35; functions tests 31 pass; duplicate-scope check (the 4 pre-existing groups only); build 2141 HTML files (content cache cleared first); `audit:all` 0 problems across 2140 pages. Rendered: IB programme fee answer; IB Psychology hub (2019 being withdrawn in favour of 2027; no "coming" FAQ); syllabus-updates (no Upcoming section; 2019 under being withdrawn); ar/ur/bn legal dates.
+
+**Open-count position after D-261.** E938 residue fixed (repaired pending audit). I399 fixed. E939 open on its two deferrals; U78 open for evidence.
