@@ -59,6 +59,7 @@ corpus briefly ended up worse than baseline on five files — see the amendment 
 | `2026-11-01-findings.md` | Round 25: the remaining 95 U72 board claims (Edexcel, OCR, OxfordAQA) — 83 supported; **E924** (3 errors), I374 (7 items), U75 (1 claim). U72 fully worked. **2 confirmed-error groups open** (E923, E924). |
 | `2026-11-02-findings.md` | Round 26: D-245 and D-246 read — **26 of 26 fixed**; E923, I372, U74 and I373 closed. I375 (2 coverage omissions). **1 confirmed-error group open** (E924). |
 | `2026-11-03-findings.md` | Round 27: D-247 and D-248 read — **13 of 13 fixed**; E924, I374, U75 and I375 closed. **E925** (9UR0 Section A audio control) and I376 from the entries' observations. **1 confirmed-error group open** (E925). |
+| `2026-11-04-findings.md` | Round 28: the five unsettled round-12 closures read against the documents — all substantially fixed; I377 (2 residues). No round-12 item left unsettled. **1 confirmed-error group open** (E925). |
 | `2026-09-15-tier-resolution-response.md` | Cambridge 0620 tier question, resolved by coordinates. |
 | `correction-constraints.md` | **Standing rules. Start here.** |
 
@@ -142,7 +143,7 @@ finding against a snapshot that was three days old.
 
 | | |
 |---|---|
-| findings recorded | 1,749 |
+| findings recorded | 1,751 |
 | confirmed errors open | **1 group** (E925, round 27) *(reconciliation current through **D-248**; every closure from D-226 to D-248 read. 515 closures in D-138…D-225 were sampled, not read. **Not a statement that the resources are correct.**)* |
 | declared closed by decision log D-138…D-248 | 859 |
 | still open despite a closing round (deferred, partial, disputed, heading-only, or reopened) | 0 |

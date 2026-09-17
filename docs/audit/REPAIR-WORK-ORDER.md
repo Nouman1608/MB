@@ -138,6 +138,11 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 28 (2026-11-04, Q409): the five unsettled round-12 closures read.** E360, E822 and E866 fixed; E850
+  and E539 fixed with residues. Add **I377** (the IB Psychology subject guide's opening is 2027-guide text in a
+  file sourced to the 2019 brief; the 9489 Paper 1 practice has two sources, the syllabus sets at least three)
+  to E925 and I376.
+
 - **Round 27 (2026-11-03, Q408): D-247 and D-248 verified.** Nothing more on E924, I374, U75 or I375. Work **E925** (9UR0
   Section A: students control the recording and may stop, revisit and replay it; three Urdu files say the
   audio cannot be paused) and **I376** (CS Theme A: the TCP/IP model A2.1.5 is HL only).
