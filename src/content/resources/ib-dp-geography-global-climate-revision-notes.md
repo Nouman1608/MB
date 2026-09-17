@@ -49,8 +49,10 @@ The IB Geography guide (first assessment 2019) divides this unit into three sub-
 3. **Responding to global climate change** -- possibilities for responding and power over
    decision-making, including disparities in exposure to climate change risk and vulnerability
    (location, wealth, social differences such as age, gender and education, risk perception), detailed
-   examples of two or more societies with contrasting vulnerability, and government-led adaptation and
-   mitigation strategies.
+   examples of two or more societies with contrasting vulnerability, government-led adaptation and
+   mitigation strategies (global geopolitical efforts; carbon emissions offsetting and trading;
+   technology, including geo-engineering), and civil society and corporate strategies, with a case
+   study of one country's response focusing on the actions of non-governmental stakeholders.
 
 ## Core vocabulary
 

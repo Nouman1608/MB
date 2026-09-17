@@ -65,7 +65,16 @@ matching and ordering, using commands such as SELECT, DISTINCT, FROM,
 WHERE, BETWEEN, ORDER BY, GROUP BY, HAVING, ASC, DESC, JOIN, LIKE with
 the % wildcard, AND, OR and NOT; exact syntax can vary between database
 systems), and how SQL is used to update data in a database. HL students
-also study alternative databases and data warehouses
+also study three further database-programming statements (A3.3.4-A3.3.6,
+HL only): calculations using SQL's aggregate functions on grouped data
+(AVERAGE, COUNT, MAX, MIN, SUM); database views, virtual and materialized
+(snapshot), and what they offer (hiding data complexity, data
+consistency, independence, performance, query simplification, read-only
+or updatable data, security); and how transactions maintain data
+integrity through atomicity, consistency, isolation and durability
+(ACID), with the transaction control commands BEGIN TRANSACTION, COMMIT
+and ROLLBACK. A3.4 Alternative databases and data warehouses is also HL
+only
 - **A.4 Machine learning** — the distinction between traditional
 rule-based programming and machine learning, where a system derives
 its own rules from data; core concepts including training data,

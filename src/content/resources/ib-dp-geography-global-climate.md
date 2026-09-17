@@ -68,8 +68,14 @@ process, including disparities in exposure to climate change risk and
 vulnerability (variations in people's location, wealth, social
 differences such as age, gender and education, and risk perception),
 detailed examples of two or more societies with contrasting
-vulnerability, and government-led adaptation and mitigation
-strategies.
+vulnerability, government-led adaptation and mitigation strategies
+(global geopolitical efforts, recognising that the sources of
+greenhouse gas emissions may be spatially distant from the countries
+most impacted; carbon emissions offsetting and trading; and technology,
+including geo-engineering), and civil society and corporate strategies
+to address global climate change, with a case study of the response to
+climate change in one country focusing on the actions of
+non-governmental stakeholders.
 
 Key vocabulary for the responding sub-topic:
 
@@ -185,6 +191,9 @@ prescribed content even where the underlying geography is related.
   education) and risk perception.
 - Prepare detailed examples of two or more societies with contrasting
   vulnerability.
+- Prepare a case study of one country's response to climate change
+  focusing on the actions of non-governmental stakeholders (civil society
+  and corporate strategies).
 - Use this resource's exposure, sensitivity and adaptive capacity
   framework to organise vulnerability analysis, remembering it is a
   research framework rather than the guide's own terms.

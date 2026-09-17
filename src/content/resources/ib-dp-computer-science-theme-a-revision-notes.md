@@ -60,7 +60,13 @@ where B.4 is HL only).
   relational operators, filtering, pattern matching and ordering (SELECT, DISTINCT, FROM, WHERE,
   BETWEEN, ORDER BY, GROUP BY, HAVING, ASC, DESC, JOIN, LIKE with the % wildcard, AND, OR, NOT --
   exact syntax can vary between database systems); and how SQL is used to update data in a database.
-- HL only: alternative databases and data warehouses.
+- HL only (A3.3.4-A3.3.6): calculations with SQL's aggregate functions on grouped data (AVERAGE,
+  COUNT, MAX, MIN, SUM); virtual and materialized (snapshot) database views and what they offer
+  (hiding data complexity, data consistency, independence, performance, query simplification,
+  read-only or updatable data, security); and how transactions maintain data integrity -- ACID
+  (atomicity, consistency, isolation, durability) and the commands BEGIN TRANSACTION, COMMIT and
+  ROLLBACK.
+- HL only (A3.4): alternative databases and data warehouses.
 
 ## A.4 Machine learning
 

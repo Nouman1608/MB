@@ -64,8 +64,10 @@ consequences, rather than treating either half in isolation.
 - **Global climate** -- vulnerability and resilience, in three
   sub-topics: the causes of global climate change (the energy balance,
   greenhouse effect and feedback loops), its consequences, and
-  responding to it (including disparities in vulnerability, and
-  adaptation and mitigation).
+  responding to it (including disparities in vulnerability,
+  government-led adaptation and mitigation, and civil society and
+  corporate strategies, with a one-country case study of
+  non-governmental stakeholders' actions).
 - **Global resource consumption and security** -- examining how
   resource demand and supply are distributed globally, and the
   tensions this creates.
