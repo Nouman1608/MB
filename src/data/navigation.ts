@@ -26,6 +26,7 @@ export const footerNav = {
     { label: 'For Schools', href: '/schools/' },
     { label: 'Pakistan', href: '/pakistan/' },
     { label: 'Gulf', href: '/gulf/' },
+    { label: 'United Kingdom', href: '/uk/' },
   ],
   // QIGT programme (Aug 2026) -- "Past Papers" and "Exam Preparation" removed
   // from this sitewide footer: both resourceTypes have 0 published resources

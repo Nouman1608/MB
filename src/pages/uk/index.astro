@@ -1,0 +1,209 @@
+---
+/**
+ * United Kingdom regional guidance -- /uk/
+ *
+ * SEO round (2026-09-17). The 15 Sep audit found Pakistan and Gulf hubs
+ * but nothing for the UK, despite the owner's stated UK-parity goal and a
+ * confirmed GBP rate already sitting in REGION_PRICING. This page follows
+ * the /gulf/ pattern exactly: every number comes from the typed pricing
+ * data (nothing invented here), every board count is computed live from
+ * the academic matrix, and the one piece of UK-specific context the pricing
+ * page does not cover is the time difference -- which for the UK is large
+ * enough (4-5 hours) that it has to be stated honestly rather than glossed.
+ */
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import CTA from '../../components/ui/CTA.astro';
+import FAQ from '../../components/ui/FAQ.astro';
+import { routes } from '../../utils/urls/routes';
+import { activeOnly, boardPath } from '../../utils/academic';
+import { boardBySlug } from '../../data/academic/boards';
+import {
+  REGION_PRICING, ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS,
+  PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee,
+} from '../../data/pricing';
+import { faqNode } from '../../utils/schema/faq';
+
+const path = '/uk/';
+const uk = REGION_PRICING.find((r) => r.region === 'United Kingdom')!;
+const ukOneToOne = ONE_TO_ONE_PRICING.find((r) => r.region === 'United Kingdom')!;
+
+/**
+ * UK-relevant coverage, computed from the matrix so the page can never
+ * claim a combination that is not ACTIVE. Domestic UK boards first, then
+ * the international qualifications UK independent schools also sit.
+ */
+const active = activeOnly();
+const count = (board: string, qual: string) =>
+  active.filter((c) => c.boardSlug === board && c.qualificationSlug === qual).length;
+
+const UK_ROWS = [
+  { board: 'aqa', label: 'AQA', gcse: count('aqa', 'gcse'), aLevel: count('aqa', 'a-level') + count('aqa', 'as-level') },
+  { board: 'ocr', label: 'OCR', gcse: count('ocr', 'gcse'), aLevel: count('ocr', 'a-level') },
+  { board: 'edexcel', label: 'Pearson Edexcel (International GCSE & IAL)', gcse: count('edexcel', 'igcse'), aLevel: count('edexcel', 'a-level') },
+  { board: 'cambridge', label: 'Cambridge (IGCSE & International A Level)', gcse: count('cambridge', 'igcse'), aLevel: count('cambridge', 'a-level') + count('cambridge', 'as-level') },
+].filter((r) => r.gcse + r.aLevel > 0 && boardBySlug(r.board)?.status === 'offered');
+
+const faqs = [
+  {
+    question: 'Do you teach GCSE, or only IGCSE?',
+    answer: `Both. Marlbridge teaches AQA and OCR GCSE (${count('aqa', 'gcse') + count('ocr', 'gcse')} active subject combinations) as well as Cambridge and Pearson Edexcel International GCSE, and AQA, OCR, Edexcel and Cambridge at A Level. Each subject page names the exact specification code it is taught against.`,
+  },
+  {
+    question: 'How do the class times work with the UK time difference?',
+    answer: 'Pakistan is four hours ahead of the UK in British Summer Time and five hours ahead in winter, so a UK after-school slot falls in the late evening in Pakistan. UK students are placed in the later-evening Pakistan slots and at weekends; the exact time is confirmed with the teacher before the first class.',
+  },
+  {
+    question: 'What does it cost from the UK?',
+    answer: `${formatFee(uk.igcse, uk.currency)} ${uk.currency} per subject per month for a GCSE, IGCSE or O Level group class and ${formatFee(uk.aLevel, uk.currency)} ${uk.currency} at AS/A Level; one-to-one classes are ${formatFee(ukOneToOne.igcse, ukOneToOne.currency)}–${formatFee(ukOneToOne.aLevel, ukOneToOne.currency)} ${ukOneToOne.currency} per class. These are currency conversions of the Pakistan rate, not a separately set UK price, and the first class is free.`,
+  },
+  {
+    question: 'Who teaches the classes?',
+    answer: 'Named subject specialists whose profiles are published on this site, each teaching from the official specification for the board the student is entered with. You know who is teaching before the first class.',
+  },
+  {
+    question: 'Can I use the free resources without enrolling?',
+    answer: 'Yes. The revision notes, syllabus checklists and practice questions are free for any student, whether or not they take classes with Marlbridge.',
+  },
+];
+
+const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
+---
+<PageLayout
+  title="Marlbridge in the UK — Online GCSE & A Level Tuition, Pricing"
+  description="Online GCSE, IGCSE and A Level tuition for students in the UK — AQA, OCR, Edexcel and Cambridge, taught live by named specialists. GBP pricing, UK time-zone guidance, first class free."
+  path={path}
+  eyebrow="United Kingdom"
+  heading="Marlbridge in the UK"
+  lead="Marlbridge teaches AQA, OCR, Pearson Edexcel and Cambridge subjects live online to students in the UK — GCSE, IGCSE and A Level — with published GBP pricing, named subject specialists, and class times set around the four-to-five-hour difference from Pakistan."
+  breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'United Kingdom', href: path }]}
+  jsonLd={jsonLd}
+>
+  <Section surface="white">
+    <Container>
+      <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Boards and qualifications for UK students</h2>
+      <p class="m-0 mb-6 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
+        The counts below are the subject combinations currently active in Marlbridge's catalogue for each board, computed from
+        the same data that builds every board and subject page. Follow a board to see the subjects and specification codes.
+      </p>
+      <div class="overflow-x-auto">
+        <table class="w-full min-w-[520px] border-collapse text-[15px]">
+          <thead>
+            <tr class="border-b border-rule text-left">
+              <th scope="col" class="py-3 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Board</th>
+              <th scope="col" class="py-3 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">GCSE / IGCSE subjects</th>
+              <th scope="col" class="py-3 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">AS / A Level subjects</th>
+            </tr>
+          </thead>
+          <tbody>
+            {UK_ROWS.map((r) => (
+              <tr class="border-b border-rule">
+                <td class="py-3 pr-4 text-ink">
+                  <a href={boardPath(r.board)} class="font-semibold text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{r.label}</a>
+                </td>
+                <td class="py-3 pr-4 text-ink-mute">{r.gcse || '—'}</td>
+                <td class="py-3 text-ink-mute">{r.aLevel || '—'}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="m-0 mt-4 max-w-[70ch] text-[13px] text-ink-mute">
+        Pearson Edexcel is offered as International GCSE and International A Level; domestic Edexcel GCSE is not currently in the catalogue.
+      </p>
+    </Container>
+  </Section>
+
+  <Section surface="ivory" border>
+    <Container>
+      <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Time zones — the honest constraint</h2>
+      <p class="m-0 mb-6 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
+        All Marlbridge teaching is delivered live from Pakistan (UTC+5). The UK is on GMT (UTC+0) in winter and British Summer
+        Time (UTC+1) from late March to late October — four to five hours behind. A 4:30 pm after-school slot in London is
+        therefore 8:30 or 9:30 pm in Lahore, which is why UK students are scheduled in the later-evening Pakistan slots and at
+        weekends, when the overlap is widest. This is orientation only; the exact class time is agreed with the teacher before
+        the first class.
+      </p>
+      <div class="overflow-x-auto">
+        <table class="w-full min-w-[420px] border-collapse text-[14px]">
+          <thead>
+            <tr class="border-b border-rule text-left">
+              <th scope="col" class="py-2 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Where</th>
+              <th scope="col" class="py-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Time zone</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="border-b border-rule bg-white/60">
+              <td class="py-2 pr-4 font-medium text-navy-800">Pakistan (where classes are taught from)</td>
+              <td class="py-2 text-ink-mute">UTC+5 (Pakistan Standard Time, no daylight saving)</td>
+            </tr>
+            <tr class="border-b border-rule">
+              <td class="py-2 pr-4 text-ink">United Kingdom, late October to late March</td>
+              <td class="py-2 text-ink-mute">UTC+0 (GMT) — Pakistan is 5 hours ahead</td>
+            </tr>
+            <tr class="border-b border-rule">
+              <td class="py-2 pr-4 text-ink">United Kingdom, late March to late October</td>
+              <td class="py-2 text-ink-mute">UTC+1 (BST) — Pakistan is 4 hours ahead</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </Container>
+  </Section>
+
+  <Section surface="white" border>
+    <Container>
+      <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Pricing for the UK</h2>
+      <p class="m-0 mb-6 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
+        Group classes are priced per subject, per month; one-to-one classes per class. Only the Pakistan rate is independently
+        set — the UK figures are a currency conversion of that same rate (see the note below), not a separately published UK
+        price. Full terms, discounts and every other region are on the
+        {' '}<a href={routes.pricing} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">pricing page</a>.
+      </p>
+      <div class="overflow-x-auto">
+        <table class="w-full min-w-[520px] border-collapse text-[15px]">
+          <thead>
+            <tr class="border-b border-rule text-left">
+              <th scope="col" class="py-3 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Format</th>
+              <th scope="col" class="py-3 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">GCSE / IGCSE / O Level</th>
+              <th scope="col" class="py-3 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">AS / A Level</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="border-b border-rule">
+              <td class="py-3 pr-4 text-ink">Group class, per subject per month</td>
+              <td class="py-3 pr-4 text-ink-mute">{formatFee(uk.igcse, uk.currency)} {uk.currency}</td>
+              <td class="py-3 text-ink-mute">{formatFee(uk.aLevel, uk.currency)} {uk.currency}</td>
+            </tr>
+            <tr class="border-b border-rule">
+              <td class="py-3 pr-4 text-ink">One-to-one, per class</td>
+              <td class="py-3 pr-4 text-ink-mute">{formatFee(ukOneToOne.igcse, ukOneToOne.currency)} {ukOneToOne.currency}</td>
+              <td class="py-3 text-ink-mute">{formatFee(ukOneToOne.aLevel, ukOneToOne.currency)} {ukOneToOne.currency}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="m-0 mt-6 text-[13px] text-ink-mute">
+        {ONE_TO_ONE_TERMS.conversionNote} {PRICING_TERMS.freeTrial} {PRICING_TERMS.notPermanentNote} Last confirmed
+        {' '}{PRICING_VERIFIED_DATE} (one-to-one rates {ONE_TO_ONE_TERMS.verifiedDate}).
+      </p>
+    </Container>
+  </Section>
+
+  <Section surface="ivory" border>
+    <Container>
+      <h2 class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Questions from UK families</h2>
+      <div class="max-w-[80ch]">
+        <FAQ items={faqs} />
+      </div>
+    </Container>
+  </Section>
+
+  <CTA
+    surface="white"
+    heading="Ready to try a live online class from the UK? Request a free trial and we'll confirm a teacher and an evening or weekend time by email."
+    buttonLabel="Request a Free Trial"
+    buttonHref={routes.trial}
+  />
+</PageLayout>

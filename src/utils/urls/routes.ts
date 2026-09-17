@@ -24,6 +24,7 @@ export const routes = {
   trial: '/trial/',
   pakistan: '/pakistan/',
   gulf: '/gulf/',
+  uk: '/uk/',
   reportCorrection: '/report-a-correction/',
 } as const;
 
