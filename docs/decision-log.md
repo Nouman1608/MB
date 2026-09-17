@@ -12480,3 +12480,36 @@ A proofreading agent compared every Arabic passage in `o-level-islamiyat-paper-1
 **Validation.** `astro check`: 1 error, the pre-existing `uk/index.astro` L204 one; `validate:academic`; `validate-assessments`; cross-board integrity; rendered academic labels; build (2142 HTML files); `audit:all` 0 problems across 2141 pages; cross-board regression; negative suite; API tests 31/31; `check-duplicate-resource-scope` the four pre-existing groups only.
 
 **Open-count position after D-256.** Round 40 leaves E936 (confirmed), I390 and I391; all are closed here (28 files, including `syllabus-topics.ts` and the /uk/ page). Confirmed errors declared open: 0.
+
+## D-257 - Owner requests (right-to-left Arabic and Urdu; /uk/ type error); audit round 41 (Q422): E936 residues and I392 closed (2026-09-17)
+
+**Trigger.** (1) Owner requests: display Arabic and Urdu passages right-to-left on the live pages, and fix the `astro check` error in the /uk/ page (both recorded as observations in D-255 and D-256; round 40 noted them as outside the audit's scope). (2) Round 41 (`docs/audit/2026-11-17-findings.md`, `00598db`) read every edit of D-252 to D-255 (193 files; no new errors), verified D-256 (I390 and I391 fixed; E936 fixed except three sub-points left in sibling files), and recorded I392.
+
+### Owner requests
+
+| Item | Files | What changed |
+|---|---|---|
+| Right-to-left display | `astro.config.mjs`; new `src/utils/markdown/hast-rtl-blocks.mjs`; `package.json` and `package-lock.json` (`@astrojs/markdown-satteri` 0.4.1, the version Astro 7.2 already installs, now a direct dependency so it can be configured); `urdu-paper-2-listening-practice.md` | The Markdown processor is Astro's default Sätteri processor with its default features, plus one hast plugin: any paragraph, list item, table cell or heading whose letters are mostly Arabic-script gets `dir="rtl"`, and `lang="ur"` when it contains Urdu-only letters (ٹ ڈ ڑ ں ھ ہ ے) or `lang="ar"` otherwise. Blocks that are mostly Latin are unchanged. The build now marks 12 resources (the four Islamiyat practice papers and eight Urdu practice files); screenshots of `o-level-islamiyat-paper-2-practice` and `urdu-paper-2-listening-practice` checked: the Arabic and Urdu are right-aligned, and sentence-final punctuation and quotation marks sit at the correct ends. In the listening practice, question and option lines that Markdown had run together into one paragraph now end in hard line breaks, and the two English headings ('Questions:', 'Complete the notes') are separate paragraphs, so each item shows on its own line. |
+| /uk/ type error | `src/pages/uk/index.astro` L204 | `surface="white"` removed from the closing `<CTA>`; the component accepts only `navy` and `ivory`, and every other page uses the default (`navy`). `astro check` now reports 0 errors. |
+
+### Round 41
+
+**Primary sources.** Read by the lead: Cambridge 0620 (2026-2028) 2.5 (Core 3; Supplement 4 CO2 and 5 "in terms of weak intermolecular forces"), 6.2 (Supplement 5-7), 6.3 (Core 1-2; Supplement 3-4), 6.4 (Core 1-5; Supplement 6-13), 9.4 (Supplement 4); AQA 8182 3.2.1 and 3.2.4. Oakley and Duncombe and Marsden as round 39 and D-256 recorded.
+
+| Item | Files | What changed |
+|---|---|---|
+| E936 (2) residue | `redox-reactions-revision-notes.md` (worked example agent labels, displacement paragraph, oxidation-number rules, worked identification, six exam traps, self-test 2, 3, 5, 6, 7); `redox-reactions-practice.md` (six marks-lost items, colour-change tests section); `rates-of-reaction-revision-notes.md` (energy-of-collisions paragraph, catalyst Eₐ line, equilibrium and Le Chatelier sections with a Core summary from 6.3 Core 1-2, two exam traps, self-test 2, 3, 5) | Tagged *(0620 Extended, 5070 required)*; the oxidation-number section states that 0620 Core needs only the Roman numeral in a name (6.4 Core 1). |
+| E936 (5) sibling | `aqa-gcse-sociology-families-education-practice.md` answer 6 | The second household (paid work plus most domestic and emotional labour) described as the triple shift; Oakley credited with the dual burden, Duncombe and Marsden with the triple shift. Tariff unchanged. |
+| E936 (6) sibling | `gcse-psychology-social-context-practice.md` | 'Every topic in Paper 2 pairs ...' replaced: social influence contrasts situational and dispositional factors; psychological problems contrasts biological and psychological explanations. |
+| I392.1 | `a-business-what-is-business-practice.md` | Opening now says questions 3, 6, 8 and 12 draw on content outside Topic 1, matching the scope note. |
+| I392.2 | `igcse-oxfordaqa-urdu-study-employment-practice.md` answer 1 | عزائم (plural of the rejected عزم) dropped; خواہش credited, or another singular rendering such as آرزو. |
+| I392.3 | `ionic-covalent-metallic-bonding-practice.md` Q6 and answer; tier note | Q6 (CO2 boiling point and weak intermolecular forces) tagged *(0620 Extended only, 5070 required)*; the tier note now lists explaining simple molecular properties in terms of intermolecular forces (0620 2.5 Supplement 5). |
+
+### Observations, not actioned
+
+- Several Urdu practice files hard-wrap Urdu prose inside a paragraph or run numbered answer items together in one paragraph (for example `o-level-cambridge-urdu-first-and-second-language-practice.md`, `urdu-reading-and-writing-practice.md`); with right-to-left display these read correctly, but items that were written on separate lines still share one paragraph. Not changed beyond the listening practice.
+- The `/practice/` question pages render practice Markdown through their own pipeline, not the site's Markdown processor; the flagship specifications they cover contain no Arabic-script passages.
+
+**Validation.** All pass: `astro check` 0 errors; `validate:academic`; `validate-assessments`; cross-board integrity; rendered academic labels; practice bank; build (2142 HTML files); `audit:all` 0 problems across 2141 pages; cross-board regression; negative suite; API tests 31/31; `check-duplicate-resource-scope` the four pre-existing groups only.
+
+**Open-count position after D-257.** Round 41 leaves E936 (2), (5), (6) and I392; all are closed here (9 resource files, with the right-to-left and /uk/ changes in 5 site files). Confirmed errors declared open: 0.

@@ -37,7 +37,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 Oxidation and reduction always occur together: if one species loses electrons, another must gain them.
 
-**Worked example (oxygen definition).** `CuO + H2 -> Cu + H2O`
+**Worked example (oxygen definition).** `CuO + H2 -> Cu + H2O` (naming the oxidising and reducing agents is *(0620 Extended, 5070 required)*)
 
 ```
 CuO loses oxygen  -> reduced   -> copper(II) oxide is the oxidising agent
@@ -56,9 +56,11 @@ Nothing here involves electron transfer explicitly, but the oxygen and electron 
 Common oxidising agents: acidified potassium manganate(VII), potassium dichromate(VI), chlorine, oxygen.
 Common reducing agents: carbon, carbon monoxide, hydrogen, reactive metals, potassium iodide.
 
-In a **displacement reaction**, a more reactive metal displaces a less reactive one from solution, and this is always a redox reaction: the more reactive metal is oxidised (loses electrons to form ions), while the less reactive metal's ions are reduced (gain electrons to form the metal). This is the same electron-transfer logic used throughout this topic, just applied to a pair of metals rather than a metal and a non-metal.
+In a **displacement reaction** *(0620 Extended, 5070 required)*, a more reactive metal displaces a less reactive one from solution, and this is always a redox reaction: the more reactive metal is oxidised (loses electrons to form ions), while the less reactive metal's ions are reduced (gain electrons to form the metal). This is the same electron-transfer logic used throughout this topic, just applied to a pair of metals rather than a metal and a non-metal.
 
 ## Oxidation number rules
+
+*(0620 Extended, 5070 required)* Deducing oxidation numbers is 0620 Supplement (6.4 S9); 0620 Core needs only the Roman numeral in a name (6.4 C1).
 
 ```
 Uncombined element                        0
@@ -109,6 +111,8 @@ Electrons must cancel exactly when the halves are combined — if they don't, mu
 
 ## Worked identification
 
+*(0620 Extended, 5070 required)*
+
 In `2Mg + O₂ → 2MgO`:
 
 ```
@@ -118,24 +122,24 @@ O:   0  ->  -2   decrease -> REDUCED  -> O2 is the oxidising agent
 
 ## Exam traps
 
-- The **agent is the opposite** of what happens to it — the single most common error in this topic.
-- Oxidation number is per **atom**, not for the whole formula.
-- In H₂O₂ oxygen is −1, not −2.
-- Electrons appear on the right for oxidation, the left for reduction.
+- *(0620 Extended, 5070 required)* The **agent is the opposite** of what happens to it — the single most common error in this topic.
+- *(0620 Extended, 5070 required)* Oxidation number is per **atom**, not for the whole formula.
+- *(0620 Extended, 5070 required)* In H₂O₂ oxygen is −1, not −2.
+- *(0620 Extended, 5070 required)* Electrons appear on the right for oxidation, the left for reduction.
 - For **0620 Core**, the oxygen definition (gain/loss of oxygen) is the **complete** requirement on its own — the electron and oxidation-number definitions are Extended/5070 only, so do not mark a Core candidate down for using oxygen alone.
-- Displacement reactions are redox: the more reactive metal is oxidised.
-- Forgetting that the oxygen and electron definitions must always agree — if a working shows one species gaining oxygen but also gaining electrons, at least one step has gone wrong.
+- *(0620 Extended, 5070 required)* Displacement reactions are redox: the more reactive metal is oxidised.
+- *(0620 Extended, 5070 required)* Forgetting that the oxygen and electron definitions must always agree — if a working shows one species gaining oxygen but also gaining electrons, at least one step has gone wrong.
 
 Related: [Redox Reactions practice questions](/resources/redox-reactions-practice/) for further worked examples, including displacement reactions and the reactivity series.
 
 ## Self-test
 
 1. In `Fe₂O₃ + 3CO → 2Fe + 3CO₂`, which species is reduced?
-2. Give the oxidation number of S in H₂SO₄.
-3. A solution turns acidified KMnO₄ from purple to colourless. What does this show?
+2. *(0620 Extended, 5070 required)* Give the oxidation number of S in H₂SO₄.
+3. *(0620 Extended, 5070 required)* A solution turns acidified KMnO₄ from purple to colourless. What does this show?
 4. Write the half equation for chloride ions forming chlorine.
-5. Why is a reducing agent itself oxidised?
-6. In `CuO + H2 → Cu + H2O`, identify the oxidising agent and reducing agent using the oxygen definition.
-7. Find the oxidation number of Cr in K2Cr2O7.
+5. *(0620 Extended, 5070 required)* Why is a reducing agent itself oxidised?
+6. *(0620 Extended, 5070 required)* In `CuO + H2 → Cu + H2O`, identify the oxidising agent and reducing agent using the oxygen definition.
+7. *(0620 Extended, 5070 required)* Find the oxidation number of Cr in K2Cr2O7.
 
 **Answers:** 1. Fe₂O₃ — iron goes from +3 to 0, a decrease, so it is reduced (CO is the reducing agent). 2. (+1×2) + S + (−2×4) = 0 → S = **+6**. 3. The solution is a **reducing agent**; MnO₄⁻ has been reduced to Mn²⁺. 4. 2Cl⁻ → Cl₂ + 2e⁻. 5. It donates electrons to the other species — donating electrons *is* oxidation, so causing reduction elsewhere necessarily means being oxidised itself. 6. CuO loses oxygen and is reduced, so it is the oxidising agent; H₂ gains oxygen and is oxidised, so it is the reducing agent. 7. 2(+1) + 2Cr + 7(−2) = 0 → 2Cr = 12 → Cr = **+6**.

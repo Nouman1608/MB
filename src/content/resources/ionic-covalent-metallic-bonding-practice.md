@@ -47,7 +47,7 @@ featured: false
 
 Related: [Bonding revision notes](/resources/ionic-covalent-metallic-bonding-revision-notes/)
 
-> **Tier note:** questions and parts marked *(0620 Extended only, 5070 required)* — ionic bonding beyond Group I with Group VII (e.g. magnesium oxide), explaining the properties of ionic compounds, metallic bonding and silicon(IV) oxide — are not required for a 0620 Core candidate. All other questions are answerable at Core.
+> **Tier note:** questions and parts marked *(0620 Extended only, 5070 required)* — ionic bonding beyond Group I with Group VII (e.g. magnesium oxide), explaining the properties of ionic compounds and of simple molecular compounds in terms of intermolecular forces, metallic bonding and silicon(IV) oxide — are not required for a 0620 Core candidate. All other questions are answerable at Core.
 
 ---
 
@@ -68,7 +68,7 @@ Related: [Bonding revision notes](/resources/ionic-covalent-metallic-bonding-rev
 **(c)** Explain why graphite is soft and used as a lubricant. **[2]**
 **(d)** Explain why both have very high melting points. **[2]**
 
-**6.** A student states: "Carbon dioxide has a low boiling point because its covalent bonds are weak." Explain what is wrong with this. **[3]**
+**6.** *(0620 Extended only, 5070 required)* A student states: "Carbon dioxide has a low boiling point because its covalent bonds are weak." Explain what is wrong with this. **[3]**
 
 **7.** *(0620 Extended only, 5070 required)* Explain why metals conduct electricity and are malleable. **[4]**
 
@@ -110,7 +110,7 @@ Na: 1 outer electron (•), lost      Cl⁻: 7 crosses (its own) + 1 dot (from N
 **(c)** The layers are held together only by **weak forces between them** [1], so they can **slide over one another** [1].
 **(d)** Both are **giant covalent structures** [1] in which very many **strong covalent bonds** must be broken [1].
 
-**6.** Boiling overcomes the **weak intermolecular forces between CO₂ molecules** [1], not the covalent bonds within them [1]. The C=O covalent bonds are in fact **very strong** and remain intact — the gas still consists of CO₂ molecules [1].
+**6.** *(0620 Extended only, 5070 required)* Boiling overcomes the **weak intermolecular forces between CO₂ molecules** [1], not the covalent bonds within them [1]. The C=O covalent bonds are in fact **very strong** and remain intact — the gas still consists of CO₂ molecules [1].
 
 **7.** *(0620 Extended only, 5070 required)* They contain **delocalised electrons** that are **free to move** through the structure and carry charge [1] [1]. The **layers of positive ions can slide over one another** without breaking the metallic bonding [1], because the delocalised electrons continue to hold the structure together [1].
 

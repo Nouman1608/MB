@@ -91,14 +91,16 @@ Related: [Redox Reactions revision notes](/resources/redox-reactions-revision-no
 
 ## Where marks are usually lost
 
-- Forgetting that oxidation numbers in a polyatomic ion must sum to the overall charge on that ion.
-- Saying the metal is the oxidising agent in a displacement reaction — it is the metal ion in solution that oxidises the reacting metal, not the other way round.
-- Leaving spectator ions in an ionic equation.
-- Not balancing charge as well as atoms.
-- Confusing which colour change signals oxidation and which signals reduction — acidified manganate(VII) decolourising means it has been reduced, while a solution turning brown with potassium iodide means iodide has been oxidised to iodine.
-- Describing a colour-change test result without linking it explicitly to which species was oxidised and which was reduced.
+- *(0620 Extended, 5070 required)* Forgetting that oxidation numbers in a polyatomic ion must sum to the overall charge on that ion.
+- *(0620 Extended, 5070 required)* Saying the metal is the oxidising agent in a displacement reaction — it is the metal ion in solution that oxidises the reacting metal, not the other way round.
+- *(0620 Extended, 5070 required)* Leaving spectator ions in an ionic equation.
+- *(0620 Extended, 5070 required)* Not balancing charge as well as atoms.
+- *(0620 Extended, 5070 required)* Confusing which colour change signals oxidation and which signals reduction — acidified manganate(VII) decolourising means it has been reduced, while a solution turning brown with potassium iodide means iodide has been oxidised to iodine.
+- *(0620 Extended, 5070 required)* Describing a colour-change test result without linking it explicitly to which species was oxidised and which was reduced.
 
 ## Colour-change tests as a pair, worth learning together
+
+*(0620 Extended, 5070 required)*
 
 **Acidified potassium manganate(VII)** — deep purple, decolourises as it is
 **reduced**; used to detect a reducing agent.

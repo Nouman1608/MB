@@ -51,12 +51,13 @@ Rate increases if collisions become **more frequent**, **more energetic**, or bo
 
 The "Effect on rate" column is 0620 Core; the "Because" column (collision theory) is 0620 Extended and 5070 required.
 
-Only temperature changes the **energy** of collisions. The others change frequency only — a distinction examiners test directly. At Extended/O Level standard, a temperature rise's dominant effect is the **greater proportion of collisions exceeding Eₐ**, not just the extra frequency — this is why a modest temperature rise speeds a reaction up far more than frequency alone would suggest.
+*(0620 Extended, 5070 required)* Only temperature changes the **energy** of collisions. The others change frequency only — a distinction examiners test directly. At Extended/O Level standard, a temperature rise's dominant effect is the **greater proportion of collisions exceeding Eₐ**, not just the extra frequency — this is why a modest temperature rise speeds a reaction up far more than frequency alone would suggest.
 
 ## Catalysts
 
 - Not used up; chemically unchanged at the end.
-- Lower Eₐ; do **not** change the position of equilibrium or the yield — only how fast it is reached.
+- *(0620 Extended, 5070 required)* Lower Eₐ.
+- Do **not** change the position of equilibrium or the yield — only how fast it is reached *(0620 Extended, 5070 required)*.
 - Enzymes are biological catalysts.
 
 ## Measuring rate
@@ -72,9 +73,13 @@ On a graph, the **steeper** the curve the faster the rate. The curve **levels of
 
 ## Reversible reactions and equilibrium
 
+0620 Core: some reactions are reversible (⇌), and changing conditions can reverse a reaction (heating hydrated copper(II) sulfate or cobalt(II) chloride; adding water to the anhydrous salt). The rest of this section is *(0620 Extended, 5070 required)* (0620 6.3 Supplement 3-4).
+
 **Dynamic equilibrium** — forward and reverse rates are **equal**, concentrations remain constant, in a **closed** system. Both reactions continue; nothing stops.
 
 ## Le Chatelier's principle
+
+*(0620 Extended, 5070 required)*
 
 If a change is applied, the position of equilibrium shifts to **oppose** it.
 
@@ -104,8 +109,8 @@ Both use a **compromise temperature**: lower would give a higher yield but too s
 - *(0620 Extended, 5070 required)* Say collisions are more **frequent**, not "more collisions".
 - *(0620 Extended, 5070 required)* Only temperature increases collision **energy**.
 - A catalyst does not increase yield.
-- Equilibrium needs a **closed** system.
-- "Shifts to the right" is not enough — say towards products/reactants and why.
+- *(0620 Extended, 5070 required)* Equilibrium needs a **closed** system.
+- *(0620 Extended, 5070 required)* "Shifts to the right" is not enough — say towards products/reactants and why.
 - Quoting the wrong catalyst for Haber vs Contact — **iron** for Haber, **vanadium(V) oxide** for Contact — the pressures and temperatures also differ between the two.
 - *(0620 Extended, 5070 required)* Explaining temperature's effect using only "more collisions," without mentioning the greater proportion exceeding activation energy.
 - Forgetting that the **whole** of the Haber and Contact process content — equations, sources, conditions and the equilibrium reasoning behind them — is **Supplement** in 0620 and simply **required** for every 5070 candidate; 0620 Core does not need any of it.
@@ -113,10 +118,10 @@ Both use a **compromise temperature**: lower would give a higher yield but too s
 ## Self-test
 
 1. Why does powdering a solid speed up a reaction?
-2. In an exothermic forward reaction, what does raising temperature do to yield?
-3. Does a catalyst change the equilibrium position?
+2. *(0620 Extended, 5070 required)* In an exothermic forward reaction, what does raising temperature do to yield?
+3. *(0620 Extended, 5070 required)* Does a catalyst change the equilibrium position?
 4. Why is 450 °C used in the Haber process rather than a lower temperature?
-5. State two features of dynamic equilibrium.
+5. *(0620 Extended, 5070 required)* State two features of dynamic equilibrium.
 6. Why is 200 atm used in the Haber process rather than a much higher pressure?
 7. State the source of nitrogen and of hydrogen used in the Haber process.
 8. State the source of the sulfur dioxide and oxygen used in the Contact process.

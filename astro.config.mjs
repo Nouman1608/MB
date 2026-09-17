@@ -1,5 +1,7 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
+import { satteri } from '@astrojs/markdown-satteri';
+import { rtlBlocksPlugin } from './src/utils/markdown/hast-rtl-blocks.mjs';
 import tailwindcss from '@tailwindcss/vite';
 import { readdirSync, readFileSync } from 'node:fs';
 import { activeOnly, academicHubPath, LEVEL_FOR_QUALIFICATION } from './src/utils/academic/index.ts';
@@ -174,6 +176,15 @@ export default defineConfig({
    * text-content diff during the Astro 5->7 upgrade.
    */
   compressHTML: true,
+  /**
+   * Default Sätteri processor (same features as Astro's default `satteri()`),
+   * plus one hast plugin that marks Arabic-script text blocks right-to-left
+   * (Qur'an and Hadith passages, Urdu exam text). See
+   * src/utils/markdown/hast-rtl-blocks.mjs. (D-257.)
+   */
+  markdown: {
+    processor: satteri({ hastPlugins: [rtlBlocksPlugin] }),
+  },
   integrations: [
     sitemap({
       // Excluded: private/internal routes, plus every academic hub page

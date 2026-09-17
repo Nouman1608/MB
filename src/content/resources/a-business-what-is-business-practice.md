@@ -34,8 +34,9 @@ markets** paper (written exam, 1 hour 30 minutes, 80 marks), which has three com
 **Section A** multiple choice, short answer and data response questions worth approximately 17 marks;
 **Section B** extended response questions worth approximately 27 marks; and **Section C** extended
 response questions worth approximately 36 marks. Here the sections are worth exactly 17, 27 and 36
-marks. The real Unit 1 paper also examines Topic 2 Marketing; apart from question 6, every question
-below is on Topic 1 What is business?, so use it as topic practice rather than as a full mock. Extra
+marks. The real Unit 1 paper also examines Topic 2 Marketing; questions 3, 6, 8 and 12 draw on content
+outside Topic 1 (see the scope note below), and the rest are on Topic 1 What is business?, so use it
+as topic practice rather than as a full mock. Extra
 short-answer questions on the external environment follow the answers, outside the paper layout.
 
 **If you follow 9725** (first International AS exams May/June 2027), its Unit 1 paper is different:
