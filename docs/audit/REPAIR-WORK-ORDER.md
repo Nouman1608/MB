@@ -10,7 +10,7 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-**40 confirmed-error groups open** *(2026-11-08, round 32: 34 closures from D-138…D-225 reopened in rounds 30–32; E926–E931 recorded. Improvement items I380–I383 open.)*
+**61 confirmed-error groups open** *(2026-11-09, round 33: 54 closures from D-138…D-225 reopened in rounds 30–33; E926–E932 recorded. Improvement items I380–I384 open.)*
 
 > **Amended 2026-10-12 (Q374).** This order first said 658. That figure never subtracted repair
 > rounds D-138…D-191, which closed 508 of them. The list of what is actually open — 89 plain,
@@ -137,6 +137,11 @@ work order can be a document rather than a conversation.
 ---
 
 ## 8. Current specifics
+
+- **Round 33 (2026-11-09, Q414): closures E467–E704 read; 20 reopened.** Ten are `syllabus-topics.ts` records printed
+  on the subject pages and checklists (E496, E497, E507, E509, E521, E525, E526, E559, E560, E696): fix the data record
+  in the same commit as the resource. The others (Q414 gives file and line): E495, E503, E511, E522, E529, E533, E550,
+  E552, E567, E698. Also **E932** (9245 Question 4 is not the usefulness question; CPR r.26.9(7)(d) party rule) and I384.
 
 - **Round 32 (2026-11-08, Q413): closures E338–E466 read; 11 reopened.** Reopened (Q413 gives file and line): E343,
   E399, E406 (`syllabus-topics.ts` records rendered on the subject pages and checklists), E354 (IB Economics practice
