@@ -40,8 +40,9 @@ series.
 - **Postmodernist**: diversity = positive, evidence of individual choice.
 
 **Changing family life**: connect cause to effect directly — falling birth rates + rising life
-expectancy → ageing population → emerging roles like the "sandwich generation" and "boomerang
-children."
+expectancy → ageing population (4.3.1) → effects such as more generations alive at once (beanpole
+families), the pivot or "sandwich generation", and changing roles of grandparents. "Boomerang children"
+belong to changing roles of children (4.3.5), not to the effects of an ageing population.
 
 Six named family structures: nuclear, extended, reconstituted, lone parent, empty nest, childless —
 know how each varies by culture, class and ethnicity before moving to perspectives.

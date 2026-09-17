@@ -7,7 +7,7 @@ topic: "Paper 1"
 boards: ["cambridge"]
 qualifications: ["o-level"]
 syllabusCodes: ["2058"]
-syllabusSeries: "For examination in 2024-2025"
+syllabusSeries: "For examination in 2026-2027"
 order: 3
 syllabusTopics:
   - qualification: "o-level"
@@ -23,12 +23,11 @@ Islamiyat (2058). The site's existing guide to [Paper 1](/resources/o-level-isla
 four Paper 1 subtopics, but develops 1.1 in only a single summary bullet before moving on to focus on 1.2's
 compilation history and the connected timeline of 1.3 and 1.4 -- this guide develops 1.1 specifically.
 
-**Which edition this guide covers:** this guide follows the **2024-2025 syllabus**, which has since closed.
-Cambridge has published two further cycles for 2058 -- a 2026-2027 syllabus (the edition the site's other
-2058 resources, including the main [Paper 1](/resources/o-level-islamiyat-paper-1/) guide, now follow) and
-a 2028 syllabus. The qualification itself is live and has not been withdrawn or renumbered. Check with your
-centre which cycle you are entered for before relying on this guide's syllabus citation below; the thematic
-content on this page has not yet been re-verified against the newer cycles.
+**Which edition this guide covers:** this guide follows the **2026-2027 syllabus**, the edition the site's
+other 2058 resources, including the main [Paper 1](/resources/o-level-islamiyat-paper-1/) guide, follow.
+Its Question 1 format and the passages set for special study in Appendix 1 are the same as in the closed
+2024-2025 syllabus. Cambridge has also published a 2028 syllabus; check with your centre which cycle you
+are entered for.
 
 ## Where this fits in 2058
 
@@ -64,8 +63,9 @@ of the three set passages accessible on exam day.
 
 ## Official syllabus
 
-Cambridge O Level Islamiyat (2058) syllabus, for examination in 2024-2025 --
-[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/635787-2024-2025-syllabus.pdf).
+Cambridge O Level Islamiyat (2058) syllabus, for examination in 2026 and 2027 (version 1) --
+[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697279-2026-2027-syllabus.pdf).
+Question 1 and Appendix 1 are unchanged from the 2024-2025 syllabus.
 
 ## Tawhid: the foundational theme
 

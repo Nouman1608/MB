@@ -78,8 +78,9 @@ structures working together to perform a shared function; an organ is
 made of several tissues working together to perform specific
 functions; an organ system is a group of organs with related functions
 working together; and an organism is an individual living thing capable
-of carrying out all the life processes, built from one or more organ
-systems. This hierarchy — cell, tissue, organ, organ system, organism —
+of carrying out all the life processes -- in multicellular animals and
+plants built from organ systems, while a unicellular organism such as a
+bacterium carries out all the life processes within a single cell. This hierarchy — cell, tissue, organ, organ system, organism —
 is a short-answer favourite precisely because it is easy to learn
 imprecisely; candidates who can only recite the five words without
 being able to apply the definitions to an unfamiliar example (identify

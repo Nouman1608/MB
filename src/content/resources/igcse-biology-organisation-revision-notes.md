@@ -66,8 +66,11 @@ paraphrase — "conduction of electrical impulses" for a neurone, not
 to perform a shared function. **Organ** → made of several tissues
 working together to perform specific functions. **Organ system** →
 group of organs with related functions working together. **Organism**
-→ an individual living thing capable of all the life processes, built
-from one or more organ systems.
+→ an individual living thing capable of all the life processes. In
+multicellular animals and plants it is built from organ systems; a
+unicellular organism, such as a bacterium (a prokaryote) or many
+protoctists, carries out all the life processes within a single cell,
+with no tissues, organs or organ systems.
 
 This five-term chain is a short-answer favourite precisely because it
 is easy to learn imprecisely. Practise applying it to examples the

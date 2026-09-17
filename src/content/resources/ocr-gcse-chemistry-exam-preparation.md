@@ -35,9 +35,10 @@ from it -- one error can cost an entire multi-mark question.
 
 Formally, Paper 2/4 assesses topics 4-6. But topics 1-3 are assumed, and synoptic questions can
 require them. **Exam-preparation priority**: keep atomic structure, bonding and the properties of
-materials revised right through to the second paper. Rates, energetics and organic chemistry all sit
-on top of that foundation, and a question about a reaction's rate can perfectly reasonably require
-bonding to explain it.
+materials revised right through to the second paper. Rates (Topic C5) and organic chemistry (Topic C6)
+sit on top of that foundation, and a question about a reaction's rate can perfectly reasonably require
+bonding to explain it. Energetics (C3.2) is Topic C3 content, so it is assessed on the first paper and
+is assumed knowledge on the second.
 
 ## The mathematics in GCSE chemistry is narrow and highly scorable
 

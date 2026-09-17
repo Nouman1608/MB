@@ -53,7 +53,7 @@ rigorous, general argument, not verification using specific examples.
 
 ## Worked practice scenario: a "show that" trigonometric identity, every step shown
 
-Question: "Show that (1 - cos(2x)) / sin(2x) = tan(x), for sin(x) not equal to 0."
+Question: "Show that (1 - cos(2x)) / sin(2x) = tan(x), for sin(2x) not equal to 0."
 
 ```
 Step 1 - use the double-angle identities:
@@ -62,9 +62,11 @@ sin(2x) = 2sin(x)cos(x)
 
 Step 2 - substitute both into the original expression:
 (1 - cos(2x)) / sin(2x) = 2sin^2(x) / (2sin(x)cos(x))
+[sin(2x) = 2sin(x)cos(x) != 0 means sin(x) != 0 and cos(x) != 0]
 
 Step 3 - cancel common factors:
-= sin(x) / cos(x)   [cancelling 2sin(x), valid since sin(x) != 0]
+= sin(x) / cos(x)   [cancelling 2sin(x), valid since sin(x) != 0;
+                     cos(x) != 0, so tan(x) is defined]
 
 Step 4 - recognise the simplified form:
 sin(x) / cos(x) = tan(x)
@@ -108,18 +110,19 @@ number.
 1. Why does pure content need to stay continuously revised throughout the whole course?
 2. What do mechanics and statistics questions require beyond the pure technique itself?
 3. What does "show that" require that "calculate" does not?
-4. In the worked scenario, why is the condition "sin(x) not equal to 0" noted during the
-   cancellation step?
+4. In the worked scenario, what does the condition "sin(2x) not equal to 0" require, and where is
+   each part of it used?
 
 **Answers:** 1. Because pure content is examined on all three papers, not just Paper 1 -- Papers 2 and
 3 both draw on it directly within their mechanics and statistics contexts, so it cannot be treated as
 complete once Paper 1 has been sat. 2. Setting up and applying the mathematical model to a described
 real-world context (forces, motion, or data), not just performing the underlying pure technique in
 isolation. 3. A fully justified, step-by-step derivation reaching the given result -- not just a
-correct final answer, since the mark scheme awards credit for the shown steps. 4. Because cancelling
-sin(x) from both the numerator and denominator is only a valid algebraic step when sin(x) is not zero
--- stating this condition explicitly shows full awareness of when the identity holds, which a
-rigorous "show that" answer at A-Level is expected to demonstrate.
+correct final answer, since the mark scheme awards credit for the shown steps. 4. Since sin(2x) = 2sin(x)cos(x), the
+condition requires both sin(x) not equal to 0 and cos(x) not equal to 0. The first makes cancelling
+sin(x) from numerator and denominator a valid step; the second means the denominator cos(x), and so
+tan(x), is defined. Stating the full condition shows exactly when the identity holds, which a rigorous
+"show that" answer at A-Level is expected to demonstrate.
 
 *Written against AQA A-Level Mathematics 7357 (specification-at-a-glance, verified 2026-08-28). The
 worked scenario above is an original example written for this resource, not a reproduction of any

@@ -73,18 +73,24 @@ Weak time allocation:    8 minutes on the first extract's imagery and
                           work without developed analysis.
 
 Stronger time
-allocation:               5 minutes closely analysing specific techniques
-                          in the first extract connected to the global
-                          issue, then 5 minutes doing the same close,
-                          specific analysis for the second work -- not
-                          just summarising its plot, but pointing to
-                          precise textual moments and techniques as
-                          evidence for how it treats the same issue.
+allocation:               About 4.5 minutes closely analysing specific
+                          techniques in the first extract connected to
+                          the global issue, then about 4.5 minutes doing
+                          the same close, specific analysis for the second
+                          work -- not just summarising its plot, but
+                          pointing to precise textual moments and
+                          techniques as evidence for how it treats the
+                          same issue.
 
-Closing comparison:        A brief final comparison noting a genuine
-                          similarity or difference in how the two works
-                          treat the issue, showing the connection was
-                          made deliberately rather than left implicit.
+Closing comparison:        About 1 minute: a brief final comparison noting
+                          a genuine similarity or difference in how the
+                          two works treat the issue, showing the
+                          connection was made deliberately rather than
+                          left implicit.
+
+Total:                     10 minutes of prepared response, the length the
+                          guide sets, followed by 5 minutes of questions
+                          from the teacher.
 ```
 
 Rehearsing with a timer, and stopping to check whether the second work has received the same depth

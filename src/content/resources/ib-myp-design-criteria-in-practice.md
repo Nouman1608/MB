@@ -33,8 +33,14 @@ MYP subjects are graded against four equally weighted criteria, each
 on an 8-point scale (levels 1-8 across four descriptor bands, with an
 additional level of 0 below the lowest band for work that does not
 reach the level-1 standard -- so a criterion's actual attainable range
-is 0-8), assessed through an ePortfolio rather than a timed written
-paper. This means the depth of documentation at each
+is 0-8). For IB-validated course results, design is assessed through an
+ePortfolio rather than a timed written paper: the design subject brief
+says the ePortfolio is a design project presented as a complete design
+folder, and the MYP certificate requires an ePortfolio in language
+acquisition and in one of design, arts or physical and health
+education, alongside on-screen examinations in language and literature,
+individuals and societies, sciences, mathematics and interdisciplinary
+learning. This means the depth of documentation at each
 design-cycle stage is not optional supporting detail -- it is the
 actual evidence a moderator sees and marks. A finished prototype
 photograph alone, without the accompanying inquiry, specification,

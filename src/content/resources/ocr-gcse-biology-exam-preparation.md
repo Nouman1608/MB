@@ -29,8 +29,8 @@ These notes complement the site's guides to
 This is the most consequential structural fact about the specification. Paper 2 (or 4) formally
 assesses topics 4-6, but topics 1-3 are assumed and can be drawn on synoptically. **Exam-preparation
 priority**: do not close the book on topics 1-3 once the first paper is sat. Cell structure, transport
-and enzyme chemistry underpin the digestion, ecology and inheritance content of the later topics, and
-a synoptic question can require both.
+and enzyme chemistry underpin the ecology (Topic B4) and inheritance (Topic B5) content of the later
+topics, and a synoptic question can require both.
 
 ## Topic 7 practical skills appear on every paper
 

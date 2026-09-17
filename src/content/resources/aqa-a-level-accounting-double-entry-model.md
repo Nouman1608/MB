@@ -112,10 +112,20 @@ Reducing balance (25% per year, for comparison):
 Year 1: 20 000 x 25% = £5 000  -> carrying value 15 000
 Year 2: 15 000 x 25% = £3 750  -> carrying value 11 250
 Year 3: 11 250 x 25% = £2 813  -> carrying value  8 438 (approx)
+Year 4:  8 438 x 25% = £2 109  -> carrying value  6 328 (approx)
+
+Straight line carrying values: 15 500, 11 000, 6 500, 2 000.
 ```
 
-Straight line produces a constant annual charge; reducing balance front-loads the expense and leaves a
-higher closing net book value in later years -- the two methods will not agree except by coincidence.
+Straight line produces a constant annual charge; reducing balance applies its rate to a falling carrying
+value, so it front-loads the expense. Whether its carrying value is higher or lower than straight line's in
+a given year depends on the rate chosen, not on the method. At 25%, the year 1 charge (£5 000) is higher
+than straight line's (£4 500) but every later charge is lower, so the carrying value is below straight
+line's after year 1 and above it from year 2, ending year 4 at about £6 328 -- well above the £2 000
+residual value. A rate of about 43.8% would bring the carrying value down to £2 000 after four years
+(charges of about £8 753, £4 922, £2 768 and £1 557), with a higher charge than straight line in years 1
+and 2 and a lower one in years 3 and 4. The two methods charge the same total over the asset's life only
+when the reducing-balance rate is set to reach the same residual value.
 
 ## Common mistakes
 

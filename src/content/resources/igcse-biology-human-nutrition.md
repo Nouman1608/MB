@@ -183,9 +183,10 @@ excretion permanently separated in your own notes, since this is one
 of the most frequently tested definition-confusions in the whole
 syllabus, not just within this topic. For Extended candidates, be able
 to redraw a villus from memory and label capillaries and lacteals
-correctly, since diagram-labelling questions on absorption appear on
-both Core and Extended papers even though the villus/microvilli detail
-itself is Supplement-only.
+correctly: the structure of villi, microvilli and lacteals is
+Supplement content, so it is examined only on the Extended papers
+(Papers 2 and 4); Core candidates take Papers 1 and 3, which the
+syllabus bases on the Core subject content only.
 
 ## Official syllabus
 

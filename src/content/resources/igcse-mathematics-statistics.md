@@ -32,8 +32,10 @@ syllabus — calculating an average uses the same careful arithmetic as
 Topic 1 Number, and reading a statistical chart uses the same
 coordinate and scale-reading skills as Topic 3 Coordinate geometry.
 Because Statistics sits last, it is sometimes under-revised relative
-to earlier topics simply due to running out of time, despite carrying
-equal weight in the exam to any other topic.
+to earlier topics simply due to running out of time. The syllabus gives
+weightings for its assessment objectives and papers, not for individual
+topics, so plan revision time for Statistics on the same footing as the
+topics that come before it.
 
 ## Syllabus coverage
 
