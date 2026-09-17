@@ -13,7 +13,7 @@ faqs:
   - question: "Are Marlbridge's English Literature study guides free to use?"
     answer: "Yes. Study material on Marlbridge is free to read for anyone preparing for an exam, and free for schools and teachers to use with their classes — no licence, account or attribution required."
   - question: "Which exam boards does this follow?"
-    answer: "Cambridge Assessment International Education, Pearson Edexcel, AQA and OxfordAQA."
+    answer: "Cambridge International Education, Pearson Edexcel, AQA and OxfordAQA."
   - question: "Does Marlbridge teach English Literature?"
     answer: "Yes, at IGCSE, GCSE and A Level. Marlbridge teaches this across Cambridge, Pearson Edexcel, AQA and OxfordAQA."
 ---

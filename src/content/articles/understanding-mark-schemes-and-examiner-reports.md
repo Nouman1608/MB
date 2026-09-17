@@ -22,13 +22,17 @@ Read a few and the grammar of examining becomes visible.
 
 - **Marks are discrete.** A four-mark question wants four separate creditable
   points, not one point expressed four ways.
-- **Command words are contractual.** *State* wants a sentence. *Explain* wants a
+- **Command words are contractual.** *State* means "express in clear terms"
+  (Cambridge's definition), so a short, direct answer is enough. *Explain* wants a
   causal link, usually signalled by "because" or "therefore". *Evaluate* wants
   both sides and a judgement. Answering an *explain* question with a *state*
   answer caps the mark however correct the content.
-- **Some words are required.** Where a scheme lists an accepted term with
-  alternatives in brackets, those alternatives are the only paraphrases that
-  score. Elsewhere, the specific term is mandatory.
+- **Alternatives are listed, not exhaustive.** In Cambridge mark schemes,
+  slashes (/) or the word "or" separate alternative ways of making the same
+  point, and content in brackets is guidance for the examiner that is not
+  required to earn the mark. Cambridge's social science schemes, for example,
+  credit answers worded differently from the scheme if they clearly convey the
+  same meaning, unless the scheme requires a specific term.
 - **Method carries credit.** In quantitative subjects, marks are often
   available for the correct method even when the final figure is wrong — which
   is why unexplained answers are expensive.

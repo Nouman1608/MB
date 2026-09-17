@@ -9,13 +9,13 @@ description: "Mathematics teaching and study resources, organised by level and t
 featured: true
 faqs:
   - question: "What does the Mathematics hub cover?"
-    answer: "Cambridge O Level Mathematics (Syllabus D) study guides (specification 4024, 2025–2027 series), organised by topic. More levels and specifications are added as material is written."
+    answer: "Mathematics across five boards and the IB: Cambridge IGCSE (0580), O Level Mathematics (Syllabus D) (4024) and International AS & A Level (9709); Pearson Edexcel International GCSE (4MA1) and International A Level (YMA01); AQA GCSE (8300) and A-level (7357); OCR GCSE (J560) and A Level (H240); OxfordAQA International GCSE (9260) and International AS and A-level (9660); and IB Middle Years Programme Mathematics. Study material is organised by topic, and the amount differs by specification; more is added as it is written."
   - question: "Are Marlbridge's Mathematics study guides free to use?"
     answer: "Yes. Study material on Marlbridge is free to read for anyone preparing for an exam, and free for schools and teachers to use with their classes — no licence, account or attribution required."
   - question: "Which exam board does this follow?"
-    answer: "Cambridge Assessment International Education, Pearson Edexcel, AQA, OCR and OxfordAQA."
+    answer: "Cambridge International Education, Pearson Edexcel, AQA, OCR, OxfordAQA and the International Baccalaureate (IB)."
   - question: "Does Marlbridge teach Mathematics?"
-    answer: "Yes, at IGCSE, O Level, GCSE and A Level. Marlbridge teaches this across Cambridge, Pearson Edexcel, AQA, OCR and OxfordAQA — written study material currently focuses on Cambridge O Level Mathematics (Syllabus D) (syllabus 4024)."
+    answer: "Yes, at IGCSE, O Level, GCSE, A Level and IB Middle Years Programme. Marlbridge teaches this across Cambridge, Pearson Edexcel, AQA, OCR, OxfordAQA and the IB."
 ---
 
 The Mathematics hub gathers the topics, study guides and practice material for

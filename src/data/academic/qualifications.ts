@@ -58,7 +58,7 @@ export const QUALIFICATIONS: readonly Qualification[] = [
     status: 'offered',
     offeredByBoards: ['cambridge', 'edexcel', 'aqa', 'ocr', 'oxfordaqa'],
     source: 'https://learnersacademy.com.pk/ (A Levels nav column); OCR A Level added 2026-08-18 (v1.0 WS3) per owner authorization and ocr.org.uk verification; OxfordAQA International A-level added 2026-08-18 (v1.0 WS4) per owner authorization and oxfordaqa.com verification — neither from Learners Academy nav.',
-    about: 'A Level (and its international counterpart, International A Level / IAL) is the qualification typically studied after IGCSE, O Level or GCSE, ahead of university entry. Marlbridge publishes A Level material across all five boards it teaches -- Cambridge and OxfordAQA both examine it as a combined AS & A Level route rather than separately taught AS, while Pearson Edexcel and AQA offer AS as its own qualification (see AS Level below).',
+    about: 'A Level (and its international counterpart, International A Level / IAL) is the qualification typically studied after IGCSE, O Level or GCSE, ahead of university entry. Marlbridge publishes A Level material for five of the six boards it teaches (the sixth, the IB, offers its Diploma Programme instead). At Cambridge, OxfordAQA and Pearson Edexcel (International A Level), the AS Level is the first half of the A Level: it can be certificated on its own or count towards the full A Level. AQA\'s AS is a separate qualification: its A-level is linear, with every exam taken at the end of the course, so an AS result does not count towards it (see AS Level below).',
   },
   {
     slug: 'as-level',
@@ -68,7 +68,7 @@ export const QUALIFICATIONS: readonly Qualification[] = [
     offeredByBoards: ['aqa'],
     source: 'https://www.aqa.org.uk/subjects/business (AS Business 7131/7137, verified as a distinct AQA qualification)',
     notes: 'Marked offered 2026-08-18 per Marlbridge business decision. Only AQA (plain) has row-level AS evidence in the matrix today (Business, representative row) — Cambridge markets 9701 etc. as combined AS & A Level rather than a separately taught AS route, and OxfordAQA (added 2026-08-18, v1.0 WS4) follows the identical "International AS and A-level [Subject]" combined-page convention, so both are recorded under the a-level slug rather than here — that distinction is preserved and NOT changed by this status flip.',
-    about: 'AS Level is a standalone one-year qualification, distinct from the first year of a full A Level. AQA is the only board recorded here with a genuinely separate AS route; Cambridge and OxfordAQA teach towards a combined AS & A Level qualification instead, so those are listed under A Level rather than here.',
+    about: 'AS Level can be certificated as a qualification on its own at Cambridge, OxfordAQA, Pearson Edexcel (International AS) and AQA. At Cambridge, OxfordAQA and Pearson Edexcel it is also the first half of the A Level and can count towards it. AQA\'s AS (for example AS Business 7131) is a separate qualification whose result does not count towards the linear A-level, so AQA AS is listed here; Cambridge, OxfordAQA and Pearson Edexcel AS Levels are listed under A Level, whose syllabus includes the AS.',
   },
   {
     slug: 'gcse',
@@ -78,7 +78,7 @@ export const QUALIFICATIONS: readonly Qualification[] = [
     offeredByBoards: ['aqa', 'ocr'],
     source: 'https://www.aqa.org.uk/subjects (AQA qualification catalogue: GCSE / AS / A-level); https://www.ocr.org.uk/qualifications/gcse/ (OCR GCSE, added 2026-08-18, v1.0 WS3)',
     notes: 'RECLASSIFIED from IGCSE — see CONFLICT-01 in matrix.ts: Learners Academy labelled these "IGCSE" but the codes are AQA GCSE codes; AQA offers no IGCSE. Marked offered 2026-08-18 per Marlbridge business decision to teach all represented boards/qualifications. OCR GCSE added 2026-08-18 (v1.0 WS3) per owner authorization and ocr.org.uk verification.',
-    about: 'GCSE is the UK-domestic qualification taken by school students in England, distinct from the internationally-aimed IGCSE. Marlbridge publishes GCSE material for AQA and OCR, the two UK-domestic boards it teaches -- Cambridge, Pearson Edexcel and OxfordAQA are recorded under IGCSE instead, since none of them offer a UK GCSE route in this model.',
+    about: 'GCSE is the UK-domestic qualification taken by school students in England, distinct from the internationally-aimed IGCSE. Marlbridge publishes GCSE material for AQA and OCR. Pearson Edexcel is also a UK-domestic board and offers UK GCSEs, but no Pearson Edexcel GCSE is recorded in this model (its UK GCE A Level Urdu, 9UR0, is); Cambridge, Pearson Edexcel and OxfordAQA international qualifications at this stage are recorded under IGCSE instead.',
   },
   {
     slug: 'ib-myp',
@@ -87,7 +87,7 @@ export const QUALIFICATIONS: readonly Qualification[] = [
     status: 'offered',
     offeredByBoards: ['ib'],
     source: 'Owner confirmed directly in chat, 2026-08-22: IB teaching (MYP and DP) has started at Marlbridge.',
-    about: 'The Middle Years Programme (MYP) is the IB\'s curriculum framework for ages 11-16, studied before the Diploma Programme. It groups subjects more broadly than Cambridge/Edexcel-style qualifications -- for example a single integrated "Sciences" subject rather than separate Biology/Chemistry/Physics -- and is assessed through internally-graded criteria rather than an external board exam at every subject.',
+    about: 'The Middle Years Programme (MYP) is the IB\'s curriculum framework for ages 11-16, studied before the Diploma Programme. It organises subjects into broader subject groups than Cambridge/Edexcel-style qualifications -- for example Sciences, whose courses usually include biology, chemistry and physics, which schools may teach as separate, modular or integrated courses -- and is assessed through internally-graded criteria rather than an external board exam at every subject.',
   },
   {
     slug: 'ib-dp',

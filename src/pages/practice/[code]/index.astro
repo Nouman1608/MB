@@ -220,7 +220,7 @@ const trialHref = trialProgramSlug ? `/trial/?program=${trialProgramSlug}` : '/t
           <div id="mb-practice-mastery-explain" class="m-0 mb-4 rounded-sm border border-dashed border-rule bg-ivory p-4 text-[13px] leading-[1.6] text-ink-mute" hidden>
             <strong class="text-ink">Not started</strong> — no attempts yet on any question in this topic.{' '}
             <strong class="text-ink">Needs review</strong> — your most recent attempt in this topic was marked wrong, or fewer than half your attempts were correct.{' '}
-            <strong class="text-ink">Developing</strong> — at least half your attempts were correct, but not yet two in a row.{' '}
+            <strong class="text-ink">Developing</strong> — your most recent attempt was correct and at least half your attempts were correct, but the topic is not yet secure: either you have made only one attempt, or at least one attempt was wrong.{' '}
             <strong class="text-ink">Secure</strong> — at least two questions attempted in this topic, all marked correct, and your most recent attempt was correct. One correct answer is never enough on its own to call a topic secure.
           </div>
           <ul id="mb-practice-mastery-list" class="m-0 grid list-none gap-2 p-0 sm:grid-cols-2"></ul>
@@ -234,7 +234,10 @@ const trialHref = trialProgramSlug ? `/trial/?program=${trialProgramSlug}` : '/t
 
         <p class="m-0 mt-8 text-[12.5px] text-ink-mute">
           Your progress is saved only in this browser (localStorage), on this device. Clearing your
-          browser data will reset it. Nothing is sent to Marlbridge or anyone else.
+          browser data will reset it. It is not stored on a Marlbridge server, but practice activity (including
+          each question you mark, whether you marked it correct, and your diagnostic score) is sent to Google
+          Analytics as usage measurements, without cookies unless you have accepted analytics cookies
+          (<a href="/legal/cookies/" class="underline decoration-gold-500 underline-offset-2">Cookie Policy</a>).
           <button id="mb-practice-reset" type="button" class="ml-1 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">Reset my progress</button>
         </p>
       </div>

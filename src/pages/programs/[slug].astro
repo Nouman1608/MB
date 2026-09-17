@@ -14,7 +14,7 @@ import ProgramTeachers from '../../components/sections/ProgramTeachers.astro';
 import TuitionOptions from '../../components/sections/TuitionOptions.astro';
 import HowTuitionWorks from '../../components/sections/HowTuitionWorks.astro';
 import { TUITION_FAQS } from '../../data/tuition';
-import { PRICING_TERMS } from '../../data/pricing';
+import { PRICING_TERMS, QUALIFICATION_TIER } from '../../data/pricing';
 import { getPrograms, availabilityLabel, availabilityTone } from '../../utils/content/collections';
 import { relatedResources } from '../../utils/content/related';
 import { courseNode } from '../../utils/schema/course';
@@ -91,8 +91,38 @@ const article = (title: string): string => {
 };
 const programArticle = article(d.title);
 
+/**
+ * Round 42 (E938 (4)): the group-and-one-to-one panel, the "groups capped"
+ * line and the group-class FAQs used to show on every teaching programme.
+ * pricing.ts decides who has group tuition: only the qualifications in
+ * QUALIFICATION_TIER (GCSE, IGCSE, O Level, AS and A Level) have a group fee.
+ * IB is one-to-one only, charged per class (IB_PRICING). IELTS and Academic
+ * Support have no fixed fee and route to an enquiry. The program collection's
+ * level slugs are mapped to pricing.ts's qualification keys here.
+ */
+const PROGRAM_LEVEL_TO_QUALIFICATION: Record<string, string> = {
+  'gcse': 'gcse', 'igcse': 'igcse', 'o-levels': 'o-level', 'a-levels': 'a-level',
+};
+const hasGroupTuition = Boolean(QUALIFICATION_TIER[PROGRAM_LEVEL_TO_QUALIFICATION[d.level] ?? '']);
+const isIb = d.level === 'ib';
+const feeOnEnquiry = !hasGroupTuition && !isIb;
+
+const programTuitionFaqs = hasGroupTuition
+  ? TUITION_FAQS
+  : TUITION_FAQS
+      .filter((f) => f.question !== 'How large are group classes?')
+      .flatMap((f) => {
+        if (f.question !== 'Is the trial one-to-one or in a group?') return [f];
+        return isIb
+          ? [{ question: 'Is the trial one-to-one or in a group?', answer: 'IB tuition is one-to-one only, so the free trial is an individual class with the teacher.' }]
+          : [];
+      })
+      .concat(feeOnEnquiry
+        ? [{ question: `How much does ${d.title} tuition cost?`, answer: `There is no fixed fee for ${d.title} on the pricing page. Send an enquiry and Marlbridge will confirm the fee before anything is booked.` }]
+        : [{ question: 'How is IB tuition charged?', answer: 'IB tuition is one-to-one only and charged per class, not per subject per month. The multi-subject and sibling discounts do not apply. See the pricing page for the current rate.' }]);
+
 const visibleFaqs = d.marlbridgeTeaches === 'teaching'
-  ? [...d.faqs, ...TUITION_FAQS]
+  ? [...d.faqs, ...programTuitionFaqs]
   : d.faqs;
 
 const jsonLd = [
@@ -121,8 +151,14 @@ const jsonLd = [
     <Badge label={availabilityLabel[d.marlbridgeTeaches]} tone={availabilityTone[d.marlbridgeTeaches]} />
     {d.curriculum && <span class="text-[14px] text-ink-mute">Curriculum: {d.curriculum}</span>}
     {d.ageRange && <span class="text-[14px] text-ink-mute">Typical ages: {d.ageRange}</span>}
-    {d.marlbridgeTeaches === 'teaching' && (
+    {d.marlbridgeTeaches === 'teaching' && hasGroupTuition && (
       <span class="text-[14px] text-ink-mute">Groups capped at {PRICING_TERMS.maxGroupSize} &middot; one-to-one also available</span>
+    )}
+    {d.marlbridgeTeaches === 'teaching' && isIb && (
+      <span class="text-[14px] text-ink-mute">One-to-one only &middot; charged per class</span>
+    )}
+    {d.marlbridgeTeaches === 'teaching' && feeOnEnquiry && (
+      <span class="text-[14px] text-ink-mute">Fee confirmed on enquiry</span>
     )}
   </div>
 
@@ -152,11 +188,13 @@ const jsonLd = [
         <section aria-labelledby="program-trial" class="mt-[clamp(48px,6vw,80px)] border-t border-rule pt-10">
           <h2 id="program-trial" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Try {programArticle} {d.title} class first</h2>
           <p class="m-0 mb-6 max-w-[62ch] text-[17px] leading-relaxed text-ink-mute">
-            {PRICING_TERMS.freeTrial} {PRICING_TERMS.trialFormat.summary} {PRICING_TERMS.enquiryResponse.summary}
+            {PRICING_TERMS.freeTrial} {hasGroupTuition ? PRICING_TERMS.trialFormat.summary : isIb ? 'IB tuition is one-to-one only, so the trial is an individual class with the teacher.' : ''} {PRICING_TERMS.enquiryResponse.summary}
           </p>
           <div class="flex flex-wrap items-center gap-4">
             <Button href={`${routes.trial}?program=${program.id}`} variant="primary" size="lg" data-cta="program-trial">Request a free trial</Button>
-            <Button href={routes.pricing} variant="secondary">See tuition fees</Button>
+            {feeOnEnquiry
+              ? <Button href={routes.contact} variant="secondary">Ask about fees</Button>
+              : <Button href={routes.pricing} variant="secondary">See tuition fees</Button>}
           </div>
         </section>
       )}
@@ -180,7 +218,7 @@ const jsonLd = [
 
   {d.marlbridgeTeaches === 'teaching' && (
     <>
-      <TuitionOptions surface="ivory" />
+      {hasGroupTuition && <TuitionOptions surface="ivory" />}
       <HowTuitionWorks surface="white" showCta={false} />
     </>
   )}

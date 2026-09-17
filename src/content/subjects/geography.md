@@ -9,13 +9,13 @@ description: "Geography teaching and study resources, organised by level and top
 featured: false
 faqs:
   - question: "What does the Geography hub cover?"
-    answer: "Cambridge Geography at IGCSE (0460, also offered as the 9-1 graded 0976), O Level (2217) and International AS & A Level (9696), organised by topic. More material is added as it is written."
+    answer: "Cambridge Geography at IGCSE (0460, also offered as the 9-1 graded 0976), O Level (2217) and International AS & A Level (9696); OxfordAQA International GCSE (9230) and International AS and A-level (9635) Geography; and IB Diploma Programme Geography, organised by topic. More material is added as it is written."
   - question: "Are Marlbridge's Geography study guides free to use?"
     answer: "Yes. Study material on Marlbridge is free to read for anyone preparing for an exam, and free for schools and teachers to use with their classes — no licence, account or attribution required."
   - question: "Which exam board does this follow?"
-    answer: "Cambridge Assessment International Education."
+    answer: "Cambridge International Education, OxfordAQA and the International Baccalaureate (IB)."
   - question: "Does Marlbridge teach Geography?"
-    answer: "Yes, at IGCSE, O Level and A Level. Marlbridge teaches Cambridge Geography across all three levels."
+    answer: "Yes, at IGCSE, O Level, A Level and IB Diploma Programme. Marlbridge teaches Cambridge Geography at IGCSE, O Level and AS & A Level, OxfordAQA International GCSE and International AS and A-level Geography, and IB Diploma Programme Geography."
 ---
 
 The Geography hub gathers the topics, study guides and practice material for

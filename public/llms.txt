@@ -23,7 +23,7 @@
 
 ## Subjects
 
-- [Accounting](https://marlbridge.com/subjects/accounting/): Accounting at O · A Level, with study material organised by topic.
+- [Accounting](https://marlbridge.com/subjects/accounting/): Accounting at IGCSE and A Level, with study material organised by topic.
 - [Biology](https://marlbridge.com/subjects/biology/): Biology at IGCSE · O · A Level, with study material organised by topic.
 - [Business](https://marlbridge.com/subjects/business/): Business at O · A Level, with study material organised by topic.
 - [Chemistry](https://marlbridge.com/subjects/chemistry/): Chemistry at IGCSE · O · A Level, with study material organised by topic.
@@ -50,7 +50,7 @@
 - [Design (MYP)](https://marlbridge.com/subjects/myp-design/): IB MYP Design, applying the design cycle to solve practical, real-world problems.
 - [Individuals and Societies (MYP)](https://marlbridge.com/subjects/myp-individuals-and-societies/): IB MYP Individuals and Societies, covering history, geography, economics and related humanities disciplines.
 - [Language Acquisition (MYP)](https://marlbridge.com/subjects/myp-language-acquisition/): IB MYP Language Acquisition, developing additional-language proficiency and intercultural understanding.
-- [Sciences (MYP)](https://marlbridge.com/subjects/myp-sciences/): IB MYP Sciences, an integrated science course exploring inquiry, investigation and real-world application.
+- [Sciences (MYP)](https://marlbridge.com/subjects/myp-sciences/): IB MYP Sciences: biology, chemistry and physics taught through inquiry, investigation and real-world application.
 - [Pakistan Studies](https://marlbridge.com/subjects/pakistan-studies/): Pakistan Studies at IGCSE and O Level, with study material organised by topic.
 - [Physics](https://marlbridge.com/subjects/physics/): Physics at IGCSE · O · A Level, with study material organised by topic.
 - [Psychology](https://marlbridge.com/subjects/psychology/): Psychology at GCSE · A Level, with study material organised by topic.

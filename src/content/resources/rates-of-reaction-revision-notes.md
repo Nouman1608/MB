@@ -92,6 +92,8 @@ If a change is applied, the position of equilibrium shifts to **oppose** it.
 
 ## The two industrial processes
 
+*(0620 Extended, 5070 required)* The Haber and Contact processes (equations, sources, conditions and the reasoning behind the conditions) are 0620 Supplement content (6.3 S5-S11).
+
 ```
 HABER   N2 + 3H2 <=> 2NH3     exothermic forward
         450 C, 200 atm, iron catalyst
@@ -111,7 +113,7 @@ Both use a **compromise temperature**: lower would give a higher yield but too s
 - A catalyst does not increase yield.
 - *(0620 Extended, 5070 required)* Equilibrium needs a **closed** system.
 - *(0620 Extended, 5070 required)* "Shifts to the right" is not enough — say towards products/reactants and why.
-- Quoting the wrong catalyst for Haber vs Contact — **iron** for Haber, **vanadium(V) oxide** for Contact — the pressures and temperatures also differ between the two.
+- *(0620 Extended, 5070 required)* Quoting the wrong catalyst for Haber vs Contact — **iron** for Haber, **vanadium(V) oxide** for Contact — the pressures and temperatures also differ between the two.
 - *(0620 Extended, 5070 required)* Explaining temperature's effect using only "more collisions," without mentioning the greater proportion exceeding activation energy.
 - Forgetting that the **whole** of the Haber and Contact process content — equations, sources, conditions and the equilibrium reasoning behind them — is **Supplement** in 0620 and simply **required** for every 5070 candidate; 0620 Core does not need any of it.
 
@@ -120,10 +122,10 @@ Both use a **compromise temperature**: lower would give a higher yield but too s
 1. Why does powdering a solid speed up a reaction?
 2. *(0620 Extended, 5070 required)* In an exothermic forward reaction, what does raising temperature do to yield?
 3. *(0620 Extended, 5070 required)* Does a catalyst change the equilibrium position?
-4. Why is 450 °C used in the Haber process rather than a lower temperature?
+4. *(0620 Extended, 5070 required)* Why is 450 °C used in the Haber process rather than a lower temperature?
 5. *(0620 Extended, 5070 required)* State two features of dynamic equilibrium.
-6. Why is 200 atm used in the Haber process rather than a much higher pressure?
-7. State the source of nitrogen and of hydrogen used in the Haber process.
-8. State the source of the sulfur dioxide and oxygen used in the Contact process.
+6. *(0620 Extended, 5070 required)* Why is 200 atm used in the Haber process rather than a much higher pressure?
+7. *(0620 Extended, 5070 required)* State the source of nitrogen and of hydrogen used in the Haber process.
+8. *(0620 Extended, 5070 required)* State the source of the sulfur dioxide and oxygen used in the Contact process.
 
 **Answers:** 1. It increases surface area, exposing more particles, so collisions are more frequent. 2. Decreases it — the equilibrium shifts towards the endothermic (reverse) direction to oppose the rise. 3. No — it speeds up forward and reverse equally, so equilibrium is reached sooner at the same position. 4. A compromise: lower temperature would give a higher yield but the rate would be uneconomically slow. 5. Forward and reverse rates are equal; concentrations of reactants and products remain constant; the system is closed. 6. A much higher pressure would push the equilibrium further towards ammonia, but very high pressures are expensive to generate and maintain and present safety risks, so 200 atm is a compromise rather than the highest pressure achievable. 7. Nitrogen comes from the **air**; hydrogen comes from **methane**. 8. Sulfur dioxide comes from **burning sulfur or roasting sulfide ores**; oxygen comes from the **air**.

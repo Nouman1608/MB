@@ -9,11 +9,11 @@ description: "Commerce teaching and study resources, organised by level and topi
 featured: false
 faqs:
   - question: "What does the Commerce hub cover?"
-    answer: "Cambridge O Level Commerce (7100) and Cambridge IGCSE Commerce (0715), organised by topic. Cambridge does not offer a standalone A Level Commerce qualification — its own progression guidance directs O Level Commerce students to A Level Business (9609) instead. More material is added as it is written."
+    answer: "Cambridge O Level Commerce (7100) and Cambridge IGCSE Commerce (0715), organised by topic. Cambridge does not offer Commerce at International AS & A Level; for related subjects at that level, see the Business and Accounting hubs. More material is added as it is written."
   - question: "Are Marlbridge's Commerce study guides free to use?"
     answer: "Yes. Study material on Marlbridge is free to read for anyone preparing for an exam, and free for schools and teachers to use with their classes — no licence, account or attribution required."
   - question: "Which exam board does this follow?"
-    answer: "Cambridge Assessment International Education."
+    answer: "Cambridge International Education."
   - question: "Does Marlbridge teach Commerce?"
     answer: "Yes, at IGCSE and O Level. Marlbridge teaches Cambridge Commerce at both levels."
 ---

@@ -19,9 +19,10 @@ from memory before checking it.
 
 ## Work from the specification, not the textbook
 
-Every science specification is a list of statements beginning "candidates
-should be able to…". That list, not the chapter order, is the revision plan.
-Print it. Mark each statement with a symbol: confident, shaky, or not yet
+Every science specification sets out its subject content as a list of
+learning statements, although the wording differs by board (Cambridge, for
+example, lists numbered statements under each topic). That list, not the
+chapter order, is the revision plan. Print it. Mark each statement with a symbol: confident, shaky, or not yet
 learned. The marks will be uneven and that is the point — revision time should
 be spent unevenly.
 

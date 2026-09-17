@@ -70,7 +70,7 @@ const hubHref = academicHubPath({ boardSlug: board, qualificationSlug: qualifica
                 ))}
               </ul>
             ) : (
-              <p class="m-0 text-[14px] italic text-ink-mute">Subtopic-level detail for this topic is not yet itemised from the published syllabus.</p>
+              <p class="m-0 text-[14px] italic text-ink-mute">{version.subtopicsComplete ? 'The syllabus lists no sub-headings for this topic.' : 'Subtopics for this topic are not listed here yet; check the official document for the full content.'}</p>
             )}
           </li>
         ))}

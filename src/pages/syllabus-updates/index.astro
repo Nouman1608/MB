@@ -18,11 +18,13 @@
  * confirmed by boards and verified against their own syllabus documents
  * (see each combination's verifiedOn date on its hub page) -- it is not a
  * live monitoring feed and does not claim to catch every announcement the
- * moment it is published. As of this page's build, only 7 of 146 tracked
- * specification records (about 5%) are mid-transition; the rest are shown
- * nowhere on this page because there is honestly nothing to report for
- * them -- matching the codebase's no-filler, no-invented-content
- * convention (docs/decision-log.md D-050 and others).
+ * moment it is published. Records marked 'current' that point at a
+ * successor or predecessor (relatedCode) are listed in their own
+ * "partway through a changeover" group, so the page's lead never promises
+ * more than it shows (audit round 42, E938 (7)). Every other record is
+ * shown nowhere on this page because there is nothing to report for it --
+ * matching the codebase's no-filler, no-invented-content convention
+ * (docs/decision-log.md D-050 and others).
  */
 import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
@@ -68,6 +70,15 @@ const legacy = byStatus('legacy-teach-out');
 const withdrawn = byStatus('withdrawn');
 const totalTracked = ASSESSMENTS.length;
 const totalTransitioning = future.length + legacy.length + withdrawn.length;
+/**
+ * Round 42 (E938 (7)): records still marked 'current' that are paired with
+ * another specification (relatedCode) -- a successor already announced or
+ * being taught, or a predecessor still being examined. They are listed so
+ * the lead can honestly count them, without reclassifying any record here.
+ */
+const changeover = ASSESSMENTS.filter((a) => a.specStatus === 'current' && a.relatedCode)
+  .map(rowFor)
+  .sort((r1, r2) => r1.assessment.firstAssessment.localeCompare(r2.assessment.firstAssessment));
 
 /**
  * Flagship Dominance Programme WS-C (2026-08-31) -- old-vs-new assessment-
@@ -95,8 +106,38 @@ function transitionPairs() {
   }
   return pairs.sort((p1, p2) => (p1.newer.firstTeaching ?? '').localeCompare(p2.newer.firstTeaching ?? ''));
 }
-const totalMarks = (a: Assessment) => a.components.reduce((sum, c) => sum + c.marks, 0);
-const totalMinutes = (a: Assessment) => a.components.reduce((sum, c) => sum + (c.durationMinutes ?? 0), 0);
+const totalMarks = (comps: Assessment['components']) => comps.reduce((sum, c) => sum + c.marks, 0);
+const totalMinutes = (comps: Assessment['components']) => comps.reduce((sum, c) => sum + (c.durationMinutes ?? 0), 0);
+/**
+ * Round 42 (E938 (3)): an IB DP record stores its SL and HL components as
+ * separate per-tier rows, so adding every row together double-counts the
+ * shared papers and describes no candidate's actual assessment. Split such
+ * records by tier and label each component with its tier.
+ */
+const TIER_SHORT: Record<string, string> = { sl: 'SL', hl: 'HL' };
+const TIER_LONG: Record<string, string> = { sl: 'Standard Level (SL)', hl: 'Higher Level (HL)' };
+function tierBlocks(a: Assessment) {
+  const ibTiered = a.tiers.length > 0 && a.tiers.every((t) => t === 'sl' || t === 'hl');
+  if (!ibTiered) return [{ heading: '', prefix: '', comps: a.components }];
+  return a.tiers.map((t) => ({
+    heading: TIER_LONG[t],
+    prefix: `${TIER_SHORT[t]} `,
+    comps: a.components.filter((c) => c.tier === t),
+  }));
+}
+/**
+ * Round 42 (E938 (3)): records whose mark totals were NOT read from the
+ * board's own published document. The comparison says so next to the
+ * figures instead of claiming board sourcing for them. Taken from each
+ * record's own notes in assessments.ts.
+ */
+const MARKS_SOURCING_NOTE: Record<string, string> = {
+  'ib|DP Psychology (2019)':
+    "The IB's public subject brief for this course gives durations and weightings but no marks. The mark totals shown were read from copies of May 2019 IB markschemes for Papers 1, 2 and 3 found on third-party websites, and the internal assessment's 22 marks from third-party teacher resources, not from a document published by the IB.",
+};
+const marksNote = (a: Assessment): string | undefined =>
+  MARKS_SOURCING_NOTE[`${a.boardSlug}|${a.code}`]
+  ?? (a.mirrorSourceUrl ? "Some figures in this record were read from a copy of the board's document hosted on a third-party website, not from the board's own site." : undefined);
 const comparisonPairs = transitionPairs().map((p) => {
   const c = comboFor(p.newer) ?? comboFor(p.older);
   return {
@@ -115,15 +156,17 @@ const comparisonPairs = transitionPairs().map((p) => {
  * than hardcoded, so this sentence corrects itself the day that changes.
  */
 const flagshipCodes = new Set(flagshipSpecs().map((f) => f.code));
+/** Records in the comparison whose marks carry a sourcing note (see marksNote). */
+const marksExceptions = comparisonPairs.flatMap((p) => [p.older, p.newer]).filter((a) => marksNote(a)).map((a) => a.code);
 const flagshipInTransition = [...future, ...legacy].some((r) => flagshipCodes.has(r.assessment.code));
 ---
 <PageLayout
   title="Syllabus & Specification Changes Tracker"
-  description="Every specification currently mid-transition across the boards Marlbridge tracks -- upcoming syllabuses not yet current, and legacy syllabuses being withdrawn -- with first-teaching, first-assessment and final-assessment dates, sourced from each board's own documentation."
+  description="Specifications Marlbridge records as upcoming, being withdrawn or withdrawn, and current specifications partway through a changeover, with first-teaching, first-assessment and final-assessment dates from each board's own documents."
   path={path}
   eyebrow="Free tool"
   heading="Syllabus &amp; specification changes"
-  lead={`A single list of every specification currently mid-transition -- new syllabuses not yet current, and legacy ones being withdrawn -- across all ${totalTracked} specifications Marlbridge tracks. ${totalTransitioning} are in transition today.`}
+  lead={`Of the ${totalTracked} specifications Marlbridge tracks, ${totalTransitioning} are recorded as upcoming, being withdrawn or withdrawn, and ${changeover.length} more are recorded as current but paired with a specification that replaces them or that they replace. All are listed below. A specification missing from this page may still be changing: check the board's own website.`}
   breadcrumbs={[
     { label: 'Home', href: routes.home },
     { label: 'Syllabus changes', href: path },
@@ -134,7 +177,7 @@ const flagshipInTransition = [...future, ...legacy].some((r) => flagshipCodes.ha
       {future.length > 0 && (
         <div class="mb-12">
           <h2 class="m-0 mb-1 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Upcoming specifications</h2>
-          <p class="m-0 mb-6 text-[14.5px] text-ink-mute">Not yet current -- students should keep following the existing specification until the dates below.</p>
+          <p class="m-0 mb-6 max-w-[70ch] text-[14.5px] leading-[1.6] text-ink-mute">First exams not yet sat, but teaching may already have started. Learners who start the course on or after the first-teaching date shown follow the new specification. Learners already partway through a specification it replaces finish that one (its final exam series, where Marlbridge records one, is on its card on this page). Where no first-teaching date is shown, check the board's own page for when teaching begins.</p>
           <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
             {future.map((r) => (
               <div class="flex h-full flex-col gap-2 rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)]">
@@ -176,6 +219,30 @@ const flagshipInTransition = [...future, ...legacy].some((r) => flagshipCodes.ha
         </div>
       )}
 
+      {changeover.length > 0 && (
+        <div class="mb-12">
+          <h2 class="m-0 mb-1 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Current, but partway through a changeover</h2>
+          <p class="m-0 mb-6 max-w-[70ch] text-[14.5px] leading-[1.6] text-ink-mute">Recorded as current, and paired with another specification for the same subject: either a successor that is announced or already being taught, or an older specification it replaces, which may still be examined for learners already partway through it. Check the dates on each card, and the subject hub, for which one applies to you.</p>
+          <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+            {changeover.map((r) => (
+              <div class="flex h-full flex-col gap-2 rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)]">
+                <span class="font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600">{r.boardLabel} {r.qualificationLabel}</span>
+                <span class="text-[17px] font-semibold tracking-[-0.01em] text-navy-800">{r.subjectLabel}</span>
+                <span class="text-[13.5px] text-ink-mute">Specification {r.assessment.code} (paired with {r.assessment.relatedCode})</span>
+                <dl class="m-0 mt-1 grid grid-cols-[auto_1fr] gap-x-2 gap-y-0.5 text-[13px] text-ink-mute">
+                  {r.assessment.firstTeaching && (<><dt class="font-medium text-navy-800">First teaching</dt><dd class="m-0">{r.assessment.firstTeaching}</dd></>)}
+                  <dt class="font-medium text-navy-800">First assessment</dt><dd class="m-0">{r.assessment.firstAssessment}</dd>
+                  {r.assessment.finalAssessment && (<><dt class="font-medium text-navy-800">Final assessment</dt><dd class="m-0">{r.assessment.finalAssessment}</dd></>)}
+                </dl>
+                {r.hubHref
+                  ? <a href={r.hubHref} class="mt-auto pt-2 text-[13.5px] font-medium text-gold-600 hover:underline">Full detail on the {r.subjectLabel} hub →</a>
+                  : <span class="mt-auto pt-2 text-[13px] text-ink-mute">Not yet published on Marlbridge</span>}
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+
       {withdrawn.length > 0 && (
         <div class="mb-12">
           <h2 class="m-0 mb-1 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Already withdrawn</h2>
@@ -192,7 +259,7 @@ const flagshipInTransition = [...future, ...legacy].some((r) => flagshipCodes.ha
         </div>
       )}
 
-      {totalTransitioning === 0 && (
+      {totalTransitioning === 0 && changeover.length === 0 && (
         <p class="m-0 rounded-sm border border-dashed border-rule bg-ivory p-6 text-[15px] text-ink-mute">
           No specification transitions are currently tracked. Every specification Marlbridge covers is shown as its board's current, ongoing syllabus.
         </p>
@@ -204,10 +271,12 @@ const flagshipInTransition = [...future, ...legacy].some((r) => flagshipCodes.ha
     <Container>
       <h2 class="m-0 mb-1 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Old vs new: assessment structure</h2>
       <p class="m-0 mb-2 max-w-[70ch] text-[14.5px] leading-[1.6] text-ink-mute">
-        For every specification pair above where Marlbridge has a real, sourced assessment record for
-        <em>both</em> the outgoing and incoming specification, here is exactly how the paper structure
-        compares -- computed directly from each board's own published component tables, not summarised
-        or interpreted.
+        For every specification pair above where Marlbridge has an assessment record for
+        <em>both</em> the outgoing and incoming specification, here is how the paper structure
+        compares. The totals are added up from the component figures in those records, the same ones
+        shown on each subject hub, not summarised or interpreted. Where a subject is taken at two
+        levels (IB Standard and Higher Level), each level is totalled separately. Where a record's
+        marks did not come from the board's own document, a note under that record says so.
       </p>
       {!flagshipInTransition && (
         <p class="m-0 mb-8 rounded-sm border border-dashed border-rule bg-ivory p-4 text-[13.5px] leading-[1.6] text-ink-mute">
@@ -239,19 +308,32 @@ const flagshipInTransition = [...future, ...legacy].some((r) => flagshipCodes.ha
                   <p class="m-0 mb-2 text-[12px] font-medium uppercase tracking-[0.1em] text-ink-mute">{label}</p>
                   <dl class="m-0 mb-3 grid grid-cols-[auto_1fr] gap-x-3 gap-y-0.5 text-[13px] text-ink-mute">
                     <dt class="font-medium text-navy-800">First teaching</dt><dd class="m-0">{a.firstTeaching ?? 'Not recorded'}</dd>
-                    <dt class="font-medium text-navy-800">Components</dt><dd class="m-0">{a.components.length}</dd>
-                    <dt class="font-medium text-navy-800">Total marks</dt><dd class="m-0">{totalMarks(a)}</dd>
-                    <dt class="font-medium text-navy-800">Total time</dt><dd class="m-0">{Math.round(totalMinutes(a) / 6) / 10}h</dd>
+                    <dt class="font-medium text-navy-800">First assessment</dt><dd class="m-0">{a.firstAssessment}</dd>
                   </dl>
-                  <ul class="m-0 list-none p-0 text-[13px] leading-[1.7] text-ink">
-                    {a.components.map((c) => (
-                      <li>{c.paperCode} — {c.title} ({c.marks} marks, {c.weightingPercent}%)</li>
-                    ))}
-                  </ul>
+                  {tierBlocks(a).map((b) => (
+                    <div class="mb-3 last:mb-0">
+                      {b.heading && <p class="m-0 mb-1 text-[13px] font-semibold text-navy-800">{b.heading}</p>}
+                      <dl class="m-0 mb-2 grid grid-cols-[auto_1fr] gap-x-3 gap-y-0.5 text-[13px] text-ink-mute">
+                        <dt class="font-medium text-navy-800">Components</dt><dd class="m-0">{b.comps.length}</dd>
+                        <dt class="font-medium text-navy-800">Total marks</dt><dd class="m-0">{totalMarks(b.comps)}</dd>
+                        <dt class="font-medium text-navy-800">Total exam time</dt><dd class="m-0">{Math.round(totalMinutes(b.comps) / 6) / 10}h</dd>
+                      </dl>
+                      <ul class="m-0 list-none p-0 text-[13px] leading-[1.7] text-ink">
+                        {b.comps.map((c) => (
+                          <li>{b.prefix}{c.paperCode} — {c.title} ({c.marks} marks, {c.weightingPercent}%)</li>
+                        ))}
+                      </ul>
+                    </div>
+                  ))}
+                  {marksNote(a) && <p class="m-0 mt-2 text-[12.5px] leading-[1.55] text-ink-mute"><span class="font-medium text-navy-800">Marks:</span> {marksNote(a)}</p>}
                 </div>
               ))}
             </div>
-            <p class="m-0 mt-4 text-[12.5px] text-ink-mute">Sourced from {p.older.officialSourceUrl === p.newer.officialSourceUrl ? 'the board\'s own specification documents' : 'each specification\'s own official documents'}, verified {p.newer.verifiedOn}.</p>
+            <p class="m-0 mt-4 text-[12.5px] text-ink-mute">
+              {marksNote(p.older) || marksNote(p.newer)
+                ? <>Dates, durations and weightings from each specification's own official documents; for the marks, see the note above. Verified {p.newer.verifiedOn}.</>
+                : <>Sourced from {p.older.officialSourceUrl === p.newer.officialSourceUrl ? 'the board\'s own specification documents' : 'each specification\'s own official documents'}, verified {p.newer.verifiedOn}.</>}
+            </p>
           </div>
         ))}
       </div>
@@ -264,7 +346,7 @@ const flagshipInTransition = [...future, ...legacy].some((r) => flagshipCodes.ha
       <div class="grid gap-6 sm:grid-cols-3">
         <div>
           <p class="m-0 font-semibold text-navy-800">Upcoming</p>
-          <p class="m-0 mt-1.5 text-[14.5px] leading-[1.6] text-ink-mute">A new specification has been announced with a confirmed first-teaching and/or first-assessment date, but it is not yet the specification current students should be following.</p>
+          <p class="m-0 mt-1.5 text-[14.5px] leading-[1.6] text-ink-mute">A new specification with a confirmed first-teaching and/or first-assessment date whose first exams have not yet been sat. Learners who start the course from its first-teaching date follow it, even before its first exams.</p>
         </div>
         <div>
           <p class="m-0 font-semibold text-navy-800">Being withdrawn</p>
@@ -278,9 +360,10 @@ const flagshipInTransition = [...future, ...legacy].some((r) => flagshipCodes.ha
 
       <h3 class="m-0 mb-2 mt-10 text-[17px] font-semibold text-navy-800">How this list is kept accurate</h3>
       <p class="m-0 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
-        Every entry above is sourced directly from the relevant board's own published syllabus or specification
-        documentation, and is cross-checked against the same official-source URL cited on that subject's hub page.
-        This page is not a live monitoring feed -- it reflects Marlbridge's most recent verification of each
+        The statuses and dates above come from the assessment records behind each subject hub, and each record cites
+        the board's own syllabus, specification or subject page.
+        {marksExceptions.length > 0 && <> Not every mark total in the comparison comes from a board document: the exceptions ({marksExceptions.join(', ')}) carry a note saying where their marks came from.</>}
+        {' '}This page is not a live monitoring feed -- it reflects Marlbridge's most recent verification of each
         specification, dated on that subject's own hub page. If a subject you're following isn't listed here, it
         means Marlbridge has found no officially confirmed transition for it -- not that none exists; always check
         the board's own website for the most current word on your specific specification and examination series.

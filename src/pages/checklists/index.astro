@@ -40,9 +40,13 @@ const rows = SYLLABUS_VERSIONS
     <Container>
       <h1 class="m-0 mb-3 text-[32px] font-semibold text-navy-900">Printable syllabus checklists</h1>
       <p class="m-0 mb-8 max-w-[65ch] text-[16px] leading-relaxed text-ink-mute">
-        Every checklist below is built directly from the topic list published in the official awarding-body
-        syllabus -- nothing is summarised or invented. Open a checklist and use your browser's print function
-        to produce a paper copy for revision.
+        Each checklist below lists the topics Marlbridge records for that syllabus, taken from the official
+        document named at the top of the checklist. For most syllabuses these are the document's own content
+        headings. Two kinds are built differently: IB Middle Years Programme subjects have no numbered content
+        syllabus, so their checklists use Marlbridge's own headings summarising the IB subject brief; and where a
+        syllabus lists papers or components rather than content topics (for example Cambridge O Level English
+        Language 1123: Reading and Writing), the checklist lists those. Open a checklist and use your browser's
+        print function to produce a paper copy for revision.
       </p>
       <ul class="m-0 grid list-none gap-3 p-0 sm:grid-cols-2 lg:grid-cols-3">
         {rows.map((r) => (

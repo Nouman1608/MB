@@ -9,11 +9,11 @@ description: "Sociology teaching and study resources, organised by level and top
 featured: false
 faqs:
   - question: "What does the Sociology hub cover?"
-    answer: "Cambridge O Level, IGCSE and A Level Sociology, and AQA GCSE and A Level Sociology (specification 7192), organised by topic. More levels and specifications are added as material is written."
+    answer: "Cambridge O Level (2251), IGCSE (0495) and International AS & A Level (9699) Sociology; AQA GCSE (8192) and A-level (7192) Sociology; and OxfordAQA International GCSE (9292) and International AS and A-level (9690) Sociology, organised by topic. More material is added as it is written."
   - question: "Are Marlbridge's Sociology study guides free to use?"
     answer: "Yes. Study material on Marlbridge is free to read for anyone preparing for an exam, and free for schools and teachers to use with their classes — no licence, account or attribution required."
   - question: "Which exam boards does this follow?"
-    answer: "Cambridge Assessment International Education, AQA and OxfordAQA."
+    answer: "Cambridge International Education, AQA and OxfordAQA."
   - question: "Does Marlbridge teach Sociology?"
     answer: "Yes, at IGCSE, O Level, GCSE and A Level. Marlbridge teaches Cambridge O Level, IGCSE and A Level Sociology, AQA GCSE and A Level Sociology, and OxfordAQA International GCSE (9292) and International A-level (9690) Sociology — both newly launched by OxfordAQA for 2026."
 ---

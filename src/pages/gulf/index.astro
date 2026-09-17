@@ -108,9 +108,9 @@ const TIME_ZONES: Record<string, string> = {
     <Container>
       <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Pricing for the Gulf</h2>
       <p class="m-0 mb-6 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
-        Group classes are priced per subject, per month; one-to-one classes are priced per class. Only the Pakistan rate is
-        independently set -- these six countries' rates are currency conversions of that same Pakistan rate (see the note
-        below), not independently published regional rates. Full terms, discounts and every other region are on the
+        Group classes are priced per subject, per month; one-to-one classes are priced per class. The group rates below
+        are set for each of these six countries. The one-to-one rates are different: they are currency conversions of the
+        Pakistan one-to-one rate (see the note below), not separately set regional rates. Full terms, discounts and every other region are on the
         {' '}<a href={routes.pricing} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">pricing page</a>.
       </p>
 
@@ -141,7 +141,7 @@ const TIME_ZONES: Record<string, string> = {
       </div>
 
       <p class="m-0 mt-6 text-[13px] text-ink-mute">
-        {ONE_TO_ONE_TERMS.conversionNote} {PRICING_TERMS.freeTrial} {PRICING_TERMS.notPermanentNote} Last confirmed
+        One-to-one rates: {ONE_TO_ONE_TERMS.conversionNote} {PRICING_TERMS.freeTrial} {PRICING_TERMS.notPermanentNote} Last confirmed
         {' '}{PRICING_VERIFIED_DATE} (one-to-one rates {ONE_TO_ONE_TERMS.verifiedDate}).
       </p>
     </Container>

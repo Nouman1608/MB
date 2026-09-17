@@ -13,6 +13,3 @@ featured: false
 ---
 
 This program is currently taught by Marlbridge.
-
-Subject pages list the topics covered at this level, together with the study
-guides, revision notes and practice questions published for each topic.

@@ -417,7 +417,7 @@ withMutation(
   (text) => text
     .replace("relatedCode: 'H436',\n    tiers: ['not-tiered'],\n    firstTeaching: '2015-09',", "tiers: ['not-tiered'],\n    firstTeaching: '2015-09',")
     .replace(
-      "officialSourceUrl: 'https://www.ocr.org.uk/Images/170837-specification-accredited-a-level-gce-business-h431.pdf',\n    verifiedOn: '2026-08-26',\n    notes: 'Being withdrawn: OCR confirms H431 has its final first teach in September 2025 and its final assessment opportunity is Summer 2027; resits after that move to H436. Each component: 2h written paper, 80 marks. The spec\\'s own \"at a glance\" table prints each component as \"33.33% of total\" (all three, not summing to exactly 100 on paper); the third component here is recorded as 33.34% so the typed record sums to exactly 100%, consistent with the spec\\'s own detailed weighting-grid page which prints 25%/25%/25%/25% = 100% against the assessment objectives. Papers 01 and 03 carry synoptic assessment.',",
+      "officialSourceUrl: 'https://www.ocr.org.uk/Images/170837-specification-accredited-a-level-gce-business-h431.pdf',\n    verifiedOn: '2026-08-26',\n    notes: 'Being withdrawn: OCR confirms H431 has its final first teach in September 2025 and its final assessment opportunity is Summer 2027; resits after that move to H436. Each component: 2h written paper, 80 marks. The spec\\'s own \"at a glance\" table prints each component as \"33.33% of total\" (all three, not summing to exactly 100 on paper); the third component here is recorded as 33.34% so the typed record sums to exactly 100%, consistent with the spec\\'s own detailed weighting-grid page which prints 25%/25%/25%/25% = 100% against the assessment objectives. The specification states that each component includes synoptic assessment.',",
       "officialSourceUrl: 'https://www.ocr.org.uk/Images/170837-specification-accredited-a-level-gce-business-h431.pdf',\n    verifiedOn: '2026-08-26',",
     ),
   {
@@ -671,8 +671,8 @@ console.log('\n[AG] D-129 -- Assessment validator rejects an officialSourceUrl d
 withMutation(
   'src/data/academic/assessments.ts',
   (text) => text.replace(
-    "officialSourceUrl: 'https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/global-politics-sl-hl-subject-brief-en.pdf',",
-    "officialSourceUrl: 'https://ibo.org/globalassets/new-structure/university-admission/pdfs/global-politics-sl-hl-subject-brief-en.pdf',",
+    "officialSourceUrl: 'https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/global-politics-guide-first-assessment-2026.pdf',",
+    "officialSourceUrl: 'https://ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/global-politics-guide-first-assessment-2026.pdf',",
   ),
   {
     validatorCmd: 'node --experimental-strip-types scripts/validate-assessments.mjs',

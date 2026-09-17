@@ -9,13 +9,13 @@ description: "Business teaching and study resources, organised by level and topi
 featured: false
 faqs:
   - question: "What does the Business hub cover?"
-    answer: "Cambridge O Level Business Studies study guides (specification 7115, 2026 series), organised by topic. More levels and specifications are added as material is written."
+    answer: "Business across five boards and the IB: Cambridge IGCSE Business Studies (0450), O Level Business Studies (7115) and International AS & A Level Business (9609); Pearson Edexcel International A Level (YBS11); AQA GCSE (8132), AS (7131) and A-level (7132); OCR GCSE (J204) and A Level (H431); OxfordAQA International GCSE (9225) and International AS and A-level (9625, and its revised successor 9725); and IB Diploma Programme Business Management. Study material is organised by topic, and the amount differs by specification; more is added as it is written."
   - question: "Are Marlbridge's Business study guides free to use?"
     answer: "Yes. Study material on Marlbridge is free to read for anyone preparing for an exam, and free for schools and teachers to use with their classes — no licence, account or attribution required."
   - question: "Which exam board does this follow?"
-    answer: "Cambridge Assessment International Education, Pearson Edexcel, AQA, OCR and OxfordAQA."
+    answer: "Cambridge International Education, Pearson Edexcel, AQA, OCR, OxfordAQA and the International Baccalaureate (IB)."
   - question: "Does Marlbridge teach Business?"
-    answer: "Yes, at IGCSE, O Level, GCSE and A Level. Marlbridge teaches this across Cambridge, Pearson Edexcel, AQA, OCR and OxfordAQA — written study material currently focuses on Cambridge O Level Business Studies (syllabus 7115)."
+    answer: "Yes, at IGCSE, O Level, GCSE, AS, A Level and IB Diploma Programme. Marlbridge teaches this across Cambridge, Pearson Edexcel, AQA, OCR, OxfordAQA and the IB."
 ---
 
 The Business hub gathers the topics, study guides and practice material for

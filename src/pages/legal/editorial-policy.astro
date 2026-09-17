@@ -3,8 +3,33 @@ import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import { FALLBACK_EMAIL } from '../../utils/forms/submit';
+import { getResources, getArticles } from '../../utils/content/collections';
 const mailto = 'mailto:' + FALLBACK_EMAIL;
-const lastUpdated = '5 September 2026';
+const lastUpdated = '17 September 2026';
+
+/**
+ * Round 42 (E938 (10)): the authorship and review statements below are
+ * computed from the published bylines and review records, so they cannot
+ * drift from the content again. They previously said "most" resources had
+ * a named author when about three quarters carried the team byline.
+ */
+const TEAM_ID = 'marlbridge-academic-team';
+const allResources = await getResources();
+const allArticles = await getArticles();
+const totalResources = allResources.length;
+const teamResources = allResources.filter((r) => r.data.author?.id === TEAM_ID).length;
+const namedResources = totalResources - teamResources;
+const teamPercent = totalResources > 0 ? Math.round((teamResources / totalResources) * 100) : 0;
+const namedAuthorCount = new Set(allResources.map((r) => r.data.author?.id).filter((id) => id && id !== TEAM_ID)).size;
+const practice = allResources.filter((r) => r.data.resourceType === 'practice-questions');
+const namedPractice = practice.filter((r) => r.data.author?.id !== TEAM_ID).length;
+const reviewedResources = allResources.filter((r) => r.data.reviewStatus === 'reviewed' && r.data.reviewer).length;
+const reviewedArticles = allArticles.filter((a) => a.data.reviewStatus === 'reviewed' && a.data.reviewer).length;
+const teamArticles = allArticles.filter((a) => a.data.author.id === TEAM_ID).length;
+const plural = (n: number, one: string, many: string) => `${n.toLocaleString('en-US')} ${n === 1 ? one : many}`;
+const reviewedSummary = reviewedResources === 0 && reviewedArticles === 0
+  ? 'has not yet been completed for any published resource or article'
+  : `has been completed for ${reviewedResources === 0 ? 'no study resource' : plural(reviewedResources, 'study resource', 'study resources')} and ${reviewedArticles === 0 ? 'no article' : plural(reviewedArticles, 'article', 'articles')}`;
 ---
 <PageLayout
   translationKey="legal-editorial-policy"
@@ -30,10 +55,10 @@ const lastUpdated = '5 September 2026';
         <p>
           Marlbridge publishes study guides, revision notes and practice material written against the specific,
           named examination-board syllabus each resource declares (see its "Syllabus" and board labels). Most
-          resources are written by a named member of the Marlbridge teaching team, credited by name on the
-          resource itself and linked to their own author page (see "Authorship" below); the remainder carry the
-          Marlbridge Academic Team byline, an organisational credit used for collaboratively-produced material
-          rather than any one person's independent work. New content is added topic by topic as it is written;
+          resources ({teamResources.toLocaleString('en-US')} of {totalResources.toLocaleString('en-US')}, about {teamPercent}%) carry the
+          Marlbridge Academic Team byline, an organisational credit rather than a person. The other
+          {' '}{namedResources.toLocaleString('en-US')} are credited to a named member of the Marlbridge teaching team, by name on the
+          resource itself and linked to their own author page (see "Authorship" below). New content is added topic by topic as it is written;
           pages are not published as placeholders and then backfilled.
         </p>
 
@@ -41,16 +66,16 @@ const lastUpdated = '5 September 2026';
         <p>
           Marlbridge does not state a blanket, non-attributed claim that every published resource has been
           reviewed by a teacher. Every resource is written against the official syllabus document for the
-          board, qualification and syllabus code it declares, and is checked against that document by its
-          named author before publication (see "Editorial policy" above and "Copyright and original content"
+          board, qualification and syllabus code it declares, and is checked against that document before
+          publication, whichever byline it carries (see "Editorial policy" above and "Copyright and original content"
           below). Separately, Marlbridge operates a distinct, accountable, named second-reviewer step — a
           named reviewer, different from the author, credited by name on the page — for resources where that
           specific accountable record exists; this is enforced at build time, so a page only ever displays
           "Reviewed by [name]" if a real reviewer record exists for a real person the site designates a
-          genuine reviewer, and the underlying data is validated on every release. As of {lastUpdated}, this
-          named second-reviewer credit has been completed for a small number of resources and is being
-          extended over time. A resource without this named credit is not described as reviewed by a teacher;
-          its accuracy rests on its named author's own citation of the official syllabus and on the corrections
+          genuine reviewer, and the underlying data is validated on every release. At present this named
+          second-reviewer credit {reviewedSummary}; every other resource is recorded as awaiting review. A
+          resource without this named credit is not described as reviewed by a teacher; its accuracy rests on
+          its own citation of the official syllabus and on the corrections
           process below, which is how errors are caught and fixed on any resource, credited reviewer or not.
         </p>
 
@@ -76,7 +101,8 @@ const lastUpdated = '5 September 2026';
         <p>
           If you find a factual error, an outdated syllabus reference, or a broken citation anywhere on
           Marlbridge, please report it — this is the single most useful thing a reader can do for the site.
-          Write to <a href={mailto} class="underline decoration-gold-500 underline-offset-2">{FALLBACK_EMAIL}</a>
+          Use the <a href="/report-a-correction/" class="underline decoration-gold-500 underline-offset-2">Report a correction</a> form,
+          or write to <a href={mailto} class="underline decoration-gold-500 underline-offset-2">{FALLBACK_EMAIL}</a>
           with the page URL and what looks wrong. Reports are read and, where the correction is confirmed against
           the official source, the page is updated and its "Verified" date is refreshed. Marlbridge does not
           currently publish a public changelog of individual corrections; the "Last updated"/"Verified" date on
@@ -109,22 +135,23 @@ const lastUpdated = '5 September 2026';
           Marlbridge does not reproduce awarding-body specification text, past-exam questions, or mark schemes.
           Syllabus summaries on this site are original explanations of what a specification covers, written from
           the official document rather than copied from it. Practice questions published on Marlbridge are
-          wholly original, written by the Marlbridge Academic Team for the relevant syllabus — they are not
-          drawn from, or a rewording of, any board's past papers. Where a resource discusses or links to a
+          wholly original and written for the relevant syllabus — they are not drawn from, or a rewording of, any board's past papers. Where a resource discusses or links to a
           board's own past papers, it directs readers to the board's own official source rather than
-          reproducing the material itself.
+          reproducing the material itself. Each practice-question resource is credited like any other resource:
+          {' '}{namedPractice.toLocaleString('en-US')} of the {practice.length.toLocaleString('en-US')} name a teacher, and the rest carry the Marlbridge
+          Academic Team byline.
         </p>
 
         <h2 id="authorship">Authorship and accountability</h2>
         <p>
-          Most published resources carry a real, named author — a member of the Marlbridge teaching team,
-          credited on the resource page and linked to their own author page, which states only verified facts
-          (role, years of teaching experience, previous schools) sourced from a cited public source and dated
-          when it was last checked. A minority of resources and articles instead carry the
+          Of the {totalResources.toLocaleString('en-US')} published resources, {teamResources.toLocaleString('en-US')} (about {teamPercent}%) and
+          {' '}{teamArticles === allArticles.length ? `all ${allArticles.length}` : `${teamArticles} of ${allArticles.length}`} articles carry the
           <a href="/authors/marlbridge-academic-team/" class="underline decoration-gold-500 underline-offset-2">Marlbridge Academic Team</a> byline
-          — an organisational credit, not a person, used where content was produced collaboratively rather than
-          by one individual; this byline is marked in the page's structured data as an Organization, never as a
-          Person. Being credited as an author is a separate role from being a reviewer: a reviewer is a second,
+          — an organisational credit, not a person; this byline is marked in the page's structured data as an
+          Organization, never as a Person. The other {namedResources.toLocaleString('en-US')} resources carry a real, named author — one of
+          {' '}{namedAuthorCount} named teachers from the Marlbridge teaching team, credited on the resource page and linked to their own
+          author page, which states only verified facts (role, years of teaching experience, previous schools)
+          sourced from a cited public source and dated when it was last checked. Being credited as an author is a separate role from being a reviewer: a reviewer is a second,
           distinct, accountable check on already-written content, and Marlbridge only ever displays a review
           claim where that genuine second check has actually taken place (see "Academic review policy" above).
         </p>

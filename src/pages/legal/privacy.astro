@@ -31,11 +31,12 @@ const lastUpdated = '30 August 2026';
         </p>
 
         <h2>What we collect</h2>
-        <p>When you submit an enquiry through our contact form, we collect:</p>
+        <p>When you submit an enquiry through one of our enquiry forms (on the contact, free trial, tutoring and schools pages), we collect:</p>
         <ul>
           <li>Your name and email address</li>
           <li>Your phone number, if you provide one</li>
           <li>Your country</li>
+          <li>On the schools form only, the name of your school and your role there</li>
           <li>The message you write, which may include the programme, exam board, subject, level and preferred
             availability you tell us about</li>
         </ul>
@@ -52,17 +53,38 @@ const lastUpdated = '30 August 2026';
 
         <h2>Analytics</h2>
         <p>
-          Our web pages are static. We use Google Analytics (GA4) to understand how visitors use the site, but
-          only if you accept the cookie banner shown on your first visit -- no analytics data is collected before
-          you accept, and none is collected at all if you reject or ignore the banner. When enabled, GA4 records
-          things like which pages are viewed and how visitors arrive at the site, with IP anonymisation turned
-          on. We do not run advertising trackers, and we do not use session-recording tools. You can change your
+          Our web pages are static. We use Google Analytics (GA4), with Google's consent mode, to understand how
+          visitors use the site. Google's analytics script loads on every page. Before you choose on the cookie
+          banner, and if you reject it, Google Analytics sets no cookies, but it still receives measurements
+          without cookies when you use certain features: WhatsApp button clicks, sent enquiry and correction
+          forms, free-trial button clicks and trial-form starts, and practice activity, including whether you
+          marked each question correct and your score on a completed diagnostic. None of these includes your
+          name, email address, phone number or anything you type. Page views are recorded only if you accept,
+          and accepting also lets GA4 set cookies and record things like which pages are viewed and how visitors
+          arrive at the site, with IP anonymisation turned on. The Cookie Policy lists every event. We do not
+          run advertising trackers, and we do not use session-recording tools. You can change your
           analytics choice at any time via "Cookie Settings" in the footer.
           Both the contact form and the corrections form also use Cloudflare Turnstile to filter out automated
           spam submissions, which runs regardless of your analytics choices. Our typefaces are self-hosted on
           marlbridge.com, so loading them doesn't cause a request to Google Fonts or any other third-party font
           service. See our
           <a href="/legal/cookies/" class="underline decoration-gold-500 underline-offset-2">Cookie Policy</a> for more detail.
+        </p>
+
+        <h2>Spam protection and rate limiting</h2>
+        <p>
+          When you submit an enquiry or correction form, our server sends the Cloudflare Turnstile result from the
+          form, together with your IP address, to Cloudflare to check that the submission is not automated. We also
+          use your IP address to limit how often a form can be sent: it forms part of a counter key held in
+          Cloudflare's storage for up to one hour, which allows up to five submissions from one IP address in each clock hour. Your IP
+          address is not included in the email we receive.
+        </p>
+
+        <h2>How your submission reaches us</h2>
+        <p>
+          Enquiry and correction forms are delivered to us by email through Resend, an email delivery service,
+          which processes the content of your submission in order to send it to Marlbridge's inbox. Where you give
+          an email address, it is set as the reply-to address so that we can answer you directly.
         </p>
 
         <h2>How we use it</h2>

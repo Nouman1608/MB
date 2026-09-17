@@ -13,7 +13,7 @@ faqs:
   - question: "Are Marlbridge's Law study guides free to use?"
     answer: "Yes. Study material on Marlbridge is free to read for anyone preparing for an exam, and free for schools and teachers to use with their classes — no licence, account or attribution required."
   - question: "Which exam boards does this follow?"
-    answer: "Cambridge Assessment International Education, Pearson Edexcel and AQA."
+    answer: "Cambridge International Education, Pearson Edexcel and AQA."
   - question: "Does Marlbridge teach Law?"
     answer: "Yes, at A Level. Marlbridge teaches A Level Law with Cambridge, Pearson Edexcel and AQA."
 ---

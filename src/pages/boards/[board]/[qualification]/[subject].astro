@@ -195,14 +195,43 @@ const coverage = (syllabusTopics?.topics ?? []).map((t) => ({
 }));
 const covered = coverage.filter((x) => x.resources.length > 0).length;
 const staged = syllabusTopics ? hasStages(syllabusTopics) : false;
-/** 9701 is presented as two clearly separated stages, never one flat list. */
+/**
+ * A staged syllabus is presented as clearly separated stages, never one flat
+ * list. Round 42 (E938 (2)): the notes were hard-coded for 9701 ("Topics
+ * 1–22" / "Topics 23–37") and printed on every staged hub. They are now built
+ * from each record's own topic numbers and stages. A linear specification
+ * (AQA A-level: the AS is a separate qualification and every A-level exam
+ * is sat at the end of the course) gets no "assessed on the AS papers" note,
+ * and topics without a stage are listed rather than silently dropped.
+ */
+function topicRange(nums: number[]): string {
+  const sorted = [...nums].sort((a, b) => a - b);
+  const parts: string[] = [];
+  for (let i = 0; i < sorted.length; i++) {
+    let j = i;
+    while (j + 1 < sorted.length && sorted[j + 1] === sorted[j] + 1) j++;
+    parts.push(j === i ? `${sorted[i]}` : `${sorted[i]}–${sorted[j]}`);
+    i = j;
+  }
+  return `${sorted.length === 1 ? 'Topic' : 'Topics'} ${parts.join(', ')}`;
+}
+const linearSpec = (assessments.find((a) => a.specStatus === 'current') ?? assessments[0])?.assessmentModel === 'linear';
+const stageItems = (stage: 'AS' | 'A' | undefined) => coverage.filter((x) => x.topic.stage === stage);
 const groups: { label: string; note: string; items: typeof coverage }[] = staged
   ? [
-      { label: 'AS Level', note: 'Topics 1–22. Studied in the first year, and assessed on the AS papers.',
-        items: coverage.filter((x) => x.topic.stage === 'AS') },
-      { label: 'A Level', note: 'Topics 23–37. Studied in addition to the AS content for the full A Level.',
-        items: coverage.filter((x) => x.topic.stage === 'A') },
-    ]
+      linearSpec
+        ? { label: 'AS and A-level content', items: stageItems('AS'),
+            note: `${topicRange(stageItems('AS').map((x) => x.topic.number))}. Also the subject content of the separate AS qualification. The A-level is linear, so these topics are examined in the A-level papers at the end of the course, together with the A-level-only topics.` }
+        : { label: 'AS Level', items: stageItems('AS'),
+            note: `${topicRange(stageItems('AS').map((x) => x.topic.number))}. Usually studied in the first year, and assessed at AS.` },
+      linearSpec
+        ? { label: 'A-level only', items: stageItems('A'),
+            note: `${topicRange(stageItems('A').map((x) => x.topic.number))}. Not part of the AS.` }
+        : { label: 'A Level', items: stageItems('A'),
+            note: `${topicRange(stageItems('A').map((x) => x.topic.number))}. Studied in addition to the AS content for the full A Level.` },
+      { label: 'Not assigned to a stage', items: stageItems(undefined),
+        note: `${topicRange(stageItems(undefined).map((x) => x.topic.number))}. Marlbridge's topic record does not assign ${stageItems(undefined).length === 1 ? 'this topic' : 'these topics'} to the AS or the A-level-only content; check the specification.` },
+    ].filter((g) => g.items.length > 0)
   : [{ label: '', note: '', items: coverage }];
 
 /** The other approved qualifications for this subject — the sibling hubs. */
@@ -388,7 +417,7 @@ if (primaryAssessment) {
    */
   const primaryStatusCaveat =
     primaryAssessment.specStatus === 'future'
-      ? ` ${primaryAssessment.code} is an upcoming specification, first assessment ${primaryAssessment.firstAssessment} -- it is not yet the specification current students should follow.`
+      ? ` ${primaryAssessment.code} is an upcoming specification: its first exams (${primaryAssessment.firstAssessment}) have not been sat yet.${primaryAssessment.firstTeaching ? ` Learners who start the course from ${primaryAssessment.firstTeaching} follow it.` : ''}`
       : primaryAssessment.specStatus === 'legacy-teach-out'
         ? ` ${primaryAssessment.code} is being withdrawn${primaryAssessment.relatedCode ? ` in favour of ${primaryAssessment.relatedCode}` : ''}.`
         : primaryAssessment.specStatus === 'withdrawn'
@@ -403,7 +432,7 @@ if (primaryAssessment) {
   if (future && future !== primaryAssessment) {
     faqs.push({
       question: `Is there a new ${c.board} ${c.subject} specification coming?`,
-      answer: `Yes. ${future.code} is an upcoming specification${future.relatedCode ? `, replacing ${future.relatedCode}` : ''}${future.firstTeaching ? `, for first teaching from ${future.firstTeaching}` : ''}. First assessment: ${future.firstAssessment}. Until then, ${primaryAssessment.code} remains the specification current students follow.`,
+      answer: `Yes. ${future.code} is an upcoming specification${future.relatedCode ? `, replacing ${future.relatedCode}` : ''}${future.firstTeaching ? `, for first teaching from ${future.firstTeaching}` : ''}. First assessment: ${future.firstAssessment}. Learners who start the course ${future.firstTeaching ? `from ${future.firstTeaching}` : 'once its teaching begins'} follow ${future.code}; learners already partway through ${primaryAssessment.code} finish that specification${primaryAssessment.finalAssessment ? `, whose final exams are in ${primaryAssessment.finalAssessment}` : ''}.`,
     });
   }
   if (legacy && legacy !== primaryAssessment) {
@@ -493,12 +522,13 @@ const jsonLd = [
               <p class="m-0 text-[16.5px] text-ink-mute">
                 <strong class="font-semibold text-navy-800">{syllabus.officialTitle}</strong>
               </p>
-              <blockquote class="m-0 mt-4 border-s-2 border-gold-500 ps-4 text-[17px] text-ink-mute">
-                {syllabus.boardSummary}
-                <cite class="mt-2 block text-[14px] not-italic">
-                  — {c.board}, <a href={syllabus.officialUrl} rel="nofollow noopener" class="underline decoration-rule underline-offset-2">official syllabus page</a>
-                </cite>
-              </blockquote>
+              <div class="m-0 mt-4 border-s-2 border-gold-500 ps-4 text-[17px] text-ink-mute">
+                <p class="m-0 mb-1 font-mono text-[11px] uppercase tracking-[0.08em]">Marlbridge's summary of the course</p>
+                <p class="m-0">{syllabus.boardSummary}</p>
+                <p class="m-0 mt-2 text-[14px]">
+                  The board's own description is on the <a href={syllabus.officialUrl} rel="nofollow noopener" class="underline decoration-rule underline-offset-2">official {c.board} syllabus page</a>.
+                </p>
+              </div>
               {syllabus.notes && <p class="m-0 mt-4 text-[15.5px] text-ink-mute">{syllabus.notes}</p>}
               <p class="m-0 mt-5 text-[15.5px] text-ink-mute">
                 Specifications change between examination series. Always confirm the current syllabus and assessment structure on
@@ -521,7 +551,7 @@ const jsonLd = [
                   <p class="m-0 mb-2 text-[13px] font-semibold uppercase tracking-[0.08em] text-gold-600">
                     {a.code}{a.tiers[0] !== 'not-tiered' ? ` — ${a.tiers.map((t) => TIER_LABEL[t] ?? t).join(' / ')}` : ''}
                     {a.specStatus === 'legacy-teach-out' && ' (being withdrawn)'}
-                    {a.specStatus === 'future' && ' (upcoming — not yet current)'}
+                    {a.specStatus === 'future' && ' (upcoming — first exams not yet sat)'}
                     {a.specStatus === 'withdrawn' && ' (withdrawn — no longer assessable)'}
                   </p>
                 )}
@@ -535,7 +565,8 @@ const jsonLd = [
                   <p class="m-0 mb-3 text-[15px] text-ink-mute">
                     {a.code} is an upcoming specification{a.relatedCode && <>, replacing {a.relatedCode}</>}
                     {a.firstTeaching && <>, for first teaching from {a.firstTeaching}</>}. First assessment: {a.firstAssessment}.
-                    {' '}It is not yet the specification current students should follow{a.relatedCode && <> — that remains {a.relatedCode} until this one begins</>}.
+                    {' '}Its first exams have not been sat yet.
+                    {' '}{a.firstTeaching ? <>Learners who start the course from {a.firstTeaching} follow it</> : <>Learners follow it once its teaching begins</>}{a.relatedCode && <>; learners already partway through {a.relatedCode} finish that specification{assessments.find((o) => o.code === a.relatedCode)?.finalAssessment && <>, whose final exams are in {assessments.find((o) => o.code === a.relatedCode)?.finalAssessment}</>}</>}.
                   </p>
                 )}
                 {a.specStatus === 'withdrawn' && (
@@ -644,12 +675,26 @@ const jsonLd = [
       <h2 id="topics-heading" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Syllabus topics</h2>
       {syllabusTopics ? (
         <>
-          <p class="m-0 mb-2 max-w-[70ch] text-[16.5px] leading-[1.65] text-ink-mute">
-            The {syllabusTopics.topics.length} topics below are the official subject content of
-            <strong class="font-semibold text-navy-800"> {syllabus?.officialTitle ?? `${boardQualPhrase} ${c.subject}`}</strong>,
-            for the {syllabusTopics.syllabusSeries} examination series, reproduced from the
-            <a href={syllabusTopics.sourceUrl} rel="nofollow noopener" class="underline decoration-gold-500 underline-offset-2"> {c.board} syllabus document</a>.
-          </p>
+          {c.qualificationSlug === 'ib-myp' ? (
+            <p class="m-0 mb-2 max-w-[70ch] text-[16.5px] leading-[1.65] text-ink-mute">
+              MYP subjects have no numbered content syllabus: schools design their own units. The {syllabusTopics.topics.length} headings below
+              are Marlbridge's own summary of the IB's published
+              <a href={syllabusTopics.sourceUrl} rel="nofollow noopener" class="underline decoration-gold-500 underline-offset-2"> subject brief</a> for
+              <strong class="font-semibold text-navy-800"> {syllabus?.officialTitle ?? `${boardQualPhrase} ${c.subject}`}</strong>,
+              not official subject content.
+            </p>
+          ) : (
+            <p class="m-0 mb-2 max-w-[70ch] text-[16.5px] leading-[1.65] text-ink-mute">
+              The {syllabusTopics.topics.length} topics below are taken from the
+              <a href={syllabusTopics.sourceUrl} rel="nofollow noopener" class="underline decoration-gold-500 underline-offset-2"> official {c.board} document</a> for
+              <strong class="font-semibold text-navy-800"> {syllabus?.officialTitle ?? `${boardQualPhrase} ${c.subject}`}</strong>,
+              for the {syllabusTopics.syllabusSeries} examination series, and follow that document's own headings. Where a syllabus
+              lists its papers or components rather than content topics, those are shown instead.
+              {syllabusTopics.subtopicsComplete
+                ? ' Every subtopic the document lists is shown.'
+                : ' Subtopics are shown where Marlbridge has entered them from the document; a topic shown with few or no subtopics may have more in the official document.'}
+            </p>
+          )}
           <p class="m-0 mb-[clamp(24px,3vw,40px)] max-w-[70ch] text-[15.5px] leading-[1.6] text-ink-mute">
             A topic listed here is part of the syllabus. It does <strong class="font-semibold text-navy-800">not</strong> mean
             Marlbridge has published material for it — topics with resources are marked.

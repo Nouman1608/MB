@@ -23,25 +23,74 @@ const lastUpdated = '30 August 2026';
         <h2>Short version</h2>
         <p>
           marlbridge.com is a static site. We use Google Analytics (GA4) to understand how visitors use the
-          site, but only after you accept the cookie banner shown on your first visit -- no analytics cookie is
-          set before that, and no analytics request is sent until you click Accept. We do not run advertising
-          trackers, and we do not set any cookie of our own outside of that one opt-in analytics choice.
+          site, with Google's consent mode. Google's analytics script loads on every page. Before you choose on
+          the cookie banner, and if you click Reject, Google Analytics sets no cookies, but the site still sends
+          Google some measurements without cookies: clicks on the WhatsApp button, sent enquiry and correction
+          forms, free-trial button clicks and trial-form starts, and activity on practice pages, including
+          whether you marked each question correct and your score on a completed diagnostic. Page views are
+          recorded only after you click Accept, which also lets Google Analytics set its cookies. We do not run
+          advertising trackers, and we do not set any cookie of our own outside of that one analytics choice.
         </p>
 
         <h2>Google Analytics (GA4)</h2>
         <p>
-          If you accept, Google Analytics sets cookies to distinguish visitors and measure page views, referral
-          sources and general usage patterns. We have IP anonymisation enabled. This data is processed by Google
-          under its own privacy policy. If you reject or ignore the banner, no Google Analytics cookie is set and
-          no analytics request is sent -- your visit isn't measured.
+          <strong>Before you choose, or after you click Reject.</strong> Google's analytics script
+          (gtag.js, loaded from googletagmanager.com) runs on every page with analytics and advertising storage
+          set to "denied". In that state, as Google's consent mode documentation describes, Google's tags send
+          measurements without cookies, and Google Analytics sets no cookies. No page view is recorded. These
+          events from the site are sent:
+        </p>
+        <ul>
+          <li>a click on a WhatsApp button, with where the button was and the topic of the page;</li>
+          <li>an enquiry form sent successfully, with the kind of enquiry, and a correction report sent successfully;</li>
+          <li>a click on a free-trial button, with which button, and starting to fill in the trial form;</li>
+          <li>on practice pages: opening the practice session; each question you mark, with the question, its
+            topic and marks, the practice mode, whether the timer was on and whether you marked it correct; a
+            separate right-or-wrong event with the topic; additions to your error notebook; retries and weak-topic
+            clicks; the tier you choose for a diagnostic; a completed diagnostic, with the number of questions,
+            the number correct and wrong, the score percent, a time band and the tier; and a click on the
+            teacher-support link, with your last diagnostic score. Practice events also carry the specification
+            code, board, qualification and subject.</li>
+        </ul>
+        <p>
+          Google Analytics may also record interactions it measures automatically for this site, such as starting
+          to fill in a form. Like any request to Google, each measurement also carries basic technical details
+          such as the page address and your browser. None of the events above includes your name, email address,
+          phone number or anything you type into a form or answer.
+        </p>
+        <p>
+          <strong>After you click Accept.</strong> Google Analytics sets cookies to distinguish visitors and
+          measure page views, referral sources and general usage patterns, records a page view on each page you
+          visit, and sends the events above with those cookies. Advertising storage and ad personalisation stay
+          switched off. We have IP anonymisation enabled. This data is processed by Google under its own privacy
+          policy.
         </p>
 
         <h2>Cloudflare Turnstile</h2>
         <p>
-          The enquiry form on this site uses Cloudflare Turnstile, a privacy-preserving alternative to CAPTCHA,
-          to reduce automated spam. Turnstile may set a short-lived cookie or use similar technology while you
-          are completing the form, under Cloudflare's own privacy policy. This runs regardless of your analytics
-          choice, because it is necessary for the form to function safely.
+          The enquiry forms on this site (on the contact, free trial, tutoring and schools pages) and the
+          <a href="/report-a-correction/" class="underline decoration-gold-500 underline-offset-2">Report a correction</a> form use
+          Cloudflare Turnstile, a privacy-preserving alternative to CAPTCHA, to reduce automated spam. Turnstile's
+          script is loaded from challenges.cloudflare.com on those pages, and it may set a short-lived cookie or
+          use similar technology while you are completing the form, under Cloudflare's own privacy policy. When you
+          submit, our server sends the Turnstile result and your IP address to Cloudflare to confirm the check. This
+          runs regardless of your analytics choice, because it is necessary for the forms to function safely.
+        </p>
+
+        <h2>Storage in your browser</h2>
+        <p>
+          Two features keep small amounts of information in your browser's local storage. Local storage is not a
+          cookie: it stays in this browser on this device and is not sent to our server with each page request.
+        </p>
+        <ul>
+          <li><code>mb_consent</code> -- your answer on the cookie banner ("granted" or "denied"), so the banner
+            is not shown again on every page. "Cookie Settings" in the footer removes it and shows the banner again.</li>
+          <li><code>mb-practice-</code> followed by a syllabus code (for example <code>mb-practice-0620</code>) --
+            your progress on that practice page: for each question you mark, whether you marked it correct, when,
+            and whether the timer was on. "Reset my progress" on the practice page clears the saved answers.</li>
+        </ul>
+        <p>
+          Clearing this site's data in your browser settings removes both.
         </p>
 
         <h2>Fonts</h2>

@@ -232,6 +232,9 @@ export const MATRIX: readonly Combination[] = [
       // 'world-history' subject slug used throughout this matrix. Previously
       // ACTIVE with no code recorded; gap closed here.
       'world-history': '9489',
+      // Round 43 (I396): codes already recorded in syllabuses.ts for these
+      // ACTIVE rows (English Language 9093, Law 9084).
+      'english-language': '9093', law: '9084',
     },
     notes: OWNER_TEACHES_ALL,
   }),
@@ -246,6 +249,13 @@ export const MATRIX: readonly Combination[] = [
     // Codes verified at cambridgeinternational.org (Phase 11, 2026-08-18). Each
     // is the standard grading-scale (A*-G) qualification, matching how 0620
     // was chosen over any "(9-1)" numeric-grade sibling syllabus.
+    // NOTE — business: 0450 "Cambridge IGCSE Business Studies" is current
+    // for exams in 2026 only; from 2027 it is replaced by 0264 "Cambridge
+    // IGCSE Business" (new syllabus code and name; 0264 syllabus 2027-2029,
+    // Version 2, "Changes to syllabus code": "The syllabus name has been
+    // changed" / "There is a new syllabus code 0264"). First 0264 exams are
+    // in the March 2027 series (India only), then June 2027. Recorded as 0450
+    // since 2026 is the current year, as with O Level 7115 -> 7081 below.
     codes: {
       chemistry: '0620', mathematics: '0580', physics: '0625', biology: '0610',
       business: '0450', economics: '0455', accounting: '0452',
@@ -293,6 +303,8 @@ export const MATRIX: readonly Combination[] = [
       // batch) — official title 'History' (2147). Previously ACTIVE with no
       // code recorded; gap closed here.
       'world-history': '2147',
+      // Round 43 (I396): code already recorded in syllabuses.ts (English Language 1123).
+      'english-language': '1123',
     },
     notes: OWNER_TEACHES_ALL,
   }),

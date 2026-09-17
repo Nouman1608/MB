@@ -13,7 +13,7 @@ faqs:
   - question: "Are Marlbridge's Global Perspectives study guides free to use?"
     answer: "Yes. Study material on Marlbridge is free to read for anyone preparing for an exam, and free for schools and teachers to use with their classes — no licence, account or attribution required."
   - question: "Which exam board does this follow?"
-    answer: "Cambridge Assessment International Education."
+    answer: "Cambridge International Education."
   - question: "Does Marlbridge teach Global Perspectives?"
     answer: "Yes, at IGCSE and A Level. Note the A Level qualification is titled \"Global Perspectives & Research\" — a distinct, broader specification from the IGCSE."
 ---

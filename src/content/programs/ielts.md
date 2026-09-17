@@ -8,13 +8,10 @@ level: "ielts"
 marlbridgeTeaches: "teaching"
 shortDescription: "Academic IELTS preparation across all four papers."
 description: "Academic IELTS preparation across all four papers."
-curriculum: "British Council / IDP"
+curriculum: "IELTS (British Council, IDP IELTS and Cambridge University Press & Assessment)"
 ageRange: "16+"
 countryAvailability: ["PK", "WW"]
 featured: false
 ---
 
 Marlbridge teaches Academic IELTS preparation, covering all four papers: Listening, Reading, Writing and Speaking.
-
-Subject pages list the topics covered at this level, together with the study
-guides, revision notes and practice questions published for each topic.

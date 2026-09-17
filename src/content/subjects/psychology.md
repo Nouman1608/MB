@@ -9,13 +9,13 @@ description: "Psychology teaching and study resources, organised by level and to
 featured: false
 faqs:
   - question: "What does the Psychology hub cover?"
-    answer: "Cambridge A Level Psychology, and AQA GCSE and A Level Psychology (specification 7182), organised by topic. More levels and specifications are added as material is written."
+    answer: "Cambridge International AS & A Level Psychology (9990); AQA GCSE (8182) and A-level (7182) Psychology; OxfordAQA International GCSE (9218) and International AS and A-level (9685) Psychology; and IB Diploma Programme Psychology, organised by topic. More material is added as it is written."
   - question: "Are Marlbridge's Psychology study guides free to use?"
     answer: "Yes. Study material on Marlbridge is free to read for anyone preparing for an exam, and free for schools and teachers to use with their classes — no licence, account or attribution required."
   - question: "Which exam boards does this follow?"
-    answer: "Cambridge Assessment International Education, AQA and OxfordAQA."
+    answer: "Cambridge International Education, AQA, OxfordAQA and the International Baccalaureate (IB)."
   - question: "Does Marlbridge teach Psychology?"
-    answer: "Yes, at IGCSE, GCSE and A Level. Marlbridge teaches Cambridge A Level Psychology, AQA GCSE and A Level Psychology, and OxfordAQA International GCSE (9218) and International A-level (9685) Psychology."
+    answer: "Yes, at IGCSE, GCSE, A Level and IB Diploma Programme. Marlbridge teaches Cambridge International AS & A Level Psychology, AQA GCSE and A-level Psychology, OxfordAQA International GCSE (9218) and International AS and A-level (9685) Psychology, and IB Diploma Programme Psychology."
 ---
 
 The Psychology hub gathers the topics, study guides and practice material for

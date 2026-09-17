@@ -12513,3 +12513,146 @@ A proofreading agent compared every Arabic passage in `o-level-islamiyat-paper-1
 **Validation.** All pass: `astro check` 0 errors; `validate:academic`; `validate-assessments`; cross-board integrity; rendered academic labels; practice bank; build (2142 HTML files); `audit:all` 0 problems across 2141 pages; cross-board regression; negative suite; API tests 31/31; `check-duplicate-resource-scope` the four pre-existing groups only.
 
 **Open-count position after D-257.** Round 41 leaves E936 (2), (5), (6) and I392; all are closed here (9 resource files, with the right-to-left and /uk/ changes in 5 site files). Confirmed errors declared open: 0.
+
+## D-258 - Audit rounds 42 and 43 (Q423, Q424): site content and the syllabus data layer (2026-09-17)
+
+**Trigger.** Round 42 (`docs/audit/2026-11-18-findings.md`, `5657fdf`) read the site outside the resources for the first time and verified D-257 (E936 and I392 closed): E937 (9 items, board facts), E938 (10 items, the site's own code and data), I393 (17 minor items), U76 (owner evidence). Round 43 (`2026-11-19-findings.md`, `3d3f868`) read every syllabus, assessment and topic record: E939 (21 topic-list items), E940 (17 figures, dates and notes), E941 (7 link items), I394 (partial subtopic lists), I395 (board summaries), I396 (7 groups of stale statuses, versions, numbering and notes), U77 (third-party IB marks). Five confirmed-error groups open.
+
+**Method.** Five repair agents worked in parallel under the common brief's rounds 42-43 addendum (site content A and B; topic records A and B; data notes and links), with every write to a shared data file made under a file lock; the lead read the IB documents in a browser, did I394 and I395, reviewed the agents' reports, spot-checked the built pages and ran every gate on the combined tree. Owner decisions taken before work began: keep Google advanced consent mode and reword the pages that described it; label partial subtopic lists rather than complete them now; present board summaries as Marlbridge's.
+
+**Primary sources.** Read by the agents and the lead to the closing matter noted in their reports. Cambridge: 9709 v4, 0264 v2, 0620, 5070, 9696 (2025-2026), 9990 (2024-2026), 0457 (2025-2027), 0470 (649636), 2147 (649640), 0680 (2027-2029), 0417 v3, 0478 v6, 2059 and 0448 (2026 and 2028-2030), 9699 v3, 9609/21 June 2024 mark scheme (marking principles), June 2026 grade threshold tables (0620, 0625, 0580, 9701, 9702), November 2026 key dates (International and UK) and timetables (Zones 3 and 4), the command words page, and the 0610, 1123, 0450 and 9708 syllabus overview pages. AQA: 7131/7132 v2.0, 7137/7138 v1.1, 7405 v1.2, 7408 v1.4, 7162 v1.1, 8700 v1.6, 8702 v1.3, 7702 v1.2, 7717 v1.5.1, 7192 v1.2, 7182 v1.4, 8192 v1.2, 7357 v1.3, 8300 v1.1, 8463 v1.1, 8464 v1.2. OCR: H460 v3.0, J247 and J248 v4.0, J249 v5.0, H431 v2.1, H436 v1.0; the OCR qualifications page. Pearson: IAL Physics Issue 3, IAL Business (2018), YLA1 Issue 4, IAL Biology Issue 2 and Chemistry Issue 1, 4EA1 Issue 7, 4ET1 Issue 3, YET01 Issue 7, 4EC1 Issue 3, 4HI1 Issue 5, 4PH1 Issue 4, 9UR0 Issue 1 and its Getting Started guide; the International A Level subject availability table. OxfordAQA: About us; 9685, 9725 v1.0, 9690 v1.0, 9625 v3.1, 9202 v6.2, 9630 v4.4, 9640 v2.0, 9270 v5.1, 9275 v5.1, 9635 v3.2, 9210 v3.4, 9610 v5.1, 9203 v5.2, 9264 v1.1, 9215 v1.2, 9620, 9615, 9675 v5.3 and v5.6. ielts.org About IELTS. CPR not needed. IB, read at ibo.org in a browser: Global politics guide (first assessment 2026), assessment outlines SL and HL ("Paper 2 (1 hour 45 minutes) ... (30 marks) 40%" at SL; "Paper 2 Duration: 1 hour 45 minutes Maximum mark: 30" in the external assessment details) and internal assessment criteria; the DP Mathematics: analysis and approaches and applications and interpretation curriculum update pages; the MYP Science curriculum page.
+
+### E937 - Board facts (9)
+
+| Item | Files | What changed |
+|---|---|---|
+| E937.1 | `src/content/subjects/urdu-language.md` | Pearson Edexcel A Level Urdu (9UR0), the UK GCE A Level (no IAL Urdu); OxfordAQA 9264 added. |
+| E937.2 | `boards.ts` (L52, L60, L61) | OxfordAQA is a partnership between Oxford University Press and AQA; 'arm' and Oxford International Education Group removed. |
+| E937.3 | `qualifications.ts` L61, L71 | AS certificated on its own or counting towards the A Level at Cambridge, OxfordAQA and Pearson (International); AQA's AS a separate qualification not counting towards its linear A-level; L61 and L71 now agree. Pearson included from its specification ('may be awarded as a discrete qualification or may contribute 50 per cent'). |
+| E937.4 | `qualifications.ts` L90; `myp-sciences.md`; `subjects.ts` note | MYP Sciences courses usually include biology, chemistry and physics, taught as separate, modular or integrated courses. |
+| E937.5 | `understanding-mark-schemes-and-examiner-reports.md` | Cambridge convention: slashes or 'or' separate alternatives; bracketed content not required. |
+| E937.6 | `grade-thresholds/index.astro` | Syllabus figures are out of Cambridge's maximum weighted mark and derive from weighted component thresholds; column 'Max weighted mark'. |
+| E937.7 | `exam-calendar/index.astro` | Dates are Cambridge's International ones; UK centres differ (November 2026 final entries 16 August International, 21 September UK). |
+| E937.8 | `syllabus-updates/index.astro`; hub template FAQ and banner; `assessments.ts` firstTeaching for 9690, 9292, 9245 | Advice by date: new starters from the first-teaching date follow the new specification; learners partway through the older one finish it. |
+| E937.9 | `assessments.ts` 9725 and 9690 | First assessment 2027 (first International AS series), notes giving A-level from 2028. |
+
+### E938 - The site's own code and data (10)
+
+| Item | Files | What changed |
+|---|---|---|
+| E938.1 | `legal/cookies.astro`, `legal/privacy.astro`, `practice/index.astro`, `practice/[code]/index.astro`, `i18n/pages/legal.ts` (ar, ur, bn) | Owner decision: advanced consent mode kept. The pages now describe the code: before a choice or after Reject no analytics cookies, but Google receives cookieless measurements of the named events (WhatsApp clicks, sent enquiry and correction forms, trial clicks and form starts, practice activity including correctness and diagnostic score); page views only after Accept (the code sets `send_page_view: false` and sends them on grant). |
+| E938.2 | hub template `[subject].astro` | AS and A Level group notes built from each record's own topic numbers; linear specifications (7402, 7405) get no 'assessed on the AS papers' note; unstaged topics listed under their own heading. |
+| E938.3 | `syllabus-updates/index.astro` | DP Psychology SL and HL totalled separately (2019: SL 93, HL 139; 2027: SL 94, HL 124) with components labelled by tier; the 2019 marks' third-party sourcing stated; 'sourced directly' claims qualified and the exceptions listed from the data. |
+| E938.4 | `programs/[slug].astro` | Group panel and FAQs only where the qualification has a group fee; IB one-to-one per class; IELTS and Academic Support route to an enquiry. |
+| E938.5 | `gulf/index.astro`, `uk/index.astro` | Group rates set per region; one-to-one rates are conversions. |
+| E938.6 | `computer-science.md`, `geography.md` | Stale FAQ answers replaced with the boards the hubs render. |
+| E938.7 | `syllabus-updates/index.astro` | Lead recomputed; new section 'Current, but partway through a changeover' listing H436, 7137, 7138, 9625, DP Psychology (2019) and DP Computer Science (2014). Statuses of 7131, 7132, 7137, 7138, 9292, 9690, 9245 updated under I396 (1). |
+| E938.8 | `contact`, `pricing`, `[locale]/contact`, `[locale]/pricing`, `marketing.ts`, `copy.ts` | Both fee bases stated (group per subject per month; one-to-one and IB per class); discounts group-only; email reply within two working days in every language. |
+| E938.9 | `pakistan/index.astro` | Exceptions named: OCR not offered directly, IB one-to-one only, SAT not yet offered. |
+| E938.10 | `about/index.astro`, `legal/editorial-policy.astro`, `legal.ts`, `marketing.ts` | Authorship figures computed at build time from front matter (1,645 resources; 1,250 Academic Team byline; 395 named across 8 teachers; 480 practice resources, 138 named; 0 reviewed resources); the false statements removed in every language. |
+
+### E939 - Topic lists (21)
+
+| Item | Record | Result |
+|---|---|---|
+| E939.1 | 9696 | Rebuilt: 14 syllabus topics, 56 numbered subtopics (4 → 14 topics). |
+| E939.2 | 9990 | Rebuilt: AS core studies and research methodology; Specialist Options 1-4 with topics 1.1-4.5. |
+| E939.3 | 0457 | **Deferred.** The 22-topic record is prepared, but nine resources link the three component slugs and no topic matches a component; needs a decision on those resources' topic links. |
+| E939.4 | 0470, 2147 | Option titles as printed (Option A ... the development of modern nation states, 1848–1914; Option B ... international relations since 1919). |
+| E939.5 | 0680 | 3.5 Oil pollution and 3.6 Plastic pollution added, with the subtopics of topics 4-7. |
+| E939.6 | 0417 | Invented 3.1/3.2 removed; every numbered subtopic entered; unnumbered row headings where the syllabus gives no numbers. |
+| E939.7 | 7405 | 3.3.5 Alcohols added (34 topics). |
+| E939.8 | 7408 | Options 3.9-3.13 with 20 sub-topics; notes quote 'Students enter for one of sections 9, 10, 11, 12 or 13'. |
+| E939.9 | 7162 | 3.1-3.5 including options 3.4 Law of contract and 3.5 Human rights; unnumbered strands without invented numbers. |
+| E939.10 | 8700, 8702, 7702, 7717 | Rebuilt from subject content (8702 adds 3.3 Skills; 7717 adds Text selection). |
+| E939.11 | 7192, 7182, 8192 | Rebuilt in the specifications' order and numbering, options listed individually. |
+| E939.12 | 9UR0 | **Deferred.** A themes-and-works record (5 topics, 21 subtopics) is prepared, but six resources link the Paper 1 and Paper 3 slugs, and its Urdu strings need a reader's check against the specification. |
+| E939.13 | YPH11 | Units 3 and 6 added with their content sections. |
+| E939.14 | 4EA1, 4ET1, YET01 | Sections added for every component and unit; invented numbers removed. |
+| E939.15 | 9202 | 3.10 Organic chemistry added. |
+| E939.16 | 9630 | 3.10-3.13 with 19 subtopics added. |
+| E939.17 | 9640 | 3.5 Quantitative skills (QS1-QS9) added. |
+| E939.18 | 9270, 9275 | 9270 adds 3.3 and 3.4; 9275 adds 3.3 Route B; numbering as printed. |
+| E939.19 | 9635 | Unit 1 Sections A-C as printed; subtopics renumbered 3.x.y. |
+| E939.20 | 9625/9725 | Record now holds 9725 content (16 topics, 18 AS subtopics) with series, source and notes naming 9725; the combined code stays for the validator. |
+| E939.21 | 9210, 9610 | 9210 Programming 3.2.9-3.2.13; 9610 Unit 2 3.2.7-3.2.11. |
+
+Slugs: every slug referenced anywhere in `src` was kept; only unreferenced slugs were removed. Where a kept paper slug now sits on one content topic, the resources that link it appear under that topic only (9696, 9990, 8700, 8192); noted for resource front-matter follow-up.
+
+### E940 - Figures, dates and notes (17)
+
+| Item | Record | Result |
+|---|---|---|
+| E940.1 | IB Mathematics AA and AI, HL Paper 3 | **Disputed; not changed.** See below. |
+| E940.2 | IB Global Politics | Paper 2 105 minutes at SL and HL, read from the guide (quoted above). The record's officialSourceUrl is now the guide; the mark totals (25, 30, 28; engagement project 24 SL from criteria A-E, 30 HL with F) are read from the guide, so the third-party mirror fields are removed (closes U77 for Global Politics). Negative-suite fixture [AG] updated to the new URL. |
+| E940.3-5 | 7357, 8300, H460 | First assessment 2018, 2017 and 2021, from the specification covers. |
+| E940.6 | 8463 | Tiered in both records; board summary replaced with the specification's own sentence. |
+| E940.7 | 7182 | Paper 2 has three sections (24, 24, 48). |
+| E940.8 | 7137 | AS Paper 1 Unit 3.1, Paper 2 Unit 3.2. |
+| E940.9 | J249 | Paper 1/3 P1-P4 and P9; Paper 2/4 P5-P8. |
+| E940.10 | H431, H436 | H431 every component includes synoptic assessment; H436 all three components carry quality of extended response. Negative-suite fixture [U] updated to the new H431 note. |
+| E940.11 | YLA1 | Contract and criminal law in Paper 2; International Advanced Level only. |
+| E940.12 | YPH11 | Biology 10%, Chemistry 20% mathematics. |
+| E940.13 | YEC11 | 'linear' removed. |
+| E940.14 | 2147 | Paper 2 set on a prescribed Core topic. |
+| E940.15 | 2059 | Links and describes the 2026 syllabus; same structure as 0448. |
+| E940.16 | 0680, 0479 | Other published editions named (664643, 744788). |
+| E940.17 | 0470 | 721327. |
+
+**E940 (1) disputed.** The finding: HL Paper 3 is 60 minutes per the guides (first assessment 2021) and briefs. The IB's own DP Mathematics: analysis and approaches update page (read at ibo.org, 2026-09-17), describing the revised course ("first teaching in August 2027", "First assessment will take place in May 2029"): "Paper 3 has a reduced number of items so that the total marks are 50 (previously 55 marks). The time of Paper 3 is one hour (previously one hour and 15 mins)". The applications and interpretation update page says the same ("The time of paper 3 is one hour (previously one hour and 15 mins)"). With the IB May 2026 examination schedule ("Mathematics: analysis and approaches HL paper 3 / Mathematics: applications and interpretation HL paper 3 1h 15m", D-252), the current course's Paper 3 is 1 hour 15 minutes; the 2021 guide's 60 minutes is superseded, as the record's note already says. Round 38 (Q419) read the same update page. The record stays at 75 minutes.
+
+### E941 - Links (7)
+
+| Item | Result |
+|---|---|
+| E941.1 | 4024, 0475, 9695 linked to their live Cambridge pages (HTTP 200, right titles). |
+| E941.2 | J247, J248, J249 linked to the gateway-science-suite pages. |
+| E941.3 | 4MA1 and YBS11 pages and the YBS11 2018 specification PDF. |
+| E941.4 | 9203 and 9264 topic records linked to the 2026/07 PDFs. |
+| E941.5 | ESS brief now `university-admission/pdfs/environmental-systems-and-societies-subject-brief-en.pdf`; the lead confirmed in a browser that it returns 200 (PDF) and the old address 404. |
+| E941.6 | **Disputed; not changed.** `brochures-and-infographics/pdfs/myp-brief-sciences-en.pdf` returned 200 (application/pdf) in a browser at ibo.org on 2026-09-17, and the current MYP Science page links exactly that file ('MYP sciences (PDF, 612 KB)'). The 404 appears to be a non-browser fetch. |
+| E941.7 | 7402 topic record linked to the 7402 subject-content page. |
+
+### I393 - Minor site items (17)
+
+| Item | Result |
+|---|---|
+| I393.1-4 | Hubs list the specifications they render (chemistry fixed too); GCSE codes 8182/8192; 'History' and 'Information Technology' titles; Commerce progression attribution removed. |
+| I393.5-9 | 'only' removed (OxfordAQA EPQ 9695; OCR Cambridge Nationals, Technicals, Entry Level); 0450 to 0264 recorded; IB named in hub FAQs and 'Cambridge International Education' used; accounting 'IGCSE and A Level'; six boards, Pearson also UK-domestic. |
+| I393.10-13 | Topic sentence removed from IELTS, SAT, Academic Support; SAT 'Not taught'; IELTS names all three owners; 'State' as 'express in clear terms' and board-neutral science wording; checklist and hub intros explain MYP and paper-based lists; tool fixes (staged routes named, June series late April to early June, 'certain countries', 0620/22 on 12 November 2026, Cambridge-only command-word wording, 'Developing' matches `masteryLevel()`). |
+| I393.14 | **Owner.** Nouman Ahmed's subjects, the Academic Team byline's meaning, 'teaching operates in Pakistan today', and who operates Marlbridge. |
+| I393.15 | Arabic كلا الحسمين; Learners Academy transliterated in Arabic (ليرنرز أكاديمي) as in Urdu and Bengali; 'experienced' used in all three languages. |
+| I393.16 | Cookie page adds browser storage (`mb_consent`, `mb-practice-<code>`) and Turnstile on every form; privacy page adds School and Role fields, IP to Turnstile and the one-hour rate-limit key, delivery through Resend; editorial policy links the correction form. |
+| I393.17 | Half-equations section, industrial processes section and their self-test questions tagged (0620 4.1 S11; 6.3 S5-S11). |
+
+### I394 and I395 (lead)
+
+| Item | Files | What changed |
+|---|---|---|
+| I394 | `syllabus-topics.ts` (new optional `subtopicsComplete`, set on 0620 and the twelve records rebuilt in full: 9696, 9990, 0680, 0417, 7162, 8700, 8702, 7702, 7712/7717, 7192, 7182, 8192); hub template; checklist template | Owner decision: label, not complete. Hubs say every subtopic is shown only where the record is complete; otherwise that a topic with few or no subtopics may have more in the official document. Checklists say 'The syllabus lists no sub-headings for this topic' for complete records and 'Subtopics for this topic are not listed here yet; check the official document' otherwise. |
+| I395 | hub template; `syllabuses.ts` 0610, 1123, 3248, 0450, 9708 | Owner decision: the summary is headed "Marlbridge's summary of the course" with a link to the board's own description, no longer a blockquote attributed to the board. The five factually wrong summaries corrected from the Cambridge pages or syllabus: 0610 'biological world'; 1123 'learners who speak English at home or at school, at near first language level'; 3248 translation from English into Urdu; 0450 and 9708 replaced with Cambridge's own overview sentence. 5014 'affected' left: the audit's 'endangered' was not found on the page or in the syllabus. |
+
+### I396 - Data records (7)
+
+Statuses: 7131 withdrawn (last AS 2026; its topic record superseded), 7132 teach-out, 7137 and 7138 current, 9292, 9690 and 9245 current, 9675 ends 2028, 0450 final assessment 2026, 2281's successor named. Versions: 0478 v6, J248 v4.0, 8464 v1.2, 9685 note. Series: YBS11 from 2018, 4PH1 ongoing, three 9618 resources to 2027-2029. Codes: matrix.ts codes for 9093, 9084, 1123. Numbering and names as printed for 9260, 9237, 9245, 9675, 9215, J560, H240, J247, YEC11, YAC11 (Topic 1), 4HI1, 9701, 0580, 9489, 0470/2147, 9626, 8462, 8463, 7402, 8132, 7131, 0493/2058. Tier flags on 0620 6.1 and 12.1-12.4; stages on all 9620 topics, with `stage: "AS"` added to eight OxfordAQA A-level Chemistry resources the validator then required. Notes: H432, H556, H420 endorsement claim, 7357 section count, 8300 grades, 9699 version, 0448 sections, 9203 co-teachable code, 9615 overlap, IB Computer Science 2027 only.
+
+**Deferred or disputed within I396:** 9709 Paper 2 weighting (the model stores A Level percentages that sum to 100; 40% of AS cannot be shown without a schema change); YAC11 topics 1-15 and 4EC1 topics 1-4 (printed numbers 1.1-2.9 need a string topic number); YBS11/YEC11 single code (twelve resources cite unit codes that pass only against the combined string); 9489 records to 2027-2029 (requires rebuilding the American option); OCR resource series wording (about fifty files; needs one standard wording); 0539 Paper 2 and Component 5 durations disputed: the schema comment requires "the documented midpoint" where the board gives a range and the notes say so, which they do.
+
+### Knock-on
+
+- The AQA AS Business checklist page is no longer built, because the 7131 topic record is now superseded and there is no 7137 topic record; the AS Business hub shows its empty topics state. Four AS Business resources still cite 7131 (validator warnings). A 7137 record (3.1.1-3.1.4, 3.2.1-3.2.2 from the specification) was drafted, but the validator then rejects those four resources' 7131 topic slugs; it is not added. Building 7137 resources, or moving the four, is the follow-up. HTML files: 2141 (was 2142).
+
+### Owner items (not actionable by the fixer)
+
+U76 (results, organisation, in-person teaching, teacher credentials and coverage); I393 (14); U77 except Global Politics (Business Management, Language A: Language and Literature, ESS, Language A: Literature, Language B, Psychology 2019 mark totals, and three Pearson notes); the two resource-linking decisions (0457, 9UR0) and the 9UR0 Urdu check; the 7137 follow-up.
+
+### Observations, not actioned
+
+- Resource files still carrying old wording now changed in the data: 0470/2147 Option B 'The Twentieth Century, 1919-1989' in several resources; four OxfordAQA Business resources calling 9625 the code 'current students sit'; the old 9203 PDF link in three OxfordAQA physics resources; `aqa-a-level-biology-biological-molecules.md` linking the 7401 page.
+- Comments in `ConsentAnalytics.astro`, `EnquiryForm.astro` and `TrialFunnelEvents.astro` still say nothing is sent before consent (not reader-facing); both policies still show 'Last updated 30 August 2026' and claim 'IP anonymisation enabled', which GA4 ignores.
+- The Arabic, Urdu and Bengali legal copy does not carry the new I393 (16) disclosures (it says the English version is the reference); `ib-myp-sciences-subject-guide.md` says MYP Sciences is 'often integrated'.
+- Round 42's note on eight mostly-Urdu paragraphs with an English phrase now shown right-to-left: the lead's screenshots of the listening practice (D-257) read correctly; the other four files were not viewed.
+
+**Validation.** `astro check` 0 errors; `validate:academic` (4 warnings: the 7131 resources); `validate-assessments`; cross-board integrity; rendered academic labels (after build); practice bank; commercial claims, pricing consistency, tiered FAQ routes, review integrity, grade thresholds, AS-level display, academic matrix and FX policy validators; build (2141 HTML files); `audit:all` 0 problems across 2140 pages; cross-board regression; negative suite (fixtures [U] and [AG] updated to the changed records); API tests 31/31; `check-duplicate-resource-scope` the four pre-existing groups only.
+
+**Open-count position after D-258.** Rounds 42 and 43 leave E937-E941 (confirmed) and I393-I396. Closed here: E937 (all 9), E938 (all 10), E939 (19 of 21; (3) and (12) deferred on resource links), E940 (16 of 17; (1) disputed), E941 (6 of 7; (6) disputed), I393 (16 of 17; (14) owner), I394 and I395 (labelled as the owner decided), I396 (all but the deferred and disputed points listed). Confirmed errors declared open: 2 deferred sub-points (E939 (3), (12)), with 2 disputed (E940 (1), E941 (6)).

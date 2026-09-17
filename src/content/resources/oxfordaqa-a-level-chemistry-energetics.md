@@ -8,6 +8,7 @@ boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9620"]
 syllabusSeries: "Version 5.3 (first teaching 2019, first AS and A-level exams 2020)"
+stage: "AS"
 order: 5
 syllabusTopics:
   - qualification: "a-level"

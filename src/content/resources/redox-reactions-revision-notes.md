@@ -87,6 +87,8 @@ This matches the "(VII)" in potassium manganate(VII) — the Roman numeral and t
 
 ## Half equations
 
+*(0620 Extended, 5070 required)* Constructing ionic half-equations is 0620 Supplement content (4.1 S11).
+
 Write each half separately, balance atoms, then balance charge with electrons:
 
 ```
@@ -137,7 +139,7 @@ Related: [Redox Reactions practice questions](/resources/redox-reactions-practic
 1. In `Fe₂O₃ + 3CO → 2Fe + 3CO₂`, which species is reduced?
 2. *(0620 Extended, 5070 required)* Give the oxidation number of S in H₂SO₄.
 3. *(0620 Extended, 5070 required)* A solution turns acidified KMnO₄ from purple to colourless. What does this show?
-4. Write the half equation for chloride ions forming chlorine.
+4. *(0620 Extended, 5070 required)* Write the half equation for chloride ions forming chlorine.
 5. *(0620 Extended, 5070 required)* Why is a reducing agent itself oxidised?
 6. *(0620 Extended, 5070 required)* In `CuO + H2 → Cu + H2O`, identify the oxidising agent and reducing agent using the oxygen definition.
 7. *(0620 Extended, 5070 required)* Find the oxidation number of Cr in K2Cr2O7.

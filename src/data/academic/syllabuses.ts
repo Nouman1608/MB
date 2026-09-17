@@ -87,7 +87,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
     code: '4024',
     boardSummary:
       'Cambridge O Level Mathematics (Syllabus D) gives learners a solid foundation for further study, developing number, algebra, geometry, mensuration, trigonometry, statistics and probability skills for candidates going on to Cambridge International AS & A Level Mathematics or equivalent.',
-    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-mathematics-syllabus-d-4024/',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-mathematics-d-4024/',
     verifiedOn: '2026-08-18',
     notes: 'boardSummary is a Marlbridge-written factual description, not a verbatim quote — the syllabus overview page could not be fetched directly in this session (redirect-only response); code, series and content verified independently against the official syllabus PDF in Phase 14.',
   },
@@ -154,7 +154,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
     code: 'J248',
     boardSummary:
       "Our GCSE Chemistry A (Gateway Science) qualification develops students' broad scientific knowledge as well as their conceptual understanding of a range of topics within chemistry itself. They develop practical and problem-solving skills and an ability to evaluate claims based on science through critical analysis.",
-    officialUrl: 'https://www.ocr.org.uk/qualifications/gcse/chemistry-a-gateway-science-j248-from-2016/',
+    officialUrl: 'https://www.ocr.org.uk/qualifications/gcse/gateway-science-suite-chemistry-a-j248-from-2016/',
     verifiedOn: '2026-08-18',
     notes: 'Qualification number 601/8663/X. A parallel "Twenty First Century Science" suite (Chemistry B, J258) also exists; J248 (Gateway Science) recorded here for consistency with a single-code-per-subject pattern.',
   },
@@ -164,7 +164,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
     code: 'J249',
     boardSummary:
       "Our GCSE in Physics A (Gateway Science) introduces students to the key concepts of physics, integrating theory with practical skills. It helps students develop their knowledge of scientific methodology and their conceptual understanding of physics and how this can be applied to the world around them.",
-    officialUrl: 'https://www.ocr.org.uk/qualifications/gcse/physics-a-gateway-science-j249-from-2016/',
+    officialUrl: 'https://www.ocr.org.uk/qualifications/gcse/gateway-science-suite-physics-a-j249-from-2016/',
     verifiedOn: '2026-08-18',
     notes: 'Qualification number 601/8651/3.',
   },
@@ -174,7 +174,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
     code: 'J247',
     boardSummary:
       "Our GCSE in Biology A (Gateway Science) helps students develop their biological knowledge and scientific thinking. They discover how key concepts in biology make sense of the observed diversity of natural phenomena. Practical skills are integrated with the theoretical topics.",
-    officialUrl: 'https://www.ocr.org.uk/qualifications/gcse/biology-a-gateway-science-j247-from-2016/',
+    officialUrl: 'https://www.ocr.org.uk/qualifications/gcse/gateway-science-suite-biology-a-j247-from-2016/',
     verifiedOn: '2026-08-18',
     notes: 'Qualification number 601/8589/2.',
   },
@@ -256,7 +256,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       "Our A Level Business qualification stimulates and encourages students' interest in how business works. It fosters an understanding of business operations in a variety of contexts and helps students develop a range of relevant generic skills and ways of thinking.",
     officialUrl: 'https://www.ocr.org.uk/qualifications/as-and-a-level/business-h031-h431-from-2015/',
     verifiedOn: '2026-08-18',
-    notes: 'Qualification number 601/4675/8. H431 is current: final first teach September 2025, final assessment summer 2027. OCR\'s replacement A Level Business (H436) has first teach September 2026 — recorded here as a future transition, not yet the current code (mirrors how Cambridge O Level Business 7115→7081 is handled above).',
+    notes: 'Qualification number 601/4675/8. H431 is being withdrawn: final first teach September 2025, final assessment summer 2027. OCR\'s replacement A Level Business (H436) has been taught from September 2026 and is the current specification for new students.',
   },
   {
     boardSlug: 'ocr', qualificationSlug: 'a-level', subjectSlug: 'economics',
@@ -636,10 +636,10 @@ export const SYLLABUSES: readonly Syllabus[] = [
     officialTitle: 'AQA GCSE Physics (8463)',
     code: '8463',
     boardSummary:
-      'This specification gives students the opportunity to study the more theoretical aspects of physics, such as astrophysics and particle physics, and covers the essential knowledge and skills for progression to further study.',
+      "You'll see that our GCSE Physics, along with Chemistry and Biology, is a clear straightforward specification, with clear straightforward exams, so all your students can realise their potential.",
     officialUrl: 'https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification',
     verifiedOn: '2026-08-19',
-    notes: 'Untiered as a standalone Physics GCSE (Foundation/Higher content is flagged within each topic via "HT only", not via separate specifications). Eight topics: Energy, Electricity, Particle model of matter, Atomic structure, Forces, Waves, Magnetism and electromagnetism, and Space physics. Most content is co-teachable with GCSE Combined Science: Trilogy (8464); content marked "(physics only)" in the official specification is Physics-only. First teaching September 2016. Assessed across two written papers (Paper 1: Energy, Electricity, Particle model of matter, Atomic structure; Paper 2: Forces, Waves, Magnetism and electromagnetism, Space physics), each 1 hour 45 minutes.',
+    notes: 'Tiered: both papers are set at Foundation Tier and Higher Tier, and content assessed only at Higher Tier is marked "(HT only)" in the specification. Eight topics: Energy, Electricity, Particle model of matter, Atomic structure, Forces, Waves, Magnetism and electromagnetism, and Space physics. Most content is co-teachable with GCSE Combined Science: Trilogy (8464); content marked "(physics only)" in the official specification is Physics-only. First teaching September 2016. Assessed across two written papers (Paper 1: Energy, Electricity, Particle model of matter, Atomic structure; Paper 2: Forces, Waves, Magnetism and electromagnetism, Space physics), each 1 hour 45 minutes.',
   },
 
   {
@@ -683,7 +683,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       "This specification matches the content set out in the Department for Education's Mathematics GCSE subject content document. This content is common to all exam boards, so students learn the same mathematics whichever awarding body their school uses.",
     officialUrl: 'https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300/specification',
     verifiedOn: '2026-08-19',
-    notes: 'Tiered: Foundation tier (grades 1-9, students awarded 1-5) and Higher tier (grades 4-9). Students take three question papers at the same tier. Six topic areas: Number, Algebra, Ratio proportion and rates of change, Geometry and measures, Probability, Statistics -- the weighting of each is prescribed by Ofqual and is common to all exam boards offering GCSE Mathematics.',
+    notes: 'Tiered: Foundation tier (grades 1-5) and Higher tier (grades 4-9). Students take three question papers at the same tier. Six topic areas: Number, Algebra, Ratio proportion and rates of change, Geometry and measures, Probability, Statistics -- the weighting of each is prescribed by Ofqual and is common to all exam boards offering GCSE Mathematics.',
   },
   {
     boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'mathematics',
@@ -691,7 +691,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
     code: '4MA1',
     boardSummary:
       'The Pearson Edexcel International GCSE in Mathematics (Specification A) requires students to use numerical skills in a purely mathematical way and in real-life situations, use algebra to set up and solve problems, use properties of angles and understand transformations, and use a range of statistical techniques and basic ideas of probability.',
-    officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/mathematics-a-2016.html',
+    officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-mathematics-a-2016.html',
     verifiedOn: '2026-08-19',
     notes: 'Tiered: Foundation tier (grades 5-1) and Higher tier (grades 9-4, with an allowed grade 3). Two written papers per tier, 2 hours each, 100 marks. Specification Issue 2 (November 2017).',
   },
@@ -713,7 +713,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'The subject content for A-level Mathematics is set out by the Department for Education (DfE) and is common across all exam boards. The content set out in this specification covers the complete A-level course of study.',
     officialUrl: 'https://www.aqa.org.uk/subjects/mathematics/a-level/mathematics-7357/specification',
     verifiedOn: '2026-08-19',
-    notes: 'First teaching 2017. 21 lettered subject-content sections (A-S, plus a cross-cutting requirement on the use of large data sets in statistics) -- content and weighting are prescribed by the DfE and common to all boards offering A-level Mathematics, not set independently by AQA.',
+    notes: 'First teaching 2017; first A-level exams June 2018. 21 subject-content sections: Overarching themes, 19 lettered sections (A-S) and Use of data in statistics -- content and weighting are prescribed by the DfE and common to all boards offering A-level Mathematics, not set independently by AQA.',
   },
 
   {
@@ -731,7 +731,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
     officialTitle: 'Cambridge IGCSE Biology (0610)',
     code: '0610',
     boardSummary:
-      "Cambridge IGCSE Biology helps learners understand the technological world in which they live, and take an informed interest in science and scientific developments, building an understanding of the scientific skills essential for progression to further study.",
+      "Cambridge IGCSE Biology helps learners understand the biological world in which they live, and take an informed interest in science and scientific developments, building an understanding of the scientific skills essential for progression to further study.",
     officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-biology-0610/',
     verifiedOn: '2026-08-19',
     notes: 'Syllabus for exams in 2026, 2027 and 2028. Tiered: Core (Papers 1 and 3, grades C-G) and Extended (Papers 2 and 4, grades A*-G), plus one practical paper (5 or 6).',
@@ -793,10 +793,10 @@ export const SYLLABUSES: readonly Syllabus[] = [
     officialTitle: 'Cambridge IGCSE Business Studies (0450)',
     code: '0450',
     boardSummary:
-      'Learners consider a range of stakeholder perspectives, from the individual to national government, when studying the Cambridge IGCSE Business Studies syllabus.',
+      "The Cambridge IGCSE Business Studies syllabus develops learners' understanding of business activity in the public and private sectors, and the importance of innovation and change.",
     officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-business-studies-0450/',
     verifiedOn: '2026-08-19',
-    notes: 'Syllabus for exams in 2026 (Version 2). Six topics: understanding business activity, people in business, marketing, operations management, financial information and decisions, and external influences on business activity.',
+    notes: 'Syllabus for exams in 2026 (Version 2), the last examination year for 0450: Cambridge has changed the syllabus code to 0264 (Cambridge IGCSE Business) for first assessment in March 2027. Six topics: understanding business activity, people in business, marketing, operations management, financial information and decisions, and external influences on business activity. 0450 is replaced from 2027 by Cambridge IGCSE Business (0264), which has a new syllabus code and name and revised content (0264 syllabus for exams in 2027, 2028 and 2029).',
   },
   {
     boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'business',
@@ -804,7 +804,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
     code: 'YBS11 / XBS11 / WBS11 / WBS12',
     boardSummary:
       'Pearson Edexcel International Advanced Level Business develops learners\' understanding of business concepts, decision-making and strategy through a modular four-unit structure.',
-    officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-advanced-levels/business-2017.html',
+    officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-advanced-levels/business-2018.html',
     verifiedOn: '2026-08-19',
     notes: 'Issue 1, September 2017. Modular qualification: International AS (units 1-2, code XBS11) covering Marketing and people, and Managing business activities; full International A Level (units 1-4, code YBS11) adds Business decisions and strategy, and Global business.',
   },
@@ -826,7 +826,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'AQA A-level Business asks students to study business in a variety of contexts and consider the interrelated nature of business activities and how they affect competitiveness.',
     officialUrl: 'https://www.aqa.org.uk/subjects/business/a-level/business-7132',
     verifiedOn: '2026-08-19',
-    notes: 'For first teaching from September 2023; current for cohorts taking exams through summer 2027. AQA has accredited a replacement specification (7138) for first teaching from September 2026, running alongside 7132 during the transition. Ten subject-content sections spanning functional decision-making (marketing, operations, finance, HR) through to business strategy.',
+    notes: 'For first teaching from September 2023; being taught out to cohorts taking exams through summer 2027. It is replaced by 7138, taught from September 2026, which runs alongside 7132 during the transition. Ten subject-content sections spanning functional decision-making (marketing, operations, finance, HR) through to business strategy.',
   },
   {
     boardSlug: 'aqa', qualificationSlug: 'as-level', subjectSlug: 'business',
@@ -836,7 +836,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'AQA AS Business is a stand-alone qualification sharing its subject content with the first half of AQA A-level Business, covering business decision-making in a functional context.',
     officialUrl: 'https://www.aqa.org.uk/subjects/business/as-level/business-7131',
     verifiedOn: '2026-08-19',
-    notes: 'For first teaching from September 2023; current for cohorts taking exams through summer 2026. Covers the first six of the ten A-level Business (7132) sections: what is business, managers/leadership/decision making, and decision-making to improve marketing, operational, financial and human resource performance. AQA has accredited a replacement specification (7137) for first teaching from September 2026.',
+    notes: 'For first teaching from September 2023; last examined in summer 2026 and now withdrawn. Covered the first six of the ten A-level Business (7132) sections: what is business, managers/leadership/decision making, marketing management, operational management, financial management and human resource management. It is replaced by 7137, taught from September 2026.',
   },
   {
     boardSlug: 'aqa', qualificationSlug: 'a-level', subjectSlug: 'business',
@@ -846,17 +846,17 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'AQA A-level Business (7138) is AQA\'s reformed specification, replacing 7132, retaining the same emphasis on studying business in a variety of contexts and the interrelated nature of business activities and competitiveness.',
     officialUrl: 'https://www.aqa.org.uk/subjects/business/a-level/business-7138',
     verifiedOn: '2026-08-28',
-    notes: 'For first teaching from September 2026; first A-level exams June 2028. Replaces 7132, which continues to be examined for cohorts already partway through, through summer 2027. Three subject-content units: what is business (managing marketing and finance), managing people and operations, and (A-level only) business and society, the external environment, and business strategy.',
+    notes: 'For first teaching from September 2026 and the current A-level specification; first A-level exams June 2028. Replaces 7132, which continues to be examined for cohorts already partway through, through summer 2027. Three subject-content units: what is business (managing marketing and finance), managing people and operations, and (A-level only) business and society, the external environment, and business strategy.',
   },
   {
     boardSlug: 'aqa', qualificationSlug: 'as-level', subjectSlug: 'business',
     officialTitle: 'AQA AS Business (7137)',
     code: '7137',
     boardSummary:
-      'AQA AS Business (7137) is AQA\'s reformed AS specification, replacing 7131, sharing its subject content with the first unit of AQA A-level Business (7138).',
+      'AQA AS Business (7137) is AQA\'s reformed AS specification, replacing 7131, sharing its subject content with the first two units of AQA A-level Business (7138).',
     officialUrl: 'https://www.aqa.org.uk/subjects/business/as-level/business-7137',
     verifiedOn: '2026-08-28',
-    notes: 'For first teaching from September 2026; first AS exams June 2027. Replaces 7131, which continues to be examined for cohorts already partway through, through summer 2026. Covers Unit 3.1 (what is business: managing marketing and finance) of the A-level Business (7138) content.',
+    notes: 'For first teaching from September 2026; first AS exams June 2027. Replaces 7131, which was last examined in summer 2026. AS Paper 1 assesses the AS content in Unit 3.1 (What is business? Managing marketing and finance) and AS Paper 2 the AS content in Unit 3.2 (Managing people and operations), the first two units of the A-level Business (7138) content.',
   },
 
 
@@ -865,7 +865,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
     officialTitle: 'Cambridge International AS & A Level Economics (9708)',
     code: '9708',
     boardSummary:
-      'Cambridge International AS & A Level Economics allows students to experience the diverse and dynamic world within which economics exists, developing an understanding of both micro- and macroeconomic theory and how it can be applied.',
+      'Students learn how to explain and analyse economic issues and arguments, evaluate economic information, and organise, present and communicate ideas and judgements clearly.',
     officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-economics-9708/',
     verifiedOn: '2026-09-17',
     notes: 'Syllabus for exams in 2026, 2027 and 2028 (Version 2, published December 2025). AS Level covers topics 1-6 (basic economic ideas and resource allocation, the price system and the microeconomy, government microeconomic intervention, the macroeconomy, government macroeconomic intervention, international economic issues); A Level adds topics 7-11, taking the price system and the microeconomy, government microeconomic intervention, the macroeconomy, government macroeconomic intervention and international economic issues to A Level depth.',
@@ -888,7 +888,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'Pearson Edexcel International Advanced Level Economics develops learners\' understanding of markets, macroeconomic performance, business behaviour and the global economy through a modular four-unit structure.',
     officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-advanced-levels/economics-2018.html',
     verifiedOn: '2026-08-25',
-    notes: 'Issue 2, June 2018, first teaching September 2018, first external assessment 2019 -- confirmed still the current, unreplaced specification on Pearson\'s own qualification page. This is an evergreen linear specification with no year-versioned re-issue, so it continues to serve every future exam series (including 2027) until Pearson publishes a successor; there is no separate "2027 syllabus" to confirm or deny. Modular qualification: International AS (units WEC11, WEC12, code XEC11) covering Markets in action and Macroeconomic performance and policy; full International A Level (units WEC11-WEC14, code YEC11) adds Business behaviour and Developments in the global economy.',
+    notes: 'Issue 2, June 2018, first teaching September 2018, first external assessment 2019 -- confirmed still the current, unreplaced specification on Pearson\'s own qualification page. This is an evergreen specification with no year-versioned re-issue, so it continues to serve every future exam series (including 2027) until Pearson publishes a successor; there is no separate "2027 syllabus" to confirm or deny. Modular qualification: International AS (units WEC11, WEC12, code XEC11) covering Markets in action and Macroeconomic performance and policy; full International A Level (units WEC11-WEC14, code YEC11) adds Business behaviour and Developments in the global economy.',
   },
   {
     boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'economics',
@@ -951,7 +951,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'This syllabus enables learners to understand the main principles of problem-solving using computers and gives them opportunities to develop their skills in a number of programming languages, together with the skills necessary to apply this understanding to develop computer based solutions to problems.',
     officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9618/',
     verifiedOn: '2026-08-19',
-    notes: 'Valid for exams in 2026 only, a single-year series that should be re-checked for a successor when next touched. Staged: AS (sections 1-12) and A Level (adds 13-20), assessed across four papers (Theory Fundamentals, Fundamental Problem-solving and Programming, Advanced Theory, Practical).',
+    notes: 'Syllabus for exams in 2026; Cambridge has published a 2027-2029 syllabus (721397) which states there are no significant changes which affect teaching, and the Marlbridge 9618 resources follow it. Staged: AS (sections 1-12) and A Level (adds 13-20), assessed across four papers (Theory Fundamentals, Fundamental Problem-solving and Programming, Advanced Theory, Practical).',
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'computer-science',
@@ -961,7 +961,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'Cambridge IGCSE Computer Science is designed for learners who are already competent users of computer technology and who wish to further develop their computing skills and knowledge.',
     officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-computer-science-0478/',
     verifiedOn: '2026-08-19',
-    notes: 'Version 5, published December 2025, valid for the 2026, 2027 and 2028 series. Not tiered. Two components: Computer Systems (Topics 1-6) and Algorithms, Programming and Logic (Topics 7-10), each 50%.',
+    notes: 'Version 6, published September 2026 (information on the ROUND function updated), valid for the 2026, 2027 and 2028 series. Not tiered. Two components: Computer Systems (Topics 1-6) and Algorithms, Programming and Logic (Topics 7-10), each 50%.',
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'computer-science',
@@ -1018,7 +1018,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
     officialTitle: 'Cambridge O Level English Language (1123)',
     code: '1123',
     boardSummary:
-      'Cambridge O Level English Language is designed for learners whose first language may not be English, and offers learners the opportunity to become effective communicators in English.',
+      'Cambridge O Level English Language is designed for learners who speak English at home or at school, at near first language level, and develops their ability to communicate clearly, accurately and effectively in English.',
     officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-english-language-1123/',
     verifiedOn: '2026-08-19',
     notes: 'Version 2, published December 2022, valid for the 2024, 2025 and 2026 examination series. Content is organised into two skill strands only – Reading and Writing – assessed by Paper 1 (50%) and Paper 2 (50%), with no further named sub-sections.',
@@ -1029,7 +1029,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
     code: '0475',
     boardSummary:
       'Cambridge IGCSE Literature in English enables learners to read, interpret and evaluate texts through the study of literature in English, developing an understanding of literal meaning, relevant contexts and deeper themes or attitudes.',
-    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-literature-in-english-0475/',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/english-literature-0475/',
     verifiedOn: '2026-08-19',
     notes: 'Version 2, published December 2025, valid for the 2026 examination series only – set texts (poetry, prose, drama) rotate by year. Candidates take Paper 1 plus EITHER Paper 2 OR (Paper 3 + Paper 4) OR (Paper 3 + Component 5 Coursework).',
   },
@@ -1039,7 +1039,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
     code: '9695',
     boardSummary:
       'Cambridge International AS and A Level Literature in English encourages learners to enjoy reading widely and enables them to appreciate the different ways in which writers use language to communicate meaning and effect.',
-    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-literature-in-english-9695/',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-english-literature-9695/',
     verifiedOn: '2026-08-25',
     notes: 'AS Level: Paper 1 Drama and Poetry, Paper 2 Prose and Unseen. A Level adds Paper 3 Shakespeare and Drama and Paper 4 Pre- and Post-1900 Poetry and Prose. Set texts rotate by examination year. The current syllabus (636097-2024-2026-syllabus.pdf) is valid for the 2024, 2025 and 2026 examination series; Cambridge has already published the successor syllabus for 2027 and 2028 (721410-2027-2028-syllabus.pdf, Version 2), which carries the same four-paper structure unchanged.',
   },
@@ -1231,7 +1231,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'Cambridge O Level History looks at some of the major international issues of the nineteenth and twentieth centuries, as well as covering the history of particular regions in more depth.',
     officialUrl: 'https://www.cambridgeinternational.org/Images/649640-2024-2026-syllabus.pdf',
     verifiedOn: '2026-08-19',
-    notes: 'Independently confirmed against 2147’s own syllabus PDF: identical Core content options (A: nineteenth-century nation states; B: twentieth-century international relations) and identical five named Depth studies (A-E) to Cambridge IGCSE History (0470). Assessed via Paper 1 (Structured Questions, drawing on Core content and one Depth study) and Paper 2 (Document Questions, based on one Depth study) — no coursework or Paper 4 alternative at this level.',
+    notes: 'Independently confirmed against 2147’s own syllabus PDF: identical Core content options (A: nineteenth-century nation states; B: twentieth-century international relations) and identical five named Depth studies (A-E) to Cambridge IGCSE History (0470). Assessed via Paper 1 (Structured Questions, drawing on Core content and one Depth study) and Paper 2 (Document Questions, on a prescribed topic from the Core content, which changes in each exam series) — no coursework or Paper 4 alternative at this level.',
   },
   {
     boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'world-history',
@@ -1252,7 +1252,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'Cambridge IGCSE Pakistan Studies gives learners the opportunity to develop a deeper understanding of the history, culture, environment and society of Pakistan.',
     officialUrl: 'https://www.cambridgeinternational.org/Images/697142-2026-syllabus.pdf',
     verifiedOn: '2026-08-19',
-    notes: 'Paper 1 The History and Culture of Pakistan is divided into three sections examined through key questions. Paper 2 The Environment of Pakistan is organised around cross-cutting themes rather than a simple numbered topic list.',
+    notes: 'Paper 1 The History and Culture of Pakistan is divided into three sections examined through key questions. Paper 2 The Environment of Pakistan is set out in eight numbered sections (1 The land of Pakistan to 8 Population and employment), with four themes running across them.',
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'pakistan-studies',
@@ -1260,9 +1260,9 @@ export const SYLLABUSES: readonly Syllabus[] = [
     code: '2059',
     boardSummary:
       'Cambridge O Level Pakistan Studies gives learners the opportunity to develop a deeper understanding of the history, culture, environment and society of Pakistan.',
-    officialUrl: 'https://www.cambridgeinternational.org/Images/743607-2028-2030-syllabus.pdf',
+    officialUrl: 'https://www.cambridgeinternational.org/Images/697282-2026-syllabus.pdf',
     verifiedOn: '2026-08-19',
-    notes: 'Independently confirmed against 2059’s own specification PDF: structure genuinely differs from IGCSE 0448. Paper 1 has 4 named topics (candidates answer on 3 of 4); Paper 2 has 3 named topics each with 3 named sub-topics, all studied. For exams 2028-2030.',
+    notes: 'Syllabus for exams in 2026: the same structure as Cambridge IGCSE Pakistan Studies (0448), checked against both syllabuses. Paper 1 The history and culture of Pakistan (Section A one compulsory source-based question, 25 marks; Section B two questions from a choice of four, 50 marks) and Paper 2 The environment of Pakistan (three questions from a choice of five, 25 marks each), each 1 hour 30 minutes and 50%. Cambridge has published a 2028-2030 syllabus for both 2059 and 0448 with the same new structure in each: Paper 1 has four topics (candidates answer three questions from a choice of four) and Paper 2 three topics, each with three sub-topics, and both papers become 1 hour 45 minutes.',
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'islamiyat',
@@ -1309,7 +1309,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
     officialTitle: 'Cambridge O Level Second Language Urdu (3248)',
     code: '3248',
     boardSummary:
-      'Cambridge O Level Second Language Urdu is for candidates learning Urdu as an additional language, covering reading, writing, grammar and translation between English and Urdu.',
+      'Cambridge O Level Second Language Urdu is for candidates learning Urdu as an additional language, covering reading, writing, grammar and translation from English into Urdu.',
     officialUrl: 'https://www.cambridgeinternational.org/Images/721465-2027-2029-syllabus.pdf',
     verifiedOn: '2026-09-16',
     notes: 'D-133: split out from the combined 3247/3248 record so that resources declaring syllabusCodes ["3248"] link the Second Language document rather than the combined record\'s 3247 (First Language) URL. D-238 (I358): now the syllabus for exams in 2027, 2028 and 2029 (721465, Version 1, September 2024), which the 3248 resources declare. Paper 1 Reading and Writing (1h45, 50 marks, 50%) and Paper 2 Grammar, Writing and Translation (1h30, 50 marks, 50%), identical to 2024-2026; the syllabus states there are no significant changes which affect teaching. The 2024-2026 syllabus (634455) is still examined in November 2026, its final series.',
@@ -1339,7 +1339,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
     officialTitle: 'Pearson Edexcel International Advanced Level in Law',
     code: 'YLA1',
     boardSummary:
-      'The Edexcel International AS/Advanced Level Law syllabus develops students\' knowledge and understanding of legal rules, institutions and principles across different branches of law, using English law terminology relevant to international customers.',
+      'The Edexcel International Advanced Level Law syllabus develops students\' knowledge and understanding of legal rules, institutions and principles across different branches of law, using English law terminology relevant to international customers.',
     officialUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Law/2015/specification-and-sample-assessments/Pearson-Edexcel-IAL-Law-Specification.pdf',
     verifiedOn: '2026-08-21',
     notes: 'Not split into separate IAS/IAL stages — two compulsory papers (Paper 1 YLA1/01, Paper 2 YLA1/02) both taken in the same series, each 50% of the total qualification. Specification Issue 4, November 2021.',
@@ -1660,7 +1660,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
     code: 'DP Environmental Systems and Societies',
     boardSummary:
       'Environmental systems and societies is an interdisciplinary course integrating scientific and sociocultural perspectives on environmental issues, offered at Standard Level (SL) and Higher Level (HL) under a single shared syllabus.',
-    officialUrl: 'https://www.ibo.org/globalassets/new-structure/recognition/pdfs/environmental-systems-and-societies-en.pdf',
+    officialUrl: 'https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/environmental-systems-and-societies-subject-brief-en.pdf',
     verifiedOn: '2026-09-05',
     notes: 'First assessment 2026 (confirmed directly against the official public subject brief this session, rather than assumed from a prior session\'s claim). Sourced from that official subject brief for weighting and duration, plus independently corroborated third-party sources for exact mark totals -- see the matching assessment record for the full sourcing and confidence reasoning, including one figure (Higher Level mark totals) resting on weaker single-source evidence than the rest of the record. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers.',
   },
@@ -1697,7 +1697,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'The subject content and required practicals in this specification are also in our GCSE Biology, Chemistry and Physics. So you have the flexibility to co-teach and to move your students between courses.',
     officialUrl: 'https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification',
     verifiedOn: '2026-09-16',
-    notes: 'Specification version 1.1 (4 October 2019), for teaching from September 2016 and exams from June 2018. A double-award GCSE graded on a 17-point scale (1-1 to 9-9). Six written papers, two each in biology, chemistry and physics, each 1 hour 15 minutes, 70 marks and 16.7% of the GCSE, all tiered Foundation and Higher. Biology Paper 1 covers topics 1-4 (cell biology, organisation, infection and response, bioenergetics) and Paper 2 topics 5-7 (homeostasis and response; inheritance, variation and evolution; ecology). Subject content sections 4 (biology), 5 (chemistry) and 6 (physics).',
+    notes: 'Specification Version 1.2 (August 2026), for teaching from September 2016 and exams from June 2018. A double-award GCSE graded on a 17-point scale (1-1 to 9-9). Six written papers, two each in biology, chemistry and physics, each 1 hour 15 minutes, 70 marks and 16.7% of the GCSE, all tiered Foundation and Higher. Biology Paper 1 covers topics 1-4 (cell biology, organisation, infection and response, bioenergetics) and Paper 2 topics 5-7 (homeostasis and response; inheritance, variation and evolution; ecology). Subject content sections 4 (biology), 5 (chemistry) and 6 (physics).',
   },
   {
     // AQA GCSE Combined Science: Trilogy (8464) is one double-award qualification spanning three
@@ -1712,7 +1712,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'The subject content and required practicals in this specification are also in our GCSE Biology, Chemistry and Physics. So you have the flexibility to co-teach and to move your students between courses.',
     officialUrl: 'https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification',
     verifiedOn: '2026-09-16',
-    notes: 'Specification version 1.1 (4 October 2019), for teaching from September 2016 and exams from June 2018. A double-award GCSE graded on a 17-point scale (1-1 to 9-9). Six written papers, two each in biology, chemistry and physics, each 1 hour 15 minutes, 70 marks and 16.7% of the GCSE, all tiered Foundation and Higher. Chemistry Paper 1 covers topics 8-12 (atomic structure and the periodic table; bonding, structure and the properties of matter; quantitative chemistry; chemical changes; energy changes) and Paper 2 topics 13-17 (rate and extent of chemical change; organic chemistry; chemical analysis; chemistry of the atmosphere; using resources). Subject content sections 4 (biology), 5 (chemistry) and 6 (physics).',
+    notes: 'Specification Version 1.2 (August 2026), for teaching from September 2016 and exams from June 2018. A double-award GCSE graded on a 17-point scale (1-1 to 9-9). Six written papers, two each in biology, chemistry and physics, each 1 hour 15 minutes, 70 marks and 16.7% of the GCSE, all tiered Foundation and Higher. Chemistry Paper 1 covers topics 8-12 (atomic structure and the periodic table; bonding, structure and the properties of matter; quantitative chemistry; chemical changes; energy changes) and Paper 2 topics 13-17 (rate and extent of chemical change; organic chemistry; chemical analysis; chemistry of the atmosphere; using resources). Subject content sections 4 (biology), 5 (chemistry) and 6 (physics).',
   },
   {
     // AQA GCSE Combined Science: Trilogy (8464) is one double-award qualification spanning three
@@ -1727,7 +1727,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'The subject content and required practicals in this specification are also in our GCSE Biology, Chemistry and Physics. So you have the flexibility to co-teach and to move your students between courses.',
     officialUrl: 'https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification',
     verifiedOn: '2026-09-16',
-    notes: 'Specification version 1.1 (4 October 2019), for teaching from September 2016 and exams from June 2018. A double-award GCSE graded on a 17-point scale (1-1 to 9-9). Six written papers, two each in biology, chemistry and physics, each 1 hour 15 minutes, 70 marks and 16.7% of the GCSE, all tiered Foundation and Higher. Physics Paper 1 covers topics 18-21 (energy, electricity, particle model of matter, atomic structure) and Paper 2 topics 22-24 (forces, waves, magnetism and electromagnetism); space physics is not in this qualification. Subject content sections 4 (biology), 5 (chemistry) and 6 (physics).',
+    notes: 'Specification Version 1.2 (August 2026), for teaching from September 2016 and exams from June 2018. A double-award GCSE graded on a 17-point scale (1-1 to 9-9). Six written papers, two each in biology, chemistry and physics, each 1 hour 15 minutes, 70 marks and 16.7% of the GCSE, all tiered Foundation and Higher. Physics Paper 1 covers topics 18-21 (energy, electricity, particle model of matter, atomic structure) and Paper 2 topics 22-24 (forces, waves, magnetism and electromagnetism); space physics is not in this qualification. Subject content sections 4 (biology), 5 (chemistry) and 6 (physics).',
   },
 ] as const;
 

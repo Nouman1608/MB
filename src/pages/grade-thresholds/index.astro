@@ -25,7 +25,7 @@ const GRADE_ORDER: Grade[] = ['A*', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'a', 'b',
   path={path}
   eyebrow="Free tool"
   heading="Grade threshold explorer"
-  lead={`The minimum mark needed for each grade in the June 2026 series, for ${GRADE_THRESHOLDS.length} flagship Cambridge specifications -- copied directly from Cambridge's own official grade-threshold documents, not estimated. Every table below lists every real paper-combination route Cambridge published for that specification, so you can find your own exact combination rather than a single "representative" one. All marks are raw marks out of the maximum shown, exactly as Cambridge publishes them -- not weighted, converted, or a uniform mark scale (UMS).`}
+  lead={`The minimum mark needed for each grade in the June 2026 series, for ${GRADE_THRESHOLDS.length} flagship Cambridge specifications -- copied directly from Cambridge's own official grade-threshold documents, not estimated. Each table lists every single-series paper-combination route Cambridge published for that specification, so you can find your own exact combination rather than a single "representative" one; for AS & A Level Chemistry (9701) and Physics (9702), the staged-assessment routes (AS and A2 papers sat in different series) are not reproduced -- see the note under those tables. The figures are syllabus grade thresholds out of Cambridge's maximum weighted mark, exactly as Cambridge publishes them: Cambridge derives them from the weighted component thresholds. They are not percentage uniform marks.`}
   breadcrumbs={[
     { label: 'Home', href: routes.home },
     { label: 'Grade thresholds', href: path },
@@ -59,7 +59,7 @@ const GRADE_ORDER: Grade[] = ['A*', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'a', 'b',
                 <thead>
                   <tr class="border-b border-rule bg-ivory">
                     <th class="px-4 py-3 text-left font-medium text-navy-800">Route</th>
-                    <th class="px-3 py-3 text-right font-medium text-navy-800">Max mark</th>
+                    <th class="px-3 py-3 text-right font-medium text-navy-800">Max weighted mark</th>
                     {GRADE_ORDER.map((grade) => (
                       <th class="px-3 py-3 text-right font-medium text-navy-800">{grade}</th>
                     ))}

@@ -69,6 +69,13 @@ export interface SyllabusVersion {
   sourceUrl: string;
   verifiedDate: string;
   notes: string;
+  /**
+   * True only where every topic's subtopics have been entered from the
+   * document (a topic with none then has no sub-headings in the document).
+   * Absent means some subtopics may be missing; the hub and checklist say so
+   * (I394, D-258).
+   */
+  subtopicsComplete?: boolean;
   topics: readonly SyllabusTopic[];
 }
 
@@ -81,19 +88,20 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/697205-2026-2028-syllabus.pdf', verifiedDate: '2026-08-17',
     notes: 'Tiered: Core and Extended. Extended = Core + Supplement. Any resource must state which tier an outcome belongs to.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'States of matter', slug: 'states-of-matter', subtopics: [{ number: '1.1', name: 'Solids, liquids and gases', slug: 'solids-liquids-and-gases', tier: 'both', tierVerified: true }, { number: '1.2', name: 'Diffusion', slug: 'diffusion', tier: 'both', tierVerified: true }] },
       { number: 2, name: 'Atoms, elements and compounds', slug: 'atoms-elements-and-compounds', subtopics: [{ number: '2.1', name: 'Elements, compounds and mixtures', slug: 'elements-compounds-and-mixtures', tier: 'core', tierVerified: true }, { number: '2.2', name: 'Atomic structure and the Periodic Table', slug: 'atomic-structure-and-the-periodic-table', tier: 'core', tierVerified: true }, { number: '2.3', name: 'Isotopes', slug: 'isotopes', tier: 'both', tierVerified: true }, { number: '2.4', name: 'Ions and ionic bonds', slug: 'ions-and-ionic-bonds', tier: 'both', tierVerified: true }, { number: '2.5', name: 'Simple molecules and covalent bonds', slug: 'simple-molecules-and-covalent-bonds', tier: 'both', tierVerified: true }, { number: '2.6', name: 'Giant covalent structures', slug: 'giant-covalent-structures', tier: 'both', tierVerified: true }, { number: '2.7', name: 'Metallic bonding', slug: 'metallic-bonding', tier: 'supplement', tierVerified: true }] },
       { number: 3, name: 'Stoichiometry', slug: 'stoichiometry', subtopics: [{ number: '3.1', name: 'Formulae', slug: 'formulae', tier: 'both', tierVerified: true }, { number: '3.2', name: 'Relative masses of atoms and molecules', slug: 'relative-masses-of-atoms-and-molecules', tier: 'core', tierVerified: true }, { number: '3.3', name: 'The mole and the Avogadro constant', slug: 'the-mole-and-the-avogadro-constant', tier: 'both', tierVerified: true }] },
       { number: 4, name: 'Electrochemistry', slug: 'electrochemistry', subtopics: [{ number: '4.1', name: 'Electrolysis', slug: 'electrolysis', tier: 'both', tierVerified: true }, { number: '4.2', name: 'Hydrogen–oxygen fuel cells', slug: 'hydrogen-oxygen-fuel-cells', tier: 'both', tierVerified: true }] },
       { number: 5, name: 'Chemical energetics', slug: 'chemical-energetics', subtopics: [{ number: '5.1', name: 'Exothermic and endothermic reactions', slug: 'exothermic-and-endothermic-reactions', tier: 'both', tierVerified: true }] },
-      { number: 6, name: 'Chemical reactions', slug: 'chemical-reactions', subtopics: [{ number: '6.1', name: 'Physical and chemical changes', slug: 'physical-and-chemical-changes' }, { number: '6.2', name: 'Rate of reaction', slug: 'rate-of-reaction', tier: 'both', tierVerified: true }, { number: '6.3', name: 'Reversible reactions and equilibrium', slug: 'reversible-reactions-and-equilibrium', tier: 'both', tierVerified: true }, { number: '6.4', name: 'Redox', slug: 'redox', tier: 'both', tierVerified: true }] },
+      { number: 6, name: 'Chemical reactions', slug: 'chemical-reactions', subtopics: [{ number: '6.1', name: 'Physical and chemical changes', slug: 'physical-and-chemical-changes', tier: 'core', tierVerified: true }, { number: '6.2', name: 'Rate of reaction', slug: 'rate-of-reaction', tier: 'both', tierVerified: true }, { number: '6.3', name: 'Reversible reactions and equilibrium', slug: 'reversible-reactions-and-equilibrium', tier: 'both', tierVerified: true }, { number: '6.4', name: 'Redox', slug: 'redox', tier: 'both', tierVerified: true }] },
       { number: 7, name: 'Acids, bases and salts', slug: 'acids-bases-and-salts', subtopics: [{ number: '7.1', name: 'The characteristic properties of acids and bases', slug: 'the-characteristic-properties-of-acids-and-bases', tier: 'both', tierVerified: true }, { number: '7.2', name: 'Oxides', slug: 'oxides', tier: 'both', tierVerified: true }, { number: '7.3', name: 'Preparation of salts', slug: 'preparation-of-salts', tier: 'both', tierVerified: true }] },
       { number: 8, name: 'The Periodic Table', slug: 'the-periodic-table', subtopics: [{ number: '8.1', name: 'Arrangement of elements', slug: 'arrangement-of-elements', tier: 'both', tierVerified: true }, { number: '8.2', name: 'Group I properties', slug: 'group-i-properties', tier: 'core', tierVerified: true }, { number: '8.3', name: 'Group VII properties', slug: 'group-vii-properties', tier: 'core', tierVerified: true }, { number: '8.4', name: 'Transition elements', slug: 'transition-elements', tier: 'both', tierVerified: true }, { number: '8.5', name: 'Noble gases', slug: 'noble-gases', tier: 'core', tierVerified: true }] },
       { number: 9, name: 'Metals', slug: 'metals', subtopics: [{ number: '9.1', name: 'Properties of metals', slug: 'properties-of-metals', tier: 'core', tierVerified: true }, { number: '9.2', name: 'Uses of metals', slug: 'uses-of-metals', tier: 'core', tierVerified: true }, { number: '9.3', name: 'Alloys and their properties', slug: 'alloys-and-their-properties', tier: 'both', tierVerified: true }, { number: '9.4', name: 'Reactivity series', slug: 'reactivity-series', tier: 'both', tierVerified: true }, { number: '9.5', name: 'Corrosion of metals', slug: 'corrosion-of-metals', tier: 'both', tierVerified: true }, { number: '9.6', name: 'Extraction of metals', slug: 'extraction-of-metals', tier: 'both', tierVerified: true }] },
       { number: 10, name: 'Chemistry of the environment', slug: 'chemistry-of-the-environment', subtopics: [{ number: '10.1', name: 'Water', slug: 'water', tier: 'core', tierVerified: true }, { number: '10.2', name: 'Fertilisers', slug: 'fertilisers', tier: 'core', tierVerified: true }, { number: '10.3', name: 'Air quality and climate', slug: 'air-quality-and-climate', tier: 'both', tierVerified: true }] },
       { number: 11, name: 'Organic chemistry', slug: 'organic-chemistry', subtopics: [{ number: '11.1', name: 'Formulae, functional groups and terminology', slug: 'formulae-functional-groups-and-terminology', tier: 'both', tierVerified: true }, { number: '11.2', name: 'Naming organic compounds', slug: 'naming-organic-compounds', tier: 'both', tierVerified: true }, { number: '11.3', name: 'Fuels', slug: 'fuels', tier: 'core', tierVerified: true }, { number: '11.4', name: 'Alkanes', slug: 'alkanes', tier: 'both', tierVerified: true }, { number: '11.5', name: 'Alkenes', slug: 'alkenes', tier: 'both', tierVerified: true }, { number: '11.6', name: 'Alcohols', slug: 'alcohols', tier: 'both', tierVerified: true }, { number: '11.7', name: 'Carboxylic acids', slug: 'carboxylic-acids', tier: 'both', tierVerified: true }, { number: '11.8', name: 'Polymers', slug: 'polymers', tier: 'both', tierVerified: true }] },
-      { number: 12, name: 'Experimental techniques and chemical analysis', slug: 'experimental-techniques-and-chemical-analysis', subtopics: [{ number: '12.1', name: 'Experimental design', slug: 'experimental-design' }, { number: '12.2', name: 'Acid–base titrations', slug: 'acid-base-titrations' }, { number: '12.3', name: 'Chromatography', slug: 'chromatography' }, { number: '12.4', name: 'Separation and purification', slug: 'separation-and-purification' }, { number: '12.5', name: 'Identification of ions and gases', slug: 'identification-of-ions-and-gases', tier: 'core', tierVerified: true }] },
+      { number: 12, name: 'Experimental techniques and chemical analysis', slug: 'experimental-techniques-and-chemical-analysis', subtopics: [{ number: '12.1', name: 'Experimental design', slug: 'experimental-design', tier: 'core', tierVerified: true }, { number: '12.2', name: 'Acid–base titrations', slug: 'acid-base-titrations', tier: 'core', tierVerified: true }, { number: '12.3', name: 'Chromatography', slug: 'chromatography', tier: 'both', tierVerified: true }, { number: '12.4', name: 'Separation and purification', slug: 'separation-and-purification', tier: 'core', tierVerified: true }, { number: '12.5', name: 'Identification of ions and gases', slug: 'identification-of-ions-and-gases', tier: 'core', tierVerified: true }] },
     ],
   },
   {
@@ -131,13 +139,13 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       { number: 1, name: 'Atomic structure', slug: 'as-atomic-structure', stage: 'AS', subtopics: [{ number: '1.1', name: 'Particles in the atom and atomic radius', slug: 'as-particles-in-the-atom-and-atomic-radius' }, { number: '1.2', name: 'Isotopes', slug: 'as-isotopes' }, { number: '1.3', name: 'Electrons, energy levels and atomic orbitals', slug: 'as-electrons-energy-levels-and-atomic-orbitals' }, { number: '1.4', name: 'Ionisation energy', slug: 'as-ionisation-energy' }] },
       { number: 2, name: 'Atoms, molecules and stoichiometry', slug: 'as-atoms-molecules-and-stoichiometry', stage: 'AS', subtopics: [{ number: '2.1', name: 'Relative masses of atoms and molecules', slug: 'as-relative-masses-of-atoms-and-molecules' }, { number: '2.2', name: 'The mole and the Avogadro constant', slug: 'as-the-mole-and-the-avogadro-constant' }, { number: '2.3', name: 'Formulas', slug: 'as-formulas' }, { number: '2.4', name: 'Reacting masses and volumes (of solutions and gases)', slug: 'as-reacting-masses-and-volumes-of-solutions-and-gases' }] },
       { number: 3, name: 'Chemical bonding', slug: 'as-chemical-bonding', stage: 'AS', subtopics: [{ number: '3.1', name: 'Electronegativity and bonding', slug: 'as-electronegativity-and-bonding' }, { number: '3.2', name: 'Ionic bonding', slug: 'as-ionic-bonding' }, { number: '3.3', name: 'Metallic bonding', slug: 'as-metallic-bonding' }, { number: '3.4', name: 'Covalent bonding and coordinate (dative covalent) bonding', slug: 'as-covalent-bonding-and-coordinate-dative-covalent-bonding' }, { number: '3.5', name: 'Shapes of molecules', slug: 'as-shapes-of-molecules' }, { number: '3.6', name: 'Intermolecular forces, electronegativity and bond properties', slug: 'as-intermolecular-forces-electronegativity-and-bond-properties' }, { number: '3.7', name: 'Dot-and-cross diagrams', slug: 'as-dot-and-cross-diagrams' }] },
-      { number: 4, name: 'States of matter', slug: 'as-states-of-matter', stage: 'AS', subtopics: [{ number: '4.1', name: 'The gaseous state', slug: 'as-the-gaseous-state' }, { number: '4.2', name: 'Bonding and structure', slug: 'as-bonding-and-structure' }] },
+      { number: 4, name: 'States of matter', slug: 'as-states-of-matter', stage: 'AS', subtopics: [{ number: '4.1', name: 'The gaseous state: ideal and real gases and pV = nRT', slug: 'as-the-gaseous-state' }, { number: '4.2', name: 'Bonding and structure', slug: 'as-bonding-and-structure' }] },
       { number: 5, name: 'Chemical energetics', slug: 'as-chemical-energetics', stage: 'AS', subtopics: [{ number: '5.1', name: 'Enthalpy change', slug: 'as-enthalpy-change' }, { number: '5.2', name: "Hess's law", slug: 'as-hess-s-law' }] },
-      { number: 6, name: 'Electrochemistry', slug: 'as-electrochemistry', stage: 'AS', subtopics: [{ number: '6.1', name: 'Redox processes', slug: 'as-redox-processes' }] },
-      { number: 7, name: 'Equilibria', slug: 'as-equilibria', stage: 'AS', subtopics: [{ number: '7.1', name: 'Chemical equilibria', slug: 'as-chemical-equilibria' }, { number: '7.2', name: 'Brønsted-Lowry theory of acids and bases', slug: 'as-bronsted-lowry-theory-of-acids-and-bases' }] },
+      { number: 6, name: 'Electrochemistry', slug: 'as-electrochemistry', stage: 'AS', subtopics: [{ number: '6.1', name: 'Redox processes: electron transfer and changes in oxidation number (oxidation state)', slug: 'as-redox-processes' }] },
+      { number: 7, name: 'Equilibria', slug: 'as-equilibria', stage: 'AS', subtopics: [{ number: '7.1', name: 'Chemical equilibria: reversible reactions, dynamic equilibrium', slug: 'as-chemical-equilibria' }, { number: '7.2', name: 'Brønsted-Lowry theory of acids and bases', slug: 'as-bronsted-lowry-theory-of-acids-and-bases' }] },
       { number: 8, name: 'Reaction kinetics', slug: 'as-reaction-kinetics', stage: 'AS', subtopics: [{ number: '8.1', name: 'Rate of reaction', slug: 'as-rate-of-reaction' }, { number: '8.2', name: 'Effect of temperature on reaction rates and the concept of activation energy', slug: 'as-effect-of-temperature-on-reaction-rates-and-the-concept-of-activation-energy' }, { number: '8.3', name: 'Homogeneous and heterogeneous catalysts', slug: 'as-homogeneous-and-heterogeneous-catalysts' }] },
       { number: 9, name: 'The Periodic Table: chemical periodicity', slug: 'as-the-periodic-table-chemical-periodicity', stage: 'AS', subtopics: [{ number: '9.1', name: 'Periodicity of physical properties of the elements in Period 3', slug: 'as-periodicity-of-physical-properties-of-the-elements-in-period-3' }, { number: '9.2', name: 'Periodicity of chemical properties of the elements in Period 3', slug: 'as-periodicity-of-chemical-properties-of-the-elements-in-period-3' }, { number: '9.3', name: 'Chemical periodicity of other elements', slug: 'as-chemical-periodicity-of-other-elements' }] },
-      { number: 10, name: 'Group 2', slug: 'as-group-2', stage: 'AS', subtopics: [{ number: '10.1', name: 'Similarities and trends in the properties of the Group 2 metals and their compounds', slug: 'as-similarities-and-trends-in-the-properties-of-the-group-2-metals-and-their-compounds' }] },
+      { number: 10, name: 'Group 2', slug: 'as-group-2', stage: 'AS', subtopics: [{ number: '10.1', name: 'Similarities and trends in the properties of the Group 2 metals, magnesium to barium, and their compounds', slug: 'as-similarities-and-trends-in-the-properties-of-the-group-2-metals-and-their-compounds' }] },
       { number: 11, name: 'Group 17', slug: 'as-group-17', stage: 'AS', subtopics: [{ number: '11.1', name: 'Physical properties of the Group 17 elements', slug: 'as-physical-properties-of-the-group-17-elements' }, { number: '11.2', name: 'The chemical properties of the halogen elements and the hydrogen halides', slug: 'as-the-chemical-properties-of-the-halogen-elements-and-the-hydrogen-halides' }, { number: '11.3', name: 'Some reactions of the halide ions', slug: 'as-some-reactions-of-the-halide-ions' }, { number: '11.4', name: 'The reactions of chlorine', slug: 'as-the-reactions-of-chlorine' }] },
       { number: 12, name: 'Nitrogen and sulfur', slug: 'as-nitrogen-and-sulfur', stage: 'AS', subtopics: [{ number: '12.1', name: 'Nitrogen and sulfur', slug: 'as-nitrogen-and-sulfur' }] },
       { number: 13, name: 'An introduction to AS Level organic chemistry', slug: 'as-an-introduction-to-as-level-organic-chemistry', stage: 'AS', subtopics: [{ number: '13.1', name: 'Formulas, functional groups and the naming of organic compounds', slug: 'as-formulas-functional-groups-and-the-naming-of-organic-compounds' }, { number: '13.2', name: 'Characteristic organic reactions', slug: 'as-characteristic-organic-reactions' }, { number: '13.3', name: 'Shapes of organic molecules; sigma and pi bonds', slug: 'as-shapes-of-organic-molecules' }, { number: '13.4', name: 'Isomerism: structural isomerism and stereoisomerism', slug: 'as-isomerism' }] },
@@ -154,7 +162,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       { number: 24, name: 'Electrochemistry', slug: 'a-electrochemistry', stage: 'A', subtopics: [{ number: '24.1', name: 'Electrolysis', slug: 'a-electrolysis' }, { number: '24.2', name: 'Standard electrode potentials, standard cell potentials and the Nernst equation', slug: 'a-standard-electrode-potentials-cell-potentials-and-the-nernst-equation' }] },
       { number: 25, name: 'Equilibria', slug: 'a-equilibria', stage: 'A', subtopics: [{ number: '25.1', name: 'Acids and bases', slug: 'a-acids-and-bases' }, { number: '25.2', name: 'Partition coefficients', slug: 'a-partition-coefficients' }] },
       { number: 26, name: 'Reaction kinetics', slug: 'a-reaction-kinetics', stage: 'A', subtopics: [{ number: '26.1', name: 'Simple rate equations, orders of reaction and rate constants', slug: 'a-simple-rate-equations-orders-of-reaction-and-rate-constants' }, { number: '26.2', name: 'Homogeneous and heterogeneous catalysts', slug: 'a-homogeneous-and-heterogeneous-catalysts' }] },
-      { number: 27, name: 'Group 2', slug: 'a-group-2', stage: 'A', subtopics: [{ number: '27.1', name: 'Similarities and trends in the properties of the Group 2 metals and their compounds', slug: 'a-similarities-and-trends-in-the-properties-of-the-group-2-metals-and-their-compounds' }] },
+      { number: 27, name: 'Group 2', slug: 'a-group-2', stage: 'A', subtopics: [{ number: '27.1', name: 'Similarities and trends in the properties of the Group 2 metals, magnesium to barium, and their compounds', slug: 'a-similarities-and-trends-in-the-properties-of-the-group-2-metals-and-their-compounds' }] },
       { number: 28, name: 'Chemistry of transition elements', slug: 'a-chemistry-of-transition-elements', stage: 'A', subtopics: [{ number: '28.1', name: 'General physical and chemical properties of the first row of transition elements, titanium to copper', slug: 'a-general-physical-and-chemical-properties-of-the-first-row-of-transition-elements-titanium-to-copper' }, { number: '28.2', name: 'General characteristic chemical properties of the first set of transition elements, titanium to copper', slug: 'a-general-characteristic-chemical-properties-of-the-first-set-of-transition-elements-titanium-to-copper' }, { number: '28.3', name: 'Colour of complexes', slug: 'a-colour-of-complexes' }, { number: '28.4', name: 'Stereoisomerism in transition element complexes', slug: 'a-stereoisomerism-in-transition-element-complexes' }, { number: '28.5', name: 'Stability constants, Kstab', slug: 'a-stability-constants-kstab' }] },
       { number: 29, name: 'An introduction to A Level organic chemistry', slug: 'a-an-introduction-to-a-level-organic-chemistry', stage: 'A', subtopics: [{ number: '29.1', name: 'Formulas, functional groups and the naming of organic compounds', slug: 'a-formulas-functional-groups-and-the-naming-of-organic-compounds' }, { number: '29.2', name: 'Characteristic organic reactions', slug: 'a-characteristic-organic-reactions' }, { number: '29.3', name: 'Shapes of aromatic organic molecules; σ and π bonds', slug: 'a-shapes-of-aromatic-organic-molecules' }, { number: '29.4', name: 'Isomerism: optical', slug: 'a-isomerism' }] },
       { number: 30, name: 'Hydrocarbons', slug: 'a-hydrocarbons', stage: 'A', subtopics: [{ number: '30.1', name: 'Arenes', slug: 'a-arenes' }] },
@@ -319,7 +327,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/697295-2026-syllabus.pdf', verifiedDate: '2026-08-24',
-    notes: 'IMPORTANT: like Business 7115, this syllabus is valid for 2026 ONLY (confirmed directly from the PDF: "Use this syllabus for exams in 2026"), not a multi-year series. No successor code has been confirmed for Economics (unlike Business, where 7081 is a known, sourced replacement) - this should be checked fresh, not assumed, whenever this subject is next touched. Not tiered. Re-verified against the full official PDF (Version 2) 2026-08-24: the Phase 16 claim that Topic 1 had "all three of its subtopics" was incomplete - the PDF lists FOUR (1.1-1.4, including 1.4 Production possibility curve (PPC) diagrams), now corrected below. All six topic names and Topic 2’s full sub-topic structure (2.1-2.11) reproduced directly from the PDF’s Subject content section, fetched 2026-08-24. Weekly study-guides run (2026-09-02): re-fetched the full PDF directly and extracted Topic 3 (Microeconomic decision makers) sub-topics 3.1-3.8 from the "3 Subject content" section for the new resource written this run. Sub-topic detail for topics 4-6 (4.1-4.8, 5.1-5.4, 6.1-6.4 per the PDF) is deliberately not itemised below pending the phase that writes about them.',
+    notes: 'IMPORTANT: like Business 7115, this syllabus is valid for 2026 ONLY (confirmed directly from the PDF: "Use this syllabus for exams in 2026"), not a multi-year series. Economics keeps the code 2281: Cambridge has published a 2027-2029 syllabus for 2281 (718206), which is not itemised here. Not tiered. Re-verified against the full official PDF (Version 2) 2026-08-24: the Phase 16 claim that Topic 1 had "all three of its subtopics" was incomplete - the PDF lists FOUR (1.1-1.4, including 1.4 Production possibility curve (PPC) diagrams), now corrected below. All six topic names and Topic 2’s full sub-topic structure (2.1-2.11) reproduced directly from the PDF’s Subject content section, fetched 2026-08-24. Weekly study-guides run (2026-09-02): re-fetched the full PDF directly and extracted Topic 3 (Microeconomic decision makers) sub-topics 3.1-3.8 from the "3 Subject content" section for the new resource written this run. Sub-topic detail for topics 4-6 (4.1-4.8, 5.1-5.4, 6.1-6.4 per the PDF) is deliberately not itemised below pending the phase that writes about them.',
     topics: [
       { number: 1, name: 'The basic economic problem', slug: 'the-basic-economic-problem', subtopics: [
         { number: '1.1', name: 'The nature of the economic problem', slug: 'the-nature-of-the-economic-problem' },
@@ -430,7 +438,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
   {
     boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'physics',
     syllabusCode: '4PH1', syllabusSeries: 'Issue 4',
-    effectiveFrom: '2017', effectiveTo: '2027', status: 'current',
+    effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel -- official International GCSE Physics specification PDF',
     sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Physics/2017/specification-and-sample-assessments/international-gcse-physics-2017-specification.pdf', verifiedDate: '2026-08-18',
@@ -452,26 +460,51 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2018', effectiveTo: '2027', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel -- official International Advanced Level Physics specification PDF',
-    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Physics/2018/Specification%20and%20Sample%20Assessment/9781446957783_IAL_Physics_Iss3.pdf', verifiedDate: '2026-08-18',
-    notes: "Pearson Edexcel International Advanced Subsidiary in Physics (XPH11) and International Advanced Level in Physics (YPH11), first teaching September 2018, Issue 3 (July 2021), current for the 2026 series. Six modular units: Unit 1 Mechanics and Materials, Unit 2 Waves and Electricity, Unit 3 Practical Skills in Physics I (IAS); Unit 4 Further Mechanics, Fields and Particles, Unit 5 Thermodynamics, Radiation, Oscillations and Cosmology, Unit 6 Practical Skills in Physics II (IA2). Units 3 and 6 are practical-skills-only externally examined papers with no separate content sub-topics of their own -- they assess experimental technique developed while studying the other units -- so they are intentionally not represented as taxonomy topics here, matching how this site treats practical endorsements elsewhere. All content sub-topics (1.3, 1.4, 2.3, 2.4, 4.3, 4.4, 4.5, 5.3, 5.4, 5.5, 5.6) were verified directly against the official specification PDF in full.",
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Physics/2018/Specification%20and%20Sample%20Assessment/9781446957783_IAL_Physics_Iss3.pdf', verifiedDate: '2026-09-17',
+    notes: "Pearson Edexcel International Advanced Subsidiary in Physics (XPH11) and International Advanced Level in Physics (YPH11), first teaching September 2018, Issue 3 (July 2021), current for the 2026 series. Six modular units: Unit 1 Mechanics and Materials, Unit 2 Waves and Electricity, Unit 3 Practical Skills in Physics I (IAS); Unit 4 Further Mechanics, Fields and Particles, Unit 5 Thermodynamics, Radiation, Oscillations and Cosmology, Unit 6 Practical Skills in Physics II (IA2). Units 3 and 6 are externally examined practical-skills units; the specification gives each its own content sections (Unit 3: 3.3 Planning, 3.4 Implementation and measurements, 3.5 Processing Results; Unit 6: 6.3 Planning, 6.4 Implementation and Measurements, 6.5 Analysis), so both are listed here with those sections (E939, round 43; previously left out). Each unit's sections .1 Unit description and .2 Assessment information are not content and are not listed. All six units and their content sections (1.3-1.4, 2.3-2.4, 3.3-3.5, 4.3-4.5, 5.3-5.6, 6.3-6.5) re-read in the Issue 3 specification (87 pp., to Pearson's registered-office block) on 2026-09-17; names as printed.",
     topics: [
-      { number: 1, name: 'Mechanics and Materials', slug: 'unit-1-mechanics-and-materials', subtopics: [{ number: '1.3', name: 'Mechanics', slug: 'mechanics' }, { number: '1.4', name: 'Materials', slug: 'materials' }] },
-      { number: 2, name: 'Waves and Electricity', slug: 'unit-2-waves-and-electricity', subtopics: [{ number: '2.3', name: 'Waves and Particle Nature of Light', slug: 'waves-and-particle-nature-of-light' }, { number: '2.4', name: 'Electric Circuits', slug: 'electric-circuits' }] },
-      { number: 4, name: 'Further Mechanics, Fields and Particles', slug: 'unit-4-further-mechanics-fields-and-particles', subtopics: [{ number: '4.3', name: 'Further Mechanics', slug: 'further-mechanics' }, { number: '4.4', name: 'Electric and Magnetic Fields', slug: 'electric-and-magnetic-fields' }, { number: '4.5', name: 'Nuclear and Particle Physics', slug: 'nuclear-and-particle-physics' }] },
-      { number: 5, name: 'Thermodynamics, Radiation, Oscillations and Cosmology', slug: 'unit-5-thermodynamics-radiation-oscillations-and-cosmology', subtopics: [{ number: '5.3', name: 'Thermodynamics', slug: 'thermodynamics-edexcel' }, { number: '5.4', name: 'Nuclear Decay', slug: 'nuclear-decay' }, { number: '5.5', name: 'Oscillations', slug: 'oscillations-edexcel' }, { number: '5.6', name: 'Astrophysics and Cosmology', slug: 'astrophysics-and-cosmology' }] },
+      { number: 1, name: 'Mechanics and Materials', slug: 'unit-1-mechanics-and-materials', subtopics: [
+        { number: '1.3', name: 'Mechanics', slug: 'mechanics' },
+        { number: '1.4', name: 'Materials', slug: 'materials' },
+      ] },
+      { number: 2, name: 'Waves and Electricity', slug: 'unit-2-waves-and-electricity', subtopics: [
+        { number: '2.3', name: 'Waves and Particle Nature of Light', slug: 'waves-and-particle-nature-of-light' },
+        { number: '2.4', name: 'Electric Circuits', slug: 'electric-circuits' },
+      ] },
+      { number: 3, name: 'Practical Skills in Physics I', slug: 'unit-3-practical-skills-in-physics-i', subtopics: [
+        { number: '3.3', name: 'Planning', slug: 'planning-unit-3-yph11' },
+        { number: '3.4', name: 'Implementation and measurements', slug: 'implementation-and-measurements-unit-3-yph11' },
+        { number: '3.5', name: 'Processing Results', slug: 'processing-results-unit-3-yph11' },
+      ] },
+      { number: 4, name: 'Further Mechanics, Fields and Particles', slug: 'unit-4-further-mechanics-fields-and-particles', subtopics: [
+        { number: '4.3', name: 'Further Mechanics', slug: 'further-mechanics' },
+        { number: '4.4', name: 'Electric and Magnetic Fields', slug: 'electric-and-magnetic-fields' },
+        { number: '4.5', name: 'Nuclear and Particle Physics', slug: 'nuclear-and-particle-physics' },
+      ] },
+      { number: 5, name: 'Thermodynamics, Radiation, Oscillations and Cosmology', slug: 'unit-5-thermodynamics-radiation-oscillations-and-cosmology', subtopics: [
+        { number: '5.3', name: 'Thermodynamics', slug: 'thermodynamics-edexcel' },
+        { number: '5.4', name: 'Nuclear Decay', slug: 'nuclear-decay' },
+        { number: '5.5', name: 'Oscillations', slug: 'oscillations-edexcel' },
+        { number: '5.6', name: 'Astrophysics and Cosmology', slug: 'astrophysics-and-cosmology' },
+      ] },
+      { number: 6, name: 'Practical Skills in Physics II', slug: 'unit-6-practical-skills-in-physics-ii', subtopics: [
+        { number: '6.3', name: 'Planning', slug: 'planning-unit-6-yph11' },
+        { number: '6.4', name: 'Implementation and Measurements', slug: 'implementation-and-measurements-unit-6-yph11' },
+        { number: '6.5', name: 'Analysis', slug: 'analysis-unit-6-yph11' },
+      ] },
     ],
   },
   {
     boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'physics',
     syllabusCode: '8463', syllabusSeries: 'For first teaching 2016',
     effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
-    tiered: false,
+    tiered: true,
     source: 'AQA -- official GCSE Physics (8463) specification, live subject-content pages',
     sourceUrl: 'https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/subject-content', verifiedDate: '2026-08-19',
-    notes: "AQA GCSE Physics (8463), first teaching September 2016. Untiered as a standalone Physics GCSE (Foundation/Higher tier applies within each paper via 'HT only' content flags, not via separate specifications). Most content is co-teachable with GCSE Combined Science: Trilogy; content marked '(physics only)' in the official specification is Physics-only and not shared with Combined Science -- flagged in resource prose the same way Edexcel's 'P' references are. All 8 topics (4.1-4.8) and their sub-topic structure verified directly against the live AQA specification subject-content pages (aqa.org.uk), fetched in full 2026-08-19.",
+    notes: "AQA GCSE Physics (8463), first teaching September 2016. Tiered: both papers are set at Foundation Tier and Higher Tier, and content assessed only at Higher Tier is marked '(HT only)' in the specification. Most content is co-teachable with GCSE Combined Science: Trilogy; content marked '(physics only)' in the official specification is Physics-only and not shared with Combined Science -- flagged in resource prose the same way Edexcel's 'P' references are. All 8 topics (4.1-4.8) and their sub-topic structure verified directly against the live AQA specification subject-content pages (aqa.org.uk), fetched in full 2026-08-19.",
     topics: [
       { number: 1, name: 'Energy', slug: 'energy-aqa-gcse', subtopics: [
-        { number: '4.1.1', name: 'Energy changes in a system', slug: 'energy-changes-in-a-system' },
+        { number: '4.1.1', name: 'Energy changes in a system, and the ways energy is stored before and after such changes', slug: 'energy-changes-in-a-system' },
         { number: '4.1.2', name: 'Conservation and dissipation of energy', slug: 'conservation-and-dissipation-of-energy' },
         { number: '4.1.3', name: 'National and global energy resources', slug: 'national-and-global-energy-resources' },
       ] },
@@ -526,7 +559,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA -- official A-level Physics (7408) specification, live subject-content pages',
     sourceUrl: 'https://www.aqa.org.uk/subjects/physics/a-level/physics-7408/specification/subject-content', verifiedDate: '2026-08-19',
-    notes: "AQA A-level Physics (7408), first teaching September 2015 (co-teachable AS Physics is 7407). Sections 3.1-3.5 are the shared AS/A-level content, taught in year 1; sections 3.6-3.8 are A-level only, taught in year 2. Beyond 3.1-3.8, the specification also offers five optional A-level-only topics (3.9 Astrophysics, 3.10 Medical physics, 3.11 Engineering physics, 3.12 Turning points in physics, 3.13 Electronics) of which each centre selects exactly one for its cohort -- these five optional topics are not yet represented in this taxonomy and will be added in a future update once a specific option is prioritised. Practical skills are assessed indirectly through written papers and separately certificated via 12 required practical activities woven through 3.1-3.8. All 8 compulsory topics and their sub-topic structure verified directly against the live AQA specification subject-content pages (aqa.org.uk), fetched in full 2026-08-19.",
+    notes: "AQA A-level Physics (7408), first teaching September 2015 (co-teachable AS Physics is 7407). Sections 3.1-3.5 are the shared AS/A-level content, taught in year 1; sections 3.6-3.8 are A-level only, taught in year 2. Beyond 3.1-3.8, the specification also offers five optional A-level-only topics (3.9 Astrophysics, 3.10 Medical physics, 3.11 Engineering physics, 3.12 Turning points in physics, 3.13 Electronics) assessed in Paper 3 Section B, where 'Students enter for one of sections 9, 10, 11, 12 or 13' -- all five are recorded here as topics 9-13 with their numbered sub-topics (added 2026-09-17, round 43, E939 (8), from the current specification PDF, Version 1.4, July 2026, 94 pages, read to the AQA registered-address block; the specification heads 3.13.4 'Operational amplifier in:', introducing its inverting, non-inverting and summing configurations). Practical skills are assessed indirectly through written papers and separately certificated via 12 required practical activities woven through 3.1-3.8. All 8 compulsory topics and their sub-topic structure verified directly against the live AQA specification subject-content pages (aqa.org.uk), fetched in full 2026-08-19.",
     topics: [
       { number: 1, name: 'Measurements and their errors', slug: 'measurements-and-their-errors-aqa-alevel', subtopics: [
         { number: '3.1.1', name: 'Use of SI units and their prefixes', slug: 'use-of-si-units-and-their-prefixes' },
@@ -562,17 +595,47 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       { number: 8, name: 'Nuclear physics', slug: 'nuclear-physics-aqa-alevel', subtopics: [
         { number: '3.8.1', name: 'Radioactivity', slug: 'radioactivity-aqa-alevel' },
       ] },
+      { number: 9, name: 'Astrophysics', slug: 'astrophysics-aqa-alevel', subtopics: [
+        { number: '3.9.1', name: 'Telescopes', slug: 'telescopes-aqa-alevel' },
+        { number: '3.9.2', name: 'Classification of stars', slug: 'classification-of-stars-aqa-alevel' },
+        { number: '3.9.3', name: 'Cosmology', slug: 'cosmology-aqa-alevel' },
+      ] },
+      { number: 10, name: 'Medical physics', slug: 'medical-physics-aqa-alevel', subtopics: [
+        { number: '3.10.1', name: 'Physics of the eye', slug: 'physics-of-the-eye-aqa-alevel' },
+        { number: '3.10.2', name: 'Physics of the ear', slug: 'physics-of-the-ear-aqa-alevel' },
+        { number: '3.10.3', name: 'Biological measurement', slug: 'biological-measurement-aqa-alevel' },
+        { number: '3.10.4', name: 'Non-ionising imaging', slug: 'non-ionising-imaging-aqa-alevel' },
+        { number: '3.10.5', name: 'X-ray imaging', slug: 'x-ray-imaging-aqa-alevel' },
+        { number: '3.10.6', name: 'Radionuclide imaging and therapy', slug: 'radionuclide-imaging-and-therapy-aqa-alevel' },
+      ] },
+      { number: 11, name: 'Engineering physics', slug: 'engineering-physics-aqa-alevel', subtopics: [
+        { number: '3.11.1', name: 'Rotational dynamics', slug: 'rotational-dynamics-aqa-alevel' },
+        { number: '3.11.2', name: 'Thermodynamics and engines', slug: 'thermodynamics-and-engines-aqa-alevel' },
+      ] },
+      { number: 12, name: 'Turning points in physics', slug: 'turning-points-in-physics-aqa-alevel', subtopics: [
+        { number: '3.12.1', name: 'The discovery of the electron', slug: 'the-discovery-of-the-electron-aqa-alevel' },
+        { number: '3.12.2', name: 'Wave-particle duality', slug: 'wave-particle-duality-aqa-alevel' },
+        { number: '3.12.3', name: 'Special relativity', slug: 'special-relativity-aqa-alevel' },
+      ] },
+      { number: 13, name: 'Electronics', slug: 'electronics-aqa-alevel', subtopics: [
+        { number: '3.13.1', name: 'Discrete semiconductor devices', slug: 'discrete-semiconductor-devices-aqa-alevel' },
+        { number: '3.13.2', name: 'Analogue and digital signals', slug: 'analogue-and-digital-signals-aqa-alevel' },
+        { number: '3.13.3', name: 'Analogue signal processing', slug: 'analogue-signal-processing-aqa-alevel' },
+        { number: '3.13.4', name: 'Operational amplifier', slug: 'operational-amplifier-aqa-alevel' },
+        { number: '3.13.5', name: 'Digital signal processing', slug: 'digital-signal-processing-aqa-alevel' },
+        { number: '3.13.6', name: 'Data communication systems', slug: 'data-communication-systems-aqa-alevel' },
+      ] },
     ],
   },
 
   {
     boardSlug: 'ocr', qualificationSlug: 'gcse', subjectSlug: 'chemistry',
-    syllabusCode: 'J248', syllabusSeries: 'Version 3.6, for first teaching 2016',
+    syllabusCode: 'J248', syllabusSeries: 'Version 4.0, August 2026, for first teaching 2016',
     effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
     tiered: true,
     source: 'OCR — official GCSE (9-1) Chemistry A (Gateway Science) J248 specification PDF',
     sourceUrl: 'https://www.ocr.org.uk/Images/234598-specification-accredited-gcse-gateway-science-suite-chemistry-a-j248.pdf', verifiedDate: '2026-09-02',
-    notes: 'Six content topics (C1-C6) plus a cross-cutting C7 Practical Skills topic (not itemised as content here, since it provides skills rather than its own subject matter). Paper 1 covers C1-C3, Paper 2 covers C4-C6. Topic names for all six topics, and C2\'s three subtopic names, fetched and verified 2026-09-02 from the live specification PDF (Version 3.6). C1.2 subtopic detail (Atomic Structure) was already covered by an existing Marlbridge resource before this taxonomy entry was created; C2.1 subtopic detail (Purity and Separating Mixtures) fetched in the same pass. C3-C6 subtopic names are topic-name-only pending the same fetch for their content.',
+    notes: 'Six content topics (C1-C6) plus a cross-cutting C7 Practical Skills topic (not itemised as content here, since it provides skills rather than its own subject matter). Paper 1 covers C1-C3, Paper 2 covers C4-C6. Topic names for all six topics, and C2\'s three subtopic names, fetched and verified 2026-09-02 from the specification PDF (then Version 3.6; the current Version 4.0, August 2026, at the same address changes only the covers, footers, certificate title and generic wording for the Cambridge OCR brand). C1.2 subtopic detail (Atomic Structure) was already covered by an existing Marlbridge resource before this taxonomy entry was created; C2.1 subtopic detail (Purity and Separating Mixtures) fetched in the same pass. C3-C6 subtopic names are topic-name-only pending the same fetch for their content.',
     topics: [
       { number: 1, name: 'Topic C1 – Particles', slug: 'topic-c1-particles-j248', subtopics: [
         { number: 'C1.1', name: 'The Particle Model', slug: 'c1-1-particle-model-j248' },
@@ -709,8 +772,8 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA -- official International GCSE Physics (9203) specification PDF',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-international-gcse-physics-specification.pdf', verifiedDate: '2026-08-19',
-    notes: "OxfordAQA International GCSE Physics (9203). Linear qualification (all exams at the end of the course); guided learning hours (GLH) 120. Untiered. Content marked 'P' in the official specification is assessed only in the full Physics (9203) award and is not shared with the smaller International GCSE Core Physics (9223) qualification. All 8 topics and their sub-topic structure verified directly against the official specification PDF (oxfordaqa.com), fetched in full 2026-08-19.",
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-physics-specification.pdf', verifiedDate: '2026-08-19',
+    notes: "OxfordAQA International GCSE Physics (9203). Linear qualification (all exams at the end of the course); guided learning hours (GLH) 120. Untiered. Content marked 'P' in the official specification applies only to Physics; most of the subject content is common with, and co-teachable with, OxfordAQA International GCSE Combined Science (9204). All 8 topics and their sub-topic structure verified directly against the official specification PDF (oxfordaqa.com), fetched in full 2026-08-19, and the topic and sub-topic names re-checked against the Version 5.2 file OxfordAQA now links on 2026-09-17.",
     topics: [
       { number: 1, name: 'Forces and their effects', slug: 'forces-and-their-effects-oxfordaqa-igcse', subtopics: [
         { number: '3.1.1', name: 'Forces and their interactions', slug: 'forces-and-their-interactions-oxfordaqa' },
@@ -771,7 +834,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'OxfordAQA -- official International AS and A-level Physics specification PDF',
     sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-as-and-a-level-physics-specification.pdf', verifiedDate: '2026-09-16',
-    notes: "OxfordAQA International AS and A-level Physics (9630); International AS (9610) is co-teachable. Guided learning hours: 180 for the International AS, 360 for the full International A-level. Sections 3.1-3.5 are the shared AS/A-level content; sections 3.6-3.9 (Circular and periodic motion; Gravitational fields and satellites; Electric fields and capacitance; Exponential change) are International A-level only. All 9 topics and their sub-topic structure verified directly against the official specification PDF (oxfordaqa.com), fetched in full 2026-08-19. Content of 3.2.3 (Motion along a straight line) and 3.2.5 (Newton's laws of motion) re-verified against the same PDF (oxfordaqaexams.org.uk/9630, Version 4.4), fetched 2026-09-02. D-240 (I361): relinked to the Version 4.4 copy linked from the OxfordAQA qualification page (42 pp., read to its copyright block 2026-09-16); all topic and sub-topic names above appear in it.",
+    notes: "OxfordAQA International AS and A-level Physics (9630); International AS (9610) is co-teachable. Guided learning hours: 180 for the International AS, 360 for the full International A-level. Sections 3.1-3.5 are the shared AS/A-level content; sections 3.6-3.13 (Circular and periodic motion; Gravitational fields and satellites; Electric fields and capacitance; Exponential change; Magnetic fields; Thermal physics; Nuclear energy; Energy sources) are International A-level only. All 13 topics and their sub-topic structure are as printed in the specification's subject content; topics 10-13 (3.10-3.13, 19 sub-topics) were missing until E939 (round 43) and were added from the Version 4.4 PDF (42 pp., read to its copyright block) on 2026-09-17, with the printed upper-case sub-topic headings set in sentence case. Topics 1-9 verified directly against the official specification PDF (oxfordaqa.com), fetched in full 2026-08-19. Content of 3.2.3 (Motion along a straight line) and 3.2.5 (Newton's laws of motion) re-verified against the same PDF (oxfordaqaexams.org.uk/9630, Version 4.4), fetched 2026-09-02. D-240 (I361): relinked to the Version 4.4 copy linked from the OxfordAQA qualification page (42 pp., read to its copyright block 2026-09-16); all topic and sub-topic names above appear in it.",
     topics: [
       { number: 1, name: 'Measurements and their errors', slug: 'measurements-and-their-errors-oxfordaqa-alevel', subtopics: [
         { number: '3.1.1', name: 'Use of SI units and their prefixes', slug: 'use-of-si-units-and-their-prefixes-oxfordaqa' },
@@ -836,6 +899,33 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '3.9.1', name: 'Capacitor charge and discharge', slug: 'capacitor-charge-and-discharge-oxfordaqa' },
         { number: '3.9.2', name: 'Exponential changes in radioactivity', slug: 'exponential-changes-in-radioactivity-oxfordaqa' },
       ] },
+      { number: 10, name: 'Magnetic fields', slug: 'magnetic-fields-oxfordaqa-alevel', subtopics: [
+        { number: '3.10.1', name: 'Magnetic flux density', slug: 'magnetic-flux-density-oxfordaqa-alevel-physics' },
+        { number: '3.10.2', name: 'Moving charges in a magnetic field', slug: 'moving-charges-in-a-magnetic-field-oxfordaqa-alevel-physics' },
+        { number: '3.10.3', name: 'Magnetic flux and flux linkage', slug: 'magnetic-flux-and-flux-linkage-oxfordaqa-alevel-physics' },
+        { number: '3.10.4', name: 'Electromagnetic induction', slug: 'electromagnetic-induction-oxfordaqa-alevel-physics' },
+        { number: '3.10.5', name: 'Alternating currents', slug: 'alternating-currents-oxfordaqa-alevel-physics' },
+        { number: '3.10.6', name: 'The operation of a transformer', slug: 'the-operation-of-a-transformer-oxfordaqa-alevel-physics' },
+      ] },
+      { number: 11, name: 'Thermal physics', slug: 'thermal-physics-oxfordaqa-alevel', subtopics: [
+        { number: '3.11.1', name: 'Energy transfer by heating and doing work', slug: 'energy-transfer-by-heating-and-doing-work-oxfordaqa-alevel-physics' },
+        { number: '3.11.2', name: 'Energy transfer by conduction', slug: 'energy-transfer-by-conduction-oxfordaqa-alevel-physics' },
+        { number: '3.11.3', name: 'Ideal gases', slug: 'ideal-gases-oxfordaqa-alevel-physics' },
+        { number: '3.11.4', name: 'Kinetic theory of gases', slug: 'kinetic-theory-of-gases-oxfordaqa-alevel-physics' },
+      ] },
+      { number: 12, name: 'Nuclear energy', slug: 'nuclear-energy-oxfordaqa-alevel', subtopics: [
+        { number: '3.12.1', name: 'Radius of the nucleus', slug: 'radius-of-the-nucleus-oxfordaqa-alevel-physics' },
+        { number: '3.12.2', name: 'Mass and energy', slug: 'mass-and-energy-oxfordaqa-alevel-physics' },
+        { number: '3.12.3', name: 'Induced fission', slug: 'induced-fission-oxfordaqa-alevel-physics' },
+        { number: '3.12.4', name: 'Safety aspects nuclear reactors', slug: 'safety-aspects-nuclear-reactors-oxfordaqa-alevel-physics' },
+        { number: '3.12.5', name: 'Nuclear fusion', slug: 'nuclear-fusion-oxfordaqa-alevel-physics' },
+      ] },
+      { number: 13, name: 'Energy sources', slug: 'energy-sources-oxfordaqa-alevel', subtopics: [
+        { number: '3.13.1', name: 'Rotational motion', slug: 'rotational-motion-oxfordaqa-alevel-physics' },
+        { number: '3.13.2', name: 'Wind energy', slug: 'wind-energy-oxfordaqa-alevel-physics' },
+        { number: '3.13.3', name: 'Solar energy', slug: 'solar-energy-oxfordaqa-alevel-physics' },
+        { number: '3.13.4', name: 'Hydroelectric power and pumped storage', slug: 'hydroelectric-power-and-pumped-storage-oxfordaqa-alevel-physics' },
+      ] },
     ],
   },
 
@@ -853,7 +943,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       { number: 3, name: 'Coordinate geometry', slug: 'coordinate-geometry-cambridge-igcse-maths', subtopics: [{ number: '3.1', name: 'Coordinates', slug: 'coordinates-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '3.2', name: 'Drawing linear graphs', slug: 'drawing-linear-graphs-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '3.3', name: 'Gradient of linear graphs', slug: 'gradient-of-linear-graphs-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '3.4', name: 'Length and midpoint', slug: 'length-and-midpoint-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }, { number: '3.5', name: 'Equations of linear graphs', slug: 'equations-of-linear-graphs-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '3.6', name: 'Parallel lines', slug: 'parallel-lines-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '3.7', name: 'Perpendicular lines', slug: 'perpendicular-lines-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }] },
       { number: 4, name: 'Geometry', slug: 'geometry-cambridge-igcse-maths', subtopics: [{ number: '4.1', name: 'Geometrical terms', slug: 'geometrical-terms-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '4.2', name: 'Geometrical constructions', slug: 'geometrical-constructions-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '4.3', name: 'Scale drawings', slug: 'scale-drawings-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '4.4', name: 'Similarity', slug: 'similarity-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '4.5', name: 'Symmetry', slug: 'symmetry-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '4.6', name: 'Angles', slug: 'angles-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '4.7', name: 'Circle theorems', slug: 'circle-theorems-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '4.8', name: 'Circle theorems II', slug: 'circle-theorems-ii-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }] },
       { number: 5, name: 'Mensuration', slug: 'mensuration-cambridge-igcse-maths', subtopics: [{ number: '5.1', name: 'Units of measure', slug: 'units-of-measure-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '5.2', name: 'Area and perimeter', slug: 'area-and-perimeter-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '5.3', name: 'Circles, arcs and sectors', slug: 'circles-arcs-and-sectors-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '5.4', name: 'Surface area and volume', slug: 'surface-area-and-volume-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '5.5', name: 'Compound shapes and parts of shapes', slug: 'compound-shapes-and-parts-of-shapes-cambridge-igcse-maths', tier: 'both', tierVerified: true }] },
-      { number: 6, name: 'Trigonometry', slug: 'trigonometry-cambridge-igcse-maths', subtopics: [{ number: '6.1', name: 'Pythagoras’ theorem', slug: 'pythagoras-theorem-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '6.2', name: 'Right-angled triangles', slug: 'right-angled-triangles-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '6.3', name: 'Exact trigonometric values', slug: 'exact-trigonometric-values-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }, { number: '6.4', name: 'Trigonometric functions', slug: 'trigonometric-functions-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }, { number: '6.5', name: 'Non-right-angled triangles', slug: 'non-right-angled-triangles-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }, { number: '6.6', name: 'Pythagoras’ theorem and trigonometry', slug: 'pythagoras-theorem-and-trigonometry-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }] },
+      { number: 6, name: 'Trigonometry', slug: 'trigonometry-cambridge-igcse-maths', subtopics: [{ number: '6.1', name: 'Pythagoras’ theorem', slug: 'pythagoras-theorem-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '6.2', name: 'Right-angled triangles', slug: 'right-angled-triangles-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '6.3', name: 'Exact trigonometric values', slug: 'exact-trigonometric-values-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }, { number: '6.4', name: 'Trigonometric functions', slug: 'trigonometric-functions-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }, { number: '6.5', name: 'Non-right-angled triangles', slug: 'non-right-angled-triangles-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }, { number: '6.6', name: 'Pythagoras’ theorem and trigonometry in 3D', slug: 'pythagoras-theorem-and-trigonometry-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }] },
       { number: 7, name: 'Transformations and vectors', slug: 'transformations-and-vectors-cambridge-igcse-maths', subtopics: [{ number: '7.1', name: 'Transformations', slug: 'transformations-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '7.2', name: 'Vectors in two dimensions', slug: 'vectors-in-two-dimensions-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }, { number: '7.3', name: 'Magnitude of a vector', slug: 'magnitude-of-a-vector-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }, { number: '7.4', name: 'Vector geometry', slug: 'vector-geometry-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }] },
       { number: 8, name: 'Probability', slug: 'probability-cambridge-igcse-maths', subtopics: [{ number: '8.1', name: 'Introduction to probability', slug: 'introduction-to-probability-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '8.2', name: 'Relative and expected frequencies', slug: 'relative-and-expected-frequencies-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '8.3', name: 'Probability of combined events', slug: 'probability-of-combined-events-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '8.4', name: 'Conditional probability', slug: 'conditional-probability-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }] },
       { number: 9, name: 'Statistics', slug: 'statistics-cambridge-igcse-maths', subtopics: [{ number: '9.1', name: 'Classifying statistical data', slug: 'classifying-statistical-data-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '9.2', name: 'Interpreting statistical data', slug: 'interpreting-statistical-data-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '9.3', name: 'Averages and range', slug: 'averages-and-range-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '9.4', name: 'Statistical charts and diagrams', slug: 'statistical-charts-and-diagrams-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '9.5', name: 'Scatter diagrams', slug: 'scatter-diagrams-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '9.6', name: 'Cumulative frequency diagrams', slug: 'cumulative-frequency-diagrams-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }, { number: '9.7', name: 'Histograms', slug: 'histograms-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }] },
@@ -959,73 +1049,73 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     notes: "OCR GCSE (9-1) Mathematics (J560), qualification number 601/4606/0. Tiered: Foundation (papers 1-3, grades 5-1) and Higher (papers 4-6, grades 9-4); content is arranged by topic area and applies to both tiers, and any topic may be assessed on any paper. Twelve topic headings and their sub-topics reproduced directly from the live OCR specification-at-a-glance page (ocr.org.uk), fetched 2026-08-19; Topic 2 (Fractions, decimals and percentages) content re-verified against the same live page on 2026-09-02. Full specification PDF: https://www.ocr.org.uk/Images/168982-specification-gcse-mathematics.pdf",
     topics: [
       { number: 1, name: 'Number operations and integers', slug: 'number-operations-and-integers-ocr-gcse-maths', subtopics: [
-        { number: '1.1', name: 'Calculations with integers', slug: 'calculations-with-integers-ocr-gcse-maths' },
-        { number: '1.2', name: 'Whole number theory', slug: 'whole-number-theory-ocr-gcse-maths' },
-        { number: '1.3', name: 'Combining arithmetic operations', slug: 'combining-arithmetic-operations-ocr-gcse-maths' },
-        { number: '1.4', name: 'Inverse operations', slug: 'inverse-operations-ocr-gcse-maths' },
+        { number: '1.01', name: 'Calculations with integers', slug: 'calculations-with-integers-ocr-gcse-maths' },
+        { number: '1.02', name: 'Whole number theory', slug: 'whole-number-theory-ocr-gcse-maths' },
+        { number: '1.03', name: 'Combining arithmetic operations', slug: 'combining-arithmetic-operations-ocr-gcse-maths' },
+        { number: '1.04', name: 'Inverse operations', slug: 'inverse-operations-ocr-gcse-maths' },
       ] },
       { number: 2, name: 'Fractions, decimals and percentages', slug: 'fractions-decimals-and-percentages-ocr-gcse-maths', subtopics: [
-        { number: '2.1', name: 'Fractions', slug: 'fractions-ocr-gcse-maths' },
-        { number: '2.2', name: 'Decimal fractions', slug: 'decimal-fractions-ocr-gcse-maths' },
-        { number: '2.3', name: 'Percentages', slug: 'percentages-ocr-gcse-maths' },
-        { number: '2.4', name: 'Ordering fractions, decimals and percentages', slug: 'ordering-fractions-decimals-and-percentages-ocr-gcse-maths' },
+        { number: '2.01', name: 'Fractions', slug: 'fractions-ocr-gcse-maths' },
+        { number: '2.02', name: 'Decimal fractions', slug: 'decimal-fractions-ocr-gcse-maths' },
+        { number: '2.03', name: 'Percentages', slug: 'percentages-ocr-gcse-maths' },
+        { number: '2.04', name: 'Ordering fractions, decimals and percentages', slug: 'ordering-fractions-decimals-and-percentages-ocr-gcse-maths' },
       ] },
       { number: 3, name: 'Indices and surds', slug: 'indices-and-surds-ocr-gcse-maths', subtopics: [
-        { number: '3.1', name: 'Powers and roots', slug: 'powers-and-roots-ocr-gcse-maths' },
-        { number: '3.2', name: 'Standard form', slug: 'standard-form-ocr-gcse-maths' },
-        { number: '3.3', name: 'Exact calculations', slug: 'exact-calculations-ocr-gcse-maths' },
+        { number: '3.01', name: 'Powers and roots', slug: 'powers-and-roots-ocr-gcse-maths' },
+        { number: '3.02', name: 'Standard form', slug: 'standard-form-ocr-gcse-maths' },
+        { number: '3.03', name: 'Exact calculations', slug: 'exact-calculations-ocr-gcse-maths' },
       ] },
       { number: 4, name: 'Approximation and estimation', slug: 'approximation-and-estimation-ocr-gcse-maths', subtopics: [
-        { number: '4.1', name: 'Approximation and estimation', slug: 'approximation-and-estimation-detail-ocr-gcse-maths' },
+        { number: '4.01', name: 'Approximation and estimation', slug: 'approximation-and-estimation-detail-ocr-gcse-maths' },
       ] },
       { number: 5, name: 'Ratio, proportion and rates of change', slug: 'ratio-proportion-and-rates-of-change-ocr-gcse-maths', subtopics: [
-        { number: '5.1', name: 'Calculations with ratio', slug: 'calculations-with-ratio-ocr-gcse-maths' },
-        { number: '5.2', name: 'Direct and inverse proportion', slug: 'direct-and-inverse-proportion-ocr-gcse-maths' },
-        { number: '5.3', name: 'Discrete growth and decay', slug: 'discrete-growth-and-decay-ocr-gcse-maths' },
+        { number: '5.01', name: 'Calculations with ratio', slug: 'calculations-with-ratio-ocr-gcse-maths' },
+        { number: '5.02', name: 'Direct and inverse proportion', slug: 'direct-and-inverse-proportion-ocr-gcse-maths' },
+        { number: '5.03', name: 'Discrete growth and decay', slug: 'discrete-growth-and-decay-ocr-gcse-maths' },
       ] },
       { number: 6, name: 'Algebra', slug: 'algebra-ocr-gcse-maths', subtopics: [
-        { number: '6.1', name: 'Algebraic expressions', slug: 'algebraic-expressions-ocr-gcse-maths' },
-        { number: '6.2', name: 'Algebraic formulae', slug: 'algebraic-formulae-ocr-gcse-maths' },
-        { number: '6.3', name: 'Algebraic equations', slug: 'algebraic-equations-ocr-gcse-maths' },
-        { number: '6.4', name: 'Algebraic inequalities', slug: 'algebraic-inequalities-ocr-gcse-maths' },
-        { number: '6.5', name: 'Language of functions', slug: 'language-of-functions-ocr-gcse-maths' },
-        { number: '6.6', name: 'Sequences', slug: 'sequences-ocr-gcse-maths' },
+        { number: '6.01', name: 'Algebraic expressions', slug: 'algebraic-expressions-ocr-gcse-maths' },
+        { number: '6.02', name: 'Algebraic formulae', slug: 'algebraic-formulae-ocr-gcse-maths' },
+        { number: '6.03', name: 'Algebraic equations', slug: 'algebraic-equations-ocr-gcse-maths' },
+        { number: '6.04', name: 'Algebraic inequalities', slug: 'algebraic-inequalities-ocr-gcse-maths' },
+        { number: '6.05', name: 'Language of functions', slug: 'language-of-functions-ocr-gcse-maths' },
+        { number: '6.06', name: 'Sequences', slug: 'sequences-ocr-gcse-maths' },
       ] },
       { number: 7, name: 'Graphs of equations and functions', slug: 'graphs-of-equations-and-functions-ocr-gcse-maths', subtopics: [
-        { number: '7.1', name: 'Graphs of equations and functions', slug: 'graphs-of-equations-and-functions-detail-ocr-gcse-maths' },
-        { number: '7.2', name: 'Straight line graphs', slug: 'straight-line-graphs-ocr-gcse-maths' },
-        { number: '7.3', name: 'Transformations of curves and their equations', slug: 'transformations-of-curves-and-their-equations-ocr-gcse-maths' },
-        { number: '7.4', name: 'Interpreting graphs', slug: 'interpreting-graphs-ocr-gcse-maths' },
+        { number: '7.01', name: 'Graphs of equations and functions', slug: 'graphs-of-equations-and-functions-detail-ocr-gcse-maths' },
+        { number: '7.02', name: 'Straight line graphs', slug: 'straight-line-graphs-ocr-gcse-maths' },
+        { number: '7.03', name: 'Transformations of curves and their equations', slug: 'transformations-of-curves-and-their-equations-ocr-gcse-maths' },
+        { number: '7.04', name: 'Interpreting graphs', slug: 'interpreting-graphs-ocr-gcse-maths' },
       ] },
       { number: 8, name: 'Basic geometry', slug: 'basic-geometry-ocr-gcse-maths', subtopics: [
-        { number: '8.1', name: 'Conventions, notation and terms', slug: 'conventions-notation-and-terms-ocr-gcse-maths' },
-        { number: '8.2', name: 'Ruler and compass constructions', slug: 'ruler-and-compass-constructions-ocr-gcse-maths' },
-        { number: '8.3', name: 'Angles', slug: 'angles-ocr-gcse-maths' },
-        { number: '8.4', name: 'Properties of polygons', slug: 'properties-of-polygons-ocr-gcse-maths' },
-        { number: '8.5', name: 'Circles', slug: 'circles-ocr-gcse-maths' },
-        { number: '8.6', name: 'Three-dimensional shapes', slug: 'three-dimensional-shapes-ocr-gcse-maths' },
+        { number: '8.01', name: 'Conventions, notation and terms', slug: 'conventions-notation-and-terms-ocr-gcse-maths' },
+        { number: '8.02', name: 'Ruler and compass constructions', slug: 'ruler-and-compass-constructions-ocr-gcse-maths' },
+        { number: '8.03', name: 'Angles', slug: 'angles-ocr-gcse-maths' },
+        { number: '8.04', name: 'Properties of polygons', slug: 'properties-of-polygons-ocr-gcse-maths' },
+        { number: '8.05', name: 'Circles', slug: 'circles-ocr-gcse-maths' },
+        { number: '8.06', name: 'Three-dimensional shapes', slug: 'three-dimensional-shapes-ocr-gcse-maths' },
       ] },
       { number: 9, name: 'Congruence and similarity', slug: 'congruence-and-similarity-ocr-gcse-maths', subtopics: [
-        { number: '9.1', name: 'Plane isometric transformations', slug: 'plane-isometric-transformations-ocr-gcse-maths' },
-        { number: '9.2', name: 'Congruence', slug: 'congruence-ocr-gcse-maths' },
-        { number: '9.3', name: 'Plane vector geometry', slug: 'plane-vector-geometry-ocr-gcse-maths' },
-        { number: '9.4', name: 'Similarity', slug: 'similarity-ocr-gcse-maths' },
+        { number: '9.01', name: 'Plane isometric transformations', slug: 'plane-isometric-transformations-ocr-gcse-maths' },
+        { number: '9.02', name: 'Congruence', slug: 'congruence-ocr-gcse-maths' },
+        { number: '9.03', name: 'Plane vector geometry', slug: 'plane-vector-geometry-ocr-gcse-maths' },
+        { number: '9.04', name: 'Similarity', slug: 'similarity-ocr-gcse-maths' },
       ] },
       { number: 10, name: 'Mensuration', slug: 'mensuration-ocr-gcse-maths', subtopics: [
-        { number: '10.1', name: 'Units and measurement', slug: 'units-and-measurement-ocr-gcse-maths' },
-        { number: '10.2', name: 'Perimeter calculations', slug: 'perimeter-calculations-ocr-gcse-maths' },
-        { number: '10.3', name: 'Area calculations', slug: 'area-calculations-ocr-gcse-maths' },
-        { number: '10.4', name: 'Volume and surface area calculations', slug: 'volume-and-surface-area-calculations-ocr-gcse-maths' },
-        { number: '10.5', name: 'Triangle mensuration', slug: 'triangle-mensuration-ocr-gcse-maths' },
+        { number: '10.01', name: 'Units and measurement', slug: 'units-and-measurement-ocr-gcse-maths' },
+        { number: '10.02', name: 'Perimeter calculations', slug: 'perimeter-calculations-ocr-gcse-maths' },
+        { number: '10.03', name: 'Area calculations', slug: 'area-calculations-ocr-gcse-maths' },
+        { number: '10.04', name: 'Volume and surface area calculations', slug: 'volume-and-surface-area-calculations-ocr-gcse-maths' },
+        { number: '10.05', name: 'Triangle mensuration', slug: 'triangle-mensuration-ocr-gcse-maths' },
       ] },
       { number: 11, name: 'Probability', slug: 'probability-ocr-gcse-maths', subtopics: [
-        { number: '11.1', name: 'Basic probability and experiments', slug: 'basic-probability-and-experiments-ocr-gcse-maths' },
-        { number: '11.2', name: 'Combined events and probability diagrams', slug: 'combined-events-and-probability-diagrams-ocr-gcse-maths' },
+        { number: '11.01', name: 'Basic probability and experiments', slug: 'basic-probability-and-experiments-ocr-gcse-maths' },
+        { number: '11.02', name: 'Combined events and probability diagrams', slug: 'combined-events-and-probability-diagrams-ocr-gcse-maths' },
       ] },
       { number: 12, name: 'Statistics', slug: 'statistics-ocr-gcse-maths', subtopics: [
-        { number: '12.1', name: 'Sampling', slug: 'sampling-ocr-gcse-maths' },
-        { number: '12.2', name: 'Interpreting and representing data', slug: 'interpreting-and-representing-data-ocr-gcse-maths' },
-        { number: '12.3', name: 'Analysing data', slug: 'analysing-data-ocr-gcse-maths' },
+        { number: '12.01', name: 'Sampling', slug: 'sampling-ocr-gcse-maths' },
+        { number: '12.02', name: 'Interpreting and representing data', slug: 'interpreting-and-representing-data-ocr-gcse-maths' },
+        { number: '12.03', name: 'Analysing data', slug: 'analysing-data-ocr-gcse-maths' },
       ] },
     ],
   },
@@ -1039,29 +1129,29 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     notes: "OCR A Level Mathematics A (H240), qualification number 603/1038/8. Assessed across three two-hour components (Pure mathematics; Pure mathematics and statistics; Pure mathematics and mechanics), each 33 1/3% of the award. Three subject-content areas and their listed sub-areas reproduced directly from the live OCR specification-at-a-glance page (ocr.org.uk), fetched 2026-08-19; Statistics content re-verified against the same live page on 2026-09-02. The sibling AS Level (H230) shares most but not all sub-topics (e.g. Numerical methods and Moments are A Level only) and is not recorded as a separate matrix row. Full specification PDF: https://www.ocr.org.uk/Images/308723-specification-accredited-a-level-gce-mathematics-a-h240.pdf",
     topics: [
       { number: 1, name: 'Pure mathematics', slug: 'pure-mathematics-ocr-alevel-maths', subtopics: [
-        { number: '1.1', name: 'Proof', slug: 'proof-ocr-alevel-maths' },
-        { number: '1.2', name: 'Algebra and functions', slug: 'algebra-and-functions-ocr-alevel-maths' },
-        { number: '1.3', name: 'Coordinate geometry in the x-y plane', slug: 'coordinate-geometry-in-the-xy-plane-ocr-alevel-maths' },
-        { number: '1.4', name: 'Sequences and series', slug: 'sequences-and-series-ocr-alevel-maths' },
-        { number: '1.5', name: 'Trigonometry', slug: 'trigonometry-ocr-alevel-maths' },
-        { number: '1.6', name: 'Exponentials and logarithms', slug: 'exponentials-and-logarithms-ocr-alevel-maths' },
-        { number: '1.7', name: 'Differentiation', slug: 'differentiation-ocr-alevel-maths' },
-        { number: '1.8', name: 'Integration', slug: 'integration-ocr-alevel-maths' },
-        { number: '1.9', name: 'Numerical methods', slug: 'numerical-methods-ocr-alevel-maths' },
+        { number: '1.01', name: 'Proof', slug: 'proof-ocr-alevel-maths' },
+        { number: '1.02', name: 'Algebra and functions', slug: 'algebra-and-functions-ocr-alevel-maths' },
+        { number: '1.03', name: 'Coordinate geometry in the x-y plane', slug: 'coordinate-geometry-in-the-xy-plane-ocr-alevel-maths' },
+        { number: '1.04', name: 'Sequences and series', slug: 'sequences-and-series-ocr-alevel-maths' },
+        { number: '1.05', name: 'Trigonometry', slug: 'trigonometry-ocr-alevel-maths' },
+        { number: '1.06', name: 'Exponentials and logarithms', slug: 'exponentials-and-logarithms-ocr-alevel-maths' },
+        { number: '1.07', name: 'Differentiation', slug: 'differentiation-ocr-alevel-maths' },
+        { number: '1.08', name: 'Integration', slug: 'integration-ocr-alevel-maths' },
+        { number: '1.09', name: 'Numerical methods', slug: 'numerical-methods-ocr-alevel-maths' },
         { number: '1.10', name: 'Vectors', slug: 'vectors-ocr-alevel-maths' },
       ] },
       { number: 2, name: 'Statistics', slug: 'statistics-ocr-alevel-maths', subtopics: [
-        { number: '2.1', name: 'Statistical sampling', slug: 'statistical-sampling-ocr-alevel-maths' },
-        { number: '2.2', name: 'Data presentation and interpretation', slug: 'data-presentation-and-interpretation-ocr-alevel-maths' },
-        { number: '2.3', name: 'Probability', slug: 'probability-ocr-alevel-maths' },
-        { number: '2.4', name: 'Statistical distributions', slug: 'statistical-distributions-ocr-alevel-maths' },
-        { number: '2.5', name: 'Statistical hypothesis testing', slug: 'statistical-hypothesis-testing-ocr-alevel-maths' },
+        { number: '2.01', name: 'Statistical sampling', slug: 'statistical-sampling-ocr-alevel-maths' },
+        { number: '2.02', name: 'Data presentation and interpretation', slug: 'data-presentation-and-interpretation-ocr-alevel-maths' },
+        { number: '2.03', name: 'Probability', slug: 'probability-ocr-alevel-maths' },
+        { number: '2.04', name: 'Statistical distributions', slug: 'statistical-distributions-ocr-alevel-maths' },
+        { number: '2.05', name: 'Statistical hypothesis testing', slug: 'statistical-hypothesis-testing-ocr-alevel-maths' },
       ] },
       { number: 3, name: 'Mechanics', slug: 'mechanics-ocr-alevel-maths', subtopics: [
-        { number: '3.1', name: 'Quantities and units in mechanics', slug: 'quantities-and-units-in-mechanics-ocr-alevel-maths' },
-        { number: '3.2', name: 'Kinematics', slug: 'kinematics-ocr-alevel-maths' },
+        { number: '3.01', name: 'Quantities and units in mechanics', slug: 'quantities-and-units-in-mechanics-ocr-alevel-maths' },
+        { number: '3.02', name: 'Kinematics', slug: 'kinematics-ocr-alevel-maths' },
         { number: '3.3', name: "Forces and Newton's laws", slug: 'forces-and-newtons-laws-ocr-alevel-maths' },
-        { number: '3.4', name: 'Moments', slug: 'moments-ocr-alevel-maths' },
+        { number: '3.04', name: 'Moments', slug: 'moments-ocr-alevel-maths' },
       ] },
     ],
   },
@@ -1076,25 +1166,25 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     notes: "OxfordAQA International GCSE Mathematics (9260), 120 guided learning hours. Tiered: Core (grades 1-5) and Extension (grades 4-9); all content can be assessed on the Extension tier. Four subject-content areas (Number; Algebra; Geometry and measures; Statistics and probability), each broken into the named sub-sections used in the specification's own numbering (eg 3.1.1-3.1.3 under Number). Reproduced from the official specification PDF (oxfordaqa.com), fetched 2026-08-19. Overlaps with AQA UK GCSE Mathematics (8300) per the specification's own administration section.",
     topics: [
       { number: 1, name: 'Number', slug: 'number-oxfordaqa-igcse-maths', subtopics: [
-        { number: '1.1', name: 'Structure and calculation', slug: 'structure-and-calculation-oxfordaqa-igcse-maths' },
-        { number: '1.2', name: 'Fractions, decimal and percentages', slug: 'fractions-decimal-and-percentages-oxfordaqa-igcse-maths' },
-        { number: '1.3', name: 'Ratio and proportion', slug: 'ratio-and-proportion-oxfordaqa-igcse-maths' },
+        { number: '3.1.1', name: 'Structure and calculation', slug: 'structure-and-calculation-oxfordaqa-igcse-maths' },
+        { number: '3.1.2', name: 'Fractions, decimal and percentages', slug: 'fractions-decimal-and-percentages-oxfordaqa-igcse-maths' },
+        { number: '3.1.3', name: 'Ratio and proportion', slug: 'ratio-and-proportion-oxfordaqa-igcse-maths' },
       ] },
       { number: 2, name: 'Algebra', slug: 'algebra-oxfordaqa-igcse-maths', subtopics: [
-        { number: '2.1', name: 'Notation and manipulation', slug: 'notation-and-manipulation-oxfordaqa-igcse-maths' },
-        { number: '2.2', name: 'Functions, graphs and calculus', slug: 'functions-graphs-and-calculus-oxfordaqa-igcse-maths' },
-        { number: '2.3', name: 'Solving equations and inequalities', slug: 'solving-equations-and-inequalities-oxfordaqa-igcse-maths' },
-        { number: '2.4', name: 'Sequences', slug: 'sequences-oxfordaqa-igcse-maths' },
+        { number: '3.2.1', name: 'Notation and manipulation', slug: 'notation-and-manipulation-oxfordaqa-igcse-maths' },
+        { number: '3.2.2', name: 'Functions, graphs and calculus', slug: 'functions-graphs-and-calculus-oxfordaqa-igcse-maths' },
+        { number: '3.2.3', name: 'Solving equations and inequalities', slug: 'solving-equations-and-inequalities-oxfordaqa-igcse-maths' },
+        { number: '3.2.4', name: 'Sequences', slug: 'sequences-oxfordaqa-igcse-maths' },
       ] },
       { number: 3, name: 'Geometry and measures', slug: 'geometry-and-measures-oxfordaqa-igcse-maths', subtopics: [
-        { number: '3.1', name: 'Properties and constructions', slug: 'properties-and-constructions-oxfordaqa-igcse-maths' },
-        { number: '3.2', name: 'Mensuration and calculation', slug: 'mensuration-and-calculation-oxfordaqa-igcse-maths' },
-        { number: '3.3', name: 'Transformations, matrices and vectors', slug: 'transformations-matrices-and-vectors-oxfordaqa-igcse-maths' },
+        { number: '3.3.1', name: 'Properties and constructions', slug: 'properties-and-constructions-oxfordaqa-igcse-maths' },
+        { number: '3.3.2', name: 'Mensuration and calculation', slug: 'mensuration-and-calculation-oxfordaqa-igcse-maths' },
+        { number: '3.3.3', name: 'Transformations, matrices and vectors', slug: 'transformations-matrices-and-vectors-oxfordaqa-igcse-maths' },
       ] },
       { number: 4, name: 'Statistics and probability', slug: 'statistics-and-probability-oxfordaqa-igcse-maths', subtopics: [
-        { number: '4.1', name: 'Presentation and analysis', slug: 'presentation-and-analysis-oxfordaqa-igcse-maths' },
-        { number: '4.2', name: 'Interpretation', slug: 'interpretation-oxfordaqa-igcse-maths' },
-        { number: '4.3', name: 'Probability', slug: 'probability-oxfordaqa-igcse-maths' },
+        { number: '3.4.1', name: 'Presentation and analysis', slug: 'presentation-and-analysis-oxfordaqa-igcse-maths' },
+        { number: '3.4.2', name: 'Interpretation', slug: 'interpretation-oxfordaqa-igcse-maths' },
+        { number: '3.4.3', name: 'Probability', slug: 'probability-oxfordaqa-igcse-maths' },
       ] },
     ],
   },
@@ -1312,7 +1402,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA -- official A-level Mathematics (7357) specification, live subject-content pages',
     sourceUrl: 'https://www.aqa.org.uk/subjects/mathematics/a-level/mathematics-7357/specification/subject-content', verifiedDate: '2026-08-19',
-    notes: "AQA A-level Mathematics (7357), first teaching September 2017. The subject content is set out by the Department for Education and is common across all exam boards offering A-level Mathematics -- the 21 lettered subject-content sections and their weighting are prescribed by Ofqual/DfE, not set independently by AQA. Section names verified directly against the live AQA specification subject-content index pages (aqa.org.uk). Topic 1 (Overarching themes) subtopics reproduce the specification PDF's own OT1-OT3 sub-headings, fetched and verified 2026-08-21. Topic 3 (B: Algebra and functions) subtopics B1-B9 reproduce the specification PDF's own numbered content statements, fetched and verified 2026-09-02 (from the current AQA-hosted specification PDF at cdn.sanity.io, linked from the live aqa.org.uk subject-content page); sections 2 and 4-21 remain name-only pending the same fetch for their content.",
+    notes: "AQA A-level Mathematics (7357), first teaching September 2017. The subject content is set out by the Department for Education and is common across all exam boards offering A-level Mathematics -- the 21 subject-content sections (Overarching themes, 19 lettered sections A-S and Use of data in statistics) and their weighting are prescribed by Ofqual/DfE, not set independently by AQA. Section names verified directly against the live AQA specification subject-content index pages (aqa.org.uk). Topic 1 (Overarching themes) subtopics reproduce the specification PDF's own OT1-OT3 sub-headings, fetched and verified 2026-08-21. Topic 3 (B: Algebra and functions) subtopics B1-B9 reproduce the specification PDF's own numbered content statements, fetched and verified 2026-09-02 (from the current AQA-hosted specification PDF at cdn.sanity.io, linked from the live aqa.org.uk subject-content page); sections 2 and 4-21 remain name-only pending the same fetch for their content.",
     topics: [
       { number: 1, name: 'Overarching themes', slug: 'overarching-themes-aqa-alevel-maths', subtopics: [
         { number: 'OT1', name: 'Mathematical argument, language and proof', slug: 'ot1-mathematical-argument-language-and-proof-aqa-alevel-maths' },
@@ -1606,7 +1696,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'AQA -- official AS and A-level Biology (7401/7402) specification, live subject-content pages',
-    sourceUrl: 'https://www.aqa.org.uk/subjects/biology/as-level/biology-7401/specification/subject-content', verifiedDate: '2026-08-19',
+    sourceUrl: 'https://www.aqa.org.uk/subjects/biology/a-level/biology-7402/specification/subject-content', verifiedDate: '2026-08-19',
     notes: "AQA AS Biology (7401) and A-level Biology (7402), first teaching September 2015. Sections 3.1-3.4 are covered in the first year of the A-level and form the AS subject content; sections 3.5-3.8 are A-level only. Eight section names reproduced directly from the live AQA specification subject-content pages. Topic 1 (Biological molecules) subtopics reproduce the specification PDF's own 3.1.1-3.1.8 sub-headings, fetched and verified 2026-08-21. Topic 2 (Cells) sub-topic 3.2.1 Cell structure's own 3.2.1.1-3.2.1.3 sub-headings reproduced the same way, fetched and verified 2026-09-02 (from filestore.aqa.org.uk/resources/biology/specifications/AQA-7401-7402-SP-2015.PDF, the live specification PDF -- the previously-recorded sourceUrl pointed at a subject-content webpage rather than the PDF itself); topics 3-8 remain name-only pending the same fetch for their content.",
     topics: [
       { number: 1, name: 'Biological molecules', slug: 'biological-molecules-aqa-alevel-biology', stage: 'AS', subtopics: [
@@ -1614,7 +1704,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '3.1.2', name: 'Carbohydrates', slug: 'carbohydrates-aqa-alevel-biology' },
         { number: '3.1.3', name: 'Lipids', slug: 'lipids-aqa-alevel-biology' },
         { number: '3.1.4', name: 'Proteins', slug: 'proteins-aqa-alevel-biology' },
-        { number: '3.1.5', name: 'Nucleic acids', slug: 'nucleic-acids-aqa-alevel-biology' },
+        { number: '3.1.5', name: 'Nucleic acids are important information-carrying molecules', slug: 'nucleic-acids-aqa-alevel-biology' },
         { number: '3.1.6', name: 'ATP', slug: 'atp-aqa-alevel-biology' },
         { number: '3.1.7', name: 'Water', slug: 'water-aqa-alevel-biology' },
         { number: '3.1.8', name: 'Inorganic ions', slug: 'inorganic-ions-aqa-alevel-biology' },
@@ -1643,31 +1733,31 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     notes: "OCR GCSE (9-1) Gateway Science Suite Biology A (J247). Tiered: Foundation (papers 1-2, grades 5-1) and Higher (papers 3-4, grades 9-4). Six teaching topics plus a practical-skills topic (B7), reproduced directly from the live OCR specification-at-a-glance page, fetched 2026-08-19; Topic 2 (Scaling up) learning outcomes (B2.1, B2.2) re-fetched and cross-checked in full against version 4.0 of the official accredited specification PDF (ocr.org.uk) on 2026-09-02.",
     topics: [
       { number: 1, name: 'Cell level systems', slug: 'cell-level-systems-ocr-gcse-biology', subtopics: [
-        { number: '1.1', name: 'Cell structures', slug: 'cell-structures-ocr-gcse-biology' },
-        { number: '1.2', name: 'What happens in cells (and what do cells need)?', slug: 'what-happens-in-cells-ocr-gcse-biology' },
-        { number: '1.3', name: 'Respiration', slug: 'respiration-ocr-gcse-biology' },
-        { number: '1.4', name: 'Photosynthesis', slug: 'photosynthesis-ocr-gcse-biology' },
+        { number: 'B1.1', name: 'Cell structures', slug: 'cell-structures-ocr-gcse-biology' },
+        { number: 'B1.2', name: 'What happens in cells (and what do cells need)?', slug: 'what-happens-in-cells-ocr-gcse-biology' },
+        { number: 'B1.3', name: 'Respiration', slug: 'respiration-ocr-gcse-biology' },
+        { number: 'B1.4', name: 'Photosynthesis', slug: 'photosynthesis-ocr-gcse-biology' },
       ] },
       { number: 2, name: 'Scaling up', slug: 'scaling-up-ocr-gcse-biology', subtopics: [
-        { number: '2.1', name: 'Supplying the cell', slug: 'supplying-the-cell-ocr-gcse-biology' },
-        { number: '2.2', name: 'The challenges of size', slug: 'the-challenges-of-size-ocr-gcse-biology' },
+        { number: 'B2.1', name: 'Supplying the cell', slug: 'supplying-the-cell-ocr-gcse-biology' },
+        { number: 'B2.2', name: 'The challenges of size', slug: 'the-challenges-of-size-ocr-gcse-biology' },
       ] },
       { number: 3, name: 'Organism level systems', slug: 'organism-level-systems-ocr-gcse-biology', subtopics: [
-        { number: '3.1', name: 'Coordination and control -- the nervous system', slug: 'coordination-and-control-the-nervous-system-ocr-gcse-biology' },
-        { number: '3.2', name: 'Coordination and control -- the endocrine system', slug: 'coordination-and-control-the-endocrine-system-ocr-gcse-biology' },
-        { number: '3.3', name: 'Maintaining internal environments', slug: 'maintaining-internal-environments-ocr-gcse-biology' },
+        { number: 'B3.1', name: 'Coordination and control -- the nervous system', slug: 'coordination-and-control-the-nervous-system-ocr-gcse-biology' },
+        { number: 'B3.2', name: 'Coordination and control -- the endocrine system', slug: 'coordination-and-control-the-endocrine-system-ocr-gcse-biology' },
+        { number: 'B3.3', name: 'Maintaining internal environments', slug: 'maintaining-internal-environments-ocr-gcse-biology' },
       ] },
       { number: 4, name: 'Community level systems', slug: 'community-level-systems-ocr-gcse-biology', subtopics: [
-        { number: '4.1', name: 'Ecosystems', slug: 'ecosystems-ocr-gcse-biology' },
+        { number: 'B4.1', name: 'Ecosystems', slug: 'ecosystems-ocr-gcse-biology' },
       ] },
       { number: 5, name: 'Genes, inheritance and selection', slug: 'genes-inheritance-and-selection-ocr-gcse-biology', subtopics: [
-        { number: '5.1', name: 'Inheritance', slug: 'inheritance-ocr-gcse-biology' },
-        { number: '5.2', name: 'Natural selection and evolution', slug: 'natural-selection-and-evolution-ocr-gcse-biology' },
+        { number: 'B5.1', name: 'Inheritance', slug: 'inheritance-ocr-gcse-biology' },
+        { number: 'B5.2', name: 'Natural selection and evolution', slug: 'natural-selection-and-evolution-ocr-gcse-biology' },
       ] },
       { number: 6, name: 'Global challenges', slug: 'global-challenges-ocr-gcse-biology', subtopics: [
-        { number: '6.1', name: 'Monitoring and maintaining the environment', slug: 'monitoring-and-maintaining-the-environment-ocr-gcse-biology' },
-        { number: '6.2', name: 'Feeding the human race', slug: 'feeding-the-human-race-ocr-gcse-biology' },
-        { number: '6.3', name: 'Monitoring and maintaining health', slug: 'monitoring-and-maintaining-health-ocr-gcse-biology' },
+        { number: 'B6.1', name: 'Monitoring and maintaining the environment', slug: 'monitoring-and-maintaining-the-environment-ocr-gcse-biology' },
+        { number: 'B6.2', name: 'Feeding the human race', slug: 'feeding-the-human-race-ocr-gcse-biology' },
+        { number: 'B6.3', name: 'Monitoring and maintaining health', slug: 'monitoring-and-maintaining-health-ocr-gcse-biology' },
       ] },
       { number: 7, name: 'Practical skills', slug: 'practical-skills-ocr-gcse-biology', subtopics: [] },
     ],
@@ -1730,7 +1820,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'OxfordAQA -- official International GCSE Chemistry (9202) specification PDF, Version 6.2 (D-238: topic and sub-topic names re-checked against it)',
     sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-gcse-chemistry-specification.pdf', verifiedDate: '2026-09-16',
-    notes: "OxfordAQA International GCSE Chemistry (9202), for teaching from September 2016, exams May/June 2018 onwards (specification Version 6.2). Linear, untiered qualification. Nine topic names reproduced directly from the official specification PDF's own contents list (section 3, Subject content), fetched and verified 2026-09-02. Topic 1 (Atomic structure and the periodic table) sub-topic structure (3.1.1-3.1.3) reproduced directly from the same PDF's subject-content chapter, fetched and verified 2026-09-02; named sub-topics for topics 2-9 are not yet entered.",
+    notes: "OxfordAQA International GCSE Chemistry (9202), for teaching from September 2016, exams May/June 2018 onwards (specification Version 6.2). Linear, untiered qualification. Ten topic names reproduced directly from the official specification PDF's own contents list (section 3, Subject content, 3.1-3.10), fetched and verified 2026-09-02; topic 10 (3.10 Organic chemistry) and its three sub-topics 3.10.1-3.10.3 were missing until E939 (round 43) and were added from the Version 6.2 PDF (48 pp., read to its copyright block) on 2026-09-17. Topic 1 (Atomic structure and the periodic table) sub-topic structure (3.1.1-3.1.3) reproduced directly from the same PDF's subject-content chapter, fetched and verified 2026-09-02; named sub-topics for topics 2-9 are not yet entered.",
     topics: [
       { number: 1, name: 'Atomic structure and the periodic table', slug: 'atomic-structure-and-the-periodic-table-9202', subtopics: [
         { number: '3.1.1', name: 'Solids, liquids and gases', slug: 'solids-liquids-and-gases-9202' },
@@ -1745,6 +1835,11 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       { number: 7, name: 'Trends within the periodic table', slug: 'trends-within-the-periodic-table-9202', subtopics: [] },
       { number: 8, name: 'The rate and extent of chemical change', slug: 'the-rate-and-extent-of-chemical-change-9202', subtopics: [] },
       { number: 9, name: 'Energy changes', slug: 'energy-changes-9202', subtopics: [] },
+      { number: 10, name: 'Organic chemistry', slug: 'organic-chemistry-9202', subtopics: [
+        { number: '3.10.1', name: 'Carbon compounds as fuels', slug: 'carbon-compounds-as-fuels-9202' },
+        { number: '3.10.2', name: 'Synthetic and naturally occurring polymers', slug: 'synthetic-and-naturally-occurring-polymers-9202' },
+        { number: '3.10.3', name: 'Organic compounds – their structure and reactions', slug: 'organic-compounds-their-structure-and-reactions-9202' },
+      ] },
     ],
   },
 
@@ -1755,7 +1850,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'OxfordAQA -- official International AS and A-level Biology (9610) specification PDF, Version 5.1',
     sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-a-level-biology-specification.pdf', verifiedDate: '2026-08-19',
-    notes: "OxfordAQA International AS and A-level Biology (9610), for teaching from September 2016; International AS exams from May/June 2017, International A-level exams from May/June 2018. Modular: Units 1-2 form the International AS (50% of the full A-level content, 40% of final marks); Units 3-4 are International A2-only. Four unit names reproduced directly from the official specification PDF's 'Specification at a glance' section, fetched 2026-08-19. Unit 2 (Biological systems and disease) sub-topic structure (3.2.1-3.2.6) reproduced directly from the same PDF's subject-content chapter, fetched and verified 2026-09-02.",
+    notes: "OxfordAQA International AS and A-level Biology (9610), for teaching from September 2016; International AS exams from May/June 2017, International A-level exams from May/June 2018. Modular: Units 1-2 form the International AS (50% of the full A-level content, 40% of final marks); Units 3-4 are International A2-only. Four unit names reproduced directly from the official specification PDF's 'Specification at a glance' section, fetched 2026-08-19. Unit 2 (Biological systems and disease) sub-topic structure (3.2.1-3.2.11) reproduced directly from the same PDF's subject-content chapter: 3.2.1-3.2.6 fetched and verified 2026-09-02; 3.2.7-3.2.11 were missing (the list stopped at 3.2.6) until E939 (round 43) and were added from the Version 5.1 PDF at this record's link (49 pp., copyright 2025, read to its copyright block) on 2026-09-17. Sub-topics of Units 1, 3 and 4 are not yet entered.",
     topics: [
       { number: 1, name: 'The diversity of living organisms', slug: 'the-diversity-of-living-organisms-oxfordaqa-alevel-biology', stage: 'AS', subtopics: [] },
       { number: 2, name: 'Biological systems and disease', slug: 'biological-systems-and-disease-oxfordaqa-alevel-biology', stage: 'AS', subtopics: [
@@ -1765,6 +1860,11 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '3.2.4', name: 'HIV as an example of a human disease caused by a virus', slug: 'hiv-as-an-example-of-a-human-disease-caused-by-a-virus-oxfordaqa-alevel-biology' },
         { number: '3.2.5', name: 'The defensive functions of mammalian blood', slug: 'the-defensive-functions-of-mammalian-blood-oxfordaqa-alevel-biology' },
         { number: '3.2.6', name: 'The circulation of blood and the structure of the mammalian heart', slug: 'the-circulation-of-blood-and-heart-structure-oxfordaqa-alevel-biology' },
+        { number: '3.2.7', name: 'Heart disease may be associated with specific risk factors', slug: 'heart-disease-may-be-associated-with-specific-risk-factors-oxfordaqa-alevel-biology' },
+        { number: '3.2.8', name: 'Mass transport systems in plants', slug: 'mass-transport-systems-in-plants-oxfordaqa-alevel-biology' },
+        { number: '3.2.9', name: 'The role of aphids in spreading plant viruses', slug: 'the-role-of-aphids-in-spreading-plant-viruses-oxfordaqa-alevel-biology' },
+        { number: '3.2.10', name: 'Cells divide by binary fission and mitosis', slug: 'cells-divide-by-binary-fission-and-mitosis-oxfordaqa-alevel-biology' },
+        { number: '3.2.11', name: 'Mutation and cancer', slug: 'mutation-and-cancer-oxfordaqa-alevel-biology' },
       ] },
       { number: 3, name: 'Populations and genes', slug: 'populations-and-genes-oxfordaqa-alevel-biology', stage: 'A', subtopics: [] },
       { number: 4, name: 'Control', slug: 'control-oxfordaqa-alevel-biology', stage: 'A', subtopics: [] },
@@ -1890,11 +1990,11 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
   {
     boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'business',
     syllabusCode: 'YBS11 / XBS11 / WBS11 / WBS12', syllabusSeries: 'Issue 1, September 2017',
-    effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
+    effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel -- official International Advanced Level Business specification PDF (YBS11 / XBS11), Issue 1, September 2017',
-    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Business/2017/specification-and-sample-assessments/international-a-level-business-specification.pdf', verifiedDate: '2026-08-19',
-    notes: 'Pearson Edexcel International Advanced Level Business is a modular qualification: International AS (units 1-2, code XBS11) and the full International A Level (units 1-4, code YBS11). Unit 1 (Marketing and people) subtopics reproduce the specification\'s own section 1.3.1-1.3.5 sub-headings, fetched and verified 2026-08-21 from the full specification PDF. Unit 2 (Managing business activities) subtopics 2.3.1-2.3.3 reproduce the same specification PDF\'s own sub-headings, fetched and verified 2026-09-02. Units 3-4 remain topic-name-only pending the same fetch for their content.',
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Business/2018/Specification-and-Sample-Assessment/International-A-Level-Business-Spec.pdf', verifiedDate: '2026-08-19',
+    notes: 'Pearson Edexcel International Advanced Level Business, first teaching September 2018 (specification Issue 1, September 2017), is a modular qualification: International AS (units 1-2, code XBS11) and the full International A Level (units 1-4, code YBS11). Unit 1 (Marketing and people) subtopics reproduce the specification\'s own section 1.3.1-1.3.5 sub-headings, fetched and verified 2026-08-21 from the full specification PDF. Unit 2 (Managing business activities) subtopics 2.3.1-2.3.3 reproduce the same specification PDF\'s own sub-headings, fetched and verified 2026-09-02. Units 3-4 remain topic-name-only pending the same fetch for their content.',
     topics: [
       { number: 1, name: 'Marketing and people', slug: 'marketing-and-people-edexcel-alevel-business', stage: 'AS', subtopics: [
         { number: '1.3.1', name: 'Meeting customer needs', slug: 'meeting-customer-needs-ybs11' },
@@ -1952,7 +2052,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA -- official A-level Business (7132) specification, subject content pages',
     sourceUrl: 'https://www.aqa.org.uk/subjects/business/a-level/business-7132/specification/subject-content', verifiedDate: '2026-08-19',
-    notes: 'AQA A-level Business (7132), for first teaching from September 2023; current for cohorts taking exams through summer 2027. AQA has accredited a replacement specification (7138) for first teaching from September 2026, which will run alongside 7132 during the transition. Topic 1 (What is business?) subtopics reproduce the specification PDF\'s own 3.1.1-3.1.3 sub-headings, fetched and verified 2026-08-21. Topic 2 (Managers, leadership and decision making) subtopics reproduce the live specification page\'s own 3.2.1-3.2.3 sub-headings, fetched and verified 2026-09-03. Topics 3-10 remain name-only pending the same fetch for their content.',
+    notes: 'AQA A-level Business (7132), for first teaching from September 2023; being taught out to cohorts taking exams through summer 2027. Its replacement (7138) has been taught from September 2026 and runs alongside 7132 during the transition. Topic 1 (What is business?) subtopics reproduce the specification PDF\'s own 3.1.1-3.1.3 sub-headings, fetched and verified 2026-08-21. Topic 2 (Managers, leadership and decision making) subtopics reproduce the live specification page\'s own 3.2.1-3.2.3 sub-headings, fetched and verified 2026-09-03. Topics 3-10 remain name-only pending the same fetch for their content.',
     topics: [
       { number: 1, name: 'What is business?', slug: 'what-is-business-aqa-alevel-business', subtopics: [
         { number: '3.1.1', name: 'Understanding the nature and purpose of business', slug: 'nature-and-purpose-of-business-aqa-alevel-business' },
@@ -1978,11 +2078,11 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
   {
     boardSlug: 'aqa', qualificationSlug: 'as-level', subjectSlug: 'business',
     syllabusCode: '7131', syllabusSeries: 'For first teaching from September 2023',
-    effectiveFrom: '2023', effectiveTo: '2026', status: 'current',
+    effectiveFrom: '2023', effectiveTo: '2026', status: 'superseded',
     tiered: false,
     source: 'AQA -- official AS Business (7131) specification, specification-at-a-glance page',
     sourceUrl: 'https://www.aqa.org.uk/subjects/business/as-level/business-7131/specification/specification-at-a-glance', verifiedDate: '2026-08-19',
-    notes: 'AQA AS Business (7131), for first teaching from September 2023; current for cohorts taking exams through summer 2026. AQA runs AS as a separate stand-alone qualification sharing a combined specification document with A-level Business (7132) -- the AS content is the first six of the ten A-level sections. AQA has accredited a replacement specification (7137/7138) for first teaching from September 2026. Topic 1 (What is business?) subtopics reproduce the same 3.1.1-3.1.3 content as the A-level (7132) entry above, since AS and A-level share this section of the specification verbatim; fetched and verified 2026-09-03.',
+    notes: 'AQA AS Business (7131), for first teaching from September 2023; last examined in summer 2026 and superseded by AS Business (7137). AQA runs AS as a separate stand-alone qualification sharing a combined specification document with A-level Business (7132) -- the AS content is the first six of the ten A-level sections. The replacement specification (7137/7138) has been taught from September 2026. Topic 1 (What is business?) subtopics reproduce the same 3.1.1-3.1.3 content as the A-level (7132) entry above, since AS and A-level share this section of the specification verbatim; fetched and verified 2026-09-03.',
     topics: [
       { number: 1, name: 'What is business?', slug: 'what-is-business-aqa-aslevel-business', subtopics: [
         { number: '3.1.1', name: 'Understanding the nature and purpose of business', slug: 'nature-and-purpose-of-business-aqa-aslevel-business' },
@@ -1990,10 +2090,10 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '3.1.3', name: 'Understanding that businesses operate within an external environment', slug: 'external-environment-aqa-aslevel-business' },
       ] },
       { number: 2, name: 'Managers, leadership and decision making', slug: 'managers-leadership-and-decision-making-aqa-aslevel-business', subtopics: [] },
-      { number: 3, name: 'Decision making to improve marketing performance', slug: 'decision-making-to-improve-marketing-performance-aqa-aslevel-business', subtopics: [] },
-      { number: 4, name: 'Decision making to improve operational performance', slug: 'decision-making-to-improve-operational-performance-aqa-aslevel-business', subtopics: [] },
-      { number: 5, name: 'Decision making to improve financial performance', slug: 'decision-making-to-improve-financial-performance-aqa-aslevel-business', subtopics: [] },
-      { number: 6, name: 'Decision making to improve human resource performance', slug: 'decision-making-to-improve-human-resource-performance-aqa-aslevel-business', subtopics: [] },
+      { number: 3, name: 'Marketing management', slug: 'decision-making-to-improve-marketing-performance-aqa-aslevel-business', subtopics: [] },
+      { number: 4, name: 'Operational management', slug: 'decision-making-to-improve-operational-performance-aqa-aslevel-business', subtopics: [] },
+      { number: 5, name: 'Financial management', slug: 'decision-making-to-improve-financial-performance-aqa-aslevel-business', subtopics: [] },
+      { number: 6, name: 'Human resource management', slug: 'decision-making-to-improve-human-resource-performance-aqa-aslevel-business', subtopics: [] },
     ],
   },
 
@@ -2027,7 +2127,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'OCR -- official AS and A Level Business (H031, H431) specification-at-a-glance page',
     sourceUrl: 'https://www.ocr.org.uk/qualifications/as-and-a-level/business-h031-h431-from-2015/specification-at-a-glance/', verifiedDate: '2026-09-02',
-    notes: 'OCR A Level Business (H431); current, final first teach September 2025, final assessment summer 2027. OCR\'s replacement A Level Business (H436) has first teach September 2026. Topic 1 (Business objectives and strategic decisions = specification Area of Study \'Business objectives and strategy\') subtopics reproduce all sixteen of the specification PDF\'s own named content headings for that area, in the specification\'s order (the specification does not number them; 1.1-1.16 are sequence numbers only), re-read in Version 2.1 to its closing statements 2026-09-17. Topic 2 (External influences facing businesses) sub-topic structure reproduced directly from the official accredited specification PDF (ocr.org.uk), fetched and verified 2026-09-02: covers markets (market size/growth, demand and supply, market forces, physical/non-physical markets, competition, market dominance) and the wider PESTLE-style external environment (global context, international trade and free trade, the EU, emerging markets, political, economic, social, technological, the digital revolution, ethical, legal and environmental factors); topics 3-7 remain name-only pending the same fetch for their content.',
+    notes: 'OCR A Level Business (H431); being withdrawn: final first teach September 2025, final assessment summer 2027. OCR\'s replacement A Level Business (H436) has been taught from September 2026; the H431 topics remain listed here for students taking H431 exams up to summer 2027. Topic 1 (Business objectives and strategic decisions = specification Area of Study \'Business objectives and strategy\') subtopics reproduce all sixteen of the specification PDF\'s own named content headings for that area, in the specification\'s order (the specification does not number them; 1.1-1.16 are sequence numbers only), re-read in Version 2.1 to its closing statements 2026-09-17. Topic 2 (External influences facing businesses) sub-topic structure reproduced directly from the official accredited specification PDF (ocr.org.uk), fetched and verified 2026-09-02: covers markets (market size/growth, demand and supply, market forces, physical/non-physical markets, competition, market dominance) and the wider PESTLE-style external environment (global context, international trade and free trade, the EU, emerging markets, political, economic, social, technological, the digital revolution, ethical, legal and environmental factors); topics 3-7 remain name-only pending the same fetch for their content.',
     topics: [
       { number: 1, name: 'Business objectives and strategic decisions', slug: 'business-objectives-and-strategic-decisions-ocr-alevel-business', subtopics: [
         { number: '1.1', name: 'Different stakeholder and business objectives', slug: 'different-stakeholder-and-business-objectives-ocr-alevel-business' },
@@ -2090,31 +2190,52 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
 
   {
     boardSlug: 'oxfordaqa', qualificationSlug: 'a-level', subjectSlug: 'business',
-    syllabusCode: '9625 / 9725', syllabusSeries: 'First teaching September 2018; final AS exams May/June 2026, final A2 exams May/June 2027',
-    effectiveFrom: '2018', effectiveTo: '2027', status: 'current',
+    syllabusCode: '9625 / 9725', syllabusSeries: '9725 Version 1.0 (first teaching September 2026; first AS exams May/June 2027, first A-level exams May/June 2028)',
+    effectiveFrom: '2026', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
-    source: 'OxfordAQA -- official International AS and A-level Business (9625) qualification page',
-    sourceUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-business/', verifiedDate: '2026-08-19',
-    notes: 'OxfordAQA International AS and A-level Business (9625), first teaching September 2018. Being withdrawn and replaced by revised specification 9725 (first teaching September 2026, first AS exams May/June 2027, first A2 exams May/June 2028); students already partway through the course follow 9625 to completion (final AS exams May/June 2026, final A2 exams May/June 2027), while new starts from September 2026 follow 9725. Topic 2 (Marketing) subtopics 3.1.2.1-3.1.2.4 reproduce the specification\'s own sub-headings, fetched and verified 2026-09-02 from the full specification PDF (oxfordaqa.com/oaqaresources/business/international-a-level-business-specification-v1.pdf). Other topics remain topic-name-only pending the same fetch.',
+    source: 'OxfordAQA -- official International AS and A-level Business (9725) specification PDF, Version 1.0',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/06/oxfordaqa-a-level-business-specification_9725.pdf', verifiedDate: '2026-09-17',
+    notes: 'OxfordAQA International AS and A-level Business. The topics below are the subject content of the revised specification 9725 (Version 1.0), which OxfordAQA offers for cohorts starting from September 2026 (first AS exams May/June 2027, first A-level exams May/June 2028). The code label names both 9625 and 9725 because this hub covers the transition between them, but only 9725 content is listed. The withdrawn 9625 (first teaching September 2018; final May/June exams for AS in 2026 and for A2 in 2027; re-sits AS January 2027 and A2 January 2028; no exams after January 2028) differs: its A2 content is section 3.3 Business strategy and business decision making (3.3.1-3.3.10), and several AS sub-sections are numbered and named differently, so students completing 9625 should use the 9625 specification. Topics 1-5 are sections 3.1.1-3.1.2 (Unit 1 Business and markets) and 3.2.1-3.2.3 (Unit 2 Managing operations, human resources and finance), International AS; topics 6-10 are 3.3.1-3.3.5 (Unit 3 Business analysis) and topics 11-16 are 3.4.1-3.4.6 (Unit 4 Business strategy), International A-level. Sub-topics are the AS sub-sections 3.1.1.1-3.2.3.3; the A-level sections have no numbered sub-headings. Numbers and names are as printed in Version 1.0, including two sub-sections numbered 3.2.1.2 and the spellings \'Analysis the existing internal position of a business\' and \'managment\'. E939 (round 43, 2026-09-17): until then this record held the withdrawn 9625 structure (with 9625\'s sections 3.3.4-3.3.6 merged into one topic under a name neither specification uses) under a label naming both codes; it was rebuilt from the 9725 Version 1.0 specification PDF linked from the 9725 qualification page (50 pp., read to its copyright block). Slugs of topics that continue in 9725 are kept.',
     topics: [
-      { number: 1, name: 'What is business?', slug: 'what-is-business-oxfordaqa-alevel-business', stage: 'AS', subtopics: [] },
-      { number: 2, name: 'Marketing', slug: 'marketing-oxfordaqa-alevel-business', stage: 'AS', subtopics: [
-        { number: '3.1.2.1', name: 'Marketing objectives and plans', slug: 'marketing-objectives-and-plans-9625' },
-        { number: '3.1.2.2', name: 'Marketing data', slug: 'marketing-data-9625' },
-        { number: '3.1.2.3', name: 'Segmentation, targeting and positioning', slug: 'segmentation-targeting-positioning-9625' },
-        { number: '3.1.2.4', name: 'The marketing mix', slug: 'the-marketing-mix-9625' },
+      { number: 1, name: 'What is business?', slug: 'what-is-business-oxfordaqa-alevel-business', stage: 'AS', subtopics: [
+        { number: '3.1.1.1', name: 'The nature and purpose of business', slug: 'the-nature-and-purpose-of-business-9725' },
+        { number: '3.1.1.2', name: 'Types of business ownership', slug: 'types-of-business-ownership-9725' },
+        { number: '3.1.1.3', name: 'The external environment', slug: 'the-external-environment-9725' },
       ] },
-      { number: 3, name: 'Operational performance', slug: 'operational-performance-oxfordaqa-alevel-business', stage: 'AS', subtopics: [] },
-      { number: 4, name: 'Human resources', slug: 'human-resources-oxfordaqa-alevel-business', stage: 'AS', subtopics: [] },
-      { number: 5, name: 'Finance', slug: 'finance-oxfordaqa-alevel-business', stage: 'AS', subtopics: [] },
-      { number: 6, name: 'Mission, objectives and strategy', slug: 'mission-objectives-and-strategy-oxfordaqa-alevel-business', stage: 'A', subtopics: [] },
-      { number: 7, name: 'Analysing the existing internal position of a business', slug: 'analysing-the-existing-internal-position-of-a-business-oxfordaqa-alevel-business', stage: 'A', subtopics: [] },
+      { number: 2, name: 'Marketing', slug: 'marketing-oxfordaqa-alevel-business', stage: 'AS', subtopics: [
+        { number: '3.1.2.1', name: 'Marketing objectives and plans', slug: 'marketing-objectives-and-plans-9725' },
+        { number: '3.1.2.2', name: 'Marketing data', slug: 'marketing-data-9725' },
+        { number: '3.1.2.3', name: 'Segmentation, targeting and positioning', slug: 'segmentation-targeting-and-positioning-9725' },
+        { number: '3.1.2.4', name: 'The marketing mix', slug: 'the-marketing-mix-9725' },
+      ] },
+      { number: 3, name: 'Operational performance', slug: 'operational-performance-oxfordaqa-alevel-business', stage: 'AS', subtopics: [
+        { number: '3.2.1.1', name: 'Operations management', slug: 'operations-management-9725' },
+        { number: '3.2.1.2', name: 'Operations competitiveness', slug: 'operations-competitiveness-9725' },
+        { number: '3.2.1.2', name: 'Inventory and supply chain managment', slug: 'inventory-and-supply-chain-management-9725' },
+      ] },
+      { number: 4, name: 'Human resources', slug: 'human-resources-oxfordaqa-alevel-business', stage: 'AS', subtopics: [
+        { number: '3.2.2.1', name: 'Human resource objectives', slug: 'human-resource-objectives-9725' },
+        { number: '3.2.2.2', name: 'Human resource data', slug: 'human-resource-data-9725' },
+        { number: '3.2.2.3', name: 'Organisational design', slug: 'organisational-design-9725' },
+        { number: '3.2.2.4', name: 'Motivation', slug: 'motivation-9725' },
+        { number: '3.2.2.5', name: 'Employer-employee relations', slug: 'employer-employee-relations-9725' },
+      ] },
+      { number: 5, name: 'Finance', slug: 'finance-oxfordaqa-alevel-business', stage: 'AS', subtopics: [
+        { number: '3.2.3.1', name: 'Sources of finance', slug: 'sources-of-finance-9725' },
+        { number: '3.2.3.2', name: 'Break-even analysis', slug: 'break-even-analysis-9725' },
+        { number: '3.2.3.3', name: 'Profit and cash', slug: 'profit-and-cash-9725' },
+      ] },
+      { number: 6, name: 'Mission, objective and SWOT analysis', slug: 'mission-objective-and-swot-analysis-oxfordaqa-alevel-business', stage: 'A', subtopics: [] },
+      { number: 7, name: 'Analysis the existing internal position of a business', slug: 'analysing-the-existing-internal-position-of-a-business-oxfordaqa-alevel-business', stage: 'A', subtopics: [] },
       { number: 8, name: 'Analysing the industry environment', slug: 'analysing-the-industry-environment-oxfordaqa-alevel-business', stage: 'A', subtopics: [] },
-      { number: 9, name: 'Analysing the external environment: political, legal, economic, social, technological, environmental', slug: 'analysing-the-external-environment-oxfordaqa-alevel-business', stage: 'A', subtopics: [] },
-      { number: 10, name: 'Analysing strategic options: investment appraisal', slug: 'analysing-strategic-options-investment-appraisal-oxfordaqa-alevel-business', stage: 'A', subtopics: [] },
-      { number: 11, name: 'Choosing strategic direction', slug: 'choosing-strategic-direction-oxfordaqa-alevel-business', stage: 'A', subtopics: [] },
-      { number: 12, name: 'Strategic methods: how to pursue strategies', slug: 'strategic-methods-how-to-pursue-strategies-oxfordaqa-alevel-business', stage: 'A', subtopics: [] },
-      { number: 13, name: 'Managing strategic change', slug: 'managing-strategic-change-oxfordaqa-alevel-business', stage: 'A', subtopics: [] },
+      { number: 9, name: 'Analysing the external environment to assess opportunities and threats', slug: 'analysing-the-external-environment-oxfordaqa-alevel-business', stage: 'A', subtopics: [] },
+      { number: 10, name: 'Analysing future sales', slug: 'analysing-future-sales-oxfordaqa-alevel-business', stage: 'A', subtopics: [] },
+      { number: 11, name: 'Strategic options: choosing which markets to compete in and what products to offer', slug: 'strategic-options-choosing-markets-and-products-oxfordaqa-alevel-business', stage: 'A', subtopics: [] },
+      { number: 12, name: 'Strategic positioning: Choosing how to compete', slug: 'strategic-positioning-choosing-how-to-compete-oxfordaqa-alevel-business', stage: 'A', subtopics: [] },
+      { number: 13, name: 'Deciding on a strategic investment', slug: 'deciding-on-a-strategic-investment-oxfordaqa-alevel-business', stage: 'A', subtopics: [] },
+      { number: 14, name: 'Types of strategies', slug: 'types-of-strategies-oxfordaqa-alevel-business', stage: 'A', subtopics: [] },
+      { number: 15, name: 'Implementing a strategy', slug: 'implementing-a-strategy-oxfordaqa-alevel-business', stage: 'A', subtopics: [] },
+      { number: 16, name: 'Change, risk and uncertainty', slug: 'change-risk-and-uncertainty-oxfordaqa-alevel-business', stage: 'A', subtopics: [] },
     ],
   },
 
@@ -2276,38 +2397,38 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Pearson Edexcel -- official International Advanced Subsidiary/Advanced Level Economics specification PDF (YEC11 / XEC11)',
     sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Economics/2018/Specification-and-Sample-Assessment/International-A-Level-Economics-spec.pdf', verifiedDate: '2026-08-19',
-    notes: "Pearson Edexcel International Advanced Subsidiary in Economics (XEC11: units WEC11, WEC12) makes up the first half of the International Advanced Level in Economics (YEC11: units WEC11-WEC14). Full topic and sub-topic structure reproduced directly from the official specification PDF, fetched 2026-08-19. Sub-topic 2.1 (Measures of economic performance)'s detailed content (2.3.1 in the PDF's own numbering, covering Economic growth 1a-1i and Inflation 2a-2g+) verified directly against the same PDF, fetched 2026-09-02.",
+    notes: "Pearson Edexcel International Advanced Subsidiary in Economics (XEC11: units WEC11, WEC12) makes up the first half of the International Advanced Level in Economics (YEC11: units WEC11-WEC14). Full topic and sub-topic structure reproduced directly from the official specification PDF, fetched 2026-08-19. Sub-topic 2.3.1 (Measures of economic performance)'s detailed content (in the PDF's own numbering, covering Economic growth 1a-1i and Inflation 2a-2g+) verified directly against the same PDF, fetched 2026-09-02.",
     topics: [
       { number: 1, name: 'Markets in action', slug: 'markets-in-action-edexcel-alevel-economics', stage: 'AS', subtopics: [
-        { number: '1.1', name: 'Introductory concepts', slug: 'introductory-concepts-edexcel-alevel-economics' },
-        { number: '1.2', name: 'Consumer behaviour and demand', slug: 'consumer-behaviour-and-demand-edexcel-alevel-economics' },
-        { number: '1.3', name: 'Supply', slug: 'supply-edexcel-alevel-economics' },
-        { number: '1.4', name: 'Price determination', slug: 'price-determination-edexcel-alevel-economics' },
-        { number: '1.5', name: 'Market failure', slug: 'market-failure-edexcel-alevel-economics' },
-        { number: '1.6', name: 'Government intervention in markets', slug: 'government-intervention-in-markets-edexcel-alevel-economics' },
+        { number: '1.3.1', name: 'Introductory concepts', slug: 'introductory-concepts-edexcel-alevel-economics' },
+        { number: '1.3.2', name: 'Consumer behaviour and demand', slug: 'consumer-behaviour-and-demand-edexcel-alevel-economics' },
+        { number: '1.3.3', name: 'Supply', slug: 'supply-edexcel-alevel-economics' },
+        { number: '1.3.4', name: 'Price determination', slug: 'price-determination-edexcel-alevel-economics' },
+        { number: '1.3.5', name: 'Market failure', slug: 'market-failure-edexcel-alevel-economics' },
+        { number: '1.3.6', name: 'Government intervention in markets', slug: 'government-intervention-in-markets-edexcel-alevel-economics' },
       ] },
       { number: 2, name: 'Macroeconomic performance and policy', slug: 'macroeconomic-performance-and-policy-edexcel-alevel-economics', stage: 'AS', subtopics: [
-        { number: '2.1', name: 'Measures of economic performance', slug: 'measures-of-economic-performance-edexcel-alevel-economics' },
-        { number: '2.2', name: 'Aggregate demand (AD)', slug: 'aggregate-demand-edexcel-alevel-economics' },
-        { number: '2.3', name: 'Aggregate supply (AS)', slug: 'aggregate-supply-edexcel-alevel-economics' },
-        { number: '2.4', name: 'National income', slug: 'national-income-edexcel-alevel-economics' },
-        { number: '2.5', name: 'Economic growth', slug: 'economic-growth-edexcel-alevel-economics' },
-        { number: '2.6', name: 'Macroeconomic objectives and policies', slug: 'macroeconomic-objectives-and-policies-edexcel-alevel-economics' },
+        { number: '2.3.1', name: 'Measures of economic performance', slug: 'measures-of-economic-performance-edexcel-alevel-economics' },
+        { number: '2.3.2', name: 'Aggregate demand (AD)', slug: 'aggregate-demand-edexcel-alevel-economics' },
+        { number: '2.3.3', name: 'Aggregate supply (AS)', slug: 'aggregate-supply-edexcel-alevel-economics' },
+        { number: '2.3.4', name: 'National income', slug: 'national-income-edexcel-alevel-economics' },
+        { number: '2.3.5', name: 'Economic growth', slug: 'economic-growth-edexcel-alevel-economics' },
+        { number: '2.3.6', name: 'Macroeconomic objectives and policies', slug: 'macroeconomic-objectives-and-policies-edexcel-alevel-economics' },
       ] },
       { number: 3, name: 'Business behaviour', slug: 'business-behaviour-edexcel-alevel-economics', stage: 'A', subtopics: [
-        { number: '3.1', name: 'Types and sizes of businesses', slug: 'types-and-sizes-of-businesses-edexcel-alevel-economics' },
-        { number: '3.2', name: 'Revenue, costs and profits', slug: 'revenue-costs-and-profits-edexcel-alevel-economics' },
-        { number: '3.3', name: 'Market structures and contestability', slug: 'market-structures-and-contestability-edexcel-alevel-economics' },
-        { number: '3.4', name: 'Labour markets', slug: 'labour-markets-edexcel-alevel-economics' },
-        { number: '3.5', name: 'Government intervention', slug: 'government-intervention-edexcel-alevel-economics' },
+        { number: '3.3.1', name: 'Types and sizes of businesses', slug: 'types-and-sizes-of-businesses-edexcel-alevel-economics' },
+        { number: '3.3.2', name: 'Revenue, costs and profits', slug: 'revenue-costs-and-profits-edexcel-alevel-economics' },
+        { number: '3.3.3', name: 'Market structures and contestability', slug: 'market-structures-and-contestability-edexcel-alevel-economics' },
+        { number: '3.3.4', name: 'Labour markets', slug: 'labour-markets-edexcel-alevel-economics' },
+        { number: '3.3.5', name: 'Government intervention', slug: 'government-intervention-edexcel-alevel-economics' },
       ] },
       { number: 4, name: 'Developments in the global economy', slug: 'developments-in-the-global-economy-edexcel-alevel-economics', stage: 'A', subtopics: [
-        { number: '4.1', name: 'Causes and effects of globalisation', slug: 'causes-and-effects-of-globalisation-edexcel-alevel-economics' },
-        { number: '4.2', name: 'Trade and the global economy', slug: 'trade-and-the-global-economy-edexcel-alevel-economics' },
-        { number: '4.3', name: 'Balance of payments, exchange rates and international competitiveness', slug: 'balance-of-payments-exchange-rates-and-competitiveness-edexcel-alevel-economics' },
-        { number: '4.4', name: 'Poverty and inequality', slug: 'poverty-and-inequality-edexcel-alevel-economics' },
-        { number: '4.5', name: 'The role of the state in the macroeconomy', slug: 'the-role-of-the-state-in-the-macroeconomy-edexcel-alevel-economics' },
-        { number: '4.6', name: 'Growth and development in developing, emerging and developed economies', slug: 'growth-and-development-in-developing-emerging-and-developed-economies-edexcel-alevel-economics' },
+        { number: '4.3.1', name: 'Causes and effects of globalisation', slug: 'causes-and-effects-of-globalisation-edexcel-alevel-economics' },
+        { number: '4.3.2', name: 'Trade and the global economy', slug: 'trade-and-the-global-economy-edexcel-alevel-economics' },
+        { number: '4.3.3', name: 'Balance of payments, exchange rates and international competitiveness', slug: 'balance-of-payments-exchange-rates-and-competitiveness-edexcel-alevel-economics' },
+        { number: '4.3.4', name: 'Poverty and inequality', slug: 'poverty-and-inequality-edexcel-alevel-economics' },
+        { number: '4.3.5', name: 'The role of the state in the macroeconomy', slug: 'the-role-of-the-state-in-the-macroeconomy-edexcel-alevel-economics' },
+        { number: '4.3.6', name: 'Growth and development in developing, emerging and developed economies', slug: 'growth-and-development-in-developing-emerging-and-developed-economies-edexcel-alevel-economics' },
       ] },
     ],
   },
@@ -2494,7 +2615,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'OxfordAQA -- official International AS and A-level Economics (9640) qualification page',
     sourceUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-economics/', verifiedDate: '2026-08-19',
-    notes: 'OxfordAQA International AS and A-level Economics (9640), first teaching September 2020. Modular qualification with four papers: AS Units 1-2, A2 Units 3-4. Subtopic numbers and names reproduce the specification\'s own subject-content headings (3.1.1-3.4.3), read from the specification PDF (Version 2.0) to its copyright block, 2026-09-17.',
+    notes: 'OxfordAQA International AS and A-level Economics (9640), first teaching September 2020. Modular qualification with four papers: AS Units 1-2, A2 Units 3-4. Subtopic numbers and names reproduce the specification\'s own subject-content headings (3.1.1-3.4.3), read from the specification PDF (Version 2.0) to its copyright block, 2026-09-17. Topic 5 is section 3.5 Quantitative skills (QS1-QS9, labels and wording as printed), which the specification says could be assessed in any of the assessments, with extra A2 requirements in QS3 and QS6; it is filed with the AS topics because it applies from AS onwards. It was missing until E939 (round 43) and was added from the same PDF (47 pp.) on 2026-09-17.',
     topics: [
       { number: 1, name: 'The operation of markets, market failure and the role of government', slug: 'the-operation-of-markets-market-failure-and-the-role-of-government-oxfordaqa-alevel-economics', stage: 'AS', subtopics: [
         { number: '3.1.1', name: 'The economic problem and methodology', slug: 'the-economic-problem-and-methodology-oxfordaqa-alevel-economics' },
@@ -2520,6 +2641,17 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '3.4.1', name: 'Globalisation and trade', slug: 'globalisation-and-trade-oxfordaqa-alevel-economics' },
         { number: '3.4.2', name: 'The balance of payments, exchange rates and financial markets', slug: 'the-balance-of-payments-exchange-rates-and-financial-markets-oxfordaqa-alevel-economics' },
         { number: '3.4.3', name: 'Economic growth and development', slug: 'economic-growth-and-development-oxfordaqa-alevel-economics' },
+      ] },
+      { number: 5, name: 'Quantitative skills', slug: 'quantitative-skills-oxfordaqa-alevel-economics', stage: 'AS', subtopics: [
+        { number: 'QS1', name: 'calculate, use and understand ratios and fractions', slug: 'qs1-quantitative-skills-oxfordaqa-alevel-economics' },
+        { number: 'QS2', name: 'calculate, use and understand percentages and percentage changes', slug: 'qs2-quantitative-skills-oxfordaqa-alevel-economics' },
+        { number: 'QS3', name: 'understand and use the terms mean, median (for A2 assessments, students will also need to understand and use relevant quantiles)', slug: 'qs3-quantitative-skills-oxfordaqa-alevel-economics' },
+        { number: 'QS4', name: 'construct and interpret a range of standard graphical forms', slug: 'qs4-quantitative-skills-oxfordaqa-alevel-economics' },
+        { number: 'QS5', name: 'calculate and interpret index numbers', slug: 'qs5-quantitative-skills-oxfordaqa-alevel-economics' },
+        { number: 'QS6', name: 'calculate cost, revenue and profit, including average and totals (for A2 assessments, students will also need to calculate marginal values)', slug: 'qs6-quantitative-skills-oxfordaqa-alevel-economics' },
+        { number: 'QS7', name: 'make calculations to convert from money to real terms', slug: 'qs7-quantitative-skills-oxfordaqa-alevel-economics' },
+        { number: 'QS8', name: 'make calculations of elasticity and interpret the result', slug: 'qs8-quantitative-skills-oxfordaqa-alevel-economics' },
+        { number: 'QS9', name: 'interpret, apply and analyse information in written, graphical and numerical forms', slug: 'qs9-quantitative-skills-oxfordaqa-alevel-economics' },
       ] },
     ],
   },
@@ -2588,11 +2720,11 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     notes: 'International Advanced Subsidiary code XAC11 (Unit 1 only, unit code WAC11); International Advanced Level code YAC11 (both units). First teaching September 2015, Issue 2 reissued September 2018 with no newer issue found. Unit 1 (The Accounting System and Costing, code WAC11) is the compulsory IAS unit; Unit 2 (Corporate and Management Accounting, code WAC12) is the IA2 unit completing the full IAL. Topic 1 sub-topics reproduced directly from the official specification PDF Unit content section 1.1 (grouped from numbered outcomes 1.1.1-1.1.20), fetched 2026-08-21. Topic 2 (Control procedures) sub-topics grouped from the PDF\'s own numbered outcomes 1.2.1-1.2.9, fetched and verified 2026-09-02. Honest-partial: topics 3-15 are verified in full by name directly from the PDF\'s content-overview tables, but their sub-topic detail is not yet entered.',
     topics: [
       { number: 1, name: 'Principles of accounting and double entry bookkeeping', slug: 'principles-of-accounting-and-double-entry-bookkeeping', stage: 'AS', subtopics: [
-        { number: '1.1', name: 'Role and purpose of accounting', slug: 'role-and-purpose-of-accounting-yac11' },
-        { number: '1.2', name: 'The double entry system', slug: 'the-double-entry-system-yac11' },
-        { number: '1.3', name: 'Accounting concepts and conventions', slug: 'accounting-concepts-and-conventions-yac11' },
-        { number: '1.4', name: 'Capital expenditure and revenue expenditure', slug: 'capital-and-revenue-expenditure-yac11' },
-        { number: '1.5', name: 'Non-current asset depreciation', slug: 'non-current-asset-depreciation-yac11' },
+        { number: '1.1.1-1.1.2', name: 'Role and purpose of accounting', slug: 'role-and-purpose-of-accounting-yac11' },
+        { number: '1.1.3-1.1.7', name: 'Double entry system', slug: 'the-double-entry-system-yac11' },
+        { number: '1.1.8-1.1.10', name: 'Accounting concepts and conventions', slug: 'accounting-concepts-and-conventions-yac11' },
+        { number: '1.1.11-1.1.12', name: 'Capital expenditure and revenue expenditure', slug: 'capital-and-revenue-expenditure-yac11' },
+        { number: '1.1.13-1.1.20', name: 'Non-current asset depreciation', slug: 'non-current-asset-depreciation-yac11' },
       ] },
       { number: 2, name: 'Control procedures', slug: 'control-procedures', stage: 'AS', subtopics: [
         { number: '1.2.1-1.2.2', name: 'Trial balance', slug: 'trial-balance-yac11' },
@@ -2650,14 +2782,16 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'OxfordAQA International Qualifications — official qualification page',
     sourceUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-accounting/', verifiedDate: '2026-08-19',
-    notes: 'First teaching September 2024. Honest-partial: the 5 named topics are taken verbatim from OxfordAQA\'s own "Syllabus summary" list on the live qualification page; named sub-topics were not published on that page and were not yet entered. Topic 2 (Verification of accounting records) sub-topics named from the official specification\'s section 3.2 (Version 1.2), which lists the verification techniques (trial balance, trade receivables and trade payables ledger control accounts, bank reconciliation statements) and the correction of errors without numbering them; the site therefore gives these sub-topics no numbers (D-255, E935).',
+    notes: 'First teaching September 2024. Honest-partial: the 5 named topics are taken verbatim from OxfordAQA\'s own "Syllabus summary" list on the live qualification page; named sub-topics were not published on that page and were not yet entered. Topic 2 (Verification of accounting records) sub-topics are the six content statements printed in the official specification\'s section 3.2 (Version 1.2), in its order, which the specification does not number; the site therefore gives these sub-topics no numbers (D-255, E935).',
     topics: [
       { number: 1, name: 'Sources and recording of data', slug: 'sources-and-recording-of-data-oxfordaqa-igcse', subtopics: [] },
       { number: 2, name: 'Verification of accounting records', slug: 'verification-of-accounting-records-oxfordaqa-igcse', subtopics: [
-        { number: '', name: 'The trial balance', slug: 'the-trial-balance-oxfordaqa-igcse-accounting' },
-        { number: '', name: 'Control accounts', slug: 'control-accounts-oxfordaqa-igcse-accounting' },
-        { number: '', name: 'Bank reconciliation statements', slug: 'bank-reconciliation-statements-oxfordaqa-igcse-accounting' },
-        { number: '', name: 'Correcting errors', slug: 'correcting-errors-oxfordaqa-igcse-accounting' },
+        { number: '', name: 'Verification of the double entry records', slug: 'verification-of-the-double-entry-records-oxfordaqa-igcse-accounting' },
+        { number: '', name: 'Prepare and understand the use of a trial balance', slug: 'the-trial-balance-oxfordaqa-igcse-accounting' },
+        { number: '', name: 'Prepare, understand and interpret trade payables and trade receivables ledger control accounts', slug: 'control-accounts-oxfordaqa-igcse-accounting' },
+        { number: '', name: 'Prepare and understand the use and purpose of bank reconciliation statements', slug: 'bank-reconciliation-statements-oxfordaqa-igcse-accounting' },
+        { number: '', name: 'How to correct errors in double entry records', slug: 'correcting-errors-oxfordaqa-igcse-accounting' },
+        { number: '', name: 'The effect of errors on profit calculations', slug: 'the-effect-of-errors-on-profit-calculations-oxfordaqa-igcse-accounting' },
       ] },
       { number: 3, name: 'Development of the accounting model', slug: 'development-of-the-accounting-model', subtopics: [] },
       { number: 4, name: 'Preparation of financial statements', slug: 'preparation-of-financial-statements-oxfordaqa-igcse', subtopics: [] },
@@ -2671,7 +2805,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'OxfordAQA International Qualifications — official qualification page',
     sourceUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-accounting/', verifiedDate: '2026-08-19',
-    notes: 'Version updated February 2024. Modular: AS Papers 1-2 (topics 1-10) form the AS-level and 40% of the A-level; A-level Papers 1-2 (topics 11-20) add the remaining 60%. Honest-partial: all 20 named topics verified in full and in order directly from OxfordAQA\'s own "Syllabus summary" and per-paper assessment breakdown on the live qualification page; named sub-topics are not published there. Topic 2 (Types of business organisation) is a genuine flat section with no numbered sub-headings, confirmed via the full specification PDF (oxfordaqa.com/wp-content/uploads/2024/05/oxfordaqa-a-level-accounting-specification.pdf), fetched and verified 2026-09-02: it covers business ownership models (sole traders, partnerships, private Ltd and public plc), their benefits/risks/reporting impact, and sources of finance (owner\'s capital, partners\' capital, bank overdraft, bank loan, mortgage, ordinary shares, debentures) -- content essentially identical to AQA\'s own A-level Accounting (7127) Topic 2, since OxfordAQA licenses AQA\'s A-level Accounting specification. Other topics remain name-only pending the same fetch for their content.',
+    notes: 'Version updated February 2024. Modular: AS Papers 1-2 (topics 1-10) form the AS-level and 40% of the A-level; A-level Papers 1-2 (topics 11-20) add the remaining 60%. Honest-partial: all 20 named topics verified in full and in order directly from OxfordAQA\'s own "Syllabus summary" and per-paper assessment breakdown on the live qualification page; named sub-topics are not published there. Topic 2 (Types of business organisation) is a genuine flat section with no numbered sub-headings, confirmed via the full specification PDF (oxfordaqa.com/wp-content/uploads/2024/05/oxfordaqa-a-level-accounting-specification.pdf), fetched and verified 2026-09-02: it covers business ownership models (sole traders, partnerships, private Ltd and public plc), their benefits/risks/reporting impact, and sources of finance (owner\'s capital, partners\' capital, bank overdraft, bank loan, mortgage, ordinary shares, debentures) -- content comparable to AQA\'s own A-level Accounting (7127) Topic 2; the OxfordAQA specification (section 5.2) states only that this qualification overlaps with the AQA UK A-level Accounting (7127). Other topics remain name-only pending the same fetch for their content.',
     topics: [
       { number: 1, name: 'An introduction to the role of the accountant in business', slug: 'an-introduction-to-the-role-of-the-accountant-in-business-oxfordaqa', stage: 'AS', subtopics: [] },
       { number: 2, name: 'Types of business organisation', slug: 'types-of-business-organisation-oxfordaqa', stage: 'AS', subtopics: [] },
@@ -2703,7 +2837,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/697372-2026-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'Valid for exams in 2026 only, a single-year series that should be re-checked for a successor when next touched. Not tiered, but staged: AS Level candidates study sections 1-12 only; A Level candidates study all of sections 1-20. Full content-overview table (20 sections with named sub-sections) verified directly from the PDF.',
+    notes: 'Valid for exams in 2026 only. Cambridge has published a 2027-2029 syllabus (721397, Version 2, December 2025) which states there are no significant changes which affect teaching and has the same sections; the Marlbridge 9618 resources follow that 2027-2029 syllabus. Not tiered, but staged: AS Level candidates study sections 1-12 only; A Level candidates study all of sections 1-20. Full content-overview table (20 sections with named sub-sections) verified directly from the PDF.',
     topics: [
       { number: 1, name: 'Information representation', slug: 'information-representation', stage: 'AS', subtopics: [
         { number: '1.1', name: 'Data Representation', slug: 'data-representation' },
@@ -2798,7 +2932,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/697167-2026-2028-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'Version 5, published December 2025. Not tiered. The 10 named topics (grouped into "Computer systems" 1-6 and "Algorithms, programming and logic" 7-10) are verified in full from the content-overview table. Topic 1 (Data representation) sub-topic structure (1.1-1.3) reproduced directly from the official syllabus PDF Subject content section, fetched 2026-08-21. Named sub-topics for topics 3-10 are not yet entered. Topic 2 (Data transmission) sub-topic structure (2.1-2.3) reproduced directly from the official syllabus PDF Subject content section, fetched 2026-09-01. Topic 3 (Hardware) sub-topic structure (3.1-3.4) reproduced directly from the official syllabus PDF Subject content section, fetched 2026-09-02. This is the plain A*-G qualification, distinct from the numeric-grade Cambridge IGCSE (9-1) Computer Science 0984 sibling syllabus.',
+    notes: 'Version 6, published September 2026 (information on the ROUND function updated). Not tiered. The 10 named topics (grouped into "Computer systems" 1-6 and "Algorithms, programming and logic" 7-10) are verified in full from the content-overview table. Topic 1 (Data representation) sub-topic structure (1.1-1.3) reproduced directly from the official syllabus PDF Subject content section, fetched 2026-08-21. Named sub-topics for topics 3-10 are not yet entered. Topic 2 (Data transmission) sub-topic structure (2.1-2.3) reproduced directly from the official syllabus PDF Subject content section, fetched 2026-09-01. Topic 3 (Hardware) sub-topic structure (3.1-3.4) reproduced directly from the official syllabus PDF Subject content section, fetched 2026-09-02. This is the plain A*-G qualification, distinct from the numeric-grade Cambridge IGCSE (9-1) Computer Science 0984 sibling syllabus.',
     topics: [
       { number: 1, name: 'Data representation', slug: 'data-representation-0478', subtopics: [
         { number: '1.1', name: 'Number systems', slug: 'number-systems-0478' },
@@ -2869,7 +3003,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '2.1', name: 'Mainframe computers and supercomputers', slug: 'mainframe-computers-and-supercomputers' },
         { number: '2.2', name: 'System software', slug: 'system-software' },
         { number: '2.3', name: 'Utility software', slug: 'utility-software' },
-        { number: '2.4', name: 'Custom-written and off-the-shelf software', slug: 'custom-written-and-off-the-shelf-software' },
+        { number: '2.4', name: 'Custom-written software and off-the-shelf software', slug: 'custom-written-and-off-the-shelf-software' },
         { number: '2.5', name: 'User interfaces', slug: 'user-interfaces' },
       ] },
       { number: 3, name: 'Monitoring and control', slug: 'monitoring-and-control', stage: 'AS', subtopics: [
@@ -2903,17 +3037,24 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/697139-2026-2028-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'Not tiered. Honest-partial: 21 named topics verified in full from the content-overview table. Topic 2 (Input and output devices) sub-topic structure (2.1-2.3) and Topic 3 (Storage devices and media) sub-topic structure (3.1-3.2, storage devices vs storage media) reproduced directly from the official syllabus PDF\'s Subject content section, fetched and verified 2026-09-01 and 2026-09-02 respectively. Named sub-topics for the remaining topics are not shown on the content-overview page and are not yet entered. This is the plain A*-G qualification, distinct from the numeric-grade Cambridge IGCSE (9-1) ICT 0983 sibling syllabus (a prior fetch briefly pulled 0983 content by mistake before this was caught and corrected against the genuine 0417 PDF).',
+    notes: 'Not tiered. Cambridge IGCSE ICT (0417), 2026-2028 syllabus, Version 3 (published December 2025; 45 pages, read to the Cambridge address block). All 21 topics of section 3 Subject content are recorded, with every numbered subtopic under its syllabus number (checked 2026-09-17, round 43, E939 (6)). Topics 3, 12, 14, 16, 17 and 19 have no numbered subtopics in the syllabus: the entries listed under them are the syllabus\'s own unnumbered content-row headings and carry no number. This is the A*-G qualification, distinct from the 9-1 graded Cambridge IGCSE (9-1) ICT 0983 syllabus.',
+    subtopicsComplete: true,
     topics: [
-      { number: 1, name: 'Types and components of computer systems', slug: 'types-and-components-of-computer-systems', subtopics: [] },
+      { number: 1, name: 'Types and components of computer systems', slug: 'types-and-components-of-computer-systems', subtopics: [
+        { number: '1.1', name: 'Hardware and software', slug: 'hardware-and-software-0417' },
+        { number: '1.2', name: 'The main components of computer systems', slug: 'the-main-components-of-computer-systems-0417' },
+        { number: '1.3', name: 'Operating systems', slug: 'operating-systems-0417' },
+        { number: '1.4', name: 'Types of computer', slug: 'types-of-computer-0417' },
+        { number: '1.5', name: 'Emerging technologies', slug: 'emerging-technologies-0417' },
+      ] },
       { number: 2, name: 'Input and output devices', slug: 'input-and-output-devices', subtopics: [
         { number: '2.1', name: 'Input devices and their uses', slug: 'input-devices-and-their-uses-0417' },
         { number: '2.2', name: 'Direct data entry and associated devices', slug: 'direct-data-entry-and-associated-devices-0417' },
         { number: '2.3', name: 'Output devices and their uses', slug: 'output-devices-and-their-uses-0417' },
       ] },
       { number: 3, name: 'Storage devices and media', slug: 'storage-devices-and-media', subtopics: [
-        { number: '3.1', name: 'Storage devices', slug: 'storage-devices-0417' },
-        { number: '3.2', name: 'Storage media', slug: 'storage-media-0417' },
+        { number: '', name: 'Storage devices', slug: 'storage-devices-0417' },
+        { number: '', name: 'Storage media', slug: 'storage-media-0417' },
       ] },
       { number: 4, name: 'Networks and the effects of using them', slug: 'networks-and-the-effects-of-using-them', subtopics: [
         { number: '4.1', name: 'Networks', slug: 'networks-0417' },
@@ -2925,22 +3066,91 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       ] },
       { number: 6, name: 'ICT applications', slug: 'ict-applications', subtopics: [
         { number: '6.1', name: 'Communication', slug: 'ict-applications-communication-0417' },
+        { number: '6.2', name: 'Modelling applications', slug: 'modelling-applications-0417' },
+        { number: '6.3', name: 'Computer controlled systems', slug: 'computer-controlled-systems-0417' },
+        { number: '6.4', name: 'School management systems', slug: 'school-management-systems-0417' },
+        { number: '6.5', name: 'Booking systems', slug: 'booking-systems-0417' },
+        { number: '6.6', name: 'Banking applications', slug: 'banking-applications-0417' },
+        { number: '6.7', name: 'Computers in medicine', slug: 'computers-in-medicine-0417' },
+        { number: '6.8', name: 'Expert systems', slug: 'expert-systems-0417' },
+        { number: '6.9', name: 'Computers in the retail industry', slug: 'computers-in-the-retail-industry-0417' },
+        { number: '6.10', name: 'Recognition systems', slug: 'recognition-systems-0417' },
+        { number: '6.11', name: 'Satellite systems', slug: 'satellite-systems-0417' },
       ] },
-      { number: 7, name: 'The systems life cycle', slug: 'the-systems-life-cycle', subtopics: [] },
-      { number: 8, name: 'Safety and security', slug: 'safety-and-security', subtopics: [] },
-      { number: 9, name: 'Audience', slug: 'audience', subtopics: [] },
-      { number: 10, name: 'Communication', slug: 'communication-0417', subtopics: [] },
-      { number: 11, name: 'File management', slug: 'file-management', subtopics: [] },
-      { number: 12, name: 'Images', slug: 'images', subtopics: [] },
-      { number: 13, name: 'Layout', slug: 'layout', subtopics: [] },
-      { number: 14, name: 'Styles', slug: 'styles', subtopics: [] },
-      { number: 15, name: 'Proofing', slug: 'proofing', subtopics: [] },
-      { number: 16, name: 'Graphs and charts', slug: 'graphs-and-charts', subtopics: [] },
-      { number: 17, name: 'Document production', slug: 'document-production', subtopics: [] },
-      { number: 18, name: 'Databases', slug: 'databases-0417', subtopics: [] },
-      { number: 19, name: 'Presentations', slug: 'presentations', subtopics: [] },
-      { number: 20, name: 'Spreadsheets', slug: 'spreadsheets-0417', subtopics: [] },
-      { number: 21, name: 'Website authoring', slug: 'website-authoring', subtopics: [] },
+      { number: 7, name: 'The systems life cycle', slug: 'the-systems-life-cycle', subtopics: [
+        { number: '7.1', name: 'Analysis', slug: 'analysis-0417' },
+        { number: '7.2', name: 'Design', slug: 'design-0417' },
+        { number: '7.3', name: 'Development and testing', slug: 'development-and-testing-0417' },
+        { number: '7.4', name: 'Implementation', slug: 'implementation-0417' },
+        { number: '7.5', name: 'Documentation', slug: 'documentation-0417' },
+        { number: '7.6', name: 'Evaluation', slug: 'evaluation-0417' },
+      ] },
+      { number: 8, name: 'Safety and security', slug: 'safety-and-security', subtopics: [
+        { number: '8.1', name: 'Physical safety', slug: 'physical-safety-0417' },
+        { number: '8.2', name: 'eSafety', slug: 'esafety-0417' },
+        { number: '8.3', name: 'Security of data', slug: 'security-of-data-0417' },
+      ] },
+      { number: 9, name: 'Audience', slug: 'audience', subtopics: [
+        { number: '9.1', name: 'Audience appreciation', slug: 'audience-appreciation-0417' },
+        { number: '9.2', name: 'Copyright', slug: 'copyright-0417' },
+      ] },
+      { number: 10, name: 'Communication', slug: 'communication-0417', subtopics: [
+        { number: '10.1', name: 'Communication with other ICT users using email', slug: 'communication-with-other-ict-users-using-email-0417' },
+        { number: '10.2', name: 'Effective use of the internet', slug: 'effective-use-of-the-internet-0417' },
+      ] },
+      { number: 11, name: 'File management', slug: 'file-management', subtopics: [
+        { number: '11.1', name: 'Manage files effectively', slug: 'manage-files-effectively-0417' },
+        { number: '11.2', name: 'Reduce file sizes for storage or transmission', slug: 'reduce-file-sizes-for-storage-or-transmission-0417' },
+      ] },
+      { number: 12, name: 'Images', slug: 'images', subtopics: [
+        { number: '', name: 'Place and edit an image', slug: 'place-and-edit-an-image-t12-0417' },
+        { number: '', name: 'File size reduction', slug: 'file-size-reduction-t12-0417' },
+      ] },
+      { number: 13, name: 'Layout', slug: 'layout', subtopics: [
+        { number: '13.1', name: 'Create or edit a document', slug: 'create-or-edit-a-document-0417' },
+        { number: '13.2', name: 'Tables', slug: 'tables-0417' },
+        { number: '13.3', name: 'Headers and footers', slug: 'headers-and-footers-0417' },
+      ] },
+      { number: 14, name: 'Styles', slug: 'styles', subtopics: [
+        { number: '', name: 'Create, edit and apply styles', slug: 'create-edit-and-apply-styles-t14-0417' },
+        { number: '', name: 'Corporate house style', slug: 'corporate-house-style-t14-0417' },
+      ] },
+      { number: 15, name: 'Proofing', slug: 'proofing', subtopics: [
+        { number: '15.1', name: 'Software tools', slug: 'software-tools-0417' },
+        { number: '15.2', name: 'Proofing techniques', slug: 'proofing-techniques-0417' },
+      ] },
+      { number: 16, name: 'Graphs and charts', slug: 'graphs-and-charts', subtopics: [
+        { number: '', name: 'Create, label and edit a graph or chart', slug: 'create-label-and-edit-a-graph-or-chart-t16-0417' },
+      ] },
+      { number: 17, name: 'Document production', slug: 'document-production', subtopics: [
+        { number: '', name: 'Organise page layout', slug: 'organise-page-layout-t17-0417' },
+        { number: '', name: 'Format text', slug: 'format-text-t17-0417' },
+        { number: '', name: 'Find and replace text', slug: 'find-and-replace-text-t17-0417' },
+        { number: '', name: 'Navigation', slug: 'navigation-t17-0417' },
+        { number: '', name: 'Pagination', slug: 'pagination-t17-0417' },
+        { number: '', name: 'Gutter margin', slug: 'gutter-margin-t17-0417' },
+      ] },
+      { number: 18, name: 'Databases', slug: 'databases-0417', subtopics: [
+        { number: '18.1', name: 'Create a database structure', slug: 'create-a-database-structure-0417' },
+        { number: '18.2', name: 'Manipulate data', slug: 'manipulate-data-0417' },
+        { number: '18.3', name: 'Present data', slug: 'present-data-0417' },
+      ] },
+      { number: 19, name: 'Presentations', slug: 'presentations', subtopics: [
+        { number: '', name: 'Create a presentation', slug: 'create-a-presentation-t19-0417' },
+        { number: '', name: 'Use a master slide', slug: 'use-a-master-slide-t19-0417' },
+        { number: '', name: 'Edit a presentation', slug: 'edit-a-presentation-t19-0417' },
+        { number: '', name: 'Output the presentation', slug: 'output-the-presentation-t19-0417' },
+      ] },
+      { number: 20, name: 'Spreadsheets', slug: 'spreadsheets-0417', subtopics: [
+        { number: '20.1', name: 'Create a data model', slug: 'create-a-data-model-0417' },
+        { number: '20.2', name: 'Manipulate data', slug: 'manipulate-data-20-2-0417' },
+        { number: '20.3', name: 'Present data', slug: 'present-data-20-3-0417' },
+      ] },
+      { number: 21, name: 'Website authoring', slug: 'website-authoring', subtopics: [
+        { number: '21.1', name: 'Web development layers', slug: 'web-development-layers-0417' },
+        { number: '21.2', name: 'Create a web page', slug: 'create-a-web-page-0417' },
+        { number: '21.3', name: 'Use stylesheets', slug: 'use-stylesheets-0417' },
+      ] },
     ],
   },
   {
@@ -2989,18 +3199,23 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'OxfordAQA International Qualifications — official qualification page',
     sourceUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-computer-science/', verifiedDate: '2026-08-19',
-    notes: 'Version updated November 2022. Honest-partial: the 8 named topics are taken verbatim from OxfordAQA\'s own "Syllabus summary" list on the live qualification page; named sub-topics were not published there and were not yet entered. Topic 2 (Programming) sub-topic structure (3.2.1-3.2.8) reproduced directly from the official specification PDF\'s own subject-content chapter, fetched and verified 2026-09-02.',
+    notes: 'Version updated November 2022. Honest-partial: the 8 named topics are taken verbatim from OxfordAQA\'s own "Syllabus summary" list on the live qualification page; named sub-topics were not published there and were not yet entered. Topic 2 (Programming) sub-topic structure (3.2.1-3.2.13) reproduced from the official specification PDF\'s own subject-content chapter: 3.2.1-3.2.8 fetched and verified 2026-09-02; the list stopped at 3.2.8 until E939 (round 43), when 3.2.9-3.2.13 were added and the names of 3.2.3-3.2.5 and 3.2.8 were given in full as printed, from the specification PDF linked on the qualification page (Version 3.4, 40 pp., read to its copyright block) on 2026-09-17; the Programming sub-topic headings are the same in Version 3.5.',
     topics: [
       { number: 1, name: 'Algorithms', slug: 'algorithms-9210', subtopics: [] },
       { number: 2, name: 'Programming', slug: 'programming-9210', subtopics: [
         { number: '3.2.1', name: 'Data types', slug: 'data-types-9210' },
         { number: '3.2.2', name: 'Programming concepts', slug: 'programming-concepts-9210' },
-        { number: '3.2.3', name: 'Arithmetic operations', slug: 'arithmetic-operations-9210' },
-        { number: '3.2.4', name: 'Relational operations', slug: 'relational-operations-9210' },
-        { number: '3.2.5', name: 'Boolean operations', slug: 'boolean-operations-9210' },
+        { number: '3.2.3', name: 'Arithmetic operations in a programming language', slug: 'arithmetic-operations-9210' },
+        { number: '3.2.4', name: 'Relational operations in a programming language', slug: 'relational-operations-9210' },
+        { number: '3.2.5', name: 'Boolean operations in a programming language', slug: 'boolean-operations-9210' },
         { number: '3.2.6', name: 'Data structures', slug: 'data-structures-9210' },
         { number: '3.2.7', name: 'Input/output and file handling', slug: 'input-output-and-file-handling-9210' },
-        { number: '3.2.8', name: 'String handling operations', slug: 'string-handling-operations-9210' },
+        { number: '3.2.8', name: 'String handling operations in a programming language', slug: 'string-handling-operations-9210' },
+        { number: '3.2.9', name: 'Random number generation in a programming language', slug: 'random-number-generation-9210' },
+        { number: '3.2.10', name: 'Subroutines (procedures and functions)', slug: 'subroutines-procedures-and-functions-9210' },
+        { number: '3.2.11', name: 'Structured programming', slug: 'structured-programming-9210' },
+        { number: '3.2.12', name: 'Robust and secure programming', slug: 'robust-and-secure-programming-9210' },
+        { number: '3.2.13', name: 'Classification of programming languages and translators', slug: 'classification-of-programming-languages-and-translators-9210' },
       ] },
       { number: 3, name: 'Data representation', slug: 'data-representation-9210', subtopics: [] },
       { number: 4, name: 'Computer systems', slug: 'computer-systems-9210', subtopics: [] },
@@ -3133,13 +3348,21 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Pearson Edexcel — International GCSE English Language A (9–1) specification and news pages at qualifications.pearson.com',
     sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20A/2016/Specification%20and%20sample%20assessments/9781446954379-int-gcse-englang-a-iss6-02-02-2023.pdf', verifiedDate: '2026-09-02',
-    notes: 'Students take Component 1 plus EITHER Component 2 (examined) OR Component 3 (non-exam assessment alternative to Component 2). This entry represents the mainstream exam route (Components 1 and 2); Component 3 is not separately encoded. A modular version (4XEA1) is also offered by Pearson for first teaching September 2025 and was not separately verified. Re-fetched from the same sourceUrl 2026-09-02: the live PDF at this address is now Issue 7 (August 2025), superseding the previously-recorded Issue 6 (2023) -- syllabusSeries and verifiedDate updated accordingly. Issue 7\'s own changelog (checked) is administrative (availability wording, Component 1 Section B transactional text types, NEA submission process, spoken-language-endorsement sections) and does not alter the Component 1/2/3 structure encoded here.',
+    notes: 'Students take Component 1 plus EITHER Component 2 (examined) OR Component 3 (non-exam assessment alternative to Component 2). All three components and the optional Spoken Language Endorsement are listed, as in section 3 (English Language (Specification A) content) of the specification. A modular version (4XEA1) is also offered by Pearson for first teaching September 2025 and was not separately verified. Re-fetched from the same sourceUrl 2026-09-02: the live PDF at this address is now Issue 7 (August 2025), superseding the previously-recorded Issue 6 (2023) -- syllabusSeries and verifiedDate updated accordingly. Issue 7\'s own changelog (checked) is administrative (availability wording, Component 1 Section B transactional text types, NEA submission process, spoken-language-endorsement sections) and does not alter the Component 1/2/3 structure encoded here. E939 (round 43, 2026-09-17): rebuilt from section 3 of the Issue 7 PDF (46 pp., read to Pearson\'s registered-office block): Component 2\'s two sections, Component 3 with its two assignments and the Spoken Language Endorsement were added, and component names are given as printed. The specification does not number the sections, so no sub-topic numbers are shown (Component 1\'s were previously given invented numbers 1.1 and 1.2).',
     topics: [
-      { number: 1, name: 'Component 1 – Non-fiction Texts and Transactional Writing', slug: 'component-1-non-fiction-texts-and-transactional-writing-4ea1', subtopics: [
-        { number: '1.1', name: 'Section A: Non-fiction Texts', slug: 'section-a-non-fiction-texts-4ea1' },
-        { number: '1.2', name: 'Section B: Transactional Writing', slug: 'section-b-transactional-writing-4ea1' },
+      { number: 1, name: 'Component 1: Non-fiction Texts and Transactional Writing (examined)', slug: 'component-1-non-fiction-texts-and-transactional-writing-4ea1', subtopics: [
+        { number: '', name: 'Section A: Non-fiction texts', slug: 'section-a-non-fiction-texts-4ea1' },
+        { number: '', name: 'Section B: Transactional Writing', slug: 'section-b-transactional-writing-4ea1' },
       ] },
-      { number: 2, name: 'Component 2 – Poetry and Prose Texts and Imaginative Writing', slug: 'component-2-poetry-and-prose-texts-and-imaginative-writing-4ea1', subtopics: [] },
+      { number: 2, name: 'Component 2: Poetry and Prose Texts and Imaginative Writing (examined)', slug: 'component-2-poetry-and-prose-texts-and-imaginative-writing-4ea1', subtopics: [
+        { number: '', name: 'Section A: Poetry and Prose Texts', slug: 'section-a-poetry-and-prose-texts-4ea1' },
+        { number: '', name: 'Section B: Imaginative Writing', slug: 'section-b-imaginative-writing-4ea1' },
+      ] },
+      { number: 3, name: 'Component 3: Poetry and Prose Texts and Imaginative Writing (non-examined assessment)', slug: 'component-3-poetry-and-prose-texts-and-imaginative-writing-nea-4ea1', subtopics: [
+        { number: '', name: 'Assignment A: Poetry and Prose Texts', slug: 'assignment-a-poetry-and-prose-texts-4ea1' },
+        { number: '', name: 'Assignment B: Imaginative Writing', slug: 'assignment-b-imaginative-writing-4ea1' },
+      ] },
+      { number: 4, name: 'Spoken Language Endorsement (optional)', slug: 'spoken-language-endorsement-4ea1', subtopics: [] },
     ],
   },
   {
@@ -3148,11 +3371,22 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel — International GCSE English Literature (9–1) specification at qualifications.pearson.com',
-    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Literature/2016/Specification%20and%20sample%20assessments/international-gcse-english-literature-specification.pdf', verifiedDate: '2026-08-19',
-    notes: 'Students take Component 1 plus EITHER Component 2 (examined) OR Component 3 (coursework alternative to Component 2, 40% weighting). This entry represents the mainstream exam route (Components 1 and 2); set texts rotate and are not encoded here. A modular version (4XET1) also exists and was not separately verified.',
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Literature/2016/Specification%20and%20sample%20assessments/international-gcse-english-literature-specification.pdf', verifiedDate: '2026-09-17',
+    notes: 'Students take Component 1 plus EITHER Component 2 (examined) OR Component 3 (non-examined, the alternative to Component 2, 40% weighting). Section 4 (English Literature content) of the specification is listed in full: the three components with their named sections (Component 1 Sections A-C, Component 2 Sections A-B) and assignments (Component 3 Assignments A-B), names as printed. The specification does not number the sections, so no sub-topic numbers are shown. Set texts (section 3, Set texts at a glance) are not encoded here. A modular version (4XET1) also exists and was not separately verified. E939 (round 43, 2026-09-17): rebuilt from the Issue 3 PDF at this record\'s link (43 pp., read to Pearson\'s registered-office block); the sections and Component 3 were previously left out.',
     topics: [
-      { number: 1, name: 'Component 1 – Poetry and Modern Prose', slug: 'component-1-poetry-and-modern-prose-4et1', subtopics: [] },
-      { number: 2, name: 'Component 2 – Modern Drama and Literary Heritage Texts', slug: 'component-2-modern-drama-and-literary-heritage-texts-4et1', subtopics: [] },
+      { number: 1, name: 'Component 1: Poetry and Modern Prose (examined)', slug: 'component-1-poetry-and-modern-prose-4et1', subtopics: [
+        { number: '', name: 'Section A: Unseen Poetry', slug: 'section-a-unseen-poetry-4et1' },
+        { number: '', name: 'Section B: Anthology Poetry', slug: 'section-b-anthology-poetry-4et1' },
+        { number: '', name: 'Section C: Modern Prose', slug: 'section-c-modern-prose-4et1' },
+      ] },
+      { number: 2, name: 'Component 2: Modern Drama and Literary Heritage Texts (examined)', slug: 'component-2-modern-drama-and-literary-heritage-texts-4et1', subtopics: [
+        { number: '', name: 'Section A: Modern Drama', slug: 'section-a-modern-drama-4et1' },
+        { number: '', name: 'Section B: Literary Heritage Texts', slug: 'section-b-literary-heritage-texts-4et1' },
+      ] },
+      { number: 3, name: 'Component 3: Modern Drama and Literary Heritage Texts (non-examined)', slug: 'component-3-modern-drama-and-literary-heritage-texts-nea-4et1', subtopics: [
+        { number: '', name: 'Assignment A: Modern drama', slug: 'assignment-a-modern-drama-4et1' },
+        { number: '', name: 'Assignment B: Literary heritage texts', slug: 'assignment-b-literary-heritage-texts-4et1' },
+      ] },
     ],
   },
   {
@@ -3162,15 +3396,23 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Pearson Edexcel — International Advanced Level English Literature specification at qualifications.pearson.com',
     sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/english-literature/2015/specification-and-sample-assessments/9781446954058-ial-englit-iss6-9-spec-240521pm.pdf', verifiedDate: '2026-09-02',
-    notes: 'International Advanced Subsidiary (IAS) comprises Units 1–2; the full International Advanced Level (IAL) adds Units 3–4. Unit 2 (Drama) section split and prescribed text lists fetched and verified 2026-09-02 from the live specification PDF (Issue 7, February 2026): Section A is one pre-1900 drama text from a choice of five, Section B is one post-1900 drama text from a choice of five. Units 1, 3 and 4 prescribed-text detail is not yet itemised here beyond Unit 1\'s own entry.',
+    notes: 'International Advanced Subsidiary (IAS) comprises Units 1-2; the full International Advanced Level (IAL) adds Units 3-4. Each unit\'s content sections are listed with the specification\'s own numbers and names (Issue 7, February 2026): Unit 1 1.3 Poetry and 1.4 Prose; Unit 2 2.3 Pre-1900 and post-1900 Drama (one pre-1900 drama text from Doctor Faustus, Othello, The Rover, She Stoops to Conquer and Twelfth Night, assessed in Section A, and one post-1900 drama text from A Raisin in the Sun, A Streetcar Named Desire, Death of a Salesman, Top Girls and Waiting for Godot, assessed in Section B); Unit 3 3.3 Poetry and 3.4 Prose; Unit 4 4.3 Shakespeare and 4.4 Poetry. Sections .1 Unit description and .2 Assessment information are not content and are not listed; the prescribed texts for the other units (Appendix 5) are not encoded. E939 (round 43, 2026-09-17): rebuilt from the Issue 7 PDF at this record\'s link (53 pp., read to Pearson\'s registered-office block); Units 1, 3 and 4 previously had no sections, and Unit 2 had two sub-topics with invented numbers 2.A and 2.B.',
     topics: [
-      { number: 1, name: 'Unit 1 – Post-2000 Poetry and Prose', slug: 'unit-1-post-2000-poetry-and-prose-yet01', stage: 'AS', subtopics: [] },
-      { number: 2, name: 'Unit 2 – Drama', slug: 'unit-2-drama-yet01', stage: 'AS', subtopics: [
-        { number: '2.A', name: 'Section A: Pre-1900 Drama — choice of Doctor Faustus, Othello, The Rover, She Stoops to Conquer, Twelfth Night', slug: 'unit-2-section-a-yet01' },
-        { number: '2.B', name: 'Section B: Post-1900 Drama — choice of A Raisin in the Sun, A Streetcar Named Desire, Death of a Salesman, Top Girls, Waiting for Godot', slug: 'unit-2-section-b-yet01' },
+      { number: 1, name: 'Unit 1: Post-2000 Poetry and Prose', slug: 'unit-1-post-2000-poetry-and-prose-yet01', stage: 'AS', subtopics: [
+        { number: '1.3', name: 'Poetry', slug: 'unit-1-poetry-yet01' },
+        { number: '1.4', name: 'Prose', slug: 'unit-1-prose-yet01' },
       ] },
-      { number: 3, name: 'Unit 3 – Poetry and Prose', slug: 'unit-3-poetry-and-prose-yet01', stage: 'A', subtopics: [] },
-      { number: 4, name: 'Unit 4 – Shakespeare and Pre-1900 Poetry', slug: 'unit-4-shakespeare-and-pre-1900-poetry-yet01', stage: 'A', subtopics: [] },
+      { number: 2, name: 'Unit 2: Drama', slug: 'unit-2-drama-yet01', stage: 'AS', subtopics: [
+        { number: '2.3', name: 'Pre-1900 and post-1900 Drama', slug: 'unit-2-pre-1900-and-post-1900-drama-yet01' },
+      ] },
+      { number: 3, name: 'Unit 3: Poetry and Prose', slug: 'unit-3-poetry-and-prose-yet01', stage: 'A', subtopics: [
+        { number: '3.3', name: 'Poetry', slug: 'unit-3-poetry-yet01' },
+        { number: '3.4', name: 'Prose', slug: 'unit-3-prose-yet01' },
+      ] },
+      { number: 4, name: 'Unit 4: Shakespeare and Pre-1900 Poetry', slug: 'unit-4-shakespeare-and-pre-1900-poetry-yet01', stage: 'A', subtopics: [
+        { number: '4.3', name: 'Shakespeare', slug: 'unit-4-shakespeare-yet01' },
+        { number: '4.4', name: 'Poetry', slug: 'unit-4-poetry-yet01' },
+      ] },
     ],
   },
   {
@@ -3180,15 +3422,23 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA — official specification pages at aqa.org.uk/subjects/english/gcse/english-8700/specification',
     sourceUrl: 'https://www.aqa.org.uk/subjects/english/gcse/english-8700/specification/specification-at-a-glance', verifiedDate: '2026-09-02',
-    notes: 'Untiered. A separate non-exam-assessed Spoken Language endorsement (0% weighting of the GCSE) is assessed but does not carry a mark toward the grade, so it is not encoded as a content topic here. Topic 2 (Paper 2, Writers\' Viewpoints and Perspectives) re-verified against the official subject-content and specification-at-a-glance pages (aqa.org.uk) on 2026-09-02: sources are non-fiction/literary non-fiction from the 19th century plus the 20th or 21st century; Section B sets a single writing task related to the Section A theme.',
+    notes: 'Untiered. Rebuilt 2026-09-17 (round 43, E939 (10)) from section 3 Subject content of the specification (3.1 Scope of study), read on the aqa.org.uk subject-content page and in the current specification PDF (Version 1.6, March 2026; 26 pages, read to the AQA registered-address block). Topics are the specification\'s 3.1.1 Critical reading and comprehension, 3.1.2 Writing and 3.1.3 Spoken language; sub-topics are the labelled content bullets under each, which the specification does not number. Paper 1 (Explorations in creative reading and writing) and Paper 2 (Writers\' viewpoints and perspectives) each assess reading and writing; they are assessment components, not content, and are not listed as topics. Spoken language is assessed by the non-examination assessment, reported as a separate endorsement (0% weighting of the GCSE). Topic slugs paper-1-explorations-in-creative-reading-and-writing-8700 and paper-2-writers-viewpoints-and-perspectives-8700 are older slugs kept because resources link them; they now belong to 3.1.1 and 3.1.2.',
+    subtopicsComplete: true,
     topics: [
-      { number: 1, name: 'Paper 1 – Explorations in Creative Reading and Writing', slug: 'paper-1-explorations-in-creative-reading-and-writing-8700', subtopics: [
-        { number: '1.1', name: 'Section A: Reading', slug: 'section-a-reading-8700-p1' },
-        { number: '1.2', name: 'Section B: Writing', slug: 'section-b-writing-8700-p1' },
+      { number: 1, name: 'Critical reading and comprehension', slug: 'paper-1-explorations-in-creative-reading-and-writing-8700', subtopics: [
+        { number: '', name: 'critical reading and comprehension', slug: 'critical-reading-and-comprehension-8700' },
+        { number: '', name: 'summary and synthesis', slug: 'summary-and-synthesis-8700' },
+        { number: '', name: 'evaluation of a writer’s choice of vocabulary, form, grammatical and structural features', slug: 'evaluation-of-a-writers-choice-of-vocabulary-form-grammatical-and-structural-features-8700' },
+        { number: '', name: 'comparing texts', slug: 'comparing-texts-8700' },
       ] },
-      { number: 2, name: 'Paper 2 – Writers’ Viewpoints and Perspectives', slug: 'paper-2-writers-viewpoints-and-perspectives-8700', subtopics: [
-        { number: '2.1', name: 'Section A: Reading', slug: 'section-a-reading-8700-p2' },
-        { number: '2.2', name: 'Section B: Writing', slug: 'section-b-writing-8700-p2' },
+      { number: 2, name: 'Writing', slug: 'paper-2-writers-viewpoints-and-perspectives-8700', subtopics: [
+        { number: '', name: 'producing clear and coherent text', slug: 'producing-clear-and-coherent-text-8700' },
+        { number: '', name: 'writing for impact', slug: 'writing-for-impact-8700' },
+      ] },
+      { number: 3, name: 'Spoken language', slug: 'spoken-language-8700', subtopics: [
+        { number: '', name: 'presenting information and ideas', slug: 'presenting-information-and-ideas-8700' },
+        { number: '', name: 'responding to spoken language', slug: 'responding-to-spoken-language-8700' },
+        { number: '', name: 'spoken Standard English', slug: 'spoken-standard-english-8700' },
       ] },
     ],
   },
@@ -3199,16 +3449,21 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA — official specification pages at aqa.org.uk/subjects/english/gcse/english-8702/specification',
     sourceUrl: 'https://www.aqa.org.uk/subjects/english/gcse/english-8702/specification/specification-at-a-glance', verifiedDate: '2026-08-19',
-    notes: 'Untiered, closed book. Set texts (Shakespeare play, 19th-century novel, modern prose or drama text, poetry anthology cluster) are chosen from prescribed lists and are not encoded here — this entry represents the paper/section structure only.',
+    notes: 'Untiered, closed book. Rebuilt 2026-09-17 (round 43, E939 (10)) from section 3 Subject content, read on the aqa.org.uk subject-content pages and in the specification PDF those pages link (Version 1.3, 28 September 2022; 20 pages, read to the AQA registered-address block): 3.1 Shakespeare and the 19th-century novel (3.1.1-3.1.2), 3.2 Modern texts and poetry (3.2.1-3.2.3) and 3.3 Skills, whose two headings the specification does not number. Paper 1 assesses 3.1 and Paper 2 assesses 3.2. The set texts (one Shakespeare play, one 19th-century novel, one modern text and one poetry-anthology cluster, each chosen from the specification\'s lists) are not listed here.',
+    subtopicsComplete: true,
     topics: [
-      { number: 1, name: 'Paper 1 – Shakespeare and the 19th-century Novel', slug: 'paper-1-shakespeare-and-the-19th-century-novel-8702', subtopics: [
-        { number: '1.1', name: 'Section A: Shakespeare', slug: 'section-a-shakespeare-8702' },
-        { number: '1.2', name: 'Section B: The 19th-century Novel', slug: 'section-b-the-19th-century-novel-8702' },
+      { number: 1, name: 'Shakespeare and the 19th-century novel', slug: 'paper-1-shakespeare-and-the-19th-century-novel-8702', subtopics: [
+        { number: '3.1.1', name: 'Shakespeare', slug: 'section-a-shakespeare-8702' },
+        { number: '3.1.2', name: 'The 19th-century novel', slug: 'section-b-the-19th-century-novel-8702' },
       ] },
-      { number: 2, name: 'Paper 2 – Modern Texts and Poetry', slug: 'paper-2-modern-texts-and-poetry-8702', subtopics: [
-        { number: '2.1', name: 'Section A: Modern Texts', slug: 'section-a-modern-texts-8702' },
-        { number: '2.2', name: 'Section B: Poetry', slug: 'section-b-poetry-8702' },
-        { number: '2.3', name: 'Section C: Unseen Poetry', slug: 'section-c-unseen-poetry-8702' },
+      { number: 2, name: 'Modern texts and poetry', slug: 'paper-2-modern-texts-and-poetry-8702', subtopics: [
+        { number: '3.2.1', name: 'Modern texts', slug: 'section-a-modern-texts-8702' },
+        { number: '3.2.2', name: 'Poetry', slug: 'section-b-poetry-8702' },
+        { number: '3.2.3', name: 'Unseen poetry', slug: 'section-c-unseen-poetry-8702' },
+      ] },
+      { number: 3, name: 'Skills', slug: 'skills-8702', subtopics: [
+        { number: '', name: 'Reading comprehension and reading critically', slug: 'reading-comprehension-and-reading-critically-8702' },
+        { number: '', name: 'Writing', slug: 'writing-skills-8702' },
       ] },
     ],
   },
@@ -3219,17 +3474,25 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA — official specification pages at aqa.org.uk/subjects/english/a-level/english-7702/specification',
     sourceUrl: 'https://www.aqa.org.uk/subjects/english/a-level/english-7702/specification/specification-at-a-glance', verifiedDate: '2026-08-19',
-    notes: 'Linear qualification. Methods of language analysis are integrated into each paper rather than assessed as a stand-alone topic. Paper 1 assessment structure (timing, marks, section weightings) cross-checked against the full specification PDF (Version 1.2, 14 October 2021), fetched and verified 2026-08-21.',
+    notes: 'Linear A-level. Rebuilt 2026-09-17 (round 43, E939 (10)) from the A-level subject content on the aqa.org.uk specification pages (3.1 Language, the individual and society; 3.2 Language diversity and change; 3.3 Language in action, with their numbered sub-sections), checked against the specification PDF those pages link (Version 1.2, 14 October 2021; 42 pages, read to the AQA registered-address block), which prints the same A-level content as section 4 (4.1-4.3) after the AS content. Paper 1 (Language, the Individual and Society) assesses 3.1, Paper 2 (Language Diversity and Change) assesses 3.2 and the non-exam assessment (Language in Action) assesses 3.3; methods of language analysis are integrated into each. The separate AS qualification (7701) content is not listed here.',
+    subtopicsComplete: true,
     topics: [
-      { number: 1, name: 'Paper 1 – Language, the Individual and Society', slug: 'paper-1-language-the-individual-and-society-7702', subtopics: [
-        { number: '1.1', name: 'Section A: Textual Variations and Representations', slug: 'section-a-textual-variations-and-representations-7702' },
-        { number: '1.2', name: 'Section B: Children’s Language Development', slug: 'section-b-childrens-language-development-7702' },
+      { number: 1, name: 'Language, the individual and society', slug: 'paper-1-language-the-individual-and-society-7702', subtopics: [
+        { number: '3.1.1', name: 'Textual variations and representations', slug: 'section-a-textual-variations-and-representations-7702' },
+        { number: '3.1.2', name: 'Methods of language analysis', slug: 'methods-of-language-analysis-3-1-2-7702' },
+        { number: '3.1.3', name: 'Children’s language development', slug: 'section-b-childrens-language-development-7702' },
       ] },
-      { number: 2, name: 'Paper 2 – Language Diversity and Change', slug: 'paper-2-language-diversity-and-change-7702', subtopics: [
-        { number: '2.1', name: 'Section A: Diversity and Change', slug: 'section-a-diversity-and-change-7702' },
-        { number: '2.2', name: 'Section B: Language Discourses', slug: 'section-b-language-discourses-7702' },
+      { number: 2, name: 'Language diversity and change', slug: 'paper-2-language-diversity-and-change-7702', subtopics: [
+        { number: '3.2.1', name: 'Language diversity and change', slug: 'section-a-diversity-and-change-7702' },
+        { number: '3.2.2', name: 'Methods of language analysis', slug: 'methods-of-language-analysis-3-2-2-7702' },
+        { number: '3.2.3', name: 'Language discourses', slug: 'section-b-language-discourses-7702' },
+        { number: '3.2.4', name: 'Writing skills', slug: 'writing-skills-7702' },
       ] },
-      { number: 3, name: 'Non-exam Assessment – Language in Action', slug: 'non-exam-assessment-language-in-action-7702', subtopics: [] },
+      { number: 3, name: 'Language in action', slug: 'non-exam-assessment-language-in-action-7702', subtopics: [
+        { number: '3.3.1', name: 'Language Investigation', slug: 'language-investigation-7702' },
+        { number: '3.3.2', name: 'Original writing', slug: 'original-writing-7702' },
+        { number: '3.3.3', name: 'Methods of language analysis', slug: 'methods-of-language-analysis-3-3-3-7702' },
+      ] },
     ],
   },
   {
@@ -3239,17 +3502,20 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA — official specification pages at aqa.org.uk/subjects/english/a-level/english-7717/specification',
     sourceUrl: 'https://www.aqa.org.uk/subjects/english/a-level/english-7717/specification/specification-at-a-glance', verifiedDate: '2026-08-19',
-    notes: 'AQA offers two A-level English Literature specifications: Literature A (7711 AS / 7712 A-level, content/context-based) and Literature B (7716 AS / 7717 A-level, genre-based). This entry verifies Literature B (7717), which matches one of the two codes Marlbridge currently records for this combination (‘7712 / 7717’ in the board/subject matrix); Literature A (7712) has not been separately verified against its own official content pages and should be checked before the matrix note is treated as fully confirmed for both specifications.',
+    notes: 'Rebuilt 2026-09-17 (round 43, E939 (10)) from the A-level subject content on the aqa.org.uk specification pages for 7717 (3.1 Literary genres: 3.1.1 Aspects of tragedy, 3.1.2 Aspects of comedy; 3.2 Texts and genres: 3.2.1 Elements of crime writing, 3.2.2 Elements of political and social protest writing; 3.3 Theory and independence: 3.3.1 Text selection), checked against the specification PDF those pages link (Version 1.5.1, 1 October 2025; 56 pages, read to its closing page), which prints the same A-level content as section 4 (4.1-4.3). Paper 1 (Literary genres) assesses one option, 3.1.1 or 3.1.2; Paper 2 (Texts and genres) one option, 3.2.1 or 3.2.2; the non-exam assessment covers 3.3. AQA offers two A-level English Literature specifications: Literature A (7711 AS / 7712 A-level, content/context-based) and Literature B (7716 AS / 7717 A-level, genre-based). This entry verifies Literature B (7717), which matches one of the two codes Marlbridge currently records for this combination (‘7712 / 7717’ in the board/subject matrix); Literature A (7712) has not been separately verified against its own official content pages and should be checked before the matrix note is treated as fully confirmed for both specifications.',
+    subtopicsComplete: true,
     topics: [
-      { number: 1, name: 'Paper 1 – Literary Genres', slug: 'paper-1-literary-genres-7717', subtopics: [
-        { number: '1.1', name: 'Option 1A: Aspects of Tragedy', slug: 'option-1a-aspects-of-tragedy-7717' },
-        { number: '1.2', name: 'Option 1B: Aspects of Comedy', slug: 'option-1b-aspects-of-comedy-7717' },
+      { number: 1, name: 'Literary genres', slug: 'paper-1-literary-genres-7717', subtopics: [
+        { number: '3.1.1', name: 'Aspects of tragedy', slug: 'option-1a-aspects-of-tragedy-7717' },
+        { number: '3.1.2', name: 'Aspects of comedy', slug: 'option-1b-aspects-of-comedy-7717' },
       ] },
-      { number: 2, name: 'Paper 2 – Texts and Genres', slug: 'paper-2-texts-and-genres-7717', subtopics: [
-        { number: '2.1', name: 'Option 2A: Elements of Crime Writing', slug: 'option-2a-elements-of-crime-writing-7717' },
-        { number: '2.2', name: 'Option 2B: Elements of Political and Social Protest Writing', slug: 'option-2b-elements-of-political-and-social-protest-writing-7717' },
+      { number: 2, name: 'Texts and genres', slug: 'paper-2-texts-and-genres-7717', subtopics: [
+        { number: '3.2.1', name: 'Elements of crime writing', slug: 'option-2a-elements-of-crime-writing-7717' },
+        { number: '3.2.2', name: 'Elements of political and social protest writing', slug: 'option-2b-elements-of-political-and-social-protest-writing-7717' },
       ] },
-      { number: 3, name: 'Non-exam Assessment – Theory and Independence', slug: 'non-exam-assessment-theory-and-independence-7717', subtopics: [] },
+      { number: 3, name: 'Theory and independence', slug: 'non-exam-assessment-theory-and-independence-7717', subtopics: [
+        { number: '3.3.1', name: 'Text selection', slug: 'text-selection-7717' },
+      ] },
     ],
   },
   {
@@ -3259,16 +3525,18 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'OxfordAQA — official International GCSE English Language (9270) specification PDF',
     sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-gcse-english-language-specification.pdf', verifiedDate: '2026-09-16',
-    notes: 'Overlaps with AQA UK GCSE English Language (8700). Students take Paper 1 plus EITHER Paper 2 (examined) OR a non-exam assessment project as an alternative to Paper 2; this entry represents the mainstream exam route. An optional Speaking and Listening endorsement is reported separately and does not count toward the qualification grade. D-240 (I361): Version 5.1 (copyright 2025, 23 pp.), linked from the OxfordAQA qualification page, read to its copyright block 2026-09-16; the paper and section names above and the NEA and endorsement routes are unchanged.',
+    notes: 'Overlaps with AQA UK GCSE English Language (8700). Students take Paper 1 plus EITHER Paper 2 (examined) OR a non-exam assessment project as an alternative to Paper 2; both routes are listed. An optional Speaking and Listening endorsement is reported separately and does not count toward the qualification grade. D-240 (I361): Version 5.1 (copyright 2025, 23 pp.), linked from the OxfordAQA qualification page, read to its copyright block 2026-09-16. E939 (round 43, 2026-09-17): topics rebuilt from section 3 Subject content of the same PDF, with its own numbers and names: 3.1 Literary non-fiction and composition (3.1.1 Section A, 3.1.2 Section B; Paper 1), 3.2 Source-based reading and directed writing (3.2.1 Section A, 3.2.2 Section B; Paper 2), 3.3 Non-exam assessment (the alternative to Paper 2) and 3.4 Speaking and listening (optional endorsement). 3.3 and 3.4 were previously left out; the specification prints no sub-headings under them.',
     topics: [
-      { number: 1, name: 'Paper 1 – Literary Non-fiction and Composition', slug: 'paper-1-literary-non-fiction-and-composition-9270', subtopics: [
-        { number: '1.1', name: 'Section A: Literary Non-fiction', slug: 'section-a-literary-non-fiction-9270' },
-        { number: '1.2', name: 'Section B: Composition', slug: 'section-b-composition-9270' },
+      { number: 1, name: 'Literary non-fiction and composition', slug: 'paper-1-literary-non-fiction-and-composition-9270', subtopics: [
+        { number: '3.1.1', name: 'Section A', slug: 'section-a-literary-non-fiction-9270' },
+        { number: '3.1.2', name: 'Section B', slug: 'section-b-composition-9270' },
       ] },
-      { number: 2, name: 'Paper 2 – Source-based Reading and Directed Writing', slug: 'paper-2-source-based-reading-and-directed-writing-9270', subtopics: [
-        { number: '2.1', name: 'Section A: Reading', slug: 'section-a-reading-9270' },
-        { number: '2.2', name: 'Section B: Writing', slug: 'section-b-writing-9270' },
+      { number: 2, name: 'Source-based reading and directed writing', slug: 'paper-2-source-based-reading-and-directed-writing-9270', subtopics: [
+        { number: '3.2.1', name: 'Section A', slug: 'section-a-reading-9270' },
+        { number: '3.2.2', name: 'Section B', slug: 'section-b-writing-9270' },
       ] },
+      { number: 3, name: 'Non-exam assessment', slug: 'non-exam-assessment-9270', subtopics: [] },
+      { number: 4, name: 'Speaking and listening (optional endorsement)', slug: 'speaking-and-listening-optional-endorsement-9270', subtopics: [] },
     ],
   },
   {
@@ -3302,35 +3570,40 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'OxfordAQA — official International GCSE English Literature (9275) specification PDF',
     sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-english-literature-specification-2018.pdf', verifiedDate: '2026-09-16',
-    notes: 'Overlaps with AQA UK GCSE English Literature (8702). Two routes exist: Route A (Paper 1 + Paper 2a, with an unseen-prose section) and Route B (Paper 1 + Paper 2b + non-exam assessment). This entry represents the shared Paper 1 content plus Route A’s Paper 2a; set texts (from a prescribed list, plus the OxfordAQA poetry anthology People and Places) are not encoded here. D-240 (I361): Version 5.1 (copyright 2025, 24 pp.), linked from the OxfordAQA qualification page, read to its copyright block 2026-09-16; the routes, papers and section names above are unchanged.',
+    notes: 'Overlaps with AQA UK GCSE English Literature (8702). Two routes exist: Route A (Paper 1 + Paper 2a, with an unseen-prose section) and Route B (Paper 1 + Paper 2b + non-exam assessment). Both routes are listed: 3.1 Prose and drama (Paper 1, both routes), 3.2 Route A: Poetry and unseen texts, and 3.3 Route B: Poetry and non-exam assessment; set texts (from a prescribed list, plus the OxfordAQA poetry anthology People and Places) are not encoded here. D-240 (I361): Version 5.1 (copyright 2025, 24 pp.), linked from the OxfordAQA qualification page, read to its copyright block 2026-09-16; the routes, papers and section names above are unchanged. E939 (round 43, 2026-09-17): topics rebuilt from section 3 Subject content of the same PDF (24 pp., read to its copyright block) with its own numbers and names; 3.3 Route B (3.3.1 Poetry, 3.3.2 Unseen poetry, 3.3.3 Non-exam assessment) was previously left out, and the sub-topics were renumbered from 1.1-2.3 to the printed 3.1.1-3.2.3.',
     topics: [
-      { number: 1, name: 'Prose and Drama', slug: 'prose-and-drama-9275', subtopics: [
-        { number: '1.1', name: 'Prose Fiction', slug: 'prose-fiction-9275' },
-        { number: '1.2', name: 'Drama', slug: 'drama-9275' },
+      { number: 1, name: 'Prose and drama', slug: 'prose-and-drama-9275', subtopics: [
+        { number: '3.1.1', name: 'Prose fiction', slug: 'prose-fiction-9275' },
+        { number: '3.1.2', name: 'Drama', slug: 'drama-9275' },
       ] },
-      { number: 2, name: 'Poetry and Unseen Texts', slug: 'poetry-and-unseen-texts-9275', subtopics: [
-        { number: '2.1', name: 'Poetry', slug: 'poetry-9275' },
-        { number: '2.2', name: 'Unseen Poetry', slug: 'unseen-poetry-9275' },
-        { number: '2.3', name: 'Unseen Prose', slug: 'unseen-prose-9275' },
+      { number: 2, name: 'Route A: Poetry and unseen texts', slug: 'poetry-and-unseen-texts-9275', subtopics: [
+        { number: '3.2.1', name: 'Poetry', slug: 'poetry-9275' },
+        { number: '3.2.2', name: 'Unseen poetry', slug: 'unseen-poetry-9275' },
+        { number: '3.2.3', name: 'Unseen Prose', slug: 'unseen-prose-9275' },
+      ] },
+      { number: 3, name: 'Route B: Poetry and non-exam assessment', slug: 'route-b-poetry-and-non-exam-assessment-9275', subtopics: [
+        { number: '3.3.1', name: 'Poetry', slug: 'poetry-route-b-9275' },
+        { number: '3.3.2', name: 'Unseen poetry', slug: 'unseen-poetry-route-b-9275' },
+        { number: '3.3.3', name: 'Non-exam assessment', slug: 'non-exam-assessment-route-b-9275' },
       ] },
     ],
   },
   {
     boardSlug: 'oxfordaqa', qualificationSlug: 'a-level', subjectSlug: 'english-literature',
     syllabusCode: '9675', syllabusSeries: 'Version 5.3, for International AS exams from May/June 2018, A-level from May/June 2019',
-    effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
+    effectiveFrom: '2018', effectiveTo: '2028', status: 'current',
     tiered: false,
     source: 'OxfordAQA — official International AS and A-level English Literature (9675) specification PDF',
     sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-a-level-english-literature-specification.pdf', verifiedDate: '2026-09-16',
-    notes: 'International AS = Unit 1 and Unit 2; the full International A-level adds Unit 3 and Unit 4. Unit 1 and Unit 2 sub-sections and set-text lists fetched and verified 2026-09-02 directly from the full specification PDF, Version 4.1 (pages 11-14): Unit 1 splits into Section A (Elizabethan and Jacobean tragedy, passage-based) and Section B (later dramatic tragedies, essay); Unit 2 splits into Section A (prose) and Section B (poetry). Units 3 and 4 (International A-level only) remain topic-name-only pending the same fetch for their content. D-240 (I361): re-checked against Version 5.3 (copyright 2025, 26 pp.), linked from the OxfordAQA qualification page and read to its copyright block 2026-09-16; Units 1 and 2 are on pages 11-13 there, and every section and set text listed above appears unchanged.',
+    notes: 'Version 5.3 is taught out: OxfordAQA\'s qualification page gives its final AS exams as May/June 2027 and its final A2 exams as May/June 2028 (final resit opportunity November 2028), and a revised specification (Version 5.6) is published for teaching from 2027, first AS exams May/June 2028. International AS = Unit 1 and Unit 2; the full International A-level adds Unit 3 and Unit 4. Unit 1 and Unit 2 sub-sections and set-text lists fetched and verified 2026-09-02 directly from the full specification PDF, Version 4.1 (pages 11-14): Unit 1 splits into Section A (Elizabethan and Jacobean tragedy, passage-based) and Section B (later dramatic tragedies, essay); Unit 2 splits into Section A (prose) and Section B (poetry). Units 3 and 4 (International A-level only) remain topic-name-only pending the same fetch for their content. D-240 (I361): re-checked against Version 5.3 (copyright 2025, 26 pp.), linked from the OxfordAQA qualification page and read to its copyright block 2026-09-16; Units 1 and 2 are on pages 11-13 there, and every section and set text listed above appears unchanged.',
     topics: [
       { number: 1, name: 'Unit 1 – Aspects of Dramatic Tragedy', slug: 'unit-1-aspects-of-dramatic-tragedy-9675', stage: 'AS', subtopics: [
-        { number: '1.A', name: 'Section A: Elizabethan and Jacobean Tragedy (passage-based) — choice of Othello, King Lear, Hamlet, Doctor Faustus (B text), The Duchess of Malfi', slug: 'unit-1-section-a-9675' },
-        { number: '1.B', name: 'Section B: Later Dramatic Tragedies (essay) — choice of Death of a Salesman, A Streetcar Named Desire, Hedda Gabler, Waiting for Godot, Translations', slug: 'unit-1-section-b-9675' },
+        { number: '', name: 'Section A: Elizabethan and Jacobean Tragedy (passage-based) — choice of Othello, King Lear, Hamlet, Doctor Faustus (B text), The Duchess of Malfi', slug: 'unit-1-section-a-9675' },
+        { number: '', name: 'Section B: Later Dramatic Tragedies (essay) — choice of Death of a Salesman, A Streetcar Named Desire, Hedda Gabler, Waiting for Godot, Translations', slug: 'unit-1-section-b-9675' },
       ] },
       { number: 2, name: 'Unit 2 – Place in Literary Texts', slug: 'unit-2-place-in-literary-texts-9675', stage: 'AS', subtopics: [
-        { number: '2.A', name: 'Section A: Prose — choice of Heart of Darkness, The Great Gatsby, Americanah, Small Island, Last Man in Tower, Remains of the Day', slug: 'unit-2-section-a-9675' },
-        { number: '2.B', name: 'Section B: Poetry — choice of Wordsworth, Robert Frost, Thomas Hardy or Seamus Heaney selections', slug: 'unit-2-section-b-9675' },
+        { number: '', name: 'Section A: Prose — choice of Heart of Darkness, The Great Gatsby, Americanah, Small Island, Last Man in Tower, Remains of the Day', slug: 'unit-2-section-a-9675' },
+        { number: '', name: 'Section B: Poetry — choice of Wordsworth, Robert Frost, Thomas Hardy or Seamus Heaney selections', slug: 'unit-2-section-b-9675' },
       ] },
       { number: 3, name: 'Unit 3 – Elements of Crime and Mystery', slug: 'unit-3-elements-of-crime-and-mystery-9675', stage: 'A', subtopics: [] },
       { number: 4, name: 'Unit 4 – Literary Representations', slug: 'unit-4-literary-representations-9675', stage: 'A', subtopics: [] },
@@ -3343,26 +3616,46 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/634461-2024-2026-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'AS Level covers four core approaches, each built around named core studies (12 in total across the four approaches — individual study titles are not itemised here), assessed via Paper 1 Approaches, Issues and Debates and Paper 2 Research Methods. A Level adds 2 of 4 specialist options, assessed via Paper 3 and Paper 4.',
+    notes: 'Rebuilt 2026-09-17 (round 43, E939 (2)) from section 3 Subject content of the 2024-2026 syllabus (Version 1; 62 pages, read to the Cambridge address block). AS Level content (3.1): the 12 compulsory core studies of 3.1.1, grouped in the syllabus under four unnumbered approaches (Biological, Cognitive, Learning, Social; three studies each, named in the syllabus), and 3.1.2 Research methodology (research methods and methodological concepts); the AS issues and debates apply across the core studies and are not a separate topic. A Level content (3.2): the four specialist options, of which candidates study two, with each option\'s five numbered topics as the syllabus numbers them (1.1-1.5 Clinical, 2.1-2.5 Consumer, 3.1-3.5 Health, 4.1-4.5 Organisational). The syllabus numbers neither the approaches nor the research-methodology headings, so those carry no number here. Papers 1-4 are assessment components, not content, and are not listed as topics. Topic slugs paper-1-approaches-issues-and-debates-9990, paper-2-research-methods-9990 and paper-3-specialist-options-1-9990 are older slugs kept because resources link them.',
+    subtopicsComplete: true,
     topics: [
-      { number: 1, name: 'Paper 1 – Approaches, Issues and Debates', slug: 'paper-1-approaches-issues-and-debates-9990', stage: 'AS', subtopics: [
-        { number: '1.1', name: 'The Biological Approach', slug: 'biological-approach-9990' },
-        { number: '1.2', name: 'The Cognitive Approach', slug: 'cognitive-approach-9990' },
-        { number: '1.3', name: 'The Learning Approach', slug: 'learning-approach-9990' },
-        { number: '1.4', name: 'The Social Approach', slug: 'social-approach-9990' },
+      { number: 1, name: 'The core studies', slug: 'paper-1-approaches-issues-and-debates-9990', stage: 'AS', subtopics: [
+        { number: '', name: 'Biological approach', slug: 'biological-approach-9990' },
+        { number: '', name: 'Cognitive approach', slug: 'cognitive-approach-9990' },
+        { number: '', name: 'Learning approach', slug: 'learning-approach-9990' },
+        { number: '', name: 'Social approach', slug: 'social-approach-9990' },
       ] },
-      { number: 2, name: 'Paper 2 – Research Methods', slug: 'paper-2-research-methods-9990', stage: 'AS', subtopics: [] },
-      { number: 3, name: 'Paper 3 – Specialist Options: Approaches, Issues and Debates', slug: 'paper-3-specialist-options-1-9990', stage: 'A', subtopics: [
-        { number: '3.1', name: 'Clinical Psychology', slug: 'clinical-psychology-9990' },
-        { number: '3.2', name: 'Consumer Psychology', slug: 'consumer-psychology-9990' },
-        { number: '3.3', name: 'Health Psychology', slug: 'health-psychology-9990' },
-        { number: '3.4', name: 'Organisational Psychology', slug: 'organisational-psychology-9990' },
+      { number: 2, name: 'Research methodology', slug: 'paper-2-research-methods-9990', stage: 'AS', subtopics: [
+        { number: '', name: 'Research methods', slug: 'research-methods-as-9990' },
+        { number: '', name: 'Methodological concepts', slug: 'methodological-concepts-as-9990' },
       ] },
-      { number: 4, name: 'Paper 4 – Specialist Options: Application and Research Methods', slug: 'paper-4-specialist-options-2-9990', stage: 'A', subtopics: [
-        { number: '4.1', name: 'Clinical Psychology', slug: 'clinical-psychology-paper4-9990' },
-        { number: '4.2', name: 'Consumer Psychology', slug: 'consumer-psychology-paper4-9990' },
-        { number: '4.3', name: 'Health Psychology', slug: 'health-psychology-paper4-9990' },
-        { number: '4.4', name: 'Organisational Psychology', slug: 'organisational-psychology-paper4-9990' },
+      { number: 3, name: 'Specialist Option 1: Clinical Psychology', slug: 'paper-3-specialist-options-1-9990', stage: 'A', subtopics: [
+        { number: '1.1', name: 'Schizophrenia', slug: 'schizophrenia-9990' },
+        { number: '1.2', name: 'Mood (affective) disorders: depressive disorder (unipolar) and bipolar disorder', slug: 'mood-affective-disorders-depressive-disorder-unipolar-and-bipolar-disorder-9990' },
+        { number: '1.3', name: 'Impulse control disorders', slug: 'impulse-control-disorders-9990' },
+        { number: '1.4', name: 'Anxiety disorders and fear-related disorders', slug: 'anxiety-disorders-and-fear-related-disorders-9990' },
+        { number: '1.5', name: 'Obsessive-compulsive disorder (OCD)', slug: 'obsessive-compulsive-disorder-ocd-9990' },
+      ] },
+      { number: 4, name: 'Specialist Option 2: Consumer Psychology', slug: 'consumer-psychology-9990', stage: 'A', subtopics: [
+        { number: '2.1', name: 'The physical environment', slug: 'the-physical-environment-9990' },
+        { number: '2.2', name: 'The psychological environment', slug: 'the-psychological-environment-9990' },
+        { number: '2.3', name: 'Consumer decision-making', slug: 'consumer-decision-making-9990' },
+        { number: '2.4', name: 'The product', slug: 'the-product-9990' },
+        { number: '2.5', name: 'Advertising', slug: 'advertising-9990' },
+      ] },
+      { number: 5, name: 'Specialist Option 3: Health Psychology', slug: 'health-psychology-9990', stage: 'A', subtopics: [
+        { number: '3.1', name: 'The patient–practitioner relationship', slug: 'the-patientpractitioner-relationship-9990' },
+        { number: '3.2', name: 'Adherence to medical advice', slug: 'adherence-to-medical-advice-9990' },
+        { number: '3.3', name: 'Pain', slug: 'pain-9990' },
+        { number: '3.4', name: 'Stress', slug: 'stress-9990' },
+        { number: '3.5', name: 'Health promotion', slug: 'health-promotion-9990' },
+      ] },
+      { number: 6, name: 'Specialist Option 4: Organisational Psychology', slug: 'organisational-psychology-9990', stage: 'A', subtopics: [
+        { number: '4.1', name: 'Motivation to work', slug: 'motivation-to-work-9990' },
+        { number: '4.2', name: 'Leadership and management', slug: 'leadership-and-management-9990' },
+        { number: '4.3', name: 'Group behaviour in organisations', slug: 'group-behaviour-in-organisations-9990' },
+        { number: '4.4', name: 'Organisational work conditions', slug: 'organisational-work-conditions-9990' },
+        { number: '4.5', name: 'Satisfaction at work', slug: 'satisfaction-at-work-9990' },
       ] },
     ],
   },
@@ -3516,24 +3809,31 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA — official specification pages',
     sourceUrl: 'https://www.aqa.org.uk/subjects/psychology/a-level/psychology-7182/specification', verifiedDate: '2026-08-19',
-    notes: "A-level (7182) topics as set out in the specification Version 1.4 (1 September 2025; teaching from September 2025, A-level exams from June 2027). AS (7181) and A-level are separate linear qualifications with separate papers: the A-level Paper 1 assesses Social influence, Memory, Attachment and Clinical Psychology and Mental Health (2 hours, 96 marks, four sections); Paper 2 assesses Approaches, Biopsychology and Research methods; Paper 3 assesses Issues and debates plus one option from each of three groups. Sub-topic 1.2 (Memory) in Version 1.4 has four bullets -- the multi-store model, the working memory model, explanations for forgetting, and eyewitness testimony; types of long-term memory is no longer specification content. Re-verified against the Version 1.4 PDF on 2026-09-15 (D-228).",
+    notes: 'Linear A-level; AS Psychology (7181) is a separate qualification with its own papers. Rebuilt 2026-09-17 (round 43, E939 (11)) from the A-level subject content on the aqa.org.uk specification pages (3.1 Introductory topics in Psychology: 3.1.1-3.1.4; 3.2 Psychology in context: 3.2.1-3.2.3; 3.3 Issues and options in Psychology: 3.3.1-3.3.10), checked against the specification PDF those pages link (Version 1.4, 1 September 2025, for teaching from September 2025; 38 pages, read to the AQA registered-address block), whose A-level specification at a glance lists the same seventeen content areas. Paper 1 assesses 3.1 and Paper 2 assesses 3.2. Paper 3 assesses 3.3.1 and one topic from each of three options: option 1 (3.3.2 Relationships, 3.3.3 Gender, 3.3.4 Cognition and development), option 2 (3.3.5 Schizophrenia, 3.3.6 Eating behaviour, 3.3.7 Stress) and option 3 (3.3.8 Aggression, 3.3.9 Forensic Psychology, 3.3.10 Addiction). Research methods (3.2.3) has three numbered parts, 3.2.3.1 Scientific processes, 3.2.3.2 Data handling and analysis and 3.2.3.3 Inferential testing, not listed separately here. In Version 1.4, 3.1.2 Memory covers the multi-store model, the working memory model, explanations for forgetting and eyewitness testimony; types of long-term memory is no longer specification content.',
+    subtopicsComplete: true,
     topics: [
-      { number: 1, name: 'Paper 1 – Introductory Topics in Psychology', slug: 'paper-1-introductory-topics-7182', subtopics: [
-        { number: '1.1', name: 'Social Influence', slug: 'social-influence-7182' },
-        { number: '1.2', name: 'Memory', slug: 'memory-7182' },
-        { number: '1.3', name: 'Attachment', slug: 'attachment-7182' },
-        { number: '1.4', name: 'Clinical Psychology and Mental Health', slug: 'clinical-psychology-and-mental-health-7182' },
+      { number: 1, name: 'Introductory topics in Psychology', slug: 'paper-1-introductory-topics-7182', subtopics: [
+        { number: '3.1.1', name: 'Social influence', slug: 'social-influence-7182' },
+        { number: '3.1.2', name: 'Memory', slug: 'memory-7182' },
+        { number: '3.1.3', name: 'Attachment', slug: 'attachment-7182' },
+        { number: '3.1.4', name: 'Clinical Psychology and Mental Health', slug: 'clinical-psychology-and-mental-health-7182' },
       ] },
-      { number: 2, name: 'Paper 2 – Psychology in Context', slug: 'paper-2-psychology-in-context-7182', subtopics: [
-        { number: '2.1', name: 'Approaches in Psychology', slug: 'approaches-in-psychology-7182' },
-        { number: '2.2', name: 'Biopsychology', slug: 'biopsychology-7182' },
-        { number: '2.3', name: 'Research Methods', slug: 'research-methods-7182' },
+      { number: 2, name: 'Psychology in context', slug: 'paper-2-psychology-in-context-7182', subtopics: [
+        { number: '3.2.1', name: 'Approaches in Psychology', slug: 'approaches-in-psychology-7182' },
+        { number: '3.2.2', name: 'Biopsychology', slug: 'biopsychology-7182' },
+        { number: '3.2.3', name: 'Research methods', slug: 'research-methods-7182' },
       ] },
-      { number: 3, name: 'Paper 3 – Issues, Debates and Options', slug: 'paper-3-issues-debates-options-7182', stage: 'A', subtopics: [
-        { number: '3.1', name: 'Issues and Debates in Psychology', slug: 'issues-and-debates-7182' },
-        { number: '3.2', name: 'Options: Relationships / Gender / Cognition and Development', slug: 'options-group-1-7182' },
-        { number: '3.3', name: 'Options: Schizophrenia / Eating Behaviour / Stress', slug: 'options-group-2-7182' },
-        { number: '3.4', name: 'Options: Aggression / Forensic Psychology / Addiction', slug: 'options-group-3-7182' },
+      { number: 3, name: 'Issues and options in Psychology', slug: 'paper-3-issues-debates-options-7182', subtopics: [
+        { number: '3.3.1', name: 'Issues and debates in Psychology', slug: 'issues-and-debates-7182' },
+        { number: '3.3.2', name: 'Relationships', slug: 'relationships-7182' },
+        { number: '3.3.3', name: 'Gender', slug: 'gender-7182' },
+        { number: '3.3.4', name: 'Cognition and development', slug: 'cognition-and-development-7182' },
+        { number: '3.3.5', name: 'Schizophrenia', slug: 'schizophrenia-7182' },
+        { number: '3.3.6', name: 'Eating behaviour', slug: 'eating-behaviour-7182' },
+        { number: '3.3.7', name: 'Stress', slug: 'stress-7182' },
+        { number: '3.3.8', name: 'Aggression', slug: 'aggression-7182' },
+        { number: '3.3.9', name: 'Forensic Psychology', slug: 'forensic-psychology-7182' },
+        { number: '3.3.10', name: 'Addiction', slug: 'addiction-7182' },
       ] },
     ],
   },
@@ -3544,18 +3844,47 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA — official specification pages',
     sourceUrl: 'https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/subject-content', verifiedDate: '2026-08-19',
-    notes: 'Seven named content areas (3.1-3.7) are grouped into two equally-weighted components: Paper 1 "The sociology of families and education" and Paper 2 "The sociology of crime and deviance and social stratification". Both papers assess "relevant areas of social theory and methodology", so 3.1 The sociological approach, 3.2 Social structures, social processes and social issues and 3.7 Sociological research methods are represented once here under Paper 1 with a note rather than duplicated. Subtopic numbers are the specification\'s own section numbers (3.1-3.7), read from the specification PDF Version 1.1, 14 October 2021, on 2026-09-17.',
+    notes: 'Untiered. Rebuilt 2026-09-17 (round 43, E939 (11)) from section 3 Subject content, read on the aqa.org.uk subject-content pages and in the current specification PDF (Version 1.2, June 2026; 56 pages, read to the AQA registered-address block): the seven content sections 3.1-3.7 in the specification\'s order, with the numbered sub-sections of 3.3 Families, 3.4 Education, 3.5 Crime and deviance and 3.6 Social stratification. 3.1 and 3.2 have no sub-sections; the entries under 3.7 are its content-table row headings, which the specification does not number. Paper 1 (The sociology of families and education) assesses families and education, and Paper 2 (The sociology of crime and deviance and social stratification) crime and deviance and social stratification; both also assess relevant areas of social theory and methodology. Older slugs kept because resources link them: paper-1-families-and-education-8192 now belongs to 3.3, paper-2-crime-and-stratification-8192 to 3.5 and sociological-research-methods-8192 to the first 3.7 row.',
+    subtopicsComplete: true,
     topics: [
-      { number: 1, name: 'Paper 1 – The Sociology of Families and Education', slug: 'paper-1-families-and-education-8192', subtopics: [
-        { number: '3.1', name: 'The sociological approach (drawn on in both papers)', slug: 'the-sociological-approach-8192' },
-        { number: '3.2', name: 'Social structures, social processes and social issues (drawn on in both papers)', slug: 'social-structures-processes-issues-8192' },
-        { number: '3.3', name: 'Families', slug: 'families-8192' },
-        { number: '3.4', name: 'Education', slug: 'education-8192' },
-        { number: '3.7', name: 'Sociological research methods (examined across both papers)', slug: 'sociological-research-methods-8192' },
+      { number: 1, name: 'The sociological approach', slug: 'the-sociological-approach-8192', subtopics: [] },
+      { number: 2, name: 'Social structures, social processes and social issues', slug: 'social-structures-processes-issues-8192', subtopics: [] },
+      { number: 3, name: 'Families', slug: 'paper-1-families-and-education-8192', subtopics: [
+        { number: '3.3.1', name: 'Functions of families', slug: 'functions-of-families-8192' },
+        { number: '3.3.2', name: 'Family forms', slug: 'family-forms-8192' },
+        { number: '3.3.3', name: 'Conjugal role relationships', slug: 'conjugal-role-relationships-8192' },
+        { number: '3.3.4', name: 'Changing relationships within families', slug: 'changing-relationships-within-families-8192' },
+        { number: '3.3.5', name: 'Criticisms of families', slug: 'criticisms-of-families-8192' },
+        { number: '3.3.6', name: 'Divorce', slug: 'divorce-8192' },
       ] },
-      { number: 2, name: 'Paper 2 – The Sociology of Crime and Deviance and Social Stratification', slug: 'paper-2-crime-and-stratification-8192', subtopics: [
-        { number: '3.5', name: 'Crime and deviance', slug: 'crime-and-deviance-8192' },
-        { number: '3.6', name: 'Social stratification', slug: 'social-stratification-8192' },
+      { number: 4, name: 'Education', slug: 'education-8192', subtopics: [
+        { number: '3.4.1', name: 'Roles and functions of education', slug: 'roles-and-functions-of-education-8192' },
+        { number: '3.4.2', name: 'The relationship between education and capitalism', slug: 'the-relationship-between-education-and-capitalism-8192' },
+        { number: '3.4.3', name: 'Educational achievement', slug: 'educational-achievement-8192' },
+        { number: '3.4.4', name: 'Processes within schools', slug: 'processes-within-schools-8192' },
+      ] },
+      { number: 5, name: 'Crime and deviance', slug: 'paper-2-crime-and-stratification-8192', subtopics: [
+        { number: '3.5.1', name: 'The social construction of crime and deviance', slug: 'the-social-construction-of-crime-and-deviance-8192' },
+        { number: '3.5.2', name: 'Social control', slug: 'social-control-8192' },
+        { number: '3.5.3', name: 'Criminal and deviant behaviour', slug: 'criminal-and-deviant-behaviour-8192' },
+        { number: '3.5.4', name: 'Data on crime', slug: 'data-on-crime-8192' },
+      ] },
+      { number: 6, name: 'Social stratification', slug: 'social-stratification-8192', subtopics: [
+        { number: '3.6.1', name: 'Functionalist theory of stratification', slug: 'functionalist-theory-of-stratification-8192' },
+        { number: '3.6.2', name: 'Socio-economic class', slug: 'socio-economic-class-8192' },
+        { number: '3.6.3', name: 'Life chances', slug: 'life-chances-8192' },
+        { number: '3.6.4', name: 'Poverty as a social issue', slug: 'poverty-as-a-social-issue-8192' },
+        { number: '3.6.5', name: 'Power and authority', slug: 'power-and-authority-8192' },
+        { number: '3.6.6', name: 'Power relationships', slug: 'power-relationships-8192' },
+      ] },
+      { number: 7, name: 'Sociological research methods', slug: 'sociological-research-methods-topic-8192', subtopics: [
+        { number: '', name: 'Research design', slug: 'sociological-research-methods-8192' },
+        { number: '', name: 'Qualitative and quantitative methods', slug: 'qualitative-and-quantitative-methods-8192' },
+        { number: '', name: 'Different types of data', slug: 'different-types-of-data-8192' },
+        { number: '', name: 'Primary and secondary sources', slug: 'primary-and-secondary-sources-8192' },
+        { number: '', name: 'Interpretation of data', slug: 'interpretation-of-data-8192' },
+        { number: '', name: 'Practical issues', slug: 'practical-issues-8192' },
+        { number: '', name: 'Ethical issues', slug: 'ethical-issues-8192' },
       ] },
     ],
   },
@@ -3589,7 +3918,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'OxfordAQA — official specification PDF',
     sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-a-level-psychology-specification.pdf', verifiedDate: '2026-09-17',
-    notes: 'First teaching September 2018; first AS exams May/June 2019; first A-level exams May/June 2020. International AS content is Unit 1 and Unit 2; A2 adds Unit 3 and Unit 4 (Unit 4 is synoptic). AS content is 50% of A-level content but contributes 40% of final marks; units are resittable. Unit 2 (Biopsychology, Development and Research Methods 1) subtopics 3.2.1-3.2.3 reproduce the specification\'s own sub-headings and content bullets, fetched and verified 2026-09-02 from the full specification PDF, Version 3.1 (oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-a-level-psychology-specification.pdf).',
+    notes: 'First teaching September 2018; first AS exams May/June 2019; first A-level exams May/June 2020. International AS content is Unit 1 and Unit 2; A2 adds Unit 3 and Unit 4 (Unit 4 is synoptic). AS content is 50% of A-level content but contributes 40% of final marks; units are resittable. Unit 2 (Biopsychology, Development and Research Methods 1) subtopics 3.2.1-3.2.3 reproduce the specification\'s own sub-headings and content bullets, fetched and verified 2026-09-02 from the full specification PDF, Version 3.1 (oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-a-level-psychology-specification.pdf). That file still opens, but the OxfordAQA qualification page no longer links it: on 2026-09-17 the page linked a specification file marked Version 2.2 (copyright 2019), whose Unit 2 sub-headings 3.2.1-3.2.3 are the same.',
     topics: [
       { number: 1, name: 'Unit 1 – Introductory Topics in Psychology', slug: 'unit-1-introductory-topics-9685', stage: 'AS', subtopics: [
         { number: '3.1.1', name: 'Memory', slug: 'memory-9685' },
@@ -3686,17 +4015,28 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA — official specification pages',
     sourceUrl: 'https://www.aqa.org.uk/subjects/sociology/a-level/sociology-7192/specification', verifiedDate: '2026-08-19',
-    notes: 'Three components: Education with Theory and Methods, Topics in Sociology (two options selected from two groups), and Crime and Deviance with Theory and Methods. Assessment uses short-answer and extended-essay questions, including a "methods in context" question. AS (7191) and A-level are co-teachable within the first year of study. Topic 1 (3.1.1 Education) content -- the four content bullets on role/functions, differential achievement, in-school relationships and processes, and educational policies -- verified directly against the current AQA-hosted specification PDF (linked from the live aqa.org.uk subject-content page, cdn.sanity.io), fetched and verified 2026-09-02.',
+    notes: 'Linear A-level; AS Sociology (7191) is a separate, co-teachable qualification. Rebuilt 2026-09-17 (round 43, E939 (11)) from the A-level subject content on the aqa.org.uk specification pages (3.1 Education with Theory and Methods: 3.1.1-3.1.3; 3.2 Topics in Sociology: 3.2.1-3.2.8; 3.3 Crime and Deviance with Theory and Methods: 3.3.1-3.3.2), checked against the specification PDF those pages link (Version 1.2, 14 October 2021; 30 pages, read to the AQA registered-address block), which prints the same A-level content as section 4 (4.1-4.3). Paper 1 assesses 3.1 and Paper 3 assesses 3.3. Paper 2 assesses two of the eight topics in 3.2: one from option 1 (3.2.1-3.2.4) in Section A and one from option 2 (3.2.5-3.2.8) in Section B.',
+    subtopicsComplete: true,
     topics: [
-      { number: 1, name: 'Paper 1 – Education with Theory and Methods', slug: 'paper-1-education-theory-methods-7192', subtopics: [
+      { number: 1, name: 'Education with Theory and Methods', slug: 'paper-1-education-theory-methods-7192', subtopics: [
         { number: '3.1.1', name: 'Education', slug: 'education-7192' },
         { number: '3.1.2', name: 'Methods in Context', slug: 'methods-in-context-7192' },
+        { number: '3.1.3', name: 'Theory and Methods', slug: 'theory-and-methods-3-1-3-7192' },
       ] },
-      { number: 2, name: 'Paper 2 – Topics in Sociology', slug: 'paper-2-topics-in-sociology-7192', subtopics: [
-        { number: '2.1', name: 'Option 1: Culture and Identity / Families and Households / Health / Work, Poverty and Welfare', slug: 'option-1-group-7192' },
-        { number: '2.2', name: 'Option 2: Beliefs in Society / Global Development / The Media / Stratification and Differentiation', slug: 'option-2-group-7192' },
+      { number: 2, name: 'Topics in Sociology', slug: 'paper-2-topics-in-sociology-7192', subtopics: [
+        { number: '3.2.1', name: 'Culture and Identity', slug: 'culture-and-identity-7192' },
+        { number: '3.2.2', name: 'Families and Households', slug: 'families-and-households-7192' },
+        { number: '3.2.3', name: 'Health', slug: 'health-7192' },
+        { number: '3.2.4', name: 'Work, Poverty and Welfare', slug: 'work-poverty-and-welfare-7192' },
+        { number: '3.2.5', name: 'Beliefs in Society', slug: 'beliefs-in-society-7192' },
+        { number: '3.2.6', name: 'Global Development', slug: 'global-development-7192' },
+        { number: '3.2.7', name: 'The Media', slug: 'the-media-7192' },
+        { number: '3.2.8', name: 'Stratification and Differentiation', slug: 'stratification-and-differentiation-7192' },
       ] },
-      { number: 3, name: 'Paper 3 – Crime and Deviance with Theory and Methods', slug: 'paper-3-crime-deviance-theory-methods-7192', subtopics: [] },
+      { number: 3, name: 'Crime and Deviance with Theory and Methods', slug: 'paper-3-crime-deviance-theory-methods-7192', subtopics: [
+        { number: '3.3.1', name: 'Crime and Deviance', slug: 'crime-and-deviance-7192' },
+        { number: '3.3.2', name: 'Theory and Methods', slug: 'theory-and-methods-3-3-2-7192' },
+      ] },
     ],
   },
   {
@@ -3778,20 +4118,93 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/664556-2025-2026-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'AS Level (Paper 1 + Paper 2) is 50% of the AS award / 25% of the full A Level each; A Level adds Paper 3 and Paper 4 (25% each), where candidates answer on 2 of the optional topics offered within each paper. The named options within Papers 3 and 4 are not itemised here. Paper 1 subtopics (its three compulsory topics: Hydrology and fluvial geomorphology; Atmosphere and weather; Rocks and weathering) reproduce the full specification PDF\'s own subject-content chapter, fetched and verified 2026-08-21. Paper 2 subtopics (its three compulsory topics: Population; Migration; Settlement dynamics) reproduce the same PDF\'s subject-content chapter, fetched and verified 2026-09-02.',
+    notes: 'Rebuilt 2026-09-17 (round 43, E939 (1)) from section 3 Syllabus content of the 2025-2026 syllabus (Version 1, published September 2022; 40 pages, read to the Cambridge address block): the fourteen numbered syllabus topics and their 56 numbered subtopics, with the syllabus\'s own numbers. Topics 1-3 are Paper 1 Core Physical Geography and topics 4-6 Paper 2 Core Human Geography (AS Level; all compulsory). Topics 7-10 are the Paper 3 Advanced Physical Geography Options and topics 11-14 the Paper 4 Advanced Human Geography Options (A Level); candidates study two options on each paper. The papers themselves are assessment components, not content, and are not listed as topics. Topic slugs paper-1-core-physical-geography-9696, paper-2-core-human-geography-9696 and paper-3-advanced-physical-geography-options-9696 are older slugs kept because resources link them; they now belong to topics 1, 4 and 8.',
+    subtopicsComplete: true,
     topics: [
-      { number: 1, name: 'Paper 1 – Core Physical Geography', slug: 'paper-1-core-physical-geography-9696', stage: 'AS', subtopics: [
-        { number: '1', name: 'Hydrology and fluvial geomorphology', slug: 'hydrology-and-fluvial-geomorphology-9696' },
-        { number: '2', name: 'Atmosphere and weather', slug: 'atmosphere-and-weather-9696' },
-        { number: '3', name: 'Rocks and weathering', slug: 'rocks-and-weathering-9696' },
+      { number: 1, name: 'Hydrology and fluvial geomorphology', slug: 'paper-1-core-physical-geography-9696', stage: 'AS', subtopics: [
+        { number: '1.1', name: 'The drainage basin system', slug: 'the-drainage-basin-system-9696' },
+        { number: '1.2', name: 'Discharge relationships within drainage basins', slug: 'discharge-relationships-within-drainage-basins-9696' },
+        { number: '1.3', name: 'River channel processes and landforms', slug: 'river-channel-processes-and-landforms-9696' },
+        { number: '1.4', name: 'The human impact', slug: 'the-human-impact-1-4-9696' },
       ] },
-      { number: 2, name: 'Paper 2 – Core Human Geography', slug: 'paper-2-core-human-geography-9696', stage: 'AS', subtopics: [
-        { number: '4', name: 'Population', slug: 'population-9696' },
-        { number: '5', name: 'Migration', slug: 'migration-9696' },
-        { number: '6', name: 'Settlement dynamics', slug: 'settlement-dynamics-9696' },
+      { number: 2, name: 'Atmosphere and weather', slug: 'atmosphere-and-weather-9696', stage: 'AS', subtopics: [
+        { number: '2.1', name: 'Diurnal energy budgets', slug: 'diurnal-energy-budgets-9696' },
+        { number: '2.2', name: 'The global energy budget', slug: 'the-global-energy-budget-9696' },
+        { number: '2.3', name: 'Weather processes and phenomena', slug: 'weather-processes-and-phenomena-9696' },
+        { number: '2.4', name: 'The human impact', slug: 'the-human-impact-2-4-9696' },
       ] },
-      { number: 3, name: 'Paper 3 – Advanced Physical Geography Options', slug: 'paper-3-advanced-physical-geography-options-9696', stage: 'A', subtopics: [] },
-      { number: 4, name: 'Paper 4 – Advanced Human Geography Options', slug: 'paper-4-advanced-human-geography-options-9696', stage: 'A', subtopics: [] },
+      { number: 3, name: 'Rocks and weathering', slug: 'rocks-and-weathering-9696', stage: 'AS', subtopics: [
+        { number: '3.1', name: 'Plate tectonics', slug: 'plate-tectonics-9696' },
+        { number: '3.2', name: 'Weathering', slug: 'weathering-9696' },
+        { number: '3.3', name: 'Slope processes', slug: 'slope-processes-9696' },
+        { number: '3.4', name: 'The human impact', slug: 'the-human-impact-3-4-9696' },
+      ] },
+      { number: 4, name: 'Population', slug: 'paper-2-core-human-geography-9696', stage: 'AS', subtopics: [
+        { number: '4.1', name: 'Natural increase as a component of population change', slug: 'natural-increase-as-a-component-of-population-change-9696' },
+        { number: '4.2', name: 'Demographic transition', slug: 'demographic-transition-9696' },
+        { number: '4.3', name: 'Population–resource relationships', slug: 'populationresource-relationships-9696' },
+        { number: '4.4', name: 'The management of natural increase', slug: 'the-management-of-natural-increase-9696' },
+      ] },
+      { number: 5, name: 'Migration', slug: 'migration-9696', stage: 'AS', subtopics: [
+        { number: '5.1', name: 'Migration as a component of population change', slug: 'migration-as-a-component-of-population-change-9696' },
+        { number: '5.2', name: 'Internal migration (within a country)', slug: 'internal-migration-within-a-country-9696' },
+        { number: '5.3', name: 'International migration', slug: 'international-migration-9696' },
+        { number: '5.4', name: 'The management of international migration', slug: 'the-management-of-international-migration-9696' },
+      ] },
+      { number: 6, name: 'Settlement dynamics', slug: 'settlement-dynamics-9696', stage: 'AS', subtopics: [
+        { number: '6.1', name: 'Changes in rural settlements', slug: 'changes-in-rural-settlements-9696' },
+        { number: '6.2', name: 'Urban trends and issues of urbanisation', slug: 'urban-trends-and-issues-of-urbanisation-9696' },
+        { number: '6.3', name: 'The changing structure of urban settlements', slug: 'the-changing-structure-of-urban-settlements-9696' },
+        { number: '6.4', name: 'The management of urban settlements', slug: 'the-management-of-urban-settlements-9696' },
+      ] },
+      { number: 7, name: 'Tropical environments', slug: 'tropical-environments-9696', stage: 'A', subtopics: [
+        { number: '7.1', name: 'Tropical climates', slug: 'tropical-climates-9696' },
+        { number: '7.2', name: 'Landforms of tropical environments', slug: 'landforms-of-tropical-environments-9696' },
+        { number: '7.3', name: 'Humid tropical (rainforest) ecosystems and seasonally humid tropical (savanna) ecosystems', slug: 'humid-tropical-rainforest-ecosystems-and-seasonally-humid-tropical-savanna-ecosystems-9696' },
+        { number: '7.4', name: 'Sustainable management of tropical environments', slug: 'sustainable-management-of-tropical-environments-9696' },
+      ] },
+      { number: 8, name: 'Coastal environments', slug: 'paper-3-advanced-physical-geography-options-9696', stage: 'A', subtopics: [
+        { number: '8.1', name: 'Coastal processes', slug: 'coastal-processes-9696' },
+        { number: '8.2', name: 'Characteristics and formation of coastal landforms', slug: 'characteristics-and-formation-of-coastal-landforms-9696' },
+        { number: '8.3', name: 'Coral reefs', slug: 'coral-reefs-9696' },
+        { number: '8.4', name: 'Sustainable management of coasts', slug: 'sustainable-management-of-coasts-9696' },
+      ] },
+      { number: 9, name: 'Hazardous environments', slug: 'hazardous-environments-9696', stage: 'A', subtopics: [
+        { number: '9.1', name: 'Hazards resulting from tectonic processes', slug: 'hazards-resulting-from-tectonic-processes-9696' },
+        { number: '9.2', name: 'Hazards resulting from mass movements', slug: 'hazards-resulting-from-mass-movements-9696' },
+        { number: '9.3', name: 'Hazards resulting from atmospheric disturbances', slug: 'hazards-resulting-from-atmospheric-disturbances-9696' },
+        { number: '9.4', name: 'Sustainable management in hazardous environments', slug: 'sustainable-management-in-hazardous-environments-9696' },
+      ] },
+      { number: 10, name: 'Hot arid and semi-arid environments', slug: 'hot-arid-and-semi-arid-environments-9696', stage: 'A', subtopics: [
+        { number: '10.1', name: 'Hot arid and semi-arid climates', slug: 'hot-arid-and-semi-arid-climates-9696' },
+        { number: '10.2', name: 'Landforms of hot arid and semi-arid environments', slug: 'landforms-of-hot-arid-and-semi-arid-environments-9696' },
+        { number: '10.3', name: 'Soils and vegetation', slug: 'soils-and-vegetation-9696' },
+        { number: '10.4', name: 'Sustainable management of hot arid and semi-arid environments', slug: 'sustainable-management-of-hot-arid-and-semi-arid-environments-9696' },
+      ] },
+      { number: 11, name: 'Production, location and change', slug: 'production-location-and-change-9696', stage: 'A', subtopics: [
+        { number: '11.1', name: 'Agricultural systems and food production', slug: 'agricultural-systems-and-food-production-9696' },
+        { number: '11.2', name: 'The management of agricultural change', slug: 'the-management-of-agricultural-change-9696' },
+        { number: '11.3', name: 'Manufacturing and related service industry', slug: 'manufacturing-and-related-service-industry-9696' },
+        { number: '11.4', name: 'The management of change in manufacturing industry', slug: 'the-management-of-change-in-manufacturing-industry-9696' },
+      ] },
+      { number: 12, name: 'Environmental management', slug: 'environmental-management-9696', stage: 'A', subtopics: [
+        { number: '12.1', name: 'Sustainable energy supplies', slug: 'sustainable-energy-supplies-9696' },
+        { number: '12.2', name: 'The management of energy supply', slug: 'the-management-of-energy-supply-9696' },
+        { number: '12.3', name: 'Environmental degradation', slug: 'environmental-degradation-9696' },
+        { number: '12.4', name: 'The management of a degraded environment', slug: 'the-management-of-a-degraded-environment-9696' },
+      ] },
+      { number: 13, name: 'Global interdependence', slug: 'global-interdependence-9696', stage: 'A', subtopics: [
+        { number: '13.1', name: 'Trade flows and trading patterns', slug: 'trade-flows-and-trading-patterns-9696' },
+        { number: '13.2', name: 'International debt and international aid', slug: 'international-debt-and-international-aid-9696' },
+        { number: '13.3', name: 'The development of international tourism', slug: 'the-development-of-international-tourism-9696' },
+        { number: '13.4', name: 'The management of a tourist destination', slug: 'the-management-of-a-tourist-destination-9696' },
+      ] },
+      { number: 14, name: 'Economic transition', slug: 'economic-transition-9696', stage: 'A', subtopics: [
+        { number: '14.1', name: 'National development', slug: 'national-development-9696' },
+        { number: '14.2', name: 'The globalisation of economic activity', slug: 'the-globalisation-of-economic-activity-9696' },
+        { number: '14.3', name: 'Regional development within countries', slug: 'regional-development-within-countries-9696' },
+        { number: '14.4', name: 'The management of regional development', slug: 'the-management-of-regional-development-9696' },
+      ] },
     ],
   },
   {
@@ -3813,7 +4226,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '2.1', name: 'The Origins of the Civil War, 1820–61', slug: 'origins-civil-war-9489' },
         { number: '2.2', name: 'Civil War and Reconstruction, 1861–77', slug: 'civil-war-reconstruction-9489' },
         { number: '2.3', name: 'The Gilded Age and Progressive Era, 1870s to 1920', slug: 'gilded-age-progressive-era-9489' },
-        { number: '2.4', name: 'The Great Crash, The Great Depression and the New Deal, 1920–41', slug: 'great-depression-new-deal-9489' },
+        { number: '2.4', name: 'The Great Crash, The Great Depression and the New Deal policies, 1920–41', slug: 'great-depression-new-deal-9489' },
       ] },
       { number: 3, name: 'Paper 1 and Paper 2 – International Option: International History, 1870–1945', slug: 'international-option-history-9489', stage: 'AS', subtopics: [
         { number: '3.1', name: 'Empire and the Emergence of World Powers, 1870–1919', slug: 'empire-world-powers-9489' },
@@ -3855,18 +4268,18 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     sourceUrl: 'https://www.cambridgeinternational.org/Images/649636-2024-2026-syllabus.pdf', verifiedDate: '2026-08-19',
     notes: 'All candidates study Core content in Option A or Option B (six key questions each), plus at least one of five named Depth studies. Assessed via Paper 1 (Structured Questions), Paper 2 (Document Questions), and either Component 3 Coursework or Paper 4 (candidates take Paper 1 and Paper 2, plus either Component 3 or Paper 4).',
     topics: [
-      { number: 1, name: 'Core Content – Option A: The Nineteenth Century, 1848–1914', slug: 'core-content-option-a-0470', subtopics: [
+      { number: 1, name: 'Core content: Option A – The nineteenth century: the development of modern nation states, 1848–1914', slug: 'core-content-option-a-0470', subtopics: [
         { number: '1.1', name: 'Were the Revolutions of 1848 Important?', slug: 'revolutions-1848-0470' },
         { number: '1.2', name: 'How Was Italy Unified?', slug: 'unification-italy-0470' },
         { number: '1.3', name: 'How Was Germany Unified?', slug: 'unification-germany-0470' },
         { number: '1.4', name: 'Why Was There a Civil War in the United States and What Were Its Results?', slug: 'us-civil-war-0470' },
-        { number: '1.5', name: 'Why, and With What Effects, Did Nations Gain and Expand Their Overseas Empires?', slug: 'overseas-empires-0470' },
+        { number: '1.5', name: 'Why, and With What Effects, Did Nations Gain and Expand Their Overseas Empires in the Nineteenth Century?', slug: 'overseas-empires-0470' },
         { number: '1.6', name: 'What Caused the First World War?', slug: 'causes-first-world-war-0470' },
       ] },
-      { number: 2, name: 'Core Content – Option B: The Twentieth Century, 1919–1989', slug: 'core-content-option-b-0470', subtopics: [
+      { number: 2, name: 'Core content: Option B – The twentieth century: international relations since 1919', slug: 'core-content-option-b-0470', subtopics: [
         { number: '2.1', name: 'Was the Treaty of Versailles Fair?', slug: 'treaty-of-versailles-0470' },
         { number: '2.2', name: 'To What Extent Was the League of Nations a Success?', slug: 'league-of-nations-success-0470' },
-        { number: '2.3', name: 'How Far Was Hitler’s Foreign Policy to Blame for the Outbreak of War in 1939?', slug: 'hitlers-foreign-policy-0470' },
+        { number: '2.3', name: 'How Far Was Hitler’s Foreign Policy to Blame for the Outbreak of War in Europe in 1939?', slug: 'hitlers-foreign-policy-0470' },
         { number: '2.4', name: 'Who Was to Blame for the Cold War?', slug: 'blame-cold-war-0470' },
         { number: '2.5', name: 'How Effectively Did the United States Contain the Spread of Communism?', slug: 'containment-communism-0470' },
         { number: '2.6', name: 'How Secure Was the USSR’s Control Over Eastern Europe, 1948–c.1989?', slug: 'ussr-control-eastern-europe-0470' },
@@ -3887,20 +4300,20 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/649640-2024-2026-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'Independently confirmed against 2147’s own syllabus PDF (not assumed from IGCSE 0470): identical Core content options and identical five named Depth studies. Assessed via Paper 1 (Structured Questions, drawing on Core content and one Depth study) and Paper 2 (Document Questions, based on one Depth study) — no coursework or Paper 4 alternative at this level.',
+    notes: 'Independently confirmed against 2147’s own syllabus PDF (not assumed from IGCSE 0470): identical Core content options and identical five named Depth studies. Assessed via Paper 1 (Structured Questions, drawing on Core content and one Depth study) and Paper 2 (Document Questions, on a prescribed topic from the Core content, which changes in each exam series) — no coursework or Paper 4 alternative at this level.',
     topics: [
-      { number: 1, name: 'Core Content – Option A: The Nineteenth Century, 1848–1914', slug: 'core-content-option-a-2147', subtopics: [
+      { number: 1, name: 'Core content: Option A – The nineteenth century: the development of modern nation states, 1848–1914', slug: 'core-content-option-a-2147', subtopics: [
         { number: '1.1', name: 'Were the Revolutions of 1848 Important?', slug: 'revolutions-1848-2147' },
         { number: '1.2', name: 'How Was Italy Unified?', slug: 'unification-italy-2147' },
         { number: '1.3', name: 'How Was Germany Unified?', slug: 'unification-germany-2147' },
         { number: '1.4', name: 'Why Was There a Civil War in the United States and What Were Its Results?', slug: 'us-civil-war-2147' },
-        { number: '1.5', name: 'Why, and With What Effects, Did Nations Gain and Expand Their Overseas Empires?', slug: 'overseas-empires-2147' },
+        { number: '1.5', name: 'Why, and With What Effects, Did Nations Gain and Expand Their Overseas Empires in the Nineteenth Century?', slug: 'overseas-empires-2147' },
         { number: '1.6', name: 'What Caused the First World War?', slug: 'causes-first-world-war-2147' },
       ] },
-      { number: 2, name: 'Core Content – Option B: The Twentieth Century, 1919–1989', slug: 'core-content-option-b-2147', subtopics: [
+      { number: 2, name: 'Core content: Option B – The twentieth century: international relations since 1919', slug: 'core-content-option-b-2147', subtopics: [
         { number: '2.1', name: 'Was the Treaty of Versailles Fair?', slug: 'treaty-of-versailles-2147' },
         { number: '2.2', name: 'To What Extent Was the League of Nations a Success?', slug: 'league-of-nations-success-2147' },
-        { number: '2.3', name: 'How Far Was Hitler’s Foreign Policy to Blame for the Outbreak of War in 1939?', slug: 'hitlers-foreign-policy-2147' },
+        { number: '2.3', name: 'How Far Was Hitler’s Foreign Policy to Blame for the Outbreak of War in Europe in 1939?', slug: 'hitlers-foreign-policy-2147' },
         { number: '2.4', name: 'Who Was to Blame for the Cold War?', slug: 'blame-cold-war-2147' },
         { number: '2.5', name: 'How Effectively Did the United States Contain the Spread of Communism?', slug: 'containment-communism-2147' },
         { number: '2.6', name: 'How Secure Was the USSR’s Control Over Eastern Europe, 1948–c.1989?', slug: 'ussr-control-eastern-europe-2147' },
@@ -3943,7 +4356,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '2.7', name: 'Breadth Study B2: Changes in Medicine, c1848–c1948', slug: 'breadth-study-medicine-4hi1' },
         { number: '2.8', name: 'Breadth Study B3: Japan in Transformation, 1853–1945', slug: 'breadth-study-japan-4hi1' },
         { number: '2.9', name: 'Breadth Study B4: China — Conflict, Crisis and Change, 1900–89', slug: 'breadth-study-china-4hi1' },
-        { number: '2.10', name: 'Breadth Study B5: The League and the UN, 1919–c2011', slug: 'breadth-study-international-organisations-4hi1' },
+        { number: '2.10', name: 'Breadth Study B5: The Changing Role of International Organisations: the League and the UN, 1919–c2011', slug: 'breadth-study-international-organisations-4hi1' },
         { number: '2.11', name: 'Breadth Study B6: The Changing Nature of Warfare and International Conflict, 1919–2011', slug: 'breadth-study-warfare-4hi1' },
         { number: '2.12', name: 'Breadth Study B7: The Middle East — Conflict, Crisis and Change, 1917–2012', slug: 'breadth-study-middle-east-4hi1' },
         { number: '2.13', name: 'Breadth Study B8: Diversity, Rights and Equality in Britain, 1914–2010', slug: 'breadth-study-britain-diversity-4hi1' },
@@ -3976,12 +4389,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     notes: 'New qualification: for teaching from September 2026, first examined May/June 2028. Two papers, each 1hr45min/60 marks/50% of GCSE. Option names and dates read 2026-09-17 from the specification PDF itself (Version 1.1, July 2026 upload, which replaces the February 2026 upload previously linked here; that URL now returns 404).',
     topics: [
       { number: 1, name: 'Paper 1 – International Relations Depth Studies: Conflict and Peace in the 20th Century', slug: 'paper-1-international-relations-depth-studies-9245', subtopics: [
-        { number: '1.A', name: 'Section A (choose 1 of 2): Peacemaking and the League of Nations, c1919-1939; Crises of the Cold War, 1960-1975', slug: 'paper-1-section-a-9245' },
-        { number: '1.B', name: "Section B (choose 1 of 4): The origins of the First World War, c1890-1915; Hitler's foreign policy and the origins of the Second World War, 1933-1941; The origins and development of the Cold War, 1945-1960; Détente and the collapse of communism, c1969-1991", slug: 'paper-1-section-b-9245' },
+        { number: '3.1.1', name: 'Section A (choose 1 of 2): Peacemaking and the League of Nations, c1919-1939; Crises of the Cold War, 1960-1975', slug: 'paper-1-section-a-9245' },
+        { number: '3.1.2', name: "Section B (choose 1 of 4): The origins of the First World War, c1890-1915; Hitler's foreign policy and the origins of the Second World War, 1933-1941; The origins and development of the Cold War, 1945-1960; Détente and the collapse of communism, c1969-1991", slug: 'paper-1-section-b-9245' },
       ] },
       { number: 2, name: 'Paper 2 – Studies in Change', slug: 'paper-2-studies-in-change-9245', subtopics: [
-        { number: '2.A', name: 'Section A (choose 1 of 3): Life in Germany, 1919-1949; Life in Russia and the USSR, 1914-1953; Life in the USA, 1920-1968', slug: 'paper-2-section-a-9245' },
-        { number: '2.B', name: 'Section B (choose 1 of 2): Technology and change, c800-present day; Medicine and change, c800-present day', slug: 'paper-2-section-b-9245' },
+        { number: '3.2.1', name: 'Section A – Societies in change (choose 1 of 3): Life in Germany, 1919-1949; Life in Russia and the USSR, 1914-1953; Life in the USA, 1920-1968', slug: 'paper-2-section-a-9245' },
+        { number: '3.2.2', name: 'Section B – Thematic studies (choose 1 of 2): Technology and change, c800-present day; Medicine and change, c800-present day', slug: 'paper-2-section-b-9245' },
       ] },
     ],
   },
@@ -4009,25 +4422,29 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'OxfordAQA — official specification PDF',
     sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-a-level-geography-specification.pdf', verifiedDate: '2026-09-16',
-    notes: 'First teaching September 2018; first AS exams May/June 2019; first A-level exams May/June 2020. International AS: Unit 1 (choice of Hot Desert or Coastal Systems option) and Unit 2. A2 adds Units 3-5. Candidates may take Unit 1 (a or b) and 2 only for AS, or continue to Units 3-5 for the full A-level. Unit 2.1 (Global Systems and Governance) content -- covering 3.2.1.1 Globalisation, 3.2.1.2 Global systems, and 3.2.1.3 International trade and access to markets -- verified directly against the same specification PDF, fetched and read in full 2026-09-02; the Subtopic schema used in this file does not support a third nesting level, so this finer breakdown is documented here rather than as additional taxonomy entries. D-240 (I361): Version 3.2 (copyright 2025, 34 pp.), linked from the OxfordAQA qualification page, read to its copyright block 2026-09-16; the unit structure, the Unit 1a/1b option and the section names above are unchanged.',
+    notes: 'First teaching September 2018; first AS exams May/June 2019; first A-level exams May/June 2020. International AS: Units 1 and 2; the International A-level adds Units 3, 4 and 5. Unit 1 has three content sections: 3.1.1 Section A: Living with hazards, and a choice of 3.1.2 Section B: Hot desert systems and landscapes (entered as Unit 1a) or 3.1.3 Section C: Coastal systems and landscapes (entered as Unit 1b); candidates take Unit 1a or Unit 1b and Unit 2 for the International AS. Topics and sub-topics are the specification\'s subject-content headings (3.1-3.5 and 3.x.y) with its own numbers and names; the finer 3.x.y.z headings (for example 3.2.1.1 Globalisation, 3.2.1.2 Global systems, 3.2.1.3 International trade and access to markets) are not listed, as the Subtopic schema has no third level. D-240 (I361): Version 3.2 (copyright 2025, 34 pp.), linked from the OxfordAQA qualification page, read to its copyright block 2026-09-16. E939 (round 43, 2026-09-17): rebuilt from section 3 of the same PDF. The two \'Unit 1a/Unit 1b\' sub-topics, which each joined Living with hazards to one option, are replaced by the three printed Unit 1 sections; sub-topics renumbered from 1.1-4.2 to the printed 3.1.1-3.4.2; topic names set to the printed unit titles; Unit 5\'s two sections (3.5.1 Geographical skills checklist, 3.5.2 Fieldwork skills) added.',
     topics: [
-      { number: 1, name: 'Unit 1 – Physical Geography 1: Living with Hazards', slug: 'unit-1-physical-geography-1-9635', stage: 'AS', subtopics: [
-        { number: '1.1', name: 'Unit 1a: Living with Hazards — Hot Desert Systems and Landscapes', slug: 'unit-1a-hot-desert-systems-9635' },
-        { number: '1.2', name: 'Unit 1b: Living with Hazards — Coastal Systems and Landscapes', slug: 'unit-1b-coastal-systems-9635' },
+      { number: 1, name: 'Unit 1: Physical geography 1', slug: 'unit-1-physical-geography-1-9635', stage: 'AS', subtopics: [
+        { number: '3.1.1', name: 'Section A: Living with hazards', slug: 'section-a-living-with-hazards-9635' },
+        { number: '3.1.2', name: 'Section B: Hot desert systems and landscapes', slug: 'unit-1a-hot-desert-systems-9635' },
+        { number: '3.1.3', name: 'Section C: Coastal systems and landscapes', slug: 'unit-1b-coastal-systems-9635' },
       ] },
-      { number: 2, name: 'Unit 2 – Human Geography 1', slug: 'unit-2-human-geography-1-9635', stage: 'AS', subtopics: [
-        { number: '2.1', name: 'Global Systems and Governance', slug: 'global-systems-governance-9635' },
-        { number: '2.2', name: 'Resource Security', slug: 'resource-security-9635' },
+      { number: 2, name: 'Unit 2: Human geography 1', slug: 'unit-2-human-geography-1-9635', stage: 'AS', subtopics: [
+        { number: '3.2.1', name: 'Section A: Global systems and governance', slug: 'global-systems-governance-9635' },
+        { number: '3.2.2', name: 'Section B: Resource security', slug: 'resource-security-9635' },
       ] },
-      { number: 3, name: 'Unit 3 – Physical Geography 2', slug: 'unit-3-physical-geography-2-9635', stage: 'A', subtopics: [
-        { number: '3.1', name: 'Water, Carbon and Life on Earth', slug: 'water-carbon-life-earth-9635' },
-        { number: '3.2', name: 'Ecosystems Under Stress', slug: 'ecosystems-under-stress-9635' },
+      { number: 3, name: 'Unit 3: Physical geography 2', slug: 'unit-3-physical-geography-2-9635', stage: 'A', subtopics: [
+        { number: '3.3.1', name: 'Section A: Water, carbon and life on earth', slug: 'water-carbon-life-earth-9635' },
+        { number: '3.3.2', name: 'Section B: Ecosystems under stress', slug: 'ecosystems-under-stress-9635' },
       ] },
-      { number: 4, name: 'Unit 4 – Human Geography 2', slug: 'unit-4-human-geography-2-9635', stage: 'A', subtopics: [
-        { number: '4.1', name: 'Changing Places', slug: 'changing-places-9635' },
-        { number: '4.2', name: 'People and Contemporary Urban Environments', slug: 'urban-environments-9635' },
+      { number: 4, name: 'Unit 4: Human geography 2', slug: 'unit-4-human-geography-2-9635', stage: 'A', subtopics: [
+        { number: '3.4.1', name: 'Section A: Changing places', slug: 'changing-places-9635' },
+        { number: '3.4.2', name: 'Section B: People and contemporary urban environments', slug: 'urban-environments-9635' },
       ] },
-      { number: 5, name: 'Unit 5 – Fieldwork and Geographical Skills', slug: 'unit-5-fieldwork-geographical-skills-9635', stage: 'A', subtopics: [] },
+      { number: 5, name: 'Unit 5: Geographical and Fieldwork skills', slug: 'unit-5-fieldwork-geographical-skills-9635', stage: 'A', subtopics: [
+        { number: '3.5.1', name: 'Geographical skills checklist', slug: 'geographical-skills-checklist-9635' },
+        { number: '3.5.2', name: 'Fieldwork skills', slug: 'fieldwork-skills-9635' },
+      ] },
     ],
   },
   {
@@ -4155,12 +4572,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     notes: 'Paper 1 Living the Muslim Life and Paper 2 The Life of Hazrat Muhammad (pbuh) and Sources of Authority in Islam are each 1 hour 30 minutes, 50 marks, 50% of GCSE, with two sections of 25 marks each. Correction, 2026-09-02: the previously-recorded sourceUrl now 404s; re-located via the live qualification page (oxfordaqa.com/qualifications/international-gcse-islamiat/ -- note the board spells the subject \'Islamiat\' on its own site) and re-verified against the new URL, same content confirmed.',
     topics: [
       { number: 1, name: 'Paper 1 – Living the Muslim Life', slug: 'paper-1-living-muslim-life-9237', subtopics: [
-        { number: '1.1', name: 'Islam: Beliefs and Teachings', slug: 'islam-beliefs-teachings-9237' },
-        { number: '1.2', name: 'Islam: Practices', slug: 'islam-practices-9237' },
+        { number: '3.1.1', name: 'Islam: Beliefs and Teachings', slug: 'islam-beliefs-teachings-9237' },
+        { number: '3.1.2', name: 'Islam: Practices', slug: 'islam-practices-9237' },
       ] },
       { number: 2, name: 'Paper 2 – The Life of Hazrat Muhammad (pbuh) and Sources of Authority in Islam', slug: 'paper-2-life-hazrat-muhammad-9237', subtopics: [
-        { number: '2.1', name: 'Life and Teachings of Hazrat Muhammad (pbuh)', slug: 'life-teachings-hazrat-muhammad-9237' },
-        { number: '2.2', name: 'Sources of Authority in Islam', slug: 'sources-of-authority-9237' },
+        { number: '3.2.1', name: 'Life and Teachings of Hazrat Muhammad (pbuh)', slug: 'life-teachings-hazrat-muhammad-9237' },
+        { number: '3.2.2', name: 'Sources of Authority in Islam', slug: 'sources-of-authority-9237' },
       ] },
     ],
   },
@@ -4225,7 +4642,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA International Qualifications — official specification PDF',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2024/03/oxfordaqa-intenational-gcse-urdu-specification.pdf', verifiedDate: '2026-08-19', // D-238 (I360): sub-topic numbers use the specification's own Topic 1-4 labels within each theme, not invented 2.1-3.4 numbering.
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-intenational-gcse-urdu-specification.pdf', verifiedDate: '2026-08-19', // D-238 (I360): sub-topic numbers use the specification's own Topic 1-4 labels within each theme, not invented 2.1-3.4 numbering.
     notes: 'For International GCSE exams May/June 2026 onwards. Paper 1 Reading, Grammar and Meaning and Paper 2 Writing are each 1 hour 45 minutes, 70 marks, 50% of GCSE. Content is organised around three themes examined across both papers, not paper-specific topics.',
     topics: [
       { number: 1, name: 'Theme 1 – Identity and Culture', slug: 'theme-1-identity-culture-9264', subtopics: [
@@ -4307,22 +4724,76 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA — official A-level Law (7162) specification PDF',
     sourceUrl: 'https://www.aqa.org.uk/subjects/law/a-level/law-7162/specification/specification-at-a-glance', verifiedDate: '2026-08-21',
-    notes: "AQA A-level Law (7162), a UK domestic GCE A-level (co-teachable with AS-level Law 7161). Three sections, each 33.33% of the qualification. Section 3.1 covers named content strands (Nature of law, The rule of law, Law making, The legal system) without a further numbered sub-topic hierarchy in the official specification, so the strand names are reproduced verbatim as sub-topics rather than inventing numbering the specification does not itself use. Verified directly from the official specification PDF, fetched and verified 2026-08-21. Section 3.2 (Criminal law) sub-topics reproduced the same way from the current AQA-hosted specification PDF (linked from the live aqa.org.uk subject-content page, cdn.sanity.io), fetched and verified 2026-09-02.",
+    notes: 'AQA A-level Law (7162), a linear UK GCE A-level (co-teachable with AS Law 7161). Rebuilt 2026-09-17 (round 43, E939 (9)) from section 3 Subject content of the current specification PDF (Version 1.1, July 2026; 32 pages, read to the AQA registered-address block) and the matching aqa.org.uk subject-content pages. Topics are the specification\'s five numbered content sections: 3.1 The nature of law and the English legal system, 3.2 Criminal law and 3.3 Tort (all compulsory) and the two options, 3.4 Law of contract and 3.5 Human Rights (\'Options\' in the specification at a glance). Paper 1 assesses 3.1 and 3.2, Paper 2 assesses 3.1 and 3.3, and Paper 3 assesses 3.1 with either 3.4 or 3.5. Sub-topics are the specification\'s content-table row headings, which it does not number, so they carry no number. Under 3.2 the specification groups Capacity defences and Necessity defences under a shared \'Defences\' label; under 3.5 \'The European Convention on Human Rights 1953\' heads the article rows that follow it.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'The nature of law and the English legal system', slug: 'the-nature-of-law-and-the-english-legal-system-7162', subtopics: [
-        { number: '3.1.1', name: 'Nature of law', slug: 'nature-of-law-7162' },
-        { number: '3.1.2', name: 'The rule of law', slug: 'the-rule-of-law-7162' },
-        { number: '3.1.3', name: 'Law making', slug: 'law-making-7162' },
-        { number: '3.1.4', name: 'The legal system', slug: 'the-legal-system-7162' },
+        { number: '', name: 'Nature of law', slug: 'nature-of-law-7162' },
+        { number: '', name: 'Nature of law: law and society', slug: 'nature-of-law-law-and-society-7162' },
+        { number: '', name: 'Nature of law: law and morality', slug: 'nature-of-law-law-and-morality-7162' },
+        { number: '', name: 'Nature of law: law and justice', slug: 'nature-of-law-law-and-justice-7162' },
+        { number: '', name: 'The rule of law', slug: 'the-rule-of-law-7162' },
+        { number: '', name: 'Law making: parliamentary law making', slug: 'law-making-parliamentary-law-making-7162' },
+        { number: '', name: 'Law making: delegated legislation', slug: 'law-making-delegated-legislation-7162' },
+        { number: '', name: 'Law making: statutory interpretation', slug: 'law-making-statutory-interpretation-7162' },
+        { number: '', name: 'Law making: judicial precedent', slug: 'law-making-judicial-precedent-7162' },
+        { number: '', name: 'Law making: law reform', slug: 'law-making-law-reform-7162' },
+        { number: '', name: 'Law making: the European Union', slug: 'law-making-the-european-union-7162' },
+        { number: '', name: 'The legal system: the civil courts and other forms of dispute resolution', slug: 'the-legal-system-the-civil-courts-and-other-forms-of-dispute-resolution-7162' },
+        { number: '', name: 'The legal system: the criminal courts and lay people', slug: 'the-legal-system-the-criminal-courts-and-lay-people-7162' },
+        { number: '', name: 'The legal system: legal personnel and the judiciary', slug: 'the-legal-system-legal-personnel-and-the-judiciary-7162' },
+        { number: '', name: 'The legal system: access to justice and funding', slug: 'the-legal-system-access-to-justice-and-funding-7162' },
       ] },
       { number: 2, name: 'Criminal law', slug: 'criminal-law-7162', subtopics: [
-        { number: '3.2.1', name: 'The rules of criminal law', slug: 'the-rules-of-criminal-law-7162' },
-        { number: '3.2.2', name: 'Theory in criminal law', slug: 'theory-in-criminal-law-7162' },
-        { number: '3.2.3', name: 'General elements of liability', slug: 'general-elements-of-liability-7162' },
-        { number: '3.2.4', name: 'Fatal offences against the person', slug: 'fatal-offences-against-the-person-7162' },
-        { number: '3.2.5', name: 'Non-fatal offences against the person', slug: 'non-fatal-offences-against-the-person-7162' },
+        { number: '', name: 'The rules of criminal law', slug: 'the-rules-of-criminal-law-7162' },
+        { number: '', name: 'Theory in criminal law', slug: 'theory-in-criminal-law-7162' },
+        { number: '', name: 'General elements of liability', slug: 'general-elements-of-liability-7162' },
+        { number: '', name: 'Fatal offences against the person', slug: 'fatal-offences-against-the-person-7162' },
+        { number: '', name: 'Non-fatal offences against the person', slug: 'non-fatal-offences-against-the-person-7162' },
+        { number: '', name: 'Property offences', slug: 'property-offences-7162' },
+        { number: '', name: 'Preliminary offence', slug: 'preliminary-offence-7162' },
+        { number: '', name: 'Capacity defences', slug: 'capacity-defences-7162' },
+        { number: '', name: 'Necessity defences', slug: 'necessity-defences-7162' },
       ] },
-      { number: 3, name: 'Tort', slug: 'tort-7162', subtopics: [] },
+      { number: 3, name: 'Tort', slug: 'tort-7162', subtopics: [
+        { number: '', name: 'The rules of tort law', slug: 'the-rules-of-tort-law-7162' },
+        { number: '', name: 'Theory of tort law', slug: 'theory-of-tort-law-7162' },
+        { number: '', name: 'Liability in negligence for physical injury to people and damage to property', slug: 'liability-in-negligence-for-physical-injury-to-people-and-damage-to-property-7162' },
+        { number: '', name: 'Liability in negligence for economic loss and psychiatric injury', slug: 'liability-in-negligence-for-economic-loss-and-psychiatric-injury-7162' },
+        { number: '', name: 'Occupiers\' liability', slug: 'occupiers-liability-7162' },
+        { number: '', name: 'Nuisance and the escape of dangerous things', slug: 'nuisance-and-the-escape-of-dangerous-things-7162' },
+        { number: '', name: 'Vicarious liability', slug: 'vicarious-liability-7162' },
+        { number: '', name: 'Defences', slug: 'defences-tort-7162' },
+        { number: '', name: 'Remedies', slug: 'remedies-tort-7162' },
+      ] },
+      { number: 4, name: 'Law of contract', slug: 'law-of-contract-7162', subtopics: [
+        { number: '', name: 'The rules of contract law', slug: 'the-rules-of-contract-law-7162' },
+        { number: '', name: 'Theory of contract law', slug: 'theory-of-contract-law-7162' },
+        { number: '', name: 'Essential requirements of contract', slug: 'essential-requirements-of-contract-7162' },
+        { number: '', name: 'Contract terms: general', slug: 'contract-terms-general-7162' },
+        { number: '', name: 'Contract terms: specific terms implied by statute law in relation to consumer contracts', slug: 'contract-terms-specific-terms-implied-by-statute-law-in-relation-to-consumer-contracts-7162' },
+        { number: '', name: 'Contract terms: exclusion clauses', slug: 'contract-terms-exclusion-clauses-7162' },
+        { number: '', name: 'Vitiating factors', slug: 'vitiating-factors-7162' },
+        { number: '', name: 'Discharge of a contract', slug: 'discharge-of-a-contract-7162' },
+        { number: '', name: 'Remedies', slug: 'remedies-law-of-contract-7162' },
+      ] },
+      { number: 5, name: 'Human Rights', slug: 'human-rights-7162', subtopics: [
+        { number: '', name: 'Rules in Human Rights law', slug: 'rules-in-human-rights-law-7162' },
+        { number: '', name: 'Theory in Human Rights', slug: 'theory-in-human-rights-7162' },
+        { number: '', name: 'Human Rights in international law', slug: 'human-rights-in-international-law-7162' },
+        { number: '', name: 'Human Rights in the United Kingdom prior to the Human Rights Act 1998', slug: 'human-rights-in-the-united-kingdom-prior-to-the-human-rights-act-1998-7162' },
+        { number: '', name: 'Human Rights in the United Kingdom after the enactment of the Human Rights Act 1998', slug: 'human-rights-in-the-united-kingdom-after-the-enactment-of-the-human-rights-act-1998-7162' },
+        { number: '', name: 'The European Convention on Human Rights 1953', slug: 'the-european-convention-on-human-rights-1953-7162' },
+        { number: '', name: 'Article 2 of the European Convention on Human Rights 1953', slug: 'article-2-of-the-european-convention-on-human-rights-1953-7162' },
+        { number: '', name: 'Article 5 of the European Convention on Human Rights 1953', slug: 'article-5-of-the-european-convention-on-human-rights-1953-7162' },
+        { number: '', name: 'Article 8 of the European Convention on Human Rights 1953', slug: 'article-8-of-the-european-convention-on-human-rights-1953-7162' },
+        { number: '', name: 'Article 10 of the European Convention on Human Rights 1953', slug: 'article-10-of-the-european-convention-on-human-rights-1953-7162' },
+        { number: '', name: 'Article 11 of the European Convention on Human Rights 1953', slug: 'article-11-of-the-european-convention-on-human-rights-1953-7162' },
+        { number: '', name: 'Restrictions', slug: 'restrictions-7162' },
+        { number: '', name: 'Enforcement', slug: 'enforcement-7162' },
+        { number: '', name: 'Human Rights and English law', slug: 'human-rights-and-english-law-7162' },
+        { number: '', name: 'Reform', slug: 'reform-7162' },
+      ] },
     ],
   },
   {
@@ -4361,7 +4832,8 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/718156-2027-2029-syllabus.pdf', verifiedDate: '2026-08-21',
-    notes: "Cambridge IGCSE Environmental Management (0680), 2027-2029 series, is organised into seven topics (a reduction from the syllabus's earlier nine-topic structure). Topic 1 (Natural resources) sub-topic structure (1.1-1.6), Topic 2 (Land) sub-topic structure (2.1-2.3), and Topic 3 (Water) sub-topic structure (3.1-3.4) reproduced directly from the official syllabus PDF's Subject content section; Topic 1 fetched and verified 2026-08-21, Topic 2 fetched and verified 2026-09-01, Topic 3 fetched and verified 2026-09-02 (weekly study-guides automation run). Named sub-topics for topics 4-7 are not yet entered.",
+    notes: 'Cambridge IGCSE Environmental Management (0680), 2027-2029 syllabus (Version 1, © September 2024; 50 pages, read to the Cambridge address block). Section 3 Subject content has seven topics; all seven and their 30 numbered subtopics are recorded with the syllabus\'s own numbers and names, including 3.5 Oil pollution and 3.6 Plastic pollution (added 2026-09-17, round 43, E939 (5), with the subtopics of topics 4-7 read from the same section). Not tiered.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Natural resources', slug: 'natural-resources-0680', subtopics: [
         { number: '1.1', name: 'Formation of rocks', slug: 'formation-of-rocks-0680' },
@@ -4381,11 +4853,32 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '3.2', name: 'Water pollution', slug: 'water-pollution-0680' },
         { number: '3.3', name: 'Water-related diseases', slug: 'water-related-diseases-0680' },
         { number: '3.4', name: 'Marine aquaculture', slug: 'marine-aquaculture-0680' },
+        { number: '3.5', name: 'Oil pollution', slug: 'oil-pollution-0680' },
+        { number: '3.6', name: 'Plastic pollution', slug: 'plastic-pollution-0680' },
       ] },
-      { number: 4, name: 'The atmosphere and human activities', slug: 'the-atmosphere-and-human-activities-0680', subtopics: [] },
-      { number: 5, name: 'Ecosystems, biodiversity and fieldwork', slug: 'ecosystems-biodiversity-and-fieldwork-0680', subtopics: [] },
-      { number: 6, name: 'Natural hazards', slug: 'natural-hazards-0680', subtopics: [] },
-      { number: 7, name: 'Human population', slug: 'human-population-0680', subtopics: [] },
+      { number: 4, name: 'The atmosphere and human activities', slug: 'the-atmosphere-and-human-activities-0680', subtopics: [
+        { number: '4.1', name: 'The atmosphere', slug: 'the-atmosphere-0680' },
+        { number: '4.2', name: 'Climate change', slug: 'climate-change-0680' },
+        { number: '4.3', name: 'Acid rain', slug: 'acid-rain-0680' },
+        { number: '4.4', name: 'Ozone depletion', slug: 'ozone-depletion-0680' },
+      ] },
+      { number: 5, name: 'Ecosystems, biodiversity and fieldwork', slug: 'ecosystems-biodiversity-and-fieldwork-0680', subtopics: [
+        { number: '5.1', name: 'Ecosystems', slug: 'ecosystems-0680' },
+        { number: '5.2', name: 'Forest ecosystems', slug: 'forest-ecosystems-0680' },
+        { number: '5.3', name: 'Managing biodiversity', slug: 'managing-biodiversity-0680' },
+        { number: '5.4', name: 'Fieldwork investigations', slug: 'fieldwork-investigations-0680' },
+      ] },
+      { number: 6, name: 'Natural hazards', slug: 'natural-hazards-0680', subtopics: [
+        { number: '6.1', name: 'Earthquakes and volcanoes', slug: 'earthquakes-and-volcanoes-0680' },
+        { number: '6.2', name: 'Tropical cyclones', slug: 'tropical-cyclones-0680' },
+        { number: '6.3', name: 'Flooding', slug: 'flooding-0680' },
+        { number: '6.4', name: 'Drought', slug: 'drought-0680' },
+      ] },
+      { number: 7, name: 'Human population', slug: 'human-population-0680', subtopics: [
+        { number: '7.1', name: 'Human population density, distribution and structure', slug: 'human-population-density-distribution-and-structure-0680' },
+        { number: '7.2', name: 'Human population size', slug: 'human-population-size-0680' },
+        { number: '7.3', name: 'Managing human population size', slug: 'managing-human-population-size-0680' },
+      ] },
     ],
   },
   {
@@ -4539,7 +5032,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     notes: "AQA GCSE Chemistry (8462), for teaching from September 2016, co-teachable with AQA GCSE Combined Science: Trilogy/Synergy (content marked 'chemistry only' is unique to this separate-science qualification). Tiered Foundation/Higher. Eleven named topics verified in full from the specification PDF's contents list. Topic 4.1 (Atomic structure and the periodic table) sub-topic structure (4.1.1-4.1.3) reproduced directly from the official specification PDF's Subject content section, fetched and verified 2026-08-21. Topic 4.2's 4.2.1.1-4.2.1.5 sub-headings (Chemical bonds, ionic, covalent and metallic) reproduced the same way, fetched and verified 2026-09-02. This is an AQA-only entry, tagged boardSlug 'aqa' and sourced entirely from aqa.org.uk -- not derived from or cross-checked against Cambridge's IGCSE/O-Level Chemistry taxonomy elsewhere in this file, per the documented Cambridge-topic-map-leak risk for GCSE/A-Level Chemistry pages (see scripts/test-cross-board-regression.mjs).",
     topics: [
       { number: 1, name: 'Atomic structure and the periodic table', slug: 'atomic-structure-and-the-periodic-table-8462', subtopics: [
-        { number: '4.1.1', name: 'Atomic structure', slug: 'atomic-structure-8462' },
+        { number: '4.1.1', name: 'A simple model of the atom, symbols, relative atomic mass, electronic charge and isotopes', slug: 'atomic-structure-8462' },
         { number: '4.1.2', name: 'The periodic table', slug: 'the-periodic-table-8462' },
         { number: '4.1.3', name: 'Properties of transition metals (chemistry only)', slug: 'properties-of-transition-metals-8462' },
       ] },
@@ -4568,7 +5061,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA — official A-level Chemistry (7405) specification PDF',
     sourceUrl: 'https://www.aqa.org.uk/subjects/chemistry/a-level/chemistry-7405/specification/specification-at-a-glance', verifiedDate: '2026-08-21',
-    notes: "AQA A-level Chemistry (7405), for teaching from September 2015. Organised into three broad sections (3.1 Physical chemistry, 3.2 Inorganic chemistry, 3.3 Organic chemistry), each further divided into named numbered topics -- recorded here at that numbered-topic granularity (matching the convention used elsewhere in this file, e.g. Cambridge 9701's chapter-level numbering) rather than the three broad section headings. Sections 3.1.1-3.1.7, 3.2.1-3.2.3 and 3.3.1-3.3.6 are first-year/AS-shared content (tagged stage 'AS'); all topics marked '(A-level only)' in the specification are tagged stage 'A'. Topic 3.1.1 (Atomic structure) sub-topic structure (3.1.1.1-3.1.1.3) reproduced directly from the official specification PDF's Subject content section, fetched and verified 2026-08-21. Topic 3.1.2 (Amount of substance) sub-topic structure (3.1.2.1-3.1.2.4) reproduced the same way, fetched and verified 2026-09-02. This is an AQA-only entry, tagged boardSlug 'aqa' and sourced entirely from aqa.org.uk -- not derived from or cross-checked against Cambridge's A-Level Chemistry (9701) taxonomy elsewhere in this file, per the documented Cambridge-topic-map-leak risk for GCSE/A-Level Chemistry pages (see scripts/test-cross-board-regression.mjs).",
+    notes: "AQA A-level Chemistry (7405), for teaching from September 2015. Organised into three broad sections (3.1 Physical chemistry, 3.2 Inorganic chemistry, 3.3 Organic chemistry), each further divided into named numbered topics -- recorded here at that numbered-topic granularity (matching the convention used elsewhere in this file, e.g. Cambridge 9701's chapter-level numbering) rather than the three broad section headings. Sections 3.1.1-3.1.7, 3.2.1-3.2.3 and 3.3.1-3.3.6 are first-year/AS-shared content (tagged stage 'AS'); all topics marked '(A-level only)' in the specification are tagged stage 'A'. All 34 numbered topics of the specification's Subject content (3.1.1-3.1.12, 3.2.1-3.2.6, 3.3.1-3.3.16) are recorded in the specification's order; 3.3.5 Alcohols and its sub-topics 3.3.5.1-3.3.5.3 were added 2026-09-17 (round 43, E939 (7)) from the current specification PDF (Version 1.2, July 2026, 96 pages, read to the AQA registered-address block). Sub-topics are entered only for 3.1.1, 3.1.2 and 3.3.5; the other topics' numbered sub-topics are not yet entered. Topic 3.1.1 (Atomic structure) sub-topic structure (3.1.1.1-3.1.1.3) reproduced directly from the official specification PDF's Subject content section, fetched and verified 2026-08-21. Topic 3.1.2 (Amount of substance) sub-topic structure (3.1.2.1-3.1.2.4) reproduced the same way, fetched and verified 2026-09-02. This is an AQA-only entry, tagged boardSlug 'aqa' and sourced entirely from aqa.org.uk -- not derived from or cross-checked against Cambridge's A-Level Chemistry (9701) taxonomy elsewhere in this file, per the documented Cambridge-topic-map-leak risk for GCSE/A-Level Chemistry pages (see scripts/test-cross-board-regression.mjs).",
     topics: [
       { number: 1, name: 'Atomic structure', slug: 'atomic-structure-7405', stage: 'AS', subtopics: [
         { number: '3.1.1.1', name: 'Fundamental particles', slug: 'fundamental-particles-7405' },
@@ -4601,17 +5094,22 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       { number: 20, name: 'Alkanes', slug: 'alkanes-7405', stage: 'AS', subtopics: [] },
       { number: 21, name: 'Halogenoalkanes', slug: 'halogenoalkanes-7405', stage: 'AS', subtopics: [] },
       { number: 22, name: 'Alkenes', slug: 'alkenes-7405', stage: 'AS', subtopics: [] },
-      { number: 23, name: 'Organic analysis', slug: 'organic-analysis-7405', stage: 'AS', subtopics: [] },
-      { number: 24, name: 'Optical isomerism', slug: 'optical-isomerism-7405', stage: 'A', subtopics: [] },
-      { number: 25, name: 'Aldehydes and ketones', slug: 'aldehydes-and-ketones-7405', stage: 'A', subtopics: [] },
-      { number: 26, name: 'Carboxylic acids and derivatives', slug: 'carboxylic-acids-and-derivatives-7405', stage: 'A', subtopics: [] },
-      { number: 27, name: 'Aromatic chemistry', slug: 'aromatic-chemistry-7405', stage: 'A', subtopics: [] },
-      { number: 28, name: 'Amines', slug: 'amines-7405', stage: 'A', subtopics: [] },
-      { number: 29, name: 'Polymers', slug: 'polymers-7405', stage: 'A', subtopics: [] },
-      { number: 30, name: 'Amino acids, proteins and DNA', slug: 'amino-acids-proteins-and-dna-7405', stage: 'A', subtopics: [] },
-      { number: 31, name: 'Organic synthesis', slug: 'organic-synthesis-7405', stage: 'A', subtopics: [] },
-      { number: 32, name: 'Nuclear magnetic resonance spectroscopy', slug: 'nuclear-magnetic-resonance-spectroscopy-7405', stage: 'A', subtopics: [] },
-      { number: 33, name: 'Chromatography', slug: 'chromatography-7405', stage: 'A', subtopics: [] },
+      { number: 23, name: 'Alcohols', slug: 'alcohols-7405', stage: 'AS', subtopics: [
+        { number: '3.3.5.1', name: 'Alcohol production', slug: 'alcohol-production-7405' },
+        { number: '3.3.5.2', name: 'Oxidation of alcohols', slug: 'oxidation-of-alcohols-7405' },
+        { number: '3.3.5.3', name: 'Elimination', slug: 'elimination-alcohols-7405' },
+      ] },
+      { number: 24, name: 'Organic analysis', slug: 'organic-analysis-7405', stage: 'AS', subtopics: [] },
+      { number: 25, name: 'Optical isomerism', slug: 'optical-isomerism-7405', stage: 'A', subtopics: [] },
+      { number: 26, name: 'Aldehydes and ketones', slug: 'aldehydes-and-ketones-7405', stage: 'A', subtopics: [] },
+      { number: 27, name: 'Carboxylic acids and derivatives', slug: 'carboxylic-acids-and-derivatives-7405', stage: 'A', subtopics: [] },
+      { number: 28, name: 'Aromatic chemistry', slug: 'aromatic-chemistry-7405', stage: 'A', subtopics: [] },
+      { number: 29, name: 'Amines', slug: 'amines-7405', stage: 'A', subtopics: [] },
+      { number: 30, name: 'Polymers', slug: 'polymers-7405', stage: 'A', subtopics: [] },
+      { number: 31, name: 'Amino acids, proteins and DNA', slug: 'amino-acids-proteins-and-dna-7405', stage: 'A', subtopics: [] },
+      { number: 32, name: 'Organic synthesis', slug: 'organic-synthesis-7405', stage: 'A', subtopics: [] },
+      { number: 33, name: 'Nuclear magnetic resonance spectroscopy', slug: 'nuclear-magnetic-resonance-spectroscopy-7405', stage: 'A', subtopics: [] },
+      { number: 34, name: 'Chromatography', slug: 'chromatography-7405', stage: 'A', subtopics: [] },
     ],
   },
   {
@@ -4827,7 +5325,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     source: 'International Baccalaureate Organization, Diploma Programme Subject Brief -- Sciences: Computer science, first assessment 2027, © 2024',
     sourceUrl: 'https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/dp_comp_sci_subjectbrief_en.pdf',
     verifiedDate: '2026-09-02',
-    notes: 'This content is sourced from the public subject brief (see below), not the licensed full guide; the owner\'s original 2026-08-22 licensing confirmation did not apply to this subject in the first place, and owner decision 2026-09-05 retired that licensing framing entirely across all IB subjects -- no formal IB license is claimed or required for any of them. Two syllabus themes (A, B) with every numbered sub-topic (A.1-A.4, B.1-B.4) and recommended teaching hours transcribed directly from the subject brief\'s own curriculum-model table, fetched and read in full 2026-09-02. B.4 (Abstract data types) is explicitly marked HL only in the brief. Weekly study-guides run (2026-09-02): new resource this run covers Theme A (Concepts of computer science) in full.',
+    notes: 'The topics listed here are for the course first assessed in 2027 only; the earlier course (first assessment 2014) is not itemised in this record, although the code label names both. This content is sourced from the public subject brief (see below), not the licensed full guide; the owner\'s original 2026-08-22 licensing confirmation did not apply to this subject in the first place, and owner decision 2026-09-05 retired that licensing framing entirely across all IB subjects -- no formal IB license is claimed or required for any of them. Two syllabus themes (A, B) with every numbered sub-topic (A.1-A.4, B.1-B.4) and recommended teaching hours transcribed directly from the subject brief\'s own curriculum-model table, fetched and read in full 2026-09-02. B.4 (Abstract data types) is explicitly marked HL only in the brief. Weekly study-guides run (2026-09-02): new resource this run covers Theme A (Concepts of computer science) in full.',
     topics: [
       { number: 1, name: 'Theme A -- Concepts of computer science', slug: 'ib-dp-computer-science-theme-a', subtopics: [
         { number: 'A.1', name: 'Computer fundamentals', slug: 'ib-dp-computer-science-a-1' },
@@ -5513,19 +6011,19 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     verifiedDate: '2026-09-16',
     notes: 'Topics 3.1.1-3.1.7, 3.2.1-3.2.3 and 3.3.1-3.3.6 are International AS content; the remainder (3.1.8-3.1.12, 3.2.4-3.2.6, 3.3.7-3.3.16) is International A2 content, assessed together as the full International A-level. Downloaded the specification PDF directly, extracted its text with a layout-preserving PDF-to-text conversion, and read Section 3 "Subject content" (pages 11-41) in full, sequentially, transcribing every numbered heading exactly as printed including special characters (en dashes, the Brønsted o-slash, the delta symbol). Confirmed the topic count (34) by identifying all 3.X.Y headers (12 in 3.1 Physical chemistry, 6 in 3.2 Inorganic chemistry, 16 in 3.3 Organic chemistry). Topic 32, "Organic synthesis" (spec section 3.3.14), has no further numbered subdivision in the spec -- its content runs directly under the section heading, unlike every other topic -- so its subtopics are left as []. No names, numbers, or structure were inferred or guessed; every entry traces to a specific heading read directly in the extracted spec text.',
     topics: [
-      { number: 1, name: 'Atomic structure', slug: 'oxfordaqa-a-level-chemistry-atomic-structure', subtopics: [
+      { number: 1, name: 'Atomic structure', slug: 'oxfordaqa-a-level-chemistry-atomic-structure', stage: 'AS', subtopics: [
         { number: '3.1.1.1', name: 'Fundamental particles', slug: 'oxfordaqa-a-level-chemistry-3-1-1-1' },
         { number: '3.1.1.2', name: 'Mass number and isotopes', slug: 'oxfordaqa-a-level-chemistry-3-1-1-2' },
         { number: '3.1.1.3', name: 'Electron configuration', slug: 'oxfordaqa-a-level-chemistry-3-1-1-3' },
       ] },
-      { number: 2, name: 'Amount of substance', slug: 'oxfordaqa-a-level-chemistry-amount-of-substance', subtopics: [
+      { number: 2, name: 'Amount of substance', slug: 'oxfordaqa-a-level-chemistry-amount-of-substance', stage: 'AS', subtopics: [
         { number: '3.1.2.1', name: 'Relative atomic mass and relative molecular mass', slug: 'oxfordaqa-a-level-chemistry-3-1-2-1' },
         { number: '3.1.2.2', name: 'The mole and the Avogadro constant', slug: 'oxfordaqa-a-level-chemistry-3-1-2-2' },
         { number: '3.1.2.3', name: 'The ideal gas equation', slug: 'oxfordaqa-a-level-chemistry-3-1-2-3' },
         { number: '3.1.2.4', name: 'Empirical and molecular formula', slug: 'oxfordaqa-a-level-chemistry-3-1-2-4' },
         { number: '3.1.2.5', name: 'Balanced equations and associated calculations', slug: 'oxfordaqa-a-level-chemistry-3-1-2-5' },
       ] },
-      { number: 3, name: 'Bonding', slug: 'oxfordaqa-a-level-chemistry-bonding', subtopics: [
+      { number: 3, name: 'Bonding', slug: 'oxfordaqa-a-level-chemistry-bonding', stage: 'AS', subtopics: [
         { number: '3.1.3.1', name: 'Ionic bonding', slug: 'oxfordaqa-a-level-chemistry-3-1-3-1' },
         { number: '3.1.3.2', name: 'Nature of covalent and dative covalent bonds', slug: 'oxfordaqa-a-level-chemistry-3-1-3-2' },
         { number: '3.1.3.3', name: 'Metallic bonding', slug: 'oxfordaqa-a-level-chemistry-3-1-3-3' },
@@ -5534,35 +6032,35 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '3.1.3.6', name: 'Bond polarity', slug: 'oxfordaqa-a-level-chemistry-3-1-3-6' },
         { number: '3.1.3.7', name: 'Forces between molecules', slug: 'oxfordaqa-a-level-chemistry-3-1-3-7' },
       ] },
-      { number: 4, name: 'Energetics', slug: 'oxfordaqa-a-level-chemistry-energetics', subtopics: [
+      { number: 4, name: 'Energetics', slug: 'oxfordaqa-a-level-chemistry-energetics', stage: 'AS', subtopics: [
         { number: '3.1.4.1', name: 'Enthalpy change', slug: 'oxfordaqa-a-level-chemistry-3-1-4-1' },
         { number: '3.1.4.2', name: 'Calorimetry', slug: 'oxfordaqa-a-level-chemistry-3-1-4-2' },
         { number: '3.1.4.3', name: 'Applications of Hess’s law', slug: 'oxfordaqa-a-level-chemistry-3-1-4-3' },
         { number: '3.1.4.4', name: 'Bond enthalpies', slug: 'oxfordaqa-a-level-chemistry-3-1-4-4' },
       ] },
-      { number: 5, name: 'Oxidation, reduction and redox equations', slug: 'oxfordaqa-a-level-chemistry-oxidation-reduction-and-redox-equations', subtopics: [
+      { number: 5, name: 'Oxidation, reduction and redox equations', slug: 'oxfordaqa-a-level-chemistry-oxidation-reduction-and-redox-equations', stage: 'AS', subtopics: [
         { number: '3.1.5.1', name: 'Oxidation, reduction and redox equations', slug: 'oxfordaqa-a-level-chemistry-3-1-5-1' },
       ] },
-      { number: 6, name: 'Kinetics', slug: 'oxfordaqa-a-level-chemistry-kinetics', subtopics: [
+      { number: 6, name: 'Kinetics', slug: 'oxfordaqa-a-level-chemistry-kinetics', stage: 'AS', subtopics: [
         { number: '3.1.6.1', name: 'Collision theory', slug: 'oxfordaqa-a-level-chemistry-3-1-6-1' },
         { number: '3.1.6.2', name: 'Maxwell–Boltzmann distribution', slug: 'oxfordaqa-a-level-chemistry-3-1-6-2' },
         { number: '3.1.6.3', name: 'Effect of temperature on reaction rate', slug: 'oxfordaqa-a-level-chemistry-3-1-6-3' },
         { number: '3.1.6.4', name: 'Effect of concentration and pressure', slug: 'oxfordaqa-a-level-chemistry-3-1-6-4' },
         { number: '3.1.6.5', name: 'Catalysts', slug: 'oxfordaqa-a-level-chemistry-3-1-6-5' },
       ] },
-      { number: 7, name: 'Chemical equilibria, Le Chatelier’s principle and Kc', slug: 'oxfordaqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc', subtopics: [
+      { number: 7, name: 'Chemical equilibria, Le Chatelier’s principle and Kc', slug: 'oxfordaqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc', stage: 'AS', subtopics: [
         { number: '3.1.7.1', name: 'Chemical equilibria and Le Chatelier’s principle', slug: 'oxfordaqa-a-level-chemistry-3-1-7-1' },
         { number: '3.1.7.2', name: 'Equilibrium constant Kc for homogeneous systems', slug: 'oxfordaqa-a-level-chemistry-3-1-7-2' },
       ] },
-      { number: 8, name: 'Thermodynamics', slug: 'oxfordaqa-a-level-chemistry-thermodynamics', subtopics: [
+      { number: 8, name: 'Thermodynamics', slug: 'oxfordaqa-a-level-chemistry-thermodynamics', stage: 'A', subtopics: [
         { number: '3.1.8.1', name: 'Born–Haber cycles', slug: 'oxfordaqa-a-level-chemistry-3-1-8-1' },
         { number: '3.1.8.2', name: 'Gibbs free-energy change, ∆G, and entropy change, ∆S', slug: 'oxfordaqa-a-level-chemistry-3-1-8-2' },
       ] },
-      { number: 9, name: 'Electrode potentials and electrochemical cells', slug: 'oxfordaqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells', subtopics: [
+      { number: 9, name: 'Electrode potentials and electrochemical cells', slug: 'oxfordaqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells', stage: 'A', subtopics: [
         { number: '3.1.9.1', name: 'Electrode potentials and cells', slug: 'oxfordaqa-a-level-chemistry-3-1-9-1' },
         { number: '3.1.9.2', name: 'Commercial applications of electrochemical cells', slug: 'oxfordaqa-a-level-chemistry-3-1-9-2' },
       ] },
-      { number: 10, name: 'Acids and bases', slug: 'oxfordaqa-a-level-chemistry-acids-and-bases', subtopics: [
+      { number: 10, name: 'Acids and bases', slug: 'oxfordaqa-a-level-chemistry-acids-and-bases', stage: 'A', subtopics: [
         { number: '3.1.10.1', name: 'Brønsted–Lowry acid–base equilibria in aqueous solution', slug: 'oxfordaqa-a-level-chemistry-3-1-10-1' },
         { number: '3.1.10.2', name: 'Definition and determination of pH', slug: 'oxfordaqa-a-level-chemistry-3-1-10-2' },
         { number: '3.1.10.3', name: 'The ionic product of water, Kw', slug: 'oxfordaqa-a-level-chemistry-3-1-10-3' },
@@ -5570,28 +6068,28 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '3.1.10.5', name: 'pH curves, titrations and indicators', slug: 'oxfordaqa-a-level-chemistry-3-1-10-5' },
         { number: '3.1.10.6', name: 'Buffer action', slug: 'oxfordaqa-a-level-chemistry-3-1-10-6' },
       ] },
-      { number: 11, name: 'Rate equations', slug: 'oxfordaqa-a-level-chemistry-rate-equations', subtopics: [
+      { number: 11, name: 'Rate equations', slug: 'oxfordaqa-a-level-chemistry-rate-equations', stage: 'A', subtopics: [
         { number: '3.1.11.1', name: 'Rate equations', slug: 'oxfordaqa-a-level-chemistry-3-1-11-1' },
         { number: '3.1.11.2', name: 'Determination of rate equation', slug: 'oxfordaqa-a-level-chemistry-3-1-11-2' },
       ] },
-      { number: 12, name: 'Equilibrium constant Kp for homogeneous systems', slug: 'oxfordaqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems', subtopics: [
+      { number: 12, name: 'Equilibrium constant Kp for homogeneous systems', slug: 'oxfordaqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems', stage: 'A', subtopics: [
         { number: '3.1.12.1', name: 'Equilibrium constant Kp for homogeneous systems', slug: 'oxfordaqa-a-level-chemistry-3-1-12-1' },
       ] },
-      { number: 13, name: 'Periodicity', slug: 'oxfordaqa-a-level-chemistry-periodicity', subtopics: [
+      { number: 13, name: 'Periodicity', slug: 'oxfordaqa-a-level-chemistry-periodicity', stage: 'AS', subtopics: [
         { number: '3.2.1.1', name: 'Classification', slug: 'oxfordaqa-a-level-chemistry-3-2-1-1' },
         { number: '3.2.1.2', name: 'Physical properties of Period 3 elements', slug: 'oxfordaqa-a-level-chemistry-3-2-1-2' },
       ] },
-      { number: 14, name: 'Group 2, the alkaline earth metals', slug: 'oxfordaqa-a-level-chemistry-group-2-the-alkaline-earth-metals', subtopics: [
+      { number: 14, name: 'Group 2, the alkaline earth metals', slug: 'oxfordaqa-a-level-chemistry-group-2-the-alkaline-earth-metals', stage: 'AS', subtopics: [
         { number: '3.2.2.1', name: 'Group 2, the alkaline earth metals', slug: 'oxfordaqa-a-level-chemistry-3-2-2-1' },
       ] },
-      { number: 15, name: 'Group 7(17), the halogens', slug: 'oxfordaqa-a-level-chemistry-group-7-17-the-halogens', subtopics: [
+      { number: 15, name: 'Group 7(17), the halogens', slug: 'oxfordaqa-a-level-chemistry-group-7-17-the-halogens', stage: 'AS', subtopics: [
         { number: '3.2.3.1', name: 'Trends in properties', slug: 'oxfordaqa-a-level-chemistry-3-2-3-1' },
         { number: '3.2.3.2', name: 'Uses of chlorine and chlorate(I)', slug: 'oxfordaqa-a-level-chemistry-3-2-3-2' },
       ] },
-      { number: 16, name: 'Properties of Period 3 elements and their oxides and chlorides', slug: 'oxfordaqa-a-level-chemistry-properties-of-period-3-elements-and-their-oxides-and-chlorides', subtopics: [
+      { number: 16, name: 'Properties of Period 3 elements and their oxides and chlorides', slug: 'oxfordaqa-a-level-chemistry-properties-of-period-3-elements-and-their-oxides-and-chlorides', stage: 'A', subtopics: [
         { number: '3.2.4.1', name: 'Properties of Period 3 elements and their oxides and chlorides', slug: 'oxfordaqa-a-level-chemistry-3-2-4-1' },
       ] },
-      { number: 17, name: 'Transition metals', slug: 'oxfordaqa-a-level-chemistry-transition-metals', subtopics: [
+      { number: 17, name: 'Transition metals', slug: 'oxfordaqa-a-level-chemistry-transition-metals', stage: 'A', subtopics: [
         { number: '3.2.5.1', name: 'General properties of transition metals', slug: 'oxfordaqa-a-level-chemistry-3-2-5-1' },
         { number: '3.2.5.2', name: 'Substitution reactions', slug: 'oxfordaqa-a-level-chemistry-3-2-5-2' },
         { number: '3.2.5.3', name: 'Shapes of complex ions', slug: 'oxfordaqa-a-level-chemistry-3-2-5-3' },
@@ -5599,72 +6097,72 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '3.2.5.5', name: 'Variable oxidation states', slug: 'oxfordaqa-a-level-chemistry-3-2-5-5' },
         { number: '3.2.5.6', name: 'Catalysts', slug: 'oxfordaqa-a-level-chemistry-3-2-5-6' },
       ] },
-      { number: 18, name: 'Reactions of ions in aqueous solution', slug: 'oxfordaqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution', subtopics: [
+      { number: 18, name: 'Reactions of ions in aqueous solution', slug: 'oxfordaqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution', stage: 'A', subtopics: [
         { number: '3.2.6.1', name: 'Reactions of ions in aqueous solution', slug: 'oxfordaqa-a-level-chemistry-3-2-6-1' },
       ] },
-      { number: 19, name: 'Introduction to organic chemistry', slug: 'oxfordaqa-a-level-chemistry-introduction-to-organic-chemistry', subtopics: [
+      { number: 19, name: 'Introduction to organic chemistry', slug: 'oxfordaqa-a-level-chemistry-introduction-to-organic-chemistry', stage: 'AS', subtopics: [
         { number: '3.3.1.1', name: 'Nomenclature', slug: 'oxfordaqa-a-level-chemistry-3-3-1-1' },
         { number: '3.3.1.2', name: 'Reaction mechanisms', slug: 'oxfordaqa-a-level-chemistry-3-3-1-2' },
         { number: '3.3.1.3', name: 'Isomerism', slug: 'oxfordaqa-a-level-chemistry-3-3-1-3' },
       ] },
-      { number: 20, name: 'Alkanes', slug: 'oxfordaqa-a-level-chemistry-alkanes', subtopics: [
+      { number: 20, name: 'Alkanes', slug: 'oxfordaqa-a-level-chemistry-alkanes', stage: 'AS', subtopics: [
         { number: '3.3.2.1', name: 'Fractional distillation of crude oil', slug: 'oxfordaqa-a-level-chemistry-3-3-2-1' },
         { number: '3.3.2.2', name: 'Modification of alkanes by cracking', slug: 'oxfordaqa-a-level-chemistry-3-3-2-2' },
         { number: '3.3.2.3', name: 'Combustion of alkanes', slug: 'oxfordaqa-a-level-chemistry-3-3-2-3' },
         { number: '3.3.2.4', name: 'Chlorination of alkanes', slug: 'oxfordaqa-a-level-chemistry-3-3-2-4' },
       ] },
-      { number: 21, name: 'Halogenoalkanes', slug: 'oxfordaqa-a-level-chemistry-halogenoalkanes', subtopics: [
+      { number: 21, name: 'Halogenoalkanes', slug: 'oxfordaqa-a-level-chemistry-halogenoalkanes', stage: 'AS', subtopics: [
         { number: '3.3.3.1', name: 'Nucleophilic substitution', slug: 'oxfordaqa-a-level-chemistry-3-3-3-1' },
         { number: '3.3.3.2', name: 'Elimination', slug: 'oxfordaqa-a-level-chemistry-3-3-3-2' },
       ] },
-      { number: 22, name: 'Alkenes', slug: 'oxfordaqa-a-level-chemistry-alkenes', subtopics: [
+      { number: 22, name: 'Alkenes', slug: 'oxfordaqa-a-level-chemistry-alkenes', stage: 'AS', subtopics: [
         { number: '3.3.4.1', name: 'Structure, bonding and reactivity', slug: 'oxfordaqa-a-level-chemistry-3-3-4-1' },
         { number: '3.3.4.2', name: 'Addition reactions of alkenes', slug: 'oxfordaqa-a-level-chemistry-3-3-4-2' },
         { number: '3.3.4.3', name: 'Addition polymers', slug: 'oxfordaqa-a-level-chemistry-3-3-4-3' },
         { number: '3.3.4.4', name: 'Epoxyethane', slug: 'oxfordaqa-a-level-chemistry-3-3-4-4' },
       ] },
-      { number: 23, name: 'Alcohols', slug: 'oxfordaqa-a-level-chemistry-alcohols', subtopics: [
+      { number: 23, name: 'Alcohols', slug: 'oxfordaqa-a-level-chemistry-alcohols', stage: 'AS', subtopics: [
         { number: '3.3.5.1', name: 'Oxidation of alcohols', slug: 'oxfordaqa-a-level-chemistry-3-3-5-1' },
         { number: '3.3.5.2', name: 'Elimination', slug: 'oxfordaqa-a-level-chemistry-3-3-5-2' },
       ] },
-      { number: 24, name: 'Organic analysis', slug: 'oxfordaqa-a-level-chemistry-organic-analysis', subtopics: [
+      { number: 24, name: 'Organic analysis', slug: 'oxfordaqa-a-level-chemistry-organic-analysis', stage: 'AS', subtopics: [
         { number: '3.3.6.1', name: 'Identification of functional groups by test tube reactions', slug: 'oxfordaqa-a-level-chemistry-3-3-6-1' },
         { number: '3.3.6.2', name: 'Mass spectrometry', slug: 'oxfordaqa-a-level-chemistry-3-3-6-2' },
         { number: '3.3.6.3', name: 'Infrared spectroscopy', slug: 'oxfordaqa-a-level-chemistry-3-3-6-3' },
       ] },
-      { number: 25, name: 'Optical isomerism', slug: 'oxfordaqa-a-level-chemistry-optical-isomerism', subtopics: [
+      { number: 25, name: 'Optical isomerism', slug: 'oxfordaqa-a-level-chemistry-optical-isomerism', stage: 'A', subtopics: [
         { number: '3.3.7.1', name: 'Optical isomerism', slug: 'oxfordaqa-a-level-chemistry-3-3-7-1' },
       ] },
-      { number: 26, name: 'Aldehydes and ketones', slug: 'oxfordaqa-a-level-chemistry-aldehydes-and-ketones', subtopics: [
+      { number: 26, name: 'Aldehydes and ketones', slug: 'oxfordaqa-a-level-chemistry-aldehydes-and-ketones', stage: 'A', subtopics: [
         { number: '3.3.8.1', name: 'Aldehydes and ketones', slug: 'oxfordaqa-a-level-chemistry-3-3-8-1' },
       ] },
-      { number: 27, name: 'Carboxylic acids and derivatives', slug: 'oxfordaqa-a-level-chemistry-carboxylic-acids-and-derivatives', subtopics: [
+      { number: 27, name: 'Carboxylic acids and derivatives', slug: 'oxfordaqa-a-level-chemistry-carboxylic-acids-and-derivatives', stage: 'A', subtopics: [
         { number: '3.3.9.1', name: 'Carboxylic acids and esters', slug: 'oxfordaqa-a-level-chemistry-3-3-9-1' },
         { number: '3.3.9.2', name: 'Acylation', slug: 'oxfordaqa-a-level-chemistry-3-3-9-2' },
       ] },
-      { number: 28, name: 'Aromatic chemistry', slug: 'oxfordaqa-a-level-chemistry-aromatic-chemistry', subtopics: [
+      { number: 28, name: 'Aromatic chemistry', slug: 'oxfordaqa-a-level-chemistry-aromatic-chemistry', stage: 'A', subtopics: [
         { number: '3.3.10.1', name: 'Bonding', slug: 'oxfordaqa-a-level-chemistry-3-3-10-1' },
         { number: '3.3.10.2', name: 'Electrophilic substitution', slug: 'oxfordaqa-a-level-chemistry-3-3-10-2' },
       ] },
-      { number: 29, name: 'Amines', slug: 'oxfordaqa-a-level-chemistry-amines', subtopics: [
+      { number: 29, name: 'Amines', slug: 'oxfordaqa-a-level-chemistry-amines', stage: 'A', subtopics: [
         { number: '3.3.11.1', name: 'Preparation', slug: 'oxfordaqa-a-level-chemistry-3-3-11-1' },
         { number: '3.3.11.2', name: 'Base properties', slug: 'oxfordaqa-a-level-chemistry-3-3-11-2' },
         { number: '3.3.11.3', name: 'Nucleophilic properties', slug: 'oxfordaqa-a-level-chemistry-3-3-11-3' },
       ] },
-      { number: 30, name: 'Polymers', slug: 'oxfordaqa-a-level-chemistry-polymers', subtopics: [
+      { number: 30, name: 'Polymers', slug: 'oxfordaqa-a-level-chemistry-polymers', stage: 'A', subtopics: [
         { number: '3.3.12.1', name: 'Condensation polymers', slug: 'oxfordaqa-a-level-chemistry-3-3-12-1' },
         { number: '3.3.12.2', name: 'Biodegradability and disposal of polymers', slug: 'oxfordaqa-a-level-chemistry-3-3-12-2' },
       ] },
-      { number: 31, name: 'Amino acids and proteins', slug: 'oxfordaqa-a-level-chemistry-amino-acids-and-proteins', subtopics: [
+      { number: 31, name: 'Amino acids and proteins', slug: 'oxfordaqa-a-level-chemistry-amino-acids-and-proteins', stage: 'A', subtopics: [
         { number: '3.3.13.1', name: 'Amino acids', slug: 'oxfordaqa-a-level-chemistry-3-3-13-1' },
         { number: '3.3.13.2', name: 'Proteins', slug: 'oxfordaqa-a-level-chemistry-3-3-13-2' },
         { number: '3.3.13.3', name: 'Action of anticancer drugs', slug: 'oxfordaqa-a-level-chemistry-3-3-13-3' },
       ] },
-      { number: 32, name: 'Organic synthesis', slug: 'oxfordaqa-a-level-chemistry-organic-synthesis', subtopics: [] },
-      { number: 33, name: 'Nuclear magnetic resonance spectroscopy', slug: 'oxfordaqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy', subtopics: [
+      { number: 32, name: 'Organic synthesis', slug: 'oxfordaqa-a-level-chemistry-organic-synthesis', stage: 'A', subtopics: [] },
+      { number: 33, name: 'Nuclear magnetic resonance spectroscopy', slug: 'oxfordaqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy', stage: 'A', subtopics: [
         { number: '3.3.15.1', name: 'Nuclear magnetic resonance spectroscopy', slug: 'oxfordaqa-a-level-chemistry-3-3-15-1' },
       ] },
-      { number: 34, name: 'Chromatography', slug: 'oxfordaqa-a-level-chemistry-chromatography', subtopics: [
+      { number: 34, name: 'Chromatography', slug: 'oxfordaqa-a-level-chemistry-chromatography', stage: 'A', subtopics: [
         { number: '3.3.16.1', name: 'Chromatography', slug: 'oxfordaqa-a-level-chemistry-3-3-16-1' },
       ] },
     ],

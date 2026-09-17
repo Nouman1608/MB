@@ -33,14 +33,17 @@ export interface CambridgeExamSeries {
 /**
  * Sourced from Cambridge's own Exams Officers' Guide pages
  * (cambridgeinternational.org/exam-administration/), verified 2026-08-29.
- * The March series' India/Romania-only scope is stated directly on
- * Cambridge's own "Exams Officers' Guide for the March series" page.
+ * March series: Cambridge allocates every country to one of six
+ * administrative zones; the March series is limited to certain countries
+ * (syllabus covers: "Exams are also available in the March series in
+ * India"). Re-read 2026-09-17 (round 42): June 2026 key dates give the
+ * timetabled exam period as 23 April to 9 June.
  */
 export const CAMBRIDGE_EXAM_SERIES: readonly CambridgeExamSeries[] = [
   {
     label: 'May/June',
-    months: 'May and June',
-    availability: 'The main global series -- offered in every administrative zone Cambridge serves.',
+    months: 'Late April to early June',
+    availability: 'The main global series -- offered in every administrative zone Cambridge serves. In 2026 the timetabled exam period ran from 23 April to 9 June (Cambridge key dates, June 2026 series, International).',
   },
   {
     label: 'October/November',
@@ -50,7 +53,7 @@ export const CAMBRIDGE_EXAM_SERIES: readonly CambridgeExamSeries[] = [
   {
     label: 'February/March',
     months: 'February and March',
-    availability: 'Offered only in specific administrative zones -- Cambridge itself names India and Romania as the zones this series serves.',
+    availability: 'Offered only in certain countries, not in every administrative zone -- Cambridge syllabuses state, for example, that exams are also available in the March series in India. Check your own syllabus for March availability.',
   },
 ] as const;
 

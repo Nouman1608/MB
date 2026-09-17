@@ -87,7 +87,7 @@ const featured = EXAM_SERIES_KEY_DATES[0];
         </div>
 
         <p class="m-0 mt-6 text-[13px] text-ink-mute">
-          Sourced directly from Cambridge's own key-dates document for the {featured.seriesLabel} series, verified {featured.verifiedOn} —
+          Sourced directly from Cambridge's own key-dates document for the {featured.seriesLabel} series (International centres; UK centres have a separate document), verified {featured.verifiedOn} —
           {' '}<a href={featured.officialSourceUrl} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600" rel="noopener">view the original PDF</a>.
         </p>
       </Container>
@@ -98,14 +98,17 @@ const featured = EXAM_SERIES_KEY_DATES[0];
     <Container>
       <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">What this page doesn't cover — on purpose</h2>
       <p class="m-0 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
-        This page deliberately does not list day-by-day, paper-by-paper exam dates (e.g. "Chemistry 0620 Paper 2 —
-        14 October, morning"). Cambridge publishes those in a full timetable that varies by administrative zone and
+        This page deliberately does not list day-by-day, paper-by-paper exam dates (e.g. "Chemistry 0620/22 — Thursday 12 November
+        2026", a morning paper in Cambridge's November 2026 Zone 3 (UK) timetable but an afternoon paper in its Zone 4 timetable). Cambridge publishes those in a full timetable that varies by administrative zone and
         by which papers a school has entered candidates for — reproducing it here would mean either omitting the
         detail that actually matters to a specific student, or risking an out-of-date date that leads someone to
         miss an exam. For your exact paper-by-paper timetable, always confirm with your school's exams officer, or
         see {' '}<a href="https://www.cambridgeinternational.org/exam-administration/" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600" rel="noopener">Cambridge's own exam administration pages</a>.
-        The dates on this page — entry deadlines, the overall exam window, and results-release dates — are the ones
-        that are the same for every student in a given series, which is why they can be stated reliably here.
+        The dates on this page — entry deadlines, the overall exam window, and results-release dates — are taken from
+        Cambridge's key-dates document for International centres. Some differ for UK centres: for the November 2026
+        series, for example, the final entries deadline is 16 August for International centres (21 September for
+        retake entries from the June 2026 series) but 21 September for UK centres. Your school's exams officer can
+        confirm which dates apply to you.
       </p>
     </Container>
   </Section>

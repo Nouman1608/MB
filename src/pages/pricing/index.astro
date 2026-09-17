@@ -16,7 +16,7 @@ const example = discountWorkedExample();
 const faqs = [
   {
     question: 'How much does Marlbridge tuition cost?',
-    answer: `Marlbridge charges ${PRICING_TERMS.unit}. GCSE, IGCSE and O Level are charged at the IGCSE rate for your region; International AS, AS and A Level are charged at the A Level rate. See the table on this page for your region, or enquire if your country is not listed.`,
+    answer: `Group classes are charged ${PRICING_TERMS.unit}; one-to-one classes and IB tuition are charged per class. For group classes, GCSE, IGCSE and O Level are charged at the IGCSE rate for your region; International AS, AS and A Level are charged at the A Level rate. See the tables on this page for your region, or enquire if your country is not listed.`,
   },
   {
     question: 'Are there discounts for multiple subjects or siblings?',
@@ -60,11 +60,11 @@ const faq = faqNode(faqs);
 <PageLayout
   translationKey="pricing"
   title="Pricing"
-  description="Marlbridge tuition fees by region, per subject per month, for IGCSE/GCSE/O Level and A Level — with multi-subject and sibling discounts, and a free trial class."
+  description="Marlbridge tuition fees by region for IGCSE/GCSE/O Level and A Level: group classes per subject per month, one-to-one and IB classes per class — with group-class discounts and a free trial class."
   path={routes.pricing}
   eyebrow="Pricing"
   heading="Tuition fees, by region."
-  lead="Every fee below is per subject, per month. GCSE, International GCSE and Cambridge O Level are charged at the IGCSE rate; International AS, AS and A Level are charged at the A Level rate."
+  lead="Group-class fees are per subject, per month; one-to-one classes and IB tuition are charged per class, in their own tables below. GCSE, International GCSE and Cambridge O Level are charged at the IGCSE rate; International AS, AS and A Level are charged at the A Level rate."
   breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Pricing', href: routes.pricing }]}
   jsonLd={faq ? [faq] : []}
 >

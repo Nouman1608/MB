@@ -56,7 +56,7 @@ const faqs = [
   },
   {
     question: 'What does it cost from the UK?',
-    answer: `${formatFee(uk.igcse, uk.currency)} ${uk.currency} per subject per month for a GCSE, IGCSE or O Level group class and ${formatFee(uk.aLevel, uk.currency)} ${uk.currency} at AS/A Level; one-to-one classes are ${formatFee(ukOneToOne.igcse, ukOneToOne.currency)}–${formatFee(ukOneToOne.aLevel, ukOneToOne.currency)} ${ukOneToOne.currency} per class. These are currency conversions of the Pakistan rate, not a separately set UK price, and the first class is free.`,
+    answer: `${formatFee(uk.igcse, uk.currency)} ${uk.currency} per subject per month for a GCSE, IGCSE or O Level group class and ${formatFee(uk.aLevel, uk.currency)} ${uk.currency} at AS/A Level; one-to-one classes are ${formatFee(ukOneToOne.igcse, ukOneToOne.currency)}–${formatFee(ukOneToOne.aLevel, ukOneToOne.currency)} ${ukOneToOne.currency} per class. The group rates are set for the UK; the one-to-one rates are currency conversions of the Pakistan one-to-one rate, not a separately set UK price. The first class is free.`,
   },
   {
     question: 'Who teaches the classes?',
@@ -156,9 +156,9 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
     <Container>
       <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Pricing for the UK</h2>
       <p class="m-0 mb-6 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
-        Group classes are priced per subject, per month; one-to-one classes per class. Only the Pakistan rate is independently
-        set — the UK figures are a currency conversion of that same rate (see the note below), not a separately published UK
-        price. Full terms, discounts and every other region are on the
+        Group classes are priced per subject, per month; one-to-one classes per class. The group rates are set for the UK.
+        The one-to-one figures are a currency conversion of the Pakistan one-to-one rate (see the note below), not a
+        separately published UK price. Full terms, discounts and every other region are on the
         {' '}<a href={routes.pricing} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">pricing page</a>.
       </p>
       <div class="overflow-x-auto">
@@ -185,7 +185,7 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
         </table>
       </div>
       <p class="m-0 mt-6 text-[13px] text-ink-mute">
-        {ONE_TO_ONE_TERMS.conversionNote} {PRICING_TERMS.freeTrial} {PRICING_TERMS.notPermanentNote} Last confirmed
+        One-to-one rates: {ONE_TO_ONE_TERMS.conversionNote} {PRICING_TERMS.freeTrial} {PRICING_TERMS.notPermanentNote} Last confirmed
         {' '}{PRICING_VERIFIED_DATE} (one-to-one rates {ONE_TO_ONE_TERMS.verifiedDate}).
       </p>
     </Container>
