@@ -7,7 +7,7 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Psychology"]
 syllabusSeries: "First assessment 2019"
-description: "An overview of IB Diploma Programme Psychology -- developing psychological literacy, critical thinking and research methodology, rather than training psychologists. Describes the legacy course (first assessment 2019, final session November 2026)."
+description: "An overview of IB Diploma Programme Psychology -- the biological, cognitive and sociocultural approaches, the four options and research methodology. Describes the legacy course (first assessment 2019, final session November 2026)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -26,15 +26,20 @@ featured: false
 > total and weighting changes. A companion resource set describing the
 > first-assessment-2027 course does not yet exist on this site.
 
-IB Diploma Programme Psychology aims to develop students' knowledge and
-understanding of psychological concepts, content and contexts, along
-with the models and theories associated with these areas. Through the
-course, students develop the ability to engage in critical thinking,
-assess evidence and acknowledge the evolving nature of knowledge.
-Students acquire the ability to seek new information and generate
-understanding by employing research methodologies. As the IB itself
-puts it, the goal is not to create psychologists, but to promote
-psychological literacy.
+At the core of IB Diploma Programme Psychology (first assessment 2019)
+is an introduction to three different approaches to understanding
+behaviour: the biological, cognitive and sociocultural approaches.
+Students study and critically evaluate the knowledge, concepts,
+theories and research that have developed understanding in these
+fields. The IB's 2019 subject brief describes the interaction of these
+approaches as the basis of a holistic and integrated approach to
+understanding mental processes and behaviour, understood through four
+options in applied psychology (abnormal psychology, developmental
+psychology, health psychology and the psychology of relationships).
+The course also promotes an understanding of qualitative and
+quantitative research methods, used both to reflect critically on
+evidence and to design, implement, analyse and evaluate students' own
+investigations.
 
 ## Aims
 

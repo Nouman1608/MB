@@ -32,7 +32,7 @@ At AS Level, candidates study one of three options — [European
 (Modern Europe, 1774–1924)](/resources/a-level-world-history-modern-europe-1750-1921/),
 [American (The History of the USA, 1820–1941)](/resources/a-level-world-history-usa-1820-1941/),
 or International — each with **three** named topics, assessed via
-Paper 1 (a document question) and Paper 2 (an outline study). A
+Paper 1 (Historical Sources) and Paper 2 (Outline Study). A
 school teaches one option, not all three, so the International Option
 is a genuine alternative route through 9489, not additional content
 alongside the other two.

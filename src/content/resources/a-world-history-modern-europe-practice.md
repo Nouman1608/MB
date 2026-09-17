@@ -22,7 +22,7 @@ featured: false
 > practice on this content. They are **not** reproduced past-paper questions.
 > The question numbering and exact source wording below are invented for
 > practice purposes, but the overall structure — one two-part Historical
-> Sources question on Paper 1, two two-part Outline Study questions on
+> Sources question on four sources on Paper 1, two two-part Outline Study questions on
 > Paper 2 — and the total mark allocations (40 and 60) follow the syllabus's
 > own published assessment structure. Cambridge International holds
 > copyright in its own papers; use these alongside the official past papers
@@ -42,28 +42,32 @@ your series before deciding which of the question sets below to prioritise.
 
 ---
 
-## Paper 1 style: Historical Sources (one two-part question, 40 marks)
+## Paper 1 style: Historical Sources (one two-part question on four sources, 40 marks)
 
 Candidates answer **both parts** of the single question set on whichever topic
 is prescribed for Paper 1 in their series.
 
 **Illustrative topic: Russia from autocracy to revolution, 1881–1924**
 
-Study the sources, then answer both parts.
+Read all four sources, then answer both parts.
 
 **Source A** — from a Petrograd factory delegate's account, written shortly after February 1917: "By the fourth day the queues for bread had become processions. When the Volynsky regiment was ordered to fire on us, the soldiers grounded their rifles and came over to our side. After that, nothing the government said could stop what had already happened in the streets."
 
 **Source B** — from a government minister's report to the Council of Ministers, February 1917: "The disturbances are temporary and concentrated among the least disciplined elements of the capital's workforce. Reinforcements are being brought up, and I am confident that with firm handling the situation will be under control within days."
 
+**Source C** — from the diary of an official at a foreign embassy in Petrograd, March 1917: "For a week the city has had no bread worth the name and no confidence in anyone who governs it. The garrison is made up largely of fresh recruits, many of them peasants who dread being sent to the front. What they refused to do on the Nevsky was less a political decision than the end of a patience that the war had been wearing down for two years."
+
+**Source D** — from a history of the revolution written by a former member of a Petrograd workers' committee, published in 1927: "The soldiers did not make the revolution; the workers did. The strikes began in the factories, the women of the bread queues brought the men out, and by the time the regiments wavered the old order had already lost the streets. The garrison followed the people; it did not lead them."
+
 **(a)** Compare what Sources A and B suggest about the state of order in Petrograd in February 1917. **[15]**
 
-**(b)** 'The sources show that the February Revolution succeeded primarily because the army refused to suppress it.' How far do Sources A and B support this view? Use the sources and your own knowledge. **[25]**
+**(b)** 'The sources show that the February Revolution succeeded primarily because the army refused to suppress it.' Read all the sources. How far do the sources support this view? Use all four sources and your own knowledge. **[25]**
 
 ### Worked answer
 
 **(a)** Both sources agree that unrest was under way in Petrograd, but they disagree sharply about its significance and trajectory. Source A, from a participant, presents the unrest as escalating and irreversible — queues becoming "processions" and, decisively, soldiers refusing to fire and joining the crowd, which the source treats as the point after which the outcome was no longer in the government's control. Source B, from a minister writing for his own superiors, minimises the unrest as "temporary" and confined to "the least disciplined elements," and expresses confidence that reinforcements and "firm handling" would restore order within days. The two sources' disagreement is partly about scale and partly about interpretation: Source B may reflect genuine ignorance of the army's loyalty at the time of writing, official complacency, or a minister's incentive to reassure superiors rather than alarm them — all of which a strong answer should weigh using provenance, not simply repeat as a factual disagreement. **[15]**
 
-**(b)** A strong answer treats the claim as one plausible but incomplete explanation rather than either accepting or dismissing it outright. Source A directly supports the claim: it identifies the Volynsky regiment's refusal to fire as the specific moment after which the government lost control, which fits with the wider historical evidence that the loss of military loyalty was what turned a wave of unrest into a successful revolution, since previous instances of urban unrest under the Tsarist regime (including 1905) had been contained precisely because troops remained willing to fire on crowds. Source B does not directly address the army's loyalty, but its confident assumption that "reinforcements" and "firm handling" would work is itself evidence of how unexpected and decisive the army's refusal turned out to be — the minister's confidence assumed a loyal garrison, and its failure is exactly what Source A describes. Own knowledge should qualify the claim, however: economic collapse (bread and fuel shortages), the discrediting of the autocracy through Rasputin's influence over the Tsarina while Nicholas was at the front, and years of accumulated war-weariness all created the conditions that made the army's refusal politically decisive rather than an isolated event — a garrison that stayed loyal in 1905 refused in 1917 partly because of these deeper, longer-building pressures. A well-supported judgement should conclude that the army's refusal was the *immediate* trigger that converted unrest into regime collapse, but was itself the product of the economic and political collapse the sources only partially capture. **[25]** (Marks for accurate use of both sources with attention to provenance, own knowledge that both supports and qualifies the claim, and a sustained judgement.)
+**(b)** A strong answer uses all four sources to show how far they support and how far they challenge the claim, and reaches a judgement on the extent of that support. **Support:** Source A directly supports the claim: it identifies the Volynsky regiment's refusal to fire as the moment after which the government lost control. Source B supports it indirectly, since the minister's confidence rests on "reinforcements" and "firm handling", which assumed a loyal garrison; its failure is what Source A describes. Source C also gives the garrison's refusal a central place ("What they refused to do on the Nevsky"), but it explains the refusal by recruits' fear of the front and by war-weariness, so it supports the army's importance while shifting the cause behind it. **Challenge:** Source D rejects the claim outright, arguing that strikes and the bread queues had already cost the old order the streets and that "The garrison followed the people; it did not lead them." Its provenance matters: written in 1927 by a former member of a workers' committee, it has a clear interest in giving the workers the leading role, which a strong answer should weigh rather than simply repeat. Source C's account of bread shortages and lost confidence also partly challenges the claim, since it places the army's refusal inside a wider collapse. **Own knowledge** should test both sides: previous urban unrest under the Tsarist regime (including 1905) had been contained because troops remained willing to fire on crowds, which supports the decisive role of the army in 1917; but bread and fuel shortages, the discrediting of the autocracy through Rasputin's influence while Nicholas was at the front, and war-weariness created the conditions in which the garrison wavered. A well-supported judgement should conclude that the sources largely support the army's refusal as the *immediate* cause of success (A, B and C), while C and D show that the refusal was itself the product of popular protest and the strains of war, so the claim that the revolution succeeded *primarily* because of the army is only partly supported. **[25]** (Marks for accurate use of all four sources with attention to provenance, own knowledge that both supports and qualifies the claim, and a sustained judgement.)
 
 ---
 
@@ -124,4 +128,4 @@ question they attempt.
 
 ## Official syllabus
 
-Cambridge International AS & A Level History (9489) syllabus for examination in 2027, 2028 and 2029, section 1 ("Subject content — European Option: Modern Europe, 1774–1924") and the assessment overview (Paper 1: Historical Sources, one two-part question, 40 marks; Paper 2: Outline Study, two two-part questions, 60 marks) — [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/718292-2027-2029-syllabus.pdf). The part splits above are the syllabus's own (section 4, Details of the assessment): Paper 1 part (a) 15 marks and part (b) 25; Paper 2 part (a) 10 marks and part (b) 20 in each 30-mark question. The real Paper 1 question prints four sources (at least three written, up to one visual, 600 words in total) and part (b) uses all four; the two-source question above is a shorter practice version. Verified 2026-09-11.
+Cambridge International AS & A Level History (9489) syllabus for examination in 2027, 2028 and 2029, section 1 ("Subject content — European Option: Modern Europe, 1774–1924") and the assessment overview (Paper 1: Historical Sources, one two-part question, 40 marks; Paper 2: Outline Study, two two-part questions, 60 marks) — [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/718292-2027-2029-syllabus.pdf). The part splits above are the syllabus's own (section 4, Details of the assessment): Paper 1 part (a) 15 marks and part (b) 25; Paper 2 part (a) 10 marks and part (b) 20 in each 30-mark question. The real Paper 1 question prints four sources (at least three written, up to one visual, 600 words in total) and part (b) uses all four; the practice question above follows that pattern with four written sources. Verified 2026-09-11.

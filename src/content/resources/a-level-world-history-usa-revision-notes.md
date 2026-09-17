@@ -51,7 +51,7 @@ Civil War, 1820-61" topic is merged into a single topic spanning 1820-77.
 
 ## Exam technique for this option
 
-Both Paper 1 (document question) and Paper 2 (outline study) test the ability to reach a supported
+Both Paper 1 (Historical Sources) and Paper 2 (Outline Study) test the ability to reach a supported
 judgement, not just narrate a sequence of events, so practising short, evidence-based arguments on each
 of the three topics is more valuable preparation than memorising a timeline alone. When asked to assess
 which factor was most important in causing an outcome (e.g. the Civil War), avoid listing causes as a

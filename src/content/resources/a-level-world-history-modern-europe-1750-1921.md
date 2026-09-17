@@ -31,16 +31,16 @@ valid for the 2026 series only.
 At AS Level, candidates study one of three regional options — European
 (Modern Europe, 1774–1924), American (The History of the USA, 1820–1941)
 or International (International History, 1870–1939) — each built from
-**three** named topics, assessed via Paper 1 (a document question) and
-Paper 2 (an outline study). The three options share this identical
+**three** named topics, assessed via Paper 1 (Historical Sources) and
+Paper 2 (Outline Study). The three options share this identical
 Paper 1/Paper 2 assessment structure, so the exam technique this guide
 covers transfers directly to a candidate studying either of the other
 two options, even though the historical content itself is entirely
 different.
 
 The syllabus publishes the rotation as a fixed table, not an
-unpredictable one: each topic serves as the Paper 1 (document
-question) topic once every three years, and in any given year the
+unpredictable one: each topic serves as the Paper 1 (Historical
+Sources) topic once every three years, and in any given year the
 remaining two topics are examined only on Paper 2. Paper 1 and Paper 2
 examine **disjoint** topics — the topic prescribed for Paper 1 in a
 given year is never also assessed on Paper 2 that year.
@@ -76,7 +76,7 @@ Bolshevik power through to Lenin's death
 
 ## How to approach it
 
-Because Paper 1 (document question) and Paper 2 (outline study) test
+Because Paper 1 (Historical Sources) and Paper 2 (Outline Study) test
 all three topics in different ways — and which topic lands on which
 paper follows the fixed three-year rotation above — revision needs to
 cover all three periods with both document-analysis skills and
@@ -111,9 +111,9 @@ immediately and discovering the argument along the way.
 
 ## Paper 1 versus Paper 2 — different skills, same content
 
-Paper 1 (the document question) tests source-analysis skills: reading a set of historical documents
-on the year's prescribed topic, and evaluating them for reliability, usefulness,
-and how they relate to each other and to wider contextual knowledge. Paper 2 (the outline study)
+Paper 1 (Historical Sources) tests source-analysis skills: reading four sources (at least three written,
+up to one visual) on the year's prescribed topic, and evaluating them for reliability, usefulness,
+and how they relate to each other and to wider contextual knowledge. Paper 2 (Outline Study)
 tests extended essay-writing skills across a broader sweep of the other two topics, without the
 document-analysis component. Because which topic lands on Paper 1 follows the fixed three-year
 rotation, a candidate cannot safely prepare document-analysis technique for only one topic and essay technique
