@@ -138,6 +138,9 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 36 (2026-11-12, Q417): leads worked with published mark schemes.** Add **I387** (0580 transformation names
+  earn a mark; 9706 correct answers earn full credit without working; IB Chemistry Structure 1 'same proportion').
+
 - **Round 35 (2026-11-11, Q416): leads worked.** Add **I386** (AQA micrometer uncertainty ±0.01 mm; AQA AS Business SMART
   and 'growth is not an objective'; OCR H556 'module-scoped'; IB Physics Paper 1A and 1B; the stale 9236 link) to the
   round 30-34 work. The leads still open are listed in Q416.
