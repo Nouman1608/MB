@@ -138,6 +138,10 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 47 (2026-11-23, Q428): D-261 verified.** E938 and I399 are closed. Open work: **I400** (DP Computer Science (2014)
+  still current under the old rule; the tracker's 'Being withdrawn' introduction against its own legend; Cambridge 0450 and the
+  unrecorded 0264), the **E939** deferrals (0457 and 9UR0), and U78 evidence (the IB ESS guide).
+
 - **Round 46 (2026-11-22, Q427): D-259 and D-260 verified.** E937, E942, E943, I397 and I398 are closed (the A2.1 dispute is
   upheld). Open work: **E938** (IB programme 'When do I start paying?' still cites 'the fee shown above'), **I399** (DP Psychology
   (2027) status rule; 7162, 9640, 9630, J249 and Global Politics notes; 9696 practice rocks-and-weathering link; two K_p tips;
