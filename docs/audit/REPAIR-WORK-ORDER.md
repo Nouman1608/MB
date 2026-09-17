@@ -138,6 +138,10 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 35 (2026-11-11, Q416): leads worked.** Add **I386** (AQA micrometer uncertainty ±0.01 mm; AQA AS Business SMART
+  and 'growth is not an objective'; OCR H556 'module-scoped'; IB Physics Paper 1A and 1B; the stale 9236 link) to the
+  round 30-34 work. The leads still open are listed in Q416.
+
 - **Round 34 (2026-11-10, Q415): closures E707–E901 read; 10 reopened; every declared closure now read.** Reopened
   (Q415 gives file and line): E708, E837, E846, E853, E901 (`syllabus-topics.ts` and `assessments.ts` records), E772,
   E779, E797, E838, E879. Also **E933** (9685 practice Q3 seven marks for [6]) and I385. Across rounds 30–34, 64
