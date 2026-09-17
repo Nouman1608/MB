@@ -10,7 +10,7 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-**72 confirmed-error groups open** *(2026-11-10, round 34: 64 closures from D-138…D-225 reopened in rounds 30–34; E926–E933 recorded. Improvement items I380–I385 open.)*
+**3 confirmed-error groups open** *(2026-11-14, round 38: D-252 and D-253 verified — 76 of 80 items fixed; E386, E934 and E935 open; I388 and I389 open.)*
 
 > **Amended 2026-10-12 (Q374).** This order first said 658. That figure never subtracted repair
 > rounds D-138…D-191, which closed 508 of them. The list of what is actually open — 89 plain,
@@ -137,6 +137,12 @@ work order can be a document rather than a conversation.
 ---
 
 ## 8. Current specifics
+
+- **Round 38 (2026-11-14, Q419): D-252 and D-253 verified.** Work **E386** (a-level-edexcel-business-marketing-and-people
+  coverage list names risk and uncertainty, market research and sampling, marketing objectives, none taught), **E934**
+  (law-english-legal-system-practice: CPR r.26.9(10)(b) needs all three conditions), **E935** (aqa-gcse-physics-energy-practice
+  'sound store'; 9215 and 9670 data-record numbering), **I389** (stale 9236 link in five places; 'two optional sections')
+  and **I388** (round 37). Round 39 reads the observations listed in D-252 and D-253.
 
 - **Round 37 (2026-11-13, Q418): leads converted.** Apply **I388**: thirteen conservative rewordings covering the fourteen
   former leads (Geography boundaries, Boston Matrix dog, fetch registers, meiosis, ESS feedback question, Global politics
