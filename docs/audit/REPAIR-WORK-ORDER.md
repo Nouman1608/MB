@@ -10,7 +10,7 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-**1 confirmed-error group open (E924)** *(2026-11-02, round 26: D-245 and D-246 verified — 26 of 26 fixed; E923, I372, U74 and I373 closed.)*
+**1 confirmed-error group open (E925)** *(2026-11-03, round 27: D-247 and D-248 verified — 13 of 13 fixed; E924, I374, U75 and I375 closed; E925 recorded.)*
 
 > **Amended 2026-10-12 (Q374).** This order first said 658. That figure never subtracted repair
 > rounds D-138…D-191, which closed 508 of them. The list of what is actually open — 89 plain,
@@ -137,6 +137,10 @@ work order can be a document rather than a conversation.
 ---
 
 ## 8. Current specifics
+
+- **Round 27 (2026-11-03, Q408): D-247 and D-248 verified.** Nothing more on E924, I374, U75 or I375. Work **E925** (9UR0
+  Section A: students control the recording and may stop, revisit and replay it; three Urdu files say the
+  audio cannot be paused) and **I376** (CS Theme A: the TCP/IP model A2.1.5 is HL only).
 
 - **Round 26 (2026-11-02, Q407): D-245 and D-246 verified.** Nothing more on E923, I372, U74 or I373. Add
   **I375** (computer science HL A3.3.4-A3.3.6 missing; geography civil-society strategies and the
