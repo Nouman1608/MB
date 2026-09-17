@@ -68,6 +68,7 @@ corpus briefly ended up worse than baseline on five files — see the amendment 
 | `2026-11-10-findings.md` | Round 34 (5 of 5): closures E707–E901 read — 73 fixed, **10 reopened**, E933, I385. Every declared closure D-138…D-251 now read; rounds 30–34 reopened 64. **72 confirmed-error groups open.** |
 | `2026-11-11-findings.md` | Round 35: open leads worked against the documents — 4 confirmed (I386), 9 cleared; the rest need documents the boards do not publish. **72 confirmed-error groups open.** |
 | `2026-11-12-findings.md` | Round 36: remaining leads worked with the boards' published mark schemes and examiner reports — 3 confirmed (I387), 2 cleared, 14 not addressed by any public official document. **72 confirmed-error groups open.** |
+| `2026-11-13-findings.md` | Round 37: the fourteen leads no public official document settles converted to a reword-and-close item (I388); no open leads. D-252 and D-253 await verification. **72 confirmed-error groups open.** |
 | `2026-09-15-tier-resolution-response.md` | Cambridge 0620 tier question, resolved by coordinates. |
 | `correction-constraints.md` | **Standing rules. Start here.** |
 
@@ -151,7 +152,7 @@ finding against a snapshot that was three days old.
 
 | | |
 |---|---|
-| findings recorded | 1,777 |
+| findings recorded | 1,779 |
 | confirmed errors open | **72 groups** (64 closures reopened in rounds 30–34, E926–E933) *(reconciliation current through **D-251**; every closure from D-138 to D-251 has been read by this audit. **Not a statement that the resources are correct.**)* |
 | declared closed by decision log D-138…D-251 | 796 |
 | still open despite a closing round (deferred, partial, disputed, heading-only, or reopened) | 0 |

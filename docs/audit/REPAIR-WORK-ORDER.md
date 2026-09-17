@@ -138,6 +138,11 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 37 (2026-11-13, Q418): leads converted.** Apply **I388**: thirteen conservative rewordings covering the fourteen
+  former leads (Geography boundaries, Boston Matrix dog, fetch registers, meiosis, ESS feedback question, Global politics
+  'peace enforcement', History IA significance, Urdu 'ambition', fight or flight, 9275 attribution, 7136 'Step 4', 7717
+  word count, IB Chemistry command terms). D-252 and D-253 are next to be read.
+
 - **Round 36 (2026-11-12, Q417): leads worked with published mark schemes.** Add **I387** (0580 transformation names
   earn a mark; 9706 correct answers earn full credit without working; IB Chemistry Structure 1 'same proportion').
 
