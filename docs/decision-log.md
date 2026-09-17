@@ -12706,3 +12706,48 @@ U76; I393 (14); U77 except Global Politics; 5014 companions; a native reader's c
 **Validation.** `astro check` 0 errors; `validate:academic`; `validate-assessments`; cross-board integrity; rendered academic labels (after build); practice bank; commercial claims, pricing consistency, tiered FAQ routes, review integrity, grade thresholds, AS-level display, academic matrix and FX policy; cross-board regression; negative suite 35/35; functions tests 31 pass; duplicate-scope check (the 4 pre-existing groups only); build 2141 HTML files (content cache cleared first); `audit:all` 0 problems across 2140 pages.
 
 **Open-count position after D-259.** E942 fixed (both items). I397 fixed (all six; the 9489 deferral restated). E937 and E938 had only the residues now fixed under I397 (1)-(3), so both are repaired pending audit. E939 stays open on its two deferrals (3) and (12). Round 45 (E943, I398) not yet actioned.
+
+## D-260 - Audit round 45 (Q426): E943, I398, U78 (2026-09-17)
+
+**Trigger.** Round 45 (`docs/audit/2026-11-21-findings.md`, `5418dd5`) read the 21 IB topic records against the IB guides and briefs at ibo.org: E943 (DP Physics E.2 not marked HL only), I398 (Biology names; three source notes), U78 (ESS subtopics from teacher websites).
+
+**Method.** The lead read the guides in a real Chrome session at ibo.org (same-origin fetch, text extracted with pdf.js) and compared each record's numbers and names with the document text by script: Physics Table 4 (24 sub-topics and the HL key), Biology Syllabus roadmap and content headings (40 sub-topics and HL flags), Business management syllabus outline, Economics syllabus outline, Geography (all 46 sub-topic names). An ESS guide was looked for under the same subject-guides path and not found; no mirror or teacher copy was used.
+
+**Primary sources (ibo.org, `/globalassets/new-structure/university-admission/pdfs/subject-guides/`).**
+- `physics-guide.pdf` ("Physics guide First assessment 2025"), Table 4 'Physics syllabus content overview' (printed page 25): "E.2 Quantum physics •••"; key: "••• Topics with content that should only be taught to HL students"; the same mark on A.4, A.5, B.4, D.4 and no others. Content section: "E.2 Quantum physics ... There is no standard level content in E.2."
+- `biology-guide.pdf` ("Biology guide First assessment 2025"): roadmap (printed page 25) "A2.1 Origins of cells [HL only]", "C4.2 Transfers of energy and matter", "D4.2 Stability and change"; content headings "A2.1 Origins of cells" (PDF page 44), "C4.2 Transfers of energy and matter" (page 89), "D4.2 Stability and change" (page 110); the theory of knowledge table (page 16) alone prints "A2.1 Origin of cells".
+- `business-management-guide.pdf` ("First assessment 2024"): "3.6 Efficiency ratio analysis ( HL only )".
+- `economics-guide.pdf` ("First assessment 2022"): "2.4 Critique of the maximizing behaviour of consumers and producers (HL only)".
+- `geography-guide.pdf` ("Published February 2017 Updated November 2019, November 2020, August 2021, November 2022"; "first assessment May 2019"): all 46 record sub-topic names found in the text.
+
+### E943 - DP Physics E.2 (1)
+
+| Item | Files | What changed |
+|---|---|---|
+| E943 | `syllabus-topics.ts` DP Physics | 'E.2 Quantum physics (HL only)'. Source and URL now the ibo.org guide; note quotes the Table 4 key and lists the five HL-only sub-topics. Resources checked: `ib-dp-physics-syllabus-guide.md` already labels E.2 "(HL only)" (L73, L85, L146); no other IB physics resource covers E.2. Hub and checklist render the label. |
+
+### I398 - Names and source notes (3)
+
+| Item | Files | What changed |
+|---|---|---|
+| I398.1 | `syllabus-topics.ts` DP Biology | D4.2 'Stability and change' (guide). Sibling found by the script: C4.2 'Transfers of energy and matter' (guide roadmap and heading; the record had 'Transfer'). **A2.1 kept as 'Origins of cells'**: the guide's syllabus roadmap and the A2.1 content heading both print "Origins of cells"; only its theory of knowledge table prints "Origin of cells" (quotes above). Source, URL and note now the guide; HL flags A2.1, A2.3, A3.2, B3.3, C2.1, D2.2 as in the roadmap. No IB biology resource uses the changed names. |
+| I398.2 | `syllabus-topics.ts` DP Business Management | Source, URL and note now the guide (first assessment 2024); note records that the 2021 HL brief prints '3.6 Debt/equity ratio analysis'. Resources already say '3.6 Efficiency ratio analysis (HL only)'. |
+| I398.3 | `syllabus-topics.ts` DP Geography, DP Economics | Geography source and URL the ibo.org guide, the UWC East Africa copy removed from source and note. Economics source and URL the guide; the licensing wording removed; note quotes 2.4 (HL only) and records the SL brief's variant. |
+
+### U78 - ESS subtopics (1)
+
+| Item | Files | What changed |
+|---|---|---|
+| U78 | `syllabus-topics.ts` (new optional `subtopicsCaveat` on `SyllabusVersion`, set on DP ESS); hub template; checklist template | The ESS guide could not be read (not found under the subject-guides path; not substituted). The hub and checklist now say that the brief confirms the eight topics, 1.1-1.3 and the HL lenses, and that the names for topics 2-8 are not in the brief, have not been checked against the IB guide, and are provisional. No subtopic removed (deleting them would rest on a document that cannot be read). Stays open for evidence: the IB ESS guide. |
+
+### Disputed
+
+- I398 (1), A2.1 only: 'Origins of cells' is what the guide's syllabus prints (roadmap and content heading); the 'Origin of cells' wording is from its theory of knowledge table. Not changed.
+
+### Observations, not actioned
+
+- The hub intro sentence for ESS still says the topics follow the official document's headings; the caveat directly below qualifies the subtopics.
+
+**Validation.** `astro check` 0 errors; `validate:academic`; `validate-assessments`; cross-board integrity; rendered academic labels (after build); practice bank; commercial claims, pricing consistency, tiered FAQ routes, review integrity, grade thresholds, AS-level display, academic matrix and FX policy; cross-board regression; negative suite 35/35; functions tests 31 pass; duplicate-scope check (the 4 pre-existing groups only); build 2141 HTML files (content cache cleared first); `audit:all` 0 problems across 2140 pages. Rendered: IB Physics hub and checklist show "Quantum physics (HL only)"; IB Biology hub "Stability and change", "Transfers of energy and matter"; ESS hub and checklist show the caveat.
+
+**Open-count position after D-260.** E943 fixed. I398 fixed except A2.1 (disputed with quotes). U78 labelled on the pages; open until the ESS guide can be read. Carried: E939 (3) and (12) deferred; E937, E938, E942 repaired pending audit (D-259).

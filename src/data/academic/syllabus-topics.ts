@@ -76,6 +76,9 @@ export interface SyllabusVersion {
    * (I394, D-258).
    */
   subtopicsComplete?: boolean;
+  /** Reader-facing caveat shown on the hub and checklist when some subtopic
+   * names do not come from the board's own document (U78, D-260). */
+  subtopicsCaveat?: string;
   topics: readonly SyllabusTopic[];
 }
 
@@ -5172,10 +5175,10 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     syllabusCode: 'DP Economics', syllabusSeries: 'First assessment 2022',
     effectiveFrom: '2022', effectiveTo: 'current', status: 'current',
     tiered: false,
-    source: 'International Baccalaureate Organization, Economics guide (Diploma Programme), published February 2020, updated to October 2020',
-    sourceUrl: 'https://www.ibo.org/en/programmes/diploma-programme/curriculum/individuals-and-societies/economics/',
-    verifiedDate: '2026-08-22',
-    notes: 'This content is sourced from the full subject guide, originally accessed under a 2026-08-22 owner licensing confirmation. Owner decision 2026-09-05 retired that licensing framing -- no formal IB license is claimed or required. Four units, real syllabus outline transcribed directly from the guide\'s own "Syllabus outline" table (pages 20-21). HL-only content is marked exactly as the guide marks it -- nothing beyond SL content is presented as compulsory for SL students.',
+    source: 'International Baccalaureate Organization, Economics guide (Diploma Programme), first assessment 2022',
+    sourceUrl: 'https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/economics-guide.pdf',
+    verifiedDate: '2026-09-17',
+    notes: 'Four units, transcribed from the guide\'s own syllabus outline table (printed pages 20-21), read at ibo.org on 2026-09-17 (D-260, round 45 I398); the guide is public there, so no licensing arrangement is involved. HL-only content is marked exactly as the guide marks it, for example \'2.4 Critique of the maximizing behaviour of consumers and producers (HL only)\' (the SL subject brief lists 2.4 without the qualifier); nothing beyond SL content is presented as compulsory for SL students.',
     topics: [
     {
       number: 1, name: 'Introduction to economics', slug: 'ib-dp-economics-unit-1',
@@ -5235,10 +5238,10 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     syllabusCode: 'DP Physics', syllabusSeries: 'First assessment 2025',
     effectiveFrom: '2025', effectiveTo: 'current', status: 'current',
     tiered: false,
-    source: 'International Baccalaureate Organization, Physics guide (Diploma Programme)',
-    sourceUrl: 'https://www.ibo.org/en/programmes/diploma-programme/curriculum/sciences/physics/',
-    verifiedDate: '2026-08-22',
-    notes: 'This content is sourced from the full subject guide, originally accessed under a 2026-08-22 owner licensing confirmation. Owner decision 2026-09-05 retired that licensing framing -- no formal IB license is claimed or required. Five topics (A-E), transcribed directly from the guide\'s own "Syllabus outline" and "Syllabus roadmap" tables (pages 24-25). HL-only sub-topics are marked exactly as the guide marks them. A.2 Forces and momentum content scope re-verified 2026-09-02 (10 guided hours, SL and HL identical -- the guide states explicitly there is no additional higher level content in A.2): Newton\'s three laws, free-body diagrams, named contact and field forces, linear momentum and impulse, Newton\'s second law in momentum form, elastic/inelastic collisions and explosions, and circular motion including centripetal acceleration.',
+    source: 'International Baccalaureate Organization, Physics guide (Diploma Programme), first assessment 2025',
+    sourceUrl: 'https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/physics-guide.pdf',
+    verifiedDate: '2026-09-17',
+    notes: 'Five themes (A-E) and 24 sub-topics, transcribed from Table 4 \'Physics syllabus content overview\' in the guide\'s Syllabus roadmap (printed page 25), read at ibo.org on 2026-09-17. HL-only sub-topics are marked exactly as the guide marks them: Table 4 marks A.4, A.5, B.4, D.4 and E.2 \'•••\', which its key defines as \'Topics with content that should only be taught to HL students\' (E.2 marked HL only in D-260, round 45 E943). A.2 Forces and momentum content scope re-verified 2026-09-02 (10 guided hours, SL and HL identical -- the guide states explicitly there is no additional higher level content in A.2): Newton\'s three laws, free-body diagrams, named contact and field forces, linear momentum and impulse, Newton\'s second law in momentum form, elastic/inelastic collisions and explosions, and circular motion including centripetal acceleration.',
     topics: [
     {
       number: 1, name: 'A. Space, time and motion', slug: 'ib-dp-physics-topic-a',
@@ -5283,7 +5286,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       number: 5, name: 'E. Nuclear and quantum physics', slug: 'ib-dp-physics-topic-e',
       subtopics: [
         { number: 'E.1', name: 'Structure of the atom', slug: 'ib-dp-physics-e-1' },
-        { number: 'E.2', name: 'Quantum physics', slug: 'ib-dp-physics-e-2' },
+        { number: 'E.2', name: 'Quantum physics (HL only)', slug: 'ib-dp-physics-e-2' },
         { number: 'E.3', name: 'Radioactive decay', slug: 'ib-dp-physics-e-3' },
         { number: 'E.4', name: 'Fission', slug: 'ib-dp-physics-e-4' },
         { number: 'E.5', name: 'Fusion and stars', slug: 'ib-dp-physics-e-5' },
@@ -5344,10 +5347,10 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     syllabusCode: 'DP Biology', syllabusSeries: 'First assessment 2025',
     effectiveFrom: '2025', effectiveTo: 'current', status: 'current',
     tiered: false,
-    source: 'International Baccalaureate Organization, Diploma Programme Subject Brief -- Sciences: Biology, first assessment 2025, published January 2022',
-    sourceUrl: 'https://www.ibo.org/globalassets/new-structure/recognition/pdfs/dp_sciences_biology_subject-brief_jan_2022_e.pdf',
-    verifiedDate: '2026-09-08',
-    notes: 'Four syllabus components (Unity and diversity, Form and function, Interaction and interdependence, Continuity and change) transcribed directly from the subject brief\'s own curriculum-model table (the bullet list of sub-topics under each component, with HL-only items marked by an asterisk), fetched and read in full 2026-09-08. The subject brief itself prints no alphanumeric sub-topic codes, only unnumbered bullets, so the A1.1/B2.3-style numbering was cross-verified against biologyforlife.com\'s published IB Biology syllabus roadmap (a detailed teacher-maintained transcription that itself cites IB\'s own curriculum roadmap PDF at xmltwo.ibo.org), fetched 2026-09-08; its topic names, ordering and HL-only flags matched the subject brief bullet-for-bullet across 31 of 32 sub-topics. The sole discrepancy is D4.2, which the subject brief itself names "Sustainability and change" while the secondary source calls it "Stability and change" -- the subject brief\'s own wording (the primary official document) was used here. All other topic/sub-topic names reproduce the subject brief\'s exact spelling, including British forms ("signalling", "defence"). All sub-topics are populated (none left as subtopics: []) since numbering was corroborated across both sources.',
+    source: 'International Baccalaureate Organization, Biology guide (Diploma Programme), first assessment 2025',
+    sourceUrl: 'https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/biology-guide.pdf',
+    verifiedDate: '2026-09-17',
+    notes: 'Four themes (Unity and diversity, Form and function, Interaction and interdependence, Continuity and change) and 40 sub-topics with their numbers, names and \'[HL only]\' flags, read against the guide\'s Syllabus roadmap (printed page 25) and the sub-topic headings in the syllabus content, at ibo.org on 2026-09-17 (D-260, round 45 I398). The guide prints \'C4.2 Transfers of energy and matter\' and \'D4.2 Stability and change\' in both places; the January 2022 subject brief\'s \'Sustainability and change\' is not used. A2.1 follows the roadmap and content heading, \'A2.1 Origins of cells\'; the guide\'s theory of knowledge table alone prints \'Origin of cells\'. HL-only sub-topics: A2.1, A2.3, A3.2, B3.3, C2.1, D2.2. British spellings as printed (\'signalling\', \'defence\').',
     topics: [
       { number: 1, name: 'Unity and diversity', slug: 'ib-dp-biology-unity-diversity', subtopics: [
         { number: 'A1.1', name: 'Water', slug: 'ib-dp-biology-1-a1-1' },
@@ -5381,7 +5384,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: 'C3.1', name: 'Integration of body systems', slug: 'ib-dp-biology-3-c3-1' },
         { number: 'C3.2', name: 'Defence against disease', slug: 'ib-dp-biology-3-c3-2' },
         { number: 'C4.1', name: 'Populations and communities', slug: 'ib-dp-biology-3-c4-1' },
-        { number: 'C4.2', name: 'Transfer of energy and matter', slug: 'ib-dp-biology-3-c4-2' },
+        { number: 'C4.2', name: 'Transfers of energy and matter', slug: 'ib-dp-biology-3-c4-2' },
       ] },
       { number: 4, name: 'Continuity and change', slug: 'ib-dp-biology-continuity-change', subtopics: [
         { number: 'D1.1', name: 'DNA replication', slug: 'ib-dp-biology-4-d1-1' },
@@ -5394,7 +5397,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: 'D3.2', name: 'Inheritance', slug: 'ib-dp-biology-4-d3-2' },
         { number: 'D3.3', name: 'Homeostasis', slug: 'ib-dp-biology-4-d3-3' },
         { number: 'D4.1', name: 'Natural selection', slug: 'ib-dp-biology-4-d4-1' },
-        { number: 'D4.2', name: 'Sustainability and change', slug: 'ib-dp-biology-4-d4-2' },
+        { number: 'D4.2', name: 'Stability and change', slug: 'ib-dp-biology-4-d4-2' },
         { number: 'D4.3', name: 'Climate change', slug: 'ib-dp-biology-4-d4-3' },
       ] },
     ],
@@ -5404,10 +5407,10 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     syllabusCode: 'DP Business Management', syllabusSeries: 'First assessments 2024',
     effectiveFrom: '2024', effectiveTo: 'current', status: 'current',
     tiered: false,
-    source: 'International Baccalaureate Organization, Diploma Programme Subject Brief -- Individuals and societies: Business management, higher level, first assessments 2024, published 2021',
-    sourceUrl: 'https://www.ibo.org/globalassets/new-structure/programmes/dp/pdfs/business-management-hl-subject-brief-en.pdf',
-    verifiedDate: '2026-09-08',
-    notes: 'Five numbered units (Unit 1-5) with every numbered sub-topic transcribed directly from the subject brief\'s "II. Curriculum model overview" table, fetched and read in full 2026-09-08; sub-topics marked "(HL only)" in the source are reproduced verbatim including that qualifier since they are part of the official numbering shared across SL and HL. The curriculum model table also lists three unnumbered, non-topic components -- "Business management toolkit" (35 recommended hours), "Research time allocated for the pre-released statement in paper 1" (5 hours), and "Internal assessment" (20 hours) -- which carry no unit/topic number in the source and were therefore deliberately excluded as they are not content topics in the numbered syllabus sequence, not because of any uncertainty about their content.',
+    source: 'International Baccalaureate Organization, Business management guide (Diploma Programme), first assessment 2024',
+    sourceUrl: 'https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/business-management-guide.pdf',
+    verifiedDate: '2026-09-17',
+    notes: 'Five numbered units (Unit 1-5) with every numbered sub-topic as printed in the guide\'s syllabus outline table (\'Syllabus component / Recommended teaching hours\'), read at ibo.org on 2026-09-17 (D-260, round 45 I398). Sub-topics marked \'(HL only)\' in the guide keep that qualifier, since they are part of the numbering shared across SL and HL; for example \'3.6 Efficiency ratio analysis (HL only)\', where the 2021 higher level subject brief prints \'3.6 Debt/equity ratio analysis (HL only)\'. The outline also lists unnumbered, non-topic components (the business management toolkit, research time for the paper 1 pre-released statement, internal assessment), which are not content topics and are not listed here.',
     topics: [
       { number: 1, name: 'Unit 1: Introduction to business management', slug: 'ib-dp-business-unit-1', subtopics: [
         { number: '1.1', name: 'What is a business?', slug: 'ib-dp-business-1-1' },
@@ -5467,6 +5470,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     sourceUrl: 'https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/environmental-systems-and-societies-subject-brief-en.pdf',
     verifiedDate: '2026-09-08',
     notes: 'Topic 1 (Foundation) and its three subtopics (1.1-1.3), the top-level names and numbers of Topics 2-8, and the three HL-only lenses (HL.a-HL.c) were transcribed directly from the IB\'s own Diploma Programme Subject Brief for ESS (first assessment 2026), fetched and read in full (all 5 pages, via pdf.js text extraction against the live ibo.org PDF) on 2026-09-08; the brief\'s curriculum-model table does not itself enumerate subtopics beyond Topic 1. Subtopics for Topics 2-8 (2.1-8.3) are not in the subject brief, so they were sourced by cross-checking two independent, unaffiliated IB-teacher resource sites (mrkremerscience.com and sciencesauceonline.com) that explicitly document the 2026 ESS syllabus and mirror the guide\'s own topic numbering; both agreed verbatim on every subtopic title except 6.1, where sciencesauceonline.com (explicitly framed as covering "all eight topics of the IB Environmental Systems and Societies 2026 syllabus") gave "Introduction to the atmosphere" versus mrkremerscience.com\'s abbreviated nav-menu label "Intro to the atmosphere" -- the fuller wording was used as the more likely faithful transcription. Because these subtopic titles come from secondary (non-IB) sources rather than the primary subject brief, they carry residual uncertainty despite two-source agreement; the official syllabus guide itself (which would resolve this definitively) was not consulted because only pirate/unofficial full-guide mirrors could be located, and those were deliberately avoided as sources. Topic numbers 9-11 were assigned sequentially to the three HL-only lenses to satisfy the schema\'s numeric `number` field; their true source labels (HL.a/HL.b/HL.c) are preserved verbatim inside each `name` string, matching the precedent set by the existing DP Chemistry entry. No subtopic breakdown exists for the HL lenses in any source consulted, so their `subtopics` arrays are empty.',
+    subtopicsCaveat: 'The IB\'s subject brief confirms the eight topic names, Foundation subtopics 1.1-1.3 and the three HL lenses. The subtopic names shown for topics 2-8 are not printed in the brief and have not yet been checked against the IB\'s own ESS guide, so treat them as provisional and confirm them with your teacher or school.',
     topics: [
       { number: 1, name: 'Foundation', slug: 'ib-dp-environmental-systems-and-societies-foundation', subtopics: [
         { number: '1.1', name: 'Perspectives', slug: 'ib-dp-environmental-systems-and-societies-1-1' },
@@ -5521,10 +5525,10 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     syllabusCode: 'DP Geography', syllabusSeries: 'First assessments 2019',
     effectiveFrom: '2019', effectiveTo: 'current', status: 'current',
     tiered: false,
-    source: 'International Baccalaureate Organization, Diploma Programme Subject Brief -- Individuals and societies: Geography, first assessments 2019 (used for the Part one/Part two/Internal assessment curriculum-model structure, teaching hours and component names); the seven Part one option letters (A-G) and six Part two unit numbers (1-6), and every numbered sub-topic (1-4 per option, 1-3 per unit), were cross-checked against the full official DP Geography guide text ("Geography guide", first teaching September 2017, first assessment May 2019) as mirrored, unmodified, by UWC East Africa (an IB World School) at dp.uwcea.org -- the two-page subject brief itself only lists the Part one/two component bullets without the guide\'s own numbering.',
-    sourceUrl: 'https://www.ibo.org/contentassets/5895a05412144fe890312bad52b17044/geography-sl-hl-2017-en.pdf',
-    verifiedDate: '2026-09-08',
-    notes: 'Fetched and read in full 2026-09-08 (via a live browser session, since direct HTTP fetch of the ibo.org PDF hit a Cloudflare bot-check page): the official 2-page IB Subject Brief confirms this is "First assessments 2019" and gives the Part one (Geographic themes, seven options, two studied at SL / three at HL), Part two SL/HL core (Geographic perspectives -- global change), Part two HL-only core extension (Geographic perspectives -- global interactions) and Internal assessment (Fieldwork) structure with teaching hours -- confirmed still current and not superseded by searching IB\'s 2026/2027 curriculum-review subject waves (History moves in 2026; maths, language ab initio, language B, religion and society and dance in 2027 -- geography is not in either wave). Because the subject brief itself does not print numbered sub-topics, the sub-topic breakdown (and the exact "Option A" / "Unit 1" etc. letter/number labels and the four-/three-part numbered headings inside each option and unit) was taken from the secondary source named above, a mirror of the full official guide hosted by UWC East Africa; this secondary source is used only to supply structure and headings that are consistent with, and additive to, the primary IB subject brief, and its text reads as an unmodified reproduction of IB guide language throughout. The top-level number field (1-14) is a sequential ordinal assigned for this database only, because the source itself uses two incompatible label systems side by side (letters A-G for the seven Part one options, digits 1-6 for the Part two units); the official letter/digit label is preserved verbatim inside each topic name. Topic 14 (Fieldwork, internal assessment) has no further numbered breakdown in the guide, so subtopics is left empty.',
+    source: 'International Baccalaureate Organization, Geography guide (Diploma Programme), first teaching September 2017, first assessment May 2019 (published February 2017, updated to November 2022)',
+    sourceUrl: 'https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/geography-guide.pdf',
+    verifiedDate: '2026-09-17',
+    notes: 'The seven Part one options (A-G), the six Part two units (1-6) and all 46 numbered sub-topics were read against the guide at ibo.org on 2026-09-17 (D-260, round 45 I398); every sub-topic name appears in it. The guide confirms first assessment 2019; geography is not in the IB\'s 2026 or 2027 curriculum-review waves. The top-level number field (1-14) is a sequential ordinal assigned for this database only, because the guide uses two label systems side by side (letters A-G for the Part one options, digits 1-6 for the Part two units); the official letter/digit label is kept inside each topic name. Topic 14 (Fieldwork, internal assessment) has no further numbered breakdown in the guide, so subtopics is left empty.',
     topics: [
       { number: 1, name: 'Option A: Freshwater', slug: 'ib-dp-geography-freshwater', subtopics: [
         { number: '1.1', name: 'Drainage basin hydrology and geomorphology', slug: 'ib-dp-geography-1-1' },

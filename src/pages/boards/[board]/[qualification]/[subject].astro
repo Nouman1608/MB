@@ -696,6 +696,9 @@ const jsonLd = [
                 : ' Subtopics are shown where Marlbridge has entered them from the document; a topic shown with few or no subtopics may have more in the official document.'}
             </p>
           )}
+          {syllabusTopics.subtopicsCaveat && (
+            <p class="m-0 mb-2 max-w-[70ch] rounded-sm border-l-2 border-gold-500 pl-3 text-[15.5px] leading-[1.6] text-ink-mute" data-subtopics-caveat>{syllabusTopics.subtopicsCaveat}</p>
+          )}
           <p class="m-0 mb-[clamp(24px,3vw,40px)] max-w-[70ch] text-[15.5px] leading-[1.6] text-ink-mute">
             A topic listed here is part of the syllabus. It does <strong class="font-semibold text-navy-800">not</strong> mean
             Marlbridge has published material for it — topics with resources are marked.

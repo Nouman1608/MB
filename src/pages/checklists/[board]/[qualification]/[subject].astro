@@ -55,6 +55,9 @@ const hubHref = academicHubPath({ boardSlug: board, qualificationSlug: qualifica
         {' '}<a href={version.sourceUrl} class="underline decoration-gold-500 underline-offset-2">{version.source}</a>,
         verified {version.verifiedDate}.
       </p>
+      {version.subtopicsCaveat && (
+        <p class="m-0 -mt-4 mb-8 max-w-[70ch] text-[14px] text-ink-mute" data-subtopics-caveat>{version.subtopicsCaveat}</p>
+      )}
 
       <ol class="m-0 list-none space-y-8 p-0">
         {version.topics.map((topic) => (
