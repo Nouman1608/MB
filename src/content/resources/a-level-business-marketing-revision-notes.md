@@ -72,11 +72,12 @@ few early competitors).
 
 ## Connecting the Boston Matrix and product life cycle
 
-These two frameworks are **frequently tested together**: a product
-entering the **decline** stage of its life cycle is the same signal
-a Boston Matrix might present as a **"dog."** Practise using one
-framework to explain a decision made about the other — this
-demonstrates stronger command than treating them as separate tools.
+The syllabus names both under product portfolio analysis (3.3.3). A
+Boston Matrix **"dog"** is a product with a **low market share in a
+low-growth market**. A dog may be, but need not be, in the **decline**
+stage of its life cycle: a product can have a low share of a slow-growing
+market at any stage. Practise using one framework to explain a decision
+made about the other, without treating them as the same measure.
 
 ## Worked example: recommending a pricing method
 
@@ -196,6 +197,7 @@ want. 2. Geographic, demographic, psychographic. 3. Primary: a survey
 the business commissions itself; secondary: government trade
 statistics the business already has access to. 4. Penetration pricing
 for the new entrant; price skimming for the novel product. 5. A "dog"
-in the Boston Matrix typically corresponds to a product in the
-**decline** stage of its product life cycle — both frameworks are
-signalling the same underlying situation from different angles.
+has a low market share in a low-growth market. It may coincide with the
+**decline** stage of the product life cycle, but need not: the matrix
+measures share and market growth, the life cycle measures the product's
+own sales over time.

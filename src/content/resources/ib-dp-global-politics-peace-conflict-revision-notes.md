@@ -64,8 +64,7 @@ interact, rather than reducing a conflict to one label.
 ## Approaches to resolving conflict
 
 Distinguish peacemaking (negotiations and treaties aimed at ending violence), peacekeeping
-(maintaining a ceasefire or preventing renewed violence, e.g. through UN peace enforcement or NATO
-involvement), and peacebuilding (post-conflict work to prevent recurrence, such as rebuilding
+(maintaining a ceasefire or preventing renewed violence, e.g. through UN peacekeeping missions), and peacebuilding (post-conflict work to prevent recurrence, such as rebuilding
 institutions and reconciliation processes). Revise named mechanisms and actors relevant to each: for
 peacemaking, negotiation and mediation, often involving third-party actors and resulting in a treaty;
 for peacekeeping, ceasefire monitoring and peacekeeping forces; for peacebuilding, transitional
@@ -117,7 +116,7 @@ legitimate (e.g. authorised by international bodies or seen as defensive) tends 
 international responses than one seen as illegitimate (e.g. unprovoked aggression), even where the
 underlying conflict dynamics are similar. 3. Peacemaking covers negotiations and treaties aimed at
 ending violence; peacekeeping covers maintaining a ceasefire or preventing renewed violence (e.g. UN
-peace enforcement or NATO involvement); peacebuilding covers post-conflict work to prevent recurrence,
+peacekeeping missions); peacebuilding covers post-conflict work to prevent recurrence,
 such as institution rebuilding and reconciliation. 4. Any valid example, e.g. transitional justice mechanisms,
 truth and reconciliation commissions (as used in the Gambia, Canada and Tunisia), or justice
 institutions such as the International Criminal Court (as distinct from ceasefires or peacekeeping

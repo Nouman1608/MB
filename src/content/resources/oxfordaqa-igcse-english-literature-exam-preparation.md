@@ -22,8 +22,8 @@ examination of 2 hours 15 minutes and 90 marks, worth 60%. **Route B** instead a
 2b (Poetry, 1 hour 30 minutes, 60 marks, 40%) **together with** a Non-Exam Assessment -- one extended
 response to a prose fiction text of the student's choice, 30 marks and 20%, teacher assessed and AQA
 moderated. The specification is being revised for first teaching September 2026 with a refreshed set
-of prescribed texts; the board states the paper structure, timings, marks and weightings above are
-unchanged by that revision -- only the texts differ. These notes complement the site's guides to
+of prescribed texts; the revised specification keeps the same papers, timings, marks and weightings
+as those above. These notes complement the site's guides to
 [Prose and Drama](/resources/igcse-oxfordaqa-english-literature-prose-and-drama/) and
 [Poetry and Unseen Texts](/resources/igcse-oxfordaqa-english-literature-poetry-and-unseen-texts/).
 

@@ -50,8 +50,8 @@ Two essays, **1,250-1,500 words each**, on **two different texts**:
 - One response is a **conventional essay**; the second can be
   **re-creative** -- or you may submit two conventional essays instead.
 
-There is no exam-hall time pressure, but there is a strict word count
-band, and a strict requirement that the two texts draw on genuinely
+There is no exam-hall time pressure, but each essay should be 1,250-1,500
+words, with 1,500 the maximum, and a strict requirement that the two texts draw on genuinely
 *different* critical lenses.
 
 ## The Critical anthology and how to choose texts against it

@@ -31,7 +31,7 @@ and [revision notes](/resources/a-level-computer-science-processor-fundamentals-
 
 ## Section A
 
-**1.** Name the two registers that together allow the CPU to fetch an instruction from memory. **[2]**
+**1.** Name the register that holds the address of the next instruction to be fetched, and the register that address is copied to. **[2]**
 
 **2.** Distinguish between immediate and direct addressing modes. **[2]**
 
@@ -75,8 +75,8 @@ byte is set to 1, without changing the byte itself.
 
 ## Answers
 
-**1.** The program counter (PC), which holds the address of the next instruction to be fetched, and
-the memory address register (MAR), which receives that address so it can be sent to memory [2].
+**1.** The program counter (PC), which holds the address of the next instruction to be fetched [1],
+and the memory address register (MAR), to which that address is copied [1].
 
 **2.** In immediate addressing, the instruction contains the actual value to be used directly [1]. In
 direct addressing, the instruction contains the address of the memory location where the value is

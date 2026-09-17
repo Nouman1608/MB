@@ -34,8 +34,8 @@ Critical anthology.
 - One response is a **conventional essay**; the second can be
 **re-creative** — or you can submit two conventional essays instead.
 
-There is no exam-hall time pressure here, but there is a strict word
-count and a strict requirement that both texts draw on *different*
+There is no exam-hall time pressure here, but each essay should be
+1,250-1,500 words, with 1,500 the maximum, and a strict requirement that both texts draw on *different*
 critical lenses — a common early-planning mistake is picking two texts
 that would naturally support the same critical anthology section.
 

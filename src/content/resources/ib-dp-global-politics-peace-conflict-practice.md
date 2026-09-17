@@ -59,7 +59,7 @@ and the [IB DP Global Politics syllabus guide](/resources/ib-dp-global-politics-
 
 **2.** Power, sovereignty, legitimacy, interdependence. **[4]**
 
-**3.** Peacemaking covers negotiations and treaties aimed at ending violence; peacekeeping covers maintaining a ceasefire or preventing renewed violence (e.g. through UN peace enforcement or NATO involvement). **[2]**
+**3.** Peacemaking covers negotiations and treaties aimed at ending violence; peacekeeping covers maintaining a ceasefire or preventing renewed violence (e.g. through UN peacekeeping missions). **[2]**
 
 **4. (a)** This is an intrastate conflict, since it occurs within a single state between the government and a movement based within that state's own territory, rather than between two separate states. **[2]**
 **(b)** A successful or prolonged separatist movement directly challenges the state's sovereignty by contesting its exclusive authority over the region in question; even where the movement does not succeed, the government's need to reassert control can itself reveal or weaken the practical limits of that sovereignty, making this exactly the kind of case the guide identifies as testing sovereignty in intrastate conflict. **[3]**

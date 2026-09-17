@@ -73,11 +73,11 @@ Always name a specific, plausible third variable rather than gesturing at "other
 
 The endocrine system communicates via **hormones** released by glands directly into the bloodstream,
 which is slower but longer-lasting than the electrical signalling of the nervous system. The
-**fight-or-flight response** is the specification's named example: a perceived threat triggers the
-hypothalamus, which activates the sympathetic nervous system and the adrenal medulla to release
+**fight-or-flight response** is the specification's named example: a perceived threat is detected in
+the brain (the amygdala signals the hypothalamus), and the hypothalamus activates the sympathetic nervous system and the adrenal medulla to release
 **adrenaline**, producing physiological changes (increased heart rate, blood diverted to muscles,
 pupil dilation) that prepare the body for rapid action. Learn this as a single connected sequence
-(threat → hypothalamus → sympathetic activation → adrenaline → physiological changes) rather than as
+(threat → amygdala and hypothalamus → sympathetic activation → adrenaline → physiological changes) rather than as
 a list of disconnected facts, since exam questions often ask you to explain the *sequence*, not just
 name the hormone involved.
 

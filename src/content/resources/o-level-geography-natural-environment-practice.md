@@ -100,10 +100,12 @@ terms of climate, vegetation adaptation, and one human threat to each. **[6]**
 
 ## Answers
 
-**1.** Both occur mainly at or near plate boundaries, where the
-movement of tectonic plates (diverging, converging, or sliding past
-one another) builds up stress in the crust and allows magma to reach
-the surface [2].
+**1.** Both occur mainly at or near plate boundaries, where tectonic
+plates move apart, towards each other or past one another [1].
+Earthquakes occur at all three boundary types (constructive,
+destructive and conservative); volcanic activity occurs at
+constructive and destructive boundaries, where magma reaches the
+surface [1].
 
 **2.** Upper: vertical erosion; V-shaped valley or waterfall [2].
 Middle: lateral erosion; meander [1]. Lower: deposition; floodplain or

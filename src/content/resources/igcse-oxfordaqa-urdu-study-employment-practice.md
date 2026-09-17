@@ -72,7 +72,7 @@ element. **[3]**
 ## Worked answers
 
 **1.** مضمون (subject) **[1]**، ٹائم ٹیبل (timetable) **[1]**، کالج (college) **[1]**، ڈاکٹر (doctor)
-**[1]**، مقصد/عزم (ambition) **[1]**.
+**[1]**، خواہش or عزائم (ambition) **[1]**; any clear rendering of 'ambition' is credited. مقصد means 'goal' (as in the passage) and عزم 'resolve', so neither is the model answer.
 
 **2. (a)** میں کالج میں اپنی تعلیم **جاری رکھوں گا** **[2]** (future tense, correct verb agreement).
 **(b)** میں ڈاکٹر **بننا چاہتا ہوں** کیونکہ میں لوگوں کی مدد کرنا چاہتا ہوں۔ **[2]**

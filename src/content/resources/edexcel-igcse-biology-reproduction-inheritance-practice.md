@@ -75,7 +75,7 @@ Related: [Topic 3 study guide](/resources/igcse-edexcel-biology-reproduction-and
 **(c)** Most phenotypic features arise from polygenic inheritance (many genes acting together), not a single gene as in this simplified monohybrid example, so a real trait's inheritance pattern is usually far more complex than a single dominant/recessive pair predicts. **[2]**
 
 **5. (a)** Mitosis produces 2 daughter cells; meiosis produces 4 daughter cells. **[2]**
-**(b)** Meiosis involves genetic mixing (independent assortment and the halving of chromosome number from diploid to haploid), producing four genetically different haploid gametes; mitosis simply copies the parent cell's genetic material exactly and divides it between two daughter cells, so no genetic mixing occurs and the resulting cells are genetically identical to the parent cell and each other. **[3]**
+**(b)** Meiosis halves the chromosome number, producing four haploid gametes, and the gametes are genetically different because chromosomes are shared out in different combinations (independent assortment; crossing over is also credited); mitosis simply copies the parent cell's genetic material exactly and divides it between two daughter cells, so no genetic mixing occurs and the resulting cells are genetically identical to the parent cell and each other. **[3]**
 
 **6. (a)** Tube B had no water, and water is a required condition for germination. **[1]**
 **(b)** Tube C was sealed with oil, preventing oxygen from reaching the seed; oxygen is required for respiration, which provides the energy needed for germination, so without it germination cannot proceed. **[2]**

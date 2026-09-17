@@ -124,12 +124,12 @@ pricing methods and the market condition each suits best (for example,
 penetration pricing for a new entrant trying to build market share
 quickly; price skimming for a genuinely novel product with few early
 competitors), since advising on and justifying a method for a given
-scenario is the skill this content tests. The Boston Matrix and product life
-cycle are frequently tested together -- practise using one to explain
-decisions made about the other, since a product entering the "decline"
-stage of its life cycle is the same signal a Boston Matrix might
-present as a "dog," and connecting the two frameworks demonstrates a
-stronger command of the material than treating them as separate tools.
+scenario is the skill this content tests. The syllabus names the Boston Matrix and
+product life cycle together under product portfolio analysis (3.3.3) --
+practise using one to explain decisions made about the other. A "dog"
+(low market share in a low-growth market) may be, but need not be, in
+the "decline" stage of its life cycle, so the two tools are connected
+without measuring the same thing.
 For 3.2, keep primary and secondary research anchored to concrete
 examples (a survey a business commissions itself, versus government
 trade statistics it already has access to) rather than abstract

@@ -186,7 +186,8 @@ the economy's long-run capacity is unchanged, only how much of it
 is currently being used.
 ```
 
-Step 4 is the distinction examiners reward most: many weaker answers describe only the short-run AD
+Step 4 is what distinguishes stronger answers: AQA's Paper 2 examiner reports say separating short-run
+from long-run effects marks out 'better students' (June 2023) and 'stronger responses' (June 2025), while weaker answers describe only the short-run AD
 effect and never address whether the economy's underlying capacity (LRAS) has changed at all.
 
 ## Why the AD-AS model is treated as one of several competing models

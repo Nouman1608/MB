@@ -12360,3 +12360,37 @@ Raised by the repair agents and reviewers while reading siblings; not recorded b
 **Validation.** All pass: `astro check` 0 errors; `validate:academic`; `validate-assessments`; cross-board integrity; build (2141 HTML files); `audit:all` 0 problems across 2140 pages; cross-board regression; negative suite; API tests 31/31; `check-duplicate-resource-scope` the four pre-existing groups only.
 
 **Open-count position after D-253.** Rounds 35 and 36 add no confirmed-error groups; the 72 they carry are closed by D-252. I386 (five items) and I387 (three items) are closed here (13 files). Confirmed errors declared open: 0.
+
+## D-254 - Audit round 37 (Q418): I388 closed (2026-09-17)
+
+**Trigger.** Round 37 (`docs/audit/2026-11-13-findings.md`, `c763a79`) records the owner's decision that leads no public official document settles are closed by conservative rewording to the boards' own wording. The fourteen remaining leads (Q399.10-.12, .14, .18-.21, .24, .25; Q406 9275; D-244 7136 and 7717; D-245 IB Chemistry command terms) become I388, thirteen rewordings. The audit carries no open leads. D-252 and D-253 are not yet read.
+
+**Primary sources.** Read by the lead where held: Cambridge O Level Geography 2217 (2026, Version 3) 2.1, "an awareness of plate movements, subduction zones and their effects – constructive/divergent, destructive/convergent and conservative plate boundaries"; Cambridge 9609 (2026-2028) 3.3.3 Product portfolio analysis, "product life cycle and decisions about extension strategies • Boston Matrix analysis and its uses"; Cambridge 9618 (2026) 4.1, special purpose registers MDR, MAR, PC, IX, CIR, Status Register, with no register pair named for the fetch; Pearson 4BI1 3.30, "division of a cell by meiosis produces four cells, each with half the number of chromosomes, and that this results in the formation of genetically different haploid gametes". For the IB guides, OxfordAQA 9685 and 9275, and the AQA 7136 and 7717 reports, the rewordings follow the round-37 quotations, and each removes or softens a claim rather than adding a figure; where the audit's fix offered a choice, the more conservative form was taken (credit either structure; accept a range).
+
+### I388 - Thirteen rewordings
+
+| Item | Files | What changed |
+|---|---|---|
+| I388.1 | `o-level-geography-natural-environment-practice.md` answer 1; sibling `o-level-geography-natural-environment-revision-notes.md` | Answer split [1] + [1] = [2]: plates move apart, together or past one another at boundaries; earthquakes at all three boundary types, volcanic activity at constructive and destructive boundaries, where magma reaches the surface. Notes: volcanoes at constructive (diverging) and destructive (converging) boundaries. |
+| I388.2 | `a-level-business-marketing-revision-notes.md` (section and self-test answer 5); sibling `a-level-business-marketing.md` | A dog defined as low market share in a low-growth market; it may, but need not, coincide with the decline stage; 'the same signal' and 'frequently tested together' removed (both named under 3.3.3). |
+| I388.3 | `a-level-computer-science-processor-fundamentals-practice.md` Q1 and answer | Question now asks for the register holding the address of the next instruction and the register that address is copied to; PC [1], MAR [1]. |
+| I388.4 | `edexcel-igcse-biology-reproduction-inheritance-practice.md` answer 5(b) | Halving gives four haploid gametes; the genetic differences credited to independent assortment (crossing over also credited). [3] unchanged. |
+| I388.5 | `ib-dp-ess-topic-1-foundations-practice.md` Q6 and scheme | Question asks what happens to flood peaks inland when storage is removed; scheme credits an answer that no feedback loop is involved and does not credit 'positive feedback'. [8] unchanged. |
+| I388.6 | `ib-dp-global-politics-peace-conflict.md`, `-revision-notes.md` (L67, answer 3), `-practice.md` answer 3 | 'UN peace enforcement or NATO involvement' replaced with UN peacekeeping missions. |
+| I388.7 | `ib-dp-history-investigation-ia-practice.md` answer 8 | Significance used for how important an event or development was (scale, duration, consequences); weighing causes moved to cause and consequence; the claim about what the analysis criterion 'specifically rewards' removed. [6] unchanged. |
+| I388.8 | `igcse-oxfordaqa-urdu-study-employment-practice.md` answer 1 | 'ambition' credited as خواہش or عزائم, or any clear rendering; مقصد ('goal', as in the passage) and عزم ('resolve') no longer the model answer. |
+| I388.9 | `oxfordaqa-a-level-psychology-biopsychology-development-practice.md` answer 4; sibling `-revision-notes.md` | Threat detected in the brain; the mark credits the amygdala signalling the hypothalamus, or the hypothalamus alone; the hypothalamus activates the sympathetic branch. Notes' sequence now threat, amygdala and hypothalamus, sympathetic activation, adrenaline. Tariff unchanged. |
+| I388.10 | `oxfordaqa-igcse-english-literature-exam-preparation.md` | Attribution removed: the revised specification keeps the same papers, timings, marks and weightings. |
+| I388.11 | `aqa-a-level-economics-aggregate-demand-supply.md` L189 | 'reward most' replaced: separating short-run from long-run effects distinguishes stronger answers, with the reports' 'better students' (June 2023) and 'stronger responses' (June 2025). |
+| I388.12 | `aqa-a-level-english-literature-b-theory-and-independence.md`; `a-level-aqa-english-literature-b-theory-and-independence-revision-notes.md` | 'strict word count band' replaced: 1,250-1,500 words per essay, with 1,500 the maximum. |
+| I388.13 | `ib-dp-chemistry-exam-preparation.md` (Paper 2); `ib-dp-chemistry-assessment-revision-notes.md` (heading and paragraph); sibling heading in `ib-dp-biology-assessment-revision-notes.md` | Per-paper command-term claims removed: one glossary for both papers, not assigned to either. The biology notes' heading 'how each paper uses them' changed to 'across both papers'. |
+
+### Observations, not actioned
+
+- `aqa-a-level-english-literature-b-theory-and-independence.md` L53-55 and its revision notes L37-39 also say there is 'a strict requirement that the two texts draw on genuinely different critical lenses'; not part of I388 and not read against 7717 here.
+- `ib-dp-psychology-exam-preparation.md` and `ib-dp-psychology-assessment-revision-notes.md` keep the heading 'Command terms and how each paper uses them'; the psychology guide (2019) was not read for this entry.
+- `ib-dp-biology-assessment-revision-notes.md` says evaluate/discuss practice 'pays off disproportionately' for Paper 2; advice, not a claim about the guide.
+
+**Validation.** All pass: `astro check` 0 errors; `validate:academic`; `validate-assessments`; cross-board integrity; build (2141 HTML files); `audit:all` 0 problems across 2140 pages; cross-board regression; negative suite; API tests 31/31; `check-duplicate-resource-scope` the four pre-existing groups only.
+
+**Open-count position after D-254.** Round 37 adds no confirmed-error groups; its count of 72 is the round-34 count that D-252 closes. I388's thirteen items are closed here (21 files). Confirmed errors declared open: 0.

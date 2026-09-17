@@ -69,8 +69,8 @@ The syllabus also names six causes of conflict -- **identity**,
 divisions**, and **institutional arrangements** -- and approaches to
 resolving conflict: **peacemaking** (negotiations and treaties aimed
 at ending violence), **peacekeeping** (maintaining a ceasefire or
-preventing renewed violence, for example through UN peace enforcement
-or NATO involvement), and **peacebuilding** (post-conflict work to
+preventing renewed violence, for example through UN peacekeeping
+missions), and **peacebuilding** (post-conflict work to
 prevent recurrence, such as institution rebuilding, transitional
 justice and reconciliation -- for example truth and reconciliation
 commissions, as used in the Gambia, Canada and Tunisia, or justice

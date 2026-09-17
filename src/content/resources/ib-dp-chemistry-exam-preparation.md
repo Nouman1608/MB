@@ -46,9 +46,9 @@ worth the same regardless of difficulty.
 ## Paper 2 (44% of the final grade)
 
 Short-answer and extended-response questions built around the **structure-and-reactivity**
-framework, requiring sustained, connected reasoning across topics rather than isolated recall. This
-is where **evaluate**, **discuss** and **justify** command terms appear most, requiring a reasoned
-judgement supported by evidence.
+framework, requiring sustained, connected reasoning across topics rather than isolated recall. The
+command terms come from the same glossary for both papers and are not assigned to either; **evaluate**,
+**discuss** and **justify** require a reasoned judgement supported by evidence.
 
 **Exam-preparation priority**: because both papers draw questions across the structure-and-reactivity
 framework rather than testing topics as standalone blocks, revise **connections between topics**

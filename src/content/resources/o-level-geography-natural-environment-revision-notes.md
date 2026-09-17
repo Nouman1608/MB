@@ -27,7 +27,7 @@ Condensed, exam-focused notes for Theme 2 of Cambridge O Level Geography (2217),
 - Caused by plate movement at boundaries (diverging, converging, sliding past).
 - Earthquakes: stress builds along a fault and releases suddenly; effects include ground shaking,
   tsunamis, building collapse.
-- Volcanoes: magma reaches the surface, typically at converging or diverging boundaries; effects
+- Volcanoes: magma reaches the surface, at constructive (diverging) and destructive (converging) boundaries; effects
   include lava flows, ash fall, pyroclastic flows.
 - Management: building codes, early-warning systems, evacuation planning — always separate the physical
   cause (plate boundary type) from the human response (management).
