@@ -9,7 +9,7 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Physics"]
 syllabusSeries: "First assessment 2025"
 order: 4
-description: "Paper-by-paper exam preparation for IB DP Physics -- Paper 1's data-based multiple-choice strategy, Paper 2's short-and-extended-response strategy, data-booklet fluency, a worked uncertainty-estimation scenario and a checklist, for first assessment 2025."
+description: "Paper-by-paper exam preparation for IB DP Physics -- Paper 1A multiple-choice and Paper 1B data-based strategy, Paper 2's short-and-extended-response strategy, data-booklet fluency, a worked uncertainty-estimation scenario and a checklist, for first assessment 2025."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-07
 featured: false
@@ -18,19 +18,22 @@ featured: false
 DP Physics does not yet have a dedicated assessment-revision-notes page on this site, so the paper
 structure below is drawn directly from the same official IB Physics guide used to build the
 [full syllabus guide](/resources/ib-dp-physics-syllabus-guide/) and this site's assessment records:
-Paper 1 (multiple-choice with short data-based questions, SL 90 minutes/45 marks/36%, HL 120
-minutes/60 marks/36%, calculator and data booklet permitted), Paper 2 (short-and-extended-response
+Paper 1 (two separate booklets completed together without interruption: Paper 1A multiple-choice,
+SL 25 marks / HL 40 marks, and Paper 1B data-based questions, 20 marks; SL 90 minutes/45 marks/36%, HL
+120 minutes/60 marks/36%, calculator and data booklet permitted), Paper 2 (short-and-extended-response
 questions, SL 90 minutes/55 marks/44%, HL 150 minutes/90 marks/44%, calculator and data booklet
 permitted), and an internally assessed scientific investigation (24 marks, 20%, marked against 4
 criteria worth 6 marks each -- research design, data analysis, conclusion and evaluation --
 externally moderated). These notes turn that structure into an exam-day
 plan.
 
-## Paper 1: data-based questions sit alongside pure recall multiple-choice
+## Paper 1: a multiple-choice booklet (1A) and a data-based booklet (1B)
 
-Paper 1 blends conventional multiple-choice recall with data-based questions built around graphs,
-tables or experimental scenarios the student has not seen before. **Exam-preparation priority**:
-because both question types are mixed together and share the same 36% weighting, don't over-revise
+Paper 1 is presented as two separate booklets: Paper 1A, multiple-choice questions (25 marks at SL, 40
+at HL), and Paper 1B, data-based questions built around graphs, tables or experimental scenarios the
+student has not seen before (20 marks at both levels). The two are completed together without
+interruption. **Exam-preparation priority**: because 1B's data-based questions sit inside the same
+36% paper as the multiple-choice booklet, and the time is shared across both, don't over-revise
 pure factual recall at the expense of practising unfamiliar data sets -- reading an unfamiliar graph
 or table accurately under time pressure is a distinct, practisable skill, not something that follows
 automatically from knowing the five syllabus themes well.
@@ -114,7 +117,7 @@ final value, which is exactly the level of working both the written papers and t
    the period?
 4. What does "explain" require, beyond a correct calculation?
 
-**Answers:** 1. Paper 1 is worth 36% (multiple-choice with short data-based questions); Paper 2 is
+**Answers:** 1. Paper 1 is worth 36% (two booklets taken together: 1A multiple-choice, 1B data-based questions); Paper 2 is
 worth 44% (short-and-extended-response questions). 2. The official IB Physics data booklet
 (formulae and constants) -- practising with it in advance means locating the right formula is a
 rehearsed skill rather than something worked out for the first time under exam pressure. 3. Because

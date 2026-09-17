@@ -81,9 +81,10 @@ For any transformation question, describe fully means naming the
 transformation type and giving every required piece of information:
 a reflection needs the equation of the mirror line, a rotation needs
 the centre, angle and direction, an enlargement needs the centre and
-scale factor, and a translation needs the column vector — a
-transformation named without its full details earns no marks even if
-the diagram is correct. At Extended tier, always check the sign and
+scale factor, and a translation needs the column vector. Mark schemes
+give the name of the transformation a mark of its own and each required
+detail a further mark, so a correctly named transformation with a
+detail missing earns only part of the marks. At Extended tier, always check the sign and
 size of an enlargement's scale factor before drawing: a negative
 scale factor produces an image on the opposite side of the centre
 that is also upside down, which students who only practise positive

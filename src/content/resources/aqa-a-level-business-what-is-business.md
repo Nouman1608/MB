@@ -84,7 +84,7 @@ Objectives flow downwards: **mission** (the overall purpose) informs **corporate
 
 Common corporate objectives include profit maximisation, growth, market share, survival, cash flow, and increasingly social and ethical goals. They conflict as often as they align — growth frequently consumes cash, and ethical sourcing often raises costs. Which objective dominates depends on the stage of the business, the state of the market and the expectations of stakeholders.
 
-Objectives should be **SMART**: specific, measurable, achievable, realistic and time-bound.
+A common framework for making objectives measurable is **SMART** (specific, measurable, achievable, realistic and time-bound); it is not named in the specification, which lists objectives such as profit, growth, survival, cash flow, social and ethical objectives (3.1.1).
 
 **Profit and cash flow are not the same thing and should not be used interchangeably in an answer.** Profit is revenue minus total costs over a period, an accounting measure of overall performance. Cash flow is the actual movement of money in and out of the business day to day. A business can be profitable on paper but still run out of cash -- for example if customers are slow to pay or if it ties up too much money in stock -- which is why cash flow, not profit, is what keeps a business trading from one week to the next.
 
@@ -137,7 +137,7 @@ Confusing added value (3.4.1 content) with profit — added value ignores overhe
 ## Quick revision checklist
 
 - Define added value and explain the ways a business can increase it (3.4.1 content, background for Topic 1).
-- Explain the hierarchy from mission to functional objectives and write SMART objectives.
+- Explain the hierarchy from mission to functional objectives and write measurable objectives (SMART is a framework beyond the specification).
 - Compare the four forms of ownership, focusing on liability and access to capital.
 - Distinguish stakeholder from shareholder approaches and argue both sides.
 - Apply the six named external factors to a given business context rather than listing them; use PESTLE, if at all, only as an optional way to organise them.

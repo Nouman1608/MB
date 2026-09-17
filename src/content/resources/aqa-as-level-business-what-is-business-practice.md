@@ -52,9 +52,9 @@ Questions 1, 2 and 5 are on added value, which the specification names under **3
 **(a)** Explain how this scenario illustrates added value. **[3]**
 **(b)** Explain why this is not the same as simply increasing profit. **[2]**
 
-**6.** A business states its objective as "we want our company to grow."
+**6.** A business states its objective as "we want our company to grow." (Growth is one of the business objectives the specification names in 3.1.1; SMART is a framework beyond the specification, used here to practise making an objective measurable.)
 
-**(a)** Explain why this is not a SMART objective. **[2]**
+**(a)** Explain why this growth objective, as stated, is not SMART. **[2]**
 **(b)** Rewrite it as a SMART objective. **[2]**
 
 ---
@@ -81,7 +81,7 @@ Questions 1, 2 and 5 are on added value, which the specification names under **3
 **5.** (3.4.1 content, background for Topic 1) **(a)** The bakery's input costs are similar to its rival's, but it charges a higher price because of the added value created by higher-quality ingredients and better service — added value being the difference between what a customer is willing to pay and the cost of the inputs used, which here has increased through quality and service rather than through raising price on an identical product. **[3]**
 **(b)** Added value is calculated before overheads are deducted, so a larger gap between input cost and selling price does not automatically mean higher profit — the bakery's actual profit will also depend on its other costs, such as staff wages (including the extra staff time behind better service) and rent, which added value alone does not account for. The higher-quality ingredients are not one of these overheads: they are bought-in inputs, already deducted when added value is calculated. **[2]**
 
-**6. (a)** It states a general purpose ("grow") without being specific, measurable, achievable, realistic or time-bound, so there is no way to judge whether the objective has actually been achieved. **[2]**
+**6. (a)** Growth is a valid business objective, but as stated it gives no measure of growth (revenue, market share, number of outlets) and no time limit [1], so there is no way to judge whether it has been achieved [1]. **[2]**
 **(b)** For example: "Increase annual revenue by 10% within the next 18 months." **[2]**
 
 **7.** Rising interest rates increase the cost of borrowing, which typically makes new investment (such as purchasing machinery or expanding premises) more expensive to finance, since loan repayments will be higher; this may lead the business to delay or scale back planned investment, particularly if the investment was to be funded through borrowing rather than retained profit. One possible response is to fund planned investment through retained profit rather than new borrowing, if sufficient reserves exist, avoiding the higher cost of borrowing at the new interest rate; however, this uses funds that might otherwise support day-to-day operations or provide a buffer against other risks, so the business must weigh the benefit of avoiding higher borrowing costs against the reduced financial flexibility this creates elsewhere. **[8]** (Marks for correctly explaining the mechanism linking interest rates to investment decisions, and a genuinely evaluated response with both a benefit and a limitation.)

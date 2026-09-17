@@ -120,4 +120,4 @@ data rather than described in general terms.
 (Version 1.9, verified 2026-08-26). The answer routine above is an original model written for this
 resource, not a reproduction of any official past paper or mark scheme. Always check the current
 specification for your examination series at
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2024/03/oxfordaqa-international-gcse-pakistan-studies-specification.pdf).*
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-pakistan-studies-specification.pdf).*

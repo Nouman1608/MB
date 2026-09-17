@@ -64,17 +64,18 @@ of 0.01 mm. Calculate the percentage uncertainty in the diameter."
 
 ```
 Step 1 - find the absolute uncertainty from the instrument's resolution:
-For a single reading, the absolute uncertainty is typically taken as
-half the smallest division: 0.01 / 2 = 0.005 mm
+A micrometer gives a measurement (two judgements: the zero and the
+reading), so the absolute uncertainty is at least 1 of the smallest
+scale reading: +/- 0.01 mm
 
 Step 2 - apply the percentage uncertainty formula:
 percentage uncertainty = (absolute uncertainty / measured value) x 100
 
 Step 3 - substitute the values:
-percentage uncertainty = (0.005 / 0.42) x 100
+percentage uncertainty = (0.01 / 0.42) x 100
 
 Step 4 - calculate and give an appropriate number of significant figures:
-percentage uncertainty = 1.19 percent, approximately 1 percent
+percentage uncertainty = 2.38 percent, approximately 2 percent
 ```
 
 Every step is shown -- identifying the absolute uncertainty from the instrument's resolution, stating
@@ -104,18 +105,19 @@ calculations are examined explicitly rather than assumed.
 2. Why is confirming your Paper 3 option topic early important?
 3. Which section of Paper 3 is compulsory for every student, and how many of its 80 marks does that
    section carry?
-4. In the worked scenario, why is the absolute uncertainty taken as half the micrometer's smallest
-   division?
+4. In the worked scenario, why is the absolute uncertainty taken as one whole smallest division of the
+   micrometer rather than half of one?
 
 **Answers:** 1. Because Paper 2 explicitly assumes knowledge from Sections 1-6.1 as background for its
 own content (Sections 6.2, 7 and 8), so a Paper 2 question can require applying earlier concepts
 without restating them. 2. Because Paper 3's Section B requires one optional topic chosen from five
 distinct options, and past-paper practice on the wrong option wastes revision time on content you will
 not actually be examined on. 3. Section A, compulsory practical skills and data analysis, carrying 45
-of the paper's 80 marks (more than Section B's optional-topic 35 marks). 4. Because a single reading
-from an analogue-style instrument's smallest division cannot be read more precisely than half that
-division by eye or by feel, so half the resolution is the conventional estimate of the absolute
-uncertainty in a single measurement.
+of the paper's 80 marks (more than Section B's optional-topic 35 marks). 4. Because AQA's Required practical
+handbook lists the micrometer as a measurement needing two judgements (setting the zero and taking the
+reading), each uncertain by half a division, and states that 'The uncertainty of a measurement (two
+judgements) is at least ±1 of the smallest scale reading'; half a division applies only to a single
+reading such as a thermometer.
 
 *Written against AQA A-Level Physics 7408 (specification-at-a-glance, verified 2026-08-28). The
 worked scenario above is an original example written for this resource, not a reproduction of any

@@ -29,7 +29,7 @@ A business converts inputs into outputs that satisfy customer needs, **adding va
 
 Common corporate objectives include profit maximisation, growth, market share, survival, cash flow, and increasingly social and ethical goals. They **conflict as often as they align** — growth frequently consumes the cash a firm needs for stability, and ethical sourcing often raises costs. Which objective dominates depends on the **stage of the business, the state of the market and stakeholder expectations**.
 
-Objectives must be **SMART**, and they change with circumstance — survival in a downturn, growth in a boom.
+Objectives change with circumstance — survival in a downturn, growth in a boom. **SMART** (specific, measurable, achievable, realistic, time-bound) is a common framework for making them measurable; the specification does not name it.
 
 **Profit and shareholder value can diverge**, because maximising short-run profit by cutting R&D or damaging reputation reduces long-run value. Noticing that time-horizon conflict is an evaluation point rather than a definition.
 
@@ -117,7 +117,7 @@ stakeholders exist.
 ## Exam traps
 
 - Generic answers ignoring the case study.
-- Objectives that are not SMART.
+- Objectives stated too generally to measure.
 - Listing stakeholders instead of explaining conflict.
 - Reversing the exchange-rate effect.
 - A conclusion with no criterion.

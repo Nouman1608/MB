@@ -136,16 +136,18 @@ business scenario given. Assuming AS content is less rigorously
 examined than the equivalent A-level topic, when AS Business is
 assessed as its own complete qualification.
 
-## SMART objectives, applied to this topic
+## Business objectives and the SMART framework
 
 Although objective-setting is developed further later in the AS course,
 Topic 1's introduction to why businesses exist is best paired with the
-idea that whatever a business's overall aim, its objectives should be
-**SMART** — specific, measurable, achievable, realistic and time-bound.
-A business that says it wants to "grow" has stated a purpose but not an
-objective; a business that says it wants to "increase market share by
-5% within two years" has stated something specific and measurable
-enough to actually judge success against later in the course.
+idea of objectives the specification names in 3.1.1: profit, growth,
+survival, cash flow, social and ethical objectives. A common framework
+for making an objective measurable is **SMART** — specific, measurable,
+achievable, realistic and time-bound — which the specification does not
+name. A business that says it wants to "grow" has a growth objective
+stated in general terms; one that says it wants to "increase market
+share by 5% within two years" has stated the same objective specifically
+enough to judge success against.
 
 ## Quick revision checklist
 

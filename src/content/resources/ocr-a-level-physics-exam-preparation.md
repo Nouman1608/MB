@@ -18,7 +18,7 @@ featured: false
 OCR A Level Physics A (H556) is linear and untiered, assessed by three examined components totalling
 270 marks. Paper 1 (Modelling physics) and Paper 2 (Exploring physics) are each 2 hours 15 minutes,
 100 marks and 37%. Paper 3 (Unified physics) is 1 hour 30 minutes, 70 marks and 26%, and draws on
-**all modules synoptically**. Alongside them sits the Practical Endorsement, a non-exam assessment
+**all modules**; the specification states that all components include synoptic assessment. Alongside them sits the Practical Endorsement, a non-exam assessment
 requiring at least twelve practical activities, internally assessed and reported separately as Pass or
 Not Classified -- it contributes **no marks** to the 270-mark total that determines the A*-E grade.
 These notes complement the site's guides to
@@ -39,8 +39,9 @@ Paper 2 -- and keep modules 1 and 2 (practical skills and foundations) live for 
 
 Unified physics draws on every module, and it does so under the tightest clock of the three papers.
 **Exam-preparation priority**: revise across modules deliberately in the final weeks, and practise
-recognising quickly which area of physics a question belongs to. On a synoptic paper, the time cost of
-misidentifying the relevant physics is much higher than on a module-scoped one.
+recognising quickly which area of physics a question belongs to. All three components include synoptic
+assessment, but Paper 3 draws on every module, so the time cost of misidentifying the relevant physics is
+highest there.
 
 ## The Practical Endorsement carries no marks -- practical skills still carry many
 
@@ -113,8 +114,8 @@ marks for recognising what has been idealised away.
 3. Which uncertainty skills are examinable, and why are they described as predictable marks?
 4. What is usually missing from an otherwise competent graph answer?
 
-**Answers:** 1. Papers 1 and 2 are 37% each (100 marks, 2h15); Paper 3 is 26% (70 marks, 1h30) and is
-synoptic across all modules, so it demands whole-course fluency under the tightest clock. 2. No -- it
+**Answers:** 1. Papers 1 and 2 are 37% each (100 marks, 2h15); Paper 3 is 26% (70 marks, 1h30) and draws
+on all modules (all three components include synoptic assessment), so it demands whole-course fluency under the tightest clock. 2. No -- it
 is reported separately as Pass or Not Classified with no marks in the 270-mark total; experimental
 design, uncertainty, error analysis and data evaluation are examined within the written papers,
 all three of which include practical question styles. 3. Percentage uncertainty, combining uncertainties through a

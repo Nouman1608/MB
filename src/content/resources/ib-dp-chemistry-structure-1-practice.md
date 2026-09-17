@@ -99,7 +99,7 @@ or by using a connective such as "whereas" or "in contrast."
 
 ## Why this scope
 
-These questions cover all five Structure 1 sub-topics -- particulate matter, the nuclear atom, electron configurations, the mole and ideal gases -- in the same proportion the syllabus guide gives them, with the mole (1.4) weighted most heavily since it is the sub-topic later Reactivity components assume fluent recall of. Question 5 in particular starts with the same mass-to-moles step as the [revision notes](/resources/ib-dp-chemistry-structure-1-revision-notes/) worked example (which runs mass to moles to particles), then continues through a mole ratio back to a mass, so it tests transfer of the method rather than memorisation of one specific chain.
+These questions cover all five Structure 1 sub-topics -- particulate matter, the nuclear atom, electron configurations, the mole and ideal gases. The guide gives teaching hours for Structure 1 as a whole (17 SL, 21 HL), not for each sub-topic, so the balance of questions here is Marlbridge's own choice. Question 5 in particular starts with the same mass-to-moles step as the [revision notes](/resources/ib-dp-chemistry-structure-1-revision-notes/) worked example (which runs mass to moles to particles), then continues through a mole ratio back to a mass, so it tests transfer of the method rather than memorisation of one specific chain.
 
 ## Official syllabus
 

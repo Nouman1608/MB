@@ -58,13 +58,14 @@ have already banked 50% of the full A Level's assessment weighting (14% + 36%) b
 foundation rather than starting A Level revision as if nothing has been assessed yet -- the technique
 tested is the same technique, applied to new content.
 
-## Every paper rewards clearly labelled workings, not just final figures
+## Clearly labelled workings protect method marks when a figure goes wrong
 
-Across all four papers, marks are available specifically for showing method -- ledger workings, formula
-substitutions, variance calculations -- independent of whether the final figure is correct.
-**Exam-preparation priority**: practise labelling every working clearly rather than performing
-calculations mentally, since an unclear or missing working line forfeits credit even when the final
-answer given is right.
+Cambridge's generic marking principles say that a correct answer to a calculation earns full credit even
+if no supporting working is shown, unless the question paper and mark scheme say working is essential.
+Workings matter when the final figure is wrong: ledger workings, formula substitutions and variance
+calculations let the examiner award method marks for the correct steps. **Exam-preparation priority**:
+practise labelling every working clearly rather than performing calculations mentally, and show working
+wherever a question asks for it, so an arithmetic slip does not cost every mark on the calculation.
 
 ## Worked routine: a standard-costing variance calculation
 
