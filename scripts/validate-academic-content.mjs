@@ -310,6 +310,17 @@ console.log('Stage consistency OK.');
 // ---------------------------------------------------------------------------
 const { SYLLABUSES } = load('src/data/academic/syllabuses.ts');
 const { ASSESSMENTS } = load('src/data/academic/assessments.ts');
+// A combined-code disclosure (e.g. '9625 / 9725', two full specification
+// codes joined for an honest during-transition entry) always has whitespace
+// around the '/'. A single code that happens to contain a '/' itself (e.g.
+// Pearson's paper code 'WEC11/01') never does. Splitting on '/' regardless
+// of spacing conflated the two: 'WEC11/01' silently became the two
+// unrelated fragments 'WEC11' and '01', which is how syllabus-topics.ts and
+// syllabuses.ts having composite codes ('YBS11 / XBS11 / WBS11 / WBS12')
+// let resources citing bare unit codes validate by accident rather than on
+// their own terms (I396/D-264). Only split on a comma, or a '/' with
+// whitespace on both sides.
+const CODE_SPLIT = /\s*,\s*|\s+\/\s+/;
 const codeIndex = new Map(); // `${board}|${subject}|${qualification}` -> Set<code>
 for (const s of SYLLABUSES) {
   const key = topicKey(s.boardSlug, s.subjectSlug, s.qualificationSlug);
@@ -317,9 +328,15 @@ for (const s of SYLLABUSES) {
   // syllabuses.ts itself sometimes stores a combined code for a genuine
   // dual-specification transition -- e.g. '9625 / 9725' (OxfordAQA Business)
   // or '7712 / 7717' (AQA English Literature A/B) -- so this side needs the
-  // same '/'-split treatment as the resource-side codesField below.
-  for (const part of s.code.split(/[/,]/).map((x) => x.trim()).filter(Boolean)) {
+  // same CODE_SPLIT treatment as the resource-side codesField below.
+  for (const part of s.code.split(CODE_SPLIT).map((x) => x.trim()).filter(Boolean)) {
     codeIndex.get(key).add(part);
+  }
+  // relatedCodes (unit codes, an AS/cash-in code) are indexed individually,
+  // never split further -- a unit code like 'WEC11/01' is one atomic code,
+  // not a combined disclosure.
+  for (const related of s.relatedCodes ?? []) {
+    codeIndex.get(key).add(related);
   }
 }
 const withdrawnCodes = new Set(
@@ -355,9 +372,10 @@ for (const dir of ['src/content/resources', 'src/content/articles']) {
     const subjectCandidates = subjectsField.flatMap((s) => matrixSlugsFor(s));
 
     // "9625 / 9725" style entries disclose more than one real code in a
-    // single array element -- split on '/' (and ',') so each individual
-    // code is checked on its own merits, not as one opaque string.
-    const individualCodes = codesField.flatMap((c) => c.split(/[/,]/).map((x) => x.trim()).filter(Boolean));
+    // single array element -- split on CODE_SPLIT so each individual code
+    // is checked on its own merits, not as one opaque string. A single code
+    // that contains an unspaced '/' (e.g. 'WEC11/01') is left intact.
+    const individualCodes = codesField.flatMap((c) => c.split(CODE_SPLIT).map((x) => x.trim()).filter(Boolean));
 
     for (const code of individualCodes) {
       const matches = resourceBoards.some((b) => resourceQuals.some((q) => subjectCandidates.some((s) => codeIndex.get(topicKey(b, s, q))?.has(code))));

@@ -36,7 +36,16 @@ export interface Subtopic {
 }
 
 export interface SyllabusTopic {
-  number: number;
+  /**
+   * Almost always the board's own plain integer topic number. A small
+   * number of specifications print a fractional topic-level number instead
+   * (Pearson YAC11: 1.1-1.6, 2.1-2.9; Pearson 4EC1: 1.1, 1.2, 2.1, 2.2) —
+   * for those, use the printed string rather than inventing a sequential
+   * integer (E, D-264). Every reader of this field (the hub, the checklist,
+   * `topicRange()`, the practice gap report) accepts either; only the
+   * integer form participates in range compression like "Topics 1-9".
+   */
+  number: number | string;
   name: string;
   /** Unique within the syllabus. Stage-qualified for 9701 (as-/a-). */
   slug: string;
@@ -1992,12 +2001,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
 
   {
     boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'business',
-    syllabusCode: 'YBS11 / XBS11 / WBS11 / WBS12', syllabusSeries: 'Issue 1, September 2017',
+    syllabusCode: 'YBS11', syllabusSeries: 'Issue 1, September 2017',
     effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel -- official International Advanced Level Business specification PDF (YBS11 / XBS11), Issue 1, September 2017',
-    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Business/2018/Specification-and-Sample-Assessment/International-A-Level-Business-Spec.pdf', verifiedDate: '2026-08-19',
-    notes: 'Pearson Edexcel International Advanced Level Business, first teaching September 2018 (specification Issue 1, September 2017), is a modular qualification: International AS (units 1-2, code XBS11) and the full International A Level (units 1-4, code YBS11). Unit 1 (Marketing and people) subtopics reproduce the specification\'s own section 1.3.1-1.3.5 sub-headings, fetched and verified 2026-08-21 from the full specification PDF. Unit 2 (Managing business activities) subtopics 2.3.1-2.3.3 reproduce the same specification PDF\'s own sub-headings, fetched and verified 2026-09-02. Units 3-4 remain topic-name-only pending the same fetch for their content.',
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Business/2018/Specification-and-Sample-Assessment/International-A-Level-Business-Spec.pdf', verifiedDate: '2026-09-17',
+    notes: 'Pearson Edexcel International Advanced Level Business, first teaching September 2018 (specification Issue 1, September 2017), is a modular qualification: International AS (units 1-2, code XBS11) and the full International A Level (units 1-4, code YBS11). `syllabusCode` here is the qualification code alone, matching syllabuses.ts (I396/D-264); the unit codes are WBS11-WBS14 (see syllabuses.ts `relatedCodes`). Unit 1 (Marketing and people) subtopics reproduce the specification\'s own section 1.3.1-1.3.5 sub-headings, fetched and verified 2026-08-21 from the full specification PDF. Unit 2 (Managing business activities) subtopics 2.3.1-2.3.3 reproduce the same specification PDF\'s own sub-headings, fetched and verified 2026-09-02. Units 3-4 remain topic-name-only pending the same fetch for their content.',
     topics: [
       { number: 1, name: 'Marketing and people', slug: 'marketing-and-people-edexcel-alevel-business', stage: 'AS', subtopics: [
         { number: '1.3.1', name: 'Meeting customer needs', slug: 'meeting-customer-needs-ybs11' },
@@ -2080,23 +2089,23 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
 
   {
     boardSlug: 'aqa', qualificationSlug: 'as-level', subjectSlug: 'business',
-    syllabusCode: '7131', syllabusSeries: 'For first teaching from September 2023',
-    effectiveFrom: '2023', effectiveTo: '2026', status: 'superseded',
+    syllabusCode: '7137', syllabusSeries: 'For first teaching from September 2026',
+    effectiveFrom: '2026', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
-    source: 'AQA -- official AS Business (7131) specification, specification-at-a-glance page',
-    sourceUrl: 'https://www.aqa.org.uk/subjects/business/as-level/business-7131/specification/specification-at-a-glance', verifiedDate: '2026-08-19',
-    notes: 'AQA AS Business (7131), for first teaching from September 2023; last examined in summer 2026 and superseded by AS Business (7137). AQA runs AS as a separate stand-alone qualification sharing a combined specification document with A-level Business (7132) -- the AS content is the first six of the ten A-level sections. The replacement specification (7137/7138) has been taught from September 2026. Topic 1 (What is business?) subtopics reproduce the same 3.1.1-3.1.3 content as the A-level (7132) entry above, since AS and A-level share this section of the specification verbatim; fetched and verified 2026-09-03.',
+    source: 'AQA -- official AS and A-level Business (7137, 7138) specification, live subject-content pages',
+    sourceUrl: 'https://www.aqa.org.uk/subjects/business/as-level/business-7137/specification/subject-content', verifiedDate: '2026-09-17',
+    notes: 'AQA AS Business (7137), for first teaching from September 2026, replacing 7131 (last examined summer 2026); first AS exams June 2027. AS and A-level (7138) share a single specification document -- AS is examined on two of the three A-level units. Read complete from the current AQA-hosted specification PDF at cdn.sanity.io (https://cdn.sanity.io/files/p28bar15/green/48dab3a84bc6cce76b4483b77516ab3a3edf3c77.pdf, Version 1.1, November 2025), linked from the live aqa.org.uk subject-content page above (contents p.3-4, specification-at-a-glance p.7-8, subject content pp.12-28). Topic 1 (Unit 3.1: What is business? Managing marketing and finance) reproduces the specification\'s own 3.1.1-3.1.4 sub-headings (pp.12-20); Paper 1 is standalone on the whole of Unit 3.1, so all four subtopics are AS-examinable. Topic 2 (Unit 3.2: Managing people and operations) reproduces 3.2.1-3.2.2 (pp.21-27); Paper 2 draws on Unit 3.2 plus, per the assessment-objectives grid (p.35+), sections 3.1.1 and 3.1.2 from Unit 3.1. 3.2.3 (Managing business culture, p.28) is marked "(A-level)" in the specification and is excluded here as not AS-examinable; the whole of Unit 3.3 (Business and society, business and the external environment, and business strategy, p.29 onwards) is marked "(A-level only)" and is likewise excluded -- this AS record therefore has no equivalent of 7131\'s old Topic 1 sub-topic 3.1.3 ("businesses operate within an external environment"), since that content has moved to the A-level-only Unit 3.3 under the reformed specification. A minority of bullet-level content rows within 3.1.3, 3.1.4, 3.2.1 and 3.2.2 are individually marked "(A-level only)" in the specification (e.g. international marketing, ethics in finance/HR/operations) but are not separately modelled here, consistent with how this file tracks AQA content elsewhere (name-level sub-topics, not bullet-level detail). 7131 is retired from full-record status here; see KNOWN_OTHER_SERIES.',
     topics: [
-      { number: 1, name: 'What is business?', slug: 'what-is-business-aqa-aslevel-business', subtopics: [
-        { number: '3.1.1', name: 'Understanding the nature and purpose of business', slug: 'nature-and-purpose-of-business-aqa-aslevel-business' },
-        { number: '3.1.2', name: 'Understanding different business forms', slug: 'different-business-forms-aqa-aslevel-business' },
-        { number: '3.1.3', name: 'Understanding that businesses operate within an external environment', slug: 'external-environment-aqa-aslevel-business' },
+      { number: 1, name: 'What is business? Managing marketing and finance', slug: 'what-is-business-managing-marketing-and-finance-aqa-aslevel-business', subtopics: [
+        { number: '3.1.1', name: 'Business and objectives', slug: 'business-and-objectives-aqa-aslevel-business' },
+        { number: '3.1.2', name: 'Forms of business and stakeholders', slug: 'forms-of-business-and-stakeholders-aqa-aslevel-business' },
+        { number: '3.1.3', name: 'Marketing management', slug: 'marketing-management-aqa-aslevel-business' },
+        { number: '3.1.4', name: 'Financial management', slug: 'financial-management-aqa-aslevel-business' },
       ] },
-      { number: 2, name: 'Managers, leadership and decision making', slug: 'managers-leadership-and-decision-making-aqa-aslevel-business', subtopics: [] },
-      { number: 3, name: 'Marketing management', slug: 'decision-making-to-improve-marketing-performance-aqa-aslevel-business', subtopics: [] },
-      { number: 4, name: 'Operational management', slug: 'decision-making-to-improve-operational-performance-aqa-aslevel-business', subtopics: [] },
-      { number: 5, name: 'Financial management', slug: 'decision-making-to-improve-financial-performance-aqa-aslevel-business', subtopics: [] },
-      { number: 6, name: 'Human resource management', slug: 'decision-making-to-improve-human-resource-performance-aqa-aslevel-business', subtopics: [] },
+      { number: 2, name: 'Managing people and operations', slug: 'managing-people-and-operations-aqa-aslevel-business', subtopics: [
+        { number: '3.2.1', name: 'People management', slug: 'people-management-aqa-aslevel-business' },
+        { number: '3.2.2', name: 'Operations management', slug: 'operations-management-aqa-aslevel-business' },
+      ] },
     ],
   },
 
@@ -2395,12 +2404,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
 
   {
     boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'economics',
-    syllabusCode: 'YEC11 / XEC11 / WEC11/01 / WEC12/01', syllabusSeries: 'Issue 2, June 2018',
+    syllabusCode: 'YEC11', syllabusSeries: 'Issue 2, June 2018',
     effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel -- official International Advanced Subsidiary/Advanced Level Economics specification PDF (YEC11 / XEC11)',
-    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Economics/2018/Specification-and-Sample-Assessment/International-A-Level-Economics-spec.pdf', verifiedDate: '2026-08-19',
-    notes: "Pearson Edexcel International Advanced Subsidiary in Economics (XEC11: units WEC11, WEC12) makes up the first half of the International Advanced Level in Economics (YEC11: units WEC11-WEC14). Full topic and sub-topic structure reproduced directly from the official specification PDF, fetched 2026-08-19. Sub-topic 2.3.1 (Measures of economic performance)'s detailed content (in the PDF's own numbering, covering Economic growth 1a-1i and Inflation 2a-2g+) verified directly against the same PDF, fetched 2026-09-02.",
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Economics/2018/Specification-and-Sample-Assessment/International-A-Level-Economics-spec.pdf', verifiedDate: '2026-09-17',
+    notes: "Pearson Edexcel International Advanced Subsidiary in Economics (XEC11: units WEC11, WEC12) makes up the first half of the International Advanced Level in Economics (YEC11: units WEC11-WEC14). `syllabusCode` here is the qualification code alone, matching syllabuses.ts (I396/D-264); the unit codes are WEC11/01-WEC14/01 (see syllabuses.ts `relatedCodes`). Full topic and sub-topic structure reproduced directly from the official specification PDF, fetched 2026-08-19. Sub-topic 2.3.1 (Measures of economic performance)'s detailed content (in the PDF's own numbering, covering Economic growth 1a-1i and Inflation 2a-2g+) verified directly against the same PDF, fetched 2026-09-02.",
     topics: [
       { number: 1, name: 'Markets in action', slug: 'markets-in-action-edexcel-alevel-economics', stage: 'AS', subtopics: [
         { number: '1.3.1', name: 'Introductory concepts', slug: 'introductory-concepts-edexcel-alevel-economics' },
@@ -2442,10 +2451,10 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel -- official International GCSE Economics (4EC1) specification PDF, Issue 3',
-    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Economics/2017/Specification%20and%20SAMS/international-gcse-spec-9781446942789.pdf', verifiedDate: '2026-08-19',
-    notes: 'Pearson Edexcel International GCSE in Economics (4EC1), for first teaching September 2017, first examination June 2019, current specification (Issue 3, February 2026). Linear qualification assessed across two equally weighted papers. Full topic and sub-topic structure reproduced directly from the official specification PDF, fetched 2026-08-19.',
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Economics/2017/Specification%20and%20SAMS/international-gcse-spec-9781446942789.pdf', verifiedDate: '2026-09-17',
+    notes: 'Pearson Edexcel International GCSE in Economics (4EC1), for first teaching September 2017, first examination June 2019, current specification (Issue 3, February 2026). Linear qualification assessed across two equally weighted papers. Full topic and sub-topic structure reproduced directly from the official specification PDF, fetched 2026-08-19. Topic numbers are the specification\'s own headings -- "1.1 The market system", "1.2 Business economics", "2.1 Government and the economy", "2.2 The global economy" -- not a Marlbridge-invented 1-4 sequence (E, D-264); the subtopic numbers (1.1.1 etc.) were already printed as such.',
     topics: [
-      { number: 1, name: 'The market system', slug: 'the-market-system-edexcel-igcse-economics', subtopics: [
+      { number: '1.1', name: 'The market system', slug: 'the-market-system-edexcel-igcse-economics', subtopics: [
         { number: '1.1.1', name: 'The economic problem', slug: 'the-economic-problem-edexcel-igcse-economics' },
         { number: '1.1.2', name: 'Economic assumptions', slug: 'economic-assumptions-edexcel-igcse-economics' },
         { number: '1.1.3', name: 'Demand, supply and market equilibrium', slug: 'demand-supply-and-market-equilibrium-edexcel-igcse-economics' },
@@ -2453,7 +2462,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '1.1.5', name: 'The mixed economy', slug: 'the-mixed-economy-edexcel-igcse-economics' },
         { number: '1.1.6', name: 'Externalities', slug: 'externalities-edexcel-igcse-economics' },
       ] },
-      { number: 2, name: 'Business economics', slug: 'business-economics-edexcel-igcse-economics', subtopics: [
+      { number: '1.2', name: 'Business economics', slug: 'business-economics-edexcel-igcse-economics', subtopics: [
         { number: '1.2.1', name: 'Production', slug: 'production-edexcel-igcse-economics' },
         { number: '1.2.2', name: 'Productivity and division of labour', slug: 'productivity-and-division-of-labour-edexcel-igcse-economics' },
         { number: '1.2.3', name: 'Business costs, revenues and profit', slug: 'business-costs-revenues-and-profit-edexcel-igcse-economics' },
@@ -2461,12 +2470,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '1.2.5', name: 'The labour market', slug: 'the-labour-market-edexcel-igcse-economics' },
         { number: '1.2.6', name: 'Government intervention', slug: 'government-intervention-edexcel-igcse-economics' },
       ] },
-      { number: 3, name: 'Government and the economy', slug: 'government-and-the-economy-edexcel-igcse-economics', subtopics: [
+      { number: '2.1', name: 'Government and the economy', slug: 'government-and-the-economy-edexcel-igcse-economics', subtopics: [
         { number: '2.1.1', name: 'Macroeconomic objectives', slug: 'macroeconomic-objectives-edexcel-igcse-economics' },
         { number: '2.1.2', name: 'Government policies', slug: 'government-policies-edexcel-igcse-economics' },
         { number: '2.1.3', name: 'Relationships between objectives and policies', slug: 'relationships-between-objectives-and-policies-edexcel-igcse-economics' },
       ] },
-      { number: 4, name: 'The global economy', slug: 'the-global-economy-edexcel-igcse-economics', subtopics: [
+      { number: '2.2', name: 'The global economy', slug: 'the-global-economy-edexcel-igcse-economics', subtopics: [
         { number: '2.2.1', name: 'Globalisation', slug: 'globalisation-edexcel-igcse-economics' },
         { number: '2.2.2', name: 'International trade', slug: 'international-trade-edexcel-igcse-economics' },
         { number: '2.2.3', name: 'Exchange rates', slug: 'exchange-rates-edexcel-igcse-economics' },
@@ -2719,34 +2728,34 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel — official International Advanced Subsidiary/Advanced Level in Accounting specification PDF (Issue 2, September 2018)',
-    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Accounting/2015/specification-and-sample-assessments/pearson-edexcel-ial-accounting-specification.pdf', verifiedDate: '2026-08-19',
-    notes: 'International Advanced Subsidiary code XAC11 (Unit 1 only, unit code WAC11); International Advanced Level code YAC11 (both units). First teaching September 2015, Issue 2 reissued September 2018 with no newer issue found. Unit 1 (The Accounting System and Costing, code WAC11) is the compulsory IAS unit; Unit 2 (Corporate and Management Accounting, code WAC12) is the IA2 unit completing the full IAL. Topic 1 sub-topics reproduced directly from the official specification PDF Unit content section 1.1 (grouped from numbered outcomes 1.1.1-1.1.20), fetched 2026-08-21. Topic 2 (Control procedures) sub-topics grouped from the PDF\'s own numbered outcomes 1.2.1-1.2.9, fetched and verified 2026-09-02. Honest-partial: topics 3-15 are verified in full by name directly from the PDF\'s content-overview tables, but their sub-topic detail is not yet entered.',
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Accounting/2015/specification-and-sample-assessments/pearson-edexcel-ial-accounting-specification.pdf', verifiedDate: '2026-09-17',
+    notes: 'International Advanced Subsidiary code XAC11 (Unit 1 only, unit code WAC11); International Advanced Level code YAC11 (both units). First teaching September 2015, Issue 2 reissued September 2018 with no newer issue found. Unit 1 (The Accounting System and Costing, code WAC11) is the compulsory IAS unit; Unit 2 (Corporate and Management Accounting, code WAC12) is the IA2 unit completing the full IAL. Topic numbers are the specification\'s own content headings (Unit 1 "divided into six topics" 1.1-1.6; Unit 2 "divided into nine topics" 2.1-2.9), not a Marlbridge-invented 1-15 sequence (E, D-264). Topic 1.1 sub-topics reproduced directly from the official specification PDF Unit content section 1.1 (grouped from numbered outcomes 1.1.1-1.1.20), fetched 2026-08-21. Topic 1.2 (Control procedures) sub-topics grouped from the PDF\'s own numbered outcomes 1.2.1-1.2.9, fetched and verified 2026-09-02. Honest-partial: topics 1.3-2.9 are verified in full by name directly from the PDF\'s content-overview tables, but their sub-topic detail is not yet entered.',
     topics: [
-      { number: 1, name: 'Principles of accounting and double entry bookkeeping', slug: 'principles-of-accounting-and-double-entry-bookkeeping', stage: 'AS', subtopics: [
+      { number: '1.1', name: 'Principles of accounting and double entry bookkeeping', slug: 'principles-of-accounting-and-double-entry-bookkeeping', stage: 'AS', subtopics: [
         { number: '1.1.1-1.1.2', name: 'Role and purpose of accounting', slug: 'role-and-purpose-of-accounting-yac11' },
         { number: '1.1.3-1.1.7', name: 'Double entry system', slug: 'the-double-entry-system-yac11' },
         { number: '1.1.8-1.1.10', name: 'Accounting concepts and conventions', slug: 'accounting-concepts-and-conventions-yac11' },
         { number: '1.1.11-1.1.12', name: 'Capital expenditure and revenue expenditure', slug: 'capital-and-revenue-expenditure-yac11' },
         { number: '1.1.13-1.1.20', name: 'Non-current asset depreciation', slug: 'non-current-asset-depreciation-yac11' },
       ] },
-      { number: 2, name: 'Control procedures', slug: 'control-procedures', stage: 'AS', subtopics: [
+      { number: '1.2', name: 'Control procedures', slug: 'control-procedures', stage: 'AS', subtopics: [
         { number: '1.2.1-1.2.2', name: 'Trial balance', slug: 'trial-balance-yac11' },
         { number: '1.2.3-1.2.4', name: 'Control accounts', slug: 'control-accounts-yac11' },
         { number: '1.2.5-1.2.9', name: 'Correction of errors', slug: 'correction-of-errors-yac11' },
       ] },
-      { number: 3, name: 'Financial statements of organisations', slug: 'financial-statements-of-organisations', stage: 'AS', subtopics: [] },
-      { number: 4, name: 'Introduction to costing', slug: 'introduction-to-costing', stage: 'AS', subtopics: [] },
-      { number: 5, name: 'Analysis of accounting statements', slug: 'analysis-of-accounting-statements', stage: 'AS', subtopics: [] },
-      { number: 6, name: 'Social and ethical accounting', slug: 'social-and-ethical-accounting', stage: 'AS', subtopics: [] },
-      { number: 7, name: 'Limited companies', slug: 'limited-companies-yac', stage: 'A', subtopics: [] },
-      { number: 8, name: 'Investment ratios', slug: 'investment-ratios', stage: 'A', subtopics: [] },
-      { number: 9, name: 'Statement of cash flows', slug: 'statement-of-cash-flows', stage: 'A', subtopics: [] },
-      { number: 10, name: 'Budgeting', slug: 'budgeting-yac', stage: 'A', subtopics: [] },
-      { number: 11, name: 'Standard costing', slug: 'standard-costing-yac', stage: 'A', subtopics: [] },
-      { number: 12, name: 'Project appraisal', slug: 'project-appraisal', stage: 'A', subtopics: [] },
-      { number: 13, name: 'Break-even analysis', slug: 'break-even-analysis', stage: 'A', subtopics: [] },
-      { number: 14, name: 'Marginal costing and absorption costing', slug: 'marginal-costing-and-absorption-costing', stage: 'A', subtopics: [] },
-      { number: 15, name: 'Information and communication technology (ICT) in accounting', slug: 'ict-in-accounting', stage: 'A', subtopics: [] },
+      { number: '1.3', name: 'Financial statements of organisations', slug: 'financial-statements-of-organisations', stage: 'AS', subtopics: [] },
+      { number: '1.4', name: 'Introduction to costing', slug: 'introduction-to-costing', stage: 'AS', subtopics: [] },
+      { number: '1.5', name: 'Analysis of accounting statements', slug: 'analysis-of-accounting-statements', stage: 'AS', subtopics: [] },
+      { number: '1.6', name: 'Social and ethical accounting', slug: 'social-and-ethical-accounting', stage: 'AS', subtopics: [] },
+      { number: '2.1', name: 'Limited companies', slug: 'limited-companies-yac', stage: 'A', subtopics: [] },
+      { number: '2.2', name: 'Investment ratios', slug: 'investment-ratios', stage: 'A', subtopics: [] },
+      { number: '2.3', name: 'Statement of cash flows', slug: 'statement-of-cash-flows', stage: 'A', subtopics: [] },
+      { number: '2.4', name: 'Budgeting', slug: 'budgeting-yac', stage: 'A', subtopics: [] },
+      { number: '2.5', name: 'Standard costing', slug: 'standard-costing-yac', stage: 'A', subtopics: [] },
+      { number: '2.6', name: 'Project appraisal', slug: 'project-appraisal', stage: 'A', subtopics: [] },
+      { number: '2.7', name: 'Break-even analysis', slug: 'break-even-analysis', stage: 'A', subtopics: [] },
+      { number: '2.8', name: 'Marginal costing and absorption costing', slug: 'marginal-costing-and-absorption-costing', stage: 'A', subtopics: [] },
+      { number: '2.9', name: 'Information and communication technology (ICT) in accounting', slug: 'ict-in-accounting', stage: 'A', subtopics: [] },
     ],
   },
   {
@@ -4210,53 +4219,48 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'world-history',
-    syllabusCode: '9489', syllabusSeries: '2026',
-    effectiveFrom: '2026', effectiveTo: '2026', status: 'current',
+    syllabusCode: '9489', syllabusSeries: '2027-2029',
+    effectiveFrom: '2027', effectiveTo: '2029', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/697368-2026-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'AS Level: candidates study one of three options (European: Modern Europe 1750-1921; American: History of the USA 1820-1941; International: International history 1870-1945), each with 4 named topics, assessed via Paper 1 (Document question) and Paper 2 (Outline study) — AS topics rotate between the two papers year-on-year. A Level adds Paper 3 (Interpretations question: 3 named topics — origins of WWI, the Holocaust, origins/development of the Cold War) and Paper 4 (Depth study: European/American/International depth studies, each with 4 named themes).',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/718292-2027-2029-syllabus.pdf', verifiedDate: '2026-09-17',
+    notes: 'Version 2 (April 2025), for examination in 2027, 2028 and 2029. Read complete (Content overview p.9, Subject content pp.14-65, Topics assessed on Paper 1 and Paper 2 pp.37-38, Changes to this syllabus p.78-79). AS Level: candidates study one of three options (European: Modern Europe, 1774-1924; American: The history of the USA, 1820-1941; International: International history, 1870-1939), each with three topics, assessed via Paper 1 (Historical Sources) and Paper 2 (Outline Study) — the subject content numbers the AS topics 1-9 across the three options; topics rotate year-on-year and Paper 1/Paper 2 always examine disjoint topics in a given year. A Level adds Paper 3 (Historical Interpretations: one of three topics — the origins of the First World War, the Holocaust, the origins and development of the Cold War; Topic 3 gained "the emergence of the \'New\' Cold War history: post-post-revisionism" in Version 2) and Paper 4 (Depth Study: one of three options — European: European history, 1919-41; American: The USA, 1945-93; International: International history, 1909-94 — each restructured to three topics, numbered 1-9 across the three options, same pattern as the AS content). Removed from the 2026 syllabus (p.78): AS European "The Industrial Revolution in Britain, 1750-1850"; AS International "China and Japan, 1912-45"; A Level Paper 4 European "Britain, 1919-39"; and all four 2026 Paper 4 International topics (US-Soviet relations, the spread of communism in Asia, decolonisation in Sub-Saharan Africa, conflict in the Middle East) — replaced by three new topics built from the fixed AS/A2 rotation model at Paper 4 for the first time. The American option is restructured at both AS and A Level from four topics to three (the former "Origins of the Civil War" and "Civil War and Reconstruction" topics merge into one, "The Civil War and Reconstruction, 1820-77"). Subtopic names and numbers follow the subject content\'s own headings, which occasionally differ in punctuation from the Content overview (for example "International relations 1919-29: conflict and cooperation", no comma, in the subject content against "International relations, 1919-29" in the overview) — the subject-content form is used throughout. The 2026 syllabus (697368) remains in use for the November 2026 series, its final series; see KNOWN_OTHER_SERIES.',
+    subtopicsComplete: true,
     topics: [
-      { number: 1, name: 'Paper 1 and Paper 2 – European Option: Modern Europe, 1750–1921', slug: 'european-option-modern-europe-9489', stage: 'AS', subtopics: [
+      { number: 1, name: 'European option: Modern Europe, 1774–1924', slug: 'european-option-modern-europe-9489', stage: 'AS', subtopics: [
         { number: '1.1', name: 'France, 1774–1814', slug: 'france-1774-1814-9489' },
-        { number: '1.2', name: 'The Industrial Revolution in Britain, 1750–1850', slug: 'industrial-revolution-britain-9489' },
-        { number: '1.3', name: 'Liberalism and Nationalism in Germany, 1815–71', slug: 'liberalism-nationalism-germany-9489' },
-        { number: '1.4', name: 'The Russian Revolution, 1894–1921', slug: 'russian-revolution-9489' },
+        { number: '1.2', name: 'Liberalism and nationalism in Germany, 1815–71', slug: 'liberalism-nationalism-germany-9489' },
+        { number: '1.3', name: 'Russia from autocracy to revolution, 1881–1924', slug: 'russia-autocracy-revolution-9489' },
       ] },
-      { number: 2, name: 'Paper 1 and Paper 2 – American Option: The History of the USA, 1820–1941', slug: 'american-option-history-usa-9489', stage: 'AS', subtopics: [
-        { number: '2.1', name: 'The Origins of the Civil War, 1820–61', slug: 'origins-civil-war-9489' },
-        { number: '2.2', name: 'Civil War and Reconstruction, 1861–77', slug: 'civil-war-reconstruction-9489' },
-        { number: '2.3', name: 'The Gilded Age and Progressive Era, 1870s to 1920', slug: 'gilded-age-progressive-era-9489' },
-        { number: '2.4', name: 'The Great Crash, The Great Depression and the New Deal policies, 1920–41', slug: 'great-depression-new-deal-9489' },
+      { number: 2, name: 'American option: The history of the USA, 1820–1941', slug: 'american-option-history-usa-9489', stage: 'AS', subtopics: [
+        { number: '2.1', name: 'The Civil War and Reconstruction, 1820–77', slug: 'civil-war-reconstruction-9489' },
+        { number: '2.2', name: 'The Gilded Age and the Progressive Era, 1870–1920', slug: 'gilded-age-progressive-era-9489' },
+        { number: '2.3', name: 'The Great Crash, the Great Depression and the New Deal, 1920–41', slug: 'great-depression-new-deal-9489' },
       ] },
-      { number: 3, name: 'Paper 1 and Paper 2 – International Option: International History, 1870–1945', slug: 'international-option-history-9489', stage: 'AS', subtopics: [
-        { number: '3.1', name: 'Empire and the Emergence of World Powers, 1870–1919', slug: 'empire-world-powers-9489' },
-        { number: '3.2', name: 'The League of Nations and International Relations in the 1920s', slug: 'league-of-nations-1920s-9489' },
-        { number: '3.3', name: 'The League of Nations and International Relations in the 1930s', slug: 'league-of-nations-1930s-9489' },
-        { number: '3.4', name: 'China and Japan, 1912–45', slug: 'china-japan-9489' },
+      { number: 3, name: 'International option: International history, 1870–1939', slug: 'international-option-history-9489', stage: 'AS', subtopics: [
+        { number: '3.1', name: 'Imperialism and the emergence of world powers, c.1870–1918', slug: 'imperialism-emergence-world-powers-9489' },
+        { number: '3.2', name: 'International relations 1919–29: conflict and cooperation', slug: 'international-relations-1919-29-9489' },
+        { number: '3.3', name: 'International history 1929–39: the rise of extremism and the road to war', slug: 'international-history-1929-39-9489' },
       ] },
-      { number: 4, name: 'Paper 3 – Interpretations Question', slug: 'paper-3-interpretations-question-9489', stage: 'A', subtopics: [
-        { number: '4.1', name: 'The Origins of the First World War', slug: 'origins-first-world-war-9489' },
+      { number: 4, name: 'Historical interpretations', slug: 'historical-interpretations-9489', stage: 'A', subtopics: [
+        { number: '4.1', name: 'The origins of the First World War', slug: 'origins-first-world-war-9489' },
         { number: '4.2', name: 'The Holocaust', slug: 'the-holocaust-9489' },
-        { number: '4.3', name: 'The Origins and Development of the Cold War', slug: 'origins-development-cold-war-9489' },
+        { number: '4.3', name: 'The origins and development of the Cold War', slug: 'origins-development-cold-war-9489' },
       ] },
-      { number: 5, name: 'Paper 4 – Depth Study 1: European History in the Interwar Years, 1919–41', slug: 'depth-study-european-interwar-9489', stage: 'A', subtopics: [
+      { number: 5, name: 'European option: European history, 1919–41', slug: 'depth-study-european-interwar-9489', stage: 'A', subtopics: [
         { number: '5.1', name: 'Mussolini’s Italy, 1919–41', slug: 'mussolinis-italy-9489' },
         { number: '5.2', name: 'Stalin’s Russia, 1924–41', slug: 'stalins-russia-9489' },
         { number: '5.3', name: 'Hitler’s Germany, 1929–41', slug: 'hitlers-germany-9489' },
-        { number: '5.4', name: 'Britain, 1919–39', slug: 'britain-1919-39-9489' },
       ] },
-      { number: 6, name: 'Paper 4 – Depth Study 2: The USA, 1944–92', slug: 'depth-study-usa-9489', stage: 'A', subtopics: [
-        { number: '6.1', name: 'The Late 1940s and 1950s', slug: 'late-1940s-1950s-9489' },
-        { number: '6.2', name: 'The 1960s and the 1970s', slug: 'the-1960s-1970s-9489' },
-        { number: '6.3', name: 'The 1980s and Early 1990s', slug: 'the-1980s-early-1990s-9489' },
-        { number: '6.4', name: 'Foreign Policy, 1944–92', slug: 'foreign-policy-1944-92-9489' },
+      { number: 6, name: 'American option: The USA, 1945–93', slug: 'depth-study-usa-9489', stage: 'A', subtopics: [
+        { number: '6.1', name: 'Truman, Eisenhower and post-war USA, 1945–61', slug: 'truman-eisenhower-postwar-usa-9489' },
+        { number: '6.2', name: 'A time of challenges: the USA, 1961–74', slug: 'time-of-challenges-usa-9489' },
+        { number: '6.3', name: 'The USA, 1974–93', slug: 'the-usa-1974-93-9489' },
       ] },
-      { number: 7, name: 'Paper 4 – Depth Study 3: International History, 1945–92', slug: 'depth-study-international-history-9489', stage: 'A', subtopics: [
-        { number: '7.1', name: 'US-Soviet Relations During the Cold War, 1950–91', slug: 'us-soviet-relations-9489' },
-        { number: '7.2', name: 'The Spread of Communism in East and Southeast Asia, 1945–91', slug: 'spread-communism-asia-9489' },
-        { number: '7.3', name: 'Decolonisation, the Cold War and the UN in Sub-Saharan Africa, 1950–92', slug: 'decolonisation-cold-war-africa-9489' },
-        { number: '7.4', name: 'Conflict in the Middle East, 1948–91', slug: 'conflict-middle-east-9489' },
+      { number: 7, name: 'International option: International history, 1909–94', slug: 'depth-study-international-history-9489', stage: 'A', subtopics: [
+        { number: '7.1', name: 'The Soviet Empire in Eastern Europe, 1953–91', slug: 'soviet-empire-eastern-europe-9489' },
+        { number: '7.2', name: 'End of minority rule in South Africa and Zimbabwe, 1948–94', slug: 'end-minority-rule-south-africa-zimbabwe-9489' },
+        { number: '7.3', name: 'The route to independence: Malaysia and Indonesia, c.1909–67', slug: 'route-independence-malaysia-indonesia-9489' },
       ] },
     ],
   },
@@ -6337,6 +6341,12 @@ export const KNOWN_OTHER_SERIES = [
   { syllabusCode: '0452', syllabusSeries: '2026', status: 'superseded' as const,
     sourceUrl: 'https://www.cambridgeinternational.org/Images/697149-2026-syllabus.pdf',
     notes: 'Version 2 (December 2025). Superseded on the site by 2027-2029 from 2026-09-16, but still examined in the November 2026 series, its final series. Differences are stated in the edition note on each 0452 resource.' },
+  { syllabusCode: '9489', syllabusSeries: '2026', status: 'superseded' as const,
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697368-2026-syllabus.pdf',
+    notes: 'Version 3 (December 2025). Superseded on the site by 2027-2029 from 2026-09-17 (I396/E939 rebuild), but still examined in the November 2026 series, its final series. Its AS options each had four topics (the Industrial Revolution in Britain and China and Japan among them) and Paper 4 had four International depth-study topics, all replaced in the 2027-2029 syllabus.' },
+  { syllabusCode: '7131', syllabusSeries: 'For first teaching from September 2023', status: 'superseded' as const,
+    sourceUrl: 'https://www.aqa.org.uk/subjects/business/as-level/business-7131/specification/specification-at-a-glance',
+    notes: 'Last examined summer 2026; replaced by AS Business 7137 (taught from September 2026, I396 rebuild 2026-09-17). Its old Topic 1 (3.1.1 nature/purpose, 3.1.2 business forms, 3.1.3 external environment) is retired from full-record status -- 7137\'s reformed content splits differently, and 3.1.3\'s external-environment material has moved to the A-level-only Unit 3.3, so it has no AS-level successor topic. The four resources that cited 7131\'s Topic 1 were retargeted to 7137 3.1.1/3.1.2; see D-264.' },
 ];
 
 /**

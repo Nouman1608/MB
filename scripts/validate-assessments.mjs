@@ -268,6 +268,51 @@ if (ASSESSMENTS.length === 0) {
   }
   if (!p3b) ok(`every record's component weightings sum to 100% (±${TOLERANCE}) for every tier it declares`);
 
+  // [3d] C/D-264 -- a handful of staged specifications (so far, only
+  // Cambridge 9709) publish a distinct AS Level weighting alongside the
+  // full qualification's weightingPercent (e.g. 9709 Paper 2 is 40% of the
+  // AS Level but 0% of the A Level). Where any component in a record
+  // declares asWeightingPercent, that AS route must ALSO sum to 100% --
+  // otherwise a schema addition meant to stop a false "0%" from rendering
+  // could just as easily introduce a false "140%" or "60%" instead. Mirrors
+  // [3a]/[3b] exactly, one level up (asAlternativeGroup instead of
+  // alternativeGroup, asWeightingPercent instead of weightingPercent) --
+  // records with no asWeightingPercent at all are skipped entirely, so this
+  // never forces every staged record to model an AS route it doesn't have.
+  console.log('\n[3d] AS-route component weightings (asWeightingPercent) sum to 100% where declared');
+  let p3d = 0;
+  for (const a of ASSESSMENTS) {
+    const asComponents = a.components.filter((c) => c.asWeightingPercent != null);
+    if (!asComponents.length) continue;
+    const byAsGroup = new Map();
+    for (const c of asComponents) {
+      if (!c.asAlternativeGroup) continue;
+      if (!byAsGroup.has(c.asAlternativeGroup)) byAsGroup.set(c.asAlternativeGroup, []);
+      byAsGroup.get(c.asAlternativeGroup).push(c);
+    }
+    for (const [group, members] of byAsGroup) {
+      const weightings = new Set(members.map((m) => m.asWeightingPercent));
+      if (weightings.size > 1) {
+        fail(`${idOf(a)}: asAlternativeGroup "${group}" members have mismatched asWeightingPercent (${[...weightings].join(', ')}%) -- ${members.map((m) => m.paperCode).join(', ')}`);
+        p3d++;
+      }
+    }
+    const seenAsGroups = new Set();
+    let asTotal = 0;
+    for (const c of asComponents) {
+      if (c.asAlternativeGroup) {
+        if (seenAsGroups.has(c.asAlternativeGroup)) continue; // already counted this group's representative
+        seenAsGroups.add(c.asAlternativeGroup);
+      }
+      asTotal += c.asWeightingPercent;
+    }
+    if (Math.abs(asTotal - 100) > TOLERANCE) {
+      fail(`${idOf(a)}: AS-route component weightings sum to ${asTotal}%, not 100% (±${TOLERANCE})`);
+      p3d++;
+    }
+  }
+  if (!p3d) ok(`every declared AS route sums its asWeightingPercent to 100% (±${TOLERANCE})`);
+
   // [4] Duplicate paper identities
   console.log('\n[4] No duplicate (paperCode, tier) pairs within one record');
   let p4 = 0;

@@ -186,6 +186,32 @@ export interface AssessmentComponent {
    * qualification at all (e.g. an optional, separately-endorsed component)
    * is 0, not omitted, so the record stays complete and auditable. */
   readonly weightingPercent: number;
+  /**
+   * C/D-264 — the component's weighting within a separate, standalone AS
+   * Level (or equivalent staged first half), where that figure differs from
+   * `weightingPercent` (the full qualification's own figure). Only a few
+   * staged specifications publish a distinct AS-route weighting at all
+   * (Cambridge 9709: Paper 1 is 60% of the AS Level but 30% of the A Level;
+   * Paper 2 is 40% of the AS Level but 0% of the A Level, since it isn't
+   * offered at all beyond AS) -- omit entirely rather than repeating
+   * `weightingPercent` for a component with no distinct AS figure, or for a
+   * qualification with no separate AS route to weight. Components sharing
+   * an `asAlternativeGroup` must carry identical `asWeightingPercent`,
+   * mirroring `alternativeGroup` -- enforced by the AS weighting-totals
+   * validator, which (like `alternativeGroup`) counts an AS alternative
+   * group once, not once per member, when summing a record's AS
+   * components to 100%.
+   */
+  readonly asWeightingPercent?: number;
+  /**
+   * C/D-264 — like `alternativeGroup`, but for the AS-route choice, which
+   * can differ from the A Level's own alternativeGroup pairing (9709's AS
+   * route is Paper 1 + ONE of {Paper 2, Paper 4, Paper 5}; its A Level
+   * route pairs Paper 4 as an alternative to Paper 6 instead). A component
+   * with no `asWeightingPercent` set is excluded from the AS route
+   * regardless of this field.
+   */
+  readonly asAlternativeGroup?: string;
   readonly assessmentType: AssessmentComponentType;
   /** Set only if this component is specific to one tier (e.g. a tiered
    * qualification's Extended-only Paper 4). Omit entirely for an untiered
@@ -664,16 +690,16 @@ export const ASSESSMENTS: readonly Assessment[] = [
     tiers: ['as-only', 'a2-only'],
     firstAssessment: '2026',
     components: [
-      { paperCode: 'Paper 1', title: 'Pure Mathematics 1', durationMinutes: 110, marks: 75, weightingPercent: 30, assessmentType: 'written-exam', externallyAssessed: true },
-      { paperCode: 'Paper 2', title: 'Pure Mathematics 2', durationMinutes: 75, marks: 50, weightingPercent: 0, assessmentType: 'written-exam', externallyAssessed: true, optionality: 'optional' },
+      { paperCode: 'Paper 1', title: 'Pure Mathematics 1', durationMinutes: 110, marks: 75, weightingPercent: 30, asWeightingPercent: 60, assessmentType: 'written-exam', externallyAssessed: true },
+      { paperCode: 'Paper 2', title: 'Pure Mathematics 2', durationMinutes: 75, marks: 50, weightingPercent: 0, asWeightingPercent: 40, asAlternativeGroup: 'as-second-component', assessmentType: 'written-exam', externallyAssessed: true, optionality: 'optional' },
       { paperCode: 'Paper 3', title: 'Pure Mathematics 3', durationMinutes: 110, marks: 75, weightingPercent: 30, assessmentType: 'written-exam', externallyAssessed: true },
-      { paperCode: 'Paper 4', title: 'Mechanics', durationMinutes: 75, marks: 50, weightingPercent: 20, assessmentType: 'written-exam', externallyAssessed: true, alternativeGroup: 'a-level-applied-component', optionality: 'choose-n-of-m' },
-      { paperCode: 'Paper 5', title: 'Probability & Statistics 1', durationMinutes: 75, marks: 50, weightingPercent: 20, assessmentType: 'written-exam', externallyAssessed: true },
+      { paperCode: 'Paper 4', title: 'Mechanics', durationMinutes: 75, marks: 50, weightingPercent: 20, asWeightingPercent: 40, asAlternativeGroup: 'as-second-component', assessmentType: 'written-exam', externallyAssessed: true, alternativeGroup: 'a-level-applied-component', optionality: 'choose-n-of-m' },
+      { paperCode: 'Paper 5', title: 'Probability & Statistics 1', durationMinutes: 75, marks: 50, weightingPercent: 20, asWeightingPercent: 40, asAlternativeGroup: 'as-second-component', assessmentType: 'written-exam', externallyAssessed: true },
       { paperCode: 'Paper 6', title: 'Probability & Statistics 2', durationMinutes: 75, marks: 50, weightingPercent: 20, assessmentType: 'written-exam', externallyAssessed: true, alternativeGroup: 'a-level-applied-component', optionality: 'choose-n-of-m' },
     ],
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/697427-2026-2027-syllabus.pdf',
-    verifiedOn: '2026-08-27',
-    notes: 'A genuinely route-based specification, per the official PDF\'s "Structure of AS Level and A Level Mathematics" table (Syllabus overview, pp.14-16). Full A Level is always Paper 1 + Paper 3 (both compulsory, 30%+30%=60%) + Paper 5 Probability & Statistics 1 (compulsory, 20%) + EITHER Paper 4 Mechanics OR Paper 6 Probability & Statistics 2 (each 20%, mutually exclusive -- Paper 6 cannot be combined with Paper 4 because it depends on Paper 5 content) -- modeled here via alternativeGroup so the total is exactly 100%. Paper 2 Pure Mathematics 2 does NOT count toward the A Level at all (weightingPercent 0 here) -- it exists only for the separate standalone "AS Level, Pure Mathematics only" route (Paper 1 + Paper 2, weighted 60%/40% of THAT AS Level, which the syllabus states explicitly cannot be carried forward into the full A Level). AS Level is instead Paper 1 + ONE of {Paper 2, Paper 4, Paper 5} (only Papers 1+4 or 1+5 can be carried forward as the first stage of a staged A Level), each weighted 60% (Paper 1) / 40% (the second paper) of the AS Level -- not separately modeled as distinct AS-only weightings here; see the PDF\'s own table for the exact AS-route figures. Durations/marks per paper (all externally assessed written exams): Paper 1 1h50/75 marks, Paper 2 1h15/50 marks, Paper 3 1h50/75 marks, Papers 4-6 each 1h15/50 marks. Examination-series window 2026-2027 (June, November, and March-in-India series); no separate first-teaching date published.',
+    verifiedOn: '2026-09-17',
+    notes: 'A genuinely route-based specification, per the official PDF\'s "Structure of AS Level and A Level Mathematics" table (Syllabus overview, pp.14-16) and Assessment overview (p.14, re-read 2026-09-17 for the AS weightings below). Full A Level is always Paper 1 + Paper 3 (both compulsory, 30%+30%=60%) + Paper 5 Probability & Statistics 1 (compulsory, 20%) + EITHER Paper 4 Mechanics OR Paper 6 Probability & Statistics 2 (each 20%, mutually exclusive -- Paper 6 cannot be combined with Paper 4 because it depends on Paper 5 content) -- modeled here via alternativeGroup so the total is exactly 100%. Paper 2 Pure Mathematics 2 does NOT count toward the A Level at all (weightingPercent 0 here) -- it exists only for the separate standalone "AS Level, Pure Mathematics only" route (Paper 1 + Paper 2), "Offered only as part of AS Level" (p.14). AS Level is instead Paper 1 (60% of the AS Level) + ONE of {Paper 2, Paper 4, Paper 5} (each 40% of the AS Level; only Papers 1+4 or 1+5 can be carried forward as the first stage of a staged A Level) -- modeled via asWeightingPercent/asAlternativeGroup so an AS route also sums to exactly 100%. Paper 3 and Paper 6 carry no asWeightingPercent: Paper 3 is "Compulsory for A Level" only (not offered at AS at all) and Paper 6 is "Offered only as part of A Level" (p.15) -- neither has any AS-route figure to show. Durations/marks per paper (all externally assessed written exams): Paper 1 1h50/75 marks, Paper 2 1h15/50 marks, Paper 3 1h50/75 marks, Papers 4-6 each 1h15/50 marks. Examination-series window 2026-2027 (June, November, and March-in-India series); no separate first-teaching date published.',
     assessmentModel: 'component-based',
     asALevelRelationship: 'staged-cambridge-route',
     certificationNotes: 'Two of the three AS Level routes (Pure+Mechanics via Papers 1+4, or Pure+Probability&Statistics via Papers 1+5) carry forward into the full A Level by adding Paper 3 plus the complementary applied paper. The third AS route ("Pure Mathematics only", Papers 1+2) is certificated as a standalone AS Level and explicitly CANNOT be carried forward to complete the A Level, per the syllabus\'s own statement.',
@@ -861,16 +887,16 @@ export const ASSESSMENTS: readonly Assessment[] = [
     code: '9489',
     specStatus: 'current',
     tiers: ['as-only', 'a2-only'],
-    firstAssessment: '2026',
+    firstAssessment: '2027',
     components: [
-      { paperCode: 'Paper 1', title: 'Document question', durationMinutes: 75, marks: 40, weightingPercent: 20, assessmentType: 'written-exam', externallyAssessed: true },
-      { paperCode: 'Paper 2', title: 'Outline study', durationMinutes: 105, marks: 60, weightingPercent: 30, assessmentType: 'written-exam', externallyAssessed: true },
-      { paperCode: 'Paper 3', title: 'Interpretations question', durationMinutes: 75, marks: 40, weightingPercent: 20, assessmentType: 'written-exam', externallyAssessed: true },
-      { paperCode: 'Paper 4', title: 'Depth study', durationMinutes: 105, marks: 60, weightingPercent: 30, assessmentType: 'written-exam', externallyAssessed: true },
+      { paperCode: 'Paper 1', title: 'Historical Sources', durationMinutes: 75, marks: 40, weightingPercent: 20, assessmentType: 'written-exam', externallyAssessed: true },
+      { paperCode: 'Paper 2', title: 'Outline Study', durationMinutes: 105, marks: 60, weightingPercent: 30, assessmentType: 'written-exam', externallyAssessed: true },
+      { paperCode: 'Paper 3', title: 'Historical Interpretations', durationMinutes: 75, marks: 40, weightingPercent: 20, assessmentType: 'written-exam', externallyAssessed: true },
+      { paperCode: 'Paper 4', title: 'Depth Study', durationMinutes: 105, marks: 60, weightingPercent: 30, assessmentType: 'written-exam', externallyAssessed: true },
     ],
-    officialSourceUrl: 'https://www.cambridgeinternational.org/Images/697368-2026-syllabus.pdf',
-    verifiedOn: '2026-08-27',
-    notes: 'Directly confirmed against the official PDF (Assessment overview, p.11): Paper 1 Document question (1h15/40 marks, 40% of AS / 20% of A Level) and Paper 2 Outline study (1h45/60 marks, 60% of AS / 30% of A Level) form the AS Level; Paper 3 Interpretations question (1h15/40 marks, 20% of A Level only) and Paper 4 Depth study (1h45/60 marks, 30% of A Level only) complete the full A Level. Weighting figures recorded here are the "% of A Level" figures (20+30+20+30=100); AS-only route uses the separate 40%/60% figures instead (not modeled as a distinct record). All four papers externally assessed. AS Level topics for Papers 1 and 2 rotate year-on-year per the syllabus\'s own rotation table (section 4).',
+    officialSourceUrl: 'https://www.cambridgeinternational.org/Images/718292-2027-2029-syllabus.pdf',
+    verifiedOn: '2026-09-17',
+    notes: 'Directly confirmed against the official 2027-2029 PDF (Version 2, April 2025; Assessment overview, p.10): Paper 1 Historical Sources (1h15/40 marks, 40% of AS / 20% of A Level) and Paper 2 Outline Study (1h45/60 marks, 60% of AS / 30% of A Level) form the AS Level; Paper 3 Historical Interpretations (1h15/40 marks, 20% of A Level only) and Paper 4 Depth Study (1h45/60 marks, 30% of A Level only) complete the full A Level. Weighting figures recorded here are the "% of A Level" figures (20+30+20+30=100); AS-only route uses the separate 40%/60% figures instead (not modeled as a distinct record). All four papers externally assessed. Paper 1 is now named Historical Sources, not Document question, and Paper 3 Historical Interpretations, not Interpretations question -- both renamed from the 2026 syllabus (697368), which remains current for the November 2026 series only. AS Level topics for Papers 1 and 2, and A Level topics for Paper 4, each reduced from four to three by this syllabus and rotate year-on-year per the syllabus\'s own rotation table (pp.37-38).',
     assessmentModel: 'staged',
     asALevelRelationship: 'staged-cambridge-route',
     certificationNotes: 'Cambridge International AS Level History (Papers 1+2) can be a standalone qualification, or the first half of the full A Level, completed by adding Papers 3+4 (candidates may select any of the three Paper 3/4 options independent of their Paper 1/2 choice).',

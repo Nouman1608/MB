@@ -62,7 +62,7 @@ import { practiceQuestionsForCode } from './bank.ts';
 const RESOURCES_DIR = 'src/content/resources';
 
 export interface SubtopicCoverage {
-  topicNumber: number;
+  topicNumber: number | string;
   topicName: string;
   topicSlug: string;
   subtopicNumber: string;
@@ -73,7 +73,7 @@ export interface SubtopicCoverage {
 }
 
 export interface TopicOnlyTagging {
-  topicNumber: number;
+  topicNumber: number | string;
   topicName: string;
   topicSlug: string;
   resourceSlug: string;
@@ -98,7 +98,7 @@ export interface FlagshipGapReport {
   /** Subtopics with 1-2 questions -- not a gap, but thin enough to flag. */
   thin: SubtopicCoverage[];
   /** Topics recorded name-only in syllabus-topics.ts (subtopics: []) -- not measurable at subtopic level, not counted as gap or covered. */
-  topicsWithoutTaxonomy: { topicNumber: number; topicName: string; topicSlug: string }[];
+  topicsWithoutTaxonomy: { topicNumber: number | string; topicName: string; topicSlug: string }[];
   /** Resource files tagged to a topic but not a specific subtopic -- their questions exist but aren't attributable to any single subtopic row above. */
   topicOnlyTagged: TopicOnlyTagging[];
 }

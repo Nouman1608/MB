@@ -13,7 +13,26 @@ export interface Syllabus {
   subjectSlug: string;
   /** Exact official title as published by the board. */
   officialTitle: string;
+  /**
+   * The qualification's own code (matching assessments.ts and matrix.ts),
+   * never a combined string of the qualification code plus its unit/paper
+   * codes. Before this rule (I396/D-264), YBS11 and YEC11 stored composite
+   * strings ('YBS11 / XBS11 / WBS11 / WBS12'), which rendered directly into
+   * the hub and checklist page titles and only validated resources citing
+   * unit codes by accident, via the codeIndex builder's generic '/'-split.
+   * Put a qualification's unit or cash-in codes in `relatedCodes` instead.
+   */
   code: string;
+  /**
+   * Other codes belonging to the same qualification family that a resource
+   * may legitimately cite in its own `syllabusCodes` frontmatter -- unit
+   * codes (e.g. Pearson's WBS11-WBS14), a linked AS cash-in code, or a
+   * paper-suffixed unit code (e.g. 'WEC11/01'). Indexed into the same
+   * codeIndex as `code` by validate-academic-content.mjs, so a resource can
+   * cite any of them on its own terms rather than relying on `code` being a
+   * '/'-joined combined string.
+   */
+  relatedCodes?: readonly string[];
   /** The board's own description. Quoted and attributed on the page. */
   boardSummary: string;
   officialUrl: string;
@@ -801,12 +820,13 @@ export const SYLLABUSES: readonly Syllabus[] = [
   {
     boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'business',
     officialTitle: 'Pearson Edexcel International Advanced Level Business (YBS11 / XBS11)',
-    code: 'YBS11 / XBS11 / WBS11 / WBS12',
+    code: 'YBS11',
+    relatedCodes: ['XBS11', 'WBS11', 'WBS12', 'WBS13', 'WBS14'],
     boardSummary:
       'Pearson Edexcel International Advanced Level Business develops learners\' understanding of business concepts, decision-making and strategy through a modular four-unit structure.',
     officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-advanced-levels/business-2018.html',
-    verifiedOn: '2026-08-19',
-    notes: 'Issue 1, September 2017. Modular qualification: International AS (units 1-2, code XBS11) covering Marketing and people, and Managing business activities; full International A Level (units 1-4, code YBS11) adds Business decisions and strategy, and Global business.',
+    verifiedOn: '2026-09-17',
+    notes: 'Issue 1, September 2017. Modular qualification: International AS (units 1-2, code XBS11) covering Marketing and people, and Managing business activities; full International A Level (units 1-4, code YBS11) adds Business decisions and strategy, and Global business. The qualification code (YBS11) is recorded alone here; the four unit codes (WBS11-WBS14) and the AS cash-in code (XBS11) are recorded separately as related codes, cited bare (without the /01 paper suffix) by every resource that names a unit.',
   },
   {
     boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'business',
@@ -830,6 +850,16 @@ export const SYLLABUSES: readonly Syllabus[] = [
   },
   {
     boardSlug: 'aqa', qualificationSlug: 'as-level', subjectSlug: 'business',
+    officialTitle: 'AQA AS Business (7137)',
+    code: '7137',
+    boardSummary:
+      'AQA AS Business (7137) is AQA\'s reformed AS specification, replacing 7131, sharing its subject content with the first two units of AQA A-level Business (7138).',
+    officialUrl: 'https://www.aqa.org.uk/subjects/business/as-level/business-7137',
+    verifiedOn: '2026-08-28',
+    notes: 'For first teaching from September 2026; first AS exams June 2027. Replaces 7131, which was last examined in summer 2026. AS Paper 1 assesses the AS content in Unit 3.1 (What is business? Managing marketing and finance) and AS Paper 2 the AS content in Unit 3.2 (Managing people and operations), the first two units of the A-level Business (7138) content. Listed before the withdrawn 7131 record below so the cross-board-integrity validator\'s first-match lookup resolves to the current spec (I396/D-264).',
+  },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'as-level', subjectSlug: 'business',
     officialTitle: 'AQA AS Business (7131)',
     code: '7131',
     boardSummary:
@@ -847,16 +877,6 @@ export const SYLLABUSES: readonly Syllabus[] = [
     officialUrl: 'https://www.aqa.org.uk/subjects/business/a-level/business-7138',
     verifiedOn: '2026-08-28',
     notes: 'For first teaching from September 2026 and the current A-level specification; first A-level exams June 2028. Replaces 7132, which continues to be examined for cohorts already partway through, through summer 2027. Three subject-content units: what is business (managing marketing and finance), managing people and operations, and (A-level only) business and society, the external environment, and business strategy.',
-  },
-  {
-    boardSlug: 'aqa', qualificationSlug: 'as-level', subjectSlug: 'business',
-    officialTitle: 'AQA AS Business (7137)',
-    code: '7137',
-    boardSummary:
-      'AQA AS Business (7137) is AQA\'s reformed AS specification, replacing 7131, sharing its subject content with the first two units of AQA A-level Business (7138).',
-    officialUrl: 'https://www.aqa.org.uk/subjects/business/as-level/business-7137',
-    verifiedOn: '2026-08-28',
-    notes: 'For first teaching from September 2026; first AS exams June 2027. Replaces 7131, which was last examined in summer 2026. AS Paper 1 assesses the AS content in Unit 3.1 (What is business? Managing marketing and finance) and AS Paper 2 the AS content in Unit 3.2 (Managing people and operations), the first two units of the A-level Business (7138) content.',
   },
 
 
@@ -883,12 +903,13 @@ export const SYLLABUSES: readonly Syllabus[] = [
   {
     boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'economics',
     officialTitle: 'Pearson Edexcel International Advanced Level Economics (YEC11 / XEC11)',
-    code: 'YEC11 / XEC11 / WEC11/01 / WEC12/01',
+    code: 'YEC11',
+    relatedCodes: ['XEC11', 'WEC11/01', 'WEC12/01', 'WEC13/01', 'WEC14/01'],
     boardSummary:
       'Pearson Edexcel International Advanced Level Economics develops learners\' understanding of markets, macroeconomic performance, business behaviour and the global economy through a modular four-unit structure.',
     officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-advanced-levels/economics-2018.html',
-    verifiedOn: '2026-08-25',
-    notes: 'Issue 2, June 2018, first teaching September 2018, first external assessment 2019 -- confirmed still the current, unreplaced specification on Pearson\'s own qualification page. This is an evergreen specification with no year-versioned re-issue, so it continues to serve every future exam series (including 2027) until Pearson publishes a successor; there is no separate "2027 syllabus" to confirm or deny. Modular qualification: International AS (units WEC11, WEC12, code XEC11) covering Markets in action and Macroeconomic performance and policy; full International A Level (units WEC11-WEC14, code YEC11) adds Business behaviour and Developments in the global economy.',
+    verifiedOn: '2026-09-17',
+    notes: 'Issue 2, June 2018, first teaching September 2018, first external assessment 2019 -- confirmed still the current, unreplaced specification on Pearson\'s own qualification page. This is an evergreen specification with no year-versioned re-issue, so it continues to serve every future exam series (including 2027) until Pearson publishes a successor; there is no separate "2027 syllabus" to confirm or deny. Modular qualification: International AS (units WEC11, WEC12, code XEC11) covering Markets in action and Macroeconomic performance and policy; full International A Level (units WEC11-WEC14, code YEC11) adds Business behaviour and Developments in the global economy. The qualification code (YEC11) is recorded alone here; the four unit/paper codes (WEC11/01-WEC14/01) and the AS cash-in code (XEC11) are recorded separately as related codes.',
   },
   {
     boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'economics',
@@ -1209,9 +1230,9 @@ export const SYLLABUSES: readonly Syllabus[] = [
     code: '9489',
     boardSummary:
       'Cambridge International AS and A Level History gives learners the opportunity to explore human progress and achievement across a range of political, social, economic, cultural, religious and technological developments.',
-    officialUrl: 'https://www.cambridgeinternational.org/Images/697368-2026-syllabus.pdf',
-    verifiedOn: '2026-08-19',
-    notes: 'AS Level: candidates study one of three options (European, American, or International history) assessed via Paper 1 (Document question) and Paper 2 (Outline study); AS topics rotate between Papers 1 and 2 year-on-year. A Level adds Paper 3 (Interpretations question, 3 named topics) and Paper 4 (Depth study, 3 named depth studies each with 4 themes). Candidates may take AS only, A Level staged over two years, or A Level in one series.',
+    officialUrl: 'https://www.cambridgeinternational.org/Images/718292-2027-2029-syllabus.pdf',
+    verifiedOn: '2026-09-17',
+    notes: '2027-2029 syllabus (Version 2, April 2025). AS Level: candidates study one of three options (European, American, or International history), each with three topics, assessed via Paper 1 (Historical Sources) and Paper 2 (Outline Study); AS topics rotate between Papers 1 and 2 year-on-year. A Level adds Paper 3 (Historical Interpretations, 3 named topics) and Paper 4 (Depth Study, 3 named options each with 3 topics — reduced from four at both AS and Paper 4 by this syllabus). Candidates may take AS only, A Level staged over two years, or A Level in one series. The previous syllabus (697368) remains current for the November 2026 series only, its final series.',
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'world-history',

@@ -323,7 +323,9 @@ const flagshipInTransition = [...future, ...legacy].some((r) => flagshipCodes.ha
                       </dl>
                       <ul class="m-0 list-none p-0 text-[13px] leading-[1.7] text-ink">
                         {b.comps.map((c) => (
-                          <li>{b.prefix}{c.paperCode} — {c.title} ({c.marks} marks, {c.weightingPercent}%)</li>
+                          <li>{b.prefix}{c.paperCode} — {c.title} ({c.marks} marks, {c.asWeightingPercent != null && c.asWeightingPercent !== c.weightingPercent
+                            ? (c.weightingPercent === 0 ? `${c.asWeightingPercent}% AS only` : `${c.asWeightingPercent}% AS / ${c.weightingPercent}% A Level`)
+                            : `${c.weightingPercent}%`})</li>
                         ))}
                       </ul>
                     </div>

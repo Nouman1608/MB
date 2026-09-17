@@ -1,34 +1,40 @@
 ---
-title: "AQA AS Business: Course Structure and Study Approach (7131)"
+title: "AQA AS Business: Course Structure and Study Approach (7137)"
 resourceType: "subject-guides"
 subject: "business"
 level: ["a-levels"]
 topic: "Course structure and study approach"
 boards: ["aqa"]
 qualifications: ["as-level"]
-syllabusCodes: ["7131"]
-syllabusSeries: "For first teaching from September 2023"
+syllabusCodes: ["7137"]
+syllabusSeries: "For first teaching from September 2026"
 order: 1
 syllabusTopics:
   - qualification: "as-level"
-    topic: "what-is-business-aqa-aslevel-business"
+    topic: "what-is-business-managing-marketing-and-finance-aqa-aslevel-business"
+    subtopic: "business-and-objectives-aqa-aslevel-business"
   - qualification: "as-level"
-    topic: "managers-leadership-and-decision-making-aqa-aslevel-business"
+    topic: "what-is-business-managing-marketing-and-finance-aqa-aslevel-business"
+    subtopic: "forms-of-business-and-stakeholders-aqa-aslevel-business"
   - qualification: "as-level"
-    topic: "decision-making-to-improve-marketing-performance-aqa-aslevel-business"
+    topic: "what-is-business-managing-marketing-and-finance-aqa-aslevel-business"
+    subtopic: "marketing-management-aqa-aslevel-business"
   - qualification: "as-level"
-    topic: "decision-making-to-improve-operational-performance-aqa-aslevel-business"
+    topic: "what-is-business-managing-marketing-and-finance-aqa-aslevel-business"
+    subtopic: "financial-management-aqa-aslevel-business"
   - qualification: "as-level"
-    topic: "decision-making-to-improve-financial-performance-aqa-aslevel-business"
+    topic: "managing-people-and-operations-aqa-aslevel-business"
+    subtopic: "people-management-aqa-aslevel-business"
   - qualification: "as-level"
-    topic: "decision-making-to-improve-human-resource-performance-aqa-aslevel-business"
-description: "How AQA AS Business (7131) is structured, how it relates to full A-level Business, and how to approach the six functional decision-making sections."
+    topic: "managing-people-and-operations-aqa-aslevel-business"
+    subtopic: "operations-management-aqa-aslevel-business"
+description: "How AQA AS Business (7137) is structured, how it relates to full A-level Business, and how to approach its two-unit, two-paper assessment."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-25
 featured: false
 ---
 
-An overview of how AQA AS Business (7131) is put together, for students
+An overview of how AQA AS Business (7137) is put together, for students
 starting the course and for anyone deciding whether to sit AS as a
 stand-alone qualification, including how it relates to the full A-level
 and how the two exam papers are structured.
@@ -36,116 +42,95 @@ and how the two exam papers are structured.
 ## A stand-alone qualification, not half an exam
 
 AQA AS Business is assessed and certificated separately from A-level
-Business (7132) -- it is not simply "the first year" of the A-level in
-an administrative sense, even though the two specifications share their
-subject content for the sections AS covers. A student can take AS
-Business as a complete two-year-or-less qualification in its own right,
-without going on to the full A-level. This distinction matters
-practically: a school that enters students for AS at the end of Year
-12 is awarding a separate, final qualification at that point, not a
-progress checkpoint towards the A-level grade -- so AS results do not
-automatically contribute to, or get averaged into, a later A-level
-grade for students who go on to complete sections 7-10 in Year 13.
+Business (7138) -- it is not simply "the first year" of the A-level in
+an administrative sense, even though AS and A-level share a single
+specification document and AS content is examined again, in more depth,
+within the A-level. A student can take AS Business as a complete
+qualification in its own right, without going on to the full A-level.
+This distinction matters practically: a school that enters students for
+AS at the end of Year 12 is awarding a separate, final qualification at
+that point, not a progress checkpoint towards the A-level grade.
 
-## The six sections
+## The two units
 
-AS Business covers the first six of the ten sections that make up the
-combined AQA Business specification:
+AS Business covers two of the three units that make up the combined AQA
+Business specification, each split into named sub-topics:
 
-1. **What is business?** — the nature and purpose of business activity,
-   and the environment it operates in.
-2. **Managers, leadership and decision making** — how business decisions
-   get made and by whom.
-3. **Decision making to improve marketing performance**
-4. **Decision making to improve operational performance**
-5. **Decision making to improve financial performance**
-6. **Decision making to improve human resource performance**
+**Unit 3.1: What is business? Managing marketing and finance**
 
-Sections 7 through 10 -- the remaining functional and strategic decision-making content -- are only assessed as part of the full two-year A-level (7132), not at AS.
+1. **3.1.1 Business and objectives** — entrepreneurship, business
+   planning and decisions, and the purpose and characteristics of
+   business objectives.
+2. **3.1.2 Forms of business and stakeholders** — legal/organisational
+   business forms, how to compare them, and internal/external
+   stakeholders.
+3. **3.1.3 Marketing management** — identifying and understanding
+   customer needs, and how markets and marketing data inform decisions.
+4. **3.1.4 Financial management**
 
-Sections 3-6 form a deliberate pattern: each applies the same
-decision-making lens (introduced in section 2) to a different function
-of the business -- marketing, operations, finance, then people. Reading
-them in that order, rather than jumping between functions, makes the
-recurring decision-making framework easier to apply consistently across
-all four areas.
+**Unit 3.2: Managing people and operations**
 
-## Why the sequencing matters for revision
+5. **3.2.1 People management**
+6. **3.2.2 Operations management**
 
-Because sections 3-6 are structurally parallel, a technique that works
-for organising revision of one function (for example, the recurring
-questions "what data would inform this decision?" and "what could go
-wrong?") transfers directly to the other three. Building that habit
-early, on whichever function is taught first, pays off across the rest
-of the course. In practice this means a single set of revision
-questions -- what objective is the business pursuing, what data would
-support this decision, what could go wrong, and how would a different
-stakeholder view it -- can be reused across marketing, operations,
-finance and human resources with only the specific content changing,
-rather than needing four entirely separate revision approaches for
-what is structurally the same decision-making process applied four
-times.
+Unit 3.3 (Business and society, business and the external environment,
+and business strategy) is explicitly marked "(A-level only)" in the
+specification and is only assessed as part of the full two-year A-level
+(7138), not at AS -- along with one further sub-topic, 3.2.3 (Managing
+business culture), which sits inside Unit 3.2 but is also marked
+"(A-level only)".
+
+This is a change from the previous specification (7131, last examined
+summer 2026): 7131's Topic 1 included a third sub-topic on how
+businesses operate within an external environment, which has moved,
+under 7137/7138, into the now-A-level-only Unit 3.3. It is no longer
+part of the AS course at all.
 
 ## How it's assessed
 
-AS Business is assessed by two exam papers, each lasting **1 hour 30
+AS Business is assessed by two exam papers, each lasting **1 hour 45
 minutes** and worth 80 marks (50% of the qualification each), sat at
 the end of the course -- this is a linear qualification, so all
-assessment happens in one May/June series rather than being split
-across the two years. Paper 1 has three compulsory sections: Section A
-opens with **10 multiple-choice questions worth 10 marks**, Section B
-carries short-answer questions worth around 20 marks, and Section C
-carries two data-response stimuli worth around 25 marks each.
-Paper 2 is built around a single case study of around seven questions,
-ending with an extended-response question that requires drawing
-together several sections of the specification into one sustained,
-evidence-based argument rather than answering them as isolated topics.
-That structure is worth planning revision around directly --
-practising how sections connect (for example, how a marketing decision
-affects operational or financial performance) matters as much as
-knowing each section individually, and Paper 1's opening multiple-choice
-section rewards secure recall of definitions and figures that later
-sections assume you already know.
+assessment happens in one May/June series. Both papers follow the same
+format: two case studies, each followed by six compulsory questions,
+together worth 40 marks per case study (80 marks total per paper).
 
-## Approaching the Paper 2 case study
+- **Paper 1** is standalone, with questions based only on Unit 3.1.
+- **Paper 2** focuses on Unit 3.2, plus sections 3.1.1 and 3.1.2 from
+  Unit 3.1 -- but question end-points can draw on knowledge and skills
+  from across the whole of Unit 3.1, including calculations (AQA's own
+  sample assessment materials give a Paper 2 question that ends by
+  requiring a break-even calculation, which is 3.1.4 content). One
+  15-mark question in Paper 2 specifically requires learners to draw
+  together knowledge from across the full AS course, and both papers'
+  15-mark questions reward the accurate use of sophisticated concepts.
 
-Because Paper 2 is built around a single business scenario rather than
-a series of unrelated questions, the most efficient way to prepare is
-to practise reading a case study **actively** rather than passively —
+## Approaching the case-study papers
+
+Because both papers are built around business scenarios rather than a
+series of unrelated questions, the most efficient way to prepare is to
+practise reading a case study **actively** rather than passively --
 noting the business's size, sector, objectives and any numerical data
 given in the opening paragraphs before attempting a single question,
 since later questions routinely expect that context to be applied
-rather than restated. The extended-response question at the end
-typically asks candidates to weigh up a decision facing the business
-in the case study, which means a strong answer draws on evidence from
-the case itself (figures, stated objectives, described constraints)
-rather than generic business theory alone — an answer built entirely
-from theory, with no reference back to the specific business in the
-scenario, tends to plateau in the middle mark bands regardless of how
-accurate the theory is.
+rather than restated. The higher-mark questions typically ask
+candidates to weigh up a decision facing the business in the case
+study, which means a strong answer draws on evidence from the case
+itself (figures, stated objectives, described constraints) rather than
+generic business theory alone -- an answer built entirely from theory,
+with no reference back to the specific business in the scenario, tends
+to plateau in the middle mark bands regardless of how accurate the
+theory is. For Paper 2 in particular, it's worth practising questions
+that deliberately link a Unit 3.2 topic back to marketing or finance
+(3.1.1/3.1.2, and occasionally the wider Unit 3.1), since AQA's own
+sample materials show end-points reaching into content outside the
+paper's primary unit.
 
 ## Related resources
 
-- [AQA AS-Level Business: What Is Business?](/resources/aqa-as-level-business-what-is-business/) — the first of the six AS sections, in full
-- [AQA A-Level Business: Managers, Leadership and Decision Making](/resources/aqa-a-level-business-managers-leadership-decision-making/) — section 2, shared content with the full A-level
-
-## What changes after AS
-
-AQA has accredited a replacement specification (7137/7138) for first
-teaching from September 2026 -- current AS students sitting exams through
-summer 2026 remain on 7131, but anyone starting after that date should
-confirm which specification code applies to them before relying on this
-guide's section numbering. A change of specification code does not
-necessarily mean every section's content changes substantially, but it
-does mean the section numbering, exact command words, and assessment
-weightings referenced anywhere on this site against 7131 should not be
-assumed to carry over automatically to 7137/7138 without checking the
-new specification document directly.
-
-## Related resources
-
+- [AQA AS-Level Business: What Is Business? (3.1.1-3.1.2)](/resources/aqa-as-level-business-what-is-business/) — business and objectives, and forms of business and stakeholders
 - [Business subject hub](/subjects/business/)
 
-*Written against AQA AS Business 7131. Always confirm the current
+*Written against AQA AS Business 7137. Always confirm the current
 specification code and content for your examination year at
-[aqa.org.uk](https://www.aqa.org.uk/subjects/business/as-level/business-7131).*
+[aqa.org.uk](https://www.aqa.org.uk/subjects/business/as-level/business-7137).*

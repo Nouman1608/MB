@@ -28,7 +28,7 @@ import CTA from '../../../../components/ui/CTA.astro';
 import { activeOnly, offeringsForSubject, academicHubPath, boardPath, levelPath, LEVEL_FOR_QUALIFICATION, isFlagshipCode, type Combination } from '../../../../utils/academic';
 import { subjectBySlug } from '../../../../data/academic/subjects';
 import { syllabusFor } from '../../../../data/academic/syllabuses';
-import { assessmentsFor } from '../../../../data/academic/assessments';
+import { assessmentsFor, type AssessmentComponent } from '../../../../data/academic/assessments';
 import { topicsFor, hasStages } from '../../../../data/academic/syllabus-topics';
 import { getResources } from '../../../../utils/content/collections';
 import { isIndexableAcademicPage } from '../../../../utils/seo/indexability';
@@ -206,8 +206,17 @@ const staged = syllabusTopics ? hasStages(syllabusTopics) : false;
  * is sat at the end of the course) gets no "assessed on the AS papers" note,
  * and topics without a stage are listed rather than silently dropped.
  */
-function topicRange(nums: number[]): string {
-  const sorted = [...nums].sort((a, b) => a - b);
+function topicRange(nums: (number | string)[]): string {
+  // A handful of specifications print a fractional topic-level number
+  // instead of a plain integer (Pearson YAC11: 1.1-1.6, 2.1-2.9; Pearson
+  // 4EC1: 1.1, 1.2, 2.1, 2.2 -- see SyllabusTopic.number, E/D-264). Integer
+  // range compression ("Topics 1-9") doesn't apply to those, so they're
+  // listed in document order instead rather than coerced into a numeric
+  // sort that would silently misorder or NaN them.
+  if (!nums.every((n) => typeof n === 'number')) {
+    return `${nums.length === 1 ? 'Topic' : 'Topics'} ${nums.join(', ')}`;
+  }
+  const sorted = [...(nums as number[])].sort((a, b) => a - b);
   const parts: string[] = [];
   for (let i = 0; i < sorted.length; i++) {
     let j = i;
@@ -360,11 +369,28 @@ if (primaryAssessment) {
    * for). A `routeGroup`-bearing assessment falls through to the flat
    * per-component listing exactly as before this fix; not claimed fixed.
    */
+  /**
+   * C/D-264 — a component with an `asWeightingPercent` different from its
+   * `weightingPercent` (Cambridge 9709's staged AS/A Level route: Paper 2
+   * is 40% of the AS Level but 0% of the A Level, since it doesn't count
+   * toward the full qualification at all) is shown with both figures named,
+   * never as a bare "0%" or "0% of the qualification" that reads as an
+   * error. A component with no distinct AS weighting renders exactly as
+   * before this fix.
+   */
+  const weightingProse = (comp: AssessmentComponent): string => {
+    if (comp.asWeightingPercent != null && comp.asWeightingPercent !== comp.weightingPercent) {
+      return comp.weightingPercent === 0
+        ? `${comp.asWeightingPercent}% of the AS Level (not counted toward the A Level)`
+        : `${comp.asWeightingPercent}% of the AS Level, ${comp.weightingPercent}% of the A Level`;
+    }
+    return `${comp.weightingPercent}% of the qualification`;
+  };
   const fmtComponent = (comp: (typeof primaryAssessment.components)[number]) => {
     const dur = comp.durationMinutes
       ? `${Math.floor(comp.durationMinutes / 60)}h${comp.durationMinutes % 60 ? ` ${comp.durationMinutes % 60}m` : ''}`.trim()
       : 'no fixed duration';
-    return `${comp.paperCode} (${comp.title}) — ${dur}, ${comp.marks} marks, ${comp.weightingPercent}% of the qualification`;
+    return `${comp.paperCode} (${comp.title}) — ${dur}, ${comp.marks} marks, ${weightingProse(comp)}`;
   };
   const describeComponents = (comps: typeof primaryAssessment.components): string => {
     const seen = new Set<string>();
@@ -621,7 +647,9 @@ const jsonLd = [
                         </td>
                         <td class="py-2 pe-3 text-ink-mute">{comp.durationMinutes ? `${Math.floor(comp.durationMinutes / 60)}h ${comp.durationMinutes % 60 ? `${comp.durationMinutes % 60}m` : ''}`.trim() : '—'}</td>
                         <td class="py-2 pe-3 text-ink-mute">{comp.marks}</td>
-                        <td class="py-2 pe-3 text-ink-mute">{comp.weightingPercent}%{comp.alternativeGroup && <span aria-label="Sat as an alternative to another component" title="Sat as an alternative to another component"> *</span>}</td>
+                        <td class="py-2 pe-3 text-ink-mute">{comp.asWeightingPercent != null && comp.asWeightingPercent !== comp.weightingPercent
+                          ? (comp.weightingPercent === 0 ? `${comp.asWeightingPercent}% (AS only)` : `${comp.asWeightingPercent}% AS / ${comp.weightingPercent}% A Level`)
+                          : `${comp.weightingPercent}%`}{comp.alternativeGroup && <span aria-label="Sat as an alternative to another component" title="Sat as an alternative to another component"> *</span>}</td>
                         <td class="py-2 text-ink-mute">{ASSESSMENT_TYPE_LABEL[comp.assessmentType] ?? comp.assessmentType}</td>
                       </tr>
                     ))}
