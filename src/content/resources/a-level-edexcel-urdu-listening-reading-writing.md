@@ -62,7 +62,7 @@ research writing, and Paper 2 tests translation into Urdu alongside response to 
 texts and films, Paper 3's combination of listening with reading and writing completes the
 qualification's coverage of receptive skills (listening, reading) and productive skills (writing) that
 the other two papers test through translation and works-response tasks instead. A candidate strong at
-translation (Papers 1 and 2) is not automatically strong at real-time listening comprehension (Paper
+translation (Papers 1 and 2) is not automatically strong at understanding spoken Urdu (Paper
 3) -- these draw on genuinely different processing speed and skill, so revision time should not
 default entirely toward translation practice on the assumption it transfers directly to listening
 performance.
@@ -90,11 +90,13 @@ afterthought leaves half the paper's marks under-practised in its longest and mo
 
 Practise full timed sittings of Paper 3 specifically, not just isolated listening or writing drills in
 isolation, since the paper's real difficulty lies partly in managing 2 hours 15 minutes across two
-sections with different skill demands, not only in any single skill in isolation. Because Section A has
-no reading or writing component to fall back on if a listening passage is missed, build the habit of
-staying with the current question rather than dwelling on a missed detail -- a listening exam
-continues regardless of whether you are ready for the next section, unlike a reading passage you can
-return to.
+sections with different skill demands, not only in any single skill in isolation. In Section A the
+specification gives students individual control of the recording: they "may stop, revisit and replay
+sections of the recording as they wish". A missed detail can therefore be recovered, but every replay
+uses time from the recommended 45 minutes. Build the habit of noting roughly where a missed detail
+fell, finishing the passage, then going back to replay just that section, rather than replaying whole
+passages from the start; practise with audio you can pause and replay yourself, inside a 45-minute
+limit, so that this control becomes routine.
 
 ## Self-test
 
@@ -111,7 +113,7 @@ minutes. 3. Papers 1 and 2 each include a translation section (into English, and
 alongside other skills -- reading comprehension and research-question writing in Paper 1, written
 response to works in Paper 2; Paper 3 instead combines listening with reading and writing, without a translation
 component, and integrates listening, reading and writing together within Section B rather than testing
-them as fully separate components. 4. Because translation proficiency and real-time listening
+them as fully separate components. 4. Because translation proficiency and listening
 comprehension draw on different processing skills and speeds -- strong performance on Papers 1 and 2's
 translation tasks does not automatically transfer to Paper 3's listening demands. 5. Any valid
 technique, e.g. reading the question before the audio plays wherever the format allows, so you know

@@ -43,8 +43,10 @@ where B.4 is HL only).
 ## A.2 Networks
 
 - Network fundamentals: clients, servers, and the distinction between a LAN and a WAN.
-- The layered model of network communication and the role of protocols (e.g. TCP/IP, HTTP) in
-  letting different systems exchange data reliably.
+- The network protocols used for transport and application: TCP, UDP, HTTP, HTTPS and DHCP (A2.1.4).
+- HL only (A2.1.5): the function of the TCP/IP model -- the application, transport, internet and
+  network interface layers, the role of each, and how they interact to ensure reliable data
+  transmission over a network.
 - Data transmission concepts -- packet switching, bandwidth, and common causes of transmission
   error -- and why the internet's architecture is described as decentralised.
 

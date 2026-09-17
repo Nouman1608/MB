@@ -48,9 +48,11 @@ ultimately represented as binary, measured in bits and bytes; the role
 of the operating system in managing hardware resources and mediating
 between applications and the machine
 - **A.2 Networks** — network fundamentals (clients, servers, LAN
-versus WAN); the layered model of network communication and the role
-of protocols (e.g. TCP/IP, HTTP) in letting different systems exchange
-data reliably; data transmission concepts (packet switching,
+versus WAN); the network protocols used for transport and application
+(TCP, UDP, HTTP, HTTPS and DHCP; A2.1.4) and, HL only (A2.1.5), the
+function of the TCP/IP model -- its application, transport, internet and
+network interface layers and how they interact to ensure reliable data
+transmission; data transmission concepts (packet switching,
 bandwidth, common causes of transmission error) and the internet's
 decentralised architecture
 - **A.3 Databases** — why structured data is organised into databases

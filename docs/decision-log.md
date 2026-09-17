@@ -12044,3 +12044,32 @@ None. No existing resource or data-layer record was edited.
 **Validation.** All pass: `astro check` 0 errors; `validate:academic`; `validate-assessments`; cross-board integrity; build (2141 HTML files); `audit:all` 0 problems across 2140 pages; cross-board regression; negative suite; API tests 31/31; `check-duplicate-resource-scope` the four pre-existing groups only.
 
 **Open-count position after D-248.** Round 26 leaves E924, I374 and U75 (closed by D-247, unread) and I375; I375 (2 items) is closed here. Confirmed errors declared open: 0.
+
+## D-249 - Audit round 27 (Q408): E925 and I376 closed (2026-09-17)
+
+**Trigger.** Round 27 (`docs/audit/2026-11-03-findings.md`, `7b8cde8`) verified D-247 (11 of 11) and D-248 (2 of 2), closed E924, I374, U75 and I375, and recorded E925 and I376 from the D-247 and D-248 observations.
+
+**Primary sources.** Pearson Edexcel GCE A level Urdu 9UR0 specification (Issue 1, June 2018), Paper 3 assessment information, printed p. 29: Section A (listening), 45 minutes recommended, 30 marks, "students will have individual control of the recording and may stop, revisit and replay sections of the recording as they wish"; Section B (listening, reading and writing question), 1 hour and 30 minutes recommended, 30 marks, "students listen to a recording and read a written text", "summarise the different points of view in both sources", "answer a question in writing, which requires the student to evaluate the viewpoints in the recording and the text and draw conclusions", approximately 220-270 words for 5(c). The specification says nothing about control of the Section B recording. IB Computer science guide (first assessment 2027), read at ibo.org in a browser (same-origin fetch, pdf.js): "A2.1.4 Describe the network protocols used for transport and application. • Protocols: transmission control protocol (TCP), user datagram protocol (UDP), hypertext transfer protocol (HTTP), hypertext transfer protocol secure (HTTPS), dynamic host configuration protocol (DHCP) A2.1.5 Describe the function of the TCP/IP model. (HL only) • Application, transport, internet, network interface • The role of each layer and the interaction between these layers to ensure reliable data transmission over a network".
+
+### E925 - 9UR0 Section A recording control
+
+| Item | Files | What changed |
+|---|---|---|
+| E925 | `a-level-edexcel-urdu-listening-reading-writing.md` ('How to approach it'; the Papers 1-2 comparison; self-test answer 4) | The 'listening exam continues regardless' advice replaced: the specification's sentence on individual control is quoted, and the advice is now to note where a missed detail fell, finish the passage and replay just that section, within the recommended 45 minutes, practising with audio that can be paused and replayed. 'Real-time listening comprehension' changed to understanding spoken Urdu / listening comprehension (two places). |
+| E925 | `edexcel-a-level-urdu-listening-reading-writing-practice.md` (Q6 and answers 6(a)-(b); answers 4(a), 7 and 8) | Q6 rebuilt: the candidate now replays the whole recording three times to find one detail; (a) the time cost against the recommended 45 minutes, (b) replay just the section, given the control the specification allows; tariffs [2] + [2] unchanged. Answer 4(a) no longer says 'real-time processing speed'. Answer 7 no longer rests on 'a single, uninterrupted listening pass'; it notes that replays cost time. Answer 8 ([6]) no longer asserts limited repeats or 'a single listening pass' for Section B, which the specification does not state; it now rests on the specification's Section B structure (a listening source and a reading text on the same sub-theme, summaries of both, an evaluative response of about 220-270 words) and its recommended 1 hour 30 minutes. |
+| E925 | `edexcel-a-level-urdu-listening-reading-writing-revision-notes.md` (Exam-day strategy; worked example; Section B practice routine; exam traps; the translation paragraph and self-test answer 4) | 'The listening audio continues regardless', 'hope the passage replays, which is not always possible depending on the exam format' and 'the audio does not wait' replaced with the specification's individual control and the time cost of replays. The Section B practice routine no longer prescribes a single exposure with no return to the sources; it pairs an audio source with a text on one sub-theme under the 1 hour 30 minute limit. 'Real-time' removed in two places. |
+
+### I376 - TCP/IP model HL only
+
+| Item | Files | What changed |
+|---|---|---|
+| I376 | `ib-dp-computer-science-theme-a.md` (A.2 coverage), `ib-dp-computer-science-theme-a-revision-notes.md` (A.2 Networks) | Transport and application protocols given for both levels (TCP, UDP, HTTP, HTTPS, DHCP; A2.1.4); the function of the TCP/IP model and its four layers labelled HL only (A2.1.5), in the guide's terms. The practice file defines 'protocol' only, which is unaffected. |
+
+### Observations, not actioned
+
+- `cambridge-igcse-urdu-second-language-exam-preparation.md` L37 says Cambridge listening gives 'two hearings, and no more'; not checked against the Cambridge syllabus in this entry (a different qualification from 9UR0).
+- Of the further HL-only Theme A statements round 27 lists, `ib-dp-computer-science-theme-a.md` A.2 still names servers under network fundamentals without a label; A2.2.2 (function of servers) is HL only, though clients and servers as a concept may sit in SL statements not re-read here.
+
+**Validation.** All pass: `astro check` 0 errors; `validate:academic`; `validate-assessments`; cross-board integrity; build (2141 HTML files); `audit:all` 0 problems across 2140 pages; cross-board regression; negative suite; API tests 31/31; `check-duplicate-resource-scope` the four pre-existing groups only.
+
+**Open-count position after D-249.** Round 27 leaves E925 and I376; both are closed here (5 files). Confirmed errors declared open: 0.
