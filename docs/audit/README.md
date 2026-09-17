@@ -71,6 +71,7 @@ corpus briefly ended up worse than baseline on five files — see the amendment 
 | `2026-11-13-findings.md` | Round 37: the fourteen leads no public official document settles converted to a reword-and-close item (I388); no open leads. D-252 and D-253 await verification. **72 confirmed-error groups open.** |
 | `2026-11-14-findings.md` | Round 38: D-252 and D-253 read — **76 of 80 items fixed**; 63 of 64 reopened closures and E926–E933 closed. E386 open; E934 (CPR r.26.9(10)), E935 (sibling errors in other qualifications), I389. **3 confirmed-error groups open.** |
 | `2026-11-15-findings.md` | Round 39: D-254 read — I388 applied, siblings left (I390). The repair team's 32 observations worked: 16 confirmed (E936, I391), 16 cleared. **4 confirmed-error groups open.** |
+| `2026-11-16-findings.md` | Round 40: D-255 read — **4 of 4 fixed**; E386, E934, E935, I389 closed. Islamiyat Arabic proofread holds on an independent check. **1 confirmed-error group open** (E936). |
 | `2026-09-15-tier-resolution-response.md` | Cambridge 0620 tier question, resolved by coordinates. |
 | `correction-constraints.md` | **Standing rules. Start here.** |
 
@@ -154,9 +155,9 @@ finding against a snapshot that was three days old.
 
 | | |
 |---|---|
-| findings recorded | 1,787 |
-| confirmed errors open | **4 groups** (E386, E934, E935, E936) *(reconciliation current through **D-254**; every declared closure D-138 to D-254 read. I389–I391 open. **Not a statement that the resources are correct.**)* |
-| declared closed by decision log D-138…D-254 | 867 |
+| findings recorded | 1,788 |
+| confirmed errors open | **1 group** (E936) *(reconciliation current through **D-255**; every declared closure D-138 to D-255 read. I390 and I391 open. **Not a statement that the resources are correct.**)* |
+| declared closed by decision log D-138…D-255 | 870 |
 | still open despite a closing round (deferred, partial, disputed, heading-only, or reopened) | 0 |
 | withdrawn by this audit | 1 (E746) |
 | resources read end to end | 1,251 of 1,251 baseline; all 1,645 on `main` at `251571e` read at least once (round 19). Board claims in the 397 post-baseline resources unchecked (U72). |
