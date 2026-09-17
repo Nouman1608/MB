@@ -133,5 +133,5 @@ pressure.
 OxfordAQA International GCSE Pakistan Studies (9236) specification,
 Version 1.9, section 3.2.1 The Landscape and Natural Resources of
 Pakistan (Paper 2, Section A) —
-https://www.oxfordaqa.com/wp-content/uploads/2024/03/oxfordaqa-international-gcse-pakistan-studies-specification.pdf,
+https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-pakistan-studies-specification.pdf,
 fetched and verified in full 2026-09-03.

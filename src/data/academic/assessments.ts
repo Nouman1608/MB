@@ -559,7 +559,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
       { paperCode: 'Paper 1', title: 'The History and Culture of Pakistan', durationMinutes: 90, marks: 77, weightingPercent: 50, assessmentType: 'written-exam' },
       { paperCode: 'Paper 2', title: 'The Human and Physical Geography of Pakistan', durationMinutes: 90, marks: 77, weightingPercent: 50, assessmentType: 'written-exam' },
     ],
-    officialSourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2024/03/oxfordaqa-international-gcse-pakistan-studies-specification.pdf',
+    officialSourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-pakistan-studies-specification.pdf',
     verifiedOn: '2026-08-26',
     notes: 'Specification (Version 1.9), for International GCSE exams May/June 2026 onwards -- no separate first-teaching date is stated in the document. Each paper: written exam, 1h30, 77 marks, 50% of GCSE, with three sections (two compulsory topics + one choice of two optional topics) worth 28/28/21 raw marks.',
   },

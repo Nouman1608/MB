@@ -77,7 +77,7 @@ Pathways: **mechanically, electrically, by heating, by radiation** [1] [1].
 
 **3. (a)** E = mgh = 0.30 × 9.8 × 2.5 [1] = **7.35 J** [1].
 **(b)** ½mv² = 7.35, so v = √(2 × 7.35 ÷ 0.30) [1] [1] = **7.0 m s⁻¹** [1].
-**(c)** Some energy is transferred to the **thermal store of the surrounding air** by air resistance [1], and some to **sound** [1].
+**(c)** Some energy is transferred to the **thermal store of the surrounding air** by air resistance [1], and some is carried away to the surroundings by **sound** [1].
 
 **4. (a)** 9 ÷ 60 [1] = **0.15 or 15%** [1].
 **(b)** It is transferred to the **thermal store of the surroundings** [1], heating the lamp and the air around it [1].
@@ -87,7 +87,7 @@ Pathways: **mechanically, electrically, by heating, by radiation** [1] [1].
 
 **6.** The cavity traps **air**, which has a **low thermal conductivity**, reducing conduction [1]. The insulating material **prevents the air from circulating** [1], which stops **convection currents** carrying energy across the cavity [1].
 
-**7.** Friction between the ball and the floor **dissipates energy from the kinetic store** [1] to the **thermal store of the ball and floor surfaces (and the surrounding air)**, and to the **sound store**, as the ball slows [1]. The ball's kinetic energy has therefore **decreased**, not disappeared [1]. This does **not** violate conservation of energy, because the total energy is unchanged overall — it has simply been **transferred to less useful stores**, becoming spread out ('dissipated'), rather than created or destroyed [1].
+**7.** Friction between the ball and the floor **dissipates energy from the kinetic store** [1] to the **thermal store of the ball and floor surfaces (and the surrounding air)**, with some dissipated to the surroundings by **sound**, as the ball slows [1]. The ball's kinetic energy has therefore **decreased**, not disappeared [1]. This does **not** violate conservation of energy, because the total energy is unchanged overall — it has simply been **transferred to the surroundings**, mostly to less useful thermal stores, becoming spread out ('dissipated'), rather than created or destroyed [1].
 
 **8. Lubrication** — reduces **friction** between moving surfaces, cutting the energy dissipated as heat and sound [1] [1]. **Thermal insulation** — reduces the **rate** of energy transfer by heating, using materials of **low thermal conductivity** [1] [1]. A low thermal conductivity material is a good insulator, not the reverse — a common point of confusion.
 

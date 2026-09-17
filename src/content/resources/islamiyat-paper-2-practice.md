@@ -63,7 +63,7 @@ The world is the believer's prison and the unbeliever's paradise.
 
 God does not look at your forms and your possessions, but he looks at your hearts and your deeds.
 
-*The Arabic and English texts are those printed in the syllabus appendix (Hadiths 2, 9, 19 and 20).*
+*The English texts are those printed in the syllabus appendix (Hadiths 2, 9, 19 and 20). The Arabic follows the appendix word for word; its vowel marks are given in standard form where the appendix's marking is partial or non-standard.*
 
 ## Question 2
 

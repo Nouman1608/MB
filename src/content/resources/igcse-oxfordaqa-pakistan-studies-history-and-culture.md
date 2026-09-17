@@ -65,7 +65,7 @@ than relying on prose summaries alone.
 
 OxfordAQA International GCSE Pakistan Studies (9236) specification,
 Version 1.9, for International GCSE exams May/June 2026 onwards —
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2024/03/oxfordaqa-international-gcse-pakistan-studies-specification.pdf).
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-pakistan-studies-specification.pdf).
 
 ## Reform movements before 1857
 

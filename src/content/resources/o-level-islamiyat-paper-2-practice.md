@@ -63,7 +63,7 @@ May God show mercy to a man who is kindly when he sells, when he buys, and when 
 
 The believers are like a single man; if his eye is affected he is affected, and if his head is affected he is all affected.
 
-*The Arabic and English texts are those printed in the syllabus appendix (Hadiths 1, 11, 14 and 16).*
+*The English texts are those printed in the syllabus appendix (Hadiths 1, 11, 14 and 16). The Arabic follows the appendix word for word; its vowel marks are given in standard form where the appendix's marking is partial or non-standard.*
 
 ## Question 2
 

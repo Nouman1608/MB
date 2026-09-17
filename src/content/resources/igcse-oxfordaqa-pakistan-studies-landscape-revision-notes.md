@@ -118,14 +118,13 @@ the monsoon.
 
 ## Why this sub-topic is compulsory, not optional
 
-Unlike the paper's two optional sections, which candidates or centres
-may choose between, 3.2.1 is examined for every candidate in Section A.
-That makes it the one part of Paper 2 no candidate can safely
-deprioritise or skip in revision, regardless of which optional sections
-their centre has chosen elsewhere in the paper — a fact worth
-confirming explicitly rather than assuming, since it shapes how much
-relative revision time this compulsory content deserves compared with
-the optional sections that follow it.
+Paper 2 has one optional section (Section C), which offers a choice of
+two topics; 3.2.1 is examined for every candidate in Section A. With
+the other compulsory topic in Section B, it is content no candidate can
+safely deprioritise or skip in revision, whichever optional topic
+their centre has chosen — a fact worth confirming explicitly rather
+than assuming, since it shapes how much relative revision time this
+compulsory content deserves compared with the optional topic.
 
 ## Linking this sub-topic forward to Paper 2's later sections
 

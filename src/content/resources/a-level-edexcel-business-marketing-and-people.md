@@ -94,6 +94,12 @@ market share = firm's sales / total market sales x 100
 
 **Dynamic markets** change through online retailing, changing consumer tastes and technology, so competitive advantage erodes and must be renewed.
 
+**Risk and uncertainty** are not the same. A **risk** can be estimated: the business can put a probability or likely range on the outcome, for example from past sales data or market research. **Uncertainty** cannot be estimated, because there is no reliable basis for predicting the outcome, as with a sudden change in tastes or an unexpected new competitor.
+
+**Market research** is used to identify and anticipate customer needs and wants, quantify likely demand and gain insight into consumer behaviour. **Primary research** collects new data first-hand: surveys and questionnaires, focus groups and consumer panels, face-to-face or telephone interviews, and product trials or test marketing. **Secondary research** uses data that already exists: websites and social media, newspapers, magazines, TV and radio, reports and databases. Either kind can be **quantitative** (numerical, such as the percentage of customers who would buy) or **qualitative** (opinions and reasons, such as why they would buy). Primary data is specific to the business's question but slower and costlier to collect; secondary data is quicker and cheaper but may be out of date or not fit the question exactly.
+
+**Sampling** means researching part of the market rather than all of it. In a **random** sample every member of the population has an equal chance of selection; a **quota** sample fills set numbers from chosen groups (for example 50 men and 50 women) without random selection; a **stratified** sample divides the population into groups and selects randomly from each in proportion to its size. A larger, more representative sample gives more reliable results but costs more.
+
 ## Demand, supply and elasticity
 
 Demand shifts with income, competitor prices and actions, demographics, fashion and seasonality. Supply shifts with costs, technology, government intervention and external shocks.
@@ -106,6 +112,8 @@ YED = % change in quantity demanded / % change in income
 The business application matters more than the formula. Where demand is **price inelastic**, a firm can raise price and increase total revenue — which is why differentiation and brand loyalty are pursued. Where demand is elastic, competing on price destroys revenue. **YED** guides product portfolio decisions: luxury goods suffer disproportionately in a recession.
 
 ## The marketing mix and strategy
+
+**Marketing objectives** give the marketing function its targets, for example to **increase market share**, **increase revenue** or **build a brand**, and the marketing strategy and mix are chosen to meet them.
 
 The four Ps extend to seven for services with **people, process and physical environment**. The elements must be internally consistent — premium price requires premium product, place and promotion.
 
@@ -165,6 +173,8 @@ Confusing market size with market share. Ignoring the minus sign on PED and misc
 
 - Distinguish mass from niche markets and calculate market share and growth.
 - Explain segmentation, targeting and positioning using a market map.
+- Distinguish risk from uncertainty; compare primary and secondary research and random, quota and stratified sampling.
+- State marketing objectives (market share, revenue, brand building) and link the mix to them.
 - Calculate PED and YED and link them to pricing and portfolio decisions.
 - Apply the marketing mix, product life cycle and Boston Matrix.
 - Compare staffing approaches, training methods and leadership styles.

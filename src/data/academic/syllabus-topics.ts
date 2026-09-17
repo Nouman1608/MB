@@ -2650,14 +2650,14 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'OxfordAQA International Qualifications — official qualification page',
     sourceUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-accounting/', verifiedDate: '2026-08-19',
-    notes: 'First teaching September 2024. Honest-partial: the 5 named topics are taken verbatim from OxfordAQA\'s own "Syllabus summary" list on the live qualification page; named sub-topics were not published on that page and were not yet entered. Topic 2 (Verification of accounting records) sub-topic structure (2.1-2.4) reproduced directly from the official specification PDF\'s own subject-content chapter, fetched and verified 2026-09-02.',
+    notes: 'First teaching September 2024. Honest-partial: the 5 named topics are taken verbatim from OxfordAQA\'s own "Syllabus summary" list on the live qualification page; named sub-topics were not published on that page and were not yet entered. Topic 2 (Verification of accounting records) sub-topics named from the official specification\'s section 3.2 (Version 1.2), which lists the verification techniques (trial balance, trade receivables and trade payables ledger control accounts, bank reconciliation statements) and the correction of errors without numbering them; the site therefore gives these sub-topics no numbers (D-255, E935).',
     topics: [
       { number: 1, name: 'Sources and recording of data', slug: 'sources-and-recording-of-data-oxfordaqa-igcse', subtopics: [] },
       { number: 2, name: 'Verification of accounting records', slug: 'verification-of-accounting-records-oxfordaqa-igcse', subtopics: [
-        { number: '2.1', name: 'The trial balance', slug: 'the-trial-balance-oxfordaqa-igcse-accounting' },
-        { number: '2.2', name: 'Control accounts', slug: 'control-accounts-oxfordaqa-igcse-accounting' },
-        { number: '2.3', name: 'Bank reconciliation statements', slug: 'bank-reconciliation-statements-oxfordaqa-igcse-accounting' },
-        { number: '2.4', name: 'Correcting errors', slug: 'correcting-errors-oxfordaqa-igcse-accounting' },
+        { number: '', name: 'The trial balance', slug: 'the-trial-balance-oxfordaqa-igcse-accounting' },
+        { number: '', name: 'Control accounts', slug: 'control-accounts-oxfordaqa-igcse-accounting' },
+        { number: '', name: 'Bank reconciliation statements', slug: 'bank-reconciliation-statements-oxfordaqa-igcse-accounting' },
+        { number: '', name: 'Correcting errors', slug: 'correcting-errors-oxfordaqa-igcse-accounting' },
       ] },
       { number: 3, name: 'Development of the accounting model', slug: 'development-of-the-accounting-model', subtopics: [] },
       { number: 4, name: 'Preparation of financial statements', slug: 'preparation-of-financial-statements-oxfordaqa-igcse', subtopics: [] },
@@ -3278,19 +3278,19 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'OxfordAQA — official International AS and A-level English Language (9670) specification PDF',
     sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2023/10/oxfordaqa-a-level-english-language-specification.pdf', verifiedDate: '2026-08-19',
-    notes: 'Modular. International AS = Units 1-2; the full International A-level adds Unit 3 and Unit 4 (written) or Unit 4b (non-exam-assessed language investigation, the alternative to written Unit 4a). Unit 2 (Language and Society) subtopics 3.2.1-3.2.2 reproduce the specification\'s own sub-headings and content, fetched and verified 2026-09-02 from the full specification PDF, Version 5.2.',
+    notes: 'Modular. International AS = Units 1-2; the full International A-level adds Unit 3 and Unit 4 (written) or Unit 4b (non-exam-assessed language investigation, the alternative to written Unit 4a). Subtopic numbers follow the specification\'s own subject-content numbering (Version 5.2): Unit 1 3.1.1-3.1.2, Unit 2 3.2.1-3.2.2, Unit 3 3.3.1-3.3.2 (renumbered D-255, E935; previously 1.1-1.2 and 3.1-3.2).',
     topics: [
       { number: 1, name: 'Unit 1 – Language and Context', slug: 'unit-1-language-and-context-9670', stage: 'AS', subtopics: [
-        { number: '1.1', name: 'Section A: Understanding Texts', slug: 'section-a-understanding-texts-9670' },
-        { number: '1.2', name: 'Section B: Directed Writing', slug: 'section-b-directed-writing-9670' },
+        { number: '3.1.1', name: 'Section A: Understanding Texts', slug: 'section-a-understanding-texts-9670' },
+        { number: '3.1.2', name: 'Section B: Directed Writing', slug: 'section-b-directed-writing-9670' },
       ] },
       { number: 2, name: 'Unit 2 – Language and Society', slug: 'unit-2-language-and-society-9670', stage: 'AS', subtopics: [
         { number: '3.2.1', name: 'Section A: Language and Social Groups – Texts', slug: 'section-a-language-and-social-groups-texts-9670' },
         { number: '3.2.2', name: 'Section B: Language and Social Groups – Writing', slug: 'section-b-language-and-social-groups-writing-9670' },
       ] },
       { number: 3, name: 'Unit 3 – Language Variation', slug: 'unit-3-language-variation-9670', stage: 'A', subtopics: [
-        { number: '3.1', name: 'Section A: Learning Language', slug: 'section-a-learning-language-9670' },
-        { number: '3.2', name: 'Section B: International English', slug: 'section-b-international-english-9670' },
+        { number: '3.3.1', name: 'Section A: Learning Language', slug: 'section-a-learning-language-9670' },
+        { number: '3.3.2', name: 'Section B: International English', slug: 'section-b-international-english-9670' },
       ] },
       { number: 4, name: 'Unit 4 – Language Exploration', slug: 'unit-4-language-exploration-9670', stage: 'A', subtopics: [] },
     ],
@@ -4082,7 +4082,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA International Qualifications — official specification PDF',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2024/03/oxfordaqa-international-gcse-pakistan-studies-specification.pdf', verifiedDate: '2026-08-19',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-pakistan-studies-specification.pdf', verifiedDate: '2026-08-19',
     notes: 'For International GCSE exams May/June 2026 onwards. Paper 1 and Paper 2 each have two compulsory topics plus a choice of one of two optional topics, examined in Sections A, B and C respectively.',
     topics: [
       { number: 1, name: 'Paper 1 – The History and Culture of Pakistan', slug: 'paper-1-history-culture-9236', subtopics: [

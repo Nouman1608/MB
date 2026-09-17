@@ -12394,3 +12394,41 @@ Raised by the repair agents and reviewers while reading siblings; not recorded b
 **Validation.** All pass: `astro check` 0 errors; `validate:academic`; `validate-assessments`; cross-board integrity; build (2141 HTML files); `audit:all` 0 problems across 2140 pages; cross-board regression; negative suite; API tests 31/31; `check-duplicate-resource-scope` the four pre-existing groups only.
 
 **Open-count position after D-254.** Round 37 adds no confirmed-error groups; its count of 72 is the round-34 count that D-252 closes. I388's thirteen items are closed here (21 files). Confirmed errors declared open: 0.
+
+## D-255 - Arabic proofread of the Islamiyat practice papers; audit round 38 (Q419): E386, E934, E935, I389 closed (2026-09-17)
+
+**Trigger.** (1) Owner request: a proofread of the Arabic in the four rebuilt Islamiyat practice papers (the D-230 observation). (2) Round 38 (`docs/audit/2026-11-14-findings.md`, `ec8136a`) verified D-252 and D-253: 76 of 80 fixed; E386 still partly open; E934 (a repair misstates CPR r.26.9(10)); E935 (sibling errors in another qualification's files); I389 (stale 9236 links and a miscount). Three confirmed-error groups open.
+
+### Arabic proofread
+
+A proofreading agent compared every Arabic passage in `o-level-islamiyat-paper-1-practice.md`, `islamiyat-paper-1-practice.md`, `o-level-islamiyat-paper-2-practice.md` and `islamiyat-paper-2-practice.md` letter by letter against the appendix pages of the Cambridge 2058 (2026-2027) syllabus rendered at high resolution, and confirmed that the 0493 (2026-2027) appendix pages, downloaded from cambridgeinternational.org, are pixel-identical. Qur'an passages were also checked against the Tanzil text the files cite.
+
+| Item | Files | Result / what changed |
+|---|---|---|
+| Qur'an passages (Sura 41.37, 99, 6.75-79; 112, 1, 108) | both Paper 1 files | Match the syllabus in every word, letter, hamza and shadda; the fuller vowel marks are Tanzil's, as each file's note says. English matches the appendix. No change. |
+| Hadiths (2058: 1, 11, 14, 16; 0493: 2, 9, 19, 20) | both Paper 2 files | Every word and letter matches; English matches. The files' vowel marks differ from the appendix in places where the appendix marking is partial or non-standard (for example بِأِصْبَعَيْهِ for بِإِصْبَعَيْهِ, اِشْتَكَى, الدُنْيَا without shadda, and قُلوبكِمُ with the marks misplaced). The files keep the standard forms; their notes, which said the Arabic was 'those printed in the syllabus appendix', now say the Arabic follows the appendix word for word with vowel marks in standard form where the appendix's marking is partial or non-standard. |
+| Unicode | all four | Clean: Arabic letters only (no Urdu ی ک ہ substitutions), no control characters, no broken words. |
+
+**Hadith 17** (not used): the agent agrees the appendix's يُأتِي is not a valid spelling; its reading of the intended word is يَأْتِي. Unverified; not used.
+
+### Round 38
+
+**Primary sources.** Read by the lead: Civil Procedure Rules Part 26, r.26.9(10)(b) (justice.gov.uk copy held): "one which includes a claim for clinical negligence, unless— (i) the claim is one which would normally be allocated to the intermediate track; (ii) there has been an admission of liability in full ...; and (iii) the admission in paragraph (ii) is made in the defendant's letter of response provided in accordance with the Pre-Action Protocol for the Resolution of Clinical Disputes, provided that the defendant has not raised a defence to the claim under the Limitation Act 1980". Pearson Edexcel IAL Business specification, Unit 1: 1.3.1.1(d) "The difference between risk and uncertainty"; 1.3.1.2(a)-(d) primary and secondary data (quantitative and qualitative) used to identify and anticipate customer needs and wants, quantify likely demand and gain insight into consumer behaviour; primary methods surveys/questionnaires, focus groups/consumer panels, face-to-face/telephone interviews, product trials/test marketing; secondary methods websites/social media, newspapers/magazines/TV/radio, reports, databases; sampling random, quota, stratified; 1.3.3.1(a) marketing objectives "increase market share • increase revenue • building a brand". OxfordAQA 9215 specification (Version 1.2) 3.2 Verification of accounting records, techniques listed without numbers; OxfordAQA 9670 specification (Version 5.2) 3.1.1, 3.1.2, 3.2.1, 3.2.2, 3.3.1, 3.3.2; OxfordAQA 9236 specification at the 2026/07 upload, Version 1.9: Paper 2 3.2.1 "assessed in Paper 2, Section A", 3.2.2 Section B, and 3.2.3 and 3.2.4 "one of two optional topics that are assessed in Paper 2, Section C".
+
+| Item | Files | What changed |
+|---|---|---|
+| E386 | `a-level-edexcel-business-marketing-and-people.md` (Meeting customer needs; marketing mix section; checklist) | The coverage list's untaught content is now taught: risk (estimable) against uncertainty (not estimable); market research purposes, primary and secondary methods as the specification lists them, quantitative and qualitative data and their trade-offs; random, quota and stratified sampling; marketing objectives (market share, revenue, brand). Two checklist lines added. |
+| E934 | `law-english-legal-system-practice.md` answer 3 | Clinical negligence claims generally go to the multi-track; the exception stated with all three conditions (intermediate-track claim, full admission of liability, made in the letter of response under the Pre-Action Protocol) and the Limitation Act 1980 proviso. No other resource mentions the exception (search). Tariff unchanged. |
+| E935 (1) | `aqa-gcse-physics-energy-practice.md` answers 5(c) and 7 | 'sound store' removed: energy is dissipated to the surroundings by sound; answer 7's closing now says energy is transferred to the surroundings, mostly to thermal stores. Tariffs unchanged. |
+| E935 (2) | `syllabus-topics.ts` 9215 and 9670 records (printed on the checklist pages) | 9215 Topic 2 sub-topics carry no numbers, as the specification's 3.2 gives none; notes corrected. 9670 renumbered to the specification: 3.1.1-3.1.2, 3.2.1-3.2.2, 3.3.1-3.3.2; notes corrected. Slugs kept. |
+| I389 (1) | `igcse-oxfordaqa-pakistan-studies-landscape-and-natural-resources.md`, `igcse-oxfordaqa-pakistan-studies-landscape-practice.md`, `igcse-oxfordaqa-pakistan-studies-history-and-culture.md`, `assessments.ts` (9236 officialSourceUrl), `syllabus-topics.ts` (9236 sourceUrl) | Specification link to the 2026/07 upload (Version 1.9) in all five places; no 2024/03 9236 link remains (search). |
+| I389 (2) | `igcse-oxfordaqa-pakistan-studies-landscape-revision-notes.md`; `igcse-oxfordaqa-pakistan-studies-landscape-and-natural-resources.md` | 'two optional sections' replaced: Paper 2 has one optional section (Section C) offering a choice of two topics. The notes' claim that 3.2.1 is 'the one part of Paper 2' no candidate can skip also corrected: Section B (3.2.2) is compulsory too. |
+
+### Observations, not actioned
+
+- The live pages display the Arabic (and Urdu) passages left-to-right: resource pages are `dir="ltr"` and Markdown blockquotes carry no `dir` or `lang`, so the Arabic is left-aligned and a Hadith's final full stop shows beside its first word. Word order inside the text is unaffected. A fix belongs in the Markdown rendering (for example `dir="auto"` on Arabic-script blocks); not done in this entry.
+- `npx astro check` reports one error, in `src/pages/uk/index.astro` L204 (`surface="white"`, not an allowed value), from commit `d470f31` (UK regional hub), not from this entry. The build and every other gate pass.
+
+**Validation.** `astro check`: 0 errors in files touched here (1 pre-existing error noted above); `validate:academic`; `validate-assessments`; cross-board integrity; rendered academic labels; build (2142 HTML files); `audit:all` 0 problems across 2141 pages; cross-board regression; negative suite; API tests 31/31; `check-duplicate-resource-scope` the four pre-existing groups only.
+
+**Open-count position after D-255.** Round 38 leaves E386, E934 and E935 (confirmed) and I389; all are closed here (13 files including two data files), with the Arabic proofread. D-254 (I388) awaits the audit's read. Confirmed errors declared open: 0.
