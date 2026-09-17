@@ -10,7 +10,7 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-**61 confirmed-error groups open** *(2026-11-09, round 33: 54 closures from D-138…D-225 reopened in rounds 30–33; E926–E932 recorded. Improvement items I380–I384 open.)*
+**72 confirmed-error groups open** *(2026-11-10, round 34: 64 closures from D-138…D-225 reopened in rounds 30–34; E926–E933 recorded. Improvement items I380–I385 open.)*
 
 > **Amended 2026-10-12 (Q374).** This order first said 658. That figure never subtracted repair
 > rounds D-138…D-191, which closed 508 of them. The list of what is actually open — 89 plain,
@@ -137,6 +137,11 @@ work order can be a document rather than a conversation.
 ---
 
 ## 8. Current specifics
+
+- **Round 34 (2026-11-10, Q415): closures E707–E901 read; 10 reopened; every declared closure now read.** Reopened
+  (Q415 gives file and line): E708, E837, E846, E853, E901 (`syllabus-topics.ts` and `assessments.ts` records), E772,
+  E779, E797, E838, E879. Also **E933** (9685 practice Q3 seven marks for [6]) and I385. Across rounds 30–34, 64
+  closures are reopened (Q411–Q415): the usual cause is the same error left in a sibling file or a rendered data record.
 
 - **Round 33 (2026-11-09, Q414): closures E467–E704 read; 20 reopened.** Ten are `syllabus-topics.ts` records printed
   on the subject pages and checklists (E496, E497, E507, E509, E521, E525, E526, E559, E560, E696): fix the data record
