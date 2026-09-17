@@ -58,7 +58,7 @@ Related: [Elastic Deformation, Moments and Centre of Gravity revision notes](/re
 
 ## Section C
 
-**8.** Distinguish between stable, unstable and neutral equilibrium, giving an example of each. **[6]**
+**8.** A tall, narrow display stand and a low, wide display stand have the same weight. Describe and explain, in terms of the position of the centre of gravity, which stand is more stable, and describe two changes that would make the tall stand more stable. **[6]**
 
 **9.** A spring has an unstretched length of 10.0 cm. When a load of 2.4 N is hung from it, within the limit of proportionality, its length becomes 14.0 cm.
 
@@ -91,7 +91,7 @@ Method: **suspend the card freely from a point near its edge** and let it settle
 
 **7.** Pivot a metre rule at its **centre**, so it balances with no load [1]. Hang **known weights at measured distances** from the pivot on each side of the rule [1]. **Adjust the weights and/or their distances until the rule balances** (is horizontal) [1]. Calculate the **sum of the clockwise moments and the sum of the anticlockwise moments** about the pivot from the weights and distances used [1]. Show that, at balance, these two sums are **equal**, confirming the principle of moments [1].
 
-**8. Stable equilibrium** — a small tilt causes the object to **return to its original position**, e.g. a cone resting on its wide base [1] [1]. **Unstable equilibrium** — a small tilt causes the object to **topple further away** from its original position, e.g. a cone balanced on its point [1] [1]. **Neutral equilibrium** — a small tilt or displacement leaves the object in its **new position**, with no tendency either to return or to topple further, e.g. a ball resting on a flat, horizontal surface [1] [1].
+**8.** The **low, wide stand is more stable** [1]. Its **centre of gravity is lower** and its **base is wider** [1], so it must be tilted through a **larger angle before the vertical line through its centre of gravity falls outside the base** [1]; once that line falls outside the base, the weight produces a moment that topples the stand [1]. Changes to the tall stand, any two: **add weight low down / a heavy base, lowering the centre of gravity** [1]; **widen the base** [1]; reduce its height or move heavy items lower [1]. (Equal weight does not make the two equally stable: stability depends on the position of the centre of gravity relative to the base.)
 
 **9. (a)** Extension = 14.0 − 10.0 = **4.0 cm (0.040 m)** [1].
 **(b)** k = F/x = 2.4 ÷ 0.040 = **60 N/m** [1] [1].

@@ -23,8 +23,9 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Paper 2 at a glance
 
-Four topics, each pairing a "nature" (biological) explanation with a "nurture" (psychological) one —
-spot this pattern and comparison questions become far easier.
+Four topics. Only **3.2.4 Psychological problems** pairs a biological ("nature") explanation with a
+psychological ("nurture") one for each disorder; **3.2.1 Social influence**, by contrast, explains behaviour
+through social (situational) and dispositional factors.
 
 | Topic | Core content |
 |---|---|

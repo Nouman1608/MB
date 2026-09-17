@@ -86,6 +86,8 @@ An object is **stable** if its centre of gravity is **low** and its **base is wi
 
 It topples when the vertical line through the centre of gravity falls **outside the base**.
 
+*Beyond the syllabus, not examinable:* 5054 1.5.6 asks only for the qualitative effect of the position of the centre of gravity on stability; the terms below are background.
+
 | Equilibrium | Behaviour when tilted slightly |
 |---|---|
 | **Stable** | Returns to its original position |

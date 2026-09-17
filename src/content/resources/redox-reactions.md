@@ -31,9 +31,8 @@ different ways** — by oxygen transfer, by electron transfer, and by oxidation 
 — and expects you to move between them freely. In 0620, the oxygen-transfer
 definition is Core and the electron-transfer and oxidation-number definitions are
 Extended. In 5070, all three definitions are required outcomes from the start —
-5070's own wording states oxidation as "gain of oxygen, loss of electrons, an
-increase in oxidation number" as a single combined outcome, not three separate
-ones. The chemistry is identical either way; only how much of it you're
+5070 6.4.3 reads "Define oxidation in terms of: (a) gain of oxygen (b) loss of
+electrons (c) an increase in oxidation number", one outcome listing all three. The chemistry is identical either way; only how much of it you're
 responsible for differs.
 
 This resource does **not** use A Level (9701) ideas such as electrode potentials,

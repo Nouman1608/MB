@@ -41,7 +41,7 @@ Related: [Redox Reactions revision notes](/resources/redox-reactions-revision-no
 
 ## Section B
 
-**3.** Magnesium metal reacts with copper(II) sulfate solution.
+**3.** *(0620 Extended, 5070 required)* Magnesium metal reacts with copper(II) sulfate solution.
 
 **(a)** Write the ionic equation, omitting spectator ions. **[2]**
 **(b)** Identify what is oxidised and what is reduced, giving the oxidation number changes. **[4]**
@@ -49,17 +49,17 @@ Related: [Redox Reactions revision notes](/resources/redox-reactions-revision-no
 
 **4.** Zinc metal is added separately to solutions of magnesium sulfate, copper(II) sulfate and iron(II) sulfate.
 
-**(a)** Predict in which cases a reaction occurs and explain your reasoning. **[3]**
+**(a)** *(0620 Extended, 5070 required)* Predict in which cases a reaction occurs and explain your reasoning. **[3]**
 **(b)** State what you would observe in the copper(II) sulfate. **[2]**
 
-**5.** Chlorine gas is bubbled through a solution of potassium bromide, and the reactivity of chlorine and bromine as oxidising agents is being compared.
+**5.** *(0620 Extended, 5070 required)* Chlorine gas is bubbled through a solution of potassium bromide, and the reactivity of chlorine and bromine as oxidising agents is being compared.
 
 **(a)** Write the ionic equation. **[2]**
 **(b)** Explain the observation in terms of oxidising power. **[3]**
 
-**6.** Explain why an oxidising agent is itself reduced. **[2]**
+**6.** *(0620 Extended, 5070 required)* Explain why an oxidising agent is itself reduced. **[2]**
 
-**7.** A colourless solution turns the purple colour of acidified potassium manganate(VII) colourless when added to it.
+**7.** *(0620 Extended, 5070 required)* A colourless solution turns the purple colour of acidified potassium manganate(VII) colourless when added to it.
 
 **(a)** State whether the colourless solution is an oxidising agent or a reducing agent, and explain your reasoning. **[2]**
 **(b)** Aqueous potassium iodide is added instead to a different oxidising agent, and the solution turns brown. Explain this observation. **[2]**
@@ -72,19 +72,19 @@ Related: [Redox Reactions revision notes](/resources/redox-reactions-revision-no
 
 **2.** *(0620 Extended, 5070 required)* S in SO₄²⁻ = **+6** [1]. Mn in MnO₄⁻ = **+7** [1]. Cr in Cr₂O₇²⁻ = **+6** [1]. N in NH₄⁺ = **−3** [1].
 
-**3. (a)** Mg + Cu²⁺ → Mg²⁺ + Cu [1], balanced with correct charges [1].
+**3.** *(0620 Extended, 5070 required)* **(a)** Mg + Cu²⁺ → Mg²⁺ + Cu [1], balanced with correct charges [1].
 **(b)** **Magnesium is oxidised**, from **0 to +2** [1] [1]; **copper is reduced**, from **+2 to 0** [1] [1].
 **(c)** The **copper(II) ion** [1], because it **accepts electrons from the magnesium and is itself reduced to copper metal** [1].
 
-**4. (a)** Zinc reacts with **copper(II) sulfate and iron(II) sulfate** but **not magnesium sulfate** [1]; a metal will only displace a metal **less reactive than itself** [1], and zinc is above copper and iron but below magnesium in the reactivity series [1].
+**4. (a)** *(0620 Extended, 5070 required)* Zinc reacts with **copper(II) sulfate and iron(II) sulfate** but **not magnesium sulfate** [1]; a metal will only displace a metal **less reactive than itself** [1], and zinc is above copper and iron but below magnesium in the reactivity series [1].
 **(b)** The **blue colour of the solution fades** [1] and a **red-brown solid (copper) is deposited** on the zinc [1]. (Also accept: the mixture warms up as the reaction is exothermic.)
 
-**5. (a)** Cl₂ + 2Br⁻ → 2Cl⁻ + Br₂ [1] [1].
+**5.** *(0620 Extended, 5070 required)* **(a)** Cl₂ + 2Br⁻ → 2Cl⁻ + Br₂ [1] [1].
 **(b)** The solution turns **orange/brown** as bromine is formed [1]. Chlorine is a **stronger oxidising agent than bromine** [1], so it **removes electrons from the bromide ions**, oxidising them to bromine while itself being reduced to chloride ions [1]. This same reactivity order (Cl > Br > I) is why chlorine can displace both bromide and iodide, while bromine can only displace iodide.
 
-**6.** An oxidising agent works by **taking electrons from another species** [1]; gaining electrons **is** reduction, so the oxidising agent is necessarily reduced in the process [1].
+**6.** *(0620 Extended, 5070 required)* An oxidising agent works by **taking electrons from another species** [1]; gaining electrons **is** reduction, so the oxidising agent is necessarily reduced in the process [1].
 
-**7. (a)** The colourless solution is a **reducing agent** [1], because it has **decolourised the manganate(VII) ion by reducing it**, which means the colourless species must itself have been oxidised, donating electrons to the manganate(VII) [1].
+**7.** *(0620 Extended, 5070 required)* **(a)** The colourless solution is a **reducing agent** [1], because it has **decolourised the manganate(VII) ion by reducing it**, which means the colourless species must itself have been oxidised, donating electrons to the manganate(VII) [1].
 **(b)** The oxidising agent **removes electrons from the colourless iodide ions**, oxidising them to **iodine**, which turns the solution brown [1]; the oxidising agent is itself reduced in the process [1].
 
 ---

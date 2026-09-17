@@ -150,8 +150,8 @@ is built from.
 economies of scale, greater market power, and reduced risk through
 diversification -- alongside the methods available: organic growth,
 including franchising, opening new stores and expanding through
-e-commerce, and external growth, achieved through outsourcing, mergers
-and takeovers. Each method carries its own trade-off: organic growth is
+e-commerce; outsourcing; and external growth through mergers and
+takeovers. Each method carries its own trade-off: organic growth is
 slower but keeps the original owners in full control, while external
 growth is faster but brings integration challenges and can dilute
 control if new shareholders or partners are involved, so exam answers

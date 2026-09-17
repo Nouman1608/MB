@@ -72,10 +72,11 @@ those are what's discharged) or aqueous (H⁺/OH⁻ from water compete with the
 electrolyte's ions); each species' position in the redox series (the
 species that is more easily reduced/oxidised — closer to the top of a table
 of E° values in the appropriate direction — is discharged preferentially);
-and concentration (a sufficiently concentrated halide can be discharged in
-preference to OH⁻ even though OH⁻ is thermodynamically favoured at low
-concentration — for example, concentrated NaCl(aq) gives Cl₂ at the anode
-rather than O₂).
+and concentration (chloride, whose E⦵ of +1.36 V is only a little more
+positive than water's +1.23 V, is discharged in preference to oxygen when
+concentrated — concentrated NaCl(aq) gives Cl₂ at the anode, very dilute
+NaCl(aq) gives O₂; iodide and bromide, with less positive E⦵ than water,
+are discharged even when dilute).
 
 **Quantitative electrolysis** links the charge passed to the amount of
 substance produced. The Faraday constant, F, is the charge on one mole of

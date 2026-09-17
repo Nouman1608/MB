@@ -69,14 +69,14 @@ Related: [Paper 2 – Listening study guide](/resources/igcse-cambridge-urdu-pap
 > 5. "فون رکھنا طالب علموں کی ذمہ داری سکھاتا ہے، پابندی کا کوئی فائدہ نہیں۔"
 > 6. "مکمل پابندی سے طلبہ زیادہ توجہ سے پڑھیں گے۔"
 
-Match each speaker (1–6) to the correct view (A–F).
+ہر بولنے والے (1–6) کو درست رائے (A–F) سے ملائیں۔
 
-**A.** Phones should be completely banned.
-**B.** Phones teach responsibility; banning achieves nothing.
-**C.** Phones help with research and should be allowed.
-**D.** Only allowed with teacher supervision.
-**E.** Should stay off in class but kept for emergencies.
-**F.** Banning improves concentration.
+**A.** موبائل فون پر مکمل پابندی ہونی چاہیے۔
+**B.** فون رکھنا ذمہ داری سکھاتا ہے؛ پابندی کا کوئی فائدہ نہیں۔
+**C.** فون تحقیق میں مدد دیتا ہے، اس لیے کلاس میں اس کی اجازت ہونی چاہیے۔
+**D.** فون کے استعمال کی اجازت صرف اساتذہ کی نگرانی میں ہو۔
+**E.** کلاس میں فون بند رہے، مگر ہنگامی صورتحال کے لیے پاس ہو۔
+**F.** پابندی سے طلبہ کی توجہ بہتر ہوتی ہے۔
 
 ## Exercise 4 — Multiple choice questions (8 marks)
 
@@ -87,17 +87,17 @@ Match each speaker (1–6) to the correct view (A–F).
 > **علی:** یہ خیال برا نہیں، مگر ساحلی سفر مہنگا پڑے گا۔
 > **زینب:** ٹھیک ہے، تو ووٹنگ کے ذریعے فیصلہ کر لیتے ہیں — جو زیادہ لوگ چاہیں وہی جگہ طے ہوگی۔
 
-**(a)** Ali initially suggests: **[2]**
-(A) the seaside (B) the mountains (C) a city tour (D) staying home
+**(a)** علی شروع میں کہاں جانے کی تجویز دیتا ہے؟ **[2]**
+(A) ساحل سمندر (B) پہاڑی علاقہ (C) شہر کی سیر (D) گھر پر رہنا
 
-**(b)** Zainab's reason for suggesting an alternative is: **[2]**
-(A) cost (B) weather (C) it would be a new experience (D) distance
+**(b)** زینب دوسری جگہ کی تجویز کیوں دیتی ہے؟ **[2]**
+(A) خرچ (B) موسم (C) نیا تجربہ ہوگا (D) فاصلہ
 
-**(c)** Ali's concern about Zainab's suggestion is: **[2]**
-(A) it is too far (B) it is too expensive (C) the weather is bad (D) it takes too long
+**(c)** زینب کی تجویز کے بارے میں علی کو کیا اعتراض ہے؟ **[2]**
+(A) بہت دور ہے (B) بہت مہنگا پڑے گا (C) موسم خراب ہے (D) بہت وقت لگے گا
 
-**(d)** How do the speakers decide to resolve their disagreement? **[2]**
-(A) Ali decides alone (B) they ask a teacher (C) a class vote (D) they cancel the trip
+**(d)** دونوں اپنا اختلاف کیسے دور کرنے کا فیصلہ کرتے ہیں؟ **[2]**
+(A) علی اکیلا فیصلہ کرتا ہے (B) وہ استاد سے پوچھتے ہیں (C) ووٹنگ کے ذریعے (D) سفر منسوخ کر دیتے ہیں
 
 ---
 

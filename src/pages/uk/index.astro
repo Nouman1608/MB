@@ -41,7 +41,7 @@ const count = (board: string, qual: string) =>
 const UK_ROWS = [
   { board: 'aqa', label: 'AQA', gcse: count('aqa', 'gcse'), aLevel: count('aqa', 'a-level') + count('aqa', 'as-level') },
   { board: 'ocr', label: 'OCR', gcse: count('ocr', 'gcse'), aLevel: count('ocr', 'a-level') },
-  { board: 'edexcel', label: 'Pearson Edexcel (International GCSE & IAL)', gcse: count('edexcel', 'igcse'), aLevel: count('edexcel', 'a-level') },
+  { board: 'edexcel', label: 'Pearson Edexcel (International GCSE, IAL & A Level Urdu)', gcse: count('edexcel', 'igcse'), aLevel: count('edexcel', 'a-level') },
   { board: 'cambridge', label: 'Cambridge (IGCSE & International A Level)', gcse: count('cambridge', 'igcse'), aLevel: count('cambridge', 'a-level') + count('cambridge', 'as-level') },
 ].filter((r) => r.gcse + r.aLevel > 0 && boardBySlug(r.board)?.status === 'offered');
 
@@ -110,7 +110,7 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
         </table>
       </div>
       <p class="m-0 mt-4 max-w-[70ch] text-[13px] text-ink-mute">
-        Pearson Edexcel is offered as International GCSE and International A Level; domestic Edexcel GCSE is not currently in the catalogue.
+        Pearson Edexcel is offered as International GCSE and International A Level, plus the UK A Level in Urdu (9UR0); domestic Edexcel GCSE is not currently in the catalogue.
       </p>
     </Container>
   </Section>

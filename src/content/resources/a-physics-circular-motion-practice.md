@@ -105,7 +105,7 @@ mg = mv²/r, so v = √(gr) [1] = √(9.81 × 0.80) = 2.801 ≈ **2.8 m s⁻¹**
 
 **(c)** The required force (6840 N) **exceeds** the maximum available friction (6800 N) [1], so the car **cannot** complete the bend — it will skid outwards [1].
 
-**(d)** Any two: **bank the road**, so a component of the normal contact force contributes to the centripetal force [1]; **increase the radius** of the bend; improve tyre or road surface condition to increase the maximum friction [1].
+**(d)** Any two, [1] each, maximum [2]: **bank the road**, so a component of the normal contact force contributes to the centripetal force; **increase the radius** of the bend, reducing the centripetal force needed at the same speed; improve tyre or road surface condition to increase the maximum friction.
 
 **6. (a)** Period T = 2.0 ÷ 3 = 0.667 s [1]. ω = 2π/T = 2π ÷ 0.667 = **9.42 rad s⁻¹** [1].
 

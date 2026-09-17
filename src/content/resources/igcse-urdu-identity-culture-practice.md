@@ -77,7 +77,7 @@ Related: [Identity and Culture revision notes](/resources/igcse-urdu-identity-cu
 
 **Marking:** content — three customs clearly described [3]; an opinion given and justified [2]; range of vocabulary beyond the basic [2]; accuracy of verb agreement and gender [2]; length and organisation into linked sentences [1].
 
-**5.** Any three, 2 marks each: **accuracy of gender and verb agreement** — the verb must agree with the subject in gender and number, and errors here are the most heavily penalised because they obscure meaning [1] [1]. **Range of vocabulary and structures** — using varied connectives (اس لیے، لیکن، حالانکہ) and tenses rather than repeating simple present sentences [1] [1]. **Task fulfilment** — addressing **every bullet point in the question** and including an opinion where asked, since content marks are awarded for what the response actually covers [1] [1]. **Organisation** — a clear opening, linked paragraphs and a closing sentence, rather than a list of unconnected statements [1] [1].
+**5.** Any three, 2 marks each: **accuracy of gender and verb agreement** — the verb agrees with the subject in gender and number, except in perfective tenses with نے, where it agrees with the object (میں نے کتاب پڑھی — پڑھی is feminine because کتاب is), and errors here are the most heavily penalised because they obscure meaning [1] [1]. **Range of vocabulary and structures** — using varied connectives (اس لیے، لیکن، حالانکہ) and tenses rather than repeating simple present sentences [1] [1]. **Task fulfilment** — addressing **every bullet point in the question** and including an opinion where asked, since content marks are awarded for what the response actually covers [1] [1]. **Organisation** — a clear opening, linked paragraphs and a closing sentence, rather than a list of unconnected statements [1] [1].
 
 **6.** Urdu follows **Subject–Object–Verb** order [1], unlike English's Subject–Verb–Object [1] — e.g. *main kitaab parhta hoon* ("I book read am") = "I read a book," with the verb placed last rather than after the subject [1]. Urdu also uses **postpositions**, which follow the noun, where English places prepositions before it — e.g. *mez par* ("table on") for "on the table."
 
@@ -91,7 +91,7 @@ Related: [Identity and Culture revision notes](/resources/igcse-urdu-identity-cu
 
 ## Where marks are usually lost
 
-- Verb forms that do not agree in gender with the subject.
+- Verb forms that do not agree in gender and number — with the subject normally, but with the object when نے is used in a perfective tense.
 - Answering comprehension questions in English when Urdu is required.
 - Missing one of the bullet points in the writing task, which loses the content marks that point would have earned.
 - Aiming for the suggested word count as if it were a hard limit rather than guidance — completing the task set is what matters.

@@ -87,11 +87,12 @@ programmes
 
 ## How to approach it
 
-The four topics in Paper 2 share a consistent shape worth noticing:
-each pairs a biological or "nature" explanation with a psychological
-or "nurture" explanation, and exam questions frequently ask students to
-compare the two rather than describe either alone. Build revision
-around that structure -- for depression, know the serotonin account and
+In Paper 2, **3.2.4 Psychological problems** pairs a biological or
+"nature" explanation with a psychological or "nurture" explanation for
+each disorder, and questions can ask students to compare the two rather
+than describe either alone; **3.2.1 Social influence** instead explains
+behaviour through social (situational) and dispositional factors. Build
+psychological-problems revision around that pairing -- for depression, know the serotonin account and
 the negative-schema account side by side, not as separate topics. The
 named studies (Asch, Milgram, Piliavin, Von Frisch, Penfield, Tulving,
 Wiles, Kaij) are also common sources of application questions, so know

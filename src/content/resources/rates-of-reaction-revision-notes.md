@@ -33,6 +33,8 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Collision theory
 
+*(0620 Extended, 5070 required)* Collision theory and activation energy are 0620 Supplement content (6.2 S5-S7); 0620 Core candidates need only the effects of each factor on rate and that a catalyst speeds up a reaction and is unchanged at the end.
+
 A reaction occurs only when particles collide **with sufficient energy** (the activation energy, Eₐ) **and** in the correct orientation.
 
 Rate increases if collisions become **more frequent**, **more energetic**, or both.
@@ -46,6 +48,8 @@ Rate increases if collisions become **more frequent**, **more energetic**, or bo
 | **Pressure ↑** (gases) | Faster | Same effect as concentration — particles closer together |
 | **Surface area ↑** | Faster | More particles exposed → more frequent collisions |
 | **Catalyst** | Faster | Provides an **alternative pathway of lower activation energy** |
+
+The "Effect on rate" column is 0620 Core; the "Because" column (collision theory) is 0620 Extended and 5070 required.
 
 Only temperature changes the **energy** of collisions. The others change frequency only — a distinction examiners test directly. At Extended/O Level standard, a temperature rise's dominant effect is the **greater proportion of collisions exceeding Eₐ**, not just the extra frequency — this is why a modest temperature rise speeds a reaction up far more than frequency alone would suggest.
 
@@ -97,13 +101,13 @@ Both use a **compromise temperature**: lower would give a higher yield but too s
 
 ## Exam traps
 
-- Say collisions are more **frequent**, not "more collisions".
-- Only temperature increases collision **energy**.
+- *(0620 Extended, 5070 required)* Say collisions are more **frequent**, not "more collisions".
+- *(0620 Extended, 5070 required)* Only temperature increases collision **energy**.
 - A catalyst does not increase yield.
 - Equilibrium needs a **closed** system.
 - "Shifts to the right" is not enough — say towards products/reactants and why.
 - Quoting the wrong catalyst for Haber vs Contact — **iron** for Haber, **vanadium(V) oxide** for Contact — the pressures and temperatures also differ between the two.
-- Explaining temperature's effect using only "more collisions," without mentioning the greater proportion exceeding activation energy.
+- *(0620 Extended, 5070 required)* Explaining temperature's effect using only "more collisions," without mentioning the greater proportion exceeding activation energy.
 - Forgetting that the **whole** of the Haber and Contact process content — equations, sources, conditions and the equilibrium reasoning behind them — is **Supplement** in 0620 and simply **required** for every 5070 candidate; 0620 Core does not need any of it.
 
 ## Self-test

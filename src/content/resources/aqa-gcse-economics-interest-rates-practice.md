@@ -49,7 +49,7 @@ B) National Insurance contributions
 C) Defence
 D) Education **[1]**
 
-**4.** State the two factors, other than the central bank's rate, that influence the interest rate offered on a particular loan or savings product. **[2]**
+**4.** State two factors, other than the central bank's rate, that influence the interest rate offered on a particular loan or savings product. **[2]**
 
 **5.** State the difference between a direct tax and an indirect tax. **[2]**
 
@@ -79,7 +79,7 @@ D) Education **[1]**
 
 **3.** **B** [1]. National Insurance contributions are paid to the government; state pensions, defence and education are areas of government spending.
 
-**4.** The **level of risk** associated with the borrower (a riskier borrower typically faces a higher rate) [1]; the **length of the loan or savings term** [1].
+**4.** Any two, [1] each: the **level of risk** associated with the borrower (a riskier borrower typically faces a higher rate); the **length of the loan or savings term**; the **amount borrowed**; **inflation**; whether the loan is **secured**; the borrower's **existing debt**, **credit score** or **income**.
 
 **5.** A **direct tax** is paid directly by the individual or organisation on whom it is levied (such as income tax) [1]; an **indirect tax** is collected by an intermediary (such as a retailer) and passed on, ultimately falling on the consumer through the price of goods (such as VAT) [1].
 

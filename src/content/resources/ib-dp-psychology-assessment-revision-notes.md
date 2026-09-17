@@ -64,7 +64,7 @@ ethically.
 
 The experimental study is graded against criteria covering: the theoretical framing and rationale for the chosen investigation (why this experiment tests this theory); appropriate design and methodology, including sampling and controlling relevant variables; accurate reporting and statistical treatment of results; and a critical discussion evaluating the study's strengths, limitations, and ethical considerations. Although the experiment is usually conducted in a small group, the write-up, analysis and discussion must be entirely the student's own individual work -- a common and costly mistake is closely mirroring a group member's write-up structure or wording, which risks being flagged during the external moderation process.
 
-## Command terms and how each paper uses them
+## Command terms
 
 Psychology's own subject guide publishes its own command terms, used across all three papers -- it is not a glossary shared with other individuals-and-societies subjects, each of which has its own list. As a study heuristic (not an official IB grouping), it can help to think of the terms in three loose tiers: **outline**, **describe** and **explain** for content-based recall and understanding; **evaluate**, **discuss** and **contrast** for questions requiring a reasoned judgement comparing theories or studies; **to what extent** for questions expecting a weighed, evidence-based conclusion. Paper 1's essay is chosen from a choice of three -- one per approach -- and is answered from that single approach in depth; the skill it specifically rewards is evaluation (a genuine strength and limitation of the theory or study), not breadth across approaches, so blending in a second approach is not required and earns no separate credit here.
 

@@ -66,7 +66,7 @@ where the underlying data and design are shared, since close similarity risks be
 external moderation -- the analysis, discussion and evaluation should reflect the individual
 student's own critical thinking about the study.
 
-## Command terms and how each paper uses them
+## Command terms
 
 **Outline**, **describe** and **explain** call for content-based recall and understanding.
 **Evaluate**, **discuss** and **contrast** require a reasoned judgement comparing theories, studies

@@ -142,7 +142,7 @@ m = 0.01243 × 27.0 = **0.336 g** [1].
 
 **(b)** In dilute sulfuric acid, the **only cation present is H⁺**, so **hydrogen** is discharged at the cathode [1]. In concentrated copper(II) sulfate, **Cu²⁺ has a more positive E⦵ than H⁺**, so **copper** is discharged instead of hydrogen [2].
 
-**(c)** At an inert anode, **oxygen is released from water/hydroxide ions unless chloride, bromide or iodide ions are present at high concentration, in which case the halogen is discharged instead** [1]. As in question 6(c), concentrated chloride gives chlorine but a very dilute chloride solution gives oxygen. Fluoride is never discharged from aqueous solution at any concentration (E⦵(F₂/F⁻) = +2.87 V is far too positive), so fluoride solutions also give oxygen. In both solutions in this question the anion present is **sulfate**, which is never discharged in preference to hydroxide, so **oxygen** is produced at the anode in both cases [2].
+**(c)** At an inert anode, the most easily oxidised species is discharged: **iodide and bromide (E⦵ +0.54 V and +1.07 V) are oxidised in preference to water (+1.23 V); chloride (+1.36 V) is discharged only at high concentration, otherwise oxygen is released from water/hydroxide ions** [1]. As in question 6(c), concentrated chloride gives chlorine but a very dilute chloride solution gives oxygen. Fluoride is never discharged from aqueous solution at any concentration (E⦵(F₂/F⁻) = +2.87 V is far too positive), so fluoride solutions also give oxygen. In both solutions in this question the anion present is **sulfate**, which is never discharged in preference to hydroxide, so **oxygen** is produced at the anode in both cases [2].
 
 ---
 

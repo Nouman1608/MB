@@ -94,8 +94,9 @@ The same four concepts -- cause and consequence, continuity and
 change, perspectives, significance -- that structure the external
 papers also strengthen an investigation's analysis. A strong
 investigation does not just narrate what happened; it explicitly
-weighs, for example, the significance of one factor against another,
-or considers how different sources present conflicting perspectives on
+weighs, for example, which of several causes mattered most (cause and
+consequence), argues how important an event or development was
+(significance), or considers how different sources present conflicting perspectives on
 the same event, using vocabulary consistent with the rest of the
 course rather than treating the internal assessment as a separate
 skill in isolation.

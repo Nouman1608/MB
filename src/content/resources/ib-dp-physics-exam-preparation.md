@@ -38,7 +38,7 @@ pure factual recall at the expense of practising unfamiliar data sets -- reading
 or table accurately under time pressure is a distinct, practisable skill, not something that follows
 automatically from knowing the five syllabus themes well.
 
-## Paper 2: command terms decide how much working is expected
+## Command terms decide how much working is expected
 
 As with other DP sciences, Physics uses a command-term hierarchy that scales with the demand of a
 question: **state** or **define** requires a precise recalled fact; **describe** requires an

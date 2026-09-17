@@ -120,7 +120,7 @@ To find mass deposited: `Q = It`, then `n(e⁻) = Q/F`, then divide by the numbe
 ### Selective discharge in aqueous solution
 
 - **Cathode:** the *less* reactive cation (more positive E⦵) is discharged. Metals below hydrogen deposit; metals above it leave H₂ evolved instead.
-- **Anode:** oxygen is released from hydroxide/water by default (hydroxide/water is easier to oxidise than most halides on electrode-potential grounds) **unless** a halide is present at high concentration, in which case the halogen is discharged instead — concentrated NaCl gives Cl₂, very dilute NaCl gives O₂. Fluoride is never discharged from aqueous solution at any concentration (F⁻/F₂, E⦵ = +2.87 V, far too positive).
+- **Anode:** the species most easily oxidised (the half-cell with the less positive E⦵) is discharged. **Iodide** (I₂/I⁻, +0.54 V) and **bromide** (Br₂/Br⁻, +1.07 V) are easier to oxidise than water (O₂/H₂O, +1.23 V), so I₂ or Br₂ is released. **Chloride** (Cl₂/Cl⁻, +1.36 V) is slightly harder to oxidise than water, so oxygen is released **unless** the chloride is at high concentration, when chlorine is discharged instead — concentrated NaCl gives Cl₂, very dilute NaCl gives O₂. **Fluoride** is never discharged from aqueous solution at any concentration (F₂/F⁻, E⦵ = +2.87 V, far too positive). Sulfate and nitrate are not discharged; oxygen is released.
 
 ## The Nernst equation
 

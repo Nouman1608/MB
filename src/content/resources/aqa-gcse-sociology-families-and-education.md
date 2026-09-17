@@ -107,7 +107,7 @@ Family structures have diversified: nuclear, extended, lone-parent, reconstitute
 
 Explanations for change include secularisation, changes in divorce law, women's increased participation in paid work, greater social acceptance of cohabitation and same-sex relationships, and an ageing population.
 
-**Conjugal roles** are described as segregated (clearly divided) or joint (shared). **Young and Willmott** argued families were becoming symmetrical, spreading via **stratified diffusion** — the principle that social changes (here, symmetrical, home-centred family life) spread downward from higher to lower social classes over time. **Oakley** disputed the symmetrical-family thesis, finding women still performed most domestic labour — the "dual burden", and with emotional work the "triple shift".
+**Conjugal roles** are described as segregated (clearly divided) or joint (shared). **Young and Willmott** argued families were becoming symmetrical, spreading via **stratified diffusion** — the principle that social changes (here, symmetrical, home-centred family life) spread downward from higher to lower social classes over time. **Oakley** disputed the symmetrical-family thesis, finding women still performed most domestic labour — the "dual burden". **Duncombe and Marsden** added emotional work to paid work and housework: the "triple shift".
 
 ## Studying education
 

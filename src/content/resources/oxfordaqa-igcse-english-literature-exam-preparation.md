@@ -131,8 +131,8 @@ alone.
 
 *Written against the assessment section of OxfordAQA's own International GCSE English Literature
 (9275) qualification page (official OxfordAQA page, verified 2026-08-28). The specification is being
-revised for first teaching September 2026 with different prescribed texts; the board states the
-structure, timings, marks and weightings given here are unchanged by that revision. The paragraph
+revised for first teaching September 2026 with different prescribed texts; the revised specification
+keeps the same structure, timings, marks and weightings as those given here. The paragraph
 routine above is an original model written for this resource, not a reproduction of any official past
 paper, set text or mark scheme. Always check the current specification and set-text list for your
 examination series at

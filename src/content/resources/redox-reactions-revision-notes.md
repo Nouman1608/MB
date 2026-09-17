@@ -48,6 +48,8 @@ Nothing here involves electron transfer explicitly, but the oxygen and electron 
 
 ## Agents — the reversal students get wrong
 
+*(0620 Extended, 5070 required)* Defining and identifying oxidising and reducing agents is 0620 Supplement content (6.4 S11-S13).
+
 - **Oxidising agent** — *causes* oxidation in something else, so is itself **reduced** and **gains** electrons.
 - **Reducing agent** — *causes* reduction, so is itself **oxidised** and **loses** electrons.
 
@@ -95,6 +97,8 @@ Zn(s) + Cu2+(aq) -> Zn2+(aq) + Cu(s)
 Electrons must cancel exactly when the halves are combined — if they don't, multiply one half through first.
 
 ## The two tests to memorise
+
+*(0620 Extended, 5070 required)*
 
 | Test | Reagent | Positive result | Shows |
 |---|---|---|---|

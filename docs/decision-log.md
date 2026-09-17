@@ -12432,3 +12432,51 @@ A proofreading agent compared every Arabic passage in `o-level-islamiyat-paper-1
 **Validation.** `astro check`: 0 errors in files touched here (1 pre-existing error noted above); `validate:academic`; `validate-assessments`; cross-board integrity; rendered academic labels; build (2142 HTML files); `audit:all` 0 problems across 2141 pages; cross-board regression; negative suite; API tests 31/31; `check-duplicate-resource-scope` the four pre-existing groups only.
 
 **Open-count position after D-255.** Round 38 leaves E386, E934 and E935 (confirmed) and I389; all are closed here (9 files, including two data files); the Arabic proofread changed 2 files. D-254 (I388) awaits the audit's read. Confirmed errors declared open: 0.
+
+## D-256 - Audit rounds 39 and 40 (Q420, Q421): E936, I390, I391 closed (2026-09-17)
+
+**Trigger.** Round 39 (`docs/audit/2026-11-15-findings.md`, `ebfc48c`) verified D-254 (10 of 13 rewordings complete; siblings left, I390) and worked the D-252 and D-253 observations: 16 confirmed (E936, eight items; I391, seven items), 16 cleared. Round 40 (`2026-11-16-findings.md`, `caa1985`) verified D-255: E386, E934, E935 and I389 closed, and the Islamiyat Arabic independently confirmed letter for letter. One confirmed-error group open (E936).
+
+**Primary sources.** Read by the lead: Cambridge 9701 (2025-2027) data section, "O2 + 4H+ + 4e– ⇌ 2H2O +1.23", "Br2 + 2e– ⇌ 2Br– +1.07", "I2 + 2e– ⇌ 2I– +0.54", "Cl2 + 2e– ⇌ 2Cl– +1.36", "F2 + 2e– ⇌ 2F– +2.87", and 24.1.1; Cambridge 0620 (2026-2028) 6.2 (Supplement 5 collision theory, 6 explanations "using collision theory", 7 "a catalyst decreases the activation energy"), 6.4 (Core 3; Supplement 6-13, including 10 "the colour changes involved when using acidified aqueous potassium manganate(VII) or aqueous potassium iodide" and 11-13 oxidising and reducing agents), 9.4 Supplement 4 (displacement with aqueous metal ions); Cambridge 5070 (2026-2028) 6.4.3 "Define oxidation in terms of: (a) gain of oxygen (b) loss of electrons (c) an increase in oxidation number" and its 6.2 collision theory and 6.4 agent outcomes; Cambridge 5054 (2026-2028) 1.5.6.3 "Describe, qualitatively, the effect of the position of the centre of gravity on the stability of simple objects"; OCR H420 specification (Version 4.1, April 2026) cover and summary of updates (Version 3, August 2023: wording changes, "No changes have been made to any assessment requirements"; 4.0 Cambridge OCR rebrand; 4.1 AI use in the Practical Endorsements); AQA 8182 3.2.1 (social and dispositional factors) and 3.2.4; AQA 8192 specification (Oakley named for segregated conjugal roles); AQA 8132 specification 3.1.7 "(organic growth through franchising, opening new stores and expanding through e-commerce, outsourcing and external growth through mergers and takeovers)", with no occurrence of SMART; Pearson 9UR0 record in `syllabuses.ts`. Items resting on documents not held locally (the 8192/1 June 2025 and 8136/2 June 2023 mark schemes, 0539 Paper 2 rubric, the IB Literature guide outline) follow the round-39 quotations.
+
+### E936 - Eight confirmed errors
+
+| Item | Files | What changed |
+|---|---|---|
+| E936.1 | `a-chemistry-electrochemistry-revision-notes.md` (selective discharge); `a-chemistry-electrochemistry-practice.md` answer 9(c); sibling `a-electrochemistry-electrolysis-and-electrode-potentials.md` | Anode order from the E values: iodide (+0.54 V) and bromide (+1.07 V) oxidised before water (+1.23 V); chloride (+1.36 V) only at high concentration, otherwise oxygen; fluoride never; sulfate and nitrate not discharged. The guide's 'a sufficiently concentrated halide ... even though OH⁻ is thermodynamically favoured' limited to chloride. 9(c) tariff [1] + [2] unchanged. |
+| E936.2 | `redox-reactions-practice.md` Q3, Q4(a), Q5, Q6, Q7 and their answers; `redox-reactions-revision-notes.md` (tests table, agents section); `rates-of-reaction-revision-notes.md` (collision theory section, explanation column, three exam traps) | Tagged *(0620 Extended, 5070 required)*, as the files' tier notes define; the rates notes say what 0620 Core needs (effects on rate; a catalyst speeds up a reaction and is unchanged). Tariffs unchanged. |
+| E936.3 | `moments-and-stability-practice.md` Q8 and scheme; sibling `moments-and-stability-revision-notes.md` | Q8 replaced by a qualitative stability question (tall narrow and low wide stands of equal weight; which is more stable and two changes), 5054 1.5.6.3; scheme [1]+[1]+[1]+[1]+[2] = [6]. The notes' stable/unstable/neutral table labelled beyond the syllabus. |
+| E936.4 | `syllabus-topics.ts` H420 record | syllabusSeries 'Version 4.1 (April 2026), for first assessment in 2025' (the cover's wording); source line Version 4.1; notes corrected: Version 3 was an accessibility rewording, not a new specification superseding an earlier one. |
+| E936.5 | `aqa-gcse-sociology-families-and-education.md` | Oakley keeps the dual burden; the triple shift credited to Duncombe and Marsden. |
+| E936.6 | `gcse-psychology-social-context-revision-notes.md`; `aqa-gcse-psychology-social-context-and-behaviour.md` | Only 3.2.4 Psychological problems pairs biological and psychological explanations; 3.2.1 Social influence explains behaviour through social (situational) and dispositional factors. |
+| E936.7 | `urdu-paper-2-listening-practice.md` Exercises 3 and 4 | Instruction, options A-F, questions (a)-(d) and all options now in Urdu, matching the scripts; answer keys unchanged (letters). |
+| E936.8 | `igcse-urdu-identity-culture-practice.md` answer 5 and marks-lost list | Agreement rule stated: the verb agrees with the subject, except in perfective tenses with نے, where it agrees with the object (میں نے کتاب پڑھی). Tariff unchanged. |
+
+### I390 - I388 siblings
+
+| Item | Files | What changed |
+|---|---|---|
+| I390.1 | `ib-dp-history-investigation-ia.md`; `ib-dp-history-investigation-ia-revision-notes.md` | 'weighs the significance of one factor against another' replaced: weighing which cause mattered most is cause and consequence; significance is how important an event or development was. |
+| I390.2 | `oxfordaqa-igcse-english-literature-exam-preparation.md` (closing note) | Attribution removed: the revised specification keeps the same structure, timings, marks and weightings. |
+| I390.3 | `ib-dp-biology-assessment-revision-notes.md`; `ib-dp-psychology-exam-preparation.md`; `ib-dp-psychology-assessment-revision-notes.md`; `ib-dp-physics-exam-preparation.md` | Biology paragraph no longer ties command terms to Paper 2 ('not assigned to either paper'); psychology headings 'Command terms'; physics heading no longer names Paper 2. |
+
+### I391 - Seven minor items
+
+| Item | Files | What changed |
+|---|---|---|
+| I391.1 | `redox-reactions.md` | 5070 6.4.3 quoted as printed: "Define oxidation in terms of: (a) gain of oxygen (b) loss of electrons (c) an increase in oxidation number". |
+| I391.2 | `a-physics-circular-motion-practice.md` answer 5(d) | Any two of three measures, [1] each, maximum [2]; increasing the radius now creditable, with its reason. |
+| I391.3 | `aqa-gcse-business-business-in-the-real-world.md` | Outsourcing listed as its own method, before external growth through mergers and takeovers (8132 3.1.7). |
+| I391.4 | `gcse-business-real-world-revision-notes.md` | SMART labelled a framework the specification does not name; '"Increase sales" is not an objective' removed; exam trap reworded. |
+| I391.5 | `aqa-gcse-economics-interest-rates-practice.md` Q4 and answer | 'the two factors' now 'two factors'; any two of risk, term, amount borrowed, inflation, security, existing debt, credit score or income, [1] each. |
+| I391.6 | `ib-dp-language-a-literature-assessment-revision-notes.md` self-test answer 2 | HL distinguished by the HL essay and by analysing both Paper 1 passages. |
+| I391.7 | `src/pages/uk/index.astro` (Edexcel row label and note) | Label and note now include the UK A Level in Urdu (9UR0) beside International GCSE and International A Level. |
+
+### Observations, not actioned
+
+- `aqa-gcse-economics-interest-rates-revision-notes.md` L34 lists risk, term length and the wider rate level as factors; consistent with the widened answer, not exhaustive.
+- `src/pages/uk/index.astro` L204 still carries `surface="white"`, the one `astro check` error, from `d470f31`; left for the page's owner.
+
+**Validation.** `astro check`: 1 error, the pre-existing `uk/index.astro` L204 one; `validate:academic`; `validate-assessments`; cross-board integrity; rendered academic labels; build (2142 HTML files); `audit:all` 0 problems across 2141 pages; cross-board regression; negative suite; API tests 31/31; `check-duplicate-resource-scope` the four pre-existing groups only.
+
+**Open-count position after D-256.** Round 40 leaves E936 (confirmed), I390 and I391; all are closed here (28 files, including `syllabus-topics.ts` and the /uk/ page). Confirmed errors declared open: 0.

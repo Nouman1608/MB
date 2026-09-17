@@ -64,7 +64,7 @@ Survival (the priority for a start-up), profit, growth, market share, customer s
 
 Objectives **change over time** — survival first, then profit and growth once established — and differ by size and sector.
 
-**SMART objectives** are Specific, Measurable, Achievable, Relevant, Time-bound. "Increase sales" is not an objective; "increase sales by 10% within twelve months" is.
+**SMART** (Specific, Measurable, Achievable, Relevant, Time-bound) is a common framework for making objectives measurable; the specification does not name it. "Increase sales" states an objective in general terms; "increase sales by 10% within twelve months" states it in a form that can be measured.
 
 ## Location
 
@@ -94,7 +94,7 @@ A business plan contains the business idea, aims and objectives, target market a
 - Saying limited liability means limited debts.
 - Treating a plc as government-owned.
 - Listing stakeholders instead of explaining a conflict.
-- Objectives that are not SMART.
+- Objectives stated too generally to measure.
 - Saying economies of scale reduce total costs.
 - Generic answers not applied to the business in the case study.
 
