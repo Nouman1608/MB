@@ -62,6 +62,7 @@ corpus briefly ended up worse than baseline on five files — see the amendment 
 | `2026-11-04-findings.md` | Round 28: the five unsettled round-12 closures read against the documents — all substantially fixed; I377 (2 residues). No round-12 item left unsettled. **1 confirmed-error group open** (E925). |
 | `2026-11-05-findings.md` | Round 29: D-249 read — **2 of 2 fixed**; E925 and I376 closed (residue I378). 40 more D-138…D-225 closures read — **40 of 40 fixed**. Leads worked: I379 (11 items). **0 confirmed-error groups open.** |
 | `2026-11-06-findings.md` | Round 30 (1 of 5): 95 unread D-138…D-225 closures read (E47–E193) — 76 fixed, **14 reopened**, E926 and E927 (new errors from repairs), I380. **16 confirmed-error groups open.** |
+| `2026-11-07-findings.md` | Round 31 (2 of 5): closures E194–E337 read — 74 fixed, **9 reopened**, E928, E929 (new errors from repairs), E930 (same errors in other boards' files), I381. D-250 and D-251 read — 13 of 14 fixed (I382). **28 confirmed-error groups open.** |
 | `2026-09-15-tier-resolution-response.md` | Cambridge 0620 tier question, resolved by coordinates. |
 | `correction-constraints.md` | **Standing rules. Start here.** |
 
@@ -145,9 +146,9 @@ finding against a snapshot that was three days old.
 
 | | |
 |---|---|
-| findings recorded | 1,758 |
-| confirmed errors open | **16 groups** (14 closures reopened in round 30, E926, E927) *(reconciliation current through **D-249**; every closure from D-226 to D-249 read. Of the 540 D-138…D-225 closures triaged as fixed, 160 have been read and 380 have not; rounds 31–34 read the rest. **Not a statement that the resources are correct.**)* |
-| declared closed by decision log D-138…D-249 | 846 |
+| findings recorded | 1,764 |
+| confirmed errors open | **28 groups** (23 closures reopened in rounds 30–31, E926–E930) *(reconciliation current through **D-251**; every closure from D-226 to D-251 read. Of the 540 D-138…D-225 closures triaged as fixed, 255 have been read and 285 have not; rounds 32–34 read the rest. **Not a statement that the resources are correct.**)* |
+| declared closed by decision log D-138…D-251 | 837 |
 | still open despite a closing round (deferred, partial, disputed, heading-only, or reopened) | 0 |
 | withdrawn by this audit | 1 (E746) |
 | resources read end to end | 1,251 of 1,251 baseline; all 1,645 on `main` at `251571e` read at least once (round 19). Board claims in the 397 post-baseline resources unchecked (U72). |

@@ -10,7 +10,7 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-**16 confirmed-error groups open** *(2026-11-06, round 30: 14 closures from D-138…D-225 reopened, E926 and E927 recorded. Improvement items I377–I380 open.)*
+**28 confirmed-error groups open** *(2026-11-07, round 31: 23 closures from D-138…D-225 reopened in rounds 30–31; E926–E930 recorded. Improvement items I380–I382 open.)*
 
 > **Amended 2026-10-12 (Q374).** This order first said 658. That figure never subtracted repair
 > rounds D-138…D-191, which closed 508 of them. The list of what is actually open — 89 plain,
@@ -137,6 +137,13 @@ work order can be a document rather than a conversation.
 ---
 
 ## 8. Current specifics
+
+- **Round 31 (2026-11-07, Q412): closures E194–E337 read; 9 reopened; D-250 and D-251 verified.** Reopened (Q412 gives
+  file and line): E199 (IAL Physics descriptions WPH14/WPH15), E218 (OCR Gateway exam-prep 'required practical'),
+  E249 (5090 fifth food test), E276 (9201 Organisation notes), E284 (4MA1 coverage placements), E297, E300, E307
+  (`syllabus-topics.ts` records rendered on the subject pages), E311 (8136 Section A). Also **E928** (repairs misstate
+  9709 routes, IAL Economics cross-drawing, H460 numbering), **E929** (OxfordAQA measurements Q11 tariffs), **E930**
+  (9702 '2mg' tensions; H556 practical skills), I381 and I382. D-250's paper-name dispute is upheld.
 
 - **Round 30 (2026-11-06, Q411): 95 unread closures read; 14 reopened.** Each reopened closure still has the error in
   a named or sibling file (the Q411 text gives file and line): E54, E56, E83, E95, E96, E111, E118, E119, E120 (9701
