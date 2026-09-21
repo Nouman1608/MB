@@ -138,6 +138,13 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 55 (2026-12-01; run 2026-09-21, 20:26 PKT, Q436): D-275 and D-276 verified.** I408, U78 (owner's decision) and
+  the Islamiyat Arabic item are closed. Open work: **I409** (the Rocks and Land study guides say the 2025-2026 case
+  studies were set/required - they were recommended; insulation is placed differently in the two 1.5.3 energy files;
+  the Agriculture guide's 'official search summaries' sentence) and **I410** (restore کھُلی, اُردو, مُرید پُور, مرحُوم
+  and دُرید as printed on 9UR0 p.41; the research subjects are printed bold, not bold blue). Also the U78 note: name
+  sciencesauceonline.com, mrkremerscience.com and revisiondojo.com. I396 stays deferred.
+
 - **Round 54 (2026-11-30; run 2026-09-21, 19:50 PKT, Q435): open leads settled.** 9685 is settled (the site's
   Version 3.1 is the later edition; the board page links an older Version 2.2 with identical assessment). E360, E539,
   E822, E850 and E866 were settled by round 28 (Q409) and still hold; remove them from any 'leads' list. The owner
