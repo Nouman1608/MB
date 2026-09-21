@@ -138,6 +138,13 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 54 (2026-11-30; run 2026-09-21, 19:50 PKT, Q435): open leads settled.** 9685 is settled (the site's
+  Version 3.1 is the later edition; the board page links an older Version 2.2 with identical assessment). E360, E539,
+  E822, E850 and E866 were settled by round 28 (Q409) and still hold; remove them from any 'leads' list. The owner
+  accepts the results figures. Open work: **I408** (record 2026 as the last assessment of DP Computer Science (2014)
+  and DP Psychology (2019), from the IB's own course pages, and drop the 'gives no final session' sentences).
+  U78 needs the IB ESS guide, which the IB does not publish publicly.
+
 - **Round 53 (2026-11-29; run 2026-09-21, 19:45 PKT, Q434): D-274 verified.** I407 is closed and nothing new is recorded.
   No repair work is open from rounds 49 to 52. Still open: U78 (needs the IB ESS guide); I396's OCR series wording and
   the 0539 dispute (deferred); the 0264 sub-topic list and the DP Computer Science (2027) record (deferred); the owner's

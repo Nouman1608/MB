@@ -85,6 +85,7 @@ corpus briefly ended up worse than baseline on five files — see the amendment 
 | `2026-11-27-findings.md` | Round 51: D-267 to D-272 verified — I403, I404 closed; U76, U77 and I393 closed by the owner's decisions; I405 (internal field names on 44 hubs), I406 (three contradictions). **0 confirmed-error groups open.** |
 | `2026-11-28-findings.md` | Round 52 (2026-09-21, 19:26 PKT): D-273 verified — I405 and I406 closed; I407 (residues of the rewording on 14 hubs). **0 confirmed-error groups open.** |
 | `2026-11-29-findings.md` | Round 53 (2026-09-21, 19:45 PKT): D-274 verified — I407 closed; nothing new. **0 confirmed-error groups open.** |
+| `2026-11-30-findings.md` | Round 54 (2026-09-21, 19:50 PKT): open leads settled — 9685 settled; E360, E539, E822, E850, E866 confirmed settled by round 28; results accepted by the owner; I408 (IB taught-out courses' last assessment). **0 confirmed-error groups open.** |
 | `2026-09-15-tier-resolution-response.md` | Cambridge 0620 tier question, resolved by coordinates. |
 | `correction-constraints.md` | **Standing rules. Start here.** |
 
@@ -168,8 +169,8 @@ finding against a snapshot that was three days old.
 
 | | |
 |---|---|
-| findings recorded | 1,829 |
-| confirmed errors open | **0 groups** *(reconciliation current through **D-274**; every declared closure D-138 to D-274 read. I396 (two points) and U78 open. **Not a statement that the site is correct.**)* |
+| findings recorded | 1,831 |
+| confirmed errors open | **0 groups** *(reconciliation current through **D-274**; every declared closure D-138 to D-274 read. I396 (two points), I408 and U78 open. **Not a statement that the site is correct.**)* |
 | declared closed by decision log D-138–D-274 | 880 |
 | still open despite a closing round (deferred, partial, disputed, heading-only, or reopened) | 0 |
 | withdrawn by this audit | 1 (E746) |
