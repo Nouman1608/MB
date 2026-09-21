@@ -7,7 +7,7 @@ topic: "Exam preparation -- Components 01 and 02"
 boards: ["ocr"]
 qualifications: ["gcse"]
 syllabusCodes: ["J205"]
-syllabusSeries: "For first teaching 2017"
+syllabusSeries: "Version 2.0 (June 2026), for first assessment in 2019"
 order: 3
 description: "Why both components of OCR GCSE Economics J205 carry synoptic assessment, how to pace an 80-mark 90-minute paper, diagram discipline, and a worked chain-of-reasoning routine."
 author: "marlbridge-academic-team"

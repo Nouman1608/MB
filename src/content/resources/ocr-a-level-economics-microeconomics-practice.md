@@ -7,7 +7,7 @@ topic: "Microeconomics"
 boards: ["ocr"]
 qualifications: ["a-level"]
 syllabusCodes: ["H460"]
-syllabusSeries: "For first assessment 2021"
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 3
 syllabusTopics:
   - qualification: "a-level"

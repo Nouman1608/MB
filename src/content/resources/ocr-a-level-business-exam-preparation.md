@@ -7,7 +7,7 @@ topic: "Exam preparation -- Components 01, 02 and 03"
 boards: ["ocr"]
 qualifications: ["a-level"]
 syllabusCodes: ["H431"]
-syllabusSeries: "Final assessment Summer 2027; successor H436 first assessed 2028"
+syllabusSeries: "Version 2.1 (January 2026), for first assessment in 2017; final assessment summer 2027"
 order: 3
 description: "What OCR A Level Business H431's withdrawal timetable means for candidates, how its three equal 80-mark components differ, why every paper is synoptic, and a worked evaluation routine."
 author: "marlbridge-academic-team"

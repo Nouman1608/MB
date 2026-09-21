@@ -13214,3 +13214,33 @@ The rocks and energy study guides' sentence "use the 0680 Natural Resources guid
 | Rule 7 | `scripts/audit-content-integrity.mjs` | New pattern: "search summary", "search summaries", "search results for" and "search-engine summary". `\bsearch` does not match inside "research", so "research summary" and "market research results" are untouched. Tested against a full build (0 matches) and against the removed strings (all caught). |
 
 **Validation.** `astro check` 0 errors; `validate:academic`, `validate:assessments`, `validate:pinned-teachers`, `validate:practice-schema`, commercial claims, cross-board regression and the negative suite pass; `test:i18n-routes` passes; build clean; `audit:all` 0 problems across 2150 pages with the new pattern. Rendered: no built page contains "search summar" or "search results for"; the IB DP Computer Science hub quotes the five criterion headings.
+
+## D-279 - The four deferred items: OCR series wording, 0539 durations, the 0264 topic list, the DP Computer Science (2027) record (2026-09-21)
+
+**Trigger.** The owner asked on 2026-09-21 for the items the fixer had deferred to be done: I396's OCR resource series wording and its 0539 duration point, the 0264 sub-topic list, and the DP Computer Science (2027) assessment record. Audit round 57 (`6adc3a9`) had verified D-278 and recorded nothing new.
+
+**Sources read (2026-09-21).**
+- **OCR:** the specification PDFs for all twelve OCR codes, downloaded from ocr.org.uk. Each cover prints "For first assessment in YYYY" and "Version X (Month YYYY)":
+  - H240 3.1 (August 2026), 2018; H420 4.1 (April 2026), 2025; H431 2.1 (January 2026), 2017; H432 3.1 (May 2026), 2017;
+  - H460 3.0 (June 2026), 2021; H556 3.0 (March 2026), 2017; J204 2.0 (January 2026), 2019; J205 2.0 (June 2026), 2019;
+  - J247 4.0 (August 2026), 2018; J248 4.0 (August 2026), 2018; J249 5.0 (July 2026), 2018; J560 2.1 (August 2026), 2017.
+- **Cambridge 0539:** syllabus 2025-2027 Version 2 (664633). Paper 2 is "Approximately 35–45 minutes" (p.9, and p.15 "Written paper, approximately 35–45 minutes, 30 marks"). Component 5 is "Approximately 10–12 minutes" (p.9, and p.16 "Speaking test, approximately 10–12 minutes, 60 marks").
+- **Cambridge 0264:** syllabus for 2027, 2028 and 2029, Version 2, published March 2025 (718123). The content overview (p.8) lists six topics and 29 sub-topics.
+- **IB:** Computer science guide, first assessment 2027 (ibo.org `subject-guides/computer-science-first-assessment-2027-guide-sbs.pdf`, 67 pp.), read in Chrome.
+  - "Assessment outline—SL" (p.46): external assessment 2 hours 30 minutes, 70%; Paper 1 (1 hour 15 minutes, 50 marks) 35%; Paper 2 (1 hour 15 minutes, 50 marks) 35%; internal assessment, the computational solution (30 marks, 35 hours) 30%.
+  - "Assessment outline—HL" (p.47): external assessment 4 hours, 80%; Paper 1 (2 hours, 80 marks) 40%; Paper 2 (2 hours, 80 marks) 40%; internal assessment (30 marks) 20%.
+
+| Item | Files | What changed |
+|---|---|---|
+| OCR series wording (I396) | `syllabus-topics.ts` (12 OCR records), 86 OCR resources | One standard wording, taken from each specification's cover: "Version X (Month YYYY), for first assessment in YYYY", plus "; final assessment summer 2027" for H431. Every OCR topic record and every OCR resource now carries it, replacing the mixture of "For first teaching", "From 2015", "First assessment ... (current specification version ...)" and similar. The hub sentence and source line no longer print "for the For first teaching 2015 examination series" when a series is not a year range; for such wordings they print the wording itself. |
+| 0539 durations (I396) | `assessments.ts` (schema + 0539), hub template, rule 7 | New optional component field `durationLabel` for a board-given range, shown to readers in place of the midpoint. `durationMinutes` keeps the midpoint for arithmetic only. 0539 Paper 2 shows "approx. 35–45m" and Component 5 "approx. 10–12m" in the table, and "approximately 35–45 minutes" in the prose summary. The note quotes both ranges with their pages. `durationLabel` is added to rule 7's field-name list. |
+| 0264 topic list | `syllabus-topics.ts`, `validate-cross-board-integrity.mjs` | A new current topic record for Cambridge IGCSE Business (0264), 2027-2029: six topics and 29 sub-topics exactly as printed on p.8, with `subtopicsComplete`. The 0450 2026 record stays in the list, marked superseded, so the nine 0450 resources written for the November 2026 series keep their topic links; the hub still lists them (13 resource links before and after). The cross-board validator now accepts a topic record carrying either half of a registry transition pair ('0450 / 0264'), so it still catches a code from another board. |
+| DP Computer Science (2027) | `assessments.ts` | New assessment record, `current` (first teaching August 2025), `relatedCode` DP Computer Science (2014). Both tiers are modeled with every figure as printed in the guide. The IB CS hub now shows the 2027 course, and the tracker pairs 2014 (final assessment 2026) with 2027 (first assessment 2027) instead of saying the successor has no record. |
+
+**Validation.** `astro check` 0 errors; `validate:academic` (including cross-board integrity), `validate:assessments` (160/160 combinations with a record), `validate:pinned-teachers`, `validate:practice-schema`, commercial claims, cross-board regression and the negative suite pass; the duplicate-scope report is unchanged from before this entry; `test:i18n-routes` passes; build clean; `audit:all` 0 problems across 2150 pages. Rendered:
+- The IGCSE Business hub and checklist show 0264, 2027-2029, "Every subtopic the document lists is shown".
+- The IGCSE Urdu hub shows the two ranges.
+- The OCR hubs and resources show the cover wording, e.g. "Aligned to OCR GCSE Business (J204), Version 2.0 (January 2026), for first assessment in 2019."
+- The IB CS hub carries the 2027 components.
+
+**Open-count position after D-279.** The I396 points, the 0264 sub-topic list and the DP Computer Science (2027) record were the last deferred items; none remains in this document's record. The audit has not read this entry.

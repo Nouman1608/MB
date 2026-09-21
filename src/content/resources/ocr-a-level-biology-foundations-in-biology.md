@@ -7,7 +7,7 @@ topic: "Foundations in biology"
 boards: ["ocr"]
 qualifications: ["a-level"]
 syllabusCodes: ["H420"]
-syllabusSeries: "Version 4.1, April 2026, for first teaching 2015"
+syllabusSeries: "Version 4.1 (April 2026), for first assessment in 2025"
 order: 1
 syllabusTopics:
   - qualification: "a-level"

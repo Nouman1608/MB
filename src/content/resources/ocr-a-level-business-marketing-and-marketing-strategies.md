@@ -7,7 +7,7 @@ topic: "Marketing and marketing strategies"
 boards: ["ocr"]
 qualifications: ["a-level"]
 syllabusCodes: ["H431"]
-syllabusSeries: "For first assessment in 2017"
+syllabusSeries: "Version 2.1 (January 2026), for first assessment in 2017; final assessment summer 2027"
 order: 3
 syllabusTopics:
   - qualification: "a-level"

@@ -7,7 +7,7 @@ topic: "Scaling up"
 boards: ["ocr"]
 qualifications: ["gcse"]
 syllabusCodes: ["J247"]
-syllabusSeries: "For first assessment 2018"
+syllabusSeries: "Version 4.0 (August 2026), for first assessment in 2018"
 order: 1
 syllabusTopics:
   - qualification: "gcse"

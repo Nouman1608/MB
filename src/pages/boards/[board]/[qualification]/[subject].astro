@@ -388,7 +388,9 @@ if (primaryAssessment) {
     return `${comp.weightingPercent}% of the qualification`;
   };
   const fmtComponent = (comp: (typeof primaryAssessment.components)[number]) => {
-    const dur = comp.durationMinutes
+    const dur = comp.durationLabel
+      ? comp.durationLabel.replace(/^approx\. /, 'approximately ').replace(/m$/, ' minutes')
+      : comp.durationMinutes
       ? `${Math.floor(comp.durationMinutes / 60)}h${comp.durationMinutes % 60 ? ` ${comp.durationMinutes % 60}m` : ''}`.trim()
       : 'no fixed duration';
     return `${comp.paperCode} (${comp.title}) — ${dur}, ${comp.marks} marks, ${weightingProse(comp)}`;
@@ -649,7 +651,7 @@ const jsonLd = [
                             <span class="text-ink-mute"> ({TIER_LABEL[comp.tier] ?? comp.tier})</span>
                           )}
                         </td>
-                        <td class="py-2 pe-3 text-ink-mute">{comp.durationMinutes ? `${Math.floor(comp.durationMinutes / 60)}h ${comp.durationMinutes % 60 ? `${comp.durationMinutes % 60}m` : ''}`.trim() : '—'}</td>
+                        <td class="py-2 pe-3 text-ink-mute">{comp.durationLabel ? comp.durationLabel : comp.durationMinutes ? `${Math.floor(comp.durationMinutes / 60)}h ${comp.durationMinutes % 60 ? `${comp.durationMinutes % 60}m` : ''}`.trim() : '—'}</td>
                         <td class="py-2 pe-3 text-ink-mute">{comp.marks}</td>
                         <td class="py-2 pe-3 text-ink-mute">{comp.asWeightingPercent != null && comp.asWeightingPercent !== comp.weightingPercent
                           ? (comp.weightingPercent === 0 ? `${comp.asWeightingPercent}% (AS only)` : `${comp.asWeightingPercent}% AS / ${comp.weightingPercent}% A Level`)
@@ -732,7 +734,7 @@ const jsonLd = [
               The {syllabusTopics.topics.length} topics below are taken from the
               <a href={syllabusTopics.sourceUrl} rel="nofollow noopener" class="underline decoration-gold-500 underline-offset-2"> official {c.board} document</a> for
               <strong class="font-semibold text-navy-800"> {syllabus?.officialTitle ?? `${boardQualPhrase} ${c.subject}`}</strong>,
-              for the {syllabusTopics.syllabusSeries} examination series, and follow that document's own headings. Where a syllabus
+              {/^\d/.test(syllabusTopics.syllabusSeries) ? `for the ${syllabusTopics.syllabusSeries} examination series` : syllabusTopics.syllabusSeries.replace(/^(For|First|From)\b/, (w) => w.toLowerCase())}, and follow that document's own headings. Where a syllabus
               lists its papers or components rather than content topics, those are shown instead.
               {syllabusTopics.subtopicsComplete
                 ? ' Every subtopic the document lists is shown.'
@@ -802,7 +804,7 @@ const jsonLd = [
           ))}
 
           <p class="m-0 mt-6 text-[14px] text-ink-mute">
-            Source: {syllabusTopics.source} — {syllabusTopics.syllabusSeries} series. Verified {syllabusTopics.verifiedDate}.
+            Source: {syllabusTopics.source} — {/^\d/.test(syllabusTopics.syllabusSeries) ? `${syllabusTopics.syllabusSeries} series` : syllabusTopics.syllabusSeries}. Verified {syllabusTopics.verifiedDate}.
             {syllabusTopics.tiered ? ' This syllabus is tiered -- see the qualification summary above for the exact tier structure.' : ''}
             Always check the current syllabus for your examination year.
           </p>

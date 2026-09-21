@@ -7,7 +7,7 @@ topic: "Forces"
 boards: ["ocr"]
 qualifications: ["gcse"]
 syllabusCodes: ["J249"]
-syllabusSeries: "For first assessment 2018"
+syllabusSeries: "Version 5.0 (July 2026), for first assessment in 2018"
 order: 1
 syllabusTopics:
   - qualification: "gcse"

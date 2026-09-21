@@ -7,7 +7,7 @@ topic: "Exam preparation -- Papers 1, 2 and 3"
 boards: ["ocr"]
 qualifications: ["a-level"]
 syllabusCodes: ["H556"]
-syllabusSeries: "For first teaching 2015"
+syllabusSeries: "Version 3.0 (March 2026), for first assessment in 2017"
 order: 3
 description: "What OCR A Level Physics H556's paper names tell you about their demands, the 37/37/26 weighting, why the Practical Endorsement carries no marks but practicals still matter, and a worked estimation routine."
 author: "marlbridge-academic-team"

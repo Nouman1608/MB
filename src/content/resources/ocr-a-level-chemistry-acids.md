@@ -7,7 +7,7 @@ topic: "Foundations in chemistry"
 boards: ["ocr"]
 qualifications: ["a-level"]
 syllabusCodes: ["H432"]
-syllabusSeries: "First assessment 2017 (current specification version 3.1, May 2026)"
+syllabusSeries: "Version 3.1 (May 2026), for first assessment in 2017"
 order: 4
 syllabusTopics:
   - qualification: "a-level"

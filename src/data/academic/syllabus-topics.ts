@@ -642,7 +642,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
 
   {
     boardSlug: 'ocr', qualificationSlug: 'gcse', subjectSlug: 'chemistry',
-    syllabusCode: 'J248', syllabusSeries: 'Version 4.0, August 2026, for first teaching 2016',
+    syllabusCode: 'J248', syllabusSeries: 'Version 4.0 (August 2026), for first assessment in 2018',
     effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
     tiered: true,
     source: 'OCR — official GCSE (9-1) Chemistry A (Gateway Science) J248 specification PDF',
@@ -683,7 +683,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
 
   {
     boardSlug: 'ocr', qualificationSlug: 'gcse', subjectSlug: 'physics',
-    syllabusCode: 'J249', syllabusSeries: 'For first teaching 2016',
+    syllabusCode: 'J249', syllabusSeries: 'Version 5.0 (July 2026), for first assessment in 2018',
     effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
     tiered: true,
     source: 'OCR -- official GCSE (9-1) Physics A (Gateway Science) J249 specification (accredited PDF, version 5.0)',
@@ -731,7 +731,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
 
   {
     boardSlug: 'ocr', qualificationSlug: 'a-level', subjectSlug: 'physics',
-    syllabusCode: 'H556', syllabusSeries: 'For first teaching 2015',
+    syllabusCode: 'H556', syllabusSeries: 'Version 3.0 (March 2026), for first assessment in 2017',
     effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OCR -- official A Level GCE Physics A H556 specification (accredited PDF)',
@@ -1053,7 +1053,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
 
   {
     boardSlug: 'ocr', qualificationSlug: 'gcse', subjectSlug: 'mathematics',
-    syllabusCode: 'J560', syllabusSeries: 'For first assessment 2017',
+    syllabusCode: 'J560', syllabusSeries: 'Version 2.1 (August 2026), for first assessment in 2017',
     effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
     tiered: true,
     source: 'OCR -- official GCSE (9-1) Mathematics (J560) specification-at-a-glance page',
@@ -1133,7 +1133,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
   },
   {
     boardSlug: 'ocr', qualificationSlug: 'a-level', subjectSlug: 'mathematics',
-    syllabusCode: 'H240', syllabusSeries: 'For first assessment 2018',
+    syllabusCode: 'H240', syllabusSeries: 'Version 3.1 (August 2026), for first assessment in 2018',
     effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OCR -- official A Level Mathematics A (H240) specification-at-a-glance page',
@@ -1737,7 +1737,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
 
   {
     boardSlug: 'ocr', qualificationSlug: 'gcse', subjectSlug: 'biology',
-    syllabusCode: 'J247', syllabusSeries: 'For first assessment 2018',
+    syllabusCode: 'J247', syllabusSeries: 'Version 4.0 (August 2026), for first assessment in 2018',
     effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
     tiered: true,
     source: 'OCR -- official GCSE (9-1) Gateway Science Suite Biology A (J247) specification-at-a-glance page',
@@ -1952,8 +1952,61 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
 
   {
     boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'business',
+    syllabusCode: '0264', syllabusSeries: '2027-2029',
+    effectiveFrom: '2027', effectiveTo: '2029', status: 'current',
+    tiered: false,
+    subtopicsComplete: true,
+    source: 'Cambridge International -- official Cambridge IGCSE Business (0264) syllabus PDF, Version 2, published March 2025',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/718123-2027-2029-syllabus.pdf', verifiedDate: '2026-09-21',
+    notes: 'Cambridge IGCSE Business (0264), syllabus for exams in 2027, 2028 and 2029 (Version 2, March 2025), which replaces Business Studies (0450) from the March 2027 series. The six topics and 29 sub-topics are the syllabus\'s own content overview (p.8), in its order and numbering. The 0450 2026 record below is kept, marked superseded, because its resources are written for the November 2026 series.',
+    topics: [
+      { number: 1, name: 'Understanding business activity', slug: 'understanding-business-activity-0264', subtopics: [
+        { number: '1.1', name: 'Business activity', slug: 'business-activity-0264' },
+        { number: '1.2', name: 'Economic sectors', slug: 'economic-sectors-0264' },
+        { number: '1.3', name: 'Enterprise, business growth and size', slug: 'enterprise-business-growth-and-size-0264' },
+        { number: '1.4', name: 'Types of business organisation', slug: 'types-of-business-organisation-0264' },
+        { number: '1.5', name: 'Business objectives and stakeholder objectives', slug: 'business-objectives-and-stakeholder-objectives-0264' },
+      ] },
+      { number: 2, name: 'People in business', slug: 'people-in-business-0264', subtopics: [
+        { number: '2.1', name: 'Human resource management (HRM)', slug: 'human-resource-management-hrm-0264' },
+        { number: '2.2', name: 'Organisation and management', slug: 'organisation-and-management-0264' },
+        { number: '2.3', name: 'Methods of communication', slug: 'methods-of-communication-0264' },
+        { number: '2.4', name: 'Motivating employees', slug: 'motivating-employees-0264' },
+      ] },
+      { number: 3, name: 'Marketing', slug: 'marketing-0264', subtopics: [
+        { number: '3.1', name: 'Marketing and the market', slug: 'marketing-and-the-market-0264' },
+        { number: '3.2', name: 'Market research', slug: 'market-research-0264' },
+        { number: '3.3', name: 'Marketing mix', slug: 'marketing-mix-0264' },
+        { number: '3.4', name: 'Legal controls', slug: 'legal-controls-0264' },
+      ] },
+      { number: 4, name: 'Operations management', slug: 'operations-management-0264', subtopics: [
+        { number: '4.1', name: 'Production of goods and services', slug: 'production-of-goods-and-services-0264' },
+        { number: '4.2', name: 'Technology and production of goods and services', slug: 'technology-and-production-of-goods-and-services-0264' },
+        { number: '4.3', name: 'Sustainable production of goods and services', slug: 'sustainable-production-of-goods-and-services-0264' },
+        { number: '4.4', name: 'Costs, scale of production and break-even analysis', slug: 'costs-scale-of-production-and-break-even-analysis-0264' },
+        { number: '4.5', name: 'Quality of goods and services', slug: 'quality-of-goods-and-services-0264' },
+        { number: '4.6', name: 'Location decisions', slug: 'location-decisions-0264' },
+      ] },
+      { number: 5, name: 'Financial information and decisions', slug: 'financial-information-and-decisions-0264', subtopics: [
+        { number: '5.1', name: 'Business finance', slug: 'business-finance-0264' },
+        { number: '5.2', name: 'Cash flow forecast', slug: 'cash-flow-forecast-0264' },
+        { number: '5.3', name: 'Profit and loss', slug: 'profit-and-loss-0264' },
+        { number: '5.4', name: 'Statement of financial position', slug: 'statement-of-financial-position-0264' },
+        { number: '5.5', name: 'Analysis of accounts', slug: 'analysis-of-accounts-0264' },
+      ] },
+      { number: 6, name: 'External influences on business activity', slug: 'external-influences-on-business-activity-0264', subtopics: [
+        { number: '6.1', name: 'Economic issues', slug: 'economic-issues-0264' },
+        { number: '6.2', name: 'Business and the international economy', slug: 'business-and-the-international-economy-0264' },
+        { number: '6.3', name: 'Business and the environment', slug: 'business-and-the-environment-0264' },
+        { number: '6.4', name: 'Business and ethical issues', slug: 'business-and-ethical-issues-0264' },
+        { number: '6.5', name: 'Pressure groups', slug: 'pressure-groups-0264' },
+      ] },
+    ],
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'business',
     syllabusCode: '0450 / 0264', syllabusSeries: 'For examination in 2026 (0450)', 
-    effectiveFrom: '2026', effectiveTo: '2026', status: 'current',
+    effectiveFrom: '2026', effectiveTo: '2026', status: 'superseded',
     tiered: false,
     source: 'Cambridge International -- official IGCSE Business Studies (0450) syllabus PDF, Version 2, published December 2025',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/697146-2026-syllabus.pdf', verifiedDate: '2026-08-19',
@@ -2111,7 +2164,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
 
   {
     boardSlug: 'ocr', qualificationSlug: 'gcse', subjectSlug: 'business',
-    syllabusCode: 'J204', syllabusSeries: 'For first teaching from 2017',
+    syllabusCode: 'J204', syllabusSeries: 'Version 2.0 (January 2026), for first assessment in 2019',
     effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OCR -- official GCSE (9-1) Business (J204) specification-at-a-glance page',
@@ -2134,7 +2187,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
 
   {
     boardSlug: 'ocr', qualificationSlug: 'a-level', subjectSlug: 'business',
-    syllabusCode: 'H431', syllabusSeries: 'Final first teach September 2025, final assessment summer 2027',
+    syllabusCode: 'H431', syllabusSeries: 'Version 2.1 (January 2026), for first assessment in 2017; final assessment summer 2027',
     effectiveFrom: '2015', effectiveTo: '2027', status: 'current',
     tiered: false,
     source: 'OCR -- official AS and A Level Business (H031, H431) specification-at-a-glance page',
@@ -2540,7 +2593,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
 
   {
     boardSlug: 'ocr', qualificationSlug: 'gcse', subjectSlug: 'economics',
-    syllabusCode: 'J205', syllabusSeries: 'For first teaching from 2017',
+    syllabusCode: 'J205', syllabusSeries: 'Version 2.0 (June 2026), for first assessment in 2019',
     effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OCR -- official GCSE (9-1) Economics (J205) specification-at-a-glance page',
@@ -2568,7 +2621,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
 
   {
     boardSlug: 'ocr', qualificationSlug: 'a-level', subjectSlug: 'economics',
-    syllabusCode: 'H460', syllabusSeries: 'For first teaching from 2019',
+    syllabusCode: 'H460', syllabusSeries: 'Version 3.0 (June 2026), for first assessment in 2021',
     effectiveFrom: '2019', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OCR -- official AS and A Level Economics (H060, H460) specification-at-a-glance page',
@@ -6041,7 +6094,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
   },
 {
     boardSlug: 'ocr', qualificationSlug: 'a-level', subjectSlug: 'chemistry',
-    syllabusCode: 'H432', syllabusSeries: 'From 2015',
+    syllabusCode: 'H432', syllabusSeries: 'Version 3.1 (May 2026), for first assessment in 2017',
     effectiveFrom: '2015', effectiveTo: 'current', status: 'current',
     tiered: false,
     source: 'OCR (Cambridge OCR) Level 3 Advanced GCE in Chemistry A (H432) specification, Version 3.1 (May 2026)',

@@ -7,7 +7,7 @@ topic: "Exam preparation -- Papers 1 to 4"
 boards: ["ocr"]
 qualifications: ["gcse"]
 syllabusCodes: ["J247"]
-syllabusSeries: "For first teaching 2016"
+syllabusSeries: "Version 4.0 (August 2026), for first assessment in 2018"
 order: 3
 description: "How OCR GCSE Biology J247's two papers per tier divide the specification, why topic 7 practical skills appear on both, the assumed-knowledge rule on Paper 2, and a worked practical-evaluation routine."
 author: "marlbridge-academic-team"

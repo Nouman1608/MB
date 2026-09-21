@@ -7,7 +7,7 @@ topic: "Fractions, decimals and percentages"
 boards: ["ocr"]
 qualifications: ["gcse"]
 syllabusCodes: ["J560"]
-syllabusSeries: "For first assessment 2017"
+syllabusSeries: "Version 2.1 (August 2026), for first assessment in 2017"
 order: 2
 syllabusTopics:
   - qualification: "gcse"

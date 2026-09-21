@@ -7,7 +7,7 @@ topic: "Foundations of physics"
 boards: ["ocr"]
 qualifications: ["a-level"]
 syllabusCodes: ["H556"]
-syllabusSeries: "For first assessment 2017"
+syllabusSeries: "Version 3.0 (March 2026), for first assessment in 2017"
 order: 2
 syllabusTopics:
   - qualification: "a-level"

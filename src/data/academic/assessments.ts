@@ -175,8 +175,13 @@ export interface AssessmentComponent {
   /** Exam duration in minutes. null for coursework/non-exam-assessment with
    * no fixed sitting duration. Where the board's own document gives a
    * range rather than a fixed figure, the documented midpoint is used and
-   * the record's `notes` says so explicitly -- never silently picked. */
+   * the record's `notes` says so explicitly -- never silently picked. The
+   * midpoint is only for arithmetic (totals); readers see `durationLabel`. */
   readonly durationMinutes: number | null;
+  /** D-279: the board's own wording for a duration it gives as a range
+   * (e.g. "approximately 35-45 minutes"), shown to readers in place of the
+   * midpoint stored in `durationMinutes`. Omit for fixed durations. */
+  readonly durationLabel?: string;
   readonly marks: number;
   /** Percentage of the FINAL qualification grade this component
    * contributes, for the tier it applies to (or overall, if untiered). All
@@ -542,12 +547,12 @@ export const ASSESSMENTS: readonly Assessment[] = [
     firstAssessment: '2025',
     components: [
       { paperCode: 'Paper 1', title: 'Reading and Writing', durationMinutes: 120, marks: 60, weightingPercent: 67, assessmentType: 'written-exam', tier: 'second-language' },
-      { paperCode: 'Paper 2', title: 'Listening', durationMinutes: 40, marks: 30, weightingPercent: 33, assessmentType: 'written-exam', tier: 'second-language' },
-      { paperCode: 'Component 5', title: 'Speaking (optional, separately endorsed)', durationMinutes: 11, marks: 60, weightingPercent: 0, assessmentType: 'oral', tier: 'second-language' },
+      { paperCode: 'Paper 2', title: 'Listening', durationMinutes: 40, durationLabel: 'approx. 35–45m', marks: 30, weightingPercent: 33, assessmentType: 'written-exam', tier: 'second-language' },
+      { paperCode: 'Component 5', title: 'Speaking (optional, separately endorsed)', durationMinutes: 11, durationLabel: 'approx. 10–12m', marks: 60, weightingPercent: 0, assessmentType: 'oral', tier: 'second-language' },
     ],
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/664633-2025-2027-syllabus.pdf',
     verifiedOn: '2026-08-26',
-    notes: 'Cambridge IGCSE Urdu as a Second Language. Component 5 Speaking is OPTIONAL and internally-assessed/externally-moderated -- it does NOT contribute to the overall IGCSE grade (separately endorsed 1-5), so it is shown with a weighting of 0% rather than left out. Its duration is officially "approximately 10-12 minutes" (11 used as the documented midpoint) and Paper 2\'s is "approximately 35-45 minutes" (40 used as the midpoint) -- both stated as ranges in the source, not fixed figures.',
+    notes: 'Cambridge IGCSE Urdu as a Second Language. Component 5 Speaking is OPTIONAL and internally-assessed/externally-moderated -- it does NOT contribute to the overall IGCSE grade (separately endorsed 1-5), so it is shown with a weighting of 0% rather than left out. Its duration is "approximately 10–12 minutes" and Paper 2\'s is "approximately 35–45 minutes" (syllabus Version 2, pp.9, 15 and 16); both are shown as those ranges.',
   },
   {
     boardSlug: 'cambridge',
@@ -3538,6 +3543,29 @@ export const ASSESSMENTS: readonly Assessment[] = [
     verifiedOn: '2026-09-17',
     notes: 'Both tiers modeled in full, read from the IB Global politics guide (first assessment 2026) at ibo.org, assessment outlines SL and HL and external assessment details (read 2026-09-17). SL: Paper 1 (1 hour 15 minutes, 25 marks, 30%), Paper 2 (1 hour 45 minutes, 30 marks, 40%), engagement project (30%). HL: Paper 1 (25 marks, 20%), Paper 2 (1 hour 45 minutes, 30 marks, 30%), Paper 3 HL only (1 hour 30 minutes, 28 marks), engagement project (20%). Engagement project marks from the guide\'s internal assessment criteria: A to E are the same for SL and HL and total 24; HL adds criterion F Recommendation (6), total 30. Corrected 2026-09-17: Paper 2 was recorded as 90 minutes from the two-page subject brief, which gives 1.5 hours; the guide gives 1 hour 45 minutes. The mark totals, previously sourced from a third-party site, are now read from the guide.',
     internalNotes: 'D-129 recorded a duration conflict between the subject brief (Paper 2 1.5 hours) and third-party sites (1 hour 45 minutes) and chose the brief. D-258 read the full guide, which gives 1 hour 45 minutes in both assessment outlines and in the external assessment details (\'Paper 2 Duration: 1 hour 45 minutes Maximum mark: 30\'), and replaces the mirror sourcing with the guide.',
+    assessmentModel: 'component-based',
+  },
+  {
+    boardSlug: 'ib',
+    qualificationSlug: 'ib-dp',
+    subjectSlug: 'computer-science',
+    code: 'DP Computer Science (2027)',
+    specStatus: 'current',
+    relatedCode: 'DP Computer Science (2014)',
+    tiers: ['sl', 'hl'],
+    firstTeaching: '2025-08',
+    firstAssessment: '2027',
+    components: [
+      { paperCode: 'Paper 1', title: 'Paper 1 -- Section A: extended-response questions on theme A, Concepts of computer science; Section B: short-response questions on the pre-seen case study', durationMinutes: 75, marks: 50, weightingPercent: 35, assessmentType: 'written-exam', tier: 'sl', externallyAssessed: true },
+      { paperCode: 'Paper 2', title: 'Paper 2 -- Extended-response questions on theme B, Computational thinking and problem-solving', durationMinutes: 75, marks: 50, weightingPercent: 35, assessmentType: 'written-exam', tier: 'sl', externallyAssessed: true },
+      { paperCode: 'Internal Assessment', title: 'Internal Assessment -- The computational solution', durationMinutes: null, marks: 30, weightingPercent: 30, assessmentType: 'coursework', tier: 'sl', internallyAssessed: true, externallyModerated: true },
+      { paperCode: 'Paper 1', title: 'Paper 1 -- Section A: extended-response questions on theme A, Concepts of computer science; Section B: short- and extended-response questions on the pre-seen case study', durationMinutes: 120, marks: 80, weightingPercent: 40, assessmentType: 'written-exam', tier: 'hl', externallyAssessed: true },
+      { paperCode: 'Paper 2', title: 'Paper 2 -- Extended-response questions on theme B, Computational thinking and problem-solving', durationMinutes: 120, marks: 80, weightingPercent: 40, assessmentType: 'written-exam', tier: 'hl', externallyAssessed: true },
+      { paperCode: 'Internal Assessment', title: 'Internal Assessment -- The computational solution', durationMinutes: null, marks: 30, weightingPercent: 20, assessmentType: 'coursework', tier: 'hl', internallyAssessed: true, externallyModerated: true },
+    ],
+    officialSourceUrl: 'https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/computer-science-first-assessment-2027-guide-sbs.pdf',
+    verifiedOn: '2026-09-21',
+    notes: 'Both tiers modeled in full, for the new computer science course (launched February 2025, first teaching August 2025, first assessment May 2027), read from the IB\'s own Computer science guide, first assessment 2027, "Assessment outline—SL" (p.46) and "Assessment outline—HL" (p.47), at ibo.org on 2026-09-21. SL: external assessment 2 hours 30 minutes, 70%; Paper 1 (1 hour 15 minutes, 50 marks) 35%; Paper 2 (1 hour 15 minutes, 50 marks) 35%; internal assessment, the computational solution (30 marks, 35 hours) 30%. HL: external assessment 4 hours, 80%; Paper 1 (2 hours, 80 marks) 40%; Paper 2 (2 hours, 80 marks) 40%; the same internal assessment (30 marks, 35 hours) 20%. Every figure is printed in the guide. Recorded as current because teaching began in August 2025, so it is the course a new student follows, although its first exams have not been sat; DP Computer Science (2014) is examined for the last time in 2026.',
     assessmentModel: 'component-based',
   },
   {

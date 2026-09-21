@@ -7,7 +7,7 @@ topic: "Exchange and transport"
 boards: ["ocr"]
 qualifications: ["a-level"]
 syllabusCodes: ["H420"]
-syllabusSeries: "For first assessment in 2017"
+syllabusSeries: "Version 4.1 (April 2026), for first assessment in 2025"
 order: 3
 syllabusTopics:
   - qualification: "a-level"

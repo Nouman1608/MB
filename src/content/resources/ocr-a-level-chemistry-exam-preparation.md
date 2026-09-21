@@ -7,7 +7,7 @@ topic: "Exam preparation -- Papers 1, 2 and 3"
 boards: ["ocr"]
 qualifications: ["a-level"]
 syllabusCodes: ["H432"]
-syllabusSeries: "For first teaching 2015"
+syllabusSeries: "Version 3.1 (May 2026), for first assessment in 2017"
 order: 3
 description: "How OCR A Level Chemistry H432's 37/37/26 papers divide the specification, why Paper 3 is unified across all modules, where the Practical Endorsement sits, and a worked multi-step calculation routine."
 author: "marlbridge-academic-team"

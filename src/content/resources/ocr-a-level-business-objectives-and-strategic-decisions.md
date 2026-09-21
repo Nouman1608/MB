@@ -7,7 +7,7 @@ topic: "Business objectives and strategic decisions"
 boards: ["ocr"]
 qualifications: ["a-level"]
 syllabusCodes: ["H431"]
-syllabusSeries: "Final first teach September 2025, final assessment summer 2027"
+syllabusSeries: "Version 2.1 (January 2026), for first assessment in 2017; final assessment summer 2027"
 order: 1
 syllabusTopics:
   - qualification: "a-level"

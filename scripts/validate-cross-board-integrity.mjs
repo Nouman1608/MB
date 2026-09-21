@@ -76,7 +76,11 @@ for (const v of SYLLABUS_VERSIONS) {
   // registered code (e.g. AQA's 7405), so the mislabel is caught even
   // though the board+qualification+subject combination itself is valid.
   const registryEntry = SYLLABUSES.find((s) => s.boardSlug === v.boardSlug && s.qualificationSlug === v.qualificationSlug && s.subjectSlug === v.subjectSlug);
-  if (registryEntry && registryEntry.code !== v.syllabusCode) {
+  // D-279: a registry code can be a transition pair ('0450 / 0264'); a topic
+  // collection may carry either half of that pair (the outgoing or the
+  // incoming syllabus), which still belongs to this board.
+  const registryCodes = registryEntry ? registryEntry.code.split(' / ').map((c) => c.trim()) : [];
+  if (registryEntry && registryEntry.code !== v.syllabusCode && !registryCodes.includes(v.syllabusCode)) {
     fail(`syllabus-topics.ts entry for ${v.boardSlug}/${v.qualificationSlug}/${v.subjectSlug} has syllabusCode '${v.syllabusCode}', but syllabuses.ts's verified code for that exact board+qualification+subject is '${registryEntry.code}' — this topic collection does not belong to the board it claims`);
   }
   // Independent of the registry cross-check above (which only fires where

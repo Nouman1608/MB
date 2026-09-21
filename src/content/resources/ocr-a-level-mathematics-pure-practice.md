@@ -7,7 +7,7 @@ topic: "Pure mathematics"
 boards: ["ocr"]
 qualifications: ["a-level"]
 syllabusCodes: ["H240"]
-syllabusSeries: "For first assessment 2018"
+syllabusSeries: "Version 3.1 (August 2026), for first assessment in 2018"
 order: 1
 syllabusTopics:
   - qualification: "a-level"

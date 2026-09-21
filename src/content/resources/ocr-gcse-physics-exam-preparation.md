@@ -7,7 +7,7 @@ topic: "Exam preparation -- Papers 1 to 4"
 boards: ["ocr"]
 qualifications: ["gcse"]
 syllabusCodes: ["J249"]
-syllabusSeries: "For first teaching 2016"
+syllabusSeries: "Version 5.0 (July 2026), for first assessment in 2018"
 order: 3
 description: "How OCR GCSE Physics J249 splits its topics across two papers per tier, the equation and unit discipline that protects marks, reading graphs for gradients and areas, and a worked rearrangement routine."
 author: "marlbridge-academic-team"

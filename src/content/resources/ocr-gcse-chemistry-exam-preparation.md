@@ -7,7 +7,7 @@ topic: "Exam preparation -- Papers 1 to 4"
 boards: ["ocr"]
 qualifications: ["gcse"]
 syllabusCodes: ["J248"]
-syllabusSeries: "For first teaching 2016"
+syllabusSeries: "Version 4.0 (August 2026), for first assessment in 2018"
 order: 3
 description: "Which topics sit on which OCR GCSE Chemistry J248 paper, how to earn the chemistry-specific calculation and equation marks, tier choice, and a worked balancing-and-moles routine."
 author: "marlbridge-academic-team"

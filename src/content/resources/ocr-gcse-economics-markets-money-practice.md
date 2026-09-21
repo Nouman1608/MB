@@ -7,7 +7,7 @@ topic: "The role of markets and money"
 boards: ["ocr"]
 qualifications: ["gcse"]
 syllabusCodes: ["J205"]
-syllabusSeries: "For first assessment 2019"
+syllabusSeries: "Version 2.0 (June 2026), for first assessment in 2019"
 order: 3
 syllabusTopics:
   - qualification: "gcse"

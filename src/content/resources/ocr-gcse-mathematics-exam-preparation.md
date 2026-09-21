@@ -7,7 +7,7 @@ topic: "Exam preparation -- Papers 01 to 06"
 boards: ["ocr"]
 qualifications: ["gcse"]
 syllabusCodes: ["J560"]
-syllabusSeries: "For first teaching 2015"
+syllabusSeries: "Version 2.1 (August 2026), for first assessment in 2017"
 order: 3
 description: "Why OCR GCSE Mathematics J560 sets three 100-mark papers per tier with exactly one non-calculator paper, why any topic can appear on any paper, and a worked method-marks routine."
 author: "marlbridge-academic-team"

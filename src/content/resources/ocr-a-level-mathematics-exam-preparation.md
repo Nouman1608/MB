@@ -7,7 +7,7 @@ topic: "Exam preparation -- Components 01, 02 and 03"
 boards: ["ocr"]
 qualifications: ["a-level"]
 syllabusCodes: ["H240"]
-syllabusSeries: "For first teaching 2017"
+syllabusSeries: "Version 3.1 (August 2026), for first assessment in 2018"
 order: 3
 description: "Why pure mathematics appears on all three OCR A Level Mathematics H240 components, what the pre-release data set on Component 02 requires, and a worked routine for protecting method marks."
 author: "marlbridge-academic-team"

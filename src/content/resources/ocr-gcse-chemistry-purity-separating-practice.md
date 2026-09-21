@@ -7,7 +7,7 @@ topic: "Elements, Compounds and Mixtures"
 boards: ["ocr"]
 qualifications: ["gcse"]
 syllabusCodes: ["J248"]
-syllabusSeries: "Version 4.0, August 2026, for first teaching 2016"
+syllabusSeries: "Version 4.0 (August 2026), for first assessment in 2018"
 order: 2
 syllabusTopics:
   - qualification: "gcse"

@@ -7,7 +7,7 @@ topic: "Exam preparation -- Components 01, 02 and 03"
 boards: ["ocr"]
 qualifications: ["a-level"]
 syllabusCodes: ["H460"]
-syllabusSeries: "For first teaching 2019"
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 3
 description: "How OCR A Level Economics H460's three equal components work, why Component 03 applies micro and macro content to an unseen theme, and a worked routine for transferring theory to unfamiliar material."
 author: "marlbridge-academic-team"

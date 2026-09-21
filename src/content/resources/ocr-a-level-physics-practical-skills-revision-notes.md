@@ -7,7 +7,7 @@ topic: "Development of practical skills in physics"
 boards: ["ocr"]
 qualifications: ["a-level"]
 syllabusCodes: ["H556"]
-syllabusSeries: "For first teaching 2015"
+syllabusSeries: "Version 3.0 (March 2026), for first assessment in 2017"
 order: 1
 syllabusTopics:
   - qualification: "a-level"
