@@ -138,6 +138,13 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 56 (2026-12-02; run 2026-09-21, 20:41 PKT, Q437): D-277 verified.** I409, I410 and the U78 note are closed.
+  Open work: **I411** ((1) the 9696 coastal guide says it explains 8.1, 8.2 and 8.4 in depth but has no sections on
+  erosional landforms, erosion and sub-aerial processes, sediment cells or sea-level change; (2) 'a recommended case
+  study for each topic' in four 5014 guides - several 2025-2026 topics list two or more; (3) battery storage listed as
+  saving energy (1.5.3); (4) 'a second independent search summary' in the IB DP Computer Science (2014) note).
+  I396 stays deferred. Next free decision-log number: D-278.
+
 - **Round 55 (2026-12-01; run 2026-09-21, 20:26 PKT, Q436): D-275 and D-276 verified.** I408, U78 (owner's decision) and
   the Islamiyat Arabic item are closed. Open work: **I409** (the Rocks and Land study guides say the 2025-2026 case
   studies were set/required - they were recommended; insulation is placed differently in the two 1.5.3 energy files;
