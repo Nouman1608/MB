@@ -138,6 +138,11 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 58 (2026-12-04; run 2026-09-21, 21:20 PKT, Q439): D-279 verified.** I396 is closed; the 0264 topic list and
+  the DP Computer Science (2027) record are correct against their documents. The owner closed the two remaining choices
+  (5014 Topics 3-7 not required; the 9UR0 spacing points). **No repair work and no finding is open.** Next free
+  decision-log number: D-280.
+
 - **Round 57 (2026-12-03; run 2026-09-21, 20:57 PKT, Q438): D-278 verified.** I411 is closed and nothing new is recorded.
   No repair work is open. Still open, deferred: I396's OCR series wording and the 0539 dispute; the 0264 sub-topic list
   and the DP Computer Science (2027) record. Owner's choice: 5014 Topics 3-7 resources; two 9UR0 spacing points for a
