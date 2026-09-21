@@ -164,6 +164,13 @@ const INTERNAL_NOTE_PATTERNS = [
   { re: /\bvalidator(?:'s|s)?\b/, label: 'reference to an internal validator' },
   { re: /\bdecision[- ]log\b/i, label: 'reference to the decision log' },
   { re: /\b(?:E9\d\d|I[34]\d\d|U7\d|Q4\d\d)\b/, label: 'audit finding ID' },
+  // Round 50 (I403, D-267): research-session language. Tested against a full
+  // build first. "same session" is deliberately excluded (a revision-notes page
+  // advises practising two skills "in the same session"), and bare "tooling"
+  // is not matched because the editorial policy legitimately discloses the
+  // "validation tooling" behind the site; only the process phrasings are.
+  { re: /\b(?:this|prior|earlier|previous) session\b|\bsession's (?:claim|finding)\b/i, label: 'research-session language' },
+  { re: /\b(?:available tooling|through (?:available )?tooling|tooling (?:gap|failure|limit))/i, label: 'research-tooling language' },
 ];
 const excludedFromNoteScan = new Set(['/search/']); // Pagefind's own index page can legitimately mention file-path-shaped strings in indexed snippets
 for (const file of builtHtmlFiles) {

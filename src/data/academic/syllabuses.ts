@@ -108,7 +108,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'Cambridge O Level Mathematics (Syllabus D) gives learners a solid foundation for further study, developing number, algebra, geometry, mensuration, trigonometry, statistics and probability skills for candidates going on to Cambridge International AS & A Level Mathematics or equivalent.',
     officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-mathematics-d-4024/',
     verifiedOn: '2026-08-18',
-    notes: 'boardSummary is a Marlbridge-written factual description, not a verbatim quote — the syllabus overview page could not be fetched directly in this session (redirect-only response); code, series and content verified independently against the official syllabus PDF in Phase 14.',
+    notes: 'boardSummary is a Marlbridge-written factual description, not a verbatim quote — the syllabus overview page could not be fetched directly on 2026-08-18 (redirect-only response); code, series and content verified independently against the official syllabus PDF in Phase 14.',
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'biology',
@@ -1557,7 +1557,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'MYP language acquisition develops proficiency in an additional language across listening, reading, speaking and writing, alongside intercultural understanding, and is compulsory in every year of the programme except for bilingual students following the language-and-literature route.',
     officialUrl: 'https://www.ibo.org/globalassets/new-structure/brochures-and-infographics/pdfs/myp-brief-language-acquisition-2020-en.pdf',
     verifiedOn: '2026-09-04',
-    notes: 'Source is the public IB MYP Language Acquisition subject brief ("From 2020"; fetched via a school-hosted mirror of the identical ibo.org PDF after the direct ibo.org URL returned no extractable content in this session). No syllabus code exists at MYP level -- \'MYP Language Acquisition\' is used as this record\'s own `code`. See this subject\'s own assessment-structure record for the sourced criterion-based assessment breakdown.',
+    notes: 'Source is the public IB MYP Language Acquisition subject brief ("From 2020"; fetched via a school-hosted mirror of the identical ibo.org PDF after the direct ibo.org URL returned no readable content on 2026-09-04). No syllabus code exists at MYP level -- \'MYP Language Acquisition\' is used as this record\'s own `code`. See this subject\'s own assessment-structure record for the sourced criterion-based assessment breakdown.',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'physics',
@@ -1577,7 +1577,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'IB DP Biology is primarily concerned with the study of life and living systems, from molecules and cells to ecosystems and the biosphere, combining theoretical understanding with an emphasis on scientific inquiry, at Standard Level (SL) and Higher Level (HL).',
     officialUrl: 'https://www.ibo.org/globalassets/new-structure/recognition/pdfs/dp_sciences_biology_subject-brief_jan_2022_e.pdf',
     verifiedOn: '2026-09-04',
-    notes: 'First assessment 2025. Sourced from the freely public official subject brief plus the freely public official specimen exam papers, both directly fetched and read this session -- no licensed subject guide was needed. Four unifying themes (Unity and diversity; Form and function; Interaction and interdependence; Continuity and change) plus an experimental programme including a scientific investigation. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at Higher Level only.',
+    notes: 'First assessment 2025. Sourced from the freely public official subject brief plus the freely public official specimen exam papers, both read on 2026-09-04 -- no licensed subject guide was needed. Four unifying themes (Unity and diversity; Form and function; Interaction and interdependence; Continuity and change) plus an experimental programme including a scientific investigation. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at Higher Level only.',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'chemistry',
@@ -1587,7 +1587,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'IB DP Chemistry is concerned with identifying patterns that help explain matter at the microscopic level, allowing its behaviour to be predicted and controlled at a macroscopic level, combining representative models and explanatory theories with an emphasis on scientific inquiry, at Standard Level (SL) and Higher Level (HL).',
     officialUrl: 'https://www.ibo.org/globalassets/new-structure/recognition/pdfs/dp_sciences_chemistry_subject-brief_jan_2022_e.pdf',
     verifiedOn: '2026-09-04',
-    notes: 'First assessment 2025. Sourced from the freely public official subject brief plus the freely public official specimen exam papers, both directly fetched and read this session -- no licensed subject guide was needed. Six structure/reactivity topics plus an experimental programme including a scientific investigation. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at Higher Level only. Note (2026-09-13, I282): this officialUrl correctly remains the freely public subject brief, which is what was actually used to verify this syllabus entry\'s structure -- a separate task from writing resource content. The ten ib-dp-chemistry-* resource files themselves cite the full Chemistry guide directly, since that fuller document was needed for content depth; the two citations are not in conflict, they answer different questions.',
+    notes: 'First assessment 2025. Sourced from the freely public official subject brief plus the freely public official specimen exam papers, both read on 2026-09-04 -- no licensed subject guide was needed. Six structure/reactivity topics plus an experimental programme including a scientific investigation. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at Higher Level only. Note (2026-09-13, I282): this officialUrl correctly remains the freely public subject brief, which is what was actually used to verify this syllabus entry\'s structure -- a separate task from writing resource content. The ten ib-dp-chemistry-* resource files themselves cite the full Chemistry guide directly, since that fuller document was needed for content depth; the two citations are not in conflict, they answer different questions.',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'geography',
@@ -1597,7 +1597,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'IB DP Geography focuses on the interactions between individuals, societies and physical processes in both time and space, integrating physical, environmental and human geography, at Standard Level (SL) and Higher Level (HL).',
     officialUrl: 'https://www.ibo.org/contentassets/5895a05412144fe890312bad52b17044/geography-sl-hl-2017-en.pdf',
     verifiedOn: '2026-09-04',
-    notes: 'First assessments 2019. Sourced from the freely public official subject brief plus the freely public official specimen exam papers, both directly fetched and read this session -- no licensed subject guide was needed. Optional geographic themes plus a compulsory core theme (global change), an HL-only extension (global interactions), and fieldwork. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers.',
+    notes: 'First assessments 2019. Sourced from the freely public official subject brief plus the freely public official specimen exam papers, both read on 2026-09-04 -- no licensed subject guide was needed. Optional geographic themes plus a compulsory core theme (global change), an HL-only extension (global interactions), and fieldwork. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers.',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'world-history',
@@ -1607,7 +1607,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'IB DP History is a world history course based on a comparative and multi-perspective approach, covering prescribed subjects, world history topics and (at Higher Level) a regional depth study, at Standard Level (SL) and Higher Level (HL).',
     officialUrl: 'https://www.ibo.org/globalassets/new-structure/programmes/dp/pdfs/history-hl-2020-eng.pdf',
     verifiedOn: '2026-09-04',
-    notes: 'First assessments 2017. Sourced from the freely public official subject briefs (Higher Level and Standard Level, published as two separate PDFs) plus the freely public official specimen exam papers, all directly fetched and read this session -- no licensed subject guide was needed. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers.',
+    notes: 'First assessments 2017. Sourced from the freely public official subject briefs (Higher Level and Standard Level, published as two separate PDFs) plus the freely public official specimen exam papers, all read on 2026-09-04 -- no licensed subject guide was needed. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers.',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'language-a-literature',
@@ -1617,7 +1617,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'IB DP Language A: Literature explores the various manifestations of literature as a powerful mode of writing across cultures and throughout history, through close analysis of literary texts in a number of forms and from different times and places, at Standard Level (SL) and Higher Level (HL).',
     officialUrl: 'https://www.ibo.org/contentassets/5895a05412144fe890312bad52b17044/curriculum.brief-languagea.literature-eng.pdf',
     verifiedOn: '2026-09-04',
-    notes: 'First assessments 2021. Sourced from the freely public official subject brief plus the freely public official specimen exam papers, both directly fetched and read this session -- no licensed subject guide was needed. Three syllabus areas (Readers, writers and texts; Time and space; Intertextuality: connecting texts) plus an Individual Oral and, at Higher Level, an additional written HL Essay. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers.',
+    notes: 'First assessments 2021. Sourced from the freely public official subject brief plus the freely public official specimen exam papers, both read on 2026-09-04 -- no licensed subject guide was needed. Three syllabus areas (Readers, writers and texts; Time and space; Intertextuality: connecting texts) plus an Individual Oral and, at Higher Level, an additional written HL Essay. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers.',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'language-b',
@@ -1627,7 +1627,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'IB DP Language B is a language acquisition course for students with some previous experience of the target language, developing communication skills across five prescribed themes, at Standard Level (SL) and Higher Level (HL).',
     officialUrl: 'https://www.ibo.org/contentassets/5895a05412144fe890312bad52b17044/lang-b-2018-en.pdf',
     verifiedOn: '2026-09-04',
-    notes: 'First assessment 2020. Sourced from the freely public official subject brief plus the freely public official specimen exam papers, both directly fetched and read this session -- no licensed subject guide was needed. Five prescribed themes (Identities; Experiences; Human ingenuity; Social organization; Sharing the planet); the assessment outline is identical at both tiers except for the complexity of language required. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers.',
+    notes: 'First assessment 2020. Sourced from the freely public official subject brief plus the freely public official specimen exam papers, both read on 2026-09-04 -- no licensed subject guide was needed. Five prescribed themes (Identities; Experiences; Human ingenuity; Social organization; Sharing the planet); the assessment outline is identical at both tiers except for the complexity of language required. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers.',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'mathematics-analysis-and-approaches',
@@ -1637,7 +1637,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'IB DP Mathematics: Analysis and Approaches recognizes the need for analytical expertise, developing important mathematical concepts in a comprehensible, coherent and rigorous way with a strong emphasis on constructing, communicating and justifying correct mathematical arguments, at Standard Level (SL) and Higher Level (HL).',
     officialUrl: 'https://www.ibo.org/contentassets/5895a05412144fe890312bad52b17044/subject-brief-dp-math-analysis-and-approaches-en.pdf',
     verifiedOn: '2026-09-04',
-    notes: 'First assessments 2021. Sourced from the freely public official subject brief plus the freely public official specimen exam papers, both directly fetched and read this session -- no licensed subject guide was needed. Five syllabus topics (Number and algebra; Functions; Geometry and trigonometry; Statistics and probability; Calculus) plus an internally assessed Mathematical Exploration; Higher Level sits an additional Paper 3. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers.',
+    notes: 'First assessments 2021. Sourced from the freely public official subject brief plus the freely public official specimen exam papers, both read on 2026-09-04 -- no licensed subject guide was needed. Five syllabus topics (Number and algebra; Functions; Geometry and trigonometry; Statistics and probability; Calculus) plus an internally assessed Mathematical Exploration; Higher Level sits an additional Paper 3. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers.',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'mathematics-applications-and-interpretation',
@@ -1647,7 +1647,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'IB DP Mathematics: Applications and Interpretation recognizes the increasing role of mathematics and technology in a data-rich world, focusing on topics used in real-world modelling and interpretation, at Standard Level (SL) and Higher Level (HL).',
     officialUrl: 'https://www.ibo.org/contentassets/5895a05412144fe890312bad52b17044/subject-brief-dp-math-applications-and-interpretations-en.pdf',
     verifiedOn: '2026-09-04',
-    notes: 'First assessments 2021. Sourced from the freely public official subject brief plus the freely public official specimen exam papers, both directly fetched and read this session -- no licensed subject guide was needed. Five syllabus topics (Number and algebra; Functions; Geometry and trigonometry; Statistics and probability; Calculus), sharing 60 hours of common content with Mathematics: Analysis and Approaches, plus an internally assessed Mathematical Exploration; Higher Level sits an additional Paper 3. All external assessment in this course requires technology. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers.',
+    notes: 'First assessments 2021. Sourced from the freely public official subject brief plus the freely public official specimen exam papers, both read on 2026-09-04 -- no licensed subject guide was needed. Five syllabus topics (Number and algebra; Functions; Geometry and trigonometry; Statistics and probability; Calculus), sharing 60 hours of common content with Mathematics: Analysis and Approaches, plus an internally assessed Mathematical Exploration; Higher Level sits an additional Paper 3. All external assessment in this course requires technology. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers.',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'business',
@@ -1657,7 +1657,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'The business management course is designed to meet the current and future needs of students who want to develop their knowledge of business content, concepts and tools to assist with business decision-making, at Standard Level (SL) and Higher Level (HL).',
     officialUrl: 'https://www.ibo.org/globalassets/new-structure/programmes/dp/pdfs/business-management-hl-subject-brief-en.pdf',
     verifiedOn: '2026-09-05',
-    notes: 'First assessments 2024. Sourced from the freely public official Higher Level subject brief, directly fetched this session, plus the official subject guide\'s own "Assessment outline" appendix reproduced verbatim on two IB World Schools\' own sites (see the matching assessment record for both mirror URLs and the corroboration reasoning). Four interdisciplinary concepts (creativity, change, ethics, sustainability) explored across five core units (introduction to business management; human resource management; finance and accounts; marketing; operations management), each with Higher-Level-only extension content, plus a business management toolkit of analytical tools. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers.',
+    notes: 'First assessments 2024. Sourced from the freely public official Higher Level subject brief, read on 2026-09-05, plus the official subject guide\'s own "Assessment outline" appendix reproduced verbatim on two IB World Schools\' own sites (see the matching assessment record for both mirror URLs and the corroboration reasoning). Four interdisciplinary concepts (creativity, change, ethics, sustainability) explored across five core units (introduction to business management; human resource management; finance and accounts; marketing; operations management), each with Higher-Level-only extension content, plus a business management toolkit of analytical tools. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers.',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'language-a-language-and-literature',
@@ -1687,7 +1687,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'Environmental systems and societies is an interdisciplinary course integrating scientific and sociocultural perspectives on environmental issues, offered at Standard Level (SL) and Higher Level (HL) under a single shared syllabus.',
     officialUrl: 'https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/environmental-systems-and-societies-subject-brief-en.pdf',
     verifiedOn: '2026-09-05',
-    notes: 'First assessment 2026 (confirmed directly against the official public subject brief this session, rather than assumed from a prior session\'s claim). Sourced from that official subject brief for weighting and duration, plus independently corroborated third-party sources for exact mark totals -- see the matching assessment record for the full sourcing and confidence reasoning, including one figure (Higher Level mark totals) resting on weaker single-source evidence than the rest of the record. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers.',
+    notes: 'First assessment 2026 (confirmed against the official public subject brief on 2026-09-05). Sourced from that official subject brief for weighting and duration, plus independently corroborated third-party sources for exact mark totals -- see the matching assessment record for the full sourcing and confidence reasoning, including one figure (Higher Level mark totals) resting on weaker single-source evidence than the rest of the record. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers.',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'global-politics',
@@ -1697,7 +1697,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'DP global politics is a course for students who want to understand more about how the world they live in works, drawing on political science, international relations and the wider social sciences and humanities, at Standard Level (SL) and Higher Level (HL).',
     officialUrl: 'https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/global-politics-sl-hl-subject-brief-en.pdf',
     verifiedOn: '2026-09-05',
-    notes: 'First assessment 2026 (confirmed directly against the official public subject brief this session, rather than assumed from a prior session\'s claim). Core topic (understanding power and global politics) plus three thematic studies (rights and justice; development and sustainability; peace and conflict), with a Higher-Level-only extension on global political challenges. See the matching assessment record for the paper-by-paper breakdown, read from the IB Global politics guide (first assessment 2026); the guide gives Paper 2 as 1 hour 45 minutes, where the three-page subject brief gives 1.5 hours.',
+    notes: 'First assessment 2026 (confirmed against the official public subject brief on 2026-09-05). Core topic (understanding power and global politics) plus three thematic studies (rights and justice; development and sustainability; peace and conflict), with a Higher-Level-only extension on global political challenges. See the matching assessment record for the paper-by-paper breakdown, read from the IB Global politics guide (first assessment 2026); the guide gives Paper 2 as 1 hour 45 minutes, where the three-page subject brief gives 1.5 hours.',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'computer-science',
