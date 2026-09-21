@@ -163,7 +163,15 @@ const INTERNAL_NOTE_PATTERNS = [
   { re: /\binternalNotes\b/, label: 'internal field name (internalNotes)' },
   { re: /\bvalidator(?:'s|s)?\b/, label: 'reference to an internal validator' },
   { re: /\bdecision[- ]log\b/i, label: 'reference to the decision log' },
-  { re: /\b(?:E9\d\d|I[34]\d\d|U7\d|Q4\d\d)\b/, label: 'audit finding ID' },
+  // Round 51 (I405, D-273): any finding ID, not only the current number
+  // ranges (an old 'I282' and 'Audit I07' slipped past the ranged form).
+  // Tested against a full build first: zero matches. The E900-E999 food-
+  // additive caveat above now applies to every E-number from E10 to E9999.
+  { re: /\b[EIUQ]\d{2,4}\b|\bAudit [EIUQ]\d+\b/, label: 'audit finding ID' },
+  // Round 51 (I405, D-273): the data records' own camelCase field names
+  // (Assessment, AssessmentComponent, Syllabus and Combination types), which
+  // only appear in engineering commentary. Tested against a full build first.
+  { re: /\b(?:alternativeGroup|asALevelRelationship|asAlternativeGroup|asWeightingPercent|assessmentModel|assessmentType|boardOfferingStatus|boardSlug|boardSummary|calculatorAllowed|certificationNotes|classesOffered|corroboratingSourceUrl|dataBookletProvided|durationMinutes|externallyAssessed|externallyModerated|finalAssessment|firstAssessment|firstTeaching|formulaSheetProvided|internalNotes|internallyAssessed|marksSourceNote|marlbridgeStatus|mirrorSourceUrl|officialSourceUrl|officialTitle|officialUrl|paperCode|qualificationCode|qualificationSlug|relatedCode|relatedCodes|resitPolicySummary|routeGroup|sourceConfidence|specStatus|subjectSlug|subtopicsCaveat|subtopicsComplete|syllabusCodes|verifiedOn|weightingPercent|withdrawalDate)\b/, label: 'internal record field name' },
   // Round 50 (I403, D-267): research-session language. Tested against a full
   // build first. "same session" is deliberately excluded (a revision-notes page
   // advises practising two skills "in the same session"), and bare "tooling"

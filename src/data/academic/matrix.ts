@@ -739,12 +739,14 @@ const BASE_MATRIX: readonly Combination[] = [
 ] as const;
 
 /**
- * Owner decision 2026-09-21 (D-272): no classes are currently offered in
- * these subjects on any board or level. Their hubs, checklists and free
+ * Owner decisions 2026-09-21 (D-272; MYP Design and Individuals and
+ * Societies added in D-273): no classes are currently offered in these
+ * subjects on any board or level. Their hubs, checklists and free
  * resources stay published (same resources-only state as D-270).
  */
 const SUBJECTS_WITHOUT_CLASSES: ReadonlySet<string> = new Set([
   'psychology', 'sociology', 'geography', 'global-perspectives',
+  'myp-design', 'myp-individuals-and-societies',
 ]);
 
 export const MATRIX: readonly Combination[] = BASE_MATRIX.map((c) =>
