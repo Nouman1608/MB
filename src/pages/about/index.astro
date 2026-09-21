@@ -106,6 +106,12 @@ const groups = [
                       <dd class="m-0 inline">{[about.city, about.country].filter(Boolean).join(', ')}</dd>
                     </div>
                   )}
+                  {about.address && (
+                    <div class="m-0 basis-full">
+                      <dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Teaching address </dt>
+                      <dd class="m-0 inline">{about.address}</dd>
+                    </div>
+                  )}
                 </dl>
               )}
             </div>

@@ -6,6 +6,7 @@ import EnquiryForm from '../../components/forms/EnquiryForm.astro';
 import FAQ from '../../components/ui/FAQ.astro';
 import { faqNode } from '../../utils/schema/faq';
 import { routes } from '../../utils/urls/routes';
+import { site } from '../../data/site';
 
 
 /**
@@ -31,7 +32,7 @@ const faqs = [
   },
   {
     question: 'Where does Marlbridge teach?',
-    answer: 'Marlbridge teaches in Pakistan today. Learners outside our teaching locations are taught online. The free resource library is written for international curricula and open to anyone, anywhere.',
+    answer: `Marlbridge teaches in person at its academy, ${site.about.address}. Learners outside our teaching locations are taught online. The free resource library is written for international curricula and open to anyone, anywhere.`,
   },
   {
     question: 'Which qualifications does Marlbridge teach?',

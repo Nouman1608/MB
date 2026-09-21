@@ -1,12 +1,12 @@
 ---
 name: "Lubna Waseem"
-role: "English Teacher"
+role: "English and IELTS Teacher"
 bio: >-
-  Miss Lubna Waseem teaches English at Learners Academy. Building writers, not just exam-passers.
+  Miss Lubna Waseem teaches English and IELTS at Learners Academy. Building writers, not just exam-passers.
 credentials: []
 image: "/images/faculty/lubna-waseem.jpg"
 entityType: person
-subjectsTaught: ["English"]
+subjectsTaught: ["English", "IELTS"]
 boardsTaught: []
 qualificationsTaught: []
 previousSchools: []

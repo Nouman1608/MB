@@ -65,8 +65,11 @@ export const site = {
    */
   about: {
     foundingYear: undefined as string | undefined,
-    city: undefined as string | undefined,
-    country: undefined as string | undefined,
+    /** Owner-confirmed 2026-09-21 (round 50, U76 (3)). */
+    city: 'Lahore' as string | undefined,
+    country: 'Pakistan' as string | undefined,
+    /** Teaching address of the founding academy, owner-confirmed 2026-09-21. */
+    address: 'Commercial 17/18, Block B, Al-Kabir Town, Lahore, Pakistan' as string | undefined,
     /** Longer founding narrative, once written and approved. */
     story: undefined as string | undefined,
   },
