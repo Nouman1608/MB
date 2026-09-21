@@ -13062,3 +13062,19 @@ E939, I400 and the five I396 deferrals are closed by the audit. Remaining: U76, 
 | Mathematics attribution | 7 `igcse-mathematics-*-practice.md` resources (statistics, probability, mensuration, coordinate geometry, trigonometry, transformations and vectors, geometry) | `author` changed from `nouman-ahmed` to `marlbridge-academic-team`. All 188 resources still credited to Sir Nouman Ahmed are Chemistry, matching his profile (Chemistry only). |
 
 **Validation.** `astro check` 0 errors; `validate:academic`, `validate:assessments`, `validate:pinned-teachers`, `validate:practice-schema` pass; `test:i18n-routes` passes; build clean; `audit:all` 0 problems across 2142 pages. Rendered: no built page contains "founding academy"; the About page carries the branch wording; the IGCSE Mathematics geometry practice page is bylined Marlbridge Academic Team.
+
+## D-272 - Owner decision: Psychology, Sociology, Geography and Global Perspectives resources-only (2026-09-21)
+
+**Trigger.** With no teacher profile covering Psychology, Sociology, Geography or Global Perspectives (the open remainder of U76 (5)), the owner decided on 2026-09-21: "mark them as not currently being offered".
+
+| Item | Files | What changed |
+|---|---|---|
+| Matrix | `matrix.ts` | The literal array is now `BASE_MATRIX`; `MATRIX` applies `classesOffered: false` to every row whose subject is in `SUBJECTS_WITHOUT_CLASSES` (psychology, sociology, geography, global-perspectives). 21 combinations across Cambridge, AQA, OxfordAQA and IB become resources-only; with D-270's two IB rows, 23 active combinations are now resources-only. Status, addresses and content are unchanged. |
+| Hubs | hub template (unchanged, D-270 logic) | These hubs now answer "Not at the moment — free study resources only", say enrolment is not open, emit no Course schema, and point the closing call to action at the free resources. Board and level pages recount "Classes are currently offered in N of them" automatically (IB Diploma Programme: 12 of 16). |
+| Subject pages | `subjects/{psychology,sociology,geography,global-perspectives}.md` | `marlbridgeTeaches: "not-teaching"`; description and "Does Marlbridge teach ...?" answer say classes are not offered at the moment and the free resources stay open. |
+| Subject-page call to action | `subjects/[slug].astro` | A not-teaching subject now closes with "Marlbridge is not offering {subject} classes at the moment..." and "Browse free resources" instead of "Need teaching in {subject}?" and a learning-support button. This also corrects the Global Politics and ESS pages, which D-270 left with the teaching call to action. |
+| IB programme | `programs/ib.md` | "10 further DP subjects" (was 12); DP Psychology and DP Geography join Global Politics and ESS in the no-classes sentence and description. |
+
+**U76 (5)** is now closed: every subject still presented as taught has a named teacher or the Academic Team behind it, and the four uncovered subjects are marked as not offered.
+
+**Validation.** `astro check` 0 errors; `validate:academic`, `validate:assessments`, `validate:pinned-teachers`, `validate:practice-schema`, commercial claims, cross-board regression and the negative suite pass; `test:i18n-routes` passes; build clean; `audit:all` 0 problems across 2142 pages. Rendered: Cambridge IGCSE Sociology, AQA GCSE Psychology, Cambridge A Level Global Perspectives and IB DP Geography hubs show the resources-only answer with no Course schema; the Sociology subject page shows the no-classes answer and "Browse free resources".

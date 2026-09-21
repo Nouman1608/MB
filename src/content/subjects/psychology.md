@@ -3,9 +3,9 @@ title: "Psychology"
 order: 12
 levelsLabel: "IGCSE · GCSE · A Level · IB Diploma Programme"
 levels: ["gcse", "a-levels", "ib"]
-marlbridgeTeaches: "teaching"
+marlbridgeTeaches: "not-teaching"
 shortDescription: "Psychology at GCSE · A Level, with study material organised by topic."
-description: "Psychology teaching and study resources, organised by level and topic."
+description: "Psychology study resources, organised by level and topic. Marlbridge is not offering classes in this subject at the moment."
 featured: false
 faqs:
   - question: "What does the Psychology hub cover?"
@@ -15,7 +15,7 @@ faqs:
   - question: "Which exam boards does this follow?"
     answer: "Cambridge International Education, AQA, OxfordAQA and the International Baccalaureate (IB)."
   - question: "Does Marlbridge teach Psychology?"
-    answer: "Yes, at IGCSE, GCSE, A Level and IB Diploma Programme. Marlbridge teaches Cambridge International AS & A Level Psychology, AQA GCSE and A-level Psychology, OxfordAQA International GCSE (9218) and International AS and A-level (9685) Psychology, and IB Diploma Programme Psychology."
+    answer: "Not at the moment. Marlbridge is not currently offering classes in this subject; the free study resources on this hub stay open to everyone."
 ---
 
 The Psychology hub gathers the topics, study guides and practice material for

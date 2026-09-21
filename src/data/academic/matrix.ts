@@ -218,7 +218,7 @@ const OXFORDAQA_ALEVEL_CODES: Record<string, string> = {
   psychology: '9685', sociology: '9690',
 };
 
-export const MATRIX: readonly Combination[] = [
+const BASE_MATRIX: readonly Combination[] = [
   // =========================================================================
   // CAMBRIDGE — A Level
   // =========================================================================
@@ -737,6 +737,19 @@ export const MATRIX: readonly Combination[] = [
     source: 'Owner confirmed directly in chat, 2026-08-22: IB MYP teaching has started at Marlbridge. Subject briefs sourced from ibo.org (see docs/decision-log.md D-008).',
   }),
 ] as const;
+
+/**
+ * Owner decision 2026-09-21 (D-272): no classes are currently offered in
+ * these subjects on any board or level. Their hubs, checklists and free
+ * resources stay published (same resources-only state as D-270).
+ */
+const SUBJECTS_WITHOUT_CLASSES: ReadonlySet<string> = new Set([
+  'psychology', 'sociology', 'geography', 'global-perspectives',
+]);
+
+export const MATRIX: readonly Combination[] = BASE_MATRIX.map((c) =>
+  SUBJECTS_WITHOUT_CLASSES.has(c.subjectSlug) ? { ...c, classesOffered: false } : c,
+);
 
 export const byMarlbridgeStatus = (s: Status) => MATRIX.filter((c) => c.marlbridgeStatus === s);
 export const activeCombinations = () => byMarlbridgeStatus('ACTIVE');

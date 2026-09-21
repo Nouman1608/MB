@@ -135,10 +135,19 @@ const offerings = offeringsForSubject(subject.id);
     </Container>
   </Section>
 
-  <CTA
-    surface="ivory"
-    heading={`Need teaching in ${d.title}? Tell us the level and where the difficulty is.`}
-    buttonLabel="Find Learning Support"
-    buttonHref={routes.tutoring}
-  />
+  {d.marlbridgeTeaches === 'not-teaching' ? (
+    <CTA
+      surface="ivory"
+      heading={`Marlbridge is not offering ${d.title} classes at the moment. The free study resources stay open to everyone.`}
+      buttonLabel="Browse free resources"
+      buttonHref={routes.resources}
+    />
+  ) : (
+    <CTA
+      surface="ivory"
+      heading={`Need teaching in ${d.title}? Tell us the level and where the difficulty is.`}
+      buttonLabel="Find Learning Support"
+      buttonHref={routes.tutoring}
+    />
+  )}
 </PageLayout>

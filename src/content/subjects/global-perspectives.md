@@ -3,9 +3,9 @@ title: "Global Perspectives"
 order: 21
 levelsLabel: "IGCSE · A Level"
 levels: ["igcse", "a-levels"]
-marlbridgeTeaches: "teaching"
+marlbridgeTeaches: "not-teaching"
 shortDescription: "Global Perspectives at IGCSE and A Level, with study material organised by topic."
-description: "Global Perspectives teaching and study resources, organised by level and topic."
+description: "Global Perspectives study resources, organised by level and topic. Marlbridge is not offering classes in this subject at the moment."
 featured: false
 faqs:
   - question: "What does the Global Perspectives hub cover?"
@@ -15,7 +15,7 @@ faqs:
   - question: "Which exam board does this follow?"
     answer: "Cambridge International Education."
   - question: "Does Marlbridge teach Global Perspectives?"
-    answer: "Yes, at IGCSE and A Level. Note the A Level qualification is titled \"Global Perspectives & Research\" — a distinct, broader specification from the IGCSE."
+    answer: "Not at the moment. Marlbridge is not currently offering classes in this subject; the free study resources on this hub stay open to everyone."
 ---
 
 The Global Perspectives hub gathers the topics, study guides and practice

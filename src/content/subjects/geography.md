@@ -3,9 +3,9 @@ title: "Geography"
 order: 20
 levelsLabel: "IGCSE · O · A Level · IB Diploma Programme"
 levels: ["igcse", "o-levels", "a-levels", "ib"]
-marlbridgeTeaches: "teaching"
+marlbridgeTeaches: "not-teaching"
 shortDescription: "Geography at IGCSE, O Level and A Level, with study material organised by topic."
-description: "Geography teaching and study resources, organised by level and topic."
+description: "Geography study resources, organised by level and topic. Marlbridge is not offering classes in this subject at the moment."
 featured: false
 faqs:
   - question: "What does the Geography hub cover?"
@@ -15,7 +15,7 @@ faqs:
   - question: "Which exam board does this follow?"
     answer: "Cambridge International Education, OxfordAQA and the International Baccalaureate (IB)."
   - question: "Does Marlbridge teach Geography?"
-    answer: "Yes, at IGCSE, O Level, A Level and IB Diploma Programme. Marlbridge teaches Cambridge Geography at IGCSE, O Level and AS & A Level, OxfordAQA International GCSE and International AS and A-level Geography, and IB Diploma Programme Geography."
+    answer: "Not at the moment. Marlbridge is not currently offering classes in this subject; the free study resources on this hub stay open to everyone."
 ---
 
 The Geography hub gathers the topics, study guides and practice material for
