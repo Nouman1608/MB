@@ -82,6 +82,7 @@ corpus briefly ended up worse than baseline on five files — see the amendment 
 | `2026-11-24-findings.md` | Round 48: D-262, D-263 and D-264 verified — I400, **E939** and the five I396 deferrals closed; **E944** (6 new errors), I401. **1 confirmed-error group open.** |
 | `2026-11-25-findings.md` | Round 49: D-265 verified — **E944** and I401 closed; **E945** (2 errors introduced by the note sweep), I402. **1 confirmed-error group open.** |
 | `2026-11-26-findings.md` | Round 50: D-266 verified — **E945** and I402 closed; I403 (session language on 15 hubs), I404 (stale IB coverage count). **0 confirmed-error groups open.** |
+| `2026-11-27-findings.md` | Round 51: D-267 to D-272 verified — I403, I404 closed; U76, U77 and I393 closed by the owner's decisions; I405 (internal field names on 44 hubs), I406 (three contradictions). **0 confirmed-error groups open.** |
 | `2026-09-15-tier-resolution-response.md` | Cambridge 0620 tier question, resolved by coordinates. |
 | `correction-constraints.md` | **Standing rules. Start here.** |
 
@@ -165,9 +166,9 @@ finding against a snapshot that was three days old.
 
 | | |
 |---|---|
-| findings recorded | 1,823 |
-| confirmed errors open | **0 groups** *(reconciliation current through **D-266**; every declared closure D-138 to D-266 read. I396 (two points), I403, I404, U76-U78 open. **Not a statement that the site is correct.**)* |
-| declared closed by decision log D-138–D-266 | 880 |
+| findings recorded | 1,826 |
+| confirmed errors open | **0 groups** *(reconciliation current through **D-272**; every declared closure D-138 to D-272 read. I396 (two points), I405, I406, U78 open. **Not a statement that the site is correct.**)* |
+| declared closed by decision log D-138–D-272 | 880 |
 | still open despite a closing round (deferred, partial, disputed, heading-only, or reopened) | 0 |
 | withdrawn by this audit | 1 (E746) |
 | resources read end to end | 1,251 of 1,251 baseline; all 1,645 on `main` at `251571e` read at least once (round 19). Board claims in the 397 post-baseline resources unchecked (U72). |

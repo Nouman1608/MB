@@ -138,6 +138,15 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 51 (2026-11-27, Q432): D-267 to D-272 verified.** I403 and I404 are closed; U76, U77 and I393 are closed by
+  the owner's decisions. Open work: **I405** (65 record field names such as firstAssessment, alternativeGroup,
+  finalAssessment, relatedCode and specStatus in reader-facing notes on 44 hubs, plus 'I282' twice on IB Chemistry,
+  'Audit I07 fix' on IB Computer Science and 'Phase 14' on O Level Mathematics; add field names and an unranged
+  finding-id pattern to rule 7) and **I406** (the About badge 'A Marlbridge education institution' against the branch
+  wording; MYP Design and MYP Individuals and Societies presented as taught with no teacher profile for them; the
+  Psychology (2019) label says the Paper 2 source is unnamed while the note names it). U78 needs the IB ESS guide;
+  I396's OCR series wording and the 0539 dispute are still deferred.
+
 - **Round 50 (2026-11-26, Q431): D-266 verified.** E945 and I402 are closed; no confirmed-error group is open.
   Open work: **I403** (38 reader-facing references to research sessions and tooling on 15 hubs: 'directly fetched and
   read this session' and variants on 13 IB DP hubs, the MYP Language Acquisition hub and the Cambridge O Level Mathematics
