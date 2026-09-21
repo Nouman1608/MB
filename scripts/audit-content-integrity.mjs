@@ -172,6 +172,15 @@ const INTERNAL_NOTE_PATTERNS = [
   // (Assessment, AssessmentComponent, Syllabus and Combination types), which
   // only appear in engineering commentary. Tested against a full build first.
   { re: /\b(?:alternativeGroup|asALevelRelationship|asAlternativeGroup|asWeightingPercent|assessmentModel|assessmentType|boardOfferingStatus|boardSlug|boardSummary|calculatorAllowed|certificationNotes|classesOffered|corroboratingSourceUrl|dataBookletProvided|durationMinutes|externallyAssessed|externallyModerated|finalAssessment|firstAssessment|firstTeaching|formulaSheetProvided|internalNotes|internallyAssessed|marksSourceNote|marlbridgeStatus|mirrorSourceUrl|officialSourceUrl|officialTitle|officialUrl|paperCode|qualificationCode|qualificationSlug|relatedCode|relatedCodes|resitPolicySummary|routeGroup|sourceConfidence|specStatus|subjectSlug|subtopicsCaveat|subtopicsComplete|syllabusCodes|verifiedOn|weightingPercent|withdrawalDate)\b/, label: 'internal record field name' },
+  // Round 52 (I407, D-274): shapes the I405 rewording left behind. Tested
+  // against a full build first: zero matches. A backticked token is a
+  // markdown code span that never rendered (the notes are plain text); the
+  // to-do phrase is a maintenance reminder; a hyphenated name ending in -*
+  // is a file glob; 'in this file' refers to the data file itself.
+  { re: /`[^`\s]{1,40}`/, label: 'backticked internal value' },
+  { re: /\bwhen next touched\b|\bre-checked for a successor\b/i, label: 'maintenance to-do' },
+  { re: /\b[a-z0-9]+(?:-[a-z0-9]+)+-\*/, label: 'file-name pattern' },
+  { re: /\b(?:record|elsewhere|already) in this file\b/i, label: 'reference to the data file' },
   // Round 50 (I403, D-267): research-session language. Tested against a full
   // build first. "same session" is deliberately excluded (a revision-notes page
   // advises practising two skills "in the same session"), and bare "tooling"

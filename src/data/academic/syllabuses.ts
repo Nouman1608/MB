@@ -1517,7 +1517,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'MYP sciences guides students to independently and collaboratively investigate issues through research, observation and experimentation, exploring the connections between science and everyday life across biology, chemistry, physics and related disciplines.',
     officialUrl: 'https://www.ibo.org/globalassets/new-structure/brochures-and-infographics/pdfs/myp-brief-sciences-en.pdf',
     verifiedOn: '2026-09-04',
-    notes: 'Source is the public IB MYP Sciences subject brief (framework current "from 2014"). No syllabus code exists at MYP level the way Cambridge/Edexcel/AQA/OCR publish one -- \'MYP Sciences\' is used as this record\'s own `code`, matching the existing \'DP Economics\'/\'DP Physics\' precedent for IB Diploma Programme subjects above. See this subject\'s own assessment-structure record for the sourced criterion-based assessment breakdown.',
+    notes: 'Source is the public IB MYP Sciences subject brief (framework current "from 2014"). No syllabus code exists at MYP level the way Cambridge/Edexcel/AQA/OCR publish one, so the course is listed as \'MYP Sciences\'. See this subject\'s own assessment-structure record for the sourced criterion-based assessment breakdown.',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-myp', subjectSlug: 'mathematics',
@@ -1527,7 +1527,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'MYP mathematics develops logical, abstract and critical thinking through four branches of mathematical study -- numerical and abstract reasoning, thinking with models, spatial reasoning, and reasoning with data -- offered at standard and extended levels of challenge.',
     officialUrl: 'https://www.ibo.org/globalassets/new-structure/brochures-and-infographics/pdfs/myp-brief-mathematics-en.pdf',
     verifiedOn: '2026-09-04',
-    notes: 'Source is the public IB MYP Mathematics subject brief ("From 2020, first assessment 2022"). No syllabus code exists at MYP level -- \'MYP Mathematics\' is used as this record\'s own `code`. IB MYP Mathematics is a separate entry from every other board\'s Mathematics. See this subject\'s own assessment-structure record for the sourced criterion-based assessment breakdown.',
+    notes: 'Source is the public IB MYP Mathematics subject brief ("From 2020, first assessment 2022"). No syllabus code exists at MYP level, so the course is listed as \'MYP Mathematics\'. IB MYP Mathematics is a separate entry from every other board\'s Mathematics. See this subject\'s own assessment-structure record for the sourced criterion-based assessment breakdown.',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-myp', subjectSlug: 'myp-individuals-and-societies',
@@ -1537,7 +1537,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'MYP individuals and societies incorporates disciplines traditionally studied under humanities and social sciences -- including history, geography, economics, philosophy, sociology/anthropology, business management, psychology and world religions -- to help students inquire into the factors that affect individuals, societies and environments.',
     officialUrl: 'https://www.ibo.org/globalassets/new-structure/brochures-and-infographics/pdfs/myp-brief_individuals-societies_2015.pdf',
     verifiedOn: '2026-09-04',
-    notes: 'Source is the public IB MYP Individuals and Societies subject brief ("From 2014"). No syllabus code exists at MYP level -- \'MYP Individuals and Societies\' is used as this record\'s own `code`. See this subject\'s own assessment-structure record for the sourced criterion-based assessment breakdown.',
+    notes: 'Source is the public IB MYP Individuals and Societies subject brief ("From 2014"). No syllabus code exists at MYP level, so the course is listed as \'MYP Individuals and Societies\'. See this subject\'s own assessment-structure record for the sourced criterion-based assessment breakdown.',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-myp', subjectSlug: 'myp-design',
@@ -1547,7 +1547,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'MYP design challenges students to apply practical and creative-thinking skills to solve design problems using the design cycle -- inquiring and analysing, developing ideas, creating a solution, and evaluating it -- across product, digital or combined design contexts.',
     officialUrl: 'https://www.ibo.org/globalassets/new-structure/brochures-and-infographics/pdfs/myp-brief_design_2015.pdf',
     verifiedOn: '2026-09-04',
-    notes: 'Source is the public IB MYP Design subject brief ("From 2014"). No syllabus code exists at MYP level -- \'MYP Design\' is used as this record\'s own `code`. See this subject\'s own assessment-structure record for the sourced criterion-based assessment breakdown.',
+    notes: 'Source is the public IB MYP Design subject brief ("From 2014"). No syllabus code exists at MYP level, so the course is listed as \'MYP Design\'. See this subject\'s own assessment-structure record for the sourced criterion-based assessment breakdown.',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-myp', subjectSlug: 'myp-language-acquisition',
@@ -1557,7 +1557,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'MYP language acquisition develops proficiency in an additional language across listening, reading, speaking and writing, alongside intercultural understanding, and is compulsory in every year of the programme except for bilingual students following the language-and-literature route.',
     officialUrl: 'https://www.ibo.org/globalassets/new-structure/brochures-and-infographics/pdfs/myp-brief-language-acquisition-2020-en.pdf',
     verifiedOn: '2026-09-04',
-    notes: 'Source is the public IB MYP Language Acquisition subject brief ("From 2020"; first read from a school-hosted copy on 2026-09-04 and re-checked against the IB\'s own copy at ibo.org on 2026-09-21). No syllabus code exists at MYP level -- \'MYP Language Acquisition\' is used as this record\'s own `code`. See this subject\'s own assessment-structure record for the sourced criterion-based assessment breakdown.',
+    notes: 'Source is the public IB MYP Language Acquisition subject brief ("From 2020"; first read from a school-hosted copy on 2026-09-04 and re-checked against the IB\'s own copy at ibo.org on 2026-09-21). No syllabus code exists at MYP level, so the course is listed as \'MYP Language Acquisition\'. See this subject\'s own assessment-structure record for the sourced criterion-based assessment breakdown.',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'physics',
@@ -1587,7 +1587,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'IB DP Chemistry is concerned with identifying patterns that help explain matter at the microscopic level, allowing its behaviour to be predicted and controlled at a macroscopic level, combining representative models and explanatory theories with an emphasis on scientific inquiry, at Standard Level (SL) and Higher Level (HL).',
     officialUrl: 'https://www.ibo.org/globalassets/new-structure/recognition/pdfs/dp_sciences_chemistry_subject-brief_jan_2022_e.pdf',
     verifiedOn: '2026-09-04',
-    notes: 'First assessment 2025. Sourced from the freely public official subject brief plus the freely public official specimen exam papers, both read on 2026-09-04 -- no licensed subject guide was needed. Six structure/reactivity topics plus an experimental programme including a scientific investigation. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at Higher Level only. The official link here is the public subject brief, which is what this entry\'s structure was checked against. The ten ib-dp-chemistry-* resource files themselves cite the full Chemistry guide directly, since that fuller document was needed for content depth; the two citations are not in conflict, they answer different questions.',
+    notes: 'First assessment 2025. Sourced from the freely public official subject brief plus the freely public official specimen exam papers, both read on 2026-09-04 -- no licensed subject guide was needed. Six structure/reactivity topics plus an experimental programme including a scientific investigation. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at Higher Level only. The official link here is the public subject brief, which is what this entry\'s structure was checked against. Marlbridge\'s IB Chemistry study resources cite the full Chemistry guide instead, since they needed its fuller content; the two citations answer different questions.',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'geography',
@@ -1667,7 +1667,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'Language A: language and literature studies the complex and dynamic nature of language and explores its practical and aesthetic dimensions across a range of literary and non-literary text types, at Standard Level (SL) and Higher Level (HL).',
     officialUrl: 'https://www.ibo.org/contentassets/5895a05412144fe890312bad52b17044/curriculum.brief-languagea.language.and.literature-eng.pdf',
     verifiedOn: '2026-09-05',
-    notes: 'First assessment 2021, revised for May 2026 examinations onward (Paper 2\'s marking criteria and mark total changed; every other component confirmed unchanged -- see the matching assessment record for the detailed sourcing of this revision). Distinct from Language A: Literature, already modeled elsewhere in this file: Language A: Language and Literature studies a wider mix of literary and non-literary text types across three areas of exploration (Readers, writers and texts; Time and space; Intertextuality: connecting texts). See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers for the current (post-2026-revision) course.',
+    notes: 'First assessment 2021, revised for May 2026 examinations onward (Paper 2\'s marking criteria and mark total changed; every other component confirmed unchanged -- see the matching assessment record for the detailed sourcing of this revision). Distinct from Language A: Literature, which has its own entry: Language A: Language and Literature studies a wider mix of literary and non-literary text types across three areas of exploration (Readers, writers and texts; Time and space; Intertextuality: connecting texts). See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers for the current (post-2026-revision) course.',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'psychology',
@@ -1677,7 +1677,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'DP psychology introduces students to the biological, cognitive and sociocultural approaches to understanding behaviour, applied through four contexts of study, at Standard Level (SL) and Higher Level (HL).',
     officialUrl: 'https://www.ibo.org/university-admission/latest-curriculum-updates/psychology-updates/',
     verifiedOn: '2026-09-08',
-    notes: 'IB is running two psychology specifications side by side during a transition. The earlier course (first assessment 2019, still examined for cohorts partway through it) covers three core approaches to understanding behaviour -- biological, cognitive and sociocultural -- plus one of four options (abnormal, developmental, health, or relationships psychology) and a research/ethics strand running throughout, assessed via an experimental-study internal assessment. The new course (launched February 2025, first teaching August 2025, first assessment May 2027, confirmed directly against the official public subject brief) restructures around four concepts (bias, causality, change, measurement, perspective, responsibility) explored through four contexts (health and well-being; human development; human relationships; learning and cognition), with Higher-Level-only extensions covering culture, motivation and technology plus data analysis and interpretation, assessed via a research-proposal internal assessment. See the two matching assessment records (2019 marked `legacy-teach-out` and 2027 marked `current` since 2026-09-17, because teaching of the new course began in August 2025) for the sourced paper-by-paper breakdown of both.',
+    notes: 'IB is running two psychology specifications side by side during a transition. The earlier course (first assessment 2019, still examined for cohorts partway through it) covers three core approaches to understanding behaviour -- biological, cognitive and sociocultural -- plus one of four options (abnormal, developmental, health, or relationships psychology) and a research/ethics strand running throughout, assessed via an experimental-study internal assessment. The new course (launched February 2025, first teaching August 2025, first assessment May 2027, confirmed directly against the official public subject brief) restructures around four concepts (bias, causality, change, measurement, perspective, responsibility) explored through four contexts (health and well-being; human development; human relationships; learning and cognition), with Higher-Level-only extensions covering culture, motivation and technology plus data analysis and interpretation, assessed via a research-proposal internal assessment. See the two matching assessment records (the 2019 course being taught out and the 2027 course current since 2026-09-17, because teaching of the new course began in August 2025) for the sourced paper-by-paper breakdown of both.',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'environmental-systems-and-societies',
