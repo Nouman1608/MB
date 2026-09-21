@@ -138,6 +138,14 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 50 (2026-11-26, Q431): D-266 verified.** E945 and I402 are closed; no confirmed-error group is open.
+  Open work: **I403** (38 reader-facing references to research sessions and tooling on 15 hubs: 'directly fetched and
+  read this session' and variants on 13 IB DP hubs, the MYP Language Acquisition hub and the Cambridge O Level Mathematics
+  hub; 'a prior session's claim' and 'an earlier session' on ESS and Global Politics; 'available tooling' on Biology,
+  Chemistry and both Mathematics hubs; add those words to rule 7) and **I404** (the IB Economics note's '6 IB DP subject
+  combinations remain without a published assessment record' and '8 newly modeled' no longer match the 17 IB DP records).
+  I396's OCR series wording and the 0539 dispute are still deferred; U76-U78 are with the owner.
+
 - **Round 49 (2026-11-25, Q430): D-265 verified.** E944 and I401 are closed. Open work: **E945** (the 9201, 9202
   and 9620 source strings say "re-checked against it, 2026-09-08" where D-238 and the same line say 2026-09-16; the
   YBS11 note still says unit codes are cited bare, contradicting relatedCodes WBS11/01-WBS14/01 and the six resources)
