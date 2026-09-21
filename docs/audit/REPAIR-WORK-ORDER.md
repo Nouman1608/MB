@@ -138,6 +138,11 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 53 (2026-11-29; run 2026-09-21, 19:45 PKT, Q434): D-274 verified.** I407 is closed and nothing new is recorded.
+  No repair work is open from rounds 49 to 52. Still open: U78 (needs the IB ESS guide); I396's OCR series wording and
+  the 0539 dispute (deferred); the 0264 sub-topic list and the DP Computer Science (2027) record (deferred); the owner's
+  5014 companions and native Arabic and Urdu reads.
+
 - **Round 52 (2026-11-28; run 2026-09-21, 19:26 PKT, Q433): D-273 verified.** I405 and I406 are closed. Open work:
   **I407** ((1) 'its first and final assessment years are ...' starts a sentence in lower case on the IGCSE Statistics
   and Commerce hubs; (2) 'should be re-checked for a successor ... when next touched' is still on the O Level Business,
