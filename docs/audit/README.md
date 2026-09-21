@@ -88,6 +88,7 @@ corpus briefly ended up worse than baseline on five files — see the amendment 
 | `2026-11-30-findings.md` | Round 54 (2026-09-21, 19:50 PKT): open leads settled — 9685 settled; E360, E539, E822, E850, E866 confirmed settled by round 28; results accepted by the owner; I408 (IB taught-out courses' last assessment). **0 confirmed-error groups open.** |
 | `2026-12-01-findings.md` | Round 55 (2026-09-21, 20:26 PKT): D-275 and D-276 verified — I408, U78 and the Islamiyat Arabic item closed; I409 (5014 slips), I410 (9UR0 vowel marks). **0 confirmed-error groups open.** |
 | `2026-12-02-findings.md` | Round 56 (2026-09-21, 20:41 PKT): D-277 verified — I409, I410 and the U78 note closed; I411 (four residues). **0 confirmed-error groups open.** |
+| `2026-12-03-findings.md` | Round 57 (2026-09-21, 20:57 PKT): D-278 verified — I411 closed; nothing new. **0 confirmed-error groups open.** |
 | `2026-09-15-tier-resolution-response.md` | Cambridge 0620 tier question, resolved by coordinates. |
 | `correction-constraints.md` | **Standing rules. Start here.** |
 
@@ -171,9 +172,9 @@ finding against a snapshot that was three days old.
 
 | | |
 |---|---|
-| findings recorded | 1,836 |
-| confirmed errors open | **0 groups** *(reconciliation current through **D-277**; every declared closure D-138 to D-277 read. I396 (two points) and I411 open. **Not a statement that the site is correct.**)* |
-| declared closed by decision log D-138–D-277 | 880 |
+| findings recorded | 1,837 |
+| confirmed errors open | **0 groups** *(reconciliation current through **D-278**; every declared closure D-138 to D-278 read. I396 (two points, deferred) open. **Not a statement that the site is correct.**)* |
+| declared closed by decision log D-138–D-278 | 880 |
 | still open despite a closing round (deferred, partial, disputed, heading-only, or reopened) | 0 |
 | withdrawn by this audit | 1 (E746) |
 | resources read end to end | 1,251 of 1,251 baseline; all 1,645 on `main` at `251571e` read at least once (round 19). Board claims in the 397 post-baseline resources unchecked (U72). |
