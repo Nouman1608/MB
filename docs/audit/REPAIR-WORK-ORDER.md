@@ -138,6 +138,14 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 49 (2026-11-25, Q430): D-265 verified.** E944 and I401 are closed. Open work: **E945** (the 9201, 9202
+  and 9620 source strings say "re-checked against it, 2026-09-08" where D-238 and the same line say 2026-09-16; the
+  YBS11 note still says unit codes are cited bare, contradicting relatedCodes WBS11/01-WBS14/01 and the six resources)
+  and **I402** ("(U77)" on the IB Global Politics hub; "internalNotes" twice on the IB Psychology hub; "the validator
+  requires marks > 0" on the AQA GCSE English Language hub; "within the validator's tolerance" on the Edexcel A Level
+  Maths hub; "see that later work's own decision-log entry" on the IB Economics hub; "D-264" in the 9489 stub).
+  I396's OCR series wording and the 0539 dispute are still deferred; U76-U78 are with the owner.
+
 - **Round 48 (2026-11-24, Q429): D-262, D-263 and D-264 verified.** I400, E939 and the five I396 deferrals are
   closed. Open work: **E944** (0457 subtopic caveat; 9UR0 subtopic 1.3; the validator note rendering on the AS Business
   hub; two AQA AS Business content errors; the 9489 Paper 4 rotation claim) and **I401** (numbering, two Urdu diacritics,
