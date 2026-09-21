@@ -31,8 +31,8 @@ featured: false
 > the November series in Mauritius only). If you sit 5014 in November 2026 in
 > Mauritius, you sit the 2025-2026 syllabus (version 2), which differs: it has
 > nine topics instead of seven, Paper 1 is "Theory" (Section A 20 marks,
-> Section B 60 marks) and Paper 2 is "Management in context", and it sets a
-> case study for each topic. For this topic, the 2025-2026 syllabus makes
+> Section B 60 marks) and Paper 2 is "Management in context", and it lists a
+> recommended case study for each topic. For this topic, the 2025-2026 syllabus makes
 > energy a topic of its own (Topic 2 Energy and the environment, 2.1-2.6),
 > includes oil pollution in it, lists three biofuels rather than four, has
 > no hydrogen or heat pump content, and treats fracking as one example of
@@ -193,10 +193,10 @@ Background: heat pumps need electricity to run, but deliver more heat
 energy than the electrical energy they use. They work in most climates,
 not only in volcanic areas.
 
-**Benefits and limitations (1.5.3).** Reducing consumption, insulation
-and education are cheap to begin with but depend on people changing
-their behaviour. Efficient devices, electric vehicles, battery storage
-and heat pumps save energy over time but cost more to buy, and electric
+**Benefits and limitations (1.5.3).** Reducing consumption and
+education are cheap to begin with but depend on people changing their
+behaviour. Insulation, efficient devices, electric vehicles, battery
+storage and heat pumps save energy over time but cost more at the start, and electric
 vehicles and heat pumps are only as low-carbon as the electricity they
 use. Hydrogen fuels need new production, storage and distribution
 systems. Transport policies work best where public transport is
@@ -280,5 +280,6 @@ one (1000 / 3000 x 100 would give the wrong answer, 33%).
   pumps) are new.
 - **Fracking.** Once an example of research into new energy resources, it
   is now a sub-topic of its own with a definition.
-- **Case study.** The 2025-2026 case study of an oil pollution event is no
-  longer required.
+- **Case study.** The 2025-2026 syllabus recommended a case study of an oil
+  pollution event; the 2027-2029 syllabus has removed its recommended case
+  studies.

@@ -23,20 +23,19 @@ Cambridge IGCSE World History (0470). It is distinct from the site's existing gu
 [The Nineteenth Century, 1848-1914](/resources/igcse-world-history-nineteenth-century-1848-1914/) and
 [The Twentieth Century, 1919-1989](/resources/igcse-world-history-twentieth-century-1919-1989/), which
 cover the two Core Content options (every candidate studies one of the two) -- Depth Studies are a separate
-body of content, examined in Section B of Paper 1 (Core Content is examined in Section A), and a centre typically prepares candidates for
-only one of the five available.
+body of content, examined in Section B of Paper 1 (Core Content is examined in Section A), and every
+candidate studies at least one of the five.
 
 ## Where this fits in 0470
 
 Every 0470 candidate studies one Core Content option (either Option A, the Nineteenth Century, or Option B,
-the Twentieth Century) plus at least one Depth Study, chosen by their centre from five options: The First World War 1914-18, Germany 1918-45,
+the Twentieth Century) plus at least one Depth Study from five options: The First World War 1914-18, Germany 1918-45,
 Russia 1905-41, the United States 1919-41, and the Second World War in Europe and the Asia-Pacific
 1939-c.1945. On Paper 1 (Structured Questions), candidates answer two questions from Section A (Core
 Content) and one question from Section B, which sets two questions on each Depth Study. Depth Study content
 is also the basis of Paper 4 (Alternative to Coursework, one question from two per Depth Study) and can be
-the basis of Component 3 Coursework. Always confirm with a teacher which Depth Study a given centre has
-actually prepared, since this guide's content is directly useful only to candidates studying Depth Study A
-specifically.
+the basis of Component 3 Coursework. Confirm with your teacher which Depth Study your course covers:
+this guide is for Depth Study A.
 
 ## Syllabus coverage
 
@@ -45,17 +44,21 @@ specifically.
 - Background only, not Depth Study A content: the causes of the First World War (the alliance system,
   the arms race, colonial rivalry, the Balkans and the crisis of June-July 1914) are examined under Core
   Content Option A, key question 6, "What caused the First World War?"
-- The failure of the Schlieffen Plan and the shift from a war of rapid movement to a war of entrenched
-  stalemate on the Western Front
-- Trench warfare: conditions, tactics, and why both sides struggled to break the stalemate for most of the
-  war
-- New military technology and its impact: machine guns, poison gas, tanks, and aircraft
-- The wider conflict beyond the Western Front, including the war at sea and contributions from imperial
-  and colonial forces
-- The home front: the impact of total war on civilian populations, propaganda, and (in Britain) the move
-  toward conscription
-- Why the war ended when it did: the United States' entry, the German Spring Offensive of 1918, and the
-  Allied advance that led to the Armistice
+- Key question 1, "Why was there stalemate on the Western Front?": the Schlieffen Plan and how it worked
+  in practice (the German advance through Belgium, the British Expeditionary Force, Russian mobilisation);
+  the battles of Mons and the Marne, the race to the sea and the First Battle of Ypres; trench warfare and
+  the war of attrition; tanks, machine guns, aircraft and gas; the battles of Verdun and the Somme,
+  including Haig's leadership and tactics at the Somme
+- Key question 2, "To what extent was it a world war?": British Empire troops on the Western Front (case
+  studies of Indian and Canadian troops); the war in Africa (case studies of German East Africa and South
+  West Africa); Japan's contribution in Asia (the siege of Tsingtao, naval help securing the sea lanes);
+  the Arab Revolt
+- Key question 3, "How important were other fronts?": the war at sea (the Battle of Jutland, convoys,
+  submarines and the U-boat campaign); the Gallipoli campaign; the Eastern Front and the defeat of Russia;
+  the impact of war on civilian populations
+- Key question 4, "Why did Germany ask for an armistice in 1918?": the German offensive of 1918 and the
+  Allied advance, including the impact of American entry into the war; conditions in Germany at the end of
+  the war (the Kiel Mutiny, the German Revolution and the Kaiser's abdication); the Armistice
 
 ## How to approach it
 
@@ -67,12 +70,10 @@ question they answer.
 
 ## Official syllabus
 
-Cambridge IGCSE World History (0470) syllabus, for examination in 2024-2026 --
+Cambridge IGCSE History (0470) syllabus, for examination in 2024-2026 --
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/649636-2024-2026-syllabus.pdf).
-This guide's syllabus content was confirmed via official search summaries and specimen-paper references
-rather than a full page fetch of the linked PDF, since large syllabus documents exceed this tool's
-page-retrieval size limit; always check the current syllabus document directly for the complete content
-list before an exam.
+The syllabus coverage above was checked against this syllabus (Version 1) on 2026-09-21. Always check
+the current syllabus document for the complete content list before an exam.
 
 ## Why the Schlieffen Plan failed
 
@@ -98,7 +99,7 @@ The routine below is an original model written for this resource, not a reproduc
 paper or mark scheme.
 
 ```
-Key Question style: "Why did the war end in 1918?"
+Key question 4: "Why did Germany ask for an armistice in 1918?"
 
 Step 1 - identify multiple contributing factors, not a single
 cause:
@@ -138,5 +139,5 @@ the peace settlement of 1919.
 - Prepare a multi-factor explanation for why the war ended in 1918, with clear reasoning about relative
   importance.
 - Know specific named events, dates, and technologies rather than only general descriptions.
-- Confirm with a teacher that Depth Study A is the one the centre has actually prepared, since only one of
-  five options is typically studied.
+- Confirm with your teacher that Depth Study A is one your course covers: every candidate studies at
+  least one of the five.

@@ -24,33 +24,33 @@ Physical Geography Options) in Cambridge International A Level Geography (9696).
 site's existing guides to [Paper 1 Core Physical Geography](/resources/a-level-cambridge-geography-core-physical-geography/)
 and [Paper 2 Core Human Geography](/resources/a-level-cambridge-geography-core-human-geography/), which cover
 the compulsory core content studied by every candidate -- Paper 3's four options (Tropical environments,
-Coastal environments, Hazardous environments, and Hot arid and semi-arid environments) are studied only by
-candidates whose centre selects them, with each candidate answering on two of the four.
+Coastal environments, Hazardous environments, and Hot arid and semi-arid environments) are not all studied
+by every candidate: the syllabus says candidates must study two of the four, and answer on two in the exam.
 
 ## Where this fits in 9696
 
-Paper 3 tests two of the four Advanced Physical Geography options, each assessed with a 10-mark structured
-question and a choice of two 20-mark essay questions, of which candidates answer one. Because a centre
-typically teaches only two of the four options, this guide's coverage of Coastal Environments is directly
-useful only to candidates whose course includes it -- always confirm with a teacher which two options a
-given centre has selected before relying on this guide for exam preparation.
+Paper 3 (1 hour 30 minutes, 60 marks) has three questions on each of the four Advanced Physical Geography
+options, and candidates answer on two options: for each, a 10-mark structured question and one of two
+20-mark essay questions. This guide is useful to candidates who study Coastal environments as one of their
+two options -- confirm with your teacher which two options your course covers.
 
 ## Syllabus coverage
 
 **CAMBRIDGE A LEVEL GEOGRAPHY (9696) -- PAPER 3 OPTION: COASTAL ENVIRONMENTS**
 
-- Wave energy processes: wave generation, fetch, high- and low-energy waves, wave refraction, breaking
-  waves, swash and backwash
-- Sediment transport: traction, saltation, suspension, and longshore drift, together with sediment sources,
-  characteristics, and sediment cells
-- Marine erosion processes: hydraulic action, cavitation, corrasion/abrasion, solution, and attrition,
-  alongside sub-aerial processes of weathering and mass movement
-- Depositional landforms: beach profile and plan form, swash- and drift-aligned beaches, simple and
-  compound spits, tombolos, offshore bars, barrier beaches, coastal dunes, tidal sedimentation in
-  estuaries, coastal saltmarshes, and mangroves
-- The role of sea level change in shaping coastal landforms
-- Management strategies used to reduce threats to coastal areas, and evaluation of how successful those
-  strategies have been
+- 8.1 Coastal processes: wave generation and characteristics (fetch, energy, refraction, breaking waves,
+  high- and low-energy waves, swash and backwash); marine erosion (hydraulic action, cavitation,
+  corrasion/abrasion, solution and attrition); sub-aerial processes (weathering and mass movement); marine
+  transportation and deposition (sediment sources and characteristics, sediment cells and longshore drift)
+- 8.2 Coastal landforms: erosional landforms (cliffs and wave-cut platforms, caves, arches and stacks);
+  depositional landforms (beach profile and plan, swash- and drift-aligned beaches, simple and compound
+  spits, tombolos, offshore bars, barrier beaches, coastal dunes, tidal sedimentation in estuaries, coastal
+  saltmarshes and mangroves); the role of sea level change in forming coastal landforms
+- 8.3 Coral reefs: characteristics, distribution and formation of fringing reefs, barrier reefs and atolls;
+  conditions required for coral growth; threats (global warming, sea-level rise, pollution, physical damage)
+  and possible management strategies
+- 8.4 Sustainable management of coasts: a case study of the problems of sustainably managing a stretch or
+  stretches of coastline, evaluating attempted solutions, including hard and soft engineering
 
 ## How to approach it
 
@@ -63,9 +63,9 @@ management response" for each major feature pays off across both the structured 
 
 Cambridge International A Level Geography (9696) syllabus, for examination in 2025-2026 --
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/664556-2025-2026-syllabus.pdf).
-This guide's syllabus content was confirmed via official search summaries rather than a full page fetch of
-the linked PDF, since large syllabus documents exceed this tool's page-retrieval size limit; always
-check the current syllabus document directly for the complete, authoritative wording before an exam.
+The syllabus coverage above was checked against this syllabus (Version 1) on 2026-09-21. This guide
+explains 8.1, 8.2 and 8.4 in depth; for 8.3 Coral reefs, work from the syllabus list above with your
+teacher. Always check the current syllabus document for the complete, authoritative wording before an exam.
 
 ## Wave energy: constructive vs destructive waves
 
@@ -141,5 +141,5 @@ benefits.
   consequences.
 - Practise the structured-question format (10 marks) separately from the extended essay format (20 marks),
   since they reward different levels of development.
-- Confirm with a teacher that Coastal Environments is one of the two options actually studied, since Paper
-  3 covers only two of the four available options.
+- Confirm with your teacher that Coastal environments is one of your two options: Paper 3 covers all four,
+  and you answer on the two you studied.

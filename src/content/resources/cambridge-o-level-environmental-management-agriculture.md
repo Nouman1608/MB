@@ -44,41 +44,52 @@ since agricultural practices affect both.
 
 **CAMBRIDGE O LEVEL ENVIRONMENTAL MANAGEMENT (5014) -- TOPIC 3: AGRICULTURE AND THE ENVIRONMENT**
 
-- Farming systems: the distinction between subsistence and commercial farming, and between intensive and
-  extensive methods of production
-- Soil degradation caused by agriculture, including soil erosion and desertification linked to farming
-  practices
-- The environmental impact of agricultural inputs, including fertilisers and pesticides, on soil, water
-  and wider ecosystems
-- Sustainable approaches to farming that reduce environmental harm while maintaining productive output
-- Soils: their composition (3.1), soils as a medium for plant growth, and the differences between a sandy
-  and a clay soil in air content, water content, drainage and ease of cultivation (3.2)
+- 3.1 Soil composition: mineral particles, organic content, air and water; particle size (sand, silt, clay)
+- 3.2 Soils for plant growth: mineral ions (nitrate, phosphate and potassium ions), organic content and pH;
+  the differences between a sandy and a clay soil in air content, water content, drainage and ease of
+  cultivation
+- 3.3 Agriculture types: arable, pastoral and mixed; subsistence and commercial
+- 3.4 Increasing agricultural yields: rotation, fertilisers, irrigation, insect, weed and fungi control,
+  mechanisation, selective breeding, genetically modified organisms, and controlled environments
+  (greenhouses and hydroponics)
+- 3.5 Impact of agriculture on the environment and people: overuse of insecticides, herbicides and
+  fertilisers, salinisation and waterlogging from mismanaged irrigation, overproduction and waste,
+  exhaustion of mineral ion content, soil erosion, and cash crops replacing food crops
+- 3.6 Causes and impacts of soil erosion: removal of natural vegetation by over-cultivation and
+  overgrazing, water and wind erosion; loss of habitats, desertification, silting of rivers,
+  displacement of people, malnutrition and famine
+- 3.7 Managing soil erosion: terracing, contour ploughing, bunds, wind breaks, maintaining vegetation
+  cover, adding organic matter, and planting trees, mixed cropping, intercropping and crop rotation
+- 3.8 Sustainable agriculture: organic fertiliser, managed grazing, crop rotation, pest- and
+  drought-resistant crop varieties, trickle drip irrigation and rainwater harvesting
+- Recommended case study: an example where agriculture has had severe environmental consequences,
+  including soil erosion, and strategies for the conservation of the soil (teachers choose the example)
 
 ## How to approach it
 
-Questions on this topic frequently ask candidates to compare the environmental consequences of different
-farming approaches -- for example, intensive versus extensive farming, or a sustainable practice versus a
-conventional one -- so revision benefits from preparing direct comparisons rather than learning each farming
-method in isolation.
+Several sub-topics ask you to "describe and explain", so for each technique or impact be ready to say how
+it works, not only what it is. Comparing pairs -- a sustainable practice against a conventional one, or a
+sandy soil against a clay soil -- is a good way to revise, because it makes you state the mechanism.
 
 ## Official syllabus
 
 Cambridge O Level Environmental Management (5014) syllabus, for examination in 2025-2026 --
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/664483-2025-2026-syllabus.pdf).
-This guide's syllabus content was confirmed via official search summaries rather than a full page fetch of
-the linked PDF, since large syllabus documents exceed this tool's page-retrieval size limit; always
-check the current syllabus document directly for the complete, authoritative wording before an exam.
+The syllabus coverage above was checked against this syllabus (Version 2) on 2026-09-21. Always check
+the current syllabus document for the complete, authoritative wording before an exam.
 
 ## Intensive vs extensive farming
 
-Intensive farming aims to maximise output from a given area of land, typically through high inputs of
+Topic 3 names farming types as arable, pastoral and mixed, and subsistence and commercial (3.3); the
+syllabus mentions intensive agricultural practices only in Topic 9, as a cause of habitat loss. The
+distinction is still useful background for 3.4 and 3.5. Intensive farming aims to maximise output from a given area of land, typically through high inputs of
 labour, capital, fertiliser and pesticides -- this can produce high yields but often at a greater
 environmental cost, including soil nutrient depletion and chemical runoff into water sources. Extensive
 farming uses a larger area of land relative to the inputs applied, producing lower yields per unit of land
 but generally placing less concentrated pressure on any single area's soil and water resources. Neither
 approach is universally "better" -- the environmental trade-off depends on the specific practices used
-within each system, which is why exam answers that simply label intensive farming as bad and extensive
-farming as good tend to lose marks for oversimplification.
+within each system, so an answer that simply labels intensive farming as bad and extensive farming as
+good is oversimplified.
 
 ## Soil erosion and desertification
 

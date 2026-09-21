@@ -24,8 +24,8 @@ featured: false
 > the November series in Mauritius only). If you sit 5014 in November 2026 in
 > Mauritius, you sit the 2025-2026 syllabus (version 2), which differs: it has
 > nine topics instead of seven, Paper 1 is "Theory" (Section A 20 marks,
-> Section B 60 marks) and Paper 2 is "Management in context", and it sets a
-> case study for each topic. For this topic, the 2025-2026 syllabus has Topic 3
+> Section B 60 marks) and Paper 2 is "Management in context", and it lists a
+> recommended case study for each topic. For this topic, the 2025-2026 syllabus has Topic 3
 > Agriculture and the environment in eight sub-topics (3.1-3.8), compares
 > sandy and clay soils rather than explaining loam, includes selective
 > breeding, and has a separate sub-topic on sustainable agriculture. Use the
@@ -287,5 +287,6 @@ and surface run-off (2.3.3).
 - **Soil erosion.** Causes add deforestation, farming on steep slopes and
   bare soil; impacts add mass movement and reduced crop yield; the
   strategies now carry the syllabus's own explanation of how each works.
-- **Case study.** The 2025-2026 case study of agriculture with severe
-  environmental consequences is no longer required.
+- **Case study.** The 2025-2026 syllabus recommended a case study of
+  agriculture with severe environmental consequences; the 2027-2029
+  syllabus has removed its recommended case studies.

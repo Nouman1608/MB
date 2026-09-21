@@ -23,7 +23,7 @@ featured: false
 > nine topics instead of seven, Paper 1 is "Theory" with Section A (20 marks)
 > and Section B (60 marks), Paper 2 is "Management in context", the
 > assessment objectives are weighted AO1 40%, AO2 35% and AO3 25%, and it
-> sets a case study for each topic and a glossary of terms instead of a
+> lists a recommended case study for each topic and a glossary of terms instead of a
 > command word list. Use the
 > [2025-2026 exam preparation page](/resources/cambridge-o-level-environmental-management-exam-preparation/)
 > if you sit in November 2026.
