@@ -138,6 +138,13 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 52 (2026-11-28; run 2026-09-21, 19:26 PKT, Q433): D-273 verified.** I405 and I406 are closed. Open work:
+  **I407** ((1) 'its first and final assessment years are ...' starts a sentence in lower case on the IGCSE Statistics
+  and Commerce hubs; (2) 'should be re-checked for a successor ... when next touched' is still on the O Level Business,
+  IGCSE English Literature and IGCSE Commerce hubs; (3) backticked `legacy-teach-out`, `current` and `code` on 9 IB hubs
+  and 'The ten ib-dp-chemistry-* resource files' twice on IB Chemistry; add backticked tokens and the to-do phrase to
+  rule 7). U78 needs the IB ESS guide; I396's OCR series wording and the 0539 dispute are still deferred.
+
 - **Round 51 (2026-11-27, Q432): D-267 to D-272 verified.** I403 and I404 are closed; U76, U77 and I393 are closed by
   the owner's decisions. Open work: **I405** (65 record field names such as firstAssessment, alternativeGroup,
   finalAssessment, relatedCode and specStatus in reader-facing notes on 44 hubs, plus 'I282' twice on IB Chemistry,
