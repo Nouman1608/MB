@@ -155,13 +155,21 @@ const { SYLLABUS_TOPICS } = load('src/data/academic/syllabus-topics.ts');
 // multiple boards) unless the key includes the board.
 const topicKey = (boardSlug, subjectSlug, qualificationSlug) => `${boardSlug}|${subjectSlug}|${qualificationSlug}`;
 const topicIndex = new Map();
+// D-276: a code may keep two full records while an outgoing edition still
+// has a final sitting (5014: 2025-2026 kept for November 2026 in Mauritius,
+// 2027-2029 current). Resources written against either edition must
+// validate, so records sharing a board+subject+qualification key are merged
+// (union of slugs) rather than the later one silently replacing the earlier.
 for (const s of SYLLABUS_TOPICS) {
-  topicIndex.set(topicKey(s.boardSlug, s.subjectSlug, s.qualificationSlug), {
-    topics: new Set(s.topics.map((t) => t.slug)),
-    subtopics: new Set(s.topics.flatMap((t) => t.subtopics.map((st) => st.slug))),
+  const key = topicKey(s.boardSlug, s.subjectSlug, s.qualificationSlug);
+  const entry = topicIndex.get(key) ?? { topics: new Set(), subtopics: new Set(), stageByTopic: new Map() };
+  for (const t of s.topics) {
+    entry.topics.add(t.slug);
     /** topic slug -> stage ('AS'|'A'|undefined). 9701 only; unset for 0620/5070. */
-    stageByTopic: new Map(s.topics.map((t) => [t.slug, t.stage])),
-  });
+    entry.stageByTopic.set(t.slug, t.stage);
+    for (const st of t.subtopics) entry.subtopics.add(st.slug);
+  }
+  topicIndex.set(key, entry);
 }
 
 const topicErrors = [];

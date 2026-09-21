@@ -36,8 +36,9 @@ becomes three sub-topics (energy resources; conservation and
 management of energy resources, including new ground- and air-source
 heat pump content; fracking) within a Natural Resources topic that
 also covers rocks and minerals. If your course has moved to that
-edition, use the 0680 Natural Resources guide's energy coverage as the
-closer match, pending a dedicated update for 5014's incoming edition.
+edition, use the
+[2027-2029 Energy Resources guide](/resources/o-level-cambridge-environmental-management-energy-resources/)
+instead.
 
 ## Where this fits in 5014
 

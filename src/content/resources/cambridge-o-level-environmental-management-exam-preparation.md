@@ -29,7 +29,8 @@ and [Energy and the Environment](/resources/o-level-cambridge-environmental-mana
 November 2026 series in Mauritius only. The already-published **2027-2029 edition** restructures the
 subject into seven topics, renames both papers (Paper 1 Principles of Environmental Management, Paper 2
 Environmental Management in Context) and changes the assessment weightings — check which edition your
-course is using before relying on the paper structure described here.
+course is using before relying on the paper structure described here. For the 2027-2029 papers, use the
+[2027-2029 exam preparation page](/resources/cambridge-o-level-environmental-management-exam-preparation-2027-2029/).
 
 ## Both papers are source-based -- this is not a recall qualification
 

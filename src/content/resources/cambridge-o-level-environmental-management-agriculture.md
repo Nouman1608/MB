@@ -28,7 +28,8 @@ how a human activity essential to daily life places pressure on natural environm
 **Note:** 5014 also has an already-published **2027-2029 edition** that restructures the subject into
 seven topics (matching sibling IGCSE 0680). The outgoing nine-topic syllabus this guide follows is
 available for its final sitting in only one administrative territory (Mauritius, November series) —
-check which edition your course is using.
+check which edition your course is using. For the 2027-2029 edition, where this content becomes Topic 2
+Land, use the [2027-2029 Land guide](/resources/cambridge-o-level-environmental-management-land/).
 
 ## Where this fits in 5014
 

@@ -37,10 +37,9 @@ becomes three sub-topics within a Natural Resources topic rather than
 its own topic, rocks content is renumbered, and an "ore" definition
 and a third extraction method -- biological extraction -- are added).
 If your course has moved to that edition, this guide's topic numbering
-and some content below will not match your syllabus; use the 0680
-Natural Resources guide's coverage of rocks and extraction as the
-closer match instead, pending a dedicated update for 5014's incoming
-edition.
+and some content below will not match your syllabus; use the
+[2027-2029 Rocks, Ores and Minerals guide](/resources/o-level-cambridge-environmental-management-rocks-ores-and-minerals/)
+instead.
 
 ## Where this fits in 5014
 

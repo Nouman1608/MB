@@ -1416,8 +1416,8 @@ export const SYLLABUSES: readonly Syllabus[] = [
     boardSummary:
       'Cambridge O Level Environmental Management teaches learners about sustainable development in a world where the security of resources and life-sustaining systems is affected by human impact.',
     officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-environmental-management-5014/',
-    verifiedOn: '2026-08-21',
-    notes: 'Coverage note: every Marlbridge resource for 5014 currently follows the 2025-2026 edition (nine topics), whose final sitting is the November 2026 series in Mauritius only. The site does not yet cover the 2027-2029 edition, which restructures the subject into seven topics - candidates sitting 5014 from 2027 should work from the board\'s 2027-2029 syllabus.',
+    verifiedOn: '2026-09-21',
+    notes: 'Coverage note: 5014 has two editions in use. The 2027-2029 edition (seven topics; Paper 1 Principles of Environmental Management and Paper 2 Environmental Management in Context) is the series shown on this page, with resources for Topic 1 Natural resources (rocks, ores and minerals; energy), Topic 2 Land and exam preparation. The 2025-2026 edition (nine topics) has its final sitting in the November 2026 series, in Mauritius only; the resources written for it say so and each links to its 2027-2029 companion.',
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'statistics',

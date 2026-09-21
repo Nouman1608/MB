@@ -27,7 +27,8 @@ Related: [Rocks and Minerals revision notes](/resources/o-level-environmental-ma
 
 **Note:** these questions follow the **outgoing 2025-2026 edition** of 5014 (nine-topic structure,
 final sitting available in Mauritius only). A 2027-2029 edition with a different, seven-topic structure
-has already been published — check which edition your course is using.
+has already been published — check which edition your course is using. For the 2027-2029 edition, use the
+[2027-2029 Rocks, Ores and Minerals practice questions](/resources/o-level-environmental-management-rocks-ores-minerals-practice/).
 
 ---
 

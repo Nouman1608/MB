@@ -30,7 +30,8 @@ different, seven-topic structure (energy becomes three sub-topics of a
 Natural Resources topic rather than its own topic). These notes follow
 the outgoing nine-topic syllabus, available for its final sitting in
 only one administrative territory (Mauritius) — check which edition
-your course is using.
+your course is using. For the 2027-2029 edition, use the
+[2027-2029 Energy Resources revision notes](/resources/o-level-environmental-management-energy-resources-revision-notes/).
 
 ## 2.1 Fossil fuel formation
 

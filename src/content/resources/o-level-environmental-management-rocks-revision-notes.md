@@ -25,7 +25,9 @@ structure). For the full explanation, use the
 **Note:** 5014 also has an already-published 2027-2029 edition with a different, seven-topic structure
 that renumbers rocks content and adds an "ore" definition and biological extraction as a third
 extraction method. These notes follow the outgoing syllabus, available for its final sitting in only
-one administrative territory (Mauritius) — check which edition your course is using.
+one administrative territory (Mauritius) — check which edition your course is using. For the 2027-2029
+edition, use the
+[2027-2029 Rocks, Ores and Minerals revision notes](/resources/o-level-environmental-management-rocks-ores-minerals-revision-notes/).
 
 ## Rock types
 

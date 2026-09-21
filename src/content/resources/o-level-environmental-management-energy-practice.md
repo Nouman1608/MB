@@ -28,7 +28,8 @@ Related: [Topic 2 study guide](/resources/o-level-cambridge-environmental-manage
 **Note:** these questions follow the **outgoing 2025-2026 edition** of 5014, where energy is its own
 topic (nine-topic structure, final sitting available in Mauritius only). A 2027-2029 edition, with a
 different seven-topic structure in which energy becomes three sub-topics of Natural Resources, has
-already been published — check which edition your course is using.
+already been published — check which edition your course is using. For the 2027-2029 edition, use the
+[2027-2029 Energy Resources practice questions](/resources/o-level-environmental-management-energy-resources-practice/).
 
 ---
 
