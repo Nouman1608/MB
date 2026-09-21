@@ -1557,7 +1557,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'MYP language acquisition develops proficiency in an additional language across listening, reading, speaking and writing, alongside intercultural understanding, and is compulsory in every year of the programme except for bilingual students following the language-and-literature route.',
     officialUrl: 'https://www.ibo.org/globalassets/new-structure/brochures-and-infographics/pdfs/myp-brief-language-acquisition-2020-en.pdf',
     verifiedOn: '2026-09-04',
-    notes: 'Source is the public IB MYP Language Acquisition subject brief ("From 2020"; fetched via a school-hosted mirror of the identical ibo.org PDF after the direct ibo.org URL returned no readable content on 2026-09-04). No syllabus code exists at MYP level -- \'MYP Language Acquisition\' is used as this record\'s own `code`. See this subject\'s own assessment-structure record for the sourced criterion-based assessment breakdown.',
+    notes: 'Source is the public IB MYP Language Acquisition subject brief ("From 2020"; first read from a school-hosted copy on 2026-09-04 and re-checked against the IB\'s own copy at ibo.org on 2026-09-21). No syllabus code exists at MYP level -- \'MYP Language Acquisition\' is used as this record\'s own `code`. See this subject\'s own assessment-structure record for the sourced criterion-based assessment breakdown.',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'physics',

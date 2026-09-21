@@ -670,6 +670,11 @@ const jsonLd = [
                     This qualification offers alternative routes built from the components above — candidates complete one full route, not every component listed. See the source notes below for exactly which components make up each route.
                   </p>
                 )}
+                {a.marksSourceNote && (
+                  <p class="m-0 mt-3 rounded-sm border-l-2 border-gold-500 pl-3 text-[13.5px] leading-[1.6] text-ink-mute" data-marks-source-note>
+                    <span class="font-medium text-navy-800">Not all of these figures come from {c.board} documents:</span> {a.marksSourceNote}
+                  </p>
+                )}
                 <p class="m-0 mt-3 text-[13px] text-ink-mute">
                   Source: <a href={a.officialSourceUrl} rel="nofollow noopener" class="underline decoration-rule underline-offset-2">official {c.board} specification</a>, verified {a.verifiedOn}.
                   {a.notes && <> {a.notes}</>}

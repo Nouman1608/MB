@@ -132,12 +132,8 @@ function tierBlocks(a: Assessment) {
  * figures instead of claiming board sourcing for them. Taken from each
  * record's own notes in assessments.ts.
  */
-const MARKS_SOURCING_NOTE: Record<string, string> = {
-  'ib|DP Psychology (2019)':
-    "The IB's public subject brief for this course gives durations and weightings but no marks. The Paper 1 and Paper 3 totals shown were read from copies of May 2019 IB markschemes found on third-party websites; the Paper 2 total was carried over from an earlier check whose source the record does not name; and the internal assessment's 22 marks came from third-party teacher resources. None was read from a document published by the IB.",
-};
 const marksNote = (a: Assessment): string | undefined =>
-  MARKS_SOURCING_NOTE[`${a.boardSlug}|${a.code}`]
+  a.marksSourceNote
   ?? (a.mirrorSourceUrl ? "Some figures in this record were read from a copy of the board's document hosted on a third-party website, not from the board's own site." : undefined);
 const comparisonPairs = transitionPairs().map((p) => {
   const c = comboFor(p.newer) ?? comboFor(p.older);
