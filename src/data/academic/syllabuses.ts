@@ -826,7 +826,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'Pearson Edexcel International Advanced Level Business develops learners\' understanding of business concepts, decision-making and strategy through a modular four-unit structure.',
     officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-advanced-levels/business-2018.html',
     verifiedOn: '2026-09-17',
-    notes: 'Issue 1, September 2017. Modular qualification: International AS (units 1-2, code XBS11) covering Marketing and people, and Managing business activities; full International A Level (units 1-4, code YBS11) adds Business decisions and strategy, and Global business. The qualification code (YBS11) is recorded alone here; the four unit codes (WBS11-WBS14) and the AS cash-in code (XBS11) are recorded separately as related codes, cited bare (without the /01 paper suffix) by every resource that names a unit.',
+    notes: 'Issue 1, September 2017. Modular qualification: International AS (units 1-2, code XBS11) covering Marketing and people, and Managing business activities; full International A Level (units 1-4, code YBS11) adds Business decisions and strategy, and Global business. The qualification code (YBS11) is recorded alone here; the four unit codes, printed in the specification as WBS11/01, WBS12/01, WBS13/01 and WBS14/01, and the AS cash-in code (XBS11) are recorded separately as related codes, and every resource that names a unit cites it in that printed form.',
   },
   {
     boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'business',

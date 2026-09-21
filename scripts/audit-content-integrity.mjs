@@ -155,6 +155,15 @@ const INTERNAL_NOTE_PATTERNS = [
   // just missing the directory, so it slipped past the original pattern.
   { re: /\b(?:syllabuses|syllabus-topics|assessments|matrix)\.ts\b/, label: 'internal dataset filename' },
   { re: /\bNO_ASSESSMENT_RECORD\b/, label: 'internal sentinel/enum value' },
+  // Round 49 (I402, D-266): shapes the D-NNN pattern could not see. Each was
+  // tested against a full build before being added: zero matches on any page.
+  // Caveat: food-additive E-numbers E900-E999 (e.g. E951) have the same shape
+  // as an E9NN finding ID; if a resource ever cites one, narrow that pattern
+  // rather than rewording the resource.
+  { re: /\binternalNotes\b/, label: 'internal field name (internalNotes)' },
+  { re: /\bvalidator(?:'s|s)?\b/, label: 'reference to an internal validator' },
+  { re: /\bdecision[- ]log\b/i, label: 'reference to the decision log' },
+  { re: /\b(?:E9\d\d|I[34]\d\d|U7\d|Q4\d\d)\b/, label: 'audit finding ID' },
 ];
 const excludedFromNoteScan = new Set(['/search/']); // Pagefind's own index page can legitimately mention file-path-shaped strings in indexed snippets
 for (const file of builtHtmlFiles) {
