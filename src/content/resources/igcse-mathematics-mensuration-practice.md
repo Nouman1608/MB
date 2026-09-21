@@ -26,7 +26,7 @@ syllabusTopics:
     topic: "mensuration-cambridge-igcse-maths"
     subtopic: "compound-shapes-and-parts-of-shapes-cambridge-igcse-maths"
 description: "Original exam-style practice questions with full worked answers on units of measure, area, perimeter, circles, arcs, sectors, surface area, volume and compound shapes for Cambridge IGCSE Mathematics 0580."
-author: "nouman-ahmed"
+author: "marlbridge-academic-team"
 publishedDate: 2026-09-01
 featured: false
 ---

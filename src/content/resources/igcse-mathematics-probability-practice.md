@@ -23,7 +23,7 @@ syllabusTopics:
     topic: "probability-cambridge-igcse-maths"
     subtopic: "conditional-probability-cambridge-igcse-maths"
 description: "Original exam-style practice questions with full worked answers on basic probability, relative and expected frequency, combined events and conditional probability for Cambridge IGCSE Mathematics 0580."
-author: "nouman-ahmed"
+author: "marlbridge-academic-team"
 publishedDate: 2026-09-01
 featured: false
 ---

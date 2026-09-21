@@ -32,7 +32,7 @@ syllabusTopics:
     topic: "coordinate-geometry-cambridge-igcse-maths"
     subtopic: "perpendicular-lines-cambridge-igcse-maths"
 description: "Original exam-style practice questions with full worked answers on coordinates, gradient, straight-line equations, length, midpoint, and parallel/perpendicular lines for Cambridge IGCSE Mathematics 0580."
-author: "nouman-ahmed"
+author: "marlbridge-academic-team"
 publishedDate: 2026-09-01
 featured: false
 ---

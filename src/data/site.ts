@@ -19,7 +19,9 @@ export const site = {
   defaultDescription:
     'Live teaching from Pakistan. Online tutoring for learners anywhere. A free study library built for the international curricula studied across the Gulf, South Asia, the UK and beyond.',
   locale: 'en',
-  founding: 'Learners Academy — a Marlbridge education institution.',
+  /** Owner decision 2026-09-21 (I393 (14)): Learners Academy operates
+   *  Marlbridge, which is its branch teaching students worldwide. */
+  founding: 'Marlbridge is the international branch of Learners Academy, teaching students around the world.',
   /**
    * Only add entries for accounts that actually confirmed exist AND are
    * currently live (used for sameAs). LinkedIn and Facebook URLs

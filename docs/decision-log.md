@@ -13048,3 +13048,17 @@ E939, I400 and the five I396 deferrals are closed by the audit. Remaining: U76, 
 **Still open within U76 (5).** No teacher profile yet covers Psychology, Sociology, Geography or Global Perspectives, which the site still presents as taught.
 
 **Validation.** `astro check` 0 errors; every validator and regression check passes (commercial claims included, against the updated subject pages); negative suite 35/35; functions tests 31 pass; duplicate-scope check (the 4 pre-existing groups only); build 2143 HTML files; `audit:all` 0 problems across 2142 pages. Rendered: both IB hubs show the resources-only answers and carry no Course schema, the Economics hub still shows "Yes" and its Course schema; the IB board page says 19 of 21 and the Diploma Programme level page 14 of 16.
+
+## D-271 - Owner decisions on I393: Learners Academy branch, worldwide online teaching, Academic Team byline, maths attribution (2026-09-21)
+
+**Trigger.** The owner answered I393 on 2026-09-21: "Dr Salman teaches Business studies"; "just say Academic team everywhere"; "we teach online students throughout the world"; "Learners Academy operates Marlbridge, I want to represent it as a branch of Learners Academy teaching Students from all around the world"; and "Sir Nouman (I) teach only Chemistry, Academic team wrote Mathematics resources".
+
+| Item | Files | What changed |
+|---|---|---|
+| Business Studies teacher | `authors/salman-ahmad.md`, `learners-academy-evidence.ts` | Dr Salman Ahmad's role and `subjectsTaught` add Business Studies. The results note now says most of the published grades are Business Studies, taught by Dr Salman Ahmad (the rest Economics, Accounting and Urdu). |
+| Academic Team byline | `resources/index.astro`, `ResourcesSection.astro`, `i18n/pages/directories.ts` (ar/ur/bn), `authors/marlbridge-academic-team.md` | "written by Marlbridge's teachers and academic team" becomes "written by the Marlbridge Academic Team" in English, Arabic, Urdu and Bengali. The team's profile says it is an organisational credit, not a person. |
+| Worldwide online teaching | `GlobalVision.astro` | "We teach in person at our academy in Lahore and online to students throughout the world." |
+| Branch of Learners Academy | `site.ts` (`founding`), `LearnersAcademy.astro`, `about/index.astro` (description, heading, paragraph), `AcademyResults.astro`, `i18n/pages/marketing.ts` (ar/ur/bn about description and paragraph) | "Learners Academy is the founding academy behind Marlbridge" becomes "Marlbridge is the international branch of Learners Academy, teaching students around the world"; Learners Academy operates Marlbridge, and its teachers teach under the Marlbridge name in person in Lahore and online. The privacy page already names Learners Academy as the operator. |
+| Mathematics attribution | 7 `igcse-mathematics-*-practice.md` resources (statistics, probability, mensuration, coordinate geometry, trigonometry, transformations and vectors, geometry) | `author` changed from `nouman-ahmed` to `marlbridge-academic-team`. All 188 resources still credited to Sir Nouman Ahmed are Chemistry, matching his profile (Chemistry only). |
+
+**Validation.** `astro check` 0 errors; `validate:academic`, `validate:assessments`, `validate:pinned-teachers`, `validate:practice-schema` pass; `test:i18n-routes` passes; build clean; `audit:all` 0 problems across 2142 pages. Rendered: no built page contains "founding academy"; the About page carries the branch wording; the IGCSE Mathematics geometry practice page is bylined Marlbridge Academic Team.

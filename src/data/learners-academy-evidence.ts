@@ -77,7 +77,7 @@ export const LA_EVIDENCE = {
    * teaches, which these figures do not evidence.
    */
   subjectNote:
-    'Most of these grades are Business Studies, because most were sent directly to Nouman Ahmed, who teaches it. The rest are Economics, Accounting and Urdu. They are not a sample across every subject taught.',
+    'Most of these grades are Business Studies, taught by Dr Salman Ahmad. The rest are Economics, Accounting and Urdu. They are not a sample across every subject taught.',
   verificationNote:
     'Each grade was shared by the student or parent after results day, and checked against the official Cambridge International Statement of Results where one was sent.',
 

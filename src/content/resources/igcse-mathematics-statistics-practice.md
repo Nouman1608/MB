@@ -32,7 +32,7 @@ syllabusTopics:
     topic: "statistics-cambridge-igcse-maths"
     subtopic: "histograms-cambridge-igcse-maths"
 description: "Original exam-style practice questions with full worked answers on classifying and interpreting data, averages, range, charts, scatter diagrams, cumulative frequency and histograms for Cambridge IGCSE Mathematics 0580."
-author: "nouman-ahmed"
+author: "marlbridge-academic-team"
 publishedDate: 2026-09-01
 featured: false
 ---

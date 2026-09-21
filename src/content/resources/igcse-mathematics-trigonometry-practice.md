@@ -29,7 +29,7 @@ syllabusTopics:
     topic: "trigonometry-cambridge-igcse-maths"
     subtopic: "pythagoras-theorem-and-trigonometry-cambridge-igcse-maths"
 description: "Original exam-style practice questions with full worked answers on Pythagoras' theorem, right-angled and non-right-angled triangle trigonometry, exact values, trig functions and 3D problems for Cambridge IGCSE Mathematics 0580."
-author: "nouman-ahmed"
+author: "marlbridge-academic-team"
 publishedDate: 2026-09-01
 featured: false
 ---

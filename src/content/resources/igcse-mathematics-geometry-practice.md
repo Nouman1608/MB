@@ -35,7 +35,7 @@ syllabusTopics:
     topic: "geometry-cambridge-igcse-maths"
     subtopic: "circle-theorems-ii-cambridge-igcse-maths"
 description: "Original exam-style practice questions with full worked answers on geometrical terms, constructions, scale drawings, similarity, symmetry, angles and circle theorems for Cambridge IGCSE Mathematics 0580."
-author: "nouman-ahmed"
+author: "marlbridge-academic-team"
 publishedDate: 2026-09-01
 featured: false
 ---
