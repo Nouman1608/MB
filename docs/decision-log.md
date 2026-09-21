@@ -13195,3 +13195,22 @@ The rocks and energy study guides' sentence "use the 0680 Natural Resources guid
 | U78 note | `syllabus-topics.ts` (IB DP ESS) | The note names all three sources (sciencesauceonline.com, mrkremerscience.com, revisiondojo.com), records the revisiondojo read and its two differences, and records the owner's acceptance. The reader-facing caveat is unchanged: the names are still not checked against the IB's own guide. |
 
 **Validation.** `astro check` 0 errors; `validate:academic`, `validate:assessments`, `validate:pinned-teachers`, `validate:practice-schema`, commercial claims, cross-board regression and the negative suite pass; `test:i18n-routes` passes; build clean; `audit:all` 0 problems across 2150 pages. Rendered: the Edexcel A Level Urdu hub and checklist carry the restored marks; the three guides show the rebuilt coverage lists and the dated check sentence.
+
+## D-278 - Audit round 56: I411 (coastal guide coverage, case-study wording, battery storage, search-summary wording) (2026-09-21)
+
+**Trigger.** Audit round 56 (`docs/audit/2026-12-02-findings.md`, Q437) verified D-277, closed I409, I410 and the U78 note, and opened I411.
+
+**Sources read.**
+- The 9696 (664556) and 5014 (664483) syllabuses already read for D-277. The 5014 2025-2026 syllabus lists "Case study:" or "Case studies:" under every one of its nine topics, some with two or more.
+- IB Computer science guide, first examinations 2014 (ibo.org `subject-guides/computer-science-guide.pdf`, 101 pp.), read in Chrome on 2026-09-21. It gives "Criterion A: Planning (6 marks)", "Criterion B: Solution overview (6 marks)", "Criterion C: Development (12 marks)", "Criterion D: Functionality and extensibility of product (4 marks)" and "Criterion E: Evaluation (6 marks)" (printed pp.83-84).
+- AQA's own specification-at-a-glance and scheme-of-assessment pages for 8132, 8300 and 8182, fetched on 2026-09-21. Their durations, marks, weightings, sections, tiers and AO weightings match the three records' notes.
+
+| Item | Files | What changed |
+|---|---|---|
+| I411 (1) | `cambridge-a-level-geography-coastal-environments.md` | Four sections added from the syllabus: marine erosion and sub-aerial processes (the five named marine processes, weathering and mass movement), erosional landforms (cliffs and wave-cut platforms, caves, arches and stacks), sediment sources, sediment cells and longshore drift, and sea level change (eustatic and isostatic, rias, fjords, raised beaches). The wave section adds breaking waves and wave refraction. The coverage sentence now says the sections explain 8.1 and 8.2 and model the 8.4 case-study essay, with 8.3 and the reader's own 8.4 case study left to the syllabus list and the teacher. |
+| I411 (2) | four 5014 2027-2029 guides | "a recommended case study for each topic" becomes "recommended case studies for each topic". |
+| I411 (3) | `o-level-cambridge-environmental-management-energy-resources.md` and its revision notes | Battery storage is taken out of the strategies that "save energy". Both files now say it saves no energy but stores surplus electricity (for example from solar or wind) for later use, at a cost. The revision notes carried the same claim and are included. |
+| I411 (4) and family | `assessments.ts` (DP Computer Science (2014); AQA 8132, 8300, 8182) | "a second independent search summary" is replaced by the IB guide's own criterion headings and page. The same kind of wording, "Confirmed against AQA search results for the official ... pages", rendered on the AQA GCSE Business, Mathematics and Psychology hubs. It now reads "Read on AQA's own specification-at-a-glance and scheme-of-assessment pages on 2026-09-21", after those pages were read. |
+| Rule 7 | `scripts/audit-content-integrity.mjs` | New pattern: "search summary", "search summaries", "search results for" and "search-engine summary". `\bsearch` does not match inside "research", so "research summary" and "market research results" are untouched. Tested against a full build (0 matches) and against the removed strings (all caught). |
+
+**Validation.** `astro check` 0 errors; `validate:academic`, `validate:assessments`, `validate:pinned-teachers`, `validate:practice-schema`, commercial claims, cross-board regression and the negative suite pass; `test:i18n-routes` passes; build clean; `audit:all` 0 problems across 2150 pages with the new pattern. Rendered: no built page contains "search summar" or "search results for"; the IB DP Computer Science hub quotes the five criterion headings.

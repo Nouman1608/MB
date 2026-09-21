@@ -32,7 +32,7 @@ featured: false
 > Mauritius, you sit the 2025-2026 syllabus (version 2), which differs: it has
 > nine topics instead of seven, Paper 1 is "Theory" (Section A 20 marks,
 > Section B 60 marks) and Paper 2 is "Management in context", and it
-> lists a recommended case study for each topic. For this topic, the 2025-2026 syllabus puts
+> lists recommended case studies for each topic. For this topic, the 2025-2026 syllabus puts
 > rocks and minerals in five sub-topics of its own Topic 1 (1.1-1.5), has no
 > definition of an ore, names only surface and subsurface mining, has no
 > permeability outcomes and a shorter list of extraction factors. Use the

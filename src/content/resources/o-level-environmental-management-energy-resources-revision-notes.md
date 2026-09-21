@@ -92,8 +92,9 @@ new energy resources.
 **Benefits and limitations (1.5.3):** behaviour-based strategies
 (reducing consumption, education) are cheap but depend on people
 changing habits; technology-based strategies (insulation, efficient
-devices, electric vehicles, battery storage, heat pumps) save energy
-over time but cost more at the start.
+devices, electric vehicles, heat pumps) save energy over time but cost
+more at the start; battery storage saves no energy but stores surplus
+electricity (for example from solar or wind) for later use, at a cost.
 
 ## 1.6 Fracking
 

@@ -31,8 +31,8 @@ featured: false
 > the November series in Mauritius only). If you sit 5014 in November 2026 in
 > Mauritius, you sit the 2025-2026 syllabus (version 2), which differs: it has
 > nine topics instead of seven, Paper 1 is "Theory" (Section A 20 marks,
-> Section B 60 marks) and Paper 2 is "Management in context", and it lists a
-> recommended case study for each topic. For this topic, the 2025-2026 syllabus makes
+> Section B 60 marks) and Paper 2 is "Management in context", and it lists
+> recommended case studies for each topic. For this topic, the 2025-2026 syllabus makes
 > energy a topic of its own (Topic 2 Energy and the environment, 2.1-2.6),
 > includes oil pollution in it, lists three biofuels rather than four, has
 > no hydrogen or heat pump content, and treats fracking as one example of
@@ -195,8 +195,11 @@ not only in volcanic areas.
 
 **Benefits and limitations (1.5.3).** Reducing consumption and
 education are cheap to begin with but depend on people changing their
-behaviour. Insulation, efficient devices, electric vehicles, battery
-storage and heat pumps save energy over time but cost more at the start, and electric
+behaviour. Insulation, efficient devices, electric vehicles and heat
+pumps save energy over time but cost more at the start. Battery storage
+does not save energy: it stores surplus electricity, for example from
+solar or wind, for use later, which helps renewables replace fossil
+fuels but adds cost. Electric
 vehicles and heat pumps are only as low-carbon as the electricity they
 use. Hydrogen fuels need new production, storage and distribution
 systems. Transport policies work best where public transport is

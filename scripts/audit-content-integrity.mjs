@@ -181,6 +181,10 @@ const INTERNAL_NOTE_PATTERNS = [
   { re: /\bwhen next touched\b|\bre-checked for a successor\b/i, label: 'maintenance to-do' },
   { re: /\b[a-z0-9]+(?:-[a-z0-9]+)+-\*/, label: 'file-name pattern' },
   { re: /\b(?:record|elsewhere|already) in this file\b/i, label: 'reference to the data file' },
+  // Round 56 (I411, D-278): research-process wording about search tools.
+  // \bsearch does not match inside 'research', so 'research summary' and
+  // 'market research results' are untouched. Tested against a full build: 0.
+  { re: /\bsearch[- ](?:engine )?(?:summar(?:y|ies)|results? for)\b/i, label: 'search-tool research language' },
   // Round 50 (I403, D-267): research-session language. Tested against a full
   // build first. "same session" is deliberately excluded (a revision-notes page
   // advises practising two skills "in the same session"), and bare "tooling"
