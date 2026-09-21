@@ -13182,7 +13182,7 @@ The rocks and energy study guides' sentence "use the 0680 Natural Resources guid
 
 **Sources read.**
 - Cambridge O Level Environmental Management 5014 syllabus for 2025 and 2026 (664483, Version 2), Cambridge International AS & A Level Geography 9696 syllabus for 2025 and 2026 (664556, Version 1) and Cambridge IGCSE History 0470 syllabus for 2024-2026 (649636, Version 1): downloaded directly from cambridgeinternational.org on 2026-09-21 and read in full.
-  - 5014 p.9: "The curriculum gives teachers the opportunity to select their own case studies to illustrate the content", and each topic ends with a "Case study:" line. The 2027-2029 syllabus's change list (p.47, as quoted in the finding) calls these "Recommended case studies".
+  - 5014 p.12: "The curriculum gives teachers the opportunity to select their own case studies to illustrate the content", and each topic ends with a "Case study:" line. The 2027-2029 syllabus's change list (p.47, as quoted in the finding) calls these "Recommended case studies".
 - Pearson Edexcel A Level Urdu (9UR0) specification Issue 1: printed p.41 (Appendix 1) at 300 dpi prints کھُلی، اُردو، مُرید پُور، مرحُوم and مومنہ دُرید. Printed p.8 says each theme has "a research subject (highlighted in bold)"; the blue text is the label تحقیق کے لئے موضوعات.
 - revisiondojo.com's IB ESS new-syllabus page, read 2026-09-21: it gives the same numbers and titles as the record for every subtopic of Topics 2-8. The only differences are a single hyphen for the double dash, and "impact" for "impacts" in 6.2.
 
