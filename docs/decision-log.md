@@ -13107,3 +13107,17 @@ E939, I400 and the five I396 deferrals are closed by the audit. Remaining: U76, 
 | Rule 7 | `scripts/audit-content-integrity.mjs` | Four new patterns: a backticked token, the to-do phrase ("when next touched", "re-checked for a successor"), a hyphenated file-name glob ending in "-*", and "record/elsewhere/already in this file". Each tested against a full build first (0 matches) and against the leaked strings (all caught); "Phase 1 (0-4 s)" in the physics resources is not matched. |
 
 **Validation.** `astro check` 0 errors; `validate:academic`, `validate:assessments`, `validate:pinned-teachers`, `validate:practice-schema`, commercial claims, cross-board regression and the negative suite pass; `test:i18n-routes` passes; build clean; `audit:all` 0 problems across 2142 pages with the widened rule 7. Rendered: no built page contains a backticked token, "when next touched" or "ib-dp-chemistry-*"; the IGCSE Statistics and Commerce hubs start the sentence "Its first and final assessment years ..."; the IB DP Computer Science hub reads "Recorded as being taught out from 2026-09-17".
+
+## D-275 - Audit round 54: I408 (last assessment of DP Computer Science (2014) and DP Psychology (2019)) (2026-09-21)
+
+**Trigger.** Audit round 54 (`docs/audit/2026-11-30-findings.md`, Q435) settled the open leads (9685; E360, E539, E822, E850, E866), recorded the owner's acceptance of the results figures, and opened I408.
+
+**Source read.** Both IB course pages read in Chrome at ibo.org on 2026-09-21:
+- DP computer science (`/programmes/diploma-programme/curriculum/sciences/computer-science/`): "This page summarizes the Diploma Programme (DP) computer science course for last assessment in 2026", and "Read the subject brief for the last assessment in 2026."
+- DP psychology (`/programmes/diploma-programme/curriculum/individuals-and-societies/psychology/`): "This page summarizes the Diploma Programme (DP) psychology course for the last assessment in 2026", and "Read the subject brief for the last assessment in 2026."
+
+| Item | Files | What changed |
+|---|---|---|
+| I408 | `assessments.ts` (DP Computer Science (2014), DP Psychology (2019)) | `finalAssessment: '2026'` added to both records, with a code comment citing the IB course page. The sentences "the IB page gives no final session for it, so none is recorded" and "the IB psychology updates page gives no final exam session for it, so none is recorded" are replaced by the IB page's own wording and "so 2026 is recorded as its last examination year". Both hubs now show "Final assessment opportunity: 2026", which matches the ten IB Psychology resources' November 2026 last session. |
+
+**Validation.** `astro check` 0 errors; `validate:academic`, `validate:assessments`, `validate:pinned-teachers`, `validate:practice-schema`, commercial claims, cross-board regression and the negative suite pass; `test:i18n-routes` passes; build clean; `audit:all` 0 problems across 2142 pages. Rendered: the IB DP Psychology and Computer Science hubs carry the quoted IB wording and "Final assessment opportunity: 2026".
