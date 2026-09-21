@@ -45,6 +45,14 @@ export interface Combination {
   /** Official specification code, only where verified from the board. */
   qualificationCode?: string;
   notes?: string;
+  /**
+   * Owner decision 2026-09-21: a combination can stay published for its
+   * free study resources while Marlbridge offers no classes in it. `false`
+   * means "resources only": the hub says so, enrolment is closed, no Course
+   * structured data is emitted, and teaching counts leave it out. Absent
+   * means classes are offered, as for every combination before this field.
+   */
+  classesOffered?: boolean;
 }
 
 const LA = 'https://learnersacademy.com.pk';
@@ -100,6 +108,7 @@ interface RowOpts {
   source: string;
   codes?: Record<string, string>;
   notes?: string;
+  classesOffered?: boolean;
 }
 
 function rows(
@@ -116,6 +125,7 @@ function rows(
     source: o.source,
     ...(o.codes?.[subjectSlug] ? { qualificationCode: o.codes[subjectSlug] } : {}),
     ...(o.notes ? { notes: o.notes } : {}),
+    ...(o.classesOffered === false ? { classesOffered: false } : {}),
   }));
 }
 
@@ -705,12 +715,19 @@ export const MATRIX: readonly Combination[] = [
   ...rows('ib', 'ib-dp', [
     'business', 'language-a-language-and-literature', 'language-a-literature',
     'computer-science', 'psychology', 'biology', 'chemistry', 'economics',
-    'environmental-systems-and-societies', 'geography', 'global-politics',
+    'geography',
     'world-history', 'language-b', 'mathematics-analysis-and-approaches',
     'mathematics-applications-and-interpretation', 'physics',
   ], {
     boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'marlbridge',
     source: 'Owner confirmed directly in chat, 2026-08-22: IB DP teaching has started at Marlbridge. Subject briefs/guides sourced from ibo.org (see docs/decision-log.md D-008).',
+  }),
+  // Owner decision 2026-09-21 (D-270): no classes currently offered in these
+  // two DP subjects; their hubs, checklists and free resources stay published.
+  ...rows('ib', 'ib-dp', ['environmental-systems-and-societies', 'global-politics'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'marlbridge',
+    source: 'Owner confirmed directly in chat, 2026-08-22: IB DP subject pages published. Owner decision 2026-09-21: no classes currently offered in this subject; the free resources remain.',
+    classesOffered: false,
   }),
   ...rows('ib', 'ib-myp', [
     'myp-language-acquisition', 'mathematics', 'myp-sciences', 'myp-design',

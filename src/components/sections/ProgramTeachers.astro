@@ -18,7 +18,7 @@
  */
 import Button from '../ui/Button.astro';
 import { getAuthors } from '../../utils/content/collections';
-import { activeOnly, LEVEL_FOR_QUALIFICATION } from '../../utils/academic';
+import { taughtOnly, LEVEL_FOR_QUALIFICATION } from '../../utils/academic';
 import { sortPinnedFirst } from '../../data/featured-teachers';
 import { routes } from '../../utils/urls/routes';
 
@@ -39,7 +39,7 @@ const tokens = (label: string): string[] => {
 };
 
 const matrixSubjects = new Set(
-  activeOnly()
+  taughtOnly()
     .filter((c) => LEVEL_FOR_QUALIFICATION[c.qualificationSlug] === level)
     .flatMap((c) => tokens(c.subject)),
 );

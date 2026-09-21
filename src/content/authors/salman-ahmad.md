@@ -1,12 +1,12 @@
 ---
 name: "Salman Ahmad"
-role: "Economics Teacher"
+role: "Economics and Commerce Teacher"
 bio: >-
-  Dr Salman Ahmad teaches Economics at Learners Academy, with 50 years of teaching experience. Previously taught at GCU, LSE, Comsats and UCP. Half a century of making markets and money make sense.
+  Dr Salman Ahmad teaches Economics and Commerce at Learners Academy, with 50 years of teaching experience. Previously taught at GCU, LSE, Comsats and UCP. Half a century of making markets and money make sense.
 credentials: []
 image: "/images/faculty/salman-ahmad.jpg"
 entityType: person
-subjectsTaught: ["Economics"]
+subjectsTaught: ["Economics", "Commerce"]
 boardsTaught: []
 qualificationsTaught: []
 yearsExperience: 50

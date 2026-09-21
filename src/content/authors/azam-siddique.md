@@ -1,12 +1,12 @@
 ---
 name: "Azam Siddique"
-role: "Islamiyat / Pakistan Studies and History Teacher"
+role: "Islamiyat / Pakistan Studies, History and Environmental Management Teacher"
 bio: >-
-  Sir Azam Siddique teaches Islamiyat / Pakistan Studies and History at Learners Academy, with 25 years of teaching experience. Previously taught at Aitchison College, LGS, Garrison, Newlands, Learning Alliance, TNS, ISL, SICAS, BTSC and Crescent CornerStone. Teaching with depth, context and care.
+  Sir Azam Siddique teaches Islamiyat / Pakistan Studies, History and Environmental Management at Learners Academy, with 25 years of teaching experience. Previously taught at Aitchison College, LGS, Garrison, Newlands, Learning Alliance, TNS, ISL, SICAS, BTSC and Crescent CornerStone. Teaching with depth, context and care.
 credentials: []
 image: "/images/faculty/azam-siddique.jpg"
 entityType: person
-subjectsTaught: ["Islamiyat / Pakistan Studies", "History"]
+subjectsTaught: ["Islamiyat / Pakistan Studies", "History", "Environmental Management"]
 boardsTaught: []
 qualificationsTaught: []
 yearsExperience: 25

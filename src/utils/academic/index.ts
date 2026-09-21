@@ -33,6 +33,13 @@ export function isPublishable(c: Combination): boolean {
 
 export const activeOnly = (): Combination[] => MATRIX.filter(isPublishable);
 
+/** Whether Marlbridge currently offers classes in a published combination
+ *  (owner decision 2026-09-21: a combination can be resources-only). */
+export const offersClasses = (c: Combination): boolean => c.classesOffered !== false;
+
+/** Published combinations in which Marlbridge currently offers classes. */
+export const taughtOnly = (): Combination[] => activeOnly().filter(offersClasses);
+
 /** Combinations Marlbridge could adopt: board-verified, awaiting scope sign-off. */
 export const eligibleForMarlbridge = (): Combination[] =>
   MATRIX.filter((c) => c.boardOfferingStatus === 'ACTIVE' && c.marlbridgeStatus === 'UNKNOWN' && c.evidence === 'la-course');

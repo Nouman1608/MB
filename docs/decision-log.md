@@ -13030,3 +13030,21 @@ E939, I400 and the five I396 deferrals are closed by the audit. Remaining: U76, 
 **Still open.** U76 (5): no teacher profile yet for Psychology, Sociology, Geography, Global Perspectives, Environmental Management, Commerce, IB Global Politics or ESS; the teaching claims ("Every class is taught by a named subject specialist") stand for the owner. U77's labelled figures can be confirmed later from the IB guides if they become readable (Business management, Language A: literature) or from a guide that does not yet exist publicly (ESS). I393 (14) stands with the owner.
 
 **Validation.** `astro check` 0 errors; every validator and regression check passes; negative suite 35/35; functions tests 31 pass; duplicate-scope check (the 4 pre-existing groups only); build 2143 HTML files; `audit:all` 0 problems across 2142 pages. Rendered: the label appears on the IB Business Management, Language A: Language and Literature, ESS, Language A: Literature and Psychology hubs, not on Language B; the new byline wording on /resources/ and the homepage.
+
+## D-270 - Owner decisions: two more teachers; IB Global Politics and ESS resources-only (2026-09-21)
+
+**Trigger.** The owner answered the rest of U76 (5) on 2026-09-21: "Sir Azam teaches Environmental Management", "Dr Salman teaches Commerce", and "for IB Global Politics and ESS we are currently not offering classes for these subjects". Asked how the site should handle the two IB subjects, the owner chose to keep their pages and free resources and say that no classes are offered.
+
+| Item | Files | What changed |
+|---|---|---|
+| Teachers | `azam-siddique.md`, `salman-ahmad.md` | Sir Azam Siddique adds Environmental Management; Dr Salman Ahmad adds Commerce (roles and bios updated). |
+| Resources-only state | `matrix.ts` (new optional `classesOffered` on `Combination`, carried through `rows()`); `utils/academic` (`offersClasses()`, `taughtOnly()`) | A combination can now stay published for its free resources while no classes are offered. IB DP Global Politics and ESS are split into their own rows with `classesOffered: false`; both remain ACTIVE, so their hubs, checklists and resources are unchanged in address and content. |
+| Hub | hub template | For a resources-only combination: "Does Marlbridge teach it?" reads "Not at the moment — free study resources only"; "Is enrolment open?" reads "No — classes are not currently offered in this subject"; no Course structured data is emitted; the closing call to action points to the free resources instead of learning support. |
+| Counts | `boards/[board]/index.astro`, `levels/[qualification]/index.astro` | "How many ... subjects does Marlbridge teach?" now adds, where they differ, "Classes are currently offered in N of them; the rest are published for their free study resources only" (IB: 19 of 21; IB Diploma Programme: 14 of 16). |
+| Teacher matching | `ProgramTeachers.astro` | Matches teachers against taught combinations only. |
+| Subject pages | `subjects/global-politics.md`, `subjects/environmental-systems-and-societies.md` | `marlbridgeTeaches: "not-teaching"` (the page badge reads "Not taught"); description and FAQ say classes are not offered at the moment and the free resources stay open. |
+| IB programme | `programs/ib.md` | "12 further DP subjects" (was 14) at overview depth, and a sentence that classes are not currently offered in DP Global Politics or ESS while their pages and resources stay open; the description says the same. |
+
+**Still open within U76 (5).** No teacher profile yet covers Psychology, Sociology, Geography or Global Perspectives, which the site still presents as taught.
+
+**Validation.** `astro check` 0 errors; every validator and regression check passes (commercial claims included, against the updated subject pages); negative suite 35/35; functions tests 31 pass; duplicate-scope check (the 4 pre-existing groups only); build 2143 HTML files; `audit:all` 0 problems across 2142 pages. Rendered: both IB hubs show the resources-only answers and carry no Course schema, the Economics hub still shows "Yes" and its Course schema; the IB board page says 19 of 21 and the Diploma Programme level page 14 of 16.

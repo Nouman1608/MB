@@ -25,7 +25,7 @@ import ArticleCard from '../../../../components/cards/ArticleCard.astro';
 import RelatedGrid from '../../../../components/layout/RelatedGrid.astro';
 import EmptyState from '../../../../components/ui/EmptyState.astro';
 import CTA from '../../../../components/ui/CTA.astro';
-import { activeOnly, offeringsForSubject, academicHubPath, boardPath, levelPath, LEVEL_FOR_QUALIFICATION, isFlagshipCode, type Combination } from '../../../../utils/academic';
+import { activeOnly, offersClasses, offeringsForSubject, academicHubPath, boardPath, levelPath, LEVEL_FOR_QUALIFICATION, isFlagshipCode, type Combination } from '../../../../utils/academic';
 import { subjectBySlug } from '../../../../data/academic/subjects';
 import { syllabusFor } from '../../../../data/academic/syllabuses';
 import { assessmentsFor, type AssessmentComponent } from '../../../../data/academic/assessments';
@@ -473,13 +473,16 @@ if (primaryAssessment) {
 }
 const faq = faqNode(faqs);
 
+const classesOffered = offersClasses(c);
+// A resources-only combination (owner decision 2026-09-21) is not an
+// offered course, so it gets no Course structured data.
 const jsonLd = [
-  courseNode({
+  ...(classesOffered ? [courseNode({
     path,
     name: syllabus?.officialTitle ?? heading,
     description: `${heading} teaching and study resources from Marlbridge.`,
     authorId: 'marlbridge-academic-team',
-  }),
+  })] : []),
   ...(faq ? [faq] : []),
 ];
 ---
@@ -522,9 +525,9 @@ const jsonLd = [
       <dl class="m-0 grid gap-x-8 gap-y-4 text-[15px] sm:grid-cols-2 lg:grid-cols-3">
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Qualification</dt><dd class="m-0 mt-1 text-ink">{boardQualPhrase} {c.subject}</dd></div>
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Spec code</dt><dd class="m-0 mt-1 text-ink">{syllabus?.code ?? 'Being verified'}</dd></div>
-        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Does Marlbridge teach it?</dt><dd class="m-0 mt-1 text-ink">Yes</dd></div>
+        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Does Marlbridge teach it?</dt><dd class="m-0 mt-1 text-ink">{classesOffered ? 'Yes' : 'Not at the moment — free study resources only'}</dd></div>
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Are resources available?</dt><dd class="m-0 mt-1 text-ink">{resources.length > 0 ? `Yes — ${resources.length} published` : 'Not yet — none published for this exact combination'}</dd></div>
-        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Is enrolment open?</dt><dd class="m-0 mt-1 text-ink">{enrolmentOpenFor('teaching') === 'enquire' ? 'Enquire to join — no online enrolment yet' : 'Not applicable'}</dd></div>
+        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Is enrolment open?</dt><dd class="m-0 mt-1 text-ink">{!classesOffered ? 'No — classes are not currently offered in this subject' : enrolmentOpenFor('teaching') === 'enquire' ? 'Enquire to join — no online enrolment yet' : 'Not applicable'}</dd></div>
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Where was this verified?</dt><dd class="m-0 mt-1 text-ink">{syllabus ? <>{syllabus.verifiedOn}, official {c.board} specification</> : 'Not yet verified against an official source'}</dd></div>
         {practiceCount > 0 && (
           <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Free practice questions?</dt><dd class="m-0 mt-1 text-ink">Yes — <a href={`/practice/${syllabus!.code}/`} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{practiceCount} self-check questions</a></dd></div>
@@ -890,9 +893,17 @@ const jsonLd = [
     </Section>
   )}
 
-  <CTA
-    heading={`Studying ${boardQualPhrase} ${c.subject}? Tell us where the difficulty is.`}
-    buttonLabel="Find Learning Support"
-    buttonHref={routes.tutoring}
-  />
+  {classesOffered ? (
+    <CTA
+      heading={`Studying ${boardQualPhrase} ${c.subject}? Tell us where the difficulty is.`}
+      buttonLabel="Find Learning Support"
+      buttonHref={routes.tutoring}
+    />
+  ) : (
+    <CTA
+      heading={`Marlbridge is not offering ${boardQualPhrase} ${c.subject} classes at the moment. The free study resources stay open to everyone.`}
+      buttonLabel="Browse free resources"
+      buttonHref={routes.resources}
+    />
+  )}
 </PageLayout>

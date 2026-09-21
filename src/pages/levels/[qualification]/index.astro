@@ -13,7 +13,7 @@ import FAQ from '../../../components/ui/FAQ.astro';
 import CTA from '../../../components/ui/CTA.astro';
 import {
   levelPath, levelsPath, combinationsForQualification,
-  qualificationsWithCombinations, academicHubPath,
+  qualificationsWithCombinations, academicHubPath, offersClasses,
 } from '../../../utils/academic';
 import { qualificationBySlug } from '../../../data/academic/qualifications';
 import { routes } from '../../../utils/urls/routes';
@@ -49,6 +49,7 @@ const path = levelPath(qualificationSlug as string);
  */
 const boardNames = groups.map((g) => g.board);
 const subjectCount = new Set(combos.map((c) => c.subjectSlug)).size;
+const taughtCount = combos.filter(offersClasses).length;
 const faqs = [
   {
     question: `Which exam boards does Marlbridge teach ${qualification.name} for?`,
@@ -60,7 +61,7 @@ const faqs = [
   },
   {
     question: `How many ${qualification.name} subjects does Marlbridge teach?`,
-    answer: `Marlbridge publishes ${combos.length} ${qualification.name} subject and board combinations, covering ${subjectCount} distinct subject${subjectCount === 1 ? '' : 's'}.`,
+    answer: `Marlbridge publishes ${combos.length} ${qualification.name} subject and board combinations, covering ${subjectCount} distinct subject${subjectCount === 1 ? '' : 's'}.${taughtCount < combos.length ? ` Classes are currently offered in ${taughtCount} of them; the rest are published for their free study resources only.` : ''}`,
   },
 ];
 const faq = faqNode(faqs);

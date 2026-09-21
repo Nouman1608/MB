@@ -7,7 +7,7 @@ order: 5
 level: "ib"
 marlbridgeTeaches: "teaching"
 shortDescription: "Middle Years Programme (MYP) and Diploma Programme (DP) teaching, one-to-one."
-description: "Middle Years Programme (MYP, ages 11-16) and Diploma Programme (DP, ages 16-19) teaching, delivered one-to-one. Diploma Programme Economics and Physics are taught to full topic-level syllabus depth; all other IB subjects are covered at subject-overview depth."
+description: "Middle Years Programme (MYP, ages 11-16) and Diploma Programme (DP, ages 16-19) teaching, delivered one-to-one. Diploma Programme Economics and Physics are taught to full topic-level syllabus depth; the other IB subjects Marlbridge teaches are covered at subject-overview depth. Classes are not currently offered in DP Global Politics or DP Environmental Systems and Societies."
 curriculum: "International Baccalaureate"
 ageRange: "11-19"
 countryAvailability: ["PK", "WW"]
@@ -22,8 +22,11 @@ IB tuition at Marlbridge is one-to-one only -- see the
 
 Diploma Programme Economics and Physics are taught to full
 topic-level syllabus depth. All other IB subjects currently offered --
-14 further DP subjects and 5 MYP subjects -- are covered at
-subject-overview depth rather than full syllabus detail.
+12 further DP subjects and 5 MYP subjects -- are covered at
+subject-overview depth rather than full syllabus detail. Marlbridge is
+not offering classes in DP Global Politics or DP Environmental Systems
+and Societies at the moment; their subject pages and free study
+resources stay open to everyone.
 
 Subject pages list the topics covered at this level, together with the study
 guides, revision notes and practice questions published for each topic.
