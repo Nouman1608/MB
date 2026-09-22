@@ -13277,3 +13277,14 @@ The rocks and energy study guides' sentence "use the 0680 Natural Resources guid
 
 **Validation.** `npm run build` passes; no built HTML file contains `&amp;amp;`.
 
+## D-283 - Named subject teachers on resource pages (2026-09-22)
+
+**Why.** The 15 Sep SEO audit flagged that most resource pages carry only the "Marlbridge Academic Team" byline (1,250 of 1,645) even though 19 real, sourced teacher profiles exist. Named experts help readers, search engines and AI assistants trust a page.
+
+**Decision.** Bylines were **not** changed. Moving an organisational byline to an individual would claim authorship that did not happen, the same class of unsupported claim D-134 rescinded. Instead each resource page's "Studying this with a teacher" block now lists the published teachers whose sourced `subjectsTaught` matches the page's subject, labelled "<Subject> teachers at Marlbridge" and linked to their profiles. The Author and Reviewed-by lines and the Article JSON-LD author are untouched.
+
+**How.** `src/utils/content/subject-teachers.ts` (new) matches on normalised subject name ("Studies" dropped, "A / B" split); `src/pages/resources/[slug].astro` renders up to four teachers, most experienced first. Subjects with no matching teacher (IB-only subjects, Geography, Sociology, Psychology, Computer Science, English Literature and others) show no block rather than a guessed teacher.
+
+**Result at build.** 1,094 of 1,645 resource pages show teachers: Chemistry (Nouman Ahmed), Physics (3), Mathematics (3), Biology (4), Economics, Business, Accounting (2), English, Urdu Language, Law, Islamiyat and Pakistan Studies. Profiles for the uncovered subjects would extend this automatically.
+
+**Validation.** `npm run build` passes; `npm run audit:all` 24 passed, 0 failed (2,141 pages).
