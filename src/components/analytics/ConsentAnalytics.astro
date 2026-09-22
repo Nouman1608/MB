@@ -118,10 +118,18 @@ const gaId = site.analytics.ga4MeasurementId;
         }
       }
 
+      // D-280 -- the Worker sets this only for visitors outside the UK/Europe
+      // (src/worker/consent-region.ts). There, analytics runs by default with
+      // no banner; "Cookie Settings" lets the visitor switch it off.
+      var impliedRegion = document.documentElement.getAttribute('data-mb-consent-region') === 'optout';
+      window.__mbImpliedConsentRegion = impliedRegion;
+
       var stored = null;
       try { stored = window.localStorage.getItem(STORAGE_KEY); } catch (e) {}
       if (stored === 'granted' || stored === 'denied') {
         applyConsent(stored);
+      } else if (impliedRegion) {
+        applyConsent('granted');
       }
 
       window.__mbSetConsent = function (value) {
@@ -140,9 +148,13 @@ const gaId = site.analytics.ga4MeasurementId;
       class="fixed inset-x-0 bottom-0 z-[90] hidden border-t border-navy-rule bg-navy-900 px-[var(--spacing-gutter)] py-5 text-on-navy"
     >
       <div class="mx-auto flex max-w-[var(--container-site)] flex-wrap items-center justify-between gap-4">
-        <p class="m-0 max-w-[62ch] text-[14.5px] leading-relaxed text-on-navy">
+        <p data-consent-copy-optin class="m-0 max-w-[62ch] text-[14.5px] leading-relaxed text-on-navy">
           We'd like to use Google Analytics to understand how visitors use this site. No analytics cookie is set
           unless you accept. See our <a href="/legal/cookies/" class="underline decoration-gold-500 underline-offset-2 text-on-navy">Cookie Policy</a>.
+        </p>
+        <p data-consent-copy-optout class="m-0 hidden max-w-[62ch] text-[14.5px] leading-relaxed text-on-navy">
+          We use Google Analytics to understand how visitors use this site. Choose Reject to switch it off on this
+          device. See our <a href="/legal/cookies/" class="underline decoration-gold-500 underline-offset-2 text-on-navy">Cookie Policy</a>.
         </p>
         <div class="flex gap-3">
           <button
@@ -166,7 +178,14 @@ const gaId = site.analytics.ga4MeasurementId;
         if (!banner) return;
         var stored = null;
         try { stored = window.localStorage.getItem(STORAGE_KEY); } catch (e) {}
-        if (stored !== 'granted' && stored !== 'denied') {
+        if (window.__mbImpliedConsentRegion) {
+          var optinCopy = banner.querySelector('[data-consent-copy-optin]');
+          var optoutCopy = banner.querySelector('[data-consent-copy-optout]');
+          if (optinCopy) optinCopy.classList.add('hidden');
+          if (optoutCopy) optoutCopy.classList.remove('hidden');
+        }
+        // D-280 -- outside the UK/Europe the banner only appears via "Cookie Settings".
+        if (stored !== 'granted' && stored !== 'denied' && !window.__mbImpliedConsentRegion) {
           banner.classList.remove('hidden');
         }
         var acceptBtn = banner.querySelector('[data-consent-accept]');

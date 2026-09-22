@@ -13244,3 +13244,19 @@ The rocks and energy study guides' sentence "use the 0680 Natural Resources guid
 - The IB CS hub carries the 2027 components.
 
 **Open-count position after D-279.** The I396 points, the 0264 sub-topic list and the DP Computer Science (2027) record were the last deferred items; none remains in this document's record. The audit has not read this entry.
+
+## D-280 - Analytics consent by region: banner only in the UK and Europe (2026-09-22)
+
+**Problem.** GA4 BigQuery export (14-20 Sep 2026) showed ~87% of session_start events arriving cookieless (no visitor, no traffic source), up from ~82% the week before. Every visitor in every country got the opt-in banner and most never click it. The largest cookieless sources were Pakistan, India, Malaysia, Kenya and the Gulf. The 17 Sep draft of this change (then numbered D-255) was never pushed; this replaces it.
+
+**Decision (owner, 22 Sep 2026; not legal advice).** Show the banner only in the UK and Europe. Everywhere else, including Pakistan and the Gulf, analytics runs by default, with "Cookie Settings" in the footer to switch it off. Same rule as learnersacademy.com.pk (LA PR #12, live 22 Sep).
+
+| Visitor country (Cloudflare `request.cf.country`) | Behaviour |
+|---|---|
+| EEA, UK, Switzerland, related territories; unknown/Tor/XX | Unchanged: banner; consent-mode "denied" until Accept (cookieless events as described in the Cookie Policy) |
+| Everywhere else (Pakistan, Gulf, India, US, Malaysia, Kenya...) | No banner; consent granted by default; Reject via "Cookie Settings" stores `mb_consent=denied` |
+
+**How.** `src/worker/consent-region.ts` (new) decides the region; `src/worker/index.ts` passes asset responses through it, and HTMLRewriter sets `<html data-mb-consent-region="optout">` on HTML only for opt-out countries (`run_worker_first` is already true, so every page passes through the Worker). Absent attribute = banner, so every failure mode falls back to the stricter rule. `ConsentAnalytics.astro` grants consent when the attribute is present and no choice is stored, hides the banner there, and shows opt-out wording when "Cookie Settings" reopens it. The UK/Europe path is deliberately unchanged, so the existing Cookie Policy description of cookieless events stays accurate for it. `legal/cookies.astro` and `legal/privacy.astro` gain the regional rule, dated 22 September 2026. Translated legal copy in `src/i18n/pages/legal.ts` still describes the single rule; the English pages govern, and the translations are a follow-up.
+
+**Validation.** `node --experimental-strip-types --test src/worker/__tests__/consent-region.test.mjs` passes; `npm run build` passes; headless Chromium against the built site: UK/Europe with no choice = banner, consent denied; rest of world with no choice = no banner, consent granted and page_view sent; rest of world after Cookie Settings, Reject = consent denied, stays denied on reload. **After deploy:** re-run the cookieless-share query in BigQuery after 7 days; expect it to fall from ~87% to roughly the UK/Europe share of traffic.
+
