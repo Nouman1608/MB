@@ -90,6 +90,7 @@ corpus briefly ended up worse than baseline on five files — see the amendment 
 | `2026-12-02-findings.md` | Round 56 (2026-09-21, 20:41 PKT): D-277 verified — I409, I410 and the U78 note closed; I411 (four residues). **0 confirmed-error groups open.** |
 | `2026-12-03-findings.md` | Round 57 (2026-09-21, 20:57 PKT): D-278 verified — I411 closed; nothing new. **0 confirmed-error groups open.** |
 | `2026-12-04-findings.md` | Round 58 (2026-09-21, 21:20 PKT): D-279 verified — I396 closed; 0264 list and DP CS (2027) record correct; owner closes the remaining choices. **No finding open.** |
+| `2026-12-05-findings.md` | Round 59 (2026-09-22, 19:35 PKT): D-280 to D-283 verified — **E946** (8 legal pages still say page views are recorded only after Accept), I412 (D-283's count). **1 confirmed-error group open.** |
 | `2026-09-15-tier-resolution-response.md` | Cambridge 0620 tier question, resolved by coordinates. |
 | `correction-constraints.md` | **Standing rules. Start here.** |
 
@@ -173,9 +174,9 @@ finding against a snapshot that was three days old.
 
 | | |
 |---|---|
-| findings recorded | 1,838 |
-| confirmed errors open | **0 groups; no finding open** *(reconciliation current through **D-279**; every declared closure D-138 to D-279 read. Every finding this audit raised is fixed and verified or closed by the owner's decision. **Not a certificate that every statement on the site is correct.**)* |
-| declared closed by decision log D-138–D-279 | 880 |
+| findings recorded | 1,841 |
+| confirmed errors open | **1 group** (E946: legal-page short versions not qualified for the regional consent rule) *(reconciliation current through **D-283**; every declared closure D-138 to D-279 read; D-280 to D-283 close no finding. I412 open. **Not a statement that the site is correct.**)* |
+| declared closed by decision log D-138–D-283 | 880 |
 | still open despite a closing round (deferred, partial, disputed, heading-only, or reopened) | 0 |
 | withdrawn by this audit | 1 (E746) |
 | resources read end to end | 1,251 of 1,251 baseline; all 1,645 on `main` at `251571e` read at least once (round 19). Board claims in the 397 post-baseline resources unchecked (U72). |

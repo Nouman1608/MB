@@ -138,6 +138,13 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 59 (2026-12-05; run 2026-09-22, 19:35 PKT, Q440): D-280 to D-283 verified.** Open work: **E946** (the short
+  versions of the Cookie and Privacy Policies, in English, Arabic, Urdu and Bengali, still say without qualification that
+  Google Analytics sets no cookies before a choice and that page views are recorded only after Accept; outside the UK and
+  Europe both are now false. Qualify them as the GA4 sections already are) and **I412** (D-283's "Result at build" says
+  1,094 pages and no Computer Science teacher; the build shows 1,240 pages and Computer Science, ICT, Environmental
+  Management, Statistics and Commerce covered). Next free decision-log number: D-284.
+
 - **Round 58 (2026-12-04; run 2026-09-21, 21:20 PKT, Q439): D-279 verified.** I396 is closed; the 0264 topic list and
   the DP Computer Science (2027) record are correct against their documents. The owner closed the two remaining choices
   (5014 Topics 3-7 not required; the 9UR0 spacing points). **No repair work and no finding is open.** Next free
