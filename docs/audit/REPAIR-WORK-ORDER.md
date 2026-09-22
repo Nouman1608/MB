@@ -138,6 +138,10 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 60 (2026-12-06; run 2026-09-22, 20:02 PKT, Q441): D-284 verified.** E946 and I412 are closed. D-285
+  (Search Console row cap 200 to 1,000) was made by the audit instance at the owner's request and closes no finding.
+  **No repair work and no finding is open.** Next free decision-log number: D-286.
+
 - **Round 59 (2026-12-05; run 2026-09-22, 19:35 PKT, Q440): D-280 to D-283 verified.** Open work: **E946** (the short
   versions of the Cookie and Privacy Policies, in English, Arabic, Urdu and Bengali, still say without qualification that
   Google Analytics sets no cookies before a choice and that page views are recorded only after Accept; outside the UK and
