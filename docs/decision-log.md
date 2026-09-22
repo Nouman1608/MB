@@ -13268,3 +13268,12 @@ The rocks and energy study guides' sentence "use the 0680 Natural Resources guid
 **Fix.** For each of ar, ur and bn: the Cookie Policy's short version gains a paragraph on the regional rule (UK/EEA/Switzerland get the banner; everywhere else, including Pakistan and the Gulf, analytics runs as if accepted, switchable via Cookie Settings; country from Cloudflare, not stored; unknown = banner). The two GA4 lead-ins now read "in the UK and Europe before you choose, or anywhere after Reject" and "after Accept, or outside the UK and Europe unless you Reject". The Privacy Policy's analytics section gains one sentence stating the same rule. Both pages are dated 22 September 2026 in each locale. The English page remains the governing version.
 
 **Validation.** `npm run build` passes; the built /ar/, /ur/ and /bn/ cookie and privacy pages contain the new text and date.
+
+## D-282 - Literal "&amp;" in page titles and headings (2026-09-22)
+
+**Problem.** Six pages passed `&amp;` inside a plain string prop. Astro escapes string props again, so the rendered `<title>`, H1 or meta description showed a literal "&amp;" to searchers and in AI answers: the titles of `/gulf/`, `/pakistan/`, `/exam-calendar/` and `/legal/editorial-policy/`, the H1s of `/legal/editorial-policy/` and `/syllabus-updates/`, and the meta description of `/grade-thresholds/`.
+
+**Fix.** Replaced with a plain `&` in those props. No wording changed.
+
+**Validation.** `npm run build` passes; no built HTML file contains `&amp;amp;`.
+
