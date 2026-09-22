@@ -13260,3 +13260,11 @@ The rocks and energy study guides' sentence "use the 0680 Natural Resources guid
 
 **Validation.** `node --experimental-strip-types --test src/worker/__tests__/consent-region.test.mjs` passes; `npm run build` passes; headless Chromium against the built site: UK/Europe with no choice = banner, consent denied; rest of world with no choice = no banner, consent granted and page_view sent; rest of world after Cookie Settings, Reject = consent denied, stays denied on reload. **After deploy:** re-run the cookieless-share query in BigQuery after 7 days; expect it to fall from ~87% to roughly the UK/Europe share of traffic.
 
+
+## D-281 - Translated legal pages describe the regional consent rule (2026-09-22)
+
+**Problem.** D-280 changed the English Cookie Policy and Privacy Policy to say that the banner appears only in the UK, EEA and Switzerland and that analytics runs by default elsewhere. The Arabic, Urdu and Bengali versions in `src/i18n/pages/legal.ts` still described the single opt-in rule for every visitor.
+
+**Fix.** For each of ar, ur and bn: the Cookie Policy's short version gains a paragraph on the regional rule (UK/EEA/Switzerland get the banner; everywhere else, including Pakistan and the Gulf, analytics runs as if accepted, switchable via Cookie Settings; country from Cloudflare, not stored; unknown = banner). The two GA4 lead-ins now read "in the UK and Europe before you choose, or anywhere after Reject" and "after Accept, or outside the UK and Europe unless you Reject". The Privacy Policy's analytics section gains one sentence stating the same rule. Both pages are dated 22 September 2026 in each locale. The English page remains the governing version.
+
+**Validation.** `npm run build` passes; the built /ar/, /ur/ and /bn/ cookie and privacy pages contain the new text and date.
