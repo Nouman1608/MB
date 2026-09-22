@@ -4,7 +4,7 @@ import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import { FALLBACK_EMAIL } from '../../utils/forms/submit';
 const mailto = 'mailto:' + FALLBACK_EMAIL;
-const lastUpdated = '17 September 2026';
+const lastUpdated = '22 September 2026';
 ---
 <PageLayout
   translationKey="legal-privacy"
@@ -62,7 +62,10 @@ const lastUpdated = '17 September 2026';
           name, email address, phone number or anything you type. Page views are recorded only if you accept,
           and accepting also lets GA4 set cookies and record things like which pages are viewed and how visitors
           arrive at the site (Google Analytics 4 does not log or store IP addresses). The Cookie Policy lists every event. We do not
-          run advertising trackers, and we do not use session-recording tools. You can change your
+          run advertising trackers, and we do not use session-recording tools. The cookie banner is shown only
+          to visitors in the United Kingdom, the European Economic Area and Switzerland; everywhere else,
+          including Pakistan and the Gulf, analytics runs as if you had accepted, based on the country Cloudflare
+          associates with your connection (not stored). You can change your
           analytics choice at any time via "Cookie Settings" in the footer.
           Every enquiry form (contact, trial, tutoring and schools) and the corrections form also use Cloudflare Turnstile to filter out automated
           spam submissions, which runs regardless of your analytics choices. Our typefaces are self-hosted on

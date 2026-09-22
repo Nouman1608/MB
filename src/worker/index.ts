@@ -32,6 +32,7 @@ import {
   onRequestPost as onSearchDemandPost,
 } from '../../functions/api/admin/search-demand.ts';
 import { runGscRefresh, type D1Database } from '../../functions/_lib/gsc-refresh.ts';
+import { applyConsentRegion } from './consent-region.ts';
 
 /**
  * Minimal local binding types. Deliberately hand-written rather than adding
@@ -141,7 +142,10 @@ export default {
       );
     }
 
-    return env.ASSETS.fetch(request);
+    // D-280 -- mark HTML pages for visitors outside the UK/Europe so
+    // ConsentAnalytics.astro runs analytics by default for them.
+    const assetResponse = await env.ASSETS.fetch(request);
+    return applyConsentRegion(request, assetResponse);
   },
 
   /**

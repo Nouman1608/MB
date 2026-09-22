@@ -4,7 +4,7 @@ import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import { FALLBACK_EMAIL } from '../../utils/forms/submit';
 const mailto = 'mailto:' + FALLBACK_EMAIL;
-const lastUpdated = '17 September 2026';
+const lastUpdated = '22 September 2026';
 ---
 <PageLayout
   translationKey="legal-cookies"
@@ -31,10 +31,18 @@ const lastUpdated = '17 September 2026';
           recorded only after you click Accept, which also lets Google Analytics set its cookies. We do not run
           advertising trackers, and we do not set any cookie of our own outside of that one analytics choice.
         </p>
+        <p>
+          <strong>Where you are visiting from matters.</strong> The cookie banner is shown only to visitors in the
+          United Kingdom, the European Economic Area and Switzerland. Everywhere else, including Pakistan and the
+          Gulf, there is no banner: Google Analytics runs as if you had clicked Accept, and you can switch it off at
+          any time with "Cookie Settings" in the footer. We work out which rule applies from the country our
+          hosting provider, Cloudflare, associates with your connection for that page request. We don't store
+          that country, and if it can't be determined we show the banner.
+        </p>
 
         <h2>Google Analytics (GA4)</h2>
         <p>
-          <strong>Before you choose, or after you click Reject.</strong> Google's analytics script
+          <strong>In the UK and Europe before you choose, or anywhere after you click Reject.</strong> Google's analytics script
           (gtag.js, loaded from googletagmanager.com) runs on every page with analytics and advertising storage
           set to "denied". In that state, as Google's consent mode documentation describes, Google's tags send
           measurements without cookies, and Google Analytics sets no cookies. No page view is recorded. These
@@ -59,7 +67,7 @@ const lastUpdated = '17 September 2026';
           phone number or anything you type into a form or answer.
         </p>
         <p>
-          <strong>After you click Accept.</strong> Google Analytics sets cookies to distinguish visitors and
+          <strong>After you click Accept, or outside the UK and Europe unless you click Reject.</strong> Google Analytics sets cookies to distinguish visitors and
           measure page views, referral sources and general usage patterns, records a page view on each page you
           visit, and sends the events above with those cookies. Advertising storage and ad personalisation stay
           switched off. Google Analytics 4 does not log or store IP addresses. This data is processed by Google under its own privacy
