@@ -26,11 +26,16 @@
  *   not per date -- a single multi-day call could silently starve the
  *   lower-traffic days of any rows at all. Per-day calls guarantee up to
  *   GSC_ROW_LIMIT_PER_DAY rows for every single day in the window.
- * - GSC_ROW_LIMIT_PER_DAY=200 and GSC_LOOKBACK_DAYS=7 were chosen from the
- *   real traffic this session observed via the D-124 verification call
- *   (single-digit clicks/impressions on the sampled query) -- Marlbridge is
- *   a low-volume property today, so this cap is not expected to drop real
- *   rows in practice, but it is a real cap, not a guarantee of
+ * - GSC_ROW_LIMIT_PER_DAY was 200 until D-285 (2026-09-22). At 200 the page
+ *   dimension hit the cap every day (200 of 200 rows on every date from
+ *   2026-09-13 to 09-19): clicks were near-complete (15 Sep: 20 in D1 vs 19
+ *   in a Supermetrics pull of the same property), but impressions were cut
+ *   to about half (467 vs 843), because the long tail of pages with one or
+ *   two impressions fell off. 1000 is expected to cover the daily tail at today's
+ *   size (1,660 distinct pages appeared across five weeks). It changes
+ *   neither the number of Google calls (still one per day per dimension)
+ *   nor, with D1_BATCH_CHUNK_SIZE raised to 250, the number of D1 batch
+ *   calls by much. It is still a real cap, not a guarantee of
  *   completeness, and is stated as such on the dashboard.
  * - History accumulates in D1 across every daily run (old dates are never
  *   deleted), so the queryable trend range grows day by day from whenever
@@ -44,7 +49,9 @@
  *   stay under that budget and because signing/exchanging a JWT is the one
  *   real CPU-bound step here -- not worth repeating 14 times.
  * - Free-tier arithmetic, not yet independently load-tested: D1 Free
- *   allows far more than the <=2,800 row-writes/run this produces, and
+ *   allows far more than the <=14,000 row-writes/run this can produce (7 days x
+ *   2 dimensions x 1000; in practice about 2,500, since recent days are
+ *   empty and the query dimension returns tens of rows), and
  *   Workers Cron Triggers are available on the Free plan. If a run ever
  *   fails on a CPU-time or execution-duration limit in practice (not
  *   observed in this session's testing, which cannot invoke a live Cron
@@ -82,8 +89,8 @@ export interface GscRefreshEnv {
 const PROPERTY = 'sc-domain:marlbridge.com';
 const DIMENSIONS = ['query', 'page'] as const;
 const GSC_LOOKBACK_DAYS = 7;
-const GSC_ROW_LIMIT_PER_DAY = 200;
-const D1_BATCH_CHUNK_SIZE = 100;
+const GSC_ROW_LIMIT_PER_DAY = 1000;
+const D1_BATCH_CHUNK_SIZE = 250;
 
 function isoDate(d: Date): string {
   return d.toISOString().slice(0, 10);
