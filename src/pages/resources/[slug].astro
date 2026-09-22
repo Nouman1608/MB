@@ -15,6 +15,7 @@ import { routes, resourceUrl } from '../../utils/urls/routes';
 import { syllabusFor } from '../../data/academic/syllabuses';
 import { PRICING_TERMS } from '../../data/pricing';
 import { LEVEL_FOR_QUALIFICATION } from '../../utils/academic';
+import { teachersForSubjectTitle } from '../../utils/content/subject-teachers';
 
 export async function getStaticPaths() {
   const resources = await getResources();
@@ -29,6 +30,8 @@ const path = resourceUrl(resource);
 
 const subject = await getEntry(d.subject);
 const author = d.author ? await getEntry(d.author) : undefined;
+/* D-283 -- real teachers of this subject, shown as teachers (not authors). */
+const subjectTeachers = await teachersForSubjectTitle(subject?.data.title);
 const meta = resourceCategoryMeta[d.resourceType];
 const levels = resourceLevelLabel(d.level, d.stage, d.qualifications);
 
@@ -288,6 +291,30 @@ const jsonLd = [articleNode({
             {' '}{subject?.data.title ?? 'this subject'} classes one-to-one and in small groups of up to {PRICING_TERMS.maxGroupSize},
             online in your own time zone. {PRICING_TERMS.freeTrial} {PRICING_TERMS.enquiryResponse.short}
           </p>
+          {subjectTeachers.length > 0 && (
+            <div data-testid="subject-teachers" class="mt-6">
+              <p class="m-0 mb-3 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">{subject?.data.title} teachers at Marlbridge</p>
+              <ul class="m-0 flex list-none flex-wrap gap-3 p-0">
+                {subjectTeachers.map((t) => (
+                  <li class="m-0">
+                    <a href={routes.author(t.id)} class="flex items-center gap-3 rounded-sm border border-rule bg-white py-2 pe-4 ps-2 hover:border-gold-500">
+                      {t.data.image ? (
+                        <img src={t.data.image} alt="" width="40" height="40" class="h-10 w-10 shrink-0 rounded-full object-cover" loading="lazy" decoding="async" />
+                      ) : (
+                        <span aria-hidden="true" class="h-10 w-10 shrink-0 rounded-full border border-rule bg-ivory"></span>
+                      )}
+                      <span class="min-w-0">
+                        <span class="block text-[15px] font-semibold leading-snug text-navy-800">{t.data.name}</span>
+                        {t.data.yearsExperience !== undefined && (
+                          <span class="block text-[13px] text-ink-mute">{t.data.yearsExperience} years teaching</span>
+                        )}
+                      </span>
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
         </div>
         <div class="flex flex-col items-start gap-3 lg:pt-10">
           <a href={trialHref} data-cta="resource-trial" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-6 py-3 text-[15px] font-medium text-ivory transition-colors duration-150 hover:bg-navy-700">Request a free trial</a>

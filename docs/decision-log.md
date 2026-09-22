@@ -13268,3 +13268,23 @@ The rocks and energy study guides' sentence "use the 0680 Natural Resources guid
 **Fix.** For each of ar, ur and bn: the Cookie Policy's short version gains a paragraph on the regional rule (UK/EEA/Switzerland get the banner; everywhere else, including Pakistan and the Gulf, analytics runs as if accepted, switchable via Cookie Settings; country from Cloudflare, not stored; unknown = banner). The two GA4 lead-ins now read "in the UK and Europe before you choose, or anywhere after Reject" and "after Accept, or outside the UK and Europe unless you Reject". The Privacy Policy's analytics section gains one sentence stating the same rule. Both pages are dated 22 September 2026 in each locale. The English page remains the governing version.
 
 **Validation.** `npm run build` passes; the built /ar/, /ur/ and /bn/ cookie and privacy pages contain the new text and date.
+
+## D-282 - Literal "&amp;" in page titles and headings (2026-09-22)
+
+**Problem.** Six pages passed `&amp;` inside a plain string prop. Astro escapes string props again, so the rendered `<title>`, H1 or meta description showed a literal "&amp;" to searchers and in AI answers: the titles of `/gulf/`, `/pakistan/`, `/exam-calendar/` and `/legal/editorial-policy/`, the H1s of `/legal/editorial-policy/` and `/syllabus-updates/`, and the meta description of `/grade-thresholds/`.
+
+**Fix.** Replaced with a plain `&` in those props. No wording changed.
+
+**Validation.** `npm run build` passes; no built HTML file contains `&amp;amp;`.
+
+## D-283 - Named subject teachers on resource pages (2026-09-22)
+
+**Why.** The 15 Sep SEO audit flagged that most resource pages carry only the "Marlbridge Academic Team" byline (1,250 of 1,645) even though 19 real, sourced teacher profiles exist. Named experts help readers, search engines and AI assistants trust a page.
+
+**Decision.** Bylines were **not** changed. Moving an organisational byline to an individual would claim authorship that did not happen, the same class of unsupported claim D-134 rescinded. Instead each resource page's "Studying this with a teacher" block now lists the published teachers whose sourced `subjectsTaught` matches the page's subject, labelled "<Subject> teachers at Marlbridge" and linked to their profiles. The Author and Reviewed-by lines and the Article JSON-LD author are untouched.
+
+**How.** `src/utils/content/subject-teachers.ts` (new) matches on normalised subject name ("Studies" dropped, "A / B" split); `src/pages/resources/[slug].astro` renders up to four teachers, most experienced first. Subjects with no matching teacher (IB-only subjects, Geography, Sociology, Psychology, Computer Science, English Literature and others) show no block rather than a guessed teacher.
+
+**Result at build.** 1,094 of 1,645 resource pages show teachers: Chemistry (Nouman Ahmed), Physics (3), Mathematics (3), Biology (4), Economics, Business, Accounting (2), English, Urdu Language, Law, Islamiyat and Pakistan Studies. Profiles for the uncovered subjects would extend this automatically.
+
+**Validation.** `npm run build` passes; `npm run audit:all` 24 passed, 0 failed (2,141 pages).
