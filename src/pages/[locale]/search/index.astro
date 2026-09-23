@@ -44,5 +44,19 @@ const NOSCRIPT: Record<LocaleCode, string> = {
   window.addEventListener('DOMContentLoaded', function () {
     if (typeof PagefindUI === 'undefined') return;
     new PagefindUI({ element: '#pagefind-search', showSubResults: true, showImages: false, pageSize: 10 });
+    // D-301 -- name the search input (the page title, already translated)
+    // and announce the result count, as on the English search page.
+    var host = document.getElementById('pagefind-search');
+    var label = document.querySelector('h1') ? document.querySelector('h1').textContent.trim() : '';
+    if (host) {
+      var apply = function () {
+        var field = host.querySelector('.pagefind-ui__search-input');
+        if (field && label && !field.getAttribute('aria-label')) field.setAttribute('aria-label', label);
+        var msg = host.querySelector('.pagefind-ui__message');
+        if (msg && !msg.getAttribute('aria-live')) { msg.setAttribute('role', 'status'); msg.setAttribute('aria-live', 'polite'); }
+      };
+      apply();
+      new MutationObserver(apply).observe(host, { childList: true, subtree: true });
+    }
   });
 </script>

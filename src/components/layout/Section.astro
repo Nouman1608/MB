@@ -6,8 +6,11 @@ interface Props {
   labelledby?: string;
   id?: string;
   class?: string;
+  /** D-301 -- true leaves this band out of the on-site search index
+   *  (calls to action and cross-links repeated on many pages). */
+  searchIgnore?: boolean;
 }
-const { surface = 'white', spacing = 'lg', border = false, labelledby, id, class: className = '' } = Astro.props;
+const { surface = 'white', spacing = 'lg', border = false, labelledby, id, class: className = '', searchIgnore = false } = Astro.props;
 const surfaces = {
   white: 'bg-white text-ink',
   ivory: 'bg-ivory text-ink',
@@ -17,6 +20,6 @@ const surfaces = {
 const pad = spacing === 'lg' ? 'py-[var(--spacing-band)]' : 'py-[clamp(48px,6vw,88px)]';
 const rule = border ? (surface === 'navy' || surface === 'navyDeep' ? 'border-t border-navy-rule' : 'border-t border-rule') : '';
 ---
-<section id={id} aria-labelledby={labelledby} class={`relative overflow-hidden ${surfaces[surface]} ${pad} ${rule} ${className}`}>
+<section id={id} aria-labelledby={labelledby} data-pagefind-ignore={searchIgnore ? 'all' : undefined} class={`relative overflow-hidden ${surfaces[surface]} ${pad} ${rule} ${className}`}>
   <slot />
 </section>

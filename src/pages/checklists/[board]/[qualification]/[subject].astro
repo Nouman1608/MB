@@ -52,6 +52,12 @@ const hubHref = academicHubPath({ boardSlug: board, qualificationSlug: qualifica
       </div>
 
       <h1 class="m-0 mb-1 text-[28px] font-semibold text-navy-900">{boardName} {qualificationName} {subjectName}</h1>
+      {/* D-301 -- Pagefind filters (same values as hubs and resources). */}
+      <div hidden aria-hidden="true">
+        <span data-pagefind-filter="Resource type:Topic checklist"></span>
+        <span data-pagefind-filter={`Board:${boardName}`}></span>
+        <span data-pagefind-filter={`Qualification:${qualificationName}`}></span>
+      </div>
       <p class="m-0 mb-8 text-[14px] text-ink-mute">
         Syllabus {version.syllabusCode} &middot; {version.syllabusSeries} &middot; sourced from
         {' '}<a href={version.sourceUrl} class="underline decoration-gold-500 underline-offset-2">{version.source}</a>,
