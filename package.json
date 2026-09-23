@@ -42,7 +42,8 @@
     "growth:practice-report": "node scripts/growth/practice-analytics-report.mjs",
     "test:practice-analytics": "node scripts/test-practice-analytics.mjs",
     "validate:diagnostics": "node --experimental-strip-types scripts/validate-diagnostics.mjs",
-    "test:tools": "node --experimental-strip-types --test src/scripts/__tests__/planner-engine.test.mjs functions/api/__tests__/signup-endpoints.test.mjs functions/api/__tests__/enquiry-validation.test.mjs"
+    "test:tools": "node --experimental-strip-types --test src/scripts/__tests__/planner-engine.test.mjs functions/api/__tests__/signup-endpoints.test.mjs functions/api/__tests__/enquiry-validation.test.mjs",
+    "test:api": "node --experimental-strip-types --test functions/api/__tests__/*.mjs functions/_lib/__tests__/*.mjs src/worker/__tests__/*.mjs"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.10",

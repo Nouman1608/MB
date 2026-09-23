@@ -151,7 +151,7 @@ const jsonLd = [...siteGraph(), webPageNode(path, title, description)];
 
     {/* data-pagefind-body -- see BaseLayout.astro for the rationale; same
         fix applied here so the locale pages are scoped identically. */}
-    <main id="main" data-pagefind-body>
+    <main id="main" data-pagefind-body={noindex ? undefined : ''}>
       <slot />
     </main>
 

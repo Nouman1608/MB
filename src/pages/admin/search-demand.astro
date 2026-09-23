@@ -67,7 +67,16 @@ import Container from '../../components/layout/Container.astro';
         fabricated or extrapolated: a section with no stored data says so plainly instead of guessing.
       </p>
 
-      <div id="sd-status" class="mb-8 max-w-[68ch] rounded-lg border border-rule bg-ivory p-4 text-sm text-ink-mute">
+      <form id="sd-key-form" class="mb-6 flex max-w-[68ch] flex-wrap items-end gap-3" autocomplete="off">
+        <div>
+          <label for="sd-key" class="mb-1 block text-sm font-medium text-navy-900">Admin key</label>
+          <input id="sd-key" type="password" class="rounded-lg border border-rule px-3 py-2 text-sm" aria-describedby="sd-key-help" />
+        </div>
+        <button type="submit" class="rounded-lg border border-rule px-4 py-2 text-sm font-medium text-navy-900">Unlock</button>
+        <p id="sd-key-help" class="w-full text-xs text-ink-mute">The key is the ADMIN_API_KEY secret on the mb Worker. It is kept only for this browser tab.</p>
+      </form>
+
+      <div id="sd-status" role="status" class="mb-8 max-w-[68ch] rounded-lg border border-rule bg-ivory p-4 text-sm text-ink-mute">
         Loading…
       </div>
 
@@ -172,6 +181,25 @@ import Container from '../../components/layout/Container.astro';
   const statusEl = document.getElementById('sd-status')!;
   const contentEl = document.getElementById('sd-content')!;
   const refreshBtn = document.getElementById('sd-refresh-btn') as HTMLButtonElement;
+  const keyForm = document.getElementById('sd-key-form') as HTMLFormElement;
+  const keyInput = document.getElementById('sd-key') as HTMLInputElement;
+  const KEY_STORE = 'mb-admin-key';
+
+  // D-295 -- the API needs the owner's admin key. It lives in sessionStorage
+  // only (this tab), never in the page source or a URL.
+  function getKey(): string {
+    try { return sessionStorage.getItem(KEY_STORE) ?? ''; } catch { return ''; }
+  }
+  function authHeaders(): Record<string, string> {
+    const key = getKey();
+    return key ? { Authorization: `Bearer ${key}` } : {};
+  }
+  keyForm.addEventListener('submit', (e) => {
+    e.preventDefault();
+    try { sessionStorage.setItem(KEY_STORE, keyInput.value.trim()); } catch { /* storage unavailable */ }
+    keyInput.value = '';
+    load();
+  });
 
   function fmt(n: number | null | undefined): string {
     if (n === null || n === undefined) return '—';
@@ -236,7 +264,7 @@ import Container from '../../components/layout/Container.astro';
 
     let data: any;
     try {
-      const res = await fetch(API_PATH, { headers: { Accept: 'application/json' } });
+      const res = await fetch(API_PATH, { headers: { Accept: 'application/json', ...authHeaders() } });
       data = await res.json();
       if (!res.ok || !data.ok) throw new Error(data.message || `HTTP ${res.status}`);
     } catch (err) {
@@ -324,15 +352,15 @@ import Container from '../../components/layout/Container.astro';
     refreshBtn.disabled = true;
     refreshBtn.textContent = 'Refreshing…';
     try {
-      const res = await fetch(API_PATH, { method: 'POST' });
+      const res = await fetch(API_PATH, { method: 'POST', headers: authHeaders() });
       const result = await res.json();
       if (!res.ok || !result.ok) {
-        // eslint-disable-next-line no-alert
-        alert(`Refresh finished with errors — see the refresh log below.\n${JSON.stringify(result, null, 2).slice(0, 500)}`);
+        statusEl.hidden = false;
+        statusEl.textContent = `Refresh finished with errors: ${result.message ?? 'see the refresh log below.'}`;
       }
     } catch (err) {
-      // eslint-disable-next-line no-alert
-      alert(`Refresh request failed: ${err instanceof Error ? err.message : String(err)}`);
+      statusEl.hidden = false;
+      statusEl.textContent = `Refresh request failed: ${err instanceof Error ? err.message : String(err)}`;
     } finally {
       refreshBtn.disabled = false;
       refreshBtn.textContent = 'Refresh now';

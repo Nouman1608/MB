@@ -6,7 +6,19 @@
 # content-hashed build output and brand assets that almost never change.
 # This file opts those paths into long-lived caching without touching HTML.
 #
-# /_astro/* filenames are content-hashed by Astro's build (e.g.
+# # D-295 -- baseline security headers on every static response. Chosen so
+# nothing the site loads today can break: no script-src policy yet (the site
+# uses inline scripts, Google Analytics and Turnstile); a full script CSP
+# should be trialled as Content-Security-Policy-Report-Only first. The
+# Worker's JSON API responses set their own nosniff/noindex headers.
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=()
+  X-Frame-Options: DENY
+  Content-Security-Policy: frame-ancestors 'none'; base-uri 'self'; object-src 'none'; form-action 'self'
+
+/_astro/* filenames are content-hashed by Astro's build (e.g.
 # index.BdmlJTjy.css) — a file at a given URL can never change without the
 # hash changing too, so it is safe to cache for a year and mark immutable.
 /_astro/*

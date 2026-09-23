@@ -47,6 +47,8 @@ const PENDING_SECRETS = new Set([
   'RESEND_CONTACTS_API_KEY',
   'SUBSCRIBE_SIGNING_SECRET',
   'RESEND_NEWSLETTER_SEGMENT_ID',
+  // D-295 -- guards /api/admin/search-demand; fails closed (503) until set.
+  'ADMIN_API_KEY',
 ]);
 
 const stripJsonc = (s) =>

@@ -60,6 +60,8 @@ interface Env {
   RESEND_CONTACTS_API_KEY?: string;
   SUBSCRIBE_SIGNING_SECRET?: string;
   RESEND_NEWSLETTER_SEGMENT_ID?: string;
+  /** D-295 -- owner-set secret guarding /api/admin/search-demand. */
+  ADMIN_API_KEY?: string;
 }
 
 /**
@@ -148,7 +150,7 @@ export default {
 
     if (pathname === SEARCH_DEMAND_PATH || pathname === `${SEARCH_DEMAND_PATH}/`) {
       if (request.method === 'GET') return onSearchDemandGet({ env, request });
-      if (request.method === 'POST') return onSearchDemandPost({ env });
+      if (request.method === 'POST') return onSearchDemandPost({ env, request });
       return new Response(
         JSON.stringify({ ok: false, message: 'Method not allowed.' }),
         { status: 405, headers: { 'Content-Type': 'application/json', 'Cache-Control': 'no-store' } },
