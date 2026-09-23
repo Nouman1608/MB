@@ -153,6 +153,45 @@ if (!oneToOnePakistan) {
   }
 }
 
+// --- [2d] D-297: indicative (converted) group rows and status labels -------
+
+console.log(`\n[2d] Indicative group-fee rows are within ${FX_TOLERANCE_PERCENT}% of what FX_RATES implies, and every conversion is labelled indicative`);
+for (const row of ONE_TO_ONE_PRICING) {
+  if (row.region === 'Pakistan') continue;
+  if (row.status !== 'indicative') {
+    console.log(`  ✗ ONE_TO_ONE_PRICING ${row.region}: is a currency conversion but not marked status: 'indicative'.`);
+    problems++;
+  }
+}
+if (!regionPakistan) {
+  console.log('  ✗ No Pakistan row found in REGION_PRICING -- cannot compute drift.');
+  problems++;
+} else {
+  for (const row of REGION_PRICING) {
+    if (row.status !== 'indicative') continue;
+    for (const [tierLabel, pkrBase, published] of [
+      ['igcse', regionPakistan.igcse, row.igcse],
+      ['aLevel', regionPakistan.aLevel, row.aLevel],
+    ]) {
+      let implied;
+      try {
+        implied = impliedConvertedAmount(pkrBase, row.currency);
+      } catch (e) {
+        console.log(`  ✗ REGION_PRICING ${row.region} (${row.currency}) ${tierLabel}: ${e instanceof Error ? e.message : String(e)}`);
+        problems++;
+        continue;
+      }
+      const diffPercent = implied === 0 ? 0 : (Math.abs(published - implied) / Math.abs(implied)) * 100;
+      if (diffPercent > FX_TOLERANCE_PERCENT) {
+        console.log(`  ✗ REGION_PRICING ${row.region} (${row.currency}) ${tierLabel}: published ${published}, FX_RATES implies ${implied} -- ${diffPercent.toFixed(1)}% drift.`);
+        problems++;
+      } else {
+        console.log(`  ✓ REGION_PRICING ${row.region} (${row.currency}) ${tierLabel}: published ${published}, FX_RATES implies ${implied} (${diffPercent.toFixed(1)}% drift, indicative)`);
+      }
+    }
+  }
+}
+
 console.log('');
 if (problems > 0) {
   console.log(`FX POLICY VALIDATION FAILED: ${problems} problem(s) found.`);

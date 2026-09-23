@@ -37,16 +37,38 @@ export const QUALIFICATION_TIER: Record<string, FeeTier> = {
   'a-level': 'a-level',
 };
 
+/**
+ * D-297 -- every published fee says what kind of figure it is.
+ *   'confirmed'  -- set directly by the owner for that region.
+ *   'indicative' -- a currency conversion of the owner-set Pakistan rate
+ *                   (FX_RATES in src/data/fx-policy.ts), shown so families
+ *                   can see the approximate cost in their own currency; the
+ *                   exact fee is confirmed on enquiry. Always labelled as
+ *                   such wherever it is shown.
+ */
+export type PriceStatus = 'confirmed' | 'indicative';
+
 export interface RegionPricing {
   readonly region: string;
   readonly currency: string;
   readonly symbol: string;
   readonly igcse: number;
   readonly aLevel: number;
+  /** Omitted means 'confirmed'. */
+  readonly status?: PriceStatus;
 }
 
-/** Countries/regions with a confirmed published rate. Every other country
- * must be told to enquire — no currency conversion is ever invented. */
+export const priceStatus = (r: RegionPricing): PriceStatus => r.status ?? 'confirmed';
+export const isIndicative = (r: RegionPricing): boolean => priceStatus(r) === 'indicative';
+
+/** D-297 -- the one explanation shown next to any indicative figure. */
+export const INDICATIVE_NOTE =
+  'Indicative: a currency conversion of the Pakistan fee, not a separately set price for that country. The exact fee is confirmed in writing before any payment.';
+
+/** Monthly group fees by region. All rows are owner-set ('confirmed')
+ * except Malaysia, which the owner asked on 23 Sep 2026 to be shown as the
+ * current PKR->MYR conversion of the Pakistan rate ('indicative', D-297).
+ * Every other country is told to enquire. */
 export const REGION_PRICING: readonly RegionPricing[] = [
   { region: 'Pakistan', currency: 'PKR', symbol: 'Rs', igcse: 19000, aLevel: 24000 },
   { region: 'Saudi Arabia', currency: 'SAR', symbol: 'SAR', igcse: 270, aLevel: 330 },
@@ -57,6 +79,8 @@ export const REGION_PRICING: readonly RegionPricing[] = [
   { region: 'Oman', currency: 'OMR', symbol: 'OMR', igcse: 28.0, aLevel: 34.0 },
   { region: 'United Kingdom', currency: 'GBP', symbol: '£', igcse: 60, aLevel: 75 },
   { region: 'Europe', currency: 'EUR', symbol: '€', igcse: 70, aLevel: 90 },
+  // D-297 -- Rs 19,000 / Rs 24,000 at 68.01 PKR per MYR (FX_RATES, 2026-09-23).
+  { region: 'Malaysia', currency: 'MYR', symbol: 'RM', igcse: 279, aLevel: 353, status: 'indicative' },
 ] as const;
 
 /**
@@ -101,21 +125,23 @@ export const IB_PRICING = {
  */
 export const ONE_TO_ONE_PRICING: readonly RegionPricing[] = [
   { region: 'Pakistan', currency: 'PKR', symbol: 'Rs', igcse: 3500, aLevel: 4000 },
-  { region: 'Saudi Arabia', currency: 'SAR', symbol: 'SAR', igcse: 49, aLevel: 56 },
-  { region: 'United Arab Emirates', currency: 'AED', symbol: 'AED', igcse: 48, aLevel: 54 },
-  { region: 'Qatar', currency: 'QAR', symbol: 'QAR', igcse: 47, aLevel: 54 },
-  { region: 'Kuwait', currency: 'KWD', symbol: 'KWD', igcse: 3.773, aLevel: 4.312 },
-  { region: 'Bahrain', currency: 'BHD', symbol: 'BHD', igcse: 4.872, aLevel: 5.568 },
-  { region: 'Oman', currency: 'OMR', symbol: 'OMR', igcse: 4.984, aLevel: 5.696 },
-  { region: 'United Kingdom', currency: 'GBP', symbol: '£', igcse: 9, aLevel: 11 },
-  { region: 'Europe', currency: 'EUR', symbol: '€', igcse: 11, aLevel: 12 },
+  { region: 'Saudi Arabia', currency: 'SAR', symbol: 'SAR', igcse: 49, aLevel: 56, status: 'indicative' },
+  { region: 'United Arab Emirates', currency: 'AED', symbol: 'AED', igcse: 48, aLevel: 54, status: 'indicative' },
+  { region: 'Qatar', currency: 'QAR', symbol: 'QAR', igcse: 47, aLevel: 54, status: 'indicative' },
+  { region: 'Kuwait', currency: 'KWD', symbol: 'KWD', igcse: 3.773, aLevel: 4.312, status: 'indicative' },
+  { region: 'Bahrain', currency: 'BHD', symbol: 'BHD', igcse: 4.872, aLevel: 5.568, status: 'indicative' },
+  { region: 'Oman', currency: 'OMR', symbol: 'OMR', igcse: 4.984, aLevel: 5.696, status: 'indicative' },
+  { region: 'United Kingdom', currency: 'GBP', symbol: '£', igcse: 9, aLevel: 11, status: 'indicative' },
+  { region: 'Europe', currency: 'EUR', symbol: '€', igcse: 11, aLevel: 12, status: 'indicative' },
+  // D-297 -- Rs 3,500 / Rs 4,000 at 68.01 PKR per MYR (FX_RATES, 2026-09-23).
+  { region: 'Malaysia', currency: 'MYR', symbol: 'RM', igcse: 51, aLevel: 59, status: 'indicative' },
 ] as const;
 
 export const ONE_TO_ONE_TERMS = {
   unit: 'per class',
   deliveryMode: 'One-to-one only -- these rates are not available as group tuition.',
   verifiedDate: '2026-08-23',
-  conversionNote: 'Only the Pakistan rate above was directly set by Marlbridge. The other eight regions are currency conversions of that same Pakistan rate, computed from exchange rates dated 2026-08-22 (source: exchangerate-api.com) and applied 2026-08-23 -- they are not independently published regional rates and will be refreshed periodically as exchange rates move.',
+  conversionNote: 'Only the Pakistan rate above was directly set by Marlbridge. The other regions are indicative currency conversions of that same Pakistan rate (exchange rates from exchangerate-api.com: dated 2026-08-22 for the Gulf, UK and Europe rows, and 2026-09-23 for Malaysia). They are not independently published regional rates, are refreshed as exchange rates move, and the exact fee is confirmed in writing before any payment.',
   notPermanentNote: 'These fees are reviewed periodically and are not guaranteed to remain unchanged. The date above is when they were last confirmed or converted.',
 } as const;
 
@@ -146,7 +172,9 @@ export const PRICING_TERMS = {
   /** D-296 -- owner confirmed 23 Sep 2026 that the trial is a free real
    * teaching class ("demo" undersold that). */
   freeTrial: 'The first trial class is free.',
-  unsupportedRegionNote: 'Countries without a listed rate above are not priced automatically — enquire and Marlbridge will confirm a fee for your region. No currency conversion is applied on your behalf.',
+  // D-297 -- the old second sentence ("No currency conversion is applied on
+  // your behalf") sat next to tables that do contain labelled conversions.
+  unsupportedRegionNote: 'Countries without a listed rate are not priced automatically — enquire and Marlbridge will confirm a fee for your region in writing.',
   notPermanentNote: 'These fees are reviewed periodically and are not guaranteed to remain unchanged. The date below is when they were last confirmed.',
   /** Owner confirmed directly in chat, 2026-08-26 (D-043). Group-class length/frequency
    * is a fixed format; one-to-one length is fixed but the number of classes taken is
