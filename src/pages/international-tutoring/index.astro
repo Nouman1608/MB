@@ -1,0 +1,239 @@
+---
+/**
+ * D-302 -- the international tutoring hub (owner brief, 23 Sep 2026).
+ *
+ * One authoritative page for families outside Pakistan: what is taught,
+ * how it is delivered, time zones, how fees work (confirmed / indicative /
+ * on enquiry), how the free trial and enrolment work, which curricula are
+ * NOT taught, and a country selector. Country pages exist only where they
+ * add real country-specific value (D-303); every other country is served
+ * here and through an enquiry.
+ *
+ * Every number is computed from site data (matrix, pricing) or is a
+ * standard UTC offset. No branch, partner, local teacher, result or
+ * student count is claimed.
+ */
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import CTA from '../../components/ui/CTA.astro';
+import FAQ from '../../components/ui/FAQ.astro';
+import { routes } from '../../utils/urls/routes';
+import { taughtOnly, boardPath } from '../../utils/academic';
+import { BOARDS } from '../../data/academic/boards';
+import { faqNode } from '../../utils/schema/faq';
+import { TRIAL_STEPS } from '../../data/tuition';
+import { REGION_PRICING, ONE_TO_ONE_PRICING, PRICING_TERMS, IB_PRICING, isIndicative } from '../../data/pricing';
+import { site } from '../../data/site';
+import { clock } from '../../data/markets';
+
+const path = '/international-tutoring/';
+const taught = taughtOnly();
+const boards = BOARDS.filter((b) => b.status === 'offered' && taught.some((c) => c.boardSlug === b.slug));
+const qualifications = [...new Set(taught.map((c) => c.qualification))];
+const subjectNames = [...new Set(taught.map((c) => c.subject))].sort((a, b) => a.localeCompare(b));
+
+const confirmedRegions = REGION_PRICING.filter((r) => !isIndicative(r)).map((r) => r.region);
+const indicativeRegions = [
+  ...new Set([...REGION_PRICING, ...ONE_TO_ONE_PRICING].filter(isIndicative).map((r) => r.region)),
+];
+
+const COUNTRY_PAGES = [
+  { href: '/pakistan/', name: 'Pakistan', note: 'In person in Lahore or online. PKR fees, including IB.' },
+  { href: '/uk/', name: 'United Kingdom', note: 'AQA, OCR, Pearson Edexcel and Cambridge. GBP fees, evening and weekend times.' },
+  { href: '/uae/', name: 'United Arab Emirates', note: 'Pearson Edexcel, Cambridge, OxfordAQA, AQA. AED fees, one hour behind Lahore.' },
+  { href: '/qatar/', name: 'Qatar', note: 'Pearson Edexcel, Cambridge, IB. QAR fees, two hours behind Lahore.' },
+  { href: '/malaysia/', name: 'Malaysia', note: 'Cambridge IGCSE and A Level. Indicative RM fees, three hours ahead of Lahore.' },
+  { href: '/gulf/', name: 'Saudi Arabia, Kuwait, Bahrain, Oman', note: 'Gulf overview with each country’s fees and time zone.' },
+];
+
+/** Standard offsets only; countries with daylight saving are flagged. */
+const ZONES: { country: string; offset: number; dst?: boolean }[] = [
+  { country: 'United Kingdom (winter)', offset: 0, dst: true },
+  { country: 'Nigeria', offset: 1 },
+  { country: 'Kenya', offset: 3 },
+  { country: 'Saudi Arabia, Qatar, Jordan', offset: 3 },
+  { country: 'United Arab Emirates', offset: 4 },
+  { country: 'India', offset: 5.5 },
+  { country: 'Bangladesh', offset: 6 },
+  { country: 'Malaysia, Singapore, China', offset: 8 },
+];
+const diffLabel = (offset: number) => {
+  const d = offset - 5;
+  if (d === 0) return 'same as Lahore';
+  const h = Math.abs(d);
+  const txt = Number.isInteger(h) ? `${h} hour${h === 1 ? '' : 's'}` : `${Math.floor(h)} h ${Math.round((h % 1) * 60)} min`;
+  return d > 0 ? `${txt} ahead of Lahore` : `${txt} behind Lahore`;
+};
+
+const faqs = [
+  {
+    question: 'Where are Marlbridge classes taught from?',
+    answer: `Every class is taught live by a named subject teacher from Marlbridge's academy in Lahore, Pakistan (${site.about.address}), which is also the only place where classes are held in person. Students anywhere else are taught live online. Marlbridge is the international branch of Learners Academy.`,
+  },
+  {
+    question: 'Which qualifications can be taught online?',
+    answer: `${qualifications.join(', ')}, across ${boards.map((b) => b.name).join(', ')}, in the subjects listed on each board page. IB tuition is one-to-one only.`,
+  },
+  {
+    question: 'How much does it cost outside Pakistan?',
+    answer: `Group fees are set for ${confirmedRegions.filter((r) => r !== 'Pakistan').join(', ')}. One-to-one fees outside Pakistan${indicativeRegions.includes('Malaysia') ? ', and all Malaysia fees,' : ''} are shown as indicative currency conversions of the Pakistan fee. For any other country, Marlbridge confirms the fee in writing when you enquire. There are no automatic currency conversions at checkout, because there is no checkout: fees are agreed by email and paid by ${PRICING_TERMS.paymentMethods.join(' or ')}.`,
+  },
+  {
+    question: 'My country is not listed. Can my child still be taught?',
+    answer: 'Yes, if a teacher is available at a workable time for your time zone. Send a trial request with your country, time zone and preferred times; Marlbridge will tell you honestly whether it can offer a teacher and a time, and what the fee is, before anything is booked.',
+  },
+  {
+    question: 'Is the first class really free?',
+    answer: `${PRICING_TERMS.freeTrial} ${PRICING_TERMS.trialFormat.summary} Sending the form is a request, not a booking, and there is no obligation to continue.`,
+  },
+  {
+    question: 'How quickly will I hear back?',
+    answer: PRICING_TERMS.enquiryResponse.summary,
+  },
+];
+const faq = faqNode(faqs);
+---
+<PageLayout
+  title="International IGCSE, A Level & IB Tuition — Live Online from Lahore"
+  description="Live online IGCSE, O Level, GCSE, A Level and IB tuition for students worldwide from Marlbridge, the international branch of Learners Academy, Lahore. Boards, time zones, fees by country and the free trial class."
+  path={path}
+  eyebrow="International tutoring"
+  heading="International tutoring, taught live from Lahore."
+  lead={`Marlbridge teaches ${qualifications.slice(0, 5).join(', ')} and IB students anywhere in the world, live online, one-to-one or in small groups of up to ${PRICING_TERMS.maxGroupSize}. Every class is taught by a named subject teacher from our academy in Lahore, Pakistan. ${PRICING_TERMS.freeTrial}`}
+  breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'International tutoring', href: path }]}
+  jsonLd={faq ? [faq] : []}
+>
+  <Section surface="ivory" spacing="md" border labelledby="intl-glance">
+    <Container>
+      <h2 id="intl-glance" class="sr-only">At a glance</h2>
+      <dl class="m-0 grid gap-x-8 gap-y-4 text-[15px] sm:grid-cols-2 lg:grid-cols-3">
+        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">How classes are taught</dt><dd class="m-0 mt-1 text-ink">Live online, anywhere; in person only in Lahore</dd></div>
+        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Qualifications</dt><dd class="m-0 mt-1 text-ink">{qualifications.join(', ')}</dd></div>
+        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Boards</dt><dd class="m-0 mt-1 text-ink">{boards.map((b) => b.name).join(', ')}</dd></div>
+        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Formats</dt><dd class="m-0 mt-1 text-ink">Small group (up to {PRICING_TERMS.maxGroupSize}) or one-to-one; IB one-to-one only</dd></div>
+        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Class length</dt><dd class="m-0 mt-1 text-ink">Group: {PRICING_TERMS.classFormat.group} One-to-one: {PRICING_TERMS.classFormat.oneToOne}</dd></div>
+        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">First step</dt><dd class="m-0 mt-1 text-ink">{PRICING_TERMS.freeTrial} <a href={routes.trial} class="underline decoration-gold-500 underline-offset-2">Request it</a></dd></div>
+      </dl>
+    </Container>
+  </Section>
+
+  <Section surface="white" labelledby="intl-countries">
+    <Container>
+      <h2 id="intl-countries" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Choose your country</h2>
+      <p class="m-0 mb-6 max-w-[70ch] text-[15.5px] leading-[1.65] text-ink-mute">
+        Each country page gives local fees, time-zone arithmetic and the syllabus pages students there look for. Marlbridge has no branch, office or local teacher in any of these countries.
+      </p>
+      <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
+        {COUNTRY_PAGES.map((cp) => (
+          <li class="m-0">
+            <a href={cp.href} data-cta="intl-country" class="flex h-full flex-col gap-2 rounded-sm border border-rule bg-white p-5 hover:border-gold-500">
+              <span class="text-[17px] font-semibold text-navy-800">{cp.name}</span>
+              <span class="text-[14px] leading-[1.55] text-ink-mute">{cp.note}</span>
+            </a>
+          </li>
+        ))}
+        <li class="m-0">
+          <a href={routes.trial} data-cta="intl-other-country-trial" class="flex h-full flex-col gap-2 rounded-sm border border-dashed border-rule bg-ivory p-5 hover:border-gold-500">
+            <span class="text-[17px] font-semibold text-navy-800">Anywhere else</span>
+            <span class="text-[14px] leading-[1.55] text-ink-mute">Tell us your country, time zone and preferred times. We confirm whether we can offer a teacher, a time and a fee before anything is booked.</span>
+          </a>
+        </li>
+      </ul>
+    </Container>
+  </Section>
+
+  <Section surface="ivory" border labelledby="intl-subjects">
+    <Container>
+      <h2 id="intl-subjects" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Boards and subjects taught</h2>
+      <p class="m-0 mb-6 max-w-[70ch] text-[15.5px] leading-[1.65] text-ink-mute">
+        {taught.length} board, qualification and subject combinations currently have classes. Each board page lists them with their syllabus or specification codes. Some subjects (for example Psychology, Sociology and Geography) have free study resources but no classes at the moment.
+      </p>
+      <ul class="m-0 mb-6 flex list-none flex-wrap gap-3 p-0">
+        {boards.map((b) => (
+          <li class="m-0"><a href={boardPath(b.slug)} class="inline-block rounded-sm border border-rule bg-white px-4 py-2 text-[15px] font-semibold text-navy-800 hover:border-gold-500">{b.name}</a></li>
+        ))}
+      </ul>
+      <p class="m-0 max-w-[80ch] text-[14.5px] leading-[1.7] text-ink-mute"><span class="font-semibold text-navy-800">Subjects with classes:</span> {subjectNames.join(', ')}.</p>
+    </Container>
+  </Section>
+
+  <Section surface="white" border labelledby="intl-time">
+    <Container>
+      <h2 id="intl-time" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Time zones</h2>
+      <p class="m-0 mb-6 max-w-[70ch] text-[15.5px] leading-[1.65] text-ink-mute">
+        Lahore is on UTC+5 all year. The table shows where a 5:00 pm local class falls in Lahore. Countries that use daylight saving (such as the UK, Egypt, Spain, the United States, Canada and parts of Australia) move by an hour for part of the year. The exact time is always agreed with the teacher before the first class.
+      </p>
+      <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
+        <table class="w-full min-w-[480px] max-w-[720px] border-collapse text-[15px]">
+          <caption class="sr-only">Local 5 pm converted to Lahore time</caption>
+          <thead>
+            <tr class="border-b border-rule text-left">
+              <th scope="col" class="py-2 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Country</th>
+              <th scope="col" class="py-2 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Difference</th>
+              <th scope="col" class="py-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">5:00 pm local is, in Lahore</th>
+            </tr>
+          </thead>
+          <tbody>
+            {ZONES.map((z) => (
+              <tr class="border-b border-rule">
+                <th scope="row" class="py-2 pr-4 text-left font-normal text-ink">{z.country}</th>
+                <td class="py-2 pr-4 text-ink-mute">{diffLabel(z.offset)}</td>
+                <td class="py-2 text-ink-mute">{clock(17 + (5 - z.offset))}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </Container>
+  </Section>
+
+  <Section surface="ivory" border labelledby="intl-fees">
+    <Container>
+      <h2 id="intl-fees" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">How fees work</h2>
+      <ul class="m-0 grid max-w-[80ch] list-none gap-4 p-0">
+        <li class="m-0 rounded-sm border border-rule bg-white p-5"><p class="m-0 font-semibold text-navy-800">Confirmed</p><p class="m-0 mt-1 text-[15px] text-ink-mute">Group fees set by Marlbridge for {confirmedRegions.join(', ')}. The one-to-one fee is confirmed for Pakistan.</p></li>
+        <li class="m-0 rounded-sm border border-rule bg-white p-5"><p class="m-0 font-semibold text-navy-800">Indicative</p><p class="m-0 mt-1 text-[15px] text-ink-mute">Currency conversions of the Pakistan fee, shown so you can see the approximate cost in your currency: one-to-one fees outside Pakistan, and all Malaysia fees. The exact fee is confirmed in writing before any payment.</p></li>
+        <li class="m-0 rounded-sm border border-rule bg-white p-5"><p class="m-0 font-semibold text-navy-800">On enquiry</p><p class="m-0 mt-1 text-[15px] text-ink-mute">Every other country, and IB outside Pakistan ({IB_PRICING.perClass.toLocaleString('en-US')} {IB_PRICING.currency} per class is the Pakistan IB fee). Marlbridge confirms the fee in writing.</p></li>
+      </ul>
+      <p class="m-0 mt-5 max-w-[70ch] text-[15px] text-ink-mute">All figures, discounts and terms are on the <a href={routes.pricing} class="underline decoration-gold-500 underline-offset-2">pricing page</a>. {PRICING_TERMS.billing} {PRICING_TERMS.cancellationPolicy}</p>
+    </Container>
+  </Section>
+
+  <Section surface="white" border labelledby="intl-steps">
+    <Container>
+      <h2 id="intl-steps" class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">From enquiry to first class</h2>
+      <ol class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
+        {TRIAL_STEPS.map((step, i) => (
+          <li class="m-0 rounded-sm border border-rule bg-ivory p-5">
+            <p class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Step {i + 1}</p>
+            <p class="m-0 mt-1 text-[16px] font-semibold text-navy-800">{step.title}</p>
+            <p class="m-0 mt-2 text-[14.5px] leading-[1.6] text-ink-mute">{step.body}</p>
+          </li>
+        ))}
+      </ol>
+    </Container>
+  </Section>
+
+  <Section surface="ivory" border labelledby="intl-not">
+    <Container>
+      <h2 id="intl-not" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">What Marlbridge does not teach</h2>
+      <p class="m-0 max-w-[75ch] text-[15.5px] leading-[1.65] text-ink-mute">
+        National curricula and entrance examinations are not taught, including Pakistan's Matriculation and FBISE or provincial boards; India's CBSE, ICSE, ISC, JEE and NEET; Malaysia's SPM and STPM; the Gulf national curricula; the American curriculum, AP and SAT; and Australia's HSC, VCE, QCE, WACE and SACE. If you are not sure whether your school's exams are covered, ask and we will answer plainly.
+      </p>
+    </Container>
+  </Section>
+
+  <Section surface="white" border labelledby="intl-faq">
+    <Container>
+      <h2 id="intl-faq" class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Questions from families abroad</h2>
+      <div class="max-w-[80ch]"><FAQ items={faqs} /></div>
+    </Container>
+  </Section>
+
+  <CTA
+    heading="Tell us the board, subject, country and times that suit you. We will confirm a teacher and a time by email before anything is booked."
+    buttonLabel="Request a free trial"
+    buttonHref={routes.trial}
+  />
+</PageLayout>

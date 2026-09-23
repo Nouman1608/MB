@@ -25,10 +25,13 @@ import { routes } from '../../utils/urls/routes';
 import { BOARDS } from '../../data/academic/boards';
 import {
   REGION_PRICING, ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS,
-  PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee,
+  PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee, INDICATIVE_NOTE,
 } from '../../data/pricing';
 
 const path = '/gulf/';
+// D-303: the UAE and Qatar have their own country pages (owner choice,
+// 23 Sep 2026); the other four Gulf countries stay on this regional page.
+const COUNTRY_PAGES: Record<string, string> = { 'United Arab Emirates': '/uae/', 'Qatar': '/qatar/' };
 const GULF_REGIONS = ['Saudi Arabia', 'United Arab Emirates', 'Qatar', 'Kuwait', 'Bahrain', 'Oman'];
 const gulfGroup = REGION_PRICING.filter((r) => GULF_REGIONS.includes(r.region));
 const gulfOneToOne = ONE_TO_ONE_PRICING.filter((r) => GULF_REGIONS.includes(r.region));
@@ -84,14 +87,28 @@ const TIME_ZONES: Record<string, string> = {
 ---
 <PageLayout
   title="Marlbridge in the Gulf — Online Tuition, Pricing & Time Zones"
-  description="Marlbridge teaches Cambridge, Pearson Edexcel, AQA, OxfordAQA, OCR and IB subjects online to students across the Gulf, with confirmed group and one-to-one pricing for Saudi Arabia, UAE, Qatar, Kuwait, Bahrain and Oman."
+  description="Live online Cambridge, Pearson Edexcel, AQA, OxfordAQA, OCR and IB tuition from Lahore for students in Saudi Arabia, the UAE, Qatar, Kuwait, Bahrain and Oman: set group fees, indicative one-to-one fees and time zones."
   path={path}
   eyebrow="Gulf"
   heading="Marlbridge in the Gulf"
-  lead="Marlbridge's teaching is delivered live from Pakistan, entirely online for students across the Gulf -- with confirmed group and one-to-one pricing for six countries, and only a one-to-two hour time difference that keeps live classes practical."
-  breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Gulf', href: path }]}
+  lead="Every Marlbridge class is taught live online from our academy in Lahore, Pakistan. There is no Marlbridge office or teacher in the Gulf. Group fees are set for six Gulf countries, and the time difference is only one to two hours."
+  breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'International tutoring', href: '/international-tutoring/' }, { label: 'Gulf', href: path }]}
   jsonLd={jsonLd}
 >
+  <Section surface="ivory">
+    <Container>
+      <p class="m-0 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink">
+        Families in the United Arab Emirates and Qatar have their own pages, with local class times, the syllabus pages
+        searched most from each country, and what Marlbridge does not teach:
+        {' '}<a href="/uae/" class="font-semibold text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">online tutoring for the UAE</a>
+        {' '}and{' '}
+        <a href="/qatar/" class="font-semibold text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">online tutoring for Qatar</a>.
+        Other countries are covered on the
+        {' '}<a href="/international-tutoring/" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">international tutoring page</a>.
+      </p>
+    </Container>
+  </Section>
+
   <Section surface="white">
     <Container>
       <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Boards and qualifications taught</h2>
@@ -118,7 +135,7 @@ const TIME_ZONES: Record<string, string> = {
         close enough that a class held in the evening, Pakistan time, still lands at a reasonable after-school hour for a
         student in the Gulf. This is orientation only; your exact class time is confirmed directly with a teacher once you enrol.
       </p>
-      <div class="overflow-x-auto">
+      <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
         <table class="w-full min-w-[420px] border-collapse text-[14px]">
           <thead>
             <tr class="border-b border-rule text-left">
@@ -153,7 +170,7 @@ const TIME_ZONES: Record<string, string> = {
         {' '}<a href={routes.pricing} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">pricing page</a>.
       </p>
 
-      <div class="overflow-x-auto">
+      <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
         <table class="w-full min-w-[560px] border-collapse text-[15px]">
           <thead>
             <tr class="border-b border-rule text-left">
@@ -168,10 +185,10 @@ const TIME_ZONES: Record<string, string> = {
               const o = gulfOneToOne.find((x) => x.region === g.region)!;
               return (
                 <tr class="border-b border-rule">
-                  <td class="py-3 pr-4 text-ink">{g.region}</td>
+                  <td class="py-3 pr-4 text-ink">{COUNTRY_PAGES[g.region] ? <a href={COUNTRY_PAGES[g.region]} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{g.region}</a> : g.region}</td>
                   <td class="py-3 pr-4 text-ink-mute">{formatFee(g.igcse, g.currency)} {g.currency} <span class="text-[13px]">/mo</span></td>
                   <td class="py-3 pr-4 text-ink-mute">{formatFee(g.aLevel, g.currency)} {g.currency} <span class="text-[13px]">/mo</span></td>
-                  <td class="py-3 text-ink-mute">{formatFee(o.igcse, o.currency)}–{formatFee(o.aLevel, o.currency)} {o.currency}</td>
+                  <td class="py-3 text-ink-mute">{formatFee(o.igcse, o.currency)}–{formatFee(o.aLevel, o.currency)} {o.currency} <span class="text-[12px]">(indicative)</span></td>
                 </tr>
               );
             })}
@@ -180,7 +197,7 @@ const TIME_ZONES: Record<string, string> = {
       </div>
 
       <p class="m-0 mt-6 text-[13px] text-ink-mute">
-        One-to-one rates: {ONE_TO_ONE_TERMS.conversionNote} {PRICING_TERMS.freeTrial} {PRICING_TERMS.notPermanentNote} Last confirmed
+        One-to-one rates: {INDICATIVE_NOTE} {ONE_TO_ONE_TERMS.conversionNote} {PRICING_TERMS.freeTrial} {PRICING_TERMS.notPermanentNote} Last confirmed
         {' '}{PRICING_VERIFIED_DATE} (one-to-one rates {ONE_TO_ONE_TERMS.verifiedDate}).
       </p>
     </Container>

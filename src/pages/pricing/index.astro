@@ -71,7 +71,7 @@ const faq = faqNode(faqs);
 >
   <Section surface="white">
     <Container>
-      <div class="overflow-x-auto">
+      <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
         <table class="w-full min-w-[560px] border-collapse text-[15px]">
           <caption class="sr-only">Group-class fees per subject per month, by region</caption>
           <thead>
@@ -98,6 +98,10 @@ const faq = faqNode(faqs);
       <p class="m-0 mt-6 max-w-[62ch] text-[15.5px] leading-relaxed text-ink-mute">
         Don't see your country? {PRICING_TERMS.unsupportedRegionNote}
       </p>
+      <p class="m-0 mt-3 max-w-[62ch] text-[15.5px] leading-relaxed text-ink-mute">
+        Class times, boards taught and fees for families outside Pakistan are set out on the
+        {' '}<a href="/international-tutoring/" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">international online tutoring page</a>.
+      </p>
       <p class="m-0 mt-3 text-[13px] text-ink-mute">Pricing last verified {PRICING_VERIFIED_DATE}. {PRICING_TERMS.notPermanentNote}</p>
     </Container>
   </Section>
@@ -108,7 +112,7 @@ const faq = faqNode(faqs);
       <p class="m-0 mb-6 max-w-[62ch] text-[15.5px] leading-relaxed text-ink-mute">
         One-to-one tuition is priced per class rather than per subject per month. The multi-subject and sibling discounts above do not apply to one-to-one classes.
       </p>
-      <div class="overflow-x-auto">
+      <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
         <table class="w-full min-w-[560px] border-collapse text-[15px]">
           <caption class="sr-only">One-to-one fees per class, by region</caption>
           <thead>

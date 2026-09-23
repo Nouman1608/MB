@@ -171,6 +171,8 @@ const lines = [
   `- [Free trial class](${SITE_URL}/trial/): request a free trial class with a subject teacher (a request, not a booking).`,
   `- [Programs](${SITE_URL}/programs/): Marlbridge's programs by qualification; each program page says whether it is taught now.`,
   `- [Tutoring](${SITE_URL}/tutoring/)`,
+  `- [International online tutoring](${SITE_URL}/international-tutoring/): all classes are taught live online from Lahore, Pakistan (in person in Lahore too); class times by time zone and fees by country. Marlbridge has no office outside Pakistan.`,
+  `- Country pages: [Pakistan](${SITE_URL}/pakistan/), [United Kingdom](${SITE_URL}/uk/), [United Arab Emirates](${SITE_URL}/uae/), [Qatar](${SITE_URL}/qatar/), [Malaysia](${SITE_URL}/malaysia/), [Gulf](${SITE_URL}/gulf/).`,
   `- [For Schools](${SITE_URL}/schools/)`,
   `- [About Marlbridge](${SITE_URL}/about/)`,
   `- [Contact](${SITE_URL}/contact/)`,
