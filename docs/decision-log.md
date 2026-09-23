@@ -13532,3 +13532,61 @@ The International Growth branch built its own structured trial form (optional le
 **Result (same queries after the change).** "free trial" 76 pages (the pages that are actually about trials/programmes; `/trial/` first). "tuition fees UAE" → `/pricing/`. "edexcel igcse biology specification" → the Edexcel IGCSE Biology hub, then its checklist. Filters: Board 6, Qualification 7, Resource type 8, Subject 34, Level (resources). Finder: "physics o level" → 5054 Cambridge O Level Physics; "a level economics" → the five A Level Economics hubs; "ib economics" → the IB DP Economics hub; "0620" + Enter → the 0620 hub. Remaining limitation (recorded, not hidden): full-text ranking for very short generic queries ("a level economics") still favours resources that repeat the words, which is why the finder above the results matches hub names directly.
 
 **Validation.** Build clean (Pagefind: 2,144 pages indexed, 5 filter groups); `audit:all` 0 problems (including `validate-rendered-academic-labels`).
+
+## D-302 - International tutoring hub at /international-tutoring/ (2026-09-23)
+
+**Owner instruction.** The International Growth programme brief (23 Sep 2026) asks for one authoritative page for families outside Pakistan. It should say what is taught, how it is delivered, the time zones, how fees work, how the trial and enrolment work, what is not taught, and which country pages exist. It must not claim a branch, office, partner school or local teacher anywhere.
+
+**Evidence.** Search Console (Performance, last 3 months, exported 2026-09-23): no pilot country (PK, GB, AE, QA, MY) had a single impression for `/tutoring/` or `/trial/`. Searchers in those countries landed on board hubs, resources and checklists. They had no commercial page to move on to that explained how teaching works from abroad.
+
+| Change | Files |
+|---|---|
+| New hub page. Contents: at-a-glance (delivery, qualifications, boards, formats, class length, first step); a country selector (Pakistan, UK, UAE, Qatar, Malaysia, the Gulf page for the other four Gulf countries, and "anywhere else" going to the trial form); boards and subjects taught, computed from `taughtOnly()` with resources-only subjects named as such; a time-zone table using standard UTC offsets, with daylight-saving countries flagged; how fees work (Confirmed / Indicative / On enquiry), computed from the pricing data; the trial steps (`TRIAL_STEPS`); curricula not taught; FAQs with FAQPage JSON-LD; and a CTA. | `src/pages/international-tutoring/index.astro` (new), `src/data/markets.ts` (new: `clock()`, market data) |
+| The three country links in the sitewide footer (Pakistan / Gulf / United Kingdom) are replaced by one "International tutoring" link. The hub links to every country page. | `src/data/navigation.ts` |
+| `/tutoring/` (trial section) and `/pricing/` (under "Don't see your country?") link to the hub. | `src/pages/tutoring/index.astro`, `src/pages/pricing/index.astro` |
+| `llms.txt` lists the hub and the country pages, and states that there is no office outside Pakistan. | `scripts/generate-llms-txt.mjs`, `public/llms.txt` |
+
+**Not claimed (deliberately).** No student numbers, results, reviews, local addresses or availability guarantees. The only address shown is the owner-confirmed Lahore teaching address (`site.about.address`, 2026-09-21), described as the only in-person location.
+
+## D-303 - Pilot country pages: /uae/, /qatar/, /malaysia/; /pakistan/, /uk/ and /gulf/ brought into line (2026-09-23)
+
+**Owner decisions.** On 23 Sep 2026 the owner chose separate `/uae/` and `/qatar/` pages rather than relying on `/gulf/` alone. For Malaysia, the owner said to use the current PKR→MYR conversion (D-297, so every Malaysia figure is labelled indicative). The brief names Pakistan, UK, UAE, Qatar and Malaysia as the pilot markets. It lists Qatar, Jordan and Malaysia as Tier 1 for measurement, and forbids doorway pages.
+
+**What makes each page non-doorway.** Each page is built from `MarketPage.astro` with country data from `src/data/markets.ts`. The content that differs by country is:
+
+- Boards ordered for that country, with counts of **taught** combinations.
+- The hub pages searchers in that country actually found (Search Console, last 3 months, exported 2026-09-23). The label is computed, so any hub that has free resources only says "(free resources only, no classes at the moment)" (`hubIsTaught()`).
+- A local-time → Lahore-time table from the country's standard UTC offset.
+- The country's fee rows, each marked Confirmed or Indicative, plus IB "on enquiry".
+- The national or other curricula that are **not** taught there.
+- Country FAQs, each stating that there is no centre, office or teacher in that country.
+
+**Countries deliberately not given a page (yet).** The reason is the same for each: too little evidence of search demand, and a page would repeat the hub. The countries, with clicks / impressions over the last 3 months:
+
+- Jordan: 3 / 324
+- Saudi Arabia: 7 / 448
+- Kuwait, Bahrain and Oman: below Saudi Arabia (these stay on `/gulf/`)
+- India: 48 / 4,224. Its demand is resource-led, not tuition-led.
+- US: 7 / 4,984
+- Egypt: 14 / 407
+- Canada: 2 / 162
+- Australia: 1 / 231
+
+All of these are served by the hub and the enquiry form. Jordan stays a Tier 1 **measurement** market: its Search Console country segment is tracked, but it has no page.
+
+| Change | Files |
+|---|---|
+| New UAE, Qatar and Malaysia pages. Each has breadcrumbs Home › International tutoring › Country, FAQPage JSON-LD, and title/description naming the country, fees and times. | `src/components/sections/MarketPage.astro` (new), `src/pages/{uae,qatar,malaysia}/index.astro` (new), `src/data/markets.ts` |
+| `/pakistan/`: the lead now states the Learners Academy relationship and in-person or online teaching. The new wording replaces "Pakistan is where Marlbridge's live teaching operates", which read as if teaching operated only in Pakistan. Added: a "Where classes are taught" section with the owner-confirmed Lahore address; the exam-series wording "most Cambridge syllabuses June and November, some June only" (each syllabus page states its series); the searched Cambridge hubs; and a link to the hub. "All six boards … no reduced catalogue" was replaced because resources-only subjects exist. | `src/pages/pakistan/index.astro` |
+| `/uk/`: added "no UK office, centre or teacher"; the UK routes not taught (Scottish Nationals/Highers, WJEC/Eduqas, CCEA, BTEC, T Levels; none of these boards is in `BOARDS`); the searched specification pages, with AQA A Level Psychology labelled resources-only; one-to-one row marked indicative; hub breadcrumb. | `src/pages/uk/index.astro` |
+| `/gulf/`: the description and lead said the **one-to-one** pricing was "confirmed"; D-297 made it indicative, so they now say so. The one-to-one column is marked "(indicative)" with `INDICATIVE_NOTE`. Also added: "no office or teacher in the Gulf"; links to `/uae/` and `/qatar/` (intro and table rows); hub breadcrumb; the claim "every board … same catalogue" corrected. | `src/pages/gulf/index.astro` |
+
+**Validation (D-302 + D-303).** `astro check` 0 errors; `validate:academic` pass; `test:api` 68 pass; build clean (2,155 pages); `audit:all` 0 problems (metadata unique, structured data valid, no broken links or orphans, sitemap 2,148 URLs all indexable). Headless Chromium at 390 px: no horizontal overflow and axe (WCAG 2.2 AA tags) clean on all seven international pages. The "free resources only" labels appear exactly where the hub pages themselves say "not offering classes": PK Global Perspectives, UK AQA A Level Psychology, QA MYP Individuals and Societies.
+
+## D-304 - Scrollable tables are keyboard-focusable (2026-09-23)
+
+**Evidence.** axe `scrollable-region-focusable` (WCAG 2.1.1) failed on every page with a fee or assessment table: the `overflow-x-auto` wrappers scroll sideways on phones but could not be reached by keyboard.
+
+**Change.** Every `overflow-x-auto` table wrapper gets `tabindex="0"`. On English pages it also gets `role="group"` and an accessible name ("Table, scrolls sideways on small screens"). The Arabic, Urdu and Bengali pages get `tabindex` only, so no untranslated English name is exposed. Files: `MarketPage.astro`, the hub, `/uk/`, `/gulf/`, `/pricing/` (in the D-302/D-303 commit), and `src/pages/[locale]/pricing/index.astro`, `src/pages/{ar,ur,bn}/index.astro`, `src/pages/boards/[board]/[qualification]/[subject].astro`, `src/pages/admin/search-demand.astro`.
+
+**Validation.** axe clean on `/pricing/`, `/ar/pricing/`, `/boards/cambridge/igcse/physics/`, `/tutoring/` and the seven international pages. `audit:all` 0 problems.

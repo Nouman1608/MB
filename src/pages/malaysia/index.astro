@@ -1,0 +1,7 @@
+---
+/** D-303 -- country market page; content in src/data/markets.ts. */
+import MarketPage from '../../components/sections/MarketPage.astro';
+import { marketBySlug } from '../../data/markets';
+const market = marketBySlug('malaysia')!;
+---
+<MarketPage market={market} />

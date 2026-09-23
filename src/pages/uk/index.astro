@@ -21,11 +21,27 @@ import { taughtOnly, boardPath } from '../../utils/academic';
 import { boardBySlug } from '../../data/academic/boards';
 import {
   REGION_PRICING, ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS,
-  PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee,
+  PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee, INDICATIVE_NOTE,
 } from '../../data/pricing';
 import { faqNode } from '../../utils/schema/faq';
+import { hubIsTaught, RESOURCES_ONLY_SUFFIX } from '../../data/markets';
 
 const path = '/uk/';
+
+/**
+ * D-303: the hub pages searchers located in the UK found most often
+ * (Google Search Console, Performance, last 3 months, exported 2026-09-23).
+ * Evidence of demand only; labels mark the combinations that have free
+ * resources but no classes at the moment.
+ */
+const UK_SEARCHED_HUBS = [
+  { path: '/boards/aqa/gcse/biology/', label: 'AQA GCSE Biology' },
+  { path: '/boards/aqa/a-level/psychology/', label: 'AQA A Level Psychology' },
+  { path: '/boards/aqa/a-level/chemistry/', label: 'AQA A Level Chemistry' },
+  { path: '/boards/edexcel/a-level/economics/', label: 'Pearson Edexcel A Level Economics' },
+  { path: '/boards/aqa/a-level/law/', label: 'AQA A Level Law' },
+  { path: '/boards/cambridge/a-level/law/', label: 'Cambridge A Level Law' },
+];
 const uk = REGION_PRICING.find((r) => r.region === 'United Kingdom')!;
 const ukOneToOne = ONE_TO_ONE_PRICING.find((r) => r.region === 'United Kingdom')!;
 
@@ -83,7 +99,7 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
   eyebrow="United Kingdom"
   heading="Marlbridge in the UK"
   lead="Marlbridge teaches AQA, OCR, Pearson Edexcel and Cambridge subjects live online to students in the UK — GCSE, IGCSE and A Level — with published GBP pricing, named subject specialists, and class times set around the four-to-five-hour difference from Pakistan."
-  breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'United Kingdom', href: path }]}
+  breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'International tutoring', href: '/international-tutoring/' }, { label: 'United Kingdom', href: path }]}
   jsonLd={jsonLd}
 >
   <Section surface="white">
@@ -93,7 +109,7 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
         The counts below are the subject combinations currently active in Marlbridge's catalogue for each board, computed from
         the same data that builds every board and subject page. Follow a board to see the subjects and specification codes.
       </p>
-      <div class="overflow-x-auto">
+      <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
         <table class="w-full min-w-[520px] border-collapse text-[15px]">
           <thead>
             <tr class="border-b border-rule text-left">
@@ -123,6 +139,34 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
 
   <Section surface="ivory" border>
     <Container>
+      <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Where the teaching happens, and what is not taught</h2>
+      <p class="m-0 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
+        Marlbridge has no office, centre or teacher based in the UK. Every class is taught live online by a named subject
+        teacher from our academy in Lahore, Pakistan. Marlbridge does not teach Scottish Nationals or Highers, WJEC or
+        Eduqas, CCEA, BTEC or T Levels. Families in other countries: see
+        {' '}<a href="/international-tutoring/" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">international online tutoring</a>.
+      </p>
+    </Container>
+  </Section>
+
+  <Section surface="white" border>
+    <Container>
+      <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Specification pages UK students look up most</h2>
+      <p class="m-0 mb-4 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
+        From Marlbridge's own Google Search Console data for searches made in the UK over the last three months. Each page
+        gives the official specification, how it is assessed, and free study material. Some have free resources only, with
+        no classes at the moment; the page says so.
+      </p>
+      <ul class="m-0 grid gap-2 p-0 sm:grid-cols-2" style="list-style: none;">
+        {UK_SEARCHED_HUBS.map((h) => (
+          <li><a href={h.path} class="text-[15px] text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{h.label}</a>{hubIsTaught(h.path) ? '' : <span class="text-[13px] text-ink-mute">{RESOURCES_ONLY_SUFFIX}</span>}</li>
+        ))}
+      </ul>
+    </Container>
+  </Section>
+
+  <Section surface="ivory" border>
+    <Container>
       <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Time zones — the honest constraint</h2>
       <p class="m-0 mb-6 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
         All Marlbridge teaching is delivered live from Pakistan (UTC+5). The UK is on GMT (UTC+0) in winter and British Summer
@@ -131,7 +175,7 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
         weekends, when the overlap is widest. This is orientation only; the exact class time is agreed with the teacher before
         the first class.
       </p>
-      <div class="overflow-x-auto">
+      <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
         <table class="w-full min-w-[420px] border-collapse text-[14px]">
           <thead>
             <tr class="border-b border-rule text-left">
@@ -167,7 +211,7 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
         separately published UK price. Full terms, discounts and every other region are on the
         {' '}<a href={routes.pricing} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">pricing page</a>.
       </p>
-      <div class="overflow-x-auto">
+      <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
         <table class="w-full min-w-[520px] border-collapse text-[15px]">
           <thead>
             <tr class="border-b border-rule text-left">
@@ -183,7 +227,7 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
               <td class="py-3 text-ink-mute">{formatFee(uk.aLevel, uk.currency)} {uk.currency}</td>
             </tr>
             <tr class="border-b border-rule">
-              <td class="py-3 pr-4 text-ink">One-to-one, per class</td>
+              <td class="py-3 pr-4 text-ink">One-to-one, per class <span class="text-[12px] text-ink-mute">(indicative)</span></td>
               <td class="py-3 pr-4 text-ink-mute">{formatFee(ukOneToOne.igcse, ukOneToOne.currency)} {ukOneToOne.currency}</td>
               <td class="py-3 text-ink-mute">{formatFee(ukOneToOne.aLevel, ukOneToOne.currency)} {ukOneToOne.currency}</td>
             </tr>
@@ -191,7 +235,7 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
         </table>
       </div>
       <p class="m-0 mt-6 text-[13px] text-ink-mute">
-        One-to-one rates: {ONE_TO_ONE_TERMS.conversionNote} {PRICING_TERMS.freeTrial} {PRICING_TERMS.notPermanentNote} Last confirmed
+        One-to-one rates: {INDICATIVE_NOTE} {ONE_TO_ONE_TERMS.conversionNote} {PRICING_TERMS.freeTrial} {PRICING_TERMS.notPermanentNote} Last confirmed
         {' '}{PRICING_VERIFIED_DATE} (one-to-one rates {ONE_TO_ONE_TERMS.verifiedDate}).
       </p>
     </Container>

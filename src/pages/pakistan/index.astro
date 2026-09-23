@@ -30,6 +30,21 @@ import {
   REGION_PRICING, ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS, IB_PRICING,
   PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee,
 } from '../../data/pricing';
+import { site } from '../../data/site';
+import { hubIsTaught, RESOURCES_ONLY_SUFFIX } from '../../data/markets';
+
+/**
+ * D-303: the Cambridge-board hub pages searchers located in Pakistan found
+ * most often (Google Search Console, Performance, last 3 months, exported
+ * 2026-09-23). Evidence of demand, not a ranking claim.
+ */
+const PK_SEARCHED_HUBS = [
+  { path: '/boards/cambridge/o-level/pakistan-studies/', label: 'Cambridge O Level Pakistan Studies' },
+  { path: '/boards/cambridge/igcse/global-perspectives/', label: 'Cambridge IGCSE Global Perspectives' },
+  { path: '/boards/cambridge/o-level/english-language/', label: 'Cambridge O Level English Language' },
+  { path: '/boards/cambridge/a-level/english-language/', label: 'Cambridge A Level English Language' },
+  { path: '/boards/cambridge/o-level/urdu-language/', label: 'Cambridge O Level Urdu Language' },
+];
 
 const path = '/pakistan/';
 const pkGroup = REGION_PRICING.find((r) => r.region === 'Pakistan')!;
@@ -69,20 +84,34 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
 ---
 <PageLayout
   title="Marlbridge in Pakistan — Boards, Pricing & Free Trial"
-  description="Marlbridge's live teaching operates from Pakistan -- every board we teach (Cambridge, Pearson Edexcel, AQA, OxfordAQA, OCR, IB), group and one-to-one pricing in PKR, and how to book a free trial class."
+  description="O Level, IGCSE, A Level and IB tuition in Pakistan: in person at our Lahore academy or live online, with group and one-to-one fees in PKR, the boards taught and how to book a free trial class."
   path={path}
   eyebrow="Pakistan"
   heading="Marlbridge in Pakistan"
-  lead="Pakistan is where Marlbridge's live teaching operates, through Learners Academy, in group and one-to-one formats. There are exceptions: OCR is not offered by Learners Academy directly, IB is taught one-to-one only, and SAT preparation is not yet offered. Pakistan is the only region with a confirmed IB rate."
-  breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Pakistan', href: path }]}
+  lead="Marlbridge is the international branch of Learners Academy in Lahore. Students in Pakistan can be taught in person at the academy or live online, in group or one-to-one classes. IB is taught one-to-one only, OCR is not offered by Learners Academy directly, and SAT preparation is not yet offered."
+  breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'International tutoring', href: '/international-tutoring/' }, { label: 'Pakistan', href: path }]}
   jsonLd={jsonLd}
 >
+  <Section surface="ivory">
+    <Container>
+      <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Where classes are taught</h2>
+      <p class="m-0 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink">
+        {site.about.address
+          ? <>In-person classes are taught at the Learners Academy campus, {site.about.address}.</>
+          : <>In-person classes are taught at the Learners Academy campus in Lahore.</>}
+        {' '}Students elsewhere in Pakistan join the same teachers live online. Most Cambridge syllabuses are examined in
+        the June and November series, and some in June only; each syllabus page states its series.
+        {' '}Students outside Pakistan: see <a href="/international-tutoring/" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">international online tutoring</a>.
+      </p>
+    </Container>
+  </Section>
+
   <Section surface="white">
     <Container>
       <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Boards and qualifications taught</h2>
       <p class="m-0 mb-6 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
-        All six boards Marlbridge publishes are available to students in Pakistan -- there is no reduced or region-limited
-        catalogue here. See each board's own page for the full list of qualifications, subjects and syllabus codes covered.
+        Every board Marlbridge teaches is available to students in Pakistan. Not every subject with free resources has
+        classes at the moment: each board's page shows which qualifications and subjects are taught, and the syllabus codes.
       </p>
       <ul class="m-0 grid gap-3 p-0 sm:grid-cols-2" style="list-style: none;">
         {offeredBoards.map((b) => (
@@ -140,6 +169,21 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
   </Section>
 
   <Section surface="white" border>
+    <Container>
+      <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Syllabus pages students in Pakistan look up most</h2>
+      <p class="m-0 mb-4 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
+        Taken from Marlbridge's own Google Search Console data for searches made in Pakistan over the last three months.
+        Each page names the syllabus code, the current and upcoming exam years, and links to a free checklist.
+      </p>
+      <ul class="m-0 grid gap-2 p-0 sm:grid-cols-2" style="list-style: none;">
+        {PK_SEARCHED_HUBS.map((h) => (
+          <li><a href={h.path} class="text-[15px] text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{h.label}</a>{hubIsTaught(h.path) ? '' : <span class="text-[13px] text-ink-mute">{RESOURCES_ONLY_SUFFIX}</span>}</li>
+        ))}
+      </ul>
+    </Container>
+  </Section>
+
+  <Section surface="ivory" border>
     <Container>
       <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">What Marlbridge does not cover</h2>
       <p class="m-0 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
