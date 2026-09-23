@@ -72,7 +72,7 @@ const jsonLd = [
 ];
 ---
 <PageLayout
-  title={d.name}
+  title={isPerson && d.role ? `${d.name}, ${d.role}` : d.name}
   description={`${d.name} — ${d.role} at Marlbridge. ${d.bio}`.slice(0, 160)}
   path={path}
   eyebrow={isPerson ? 'Meet the teacher' : 'Author'}

@@ -14,7 +14,7 @@ import { articleNode } from '../../utils/schema/article';
 import { routes, resourceUrl } from '../../utils/urls/routes';
 import { syllabusFor } from '../../data/academic/syllabuses';
 import { PRICING_TERMS } from '../../data/pricing';
-import { LEVEL_FOR_QUALIFICATION, taughtOnly } from '../../utils/academic';
+import { LEVEL_FOR_QUALIFICATION, taughtOnly, activeOnly, academicHubPath } from '../../utils/academic';
 import { matrixSlugsFor } from '../../utils/content/status';
 import { teachersForSubjectTitle } from '../../utils/content/subject-teachers';
 import ResourceNextSteps from '../../components/tools/ResourceNextSteps.astro';
@@ -132,6 +132,20 @@ const officialSyllabuses = d.boards
  * The form page still offers a plain-email fallback for anyone who'd
  * rather not use it.
  */
+/**
+ * D-306 -- every resource links to the syllabus hub(s) it belongs to. Only
+ * 103 of 1,653 resource pages linked their hub (and only from hand-written
+ * body text), although Search Console shows hubs are the pages searchers
+ * land on. Hubs are matched on the resource's own declared boards,
+ * qualifications and subject; nothing is inferred beyond that.
+ */
+const syllabusHubs = activeOnly()
+  .filter((c) => d.boards.includes(c.boardSlug) && (d.qualifications as string[]).includes(c.qualificationSlug) && matrixSubjects.includes(c.subjectSlug))
+  .slice(0, 4)
+  .map((c) => ({
+    href: academicHubPath(c),
+    label: `${c.qualification.startsWith('IB ') ? c.qualification : `${c.board} ${c.qualification}`} ${c.subject}`,
+  }));
 const correctionHref = `${routes.reportCorrection}#page=${encodeURIComponent(`https://marlbridge.com${path}`)}`;
 const alignedToParts = [...boardNames, ...qualificationNames, subject?.data.title].filter(Boolean) as string[];
 let alignedToText = `Aligned to ${alignedToParts.join(' ')}`;
@@ -249,6 +263,16 @@ const jsonLd = [articleNode({
         </>
       ))}
     </p>
+    {syllabusHubs.length > 0 && (
+      <p class="m-0 mt-1">
+        Syllabus page (what it covers and how it is assessed):{' '}
+        {syllabusHubs.map((h, i) => (
+          <>
+            <a href={h.href} class="underline decoration-gold-500 underline-offset-2">{h.label}</a>{i < syllabusHubs.length - 1 ? '; ' : '.'}
+          </>
+        ))}
+      </p>
+    )}
     <p class="m-0 mt-1"><a href={correctionHref} class="underline decoration-gold-500 underline-offset-2">Found an error? Report a correction.</a></p>
   </div>
 
