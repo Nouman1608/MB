@@ -20,7 +20,7 @@ const headingClass = headingFont === 'display'
     <Container>
       {seo.breadcrumbs && seo.breadcrumbs.length > 1 && <Breadcrumbs items={seo.breadcrumbs} />}
       {eyebrow && <p class="m-0 mb-5 text-xs font-medium uppercase tracking-[0.2em] text-gold-600">{eyebrow}</p>}
-      <h1 class={`m-0 max-w-[24ch] text-navy-800 ${headingClass}`}>{heading}</h1>
+      <h1 data-pagefind-weight="10" class={`m-0 max-w-[24ch] text-navy-800 ${headingClass}`}>{heading}</h1>
       {lead && <p class="m-0 mt-6 max-w-[62ch] text-[length:var(--text-lead)] leading-[1.55] text-ink-mute">{lead}</p>}
       <slot name="hero-extra" />
     </Container>

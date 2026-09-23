@@ -561,6 +561,15 @@ const jsonLd = [
     <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Qualification </dt><dd class="m-0 inline text-ink-mute"><a href={levelPath(c.qualificationSlug)} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{c.qualification}</a></dd></div>
   </dl>
 
+  {/* D-301 -- Pagefind filters, so a filtered search keeps the hubs:
+      same Board/Qualification/Subject values the resource pages use. */}
+  <div slot="hero-extra" hidden aria-hidden="true">
+    <span data-pagefind-filter="Resource type:Syllabus hub"></span>
+    <span data-pagefind-filter={`Board:${c.board}`}></span>
+    <span data-pagefind-filter={`Qualification:${c.qualification}`}></span>
+    {subjectEntry && <span data-pagefind-filter={`Subject:${subjectEntry.data.title}`}></span>}
+  </div>
+
   {/*
     v1.2 WS10 — a concise, answer-first "at a glance" box near the top of
     every leaf page, covering exactly the questions a reader (or an AI

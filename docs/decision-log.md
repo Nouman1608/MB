@@ -13514,3 +13514,21 @@ The same commit carries the correction/trial link-format change in `src/pages/re
 **Not changed.** Syllabus data, verification dates, assessment tables and FAQs (already answer-first with sources and dates, v1.2 WS10). No hub was merged, redirected or noindexed.
 
 **Validation.** Build clean; `audit:all` 0 problems (metadata: 0 duplicate titles/descriptions; `validate-rendered-academic-labels` passes: every title still contains the board or qualification and the canonical subject name).
+
+## D-300 - Withdrawn: this branch's structured trial form (2026-09-23)
+
+The International Growth branch built its own structured trial form (optional learner fields, `TrialDetailsFields.astro`). Before merge, `main` had already shipped the owner-approved structured trial form (D-286, then shortened and made compulsory in D-291 to D-293). This branch's form was therefore **not merged**, so there are not two competing forms. Only its API hardening survives (D-295: 200-character caps on short fields, own-property guards). The number is kept so the log has no gap.
+## D-301 - On-site search: index page content only, filters on hubs and checklists, accessible syllabus finder (2026-09-23)
+
+**Evidence (built index at `17e97b7`, queries run in headless Chromium against `/pagefind/pagefind.js`).** "free trial" matched 1,693 of 2,091 indexed pages, because the tuition call-to-action inside `<main>` was indexed on every resource. Hubs, checklists and programme pages had no filter values, so they disappeared as soon as a filter was ticked. "tuition fees UAE" returned 0 results. The code box navigated away while the visitor was still typing a code (WCAG 3.2.2), had no Arrow/Escape handling, and left `aria-expanded="true"` after Escape. The Pagefind input had no accessible name, and result counts were not announced.
+
+| Change | Files |
+|---|---|
+| Calls to action (`CTA` bands, the resource "Studying this with a teacher" band) and cross-link grids (`RelatedGrid`) carry `data-pagefind-ignore="all"`. | `src/components/layout/Section.astro` (`searchIgnore` prop), `src/components/ui/CTA.astro`, `src/components/layout/RelatedGrid.astro`, `src/pages/resources/[slug].astro` |
+| Hubs get Board, Qualification, Subject and "Resource type: Syllabus hub" filters; checklists get Board, Qualification and "Topic checklist". The resource "Level" filter is kept: `validate-rendered-academic-labels` uses it to check the rendered level label, and removing it would weaken that check. Page H1s are weighted (`data-pagefind-weight="10"`). | `src/pages/boards/[board]/[qualification]/[subject].astro`, `src/pages/checklists/[board]/[qualification]/[subject].astro`, `src/pages/resources/[slug].astro`, `src/layouts/PageLayout.astro` |
+| The syllabus finder accepts a code **or a name** ("O Level Physics", "IB Economics") across all 160 hubs, including IB hubs, which have no numeric code. It follows the WAI-ARIA combobox pattern: Arrow keys and `aria-activedescendant`, Escape closes, Enter opens the exact or highlighted match, and typing never navigates. | `src/pages/search/index.astro` |
+| The Pagefind input gets an `aria-label`, and its message becomes a polite live region (English and translated search pages). | `src/pages/search/index.astro`, `src/pages/[locale]/search/index.astro` |
+
+**Result (same queries after the change).** "free trial" 76 pages (the pages that are actually about trials/programmes; `/trial/` first). "tuition fees UAE" → `/pricing/`. "edexcel igcse biology specification" → the Edexcel IGCSE Biology hub, then its checklist. Filters: Board 6, Qualification 7, Resource type 8, Subject 34, Level (resources). Finder: "physics o level" → 5054 Cambridge O Level Physics; "a level economics" → the five A Level Economics hubs; "ib economics" → the IB DP Economics hub; "0620" + Enter → the 0620 hub. Remaining limitation (recorded, not hidden): full-text ranking for very short generic queries ("a level economics") still favours resources that repeat the words, which is why the finder above the results matches hub names directly.
+
+**Validation.** Build clean (Pagefind: 2,144 pages indexed, 5 filter groups); `audit:all` 0 problems (including `validate-rendered-academic-labels`).

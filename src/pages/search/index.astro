@@ -28,8 +28,19 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import { clientCodeIndex } from '../../utils/academic/codeIndex.ts';
+import { activeOnly, academicHubPath } from '../../utils/academic';
 
 const codeIndex = clientCodeIndex();
+/** D-301 -- every hub by name too (IB hubs have no numeric code), so
+ *  "o level physics" or "ib economics" finds the right hub even when
+ *  full-text ranking favours pages that repeat the words more often. */
+const withCode = new Set(codeIndex.map((e) => e.hubPath));
+const hubIndex = [
+  ...codeIndex,
+  ...activeOnly()
+    .map((c) => ({ code: '', hubPath: academicHubPath(c), label: `${c.board} ${c.qualification} ${c.subject}` }))
+    .filter((e) => !withCode.has(e.hubPath)),
+];
 ---
 {/**
  * QIGT programme -- noindex this page. It has no fixed unique content of
@@ -46,7 +57,7 @@ const codeIndex = clientCodeIndex();
 
       <div class="mb-8">
         <label for="syllabus-code-jump" class="mb-2 block text-sm font-medium text-navy-900">
-          Know the syllabus or specification code? Jump straight there.
+          Looking for a syllabus? Type its code (e.g. 0620) or its name (e.g. O Level Physics).
         </label>
         <div class="relative max-w-sm">
           <input
@@ -54,7 +65,7 @@ const codeIndex = clientCodeIndex();
             type="text"
             inputmode="text"
             autocomplete="off"
-            placeholder="e.g. 0620, 9701, H432"
+            placeholder="e.g. 0620, 9701, O Level Physics"
             class="w-full rounded-lg border border-navy-200 px-4 py-2.5 text-navy-900 placeholder:text-navy-400 focus:border-navy-400 focus:outline-none focus:ring-2 focus:ring-navy-100"
             aria-describedby="syllabus-code-jump-hint"
             aria-expanded="false"
@@ -93,11 +104,31 @@ const codeIndex = clientCodeIndex();
   window.addEventListener('DOMContentLoaded', function () {
     if (typeof PagefindUI === 'undefined') return;
     new PagefindUI({ element: '#pagefind-search', showSubResults: true, showImages: false });
+    // D-301 -- accessibility: Pagefind's input has only a placeholder, and
+    // its result count is not announced. Name the input and make the
+    // message a polite live region once Pagefind has rendered them.
+    var host = document.getElementById('pagefind-search');
+    if (!host) return;
+    var apply = function () {
+      var field = host.querySelector('.pagefind-ui__search-input');
+      if (field && !field.getAttribute('aria-label')) field.setAttribute('aria-label', 'Search Marlbridge resources, subjects and syllabuses');
+      var msg = host.querySelector('.pagefind-ui__message');
+      if (msg && !msg.getAttribute('aria-live')) {
+        msg.setAttribute('role', 'status');
+        msg.setAttribute('aria-live', 'polite');
+      }
+    };
+    apply();
+    new MutationObserver(apply).observe(host, { childList: true, subtree: true });
   });
 </script>
 
-<script type="application/json" id="syllabus-code-index" set:html={JSON.stringify(codeIndex)} />
+<script type="application/json" id="syllabus-code-index" set:html={JSON.stringify(hubIndex)} />
 <script is:inline>
+  // D-301 -- keyboard-accessible combobox (WAI-ARIA pattern). Typing no
+  // longer navigates away by itself (WCAG 3.2.2): Enter opens the exact
+  // match or the highlighted option; Arrow keys move through options;
+  // Escape closes the list.
   window.addEventListener('DOMContentLoaded', function () {
     var dataEl = document.getElementById('syllabus-code-index');
     if (!dataEl) return;
@@ -110,25 +141,44 @@ const codeIndex = clientCodeIndex();
     var input = document.getElementById('syllabus-code-jump');
     var results = document.getElementById('syllabus-code-jump-results');
     if (!input || !results) return;
+    var matches = [];
+    var active = -1;
 
     function normalize(s) {
       return s.trim().toUpperCase();
     }
 
-    function render(matches) {
+    function setActive(i) {
+      var items = results.querySelectorAll('[role=option]');
+      items.forEach(function (el, n) {
+        el.setAttribute('aria-selected', n === i ? 'true' : 'false');
+        el.classList.toggle('bg-navy-50', n === i);
+      });
+      active = i;
+      if (i >= 0 && items[i]) input.setAttribute('aria-activedescendant', items[i].id);
+      else input.removeAttribute('aria-activedescendant');
+    }
+
+    function render(list) {
+      matches = list.slice(0, 8);
       results.innerHTML = '';
+      active = -1;
+      input.removeAttribute('aria-activedescendant');
       if (!matches.length) {
         results.classList.add('hidden');
         input.setAttribute('aria-expanded', 'false');
         return;
       }
-      matches.slice(0, 8).forEach(function (entry) {
+      matches.forEach(function (entry, n) {
         var li = document.createElement('li');
         li.setAttribute('role', 'option');
+        li.id = 'syllabus-code-option-' + n;
+        li.setAttribute('aria-selected', 'false');
         var a = document.createElement('a');
         a.href = entry.hubPath;
+        a.tabIndex = -1;
         a.className = 'block px-4 py-2 text-sm text-navy-900 hover:bg-navy-50 focus:bg-navy-50 focus:outline-none';
-        a.textContent = entry.code + ' — ' + entry.label;
+        a.textContent = entry.code ? entry.code + ' — ' + entry.label : entry.label;
         li.appendChild(a);
         results.appendChild(li);
       });
@@ -142,17 +192,38 @@ const codeIndex = clientCodeIndex();
         render([]);
         return;
       }
-      var exact = index.find(function (e) {
-        return e.code === q;
-      });
-      if (exact && q.length >= 3) {
-        window.location.href = exact.hubPath;
-        return;
+      var exact = index.filter(function (e) { return e.code && e.code === q; });
+      var rest = index.filter(function (e) { return e.code && e.code !== q && e.code.indexOf(q) === 0; });
+      if (!exact.length && !rest.length) {
+        // Name search: every word must appear in "<board> <qualification>
+        // <subject> <code>"; "o level" / "a level" are matched as phrases.
+        var norm = function (t) { return t.toLowerCase().replace(/\b([oa])[\s-]+level/g, '$1-level').replace(/as\s*&\s*a/g, 'a'); };
+        var words = norm(q).split(/\s+/).filter(Boolean);
+        rest = index.filter(function (e) {
+          var hay = norm(e.label + ' ' + e.code);
+          return words.every(function (w) { return hay.indexOf(w) !== -1; });
+        });
       }
-      var matches = index.filter(function (e) {
-        return e.code.indexOf(q) === 0;
-      });
-      render(matches);
+      render(exact.concat(rest));
+    });
+
+    input.addEventListener('keydown', function (e) {
+      if (e.key === 'ArrowDown') {
+        e.preventDefault();
+        if (matches.length) setActive(active < matches.length - 1 ? active + 1 : 0);
+      } else if (e.key === 'ArrowUp') {
+        e.preventDefault();
+        if (matches.length) setActive(active > 0 ? active - 1 : matches.length - 1);
+      } else if (e.key === 'Escape') {
+        render([]);
+      } else if (e.key === 'Enter') {
+        var q = normalize(input.value);
+        var target = active >= 0 ? matches[active] : index.find(function (x) { return x.code === q; });
+        if (target) {
+          e.preventDefault();
+          window.location.href = target.hubPath;
+        }
+      }
     });
 
     document.addEventListener('click', function (e) {
