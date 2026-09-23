@@ -22,7 +22,7 @@ This guide covers **Topic 4 Geometry**, for Cambridge IGCSE
 Mathematics 0580, 2025–2027 series. The Core subtopics (C4.1–C4.7)
 are examined at all entry levels; the Extended-only subtopics (E4.4,
 E4.5, E4.6 and E4.7 additions, plus E4.8, which has no Core
-equivalent) are required only for the Extended tier. Extended candidates are eligible for grades A* to E and Core candidates for grades C to G, so grades A* and B need the Extended tier (the syllabus advises Extended for anyone aiming at grades A* to C).
+equivalent) are required only for the Extended tier. Extended candidates are eligible for grades A* to E and Core candidates for grades C to G, so grades A* to B need the Extended tier (the syllabus advises Extended for anyone aiming at grades A* to C).
 
 ## Where this fits in 0580
 

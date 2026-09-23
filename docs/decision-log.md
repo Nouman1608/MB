@@ -13408,3 +13408,12 @@ Owner request on 2026-09-23 after seeing the live D-292 form: "remove optional n
 | Server | `functions/_lib/enquiry-validation.ts` | When a typed subject is present (the English form), board, format and a phone number of at least 7 digits are also required. The translated five-field forms send no subject and are unchanged (phone optional there). |
 | Tests / docs | `functions/api/__tests__/enquiry-validation.test.mjs`, `README.md` | New test for the compulsory fields and for the translated forms staying unchanged. |
 
+## D-294 - 0580 topic guides: "grades A* to B need the Extended tier" (2026-09-23)
+
+Owner approval on 2026-09-23 of the suspected error flagged in `docs/content-review/2026-09-23-draft-resource-improvements.md` (D-290).
+
+| Item | Files | What changed |
+|---|---|---|
+| Wording | `src/content/resources/igcse-mathematics-{algebra-and-graphs,coordinate-geometry,geometry,probability,statistics,transformations-and-vectors,trigonometry}.md` | "so grades A* and B need the Extended tier" corrected to "so grades A* to B need the Extended tier" in all seven guides that carried the sentence. Extended covers A*-E and Core C-G, so A*, A and B all need Extended; the old wording read as if A were excluded. No other text changed and `updatedDate` is left alone (wording fix, not a content revision). |
+| Review note | `docs/content-review/2026-09-23-draft-resource-improvements.md` | Marked resolved. |
+

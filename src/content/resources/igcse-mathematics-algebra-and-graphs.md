@@ -24,7 +24,7 @@ C2.4, C2.5, C2.6, C2.7, C2.9, C2.10, C2.11) are examined at all entry
 levels; the Extended-only subtopics (E2.2 additions, E2.3, E2.5
 additions, E2.6 additions, E2.7 additions, E2.8, E2.9 additions, E2.10
 additions, E2.11 additions, E2.12, E2.13) are required only for the
-Extended tier. Extended candidates are eligible for grades A* to E and Core candidates for grades C to G, so grades A* and B need the Extended tier (the syllabus advises Extended for anyone aiming at grades A* to C).
+Extended tier. Extended candidates are eligible for grades A* to E and Core candidates for grades C to G, so grades A* to B need the Extended tier (the syllabus advises Extended for anyone aiming at grades A* to C).
 
 ## Where this fits in 0580
 
