@@ -116,8 +116,8 @@ const faq = faqNode(faqs);
             {ONE_TO_ONE_PRICING.map((r) => (
               <tr class="border-b border-rule">
                 <td class="py-3 pr-4 text-ink">{r.region}</td>
-                <td class="py-3 pr-4 text-ink-mute">{formatFee(r.igcse, r.currency)} {r.currency} <span class="text-[13px] text-ink-mute">/{ONE_TO_ONE_TERMS.unit}</span></td>
-                <td class="py-3 text-ink-mute">{formatFee(r.aLevel, r.currency)} {r.currency} <span class="text-[13px] text-ink-mute">/{ONE_TO_ONE_TERMS.unit}</span></td>
+                <td class="py-3 pr-4 text-ink-mute">{formatFee(r.igcse, r.currency)} {r.currency} <span class="text-[13px] text-ink-mute">{ONE_TO_ONE_TERMS.unit}</span></td>
+                <td class="py-3 text-ink-mute">{formatFee(r.aLevel, r.currency)} {r.currency} <span class="text-[13px] text-ink-mute">{ONE_TO_ONE_TERMS.unit}</span></td>
               </tr>
             ))}
           </tbody>
@@ -137,7 +137,7 @@ const faq = faqNode(faqs);
       </p>
       <div class="mb-2 max-w-[420px] rounded-sm border border-rule bg-white p-6">
         <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">{IB_PRICING.region}</p>
-        <p class="m-0 text-[17px] text-ink">{IB_PRICING.perClass.toLocaleString('en-US')} {IB_PRICING.currency} <span class="text-[13px] text-ink-mute">/{IB_PRICING.unit}</span></p>
+        <p class="m-0 text-[17px] text-ink">{IB_PRICING.perClass.toLocaleString('en-US')} {IB_PRICING.currency} <span class="text-[13px] text-ink-mute">{IB_PRICING.unit}</span></p>
         <p class="m-0 mt-2 text-[13px] text-ink-mute">{IB_PRICING.deliveryMode}</p>
       </div>
       <p class="m-0 mt-3 text-[13px] text-ink-mute">{IB_PRICING.unsupportedRegionNote} Last confirmed {IB_PRICING.verifiedDate}.</p>

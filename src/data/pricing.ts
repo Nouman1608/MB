@@ -143,7 +143,9 @@ export const PRICING_TERMS = {
    * example and formatFee/feeFor for the actual per-region numbers this is
    * computed from. */
   discountCombinationMethod: 'additive' as const,
-  freeTrial: 'The initial trial/demo class is free.',
+  /** D-296 -- owner confirmed 23 Sep 2026 that the trial is a free real
+   * teaching class ("demo" undersold that). */
+  freeTrial: 'The first trial class is free.',
   unsupportedRegionNote: 'Countries without a listed rate above are not priced automatically — enquire and Marlbridge will confirm a fee for your region. No currency conversion is applied on your behalf.',
   notPermanentNote: 'These fees are reviewed periodically and are not guaranteed to remain unchanged. The date below is when they were last confirmed.',
   /** Owner confirmed directly in chat, 2026-08-26 (D-043). Group-class length/frequency
@@ -156,7 +158,9 @@ export const PRICING_TERMS = {
   /** Owner confirmed directly in chat, 2026-08-26 (D-043). */
   billing: 'Fees are billed monthly, starting once your free trial class has taken place.',
   paymentMethods: ['bank transfer', 'international wire transfer'] as readonly string[],
-  enrolmentFee: 'There is no separate registration or enrolment fee — the fee shown above is the only cost.',
+  /** D-296 -- no longer says "the fee shown above": the sentence also appears
+   * on pages that show no fee (home, tutoring, trial, programme pages). */
+  enrolmentFee: 'There is no separate registration or enrolment fee — the tuition fee is the only cost.',
   cancellationPolicy: "You can cancel or pause at any time. The month you've already paid for isn't refunded, but you won't be billed again once you cancel.",
   /**
    * Owner confirmed directly in chat, 2026-09-06 (see docs/decision-log.md

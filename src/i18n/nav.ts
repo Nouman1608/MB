@@ -229,12 +229,12 @@ export const NAV_COPY: Record<LocaleCode, NavCopy> = {
   },
   bn: {
     htmlLang: 'bn', dir: 'ltr',
-    reviewBanner: 'এই পঔ3ষ্ঠাটি AI-সহায়তায় অনুবাদ করা হয়েছে এবং মার্লব্রিজ টিমের পর্যালোচনার অপেক্ষায় রয়েছে। কিছু অস্পষ্ট মনে হলে অনুগ্রহ করে ইংরেজিতে আমাদের সাথে যোগাযোগ করুন।',
+    reviewBanner: 'এই পৃষ্ঠাটি AI-সহায়তায় অনুবাদ করা হয়েছে এবং মার্লব্রিজ টিমের পর্যালোচনার অপেক্ষায় রয়েছে। কিছু অস্পষ্ট মনে হলে অনুগ্রহ করে ইংরেজিতে আমাদের সাথে যোগাযোগ করুন।',
     skipToContent: 'মূল বিষয়বস্তুতে যান',
     languageLabel: 'ভাষা',
     englishLabel: 'English',
     homeLabel: 'হোম',
-    backToEnglish: 'এই পঔ3ষ্ঠাটি ইংরেজিতে দেখুন',
+    backToEnglish: 'এই পৃষ্ঠাটি ইংরেজিতে দেখুন',
     languageNoteSuffix: '(AI-সহায়তায় অনুবাদ, পর্যালোচনাধীন)',
     cookieSettingsLabel: 'কুকি সেটিংস',
     primaryNav: [

@@ -13436,3 +13436,30 @@ Owner approval on 2026-09-23 of the suspected error flagged in `docs/content-rev
 **Owner action required after deploy.** Set the secret: Cloudflare dashboard → Workers → `mb` → Settings → Variables and Secrets → add `ADMIN_API_KEY` (type Secret, a long random value), or `npx wrangler secret put ADMIN_API_KEY`. Until then the dashboard shows "Admin access is not configured." The daily cron refresh is unaffected (it does not go through the API).
 
 **Validation.** `npm run test:api` 68 pass, 0 fail (new: admin auth ×5, referer prefix, same-site referer, chunked oversize body, prototype kinds, response headers, line breaks); `astro check` 0 errors; build clean; `audit:all` 0 problems; `npm audit` 0 vulnerabilities.
+
+## D-296 - Trust copy: tuition offers match what is taught; one teaching-location formulation (2026-09-23)
+
+**Trigger.** International Growth programme (owner brief, 23 Sep 2026), trust-consistency workstream. A read-only audit of every built page at `17e97b7` (`en`, `ar`, `ur`, `bn`, JSON-LD and `llms.txt`) found eleven confirmed inconsistencies.
+
+| # | Problem | Fix | Files |
+|---|---|---|---|
+| 1 | 216 resource pages in resources-only subjects (Sociology 57, Geography 52, Psychology 49, Global Perspectives 18, IB Global Politics, ESS, MYP Design, MYP Individuals and Societies 10 each) said "Marlbridge runs … classes" and showed a trial CTA, contradicting D-270/D-272/D-273. | The block is gated on `taughtOnly()` for the resource's subject and boards; resources-only pages now say classes are not offered and link to the free resources. | `src/pages/resources/[slug].astro` |
+| 2 | 146 IB resource pages offered "small groups of up to 15"; IB tuition is one-to-one only (`IB_PRICING.deliveryMode`). | IB-only resources say "one-to-one". | same |
+| 3 | `/uk/` said Marlbridge "teaches" 17 GCSE combinations; 15 are taught (AQA GCSE Psychology and Sociology are resources-only). | `/uk/` counts `taughtOnly()`; the FAQ and table now read "taught". | `src/pages/uk/index.astro` |
+| 4 | About (en/ar/ur/bn): "Our teaching operates in Pakistan today" contradicted D-271 (teaching online worldwide); "the map of where we teach live in person" grows implied expansion. | One formulation: teachers are based at the Lahore academy and teach in person there and live online to students anywhere. | `src/pages/about/index.astro`, `src/i18n/pages/marketing.ts` |
+| 5 | Six locale Contact/Trial FAQs said "Marlbridge teaches in Pakistan today", dropping "in person". | Reuse the reviewed locale `locationNote` wording. | `src/pages/[locale]/contact/index.astro`, `src/pages/[locale]/trial/index.astro` |
+| 6 | "Outside our teaching locations" (plural; there is one in-person location). | "outside Lahore" / "anywhere else". | `src/data/homepage.ts`, `src/pages/contact/index.astro`, `src/pages/trial/index.astro` |
+| 7 | "Each profile … cites where those details were verified from" is not true for Harris Khan (no source, D-268). | "…and, where a public source exists, cites…". | `ProgramTeachers.astro`, `TeachersBand.astro` |
+| 8 | "The fee shown above is the only cost" appeared on seven pages that show no fee. | "…the tuition fee is the only cost". | `src/data/pricing.ts` |
+| 9 | "The initial trial/demo class is free." The owner confirmed on 23 Sep 2026 that the trial is a free real teaching class. | "The first trial class is free." | `src/data/pricing.ts` |
+| 10 | `/pricing/` rendered "3,500 PKR /per class". | Unit rendered once. | `src/pages/pricing/index.astro` |
+| 11 | Editorial policy cross-referenced a heading that does not exist. | Heading name corrected. | `src/pages/legal/editorial-policy.astro` |
+| 12 | Subject pages for resources-only subjects said "<Subject> is taught by Marlbridge today" above a "not offering classes" notice. | The sentence follows `offersClasses()`: all taught, some taught, or free material only. | `src/pages/subjects/[slug].astro` |
+| 13 | `llms.txt` listed resources-only subjects without saying so, some with the wrong levels. | Each subject line gives `levelsLabel` and whether classes are offered. | `scripts/generate-llms-txt.mjs`, `public/llms.txt` |
+| 14 | 20 Bengali pages showed a corrupted word ("পঔ3ষ্ঠাটি"). | "পৃষ্ঠাটি". | `src/i18n/nav.ts` |
+
+The same commit carries the correction/trial link-format change in `src/pages/resources/[slug].astro`, described in D-298.
+
+**Checked and already consistent (no change).** No LocalBusiness, AggregateRating, Review or address outside Pakistan in any JSON-LD; Person used only for real teachers and Organization for the Academic Team; licensing statements on `/schools/` and `/legal/terms/` agree (D-043); one response-time promise everywhere (D-149); no safeguarding, UK-regulation, partnership or pass-rate claims. The Learners Academy quotes and Google rating on `/` and `/tutoring/` are owner-authorised and attributed (D-150) and have no rating markup.
+
+**Validation.** Build clean; `audit:all` 0 problems; built pages: 0 resource pages claim classes in a resources-only subject, and exactly 216 show the resources-only wording (the subject is matched through `matrixSlugsFor`, so the `english` collection id maps to `english-language`), 0 IB resource pages mention small groups, `/uk/` reads "15 taught subject combinations".

@@ -17,7 +17,7 @@ import Container from '../../components/layout/Container.astro';
 import CTA from '../../components/ui/CTA.astro';
 import FAQ from '../../components/ui/FAQ.astro';
 import { routes } from '../../utils/urls/routes';
-import { activeOnly, boardPath } from '../../utils/academic';
+import { taughtOnly, boardPath } from '../../utils/academic';
 import { boardBySlug } from '../../data/academic/boards';
 import {
   REGION_PRICING, ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS,
@@ -34,7 +34,9 @@ const ukOneToOne = ONE_TO_ONE_PRICING.find((r) => r.region === 'United Kingdom')
  * claim a combination that is not ACTIVE. Domestic UK boards first, then
  * the international qualifications UK independent schools also sit.
  */
-const active = activeOnly();
+// D-296 -- taughtOnly(), not activeOnly(): this is a tuition page, and
+// resources-only combinations (e.g. AQA GCSE Psychology, D-272) are not taught.
+const active = taughtOnly();
 const count = (board: string, qual: string) =>
   active.filter((c) => c.boardSlug === board && c.qualificationSlug === qual).length;
 
@@ -48,7 +50,7 @@ const UK_ROWS = [
 const faqs = [
   {
     question: 'Do you teach GCSE, or only IGCSE?',
-    answer: `Both. Marlbridge teaches AQA and OCR GCSE (${count('aqa', 'gcse') + count('ocr', 'gcse')} active subject combinations) as well as Cambridge and Pearson Edexcel International GCSE, and AQA, OCR, Edexcel and Cambridge at A Level. Each subject page names the exact specification code it is taught against.`,
+    answer: `Both. Marlbridge teaches AQA and OCR GCSE (${count('aqa', 'gcse') + count('ocr', 'gcse')} taught subject combinations) as well as Cambridge and Pearson Edexcel International GCSE, and AQA, OCR, Edexcel and Cambridge at A Level. Each subject page names the exact specification code it is taught against.`,
   },
   {
     question: 'How do the class times work with the UK time difference?',

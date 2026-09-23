@@ -14,7 +14,8 @@ import { articleNode } from '../../utils/schema/article';
 import { routes, resourceUrl } from '../../utils/urls/routes';
 import { syllabusFor } from '../../data/academic/syllabuses';
 import { PRICING_TERMS } from '../../data/pricing';
-import { LEVEL_FOR_QUALIFICATION } from '../../utils/academic';
+import { LEVEL_FOR_QUALIFICATION, taughtOnly } from '../../utils/academic';
+import { matrixSlugsFor } from '../../utils/content/status';
 import { teachersForSubjectTitle } from '../../utils/content/subject-teachers';
 import ResourceNextSteps from '../../components/tools/ResourceNextSteps.astro';
 import VideoSection from '../../components/media/VideoSection.astro';
@@ -67,6 +68,21 @@ const trialHref = programSlug ? `${routes.trial}?program=${programSlug}&source=r
 const studyLabel = [subject?.data.title, levels].filter(Boolean).join(' ');
 
 /**
+ * D-296 -- the tuition invitation must match what is actually taught.
+ * `classesAvailable` is false for resources-only subjects (D-270, D-272,
+ * D-273: e.g. Sociology, Psychology, Geography, IB ESS), which then get the
+ * same "free resources only" wording as their subject hubs and no trial CTA.
+ * IB tuition is one-to-one only (IB_PRICING.deliveryMode), so an IB-only
+ * resource never mentions small groups.
+ */
+const matrixSubjects = matrixSlugsFor(d.subject.id);
+const classesAvailable = taughtOnly().some(
+  (c) => matrixSubjects.includes(c.subjectSlug) && (d.boards.length === 0 || d.boards.includes(c.boardSlug)),
+);
+const ibOnly = d.boards.length > 0 && d.boards.every((b) => b === 'ib');
+const formatPhrase = ibOnly ? 'one-to-one' : `one-to-one and in small groups of up to ${PRICING_TERMS.maxGroupSize}`;
+
+/**
  * QIGT search workstream (Aug 2026) -- Pagefind filter values. Board and
  * qualification are not otherwise displayed as their own labelled fields
  * on this page (only "Level", a combined display string, is), so these
@@ -116,7 +132,7 @@ const officialSyllabuses = d.boards
  * The form page still offers a plain-email fallback for anyone who'd
  * rather not use it.
  */
-const correctionHref = `${routes.reportCorrection}?page=${encodeURIComponent(`https://marlbridge.com${path}`)}`;
+const correctionHref = `${routes.reportCorrection}#page=${encodeURIComponent(`https://marlbridge.com${path}`)}`;
 const alignedToParts = [...boardNames, ...qualificationNames, subject?.data.title].filter(Boolean) as string[];
 let alignedToText = `Aligned to ${alignedToParts.join(' ')}`;
 /**
@@ -296,11 +312,18 @@ const jsonLd = [articleNode({
           <h2 class="m-0 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">
             {studyLabel ? `Working through ${studyLabel}?` : 'Working through this with a teacher?'}
           </h2>
-          <p class="m-0 mt-4 max-w-[62ch] text-[16.5px] leading-[1.65] text-ink-mute">
-            This page is free and stays free. If you would rather be taught it, Marlbridge runs
-            {' '}{subject?.data.title ?? 'this subject'} classes one-to-one and in small groups of up to {PRICING_TERMS.maxGroupSize},
-            online in your own time zone. {PRICING_TERMS.freeTrial} {PRICING_TERMS.enquiryResponse.short}
-          </p>
+          {classesAvailable ? (
+            <p class="m-0 mt-4 max-w-[62ch] text-[16.5px] leading-[1.65] text-ink-mute">
+              This page is free and stays free. If you would rather be taught it, Marlbridge runs
+              {' '}{subject?.data.title ?? 'this subject'} classes {formatPhrase},
+              online in your own time zone. {PRICING_TERMS.freeTrial} {PRICING_TERMS.enquiryResponse.short}
+            </p>
+          ) : (
+            <p class="m-0 mt-4 max-w-[62ch] text-[16.5px] leading-[1.65] text-ink-mute">
+              This page is free and stays free. Marlbridge is not offering {subject?.data.title ?? 'this subject'} classes
+              at the moment, so there is no tuition to book for it. The free study resources stay open to everyone.
+            </p>
+          )}
           {subjectTeachers.length > 0 && (
             <div data-testid="subject-teachers" class="mt-6">
               <p class="m-0 mb-3 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">{subject?.data.title} teachers at Marlbridge</p>
@@ -327,8 +350,14 @@ const jsonLd = [articleNode({
           )}
         </div>
         <div class="flex flex-col items-start gap-3 lg:pt-10">
-          <a href={trialHref} data-cta="resource-trial" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-6 py-3 text-[15px] font-medium text-ivory transition-colors duration-150 hover:bg-navy-700">Request a free trial</a>
-          <a href={routes.tutoring} class="text-[15px] font-medium text-navy-800 underline decoration-gold-500 underline-offset-4 hover:text-gold-600">Meet the teachers</a>
+          {classesAvailable ? (
+            <>
+              <a href={trialHref} data-cta="resource-trial" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-6 py-3 text-[15px] font-medium text-ivory transition-colors duration-150 hover:bg-navy-700">Request a free trial</a>
+              <a href={routes.tutoring} class="text-[15px] font-medium text-navy-800 underline decoration-gold-500 underline-offset-4 hover:text-gold-600">Meet the teachers</a>
+            </>
+          ) : (
+            <a href={routes.resources} class="inline-flex min-h-11 items-center justify-center rounded-sm border border-navy-800 px-6 py-3 text-[15px] font-medium text-navy-800 hover:bg-white">Browse free resources</a>
+          )}
         </div>
       </div>
     </Container>
