@@ -13565,7 +13565,11 @@ The International Growth branch built its own structured trial form (optional le
 
 - Jordan: 3 / 324
 - Saudi Arabia: 7 / 448
-- Kuwait, Bahrain and Oman: below Saudi Arabia (these stay on `/gulf/`)
+- Kuwait 6 / 93, Bahrain 2 / 117 and Oman 2 / 110 (these stay on `/gulf/`)
+- Bangladesh: 15 / 1,522
+- Kenya: 12 / 278
+- Nigeria: 11 / 134
+- Singapore: 9 / 900
 - India: 48 / 4,224. Its demand is resource-led, not tuition-led.
 - US: 7 / 4,984
 - Egypt: 14 / 407
