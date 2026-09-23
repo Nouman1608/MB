@@ -33,6 +33,9 @@ const KNOWN_SECRETS = new Set([
   'RESEND_API_KEY',
   'TURNSTILE_SECRET_KEY',
   'GSC_SERVICE_ACCOUNT_JSON',
+  // D-309 -- revision emails (set by the owner on 2026-09-23; verified on the Worker before merge).
+  'RESEND_CONTACTS_API_KEY',
+  'SUBSCRIBE_SIGNING_SECRET',
 ]);
 
 /**
@@ -44,8 +47,6 @@ const KNOWN_SECRETS = new Set([
  * KNOWN_SECRETS only after it has been set on the Worker and verified.
  */
 const PENDING_SECRETS = new Set([
-  'RESEND_CONTACTS_API_KEY',
-  'SUBSCRIBE_SIGNING_SECRET',
   'RESEND_NEWSLETTER_SEGMENT_ID',
   // D-295 -- guards /api/admin/search-demand; fails closed (503) until set.
   'ADMIN_API_KEY',

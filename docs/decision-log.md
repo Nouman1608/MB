@@ -13634,3 +13634,15 @@ All of these are served by the hub and the enquiry form. Jordan stays a Tier 1 *
 **Validation.** The clean tree passes. The same Malaysia mutation now fails with a named error. `astro check` 0 errors.
 
 **Rebase note for D-295 to D-308 (2026-09-23, evening).** These entries were written on the `growth-programme` branch, numbered D-286 to D-299, while PRs #52 to #56 (D-286 to D-294) were merged to `main`. The branch was rebased onto `main` at `e35efaf5` and renumbered by +9. `main`'s owner-approved trial form, trial query parameters (`?program=`, `?course=`, `?source=`), revision tools and tuition sections are kept unchanged. This branch's own trial form is withdrawn (D-300). The international hub and the country pages send `?source=region`, so `generate_lead` can be attributed to them. All gates were re-run on the rebased tree.
+
+## D-309 - Revision emails switched on (2026-09-23)
+
+Owner decision on 2026-09-23: "okay do it" (turn on the optional revision emails built in D-289). The owner also said the trial form must not change; it does not.
+
+| Item | Files | What changed |
+|---|---|---|
+| Switch | `src/data/newsletter.ts` | `enabled: true`. The sign-up box appears after "Next steps" on resource pages and on the diagnostic results screen. It is never a pop-up and never required. |
+| Secrets | `scripts/validate-worker-bindings.mjs` | `RESEND_CONTACTS_API_KEY` and `SUBSCRIBE_SIGNING_SECRET` moved from PENDING to KNOWN. This must not merge until both are set on the `mb` Worker (checked from the Worker's settings before merge). `RESEND_NEWSLETTER_SEGMENT_ID` stays optional and pending. |
+| Translated privacy | `src/i18n/pages/legal.ts` | Arabic, Urdu and Bengali privacy pages gain the revision-emails paragraph already on the English page (English governs); dated 23 Sep 2026. Machine-drafted; a native reader should check each. |
+| GA4 | (GA4 admin, not code) | The owner allowed the measurement-guide set-up on 2026-09-23. Created event-scoped custom dimensions `trial_source`, `course_code`, `diagnostic_set`, `source`, `link_kind`, `plan_fits`, `qualification`, `format`, and the custom metric `subjects_count` (standard). Key events unchanged. |
+
