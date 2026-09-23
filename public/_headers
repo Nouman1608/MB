@@ -49,3 +49,9 @@
 # this file's own top comment already describes for every other path).
 /practice-data/*
   Cache-Control: public, max-age=31536000, immutable
+
+# D-286 -- course catalogue and per-course topic/resource JSON for the free
+# revision tools (/tools-data/...). Not content-hashed, rebuilt on every
+# deploy, so a short window: repeat visits within the hour skip the request.
+/tools-data/*
+  Cache-Control: public, max-age=3600

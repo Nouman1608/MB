@@ -54,6 +54,11 @@ since they are already public once the page ships.
 | `/checklists/`, `/checklists/<board>/<qualification>/<subject>/` | `pages/checklists/` — printable syllabus checklists, same matrix |
 | `/levels/`, `/levels/<qualification>/` | `pages/levels/` |
 | `/search/` | `pages/search/index.astro` — Pagefind-powered site search, noindexed |
+| `/revision-planner/` | `pages/revision-planner/` — free weekly plan generator, runs in the browser (D-286) |
+| `/practice/<code>/diagnostic/<set>/` | `pages/practice/[code]/diagnostic/[set].astro` — 10-minute self-marked diagnostics, sets in `src/data/diagnostics.ts` (D-286) |
+| `/workshops/`, `/workshops/<slug>/` | `pages/workshops/` (content collection: `workshops`) — nothing public until a workshop is published (D-286) |
+| `/subscribe/confirmed\|unsubscribed\|error/` | `pages/subscribe/` — noindexed pages for the optional revision emails (D-286) |
+| `/tools-data/catalogue.json`, `/tools-data/<board>/<qualification>/<subject>.json` | course catalogue and per-course topic→resource map for the tools (`src/utils/tools/catalogue.ts`) |
 | `/legal/privacy\|terms\|cookies\|accessibility\|editorial-policy/` | `pages/legal/` |
 | `/404` | `pages/404.astro` |
 
@@ -163,9 +168,16 @@ drifted beyond tolerance from what current rates imply — see D-049.
 tested under `functions/api/__tests__/`). Submission requires a valid Turnstile token
 (`TURNSTILE_SECRET_KEY`) and sends via Resend (`RESEND_API_KEY`). `EnquiryForm` takes an optional
 `labels` prop (defaulting to the original English strings) so translated pages can render
-localised field labels/errors without touching the ~500 existing English callers. The student
-enquiry form carries exactly 5 fields — an explicit, approved business decision, not an
-oversight; do not add fields without recording a new decision-log entry.
+localised field labels/errors without touching the ~500 existing English callers. The student,
+tutoring and translated trial forms carry exactly 5 fields (v1.x CLOSURE decision). The English
+/trial/ page uses `TrialRequestForm.astro` instead: qualification, board, subject, group/one-to-one,
+country, time zone, optional times and message, allow-listed preselection from `?course=`,
+`?program=`, `?teacher=`, `?format=`, `?source=` (owner decision 2026-09-23, D-287). Do not add
+fields to either form without recording a new decision-log entry.
+
+`functions/api/subscribe.ts` (optional revision emails, double opt-in, hidden until configured —
+see `docs/growth/newsletter-setup.md`) and `functions/api/workshop-register.ts` (workshop
+registration with duplicate prevention) are routed in `src/worker/index.ts` (D-289).
 
 ## Search
 
@@ -241,8 +253,14 @@ expected effect.
 
 Minimal by design: the mobile menu toggle, enquiry-form progressive enhancement (inline errors,
 busy state, `aria-live` status) on the pages that carry a form, the Pagefind search widget on
-`/search/`, and consent-gated analytics (`components/analytics/ConsentAnalytics.astro`). Everything else is
-static HTML.
+`/search/`, and consent-gated analytics (`components/analytics/ConsentAnalytics.astro`). The free
+revision tools (D-286) add bundled, dependency-free modules in `src/scripts/`: the homepage syllabus
+finder, the revision planner (`planner-engine.ts` is pure and unit tested; `planner-ui.ts` is the
+page), the diagnostics and the workshop helpers. They store only in the visitor's browser.
+Everything else is static HTML.
+
+Tests for the tools: `npm run test:tools` (planner engine, enquiry validation, subscription and
+workshop endpoints).
 
 ## Decision log
 

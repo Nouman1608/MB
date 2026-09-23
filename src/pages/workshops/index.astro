@@ -1,0 +1,75 @@
+---
+/**
+ * D-286 -- /workshops/: live revision workshops.
+ *
+ * Lists only published workshops (src/utils/content/media.ts). While there
+ * are none, the page says so, is noindexed, is left out of the sitemap
+ * (astro.config.mjs) and is linked from nowhere -- the homepage and the
+ * navigation carry no workshop promotion until a real one is published.
+ * A workshop whose time passes between builds is moved to "Past" in the
+ * browser (data-ends), so a stale build never shows it as upcoming.
+ */
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import { getWorkshops, isDraft } from '../../utils/content/media';
+import { formatInZone, endIso, TEACHING_TIME_ZONE } from '../../utils/content/workshop-time';
+import { getEntry } from 'astro:content';
+import { routes } from '../../utils/urls/routes';
+
+const workshops = await getWorkshops();
+const rows = await Promise.all(workshops.map(async (w) => ({
+  w,
+  teacher: await getEntry(w.data.teacher),
+  ends: endIso(w.data.startsAt, w.data.durationMinutes),
+})));
+const published = workshops.filter((w) => !isDraft(w));
+---
+<PageLayout
+  noindex={published.length === 0}
+  title="Free Revision Workshops"
+  description="Live online revision workshops from Marlbridge subject teachers: topic, syllabus, teacher, date and time in your own time zone, with free registration."
+  path="/workshops/"
+  eyebrow="Live and free"
+  heading="Revision workshops"
+  lead="Live online sessions on one topic at a time, taught by a named Marlbridge teacher. Times are shown in UTC, in Pakistan time and in your own time zone."
+  breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Workshops', href: '/workshops/' }]}
+>
+  <Section surface="white" spacing="md">
+    <Container>
+      {rows.length === 0 ? (
+        <p class="m-0 max-w-[62ch] rounded-sm border border-dashed border-rule bg-ivory p-6 text-[15.5px] text-ink-mute">No workshops are scheduled right now. In the meantime, the <a href="/revision-planner/" class="underline decoration-gold-500 underline-offset-2">revision planner</a> and <a href="/practice/" class="underline decoration-gold-500 underline-offset-2">free practice</a> are open to everyone.</p>
+      ) : (
+        <ul class="m-0 grid list-none gap-4 p-0" data-workshop-list>
+          {rows.map(({ w, teacher, ends }) => (
+            <li class="m-0" data-ends={ends}>
+              <a href={`/workshops/${w.id}/`} class="block rounded-sm border border-rule bg-white p-5 hover:border-gold-500">
+                {isDraft(w) && <span class="mb-2 inline-block rounded-sm bg-[#fff4d6] px-2 py-0.5 text-[12px] font-medium text-[#6b4b00]">DRAFT — not published</span>}
+                <span class="block font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600">{w.data.syllabusCodes.join(', ')} · {w.data.topic}</span>
+                <span class="mt-1 block text-[18px] font-semibold text-navy-800">{w.data.title}</span>
+                <span class="mt-1 block text-[14.5px] text-ink-mute">{teacher?.data.name} · {formatInZone(w.data.startsAt, 'UTC')} UTC ({formatInZone(w.data.startsAt, TEACHING_TIME_ZONE)} Pakistan time) · {w.data.durationMinutes} min</span>
+                <span class="mt-1 block text-[14px] text-ink" data-local-time={w.data.startsAt}></span>
+                {w.data.status === 'cancelled' && <span class="mt-1 block text-[14px] font-medium text-error">Cancelled</span>}
+              </a>
+            </li>
+          ))}
+        </ul>
+      )}
+    </Container>
+  </Section>
+</PageLayout>
+
+<script>
+  import { applyLocalTimes } from '../../scripts/workshop-client';
+  applyLocalTimes();
+  const now = Date.now();
+  document.querySelectorAll<HTMLElement>('[data-workshop-list] [data-ends]').forEach((li) => {
+    if (Date.parse(li.dataset.ends ?? '') < now) {
+      li.classList.add('opacity-70');
+      const note = document.createElement('span');
+      note.className = 'mt-1 block text-[13px] text-ink-mute';
+      note.textContent = 'This workshop has taken place.';
+      li.querySelector('a')?.append(note);
+    }
+  });
+</script>

@@ -17,6 +17,10 @@ import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import CTA from '../../components/ui/CTA.astro';
+import FAQ from '../../components/ui/FAQ.astro';
+import { faqNode } from '../../utils/schema/faq';
+import { activeOnly, taughtOnly } from '../../utils/academic';
+import { site } from '../../data/site';
 import { routes } from '../../utils/urls/routes';
 import { BOARDS } from '../../data/academic/boards';
 import {
@@ -29,6 +33,39 @@ const GULF_REGIONS = ['Saudi Arabia', 'United Arab Emirates', 'Qatar', 'Kuwait',
 const gulfGroup = REGION_PRICING.filter((r) => GULF_REGIONS.includes(r.region));
 const gulfOneToOne = ONE_TO_ONE_PRICING.filter((r) => GULF_REGIONS.includes(r.region));
 const offeredBoards = BOARDS.filter((b) => b.status === 'offered');
+
+/**
+ * D-286 -- Gulf-specific parent questions, answered only from facts already
+ * held in this repository (pricing.ts, site.ts, the matrix). Marlbridge has
+ * no office or teaching centre in the Gulf; the only in-person teaching is
+ * at the academy in Lahore (site.about.address, owner-confirmed 2026-09-21).
+ */
+const published = activeOnly().length;
+const taught = taughtOnly().length;
+const uae = gulfGroup.find((g) => g.region === 'United Arab Emirates')!;
+const faqs = [
+  {
+    question: 'Do you have a centre or office in the Gulf?',
+    answer: `No. Marlbridge has no office or teaching centre in the Gulf. Students in the Gulf are taught live online. The only in-person teaching is at the academy in ${site.about.city}, ${site.about.country}.`,
+  },
+  {
+    question: 'What time would classes be in the Gulf?',
+    answer: 'Class times are agreed with you before the first class, in your own time zone. For orientation: Pakistan is one hour ahead of the UAE and Oman, and two hours ahead of Saudi Arabia, Qatar, Kuwait and Bahrain, so a 6:00 pm class in Dubai is 7:00 pm in Pakistan, and a 6:00 pm class in Riyadh is 8:00 pm in Pakistan.',
+  },
+  {
+    question: 'Which currency are fees in, and how do I pay?',
+    answer: `Group fees are set in each country's own currency, as in the table on this page (for example ${formatFee(uae.igcse, uae.currency)} ${uae.currency} per subject per month for IGCSE in the UAE). One-to-one rates are currency conversions of the Pakistan rate. Payment is by ${PRICING_TERMS.paymentMethods.join(' or ')}. ${PRICING_TERMS.billing}`,
+  },
+  {
+    question: 'Do you teach the curriculum my school follows?',
+    answer: `Marlbridge publishes ${published} board, qualification and subject combinations (Cambridge, Pearson Edexcel, AQA, OxfordAQA, OCR and IB) and offers classes in ${taught} of them; the others have free study resources only, and each syllabus page says which. Choose your board on the trial form, or "Not sure" and we will check with you.`,
+  },
+  {
+    question: 'How quickly will you reply?',
+    answer: `${PRICING_TERMS.enquiryResponse.summary} ${PRICING_TERMS.freeTrial}`,
+  },
+];
+const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
 
 /**
  * Standard UTC offsets (no daylight-saving observed in any of these seven
@@ -53,13 +90,15 @@ const TIME_ZONES: Record<string, string> = {
   heading="Marlbridge in the Gulf"
   lead="Marlbridge's teaching is delivered live from Pakistan, entirely online for students across the Gulf -- with confirmed group and one-to-one pricing for six countries, and only a one-to-two hour time difference that keeps live classes practical."
   breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Gulf', href: path }]}
+  jsonLd={jsonLd}
 >
   <Section surface="white">
     <Container>
       <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Boards and qualifications taught</h2>
       <p class="m-0 mb-6 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
-        Every board Marlbridge publishes is taught online to students in the Gulf -- the same catalogue as anywhere else.
-        See each board's own page for the full list of qualifications, subjects and syllabus codes covered.
+        Students in the Gulf get the same catalogue as anywhere else, taught live online: classes are offered in {taught} of the {published}
+        published board, qualification and subject combinations, and the rest have free study resources only. Each board's page lists its
+        qualifications, subjects and syllabus codes, and each syllabus page says whether classes are offered.
       </p>
       <ul class="m-0 grid gap-3 p-0 sm:grid-cols-2" style="list-style: none;">
         {offeredBoards.map((b) => (
@@ -147,10 +186,17 @@ const TIME_ZONES: Record<string, string> = {
     </Container>
   </Section>
 
+  <Section surface="ivory" border>
+    <Container>
+      <h2 class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Questions from Gulf families</h2>
+      <FAQ items={faqs} id="gulf-faqs" />
+    </Container>
+  </Section>
+
   <CTA
     surface="ivory"
     heading="Ready to try a live online class from wherever you are in the Gulf? Request a free trial and we'll confirm a teacher and a time by email."
     buttonLabel="Request a Free Trial"
-    buttonHref={routes.trial}
+    buttonHref={`${routes.trial}?source=region`}
   />
 </PageLayout>

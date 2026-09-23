@@ -57,7 +57,10 @@ function escapeHtml(s: string): string {
   return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 }
 function mdToHtml(md: string): string {
-  const withoutLeadingNumber = md.replace(/^\*\*\d+\.\*\*\s*/, '').replace(/^\*\*\d+\.\s*/, (m) => m);
+  // D-286: also strip the number when the item opens with a bold sub-part
+  // ("**5. (a)**" -> "**(a)**"). The old second replace was a no-op, so
+  // multi-part answers rendered a stray "5." before their first part.
+  const withoutLeadingNumber = md.replace(/^\*\*\d+\.\*\*\s*/, '').replace(/^\*\*\d+\.\s+(?=\S)/, '**');
   const escaped = escapeHtml(withoutLeadingNumber);
   const withCode = escaped.replace(/`([^`]+)`/g, '<code>$1</code>');
   const withBold = withCode.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');

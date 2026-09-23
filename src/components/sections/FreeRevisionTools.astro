@@ -1,0 +1,77 @@
+---
+/**
+ * D-286 -- "Start revising for free", directly under the homepage hero.
+ *
+ * Three actions, each pointing at a tool that works today:
+ *   Test my knowledge        -> /practice/ (diagnostics + self-check)
+ *   Make my revision plan    -> /revision-planner/
+ *   Find notes for my syllabus -> the finder below (qualification -> board
+ *                                -> subject), falling back to /boards/.
+ *
+ * The diagnostic subjects named in the first card are read from
+ * src/data/diagnostics.ts, so the sentence cannot claim a subject that has
+ * no diagnostic. The tuition trial stays one click away for families who
+ * are ready to enquire; the hero above already leads with it.
+ */
+import Section from '../layout/Section.astro';
+import Container from '../layout/Container.astro';
+import SyllabusFinder from '../tools/SyllabusFinder.astro';
+import { DIAGNOSTIC_SETS } from '../../data/diagnostics';
+import { flagshipSpecs } from '../../utils/academic';
+import { routes } from '../../utils/urls/routes';
+
+const diagSubjects = [...new Map(DIAGNOSTIC_SETS.map((d) => {
+  const f = flagshipSpecs().find((x) => x.code === d.code)!;
+  return [d.code, `${f.combination.qualification} ${f.combination.subject} (${d.code})`];
+})).values()];
+const diagList = diagSubjects.length > 1
+  ? `${diagSubjects.slice(0, -1).join(', ')} and ${diagSubjects[diagSubjects.length - 1]}`
+  : diagSubjects[0];
+
+const actions = [
+  {
+    href: '/practice/',
+    title: 'Test my knowledge',
+    body: `10-minute diagnostics for ${diagList}, then self-check questions with worked answers.`,
+    kind: 'test',
+  },
+  {
+    href: '/revision-planner/',
+    title: 'Make my revision plan',
+    body: 'Enter your subjects, exam dates and free time. Get a weekly plan that puts weak topics first.',
+    kind: 'plan',
+  },
+  {
+    href: '#syllabus-finder',
+    title: 'Find notes for my syllabus',
+    body: 'Pick your qualification, board and subject to see its syllabus code, notes and checklist.',
+    kind: 'notes',
+  },
+];
+---
+<Section surface="white" spacing="md" labelledby="free-tools-heading">
+  <Container>
+    <div class="mb-8 flex flex-wrap items-end justify-between gap-4">
+      <div class="max-w-[60ch]">
+        <p class="m-0 mb-3 text-xs font-medium uppercase tracking-[0.2em] text-gold-600">Free, no sign-up</p>
+        <h2 id="free-tools-heading" class="m-0 font-display text-[clamp(1.75rem,1.35rem+1.5vw,2.5rem)] font-normal leading-[1.12] tracking-[-0.02em] text-navy-800">Start revising for free</h2>
+      </div>
+      <p class="m-0 text-[15px] text-ink-mute">
+        Ready for a teacher? <a href={`${routes.trial}?source=home`} data-cta="free-tools-trial" class="font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">Request a free trial class</a>
+      </p>
+    </div>
+    <ul class="m-0 grid list-none gap-4 p-0 md:grid-cols-3">
+      {actions.map((a) => (
+        <li class="m-0">
+          <a href={a.href} data-free-tool={a.kind} class="flex h-full flex-col gap-2 rounded-sm border border-rule bg-ivory p-[clamp(20px,2.2vw,28px)] transition-colors duration-150 hover:border-gold-500">
+            <span class="text-[19px] font-semibold tracking-[-0.01em] text-navy-800">{a.title} <span aria-hidden="true" class="text-gold-600">→</span></span>
+            <span class="text-[15px] leading-[1.6] text-ink-mute">{a.body}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+    <div class="mt-6">
+      <SyllabusFinder source="home" heading="Choose your course" />
+    </div>
+  </Container>
+</Section>

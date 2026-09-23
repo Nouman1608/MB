@@ -21,6 +21,10 @@
  *   3. Every factual element -- grade, timeframe, qualification, board --
  *      is one Marlbridge can evidence if challenged.
  *   4. `consentOnFile` is set true only by someone who has seen the consent.
+ *   5. (D-286) Identity is protected: first name and initial at most, no
+ *      school name, photo or anything else that identifies a minor, unless
+ *      the consent explicitly covers it.
+ * The template and asset checklist: docs/growth/student-stories-template.md.
  *
  * Never populate this file with composite, representative, illustrative or
  * AI-written examples. An invented testimonial is the single fastest way to
@@ -29,16 +33,28 @@
 export interface Outcome {
   /** Attribution as the person agreed to it (may be a first name only). */
   readonly attribution: string;
+  /**
+   * D-286 -- whose student this was. Marlbridge and Learners Academy results
+   * are never mixed: a 'learners-academy' story is labelled as such on the
+   * page and never counted as Marlbridge's own.
+   */
+  readonly organisation: 'marlbridge' | 'learners-academy';
   /** Qualification and board, e.g. "Cambridge IGCSE Mathematics (0580)". */
   readonly course: string;
   /** Where the student started, in their own or the teacher's words. */
   readonly startingPoint: string;
-  /** How long the support ran, e.g. "7 months". */
-  readonly timeframe: string;
+  /** D-286 -- how the teacher approached it (format, focus), as documented. */
+  readonly teachingApproach?: string;
+  /** How long the support ran, e.g. "7 months". Omit if not documented. */
+  readonly timeframe?: string;
   /** What support was given -- format, frequency, subjects. */
   readonly support: string;
   /** The outcome, stated exactly as it can be evidenced. */
   readonly outcome: string;
+  /** D-286 -- how the outcome is evidenced, e.g. "Statement of Results seen by the owner". */
+  readonly outcomeEvidence: string;
+  /** D-286 -- a quotation, only with written permission for this exact wording. */
+  readonly quote?: { text: string; by: 'student' | 'parent' };
   /** Exam series year, so a reader can date the result. */
   readonly year: number;
   /** Set true only by someone who has personally seen the signed consent. */

@@ -1,0 +1,99 @@
+---
+/**
+ * D-286 -- "Next steps" at the end of a resource page: what to do after
+ * reading, using only pages that exist for this resource's own course.
+ *
+ * The course is resolved from the resource's own boards / qualifications /
+ * subject against the ACTIVE matrix, through resourcesForCombination (the
+ * same rule the hub uses), so a link is never offered for a course this
+ * resource does not belong to. A resource that maps to no single course
+ * (e.g. board-agnostic study skills) gets only the generic planner link.
+ *
+ * Same-topic links come from the resource's own syllabusTopics mapping.
+ */
+import type { CollectionEntry } from 'astro:content';
+import { activeOnly, academicHubPath, isFlagshipCode, type Combination } from '../../utils/academic';
+import { combinationIndex, STUDY_KIND } from '../../utils/academic/combination-resources';
+import { syllabusFor } from '../../data/academic/syllabuses';
+import { topicsFor } from '../../data/academic/syllabus-topics';
+import { DIAGNOSTIC_SETS, diagnosticPath } from '../../data/diagnostics';
+import { practiceQuestionsForCode } from '../../utils/practice/bank';
+import { getResources } from '../../utils/content/collections';
+import { routes } from '../../utils/urls/routes';
+import SubscribeBox from './SubscribeBox.astro';
+
+interface Props { resource: CollectionEntry<'resources'> }
+const { resource } = Astro.props;
+const d = resource.data;
+const all = await getResources();
+
+const index = combinationIndex(activeOnly(), all);
+const course: Combination | undefined = (index.byResource.get(resource.id) ?? []).find((c) =>
+  d.qualifications.includes(c.qualificationSlug as never) && d.boards.includes(c.boardSlug as never));
+const courseResources = (c: Combination) => index.byCourse.get(`${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`) ?? [];
+
+type Step = { href: string; label: string; detail: string; kind: string };
+const steps: Step[] = [];
+if (course) {
+  const syllabus = syllabusFor(course.boardSlug, course.qualificationSlug, course.subjectSlug, d.syllabusCodes);
+  const code = syllabus?.code;
+  const mapping = d.syllabusTopics.find((m) => m.qualification === course.qualificationSlug);
+  const kind = STUDY_KIND[d.resourceType];
+  if (mapping) {
+    const topicName = topicsFor(course.boardSlug, course.qualificationSlug, course.subjectSlug)?.topics.find((t) => t.slug === mapping.topic)?.name;
+    // Prefer resources on the same subtopic(s) as this one; fall back to the topic.
+    const mySubs = new Set(d.syllabusTopics.filter((m) => m.qualification === course.qualificationSlug && m.subtopic).map((m) => `${m.topic}/${m.subtopic}`));
+    const others = courseResources(course).filter((r) => r.id !== resource.id);
+    const sameSub = others.filter((r) => r.data.syllabusTopics.some((m) => m.qualification === course.qualificationSlug && m.subtopic && mySubs.has(`${m.topic}/${m.subtopic}`)));
+    const sameTopic = others.filter((r) => r.data.syllabusTopics.some((m) => m.qualification === course.qualificationSlug && m.topic === mapping.topic));
+    const want = kind === 'learn' ? ['practice', 'review'] : kind === 'review' ? ['practice', 'learn'] : ['review', 'learn'];
+    for (const k of want) {
+      const r = sameSub.find((x) => STUDY_KIND[x.data.resourceType] === k) ?? sameTopic.find((x) => STUDY_KIND[x.data.resourceType] === k);
+      if (r) steps.push({
+        href: routes.resource(r.id),
+        label: k === 'practice' ? 'Practise this topic' : k === 'review' ? 'Revision notes for this topic' : 'Study guide for this topic',
+        detail: topicName ? `${topicName}: ${r.data.title}` : r.data.title,
+        kind: k,
+      });
+    }
+  }
+  const diag = DIAGNOSTIC_SETS.find((s) => s.boardSlug === course.boardSlug && s.qualificationSlug === course.qualificationSlug && s.subjectSlug === course.subjectSlug);
+  if (diag) steps.push({ href: diagnosticPath(diag), label: 'Test yourself in 10 minutes', detail: `${diag.code} diagnostic: ${diag.scopeLabel}`, kind: 'diagnostic' });
+  else if (code && isFlagshipCode(code) && practiceQuestionsForCode(code).length) steps.push({ href: `/practice/${code}/`, label: 'Self-check practice', detail: `${code} questions with worked answers`, kind: 'practice_tool' });
+  if (topicsFor(course.boardSlug, course.qualificationSlug, course.subjectSlug)) {
+    steps.push({ href: `${routes.checklists}${course.boardSlug}/${course.qualificationSlug}/${course.subjectSlug}/`, label: 'Tick it off your checklist', detail: `Printable ${code ?? ''} syllabus checklist`.replace('  ', ' '), kind: 'checklist' });
+  } else {
+    steps.push({ href: academicHubPath(course), label: 'All topics for this syllabus', detail: `${course.board} ${course.qualification} ${course.subject}${code ? ` (${code})` : ''}`, kind: 'hub' });
+  }
+}
+const planHref = course ? `/revision-planner/?course=${encodeURIComponent(`${course.boardSlug}/${course.qualificationSlug}/${course.subjectSlug}`)}` : '/revision-planner/';
+steps.push({ href: planHref, label: 'Plan your revision', detail: 'A free weekly plan that puts weak topics first', kind: 'planner' });
+---
+<div class="mt-12 border-t border-rule pt-8">
+<nav aria-labelledby="next-steps-heading" data-next-steps>
+  <h2 id="next-steps-heading" class="m-0 mb-4 text-[20px] font-semibold tracking-[-0.01em] text-navy-800">Next steps</h2>
+  <ul class="m-0 grid list-none gap-3 p-0 sm:grid-cols-2">
+    {steps.map((s) => (
+      <li class="m-0">
+        <a href={s.href} data-next-step={s.kind} class="flex h-full flex-col gap-0.5 rounded-sm border border-rule bg-white px-4 py-3 transition-colors hover:border-gold-500">
+          <span class="text-[15px] font-semibold text-navy-800">{s.label}</span>
+          <span class="text-[13.5px] text-ink-mute">{s.detail}</span>
+        </a>
+      </li>
+    ))}
+  </ul>
+</nav>
+  <div class="mt-8">
+    <SubscribeBox source="resource" preset={course ? { qualification: course.qualificationSlug, courseId: `${course.boardSlug}/${course.qualificationSlug}/${course.subjectSlug}` } : undefined} />
+  </div>
+</div>
+
+<script>
+  document.querySelectorAll<HTMLAnchorElement>('[data-next-step]').forEach((a) => {
+    a.addEventListener('click', () => {
+      try {
+        (window as unknown as { mbTrack?: (n: string, p: Record<string, unknown>) => void }).mbTrack?.('recommended_resource_click', { source: 'resource_next_steps', link_kind: a.dataset.nextStep ?? 'unknown' });
+      } catch { /* never block navigation */ }
+    });
+  });
+</script>

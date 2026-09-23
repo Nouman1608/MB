@@ -134,17 +134,26 @@ test('renderEmailBody produces a plain-text body with only present fields', () =
   assert.ok(!body.includes('School:'));
 });
 
-// v1.x CLOSURE Release WS1 (2026-08-26) -- REPLACES the three tests above
-// this comment used to be (they proved the QIGT trust workstream's now-
-// reverted qualification/board/subject/availability fields). These prove
-// the current, approved allowed-field contract instead: trial now takes
-// exactly the same five fields as student/tutoring, and -- the part that
-// actually matters for security, not just UI -- a client that submits the
-// deprecated fields anyway (e.g. a replayed old request, or a scripted
-// attacker who never loads the current HTML) has them silently discarded
-// server-side rather than accepted as trusted data.
+// D-286 (2026-09-23) -- the trial kind is structured again, by owner
+// decision (see functions/_lib/enquiry-validation.ts). These replace the
+// v1.x CLOSURE WS1 tests that proved the five-field trial contract. The
+// security property they protected is kept: every structured value is
+// allow-listed, and anything outside the lists is dropped, never trusted.
 
-test('validateEnquiry: trial kind requires only name, email, country, message', () => {
+test('validateEnquiry: trial accepts a structured request with no message', () => {
+  const result = validateEnquiry('trial', {
+    name: 'Zara Ali', email: 'zara@example.com', country: 'United Arab Emirates',
+    qualification: 'a-level', board: 'cambridge', subject: 'Physics (9702)', course: 'cambridge/a-level/physics',
+    format: 'help-me-decide', timezone: 'Asia/Dubai', availability: 'weekday-evening,weekend-morning', source: 'diagnostic',
+  });
+  assert.equal(result.ok, true);
+  if (result.ok) {
+    assert.equal(result.data.qualification, 'a-level');
+    assert.equal(result.data.availability, 'weekday-evening,weekend-morning');
+  }
+});
+
+test('validateEnquiry: trial still accepts the five-field form (translated pages): message instead of choices', () => {
   const result = validateEnquiry('trial', {
     name: 'Zara Ali', email: 'zara@example.com', country: 'Pakistan',
     message: 'Would like a trial for the next exam series -- A Level Physics, Cambridge, weekday evenings.',
@@ -152,58 +161,47 @@ test('validateEnquiry: trial kind requires only name, email, country, message', 
   assert.equal(result.ok, true);
 });
 
-test('validateEnquiry: trial kind rejects missing required fields the same as student/tutoring', () => {
-  const result = validateEnquiry('trial', { name: 'Zara Ali', email: 'zara@example.com' });
+test('validateEnquiry: trial needs either qualification + subject or a message', () => {
+  const result = validateEnquiry('trial', { name: 'Zara Ali', email: 'zara@example.com', country: 'Pakistan' });
   assert.equal(result.ok, false);
   if (!result.ok) {
-    assert.ok(result.errors.country);
-    assert.ok(result.errors.message);
+    assert.ok(result.errors.qualification);
+    assert.ok(result.errors.subject);
   }
+  const missing = validateEnquiry('trial', { name: 'Zara Ali', email: 'zara@example.com' });
+  assert.equal(missing.ok, false);
+  if (!missing.ok) assert.ok(missing.errors.country);
 });
 
-test('validateEnquiry: trial kind silently discards deprecated qualification/board/subject/availability fields, does not accept them as trusted data', () => {
+test('validateEnquiry: trial drops out-of-list values instead of trusting them', () => {
   const result = validateEnquiry('trial', {
-    name: 'Zara Ali', email: 'zara@example.com', country: 'Pakistan',
-    message: 'Would like a trial for the next exam series.',
-    // A client (stale cached page, replayed request, or a scripted
-    // attacker bypassing the current HTML entirely) submitting the
-    // removed fields anyway must not have them accepted.
-    qualification: 'A Level', board: 'Cambridge', subject: 'Physics',
-    availability: 'Weekday evenings, Pakistan time',
+    name: 'Zara Ali', email: 'zara@example.com', country: 'Pakistan', message: 'Help please',
+    board: 'made-up-board', availability: 'midnight', teacher: '<b>x</b>', source: 'ad-campaign', course: '../../etc',
   });
   assert.equal(result.ok, true);
   if (result.ok) {
-    assert.equal('qualification' in result.data, false);
-    assert.equal('board' in result.data, false);
-    assert.equal('subject' in result.data, false);
-    assert.equal('availability' in result.data, false);
+    for (const f of ['board', 'availability', 'teacher', 'source', 'course']) assert.equal(f in result.data, false, f);
   }
+  const badQual = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', country: 'PK', qualification: 'phd', subject: 'x' });
+  assert.equal(badQual.ok, false);
 });
 
-test('renderEmailBody: trial kind email body never includes the deprecated fields even if present in data', () => {
-  // Defence in depth: even if a caller somehow passed these through
-  // (they shouldn't, since validateEnquiry already strips them), the
-  // renderer only ever emits fields that are in the kind's own
-  // required/optional spec.
+test('renderEmailBody: trial shows readable choices and says it is a request, not a booking', () => {
   const body = renderEmailBody('trial', {
     name: 'Zara Ali', email: 'zara@example.com', country: 'Pakistan',
-    message: 'Would like a trial for the next exam series.',
-    qualification: 'A Level', board: 'Cambridge', subject: 'Physics',
-    availability: 'Weekday evenings, Pakistan time',
+    qualification: 'igcse', board: 'not-sure', subject: 'Chemistry (0620)', format: 'one-to-one', availability: 'weekend-morning',
   });
-  assert.ok(body.includes('Name: Zara Ali'));
-  assert.ok(body.includes('Message: Would like a trial for the next exam series.'));
-  assert.ok(!body.includes('Qualification:'));
-  assert.ok(!body.includes('Exam board:'));
-  assert.ok(!body.includes('Subject:'));
-  assert.ok(!body.includes('Availability:'));
+  assert.ok(body.includes('Qualification: IGCSE'));
+  assert.ok(body.includes('Exam board: Not sure'));
+  assert.ok(body.includes('Group or one-to-one: One-to-one'));
+  assert.ok(body.includes('Preferred times: weekend morning'));
+  assert.ok(body.includes('not a confirmed booking'));
 });
 
-test('ALLOWED_FIELDS_BY_KIND: trial has the exact same field set as student and tutoring', () => {
-  assert.deepEqual(ALLOWED_FIELDS_BY_KIND.trial, ALLOWED_FIELDS_BY_KIND.student);
-  assert.deepEqual(ALLOWED_FIELDS_BY_KIND.trial, ALLOWED_FIELDS_BY_KIND.tutoring);
-  assert.deepEqual(ALLOWED_FIELDS_BY_KIND.trial.required.sort(), ['country', 'email', 'message', 'name']);
-  assert.deepEqual(ALLOWED_FIELDS_BY_KIND.trial.optional, ['phone']);
+test('ALLOWED_FIELDS_BY_KIND: only the trial kind changed; student and tutoring keep five fields', () => {
+  assert.deepEqual(ALLOWED_FIELDS_BY_KIND.student, ALLOWED_FIELDS_BY_KIND.tutoring);
+  assert.deepEqual(ALLOWED_FIELDS_BY_KIND.student.required.sort(), ['country', 'email', 'message', 'name']);
+  assert.deepEqual(ALLOWED_FIELDS_BY_KIND.trial.required.sort(), ['country', 'email', 'name']);
 });
 
 // Flagship Dominance/Trust programme, Section 9 (2026-08-31, D-095) --
