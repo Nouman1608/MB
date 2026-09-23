@@ -169,10 +169,12 @@ if (!regionPakistan) {
 } else {
   for (const row of REGION_PRICING) {
     if (row.status !== 'indicative') continue;
-    for (const [tierLabel, pkrBase, published] of [
+    /** @type {Array<[string, number, number]>} */
+    const tiers = [
       ['igcse', regionPakistan.igcse, row.igcse],
       ['aLevel', regionPakistan.aLevel, row.aLevel],
-    ]) {
+    ];
+    for (const [tierLabel, pkrBase, published] of tiers) {
       let implied;
       try {
         implied = impliedConvertedAmount(pkrBase, row.currency);
