@@ -30,7 +30,6 @@ import {
   REGION_PRICING, ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS, IB_PRICING,
   PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee,
 } from '../../data/pricing';
-import { site } from '../../data/site';
 import { hubIsTaught, RESOURCES_ONLY_SUFFIX } from '../../data/markets';
 
 /**
@@ -99,7 +98,7 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
         {site.about.address
           ? <>In-person classes are taught at the Learners Academy campus, {site.about.address}.</>
           : <>In-person classes are taught at the Learners Academy campus in Lahore.</>}
-        {' '}Students elsewhere in Pakistan join the same teachers live online. Most Cambridge syllabuses are examined in
+        {' '}Students elsewhere in Pakistan join the same teachers live online, and class times are agreed with you before the first class. Most Cambridge syllabuses are examined in
         the June and November series, and some in June only; each syllabus page states its series.
         {' '}Students outside Pakistan: see <a href="/international-tutoring/" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">international online tutoring</a>.
       </p>
@@ -197,9 +196,7 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
 
   <Section surface="ivory" border>
     <Container>
-      <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">In person in Lahore, or online anywhere in Pakistan</h2>
-      <p class="m-0 mb-8 max-w-[70ch] text-[15.5px] leading-[1.65] text-ink-mute">In-person classes are at the academy, {site.about.address}. Everywhere else in Pakistan, classes are live online. Either way, class times are agreed with you before the first class.</p>
-      <h3 class="m-0 mb-5 text-[20px] font-semibold text-navy-800">Questions from families in Pakistan</h3>
+      <h2 class="m-0 mb-5 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Questions from families in Pakistan</h2>
       <FAQ items={faqs} id="pakistan-faqs" />
     </Container>
   </Section>

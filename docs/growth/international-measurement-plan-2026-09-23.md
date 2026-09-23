@@ -1,6 +1,6 @@
 # International growth: 30/60/90-day measurement plan
 
-Written 2026-09-23 (PKT) for branch `growth-programme` (decisions D-295 to D-308 on this branch. Another session merged its own D-295 to D-299 to `main` on the same day, so these numbers must move up by five, to D-300 to D-305, when the branch is merged). Day 0 is the day this work is deployed to production.
+Written 2026-09-23 (PKT) for branch `growth-programme`, rebased onto `main` at `df8b6b36`. Decisions are D-295 to D-308. Day 0 is the day this work is deployed to production.
 
 ## Baseline (captured 2026-09-23, before deployment)
 
@@ -44,8 +44,8 @@ Written 2026-09-23 (PKT) for branch `growth-programme` (decisions D-295 to D-308
 | Signal | Source | How to read it |
 |---|---|---|
 | Impressions and clicks for `/international-tutoring/`, `/uae/`, `/qatar/`, `/malaysia/`, `/pakistan/`, `/uk/`, `/gulf/` | Search Console → Performance → Pages, filtered by country | New pages start at zero. Any impressions are new demand coverage. |
-| Hub → hub-to-tuition movement | GA4 → Pages and screens, with `page_path` on `trial_cta_click` and `generate_lead` | Look for paths that start on `/boards/…` and end on `/international-tutoring/` or `/trial/` (D-305, D-306). |
-| Leads by country and offer | GA4 `generate_lead` by Country, plus the parameters `qualification`, `exam_board`, `tuition_format` | This separates a UAE Edexcel IGCSE enquiry from a Pakistan O Level one. |
+| Hub → tuition movement | GA4 → Events: `trial_cta_click` (`cta_location`) and `generate_lead` (`trial_source`) | The international hub and country pages send `?source=region`, hubs with a tuition section send `tuition-page`, and resources send `resource`. Compare `generate_lead` counts by `trial_source` (D-305, D-306). |
+| Leads by country and format | GA4 `generate_lead` by Country, with the `format` parameter (group, one-to-one or help-me-decide) | This shows whether international leads lean towards one-to-one or group classes. |
 | "Alternate with canonical" count | Search Console → Pages | This should fall as the 718 www URLs and the 159 `?page=` URLs age out (D-298 moved those variants to `#` fragments). |
 | "Discovered, not indexed" | Search Console → Pages | 1,653 resources now link to their hub, and hubs link back (D-306). A falling count means the internal-link change is working. |
 | Security headers | `curl -sI https://marlbridge.com/` | Should show `X-Content-Type-Options`, `Referrer-Policy`, `Permissions-Policy`, `X-Frame-Options` and a frame-ancestors CSP after deploy (D-295). |
@@ -55,7 +55,7 @@ Written 2026-09-23 (PKT) for branch `growth-programme` (decisions D-295 to D-308
 **Day 30**
 
 - Confirm every new URL is indexed. Use URL Inspection for the hub and the three country pages, and request indexing once.
-- Check that `generate_lead` still fires and carries `page_path`.
+- Check that `generate_lead` still fires and carries `trial_source` = `region` for leads from the international pages.
 - Record impressions for each country page.
 - Take no content decisions yet: the numbers will be too small.
 
