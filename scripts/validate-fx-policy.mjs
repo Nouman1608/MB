@@ -153,6 +153,23 @@ if (!oneToOnePakistan) {
   }
 }
 
+// --- [2e] owner-set group rates are an explicit, closed list ---------------
+// A group row may be 'confirmed' only if the owner set that rate (D-012,
+// D-043, D-149). Any other region -- e.g. Malaysia, which the owner asked to
+// be shown as a PKR conversion (D-297) -- must be 'indicative', so a new
+// country can never be published as a confirmed price by accident.
+const OWNER_SET_GROUP_REGIONS = new Set([
+  'Pakistan', 'Saudi Arabia', 'United Arab Emirates', 'Qatar', 'Kuwait',
+  'Bahrain', 'Oman', 'United Kingdom', 'Europe',
+]);
+console.log('\n[2e] Only owner-set regions carry confirmed group fees');
+for (const row of REGION_PRICING) {
+  if (row.status !== 'indicative' && !OWNER_SET_GROUP_REGIONS.has(row.region)) {
+    console.log(`  ✗ REGION_PRICING ${row.region}: shown as confirmed, but no owner-set rate is recorded for it. Mark it status: 'indicative' or record the owner decision and add it to OWNER_SET_GROUP_REGIONS.`);
+    problems++;
+  }
+}
+
 // --- [2d] D-297: indicative (converted) group rows and status labels -------
 
 console.log(`\n[2d] Indicative group-fee rows are within ${FX_TOLERANCE_PERCENT}% of what FX_RATES implies, and every conversion is labelled indicative`);
