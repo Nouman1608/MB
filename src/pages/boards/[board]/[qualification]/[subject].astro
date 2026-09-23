@@ -985,6 +985,8 @@ const jsonLd = [
       heading={`Studying ${boardQualPhrase} ${c.subject}? Tell us where the difficulty is.`}
       buttonLabel={tuitionPage ? 'Request a free trial class' : 'Find Learning Support'}
       buttonHref={tuitionPage ? `${routes.trial}?course=${encodeURIComponent(`${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`)}&source=tuition-page` : routes.tutoring}
+      linkLabel="Studying outside Pakistan? Class times and fees for your country"
+      linkHref="/international-tutoring/"
     />
   ) : (
     <CTA

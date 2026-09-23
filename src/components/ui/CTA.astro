@@ -8,8 +8,11 @@ interface Props {
   buttonLabel: string;
   buttonHref: string;
   surface?: 'navy' | 'ivory';
+  /** Optional secondary text link under the button (D-305). */
+  linkLabel?: string;
+  linkHref?: string;
 }
-const { heading, buttonLabel, buttonHref, surface = 'navy' } = Astro.props;
+const { heading, buttonLabel, buttonHref, surface = 'navy', linkLabel, linkHref } = Astro.props;
 ---
 {surface === 'navy' ? (
   <Section surface="navy" spacing="md" searchIgnore>
@@ -18,6 +21,9 @@ const { heading, buttonLabel, buttonHref, surface = 'navy' } = Astro.props;
         {heading}
       </h2>
       <Button href={buttonHref} variant="onDark" size="lg">{buttonLabel}</Button>
+      {linkLabel && linkHref && (
+        <a href={linkHref} class="text-[15px] text-white underline decoration-gold-500 underline-offset-4 hover:text-gold-500">{linkLabel}</a>
+      )}
     </Container>
   </Section>
 ) : (
@@ -25,6 +31,9 @@ const { heading, buttonLabel, buttonHref, surface = 'navy' } = Astro.props;
     <Container class="flex flex-wrap items-baseline justify-between gap-x-10 gap-y-4">
       <p class="m-0 max-w-[62ch] text-[17px] leading-[1.6] text-ink-mute">{heading}</p>
       <Button href={buttonHref} variant="secondary">{buttonLabel}</Button>
+      {linkLabel && linkHref && (
+        <a href={linkHref} class="basis-full text-[15px] text-navy-800 underline decoration-gold-500 underline-offset-4 hover:text-gold-600">{linkLabel}</a>
+      )}
     </Container>
   </Section>
 )}
