@@ -10,6 +10,13 @@
  * (with "Help me decide"), name, email, optional phone, country, and folded
  * optional times and message.
  *
+ * D-292 made the subject a larger "Subjects" box. D-293 (owner request):
+ * every visible field is compulsory -- subjects, exam board (no default;
+ * "Not sure" is still a choice), group or one-to-one (no default; "Help me
+ * decide" is still a choice), name, email, phone/WhatsApp and country. An
+ * empty field gets a red * on its label and a message. Preferred times and
+ * the message stay folded and optional (owner's choice, 2026-09-23).
+ *
  * PRESELECTION (build-time allow-lists; nothing from the URL is shown or
  * submitted unless it matches):
  *   ?course=board/qualification/subject  fills the subject text and the board,
@@ -78,47 +85,51 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
   <fieldset class="m-0 grid gap-4 border-0 p-0 sm:grid-cols-2">
     <legend class="mb-3 p-0 text-[19px] font-semibold text-navy-800">1. What would you like help with?</legend>
     <div class="grid gap-1.5">
-      <label for="trial-subject" class={labelCls}>Subjects</label>
+      <label for="trial-subject" class={labelCls}>Subjects<span data-req-mark hidden aria-hidden="true" class="text-error"> *</span></label>
       <textarea id="trial-subject" name="subject" required maxlength="300" rows="3" class="min-h-24 w-full resize-y rounded-sm border border-rule bg-white px-3 py-2.5 text-[15.5px] leading-snug text-ink aria-[invalid=true]:border-error" placeholder="e.g. A Level Maths, IGCSE Chemistry" aria-describedby="trial-subject-err"></textarea>
       <p id="trial-subject-err" data-error-for="subject" hidden class="m-0 text-[13.5px] text-error"></p>
     </div>
     <div class="grid gap-1.5">
-      <label for="trial-board" class={labelCls}>Exam board</label>
-      <select id="trial-board" name="board" class={field}>
+      <label for="trial-board" class={labelCls}>Exam board<span data-req-mark hidden aria-hidden="true" class="text-error"> *</span></label>
+      <select id="trial-board" name="board" required class={field} aria-describedby="trial-board-err">
+        <option value="" selected disabled>Choose an exam board</option>
         {BOARDS.map((b) => <option value={b.value}>{b.label}</option>)}
       </select>
+      <p id="trial-board-err" data-error-for="board" hidden class="m-0 text-[13.5px] text-error"></p>
     </div>
-    <fieldset class="m-0 border-0 p-0 sm:col-span-2">
-      <legend class={`mb-2 p-0 ${labelCls}`}>Group classes or one-to-one?</legend>
+    <fieldset id="trial-format" tabindex="-1" class="m-0 border-0 p-0 sm:col-span-2" aria-describedby="trial-format-err">
+      <legend class={`mb-2 p-0 ${labelCls}`}>Group classes or one-to-one?<span data-req-mark hidden aria-hidden="true" class="text-error"> *</span></legend>
       <div class="flex flex-wrap gap-2">
         {[['help-me-decide', 'Help me decide'], ['group', `Group (up to ${PRICING_TERMS.maxGroupSize}, fee per month)`], ['one-to-one', 'One-to-one (fee per class)']].map(([v, l]) => (
           <label class="flex min-h-11 cursor-pointer items-center gap-2 rounded-sm border border-rule px-3 text-[14.5px] has-[:checked]:border-navy-800 has-[:checked]:bg-ivory">
-            <input type="radio" name="format" value={v} checked={v === 'help-me-decide'} class="h-4 w-4" />{l}
+            <input type="radio" name="format" value={v} required class="h-4 w-4" />{l}
           </label>
         ))}
       </div>
       <p class="m-0 mt-1.5 text-[13px] text-ink-mute">Group fees are per subject, per month; one-to-one fees are per class. <a href="/pricing/" class="underline decoration-gold-500 underline-offset-2">See fees</a>.</p>
+      <p id="trial-format-err" data-error-for="format" hidden class="m-0 mt-1.5 text-[13.5px] text-error"></p>
     </fieldset>
   </fieldset>
 
   <fieldset class="m-0 grid gap-4 border-0 p-0 sm:grid-cols-2">
     <legend class="mb-3 p-0 text-[19px] font-semibold text-navy-800">2. Your details</legend>
     <div class="grid gap-1.5">
-      <label for="trial-name" class={labelCls}>Full name</label>
+      <label for="trial-name" class={labelCls}>Full name<span data-req-mark hidden aria-hidden="true" class="text-error"> *</span></label>
       <input id="trial-name" name="name" required autocomplete="name" class={field} aria-describedby="trial-name-err" />
       <p id="trial-name-err" data-error-for="name" hidden class="m-0 text-[13.5px] text-error"></p>
     </div>
     <div class="grid gap-1.5">
-      <label for="trial-email" class={labelCls}>Email</label>
+      <label for="trial-email" class={labelCls}>Email<span data-req-mark hidden aria-hidden="true" class="text-error"> *</span></label>
       <input id="trial-email" name="email" type="email" required autocomplete="email" inputmode="email" class={field} aria-describedby="trial-email-err" />
       <p id="trial-email-err" data-error-for="email" hidden class="m-0 text-[13.5px] text-error"></p>
     </div>
     <div class="grid gap-1.5">
-      <label for="trial-phone" class={labelCls}>Phone or WhatsApp <span class="font-normal text-ink-mute">(optional)</span></label>
-      <input id="trial-phone" name="phone" type="tel" autocomplete="tel" inputmode="tel" class={field} />
+      <label for="trial-phone" class={labelCls}>Phone or WhatsApp<span data-req-mark hidden aria-hidden="true" class="text-error"> *</span></label>
+      <input id="trial-phone" name="phone" type="tel" required autocomplete="tel" inputmode="tel" maxlength="30" class={field} placeholder="e.g. +92 300 1234567" aria-describedby="trial-phone-err" />
+      <p id="trial-phone-err" data-error-for="phone" hidden class="m-0 text-[13.5px] text-error"></p>
     </div>
     <div class="grid gap-1.5">
-      <label for="trial-country" class={labelCls}>Country</label>
+      <label for="trial-country" class={labelCls}>Country<span data-req-mark hidden aria-hidden="true" class="text-error"> *</span></label>
       <input id="trial-country" name="country" required autocomplete="country-name" list="trial-countries" class={field} aria-describedby="trial-country-err" />
       <datalist id="trial-countries">{countries.map((c) => <option value={c} />)}</datalist>
       <p id="trial-country-err" data-error-for="country" hidden class="m-0 text-[13.5px] text-error"></p>
@@ -223,25 +234,49 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
       input?.setAttribute('aria-invalid', message ? 'true' : 'false');
     };
     const val = (id: string) => form.querySelector<HTMLInputElement>(`#trial-${id}`)!.value.trim();
+    const formatVal = () => form.querySelector<HTMLInputElement>('input[name="format"]:checked')?.value ?? '';
+    const phoneOk = (v: string) => /^\+?[\d\s\-().]{7,30}$/.test(v) && v.replace(/\D/g, '').length >= 7;
+    // D-293: every visible field is compulsory. An empty one gets a red * on its
+    // label plus a message; the * goes as soon as the field is filled.
+    const rules: [string, () => string, () => string | null][] = [
+      ['subject', () => val('subject'), () => (val('subject') ? null : 'Please type your subjects, for example "A Level Maths, IGCSE Chemistry".')],
+      ['board', () => val('board'), () => (val('board') ? null : 'Please choose an exam board, or "Not sure".')],
+      ['format', formatVal, () => (formatVal() ? null : 'Please choose group, one-to-one, or "Help me decide".')],
+      ['name', () => val('name'), () => (val('name') ? null : 'Please enter your name.')],
+      ['email', () => val('email'), () => (/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(val('email')) ? null : 'Please enter a valid email address.')],
+      ['phone', () => val('phone'), () => (phoneOk(val('phone')) ? null : 'Please enter a phone or WhatsApp number, with the country code if outside Pakistan.')],
+      ['country', () => val('country'), () => (val('country') ? null : 'Please tell us your country.')],
+    ];
+    const mark = (name: string, empty: boolean) => {
+      const m = form.querySelector<HTMLElement>(`label[for="trial-${name}"] [data-req-mark]`)
+        ?? form.querySelector<HTMLElement>(`#trial-${name} > legend [data-req-mark]`);
+      if (m) m.hidden = !empty;
+    };
+    let tried = false;
     const validate = (): HTMLElement | null => {
-      const checks: [string, string | null][] = [
-        ['subject', val('subject') ? null : 'Please type your subjects, for example "A Level Maths, IGCSE Chemistry".'],
-        ['name', val('name') ? null : 'Please enter your name.'],
-        ['email', /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(val('email')) ? null : 'Please enter a valid email address.'],
-        ['country', val('country') ? null : 'Please tell us your country.'],
-      ];
       let first: HTMLElement | null = null;
-      for (const [name, msg] of checks) {
+      for (const [name, value, check] of rules) {
+        const msg = check();
         setError(name, msg);
-        if (msg && !first) first = form.querySelector<HTMLElement>(`#trial-${name}`);
+        mark(name, !value());
+        if (msg && !first) {
+          first = name === 'format'
+            ? form.querySelector<HTMLElement>('input[name="format"]')
+            : form.querySelector<HTMLElement>(`#trial-${name}`);
+        }
       }
       return first;
     };
+    // After a first failed attempt, re-check as the student fills things in.
+    const recheck = () => { if (tried) validate(); };
+    form.addEventListener('input', recheck);
+    form.addEventListener('change', recheck);
 
     let sent = false;
     form.addEventListener('submit', async (e) => {
       e.preventDefault();
       if (sent) return;
+      tried = true;
       const first = validate();
       if (first) { first.focus(); return; }
       availIn.value = [...form.querySelectorAll<HTMLInputElement>('[data-slot]:checked')].map((x) => x.value).join(',');
@@ -257,7 +292,7 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
         (window as unknown as { gtag?: (...a: unknown[]) => void }).gtag?.('event', 'generate_lead', {
           enquiry_kind: 'trial',
           trial_source: sourceIn.value || 'trial-page',
-          format: (form.querySelector<HTMLInputElement>('input[name="format"]:checked')?.value) ?? 'help-me-decide',
+          format: formatVal() || 'help-me-decide',
         });
         form.querySelectorAll<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>('input, select, textarea').forEach((i) => { i.disabled = true; });
         return;

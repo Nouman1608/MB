@@ -173,7 +173,8 @@ tutoring and translated trial forms carry exactly 5 fields (v1.x CLOSURE decisio
 /trial/ page uses `TrialRequestForm.astro` instead: a typed subject, board (default "Not sure"),
 group/one-to-one, name, email, optional phone, country, and folded optional times and message,
 with allow-listed preselection from `?course=`, `?program=`, `?teacher=`, `?format=`, `?source=`
-(owner decisions 2026-09-23, D-287; shortened in D-291: no qualification dropdown, no time zone). Do not add
+(owner decisions 2026-09-23, D-287; shortened in D-291: no qualification dropdown, no time zone;
+D-292 "Subjects" box; D-293 every visible field compulsory, empty ones marked with a red *). Do not add
 fields to either form without recording a new decision-log entry.
 
 `functions/api/subscribe.ts` (optional revision emails, double opt-in, hidden until configured —

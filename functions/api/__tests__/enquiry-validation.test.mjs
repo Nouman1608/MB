@@ -142,7 +142,7 @@ test('renderEmailBody produces a plain-text body with only present fields', () =
 
 test('validateEnquiry: trial accepts a structured request with no message', () => {
   const result = validateEnquiry('trial', {
-    name: 'Zara Ali', email: 'zara@example.com', country: 'United Arab Emirates',
+    name: 'Zara Ali', email: 'zara@example.com', phone: '+971 50 123 4567', country: 'United Arab Emirates',
     qualification: 'a-level', board: 'cambridge', subject: 'Physics (9702)', course: 'cambridge/a-level/physics',
     format: 'help-me-decide', timezone: 'Asia/Dubai', availability: 'weekday-evening,weekend-morning', source: 'diagnostic',
   });
@@ -165,7 +165,7 @@ test('validateEnquiry: trial still accepts the five-field form (translated pages
 // qualification dropdown, no time zone).
 test('validateEnquiry: trial accepts the short form (typed subject, no qualification or time zone)', () => {
   const result = validateEnquiry('trial', {
-    name: 'Zara Ali', email: 'zara@example.com', country: 'Pakistan',
+    name: 'Zara Ali', email: 'zara@example.com', phone: '0323 9149918', country: 'Pakistan',
     subject: 'O Level Maths', board: 'not-sure', format: 'help-me-decide', source: 'trial-page',
   });
   assert.equal(result.ok, true);
@@ -200,11 +200,31 @@ test('validateEnquiry: trial drops out-of-list values instead of trusting them',
     for (const f of ['board', 'availability', 'teacher', 'source', 'course']) assert.equal(f in result.data, false, f);
   }
   // qualification is now a hidden value: a tampered one is dropped, not shown as an error
-  const badQual = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', country: 'PK', qualification: 'phd', subject: 'x' });
+  const badQual = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', phone: '03001234567', country: 'PK', board: 'not-sure', format: 'group', qualification: 'phd', subject: 'x' });
   assert.equal(badQual.ok, true);
   if (badQual.ok) assert.equal('qualification' in badQual.data, false);
   const badFormat = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', country: 'PK', subject: 'x', format: 'weekly' });
   assert.equal(badFormat.ok, false);
+});
+
+// D-293 -- every visible field on the English form is compulsory.
+test('validateEnquiry: trial with a typed subject also needs board, format and phone', () => {
+  const r = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', country: 'PK', subject: 'A Level Maths' });
+  assert.equal(r.ok, false);
+  if (!r.ok) {
+    assert.ok(r.errors.board);
+    assert.ok(r.errors.format);
+    assert.ok(r.errors.phone);
+  }
+  const badBoard = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', phone: '03001234567', country: 'PK', subject: 'A Level Maths', board: 'made-up', format: 'group' });
+  assert.equal(badBoard.ok, false);
+  if (!badBoard.ok) assert.ok(badBoard.errors.board);
+  const shortPhone = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', phone: '12345', country: 'PK', subject: 'A Level Maths', board: 'cambridge', format: 'group' });
+  assert.equal(shortPhone.ok, false);
+  if (!shortPhone.ok) assert.ok(shortPhone.errors.phone);
+  // The translated five-field forms (no subject) keep phone optional.
+  const translated = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', country: 'PK', message: 'A Level Maths please' });
+  assert.equal(translated.ok, true);
 });
 
 test('renderEmailBody: trial shows readable choices and says it is a request, not a booking', () => {
