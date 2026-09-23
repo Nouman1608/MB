@@ -1,6 +1,6 @@
 # Marlbridge — Business decisions register (owner input required)
 
-Last updated: 2026-08-26, as part of the QIGT programme (task #81).
+Last updated: 2026-09-23, International Growth programme (items 10-20 added). Previously 2026-08-26, QIGT programme (task #81).
 
 This register consolidates every question the QIGT workstreams (D-034
 through D-039, and one earlier finding from D-010/D-033) surfaced that
@@ -190,6 +190,128 @@ the owner could add a Cloudflare redirect rule so `www.marlbridge.com`
 301s to `https://marlbridge.com/` instead of serving the same page twice —
 purely cosmetic, since the canonical tag already tells Google which URL is
 authoritative.
+
+---
+
+## International Growth programme (2026-09-23) — new open items
+
+Raised while implementing D-295 to D-307. Each item is something only the
+owner can decide or do. Nothing below has been assumed on the site: where
+a fact is missing, the site says less, not more.
+
+### 10. Set the ADMIN_API_KEY secret (action, not a decision)
+
+D-295 locked `/api/admin/search-demand` behind a bearer key. Until the
+secret is set, the endpoint **fails closed** (HTTP 503) and the admin
+dashboard cannot load data. Set a random value of at least 16 characters
+with `npx wrangler secret put ADMIN_API_KEY`, or in the Cloudflare dashboard
+under Workers > mb > Settings > Variables and Secrets. Paste the same value
+into the key box on `/admin/search-demand/`; it is kept only for the
+browser tab.
+
+**Status:** open. The daily cron that refreshes the D1 table is not
+affected.
+
+### 11. USD fee bands
+
+The brief mentions USD bands. No USD figure is owner-confirmed, so none is
+published (D-297). If families outside the priced regions should see a
+USD figure, the owner needs to set it. The alternative is to label it
+indicative, as was done for Malaysia.
+
+**Status:** open. The site currently says "confirmed in writing when you
+enquire".
+
+### 12. IB fee outside Pakistan
+
+The IB rate (5,000 PKR per class) is confirmed for Pakistan only. Every
+country page shows IB as "on enquiry". The owner could confirm per-country
+IB fees, or approve an indicative conversion as for one-to-one.
+
+**Status:** open.
+
+### 13. Tutor availability by time zone
+
+The country pages give local-to-Lahore time arithmetic only. They do not
+promise slots, because teacher availability by time of day has not been
+recorded. UK after-school hours fall at 8:30 to 10:30 pm in Lahore, and
+Malaysia's fall at 1 to 5 pm. The owner could confirm which bands teachers
+actually cover, so pages can say, for example, "UK weekday slots 5 to 7 pm
+UK time".
+
+**Status:** open.
+
+### 14. "Confirmed in writing" process
+
+Every indicative and on-enquiry price says the exact fee is "confirmed in
+writing before any payment". That describes the owner's email practice as
+stated. If a standard written quote template exists, it should be linked
+or described. If one does not, the owner should confirm that the wording
+matches practice.
+
+**Status:** open (wording kept, since it is a commitment the owner already
+makes by email).
+
+### 15. Enquiry recipient and response time
+
+The owner chose "leave as is" on 23 Sep 2026: the recipient email stays
+hard-coded in `functions/api/enquiry.ts`. The published response times
+(email within two working days, WhatsApp within one working day, D-149)
+appear on every trial step list, including all three new country pages.
+
+**Status:** decided (no change). This is recorded so a future inbox change
+updates both the code and the promise.
+
+### 16. Progress reports, safeguarding and qualified-teacher claims
+
+The brief lists these as trust signals. None is owner-confirmed, so none is
+claimed anywhere on the site. If any exists (for example, termly progress
+reports, a safeguarding policy, or teacher background checks), the owner
+should supply the document or policy and it can be published.
+
+**Status:** open (deliberately absent from the site).
+
+### 17. Cloudflare housekeeping (optional)
+
+- Zaraz still produces a 404 and an "Other 4xx" in Search Console
+  (`/cdn-cgi/zaraz/...`). This is harmless but noisy. A Zaraz setting or a
+  robots rule could stop it being crawled.
+- The www → apex redirect has been live since v1.x WS3 (checked 23 Sep
+  2026: HTTP 301). The 718 www URLs Search Console still lists as
+  "Alternate with canonical" were crawled in August and should decay
+  without any action.
+
+**Status:** optional.
+
+### 18. Dates on resources (`updatedDate` / sitemap `lastmod`)
+
+Sitemap `lastmod` comes from each resource's `updatedDate` or
+`publishedDate`. For 667 URLs in "Discovered, currently not indexed", an
+honest `updatedDate` whenever a resource is materially revised is the one
+freshness signal left. The owner should confirm that the editor updates it
+on real revisions only, never in bulk.
+
+**Status:** open (practice, not code).
+
+### 19. IB licence (R13)
+
+This carries over from the earlier register. The IB subject-guide pages
+link to the official IB pages and quote no IB material. Whether Marlbridge
+may describe itself in relation to the IB beyond that still depends on the
+IB's terms, and needs the owner's confirmation.
+
+**Status:** open, unchanged.
+
+### 20. Country pages for further markets
+
+Jordan, Saudi Arabia, India, Egypt, Kenya, Nigeria, Bangladesh and
+Singapore were deliberately **not** given pages (D-303 has the Search
+Console figures). A page should follow only when there is (a) sustained
+impressions for tuition intent, not resources, and (b) something
+country-specific to say: a set fee, a confirmed time band, or a curriculum
+note.
+
+**Status:** review at day 90 (see the measurement plan).
 
 ---
 
