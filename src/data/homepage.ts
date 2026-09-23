@@ -12,5 +12,5 @@ export const tutoringModes = [
   { title: 'One-to-one tutoring', description: 'A single tutor, a single learner, and a plan built around what is actually difficult.' },
   { title: 'Small-group learning', description: 'Small groups at the same level, where discussion helps understanding.' },
   { title: 'Exam preparation', description: 'Focused work on technique, timing and past papers ahead of a session.' },
-  { title: 'Online learning', description: 'Live online lessons for learners outside our teaching locations.' },
+  { title: 'Online learning', description: 'Live online lessons for learners outside Lahore, in their own time zone.' },
 ] as const;

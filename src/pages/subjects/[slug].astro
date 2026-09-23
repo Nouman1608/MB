@@ -13,7 +13,7 @@ import Badge from '../../components/ui/Badge.astro';
 import { getSubjects, availabilityLabel, availabilityTone } from '../../utils/content/collections';
 import { resourcesForSubject, relatedArticles } from '../../utils/content/related';
 import { faqNode } from '../../utils/schema/faq';
-import { offeringsForSubject, academicHubPath } from '../../utils/academic';
+import { offeringsForSubject, academicHubPath, offersClasses } from '../../utils/academic';
 import { syllabusFor } from '../../data/academic/syllabuses';
 import { routes } from '../../utils/urls/routes';
 
@@ -36,6 +36,14 @@ const articles = await relatedArticles({ subject: subject.id, limit: 3 });
 const faq = faqNode(d.faqs);
 /** Approved board x qualification hubs for this subject. Empty unless approved. */
 const offerings = offeringsForSubject(subject.id);
+/** D-296 -- say "taught" only for combinations with classes (D-270/D-272). */
+const taughtCount = offerings.filter(offersClasses).length;
+const teachingSentence =
+  d.marlbridgeTeaches !== 'teaching' || taughtCount === 0
+    ? { strong: `Marlbridge publishes free ${d.title} study material`, rest: ' for each qualification below. Classes are not currently offered in this subject. These are distinct qualifications with different syllabuses and assessments. Pick the one your school enters you for.' }
+    : taughtCount < offerings.length
+      ? { strong: `${d.title} is taught by Marlbridge today for some of the qualifications below`, rest: '; the others have free study material only. Each hub says which. These are distinct qualifications with different syllabuses and assessments. Pick the one your school enters you for.' }
+      : { strong: `${d.title} is taught by Marlbridge today`, rest: ', for each qualification below — these are distinct qualifications with different syllabuses and assessments. Pick the one your school enters you for.' };
 ---
 <PageLayout
   title={d.seoTitle ?? d.title}
@@ -70,7 +78,7 @@ const offerings = offeringsForSubject(subject.id);
             Choose your board and qualification
           </h2>
           <p class="m-0 mb-6 max-w-[68ch] text-[16.5px] leading-[1.65] text-ink-mute">
-            <strong class="text-navy-800">{d.title} is taught by Marlbridge today</strong>, for each qualification below — these are distinct qualifications with different syllabuses and assessments. Pick the one your school enters you for.
+            <strong class="text-navy-800">{teachingSentence.strong}</strong>{teachingSentence.rest}
           </p>
           <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
             {offerings.map((o) => {

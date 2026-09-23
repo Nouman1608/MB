@@ -23,41 +23,41 @@
 
 ## Subjects
 
-- [Accounting](https://marlbridge.com/subjects/accounting/): Accounting at IGCSE and A Level, with study material organised by topic.
-- [Biology](https://marlbridge.com/subjects/biology/): Biology at IGCSE · O · A Level, with study material organised by topic.
-- [Business](https://marlbridge.com/subjects/business/): Business at O · A Level, with study material organised by topic.
-- [Chemistry](https://marlbridge.com/subjects/chemistry/): Chemistry at IGCSE · O · A Level, with study material organised by topic.
-- [Commerce](https://marlbridge.com/subjects/commerce/): Commerce at IGCSE and O Level, with study material organised by topic.
-- [Computer Science](https://marlbridge.com/subjects/computer-science/): Computer Science at IGCSE · O · A Level, with study material organised by topic.
-- [Economics](https://marlbridge.com/subjects/economics/): Economics at O · A Level, with study material organised by topic.
-- [English Literature](https://marlbridge.com/subjects/english-literature/): English Literature at IGCSE, GCSE and A Level, across Cambridge, Pearson Edexcel, AQA and OxfordAQA.
-- [English](https://marlbridge.com/subjects/english/): English Language at IGCSE, O Level, GCSE and A Level, across Cambridge, Pearson Edexcel, AQA and OxfordAQA.
-- [Environmental Management](https://marlbridge.com/subjects/environmental-management/): Environmental Management at IGCSE and O Level, with study material organised by topic.
-- [Environmental Systems and Societies](https://marlbridge.com/subjects/environmental-systems-and-societies/): IB DP Environmental Systems and Societies (ESS), an interdisciplinary sciences / individuals-and-societies course.
-- [Geography](https://marlbridge.com/subjects/geography/): Geography at IGCSE, O Level and A Level, with study material organised by topic.
-- [Global Perspectives](https://marlbridge.com/subjects/global-perspectives/): Global Perspectives at IGCSE and A Level, with study material organised by topic.
-- [Global Politics](https://marlbridge.com/subjects/global-politics/): IB DP Global Politics, exploring power, sovereignty and contemporary political issues.
-- [ICT](https://marlbridge.com/subjects/ict/): ICT at IGCSE · A Level, with study material organised by topic.
-- [Islamiyat](https://marlbridge.com/subjects/islamiyat/): Islamiyat at IGCSE and O Level, with study material organised by topic.
-- [Language A: Language and Literature](https://marlbridge.com/subjects/language-a-language-and-literature/): IB DP Language A: Language and Literature, with study material organised by course component.
-- [Language A: Literature](https://marlbridge.com/subjects/language-a-literature/): IB DP Language A: Literature, with study material organised by course component.
-- [Language B](https://marlbridge.com/subjects/language-b/): IB DP Language B, a language acquisition course for students with prior experience of the target language.
-- [Languages](https://marlbridge.com/subjects/languages/): An index of language subjects, each confirmed individually on its own page.
-- [Law](https://marlbridge.com/subjects/law/): Law at A Level, with study material organised by topic.
-- [Mathematics: Analysis and Approaches](https://marlbridge.com/subjects/mathematics-analysis-and-approaches/): IB DP Mathematics: Analysis and Approaches, emphasising rigorous mathematical argument and abstract problem solving.
-- [Mathematics: Applications and Interpretation](https://marlbridge.com/subjects/mathematics-applications-and-interpretation/): IB DP Mathematics: Applications and Interpretation, emphasising technology-driven, real-world mathematical modelling.
-- [Mathematics](https://marlbridge.com/subjects/mathematics/): Mathematics at IGCSE · O · A Level, with study material organised by topic.
-- [Design (MYP)](https://marlbridge.com/subjects/myp-design/): IB MYP Design, applying the design cycle to solve practical, real-world problems.
-- [Individuals and Societies (MYP)](https://marlbridge.com/subjects/myp-individuals-and-societies/): IB MYP Individuals and Societies, covering history, geography, economics and related humanities disciplines.
-- [Language Acquisition (MYP)](https://marlbridge.com/subjects/myp-language-acquisition/): IB MYP Language Acquisition, developing additional-language proficiency and intercultural understanding.
-- [Sciences (MYP)](https://marlbridge.com/subjects/myp-sciences/): IB MYP Sciences: biology, chemistry and physics taught through inquiry, investigation and real-world application.
-- [Pakistan Studies](https://marlbridge.com/subjects/pakistan-studies/): Pakistan Studies at IGCSE and O Level, with study material organised by topic.
-- [Physics](https://marlbridge.com/subjects/physics/): Physics at IGCSE · O · A Level, with study material organised by topic.
-- [Psychology](https://marlbridge.com/subjects/psychology/): Psychology at GCSE · A Level, with study material organised by topic.
-- [Sociology](https://marlbridge.com/subjects/sociology/): Sociology at GCSE · IGCSE · O · A Level, with study material organised by topic.
-- [Statistics](https://marlbridge.com/subjects/statistics/): Statistics at IGCSE and O Level, with study material organised by topic.
-- [Urdu Language](https://marlbridge.com/subjects/urdu-language/): Urdu Language at IGCSE, O Level and A Level, across Cambridge and Pearson Edexcel.
-- [World History](https://marlbridge.com/subjects/world-history/): World History at GCSE · IGCSE · O · A Level, with study material organised by topic.
+- [Accounting](https://marlbridge.com/subjects/accounting/): Levels: IGCSE · A Level. Taught by Marlbridge (online, and in person in Lahore); free study resources.
+- [Biology](https://marlbridge.com/subjects/biology/): Levels: IGCSE · O · GCSE · A Level · IB Diploma Programme. Taught by Marlbridge (online, and in person in Lahore); free study resources.
+- [Business](https://marlbridge.com/subjects/business/): Levels: IGCSE · O · GCSE · AS · A Level · IB Diploma Programme. Taught by Marlbridge (online, and in person in Lahore); free study resources.
+- [Chemistry](https://marlbridge.com/subjects/chemistry/): Levels: IGCSE · O · GCSE · A Level · IB Diploma Programme. Taught by Marlbridge (online, and in person in Lahore); free study resources.
+- [Commerce](https://marlbridge.com/subjects/commerce/): Levels: IGCSE · O Level. Taught by Marlbridge (online, and in person in Lahore); free study resources.
+- [Computer Science](https://marlbridge.com/subjects/computer-science/): Levels: IGCSE · O · A Level · IB Diploma Programme. Taught by Marlbridge (online, and in person in Lahore); free study resources.
+- [Economics](https://marlbridge.com/subjects/economics/): Levels: IGCSE · O · GCSE · A Level · IB Diploma Programme. Taught by Marlbridge (online, and in person in Lahore); free study resources.
+- [English Literature](https://marlbridge.com/subjects/english-literature/): Levels: IGCSE · GCSE · A Level. Taught by Marlbridge (online, and in person in Lahore); free study resources.
+- [English](https://marlbridge.com/subjects/english/): Levels: IGCSE · O · GCSE · A Level. Taught by Marlbridge (online, and in person in Lahore); free study resources.
+- [Environmental Management](https://marlbridge.com/subjects/environmental-management/): Levels: IGCSE · O Level. Taught by Marlbridge (online, and in person in Lahore); free study resources.
+- [Environmental Systems and Societies](https://marlbridge.com/subjects/environmental-systems-and-societies/): Levels: IB Diploma Programme. Free study resources only; Marlbridge does not currently offer classes in this subject.
+- [Geography](https://marlbridge.com/subjects/geography/): Levels: IGCSE · O · A Level · IB Diploma Programme. Free study resources only; Marlbridge does not currently offer classes in this subject.
+- [Global Perspectives](https://marlbridge.com/subjects/global-perspectives/): Levels: IGCSE · A Level. Free study resources only; Marlbridge does not currently offer classes in this subject.
+- [Global Politics](https://marlbridge.com/subjects/global-politics/): Levels: IB Diploma Programme. Free study resources only; Marlbridge does not currently offer classes in this subject.
+- [ICT](https://marlbridge.com/subjects/ict/): Levels: IGCSE · A Level. Taught by Marlbridge (online, and in person in Lahore); free study resources.
+- [Islamiyat](https://marlbridge.com/subjects/islamiyat/): Levels: IGCSE · O Level. Taught by Marlbridge (online, and in person in Lahore); free study resources.
+- [Language A: Language and Literature](https://marlbridge.com/subjects/language-a-language-and-literature/): Levels: IB Diploma Programme. Taught by Marlbridge (online, and in person in Lahore); free study resources.
+- [Language A: Literature](https://marlbridge.com/subjects/language-a-literature/): Levels: IB Diploma Programme. Taught by Marlbridge (online, and in person in Lahore); free study resources.
+- [Language B](https://marlbridge.com/subjects/language-b/): Levels: IB Diploma Programme. Taught by Marlbridge (online, and in person in Lahore); free study resources.
+- [Languages](https://marlbridge.com/subjects/languages/): an index of language subjects; each language page states its own levels and whether it is taught.
+- [Law](https://marlbridge.com/subjects/law/): Levels: A Level. Taught by Marlbridge (online, and in person in Lahore); free study resources.
+- [Mathematics: Analysis and Approaches](https://marlbridge.com/subjects/mathematics-analysis-and-approaches/): Levels: IB Diploma Programme. Taught by Marlbridge (online, and in person in Lahore); free study resources.
+- [Mathematics: Applications and Interpretation](https://marlbridge.com/subjects/mathematics-applications-and-interpretation/): Levels: IB Diploma Programme. Taught by Marlbridge (online, and in person in Lahore); free study resources.
+- [Mathematics](https://marlbridge.com/subjects/mathematics/): Levels: IGCSE · O · GCSE · A Level · IB Middle Years Programme. Taught by Marlbridge (online, and in person in Lahore); free study resources.
+- [Design (MYP)](https://marlbridge.com/subjects/myp-design/): Levels: IB Middle Years Programme. Free study resources only; Marlbridge does not currently offer classes in this subject.
+- [Individuals and Societies (MYP)](https://marlbridge.com/subjects/myp-individuals-and-societies/): Levels: IB Middle Years Programme. Free study resources only; Marlbridge does not currently offer classes in this subject.
+- [Language Acquisition (MYP)](https://marlbridge.com/subjects/myp-language-acquisition/): Levels: IB Middle Years Programme. Taught by Marlbridge (online, and in person in Lahore); free study resources.
+- [Sciences (MYP)](https://marlbridge.com/subjects/myp-sciences/): Levels: IB Middle Years Programme. Taught by Marlbridge (online, and in person in Lahore); free study resources.
+- [Pakistan Studies](https://marlbridge.com/subjects/pakistan-studies/): Levels: IGCSE · O Level. Taught by Marlbridge (online, and in person in Lahore); free study resources.
+- [Physics](https://marlbridge.com/subjects/physics/): Levels: IGCSE · O · GCSE · A Level · IB Diploma Programme. Taught by Marlbridge (online, and in person in Lahore); free study resources.
+- [Psychology](https://marlbridge.com/subjects/psychology/): Levels: IGCSE · GCSE · A Level · IB Diploma Programme. Free study resources only; Marlbridge does not currently offer classes in this subject.
+- [Sociology](https://marlbridge.com/subjects/sociology/): Levels: GCSE · IGCSE · O · A Level. Free study resources only; Marlbridge does not currently offer classes in this subject.
+- [Statistics](https://marlbridge.com/subjects/statistics/): Levels: IGCSE · O Level. Taught by Marlbridge (online, and in person in Lahore); free study resources.
+- [Urdu Language](https://marlbridge.com/subjects/urdu-language/): Levels: IGCSE · O · A Level. Taught by Marlbridge (online, and in person in Lahore); free study resources.
+- [World History](https://marlbridge.com/subjects/world-history/): Levels: IGCSE · O · GCSE · A Level · IB Diploma Programme. Taught by Marlbridge (online, and in person in Lahore); free study resources.
 
 ## More
 
@@ -68,7 +68,7 @@
 - [Practice and 10-minute diagnostics](https://marlbridge.com/practice/): self-marked study checks and self-check questions with worked answers for Cambridge IGCSE Chemistry, Physics, Mathematics and A Level Chemistry, Physics.
 - [Printable syllabus checklists](https://marlbridge.com/checklists/)
 - [Free trial class](https://marlbridge.com/trial/): request a free trial class with a subject teacher (a request, not a booking).
-- [Programs](https://marlbridge.com/programs/): Marlbridge's teaching programs by qualification.
+- [Programs](https://marlbridge.com/programs/): Marlbridge's programs by qualification; each program page says whether it is taught now.
 - [Tutoring](https://marlbridge.com/tutoring/)
 - [For Schools](https://marlbridge.com/schools/)
 - [About Marlbridge](https://marlbridge.com/about/)

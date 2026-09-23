@@ -85,11 +85,26 @@ for (const file of subjectFiles) {
   const raw = await readFile(join(subjectsDir, file), 'utf8');
   const fm = raw.split('---')[1] ?? '';
   const titleMatch = fm.match(/^title:\s*"?([^"\n]+)"?\s*$/m);
-  const shortDescMatch = fm.match(/^shortDescription:\s*"([^"]*)"\s*$/m);
+  // D-296 -- levels come from the maintained `levelsLabel` field (the old
+  // free-text shortDescription listed the wrong levels for several
+  // subjects), and each line says whether classes are offered, so an
+  // answer engine cannot read a resources-only subject as a tuition offer.
+  const levelsMatch = fm.match(/^levelsLabel:\s*"([^"]*)"\s*$/m);
+  const teachesMatch = fm.match(/^marlbridgeTeaches:\s*"([^"]*)"\s*$/m);
+  const noindexMatch = fm.match(/^noindex:\s*true\s*$/m);
   const slug = file.replace(/\.md$/, '');
+  if (noindexMatch) continue;
   const title = titleMatch ? titleMatch[1] : slug;
-  const desc = shortDescMatch ? shortDescMatch[1] : '';
-  subjectLines.push(`- [${title}](${SITE_URL}/subjects/${slug}/)${desc ? `: ${desc}` : ''}`);
+  if (slug === 'languages') {
+    // An index page, not a subject: each language states its own status.
+    subjectLines.push(`- [${title}](${SITE_URL}/subjects/${slug}/): an index of language subjects; each language page states its own levels and whether it is taught.`);
+    continue;
+  }
+  const levels = levelsMatch ? `Levels: ${levelsMatch[1]}.` : '';
+  const status = teachesMatch && teachesMatch[1] === 'teaching'
+    ? 'Taught by Marlbridge (online, and in person in Lahore); free study resources.'
+    : 'Free study resources only; Marlbridge does not currently offer classes in this subject.';
+  subjectLines.push(`- [${title}](${SITE_URL}/subjects/${slug}/): ${[levels, status].filter(Boolean).join(' ')}`);
 }
 
 // v1.2 WS8 — the "Study resources" line must only name categories that
@@ -154,7 +169,7 @@ const lines = [
   `- [Practice and 10-minute diagnostics](${SITE_URL}/practice/): self-marked study checks and self-check questions with worked answers for Cambridge IGCSE Chemistry, Physics, Mathematics and A Level Chemistry, Physics.`,
   `- [Printable syllabus checklists](${SITE_URL}/checklists/)`,
   `- [Free trial class](${SITE_URL}/trial/): request a free trial class with a subject teacher (a request, not a booking).`,
-  `- [Programs](${SITE_URL}/programs/): Marlbridge's teaching programs by qualification.`,
+  `- [Programs](${SITE_URL}/programs/): Marlbridge's programs by qualification; each program page says whether it is taught now.`,
   `- [Tutoring](${SITE_URL}/tutoring/)`,
   `- [For Schools](${SITE_URL}/schools/)`,
   `- [About Marlbridge](${SITE_URL}/about/)`,
