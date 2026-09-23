@@ -69,9 +69,15 @@ const FIELDS_BY_KIND: Record<EnquiryKind, { required: string[]; optional: string
   // invents reaches the email as trusted data.
   //
   // `message` stays accepted and can stand in for the structured choice:
-  // a request needs EITHER qualification + subject OR a message. That keeps
-  // the translated /ar/ /ur/ /bn/ trial pages, which still use the
-  // five-field form, working unchanged.
+  // a request needs EITHER a subject OR a message. That keeps the
+  // translated /ar/ /ur/ /bn/ trial pages, which still use the five-field
+  // form, working unchanged.
+  //
+  // D-291 (2026-09-23, owner request after seeing the live form) -- the
+  // visible form was shortened: no qualification dropdown, no time zone,
+  // and the subject is typed by the student. `qualification` survives only
+  // as a hidden value filled from ?course / ?program, and `timezone` stays
+  // allow-listed so an older cached page still submits cleanly.
   trial: {
     required: ['name', 'email', 'country'],
     optional: ['phone', 'qualification', 'board', 'subject', 'course', 'format', 'timezone', 'availability', 'teacher', 'source', 'message'],
@@ -178,14 +184,13 @@ export function validateEnquiry(
       if (data[field] !== undefined && !ok(data[field])) {
         // An out-of-list value is a tampered or stale client: drop it rather
         // than reject the whole request, except where the visitor must fix it.
-        if (field === 'qualification' || field === 'format') errors[field] = 'Please choose one of the listed options.';
+        if (field === 'format') errors[field] = 'Please choose one of the listed options.';
+        else if (field === 'subject') errors[field] = 'Please keep the subject under 120 characters.';
         else delete data[field];
       }
     }
-    const structured = !!data.qualification && !!data.subject;
-    if (!structured && !data.message) {
-      if (!data.qualification) errors.qualification = 'Please choose a qualification, or tell us in a message.';
-      if (!data.subject) errors.subject = 'Please choose a subject, or tell us in a message.';
+    if (!data.subject && !data.message && !errors.subject) {
+      errors.subject = 'Please tell us which subject you need help with.';
     }
   }
 

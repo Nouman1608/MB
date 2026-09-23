@@ -161,13 +161,30 @@ test('validateEnquiry: trial still accepts the five-field form (translated pages
   assert.equal(result.ok, true);
 });
 
-test('validateEnquiry: trial needs either qualification + subject or a message', () => {
+// D-291 -- the shortened form: a typed subject alone is enough (no
+// qualification dropdown, no time zone).
+test('validateEnquiry: trial accepts the short form (typed subject, no qualification or time zone)', () => {
+  const result = validateEnquiry('trial', {
+    name: 'Zara Ali', email: 'zara@example.com', country: 'Pakistan',
+    subject: 'O Level Maths', board: 'not-sure', format: 'help-me-decide', source: 'trial-page',
+  });
+  assert.equal(result.ok, true);
+  if (result.ok) {
+    assert.equal(result.data.subject, 'O Level Maths');
+    assert.equal('qualification' in result.data, false);
+  }
+});
+
+test('validateEnquiry: trial needs either a subject or a message', () => {
   const result = validateEnquiry('trial', { name: 'Zara Ali', email: 'zara@example.com', country: 'Pakistan' });
   assert.equal(result.ok, false);
   if (!result.ok) {
-    assert.ok(result.errors.qualification);
     assert.ok(result.errors.subject);
+    assert.equal('qualification' in result.errors, false);
   }
+  const tooLong = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', country: 'PK', subject: 'x'.repeat(121) });
+  assert.equal(tooLong.ok, false);
+  if (!tooLong.ok) assert.ok(tooLong.errors.subject);
   const missing = validateEnquiry('trial', { name: 'Zara Ali', email: 'zara@example.com' });
   assert.equal(missing.ok, false);
   if (!missing.ok) assert.ok(missing.errors.country);
@@ -182,8 +199,12 @@ test('validateEnquiry: trial drops out-of-list values instead of trusting them',
   if (result.ok) {
     for (const f of ['board', 'availability', 'teacher', 'source', 'course']) assert.equal(f in result.data, false, f);
   }
+  // qualification is now a hidden value: a tampered one is dropped, not shown as an error
   const badQual = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', country: 'PK', qualification: 'phd', subject: 'x' });
-  assert.equal(badQual.ok, false);
+  assert.equal(badQual.ok, true);
+  if (badQual.ok) assert.equal('qualification' in badQual.data, false);
+  const badFormat = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', country: 'PK', subject: 'x', format: 'weekly' });
+  assert.equal(badFormat.ok, false);
 });
 
 test('renderEmailBody: trial shows readable choices and says it is a request, not a booking', () => {
