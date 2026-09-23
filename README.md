@@ -170,9 +170,10 @@ tested under `functions/api/__tests__/`). Submission requires a valid Turnstile 
 `labels` prop (defaulting to the original English strings) so translated pages can render
 localised field labels/errors without touching the ~500 existing English callers. The student,
 tutoring and translated trial forms carry exactly 5 fields (v1.x CLOSURE decision). The English
-/trial/ page uses `TrialRequestForm.astro` instead: qualification, board, subject, group/one-to-one,
-country, time zone, optional times and message, allow-listed preselection from `?course=`,
-`?program=`, `?teacher=`, `?format=`, `?source=` (owner decision 2026-09-23, D-287). Do not add
+/trial/ page uses `TrialRequestForm.astro` instead: a typed subject, board (default "Not sure"),
+group/one-to-one, name, email, optional phone, country, and folded optional times and message,
+with allow-listed preselection from `?course=`, `?program=`, `?teacher=`, `?format=`, `?source=`
+(owner decisions 2026-09-23, D-287; shortened in D-291: no qualification dropdown, no time zone). Do not add
 fields to either form without recording a new decision-log entry.
 
 `functions/api/subscribe.ts` (optional revision emails, double opt-in, hidden until configured —

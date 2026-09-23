@@ -27,7 +27,7 @@ export interface Step {
 export const TRIAL_STEPS: readonly Step[] = [
   {
     title: 'Send the request',
-    body: 'Five fields, and a message telling us the qualification, exam board, subject, level, and the days and times that suit you. If something is not decided yet, say so — we will help you work it out.',
+    body: 'A short form: the subject you need, how to reach you and your country. If the exam board or the times that suit you are not decided yet, say so — we will help you work it out.',
   },
   {
     title: 'We reply',

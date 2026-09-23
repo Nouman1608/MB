@@ -13377,3 +13377,15 @@ The rocks and energy study guides' sentence "use the 0680 Natural Resources guid
 | Content | `docs/content-review/2026-09-23-draft-resource-improvements.md` | Drafted key points and common mistakes for two resources, unpublished, for the named reviewers; flags a suspected wording error in the 0580 algebra guide ("grades A* and B" likely "A* to B"). |
 
 **Validation (2026-09-23, 15:30 PKT).** Recorded in the PR description with the final numbers of the full chain: `astro check`, `validate:academic` (including the new diagnostics validator), `npm run build`, `audit:all`, negative suite, `node --test` suites, and headless Chromium journeys at 1280 px and 390 px (homepage finder; diagnostic end to end including notebook hand-off; planner including restore after reload and print; trial preselection, validation, success and error states with a mocked server; tuition sections; resource next steps; draft workshop and enabled newsletter form in a preview build). Not run against live Resend, Turnstile or KV: those are exercised with mocks in the unit tests.
+
+## D-291 - Shorter free trial form (2026-09-23)
+
+Owner request on 2026-09-23 after seeing the live /trial/ form: "the form is too long ... remove Qualification, remove the drop down menu on the subject, subjects should be typed by the students, remove time zone".
+
+| Item | Files | What changed |
+|---|---|---|
+| Form | `src/components/forms/TrialRequestForm.astro` | Qualification dropdown and time zone field removed. Subject is a required free-text field ("e.g. IGCSE Chemistry"). Board defaults to "Not sure"; group/one-to-one defaults to "Help me decide". Preferred times and message stay folded and optional. Preselection from `?course=` fills the subject text and board; the qualification is kept only as a hidden value from `?course=` / `?program=`. `generate_lead` no longer sends a qualification parameter. |
+| Server | `functions/_lib/enquiry-validation.ts` | A trial needs a subject OR a message (was qualification + subject OR a message). A tampered hidden qualification is dropped instead of shown as an error; a subject over 120 characters is an error. `qualification` and `timezone` stay allow-listed so older cached pages still submit. Translated five-field trial forms unchanged. |
+| Copy | `src/data/tuition.ts` (`TRIAL_STEPS`) | "Send the request" step no longer says "five fields ... qualification, level"; it describes the short form (it was already stale after D-286). |
+| Tests / docs | `functions/api/__tests__/enquiry-validation.test.mjs`, `src/pages/legal/privacy.astro`, `README.md` | Short-form and subject-or-message tests; privacy field list no longer mentions qualification or time zone. |
+
