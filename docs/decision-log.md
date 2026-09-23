@@ -13616,3 +13616,19 @@ All of these are served by the hub and the enquiry form. Jordan stays a Tier 1 *
 **Evidence.** The query "jawad tariq physics" had 13 impressions at position 7.7 and 0 clicks, and the page title was just "Jawad Tariq — Marlbridge". "sir asif iqbal" (11 impressions) is the same pattern.
 
 **Change.** Person author pages are now titled "Name, Role — Marlbridge", for example "Jawad Tariq, Physics Teacher — Marlbridge". The role is the existing, owner-supplied `role` field, so no new claim is made. The team byline (organization entity) keeps its plain name. `src/pages/authors/[slug].astro`. `audit:metadata` 0 duplicates.
+
+## D-308 - FX validator: confirmed group fees only for owner-set regions (2026-09-23)
+
+**Evidence (negative suite, 23 Sep 2026).** Four mutation tests were run against the gates:
+
+| Mutation | Gate | Result before this change |
+|---|---|---|
+| Resource marked `reviewStatus: "reviewed"` with no reviewer | `validate-review-integrity` | caught |
+| Unknown secret added to the Worker Env | `validate-worker-bindings` | caught |
+| Admin API authorisation bypassed | `test:api` | caught ("GET returns 401 with no key") |
+| UAE one-to-one conversion left without `status: 'indicative'` | `validate-fx-policy` [2d] | caught |
+| **Malaysia group row switched to `confirmed`** | `validate-fx-policy` | **not caught** |
+
+**Change.** New check [2e]: a `REGION_PRICING` row may be confirmed only when its region is in `OWNER_SET_GROUP_REGIONS`. The regions are Pakistan, Saudi Arabia, UAE, Qatar, Kuwait, Bahrain, Oman, the UK and Europe, which are the rates the owner set in D-012, D-043 and D-149. Any other region must be indicative. This makes the validator stricter; nothing is weakened. `scripts/validate-fx-policy.mjs`.
+
+**Validation.** The clean tree passes. The same Malaysia mutation now fails with a named error. `astro check` 0 errors.
