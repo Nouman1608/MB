@@ -13602,3 +13602,17 @@ All of these are served by the hub and the enquiry form. Jordan stays a Tier 1 *
 **Change.** `CTA.astro` gains an optional secondary text link (`linkLabel`, `linkHref`). On the 135 hubs whose combination is taught (`classesOffered`), the CTA adds "Studying outside Pakistan? Class times and fees for your country" → `/international-tutoring/`. On the five hubs with a tuition section (D-288), the main button stays "Request a free trial class"; the new link sits under it. Resources-only hubs are unchanged: they still say classes are not offered and point to free resources, so no tuition is implied. Resource pages are not changed; the sitewide footer already links the hub from every page.
 
 **Validation.** Build clean; the link appears on exactly 135 hub pages; `audit:all` 0 problems (no generic anchor text); axe clean on a taught hub and a resources-only hub.
+
+## D-306 - Every study resource links to its syllabus page (2026-09-23)
+
+**Evidence.** Before this change, 103 of 1,653 built resource pages linked to their board syllabus hub, and every one of those links came from hand-written body text. Search Console shows the hubs are what searchers land on (for example, "igcse islamiyat syllabus 2027" and "2026" landed on the Islamiyat Paper 1 resource at around position 8, with 0 clicks, when the 0493 hub is the page that answers the query).
+
+**Change.** The resource provenance box (under "Aligned to … Official specification") adds "Syllabus page (what it covers and how it is assessed): <Board Qualification Subject>". The hub or hubs are matched on the resource's own declared `boards`, `qualifications` and subject (`matrixSlugsFor`) against published combinations (`activeOnly()`), with at most 4 links. Nothing is inferred beyond the resource's own metadata. `src/pages/resources/[slug].astro`.
+
+**Result.** 1,653 of 1,653 resource pages now link to a hub (1,598 to one hub; 55 combined IGCSE + O Level resources to two). `audit:all` 0 problems (no broken links, no generic anchors); `validate:academic` pass; `astro check` 0 errors; axe clean on a sample resource.
+
+## D-307 - Teacher profile titles include the subject taught (2026-09-23)
+
+**Evidence.** The query "jawad tariq physics" had 13 impressions at position 7.7 and 0 clicks, and the page title was just "Jawad Tariq — Marlbridge". "sir asif iqbal" (11 impressions) is the same pattern.
+
+**Change.** Person author pages are now titled "Name, Role — Marlbridge", for example "Jawad Tariq, Physics Teacher — Marlbridge". The role is the existing, owner-supplied `role` field, so no new claim is made. The team byline (organization entity) keeps its plain name. `src/pages/authors/[slug].astro`. `audit:metadata` 0 duplicates.
