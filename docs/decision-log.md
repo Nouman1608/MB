@@ -13594,3 +13594,11 @@ All of these are served by the hub and the enquiry form. Jordan stays a Tier 1 *
 **Change.** Every `overflow-x-auto` table wrapper gets `tabindex="0"`. On English pages it also gets `role="group"` and an accessible name ("Table, scrolls sideways on small screens"). The Arabic, Urdu and Bengali pages get `tabindex` only, so no untranslated English name is exposed. Files: `MarketPage.astro`, the hub, `/uk/`, `/gulf/`, `/pricing/` (in the D-302/D-303 commit), and `src/pages/[locale]/pricing/index.astro`, `src/pages/{ar,ur,bn}/index.astro`, `src/pages/boards/[board]/[qualification]/[subject].astro`, `src/pages/admin/search-demand.astro`.
 
 **Validation.** axe clean on `/pricing/`, `/ar/pricing/`, `/boards/cambridge/igcse/physics/`, `/tutoring/` and the seven international pages. `audit:all` 0 problems.
+
+## D-305 - Taught syllabus hubs link to the international tutoring hub (2026-09-23)
+
+**Evidence.** Search Console, last 3 months: in all five pilot countries the board hubs were the pages searchers landed on. None of those pages linked to anything that explains teaching from abroad (times, fees by country). The only route was the generic "Find Learning Support" → `/tutoring/`.
+
+**Change.** `CTA.astro` gains an optional secondary text link (`linkLabel`, `linkHref`). On the 135 hubs whose combination is taught (`classesOffered`), the CTA adds "Studying outside Pakistan? Class times and fees for your country" → `/international-tutoring/`. On the five hubs with a tuition section (D-288), the main button stays "Request a free trial class"; the new link sits under it. Resources-only hubs are unchanged: they still say classes are not offered and point to free resources, so no tuition is implied. Resource pages are not changed; the sitewide footer already links the hub from every page.
+
+**Validation.** Build clean; the link appears on exactly 135 hub pages; `audit:all` 0 problems (no generic anchor text); axe clean on a taught hub and a resources-only hub.
