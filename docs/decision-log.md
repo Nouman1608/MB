@@ -13499,3 +13499,18 @@ The same commit carries the correction/trial link-format change in `src/pages/re
 **Deliberately not changed (recorded for the owner).** The 32 type-prefixed and 7 type-index redirect rules that were public for about two hours on 2026-08-17 are harmless and kept. The ~1,583 Cloudflare Bulk Redirect rules for `/resources/<type>/<slug>/` (dashboard-managed, outside this repository) appear, by the same git history, to cover URLs that were never public; removing them is optional owner housekeeping. Many resources were corrected during audit rounds without `updatedDate` being bumped, so their `lastmod` is older than their content; the rule going forward is recorded in the final report rather than rewritten across 1,653 files here.
 
 **Validation.** Build clean; `audit:all` 0 problems (redirect audit: 259 rules, 0 problems).
+
+## D-299 - Board hubs: "Syllabus"/"Specification" titles, direct-answer lead, official document and checklist links (2026-09-23)
+
+**Evidence.** Search Console (Performance, last 3 months, exported 23 Sep 2026): syllabus-code searches such as "0457 syllabus 2027", "3248 syllabus 2027", "0493 syllabus 2026", "igcse islamiyat syllabus 2027", "a level law syllabus 2027", "oxford aqa igcse chemistry specification" and "edexcel igcse biology specification" land on the board hubs, usually at positions 6–12, with very few clicks. At `17e97b7`, 0 of 160 hub titles, H1s or descriptions said "syllabus" or "specification", 2 carried edition years, and 0 hubs linked to their own printable checklist (each checklist had 4 inbound links, all from index pages).
+
+| Change | Detail |
+|---|---|
+| Titles | `<Board> <Qualification> <Subject> <code> Syllabus` (Cambridge, IB DP), `… Specification` (Pearson Edexcel, AQA, OCR, OxfordAQA) or `… Subject Guide` (IB MYP). An upcoming replacement code is added after the current one where the assessment data has a `future` record. Edition years are added only when the linked official document's own file name carries them (e.g. `662464-2025-2027-syllabus.pdf` → "2025–2027"); 0 are guessed. IB titles no longer repeat the programme name in brackets. |
+| Descriptions | Name the document type, the years where known, what the page covers (content, assessment, official link) and the resources published. |
+| Lead (answer below the H1) | "<official title> — the <board> syllabus/specification for exams in <years>. What it covers, how it is assessed, a link to the official document, and the free study material Marlbridge publishes for it." |
+| At-a-glance box | Two new rows: "Official syllabus/specification" (direct link to the board's document or page) and "Topic checklist" (link to `/checklists/<board>/<qual>/<subject>/` whenever a current checklist exists). All 160 hubs now link to their checklist where one is built. |
+
+**Not changed.** Syllabus data, verification dates, assessment tables and FAQs (already answer-first with sources and dates, v1.2 WS10). No hub was merged, redirected or noindexed.
+
+**Validation.** Build clean; `audit:all` 0 problems (metadata: 0 duplicate titles/descriptions; `validate-rendered-academic-labels` passes: every title still contains the board or qualification and the canonical subject name).

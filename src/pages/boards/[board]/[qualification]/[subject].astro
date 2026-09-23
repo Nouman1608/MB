@@ -60,6 +60,11 @@ export async function getStaticPaths() {
 const { combination: c } = Astro.props as { combination: Combination };
 const path = academicHubPath(c);
 const syllabus = syllabusFor(c.boardSlug, c.qualificationSlug, c.subjectSlug);
+/** D-298 -- every hub links to its own printable checklist (0 of 160 did). */
+const checklistVersion = topicsFor(c.boardSlug, c.qualificationSlug, c.subjectSlug);
+const checklistHref = checklistVersion && checklistVersion.status === 'current'
+  ? `/checklists/${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}/`
+  : null;
 /**
  * v2.0 AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS6 -- the self-
  * check practice engine (see utils/practice/bank.ts) only has real
@@ -266,12 +271,29 @@ const siblings = offeringsForSubject(c.subjectSlug).filter((o) => o.qualificatio
  */
 const boardQualPhrase = c.qualification.startsWith('IB ') ? c.qualification : `${c.board} ${c.qualification}`;
 const heading = `${boardQualPhrase} ${c.subject}`;
-// D-286: the five hubs that carry a tuition section say so in the title,
-// and keep "syllabus" -- the word these hubs are searched for (Search
-// Console baseline, 2026-09-22). Every other hub keeps its title.
+/**
+ * D-299 -- titles name the document searchers ask for. Search Console
+ * (2026-08-19 to 2026-09-21) shows hubs ranking around positions 6-11 for
+ * "<code> syllabus 2027"-style queries with almost no clicks, and 0 of 160
+ * titles said "syllabus" or "specification". Cambridge and IB call the
+ * document a syllabus; Pearson, AQA, OCR and OxfordAQA call it a
+ * specification. Edition years are shown only when the linked official
+ * document itself carries them in its file name (e.g. 662464-2025-2027-
+ * syllabus.pdf) -- never guessed. An upcoming replacement code is shown
+ * next to the current one (e.g. AQA 7132 / 7138) so both searches match.
+ */
+const docWord = c.qualificationSlug === 'ib-myp'
+  ? 'Subject Guide'
+  : c.boardSlug === 'cambridge' || c.boardSlug === 'ib' ? 'Syllabus' : 'Specification';
+const editionMatch = syllabus?.officialUrl.match(/(20\d{2})-(20\d{2})-syllabus/);
+const editionYears = editionMatch ? `${editionMatch[1]}–${editionMatch[2]}` : null;
+const upcomingCode = assessments.find((a) => a.specStatus === 'future' && a.code !== syllabus?.code)?.code;
+const hasRealCode = Boolean(syllabus && /\d/.test(syllabus.code) && c.boardSlug !== 'ib');
+const codeLabel = hasRealCode ? `${syllabus!.code}${upcomingCode ? ` / ${upcomingCode}` : ''}` : '';
+// D-286 (main): the five hubs with a tuition section say so in the title.
 const tuitionPage = offersClasses(c) ? tuitionPageFor(c.boardSlug, c.qualificationSlug, c.subjectSlug) : undefined;
 const title = syllabus
-  ? tuitionPage ? `${heading} (${syllabus.code}) Syllabus & Online Tuition` : `${heading} (${syllabus.code})`
+  ? `${heading}${codeLabel ? ` ${codeLabel}` : ''} ${docWord}${editionYears ? ` ${editionYears}` : ''}${tuitionPage ? ' & Online Tuition' : ''}`
   : heading;
 
 /**
@@ -304,8 +326,10 @@ const resourceSummary = presentResourceTypes.length > 0
   ? `${resources.length} original resource${resources.length === 1 ? '' : 's'} (${presentResourceTypes.join(', ')})`
   : 'no original Marlbridge resource yet';
 const pageDescription = (tuitionPage
-  ? `${heading}${syllabus ? ` (${syllabus.code})` : ''}: syllabus topics, online tuition with named teachers and published fees, a free trial class, and ${resources.length} free resources.`
-  : `${heading}${syllabus ? ` (${syllabus.code})` : ''}: what the qualification covers, and ${resourceSummary} Marlbridge has published for it.`).replace(/\s+/g, ' ');
+  ? `${heading}${codeLabel ? ` (${codeLabel})` : ''} ${docWord.toLowerCase()}${editionYears ? ` ${editionYears}` : ''}: syllabus topics, online tuition with named teachers and published fees, a free trial class, and ${resources.length} free resources.`
+  : syllabus
+    ? `${heading}${codeLabel ? ` (${codeLabel})` : ''} ${docWord.toLowerCase()}${editionYears ? ` ${editionYears}` : ''}: what it covers, how it is assessed, the official ${c.board} link, and ${resourceSummary} Marlbridge has published for it.`
+    : `${heading}: what the qualification covers, and ${resourceSummary} Marlbridge has published for it.`).replace(/\s+/g, ' ');
 
 /**
  * Indexability (Aug 2026 SEO remediation — Phase 1/2).
@@ -518,7 +542,9 @@ const jsonLd = [
   path={path}
   eyebrow={`${c.board} · ${c.qualification}`}
   heading={heading}
-  lead={`${c.subject} for ${boardQualPhrase}${syllabus ? ` (syllabus ${syllabus.code})` : ''} — what the qualification covers, and the study material Marlbridge publishes for it.`}
+  lead={syllabus
+    ? `${syllabus.officialTitle}${editionYears ? ` — the ${c.board} ${docWord.toLowerCase()} for exams in ${editionYears}` : ''}. What it covers, how it is assessed, a link to the official ${docWord.toLowerCase()}, and the free study material Marlbridge publishes for it.`
+    : `${c.subject} for ${boardQualPhrase} — what the qualification covers, and the study material Marlbridge publishes for it.`}
   breadcrumbs={[
     { label: 'Home', href: routes.home },
     { label: 'Subjects', href: routes.subjects },
@@ -553,6 +579,12 @@ const jsonLd = [
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Does Marlbridge teach it?</dt><dd class="m-0 mt-1 text-ink">{classesOffered ? (tuitionPage ? <>Yes — <a href="#tuition" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">teachers, fees and a free trial</a></> : 'Yes') : 'Not at the moment — free study resources only'}</dd></div>
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Are resources available?</dt><dd class="m-0 mt-1 text-ink">{resources.length > 0 ? `Yes — ${resources.length} published` : 'Not yet — none published for this exact combination'}</dd></div>
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Is enrolment open?</dt><dd class="m-0 mt-1 text-ink">{!classesOffered ? 'No — classes are not currently offered in this subject' : enrolmentOpenFor('teaching') === 'enquire' ? 'Enquire to join — no online enrolment yet' : 'Not applicable'}</dd></div>
+        {syllabus && (
+          <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Official {docWord.toLowerCase()}</dt><dd class="m-0 mt-1 text-ink"><a href={syllabus.officialUrl} rel="nofollow noopener" data-cta="hub-official-syllabus" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{c.board} {docWord.toLowerCase()}{editionYears ? ` for ${editionYears}` : ''}</a></dd></div>
+        )}
+        {checklistHref && (
+          <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Topic checklist</dt><dd class="m-0 mt-1 text-ink"><a href={checklistHref} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">Printable {syllabus?.code ?? ''} checklist</a></dd></div>
+        )}
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Where was this verified?</dt><dd class="m-0 mt-1 text-ink">{syllabus ? <>{syllabus.verifiedOn}, official {c.board} specification</> : 'Not yet verified against an official source'}</dd></div>
         {practiceCount > 0 && (
           <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Free practice questions?</dt><dd class="m-0 mt-1 text-ink">Yes — <a href={`/practice/${syllabus!.code}/`} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{practiceCount} self-check questions</a></dd></div>
