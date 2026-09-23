@@ -1,6 +1,6 @@
 # International growth: 30/60/90-day measurement plan
 
-Written 2026-09-23 (PKT) for branch `growth-programme`, rebased onto `main` at `df8b6b36`. Decisions are D-295 to D-308. Day 0 is the day this work is deployed to production.
+Written 2026-09-23 (PKT) for branch `growth-programme`, rebased onto `main` at `e35efaf5`. Decisions are D-295 to D-308. Day 0 is the day this work is deployed to production.
 
 ## Baseline (captured 2026-09-23, before deployment)
 

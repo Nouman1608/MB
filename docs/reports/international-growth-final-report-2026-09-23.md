@@ -1,12 +1,12 @@
 # Marlbridge International Growth programme: final report
 
-Written 2026-09-23, about 16:15 PKT; updated about 22:45 PKT after rebasing. Branch `growth-programme`, rebased onto `main` at `df8b6b36` (PR #55). **Not deployed yet (see section 25).** Decisions are D-295 to D-308; `main` already uses D-286 to D-293.
+Written 2026-09-23, about 16:15 PKT; updated about 22:45 PKT after rebasing. Branch `growth-programme`, rebased onto `main` at `e35efaf5` (PR #56). **Not deployed yet (see section 25).** Decisions are D-295 to D-308; `main` already uses D-286 to D-294.
 
 ## 1. Summary
 
 Security, trust copy, pricing honesty, crawl hygiene, hub metadata, search, internal linking and a full international layer are built and pass every gate. The international layer is one hub plus UAE, Qatar and Malaysia pages, with Pakistan, UK and Gulf brought into line.
 
-**Rebased.** While this work was in progress, another session merged PRs #52 to #55 to `main` (free revision tools, a structured trial form, and tuition sections, recorded as D-286 to D-293). This branch has been rebased onto that `main`. `main`'s trial form is kept, and this branch's own trial form is withdrawn (D-300). Section 25 lists what was merged by hand.
+**Rebased.** While this work was in progress, another session merged PRs #52 to #56 to `main` (free revision tools, a structured trial form, tuition sections and a 0580 wording fix, recorded as D-286 to D-294). This branch has been rebased onto that `main`. `main`'s trial form is kept, and this branch's own trial form is withdrawn (D-300). Section 25 lists what was merged by hand.
 
 ## 2. Baseline (before)
 
@@ -186,7 +186,7 @@ Items 10 to 20 were added to `docs/business-decisions-register.md`:
 | `npm audit` | 0 vulnerabilities |
 | Negative suite | 5 of 5 mutations caught |
 
-**Merged by hand against `main` (PRs #52 to #55):**
+**Merged by hand against `main` (PRs #52 to #56):**
 
 - **Enquiry validation.** `main`'s trial fields and rules are kept. This branch adds the hardening listed in section 19.
 - **Worker secrets.** `ADMIN_API_KEY` joins `main`'s "not yet set, fails closed" list, so the validator reminds you on every run until it is set.
@@ -214,4 +214,4 @@ See `docs/growth/international-measurement-plan-2026-09-23.md` on the branch:
 - **Day 60:** compare against the baseline by country, and fix titles only where the numbers say so.
 - **Day 90:** decide on further country pages, using the evidence rule in register item 20.
 
-*Numbering note.* This report uses the numbers as merged (D-295 to D-308). Earlier versions of this report used D-286 to D-300 for the same items.
+*Numbering note.* This report uses the numbers as merged (D-295 to D-308). Earlier versions of this report used D-286 to D-299 for the same items.
