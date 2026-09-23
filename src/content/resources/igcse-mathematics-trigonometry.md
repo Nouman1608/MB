@@ -22,7 +22,7 @@ This guide covers **Topic 6 Trigonometry**, for Cambridge IGCSE
 Mathematics 0580, 2025–2027 series. The Core subtopics (C6.1–C6.2)
 are examined at all entry levels; the Extended-only subtopics
 (E6.2 additions, plus E6.3, E6.4, E6.5 and E6.6, none of which have
-a Core equivalent) are required only for the Extended tier. Extended candidates are eligible for grades A* to E and Core candidates for grades C to G, so grades A* and B need the Extended tier (the syllabus advises Extended for anyone aiming at grades A* to C).
+a Core equivalent) are required only for the Extended tier. Extended candidates are eligible for grades A* to E and Core candidates for grades C to G, so grades A* to B need the Extended tier (the syllabus advises Extended for anyone aiming at grades A* to C).
 
 ## Where this fits in 0580
 

@@ -22,7 +22,7 @@ This guide covers **Topic 7 Transformations and Vectors**, for
 Cambridge IGCSE Mathematics 0580, 2025–2027 series. The Core
 subtopic (C7.1) is examined at all entry levels; the Extended-only
 subtopics (E7.1 additions, plus E7.2, E7.3 and E7.4, none of which
-have a Core equivalent) are required only for the Extended tier. Extended candidates are eligible for grades A* to E and Core candidates for grades C to G, so grades A* and B need the Extended tier (the syllabus advises Extended for anyone aiming at grades A* to C).
+have a Core equivalent) are required only for the Extended tier. Extended candidates are eligible for grades A* to E and Core candidates for grades C to G, so grades A* to B need the Extended tier (the syllabus advises Extended for anyone aiming at grades A* to C).
 
 ## Where this fits in 0580
 

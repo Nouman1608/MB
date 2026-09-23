@@ -22,7 +22,7 @@ This guide covers **Topic 9 Statistics**, the final topic for
 Cambridge IGCSE Mathematics 0580, 2025–2027 series. The Core
 subtopics (C9.1–C9.5) are examined at all entry levels; the
 Extended-only subtopics (E9.3 additions, plus E9.6 and E9.7, which
-have no Core equivalent) are required only for the Extended tier. Extended candidates are eligible for grades A* to E and Core candidates for grades C to G, so grades A* and B need the Extended tier (the syllabus advises Extended for anyone aiming at grades A* to C).
+have no Core equivalent) are required only for the Extended tier. Extended candidates are eligible for grades A* to E and Core candidates for grades C to G, so grades A* to B need the Extended tier (the syllabus advises Extended for anyone aiming at grades A* to C).
 
 ## Where this fits in 0580
 

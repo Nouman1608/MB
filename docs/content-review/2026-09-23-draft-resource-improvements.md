@@ -21,7 +21,12 @@ the planner — and has a slot for a teaching video once one exists.
 
 Reviewer: Mathematics reviewer (Muhammad Ghazali Siddiqui).
 
-### Suspected error to check (not changed)
+### Suspected error: corrected (D-294)
+
+**Resolved 2026-09-23:** the owner approved the correction. The same sentence was
+in seven 0580 topic guides; all seven now read "grades A* to B".
+
+Original note:
 
 The opening paragraph says: "Extended candidates are eligible for grades A* to
 E and Core candidates for grades C to G, so grades A* and B need the Extended
