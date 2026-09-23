@@ -30,7 +30,8 @@ const graph = [
 ---
 <title>{fullTitle}</title>
 <meta name="description" content={snippet} />
-<link rel="canonical" href={canonical} />
+{/* D-298 -- the 404 page has no canonical URL of its own. */}
+{path !== "/404/" && <link rel="canonical" href={canonical} />}
 {noindex && <meta name="robots" content="noindex, follow" />}
 {/* v1.x CLOSURE WS2 -- any English page with a real ar/ur/bn translated
     counterpart declares translationKey (see src/i18n/routes.ts), which

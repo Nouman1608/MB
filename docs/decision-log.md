@@ -13481,3 +13481,21 @@ The same commit carries the correction/trial link-format change in `src/pages/re
 **Not changed.** No USD bands and no new confirmed fee for any country. No confirmed IB fee outside Pakistan. Lesson length (group: 45–50 min, 3 a week; one-to-one: 1 hour), group size (15 max), discounts, billing and cancellation stay as owner-confirmed in D-043/D-149.
 
 **Validation.** `validate:fx-policy` passes (Malaysia 0.0% drift); `validate-pricing-consistency` passes (no hard-coded fees); build clean; `audit:all` 0 problems.
+
+## D-298 - Indexing efficiency: no crawlable parameter URLs, three legacy 404s redirected, broken links fixed (2026-09-23)
+
+**Evidence.** Search Console → Pages, exported 23 Sep 2026 (Chrome, owner's account) to Google Sheets: 1.51K indexed, 1.77K not indexed. Of the 878 "Alternate page with proper canonical tag": 718 are `www.` URLs crawled in August before the www→apex 301 (they will turn into "Page with redirect" and drop out on their own), 159 are `/report-a-correction/?page=<resource URL>` and 1 is `/trial/?program=academic-support`. Every resource page linked to its own `?page=` variant (1,653 crawlable duplicate URLs); every programme, practice and resource CTA linked to a `?program=` variant. "Page with redirect" (205) is http/www normalisation plus 12 genuinely retired slugs, working as intended. "Not found (404)" (4) is three external legacy URLs plus a Zaraz script URL; "Blocked due to other 4xx" (1) and part of "Crawled – currently not indexed" (7) are Zaraz script URLs (`/cdn-cgi/zaraz/…`), not pages. "Discovered – currently not indexed" (667) are all real current pages: 642 resources and 25 checklists.
+
+| Change | Files |
+|---|---|
+| Correction links pass their context in the URL fragment (`/report-a-correction/#page=…`), so the 1,653 resource pages no longer link to crawlable duplicates. The form still reads `?page=`, so old links keep working. **Trial links are unchanged:** `main`'s structured trial form (D-286 to D-293) reads `?program=`, `?course=` and `?source=` by owner decision, and those URLs self-canonicalise to `/trial/`. | `src/pages/resources/[slug].astro` (in D-296's commit), `src/components/forms/CorrectionForm.astro` |
+| The correction form also posts its `enquiryKind` in a hidden field (works without JavaScript; see D-295). | `src/components/forms/CorrectionForm.astro` |
+| The three external 404 URLs Google requested are redirected (301, with and without trailing slash) to the resources covering the same Cambridge topics: 9701 20.1 addition polymerisation → `/resources/as-addition-polymerisation/`; 9702 oscillations → `/resources/a-physics-oscillations/`; 9702 topic 7 waves → `/resources/as-physics-waves/`. No speculative variants were added. | `scripts/generate-redirects.mjs`, `public/_redirects` |
+| Two chemistry resources rendered `[Cu(OH)₂(H₂O)₄](s)` as a link to `/resources/s`; the bracket is escaped. | two files in `src/content/resources/` |
+| `/404.html` no longer declares a canonical URL (`/404/` does not exist). | `src/components/seo/Meta.astro` |
+
+**Verified existing strengths (no change).** All 2,144 sitemap URLs self-canonicalise, are built and indexable, and none is a redirect source; 1,657 sitemap entries (resources and articles) already carry `lastmod` from `updatedDate`/`publishedDate`; hreflang is reciprocal on all 79 translated pages; no redirect chains, loops or dead targets; 0 orphans.
+
+**Deliberately not changed (recorded for the owner).** The 32 type-prefixed and 7 type-index redirect rules that were public for about two hours on 2026-08-17 are harmless and kept. The ~1,583 Cloudflare Bulk Redirect rules for `/resources/<type>/<slug>/` (dashboard-managed, outside this repository) appear, by the same git history, to cover URLs that were never public; removing them is optional owner housekeeping. Many resources were corrected during audit rounds without `updatedDate` being bumped, so their `lastmod` is older than their content; the rule going forward is recorded in the final report rather than rewritten across 1,653 files here.
+
+**Validation.** Build clean; `audit:all` 0 problems (redirect audit: 259 rules, 0 problems).

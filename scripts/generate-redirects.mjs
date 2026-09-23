@@ -230,6 +230,23 @@ const codeEntriesRaw = execSync(
 );
 const codeEntries = JSON.parse(codeEntriesRaw);
 
+// D-298 -- three external URLs that Google Search Console reported as
+// "Not found (404)" on 2026-09-23 (Pages report). They were never
+// marlbridge.com routes but are linked from somewhere, so each goes to the
+// resource that covers the same Cambridge 9701/9702 topic. Nothing
+// speculative: only URLs Google actually requested are listed.
+lines.push('', '# External legacy URLs seen as 404 in Search Console (D-298)');
+for (const [from, to] of [
+  ['/a-level/chemistry/cie/20-1-addition-polymerisation/', '/resources/as-addition-polymerisation/'],
+  ['/a-level/chemistry/cie/20-1-addition-polymerisation', '/resources/as-addition-polymerisation/'],
+  ['/alevel/physics-9702/oscillations', '/resources/a-physics-oscillations/'],
+  ['/alevel/physics-9702/oscillations/', '/resources/a-physics-oscillations/'],
+  ['/resources/cambridge-international-as-a-level-physics-9702-topic-7-waves-study-guide', '/resources/as-physics-waves/'],
+  ['/resources/cambridge-international-as-a-level-physics-9702-topic-7-waves-study-guide/', '/resources/as-physics-waves/'],
+]) {
+  lines.push(`${pad(from)}${to}  301`);
+}
+
 lines.push('', '# Syllabus/specification-code discovery: /syllabus/<CODE>/ -> canonical hub (WS1)');
 for (const { code, hubPath } of codeEntries) {
   lines.push(`${pad(`/syllabus/${code}/`)}${hubPath}  301`);

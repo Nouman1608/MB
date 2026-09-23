@@ -39,6 +39,7 @@ const ISSUE_TYPES = [
 ] as const;
 ---
 <form data-correction-form method="post" action="/api/enquiry" novalidate class="grid max-w-[68ch] gap-5 sm:grid-cols-2">
+  <input type="hidden" name="enquiryKind" value="correction" />
   <div aria-hidden="true" class="absolute -left-[9999px] top-auto h-px w-px overflow-hidden">
     <label for="corr-website">Website</label>
     <input type="text" id="corr-website" name="website" tabindex={-1} autocomplete="off" />
@@ -116,8 +117,12 @@ const ISSUE_TYPES = [
     // overwrites a value the visitor has already typed.
     const pageUrlField = form.querySelector<HTMLInputElement>('input[name="pageUrl"]');
     if (pageUrlField && !pageUrlField.value) {
+      // D-297 -- links now pass the page in the URL fragment (#page=...),
+      // which search engines do not crawl as a separate URL; ?page= is
+      // still read so older links keep working.
+      const fromHash = new URLSearchParams(window.location.hash.slice(1)).get('page');
       const fromQuery = new URLSearchParams(window.location.search).get('page');
-      pageUrlField.value = fromQuery || document.referrer || '';
+      pageUrlField.value = fromHash || fromQuery || document.referrer || '';
     }
 
     const status = form.querySelector<HTMLElement>('[data-form-status]');
