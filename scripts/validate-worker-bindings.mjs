@@ -35,6 +35,20 @@ const KNOWN_SECRETS = new Set([
   'GSC_SERVICE_ACCOUNT_JSON',
 ]);
 
+/**
+ * D-286 -- secrets the code reads that are NOT set yet. Every one of them
+ * gates a feature that FAILS CLOSED without it (the endpoint answers 503 and
+ * the public form stays hidden), so an absent value can never look like a
+ * working feature. Listed separately from KNOWN_SECRETS so this check keeps
+ * saying, on every run, that they are still outstanding. Move a name to
+ * KNOWN_SECRETS only after it has been set on the Worker and verified.
+ */
+const PENDING_SECRETS = new Set([
+  'RESEND_CONTACTS_API_KEY',
+  'SUBSCRIBE_SIGNING_SECRET',
+  'RESEND_NEWSLETTER_SEGMENT_ID',
+]);
+
 const stripJsonc = (s) =>
   s.replace(/\/\*[\s\S]*?\*\//g, '').replace(/(^|[^:])\/\/.*$/gm, '$1');
 
@@ -75,14 +89,17 @@ for (const dir of SCAN_DIRS) {
 }
 
 const problems = [];
+const pendingUsed = [];
 for (const [name, files] of [...used].sort()) {
   if (declared.has(name) || KNOWN_SECRETS.has(name)) continue;
+  if (PENDING_SECRETS.has(name)) { pendingUsed.push(name); continue; }
   problems.push(`  x env.${name} is read in ${[...files].join(', ')} but is neither declared in ${CONFIG} nor a known secret`);
 }
 
 console.log(`Worker binding check -- ${used.size} env reference(s) across ${SCAN_DIRS.join(', ')}`);
 console.log(`  declared in ${CONFIG}: ${[...declared].sort().join(', ') || '(none)'}`);
 console.log(`  known secrets:        ${[...KNOWN_SECRETS].sort().join(', ')}`);
+if (pendingUsed.length) console.log(`  NOT YET SET (features fail closed until they are): ${pendingUsed.sort().join(', ')}`);
 
 if (problems.length) {
   console.error(`\nFAIL: ${problems.length} problem(s) found.\n${problems.join('\n')}`);

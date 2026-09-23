@@ -149,6 +149,11 @@ const lines = [
   `- [Boards directory](${SITE_URL}/boards/): every examination board Marlbridge publishes material for.`,
   `- [Qualifications directory](${SITE_URL}/levels/): every qualification level Marlbridge publishes material for.`,
   studyResourcesLine,
+  // D-286 -- the free revision tools.
+  `- [Revision planner](${SITE_URL}/revision-planner/): free weekly revision plan from a student's subjects, exam dates, free time and topic confidence; runs in the browser, no account.`,
+  `- [Practice and 10-minute diagnostics](${SITE_URL}/practice/): self-marked study checks and self-check questions with worked answers for Cambridge IGCSE Chemistry, Physics, Mathematics and A Level Chemistry, Physics.`,
+  `- [Printable syllabus checklists](${SITE_URL}/checklists/)`,
+  `- [Free trial class](${SITE_URL}/trial/): request a free trial class with a subject teacher (a request, not a booking).`,
   `- [Programs](${SITE_URL}/programs/): Marlbridge's teaching programs by qualification.`,
   `- [Tutoring](${SITE_URL}/tutoring/)`,
   `- [For Schools](${SITE_URL}/schools/)`,

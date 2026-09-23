@@ -28,6 +28,7 @@ import { syllabusFor } from '../../../data/academic/syllabuses.ts';
 import { topicsFor } from '../../../data/academic/syllabus-topics.ts';
 import { routes } from '../../../utils/urls/routes';
 import { buildClientQuestions, dataHashFor } from '../../../utils/practice/client-questions.ts';
+import { diagnosticsForCode, diagnosticPath } from '../../../data/diagnostics.ts';
 
 export async function getStaticPaths() {
   return flagshipSpecs()
@@ -73,21 +74,18 @@ const analyticsContext = {
  * 9702. The Diagnostic check mode below only shows a Core/Extended route
  * question when this is true, so untiered specs are unaffected.
  *
- * `trialHref` reuses the existing, security-reviewed TrialContext mechanism
- * (D-149): `/trial/?program=<slug>` pre-fills the trial request with the
- * matching programme, where <slug> is an exact key in that component's own
- * build-time allow-list (src/content/programs/*.md ids). Only a mapping
- * this session has verified against that allow-list is included here; an
- * unmapped qualification falls back to the pre-existing plain /tutoring/
- * link rather than guessing a slug that might not exist.
+ * `trialHref` (D-149, updated D-286) pre-fills the trial request with this
+ * exact course; /trial/ accepts it only if it is a taught course in its own
+ * build-time allow-list (src/components/forms/TrialRequestForm.astro).
  */
 const tiered = topicsFor(spec.boardSlug, spec.qualificationSlug, spec.subjectSlug)?.tiered ?? false;
-const QUALIFICATION_TO_PROGRAM: Record<string, string> = {
-  'igcse': 'igcse',
-  'a-level': 'a-levels',
-};
-const trialProgramSlug = QUALIFICATION_TO_PROGRAM[spec.qualificationSlug];
-const trialHref = trialProgramSlug ? `/trial/?program=${trialProgramSlug}` : '/tutoring/';
+// D-286: the trial form now takes the exact course (validated there against
+// the taught-course allow-list), replacing the D-149 programme-only link.
+const trialHref = `/trial/?course=${encodeURIComponent(`${spec.boardSlug}/${spec.qualificationSlug}/${spec.subjectSlug}`)}&source=practice`;
+// D-286: where a 10-minute diagnostic exists for this code, it replaces the
+// older in-page "Diagnostic check" mode (25 questions, answers shown as you
+// go) so there are not two competing diagnostics for the same syllabus.
+const diagnosticSets = diagnosticsForCode(spec.code);
 ---
 <PageLayout
   title={`${subjectTitle} — Free Practice Questions`}
@@ -118,6 +116,16 @@ const trialHref = trialProgramSlug ? `/trial/?program=${trialProgramSlug}` : '/t
         </div>
       </noscript>
 
+      {diagnosticSets.length > 0 && (
+        <div class="mb-6 flex flex-wrap items-center justify-between gap-3 rounded-sm border border-gold-500 bg-ivory p-4">
+          <p class="m-0 text-[15px] text-ink"><strong class="text-navy-800">New to this syllabus, or not sure where to start?</strong> Take a 10-minute diagnostic first. It shows which topics to practise, and your results appear in the weak-topic list below.</p>
+          <div class="flex flex-wrap gap-2">
+            {diagnosticSets.map((d) => (
+              <a href={diagnosticPath(d)} class="inline-flex min-h-11 items-center rounded-sm bg-navy-800 px-4 text-[14.5px] font-medium text-ivory hover:bg-navy-700">{diagnosticSets.length > 1 ? d.scopeLabel.replace(/ \(.*\)$/, '') : 'Start the 10-minute diagnostic'}</a>
+            ))}
+          </div>
+        </div>
+      )}
       <div id="mb-practice-app" data-storage-key={storageKey} data-hub-path={hubPath} class="hidden">
         <div id="mb-practice-toolbar" class="mb-6 flex flex-wrap items-center gap-x-6 gap-y-3 rounded-sm border border-rule bg-ivory p-4 text-[13.5px]">
           <span id="mb-practice-progress" class="font-medium text-navy-800">0 / {clientQuestions.length} attempted</span>
@@ -135,7 +143,7 @@ const trialHref = trialProgramSlug ? `/trial/?program=${trialProgramSlug}` : '/t
             <select id="mb-practice-mode" class="rounded-sm border border-rule bg-white px-2 py-1 text-[13.5px]">
               <option value="standard">Standard practice</option>
               <option value="mixed">Mixed revision (20, balanced by topic)</option>
-              <option value="diagnostic">Diagnostic check (one-time, broad coverage)</option>
+              {diagnosticSets.length === 0 && <option value="diagnostic">Diagnostic check (one-time, broad coverage)</option>}
             </select>
           </label>
           <label class="flex items-center gap-2 text-ink-mute">

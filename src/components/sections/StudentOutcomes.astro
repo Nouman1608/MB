@@ -10,7 +10,9 @@ import Container from '../layout/Container.astro';
 import SectionHeading from '../ui/SectionHeading.astro';
 import { publishedOutcomes } from '../../data/outcomes';
 
-const outcomes = publishedOutcomes();
+// D-286: Marlbridge's own stories only in this block; Learners Academy
+// evidence has its own, separately labelled section (AcademyResults).
+const outcomes = publishedOutcomes().filter((o) => o.organisation === 'marlbridge');
 ---
 {outcomes.length > 0 && (
   <Section surface="white" labelledby="outcomes-heading" border>
@@ -25,9 +27,12 @@ const outcomes = publishedOutcomes();
             <dl class="m-0 mt-5 grid gap-2.5 text-[15px] leading-[1.55] text-ink-mute">
               <div><dt class="m-0 inline font-semibold text-navy-800">Course: </dt><dd class="m-0 inline">{o.course}</dd></div>
               <div><dt class="m-0 inline font-semibold text-navy-800">Starting point: </dt><dd class="m-0 inline">{o.startingPoint}</dd></div>
-              <div><dt class="m-0 inline font-semibold text-navy-800">Support: </dt><dd class="m-0 inline">{o.support} over {o.timeframe}</dd></div>
+              {o.teachingApproach && <div><dt class="m-0 inline font-semibold text-navy-800">Teaching approach: </dt><dd class="m-0 inline">{o.teachingApproach}</dd></div>}
+              <div><dt class="m-0 inline font-semibold text-navy-800">Support: </dt><dd class="m-0 inline">{o.support}{o.timeframe && <> over {o.timeframe}</>}</dd></div>
+              <div><dt class="m-0 inline font-semibold text-navy-800">Evidence: </dt><dd class="m-0 inline">{o.outcomeEvidence}</dd></div>
             </dl>
-            <p class="m-0 mt-5 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">{o.attribution} &middot; {o.year} series</p>
+            {o.quote && <blockquote class="m-0 mt-5 border-s-2 border-gold-500 ps-4 text-[15.5px] leading-[1.6] text-ink">&ldquo;{o.quote.text}&rdquo; <span class="text-ink-mute">— {o.quote.by === 'parent' ? 'Parent' : 'Student'}</span></blockquote>}
+            <p class="m-0 mt-5 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">{o.attribution} &middot; {o.year} series{o.organisation === 'learners-academy' && <> &middot; a Learners Academy student, not a Marlbridge result</>}</p>
           </li>
         ))}
       </ul>

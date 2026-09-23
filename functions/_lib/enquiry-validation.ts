@@ -58,22 +58,23 @@ const FIELDS_BY_KIND: Record<EnquiryKind, { required: string[]; optional: string
     required: ['name', 'school', 'role', 'email', 'country', 'message'],
     optional: ['phone'],
   },
-  // v1.x CLOSURE Release WS1 (2026-08-26) -- REVERSES the QIGT trust
-  // workstream's earlier change (Aug 2026), which had added qualification/
-  // board/subject as structured required fields plus an optional
-  // availability field, specifically so a trial request could be routed to
-  // the right teacher without relying on free text. This release's
-  // approved business decision is stricter and explicit: "Student enquiry
-  // forms must contain only: Name, Email, Phone, Country, Message,"
-  // with programme/board/subject/level/availability left to the student to
-  // write in the message itself (see the updated message-hint copy in
-  // EnquiryForm.astro). Reverting here rather than layering a second
-  // convention on top of the first -- one allowlist, one behaviour, for
-  // every non-school enquiry kind. Confirmed directly with the owner
-  // before applying (docs/decision-log.md, v1.x Closure WS0/WS1).
+  // D-286 (2026-09-23, owner brief of that date) -- the trial request is
+  // structured again. This deliberately REVERSES the v1.x CLOSURE WS1
+  // five-field rule for the trial kind ONLY (student, tutoring and school
+  // are unchanged): the owner asked for qualification, exam board (with
+  // "Not sure"), subject, group / one-to-one preference (with "Help me
+  // decide"), country, time zone, preferred availability, contact details
+  // and an OPTIONAL message. Every structured value is checked against an
+  // allow-list or a strict pattern below (TRIAL_RULES), so nothing a client
+  // invents reaches the email as trusted data.
+  //
+  // `message` stays accepted and can stand in for the structured choice:
+  // a request needs EITHER qualification + subject OR a message. That keeps
+  // the translated /ar/ /ur/ /bn/ trial pages, which still use the
+  // five-field form, working unchanged.
   trial: {
-    required: ['name', 'email', 'country', 'message'],
-    optional: ['phone'],
+    required: ['name', 'email', 'country'],
+    optional: ['phone', 'qualification', 'board', 'subject', 'course', 'format', 'timezone', 'availability', 'teacher', 'source', 'message'],
   },
   // Deliberately NOT name/phone/country -- a correction report is not a
   // tuition enquiry and shouldn't ask for enrolment-shaped fields. pageUrl
@@ -83,6 +84,28 @@ const FIELDS_BY_KIND: Record<EnquiryKind, { required: string[]; optional: string
     required: ['pageUrl', 'issueType', 'description'],
     optional: ['email'],
   },
+};
+
+/** D-286 -- allowed values for the structured trial fields. */
+export const TRIAL_QUALIFICATIONS = ['igcse', 'o-level', 'gcse', 'as-level', 'a-level', 'ib-myp', 'ib-dp', 'ielts', 'sat', 'not-sure'] as const;
+export const TRIAL_BOARDS = ['cambridge', 'edexcel', 'aqa', 'ocr', 'oxfordaqa', 'ib', 'not-sure'] as const;
+export const TRIAL_FORMATS = ['group', 'one-to-one', 'help-me-decide'] as const;
+export const TRIAL_AVAILABILITY = [
+  'weekday-morning', 'weekday-afternoon', 'weekday-evening',
+  'weekend-morning', 'weekend-afternoon', 'weekend-evening',
+] as const;
+export const TRIAL_SOURCES = ['home', 'trial-page', 'teacher', 'tuition-page', 'diagnostic', 'resource', 'planner', 'practice', 'program', 'pricing', 'region', 'other'] as const;
+
+const TRIAL_RULES: Record<string, (v: string) => boolean> = {
+  qualification: (v) => (TRIAL_QUALIFICATIONS as readonly string[]).includes(v),
+  board: (v) => (TRIAL_BOARDS as readonly string[]).includes(v),
+  format: (v) => (TRIAL_FORMATS as readonly string[]).includes(v),
+  course: (v) => /^[a-z0-9-]{2,20}\/[a-z0-9-]{2,20}\/[a-z0-9-]{2,60}$/.test(v),
+  timezone: (v) => /^[A-Za-z_+\-/0-9: ]{2,60}$/.test(v),
+  availability: (v) => v.split(',').every((x) => (TRIAL_AVAILABILITY as readonly string[]).includes(x.trim())),
+  teacher: (v) => /^[a-z0-9-]{3,60}$/.test(v),
+  source: (v) => (TRIAL_SOURCES as readonly string[]).includes(v),
+  subject: (v) => v.length <= 120,
 };
 
 const MAX_FIELD_LENGTH = 2000;
@@ -150,6 +173,22 @@ export function validateEnquiry(
     errors.email = 'Please enter a valid email address.';
   }
 
+  if (kind === 'trial') {
+    for (const [field, ok] of Object.entries(TRIAL_RULES)) {
+      if (data[field] !== undefined && !ok(data[field])) {
+        // An out-of-list value is a tampered or stale client: drop it rather
+        // than reject the whole request, except where the visitor must fix it.
+        if (field === 'qualification' || field === 'format') errors[field] = 'Please choose one of the listed options.';
+        else delete data[field];
+      }
+    }
+    const structured = !!data.qualification && !!data.subject;
+    if (!structured && !data.message) {
+      if (!data.qualification) errors.qualification = 'Please choose a qualification, or tell us in a message.';
+      if (!data.subject) errors.subject = 'Please choose a subject, or tell us in a message.';
+    }
+  }
+
   if (kind === 'correction' && data.issueType && !(ISSUE_TYPES as readonly string[]).includes(data.issueType)) {
     errors.issueType = 'Please choose one of the listed issue types.';
   }
@@ -174,17 +213,30 @@ const FIELD_LABEL: Record<string, string> = {
   name: 'Name', school: 'School', role: 'Role', email: 'Email', phone: 'Phone',
   country: 'Country', message: 'Message',
   qualification: 'Qualification', board: 'Exam board', subject: 'Subject',
-  availability: 'Availability',
+  availability: 'Preferred times', course: 'Course id', format: 'Group or one-to-one',
+  timezone: 'Time zone', teacher: 'Teacher asked for', source: 'Came from',
   pageUrl: 'Page', issueType: 'Issue type', description: 'What looks wrong',
 };
 
 /** Plain-text email body. Every value was already sanitized by validateEnquiry. */
+/** D-286 -- readable values for the structured trial fields in the owner's email. */
+const VALUE_LABEL: Record<string, Record<string, string>> = {
+  qualification: { igcse: 'IGCSE', 'o-level': 'O Level', gcse: 'GCSE', 'as-level': 'AS Level', 'a-level': 'A Level', 'ib-myp': 'IB MYP', 'ib-dp': 'IB Diploma', ielts: 'IELTS', sat: 'SAT', 'not-sure': 'Not sure' },
+  board: { cambridge: 'Cambridge', edexcel: 'Pearson Edexcel', aqa: 'AQA', ocr: 'OCR', oxfordaqa: 'OxfordAQA', ib: 'IB', 'not-sure': 'Not sure' },
+  format: { group: 'Group classes', 'one-to-one': 'One-to-one', 'help-me-decide': 'Help me decide' },
+};
+const readable = (field: string, value: string): string => {
+  if (field === 'availability') return value.split(',').map((x) => x.trim().replace('-', ' ')).join(', ');
+  return VALUE_LABEL[field]?.[value] ?? value;
+};
+
 export function renderEmailBody(kind: EnquiryKind, data: Record<string, string>): string {
   const spec = FIELDS_BY_KIND[kind];
   const lines = [`${KIND_LABEL[kind]} via marlbridge.com`, ''];
   for (const field of [...spec.required, ...spec.optional]) {
-    if (data[field]) lines.push(`${FIELD_LABEL[field] ?? field}: ${data[field]}`);
+    if (data[field]) lines.push(`${FIELD_LABEL[field] ?? field}: ${readable(field, data[field])}`);
   }
+  if (kind === 'trial') lines.push('', 'This is a request for a free trial class, not a confirmed booking.');
   return lines.join('\n');
 }
 

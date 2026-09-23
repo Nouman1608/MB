@@ -23,6 +23,7 @@
  */
 import BaseLayout from '../layouts/BaseLayout.astro';
 import HomeHero from '../components/sections/HomeHero.astro';
+import FreeRevisionTools from '../components/sections/FreeRevisionTools.astro';
 import ProgramsSection from '../components/sections/ProgramsSection.astro';
 import TeachersBand from '../components/sections/TeachersBand.astro';
 import HowTuitionWorks from '../components/sections/HowTuitionWorks.astro';
@@ -56,6 +57,9 @@ const faq = faqNode(TUITION_FAQS);
 >
   {/* 1-2. What is taught, for whom, by whom, and the primary action. */}
   <HomeHero />
+
+  {/* D-286: the free revision tools, one scroll below the trial CTA. */}
+  <FreeRevisionTools />
 
   {/* 3. Priority programmes. */}
   <ProgramsSection />

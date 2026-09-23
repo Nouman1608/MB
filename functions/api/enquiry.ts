@@ -80,7 +80,7 @@ const ENQUIRY_SENDER = 'Marlbridge <hello@marlbridge.com>';
  * distinct from ENQUIRY_SENDER, which is the public-facing address. Not a
  * secret (an email address is a routing decision, not a credential), so
  * it is safe to keep as a plain constant rather than an env var. */
-const ENQUIRY_RECIPIENT = 'noumanahmed1989@gmail.com';
+export const ENQUIRY_RECIPIENT = 'noumanahmed1989@gmail.com';
 
 function jsonResponse(status: number, body: unknown): Response {
   return new Response(JSON.stringify(body), {
@@ -233,7 +233,9 @@ export const onRequestPost = async (context: { request: Request; env: Env }): Pr
     // the owner's inbox should never confuse the two at a glance.
     const subject = kind === 'correction'
       ? `Marlbridge correction report — ${result.data.issueType ?? 'unspecified'}`
-      : `Marlbridge enquiry — ${result.data.name ?? 'unknown'}`;
+      : kind === 'trial'
+        ? `Marlbridge trial request — ${result.data.name ?? 'unknown'}${result.data.subject ? ` — ${result.data.subject}` : ''}`
+        : `Marlbridge enquiry — ${result.data.name ?? 'unknown'}`;
     await sendViaResend(env.RESEND_API_KEY, {
       subject,
       text: body,

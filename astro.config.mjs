@@ -159,6 +159,28 @@ function buildArchivedContentExclusions() {
 
 const archivedContentPaths = buildArchivedContentExclusions();
 
+/**
+ * D-286 -- workshops. Only a PUBLISHED workshop page belongs in the sitemap,
+ * and the /workshops/ listing only once at least one is published (until
+ * then it is noindexed and linked from nowhere). Read with plain fs, like
+ * the exclusions above, because this runs before the content layer exists.
+ */
+function buildWorkshopSitemapRules() {
+  const published = new Set();
+  let files = [];
+  try {
+    files = readdirSync(new URL('src/content/workshops/', import.meta.url)).filter((f) => f.endsWith('.md'));
+  } catch {
+    files = [];
+  }
+  for (const file of files) {
+    const frontmatter = readFileSync(new URL(`src/content/workshops/${file}`, import.meta.url), 'utf-8').split('---')[1] ?? '';
+    if (/^publicationState:\s*"?published"?\s*$/m.test(frontmatter)) published.add(`/workshops/${file.replace(/\.md$/, '')}/`);
+  }
+  return published;
+}
+const publishedWorkshopPaths = buildWorkshopSitemapRules();
+
 
 export default defineConfig({
   site: 'https://marlbridge.com',
@@ -216,6 +238,10 @@ export default defineConfig({
         if (path.startsWith('/admin/')) return false;
         if (noindexAcademicPaths.has(path)) return false;
         if (archivedContentPaths.has(path)) return false;
+        // D-286: confirmation/unsubscribe/error pages are noindexed utility pages.
+        if (path.startsWith('/subscribe/')) return false;
+        if (path === '/workshops/') return publishedWorkshopPaths.size > 0;
+        if (path.startsWith('/workshops/')) return publishedWorkshopPaths.has(path);
         return true;
       },
       serialize(item) {

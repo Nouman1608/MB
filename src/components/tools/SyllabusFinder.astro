@@ -1,0 +1,165 @@
+---
+/**
+ * D-286 -- "Find notes for my syllabus": qualification -> exam board ->
+ * subject, then the free material that really exists for that course.
+ *
+ * The qualification list is rendered at build time from the matrix, so the
+ * first choice works before any script runs. Boards and subjects come from
+ * /tools-data/catalogue.json (src/utils/tools/catalogue.ts), fetched on the
+ * first interaction rather than on page load, so the homepage carries no
+ * extra payload for visitors who never use it.
+ *
+ * Without JavaScript the form still works: it submits to /boards/, the
+ * board-by-board syllabus directory, which lists every course.
+ *
+ * Only public catalogue identifiers ever travel in a URL (a course id such
+ * as cambridge/igcse/chemistry). Nothing a visitor types is sent anywhere.
+ */
+import { activeOnly } from '../../utils/academic';
+import { QUALIFICATIONS } from '../../data/academic/qualifications';
+
+interface Props {
+  id?: string;
+  /** Analytics label for where this finder sits. */
+  source: string;
+  heading?: string;
+}
+const { id = 'syllabus-finder', source, heading = 'Find notes for my syllabus' } = Astro.props;
+
+const present = new Set(activeOnly().map((c) => c.qualificationSlug));
+const quals = QUALIFICATIONS.filter((q) => present.has(q.slug));
+---
+<div id={id} data-syllabus-finder data-source={source} class="scroll-mt-24 rounded-sm border border-rule bg-white p-[clamp(20px,2.6vw,32px)]">
+  <h3 class="m-0 mb-1 text-[19px] font-semibold tracking-[-0.01em] text-navy-800">{heading}</h3>
+  <p class="m-0 mb-5 text-[14.5px] leading-[1.6] text-ink-mute">Choose your qualification, exam board and subject. We'll show the syllabus code and the free material for that exact course.</p>
+  <form action="/boards/" method="get" class="grid gap-4 sm:grid-cols-3" data-finder-form>
+    <div class="grid gap-1.5">
+      <label for={`${id}-q`} class="text-[13.5px] font-medium text-ink">Qualification</label>
+      <select id={`${id}-q`} data-finder-q class="min-h-11 w-full rounded-sm border border-rule bg-white px-3 text-[15px] text-ink">
+        <option value="">Choose…</option>
+        {quals.map((q) => <option value={q.slug}>{q.name}</option>)}
+      </select>
+    </div>
+    <div class="grid gap-1.5">
+      <label for={`${id}-b`} class="text-[13.5px] font-medium text-ink">Exam board</label>
+      <select id={`${id}-b`} data-finder-b disabled class="min-h-11 w-full rounded-sm border border-rule bg-white px-3 text-[15px] text-ink disabled:bg-ivory disabled:text-ink-mute">
+        <option value="">Choose a qualification first</option>
+      </select>
+    </div>
+    <div class="grid gap-1.5">
+      <label for={`${id}-s`} class="text-[13.5px] font-medium text-ink">Subject</label>
+      <select id={`${id}-s`} data-finder-s disabled class="min-h-11 w-full rounded-sm border border-rule bg-white px-3 text-[15px] text-ink disabled:bg-ivory disabled:text-ink-mute">
+        <option value="">Choose a board first</option>
+      </select>
+    </div>
+    <noscript>
+      <p class="m-0 text-[14px] text-ink-mute sm:col-span-3">This finder needs JavaScript. <a href="/boards/" class="underline decoration-gold-500 underline-offset-2">Browse every syllabus by exam board</a> instead.</p>
+    </noscript>
+  </form>
+  <p data-finder-status role="status" aria-live="polite" class="m-0 mt-3 text-[14px] text-ink-mute"></p>
+  <div data-finder-result hidden class="mt-5 border-t border-rule pt-5">
+    <p class="m-0 font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600" data-finder-code></p>
+    <p class="m-0 mt-1 text-[18px] font-semibold tracking-[-0.01em] text-navy-800" data-finder-title></p>
+    <ul class="m-0 mt-4 grid list-none gap-2.5 p-0 sm:grid-cols-2" data-finder-links></ul>
+    <p class="m-0 mt-4 text-[13.5px] text-ink-mute" data-finder-note hidden></p>
+  </div>
+</div>
+
+<script>
+  import { loadCatalogue, courseLabel, track, type CatalogueEntry } from '../../scripts/catalogue-client';
+
+  document.querySelectorAll<HTMLElement>('[data-syllabus-finder]').forEach((root) => {
+    const qSel = root.querySelector<HTMLSelectElement>('[data-finder-q]')!;
+    const bSel = root.querySelector<HTMLSelectElement>('[data-finder-b]')!;
+    const sSel = root.querySelector<HTMLSelectElement>('[data-finder-s]')!;
+    const status = root.querySelector<HTMLElement>('[data-finder-status]')!;
+    const result = root.querySelector<HTMLElement>('[data-finder-result]')!;
+    const codeEl = root.querySelector<HTMLElement>('[data-finder-code]')!;
+    const titleEl = root.querySelector<HTMLElement>('[data-finder-title]')!;
+    const linksEl = root.querySelector<HTMLUListElement>('[data-finder-links]')!;
+    const noteEl = root.querySelector<HTMLElement>('[data-finder-note]')!;
+    const form = root.querySelector<HTMLFormElement>('[data-finder-form]')!;
+    const source = root.dataset.source ?? 'unknown';
+    let catalogue: CatalogueEntry[] = [];
+
+    form.addEventListener('submit', (e) => e.preventDefault());
+
+    const ensure = async () => {
+      if (catalogue.length) return true;
+      status.textContent = 'Loading courses…';
+      catalogue = await loadCatalogue();
+      status.textContent = catalogue.length ? '' : 'Courses could not be loaded just now. Browse every syllabus from the Boards page instead.';
+      return catalogue.length > 0;
+    };
+    // Warm the cache on first intent, not on page load.
+    root.addEventListener('pointerenter', () => { void loadCatalogue(); }, { once: true });
+    root.addEventListener('focusin', () => { void loadCatalogue(); }, { once: true });
+
+    const fill = (sel: HTMLSelectElement, placeholder: string, items: { value: string; label: string }[]) => {
+      sel.replaceChildren();
+      const first = document.createElement('option');
+      first.value = '';
+      first.textContent = placeholder;
+      sel.append(first);
+      for (const it of items) {
+        const o = document.createElement('option');
+        o.value = it.value;
+        o.textContent = it.label;
+        sel.append(o);
+      }
+      sel.disabled = items.length === 0;
+    };
+
+    const addLink = (href: string, label: string, detail: string, kind: string) => {
+      const li = document.createElement('li');
+      li.className = 'm-0';
+      const a = document.createElement('a');
+      a.href = href;
+      a.className = 'flex h-full flex-col gap-0.5 rounded-sm border border-rule bg-ivory px-4 py-3 transition-colors hover:border-gold-500';
+      const strong = document.createElement('span');
+      strong.className = 'text-[15px] font-semibold text-navy-800';
+      strong.textContent = label;
+      const small = document.createElement('span');
+      small.className = 'text-[13.5px] text-ink-mute';
+      small.textContent = detail;
+      a.append(strong, small);
+      a.addEventListener('click', () => track('recommended_resource_click', { source: `finder_${source}`, link_kind: kind }));
+      li.append(a);
+      linksEl.append(li);
+    };
+
+    const show = (e: CatalogueEntry) => {
+      linksEl.replaceChildren();
+      codeEl.textContent = e.code ? `Syllabus ${e.code}` : 'Syllabus code being verified';
+      titleEl.textContent = e.title ?? courseLabel(e);
+      addLink(e.hub, 'Notes, topics and syllabus', `${e.n} free ${e.n === 1 ? 'resource' : 'resources'} for this course`, 'hub');
+      if (e.checklist) addLink(e.checklist, 'Printable syllabus checklist', 'Tick off each topic as you revise', 'checklist');
+      for (const d of e.diagnostics ?? []) addLink(d.url, 'Test my knowledge — 10 minutes', d.label, 'diagnostic');
+      if (e.practice) addLink(e.practice, 'Self-check practice questions', 'Worked answers and a weak-topic notebook', 'practice');
+      addLink(`/revision-planner/?course=${encodeURIComponent(e.id)}`, 'Make my revision plan', 'A weekly plan that fits your time', 'planner');
+      if (e.classes && e.tuition) addLink(`${e.hub}#tuition`, 'Online tuition for this syllabus', 'Teachers, fees and a free trial class', 'tuition');
+      noteEl.hidden = e.classes;
+      noteEl.textContent = e.classes ? '' : 'Marlbridge is not offering classes in this subject at the moment. The free material stays open to everyone.';
+      result.hidden = false;
+      track('syllabus_finder_select', { source, qualification: e.qs, board: e.bs, course_code: e.code ?? 'none' });
+    };
+
+    qSel.addEventListener('change', async () => {
+      result.hidden = true;
+      fill(sSel, 'Choose a board first', []);
+      if (!qSel.value || !(await ensure())) { fill(bSel, 'Choose a qualification first', []); return; }
+      const boards = [...new Map(catalogue.filter((e) => e.qs === qSel.value).map((e) => [e.bs, e.b])).entries()];
+      fill(bSel, 'Choose…', boards.map(([value, label]) => ({ value, label })));
+      if (boards.length === 1) { bSel.value = boards[0][0]; bSel.dispatchEvent(new Event('change')); }
+    });
+    bSel.addEventListener('change', () => {
+      result.hidden = true;
+      const subjects = catalogue.filter((e) => e.qs === qSel.value && e.bs === bSel.value);
+      fill(sSel, bSel.value ? 'Choose…' : 'Choose a board first', subjects.map((e) => ({ value: e.id, label: e.code ? `${e.s} (${e.code})` : e.s })));
+    });
+    sSel.addEventListener('change', () => {
+      const e = catalogue.find((x) => x.id === sSel.value);
+      if (e) show(e); else result.hidden = true;
+    });
+  });
+</script>

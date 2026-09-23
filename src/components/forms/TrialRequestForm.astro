@@ -1,0 +1,349 @@
+---
+/**
+ * D-286 -- the structured free-trial request (English /trial/ only).
+ *
+ * Replaces the five-field trial form on /trial/ by owner decision
+ * (2026-09-23). The translated /ar/ /ur/ /bn/ trial pages keep the
+ * five-field EnquiryForm, which the server still accepts (a message can
+ * stand in for the structured choices -- functions/_lib/enquiry-validation.ts).
+ *
+ * Kept short with defaults and progressive disclosure: three small groups
+ * (what / when and where / contact); preferred times and the message are
+ * optional and folded away; the time zone is filled from the browser;
+ * "Help me decide" is the default format.
+ *
+ * PRESELECTION (all validated against build-time allow-lists; nothing from
+ * the URL is ever shown as text or written into the form unless it matches):
+ *   ?course=board/qualification/subject   a taught course from the catalogue
+ *   ?program=igcse|o-levels|a-levels|gcse|ib|ielts   (the D-149 parameter)
+ *   ?teacher=<author slug>                 a published teacher
+ *   ?format=group|one-to-one
+ *   ?source=diagnostic|resource|teacher|tuition-page|planner|...
+ * No personal data is ever read from or written to a URL.
+ *
+ * Works without JavaScript: every select is fully populated server-side and
+ * the form posts natively to /api/enquiry.
+ */
+import { activeOnly, offersClasses } from '../../utils/academic';
+import { syllabusFor } from '../../data/academic/syllabuses';
+import { getAuthors } from '../../utils/content/collections';
+import { FALLBACK_EMAIL } from '../../utils/forms/submit';
+import { PRICING_TERMS, REGION_PRICING } from '../../data/pricing';
+import { site } from '../../data/site';
+import { TRIAL_SOURCES } from '../../../functions/_lib/enquiry-validation';
+
+const QUALS = [
+  { value: 'igcse', label: 'IGCSE', program: 'igcse' },
+  { value: 'o-level', label: 'O Level', program: 'o-levels' },
+  { value: 'gcse', label: 'GCSE', program: 'gcse' },
+  { value: 'as-level', label: 'AS Level (standalone)', program: '' },
+  { value: 'a-level', label: 'AS & A Level', program: 'a-levels' },
+  { value: 'ib-myp', label: 'IB Middle Years Programme', program: '' },
+  { value: 'ib-dp', label: 'IB Diploma Programme', program: 'ib' },
+  { value: 'ielts', label: 'IELTS', program: 'ielts' },
+  { value: 'not-sure', label: 'Not sure yet', program: '' },
+];
+const BOARDS = [
+  { value: 'cambridge', label: 'Cambridge' },
+  { value: 'edexcel', label: 'Pearson Edexcel' },
+  { value: 'aqa', label: 'AQA' },
+  { value: 'oxfordaqa', label: 'OxfordAQA' },
+  { value: 'ocr', label: 'OCR' },
+  { value: 'ib', label: 'International Baccalaureate' },
+  { value: 'not-sure', label: 'Not sure' },
+];
+
+// Taught courses only: a resources-only subject cannot be requested as a class.
+const courses = activeOnly().filter(offersClasses).map((c) => {
+  const code = syllabusFor(c.boardSlug, c.qualificationSlug, c.subjectSlug)?.code;
+  return { id: `${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`, q: c.qualificationSlug, b: c.boardSlug, s: c.subject, label: code ? `${c.subject} (${code})` : c.subject };
+});
+const subjectNames = [...new Set(courses.map((c) => c.s))].sort();
+const teachers = Object.fromEntries((await getAuthors()).filter((a) => a.data.entityType === 'person').map((a) => [a.id, a.data.name]));
+const programToQual = Object.fromEntries(QUALS.filter((q) => q.program).map((q) => [q.program, q.value]));
+const countries = [...REGION_PRICING.map((r) => r.region).filter((r) => r !== 'Europe'), 'India', 'Bangladesh', 'Malaysia', 'Kenya', 'United States', 'Canada', 'Germany', 'France', 'Ireland'];
+const zones = ['Asia/Karachi', 'Asia/Dubai', 'Asia/Riyadh', 'Asia/Qatar', 'Asia/Kuwait', 'Asia/Bahrain', 'Asia/Muscat', 'Europe/London', 'Europe/Paris', 'Asia/Kolkata', 'Asia/Dhaka', 'Asia/Kuala_Lumpur', 'Africa/Nairobi', 'America/New_York', 'America/Toronto'];
+const slots = [
+  ['weekday-morning', 'Weekday mornings'], ['weekday-afternoon', 'Weekday afternoons'], ['weekday-evening', 'Weekday evenings'],
+  ['weekend-morning', 'Weekend mornings'], ['weekend-afternoon', 'Weekend afternoons'], ['weekend-evening', 'Weekend evenings'],
+];
+const data = JSON.stringify({ courses, teachers, programToQual, sources: TRIAL_SOURCES }).replace(/</g, '\\u003c');
+const waHref = `https://wa.me/923239149918?text=${encodeURIComponent("Hi, I'd like to ask about a free trial class.")}`;
+const field = 'min-h-11 w-full rounded-sm border border-rule bg-white px-3 text-[15.5px] text-ink aria-[invalid=true]:border-error';
+const labelCls = 'text-[14.5px] font-medium text-ink';
+---
+<form data-enquiry-form data-kind="trial" data-trial-form method="post" action="/api/enquiry" novalidate class="grid max-w-[72ch] gap-8">
+  <script type="application/json" data-trial-data set:html={data} />
+  <input type="hidden" name="enquiryKind" value="trial" />
+  <input type="hidden" name="source" value="trial-page" data-trial-source />
+  <input type="hidden" name="course" value="" data-trial-course />
+  <input type="hidden" name="teacher" value="" data-trial-teacher />
+  <input type="hidden" name="availability" value="" data-trial-availability />
+  <div aria-hidden="true" class="absolute -left-[9999px] top-auto h-px w-px overflow-hidden">
+    <label for="trial-website">Website</label><input type="text" id="trial-website" name="website" tabindex={-1} autocomplete="off" />
+  </div>
+
+  <p data-trial-context hidden class="m-0 rounded-sm border border-gold-500 bg-ivory px-4 py-3 text-[15px] text-navy-800"></p>
+
+  <fieldset class="m-0 grid gap-4 border-0 p-0 sm:grid-cols-2">
+    <legend class="mb-3 p-0 text-[19px] font-semibold text-navy-800">1. What would you like help with?</legend>
+    <div class="grid gap-1.5">
+      <label for="trial-qualification" class={labelCls}>Qualification</label>
+      <select id="trial-qualification" name="qualification" required class={field} aria-describedby="trial-qualification-err">
+        <option value="">Choose…</option>
+        {QUALS.map((q) => <option value={q.value}>{q.label}</option>)}
+      </select>
+      <p id="trial-qualification-err" data-error-for="qualification" hidden class="m-0 text-[13.5px] text-error"></p>
+    </div>
+    <div class="grid gap-1.5" data-board-wrap>
+      <label for="trial-board" class={labelCls}>Exam board</label>
+      <select id="trial-board" name="board" class={field}>
+        {BOARDS.map((b) => <option value={b.value} selected={b.value === 'not-sure'}>{b.label}</option>)}
+      </select>
+    </div>
+    <div class="grid gap-1.5 sm:col-span-2" data-subject-wrap>
+      <label for="trial-subject-select" class={labelCls}>Subject</label>
+      <select id="trial-subject-select" name="subject" data-subject-select class={field} aria-describedby="trial-subject-err">
+        <option value="">Choose…</option>
+        {subjectNames.map((s) => <option value={s}>{s}</option>)}
+        <option value="__other">Another subject</option>
+      </select>
+      <input type="hidden" value="" data-subject-value />
+      <div data-subject-other hidden class="mt-2 grid gap-1.5">
+        <label for="trial-subject-other" class="text-[14px] text-ink">Which subject?</label>
+        <input id="trial-subject-other" maxlength="80" class={field} />
+      </div>
+      <p id="trial-subject-err" data-error-for="subject" hidden class="m-0 text-[13.5px] text-error"></p>
+    </div>
+    <fieldset class="m-0 border-0 p-0 sm:col-span-2">
+      <legend class={`mb-2 p-0 ${labelCls}`}>Group classes or one-to-one?</legend>
+      <div class="flex flex-wrap gap-2">
+        {[['help-me-decide', 'Help me decide'], ['group', `Group (up to ${PRICING_TERMS.maxGroupSize}, fee per month)`], ['one-to-one', 'One-to-one (fee per class)']].map(([v, l]) => (
+          <label class="flex min-h-11 cursor-pointer items-center gap-2 rounded-sm border border-rule px-3 text-[14.5px] has-[:checked]:border-navy-800 has-[:checked]:bg-ivory">
+            <input type="radio" name="format" value={v} checked={v === 'help-me-decide'} class="h-4 w-4" />{l}
+          </label>
+        ))}
+      </div>
+      <p class="m-0 mt-1.5 text-[13px] text-ink-mute">Group fees are per subject, per month; one-to-one fees are per class. <a href="/pricing/" class="underline decoration-gold-500 underline-offset-2">See fees</a>.</p>
+    </fieldset>
+  </fieldset>
+
+  <fieldset class="m-0 grid gap-4 border-0 p-0 sm:grid-cols-2">
+    <legend class="mb-3 p-0 text-[19px] font-semibold text-navy-800">2. Where and when</legend>
+    <div class="grid gap-1.5">
+      <label for="trial-country" class={labelCls}>Country</label>
+      <input id="trial-country" name="country" required autocomplete="country-name" list="trial-countries" class={field} aria-describedby="trial-country-err" />
+      <datalist id="trial-countries">{countries.map((c) => <option value={c} />)}</datalist>
+      <p id="trial-country-err" data-error-for="country" hidden class="m-0 text-[13.5px] text-error"></p>
+    </div>
+    <div class="grid gap-1.5">
+      <label for="trial-timezone" class={labelCls}>Time zone</label>
+      <input id="trial-timezone" name="timezone" list="trial-zones" maxlength="60" class={field} placeholder="e.g. Asia/Dubai" aria-describedby="trial-timezone-hint" />
+      <datalist id="trial-zones">{zones.map((z) => <option value={z} />)}</datalist>
+      <p id="trial-timezone-hint" class="m-0 text-[13px] text-ink-mute" data-tz-hint>We'll agree class times in your time zone.</p>
+    </div>
+    <details class="sm:col-span-2" data-availability>
+      <summary class="min-h-11 cursor-pointer py-2 text-[14.5px] font-medium text-navy-800">Add preferred times (optional)</summary>
+      <div class="mt-2 grid gap-2 sm:grid-cols-3">
+        {slots.map(([v, l]) => (
+          <label class="flex min-h-11 items-center gap-2 text-[14.5px]"><input type="checkbox" value={v} data-slot class="h-4 w-4" />{l}</label>
+        ))}
+      </div>
+    </details>
+  </fieldset>
+
+  <fieldset class="m-0 grid gap-4 border-0 p-0 sm:grid-cols-2">
+    <legend class="mb-3 p-0 text-[19px] font-semibold text-navy-800">3. Your details</legend>
+    <div class="grid gap-1.5">
+      <label for="trial-name" class={labelCls}>Full name</label>
+      <input id="trial-name" name="name" required autocomplete="name" class={field} aria-describedby="trial-name-err" />
+      <p id="trial-name-err" data-error-for="name" hidden class="m-0 text-[13.5px] text-error"></p>
+    </div>
+    <div class="grid gap-1.5">
+      <label for="trial-email" class={labelCls}>Email</label>
+      <input id="trial-email" name="email" type="email" required autocomplete="email" inputmode="email" class={field} aria-describedby="trial-email-err" />
+      <p id="trial-email-err" data-error-for="email" hidden class="m-0 text-[13.5px] text-error"></p>
+    </div>
+    <div class="grid gap-1.5">
+      <label for="trial-phone" class={labelCls}>Phone or WhatsApp <span class="font-normal text-ink-mute">(optional)</span></label>
+      <input id="trial-phone" name="phone" type="tel" autocomplete="tel" inputmode="tel" class={field} />
+    </div>
+    <details class="sm:col-span-2" data-message>
+      <summary class="min-h-11 cursor-pointer py-2 text-[14.5px] font-medium text-navy-800">Add a message (optional)</summary>
+      <label for="trial-message" class="sr-only">Message</label>
+      <textarea id="trial-message" name="message" rows="4" maxlength="5000" class="mt-2 w-full rounded-sm border border-rule px-3 py-2 text-[15.5px]" placeholder="Anything that helps: level, topics you find hard, exam date, a teacher you'd like."></textarea>
+    </details>
+  </fieldset>
+
+  {site.turnstile.siteKey && <div class="cf-turnstile" data-sitekey={site.turnstile.siteKey} data-theme="light"></div>}
+
+  <div class="grid gap-3">
+    <p class="m-0 text-[14px] text-ink-mute"><strong class="text-ink">This requests a free trial class; it does not book one.</strong> {PRICING_TERMS.enquiryResponse.summary} We confirm a teacher and a time with you before anything is scheduled. By sending, you agree to our <a href="/legal/privacy/" class="underline decoration-gold-500 underline-offset-2">Privacy Policy</a>; we use your details only to respond.</p>
+    <div class="flex flex-wrap items-center gap-4">
+      <button type="submit" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-7 py-3.5 text-[15px] font-medium text-ivory transition-colors hover:bg-navy-700 disabled:opacity-60">Request my free trial class</button>
+      <a href={waHref} target="_blank" rel="noopener noreferrer" data-trial-whatsapp class="inline-flex min-h-11 items-center gap-2 text-[15px] font-medium text-navy-800 underline decoration-[#25D366] underline-offset-4">Prefer WhatsApp? Message us</a>
+    </div>
+    <p class="m-0 text-[13.5px] text-ink-mute">Or email <a href={`mailto:${FALLBACK_EMAIL}`} class="underline decoration-gold-500 underline-offset-2">{FALLBACK_EMAIL}</a>. The WhatsApp message opens with a general greeting only; add your details in the chat if you wish.</p>
+  </div>
+  <div data-form-status role="status" aria-live="polite"></div>
+</form>
+{site.turnstile.siteKey && <script is:inline async src="https://challenges.cloudflare.com/turnstile/v0/api.js" defer></script>}
+
+<script>
+  import { submitEnquiry } from '../../utils/forms/submit';
+
+  interface Course { id: string; q: string; b: string; s: string; label: string }
+  interface Data { courses: Course[]; teachers: Record<string, string>; programToQual: Record<string, string>; sources: string[] }
+
+  const form = document.querySelector<HTMLFormElement>('[data-trial-form]');
+  if (form) {
+    const data = JSON.parse(form.querySelector('[data-trial-data]')?.textContent ?? '{}') as Data;
+    const q = form.querySelector<HTMLSelectElement>('#trial-qualification')!;
+    const b = form.querySelector<HTMLSelectElement>('#trial-board')!;
+    const sSel = form.querySelector<HTMLSelectElement>('[data-subject-select]')!;
+    const sVal = form.querySelector<HTMLInputElement>('[data-subject-value]')!;
+    const other = form.querySelector<HTMLElement>('[data-subject-other]')!;
+    const otherInput = form.querySelector<HTMLInputElement>('#trial-subject-other')!;
+    const courseIn = form.querySelector<HTMLInputElement>('[data-trial-course]')!;
+    const teacherIn = form.querySelector<HTMLInputElement>('[data-trial-teacher]')!;
+    const sourceIn = form.querySelector<HTMLInputElement>('[data-trial-source]')!;
+    const availIn = form.querySelector<HTMLInputElement>('[data-trial-availability]')!;
+    const boardWrap = form.querySelector<HTMLElement>('[data-board-wrap]')!;
+    const subjectWrap = form.querySelector<HTMLElement>('[data-subject-wrap]')!;
+    const ctx = form.querySelector<HTMLElement>('[data-trial-context]')!;
+    const status = form.querySelector<HTMLElement>('[data-form-status]')!;
+    const button = form.querySelector<HTMLButtonElement>('button[type="submit"]')!;
+    const tz = form.querySelector<HTMLInputElement>('#trial-timezone')!;
+    // With JavaScript the readable label travels in the hidden field; without
+    // it, the select itself (plain subject names) is submitted.
+    sSel.removeAttribute('name');
+    sVal.name = 'subject';
+    const allSubjects = [...sSel.options].map((o) => ({ value: o.value, label: o.textContent ?? '' }));
+
+    try { const zone = Intl.DateTimeFormat().resolvedOptions().timeZone; if (zone && !tz.value) tz.value = zone; } catch { /* leave empty */ }
+
+    const syncSubject = () => {
+      const isOther = sSel.value === '__other';
+      other.hidden = !isOther;
+      const course = data.courses.find((c) => c.id === sSel.value);
+      courseIn.value = course ? course.id : '';
+      sVal.value = isOther ? otherInput.value.trim() : course ? course.label : sSel.value;
+    };
+    const refill = () => {
+      const qual = q.value;
+      if (qual === 'ielts') {
+        boardWrap.hidden = true; subjectWrap.hidden = true;
+        sSel.value = ''; sVal.value = 'IELTS preparation'; courseIn.value = '';
+        return;
+      }
+      boardWrap.hidden = false; subjectWrap.hidden = false;
+      // Boards that have taught courses at this qualification (plus Not sure).
+      const boards = new Set(data.courses.filter((c) => !qual || qual === 'not-sure' || c.q === qual).map((c) => c.b));
+      [...b.options].forEach((o) => { o.hidden = o.value !== 'not-sure' && boards.size > 0 && !boards.has(o.value); });
+      if (b.selectedOptions[0]?.hidden) b.value = 'not-sure';
+      const keep = sSel.value;
+      const specific = qual && qual !== 'not-sure' && b.value !== 'not-sure';
+      sSel.replaceChildren(new Option('Choose…', ''));
+      if (specific) {
+        data.courses.filter((c) => c.q === qual && c.b === b.value).forEach((c) => sSel.append(new Option(c.label, c.id)));
+      } else {
+        const names = [...new Set(data.courses.filter((c) => !qual || qual === 'not-sure' || c.q === qual).map((c) => c.s))].sort();
+        (names.length ? names.map((n) => ({ value: n, label: n })) : allSubjects.filter((x) => x.value && x.value !== '__other')).forEach((x) => sSel.append(new Option(x.label, x.value)));
+      }
+      sSel.append(new Option('Another subject', '__other'));
+      if ([...sSel.options].some((o) => o.value === keep)) sSel.value = keep;
+      syncSubject();
+    };
+    q.addEventListener('change', refill);
+    b.addEventListener('change', refill);
+    sSel.addEventListener('change', syncSubject);
+    otherInput.addEventListener('input', syncSubject);
+
+    // ---- preselection from the URL (allow-listed values only) ----
+    const params = new URLSearchParams(window.location.search);
+    const notes: string[] = [];
+    const course = data.courses.find((c) => c.id === params.get('course'));
+    const program = params.get('program') ?? '';
+    if (course) {
+      q.value = course.q; b.value = course.b; refill(); sSel.value = course.id; syncSubject();
+      notes.push(`${course.label}`);
+    } else if (Object.prototype.hasOwnProperty.call(data.programToQual, program)) {
+      q.value = data.programToQual[program]; refill();
+    }
+    const teacher = params.get('teacher') ?? '';
+    if (Object.prototype.hasOwnProperty.call(data.teachers, teacher)) {
+      teacherIn.value = teacher;
+      notes.push(`with ${data.teachers[teacher]}`);
+    }
+    const fmt = params.get('format');
+    if (fmt === 'group' || fmt === 'one-to-one') {
+      const r = form.querySelector<HTMLInputElement>(`input[name="format"][value="${fmt}"]`);
+      if (r) r.checked = true;
+    }
+    const src = params.get('source') ?? '';
+    if (data.sources.includes(src)) sourceIn.value = src;
+    else if (teacherIn.value) sourceIn.value = 'teacher';
+    if (notes.length) {
+      ctx.textContent = `You're asking about a free trial class: ${notes.join(' ')}. You can change anything below.`;
+      ctx.hidden = false;
+    }
+    if (!course && !Object.prototype.hasOwnProperty.call(data.programToQual, program)) refill();
+
+    // ---- validation and submit ----
+    const setError = (name: string, message: string | null) => {
+      const el = form.querySelector<HTMLElement>(`[data-error-for="${name}"]`);
+      const input = name === 'subject' ? sSel : form.querySelector<HTMLElement>(`[name="${name}"]`);
+      if (el) { el.textContent = message ?? ''; el.hidden = !message; }
+      input?.setAttribute('aria-invalid', message ? 'true' : 'false');
+    };
+    const validate = (): HTMLElement | null => {
+      syncSubject();
+      const checks: [string, string | null, HTMLElement][] = [
+        ['qualification', q.value ? null : 'Please choose a qualification, or "Not sure yet".', q],
+        ['subject', q.value === 'ielts' || sVal.value ? null : 'Please choose a subject, or "Another subject".', sSel],
+        ['country', (form.querySelector<HTMLInputElement>('#trial-country')!.value.trim() ? null : 'Please tell us your country.'), form.querySelector('#trial-country')!],
+        ['name', (form.querySelector<HTMLInputElement>('#trial-name')!.value.trim() ? null : 'Please enter your name.'), form.querySelector('#trial-name')!],
+        ['email', (/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(form.querySelector<HTMLInputElement>('#trial-email')!.value.trim()) ? null : 'Please enter a valid email address.'), form.querySelector('#trial-email')!],
+      ];
+      let first: HTMLElement | null = null;
+      for (const [name, msg, el] of checks) { setError(name, msg); if (msg && !first) first = el; }
+      return first;
+    };
+
+    let sent = false;
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      if (sent) return;
+      const first = validate();
+      if (first) { first.focus(); return; }
+      availIn.value = [...form.querySelectorAll<HTMLInputElement>('[data-slot]:checked')].map((x) => x.value).join(',');
+      button.disabled = true;
+      status.className = 'text-[15px] text-ink-mute';
+      status.textContent = 'Sending…';
+      const result = await submitEnquiry('trial', new FormData(form));
+      if (result.ok) {
+        sent = true;
+        status.className = 'rounded-sm border border-[#B9D3C6] bg-[#F1F7F4] p-4 text-[15px] text-success';
+        status.textContent = 'Thank you. Your trial request has been sent. We will reply by email to confirm a teacher and a time; nothing is booked until then.';
+        // Consent-gated GA4 key event (D-003). Only structural, non-personal values.
+        (window as unknown as { gtag?: (...a: unknown[]) => void }).gtag?.('event', 'generate_lead', {
+          enquiry_kind: 'trial',
+          trial_source: sourceIn.value || 'trial-page',
+          qualification: q.value || 'none',
+          format: (form.querySelector<HTMLInputElement>('input[name="format"]:checked')?.value) ?? 'help-me-decide',
+        });
+        form.querySelectorAll<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>('input, select, textarea').forEach((i) => { i.disabled = true; });
+        status.focus?.();
+        return;
+      }
+      button.disabled = false;
+      if (result.errors) for (const [k, m] of Object.entries(result.errors)) setError(k, m);
+      status.className = 'rounded-sm border border-[#E3BDBD] bg-[#FBF2F2] p-4 text-[15px] text-error';
+      status.textContent = result.message ?? 'Your request could not be sent. Please try again, or email us.';
+    });
+
+    form.querySelector<HTMLAnchorElement>('[data-trial-whatsapp]')?.addEventListener('click', () => {
+      (window as unknown as { gtag?: (...a: unknown[]) => void }).gtag?.('event', 'whatsapp_click', { link_location: 'trial_form', page_context: 'about a free trial class' });
+    });
+  }
+</script>

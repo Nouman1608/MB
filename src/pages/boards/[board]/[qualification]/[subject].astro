@@ -31,6 +31,7 @@ import { syllabusFor } from '../../../../data/academic/syllabuses';
 import { assessmentsFor, type AssessmentComponent } from '../../../../data/academic/assessments';
 import { topicsFor, hasStages } from '../../../../data/academic/syllabus-topics';
 import { getResources } from '../../../../utils/content/collections';
+import { resourcesForCombination } from '../../../../utils/academic/combination-resources';
 import { isIndexableAcademicPage } from '../../../../utils/seo/indexability';
 import { relatedArticles } from '../../../../utils/content/related';
 import { courseNode } from '../../../../utils/schema/course';
@@ -41,6 +42,13 @@ import { enrolmentOpenFor } from '../../../../utils/content/status';
 import { routes } from '../../../../utils/urls/routes';
 import { FALLBACK_EMAIL } from '../../../../utils/forms/submit';
 import { site } from '../../../../data/site';
+import TuitionPanel from '../../../../components/sections/TuitionPanel.astro';
+import VideoSection from '../../../../components/media/VideoSection.astro';
+import { tuitionPageFor } from '../../../../data/tuition-pages';
+import { tuitionFaqs } from '../../../../utils/content/tuition';
+import { videosForCourse } from '../../../../utils/content/media';
+import { videoNodes } from '../../../../utils/schema/video';
+import { STUDY_KIND } from '../../../../utils/academic/combination-resources';
 
 export async function getStaticPaths() {
   return activeOnly().map((c) => ({
@@ -135,7 +143,6 @@ const TIER_LABEL: Record<string, string> = {
 
 // LEVEL_FOR_QUALIFICATION now lives in utils/academic (shared with
 // astro.config.mjs's sitemap indexability step -- see that file).
-const levelKey = LEVEL_FOR_QUALIFICATION[c.qualificationSlug];
 
 // The matrix's subjectSlug and the subjects content collection's id can
 // differ (e.g. matrix 'english-language' -> hub 'english') — always resolve
@@ -171,12 +178,9 @@ const allResources = await getResources();
 // e.g. AQA-specific syllabus content as relevant to OxfordAQA or Cambridge
 // students. Found via v1.0 WS7 audit: an AQA-only Sociology resource
 // (boards: ["aqa"]) was rendering on the OxfordAQA A-level Sociology page.
-const resources = allResources.filter(
-  (r) =>
-    r.data.subject.id === hubSlug &&
-    r.data.level.includes(levelKey as never) &&
-    (r.data.boards.length === 0 || r.data.boards.includes(c.boardSlug as never)),
-);
+// D-286: the filter lives in utils/academic/combination-resources.ts so the
+// revision tools and this hub cannot disagree about a combination's resources.
+const resources = resourcesForCombination(c, allResources);
 
 const study = resources.filter((r) => ['study-guides', 'revision-notes', 'subject-guides'].includes(r.data.resourceType));
 const revision = resources.filter((r) => r.data.resourceType === 'revision-notes');
@@ -262,7 +266,13 @@ const siblings = offeringsForSubject(c.subjectSlug).filter((o) => o.qualificatio
  */
 const boardQualPhrase = c.qualification.startsWith('IB ') ? c.qualification : `${c.board} ${c.qualification}`;
 const heading = `${boardQualPhrase} ${c.subject}`;
-const title = syllabus ? `${heading} (${syllabus.code})` : heading;
+// D-286: the five hubs that carry a tuition section say so in the title,
+// and keep "syllabus" -- the word these hubs are searched for (Search
+// Console baseline, 2026-09-22). Every other hub keeps its title.
+const tuitionPage = offersClasses(c) ? tuitionPageFor(c.boardSlug, c.qualificationSlug, c.subjectSlug) : undefined;
+const title = syllabus
+  ? tuitionPage ? `${heading} (${syllabus.code}) Syllabus & Online Tuition` : `${heading} (${syllabus.code})`
+  : heading;
 
 /**
  * Differentiated meta description (Aug 2026 SEO remediation, Phase 4/9).
@@ -293,7 +303,9 @@ const presentResourceTypes = [...new Set(resources.map((r) => r.data.resourceTyp
 const resourceSummary = presentResourceTypes.length > 0
   ? `${resources.length} original resource${resources.length === 1 ? '' : 's'} (${presentResourceTypes.join(', ')})`
   : 'no original Marlbridge resource yet';
-const pageDescription = `${heading}${syllabus ? ` (${syllabus.code})` : ''}: what the qualification covers, and ${resourceSummary} Marlbridge has published for it.`.replace(/\s+/g, ' ');
+const pageDescription = (tuitionPage
+  ? `${heading}${syllabus ? ` (${syllabus.code})` : ''}: syllabus topics, online tuition with named teachers and published fees, a free trial class, and ${resources.length} free resources.`
+  : `${heading}${syllabus ? ` (${syllabus.code})` : ''}: what the qualification covers, and ${resourceSummary} Marlbridge has published for it.`).replace(/\s+/g, ' ');
 
 /**
  * Indexability (Aug 2026 SEO remediation — Phase 1/2).
@@ -473,7 +485,17 @@ if (primaryAssessment) {
     });
   }
 }
-const faq = faqNode(faqs);
+// D-286: tuition FAQs join the same list, so the page emits one FAQPage
+// node that matches everything visible.
+const tuitionFaqList = tuitionPage ? tuitionFaqs(tuitionPage, `${heading}${syllabus ? ` (${syllabus.code})` : ''}`) : [];
+const faq = faqNode([...faqs, ...tuitionFaqList]);
+const courseVideos = await videosForCourse(hubSlug, c.boardSlug, c.qualificationSlug);
+// Sample material for the tuition section: one guide, one set of notes, one practice set.
+const sampleResources = tuitionPage
+  ? (['learn', 'review', 'practice'] as const)
+      .map((k) => resources.find((r) => STUDY_KIND[r.data.resourceType] === k))
+      .filter((r): r is NonNullable<typeof r> => !!r)
+  : [];
 
 const classesOffered = offersClasses(c);
 // A resources-only combination (owner decision 2026-09-21) is not an
@@ -486,6 +508,7 @@ const jsonLd = [
     authorId: 'marlbridge-academic-team',
   })] : []),
   ...(faq ? [faq] : []),
+  ...videoNodes(courseVideos),
 ];
 ---
 <PageLayout
@@ -527,7 +550,7 @@ const jsonLd = [
       <dl class="m-0 grid gap-x-8 gap-y-4 text-[15px] sm:grid-cols-2 lg:grid-cols-3">
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Qualification</dt><dd class="m-0 mt-1 text-ink">{boardQualPhrase} {c.subject}</dd></div>
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Spec code</dt><dd class="m-0 mt-1 text-ink">{syllabus?.code ?? 'Being verified'}</dd></div>
-        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Does Marlbridge teach it?</dt><dd class="m-0 mt-1 text-ink">{classesOffered ? 'Yes' : 'Not at the moment — free study resources only'}</dd></div>
+        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Does Marlbridge teach it?</dt><dd class="m-0 mt-1 text-ink">{classesOffered ? (tuitionPage ? <>Yes — <a href="#tuition" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">teachers, fees and a free trial</a></> : 'Yes') : 'Not at the moment — free study resources only'}</dd></div>
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Are resources available?</dt><dd class="m-0 mt-1 text-ink">{resources.length > 0 ? `Yes — ${resources.length} published` : 'Not yet — none published for this exact combination'}</dd></div>
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Is enrolment open?</dt><dd class="m-0 mt-1 text-ink">{!classesOffered ? 'No — classes are not currently offered in this subject' : enrolmentOpenFor('teaching') === 'enquire' ? 'Enquire to join — no online enrolment yet' : 'Not applicable'}</dd></div>
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Where was this verified?</dt><dd class="m-0 mt-1 text-ink">{syllabus ? <>{syllabus.verifiedOn}, official {c.board} specification</> : 'Not yet verified against an official source'}</dd></div>
@@ -545,6 +568,21 @@ const jsonLd = [
       </p>
     </Container>
   </Section>
+
+  {tuitionPage && (
+    <TuitionPanel
+      c={c}
+      page={tuitionPage}
+      courseLabel={`${heading}${syllabus ? ` (${syllabus.code})` : ''}`}
+      code={syllabus?.code}
+      subjectEntry={subjectEntry}
+      hubSlug={hubSlug}
+      sampleResources={sampleResources}
+      faqs={tuitionFaqList}
+      practiceHref={practiceCount > 0 ? `/practice/${syllabus!.code}/` : undefined}
+      checklistHref={syllabusTopics ? `${routes.checklists}${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}/` : undefined}
+    />
+  )}
 
   <Section surface="white">
     <Container>
@@ -856,6 +894,12 @@ const jsonLd = [
     </Container>
   </Section>
 
+  {!tuitionPage && courseVideos.length > 0 && (
+    <Section surface="white" spacing="md">
+      <Container><VideoSection videos={courseVideos} heading="Lessons" id="hub-videos" /></Container>
+    </Section>
+  )}
+
   <Section surface="ivory" labelledby="other-quals" border>
     <Container>
       <h2 id="other-quals" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">
@@ -898,8 +942,8 @@ const jsonLd = [
   {classesOffered ? (
     <CTA
       heading={`Studying ${boardQualPhrase} ${c.subject}? Tell us where the difficulty is.`}
-      buttonLabel="Find Learning Support"
-      buttonHref={routes.tutoring}
+      buttonLabel={tuitionPage ? 'Request a free trial class' : 'Find Learning Support'}
+      buttonHref={tuitionPage ? `${routes.trial}?course=${encodeURIComponent(`${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`)}&source=tuition-page` : routes.tutoring}
     />
   ) : (
     <CTA

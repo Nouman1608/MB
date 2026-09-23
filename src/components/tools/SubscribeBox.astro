@@ -1,0 +1,126 @@
+---
+/**
+ * D-286 -- the optional revision-email sign-up. Renders NOTHING while
+ * NEWSLETTER.enabled is false (src/data/newsletter.ts).
+ *
+ * When enabled: email, qualification, up to 6 subjects (from the course
+ * catalogue), an unticked consent box, Turnstile and a honeypot. The success
+ * message says "check your email to confirm" -- never "subscribed" -- because
+ * nobody is subscribed until they click the link and Resend accepts the
+ * contact (functions/api/subscribe.ts). No personal data goes to analytics:
+ * the only event, on the confirmation page, carries no address.
+ */
+import { NEWSLETTER } from '../../data/newsletter';
+import { QUALIFICATIONS } from '../../data/academic/qualifications';
+import { site } from '../../data/site';
+
+interface Props { source: string; preset?: { qualification?: string; courseId?: string } }
+const { source, preset } = Astro.props;
+const uid = `sub-${source}`;
+---
+{NEWSLETTER.enabled && (
+  <section aria-labelledby={`${uid}-h`} class="rounded-sm border border-rule bg-ivory p-[clamp(18px,2.4vw,28px)]" data-subscribe-box data-preset-course={preset?.courseId ?? ''}>
+    <h2 id={`${uid}-h`} class="m-0 text-[18px] font-semibold text-navy-800">Get free revision emails (optional)</h2>
+    <p class="m-0 mt-1 max-w-[62ch] text-[14.5px] text-ink-mute">{NEWSLETTER.promise} The free tools on this site never need an email.</p>
+    <form class="mt-4 grid gap-4 sm:grid-cols-2" novalidate method="post" action="/api/subscribe" data-subscribe-form>
+      <div aria-hidden="true" class="absolute -left-[9999px] h-px w-px overflow-hidden"><label for={`${uid}-web`}>Website</label><input id={`${uid}-web`} name="website" tabindex={-1} autocomplete="off" /></div>
+      <input type="hidden" name="source" value={source} />
+      <div class="grid gap-1.5">
+        <label for={`${uid}-email`} class="text-[14px] font-medium">Email</label>
+        <input id={`${uid}-email`} name="email" type="email" required autocomplete="email" class="min-h-11 rounded-sm border border-rule bg-white px-3 text-[15px]" aria-describedby={`${uid}-email-err`} />
+        <p id={`${uid}-email-err`} class="m-0 text-[13.5px] text-error" hidden data-err="email"></p>
+      </div>
+      <div class="grid gap-1.5">
+        <label for={`${uid}-q`} class="text-[14px] font-medium">Qualification</label>
+        <select id={`${uid}-q`} name="qualification" required class="min-h-11 rounded-sm border border-rule bg-white px-3 text-[15px]" aria-describedby={`${uid}-q-err`}>
+          <option value="">Choose…</option>
+          {QUALIFICATIONS.map((q) => <option value={q.slug} selected={preset?.qualification === q.slug}>{q.name}</option>)}
+        </select>
+        <p id={`${uid}-q-err`} class="m-0 text-[13.5px] text-error" hidden data-err="qualification"></p>
+      </div>
+      <fieldset class="m-0 border-0 p-0 sm:col-span-2">
+        <legend class="mb-1.5 p-0 text-[14px] font-medium">Subjects <span class="font-normal text-ink-mute">(optional, up to 6)</span></legend>
+        <div class="grid gap-1.5 sm:grid-cols-2" data-subscribe-courses><p class="m-0 text-[13.5px] text-ink-mute">Choose a qualification to see its subjects.</p></div>
+      </fieldset>
+      <label class="flex items-start gap-2.5 text-[14px] sm:col-span-2">
+        <input type="checkbox" name="consent" value="yes" required class="mt-0.5 h-5 w-5 shrink-0" aria-describedby={`${uid}-c-err`} />
+        <span>I agree to receive Marlbridge revision emails. I can unsubscribe at any time. See the <a href="/legal/privacy/" class="underline decoration-gold-500 underline-offset-2">Privacy Policy</a>.</span>
+      </label>
+      <p id={`${uid}-c-err`} class="m-0 -mt-2 text-[13.5px] text-error sm:col-span-2" hidden data-err="consent"></p>
+      {site.turnstile.siteKey && <div class="sm:col-span-2"><div class="cf-turnstile" data-sitekey={site.turnstile.siteKey}></div></div>}
+      <div class="sm:col-span-2">
+        <button type="submit" class="min-h-11 rounded-sm bg-navy-800 px-6 text-[15px] font-medium text-ivory hover:bg-navy-700 disabled:opacity-60">Send me a confirmation email</button>
+      </div>
+      <p role="status" aria-live="polite" class="m-0 text-[14.5px] sm:col-span-2" data-subscribe-status></p>
+    </form>
+  </section>
+)}
+{NEWSLETTER.enabled && site.turnstile.siteKey && <script is:inline async defer src="https://challenges.cloudflare.com/turnstile/v0/api.js"></script>}
+{NEWSLETTER.enabled && (
+  <script>
+    import { loadCatalogue, courseLabel } from '../../scripts/catalogue-client';
+    document.querySelectorAll<HTMLElement>('[data-subscribe-box]').forEach((box) => {
+      const form = box.querySelector<HTMLFormElement>('[data-subscribe-form]')!;
+      const q = form.querySelector<HTMLSelectElement>('select[name="qualification"]')!;
+      const courses = form.querySelector<HTMLElement>('[data-subscribe-courses]')!;
+      const status = form.querySelector<HTMLElement>('[data-subscribe-status]')!;
+      const button = form.querySelector<HTMLButtonElement>('button[type="submit"]')!;
+      const preset = box.dataset.presetCourse ?? '';
+      const renderCourses = async () => {
+        courses.replaceChildren();
+        if (!q.value) return;
+        const list = (await loadCatalogue()).filter((e) => e.qs === q.value);
+        for (const e of list) {
+          const lab = document.createElement('label');
+          lab.className = 'flex min-h-9 items-center gap-2 text-[14px]';
+          const cb = document.createElement('input');
+          cb.type = 'checkbox'; cb.name = 'courses'; cb.value = e.id; cb.className = 'h-4 w-4';
+          cb.checked = e.id === preset;
+          lab.append(cb, document.createTextNode(courseLabel(e)));
+          courses.append(lab);
+        }
+      };
+      q.addEventListener('change', renderCourses);
+      if (q.value) void renderCourses();
+      form.addEventListener('submit', async (ev) => {
+        ev.preventDefault();
+        form.querySelectorAll<HTMLElement>('[data-err]').forEach((p) => { p.hidden = true; });
+        const fd = new FormData(form);
+        const errs: Record<string, string> = {};
+        const email = String(fd.get('email') ?? '');
+        if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) errs.email = 'Please enter a valid email address.';
+        if (!fd.get('qualification')) errs.qualification = 'Please choose your qualification.';
+        if (fd.get('consent') !== 'yes') errs.consent = 'Please tick the box to agree to receive these emails.';
+        if (fd.getAll('courses').length > 6) errs.consent = 'Choose up to 6 subjects.';
+        const show = (map: Record<string, string>) => {
+          for (const [k, m] of Object.entries(map)) {
+            const p = form.querySelector<HTMLElement>(`[data-err="${k}"]`);
+            if (p) { p.textContent = m; p.hidden = false; }
+          }
+        };
+        if (Object.keys(errs).length) { show(errs); return; }
+        button.disabled = true;
+        status.className = 'm-0 text-[14.5px] text-ink-mute sm:col-span-2';
+        status.textContent = 'Sending…';
+        try {
+          const res = await fetch('/api/subscribe', { method: 'POST', body: fd, headers: { Accept: 'application/json' } });
+          const body = await res.json().catch(() => ({}));
+          if (res.ok && body.ok) {
+            status.className = 'm-0 rounded-sm border border-[#B9D3C6] bg-[#F1F7F4] p-3 text-[14.5px] text-success sm:col-span-2';
+            status.textContent = 'Nearly done: check your inbox and click the confirmation link. You are not subscribed until you do.';
+            form.reset();
+          } else {
+            if (body.errors) show(body.errors);
+            status.className = 'm-0 rounded-sm border border-[#E3BDBD] bg-[#FBF2F2] p-3 text-[14.5px] text-error sm:col-span-2';
+            status.textContent = body.message ?? 'Something went wrong. Please try again later.';
+          }
+        } catch {
+          status.className = 'm-0 rounded-sm border border-[#E3BDBD] bg-[#FBF2F2] p-3 text-[14.5px] text-error sm:col-span-2';
+          status.textContent = 'We could not reach the server. Please check your connection.';
+        } finally {
+          button.disabled = false;
+        }
+      });
+    });
+  </script>
+)}

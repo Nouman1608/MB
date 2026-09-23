@@ -1,0 +1,10 @@
+---
+/**
+ * D-286 -- shown when a confirmation or unsubscribe link cannot be
+ * completed (expired, altered, or the email service did not accept it).
+ * Says plainly that nothing changed. Noindexed.
+ */
+import PageLayout from '../../../layouts/PageLayout.astro';
+import { FALLBACK_EMAIL } from '../../../utils/forms/submit';
+---
+<PageLayout noindex title="Link Could Not Be Completed" description="This Marlbridge email link could not be completed. It may have expired. Nothing has been changed; you can try again or email us." path="/subscribe/error/" heading="That link didn't work." lead={`Nothing has been changed. The link may have expired (confirmation links last 48 hours) or been copied incompletely. Sign up again from any resource page, or email ${FALLBACK_EMAIL} and we'll sort it out.`} />

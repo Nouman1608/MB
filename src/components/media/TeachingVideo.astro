@@ -1,0 +1,90 @@
+---
+/**
+ * D-286 -- one short teaching video, accessible and consent-respecting.
+ *
+ * Nothing is loaded from YouTube until the visitor presses Play: the page
+ * shows a plain, same-origin placeholder (no thumbnail request, no iframe,
+ * no cookies). Pressing Play is the visitor's choice to load the video from
+ * youtube-nocookie.com (YouTube's privacy-enhanced mode), and the button
+ * says so. Keyboard: the placeholder is a real <button>. The transcript is
+ * always on the page, so the lesson is usable without the video at all.
+ */
+import type { CollectionEntry } from 'astro:content';
+import { getEntry, render } from 'astro:content';
+import { routes } from '../../utils/urls/routes';
+import { isDraft } from '../../utils/content/media';
+
+interface Props { video: CollectionEntry<'videos'>; headingLevel?: 'h3' | 'h4' }
+const { video, headingLevel = 'h3' } = Astro.props;
+const d = video.data;
+const teacher = await getEntry(d.teacher);
+const H = headingLevel;
+const minutes = d.durationSeconds ? Math.max(1, Math.round(d.durationSeconds / 60)) : undefined;
+const { Content } = await render(video);
+const hasTranscript = (video.body ?? '').trim().length > 0;
+---
+<article class="rounded-sm border border-rule bg-white" data-teaching-video>
+  {isDraft(video) && <p class="m-0 border-b border-rule bg-[#fff4d6] px-4 py-2 text-[13px] font-medium text-[#6b4b00]">DRAFT — not published</p>}
+  <div class="relative aspect-video w-full overflow-hidden bg-navy-800" data-video-frame>
+    {d.youtubeId ? (
+      <button
+        type="button"
+        data-video-play={d.youtubeId}
+        data-video-title={d.title}
+        class="group absolute inset-0 flex h-full w-full flex-col items-center justify-center gap-3 p-4 text-center text-ivory focus-visible:outline-offset-[-4px]"
+      >
+        <span aria-hidden="true" class="flex h-16 w-16 items-center justify-center rounded-full bg-gold-500 text-navy-900 transition-transform group-hover:scale-105">
+          <svg viewBox="0 0 24 24" width="28" height="28" fill="currentColor"><path d="M8 5v14l11-7z" /></svg>
+        </span>
+        <span class="text-[15px] font-medium">Play video: {d.title}</span>
+        <span class="text-[12.5px] text-on-navy-mute">Loads from YouTube (privacy-enhanced mode){minutes ? ` · about ${minutes} min` : ''}</span>
+      </button>
+    ) : (
+      <p class="absolute inset-0 m-0 flex items-center justify-center p-4 text-center text-[14px] text-on-navy">Recording not yet uploaded.</p>
+    )}
+  </div>
+  <div class="p-[clamp(16px,2vw,24px)]">
+    <H class="m-0 text-[17px] font-semibold tracking-[-0.01em] text-navy-800">{d.title}</H>
+    <p class="m-0 mt-1 text-[14px] text-ink-mute">
+      {teacher && <>Taught by <a href={routes.author(teacher.id)} class="underline decoration-gold-500 underline-offset-2">{teacher.data.name}</a></>}
+      {d.syllabusCodes.length > 0 && <> · Syllabus {d.syllabusCodes.join(', ')}</>}
+      {d.youtubeId && <> · {d.captionsChecked ? 'Checked captions on YouTube' : 'YouTube auto-captions only'}</>}
+    </p>
+    <p class="m-0 mt-2 text-[15px] leading-[1.6] text-ink">{d.summary}</p>
+    {d.practiceLinks.length > 0 && (
+      <p class="m-0 mt-3 text-[14px]">
+        Practise next: {d.practiceLinks.map((l, i) => <>{i > 0 && ' · '}<a href={l.href} class="underline decoration-gold-500 underline-offset-2">{l.label}</a></>)}
+      </p>
+    )}
+    {hasTranscript && (
+      <details class="mt-3 text-[14.5px]">
+        <summary class="min-h-11 cursor-pointer py-2 font-medium text-navy-800">Transcript</summary>
+        <div class="prose-transcript text-ink"><Content /></div>
+      </details>
+    )}
+    {d.youtubeId && (
+      <p class="m-0 mt-2 text-[13px] text-ink-mute"><a href={`https://www.youtube.com/watch?v=${d.youtubeId}`} rel="noopener" target="_blank" class="underline decoration-rule underline-offset-2">Watch on YouTube</a></p>
+    )}
+  </div>
+</article>
+
+<script>
+  document.addEventListener('click', (e) => {
+    const btn = (e.target as Element | null)?.closest?.('[data-video-play]') as HTMLButtonElement | null;
+    if (!btn) return;
+    const id = btn.dataset.videoPlay ?? '';
+    if (!/^[A-Za-z0-9_-]{11}$/.test(id)) return;
+    const frame = document.createElement('iframe');
+    frame.src = `https://www.youtube-nocookie.com/embed/${id}?autoplay=1&rel=0`;
+    frame.title = btn.dataset.videoTitle ?? 'Teaching video';
+    frame.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+    frame.allowFullscreen = true;
+    frame.loading = 'lazy';
+    frame.className = 'absolute inset-0 h-full w-full border-0';
+    btn.replaceWith(frame);
+    frame.focus();
+    try {
+      (window as unknown as { mbTrack?: (n: string, p: Record<string, unknown>) => void }).mbTrack?.('teaching_video_play', { video_id: id });
+    } catch { /* analytics never blocks playback */ }
+  });
+</script>

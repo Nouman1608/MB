@@ -11,7 +11,7 @@
     "check": "astro check",
     "generate:redirects": "node scripts/generate-redirects.mjs",
     "generate:llms": "node scripts/generate-llms-txt.mjs",
-    "validate:academic": "node scripts/validate-academic-matrix.mjs && node scripts/validate-academic-content.mjs && node scripts/validate-commercial-claims.mjs && node scripts/validate-cross-board-integrity.mjs && node --experimental-strip-types scripts/validate-pricing-consistency.mjs && node scripts/validate-review-integrity.mjs && node scripts/validate-pinned-teachers.mjs && node scripts/validate-worker-bindings.mjs && node scripts/validate-as-level-display.mjs && node --experimental-strip-types scripts/validate-fx-policy.mjs && node --experimental-strip-types scripts/validate-assessments.mjs && node --experimental-strip-types scripts/validate-grade-thresholds.mjs && node --experimental-strip-types scripts/validate-practice-bank.mjs && node --experimental-strip-types scripts/validate-practice-question-schema.mjs",
+    "validate:academic": "node scripts/validate-academic-matrix.mjs && node scripts/validate-academic-content.mjs && node scripts/validate-commercial-claims.mjs && node scripts/validate-cross-board-integrity.mjs && node --experimental-strip-types scripts/validate-pricing-consistency.mjs && node scripts/validate-review-integrity.mjs && node scripts/validate-pinned-teachers.mjs && node scripts/validate-worker-bindings.mjs && node scripts/validate-as-level-display.mjs && node --experimental-strip-types scripts/validate-fx-policy.mjs && node --experimental-strip-types scripts/validate-assessments.mjs && node --experimental-strip-types scripts/validate-grade-thresholds.mjs && node --experimental-strip-types scripts/validate-practice-bank.mjs && node --experimental-strip-types scripts/validate-practice-question-schema.mjs && node --experimental-strip-types scripts/validate-diagnostics.mjs",
     "validate:assessments": "node --experimental-strip-types scripts/validate-assessments.mjs",
     "validate:fx-policy": "node --experimental-strip-types scripts/validate-fx-policy.mjs",
     "validate:grade-thresholds": "node --experimental-strip-types scripts/validate-grade-thresholds.mjs",
@@ -40,7 +40,9 @@
     "postbuild": "pagefind --site dist --output-subdir pagefind",
     "growth:gsc": "node scripts/growth/gsc-opportunity-report.mjs",
     "growth:practice-report": "node scripts/growth/practice-analytics-report.mjs",
-    "test:practice-analytics": "node scripts/test-practice-analytics.mjs"
+    "test:practice-analytics": "node scripts/test-practice-analytics.mjs",
+    "validate:diagnostics": "node --experimental-strip-types scripts/validate-diagnostics.mjs",
+    "test:tools": "node --experimental-strip-types --test src/scripts/__tests__/planner-engine.test.mjs functions/api/__tests__/signup-endpoints.test.mjs functions/api/__tests__/enquiry-validation.test.mjs"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.10",

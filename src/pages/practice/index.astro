@@ -23,6 +23,7 @@ import { practiceQuestionsForCode } from '../../utils/practice/bank.ts';
 import { syllabusFor } from '../../data/academic/syllabuses.ts';
 import { routes } from '../../utils/urls/routes';
 import CTA from '../../components/ui/CTA.astro';
+import { DIAGNOSTIC_SETS, diagnosticPath } from '../../data/diagnostics.ts';
 
 const path = '/practice/';
 const specs = flagshipSpecs().map((f) => {
@@ -36,10 +37,12 @@ const specs = flagshipSpecs().map((f) => {
 });
 const available = specs.filter((s) => s.questionCount > 0);
 const notYetAvailable = specs.filter((s) => s.questionCount === 0);
+// D-286: the 10-minute diagnostics, listed first -- the quickest way in.
+const diagnostics = DIAGNOSTIC_SETS.map((d) => ({ ...d, spec: specs.find((s) => s.code === d.code)! }));
 ---
 <PageLayout
-  title="Free Practice Questions — Self-Check Study Tool"
-  description="Self-check practice sessions for Cambridge IGCSE Chemistry, Physics, Mathematics and A Level Chemistry, Physics — attempt real exam-style questions, reveal the worked answer, and track your own weak topics. No account required."
+  title="Free Practice Questions & 10-Minute Diagnostics"
+  description="Free 10-minute diagnostics and self-check practice for Cambridge IGCSE and A Level Chemistry, Physics and Mathematics: worked answers, weak-topic tracking, no account."
   path={path}
   eyebrow="Free tool"
   heading="Practice"
@@ -51,6 +54,20 @@ const notYetAvailable = specs.filter((s) => s.questionCount === 0);
 >
   <Section surface="white">
     <Container>
+      <h2 class="m-0 mb-2 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Test my knowledge: 10-minute diagnostics</h2>
+      <p class="m-0 mb-5 max-w-[68ch] text-[15px] text-ink-mute">Six short questions across a syllabus, then worked answers and a list of topics to practise. You mark yourself; it is a study check, not a predicted grade.</p>
+      <ul class="m-0 mb-12 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
+        {diagnostics.map((d) => (
+          <li class="m-0">
+            <a href={diagnosticPath(d)} class="flex h-full flex-col gap-2 rounded-sm border border-gold-500 bg-ivory p-[clamp(20px,2vw,26px)] transition-colors hover:bg-white">
+              <span class="font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600">{d.spec.combination.board} {d.spec.combination.qualification} · {d.code}</span>
+              <span class="text-[18px] font-semibold text-navy-800">{d.spec.combination.subject}</span>
+              <span class="text-[14px] text-ink-mute">{d.scopeLabel} · about {d.minutes} min</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+      <h2 class="m-0 mb-5 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Self-check practice</h2>
       <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
         {available.map((s) => (
           <a
@@ -105,8 +122,8 @@ const notYetAvailable = specs.filter((s) => s.questionCount === 0);
   <CTA
     surface="ivory"
     heading="Marked a topic as weak more than once? A teacher can work through it with you directly."
-    buttonLabel="Find Learning Support"
-    buttonHref={routes.tutoring}
+    buttonLabel="Request a free trial class"
+    buttonHref="/trial/?source=practice"
   />
 
 </PageLayout>

@@ -20,6 +20,10 @@ import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import CTA from '../../components/ui/CTA.astro';
+import FAQ from '../../components/ui/FAQ.astro';
+import { faqNode } from '../../utils/schema/faq';
+import { activeOnly, taughtOnly } from '../../utils/academic';
+import { site } from '../../data/site';
 import { routes } from '../../utils/urls/routes';
 import { BOARDS } from '../../data/academic/boards';
 import {
@@ -31,6 +35,37 @@ const path = '/pakistan/';
 const pkGroup = REGION_PRICING.find((r) => r.region === 'Pakistan')!;
 const pkOneToOne = ONE_TO_ONE_PRICING.find((r) => r.region === 'Pakistan')!;
 const offeredBoards = BOARDS.filter((b) => b.status === 'offered');
+
+/**
+ * D-286 -- how to study with Marlbridge in Pakistan and the questions
+ * Pakistani families ask, from facts already held here: the academy's
+ * address (site.about, owner-confirmed 2026-09-21), pricing.ts, the matrix.
+ */
+const published = activeOnly().length;
+const taught = taughtOnly().length;
+const faqs = [
+  {
+    question: 'Where is the academy?',
+    answer: `In-person classes are at the academy: ${site.about.address}. Students elsewhere in Pakistan are taught live online.`,
+  },
+  {
+    question: 'Can I study online from another city in Pakistan?',
+    answer: 'Yes. Online classes are live and priced the same as in person. Class times are agreed with you before the first class.',
+  },
+  {
+    question: 'How do I pay, and when?',
+    answer: `Payment is by ${PRICING_TERMS.paymentMethods.join(' or ')}. ${PRICING_TERMS.billing} ${PRICING_TERMS.enrolmentFee}`,
+  },
+  {
+    question: 'Are there discounts for more than one subject or for siblings?',
+    answer: `Yes, for group classes: ${PRICING_TERMS.multiSubjectDiscount.percentOff}% off for ${PRICING_TERMS.multiSubjectDiscount.minSubjects} or more subjects, and ${PRICING_TERMS.siblingDiscount.percentOff}% off for up to ${PRICING_TERMS.siblingDiscount.maxSiblings} siblings enrolled at the same time. They can combine; the full terms are on the pricing page.`,
+  },
+  {
+    question: 'Do you offer classes in every subject listed on this site?',
+    answer: `Classes are offered in ${taught} of the ${published} published combinations; the others have free study resources only, and each syllabus page says which.`,
+  },
+];
+const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
 ---
 <PageLayout
   title="Marlbridge in Pakistan — Boards, Pricing & Free Trial"
@@ -40,6 +75,7 @@ const offeredBoards = BOARDS.filter((b) => b.status === 'offered');
   heading="Marlbridge in Pakistan"
   lead="Pakistan is where Marlbridge's live teaching operates, through Learners Academy, in group and one-to-one formats. There are exceptions: OCR is not offered by Learners Academy directly, IB is taught one-to-one only, and SAT preparation is not yet offered. Pakistan is the only region with a confirmed IB rate."
   breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Pakistan', href: path }]}
+  jsonLd={jsonLd}
 >
   <Section surface="white">
     <Container>
@@ -115,10 +151,19 @@ const offeredBoards = BOARDS.filter((b) => b.status === 'offered');
     </Container>
   </Section>
 
+  <Section surface="ivory" border>
+    <Container>
+      <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">In person in Lahore, or online anywhere in Pakistan</h2>
+      <p class="m-0 mb-8 max-w-[70ch] text-[15.5px] leading-[1.65] text-ink-mute">In-person classes are at the academy, {site.about.address}. Everywhere else in Pakistan, classes are live online. Either way, class times are agreed with you before the first class.</p>
+      <h3 class="m-0 mb-5 text-[20px] font-semibold text-navy-800">Questions from families in Pakistan</h3>
+      <FAQ items={faqs} id="pakistan-faqs" />
+    </Container>
+  </Section>
+
   <CTA
     surface="ivory"
     heading="Ready to see how a class works? Request a free trial and we'll confirm a teacher and a time by email."
     buttonLabel="Request a Free Trial"
-    buttonHref={routes.trial}
+    buttonHref={`${routes.trial}?source=region`}
   />
 </PageLayout>

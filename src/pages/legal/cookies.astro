@@ -4,7 +4,7 @@ import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import { FALLBACK_EMAIL } from '../../utils/forms/submit';
 const mailto = 'mailto:' + FALLBACK_EMAIL;
-const lastUpdated = '22 September 2026';
+const lastUpdated = '23 September 2026';
 ---
 <PageLayout
   translationKey="legal-cookies"
@@ -89,7 +89,7 @@ const lastUpdated = '22 September 2026';
 
         <h2>Storage in your browser</h2>
         <p>
-          Two features keep small amounts of information in your browser's local storage. Local storage is not a
+          A few features keep small amounts of information in your browser's local storage. Local storage is not a
           cookie: it stays in this browser on this device and is not sent to our server with each page request.
         </p>
         <ul>
@@ -97,10 +97,24 @@ const lastUpdated = '22 September 2026';
             is not shown again on every page. "Cookie Settings" in the footer removes it and shows the banner again.</li>
           <li><code>mb-practice-</code> followed by a syllabus code (for example <code>mb-practice-0620</code>) --
             your progress on that practice page: for each question you mark, whether you marked it correct, when,
-            and whether the timer was on. "Reset my progress" on the practice page clears the saved answers.</li>
+            and whether the timer was on. "Reset my progress" on the practice page clears the saved answers.
+            The 10-minute diagnostics add their questions to the same record.</li>
+          <li><code>mb-diagnostic-</code> followed by a syllabus code -- the marks you gave yourself per topic in
+            that syllabus's 10-minute diagnostic, so the revision planner can use them if you ask it to. Your typed
+            answers are never saved.</li>
+          <li><code>mb-revision-planner-v1</code> -- the subjects, exam dates, topic ratings, study times and plan
+            you made in the revision planner. "Delete saved plan" on the planner removes it.</li>
         </ul>
         <p>
-          Clearing this site's data in your browser settings removes both.
+          None of this is sent to Marlbridge or put in a link. Clearing this site's data in your browser settings
+          removes all of it.
+        </p>
+
+        <h2>Teaching videos</h2>
+        <p>
+          Where a page has a teaching video, nothing is loaded from YouTube until you press Play. Pressing Play loads
+          the video from youtube-nocookie.com (YouTube's privacy-enhanced mode), under Google's own privacy policy;
+          YouTube may then store information in your browser while the video plays.
         </p>
 
         <h2>Fonts</h2>

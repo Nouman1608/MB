@@ -1,0 +1,183 @@
+---
+/**
+ * D-286 -- the tuition section added to five academic hubs (see
+ * src/data/tuition-pages.ts for which, and why). Placed directly under the
+ * hub's "at a glance" box so a family reading the syllabus page can see
+ * who teaches it, how classes run and what they cost without leaving.
+ *
+ * Sources: teachers -- utils/content/subject-teachers.ts (sourced profiles);
+ * fees and formats -- src/data/pricing.ts only (group = per subject per
+ * month, one-to-one = per class, never blended); topics --
+ * syllabus-topics.ts; results -- learners-academy-evidence.ts, shown only
+ * where the evidence is for this subject and always labelled as Learners
+ * Academy's, not Marlbridge's. Lesson videos appear only once a real,
+ * published one exists for this course.
+ */
+import type { Combination } from '../../utils/academic';
+import type { TuitionPage } from '../../data/tuition-pages';
+import VideoSection from '../media/VideoSection.astro';
+import FAQ from '../ui/FAQ.astro';
+import { teachersForSubjectTitle } from '../../utils/content/subject-teachers';
+import { REGION_PRICING, ONE_TO_ONE_PRICING, PRICING_TERMS, ONE_TO_ONE_TERMS, formatFee, feeFor, QUALIFICATION_TIER, PRICING_VERIFIED_DATE } from '../../data/pricing';
+import { LA_EVIDENCE } from '../../data/learners-academy-evidence';
+import { topicsFor } from '../../data/academic/syllabus-topics';
+import { DIAGNOSTIC_SETS, diagnosticPath } from '../../data/diagnostics';
+import { videosForCourse } from '../../utils/content/media';
+import { routes } from '../../utils/urls/routes';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  c: Combination;
+  page: TuitionPage;
+  courseLabel: string;
+  code?: string;
+  subjectEntry?: CollectionEntry<'subjects'>;
+  hubSlug: string;
+  sampleResources: CollectionEntry<'resources'>[];
+  faqs: { question: string; answer: string }[];
+  practiceHref?: string;
+  checklistHref?: string;
+}
+const { c, page, courseLabel, code, subjectEntry, hubSlug, sampleResources, faqs, practiceHref, checklistHref } = Astro.props;
+const teachers = await teachersForSubjectTitle(subjectEntry?.data.title, 6);
+const tier = QUALIFICATION_TIER[c.qualificationSlug] ?? 'igcse';
+const topics = topicsFor(c.boardSlug, c.qualificationSlug, c.subjectSlug)?.topics ?? [];
+const diags = DIAGNOSTIC_SETS.filter((d) => d.boardSlug === c.boardSlug && d.qualificationSlug === c.qualificationSlug && d.subjectSlug === c.subjectSlug);
+const videos = await videosForCourse(hubSlug, c.boardSlug, c.qualificationSlug);
+const courseId = `${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`;
+const trialHref = `${routes.trial}?course=${encodeURIComponent(courseId)}&source=tuition-page`;
+// Learners Academy evidence only where it is about this subject.
+const subjectWord = subjectEntry?.data.title ?? c.subject;
+const testimonials = page.showLearnersAcademyEvidence
+  ? LA_EVIDENCE.testimonials.filter((t) => t.result.toLowerCase().includes(subjectWord.toLowerCase().replace(' studies', '')))
+  : [];
+const h3 = 'm-0 mb-3 text-[18px] font-semibold tracking-[-0.01em] text-navy-800';
+---
+<section id="tuition" aria-labelledby="tuition-heading" class="scroll-mt-24 border-t border-rule bg-white py-[clamp(48px,6vw,88px)]">
+  <div class="mx-auto max-w-[var(--container-site)] px-[var(--spacing-gutter)]">
+    <p class="m-0 mb-3 text-xs font-medium uppercase tracking-[0.2em] text-gold-600">Tuition</p>
+    <h2 id="tuition-heading" class="m-0 max-w-[30ch] font-display text-[clamp(1.75rem,1.35rem+1.5vw,2.5rem)] font-normal leading-[1.12] tracking-[-0.02em] text-navy-800">Online tuition for {courseLabel}</h2>
+    <p class="m-0 mt-4 max-w-[68ch] text-[17px] leading-[1.65] text-ink-mute">{page.audience}</p>
+    <div class="mt-6 flex flex-wrap items-center gap-4">
+      <a href={trialHref} data-cta="tuition-page-trial" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-6 py-3 text-[15px] font-medium text-ivory hover:bg-navy-700">Request a free trial class</a>
+      <span class="text-[14px] text-ink-mute">{PRICING_TERMS.enquiryResponse.short} A request, not a booking.</span>
+    </div>
+
+    <div class="mt-12 grid gap-10 lg:grid-cols-2">
+      <div>
+        <h3 class={h3}>Who teaches it</h3>
+        {teachers.length > 0 ? (
+          <ul class="m-0 grid list-none gap-3 p-0">
+            {teachers.map((t) => (
+              <li class="m-0 flex flex-wrap items-center justify-between gap-3 rounded-sm border border-rule bg-white p-3">
+                <a href={routes.author(t.id)} class="flex items-center gap-3 hover:text-gold-600">
+                  {t.data.image ? <img src={t.data.image} alt="" width="44" height="44" loading="lazy" decoding="async" class="h-11 w-11 rounded-full object-cover" /> : <span aria-hidden="true" class="h-11 w-11 rounded-full border border-rule bg-ivory"></span>}
+                  <span>
+                    <span class="block text-[15.5px] font-semibold text-navy-800">{t.data.name}</span>
+                    <span class="block text-[13.5px] text-ink-mute">{t.data.role}{t.data.yearsExperience !== undefined && ` · ${t.data.yearsExperience} years teaching`}</span>
+                  </span>
+                </a>
+                <a href={`${routes.trial}?course=${encodeURIComponent(courseId)}&teacher=${t.id}&source=tuition-page`} class="text-[14px] font-medium text-navy-800 underline decoration-gold-500 underline-offset-2">Ask for {t.data.name.split(' ')[0]}</a>
+              </li>
+            ))}
+          </ul>
+        ) : <p class="m-0 text-[15px] text-ink-mute">Taught by the Marlbridge {subjectWord} team.</p>}
+        <p class="m-0 mt-3 text-[13.5px] text-ink-mute">Experience is as stated on each teacher's published profile. We confirm which teacher is available before a class is scheduled.</p>
+      </div>
+      <div>
+        <h3 class={h3}>How classes run</h3>
+        <p class="m-0 text-[15.5px] leading-[1.65] text-ink">{page.approach}</p>
+        <dl class="m-0 mt-4 grid gap-3 text-[15px]">
+          <div><dt class="font-semibold text-navy-800">Group classes</dt><dd class="m-0 text-ink-mute">{PRICING_TERMS.classFormat.group} Up to {PRICING_TERMS.maxGroupSize} students.</dd></div>
+          <div><dt class="font-semibold text-navy-800">One-to-one</dt><dd class="m-0 text-ink-mute">{PRICING_TERMS.classFormat.oneToOne}</dd></div>
+          <div><dt class="font-semibold text-navy-800">Where and when</dt><dd class="m-0 text-ink-mute">Live online wherever you are, or in person at the academy in Lahore. Class times are agreed with you before the first class, in your own time zone; there is no fixed public timetable.</dd></div>
+        </dl>
+      </div>
+    </div>
+
+    <div class="mt-12">
+      <h3 class={h3}>Fees</h3>
+      <p class="m-0 mb-4 max-w-[70ch] text-[15px] text-ink-mute"><strong class="text-ink">Group fees are per subject, per month. One-to-one fees are per class.</strong> {PRICING_TERMS.freeTrial} {PRICING_TERMS.billing}</p>
+      <div class="overflow-x-auto">
+        <table class="w-full min-w-[520px] border-collapse text-left text-[14.5px]">
+          <caption class="sr-only">{courseLabel} tuition fees by region</caption>
+          <thead><tr class="border-b border-rule text-[12.5px] uppercase tracking-[0.06em] text-ink-mute"><th scope="col" class="py-2 pe-4 font-medium">Region</th><th scope="col" class="py-2 pe-4 font-medium">Group, per subject per month</th><th scope="col" class="py-2 font-medium">One-to-one, per class</th></tr></thead>
+          <tbody>
+            {REGION_PRICING.map((r) => {
+              const one = ONE_TO_ONE_PRICING.find((o) => o.region === r.region);
+              return (
+                <tr class="border-b border-rule">
+                  <th scope="row" class="py-2 pe-4 font-medium text-ink">{r.region}</th>
+                  <td class="py-2 pe-4">{formatFee(feeFor(r, tier), r.currency)} {r.currency}</td>
+                  <td class="py-2">{one ? `${formatFee(feeFor(one, tier), one.currency)} ${one.currency}${one.region === 'Pakistan' ? '' : '*'}` : 'Enquire'}</td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+      <p class="m-0 mt-3 text-[13px] leading-[1.6] text-ink-mute">* {ONE_TO_ONE_TERMS.conversionNote} Group rates last confirmed {PRICING_VERIFIED_DATE}. {PRICING_TERMS.notPermanentNote.replace(' The date below is when they were last confirmed.', '')} Discounts and every term: <a href={routes.pricing} class="underline decoration-gold-500 underline-offset-2">pricing page</a>.</p>
+    </div>
+
+    {topics.length > 0 && (
+      <div class="mt-12">
+        <h3 class={h3}>Topics covered</h3>
+        <p class="m-0 mb-3 text-[15px] text-ink-mute">Classes are taught against the {code ?? ''} syllabus, which has these topics:</p>
+        <ol class="m-0 grid gap-x-8 gap-y-1 ps-5 text-[15px] sm:grid-cols-2 lg:grid-cols-3">
+          {topics.map((t) => <li>{t.name}{t.stage === 'A' ? ' (A Level)' : t.stage === 'AS' ? ' (AS)' : ''}</li>)}
+        </ol>
+      </div>
+    )}
+
+    <div class="mt-12 grid gap-10 lg:grid-cols-2">
+      {sampleResources.length > 0 && (
+        <div>
+          <h3 class={h3}>Sample material</h3>
+          <p class="m-0 mb-3 text-[15px] text-ink-mute">Free Marlbridge material for this syllabus, so you can see how topics are explained.</p>
+          <ul class="m-0 grid list-none gap-2 p-0">
+            {sampleResources.map((r) => <li class="m-0"><a href={routes.resource(r.id)} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{r.data.title}</a></li>)}
+          </ul>
+        </div>
+      )}
+      <div>
+        <h3 class={h3}>Free tools for this syllabus</h3>
+        <ul class="m-0 grid list-none gap-2 p-0 text-[15px]">
+          {diags.map((d) => <li class="m-0"><a href={diagnosticPath(d)} class="underline decoration-gold-500 underline-offset-2">10-minute diagnostic: {d.scopeLabel}</a></li>)}
+          {practiceHref && <li class="m-0"><a href={practiceHref} class="underline decoration-gold-500 underline-offset-2">Self-check practice questions</a></li>}
+          {checklistHref && <li class="m-0"><a href={checklistHref} class="underline decoration-gold-500 underline-offset-2">Printable syllabus checklist</a></li>}
+          <li class="m-0"><a href={`/revision-planner/?course=${encodeURIComponent(courseId)}`} class="underline decoration-gold-500 underline-offset-2">Make a revision plan</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <VideoSection videos={videos} heading="Sample lessons" id="tuition-videos" />
+
+    {testimonials.length > 0 && (
+      <div class="mt-12 rounded-sm border border-rule bg-ivory p-[clamp(18px,2.4vw,28px)]">
+        <h3 class={h3}>{LA_EVIDENCE.sourceName} results in {subjectWord}</h3>
+        <p class="m-0 mb-4 max-w-[70ch] text-[14.5px] leading-[1.6] text-ink-mute">These are {LA_EVIDENCE.sourceName}'s results from {LA_EVIDENCE.season}, not Marlbridge's own. Marlbridge is the international branch of {LA_EVIDENCE.sourceName}, and the same teachers teach under the Marlbridge name. {LA_EVIDENCE.subjectNote} The source does not record the exam board for each grade.</p>
+        <ul class="m-0 grid list-none gap-4 p-0 md:grid-cols-2">
+          {testimonials.map((t) => (
+            <li class="m-0">
+              <figure class="m-0 h-full rounded-sm border border-rule bg-white p-4">
+                <blockquote class="m-0 text-[15px] leading-[1.6]">&ldquo;{t.quote}&rdquo;</blockquote>
+                <figcaption class="mt-3 text-[13.5px] text-ink-mute"><span class="font-semibold text-navy-800">{t.attribution}</span> · {t.result} · {LA_EVIDENCE.sourceName}</figcaption>
+              </figure>
+            </li>
+          ))}
+        </ul>
+        <p class="m-0 mt-3 text-[13px] text-ink-mute">Published by {LA_EVIDENCE.sourceName} at <a href={LA_EVIDENCE.sourceUrl} rel="noopener" target="_blank" class="underline decoration-gold-500 underline-offset-2">{LA_EVIDENCE.sourceUrl.replace('https://', '')}</a>, read on {LA_EVIDENCE.verifiedOn}. Students are shown by first name and initial.</p>
+      </div>
+    )}
+
+    <div class="mt-12">
+      <h3 class={h3}>Questions from parents and students</h3>
+      <FAQ items={faqs} id="tuition-faqs" />
+    </div>
+
+    <div class="mt-10 flex flex-wrap items-center gap-4 border-t border-rule pt-8">
+      <a href={trialHref} data-cta="tuition-page-trial-bottom" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-6 py-3 text-[15px] font-medium text-ivory hover:bg-navy-700">Request a free trial class</a>
+      <a href={routes.pricing} class="text-[15px] font-medium text-navy-800 underline decoration-gold-500 underline-offset-4">All fees and terms</a>
+    </div>
+  </div>
+</section>

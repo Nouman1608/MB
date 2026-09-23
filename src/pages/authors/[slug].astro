@@ -12,6 +12,9 @@ import { getAuthors } from '../../utils/content/collections';
 import { articlesByAuthor, resourcesByAuthor } from '../../utils/content/related';
 import { personNode, organizationEntityNode } from '../../utils/schema/person';
 import { routes } from '../../utils/urls/routes';
+import VideoSection from '../../components/media/VideoSection.astro';
+import { videosForTeacher } from '../../utils/content/media';
+import { videoNodes } from '../../utils/schema/video';
 
 export async function getStaticPaths() {
   const authors = await getAuthors();
@@ -26,6 +29,8 @@ const path = routes.author(author.id);
 
 const articles = await articlesByAuthor(author.id);
 const resources = await resourcesByAuthor(author.id);
+/* D-286 -- this teacher's published lessons; renders nothing while there are none. */
+const videos = await videosForTeacher(author.id);
 
 /**
  * Conversion & Trust round (2026-09-06, D-149).
@@ -63,6 +68,7 @@ const jsonLd = [
   d.entityType === 'organization'
     ? organizationEntityNode({ path, name: d.name, jobTitle: d.role, bio: d.bio })
     : personNode({ path, name: d.name, jobTitle: d.role, bio: d.bio, image: d.image }),
+  ...videoNodes(videos),
 ];
 ---
 <PageLayout
@@ -147,10 +153,10 @@ const jsonLd = [
         <section aria-labelledby="teacher-trial" class="mt-8 border-t border-rule pt-8">
           <h2 id="teacher-trial" class="m-0 text-[19px] font-semibold tracking-[-0.015em] text-navy-800">Study with {d.name.split(' ')[0]}</h2>
           <p class="m-0 mt-3 max-w-[62ch] text-[16.5px] leading-[1.65] text-ink-mute">
-            {PRICING_TERMS.freeTrial} Name the subject and level in your message and we will confirm which specialist is available — we cannot guarantee a specific teacher in advance, but we will tell you who it is before the class is scheduled. {PRICING_TERMS.enquiryResponse.summary}
+            {PRICING_TERMS.freeTrial} Your request will say you asked for {d.name.split(' ')[0]}. We will tell you honestly whether {d.name.split(' ')[0]} has room at your level and time — we cannot guarantee a specific teacher in advance, but we will tell you who it is before the class is scheduled. {PRICING_TERMS.enquiryResponse.summary}
           </p>
           <div class="mt-6 flex flex-wrap items-center gap-4">
-            <Button href={routes.trial} variant="primary" data-cta="teacher-trial">Request a free trial</Button>
+            <Button href={`${routes.trial}?teacher=${author.id}&source=teacher`} variant="primary" data-cta="teacher-trial">Request a free trial with {d.name.split(' ')[0]}</Button>
             <Button href={routes.tutoring} variant="quiet">See all teachers</Button>
           </div>
         </section>
@@ -158,6 +164,7 @@ const jsonLd = [
     </Container>
 
     <Container>
+      <VideoSection videos={videos} heading={`Lessons by ${d.name}`} id="teacher-videos" />
       {isPerson && (articles.length > 0 || resources.length > 0) && (
         <p class="mt-[clamp(48px,6vw,72px)] border-t border-rule pt-8 text-[15px] text-ink-mute">
           Published for Marlbridge by {d.name} — free to read whether or not you study with us.

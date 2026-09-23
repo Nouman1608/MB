@@ -1,0 +1,25 @@
+---
+/**
+ * D-286 -- landing page after a successful double opt-in. The Worker
+ * redirects here ONLY after Resend accepted the contact
+ * (functions/api/subscribe.ts). `?s=1` marks that redirect; the page sends
+ * one analytics event with no personal data, then removes the flag from the
+ * address bar so a reload or bookmark does not count again. Noindexed.
+ */
+import PageLayout from '../../../layouts/PageLayout.astro';
+import Section from '../../../components/layout/Section.astro';
+import Container from '../../../components/layout/Container.astro';
+---
+<PageLayout noindex title="Subscription Confirmed" description="Your Marlbridge revision emails subscription is confirmed. You can unsubscribe from any email." path="/subscribe/confirmed/" heading="You're subscribed." lead="Thank you for confirming. We've sent a short email with your own unsubscribe link, and every revision email will have one too.">
+  <Section surface="white" spacing="md"><Container>
+    <p class="m-0 text-[16px]">While you wait for the first one: <a href="/revision-planner/" class="underline decoration-gold-500 underline-offset-2">make a revision plan</a> or <a href="/practice/" class="underline decoration-gold-500 underline-offset-2">test your knowledge</a>.</p>
+  </Container></Section>
+</PageLayout>
+<script>
+  const url = new URL(window.location.href);
+  if (url.searchParams.get('s') === '1') {
+    try { (window as unknown as { mbTrack?: (n: string, p: Record<string, unknown>) => void }).mbTrack?.('newsletter_subscribe_confirmed', {}); } catch { /* ignore */ }
+    url.searchParams.delete('s');
+    history.replaceState(null, '', url.pathname);
+  }
+</script>

@@ -1,0 +1,211 @@
+---
+/**
+ * D-286 -- /practice/{code}/diagnostic/{set}/: a 10-minute study diagnostic.
+ *
+ * Built on the existing self-check engine rather than beside it:
+ *   - the questions are a fixed selection (src/data/diagnostics.ts) from the
+ *     same published practice bank /practice/{code}/ serves;
+ *   - marks are self-assessed against the bank's own worked answers, and
+ *     every question says so -- no automatic marking is claimed, because the
+ *     answers are prose mark schemes, not machine-checkable values;
+ *   - results are written into the same browser storage as the practice
+ *     page (mb-practice-{code}), so anything the student gets wrong appears
+ *     in that page's weak-topic list and error notebook.
+ *
+ * The result is described as a limited study diagnostic, never a predicted
+ * grade. Nothing the student types is saved or sent: typed answers live
+ * only in the page until it is closed. Analytics receives a completion
+ * event with the course code, set, question count and a duration bucket --
+ * no marks, answers or topics (see docs/growth/measurement-guide.md).
+ */
+import PageLayout from '../../../../layouts/PageLayout.astro';
+import Section from '../../../../components/layout/Section.astro';
+import Container from '../../../../components/layout/Container.astro';
+import SubscribeBox from '../../../../components/tools/SubscribeBox.astro';
+import { DIAGNOSTIC_SETS, diagnosticPath, diagnosticsForCode, type DiagnosticSet } from '../../../../data/diagnostics';
+import { flagshipSpecs, academicHubPath } from '../../../../utils/academic';
+import { syllabusFor } from '../../../../data/academic/syllabuses';
+import { topicsFor } from '../../../../data/academic/syllabus-topics';
+import { buildClientQuestions } from '../../../../utils/practice/client-questions';
+import { getResources } from '../../../../utils/content/collections';
+import { resourcesForCombination, STUDY_KIND, type StudyKind } from '../../../../utils/academic/combination-resources';
+import { getEntry } from 'astro:content';
+import { routes } from '../../../../utils/urls/routes';
+
+export function getStaticPaths() {
+  return DIAGNOSTIC_SETS.map((set) => ({ params: { code: set.code, set: set.slug }, props: { set } }));
+}
+
+const { set } = Astro.props as { set: DiagnosticSet };
+const spec = flagshipSpecs().find((f) => f.code === set.code)!;
+const c = spec.combination;
+const syllabus = syllabusFor(c.boardSlug, c.qualificationSlug, c.subjectSlug);
+const topicRecord = topicsFor(c.boardSlug, c.qualificationSlug, c.subjectSlug);
+const courseTitle = syllabus?.officialTitle ?? `${c.board} ${c.qualification} ${c.subject} (${set.code})`;
+const path = diagnosticPath(set);
+const hub = academicHubPath(c);
+const courseId = `${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`;
+
+const bank = buildClientQuestions(spec);
+const questions = set.questionIds.map((id) => {
+  const q = bank.find((x) => x.id === id);
+  if (!q) throw new Error(`Diagnostic ${set.code}/${set.slug}: question ${id} is not in the practice bank`);
+  const topicSlug = q.topics[0]?.key.split('/')[0] ?? 'general';
+  const topicName = topicRecord?.topics.find((t) => t.slug === topicSlug)?.name ?? (q.topics[0]?.label.split(' — ')[0] ?? 'General');
+  return { id: q.id, qHtml: q.qHtml, aHtml: q.aHtml, marks: q.marks, topicSlug, topicName, source: `/resources/${q.resourceSlug}/`, sourceTitle: q.resourceTitle };
+});
+const totalMarks = questions.reduce((n, q) => n + q.marks, 0);
+
+// Recommendations per sampled topic: resources for this course that map to
+// the SAME subtopics as the question (falling back to the topic), plus the
+// question's own practice set -- so a miss on proton number points to atomic
+// structure notes, not to whatever else shares the broad topic.
+const courseResources = resourcesForCombination(c, await getResources());
+const recs = Object.fromEntries(questions.map((q) => {
+  const bankQ = bank.find((x) => x.id === q.id)!;
+  const subs = new Set(bankQ.topics.map((t) => t.key));
+  const mapsTo = (r: (typeof courseResources)[number], exact: boolean) => r.data.syllabusTopics.some((m) =>
+    m.qualification === c.qualificationSlug && m.topic === q.topicSlug && (!exact || (m.subtopic && subs.has(`${m.topic}/${m.subtopic}`))));
+  const pick = (k: StudyKind) =>
+    courseResources.find((r) => STUDY_KIND[r.data.resourceType] === k && mapsTo(r, true)) ??
+    courseResources.find((r) => STUDY_KIND[r.data.resourceType] === k && mapsTo(r, false));
+  const own = courseResources.find((r) => `/resources/${r.id}/` === q.source);
+  const list = [pick('learn'), pick('review'), own ?? pick('practice')].filter((r): r is NonNullable<typeof r> => !!r);
+  return [q.topicSlug, list.map((r) => ({ t: r.data.title, u: routes.resource(r.id), k: STUDY_KIND[r.data.resourceType] }))];
+}));
+
+// Who wrote the source questions (their own resource bylines; never a guessed person).
+const authorSlugs = [...new Set(await Promise.all(questions.map(async (q) => {
+  const r = await getEntry('resources', q.source.split('/')[2]);
+  return r?.data.author?.id ?? 'marlbridge-academic-team';
+})))];
+const authors = (await Promise.all(authorSlugs.map((s) => getEntry('authors', s)))).filter(Boolean);
+const reviewer = set.setReview ? await getEntry('authors', set.setReview.reviewerSlug) : undefined;
+const otherSets = diagnosticsForCode(set.code).filter((s) => s.slug !== set.slug);
+
+// '<' escaped so no question text can ever close the JSON script element.
+const payload = JSON.stringify({ code: set.code, set: set.slug, courseId, questions, recs, minutes: set.minutes }).replace(/</g, '\\u003c');
+const trialHref = `/trial/?course=${encodeURIComponent(courseId)}&source=diagnostic`;
+---
+<PageLayout
+  title={`${c.qualification} ${c.subject} (${set.code}) 10-Minute Diagnostic${set.slug === 'core' ? '' : ` — ${set.slug === 'as' ? 'AS' : 'A Level'} Topics`}`}
+  description={`Free 10-minute study check for ${courseTitle}, ${set.scopeLabel.replace(/ \(.*\)$/, '')}: ${questions.length} questions, worked answers and topics to practise next. Not a predicted grade.`}
+  path={path}
+  eyebrow={`Free diagnostic · ${c.board} ${c.qualification} · ${set.code}`}
+  heading={`${c.subject}: 10-minute diagnostic`}
+  lead={`${set.scopeLabel}. ${questions.length} short questions, about ${set.minutes} minutes. Answer them first, then mark yourself against the worked answers and see which topics to practise next.`}
+  breadcrumbs={[
+    { label: 'Home', href: routes.home },
+    { label: 'Practice', href: '/practice/' },
+    { label: `${c.subject} (${set.code})`, href: `/practice/${set.code}/` },
+    { label: 'Diagnostic', href: path },
+  ]}
+>
+  <Section surface="white" spacing="md">
+    <Container>
+      <script type="application/json" id="diag-data" set:html={payload} />
+
+      <div id="diag-intro" class="grid gap-8 lg:grid-cols-[1.3fr_1fr]">
+        <div>
+          <dl class="m-0 grid gap-x-8 gap-y-4 rounded-sm border border-rule bg-ivory p-[clamp(18px,2.4vw,28px)] text-[15px] sm:grid-cols-2">
+            <div><dt class="font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Qualification</dt><dd class="m-0 mt-1">{courseTitle}</dd></div>
+            <div><dt class="font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Exam board and syllabus</dt><dd class="m-0 mt-1">{c.board} · syllabus {set.code}{topicRecord ? ` (${topicRecord.syllabusSeries})` : ''}</dd></div>
+            <div><dt class="font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">What it covers</dt><dd class="m-0 mt-1">{set.scopeLabel}: {[...new Set(questions.map((q) => q.topicName))].join(', ')}</dd></div>
+            <div><dt class="font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Length</dt><dd class="m-0 mt-1">{questions.length} questions, {totalMarks} marks, about {set.minutes} minutes</dd></div>
+            <div class="sm:col-span-2"><dt class="font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Who it is for</dt><dd class="m-0 mt-1">{set.audience}</dd></div>
+          </dl>
+          <button type="button" id="diag-start" class="mt-6 inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-7 py-3.5 text-[15px] font-medium text-ivory transition-colors hover:bg-navy-700">Start the diagnostic</button>
+          <noscript><p class="m-0 mt-4 text-[14.5px] text-ink-mute">This diagnostic needs JavaScript. The same questions are in the <a href={`/practice/${set.code}/`} class="underline decoration-gold-500 underline-offset-2">practice questions for {set.code}</a>.</p></noscript>
+          {otherSets.length > 0 && (
+            <p class="m-0 mt-4 text-[14.5px] text-ink-mute">Also available: {otherSets.map((o, i) => <>{i > 0 && ', '}<a href={diagnosticPath(o)} class="underline decoration-gold-500 underline-offset-2">{o.scopeLabel}</a></>)}.</p>
+          )}
+        </div>
+        <aside class="text-[14.5px] leading-[1.6] text-ink-mute">
+          <h2 class="m-0 mb-2 text-[16px] font-semibold text-navy-800">How this works</h2>
+          <ol class="m-0 grid gap-2 pl-5">
+            <li>Answer each question on paper or in the box. Your typed answers stay on this page only.</li>
+            <li>Then see the worked answers and <strong class="text-ink">mark yourself</strong>. These questions are self-assessed: nothing is marked automatically.</li>
+            <li>Get a list of topics to practise, with links to the notes and questions for each one.</li>
+          </ol>
+          <p class="m-0 mt-4"><strong class="text-ink">This is a short study check, not a predicted grade.</strong> One question per topic shows where to look first. It cannot measure a whole topic or forecast an exam result.</p>
+          <p class="m-0 mt-4">The questions come from Marlbridge's published <a href={`/practice/${set.code}/`} class="underline decoration-gold-500 underline-offset-2">{set.code} practice questions</a>, written by {authors.map((a, i) => <>{i > 0 && (i === authors.length - 1 ? ' and ' : ', ')}<a href={routes.author(a!.id)} class="underline decoration-gold-500 underline-offset-2">{a!.data.name}</a></>)}.
+            {reviewer
+              ? <> This set was reviewed by <a href={routes.author(reviewer.id)} class="underline decoration-gold-500 underline-offset-2">{reviewer.data.name}</a> on {set.setReview!.reviewedOn}.</>
+              : <> This selection has not yet been reviewed as a set by a subject teacher.</>}
+            {' '}<a href={routes.reportCorrection} class="underline decoration-gold-500 underline-offset-2">Report an error</a>.</p>
+        </aside>
+      </div>
+
+      <div id="diag-attempt" hidden>
+        <div class="mb-4 flex flex-wrap items-center justify-between gap-3 text-[13.5px]">
+          <p class="m-0 font-medium text-navy-800" id="diag-progress"></p>
+          <p class="m-0 text-ink-mute">Time: <span id="diag-timer" class="font-mono">0:00</span> <span class="text-ink-mute">(about {set.minutes} min)</span></p>
+        </div>
+        <article class="rounded-sm border border-rule bg-white p-[clamp(20px,3vw,34px)]" aria-labelledby="diag-qlabel">
+          <p id="diag-qlabel" class="m-0 mb-3 text-[12px] font-medium uppercase tracking-[0.1em] text-gold-600"></p>
+          <div id="diag-question" class="diag-prose text-[16.5px] leading-[1.65] text-ink"></div>
+          <label for="diag-answer" class="mt-5 block text-[14px] font-medium">Your answer <span class="font-normal text-ink-mute">(optional — or write on paper; not saved)</span></label>
+          <textarea id="diag-answer" rows="4" class="mt-1.5 w-full rounded-sm border border-rule px-3 py-2 text-[15.5px]"></textarea>
+          <div class="mt-5 flex flex-wrap gap-3">
+            <button type="button" id="diag-prev" class="min-h-11 rounded-sm border border-rule bg-white px-5 text-[14.5px] font-medium hover:border-gold-500">← Previous</button>
+            <button type="button" id="diag-next" class="min-h-11 rounded-sm bg-navy-800 px-5 text-[14.5px] font-medium text-ivory hover:bg-navy-700">Next question →</button>
+          </div>
+        </article>
+      </div>
+
+      <div id="diag-mark" hidden>
+        <h2 tabindex="-1" id="diag-mark-heading" class="m-0 mb-2 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Mark your answers</h2>
+        <p class="m-0 mb-6 max-w-[68ch] text-[15px] text-ink-mute">Compare each answer with the worked answer and choose the marks you would honestly award. <strong class="text-ink">These marks are self-assessed.</strong> Each mark point is shown in square brackets, like [1].</p>
+        <ol id="diag-mark-list" class="m-0 grid list-none gap-5 p-0"></ol>
+        <div id="diag-mark-error" role="alert" class="mt-4 hidden rounded-sm border border-[#E3BDBD] bg-[#FBF2F2] p-4 text-[15px] text-error"></div>
+        <button type="button" id="diag-finish" class="mt-6 inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-7 py-3.5 text-[15px] font-medium text-ivory hover:bg-navy-700">See my results</button>
+      </div>
+
+      <div id="diag-results" hidden>
+        <h2 tabindex="-1" id="diag-results-heading" class="m-0 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Your results</h2>
+        <p id="diag-total" class="m-0 mt-2 text-[15.5px] text-ink"></p>
+        <p class="m-0 mt-2 max-w-[70ch] text-[14px] text-ink-mute">A limited study diagnostic from your own marking of {questions.length} questions — one per topic. It shows where to look first. It is not a predicted grade.</p>
+        <div class="mt-6 grid gap-6 lg:grid-cols-[1.4fr_1fr]">
+          <div>
+            <h3 class="m-0 mb-3 text-[17px] font-semibold text-navy-800">Topics</h3>
+            <ul id="diag-topic-list" class="m-0 grid list-none gap-3 p-0"></ul>
+          </div>
+          <div class="grid content-start gap-4">
+            <div class="rounded-sm border border-rule bg-ivory p-5">
+              <h3 class="m-0 mb-2 text-[17px] font-semibold text-navy-800">Your next study session</h3>
+              <p id="diag-next-session" class="m-0 text-[15px] text-ink"></p>
+              <div class="mt-4 flex flex-wrap gap-2.5">
+                <a id="diag-plan-link" href={`/revision-planner/?course=${encodeURIComponent(courseId)}&from=diagnostic`} class="inline-flex min-h-11 items-center rounded-sm bg-navy-800 px-5 text-[14.5px] font-medium text-ivory hover:bg-navy-700">Make my revision plan</a>
+                <a href={`/practice/${set.code}/`} class="inline-flex min-h-11 items-center rounded-sm border border-rule bg-white px-5 text-[14.5px] font-medium hover:border-gold-500">Practise more {set.code} questions</a>
+              </div>
+            </div>
+            <div class="rounded-sm border border-rule bg-white p-5">
+              <p class="m-0 text-[15px] text-ink">Want help with these topics? Request a free class with a {c.subject} teacher.</p>
+              <a href={trialHref} data-cta="diagnostic-trial" class="mt-3 inline-flex min-h-11 items-center text-[14.5px] font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">Request a free trial class</a>
+              <p class="m-0 mt-2 text-[13px] text-ink-mute">Optional. This sends a request, not a booking. Your results are not sent with it.</p>
+            </div>
+          </div>
+        </div>
+        <h3 class="m-0 mb-3 mt-10 text-[17px] font-semibold text-navy-800">Worked answers</h3>
+        <ol id="diag-review" class="m-0 grid list-none gap-4 p-0"></ol>
+        <div class="mt-8 flex flex-wrap gap-3">
+          <button type="button" id="diag-restart" class="min-h-11 rounded-sm border border-rule bg-white px-5 text-[14.5px] font-medium hover:border-gold-500">Take it again</button>
+          <a href={hub} class="inline-flex min-h-11 items-center rounded-sm px-2 text-[14.5px] font-medium text-navy-800 underline decoration-gold-500 underline-offset-2">All {set.code} notes and topics</a>
+        </div>
+        <div class="mt-10">
+          <SubscribeBox source="diagnostic" preset={{ qualification: c.qualificationSlug, courseId }} />
+        </div>
+      </div>
+    </Container>
+  </Section>
+</PageLayout>
+
+<script>
+  import '../../../../scripts/diagnostic-ui';
+</script>
+
+<style>
+  .diag-prose :global(p) { margin: 0 0 0.9em 0; }
+  .diag-prose :global(p:last-child) { margin-bottom: 0; }
+  .diag-prose :global(code) { background: var(--color-ivory); padding: 0.1em 0.35em; border-radius: 3px; font-size: 0.92em; }
+</style>

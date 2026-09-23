@@ -319,4 +319,76 @@ const pages = defineCollection({
   }),
 });
 
-export const collections = { programs, subjects, resources, articles, authors, pages };
+
+/**
+ * D-286 -- short teaching videos. A video is attached to resources, a
+ * syllabus hub and a teacher profile through its own fields, so a future
+ * YouTube lesson is connected to the site by adding ONE file here -- no
+ * template change. Only `publicationState: published` entries with a real
+ * `youtubeId` render anywhere; every public video section stays hidden
+ * while none exist. Never invent a recording, a YouTube id or a transcript.
+ */
+const videos = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/videos' }),
+  schema: z.object({
+    title: z.string().max(110),
+    /** One or two sentences: what the lesson teaches. */
+    summary: z.string().max(300),
+    teacher: reference('authors'),
+    subject: reference('subjects'),
+    boards: z.array(boardSlug).default([]),
+    qualifications: z.array(qualificationSlug).default([]),
+    syllabusCodes: z.array(z.string()).default([]),
+    /** Topic slugs from src/data/academic/syllabus-topics.ts. */
+    topics: z.array(z.string()).default([]),
+    /** The 11-character YouTube video id. Empty until the lesson is actually uploaded. */
+    youtubeId: z.string().regex(/^[A-Za-z0-9_-]{11}$/).optional(),
+    durationSeconds: z.number().int().positive().optional(),
+    uploadDate: z.coerce.date().optional(),
+    /** True only when YouTube has human-checked captions for it (not just auto-captions). */
+    captionsChecked: z.boolean().default(false),
+    /** Where the video appears. */
+    relatedResources: z.array(reference('resources')).default([]),
+    /** Extra practice to try after watching (internal paths, e.g. /practice/0620/). */
+    practiceLinks: z.array(z.object({ label: z.string(), href: z.string().startsWith('/') })).default([]),
+    publicationState: z.enum(['draft', 'published']).default('draft'),
+  }),
+});
+
+/**
+ * D-286 -- live revision workshops. Nothing is public unless
+ * `publicationState: published`; a draft example lives in
+ * src/content/workshops/ to show the format and is never built into the
+ * public site (see src/utils/content/workshops.ts for the preview flag).
+ * `startsAt` must carry an explicit offset (e.g. 2026-11-07T15:00:00Z or
+ * +05:00) so the time is unambiguous.
+ */
+const workshops = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/workshops' }),
+  schema: z.object({
+    title: z.string().max(110),
+    summary: z.string().max(300),
+    topic: z.string(),
+    subject: reference('subjects'),
+    boards: z.array(boardSlug).default([]),
+    qualifications: z.array(qualificationSlug).default([]),
+    syllabusCodes: z.array(z.string()).default([]),
+    teacher: reference('authors'),
+    startsAt: z.string().regex(/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}(:\d{2})?(Z|[+-]\d{2}:\d{2})$/, 'startsAt needs a date, time and explicit offset'),
+    durationMinutes: z.number().int().min(15).max(240),
+    /** Where it runs, as the student will experience it (e.g. "Online, Google Meet"). */
+    format: z.string(),
+    audience: z.string(),
+    registration: z.object({
+      status: z.enum(['open', 'closed', 'full']),
+      capacity: z.number().int().positive().optional(),
+    }),
+    status: z.enum(['scheduled', 'cancelled', 'completed']).default('scheduled'),
+    relatedResources: z.array(reference('resources')).default([]),
+    /** After the event: a published video entry holding the recording (and its transcript). */
+    recording: reference('videos').optional(),
+    publicationState: z.enum(['draft', 'published']).default('draft'),
+  }),
+});
+
+export const collections = { programs, subjects, resources, articles, authors, pages, videos, workshops };

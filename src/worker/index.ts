@@ -33,6 +33,8 @@ import {
 } from '../../functions/api/admin/search-demand.ts';
 import { runGscRefresh, type D1Database } from '../../functions/_lib/gsc-refresh.ts';
 import { applyConsentRegion } from './consent-region.ts';
+import { onSubscribePost, onSubscribeConfirm, onUnsubscribe } from '../../functions/api/subscribe.ts';
+import { onWorkshopRegisterPost } from '../../functions/api/workshop-register.ts';
 
 /**
  * Minimal local binding types. Deliberately hand-written rather than adding
@@ -54,6 +56,10 @@ interface Env {
    * d1_databases entry and functions/_lib/gsc-refresh.ts.
    */
   DB?: D1Database;
+  /** D-286 -- revision emails (newsletter). Not set yet: the endpoint fails closed (503). */
+  RESEND_CONTACTS_API_KEY?: string;
+  SUBSCRIBE_SIGNING_SECRET?: string;
+  RESEND_NEWSLETTER_SEGMENT_ID?: string;
 }
 
 /**
@@ -87,6 +93,13 @@ const ENQUIRY_PATH = '/api/enquiry';
  * lesson is applied to SEARCH_DEMAND_PATH instead, not repeated.
  */
 const SEARCH_DEMAND_PATH = '/api/admin/search-demand';
+
+/** D-286 -- every new function route needs an explicit entry here (see D-124). */
+const METHOD_NOT_ALLOWED = () => new Response(
+  JSON.stringify({ ok: false, message: 'Method not allowed.' }),
+  { status: 405, headers: { 'Content-Type': 'application/json', 'Cache-Control': 'no-store' } },
+);
+const stripSlash = (p: string) => (p.length > 1 && p.endsWith('/') ? p.slice(0, -1) : p);
 
 /**
  * v1.x CLOSURE WS3 -- www.marlbridge.com -> marlbridge.com, 301, single hop.
@@ -140,6 +153,21 @@ export default {
         JSON.stringify({ ok: false, message: 'Method not allowed.' }),
         { status: 405, headers: { 'Content-Type': 'application/json', 'Cache-Control': 'no-store' } },
       );
+    }
+
+    const route = stripSlash(pathname);
+    if (route === '/api/subscribe') {
+      return request.method === 'POST' ? onSubscribePost({ request, env }) : METHOD_NOT_ALLOWED();
+    }
+    if (route === '/api/subscribe/confirm') {
+      return request.method === 'GET' ? onSubscribeConfirm({ request, env }) : METHOD_NOT_ALLOWED();
+    }
+    if (route === '/api/subscribe/unsubscribe') {
+      // POST is the RFC 8058 one-click unsubscribe used by mail clients.
+      return request.method === 'GET' || request.method === 'POST' ? onUnsubscribe({ request, env }) : METHOD_NOT_ALLOWED();
+    }
+    if (route === '/api/workshop-register') {
+      return request.method === 'POST' ? onWorkshopRegisterPost({ request, env }) : METHOD_NOT_ALLOWED();
     }
 
     // D-280 -- mark HTML pages for visitors outside the UK/Europe so

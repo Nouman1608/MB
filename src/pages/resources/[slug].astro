@@ -16,6 +16,10 @@ import { syllabusFor } from '../../data/academic/syllabuses';
 import { PRICING_TERMS } from '../../data/pricing';
 import { LEVEL_FOR_QUALIFICATION } from '../../utils/academic';
 import { teachersForSubjectTitle } from '../../utils/content/subject-teachers';
+import ResourceNextSteps from '../../components/tools/ResourceNextSteps.astro';
+import VideoSection from '../../components/media/VideoSection.astro';
+import { videosForResource } from '../../utils/content/media';
+import { videoNodes } from '../../utils/schema/video';
 
 export async function getStaticPaths() {
   const resources = await getResources();
@@ -32,6 +36,8 @@ const subject = await getEntry(d.subject);
 const author = d.author ? await getEntry(d.author) : undefined;
 /* D-283 -- real teachers of this subject, shown as teachers (not authors). */
 const subjectTeachers = await teachersForSubjectTitle(subject?.data.title);
+/* D-286 -- lessons linked to this resource; the section renders nothing while there are none. */
+const videos = await videosForResource(resource.id);
 const meta = resourceCategoryMeta[d.resourceType];
 const levels = resourceLevelLabel(d.level, d.stage, d.qualifications);
 
@@ -57,7 +63,7 @@ const resourceLevels = Array.isArray(d.level) ? d.level : [d.level];
 const programSlug = resourceLevels
   .map((l) => (typeof l === 'string' ? (LEVEL_FOR_QUALIFICATION[l] ?? l) : undefined))
   .find((l) => l && KNOWN_PROGRAM_SLUGS.has(l));
-const trialHref = programSlug ? `${routes.trial}?program=${programSlug}` : routes.trial;
+const trialHref = programSlug ? `${routes.trial}?program=${programSlug}&source=resource` : `${routes.trial}?source=resource`;
 const studyLabel = [subject?.data.title, levels].filter(Boolean).join(' ');
 
 /**
@@ -172,7 +178,7 @@ const jsonLd = [articleNode({
   ...(genuinelyReviewed
     ? { editorName: reviewerEntry!.data.name, editorEntityType: reviewerEntry!.data.entityType }
     : {}),
-})];
+}), ...videoNodes(videos)];
 ---
 <PageLayout
   title={d.seoTitle ?? d.title}
@@ -247,6 +253,8 @@ const jsonLd = [articleNode({
         <Content />
       </div>
 
+      <VideoSection videos={videos} heading="Watch the lesson" id="resource-videos" />
+
       {(siblings.prev || siblings.next) && (
         <nav aria-label="Topic sequence" class="mt-12 grid gap-4 border-t border-rule pt-6 sm:grid-cols-2">
           {siblings.prev && (
@@ -263,6 +271,8 @@ const jsonLd = [articleNode({
           )}
         </nav>
       )}
+
+      <ResourceNextSteps resource={resource} />
 
       {alsoResources.length > 0 && (
         <RelatedGrid id="also-resources" title="Related resources">

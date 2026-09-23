@@ -59,6 +59,10 @@ const faqs = [
     answer: `${formatFee(uk.igcse, uk.currency)} ${uk.currency} per subject per month for a GCSE, IGCSE or O Level group class and ${formatFee(uk.aLevel, uk.currency)} ${uk.currency} at AS/A Level; one-to-one classes are ${formatFee(ukOneToOne.igcse, ukOneToOne.currency)}–${formatFee(ukOneToOne.aLevel, ukOneToOne.currency)} ${ukOneToOne.currency} per class. The group rates are set for the UK; the one-to-one rates are currency conversions of the Pakistan one-to-one rate, not a separately set UK price. The first class is free.`,
   },
   {
+    question: 'Is there a UK centre I can visit?',
+    answer: 'No. Marlbridge has no office or teaching centre in the UK. UK students are taught live online; the only in-person teaching is at the academy in Lahore, Pakistan.',
+  },
+  {
     question: 'Who teaches the classes?',
     answer: 'Named subject specialists whose profiles are published on this site, each teaching from the official specification for the board the student is entered with. You know who is teaching before the first class.',
   },
@@ -203,6 +207,6 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
   <CTA
     heading="Ready to try a live online class from the UK? Request a free trial and we'll confirm a teacher and an evening or weekend time by email."
     buttonLabel="Request a Free Trial"
-    buttonHref={routes.trial}
+    buttonHref={`${routes.trial}?source=region`}
   />
 </PageLayout>
