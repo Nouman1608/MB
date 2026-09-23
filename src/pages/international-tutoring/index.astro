@@ -113,7 +113,7 @@ const faq = faqNode(faqs);
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Boards</dt><dd class="m-0 mt-1 text-ink">{boards.map((b) => b.name).join(', ')}</dd></div>
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Formats</dt><dd class="m-0 mt-1 text-ink">Small group (up to {PRICING_TERMS.maxGroupSize}) or one-to-one; IB one-to-one only</dd></div>
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Class length</dt><dd class="m-0 mt-1 text-ink">Group: {PRICING_TERMS.classFormat.group} One-to-one: {PRICING_TERMS.classFormat.oneToOne}</dd></div>
-        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">First step</dt><dd class="m-0 mt-1 text-ink">{PRICING_TERMS.freeTrial} <a href={routes.trial} class="underline decoration-gold-500 underline-offset-2">Request it</a></dd></div>
+        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">First step</dt><dd class="m-0 mt-1 text-ink">{PRICING_TERMS.freeTrial} <a href={`${routes.trial}?source=region`} class="underline decoration-gold-500 underline-offset-2">Request it</a></dd></div>
       </dl>
     </Container>
   </Section>
@@ -134,7 +134,7 @@ const faq = faqNode(faqs);
           </li>
         ))}
         <li class="m-0">
-          <a href={routes.trial} data-cta="intl-other-country-trial" class="flex h-full flex-col gap-2 rounded-sm border border-dashed border-rule bg-ivory p-5 hover:border-gold-500">
+          <a href={`${routes.trial}?source=region`} data-cta="intl-other-country-trial" class="flex h-full flex-col gap-2 rounded-sm border border-dashed border-rule bg-ivory p-5 hover:border-gold-500">
             <span class="text-[17px] font-semibold text-navy-800">Anywhere else</span>
             <span class="text-[14px] leading-[1.55] text-ink-mute">Tell us your country, time zone and preferred times. We confirm whether we can offer a teacher, a time and a fee before anything is booked.</span>
           </a>
@@ -234,6 +234,6 @@ const faq = faqNode(faqs);
   <CTA
     heading="Tell us the board, subject, country and times that suit you. We will confirm a teacher and a time by email before anything is booked."
     buttonLabel="Request a free trial"
-    buttonHref={routes.trial}
+    buttonHref={`${routes.trial}?source=region`}
   />
 </PageLayout>

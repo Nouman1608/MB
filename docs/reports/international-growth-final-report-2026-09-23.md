@@ -1,12 +1,12 @@
 # Marlbridge International Growth programme: final report
 
-Written 2026-09-23, about 16:15 PKT. Branch `growth-programme`, 16 commits on top of `main` at `17e97b72`. **Not deployed yet (see section 25).**
+Written 2026-09-23, about 16:15 PKT; updated about 22:45 PKT after rebasing. Branch `growth-programme`, rebased onto `main` at `df8b6b36` (PR #55). **Not deployed yet (see section 25).** Decisions are D-295 to D-308; `main` already uses D-286 to D-293.
 
 ## 1. Summary
 
 Security, trust copy, pricing honesty, crawl hygiene, hub metadata, search, internal linking and a full international layer are built and pass every gate. The international layer is one hub plus UAE, Qatar and Malaysia pages, with Pakistan, UK and Gulf brought into line.
 
-**Blocker.** Another Claude session merged a large pull request to `origin/main` today, at 15:29 PKT: #52, "D-295..D-299: free revision tools, structured trial form, five tuition sections". It overlaps 19 of the files changed here, and uses the same decision numbers. The branch has **not** been rebased onto it. Section 25 sets out the choices.
+**Rebased.** While this work was in progress, another session merged PRs #52 to #55 to `main` (free revision tools, a structured trial form, and tuition sections, recorded as D-286 to D-293). This branch has been rebased onto that `main`. `main`'s trial form is kept, and this branch's own trial form is withdrawn (D-300). Section 25 lists what was merged by hand.
 
 ## 2. Baseline (before)
 
@@ -27,7 +27,7 @@ Pilot-country searchers land on board hubs, resources and checklists. None reach
 
 ## 4. Crawl and indexing (D-298)
 
-Correction and trial links now use `#page=` and `#program=` fragments, so they create no new crawlable URL variants. The 404 page no longer declares a canonical. Three legacy 404 URLs are redirected, with both slash variants. Two chemistry resources had broken links from unescaped markdown, which are fixed. The www-to-apex redirect was already live (a 301, checked).
+Correction links now use a `#page=` fragment, so the 1,653 resources no longer link to crawlable duplicates. Trial links keep `main`'s `?program=` / `?course=` / `?source=` parameters, which the owner-approved trial form reads. They self-canonicalise to `/trial/`. The 404 page no longer declares a canonical. Three legacy 404 URLs are redirected, with both slash variants. Two chemistry resources had broken links from unescaped markdown, which are fixed. The www-to-apex redirect was already live (a 301, checked).
 
 ## 5. Redirects
 
@@ -47,9 +47,9 @@ Hub titles now name the document searchers ask for: "Specification" or "Syllabus
 
 Unchanged and valid: EducationalOrganization, WebSite and WebPage on every page, plus Person for teachers. No LocalBusiness or AggregateRating markup was added: there is no local branch, and there are no genuine ratings to mark up.
 
-## 9. Conversion paths (D-300, D-305, D-306)
+## 9. Conversion paths (D-305, D-306)
 
-- A structured trial form was built on this branch as D-300. **Note:** PR #52 on `main` ships a different structured trial form (`TrialRequestForm`), which should win.
+- The trial form is `main`'s owner-approved form (D-286, D-291 to D-293). This branch's own form was withdrawn (D-300).
 - Taught hubs link to the international hub.
 - Every resource links to its syllabus hub. Before, 103 of 1,653 did; now all 1,653 do.
 
@@ -108,15 +108,17 @@ The footer now links to the hub in place of three country links.
   - [2d]: drift and labelling on indicative rows.
   - [2e]: only owner-set regions may show confirmed fees. The negative suite showed this gap before the fix.
 
-## 19. Trial funnel (D-300)
+## 19. Trial funnel (D-295; D-300 withdrawn)
 
-- Optional structured fields, all checked against allow-lists.
-- Spam defences: Turnstile, a honeypot, the KV rate limit and a 20 KB body cap.
-- "A request, not a booking" wording.
-- Field-level server errors.
-- Lead events carry the offer context.
+The live funnel is `main`'s structured trial form. This branch adds only API hardening:
 
-No real enquiry was sent: the network call was intercepted in testing. **Superseded in practice by PR #52's form (section 25).**
+- a 20 KB body cap
+- an exact Referer origin check
+- own-property guards
+- 200-character caps on short fields
+- nosniff and noindex headers on JSON responses
+
+Turnstile, the honeypot and the KV rate limit are unchanged. No real enquiry was sent: tests intercept the network call.
 
 ## 20. Pagefind (D-301)
 
@@ -168,45 +170,33 @@ Items 10 to 20 were added to `docs/business-decisions-register.md`:
 - IB licence
 - Further country pages
 
-## 25. Deployment status and the merge decision
+## 25. Deployment status and the merge
 
-**Gates, on a clean `npm ci`:**
+**Gates after the rebase, on a clean `npm ci`:**
 
 | Gate | Result |
 |---|---|
-| `test:api` | 68 pass |
+| `test:api` | 78 pass |
+| `test:tools` | 60 pass |
 | `astro check` | 0 errors |
-| `validate:academic` | pass |
-| build | 2,155 pages |
+| `validate:academic`, including diagnostics | pass |
+| build | clean |
 | `audit:all` | 0 problems |
-| `test:practice-analytics` | 24/24 |
+| axe (WCAG 2.2 AA tags) at 390 px | clean on 15 pages, including `/`, `/trial/`, the hub and the country pages |
 | `npm audit` | 0 vulnerabilities |
-| Negative suite | 5 mutations, all caught after D-308 |
+| Negative suite | 5 of 5 mutations caught |
 
-**Why it is not pushed:**
+**Merged by hand against `main` (PRs #52 to #55):**
 
-1. The GitHub connector returned "Bad credentials", and the link to the PC dropped, so there was no push route.
-2. `origin/main` moved to `d90bd7a0` (PR #52), which overlaps this branch.
+- **Enquiry validation.** `main`'s trial fields and rules are kept. This branch adds the hardening listed in section 19.
+- **Worker secrets.** `ADMIN_API_KEY` joins `main`'s "not yet set, fails closed" list, so the validator reminds you on every run until it is set.
+- **Trial links.** `main`'s query parameters are kept (section 4).
+- **Hub pages.** This branch's "Syllabus" / "Specification" titles are kept. The five hubs with a tuition section also keep "& Online Tuition" in the title and their "Request a free trial class" button. The international-tutoring link sits under that button.
+- **Gulf and Pakistan pages.** `main`'s FAQs and computed counts are kept, along with this branch's no-office wording, indicative labels, searched hubs and hub breadcrumb. A duplicate "in person in Lahore" paragraph was removed.
+- **`llms.txt`.** `main`'s revision-tool lines are kept, and this branch's hub and country lines are added.
+- **`package-lock.json`.** `main`'s lock file is kept, with only the devalue security bump from 5.9.0 to 5.9.4.
 
-**Overlap with PR #52:**
-
-- Decision numbers: D-295 to D-299 are taken on both sides, so this branch's numbers must be renumbered D-300 to D-305.
-- Trial form: `TrialRequestForm` on `main` versus this branch's fields.
-- Syllabus finder: `SyllabusFinder` on `main` versus this branch's combobox.
-- 19 shared files: `enquiry-validation.ts`, `_headers`, `worker/index.ts`, the gulf, pakistan and uk pages, `resources/[slug]`, the hub template, `authors/[slug]`, `llms.txt`, and others.
-
-**Recommended merge:** rebase onto `main`, keep `main`'s trial form and finder, and carry over this branch's other work:
-
-- security (the admin key, enquiry hardening, headers)
-- pricing statuses and the validator checks
-- crawl fixes and hub titles
-- Pagefind scoping
-- the international hub and country pages
-- internal links
-- accessibility
-- the register and the measurement plan
-
-A bundle of the 16 commits is provided (`marlbridge-growth-programme-2026-09-23.bundle`).
+**Push route.** The branch is pushed from your PC clone as `growth-programme`. It is never pushed to `main`, so merging stays your decision: open the pull request, check the preview, then merge.
 
 ## 26. Risks and limitations
 
@@ -224,4 +214,4 @@ See `docs/growth/international-measurement-plan-2026-09-23.md` on the branch:
 - **Day 60:** compare against the baseline by country, and fix titles only where the numbers say so.
 - **Day 90:** decide on further country pages, using the evidence rule in register item 20.
 
-*Numbering note.* All D-numbers in this report are the numbers on the branch (D-295 to D-308). When the branch is merged onto the new `main`, each becomes n+5 (D-300 to D-305), because `main` already uses D-295 to D-299. For example, the hub is D-302 on the branch and becomes D-307.
+*Numbering note.* This report uses the numbers as merged (D-295 to D-308). Earlier versions of this report used D-286 to D-300 for the same items.
