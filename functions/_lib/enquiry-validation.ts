@@ -111,7 +111,7 @@ const TRIAL_RULES: Record<string, (v: string) => boolean> = {
   availability: (v) => v.split(',').every((x) => (TRIAL_AVAILABILITY as readonly string[]).includes(x.trim())),
   teacher: (v) => /^[a-z0-9-]{3,60}$/.test(v),
   source: (v) => (TRIAL_SOURCES as readonly string[]).includes(v),
-  subject: (v) => v.length <= 120,
+  subject: (v) => v.length <= 300,
 };
 
 const MAX_FIELD_LENGTH = 2000;
@@ -185,12 +185,12 @@ export function validateEnquiry(
         // An out-of-list value is a tampered or stale client: drop it rather
         // than reject the whole request, except where the visitor must fix it.
         if (field === 'format') errors[field] = 'Please choose one of the listed options.';
-        else if (field === 'subject') errors[field] = 'Please keep the subject under 120 characters.';
+        else if (field === 'subject') errors[field] = 'Please keep the subjects under 300 characters.';
         else delete data[field];
       }
     }
     if (!data.subject && !data.message && !errors.subject) {
-      errors.subject = 'Please tell us which subject you need help with.';
+      errors.subject = 'Please tell us which subjects you need help with.';
     }
   }
 
@@ -217,7 +217,7 @@ const KIND_LABEL: Record<EnquiryKind, string> = {
 const FIELD_LABEL: Record<string, string> = {
   name: 'Name', school: 'School', role: 'Role', email: 'Email', phone: 'Phone',
   country: 'Country', message: 'Message',
-  qualification: 'Qualification', board: 'Exam board', subject: 'Subject',
+  qualification: 'Qualification', board: 'Exam board', subject: 'Subjects',
   availability: 'Preferred times', course: 'Course id', format: 'Group or one-to-one',
   timezone: 'Time zone', teacher: 'Teacher asked for', source: 'Came from',
   pageUrl: 'Page', issueType: 'Issue type', description: 'What looks wrong',

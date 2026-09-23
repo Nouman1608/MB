@@ -78,8 +78,8 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
   <fieldset class="m-0 grid gap-4 border-0 p-0 sm:grid-cols-2">
     <legend class="mb-3 p-0 text-[19px] font-semibold text-navy-800">1. What would you like help with?</legend>
     <div class="grid gap-1.5">
-      <label for="trial-subject" class={labelCls}>Subject</label>
-      <input id="trial-subject" name="subject" required maxlength="120" class={field} placeholder="e.g. IGCSE Chemistry" aria-describedby="trial-subject-err" />
+      <label for="trial-subject" class={labelCls}>Subjects</label>
+      <textarea id="trial-subject" name="subject" required maxlength="300" rows="3" class="min-h-24 w-full resize-y rounded-sm border border-rule bg-white px-3 py-2.5 text-[15.5px] leading-snug text-ink aria-[invalid=true]:border-error" placeholder="e.g. A Level Maths, IGCSE Chemistry" aria-describedby="trial-subject-err"></textarea>
       <p id="trial-subject-err" data-error-for="subject" hidden class="m-0 text-[13.5px] text-error"></p>
     </div>
     <div class="grid gap-1.5">
@@ -166,7 +166,7 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
   const form = document.querySelector<HTMLFormElement>('[data-trial-form]');
   if (form) {
     const data = JSON.parse(form.querySelector('[data-trial-data]')?.textContent ?? '{}') as Data;
-    const subject = form.querySelector<HTMLInputElement>('#trial-subject')!;
+    const subject = form.querySelector<HTMLTextAreaElement>('#trial-subject')!;
     const board = form.querySelector<HTMLSelectElement>('#trial-board')!;
     const courseIn = form.querySelector<HTMLInputElement>('[data-trial-course]')!;
     const qualIn = form.querySelector<HTMLInputElement>('[data-trial-qualification]')!;
@@ -209,7 +209,7 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
       ctx.textContent = `You're asking about a free trial class: ${notes.join(' ')}. You can change anything below.`;
       ctx.hidden = false;
     }
-    // If the student retypes the subject, the pre-filled course no longer applies.
+    // If the student retypes the subjects, the pre-filled course no longer applies.
     const prefilled = subject.value;
     subject.addEventListener('input', () => {
       if (subject.value.trim() !== prefilled) { courseIn.value = ''; }
@@ -225,7 +225,7 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
     const val = (id: string) => form.querySelector<HTMLInputElement>(`#trial-${id}`)!.value.trim();
     const validate = (): HTMLElement | null => {
       const checks: [string, string | null][] = [
-        ['subject', val('subject') ? null : 'Please type the subject, for example "IGCSE Chemistry".'],
+        ['subject', val('subject') ? null : 'Please type your subjects, for example "A Level Maths, IGCSE Chemistry".'],
         ['name', val('name') ? null : 'Please enter your name.'],
         ['email', /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(val('email')) ? null : 'Please enter a valid email address.'],
         ['country', val('country') ? null : 'Please tell us your country.'],

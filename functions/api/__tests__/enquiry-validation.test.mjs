@@ -182,7 +182,7 @@ test('validateEnquiry: trial needs either a subject or a message', () => {
     assert.ok(result.errors.subject);
     assert.equal('qualification' in result.errors, false);
   }
-  const tooLong = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', country: 'PK', subject: 'x'.repeat(121) });
+  const tooLong = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', country: 'PK', subject: 'x'.repeat(301) });
   assert.equal(tooLong.ok, false);
   if (!tooLong.ok) assert.ok(tooLong.errors.subject);
   const missing = validateEnquiry('trial', { name: 'Zara Ali', email: 'zara@example.com' });

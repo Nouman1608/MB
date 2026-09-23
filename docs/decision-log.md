@@ -13389,3 +13389,12 @@ Owner request on 2026-09-23 after seeing the live /trial/ form: "the form is too
 | Copy | `src/data/tuition.ts` (`TRIAL_STEPS`) | "Send the request" step no longer says "five fields ... qualification, level"; it describes the short form (it was already stale after D-286). |
 | Tests / docs | `functions/api/__tests__/enquiry-validation.test.mjs`, `src/pages/legal/privacy.astro`, `README.md` | Short-form and subject-or-message tests; privacy field list no longer mentions qualification or time zone. |
 
+## D-292 - Trial form: "Subjects" box (2026-09-23)
+
+Owner request on 2026-09-23 after seeing the live D-291 form: "make the box bigger and write Subjects, not subject".
+
+| Item | Files | What changed |
+|---|---|---|
+| Form | `src/components/forms/TrialRequestForm.astro` | The subject field is now a three-line, resizable text box labelled "Subjects" (placeholder "e.g. A Level Maths, IGCSE Chemistry"), so a student can list more than one subject. Limit raised from 120 to 300 characters. Field name stays `subject`. |
+| Server | `functions/_lib/enquiry-validation.ts` | Subject limit 300 characters; error texts and the owner's email label say "Subjects". |
+
