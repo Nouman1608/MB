@@ -7,7 +7,9 @@ import { TRANSLATED_LOCALES, localePath } from '../../../i18n/routes';
 import {
   REGION_PRICING, PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee, IB_PRICING,
   ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS, combinedDiscountPercent, discountWorkedExample,
+  isIndicative,
 } from '../../../data/pricing';
+import { LOCALE_COPY } from '../../../i18n/copy';
 
 export function getStaticPaths() {
   return TRANSLATED_LOCALES.map((locale) => ({ params: { locale } }));
@@ -117,7 +119,7 @@ const faqs = faqTemplates[locale]();
         <tbody>
           {REGION_PRICING.map((r) => (
             <tr class="border-b border-[#E7E1D4]">
-              <td class="px-3 py-2 text-ink">{r.region}</td>
+              <td class="px-3 py-2 text-ink">{r.region}{isIndicative(r) ? ' *' : ''}</td>
               <td class="px-3 py-2 text-ink-mute">{formatFee(r.igcse, r.currency)} {r.currency} <span class="text-[13px]">{T.perSubjectMonth}</span></td>
               <td class="px-3 py-2 text-ink-mute">{formatFee(r.aLevel, r.currency)} {r.currency} <span class="text-[13px]">{T.perSubjectMonth}</span></td>
             </tr>
@@ -125,6 +127,7 @@ const faqs = faqTemplates[locale]();
         </tbody>
       </table>
     </div>
+    {REGION_PRICING.some(isIndicative) && <p class="m-0 mt-4 text-[13px] text-ink-mute">{LOCALE_COPY[locale].indicativeNote}</p>}
     <p class="m-0 mt-4 text-[13px] text-ink-mute">{T.unsupportedPrefix}{PRICING_TERMS.unsupportedRegionNote}</p>
     <p class="m-0 mt-2 text-[13px] text-ink-mute">{T.lastVerified}: {PRICING_VERIFIED_DATE}.</p>
   </div>
@@ -144,7 +147,7 @@ const faqs = faqTemplates[locale]();
         <tbody>
           {ONE_TO_ONE_PRICING.map((r) => (
             <tr class="border-b border-[#E7E1D4]">
-              <td class="px-3 py-2 text-ink">{r.region}</td>
+              <td class="px-3 py-2 text-ink">{r.region}{isIndicative(r) ? ' *' : ''}</td>
               <td class="px-3 py-2 text-ink-mute">{formatFee(r.igcse, r.currency)} {r.currency} <span class="text-[13px]">{T.perClass}</span></td>
               <td class="px-3 py-2 text-ink-mute">{formatFee(r.aLevel, r.currency)} {r.currency} <span class="text-[13px]">{T.perClass}</span></td>
             </tr>
@@ -152,7 +155,9 @@ const faqs = faqTemplates[locale]();
         </tbody>
       </table>
     </div>
-    <p class="m-0 mt-4 text-[13px] text-ink-mute">{T.lastConverted}: {ONE_TO_ONE_TERMS.verifiedDate}.</p>
+    {/* D-297 (audit A3) -- the converted rows were shown here with no label. */}
+    <p class="m-0 mt-4 text-[13px] text-ink-mute">{LOCALE_COPY[locale].indicativeNote}</p>
+    <p class="m-0 mt-2 text-[13px] text-ink-mute">{T.lastConverted}: {ONE_TO_ONE_TERMS.verifiedDate}.</p>
   </div>
 
   <div class="mx-auto max-w-[var(--container-site)] border-t border-navy-rule px-[var(--spacing-gutter)] py-[clamp(28px,3.5vw,48px)]">

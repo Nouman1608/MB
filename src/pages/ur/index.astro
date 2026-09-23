@@ -1,6 +1,6 @@
 ---
 import LocaleLayout from '../../layouts/LocaleLayout.astro';
-import { LOCALE_COPY, pricingRows } from '../../i18n/copy';
+import { LOCALE_COPY, pricingRows, hasIndicativeRows } from '../../i18n/copy';
 import { localePath } from '../../i18n/routes';
 
 const copy = LOCALE_COPY['ur'];
@@ -54,6 +54,7 @@ const contactHref = localePath('ur', 'contact');
           </tbody>
         </table>
       </div>
+      {hasIndicativeRows && <p class="m-0 mt-4 text-[13px] text-ink-mute">{copy.indicativeNote}</p>}
       <p class="m-0 mt-6 text-[13.5px] text-ink-mute">{copy.termsNote}</p>
     </div>
   </section>

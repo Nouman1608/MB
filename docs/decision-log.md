@@ -13463,3 +13463,21 @@ The same commit carries the correction/trial link-format change in `src/pages/re
 **Checked and already consistent (no change).** No LocalBusiness, AggregateRating, Review or address outside Pakistan in any JSON-LD; Person used only for real teachers and Organization for the Academic Team; licensing statements on `/schools/` and `/legal/terms/` agree (D-043); one response-time promise everywhere (D-149); no safeguarding, UK-regulation, partnership or pass-rate claims. The Learners Academy quotes and Google rating on `/` and `/tutoring/` are owner-authorised and attributed (D-150) and have no rating markup.
 
 **Validation.** Build clean; `audit:all` 0 problems; built pages: 0 resource pages claim classes in a resources-only subject, and exactly 216 show the resources-only wording (the subject is matched through `matrixSlugsFor`, so the `english` collection id maps to `english-language`), 0 IB resource pages mention small groups, `/uk/` reads "15 taught subject combinations".
+
+## D-297 - Pricing: confirmed vs indicative fees, Malaysia (MYR) added as indicative, one display convention (2026-09-23)
+
+**Owner decisions (23 Sep 2026, programme chat).** (1) Keep every current fee. Label the currency-converted one-to-one rows as indicative rather than confirmed. Keep the brief's proposed USD price bands unpublished (recorded in `docs/business-decisions-register.md`). (2) Show Malaysia using "the current conversion rate PKR to MYR".
+
+| Change | Files |
+|---|---|
+| `RegionPricing.status`: `'confirmed'` (owner-set; the default) or `'indicative'` (a currency conversion of the Pakistan rate). The eight non-Pakistan one-to-one rows are marked `indicative`. `INDICATIVE_NOTE` gives one explanation wherever an indicative figure appears. | `src/data/pricing.ts` |
+| Malaysia added as indicative: group Rs 19,000 / Rs 24,000 → **RM 279 / RM 353 per subject per month**; one-to-one Rs 3,500 / Rs 4,000 → **RM 51 / RM 59 per class**. Rate: 1 MYR = 68.01 PKR (open.er-api.com, exchangerate-api.com, updated Wed 23 Sep 2026 00:02 UTC; same source as the existing rows). | `src/data/pricing.ts`, `src/data/fx-policy.ts` |
+| `/pricing/`: an "Indicative" tag on converted rows, the note under the group table, row headers (`<th scope="row">`) and screen-reader captions on both tables, "(UAE)" after United Arab Emirates (on-site search for "UAE" found nothing before). | `src/pages/pricing/index.astro` |
+| `/ar/`, `/ur/`, `/bn/pricing/` (trust audit A3): the converted one-to-one rows now carry the translated indicative note; converted rows are asterisked. | `src/pages/[locale]/pricing/index.astro`, `src/i18n/copy.ts` |
+| Locale homepages: fee cells show the amount only, because the currency column already names the currency (no more "SAR 270" beside "SAR"); indicative rows are asterisked with the note. | `src/i18n/copy.ts`, `src/pages/{ar,ur,bn}/index.astro` |
+| "No currency conversion is applied on your behalf" removed from the unsupported-country note: it sat beside tables that contain labelled conversions. | `src/data/pricing.ts` |
+| Validator strengthened, not weakened: every non-Pakistan one-to-one row must be `indicative`, and indicative group rows must be within the 8% FX tolerance of the Pakistan rate. | `scripts/validate-fx-policy.mjs` |
+
+**Not changed.** No USD bands and no new confirmed fee for any country. No confirmed IB fee outside Pakistan. Lesson length (group: 45–50 min, 3 a week; one-to-one: 1 hour), group size (15 max), discounts, billing and cancellation stay as owner-confirmed in D-043/D-149.
+
+**Validation.** `validate:fx-policy` passes (Malaysia 0.0% drift); `validate-pricing-consistency` passes (no hard-coded fees); build clean; `audit:all` 0 problems.
