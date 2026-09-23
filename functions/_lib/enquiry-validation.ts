@@ -114,6 +114,14 @@ const TRIAL_RULES: Record<string, (v: string) => boolean> = {
   subject: (v) => v.length <= 300,
 };
 
+/**
+ * D-295 -- short single-line trial fields are capped well below the general
+ * limit. `subject` is deliberately not here: D-286/D-292 allow up to 300
+ * characters and report a friendly error above that.
+ */
+const SHORT_FIELDS = new Set(['phone', 'timezone', 'availability', 'course', 'teacher', 'source']);
+const SHORT_FIELD_LENGTH = 200;
+
 const MAX_FIELD_LENGTH = 2000;
 const MAX_MESSAGE_LENGTH = 5000;
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
@@ -126,12 +134,24 @@ const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
  * an attacker controls what's actually submitted regardless of what the
  * form's HTML asks for.
  */
-export function sanitizeField(value: unknown, maxLength = MAX_FIELD_LENGTH): string {
+export function sanitizeField(value: unknown, maxLength = MAX_FIELD_LENGTH, keepLineBreaks = false): string {
   if (typeof value !== 'string') return '';
+  if (keepLineBreaks) {
+    // D-295 -- long free-text fields (message, description) only ever go
+    // into the plain-text email BODY, never a header, so their line breaks
+    // are kept for readability. Every other control character is still
+    // stripped, and more than two blank lines in a row are collapsed.
+    // eslint-disable-next-line no-control-regex
+    const body = value.replace(/\r\n?/g, '\n').replace(/[\x00-\x08\x0B\x0C\x0E-\x1F]/g, ' ').replace(/\n{3,}/g, '\n\n').trim();
+    return body.slice(0, maxLength);
+  }
   // eslint-disable-next-line no-control-regex
   const stripped = value.replace(/[\r\n\x00-\x08\x0B\x0C\x0E-\x1F]/g, ' ').trim();
   return stripped.slice(0, maxLength);
 }
+
+/** Fields whose line breaks are preserved (body-only, never headers). */
+const MULTILINE_FIELDS = new Set(['message', 'description']);
 
 export interface ValidationSuccess {
   ok: true;
@@ -157,17 +177,19 @@ export function validateEnquiry(
   kind: EnquiryKind,
   raw: Record<string, unknown>,
 ): ValidationSuccess | ValidationFailure {
-  const spec = FIELDS_BY_KIND[kind];
-  if (!spec) {
+  // D-295 -- own-property check, so a kind such as '__proto__' or
+  // 'constructor' is rejected cleanly instead of crashing the handler.
+  if (typeof kind !== 'string' || !Object.hasOwn(FIELDS_BY_KIND, kind)) {
     return { ok: false, errors: { kind: 'Unrecognised enquiry type.' } };
   }
+  const spec = FIELDS_BY_KIND[kind];
 
   const errors: Record<string, string> = {};
   const data: Record<string, string> = {};
 
   for (const field of [...spec.required, ...spec.optional]) {
-    const maxLength = field === 'message' ? MAX_MESSAGE_LENGTH : MAX_FIELD_LENGTH;
-    const clean = sanitizeField(raw[field], maxLength);
+    const maxLength = field === 'message' ? MAX_MESSAGE_LENGTH : SHORT_FIELDS.has(field) ? SHORT_FIELD_LENGTH : MAX_FIELD_LENGTH;
+    const clean = sanitizeField(raw[field], maxLength, MULTILINE_FIELDS.has(field));
     if (spec.required.includes(field) && clean.length === 0) {
       errors[field] = 'This field is required.';
       continue;
@@ -246,6 +268,7 @@ const readable = (field: string, value: string): string => {
 };
 
 export function renderEmailBody(kind: EnquiryKind, data: Record<string, string>): string {
+  if (!Object.hasOwn(FIELDS_BY_KIND, kind)) return '';
   const spec = FIELDS_BY_KIND[kind];
   const lines = [`${KIND_LABEL[kind]} via marlbridge.com`, ''];
   for (const field of [...spec.required, ...spec.optional]) {

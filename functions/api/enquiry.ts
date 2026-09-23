@@ -85,7 +85,12 @@ export const ENQUIRY_RECIPIENT = 'noumanahmed1989@gmail.com';
 function jsonResponse(status: number, body: unknown): Response {
   return new Response(JSON.stringify(body), {
     status,
-    headers: { 'Content-Type': 'application/json', 'Cache-Control': 'no-store' },
+    headers: {
+      'Content-Type': 'application/json',
+      'Cache-Control': 'no-store',
+      'X-Content-Type-Options': 'nosniff',
+      'X-Robots-Tag': 'noindex',
+    },
   });
 }
 
@@ -94,8 +99,41 @@ function isSameOrigin(request: Request): boolean {
   if (origin) return origin === SITE_ORIGIN;
   // Some legitimate same-origin form posts (no-JS fallback, some browsers)
   // omit Origin but always send Referer; fall back to that.
+  // D-295 -- compare the parsed origin exactly; a prefix test would accept
+  // https://marlbridge.com.example.org.
   const referer = request.headers.get('Referer');
-  return Boolean(referer && referer.startsWith(SITE_ORIGIN));
+  if (!referer) return false;
+  try {
+    return new URL(referer).origin === SITE_ORIGIN;
+  } catch {
+    return false;
+  }
+}
+
+/**
+ * D-295 -- reads the body with a hard byte cap. Content-Length alone can be
+ * absent (chunked uploads), so the stream itself is counted and abandoned
+ * once it passes MAX_BODY_BYTES. Returns null when the body is too large.
+ */
+async function readCappedBody(request: Request): Promise<Uint8Array | null> {
+  if (!request.body) return new Uint8Array();
+  const reader = request.body.getReader();
+  const chunks: Uint8Array[] = [];
+  let total = 0;
+  for (;;) {
+    const { done, value } = await reader.read();
+    if (done) break;
+    total += value.byteLength;
+    if (total > MAX_BODY_BYTES) {
+      await reader.cancel().catch(() => undefined);
+      return null;
+    }
+    chunks.push(value);
+  }
+  const out = new Uint8Array(total);
+  let offset = 0;
+  for (const c of chunks) { out.set(c, offset); offset += c.byteLength; }
+  return out;
 }
 
 async function verifyTurnstile(secretKey: string, token: string, ip: string | null): Promise<boolean> {
@@ -181,9 +219,18 @@ export const onRequestPost = async (context: { request: Request; env: Env }): Pr
     return jsonResponse(413, { ok: false, message: 'Submission too large.' });
   }
 
+  const bodyBytes = await readCappedBody(request);
+  if (bodyBytes === null) {
+    return jsonResponse(413, { ok: false, message: 'Submission too large.' });
+  }
+
   let form: FormData;
   try {
-    form = await request.formData();
+    form = await new Request(request.url, {
+      method: 'POST',
+      headers: { 'Content-Type': request.headers.get('Content-Type') ?? '' },
+      body: bodyBytes as unknown as BodyInit,
+    }).formData();
   } catch {
     return jsonResponse(400, { ok: false, message: 'Could not read submission.' });
   }
@@ -193,7 +240,8 @@ export const onRequestPost = async (context: { request: Request; env: Env }): Pr
     return jsonResponse(200, { ok: true });
   }
 
-  const kind = (form.get('enquiryKind') as string) as EnquiryKind;
+  const kindValue = form.get('enquiryKind');
+  const kind = (typeof kindValue === 'string' ? kindValue : '') as EnquiryKind;
   const raw: Record<string, unknown> = {};
   for (const [key, value] of form as unknown as Iterable<[string, FormDataEntryValue]>) raw[key] = value;
 

@@ -13417,3 +13417,22 @@ Owner approval on 2026-09-23 of the suspected error flagged in `docs/content-rev
 | Wording | `src/content/resources/igcse-mathematics-{algebra-and-graphs,coordinate-geometry,geometry,probability,statistics,transformations-and-vectors,trigonometry}.md` | "so grades A* and B need the Extended tier" corrected to "so grades A* to B need the Extended tier" in all seven guides that carried the sentence. Extended covers A*-E and Core C-G, so A*, A and B all need Extended; the old wording read as if A were excluded. No other text changed and `updatedDate` is left alone (wording fix, not a content revision). |
 | Review note | `docs/content-review/2026-09-23-draft-resource-improvements.md` | Marked resolved. |
 
+## D-295 - Security hardening: admin API key, enquiry API fixes, baseline security headers (2026-09-23)
+
+**Trigger.** International Growth programme (owner brief, 23 Sep 2026), security workstream. A read-only audit of the repository at `17e97b7` found that `/api/admin/search-demand` had no authentication: `GET` returned the owner's Search Console data from D1 to anyone, and `POST` ran a Google API refresh (about 15 calls) for anyone. The owner chose a key check in code (23 Sep 2026, in the programme chat).
+
+| Change | Files |
+|---|---|
+| Both methods of `/api/admin/search-demand` now require `Authorization: Bearer <ADMIN_API_KEY>`, compared in constant time. Until the owner sets the `ADMIN_API_KEY` Worker secret (at least 16 characters), both return 503: the route fails closed. The D1 error text is logged, no longer returned. The dashboard asks for the key once per browser tab (sessionStorage only) and no longer uses `alert()`. | `functions/api/admin/search-demand.ts`, `src/pages/admin/search-demand.astro`, `src/worker/index.ts`, `scripts/validate-worker-bindings.mjs` |
+| Enquiry API: the body is read with a hard 20 KB cap (a chunked body without `Content-Length` used to bypass the check); the `Referer` fallback compares the parsed origin exactly (a prefix test accepted `https://marlbridge.com.evil.example`); a prototype-named `enquiryKind` (`__proto__`, `constructor`) now gets a 400 instead of an unhandled 500; `message`/`description` keep their line breaks (body only, never a header), other fields still have them stripped; JSON responses send `X-Content-Type-Options: nosniff` and `X-Robots-Tag: noindex`. | `functions/api/enquiry.ts`, `functions/_lib/enquiry-validation.ts` |
+| Baseline security headers on every static response: `X-Content-Type-Options`, `Referrer-Policy`, `Permissions-Policy`, `X-Frame-Options: DENY`, and a CSP limited to `frame-ancestors`/`base-uri`/`object-src`/`form-action` (no script policy yet, so nothing currently loaded can break). | `public/_headers` |
+| Noindex pages (search, admin, 404) are no longer in the Pagefind index. | `src/layouts/BaseLayout.astro`, `src/layouts/LocaleLayout.astro` |
+| `devalue` moderate advisory fixed with `npm audit fix` (build-time only; not in the Worker or `dist/`). | `package-lock.json` |
+| All API/Worker tests now run in CI (`npm run test:api`), not only the validation unit tests. | `package.json`, `.github/workflows/deploy.yml` |
+| Same module: short single-line trial fields (phone, time zone, availability, course, teacher, source) are capped at 200 characters. The trial form itself, and its field lists, are D-286/D-291 to D-293's (already on `main`); this branch's own trial form was withdrawn (D-300). | `functions/_lib/enquiry-validation.ts` |
+
+**Not changed (owner decision, 23 Sep 2026).** The enquiry recipient address stays in `functions/api/enquiry.ts`.
+
+**Owner action required after deploy.** Set the secret: Cloudflare dashboard → Workers → `mb` → Settings → Variables and Secrets → add `ADMIN_API_KEY` (type Secret, a long random value), or `npx wrangler secret put ADMIN_API_KEY`. Until then the dashboard shows "Admin access is not configured." The daily cron refresh is unaffected (it does not go through the API).
+
+**Validation.** `npm run test:api` 68 pass, 0 fail (new: admin auth ×5, referer prefix, same-site referer, chunked oversize body, prototype kinds, response headers, line breaks); `astro check` 0 errors; build clean; `audit:all` 0 problems; `npm audit` 0 vulnerabilities.

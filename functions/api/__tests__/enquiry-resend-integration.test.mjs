@@ -174,3 +174,61 @@ test('onRequestPost honeypot trip returns fake success without calling Resend', 
     globalThis.fetch = original;
   }
 });
+
+// D-295 -- security hardening regressions.
+
+test('onRequestPost rejects a Referer whose host only starts with the site origin', async () => {
+  const form = new FormData();
+  for (const [k, v] of Object.entries(validStudentFields())) form.set(k, v);
+  const req = new Request('https://marlbridge.com/api/enquiry', {
+    method: 'POST',
+    body: form,
+    headers: { Referer: 'https://marlbridge.com.evil.example/page', 'CF-Connecting-IP': '203.0.113.7' },
+  });
+  const res = await onRequestPost({ request: req, env: {} });
+  assert.equal(res.status, 403);
+});
+
+test('onRequestPost accepts a genuine same-site Referer when Origin is absent', async () => {
+  const form = new FormData();
+  for (const [k, v] of Object.entries(validStudentFields())) form.set(k, v);
+  const req = new Request('https://marlbridge.com/api/enquiry', {
+    method: 'POST',
+    body: form,
+    headers: { Referer: 'https://marlbridge.com/contact/', 'CF-Connecting-IP': '203.0.113.7' },
+  });
+  const res = await onRequestPost({ request: req, env: {} });
+  // No RESEND_API_KEY in env -> the honest 503, which proves the origin check passed.
+  assert.equal(res.status, 503);
+});
+
+test('onRequestPost rejects an oversized body even without a Content-Length header', async () => {
+  const big = 'x'.repeat(25_000);
+  const stream = new ReadableStream({
+    start(controller) {
+      controller.enqueue(new TextEncoder().encode(`enquiryKind=student&message=${big}`));
+      controller.close();
+    },
+  });
+  const req = new Request('https://marlbridge.com/api/enquiry', {
+    method: 'POST',
+    body: stream,
+    duplex: 'half',
+    headers: { Origin: ORIGIN, 'Content-Type': 'application/x-www-form-urlencoded' },
+  });
+  const res = await onRequestPost({ request: req, env: {} });
+  assert.equal(res.status, 413);
+});
+
+test('onRequestPost answers 400, not a crash, for a prototype-named enquiryKind', async () => {
+  for (const kind of ['__proto__', 'constructor', 'toString']) {
+    const res = await onRequestPost({ request: makeRequest(validStudentFields({ enquiryKind: kind })), env: {} });
+    assert.equal(res.status, 400);
+  }
+});
+
+test('onRequestPost JSON responses carry nosniff and noindex headers', async () => {
+  const res = await onRequestPost({ request: makeRequest(validStudentFields()), env: {} });
+  assert.equal(res.headers.get('X-Content-Type-Options'), 'nosniff');
+  assert.equal(res.headers.get('X-Robots-Tag'), 'noindex');
+});

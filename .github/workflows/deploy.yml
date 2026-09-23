@@ -39,4 +39,4 @@ jobs:
         run: node scripts/test-cross-board-regression.mjs
 
       - name: Enquiry validation unit tests
-        run: node --experimental-strip-types --test functions/api/__tests__/enquiry-validation.test.mjs
+        run: npm run test:api
