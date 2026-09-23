@@ -192,6 +192,16 @@ export function validateEnquiry(
     if (!data.subject && !data.message && !errors.subject) {
       errors.subject = 'Please tell us which subjects you need help with.';
     }
+    // D-293 (owner request, 2026-09-23): on the English structured form
+    // (recognised by the typed subject) every visible field is compulsory:
+    // board, group/one-to-one and a phone/WhatsApp number as well. The
+    // translated five-field forms send no subject and keep their own rule.
+    if (data.subject) {
+      if (!data.board) errors.board = 'Please choose an exam board, or "Not sure".';
+      if (!data.format && !errors.format) errors.format = 'Please choose group, one-to-one, or "Help me decide".';
+      if (!data.phone) errors.phone = 'Please enter a phone or WhatsApp number.';
+      else if (data.phone.replace(/\D/g, '').length < 7 || data.phone.length > 30) errors.phone = 'Please enter a valid phone or WhatsApp number.';
+    }
   }
 
   if (kind === 'correction' && data.issueType && !(ISSUE_TYPES as readonly string[]).includes(data.issueType)) {

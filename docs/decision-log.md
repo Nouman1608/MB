@@ -13398,3 +13398,13 @@ Owner request on 2026-09-23 after seeing the live D-291 form: "make the box bigg
 | Form | `src/components/forms/TrialRequestForm.astro` | The subject field is now a three-line, resizable text box labelled "Subjects" (placeholder "e.g. A Level Maths, IGCSE Chemistry"), so a student can list more than one subject. Limit raised from 120 to 300 characters. Field name stays `subject`. |
 | Server | `functions/_lib/enquiry-validation.ts` | Subject limit 300 characters; error texts and the owner's email label say "Subjects". |
 
+## D-293 - Trial form: every visible field compulsory (2026-09-23)
+
+Owner request on 2026-09-23 after seeing the live D-292 form: "remove optional next to the phone number; all fields should be compulsory; when any field is left empty put * on it". Asked whether the folded extras should also be compulsory; the owner chose to keep preferred times and the message optional.
+
+| Item | Files | What changed |
+|---|---|---|
+| Form | `src/components/forms/TrialRequestForm.astro` | Subjects, exam board, group/one-to-one, full name, email, phone/WhatsApp and country are all required. "(optional)" removed from the phone label; the phone needs at least 7 digits. Exam board starts on "Choose an exam board" ("Not sure" still a choice) and no group/one-to-one option is pre-ticked ("Help me decide" still a choice); a `?course=` or `?format=` link still fills them. On submit, each empty field shows a red * on its label and a message, focus moves to the first problem, and the * and message clear as the field is filled. Preferred times and message stay folded and optional. |
+| Server | `functions/_lib/enquiry-validation.ts` | When a typed subject is present (the English form), board, format and a phone number of at least 7 digits are also required. The translated five-field forms send no subject and are unchanged (phone optional there). |
+| Tests / docs | `functions/api/__tests__/enquiry-validation.test.mjs`, `README.md` | New test for the compulsory fields and for the translated forms staying unchanged. |
+
