@@ -89,6 +89,12 @@ Related: [NMR Spectroscopy revision notes](/resources/a-chemistry-nmr-revision-n
 
 ---
 
+**11.** Ethyl ethanoate is CH₃COOCH₂CH₃. In its ¹H NMR spectrum, state the splitting pattern of the signal for
+
+**(a)** the CH₂ protons **[1]**
+
+**(b)** the protons of the CH₃ group attached to C=O. **[1]**
+
 ## Answers
 
 **1.** Any two properties [1] [1] plus the reason [1]: it is **inert** and does not react with the sample; it is **volatile**, so it is easily removed; it is **non-toxic**; it gives a **single sharp peak** because all twelve protons are equivalent, well away from most other signals — so it is a convenient zero point.
@@ -121,6 +127,11 @@ Related: [NMR Spectroscopy revision notes](/resources/a-chemistry-nmr-revision-n
 **9.** Peak area gives only a **ratio**, not an absolute count [1]; a 6:4:2 ratio is equally consistent with the simplest 3:2:1 ratio (or any other multiple) — the actual numbers must be fixed using the molecular formula, often from mass spectrometry [1].
 
 **10.** **No, not to the carbon skeleton** — the exchange R–OH + D₂O ⇌ R–OD + HOD is a real, reversible chemical equilibrium that does swap H for D throughout the sample, not merely something that vanishes once the spectrum is recorded [1]; but it only changes which isotope of hydrogen is attached at labile O–H/N–H positions, leaving every C–H bond and the carbon connectivity completely unchanged, and the exchange itself can run in reverse if the sample is later exposed to plenty of ordinary water [1].
+
+**11.** **(a)** A **quartet**: the CH₂ is next to a CH₃ group with 3 protons, and *n* + 1 = 4 [1].
+**(b)** A **singlet**: there are no protons on the neighbouring carbon atom [1].
+
+*Examiner insight (June 2025):* many candidates gave the number of neighbouring protons when the question asked for the splitting pattern. Name the pattern (singlet, doublet, triplet, quartet). *Try the real question next:* Cambridge International AS & A Level Chemistry 9701, June 2025, Paper 41, Question 7.
 
 ---
 

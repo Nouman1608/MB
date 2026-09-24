@@ -80,6 +80,8 @@ rather than requiring recall.*
 
 ---
 
+**10.** An object moves with simple harmonic motion of amplitude 0.040 m and period 0.50 s. Calculate its maximum speed. **[2]**
+
 ## Answers
 
 **1.** The acceleration is **proportional to the displacement** from the equilibrium position [1] and always directed **towards** that position [1], which is why the motion is restoring rather than divergent.
@@ -115,6 +117,10 @@ Application: **car suspension** or a **measuring instrument's needle** [1].
 **8.** A **free oscillation** occurs at the system's own natural frequency with no external driving force and, ideally, no energy loss [1]. A **forced oscillation** is driven by an external periodic force at a chosen frequency, which need not match the natural frequency [1].
 
 **9.** **Critical damping** [1]. It returns the system to equilibrium fastest of any damping level that still avoids oscillating [1]; light damping would let the car keep bouncing after every bump, and heavy damping would respond too sluggishly to absorb the next bump properly [1].
+
+**10.** ω = 2π ÷ *T* = 2π ÷ 0.50 = 12.6 rad s⁻¹ [1]. *v*₀ = ω*x*₀ = 12.6 × 0.040 = **0.50 m s⁻¹** [1].
+
+*Examiner insight (June 2025):* weaker answers could not connect the maximum speed with the maximum displacement. Use *v*₀ = ω*x*₀, which comes from *v* = ±ω√(*x*₀² − *x*²) at *x* = 0. *Try the real question next:* Cambridge International AS & A Level Physics 9702, June 2025, Paper 42, Question 5.
 
 ---
 

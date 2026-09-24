@@ -74,6 +74,12 @@ Related: [Ideal Gases revision notes](/resources/a-physics-ideal-gases-revision-
 
 ---
 
+**10.** The equation of state for an ideal gas can be written as *pV* = *NkT*.
+
+**(a)** State what is represented by *N* and by *k*. **[1]**
+
+**(b)** Calculate *N* for a gas of volume 0.024 m³ at a pressure of 1.0 × 10⁵ Pa and a temperature of 290 K. (*k* = 1.38 × 10⁻²³ J K⁻¹) **[2]**
+
 ## Answers
 
 **1.** Any three: a **large number of molecules in random motion** [1]; the **volume of the molecules is negligible** compared with the container [1]; there are **no intermolecular forces except during collisions** [1]; collisions are **perfectly elastic**; the time of a collision is negligible compared with the time between collisions.
@@ -104,6 +110,11 @@ T₂ = 400 K, so p₂ = 2.4 × 10⁵ × (400 ÷ 300) [1] = **3.2 × 10⁵ Pa** [
 **8.** Mass of one oxygen molecule: m = 0.032 ÷ (6.02 × 10²³) = 5.32 × 10⁻²⁶ kg [1]. From E = ½m⟨c²⟩, ⟨c²⟩ = 2E/m = (2 × 6.21 × 10⁻²¹) ÷ (5.32 × 10⁻²⁶) = 2.34 × 10⁵ m² s⁻² [1]. c_rms = √⟨c²⟩ = **483 m s⁻¹** [1].
 
 **9.** The **thermodynamic (absolute) temperature**, T [1]. This means temperature is, at the molecular level, a direct measure of the average kinetic energy of the gas's particles — not an arbitrary macroscopic scale [1].
+
+**10.** **(a)** *N* is the **number of molecules** and *k* is the **Boltzmann constant** [1].
+**(b)** *N* = *pV* ÷ *kT* = (1.0 × 10⁵ × 0.024) ÷ (1.38 × 10⁻²³ × 290) [1] = **6.0 × 10²³** [1].
+
+*Examiner insight (June 2025):* many candidates misread a symbol in the gas equation; some took it to mean magnetic flux density. Know what every symbol stands for: here *N* is the number of molecules (not moles) and *k* is the Boltzmann constant. *Try the real question next:* Cambridge International AS & A Level Physics 9702, June 2025, Paper 42, Question 4.
 
 ---
 

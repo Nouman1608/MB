@@ -70,6 +70,8 @@ Related: [Reaction Kinetics revision notes](/resources/as-chem-kinetics-revision
 
 ---
 
+**8.** State and explain the effect of adding a catalyst on the Boltzmann distribution curve and on the activation energy of a reaction at constant temperature. **[2]**
+
 ## Answers
 
 **1.** The particles must collide with **energy greater than or equal to the activation energy** [1] and in the **correct orientation** [1].
@@ -94,6 +96,10 @@ Related: [Reaction Kinetics revision notes](/resources/as-chem-kinetics-revision
 
 **7. (a)** **No** [1] — a catalyst only increases the **rate** at which equilibrium (or completion) is reached; it does not alter the thermodynamics of the reaction, so the same equilibrium position and the same maximum yield are eventually obtained with or without it [1].
 **(b)** It is **chemically unchanged** at the end of the reaction (not consumed) [1].
+
+**8.** The catalyst provides an alternative route with a **lower activation energy**; the **Boltzmann distribution curve itself does not change**, because the temperature is the same [1]. A **greater proportion of molecules** now have energy equal to or greater than the (lower) activation energy, so there are more successful collisions per unit time [1].
+
+*Examiner insight (June 2025):* weaker answers drew a new distribution curve for the catalyst instead of keeping the curve and moving the activation energy to a lower value. *Try the real question next:* Cambridge International AS & A Level Chemistry 9701, June 2025, Paper 22, Question 3.
 
 ---
 

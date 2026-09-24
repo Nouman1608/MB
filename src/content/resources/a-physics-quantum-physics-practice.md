@@ -93,6 +93,8 @@ Related: [Quantum Physics revision notes](/resources/a-physics-quantum-physics-r
 
 ---
 
+**9.** Light of frequency 7.5 × 10¹⁴ Hz falls on a metal surface with a work function of 2.3 eV. Calculate the maximum kinetic energy of the emitted electrons, in eV. (*h* = 6.63 × 10⁻³⁴ J s, *e* = 1.60 × 10⁻¹⁹ C) **[3]**
+
 ## Answers
 
 **1.** The **minimum energy required to remove an electron from the surface** of the metal [1].
@@ -129,6 +131,10 @@ KE_max = 4.97 × 10⁻¹⁹ − 3.68 × 10⁻¹⁹ = **1.29 × 10⁻¹⁹ J** [1
 **(c)** **Yes** — 659 nm falls within the visible range (roughly 400–700 nm), appearing as a red spectral line [1].
 
 **8.** Only certain specific energy differences exist between the discrete levels available to an atom's electrons [1], so only photons with those specific energies (and hence specific frequencies/wavelengths) can be emitted or absorbed, producing sharp, separated lines rather than a continuous spread of colour [1].
+
+**9.** Photon energy *E* = *hf* = 6.63 × 10⁻³⁴ × 7.5 × 10¹⁴ = 4.97 × 10⁻¹⁹ J [1] = 4.97 × 10⁻¹⁹ ÷ 1.60 × 10⁻¹⁹ = 3.1 eV [1]. Maximum kinetic energy = 3.1 − 2.3 = **0.81 eV** [1].
+
+*Examiner insight (June 2025):* some candidates confused the roles of the photons and the electrons. One photon gives all its energy to one electron; the work function is the minimum energy needed to free it. *Try the real question next:* Cambridge International AS & A Level Physics 9702, June 2025, Paper 42, Question 9.
 
 ---
 

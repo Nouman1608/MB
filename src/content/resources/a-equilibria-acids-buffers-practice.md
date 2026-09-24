@@ -80,6 +80,12 @@ Related: [Acids, Bases, Buffers and Partition Coefficients study guide](/resourc
 
 ---
 
+**12.** Magnesium hydroxide, Mg(OH)₂, is sparingly soluble. *K*sp = 5.6 × 10⁻¹² mol³ dm⁻⁹ at 298 K.
+
+**(a)** Write an expression for *K*sp of magnesium hydroxide. **[1]**
+
+**(b)** Calculate the solubility of magnesium hydroxide in mol dm⁻³. **[2]**
+
 ## Answers
 
 **1.** pKa = −log₁₀ Ka [1].
@@ -111,6 +117,11 @@ Related: [Acids, Bases, Buffers and Partition Coefficients study guide](/resourc
 **(b)** The H₂CO₃ reservoir **dissociates to release H⁺** (H₂CO₃ ⇌ H⁺ + HCO₃⁻), which then **neutralises the added OH⁻** (H⁺ + OH⁻ → H₂O) [1], so — exactly as with the acetic acid/acetate buffer — a small addition shifts the equilibrium only slightly and blood pH barely changes [1].
 
 **11.** Adding NaCl **increases [Cl⁻]** [1]; by Le Chatelier's principle, the equilibrium AgCl(s) ⇌ Ag⁺(aq) + Cl⁻(aq) **shifts left to oppose the increase**, removing Ag⁺ from solution as more AgCl precipitates, until Ksp is satisfied again [1].
+
+**12.** **(a)** *K*sp = [Mg²⁺(aq)][OH⁻(aq)]² [1] (the solid is **not** included).
+**(b)** If the solubility is *s*, [Mg²⁺] = *s* and [OH⁻] = 2*s*, so *K*sp = 4*s*³ [1]; *s* = ∛(5.6 × 10⁻¹² ÷ 4) = **1.1 × 10⁻⁴ mol dm⁻³** [1].
+
+*Examiner insight (June 2025):* some candidates included the solid hydroxide in their *K*sp expression. Only the aqueous ions appear. *Try the real question next:* Cambridge International AS & A Level Chemistry 9701, June 2025, Paper 41, Question 3.
 
 ---
 

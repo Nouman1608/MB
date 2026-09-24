@@ -58,6 +58,8 @@ Related: [Ideal Gases and Structure revision notes](/resources/as-chem-states-st
 
 ---
 
+**8.** Explain why graphite conducts electricity but diamond does not. **[3]**
+
 ## Answers
 
 **1.** Any three: a **large number of molecules in random motion** [1]; the **volume of the molecules is negligible** compared with the container [1]; **no intermolecular forces except during collisions** [1]; collisions are **perfectly elastic**; collision time is negligible.
@@ -83,6 +85,10 @@ Related: [Ideal Gases and Structure revision notes](/resources/as-chem-states-st
 **6.** Copper has a **giant metallic** structure, held together by electrostatic attraction between metal cations and a "sea" of **delocalised electrons** [1]. This delocalised electron sea is **mobile in both the solid and molten state** [1], so copper can carry charge either way — unlike an ionic solid, whose ions are only free to move once molten [1].
 
 **7.** A **high melting point** rules out simple molecular structure, since only weak intermolecular forces would need overcoming there [1]. **Conducting only when molten**, not as a solid, rules out giant metallic, which conducts in both states [1], and also rules out giant molecular, which (except graphite) does not conduct at all [1]. Conducting when molten, together with **solubility in water**, is the signature of mobile ions being released into solution [1] — the solid is **giant ionic** [1].
+
+**8.** In graphite each carbon atom is bonded to three others, so one electron per atom is **delocalised** [1]; these delocalised electrons are **free to move** along the layers and carry charge [1]. In diamond each carbon atom uses all four outer electrons in covalent bonds, so there are **no delocalised (mobile) electrons** [1].
+
+*Examiner insight (June 2025):* many answers said "graphite has delocalised electrons" without saying the electrons **move**, which is what conduction needs; some wrote only "giant structure". *Try the real question next:* Cambridge International AS & A Level Chemistry 9701, June 2025, Paper 22, Question 1.
 
 ---
 

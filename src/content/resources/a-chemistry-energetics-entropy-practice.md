@@ -90,6 +90,10 @@ CaCO3(s) -> CaO(s) + CO2(g)     delta-H = +178 kJ mol-1,  delta-S = +161 J K-1 m
 
 ---
 
+**11.** **(a)** Define the term *entropy*. **[1]**
+
+**(b)** For CaCO₃(s) → CaO(s) + CO₂(g), ΔH = +178 kJ mol⁻¹ and ΔS = +161 J K⁻¹ mol⁻¹. Calculate the minimum temperature at which the reaction is feasible. **[2]**
+
 ## Answers
 
 **1.** The enthalpy change when **one mole** of an ionic compound [1] is formed from its **gaseous ions** [1].
@@ -126,6 +130,11 @@ CaCO3(s) -> CaO(s) + CO2(g)     delta-H = +178 kJ mol-1,  delta-S = +161 J K-1 m
 **9.** Hydration enthalpy becomes **more exothermic** as ionic charge **increases** and as ionic radius **decreases** [1], because a smaller, more highly charged ion has a more concentrated charge density, attracting the surrounding water dipoles more strongly [1].
 
 **10.** **Feasible only below a certain temperature** [1]. With ΔH negative, the −TΔS term becomes increasingly positive (since ΔS is negative) as T rises, so ΔG eventually turns positive at high temperature even though it starts negative at low temperature [1].
+
+**11.** **(a)** Entropy is a measure of the **dispersal of energy** and the number of possible arrangements (the disorder) of the particles and their energy **in a system** [1].
+**(b)** Feasible when ΔG ≤ 0, so T = ΔH ÷ ΔS = 178 000 ÷ 161 (converting kJ to J) [1] = **1110 K** (1106 K) [1].
+
+*Examiner insight (June 2025):* some answers used "randomness" instead of disorder or energy dispersal, or left out the word "system". In calculations, convert ΔH to J before dividing by ΔS. *Try the real question next:* Cambridge International AS & A Level Chemistry 9701, June 2025, Paper 42, Question 3.
 
 ---
 

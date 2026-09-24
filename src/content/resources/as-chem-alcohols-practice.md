@@ -72,6 +72,8 @@ Related: [Alcohols revision notes](/resources/as-chem-alcohols-revision-notes/),
 
 ---
 
+**9.** Propanoic acid, CH₃CH₂COOH, is reduced to propan-1-ol by LiAlH₄. Write an equation for this reaction, using [H] to represent the reducing agent. **[2]**
+
 ## Answers
 
 **1. Primary** — the carbon bearing the OH is attached to **one** other carbon: propan-1-ol [1]. **Secondary** — attached to **two**: propan-2-ol [1]. **Tertiary** — attached to **three**: 2-methylpropan-2-ol [1]. The classification depends on the **number of alkyl groups on the carbon carrying the OH group** [1].
@@ -100,6 +102,10 @@ Related: [Alcohols revision notes](/resources/as-chem-alcohols-revision-notes/),
 
 **8. (a)** **Esterification** (condensation) [1]; the product is **ethyl ethanoate** [1].
 **(b)** It acts as a **catalyst** for the reaction [1].
+
+**9.** CH₃CH₂COOH + 4[H] → CH₃CH₂CH₂OH + H₂O. Correct formula of propan-1-ol [1]; balanced with **4[H]** and **H₂O** [1].
+
+*Examiner insight (June 2025):* common errors were copying the formula of propan-1-ol incorrectly and equations that did not balance the hydrogen atoms. Count H and O on each side. *Try the real question next:* Cambridge International AS & A Level Chemistry 9701, June 2025, Paper 22, Question 4.
 
 ---
 

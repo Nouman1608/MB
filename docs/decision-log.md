@@ -13707,3 +13707,16 @@ Neither set is teacher-reviewed yet (`setReview` empty). The page says so.
 | Group USD stays indicative (US$69 / US$87 per subject per month; unchanged). | — |
 | `validate-fx-policy`: the four USD figures join the approved base rates (changing them needs an owner decision). The owner-set "Other countries" one-to-one row is exempt from the must-be-indicative and drift checks, and any other region is still held to them. | `scripts/validate-fx-policy.mjs` |
 | Pages updated: the pricing page shows an "Other countries (US dollars)" IB card with MYP and Diploma prices, plus its IB FAQ; the hub's fee cards and FAQ; the unsupported-region notes. The tuition-section tables asterisk only indicative one-to-one rows. | `pricing`, `international-tutoring`, `TuitionPanel.astro`, `pricing.ts` |
+
+## D-314 - 9701 and 9702 diagnostics rebuilt from the June 2025 papers (2026-09-24)
+
+Owner request on 2026-09-24 ("complete all the sets in one go"), after D-312 was merged. The method and the line are the same as D-312: the owner's June 2025 papers were used for analysis only, no exam-board text is reproduced, and no Confidential Instructions files were opened.
+
+| Item | Files | What changed |
+|---|---|---|
+| Analysis | (owner's folder, not in the repo) | Read the 9701 June 2025 question papers 21-24 and 41-44 with their examiner report, and the 9702 June 2025 question papers 21-24 and 41-44 with their examiner report. Topics were mapped per question and the mistakes examiners reported were collected. |
+| Questions | 24 existing 9701/9702 practice files (AS and A Level) | 24 new original questions are appended, one per file, so each keeps its file's syllabus tags. Each worked answer ends with an "Examiner insight (June 2025)" line, in our own words, and "Try the real question next" naming the June 2025 paper and question. Every reference was checked against both the question paper and the examiner report. |
+| Sets | `src/data/diagnostics.ts` | `9701/as` (16 marks, 6 topics), `9701/a-level` (16 marks, 6 topics), `9702/as` (15 marks, 6 topics) and `9702/a-level` (14 marks, 6 topics) now use the new questions; each has `modelledOn`. |
+
+All six diagnostic sets are now paper-modelled. None is teacher-reviewed yet (`setReview` empty), and the pages say so.
+

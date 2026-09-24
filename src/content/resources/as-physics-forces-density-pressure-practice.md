@@ -68,6 +68,10 @@ Related: [Forces, Density and Pressure revision notes](/resources/as-physics-for
 
 ---
 
+**11.** **(a)** Define the *moment of a force* about a point. **[1]**
+
+**(b)** A force of 40 N is applied to the end of a spanner 0.25 m long, at an angle of 30° to the spanner. Calculate the moment of the force about the nut. **[2]**
+
 ## Answers
 
 **1.** A moment is the **force multiplied by the perpendicular distance** from the pivot to the line of action of the force [1] [1].
@@ -101,6 +105,11 @@ The pressure increase depends only on **depth, density and g** [1] — not on th
 **9.** Torque = one force × perpendicular distance between the forces = 8 × 0.5 = **4.0 N m** [1] [1].
 
 **10.** Pressure at a point in a fluid arises from the **weight of the fluid column above it** [1]; that weight depends only on the **vertical height** of fluid above the point, not on horizontal position, so two points at the same depth experience equal pressure regardless of how far apart they are sideways [1].
+
+**11.** **(a)** The product of the force and the **perpendicular distance** from the point to the **line of action** of the force [1].
+**(b)** Perpendicular component of the force = 40 sin 30° = 20 N [1]; moment = 20 × 0.25 = **5.0 N m** [1].
+
+*Examiner insight (June 2025):* answers confused "perpendicular distance" with "distance" or "displacement", and many used cos instead of sin for the perpendicular component. Draw the perpendicular before choosing sin or cos. *Try the real question next:* Cambridge International AS & A Level Physics 9702, June 2025, Paper 22, Question 2.
 
 ---
 

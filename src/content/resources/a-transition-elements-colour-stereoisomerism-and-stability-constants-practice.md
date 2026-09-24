@@ -86,6 +86,8 @@ Related: [Transition Elements: Colour, Stereoisomerism and Stability Constants r
 
 ---
 
+**11.** Explain why the complex ion [Cu(H₂O)₆]²⁺ is coloured. **[3]**
+
 ## Answers
 
 **1.** Sc³⁺ is **d⁰** — it has **no d electrons to promote** between the split d orbitals [1], so no d–d electron transition can occur and no visible light is absorbed [1].
@@ -120,6 +122,10 @@ Related: [Transition Elements: Colour, Stereoisomerism and Stability Constants r
 **9.** The ***cis*** isomer is **polar** [1]: its two Cl and two NH₃ ligands are not positioned symmetrically opposite each other around the square-planar platinum centre, so the Pt–Cl and Pt–N bond dipoles do **not cancel** [1]. The ***trans*** isomer is **non-polar**: its two Cl ligands are opposite each other, and its two NH₃ ligands are opposite each other, so by symmetry the bond dipoles cancel exactly [1]. (Cisplatin's actual anti-cancer action is background beyond 9701's syllabus, which requires only this polarity deduction from the complex's geometry.)
 
 **10.** Kstab for forming the ammine complex, `[Cu(NH₃)₄(H₂O)₂]²⁺`, from `[Cu(H₂O)₆]²⁺` is **large** [1], meaning the ammine complex is **much more thermodynamically stable** than the starting hexaaqua ion [1] (by convention, water is omitted from the expression and `[Cu(H₂O)₆]²⁺` is the reference species being converted, not a species with its own separate stability constant); because NH₃ binds more strongly than H₂O, once enough NH₃ is available the equilibrium shifts strongly towards the ammine complex, **displacing water** from the coordination sphere [1].
+
+**11.** The ligands cause the **d orbitals of the Cu²⁺ ion to split** into two sets with different energies [1]. An electron absorbs light of a particular frequency in the **visible** region and is promoted from a lower-energy to a higher-energy d orbital [1]. The remaining light (the **complementary** colour) is transmitted and is the colour seen [1].
+
+*Examiner insight (June 2025):* vague answers such as "a different energy gap" did not earn credit; answers must refer to the gap between the **split d orbitals**. Many candidates also did not show the d orbitals in the complex at higher energy than in the isolated ion. *Try the real question next:* Cambridge International AS & A Level Chemistry 9701, June 2025, Paper 42, Question 2.
 
 ---
 

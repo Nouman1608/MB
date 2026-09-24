@@ -64,6 +64,8 @@ Related: [Alkanes and Alkenes revision notes](/resources/as-chem-hydrocarbons-re
 
 ---
 
+**9.** Propene reacts with hydrogen bromide. Name the major organic product and explain why it is the major product. **[3]**
+
 ## Answers
 
 **1.** They contain only **strong C–C and C–H sigma bonds** [1] which are **non-polar**, so there is no δ+ centre to attract nucleophiles and no region of high electron density to attract electrophiles [1].
@@ -90,6 +92,10 @@ Termination: any two radicals combining, e.g. `•CH₃ + Cl• → CH₃Cl` [1]
 **(ii)** **Oxidation**, adding two hydroxyl groups across the carbon-carbon double bond [1]. Conditions: cold, dilute, aqueous, acidified KMnO₄, no heating required [1]. Product: **propane-1,2-diol** [1].
 
 **8.** Add a few drops of cold dilute acidified potassium manganate(VII) to each gas jar and shake [1]. In the jar containing **ethene**, the purple colour **decolourises** as the alkene is oxidised to the diol [1]. In the jar containing **ethane**, there is **no reaction**, so the purple colour persists, because the C–C sigma bonds have no region of high electron density for the oxidant to attack [1].
+
+**9.** **2-bromopropane** [1]. The reaction goes through the **secondary carbocation**, CH₃C⁺HCH₃, which is **more stable** than the primary carbocation [1], because it has two alkyl groups that donate electrons (positive inductive effect) towards the positive carbon [1].
+
+*Examiner insight (June 2025):* less precise answers described 2-bromopropane itself as the carbocation or intermediate. The intermediate is the carbocation; the product forms when bromide ions attack it. *Try the real question next:* Cambridge International AS & A Level Chemistry 9701, June 2025, Paper 22, Question 3.
 
 ---
 
