@@ -12,6 +12,8 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-2-cambridge-alevel"
+seoTitle: "Cambridge 9709 Pure Mathematics 2 (P2) Topics 2026–2027"
+seoDescription: "Every Pure Mathematics 2 topic in Cambridge 9709 (2026–2027): algebra, logs and exponentials, trigonometry, differentiation, integration and numerical methods."
 description: "Algebra, logarithmic and exponential functions, trigonometry, differentiation, integration and numerical solution of equations -- the full content of Pure Mathematics 2 for Cambridge International AS & A Level Mathematics 9709, 2026-2027 series."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-01

@@ -13,6 +13,8 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-reading-9093"
+seoTitle: "9093 English Language Paper 1 Revision Notes (2024–2026)"
+seoDescription: "Quick-recall notes for Cambridge AS & A Level English Language 9093 Paper 1 (2024–2026 syllabus): structure, directed response, text analysis and the AOs."
 description: "Condensed recall notes on Paper 1 structure, directed response, text analysis and the assessment objectives for Cambridge International AS & A Level English Language 9093."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22

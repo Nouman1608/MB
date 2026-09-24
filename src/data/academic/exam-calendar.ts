@@ -73,6 +73,8 @@ export interface ExamSeriesKeyDates {
   readonly enquiriesAboutResultsDeadline?: string;
   readonly accessToScriptsDeadline?: string;
   readonly officialSourceUrl: string;
+  /** How the source document is scoped (shown beside the source link). */
+  readonly sourceScope: string;
   readonly verifiedOn: string;
 }
 
@@ -98,6 +100,32 @@ export const EXAM_SERIES_KEY_DATES: readonly ExamSeriesKeyDates[] = [
     enquiriesAboutResultsDeadline: '26 February 2027',
     accessToScriptsDeadline: '12 March 2027',
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/746006-key-dates-for-november-2026-series-international-.pdf',
+    sourceScope: 'International centres; UK centres have a separate document',
     verifiedOn: '2026-08-29',
+  },
+  /**
+   * D-320 -- the March 2027 series, read from Cambridge's own "Key dates and
+   * activities for the March 2027 exam series" monthly calendar on
+   * 2026-09-24. Final entries window 13 September to 27 November 2026; late
+   * first-time entries by 14 December 2026; exam period 3 February to
+   * 4 March 2027; results available on Direct 13 May 2027; enquiries about
+   * results by 11 June 2027. The document gives one results date for the
+   * whole series (no separate AS & A Level / IGCSE dates) and no Access to
+   * Scripts deadline, so none is shown.
+   */
+  {
+    seriesLabel: 'February/March 2027',
+    seriesSlug: 'march-2027',
+    finalEntriesDeadline: '27 November 2026',
+    lateEntriesDeadline: '14 December 2026',
+    examPeriodStart: '3 February 2027',
+    examPeriodEnd: '4 March 2027',
+    resultsReleased: [
+      { qualificationGroup: 'All qualifications (released to schools)', date: '13 May 2027' },
+    ],
+    enquiriesAboutResultsDeadline: '11 June 2027',
+    officialSourceUrl: 'https://www.cambridgeinternational.org/Images/548188-march-series-monthly-calendar.pdf',
+    sourceScope: 'March series monthly calendar; the March series runs only in certain countries, such as India',
+    verifiedOn: '2026-09-24',
   },
 ] as const;

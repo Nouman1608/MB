@@ -19,15 +19,14 @@ import { routes } from '../../utils/urls/routes';
 import CTA from '../../components/ui/CTA.astro';
 
 const path = '/exam-calendar/';
-const featured = EXAM_SERIES_KEY_DATES[0];
 ---
 <PageLayout
-  title="Cambridge Exam Calendar — Series, Deadlines & Results Dates"
-  description="How Cambridge's three annual exam series work (May/June, October/November, February/March), plus verified entry deadlines, exam window and results-release dates for the current series -- sourced directly from Cambridge's own key-dates documents."
+  title="Cambridge Exam Dates 2026–2027: Entries, Exams & Results"
+  description="Cambridge exam dates for November 2026 and February/March 2027: entry deadlines, exam window and results days, taken from Cambridge's own key-dates PDFs."
   path={path}
   eyebrow="Free tool"
   heading="Exam calendar"
-  lead="How Cambridge's three exam series work, and verified entry deadlines, exam window and results dates for the series currently ahead — sourced directly from Cambridge's own documents, not estimated."
+  lead="How Cambridge's three exam series work, and verified entry deadlines, exam window and results dates for the next two series — sourced directly from Cambridge's own documents, not estimated."
   breadcrumbs={[
     { label: 'Home', href: routes.home },
     { label: 'Exam calendar', href: path },
@@ -48,10 +47,10 @@ const featured = EXAM_SERIES_KEY_DATES[0];
     </Container>
   </Section>
 
-  {featured && (
-    <Section surface="ivory" border>
+  {EXAM_SERIES_KEY_DATES.map((featured, i) => (
+    <Section surface={i % 2 === 0 ? 'ivory' : 'white'} border>
       <Container>
-        <p class="m-0 mb-1 text-[13px] font-medium uppercase tracking-[0.1em] text-gold-600">Currently ahead</p>
+        <p class="m-0 mb-1 text-[13px] font-medium uppercase tracking-[0.1em] text-gold-600">{i === 0 ? 'Currently ahead' : 'Next series'}</p>
         <h2 class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{featured.seriesLabel} key dates</h2>
 
         <div class="grid gap-5 sm:grid-cols-2">
@@ -87,12 +86,12 @@ const featured = EXAM_SERIES_KEY_DATES[0];
         </div>
 
         <p class="m-0 mt-6 text-[13px] text-ink-mute">
-          Sourced directly from Cambridge's own key-dates document for the {featured.seriesLabel} series (International centres; UK centres have a separate document), verified {featured.verifiedOn} —
+          Sourced directly from Cambridge's own key-dates document for the {featured.seriesLabel} series ({featured.sourceScope}), verified {featured.verifiedOn} —
           {' '}<a href={featured.officialSourceUrl} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600" rel="noopener">view the original PDF</a>.
         </p>
       </Container>
     </Section>
-  )}
+  ))}
 
   <Section surface="white" border>
     <Container>

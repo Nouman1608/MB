@@ -13,6 +13,8 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "component-2-essay-9239"
+seoTitle: "Cambridge 9239 Component 2 Essay Guide (2026–2028)"
+seoDescription: "How to choose a question, plan and write the 1750–2000 word Component 2 essay for Cambridge AS & A Level Global Perspectives & Research 9239, marked out of 40."
 description: "How the 1750-2000 word independent essay works within Cambridge International AS & A Level Global Perspectives & Research (9239) -- choosing a question, using globally contrasting perspectives, and meeting AO1-AO3."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
