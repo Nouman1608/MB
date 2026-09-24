@@ -8,6 +8,8 @@
  * runtime-specific concerns (headers, KV rate limiting, Turnstile, email
  * dispatch) around it.
  */
+import { TRIAL_TEACHERS } from './trial-teachers.ts';
+
 
 export type EnquiryKind = 'student' | 'tutoring' | 'school' | 'trial' | 'correction';
 
@@ -109,7 +111,8 @@ const TRIAL_RULES: Record<string, (v: string) => boolean> = {
   course: (v) => /^[a-z0-9-]{2,20}\/[a-z0-9-]{2,20}\/[a-z0-9-]{2,60}$/.test(v),
   timezone: (v) => /^[A-Za-z_+\-/0-9: ]{2,60}$/.test(v),
   availability: (v) => v.split(',').every((x) => (TRIAL_AVAILABILITY as readonly string[]).includes(x.trim())),
-  teacher: (v) => /^[a-z0-9-]{3,60}$/.test(v),
+  // D-330: must name a real teacher profile (TRIAL_TEACHERS), not just look like a slug.
+  teacher: (v) => /^[a-z0-9-]{3,60}$/.test(v) && Object.hasOwn(TRIAL_TEACHERS, v),
   source: (v) => (TRIAL_SOURCES as readonly string[]).includes(v),
   subject: (v) => v.length <= 300,
 };
@@ -262,8 +265,10 @@ const VALUE_LABEL: Record<string, Record<string, string>> = {
   board: { cambridge: 'Cambridge', edexcel: 'Pearson Edexcel', aqa: 'AQA', ocr: 'OCR', oxfordaqa: 'OxfordAQA', ib: 'IB', 'not-sure': 'Not sure' },
   format: { group: 'Group classes', 'one-to-one': 'One-to-one', 'help-me-decide': 'Help me decide' },
 };
-const readable = (field: string, value: string): string => {
+export const readable = (field: string, value: string): string => {
   if (field === 'availability') return value.split(',').map((x) => x.trim().replace('-', ' ')).join(', ');
+  // D-330: the staff email names the teacher, and flags it as a preference.
+  if (field === 'teacher') return Object.hasOwn(TRIAL_TEACHERS, value) ? `${TRIAL_TEACHERS[value]} (preference, not yet checked for availability)` : value;
   return VALUE_LABEL[field]?.[value] ?? value;
 };
 
@@ -279,3 +284,41 @@ export function renderEmailBody(kind: EnquiryKind, data: Record<string, string>)
 }
 
 export const ALLOWED_FIELDS_BY_KIND = FIELDS_BY_KIND;
+
+/**
+ * D-330 (2026-09-25) -- the acknowledgement emailed to the family after the
+ * staff notification for a trial request has been accepted by the email
+ * provider. Plain text only (values were sanitized by validateEnquiry and go
+ * into the body, never a header except the family's own address as `to`).
+ *
+ * It restates only what the family entered, says plainly that nothing is
+ * booked, and gives the response commitment and the correction routes. It
+ * never states a teacher, time or price as agreed: those come from a person.
+ */
+export const ACK_RESPONSE_SUMMARY = 'We reply to email enquiries within two working days, and to WhatsApp messages within one working day.';
+export const ACK_WHATSAPP = '+92 323 9149918';
+export function renderTrialAcknowledgement(data: Record<string, string>): { subject: string; text: string } {
+  const lines: string[] = [];
+  const firstName = (data.name ?? '').split(' ')[0] || 'there';
+  lines.push(`Hello ${firstName},`, '');
+  lines.push('Thank you. We have received your request for a free trial class with Marlbridge.');
+  lines.push('This is a request, not a booking: no class has been scheduled yet.', '');
+  lines.push('What you asked for:');
+  const rows: [string, string][] = [
+    ['Subjects', data.subject ?? ''],
+    ['Exam board', data.board ? readable('board', data.board) : ''],
+    ['Group or one-to-one', data.format ? readable('format', data.format) : ''],
+    ['Teacher preference', data.teacher && Object.hasOwn(TRIAL_TEACHERS, data.teacher) ? `${TRIAL_TEACHERS[data.teacher]} (we will tell you honestly whether they have room at your level and time)` : ''],
+    ['Preferred times', data.availability ? readable('availability', data.availability) : ''],
+    ['Country', data.country ?? ''],
+  ];
+  for (const [label, value] of rows) if (value) lines.push(`- ${label}: ${value}`);
+  lines.push('', 'What happens next:');
+  lines.push(`- ${ACK_RESPONSE_SUMMARY}`);
+  lines.push('- We will propose a teacher and a time, with the date and time shown in your own time zone. The class is only booked once you have agreed.');
+  lines.push('- The trial class is free, and there is no obligation to continue afterwards.', '');
+  lines.push(`Need to change something? Reply to this email, or message us on WhatsApp at ${ACK_WHATSAPP}.`, '');
+  lines.push('Marlbridge', 'https://marlbridge.com', '');
+  lines.push('You are receiving this because this email address was entered in the free trial form on marlbridge.com. If that was not you, you can ignore this message; nothing further will be sent unless you reply.');
+  return { subject: 'We have received your free trial request - Marlbridge', text: lines.join('\n') };
+}

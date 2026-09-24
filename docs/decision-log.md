@@ -14040,3 +14040,57 @@ The D-149 principle (no pop-ups or interstitials, and the material stays free) i
   2. The `/diagnostics/` hub's trial link sent `source=diagnostics-hub`, which the trial form ignores. It now sends `source=diagnostic`, and the new `npm run audit:trial-sources` (part of `audit:all`) checks every `/trial/?source=` link.
 - The stale ConsentAnalytics header comment ("no network request until Accept") was corrected.
 - Review dates: early health check 3 Oct (covering 26 Sep-2 Oct); first full-month review 24 Oct (24 Sep-23 Oct, with the newly instrumented metrics from 26 Sep). Written up in `docs/growth/journey-measurement-2026-09-25.md`.
+
+## D-330 - Website completion: trial journey, teacher profiles, pricing comparison and calculator, resource-to-tuition links (2026-09-25)
+
+**Scope.**
+- The owner's five website workstreams: 1, 2, 4, 5 and 6.
+- Excluded: the "Find my teacher" wizard, campaigns, bulk content, teacher review and `setReview`.
+- No price, discount rule or policy changed.
+
+**Trial journey.**
+- `/trial/` now opens with four facts from `PRICING_TERMS`: free with no obligation, a real class of the normal length, a request rather than a booking, and the reply times.
+- A `?teacher=` preference is shown on the form, labelled a preference, and can be removed.
+- The server now drops any teacher slug not in `functions/_lib/trial-teachers.ts`. A test keeps that list equal to the person profiles.
+- On a failed submission:
+  - everything typed is kept;
+  - focus goes to the first field the server rejected, or to the message;
+  - the Turnstile token is reset.
+- On success the page shows "Request received": nothing is booked yet, a summary of what was asked for (built from the form, never the URL), what happens next, how to correct a mistake, and a link to the course's free resources or to the diagnostics.
+- After Resend accepts the staff email, trial requests also get an acknowledgement email to the family (`renderTrialAcknowledgement`, Reply-To `hello@marlbridge.com`). If it fails, the request still succeeds with `acknowledged: false`, and the page then says only "We will reply to the email address you gave". No acknowledgement is sent for a honeypot hit or a failed staff email.
+- The staff email names the teacher as "(preference, not yet checked for availability)".
+- The privacy policy discloses the acknowledgement.
+- The manual steps (propose a time, confirm, reschedule) and time-zone rules are in `docs/operations/trial-follow-up.md`, with four templates.
+
+**Teacher profiles.**
+- Every profile now shows the two formats with class size, length and Pakistan fees from the canonical data, a link to all fees, and the site-wide availability statement.
+- No board, level or credential was added: `boardsTaught` and `qualificationsTaught` are empty for all 20 teachers.
+- Coverage, missing assets and a filming brief are in `docs/content-review/teacher-profiles-assets.md`.
+
+**Pricing.**
+- New group / one-to-one / IB comparison table.
+- New fee calculator: `src/utils/pricing/calculator.ts`, UI in `FeeCalculator.astro`. It uses only canonical data and confirmed rules, and rounds to the currency's precision (3 decimals for KWD, BHD and OMR).
+- Two unrecorded cases are flagged for a written quote rather than guessed: mixed IGCSE-rate and A-Level-rate baskets (does the 3-subject discount apply across them?), and sibling bills for more than one child.
+- One-to-one and IB show a per-class price, with a total only when a class count is entered.
+- The calculator's trial link carries `format` and `source=pricing`, and the page ends with a trial link.
+- `test:tools` gains 8 calculator tests, including agreement with every table row and with the published worked example.
+
+**Resource-to-tuition links.**
+- Where a resource belongs to exactly one taught course (one board, one qualification, a taught subject), both trial links carry `course=` and the top line reads "Need help with this topic? Request a free trial class for <course>". That is 1,453 of the 1,508 resource pages with a trial link.
+- Shared resources, such as 0620/5070, keep the programme-only link. Resources-only subjects still get no trial link (D-296).
+- Programme-page and home FAQ trial links now carry `source=program` and `source=home`.
+
+**Checks.**
+- Ten scripted journeys on a local build, with the enquiry API mocked. All passed:
+  - a parent unsure of the board;
+  - one topic from a resource;
+  - an overseas family comparing fees;
+  - a named teacher;
+  - several subjects;
+  - keyboard only (every focus stop visibly outlined);
+  - no horizontal overflow at 320 px on 8 page types;
+  - network and field failures;
+  - consent rejected;
+  - arriving from a diagnostic.
+- axe-core (WCAG 2.0/2.1/2.2 A and AA rules) found 0 violations on 8 page states.
+- These are automated walkthroughs, not usability research with people.

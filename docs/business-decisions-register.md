@@ -31,7 +31,12 @@ production by someone other than the implementer, with the date) · *open*
 | 19 | IB licence | **Answered 2026-09-05 (D-135)** — no IB licence is claimed or required; the D-008 wording was retired | D-135 in `docs/decision-log.md`; D-127 | Nothing. The "open, unchanged" text below predates this reconciliation, not the decision |
 | 20 | Further country pages | Scheduled review at day 90 | `docs/growth/international-measurement-plan-2026-09-23.md` | Search Console data at day 90 |
 
-**Genuinely open owner items: 7, 8, 14, 16, 18.** Each needs one answer from
+| 21 | Multi-subject discount across levels | **Open (added 2026-09-25, D-330)** | The calculator does not apply the 20% to a basket mixing IGCSE-rate and A-Level-rate subjects, and asks for a written quote | Owner rule: do 3+ subjects at different rates count together? |
+| 22 | Sibling discount with more than one child | **Open (D-330)** | The calculator applies 10% to one learner's fees, as the published worked example does | Owner rule: is the 10% taken off each child's fees, or only one child's? |
+| 23 | Boards and levels per teacher | **Open (D-330)** | `boardsTaught` / `qualificationsTaught` are empty for all 20 teachers; profiles show subjects only | The boards and qualifications each teacher currently teaches |
+| 24 | Notice for moving a confirmed trial class | **Open (D-330)** | Template 3 in `docs/operations/trial-follow-up.md` leaves it blank | A notice period, or confirmation that none is stated |
+
+**Genuinely open owner items: 7, 8, 14, 16, 18, 21-24.** Each needs one answer from
 the owner; none needs a new question drafted.
 
 

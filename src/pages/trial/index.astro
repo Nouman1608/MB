@@ -82,6 +82,13 @@ const faq = faqNode(faqs);
 >
   <Section surface="white">
     <Container>
+      {/* D-330: the four things a family needs to know before asking, from the approved PRICING_TERMS wording. */}
+      <ul class="m-0 mb-8 grid max-w-[72ch] list-none gap-3 p-0 text-[15px] leading-relaxed sm:grid-cols-2" aria-label="About the free trial class">
+        <li class="m-0 rounded-sm border border-rule bg-ivory p-4"><strong class="text-navy-800">Free, no obligation.</strong> {PRICING_TERMS.freeTrial} You decide afterwards whether to continue.</li>
+        <li class="m-0 rounded-sm border border-rule bg-ivory p-4"><strong class="text-navy-800">A real class.</strong> Group: {PRICING_TERMS.classFormat.group.split(',')[0]}. One-to-one: {PRICING_TERMS.classFormat.oneToOne.split('.')[0]}.</li>
+        <li class="m-0 rounded-sm border border-rule bg-ivory p-4"><strong class="text-navy-800">A request, not a booking.</strong> We propose a teacher and a time in your time zone; nothing is scheduled until you agree.</li>
+        <li class="m-0 rounded-sm border border-rule bg-ivory p-4"><strong class="text-navy-800">Quick reply.</strong> {PRICING_TERMS.enquiryResponse.short}</li>
+      </ul>
       <TrialRequestForm />
     </Container>
   </Section>

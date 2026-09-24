@@ -62,6 +62,7 @@ import {
   validateEnquiry,
   isHoneypotTripped,
   renderEmailBody,
+  renderTrialAcknowledgement,
   type EnquiryKind,
 } from '../_lib/enquiry-validation.ts';
 
@@ -174,7 +175,7 @@ async function checkRateLimit(kv: KVLike | undefined, ip: string | null): Promis
  * Throws on any non-2xx response so the caller's existing try/catch
  * produces the honest 502 failure path already in place.
  */
-async function sendViaResend(apiKey: string, opts: { subject: string; text: string; replyTo?: string }): Promise<void> {
+async function sendViaResend(apiKey: string, opts: { subject: string; text: string; replyTo?: string; to?: string }): Promise<void> {
   const res = await fetch('https://api.resend.com/emails', {
     method: 'POST',
     headers: {
@@ -183,7 +184,7 @@ async function sendViaResend(apiKey: string, opts: { subject: string; text: stri
     },
     body: JSON.stringify({
       from: ENQUIRY_SENDER,
-      to: [ENQUIRY_RECIPIENT],
+      to: [opts.to ?? ENQUIRY_RECIPIENT],
       subject: opts.subject,
       text: opts.text,
       ...(opts.replyTo ? { reply_to: opts.replyTo } : {}),
@@ -293,7 +294,24 @@ export const onRequestPost = async (context: { request: Request; env: Env }): Pr
     return jsonResponse(502, { ok: false, message: 'Something went wrong sending your enquiry. Please try again, or email us.' });
   }
 
-  return jsonResponse(200, { ok: true });
+  // D-330 -- the request is accepted once the staff notification above has
+  // been accepted by Resend. Only then, and only for trial requests, the
+  // family gets an acknowledgement. Its failure never turns an accepted
+  // request into an error: the response just reports `acknowledged: false`,
+  // and the page then says we will reply by email instead of claiming a copy
+  // was sent. "Accepted by Resend" is not "arrived in the inbox"; the page
+  // wording reflects that.
+  let acknowledged = false;
+  if (kind === 'trial' && typeof result.data.email === 'string') {
+    try {
+      const ack = renderTrialAcknowledgement(result.data);
+      await sendViaResend(env.RESEND_API_KEY, { to: result.data.email, subject: ack.subject, text: ack.text, replyTo: 'hello@marlbridge.com' });
+      acknowledged = true;
+    } catch {
+      acknowledged = false;
+    }
+  }
+  return jsonResponse(200, kind === 'trial' ? { ok: true, acknowledged } : { ok: true });
 };
 
 export const onRequestGet = async (): Promise<Response> => jsonResponse(405, { ok: false, message: 'Method not allowed.' });

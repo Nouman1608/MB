@@ -1,0 +1,129 @@
+---
+/**
+ * D-330 (2026-09-25) -- fee calculator for /pricing/.
+ *
+ * All arithmetic is in src/utils/pricing/calculator.ts (tested against the
+ * tables and the published worked example). This file is only the form and
+ * the result. It asks for no personal information and sends nothing anywhere;
+ * the result is announced politely to screen readers as it changes.
+ */
+import { REGIONS } from '../../utils/pricing/calculator';
+import { routes } from '../../utils/urls/routes';
+const input = 'min-h-11 w-full rounded-sm border border-rule bg-white px-3 text-[15.5px] text-ink';
+const label = 'text-[14.5px] font-medium text-ink';
+const choice = 'flex min-h-11 cursor-pointer items-center gap-2 rounded-sm border border-rule px-3 text-[14.5px] has-[:checked]:border-navy-800 has-[:checked]:bg-ivory';
+---
+<form data-fee-calc class="grid gap-6 rounded-sm border border-rule bg-white p-[clamp(18px,2.4vw,28px)] lg:grid-cols-[1fr_minmax(280px,380px)]" aria-labelledby="fee-calc-heading" onsubmit="return false">
+  <div class="grid gap-5">
+    <div class="grid gap-1.5">
+      <label for="fc-region" class={label}>Where the learner lives</label>
+      <select id="fc-region" name="region" class={input}>
+        {REGIONS.map((r) => <option value={r}>{r === 'Other countries' ? 'Another country (US dollars)' : r}</option>)}
+      </select>
+    </div>
+    <fieldset class="m-0 border-0 p-0">
+      <legend class={`mb-2 p-0 ${label}`}>Type of tuition</legend>
+      <div class="flex flex-wrap gap-2">
+        <label class={choice}><input type="radio" name="format" value="group" checked class="h-4 w-4" />Group classes</label>
+        <label class={choice}><input type="radio" name="format" value="one-to-one" class="h-4 w-4" />One-to-one</label>
+        <label class={choice}><input type="radio" name="format" value="ib" class="h-4 w-4" />IB (one-to-one)</label>
+      </div>
+    </fieldset>
+    <div data-fc-group class="grid gap-4 sm:grid-cols-2">
+      <div class="grid gap-1.5">
+        <label for="fc-igcse" class={label}>IGCSE / GCSE / O Level subjects</label>
+        <input id="fc-igcse" name="igcseSubjects" type="number" inputmode="numeric" min="0" max="20" value="1" class={input} />
+      </div>
+      <div class="grid gap-1.5">
+        <label for="fc-alevel" class={label}>AS / A Level subjects</label>
+        <input id="fc-alevel" name="aLevelSubjects" type="number" inputmode="numeric" min="0" max="20" value="0" class={input} />
+      </div>
+      <label class="flex min-h-11 items-center gap-2 text-[14.5px] sm:col-span-2"><input type="checkbox" name="sibling" class="h-4 w-4" />A brother or sister is also enrolled in group classes</label>
+    </div>
+    <div data-fc-one hidden class="grid gap-4 sm:grid-cols-2">
+      <fieldset class="m-0 border-0 p-0 sm:col-span-2">
+        <legend class={`mb-2 p-0 ${label}`}>Level</legend>
+        <div class="flex flex-wrap gap-2">
+          <label class={choice}><input type="radio" name="tier" value="igcse" checked class="h-4 w-4" />IGCSE / GCSE / O Level</label>
+          <label class={choice}><input type="radio" name="tier" value="aLevel" class="h-4 w-4" />AS / A Level</label>
+        </div>
+      </fieldset>
+    </div>
+    <div data-fc-ib hidden>
+      <fieldset class="m-0 border-0 p-0">
+        <legend class={`mb-2 p-0 ${label}`}>Programme</legend>
+        <div class="flex flex-wrap gap-2">
+          <label class={choice}><input type="radio" name="ibProgramme" value="dp" checked class="h-4 w-4" />Diploma Programme</label>
+          <label class={choice}><input type="radio" name="ibProgramme" value="myp" class="h-4 w-4" />Middle Years Programme</label>
+        </div>
+      </fieldset>
+    </div>
+    <div data-fc-classes hidden class="grid max-w-[260px] gap-1.5">
+      <label for="fc-classes" class={label}>Number of classes (optional)</label>
+      <input id="fc-classes" name="classes" type="number" inputmode="numeric" min="0" max="200" value="" placeholder="e.g. 8" aria-describedby="fc-classes-hint" class={input} />
+      <p id="fc-classes-hint" class="m-0 text-[13px] text-ink-mute">One-to-one is charged per class. Leave empty to see the price of one class.</p>
+    </div>
+  </div>
+
+  <div class="rounded-sm bg-ivory p-5">
+    <p class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Estimate</p>
+    <output data-fc-out for="fc-region fc-igcse fc-alevel fc-classes" aria-live="polite" class="mt-2 block text-[15px] leading-relaxed">
+      <noscript>The calculator needs JavaScript. Every fee is in the tables below.</noscript>
+    </output>
+    <a data-fc-trial href={`${routes.trial}?source=pricing`} data-cta="pricing-trial" class="mt-4 inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-5 py-3 text-[15px] font-medium text-ivory hover:bg-navy-700">Request a free trial class</a>
+    <p class="m-0 mt-2 text-[12.5px] text-ink-mute">An estimate, not a quote or a booking. The fee is confirmed in writing before any payment.</p>
+  </div>
+</form>
+
+<script>
+  import { calculateFee, type Format } from '../../utils/pricing/calculator';
+  import { formatFee } from '../../data/pricing';
+  const form = document.querySelector<HTMLFormElement>('[data-fee-calc]');
+  if (form) {
+    const out = form.querySelector<HTMLElement>('[data-fc-out]')!;
+    const trial = form.querySelector<HTMLAnchorElement>('[data-fc-trial]')!;
+    const show = (sel: string, on: boolean) => { form.querySelector<HTMLElement>(sel)!.hidden = !on; };
+    const val = (name: string) => (form.elements.namedItem(name) as RadioNodeList | HTMLInputElement | null)?.value ?? '';
+    const render = () => {
+      const format = (val('format') || 'group') as Format;
+      show('[data-fc-group]', format === 'group');
+      show('[data-fc-one]', format === 'one-to-one');
+      show('[data-fc-ib]', format === 'ib');
+      show('[data-fc-classes]', format !== 'group');
+      const r = calculateFee({
+        region: val('region'), format,
+        igcseSubjects: Number(val('igcseSubjects')), aLevelSubjects: Number(val('aLevelSubjects')),
+        sibling: (form.elements.namedItem('sibling') as HTMLInputElement).checked,
+        tier: val('tier') as 'igcse' | 'aLevel', ibProgramme: val('ibProgramme') as 'myp' | 'dp',
+        classes: Number(val('classes')),
+      });
+      const money = (n: number) => `${formatFee(n, r.currency)} ${r.currency}`;
+      const frag = document.createDocumentFragment();
+      const p = (text: string, cls = 'm-0') => { const e = document.createElement('p'); e.className = cls; e.textContent = text; frag.append(e); return e; };
+      if (r.ok) {
+        for (const l of r.lines) p(`${l.label}: ${money(l.amount)}`, 'm-0 text-ink-mute');
+        if (r.discountPercent) {
+          p(`Before discount: ${money(r.subtotal)} ${r.period}`, 'm-0 mt-2');
+          p(`Discount (${r.discountPercent}%): −${money(r.discountAmount)}`, 'm-0');
+        }
+        p(`Total: ${money(r.total)} ${r.period}`, 'm-0 mt-2 text-[20px] font-semibold text-navy-800');
+        if (r.indicative) p('Indicative', 'm-0 mt-1 inline-block rounded-sm border border-gold-500 px-1.5 py-0.5 font-mono text-[10.5px] uppercase tracking-[0.08em] text-gold-600');
+      }
+      const ul = document.createElement('ul');
+      ul.className = 'm-0 mt-3 grid gap-1 ps-4 text-[13.5px] text-ink-mute';
+      for (const n of r.notes) { const li = document.createElement('li'); li.textContent = n; ul.append(li); }
+      if (r.notes.length) frag.append(ul);
+      if (r.needsQuote) p('Ask for a written quote: we will confirm this case before any payment.', 'm-0 mt-2 text-[14px] font-medium text-ink');
+      out.replaceChildren(frag);
+      // Carry the chosen format to the trial form, which shows it and lets the family change it.
+      const q = new URLSearchParams({ source: 'pricing' });
+      if (format === 'group') q.set('format', 'group');
+      else { q.set('format', 'one-to-one'); if (format === 'ib') q.set('program', 'ib'); }
+      trial.href = `/trial/?${q.toString()}`;
+      trial.textContent = format === 'group' ? 'Request a free group trial class' : 'Request a free one-to-one trial class';
+    };
+    form.addEventListener('input', render);
+    form.addEventListener('change', render);
+    render();
+  }
+</script>

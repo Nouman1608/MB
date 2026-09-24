@@ -80,6 +80,22 @@ const classesAvailable = taughtOnly().some(
   (c) => matrixSubjects.includes(c.subjectSlug) && (d.boards.length === 0 || d.boards.includes(c.boardSlug)),
 );
 const ibOnly = d.boards.length > 0 && d.boards.every((b) => b === 'ib');
+/**
+ * D-330 -- when the resource belongs to exactly one taught course (one board,
+ * one qualification, a taught subject), the trial links carry that course, so
+ * /trial/ fills in the subject and board (visible and editable there) and the
+ * invitation can name the course. Otherwise the links keep the programme-only
+ * context above: never a guessed course.
+ */
+const taughtMatches = classesAvailable && d.boards.length === 1 && d.qualifications.length === 1
+  ? taughtOnly().filter((c) => matrixSubjects.includes(c.subjectSlug) && c.boardSlug === d.boards[0] && c.qualificationSlug === d.qualifications[0])
+  : [];
+const taughtCourse = taughtMatches.length === 1 ? taughtMatches[0] : undefined;
+const taughtCourseCode = taughtCourse ? syllabusFor(taughtCourse.boardSlug, taughtCourse.qualificationSlug, taughtCourse.subjectSlug)?.code : undefined;
+const taughtCourseLabel = taughtCourse ? `${taughtCourse.qualification} ${taughtCourse.subject}${taughtCourseCode ? ` (${taughtCourseCode})` : ''}` : undefined;
+const courseTrialHref = taughtCourse
+  ? `${routes.trial}?course=${encodeURIComponent(`${taughtCourse.boardSlug}/${taughtCourse.qualificationSlug}/${taughtCourse.subjectSlug}`)}&source=resource`
+  : trialHref;
 const formatPhrase = ibOnly ? 'one-to-one' : `one-to-one and in small groups of up to ${PRICING_TERMS.maxGroupSize}`;
 
 /**
@@ -281,8 +297,10 @@ const jsonLd = [articleNode({
         D-296); the full block at the foot stays as it was. */}
     {classesAvailable && (
       <p class="m-0 mt-1">
-        Want a teacher for this? Marlbridge teaches {subject?.data.title ?? 'this subject'} online.{' '}
-        <a href={trialHref} data-cta="resource-trial-top" class="font-medium text-navy-800 underline decoration-gold-500 underline-offset-2">Request a free trial class</a>.
+        {taughtCourseLabel
+          ? <>Need help with this topic? <a href={courseTrialHref} data-cta="resource-trial-top" class="font-medium text-navy-800 underline decoration-gold-500 underline-offset-2">Request a free trial class for {taughtCourseLabel}</a>.</>
+          : <>Want a teacher for this? Marlbridge teaches {subject?.data.title ?? 'this subject'} online.{' '}
+            <a href={courseTrialHref} data-cta="resource-trial-top" class="font-medium text-navy-800 underline decoration-gold-500 underline-offset-2">Request a free trial class</a>.</>}
       </p>
     )}
   </div>
@@ -387,7 +405,7 @@ const jsonLd = [articleNode({
         <div class="flex flex-col items-start gap-3 lg:pt-10">
           {classesAvailable ? (
             <>
-              <a href={trialHref} data-cta="resource-trial" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-6 py-3 text-[15px] font-medium text-ivory transition-colors duration-150 hover:bg-navy-700">Request a free trial</a>
+              <a href={courseTrialHref} data-cta="resource-trial" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-6 py-3 text-[15px] font-medium text-ivory transition-colors duration-150 hover:bg-navy-700">Request a free trial</a>
               <a href={routes.tutoring} class="text-[15px] font-medium text-navy-800 underline decoration-gold-500 underline-offset-4 hover:text-gold-600">Meet the teachers</a>
             </>
           ) : (
