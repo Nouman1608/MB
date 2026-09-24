@@ -41,7 +41,8 @@
  * "Reviewed by teachers" trust line reappears (AA; originally D-092, inverted
  * when D-134 rescinded that claim), and a form control whose id no longer
  * matches its <label for=...> (AC, Flagship Dominance/Trust programme,
- * D-099, accessibility audit).
+ * D-099, accessibility audit), and a diagnostic set recorded as reviewed by
+ * a reviewer who does not teach its subject (AH, D-328).
  *
  * Categories proven elsewhere, not re-implemented here (see comments below
  * each skip): cross-board topic contamination (test-cross-board-regression.mjs,
@@ -567,6 +568,25 @@ if (!existsSync(trustFixtureFile)) {
     },
   );
 }
+
+console.log('\n[AH] Diagnostic set review: a recorded review must name a real, subject-matched reviewer (D-328)');
+// Located structurally: the first set in DIAGNOSTIC_SETS whose code is 0620
+// gets a setReview naming a Physics teacher. validate-diagnostics.mjs must
+// reject it, because "This set was reviewed by <name>" would then be public.
+withMutation(
+  'src/data/diagnostics.ts',
+  (text) => {
+    const i = text.indexOf("code: '0620',", text.indexOf('export const DIAGNOSTIC_SETS'));
+    if (i === -1) return text;
+    const j = text.indexOf('    minutes: ', i);
+    return text.slice(0, j) + "    setReview: { reviewerSlug: 'iftikhar-azeemi', reviewedOn: '2026-09-24' },\n" + text.slice(j);
+  },
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-diagnostics.mjs',
+    expectSubstring: 'does not teach chemistry',
+    label: 'a 0620 diagnostic set recorded as reviewed by a Physics teacher is rejected',
+  },
+);
 
 console.log('\n[AB] Flagship Dominance/Trust programme -- internal-links audit correctly parses hrefs with a query string');
 const queryLinkFixtureFile = 'dist/resources/a-level-edexcel-law-the-law-in-action/index.html';

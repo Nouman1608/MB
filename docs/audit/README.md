@@ -7,6 +7,21 @@ file is one round, findings are **never edited after publication**, and later ro
 **amend** earlier ones. Acting on an old file without checking what amended it is how the
 corpus briefly ended up worse than baseline on five files — see the amendment map below.
 
+> **Current account, 25 Sep 2026 00:30 PKT (register reconciliation, D-328).** The audit's
+> last round is round 60 (file label `2026-12-06`, run 2026-09-22 20:02 PKT). At that point **no
+> audit finding was open**. That statement has limits, set out in "Where the numbers stand"
+> below: it covers findings this audit raised, not the correctness of the whole site, and it
+> does not cover the 79 resources added after round 19's read (71 of them on 24 Sep 2026 for
+> the diagnostics). File names from `2026-09-13` onward are **round labels, not run dates** —
+> see "File labels and run dates" at the end of this page.
+>
+> **Status words, used separately:** *read end to end* (the auditor read the whole resource) ·
+> *finding declared closed* (a repair round's decision-log entry says it is handled) · *repair
+> independently checked* (a later audit round read the repaired file on `main` and found it
+> fixed) · *academically verified* (a subject teacher or examiner has confirmed the content is
+> correct). The audit has done the first three for the findings it raised. **No resource is
+> academically verified by this audit**, and the audit has never claimed that.
+
 ---
 
 ## Before you change anything
@@ -179,12 +194,130 @@ finding against a snapshot that was three days old.
 | confirmed errors open | **0 groups; no finding open** *(reconciliation current through **D-285**; every declared closure D-138 to D-284 read. Every finding this audit raised is fixed and verified or closed by the owner's decision. **Not a certificate that every statement on the site is correct.**)* |
 | declared closed by decision log D-138–D-284 | 881 |
 | still open despite a closing round (deferred, partial, disputed, heading-only, or reopened) | 0 |
-| withdrawn by this audit | 1 (E746) |
-| resources read end to end | 1,251 of 1,251 baseline; all 1,645 on `main` at `251571e` read at least once (round 19). Board claims in the 397 post-baseline resources unchecked (U72). |
+| withdrawn by this audit | Whole findings: E746 (round 6), E48 (round 9), E398 (round 32). Also six audit items in round 20 and sub-points in rounds 22, 44 and 46 — see those files. *(This row said "1 (E746)" until the 2026-09-25 reconciliation.)* |
+| resources read end to end | **Baseline:** 1,251 of 1,251 at the frozen baseline `ee1b341f`. **Round 19:** all 1,645 resources on `main` at `251571e` (2026-09-16) read at least once. **Not read by this audit:** the 79 resources added after `251571e` — 8 on 2026-09-21 and 71 on 2026-09-24 (the practice banks behind the diagnostics, D-312 to D-324). **Current corpus:** 1,724 resources on `main` at `d6cf86ae` (2026-09-25). |
+| board claims in post-baseline resources | U72 fully worked by round 25 (label `2026-11-01`). *(This row said "unchecked (U72)" until the 2026-09-25 reconciliation.)* |
+| repairs since round 60 | 596 resource files were modified between `251571e` and `d6cf86ae`. Those inside D-138 to D-284 were checked by rounds 20-60. Changes after D-284 (D-285 onward, 22-25 Sep) have **not** been checked by this audit. |
 
 **"Declared closed" means a repair round recorded the finding as handled — not that the audit
-verified it.** Of the closures spot-checked by reading: five sound, two better than the
-correction asked for, one a regression that has since been corrected.
+verified it.** Since round 34, every declared closure D-138 to D-284 has been read on `main`
+(the "repair independently checked" state). The earlier sentence here — "of the closures
+spot-checked by reading: five sound, two better than the correction asked for, one a
+regression" — described the position before round 9 and is kept only as history.
 
 The decision log remains the authoritative record of what was *done*, and this folder the
 record of what was *found*.
+
+---
+
+## File labels and run dates
+
+*Added 2026-09-25 (D-328). The labels are left as they are: the files are append-only and are
+cited by name throughout the decision log.*
+
+From `2026-09-13-findings.md` onward, the date in a file's name is a **round label**: each round
+took the next calendar day as its label, whatever day it actually ran. The whole series
+`2026-09-11` to `2026-12-06` was written between **2026-09-11 and 2026-09-22**. Evidence: the
+date each file was first committed (git author date, PKT), and, from round 31, the run date the
+file states in its own **Evidence** lines.
+
+Read a label as an order number, never as a date. For example, "Absence documents — finished
+(2026-10-15)" in `HANDOFF.md` means *round 8, label 2026-10-15*, which was committed on
+2026-09-16.
+
+**Unresolved:** two files state a run time later than their own commit time — round 53
+(`2026-11-29`: run 19:45, committed 19:39 PKT) and round 59 (`2026-12-05`: run 19:35, committed
+19:34 PKT). The repository cannot explain the gap; one of the two clocks is wrong, or the stated
+time is when the round was written up rather than when it started. Files
+without a stated run date ran no later than their commit date.
+
+| file | label | first committed (PKT) | run date stated in the file |
+|---|---|---|---|
+| `2026-09-11-findings.md` | 2026-09-11 | 2026-09-11 17:34 | - |
+| `2026-09-12-findings.md` | 2026-09-12 | 2026-09-12 10:51 | - |
+| `2026-09-13-findings.md` | 2026-09-13 | 2026-09-12 14:35 | - |
+| `2026-09-14-findings.md` | 2026-09-14 | 2026-09-12 18:09 | - |
+| `2026-09-15-findings.md` | 2026-09-15 | 2026-09-13 23:37 | - |
+| `2026-09-15-tier-resolution-response.md` | 2026-09-15 | 2026-09-15 00:43 | - |
+| `2026-09-16-findings.md` | 2026-09-16 | 2026-09-14 18:17 | - |
+| `2026-09-17-findings.md` | 2026-09-17 | 2026-09-14 18:17 | - |
+| `2026-09-18-findings.md` | 2026-09-18 | 2026-09-14 19:10 | - |
+| `2026-09-19-findings.md` | 2026-09-19 | 2026-09-14 20:37 | - |
+| `2026-09-20-findings.md` | 2026-09-20 | 2026-09-14 21:03 | - |
+| `2026-09-21-findings.md` | 2026-09-21 | 2026-09-14 21:18 | - |
+| `2026-09-22-findings.md` | 2026-09-22 | 2026-09-14 22:22 | - |
+| `2026-09-23-findings.md` | 2026-09-23 | 2026-09-14 22:49 | - |
+| `2026-09-24-findings.md` | 2026-09-24 | 2026-09-14 23:28 | - |
+| `2026-09-25-findings.md` | 2026-09-25 | 2026-09-14 23:36 | - |
+| `2026-09-26-findings.md` | 2026-09-26 | 2026-09-14 23:44 | - |
+| `2026-09-27-findings.md` | 2026-09-27 | 2026-09-14 23:51 | - |
+| `2026-09-28-findings.md` | 2026-09-28 | 2026-09-14 23:55 | - |
+| `2026-09-29-findings.md` | 2026-09-29 | 2026-09-15 00:13 | - |
+| `2026-09-30-findings.md` | 2026-09-30 | 2026-09-15 01:12 | - |
+| `2026-10-01-findings.md` | 2026-10-01 | 2026-09-15 01:24 | - |
+| `2026-10-02-repair-regression.md` | 2026-10-02 | 2026-09-15 01:53 | - |
+| `2026-10-03-findings.md` | 2026-10-03 | 2026-09-15 04:42 | - |
+| `2026-10-04-findings.md` | 2026-10-04 | 2026-09-15 07:39 | - |
+| `2026-10-05-findings.md` | 2026-10-05 | 2026-09-15 07:46 | - |
+| `2026-10-06-findings.md` | 2026-10-06 | 2026-09-15 07:58 | - |
+| `2026-10-07-findings.md` | 2026-10-07 | 2026-09-15 16:16 | - |
+| `2026-10-08-findings.md` | 2026-10-08 | 2026-09-15 19:28 | - |
+| `2026-10-09-findings.md` | 2026-10-09 | 2026-09-15 19:43 | - |
+| `2026-10-10-findings.md` | 2026-10-10 | 2026-09-15 20:03 | - |
+| `2026-10-11-findings.md` | 2026-10-11 | 2026-09-15 20:45 | - |
+| `2026-10-12-findings.md` | 2026-10-12 | 2026-09-15 22:19 | - |
+| `2026-10-13-findings.md` | 2026-10-13 | 2026-09-15 23:07 | - |
+| `2026-10-14-findings.md` | 2026-10-14 | 2026-09-15 23:39 | - |
+| `2026-10-15-findings.md` | 2026-10-15 | 2026-09-16 00:20 | - |
+| `2026-10-16-findings.md` | 2026-10-16 | 2026-09-16 07:56 | - |
+| `2026-10-17-findings.md` | 2026-10-17 | 2026-09-16 17:42 | - |
+| `2026-10-18-findings.md` | 2026-10-18 | 2026-09-16 18:22 | - |
+| `2026-10-19-findings.md` | 2026-10-19 | 2026-09-16 19:13 | - |
+| `2026-10-20-findings.md` | 2026-10-20 | 2026-09-16 19:40 | - |
+| `2026-10-21-findings.md` | 2026-10-21 | 2026-09-16 20:58 | - |
+| `2026-10-22-findings.md` | 2026-10-22 | 2026-09-16 21:20 | - |
+| `2026-10-23-findings.md` | 2026-10-23 | 2026-09-16 21:21 | - |
+| `2026-10-24-findings.md` | 2026-10-24 | 2026-09-16 21:38 | - |
+| `2026-10-25-findings.md` | 2026-10-25 | 2026-09-16 21:56 | - |
+| `2026-10-26-findings.md` | 2026-10-26 | 2026-09-16 23:11 | - |
+| `2026-10-27-findings.md` | 2026-10-27 | 2026-09-17 00:29 | - |
+| `2026-10-28-findings.md` | 2026-10-28 | 2026-09-17 00:53 | - |
+| `2026-10-29-findings.md` | 2026-10-29 | 2026-09-17 02:05 | - |
+| `2026-10-30-findings.md` | 2026-10-30 | 2026-09-17 02:47 | - |
+| `2026-10-31-findings.md` | 2026-10-31 | 2026-09-17 02:56 | - |
+| `2026-11-01-findings.md` | 2026-11-01 | 2026-09-17 03:25 | - |
+| `2026-11-02-findings.md` | 2026-11-02 | 2026-09-17 03:39 | - |
+| `2026-11-03-findings.md` | 2026-11-03 | 2026-09-17 07:26 | - |
+| `2026-11-04-findings.md` | 2026-11-04 | 2026-09-17 07:35 | - |
+| `2026-11-05-findings.md` | 2026-11-05 | 2026-09-17 07:56 | - |
+| `2026-11-06-findings.md` | 2026-11-06 | 2026-09-17 09:39 | - |
+| `2026-11-07-findings.md` | 2026-11-07 | 2026-09-17 09:59 | Round 31 (2026-09-17) |
+| `2026-11-08-findings.md` | 2026-11-08 | 2026-09-17 10:16 | Round 32 (2026-09-17) |
+| `2026-11-09-findings.md` | 2026-11-09 | 2026-09-17 10:32 | Round 33 (2026-09-17) |
+| `2026-11-10-findings.md` | 2026-11-10 | 2026-09-17 10:48 | Round 34 (2026-09-17) |
+| `2026-11-11-findings.md` | 2026-11-11 | 2026-09-17 11:07 | Round 35 (2026-09-17) |
+| `2026-11-12-findings.md` | 2026-11-12 | 2026-09-17 11:52 | Round 36 (2026-09-17) |
+| `2026-11-13-findings.md` | 2026-11-13 | 2026-09-17 14:51 | Round 37 (2026-09-17) |
+| `2026-11-14-findings.md` | 2026-11-14 | 2026-09-17 15:15 | Round 38 (2026-09-17) |
+| `2026-11-15-findings.md` | 2026-11-15 | 2026-09-17 15:39 | Round 39 (2026-09-17) |
+| `2026-11-16-findings.md` | 2026-11-16 | 2026-09-17 15:48 | Round 40 (2026-09-17) |
+| `2026-11-17-findings.md` | 2026-11-17 | 2026-09-17 16:28 | Round 41 (2026-09-17) |
+| `2026-11-18-findings.md` | 2026-11-18 | 2026-09-17 18:17 | Round 42 (2026-09-17) |
+| `2026-11-19-findings.md` | 2026-11-19 | 2026-09-17 18:58 | Round 43 (2026-09-17) |
+| `2026-11-20-findings.md` | 2026-11-20 | 2026-09-17 20:47 | Round 44 (2026-09-17) |
+| `2026-11-21-findings.md` | 2026-11-21 | 2026-09-17 21:15 | Round 45 (2026-09-17) |
+| `2026-11-22-findings.md` | 2026-11-22 | 2026-09-17 21:57 | Round 46 (2026-09-17) |
+| `2026-11-23-findings.md` | 2026-11-23 | 2026-09-17 22:32 | Round 47 (2026-09-17) |
+| `2026-11-24-findings.md` | 2026-11-24 | 2026-09-18 01:03 | Round 48 (2026-09-17) |
+| `2026-11-25-findings.md` | 2026-11-25 | 2026-09-21 17:13 | Round 49 (2026-09-18) |
+| `2026-11-26-findings.md` | 2026-11-26 | 2026-09-21 17:35 | Round 50 (2026-09-21) |
+| `2026-11-27-findings.md` | 2026-11-27 | 2026-09-21 19:08 | Round 51 (2026-09-21) |
+| `2026-11-28-findings.md` | 2026-11-28 | 2026-09-21 19:27 | Round 52 (2026-09-21, 19:26 PKT) |
+| `2026-11-29-findings.md` | 2026-11-29 | 2026-09-21 19:39 | Round 53 (2026-09-21, 19:45 PKT) |
+| `2026-11-30-findings.md` | 2026-11-30 | 2026-09-21 19:51 | Round 54 (2026-09-21, 19:50 PKT) |
+| `2026-12-01-findings.md` | 2026-12-01 | 2026-09-21 20:27 | Round 55 (2026-09-21, 20:26 PKT) |
+| `2026-12-02-findings.md` | 2026-12-02 | 2026-09-21 20:47 | Round 56 (2026-09-21, 20:41 PKT) |
+| `2026-12-03-findings.md` | 2026-12-03 | 2026-09-21 21:01 | Round 57 (2026-09-21, 20:57 PKT) |
+| `2026-12-04-findings.md` | 2026-12-04 | 2026-09-21 21:28 | Round 58 (2026-09-21, 21:20 PKT) |
+| `2026-12-05-findings.md` | 2026-12-05 | 2026-09-22 19:34 | Round 59 (2026-09-22, 19:35 PKT) |
+| `2026-12-06-findings.md` | 2026-12-06 | 2026-09-22 20:03 | Round 60 (2026-09-22, 20:02 PKT) |

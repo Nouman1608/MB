@@ -10,6 +10,17 @@ of the terminology (§5), over-deletion (§2) and enumeration (§4) groups — *
 group has now been read** — and with a correction to this document's own opening claim, which
 described damage that had already been repaired. See "Why this exists" below.*
 
+> **Status note, 25 Sep 2026 00:30 PKT (D-328).** This catalogue still describes how to apply
+> a correction safely, and that guidance stands. Its present-tense *status* statements do not.
+> "E276 — still open", "E276 is the only one still open" and "All six remain open" (E335, E367,
+> E391, E625, E631, E642) were true on 2026-09-15. All seven were later closed by repair
+> rounds and **checked on `main` by the audit**: E391, E625, E631 and E642 in the round-12 read
+> of D-138 to D-225 (label `2026-10-19`) and the rounds after it; E276 reopened in round 31 and
+> closed in round 38 (label `2026-11-14`, 63 of 64 reopened closures fixed); E367's repair
+> introduced E910 (round 12), which round 14 (label `2026-10-21`) read as fixed; E335 was read as
+> fixed with a minor residue (I381) in round 31, and I381 was among the items round 38 read on
+> `main` at `c763a79`. The text below is left as written.
+
 > **Before acting on anything here, check the file as it stands on `main`.** This document
 > records what was true when each constraint was written. The repair work moves faster than
 > the findings do, and this audit has twice published a present-tense claim about files that
