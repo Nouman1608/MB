@@ -13782,3 +13782,26 @@ Accessibility, Best Practices and SEO are 100 on every page. The LCP element is 
 - gtag.js is present right after load, and `dataLayer` holds the queued calls.
 
 Local Lighthouse, before → after: `/trial/` 88 → 93, TBT → 130 ms; the resource page and `/uae/` are 93 and 92. Live figures should be re-measured after deploy.
+
+## D-318 - Why the site measured slow, and the font fix (2026-09-24)
+
+**Owner request:** "find why the website is slow and fix it".
+
+**Findings (24 Sep 2026, mobile).**
+
+1. **Visitors do not wait ~5 s.** Headless Chromium on the live site, with 4× CPU slowdown and a slow-4G connection (150 ms latency, 1.6 Mbps), measured first and largest paint at 1.1–1.5 s on `/pakistan/`, `/pricing/` and the Physics 0625 hub. Lighthouse with DevTools throttling measured `/pricing/` 86 (LCP 1.9 s), `/pakistan/` 90 and `/trial/` 87.
+2. **Where the 5 s figure comes from.** The default Lighthouse score (used by PageSpeed Insights) *estimates* a slow-phone load from one fast load. On `/pricing/` that fast load showed a blank page until 2.4 s, after the load event (at 1.3 s) and after Google Analytics had started. The estimate therefore counted every download before that paint, including a 132 KB font and the 176 KB Google Analytics script, and reported LCP about 5 s and a score about 70. It varies from run to run: the Physics hub scored 95 in one run and 70 in the next.
+3. **A real waste found along the way:**
+   - `newsreader-latin-400.woff2` (the serif heading font, preloaded on every page) was a full variable font, with weights 200–800 and an optical-size axis: 132 KB, when the site only uses weight 400. Its latin-ext file was 87 KB.
+   - `public-sans-latin-400.woff2` (the body font, also preloaded on every page) was a variable font covering weights 100–900: 27 KB.
+
+| Change | Result |
+|---|---|
+| Newsreader 400 fixed at weight 400. Its optical-size axis is kept for 18–72 px, the sizes the site actually uses for it (all headings are 18 px or larger), so headings keep their optical sizing. | 132 KB → 40 KB (latin); 87 KB → 26 KB (latin-ext) |
+| Public Sans 400 fixed as a static weight-400 font. | 27 KB → 15 KB (latin); 18 KB → 11 KB (latin-ext) |
+
+This saves about 102 KB on the first visit to any page. The two files downloaded before first paint on every page (both preloaded) drop from 159 KB to 55 KB. The pixel check is 1280×520 screenshots of `/` and `/pricing/`, live vs the new build. They are visually identical: 119 and 809 pixels differ, all anti-aliasing. `audit:fonts` passes (14 distinct binaries, no cross-weight duplicates).
+
+**Tried and not kept:** inlining the stylesheet into every page removes one blocking request, but grows each HTML page by about 50 KB (the CSS uncompressed), which every page view would pay because it can't be cached. Not worth it.
+
+**Still to watch:** Google's real-user data (Chrome UX Report, which is what search rankings use) is the measure that matters. Check it in Search Console → Core Web Vitals once Google has enough visits; the report said "no data" on 24 Sep. The day-30 scheduled check should look at it too.
