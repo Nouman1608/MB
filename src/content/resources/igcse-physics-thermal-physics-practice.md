@@ -53,6 +53,8 @@ Related: [Thermal Physics revision notes](/resources/igcse-physics-thermal-physi
 
 **12.** Explain why metals are much better conductors of heat than non-metallic solids such as wood or glass. **[2]**
 
+**13.** Explain, in terms of molecules, why evaporation cools the liquid that is left behind. **[2]**
+
 ---
 
 ## Answers
@@ -80,6 +82,10 @@ Related: [Thermal Physics revision notes](/resources/igcse-physics-thermal-physi
 **11.** View smoke particles in a glass cell under a microscope, illuminated from the side [1]. The smoke particles are seen to move in a continuous, random, erratic (zig-zag) path [1]. This is evidence for the particle model of matter: the visible smoke particles are being struck unevenly by fast-moving, randomly-moving air molecules that are too small to see directly [1].
 
 **12.** In addition to particle vibrations passing energy to neighbouring particles (as happens in any solid), metals contain **free (delocalised) electrons** [1]. These free electrons move quickly through the metal, carrying thermal energy along with them much faster than vibrations alone can, which is why metals conduct heat far better than non-metallic solids [1].
+
+**13.** The **more energetic** molecules escape from the **surface** of the liquid [1], so the **average kinetic energy** of the remaining molecules decreases and the temperature of the liquid falls [1].
+
+*Common mistake:* saying "all the molecules lose energy"; only the fastest molecules leave, which lowers the average.
 
 ---
 

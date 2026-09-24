@@ -76,6 +76,12 @@ Related: [Forces and Motion revision notes](/resources/edexcel-igcse-physics-for
 
 **10.** Explain why the upward support forces at each end of a beam change as a load is moved along its length. **[2]**
 
+**11.** Ball A, of mass 0.20 kg, moves at 3.0 m/s and hits a stationary ball B.
+
+**(a)** Compare the force that A exerts on B with the force that B exerts on A during the collision. **[2]**
+
+**(b)** Calculate the momentum of ball A before the collision. **[1]**
+
 ---
 
 ## Answers
@@ -114,6 +120,11 @@ d = **20 cm** from the pivot [1].
 **9.** k = F ÷ x = 2.0 ÷ 0.040 [1] = **50 N/m**. For F = 5.0 N: x = F ÷ k = 5.0 ÷ 50 [1] = **0.10 m (10 cm)** [1]. Note that x must be converted to metres to give k in the standard unit of N/m; using centimetres directly would give a numerically different, non-standard result.
 
 **10.** As the load moves closer to one support, **that support carries a greater share of the load's weight**, while the more distant support carries less [1]. This is because taking moments about a support gives the reaction force at the *other* support: as the load moves closer to support A, **the moment about A (which determines support B's reaction) decreases, so B's upward force decreases**, while A's upward force correspondingly increases [1]. The two support forces must always sum to the total weight being supported, however the load is positioned.
+
+**11.** **(a)** The forces are **equal in size** [1] and **opposite in direction** [1].
+**(b)** *p* = *mv* = 0.20 × 3.0 = **0.60 kg m/s** [1].
+
+*Mark-scheme insight (June 2024):* separate marks are given for "same size" and "opposite direction"; a slogan such as "every action has an equal and opposite reaction" earns only one mark. *Try the real question next:* Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 2PR, Question 5.
 
 ---
 

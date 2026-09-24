@@ -70,6 +70,10 @@ Related: [Radioactivity revision notes](/resources/edexcel-igcse-physics-radioac
 
 **11.** Distinguish between contamination and irradiation, including which is an ongoing risk after the source is removed. **[3]**
 
+**12.** **(a)** Define the *half-life* of a radioactive isotope. **[2]**
+
+**(b)** A sample has an activity of 800 Bq. Its half-life is 6 hours. Calculate its activity after 18 hours. **[1]**
+
 ---
 
 ## Answers
@@ -104,6 +108,11 @@ Related: [Radioactivity revision notes](/resources/edexcel-igcse-physics-radioac
 **10.** Fusion **combines smaller nuclei into a larger one**, with a loss of mass converted into a release of energy — the process powering stars, including the Sun [1] [1]. It requires extremely high temperature and pressure to **overcome the electrostatic repulsion** between positively charged nuclei, conditions not present on Earth under everyday circumstances [1].
 
 **11. Contamination** is when radioactive material is **transferred onto or into an object or person**, remaining an ongoing risk even after the original source is removed [1]. **Irradiation** is exposure to radiation from an external source **without** any material being transferred [1] — the risk stops as soon as the source is removed or the person moves away [1].
+
+**12.** **(a)** The **time taken** [1] for the **activity** (or the number of undecayed nuclei) to **halve** [1].
+**(b)** 18 hours is three half-lives: 800 → 400 → 200 → **100 Bq** [1].
+
+*Mark-scheme insight (June 2024):* "half the time" is rejected; the definition must be the time taken for the activity (or count rate, or number of nuclei) to halve. *Try the real question next:* Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 1PR, Question 8.
 
 ---
 

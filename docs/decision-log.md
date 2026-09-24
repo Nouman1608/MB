@@ -13720,3 +13720,19 @@ Owner request on 2026-09-24 ("complete all the sets in one go"), after D-312 was
 
 All six diagnostic sets are now paper-modelled. None is teacher-reviewed yet (`setReview` empty), and the pages say so.
 
+## D-315 - Diagnostics for 0580, 0625, 4CH1 and 4PH1; Edexcel IGCSE joins the practice bank (2026-09-24)
+
+Owner request on 2026-09-24 ("do 1 and 2"): Edexcel IGCSE diagnostics, and diagnostics for IGCSE Maths 0580 and IGCSE Physics 0625.
+
+| Item | Files | What changed |
+|---|---|---|
+| Bank | `src/utils/academic/index.ts` | 4CH1 and 4PH1 (Pearson Edexcel International GCSE Chemistry and Physics) are added to `FLAGSHIP_DEFINITIONS`, so they get a practice bank, `/practice/4CH1/`, `/practice/4PH1/` and diagnostics. |
+| Topic-level tags | `src/utils/practice/bank.ts`, `client-questions.ts`, `schema.ts` | A `syllabusTopics` entry with a topic but no subtopic is now kept, with an empty subtopic, and labelled with the topic name. Before, such entries were dropped, so every 0625 question had no topic and could not be used in a diagnostic. |
+| Answers heading | `edexcel-igcse-physics-{electricity,waves}-practice.md` | "## Worked answers" renamed "## Answers". The parser only reads "## Answers", so these two files had been contributing no questions. |
+| New files | `edexcel-igcse-chemistry-physical-chemistry-practice.md`, `edexcel-igcse-chemistry-organic-practice.md`, `igcse-physics-electricity-and-magnetism-practice.md` | Original practice sets (5, 5 and 6 questions) for topics that had none: 4CH1 Topics 3 and 4, and 0625 Topic 4. Author: marlbridge-academic-team. |
+| Questions | 16 existing practice files | Original questions appended. Edexcel ones are modelled on the June 2024 4CH1 Papers 1CR/2CR and 4PH1 Papers 1PR/2PR and their mark schemes (the only Edexcel IGCSE papers in the owner's folder; there is no examiner report). They end with a "Mark-scheme insight (June 2024)" line in our own words and "Try the real question next". The 0580 and 0625 folders hold no papers, so those questions are written from the syllabus. They end with a "Common mistake" line and name no paper. |
+| Sets | `src/data/diagnostics.ts` | New sets: `0580/core` (12 marks, 6 topics); `0625/core` (12 marks, 4 topics); `4CH1/all-topics` (15 marks, 4 topics); `4PH1/all-topics` (15 marks, 6 topics). Only the Edexcel sets carry `modelledOn`. |
+| Validator / page | `scripts/validate-diagnostics.mjs`, diagnostic page | The figure/table check no longer trips on "significant figures". Page titles use a suffix map (Core, Extended, AS Topics, A Level Topics, or none). |
+
+No exam-board text is reproduced. None of the new sets is teacher-reviewed yet.
+

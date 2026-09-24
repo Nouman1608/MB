@@ -83,6 +83,8 @@ Related: [Geometry revision notes](/resources/igcse-mathematics-geometry-revisio
 
 **9.** Points D, E and F lie on the circumference of a circle. Angle DEF = 90°. State the circle theorem this confirms about the line DF, and explain your reasoning. **[2]**
 
+**10.** Calculate the size of one interior angle of a regular octagon. **[2]**
+
 ---
 
 ## Answers
@@ -111,6 +113,10 @@ Related: [Geometry revision notes](/resources/igcse-mathematics-geometry-revisio
 **(c)** The tangent and the radius meet **at 90°** (the tangent is perpendicular to the radius at the point of contact) [1].
 
 **9.** This confirms the **angle in a semicircle is 90°** theorem [1]. Since angle DEF, standing on DF, is 90°, **DF must be a diameter of the circle** [1].
+
+**10.** Exterior angle = 360° ÷ 8 = 45° [1]; interior angle = 180° − 45° = **135°** [1].
+
+*Common mistake:* dividing 360° by 8 and giving 45° as the interior angle. Check: the interior angle of a regular polygon with more than four sides is always obtuse.
 
 ---
 

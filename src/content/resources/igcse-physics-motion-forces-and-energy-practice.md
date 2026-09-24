@@ -68,6 +68,10 @@ Related: [Motion, Forces and Energy revision notes](/resources/igcse-physics-mot
 
 **(b)** A second force acts on the other side of the pivot, at a distance of 0.3 m from the pivot, holding the beam in equilibrium. Calculate the size of this second force. **[2]**
 
+**12.** A car speeds up uniformly from 5.0 m/s to 25 m/s in 8.0 s. Calculate its acceleration. **[2]**
+
+**13.** A metal block has a mass of 540 g and a volume of 200 cm³. Calculate its density. **[2]**
+
 ---
 
 ## Answers
@@ -98,6 +102,14 @@ Related: [Motion, Forces and Energy revision notes](/resources/igcse-physics-mot
 
 **11. (a)** moment = force × perpendicular distance = 20 × 0.6 [1] = **12 N m** [1].
 **(b)** At equilibrium, clockwise moment = anticlockwise moment [1]: F × 0.3 = 12, so F = 12 ÷ 0.3 = **40 N** [1].
+
+**12.** *a* = change in velocity ÷ time = (25 − 5.0) ÷ 8.0 [1] = **2.5 m/s²** [1].
+
+*Common mistake:* dividing the final speed by the time (25 ÷ 8.0) without subtracting the starting speed.
+
+**13.** ρ = *m* ÷ *V* [1] = 540 ÷ 200 = **2.7 g/cm³** [1].
+
+*Common mistake:* dividing volume by mass, or leaving out the unit.
 
 ---
 

@@ -136,6 +136,10 @@ const FLAGSHIP_DEFINITIONS: FlagshipSpec[] = [
   { code: '0580', boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'mathematics' },
   { code: '9701', boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'chemistry' },
   { code: '9702', boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'physics' },
+  // D-315 (2026-09-24): Pearson Edexcel International GCSE Chemistry and
+  // Physics join the practice bank so they can have diagnostics.
+  { code: '4CH1', boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'chemistry' },
+  { code: '4PH1', boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'physics' },
 ];
 
 let cachedFlagships: (FlagshipSpec & { combination: Combination })[] | null = null;

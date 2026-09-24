@@ -51,6 +51,8 @@ magnesium. Justify your order using one reaction-based piece of evidence. **[4]*
 **7.** Define oxidation and reduction using **both** the oxygen-based and electron-based definitions,
 using the reaction between magnesium and copper oxide as your example. **[6]**
 
+**8.** In the blast furnace, iron(III) oxide reacts with carbon monoxide: Fe₂O₃ + 3CO → 2Fe + 3CO₂. Identify the substance that is reduced and explain your answer in terms of oxygen. **[2]**
+
 ---
 
 ## Answers
@@ -88,6 +90,10 @@ oxide is reduced because it loses oxygen (forms copper) [1] [1]. **Electron-base
 oxidised because it loses electrons (forms Mg²⁺); copper ions are reduced because they gain electrons
 (form Cu atoms) [1] [1]. Both definitions describe the same reaction correctly — the choice depends on
 which convention the question uses [1] [1].
+
+**8.** **Iron(III) oxide** is reduced [1] because it **loses oxygen** [1] (to the carbon monoxide).
+
+*Mark-scheme insight (June 2024):* the mark scheme rejects saying the metal ("iron") loses oxygen; it is the metal **oxide** that loses oxygen and is reduced. *Try the real question next:* Pearson Edexcel International GCSE Chemistry 4CH1, June 2024, Paper 1CR, Question 12.
 
 ---
 

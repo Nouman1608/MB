@@ -31,7 +31,8 @@ import { z } from 'astro/zod';
 
 export const TopicRefSchema = z.object({
   topicSlug: z.string().min(1, 'topicSlug must not be empty'),
-  subtopicSlug: z.string().min(1, 'subtopicSlug must not be empty'),
+  // D-315: empty when a file is tagged to a topic only (no subtopic yet).
+  subtopicSlug: z.string(),
 });
 
 /** Raw parsed question, as produced by src/utils/practice/bank.ts. */

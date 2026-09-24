@@ -64,6 +64,8 @@ Related: [Trigonometry revision notes](/resources/igcse-mathematics-trigonometry
 
 **8.** *(Extended)* In triangle XYZ, XY = 6 cm, YZ = 8 cm and XZ = 11 cm. Use the cosine rule to find angle Y, correct to 1 decimal place. **[3]**
 
+**9.** In a right-angled triangle the hypotenuse is 10 cm and one angle is 35°. Calculate the length of the side opposite the 35° angle. **[2]**
+
 ---
 
 ## Answers
@@ -84,6 +86,10 @@ Related: [Trigonometry revision notes](/resources/igcse-mathematics-trigonometry
 **(b)** Base diagonal = √(6² + 8²) = √100 = 10 cm [1]. tan(angle) = 10 ÷ 10 = 1 [1] → angle = **45.0°** [1].
 
 **8.** Rearranging the cosine rule to find an angle: cos Y = (XY² + YZ² − XZ²) ÷ (2 × XY × YZ) [1] = (6² + 8² − 11²) ÷ (2 × 6 × 8) = (36 + 64 − 121) ÷ 96 = −21 ÷ 96 = −0.2188 [1] → Y = cos⁻¹(−0.2188) = **102.6°** [1].
+
+**9.** Opposite = hypotenuse × sin 35° [1] = 10 × 0.5736 = **5.74 cm** [1].
+
+*Common mistake:* using cos instead of sin. Label the sides (opposite, adjacent, hypotenuse) from the given angle before choosing the ratio.
 
 ---
 

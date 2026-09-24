@@ -88,7 +88,7 @@ const payload = JSON.stringify({ code: set.code, set: set.slug, courseId, questi
 const trialHref = `/trial/?course=${encodeURIComponent(courseId)}&source=diagnostic`;
 ---
 <PageLayout
-  title={`${c.qualification} ${c.subject} (${set.code}) 10-Minute Diagnostic${set.slug === 'core' ? (diagnosticsForCode(set.code).length > 1 ? ' — Core' : '') : set.slug === 'extended' ? ' — Extended' : ` — ${set.slug === 'as' ? 'AS' : 'A Level'} Topics`}`}
+  title={`${c.qualification} ${c.subject} (${set.code}) 10-Minute Diagnostic${({ core: diagnosticsForCode(set.code).length > 1 ? ' — Core' : '', extended: ' — Extended', as: ' — AS Topics', 'a-level': ' — A Level Topics' } as Record<string, string>)[set.slug] ?? ''}`}
   description={`Free 10-minute study check for ${courseTitle}, ${set.scopeLabel.replace(/ \(.*\)$/, '')}: ${questions.length} questions, worked answers and topics to practise next. Not a predicted grade.`}
   path={path}
   eyebrow={`Free diagnostic · ${c.board} ${c.qualification} · ${set.code}`}

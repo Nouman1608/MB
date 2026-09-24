@@ -69,6 +69,10 @@ Related: [Number revision notes](/resources/igcse-mathematics-number-revision-no
 
 **11.** Convert a speed of 72 km/h to m/s. **[2]**
 
+**12.** **(a)** Write 0.000 405 in standard form. **[1]**
+
+**(b)** Round 3.4567 to 3 significant figures. **[1]**
+
 ---
 
 ## Answers
@@ -97,6 +101,11 @@ Related: [Number revision notes](/resources/igcse-mathematics-number-revision-no
 **10.** 4 × 3 = 12 [1]; 10⁵ × 10³ = 10⁸ [1]; 12 × 10⁸ = **1.2 × 10⁹** (renormalised, since 12 lies outside 1 ⩽ a < 10) [1].
 
 **11.** 72 km/h = 72 000 m/h [1]; ÷ 3600 = **20 m/s** [1]. Both the distance unit (km→m) and the time unit (h→s) must be converted — converting only one is the standard error.
+
+**12.** **(a)** **4.05 × 10⁻⁴** [1].
+**(b)** **3.46** [1].
+
+*Common mistake:* writing 40.5 × 10⁻⁵ (the first number must be between 1 and 10), or counting decimal places instead of significant figures.
 
 ---
 

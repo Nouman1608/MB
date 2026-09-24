@@ -63,6 +63,12 @@ Related: [Probability revision notes](/resources/igcse-mathematics-probability-r
 
 **7.** A fair coin is tossed twice. Using a tree diagram approach, find the probability of getting exactly one head. **[3]**
 
+**8.** A bag contains 5 red counters and 3 blue counters. A counter is taken at random and then replaced.
+
+**(a)** Find the probability that it is blue. **[1]**
+
+**(b)** This is done 40 times. Find the expected number of times a blue counter is taken. **[1]**
+
 ---
 
 ## Answers
@@ -84,6 +90,11 @@ Related: [Probability revision notes](/resources/igcse-mathematics-probability-r
 **(b)** Expected number of "not 6" rolls = 0.85 × 300 [1] = **255** [1].
 
 **7.** Each toss is independent, so the probability stays 0.5 for heads and 0.5 for tails on **both** branches, unlike a without-replacement problem [1]. Exactly one head happens via two paths: heads-then-tails or tails-then-heads [1]. P(exactly one head) = (0.5 × 0.5) + (0.5 × 0.5) = 0.25 + 0.25 = **0.5** [1].
+
+**8.** **(a)** **3/8** [1].
+**(b)** 40 × 3/8 = **15** [1].
+
+*Common mistake:* writing the probability as 3/5 (blue compared with red) instead of 3/8 (blue out of all the counters).
 
 ---
 
