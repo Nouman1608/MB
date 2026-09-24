@@ -358,6 +358,45 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
     ],
     minutes: 10,
   },
+  {
+    slug: 'as',
+    code: '9709',
+    boardSlug: 'cambridge',
+    qualificationSlug: 'a-level',
+    subjectSlug: 'mathematics',
+    scopeLabel: 'Four AS papers: Pure 1, Pure 2, Mechanics, Probability & Statistics 1',
+    modelledOn: 'the Cambridge International AS & A Level Mathematics June 2025 Papers 12, 42 and 52',
+    audience: 'For AS and A Level Mathematics candidates.',
+    // D-321 (2026-09-24): original questions modelled on the June 2025 question papers (analysis only; no board text reproduced).
+    questionIds: [
+      'a-level-mathematics-pure-1-mixed-practice-q3',
+      'a-level-mathematics-pure-1-mixed-practice-q4',
+      'a-level-mathematics-pure-mathematics-2-practice-q3',
+      'a-level-mathematics-mechanics-practice-q1',
+      'a-level-mathematics-probability-statistics-1-practice-q1',
+    ],
+    minutes: 10,
+  },
+  {
+    slug: 'all-topics',
+    code: '4024',
+    boardSlug: 'cambridge',
+    qualificationSlug: 'o-level',
+    subjectSlug: 'mathematics',
+    scopeLabel: 'Six topic areas of the syllabus',
+    modelledOn: 'the Cambridge O Level Mathematics June 2025 Papers 12 and 22',
+    audience: 'For all 4024 candidates (the qualification is not tiered).',
+    // D-321 (2026-09-24): original questions modelled on the June 2025 question papers (analysis only; no board text reproduced).
+    questionIds: [
+      'o-level-mathematics-number-practice-q4',
+      'o-level-mathematics-coordinate-geometry-practice-q2',
+      'o-level-mathematics-mensuration-practice-q2',
+      'o-level-mathematics-trigonometry-practice-q4',
+      'o-level-mathematics-geometry-practice-q1',
+      'o-level-mathematics-probability-practice-q1',
+    ],
+    minutes: 10,
+  },
 ] as const;
 
 export const diagnosticPath = (s: Pick<DiagnosticSet, 'code' | 'slug'>): string =>

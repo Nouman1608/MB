@@ -13842,3 +13842,19 @@ This saves about 102 KB on the first visit to any page. The two files downloaded
 **Not changed.** The 9093 notes follow the 2024–2026 syllabus, so their title does not say 2027 even though searchers ask for it. The O Level World History and A Level Physics hubs already carried the code and document name. No June 2027 key-dates document was found on Cambridge's site on 24 Sep, so none is shown.
 
 **Check at day 30:** CTR for these 13 URLs in Search Console against the figures above.
+
+## D-321 - Diagnostics for A Level Mathematics (9709) and O Level Mathematics (4024) (2026-09-24)
+
+**Why:** the owner asked to fill the gaps left by D-319: 9709 and 4024 had too few practice questions to build a diagnostic.
+
+**Past-paper policy (unchanged since D-109):** the June 2025 question papers in the owner's "Papers 2025" folder (9709 Papers 12, 42 and 52; 4024 Papers 12 and 22) were used for analysis only. Every question is original, with new numbers and contexts. No board text is reproduced. The folder has no mark schemes or examiner reports for these papers, so every answer was worked out independently (and checked numerically), and each question ends with a "Tip" line, not an examiner insight.
+
+| Change | Files |
+|---|---|
+| 9709 and 4024 join `FLAGSHIP_DEFINITIONS`, so each gets a practice bank at `/practice/<code>/` and diagnostics. | `src/utils/academic/index.ts` |
+| New 9709 practice files: Pure Mathematics 1 mixed (9 questions), Mechanics (7), Probability & Statistics 1 (7). | `src/content/resources/a-level-mathematics-*-practice.md` |
+| New 4024 practice files: Number (11), Geometry (7), Mensuration (6), Trigonometry (6), Coordinate geometry (5), Probability (5). Before this, all 4024 practice questions were in Algebra and graphs. | `src/content/resources/o-level-mathematics-*-practice.md` |
+| Two sets: `9709/as` (5 questions, 16 marks, 4 papers) and `4024/all-topics` (6 questions, 16 marks, 6 topics). | `src/data/diagnostics.ts` |
+| The Pure Mathematics 2 practice file's "Worked solutions" heading is renamed "Answers", and one hard-wrapped answer line that started with a bold number is joined, so the bank parser reads the file. | `a-level-mathematics-pure-mathematics-2-practice.md` |
+
+**Status:** both sets await teacher review, like the other 14.
