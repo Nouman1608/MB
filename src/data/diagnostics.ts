@@ -15,7 +15,10 @@
  * `setReview` records that review once it has actually happened; until
  * then the page says plainly that the set has not been checked as a set.
  *
- * WHY THESE THREE CODES. Only 0620, 9701 and 9702 have enough questions
+ * D-315 (2026-09-24): 0580, 0625, 4CH1 and 4PH1 now have sets too (see
+ * docs/decision-log.md D-315); the paragraph below is the original D-286 note.
+ *
+ * WHY THESE THREE CODES (D-286). Only 0620, 9701 and 9702 have enough questions
  * tagged to syllabus topics to cover a spread of topics (0580 has 26 of 82
  * questions with no topic tag and no Number/Algebra questions; 0625's 32
  * questions carry no topic tags at all). See D-286.
@@ -195,6 +198,86 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
       'a-physics-oscillations-practice-q10',
       'a-physics-capacitance-practice-q9',
       'a-physics-quantum-physics-practice-q9',
+    ],
+    minutes: 10,
+  },
+  {
+    slug: 'core',
+    code: '0580',
+    boardSlug: 'cambridge',
+    qualificationSlug: 'igcse',
+    subjectSlug: 'mathematics',
+    scopeLabel: 'Six topics across the syllabus, Core content',
+    audience: 'For Core and Extended candidates. Every question is on content both tiers study.',
+    // D-315 (2026-09-24): six original questions, one per topic. No 0580
+    // papers were available, so the set is written from the syllabus.
+    questionIds: [
+      'igcse-mathematics-number-practice-q12',
+      'igcse-mathematics-algebra-and-graphs-practice-q16',
+      'igcse-mathematics-geometry-practice-q10',
+      'igcse-mathematics-mensuration-practice-q10',
+      'igcse-mathematics-trigonometry-practice-q9',
+      'igcse-mathematics-probability-practice-q8',
+    ],
+    minutes: 10,
+  },
+  {
+    slug: 'core',
+    code: '0625',
+    boardSlug: 'cambridge',
+    qualificationSlug: 'igcse',
+    subjectSlug: 'physics',
+    scopeLabel: 'Four topics across the syllabus, Core content',
+    audience: 'For Core and Extended candidates. Every question is on content both tiers study.',
+    // D-315 (2026-09-24): six original questions across four topics. No 0625
+    // papers were available, so the set is written from the syllabus.
+    questionIds: [
+      'igcse-physics-motion-forces-and-energy-practice-q12',
+      'igcse-physics-motion-forces-and-energy-practice-q13',
+      'igcse-physics-thermal-physics-practice-q13',
+      'igcse-physics-waves-practice-q10',
+      'igcse-physics-electricity-and-magnetism-practice-q1',
+      'igcse-physics-electricity-and-magnetism-practice-q2',
+    ],
+    minutes: 10,
+  },
+  {
+    slug: 'all-topics',
+    code: '4CH1',
+    boardSlug: 'edexcel',
+    qualificationSlug: 'igcse',
+    subjectSlug: 'chemistry',
+    scopeLabel: 'All four topic areas of the specification',
+    modelledOn: 'the Pearson Edexcel International GCSE Chemistry June 2024 papers (1CR and 2CR)',
+    audience: 'For all 4CH1 candidates (the qualification is not tiered).',
+    // D-315 (2026-09-24): original questions modelled on the June 2024 papers and mark schemes.
+    questionIds: [
+      'igcse-edexcel-chemistry-principles-practice-q12',
+      'igcse-edexcel-chemistry-principles-practice-q13',
+      'edexcel-igcse-chemistry-reactivity-practice-q8',
+      'edexcel-igcse-chemistry-physical-chemistry-practice-q1',
+      'edexcel-igcse-chemistry-physical-chemistry-practice-q2',
+      'edexcel-igcse-chemistry-organic-practice-q1',
+    ],
+    minutes: 10,
+  },
+  {
+    slug: 'all-topics',
+    code: '4PH1',
+    boardSlug: 'edexcel',
+    qualificationSlug: 'igcse',
+    subjectSlug: 'physics',
+    scopeLabel: 'Six topics across the specification',
+    modelledOn: 'the Pearson Edexcel International GCSE Physics June 2024 papers (1PR and 2PR)',
+    audience: 'For all 4PH1 candidates (the qualification is not tiered).',
+    // D-315 (2026-09-24): original questions modelled on the June 2024 papers and mark schemes.
+    questionIds: [
+      'edexcel-igcse-physics-forces-motion-practice-q11',
+      'edexcel-igcse-physics-electricity-practice-q9',
+      'edexcel-igcse-physics-waves-practice-q10',
+      'edexcel-igcse-physics-solids-liquids-gases-practice-q10',
+      'edexcel-igcse-physics-magnetism-practice-q10',
+      'edexcel-igcse-physics-radioactivity-practice-q12',
     ],
     minutes: 10,
   },

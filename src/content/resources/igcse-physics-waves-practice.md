@@ -69,6 +69,8 @@ one named use of microwaves. **[3]**
 **9.** White light passes through a glass prism and disperses into a spectrum. Explain, in terms of
 refraction, why red and blue light end up separated, and state which colour refracts more. **[3]**
 
+**10.** A student stands 204 m from a large wall and claps. The echo is heard 1.2 s after the clap. Calculate the speed of sound. **[2]**
+
 ---
 
 ## Answers
@@ -108,6 +110,10 @@ speed, time, and the distance (depth) being found [2].
 each colour refracts by a slightly different amount when it passes into and out of the glass prism
 [1]. Because each colour bends by a different amount, the colours separate out into a visible spectrum
 after passing through the prism [1]. Blue light refracts more than red light [1].
+
+**10.** The sound travels to the wall and back: distance = 2 × 204 = 408 m [1]; speed = 408 ÷ 1.2 = **340 m/s** [1].
+
+*Common mistake:* forgetting that an echo travels to the wall **and back**, which gives half the correct speed.
 
 ## A note on the ultrasound method
 

@@ -93,6 +93,8 @@ Related: [Magnetism and Electromagnetism revision notes](/resources/edexcel-igcs
 
 **(b)** A coil generates electricity as a magnet rotates inside it. State two factors, other than the strength of the magnet, that increase the size of the induced e.m.f. **[2]**
 
+**10.** Explain how a generator produces a voltage when its coil is rotated in a magnetic field. **[2]**
+
 ---
 
 ## Answers
@@ -135,6 +137,10 @@ I_p = (5.0 × 12) ÷ 240 [1] = **0.25 A** [1].
 **9. (a)** A straight wire produces **concentric circular field lines** around it [1]; a solenoid produces a **strong, mostly uniform field inside it**, resembling that of a bar magnet [1].
 
 **(b)** Any two: **increasing the speed of relative motion** between the magnet and coil [1]; **increasing the number of turns** on the coil [1].
+
+**10.** As the coil rotates, its wires **cut the magnetic field lines** (the coil experiences a changing magnetic field) [1], so a **voltage is induced** across the coil [1].
+
+*Mark-scheme insight (June 2024):* the mark is for a **voltage** (p.d.) being induced; "a current is induced" on its own is ignored, because a current only flows if the circuit is complete. *Try the real question next:* Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 1PR, Question 10.
 
 ---
 

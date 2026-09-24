@@ -81,7 +81,10 @@ function parseSyllabusTopics(fm: string): { qualification: string; topicSlug: st
     const qualification = entry.match(/qualification:\s*"?([\w-]+)/)?.[1];
     const topicSlug = entry.match(/topic:\s*"?([\w-]+)/)?.[1];
     const subtopicSlug = entry.match(/subtopic:\s*"?([\w-]+)/)?.[1];
-    if (qualification && topicSlug && subtopicSlug) out.push({ qualification, topicSlug, subtopicSlug });
+    // D-315: a topic-level tag (no subtopic) is kept with an empty subtopic,
+    // so files tagged only to a topic (0625, 4CH1 Topics 3-4, whose subtopics
+    // are not yet in syllabus-topics.ts) still report results by topic.
+    if (qualification && topicSlug) out.push({ qualification, topicSlug, subtopicSlug: subtopicSlug ?? '' });
   }
   return out;
 }

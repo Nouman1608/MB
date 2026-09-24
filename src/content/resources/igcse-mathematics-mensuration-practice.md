@@ -72,6 +72,8 @@ Related: [Mensuration revision notes](/resources/igcse-mathematics-mensuration-r
 
 **9.** A sphere has surface area 314.2 cm². Taking π = 3.142, find its radius. **[3]**
 
+**10.** Calculate the area of a circle of radius 6 cm. Give your answer correct to 3 significant figures. **[2]**
+
 ---
 
 ## Answers
@@ -97,6 +99,10 @@ Related: [Mensuration revision notes](/resources/igcse-mathematics-mensuration-r
 **8.** V = (4/3)πr³ = (4/3) × 3.142 × 6³ [1] = (4/3) × 3.142 × 216 = **905 cm³** (3 s.f.) [1].
 
 **9.** SA = 4πr² → r² = 314.2 ÷ (4 × 3.142) [1] = 314.2 ÷ 12.568 = 25 [1] → r = √25 = **5 cm** [1].
+
+**10.** *A* = π*r*² = π × 6² [1] = 113.097… = **113 cm²** [1].
+
+*Common mistake:* using the diameter instead of the radius, or calculating 2π*r* (the circumference) instead of π*r*².
 
 ---
 

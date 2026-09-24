@@ -76,6 +76,8 @@ Related: [Solids, Liquids and Gases revision notes](/resources/edexcel-igcse-phy
 
 **9.** Explain what is meant by absolute zero, and why no temperature lower than this is possible. **[2]**
 
+**10.** Explain, in terms of molecules, how a gas exerts a pressure on the walls of its container, and why the pressure is the same on every wall. **[2]**
+
 ---
 
 ## Answers
@@ -111,6 +113,10 @@ p₂ = 2.0 × 10⁵ × (500 ÷ 300) [1] = **3.3 × 10⁵ Pa** [1].
 **(b)** The particles themselves **do not change size** — it is the **space between them**, created by more vigorous vibration, that increases [1].
 
 **9.** Absolute zero (0 K, −273 °C) is the **lowest possible temperature**, at which particles have the **minimum possible kinetic energy** [1]; since **no further energy can be removed** from the particles once they are at this minimum, no lower temperature can exist [1].
+
+**10.** The molecules move **randomly** at high speed and **collide with the walls**, each collision exerting a force [1]. The collisions happen at an **equal rate in every direction**, so the pressure (force per unit area) is the same on each wall [1].
+
+*Mark-scheme insight (June 2024):* the second mark needs the idea of an equal rate of collisions in each direction, not just "molecules hit the walls". *Try the real question next:* Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 1PR, Question 11.
 
 ---
 

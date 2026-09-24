@@ -85,6 +85,7 @@ export function buildClientQuestions(spec: FlagshipSpecWithCombination): ClientQ
   const subtopicTier = new Map<string, 'core' | 'supplement' | 'both'>();
   if (topicMeta) {
     for (const t of topicMeta.topics) {
+      topicLabel.set(`${t.slug}/`, t.name);
       for (const st of t.subtopics) {
         topicLabel.set(`${t.slug}/${st.slug}`, `${t.name} — ${st.name}`);
         if (st.tier) subtopicTier.set(`${t.slug}/${st.slug}`, st.tier);

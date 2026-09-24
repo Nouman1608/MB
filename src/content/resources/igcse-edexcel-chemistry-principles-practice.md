@@ -87,6 +87,12 @@ Related: [Principles of Chemistry revision notes](/resources/igcse-edexcel-chemi
 
 **11.** A compound contains 40.0 g of calcium, 12.0 g of carbon and 48.0 g of oxygen. (A_r: Ca = 40, C = 12, O = 16). Calculate its empirical formula. **[3]**
 
+**12.** **(a)** State what is meant by the *atomic number* of an element. **[1]**
+
+**(b)** Chlorine has two isotopes, chlorine-35 and chlorine-37. State **one** way in which the atoms of these isotopes are different and **one** way in which they are the same. **[2]**
+
+**13.** Explain why magnesium, a metal, can be hammered into shape without breaking. **[2]**
+
 ---
 
 ## Answers
@@ -135,6 +141,15 @@ m = 0.20 × 58.5 = **11.7 g** [1].
 **(b)** n(Mg) = 24.0 ÷ 24 = 1.0 mol [1]; ratio Mg : MgO is 2 : 2, so n(MgO) = 1.0 mol; M_r(MgO) = 24 + 16 = 40 [1]; mass = 1.0 × 40 = **40.0 g** [1].
 
 **11.** moles: Ca = 40.0 ÷ 40 = 1.0; C = 12.0 ÷ 12 = 1.0; O = 48.0 ÷ 16 = 3.0 [1]. Dividing through by the smallest (1.0) gives the ratio Ca : C : O = 1 : 1 : 3 [1]. Empirical formula: **CaCO₃** [1].
+
+**12.** **(a)** The number of **protons** in the nucleus of an atom [1].
+**(b)** Different: chlorine-37 has **two more neutrons** (20 instead of 18) [1]. Same: the same number of **protons** (17) (or electrons, so the same chemical properties) [1].
+
+*Mark-scheme insight (June 2024):* atomic number is the number of **protons**; answers that add neutrons describe the mass number instead. *Try the real question next:* Pearson Edexcel International GCSE Chemistry 4CH1, June 2024, Paper 1CR, Question 1.
+
+**13.** Magnesium has **layers of positive ions** held together by **delocalised electrons** [1]. The layers (of ions) can **slide over one another** while the metallic bonding still holds them together [1].
+
+*Mark-scheme insight (June 2024):* the mark is for **atoms or ions** sliding over one another; answers that say protons or electrons slide are rejected. *Try the real question next:* Pearson Edexcel International GCSE Chemistry 4CH1, June 2024, Paper 2CR, Question 3.
 
 ---
 

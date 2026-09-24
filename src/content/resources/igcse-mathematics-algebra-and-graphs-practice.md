@@ -64,6 +64,8 @@ x − y = 1 **[3]**
 
 **15.** *(Extended)* y is inversely proportional to x. When x = 2, y = 15. Find y when x = 5. **[3]**
 
+**16.** Solve 3(*x* − 4) = 2*x* + 5. **[2]**
+
 ---
 
 ## Answers
@@ -98,6 +100,10 @@ x − y = 1 **[3]**
 **14.** fg(3): apply g first, g(3) = 9, then f(9) = 2(9) + 1 = **19** [1]. For f⁻¹(x): let y = 2x + 1, swap x and y to get x = 2y + 1, then solve: **f⁻¹(x) = (x − 1)/2** [1] [1].
 
 **15.** y = k/x, so 15 = k/2 [1] → k = 30. When x = 5: y = 30/5 = **6** [1] [1]. As with direct proportion, the constant k is found first from one known pair of values, then reused to find the rest.
+
+**16.** 3*x* − 12 = 2*x* + 5 [1], so *x* = **17** [1].
+
+*Common mistake:* expanding the bracket as 3*x* − 4 (multiply **every** term inside the bracket by 3).
 
 ## Examiner report insight
 

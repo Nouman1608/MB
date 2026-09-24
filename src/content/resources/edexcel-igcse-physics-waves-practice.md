@@ -84,9 +84,11 @@ Related: [Waves revision notes](/resources/edexcel-igcse-physics-waves-revision-
 **(b)** Explain, using the idea of total internal reflection, how the student could use this material to redirect a beam of light through 90° without losing light to absorption at a reflecting surface. **[3]**
 **(c)** Explain why this design is used in binoculars and periscopes instead of ordinary mirrors. **[2]**
 
+**10.** A ray of light enters a glass block. The angle of incidence is 50° and the angle of refraction is 30°. Calculate the refractive index of the glass. **[2]**
+
 ---
 
-## Worked answers
+## Answers
 
 **1.** Longitudinal. **[1]**
 
@@ -113,6 +115,10 @@ Related: [Waves revision notes](/resources/edexcel-igcse-physics-waves-revision-
 **9. (a)** `n = 1/sin c = 1/sin 39° = 1/0.629 = 1.59` (3 s.f.). **[2]**
 **(b)** A 45° prism made from the material can be arranged so the light strikes one internal face at 45°, which is greater than the material's 39° critical angle, so instead of refracting out, the light undergoes total internal reflection off that internal face and is redirected through 90° while remaining inside the prism. **[3]**
 **(c)** Total internal reflection reflects effectively all of the incident light with no absorption loss at the reflecting surface, whereas an ordinary mirror's silvered coating absorbs and scatters a small but significant fraction of the light at every reflection, so a prism-based design keeps the image brighter, especially after several internal reflections in an instrument like a periscope or binoculars. **[2]**
+
+**10.** *n* = sin *i* ÷ sin *r* [1] = sin 50° ÷ sin 30° = 0.766 ÷ 0.500 = **1.53** [1].
+
+*Mark-scheme insight (June 2024):* the mark scheme rejects *n* = *i* ÷ *r* and any answer found by dividing the angles themselves (here 50 ÷ 30 = 1.67). Always take the sines first. *Try the real question next:* Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 1PR, Question 6.
 
 ## Official syllabus
 
