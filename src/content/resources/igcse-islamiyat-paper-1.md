@@ -1,5 +1,7 @@
 ---
 title: "IGCSE Islamiyat: Paper 1 (Cambridge 0493)"
+seoTitle: "IGCSE Islamiyat 0493 Paper 1: Syllabus Topics 2026–2027"
+seoDescription: "Cambridge IGCSE Islamiyat 0493 Paper 1 for the 2026 and 2027 exams: every syllabus topic, from the themes of the Qur'an to the Prophet's life (pbuh)."
 resourceType: "study-guides"
 subject: "islamiyat"
 level: ["igcse"]

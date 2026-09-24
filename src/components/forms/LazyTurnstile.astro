@@ -1,0 +1,41 @@
+---
+/**
+ * D-317 -- loads Cloudflare Turnstile's api.js only when it is needed.
+ *
+ * Lighthouse (mobile, 24 Sep 2026) measured the trial page and every study
+ * resource page (which carries the revision-email box) at LCP 8.3-8.4 s,
+ * against 1.1-2.1 s on pages without Turnstile; the script's main-thread
+ * work delayed the first render. Turnstile renders every `.cf-turnstile`
+ * element as soon as api.js arrives (implicit rendering), so loading it
+ * later changes nothing about how the widget works:
+ *   - on the visitor's first interaction with any form (focus, tap, key), or
+ *   - 4 seconds after the page has finished loading,
+ * whichever comes first. A visitor filling in a form has the token long
+ * before they press submit. Safe to include more than once per page.
+ */
+---
+<script is:inline>
+  (function () {
+    if (window.__mbTurnstileLoader) return;
+    window.__mbTurnstileLoader = true;
+    var loaded = false;
+    function load() {
+      if (loaded) return;
+      loaded = true;
+      var s = document.createElement('script');
+      s.src = 'https://challenges.cloudflare.com/turnstile/v0/api.js';
+      s.async = true;
+      s.defer = true;
+      document.head.appendChild(s);
+    }
+    function onInteract(e) {
+      var t = e.target;
+      if (t && t.closest && t.closest('form')) load();
+    }
+    ['focusin', 'pointerdown', 'keydown'].forEach(function (type) {
+      document.addEventListener(type, onInteract, { passive: true });
+    });
+    if (document.readyState === 'complete') setTimeout(load, 4000);
+    else window.addEventListener('load', function () { setTimeout(load, 4000); });
+  })();
+</script>

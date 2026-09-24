@@ -37,6 +37,7 @@ import { FALLBACK_EMAIL } from '../../utils/forms/submit';
 import { PRICING_TERMS, REGION_PRICING } from '../../data/pricing';
 import { site } from '../../data/site';
 import { TRIAL_SOURCES } from '../../../functions/_lib/enquiry-validation';
+import LazyTurnstile from './LazyTurnstile.astro';
 
 const BOARDS = [
   { value: 'not-sure', label: 'Not sure' },
@@ -162,7 +163,7 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
   </div>
   <div data-form-status role="status" aria-live="polite"></div>
 </form>
-{site.turnstile.siteKey && <script is:inline async src="https://challenges.cloudflare.com/turnstile/v0/api.js" defer></script>}
+{site.turnstile.siteKey && <LazyTurnstile />}
 
 <script>
   import { submitEnquiry } from '../../utils/forms/submit';
