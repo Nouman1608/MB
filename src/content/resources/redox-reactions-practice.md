@@ -66,6 +66,8 @@ Related: [Redox Reactions revision notes](/resources/redox-reactions-revision-no
 
 ---
 
+**8.** *(0620 Extended, 5070 required)* State the oxidation number of sulfur in **(a)** sulfur dioxide, SO₂, and **(b)** sulfuric acid, H₂SO₄. **[2]**
+
 ## Answers
 
 **1.** *(0620 Extended, 5070 required)* **Oxidation** is the **gain of oxygen, loss of electrons, or an increase in oxidation number** [1] [1]; **reduction** is the opposite in each case — loss of oxygen, gain of electrons or a **decrease in oxidation number** [1]. (OIL RIG: Oxidation Is Loss, Reduction Is Gain — of electrons.)
@@ -86,6 +88,10 @@ Related: [Redox Reactions revision notes](/resources/redox-reactions-revision-no
 
 **7.** *(0620 Extended, 5070 required)* **(a)** The colourless solution is a **reducing agent** [1], because it has **decolourised the manganate(VII) ion by reducing it**, which means the colourless species must itself have been oxidised, donating electrons to the manganate(VII) [1].
 **(b)** The oxidising agent **removes electrons from the colourless iodide ions**, oxidising them to **iodine**, which turns the solution brown [1]; the oxidising agent is itself reduced in the process [1].
+
+**8.** *(0620 Extended, 5070 required)* **(a)** Oxygen is −2, so S + 2(−2) = 0 and S = **+4** [1]. **(b)** Hydrogen is +1 and oxygen −2, so 2(+1) + S + 4(−2) = 0 and S = **+6** [1].
+
+*Examiner insight (June 2025):* some candidates gave relative atomic or molecular masses instead of oxidation numbers. An oxidation number is a small signed number, and the numbers in a neutral compound add up to zero. *Try the real question next:* Cambridge IGCSE Chemistry 0620, June 2025, Paper 43, Question 4.
 
 ---
 

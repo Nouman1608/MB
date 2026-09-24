@@ -41,7 +41,7 @@ featured: false
 
 Related: [Atomic Structure revision notes](/resources/atomic-structure/)
 
-> **Tier note:** the question marked *(0620 Extended, 5070 required)* — calculating relative atomic mass from isotopic abundances — goes beyond 0620 Core. All other questions are answerable by a 0620 Core candidate.
+> **Tier note:** questions marked *(0620 Extended, 5070 required)* — calculating relative atomic mass from isotopic abundances — go beyond 0620 Core. All other questions are answerable by a 0620 Core candidate.
 
 ---
 
@@ -79,6 +79,8 @@ Related: [Atomic Structure revision notes](/resources/atomic-structure/)
 
 ---
 
+**13.** *(0620 Extended, 5070 required)* A sample of gallium contains 60.1% of the isotope gallium-69 and 39.9% of the isotope gallium-71. Calculate the relative atomic mass of gallium, to one decimal place. **[2]**
+
 ## Answers
 
 **1.** An **element** contains only one type of atom [1]. A **compound** is two or more elements chemically combined together in a fixed ratio [1]. A **mixture** contains two or more substances not chemically combined, which can be separated by physical means [1].
@@ -107,6 +109,10 @@ Related: [Atomic Structure revision notes](/resources/atomic-structure/)
 **11.** **2,8** [1]. The sodium atom has **lost one electron** to form the +1 ion; the number of protons — and therefore the element — stays the same [1].
 
 **12.** Noble gases have a **full outer shell** of electrons [1], so they have no tendency to gain, lose or share electrons in a chemical reaction, making them extremely unreactive [1].
+
+**13.** *(0620 Extended, 5070 required)* (69 × 60.1) + (71 × 39.9) = 4146.9 + 2832.9 = 6979.8 [1]; 6979.8 ÷ 100 = **69.8** [1].
+
+*Examiner insight (June 2025):* common errors were to average the two mass numbers without using the percentages (which gives 70.0 here), or to divide the wrong way round. Multiply each mass by its percentage, add, then divide by 100. *Try the real question next:* Cambridge IGCSE Chemistry 0620, June 2025, Paper 43, Question 2.
 
 ---
 

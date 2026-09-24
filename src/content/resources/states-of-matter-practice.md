@@ -70,6 +70,8 @@ Related: [States of Matter revision notes](/resources/states-of-matter-revision-
 
 ---
 
+**11.** Describe the **arrangement** and the **motion** of the particles in a liquid, and state **one** way in which the particles in a gas are different. **[3]**
+
 ## Answers
 
 **1.** Any **2 of the 3** points per state earn credit (arrangement, separation, movement — 1 mark each, capped at 2 marks per state, 6 marks total).
@@ -97,6 +99,10 @@ Related: [States of Matter revision notes](/resources/states-of-matter-revision-
 **9. (a)** Increasing temperature gives particles **more kinetic energy**, so they move faster and collide with the container walls **more frequently and with greater force** [1]; if free to expand, the gas's **volume increases** [1]. **(b)** Increasing pressure pushes the particles **closer together**, reducing the space between them, so the gas's **volume decreases** [1].
 
 **10.** Describing only states **what** happens, while explaining requires reference to **particle energy, motion and the forces between particles** — an answer that merely describes when asked to explain does not earn the explanation marks [1].
+
+**11.** In a liquid the particles are **close together (touching) and irregularly arranged** [1], and they **move randomly and slide past one another** [1]. In a gas the particles are **far apart** (or: move faster, in all directions) [1].
+
+*Examiner insight (June 2025):* answers lost marks by describing the liquid itself ("it takes the shape of its container") instead of its particles, or by getting the spacing or speed of the particles wrong. Describe individual particles. *Try the real question next:* Cambridge IGCSE Chemistry 0620, June 2025, Paper 32, Question 2.
 
 ---
 

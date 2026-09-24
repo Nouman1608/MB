@@ -32,8 +32,11 @@ for (const set of DIAGNOSTIC_SETS) {
     marks += q.marks;
     const text = q.qHtml.replace(/<[^>]+>/g, ' ');
     if (/diagram|figure|graph below|shown below|the table|table below/i.test(text)) problems.push(`${key}: ${id} refers to a figure or table the diagnostic cannot show`);
-    if (/Extended|Background|beyond the .*syllabus|not examinable/i.test(text)) problems.push(`${key}: ${id} is marked Extended/Background/beyond the syllabus`);
-    if (set.code === '0620' && q.tier === 'supplement') problems.push(`${key}: ${id} is Supplement-only (Extended), but the set is for both tiers`);
+    const extendedSet = set.tier === 'extended';
+    if (extendedSet && set.code !== '0620') problems.push(`${key}: only 0620 sets can be marked tier 'extended'`);
+    if (/Background|beyond the .*syllabus|not examinable/i.test(text)) problems.push(`${key}: ${id} is marked Background/beyond the syllabus`);
+    if (!extendedSet && /Extended/i.test(text)) problems.push(`${key}: ${id} is marked Extended, but the set is not an Extended set`);
+    if (!extendedSet && set.code === '0620' && q.tier === 'supplement') problems.push(`${key}: ${id} is Supplement-only (Extended), but the set is for both tiers`);
     if (q.marks > 4) problems.push(`${key}: ${id} is worth ${q.marks} marks; diagnostic questions are 2-3 marks`);
     const topic = q.topics[0]?.key.split('/')[0];
     if (!topic) problems.push(`${key}: ${id} has no syllabus topic tag, so its result cannot be reported by topic`);

@@ -43,6 +43,18 @@ export interface DiagnosticSet {
   boardSlug: string;
   qualificationSlug: string;
   subjectSlug: string;
+  /**
+   * D-312 -- 'extended' marks a 0620 set built from Supplement content for
+   * Extended candidates. Without it a 0620 set must stay answerable by
+   * both tiers (no Supplement-only question).
+   */
+  tier?: 'extended';
+  /**
+   * D-312 -- when the set's questions were written to match a real exam
+   * series, the series they are modelled on (shown on the page). The
+   * questions are original; no exam-board text is reproduced.
+   */
+  modelledOn?: string;
   /** Plain label for the part of the syllabus covered. */
   scopeLabel: string;
   /** One sentence on who the set is for. */
@@ -66,14 +78,39 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
     qualificationSlug: 'igcse',
     subjectSlug: 'chemistry',
     scopeLabel: 'Six topics across the syllabus, Core content',
+    modelledOn: 'the Cambridge IGCSE Chemistry June 2025 Paper 3 series',
     audience: 'For Core and Extended candidates. Every question is on content both tiers study.',
+    // D-312 (2026-09-24): six original questions modelled on the June 2025
+    // Paper 3 series. Each answer names the real paper question to try next.
     questionIds: [
-      'atomic-structure-practice-q3',
-      'formulae-equations-and-the-mole-practice-q2',
-      'acids-bases-and-salts-practice-q2',
-      'metals-reactivity-practice-q1',
-      'practical-techniques-titrations-chromatography-separation-practice-q5',
-      'alcohols-and-carboxylic-acids-practice-q1',
+      'states-of-matter-practice-q11',
+      'formulae-equations-and-the-mole-practice-q9',
+      'metals-reactivity-practice-q10',
+      'alcohols-and-carboxylic-acids-practice-q10',
+      'identification-tests-practice-q10',
+      'electrolysis-practice-q10',
+    ],
+    minutes: 10,
+  },
+  {
+    slug: 'extended',
+    code: '0620',
+    boardSlug: 'cambridge',
+    qualificationSlug: 'igcse',
+    subjectSlug: 'chemistry',
+    tier: 'extended',
+    scopeLabel: 'Six topics across the syllabus, Extended (Supplement) content',
+    modelledOn: 'the Cambridge IGCSE Chemistry June 2025 Paper 4 series',
+    audience: 'For Extended candidates (Papers 2 and 4). Core candidates should use the Core diagnostic.',
+    // D-312 (2026-09-24): six original questions modelled on the June 2025
+    // Paper 4 series. Each answer names the real paper question to try next.
+    questionIds: [
+      'atomic-structure-practice-q13',
+      'formulae-equations-and-the-mole-practice-q10',
+      'redox-reactions-practice-q8',
+      'rates-of-reaction-practice-q8',
+      'alcohols-and-carboxylic-acids-practice-q11',
+      'acids-bases-and-salts-practice-q11',
     ],
     minutes: 10,
   },

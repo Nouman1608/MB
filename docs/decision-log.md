@@ -13678,3 +13678,18 @@ Owner request on 2026-09-24 ("okay do both"), after the D-309 end-to-end test pa
 **Teacher data (same request).** `src/content/authors/` was compared with learnersacademy.com.pk/teachers/ (fetched 24 Sep 2026) and the owner's "Credentials of staff" file. All 19 people on both match what is already published (years of experience and previous schools). No change was needed. The file also names **Mureed Hussain** (28 years; SCIL, EPIC School Model Town, LGS MT). He is not on learnersacademy.com.pk and no subject is given, so no profile was created. Waiting on the owner: his subject(s) and a photo, or confirmation to publish without one.
 
 Business decisions register items 11, 12 and 13 are marked decided.
+
+## D-312 - 0620 diagnostics rebuilt from the June 2025 papers (Core and a new Extended set) (2026-09-24)
+
+Owner request on 2026-09-24: use the June 2025 Cambridge papers in the owner's "Papers 2025" folder for the diagnostics. The owner states full permission from the boards. **No exam-board text is reproduced**, the same line held since D-109. The papers were used for analysis only, and the questions are original. "Confidential Instructions" files were not opened.
+
+| Item | Files | What changed |
+|---|---|---|
+| Analysis | (owner's folder, not in the repo) | Read the June 2025 0620 question papers 31-33 and 41-43, their mark schemes and the Principal Examiner Report. Topics were counted per question, and the mistakes examiners reported were collected. |
+| Questions | `src/content/resources/{states-of-matter,formulae-equations-and-the-mole,metals-reactivity,alcohols-and-carboxylic-acids,identification-tests,electrolysis,redox-reactions,atomic-structure,rates-of-reaction,acids-bases-and-salts}-practice.md` | 12 new original questions are appended to existing practice files, so each keeps its file's syllabus tags. The 6 Supplement questions are marked *(0620 Extended, 5070 required)*, and the atomic-structure and alcohols tier notes are updated. Each worked answer ends with an "Examiner insight (June 2025)" line, in our own words, and "Try the real question next: 0620, June 2025, Paper NN, Question N". Every paper and question number was checked against the question paper and the examiner report. |
+| Sets | `src/data/diagnostics.ts` | `0620/core` now uses the six Core questions (16 marks, 6 topics). A new `0620/extended` set (`tier: 'extended'`) uses the six Supplement questions (14 marks, 5 topics). `modelledOn` names the series and is shown on the page. |
+| Validator | `scripts/validate-diagnostics.mjs` | Only a set marked `tier: 'extended'` (0620 only) may contain Extended or Supplement questions. The other rules are unchanged. |
+| Page | `src/pages/practice/[code]/diagnostic/[set].astro` | Titles say "Core" and "Extended" when a code has both sets. Pages with `modelledOn` say the questions are original and modelled on that series. |
+
+Neither set is teacher-reviewed yet (`setReview` empty). The page says so.
+

@@ -88,7 +88,7 @@ const payload = JSON.stringify({ code: set.code, set: set.slug, courseId, questi
 const trialHref = `/trial/?course=${encodeURIComponent(courseId)}&source=diagnostic`;
 ---
 <PageLayout
-  title={`${c.qualification} ${c.subject} (${set.code}) 10-Minute Diagnostic${set.slug === 'core' ? '' : ` — ${set.slug === 'as' ? 'AS' : 'A Level'} Topics`}`}
+  title={`${c.qualification} ${c.subject} (${set.code}) 10-Minute Diagnostic${set.slug === 'core' ? (diagnosticsForCode(set.code).length > 1 ? ' — Core' : '') : set.slug === 'extended' ? ' — Extended' : ` — ${set.slug === 'as' ? 'AS' : 'A Level'} Topics`}`}
   description={`Free 10-minute study check for ${courseTitle}, ${set.scopeLabel.replace(/ \(.*\)$/, '')}: ${questions.length} questions, worked answers and topics to practise next. Not a predicted grade.`}
   path={path}
   eyebrow={`Free diagnostic · ${c.board} ${c.qualification} · ${set.code}`}
@@ -127,6 +127,9 @@ const trialHref = `/trial/?course=${encodeURIComponent(courseId)}&source=diagnos
             <li>Then see the worked answers and <strong class="text-ink">mark yourself</strong>. These questions are self-assessed: nothing is marked automatically.</li>
             <li>Get a list of topics to practise, with links to the notes and questions for each one.</li>
           </ol>
+          {set.modelledOn && (
+            <p class="m-0 mt-4">The questions are original, written to test the skills and the mistakes examiners reported in {set.modelledOn}. No exam-board questions are reproduced. Each worked answer names the real past-paper question to try next.</p>
+          )}
           <p class="m-0 mt-4"><strong class="text-ink">This is a short study check, not a predicted grade.</strong> One question per topic shows where to look first. It cannot measure a whole topic or forecast an exam result.</p>
           <p class="m-0 mt-4">The questions come from Marlbridge's published <a href={`/practice/${set.code}/`} class="underline decoration-gold-500 underline-offset-2">{set.code} practice questions</a>, written by {authors.map((a, i) => <>{i > 0 && (i === authors.length - 1 ? ' and ' : ', ')}<a href={routes.author(a!.id)} class="underline decoration-gold-500 underline-offset-2">{a!.data.name}</a></>)}.
             {reviewer

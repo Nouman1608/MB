@@ -83,6 +83,12 @@ Related: [Metal Properties and Reactivity revision notes](/resources/metals-reac
 
 ---
 
+**10.** Zinc powder is added to three separate solutions: copper(II) sulfate, magnesium sulfate and iron(II) sulfate.
+
+**(a)** State which of the solutions react with zinc, and explain your answer. **[2]**
+
+**(b)** Name the products of **one** of these reactions. **[1]**
+
 ## Answers
 
 **1.** Potassium, calcium, zinc, iron, copper [2 — 1 mark if one pair is transposed].
@@ -109,6 +115,11 @@ Related: [Metal Properties and Reactivity revision notes](/resources/metals-reac
 
 **9. (a)** Both **physically exclude oxygen and water** from the metal surface, stopping rusting while the coating remains intact [1]; the shared limitation is that **once the coating is scratched or damaged, the exposed metal beneath rusts normally** [1].
 **(b)** Zinc is **more reactive than iron**, so where the coating is broken, the **zinc corrodes preferentially (sacrificial protection)**, continuing to protect the iron even without an intact barrier [1] — a mechanism painting and greasing simply don't have, since neither coating material is more reactive than iron [1].
+
+**10.** **(a)** **Copper(II) sulfate and iron(II) sulfate** react [1], because zinc is **more reactive than copper and iron** but less reactive than magnesium, and a metal only displaces a less reactive metal from its compound [1].
+**(b)** **Zinc sulfate and copper** (or: zinc sulfate and iron) [1].
+
+*Examiner insight (June 2025):* many candidates did not know the order of the reactivity series and picked the wrong metal. Learn the order K, Na, Ca, Mg, Al, (C), Zn, Fe, (H), Cu, Ag, Au. *Try the real question next:* Cambridge IGCSE Chemistry 0620, June 2025, Paper 32, Question 1.
 
 ---
 
