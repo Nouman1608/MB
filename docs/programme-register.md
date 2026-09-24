@@ -13,7 +13,7 @@ session's own direct repo inspection (HEAD `cf57e7e`, `npm run build` +
 Where this session has not independently verified a claim from those
 documents, that's stated rather than presented as confirmed.
 
-## Current status, 25 Sep 2026 00:30 PKT — read this first
+## Current status, 25 Sep 2026 00:10 PKT — read this first
 
 *Added by the register reconciliation (D-328). The 1-2 Sep 2026 table further down is kept as
 history. Where the two disagree, this section is current.*

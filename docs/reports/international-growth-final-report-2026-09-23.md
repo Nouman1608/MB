@@ -1,6 +1,6 @@
 # Marlbridge International Growth programme: final report
 
-> **Status note, 25 Sep 2026 00:30 PKT (D-328):** "Not deployed yet" below was true when written.
+> **Status note, 25 Sep 2026 00:10 PKT (D-328):** "Not deployed yet" below was true when written.
 > The branch was merged to `main` on 2026-09-23 at 22:47 PKT (`a4f1f9b8`, after `a7b6c92a`), and
 > Cloudflare deployed it. Checked on production on 2026-09-25 00:05 PKT: `/international-tutoring/`,
 > `/uae/`, `/qatar/` and `/malaysia/` return 200, and `/api/admin/search-demand` returns 401 (the

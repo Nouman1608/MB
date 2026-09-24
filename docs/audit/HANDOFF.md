@@ -6,7 +6,7 @@ A separate "fixer" instance does the repairs; you do not. If you have been broug
 
 **Written:** 2026-09-15. **Repo state at handoff:** `main` @ `4d65f05`.
 
-> **Status note, 25 Sep 2026 00:30 PKT (D-328) — this overrides §5 and §7 wherever they disagree.**
+> **Status note, 25 Sep 2026 00:10 PKT (D-328) — this overrides §5 and §7 wherever they disagree.**
 > §2's table was kept current to round 60 (run 2026-09-22 20:02 PKT): **no audit finding is
 > open.** §7's closing line ("150 confirmed errors are open") and §5's list date from the
 > 2026-09-15 handoff and were never updated. They are now corrected in place, with the original

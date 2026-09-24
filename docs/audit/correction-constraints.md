@@ -10,7 +10,7 @@ of the terminology (§5), over-deletion (§2) and enumeration (§4) groups — *
 group has now been read** — and with a correction to this document's own opening claim, which
 described damage that had already been repaired. See "Why this exists" below.*
 
-> **Status note, 25 Sep 2026 00:30 PKT (D-328).** This catalogue still describes how to apply
+> **Status note, 25 Sep 2026 00:10 PKT (D-328).** This catalogue still describes how to apply
 > a correction safely, and that guidance stands. Its present-tense *status* statements do not.
 > "E276 — still open", "E276 is the only one still open" and "All six remain open" (E335, E367,
 > E391, E625, E631, E642) were true on 2026-09-15. All seven were later closed by repair

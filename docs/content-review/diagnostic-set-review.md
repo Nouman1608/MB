@@ -1,13 +1,13 @@
 # Diagnostic sets — verification and teacher review
 
-**Written 2026-09-25 00:45 PKT (D-328).** Covers the 31 ten-minute diagnostics in
+**Written 2026-09-25 00:15 PKT (D-328).** Covers the 31 ten-minute diagnostics in
 `src/data/diagnostics.ts` (19 syllabuses, 166 question slots, 165 distinct questions).
 
 ## Where things stand
 
 | state | count | evidence |
 |---|---|---|
-| Sets built and live | 31 of 31 | Every set page returned 200 on 2026-09-25 00:40 PKT |
+| Sets built and live | 31 of 31 | Every set page returned 200 on 2026-09-25 00:13 PKT |
 | Sets passing the build checks | 31 of 31 | `npm run validate:diagnostics`: questions exist in the bank, belong to the right code, have a topic tag, avoid figures and tables, fit the tier, 4-8 questions, at most 16 marks |
 | Question tariffs matching the marks field | 166 of 166 | Every `[n]` in the question adds up to the question's `marks` |
 | Answers with enough mark points for the marks | 166 of 166 | Checked by script on 2026-09-25 |

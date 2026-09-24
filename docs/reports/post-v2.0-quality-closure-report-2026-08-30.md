@@ -1,6 +1,6 @@
 # MARLBRIDGE Post-v2.0 Quality and Conversion Closure — Status Report
 
-> **Status note, 25 Sep 2026 00:30 PKT (D-328):** "Not pushed, not deployed" (§7) was true on
+> **Status note, 25 Sep 2026 00:10 PKT (D-328):** "Not pushed, not deployed" (§7) was true on
 > 2026-08-30. The work was merged to `main` (`f29e86bd`, "Merge WS closure batch (WS2-WS10) into
 > main") and D-090 (`ba43c434`) records the deploy confirmed and the in-scope fixes verified
 > live. The report is otherwise unchanged.

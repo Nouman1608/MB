@@ -7,7 +7,7 @@ file is one round, findings are **never edited after publication**, and later ro
 **amend** earlier ones. Acting on an old file without checking what amended it is how the
 corpus briefly ended up worse than baseline on five files — see the amendment map below.
 
-> **Current account, 25 Sep 2026 00:30 PKT (register reconciliation, D-328).** The audit's
+> **Current account, 25 Sep 2026 00:10 PKT (register reconciliation, D-328).** The audit's
 > last round is round 60 (file label `2026-12-06`, run 2026-09-22 20:02 PKT). At that point **no
 > audit finding was open**. That statement has limits, set out in "Where the numbers stand"
 > below: it covers findings this audit raised, not the correctness of the whole site, and it

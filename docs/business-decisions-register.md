@@ -1,8 +1,8 @@
 # Marlbridge — Business decisions register (owner input required)
 
-Last updated: 2026-09-25 00:30 PKT, register reconciliation (D-328). Previously 2026-09-23, International Growth programme (items 10-20 added); 2026-08-26, QIGT programme (task #81).
+Last updated: 2026-09-25 00:10 PKT, register reconciliation (D-328). Previously 2026-09-23, International Growth programme (items 10-20 added); 2026-08-26, QIGT programme (task #81).
 
-## Current status, 25 Sep 2026 00:30 PKT — read this table, not the per-item text below
+## Current status, 25 Sep 2026 00:10 PKT — read this table, not the per-item text below
 
 The per-item sections below keep the original questions and answers as a
 history. Where a later decision answered an item, the item's own `Status:`

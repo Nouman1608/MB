@@ -10,7 +10,7 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-> **Status note, 25 Sep 2026 00:30 PKT (D-328):** the figure below (E936 open, round 40) is
+> **Status note, 25 Sep 2026 00:10 PKT (D-328):** the figure below (E936 open, round 40) is
 > stale. E936 was closed in round 42 (label `2026-11-18`, D-257 read), and the audit reported **no
 > finding open** at round 60 (label `2026-12-06`, run 2026-09-22 20:02 PKT). No repair work from
 > the audit is open. See `README.md` for the limits of that statement.

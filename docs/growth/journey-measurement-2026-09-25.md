@@ -1,7 +1,7 @@
 # Resource → diagnostic/practice → trial: measured baseline
 
-**Written 2026-09-25 01:00 PKT (D-328).** Source: GA4 property "Marlbridge" (550438391), read in
-the GA4 interface on 2026-09-25 00:50 PKT. Range: **28 Aug to 24 Sep 2026** (GA4's "last 28
+**Written 2026-09-25 00:17 PKT (D-328).** Source: GA4 property "Marlbridge" (550438391), read in
+the GA4 interface on 2026-09-25 00:12 PKT. Range: **28 Aug to 24 Sep 2026** (GA4's "last 28
 days"; 24 Sep may be incomplete). GA4 counts only visitors whose consent allows analytics, so
 every figure is a lower bound.
 
