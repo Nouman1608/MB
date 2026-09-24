@@ -13858,3 +13858,31 @@ This saves about 102 KB on the first visit to any page. The two files downloaded
 | The Pure Mathematics 2 practice file's "Worked solutions" heading is renamed "Answers", and one hard-wrapped answer line that started with a bold number is joined, so the bank parser reads the file. | `a-level-mathematics-pure-mathematics-2-practice.md` |
 
 **Status:** both sets await teacher review, like the other 14.
+
+## D-322 - Why 661 pages are "Discovered, not indexed", and spreading related links (2026-09-24)
+
+**Owner request:** "sure go ahead" (work on the pages Google has found but not indexed).
+
+**Findings (Search Console, 24 Sep 2026; report data to 21 Sep).**
+
+1. **It is the age of the pages, not a fault on them.** All 661 URLs in "Discovered – currently not indexed" were matched to the build: 636 resources and 25 checklists (mostly IB). Of the resources published 1–15 September, 618 of 831 (74%) are in the list. Of those published 16–31 August, 19 of 799 (2%) are. Only 9 pages are "Crawled – currently not indexed", so Google has not judged these pages and found them wanting: it simply hasn't fetched them yet.
+2. **Google slowed its crawling after the first burst.** Crawl stats (90 days): 18.5K requests. There were daily peaks of about 2–4K in late August, then from about 3 September roughly 100 a day or fewer, while about 860 new resources went live in the first half of September. At that rate a queue of 660 pages clears slowly.
+3. **Nothing technical is blocking it.** Host status: no problems. Average response 144 ms. robots.txt allows everything. A sampled not-indexed page returns 200 to a Googlebot user-agent, self-canonical, with no noindex. Sitemap `lastmod` values are genuine (D-298 practice). The earlier crawl waste has already stopped: the www host (4,081 requests, now 301s) and Zaraz `s.js?z=…`, a unique script URL per page with the last one on 5 Sep.
+4. **Internal links were uneven.** Every resource is linked from its hub (hubs: 160 of 167 have impressions). But "Related resources" walked each tier in collection order, so the same few pages were picked everywhere. 256 of the not-indexed resources had no link from any resource page Google already shows.
+
+**Change.** On resource pages, `relatedResources()` now walks each tier (topic, then subject, then level, same board first) starting just after the current page in slug order and wrapping round. Picks stay within the same tiers, so they stay relevant (for example, cell-structure practice → cell-structure notes → cell structure → enzymes). Neighbouring pages now link to each other in a ring instead of all pointing at the first few. Result on the build: not-indexed resources with no link from any page that has impressions fell from 256 to 201, and resources with no inbound link from another resource fell from 32 to 15. Articles and programme pages keep the old order.
+
+**Not done, on purpose.**
+
+- No bulk `updatedDate` edits.
+- No removal of pages.
+- No attempts to use the Indexing API, which is only for job and livestream pages.
+- No sitemap split: several audits read `sitemap-0.xml`. It would help measurement, not indexing.
+
+**Owner-side levers (register):**
+
+1. Links from learnersacademy.com.pk (the established sister site) to the Marlbridge hubs its students use. External links are the main driver of how much Google chooses to crawl a new domain.
+2. Slow the pace of new resource pages until the September batch is indexed.
+3. The daily indexing-request task continues. It is capped at about 10 URLs a day by Google.
+
+**Check at day 30:** "Discovered – currently not indexed" count (661 on 21 Sep) and the September-published share.

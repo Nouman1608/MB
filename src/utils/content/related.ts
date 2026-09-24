@@ -35,8 +35,23 @@ export async function relatedResources(
   opts: { subject?: string; level?: string; topic?: string; boards?: readonly string[]; picked?: readonly { id: string }[]; excludeId?: string; limit?: number },
 ): Promise<CollectionEntry<'resources'>[]> {
   const { subject, level, topic, boards, picked = [], excludeId, limit = 3 } = opts;
-  const all = (await getCollection('resources')).filter(isPublishedResource);
-  const byId = new Map(all.map((r) => [r.id, r]));
+  const published = (await getCollection('resources')).filter(isPublishedResource);
+  const byId = new Map(published.map((r) => [r.id, r]));
+  /**
+   * D-322 -- spread related links evenly. Each tier used to be walked in
+   * collection order, so every page on a subject picked the same first
+   * few resources and most resources were linked from no sibling at all
+   * (256 of the 661 "Discovered - currently not indexed" resources had no
+   * link from any page Google already shows). When the caller is a
+   * resource page (excludeId set), each tier is now walked starting just
+   * after that page in slug order and wrapping round, so the picks are
+   * still the same topic > subject > level tiers, but neighbouring pages
+   * link to each other in a ring and every resource is linked by its
+   * nearest siblings. Callers without excludeId keep the old order.
+   */
+  const sortedIds = excludeId ? [...published].sort((a, b) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0)) : published;
+  const start = excludeId ? sortedIds.findIndex((r) => r.id === excludeId) : -1;
+  const all = start >= 0 ? [...sortedIds.slice(start + 1), ...sortedIds.slice(0, start + 1)] : sortedIds;
 
   const out: CollectionEntry<'resources'>[] = [];
   const push = (entry?: CollectionEntry<'resources'>) => {
