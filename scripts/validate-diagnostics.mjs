@@ -11,6 +11,8 @@
 import { DIAGNOSTIC_SETS } from '../src/data/diagnostics.ts';
 import { flagshipSpecs } from '../src/utils/academic/index.ts';
 import { buildClientQuestions } from '../src/utils/practice/client-questions.ts';
+// D-324: Cambridge IGCSE syllabuses with Core/Extended tiers that have diagnostic sets.
+const TIERED = ['0620', '0610', '0580', '0625'];
 
 const problems = [];
 const seen = new Set();
@@ -33,9 +35,9 @@ for (const set of DIAGNOSTIC_SETS) {
     const text = q.qHtml.replace(/<[^>]+>/g, ' ');
     if (/diagram|\bfig(ure)?\.?\s*\d|the figure|figure below|graph below|shown below|the table|table below/i.test(text.replace(/significant figures?/gi, ''))) problems.push(`${key}: ${id} refers to a figure or table the diagnostic cannot show`);
     const extendedSet = set.tier === 'extended';
-    if (extendedSet && set.code !== '0620') problems.push(`${key}: only 0620 sets can be marked tier 'extended'`);
-    if (/Background|beyond the .*syllabus|not examinable/i.test(text)) problems.push(`${key}: ${id} is marked Background/beyond the syllabus`);
-    if (!extendedSet && ['0620', '0610'].includes(set.code) && /Extended|Supplement/i.test(text)) problems.push(`${key}: ${id} is marked Extended, but the set is not an Extended set`);
+    if (extendedSet && !TIERED.includes(set.code)) problems.push(`${key}: only tiered IGCSE sets (${TIERED.join(', ')}) can be marked tier 'extended'`);
+    if (/Background(?! (radiation|count))|beyond the .*syllabus|not examinable/i.test(text)) problems.push(`${key}: ${id} is marked Background/beyond the syllabus`);
+    if (!extendedSet && TIERED.includes(set.code) && /Extended|Supplement/i.test(text)) problems.push(`${key}: ${id} is marked Extended, but the set is not an Extended set`);
     if (!extendedSet && set.code === '0620' && q.tier === 'supplement') problems.push(`${key}: ${id} is Supplement-only (Extended), but the set is for both tiers`);
     if (q.marks > 4) problems.push(`${key}: ${id} is worth ${q.marks} marks; diagnostic questions are 2-3 marks`);
     const topic = q.topics[0]?.key.split('/')[0];

@@ -13912,3 +13912,36 @@ This saves about 102 KB on the first visit to any page. The two files downloaded
 **Checks on the content:** each subject was written from the papers, then checked by a separate reviewer for accuracy (every number recomputed), mark totals, insight support against the source text, and wording overlap with the papers. Stems that were close to the papers were reworded, and three A Level Biology scenarios that mirrored paper set-ups were replaced.
 
 **Status:** all six sets await teacher review. Tier tags on 0610 (for example placenta, implantation) were set from knowledge of the syllabus and should be confirmed by the reviewing teacher.
+
+## D-324 - Diagnostics completed: Extended sets, second-year A Level sets and O Level Computer Science Paper 2 (2026-09-24)
+
+**Why:** the owner asked to complete all the diagnostic tests. After D-323, every subject with papers in the "Papers 2025" folder had one set; this adds the missing tier or stage for each.
+
+**Sources (analysis only; D-109 policy unchanged; no board text reproduced; Confidential Instructions not opened):**
+
+| Set | Built from | Notes lines |
+|---|---|---|
+| `0610/extended` | June 2024 Paper 42, MS, ER; syllabus text for Supplement tags | Examiner / mark-scheme insights |
+| `0580/extended` | Syllabus Supplement content only (no 0580 papers in the folder) | *Common mistake* only, no paper references |
+| `0625/extended` | Syllabus Supplement content only (no 0625 papers in the folder) | *Common mistake* only, no paper references |
+| `9700/a-level` | June 2024 Paper 42, MS, ER | Examiner / mark-scheme insights |
+| `9708/a-level` | June 2024 Paper 42, MS, ER | Examiner / mark-scheme insights |
+| `9609/a-level` | June 2024 Paper 32, MS, ER | Examiner / mark-scheme insights |
+| `9618/a-level` | June 2025 Paper 31, MS, ER | Examiner / mark-scheme insights |
+| `9709/a-level` | June 2025 Paper 32 (question paper only) | Tips only |
+| `2210/paper-2` | June 2025 Paper 22 and MS | Mark-scheme insights / tips |
+
+Also added: an O Level Physics space-physics practice file (5054 topic 6).
+
+| Change | Files |
+|---|---|
+| 36 new or edited practice files (about 200 new questions), including 4 second-year files each for 9700, 9708, 9609 and 9618 (`stage: "A"`, titled "(A Level)" where an AS title would repeat), 2 Pure Mathematics 3 files, 4 Extended files each for 0580 and 0625, 3 new 0610 files, 4 O Level Computer Science Paper 2 files. Two 0610 tags were corrected against the syllabus (respiration Q5 and reproduction Q7 are Core). | `src/content/resources/*` |
+| Nine new sets; 31 in total. | `src/data/diagnostics.ts` |
+| Validator: `tier: 'extended'` is allowed for the tiered IGCSE codes 0620, 0610, 0580 and 0625, and non-Extended sets for those codes must not contain "Extended"/"Supplement" wording. The per-question Supplement check stays 0620-only, because other codes' tiers are set per file and would wrongly flag Core questions in mixed files. "Background radiation/count" no longer trips the "Background" flag. | `scripts/validate-diagnostics.mjs` |
+| Title suffix " — Paper 2 Topics" for the `paper-2` slug. | `src/pages/practice/[code]/diagnostic/[set].astro` |
+
+**Checks on the content:** each subject was written from its sources and then checked by a separate reviewer (every number recomputed, mark totals, insight support, overlap with the papers). Reviewers replaced several A Level Biology scenarios that mirrored Paper 42, fixed a missing solution (x = 90°) in a Pure 3 trig answer, tightened a Marshall–Lerner explanation and reworded stems that were close to the papers.
+
+**Still not covered:** O Level English 1123 (essay-based, cannot be self-marked); A Level Mathematics Probability & Statistics 2 (no papers in the folder). The syllabus texts in the folder for 0610, 0625 and 5054 are the 2023–2025 editions, so Core/Extended tags should be confirmed against 2026–2028 by the reviewing teacher.
+
+**Status:** all 31 sets await teacher review.
