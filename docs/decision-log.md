@@ -13646,3 +13646,12 @@ Owner decision on 2026-09-23: "okay do it" (turn on the optional revision emails
 | Translated privacy | `src/i18n/pages/legal.ts` | Arabic, Urdu and Bengali privacy pages gain the revision-emails paragraph already on the English page (English governs); dated 23 Sep 2026. Machine-drafted; a native reader should check each. |
 | GA4 | (GA4 admin, not code) | The owner allowed the measurement-guide set-up on 2026-09-23. Created event-scoped custom dimensions `trial_source`, `course_code`, `diagnostic_set`, `source`, `link_kind`, `plan_fits`, `qualification`, `format`, and the custom metric `subjects_count` (standard). Key events unchanged. |
 
+## D-310 - Revision-email box: shorter subject list; confirmed sign-ups to count in GA4 (2026-09-24)
+
+Owner request on 2026-09-24 ("okay do both"), after the D-309 end-to-end test passed.
+
+| Item | Files | What changed |
+|---|---|---|
+| Subject list | `src/components/tools/SubscribeBox.astro` | The subject of the page being read stays pre-ticked and visible; all other subjects for the chosen qualification move into a folded "Add other subjects (n)" list ("Choose subjects (n)" when nothing is pre-ticked). On a phone the box drops from about 50 tickboxes to one. Ticked subjects inside the folded list are still sent. The pre-tick survives the form reset after a successful sign-up. |
+| GA4 | (GA4 admin, not code) | To mark `newsletter_subscribe_confirmed` as a key event (alongside `generate_lead` and `whatsapp_click`). Checked 2026-09-24: GA4 has not yet listed the event (its list only shows events already processed, usually within 24-48 hours of the first one), so the star is added once it appears. |
+
