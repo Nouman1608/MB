@@ -37,9 +37,9 @@
  * matching question/answer count (Y, Post-v2.0 Quality Closure WS8), and a
  * rendered academic-label (Level/Board/Qualification data-pagefind-filter
  * tag) that no longer matches its page's own frontmatter (Z, Flagship
- * Dominance Programme WS-A), a resource page whose rendered "Reviewed
- * by teachers" trust line has been corrupted or removed (AA, Flagship
- * Dominance/Trust programme, D-092), and a form control whose id no longer
+ * Dominance Programme WS-A), a resource page on which the retired blanket
+ * "Reviewed by teachers" trust line reappears (AA; originally D-092, inverted
+ * when D-134 rescinded that claim), and a form control whose id no longer
  * matches its <label for=...> (AC, Flagship Dominance/Trust programme,
  * D-099, accessibility audit).
  *
@@ -300,16 +300,48 @@ withMutation(
 );
 
 console.log('\n[M] FX policy: a published conversion drifted beyond tolerance is rejected');
+// Until 24 Sep 2026 this matched a hardcoded literal row
+// ("... igcse: 49, aLevel: 56 },"). D-297 (23 Sep 2026) appended
+// `status: 'indicative'` to every converted ONE_TO_ONE_PRICING row, so the
+// literal stopped matching and withMutation() correctly aborted the suite.
+// The target is now located structurally: the Saudi Arabia row *inside the
+// ONE_TO_ONE_PRICING array*, which must be unique and marked indicative
+// (validate-fx-policy.mjs [2c] only drift-checks indicative rows, D-313).
+// The mutated value is derived from the current published value (x3, far
+// beyond FX_TOLERANCE_PERCENT), so a future legitimate price or FX change
+// does not break the fixture, and no real price is touched.
+const FX_DRIFT_TARGET = { exportName: 'ONE_TO_ONE_PRICING', region: 'Saudi Arabia', currency: 'SAR', field: 'igcse' };
+function locateFxDriftTarget(text) {
+  const { exportName, region, field } = FX_DRIFT_TARGET;
+  const start = text.indexOf(`export const ${exportName}`);
+  if (start === -1) throw new Error(`[M] fixture: export ${exportName} not found in src/data/pricing.ts`);
+  const end = text.indexOf('\n]', start); // array closes with '];' or '] as const;'
+  if (end === -1) throw new Error(`[M] fixture: could not find the end of ${exportName}`);
+  const block = text.slice(start, end);
+  const rows = block.split('\n').filter((l) => l.includes(`region: '${region}'`));
+  if (rows.length !== 1) throw new Error(`[M] fixture: expected exactly one ${region} row in ${exportName}, found ${rows.length}`);
+  const row = rows[0];
+  if (!row.includes("status: 'indicative'")) {
+    throw new Error(`[M] fixture: ${region} row in ${exportName} is no longer indicative, so the drift check would skip it -- pick another indicative row`);
+  }
+  const m = row.match(new RegExp(`\\b${field}: (\\d+(?:\\.\\d+)?)`));
+  if (!m) throw new Error(`[M] fixture: ${field} value not found on the ${region} row`);
+  const current = Number(m[1]);
+  const drifted = Math.round(current * 3);
+  const mutatedRow = row.replace(m[0], `${field}: ${drifted}`);
+  return { start, end, row, mutatedRow, current, drifted };
+}
+const fxTarget = locateFxDriftTarget(readFileSync('src/data/pricing.ts', 'utf8').replace(/\r\n/g, '\n'));
 withMutation(
   'src/data/pricing.ts',
-  (text) => text.replace(
-    "{ region: 'Saudi Arabia', currency: 'SAR', symbol: 'SAR', igcse: 49, aLevel: 56 },",
-    "{ region: 'Saudi Arabia', currency: 'SAR', symbol: 'SAR', igcse: 120, aLevel: 56 },",
-  ),
+  (text) => {
+    const t = locateFxDriftTarget(text);
+    return text.slice(0, t.start) + text.slice(t.start, t.end).replace(t.row, t.mutatedRow) + text.slice(t.end);
+  },
   {
     validatorCmd: 'node --experimental-strip-types scripts/validate-fx-policy.mjs',
-    expectSubstring: 'Saudi Arabia (SAR) igcse: published 120',
-    label: 'a converted rate drifted far beyond FX_TOLERANCE_PERCENT from FX_RATES is rejected',
+    expectSubstring: `✗ ${FX_DRIFT_TARGET.region} (${FX_DRIFT_TARGET.currency}) ${FX_DRIFT_TARGET.field}: published ${fxTarget.drifted}, FX_RATES implies`,
+    label: `a converted rate drifted far beyond FX_TOLERANCE_PERCENT from FX_RATES is rejected (${FX_DRIFT_TARGET.exportName} ${FX_DRIFT_TARGET.region} ${FX_DRIFT_TARGET.field} ${fxTarget.current} -> ${fxTarget.drifted})`,
   },
 );
 
@@ -552,13 +584,26 @@ if (!existsSync(queryLinkFixtureFile)) {
   // proves the fix actually works: corrupting the PATH portion of a
   // query-bearing href (while keeping the query string) must still be
   // caught as a broken link, not silently ignored.
+  //
+  // 24 Sep 2026: D-298 (23 Sep) deliberately moved the "Report a correction"
+  // link from ?page= to #page= (to stop crawlable ?page= variants), so the
+  // old literal no longer existed and withMutation() aborted the suite. It
+  // had been masked since then by the [M] abort earlier in this file. The
+  // target is now located structurally: the first root-relative internal
+  // href on this page that carries a real query string (e.g. /trial/?program=
+  // or /revision-planner/?course=). Only its PATH is corrupted; the query
+  // string is kept, which is exactly what D-095 needs to prove.
+  const queryHrefRe = /href="(\/[^"?#]*\/)\?[^"]*"/;
+  const queryHrefMatch = readFileSync(queryLinkFixtureFile, 'utf8').match(queryHrefRe);
+  if (!queryHrefMatch) throw new Error(`[AB] fixture: no query-string-bearing internal href left on ${queryLinkFixtureFile} -- pick another fixture page`);
+  const brokenPath = queryHrefMatch[1].replace(/\/$/, '-WRONG/');
   withMutation(
     queryLinkFixtureFile,
-    (text) => text.replace('href="/report-a-correction/?page=', 'href="/report-a-correction-WRONG/?page='),
+    (text) => text.replace(queryHrefRe, (whole, path) => whole.replace(`href="${path}?`, `href="${brokenPath}?`)),
     {
       validatorCmd: 'node scripts/audit-internal-links.mjs',
-      expectSubstring: 'report-a-correction-WRONG',
-      label: 'A query-string-bearing internal link corrupted to a broken path is still caught as broken',
+      expectSubstring: brokenPath,
+      label: `A query-string-bearing internal link corrupted to a broken path is still caught as broken (${queryHrefMatch[1]}? -> ${brokenPath}?)`,
     },
   );
 }
