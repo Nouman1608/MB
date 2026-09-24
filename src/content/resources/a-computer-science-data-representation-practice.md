@@ -58,6 +58,10 @@ Related: [Information Representation revision notes](/resources/a-computer-scien
 
 **10.** State one advantage of Unicode over ASCII, and one cost of this advantage. **[2]**
 
+**11.** Convert the denary number 45 into **(a)** 8-bit binary and **(b)** hexadecimal. **[2]**
+
+**12.** The 8-bit binary number 11101100 is a two's complement integer. Convert it to denary. **[1]**
+
 ---
 
 ## Answers
@@ -84,6 +88,15 @@ It would **increase the file size where there are few or no repeated runs** [1],
 **9.** File size = width × height × colour depth = 200 × 150 × 8 [1] = **240,000 bits** [1].
 
 **10.** Advantage: Unicode can represent **a very wide range of the world's writing systems**, not just Latin script [1]. Cost: Unicode text can require **more storage per character** than ASCII — though UTF-8, the most common Unicode encoding, keeps plain ASCII characters at one byte, so the extra storage cost applies mainly to non-ASCII characters [1].
+
+**11.** **(a)** **00101101** [1] (32 + 8 + 4 + 1).
+**(b)** **2D** [1].
+
+*Examiner insight (June 2025):* the most common mistake was leaving out the leading zeros; an 8-bit answer must have 8 bits. *Try the real question next:* Cambridge International AS & A Level Computer Science 9618, June 2025, Paper 12, Question 2.
+
+**12.** −128 + 64 + 32 + 8 + 4 = **−20** [1].
+
+*Examiner insight (June 2025):* some candidates worked out the magnitude correctly and then forgot the minus sign. A leading 1 in two's complement means the number is negative. *Try the real question next:* Cambridge International AS & A Level Computer Science 9618, June 2025, Paper 12, Question 2.
 
 ---
 

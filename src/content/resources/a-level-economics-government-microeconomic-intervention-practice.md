@@ -61,6 +61,8 @@ which specific problem each addresses. **[4]**
 prices. Explain which reason for government intervention this policy addresses, and why the government might
 choose this approach over an indirect tax. **[3]**
 
+**8.** Explain what is meant by the terms *non-excludability* and *non-rivalry* for a public good. **[2]**
+
 ---
 
 ## Answers
@@ -112,6 +114,10 @@ that result from consumers lacking the information needed to make well-informed 
 indirect tax [1]. A government might prefer this approach where it wants to help consumers make
 better-informed choices themselves, rather than imposing a cost through taxation, particularly where
 policymakers are uncertain about the most appropriate size of tax to correct the problem [1].
+
+**8.** **Non-excludability:** people who do not pay **cannot be prevented** from consuming the good, which leads to the free-rider problem [1]. **Non-rivalry:** one person's consumption **does not reduce the amount available** to others [1].
+
+*Examiner insight (June 2025):* many answers blurred the two concepts, so the examiner could not tell which explanation belonged to which term. Explain each one separately and clearly. *Try the real question next:* Cambridge International AS & A Level Economics 9708, June 2025, Paper 22, Question 2.
 
 ## A note on exam technique for this topic
 

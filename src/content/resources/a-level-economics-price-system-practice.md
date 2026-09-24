@@ -67,6 +67,12 @@ curve, rather than being a single fixed value. **[3]**
 
 **9.** Explain the three functions of the price mechanism. **[6]**
 
+**10.** The price of a good rises from $4 to $5 and the quantity demanded falls from 200 units to 170 units.
+
+**(a)** Calculate the price elasticity of demand. **[2]**
+
+**(b)** State what your answer shows about total revenue after the price rise. **[1]**
+
 ---
 
 ## Answers
@@ -119,6 +125,11 @@ itself is not what the final consumer wants to buy [2].
 indicating where consumer preferences lie [1]. **Incentive** [1] — a higher price encourages producers
 to supply more and consumers to buy less [1]. **Rationing** [1] — a higher price allocates scarce goods
 to those most willing and able to pay for them [1].
+
+**10.** **(a)** % change in quantity = −30 ÷ 200 × 100 = −15%; % change in price = +25% [1]; PED = −15 ÷ 25 = **−0.6** [1].
+**(b)** Demand is **price inelastic**, so total revenue **rises** when the price rises (from $800 to $850) [1].
+
+*Examiner insight (June 2025):* too many answers wrote everything they knew about elasticity instead of applying it to the question. Calculate, then say what the value means in the situation given. *Try the real question next:* Cambridge International AS & A Level Economics 9708, June 2025, Paper 22, Question 3.
 
 ## A note on exam technique for this topic
 

@@ -92,6 +92,8 @@ CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂
 
 Calculate the volume of carbon dioxide produced at room temperature and pressure, in cm³. (One mole of any gas occupies 24 dm³ at r.t.p.) **[2]**
 
+**11.** *(0620 Extended, 5070 required)* 1.35 g of calcium reacts completely with excess dilute hydrochloric acid: Ca + 2HCl → CaCl₂ + H₂. Calculate the mass of calcium chloride formed. [*A*ᵣ: Ca = 40, Cl = 35.5] **[3]**
+
 ## Answers
 
 **1. (a)** 4Al + 3O₂ → 2Al₂O₃ [1].
@@ -127,6 +129,10 @@ c = 0.100 ÷ 0.250 = **0.400 mol dm⁻³** [1].
 **10.** *(0620 Extended, 5070 required)* The mole ratio CaCO₃ : CO₂ is 1 : 1, so 0.050 mol of CO₂ is produced [1]. Volume = 0.050 × 24 = 1.2 dm³ = **1200 cm³** [1].
 
 *Examiner insight (June 2025):* a common error was to mix up 24 (for dm³) and 24 000 (for cm³), or to divide by the molar volume instead of multiplying. Check which unit the question asks for. *Try the real question next:* Cambridge IGCSE Chemistry 0620, June 2025, Paper 42, Question 4.
+
+**11.** *(0620 Extended, 5070 required)* Moles of Ca = 1.35 ÷ 40 = 0.03375 mol [1]. Moles of CaCl₂ = 0.03375 mol (1 : 1) and *M*ᵣ of CaCl₂ = 40 + 71 = 111 [1]. Mass = 0.03375 × 111 = **3.75 g** [1].
+
+*Try the real question next:* Cambridge O Level Chemistry 5070, June 2025, Paper 22, Question 4.
 
 ---
 

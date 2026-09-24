@@ -80,6 +80,8 @@ Related: [Basic Economic Ideas revision notes](/resources/a-level-economics-basi
 
 **(b)** State three possible causes of an outward shift of a production possibility curve. **[3]**
 
+**9.** Explain why a production possibility curve (PPC) is usually drawn concave to the origin, and state what a straight-line PPC would show. **[3]**
+
 ---
 
 ## Answers
@@ -119,6 +121,10 @@ A **normative** statement contains a **value judgement** and cannot be tested [1
 **8. (a)** A point **on** the curve is **productively efficient**, with resources fully and efficiently employed [1]. A point **inside** the curve represents **unemployment or inefficiency** [1]. A point **outside** the curve is **currently unattainable** given existing resources and technology [1].
 
 **(b)** Any three of: an **increase in the quantity of factors of production** (e.g. population growth, new resource discoveries) [1], an **increase in the quality of factors of production** (e.g. improved education and training, investment in capital) [1], and **improved technology**, allowing more output from the same resources [1].
+
+**9.** Resources are **not equally suited** to producing both goods [1], so as more of one good is produced, increasing amounts of the other must be given up: the **opportunity cost rises** [1]. A straight-line PPC shows a **constant opportunity cost** [1].
+
+*Examiner insight (June 2025):* most candidates could draw a PPC, but some labelled the axes "price" and "quantity" instead of the two goods, and some did not link a curved PPC to increasing opportunity cost. *Try the real question next:* Cambridge International AS & A Level Economics 9708, June 2025, Paper 21, Question 2.
 
 ---
 

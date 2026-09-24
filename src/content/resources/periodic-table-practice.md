@@ -81,6 +81,8 @@ Related: [The Periodic Table revision notes](/resources/periodic-table-revision-
 
 **10.** Iron forms both iron(II) and iron(III) compounds. Explain what this shows about transition elements, and contrast it with Group I metals. **[3]**
 
+**11.** Chlorine water is added to aqueous potassium bromide. State what is seen, and explain the reaction. **[2]**
+
 ---
 
 ## Answers
@@ -107,6 +109,10 @@ Word equation: potassium + water → potassium hydroxide + hydrogen [1].
 **9.** Chlorine — a **pale yellow-green gas** [1]. Bromine — a **red-brown liquid** [1]. Iodine — a **grey-black solid** [1].
 
 **10.** It shows that transition elements can have **ions with variable oxidation numbers** [1] — iron(II) compounds and iron(III) compounds are both stable, ordinary compounds, with the same metal simply forming two different, equally valid ions [1]. This is **unlike Group I metals**, which only ever form **one** ion charge (always 1+) [1].
+
+**11.** The solution turns **orange** (yellow-orange; bromine is formed) [1], because chlorine is **more reactive** than bromine and **displaces** it from potassium bromide [1].
+
+*Try the real question next:* Cambridge O Level Chemistry 5070, June 2025, Paper 22, Question 6.
 
 ---
 

@@ -281,6 +281,83 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
     ],
     minutes: 10,
   },
+  {
+    slug: 'as',
+    code: '9708',
+    boardSlug: 'cambridge',
+    qualificationSlug: 'a-level',
+    subjectSlug: 'economics',
+    scopeLabel: 'Four AS topics',
+    modelledOn: 'the Cambridge International AS & A Level Economics June 2025 Paper 2 series and its examiner report',
+    audience: 'For AS and A Level Economics candidates taking the AS papers.',
+    // D-319 (2026-09-24): original questions modelled on the June 2025 papers (analysis only; no board text reproduced).
+    questionIds: [
+      'a-level-economics-basic-ideas-practice-q9',
+      'a-level-economics-price-system-practice-q10',
+      'a-level-economics-government-microeconomic-intervention-practice-q8',
+      'a-level-economics-macroeconomy-practice-q2',
+      'a-level-economics-macroeconomy-practice-q3',
+    ],
+    minutes: 10,
+  },
+  {
+    slug: 'as',
+    code: '9609',
+    boardSlug: 'cambridge',
+    qualificationSlug: 'a-level',
+    subjectSlug: 'business',
+    scopeLabel: 'Four AS topics',
+    modelledOn: 'the Cambridge International AS & A Level Business June 2025 Paper 1 series and its examiner report',
+    audience: 'For AS and A Level Business candidates taking the AS papers.',
+    // D-319 (2026-09-24): original questions modelled on the June 2025 papers (analysis only; no board text reproduced).
+    questionIds: [
+      'a-business-environment-practice-q8',
+      'a-level-business-hrm-practice-q8',
+      'a-level-business-hrm-practice-q9',
+      'a-level-business-marketing-practice-q8',
+      'a-level-business-operations-practice-q1',
+    ],
+    minutes: 10,
+  },
+  {
+    slug: 'as',
+    code: '9618',
+    boardSlug: 'cambridge',
+    qualificationSlug: 'a-level',
+    subjectSlug: 'computer-science',
+    scopeLabel: 'Four AS topics',
+    modelledOn: 'the Cambridge International AS & A Level Computer Science June 2025 Paper 1 series and its examiner report',
+    audience: 'For AS and A Level Computer Science candidates taking Paper 1.',
+    // D-319 (2026-09-24): original questions modelled on the June 2025 papers (analysis only; no board text reproduced).
+    questionIds: [
+      'a-computer-science-data-representation-practice-q11',
+      'a-computer-science-data-representation-practice-q12',
+      'a-level-computer-science-communication-practice-q9',
+      'a-level-computer-science-processor-fundamentals-practice-q10',
+      'a-level-computer-science-databases-practice-q1',
+    ],
+    minutes: 10,
+  },
+  {
+    slug: 'all-topics',
+    code: '5070',
+    boardSlug: 'cambridge',
+    qualificationSlug: 'o-level',
+    subjectSlug: 'chemistry',
+    scopeLabel: 'Five topic areas of the syllabus',
+    modelledOn: 'the Cambridge O Level Chemistry June 2025 Paper 2 and its mark scheme',
+    audience: 'For all 5070 candidates (the qualification is not tiered).',
+    // D-319 (2026-09-24): original questions modelled on the June 2025 papers (analysis only; no board text reproduced).
+    questionIds: [
+      'periodic-table-practice-q11',
+      'petroleum-alkanes-and-alkenes-practice-q13',
+      'chemistry-of-the-environment-practice-q11',
+      'identification-tests-practice-q11',
+      'formulae-equations-and-the-mole-practice-q11',
+      'organic-chemistry-practice-q10',
+    ],
+    minutes: 10,
+  },
 ] as const;
 
 export const diagnosticPath = (s: Pick<DiagnosticSet, 'code' | 'slug'>): string =>

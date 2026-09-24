@@ -65,6 +65,10 @@ implement decisions immediately.
 **(b)** Explain one way in which this training decision connects to the business's approach to
 motivation. **[3]**
 
+**8.** Define the term *involuntary redundancy*. **[2]**
+
+**9.** State **two** disadvantages **to employees** of an autocratic management style. **[2]**
+
 ---
 
 ## Answers
@@ -117,6 +121,14 @@ skills under the supervision of an experienced colleague [1].
 feels properly prepared and supported is likely to feel more confident and engaged in the role than
 one left to learn through trial and error [2], connecting this sub-topic's content on training (2.1)
 directly to motivation theory (2.2) rather than treating the two as unrelated topics [1].
+
+**8.** An employee **loses their job because the job is no longer needed** (for example, a closure, restructuring or new technology) [1]; the employee did not choose to leave, and it is **not because of poor performance or misconduct** [1].
+
+*Examiner insight (June 2025):* some weak answers confused involuntary redundancy with dismissal for poor performance or for breaking a contract. Redundancy is about the job, not the worker. *Try the real question next:* Cambridge International AS & A Level Business 9609, June 2025, Paper 12, Question 2.
+
+**9.** Any two of: employees have **little say in decisions**, which can lower motivation and job satisfaction [1]; their **ideas and skills are not used or developed** [1]; closer supervision can create **stress** or a lack of trust [1]. Maximum 2 marks.
+
+*Examiner insight (June 2025):* some answers analysed disadvantages **to the business** when the question asked about disadvantages **to employees**. Answer from the point of view the question gives. *Try the real question next:* Cambridge International AS & A Level Business 9609, June 2025, Paper 12, Question 5.
 
 ## A note on exam technique for this topic
 
