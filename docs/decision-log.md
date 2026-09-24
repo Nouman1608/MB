@@ -13945,3 +13945,15 @@ Also added: an O Level Physics space-physics practice file (5054 topic 6).
 **Still not covered:** O Level English 1123 (essay-based, cannot be self-marked); A Level Mathematics Probability & Statistics 2 (no papers in the folder). The syllabus texts in the folder for 0610, 0625 and 5054 are the 2023–2025 editions, so Core/Extended tags should be confirmed against 2026–2028 by the reviewing teacher.
 
 **Status:** all 31 sets await teacher review.
+
+## D-325 - /diagnostics/ hub page for all 31 diagnostics (2026-09-24)
+
+**Why:** with 31 diagnostics across 19 syllabuses, students could only reach a diagnostic through its syllabus page or a long unsorted list on /practice/. The owner approved a single hub.
+
+| Change | Files |
+|---|---|
+| New `/diagnostics/` page: every set grouped by qualification (IGCSE, O Level, AS & A Level) then subject, with the set label (Core, Extended, AS topics, A Level topics, Paper 1/2 topics), question count, time, and links to more practice and the syllabus hub. `ItemList` structured data. Read entirely from `src/data/diagnostics.ts`, so it cannot list a set that does not exist. | `src/pages/diagnostics/index.astro` (new) |
+| Homepage "Test my knowledge" card now links to `/diagnostics/` and states the real counts, instead of a sentence naming every subject (which no longer fits with 19 syllabuses). | `src/components/sections/FreeRevisionTools.astro` |
+| Footer resources menu: "10-Minute Diagnostics". | `src/data/navigation.ts` |
+| /practice/: description no longer says Chemistry, Physics and Mathematics only; "Six short questions" is now "Four to six"; link to the hub. | `src/pages/practice/index.astro` |
+| llms.txt lists the hub. | `public/llms.txt` |

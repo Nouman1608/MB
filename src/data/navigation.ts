@@ -42,6 +42,7 @@ export const footerNav = {
     { label: 'Study Guides', href: '/resources/#study-guides' },
     { label: 'Revision Notes', href: '/resources/#revision-notes' },
     { label: 'Practice Questions', href: '/resources/#practice-questions' },
+    { label: '10-Minute Diagnostics', href: '/diagnostics/' },
     { label: 'Practice (Self-Check)', href: '/practice/' },
     { label: 'Syllabus Changes', href: '/syllabus-updates/' },
     { label: 'Command Words Guide', href: '/command-words/' },
