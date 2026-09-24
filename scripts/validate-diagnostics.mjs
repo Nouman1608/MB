@@ -11,6 +11,29 @@
 import { DIAGNOSTIC_SETS } from '../src/data/diagnostics.ts';
 import { flagshipSpecs } from '../src/utils/academic/index.ts';
 import { buildClientQuestions } from '../src/utils/practice/client-questions.ts';
+import { readFileSync, existsSync } from 'node:fs';
+
+// D-328 (2026-09-25): a set's `setReview` puts "This set was reviewed by <name>"
+// on a public page, so it must name a real, subject-matched reviewer and a real
+// date. Until now nothing checked it, because no set had one. Same bar as
+// validate-review-integrity.mjs uses for resource reviews: the author exists and
+// has isReviewer: true. In addition the reviewer's role must name the set's
+// subject, and the date must be a real ISO date that is not in the future.
+const SUBJECT_ROLE = {
+  biology: /biology/i, business: /business/i, chemistry: /chemistry/i,
+  'computer-science': /computer science/i, economics: /economics/i,
+  mathematics: /mathematics|statistics/i, physics: /physics/i,
+};
+function authorFrontmatter(slug) {
+  const file = `src/content/authors/${slug}.md`;
+  if (!existsSync(file)) return null;
+  const fm = readFileSync(file, 'utf8').replace(/\r\n/g, '\n').split('\n---')[0];
+  return {
+    role: fm.match(/^role:\s*"?([^"\n]*)"?/m)?.[1] ?? '',
+    isReviewer: /^isReviewer:\s*true\s*$/m.test(fm),
+  };
+}
+const today = new Date().toISOString().slice(0, 10);
 // D-324: Cambridge IGCSE syllabuses with Core/Extended tiers that have diagnostic sets.
 const TIERED = ['0620', '0610', '0580', '0625'];
 
@@ -43,6 +66,18 @@ for (const set of DIAGNOSTIC_SETS) {
     const topic = q.topics[0]?.key.split('/')[0];
     if (!topic) problems.push(`${key}: ${id} has no syllabus topic tag, so its result cannot be reported by topic`);
     topics.add(topic);
+  }
+  if (set.setReview) {
+    const { reviewerSlug, reviewedOn } = set.setReview;
+    const a = authorFrontmatter(reviewerSlug);
+    if (!a) problems.push(`${key}: setReview names reviewer "${reviewerSlug}", who has no file in src/content/authors/`);
+    else {
+      if (!a.isReviewer) problems.push(`${key}: setReview reviewer "${reviewerSlug}" is not isReviewer: true`);
+      const re = SUBJECT_ROLE[set.subjectSlug];
+      if (!re || !re.test(a.role)) problems.push(`${key}: setReview reviewer "${reviewerSlug}" (${a.role || 'no role'}) does not teach ${set.subjectSlug}`);
+    }
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(reviewedOn) || Number.isNaN(Date.parse(reviewedOn))) problems.push(`${key}: setReview reviewedOn "${reviewedOn}" is not an ISO date (YYYY-MM-DD)`);
+    else if (reviewedOn > today) problems.push(`${key}: setReview reviewedOn ${reviewedOn} is in the future`);
   }
   if (set.questionIds.length < 4 || set.questionIds.length > 8) problems.push(`${key}: ${set.questionIds.length} questions; keep a diagnostic at 4-8`);
   if (marks > 16) problems.push(`${key}: ${marks} marks is too many for about ${set.minutes} minutes`);

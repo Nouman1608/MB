@@ -13,6 +13,41 @@ session's own direct repo inspection (HEAD `cf57e7e`, `npm run build` +
 Where this session has not independently verified a claim from those
 documents, that's stated rather than presented as confirmed.
 
+## Current status, 25 Sep 2026 00:10 PKT — read this first
+
+*Added by the register reconciliation (D-328). The 1-2 Sep 2026 table further down is kept as
+history. Where the two disagree, this section is current.*
+
+States used separately: **owner decision** · **implemented** (in source on `main`) · **tests
+passed** · **merged** · **deployed** (Cloudflare Workers Builds succeeded for that commit) ·
+**independently verified** (checked on production or by the audit, with the date) · **still
+unverified**.
+
+| Programme | Current state | Evidence | What is still missing |
+|---|---|---|---|
+| Content audit (rounds 1-60, audit instance) | Paused after round 60. No audit finding open. | `docs/audit/README.md` (round 60, run 2026-09-22 20:02 PKT) | 79 resources added after round 19 unread; repairs from D-285 onward unchecked; HANDOFF §5 items 2, 5, 6 open |
+| Repair programme (D-138 to D-284) | Merged, deployed; every declared closure independently checked by the audit | Rounds 12-60 | Nothing from the audit |
+| International Growth (D-295 to D-308) | Merged 2026-09-23 22:47 PKT (`a4f1f9b8`), deployed, verified live 2026-09-25 00:05 PKT | Country pages return 200; admin API returns 401 | Owner items 7, 8, 14, 16, 18 in `docs/business-decisions-register.md` |
+| Revision tools and diagnostics (D-286 to D-326) | Merged, deployed. 31 diagnostic sets across 19 syllabuses. **No set has been reviewed as a set by a subject teacher**; every set page says so | `src/data/diagnostics.ts` (`setReview` unset on all 31); live `/practice/0620/diagnostic/core/` | Teacher review of each set (see `docs/content-review/diagnostic-set-review.md`); academic check of the 71 practice files added 24 Sep |
+| CI gate (`.github/workflows/deploy.yml`) | **Repaired.** Failed on all 18 pushes from the International Growth merge (`a4f1f9b8`, 23 Sep 23:50 PKT, which carried D-297/D-298) to D-326; passes again from `d6cf86ae` (PR #76, run 36044833918) | D-327 | — |
+| Measurement of resource → diagnostic/practice → trial journeys | **Baseline measured** (GA4, 28 Aug to 24 Sep): 1 diagnostic page view, 0 completions, 6 leads. Too early to judge; no new content commissioned | `docs/growth/journey-measurement-2026-09-25.md` | Re-measure on 24 Oct 2026; owner to register `cta_location` in GA4 |
+| Search Intelligence & Demand-Led Growth (1 Sep) | Tooling live (D-122 to D-125, D-285); the "ACTIVE" row below is historical | `/admin/search-demand/` live, API key enforced | — |
+
+**CI is not the production gate.** Cloudflare's Git integration builds and deploys every push to
+`main` whether or not the GitHub "CI gate" passes: `a1235b59` (D-326) failed `validate` and was
+still deployed by Workers Builds. The CI gate reports; it does not block. What command
+Cloudflare's build runs is **still unrecorded** — it can only be read in the Cloudflare dashboard
+(Workers & Pages → `mb` → Settings → Build). Until it is recorded, a red CI run is the only
+signal that a broken change went live.
+
+**Carried-forward items at the bottom of this file:** the Section 11 roles, the R11 backup
+safeguarding contact and the Weeks 9-12 reviewer are still unanswered anywhere in the repository
+or project documents. Each needs a name from the owner.
+
+---
+
+## Programme table as of 1-2 Sep 2026 (history)
+
 | Programme | Status | Scope | Last update | Next action |
 |---|---|---|---|---|
 | **Marlbridge Global Growth Programme** (marketing calendar, GA4, Deliverables A-H) | MAINTENANCE | Content calendar, measurement spec, approval/risk register, production pack | 1 Sep 2026 (`programme-status.md`) | Small open items only — see below |

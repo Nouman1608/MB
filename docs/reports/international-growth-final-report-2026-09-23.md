@@ -1,5 +1,11 @@
 # Marlbridge International Growth programme: final report
 
+> **Status note, 25 Sep 2026 00:10 PKT (D-328):** "Not deployed yet" below was true when written.
+> The branch was merged to `main` on 2026-09-23 at 22:47 PKT (`a4f1f9b8`, after `a7b6c92a`), and
+> Cloudflare deployed it. Checked on production on 2026-09-25 00:05 PKT: `/international-tutoring/`,
+> `/uae/`, `/qatar/` and `/malaysia/` return 200, and `/api/admin/search-demand` returns 401 (the
+> D-295 admin key is enforced and set). The report is otherwise unchanged.
+
 Written 2026-09-23, about 16:15 PKT; updated about 22:45 PKT after rebasing. Branch `growth-programme`, rebased onto `main` at `e35efaf5` (PR #56). **Not deployed yet (see section 25).** Decisions are D-295 to D-308; `main` already uses D-286 to D-294.
 
 ## 1. Summary

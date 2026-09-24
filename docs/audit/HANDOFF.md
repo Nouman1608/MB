@@ -6,6 +6,22 @@ A separate "fixer" instance does the repairs; you do not. If you have been broug
 
 **Written:** 2026-09-15. **Repo state at handoff:** `main` @ `4d65f05`.
 
+> **Status note, 25 Sep 2026 00:10 PKT (D-328) — this overrides §5 and §7 wherever they disagree.**
+> §2's table was kept current to round 60 (run 2026-09-22 20:02 PKT): **no audit finding is
+> open.** §7's closing line ("150 confirmed errors are open") and §5's list date from the
+> 2026-09-15 handoff and were never updated. They are now corrected in place, with the original
+> wording kept below each. Dates such as "(2026-10-15)" in this file are **round labels, not
+> run dates** — see "File labels and run dates" in `README.md`.
+>
+> What remains for an auditor, from evidence rather than headings:
+> - **79 resources added after round 19** (`251571e`, 2026-09-16) have never been read by the
+>   audit, including the 71 practice files behind the diagnostics (24 Sep 2026).
+> - **Repairs after D-284** (D-285 onward) have not been checked.
+> - §5 items 2, 5 and 6 below: nothing in the repository shows them done. Treat as open.
+> - E238: §2's "one exception" is historical. Round 31 (label `2026-11-07`, run 2026-09-17)
+>   records E238 fixed against the IB Chemistry guide (first assessment 2025) pp. 45 and 62-68,
+>   read at ibo.org.
+
 ---
 
 ## 1. The governing brief — this came from the owner and has not changed
@@ -134,6 +150,9 @@ defect after sign-off. Re-tested this round across 14 files: did not recur.
 
 ## 5. Open work, in priority order
 
+*§5 status as of 2026-09-25: items 1, 3 and 4 are done. Items 2, 5 and 6 have no record of
+completion anywhere in the repository and are still open.*
+
 1. ~~**~41 non-Cambridge absence documents**~~ **Done** (rounds 6–7, Q376–Q379; E238 excepted).
    *Original entry:* (OxfordAQA 17, Pearson 14, OCR 6, IB 5, AQA 3),
    ~65 findings. **Workable now.** Expected yield is low — roughly one overturned finding per
@@ -177,5 +196,11 @@ handoffs so they don't need to.
 - Do not quote a group size from a screen as a measurement.
 - Do not call a document read unless it reached its own closing matter.
 - Do not bypass a bot challenge or CAPTCHA, for any reason.
-- Do not state that the corpus is correct. 150 confirmed errors are open, and a substantial
-  part of the audit rests on absence claims against documents never read to the end.
+- Do not state that the corpus is correct. *(Corrected 2026-09-25:)* no finding this audit
+  raised is open as of round 60, but the 79 post-round-19 resources are unread, repairs after
+  D-284 are unchecked, and "fixed and verified" means checked against the finding, not that
+  every statement on the site is right.
+  *Original wording (2026-09-15), kept as history:* "150 confirmed errors are open, and a
+  substantial part of the audit rests on absence claims against documents never read to the
+  end." Both halves were overtaken — the absence documents were finished in rounds 6-8, and the
+  open count reached 0 in round 60.

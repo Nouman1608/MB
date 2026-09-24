@@ -1,6 +1,39 @@
 # Marlbridge — Business decisions register (owner input required)
 
-Last updated: 2026-09-23, International Growth programme (items 10-20 added). Previously 2026-08-26, QIGT programme (task #81).
+Last updated: 2026-09-25 00:10 PKT, register reconciliation (D-328). Previously 2026-09-23, International Growth programme (items 10-20 added); 2026-08-26, QIGT programme (task #81).
+
+## Current status, 25 Sep 2026 00:10 PKT — read this table, not the per-item text below
+
+The per-item sections below keep the original questions and answers as a
+history. Where a later decision answered an item, the item's own `Status:`
+line now says so. **This table is the current account.**
+
+States used: *owner decision* (the owner has answered) · *implemented* (in
+source on `main`) · *deployed* (on marlbridge.com) · *verified* (checked on
+production by someone other than the implementer, with the date) · *open*
+(the named decision or evidence is missing).
+
+| # | Item | Current state | Evidence | What is still missing |
+|---|---|---|---|---|
+| 1-5 | Schools licence, discount stacking, class format, cancellation, payment | Owner decision, implemented, deployed | D-043, D-083; `PRICING_TERMS` in `src/data/pricing.ts` | Nothing |
+| 7 | FX approver | **Open** | `docs/fx-rate-policy.md` still records a proposal only | One sentence from the owner: "Nouman Ahmed approves every FX refresh and reprice", or a named alternative for routine 120-day refreshes |
+| 8 | Bank/wire fees | **Open** | Nothing on the site or in any document | Owner choice: Marlbridge absorbs receiving fees, or the family ensures the full published amount arrives |
+| 9 | www redirect | Done (optional item overtaken) | www → apex 301 live since v1.x WS3; rechecked 23 Sep 2026 (item 17) | Nothing |
+| 10 | `ADMIN_API_KEY` secret | **Done** | Production on 25 Sep 2026 00:05 PKT: `GET /api/admin/search-demand` returns **401 "Admin key required."**. The code returns 503 only while the secret is unset (`functions/api/admin/search-demand.ts`) | Not checked: that the owner's dashboard loads data with the key (needs the key, which only the owner has) |
+| 11 | USD fees | Owner decision, implemented, deployed (D-311, D-313) | `ONE_TO_ONE_PRICING` "Other countries" row; live `/pricing/` shows 13 / 15 USD one-to-one and 69 / 87 USD group (checked 25 Sep 2026 00:10 PKT) | Nothing. Group USD fees remain indicative by design |
+| 12 | IB fees outside Pakistan | Owner decision, implemented, deployed (D-311, D-313) | Live `/pricing/` shows "6,000 PKR per 1-hour class" and "22 USD (MYP) or 25 USD (Diploma" (checked 25 Sep 2026 00:10 PKT) | Nothing |
+| 13 | Teacher availability | Owner decision, implemented, deployed (D-311) | `PRICING_TERMS.teacherAvailability`; the sentence "24 hours a day, 7 days a week" is live on `/international-tutoring/` and `/uae/` (checked 25 Sep 2026 00:10 PKT) | Nothing |
+| 14 | "Confirmed in writing" | **Open (wording kept)** | Wording matches the owner's stated email practice | Owner confirmation that no standard quote template exists, or the template itself |
+| 15 | Enquiry recipient | Owner decision (no change), 23 Sep 2026 | `functions/api/enquiry.ts` | Nothing |
+| 16 | Progress reports, safeguarding, qualified-teacher claims | **Open (deliberately absent from the site)** | No policy document supplied | The document or policy for any of these the owner wants claimed |
+| 17 | Cloudflare housekeeping | Optional | — | Nothing required |
+| 18 | `updatedDate` practice | **Open (practice, not code)** | — | Owner confirmation that `updatedDate` changes only on a real revision |
+| 19 | IB licence | **Answered 2026-09-05 (D-135)** — no IB licence is claimed or required; the D-008 wording was retired | D-135 in `docs/decision-log.md`; D-127 | Nothing. The "open, unchanged" text below predates this reconciliation, not the decision |
+| 20 | Further country pages | Scheduled review at day 90 | `docs/growth/international-measurement-plan-2026-09-23.md` | Search Console data at day 90 |
+
+**Genuinely open owner items: 7, 8, 14, 16, 18.** Each needs one answer from
+the owner; none needs a new question drafted.
+
 
 This register consolidates every question the QIGT workstreams (D-034
 through D-039, and one earlier finding from D-010/D-033) surfaced that
@@ -17,6 +50,11 @@ owner and implemented on the site.** See each item below for the answer
 given and exactly where it now appears live. This register is retained as
 a historical record of the questions and answers, not because anything
 remains open.
+
+> **Superseded (2026-09-25):** the sentence above was true of items 1-5 on
+> 2026-08-26. Items 7 and 8 were added on 2026-08-30 and items 10-20 on
+> 2026-09-23, and several of those are open. Use the current-status table
+> at the top of this file.
 
 Per the programme's own ground rules, no answer has been invented or
 guessed for any of these — the current site simply does not state a
@@ -209,30 +247,28 @@ under Workers > mb > Settings > Variables and Secrets. Paste the same value
 into the key box on `/admin/search-demand/`; it is kept only for the
 browser tab.
 
-**Status:** open. The daily cron that refreshes the D1 table is not
-affected.
+**Status:** done — the secret is set. Checked on production 2026-09-25 00:05 PKT: the endpoint returns 401 ("Admin key required."), not 503. *(Was "open" until the 2026-09-25 reconciliation.)*
 
 ### 11. USD fee bands
 
 **Decided 2026-09-24 (D-311):** owner said "use the USD price". Countries without their own row see indicative US dollar figures: group US$69 / US$87 per subject per month, one-to-one US$13 / US$14 per class, IB US$22 per 1-hour class (276.97 PKR per USD, 24 Sep 2026). **Revised the same day (D-313):** the owner set one-to-one at US$13 (IGCSE) / US$15 (A Level) and IB at US$22 (MYP) / US$25 (Diploma), as set prices rather than conversions. Group fees stay indicative at US$69 / US$87.
 
-The brief mentions USD bands. No USD figure is owner-confirmed, so none is
+*Original question (2026-09-23), kept as history:* The brief mentions USD bands. No USD figure is owner-confirmed, so none is
 published (D-297). If families outside the priced regions should see a
 USD figure, the owner needs to set it. The alternative is to label it
 indicative, as was done for Malaysia.
 
-**Status:** open. The site currently says "confirmed in writing when you
-enquire".
+**Status:** decided 2026-09-24 (D-311, revised by D-313); implemented. *(Was "open" until the 2026-09-25 reconciliation, which corrected this stale line.)*
 
 ### 12. IB fee outside Pakistan
 
 **Decided 2026-09-24 (D-311):** owner set IB at Rs 6,000 per 1-hour one-to-one class (was Rs 5,000). Other currencies are indicative conversions (`IB_CONVERSIONS`), checked by `validate-fx-policy` [2f].
 
-The IB rate (5,000 PKR per class) is confirmed for Pakistan only. Every
+*Original question (2026-09-23), kept as history:* The IB rate (5,000 PKR per class) is confirmed for Pakistan only. Every
 country page shows IB as "on enquiry". The owner could confirm per-country
 IB fees, or approve an indicative conversion as for one-to-one.
 
-**Status:** open.
+**Status:** decided 2026-09-24 (D-311: Rs 6,000 with indicative conversions; D-313: US$22 MYP / US$25 Diploma set); implemented. *(Was "open" until the 2026-09-25 reconciliation.)*
 
 ### 13. Tutor availability by time zone
 
@@ -243,9 +279,9 @@ promise slots, because teacher availability by time of day has not been
 recorded. UK after-school hours fall at 8:30 to 10:30 pm in Lahore, and
 Malaysia's fall at 1 to 5 pm. The owner could confirm which bands teachers
 actually cover, so pages can say, for example, "UK weekday slots 5 to 7 pm
-UK time".
+UK time". *(Original question, 2026-09-23.)*
 
-**Status:** open.
+**Status:** decided 2026-09-24 (D-311: teachers available 24/7); implemented. *(Was "open" until the 2026-09-25 reconciliation.)*
 
 ### 14. "Confirmed in writing" process
 
@@ -306,7 +342,7 @@ link to the official IB pages and quote no IB material. Whether Marlbridge
 may describe itself in relation to the IB beyond that still depends on the
 IB's terms, and needs the owner's confirmation.
 
-**Status:** open, unchanged.
+**Status:** answered — the owner decided on 2026-09-05 (D-135) that no IB licence is claimed or required, and the D-008 licence wording was retired then. This item was carried over on 2026-09-23 without checking D-135. *(Corrected in the 2026-09-25 reconciliation; no new question for the owner.)*
 
 ### 20. Country pages for further markets
 
