@@ -1435,8 +1435,8 @@ export const SYLLABUSES: readonly Syllabus[] = [
     code: '4040',
     boardSummary:
       'Cambridge O Level Statistics develops learners\' understanding of statistical concepts and techniques and their ability to apply these to interpret and evaluate data.',
-    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-statistics-4040/',
-    verifiedOn: '2026-08-21',
+    officialUrl: 'https://www.cambridgeinternational.org/Images/664481-2025-2027-syllabus.pdf',
+    verifiedOn: '2026-09-24',
     notes: 'For examination 2025-2027. Twelve topics, closely mirroring sibling IGCSE Statistics 0479.',
   },
   {

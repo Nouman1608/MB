@@ -12,6 +12,8 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "core-content-option-b-0470"
+seoTitle: "IGCSE World History 0470 Option B: Relations since 1919"
+seoDescription: "Core Content Option B of Cambridge IGCSE World History 0470 (2024–2026): Versailles, the League of Nations, Hitler's foreign policy, the Cold War and more."
 description: "Cambridge IGCSE World History 0470 (2024-2026 series), Core Content Option B: the Treaty of Versailles, the League of Nations, Hitler's foreign policy, the origins of the Cold War, US containment of communism, and Soviet control of Eastern Europe."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-01

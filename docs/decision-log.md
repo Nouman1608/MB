@@ -13823,3 +13823,22 @@ This saves about 102 KB on the first visit to any page. The two files downloaded
 **Not covered, and why:** 5054 and 4024 (practice files cover one topic each); 9709 and 2210 (too few practice files, no examiner report); 1123 English (essay-based); Biology (no June 2025 papers in the folder).
 
 **Status:** all 14 sets are awaiting teacher review.
+
+## D-320 - Second batch of low-CTR titles, plus March 2027 exam dates (2026-09-24)
+
+**Owner request:** "yes" (do the next batch of pages that rank on page one but get few clicks).
+
+**Evidence.** Search Console snapshots in D1, 18 Aug to 21 Sep 2026. Pages at an average position of about 5–10 with 45–250 impressions and 0–3 clicks. The queries they show for ask for a code plus an edition year ("0457 syllabus 2027", "9093 syllabus 2027", "3248 syllabus 2027", "9708 syllabus 2027", "cambridge o level statistics 4040 syllabus 2026 official/pdf"), a component ("component 2 global perspectives", "aqa 8702 paper 2 section c unseen poetry 24 marks 8 marks") or 2027 dates ("cambridge exam dates 2027", "cambridge a level feb march 2027 timetable").
+
+**Changes.** Each title and description only states what the page already contains.
+
+| Page | Change |
+|---|---|
+| O Level Statistics 4040 hub | `officialUrl` now points to the official syllabus PDF (664481-2025-2027-syllabus.pdf, whose cover says "Use this syllabus for exams in 2025, 2026 and 2027"; checked 24 Sep), in place of the programme page. The existing D-298 rule then puts "Syllabus 2025–2027" in the title from the file name. |
+| `/exam-calendar/` | Adds the **February/March 2027** series from Cambridge's own March 2027 monthly calendar (548188-march-series-monthly-calendar.pdf): final entries by 27 Nov 2026, late entries by 14 Dec 2026, exams 3 Feb – 4 Mar 2027, results on Direct 13 May 2027, enquiries about results by 11 Jun 2027. The page now renders every record in `EXAM_SERIES_KEY_DATES` (Nov 2026 first, "Currently ahead"; then March 2027, "Next series"), each with its own source note. Title → "Cambridge Exam Dates 2026–2027: Entries, Exams & Results". No paper-by-paper timetable is added (same reasoning as before). |
+| `/programs/` | Title "Programs" → "Programs: IGCSE, O Level, A Level, GCSE, IB, SAT & IELTS" (the programmes the page already lists). |
+| 10 resources | `seoTitle` (and, where missing, `seoDescription`) naming the code, the component or paper and the syllabus series the resource itself states: 9239 essay (2026–2028), 0457 individual report (2025–2027), 9708 Topic 2 (2026–2028), 9709 P2 (2026–2027), 0470 Options A and B (2024–2026), 9093 Paper 1 notes (2024–2026), AQA 8702 Section C (24 + 8 marks), IB DP Language A: Language and Literature, O Level Urdu 3247/3248 (from 2027). |
+
+**Not changed.** The 9093 notes follow the 2024–2026 syllabus, so their title does not say 2027 even though searchers ask for it. The O Level World History and A Level Physics hubs already carried the code and document name. No June 2027 key-dates document was found on Cambridge's site on 24 Sep, so none is shown.
+
+**Check at day 30:** CTR for these 13 URLs in Search Console against the figures above.

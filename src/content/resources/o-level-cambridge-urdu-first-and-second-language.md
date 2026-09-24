@@ -14,6 +14,8 @@ syllabusTopics:
     topic: "fl-paper-1-reading-writing-3247"
   - qualification: "o-level"
     topic: "sl-paper-1-reading-writing-3248"
+seoTitle: "O Level Urdu 3247 and 3248: Papers and Syllabus from 2027"
+seoDescription: "Cambridge O Level First Language Urdu 3247 and Second Language Urdu 3248 compared: papers, marks and skills tested, for the syllabuses examined from 2027."
 description: "First Language and Second Language Urdu -- the two distinct, currently examined Cambridge O-Level Urdu syllabuses, each built around Paper 1 Reading and Writing plus a second, differently-focused paper."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21

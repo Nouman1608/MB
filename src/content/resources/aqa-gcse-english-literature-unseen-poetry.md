@@ -12,6 +12,8 @@ order: 2
 syllabusTopics:
   - qualification: "gcse"
     topic: "paper-2-modern-texts-and-poetry-8702"
+seoTitle: "AQA 8702 Unseen Poetry: Paper 2 Section C (24 + 8 marks)"
+seoDescription: "How to answer AQA GCSE English Literature 8702 Paper 2 Section C: analysing one unseen poem (24 marks), then comparing it with a second (8 marks)."
 description: "The two-part Unseen Poetry task -- analysing one unseen poem, then comparing it with a second -- Section C of Paper 2, distinct from the site's existing whole-paper guide to Modern Texts and Poetry, which focuses on the studied anthology cluster and modern prose/drama text."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-09
