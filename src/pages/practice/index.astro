@@ -42,7 +42,7 @@ const diagnostics = DIAGNOSTIC_SETS.map((d) => ({ ...d, spec: specs.find((s) => 
 ---
 <PageLayout
   title="Free Practice Questions & 10-Minute Diagnostics"
-  description="Free 10-minute diagnostics and self-check practice for Cambridge IGCSE and A Level Chemistry, Physics and Mathematics: worked answers, weak-topic tracking, no account."
+  description="Free 10-minute diagnostics and self-check practice questions for Cambridge and Edexcel IGCSE, O Level and A Level subjects: worked answers, weak-topic tracking, no account."
   path={path}
   eyebrow="Free tool"
   heading="Practice"
@@ -55,7 +55,7 @@ const diagnostics = DIAGNOSTIC_SETS.map((d) => ({ ...d, spec: specs.find((s) => 
   <Section surface="white">
     <Container>
       <h2 class="m-0 mb-2 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Test my knowledge: 10-minute diagnostics</h2>
-      <p class="m-0 mb-5 max-w-[68ch] text-[15px] text-ink-mute">Six short questions across a syllabus, then worked answers and a list of topics to practise. You mark yourself; it is a study check, not a predicted grade.</p>
+      <p class="m-0 mb-5 max-w-[68ch] text-[15px] text-ink-mute">Four to six short questions across a syllabus, then worked answers and a list of topics to practise. You mark yourself; it is a study check, not a predicted grade. <a href="/diagnostics/" class="font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">See all diagnostics by qualification →</a></p>
       <ul class="m-0 mb-12 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
         {diagnostics.map((d) => (
           <li class="m-0">

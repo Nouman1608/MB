@@ -3,7 +3,7 @@
  * D-286 -- "Start revising for free", directly under the homepage hero.
  *
  * Three actions, each pointing at a tool that works today:
- *   Test my knowledge        -> /practice/ (diagnostics + self-check)
+ *   Test my knowledge        -> /diagnostics/ (D-325; was /practice/)
  *   Make my revision plan    -> /revision-planner/
  *   Find notes for my syllabus -> the finder below (qualification -> board
  *                                -> subject), falling back to /boards/.
@@ -17,22 +17,18 @@ import Section from '../layout/Section.astro';
 import Container from '../layout/Container.astro';
 import SyllabusFinder from '../tools/SyllabusFinder.astro';
 import { DIAGNOSTIC_SETS } from '../../data/diagnostics';
-import { flagshipSpecs } from '../../utils/academic';
 import { routes } from '../../utils/urls/routes';
 
-const diagSubjects = [...new Map(DIAGNOSTIC_SETS.map((d) => {
-  const f = flagshipSpecs().find((x) => x.code === d.code)!;
-  return [d.code, `${f.combination.qualification} ${f.combination.subject} (${d.code})`];
-})).values()];
-const diagList = diagSubjects.length > 1
-  ? `${diagSubjects.slice(0, -1).join(', ')} and ${diagSubjects[diagSubjects.length - 1]}`
-  : diagSubjects[0];
+// D-325: with 31 sets the subject list no longer fits a sentence; the card
+// states the real counts and links to the /diagnostics/ hub instead.
+const diagCount = DIAGNOSTIC_SETS.length;
+const diagSyllabuses = new Set(DIAGNOSTIC_SETS.map((d) => d.code)).size;
 
 const actions = [
   {
-    href: '/practice/',
+    href: '/diagnostics/',
     title: 'Test my knowledge',
-    body: `10-minute diagnostics for ${diagList}, then self-check questions with worked answers.`,
+    body: `${diagCount} free 10-minute diagnostics across ${diagSyllabuses} IGCSE, O Level and A Level syllabuses, with worked answers and your weakest topics first.`,
     kind: 'test',
   },
   {

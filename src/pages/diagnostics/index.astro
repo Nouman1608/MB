@@ -1,0 +1,170 @@
+---
+/**
+ * D-325 -- /diagnostics/: every free 10-minute diagnostic in one place,
+ * grouped by qualification, then subject. Read entirely from
+ * src/data/diagnostics.ts and the flagship specs, so the page can never
+ * list a set that does not exist or miss one that does.
+ */
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import { DIAGNOSTIC_SETS, diagnosticPath, diagnosticsForCode } from '../../data/diagnostics';
+import { flagshipSpecs, academicHubPath } from '../../utils/academic';
+import { routes } from '../../utils/urls/routes';
+
+const path = '/diagnostics/';
+const specs = flagshipSpecs();
+
+/** Short label for a set, as a student would say it. */
+const setLabel = (slug: string, code: string): string => {
+  const hasPaper2 = diagnosticsForCode(code).some((d) => d.slug === 'paper-2');
+  const labels: Record<string, string> = {
+    core: 'Core',
+    extended: 'Extended',
+    as: 'AS topics',
+    'a-level': 'A Level topics',
+    'all-topics': hasPaper2 ? 'Paper 1 topics' : 'All topics',
+    'paper-2': 'Paper 2 topics',
+  };
+  return labels[slug] ?? slug;
+};
+
+const QUAL_ORDER = ['igcse', 'o-level', 'a-level'];
+const QUAL_HEADINGS: Record<string, string> = {
+  igcse: 'IGCSE and International GCSE',
+  'o-level': 'O Level',
+  'a-level': 'AS & A Level',
+};
+
+const codes = [...new Set(DIAGNOSTIC_SETS.map((d) => d.code))];
+const subjects = codes.map((code) => {
+  const spec = specs.find((s) => s.code === code)!;
+  const sets = diagnosticsForCode(code).map((d) => ({
+    href: diagnosticPath(d),
+    label: setLabel(d.slug, code),
+    scope: d.scopeLabel,
+    questions: d.questionIds.length,
+    minutes: d.minutes,
+  }));
+  return {
+    code,
+    qualificationSlug: spec.qualificationSlug,
+    board: spec.combination.board,
+    qualification: spec.combination.qualification,
+    subject: spec.combination.subject,
+    hub: academicHubPath(spec.combination),
+    practice: `/practice/${code}/`,
+    sets,
+  };
+});
+
+const groups = QUAL_ORDER.map((q) => ({
+  slug: q,
+  heading: QUAL_HEADINGS[q],
+  subjects: subjects
+    .filter((s) => s.qualificationSlug === q)
+    .sort((a, b) => a.subject.localeCompare(b.subject) || a.board.localeCompare(b.board)),
+})).filter((g) => g.subjects.length > 0);
+
+const totalSets = DIAGNOSTIC_SETS.length;
+const totalSubjects = subjects.length;
+
+const jsonLd = {
+  '@type': 'ItemList',
+  '@id': 'https://marlbridge.com/diagnostics/#list',
+  name: 'Free 10-minute diagnostics',
+  numberOfItems: totalSets,
+  itemListElement: DIAGNOSTIC_SETS.map((d, i) => {
+    const s = subjects.find((x) => x.code === d.code)!;
+    return {
+      '@type': 'ListItem',
+      position: i + 1,
+      name: `${s.board} ${s.qualification} ${s.subject} (${d.code}) — ${setLabel(d.slug, d.code)}`,
+      url: `https://marlbridge.com${diagnosticPath(d)}`,
+    };
+  }),
+};
+---
+<PageLayout
+  title="Free 10-Minute Diagnostics for IGCSE, O Level and A Level"
+  description={`${totalSets} free 10-minute diagnostics across ${totalSubjects} Cambridge and Edexcel syllabuses. Answer a few exam-style questions, mark them against worked answers and see which topics to revise first. No sign-up.`}
+  path={path}
+  jsonLd={[jsonLd]}
+  eyebrow="Free tool"
+  heading="10-minute diagnostics"
+  lead="Answer a few short exam-style questions, mark them yourself against full worked answers, and see which topics to revise first. Free, no account, and it works on your phone."
+  breadcrumbs={[
+    { label: 'Home', href: routes.home },
+    { label: 'Diagnostics', href: path },
+  ]}
+>
+  <Section surface="white">
+    <Container>
+      <div class="mb-10 grid gap-4 sm:grid-cols-3">
+        <div class="rounded-sm border border-rule bg-ivory p-5">
+          <p class="m-0 font-semibold text-navy-800">1. Answer</p>
+          <p class="m-0 mt-1 text-[14.5px] leading-[1.6] text-ink-mute">Four to six questions from different topics. Work on paper; about 10 minutes.</p>
+        </div>
+        <div class="rounded-sm border border-rule bg-ivory p-5">
+          <p class="m-0 font-semibold text-navy-800">2. Mark</p>
+          <p class="m-0 mt-1 text-[14.5px] leading-[1.6] text-ink-mute">Compare your answers with the worked answers and give yourself the marks you honestly earned.</p>
+        </div>
+        <div class="rounded-sm border border-rule bg-ivory p-5">
+          <p class="m-0 font-semibold text-navy-800">3. Plan</p>
+          <p class="m-0 mt-1 text-[14.5px] leading-[1.6] text-ink-mute">See your weakest topics first, with links to practise them. A study check, not a predicted grade.</p>
+        </div>
+      </div>
+
+      <p class="m-0 mb-8 max-w-[70ch] text-[15px] leading-[1.6] text-ink-mute">
+        All questions are original, written by the Marlbridge Academic Team. Many are modelled on skills tested in recent Cambridge and Edexcel papers, and each answer points you to the real past-paper question to try next. No exam-board questions are reproduced.
+      </p>
+
+      <nav aria-label="Jump to a qualification" class="mb-10 flex flex-wrap gap-2">
+        {groups.map((g) => (
+          <a href={`#${g.slug}`} class="rounded-sm border border-rule px-3 py-1.5 text-[14px] font-medium text-navy-800 hover:border-gold-500">{g.heading}</a>
+        ))}
+      </nav>
+
+      {groups.map((g) => (
+        <section id={g.slug} class="mb-12 scroll-mt-24" aria-labelledby={`${g.slug}-heading`}>
+          <h2 id={`${g.slug}-heading`} class="m-0 mb-5 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{g.heading}</h2>
+          <ul class="m-0 grid list-none gap-4 p-0 md:grid-cols-2">
+            {g.subjects.map((s) => (
+              <li class="m-0 flex flex-col gap-3 rounded-sm border border-rule bg-white p-[clamp(18px,2vw,24px)]">
+                <div>
+                  <p class="m-0 font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600">{s.board} {s.qualification} · {s.code}</p>
+                  <h3 class="m-0 mt-1 text-[19px] font-semibold tracking-[-0.01em] text-navy-800">{s.subject}</h3>
+                </div>
+                <ul class="m-0 flex list-none flex-col gap-2 p-0">
+                  {s.sets.map((d) => (
+                    <li class="m-0">
+                      <a href={d.href} data-diagnostic-link={s.code} class="flex flex-wrap items-baseline justify-between gap-x-3 gap-y-0.5 rounded-sm border border-gold-500 bg-ivory px-4 py-3 transition-colors hover:bg-white">
+                        <span class="font-medium text-navy-800">{d.label} <span aria-hidden="true" class="text-gold-600">→</span></span>
+                        <span class="text-[13.5px] text-ink-mute">{d.questions} questions · about {d.minutes} min</span>
+                        <span class="w-full text-[13.5px] text-ink-mute">{d.scope}</span>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+                <p class="m-0 text-[13.5px] text-ink-mute">
+                  <a href={s.practice} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">More practice questions</a>
+                  {' · '}
+                  <a href={s.hub} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">Notes and syllabus</a>
+                </p>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))}
+    </Container>
+  </Section>
+
+  <Section surface="ivory" border>
+    <Container>
+      <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">After your diagnostic</h2>
+      <p class="m-0 max-w-[68ch] text-[15px] leading-[1.6] text-ink-mute">
+        Turn your weak topics into a weekly timetable with the free <a href="/revision-planner/" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">revision planner</a>, or keep going with the <a href="/practice/" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">self-check practice questions</a>. If you would like a teacher to work through them with you, <a href={`${routes.trial}?source=diagnostics-hub`} data-cta="diagnostics-hub-trial" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">request a free trial class</a>.
+      </p>
+    </Container>
+  </Section>
+</PageLayout>
