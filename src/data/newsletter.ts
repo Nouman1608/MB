@@ -14,7 +14,7 @@
  * decision in Resend.
  */
 export const NEWSLETTER = {
-  enabled: false,
+  enabled: true,
   /** What subscribers get -- shown next to the form. Keep it true to what is actually sent. */
   promise: 'Occasional emails with practice questions, worked explanations and links to free resources for the qualification and subjects you choose. No spam, and you can unsubscribe from any email.',
 } as const;
