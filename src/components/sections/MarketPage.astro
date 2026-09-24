@@ -20,7 +20,7 @@ import { faqNode } from '../../utils/schema/faq';
 import { TRIAL_STEPS } from '../../data/tuition';
 import {
   REGION_PRICING, ONE_TO_ONE_PRICING, PRICING_TERMS, PRICING_VERIFIED_DATE, ONE_TO_ONE_TERMS,
-  IB_PRICING, formatFee, isIndicative, INDICATIVE_NOTE,
+  IB_PRICING, formatFee, isIndicative, INDICATIVE_NOTE, ibConversionFor,
 } from '../../data/pricing';
 import { site } from '../../data/site';
 import { timeRows, hubIsTaught, RESOURCES_ONLY_SUFFIX, type Market } from '../../data/markets';
@@ -30,6 +30,8 @@ const { market: m } = Astro.props;
 
 const group = REGION_PRICING.find((r) => r.region === m.pricingRegion);
 const oneToOne = ONE_TO_ONE_PRICING.find((r) => r.region === m.pricingRegion);
+// D-311 -- IB: Rs 6,000 per 1-hour class in Pakistan; other currencies are indicative conversions.
+const ib = ibConversionFor(m.pricingRegion);
 const rows = timeRows(m.utcOffsetHours);
 const diff = 5 - m.utcOffsetHours;
 const diffText = diff === 0 ? 'the same time as Lahore' : diff > 0 ? `${diff} hour${diff === 1 ? '' : 's'} behind Lahore` : `${-diff} hour${diff === -1 ? '' : 's'} ahead of Lahore`;
@@ -116,7 +118,7 @@ const summary = `Marlbridge teaches ${m.name}-based students live online, one-to
       <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Class times: {m.name === 'United Arab Emirates' ? 'UAE' : m.name} time and Lahore time</h2>
       <p class="m-0 mb-6 max-w-[70ch] text-[15.5px] leading-[1.65] text-ink-mute">
         Every class is taught live from Lahore (UTC+5). {m.name === 'United Arab Emirates' ? 'The UAE' : m.name} is on {m.timeZoneLabel}, {diffText}.
-        The table shows where common after-school times fall in Lahore. The actual time is agreed with the teacher before the first class; nothing is booked by sending a form.
+        The table shows where common after-school times fall in Lahore. {PRICING_TERMS.teacherAvailability} The actual time is agreed with the teacher before the first class; nothing is booked by sending a form.
       </p>
       <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
         <table class="w-full min-w-[360px] max-w-[520px] border-collapse text-[15px]">
@@ -173,9 +175,9 @@ const summary = `Marlbridge teaches ${m.name}-based students live online, one-to
                 <td class="py-3 text-ink-mute">{isIndicative(oneToOne) ? 'Indicative' : 'Confirmed'}</td>
               </tr>
               <tr class="border-b border-rule">
-                <th scope="row" class="py-3 pr-4 text-left font-normal text-ink">IB (one-to-one only)</th>
-                <td class="py-3 pr-4 text-ink-mute" colspan="2">Confirmed in writing when you enquire</td>
-                <td class="py-3 text-ink-mute">On enquiry</td>
+                <th scope="row" class="py-3 pr-4 text-left font-normal text-ink">IB, one-to-one, per 1-hour class</th>
+                <td class="py-3 pr-4 text-ink-mute" colspan="2">{ib ? `${formatFee(ib.perClass, ib.currency)} ${ib.currency}` : 'Confirmed in writing when you enquire'}</td>
+                <td class="py-3 text-ink-mute">{ib ? 'Indicative' : 'On enquiry'}</td>
               </tr>
             </tbody>
           </table>
@@ -184,7 +186,7 @@ const summary = `Marlbridge teaches ${m.name}-based students live online, one-to
         <p class="m-0 text-[15.5px] text-ink-mute">{PRICING_TERMS.unsupportedRegionNote}</p>
       )}
       <p class="m-0 mt-4 max-w-[70ch] text-[13px] text-ink-mute">
-        {group && oneToOne && (!isIndicative(group) || !isIndicative(oneToOne)) ? `"Confirmed" fees are set by Marlbridge for ${m.name}. ` : ''}{INDICATIVE_NOTE} The published IB fee ({IB_PRICING.perClass.toLocaleString('en-US')} {IB_PRICING.currency} per class) applies to Pakistan only. {PRICING_TERMS.notPermanentNote} Group fees last confirmed {PRICING_VERIFIED_DATE}; one-to-one figures last confirmed or converted {ONE_TO_ONE_TERMS.verifiedDate}{m.slug === 'malaysia' ? '; Malaysia figures converted 2026-09-23' : ''}.
+        {group && oneToOne && (!isIndicative(group) || !isIndicative(oneToOne)) ? `"Confirmed" fees are set by Marlbridge for ${m.name}. ` : ''}{INDICATIVE_NOTE} The IB fee is set in Pakistan at {IB_PRICING.perClass.toLocaleString('en-US')} {IB_PRICING.currency} {IB_PRICING.unit}; the figure above is its conversion (IB rates converted {IB_PRICING.verifiedDate}). {PRICING_TERMS.notPermanentNote} Group fees last confirmed {PRICING_VERIFIED_DATE}; one-to-one figures last confirmed or converted {ONE_TO_ONE_TERMS.verifiedDate}{m.slug === 'malaysia' ? '; Malaysia figures converted 2026-09-23' : ''}.
       </p>
     </Container>
   </Section>

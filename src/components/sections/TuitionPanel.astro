@@ -18,7 +18,7 @@ import type { TuitionPage } from '../../data/tuition-pages';
 import VideoSection from '../media/VideoSection.astro';
 import FAQ from '../ui/FAQ.astro';
 import { teachersForSubjectTitle } from '../../utils/content/subject-teachers';
-import { REGION_PRICING, ONE_TO_ONE_PRICING, PRICING_TERMS, ONE_TO_ONE_TERMS, formatFee, feeFor, QUALIFICATION_TIER, PRICING_VERIFIED_DATE } from '../../data/pricing';
+import { REGION_PRICING, ONE_TO_ONE_PRICING, PRICING_TERMS, ONE_TO_ONE_TERMS, formatFee, feeFor, QUALIFICATION_TIER, PRICING_VERIFIED_DATE, isIndicative } from '../../data/pricing';
 import { LA_EVIDENCE } from '../../data/learners-academy-evidence';
 import { topicsFor } from '../../data/academic/syllabus-topics';
 import { DIAGNOSTIC_SETS, diagnosticPath } from '../../data/diagnostics';
@@ -108,7 +108,7 @@ const h3 = 'm-0 mb-3 text-[18px] font-semibold tracking-[-0.01em] text-navy-800'
               return (
                 <tr class="border-b border-rule">
                   <th scope="row" class="py-2 pe-4 font-medium text-ink">{r.region}</th>
-                  <td class="py-2 pe-4">{formatFee(feeFor(r, tier), r.currency)} {r.currency}</td>
+                  <td class="py-2 pe-4">{formatFee(feeFor(r, tier), r.currency)} {r.currency}{isIndicative(r) ? '*' : ''}</td>
                   <td class="py-2">{one ? `${formatFee(feeFor(one, tier), one.currency)} ${one.currency}${one.region === 'Pakistan' ? '' : '*'}` : 'Enquire'}</td>
                 </tr>
               );

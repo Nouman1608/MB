@@ -117,7 +117,7 @@ const programTuitionFaqs = hasGroupTuition
           // fee on this page, so neither may say "the fee shown above".
           return [{ question: f.question, answer: feeOnEnquiry
             ? `${PRICING_TERMS.billing} There is no separate registration or enrolment fee; the fee is confirmed on enquiry, before anything is booked.`
-            : `${PRICING_TERMS.billing} There is no separate registration or enrolment fee. IB tuition is charged per class: the pricing page gives the rate for ${IB_PRICING.region}, and outside ${IB_PRICING.region} the fee is confirmed on enquiry, before anything is booked.` }];
+            : `${PRICING_TERMS.billing} There is no separate registration or enrolment fee. IB tuition is charged per 1-hour class: ${IB_PRICING.perClass.toLocaleString('en-US')} ${IB_PRICING.currency} in ${IB_PRICING.region}. The pricing page shows indicative conversions for other currencies, and the exact fee is confirmed in writing before anything is booked.` }];
         }
         if (f.question !== 'Is the trial one-to-one or in a group?') return [f];
         return isIb
@@ -162,7 +162,7 @@ const jsonLd = [
       <span class="text-[14px] text-ink-mute">Groups capped at {PRICING_TERMS.maxGroupSize} &middot; one-to-one also available</span>
     )}
     {d.marlbridgeTeaches === 'teaching' && isIb && (
-      <span class="text-[14px] text-ink-mute">One-to-one only &middot; charged per class</span>
+      <span class="text-[14px] text-ink-mute">One-to-one only &middot; {IB_PRICING.perClass.toLocaleString('en-US')} {IB_PRICING.currency} per 1-hour class in {IB_PRICING.region}</span>
     )}
     {d.marlbridgeTeaches === 'teaching' && feeOnEnquiry && (
       <span class="text-[14px] text-ink-mute">Fee confirmed on enquiry</span>
