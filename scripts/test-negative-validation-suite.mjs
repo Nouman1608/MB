@@ -42,7 +42,8 @@
  * when D-134 rescinded that claim), and a form control whose id no longer
  * matches its <label for=...> (AC, Flagship Dominance/Trust programme,
  * D-099, accessibility audit), and a diagnostic set recorded as reviewed by
- * a reviewer who does not teach its subject (AH, D-328).
+ * a reviewer who does not teach its subject (AH, D-328), and a diagnostic
+ * question that refers to another question the diagnostic does not show (AI, D-329).
  *
  * Categories proven elsewhere, not re-implemented here (see comments below
  * each skip): cross-board topic contamination (test-cross-board-regression.mjs,
@@ -587,6 +588,28 @@ withMutation(
     label: 'a 0620 diagnostic set recorded as reviewed by a Physics teacher is rejected',
   },
 );
+
+console.log('\n[AI] Diagnostics: a question that leans on another question in its source file is rejected (D-329)');
+// Located structurally: the first question id in the 9618 A Level set is read from
+// DIAGNOSTIC_SETS order in src/data/diagnostics.ts, and "(see Question 1)" is inserted
+// into that question's text in its source file.
+{
+  const diagText = readFileSync('src/data/diagnostics.ts', 'utf8');
+  const setStart = diagText.indexOf("slug: 'a-level',\n    code: '9618'");
+  const firstId = setStart === -1 ? null : diagText.slice(setStart).match(/questionIds: \[\s*'([^']+)'/)?.[1];
+  const m = firstId?.match(/^(.*)-q(\d+)$/);
+  if (!m) throw new Error('[AI] fixture: could not find the first 9618/a-level question id');
+  const [, slug, n] = m;
+  withMutation(
+    `src/content/resources/${slug}.md`,
+    (text) => text.replace(new RegExp(`^(\\*\\*${n}\\.\\*\\* )`, 'm'), '$1(See Question 1.) '),
+    {
+      validatorCmd: 'node --experimental-strip-types scripts/validate-diagnostics.mjs',
+      expectSubstring: `${firstId} refers to another question the diagnostic does not show`,
+      label: `${firstId} with a reference to Question 1 inserted is rejected`,
+    },
+  );
+}
 
 console.log('\n[AB] Flagship Dominance/Trust programme -- internal-links audit correctly parses hrefs with a query string');
 const queryLinkFixtureFile = 'dist/resources/a-level-edexcel-law-the-law-in-action/index.html';

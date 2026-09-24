@@ -13,9 +13,11 @@
  *   mb-diagnostic-{code} -- per-topic marks for the revision planner's
  *                           "Use my diagnostic results".
  *
- * Analytics: one `diagnostic_complete` event per completed run, with the
- * course code, set, question count and a duration bucket. No marks, no
- * answers, no topics.
+ * Analytics: one `diagnostic_start` event when a run begins (the Start
+ * button; D-329 -- without it a page view could not be told apart from a
+ * genuine attempt) and one `diagnostic_complete` event per completed run,
+ * with the course code, set, question count and, on completion, a duration
+ * bucket. No marks, no answers, no topics.
  */
 import { track } from './catalogue-client';
 
@@ -53,6 +55,7 @@ function init(d: Data): void {
   let startedAt = 0;
   let tick: number | undefined;
   let completedOnce = false;
+  let startedOnce = false;
 
   const show = (which: HTMLElement) => {
     for (const p of [intro, attempt, mark, results]) p.hidden = p !== which;
@@ -76,6 +79,10 @@ function init(d: Data): void {
   $('diag-start').addEventListener('click', () => {
     index = 0;
     startedAt = Date.now();
+    if (!startedOnce) {
+      track('diagnostic_start', { course_code: d.code, diagnostic_set: d.set, question_count: d.questions.length });
+      startedOnce = true;
+    }
     window.clearInterval(tick);
     tick = window.setInterval(() => { timer.textContent = fmtTime(Date.now() - startedAt); }, 1000);
     show(attempt);
@@ -245,6 +252,7 @@ function init(d: Data): void {
     answers.fill('');
     awarded.fill(null);
     completedOnce = false;
+    startedOnce = false;
     timer.textContent = '0:00';
     show(intro);
     intro.scrollIntoView({ behavior: 'smooth', block: 'start' });

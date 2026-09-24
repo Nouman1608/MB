@@ -32,7 +32,7 @@ Each question practises a skill tested in the June 2025 Paper 31. After each ans
 
 **1.** A city bike-hire scheme uses objects of the class Bicycle. The class already has the private attribute Colour : STRING and the method SetBikeID(IDNumber : INTEGER). Each bicycle is identified by a unique six-digit number, and the class must also record the name of the docking station where the bicycle is currently parked. Write the attributes and methods still needed for the class, with data types, to include: an attribute for the bicycle's identification number, an attribute for the station name, setters for the colour and the station, and getters for the identification number, the colour and the station. **[4]**
 
-**2.** In the Bicycle class from Question 1, all attributes are declared PRIVATE and can only be changed through the class's methods.
+**2.** A class, Bicycle, has the attributes BikeID, Colour and Station. All of these attributes are declared PRIVATE and can only be changed through the class's methods.
 
 **(a)** Identify the object-oriented programming (OOP) feature this describes.
 
