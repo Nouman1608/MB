@@ -57,7 +57,7 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **(b)** Explain why it is important that gametes are haploid. **[3]**
 
-**7.** *(Extended)* State two adaptive features of a sperm cell and explain how each helps the sperm to fertilise an egg. **[4]**
+**7.** State two adaptive features of a sperm cell and explain how each helps the sperm to fertilise an egg. **[4]**
 
 ---
 
@@ -109,7 +109,7 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 *Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 3.
 
-**7.** *(Extended)* Any two feature-and-explanation pairs: **flagellum** [1], which lets the sperm **swim** towards the egg [1]; many **mitochondria** [1], which **release energy by respiration** for swimming [1]; **enzymes in the acrosome** [1], which **digest the jelly coat** of the egg so the sperm nucleus can enter [1]. Max [4].
+**7.** Any two feature-and-explanation pairs: **flagellum** [1], which lets the sperm **swim** towards the egg [1]; many **mitochondria** [1], which **release energy by respiration** for swimming [1]; **enzymes in the acrosome** [1], which **digest the jelly coat** of the egg so the sperm nucleus can enter [1]. Max [4].
 
 *Tip:* A feature alone earns only half the credit. Link each feature to how it helps fertilisation.
 

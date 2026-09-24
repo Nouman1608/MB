@@ -55,7 +55,7 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **(c)** After 50 minutes the syringe reading stops increasing, even though the temperature has not changed. Suggest one reason why. **[4]**
 
-**5.** *(Extended)* The student in Question 4 sets up a second flask in exactly the same way, but keeps it at 90 °C. No gas is collected at all. Explain why. **[3]**
+**5.** The student in Question 4 sets up a second flask in exactly the same way, but keeps it at 90 °C. No gas is collected at all. Explain why. **[3]**
 
 **6.** Yeast is used in bread-making and in the production of fuel ethanol.
 
@@ -103,7 +103,7 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 *Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 1.
 
-**5.** *(Extended)* At 90 °C the **enzymes** in the yeast cells that control respiration are **denatured** [1]. The shape of the **active site changes**, so glucose (the substrate) **no longer fits / is no longer complementary** to it [1]. So the yeast cannot **respire** and no carbon dioxide is released [1].
+**5.** At 90 °C the **enzymes** in the yeast cells that control respiration are **denatured** [1]. The shape of the **active site changes**, so glucose (the substrate) **no longer fits / is no longer complementary** to it [1]. So the yeast cannot **respire** and no carbon dioxide is released [1].
 
 *Examiner insight (June 2024):* Some candidates wrote as if yeast itself were an enzyme that becomes denatured. Yeast is a living fungus; it is the enzymes inside its cells that denature.
 
