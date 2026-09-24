@@ -35,7 +35,7 @@ for (const set of DIAGNOSTIC_SETS) {
     const extendedSet = set.tier === 'extended';
     if (extendedSet && set.code !== '0620') problems.push(`${key}: only 0620 sets can be marked tier 'extended'`);
     if (/Background|beyond the .*syllabus|not examinable/i.test(text)) problems.push(`${key}: ${id} is marked Background/beyond the syllabus`);
-    if (!extendedSet && set.code === '0620' && /Extended/i.test(text)) problems.push(`${key}: ${id} is marked Extended, but the set is not an Extended set`);
+    if (!extendedSet && ['0620', '0610'].includes(set.code) && /Extended|Supplement/i.test(text)) problems.push(`${key}: ${id} is marked Extended, but the set is not an Extended set`);
     if (!extendedSet && set.code === '0620' && q.tier === 'supplement') problems.push(`${key}: ${id} is Supplement-only (Extended), but the set is for both tiers`);
     if (q.marks > 4) problems.push(`${key}: ${id} is worth ${q.marks} marks; diagnostic questions are 2-3 marks`);
     const topic = q.topics[0]?.key.split('/')[0];
