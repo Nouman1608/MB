@@ -13805,3 +13805,21 @@ This saves about 102 KB on the first visit to any page. The two files downloaded
 **Tried and not kept:** inlining the stylesheet into every page removes one blocking request, but grows each HTML page by about 50 KB (the CSS uncompressed), which every page view would pay because it can't be cached. Not worth it.
 
 **Still to watch:** Google's real-user data (Chrome UX Report, which is what search rankings use) is the measure that matters. Check it in Search Console → Core Web Vitals once Google has enough visits; the report said "no data" on 24 Sep. The day-30 scheduled check should look at it too.
+
+## D-319 - Wave-3 diagnostics (9708, 9609, 9618, 5070) and a diagnostic link on every syllabus page (2026-09-24)
+
+**Why:** the owner asked for diagnostics for the remaining subjects in the June 2025 papers folder, and for every syllabus page to link its diagnostic.
+
+**Past-paper policy (unchanged since D-109):** the June 2025 papers, mark schemes and examiner reports were used for analysis only. Every question is original. No board text is reproduced. "Confidential Instructions" files were not opened.
+
+| Change | Files |
+|---|---|
+| 9708 Economics, 9609 Business, 9618 Computer Science and 5070 O Level Chemistry join `FLAGSHIP_DEFINITIONS`, so each gets a practice bank, `/practice/<code>/` and diagnostics. | `src/utils/academic/index.ts` |
+| Four new sets: `9708/as` (5 questions, 12 marks), `9609/as` (5, 11), `9618/as` (5, 10), `5070/all-topics` (6, 14). Each has a `modelledOn` line naming the June 2025 series. | `src/data/diagnostics.ts` |
+| 17 original questions appended to existing practice files, and 3 new practice files: A Level Economics macroeconomy, A Level Business operations, A Level Computer Science databases. 5070 questions sit in the files shared with 0620. The 5070 set has no examiner report, so its questions use "Tip" lines, not examiner insights. | `src/content/resources/*` |
+| The validator's "Extended" wording check now applies only to 0620 sets. The one shared question tagged "(0620 Extended, 5070 required)" is valid in the 5070 set. | `scripts/validate-diagnostics.mjs` |
+| Syllabus hub pages show "Free 10-minute diagnostic? Yes — <set>" whenever the syllabus has a set, next to "Free practice questions?". | `src/pages/boards/[board]/[qualification]/[subject].astro` |
+
+**Not covered, and why:** 5054 and 4024 (practice files cover one topic each); 9709 and 2210 (too few practice files, no examiner report); 1123 English (essay-based); Biology (no June 2025 papers in the folder).
+
+**Status:** all 14 sets are awaiting teacher review.

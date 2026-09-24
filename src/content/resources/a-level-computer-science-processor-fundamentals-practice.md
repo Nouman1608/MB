@@ -71,6 +71,8 @@ byte is set to 1, without changing the byte itself.
 **(a)** Name the logical operation and mask that could be used for this test. **[2]**
 **(b)** Explain how the result of this operation indicates whether the bit was set. **[3]**
 
+**10.** Describe what the processor does when it detects an interrupt. **[3]**
+
 ---
 
 ## Answers
@@ -115,6 +117,10 @@ result of the addition is written back into the accumulator once the operation c
 third bit was 0, the AND operation produces a result of all zeros, since ANDing 0 with 1 in that
 position still gives 0 [1]. The presence or absence of a non-zero result therefore indicates whether
 the tested bit was originally set.
+
+**10.** At the end of the fetch-execute cycle the processor **checks for interrupts**; if the interrupt has a **higher priority** than the current task, it **saves the contents of the registers** (for example, on the stack) [1]. It then loads and runs the appropriate **interrupt service routine (ISR)** [1]. When the ISR has finished, it **restores the saved register contents** and continues the original task [1].
+
+*Examiner insight (June 2025):* statements about priority were often included but misunderstood: the priority of the interrupt is compared with that of the **current task**, not only with other interrupts. *Try the real question next:* Cambridge International AS & A Level Computer Science 9618, June 2025, Paper 12, Question 1.
 
 ## A note on exam technique for this topic
 

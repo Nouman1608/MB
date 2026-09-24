@@ -43,6 +43,7 @@ import { routes } from '../../../../utils/urls/routes';
 import { FALLBACK_EMAIL } from '../../../../utils/forms/submit';
 import { site } from '../../../../data/site';
 import TuitionPanel from '../../../../components/sections/TuitionPanel.astro';
+import { diagnosticsForCode, diagnosticPath } from '../../../../data/diagnostics';
 import VideoSection from '../../../../components/media/VideoSection.astro';
 import { tuitionPageFor } from '../../../../data/tuition-pages';
 import { tuitionFaqs } from '../../../../utils/content/tuition';
@@ -82,6 +83,8 @@ const checklistHref = checklistVersion && checklistVersion.status === 'current'
 // otherwise produce a real count here with no page to link to, a
 // broken link caught by audit-internal-links.mjs during verification.
 const practiceCount = syllabus && isFlagshipCode(syllabus.code) ? practiceQuestionsForCode(syllabus.code).length : 0;
+// D-319: link the free 10-minute diagnostic(s) for this syllabus, when any exist.
+const hubDiagnostics = syllabus && practiceCount > 0 ? diagnosticsForCode(syllabus.code) : [];
 
 /**
  * v2.0 AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS2 -- every academic
@@ -600,6 +603,9 @@ const jsonLd = [
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Where was this verified?</dt><dd class="m-0 mt-1 text-ink">{syllabus ? <>{syllabus.verifiedOn}, official {c.board} specification</> : 'Not yet verified against an official source'}</dd></div>
         {practiceCount > 0 && (
           <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Free practice questions?</dt><dd class="m-0 mt-1 text-ink">Yes — <a href={`/practice/${syllabus!.code}/`} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{practiceCount} self-check questions</a></dd></div>
+        )}
+        {hubDiagnostics.length > 0 && (
+          <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Free 10-minute diagnostic?</dt><dd class="m-0 mt-1 text-ink">Yes — {hubDiagnostics.map((d, i) => <>{i > 0 && ' · '}<a href={diagnosticPath(d)} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{d.scopeLabel}</a></>)}</dd></div>
         )}
       </dl>
       <p class="m-0 mt-6 text-[13.5px] text-ink-mute">

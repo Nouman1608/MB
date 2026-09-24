@@ -68,6 +68,8 @@ over file access permissions. **[3]**
 device inside the home network is assigned a private IP address. Explain one security implication of
 this arrangement. **[3]**
 
+**9.** Explain how a mobile phone connects to a cellular network. **[2]**
+
 ---
 
 ## Answers
@@ -116,6 +118,10 @@ IP address would be [1–2]. Only the router's single public IP address is expos
 meaning the router can act as a barrier between external traffic and the individual devices inside
 the network, providing an additional layer of protection compared with every device having its own
 directly reachable public IP address [1].
+
+**9.** The area is divided into **cells**, each with a **base station (mast/tower)** that sends and receives radio signals [1]. The phone communicates by **radio waves with the nearest tower**, which connects the call or data to the wider network; the connection is **handed over** to the next cell as the phone moves [1].
+
+*Examiner insight (June 2025):* few candidates mentioned cells, towers or line of sight, and many did not identify the device that provides the internet access. *Try the real question next:* Cambridge International AS & A Level Computer Science 9618, June 2025, Paper 12, Question 6.
 
 ## A note on exam technique for this topic
 

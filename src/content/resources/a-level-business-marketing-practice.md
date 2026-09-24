@@ -65,6 +65,8 @@ market. **[2]**
 that product rather than the wider general public. Explain one advantage and one disadvantage of
 this niche marketing approach compared with mass marketing. **[4]**
 
+**8.** Explain **one** reason why a business might use cost-based (cost-plus) pricing, and **one** limitation of this method. **[3]**
+
 ---
 
 ## Answers
@@ -115,6 +117,10 @@ strong customer loyalty and allowing for premium pricing since enthusiasts are l
 specialism highly [2]. Disadvantage: the potential customer base is much smaller than a mass market,
 which limits the maximum scale of sales and revenue the business can achieve compared with targeting
 the whole market [2].
+
+**8.** Reason: every unit sold covers its **unit cost** and earns a set **profit margin** [1], and the price is **simple to calculate** [1]. Limitation: it **ignores demand and competitors' prices**, so the price may be higher than customers will pay, or lower than they would pay [1].
+
+*Examiner insight (June 2025):* some weak answers claimed this pricing method affects cash flow, showing confusion between profit and cash. A profit margin is about profit per unit, not when cash comes in. *Try the real question next:* Cambridge International AS & A Level Business 9609, June 2025, Paper 12, Question 4.
 
 ## A note on exam technique for this topic
 

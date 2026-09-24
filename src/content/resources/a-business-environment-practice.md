@@ -48,6 +48,8 @@ This paper covers AS Topic 1 (1.1–1.5) only. The external environment (for exa
 
 **7.** Explain how a business's objectives typically change as it develops from a start-up to an established firm. **[6]**
 
+**8.** Define the term *mission statement*. **[2]**
+
 ---
 
 ## Answers
@@ -70,6 +72,10 @@ This paper covers AS Topic 1 (1.1–1.5) only. The external environment (for exa
 **6.** Any three, 2 marks each: **opportunity recognition** — spotting a gap in the market or an unmet need before others do is the starting point for any viable business idea [1] [1]; **the ability to secure and manage finance** — without adequate funding and disciplined cash-flow control, a business cannot survive its early, most vulnerable period [1] [1]; **resilience in the face of setbacks** — early rejection and failure are common, and the entrepreneur must adapt and continue rather than give up at the first difficulty [1] [1]; **the capacity to plan and adapt the business idea as circumstances change** — markets shift, and an idea that cannot evolve with them is unlikely to survive [1] [1].
 
 **7.** A **new business** typically prioritises **survival**, since cash flow and building an initial customer base are the most immediate threats to its continuation [1] [1]. An **established, profitable business** can instead prioritise **growth, profit maximisation, or increasing market share**, since survival is no longer the immediate concern [1] [1]. Some businesses, particularly those under strong stakeholder pressure or led by founders with strong values, adopt objectives centred on **social or environmental responsibility**, even at some cost to short-term profit [1] [1].
+
+**8.** A **formal statement** of a business's **purpose, values and aims** [1], communicated to give direction to internal and external **stakeholders** (it is usually qualitative, not a numerical target) [1].
+
+*Examiner insight (June 2025):* a few weak answers described a marketing slogan instead of a formal statement of the business's values, purpose and goals. *Try the real question next:* Cambridge International AS & A Level Business 9609, June 2025, Paper 12, Question 1.
 
 ---
 

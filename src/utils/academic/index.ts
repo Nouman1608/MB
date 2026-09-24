@@ -140,6 +140,12 @@ const FLAGSHIP_DEFINITIONS: FlagshipSpec[] = [
   // Physics join the practice bank so they can have diagnostics.
   { code: '4CH1', boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'chemistry' },
   { code: '4PH1', boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'physics' },
+  // D-319 (2026-09-24): wave 3 — Cambridge A Level Economics, Business and
+  // Computer Science, and O Level Chemistry, so they can have diagnostics.
+  { code: '9708', boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'economics' },
+  { code: '9609', boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'business' },
+  { code: '9618', boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'computer-science' },
+  { code: '5070', boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'chemistry' },
 ];
 
 let cachedFlagships: (FlagshipSpec & { combination: Combination })[] | null = null;

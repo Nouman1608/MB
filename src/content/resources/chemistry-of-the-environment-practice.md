@@ -84,6 +84,8 @@ Related: [Chemistry of the Environment revision notes](/resources/chemistry-of-t
 **(a)** climate change **[2]**
 **(b)** acid rain **[2]**
 
+**11.** Explain how burning coal can lead to acid rain, and give **one** way power stations reduce this. **[3]**
+
 ---
 
 ## Answers
@@ -116,6 +118,10 @@ Two gases with sources: **carbon dioxide** from burning fossil fuels [1]; **meth
 
 **10. (a)** e.g. **increasing use of renewable/hydrogen energy** [1], which reduces the amount of CO₂ released from burning fossil fuels, the main driver of the enhanced greenhouse effect [1]. (Also accept: planting trees, reducing livestock farming, reducing fossil fuel use.)
 **(b)** e.g. **fitting catalytic converters to vehicles** [1], which convert nitrogen oxides and carbon monoxide into less harmful gases before they reach the atmosphere [1]. (Also accept: using low-sulfur fuels; flue gas desulfurisation with calcium oxide.)
+
+**11.** Coal contains **sulfur**, which burns to form **sulfur dioxide** [1]; sulfur dioxide dissolves in rainwater to form **acid rain** [1]. Power stations remove sulfur dioxide from waste gases by reacting it with **calcium carbonate or calcium oxide** (flue-gas desulfurisation) [1].
+
+*Try the real question next:* Cambridge O Level Chemistry 5070, June 2025, Paper 22, Question 5.
 
 ---
 

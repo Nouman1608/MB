@@ -79,6 +79,8 @@ Related: [Petroleum, Alkanes and Alkenes study guide](/resources/petroleum-alkan
 
 **12.** Write a balanced symbol equation for the reaction between ethene and bromine, and state what would be observed. **[3]**
 
+**13.** Write a balanced equation for the complete combustion of octane, C₈H₁₈. **[2]**
+
 ---
 
 ## Answers
@@ -110,6 +112,10 @@ Related: [Petroleum, Alkanes and Alkenes study guide](/resources/petroleum-alkan
 **11.** Moving up the column, **chain length decreases** [1], **volatility increases and boiling point decreases** [1], and **viscosity decreases** — so bitumen at the bottom is a long-chain, high-boiling-point, highly viscous fraction, and refinery gas at the top is short-chain, low-boiling-point and freely flowing [1].
 
 **12.** C₂H₄ + Br₂ → C₂H₄Br₂ [2] *(1 mark for correct formulae, 1 mark for balancing).* The **orange bromine water decolourises**, confirming the addition reaction across the C=C double bond has taken place [1].
+
+**13.** 2C₈H₁₈ + 25O₂ → 16CO₂ + 18H₂O. Correct products [1]; balanced [1]. (C₈H₁₈ + 12½O₂ → 8CO₂ + 9H₂O is also correct.)
+
+*Tip:* the mark scheme accepts the equation with a fraction in front of O₂. Check that carbon, hydrogen and oxygen all balance. *Try the real question next:* Cambridge O Level Chemistry 5070, June 2025, Paper 22, Question 5.
 
 ---
 

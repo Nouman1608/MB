@@ -75,6 +75,8 @@ Related: [Organic Chemistry revision notes](/resources/organic-chemistry-revisio
 **(b)** Explain the difference between its molecular formula and its displayed formula. **[2]**
 **(c)** State one piece of information a displayed formula gives that a molecular formula does not. **[1]**
 
+**10.** Ethene is bubbled through bromine water. State the colour change and name the type of reaction. **[2]**
+
 ---
 
 ## Answers
@@ -104,6 +106,10 @@ Related: [Organic Chemistry revision notes](/resources/organic-chemistry-revisio
 **9. (a)** **C₂H₅** [1] (the simplest whole-number ratio of C to H, 4:10 simplified to 2:5).
 **(b)** The **molecular formula** (C₄H₁₀) gives only the total number of each type of atom [1]; the **displayed formula** shows every individual atom and every bond drawn out, including all C–H bonds [1].
 **(c)** It shows **which isomer** is being described — for example, whether the chain is straight (butane) or branched (methylpropane), which the molecular formula alone cannot distinguish [1].
+
+**10.** **Orange to colourless** [1]; **addition** reaction (bromine adds across the C=C double bond) [1].
+
+*Tip:* the mark scheme gives the change as "orange to colourless"; "clear" is not the same as colourless. *Try the real question next:* Cambridge O Level Chemistry 5070, June 2025, Paper 22, Question 3.
 
 ---
 

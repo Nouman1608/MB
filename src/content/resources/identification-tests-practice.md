@@ -69,6 +69,8 @@ Related: [Identification of Ions and Gases revision notes](/resources/identifica
 
 **10.** Describe how a flame test is used to show that a solid contains potassium ions, and give the result of the test. **[2]**
 
+**11.** Describe the test for chloride ions in a solution and give the positive result. **[2]**
+
 ## Answers
 
 **1.** Lithium **red** [1]; sodium **yellow** [1]; potassium **lilac** [1]; calcium **orange-red** [1]; copper(II) **blue-green** [1].
@@ -100,6 +102,10 @@ Related: [Identification of Ions and Gases revision notes](/resources/identifica
 **10.** Dip a clean wire (nichrome or platinum), moistened with dilute hydrochloric acid, into the solid and hold it in a **hot (blue) Bunsen flame** [1]. Potassium ions give a **lilac** flame [1].
 
 *Examiner insight (June 2025):* many candidates did not know the flame colour for potassium. Learn all six: lithium red, sodium yellow, potassium lilac, calcium orange-red, barium light green, copper(II) blue-green. *Try the real question next:* Cambridge IGCSE Chemistry 0620, June 2025, Paper 32, Question 6.
+
+**11.** Acidify with dilute **nitric acid**, then add aqueous **silver nitrate** [1]; a **white precipitate** (of silver chloride) forms [1].
+
+*Try the real question next:* Cambridge O Level Chemistry 5070, June 2025, Paper 22, Question 1.
 
 ---
 
