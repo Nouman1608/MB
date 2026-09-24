@@ -66,6 +66,8 @@ Related: [Work, Energy and Power revision notes](/resources/as-physics-work-ener
 
 ---
 
+**10.** A car of mass 1200 kg accelerates from rest to 15 m s⁻¹ in 10 s along a level road. The resistive forces do 30 kJ of work on the car in this time. Calculate the average output power of the engine. **[3]**
+
 ## Answers
 
 **1.** Work done = **force × displacement in the direction of the force** [1], W = Fs cos θ [1]. The cos θ resolves the force so that only the **component along the displacement** is counted — a force at 90° to the motion does zero work, however large it is [1].
@@ -93,6 +95,10 @@ P = E ÷ t = 34 335 ÷ 60 [1] = **572 W** [1].
 **8.** At maximum height all kinetic energy has converted to gravitational potential energy: ½mv² = mg∆h [1]. ∆h = v² ÷ 2g = 8.0² ÷ (2 × 9.81) [1] = **3.3 m** [1].
 
 **9.** It applies only in a **uniform gravitational field**; over large height changes, where g varies appreciably, the general (non-uniform-field) treatment covered in Gravitational Fields must be used instead [1].
+
+**10.** Gain in kinetic energy = ½ × 1200 × 15² = 135 000 J [1]. Total work done by the engine = 135 000 + 30 000 = 165 000 J [1]. Average power = 165 000 ÷ 10 = **1.65 × 10⁴ W (16.5 kW)** [1].
+
+*Examiner insight (June 2025):* the most common error was to use only the work done against the resistive forces; another was not squaring the speed. The engine supplies both the kinetic energy and the work against resistance. *Try the real question next:* Cambridge International AS & A Level Physics 9702, June 2025, Paper 22, Question 1.
 
 ---
 

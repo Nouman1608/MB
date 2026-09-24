@@ -97,6 +97,12 @@ I2 + 2e-    <=>  2I-      E = +0.54 V
 
 ---
 
+**10.** 25.0 cm³ of an acidified solution of Fe²⁺ ions reacts exactly with 20.0 cm³ of 0.0200 mol dm⁻³ potassium manganate(VII).
+
+MnO₄⁻ + 8H⁺ + 5Fe²⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O
+
+Calculate the concentration of Fe²⁺ ions in mol dm⁻³. **[3]**
+
 ## Answers
 
 **1.** 298 K [1]; solution concentrations of 1 mol dm⁻³ [1]; pressure of 101 kPa for any gases [1] (the value the 9701 syllabus assumes for standard conditions).
@@ -143,6 +149,10 @@ m = 0.01243 × 27.0 = **0.336 g** [1].
 **(b)** In dilute sulfuric acid, the **only cation present is H⁺**, so **hydrogen** is discharged at the cathode [1]. In concentrated copper(II) sulfate, **Cu²⁺ has a more positive E⦵ than H⁺**, so **copper** is discharged instead of hydrogen [2].
 
 **(c)** At an inert anode, the most easily oxidised species is discharged: **iodide and bromide (E⦵ +0.54 V and +1.07 V) are oxidised in preference to water (+1.23 V); chloride (+1.36 V) is discharged only at high concentration, otherwise oxygen is released from water/hydroxide ions** [1]. As in question 6(c), concentrated chloride gives chlorine but a very dilute chloride solution gives oxygen. Fluoride is never discharged from aqueous solution at any concentration (E⦵(F₂/F⁻) = +2.87 V is far too positive), so fluoride solutions also give oxygen. In both solutions in this question the anion present is **sulfate**, which is never discharged in preference to hydroxide, so **oxygen** is produced at the anode in both cases [2].
+
+**10.** Moles of MnO₄⁻ = 0.0200 × 20.0 ÷ 1000 = 4.00 × 10⁻⁴ mol [1]. Moles of Fe²⁺ = 5 × 4.00 × 10⁻⁴ = 2.00 × 10⁻³ mol [1]. [Fe²⁺] = 2.00 × 10⁻³ ÷ (25.0 ÷ 1000) = **0.0800 mol dm⁻³** [1].
+
+*Examiner insight (June 2025):* common errors in a manganate(VII) titration were not multiplying the moles of MnO₄⁻ by five, and not converting units. Many also thought the colour at the end point changed from purple to colourless: the solution becomes permanently pale pink when MnO₄⁻ is in excess. *Try the real question next:* Cambridge International AS & A Level Chemistry 9701, June 2025, Paper 42, Question 2.
 
 ---
 

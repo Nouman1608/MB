@@ -63,6 +63,8 @@ Related: [Kinematics revision notes](/resources/as-physics-kinematics-revision-n
 
 ---
 
+**10.** A car accelerates uniformly from rest to a speed of 18 m s⁻¹ in 12 s. Calculate the distance travelled in this time. **[2]**
+
 ## Answers
 
 **1.** **Distance** is a scalar — the total path length; **displacement** is a vector — the straight-line distance in a stated direction [1]. **Speed** is a scalar; **velocity** is speed in a stated direction [1].
@@ -98,6 +100,10 @@ Resultant = √(12² + 29.7²) [1] = √(144 + 882) = **32.0 m s⁻¹** [1].
 **8.** s = ut + ½at², with u = 0: s = ½ × 9.81 × 1.5² [1] = **11.0 m** [1]. v = u + at = 0 + 9.81 × 1.5 = **14.7 m s⁻¹** [1]. Air resistance is assumed negligible throughout this calculation.
 
 **9.** Drop an object through a known, measured height and time the fall electronically, using a **light gate or a timer released by an electromagnet** [1]. Using s = ½gt² (since u = 0), rearranged to **g = 2s/t²** [1]. Repeating the drop and **averaging t** reduces the effect of random timing error [1]. Electronic timing is preferred over a hand-operated stopwatch: a person's reaction time is a much larger source of timing uncertainty over such a short fall, and it has both a consistent (roughly systematic) average delay and trial-to-trial (random) variation, whereas electronic timing removes both.
+
+**10.** *s* = ½(*u* + *v*)*t* [1] = ½ × (0 + 18) × 12 = **108 m** [1].
+
+*Examiner insight (June 2025):* weaker answers used *s* = *vt*, which only applies at constant speed, instead of *s* = ½*vt* for uniform acceleration from rest. *Try the real question next:* Cambridge International AS & A Level Physics 9702, June 2025, Paper 22, Question 1.
 
 ---
 

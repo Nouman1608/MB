@@ -86,6 +86,10 @@ Related: [Superposition revision notes](/resources/as-physics-superposition-revi
 
 ---
 
+**12.** **(a)** State what is meant by two waves being *coherent*. **[1]**
+
+**(b)** Two waves have amplitudes in the ratio 2 : 1. Calculate the ratio of their intensities. **[1]**
+
 ## Answers
 
 **1.** When two or more waves meet at a point, the **resultant displacement** [1] is the **vector sum of the individual displacements** [1].
@@ -128,6 +132,11 @@ v = fλ = 85 × 2.4 [1] = **204 m s⁻¹** [1].
 **11.** With D = 4.0 m and a = 1.5 m of comparable size, λD/a is not valid here -- it assumes D >> a, which doesn't hold [1]. Instead, place the sources at (±0.75, 0) and the point of the first maximum at (x, 4.0), a perpendicular distance x from the centre line. The two source-to-point distances are r₁ = √[(x + 0.75)² + 4.0²] and r₂ = √[(x − 0.75)² + 4.0²], and the first maximum occurs where the path difference r₁ − r₂ = λ = 0.68 m [1].
 
 Using r₁² − r₂² = (r₁ − r₂)(r₁ + r₂) = 2 × 0.75 × x = 1.5x, and r₁ − r₂ = 0.68, gives r₁ + r₂ = 1.5x ÷ 0.68. Substituting r₁ = ½(0.68 + 1.5x ÷ 0.68) into r₁² = (x + 0.75)² + 16 and solving the resulting equation for x [1] gives **x ≈ 2.06 m** [1] from the centre line -- notably different from the (invalid) small-angle estimate of 1.81 m. This also shows the fringes are not evenly spaced this close to the sources, so "the distance between adjacent maxima" isn't a single well-defined number here; only the position of a specific named maximum is.
+
+**12.** **(a)** The waves have a **constant phase difference** [1] (they do not need to be in phase).
+**(b)** Intensity ∝ amplitude², so the ratio is 2² : 1² = **4 : 1** [1].
+
+*Examiner insight (June 2025):* a common misconception was that waves must be in phase to be coherent. Weaker answers also inverted the intensity ratio or assumed intensity is proportional to amplitude. *Try the real question next:* Cambridge International AS & A Level Physics 9702, June 2025, Paper 22, Question 3.
 
 ---
 

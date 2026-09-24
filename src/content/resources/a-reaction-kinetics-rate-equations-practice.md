@@ -92,6 +92,12 @@ Step 2 (fast): XY + X → Z
 
 ---
 
+**11.** The rate equation for a reaction is rate = *k*[A]²[B].
+
+**(a)** State the factor by which the rate changes when [A] is doubled and [B] is halved at the same time. **[1]**
+
+**(b)** Give the units of *k*, with concentrations in mol dm⁻³ and time in s. **[1]**
+
 ## Answers
 
 **1.** The power to which that reactant's concentration is raised [1] in the experimentally determined rate equation [1].
@@ -125,6 +131,11 @@ Step 2 (fast): XY + X → Z
 **10. (a)** Both I⁻ and S₂O₈²⁻ are **negatively charged**, so they **repel each other**, making a direct collision between them slow and unlikely [1].
 
 **(b)** 2Fe²⁺ + S₂O₈²⁻ → 2Fe³⁺ + 2SO₄²⁻, then 2Fe³⁺ + 2I⁻ → 2Fe²⁺ + I₂ [2]. Because Fe³⁺ is a **cation**, its reaction with I⁻ does not face the anion–anion repulsion that makes the direct route slow, and Fe²⁺ is regenerated at the end so it can catalyse further reaction [1].
+
+**11.** **(a)** 2² × ½ = 2, so the rate **doubles** [1].
+**(b)** *k* = rate ÷ ([A]²[B]) so the units are **mol⁻² dm⁶ s⁻¹** [1].
+
+*Examiner insight (June 2025):* common errors were multiplying by the wrong factor and writing overall equations that were not consistent with the orders in the rate equation. Apply each order to its own reactant. *Try the real question next:* Cambridge International AS & A Level Chemistry 9701, June 2025, Paper 42, Question 4.
 
 ---
 

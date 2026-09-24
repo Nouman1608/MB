@@ -79,6 +79,8 @@ Related: [Dynamics revision notes](/resources/as-physics-dynamics-revision-notes
 
 ---
 
+**9.** A ball of mass 0.050 kg hits the ground vertically at 6.0 m s⁻¹ and rebounds vertically at 4.0 m s⁻¹. Calculate the magnitude of the change in momentum of the ball. **[2]**
+
 ## Answers
 
 **1.** The **rate of change of momentum** is proportional to the **resultant force** and occurs in the direction of that force [1] [1]. `F = ma` is valid only when the **mass is constant** [1].
@@ -119,6 +121,10 @@ Final momentum = 0.058 × (−30) = −1.74 kg m s⁻¹ [1 for using a negative]
 **(a)** m₁u₁ + m₂u₂ = (m₁ + m₂)v: (2.0 × 3.0) + (1.0 × 0) = (2.0 + 1.0)v [1]; 6.0 = 3.0v [1]; v = **2.0 m s⁻¹** [1].
 
 **(b)** KE before = ½ × 2.0 × 3.0² = **9.0 J** [1]. KE after = ½ × 3.0 × 2.0² = **6.0 J** [1]. Kinetic energy is not conserved (9.0 J → 6.0 J), so the collision is **inelastic** [1].
+
+**9.** Taking upwards as positive, the velocity changes from −6.0 m s⁻¹ to +4.0 m s⁻¹, a change of 10.0 m s⁻¹ [1]. Change in momentum = 0.050 × 10.0 = **0.50 kg m s⁻¹** (N s) [1].
+
+*Examiner insight (June 2025):* many candidates ignored the change in direction and subtracted the speeds (giving 0.10 kg m s⁻¹) instead of adding them. *Try the real question next:* Cambridge International AS & A Level Physics 9702, June 2025, Paper 22, Question 4.
 
 ---
 

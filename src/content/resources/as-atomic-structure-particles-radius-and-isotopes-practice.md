@@ -81,6 +81,10 @@ Related: [Atomic Structure: Particles, Radius and Isotopes revision notes](/reso
 
 ---
 
+**12.** **(a)** Define the term *relative atomic mass*. **[1]**
+
+**(b)** A sample of boron contains only boron-10 and boron-11. Its relative atomic mass is 10.8. Calculate the percentage abundance of boron-10. **[2]**
+
 ## Answers
 
 **1.** Relative charge **0** [1]; relative mass **1** [1].
@@ -114,6 +118,11 @@ Related: [Atomic Structure: Particles, Radius and Isotopes revision notes](/reso
 **10.** Sodium (2,8,1) **loses its single outer-shell electron** to form Na⁺ (2,8) [1] — this **removes the entire outer shell**, so the remaining electrons are held by the same nuclear charge with **no extra shielding to oppose it**, and the ion is markedly smaller [1]. Chlorine (2,8,7) **gains one electron** to form Cl⁻ (2,8,8) [1] — no new shell is added, but the extra electron **increases electron–electron repulsion** within the same outer shell, pushing the existing electrons slightly further apart, so the ion is larger, but only modestly [1].
 
 **11.** Physical property, any one: **mass** or **density** [1] — the extra neutrons add mass without changing the electron arrangement, so isotopes with different mass numbers have different masses (and, correspondingly, different densities) [1]. Chemical property: **identical reactivity** [1] — chemical behaviour is determined by electron arrangement, and isotopes of the same element share the same proton number and therefore an **identical electron arrangement**, so they react identically [1].
+
+**12.** **(a)** The weighted mean mass of an atom of the element compared with one twelfth of the mass of an atom of carbon-12 [1].
+**(b)** Let the percentage of boron-10 be *x*: 10*x* + 11(100 − *x*) = 10.8 × 100 [1], so 1100 − *x* = 1080 and *x* = **20%** [1].
+
+*Examiner insight (June 2025):* weaker answers defined relative *isotopic* mass instead of relative atomic mass, left out "one twelfth of the mass of a carbon-12 atom", or did not attempt to find the abundance of the unknown isotope. Set up one equation with *x* and (100 − *x*). *Try the real question next:* Cambridge International AS & A Level Chemistry 9701, June 2025, Paper 22, Question 2.
 
 ---
 

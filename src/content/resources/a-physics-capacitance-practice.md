@@ -71,6 +71,12 @@ Related: [Capacitance revision notes](/resources/a-physics-capacitance-revision-
 
 ---
 
+**9.** A 470 μF capacitor discharges through a 2.2 kΩ resistor.
+
+**(a)** Calculate the time constant of the circuit. **[1]**
+
+**(b)** State the fraction of the initial charge left on the capacitor after one time constant. **[1]**
+
 ## Answers
 
 **1.** The **charge stored per unit potential difference** [1], C = Q ÷ V; the unit is the **farad (F)** [1].
@@ -101,6 +107,11 @@ C = **1.0 μF** [1].
 
 **8. (a)** Since Q = Q₀e^(−t/RC), taking logs gives ln Q = ln Q₀ − t/RC [1], a straight-line equation, so a graph of ln Q against t is linear with gradient −1/RC, making RC easy to find from experimental data without needing to identify a point at exactly 37% [1].
 **(b)** gradient = −1/RC, so RC = 1/0.25 = **4.0 s** [1] [1].
+
+**9.** **(a)** τ = *RC* = 2200 × 470 × 10⁻⁶ = **1.0 s** (1.03 s) [1].
+**(b)** e⁻¹ = **0.37** (37%) [1].
+
+*Examiner insight (June 2025):* most candidates knew that the time constant is *RC*, but many could not explain that, during discharge, the p.d. across the capacitor and across the resistor are equal. Remember the prefixes: μ = 10⁻⁶ and k = 10³. *Try the real question next:* Cambridge International AS & A Level Physics 9702, June 2025, Paper 42, Question 7.
 
 ---
 

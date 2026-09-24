@@ -78,6 +78,8 @@ Related: [Circular Motion revision notes](/resources/a-physics-circular-motion-r
 
 ---
 
+**9.** A bicycle wheel of radius 0.35 m rolls along the ground without slipping at a speed of 7.0 m s⁻¹. Calculate the angular velocity of the wheel and its period of rotation. **[2]**
+
 ## Answers
 
 **1.** Velocity is a **vector**, and its **direction changes continuously** [1]. A change in velocity is an acceleration, even though the magnitude (speed) is constant [1].
@@ -116,6 +118,10 @@ mg = mv²/r, so v = √(gr) [1] = √(9.81 × 0.80) = 2.801 ≈ **2.8 m s⁻¹**
 **7.** One radian is the angle subtended at the centre of a circle by an arc equal in length to the radius [1]. Starting from a = ω²r = ω(ωr) = ωv (since v = ωr) [1], substituting ω = v/r gives a = (v/r)v = v²/r, confirming the two forms are equivalent [1].
 
 **8.** **v = ωr** [1]. All points on a rigid rotating disc share the **same angular speed ω**, but since v = ωr, a point **further from the centre has a greater linear speed**, even though both points complete a revolution in the same time [1].
+
+**9.** ω = *v* ÷ *r* = 7.0 ÷ 0.35 = **20 rad s⁻¹** [1]. *T* = 2π ÷ ω = 2π ÷ 20 = **0.31 s** [1].
+
+*Examiner insight (June 2025):* a common mistake was to combine the speed of the wheel with the radius of a different part (a small cog) instead of the radius of the wheel itself. Use the speed and radius of the same rotating object. *Try the real question next:* Cambridge International AS & A Level Physics 9702, June 2025, Paper 42, Question 1.
 
 ---
 

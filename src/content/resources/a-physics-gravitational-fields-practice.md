@@ -73,6 +73,8 @@ Related: [Gravitational Fields revision notes](/resources/a-physics-gravitationa
 
 ---
 
+**12.** State what is shown by **(a)** the direction of a gravitational field line and **(b)** the spacing of neighbouring field lines. **[2]**
+
 ## Answers
 
 **1.** The gravitational force between two point masses is **proportional to the product of their masses** [1] and **inversely proportional to the square of their separation** [1], acting along the line joining them [1].
@@ -103,6 +105,11 @@ Related: [Gravitational Fields revision notes](/resources/a-physics-gravitationa
 **10.** The formula g = GM/r² applies only **outside a spherical mass, or for a genuine point mass** [1]; inside a uniform solid sphere, only the mass enclosed within radius r contributes to the field at that point, so the simple point-mass formula does not apply [1].
 
 **11.** g = GM/r² = (6.67 × 10⁻¹¹ × 5.97 × 10²⁴) ÷ (6.37 × 10⁶)² [1] ≈ **9.8 m s⁻²** [1] — showing that g = 9.81 m s⁻² used throughout AS mechanics is not an arbitrary constant, but a direct consequence of Newton's law of gravitation applied at the Earth's surface.
+
+**12.** **(a)** The **direction of the force on a small mass** placed at that point [1].
+**(b)** The **strength of the field**: the closer the lines, the stronger the field [1]. A single field line on its own does not show the magnitude.
+
+*Examiner insight (June 2025):* some candidates thought a single field line represents the magnitude of the field. Strength is shown by how close the lines are to each other. *Try the real question next:* Cambridge International AS & A Level Physics 9702, June 2025, Paper 42, Question 2.
 
 ---
 

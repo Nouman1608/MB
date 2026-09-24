@@ -83,6 +83,10 @@ delta-Hc: C(graphite) = -394 kJ mol-1, H2(g) = -286 kJ mol-1, CH3OH(l) = -726 kJ
 
 ---
 
+**8.** Use the bond energies below to calculate the enthalpy change for the reaction C₂H₄ + H₂ → C₂H₆.
+
+Bond energies in kJ mol⁻¹: C=C 610, C–C 350, C–H 410, H–H 436 **[3]**
+
 ## Answers
 
 **1.** The enthalpy change when **one mole** of a substance [1] is **completely burned in oxygen** under standard conditions [1], namely 298 K and 101 kPa (the values the 9701 syllabus assumes), with all substances in their standard states.
@@ -113,6 +117,10 @@ Any three: **heat lost to the surroundings** [1]; **incomplete combustion** prod
 
 **7. (a)** Combustion data: **ΔH_r = ΣΔH_c(reactants) − ΣΔH_c(products)** [1], because combustion enthalpies are given for the elements/starting materials rather than formation enthalpies for a product, so the cycle's arrows point downward from reactants and products alike to the same combustion products [1].
 **(b)** ΔH_f = [(−394) + 2(−286)] − (−726) [1] = (−966) − (−726) [1] = **−240 kJ mol⁻¹** [1].
+
+**8.** Bonds broken: C=C + H–H = 610 + 436 = 1046 kJ mol⁻¹ [1]. Bonds formed: C–C + 2 C–H = 350 + (2 × 410) = 1170 kJ mol⁻¹ [1]. ΔH = 1046 − 1170 = **−124 kJ mol⁻¹** [1]. (Counting all bonds on both sides gives the same answer: 2686 − 2810.)
+
+*Examiner insight (June 2025):* a common mistake was to forget the energy needed to break the H–H bond, or to break the wrong number of H–H bonds. List every bond broken and formed before calculating. *Try the real question next:* Cambridge International AS & A Level Chemistry 9701, June 2025, Paper 22, Question 3.
 
 ---
 
