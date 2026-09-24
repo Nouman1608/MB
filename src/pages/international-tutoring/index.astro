@@ -23,7 +23,7 @@ import { taughtOnly, boardPath } from '../../utils/academic';
 import { BOARDS } from '../../data/academic/boards';
 import { faqNode } from '../../utils/schema/faq';
 import { TRIAL_STEPS } from '../../data/tuition';
-import { REGION_PRICING, ONE_TO_ONE_PRICING, PRICING_TERMS, IB_PRICING, isIndicative, formatFee, ibConversionFor } from '../../data/pricing';
+import { REGION_PRICING, ONE_TO_ONE_PRICING, PRICING_TERMS, IB_PRICING, IB_USD_PRICING, isIndicative, formatFee } from '../../data/pricing';
 import { site } from '../../data/site';
 import { clock } from '../../data/markets';
 
@@ -36,7 +36,7 @@ const subjectNames = [...new Set(taught.map((c) => c.subject))].sort((a, b) => a
 const confirmedRegions = REGION_PRICING.filter((r) => !isIndicative(r)).map((r) => r.region);
 const usdGroup = REGION_PRICING.find((r) => r.currency === 'USD')!;
 const usdOne = ONE_TO_ONE_PRICING.find((r) => r.currency === 'USD')!;
-const usdIb = ibConversionFor('Other countries')!;
+
 const indicativeRegions = [
   ...new Set([...REGION_PRICING, ...ONE_TO_ONE_PRICING].filter(isIndicative).map((r) => r.region)),
 ];
@@ -80,7 +80,7 @@ const faqs = [
   },
   {
     question: 'How much does it cost outside Pakistan?',
-    answer: `Group fees are set for ${confirmedRegions.filter((r) => r !== 'Pakistan').join(', ')}. One-to-one fees outside Pakistan${indicativeRegions.includes('Malaysia') ? ', and all Malaysia fees,' : ''} are shown as indicative currency conversions of the Pakistan fee. For any other country, the US dollar figures apply (indicative): ${formatFee(usdGroup.igcse, 'USD')}–${formatFee(usdGroup.aLevel, 'USD')} USD per subject per month for group classes and ${formatFee(usdOne.igcse, 'USD')}–${formatFee(usdOne.aLevel, 'USD')} USD per one-to-one class. IB is one-to-one at ${IB_PRICING.perClass.toLocaleString('en-US')} ${IB_PRICING.currency} per 1-hour class in Pakistan, converted indicatively for other currencies. There are no automatic currency conversions at checkout, because there is no checkout: fees are agreed by email and paid by ${PRICING_TERMS.paymentMethods.join(' or ')}.`,
+    answer: `Group fees are set for ${confirmedRegions.filter((r) => r !== 'Pakistan').join(', ')}. One-to-one fees outside Pakistan${indicativeRegions.includes('Malaysia') ? ', and all Malaysia fees,' : ''} are shown as indicative currency conversions of the Pakistan fee. For any other country, US dollar prices apply: ${formatFee(usdGroup.igcse, 'USD')}–${formatFee(usdGroup.aLevel, 'USD')} USD per subject per month for group classes (indicative), ${formatFee(usdOne.igcse, 'USD')}–${formatFee(usdOne.aLevel, 'USD')} USD per one-to-one class, and IB at ${IB_USD_PRICING.myp} USD (MYP) or ${IB_USD_PRICING.dp} USD (Diploma) per 1-hour one-to-one class. In Pakistan IB is ${IB_PRICING.perClass.toLocaleString('en-US')} ${IB_PRICING.currency} per 1-hour class, converted indicatively for the other listed currencies. There are no automatic currency conversions at checkout, because there is no checkout: fees are agreed by email and paid by ${PRICING_TERMS.paymentMethods.join(' or ')}.`,
   },
   {
     question: 'My country is not listed. Can my child still be taught?',
@@ -196,8 +196,8 @@ const faq = faqNode(faqs);
       <h2 id="intl-fees" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">How fees work</h2>
       <ul class="m-0 grid max-w-[80ch] list-none gap-4 p-0">
         <li class="m-0 rounded-sm border border-rule bg-white p-5"><p class="m-0 font-semibold text-navy-800">Confirmed</p><p class="m-0 mt-1 text-[15px] text-ink-mute">Group fees set by Marlbridge for {confirmedRegions.join(', ')}. The one-to-one fee is confirmed for Pakistan.</p></li>
-        <li class="m-0 rounded-sm border border-rule bg-white p-5"><p class="m-0 font-semibold text-navy-800">Indicative</p><p class="m-0 mt-1 text-[15px] text-ink-mute">Currency conversions of the Pakistan fee, shown so you can see the approximate cost in your currency: one-to-one and IB fees outside Pakistan, all Malaysia fees, and US dollar figures for every other country. The exact fee is confirmed in writing before any payment.</p></li>
-        <li class="m-0 rounded-sm border border-rule bg-white p-5"><p class="m-0 font-semibold text-navy-800">Every other country: US dollars</p><p class="m-0 mt-1 text-[15px] text-ink-mute">Group classes {formatFee(usdGroup.igcse, 'USD')}–{formatFee(usdGroup.aLevel, 'USD')} USD per subject per month; one-to-one {formatFee(usdOne.igcse, 'USD')}–{formatFee(usdOne.aLevel, 'USD')} USD per class; IB {formatFee(usdIb.perClass, 'USD')} USD per 1-hour class (the Pakistan IB fee is {IB_PRICING.perClass.toLocaleString('en-US')} {IB_PRICING.currency}). All indicative.</p></li>
+        <li class="m-0 rounded-sm border border-rule bg-white p-5"><p class="m-0 font-semibold text-navy-800">Indicative</p><p class="m-0 mt-1 text-[15px] text-ink-mute">Currency conversions of the Pakistan fee, shown so you can see the approximate cost in your currency: one-to-one and IB fees in the listed countries outside Pakistan, all Malaysia fees, and US dollar group fees. The exact fee is confirmed in writing before any payment.</p></li>
+        <li class="m-0 rounded-sm border border-rule bg-white p-5"><p class="m-0 font-semibold text-navy-800">Every other country: US dollars</p><p class="m-0 mt-1 text-[15px] text-ink-mute">Group classes {formatFee(usdGroup.igcse, 'USD')}–{formatFee(usdGroup.aLevel, 'USD')} USD per subject per month; one-to-one {formatFee(usdOne.igcse, 'USD')}–{formatFee(usdOne.aLevel, 'USD')} USD per class; IB {IB_USD_PRICING.myp} USD (MYP) or {IB_USD_PRICING.dp} USD (Diploma) per 1-hour one-to-one class. Group fees are indicative; one-to-one and IB US dollar prices are set by Marlbridge.</p></li>
       </ul>
       <p class="m-0 mt-5 max-w-[70ch] text-[15px] text-ink-mute">All figures, discounts and terms are on the <a href={routes.pricing} class="underline decoration-gold-500 underline-offset-2">pricing page</a>. {PRICING_TERMS.billing} {PRICING_TERMS.cancellationPolicy}</p>
     </Container>

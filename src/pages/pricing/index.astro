@@ -6,7 +6,7 @@ import FAQ from '../../components/ui/FAQ.astro';
 import { faqNode } from '../../utils/schema/faq';
 import { routes } from '../../utils/urls/routes';
 import {
-  REGION_PRICING, PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee, IB_PRICING, IB_CONVERSIONS,
+  REGION_PRICING, PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee, IB_PRICING, IB_CONVERSIONS, IB_USD_PRICING,
   ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS, combinedDiscountPercent, discountWorkedExample,
   isIndicative, INDICATIVE_NOTE,
 } from '../../data/pricing';
@@ -49,7 +49,7 @@ const faqs = [
   },
   {
     question: 'How much does IB tuition cost?',
-    answer: `IB tuition (Middle Years Programme and Diploma Programme) is priced differently from the rest of the site: ${IB_PRICING.perClass.toLocaleString('en-US')} ${IB_PRICING.currency} ${IB_PRICING.unit}, ${IB_PRICING.deliveryMode} This rate is set for ${IB_PRICING.region} (last confirmed ${IB_PRICING.verifiedDate}); for example, the US dollar figure for other countries is ${formatFee(IB_CONVERSIONS.find((r) => r.currency === 'USD')!.perClass, 'USD')} USD per class. ${IB_PRICING.unsupportedRegionNote}`,
+    answer: `IB tuition (Middle Years Programme and Diploma Programme) is priced differently from the rest of the site: ${IB_PRICING.perClass.toLocaleString('en-US')} ${IB_PRICING.currency} ${IB_PRICING.unit}, ${IB_PRICING.deliveryMode} This rate is set for ${IB_PRICING.region} (last confirmed ${IB_PRICING.verifiedDate}); indicative conversions are shown for the listed regions, and every other country pays ${IB_USD_PRICING.myp} USD (MYP) or ${IB_USD_PRICING.dp} USD (Diploma Programme) per 1-hour class. ${IB_PRICING.unsupportedRegionNote}`,
   },
   {
     question: 'How much does one-to-one (1:1) tuition cost?',
@@ -150,9 +150,15 @@ const faq = faqNode(faqs);
         <p class="m-0 text-[17px] text-ink">{IB_PRICING.perClass.toLocaleString('en-US')} {IB_PRICING.currency} <span class="text-[13px] text-ink-mute">{IB_PRICING.unit}</span></p>
         <p class="m-0 mt-2 text-[13px] text-ink-mute">{IB_PRICING.deliveryMode}</p>
       </div>
+      <div class="mb-2 mt-4 max-w-[420px] rounded-sm border border-rule bg-white p-6">
+        <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Other countries (US dollars)</p>
+        <p class="m-0 text-[17px] text-ink">{IB_USD_PRICING.myp} USD <span class="text-[13px] text-ink-mute">MYP, per 1-hour class</span></p>
+        <p class="m-0 mt-1 text-[17px] text-ink">{IB_USD_PRICING.dp} USD <span class="text-[13px] text-ink-mute">Diploma Programme, per 1-hour class</span></p>
+        <p class="m-0 mt-2 text-[13px] text-ink-mute">One-to-one only. Set by Marlbridge, not a currency conversion.</p>
+      </div>
       <div class="mt-4 overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
         <table class="w-full min-w-[360px] max-w-[560px] border-collapse text-[15px]">
-          <caption class="sr-only">IB fee per 1-hour one-to-one class, indicative conversions by region</caption>
+          <caption class="sr-only">IB fee per 1-hour one-to-one class, indicative conversions of the Pakistan fee for the listed regions</caption>
           <thead>
             <tr class="border-b border-rule text-left">
               <th scope="col" class="py-2 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Region</th>

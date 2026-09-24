@@ -214,7 +214,7 @@ affected.
 
 ### 11. USD fee bands
 
-**Decided 2026-09-24 (D-311):** owner said "use the USD price". Countries without their own row see indicative US dollar figures: group US$69 / US$87 per subject per month, one-to-one US$13 / US$14 per class, IB US$22 per 1-hour class (276.97 PKR per USD, 24 Sep 2026).
+**Decided 2026-09-24 (D-311):** owner said "use the USD price". Countries without their own row see indicative US dollar figures: group US$69 / US$87 per subject per month, one-to-one US$13 / US$14 per class, IB US$22 per 1-hour class (276.97 PKR per USD, 24 Sep 2026). **Revised the same day (D-313):** the owner set one-to-one at US$13 (IGCSE) / US$15 (A Level) and IB at US$22 (MYP) / US$25 (Diploma), as set prices rather than conversions. Group fees stay indicative at US$69 / US$87.
 
 The brief mentions USD bands. No USD figure is owner-confirmed, so none is
 published (D-297). If families outside the priced regions should see a

@@ -29,6 +29,7 @@
 import {
   IB_PRICING,
   IB_CONVERSIONS,
+  IB_USD_PRICING,
   ONE_TO_ONE_PRICING,
   REGION_PRICING,
   THREE_DECIMAL_CURRENCIES,
@@ -56,10 +57,16 @@ const APPROVED_BASE_RATES = {
   oneToOnePakistanALevel: 4000,
   regionPakistanIgcse: 19000,
   regionPakistanALevel: 24000,
+  // D-313 -- owner-set US dollar rates, 2026-09-24.
+  oneToOneUsdIgcse: 13,
+  oneToOneUsdALevel: 15,
+  ibUsdMyp: 22,
+  ibUsdDp: 25,
 };
 
 const oneToOnePakistan = ONE_TO_ONE_PRICING.find((r) => r.region === 'Pakistan');
 const regionPakistan = REGION_PRICING.find((r) => r.region === 'Pakistan');
+const oneToOneUsd = ONE_TO_ONE_PRICING.find((r) => r.region === 'Other countries');
 
 const baseChecks = [
   ['IB_PRICING.perClass', IB_PRICING.perClass, APPROVED_BASE_RATES.ibPerClass],
@@ -67,6 +74,10 @@ const baseChecks = [
   ['ONE_TO_ONE_PRICING Pakistan aLevel', oneToOnePakistan?.aLevel, APPROVED_BASE_RATES.oneToOnePakistanALevel],
   ['REGION_PRICING Pakistan igcse', regionPakistan?.igcse, APPROVED_BASE_RATES.regionPakistanIgcse],
   ['REGION_PRICING Pakistan aLevel', regionPakistan?.aLevel, APPROVED_BASE_RATES.regionPakistanALevel],
+  ['ONE_TO_ONE_PRICING Other countries (USD) igcse', oneToOneUsd?.igcse, APPROVED_BASE_RATES.oneToOneUsdIgcse],
+  ['ONE_TO_ONE_PRICING Other countries (USD) aLevel', oneToOneUsd?.aLevel, APPROVED_BASE_RATES.oneToOneUsdALevel],
+  ['IB_USD_PRICING myp', IB_USD_PRICING.myp, APPROVED_BASE_RATES.ibUsdMyp],
+  ['IB_USD_PRICING dp', IB_USD_PRICING.dp, APPROVED_BASE_RATES.ibUsdDp],
 ];
 
 console.log('[1] Approved base rates unchanged from the last explicitly-approved value');
@@ -125,7 +136,8 @@ if (!oneToOnePakistan) {
   problems++;
 } else {
   for (const row of ONE_TO_ONE_PRICING) {
-    if (row.region === 'Pakistan') continue;
+    // D-313 -- owner-set rows are prices, not conversions: no drift check.
+    if (row.region === 'Pakistan' || row.status !== 'indicative') continue;
     /** @type {{ tierLabel: string, pkrBase: number, published: number }[]} */
     const tiers = [
       { tierLabel: 'igcse', pkrBase: oneToOnePakistan.igcse, published: row.igcse },
@@ -199,8 +211,10 @@ for (const row of IB_CONVERSIONS) {
 // --- [2d] D-297: indicative (converted) group rows and status labels -------
 
 console.log(`\n[2d] Indicative group-fee rows are within ${FX_TOLERANCE_PERCENT}% of what FX_RATES implies, and every conversion is labelled indicative`);
+// D-313 -- one-to-one rows the owner set directly (not conversions).
+const OWNER_SET_ONE_TO_ONE_REGIONS = new Set(['Pakistan', 'Other countries']);
 for (const row of ONE_TO_ONE_PRICING) {
-  if (row.region === 'Pakistan') continue;
+  if (OWNER_SET_ONE_TO_ONE_REGIONS.has(row.region)) continue;
   if (row.status !== 'indicative') {
     console.log(`  ✗ ONE_TO_ONE_PRICING ${row.region}: is a currency conversion but not marked status: 'indicative'.`);
     problems++;
