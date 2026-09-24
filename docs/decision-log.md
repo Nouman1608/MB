@@ -13693,3 +13693,17 @@ Owner request on 2026-09-24: use the June 2025 Cambridge papers in the owner's "
 
 Neither set is teacher-reviewed yet (`setReview` empty). The page says so.
 
+## D-313 - US dollar one-to-one and IB prices set by the owner (2026-09-24)
+
+**Owner instructions (chat, 24 Sep 2026):**
+
+- "IB, One-to-one, per class US$22 US$25". When asked, the owner confirmed MYP US$22 and Diploma US$25.
+- "One-to-one, per class US$13 US$15"
+
+| Change | Files |
+|---|---|
+| One-to-one "Other countries" (USD) row is now **US$13 (IGCSE) / US$15 (A Level)**. It is owner-set (status confirmed), not the D-311 conversion (13 / 14). | `src/data/pricing.ts` |
+| New `IB_USD_PRICING`: **MYP US$22, Diploma Programme US$25** per 1-hour one-to-one class, owner-set. The USD row is removed from `IB_CONVERSIONS`; the other nine currencies stay indicative conversions of Rs 6,000. | `src/data/pricing.ts` |
+| Group USD stays indicative (US$69 / US$87 per subject per month; unchanged). | — |
+| `validate-fx-policy`: the four USD figures join the approved base rates (changing them needs an owner decision). The owner-set "Other countries" one-to-one row is exempt from the must-be-indicative and drift checks, and any other region is still held to them. | `scripts/validate-fx-policy.mjs` |
+| Pages updated: the pricing page shows an "Other countries (US dollars)" IB card with MYP and Diploma prices, plus its IB FAQ; the hub's fee cards and FAQ; the unsupported-region notes. The tuition-section tables asterisk only indicative one-to-one rows. | `pricing`, `international-tutoring`, `TuitionPanel.astro`, `pricing.ts` |

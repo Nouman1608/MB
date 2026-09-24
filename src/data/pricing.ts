@@ -106,7 +106,7 @@ export const IB_PRICING = {
   perClass: 6000,
   unit: 'per 1-hour class',
   deliveryMode: 'One-to-one only, 1 hour per class. There is no group option for IB.',
-  unsupportedRegionNote: 'IB fees in other currencies are indicative conversions of the Pakistan fee. The exact fee is confirmed in writing before any payment.',
+  unsupportedRegionNote: 'IB fees in the other listed currencies are indicative conversions of the Pakistan fee; countries without their own row pay the US dollar IB price. The exact fee is confirmed in writing before any payment.',
   verifiedDate: '2026-09-24',
 } as const;
 
@@ -136,8 +136,23 @@ export const IB_CONVERSIONS: readonly IbConversion[] = [
   { region: 'United Kingdom', currency: 'GBP', symbol: '£', perClass: 16, status: 'indicative' },
   { region: 'Europe', currency: 'EUR', symbol: '€', perClass: 19, status: 'indicative' },
   { region: 'Malaysia', currency: 'MYR', symbol: 'RM', perClass: 88, status: 'indicative' },
-  { region: 'Other countries', currency: 'USD', symbol: 'US$', perClass: 22, status: 'indicative' },
 ] as const;
+
+/**
+ * D-313 -- owner, 24 Sep 2026: IB for "Other countries" is priced in US
+ * dollars directly (not converted): MYP US$22, Diploma Programme US$25 per
+ * 1-hour one-to-one class. Owner-set, so 'confirmed'.
+ */
+export const IB_USD_PRICING = {
+  region: 'Other countries',
+  currency: 'USD',
+  symbol: 'US$',
+  myp: 22,
+  dp: 25,
+  unit: 'per 1-hour one-to-one class',
+  status: 'confirmed' as PriceStatus,
+  verifiedDate: '2026-09-24',
+} as const;
 
 export const ibConversionFor = (region: string): IbConversion | undefined =>
   IB_CONVERSIONS.find((r) => r.region === region);
@@ -173,15 +188,16 @@ export const ONE_TO_ONE_PRICING: readonly RegionPricing[] = [
   { region: 'Europe', currency: 'EUR', symbol: '€', igcse: 11, aLevel: 12, status: 'indicative' },
   // D-297 -- Rs 3,500 / Rs 4,000 at 68.01 PKR per MYR (FX_RATES, 2026-09-23).
   { region: 'Malaysia', currency: 'MYR', symbol: 'RM', igcse: 51, aLevel: 59, status: 'indicative' },
-  // D-311 -- Rs 3,500 / Rs 4,000 at 276.97 PKR per USD (FX_RATES, 2026-09-24).
-  { region: 'Other countries', currency: 'USD', symbol: 'US$', igcse: 13, aLevel: 14, status: 'indicative' },
+  // D-313 -- owner-set US dollar one-to-one rate, 24 Sep 2026 (US$13 IGCSE,
+  // US$15 A Level); replaces the D-311 conversion (13 / 14).
+  { region: 'Other countries', currency: 'USD', symbol: 'US$', igcse: 13, aLevel: 15 },
 ] as const;
 
 export const ONE_TO_ONE_TERMS = {
   unit: 'per class',
   deliveryMode: 'One-to-one only -- these rates are not available as group tuition.',
   verifiedDate: '2026-08-23',
-  conversionNote: 'Only the Pakistan rate above was directly set by Marlbridge. The other regions are indicative currency conversions of that same Pakistan rate (exchange rates from exchangerate-api.com: dated 2026-08-22 for the Gulf, UK and Europe rows, 2026-09-23 for Malaysia and 2026-09-24 for US dollars). They are not independently published regional rates, are refreshed as exchange rates move, and the exact fee is confirmed in writing before any payment.',
+  conversionNote: 'Only the Pakistan and US dollar rates above were directly set by Marlbridge. The other regions are indicative currency conversions of the Pakistan rate (exchange rates from exchangerate-api.com: dated 2026-08-22 for the Gulf, UK and Europe rows, and 2026-09-23 for Malaysia). They are not independently published regional rates, are refreshed as exchange rates move, and the exact fee is confirmed in writing before any payment.',
   notPermanentNote: 'These fees are reviewed periodically and are not guaranteed to remain unchanged. The date above is when they were last confirmed or converted.',
 } as const;
 
@@ -216,7 +232,7 @@ export const PRICING_TERMS = {
   // your behalf") sat next to tables that do contain labelled conversions.
   // D-311 -- countries without their own row now see the US dollar row
   // (an indicative conversion), per the owner's 24 Sep 2026 instruction.
-  unsupportedRegionNote: 'Families in countries without their own row can use the US dollar figures ("Other countries"). These are indicative conversions of the Pakistan fee, and the exact fee is confirmed in writing before any payment.',
+  unsupportedRegionNote: 'Families in countries without their own row use the US dollar prices ("Other countries"). The group figures are indicative conversions of the Pakistan fee; the one-to-one and IB US dollar prices are set by Marlbridge. The exact fee is confirmed in writing before any payment.',
   notPermanentNote: 'These fees are reviewed periodically and are not guaranteed to remain unchanged. The date below is when they were last confirmed.',
   /** Owner confirmed directly in chat, 2026-08-26 (D-043). Group-class length/frequency
    * is a fixed format; one-to-one length is fixed but the number of classes taken is
