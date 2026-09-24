@@ -4,10 +4,12 @@
  *
  * Loads Google's gtag.js with Consent Mode v2, defaulting BOTH
  * `analytics_storage` and `ad_storage` to 'denied' before the visitor
- * makes any choice. No analytics network request is sent, and no
- * measurement cookie is set, until the visitor explicitly clicks
- * "Accept" on the banner below -- at which point consent is updated to
- * 'granted' and gtag's queued config call actually fires.
+ * makes any choice. While consent is denied no measurement cookie is set
+ * and no page_view is sent, but, as consent mode is designed to, gtag.js
+ * still sends cookieless event pings (gcs=G100) for the events the site
+ * fires; /legal/cookies/ discloses this and lists the events. Checked by
+ * request capture on 2026-09-25 (D-329). Accept (or the opt-out region
+ * default) updates consent to 'granted' and sends the page_view.
  *
  * This exists because src/pages/legal/cookies.astro and
  * src/pages/legal/privacy.astro previously stated, correctly at the

@@ -21,6 +21,7 @@ types. `mbTrack` also drops any parameter whose key contains `name`, `email`,
 | Event | Fires when (a completed action, not a button press) | Parameters |
 |---|---|---|
 | `revision_plan_generated` | A plan was actually built and shown (`/revision-planner/`) | `subjects_count`, `weeks`, `has_unknown_date`, `plan_fits` |
+| `diagnostic_start` | The student pressed Start on a 10-minute diagnostic; once per run (a Restart begins a new run). Added 2026-09-25, D-329 | `course_code`, `diagnostic_set`, `question_count` |
 | `diagnostic_complete` | The student finished marking and the results were shown; once per run | `course_code`, `diagnostic_set`, `question_count`, `duration_bucket` |
 | `recommended_resource_click` | A student followed a link the tools recommended | `source` (`planner`, `diagnostic`, `resource_next_steps`, `finder_home`), `link_kind`, sometimes `course_code` |
 | `syllabus_finder_select` | A course was chosen in the homepage finder | `source`, `qualification`, `board`, `course_code` |
@@ -49,6 +50,10 @@ self-mark is recorded.
 1. Admin → Custom definitions → create event-scoped custom dimensions for:
    `trial_source`, `course_code`, `diagnostic_set`, `source`, `link_kind`,
    `subjects_count` (metric), `plan_fits`, `qualification`, `format`.
+   *Status 2026-09-25:* all of these exist as event-scoped custom dimensions
+   (registered 2026-09-07 or 2026-09-23), and `cta_location` (for
+   `trial_cta_click`) was added on 2026-09-25 at 01:43 PKT (D-329). The
+   `subjects_count` custom metric was not checked.
 2. Admin → Events: decide which to mark as key events. Suggested: keep
    `generate_lead` and `whatsapp_click`; add `workshop_registration_success`
    and `newsletter_subscribe_confirmed` only once those features are live.
@@ -63,7 +68,7 @@ self-mark is recorded.
 |---|---|---|
 | Relevant organic search visits | Reports → Acquisition → Traffic acquisition, channel = Organic Search; add a landing-page filter for `/boards/`, `/resources/`, `/practice/`, `/revision-planner/` | Search Console (`/admin/search-demand/`, D-125) remains the source for queries and positions. |
 | Returning visitors | Reports → Retention, or Explore with dimension "New / returning" | Before D-280 about 87% of sessions were cookieless, so returning visitors were undercounted; compare only periods after 2026-09-22. |
-| Tool completion rates | Explore → Funnel: page_view on `/practice/*/diagnostic/*` → `diagnostic_complete`; page_view on `/revision-planner/` → `revision_plan_generated` | A diagnostic "start" is not recorded on purpose (the button press is not an outcome); the funnel starts at the page view. |
+| Tool completion rates | Explore → Funnel (closed, same session): page_view on `/practice/*/diagnostic/*` → `diagnostic_start` → `diagnostic_complete`; page_view on `/revision-planner/` → `revision_plan_generated` | *Superseded 2026-09-25 (D-329):* this row used to say a diagnostic start was deliberately not recorded. A page view cannot be told apart from an attempt, so a functional fault could not be told apart from a visitor who just looked; `diagnostic_start` now records the Start press. Data from 2026-09-26 (the first complete day after deploy) only. |
 | Trial enquiry rate | `generate_lead` (enquiry_kind = trial) ÷ sessions; split by `trial_source` | `trial_source` tells which surface (tuition page, diagnostic, teacher, resource, planner, region page, home) the request came from. |
 | Pages contributing to enquiries | Explore → Path exploration ending in `generate_lead`, or Free-form with Landing page × `generate_lead` | Also the "Used a free tool" segment × `generate_lead` to see whether tool users enquire more. |
 

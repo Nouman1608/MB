@@ -14015,3 +14015,28 @@ The D-149 principle (no pop-ups or interstitials, and the material stays free) i
 **Diagnostics.** No diagnostic set has been reviewed by a teacher. That is 0 of 31, and every set page says so. Until now, `validate-diagnostics.mjs` did not check `setReview` at all. It now rejects a review whose reviewer does not exist, is not `isReviewer: true`, or has a role that does not name the set's subject, and it rejects a review date that is not a real ISO date or lies in the future. The new negative fixture [AH] proves this; the suite now reports 36 passed, 0 failed. `npm run review:diagnostics -- <subject>` prints a review pack for teachers straight from the live data. Mechanical checks passed for all 166 questions: tariffs match marks, and every answer has enough mark points. An independent AI working of all 166 questions found one likely error, the 9609 ARR question (average investment against initial capital cost). It needs the Business teacher and the 9609 documents, so it was not changed. The findings and proposed reviewers are in `docs/content-review/diagnostic-set-review.md`. Computer Science has no eligible reviewer until the owner makes one.
 
 **Measurement.** GA4 baseline for 28 Aug to 24 Sep: diagnostic set pages 1 view, `diagnostic_complete` 0, `generate_lead` 6. The diagnostics are too new to judge, so no content was commissioned. The next read is on 24 Oct 2026. `cta_location`, which D-326 plans to measure, is not a registered GA4 custom dimension, so it cannot be reported until the owner registers it. Details are in `docs/growth/journey-measurement-2026-09-25.md`.
+
+## D-329 - Three diagnostic concerns worked against Cambridge documents; cta_location registered; journey measurement checked (2026-09-25)
+
+**Scope.** The owner excluded the teacher-review programme from this round. No `setReview` was filled, no reviewer was assigned and no reviewer role was changed. Every set page still says it has not been reviewed as a set.
+
+**Diagnostic concerns** (full evidence in `docs/content-review/diagnostic-set-review.md`):
+- **A. 9609 ARR: disproved, no change.** The 9609 syllabus 10.3.2 (2023-2025 v1 and 2026-2028 v2, p. 34) defines ARR = average profit / average investment × 100. The June 2024 Paper 31 mark scheme (Q3(a), p. 13) takes average investment as (cost + residual) ÷ 2. The June 2024 Principal Examiner Report, Paper 9609/32 Q4(a) (p. 27), names capital-cost division as the most common error, so the resource's attribution is accurate. The answer, 23.53%, recalculates.
+- **B. 9709 repeated S1 question: scope concern disproved.** Paper 5 is on every A Level route (9709 syllabus v4). The repeat of `probability-statistics-1-practice-q1` is now disclosed in the A Level set's `audience`. No replacement fits the 16-mark and 4-topic rules without dropping a Pure 3 question.
+- **C. 9618 A Level: confirmed and fixed.** `data-representation-a-level-practice-q5` and `further-programming-a-level-practice-q2` now state the context they had pointed to in "Question 4" and "Question 1", in both the resource and the diagnostic. `validate-diagnostics` rejects question text that refers to another question, and negative fixture [AI] proves it.
+
+**GA4.** Created the event-scoped custom dimension `cta_location` (parameter `cta_location`, description "Location of the trial call-to-action that was clicked") in property 550438391 ("Marlbridge", reporting time zone Pakistan) on 2026-09-25 at 01:43 PKT. There was no duplicate beforehand; it brings the property to 12 of 50 event-scoped dimensions. Nothing else was changed: not key events, not the Learners Academy property. There is no backfill.
+
+**Measurement.**
+- Isolated browser checks against production captured every GA request and delivered none. Results:
+  - `trial_cta_click` carries `cta_location`, one event per click, and is issued before navigation.
+  - `diagnostic_complete` fires once per run and never on load.
+  - `trial_form_start` fires once.
+  - Typed answers are never sent.
+  - With consent denied, no page view is sent, and events go as cookieless pings (`gcs=G100`), as `/legal/cookies/` discloses.
+  - `generate_lead` fires only on `response.ok`.
+- Two gaps were fixed:
+  1. New event `diagnostic_start` (course code, set, question count), sent once per run on Start. Until now a page view could not be told apart from an attempt, which reverses the measurement guide's earlier "start not recorded" note. `/legal/cookies/` now lists it.
+  2. The `/diagnostics/` hub's trial link sent `source=diagnostics-hub`, which the trial form ignores. It now sends `source=diagnostic`, and the new `npm run audit:trial-sources` (part of `audit:all`) checks every `/trial/?source=` link.
+- The stale ConsentAnalytics header comment ("no network request until Accept") was corrected.
+- Review dates: early health check 3 Oct (covering 26 Sep-2 Oct); first full-month review 24 Oct (24 Sep-23 Oct, with the newly instrumented metrics from 26 Sep). Written up in `docs/growth/journey-measurement-2026-09-25.md`.

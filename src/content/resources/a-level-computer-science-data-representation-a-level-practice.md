@@ -44,7 +44,7 @@ Each question practises a skill tested in the June 2025 Paper 31. After each ans
 
 **4.** A computer stores real numbers in binary floating-point form using a 12-bit mantissa and a 4-bit exponent, both in two's complement. Give the binary number 0.000101101 in normalised floating-point form in this system, stating the mantissa and exponent separately. **[2]**
 
-**5.** Using the same system as Question 4 (12-bit mantissa, 4-bit exponent, both two's complement), work out how the denary number −13.625 is stored as a normalised mantissa and exponent. Show your working. **[4]**
+**5.** A computer stores real numbers in binary floating-point form using a 12-bit mantissa and a 4-bit exponent, both in two's complement. Work out how the denary number −13.625 is stored as a normalised mantissa and exponent. Show your working. **[4]**
 
 **6.** A different system uses an 8-bit mantissa and a 4-bit exponent, both in two's complement. A number is stored with mantissa 10110000 and exponent 0010. Calculate its denary value, showing your working. **[2]**
 

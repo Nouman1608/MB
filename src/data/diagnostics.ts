@@ -651,8 +651,14 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
     subjectSlug: 'mathematics',
     scopeLabel: 'Pure Mathematics 3 with AS applied topics',
     modelledOn: 'the Cambridge International AS & A Level Mathematics June 2025 Paper 32',
-    audience: 'For A Level Mathematics candidates taking Paper 3.',
+    audience: 'For A Level Mathematics candidates taking Paper 3. Its Probability & Statistics 1 question is also in the AS diagnostic.',
     // D-324 (2026-09-24): original questions; see decision log for sources (analysis only; no board text reproduced).
+    // D-329 (2026-09-25): the S1 question (practice-q1) is shared with 9709/as on purpose.
+    // Paper 5 is on every A Level route (9709 syllabus v4, "Three routes"), so S1 belongs
+    // here. No other existing S1 question is worth 3 marks: swapping in a 4-mark one breaks
+    // the 16-mark limit unless a Pure 3 question (the set's main paper) or the Pure 1 question
+    // (leaving 3 topics, below the minimum of 4) is dropped. So the repeat is disclosed in
+    // `audience` rather than replaced.
     questionIds: [
       'a-level-mathematics-pure-3-algebra-calculus-practice-q5',
       'a-level-mathematics-pure-3-trig-vectors-complex-practice-q3',

@@ -59,6 +59,11 @@ for (const set of DIAGNOSTIC_SETS) {
     if (/diagram|\bfig(ure)?\.?\s*\d|the figure|figure below|graph below|shown below|the table|table below/i.test(text.replace(/significant figures?/gi, ''))) problems.push(`${key}: ${id} refers to a figure or table the diagnostic cannot show`);
     const extendedSet = set.tier === 'extended';
     if (extendedSet && !TIERED.includes(set.code)) problems.push(`${key}: only tiered IGCSE sets (${TIERED.join(', ')}) can be marked tier 'extended'`);
+    // D-329: a diagnostic shows one question on its own, so it must not lean on another
+    // question in its source file ("the Bicycle class from Question 1", "the same system
+    // as Question 4"). Only the question text is checked: answers legitimately name real
+    // past-paper questions ("Try the real question next: ... Question 4").
+    if (/\bQuestions? \d+\b|\b(previous|above|earlier|last|preceding) question\b/i.test(text)) problems.push(`${key}: ${id} refers to another question the diagnostic does not show`);
     if (/Background(?! (radiation|count))|beyond the .*syllabus|not examinable/i.test(text)) problems.push(`${key}: ${id} is marked Background/beyond the syllabus`);
     if (!extendedSet && TIERED.includes(set.code) && /Extended|Supplement/i.test(text)) problems.push(`${key}: ${id} is marked Extended, but the set is not an Extended set`);
     if (!extendedSet && set.code === '0620' && q.tier === 'supplement') problems.push(`${key}: ${id} is Supplement-only (Extended), but the set is for both tiers`);
