@@ -146,6 +146,9 @@ const FLAGSHIP_DEFINITIONS: FlagshipSpec[] = [
   { code: '9609', boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'business' },
   { code: '9618', boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'computer-science' },
   { code: '5070', boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'chemistry' },
+  // D-321 (2026-09-24): Cambridge A Level Mathematics and O Level Mathematics.
+  { code: '9709', boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'mathematics' },
+  { code: '4024', boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'mathematics' },
 ];
 
 let cachedFlagships: (FlagshipSpec & { combination: Combination })[] | null = null;

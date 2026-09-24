@@ -55,7 +55,7 @@ Use the iteration x_(n+1) = (x_n + 1)^(1/3) starting from x₀ = 1.5 to find thi
 
 ---
 
-## Worked solutions
+## Answers
 
 **1.** |2x − 3| = 7 means 2x − 3 = 7 or 2x − 3 = −7 [1]. Solving each: 2x = 10, so x = 5 [1]; or
 2x = −4, so **x = 5 or x = −2** [1].
@@ -64,8 +64,8 @@ Use the iteration x_(n+1) = (x_n + 1)^(1/3) starting from x₀ = 1.5 to find thi
 factor [1]. Dividing f(x) by (x − 2) gives x² − x − 6 [1], which factorises as (x − 3)(x + 2). So
 f(x) = (x − 2)(x − 3)(x + 2) [1].
 
-**3.** Taking logs of both sides: 2x ln 3 = ln 5 [1]. So x = ln 5 / (2 ln 3) = 1.6094 / 2.1972 [1] =
-**0.732** (3 s.f.) [1] (x = 0.73249 before rounding).
+**3.** Taking logs of both sides: 2x ln 3 = ln 5 [1]. So x = ln 5 / (2 ln 3) = 1.6094 / 2.1972 [1] = **0.732**
+(3 s.f.) [1] (x = 0.73249 before rounding).
 
 **4.** log₂(x) + log₂(x − 2) = log₂(x(x − 2)) = 3 [1], so x(x − 2) = 2³ = 8 [1]. This gives
 x² − 2x − 8 = 0, which factorises as (x − 4)(x + 2) = 0, so x = 4 or x = −2 [1]. Since x > 2 is
