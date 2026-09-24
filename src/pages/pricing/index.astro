@@ -4,6 +4,7 @@ import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import FAQ from '../../components/ui/FAQ.astro';
 import { faqNode } from '../../utils/schema/faq';
+import FeeCalculator from '../../components/tools/FeeCalculator.astro';
 import { routes } from '../../utils/urls/routes';
 import {
   REGION_PRICING, PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee, IB_PRICING, IB_CONVERSIONS, IB_USD_PRICING,
@@ -12,6 +13,20 @@ import {
 } from '../../data/pricing';
 
 const combinedPercent = combinedDiscountPercent();
+// D-330: the three ways tuition is priced, side by side. Pakistan rows are the owner-set base rates.
+const pk = REGION_PRICING.find((r) => r.region === 'Pakistan')!;
+const pk1 = ONE_TO_ONE_PRICING.find((r) => r.region === 'Pakistan')!;
+const compareRows: [string, string, string, string][] = [
+  ['Charged', 'Per subject, per month', 'Per class', 'Per class'],
+  ['Pakistan fee', `${formatFee(pk.igcse, pk.currency)} ${pk.currency} (IGCSE, GCSE, O Level) or ${formatFee(pk.aLevel, pk.currency)} ${pk.currency} (AS, A Level) per subject per month`, `${formatFee(pk1.igcse, pk1.currency)} ${pk1.currency} (IGCSE, GCSE, O Level) or ${formatFee(pk1.aLevel, pk1.currency)} ${pk1.currency} (AS, A Level) per class`, `${IB_PRICING.perClass.toLocaleString('en-US')} ${IB_PRICING.currency} per class (MYP and Diploma)`],
+  ['Class length', PRICING_TERMS.classFormat.group.split(',')[0], '1 hour', '1 hour'],
+  ['How often', '3 classes a week, per subject', 'Up to you: as many classes as you book', 'Up to you: as many classes as you book'],
+  ['Class size', `Up to ${PRICING_TERMS.maxGroupSize} students`, 'One student', 'One student'],
+  ['Discounts', `${PRICING_TERMS.multiSubjectDiscount.percentOff}% for ${PRICING_TERMS.multiSubjectDiscount.minSubjects}+ subjects; ${PRICING_TERMS.siblingDiscount.percentOff}% sibling; the two add together`, 'None', 'None'],
+  ['Free trial', 'A real group class', 'A real one-to-one class', 'A real one-to-one class'],
+  ['Paying and stopping', `${PRICING_TERMS.billing} ${PRICING_TERMS.cancellationPolicy}`, `${PRICING_TERMS.billing} ${PRICING_TERMS.cancellationPolicy}`, `${PRICING_TERMS.billing} ${PRICING_TERMS.cancellationPolicy}`],
+  ['Other countries', 'Set by Marlbridge for the Gulf, UK and Europe; indicative conversions for Malaysia and other countries', 'Set by Marlbridge for Pakistan and US dollars; indicative conversions elsewhere', 'Set for Pakistan and US dollars; indicative conversions for the listed regions'],
+];
 const example = discountWorkedExample();
 
 const faqs = [
@@ -71,6 +86,36 @@ const faq = faqNode(faqs);
 >
   <Section surface="white">
     <Container>
+      <h2 class="m-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Group, one-to-one or IB: how they compare</h2>
+      <p class="m-0 mb-5 max-w-[62ch] text-[15.5px] leading-relaxed text-ink-mute">A monthly group fee and a per-class one-to-one fee are not directly comparable: one covers {PRICING_TERMS.classFormat.group.split(',')[1]?.trim() ?? 'three classes a week'} for a month, the other is one hour.</p>
+      <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Comparison table, scrolls sideways on small screens">
+        <table class="w-full min-w-[720px] border-collapse text-[14.5px] leading-snug">
+          <caption class="sr-only">How group classes, one-to-one classes and IB tuition are priced and run</caption>
+          <thead>
+            <tr class="border-b border-rule text-left">
+              <td class="py-3 pr-4"></td>
+              <th scope="col" class="py-3 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Group classes</th>
+              <th scope="col" class="py-3 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">One-to-one</th>
+              <th scope="col" class="py-3 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">IB (one-to-one)</th>
+            </tr>
+          </thead>
+          <tbody>
+            {compareRows.map(([k, g, o, ib]) => (
+              <tr class="border-b border-rule align-top">
+                <th scope="row" class="py-3 pr-4 text-left font-medium text-ink">{k}</th>
+                <td class="py-3 pr-4 text-ink-mute">{g}</td>
+                <td class="py-3 pr-4 text-ink-mute">{o}</td>
+                <td class="py-3 text-ink-mute">{ib}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+
+      <h2 id="fee-calc-heading" class="m-0 mb-4 mt-12 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Work out a fee</h2>
+      <FeeCalculator />
+
+      <h2 class="m-0 mb-4 mt-12 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Group classes, by region</h2>
       <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
         <table class="w-full min-w-[560px] border-collapse text-[15px]">
           <caption class="sr-only">Group-class fees per subject per month, by region</caption>
@@ -210,7 +255,7 @@ const faq = faqNode(faqs);
       <h2 class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Questions about pricing</h2>
       <FAQ items={faqs} />
       <p class="m-0 mt-8 text-[15.5px]">
-        Ready to start? <a href={routes.tutoring} class="underline decoration-gold-500 underline-offset-2">Find learning support</a> or <a href={routes.contact} class="underline decoration-gold-500 underline-offset-2">send an enquiry</a>.
+        Ready to start? <a href={`${routes.trial}?source=pricing`} data-cta="pricing-trial-final" class="underline decoration-gold-500 underline-offset-2">Request a free trial class</a>, <a href={routes.tutoring} class="underline decoration-gold-500 underline-offset-2">meet the teachers</a> or <a href={routes.contact} class="underline decoration-gold-500 underline-offset-2">send an enquiry</a>.
       </p>
     </Container>
   </Section>

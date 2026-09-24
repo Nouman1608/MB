@@ -56,7 +56,7 @@ const PROGRAM_TO_QUAL: Record<string, string> = {
 const courses = Object.fromEntries(activeOnly().filter(offersClasses).map((c) => {
   const code = syllabusFor(c.boardSlug, c.qualificationSlug, c.subjectSlug)?.code;
   const qual = c.qualification.startsWith('IB ') ? c.qualification : c.qualification;
-  return [`${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`, { q: c.qualificationSlug, b: c.boardSlug, label: `${qual} ${c.subject}${code ? ` (${code})` : ''}` }];
+  return [`${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`, { q: c.qualificationSlug, b: c.boardSlug, label: `${qual} ${c.subject}${code ? ` (${code})` : ''}`, hub: `/boards/${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}/` }];
 }));
 const teachers = Object.fromEntries((await getAuthors()).filter((a) => a.data.entityType === 'person').map((a) => [a.id, a.data.name]));
 // D-311: 'Other countries' is a pricing row (USD), not a country; de-duplicated.
@@ -83,6 +83,13 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
   </div>
 
   <p data-trial-context hidden class="m-0 rounded-sm border border-gold-500 bg-ivory px-4 py-3 text-[15px] text-navy-800"></p>
+
+  {/* D-330: a teacher preference from ?teacher= is shown and can be removed.
+      It stays a preference: availability is only confirmed by a person. */}
+  <div data-trial-teacher-pref hidden class="m-0 flex flex-wrap items-center gap-x-4 gap-y-2 rounded-sm border border-rule bg-white px-4 py-3 text-[15px]">
+    <p class="m-0">Teacher preference: <strong data-trial-teacher-name class="font-semibold text-navy-800"></strong>. <span class="text-ink-mute">We will tell you honestly whether they have room at your level and time.</span></p>
+    <button type="button" data-trial-teacher-clear class="min-h-11 rounded-sm border border-rule px-3 text-[14.5px] font-medium text-navy-800 hover:bg-ivory">Remove this preference</button>
+  </div>
 
   <fieldset class="m-0 grid gap-4 border-0 p-0 sm:grid-cols-2">
     <legend class="mb-3 p-0 text-[19px] font-semibold text-navy-800">1. What would you like help with?</legend>
@@ -162,6 +169,21 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
     <p class="m-0 text-[13.5px] text-ink-mute">Or email <a href={`mailto:${FALLBACK_EMAIL}`} class="underline decoration-gold-500 underline-offset-2">{FALLBACK_EMAIL}</a>. The WhatsApp message opens with a general greeting only; add your details in the chat if you wish.</p>
   </div>
   <div data-form-status role="status" aria-live="polite"></div>
+  {/* D-330: shown only after the server has accepted the request (result.ok). */}
+  <section data-trial-success hidden tabindex="-1" aria-labelledby="trial-success-heading" class="rounded-sm border border-[#B9D3C6] bg-[#F1F7F4] p-[clamp(18px,2.4vw,28px)] text-[15.5px] leading-relaxed text-ink">
+    <h2 id="trial-success-heading" class="m-0 text-[21px] font-semibold text-navy-800">Request received</h2>
+    <p class="m-0 mt-2"><strong>Nothing is booked yet.</strong> {PRICING_TERMS.enquiryResponse.summary}</p>
+    <dl data-trial-summary class="m-0 mt-4 grid gap-2 sm:grid-cols-[minmax(170px,auto)_1fr] sm:gap-x-4"></dl>
+    <h3 class="m-0 mt-5 text-[16px] font-semibold text-navy-800">What happens next</h3>
+    <ol class="m-0 mt-2 grid gap-1.5 ps-5">
+      <li>We propose a teacher and a time, with the date and time in your own time zone.</li>
+      <li>Once you agree, we confirm the class and send the joining details.</li>
+      <li>The trial class is free, with no obligation to continue.</li>
+    </ol>
+    <p data-trial-ack class="m-0 mt-4"></p>
+    <p class="m-0 mt-3">Made a mistake, or need to add something? Email <a href={`mailto:${FALLBACK_EMAIL}`} class="underline decoration-gold-500 underline-offset-2">{FALLBACK_EMAIL}</a> or <a href={waHref} target="_blank" rel="noopener noreferrer" class="underline decoration-[#25D366] underline-offset-2">message us on WhatsApp</a>.</p>
+    <p data-trial-next class="m-0 mt-3"></p>
+  </section>
 </form>
 {site.turnstile.siteKey && <LazyTurnstile />}
 
@@ -169,7 +191,7 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
   import { submitEnquiry } from '../../utils/forms/submit';
 
   interface Data {
-    courses: Record<string, { q: string; b: string; label: string }>;
+    courses: Record<string, { q: string; b: string; label: string; hub: string }>;
     teachers: Record<string, string>;
     programToQual: Record<string, string>;
     sources: string[];
@@ -206,10 +228,19 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
       if (has(data.programToQual, program)) qualIn.value = data.programToQual[program];
     }
     const teacher = params.get('teacher') ?? '';
+    const prefBox = form.querySelector<HTMLElement>('[data-trial-teacher-pref]')!;
     if (has(data.teachers, teacher)) {
       teacherIn.value = teacher;
-      notes.push(`with ${data.teachers[teacher]}`);
+      form.querySelector<HTMLElement>('[data-trial-teacher-name]')!.textContent = data.teachers[teacher];
+      prefBox.hidden = false;
     }
+    form.querySelector<HTMLButtonElement>('[data-trial-teacher-clear]')?.addEventListener('click', () => {
+      teacherIn.value = '';
+      prefBox.hidden = true;
+      status.className = 'text-[14px] text-ink-mute';
+      status.textContent = 'Teacher preference removed. We will suggest a teacher for you.';
+      subject.focus();
+    });
     const fmt = params.get('format');
     if (fmt === 'group' || fmt === 'one-to-one') {
       const r = form.querySelector<HTMLInputElement>(`input[name="format"][value="${fmt}"]`);
@@ -219,7 +250,7 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
     if (data.sources.includes(src)) sourceIn.value = src;
     else if (teacherIn.value) sourceIn.value = 'teacher';
     if (notes.length) {
-      ctx.textContent = `You're asking about a free trial class: ${notes.join(' ')}. You can change anything below.`;
+      ctx.textContent = `You're asking about a free trial class for ${notes.join(' ')}. You can change anything below.`;
       ctx.hidden = false;
     }
     // If the student retypes the subjects, the pre-filled course no longer applies.
@@ -288,8 +319,39 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
       const result = await submitEnquiry('trial', new FormData(form));
       if (result.ok) {
         sent = true;
-        status.className = 'rounded-sm border border-[#B9D3C6] bg-[#F1F7F4] p-4 text-[15px] text-success';
-        status.textContent = 'Thank you. Your trial request has been sent. We will reply by email to confirm a teacher and a time; nothing is booked until then.';
+        status.className = 'sr-only';
+        status.textContent = 'Request received. Nothing is booked yet.';
+        // D-330: a summary of what was asked for, built from the form itself (never from the URL),
+        // shown in the page only. Nothing personal is put in the address bar or sent to analytics.
+        const panel = form.querySelector<HTMLElement>('[data-trial-success]')!;
+        const dl = panel.querySelector<HTMLElement>('[data-trial-summary]')!;
+        const boardLabel = board.selectedOptions[0]?.textContent ?? '';
+        const fmtLabel = form.querySelector<HTMLInputElement>('input[name="format"]:checked')?.closest('label')?.textContent?.trim() ?? '';
+        const rows: [string, string][] = [
+          ['Subjects', subject.value.trim()],
+          ['Exam board', boardLabel],
+          ['Group or one-to-one', fmtLabel],
+          ['Teacher preference', teacherIn.value ? `${data.teachers[teacherIn.value]} (a preference, not yet confirmed)` : ''],
+        ];
+        dl.replaceChildren();
+        for (const [k, v] of rows) {
+          if (!v) continue;
+          const dt = document.createElement('dt'); dt.className = 'm-0 font-medium text-ink-mute'; dt.textContent = k;
+          const dd = document.createElement('dd'); dd.className = 'm-0'; dd.textContent = v;
+          dl.append(dt, dd);
+        }
+        panel.querySelector<HTMLElement>('[data-trial-ack]')!.textContent = result.acknowledged
+          ? 'We have also emailed a copy of this request to the address you gave. If it has not arrived within an hour, please check your spam folder.'
+          : 'We will reply to the email address you gave.';
+        const next = panel.querySelector<HTMLElement>('[data-trial-next]')!;
+        const course = courseIn.value && has(data.courses, courseIn.value) ? data.courses[courseIn.value] : null;
+        const a = document.createElement('a');
+        a.className = 'underline decoration-gold-500 underline-offset-2';
+        if (course) { a.href = course.hub; a.textContent = `${course.label} resources and checklist`; }
+        else { a.href = '/diagnostics/'; a.textContent = '10-minute diagnostics'; }
+        next.replaceChildren('While you wait, you can use our ', a, '. They are free, with no sign-up.');
+        panel.hidden = false;
+        panel.focus();
         // Consent-gated GA4 key event (D-003). Only structural, non-personal values.
         (window as unknown as { gtag?: (...a: unknown[]) => void }).gtag?.('event', 'generate_lead', {
           enquiry_kind: 'trial',
@@ -302,7 +364,13 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
       button.disabled = false;
       if (result.errors) for (const [k, m] of Object.entries(result.errors)) setError(k, m);
       status.className = 'rounded-sm border border-[#E3BDBD] bg-[#FBF2F2] p-4 text-[15px] text-error';
-      status.textContent = result.message ?? 'Your request could not be sent. Please try again, or email us.';
+      status.textContent = `${result.message ?? 'Your request could not be sent.'} Everything you typed is still here. You can also email ${'hello@marlbridge.com'} or use WhatsApp.`;
+      // D-330: a Turnstile token is single-use, so a retry needs a fresh one.
+      try { (window as unknown as { turnstile?: { reset: () => void } }).turnstile?.reset(); } catch { /* widget not loaded */ }
+      // Move focus to the first field the server rejected, or else to the message.
+      const firstBad = result.errors ? Object.keys(result.errors).map((k) => form.querySelector<HTMLElement>(k === 'format' ? 'input[name="format"]' : `#trial-${k}`)).find(Boolean) : null;
+      if (firstBad) firstBad.focus();
+      else { status.tabIndex = -1; status.focus(); }
     });
 
     form.querySelector<HTMLAnchorElement>('[data-trial-whatsapp]')?.addEventListener('click', () => {

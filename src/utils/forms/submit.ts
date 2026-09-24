@@ -14,7 +14,7 @@
  */
 export type EnquiryKind = 'student' | 'tutoring' | 'school' | 'trial' | 'correction';
 
-export interface SubmitResult { ok: boolean; message?: string; errors?: Record<string, string> }
+export interface SubmitResult { ok: boolean; message?: string; errors?: Record<string, string>; /** D-330: trial only -- the family acknowledgement was accepted by the email provider. */ acknowledged?: boolean }
 
 export const FALLBACK_EMAIL = 'hello@marlbridge.com';
 const ENDPOINT = '/api/enquiry';
@@ -29,7 +29,7 @@ export async function submitEnquiry(kind: EnquiryKind, data: FormData): Promise<
     });
     let payload: SubmitResult | null = null;
     try { payload = await response.json(); } catch { /* non-JSON response — fall through to status-based message */ }
-    if (response.ok) return { ok: true };
+    if (response.ok) return { ok: true, acknowledged: payload?.acknowledged === true };
     return {
       ok: false,
       message: payload?.message ?? 'Something went wrong sending your enquiry. Please try again, or email us.',

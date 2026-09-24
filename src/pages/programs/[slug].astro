@@ -198,7 +198,7 @@ const jsonLd = [
             {PRICING_TERMS.freeTrial} {hasGroupTuition ? PRICING_TERMS.trialFormat.summary : isIb ? 'IB tuition is one-to-one only, so the trial is an individual class with the teacher.' : ''} {PRICING_TERMS.enquiryResponse.summary}
           </p>
           <div class="flex flex-wrap items-center gap-4">
-            <Button href={`${routes.trial}?program=${program.id}`} variant="primary" size="lg" data-cta="program-trial">Request a free trial</Button>
+            <Button href={`${routes.trial}?program=${program.id}&source=program`} variant="primary" size="lg" data-cta="program-trial">Request a free trial</Button>
             {feeOnEnquiry
               ? <Button href={routes.contact} variant="secondary">Ask about fees</Button>
               : <Button href={routes.pricing} variant="secondary">See tuition fees</Button>}

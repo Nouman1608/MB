@@ -7,7 +7,7 @@ import ArticleCard from '../../components/cards/ArticleCard.astro';
 import ResourceCard from '../../components/cards/ResourceCard.astro';
 import RelatedGrid from '../../components/layout/RelatedGrid.astro';
 import Button from '../../components/ui/Button.astro';
-import { PRICING_TERMS } from '../../data/pricing';
+import { PRICING_TERMS, REGION_PRICING, ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS, formatFee } from '../../data/pricing';
 import { getAuthors } from '../../utils/content/collections';
 import { articlesByAuthor, resourcesByAuthor } from '../../utils/content/related';
 import { personNode, organizationEntityNode } from '../../utils/schema/person';
@@ -54,6 +54,9 @@ const videos = await videosForTeacher(author.id);
  * they are a record of where a person worked, nothing more.
  */
 const isPerson = d.entityType === 'person';
+// D-330: the owner-set Pakistan base rates (other regions are on /pricing/).
+const pkGroup = REGION_PRICING.find((r) => r.region === 'Pakistan')!;
+const pkOne = ONE_TO_ONE_PRICING.find((r) => r.region === 'Pakistan')!;
 const teachingFacts = [
   d.subjectsTaught.length > 0 && { label: 'Teaches', value: d.subjectsTaught.join(' · ') },
   d.qualificationsTaught.length > 0 && { label: 'Levels', value: d.qualificationsTaught.join(' · ') },
@@ -155,6 +158,19 @@ const jsonLd = [
           <p class="m-0 mt-3 max-w-[62ch] text-[16.5px] leading-[1.65] text-ink-mute">
             {PRICING_TERMS.freeTrial} Your request will say you asked for {d.name.split(' ')[0]}. We will tell you honestly whether {d.name.split(' ')[0]} has room at your level and time — we cannot guarantee a specific teacher in advance, but we will tell you who it is before the class is scheduled. {PRICING_TERMS.enquiryResponse.summary}
           </p>
+          {/* D-330: what the next step involves and costs, from the canonical pricing data.
+              Pakistan rows are the owner-set base rates; other regions are on /pricing/. */}
+          <dl class="m-0 mt-6 grid gap-3 text-[15.5px] leading-[1.6] sm:grid-cols-2">
+            <div class="rounded-sm border border-rule bg-white p-4">
+              <dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Group classes</dt>
+              <dd class="m-0 mt-1.5">Up to {PRICING_TERMS.maxGroupSize} students. {PRICING_TERMS.classFormat.group} In Pakistan from {formatFee(pkGroup.igcse, pkGroup.currency)} {pkGroup.currency} per subject per month (IGCSE, GCSE, O Level).</dd>
+            </div>
+            <div class="rounded-sm border border-rule bg-white p-4">
+              <dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">One-to-one</dt>
+              <dd class="m-0 mt-1.5">{PRICING_TERMS.classFormat.oneToOne} In Pakistan from {formatFee(pkOne.igcse, pkOne.currency)} {pkOne.currency} {ONE_TO_ONE_TERMS.unit}.</dd>
+            </div>
+          </dl>
+          <p class="m-0 mt-3 text-[14px] text-ink-mute">A Level, IB and other regions are priced differently: <a href={routes.pricing} class="underline decoration-gold-500 underline-offset-2">see all fees</a>. {PRICING_TERMS.teacherAvailability}</p>
           <div class="mt-6 flex flex-wrap items-center gap-4">
             <Button href={`${routes.trial}?teacher=${author.id}&source=teacher`} variant="primary" data-cta="teacher-trial">Request a free trial with {d.name.split(' ')[0]}</Button>
             <Button href={routes.tutoring} variant="quiet">See all teachers</Button>

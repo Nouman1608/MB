@@ -232,3 +232,105 @@ test('onRequestPost JSON responses carry nosniff and noindex headers', async () 
   assert.equal(res.headers.get('X-Content-Type-Options'), 'nosniff');
   assert.equal(res.headers.get('X-Robots-Tag'), 'noindex');
 });
+
+// ---- D-330: trial requests -- teacher preference, acknowledgement ----
+function validTrialFields(extra = {}) {
+  return {
+    website: '',
+    enquiryKind: 'trial',
+    subject: 'IGCSE Chemistry (0620)',
+    board: 'cambridge',
+    format: 'group',
+    name: 'Amina Test',
+    email: 'amina@example.com',
+    phone: '+92 300 1234567',
+    country: 'Pakistan',
+    course: 'cambridge/igcse/chemistry',
+    qualification: 'igcse',
+    teacher: 'nouman-ahmed',
+    source: 'teacher',
+    ...extra,
+  };
+}
+
+test(
+  'trial: staff email names the teacher as a preference, then the family gets an acknowledgement',
+  withMockFetch(
+    (url) => {
+      if (url === 'https://api.resend.com/emails') return new Response(JSON.stringify({ id: 'mock-id' }), { status: 200 });
+      throw new Error(`Unexpected fetch to ${url}`);
+    },
+    async (calls) => {
+      const response = await onRequestPost({ request: makeRequest(validTrialFields()), env: { RESEND_API_KEY: 'k' } });
+      const json = await response.json();
+      assert.equal(response.status, 200);
+      assert.deepEqual(json, { ok: true, acknowledged: true });
+      const sends = calls.filter((c) => c.url === 'https://api.resend.com/emails').map((c) => JSON.parse(c.init.body));
+      assert.equal(sends.length, 2, 'staff notification first, then one acknowledgement');
+      const [staff, ack] = sends;
+      assert.deepEqual(staff.to, ['noumanahmed1989@gmail.com']);
+      assert.equal(staff.reply_to, 'amina@example.com');
+      assert.match(staff.text, /Teacher asked for: Nouman Ahmed \(preference, not yet checked for availability\)/);
+      assert.match(staff.text, /Came from: teacher/);
+      assert.match(staff.text, /Course id: cambridge\/igcse\/chemistry/);
+      assert.deepEqual(ack.to, ['amina@example.com']);
+      assert.equal(ack.reply_to, 'hello@marlbridge.com');
+      assert.match(ack.subject, /received your free trial request/);
+      assert.match(ack.text, /not a booking/);
+      assert.match(ack.text, /Teacher preference: Nouman Ahmed/);
+      assert.match(ack.text, /within two working days/);
+      assert.doesNotMatch(ack.text, /noumanahmed1989/, 'the private staff inbox never appears in the family email');
+      assert.doesNotMatch(ack.text, /Came from|Course id/, 'no internal attribution fields in the family email');
+    },
+  ),
+);
+
+test(
+  'trial: an unknown teacher slug is dropped server-side, not passed through',
+  withMockFetch(
+    () => new Response('{}', { status: 200 }),
+    async (calls) => {
+      const response = await onRequestPost({ request: makeRequest(validTrialFields({ teacher: 'not-a-teacher' })), env: { RESEND_API_KEY: 'k' } });
+      assert.equal(response.status, 200);
+      const [staff, ack] = calls.map((c) => JSON.parse(c.init.body));
+      assert.doesNotMatch(staff.text, /Teacher asked for/);
+      assert.doesNotMatch(ack.text, /Teacher preference/);
+    },
+  ),
+);
+
+test(
+  'trial: if the acknowledgement fails after the staff email is accepted, the request still succeeds with acknowledged:false',
+  withMockFetch(
+    (() => { let n = 0; return () => (++n === 1 ? new Response('{}', { status: 200 }) : new Response('fail', { status: 500 })); })(),
+    async () => {
+      const response = await onRequestPost({ request: makeRequest(validTrialFields()), env: { RESEND_API_KEY: 'k' } });
+      assert.equal(response.status, 200);
+      assert.deepEqual(await response.json(), { ok: true, acknowledged: false });
+    },
+  ),
+);
+
+test(
+  'trial: if the staff email fails, no acknowledgement is sent and the response is an honest 502',
+  withMockFetch(
+    () => new Response('fail', { status: 500 }),
+    async (calls) => {
+      const response = await onRequestPost({ request: makeRequest(validTrialFields()), env: { RESEND_API_KEY: 'k' } });
+      assert.equal(response.status, 502);
+      assert.equal(calls.length, 1, 'only the staff attempt; no acknowledgement for a request that was not accepted');
+    },
+  ),
+);
+
+test(
+  'trial: a tripped honeypot gets the fake success and sends nothing at all',
+  withMockFetch(
+    () => { throw new Error('no network call expected'); },
+    async (calls) => {
+      const response = await onRequestPost({ request: makeRequest(validTrialFields({ website: 'spam' })), env: { RESEND_API_KEY: 'k' } });
+      assert.equal(response.status, 200);
+      assert.equal(calls.length, 0);
+    },
+  ),
+);
