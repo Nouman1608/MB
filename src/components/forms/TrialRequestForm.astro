@@ -58,7 +58,8 @@ const courses = Object.fromEntries(activeOnly().filter(offersClasses).map((c) =>
   return [`${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`, { q: c.qualificationSlug, b: c.boardSlug, label: `${qual} ${c.subject}${code ? ` (${code})` : ''}` }];
 }));
 const teachers = Object.fromEntries((await getAuthors()).filter((a) => a.data.entityType === 'person').map((a) => [a.id, a.data.name]));
-const countries = [...REGION_PRICING.map((r) => r.region).filter((r) => r !== 'Europe'), 'India', 'Bangladesh', 'Malaysia', 'Kenya', 'United States', 'Canada', 'Germany', 'France', 'Ireland'];
+// D-311: 'Other countries' is a pricing row (USD), not a country; de-duplicated.
+const countries = [...new Set([...REGION_PRICING.map((r) => r.region).filter((r) => r !== 'Europe' && r !== 'Other countries'), 'India', 'Bangladesh', 'Malaysia', 'Kenya', 'United States', 'Canada', 'Germany', 'France', 'Ireland'])];
 const slots = [
   ['weekday-morning', 'Weekday mornings'], ['weekday-afternoon', 'Weekday afternoons'], ['weekday-evening', 'Weekday evenings'],
   ['weekend-morning', 'Weekend mornings'], ['weekend-afternoon', 'Weekend afternoons'], ['weekend-evening', 'Weekend evenings'],

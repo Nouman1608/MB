@@ -21,7 +21,7 @@ import { taughtOnly, boardPath } from '../../utils/academic';
 import { boardBySlug } from '../../data/academic/boards';
 import {
   REGION_PRICING, ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS,
-  PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee, INDICATIVE_NOTE,
+  PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee, INDICATIVE_NOTE, ibConversionFor,
 } from '../../data/pricing';
 import { faqNode } from '../../utils/schema/faq';
 import { hubIsTaught, RESOURCES_ONLY_SUFFIX } from '../../data/markets';
@@ -70,7 +70,7 @@ const faqs = [
   },
   {
     question: 'How do the class times work with the UK time difference?',
-    answer: 'Pakistan is four hours ahead of the UK in British Summer Time and five hours ahead in winter, so a UK after-school slot falls in the late evening in Pakistan. UK students are placed in the later-evening Pakistan slots and at weekends; the exact time is confirmed with the teacher before the first class.',
+    answer: `Pakistan is four hours ahead of the UK in British Summer Time and five hours ahead in winter. ${PRICING_TERMS.teacherAvailability} The exact time is confirmed with the teacher before the first class.`,
   },
   {
     question: 'What does it cost from the UK?',
@@ -167,13 +167,12 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
 
   <Section surface="ivory" border>
     <Container>
-      <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Time zones — the honest constraint</h2>
+      <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Time zones</h2>
       <p class="m-0 mb-6 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
         All Marlbridge teaching is delivered live from Pakistan (UTC+5). The UK is on GMT (UTC+0) in winter and British Summer
         Time (UTC+1) from late March to late October — four to five hours behind. A 4:30 pm after-school slot in London is
-        therefore 8:30 or 9:30 pm in Lahore, which is why UK students are scheduled in the later-evening Pakistan slots and at
-        weekends, when the overlap is widest. This is orientation only; the exact class time is agreed with the teacher before
-        the first class.
+        therefore 8:30 or 9:30 pm in Lahore. {PRICING_TERMS.teacherAvailability} The exact class time is agreed with the teacher
+        before the first class.
       </p>
       <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
         <table class="w-full min-w-[420px] border-collapse text-[14px]">
@@ -231,6 +230,10 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
               <td class="py-3 pr-4 text-ink-mute">{formatFee(ukOneToOne.igcse, ukOneToOne.currency)} {ukOneToOne.currency}</td>
               <td class="py-3 text-ink-mute">{formatFee(ukOneToOne.aLevel, ukOneToOne.currency)} {ukOneToOne.currency}</td>
             </tr>
+            <tr class="border-b border-rule">
+              <td class="py-3 pr-4 text-ink">IB, one-to-one, per 1-hour class <span class="text-[12px] text-ink-mute">(indicative)</span></td>
+              <td class="py-3 text-ink-mute" colspan="2">{formatFee(ibConversionFor('United Kingdom')!.perClass, 'GBP')} GBP</td>
+            </tr>
           </tbody>
         </table>
       </div>
@@ -251,7 +254,7 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
   </Section>
 
   <CTA
-    heading="Ready to try a live online class from the UK? Request a free trial and we'll confirm a teacher and an evening or weekend time by email."
+    heading="Ready to try a live online class from the UK? Request a free trial and we'll confirm a teacher and a time that suits you by email."
     buttonLabel="Request a Free Trial"
     buttonHref={`${routes.trial}?source=region`}
   />

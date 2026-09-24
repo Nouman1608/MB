@@ -214,6 +214,8 @@ affected.
 
 ### 11. USD fee bands
 
+**Decided 2026-09-24 (D-311):** owner said "use the USD price". Countries without their own row see indicative US dollar figures: group US$69 / US$87 per subject per month, one-to-one US$13 / US$14 per class, IB US$22 per 1-hour class (276.97 PKR per USD, 24 Sep 2026).
+
 The brief mentions USD bands. No USD figure is owner-confirmed, so none is
 published (D-297). If families outside the priced regions should see a
 USD figure, the owner needs to set it. The alternative is to label it
@@ -224,6 +226,8 @@ enquire".
 
 ### 12. IB fee outside Pakistan
 
+**Decided 2026-09-24 (D-311):** owner set IB at Rs 6,000 per 1-hour one-to-one class (was Rs 5,000). Other currencies are indicative conversions (`IB_CONVERSIONS`), checked by `validate-fx-policy` [2f].
+
 The IB rate (5,000 PKR per class) is confirmed for Pakistan only. Every
 country page shows IB as "on enquiry". The owner could confirm per-country
 IB fees, or approve an indicative conversion as for one-to-one.
@@ -231,6 +235,8 @@ IB fees, or approve an indicative conversion as for one-to-one.
 **Status:** open.
 
 ### 13. Tutor availability by time zone
+
+**Decided 2026-09-24 (D-311):** owner said teachers are available 24/7. The site says so (`PRICING_TERMS.teacherAvailability`); time tables stay as orientation only.
 
 The country pages give local-to-Lahore time arithmetic only. They do not
 promise slots, because teacher availability by time of day has not been

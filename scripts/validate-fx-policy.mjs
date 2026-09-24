@@ -28,6 +28,7 @@
  */
 import {
   IB_PRICING,
+  IB_CONVERSIONS,
   ONE_TO_ONE_PRICING,
   REGION_PRICING,
   THREE_DECIMAL_CURRENCIES,
@@ -50,7 +51,7 @@ let problems = 0;
  * requires a docs/decision-log.md entry recording explicit owner approval,
  * updated in the same commit as this constant. */
 const APPROVED_BASE_RATES = {
-  ibPerClass: 5000,
+  ibPerClass: 6000, // D-311, owner 2026-09-24 (was 5000, D-009)
   oneToOnePakistanIgcse: 3500,
   oneToOnePakistanALevel: 4000,
   regionPakistanIgcse: 19000,
@@ -167,6 +168,31 @@ for (const row of REGION_PRICING) {
   if (row.status !== 'indicative' && !OWNER_SET_GROUP_REGIONS.has(row.region)) {
     console.log(`  ✗ REGION_PRICING ${row.region}: shown as confirmed, but no owner-set rate is recorded for it. Mark it status: 'indicative' or record the owner decision and add it to OWNER_SET_GROUP_REGIONS.`);
     problems++;
+  }
+}
+
+// --- [2f] D-311: IB conversions --------------------------------------------
+console.log(`\n[2f] IB fee conversions are labelled indicative and within ${FX_TOLERANCE_PERCENT}% of what FX_RATES implies`);
+for (const row of IB_CONVERSIONS) {
+  if (row.status !== 'indicative') {
+    console.log(`  ✗ IB_CONVERSIONS ${row.region}: must be status 'indicative'.`);
+    problems++;
+    continue;
+  }
+  let implied;
+  try {
+    implied = impliedConvertedAmount(IB_PRICING.perClass, row.currency);
+  } catch (e) {
+    console.log(`  ✗ IB_CONVERSIONS ${row.region} (${row.currency}): ${e instanceof Error ? e.message : String(e)}`);
+    problems++;
+    continue;
+  }
+  const diffPercent = implied === 0 ? 0 : (Math.abs(row.perClass - implied) / Math.abs(implied)) * 100;
+  if (diffPercent > FX_TOLERANCE_PERCENT) {
+    console.log(`  ✗ IB_CONVERSIONS ${row.region} (${row.currency}): published ${row.perClass}, FX_RATES implies ${implied} -- ${diffPercent.toFixed(1)}% drift.`);
+    problems++;
+  } else {
+    console.log(`  ✓ IB_CONVERSIONS ${row.region} (${row.currency}): published ${row.perClass}, FX_RATES implies ${implied} (${diffPercent.toFixed(1)}% drift)`);
   }
 }
 

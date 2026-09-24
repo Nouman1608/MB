@@ -23,7 +23,7 @@ import { taughtOnly, boardPath } from '../../utils/academic';
 import { BOARDS } from '../../data/academic/boards';
 import { faqNode } from '../../utils/schema/faq';
 import { TRIAL_STEPS } from '../../data/tuition';
-import { REGION_PRICING, ONE_TO_ONE_PRICING, PRICING_TERMS, IB_PRICING, isIndicative } from '../../data/pricing';
+import { REGION_PRICING, ONE_TO_ONE_PRICING, PRICING_TERMS, IB_PRICING, isIndicative, formatFee, ibConversionFor } from '../../data/pricing';
 import { site } from '../../data/site';
 import { clock } from '../../data/markets';
 
@@ -34,13 +34,16 @@ const qualifications = [...new Set(taught.map((c) => c.qualification))];
 const subjectNames = [...new Set(taught.map((c) => c.subject))].sort((a, b) => a.localeCompare(b));
 
 const confirmedRegions = REGION_PRICING.filter((r) => !isIndicative(r)).map((r) => r.region);
+const usdGroup = REGION_PRICING.find((r) => r.currency === 'USD')!;
+const usdOne = ONE_TO_ONE_PRICING.find((r) => r.currency === 'USD')!;
+const usdIb = ibConversionFor('Other countries')!;
 const indicativeRegions = [
   ...new Set([...REGION_PRICING, ...ONE_TO_ONE_PRICING].filter(isIndicative).map((r) => r.region)),
 ];
 
 const COUNTRY_PAGES = [
   { href: '/pakistan/', name: 'Pakistan', note: 'In person in Lahore or online. PKR fees, including IB.' },
-  { href: '/uk/', name: 'United Kingdom', note: 'AQA, OCR, Pearson Edexcel and Cambridge. GBP fees, evening and weekend times.' },
+  { href: '/uk/', name: 'United Kingdom', note: 'AQA, OCR, Pearson Edexcel and Cambridge. GBP fees, UK-friendly class times.' },
   { href: '/uae/', name: 'United Arab Emirates', note: 'Pearson Edexcel, Cambridge, OxfordAQA, AQA. AED fees, one hour behind Lahore.' },
   { href: '/qatar/', name: 'Qatar', note: 'Pearson Edexcel, Cambridge, IB. QAR fees, two hours behind Lahore.' },
   { href: '/malaysia/', name: 'Malaysia', note: 'Cambridge IGCSE and A Level. Indicative RM fees, three hours ahead of Lahore.' },
@@ -77,11 +80,11 @@ const faqs = [
   },
   {
     question: 'How much does it cost outside Pakistan?',
-    answer: `Group fees are set for ${confirmedRegions.filter((r) => r !== 'Pakistan').join(', ')}. One-to-one fees outside Pakistan${indicativeRegions.includes('Malaysia') ? ', and all Malaysia fees,' : ''} are shown as indicative currency conversions of the Pakistan fee. For any other country, Marlbridge confirms the fee in writing when you enquire. There are no automatic currency conversions at checkout, because there is no checkout: fees are agreed by email and paid by ${PRICING_TERMS.paymentMethods.join(' or ')}.`,
+    answer: `Group fees are set for ${confirmedRegions.filter((r) => r !== 'Pakistan').join(', ')}. One-to-one fees outside Pakistan${indicativeRegions.includes('Malaysia') ? ', and all Malaysia fees,' : ''} are shown as indicative currency conversions of the Pakistan fee. For any other country, the US dollar figures apply (indicative): ${formatFee(usdGroup.igcse, 'USD')}–${formatFee(usdGroup.aLevel, 'USD')} USD per subject per month for group classes and ${formatFee(usdOne.igcse, 'USD')}–${formatFee(usdOne.aLevel, 'USD')} USD per one-to-one class. IB is one-to-one at ${IB_PRICING.perClass.toLocaleString('en-US')} ${IB_PRICING.currency} per 1-hour class in Pakistan, converted indicatively for other currencies. There are no automatic currency conversions at checkout, because there is no checkout: fees are agreed by email and paid by ${PRICING_TERMS.paymentMethods.join(' or ')}.`,
   },
   {
     question: 'My country is not listed. Can my child still be taught?',
-    answer: 'Yes, if a teacher is available at a workable time for your time zone. Send a trial request with your country, time zone and preferred times; Marlbridge will tell you honestly whether it can offer a teacher and a time, and what the fee is, before anything is booked.',
+    answer: 'Yes. Teachers are available around the clock, so a time can be arranged for any time zone. Send a trial request with your country, time zone and preferred times; Marlbridge confirms a teacher, a time and the fee (the US dollar figures on the pricing page are the guide) before anything is booked.',
   },
   {
     question: 'Is the first class really free?',
@@ -162,7 +165,7 @@ const faq = faqNode(faqs);
     <Container>
       <h2 id="intl-time" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Time zones</h2>
       <p class="m-0 mb-6 max-w-[70ch] text-[15.5px] leading-[1.65] text-ink-mute">
-        Lahore is on UTC+5 all year. The table shows where a 5:00 pm local class falls in Lahore. Countries that use daylight saving (such as the UK, Egypt, Spain, the United States, Canada and parts of Australia) move by an hour for part of the year. The exact time is always agreed with the teacher before the first class.
+        Lahore is on UTC+5 all year. The table shows where a 5:00 pm local class falls in Lahore. Countries that use daylight saving (such as the UK, Egypt, Spain, the United States, Canada and parts of Australia) move by an hour for part of the year. {PRICING_TERMS.teacherAvailability} The exact time is always agreed with the teacher before the first class.
       </p>
       <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
         <table class="w-full min-w-[480px] max-w-[720px] border-collapse text-[15px]">
@@ -193,8 +196,8 @@ const faq = faqNode(faqs);
       <h2 id="intl-fees" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">How fees work</h2>
       <ul class="m-0 grid max-w-[80ch] list-none gap-4 p-0">
         <li class="m-0 rounded-sm border border-rule bg-white p-5"><p class="m-0 font-semibold text-navy-800">Confirmed</p><p class="m-0 mt-1 text-[15px] text-ink-mute">Group fees set by Marlbridge for {confirmedRegions.join(', ')}. The one-to-one fee is confirmed for Pakistan.</p></li>
-        <li class="m-0 rounded-sm border border-rule bg-white p-5"><p class="m-0 font-semibold text-navy-800">Indicative</p><p class="m-0 mt-1 text-[15px] text-ink-mute">Currency conversions of the Pakistan fee, shown so you can see the approximate cost in your currency: one-to-one fees outside Pakistan, and all Malaysia fees. The exact fee is confirmed in writing before any payment.</p></li>
-        <li class="m-0 rounded-sm border border-rule bg-white p-5"><p class="m-0 font-semibold text-navy-800">On enquiry</p><p class="m-0 mt-1 text-[15px] text-ink-mute">Every other country, and IB outside Pakistan ({IB_PRICING.perClass.toLocaleString('en-US')} {IB_PRICING.currency} per class is the Pakistan IB fee). Marlbridge confirms the fee in writing.</p></li>
+        <li class="m-0 rounded-sm border border-rule bg-white p-5"><p class="m-0 font-semibold text-navy-800">Indicative</p><p class="m-0 mt-1 text-[15px] text-ink-mute">Currency conversions of the Pakistan fee, shown so you can see the approximate cost in your currency: one-to-one and IB fees outside Pakistan, all Malaysia fees, and US dollar figures for every other country. The exact fee is confirmed in writing before any payment.</p></li>
+        <li class="m-0 rounded-sm border border-rule bg-white p-5"><p class="m-0 font-semibold text-navy-800">Every other country: US dollars</p><p class="m-0 mt-1 text-[15px] text-ink-mute">Group classes {formatFee(usdGroup.igcse, 'USD')}–{formatFee(usdGroup.aLevel, 'USD')} USD per subject per month; one-to-one {formatFee(usdOne.igcse, 'USD')}–{formatFee(usdOne.aLevel, 'USD')} USD per class; IB {formatFee(usdIb.perClass, 'USD')} USD per 1-hour class (the Pakistan IB fee is {IB_PRICING.perClass.toLocaleString('en-US')} {IB_PRICING.currency}). All indicative.</p></li>
       </ul>
       <p class="m-0 mt-5 max-w-[70ch] text-[15px] text-ink-mute">All figures, discounts and terms are on the <a href={routes.pricing} class="underline decoration-gold-500 underline-offset-2">pricing page</a>. {PRICING_TERMS.billing} {PRICING_TERMS.cancellationPolicy}</p>
     </Container>

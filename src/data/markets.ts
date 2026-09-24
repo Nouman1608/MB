@@ -103,7 +103,7 @@ export const MARKETS: readonly Market[] = [
       {
         question: 'What time would classes be in the UAE?',
         answer:
-          'The UAE is one hour behind Lahore all year, so a 5:00 pm class in Dubai or Abu Dhabi is 6:00 pm in Lahore. After-school and weekend times are agreed with the teacher before the first class.',
+          'The UAE is one hour behind Lahore all year, so a 5:00 pm class in Dubai or Abu Dhabi is 6:00 pm in Lahore. Teachers are available 24 hours a day, 7 days a week, and the time is agreed with the teacher before the first class.',
       },
       {
         question: 'Can my child be taught for Pearson Edexcel International GCSE or International A Level?',
@@ -113,7 +113,7 @@ export const MARKETS: readonly Market[] = [
       {
         question: 'Is IB tuition available in the UAE?',
         answer:
-          'IB Diploma and MYP tuition is one-to-one only. A fixed IB fee is published for Pakistan only; for the UAE, Marlbridge confirms the IB fee in writing when you enquire.',
+          'IB Diploma and MYP tuition is one-to-one only, in 1-hour classes. The IB fee is set in Pakistan rupees; the UAE figure on this page is an indicative conversion, and the exact fee is confirmed in writing before any payment.',
       },
     ],
   },
@@ -144,12 +144,12 @@ export const MARKETS: readonly Market[] = [
       {
         question: 'What time would classes be in Qatar?',
         answer:
-          'Qatar is two hours behind Lahore all year, so a 5:00 pm class in Doha is 7:00 pm in Lahore. After-school and weekend times are agreed with the teacher before the first class.',
+          'Qatar is two hours behind Lahore all year, so a 5:00 pm class in Doha is 7:00 pm in Lahore. Teachers are available 24 hours a day, 7 days a week, and the time is agreed with the teacher before the first class.',
       },
       {
         question: 'My child is in an IB school in Doha. Can Marlbridge help?',
         answer:
-          'IB Diploma tuition is available one-to-one in the subjects listed on the IB board page, and MYP tuition in Mathematics, Sciences and Language Acquisition. Some IB subject pages, such as MYP Individuals and Societies, have free study resources but no classes at the moment. The IB fee for Qatar is confirmed in writing when you enquire.',
+          'IB Diploma tuition is available one-to-one in the subjects listed on the IB board page, and MYP tuition in Mathematics, Sciences and Language Acquisition. Some IB subject pages, such as MYP Individuals and Societies, have free study resources but no classes at the moment. IB classes are 1 hour each; the Qatar IB figure on this page is an indicative conversion of the Pakistan fee, confirmed in writing before any payment.',
       },
       {
         question: 'What does tuition cost from Qatar?',
@@ -185,7 +185,7 @@ export const MARKETS: readonly Market[] = [
       {
         question: 'What time would classes be in Malaysia?',
         answer:
-          'Malaysia is three hours ahead of Lahore all year, so a 5:00 pm class in Kuala Lumpur is 2:00 pm in Lahore, well within the Lahore teaching day. Times are agreed with the teacher before the first class.',
+          'Malaysia is three hours ahead of Lahore all year, so a 5:00 pm class in Kuala Lumpur is 2:00 pm in Lahore. Teachers are available 24 hours a day, 7 days a week. Times are agreed with the teacher before the first class.',
       },
       {
         question: 'Why are the Malaysia fees marked "indicative"?',

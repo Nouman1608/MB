@@ -91,6 +91,9 @@ export const FX_RATES: readonly FxRate[] = [
   // D-297 -- added 2026-09-23 for the Malaysia rows (owner request, same
   // source as the rows above; that day's rate: 1 PKR = 0.014703 MYR).
   { currency: 'MYR', pkrPerUnit: 68.01 },
+  // D-311 -- added 2026-09-24 for the US dollar rows (owner request, same
+  // source; that day's rate: 1 USD = 276.970859 PKR).
+  { currency: 'USD', pkrPerUnit: 276.97 },
 ] as const;
 
 /** How many days after FX_RATE_ASOF_DATE the snapshot is considered stale

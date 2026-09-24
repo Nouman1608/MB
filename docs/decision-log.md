@@ -13655,3 +13655,26 @@ Owner request on 2026-09-24 ("okay do both"), after the D-309 end-to-end test pa
 | Subject list | `src/components/tools/SubscribeBox.astro` | The subject of the page being read stays pre-ticked and visible; all other subjects for the chosen qualification move into a folded "Add other subjects (n)" list ("Choose subjects (n)" when nothing is pre-ticked). On a phone the box drops from about 50 tickboxes to one. Ticked subjects inside the folded list are still sent. The pre-tick survives the form reset after a successful sign-up. |
 | GA4 | (GA4 admin, not code) | To mark `newsletter_subscribe_confirmed` as a key event (alongside `generate_lead` and `whatsapp_click`). Checked 2026-09-24: GA4 has not yet listed the event (its list only shows events already processed, usually within 24-48 hours of the first one), so the star is added once it appears. |
 
+
+## D-311 - IB fee Rs 6,000 per 1-hour class; US dollar prices; teachers available 24/7 (2026-09-24)
+
+**Owner instructions (chat, 24 Sep 2026):**
+
+- "IB classes will be one to one only and the charges are Rs 6000 per class 1 hour class each you can do the conversion"
+- "we have teachers available 24/7"
+- "sure use the USD price"
+
+| Change | Files |
+|---|---|
+| IB fee is Rs 6,000 per 1-hour one-to-one class (was Rs 5,000, D-009). `validate-fx-policy` approves the new base rate. | `src/data/pricing.ts`, `scripts/validate-fx-policy.mjs` |
+| New `IB_CONVERSIONS` table gives indicative IB fees for SAR, AED, QAR, KWD, BHD, OMR, GBP, EUR, MYR and USD, converted at the FX_RATES snapshot. A new check, [2f], fails the build if any row is not labelled indicative or drifts more than 8% from what FX_RATES implies. | `src/data/pricing.ts`, `scripts/validate-fx-policy.mjs` |
+| New US dollar rows ("Other countries"), all indicative: group US$69 (IGCSE) / US$87 (A Level) per subject per month; one-to-one US$13 / US$14 per class; IB US$22 per class. Rate 276.97 PKR per USD (open.er-api.com, 24 Sep 2026), added to FX_RATES. | `src/data/pricing.ts`, `src/data/fx-policy.ts` |
+| "Countries without a listed rate" now points families to the US dollar row instead of "enquire". | `PRICING_TERMS.unsupportedRegionNote` |
+| Pages updated: the country pages' IB row now shows the converted fee, marked Indicative, instead of "on enquiry"; the hub's fee principles and FAQs; the IB table on the pricing page; an IB column on the Gulf page and an IB row on the UK page; IB wording on programme pages. The market FAQs no longer say IB is "on enquiry". | `MarketPage.astro`, `markets.ts`, `international-tutoring`, `pricing`, `gulf`, `uk`, `programs/[slug]` |
+| The trial form's country list skips the "Other countries" pricing row and removes a duplicate Malaysia entry. Tuition-section fee tables asterisk indicative group rows. | `TrialRequestForm.astro`, `TuitionPanel.astro` |
+| New `PRICING_TERMS.teacherAvailability`: "Teachers are available 24 hours a day, 7 days a week…". It replaces the UK page's "later-evening Pakistan slots and weekends" constraint and appears on the hub, the country pages and in the market FAQs. | `pricing.ts`, `uk`, `international-tutoring`, `MarketPage.astro`, `markets.ts` |
+| The Arabic, Urdu and Bengali pricing pages lose the FAQ "my country is not listed", whose translated answer said unlisted countries are not priced. That is no longer true, and a correct translation needs a human translator (no machine translation). The US dollar row shows in their tables automatically. | `src/pages/[locale]/pricing/index.astro` |
+
+**Teacher data (same request).** `src/content/authors/` was compared with learnersacademy.com.pk/teachers/ (fetched 24 Sep 2026) and the owner's "Credentials of staff" file. All 19 people on both match what is already published (years of experience and previous schools). No change was needed. The file also names **Mureed Hussain** (28 years; SCIL, EPIC School Model Town, LGS MT). He is not on learnersacademy.com.pk and no subject is given, so no profile was created. Waiting on the owner: his subject(s) and a photo, or confirmation to publish without one.
+
+Business decisions register items 11, 12 and 13 are marked decided.
