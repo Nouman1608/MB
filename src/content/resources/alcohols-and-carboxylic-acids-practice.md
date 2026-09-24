@@ -35,6 +35,8 @@ featured: false
 
 Related: [Alcohols and Carboxylic Acids study guide](/resources/alcohols-and-carboxylic-acids/), which covers Topic 11.6 Alcohols and 11.7 Carboxylic acids for Cambridge IGCSE 0620 and O Level 5070.
 
+> **Tier note:** the question marked *(0620 Extended, 5070 required)* — naming and writing the formula of an ester — goes beyond 0620 Core. All other questions are answerable by a 0620 Core candidate.
+
 ---
 
 ## Questions
@@ -72,6 +74,18 @@ Related: [Alcohols and Carboxylic Acids study guide](/resources/alcohols-and-car
 
 ---
 
+**10.** Ethanol can be manufactured from ethene.
+
+**(a)** Name the other reactant. **[1]**
+
+**(b)** State the conditions used for this reaction. **[2]**
+
+**11.** *(0620 Extended, 5070 required)* Ethanoic acid reacts with methanol to form an ester.
+
+**(a)** Name the ester. **[1]**
+
+**(b)** Write the structural formula of the ester. **[1]**
+
 ## Answers
 
 **1.** **Fermentation** of aqueous glucose using yeast [1]; **catalytic addition of steam to ethene**, using an acid catalyst [1].
@@ -97,6 +111,16 @@ Related: [Alcohols and Carboxylic Acids study guide](/resources/alcohols-and-car
 
 **9. (a)** The **hydrochloric acid** reacts more vigorously (faster bubbling/effervescence) [1].
 **(b)** Hydrochloric acid is a **strong acid**, which **fully ionises** in water to give a high concentration of H⁺ ions [1]; ethanoic acid is a **weak acid**, which only **partially ionises**, giving a lower concentration of H⁺ ions at the same overall concentration, so it reacts more slowly [1].
+
+**10.** **(a)** **Steam** (water vapour) [1].
+**(b)** Any two of: a temperature of about **300 °C** [1]; a pressure of about **6000 kPa (60 atm)** [1]; an **acid catalyst** (phosphoric acid) [1]. Maximum 2 marks.
+
+*Examiner insight (June 2025):* many candidates gave the conditions for fermentation (yeast, 25–35 °C, no oxygen) instead. Keep the two methods separate. *Try the real question next:* Cambridge IGCSE Chemistry 0620, June 2025, Paper 32, Question 4.
+
+**11.** *(0620 Extended, 5070 required)* **(a)** **Methyl ethanoate** [1].
+**(b)** **CH₃COOCH₃** [1].
+
+*Examiner insight (June 2025):* the first part of an ester's name comes from the alcohol (methyl) and the second from the acid (ethanoate). A very common error was to draw the acid instead of the ester by putting the oxygen atom that links the two parts in the wrong place, giving a –COOH group. *Try the real question next:* Cambridge IGCSE Chemistry 0620, June 2025, Paper 43, Question 5.
 
 ---
 

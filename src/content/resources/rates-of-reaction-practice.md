@@ -78,6 +78,8 @@ Related: [Rates of Reaction revision notes](/resources/rates-of-reaction-revisio
 
 ---
 
+**8.** *(0620 Extended, 5070 required)* Use collision theory to explain why increasing the temperature increases the rate of a reaction. **[3]**
+
 ## Answers
 
 **1.** Any four: **concentration**, **temperature**, **surface area** of a solid, **pressure** of a gas, presence of a **catalyst** [1] [1] [1] [1]. (Light affects the rate of some reactions, e.g. photography and photosynthesis, but is not part of the closed list of five factors given in the 0620/5070 subject content, so is not creditable here.)
@@ -103,6 +105,10 @@ Related: [Rates of Reaction revision notes](/resources/rates-of-reaction-revisio
 **7.** *(0620 Extended, 5070 required)* **(a)** Nitrogen is obtained from the air; hydrogen from methane (natural gas) [1] [1].
 **(b)** Very high pressures are expensive to generate and maintain, and present safety risks, so 200 atm is a compromise between yield and cost/safety, not the highest pressure achievable [1] [1].
 **(c)** The catalyst speeds up both the forward and reverse reactions equally, so it lets equilibrium be reached quickly at a moderate temperature [1], without needing the higher temperature that would otherwise shift the equilibrium away from ammonia, since the forward reaction is exothermic [1].
+
+**8.** *(0620 Extended, 5070 required)* The **particles** have more kinetic energy and move faster [1], so they **collide more frequently** [1], and a **greater proportion of the particles (collisions) have energy equal to or greater than the activation energy**, so there are more successful collisions per unit time [1].
+
+*Examiner insight (June 2025):* answers lost marks by saying "kinetic energy increases" without linking it to the particles, and by writing that "particles have energy greater than the activation energy", which suggests all of them do. Only a greater proportion do. *Try the real question next:* Cambridge IGCSE Chemistry 0620, June 2025, Paper 42, Question 6.
 
 ---
 

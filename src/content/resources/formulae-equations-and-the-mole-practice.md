@@ -84,6 +84,14 @@ Related: [Formulae, Equations and the Mole revision notes](/resources/formulae-e
 
 ---
 
+**9.** Calculate the relative formula mass, *M*ᵣ, of calcium nitrate, Ca(NO₃)₂. [*A*ᵣ: Ca = 40, N = 14, O = 16] **[2]**
+
+**10.** *(0620 Extended, 5070 required)* 0.050 mol of calcium carbonate reacts completely with excess dilute hydrochloric acid.
+
+CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂
+
+Calculate the volume of carbon dioxide produced at room temperature and pressure, in cm³. (One mole of any gas occupies 24 dm³ at r.t.p.) **[2]**
+
 ## Answers
 
 **1. (a)** 4Al + 3O₂ → 2Al₂O₃ [1].
@@ -111,6 +119,14 @@ c = 0.100 ÷ 0.250 = **0.400 mol dm⁻³** [1].
 
 **8. (a)** (10.2 ÷ 12.0) × 100 [1] = **85.0%** [1]. The remaining 1.8 g is insoluble rock impurity that never reacted.
 **(b)** **Percentage purity** compares the mass of the pure substance actually present against the total mass of the sample, including impurities that were never meant to be there [1]; **percentage yield** compares the actual mass of product obtained in a reaction against the maximum mass the balanced equation predicts, assuming the reaction went to completion with no losses — a different comparison, since yield concerns how much of a reaction happened, not how clean the product is [1].
+
+**9.** Count the atoms: 1 × Ca, 2 × N and 6 × O (the 2 outside the bracket multiplies everything inside it) [1]. *M*ᵣ = 40 + (2 × 14) + (6 × 16) = 40 + 28 + 96 = **164** [1].
+
+*Examiner insight (June 2025):* a common error was to use proton numbers (for example 20 for calcium) instead of the relative atomic masses and the number of atoms in the formula, which gives very different answers. *Try the real question next:* Cambridge IGCSE Chemistry 0620, June 2025, Paper 32, Question 3.
+
+**10.** *(0620 Extended, 5070 required)* The mole ratio CaCO₃ : CO₂ is 1 : 1, so 0.050 mol of CO₂ is produced [1]. Volume = 0.050 × 24 = 1.2 dm³ = **1200 cm³** [1].
+
+*Examiner insight (June 2025):* a common error was to mix up 24 (for dm³) and 24 000 (for cm³), or to divide by the molar volume instead of multiplying. Check which unit the question asks for. *Try the real question next:* Cambridge IGCSE Chemistry 0620, June 2025, Paper 42, Question 4.
 
 ---
 

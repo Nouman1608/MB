@@ -67,6 +67,8 @@ Related: [Identification of Ions and Gases revision notes](/resources/identifica
 
 ---
 
+**10.** Describe how a flame test is used to show that a solid contains potassium ions, and give the result of the test. **[2]**
+
 ## Answers
 
 **1.** Lithium **red** [1]; sodium **yellow** [1]; potassium **lilac** [1]; calcium **orange-red** [1]; copper(II) **blue-green** [1].
@@ -94,6 +96,10 @@ Related: [Identification of Ions and Gases revision notes](/resources/identifica
 **8.** Add **aluminium foil** and **aqueous sodium hydroxide**, then **warm** [1]. **Ammonia gas** is released [1], confirmed by turning **damp red litmus paper blue** [1].
 
 **9.** The gas is **sulfur dioxide** [1]. A sulfite solid reacting with acid **produces sulfur dioxide gas** [1]; this is the same reducing gas that decolourises acidified potassium manganate(VII), so the solid gives the same positive result via the gas it releases [1].
+
+**10.** Dip a clean wire (nichrome or platinum), moistened with dilute hydrochloric acid, into the solid and hold it in a **hot (blue) Bunsen flame** [1]. Potassium ions give a **lilac** flame [1].
+
+*Examiner insight (June 2025):* many candidates did not know the flame colour for potassium. Learn all six: lithium red, sodium yellow, potassium lilac, calcium orange-red, barium light green, copper(II) blue-green. *Try the real question next:* Cambridge IGCSE Chemistry 0620, June 2025, Paper 32, Question 6.
 
 ---
 

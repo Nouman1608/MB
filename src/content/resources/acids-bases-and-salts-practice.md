@@ -76,6 +76,12 @@ Related: [Acids, Bases and Salts revision notes](/resources/acids-bases-and-salt
 
 ---
 
+**11.** *(0620 Extended, 5070 required)* 25.0 cm³ of sodium hydroxide solution is exactly neutralised by 20.0 cm³ of 0.100 mol/dm³ sulfuric acid.
+
+H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O
+
+Calculate the concentration of the sodium hydroxide solution in mol/dm³. **[3]**
+
 ## Answers
 
 **1.** An **acid** is a **proton (H⁺) donor** [1]; a **base** is a **proton acceptor** [1].
@@ -104,6 +110,10 @@ c = n ÷ V = 2.00 × 10⁻³ ÷ 0.0250 [1] = **0.0800 mol dm⁻³** [1].
 **(c) Copper(II) chloride** — by reacting the acid with an **excess insoluble solid** [1], since copper(II) carbonate is insoluble and copper(II) chloride is soluble, so the excess unreacted carbonate can simply be filtered off after the reaction [1].
 
 **10.** Adding water to white anhydrous copper(II) sulfate turns it **blue**, so it is used as a simple chemical test for the presence of water [1]; formally, the water becomes chemically combined within the crystal structure as **water of crystallisation** [1]. The hydrated formula is **CuSO₄·5H₂O** [1].
+
+**11.** *(0620 Extended, 5070 required)* Moles of H₂SO₄ = 0.100 × 20.0 ÷ 1000 = 0.00200 mol [1]. The mole ratio is 1 : 2, so moles of NaOH = 2 × 0.00200 = 0.00400 mol [1]. Concentration = 0.00400 ÷ (25.0 ÷ 1000) = **0.160 mol/dm³** [1].
+
+*Examiner insight (June 2025):* the 2 : 1 mole ratio was often overlooked, and volumes in cm³ were not converted to dm³ (divide by 1000). Write the ratio down before you calculate. *Try the real question next:* Cambridge IGCSE Chemistry 0620, June 2025, Paper 42, Question 6.
 
 ---
 

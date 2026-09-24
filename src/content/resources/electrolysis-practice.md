@@ -87,6 +87,12 @@ Related: [Electrolysis revision notes](/resources/electrolysis-revision-notes/)
 
 ---
 
+**10.** Concentrated aqueous sodium chloride is electrolysed using inert electrodes.
+
+**(a)** Name the product formed at the anode and the product formed at the cathode. **[2]**
+
+**(b)** Name a material that can be used for inert electrodes. **[1]**
+
 ## Answers
 
 **1.** The **breaking down of an ionic compound using electricity** [1]. The ions must be **free to move** to carry the current [1]; in a solid lattice the ions are **held in fixed positions** [1].
@@ -115,6 +121,11 @@ Disadvantages: hydrogen is **difficult and hazardous to store and transport**, b
 
 **9. (a)** Cathode: **hydrogen** [1] — a **lit splint** gives a **squeaky pop** [1]. Anode: **oxygen** [1] — a **glowing splint relights** [1].
 **(b)** **2 : 1** by volume, hydrogen to oxygen [1].
+
+**10.** **(a)** Anode (positive electrode): **chlorine** [1]. Cathode (negative electrode): **hydrogen** [1].
+**(b)** **Graphite** (carbon) or **platinum** [1].
+
+*Examiner insight (June 2025):* when labelling apparatus, the anode is the **electrode dipping into the electrolyte**, not the connecting wire; and products must be named correctly (hydrogen, not "H" or sodium). *Try the real question next:* Cambridge IGCSE Chemistry 0620, June 2025, Paper 31, Question 6.
 
 ---
 
