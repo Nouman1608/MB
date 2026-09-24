@@ -528,6 +528,10 @@ const sampleResources = tuitionPage
   : [];
 
 const classesOffered = offersClasses(c);
+/* D-326 -- taught hubs without a tuition section had no in-page route to the
+   free trial: the glance row said only "Yes" and the closing button went to
+   /tutoring/. Both now go to the trial form with this course pre-filled. */
+const hubTrialHref = `${routes.trial}?course=${encodeURIComponent(`${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`)}&source=hub`;
 // A resources-only combination (owner decision 2026-09-21) is not an
 // offered course, so it gets no Course structured data.
 const jsonLd = [
@@ -591,7 +595,7 @@ const jsonLd = [
       <dl class="m-0 grid gap-x-8 gap-y-4 text-[15px] sm:grid-cols-2 lg:grid-cols-3">
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Qualification</dt><dd class="m-0 mt-1 text-ink">{boardQualPhrase} {c.subject}</dd></div>
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Spec code</dt><dd class="m-0 mt-1 text-ink">{syllabus?.code ?? 'Being verified'}</dd></div>
-        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Does Marlbridge teach it?</dt><dd class="m-0 mt-1 text-ink">{classesOffered ? (tuitionPage ? <>Yes — <a href="#tuition" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">teachers, fees and a free trial</a></> : 'Yes') : 'Not at the moment — free study resources only'}</dd></div>
+        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Does Marlbridge teach it?</dt><dd class="m-0 mt-1 text-ink">{classesOffered ? (tuitionPage ? <>Yes — <a href="#tuition" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">teachers, fees and a free trial</a></> : <>Yes — <a href={hubTrialHref} data-cta="hub-trial-glance" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">request a free trial class</a></>) : 'Not at the moment — free study resources only'}</dd></div>
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Are resources available?</dt><dd class="m-0 mt-1 text-ink">{resources.length > 0 ? `Yes — ${resources.length} published` : 'Not yet — none published for this exact combination'}</dd></div>
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Is enrolment open?</dt><dd class="m-0 mt-1 text-ink">{!classesOffered ? 'No — classes are not currently offered in this subject' : enrolmentOpenFor('teaching') === 'enquire' ? 'Enquire to join — no online enrolment yet' : 'Not applicable'}</dd></div>
         {syllabus && (
@@ -992,8 +996,9 @@ const jsonLd = [
   {classesOffered ? (
     <CTA
       heading={`Studying ${boardQualPhrase} ${c.subject}? Tell us where the difficulty is.`}
-      buttonLabel={tuitionPage ? 'Request a free trial class' : 'Find Learning Support'}
-      buttonHref={tuitionPage ? `${routes.trial}?course=${encodeURIComponent(`${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`)}&source=tuition-page` : routes.tutoring}
+      buttonLabel="Request a free trial class"
+      buttonCta={tuitionPage ? 'tuition-page-trial-final' : 'hub-trial-final'}
+      buttonHref={tuitionPage ? `${routes.trial}?course=${encodeURIComponent(`${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`)}&source=tuition-page` : hubTrialHref}
       linkLabel="Studying outside Pakistan? Class times and fees for your country"
       linkHref="/international-tutoring/"
     />

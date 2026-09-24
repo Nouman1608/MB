@@ -100,7 +100,7 @@ export const TRIAL_AVAILABILITY = [
   'weekday-morning', 'weekday-afternoon', 'weekday-evening',
   'weekend-morning', 'weekend-afternoon', 'weekend-evening',
 ] as const;
-export const TRIAL_SOURCES = ['home', 'trial-page', 'teacher', 'tuition-page', 'diagnostic', 'resource', 'planner', 'practice', 'program', 'pricing', 'region', 'other'] as const;
+export const TRIAL_SOURCES = ['home', 'trial-page', 'teacher', 'tuition-page', 'hub', 'diagnostic', 'resource', 'planner', 'practice', 'program', 'pricing', 'region', 'other'] as const;
 
 const TRIAL_RULES: Record<string, (v: string) => boolean> = {
   qualification: (v) => (TRIAL_QUALIFICATIONS as readonly string[]).includes(v),

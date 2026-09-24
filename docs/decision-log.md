@@ -13957,3 +13957,35 @@ Also added: an O Level Physics space-physics practice file (5054 topic 6).
 | Footer resources menu: "10-Minute Diagnostics". | `src/data/navigation.ts` |
 | /practice/: description no longer says Chemistry, Physics and Mathematics only; "Six short questions" is now "Four to six"; link to the hub. | `src/pages/practice/index.astro` |
 | llms.txt lists the hub. | `public/llms.txt` |
+
+## D-326 - Put the free-trial route where visitors actually are (2026-09-24)
+
+**Owner request:** "start on the enquiries".
+
+**GA4, 27 Aug – 23 Sep 2026 (consenting visitors plus cookieless events).**
+
+- 760 users, 2,202 page views.
+- Of 850 pages viewed, resource pages take about 60% of views. Syllabus hubs take about 10% and `/subjects/` pages about 7%. `/trial/` had 38 views from 13 users, and `/pricing/` 11.
+- Funnel:
+  - `trial_cta_click`: 5 clicks from 4 users. The sources were `/tutoring/`, three resource pages and one author page.
+  - `trial_form_start`: 8, all on `/trial/`.
+  - `generate_lead`: 5, all on `/trial/`.
+  - `whatsapp_click`: 23 from 19 users, the largest channel. About half came from resource pages.
+- Only 100 users (13%) fired `scroll` (90% depth).
+- **Reading.** The trial form converts once people reach it: 13 users gave 11 form starts and 5 leads. The gap is getting there.
+  - On resource pages, the only trial link sat at the very foot of the page (98–99% of the way down), below the related grids.
+  - On the 130 taught hubs without a tuition section, there was no in-page trial link at all. The glance row said only "Yes", and the closing button went to `/tutoring/`.
+
+**Changes (no new claims; only where classes are genuinely offered, per D-296).**
+
+| Page | Change |
+|---|---|
+| 1,508 resource pages in taught subjects | One line added to the provenance box under the title: "Want a teacher for this? Marlbridge teaches {subject} online. Request a free trial class." It uses the same `trialHref` as the foot block, with `data-cta="resource-trial-top"`. The foot block is unchanged. Resources-only subjects get nothing. |
+| 130 taught hubs without a tuition section | The glance row now reads "Yes — request a free trial class" (`data-cta="hub-trial-glance"`). The closing button changes from "Find Learning Support" → `/tutoring/` to "Request a free trial class" → `/trial/?course=…&source=hub`, pre-filling the course. |
+| 5 tuition-section hubs | Unchanged route. The closing button is now measured (`tuition-page-trial-final`). |
+| `CTA.astro` | Optional `buttonCta` prop, so closing buttons can carry `data-cta` and count as `trial_cta_click`. |
+| `TRIAL_SOURCES` | Adds `hub`, so leads from hubs are attributed separately in `trial_source`. |
+
+The D-149 principle (no pop-ups or interstitials, and the material stays free) is kept: one text line, no modal.
+
+**Measure at day 30:** `trial_cta_click` by `cta_location` (`resource-trial-top` vs `resource-trial`; `hub-trial-glance` / `hub-trial-final`), and `generate_lead` by `trial_source` (`hub`, `resource`), against the figures above.
