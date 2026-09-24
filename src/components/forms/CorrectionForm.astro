@@ -26,6 +26,7 @@ import Select from './Select.astro';
 import Textarea from './Textarea.astro';
 import { FALLBACK_EMAIL } from '../../utils/forms/submit';
 import { site } from '../../data/site';
+import LazyTurnstile from './LazyTurnstile.astro';
 
 const mailto = 'mailto:' + FALLBACK_EMAIL;
 const turnstileSiteKey = site.turnstile.siteKey;
@@ -95,7 +96,7 @@ const ISSUE_TYPES = [
   <div data-form-status role="status" aria-live="polite" class="sm:col-span-2"></div>
 </form>
 
-{turnstileSiteKey && <script is:inline async src="https://challenges.cloudflare.com/turnstile/v0/api.js" defer></script>}
+{turnstileSiteKey && <LazyTurnstile />}
 
 <script>
   import { submitEnquiry } from '../../utils/forms/submit';

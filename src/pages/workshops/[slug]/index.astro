@@ -20,6 +20,7 @@ import { formatInZone, endIso, isUpcoming, TEACHING_TIME_ZONE } from '../../../u
 import { getEntry, render, type CollectionEntry } from 'astro:content';
 import { routes } from '../../../utils/urls/routes';
 import { site } from '../../../data/site';
+import LazyTurnstile from '../../../components/forms/LazyTurnstile.astro';
 
 export async function getStaticPaths() {
   return (await getWorkshops()).map((w) => ({ params: { slug: w.id }, props: { w } }));
@@ -130,7 +131,7 @@ const event = !isDraft(w) && d.status !== 'cancelled' ? [{
   </Section>
 </PageLayout>
 
-{canRegister && site.turnstile.siteKey && <script is:inline async defer src="https://challenges.cloudflare.com/turnstile/v0/api.js"></script>}
+{canRegister && site.turnstile.siteKey && <LazyTurnstile />}
 <script>
   import { applyLocalTimes, icsHref } from '../../../scripts/workshop-client';
   applyLocalTimes();

@@ -139,7 +139,23 @@ const gaId = site.analytics.ga4MeasurementId;
         if (banner) banner.remove();
       };
     </script>
-    <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`}></script>
+    {/* D-317 -- gtag.js is fetched after the page has loaded (Lighthouse,
+        24 Sep 2026: its main-thread work cost ~25 points of mobile Performance
+        on /uae/). gtag() calls above are queued in dataLayer, so consent
+        defaults, consent updates and the page_view are all sent once it
+        arrives -- nothing is lost, only delayed by a moment. */}
+    <script is:inline define:vars={{ gaId }}>
+      (function () {
+        function loadGtag() {
+          var s = document.createElement('script');
+          s.async = true;
+          s.src = 'https://www.googletagmanager.com/gtag/js?id=' + gaId;
+          document.head.appendChild(s);
+        }
+        if (document.readyState === 'complete') setTimeout(loadGtag, 0);
+        else window.addEventListener('load', function () { setTimeout(loadGtag, 0); });
+      })();
+    </script>
 
     <div
       data-consent-banner
