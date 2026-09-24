@@ -13720,3 +13720,49 @@ Owner request on 2026-09-24 ("complete all the sets in one go"), after D-312 was
 
 All six diagnostic sets are now paper-modelled. None is teacher-reviewed yet (`setReview` empty), and the pages say so.
 
+
+## D-315 - Titles for two pages that rank but get few clicks (2026-09-24)
+
+**Evidence.** Search Console, last 3 months, Pakistan:
+
+- `/resources/igcse-islamiyat-paper-1/`: position 8.5, 28 impressions, 0 clicks. It ranks for "igcse islamiyat syllabus 2027" (position 8.1) and "…2026" (position 9.3), but its title named neither the syllabus nor the years.
+- `/boards/cambridge/o-level/urdu-language/`: position 6.25, 12 impressions, 0 clicks. The query "3248 syllabus 2027" had 12 impressions. Its title had no year, because the linked Cambridge document is a single-year edition (`721463-2027-syllabus.pdf`) and the title logic only recognised year ranges such as `2025-2027`.
+
+| Change | Files |
+|---|---|
+| The Islamiyat Paper 1 resource gets `seoTitle` "IGCSE Islamiyat 0493 Paper 1: Syllabus Topics 2026–2027" and a matching `seoDescription`. The page covers the full 2026–2027 Paper 1 content, so both are accurate. | `src/content/resources/igcse-islamiyat-paper-1.md` |
+| Hub titles also recognise single-year editions from the official document's own file name. Affected: O Level Urdu 3247/3248 → "Syllabus 2027"; O Level Pakistan Studies 2059, IGCSE Pakistan Studies 0448 and O Level Geography 2217 → "Syllabus 2026". No year is guessed. | `src/pages/boards/[board]/[qualification]/[subject].astro` |
+
+Result to check at day 30: CTR on these two URLs. The volumes are small, so the decision should wait for a full month of data.
+
+## D-316 - Faster first render: Google Analytics and Turnstile load after the page (2026-09-24)
+
+**Evidence (Lighthouse 12, mobile, live site, 24 Sep 2026; repeated runs agree within a few points).**
+
+| Page | Performance | LCP |
+|---|---|---|
+| `/pakistan/` | 94 | 1.1 s |
+| `/boards/cambridge/igcse/physics/` | 95 | 1.9 s |
+| `/international-tutoring/` | 88 | 2.1 s |
+| `/uae/` | 62–70 | 5.0–5.4 s |
+| `/pricing/` | 62 | 5.1 s |
+| `/trial/` | 53–58 | 8.4 s |
+| A study resource (all 1,653 carry the revision-email box) | 56–60 | 8.3–8.5 s |
+
+Accessibility, Best Practices and SEO are 100 on every page. The LCP element is always the lead paragraph; the delay is render delay, not download. Two diagnostic runs showed the causes:
+
+- With Google Analytics, gtag.js and the Cloudflare beacon blocked, `/uae/` went from 66 to 91. gtag.js was the largest main-thread task on every page.
+- The slowest pages also load Cloudflare Turnstile `api.js`: `/trial/`, and every resource page through the revision-email box.
+
+| Change | Files |
+|---|---|
+| gtag.js is injected after the window `load` event. All `gtag()` calls (consent defaults, consent updates, `page_view`, custom events) are already queued in `dataLayer`, so nothing is dropped; they are sent once the script arrives. Consent handling is unchanged. | `src/components/analytics/ConsentAnalytics.astro` |
+| New `LazyTurnstile.astro` loads Turnstile `api.js` on the visitor's first interaction with any form (focus, tap, key) or 4 s after page load, whichever comes first. It replaces the five direct `<script src=…api.js>` tags. Turnstile renders `.cf-turnstile` elements whenever the script arrives, so widget behaviour is unchanged. | `LazyTurnstile.astro` (new), `SubscribeBox.astro`, `TrialRequestForm.astro`, `CorrectionForm.astro`, `EnquiryForm.astro`, `workshops/[slug]` |
+
+**Verified (headless Chromium against the build):**
+
+- `/trial/` has no Turnstile script at load; it appears as soon as the email field is clicked.
+- A resource page loads Turnstile after 4 s.
+- gtag.js is present right after load, and `dataLayer` holds the queued calls.
+
+Local Lighthouse, before → after: `/trial/` 88 → 93, TBT → 130 ms; the resource page and `/uae/` are 93 and 92. Live figures should be re-measured after deploy.

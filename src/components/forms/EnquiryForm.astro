@@ -6,6 +6,7 @@ import Textarea from './Textarea.astro';
 import { FALLBACK_EMAIL, type EnquiryKind } from '../../utils/forms/submit';
 import { site } from '../../data/site';
 import type { EnquiryFormLabels } from '../../i18n/nav';
+import LazyTurnstile from './LazyTurnstile.astro';
 
 // v1.x CLOSURE Release WS1 (2026-08-26) -- every non-school enquiry kind
 // (student, tutoring, trial) now shares exactly one field set: Name,
@@ -169,7 +170,7 @@ const clientStrings = JSON.stringify({
   <div data-form-status role="status" aria-live="polite" class="sm:col-span-2"></div>
 </form>
 
-{turnstileSiteKey && <script is:inline async src="https://challenges.cloudflare.com/turnstile/v0/api.js" defer></script>}
+{turnstileSiteKey && <LazyTurnstile />}
 
 <script>
   import { submitEnquiry, type EnquiryKind } from '../../utils/forms/submit';

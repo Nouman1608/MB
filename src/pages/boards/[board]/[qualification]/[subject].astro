@@ -286,7 +286,10 @@ const docWord = c.qualificationSlug === 'ib-myp'
   ? 'Subject Guide'
   : c.boardSlug === 'cambridge' || c.boardSlug === 'ib' ? 'Syllabus' : 'Specification';
 const editionMatch = syllabus?.officialUrl.match(/(20\d{2})-(20\d{2})-syllabus/);
-const editionYears = editionMatch ? `${editionMatch[1]}–${editionMatch[2]}` : null;
+// D-315 -- single-year editions (e.g. 721463-2027-syllabus.pdf) name their
+// one exam year too; previously only YYYY-YYYY ranges were recognised.
+const singleYearMatch = editionMatch ? null : syllabus?.officialUrl.match(/-(20\d{2})-syllabus\.pdf$/);
+const editionYears = editionMatch ? `${editionMatch[1]}–${editionMatch[2]}` : singleYearMatch ? singleYearMatch[1] : null;
 const upcomingCode = assessments.find((a) => a.specStatus === 'future' && a.code !== syllabus?.code)?.code;
 const hasRealCode = Boolean(syllabus && /\d/.test(syllabus.code) && c.boardSlug !== 'ib');
 const codeLabel = hasRealCode ? `${syllabus!.code}${upcomingCode ? ` / ${upcomingCode}` : ''}` : '';

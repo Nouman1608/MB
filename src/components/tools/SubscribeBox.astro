@@ -13,6 +13,7 @@
 import { NEWSLETTER } from '../../data/newsletter';
 import { QUALIFICATIONS } from '../../data/academic/qualifications';
 import { site } from '../../data/site';
+import LazyTurnstile from '../forms/LazyTurnstile.astro';
 
 interface Props { source: string; preset?: { qualification?: string; courseId?: string } }
 const { source, preset } = Astro.props;
@@ -55,7 +56,7 @@ const uid = `sub-${source}`;
     </form>
   </section>
 )}
-{NEWSLETTER.enabled && site.turnstile.siteKey && <script is:inline async defer src="https://challenges.cloudflare.com/turnstile/v0/api.js"></script>}
+{NEWSLETTER.enabled && site.turnstile.siteKey && <LazyTurnstile />}
 {NEWSLETTER.enabled && (
   <script>
     import { loadCatalogue, courseLabel } from '../../scripts/catalogue-client';
