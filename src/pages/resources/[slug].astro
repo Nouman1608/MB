@@ -274,6 +274,17 @@ const jsonLd = [articleNode({
       </p>
     )}
     <p class="m-0 mt-1"><a href={correctionHref} class="underline decoration-gold-500 underline-offset-2">Found an error? Report a correction.</a></p>
+    {/* D-326 -- GA4 (27 Aug-23 Sep 2026): resource pages take ~60% of views,
+        but only ~13% of visitors scroll to the tuition block at the foot of
+        the page, and 3 trial clicks came from all resource pages combined.
+        One line here, only where classes are really offered (classesAvailable,
+        D-296); the full block at the foot stays as it was. */}
+    {classesAvailable && (
+      <p class="m-0 mt-1">
+        Want a teacher for this? Marlbridge teaches {subject?.data.title ?? 'this subject'} online.{' '}
+        <a href={trialHref} data-cta="resource-trial-top" class="font-medium text-navy-800 underline decoration-gold-500 underline-offset-2">Request a free trial class</a>.
+      </p>
+    )}
   </div>
 
   {/* Hidden filter tags -- see the comment above boardNames/qualificationNames.

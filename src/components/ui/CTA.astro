@@ -11,8 +11,10 @@ interface Props {
   /** Optional secondary text link under the button (D-305). */
   linkLabel?: string;
   linkHref?: string;
+  /** Optional data-cta value for the button, so trial clicks are measured (D-326). */
+  buttonCta?: string;
 }
-const { heading, buttonLabel, buttonHref, surface = 'navy', linkLabel, linkHref } = Astro.props;
+const { heading, buttonLabel, buttonHref, surface = 'navy', linkLabel, linkHref, buttonCta } = Astro.props;
 ---
 {surface === 'navy' ? (
   <Section surface="navy" spacing="md" searchIgnore>
@@ -20,7 +22,7 @@ const { heading, buttonLabel, buttonHref, surface = 'navy', linkLabel, linkHref 
       <h2 class="m-0 max-w-[26ch] font-display text-[length:var(--text-serif-h2)] font-normal leading-[1.14] tracking-[-0.02em] text-white">
         {heading}
       </h2>
-      <Button href={buttonHref} variant="onDark" size="lg">{buttonLabel}</Button>
+      <Button href={buttonHref} variant="onDark" size="lg" data-cta={buttonCta}>{buttonLabel}</Button>
       {linkLabel && linkHref && (
         <a href={linkHref} class="text-[15px] text-white underline decoration-gold-500 underline-offset-4 hover:text-gold-500">{linkLabel}</a>
       )}
@@ -30,7 +32,7 @@ const { heading, buttonLabel, buttonHref, surface = 'navy', linkLabel, linkHref 
   <Section surface="ivory" spacing="md" searchIgnore border>
     <Container class="flex flex-wrap items-baseline justify-between gap-x-10 gap-y-4">
       <p class="m-0 max-w-[62ch] text-[17px] leading-[1.6] text-ink-mute">{heading}</p>
-      <Button href={buttonHref} variant="secondary">{buttonLabel}</Button>
+      <Button href={buttonHref} variant="secondary" data-cta={buttonCta}>{buttonLabel}</Button>
       {linkLabel && linkHref && (
         <a href={linkHref} class="basis-full text-[15px] text-navy-800 underline decoration-gold-500 underline-offset-4 hover:text-gold-600">{linkLabel}</a>
       )}
