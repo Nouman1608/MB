@@ -13886,3 +13886,29 @@ This saves about 102 KB on the first visit to any page. The two files downloaded
 3. The daily indexing-request task continues. It is capped at about 10 URLs a day by Google.
 
 **Check at day 30:** "Discovered – currently not indexed" count (661 on 21 Sep) and the September-published share.
+
+## D-323 - Wave-5 diagnostics: IGCSE Biology, A Level Biology, O Level Physics, Economics, Business and Computer Science (2026-09-24)
+
+**Why:** the owner asked to extend diagnostics to the remaining subjects with papers in the "Papers 2025" folder.
+
+**Sources (analysis only; D-109 policy unchanged):** the folder's most recent complete sets were used. No board text is reproduced; every question is original with new contexts and numbers. "Confidential Instructions" files were not opened.
+
+| Code | Papers analysed | Insight lines |
+|---|---|---|
+| 0610 IGCSE Biology | June 2024 Paper 42, mark scheme, examiner report (the folder has no June 2025 0610 papers) | Examiner / mark-scheme insights |
+| 9700 A Level Biology | June 2024 Paper 22, mark scheme, examiner report (no June 2025 9700 papers) | Examiner / mark-scheme insights |
+| 5054 O Level Physics | June 2025 Paper 22 (question paper only) | Tips only |
+| 2281 O Level Economics | June 2024 Paper 22, mark scheme, examiner report | Examiner / mark-scheme insights |
+| 7115 O Level Business | June 2024 Paper 12, mark scheme, examiner report | Examiner / mark-scheme insights |
+| 2210 O Level Computer Science | June 2025 Paper 12 and mark scheme | Mark-scheme insights / tips |
+
+| Change | Files |
+|---|---|
+| The six codes join `FLAGSHIP_DEFINITIONS` (new `/practice/<code>/` banks). | `src/utils/academic/index.ts` |
+| 22 new practice files (about 135 questions): 0610 respiration, coordination and response, reproduction, inheritance; 9700 cell membranes, transport in mammals, infectious diseases, immunity; 5054 thermal physics, waves, electricity and magnetism, nuclear physics; 2281 government and the macroeconomy, economic development, international trade; 7115 marketing, operations, finance, external influences; 2210 software, the internet, automated and emerging technologies. | `src/content/resources/*` |
+| Six sets: `0610/core` (4 questions, 15 marks), `9700/as` (5, 14), `5054/all-topics` (5, 16), `2281/all-topics` (5, 14), `7115/all-topics` (4, 14), `2210/all-topics` (5, 16). | `src/data/diagnostics.ts` |
+| The validator's Extended/Supplement wording check now covers 0610 as well as 0620. 0610 Supplement-only questions are tagged *(Extended)* and kept out of the Core set. | `scripts/validate-diagnostics.mjs` |
+
+**Checks on the content:** each subject was written from the papers, then checked by a separate reviewer for accuracy (every number recomputed), mark totals, insight support against the source text, and wording overlap with the papers. Stems that were close to the papers were reworded, and three A Level Biology scenarios that mirrored paper set-ups were replaced.
+
+**Status:** all six sets await teacher review. Tier tags on 0610 (for example placenta, implantation) were set from knowledge of the syllabus and should be confirmed by the reviewing teacher.
