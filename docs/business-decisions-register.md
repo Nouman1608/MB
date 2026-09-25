@@ -33,11 +33,11 @@ production by someone other than the implementer, with the date) · *open*
 
 | 21 | Multi-subject discount across levels | **Decided 2026-09-25 (D-331)** | Yes: IGCSE-rate and A-Level-rate subjects count together, e.g. 2 IGCSE + 1 A Level gets 20% off. The calculator and /pricing/ apply it | None |
 | 22 | Sibling discount with more than one child | **Decided 2026-09-25 (D-331); no cap confirmed 2026-09-25 (D-332)** | Each enrolled child gets 10% off their own fees, however many children are enrolled. The old "up to 2 siblings" wording is removed everywhere (en, ar, ur, bn) and a validator blocks it returning | None |
-| 23 | Boards and levels per teacher | **Levels decided 2026-09-25 (D-331); boards open** | All teachers teach all levels: every profile shows "Levels: All levels Marlbridge teaches". `boardsTaught` is still empty for all 20 | The exam boards each teacher currently teaches |
+| 23 | Boards and levels per teacher | **Decided 2026-09-25 (D-331 levels, D-333 boards and IB)** | All teachers teach all levels. Boards are recorded per teacher in `boardsTaught` (20 of 20), and 19 of 20 take IB students (not Javaid Iqbal Sabri). Profiles show both | None |
 | 24 | Notice for moving a confirmed trial class | **Decided 2026-09-25 (D-331)** | No notice period is required. Template 3 says so; since D-332 also the /trial/ FAQ (en, ar, ur, bn) and the success panel | None |
 | 25 | When group classes run | **Decided 2026-09-25 (D-332)** | Arranged per group: times are agreed with the families in each group and confirmed, in the family's time zone, before the trial. One-to-one can be any time (teachers available 24/7) | None |
 
-**Genuinely open owner items: 7, 8, 14, 16, 18, and the boards half of 23.** (21, 22, 24 and the levels half of 23 were decided on 25 Sep 2026, D-331.) Each needs one answer from
+**Genuinely open owner items: 7, 8, 14, 16, 18.** (21-24 were decided on 25 Sep 2026: D-331, D-333.) Each needs one answer from
 the owner; none needs a new question drafted.
 
 

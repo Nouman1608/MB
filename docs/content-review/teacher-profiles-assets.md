@@ -11,31 +11,30 @@ profile is the published Learners Academy faculty listing (`sourceUrl`), checked
 | Name, role, bio | 20 of 20 | none |
 | Photograph | 19 of 20 | Harris Khan (a neutral "Photo" placeholder labelled "not yet available" is shown) |
 | Subjects taught | 20 of 20 | none |
-| Years of experience | 18 of 20 | Harris Khan, Lubna Waseem |
+| Years of experience | 19 of 20 (Lubna Waseem's 22 years added 25 Sep 2026, D-333) | Harris Khan (owner: leave as it is) |
 | Previous schools | 17 of 20 | Harris Khan, Harris Zaman, Lubna Waseem |
-| **Exam boards taught** | **0 of 20** | all (`boardsTaught` is empty; the faculty listing does not break coverage down by board) |
-| Levels taught | 20 of 20: owner decision of 25 Sep 2026 (D-331) that all teachers teach all levels; every profile shows "All levels Marlbridge teaches" | none (`qualificationsTaught` stays empty; a per-teacher list would override the statement) |
+| Exam boards taught | 20 of 20, from the owner's answers of 25 Sep 2026 (D-333) | none |
+| IB (MYP and Diploma) | 19 of 20 take IB students (D-333); Javaid Iqbal Sabri does not | none |
+| Levels taught | 20 of 20: owner decision of 25 Sep 2026 (D-331) that all teachers teach all levels; every profile lists IGCSE / GCSE / O Level and AS & A Level, plus IB for the 19 teachers who take IB students (D-333) | none (`qualificationsTaught` stays empty; a per-teacher list would override the statement) |
 | Teaching approach, learner needs suited | 0 of 20 (beyond the one-line bio) | all |
 | Formats and fees | 20 of 20, from the site-wide pricing data (added to every profile on 25 Sep) | none |
 | Availability | Site-wide statement only (D-311: "teachers are available 24/7") | per-teacher availability is not recorded |
 | Testimonials or results per teacher | 0 of 20 | all (no per-teacher evidence with permission exists) |
 | Teaching video or introduction | 0 of 20 (`src/content/videos` holds only the unpublished template) | all |
 
-Because boards are not recorded, profiles do **not** say which boards a teacher
-covers, and resource and hub pages do **not** link a named teacher to a board-specific course.
+Profiles now list each teacher's boards (and IB where they take IB students). Resource and hub
+pages still do **not** suggest a named teacher for a board-specific course; that would be a
+separate change.
 The trial form treats a named teacher as a preference that staff check (see
 `docs/operations/trial-follow-up.md`).
 
 ## What the owner can supply, smallest first
 
-1. **Boards per teacher.** For each teacher, the boards (Cambridge, Edexcel, AQA…) they
-   currently teach. Levels are settled: all teachers teach all levels (D-331). With that,
-   profiles list them, and resource and hub pages can suggest a teacher for that exact course.
-2. **Harris Khan:** a photograph, and years of experience if he wants it shown.
-3. **Lubna Waseem:** years of experience, if she wants it shown.
-4. **Optional, per teacher:** two or three sentences on how they teach and which learners
+1. **Harris Khan:** a photograph and years of experience, when available (owner said on
+   25 Sep 2026 to leave his profile as it is for now).
+2. **Optional, per teacher:** two or three sentences on how they teach and which learners
    they suit, in their own words, approved by them.
-5. **Introduction videos** (brief below). Profiles already render a lessons section once a
+3. **Introduction videos** (brief below). Profiles already render a lessons section once a
    video is published (D-286); none is shown until one exists.
 
 ## Filming brief: 60-90 second teacher introduction

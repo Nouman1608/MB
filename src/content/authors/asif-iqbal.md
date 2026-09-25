@@ -7,7 +7,7 @@ credentials: []
 image: "/images/faculty/asif-iqbal.jpg"
 entityType: person
 subjectsTaught: ["Business Studies"]
-boardsTaught: []
+boardsTaught: ["cambridge", "edexcel", "ib"]
 qualificationsTaught: []
 yearsExperience: 17
 previousSchools: ["LACAS JT", "BCP ALJT", "BCP Gulberg", "The City School Ravi Campus", "SICAS", "BISC"]

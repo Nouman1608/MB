@@ -7,7 +7,7 @@ credentials: []
 image: "/images/faculty/arslan-tanvir.jpg"
 entityType: person
 subjectsTaught: ["Mathematics"]
-boardsTaught: []
+boardsTaught: ["cambridge", "edexcel", "ib"]
 qualificationsTaught: []
 yearsExperience: 10
 previousSchools: ["BISC", "CornerStone"]

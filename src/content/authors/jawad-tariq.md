@@ -7,7 +7,7 @@ credentials: []
 image: "/images/faculty/jawad-tariq.jpg"
 entityType: person
 subjectsTaught: ["Physics"]
-boardsTaught: []
+boardsTaught: ["cambridge", "ib"]
 qualificationsTaught: []
 yearsExperience: 11
 previousSchools: ["LGS JT", "LGS Bahria Town", "UCL", "European School of Excellence", "SICAS", "Crescent", "CornerStone"]

@@ -6,7 +6,7 @@ bio: >-
 credentials: []
 entityType: person
 subjectsTaught: ["Computer Science", "ICT"]
-boardsTaught: []
+boardsTaught: ["cambridge", "edexcel", "aqa", "oxfordaqa", "ib"]
 qualificationsTaught: []
 previousSchools: []
 isReviewer: false

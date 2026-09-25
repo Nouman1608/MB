@@ -7,7 +7,7 @@ credentials: []
 image: "/images/faculty/sajawal-zahid.jpg"
 entityType: person
 subjectsTaught: ["Mathematics"]
-boardsTaught: []
+boardsTaught: ["edexcel", "aqa", "oxfordaqa", "ib"]
 qualificationsTaught: []
 yearsExperience: 5
 previousSchools: ["King's House School", "Learners Academy", "ESE"]

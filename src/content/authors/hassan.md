@@ -7,7 +7,7 @@ credentials: []
 image: "/images/faculty/hassan.jpg"
 entityType: person
 subjectsTaught: ["Physics"]
-boardsTaught: []
+boardsTaught: ["cambridge", "edexcel", "aqa", "oxfordaqa", "ib"]
 qualificationsTaught: []
 yearsExperience: 8
 previousSchools: ["Adabistan-e-Soophia High School", "Lecole Mondiale"]

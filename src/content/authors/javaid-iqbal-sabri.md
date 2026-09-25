@@ -7,7 +7,7 @@ credentials: []
 image: "/images/faculty/javaid-iqbal-sabri.jpg"
 entityType: person
 subjectsTaught: ["Accounting"]
-boardsTaught: []
+boardsTaught: ["cambridge", "edexcel"]
 qualificationsTaught: []
 yearsExperience: 18
 previousSchools: ["BISC", "SICAS", "Froebel's", "ESE", "Beaconhouse", "LACAS", "LGS", "Roots", "SKANS"]
