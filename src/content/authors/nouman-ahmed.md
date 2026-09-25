@@ -7,7 +7,7 @@ credentials: []
 image: "/images/faculty/nouman-ahmed.jpg"
 entityType: person
 subjectsTaught: ["Chemistry"]
-boardsTaught: ["cambridge", "edexcel", "aqa", "oxfordaqa", "ib"]
+boardsTaught: ["cambridge", "edexcel", "aqa", "ocr", "oxfordaqa", "ib"]
 qualificationsTaught: []
 yearsExperience: 9
 previousSchools: ["Aitchison College", "BISC", "LGS", "Nordic", "Froebel's", "The City School", "Kaizen", "ESE"]

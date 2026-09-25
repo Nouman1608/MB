@@ -14204,3 +14204,22 @@ The D-149 principle (no pop-ups or interstitials, and the material stays free) i
 **Not changed.**
 - No teacher is named for these courses. D-334 still shows none, because no teacher is recorded for OCR or for OxfordAQA Islamiyat / Pakistan Studies.
 - Group fees, other one-to-one fees and IB fees are unchanged.
+
+---
+
+## D-336 - Teachers for OCR courses and OxfordAQA Islamiyat / Pakistan Studies (2026-09-25)
+
+**Status:** answered. **Asked:** in chat, 25 Sep 2026, after D-335. **Answered by the owner:** 25 Sep 2026.
+
+**Answers (one-to-one teaching, as in D-335).**
+- OCR Biology: Saad Zai and Harris Zaman.
+- OCR Chemistry: Nouman Ahmed.
+- OCR Physics: Iftikhar Azeemi.
+- OCR Mathematics: Muhammad Ghazali Siddiqui.
+- OCR Business and OCR Economics: Salman Ahmad.
+- OxfordAQA Islamiyat and Pakistan Studies: Azam Siddique.
+
+**Implemented.**
+- `ocr` is added to `boardsTaught` for Nouman Ahmed, Iftikhar Azeemi, Muhammad Ghazali Siddiqui, Saad Zai, Harris Zaman and Salman Ahmad. `oxfordaqa` is added for Azam Siddique.
+- Because D-334 lists teachers by subject and board, these teachers now appear on the matching OCR and OxfordAQA pages and show the board on their profiles.
+- Checked: no other page picks them up. There is no OCR Commerce or Statistics course. OxfordAQA World History does not match Azam's "History".

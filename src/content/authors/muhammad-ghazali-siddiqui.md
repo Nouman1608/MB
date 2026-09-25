@@ -7,7 +7,7 @@ credentials: []
 image: "/images/faculty/muhammad-ghazali-siddiqui.jpg"
 entityType: person
 subjectsTaught: ["Mathematics", "Statistics"]
-boardsTaught: ["cambridge", "edexcel", "aqa", "oxfordaqa", "ib"]
+boardsTaught: ["cambridge", "edexcel", "aqa", "ocr", "oxfordaqa", "ib"]
 qualificationsTaught: []
 yearsExperience: 25
 previousSchools: ["BISC", "Musab", "Grand Charter School", "LGS", "Adabistan-e-Soophia"]
