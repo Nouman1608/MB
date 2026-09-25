@@ -10,7 +10,7 @@
  *   - group fees are per subject, per month, at the IGCSE or A Level rate;
  *   - 20% off for 3 or more subjects, 10% sibling discount, added together
  *     (D-083), group classes only;
- *   - one-to-one and IB are per class, never discounted.
+ *   - one-to-one, IB and the D-335 one-to-one-only courses are per class, never discounted.
  * Owner decisions of 25 Sep 2026 (D-331, register items 21 and 22):
  *   - IGCSE-rate and A-Level-rate subjects count together towards the
  *     3-subject discount (e.g. 2 IGCSE + 1 A Level gets 20% off);
@@ -19,10 +19,11 @@
  */
 import {
   REGION_PRICING, ONE_TO_ONE_PRICING, IB_PRICING, IB_USD_PRICING, PRICING_TERMS,
+  ONE_TO_ONE_ONLY_PRICING, oneToOneOnlyConversionFor,
   THREE_DECIMAL_CURRENCIES, ibConversionFor, isIndicative, formatFee,
 } from '../../data/pricing.ts';
 
-export type Format = 'group' | 'one-to-one' | 'ib';
+export type Format = 'group' | 'one-to-one' | 'ib' | 'one-to-one-only';
 export type Tier = 'igcse' | 'aLevel';
 
 export interface CalcInput {
@@ -124,6 +125,26 @@ export function calculateFee(input: CalcInput): CalcResult {
     const total = roundFor(row.currency, perClass * n);
     lines.push({ label: `× ${n} class${n > 1 ? 'es' : ''}`, amount: total });
     return { ok: true, currency: row.currency, period: `for ${n} class${n > 1 ? 'es' : ''}`, lines, subtotal: total, discountPercent: 0, discountAmount: 0, total, indicative, notes, needsQuote: false };
+  }
+
+  // D-335: OCR courses and OxfordAQA Islamiyat / Pakistan Studies -- one-to-one only, per class, no discounts.
+  if (input.format === 'one-to-one-only') {
+    let currency = ONE_TO_ONE_ONLY_PRICING.currency as string;
+    let perClass = ONE_TO_ONE_ONLY_PRICING.perClass as number;
+    let indicative = false;
+    if (input.region !== ONE_TO_ONE_ONLY_PRICING.region) {
+      const conv = oneToOneOnlyConversionFor(input.region);
+      if (!conv) return empty('', 'per class', ['There is no price for this region. Please ask us for a written quote.']);
+      currency = conv.currency; perClass = conv.perClass; indicative = true;
+    }
+    notes.push(`${ONE_TO_ONE_ONLY_PRICING.courses}: ${ONE_TO_ONE_ONLY_PRICING.deliveryMode}`);
+    if (indicative) notes.push('Indicative: a currency conversion of the Pakistan fee. The exact fee is confirmed in writing before any payment.');
+    const lines = [{ label: 'One-to-one class', amount: perClass }];
+    const n = clampInt(input.classes, 200);
+    if (!n) return { ok: true, currency, period: 'per class', lines, subtotal: perClass, discountPercent: 0, discountAmount: 0, total: perClass, indicative, notes, needsQuote: false };
+    const total = roundFor(currency, perClass * n);
+    lines.push({ label: `× ${n} class${n > 1 ? 'es' : ''}`, amount: total });
+    return { ok: true, currency, period: `for ${n} class${n > 1 ? 'es' : ''}`, lines, subtotal: total, discountPercent: 0, discountAmount: 0, total, indicative, notes, needsQuote: false };
   }
 
   // IB: one-to-one only, per class, no discounts.

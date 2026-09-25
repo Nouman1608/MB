@@ -83,3 +83,17 @@ test('unknown region or no subjects: no invented price', () => {
   assert.equal(calculateFee({ region: 'Atlantis', format: 'group', igcseSubjects: 2 }).ok, false);
   assert.equal(calculateFee({ region: 'Pakistan', format: 'group' }).ok, false);
 });
+
+test('one-to-one-only courses (D-335): Rs 6,000 per class, conversions elsewhere, no discounts', () => {
+  const pk = calculateFee({ region: 'Pakistan', format: 'one-to-one-only', classes: 4 });
+  assert.equal(pk.currency, 'PKR');
+  assert.equal(pk.total, 24000);
+  assert.equal(pk.indicative, false);
+  const us = calculateFee({ region: 'Other countries', format: 'one-to-one-only' });
+  assert.equal(us.currency, 'USD');
+  assert.equal(us.total, 22);
+  assert.equal(us.indicative, true);
+  const kw = calculateFee({ region: 'Kuwait', format: 'one-to-one-only', classes: 3 });
+  assert.equal(kw.total, 19.98);
+  assert.equal(kw.discountPercent, 0);
+});

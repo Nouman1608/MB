@@ -29,6 +29,8 @@
 import {
   IB_PRICING,
   IB_CONVERSIONS,
+  ONE_TO_ONE_ONLY_PRICING,
+  ONE_TO_ONE_ONLY_CONVERSIONS,
   IB_USD_PRICING,
   ONE_TO_ONE_PRICING,
   REGION_PRICING,
@@ -205,6 +207,31 @@ for (const row of IB_CONVERSIONS) {
     problems++;
   } else {
     console.log(`  ✓ IB_CONVERSIONS ${row.region} (${row.currency}): published ${row.perClass}, FX_RATES implies ${implied} (${diffPercent.toFixed(1)}% drift)`);
+  }
+}
+
+// --- [2g] D-335: one-to-one-only course conversions -------------------------
+console.log(`\n[2g] One-to-one-only course fee conversions are labelled indicative and within ${FX_TOLERANCE_PERCENT}% of what FX_RATES implies`);
+for (const row of ONE_TO_ONE_ONLY_CONVERSIONS) {
+  if (row.status !== 'indicative') {
+    console.log(`  ✗ ONE_TO_ONE_ONLY_CONVERSIONS ${row.region}: must be status 'indicative'.`);
+    problems++;
+    continue;
+  }
+  let implied;
+  try {
+    implied = impliedConvertedAmount(ONE_TO_ONE_ONLY_PRICING.perClass, row.currency);
+  } catch (e) {
+    console.log(`  ✗ ONE_TO_ONE_ONLY_CONVERSIONS ${row.region} (${row.currency}): ${e instanceof Error ? e.message : String(e)}`);
+    problems++;
+    continue;
+  }
+  const diffPercent = implied === 0 ? 0 : (Math.abs(row.perClass - implied) / Math.abs(implied)) * 100;
+  if (diffPercent > FX_TOLERANCE_PERCENT) {
+    console.log(`  ✗ ONE_TO_ONE_ONLY_CONVERSIONS ${row.region} (${row.currency}): published ${row.perClass}, FX_RATES implies ${implied} -- ${diffPercent.toFixed(1)}% drift.`);
+    problems++;
+  } else {
+    console.log(`  ✓ ONE_TO_ONE_ONLY_CONVERSIONS ${row.region} (${row.currency}): published ${row.perClass}, FX_RATES implies ${implied} (${diffPercent.toFixed(1)}% drift)`);
   }
 }
 
