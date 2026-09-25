@@ -11,12 +11,10 @@
  *   - 20% off for 3 or more subjects, 10% sibling discount, added together
  *     (D-083), group classes only;
  *   - one-to-one and IB are per class, never discounted.
- * Two things are NOT recorded, so the calculator says so instead of guessing:
- *   - whether IGCSE-rate and A-Level-rate subjects count together towards the
- *     3-subject discount (a "mixed" basket is shown without that discount and
- *     flagged for a written quote);
- *   - how the sibling discount is split across more than one child's bill (the
- *     calculator works for one learner at a time, as the published example does).
+ * Owner decisions of 25 Sep 2026 (D-331, register items 21 and 22):
+ *   - IGCSE-rate and A-Level-rate subjects count together towards the
+ *     3-subject discount (e.g. 2 IGCSE + 1 A Level gets 20% off);
+ *   - with siblings, each enrolled child gets 10% off their own fees.
  * No personal information is asked for.
  */
 import {
@@ -91,19 +89,16 @@ export function calculateFee(input: CalcInput): CalcResult {
     if (!lines.length) return empty(row.currency, 'per month', ['Choose at least one subject.'], false);
 
     let discountPercent = 0;
-    let needsQuote = false;
+    const needsQuote = false;
     const total = n1 + n2;
     const { minSubjects, percentOff: multiPct } = PRICING_TERMS.multiSubjectDiscount;
-    if (total >= minSubjects && n1 > 0 && n2 > 0) {
-      needsQuote = true;
-      notes.push(`Whether subjects at the IGCSE rate and the A Level rate count together towards the ${multiPct}% multi-subject discount has not been set, so it is not applied here. We will confirm it in writing.`);
-    } else if (total >= minSubjects) {
+    if (total >= minSubjects) {
       discountPercent += multiPct;
-      notes.push(`${multiPct}% multi-subject discount: ${minSubjects} or more subjects taken together.`);
+      notes.push(`${multiPct}% multi-subject discount: ${minSubjects} or more subjects taken together, at either level (IGCSE and A Level subjects count together).`);
     }
     if (input.sibling) {
       discountPercent += PRICING_TERMS.siblingDiscount.percentOff;
-      notes.push(`${PRICING_TERMS.siblingDiscount.percentOff}% sibling discount (up to ${PRICING_TERMS.siblingDiscount.maxSiblings} siblings enrolled together), applied to this learner's fees. For more than one child, we confirm each child's bill in writing.`);
+      notes.push(`${PRICING_TERMS.siblingDiscount.percentOff}% sibling discount (up to ${PRICING_TERMS.siblingDiscount.maxSiblings} siblings enrolled together), applied to this learner's fees. Each enrolled brother or sister also gets ${PRICING_TERMS.siblingDiscount.percentOff}% off their own fees.`);
     }
     if (discountPercent > PRICING_TERMS.multiSubjectDiscount.percentOff && input.sibling) {
       notes.push('The two discounts are added together, not applied one after the other.');

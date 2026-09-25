@@ -22,7 +22,7 @@ const compareRows: [string, string, string, string][] = [
   ['Class length', PRICING_TERMS.classFormat.group.split(',')[0], '1 hour', '1 hour'],
   ['How often', '3 classes a week, per subject', 'Up to you: as many classes as you book', 'Up to you: as many classes as you book'],
   ['Class size', `Up to ${PRICING_TERMS.maxGroupSize} students`, 'One student', 'One student'],
-  ['Discounts', `${PRICING_TERMS.multiSubjectDiscount.percentOff}% for ${PRICING_TERMS.multiSubjectDiscount.minSubjects}+ subjects; ${PRICING_TERMS.siblingDiscount.percentOff}% sibling; the two add together`, 'None', 'None'],
+  ['Discounts', `${PRICING_TERMS.multiSubjectDiscount.percentOff}% for ${PRICING_TERMS.multiSubjectDiscount.minSubjects}+ subjects (IGCSE and A Level subjects count together); ${PRICING_TERMS.siblingDiscount.percentOff}% off each enrolled sibling's fees; the two add together`, 'None', 'None'],
   ['Free trial', 'A real group class', 'A real one-to-one class', 'A real one-to-one class'],
   ['Paying and stopping', `${PRICING_TERMS.billing} ${PRICING_TERMS.cancellationPolicy}`, `${PRICING_TERMS.billing} ${PRICING_TERMS.cancellationPolicy}`, `${PRICING_TERMS.billing} ${PRICING_TERMS.cancellationPolicy}`],
   ['Other countries', 'Set by Marlbridge for the Gulf, UK and Europe; indicative conversions for Malaysia and other countries', 'Set by Marlbridge for Pakistan and US dollars; indicative conversions elsewhere', 'Set for Pakistan and US dollars; indicative conversions for the listed regions'],
@@ -36,7 +36,7 @@ const faqs = [
   },
   {
     question: 'Are there discounts for multiple subjects or siblings?',
-    answer: `Yes. A ${PRICING_TERMS.multiSubjectDiscount.percentOff}% discount applies for ${PRICING_TERMS.multiSubjectDiscount.minSubjects} or more subjects taken together, and a ${PRICING_TERMS.siblingDiscount.percentOff}% sibling discount applies for up to ${PRICING_TERMS.siblingDiscount.maxSiblings} siblings enrolled at the same time. These two discounts combine if a family qualifies for both: they are added together (${PRICING_TERMS.multiSubjectDiscount.percentOff}% + ${PRICING_TERMS.siblingDiscount.percentOff}% = ${combinedPercent}% off in total), not applied one after the other. For example, ${example.subjectCount} subjects in ${example.region} at ${formatFee(example.perSubject, example.currency)} ${example.currency}/subject/month comes to ${formatFee(example.beforeDiscount, example.currency)} ${example.currency}/month before any discount; with both discounts applied, that becomes ${formatFee(example.afterDiscount, example.currency)} ${example.currency}/month (${combinedPercent}% off). Both discounts apply to group classes only, not to one-to-one tuition.`,
+    answer: `Yes. A ${PRICING_TERMS.multiSubjectDiscount.percentOff}% discount applies for ${PRICING_TERMS.multiSubjectDiscount.minSubjects} or more subjects taken together, at either level (for example, 2 IGCSE subjects and 1 A Level subject), and a ${PRICING_TERMS.siblingDiscount.percentOff}% sibling discount applies for up to ${PRICING_TERMS.siblingDiscount.maxSiblings} siblings enrolled at the same time: each child gets ${PRICING_TERMS.siblingDiscount.percentOff}% off their own fees. These two discounts combine if a family qualifies for both: they are added together (${PRICING_TERMS.multiSubjectDiscount.percentOff}% + ${PRICING_TERMS.siblingDiscount.percentOff}% = ${combinedPercent}% off in total), not applied one after the other. For example, ${example.subjectCount} subjects in ${example.region} at ${formatFee(example.perSubject, example.currency)} ${example.currency}/subject/month comes to ${formatFee(example.beforeDiscount, example.currency)} ${example.currency}/month before any discount; with both discounts applied, that becomes ${formatFee(example.afterDiscount, example.currency)} ${example.currency}/month (${combinedPercent}% off). Both discounts apply to group classes only, not to one-to-one tuition.`,
   },
   {
     question: 'How long are classes, and how often?',
@@ -233,11 +233,11 @@ const faq = faqNode(faqs);
       <ul class="m-0 grid list-none gap-5 p-0 sm:grid-cols-3">
         <li class="m-0 rounded-sm border border-rule bg-white p-6">
           <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Multi-subject</p>
-          <p class="m-0 text-[17px] text-ink">{PRICING_TERMS.multiSubjectDiscount.percentOff}% off for {PRICING_TERMS.multiSubjectDiscount.minSubjects}+ subjects taken together.</p>
+          <p class="m-0 text-[17px] text-ink">{PRICING_TERMS.multiSubjectDiscount.percentOff}% off for {PRICING_TERMS.multiSubjectDiscount.minSubjects}+ subjects taken together, at either level: IGCSE and A Level subjects count together.</p>
         </li>
         <li class="m-0 rounded-sm border border-rule bg-white p-6">
           <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Sibling discount</p>
-          <p class="m-0 text-[17px] text-ink">{PRICING_TERMS.siblingDiscount.percentOff}% off for up to {PRICING_TERMS.siblingDiscount.maxSiblings} siblings enrolled together.</p>
+          <p class="m-0 text-[17px] text-ink">{PRICING_TERMS.siblingDiscount.percentOff}% off for up to {PRICING_TERMS.siblingDiscount.maxSiblings} siblings enrolled together. Each child gets {PRICING_TERMS.siblingDiscount.percentOff}% off their own fees.</p>
         </li>
         <li class="m-0 rounded-sm border border-rule bg-white p-6">
           <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Trial class</p>

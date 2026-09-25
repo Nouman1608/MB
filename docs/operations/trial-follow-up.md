@@ -103,13 +103,13 @@ Subject: Confirmed: your free trial class on [date]
 >   classes in Lahore]
 >
 > Please join a few minutes early and have [a notebook / a calculator / past-paper
-> questions you found hard]. If you need to move the class, reply at least [agreed notice]
-> before it starts.
+> questions you found hard]. If you need to move the class, just reply to this email: no
+> notice period is needed.
 >
 > Marlbridge
 
-*The notice period in the last line is not a recorded policy: agree it with the family, or
-remove the sentence.*
+*No notice period is required to move a confirmed trial class (owner decision, 25 Sep 2026,
+register item 24, D-331).*
 
 ### 4. Rescheduling, or the requested teacher is unavailable
 

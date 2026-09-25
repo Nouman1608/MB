@@ -54,12 +54,15 @@ const videos = await videosForTeacher(author.id);
  * they are a record of where a person worked, nothing more.
  */
 const isPerson = d.entityType === 'person';
+const ALL_LEVELS_LABEL = 'All levels Marlbridge teaches';
 // D-330: the owner-set Pakistan base rates (other regions are on /pricing/).
 const pkGroup = REGION_PRICING.find((r) => r.region === 'Pakistan')!;
 const pkOne = ONE_TO_ONE_PRICING.find((r) => r.region === 'Pakistan')!;
 const teachingFacts = [
   d.subjectsTaught.length > 0 && { label: 'Teaches', value: d.subjectsTaught.join(' · ') },
-  d.qualificationsTaught.length > 0 && { label: 'Levels', value: d.qualificationsTaught.join(' · ') },
+  // D-331 (owner decision, 25 Sep 2026): every Marlbridge teacher teaches all levels.
+  // A per-teacher list, if one is ever recorded, still wins.
+  { label: 'Levels', value: d.qualificationsTaught.length > 0 ? d.qualificationsTaught.join(' · ') : ALL_LEVELS_LABEL },
   d.boardsTaught.length > 0 && { label: 'Exam boards', value: d.boardsTaught.join(' · ') },
   d.yearsExperience !== undefined && { label: 'Teaching experience', value: `${d.yearsExperience} years` },
   d.previousSchools.length > 0 && { label: 'Previously taught at', value: d.previousSchools.join(', ') },

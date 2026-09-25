@@ -34,13 +34,18 @@ test('group: 2 subjects get no multi-subject discount; 3 same-rate subjects get 
   assert.equal(r.total, 57600);
 });
 
-test('group: sibling alone is 10%; mixed IGCSE + A Level baskets are not given the multi-subject discount and ask for a quote', () => {
+test('group: sibling alone is 10%; mixed IGCSE + A Level baskets get the 20% multi-subject discount (D-331)', () => {
   const s = calculateFee({ region: 'Pakistan', format: 'group', igcseSubjects: 1, sibling: true });
   assert.equal(s.total, 17100);
   const m = calculateFee({ region: 'Pakistan', format: 'group', igcseSubjects: 2, aLevelSubjects: 1 });
   assert.equal(m.subtotal, 2 * 19000 + 24000);
-  assert.equal(m.discountPercent, 0);
-  assert.equal(m.needsQuote, true);
+  assert.equal(m.discountPercent, 20);
+  assert.equal(m.total, 49600);
+  assert.equal(m.needsQuote, false);
+  const ms = calculateFee({ region: 'Pakistan', format: 'group', igcseSubjects: 2, aLevelSubjects: 1, sibling: true });
+  assert.equal(ms.discountPercent, 30);
+  assert.equal(ms.total, 43400);
+  assert.ok(ms.notes.some((n) => /Each enrolled brother or sister also gets 10%/.test(n)));
 });
 
 test('group: 3-decimal currencies keep 3 decimals', () => {
