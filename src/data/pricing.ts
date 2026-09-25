@@ -204,7 +204,15 @@ export const ONE_TO_ONE_TERMS = {
 export const PRICING_TERMS = {
   unit: 'per subject, per month',
   multiSubjectDiscount: { minSubjects: 3, percentOff: 20 },
-  siblingDiscount: { maxSiblings: 2, percentOff: 10 },
+  /** D-332 -- owner, 25 Sep 2026: no cap on the number of siblings. Every
+   * enrolled brother or sister gets 10% off their own group fees (D-331 item
+   * 22). The old `maxSiblings: 2` ("up to 2 siblings") was removed so no page
+   * can print a cap the owner never set. `summary` is the one English wording
+   * every page uses; translations mirror it in their own copy objects. */
+  siblingDiscount: {
+    percentOff: 10,
+    summary: "10% off each enrolled sibling's own group fees. Every brother or sister enrolled in group classes gets it, however many children are enrolled.",
+  },
   /** Owner confirmed directly in chat, 2026-08-26 (docs/decision-log.md D-043): the
    * multi-subject and sibling discounts combine (stack) for a family that qualifies
    * for both -- they are not mutually exclusive. Both discounts apply to group
@@ -285,8 +293,15 @@ export const PRICING_TERMS = {
     summary: 'We reply to email enquiries within two working days, and to WhatsApp messages within one working day.',
     short: 'Email replies within two working days; WhatsApp within one.',
   },
-  /** D-311 -- owner, 24 Sep 2026: "we have teachers available 24/7". */
-  teacherAvailability: 'Teachers are available 24 hours a day, 7 days a week, so classes can be arranged at a time that suits your time zone.',
+  /** D-311 -- owner, 24 Sep 2026: "we have teachers available 24/7".
+   * D-332 -- owner, 25 Sep 2026: group class times are arranged per group
+   * (agreed with the families in it) and confirmed before the trial. The 24/7
+   * sentence alone read as if a fixed group could meet at any hour. */
+  teacherAvailability: "Teachers are available 24 hours a day, 7 days a week, so one-to-one classes can be arranged at any time that suits your time zone. Group class times are agreed with the families in each group, and we confirm them in your own time zone before the trial.",
+  groupClassTimes: "Group class times are agreed with the families in each group, and we confirm them in your own time zone before the trial.",
+  /** D-331 item 24 / D-332 -- owner: no notice period is needed to move a
+   * confirmed trial class. Published on /trial/ (FAQ and success panel). */
+  trialReschedule: 'Yes. To move a confirmed trial class, reply to our email or message us on WhatsApp. No notice period is needed.',
   /** Date the three fields above were confirmed by the owner. */
   serviceTermsVerifiedDate: '2026-09-06',
 } as const;

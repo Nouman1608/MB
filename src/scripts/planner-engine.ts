@@ -421,7 +421,9 @@ export function generatePlan(input: PlanInput, now: Date = new Date()): Plan {
       );
     }
   }
-  const fits = summaries.every((s) => s.unscheduled.length === 0) && totalSessions > 0;
+  // D-332 -- a plan with no plannable subject (e.g. every exam date already
+  // passed) never "fits": it used to report 9 catch-up slots as "everything fits".
+  const fits = subjects.length > 0 && summaries.every((s) => s.unscheduled.length === 0) && totalSessions > 0;
 
   return {
     generatedAt: now.toISOString(),

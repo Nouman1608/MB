@@ -98,7 +98,7 @@ export function calculateFee(input: CalcInput): CalcResult {
     }
     if (input.sibling) {
       discountPercent += PRICING_TERMS.siblingDiscount.percentOff;
-      notes.push(`${PRICING_TERMS.siblingDiscount.percentOff}% sibling discount (up to ${PRICING_TERMS.siblingDiscount.maxSiblings} siblings enrolled together), applied to this learner's fees. Each enrolled brother or sister also gets ${PRICING_TERMS.siblingDiscount.percentOff}% off their own fees.`);
+      notes.push(`${PRICING_TERMS.siblingDiscount.percentOff}% sibling discount, applied to this learner's fees. Each enrolled brother or sister also gets ${PRICING_TERMS.siblingDiscount.percentOff}% off their own fees, however many children are enrolled.`);
     }
     if (discountPercent > PRICING_TERMS.multiSubjectDiscount.percentOff && input.sibling) {
       notes.push('The two discounts are added together, not applied one after the other.');

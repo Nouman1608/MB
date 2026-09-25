@@ -36,7 +36,7 @@ const faqs = [
   },
   {
     question: 'Are there discounts for multiple subjects or siblings?',
-    answer: `Yes. A ${PRICING_TERMS.multiSubjectDiscount.percentOff}% discount applies for ${PRICING_TERMS.multiSubjectDiscount.minSubjects} or more subjects taken together, at either level (for example, 2 IGCSE subjects and 1 A Level subject), and a ${PRICING_TERMS.siblingDiscount.percentOff}% sibling discount applies for up to ${PRICING_TERMS.siblingDiscount.maxSiblings} siblings enrolled at the same time: each child gets ${PRICING_TERMS.siblingDiscount.percentOff}% off their own fees. These two discounts combine if a family qualifies for both: they are added together (${PRICING_TERMS.multiSubjectDiscount.percentOff}% + ${PRICING_TERMS.siblingDiscount.percentOff}% = ${combinedPercent}% off in total), not applied one after the other. For example, ${example.subjectCount} subjects in ${example.region} at ${formatFee(example.perSubject, example.currency)} ${example.currency}/subject/month comes to ${formatFee(example.beforeDiscount, example.currency)} ${example.currency}/month before any discount; with both discounts applied, that becomes ${formatFee(example.afterDiscount, example.currency)} ${example.currency}/month (${combinedPercent}% off). Both discounts apply to group classes only, not to one-to-one tuition.`,
+    answer: `Yes. A ${PRICING_TERMS.multiSubjectDiscount.percentOff}% discount applies for ${PRICING_TERMS.multiSubjectDiscount.minSubjects} or more subjects taken together, at either level (for example, 2 IGCSE subjects and 1 A Level subject), and a ${PRICING_TERMS.siblingDiscount.percentOff}% sibling discount applies to every enrolled brother or sister: each child gets ${PRICING_TERMS.siblingDiscount.percentOff}% off their own fees, however many children are enrolled. These two discounts combine if a family qualifies for both: they are added together (${PRICING_TERMS.multiSubjectDiscount.percentOff}% + ${PRICING_TERMS.siblingDiscount.percentOff}% = ${combinedPercent}% off in total), not applied one after the other. For example, ${example.subjectCount} subjects in ${example.region} at ${formatFee(example.perSubject, example.currency)} ${example.currency}/subject/month comes to ${formatFee(example.beforeDiscount, example.currency)} ${example.currency}/month before any discount; with both discounts applied, that becomes ${formatFee(example.afterDiscount, example.currency)} ${example.currency}/month (${combinedPercent}% off). Both discounts apply to group classes only, not to one-to-one tuition.`,
   },
   {
     question: 'How long are classes, and how often?',
@@ -237,7 +237,7 @@ const faq = faqNode(faqs);
         </li>
         <li class="m-0 rounded-sm border border-rule bg-white p-6">
           <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Sibling discount</p>
-          <p class="m-0 text-[17px] text-ink">{PRICING_TERMS.siblingDiscount.percentOff}% off for up to {PRICING_TERMS.siblingDiscount.maxSiblings} siblings enrolled together. Each child gets {PRICING_TERMS.siblingDiscount.percentOff}% off their own fees.</p>
+          <p class="m-0 text-[17px] text-ink">{PRICING_TERMS.siblingDiscount.summary}</p>
         </li>
         <li class="m-0 rounded-sm border border-rule bg-white p-6">
           <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Trial class</p>
