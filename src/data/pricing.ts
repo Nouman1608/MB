@@ -158,6 +158,52 @@ export const ibConversionFor = (region: string): IbConversion | undefined =>
   IB_CONVERSIONS.find((r) => r.region === region);
 
 /**
+ * D-335 -- owner, 25 Sep 2026: OCR courses, and OxfordAQA Islamiyat and
+ * Pakistan Studies, are taught but "only one to one classes are being
+ * offered and the one to one charges would be Rs 6,000 per class, you can
+ * do the conversions in other currencies". No group option for these.
+ *
+ * Only the Pakistan fee is owner-set. Every other row, including US dollars,
+ * is an indicative conversion of Rs 6,000 at the FX_RATES snapshot
+ * (src/data/fx-policy.ts); validate-fx-policy.mjs [2g] checks each row.
+ */
+export const ONE_TO_ONE_ONLY_PRICING = {
+  region: 'Pakistan',
+  currency: 'PKR',
+  symbol: 'Rs',
+  perClass: 6000,
+  unit: 'per class',
+  courses: 'OCR courses, and OxfordAQA Islamiyat and Pakistan Studies',
+  deliveryMode: 'One-to-one only. There is no group option for these courses, and the multi-subject and sibling discounts do not apply.',
+  verifiedDate: '2026-09-25',
+} as const;
+
+export const ONE_TO_ONE_ONLY_CONVERSIONS: readonly IbConversion[] = [
+  { region: 'Saudi Arabia', currency: 'SAR', symbol: 'SAR', perClass: 81, status: 'indicative' },
+  { region: 'United Arab Emirates', currency: 'AED', symbol: 'AED', perClass: 79, status: 'indicative' },
+  { region: 'Qatar', currency: 'QAR', symbol: 'QAR', perClass: 79, status: 'indicative' },
+  { region: 'Kuwait', currency: 'KWD', symbol: 'KWD', perClass: 6.660, status: 'indicative' },
+  { region: 'Bahrain', currency: 'BHD', symbol: 'BHD', perClass: 8.124, status: 'indicative' },
+  { region: 'Oman', currency: 'OMR', symbol: 'OMR', perClass: 8.310, status: 'indicative' },
+  { region: 'United Kingdom', currency: 'GBP', symbol: '£', perClass: 16, status: 'indicative' },
+  { region: 'Europe', currency: 'EUR', symbol: '€', perClass: 19, status: 'indicative' },
+  { region: 'Malaysia', currency: 'MYR', symbol: 'RM', perClass: 88, status: 'indicative' },
+  { region: 'Other countries', currency: 'USD', symbol: 'US$', perClass: 22, status: 'indicative' },
+] as const;
+
+export const oneToOneOnlyConversionFor = (region: string): IbConversion | undefined =>
+  ONE_TO_ONE_ONLY_CONVERSIONS.find((r) => r.region === region);
+
+/** Board + subject slugs taught one-to-one only (D-335). */
+const ONE_TO_ONE_ONLY_BOARDS: readonly string[] = ['ocr'];
+const ONE_TO_ONE_ONLY_BOARD_SUBJECTS: Readonly<Record<string, readonly string[]>> = {
+  oxfordaqa: ['islamiyat', 'pakistan-studies'],
+};
+export function isOneToOneOnlyCourse(boardSlug: string, subjectSlug: string): boolean {
+  return ONE_TO_ONE_ONLY_BOARDS.includes(boardSlug) || (ONE_TO_ONE_ONLY_BOARD_SUBJECTS[boardSlug]?.includes(subjectSlug) ?? false);
+}
+
+/**
  * One-to-one (1:1) class pricing for IGCSE and A Level tiers -- a separate
  * per-class, one-to-one-only rate distinct from REGION_PRICING above (which
  * is per subject, per month, and does not assume 1:1 delivery). Owner

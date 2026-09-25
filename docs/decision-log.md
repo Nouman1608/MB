@@ -14184,3 +14184,23 @@ The D-149 principle (no pop-ups or interstitials, and the material stays free) i
 - Those pages show no teacher rather than one who does not teach the board. Nothing else on them changed.
 
 **Open for the owner.** OCR (and OxfordAQA Islamiyat / Pakistan Studies) are still presented as taught subjects, but no teacher is recorded for them.
+
+---
+
+## D-335 - OCR courses and OxfordAQA Islamiyat / Pakistan Studies: one-to-one only, Rs 6,000 per class (2026-09-25)
+
+**Status:** answered. **Asked:** in the D-334 report. **Answered by the owner:** 25 Sep 2026: "We teach these courses but only one to one classes are being offered and there one to one charges would be Rs 6,000 per class, you can do the conversions in other currencies."
+
+**Implemented.**
+- `src/data/pricing.ts`:
+  - `ONE_TO_ONE_ONLY_PRICING` sets Rs 6,000 per class, Pakistan, owner-set.
+  - `ONE_TO_ONE_ONLY_CONVERSIONS` holds indicative conversions at the FX_RATES snapshot, including US dollars (US$22).
+  - `isOneToOneOnlyCourse(board, subject)` marks every OCR course plus OxfordAQA `islamiyat` and `pakistan-studies`.
+- `validate-fx-policy.mjs` [2g] checks every conversion row.
+- **/pricing/:** a new section (`#one-to-one-only`) with the Pakistan fee and a conversion table. The one-to-one section points to it. The calculator has a fourth type of tuition for these courses (per class, no discounts, with tests).
+- **Course hubs:** "Does Marlbridge teach it?" reads "Yes, one-to-one only (Rs 6,000 per class; other currencies)". Trial links carry `format=one-to-one`.
+- **Resource pages:** "classes one-to-one" (no small groups), plus the fee sentence. Single-course trial links carry `format=one-to-one`.
+
+**Not changed.**
+- No teacher is named for these courses. D-334 still shows none, because no teacher is recorded for OCR or for OxfordAQA Islamiyat / Pakistan Studies.
+- Group fees, other one-to-one fees and IB fees are unchanged.

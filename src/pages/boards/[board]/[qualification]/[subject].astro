@@ -51,6 +51,7 @@ import { videosForCourse } from '../../../../utils/content/media';
 import { videoNodes } from '../../../../utils/schema/video';
 import { STUDY_KIND } from '../../../../utils/academic/combination-resources';
 import { teachersForSubjectTitle } from '../../../../utils/content/subject-teachers';
+import { ONE_TO_ONE_ONLY_PRICING, isOneToOneOnlyCourse, formatFee } from '../../../../data/pricing';
 
 export async function getStaticPaths() {
   return activeOnly().map((c) => ({
@@ -535,7 +536,9 @@ const hubTeachers = classesOffered && !tuitionPage ? await teachersForSubjectTit
 /* D-326 -- taught hubs without a tuition section had no in-page route to the
    free trial: the glance row said only "Yes" and the closing button went to
    /tutoring/. Both now go to the trial form with this course pre-filled. */
-const hubTrialHref = `${routes.trial}?course=${encodeURIComponent(`${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`)}&source=hub`;
+// D-335 -- OCR courses and OxfordAQA Islamiyat / Pakistan Studies: one-to-one only.
+const oneToOneOnly = classesOffered && isOneToOneOnlyCourse(c.boardSlug, c.subjectSlug);
+const hubTrialHref = `${routes.trial}?course=${encodeURIComponent(`${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`)}${oneToOneOnly ? '&format=one-to-one' : ''}&source=hub`;
 // A resources-only combination (owner decision 2026-09-21) is not an
 // offered course, so it gets no Course structured data.
 const jsonLd = [
@@ -599,7 +602,7 @@ const jsonLd = [
       <dl class="m-0 grid gap-x-8 gap-y-4 text-[15px] sm:grid-cols-2 lg:grid-cols-3">
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Qualification</dt><dd class="m-0 mt-1 text-ink">{boardQualPhrase} {c.subject}</dd></div>
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Spec code</dt><dd class="m-0 mt-1 text-ink">{syllabus?.code ?? 'Being verified'}</dd></div>
-        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Does Marlbridge teach it?</dt><dd class="m-0 mt-1 text-ink">{classesOffered ? (tuitionPage ? <>Yes — <a href="#tuition" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">teachers, fees and a free trial</a></> : <>Yes — <a href={hubTrialHref} data-cta="hub-trial-glance" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">request a free trial class</a></>) : 'Not at the moment — free study resources only'}</dd></div>
+        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Does Marlbridge teach it?</dt><dd class="m-0 mt-1 text-ink">{classesOffered ? (tuitionPage ? <>Yes — <a href="#tuition" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">teachers, fees and a free trial</a></> : <>Yes{oneToOneOnly && <>, one-to-one only ({ONE_TO_ONE_ONLY_PRICING.symbol} {formatFee(ONE_TO_ONE_ONLY_PRICING.perClass, ONE_TO_ONE_ONLY_PRICING.currency)} per class; <a href={`${routes.pricing}#one-to-one-only`} class="underline decoration-rule underline-offset-2">other currencies</a>)</>} — <a href={hubTrialHref} data-cta="hub-trial-glance" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">request a free trial class</a></>) : 'Not at the moment — free study resources only'}</dd></div>
         {hubTeachers.length > 0 && (
           <div class="m-0" data-testid="hub-teachers"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Who teaches it?</dt><dd class="m-0 mt-1 text-ink">{hubTeachers.map((t, i) => <>{i > 0 && ' · '}<a href={routes.author(t.id)} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{t.data.name}</a></>)}</dd></div>
         )}
