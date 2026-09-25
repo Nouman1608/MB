@@ -7,8 +7,9 @@ credentials: []
 image: "/images/faculty/lubna-waseem.jpg"
 entityType: person
 subjectsTaught: ["English", "IELTS"]
-boardsTaught: []
+boardsTaught: ["cambridge", "edexcel", "aqa", "oxfordaqa", "ib"]
 qualificationsTaught: []
+yearsExperience: 22
 previousSchools: []
 sourceUrl: "https://learnersacademy.com.pk/teachers/"
 verifiedOn: 2026-08-18

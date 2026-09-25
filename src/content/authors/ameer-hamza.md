@@ -7,7 +7,7 @@ credentials: []
 image: "/images/faculty/ameer-hamza.jpg"
 entityType: person
 subjectsTaught: ["Biology"]
-boardsTaught: []
+boardsTaught: ["cambridge", "edexcel", "aqa", "oxfordaqa", "ib"]
 qualificationsTaught: []
 yearsExperience: 3
 previousSchools: ["University of Lahore"]

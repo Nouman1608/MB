@@ -7,7 +7,7 @@ credentials: []
 image: "/images/faculty/zain-ud-din-ahmed.jpg"
 entityType: person
 subjectsTaught: ["Accounting"]
-boardsTaught: []
+boardsTaught: ["cambridge", "edexcel", "aqa", "oxfordaqa", "ib"]
 qualificationsTaught: []
 yearsExperience: 12
 previousSchools: ["LGS", "LACAS", "Beaconhouse", "FWS"]

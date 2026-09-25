@@ -7,7 +7,7 @@ credentials: []
 image: "/images/faculty/farheen-zehra.jpg"
 entityType: person
 subjectsTaught: ["Urdu Language"]
-boardsTaught: []
+boardsTaught: ["cambridge", "edexcel", "aqa", "oxfordaqa", "ib"]
 qualificationsTaught: []
 yearsExperience: 20
 previousSchools: ["LACAS", "Roots", "The City School"]

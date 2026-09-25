@@ -14134,3 +14134,34 @@ The D-149 principle (no pop-ups or interstitials, and the material stays free) i
 - **Guard.** `scripts/validate-pricing-consistency.mjs` now fails the build if a capped sibling wording (`maxSiblings`, "up to 2 siblings", or the old ar/ur/bn phrasing) reappears in src/pages, src/components, src/content, src/data, src/i18n or src/utils. Checked: the guard fails on the pre-D-332 tree (7 hits) and passes after.
 
 **Not changed.** Prices, percentages, stacking rule, consent regions, analytics configuration, Cloudflare dashboard settings.
+
+---
+
+## D-333 - Exam boards and IB per teacher; Lubna Waseem's experience (2026-09-25)
+
+**Status:** answered. **Asked:** in chat, 25 Sep 2026, one question per teacher. **Answered by the owner:** 25 Sep 2026.
+
+**Boards per teacher (C = Cambridge, E = Pearson Edexcel, A = AQA, O = OxfordAQA).**
+- **C, E, A, O:** Nouman Ahmed, Iftikhar Azeemi, Hassan, Muhammad Ghazali Siddiqui, Ameer Hamza, Harris Zaman, Salman Ahmad, Zain Ud Din Ahmed, Harris Khan, Farheen Zehra, Aizaz Raoof Ali, Lubna Waseem.
+- **C, E:** Arslan Tanvir, Asif Iqbal, Javaid Iqbal Sabri, Azam Siddique.
+- **E, A, O:** Sajawal Zahid.
+- **C, O:** Saad Zai.
+- **C only:** Jawad Tariq, Hina Mogul.
+- No teacher was recorded for OCR.
+
+**IB (MYP and Diploma).** Every teacher takes IB students except Javaid Iqbal Sabri. Of the two Accounting teachers, only Zain Ud Din Ahmed takes IB students.
+
+**Other answers.**
+- Lubna Waseem: 22 years of teaching experience.
+- Harris Khan: leave his profile as it is (no photo, no years).
+
+**Implemented.**
+- `boardsTaught` is filled for all 20 teachers with board slugs from `src/data/academic/boards.ts`; `ib` is included for the 19 IB teachers.
+- `src/pages/authors/[slug].astro` shows board names, and fails the build on an unknown slug.
+- The Levels row now reads "IGCSE / GCSE / O Level, AS & A Level", with ", and IB (MYP and Diploma)" added for IB teachers. This replaces the D-331 wording "All levels Marlbridge teaches".
+- `yearsExperience: 22` added for Lubna Waseem.
+- Business register item 23 is closed. `docs/content-review/teacher-profiles-assets.md` is updated.
+
+**Not changed.**
+- No teacher is suggested on resource or hub pages by board.
+- The trial form's teacher list, reviewer roles and `setReview` are unchanged.

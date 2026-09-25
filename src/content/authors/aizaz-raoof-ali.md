@@ -7,7 +7,7 @@ credentials: []
 image: "/images/faculty/aizaz-raoof-ali.jpg"
 entityType: person
 subjectsTaught: ["Law"]
-boardsTaught: []
+boardsTaught: ["cambridge", "edexcel", "aqa", "oxfordaqa", "ib"]
 qualificationsTaught: []
 yearsExperience: 5
 previousSchools: ["Beaconhouse", "Crescent", "Bravian", "Cornerstone"]

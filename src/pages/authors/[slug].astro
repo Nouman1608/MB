@@ -15,6 +15,7 @@ import { routes } from '../../utils/urls/routes';
 import VideoSection from '../../components/media/VideoSection.astro';
 import { videosForTeacher } from '../../utils/content/media';
 import { videoNodes } from '../../utils/schema/video';
+import { boardBySlug } from '../../data/academic/boards';
 
 export async function getStaticPaths() {
   const authors = await getAuthors();
@@ -54,7 +55,19 @@ const videos = await videosForTeacher(author.id);
  * they are a record of where a person worked, nothing more.
  */
 const isPerson = d.entityType === 'person';
-const ALL_LEVELS_LABEL = 'All levels Marlbridge teaches';
+// D-333 (owner answers, 25 Sep 2026): boards per teacher, and which teachers take IB
+// students. boardsTaught holds board slugs from src/data/academic/boards.ts; an unknown
+// slug fails the build rather than printing a wrong board.
+const boardNames = d.boardsTaught.map((slug) => {
+  const b = boardBySlug(slug);
+  if (!b) throw new Error(`authors/${author.id}: unknown board slug "${slug}" in boardsTaught`);
+  return slug === 'ib' ? 'IB' : b.name;
+});
+const teachesIB = d.boardsTaught.includes('ib');
+// D-331: every teacher teaches all levels; D-333: IB (MYP and Diploma) only where recorded.
+const ALL_LEVELS_LABEL = teachesIB
+  ? 'IGCSE / GCSE / O Level, AS & A Level, and IB (MYP and Diploma)'
+  : 'IGCSE / GCSE / O Level, AS & A Level';
 // D-330: the owner-set Pakistan base rates (other regions are on /pricing/).
 const pkGroup = REGION_PRICING.find((r) => r.region === 'Pakistan')!;
 const pkOne = ONE_TO_ONE_PRICING.find((r) => r.region === 'Pakistan')!;
@@ -63,7 +76,7 @@ const teachingFacts = [
   // D-331 (owner decision, 25 Sep 2026): every Marlbridge teacher teaches all levels.
   // A per-teacher list, if one is ever recorded, still wins.
   { label: 'Levels', value: d.qualificationsTaught.length > 0 ? d.qualificationsTaught.join(' · ') : ALL_LEVELS_LABEL },
-  d.boardsTaught.length > 0 && { label: 'Exam boards', value: d.boardsTaught.join(' · ') },
+  boardNames.length > 0 && { label: 'Exam boards', value: boardNames.join(' · ') },
   d.yearsExperience !== undefined && { label: 'Teaching experience', value: `${d.yearsExperience} years` },
   d.previousSchools.length > 0 && { label: 'Previously taught at', value: d.previousSchools.join(', ') },
 ].filter(Boolean) as { label: string; value: string }[];
