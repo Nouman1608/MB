@@ -36,7 +36,9 @@ const path = resourceUrl(resource);
 const subject = await getEntry(d.subject);
 const author = d.author ? await getEntry(d.author) : undefined;
 /* D-283 -- real teachers of this subject, shown as teachers (not authors). */
-const subjectTeachers = await teachersForSubjectTitle(subject?.data.title);
+// D-334 -- only teachers who teach this resource's board(s), from D-333.
+const subjectTeachers = await teachersForSubjectTitle(subject?.data.title, 4, d.boards);
+const teacherBoardLabel = d.boards.length === 1 ? (d.boards[0] === 'ib' ? 'IB' : boardBySlug(d.boards[0])?.name) : undefined;
 /* D-286 -- lessons linked to this resource; the section renders nothing while there are none. */
 const videos = await videosForResource(resource.id);
 const meta = resourceCategoryMeta[d.resourceType];
@@ -379,7 +381,7 @@ const jsonLd = [articleNode({
           )}
           {subjectTeachers.length > 0 && (
             <div data-testid="subject-teachers" class="mt-6">
-              <p class="m-0 mb-3 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">{subject?.data.title} teachers at Marlbridge</p>
+              <p class="m-0 mb-3 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">{teacherBoardLabel ? `${teacherBoardLabel} ${subject?.data.title} teachers at Marlbridge` : `${subject?.data.title} teachers at Marlbridge`}</p>
               <ul class="m-0 flex list-none flex-wrap gap-3 p-0">
                 {subjectTeachers.map((t) => (
                   <li class="m-0">

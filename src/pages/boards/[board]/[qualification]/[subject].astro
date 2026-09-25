@@ -50,6 +50,7 @@ import { tuitionFaqs } from '../../../../utils/content/tuition';
 import { videosForCourse } from '../../../../utils/content/media';
 import { videoNodes } from '../../../../utils/schema/video';
 import { STUDY_KIND } from '../../../../utils/academic/combination-resources';
+import { teachersForSubjectTitle } from '../../../../utils/content/subject-teachers';
 
 export async function getStaticPaths() {
   return activeOnly().map((c) => ({
@@ -528,6 +529,9 @@ const sampleResources = tuitionPage
   : [];
 
 const classesOffered = offersClasses(c);
+// D-334 -- teachers of this subject who teach this board (owner answers, D-333). Shown in
+// the at-a-glance box on course hubs without a full tuition section (TuitionPanel has its own).
+const hubTeachers = classesOffered && !tuitionPage ? await teachersForSubjectTitle(subjectEntry?.data.title, 4, [c.boardSlug]) : [];
 /* D-326 -- taught hubs without a tuition section had no in-page route to the
    free trial: the glance row said only "Yes" and the closing button went to
    /tutoring/. Both now go to the trial form with this course pre-filled. */
@@ -596,6 +600,9 @@ const jsonLd = [
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Qualification</dt><dd class="m-0 mt-1 text-ink">{boardQualPhrase} {c.subject}</dd></div>
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Spec code</dt><dd class="m-0 mt-1 text-ink">{syllabus?.code ?? 'Being verified'}</dd></div>
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Does Marlbridge teach it?</dt><dd class="m-0 mt-1 text-ink">{classesOffered ? (tuitionPage ? <>Yes — <a href="#tuition" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">teachers, fees and a free trial</a></> : <>Yes — <a href={hubTrialHref} data-cta="hub-trial-glance" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">request a free trial class</a></>) : 'Not at the moment — free study resources only'}</dd></div>
+        {hubTeachers.length > 0 && (
+          <div class="m-0" data-testid="hub-teachers"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Who teaches it?</dt><dd class="m-0 mt-1 text-ink">{hubTeachers.map((t, i) => <>{i > 0 && ' · '}<a href={routes.author(t.id)} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{t.data.name}</a></>)}</dd></div>
+        )}
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Are resources available?</dt><dd class="m-0 mt-1 text-ink">{resources.length > 0 ? `Yes — ${resources.length} published` : 'Not yet — none published for this exact combination'}</dd></div>
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Is enrolment open?</dt><dd class="m-0 mt-1 text-ink">{!classesOffered ? 'No — classes are not currently offered in this subject' : enrolmentOpenFor('teaching') === 'enquire' ? 'Enquire to join — no online enrolment yet' : 'Not applicable'}</dd></div>
         {syllabus && (

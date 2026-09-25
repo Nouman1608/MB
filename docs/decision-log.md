@@ -14165,3 +14165,22 @@ The D-149 principle (no pop-ups or interstitials, and the material stays free) i
 **Not changed.**
 - No teacher is suggested on resource or hub pages by board.
 - The trial form's teacher list, reviewer roles and `setReview` are unchanged.
+
+---
+
+## D-334 - Course and resource pages list only teachers who teach that board (2026-09-25)
+
+**Status:** answered. The owner agreed ("sure do it") on 25 Sep 2026, after D-333 recorded boards per teacher.
+
+**Implemented.**
+- `teachersForSubjectTitle` (`src/utils/content/subject-teachers.ts`) takes optional board slugs. When boards are given, it keeps only teachers whose `boardsTaught` includes one of them.
+- **Resource pages:** the teacher chips are filtered by the resource's boards. With one board, the label names it, e.g. "Pearson Edexcel Physics teachers at Marlbridge".
+- **Tuition sections (TuitionPanel) on the five tuition hubs:** "Who teaches it" is filtered by the hub's board.
+- **Other course hubs that offer classes:** a "Who teaches it?" line in the at-a-glance box links to that board's teachers (94 hubs).
+
+**Effect (local build, 25 Sep 2026).**
+- 1,211 of 1,724 resource pages show teachers (1,311 before).
+- The 100 pages that no longer show teachers are 86 OCR resources (no teacher is recorded for OCR) and 14 OxfordAQA Islamiyat / Pakistan Studies resources (Azam Siddique teaches Cambridge and Edexcel only).
+- Those pages show no teacher rather than one who does not teach the board. Nothing else on them changed.
+
+**Open for the owner.** OCR (and OxfordAQA Islamiyat / Pakistan Studies) are still presented as taught subjects, but no teacher is recorded for them.
