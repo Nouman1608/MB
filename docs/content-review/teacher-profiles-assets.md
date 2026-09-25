@@ -14,22 +14,22 @@ profile is the published Learners Academy faculty listing (`sourceUrl`), checked
 | Years of experience | 18 of 20 | Harris Khan, Lubna Waseem |
 | Previous schools | 17 of 20 | Harris Khan, Harris Zaman, Lubna Waseem |
 | **Exam boards taught** | **0 of 20** | all (`boardsTaught` is empty; the faculty listing does not break coverage down by board) |
-| **Qualifications taught** | **0 of 20** | all (`qualificationsTaught` is empty, for the same reason) |
+| Levels taught | 20 of 20: owner decision of 25 Sep 2026 (D-331) that all teachers teach all levels; every profile shows "All levels Marlbridge teaches" | none (`qualificationsTaught` stays empty; a per-teacher list would override the statement) |
 | Teaching approach, learner needs suited | 0 of 20 (beyond the one-line bio) | all |
 | Formats and fees | 20 of 20, from the site-wide pricing data (added to every profile on 25 Sep) | none |
 | Availability | Site-wide statement only (D-311: "teachers are available 24/7") | per-teacher availability is not recorded |
 | Testimonials or results per teacher | 0 of 20 | all (no per-teacher evidence with permission exists) |
 | Teaching video or introduction | 0 of 20 (`src/content/videos` holds only the unpublished template) | all |
 
-Because boards and levels are not recorded, profiles do **not** say which boards a teacher
+Because boards are not recorded, profiles do **not** say which boards a teacher
 covers, and resource and hub pages do **not** link a named teacher to a board-specific course.
 The trial form treats a named teacher as a preference that staff check (see
 `docs/operations/trial-follow-up.md`).
 
 ## What the owner can supply, smallest first
 
-1. **Boards and levels per teacher.** For each teacher, the qualifications (IGCSE, O Level,
-   A Level, IB…) and boards (Cambridge, Edexcel, AQA…) they currently teach. With that,
+1. **Boards per teacher.** For each teacher, the boards (Cambridge, Edexcel, AQA…) they
+   currently teach. Levels are settled: all teachers teach all levels (D-331). With that,
    profiles list them, and resource and hub pages can suggest a teacher for that exact course.
 2. **Harris Khan:** a photograph, and years of experience if he wants it shown.
 3. **Lubna Waseem:** years of experience, if she wants it shown.

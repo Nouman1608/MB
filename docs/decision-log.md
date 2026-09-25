@@ -14094,3 +14094,25 @@ The D-149 principle (no pop-ups or interstitials, and the material stays free) i
   - arriving from a diagnostic.
 - axe-core (WCAG 2.0/2.1/2.2 A and AA rules) found 0 violations on 8 page states.
 - These are automated walkthroughs, not usability research with people.
+
+---
+
+## D-331 - Owner decisions on register items 21-24: discounts, teacher levels, trial rescheduling (2026-09-25)
+
+**Status:** answered. **Asked:** in the D-330 report, 25 Sep 2026. **Answered by the owner:** 25 Sep 2026.
+
+**Decisions.**
+- **21. Multi-subject discount across levels: yes.** IGCSE-rate and A-Level-rate subjects count together towards the 20% discount for 3 or more subjects (e.g. 2 IGCSE + 1 A Level).
+- **22. Sibling discount: both children get 10%.** Each enrolled sibling gets 10% off their own fees.
+- **23. Levels: all teachers teach all levels.** Boards per teacher are still not recorded.
+- **24. No notice period is required** to move a confirmed trial class.
+
+**Implemented.**
+- `src/utils/pricing/calculator.ts`: a basket of 3+ group subjects gets 20% whatever the mix, with no written-quote flag. The sibling note says each enrolled brother or sister also gets 10% off their own fees. The header comment records both rules. Tests: the mixed basket in Pakistan (2 × 19,000 + 24,000 = 62,000 PKR) comes to 49,600 PKR/month; with a sibling, 30% off gives 43,400 PKR/month.
+- `/pricing/`: the comparison row, the discount cards and the discount FAQ state both rules. Prices, percentages and the stacking rule (D-043/D-083) are unchanged.
+- `src/pages/authors/[slug].astro`: every person profile shows "Levels: All levels Marlbridge teaches". A per-teacher `qualificationsTaught` list, if recorded later, takes precedence. No boards were added.
+- `docs/operations/trial-follow-up.md` template 3: "If you need to move the class, just reply to this email: no notice period is needed."
+- `docs/business-decisions-register.md` items 21, 22 and 24 are decided. Item 23 is decided for levels and still open for boards. `docs/content-review/teacher-profiles-assets.md` is updated to match.
+
+**Not changed.** No price, percentage or other discount rule. One-to-one and IB are still undiscounted.
+
