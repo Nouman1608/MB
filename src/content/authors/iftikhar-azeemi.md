@@ -7,7 +7,7 @@ credentials: []
 image: "/images/faculty/iftikhar-azeemi.jpg"
 entityType: person
 subjectsTaught: ["Physics"]
-boardsTaught: ["cambridge", "edexcel", "aqa", "oxfordaqa", "ib"]
+boardsTaught: ["cambridge", "edexcel", "aqa", "ocr", "oxfordaqa", "ib"]
 qualificationsTaught: []
 yearsExperience: 30
 previousSchools: ["BTSC", "SCIL", "LAS", "Froebel's", "SICAS", "Garrison"]

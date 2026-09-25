@@ -7,7 +7,7 @@ credentials: []
 image: "/images/faculty/saad-zai.jpg"
 entityType: person
 subjectsTaught: ["Biology"]
-boardsTaught: ["cambridge", "oxfordaqa", "ib"]
+boardsTaught: ["cambridge", "ocr", "oxfordaqa", "ib"]
 qualificationsTaught: []
 yearsExperience: 12
 previousSchools: ["LGS JT", "BDC", "Bll", "LGS Phase 5", "Crescent", "Kaizen", "UCL", "The City School"]

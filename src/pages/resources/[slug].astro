@@ -13,7 +13,7 @@ import { relatedResources, relatedArticles, topicSiblings } from '../../utils/co
 import { articleNode } from '../../utils/schema/article';
 import { routes, resourceUrl } from '../../utils/urls/routes';
 import { syllabusFor } from '../../data/academic/syllabuses';
-import { PRICING_TERMS } from '../../data/pricing';
+import { PRICING_TERMS, ONE_TO_ONE_ONLY_PRICING, isOneToOneOnlyCourse, formatFee } from '../../data/pricing';
 import { LEVEL_FOR_QUALIFICATION, taughtOnly, activeOnly, academicHubPath } from '../../utils/academic';
 import { matrixSlugsFor } from '../../utils/content/status';
 import { teachersForSubjectTitle } from '../../utils/content/subject-teachers';
@@ -82,6 +82,8 @@ const classesAvailable = taughtOnly().some(
   (c) => matrixSubjects.includes(c.subjectSlug) && (d.boards.length === 0 || d.boards.includes(c.boardSlug)),
 );
 const ibOnly = d.boards.length > 0 && d.boards.every((b) => b === 'ib');
+// D-335 -- OCR courses and OxfordAQA Islamiyat / Pakistan Studies are taught one-to-one only.
+const oneToOneOnly = !ibOnly && d.boards.length > 0 && d.boards.every((b) => isOneToOneOnlyCourse(b, d.subject.id));
 /**
  * D-330 -- when the resource belongs to exactly one taught course (one board,
  * one qualification, a taught subject), the trial links carry that course, so
@@ -96,9 +98,10 @@ const taughtCourse = taughtMatches.length === 1 ? taughtMatches[0] : undefined;
 const taughtCourseCode = taughtCourse ? syllabusFor(taughtCourse.boardSlug, taughtCourse.qualificationSlug, taughtCourse.subjectSlug)?.code : undefined;
 const taughtCourseLabel = taughtCourse ? `${taughtCourse.qualification} ${taughtCourse.subject}${taughtCourseCode ? ` (${taughtCourseCode})` : ''}` : undefined;
 const courseTrialHref = taughtCourse
-  ? `${routes.trial}?course=${encodeURIComponent(`${taughtCourse.boardSlug}/${taughtCourse.qualificationSlug}/${taughtCourse.subjectSlug}`)}&source=resource`
+  ? `${routes.trial}?course=${encodeURIComponent(`${taughtCourse.boardSlug}/${taughtCourse.qualificationSlug}/${taughtCourse.subjectSlug}`)}${oneToOneOnly ? '&format=one-to-one' : ''}&source=resource`
   : trialHref;
-const formatPhrase = ibOnly ? 'one-to-one' : `one-to-one and in small groups of up to ${PRICING_TERMS.maxGroupSize}`;
+const formatPhrase = ibOnly || oneToOneOnly ? 'one-to-one' : `one-to-one and in small groups of up to ${PRICING_TERMS.maxGroupSize}`;
+const oneToOneOnlyFee = oneToOneOnly ? ` One-to-one only for this course: ${ONE_TO_ONE_ONLY_PRICING.symbol} ${formatFee(ONE_TO_ONE_ONLY_PRICING.perClass, ONE_TO_ONE_ONLY_PRICING.currency)} per class in Pakistan, with other currencies on the fees page.` : '';
 
 /**
  * QIGT search workstream (Aug 2026) -- Pagefind filter values. Board and
@@ -371,7 +374,7 @@ const jsonLd = [articleNode({
             <p class="m-0 mt-4 max-w-[62ch] text-[16.5px] leading-[1.65] text-ink-mute">
               This page is free and stays free. If you would rather be taught it, Marlbridge runs
               {' '}{subject?.data.title ?? 'this subject'} classes {formatPhrase},
-              online in your own time zone. {PRICING_TERMS.freeTrial} {PRICING_TERMS.enquiryResponse.short}
+              online in your own time zone.{oneToOneOnlyFee} {PRICING_TERMS.freeTrial} {PRICING_TERMS.enquiryResponse.short}
             </p>
           ) : (
             <p class="m-0 mt-4 max-w-[62ch] text-[16.5px] leading-[1.65] text-ink-mute">

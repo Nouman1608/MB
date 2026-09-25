@@ -14185,7 +14185,48 @@ The D-149 principle (no pop-ups or interstitials, and the material stays free) i
 
 **Open for the owner.** OCR (and OxfordAQA Islamiyat / Pakistan Studies) are still presented as taught subjects, but no teacher is recorded for them.
 
-## D-335 - Search links with ?q= now run the search (2026-09-25)
+---
+
+## D-335 - OCR courses and OxfordAQA Islamiyat / Pakistan Studies: one-to-one only, Rs 6,000 per class (2026-09-25)
+
+**Status:** answered. **Asked:** in the D-334 report. **Answered by the owner:** 25 Sep 2026: "We teach these courses but only one to one classes are being offered and there one to one charges would be Rs 6,000 per class, you can do the conversions in other currencies."
+
+**Implemented.**
+- `src/data/pricing.ts`:
+  - `ONE_TO_ONE_ONLY_PRICING` sets Rs 6,000 per class, Pakistan, owner-set.
+  - `ONE_TO_ONE_ONLY_CONVERSIONS` holds indicative conversions at the FX_RATES snapshot, including US dollars (US$22).
+  - `isOneToOneOnlyCourse(board, subject)` marks every OCR course plus OxfordAQA `islamiyat` and `pakistan-studies`.
+- `validate-fx-policy.mjs` [2g] checks every conversion row.
+- **/pricing/:** a new section (`#one-to-one-only`) with the Pakistan fee and a conversion table. The one-to-one section points to it. The calculator has a fourth type of tuition for these courses (per class, no discounts, with tests).
+- **Course hubs:** "Does Marlbridge teach it?" reads "Yes, one-to-one only (Rs 6,000 per class; other currencies)". Trial links carry `format=one-to-one`.
+- **Resource pages:** "classes one-to-one" (no small groups), plus the fee sentence. Single-course trial links carry `format=one-to-one`.
+
+**Not changed.**
+- No teacher is named for these courses. D-334 still shows none, because no teacher is recorded for OCR or for OxfordAQA Islamiyat / Pakistan Studies.
+- Group fees, other one-to-one fees and IB fees are unchanged.
+
+---
+
+## D-336 - Teachers for OCR courses and OxfordAQA Islamiyat / Pakistan Studies (2026-09-25)
+
+**Status:** answered. **Asked:** in chat, 25 Sep 2026, after D-335. **Answered by the owner:** 25 Sep 2026.
+
+**Answers (one-to-one teaching, as in D-335).**
+- OCR Biology: Saad Zai and Harris Zaman.
+- OCR Chemistry: Nouman Ahmed.
+- OCR Physics: Iftikhar Azeemi.
+- OCR Mathematics: Muhammad Ghazali Siddiqui.
+- OCR Business and OCR Economics: Salman Ahmad.
+- OxfordAQA Islamiyat and Pakistan Studies: Azam Siddique.
+
+**Implemented.**
+- `ocr` is added to `boardsTaught` for Nouman Ahmed, Iftikhar Azeemi, Muhammad Ghazali Siddiqui, Saad Zai, Harris Zaman and Salman Ahmad. `oxfordaqa` is added for Azam Siddique.
+- Because D-334 lists teachers by subject and board, these teachers now appear on the matching OCR and OxfordAQA pages and show the board on their profiles.
+- Checked: no other page picks them up. There is no OCR Commerce or Statistics course. OxfordAQA World History does not match Azam's "History".
+
+---
+
+## D-337 - Search links with ?q= now run the search (2026-09-25)
 
 **Why:** audit finding (25 Sep): a shared or bookmarked link such as `/search/?q=electrolysis` opened an empty search, because Pagefind's UI ignores the query string. The owner asked for the links to be fixed.
 
@@ -14194,3 +14235,5 @@ The D-149 principle (no pop-ups or interstitials, and the material stays free) i
 | On load, `?q=` (trimmed, max 200 characters) is passed to Pagefind's `triggerSearch`, so the box is filled and results appear. While typing, the address bar keeps `?q=` in step (debounced `history.replaceState`, so the back button is not flooded); clearing the box removes it. | `src/pages/search/index.astro` |
 
 **Verified (headless Chromium against the build):** `/search/?q=electrolysis` fills the box and shows "32 results for electrolysis"; typing "titration" changes the URL to `?q=titration`; clearing returns to `/search/`; `/search/` alone still opens empty; no script errors. The search page stays `noindex`.
+
+*Renumbered from D-335 on 25 Sep 2026: D-335 and D-336 were taken by the one-to-one-only courses and their teachers, merged first.*

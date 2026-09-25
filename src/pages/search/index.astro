@@ -104,7 +104,7 @@ const hubIndex = [
   window.addEventListener('DOMContentLoaded', function () {
     if (typeof PagefindUI === 'undefined') return;
     var ui = new PagefindUI({ element: '#pagefind-search', showSubResults: true, showImages: false });
-    // D-335 -- shareable searches: /search/?q=electrolysis runs that search on
+    // D-337 -- shareable searches: /search/?q=electrolysis runs that search on
     // load, and typing keeps ?q= in the address bar (replaceState, so the
     // back button is not flooded) so the current search can be copied or
     // bookmarked. Pagefind's own UI ignores the query string.
