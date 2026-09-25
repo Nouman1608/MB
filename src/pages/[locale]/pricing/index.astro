@@ -43,8 +43,8 @@ const T = {
     perClass: '/درس', lastConverted: 'آخر تأكيد/تحويل', ibHeading: 'تدريس البكالوريا الدولية (IB)',
     ibNote: 'يُسعَّر IB (برنامجا السنوات المتوسطة والدبلوم) بشكل مختلف عن باقي الموقع أعلاه — لكل درس لا لكل مادة شهريًا، وفرديًا فقط.',
     discountsHeading: 'الخصومات والدرس التجريبي', multiSubject: 'مواد متعددة', sibling: 'خصم الأشقاء', trialLabel: 'الدرس التجريبي',
-    multiSubjectBody: (n: number, p: number) => `خصم ${p}% لـ ${n} مواد أو أكثر تُؤخذ معًا.`,
-    siblingBody: (n: number, p: number) => `خصم ${p}% لغاية ${n} من الأشقاء المسجَّلين معًا.`,
+    multiSubjectBody: (n: number, p: number) => `خصم ${p}% لـ ${n} مواد أو أكثر تُؤخذ معًا، من أي مستوى (تُحتسب مواد IGCSE وA Level معًا).`,
+    siblingBody: (p: number) => `يحصل كل أخ أو أخت مسجَّل على خصم ${p}% من رسومه الخاصة، مهما كان عدد الأبناء المسجَّلين.`,
     trialBody: 'الدرس التجريبي الأول مجاني.',
     combinedBody: (p1: number, p2: number, combined: number) => `يُجمَع الخصمان معًا (${p1}% + ${p2}% = ${combined}% إجمالاً) بدلاً من تطبيقهما بالتتالي.`,
     workedExample: (n: number, region: string, perSubject: number, currency: string, before: number, combined: number, after: number) => `على سبيل المثال: ${n} مواد في ${region} بسعر ${perSubject} ${currency}/مادة/شهر تُصبح ${before} ${currency}/شهر قبل أي خصم؛ وبتطبيق الخصمين معًا (${combined}%)، تصبح ${after} ${currency}/شهر.`,
@@ -57,8 +57,8 @@ const T = {
     perClass: '/کلاس', lastConverted: 'آخری تصدیق/تبدیلی', ibHeading: 'آئی بی (IB) تدریس',
     ibNote: 'آئی بی (مڈل ائیرز اور ڈپلومہ پروگرام) کی قیمت باقی سائٹ سے مختلف ہے — فی مضمون فی ماہ کی بجائے فی کلاس، اور صرف انفرادی۔',
     discountsHeading: 'رعایتیں اور ٹرائل', multiSubject: 'کئی مضامین', sibling: 'بہن بھائی رعایت', trialLabel: 'ٹرائل کلاس',
-    multiSubjectBody: (n: number, p: number) => `${n}+ مضامین اکٹھے لینے پر ${p}% رعایت۔`,
-    siblingBody: (n: number, p: number) => `${n} تک بہن بھائیوں کے اکٹھے داخلے پر ${p}% رعایت۔`,
+    multiSubjectBody: (n: number, p: number) => `${n}+ مضامین اکٹھے لینے پر ${p}% رعایت، کسی بھی لیول پر (IGCSE اور A Level کے مضامین ایک ساتھ گنے جاتے ہیں)۔`,
+    siblingBody: (p: number) => `ہر داخل شدہ بہن یا بھائی کو اپنی فیس پر ${p}% رعایت ملتی ہے، چاہے کتنے ہی بچے داخل ہوں۔`,
     trialBody: 'پہلا ٹرائل سبق مفت ہے۔',
     combinedBody: (p1: number, p2: number, combined: number) => `دونوں رعایتیں اکٹھی جمع ہوتی ہیں (${p1}% + ${p2}% = مجموعی ${combined}%)، ایک کے بعد ایک لاگو نہیں ہوتیں۔`,
     workedExample: (n: number, region: string, perSubject: number, currency: string, before: number, combined: number, after: number) => `مثال کے طور پر: ${region} میں ${n} مضامین بحساب ${perSubject} ${currency}/مضمون/ماہ کی مجموعی رقم بغیر رعایت کے ${before} ${currency}/ماہ بنتی ہے؛ دونوں رعایتیں (${combined}%) لگانے کے بعد یہ ${after} ${currency}/ماہ ہو جاتی ہے۔`,
@@ -71,8 +71,8 @@ const T = {
     perClass: '/ক্লাস', lastConverted: 'সর্বশেষ নিশ্চিত/রূপান্তরিত', ibHeading: 'IB টিউশন',
     ibNote: 'IB (মিডল ইয়ার্স ও ডিপ্লোমা প্রোগ্রাম) উপরের সাইটের বাকি অংশ থেকে ভিন্নভাবে মূল্য নির্ধারিত — প্রতি বিষয়ে প্রতি মাসের পরিবর্তে প্রতি ক্লাসে, এবং শুধুমাত্র একক।',
     discountsHeading: 'ছাড় ও ট্রায়াল', multiSubject: 'একাধিক বিষয়', sibling: 'ভাইবোন ছাড়', trialLabel: 'ট্রায়াল ক্লাস',
-    multiSubjectBody: (n: number, p: number) => `${n}+ বিষয় একসাথে নিলে ${p}% ছাড়।`,
-    siblingBody: (n: number, p: number) => `${n} জন পর্যন্ত ভাইবোন একসাথে ভর্তি হলে ${p}% ছাড়।`,
+    multiSubjectBody: (n: number, p: number) => `${n}+ বিষয় একসাথে নিলে ${p}% ছাড়, যেকোনো স্তরে (IGCSE ও A Level বিষয় একসাথে গণনা করা হয়)।`,
+    siblingBody: (p: number) => `ভর্তি হওয়া প্রত্যেক ভাই বা বোন নিজের ফিতে ${p}% ছাড় পায়, যত সন্তানই ভর্তি হোক না কেন।`,
     trialBody: 'প্রথম ট্রায়াল ক্লাসটি বিনামূল্যে।',
     combinedBody: (p1: number, p2: number, combined: number) => `দুটি ছাড় একসাথে যোগ হয় (${p1}% + ${p2}% = মোট ${combined}%), একটির পর একটি প্রয়োগ হয় না।`,
     workedExample: (n: number, region: string, perSubject: number, currency: string, before: number, combined: number, after: number) => `উদাহরণস্বরূপ: ${region}-এ ${n}টি বিষয় প্রতি বিষয়ে ${perSubject} ${currency}/মাস হারে মোট ${before} ${currency}/মাস (ছাড়ের আগে); উভয় ছাড় (${combined}%) প্রয়োগের পর তা হয় ${after} ${currency}/মাস।`,
@@ -83,19 +83,19 @@ const T = {
 const faqTemplates: Record<LocaleCode, () => { question: string; answer: string }[]> = {
   ar: () => [
     { question: 'كم تكلفة تدريس مارلبريدج؟', answer: `تُحتسب الدروس الجماعية ${PRICING_TERMS.unit === 'per subject, per month' ? 'لكل مادة شهريًا' : ''}، أما الدروس الفردية وتدريس IB فتُحتسب لكل درس. في الدروس الجماعية، تُحتسب GCSE وIGCSE وO Level بسعر IGCSE؛ وتُحتسب AS الدولية وAS وA Level بسعر A Level. راجع الجداول أعلاه لمنطقتك.` },
-    { question: 'هل هناك خصومات للمواد المتعددة أو الأشقاء؟', answer: `نعم. ${T.multiSubjectBody(PRICING_TERMS.multiSubjectDiscount.minSubjects, PRICING_TERMS.multiSubjectDiscount.percentOff)} ${T.siblingBody(PRICING_TERMS.siblingDiscount.maxSiblings, PRICING_TERMS.siblingDiscount.percentOff)} ${PRICING_TERMS.discountsStack ? T.combinedBody(PRICING_TERMS.multiSubjectDiscount.percentOff, PRICING_TERMS.siblingDiscount.percentOff, combinedPercent) : ''} ${T.workedExample(example.subjectCount, example.region, example.perSubject, example.currency, example.beforeDiscount, combinedPercent, example.afterDiscount)} ينطبق كلا الحسمين على الدروس الجماعية فقط.` },
+    { question: 'هل هناك خصومات للمواد المتعددة أو الأشقاء؟', answer: `نعم. ${T.multiSubjectBody(PRICING_TERMS.multiSubjectDiscount.minSubjects, PRICING_TERMS.multiSubjectDiscount.percentOff)} ${T.siblingBody(PRICING_TERMS.siblingDiscount.percentOff)} ${PRICING_TERMS.discountsStack ? T.combinedBody(PRICING_TERMS.multiSubjectDiscount.percentOff, PRICING_TERMS.siblingDiscount.percentOff, combinedPercent) : ''} ${T.workedExample(example.subjectCount, example.region, example.perSubject, example.currency, example.beforeDiscount, combinedPercent, example.afterDiscount)} ينطبق كلا الحسمين على الدروس الجماعية فقط.` },
     { question: 'ما مدة الدروس ووتيرتها؟', answer: 'الدروس الجماعية: 45 إلى 50 دقيقة لكل درس، 3 دروس أسبوعيًا لكل مادة. الدروس الفردية: ساعة واحدة لكل درس.' },
     { question: 'هل يوجد درس تجريبي مجاني؟', answer: T.trialBody },
   ],
   ur: () => [
     { question: 'مارل برج کی تعلیم کی قیمت کتنی ہے؟', answer: 'گروپ کلاسوں کی فیس فی مضمون فی ماہ ہے؛ انفرادی کلاسوں اور آئی بی کی تدریس کی فیس فی کلاس ہے۔ گروپ کلاسوں میں جی سی ایس ای، IGCSE اور او لیول کو IGCSE کی شرح پر لیا جاتا ہے؛ انٹرنیشنل اے ایس، اے ایس اور اے لیول کو اے لیول کی شرح پر۔ اپنے علاقے کے لیے اوپر دیے گئے جدول دیکھیں۔' },
-    { question: 'کیا کئی مضامین یا بہن بھائیوں کے لیے رعایت ہے؟', answer: `جی ہاں۔ ${T.multiSubjectBody(PRICING_TERMS.multiSubjectDiscount.minSubjects, PRICING_TERMS.multiSubjectDiscount.percentOff)} ${T.siblingBody(PRICING_TERMS.siblingDiscount.maxSiblings, PRICING_TERMS.siblingDiscount.percentOff)} ${T.combinedBody(PRICING_TERMS.multiSubjectDiscount.percentOff, PRICING_TERMS.siblingDiscount.percentOff, combinedPercent)} ${T.workedExample(example.subjectCount, example.region, example.perSubject, example.currency, example.beforeDiscount, combinedPercent, example.afterDiscount)} دونوں صرف گروپ کلاسوں پر لاگو ہوتی ہیں۔` },
+    { question: 'کیا کئی مضامین یا بہن بھائیوں کے لیے رعایت ہے؟', answer: `جی ہاں۔ ${T.multiSubjectBody(PRICING_TERMS.multiSubjectDiscount.minSubjects, PRICING_TERMS.multiSubjectDiscount.percentOff)} ${T.siblingBody(PRICING_TERMS.siblingDiscount.percentOff)} ${T.combinedBody(PRICING_TERMS.multiSubjectDiscount.percentOff, PRICING_TERMS.siblingDiscount.percentOff, combinedPercent)} ${T.workedExample(example.subjectCount, example.region, example.perSubject, example.currency, example.beforeDiscount, combinedPercent, example.afterDiscount)} دونوں صرف گروپ کلاسوں پر لاگو ہوتی ہیں۔` },
     { question: 'کلاسیں کتنی دیر اور کتنی بار ہوتی ہیں؟', answer: 'گروپ کلاسیں: 45 سے 50 منٹ فی کلاس، فی مضمون ہفتے میں 3 کلاسیں۔ انفرادی کلاسیں: فی کلاس 1 گھنٹہ۔' },
     { question: 'کیا مفت ٹرائل ہے؟', answer: T.trialBody },
   ],
   bn: () => [
     { question: 'মার্লব্রিজের টিউশনের মূল্য কত?', answer: 'গ্রুপ ক্লাসের ফি প্রতি বিষয়ে প্রতি মাসে; একক ক্লাস ও IB টিউশনের ফি প্রতি ক্লাসে। গ্রুপ ক্লাসে GCSE, IGCSE এবং O Level কে IGCSE হারে ধরা হয়; International AS, AS এবং A Level কে A Level হারে। আপনার অঞ্চলের জন্য উপরের টেবিলগুলো দেখুন।' },
-    { question: 'একাধিক বিষয় বা ভাইবোনদের জন্য কি ছাড় আছে?', answer: `হ্যাঁ। ${T.multiSubjectBody(PRICING_TERMS.multiSubjectDiscount.minSubjects, PRICING_TERMS.multiSubjectDiscount.percentOff)} ${T.siblingBody(PRICING_TERMS.siblingDiscount.maxSiblings, PRICING_TERMS.siblingDiscount.percentOff)} ${T.combinedBody(PRICING_TERMS.multiSubjectDiscount.percentOff, PRICING_TERMS.siblingDiscount.percentOff, combinedPercent)} ${T.workedExample(example.subjectCount, example.region, example.perSubject, example.currency, example.beforeDiscount, combinedPercent, example.afterDiscount)} উভয়ই শুধুমাত্র গ্রুপ ক্লাসে প্রযোজ্য।` },
+    { question: 'একাধিক বিষয় বা ভাইবোনদের জন্য কি ছাড় আছে?', answer: `হ্যাঁ। ${T.multiSubjectBody(PRICING_TERMS.multiSubjectDiscount.minSubjects, PRICING_TERMS.multiSubjectDiscount.percentOff)} ${T.siblingBody(PRICING_TERMS.siblingDiscount.percentOff)} ${T.combinedBody(PRICING_TERMS.multiSubjectDiscount.percentOff, PRICING_TERMS.siblingDiscount.percentOff, combinedPercent)} ${T.workedExample(example.subjectCount, example.region, example.perSubject, example.currency, example.beforeDiscount, combinedPercent, example.afterDiscount)} উভয়ই শুধুমাত্র গ্রুপ ক্লাসে প্রযোজ্য।` },
     { question: 'ক্লাস কতক্ষণ এবং কত ঘন ঘন হয়?', answer: 'গ্রুপ ক্লাস: প্রতি ক্লাস ৪৫ থেকে ৫০ মিনিট, প্রতি বিষয়ে সপ্তাহে ৩টি ক্লাস। একক ক্লাস: প্রতি ক্লাস ১ ঘণ্টা।' },
     { question: 'কি ফ্রি ট্রায়াল আছে?', answer: T.trialBody },
   ],
@@ -176,7 +176,7 @@ const faqs = faqTemplates[locale]();
       </li>
       <li class="m-0 rounded-sm border border-rule bg-white p-5">
         <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">{T.sibling}</p>
-        <p class="m-0 text-[15.5px] text-ink">{T.siblingBody(PRICING_TERMS.siblingDiscount.maxSiblings, PRICING_TERMS.siblingDiscount.percentOff)}</p>
+        <p class="m-0 text-[15.5px] text-ink">{T.siblingBody(PRICING_TERMS.siblingDiscount.percentOff)}</p>
       </li>
       <li class="m-0 rounded-sm border border-rule bg-white p-5">
         <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">{T.trialLabel}</p>

@@ -107,6 +107,9 @@ test('exam date in the past is refused with a warning, not scheduled', () => {
   const plan = generatePlan(input, new Date('2026-10-05T08:00:00Z'));
   assert.equal(plan.totalSessions, 0);
   assert.ok(plan.warnings[0].includes('not after'));
+  // D-332 -- a plan with no plannable subject must not claim to fit.
+  assert.equal(plan.subjects.length, 0);
+  assert.equal(plan.fits, false);
 });
 
 test('no time entered produces a clear warning', () => {

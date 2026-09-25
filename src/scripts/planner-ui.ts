@@ -342,6 +342,9 @@ function init(): void {
     if (state.subjects.length === 0) errs.push('Add at least one subject.');
     for (const s of state.subjects) {
       if (!s.unknownDate && !s.examDate) errs.push(`${s.label}: enter the exam date, or tick "I don't know the date yet".`);
+      // D-332 -- a past (or same-day) exam date used to produce and save an
+      // empty "everything fits" plan. Refuse it here, before anything is saved.
+      else if (!s.unknownDate && s.examDate && s.examDate <= (state.start || todayLocal())) errs.push(`${s.label}: the exam date ${s.examDate} is not after the plan's start date. Check the year, or tick "I don't know the date yet".`);
     }
     if (state.weekdayMinutes.every((m) => m === 0)) errs.push('Choose some study time on at least one day.');
     return errs;
@@ -479,6 +482,15 @@ function init(): void {
     try {
       const input = await buildInput();
       state.plan = generatePlan(input);
+      // D-332 -- belt and braces: never save a plan that planned no subject.
+      if (state.plan.subjects.length === 0) {
+        errors.replaceChildren(el('p', 'm-0', state.plan.warnings[0] ?? 'No subject could be planned. Check the exam dates.'));
+        errors.classList.remove('hidden');
+        errors.focus?.();
+        state.plan = null;
+        renderPlan();
+        return;
+      }
       persist('Plan made and saved on this device.');
       renderPlan();
       track('revision_plan_generated', {

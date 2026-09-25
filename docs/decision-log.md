@@ -14116,3 +14116,21 @@ The D-149 principle (no pop-ups or interstitials, and the material stays free) i
 
 **Not changed.** No price, percentage or other discount rule. One-to-one and IB are still undiscounted.
 
+
+
+---
+
+## D-332 - Audit fixes: sibling discount without a cap, trial rescheduling, group class times, Cloudflare Web Analytics disclosure, planner past dates (2026-09-25)
+
+**Source.** Website audit of 25 Sep 2026 (project doc `website-audit-2026-09-25-detailed.md`, findings F-01, F-02, F-03, F-04, F-05, F-07). **Owner answers, 25 Sep 2026:** no cap on the sibling discount; group class times are "arranged per group".
+
+**Changes.**
+- **Sibling discount (F-01).** `PRICING_TERMS.siblingDiscount.maxSiblings` (2) removed; `siblingDiscount.summary` added. "Up to 2 siblings" wording replaced on home/tuition (`src/data/tuition.ts`), /pakistan/, /pricing/ (FAQ and discount card), the calculator note, and the ar/ur/bn pricing pages. The ar/ur/bn tutoring-page copy now says "each enrolled sibling, own fees". No percentage, price or stacking rule changed.
+- **Across levels in translations (F-02).** ar/ur/bn `multiSubjectBody` and tutoring copy say IGCSE and A Level subjects count together.
+- **Trial rescheduling (F-03).** New `PRICING_TERMS.trialReschedule`; /trial/ FAQ "Can I move my trial class to another time?" (also in FAQPage JSON-LD via the existing FAQ component) and ar/ur/bn equivalents; the success panel adds "Need to move it later? ... No notice period is needed."
+- **Group class times (F-04).** `PRICING_TERMS.teacherAvailability` now separates one-to-one (any time, 24/7) from group classes (times agreed with the families in each group, confirmed before the trial). New `groupClassTimes`. Updated the UAE/Qatar/Malaysia FAQs (`src/data/markets.ts`), /international-tutoring/ FAQ, /gulf/ time-zone note, and a new /trial/ FAQ "What time will the classes be?". Profiles, /uk/ and market pages pick the new sentence up from `teacherAvailability`.
+- **Cloudflare Web Analytics disclosure (F-05).** Cloudflare injects its Web Analytics beacon at the edge (not in this repo). /legal/cookies/ gets a "Cloudflare Web Analytics" section and a short-version sentence; /legal/privacy/ Analytics paragraph mentions it; ar/ur/bn cookie and privacy copy likewise. Wording limited to what Cloudflare documents (no cookies or local storage) and what was observed (runs on every page regardless of the analytics choice). No dashboard setting changed.
+- **Planner past exam dates (F-07).** `validate()` in `planner-ui.ts` rejects an exam date on or before the plan start; the UI never saves a plan with no plannable subject; `generatePlan` returns `fits: false` when no subject remains. Unit test extended.
+- **Guard.** `scripts/validate-pricing-consistency.mjs` now fails the build if a capped sibling wording (`maxSiblings`, "up to 2 siblings", or the old ar/ur/bn phrasing) reappears in src/pages, src/components, src/content, src/data, src/i18n or src/utils. Checked: the guard fails on the pre-D-332 tree (7 hits) and passes after.
+
+**Not changed.** Prices, percentages, stacking rule, consent regions, analytics configuration, Cloudflare dashboard settings.

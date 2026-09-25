@@ -60,7 +60,7 @@ export const TUITION_FORMATS = [
     format: PRICING_TERMS.classFormat.group,
     groupSize: `A maximum of ${PRICING_TERMS.maxGroupSize} students per class.`,
     billing: `Charged ${PRICING_TERMS.unit}.`,
-    discounts: `A ${PRICING_TERMS.multiSubjectDiscount.percentOff}% discount applies for ${PRICING_TERMS.multiSubjectDiscount.minSubjects} or more subjects, and a ${PRICING_TERMS.siblingDiscount.percentOff}% discount for up to ${PRICING_TERMS.siblingDiscount.maxSiblings} siblings enrolled together. Both apply to group classes only, and combine if you qualify for both.`,
+    discounts: `A ${PRICING_TERMS.multiSubjectDiscount.percentOff}% discount applies for ${PRICING_TERMS.multiSubjectDiscount.minSubjects} or more subjects, at either level (IGCSE and A Level subjects count together), and ${PRICING_TERMS.siblingDiscount.percentOff}% off each enrolled sibling's own fees. Both apply to group classes only, and combine if you qualify for both.`,
     trial: PRICING_TERMS.trialFormat.group,
   },
   {

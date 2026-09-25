@@ -54,6 +54,17 @@ for (const file of files) {
   }
 }
 
+// D-332 -- the owner set no cap on the sibling discount (25 Sep 2026). Stop a
+// capped wording ("up to 2 siblings", "maxSiblings") from coming back on any
+// page, in English or in the ar/ur/bn copy. Scans src/data and src/i18n too.
+const SIBLING_CAP = [/up to \$?\{?[^}\n]*maxSiblings/, /maxSiblings\s*:/, /up to (2|two) siblings/i, /لغاية \$\{n\} من الأشقاء/, /تک بہن بھائیوں/, /জন পর্যন্ত ভাইবোন/];
+for (const file of [...files, ...walk('src/data'), ...walk('src/i18n'), ...walk('src/utils')]) {
+  const text = readFileSync(file, 'utf8').split('\n').filter((l) => !/^\s*(\*|\/\/|\/\*)/.test(l)).join('\n');
+  for (const re of SIBLING_CAP) {
+    if (re.test(text)) problems.push(`${file}: sibling discount worded with a cap (${re}); the owner rule is 10% off each enrolled sibling's own fees, no cap (D-332)`);
+  }
+}
+
 if (problems.length > 0) {
   console.error('Pricing consistency FAILED:');
   for (const p of problems) console.error(`  ✗ ${p}`);

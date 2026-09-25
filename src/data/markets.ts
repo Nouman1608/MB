@@ -103,7 +103,7 @@ export const MARKETS: readonly Market[] = [
       {
         question: 'What time would classes be in the UAE?',
         answer:
-          'The UAE is one hour behind Lahore all year, so a 5:00 pm class in Dubai or Abu Dhabi is 6:00 pm in Lahore. Teachers are available 24 hours a day, 7 days a week, and the time is agreed with the teacher before the first class.',
+          'The UAE is one hour behind Lahore all year, so a 5:00 pm class in Dubai or Abu Dhabi is 6:00 pm in Lahore. Group class times are agreed with the families in each group and confirmed before the trial; one-to-one classes can be arranged at any time, because teachers are available 24 hours a day, 7 days a week.',
       },
       {
         question: 'Can my child be taught for Pearson Edexcel International GCSE or International A Level?',
@@ -144,7 +144,7 @@ export const MARKETS: readonly Market[] = [
       {
         question: 'What time would classes be in Qatar?',
         answer:
-          'Qatar is two hours behind Lahore all year, so a 5:00 pm class in Doha is 7:00 pm in Lahore. Teachers are available 24 hours a day, 7 days a week, and the time is agreed with the teacher before the first class.',
+          'Qatar is two hours behind Lahore all year, so a 5:00 pm class in Doha is 7:00 pm in Lahore. Group class times are agreed with the families in each group and confirmed before the trial; one-to-one classes can be arranged at any time, because teachers are available 24 hours a day, 7 days a week.',
       },
       {
         question: 'My child is in an IB school in Doha. Can Marlbridge help?',
@@ -185,7 +185,7 @@ export const MARKETS: readonly Market[] = [
       {
         question: 'What time would classes be in Malaysia?',
         answer:
-          'Malaysia is three hours ahead of Lahore all year, so a 5:00 pm class in Kuala Lumpur is 2:00 pm in Lahore. Teachers are available 24 hours a day, 7 days a week. Times are agreed with the teacher before the first class.',
+          'Malaysia is three hours ahead of Lahore all year, so a 5:00 pm class in Kuala Lumpur is 2:00 pm in Lahore. Group class times are agreed with the families in each group and confirmed before the trial; one-to-one classes can be arranged at any time, because teachers are available 24 hours a day, 7 days a week.',
       },
       {
         question: 'Why are the Malaysia fees marked "indicative"?',
