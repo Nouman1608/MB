@@ -7,7 +7,7 @@ credentials: []
 image: "/images/faculty/azam-siddique.jpg"
 entityType: person
 subjectsTaught: ["Islamiyat / Pakistan Studies", "History", "Environmental Management"]
-boardsTaught: ["cambridge", "edexcel", "ib"]
+boardsTaught: ["cambridge", "edexcel", "oxfordaqa", "ib"]
 qualificationsTaught: []
 yearsExperience: 25
 previousSchools: ["Aitchison College", "LGS", "Garrison", "Newlands", "Learning Alliance", "TNS", "ISL", "SICAS", "BTSC", "Crescent CornerStone"]

@@ -7,7 +7,7 @@ credentials: []
 image: "/images/faculty/harris-zaman.jpg"
 entityType: person
 subjectsTaught: ["Biology"]
-boardsTaught: ["cambridge", "edexcel", "aqa", "oxfordaqa", "ib"]
+boardsTaught: ["cambridge", "edexcel", "aqa", "ocr", "oxfordaqa", "ib"]
 qualificationsTaught: []
 yearsExperience: 9
 previousSchools: []

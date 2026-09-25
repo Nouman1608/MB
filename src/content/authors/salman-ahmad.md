@@ -7,7 +7,7 @@ credentials: []
 image: "/images/faculty/salman-ahmad.jpg"
 entityType: person
 subjectsTaught: ["Economics", "Business Studies", "Commerce"]
-boardsTaught: ["cambridge", "edexcel", "aqa", "oxfordaqa", "ib"]
+boardsTaught: ["cambridge", "edexcel", "aqa", "ocr", "oxfordaqa", "ib"]
 qualificationsTaught: []
 yearsExperience: 50
 previousSchools: ["GCU", "LSE", "Comsats", "UCP"]
