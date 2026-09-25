@@ -103,7 +103,28 @@ const hubIndex = [
 <script is:inline>
   window.addEventListener('DOMContentLoaded', function () {
     if (typeof PagefindUI === 'undefined') return;
-    new PagefindUI({ element: '#pagefind-search', showSubResults: true, showImages: false });
+    var ui = new PagefindUI({ element: '#pagefind-search', showSubResults: true, showImages: false });
+    // D-337 -- shareable searches: /search/?q=electrolysis runs that search on
+    // load, and typing keeps ?q= in the address bar (replaceState, so the
+    // back button is not flooded) so the current search can be copied or
+    // bookmarked. Pagefind's own UI ignores the query string.
+    var initial = '';
+    try { initial = (new URLSearchParams(window.location.search).get('q') || '').trim(); } catch (e) { initial = ''; }
+    if (initial) ui.triggerSearch(initial.slice(0, 200));
+    var syncTimer;
+    document.addEventListener('input', function (e) {
+      var t = e.target;
+      if (!t || !t.classList || !t.classList.contains('pagefind-ui__search-input')) return;
+      clearTimeout(syncTimer);
+      syncTimer = setTimeout(function () {
+        try {
+          var url = new URL(window.location.href);
+          var v = t.value.trim();
+          if (v) url.searchParams.set('q', v); else url.searchParams.delete('q');
+          window.history.replaceState(null, '', url.pathname + url.search + url.hash);
+        } catch (err) { /* older browsers: leave the URL alone */ }
+      }, 400);
+    });
     // D-301 -- accessibility: Pagefind's input has only a placeholder, and
     // its result count is not announced. Name the input and make the
     // message a polite live region once Pagefind has rendered them.
