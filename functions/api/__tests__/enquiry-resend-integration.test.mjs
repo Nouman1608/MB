@@ -276,9 +276,9 @@ test(
       assert.deepEqual(ack.to, ['amina@example.com']);
       assert.equal(ack.reply_to, 'hello@marlbridge.com');
       assert.match(ack.subject, /received your free trial request/);
-      assert.match(ack.text, /not a booking/);
+      assert.match(ack.text, /confirm a time with you/);
       assert.match(ack.text, /Teacher preference: Nouman Ahmed/);
-      assert.match(ack.text, /within two working days/);
+      assert.match(ack.text, /within an hour/);
       assert.doesNotMatch(ack.text, /noumanahmed1989/, 'the private staff inbox never appears in the family email');
       assert.doesNotMatch(ack.text, /Came from|Course id/, 'no internal attribution fields in the family email');
     },

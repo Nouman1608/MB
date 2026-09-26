@@ -67,7 +67,7 @@
 - [Revision planner](https://marlbridge.com/revision-planner/): free weekly revision plan from a student's subjects, exam dates, free time and topic confidence; runs in the browser, no account.
 - [Practice and 10-minute diagnostics](https://marlbridge.com/practice/): self-marked study checks and self-check questions with worked answers for Cambridge IGCSE Chemistry, Physics, Mathematics and A Level Chemistry, Physics.
 - [Printable syllabus checklists](https://marlbridge.com/checklists/)
-- [Free trial class](https://marlbridge.com/trial/): request a free trial class with a subject teacher (a request, not a booking).
+- [Free trial class](https://marlbridge.com/trial/): request a free trial class with a subject teacher (we match a specialist teacher and confirm a time).
 - [Programs](https://marlbridge.com/programs/): Marlbridge's programs by qualification; each program page says whether it is taught now.
 - [Tutoring](https://marlbridge.com/tutoring/)
 - [International online tutoring](https://marlbridge.com/international-tutoring/): all classes are taught live online from Lahore, Pakistan (in person in Lahore too); class times by time zone and fees by country. Marlbridge has no office outside Pakistan.

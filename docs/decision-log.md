@@ -14223,3 +14223,20 @@ The D-149 principle (no pop-ups or interstitials, and the material stays free) i
 - `ocr` is added to `boardsTaught` for Nouman Ahmed, Iftikhar Azeemi, Muhammad Ghazali Siddiqui, Saad Zai, Harris Zaman and Salman Ahmad. `oxfordaqa` is added for Azam Siddique.
 - Because D-334 lists teachers by subject and board, these teachers now appear on the matching OCR and OxfordAQA pages and show the board on their profiles.
 - Checked: no other page picks them up. There is no OCR Commerce or Statistics course. OxfordAQA World History does not match Azam's "History".
+
+## D-337 - Faster reply promise, confident trial copy, homepage and diagnostic conversion (2026-09-27)
+
+**Status:** answered and implemented. **Asked:** in chat, 27 Sep 2026, after a conversion review of marlbridge.com. **Answered by the owner:** 27 Sep 2026 ("WhatsApp within 1 hour"; "leave the pricing as it is, fix the rest").
+
+**Decisions.**
+- Reply promise: WhatsApp within an hour, 9am to 10pm Pakistan time; email the same day. Replaces the D-149 / 2026-09-06 promise (email two working days, WhatsApp one). Business register item 15 is updated.
+- Pricing is unchanged (owner: "leave the pricing as it is").
+
+**Implemented.**
+- `PRICING_TERMS.enquiryResponse` (single source for every page), the family acknowledgement email (`ACK_RESPONSE_SUMMARY`), the /trial/ meta description, and the ar/ur/bn home contact blurbs.
+- Trial copy: "a request, not a booking" / "Nothing is booked yet" removed from the selling pages (trial page, form, success panel, tuition panels, FAQs, international hub, market pages, diagnostic, llms.txt, ar/ur/bn trial notes). The copy still says, accurately, that we match a specialist and agree a time with the family before the class. The internal staff email keeps "not a confirmed booking".
+- Homepage programs grid shows only programs taught now (SAT stays on /programs/ with its status); the "Only programs marked Teaching now" note and the per-card badge are gone; a "Not sure where to start?" trial card fills the last cell.
+- Editorial image alt text no longer says "not a photograph of ...".
+- Diagnostics: below 60% self-marked, the trial box names the weakest topic and becomes a primary button (`data-cta="diagnostic-trial-low-score"`).
+
+**Checked, no change needed.** The pricing-page footer already reads "Marlbridge is the international branch of Learners Academy" (an earlier fetch showed an old deploy). IB subject resource counts of 10 are real files.

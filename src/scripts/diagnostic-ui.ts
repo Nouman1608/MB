@@ -204,6 +204,25 @@ function init(d: Data): void {
       next.textContent = 'Full marks on every question here. Try the other diagnostic for this syllabus, or practise mixed questions to test other topics.';
     }
 
+    // D-337: below 60% the free trial is the most useful next step, so the
+    // trial box names the weakest topic and becomes a primary button.
+    const trialBox = document.getElementById('diag-trial-box');
+    const trialText = document.getElementById('diag-trial-text');
+    const trialLink = document.getElementById('diag-trial-link');
+    if (trialBox && trialText && trialLink) {
+      const subject = trialLink.dataset.subject ?? 'subject';
+      const low = total > 0 && got / total < 0.6;
+      trialBox.className = low ? 'rounded-sm border-2 border-gold-500 bg-ivory p-5' : 'rounded-sm border border-rule bg-white p-5';
+      trialLink.className = low
+        ? 'mt-3 inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-5 text-[14.5px] font-medium text-ivory hover:bg-navy-700'
+        : 'mt-3 inline-flex min-h-11 items-center text-[14.5px] font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600';
+      trialLink.textContent = low ? 'Book a free class on this topic' : 'Request a free trial class';
+      trialLink.dataset.cta = low ? 'diagnostic-trial-low-score' : 'diagnostic-trial';
+      trialText.textContent = low && weakest
+        ? `${weakest[1].name} is costing you marks. A ${subject} specialist can take you through it in a free trial class.`
+        : `Want help with these topics? Request a free class with a ${subject} teacher.`;
+    }
+
     // Worked answers again, for review.
     const review = $('diag-review');
     review.replaceChildren();
