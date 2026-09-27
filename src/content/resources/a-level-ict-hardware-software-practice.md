@@ -1,9 +1,9 @@
 ---
-title: "Cambridge A-Level ICT: Hardware and Software — Practice Questions"
+title: "Cambridge A Level Information Technology (ICT): Hardware and Software — Practice Questions"
 resourceType: "practice-questions"
 subject: "ict"
 level: ["a-levels"]
-topic: "Section 2 – Hardware and Software"
+topic: "Topic 2 – Hardware and Software"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9626"]
@@ -13,17 +13,18 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "hardware-and-software"
-description: "Exam-style questions with full worked answers on mainframes and supercomputers, system and utility software, custom-written vs off-the-shelf software, and user interfaces, for Cambridge AS & A Level ICT (9626) Section 2."
+description: "Exam-style questions with full worked answers on mainframes and supercomputers, system and utility software, custom-written vs off-the-shelf software, and user interfaces, for Cambridge AS & A Level Information Technology (9626) Topic 2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
+updatedDate: 2026-09-27
 featured: false
 ---
 
 > These are original practice questions written in the style of Cambridge
-> AS & A Level ICT (9626) assessment objectives. They are not taken from any
+> AS & A Level Information Technology (9626) assessment objectives. They are not taken from any
 > past paper and are not endorsed by Cambridge International.
 
-Use these questions alongside the [Section 2 – Hardware and Software study
+Use these questions alongside the [Topic 2 – Hardware and Software study
 guide](/resources/a-level-cambridge-ict-hardware-and-software/) and
 [revision
 notes](/resources/a-level-ict-hardware-software-revision-notes/).
@@ -174,13 +175,11 @@ ease-of-learning concerns [2].
 
 ## A note on exam technique for this topic
 
-Nearly every sub-topic in Section 2 is examined through "advantages
+Nearly every sub-topic in Topic 2 is examined through "advantages
 and disadvantages" or a "justify your choice" scenario, so the
 highest-value revision habit is holding, for every named category, at
 least one alternative it could be confused with and one concrete
 scenario where choosing between the two genuinely matters. A generic
-answer that a system is simply "more advanced" or "better" earns
-little credit; the mark scheme is looking for the choice to be tied
-explicitly to the scenario's specific details — budget, timescale,
+answer that a system is simply "more advanced" or "better" is weak; a good answer ties the choice explicitly to the scenario's specific details — budget, timescale,
 required reliability, or the technical skill of the intended user —
 the same way questions 6 to 10 above are structured.

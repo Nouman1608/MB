@@ -1,9 +1,9 @@
 ---
-title: "Cambridge A-Level ICT: Hardware and Software (9626)"
+title: "Cambridge A Level Information Technology (ICT): Hardware and Software (9626)"
 resourceType: "study-guides"
 subject: "ict"
 level: ["a-levels"]
-topic: "Section 2 – Hardware and Software"
+topic: "Topic 2 – Hardware and Software"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9626"]
@@ -13,22 +13,23 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "hardware-and-software"
-description: "Mainframe computers and supercomputers, system software, utility software, custom-written and off-the-shelf software, and user interfaces -- Section 2 of Cambridge International AS & A Level ICT (9626)."
-seoDescription: "Cambridge AS & A Level ICT (9626) Section 2 study guide: mainframes, system and utility software, off-the-shelf vs custom software, and user interfaces."
+description: "Mainframe computers and supercomputers, system software, utility software, custom-written and off-the-shelf software, and user interfaces -- Topic 2 of Cambridge International AS & A Level Information Technology (9626)."
+seoDescription: "Cambridge AS & A Level IT (9626) topic 2 guide: mainframes, system and utility software, off-the-shelf vs custom software, and user interfaces."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
+updatedDate: 2026-09-27
 featured: false
 ---
 
-This guide covers **Section 2 Hardware and Software**, for Cambridge
-International AS & A Level ICT (9626), 2025–2027 series. It is the
-second of 21 sections in the syllabus; AS Level candidates study Sections
-1–11, of which this is one, and the full A Level adds Sections 12–21.
+This guide covers **Topic 2 Hardware and Software**, for Cambridge
+International AS & A Level Information Technology (9626), 2025–2027 series. It is the
+second of 21 topics in the syllabus; AS Level candidates study topics
+1–11, of which this is one, and the full A Level adds topics 12–21.
 
 ## Where this fits in 9626
 
 Having introduced data, information and the methods of processing it in
-Section 1, Section 2 moves to the physical and logical machinery that
+Topic 1, Topic 2 moves to the physical and logical machinery that
 processes that data — from the largest classes of computer (mainframes
 and supercomputers) down to the software layer that makes any computer
 usable, including the operating systems, utilities and interfaces a
@@ -36,7 +37,7 @@ candidate will already have encountered informally.
 
 ## Syllabus coverage
 
-**CAMBRIDGE A-LEVEL ICT (9626) — SECTION 2 HARDWARE AND SOFTWARE**
+**CAMBRIDGE INTERNATIONAL AS & A LEVEL INFORMATION TECHNOLOGY (9626) — TOPIC 2 HARDWARE AND SOFTWARE**
 
 - 2.1 Mainframe computers and supercomputers — characteristics including
 longevity, reliability/availability/serviceability (RAS), security,
@@ -67,10 +68,11 @@ and disadvantages
 
 ## How to approach it
 
-Section 2 rewards knowing not just *what* each category of hardware or
+Topic 2 rewards knowing not just *what* each category of hardware or
 software is, but *why* an organisation would choose one option over
 another — nearly every sub-topic ends in "advantages and disadvantages,"
-which is where exam marks concentrate. Build revision around comparison
+so be ready to
+weigh options, not just define them. Build revision around comparison
 tables (mainframe vs supercomputer, interpreter vs compiler, proprietary
 vs open-source, GUI vs command line) rather than isolated definitions.
 
@@ -100,9 +102,8 @@ For system and utility software, be precise about the difference between
 the two: system software (2.2) manages and translates for the computer
 itself — operating systems, compilers, device drivers — while utility
 software (2.3) performs a specific maintenance task for the user, such as
-backing up or compressing files. Confusing the two categories in an exam
-answer loses marks even when the factual content about what the software
-does is otherwise correct.
+backing up or compressing files. Mixing up the two categories weakens an answer even when the
+factual content about what the software does is otherwise correct.
 
 ## Worked example: comparing software types
 

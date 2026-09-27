@@ -1,9 +1,9 @@
 ---
-title: "Cambridge A-Level ICT: Monitoring and Control — Revision Notes"
+title: "Cambridge A Level Information Technology (ICT): Monitoring and Control — Revision Notes"
 resourceType: "revision-notes"
 subject: "ict"
 level: ["a-levels"]
-topic: "Section 3 – Monitoring and Control"
+topic: "Topic 3 – Monitoring and Control"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9626"]
@@ -13,9 +13,10 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "monitoring-and-control"
-description: "Condensed recall notes on sensors, calibration, actuators, and microprocessor-controlled systems for Cambridge International AS & A Level ICT (9626), Section 3."
+description: "Condensed recall notes on sensors, calibration, actuators, and microprocessor-controlled systems for Cambridge International AS & A Level Information Technology (9626), Topic 3."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-05
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -30,7 +31,7 @@ Condensed for the final weeks. For the full explanation, use the
 | Example | A weather station logging humidity | A greenhouse vent opening at a temperature threshold |
 | Human involvement | Human reviews the data | No human decision needed |
 
-**The most common way marks are lost**: describing a monitoring
+**A frequent slip**: describing a monitoring
 scenario when the question asks about control, or vice versa.
 
 ## 3.1 Sensors and calibration
@@ -61,7 +62,7 @@ sunlight) and patient monitoring.
 | Sound | Burglar alarm | Detects noise |
 
 **Always justify the fit** — naming a sensor without saying *why* it
-suits the scenario loses marks. A vague "temperature sensor for
+suits the scenario makes a weak answer. A vague "temperature sensor for
 conditions" answer is weaker than "temperature sensor because it
 specifically measures temperature, triggering the vent at a defined
 threshold."
@@ -91,8 +92,8 @@ A greenhouse vent system:
 
 A flowchart answer must show the sensor reading, a **decision box**
 comparing it to the threshold, and the actuator action as the
-decision's outcome — this is exactly the Section 4 (Algorithms and
-Flowcharts) link the syllabus expects.
+decision's outcome — this is the topic 4 (Algorithms and
+flowcharts) link the syllabus asks for.
 
 ## Second worked example: a car park barrier system
 
@@ -153,7 +154,8 @@ Humidity sensor:   Multipoint calibration is more appropriate --
 
 Matching calibration type to the sensor's actual response shape,
 rather than defaulting to the same calibration method for every
-sensor, is the specific judgement this sub-topic tests.
+sensor, is the judgement to show when a question
+asks which method to use.
 
 ## Exam traps
 
@@ -172,8 +174,7 @@ sensor response.
 1. What is the key difference between monitoring and control?
 2. Name the three calibration types and what distinguishes them.
 3. Why does an infrared sensor suit a burglar alarm specifically?
-4. What is the "closed loop" property of a control system, and why
-does forgetting it lose marks?
+4. What is the "closed loop" property of a control system, and why does it matter?
 5. What three elements must a control-system flowchart show?
 
 **Answers:** 1. Monitoring reads and records a value for a human or

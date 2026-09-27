@@ -62,20 +62,32 @@ not the limiting factor in this case [1]; another factor, for example light inte
 of photosynthesis [1], and increasing carbon dioxide further will not raise growth until whichever factor
 actually is limiting is addressed [1].
 
-**4.** The leaf's flattened shape increases surface area for light absorption and gas exchange [1] [1].
-Stomata (small pores, usually on the underside) allow carbon dioxide to diffuse into the leaf and oxygen
-to diffuse out [1] [1]. Internal air spaces within the leaf increase the surface area available for gas
-exchange between cells and the atmosphere [1].
+**4.** Any five of the following, 1 mark each [5]:
+- The leaf is **broad and flat**, giving a large surface area for gas exchange (and light absorption) [1].
+- The leaf is **thin**, so gases have a short diffusion distance to and from the cells [1].
+- **Stomata** (small pores, mostly on the lower surface) let carbon dioxide diffuse into the leaf and
+  oxygen diffuse out [1].
+- **Guard cells** open and close the stomata, controlling gas exchange (and water loss) [1].
+- **Air spaces in the spongy mesophyll** give a large internal surface area and let gases diffuse
+  quickly between the stomata and the cells [1].
+- The **concentration gradient** of carbon dioxide is kept steep because photosynthesising cells use it
+  up [1].
 
 **5.** **Xylem** transports water and dissolved minerals in one direction only — from the roots up to the
 leaves [1] [1]. **Phloem** transports dissolved sugars (translocation) in both directions, depending on
 where sugars are being produced and where they are needed for growth or storage [1] [1].
 
-**6.** Oxygen enters through **breathing** (inhaled into the alveoli in the lungs) [1]; it diffuses into
-the blood and is carried by the **circulatory system** to body cells [1] [1]; glucose enters via
-**digestion** (absorbed from the small intestine into the blood) and is also carried by the circulatory
-system to body cells [1] [1]; both oxygen and glucose are then used in **respiration**, which occurs in
-the mitochondria of cells, releasing usable energy [1].
+**6.** Any six of the following, 1 mark each [6]:
+- Oxygen enters through **breathing**: air is inhaled into the **alveoli** of the lungs [1].
+- Oxygen **diffuses** from the alveoli into the blood in the surrounding capillaries [1].
+- Oxygen is carried by **red blood cells** (bound to **haemoglobin**) [1].
+- Glucose comes from **digestion** of carbohydrates and is **absorbed** from the small intestine (villi)
+  into the blood [1].
+- Glucose is carried dissolved in the **plasma** [1].
+- The **circulatory system** (the heart pumping blood through arteries to capillaries) delivers both to
+  body cells [1].
+- Both diffuse from the capillaries into cells, where they are used in **aerobic respiration** in the
+  mitochondria, releasing energy [1].
 
 ---
 
@@ -109,7 +121,7 @@ conditions in the question do and do not allow to change.
 ## Connecting this topic to plant and human systems together
 
 Bioenergetics deliberately spans both plant processes (photosynthesis, transport in xylem and phloem) and
-human processes (digestion, breathing, circulation, respiration), and exam questions increasingly draw
+human processes (digestion, breathing, circulation, respiration), and questions can draw
 connections across both halves — for example, asking how a plant's structure supports the gas exchange
 that photosynthesis depends on, then asking how the human body's own gas exchange (breathing) and
 transport (circulation) systems supply oxygen for respiration in animal cells, as in Q6. Revising this
@@ -121,4 +133,4 @@ to answer synoptic questions that expect a candidate to compare or link the two 
 - Writing the respiration equation when a question asks about photosynthesis, or vice versa — always check which gas is being taken in before answering.
 - Naming an enzyme without stating what substance it breaks down.
 - Describing xylem or phloem without specifying the direction of transport.
-- Treating B-marked content (e.g. pacemakers, stents, artificial hearts) as optional -- the qualification is linear and untiered, so it is compulsory for every candidate.
+- Treating B-marked content (e.g. pacemakers, stents, artificial hearts) as optional -- in the specification, B marks content that is in International GCSE Biology but not in Combined Science, so it is required for every 9201 Biology candidate.

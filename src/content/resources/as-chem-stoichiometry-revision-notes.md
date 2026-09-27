@@ -47,6 +47,8 @@ atom economy            (sum of Mr x coefficient for desired product) /
                         (sum of Mr x coefficient for ALL reactants) x 100
 ```
 
+Atom economy is background only, not a 9701 term.
+
 **Unit discipline:** for pV = nRT, pressure in **Pa**, volume in **m³**, temperature in **K**. Convert: kPa × 1000, cm³ ÷ 10⁶, °C + 273.
 
 ## Ionic formulas and equations
@@ -135,7 +137,7 @@ Addition reactions have 100% atom economy; substitution and elimination do not.
 2. 6.0 g of Mg reacts with 4.0 g of O₂ (2Mg + O₂ → 2MgO). Which is limiting?
 3. State the ideal gas equation and the units required.
 4. A compound is 52.2% C, 13.0% H, 34.8% O. Find the empirical formula.
-5. Distinguish percentage yield from atom economy.
+5. Distinguish percentage yield from atom economy (atom economy is background, not a 9701 syllabus term).
 6. Find the formula of aluminium oxide from Al³⁺ and O²⁻.
 7. Write the full and ionic equations for silver nitrate solution reacting with sodium chloride solution to form a silver chloride precipitate.
 

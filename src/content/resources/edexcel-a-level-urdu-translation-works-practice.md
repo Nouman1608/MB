@@ -9,9 +9,10 @@ qualifications: ["a-level"]
 syllabusCodes: ["9UR0"]
 syllabusSeries: "2018"
 order: 2
-description: "Original practice questions with full worked answers covering a full Section A translation-into-Urdu exercise and its mechanics, plus Section B/C works-response structure, for Pearson Edexcel A-Level Urdu (9UR0) Paper 2."
+description: "Original practice questions with full worked answers: a full translation-into-Urdu exercise like Section A, plus questions on the paper's structure, marking rules and timing for the Section B/C essays, for Pearson Edexcel A-Level Urdu (9UR0) Paper 2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -25,94 +26,100 @@ featured: false
 Related: [Paper 2 study guide](/resources/a-level-edexcel-urdu-translation-and-works/) and
 [revision notes](/resources/edexcel-a-level-urdu-translation-works-revision-notes/).
 
-## Section A -- Translation into Urdu
+This set is in four parts. Part 1 is a translation like the paper's Section A. Parts 2–4 are
+questions *about* the paper — its structure, its marking rules and its timing — not questions in
+the exam's own format. The paper's real Sections B and C are the two essays on works studied.
 
-**1a.** Translate into Urdu:
+## Part 1 -- Translation into Urdu (like the paper's Section A)
+
+**1.** Translate into Urdu:
 
 > Over the past twenty years, the number of students studying abroad has risen sharply. Many return with new skills, but some never come back, and their country loses the talent it invested in.
 
 **[20]**
 
-## Section A (continued) -- Paper structure and rules
+## Part 2 -- Paper structure
 
-**1.** State the total marks and time allocation for Paper 2. **[2]**
+**2.** State the total marks and time allocation for Paper 2. **[2]**
 
-**2.** State the two valid combinations of extended response a candidate may write in Sections B and C. **[2]**
+**3.** State the two valid combinations of extended response a candidate may write in Sections B and C. **[2]**
 
-**3.** Identify the translation direction tested in Paper 2, Section A, and state how it differs from Paper 1. **[2]**
+**4.** Identify the translation direction tested in Paper 2, Section A, and state how it differs from Paper 1. **[2]**
 
-## Section B -- applying the mark-scheme rules
+## Part 3 -- Applying the marking rules
 
-**4.** A candidate translating an unseen English passage into Urdu writes a common noun with a non-grammatical misspelling that does not create ambiguity or form a different word.
+**5.** A candidate translating an unseen English passage into Urdu writes a common noun with a non-grammatical misspelling that does not create ambiguity or form a different word.
 
 **(a)** State whether this error would cost the mark for that chunk, and explain why. **[2]**
 **(b)** A different chunk contains an incorrect verb ending. Explain whether the same tolerance applies, and why or why not. **[3]**
 
-**5.** A candidate writes three extended responses in the time available: two literary-text essays and one film essay.
+**6.** A candidate writes three extended responses in the time available: two literary-text essays and one film essay.
 
 **(a)** Explain why this candidate has made an error in how they approached the paper. **[2]**
 **(b)** Suggest what the candidate should have done instead, given a preference for literary texts over film. **[2]**
 
-**6.** A candidate's Section B essay retells the plot of the studied novel in detail across several paragraphs, without linking any of it to a named social or cultural theme.
+**7.** A candidate's Section B essay retells the plot of the studied novel in detail across several paragraphs, without linking any of it to a named social or cultural theme.
 
 **(a)** Explain which assessment objective this response is likely to score poorly on, and why. **[3]**
 **(b)** Explain how the "Position → Evidence → Cultural connection" structure would have avoided this weakness. **[3]**
 
-## Section C -- timing and structure
+## Part 4 -- Timing
 
-**7.** A candidate spends 50 minutes on Section A's translation and has 1 hour 50 minutes remaining for two extended responses worth 45 marks each.
+**8.** A candidate spends 50 minutes on Section A's translation and has 1 hour 50 minutes remaining for two extended responses worth 45 marks each.
 
 **(a)** Explain why this time allocation is likely to disadvantage the candidate. **[3]**
 **(b)** Recommend a better time allocation across the three sections, with reasoning. **[3]**
 
 ## Worked answers
 
-**1a.** Model translation:
+**1.** Model translation:
 
-> پچھلے بیس برسوں میں بیرونِ ملک تعلیم حاصل کرنے والے طلبہ کی تعداد میں تیزی سے اضافہ ہوا ہے۔ بہت سے طلبہ نئی مہارتیں لے کر واپس آتے ہیں، لیکن کچھ کبھی واپس نہیں لوٹتے، اور اُن کا ملک اُس صلاحیت سے محروم ہو جاتا ہے جس پر اُس نے سرمایہ لگایا تھا۔
+> پچھلے بیس برسوں میں بیرونِ ملک تعلیم حاصل کرنے والے طلبہ کی تعداد میں تیزی سے اضافہ ہوا ہے۔ بہت سے طلبہ نئی مہارتیں لے کر واپس آتے ہیں، لیکن کچھ کبھی واپس نہیں آتے، اور اُن کا ملک اُس صلاحیت سے محروم ہو جاتا ہے جس پر اُس نے سرمایہ لگایا تھا۔
 
-**Marking (points-based — 20 chunks, one mark for the correct translation of each, no chunk worth
-more than one; the specification gives one mark for each correct individual section of language, and
-Pearson's Getting Started Guide for 9UR0 describes the translation as divided into 20 chunks. Accept
-variants that convey the same meaning; non-grammatical, unambiguous misspellings are tolerated, but verb
-and adjective endings must be correct.):** over the past = پچھلے ... میں [1];
+**Indicative marking (Marlbridge's own, points-based — 20 sections, one mark for the correct
+translation of each. The specification says the translation is marked with 1 mark for "each correct
+individual section of language"; Pearson's Getting Started Guide for 9UR0 says the translation is
+divided into 20 "chunks", as in the Paper 2 translation in the sample assessment materials. Accept variants that convey the same meaning; non-grammatical,
+unambiguous misspellings are tolerated, but verb and adjective endings must be correct.):** over the past = پچھلے ... میں [1];
 twenty years = بیس برسوں [1]; the number of = کی تعداد [1]; students = طلبہ [1]; studying = تعلیم
 حاصل کرنے والے [1]; abroad = بیرونِ ملک [1]; has risen = اضافہ ہوا ہے [1]; sharply = تیزی سے [1];
 many = بہت سے (طلبہ) [1]; return = واپس آتے ہیں [1]; with new skills = نئی مہارتیں لے کر [1]; but =
-لیکن [1]; some = کچھ [1]; never = کبھی ... نہیں [1]; come back = واپس لوٹتے [1]; and = اور [1]; their
-country = اُن کا ملک [1]; loses = محروم ہو جاتا ہے [1]; the talent = اُس صلاحیت (سے) [1]; it invested
+لیکن [1]; some = کچھ [1]; never = کبھی ... نہیں [1]; come back = واپس آتے (accept لوٹتے) [1]; and = اور [1]; their
+country = اُن کا ملک [1]; loses = محروم ہو جاتا ہے [1]; the talent = اُس صلاحیت (سے) (accept the plural اُن صلاحیتوں ... جن) [1]; it invested
 in, rendered as a relative clause with ergative نے = جس پر اُس نے سرمایہ لگایا تھا [1]. (Total 20.)
 
-**1.** 110 marks total, over 2 hours 40 minutes. **[2]**
+**2.** 110 marks total, over 2 hours 40 minutes. **[2]**
 
-**2.** Two literary-text essays (Section B twice), or one literary text plus one film (Section B once and Section C once). **[2]**
+**3.** Two literary-text essays (Section B twice), or one literary text plus one film (Section B once and Section C once). **[2]**
 
-**3.** English into Urdu. This is the reverse of Paper 1, which translates from Urdu into English. **[2]**
+**4.** English into Urdu. This is the reverse of Paper 1, which translates from Urdu into English. **[2]**
 
-**4. (a)** No, it would not cost the mark, since the misspelling is non-grammatical, does not create ambiguity, and does not form a different word -- exactly the condition under which the mark scheme's spelling tolerance applies. **[2]**
+**5. (a)** No, it would not cost the mark, since the misspelling is non-grammatical, does not create ambiguity, and does not form a different word -- exactly the condition under which the mark scheme's spelling tolerance applies. **[2]**
 **(b)** No, the same tolerance does not apply. Verb and adjective endings are explicitly excluded from the ordinary spelling tolerance and must be grammatically correct regardless of whether the error creates ambiguity, since the mark scheme treats grammatical accuracy in these specific elements as a stricter, separate requirement from general spelling. **[3]**
 
-**5. (a)** The candidate has written one extended response too many -- Paper 2 requires exactly two extended responses in total (either two literary-text essays, or one literary text plus one film), not three, so time has been spent on an unrequired third response. **[2]**
+**6. (a)** The candidate has written one extended response too many -- Paper 2 requires exactly two extended responses in total (either two literary-text essays, or one literary text plus one film), not three, so time has been spent on an unrequired third response. **[2]**
 **(b)** Given a preference for literary texts, the candidate should have written two literary-text essays (Section B twice) and skipped Section C entirely, rather than attempting all three available response types. **[2]**
 
-**6. (a)** This response is likely to score poorly on AO4 (critical and analytical response to the work, including cultural/social insight), since plot retelling without a named thematic or cultural connection does not demonstrate the analytical, cultural-insight response AO4 specifically rewards -- accurate plot summary alone is not the same as critical analysis. **[3]**
+**7. (a)** This response is likely to score poorly on AO4 (critical and analytical response to the work, including cultural/social insight), since plot retelling without a named thematic or cultural connection does not demonstrate the analytical, cultural-insight response AO4 specifically rewards -- accurate plot summary alone is not the same as critical analysis. **[3]**
 **(b)** This structure requires stating an overall position on the question first, supporting it with two or three specific scenes or lines (not full plot retelling), and closing by explicitly linking the writer's treatment of the issue to a broader social or cultural theme -- following this structure would have prevented the essay from becoming plot summary, since each part of the structure after the opening position requires connecting evidence back to an argument and a cultural theme, rather than narrating events in sequence. **[3]**
 
-**7. (a)** This allocation leaves only 1 hour 50 minutes (55 minutes each) for two responses that the recommended timing allocates roughly 1 hour 5 minutes each -- since Sections B and C together carry 90 of the paper's 110 marks (the bulk of the total), under-time on these sections risks losing more marks than the extra 20 minutes spent on Section A's translation (worth only 20 marks, with a recommended 30 minutes) could ever gain. **[3]**
-**(b)** A better allocation follows the recommended roughly 30 minutes for Section A, then approximately 1 hour 5 minutes for each extended response, totalling close to the full 2 hours 40 minutes -- this matches the marks-per-minute value of each section far more closely, since spending disproportionate time on the lower-value translation section at the expense of the higher-value extended responses works against the paper's actual mark distribution. **[3]**
+**8. (a)** This allocation leaves only 1 hour 50 minutes (55 minutes each) for the two essays. The specification gives Sections B and C 2 hours 10 minutes together, and Pearson's Getting Started Guide recommends 1 hour 5 minutes on each response -- and since Sections B and C together carry 90 of the paper's 110 marks (the bulk of the total), under-time on these sections risks losing more marks than the extra 20 minutes spent on Section A's translation (worth only 20 marks, with a recommended 30 minutes) could ever gain. **[3]**
+**(b)** A better allocation follows the specification's recommended 30 minutes for Section A, then the Getting Started Guide's 1 hour 5 minutes for each essay, totalling the full 2 hours 40 minutes -- this matches the marks-per-minute value of each section far more closely, since spending disproportionate time on the lower-value translation section at the expense of the higher-value extended responses works against the paper's actual mark distribution. **[3]**
 
 ## Why this set treats mechanics and structure as equally important
 
-Section B's questions (4-6) test the specific mark-scheme rules the revision notes flag as easy to
+Part 3's questions (5-7) test the specific mark-scheme rules the revision notes flag as easy to
 apply incorrectly under exam pressure -- the spelling-tolerance exception for verb/adjective endings,
 the two-response limit, and the AO4 cultural-connection requirement -- rather than testing Urdu
 language ability directly, since these procedural and structural errors cost real marks independently
-of how strong a candidate's actual Urdu is. Question 7's timing scenario is included for the same
-reason: the revision notes identify timing discipline as mattering more on this paper specifically,
-since its marks are unevenly distributed across sections.
+of how strong a candidate's actual Urdu is. Question 8's timing scenario is included for the same
+reason: the essays carry 90 of the paper's 110 marks, so time lost on the translation is costly.
 
 ## Official syllabus
 
-Pearson Edexcel A-level Urdu (9UR0) specification, 2018 -- the same source cited by the
+Pearson Edexcel A-level Urdu (9UR0) specification, Issue 1 (June 2018), Paper 2 assessment information,
+the 9UR0 Sample Assessment Materials (Issue 1, June 2018), Paper 2 Section A marking principles, and
+Pearson's Getting Started Guide for 9UR0 (timing and translation marking) --
+the specification is the same source cited by the
 [Paper 2 study guide](/resources/a-level-edexcel-urdu-translation-and-works/) and
 [revision notes](/resources/edexcel-a-level-urdu-translation-works-revision-notes/).

@@ -26,6 +26,9 @@ featured: false
 
 Condensed for the final weeks. For the full explanation, use the
 [Transition Elements study guide](/resources/a-transition-elements-properties-complexes-and-redox-chemistry/).
+These notes focus on 28.1 and 28.2. For 28.3–28.5 (d-orbital splitting and colour, stereoisomerism
+and stability constants), use the
+[colour, isomerism and Kstab revision notes](/resources/a-chemistry-transition-elements-colour-isomerism-kstab-revision-notes/).
 
 ## Definition — get this exactly right
 

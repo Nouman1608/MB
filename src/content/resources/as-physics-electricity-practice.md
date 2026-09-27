@@ -23,6 +23,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on current, resistance, resistivity and I-V characteristics for AS Physics."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -85,7 +86,7 @@ Related: [Electricity revision notes](/resources/as-physics-electricity-revision
 
 **3.** The current is **directly proportional to the potential difference** across a conductor [1], provided the **temperature (and other physical conditions) remain constant** [1].
 
-**4. (a)** ρ = RA ÷ L = (0.23 × 1.8 × 10⁻⁷) ÷ 2.4 [1] [1] = **1.73 × 10⁻⁸ Ω m** [1].
+**4. (a)** ρ = RA ÷ L = (0.23 × 1.8 × 10⁻⁷) ÷ 2.4 [1] [1] = 1.725 × 10⁻⁸ ≈ **1.7 × 10⁻⁸ Ω m** (2 s.f., matching the data) [1].
 **(b)** Resistance **doubles** [1].
 **(c)** Area is proportional to the square of the diameter, so area **quadruples** [1] and resistance is **quartered** [1].
 
@@ -102,11 +103,11 @@ Related: [Electricity revision notes](/resources/as-physics-electricity-revision
 **8.** **E.m.f.** is the energy converted **from other forms to electrical** per unit charge, supplied by the source [1]; **p.d.** is the energy **transferred from electrical to other forms** per unit charge, across a component [1]. While the battery is *discharging* — supplying current to an external circuit — some energy per coulomb is transferred to the battery's own **internal resistance**, so the terminal p.d. is less than the e.m.f. by the "lost volts" across that internal resistance [1]. (The reverse holds while the battery is being *charged*: current is driven into its positive terminal, and the applied terminal voltage must then exceed the e.m.f. by Ir.)
 
 **9. (a)** A curve where resistance **falls** as current (and temperature) increases — the opposite curvature to a filament lamp [1].
-**(b)** As temperature rises, **more charge carriers (electrons) are released** into the conduction band [1], so for a given p.d. more current can flow, meaning resistance falls [1].
+**(b)** As temperature rises, **more charge carriers (electrons) are released** and become free to move [1], so for a given p.d. more current can flow, meaning resistance falls [1].
 **(c)** In a metal, the **number of charge carriers stays constant** with temperature, and it is increased lattice vibration (more frequent collisions) that raises resistance [1]; in a thermistor, the **number of charge carriers itself increases** with temperature, and this effect dominates over any increase in collisions, so resistance falls instead of rising [1].
 
 **10.** **(a)** The **energy transferred** from electrical to other forms **per unit charge** passing through the component [1].
-**(b)** *R* = ρ*L* ÷ *A* [1] = 1.1 × 10⁻⁶ × 2.0 ÷ 5.0 × 10⁻⁷ = **4.4 Ω** [1].
+**(b)** *R* = ρ*L* ÷ *A* [1] = (1.1 × 10⁻⁶ × 2.0) ÷ (5.0 × 10⁻⁷) = **4.4 Ω** [1].
 
 *Examiner insight (June 2025):* the most common mistake was to define potential difference as the energy needed to "move" a unit charge, instead of the energy transferred per unit charge. *Try the real question next:* Cambridge International AS & A Level Physics 9702, June 2025, Paper 22, Question 6.
 

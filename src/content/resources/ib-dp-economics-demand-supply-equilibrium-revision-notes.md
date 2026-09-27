@@ -15,14 +15,14 @@ syllabusTopics:
 description: "Condensed SL-level recall notes on demand, supply and competitive market equilibrium (sub-topics 2.1-2.3), with a first look at price ceilings, for IB Diploma Programme Economics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-26
+updatedDate: 2026-09-27
 featured: false
 ---
 
 Condensed for the final weeks, covering the **SL-level** content of sub-topics 2.1-2.3. For the
 full syllabus, including HL-only extensions, use the
 [IB DP Economics syllabus guide](/resources/ib-dp-economics-syllabus-guide/). These three
-sub-topics open Unit 2 – Microeconomics (not the largest unit in the syllabus: Unit 4, the global
-economy, is larger at SL, and Unit 3, macroeconomics, is larger at HL), and
+sub-topics open Unit 2 – Microeconomics, and
 they build directly on the scarcity-and-opportunity-cost toolkit introduced in Unit 1.
 
 ## Demand (2.1)
@@ -31,7 +31,7 @@ they build directly on the scarcity-and-opportunity-cost toolkit introduced in U
 - A **change in price** causes a movement along the demand curve; a change in any other
   determinant (income, tastes, price of substitutes/complements, population, expectations) causes
   a **shift** of the whole curve.
-- Always distinguish "change in demand" (shift) from "change in quantity demanded" (movement). Examiners specifically reward candidates who use this precise vocabulary rather than the vaguer phrase "demand changes" for both situations.
+- Always distinguish "change in demand" (shift) from "change in quantity demanded" (movement). Use this precise vocabulary rather than the vaguer phrase "demand changes" for both situations.
 
 ## Supply (2.2)
 
@@ -138,13 +138,10 @@ elasticity calculations and diagrams.
 2. State the law of supply.
 3. What happens to price when there is a shortage in a competitive market?
 4. Give two determinants (other than price) that could shift the demand curve.
-
-**Answers:** 1. A change in the good's own price causes a movement along the curve; a change in any other determinant (income, tastes, related prices, etc.) causes the curve to shift. 2. As price rises, quantity supplied rises, ceteris paribus. 3. Price rises, as buyers compete for the limited quantity available, until the market clears at the new equilibrium. 4. Any two: income, tastes/preferences, price of substitutes or complements, population, consumer expectations.
-
 5. Name the three functions of the price mechanism.
 6. If demand shifts right while supply is unchanged, what happens to equilibrium price and quantity?
 
-**Answers (continued):** 5. Signalling, incentive, and rationing. 6. Both equilibrium price and equilibrium quantity rise.
+**Answers:** 1. A change in the good's own price causes a movement along the curve; a change in any other determinant (income, tastes, related prices, etc.) causes the curve to shift. 2. As price rises, quantity supplied rises, ceteris paribus. 3. Price rises, as buyers compete for the limited quantity available, until the market clears at the new equilibrium. 4. Any two: income, tastes/preferences, price of substitutes or complements, population, consumer expectations. 5. Signalling, incentive, and rationing. 6. Both equilibrium price and equilibrium quantity rise.
 
 ## Official syllabus
 

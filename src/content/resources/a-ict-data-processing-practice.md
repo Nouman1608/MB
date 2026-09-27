@@ -1,9 +1,9 @@
 ---
-title: "A Level ICT: Data Processing and Information — Practice Questions"
+title: "A Level Information Technology (ICT): Data Processing and Information — Practice Questions"
 resourceType: "practice-questions"
 subject: "ict"
 level: ["a-levels"]
-topic: "Section 1 – Data Processing and Information"
+topic: "Topic 1 – Data Processing and Information"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9626"]
@@ -13,9 +13,10 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "data-processing-and-information"
-description: "Original exam-style practice questions with full worked answers on data vs information, validation, verification, encryption, databases and processing methods."
+description: "Original exam-style practice questions with full worked answers on data and information, quality of information, validation, verification, encryption and processing methods for Cambridge AS & A Level Information Technology 9626, topic 1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -26,11 +27,13 @@ featured: false
 
 Related: [Data Processing and Information revision notes](/resources/a-ict-data-processing-revision-notes/)
 
+These questions are for **topic 1, Data processing and information** (AS Level), of Cambridge International AS & A Level Information Technology (9626). **Questions 4 and 5 are on databases, which the 2025–2027 syllabus places in topic 10 (Database and file concepts), not topic 1.** They are kept here, labelled, for students revising both topics.
+
 ---
 
 ## Section A
 
-**1.** Distinguish between data, information and knowledge, giving an example of each. **[3]**
+**1.** Distinguish between data and information, giving an example of each, and state what turns data into information. **[3]**
 
 **2.** State **four** factors that affect the quality of information. **[4]**
 
@@ -42,15 +45,15 @@ Related: [Data Processing and Information revision notes](/resources/a-ict-data-
 **(b)** Describe **two** methods of verification. **[4]**
 **(c)** Explain why validation cannot guarantee that data is correct. **[2]**
 
-**4.** Explain the difference between a flat file and a relational database, and give **three** advantages of a relational database. **[5]**
+**4.** *(Topic 10, Database and file concepts.)* Explain the difference between a flat file and a relational database, and give **three** advantages of a relational database. **[5]**
 
-**5.** Explain the terms primary key, foreign key and referential integrity. **[6]**
+**5.** *(Topic 10, Database and file concepts.)* Explain the terms primary key, foreign key and referential integrity. **[6]**
 
-**6.** Explain the difference between batch processing and real-time transaction processing, giving **one** example system suited to each. **[8]**
+**6.** Explain the difference between batch processing and online processing, giving **one** example system suited to each. **[8]**
 
 ## Section C
 
-**7.** Distinguish between static and dynamic data, giving an example of each. **[2]**
+**7.** Explain why data entry needs both validation and verification, rather than just one of them. **[2]**
 
 **8.** A researcher can either run their own survey or use existing census data.
 
@@ -68,9 +71,9 @@ Related: [Data Processing and Information revision notes](/resources/a-ict-data-
 
 ## Answers
 
-**1. Data** — **raw facts and figures with no context**, e.g. "42" [1]. **Information** — **data given context and meaning**, e.g. "42 students attended" [1]. **Knowledge** — **information applied with understanding to make a decision**, e.g. recognising that 42 is below average attendance and acting on it [1].
+**1. Data** — **raw facts and figures with no context**, e.g. "42" [1]. **Information** — **data given context and meaning**, e.g. "42 students attended today's class" [1]. Data becomes information when **context and meaning** are added [1].
 
-**2.** Any four: **accuracy**, **relevance**, **completeness**, **timeliness (up to date)**, **level of detail**, **presentation and clarity of format** [1] [1] [1] [1].
+**2.** Any four, e.g. **accuracy**, **relevance**, **age** (how up to date it is), **level of detail**, **completeness** — the five examples the syllabus gives [1] [1] [1] [1]. (Indicative marking written for this practice set, not official marking; other sensible factors could be credited.)
 
 **3. (a)** Any four, 2 marks each: **Range check** — the value must fall between set limits; suitable for **age or a percentage mark** [1] [1]. **Format (picture) check** — the data must match a pattern; suitable for a **postcode or a date** [1] [1]. **Presence check** — the field must not be left blank; suitable for a **surname or student ID** [1] [1]. **Type check** — the data must be of the correct data type; suitable for a **numeric quantity field** [1] [1]. **Length check** — a set number of characters; suitable for a **phone number** [1] [1]. **Check digit** — a calculated digit appended to a code; suitable for a **barcode or ISBN** [1] [1].
 **(b)** **Double entry** — the data is entered twice, by the same or different operators, and the two versions are compared by the computer; any difference is flagged [1] [1]. **Visual (proofreading) check** — the operator compares the data on screen against the original source document [1] [1].
@@ -81,23 +84,23 @@ Advantages, any three [1] each, maximum [3]: **reduced data redundancy** — eac
 
 **5. Primary key** — a field (or combination) that **uniquely identifies each record in a table**; no two records may share it and it cannot be null [1] [1]. **Foreign key** — a field in one table that **refers to the primary key of another table**, creating the relationship between them [1] [1]. **Referential integrity** — the rule that a **foreign key value must always match an existing primary key value** in the related table [1], which prevents "orphan" records such as an order attached to a customer who does not exist [1].
 
-**6. Batch processing** collects transactions together and processes them all at a scheduled time, with no user interaction while running [1] [1]; suited to **payroll**, where there is a large volume of similar transactions and no need for an immediate response [1] [1]. **Real-time transaction processing** processes each transaction immediately as it arrives, keeping the master file continuously up to date [1] [1]; suited to a **seat-booking system**, where two customers must never be able to reserve the same seat, which batching could allow in the gap before the file is updated [1] [1].
+**6. Batch processing** collects transactions together and processes them all at a scheduled time, with no user interaction while running [1] [1]; suited to **payroll**, where there is a large volume of similar transactions and no need for an immediate response [1] [1]. **Online processing** processes each transaction immediately as it is entered, keeping the master file continuously up to date [1] [1]; suited to a **seat-booking system**, where two customers must never be able to reserve the same seat, which batching could allow in the gap before the file is updated [1] [1].
 
-**7. Static** data does not change once recorded, e.g. a date of birth [1]. **Dynamic** data changes automatically as its source updates, e.g. a live share price or a sensor reading [1].
+**7.** Validation only checks that data is **reasonable**, so a wrong but sensible value (e.g. a mistyped but possible date of birth) still passes [1]. Verification checks the data against the source or after transfer, so it catches **copying and transmission errors** that validation misses — but it cannot tell whether the data is sensible, or catch an error already on the source document, so both are needed [1].
 
 **8. (a)** The researcher's own survey is a **direct** source [1]; the census data is an **indirect** source, since it was collected for a different original purpose [1].
 **(b)** Any one advantage: the census data is **cheap and immediately available**, and often covers a very large sample [1] [1]. Any one disadvantage: it **may be out of date, in the wrong format for the researcher's needs, or carry an unknown bias**, since it was not designed for this specific research question [1] [1].
 
 **9.** Payroll involves a **large volume of similar transactions with no urgency**, so it can be collected and processed together in a scheduled batch, e.g. overnight when the system is otherwise idle [2]. An **autopilot is a real-time control system**, where the output (an adjustment to the aircraft's controls) must feed back to influence the very next input **immediately** — a delay of even a few seconds while data is batched would be unsafe, since the system must respond continuously to changing conditions [2].
 
-**10. (a)** **Symmetric** encryption uses a **single private key** to both encrypt and decrypt, so the key must be shared securely [1]; **asymmetric** encryption uses a **public key to encrypt and a matching private key to decrypt**, so the private key never has to be sent [1].
+**10. (a)** **Symmetric** encryption uses a **single secret (private) key** to both encrypt and decrypt, so the key must be shared securely [1]; **asymmetric** encryption uses a **public key to encrypt and a matching private key to decrypt**, so the private key never has to be sent [1].
 **(b)** Staff connecting to the internal network: **IPsec** [1], because it encrypts and authenticates **all traffic between the home device and the company network** at the network layer, whatever application is used, as in a VPN [1]. Customers ordering on the website: **TLS/SSL** [1], because it secures the **session between the customer's browser and the web server** and needs nothing installed by the customer beyond the browser [1].
 
 ---
 
-## Where marks are usually lost
+## Common mistakes
 
 - Confusing validation with verification.
 - Giving a validation check without a suitable field.
 - Saying a primary key "identifies the table" rather than each record.
-- Confusing batch processing with real-time processing, or picking an example scenario unsuited to the method described.
+- Confusing batch processing with online or real-time processing, or picking an example scenario unsuited to the method described.

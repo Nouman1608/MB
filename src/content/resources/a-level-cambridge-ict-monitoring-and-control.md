@@ -1,9 +1,9 @@
 ---
-title: "Cambridge A-Level ICT: Monitoring and Control (9626)"
+title: "Cambridge A Level Information Technology (ICT): Monitoring and Control (9626)"
 resourceType: "study-guides"
 subject: "ict"
 level: ["a-levels"]
-topic: "Section 3 – Monitoring and Control"
+topic: "Topic 3 – Monitoring and Control"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9626"]
@@ -13,30 +13,31 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "monitoring-and-control"
-description: "Sensors, calibration, actuators and microprocessor-controlled technology -- Section 3 of Cambridge International AS & A Level ICT (9626), covering monitoring, measurement and control systems."
+description: "Sensors, calibration, actuators and microprocessor-controlled technology -- Topic 3 of Cambridge International AS & A Level Information Technology (9626), covering monitoring, measurement and control systems."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
+updatedDate: 2026-09-27
 featured: false
 ---
 
-This guide covers **Section 3 Monitoring and Control**, for Cambridge
-International AS & A Level ICT (9626), 2025–2027 series. It is the third
-of 21 sections, studied at AS Level alongside Sections 1–11.
+This guide covers **Topic 3 Monitoring and Control**, for Cambridge
+International AS & A Level Information Technology (9626), 2025–2027 series. It is the third
+of 21 topics, studied at AS Level alongside topics 1–11.
 
 ## Where this fits in 9626
 
-Section 3 builds directly on Section 2's hardware and software
+Topic 3 builds directly on Topic 2's hardware and software
 foundations, moving from general-purpose computing to systems built
 specifically to sense the physical world and act on it — the sensors,
 calibration methods, actuators and microprocessor-controlled devices
 behind applications from weather stations to burglar alarms and smart
 homes. Candidates are also expected to represent this processing as
-algorithms or flowcharts, linking Section 3 forward to Section 4
+algorithms or flowcharts, linking Topic 3 forward to Topic 4
 (Algorithms and Flowcharts).
 
 ## Syllabus coverage
 
-**CAMBRIDGE A-LEVEL ICT (9626) — SECTION 3 MONITORING AND CONTROL**
+**CAMBRIDGE INTERNATIONAL AS & A LEVEL INFORMATION TECHNOLOGY (9626) — TOPIC 3 MONITORING AND CONTROL**
 
 - 3.1 Monitoring and measurement technologies — sensors including
 light/UV, temperature, pressure, humidity, pH, gas sensors (oxygen,
@@ -67,7 +68,7 @@ motorways), car park barriers, traffic lights, wireless sensor and
 actuator networks, and smart homes, together with the advantages and
 disadvantages of different control technologies
 - Representing control processing as an algorithm or flowchart for any
-of the control technologies listed above (linking to Section 4)
+of the control technologies listed above (linking to Topic 4)
 
 ## How to approach it
 
@@ -76,9 +77,8 @@ though both rely on sensors: monitoring reads and records a value for a
 human or system to review (a weather station logging humidity), while
 control uses a sensor reading to trigger an automatic response without
 waiting for a human decision (a greenhouse vent opening when a
-temperature sensor crosses a threshold). Many exam answers lose marks by
-describing a monitoring scenario when the question asks about control,
-or vice versa.
+temperature sensor crosses a threshold). A frequent slip is describing a monitoring scenario when the question
+asks about control, or vice versa.
 
 For calibration, learn the distinction between the three methods rather
 than the term alone: one-point calibration checks a sensor against a
@@ -93,8 +93,8 @@ that sensor suits that use — a proximity sensor works for a smartphone
 screen because it needs to detect closeness without contact, while an
 infrared sensor suits a burglar alarm because it detects the heat given
 off by a human body rather than requiring the intruder to touch
-anything. Vague answers that name a sensor without justifying the fit to
-the scenario are a common way marks are lost.
+anything. An answer that names a sensor without justifying the fit to the
+scenario is weak.
 
 ## Worked example: choosing a sensor
 
@@ -108,7 +108,8 @@ rotary or linear movement); once the temperature falls back below the
 threshold, the reverse signal closes the vent. A flowchart representation
 would show the sensor reading, a decision box comparing it to the
 threshold, and the actuator action as the outcome of that decision —
-exactly the kind of link to Section 4 the syllabus expects.
+the kind of link to topic 4
+(4.1) that the syllabus asks for.
 
 ## Common mistakes
 

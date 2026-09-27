@@ -20,21 +20,27 @@ syllabusTopics:
 description: "Producing primary and secondary amines, comparing the basicity of ammonia, ethylamine and phenylamine, phenylamine's preparation, and azo dye coupling, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
 publishedDate: 2026-08-17
-updatedDate: 2026-08-17
+updatedDate: 2026-09-27
 featured: false
 ---
 
 This guide covers subtopics **34.1, Primary and secondary amines**, and
 **34.2, Phenylamine and azo compounds**, from Topic 34, Nitrogen compounds,
 of Cambridge International AS & A Level Chemistry 9701, 2025–2027 series.
-This is A Level content, extending the AS-level introduction to amine
-production and basicity.
+This is A Level content, extending the AS-level halogenoalkane + ammonia
+route (19.1) and the basicity of ammonia (12.1).
 
 ## Before studying this
 
-This resource assumes amine production (from halogenoalkanes and from
-nitriles) and basicity from [Nitrogen Compounds: Amines and
-Nitriles](/resources/as-nitrogen-compounds-amines-and-nitriles/), and
+This resource assumes the AS-level production of amines from
+halogenoalkanes and ammonia (19.1), from [Nitrogen Compounds: Amines and
+Nitriles](/resources/as-nitrogen-compounds-amines-and-nitriles/), and the
+basicity of ammonia (12.1), from [Nitrogen and
+Sulfur](/resources/as-nitrogen-and-sulfur/), which applies the
+[Brønsted–Lowry theory](/resources/as-acids-and-bases-bronsted-lowry-theory/).
+Nitrile reduction and the basicity of amines are A Level content covered
+below. It
+also assumes
 benzene's electrophilic substitution chemistry from [Arenes and
 Halogenoarenes](/resources/a-arenes-and-halogenoarenes/) for phenylamine's
 preparation below.
@@ -62,8 +68,8 @@ as dyes formed via a similar route.
 
 ## Producing primary and secondary amines
 
-Building on the AS-level halogenoalkane and nitrile routes, four production
-methods are recognised at A Level:
+Building on the AS-level halogenoalkane + ammonia route, the syllabus
+lists four production methods at A Level:
 
 | Method | Reagents/conditions | Gives |
 |---|---|---|
@@ -225,7 +231,7 @@ applies to nitrogen's lone pair just as it does to oxygen's.
   in phenylamine's preparation
 - [Amides and Amino Acids](/resources/a-amides-and-amino-acids/) — the
   amide product of amines reacting with acyl chlorides
-- Cambridge AS & A Level Chemistry hub
+- [Cambridge AS & A Level Chemistry hub](/boards/cambridge/a-level/chemistry/)
 
 Written against Cambridge International AS & A Level Chemistry 9701,
 2025–2027 series. Always check the current syllabus for your examination

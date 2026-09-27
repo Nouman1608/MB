@@ -67,7 +67,7 @@ Related: [Metal Properties and Reactivity revision notes](/resources/metals-reac
 **(a)** Describe an experiment to show that both are needed. **[4]**
 **(b)** *(0620 Extended, 5070 required)* Explain how galvanising protects iron by **two** different mechanisms. **[4]**
 
-**6.** *(0620 Extended, 5070 required)* *(Extension beyond this resource's core scope — alloys are covered in* [Alloys and Extraction of Metals](/resources/alloys-and-extraction-of-metals/) *.)* Explain, using a diagram in words, why an alloy is harder than the pure metal. **[3]**
+**6.** *(0620 Extended, 5070 required)* *(Extension beyond this resource's core scope — alloys are covered in* [Alloys and Extraction of Metals](/resources/alloys-and-extraction-of-metals/) *.)* Describe the arrangement of atoms in a pure metal and in an alloy (as you would show in a diagram), and use it to explain why an alloy is harder than the pure metal. **[3]**
 
 **7.** Magnesium ribbon reacts rapidly with steam, but only very slowly with cold water.
 
@@ -96,7 +96,7 @@ Related: [Metal Properties and Reactivity revision notes](/resources/metals-reac
 
 **1.** Potassium, calcium, zinc, iron, copper [2 — 1 mark if one pair is transposed].
 
-**2. Sodium** — melts into a ball, **fizzes vigorously and moves rapidly on the surface**, may ignite [1]. **Calcium** — **steady stream of bubbles**, sinks then rises, solution turns cloudy [1]. **Copper** — **no reaction** [1].
+**2. Sodium** — melts into a ball, **fizzes vigorously and moves rapidly on the surface** [1]. **Calcium** — **steady stream of bubbles**, sinks then rises, solution turns cloudy [1]. **Copper** — **no reaction** [1].
 
 **3.** A metal **more reactive than carbon** must be extracted by **electrolysis of its molten ore**, because carbon cannot reduce it [1] [1]. A metal **less reactive than carbon** can be **reduced by heating with carbon**, which is much cheaper [1]; the least reactive metals such as gold occur **native** and need no extraction [1].
 
@@ -106,7 +106,7 @@ Related: [Metal Properties and Reactivity revision notes](/resources/metals-reac
 **(c)** Aluminium is **more reactive than carbon** [1], so carbon cannot remove the oxygen from aluminium oxide — electrolysis is required instead [1].
 
 **5. (a)** Set up **three boiling tubes each with an iron nail** [1]. Tube 1: **air and water** — the nail rusts [1]. Tube 2: **boiled water with a layer of oil on top**, excluding air — no rust [1]. Tube 3: **dry air with anhydrous calcium chloride and a bung** — no rust [1]. Only the tube with both air and water shows rusting.
-**(b)** The **zinc layer physically covers the iron**, keeping out air and water — a barrier [1] [1]. Zinc is **more reactive than iron**, so even if the coating is scratched the **zinc is oxidised in preference** [1] — **sacrificial protection**, which continues to protect the exposed iron [1].
+**(b)** The **zinc layer covers the iron** as a barrier [1], so **air (oxygen) and water cannot reach the iron** [1]. Zinc is **more reactive than iron**, so even if the coating is scratched the **zinc is oxidised in preference** [1] — **sacrificial protection**, which continues to protect the exposed iron [1].
 
 **6.** In a pure metal the atoms are **the same size and arranged in regular layers that can slide over one another** [1]. In an alloy, **atoms of a different size are introduced** [1], which **distorts the layers and prevents them sliding**, so the alloy is harder [1].
 

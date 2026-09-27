@@ -138,7 +138,7 @@ All arthropods have jointed legs, a segmented body and an exoskeleton. Exam ques
 |---|---|
 | Animal | Multicellular; no cell wall; feed by ingestion |
 | Plant | Multicellular; cellulose cell wall; make food by photosynthesis |
-| Fungus | Cell wall (not cellulose); feed by decomposing/absorbing organic matter |
+| Fungus | Cell wall made of chitin (not cellulose); usually made of thread-like hyphae (yeast is single-celled); feed by secreting enzymes onto organic matter and absorbing the products |
 | Prokaryote | No nucleus; genetic material free in the cytoplasm (e.g. bacteria) |
 | Protoctist | Mostly single-celled; not clearly animal, plant or fungus |
 

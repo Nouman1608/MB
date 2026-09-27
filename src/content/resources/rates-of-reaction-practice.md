@@ -25,6 +25,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on rate factors, collision theory, catalysts and equilibrium for IGCSE Chemistry."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -58,7 +59,7 @@ Related: [Rates of Reaction revision notes](/resources/rates-of-reaction-revisio
 **4.** Explain what a catalyst does, and state one reason catalysts are important in industry. **[3]**
 
 **5.** *(0620 Extended, 5070 required)* Consider the reversible reaction:
-`N₂ + 3H₂ ⇌ 2NH₃`  ΔH = −92 kJ mol⁻¹
+`N₂(g) + 3H₂(g) ⇌ 2NH₃(g)`  ΔH = −92 kJ mol⁻¹
 
 **(a)** State what is meant by a reversible reaction at equilibrium. **[2]**
 **(b)** State and explain the effect on the yield of ammonia of increasing the pressure. **[2]**
@@ -82,7 +83,7 @@ Related: [Rates of Reaction revision notes](/resources/rates-of-reaction-revisio
 
 ## Answers
 
-**1.** Any four: **concentration**, **temperature**, **surface area** of a solid, **pressure** of a gas, presence of a **catalyst** [1] [1] [1] [1]. (Light affects the rate of some reactions, e.g. photography and photosynthesis, but is not part of the closed list of five factors given in the 0620/5070 subject content, so is not creditable here.)
+**1.** Any four: **concentration**, **temperature**, **surface area** of a solid, **pressure** of a gas, presence of a **catalyst** [1] [1] [1] [1]. (Light affects the rate of some reactions, e.g. photosynthesis, but it is not one of the factors listed in the 0620/5070 syllabus for this topic, so learn the five above.)
 
 **2.** *(0620 Extended, 5070 required)* **(a)** Powder has a **larger surface area** [1], so more particles are exposed and there are **more collisions per second** [1].
 **(b)** More acid particles per unit volume [1], so **collisions are more frequent** [1].

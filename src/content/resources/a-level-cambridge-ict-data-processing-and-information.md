@@ -1,9 +1,9 @@
 ---
-title: "Cambridge A-Level ICT: Data Processing and Information (9626)"
+title: "Cambridge A Level Information Technology (ICT): Data Processing and Information (9626)"
 resourceType: "study-guides"
 subject: "ict"
 level: ["a-levels"]
-topic: "Section 1 – Data Processing and Information"
+topic: "Topic 1 – Data Processing and Information"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9626"]
@@ -13,74 +13,76 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "data-processing-and-information"
-description: "Data and information, quality, encryption, validation and verification, and batch, online and real-time processing -- the opening section of Cambridge International AS & A Level ICT (9626), a 21-section syllabus staged across AS and A Level."
+description: "Data and information, quality of information, encryption, validation and verification, and batch, online and real-time processing -- topic 1 of Cambridge International AS & A Level Information Technology (9626), a 21-topic syllabus staged across AS and A Level."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
+updatedDate: 2026-09-27
 featured: false
 ---
 
-This guide covers **Section 1 Data Processing and Information**, the
-first of 21 sections in Cambridge International AS & A Level ICT
-(9626), for examination 2025-2027. The syllabus is staged: AS Level
-candidates study sections 1-11 only, while the full A Level extends
-to all 21 sections.
+This guide covers **topic 1, Data processing and information**, the
+first of 21 topics in Cambridge International AS & A Level Information
+Technology (9626), for examination 2025-2027. The syllabus is staged:
+AS Level candidates study topics 1-11 only, while the full A Level
+extends to all 21 topics.
 
 ## Where this fits in 9626
 
-Section 1 opens the AS-level content, alongside foundational sections
+Topic 1 opens the AS Level content, alongside foundational topics
 on Hardware and software, Monitoring and control, Algorithms and
 flowcharts, eSecurity, The digital divide and Expert systems. The
 distinction between data and information established here recurs
-throughout the syllabus, including in later A-Level-only sections on
-systems analysis and design.
+throughout the syllabus, including in A Level topics such as 16
+(System life cycle) and 17 (Data analysis and visualisation).
 
 ## Syllabus coverage
 
-**CAMBRIDGE INTERNATIONAL AS & A LEVEL ICT (9626) — SECTION 1 DATA
-PROCESSING AND INFORMATION**
+**CAMBRIDGE INTERNATIONAL AS & A LEVEL INFORMATION TECHNOLOGY (9626) —
+TOPIC 1 DATA PROCESSING AND INFORMATION**
 
-Section 1 establishes the core vocabulary the rest of the syllabus
-builds on: the distinction between data and information, how data is
-processed and encoded into meaningful information, validation and
-verification, encryption, and the three processing methods the
-syllabus names: batch processing (including master and transaction
-files and the steps in sequentially updating a master file), online
-processing, and real-time processing where the output affects the input.
+- 1.1 Data and information — the difference between data and
+information; direct and indirect data, their sources, uses and
+advantages and disadvantages
+- 1.2 Quality of information — factors such as accuracy, relevance,
+age, level of detail and completeness
+- 1.3 Encryption — the need for it, symmetric and asymmetric methods,
+the TLS/SSL and IPsec protocols, and its uses
+- 1.4 Checking the accuracy of data — validation and verification
+methods, the difference between them, why both are needed, and their
+advantages and disadvantages
+- 1.5 Data processing — batch processing (including master and
+transaction files and the steps in sequentially updating a master
+file), online processing, and real-time processing where the output
+affects the input
 
 ## How to approach it
 
-Because ICT syllabuses are applied rather than purely theoretical,
-practise explaining the data-information distinction using concrete,
-real-world examples -- a barcode scan versus the stock update it
-triggers, for instance -- rather than only definitions, since exam
-questions typically embed this concept in scenario-based contexts. The
-three processing methods (batch, online transaction and real-time
-control) recur throughout the syllabus as a way of matching a method
-to a scenario, so get comfortable justifying a choice for a new system
-described in an exam scenario rather than treating them as a one-off
-definition to memorise.
+Because Information Technology is an applied subject rather than a
+purely theoretical one, practise explaining the data-information
+distinction using concrete, real-world examples -- a barcode scan
+versus the stock update it triggers, for instance -- rather than only
+definitions, since exam questions typically embed this concept in
+scenario-based contexts. The three processing methods (batch, online
+and real-time) recur throughout the syllabus as a way of matching a
+method to a scenario, so get comfortable justifying a choice for a new
+system described in an exam scenario rather than treating them as a
+one-off definition to memorise.
 
 ## Official syllabus
 
-Cambridge International AS & A Level ICT (9626) syllabus for
-examination 2025, 2026 and 2027 —
+Cambridge International AS & A Level Information Technology (9626)
+syllabus for examination 2025, 2026 and 2027 (version 3, July 2025) —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/662482-2025-2027-syllabus.pdf).
 
-## Data, information and knowledge
+## Data and information
 
-**Data** consists of raw facts and figures with no context — the number 37 alone means nothing. **Information** is data given context and meaning: 37 degrees Celsius, a patient's temperature. **Knowledge** is the ability to act on information: knowing that 37 degrees is normal and requires no treatment.
+**Data** consists of raw facts and figures with no context — the number 37 alone means nothing. **Information** is data given context and meaning: 37 degrees Celsius, a patient's temperature.
 
-Information has quality only if it is accurate, complete, relevant, timely, and presented in a suitable form for its user. Poor decisions usually trace back to a failure in one of these.
+**Direct data** is collected for the specific purpose at hand — the syllabus gives questionnaires, interviews, data logging and observation as examples — and is relevant, current and of known accuracy, but is often costly and slow to gather. **Indirect data** is collected for some other purpose and reused — the syllabus examples are weather data, census data, the electoral register, personal information collected by businesses and used by third parties, and research from textbooks, journals and websites. It is cheap, immediately available and often very large in scale, but it may be out of date, in the wrong format, carry unknown bias, or include irrelevant data the new user cannot filter out. The "wrong format" disadvantage of indirect data is easy to overlook.
 
-**Static** information does not change once produced, such as a printed book. **Dynamic** information updates automatically, such as a live departures board — more useful but dependent on the reliability of its source.
+## Quality of information
 
-**Direct data** is collected for the specific purpose at hand — a researcher's own questionnaire, or a business's own sensor readings — and is relevant, current and of known accuracy, but is often costly and slow to gather. **Indirect data** is collected for some other purpose and reused, such as census data or loyalty-card records used for marketing — cheap, immediately available and often very large in scale, but it may be out of date, in the wrong format, carry unknown bias, or include irrelevant data the new user cannot filter out. The "wrong format" disadvantage of indirect data is easy to overlook but frequently worth a mark.
-
-## Encoding and coding data
-
-Coding replaces a value with a shorter representation — M and F for gender, a three-letter airport code. It saves storage, speeds entry, and allows validation against a defined set.
-
-The costs are real: coarse coding loses precision, values may be misinterpreted by users unfamiliar with the scheme, and information can be lost irretrievably. Encoding colour as "R" cannot distinguish scarlet from crimson.
+The syllabus gives five examples of factors that affect the quality of information: **accuracy**, **relevance**, **age**, **level of detail** and **completeness**; learn these first. Information that is inaccurate, irrelevant to the decision, too old, too vague or too detailed, or missing something essential leads to poor decisions.
 
 ## Data validation and verification
 
@@ -111,7 +113,7 @@ These are frequently confused, and the distinction is the point of the topic.
 | Hash total | A meaningless total of a field (e.g. the sum of employee numbers) is calculated for a batch before and after entry or transfer |
 | Control total | A meaningful total (e.g. the total of hours worked in a batch) is compared in the same way |
 
-Neither guarantees correctness: a date of birth may be valid, verified, and still the wrong date.
+Neither guarantees correctness: a date of birth may be valid, verified, and still the wrong date. The syllabus also asks why **both** are needed: validation catches unreasonable values automatically but misses wrong-but-sensible ones, while verification catches copying and transmission errors but not an error already on the source. Validation is instant and needs no extra staff; visual checking and double entry cost time, and a parity check misses errors that flip an even number of bits.
 
 ## Processing methods
 
@@ -119,7 +121,7 @@ Neither guarantees correctness: a date of birth may be valid, verified, and stil
 - **Online processing** — each transaction is processed as it occurs, keeping the master file current. Named uses: electronic funds transfer, automatic stock control, electronic data interchange, business-to-business buying and selling, and online shopping. Required for booking systems, where two people must not book the same seat.
 - **Real-time processing** — a system in which **the output affects the input**: sensors feed a processor whose output drives actuators, and the changed conditions are measured again. Named uses: computer-controlled greenhouses, central heating, air conditioning, burglar alarms, traffic and car-park control, and wireless sensor and actuator networks such as smart homes, guidance systems and autonomous vehicles.
 
-The syllabus also asks you to **write an algorithm** showing the steps of each method (cross-referenced to section 4.1).
+The syllabus also asks you to **write an algorithm** showing the steps of each method (the syllabus cross-references 4.1, Algorithms).
 
 ## Encryption
 
@@ -130,7 +132,7 @@ Encryption protects data by scrambling it into an unreadable form that can only 
 A booking system must not allow double booking. Which processing method, and why?
 
 ```
-Real-time transaction processing.
+Online processing.
 
 Master file is updated immediately as each booking is confirmed.
 The seat is marked unavailable before the next enquiry is answered.
@@ -146,9 +148,9 @@ Treating validation and verification as the same thing, or swapping their defini
 
 ## Quick revision checklist
 
-- Distinguish data, information and knowledge with a clear example.
-- State the qualities that make information useful.
-- Explain coding with both its benefits and its loss of precision.
+- Distinguish data and information with a clear example, using the words context and meaning.
+- Give examples of direct and indirect data sources, with an advantage and a disadvantage of each.
+- State the syllabus's five examples of quality factors (accuracy, relevance, age, level of detail and completeness), learning these first.
 - Name and describe every validation check, and contrast validation with verification.
 - Compare batch, online and real-time processing, and justify a choice for a scenario.
 - Describe the steps in sequentially updating a master file from a transaction file, and write them as an algorithm.
