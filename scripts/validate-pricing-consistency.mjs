@@ -65,6 +65,17 @@ for (const file of [...files, ...walk('src/data'), ...walk('src/i18n'), ...walk(
   }
 }
 
+// D-346 -- the owner set the WhatsApp reply window to 8am-11pm Pakistan time,
+// every day (27 Sep 2026). Stop the old 9am-10pm window coming back in any
+// language (resource pages are excluded: they only use times in questions).
+const OLD_REPLY_HOURS = [/9\s?am\s?(–|-|to|and)\s?10\s?pm/i, /9 صباحًا حتى 10 مساءً/, /صبح 9 سے رات 10/, /সকাল ৯টা থেকে রাত ১০টা/];
+for (const file of [...files, ...walk('src/data'), ...walk('src/i18n'), ...walk('src/utils'), ...walk('src/components')]) {
+  const text = readFileSync(file, 'utf8').split('\n').filter((l) => !/^\s*(\*|\/\/|\/\*)/.test(l)).join('\n');
+  for (const re of OLD_REPLY_HOURS) {
+    if (re.test(text)) problems.push(`${file}: old WhatsApp reply window (${re}); the owner rule is 8am to 11pm Pakistan time, every day (D-346)`);
+  }
+}
+
 if (problems.length > 0) {
   console.error('Pricing consistency FAILED:');
   for (const p of problems) console.error(`  ✗ ${p}`);

@@ -337,12 +337,14 @@ export const PRICING_TERMS = {
    * which read as slow to a parent comparing tutors the same evening. The
    * hours window is stated so an overnight message does not create a promise
    * nobody is rostered to keep.
+   * D-346 -- owner, 27 Sep 2026: the window is 8am to 11pm Pakistan time,
+   * every day (answers audit N-05, which asked which days it covers).
    */
   enquiryResponse: {
     whatsappReplyHours: 1,
-    whatsappHoursPkt: '9am to 10pm',
-    summary: 'We reply to WhatsApp messages within an hour, between 9am and 10pm Pakistan time, and to email enquiries the same day.',
-    short: 'WhatsApp replies within an hour (9am–10pm Pakistan time); email the same day.',
+    whatsappHoursPkt: '8am to 11pm, every day',
+    summary: 'We reply to WhatsApp messages within an hour, between 8am and 11pm Pakistan time every day, and to email enquiries the same day.',
+    short: 'WhatsApp replies within an hour (8am–11pm Pakistan time, every day); email the same day.',
   },
   /** D-311 -- owner, 24 Sep 2026: "we have teachers available 24/7".
    * D-332 -- owner, 25 Sep 2026: group class times are arranged per group
