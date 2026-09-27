@@ -14480,3 +14480,11 @@ D-349 added an ETag only when the asset response already had one. After D-349 we
 **Change:** 1/1836 becomes 1/1840 on `as-chem-atomic-structure-revision-notes`, including its charge-to-mass line, which now reads 1 ÷ (1/1840) = 1840. The same change is made on `aqa-gcse-chemistry-atomic-structure-practice`, `gcse-chemistry-atomic-structure-practice`, `gcse-aqa-chemistry-atomic-structure-and-periodic-table`, `igcse-edexcel-chemistry-principles-revision-notes` and `aqa-a-level-chemistry-atomic-structure-revision-notes`. `updatedDate` is set to 2026-09-27 on each of them. `docs/content-review/resource-library-audit-2026-09-27.md` records the answers.
 
 **Not changed:** no review status. The owner answered these four points, but has not yet reviewed the D-347 pages in full.
+
+## D-352 - R-06: the live ETag is removed after the Worker; diagnostic probe (2026-09-27)
+
+Checked 27 Sep 2026, 18:01 to 18:10 PKT, after D-350 went live. The deployed Worker code (read back through the Cloudflare API) contains the D-350 ETag logic. A live `GET /trial/` with `If-None-Match: *` returns `304` with `etag: W/"9751639549c56e575103d676f8bb5133-optout"`, so the Worker runs and tags the page. But every live `200` response has no ETag, from the cloud sandbox and from the owner's PC in Lahore alike (`CF-Cache-Status: MISS`, via curl.exe).
+
+Correction to D-350: the asset store does send an ETag for HTML. The tag above is built from it: 32 hex characters, not a SHA-1. D-350's statement that it sends none was wrong. The ETag is removed after the Worker, on 200 responses only. That points to a Cloudflare zone feature that modifies HTML (for example Automatic HTTPS Rewrites or Email Obfuscation), which removes ETags from pages it may change.
+
+To confirm without changing any setting, `?etag-probe=1` adds `no-transform` to the page's Cache-Control (Cloudflare does not apply those HTML features to such responses). It is diagnostic only, affects nothing without the query string, and is to be removed once the cause is settled. Any zone setting change is the owner's decision. Worker tests: 19 pass; `check`: 0 errors.
