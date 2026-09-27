@@ -14371,3 +14371,13 @@ Validation: build OK; `audit:all` PASS (2,282 pages); `check` 0 errors; `test:i1
 **Fix.** (1) `.gitattributes` with `* text=auto eol=lf`, so every text file checks out with LF on every OS and Windows behaves like CI. Renormalising changed no tracked content (the index was already LF throughout). An existing Windows clone picks the new endings up with `git rm -r --cached . && git reset --hard` (no uncommitted work) or a fresh clone. (2) Belt and braces: `bank.ts` now normalises CRLF to LF when it reads a resource file, the same guard `validate-diagnostics.mjs` already applies to author frontmatter, so the parser is correct even on a checkout that ignores the attributes.
 
 **Validation.** On the Windows machine after the change: `validate:diagnostics` PASS, 31 sets valid; `npm run build` passes end to end. CI gate run on the branch: every step success.
+
+## D-346 - WhatsApp reply window: 8am to 11pm Pakistan time, every day (2026-09-27)
+
+**Owner decision (27 Sep 2026, 15:03 PKT).** The WhatsApp reply promise now covers 8am to 11pm Pakistan time, every day. It was 9am to 10pm (D-337), with no days stated. This answers audit finding N-05 (`claude/audit-changed-pages-2026-09-27.md`), which asked which days the promise covers.
+
+- `src/data/pricing.ts` `PRICING_TERMS.enquiryResponse`: `summary`, `short` and `whatsappHoursPkt` updated. Every English page reads these fields: /trial/, the trial form's thank-you text, the home hero, tuition panels, programme pages, resource pages, /tutoring/, /international-tutoring/ and /gulf/.
+- `src/i18n/copy.ts`: the Arabic, Urdu and Bengali contact text now says 8am to 11pm, every day.
+- `scripts/validate-pricing-consistency.mjs`: a new guard fails the build if the old 9am–10pm window appears in English, Arabic, Urdu or Bengali copy. Resource pages are excluded, because they only use times inside questions.
+
+**Not changed:** email stays "the same day". No price, discount or other policy changed.
