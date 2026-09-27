@@ -83,13 +83,9 @@ export async function applyConsentRegion(request: Request, response: Response): 
   const served = optout ? rewrite(base) : base;
   const out = new Response(served.body, served);
   out.headers.set('etag', tag);
-  // D-352 -- diagnostic only: the live 200 response loses its ETag somewhere
-  // after the Worker (a 304 from here keeps it). ?etag-probe=1 adds
-  // Cache-Control no-transform to see whether a Cloudflare HTML feature is
-  // what strips it. Remove once the cause is settled.
-  if (new URL(request.url).searchParams.get('etag-probe') === '1') {
-    out.headers.set('cache-control', `${out.headers.get('cache-control') || 'public, max-age=0, must-revalidate'}, no-transform`);
-  }
+  // D-361 -- the D-352 ?etag-probe=1 diagnostic switch is removed: the owner
+  // closed R-06 (Cloudflare strips the ETag from live HTML; not worth more
+  // work at ~16 KB compressed per page).
   return out;
 }
 

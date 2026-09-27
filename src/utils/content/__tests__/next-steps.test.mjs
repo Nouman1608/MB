@@ -86,3 +86,22 @@ test('On this topic is empty without a same-topic link, even when a diagnostic e
   assert.deepEqual(onThisTopicLinks(steps, '/resources/metals-reactivity-practice/'), []);
   assert.deepEqual(onThisTopicLinks(computeNextSteps({ ...base, syllabusTopics: [] }), '/x/'), []);
 });
+
+// D-362 -- "Test yourself" goes to the Extended diagnostic only for pages
+// whose points are all verified Supplement-only.
+import { isExtendedOnly } from '../next-steps.ts';
+const tiers = [{ slug: 'atoms', subtopics: [
+  { slug: 'metallic-bonding', tier: 'supplement', tierVerified: true },
+  { slug: 'isotopes', tier: 'both', tierVerified: true },
+  { slug: 'guess', tier: 'supplement' },
+] }];
+test('isExtendedOnly: all points verified Supplement-only', () => {
+  assert.equal(isExtendedOnly([m('atoms', 'metallic-bonding')], 'igcse', tiers), true);
+});
+test('isExtendedOnly: false with any Core/both point, an unverified tier, a topic-level mapping or no mapping', () => {
+  assert.equal(isExtendedOnly([m('atoms', 'metallic-bonding'), m('atoms', 'isotopes')], 'igcse', tiers), false);
+  assert.equal(isExtendedOnly([m('atoms', 'guess')], 'igcse', tiers), false);
+  assert.equal(isExtendedOnly([m('atoms')], 'igcse', tiers), false);
+  assert.equal(isExtendedOnly([], 'igcse', tiers), false);
+  assert.equal(isExtendedOnly([m('atoms', 'metallic-bonding')], 'a-levels', tiers), false);
+});
