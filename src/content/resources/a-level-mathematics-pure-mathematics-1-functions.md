@@ -44,8 +44,8 @@ function.
 
 You need to identify the range of a given function in simple cases,
 and find the composition of two given functions. The syllabus gives a
-worked style of example: for f: x ↦ 1/x for x ≥ 1 and g: x ↦ x + 1,
-you should be able to find the range of the composite function gf.
+worked style of example: you should be able to find the range of
+f: x ↦ 1/x for x ≥ 1 and the range of g: x ↦ x² + 1 for x ∈ ℝ.
 
 **The critical rule for composition**: a composite function *gf* can
 only be formed when the range of *f* lies within the domain of *g*.

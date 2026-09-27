@@ -12,6 +12,9 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-1-cambridge-alevel"
+  - qualification: "a-level"
+    topic: "pure-mathematics-1-cambridge-alevel"
+    subtopic: "quadratics-cambridge-alevel-maths"
 description: "Condensed recall notes on completing the square, the discriminant, quadratic inequalities and disguised quadratics for Cambridge AS & A Level Mathematics 9709."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22

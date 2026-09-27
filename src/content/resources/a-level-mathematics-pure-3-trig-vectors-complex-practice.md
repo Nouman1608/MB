@@ -12,6 +12,18 @@ order: 3.2
 syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-3-cambridge-alevel"
+  - qualification: "a-level"
+    topic: "pure-mathematics-3-cambridge-alevel"
+    subtopic: "trigonometry-cambridge-alevel-maths-3"
+  - qualification: "a-level"
+    topic: "pure-mathematics-3-cambridge-alevel"
+    subtopic: "numerical-solution-of-equations-cambridge-3"
+  - qualification: "a-level"
+    topic: "pure-mathematics-3-cambridge-alevel"
+    subtopic: "vectors-cambridge-alevel-maths"
+  - qualification: "a-level"
+    topic: "pure-mathematics-3-cambridge-alevel"
+    subtopic: "complex-numbers-cambridge-alevel-maths"
 description: "Original exam-style questions with full worked answers on the R cos(θ − α) form, double-angle equations, locating roots and fixed-point iteration, vector equations of lines, scalar products and areas, square roots of complex numbers and loci of complex numbers, for Cambridge International AS & A Level Mathematics (9709)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24

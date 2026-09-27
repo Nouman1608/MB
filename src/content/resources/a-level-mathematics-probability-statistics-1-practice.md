@@ -12,6 +12,18 @@ order: 5
 syllabusTopics:
   - qualification: "a-level"
     topic: "probability-and-statistics-1-cambridge-alevel"
+  - qualification: "a-level"
+    topic: "probability-and-statistics-1-cambridge-alevel"
+    subtopic: "permutations-and-combinations-cambridge-alevel-maths"
+  - qualification: "a-level"
+    topic: "probability-and-statistics-1-cambridge-alevel"
+    subtopic: "probability-cambridge-alevel-maths"
+  - qualification: "a-level"
+    topic: "probability-and-statistics-1-cambridge-alevel"
+    subtopic: "discrete-random-variables-cambridge-alevel-maths"
+  - qualification: "a-level"
+    topic: "probability-and-statistics-1-cambridge-alevel"
+    subtopic: "the-normal-distribution-cambridge-alevel-maths"
 description: "Original exam-style Probability & Statistics 1 questions with full worked answers on probability distributions, conditional probability, the geometric distribution, permutations, the normal distribution and the normal approximation to the binomial, for Cambridge AS & A Level Mathematics 9709 Paper 5."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
