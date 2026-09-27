@@ -1,0 +1,5 @@
+# D-345 -- every text file checks out with LF on every OS. The practice-bank
+# frontmatter parser (src/utils/practice/bank.ts) and several validators split
+# on the newline character; a CRLF checkout (Git for Windows default) silently
+# dropped every syllabus topic tag and failed validate:diagnostics on Windows only.
+* text=auto eol=lf

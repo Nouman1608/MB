@@ -116,7 +116,9 @@ export function buildPracticeBank(): PracticeQuestion[] {
   const questions: PracticeQuestion[] = [];
 
   for (const file of files) {
-    const raw = readFileSync(join(RESOURCES_DIR, file), 'utf-8');
+    // D-345: normalise CRLF so the newline-based frontmatter and section parsers
+    // below behave the same on a Windows checkout as they do in CI.
+    const raw = readFileSync(join(RESOURCES_DIR, file), 'utf-8').replace(/\r\n/g, '\n');
     const parts = raw.split(/^---$/m);
     if (parts.length < 3) continue;
     const fm = parts[1];
