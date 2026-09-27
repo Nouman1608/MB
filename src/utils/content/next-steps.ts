@@ -157,3 +157,23 @@ export function onThisTopicLinks(steps: readonly Step[], selfHref: string): OnTh
       kind: s.kind,
     }));
 }
+
+/**
+ * D-362 -- true when every syllabus point this resource is mapped to for the
+ * given qualification is a subtopic with a verified 'supplement' tier. A
+ * topic-level mapping, an unverified tier or any Core / both point makes it
+ * false, so only pages that are wholly Extended content are redirected.
+ */
+export function isExtendedOnly(
+  mappings: readonly { qualification: string; topic: string; subtopic?: string }[],
+  qualification: string | undefined,
+  topics: readonly { slug: string; subtopics: readonly { slug: string; tier?: string; tierVerified?: boolean }[] }[],
+): boolean {
+  const mine = mappings.filter((m) => m.qualification === qualification);
+  if (!mine.length) return false;
+  return mine.every((m) => {
+    if (!m.subtopic) return false;
+    const sub = topics.find((t) => t.slug === m.topic)?.subtopics.find((x) => x.slug === m.subtopic);
+    return !!sub && sub.tierVerified === true && sub.tier === 'supplement';
+  });
+}

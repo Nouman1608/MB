@@ -17,7 +17,7 @@ import { DIAGNOSTIC_SETS, diagnosticPath } from '../../data/diagnostics';
 import { practiceQuestionsForCode } from '../practice/bank';
 import { getResources } from './collections';
 import { routes } from '../urls/routes';
-import { computeNextSteps, type Step } from './next-steps';
+import { computeNextSteps, isExtendedOnly, type Step } from './next-steps';
 
 export interface ResourceNextStepsPlan {
   course: Combination | undefined;
@@ -32,7 +32,14 @@ export async function resourceNextSteps(resource: CollectionEntry<'resources'>):
     d.qualifications.includes(c.qualificationSlug as never) && d.boards.includes(c.boardSlug as never));
   const courseResources = course ? (index.byCourse.get(`${course.boardSlug}/${course.qualificationSlug}/${course.subjectSlug}`) ?? []) : [];
   const code = course ? syllabusFor(course.boardSlug, course.qualificationSlug, course.subjectSlug, d.syllabusCodes)?.code : undefined;
-  const diag = course ? DIAGNOSTIC_SETS.find((s) => s.boardSlug === course.boardSlug && s.qualificationSlug === course.qualificationSlug && s.subjectSlug === course.subjectSlug) : undefined;
+  const courseSets = course ? DIAGNOSTIC_SETS.filter((s) => s.boardSlug === course.boardSlug && s.qualificationSlug === course.qualificationSlug && s.subjectSlug === course.subjectSlug) : [];
+  // D-362 -- owner decision (27 Sep 2026): a page whose syllabus points for
+  // this course are ALL Extended-only (verified 'supplement' tier) sends
+  // "Test yourself" to the course's Extended diagnostic, when one exists,
+  // instead of the first (Core) set.
+  const topicRecords = course ? topicsFor(course.boardSlug, course.qualificationSlug, course.subjectSlug) : undefined;
+  const extendedOnly = !!topicRecords?.tiered && isExtendedOnly(d.syllabusTopics, course?.qualificationSlug, topicRecords.topics);
+  const diag = (extendedOnly ? courseSets.find((s) => s.tier === 'extended') : undefined) ?? courseSets[0];
   const steps = computeNextSteps({
     resourceId: resource.id,
     kind: STUDY_KIND[d.resourceType],
@@ -49,3 +56,4 @@ export async function resourceNextSteps(resource: CollectionEntry<'resources'>):
   });
   return { course, steps };
 }
+
