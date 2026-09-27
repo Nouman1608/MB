@@ -6,7 +6,7 @@ bio: >-
 credentials: []
 image: "/images/faculty/arslan-tanvir.jpg"
 entityType: person
-subjectsTaught: ["Mathematics"]
+subjectsTaught: ["Mathematics", "Mathematics: Analysis and Approaches", "Mathematics: Applications and Interpretation"]
 boardsTaught: ["cambridge", "edexcel", "ib"]
 qualificationsTaught: []
 yearsExperience: 10

@@ -15,6 +15,7 @@
 export const TRIAL_TEACHERS: Readonly<Record<string, string>> = {
   'aizaz-raoof-ali': 'Aizaz Raoof Ali',
   'ameer-hamza': 'Ameer Hamza',
+  'ammar-bilal': 'Ammar Bilal',
   'arslan-tanvir': 'Arslan Tanvir',
   'asif-iqbal': 'Asif Iqbal',
   'azam-siddique': 'Azam Siddique',

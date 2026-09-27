@@ -6,7 +6,7 @@ bio: >-
 credentials: []
 image: "/images/faculty/muhammad-ghazali-siddiqui.jpg"
 entityType: person
-subjectsTaught: ["Mathematics", "Statistics"]
+subjectsTaught: ["Mathematics", "Mathematics: Analysis and Approaches", "Mathematics: Applications and Interpretation", "Statistics"]
 boardsTaught: ["cambridge", "edexcel", "aqa", "ocr", "oxfordaqa", "ib"]
 qualificationsTaught: []
 yearsExperience: 25

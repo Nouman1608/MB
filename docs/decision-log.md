@@ -14254,3 +14254,26 @@ The D-149 principle (no pop-ups or interstitials, and the material stays free) i
 - **N-05.** /trial/ showed the reply promise five times; removed from the lead and the form note (still in the key-facts card, the "We reply" step, the FAQ and the success panel).
 
 **Not changed.** Prices, discounts, the reply promise itself, teacher data. N-03 (teachers for World History, English Literature, IB Maths/Language pages) waits for owner answers.
+
+## D-340 - Teachers for World History, English Literature, IB Mathematics and the IB language courses (2026-09-27)
+
+**Status:** answered and implemented. **Asked:** N-03 of the 27 September audit of changed pages (`audit-changed-pages-2026-09-27.md`), which found 22 taught-subject course pages with no teacher. **Answered by the owner:** 27 September 2026, in chat. (D-339 is taken by the resource-library audit branch, PR #88; this entry is D-340.)
+
+**Decisions.**
+- IB Mathematics: Arslan Tanvir and Muhammad Ghazali Siddiqui ("IB Maths: Sir Arslan and Sir Ghazali").
+- World History: Azam Siddique, including AQA (asked separately, the owner chose to add AQA to his boards).
+- English Literature: Ammar Bilal, a teacher not previously on the site, for every board the site covers (Cambridge, Edexcel, AQA, OxfordAQA and IB).
+- IB Language A, Language B and MYP Language Acquisition: Ammar Bilal. MYP Sciences keeps no teacher (asked separately: "Languages only").
+- His photograph will follow later, so the profile is published without one, as Harris Khan's is.
+
+**Implemented.**
+- New profile `authors/ammar-bilal.md`: English Literature, Language A: Literature, Language A: Language and Literature, Language B and Language Acquisition (MYP); all five boards; no image and no years of experience yet.
+- `azam-siddique.md`: "World History" added to `subjectsTaught` (the subject name the site uses, alongside "History"), and `aqa` added to `boardsTaught`.
+- `arslan-tanvir.md` and `muhammad-ghazali-siddiqui.md`: "Mathematics: Analysis and Approaches" and "Mathematics: Applications and Interpretation" added, the names the IB course pages use.
+- `functions/_lib/trial-teachers.ts`: `ammar-bilal` added, so a trial request may name him (the test that keeps this list level with the profiles passes again).
+
+**Result at build.** The named pages now show their teachers: AQA GCSE World History (Azam Siddique), Cambridge IGCSE English Literature (Ammar Bilal), IB DP Mathematics: Analysis and Approaches (Muhammad Ghazali Siddiqui and Arslan Tanvir), IB DP Language B (Ammar Bilal). Of 167 course pages, 38 still show no teacher; those are the resources-only subjects (Psychology, Sociology, Geography, Global Perspectives, IB Global Politics and ESS, MYP Design, MYP Individuals and Societies, MYP Sciences) and the board and level index pages, which have no single teacher.
+
+**Validation.** `astro check` 0 errors; `validate:academic`, `validate:assessments`, `validate:pinned-teachers` pass; `audit:all` passes; `test:i18n-routes` passes; `node --test` 124 pass, 0 fail; build clean (2,267 pages indexed).
+
+**Still open.** Ammar Bilal's photograph and years of experience, and Harris Khan's (N-06 of the same audit).
