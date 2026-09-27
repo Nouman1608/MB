@@ -193,6 +193,24 @@ The sequence is: choose syllabus → find weak topic → study → questions →
 | B12 | 5 | 5070 and 9701 diagnostics | 25 (5070) and 57 (9701) subtopics are outside any 10-minute set | Not more sets. Point results to the per-topic self-check bank (B9) instead | Topic-level checking | – | – | Covered by B9 |
 | B13 | 2 | Minor items from the sample | Listed in section 5 (OxfordAQA double marks, Edexcel 9UR0 headings, OCR "guaranteed synoptic", 2210 missing two's complement, etc.) | Fix in one pass | Accuracy | – | Low | Each item closed or rejected with a reason |
 
+**Backlog status (27 Sep 2026, evening):**
+
+| # | Status |
+|---|---|
+| B1 | Open. This is the owner's review; no page is marked reviewed. |
+| B2 | Done in D-358. |
+| B3 | Done in D-356. |
+| B4 | Done in D-357. The hub heading "ICT" is shared with 0417; see B15. |
+| B5 | Done in D-357. |
+| B6, B7 | Done in D-343 and D-347. |
+| B8, B9 | Done in D-354. |
+| B10, B11 | Done in D-355. Follow-ups M1–M10 are in section 13. |
+| B12 | Covered by B9. |
+| B13 | Done in D-357. Each item was fixed or rejected with a reason. |
+| **B14 (new)** | 34 "Mark-scheme insight (June 2024)" lines are not verified. Mark schemes for these variants are not published by Cambridge. Verify each one, or relabel it as our own advice. |
+| **B15 (new)** | The 9626 hub heading says "ICT". This needs a per-course display-name override, because the subject entry is shared with 0417. |
+| **B16 (new)** | 0610 and 0625 practice questions carry no Core/Extended tier tags, so the Core filters cannot apply to them. |
+
 ## 9. Verification (27 Sep 2026)
 
 - **Local gate, all pass:**
@@ -273,3 +291,118 @@ After the auditor's check of D-339 (project doc `audit-d339-d341-2026-09-27.md`,
 - **Pages without tier labels:** recounted on the state before this batch (`afcdb54^`) with the rule now stated in section 1. The count is 20, not 22; the auditor's own count was also 20.
 - **Day-30 target:** a 15-page sample cannot distinguish 10% from 19%, so the target is now a count on a sample of at least 30 pages drawn the same way.
 
+
+## 13. Coverage matrices: 0580 and 9702 (B10, B11)
+
+**Written 27 Sep 2026.** Files:
+- `docs/content-review/coverage-matrix-cambridge-0580-2026-09-27.csv` (72 rows)
+- `docs/content-review/coverage-matrix-cambridge-9702-2026-09-27.csv` (76 rows)
+
+Same columns as the chemistry matrix, except the tier/stage column: **"0580 tier"** (Core and Extended / Extended only) and **"9702 stage"** (AS / A Level). One row per official subtopic. **Status is "Present but not yet reviewed" on all 148 rows**: every subtopic has at least one mapped page, and no page has had a teacher review. Keyword evidence is not a review.
+
+### 13.1 Sources and syllabus data check
+
+| Code | Exam years | Document (cambridgeinternational.org) | Version |
+|---|---|---|---|
+| 0580 | 2025–2027 | 662466-2025-2027-syllabus.pdf | Version 3 (May 2024), the latest. The update notice 709706 lists the version 2–3 changes (C5.4/E5.4 prism, E2.11 graphs, C8.2.2/E8.2.2 "random", text alignment). The text used already includes them. |
+| 9702 | 2025–2027 | 664565-2025-2027-syllabus.pdf (downloaded 27 Sep 2026) | Version 1 |
+
+- **`src/data/academic/syllabus-topics.ts` matches both syllabuses:**
+  - 9702: all 25 topics and 76 subtopics match in number, name and stage (AS = topics 1–11, A Level = 12–25).
+  - 0580: all 72 subtopic numbers match, and every tier matches the syllabus (19 subtopics whose Core cell reads "Extended content only" are `supplement`, the other 53 are `both`). Names follow the Core column. The two places where the Extended wording differs (4.7 "Circle theorems I", 9.3 "Averages and measures of spread") are already recorded in the data's own notes. No other mismatch.
+- **Newer syllabuses already published:** 0580 2028–2030 (745681, with update 763300) and 9702 2028–2030 (744626). Not read for this matrix (see M7).
+
+### 13.2 What exists
+
+| | 0580 | 9702 |
+|---|---|---|
+| Rows | 72 (53 Core and Extended, 19 Extended only) | 76 (32 AS, 44 A Level) |
+| Pages mapped | 31: 9 study guides, 9 revision notes, 13 practice sets | 75: 25 of each type |
+| Subtopics with no mapped resource | **0** | **0** |
+| Study guide / notes / practice present | 70 / 72 / 72 | 76 / 76 / 76 |
+| Worked answers (practice has an answers section) | 72 | 76 |
+| Self-check bank (practice file parsed into the bank) | 72 | 76 |
+| In a 10-minute diagnostic (question-level, see 13.5) | 14 | 15 |
+| Outcomes with keyword evidence | Extended statements 171/187; Core statements 108/122 | 275/279, plus 21 formula-only outcomes (formula found by hand) |
+
+### 13.3 Gaps by type
+
+**0580**
+- **Mapped at topic level only**, not to subtopics: the study guide in 70 rows (all 9 guides), revision notes in 38 rows (Number, Algebra, Statistics) and practice in 25 rows (Number, Algebra). A topic-level tag credits the page with every subtopic of the topic. In 8 rows, a topic-level page shows no keyword evidence of its own for that subtopic, even at the looser 50% rule (1.2, 1.3, 1.5, 1.15, 1.16, 1.17, 1.18, 2.11). A read of those pages confirms nothing relevant for 1.2, 1.5, 1.15, 1.18 and 2.11; 1.16 and 1.17 are partial.
+- **No study guide:** 2 rows (1.17 Exponential growth and decay, 1.18 Surds). The Number study guide is tagged to the whole topic but says "Extended-only content is not covered here", so it is not counted for Extended-only rows. It is noted in 4 more rows where the Extended statements add to Core (1.2, 1.7, 1.10, 1.13).
+- **No keyword evidence:** 16 Extended-list outcomes in 12 rows. Each was checked by hand against the mapped pages:
+  - **Gap (not found), 8:** 1.2 sets (notation and Venn diagrams appear only in the study guide's syllabus list); 1.4 converting between fractions, decimals and percentages; 1.5 ordering; 1.14 entering values and reading the calculator display (2); 1.15 time calculations, clocks and timetables (2); 1.16 currency conversion.
+  - **Partial, 4:** 1.4 fraction vocabulary; 1.12 average speed (only a unit conversion); 2.1 letters for generalised numbers; 9.1 tabulating data.
+  - **Method miss (content taught, the syllabus word unused), 4:** 1.16 money; 1.17 exponential growth (depreciation and population questions); 1.18 surds; 3.1 Cartesian coordinates.
+- **Not in a 10-minute diagnostic:** 58 rows. Topics 3 (Coordinate geometry) and 7 (Transformations and vectors) are in neither 0580 set.
+- **Tier labels (0580 only): 22 rows, on 6 pages.** Rule as in section 1: the page body contains none of the words "Core", "Extended" or "Supplement".
+  - **11 of the 19 Extended-only subtopics** are mapped to a page with no tier label in the body: 3.4, 3.7, 4.8, 6.3–6.6, 7.2–7.4 and 8.4. For example, the trigonometry notes give the sine and cosine rules unlabelled.
+  - **11 Core-and-Extended subtopics** whose Extended statements add to the Core ones: 3.3, 3.5, 4.1, 4.4–4.7, 5.3, 6.2, 7.1 and 8.1.
+  - The 6 pages are the revision notes for coordinate geometry, geometry, mensuration, trigonometry, transformations and vectors, and probability.
+  - All 9 study guides and all 13 practice sets do carry tier wording. The Number, Algebra and Statistics notes label Extended items.
+  - The collapsed "Syllabus points this page covers" list (D-339) does show each subtopic's tier on these pages, but only at subtopic level.
+
+**9702**
+- Every row has a study guide, revision notes and practice with worked answers, all mapped at subtopic level.
+- **No keyword evidence:** 4 outcomes in 3 rows. Checked by hand:
+  - **Gap, 3:** circuit symbols (10.1.1 and 10.1.2): components are named, but the symbols are not shown in the page text; experiments demonstrating electromagnetic induction (20.5.4).
+  - **Partial, 1:** the rope, spring and ripple-tank illustrations of wave motion (7.1.1).
+- **Not in a 10-minute diagnostic:** 61 rows. Topics in neither set:
+  - AS: 1, 6, 10 and 11;
+  - A Level: 14, 16, 18, 20, 21, 23, 24 and 25.
+
+### 13.4 Proposed follow-ups (from the matrix evidence; not yet ranked against B1–B13)
+
+Demand figures are only those already in section 4. No new analytics were taken.
+
+| # | Priority | Page / course | Verified issue or gap | Proposed improvement | Student benefit | Evidence of demand | Effort | Acceptance criteria |
+|---|---|---|---|---|---|---|---|---|
+| M1 | 1 | 6 0580 revision-notes pages (coordinate geometry, geometry, mensuration, trigonometry, transformations and vectors, probability) | No tier words in the body. Mapped to 11 Extended-only subtopics and 11 where Extended adds to Core | Label Extended-only items "(Extended)", item by item against the E column, as the Number and Algebra notes already do | A Core candidate can see what to skip | Maths 55 resource clicks; 0580 mensuration practice is a top-3 page | Low–Medium | Section-1 recount finds 0 of the 6 pages without tier words; each label matches the syllabus |
+| M2 | 1 | 0580 Number, Core content | Not taught on the mapped pages: 1.2 sets and Venn diagrams, 1.4 converting between fractions, decimals and percentages, 1.5 ordering, 1.14 calculator use, 1.15 time and timetables, 1.16 currency conversion | Short taught sections in `igcse-mathematics-number-revision-notes`; Core questions with worked answers in `igcse-mathematics-number-practice` (tier note at the top) | Core Number complete for both tiers | As M1 | Medium | A hand re-check finds teaching for each outcome; practice-bank and diagnostics validators pass |
+| M3 | 2 | 0580 Number, Extended content | No study guide for 1.17 and 1.18 (the Number guide covers Core only); E1.2 additions (three-set Venn diagrams, ∈, ∅, ⊆) not found on the Number pages | An Extended section, or a separate Extended Number guide, covering E1.2, E1.4, E1.7, E1.10, E1.13, E1.17 and E1.18 | Extended candidates get a guide for all of Topic 1 | As M1 | Medium | Matrix shows a study guide for 1.17 and 1.18 and keyword evidence for E1.2 |
+| M4 | 2 | 0580 `syllabusTopics` mappings | Study guides are topic-level in 70 rows, notes in 38, practice in 25; 8 rows have a topic-level page with nothing on that subtopic | Map each page to the subtopics it teaches (the guides already cite C/E numbers); remove tags it does not teach | Accurate syllabus-points list, next steps and self-check topic filters (B8, B9) | – | Low–Medium | No 0580 page is tagged to a subtopic it does not teach; `validate:academic` passes |
+| M5 | 2 | 9702 dc-circuits, magnetic-fields and waves pages | 10.1 circuit symbols not shown; 20.5.4 induction experiments not described; 7.1.1 wave-motion illustrations missing | Add a symbol table (from syllabus section 6, not reproduced wholesale), a short description of the induction experiments, and the rope/spring/ripple-tank examples | AS and A Level candidates meet every outcome | Physics 68 clicks, the highest subject | Low | Hand re-check finds each; a physics teacher confirms |
+| M6 | 2 | All 106 0580 and 9702 pages | All `review-pending`. The section 5 sample found minor issues on the 9702 electric-fields notes and the Extended gap on the 0580 mensuration practice (both fixed in D-339) | A physics teacher and a maths teacher review in matrix order, starting with the pages changed by M1–M5 | Correct content | As M1 and M5 | High | Reviewed pages have a named reviewer and date recorded only after a real review |
+| M7 | 2 | `syllabus-topics.ts`, 0580 and 9702 | The 2028–2030 syllabuses are published. Students starting two-year courses in September 2026 sit 2028 exams | Read both, add them as `status: 'future'` series (the file's versioning rule), and list the subtopics that change | Pages stay right for the 2028 cohort | – | Medium | Future entries added and verified against the PDFs; differences listed in the decision log |
+| M8 | 3 | 0580 small partial items | 1.12 average speed, 2.1 letters for generalised numbers, 9.1 tabulating data, 2.11 sketching curves (no practice question), 1.3 roots (practice has powers only) | Add one worked example or question each | Fills small holes | – | Low | Hand re-check finds each |
+| M9 | 3 | 0580 and 9702 diagnostics | No question on 0580 topics 3 and 7; none on 9702 AS topics 1, 6, 10, 11 or A Level topics 14, 16, 18, 20, 21, 23, 24, 25 | As B12: no new sets. Make sure B9's "Retest this topic" works for 0580 and 9702 (every row has self-check questions; 0580 needs M4 first) | Retest on any topic | – | Low (after B9) | B9 link opens the right questions for a 0580 and a 9702 topic |
+| M10 | 3 | 0625 IGCSE Physics (next course to map) | 4 of its 6 topics have no subtopics in `syllabus-topics.ts`, and none of its 14 pages is mapped below topic level | Record the subtopics from the official PDF, map the pages, then build the matrix with the same method | Same as B10 and B11 | Physics 68 clicks | Medium | 0625 matrix saved with subtopic-level rows |
+
+### 13.5 Method and limitations
+
+- **Mapping.** A page counts for a row if:
+  - it is a Cambridge resource for the subject;
+  - it carries the code, or no code;
+  - its frontmatter `syllabusTopics` names the subtopic, or the whole topic. A whole-topic tag counts for every subtopic in the topic, and is flagged "mapped at topic level only".
+  
+  Resource type decides the column: `study-guides`, `revision-notes` or `practice-questions`. No other type is mapped to these codes.
+- **Outcomes.** Parsed from the `pdftotext -layout` text of the official PDFs:
+  - one outcome per numbered item;
+  - where a subtopic has no numbered items, one per bullet (with its stem);
+  - otherwise the whole statement is one outcome.
+  - 0580: only the left (outcome) column is used; "Notes and examples" is dropped. Core and Extended statements are both parsed: 122 Core and 187 Extended. The Extended list includes the Core content.
+  - 9702: 300 outcomes. Topic-level "assumed knowledge" notes are excluded.
+- **Keyword rule.**
+  - Key terms are an outcome's words after removing:
+    - English stopwords;
+    - syllabus command words (understand, use, recall, calculate, describe, explain, represent and similar);
+    - words under 4 letters (except sin, cos, tan, arc and 3-letter acronyms such as HCF, PET);
+    - 2-letter capitals, which are formula symbols in the PDF text.
+  - Each term is reduced to its first 6 letters.
+  - An outcome has evidence when **at least three-quarters** of its key terms (rounded up) occur in the text of the row's mapped pages.
+  - Lines that begin with a syllabus reference (for example "- C1.14 Using a calculator — …") are removed first, because contents lists restate the syllabus rather than teach it.
+- **Why three-quarters.** A control test matched each topic's outcomes against the pages of an unrelated topic:
+  - at 50%, 65/187 (0580) and 123/279 (9702) outcomes wrongly passed;
+  - at 75%, 20/187 (11%) and 39/279 (14%).
+
+  The 75% rule was therefore used. The control rate is the method's approximate false-pass rate: **a "yes" is weak evidence, and a "no" is a prompt to look, not a finding.** Every "no" was checked by hand (13.3), and 4 of the 20 were method misses.
+- **Formula-only outcomes** (21 in 9702, such as "recall and use Q = It") have no words left to test. Each was checked by hand with a text search of the mapped pages, and every formula was found. The matrix says so in the cell.
+- **Diagnostic column.** A row is marked only where a diagnostic question tests that subtopic. The 23 questions in the four 0580/9702 sets were read and assigned by hand (the list is in the script). This is stricter than the chemistry matrix, which credited every subtopic of the source practice file.
+- **Tier labels** use the section 1 rule. It is a page-level test, so it cannot show whether each Extended item is labelled. It is applied to Extended-only rows and to rows where the Extended statements differ from Core.
+- **Not a quality check.** Nothing here shows a page is correct or well taught. Worked answers were counted, not checked.
+- **Script.** `/tmp/claude-0/matrix-b10-b11/build-matrix.mjs` and `parse-syllabus.mjs`, run from the repo root with `node --experimental-strip-types`. They stay outside the repo because:
+  - the PDF parsing is specific to these two layouts;
+  - the syllabus texts are not in the repository;
+  - the manual checks are hard-coded.
+  
+  No resource content was changed.
