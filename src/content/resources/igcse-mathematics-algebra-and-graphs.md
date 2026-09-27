@@ -15,20 +15,21 @@ syllabusTopics:
 description: "Algebraic manipulation, equations, inequalities, sequences and graphs -- the Core and Extended content of Topic 2 Algebra and graphs for Cambridge IGCSE Mathematics 0580, 2025-2027 series."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-29
+updatedDate: 2026-09-27
 featured: false
 ---
 
 This guide covers **Topic 2 Algebra and graphs**, for Cambridge IGCSE
 Mathematics 0580, 2025–2027 series. The Core subtopics (C2.1, C2.2,
 C2.4, C2.5, C2.6, C2.7, C2.9, C2.10, C2.11) are examined at all entry
-levels; the Extended-only subtopics (E2.2 additions, E2.3, E2.5
+levels; the Extended-only subtopics (E2.2 additions, E2.3, E2.4 additions, E2.5
 additions, E2.6 additions, E2.7 additions, E2.8, E2.9 additions, E2.10
 additions, E2.11 additions, E2.12, E2.13) are required only for the
 Extended tier. Extended candidates are eligible for grades A* to E and Core candidates for grades C to G, so grades A* to B need the Extended tier (the syllabus advises Extended for anyone aiming at grades A* to C).
 
 ## Where this fits in 0580
 
-Algebra and graphs is the largest single topic in 0580, and it is
+Algebra and graphs is a long topic in 0580, and it is
 cumulative — later subtopics lean on earlier ones rather than standing
 alone. Solving equations depends on confident algebraic manipulation;
 sketching and interpreting graphs of functions depends on being able to
@@ -81,13 +82,13 @@ at those numbers.
 
 **Extended only (in addition to the Core content above)**
 
-- E2.4 Indices II (Extended) — as C2.4, plus fractional indices
 - E2.2 Algebraic manipulation (Extended) — as C2.2, plus factorising
 expressions of the form ax + bx + kay + kby, a²x² − b²y², a² + 2ab +
 b², ax² + bx + c and ax³ + bx² + cx; completing the square for
 ax² + bx + c
 - E2.3 Algebraic fractions — manipulating algebraic fractions;
 factorising and simplifying rational expressions
+- E2.4 Indices II (Extended) — as C2.4, plus fractional indices
 - E2.5 Equations (Extended) — as C2.5, plus solving fractional
 equations with numerical and linear algebraic denominators; solving
 simultaneous equations where one equation is linear and one is
@@ -111,7 +112,7 @@ speed–time graphs, acceleration and deceleration) and calculating
 distance travelled as the area under a speed–time graph
 - E2.10 Graphs of functions (Extended) — constructing tables of values
 and drawing, recognising and interpreting graphs for functions of the
-form axⁿ (sums of up to three such terms) and ab^(x) + c; solving
+form axⁿ (sums of up to three such terms) and abˣ + c; solving
 associated equations graphically; drawing and interpreting exponential
 growth and decay graphs
 - E2.11 Sketching curves (Extended) — recognising, sketching and
@@ -154,6 +155,47 @@ a = 3 (the common difference)
 When n = 1, the term is 5, so 3(1) + b = 5, giving b = 2
 nth term = 3n + 2
 ```
+
+**Solving a double inequality (Extended, E2.6).** Solve −5 < 2x + 3 ⩽ 11,
+list the integer solutions and show the solution on a number line.
+
+```
+-5 < 2x + 3 <= 11
+Subtract 3 from every part:   -8 < 2x <= 8
+Divide every part by 2:       -4 < x  <= 4
+
+Integer solutions: -3, -2, -1, 0, 1, 2, 3, 4
+Number line: open circle at -4 (strict <), closed circle at 4 (<=),
+line joining them.
+```
+
+Whatever you do to one part, do to all three. Dividing by a negative
+number would reverse the inequality signs; here we divide by +2, so they
+stay the same.
+
+**Finding turning points by differentiation (Extended, E2.12).** Find the
+turning points of y = x³ − 12x and decide which is a maximum.
+
+```
+dy/dx = 3x^2 - 12
+At a turning point dy/dx = 0:  3x^2 = 12,  x^2 = 4,  x = 2 or x = -2
+
+x = 2:   y = 8 - 24   = -16   ->  (2, -16)
+x = -2:  y = -8 + 24  =  16   ->  (-2, 16)
+
+d2y/dx2 = 6x
+At x = 2:   6(2)  = 12 > 0,  so (2, -16) is a minimum
+At x = -2:  6(-2) = -12 < 0, so (-2, 16) is a maximum
+```
+
+The syllabus accepts any method to tell a maximum from a minimum: the
+second derivative (as here), an accurate sketch, or the sign of the
+gradient either side of the point.
+
+For more practice, use the
+[Algebra and graphs practice questions](/resources/igcse-mathematics-algebra-and-graphs-practice/),
+the [Extended algebra practice](/resources/igcse-mathematics-algebra-extended-practice/)
+and the [Algebra and graphs revision notes](/resources/igcse-mathematics-algebra-and-graphs-revision-notes/).
 
 ## How to approach it
 

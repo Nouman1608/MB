@@ -110,7 +110,7 @@ Aluminium is expensive because electrolysis uses enormous quantities of electric
 | Iron/steel | Strong, cheap | Construction, vehicles |
 | Zinc | More reactive than iron | Galvanising |
 
-**Exam technique for "uses" questions.** Examiners expect every use to be paired with the specific property that explains it — "aluminium is used in aircraft" alone earns no credit; it must be "...because of its low density." The same logic identifies alloys from structure diagrams: a diagram showing atoms of two different sizes packed together represents an alloy, while identical-sized atoms in regular layers represent a pure metal.
+**Exam technique for "uses" questions.** When a question asks you to explain a use, pair it with the property that explains it — "aluminium is used in aircraft" on its own does not explain anything; add "...because of its low density." The same logic identifies alloys from structure diagrams: a diagram showing atoms of two different sizes packed together represents an alloy, while identical-sized atoms in regular layers represent a pure metal.
 
 ## Exam traps
 
@@ -129,6 +129,6 @@ Aluminium is expensive because electrolysis uses enormous quantities of electric
 5. Why is aluminium used for overhead power cables despite copper being a better conductor?
 6. Why can't aluminium be extracted from its ore by reduction with carbon, unlike iron?
 7. State the general relationship between a metal's reactivity and how easily it is extracted.
-8. Why does the answer "aluminium is used in aircraft" alone score no marks?
+8. Why is "aluminium is used in aircraft" on its own a weak answer to "explain a use of aluminium"?
 
 **Answers:** 1. Atoms of different sizes disrupt the regular layers, so the layers cannot slide over one another easily. 2. Fe₂O₃ + 3CO → 2Fe + 3CO₂. 3. It decomposes to calcium oxide, which reacts with acidic silicon dioxide impurities to form slag, removing them from the iron. 4. They are carbon and burn away in the oxygen produced at the anode, forming carbon dioxide. 5. Aluminium conducts electricity well and has a much lower density, so cables are lighter and need fewer supporting pylons; it also resists corrosion through its oxide layer. 6. Aluminium is more reactive than carbon, so carbon cannot reduce aluminium oxide; electrolysis is needed instead. 7. The less reactive a metal is, the less energy is needed to extract it from its compound, so it is extracted more easily and cheaply; very unreactive metals such as gold occur native. 8. Because it doesn't state the property responsible — the full answer needs "...because of its low density", linking the use to the specific property that explains it.

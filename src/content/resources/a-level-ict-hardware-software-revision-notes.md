@@ -1,9 +1,9 @@
 ---
-title: "Cambridge A-Level ICT: Hardware and Software — Revision Notes (9626)"
+title: "Cambridge A Level Information Technology (ICT): Hardware and Software — Revision Notes (9626)"
 resourceType: "revision-notes"
 subject: "ict"
 level: ["a-levels"]
-topic: "Section 2 – Hardware and Software"
+topic: "Topic 2 – Hardware and Software"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9626"]
@@ -13,15 +13,16 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "hardware-and-software"
-description: "Condensed revision notes on mainframes/supercomputers, system and utility software, custom vs off-the-shelf software, and user interfaces for Cambridge AS & A Level ICT Section 2 (9626)."
+description: "Condensed revision notes on mainframes/supercomputers, system and utility software, custom vs off-the-shelf software, and user interfaces for Cambridge AS & A Level Information Technology Topic 2 (9626)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
+updatedDate: 2026-09-27
 featured: false
 ---
 
-Related: [Section 2 study guide](/resources/a-level-cambridge-ict-hardware-and-software/)
+Related: [Topic 2 study guide](/resources/a-level-cambridge-ict-hardware-and-software/)
 
-Condensed, exam-focused notes for Section 2 of Cambridge AS & A Level ICT (9626), 2025-2027 series.
+Condensed, exam-focused notes for Topic 2 of Cambridge AS & A Level Information Technology (9626), 2025-2027 series.
 
 ## 2.1 Mainframes and supercomputers
 
@@ -43,13 +44,16 @@ Condensed, exam-focused notes for Section 2 of Cambridge AS & A Level ICT (9626)
 - Types: compilers, interpreters, linkers, device drivers, operating systems, utilities.
 - **Compiler**: translates and stores an entire program before execution. **Interpreter**: translates
   and executes line by line (why development-stage code is often run through an interpreter first).
+- **Running on different systems**: the syllabus asks how a high-level program is translated to run on different
+  computer systems using **interpreters** (the same source code runs anywhere a suitable interpreter exists) and
+  **cross compilers** (a compiler on one type of computer produces machine code for a different type).
 
 ## 2.3 Utility software
 
 - Named types: anti-virus, back-up, data compression, disk defragmentation, formatting (low-level,
   partitioning, high-level), file copying/deleting, file management systems, disk management systems.
 - **System software manages/translates for the computer itself; utility software performs a specific
-  maintenance task for the user.** Confusing the two loses marks even with correct factual content.
+  maintenance task for the user.** Mixing up the two categories weakens an otherwise correct answer.
 
 ## 2.4 Custom-written vs off-the-shelf software
 
@@ -67,12 +71,11 @@ Condensed, exam-focused notes for Section 2 of Cambridge AS & A Level ICT (9626)
 
 ## Exam technique for this topic
 
-Nearly every sub-topic in this section ends in "advantages and disadvantages," which is where exam marks
-concentrate — build revision around comparison tables (mainframe vs supercomputer, interpreter vs
+Nearly every sub-topic in this topic ends in "advantages and disadvantages," so be ready to weigh options, not just define them — build revision around comparison tables (mainframe vs supercomputer, interpreter vs
 compiler, proprietary vs open-source, GUI vs command line) rather than isolated definitions. When a
 question describes a scenario and asks you to justify a software or hardware choice, weigh both options
 against the scenario's specific details (budget, timescale, how unusual the workflow is) rather than
-asserting one option is simply "better" — a generic "it's more advanced" answer earns no marks compared
+asserting one option is simply "better" — a generic "it's more advanced" answer earns little credit compared
 with a scenario-linked justification.
 
 ## Worked example: mainframe or supercomputer?
@@ -88,7 +91,7 @@ greater raw processing power, because the census task is not primarily computati
 climate simulation or quantum mechanics calculation is — it needs sustained high-volume transaction
 throughput, not maximum floating-point operations per second (FLOPS). This
 kind of matched, scenario-specific justification — not simply "mainframes are for business, supercomputers
-are for science" — is what full marks on this sub-topic require.
+are for science" — is what a strong answer on this sub-topic looks like.
 
 ## Worked example: choosing an interface type
 
@@ -116,12 +119,13 @@ and stores the whole program before execution; an interpreter translates and exe
 Advantage: matches exact requirements/adaptable. Disadvantage: higher cost/longer development time. 5.
 Command line — allows precise, scriptable control suited to a technically skilled user.
 
-## Why this section rewards comparison over recall
+## Why this topic rewards comparison over recall
 
-Section 2's content is unusually dense with named categories (mainframe, supercomputer, system software,
+Topic 2's content is unusually dense with named categories (mainframe, supercomputer, system software,
 utility software, custom-written, off-the-shelf, four interface types), and it can be tempting to revise
-each as an isolated definition to memorise. The exam consistently rewards a different approach: for
+each as an isolated definition to memorise. Because almost every sub-topic asks for advantages and
+disadvantages, a different approach works better: for
 every category, hold in mind at least one alternative it could be confused with, and one concrete
 scenario where choosing between the two matters. This comparison-first revision style — rather than a
 long list of separate definitions — is what turns recognition of a term into the ability to justify a
-choice, which is what nearly every question in this section actually tests.
+choice, which is what nearly every question in this topic actually tests.

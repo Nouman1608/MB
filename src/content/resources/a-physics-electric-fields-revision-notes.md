@@ -39,10 +39,10 @@ Condensed for the final weeks. For the full explanation, use the
 ## Equations
 
 ```
-Coulomb's law      F = Q1 Q2 / (4 pi e0 r^2)
-field strength     E = F / q = Q / (4 pi e0 r^2)      N/C or V/m
-potential          V = Q / (4 pi e0 r)                 J/C = V
-potential energy   Ep = Q1 Q2 / (4 pi e0 r)
+Coulomb's law      F = Q1 Q2 / (4πε₀ r^2)
+field strength     E = F / q = Q / (4πε₀ r^2)    N/C or V/m
+potential          V = Q / (4πε₀ r)              J/C = V
+potential energy   Ep = Q1 Q2 / (4πε₀ r)
 
 UNIFORM field (parallel plates):
                    E = V / d                           (constant)
@@ -61,7 +61,7 @@ UNIFORM field (parallel plates):
 | Falls off | Both **1/r²** for field, **1/r** for potential | Same |
 | Can be shielded? | **No** | **Yes** |
 
-The structural similarity is the point — both are inverse-square laws with the same mathematics. The differences are sign and shielding. Learning this table well pays off across the whole topic, since almost every comparison question on this syllabus draws directly on one of its rows.
+The structural similarity is the point — both are inverse-square laws with the same mathematics. The differences are sign and shielding. Learn the table row by row: comparison questions between gravitational and electric fields draw on it directly.
 
 ## Radial vs uniform fields
 
@@ -73,7 +73,7 @@ The structural similarity is the point — both are inverse-square laws with the
 **Worked example.** Field strength 0.20 m from a point charge of +5.0 × 10⁻⁶ C:
 
 ```
-E = Q / (4 pi e0 r^2) = 8.99e9 x 5.0e-6 / 0.20^2 = 1.12 x 10^6 N/C
+E = Q / (4πε₀ r^2) = 8.99e9 x 5.0e-6 / 0.20^2 = 1.12 x 10^6 N/C
 ```
 
 The direction is radially outward from a positive charge (the direction of the force on a positive test charge placed at that point), and radially inward toward a negative charge. Field lines are drawn closer together where the field is stronger, exactly as in a uniform field diagram, just arranged radially rather than in parallel.

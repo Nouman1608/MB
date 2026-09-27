@@ -87,7 +87,9 @@ slowly.
 of air**, which itself has low thermal conductivity, and by **preventing
 convection currents** from forming within the gap — without the
 insulating material, warm air would simply circulate within the cavity
-and carry energy across it far more quickly. The insulation is not
+and carry energy across it far more quickly (convection is background
+from earlier study; the specification itself focuses on thermal
+conductivity). The insulation is not
 "stopping" energy transfer altogether, only reducing its **rate**.
 
 **Required practical activity 2 (physics only)** investigates the
@@ -123,12 +125,20 @@ dissipated by friction, sound or unwanted heating, so useful output is
 always less than total input.
 
 **Worked example.** A lamp is supplied with 100 J of electrical energy
-and usefully transfers 20 J as light (the rest is dissipated as heat).
+and usefully transfers 20 J as light (the rest is transferred to the thermal energy store of the surroundings).
 Calculate its efficiency.
 
 ```
 efficiency = useful output energy transfer ÷ total input energy transfer
 efficiency = 20 ÷ 100 = 0.2 = 20%
+```
+
+The same equation works with power. An electric motor has an input
+power of 500 W and a useful output power of 400 W:
+
+```
+efficiency = useful power output ÷ total power input
+efficiency = 400 ÷ 500 = 0.8 = 80%
 ```
 
 ## Common mistakes
@@ -149,6 +159,8 @@ insulation — a low thermal conductivity material is a good insulator.
 
 ## Related resources
 
+- [Conservation and Dissipation of Energy practice questions](/resources/aqa-gcse-physics-energy-practice/) — worked exam-style questions on this sub-topic
+- [Conservation and Dissipation of Energy revision notes](/resources/aqa-gcse-physics-energy-revision-notes/)
 - [Energy Changes in a System](/resources/aqa-gcse-physics-energy-changes-in-a-system/) — the previous sub-topic
 - [National and Global Energy Resources](/resources/aqa-gcse-physics-national-and-global-energy-resources/) — the next sub-topic
 - [AQA GCSE Physics hub](/boards/aqa/gcse/physics/)

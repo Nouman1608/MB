@@ -95,14 +95,14 @@ Related: [Identification of Ions and Gases revision notes](/resources/identifica
 
 **6.** Acidify each solution with dilute nitric acid, then add **aqueous silver nitrate** to each [1]. Bromide gives a **cream precipitate** [1]; iodide gives a **yellow precipitate** [1].
 
-**7.** Add aqueous ammonia **dropwise** — **copper(II) gives a light blue precipitate**, while **chromium(III) gives a green precipitate**, so the two ions can already be distinguished by colour at this stage [1]. Add ammonia **in excess** to confirm: the **copper(II) precipitate dissolves to a deep (royal) blue solution**, while the **chromium(III) precipitate remains insoluble** [1] — the colour and solubility of the excess-ammonia stage confirms the identification [1].
+**7.** Add aqueous ammonia dropwise: **copper(II) gives a light blue precipitate** and **chromium(III) gives a green precipitate** [1]. Then add ammonia **in excess**: the **copper(II) precipitate dissolves, giving a dark blue solution** [1], while the **chromium(III) precipitate is insoluble in excess** [1].
 
 **8.** Add **aluminium foil** and **aqueous sodium hydroxide**, then **warm** [1]. **Ammonia gas** is released [1], confirmed by turning **damp red litmus paper blue** [1].
 
 **9. (a)** **Sulfur dioxide**, SO₂ [1].
 **(b)** Add a small volume of **acidified aqueous potassium manganate(VII)** to the solution [1]; it changes colour from **purple to colourless** [1]. The sulfite ions in the solution react with the manganate(VII) directly: no gas needs to be given off.
 
-**10.** Dip a clean wire (nichrome or platinum), moistened with dilute hydrochloric acid, into the solid and hold it in a **hot (blue) Bunsen flame** [1]. Potassium ions give a **lilac** flame [1].
+**10.** Dip a clean wire (nichrome or platinum), moistened with hydrochloric acid, into the solid and hold it in a **hot (blue) Bunsen flame** [1]. Potassium ions give a **lilac** flame [1].
 
 *Examiner insight (June 2025):* many candidates did not know the flame colour for potassium. Learn all six: lithium red, sodium yellow, potassium lilac, calcium orange-red, barium light green, copper(II) blue-green. *Try the real question next:* Cambridge IGCSE Chemistry 0620, June 2025, Paper 32, Question 6.
 
@@ -119,7 +119,7 @@ Related: [Identification of Ions and Gases revision notes](/resources/identifica
 - Not using **damp** litmus paper for gas tests.
 - Confusing the Fe²⁺ (green, turning brown near the surface on standing) and Fe³⁺ (red-brown) precipitates.
 - Confusing the bromide (cream) and iodide (yellow) precipitates with silver nitrate — the colours are close and worth memorising as a pair.
-- Stopping at the dropwise-ammonia stage when a question specifically asks how to distinguish two similar-looking hydroxide precipitates — the distinguishing observation is almost always in the excess-reagent stage, not the first drops.
+- Stopping at the dropwise-ammonia stage when a question specifically asks how to distinguish two similar-looking hydroxide precipitates — the distinguishing observation is often in the excess-reagent stage (for example, zinc and aluminium hydroxides are both white until excess ammonia is added).
 - Forgetting that barium also gives a flame test result (light green), distinct from calcium's orange-red — the two are sometimes confused since both are Group 2 metals.
 - Confusing the gas test with the ion test: sulfur dioxide gas and sulfite ions in solution both decolourise acidified potassium manganate(VII), but the sulfite test is done on the solution itself. The nitrate test is the one that needs a reaction step first (warm with aqueous sodium hydroxide and aluminium foil, then test the gas for ammonia).
 

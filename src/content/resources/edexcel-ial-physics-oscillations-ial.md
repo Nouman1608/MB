@@ -129,6 +129,27 @@ a_max = ω²A = 62.5 × 0.050 = **3.13 m/s²** (3.125 m/s², to 3 s.f.)
 
 Using ω² = k/m directly avoids the rounding error you get by squaring a rounded ω taken from T.
 
+**Worked example 2 (same oscillator).** The mass is released from rest at
+x = +0.050 m at t = 0. Find (a) its maximum speed, (b) its displacement
+and velocity at t = 0.10 s, and (c) check (a) using energy.
+
+(a) ω = √62.5 = 7.906 rad/s, so v_max = Aω = 0.050 × 7.906 = **0.395 m/s**.
+
+(b) Released from x = A at t = 0, so x = A cos ωt. With the calculator in
+**radians**, ωt = 7.906 × 0.10 = 0.7906 rad:
+
+x = 0.050 × cos(0.7906) = 0.050 × 0.7034 = **0.0352 m**
+
+v = −Aω sin ωt = −0.395 × sin(0.7906) = **−0.281 m/s** (moving back
+towards equilibrium)
+
+(c) Energy stored in the (horizontal) spring at maximum displacement = ½kA² = ½ × 25 × 0.050² =
+0.03125 J. At equilibrium this is all kinetic: ½ × 0.40 × v_max² = 0.03125,
+so v_max² = 0.15625 and v_max = **0.395 m/s**, as in (a).
+
+A common slip here is leaving the calculator in degrees: ωt is an
+angle in radians.
+
 ## Common mistakes
 
 Assuming any oscillation is simple harmonic — SHM specifically requires

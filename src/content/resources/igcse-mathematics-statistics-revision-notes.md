@@ -15,12 +15,35 @@ syllabusTopics:
 description: "Condensed recall notes on classifying data, averages, statistical charts, scatter diagrams, cumulative frequency and histograms for Cambridge IGCSE Mathematics 0580."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
+updatedDate: 2026-09-27
 featured: false
 ---
 
 Condensed for the final weeks. Pair these notes with the [Statistics
 practice questions](/resources/igcse-mathematics-statistics-practice/)
 for worked exam-style application.
+
+## Classifying, tabulating and interpreting data (Core and Extended)
+
+The syllabus asks you to **classify and tabulate** data, for example in tally tables and two-way tables (C9.1/E9.1).
+
+- **Qualitative (categorical)** data are words or categories, such as favourite sport. **Quantitative** data are numbers.
+- Quantitative data are **discrete** (counted, such as number of siblings) or **continuous** (measured, such as height).
+- A **tally table** records each item with a stroke, grouped in fives; the **frequency** is the total for each row.
+- A **two-way table** sorts data by two features at once. Every row and column total must add up.
+
+```
+30 students: how they travel to school
+
+          Walk   Bus   Total
+Boys        8     6     14
+Girls       5    11     16
+Total      13    17     30
+```
+
+To fill a missing cell, use the totals: if the table gave only "Girls total 16" and "Girls walk 5", then girls by bus = 16 - 5 = 11.
+
+When you **interpret** data (C9.2/E9.2), read values from the table or diagram, compare data sets using an average and a measure of spread, and say what the data **cannot** show: a small sample, or a sample from one place, may not represent everyone.
 
 ## The three averages and the measures of spread, and when to use each
 
@@ -76,7 +99,9 @@ Upper quartile    = value at cumulative frequency = 3n/4
 Interquartile range = upper quartile - lower quartile
 ```
 
-where n is the total frequency. Always read across from the correct cumulative frequency value on the vertical axis to the curve, then down to the horizontal axis -- reading in the wrong order gives a nonsensical answer.
+where n is the total frequency. Always read across from the correct cumulative frequency value on the vertical axis to the curve, then down to the horizontal axis -- starting from the wrong axis gives a nonsensical answer.
+
+**Percentiles** (Extended) work the same way: the p-th percentile is the value at cumulative frequency p% of n. For n = 80, the 90th percentile is read at 0.9 x 80 = 72.
 
 ## Histograms with frequency density (Extended)
 
@@ -87,10 +112,10 @@ frequency density = frequency / class width
 ```
 
 ```
-Class 10-<15 (width 5), frequency 20
+Class 10 ≤ x < 15 (width 5), frequency 20
 frequency density = 20/5 = 4
 
-Class 15-<25 (width 10), frequency 30
+Class 15 ≤ x < 25 (width 10), frequency 30
 frequency density = 30/10 = 3
 ```
 
@@ -102,7 +127,7 @@ Even though the second class has a higher frequency, its frequency density is lo
 - Forcing a line of best fit onto data with zero correlation.
 - Confusing frequency with frequency density on a histogram with unequal class widths.
 - Reading a stem-and-leaf diagram before ordering the leaves within each row.
-- Reading a cumulative frequency value across to the curve and up to the axis (wrong order) instead of across to the curve, then down.
+- Starting on the wrong axis of a cumulative frequency diagram: to find the median, start at n/2 on the **vertical** (cumulative frequency) axis, go across to the curve, then down to the horizontal axis.
 - Giving the mode of grouped data as a single value, when a question at Extended level asks for the modal class (the class with the highest frequency).
 
 ## Self-test
@@ -113,8 +138,9 @@ Even though the second class has a higher frequency, its frequency density is lo
 4. State the formula for frequency density.
 5. From a cumulative frequency diagram with n = 80 items, at what cumulative frequency value would you read off the median?
 6. Why must a stem-and-leaf diagram's leaves be ordered before finding the median?
+7. Is the number of goals scored in a match discrete or continuous data?
 
-**Answers:** 1. The median. 2. Estimate of mean = sum of (midpoint x frequency) / total frequency. 3. Zero correlation. 4. Frequency density = frequency / class width. 5. n/2 = 40. 6. Because the median is the middle value once data is in order -- an unordered stem-and-leaf diagram does not let you correctly identify which value is actually in the middle position.
+**Answers:** 1. The median. 2. Estimate of mean = sum of (midpoint x frequency) / total frequency. 3. Zero correlation. 4. Frequency density = frequency / class width. 5. n/2 = 40. 6. Because the median is the middle value once data is in order -- an unordered stem-and-leaf diagram does not let you correctly identify which value is actually in the middle position. 7. Discrete -- it is counted, and can only take whole-number values.
 
 ## Official syllabus
 

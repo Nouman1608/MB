@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on production, quality, break-even, cash flow, profit and loss, and ethical/economic/global influences, with a 15-question multiple-choice Section A in the OCR GCSE (9-1) Business (J204/02) format."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-04
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -134,9 +135,9 @@ Question 17 illustrates a distinction worth being explicit about in an exam answ
 - Confusing quality control (checking after production) with quality assurance (building checks into the process).
 - Quoting gross profit when a question asks specifically for net profit, or vice versa.
 - Explaining cash flow problems purely in terms of "not enough sales" rather than the timing mismatch between recorded profit and actual cash received.
-- Discussing globalisation as only an opportunity, without weighing the risks the specification explicitly expects for an "evaluate" question.
+- Discussing globalisation as only an opportunity, without weighing the risks, when the command word "evaluate" asks for both sides and a judgement.
 - Missing the synoptic requirement in questions like question 22 by answering only from Business 2 content, without connecting to a Business 1 decision.
 
 ## Approaching operations, finance and influences questions
 
-For any calculation question in this component, write out the formula being used before substituting numbers, since partial credit is typically available for a correctly applied method even where the final answer contains an arithmetic slip. When a question uses the word "evaluate," always structure the answer around a clear "for" case, an "against" case, and a final judgement that explicitly weighs the two rather than simply restating both sides — this is the single most common mark loss on the longer influences-on-business questions. Finally, keep at least one worked example of a decision that spans Business 1 and Business 2 — such as a marketing launch that requires a location or supplier change — fresh in mind throughout revision, since Section B of the Business 2 paper is guaranteed to include synoptic questions that specifically reward this kind of cross-component thinking.
+For any calculation question in this component, write out the formula being used before substituting numbers, since method marks are often available for a correctly applied method even where the final answer contains an arithmetic slip. When a question uses the word "evaluate," always structure the answer around a clear "for" case, an "against" case, and a final judgement that explicitly weighs the two rather than simply restating both sides — a missing judgement is an easy way to lose marks on the longer influences-on-business questions. Finally, keep at least one worked example of a decision that spans Business 1 and Business 2 — such as a marketing launch that requires a location or supplier change — fresh in mind throughout revision, since the specification says that in Section B of the Business 2 paper learners must draw on the full range of content to answer at least two of the questions — the synoptic questions that reward this kind of cross-component thinking.

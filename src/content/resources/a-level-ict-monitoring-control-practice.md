@@ -1,9 +1,9 @@
 ---
-title: "Cambridge A-Level ICT: Monitoring and Control — Practice Questions"
+title: "Cambridge A Level Information Technology (ICT): Monitoring and Control — Practice Questions"
 resourceType: "practice-questions"
 subject: "ict"
 level: ["a-levels"]
-topic: "Section 3 – Monitoring and Control"
+topic: "Topic 3 – Monitoring and Control"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9626"]
@@ -13,17 +13,18 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "monitoring-and-control"
-description: "Exam-style questions with full worked answers on monitoring vs control, sensors, calibration, actuators, and microprocessor-controlled systems, for Cambridge AS & A Level ICT (9626) Section 3."
+description: "Exam-style questions with full worked answers on monitoring vs control, sensors, calibration, actuators, and microprocessor-controlled systems, for Cambridge AS & A Level Information Technology (9626) Topic 3."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
+updatedDate: 2026-09-27
 featured: false
 ---
 
 > These are original practice questions written in the style of Cambridge
-> AS & A Level ICT (9626) assessment objectives. They are not taken from any
+> AS & A Level Information Technology (9626) assessment objectives. They are not taken from any
 > past paper and are not endorsed by Cambridge International.
 
-Use these questions alongside the [Section 3 – Monitoring and Control
+Use these questions alongside the [Topic 3 – Monitoring and Control
 study guide](/resources/a-level-cambridge-ict-monitoring-and-control/)
 and [revision
 notes](/resources/a-level-ict-monitoring-control-revision-notes/).
@@ -52,7 +53,8 @@ control. **[2]**
 control system instead. **[2]**
 
 **7.** A sensor manufacturer tests a new temperature sensor and finds
-its readings drift slightly out of true over time.
+its readings are too high by a different amount at the low end of its
+range than at the high end.
 
 **(a)** Explain why two-point calibration would be more suitable than
 one-point calibration for correcting this sensor. **[2]**
@@ -114,11 +116,10 @@ readings against a threshold and automatically triggers an actuator
 human decision [2].
 
 **7. (a)** Two-point calibration checks the sensor at both the low
-and high ends of its working range and adjusts for offset and scale
-error, which corrects a sensor that has drifted consistently out of
-true across its range, whereas one-point calibration only checks
-against a single reference value and cannot correct for a scale error
-[2].
+and high ends of its working range, so it can correct both the offset
+and the scale (slope) error [1]. One-point calibration checks against a
+single reference value, so it can only correct a fixed offset, not an
+error that changes across the range [1].
 **(b)** Multipoint calibration would be needed where the sensor's
 response is not perfectly linear across its range, so checking only
 two points would not reveal or correct inaccuracies that occur at
@@ -159,16 +160,16 @@ control program [1].
 
 ## A note on exam technique for this topic
 
-The most common way marks are lost on this topic is blurring the line
-between monitoring and control in a described scenario, so before
+A frequent slip on this topic is blurring the line between monitoring
+and control in a described scenario, so before
 answering any question, check whether the system merely records a
 value for a human to review or automatically triggers a response — the
 two are tested as a deliberate contrast, not interchangeable terms.
 When asked to link a sensor to a real device, always state the
 specific property the sensor measures and why that property matches
 the scenario's need, rather than naming the sensor alone. For
-flowchart-style questions, make sure your answer shows all three
-elements the mark scheme expects: the sensor reading, a decision box
+flowchart-style questions, make sure your answer shows three
+elements: the sensor reading, a decision box
 comparing it to a threshold, and the actuator action as the outcome —
 and remember that a genuine control system re-checks the sensor
 continuously rather than acting once and stopping.

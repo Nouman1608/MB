@@ -18,8 +18,9 @@ featured: false
 
 AQA A-Level Mathematics (7357) is assessed through three compulsory written papers, not tiered:
 Paper 1 (pure content, 2h, 100 marks, 33⅓%), Paper 2 (pure content plus mechanics, 2h, 100 marks,
-33⅓%), and Paper 3 (pure content plus statistics, 2h, 100 marks, 33⅓%). Pure content is common
-DfE-set material examined across all UK exam boards. These notes turn that structure into an exam-day
+33⅓%), and Paper 3 (pure content plus statistics, 2h, 100 marks, 33⅓%). The subject content (pure,
+mechanics and statistics) is set by the Department for Education and, as the specification says, is
+common across all exam boards. These notes turn that structure into an exam-day
 plan, alongside the
 [Differentiation](/resources/aqa-a-level-mathematics-differentiation-revision-notes/) and
 [Overarching Themes](/resources/aqa-a-level-mathematics-overarching-themes/) resources already on the
@@ -43,6 +44,15 @@ technique in isolation. **Exam-preparation priority**: practise mechanics and st
 that require setting up the mathematical model from a worded scenario, not only questions that give
 the equation already set up, since exam questions frequently start from a described situation rather
 than a ready-made formula.
+
+## Paper 3: know the large data set, and the formulae you must recall
+
+The specification requires you to become familiar with AQA's **large data set** before the exam; the
+current data set is available only from the AQA website. Statistics questions on Paper 3 can assume you
+know its contexts and main features, so work through it in class with a spreadsheet and practise
+analysing parts of it with a calculator's statistical functions. Separately, Appendix B of the
+specification lists formulae and identities you must **recall** — they are not given to you — so learn
+that list rather than relying on any formulae provided in the exam.
 
 ## Command words and how much detail they expect
 

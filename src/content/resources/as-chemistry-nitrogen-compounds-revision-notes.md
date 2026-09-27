@@ -20,6 +20,7 @@ syllabusTopics:
 description: "Condensed recall notes on primary amine preparation, nitriles and hydroxynitriles for Cambridge AS & A Level Chemistry 9701, with amine basicity and further amine routes labelled as A Level extension."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -66,18 +67,24 @@ Contain the **C≡N** group.
 
 ```
 halogenoalkane + KCN in ethanol, heat under reflux  ->  nitrile
-aldehyde/ketone + HCN (with KCN catalyst)          ->  hydroxynitrile
+aldehyde/ketone + HCN, KCN catalyst, heat          ->  hydroxynitrile
 ```
 
 **Both routes add a carbon atom.** This is the key synthetic use of nitriles and the reason they appear in multi-step route questions: if the product has one more carbon than the starting material, a nitrile step is almost certainly required — a pattern worth checking for before attempting a full multi-step synthesis route.
 
-**The solvent matters:** KCN in **ethanol** gives substitution to the nitrile; KCN in **aqueous** solution favours hydrolysis to the alcohol instead.
+**The solvent matters:** the syllabus condition is KCN in **ethanol**, which gives substitution to the nitrile. (Background, not a syllabus statement: in aqueous solution hydroxide ions are also present, so some alcohol forms instead.)
 
 **Reactions:**
 
 ```
 nitrile + dilute HCl(aq), reflux    ->  carboxylic acid + ammonium salt
+nitrile + dilute NaOH(aq), reflux   ->  carboxylate salt + ammonia
+   then acidify (dilute HCl)        ->  carboxylic acid
 ```
+
+The syllabus names both routes: dilute acid, or dilute alkali followed by acidification. After alkaline
+hydrolysis the acid is present as its sodium salt, so the acidification step is needed to get the
+carboxylic acid itself.
 
 **A Level extension (Topic 34):** a nitrile can also be reduced to a primary amine (nitrile + LiAlH4 or H2/Ni), making it a branch point — hydrolyse it for an acid (AS), or reduce it for an amine (A Level). Either product has one more carbon than the original halogenoalkane.
 
