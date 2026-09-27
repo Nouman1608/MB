@@ -14621,3 +14621,28 @@ The cited question papers (variants 12, 22, 32 and 42) are not published on Camb
   - a Core fuel-cell line and a Core photosynthesis word equation were added.
 - No 0620 Core diagnostic question was affected.
 - **Independent review:** no high-severity findings. Every medium and low point (missed labels, Core content under Extended labels, wording) was applied.
+
+## D-359 - Audit S-01: spaced "--" in meta descriptions, share previews and structured data (2026-09-27)
+
+Source: project doc `claude/audit-d349-d353-2026-09-27.md` (auditor, 27 Sep 2026, 18:45 PKT). The auditor verified R-01 to R-05 and R-07 to R-09 live, left R-06 open (it needs a Cloudflare setting, see D-353), and raised S-01. The auditor asked for this as D-354, but D-354 to D-358 were already taken by the resource backlog (#97 to #101), so it is D-359. Repaired 27 Sep 2026, about 18:40 PKT.
+
+- **S-01.** The D-349 build step (`src/integrations/typographic-dashes.mjs`) rewrote " -- " only in visible text, so 437 meta descriptions and the JSON-LD of 49 pages still had it. It now also rewrites:
+  - the `content` of `description`, `og:description`, `twitter:description`, `og:title` and `twitter:title` meta tags;
+  - the text inside `<script type="application/ld+json">`, where " -- " can only occur inside a JSON string.
+
+  Every other script, attribute, code and pre block is untouched; a unit check confirmed `robots` meta, `alt`, plain scripts and `pre` keep their `--`. The source frontmatter is left as written, because the build step covers every output from one place.
+- **Accept check** (fresh build of this commit): meta descriptions with " -- ": 0. og/twitter descriptions and titles: 0. JSON-LD with " -- ": 0 pages. JSON-LD blocks that no longer parse: 0. `<title>` with " -- ": 0. Example: the command-word glossary description now reads "Cambridge's own official command-word glossary – what 'Describe', …".
+- **R-06:** still open. Live `/trial/` still has no ETag at 18:35 PKT, so the Cloudflare setting (Automatic HTTPS Rewrites) is unchanged. The `?etag-probe=1` switch stays until the owner changes it, then comes out, as the auditor asked.
+- **Three subject pages over 200 KB:** per the auditor, not a finding; left as they are.
+
+Validation:
+- build OK;
+- `audit:all` PASS;
+- `check` 0 errors;
+- `test:i18n-routes` OK;
+- `test:tools` 87 / 0;
+- `test:api` 88 / 0;
+- `test:practice-analytics` OK;
+- negative-validation suite 0;
+- cross-board regression 0;
+- `node --test` 146 / 0.
