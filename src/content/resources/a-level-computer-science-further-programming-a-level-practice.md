@@ -16,6 +16,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on classes, encapsulation, inheritance and polymorphism, declarative programming, random file handling in pseudocode and exception handling, for Cambridge AS & A Level Computer Science (9618)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-28
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -69,7 +70,9 @@ Each question practises a skill tested in the June 2025 Paper 31. After each ans
 
 **(b)** Inheritance is where a **subclass (derived class) takes on the attributes and methods of a parent (base or super) class**: ElectricBicycle automatically has BikeID, Colour, Station and their methods from Bicycle [1]. The subclass can **add its own attributes and methods**, such as BatteryLevel, and can **override** inherited methods to change how they work [1].
 
-*Mark-scheme insight (June 2025):* credit was given for saying a derived class takes the attributes and methods of a parent class, and for saying that these inherited members can be extended or overridden in the subclass.
+*Mark-scheme insight (Cambridge 9618 June 2025 mark scheme, Paper 31, Question 11(b)(ii)):* credit was given for saying a derived class takes the attributes and methods of a parent class, and for saying that these inherited members can be extended or overridden in the subclass.
+
+*Source for the mark-scheme insights on this page: Cambridge International AS & A Level Computer Science 9618 June 2025 mark scheme for Paper 31 (9618/31), paraphrased. This mark scheme is not published on Cambridge's [9618 past papers page](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9618/past-papers/) (checked September 2026).*
 
 *Try the real question next:* Cambridge International AS & A Level Computer Science 9618, June 2025, Paper 31, Question 11.
 

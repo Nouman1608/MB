@@ -19,9 +19,10 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "space-physics-cambridge-igcse-physics"
     subtopic: "stars-and-the-universe-cambridge-igcse-physics"
-description: "Twelve original Cambridge IGCSE Physics 0625 space physics questions, Core and Extended, with fully worked mark-by-mark answers and examiner tips."
+description: "Thirteen original Cambridge IGCSE Physics 0625 space physics questions, Core and Extended, with fully worked mark-by-mark answers and examiner tips."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
+updatedDate: 2026-09-28
 featured: false
 ---
 
@@ -31,7 +32,9 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover topic 6, Space physics, of the Cambridge IGCSE Physics 0625 syllabus for examination in 2026, 2027 and 2028: sections 6.1 (The Earth and the Solar System) and 6.2 (Stars and the Universe). Questions 1 to 7 use Core content only. Questions marked **(Extended)** include Supplement content, which is examined on Papers 2 and 4 only. Where needed, use: speed of light = 3.0 × 10⁸ m/s, 1 light-year = 9.5 × 10¹⁵ m, H₀ = 2.2 × 10⁻¹⁸ per second, 1 day = 86 400 s.
+These questions cover topic 6, Space physics, of the Cambridge IGCSE Physics 0625 syllabus for examination in 2026, 2027 and 2028: sections 6.1 (The Earth and the Solar System) and 6.2 (Stars and the Universe). Where needed, use: speed of light = 3.0 × 10⁸ m/s, 1 light-year = 9.5 × 10¹⁵ m, H₀ = 2.2 × 10⁻¹⁸ per second, 1 day = 86 400 s.
+
+> **Tier note:** questions 1 to 7 and question 13 use Core content only, and every candidate should do them. Questions 8 to 12, marked *(Extended)*, include Supplement content of the 0625 syllabus (6.1.1 Supplement 4; 6.1.2 Supplement 7–10; 6.2.1 Supplement 2; 6.2.2 Supplement 2–3; 6.2.3 Supplement 5–11), which is examined on Papers 2 and 4 only. Core candidates do not need them. The marks shown are indicative only.
 
 Related: [study guide](/resources/igcse-physics-0625-space-physics/), [revision notes](/resources/igcse-physics-0625-space-physics-revision-notes/), [course hub](/boards/cambridge/igcse/physics/), [printable checklist](/checklists/cambridge/igcse/physics/).
 
@@ -68,12 +71,12 @@ Related: [study guide](/resources/igcse-physics-0625-space-physics/), [revision 
 **(d)** State what is meant by a light-year. **[1]**
 **(e)** State the approximate diameter of this galaxy in light-years. **[1]**
 
-**8.** **(Extended)** A planet orbits a distant star with an average orbital radius of 2.4 × 10¹¹ m and an orbital period of 500 days.
+**8.** *(Extended)* A planet orbits a distant star with an average orbital radius of 2.4 × 10¹¹ m and an orbital period of 500 days.
 
 **(a)** Calculate the average orbital speed of the planet. **[3]**
 **(b)** A second planet orbits the same star at a greater distance. State and explain how its orbital speed compares. **[2]**
 
-**9.** **(Extended)** The table gives data for five planets around a star.
+**9.** *(Extended)* The table gives data for five planets around a star.
 
 | Planet | Orbital distance / million km | Orbital period / days | Density / g/cm³ | Surface temperature / °C | Surface g / N/kg |
 |---|---|---|---|---|---|
@@ -88,19 +91,19 @@ Related: [study guide](/resources/igcse-physics-0625-space-physics/), [revision 
 **(c)** Suggest why planet S has the largest surface gravitational field strength. **[1]**
 **(d)** Calculate the average orbital speed of planet R in m/s. **[2]**
 
-**10.** **(Extended)** A comet moves round the Sun in a very stretched elliptical orbit.
+**10.** *(Extended)* A comet moves round the Sun in a very stretched elliptical orbit.
 
 **(a)** State where on its orbit the comet travels fastest. **[1]**
 **(b)** Use the conservation of energy to explain your answer to (a). **[3]**
 **(c)** State how the Sun's position in this orbit differs from its position in a circular orbit. **[1]**
 
-**11.** **(Extended)** This question is about the life cycle of stars.
+**11.** *(Extended)* This question is about the life cycle of stars.
 
 **(a)** Describe how a stable star forms from an interstellar cloud of gas and dust. **[3]**
 **(b)** State the nuclear reaction that powers a stable star. **[1]**
 **(c)** Describe what happens to a much more massive star once most of the hydrogen in its centre is converted to helium. **[4]**
 
-**12.** **(Extended)** Light from a distant galaxy is observed to be redshifted.
+**12.** *(Extended)* Light from a distant galaxy is observed to be redshifted.
 
 **(a)** Describe what is meant by redshift. **[1]**
 **(b)** State what redshift in the light from distant galaxies suggests about the Universe. **[1]**
@@ -109,6 +112,13 @@ Related: [study guide](/resources/igcse-physics-0625-space-physics/), [revision 
 **(e)** Convert this distance into light-years. **[1]**
 **(f)** Use the Hubble constant to estimate the age of the Universe in years. **[3]**
 **(g)** Explain why cosmic microwave background radiation is observed in the microwave region. **[2]**
+
+**13.** This question is about galaxies and the Universe.
+
+**(a)** State what a galaxy is made up of. **[1]**
+**(b)** Compare the distance from the Earth of the other stars in the Milky Way with the distance from the Earth to the Sun. **[1]**
+**(c)** Describe what is meant by redshift. **[1]**
+**(d)** Light from distant galaxies appears redshifted compared with light emitted on the Earth. State what this shows about the Universe, and name the theory that it supports. **[2]**
 
 ## Answers
 
@@ -166,6 +176,12 @@ Related: [study guide](/resources/igcse-physics-0625-space-physics/), [revision 
 **(f)** age = 1 / H₀ = 1 ÷ 2.2 × 10⁻¹⁸ = 4.5 × 10¹⁷ s [1]; one year = 365 × 86 400 = 3.15 × 10⁷ s [1]; age = 4.5 × 10¹⁷ ÷ 3.15 × 10⁷ = **1.4 × 10¹⁰ years** [1]
 **(g)** The CMBR was produced shortly after the Universe was formed [1]; as the Universe expanded, the radiation was expanded into the microwave region [1].
 *Examiner insight:* Error carried forward is normally allowed from (d) into (e), so a wrong distance can still earn the conversion mark.
+
+**13. (a)** Many billions of **stars** [1]
+**(b)** The other stars in the Milky Way are **much further away** from the Earth than the Sun is [1]
+**(c)** An **increase in the observed wavelength** of electromagnetic radiation emitted from receding stars and galaxies [1]
+**(d)** The Universe is **expanding** [1]; it supports the **Big Bang Theory** [1].
+*Marking tip:* In (c), "the light turns red" earns nothing; the mark is for an increase in the observed wavelength.
 
 ## Where marks are usually lost
 

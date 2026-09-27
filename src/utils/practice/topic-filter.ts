@@ -101,11 +101,14 @@ export function coreFilterApplies(entry: Pick<TopicFilterEntry, 'supplementCount
  * The banner's wording for a Core-filtered pool: "Core only" when every
  * question left is tagged Core (or Core and Extended); otherwise it says how
  * many are not yet tagged, rather than claiming they are Core.
+ * D-370 follow-up: `names` gives the syllabus's own tier names
+ * (question-tier.ts TIER_NAMES), so a Foundation/Higher course reads
+ * "Foundation only" / "Higher-only questions left out; ...", never Core.
  */
-export function coreFilterNote(untaggedInPool: number): string {
+export function coreFilterNote(untaggedInPool: number, names: { lower: string; upper: string } = { lower: 'Core', upper: 'Extended' }): string {
   return untaggedInPool > 0
-    ? `Extended-only questions left out; ${untaggedInPool} not yet tagged Core or Extended`
-    : 'Core only';
+    ? `${names.upper}-only questions left out; ${untaggedInPool} not yet tagged ${names.lower} or ${names.upper}`
+    : `${names.lower} only`;
 }
 
 export function questionsForTopic<Q extends TopicTaggedQuestion>(questions: readonly Q[], key: string, opts: { coreOnly?: boolean } = {}): Q[] {

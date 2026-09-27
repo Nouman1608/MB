@@ -37,6 +37,11 @@ function authorFrontmatter(slug) {
 const today = new Date().toISOString().slice(0, 10);
 // D-324: Cambridge IGCSE syllabuses with Core/Extended tiers that have diagnostic sets.
 const TIERED = ['0620', '0610', '0580', '0625'];
+// D-370 follow-up (28 Sep 2026): Foundation/Higher practice banks (AQA GCSE,
+// Edexcel IGCSE). None has a diagnostic set yet; when one is added it must be
+// answerable at both tiers (no question labelled Higher tier only), and it
+// cannot be marked tier 'extended' (the diagnostic page's wording is Core/Extended).
+const FOUNDATION_HIGHER = ['4MA1', '8300', '8461', '8462', '8463'];
 
 const problems = [];
 const seen = new Set();
@@ -44,6 +49,12 @@ for (const set of DIAGNOSTIC_SETS) {
   const key = `${set.code}/${set.slug}`;
   if (seen.has(key)) problems.push(`${key}: duplicate set`);
   seen.add(key);
+  // Review fix (28 Sep 2026): the diagnostic page titles a 'core' set "— Core" and an
+  // 'extended' set "— Extended" (Cambridge IGCSE tier words). A Foundation/Higher code
+  // must use another slug (e.g. 'all-topics'), so its title never names the wrong tiers.
+  if (FOUNDATION_HIGHER.includes(set.code) && (set.slug === 'core' || set.slug === 'extended')) {
+    problems.push(`${key}: set slug '${set.slug}' is a Core/Extended tier word; ${set.code} is tiered Foundation/Higher, so use another slug (e.g. 'all-topics')`);
+  }
   const spec = flagshipSpecs().find((f) => f.code === set.code);
   if (!spec) { problems.push(`${key}: ${set.code} is not a flagship code with a practice bank`); continue; }
   if (spec.boardSlug !== set.boardSlug || spec.qualificationSlug !== set.qualificationSlug || spec.subjectSlug !== set.subjectSlug) {
@@ -69,6 +80,7 @@ for (const set of DIAGNOSTIC_SETS) {
     if (!extendedSet && TIERED.includes(set.code) && /Extended|Supplement/i.test(text)) problems.push(`${key}: ${id} is marked Extended, but the set is not an Extended set`);
     // B16 (2026-09-27): every tiered bank now carries tiers (subtopic data + per-question labels).
     if (!extendedSet && TIERED.includes(set.code) && q.tier === 'supplement') problems.push(`${key}: ${id} is Supplement-only (Extended), but the set is for both tiers`);
+    if (FOUNDATION_HIGHER.includes(set.code) && q.tier !== 'both') problems.push(`${key}: ${id} is ${q.tier === 'supplement' ? 'labelled Higher tier only' : 'not checked for Higher-only content'}, but the set is for both tiers`);
     if (q.marks > 4) problems.push(`${key}: ${id} is worth ${q.marks} marks; diagnostic questions are 2-3 marks`);
     // M9: the topic the result is reported under (the set's topicOverrides entry, else the first tag).
     const override = set.topicOverrides?.[id];

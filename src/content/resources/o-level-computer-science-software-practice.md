@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on high-level languages, compilers and interpreters, IDE functions, operating system functions and interrupts, for Cambridge O Level Computer Science (2210)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-28
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -55,7 +56,9 @@ Each question practises a skill tested in the June 2025 Paper 12. After each ans
 
 **1.** Any two from: the program is **machine independent / portable**, so it can run on different types of computer [1]; it is **easier to debug** because the code uses English-like statements [1]; the programmer is **less likely to make errors** [1]; one statement can do the work of many machine-code instructions, so the program is quicker to write [1]. (Max 2.)
 
-*Mark-scheme insight (June 2025):* The reasons credited were easier debugging, fewer errors and portability (machine independence). Readability is not in that list because the question had already given it, so use your two answers for other reasons.
+*Mark-scheme insight (Cambridge 2210 June 2025 mark scheme, Paper 12, Question 3(a)):* The reasons credited were easier debugging, fewer errors and portability (machine independence). Readability is not in that list because the question had already given it, so use your two answers for other reasons.
+
+*Source for the mark-scheme insights on this page: Cambridge O Level Computer Science 2210 June 2025 mark scheme for Paper 12 (2210/12), paraphrased. This mark scheme is not published on Cambridge's [2210 past papers page](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-computer-science-2210/past-papers/) (checked September 2026).*
 
 *Try the real question next:* Cambridge O Level Computer Science 2210, June 2025, Paper 12, Question 3.
 
@@ -65,7 +68,7 @@ Each question practises a skill tested in the June 2025 Paper 12. After each ans
 - A compiler produces an **error report listing all the errors** after translation [1]; an interpreter **stops at the first error it finds** and continues only once that error is corrected [1].
 - A compiler produces an **executable file** that can be run again without the translator [1]; an interpreter produces no executable file, so the program must be interpreted every time it is run [1].
 
-*Mark-scheme insight (June 2025):* The credited points were the compiler translating the whole code before executing it and reporting all errors, and the interpreter translating and executing line by line and stopping when an error is found. The key terms credited included "whole code", "all" (errors), "line by line" and "error", so use precise phrases.
+*Mark-scheme insight (Cambridge 2210 June 2025 mark scheme, Paper 12, Question 3(b)(i)):* This part was a gap-fill, with one mark per term placed correctly. The completed statements say that a compiler translates the whole code before executing it and reports all the errors, while an interpreter translates and executes line by line and stops when it finds an error. The credited terms were "whole code", "executing", "all", "line by line" and "error", so use these precise phrases.
 
 *Try the real question next:* Cambridge O Level Computer Science 2210, June 2025, Paper 12, Question 3.
 
@@ -78,7 +81,7 @@ Each question practises a skill tested in the June 2025 Paper 12. After each ans
 - **Auto-correction** [1]: automatically corrects misspelt keywords [1].
 - **Prettyprint** [1]: displays keywords and identifiers in different colours so the code is easier to read [1].
 
-*Mark-scheme insight (June 2025):* One mark was given for naming a function and a second for a role that matches that function, so a correct role attached to the wrong function name does not earn the second mark.
+*Mark-scheme insight (Cambridge 2210 June 2025 mark scheme, Paper 12, Question 3(b)(ii)):* One mark was given for naming a function and a second for a role that matches that function, so a correct role attached to the wrong function name does not earn the second mark.
 
 *Try the real question next:* Cambridge O Level Computer Science 2210, June 2025, Paper 12, Question 3.
 

@@ -44,7 +44,8 @@
  * D-099, accessibility audit), and a diagnostic set recorded as reviewed by
  * a reviewer who does not teach its subject (AH, D-328), and a diagnostic
  * question that refers to another question the diagnostic does not show (AI, D-329),
- * and a diagnostic topic override naming a topic its question is not mapped to (AJ, M9).
+ * and a diagnostic topic override naming a topic its question is not mapped to (AJ, M9),
+ * and a Foundation/Higher diagnostic set using the Core/Extended slugs (AK).
  *
  * Categories proven elsewhere, not re-implemented here (see comments below
  * each skip): cross-board topic contamination (test-cross-board-regression.mjs,
@@ -647,6 +648,19 @@ withMutation(
     validatorCmd: 'node --experimental-strip-types scripts/validate-diagnostics.mjs',
     expectSubstring: 'which is not one of its mapped topics',
     label: 'a 0580 diagnostic override naming a topic the question is not mapped to is rejected',
+  },
+);
+
+console.log('\n[AK] Diagnostics: a Foundation/Higher code cannot use the Core/Extended set slugs (review fix, 28 Sep 2026)');
+// Located by text: the 0580 'core' set is re-coded as 4MA1 (tiered Foundation/Higher).
+// Its title would read "— Core", so validate-diagnostics.mjs must reject the slug.
+withMutation(
+  'src/data/diagnostics.ts',
+  (text) => text.replace("slug: 'core',\n    code: '0580',", "slug: 'core',\n    code: '4MA1',"),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-diagnostics.mjs',
+    expectSubstring: "4MA1/core: set slug 'core' is a Core/Extended tier word",
+    label: 'a 4MA1 diagnostic set with the slug "core" is rejected',
   },
 );
 

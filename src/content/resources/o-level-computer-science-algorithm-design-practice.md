@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on abstraction and decomposition, choosing test data, verification by double entry, tracing algorithms, finding errors in pseudocode and writing validation algorithms, for Cambridge O Level Computer Science (2210)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-28
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -105,13 +106,15 @@ Give the line number where each of the four errors appears, and rewrite that lin
 
 **1.** **(a)** Abstraction means **removing details that are not relevant to solving the problem** [1]. **(b)** Input: the **number of days overdue** (the daily rate of $0.15 may also be treated as an input or a stored value) [1]. Process: **multiply the number of days overdue by 0.15** to calculate the fine [1]. Output: the **total fine to be paid** [1]. The colour of the book's cover is irrelevant, so it is removed by abstraction and is not an input.
 
-*Mark-scheme insight (June 2025):* When a problem was decomposed into input, process and output, the mark scheme matched the measurements to input, the calculation to process and the final amount needed to output; an irrelevant detail was included as a distractor and was not matched to anything. Abstraction was credited as removing details that are not relevant.
+*Mark-scheme insight (Cambridge 2210 June 2025 mark scheme, Paper 22, Questions 1 and 2):* When the problem was decomposed into input, process and output, the mark scheme matched the two measurements to input, the area calculation to process and the amount needed to output; one irrelevant detail was a distractor and was not matched to anything. In Question 1 of the same paper, the correct option described abstraction as removing details that are not relevant to the problem.
+
+*Source for the mark-scheme insights on this page: Cambridge O Level Computer Science 2210 June 2025 mark scheme for Paper 22 (2210/22), paraphrased. This mark scheme is not published on Cambridge's [2210 past papers page](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-computer-science-2210/past-papers/) (checked September 2026).*
 
 *Try the real question next:* Cambridge O Level Computer Science 2210, June 2025, Paper 22, Question 2.
 
 **2.** Normal: any whole number in the range, e.g. **45** [1] (a value well inside the range makes the choice clear). Abnormal: a value that should be rejected, e.g. **95**, **−3**, **12.5** or **"ten"** [1]. Extreme: a value at a limit of the range, **10 or 80** [1]. Boundary: a value at a limit or just beyond it, e.g. **80 (accepted) and 81 (rejected)**, or 10 and 9 [1].
 
-*Mark-scheme insight (June 2025):* For a similar range check, extreme data was credited only for the two limits themselves, but boundary data was credited for either a limit or the value just outside it. Abnormal data could be a value outside the range, a non-integer or a non-numeric entry.
+*Mark-scheme insight (Cambridge 2210 June 2025 mark scheme, Paper 22, Question 3):* For a similar inclusive range check, extreme data was credited only for the two limits themselves, but boundary data was credited for either a limit or the value just outside it. Abnormal data could be a value outside the range, a non-integer or a non-numeric entry.
 
 *Try the real question next:* Cambridge O Level Computer Science 2210, June 2025, Paper 22, Question 3.
 
@@ -133,19 +136,19 @@ OUTPUT "Password accepted"
 
 A loop that repeats until the two entries match [1]; two inputs that are compared with each other [1]; a mismatch message inside the loop and "Password accepted" output once, after the loop [1].
 
-*Mark-scheme insight (June 2025):* The credited reason for verification was making sure the value was not altered as it was entered. In the double entry algorithm, the final confirmation message had to be outside the loop so that it appears only once, after all checking is finished.
+*Mark-scheme insight (Cambridge 2210 June 2025 mark scheme, Paper 22, Question 4(a) and 4(b)):* The credited reason for verification was making sure the value was not altered as it was entered. In the double entry algorithm, a separate mark went to the final confirmation message being outside the loop, so it appears only once, after all checking is finished.
 
 *Try the real question next:* Cambridge O Level Computer Science 2210, June 2025, Paper 22, Question 4.
 
 **4.** **(a)** Divisor starts at 2 and Prime at TRUE. Pass 1: MOD(35, 2) = 1, so Divisor = 3, Prime = TRUE. Pass 2: MOD(35, 3) = 2, so Divisor = 4, Prime = TRUE. Pass 3: MOD(35, 4) = 3, so Divisor = 5, Prime = TRUE. Pass 4: MOD(35, 5) = 0, so **Prime = FALSE** and Divisor stays at 5 [1]. The loop stops and the output is **"No"** [1]. **(b)** It checks whether the number input is a **prime number** (outputs "Yes" if it is prime and "No" if it is not) [1]. **(c)** The loop stops when a divisor is found that divides exactly into Num, because **Prime is set to FALSE** [1]; or when **Divisor × Divisor is greater than Num**, which means every possible divisor has been checked without finding a factor [1].
 
-*Mark-scheme insight (June 2025):* When explaining how an algorithm knows when to stop checking, the mark scheme credited describing how the variables change on each pass, the condition that ends the checking once everything has been checked, and the early exit when a check fails. Name the variables and the exact conditions rather than saying "when it has finished".
+*Mark-scheme insight (Cambridge 2210 June 2025 mark scheme, Paper 22, Question 6(c)):* When explaining how an algorithm knows when to stop checking, the mark scheme credited what the two position variables mark, how they change on each pass, the condition that shows everything has been checked (the positions meet or cross), and the early exit when two compared letters differ. Name the variables and the exact conditions rather than saying "when it has finished".
 
 *Try the real question next:* Cambridge O Level Computer Science 2210, June 2025, Paper 22, Question 6.
 
 **5.** Line **05**: `Highest ← 0` (a low starting value, so the first reading replaces it) [1]. Line **11**: `WetDays ← WetDays + 1` [1]. Line **13**: `IF Rain[Day] > Highest` [1]. Line **19**: `OUTPUT "Days with more than 10 mm ", WetDays` [1].
 
-*Mark-scheme insight (June 2025):* Each error was credited for identifying the faulty line (by its number or by quoting it) and giving a correct replacement statement. The planted errors included a wrong starting value, the loop counter used where a running variable should have been, and outputting the wrong identifier, so check each variable's starting value, how it is updated and what is finally output.
+*Mark-scheme insight (Cambridge 2210 June 2025 mark scheme, Paper 22, Question 5(a)):* Each error was credited for identifying the faulty line (by its number or by quoting it) and giving a correct replacement statement. The planted errors included a wrong data type, a wrong starting value, the loop counter used where the running total should have been, and outputting the wrong identifier, so check each variable's type, its starting value, how it is updated and what is finally output.
 
 *Try the real question next:* Cambridge O Level Computer Science 2210, June 2025, Paper 22, Question 5.
 
@@ -174,7 +177,7 @@ OUTPUT "Days with more than 150 sold: ", BusyDays
 
 Any five from: a loop that runs 12 times [1]; input of each value [1]; a validation loop with the **correct inclusive range check** (0 and 200 accepted) [1]; totalling with Total ← Total + Sold after Total is set to 0 [1]; counting days with more than 150 using a selection statement [1]; output of the total and the count **after** the loop [1]. (Max 5.)
 
-*Mark-scheme insight (June 2025):* A separate mark was given for a range check with the correct limits, and in that question the limits were exclusive. Read carefully whether each end of the range is included, and choose < or <= (and > or >=) to match.
+*Mark-scheme insight (Cambridge 2210 June 2025 mark scheme, Paper 22, Question 7(a)):* A separate mark was given for a range check with the correct limits, and in that question the limits were exclusive. Read carefully whether each end of the range is included, and choose < or <= (and > or >=) to match.
 
 *Try the real question next:* Cambridge O Level Computer Science 2210, June 2025, Paper 22, Question 7.
 

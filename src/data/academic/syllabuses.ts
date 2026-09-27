@@ -38,6 +38,22 @@ export interface Syllabus {
   officialUrl: string;
   verifiedOn: string;
   notes?: string;
+  /**
+   * D-366 (2026-09-28): a one-line note, shown on the subject hub, that the
+   * site's content for this syllabus also applies to a later published
+   * edition, with a link to that edition's official document. Set only
+   * where the later edition has been compared with the current one and the
+   * board states no significant changes affecting teaching (0580 and 9702:
+   * docs/content-review/syllabus-changes-0580-9702-2028-2030.md).
+   */
+  laterEditionNote?: {
+    /** The later edition's exam years, e.g. '2028–2030'. */
+    series: string;
+    /** The sentence shown before the link. */
+    text: string;
+    /** The board's own PDF for that edition. */
+    url: string;
+  };
 }
 
 export const SYLLABUSES: readonly Syllabus[] = [
@@ -79,6 +95,11 @@ export const SYLLABUSES: readonly Syllabus[] = [
     officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/view/cambridge-international-as-and-a-level-physics-9702/',
     verifiedOn: '2026-08-18',
     notes: 'Cambridge publishes 9702 as a combined AS & A Level syllabus (AS Level topics 1-11, A Level topics 12-25), the same structure as 9701 Chemistry. Marlbridge treats AS Level as a distinct qualification; AS provision is not yet an approved Marlbridge offering.',
+    laterEditionNote: {
+      series: '2028–2030',
+      text: 'The content on this page also applies to the 2028–2030 syllabus: Cambridge states there are no significant changes which affect teaching.',
+      url: 'https://www.cambridgeinternational.org/Images/744626-2028-2030-syllabus.pdf',
+    },
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'physics',
@@ -681,6 +702,11 @@ export const SYLLABUSES: readonly Syllabus[] = [
     officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-mathematics-0580/',
     verifiedOn: '2026-08-19',
     notes: 'Tiered: Core subject content targets grades C-G, Extended subject content targets grades A*-C (Extended contains all Core content plus additional material). Nine top-level topics: Number, Algebra and graphs, Coordinate geometry, Geometry, Mensuration, Trigonometry, Transformations and vectors, Probability, Statistics -- not presented in a required teaching order. Syllabus for examination series 2025, 2026 and 2027.',
+    laterEditionNote: {
+      series: '2028–2030',
+      text: 'The content on this page also applies to the 2028–2030 syllabus: Cambridge states there are no significant changes which affect teaching.',
+      url: 'https://www.cambridgeinternational.org/Images/745681-2028-2030-syllabus.pdf',
+    },
   },
 
   {

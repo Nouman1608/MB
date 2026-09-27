@@ -31,6 +31,7 @@ syllabusTopics:
 description: "Revision notes for Cambridge IGCSE Physics 0625 electricity and magnetism: equations, circuit rules, safety, motors, transformers and a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
+updatedDate: 2026-09-28
 featured: false
 ---
 
@@ -59,11 +60,12 @@ The syllabus asks you to "recall and use" all of these.
 
 ## 4.1 Magnetism: key facts
 
-- Like poles repel, unlike poles attract. A magnet attracts unmagnetised iron or steel by **induced magnetism**.
+- Like poles repel, unlike poles attract. A magnet attracts unmagnetised iron or steel by **induced magnetism**. Only **repulsion** proves an object is a magnet.
 - **Soft iron:** easy to magnetise, loses it easily: temporary magnets, electromagnet cores. **Steel:** keeps its magnetism: permanent magnets.
 - Magnetic materials: iron, steel, nickel, cobalt. Non-magnetic: copper, aluminium, plastic, wood.
 - **Magnetic field:** region where a magnetic pole experiences a force. Direction = force on an N pole. Lines go N → S outside the magnet.
-- Plotting: compass for direction, iron filings for pattern.
+- Bar magnet field: lines from N round to S, arrows N → S, never crossing, closest at the poles.
+- Plotting: compass for direction (mark the needle tip, move the compass on, join the dots), iron filings for pattern.
 - **Extended only:** forces come from interacting fields; closer lines = stronger field.
 
 ## 4.2 Charge, current, p.d. and resistance
@@ -76,11 +78,13 @@ The syllabus asks you to "recall and use" all of these.
 - **Electric field (Extended only):** region where a charge experiences a force; direction = force on a positive charge.
 - **Kilowatt-hour:** energy transferred by a 1 kW appliance in 1 hour.
 
-**Charging by friction.** Only electrons move. The object that gains electrons becomes negative; the one that loses them becomes positive.
+**Charging by friction.** Only electrons move. The object that gains electrons becomes negative; the one that loses them becomes positive. Rubbed polythene becomes negative, rubbed acetate positive; a charged rod picks up small pieces of paper.
 
 **Conductors vs insulators.** Conductors (metals) have free electrons; insulators do not.
 
-**Meters.** Ammeter in series; voltmeter in parallel. Pick the range just above the expected reading.
+**Meters.** Ammeter in series; voltmeter in parallel. Pick the range just above the expected reading. Analogue: check the zero, avoid parallax. Digital: move to a higher range if it shows overload.
+
+**Resistance experiment.** Ammeter in series with the component, voltmeter across it, variable resistor to change the current; several V and I readings; R = V/I for each, then the mean.
 
 **Field patterns (Extended only).** Point charge and charged sphere: radial lines (outwards from +). Parallel plates: parallel, evenly spaced lines from + to −.
 
@@ -114,6 +118,7 @@ The syllabus asks you to "recall and use" all of these.
 | Combined R | sum of resistors | less than the smallest resistor |
 | One lamp fails | all go out | others stay lit |
 
+- Circuit symbols: learn them from the "Electrical symbols" page of the syllabus; the [study guide](/resources/igcse-physics-0625-electricity-and-magnetism/) describes each one and what it does.
 - Cells in series, facing the same way: e.m.f.s add.
 - Lighting circuits are parallel: each lamp gets full p.d., has its own switch, and stays on if another fails.
 - NTC thermistor: resistance falls as temperature rises. LDR: resistance falls as light increases.

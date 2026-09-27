@@ -16,6 +16,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on interpreters, syntax rules and Backus-Naur Form, Reverse Polish Notation, multi-tasking, shortest remaining time scheduling and disk thrashing, for Cambridge AS & A Level Computer Science (9618)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-28
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -66,7 +67,9 @@ Each question practises a skill tested in the June 2025 Paper 31. After each ans
 
 **(b)** `R26` contains the digit **6**, which is **not an allowed digit** (only 1 to 4 are allowed) [1].
 
-*Mark-scheme insight (June 2025):* credit was given for a clear reason that names the rule broken, such as which character is not allowed or what must appear in that position, so say exactly which rule fails rather than writing "wrong format".
+*Mark-scheme insight (Cambridge 9618 June 2025 mark scheme, Paper 31, Question 7(a)):* each credited reason named the rule that the code breaks, such as what the first character must be or which kind of character is not allowed in a given position, so say exactly which rule fails rather than writing "wrong format".
+
+*Source for the mark-scheme insights on this page: Cambridge International AS & A Level Computer Science 9618 June 2025 mark scheme for Paper 31 (9618/31), paraphrased. This mark scheme is not published on Cambridge's [9618 past papers page](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9618/past-papers/) (checked September 2026).*
 
 *Try the real question next:* Cambridge International AS & A Level Computer Science 9618, June 2025, Paper 31, Question 7.
 

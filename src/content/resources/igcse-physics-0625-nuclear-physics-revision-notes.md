@@ -22,12 +22,13 @@ syllabusTopics:
 description: "Revision notes for Cambridge IGCSE Physics 0625 nuclear physics: nuclide notation, decay equations, radiation properties, half-life steps and a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
+updatedDate: 2026-09-28
 featured: false
 ---
 
 These notes condense Topic 5, Nuclear physics (sections 5.1 and 5.2), of the Cambridge IGCSE Physics 0625 syllabus for examination in 2026, 2027 and 2028. Core content is for every candidate; Supplement content, marked **Extended only**, is examined only on Papers 2 and 4. For full explanations and worked examples, use the [study guide for this topic](/resources/igcse-physics-0625-nuclear-physics/).
 
-Other pages: [0625 course hub](/boards/cambridge/igcse/physics/), [printable 0625 checklist](/checklists/cambridge/igcse/physics/), [Extended practice questions on nuclear physics](/resources/igcse-physics-nuclear-physics-extended-practice/).
+Other pages: [0625 course hub](/boards/cambridge/igcse/physics/), [printable 0625 checklist](/checklists/cambridge/igcse/physics/), [Core and Extended practice questions on nuclear physics](/resources/igcse-physics-0625-nuclear-physics-practice/), [Extended practice set on nuclear physics](/resources/igcse-physics-nuclear-physics-extended-practice/).
 
 ## Key definitions
 

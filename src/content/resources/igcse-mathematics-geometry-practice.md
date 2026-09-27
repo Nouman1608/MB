@@ -87,7 +87,10 @@ Related: [Geometry revision notes](/resources/igcse-mathematics-geometry-revisio
 
 **9.** Points D, E and F lie on the circumference of a circle. Angle DEF = 90°. State the circle theorem this confirms about the line DF, and explain your reasoning. **[2]**
 
-**10.** Calculate the size of one interior angle of a regular octagon. **[2]**
+**10.** Each interior angle of a regular polygon is 150°.
+
+**(a)** Calculate the number of sides of the polygon. **[2]**
+**(b)** Calculate the sum of the interior angles of the polygon. **[1]**
 
 ---
 
@@ -118,9 +121,10 @@ Related: [Geometry revision notes](/resources/igcse-mathematics-geometry-revisio
 
 **9.** This confirms the **angle in a semicircle is 90°** theorem [1]. Since angle DEF, standing on DF, is 90°, **DF must be a diameter of the circle** [1].
 
-**10.** Exterior angle = 360° ÷ 8 = 45° [1]; interior angle = 180° − 45° = **135°** [1].
+**10. (a)** Exterior angle = 180° − 150° = 30° [1]; number of sides = 360° ÷ 30° = **12** [1].
+**(b)** Sum of interior angles = 12 × 150° = **1800°** [1]. (Check: (12 − 2) × 180° = 1800°.)
 
-*Common mistake:* dividing 360° by 8 and giving 45° as the interior angle. Check: the interior angle of a regular polygon with more than four sides is always obtuse.
+*Common mistake:* dividing 360° by the interior angle (360° ÷ 150° = 2.4, which is not a whole number of sides). The exterior angles of any polygon add up to 360°, so divide 360° by the **exterior** angle.
 
 ---
 

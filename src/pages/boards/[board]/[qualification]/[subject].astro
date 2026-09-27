@@ -674,6 +674,12 @@ const jsonLd = [
                 </p>
               </div>
               {syllabus.notes && <p class="m-0 mt-4 text-[15.5px] text-ink-mute">{syllabus.notes}</p>}
+              {syllabus.laterEditionNote && (
+                <p class="m-0 mt-4 text-[15.5px] text-ink-mute" data-later-edition-note>
+                  {syllabus.laterEditionNote.text}{' '}
+                  <a href={syllabus.laterEditionNote.url} rel="nofollow noopener" class="underline decoration-gold-500 underline-offset-2">Read the official {syllabus.laterEditionNote.series} syllabus (PDF)</a>.
+                </p>
+              )}
               <p class="m-0 mt-5 text-[15.5px] text-ink-mute">
                 Specifications change between examination series. Always confirm the current syllabus and assessment structure on
                 <a href={syllabus.officialUrl} rel="nofollow noopener" class="underline decoration-gold-500 underline-offset-2"> the {c.board} syllabus page</a> for your examination year.

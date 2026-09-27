@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on NAND, NOR and XOR gates, writing logic expressions from problem statements and circuit descriptions, and working out outputs for every input combination, for Cambridge O Level Computer Science (2210)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-28
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -61,19 +62,21 @@ Each question practises a skill tested in the June 2025 Paper 22. After each ans
 
 **1.** **(a)** NAND: A=0, B=0 → X=1; A=0, B=1 → X=1; A=1, B=0 → X=1; A=1, B=1 → **X=0** [2] (all four correct for 2 marks; two or three correct for 1 mark). **(b)** XOR: A=0, B=0 → X=0; A=0, B=1 → **X=1**; A=1, B=0 → **X=1**; A=1, B=1 → X=0 [2] (all four correct for 2 marks; two or three correct for 1 mark).
 
-*Mark-scheme insight (June 2025):* The XOR outputs credited were 1 only when the two inputs are different (0 and 1, or 1 and 0), and 0 when they are the same. Check the row where both inputs are 1 carefully: XOR gives 0 there, whereas OR gives 1.
+*Mark-scheme insight (Cambridge 2210 June 2025 mark scheme, Paper 22, Question 8(a)):* The XOR outputs credited were 1 only when the two inputs are different (0 and 1, or 1 and 0), and 0 when they are the same. Check the row where both inputs are 1 carefully: XOR gives 0 there, whereas OR gives 1.
+
+*Source for the mark-scheme insights on this page: Cambridge O Level Computer Science 2210 June 2025 mark scheme for Paper 22 (2210/22), paraphrased. This mark scheme is not published on Cambridge's [2210 past papers page](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-computer-science-2210/past-papers/) (checked September 2026).*
 
 *Try the real question next:* Cambridge O Level Computer Science 2210, June 2025, Paper 22, Question 8.
 
 **2.** **(a)** **X = NOT A AND (B OR C)**: NOT A, because the soil is dry when A = 0 [1]; AND (B OR C) [1]. **(b)** A=0, B=0, C=0 → X=0; A=0, B=0, C=1 → X=1; A=0, B=1, C=0 → X=1; A=0, B=1, C=1 → X=1; A=1, B=0, C=0 → X=0; A=1, B=0, C=1 → X=0; A=1, B=1, C=0 → X=0; A=1, B=1, C=1 → X=0. Eight correct [4]; six or seven correct [3]; four or five correct [2]; two or three correct [1].
 
-*Mark-scheme insight (June 2025):* In the crane question, some inputs meant "present" when they were 0, so the credited expressions used NOT on those inputs. Equivalent forms were all accepted, for example writing the bracket as a single NOT of an AND, or expanding it into two AND terms joined by OR.
+*Mark-scheme insight (Cambridge 2210 June 2025 mark scheme, Paper 22, Question 8(b)(i)):* In the crane question, two inputs were 0 when the condition was met (the key present, the code correct), so the credited expressions used NOT on those inputs. Several equivalent forms were listed, for example writing the bracket as a single NOT of an AND, or expanding it into two AND terms joined by OR.
 
 *Try the real question next:* Cambridge O Level Computer Science 2210, June 2025, Paper 22, Question 8.
 
 **3.** A=0, B=0, C=0 → X=0; A=0, B=0, C=1 → X=0; A=0, B=1, C=0 → X=1; A=0, B=1, C=1 → X=0; A=1, B=0, C=0 → X=1; A=1, B=0, C=1 → X=1; A=1, B=1, C=0 → X=1; A=1, B=1, C=1 → X=0. Eight correct [4]; six or seven correct [3]; four or five correct [2]; two or three correct [1]. (Working: A OR B is 0 only for the first two rows; B AND C is 1 only when B = 1 and C = 1, which makes NOT (B AND C) = 0 and so X = 0 in those rows.)
 
-*Mark-scheme insight (June 2025):* An eight-row answer was marked in bands: four marks for all eight outputs, three for six or seven, two for four or five and one for two or three. Working out the intermediate values (A OR B, then B AND C) for each row helps you pick up most of these marks even if one row goes wrong.
+*Mark-scheme insight (Cambridge 2210 June 2025 mark scheme, Paper 22, Question 8(b)(ii)):* An eight-row answer was marked in bands: four marks for all eight outputs, three for six or seven, two for four or five and one for two or three. In Question 3 above, working out the intermediate values (A OR B, then B AND C) for each row helps you pick up most of these marks even if one row goes wrong.
 
 *Try the real question next:* Cambridge O Level Computer Science 2210, June 2025, Paper 22, Question 8.
 

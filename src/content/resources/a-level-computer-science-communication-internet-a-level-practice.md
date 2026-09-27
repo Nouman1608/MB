@@ -16,6 +16,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on the layers of the TCP/IP protocol suite, email and peer-to-peer protocols, and packet switching compared with circuit switching, for Cambridge AS & A Level Computer Science (9618)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-28
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -60,7 +61,9 @@ Each question practises a skill tested in the June 2025 Paper 31. After each ans
 
 **2.** The Transport Layer **splits the page data into segments** before sending and **reassembles the segments in the correct order** at the student's computer [1]. It provides **logical communication between the applications**, using port numbers so the data is delivered to the correct process (the browser) on the destination computer [1]. Using TCP, it ensures **reliable end-to-end delivery**: segments are acknowledged, and missing or damaged segments are detected and sent again; it also provides **flow control** so the receiver is not overwhelmed [1].
 
-*Mark-scheme insight (June 2025):* credit was given for segmenting and reassembling data, delivery to the correct application process, error-free delivery in sequence, and flow control, so aim for several distinct functions rather than repeating one idea.
+*Mark-scheme insight (Cambridge 9618 June 2025 mark scheme, Paper 31, Question 3(a)):* for the Transport Layer (up to three marks), credit was given for segmenting and reassembling data, delivery to the correct application process, error-free delivery in sequence, and flow control, so aim for several distinct functions rather than repeating one idea.
+
+*Source for the mark-scheme insights on this page: Cambridge International AS & A Level Computer Science 9618 June 2025 mark scheme for Paper 31 (9618/31), paraphrased. This mark scheme is not published on Cambridge's [9618 past papers page](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9618/past-papers/) (checked September 2026).*
 
 *Try the real question next:* Cambridge International AS & A Level Computer Science 9618, June 2025, Paper 31, Question 3.
 

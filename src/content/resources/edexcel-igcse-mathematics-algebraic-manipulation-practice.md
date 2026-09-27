@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on index notation, expanding, factorising, algebraic fractions and completing the square, for Pearson Edexcel International GCSE Mathematics Higher Tier (4MA1)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
+updatedDate: 2026-09-28
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -25,23 +26,25 @@ featured: false
 
 Related: [Use of symbols and algebraic manipulation study guide](/resources/igcse-edexcel-mathematics-use-of-symbols-and-algebraic-manipulation/)
 
+**Tiers:** questions and parts marked **(Higher tier only)** use content that the 4MA1 specification (Issue 2) lists for the Higher Tier only: fractional indices (2.1A), expanding more than two brackets, factorising quadratics of the form ax² + bx + c, algebraic fractions and completing the square (2.2A–D). The Foundation Tier covers integer and zero indices and factorising x² + bx + c only. Questions 1(a) and 1(b) are for both tiers.
+
 ---
 
 ## Section A
 
-**1.** Simplify: (a) x⁻³ (b) x⁰ (c) x^(1/2). **[3]**
+**1.** Simplify: (a) x⁻³ (b) x⁰ (c) **(Higher tier only)** x^(1/2). **[3]**
 
-**2.** Factorise 6x² − 5x − 6. **[2]**
+**2.** **(Higher tier only)** Factorise 6x² + x − 12. **[2]**
 
 ## Section B
 
-**3.** Expand and simplify (x + 2)(x + 3)(x − 1). **[4]**
+**3.** **(Higher tier only)** Expand and simplify (x + 1)(x − 2)(x + 4). **[4]**
 
-**4.** Write 2x² + 6x − 1 in the form a(x + b)² + c. **[4]**
+**4.** **(Higher tier only)** Write 2x² − 10x + 3 in the form a(x + b)² + c. **[4]**
 
-**5.** Express (3x + 1)/(x + 2) − (x − 2)/(x − 1) as a single fraction in its simplest form. **[5]**
+**5.** **(Higher tier only)** Express (2x + 3)/(x + 1) − (x − 4)/(x + 3) as a single fraction in its simplest form. **[5]**
 
-**6.** Simplify (2x² + 3x)/(4x² − 9). **[4]**
+**6.** **(Higher tier only)** Simplify (3x² − 6x)/(x² − 4). **[4]**
 
 ---
 
@@ -49,45 +52,45 @@ Related: [Use of symbols and algebraic manipulation study guide](/resources/igcs
 
 **1. (a)** x⁻³ = 1/x³ [1]. **(b)** x⁰ = 1 [1]. **(c)** x^(1/2) = √x [1].
 
-**2.** 6x² − 5x − 6 = (2x − 3)(3x + 2) [2] (1 mark for a partially correct factorisation with correct
+**2.** 6x² + x − 12 = (3x − 4)(2x + 3) [2] (1 mark for a partially correct factorisation with correct
 signs, full marks for the fully correct pair of brackets, verifiable by expanding back out).
 
 **3.**
 ```
-(x + 2)(x + 3) = x^2 + 5x + 6                       [1]
-(x^2 + 5x + 6)(x - 1) = x^3 - x^2 + 5x^2 - 5x + 6x - 6
-                       = x^3 + 4x^2 + x - 6          [1] [1] [1]
+(x + 1)(x - 2) = x^2 - x - 2                        [1]
+(x^2 - x - 2)(x + 4) = x^3 + 4x^2 - x^2 - 4x - 2x - 8
+                     = x^3 + 3x^2 - 6x - 8           [1] [1] [1]
 ```
 
 **4.**
 ```
-2x^2 + 6x - 1
-= 2(x^2 + 3x) - 1              [1]
-= 2[(x + 1.5)^2 - 2.25] - 1    [1]
-= 2(x + 1.5)^2 - 4.5 - 1
-= 2(x + 1.5)^2 - 5.5           [1]
+2x^2 - 10x + 3
+= 2(x^2 - 5x) + 3              [1]
+= 2[(x - 2.5)^2 - 6.25] + 3    [1]
+= 2(x - 2.5)^2 - 12.5 + 3
+= 2(x - 2.5)^2 - 9.5           [1]
 
-So a = 2, b = 1.5, c = -5.5    [1]
+So a = 2, b = -2.5, c = -9.5   [1]
 ```
 
 **5.**
 ```
-Common denominator: (x + 2)(x - 1)                              [1]
+Common denominator: (x + 1)(x + 3)                              [1]
 
-(3x + 1)(x - 1) - (x - 2)(x + 2)
-= (3x^2 - 2x - 1) - (x^2 - 4)                                    [1] [1]
-= 2x^2 - 2x + 3                                                  [1]
+(2x + 3)(x + 3) - (x - 4)(x + 1)
+= (2x^2 + 9x + 9) - (x^2 - 3x - 4)                               [1] [1]
+= x^2 + 12x + 13                                                 [1]
 
-Result: (2x^2 - 2x + 3) / [(x + 2)(x - 1)]                       [1]
+Result: (x^2 + 12x + 13) / [(x + 1)(x + 3)]                      [1]
 ```
 
 **6.**
 ```
-Numerator:   2x^2 + 3x = x(2x + 3)                [1]
-Denominator: 4x^2 - 9 = (2x - 3)(2x + 3)           [1]
+Numerator:   3x^2 - 6x = 3x(x - 2)                [1]
+Denominator: x^2 - 4 = (x - 2)(x + 2)              [1]
 
-Cancel shared (2x + 3) factor:                     [1]
-Result: x / (2x - 3)                               [1]
+Cancel shared (x - 2) factor:                      [1]
+Result: 3x / (x + 2)                               [1]
 ```
 
 ---
@@ -129,7 +132,7 @@ accurately reflects how Higher-tier papers actually test index notation.
 
 Given the quadratic x² + 4x − 5, a candidate must decide whether factorising or completing the square is
 the more efficient method. Because the roots are clean integers (x² + 4x − 5 = (x + 5)(x − 1)),
-factorising is the faster route here. By contrast, for 2x² + 6x − 1 (as in Q4), the roots are not clean
+factorising is the faster route here. By contrast, for 2x² − 10x + 3 (as in Q4), the roots are not clean
 integers, so completing the square is the more reliable method — attempting to factorise this expression
 by trial and error would likely fail or take considerably longer. Practising this judgement — trying
 factorising first, and switching to completing the square only when factors don't appear cleanly — is a

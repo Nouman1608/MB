@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on URLs, the DNS, web browsers, SSL, cookies, blockchain and cyber security threats, for Cambridge O Level Computer Science (2210)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-28
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -70,7 +71,9 @@ Identify the **three** parts of this URL and state what each part is. **[3]**
 - The browser uses the IP address to **send a request to the web server** [1].
 - The web server **sends the web page (HTML) data** back to the browser, which displays it [1]. (Max 4.)
 
-*Mark-scheme insight (June 2025):* Marks were given for each separate step: the URL going to the DNS, the search for the matching IP address, passing the request on to another DNS if it is not found, the IP address being returned, the request to the web server and the web page data coming back. The "not found, so passed to another DNS" step is a mark point in its own right, so include it.
+*Mark-scheme insight (Cambridge 2210 June 2025 mark scheme, Paper 12, Question 5(c)(i)):* Marks were given for each separate part of the diagram: the URL going to the DNS, the search for the matching IP address, passing the request on to another DNS if it is not found, the IP address being returned, the request to the web server and the web page data coming back. The "not found, so passed to another DNS" step is a mark point in its own right, so include it.
+
+*Source for the mark-scheme insights on this page: Cambridge O Level Computer Science 2210 June 2025 mark scheme for Paper 12 (2210/12), paraphrased. This mark scheme is not published on Cambridge's [2210 past papers page](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-computer-science-2210/past-papers/) (checked September 2026).*
 
 *Try the real question next:* Cambridge O Level Computer Science 2210, June 2025, Paper 12, Question 5.
 
@@ -87,7 +90,7 @@ Identify the **three** parts of this URL and state what each part is. **[3]**
 - If the certificate is not valid, the connection is **not trusted and the user is warned** or the transaction is stopped [1].
 - An **encrypted connection** is set up, using **asymmetric encryption** to agree the keys [1], so any data that is intercepted is **meaningless** without the key [1]. (Max 5.)
 
-*Mark-scheme insight (June 2025):* The credited steps were the browser asking the server to identify itself, the server sending its digital certificate, the browser authenticating it, and the connection going ahead only if the certificate is valid (otherwise it is rejected). "Encrypted connection established" was only one of several mark points, so describe the certificate steps as well.
+*Mark-scheme insight (Cambridge 2210 June 2025 mark scheme, Paper 12, Question 5(c)(ii)):* The credited steps included the browser asking the server to identify itself, the server sending its digital certificate, the browser authenticating it, and the connection going ahead only if the certificate is valid (otherwise it is rejected). The encryption points (an encrypted connection, asymmetric encryption, intercepted data made meaningless) were only part of the credit, so describe the certificate steps as well.
 
 *Try the real question next:* Cambridge O Level Computer Science 2210, June 2025, Paper 12, Question 5.
 

@@ -34,7 +34,8 @@
  * diagram, graph or table the bank cannot show; no question marked
  * "Extended", "Background" or "beyond the syllabus"; for 0580, 0610, 0620 and 0625, no
  * Supplement-only (Extended) question, so Core and Extended candidates can
- * both use it; answers must render cleanly. `scripts/validate-diagnostics.mjs`
+ * both use it; for the Foundation/Higher banks (4MA1, 8300, 8461, 8462,
+ * 8463), no question labelled Higher tier only; answers must render cleanly. `scripts/validate-diagnostics.mjs`
  * (part of validate:academic) fails the build if an id stops existing in
  * the bank or moves to another syllabus code.
  */
@@ -538,7 +539,11 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
       'igcse-biology-plant-nutrition-practice-q4',
       'igcse-biology-transport-in-plants-practice-q6',
       'igcse-biology-coordination-response-practice-q3',
-      'igcse-biology-inheritance-practice-q1',
+      // 28 Sep 2026: replaces inheritance-practice-q1 (define gene and allele), which is
+      // 17.1 Core. No Supplement-only inheritance question in the bank is 2-3 marks
+      // (q3 and q6 are 4, q5 is 5), so this is the closest: haploid gametes and a diploid
+      // zygote (16.2 Supplement 3; the same idea as 17.1 Supplement 10-12).
+      'igcse-biology-reproduction-practice-q6',
     ],
     minutes: 10,
   },

@@ -19,7 +19,7 @@
  */
 import { practiceQuestionsForCode, type PracticeQuestion } from './bank.ts';
 import { topicsFor } from '../../data/academic/syllabus-topics.ts';
-import { explicitTierFromLabel, combineTier } from './question-tier.ts';
+import { explicitTierFromLabel, combineTier, tierSchemeFor, foundationHigherTier } from './question-tier.ts';
 import type { flagshipSpecs } from '../academic/index.ts';
 import { createHash } from 'node:crypto';
 
@@ -122,7 +122,15 @@ export function buildClientQuestions(spec: FlagshipSpecWithCombination): ClientQ
           : undefined;
     // B16 -- an explicit, syllabus-checked "(Extended)" label in the question
     // text refines the file-level tier (question-tier.ts). Tiered syllabuses only.
-    const tier = topicMeta?.tiered ? combineTier(derived, explicitTierFromLabel(q.questionMarkdown, spec.code)) : derived;
+    // D-370 follow-up: Foundation/Higher syllabuses (AQA GCSE, Edexcel IGCSE)
+    // read "(Higher tier only)" labels instead; 'supplement' then means
+    // Higher-only, and an unlabelled question in a checked file is 'both'.
+    const scheme = topicMeta?.tiered ? tierSchemeFor(spec.boardSlug, spec.qualificationSlug) : null;
+    const tier = scheme === 'foundation-higher'
+      ? combineTier(derived, foundationHigherTier(q.questionMarkdown, q.resourceSlug))
+      : scheme === 'core-extended'
+        ? combineTier(derived, explicitTierFromLabel(q.questionMarkdown, spec.code))
+        : derived;
     return {
       id: q.id,
       qHtml: mdToHtml(q.questionMarkdown),
