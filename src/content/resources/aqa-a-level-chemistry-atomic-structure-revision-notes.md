@@ -16,6 +16,7 @@ syllabusTopics:
 description: "Condensed recall notes on subatomic particles, mass spectrometry, electron configuration and ionisation energies for AQA A Level Chemistry 7405."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -28,7 +29,7 @@ Condensed for the final weeks. For the full explanation, use the
 |---|---|---|
 | Proton | 1 | +1 |
 | Neutron | 1 | 0 |
-| Electron | 1/1836 | −1 |
+| Electron | 1/1840 | −1 |
 
 Atomic number = protons. Mass number = protons + neutrons. **Isotopes** differ only in neutron number and therefore have **identical chemical properties**, since chemistry depends on electron arrangement.
 

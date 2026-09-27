@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Atomic structure, the periodic table and transition metals -- the opening topic of AQA GCSE Chemistry (8462), a tiered Foundation/Higher qualification co-teachable with AQA Combined Science."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -82,7 +83,7 @@ An atom has a small central **nucleus** containing protons and neutrons, surroun
 |---|---|---|---|
 | Proton | 1 | +1 | Nucleus |
 | Neutron | 1 | 0 | Nucleus |
-| Electron | Very small (1/1836) | -1 | Shells |
+| Electron | Very small (1/1840) | -1 | Shells |
 
 The **atomic number** is the number of protons, and it defines the element. The **mass number** is the total number of protons and neutrons. Atoms are neutral overall, so the number of electrons equals the number of protons.
 

@@ -227,7 +227,7 @@ The sequence is: choose syllabus → find weak topic → study → questions →
 
 **D-347 revision notes (added 27 Sep 2026), for the chemistry teacher:**
 - `physical-and-chemical-changes-revision-notes` (0620/5070), `as-chem-atomic-structure-revision-notes` (AS), and six A Level pages: `a-chemistry-acids-bases-partition-revision-notes`, `a-chemistry-reaction-kinetics-revision-notes`, `a-chemistry-group-2-revision-notes`, `a-chemistry-optical-isomerism-revision-notes`, `a-chemistry-halogen-compounds-revision-notes`, `a-chemistry-alcohols-and-phenol-revision-notes`.
-- Points to confirm: whether mark schemes credit NO₂ or NO as the catalyst in SO₂ oxidation; the colour wording for the phenol azo product ("yellow/orange"); the glowing-splint observation for Group 2 nitrates; the electron relative mass (1/1836 on the notes, 1/1840 in the study guide).
+- Points to confirm, **answered by the owner on 27 Sep 2026 at 17:44 PKT (D-350):** NO₂ is the catalyst in SO₂ oxidation, as the notes say. "Yellow/orange" is correct for the phenol azo product. The glowing-splint observation for Group 2 nitrates is fine. The electron relative mass is **1/1840** throughout the site, and the 1/1836 figure is changed on 6 pages. This settles the four points only. The pages are still review-pending until the owner reviews them in full.
 - Two independent AI checks recomputed every calculation and checked every equation; they found no errors of fact or arithmetic. Their wording fixes (for example "phenol gives no CO₂ with carbonates", and the ΔHsol trend sentence) were applied. These checks are not a teacher review.
 
 **D-343 revision notes (added 27 Sep 2026), for the chemistry teacher:**

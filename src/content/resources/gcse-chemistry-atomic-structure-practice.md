@@ -14,6 +14,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers spanning C1.2 Atomic structure (Papers 1 and 3) and C4.1 group trends and the periodic table (Papers 2 and 4) for GCSE Chemistry."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -190,7 +191,7 @@ D) Group 0; highly reactive, because of a single outer electron **[1]**
 
 **8. B)** Isotopes are atoms of the same element — so they have the same number of protons and the same atomic number — but with different numbers of neutrons, giving them different mass numbers [1].
 
-**9. C)** An electron has a mass roughly 1/1836 that of a proton or neutron, which is treated as negligible on the relative mass scale used at this level [1].
+**9. C)** An electron has a mass roughly 1/1840 that of a proton or neutron, which is treated as negligible on the relative mass scale used at this level [1].
 
 **10. B)** The nucleus, at the centre of the atom, contains the protons and neutrons; electrons occupy shells around the nucleus [1].
 
@@ -204,7 +205,7 @@ D) Group 0; highly reactive, because of a single outer electron **[1]**
 
 **15. C)** The noble gases are in Group 0 and are very unreactive because their atoms already have full outer electron shells, giving them no tendency to lose, gain or share electrons [1].
 
-**16.** Proton: mass 1, charge **+1** [1]. Neutron: mass 1, charge **0** [1]. Electron: mass **very small (1/1836)**, charge **−1** [1].
+**16.** Proton: mass 1, charge **+1** [1]. Neutron: mass 1, charge **0** [1]. Electron: mass **very small (1/1840)**, charge **−1** [1].
 
 **17.** Chlorine exists as **two isotopes** (Cl-35 and Cl-37) [1], and the relative atomic mass is the **weighted average** of their masses allowing for abundance [1].
 

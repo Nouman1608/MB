@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on atomic structure, isotopes, electronic structure and group trends for AQA GCSE Chemistry."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -59,7 +60,7 @@ Related: [Atomic Structure and the Periodic Table revision notes](/resources/aqa
 
 ## Answers
 
-**1. Proton** — mass 1, charge +1 [1]. **Neutron** — mass 1, charge 0 [1]. **Electron** — mass very small (1/1836), charge −1 [1].
+**1. Proton** — mass 1, charge +1 [1]. **Neutron** — mass 1, charge 0 [1]. **Electron** — mass very small (1/1840), charge −1 [1].
 
 **2.** Atomic number **17** [1]; mass number **37** [1]; electronic structure **2,8,7** [1].
 

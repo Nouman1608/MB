@@ -14462,3 +14462,15 @@ Validation:
 - negative-validation suite 0;
 - cross-board regression 0;
 - `node --test` 130 / 0.
+
+## D-350 - Owner answers on the D-347 chemistry points; electron relative mass 1/1840 throughout (2026-09-27)
+
+**Owner decisions (27 Sep 2026, 17:44 PKT),** on the four points D-347 left for the chemistry teacher:
+1. NO₂ is the catalyst in the oxidation of atmospheric SO₂. `a-chemistry-reaction-kinetics-revision-notes` already says so, with NO as the intermediate, so nothing changes.
+2. "Yellow/orange" is correct for the phenol azo product. No change.
+3. The glowing-splint observation for Group 2 nitrates is fine. No change.
+4. **The electron's relative mass is 1/1840 throughout.** The site had 1/1836 on 6 resource pages and 1/1840 on one.
+
+**Change:** 1/1836 becomes 1/1840 on `as-chem-atomic-structure-revision-notes`, including its charge-to-mass line, which now reads 1 ÷ (1/1840) = 1840. The same change is made on `aqa-gcse-chemistry-atomic-structure-practice`, `gcse-chemistry-atomic-structure-practice`, `gcse-aqa-chemistry-atomic-structure-and-periodic-table`, `igcse-edexcel-chemistry-principles-revision-notes` and `aqa-a-level-chemistry-atomic-structure-revision-notes`. `updatedDate` is set to 2026-09-27 on each of them. `docs/content-review/resource-library-audit-2026-09-27.md` records the answers.
+
+**Not changed:** no review status. The owner answered these four points, but has not yet reviewed the D-347 pages in full.
