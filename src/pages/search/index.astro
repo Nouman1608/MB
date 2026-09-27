@@ -112,18 +112,28 @@ const hubIndex = [
     try { initial = (new URLSearchParams(window.location.search).get('q') || '').trim(); } catch (e) { initial = ''; }
     if (initial) ui.triggerSearch(initial.slice(0, 200));
     var syncTimer;
+    var syncQuery = function (value) {
+      try {
+        var url = new URL(window.location.href);
+        var v = (value || '').trim();
+        if (v) url.searchParams.set('q', v); else url.searchParams.delete('q');
+        window.history.replaceState(null, '', url.pathname + url.search + url.hash);
+      } catch (err) { /* older browsers: leave the URL alone */ }
+    };
     document.addEventListener('input', function (e) {
       var t = e.target;
       if (!t || !t.classList || !t.classList.contains('pagefind-ui__search-input')) return;
       clearTimeout(syncTimer);
-      syncTimer = setTimeout(function () {
-        try {
-          var url = new URL(window.location.href);
-          var v = t.value.trim();
-          if (v) url.searchParams.set('q', v); else url.searchParams.delete('q');
-          window.history.replaceState(null, '', url.pathname + url.search + url.hash);
-        } catch (err) { /* older browsers: leave the URL alone */ }
-      }, 400);
+      syncTimer = setTimeout(function () { syncQuery(t.value); }, 400);
+    });
+    // D-344 (audit A-02) -- Pagefind's Clear button empties the box without an
+    // input event, so drop ?q= when it is clicked; otherwise a reload or a
+    // shared link would run the old search again.
+    document.addEventListener('click', function (e) {
+      var t = e.target;
+      if (!t || !t.closest || !t.closest('.pagefind-ui__search-clear')) return;
+      clearTimeout(syncTimer);
+      syncQuery('');
     });
     // D-301 -- accessibility: Pagefind's input has only a placeholder, and
     // its result count is not announced. Name the input and make the

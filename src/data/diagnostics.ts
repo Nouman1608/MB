@@ -84,7 +84,9 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
     modelledOn: 'the Cambridge IGCSE Chemistry June 2025 Paper 3 series',
     audience: 'For Core and Extended candidates. Every question is on content both tiers study.',
     // D-312 (2026-09-24): six original questions modelled on the June 2025
-    // Paper 3 series. Each answer names the real paper question to try next.
+    // Paper 3 series. Each answer named the real paper question to try next;
+    // since D-339 swapped in metals q7 (no matching June 2025 question on
+    // record), five of six do, and the page says "most" (D-344).
     questionIds: [
       'states-of-matter-practice-q11',
       'formulae-equations-and-the-mole-practice-q9',

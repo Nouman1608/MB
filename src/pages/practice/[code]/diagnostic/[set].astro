@@ -55,6 +55,8 @@ const questions = set.questionIds.map((id) => {
   return { id: q.id, qHtml: q.qHtml, aHtml: q.aHtml, marks: q.marks, topicSlug, topicName, source: `/resources/${q.resourceSlug}/`, sourceTitle: q.resourceTitle };
 });
 const totalMarks = questions.reduce((n, q) => n + q.marks, 0);
+// D-344 (audit A-01): only claim a past-paper pointer on every answer when every answer has one.
+const everyAnswerHasPointer = questions.every((q) => /Try the real question next/i.test(q.aHtml));
 
 // Recommendations per sampled topic: resources for this course that map to
 // the SAME subtopics as the question (falling back to the topic), plus the
@@ -128,7 +130,7 @@ const trialHref = `/trial/?course=${encodeURIComponent(courseId)}&source=diagnos
             <li>Get a list of topics to practise, with links to the notes and questions for each one.</li>
           </ol>
           {set.modelledOn && (
-            <p class="m-0 mt-4">The questions are original, written to test the skills and the mistakes examiners reported in {set.modelledOn}. No exam-board questions are reproduced. Each worked answer names the real past-paper question to try next.</p>
+            <p class="m-0 mt-4">The questions are original, written to test the skills and the mistakes examiners reported in {set.modelledOn}. No exam-board questions are reproduced. {everyAnswerHasPointer ? 'Each worked answer names the real past-paper question to try next.' : 'Most worked answers name the real past-paper question to try next.'}</p>
           )}
           <p class="m-0 mt-4"><strong class="text-ink">This is a short study check, not a predicted grade.</strong> One question per topic shows where to look first. It cannot measure a whole topic or forecast an exam result.</p>
           <p class="m-0 mt-4">The questions come from Marlbridge's published <a href={`/practice/${set.code}/`} class="underline decoration-gold-500 underline-offset-2">{set.code} practice questions</a>, written by {authors.map((a, i) => <>{i > 0 && (i === authors.length - 1 ? ' and ' : ', ')}<a href={routes.author(a!.id)} class="underline decoration-gold-500 underline-offset-2">{a!.data.name}</a></>)}.

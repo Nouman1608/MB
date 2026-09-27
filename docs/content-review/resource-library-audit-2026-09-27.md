@@ -10,8 +10,8 @@
   - Every one of the 188 official subtopics of Cambridge Chemistry 0620, 5070 and 9701 is mapped to at least two pages.
   - Keyword checks find the syllabus terminology for almost every learning outcome.
 - **The problems are accuracy, tier labelling and review status:**
-  - 5 of 27 randomly sampled pages (19%) contained a definite subject error (a wrong fact or a wrong answer).
-  - 22 of the 55 pages shared by 0620 and 5070 never say what is Core and what is Extended.
+  - 5 of the 24 randomly drawn pages (21%) contained a definite subject error (a wrong fact or a wrong answer); the 3 high-traffic pages had gaps but no errors. Small, stratified sample (95% Wilson interval about 9% to 40%): treat it as a warning sign, not a library-wide rate.
+  - 20 of the 55 pages shared by 0620 and 5070 never say what is Core and what is Extended (counted before this batch: the page body, after the frontmatter, contains none of the words "Core", "Extended" or "Supplement").
   - The 0620 **Core** diagnostic contained an Extended-only question.
   - All 1,724 resources are `review-pending`: none has had a subject-teacher review.
 - **Gap-filling should be targeted:** revision notes are missing for 34 subtopics across the three courses, and some pages leave out specific Core content.
@@ -176,7 +176,7 @@ The sequence is: choose syllabus → find weak topic → study → questions →
 | # | Priority | Page / course | Verified issue or gap | Proposed improvement | Student benefit | Evidence of demand | Effort | Acceptance criteria |
 |---|---|---|---|---|---|---|---|---|
 | B1 | 1 | 9701 transition element and other A Level chemistry pages (121 pages) | 2 of 5 sampled 9701 pages had a definite error | Owner (chemistry teacher) reviews the 9701 pages in the order of the matrix, starting with topics 28–37. Record `reviewer`, `reviewedDate`, `reviewStatus: reviewed` only after a real review. | Correct A Level chemistry | Owner teaches it; A Level chemistry blog links | High (about 15 min/page) | Each reviewed page has a named reviewer and date; the error log is kept in the decision log |
-| B2 | 1 | All 55 shared 0620/5070 pages | 22 have no tier labels in the body | Add the "*(0620 Extended, 5070 required)*" labels used in rates/redox/metals to the remaining 20 pages, item by item, against the syllabus Supplement column | A Core student knows what to skip | 0620 is the site's main IGCSE chemistry course | Medium (2 days) | Every Supplement-only item on a 0620 page carries a label; checked against the PDF |
+| B2 | 1 | All 55 shared 0620/5070 pages | 20 have no tier labels in the body (rule as in section 1) | Add the "*(0620 Extended, 5070 required)*" labels used in rates/redox/metals to the remaining 20 pages, item by item, against the syllabus Supplement column | A Core student knows what to skip | 0620 is the site's main IGCSE chemistry course | Medium (2 days) | Every Supplement-only item on a 0620 page carries a label; checked against the PDF |
 | B3 | 1 | 79 pages with "Examiner insight (June 2024)" and 117 "Try the real question" pointers | Source not recorded for the June 2024 ones | Check each against the published June 2024 examiner report or paper; keep with a citation, correct, or delete | Honest, citable exam advice | Present on high-traffic pages (e.g. mensuration) | Medium–High | Every insight names the report and page; unverifiable ones removed |
 | B4 | 1 | /resources/a-ict-data-processing-revision-notes/ and the other 8 pages for 9626 | Called "ICT"; the official title is Information Technology; topic scope needs checking | Retitle as "Information Technology (ICT)" to keep the search term; check the scope and lists against the 9626 syllabus | Correct naming and scope | 2nd most-clicked resource | Low–Medium | Titles and body say "Information Technology"; lists match the syllabus |
 | B5 | 2 | /resources/ib-myp-individuals-and-societies-subject-guide/ | Repetition; no key or global concepts; no next steps | Remove repeats; add key concepts, global contexts and links to MYP resources | Useful for the page students actually find | Most-clicked resource (11 clicks, 242 impressions) | Low | No repeated section; at least 3 internal links; concepts listed from the IB brief |
@@ -257,4 +257,12 @@ None of these is marked reviewed.
 | 2–3 | B1: owner reviews 9701 topics 28–37 (about 40 pages) | At least 40 pages `reviewed` with named reviewer and date; errors logged |
 | 3 | B4 and B5: 9626 naming/scope; MYP I&S guide | Both done; clicks on the two pages tracked in D1 |
 | 4 | B8 and B10: "On this topic" line; 0580 coverage matrix | `recommended_resource_click` from the new line visible in GA4; 0580 matrix saved |
-| Day 30 | Report | Error rate in a fresh random sample of 15 pages below 10% (currently 19%); resource-to-practice/diagnostic clicks and trial clicks from resource pages compared with the baseline |
+| Day 30 | Report | Errors in a fresh random sample of at least 30 pages, drawn by the same stratified method, at or below 2 (about 7%; currently 5 of 24); resource-to-practice/diagnostic clicks and trial clicks from resource pages compared with the baseline |
+
+## Corrections (27 Sep 2026, D-344)
+
+After the auditor's check of D-339 (project doc `audit-d339-d341-2026-09-27.md`, finding A-03), three figures above were corrected:
+- **Error rate:** the sample was 24 random pages plus 3 chosen by search clicks. All 5 errors came from the random 24, so the rate is 5 of 24 (21%), not 5 of 27 (19%). The sample was stratified with fixed quotas, not weighted by each board's share of the library, and the 95% Wilson interval is about 9% to 40%.
+- **Pages without tier labels:** recounted on the state before this batch (`afcdb54^`) with the rule now stated in section 1. The count is 20, not 22; the auditor's own count was also 20.
+- **Day-30 target:** a 15-page sample cannot distinguish 10% from 19%, so the target is now a count on a sample of at least 30 pages drawn the same way.
+

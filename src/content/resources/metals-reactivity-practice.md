@@ -111,7 +111,7 @@ Related: [Metal Properties and Reactivity revision notes](/resources/metals-reac
 **6.** In a pure metal the atoms are **the same size and arranged in regular layers that can slide over one another** [1]. In an alloy, **atoms of a different size are introduced** [1], which **distorts the layers and prevents them sliding**, so the alloy is harder [1].
 
 **7. (a)** magnesium + steam → magnesium oxide + hydrogen [1].
-**(b)** Steam supplies **more energy** (a higher temperature) than cold water, which is enough to overcome magnesium's activation energy for reaction, whereas cold water alone is not [1].
+**(b)** Steam is at a **much higher temperature** than cold water, and a higher temperature makes the reaction faster [1]. *(0620 Extended, not needed for the mark: at the higher temperature more of the colliding particles have energy equal to or greater than the activation energy, so more collisions are successful.)*
 
 **8. (a)** **Magnesium > zinc > silver** [1]; a more vigorous reaction with the same acid under the same conditions indicates a more reactive metal [1].
 **(b)** **Magnesium and zinc** would react to release hydrogen gas [1]; **silver**, being below hydrogen in the reactivity series, would not react at all [1].

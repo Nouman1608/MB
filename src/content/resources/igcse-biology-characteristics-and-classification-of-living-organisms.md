@@ -99,7 +99,7 @@ user step by step to a name:
 3.  Has fur or hair .......................... MAMMAL
     No fur or hair ............................ go to 4
 
-4.  Has fins and scales ...................... FISH
+4.  Has fins ................................. FISH
     No fins ................................... go to 5
 
 5.  Has scaly, dry skin ...................... REPTILE
