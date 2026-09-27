@@ -43,6 +43,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on group trends, electron configuration and transition metals."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -52,6 +53,8 @@ featured: false
 > these alongside the official past papers available free from your board.
 
 Related: [The Periodic Table revision notes](/resources/periodic-table-revision-notes/)
+
+> **Tier note:** question 10, marked *(0620 Extended, 5070 required)*, goes beyond 0620 Core: transition elements forming ions with variable oxidation numbers, including iron(II) and iron(III) (syllabus 8.4 outcome 2). Questions 4 and 5 (the explanation part) are marked *(Background — beyond both syllabuses.)*: explaining the Group I and Group VII reactivity trends through atomic radius, shielding and nuclear attraction is not an outcome in either syllabus, which only ask you to describe the trends (8.2 outcome 1, 8.3 outcome 1). Everything else is 0620 Core. 5070 has no tiers, so O Level candidates need all of it.
 
 ---
 
@@ -63,9 +66,9 @@ Related: [The Periodic Table revision notes](/resources/periodic-table-revision-
 
 **3.** Describe the reaction of potassium with cold water, giving three observations and a word equation. **[4]**
 
-**4.** Explain fully why reactivity increases down Group I, referring to atomic radius, shielding and nuclear attraction. **[3]**
+**4.** *(Background — beyond both syllabuses.)* Explain fully why reactivity increases down Group I, referring to atomic radius, shielding and nuclear attraction. **[3]**
 
-**5.** Explain why reactivity **decreases** down Group VII, and why this is the opposite trend to Group I, in terms of gaining versus losing an electron. **[4]**
+**5.** Explain why reactivity **decreases** down Group VII, and why this is the opposite trend to Group I, in terms of gaining versus losing an electron. *(Background — beyond both syllabuses, apart from stating that reactivity decreases down Group VII, which is 0620 Core.)* **[4]**
 
 **6.** Chlorine is bubbled through a solution of potassium iodide.
 
@@ -79,7 +82,7 @@ Related: [The Periodic Table revision notes](/resources/periodic-table-revision-
 
 **9.** State the appearance at room temperature and pressure of chlorine, bromine and iodine. **[3]**
 
-**10.** Iron forms both iron(II) and iron(III) compounds. Explain what this shows about transition elements, and contrast it with Group I metals. **[3]**
+**10.** *(0620 Extended, 5070 required)* Iron forms both iron(II) and iron(III) compounds. Explain what this shows about transition elements, and contrast it with Group I metals. **[3]**
 
 **11.** Chlorine water is added to aqueous potassium bromide. State what is seen, and explain the reaction. **[2]**
 
@@ -118,12 +121,12 @@ Word equation: potassium + water → potassium hydroxide + hydrogen [1].
 
 ## Where marks are usually lost
 
-- Saying reactivity increases down both Group I and Group VII — remembering the two trends run in opposite directions, and *why* (losing an electron gets easier down Group I, gaining one gets harder down Group VII), avoids this.
-- Giving only one reason for the Group I trend when three are needed.
+- Saying reactivity increases down both Group I and Group VII — remembering the two trends run in opposite directions avoids this. (The reason, *(Background — beyond both syllabuses)*: losing an electron gets easier down Group I, gaining one gets harder down Group VII.)
+- *(Background — beyond both syllabuses.)* Giving only one reason for the Group I trend when three are needed.
 - Saying noble gases are unreactive "because they are gases" — the reason is a full outer electron shell, not the physical state.
 - Confusing group number with period number.
 - Giving the wrong physical state for a halogen at room temperature — chlorine is a gas, bromine a liquid, and iodine a solid, and mixing these up loses an easy mark.
-- Describing iron(II)/iron(III) as "isotopes" of each other rather than as different ions of the same element with different oxidation numbers.
+- *(0620 Extended, 5070 required)* Describing iron(II)/iron(III) as "isotopes" of each other rather than as different ions of the same element with different oxidation numbers.
 - Describing a halogen displacement reaction without explaining *why* it happens — a more reactive halogen displaces a less reactive one from solution, and reactivity is what should be named as the reason, not simply "because it can".
 
 ## Displacement reactions — a useful memory aid

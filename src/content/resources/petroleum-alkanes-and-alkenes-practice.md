@@ -31,6 +31,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on fractional distillation, alkane substitution, cracking and alkene addition reactions for IGCSE Chemistry."
 author: "nouman-ahmed"
 publishedDate: 2026-09-01
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -40,6 +41,8 @@ featured: false
 > these alongside the official past papers available free from your board.
 
 Related: [Petroleum, Alkanes and Alkenes study guide](/resources/petroleum-alkanes-and-alkenes/) for the full explanation of fractional distillation, cracking and addition reactions.
+
+> **Tier note:** questions and parts marked *(0620 Extended, 5070 required)* are in the Supplement column of the 0620 syllabus: the substitution reaction of alkanes with chlorine in detail — ultraviolet light and the products (11.4 outcomes 3–4) — and addition reactions of alkenes with bromine, hydrogen and steam, with their products (11.5 outcomes 5–6). Everything else is 0620 Core, including fuels and fractions (11.3), that alkanes are unreactive except in combustion and substitution by chlorine (11.4 outcome 2), cracking (11.5 outcomes 2–3), the bromine water test (11.5 outcome 4), and making ethanol from ethene and steam with an acid catalyst (11.6 outcome 1). 5070 has no tiers, so O Level candidates need all of it.
 
 ---
 
@@ -54,8 +57,8 @@ Related: [Petroleum, Alkanes and Alkenes study guide](/resources/petroleum-alkan
 **4.** Methane reacts with chlorine in the presence of ultraviolet light.
 
 **(a)** Name this type of reaction. **[1]**
-**(b)** Write a balanced equation for the reaction of methane with chlorine to form monochloromethane. **[2]**
-**(c)** State the condition needed for this reaction to occur. **[1]**
+**(b)** *(0620 Extended, 5070 required)* Write a balanced equation for the reaction of methane with chlorine to form monochloromethane. **[2]**
+**(c)** *(0620 Extended, 5070 required)* State the condition needed for this reaction to occur. **[1]**
 
 **5.** Explain what cracking is and why it is carried out. **[3]**
 
@@ -63,12 +66,12 @@ Related: [Petroleum, Alkanes and Alkenes study guide](/resources/petroleum-alkan
 
 **7.** Ethene reacts separately with (i) bromine and (ii) steam.
 
-**(a)** Name the type of reaction occurring in both cases. **[1]**
+**(a)** *(0620 Extended, 5070 required)* Name the type of reaction occurring in both cases. **[1]**
 **(b)** Name the organic product formed with steam, and state the catalyst required. **[2]**
 
-**8.** A student claims that both alkanes and alkenes can undergo addition reactions. Explain why this claim is incorrect for alkanes. **[2]**
+**8.** *(0620 Extended, 5070 required)* A student claims that both alkanes and alkenes can undergo addition reactions. Explain why this claim is incorrect for alkanes. **[2]**
 
-**9.** Ethene is reacted with hydrogen in the presence of a catalyst.
+**9.** *(0620 Extended, 5070 required)* Ethene is reacted with hydrogen in the presence of a catalyst.
 
 **(a)** Name this type of reaction. **[1]**
 **(b)** Name the catalyst used, and the organic product formed. **[2]**
@@ -77,7 +80,7 @@ Related: [Petroleum, Alkanes and Alkenes study guide](/resources/petroleum-alkan
 
 **11.** Describe how the chain length, volatility, boiling point and viscosity of the fractions change as you move up a fractionating column, from bitumen at the bottom to refinery gas at the top. **[3]**
 
-**12.** Write a balanced symbol equation for the reaction between ethene and bromine, and state what would be observed. **[3]**
+**12.** Write a balanced symbol equation for the reaction between ethene and bromine, and state what would be observed. *(The equation is 0620 Extended, 5070 required; the observation is 0620 Core, 11.5 outcome 4.)* **[3]**
 
 **13.** Write a balanced equation for the complete combustion of octane, C₈H₁₈. **[2]**
 
@@ -126,7 +129,7 @@ Related: [Petroleum, Alkanes and Alkenes study guide](/resources/petroleum-alkan
 - Getting the bromine water colour change the wrong way round (it decolourises with alkenes, stays orange with alkanes).
 - Writing the hydration of ethene as if it were combustion, rather than addition of steam across the double bond.
 - Treating fractional distillation, cracking and polymerisation as one vague "processing crude oil" idea — they are three distinct processes: distillation *separates* the existing hydrocarbons by boiling point, cracking *breaks* long-chain molecules into shorter ones, and polymerisation *joins* alkene monomers together.
-- Confusing hydrogenation (ethene + hydrogen, nickel catalyst, gives an alkane) with hydration (ethene + steam, acid catalyst, gives an alcohol) — same reaction type, completely different reagent and product.
+- *(0620 Extended, 5070 required)* Confusing hydrogenation (ethene + hydrogen, nickel catalyst, gives an alkane) with hydration (ethene + steam, acid catalyst, gives an alcohol) — same reaction type, completely different reagent and product.
 - Naming the wrong fraction for a use — remember the order runs bitumen, lubricating oil, fuel oil, diesel/gas oil, kerosene/paraffin, naphtha, gasoline/petrol, refinery gas from bottom to top, with chain length and boiling point falling all the way up.
-- Writing an addition equation with mismatched atom counts either side — check every atom balances, not just the carbons.
+- *(0620 Extended, 5070 required)* Writing an addition equation with mismatched atom counts either side — check every atom balances, not just the carbons.
 - Calling petroleum a single named fossil fuel — petroleum, coal and natural gas (mainly methane) are three separate fossil fuels, not different names for the same thing.

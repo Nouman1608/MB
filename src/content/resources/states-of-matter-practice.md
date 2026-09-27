@@ -25,6 +25,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on the three states, changes of state, diffusion and heating curves."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -34,6 +35,8 @@ featured: false
 > these alongside the official past papers available free from your board.
 
 Related: [States of Matter revision notes](/resources/states-of-matter-revision-notes/)
+
+> **Tier note:** questions and parts marked *(0620 Extended, 5070 required)* go beyond 0620 Core: explaining changes of state and heating curves in terms of kinetic particle theory (syllabus 1.1 outcome 5), explaining the effects of temperature and pressure on a gas in terms of particles (1.1 outcome 6) and the effect of relative molecular mass on the rate of diffusion (1.2 outcome 2). Everything else is 0620 Core. 5070 has no tiers, so O Level candidates need all of it.
 
 ---
 
@@ -45,7 +48,7 @@ Related: [States of Matter revision notes](/resources/states-of-matter-revision-
 
 ## Section B
 
-**3.** A student heats ice from −20 °C until it becomes steam and plots temperature against time.
+**3.** *(0620 Extended, 5070 required)* A student heats ice from −20 °C until it becomes steam and plots temperature against time.
 
 **(a)** Explain why the temperature stays constant at 0 °C even though heat is still supplied. **[3]**
 **(b)** Explain why the flat section at 100 °C is longer than the one at 0 °C. **[2]**
@@ -54,17 +57,17 @@ Related: [States of Matter revision notes](/resources/states-of-matter-revision-
 
 **(a)** Name and define the process. **[2]**
 **(b)** Explain why it happens faster at higher temperature. **[2]**
-**(c)** Ammonia and hydrogen chloride are released at opposite ends of a tube. Explain why the white ring forms nearer the hydrogen chloride end. **[3]**
+**(c)** *(0620 Extended, 5070 required)* Ammonia and hydrogen chloride are released at opposite ends of a tube. Explain why the white ring forms nearer the hydrogen chloride end. **[3]**
 
-**5.** Explain, in terms of particles, why a gas exerts pressure on the walls of its container and why the pressure rises when the gas is heated at constant volume. **[4]**
+**5.** *(0620 Extended, 5070 required)* Explain, in terms of particles, why a gas exerts pressure on the walls of its container and why the pressure rises when the gas is heated at constant volume. **[4]**
 
-**6.** Explain why a substance with strong forces between its particles has a high melting point. **[2]**
+**6.** *(0620 Extended, 5070 required)* Explain why a substance with strong forces between its particles has a high melting point. **[2]**
 
 **7.** Explain, in terms of particle separation and arrangement, why a solid has a fixed shape and volume, a liquid has a fixed volume but no fixed shape, and a gas has neither. **[3]**
 
 **8.** State whether diffusion occurs in solids, and explain why or why not. **[2]**
 
-**9.** Explain the separate effects of (a) increasing temperature and (b) increasing pressure on the volume of a fixed mass of gas. **[3]**
+**9.** *(0620 Extended, 5070 required)* Explain the separate effects of (a) increasing temperature and (b) increasing pressure on the volume of a fixed mass of gas. **[3]**
 
 **10.** A question asks a student to *explain* a change of state, but the student only *describes* what happens. Why does this lose marks? **[1]**
 
@@ -96,7 +99,7 @@ Related: [States of Matter revision notes](/resources/states-of-matter-revision-
 
 **8.** **No** [1] — solid particles are held in **fixed positions** and cannot move throughout the material, so there is no net movement of particles from one region to another [1].
 
-**9. (a)** Increasing temperature gives particles **more kinetic energy**, so they move faster and collide with the container walls **more frequently and with greater force** [1]; if free to expand, the gas's **volume increases** [1]. **(b)** Increasing pressure pushes the particles **closer together**, reducing the space between them, so the gas's **volume decreases** [1].
+**9. (a)** Increasing temperature gives particles **more kinetic energy**, so they move faster and collide with the container walls **more frequently and with greater force** [1]; if free to expand, the gas's **volume increases** [1]. **(b)** Increasing pressure pushes the particles **closer together**, reducing the space between them, so the gas's **volume decreases** [1]. *(0620 Core, syllabus 1.1 outcome 4, needs only the direction of each effect: volume increases with temperature and decreases with pressure. The particle explanation is Extended.)*
 
 **10.** Describing only states **what** happens, while explaining requires reference to **particle energy, motion and the forces between particles** — an answer that merely describes when asked to explain does not earn the explanation marks [1].
 
@@ -109,8 +112,8 @@ Related: [States of Matter revision notes](/resources/states-of-matter-revision-
 ## Where marks are usually lost
 
 - Saying particles in a solid do not move — they vibrate.
-- Explaining the flat section as "the heat is lost".
-- Forgetting to link molecular mass to speed of diffusion.
-- Saying pressure is caused by particles "pushing" rather than colliding.
+- *(0620 Extended, 5070 required)* Explaining the flat section as "the heat is lost".
+- *(0620 Extended, 5070 required)* Forgetting to link molecular mass to speed of diffusion.
+- *(0620 Extended, 5070 required)* Saying pressure is caused by particles "pushing" rather than colliding.
 - Describing a change of state when the command word asks for an explanation.
 - Saying diffusion happens in solids, or that particles in a solid have no energy at all.

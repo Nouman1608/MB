@@ -37,6 +37,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on apparatus choice, titration technique, chromatography (including Rf) and separation/purification methods for IGCSE Chemistry."
 author: "nouman-ahmed"
 publishedDate: 2026-09-01
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -46,6 +47,8 @@ featured: false
 > these alongside the official past papers available free from your board.
 
 Related: [Practical Techniques study guide](/resources/practical-techniques-titrations-chromatography-separation/)
+
+> **Tier note:** questions 5 and 10, marked *(0620 Extended, 5070 required)*, are in the Supplement column of the 0620 syllabus: 12.3 outcomes 3–4 (colourless substances with a locating agent, and the Rf equation). Everything else is 0620 Core. 5070 has no tiers, so O Level candidates need all of it.
 
 ---
 
@@ -62,7 +65,7 @@ Related: [Practical Techniques study guide](/resources/practical-techniques-titr
 **(a)** Describe how the chromatogram is set up and run. **[2]**
 **(b)** State how you would use the chromatogram to decide whether a food colouring is a pure single dye or a mixture of dyes. **[1]**
 
-**5.** In a chromatography experiment, a substance travels 6.0 cm and the solvent front travels 8.0 cm from the same baseline.
+**5.** *(0620 Extended, 5070 required)* In a chromatography experiment, a substance travels 6.0 cm and the solvent front travels 8.0 cm from the same baseline.
 
 **(a)** Calculate the Rf value of the substance. **[2]**
 **(b)** State one reason why the Rf value calculated could not be greater than 1. **[1]**
@@ -79,7 +82,7 @@ Related: [Practical Techniques study guide](/resources/practical-techniques-titr
 
 ## Further questions
 
-**10.** A mixture of colourless amino acids is separated by paper chromatography.
+**10.** *(0620 Extended, 5070 required)* A mixture of colourless amino acids is separated by paper chromatography.
 
 **(a)** Explain how the spots are made visible, since the substances have no colour of their own. **[1]**
 
@@ -131,8 +134,8 @@ Define **(c)** residue and **(d)** filtrate. **[2]**
 ## Where marks are usually lost
 
 - Confusing simple distillation (one volatile component) with fractional distillation (two or more miscible liquids of different boiling point).
-- Applying the Rf formula upside down — it is always substance distance over solvent distance.
+- *(0620 Extended, 5070 required)* Applying the Rf formula upside down — it is always substance distance over solvent distance.
 - Describing purity only as "a different melting point" rather than the key idea that impurity produces a *range*.
 - Adding the indicator to a titration meant for salt preparation and then crystallising with it still present.
-- Saying colourless substances "can't be chromatographed" — a locating agent reveals their spots after the run.
+- *(0620 Extended, 5070 required)* Saying colourless substances "can't be chromatographed" — a locating agent reveals their spots after the run.
 - Assuming impurity always lowers a transition temperature — it lowers melting point but raises boiling point.

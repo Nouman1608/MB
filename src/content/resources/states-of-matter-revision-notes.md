@@ -25,12 +25,18 @@ syllabusTopics:
 description: "Condensed recall notes on particle arrangement, changes of state and diffusion for Cambridge IGCSE 0620 and O Level 5070 — definitions, tables and exam traps."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 
 Condensed for the final weeks. For the full explanation, work through the
 [States of Matter and Kinetic Particle Theory study guide](/resources/states-of-matter-and-kinetic-particle-theory/)
 first, then test yourself with the [practice questions](/resources/states-of-matter-practice/).
+
+> **Tier note:** items marked *(0620 Extended, 5070 required)* are in the Supplement column of the 0620
+> syllabus: 1.1 outcome 5 (explaining changes of state and heating and cooling curves in terms of
+> kinetic particle theory) and 1.2 outcome 2 (the effect of relative molecular mass on the rate of
+> diffusion). Everything else is 0620 Core. 5070 has no tiers, so O Level candidates need all of it.
 
 ## The three states at a glance
 
@@ -77,17 +83,19 @@ A change of state is always **physical, not chemical**: no new substance forms, 
 | Speed | Slow | Rapid |
 | Bubbles | No | Yes |
 
-## Reading a heating/cooling curve
+## Reading a heating/cooling curve *(0620 Extended, 5070 required)*
+
+Explaining the curve with kinetic particle theory is Supplement (1.1 outcome 5), but heating and cooling curves are also one of the practical contexts listed for Papers 5 and 6, which every 0620 candidate sits, so Core candidates should still be able to read one.
 
 A heating curve plots temperature against time: it **rises**, **flattens at the melting point**, **rises again**, then **flattens at the boiling point**. A cooling curve is the mirror image. The first step in interpreting one is always to identify the **flat sections (plateaus)** and state which change of state each one represents — the slopes just confirm the substance is warming or cooling within a single state.
 
 ## Diffusion — what makes it faster
 
 - **Higher temperature** → particles have more kinetic energy → faster.
-- **Lower relative molecular mass** → lighter particles move faster at the same temperature.
+- *(0620 Extended, 5070 required)* **Lower relative molecular mass** → lighter particles move faster at the same temperature.
 - Fastest in **gases**, slower in liquids, negligible in solids — the same particle-spacing argument used throughout this topic.
 
-**The standard experiment:** ammonia (Mr 17) and hydrogen chloride (Mr 36.5) diffuse from opposite ends of a tube; the white ring of ammonium chloride forms **nearer the HCl end**, because the lighter NH₃ travels further in the same time — at the same temperature, particles with a smaller relative molecular mass move faster on average.
+*(0620 Extended, 5070 required)* **The standard experiment:** ammonia (Mr 17) and hydrogen chloride (Mr 36.5) diffuse from opposite ends of a tube; the white ring of ammonium chloride forms **nearer the HCl end**, because the lighter NH₃ travels further in the same time — at the same temperature, particles with a smaller relative molecular mass move faster on average.
 
 ## Describe vs explain — the tier trap
 
@@ -106,9 +114,9 @@ explanation marks, even if every fact stated is correct.
 
 - Particles do **not** expand when heated — the **spacing** and **speed** increase.
 - A change of state is **physical**, not chemical: no new substance, fully reversible, mass conserved.
-- Temperature stays **constant** during a change of state even though heating continues — energy goes into overcoming forces of attraction, not raising kinetic energy.
+- *(0620 Extended, 5070 required)* Temperature stays **constant** during a change of state even though heating continues — energy goes into overcoming forces of attraction, not raising kinetic energy.
 - Don't write "gas particles have no forces between them" — the forces are negligible, not absent.
-- Say "kinetic energy", not just "energy", when explaining temperature effects.
+- *(0620 Extended, 5070 required)* Say "kinetic energy", not just "energy", when explaining temperature effects (1.1 outcome 6).
 - Giving only a description ("it melts") when the question says "explain" — you must reference particle energy, motion or the forces between particles.
 - Forgetting diffusion happens in gases and liquids but **not** in solids, because solid particles cannot leave their fixed positions.
 
@@ -116,8 +124,8 @@ explanation marks, even if every fact stated is correct.
 
 1. Why does a gas fill its container but a liquid does not?
 2. State two differences between evaporation and boiling.
-3. Two gases diffuse from opposite ends of a tube. Which travels further, and why?
-4. Why is the heating curve flat at the melting point?
+3. *(0620 Extended, 5070 required)* Two gases diffuse from opposite ends of a tube. Which travels further, and why?
+4. *(0620 Extended, 5070 required)* Why is the heating curve flat at the melting point?
 5. Explain, in particle terms, why gases are compressible but liquids are not.
 6. What is the difference between "describe" and "explain" a change of state, in terms of what an answer must contain?
 7. Why does diffusion not happen in solids?

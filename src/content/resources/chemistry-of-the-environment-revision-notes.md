@@ -31,11 +31,18 @@ syllabusTopics:
 description: "Condensed recall notes on water treatment, fertilisers, air pollutants and the greenhouse effect for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 
 Condensed for the final weeks. For the full explanation, use the
 [Chemistry of the Environment study guide](/resources/chemistry-of-the-environment/).
+
+> **Tier note:** items marked *(0620 Extended, 5070 required)* are in the Supplement column of the 0620
+> syllabus: 10.3 outcome 7 (how carbon dioxide and methane cause global warming), 10.3 outcome 8 (how
+> oxides of nitrogen form in car engines and their removal by catalytic converters, with the equation)
+> and 10.3 outcome 9 (the symbol equation for photosynthesis). Water (10.1) and fertilisers (10.2) are
+> entirely Core, and everything else is 0620 Core. 5070 has no tiers, so O Level candidates need all of it.
 
 ## Water
 
@@ -70,8 +77,8 @@ Ammonium salts and nitrates supply nitrogen, applied together in a single NPK ap
 |---|---|---|
 | Carbon monoxide CO | Incomplete combustion | Toxic — binds to haemoglobin, reduces oxygen transport |
 | Sulfur dioxide SO₂ | Sulfur impurities in fossil fuels | **Acid rain** |
-| Nitrogen oxides NOₓ | Reaction of N₂ and O₂ at high temperature in engines | Acid rain, photochemical smog, respiratory problems |
-| Particulates | Incomplete combustion | Respiratory disease |
+| Nitrogen oxides NOₓ | Car engines (how they form — N₂ and O₂ reacting at the high temperature inside the engine — is *(0620 Extended, 5070 required)*) | Acid rain, photochemical smog, respiratory problems |
+| Particulates | Incomplete combustion | Increased risk of respiratory problems and cancer |
 | Methane CH₄ | Livestock, decomposition, rice paddies | Greenhouse gas |
 | Carbon dioxide CO₂ | Complete combustion, respiration | **Enhanced greenhouse effect** |
 
@@ -79,22 +86,27 @@ Ammonium salts and nitrates supply nitrogen, applied together in a single NPK ap
 
 **Reducing acid rain:** catalytic converters, low-sulfur fuels, and **flue gas desulfurisation** — passing waste gases through calcium oxide (or calcium carbonate), which reacts with the sulfur dioxide before it reaches the atmosphere.
 
-**Catalytic converters** reduce CO and NOₓ:
+0620 Core (10.3 outcome 4) needs you to state and explain the use of catalytic converters in vehicles to reduce acid rain: they cut the oxides of nitrogen released in exhaust gases. How the converter removes them, with the equation, is Extended.
+
+*(0620 Extended, 5070 required)* **Catalytic converters** remove CO and NOₓ:
 `2CO + 2NO → 2CO₂ + N₂`
 
 **Clean, dry air** is approximately **78% nitrogen and 21% oxygen**, with the small remainder made up of noble gases and carbon dioxide.
 
 ## The greenhouse effect
 
-Short-wavelength radiation from the Sun passes through the atmosphere and warms the Earth. The Earth re-radiates **longer-wavelength infrared**, which greenhouse gases **absorb** and re-emit, some of it back downward rather than letting it escape to space, warming the atmosphere.
+*(0620 Extended, 5070 required)* Short-wavelength radiation from the Sun passes through the atmosphere and warms the Earth. The Earth re-radiates **longer-wavelength infrared**, which greenhouse gases **absorb** and re-emit, some of it back downward rather than letting it escape to space, warming the atmosphere.
 
 The **enhanced** greenhouse effect is the extra warming from raised CO₂ and CH₄ levels — climate change, rising sea levels, extreme weather. See the [Chemistry of the Environment study guide](/resources/chemistry-of-the-environment/) for the full syllabus coverage and worked reasoning behind every table above.
 
 Reduction strategies (the syllabus's closed list of five): planting trees, reduction in livestock farming, decreasing use of fossil fuels, increasing use of hydrogen, and increasing use of renewable energy.
 
-**Photosynthesis removes CO₂ from the atmosphere**, converting it (with water, using light energy and chlorophyll) into glucose and oxygen:
-`6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂`
-— the reverse reaction of respiration and combustion, and the reason deforestation makes the enhanced greenhouse effect worse: fewer trees means less CO₂ removed from the atmosphere by this route.
+**Photosynthesis removes CO₂ from the atmosphere**, converting it (with water, using light energy and chlorophyll) into glucose and oxygen.
+
+- Word equation (0620 Core): carbon dioxide + water → glucose + oxygen
+- *(0620 Extended, 5070 required)* Symbol equation: `6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂`
+
+Photosynthesis is the reverse of respiration (and of burning glucose), and it is why deforestation makes the enhanced greenhouse effect worse: fewer trees means less CO₂ removed from the atmosphere by this route.
 
 ## Exam traps
 
@@ -104,7 +116,7 @@ Reduction strategies (the syllabus's closed list of five): planting trees, reduc
 - Anhydrous copper(II) sulfate tests for the **presence** of water, not purity.
 - Eutrophication kills fish through **oxygen depletion**, not poisoning.
 - Forgetting that dissolved substances **lower** the melting point and **raise** the boiling point of water — a sample that doesn't melt/boil at exactly 0 °C/100 °C is impure, even if the copper sulfate test confirms water is present.
-- Confusing flue gas desulfurisation (removes SO₂ using calcium oxide, tackling acid rain) with a catalytic converter (removes CO and NOₓ together, a different pair of pollutants).
+- Confusing flue gas desulfurisation (removes SO₂ using calcium oxide, tackling acid rain) with a catalytic converter in a vehicle (a different method; *(0620 Extended, 5070 required)* it removes CO and NOₓ together, a different pair of pollutants).
 
 ## Self-test
 
@@ -112,8 +124,8 @@ Reduction strategies (the syllabus's closed list of five): planting trees, reduc
 2. Name the three stages of water treatment.
 3. State what causes eutrophication and its effect on aquatic life. (The detailed four-step mechanism is background, not required by the syllabus.)
 4. Which pollutant causes acid rain, and where does it come from?
-5. Why does a catalytic converter reduce two pollutants at once?
+5. *(0620 Extended, 5070 required)* Why does a catalytic converter reduce two pollutants at once?
 6. Why is distilled water, rather than tap water, used in practical chemistry?
-7. Give the symbol equation for photosynthesis, and explain why deforestation worsens the enhanced greenhouse effect.
+7. *(0620 Extended, 5070 required)* Give the symbol equation for photosynthesis, and explain why deforestation worsens the enhanced greenhouse effect.
 
 **Answers:** 1. Anhydrous copper(II) sulfate turns white → blue (or cobalt chloride blue → pink); pure water boils at 100 °C and freezes at 0 °C. 2. Filtration/sedimentation, carbon treatment, chlorination. 3. Excess fertiliser washes into waterways, ultimately depleting the oxygen dissolved in the water so that fish and other aquatic life suffocate. (Background detail, not required: fertiliser runoff → algal bloom blocks light → water plants die → bacteria decompose them, consuming oxygen → fish suffocate.) 4. Sulfur dioxide, from sulfur impurities burned in fossil fuels (nitrogen oxides also contribute). 5. It converts CO and NO together into CO₂ and N₂ — one reaction removes both a toxic gas and an acid-rain precursor. 6. Tap water contains dissolved impurities that could interfere with a reaction or a measurement, unlike distilled water. 7. 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂; fewer trees means less CO₂ is removed from the atmosphere by photosynthesis, so more remains to enhance the greenhouse effect.
