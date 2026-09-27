@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Content-breadth sprint (D-354) -- writes content-gap-report.md at the repo root.
+Content-breadth sprint (owner brief, 27 Sep 2026) -- writes content-gap-report.md at the repo root.
 
 For each syllabus in SCOPE it reads the CURRENT official topic list from
 src/data/academic/syllabus-topics.ts (the build-validated transcription of the
@@ -118,7 +118,7 @@ def main():
     lines = [
         '# Content gap report',
         '',
-        f'**Generated {now:%d %b %Y, %H:%M} PKT** by `python3 scripts/content-gap-report.py` (content-breadth sprint, D-354).',
+        f'**Generated {now:%d %b %Y, %H:%M} PKT** by `python3 scripts/content-gap-report.py` (content-breadth sprint).',
         '',
         'Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series only), which is the build-validated transcription of each board\'s official document. A topic counts as having a study guide (SG), revision notes (RN) or practice set (PQ) only if a resource of that type maps to it. Subtopic columns count exact subtopic mappings only. Nothing here says a page has been teacher-reviewed: all resources remain `review-pending`.',
         '',

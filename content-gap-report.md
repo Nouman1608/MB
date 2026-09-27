@@ -1,6 +1,6 @@
 # Content gap report
 
-**Generated 27 Sep 2026, 19:01 PKT** by `python3 scripts/content-gap-report.py` (content-breadth sprint, D-354).
+**Generated 27 Sep 2026, 22:30 PKT** by `python3 scripts/content-gap-report.py` (content-breadth sprint).
 
 Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series only), which is the build-validated transcription of each board's official document. A topic counts as having a study guide (SG), revision notes (RN) or practice set (PQ) only if a resource of that type maps to it. Subtopic columns count exact subtopic mappings only. Nothing here says a page has been teacher-reviewed: all resources remain `review-pending`.
 
@@ -8,8 +8,8 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 
 | Syllabus | Series | Resources | SG / RN / PQ | Topics with all 3 types | Subtopics with all 3 types | Status |
 |---|---|---|---|---|---|---|
-| DP Mathematics: Analysis and Approaches (mathematics-analysis-and-approaches) | First assessment 2021 | 39 | 13 / 13 / 13 | 5 / 5 | 61 / 83 | complete |
-| DP Mathematics: Applications and Interpretation (mathematics-applications-and-interpretation) | First assessments for SL and HL—2021 | 48 | 16 / 16 / 16 | 5 / 5 | 66 / 78 | complete |
+| DP Mathematics: Analysis and Approaches (mathematics-analysis-and-approaches) | First assessment 2021 | 51 | 17 / 17 / 17 | 5 / 5 | 83 / 83 | complete |
+| DP Mathematics: Applications and Interpretation (mathematics-applications-and-interpretation) | First assessments for SL and HL—2021 | 57 | 19 / 19 / 19 | 5 / 5 | 78 / 78 | complete |
 | DP Language A: Language and Literature (language-a-language-and-literature) | First assessments for SL and HL 2021 | 6 | 2 / 2 / 2 | 2 / 3 | no subtopic data | gaps remain |
 | DP Language A: Literature (language-a-literature) | First assessments for SL and HL 2021 | 6 | 2 / 2 / 2 | 2 / 3 | no subtopic data | gaps remain |
 | DP Environmental Systems and Societies (environmental-systems-and-societies) | First assessment 2026 | 6 | 2 / 2 / 2 | 2 / 11 | 0 / 27 | gaps remain |
@@ -21,8 +21,8 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 | MYP Individuals and Societies (myp-individuals-and-societies) | From 2014 | 7 | 2 / 2 / 2 | 3 / 6 | no subtopic data | gaps remain |
 | 0580 (mathematics) | 2025-2027 | 31 | 9 / 9 / 13 | 9 / 9 | 0 / 72 | complete |
 | 0620 (chemistry) | 2026-2028 | 59 | 19 / 20 / 20 | 12 / 12 | 46 / 49 | complete |
-| 0625 (physics) | For examination in 2026, 2027 and 2028 | 14 | 3 / 3 / 8 | 3 / 6 | 0 / 11 | gaps remain |
-| 0610 (biology) | For examination in 2026, 2027 and 2028 | 19 | 4 / 4 / 11 | 4 / 21 | 0 / 8 | gaps remain |
+| 0625 (physics) | For examination in 2026, 2027 and 2028 | 14 | 3 / 3 / 8 | 3 / 6 | 14 / 24 | gaps remain |
+| 0610 (biology) | For examination in 2026, 2027 and 2028 | 19 | 4 / 4 / 11 | 4 / 21 | 13 / 61 | gaps remain |
 | 9701 (chemistry) | 2025-2027 | 129 | 43 / 43 / 43 | 37 / 37 | 90 / 90 | complete |
 | 9702 (physics) | 2025-2027 | 75 | 25 / 25 / 25 | 25 / 25 | 76 / 76 | complete |
 | 9700 (biology) | For examination in 2025, 2026 and 2027 | 17 | 3 / 3 / 11 | 3 / 19 | 0 / 44 | gaps remain |
@@ -43,10 +43,10 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 | # | Topic | SG | RN | PQ | Subtopics missing a type (missing types) |
 |---|---|---|---|---|---|
 | 1 | Number and algebra | 4 | 4 | 4 | -- |
-| 2 | Functions | 2 | 2 | 2 | 2.1 (SG/RN/PQ), 2.2 (SG/RN/PQ), 2.3 (SG/RN/PQ), 2.4 (SG/RN/PQ), 2.5 (SG/RN/PQ), 2.6 (SG/RN/PQ), 2.7 (SG/RN/PQ), 2.8 (SG/RN/PQ), 2.9 (SG/RN/PQ), 2.10 (SG/RN/PQ), 2.11 (SG/RN/PQ) |
+| 2 | Functions | 4 | 4 | 4 | -- |
 | 3 | Geometry and trigonometry | 3 | 3 | 3 | -- |
 | 4 | Statistics and probability | 2 | 2 | 2 | -- |
-| 5 | Calculus | 2 | 2 | 2 | 5.1 (SG/RN/PQ), 5.2 (SG/RN/PQ), 5.3 (SG/RN/PQ), 5.4 (SG/RN/PQ), 5.5 (SG/RN/PQ), 5.6 (SG/RN/PQ), 5.7 (SG/RN/PQ), 5.8 (SG/RN/PQ), 5.9 (SG/RN/PQ), 5.10 (SG/RN/PQ), 5.11 (SG/RN/PQ) |
+| 5 | Calculus | 4 | 4 | 4 | -- |
 
 ### DP Mathematics: Applications and Interpretation -- mathematics-applications-and-interpretation (ib ib-dp, First assessments for SL and HL—2021)
 
@@ -54,8 +54,8 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 |---|---|---|---|---|---|
 | 1 | Number and algebra | 3 | 3 | 3 | -- |
 | 2 | Functions | 2 | 2 | 2 | -- |
-| 3 | Geometry and trigonometry | 4 | 4 | 4 | 3.1 (SG/RN/PQ), 3.2 (SG/RN/PQ), 3.3 (SG/RN/PQ), 3.4 (SG/RN/PQ) |
-| 4 | Statistics and probability | 4 | 4 | 4 | 4.1 (SG/RN/PQ), 4.2 (SG/RN/PQ), 4.3 (SG/RN/PQ), 4.5 (SG/RN/PQ), 4.6 (SG/RN/PQ), 4.7 (SG/RN/PQ), 4.8 (SG/RN/PQ), 4.9 (SG/RN/PQ) |
+| 3 | Geometry and trigonometry | 5 | 5 | 5 | -- |
+| 4 | Statistics and probability | 6 | 6 | 6 | -- |
 | 5 | Calculus | 3 | 3 | 3 | -- |
 
 ### DP Language A: Language and Literature -- language-a-language-and-literature (ib ib-dp, First assessments for SL and HL 2021)
@@ -154,8 +154,8 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 
 | # | Topic | SG | RN | PQ | Subtopics missing a type (missing types) |
 |---|---|---|---|---|---|
-| 1 | Number | 1 | 1 | 2 | 1.1 (SG/RN/PQ), 1.2 (SG/RN/PQ), 1.3 (SG/RN/PQ), 1.4 (SG/RN/PQ), 1.5 (SG/RN/PQ), 1.6 (SG/RN/PQ), 1.7 (SG/RN/PQ), 1.8 (SG/RN/PQ), 1.9 (SG/RN/PQ), 1.10 (SG/RN/PQ), 1.11 (SG/RN/PQ), 1.12 (SG/RN/PQ), 1.13 (SG/RN/PQ), 1.14 (SG/RN/PQ), 1.15 (SG/RN/PQ), 1.16 (SG/RN/PQ), 1.17 (SG/RN), 1.18 (SG/RN) |
-| 2 | Algebra and graphs | 1 | 1 | 2 | 2.1 (SG/RN/PQ), 2.2 (SG/RN/PQ), 2.3 (SG/RN), 2.4 (SG/RN/PQ), 2.5 (SG/RN/PQ), 2.6 (SG/RN/PQ), 2.7 (SG/RN/PQ), 2.8 (SG/RN), 2.9 (SG/RN/PQ), 2.10 (SG/RN/PQ), 2.11 (SG/RN/PQ), 2.12 (SG/RN), 2.13 (SG/RN) |
+| 1 | Number | 1 | 1 | 2 | 1.1 (SG/RN), 1.2 (SG/RN/PQ), 1.3 (SG/RN/PQ), 1.4 (SG/RN), 1.5 (SG/RN/PQ), 1.6 (SG/RN), 1.7 (SG/RN/PQ), 1.8 (SG/RN), 1.9 (SG/RN), 1.10 (SG/RN), 1.11 (SG/RN), 1.12 (SG/RN), 1.13 (SG/RN), 1.14 (SG/RN/PQ), 1.15 (SG/RN/PQ), 1.16 (SG/RN/PQ), 1.17 (SG/RN), 1.18 (SG/RN) |
+| 2 | Algebra and graphs | 1 | 1 | 2 | 2.1 (SG/RN/PQ), 2.2 (SG/RN), 2.3 (SG/RN), 2.4 (SG/RN), 2.5 (SG/RN), 2.6 (SG/RN), 2.7 (SG/RN), 2.8 (SG/RN), 2.9 (SG/RN/PQ), 2.10 (SG/RN/PQ), 2.11 (SG/RN/PQ), 2.12 (SG/RN), 2.13 (SG/RN) |
 | 3 | Coordinate geometry | 1 | 1 | 1 | 3.1 (SG), 3.2 (SG), 3.3 (SG), 3.4 (SG), 3.5 (SG), 3.6 (SG), 3.7 (SG) |
 | 4 | Geometry | 1 | 1 | 2 | 4.1 (SG), 4.2 (SG), 4.3 (SG), 4.4 (SG), 4.5 (SG), 4.6 (SG), 4.7 (SG), 4.8 (SG) |
 | 5 | Mensuration | 1 | 1 | 1 | 5.1 (SG), 5.2 (SG), 5.3 (SG), 5.4 (SG), 5.5 (SG) |
@@ -185,38 +185,38 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 
 | # | Topic | SG | RN | PQ | Subtopics missing a type (missing types) |
 |---|---|---|---|---|---|
-| 1 | Motion, forces and energy | 1 | 1 | 2 | 1.1 (SG/RN/PQ), 1.2 (SG/RN/PQ), 1.3 (SG/RN/PQ), 1.4 (SG/RN/PQ), 1.5 (SG/RN/PQ), 1.6 (SG/RN/PQ), 1.7 (SG/RN/PQ), 1.8 (SG/RN/PQ) |
-| 2 | Thermal physics | 1 | 1 | 2 | 2.1 (SG/RN/PQ), 2.2 (SG/RN/PQ), 2.3 (SG/RN/PQ) |
-| 3 | Waves | 1 | 1 | 1 | topic has no subtopic data |
-| 4 | Electricity and magnetism | 0 | 0 | 2 | topic has no subtopic data |
-| 5 | Nuclear physics | 0 | 0 | 1 | topic has no subtopic data |
-| 6 | Space physics | 0 | 0 | 0 | topic has no subtopic data |
+| 1 | Motion, forces and energy | 1 | 1 | 2 | 1.1 (RN) |
+| 2 | Thermal physics | 1 | 1 | 2 | -- |
+| 3 | Waves | 1 | 1 | 1 | -- |
+| 4 | Electricity and magnetism | 0 | 0 | 2 | 4.1 (SG/RN/PQ), 4.2 (SG/RN), 4.3 (SG/RN), 4.4 (SG/RN), 4.5 (SG/RN) |
+| 5 | Nuclear physics | 0 | 0 | 1 | 5.1 (SG/RN), 5.2 (SG/RN) |
+| 6 | Space physics | 0 | 0 | 0 | 6.1 (SG/RN/PQ), 6.2 (SG/RN/PQ) |
 
 ### 0610 -- biology (cambridge igcse, For examination in 2026, 2027 and 2028)
 
 | # | Topic | SG | RN | PQ | Subtopics missing a type (missing types) |
 |---|---|---|---|---|---|
-| 1 | Characteristics and classification of living organisms | 1 | 1 | 1 | 1.1 (SG/RN/PQ), 1.2 (SG/RN/PQ), 1.3 (SG/RN/PQ) |
-| 2 | Organisation of the organism | 1 | 1 | 1 | 2.1 (SG/RN/PQ), 2.2 (SG/RN/PQ) |
-| 3 | Movement into and out of cells | 1 | 1 | 1 | 3.1 (SG/RN/PQ), 3.2 (SG/RN/PQ), 3.3 (SG/RN/PQ) |
-| 4 | Biological molecules | 0 | 0 | 0 | topic has no subtopic data |
-| 5 | Enzymes | 0 | 0 | 1 | topic has no subtopic data |
-| 6 | Plant nutrition | 0 | 0 | 1 | topic has no subtopic data |
-| 7 | Human nutrition | 1 | 1 | 1 | topic has no subtopic data |
-| 8 | Transport in plants | 0 | 0 | 1 | topic has no subtopic data |
-| 9 | Transport in animals | 0 | 0 | 0 | topic has no subtopic data |
-| 10 | Diseases and immunity | 0 | 0 | 0 | topic has no subtopic data |
-| 11 | Gas exchange in humans | 0 | 0 | 0 | topic has no subtopic data |
-| 12 | Respiration | 0 | 0 | 1 | topic has no subtopic data |
-| 13 | Excretion in humans | 0 | 0 | 0 | topic has no subtopic data |
-| 14 | Coordination and response | 0 | 0 | 1 | topic has no subtopic data |
-| 15 | Drugs | 0 | 0 | 0 | topic has no subtopic data |
-| 16 | Reproduction | 0 | 0 | 1 | topic has no subtopic data |
-| 17 | Inheritance | 0 | 0 | 1 | topic has no subtopic data |
-| 18 | Variation and selection | 0 | 0 | 0 | topic has no subtopic data |
-| 19 | Organisms and their environment | 0 | 0 | 0 | topic has no subtopic data |
-| 20 | Human influences on ecosystems | 0 | 0 | 0 | topic has no subtopic data |
-| 21 | Biotechnology and genetic modification | 0 | 0 | 0 | topic has no subtopic data |
+| 1 | Characteristics and classification of living organisms | 1 | 1 | 1 | -- |
+| 2 | Organisation of the organism | 1 | 1 | 1 | -- |
+| 3 | Movement into and out of cells | 1 | 1 | 1 | -- |
+| 4 | Biological molecules | 0 | 0 | 0 | 4.1 (SG/RN/PQ) |
+| 5 | Enzymes | 0 | 0 | 1 | 5.1 (SG/RN) |
+| 6 | Plant nutrition | 0 | 0 | 1 | 6.1 (SG/RN), 6.2 (SG/RN/PQ) |
+| 7 | Human nutrition | 1 | 1 | 1 | -- |
+| 8 | Transport in plants | 0 | 0 | 1 | 8.1 (SG/RN), 8.2 (SG/RN), 8.3 (SG/RN), 8.4 (SG/RN) |
+| 9 | Transport in animals | 0 | 0 | 0 | 9.1 (SG/RN/PQ), 9.2 (SG/RN/PQ), 9.3 (SG/RN/PQ), 9.4 (SG/RN/PQ) |
+| 10 | Diseases and immunity | 0 | 0 | 0 | 10.1 (SG/RN/PQ) |
+| 11 | Gas exchange in humans | 0 | 0 | 0 | 11.1 (SG/RN/PQ) |
+| 12 | Respiration | 0 | 0 | 1 | 12.1 (SG/RN), 12.2 (SG/RN), 12.3 (SG/RN) |
+| 13 | Excretion in humans | 0 | 0 | 0 | 13.1 (SG/RN/PQ) |
+| 14 | Coordination and response | 0 | 0 | 1 | 14.1 (SG/RN), 14.2 (SG/RN), 14.3 (SG/RN/PQ), 14.4 (SG/RN/PQ), 14.5 (SG/RN/PQ) |
+| 15 | Drugs | 0 | 0 | 0 | 15.1 (SG/RN/PQ) |
+| 16 | Reproduction | 0 | 0 | 1 | 16.1 (SG/RN), 16.2 (SG/RN), 16.3 (SG/RN), 16.4 (SG/RN), 16.5 (SG/RN/PQ), 16.6 (SG/RN/PQ) |
+| 17 | Inheritance | 0 | 0 | 1 | 17.1 (SG/RN), 17.2 (SG/RN), 17.3 (SG/RN), 17.4 (SG/RN) |
+| 18 | Variation and selection | 0 | 0 | 0 | 18.1 (SG/RN/PQ), 18.2 (SG/RN/PQ), 18.3 (SG/RN/PQ) |
+| 19 | Organisms and their environment | 0 | 0 | 0 | 19.1 (SG/RN/PQ), 19.2 (SG/RN/PQ), 19.3 (SG/RN/PQ), 19.4 (SG/RN/PQ) |
+| 20 | Human influences on ecosystems | 0 | 0 | 0 | 20.1 (SG/RN/PQ), 20.2 (SG/RN/PQ), 20.3 (SG/RN/PQ), 20.4 (SG/RN/PQ) |
+| 21 | Biotechnology and genetic modification | 0 | 0 | 0 | 21.1 (SG/RN/PQ), 21.2 (SG/RN/PQ), 21.3 (SG/RN/PQ) |
 
 ### 9701 -- chemistry (cambridge a-level, 2025-2027)
 
