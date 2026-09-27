@@ -101,7 +101,7 @@ const clientStrings = JSON.stringify({
       sighted and assistive-tech users alike (aria-hidden + tabindex -1 +
       visually-hidden position, not display:none, so basic bots that skip
       display:none fields don't skip this one too). */}
-  <div aria-hidden="true" class="absolute -left-[9999px] top-auto h-px w-px overflow-hidden">
+  <div aria-hidden="true" class="pointer-events-none absolute start-0 top-0 h-px w-px overflow-hidden whitespace-nowrap opacity-0 [clip-path:inset(50%)]">
     <label for="website">Website</label>
     <input type="text" id="website" name="website" tabindex={-1} autocomplete="off" />
   </div>

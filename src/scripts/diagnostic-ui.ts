@@ -216,11 +216,23 @@ function init(d: Data): void {
       trialLink.className = low
         ? 'mt-3 inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-5 text-[14.5px] font-medium text-ivory hover:bg-navy-700'
         : 'mt-3 inline-flex min-h-11 items-center text-[14.5px] font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600';
-      trialLink.textContent = low ? 'Book a free class on this topic' : 'Request a free trial class';
+      // D-338 -- only name one topic when it really is the weakest. If every
+      // topic scored the same (e.g. all 0 after skipping), "the weakest" would
+      // just be the first topic, so talk about "these topics" instead.
+      const ratios = [...topics.values()].map((t) => (t.max ? t.awarded / t.max : 1));
+      const tied = ratios.length > 1 && ratios.every((r) => r === ratios[0]);
+      const oneTopic = low && weakest && !tied;
+      trialLink.textContent = !low ? 'Request a free trial class' : oneTopic ? 'Get a free class on this topic' : 'Get a free class on these topics';
       trialLink.dataset.cta = low ? 'diagnostic-trial-low-score' : 'diagnostic-trial';
-      trialText.textContent = low && weakest
-        ? `${weakest[1].name} is costing you marks. A ${subject} specialist can take you through it in a free trial class.`
-        : `Want help with these topics? Request a free class with a ${subject} teacher.`;
+      trialText.textContent = oneTopic
+        ? `${weakest![1].name} is costing you marks. A ${subject} specialist can take you through it in a free trial class.`
+        : low
+          ? `These topics are costing you marks. A ${subject} specialist can take you through them in a free trial class.`
+          : `Want help with these topics? Request a free class with a ${subject} teacher.`;
+      // Carry the topic to the trial form so the teacher knows where to start.
+      const href = new URL(trialLink.getAttribute('href') ?? '/trial/', window.location.origin);
+      if (oneTopic) href.searchParams.set('topic', weakest![1].name); else href.searchParams.delete('topic');
+      trialLink.setAttribute('href', href.pathname + href.search);
     }
 
     // Worked answers again, for review.

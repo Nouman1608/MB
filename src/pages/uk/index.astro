@@ -20,7 +20,7 @@ import { routes } from '../../utils/urls/routes';
 import { taughtOnly, boardPath } from '../../utils/academic';
 import { boardBySlug } from '../../data/academic/boards';
 import {
-  REGION_PRICING, ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS,
+  REGION_PRICING, ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS, oneToOneOnlyConversionFor, ONE_TO_ONE_ONLY_NOTE,
   PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee, INDICATIVE_NOTE, ibConversionFor,
 } from '../../data/pricing';
 import { faqNode } from '../../utils/schema/faq';
@@ -66,7 +66,7 @@ const UK_ROWS = [
 const faqs = [
   {
     question: 'Do you teach GCSE, or only IGCSE?',
-    answer: `Both. Marlbridge teaches AQA and OCR GCSE (${count('aqa', 'gcse') + count('ocr', 'gcse')} taught subject combinations) as well as Cambridge and Pearson Edexcel International GCSE, and AQA, OCR, Edexcel and Cambridge at A Level. Each subject page names the exact specification code it is taught against.`,
+    answer: `Both. Marlbridge teaches AQA and OCR GCSE (${count('aqa', 'gcse') + count('ocr', 'gcse')} taught subject combinations) as well as Cambridge and Pearson Edexcel International GCSE, and AQA, OCR, Edexcel and Cambridge at A Level. OCR courses are taught one-to-one only. Each subject page names the exact specification code it is taught against.`,
   },
   {
     question: 'How do the class times work with the UK time difference?',
@@ -234,11 +234,15 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
               <td class="py-3 pr-4 text-ink">IB, one-to-one, per 1-hour class <span class="text-[12px] text-ink-mute">(indicative)</span></td>
               <td class="py-3 text-ink-mute" colspan="2">{formatFee(ibConversionFor('United Kingdom')!.perClass, 'GBP')} GBP</td>
             </tr>
+            <tr class="border-b border-rule">
+              <td class="py-3 pr-4 text-ink">OCR courses, one-to-one only, per class <span class="text-[12px] text-ink-mute">(indicative)</span></td>
+              <td class="py-3 text-ink-mute" colspan="2">{formatFee(oneToOneOnlyConversionFor('United Kingdom')!.perClass, 'GBP')} GBP</td>
+            </tr>
           </tbody>
         </table>
       </div>
       <p class="m-0 mt-6 text-[13px] text-ink-mute">
-        One-to-one rates: {INDICATIVE_NOTE} {ONE_TO_ONE_TERMS.conversionNote} {PRICING_TERMS.freeTrial} {PRICING_TERMS.notPermanentNote} Last confirmed
+        {ONE_TO_ONE_ONLY_NOTE} One-to-one rates: {INDICATIVE_NOTE} {ONE_TO_ONE_TERMS.conversionNote} {PRICING_TERMS.freeTrial} {PRICING_TERMS.notPermanentNote} Last confirmed
         {' '}{PRICING_VERIFIED_DATE} (one-to-one rates {ONE_TO_ONE_TERMS.verifiedDate}).
       </p>
     </Container>

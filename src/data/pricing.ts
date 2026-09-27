@@ -191,6 +191,11 @@ export const ONE_TO_ONE_ONLY_CONVERSIONS: readonly IbConversion[] = [
   { region: 'Other countries', currency: 'USD', symbol: 'US$', perClass: 22, status: 'indicative' },
 ] as const;
 
+/** D-338 -- one short line for pages that list OCR or OxfordAQA among the
+ * boards taught next to group fees (UK page, GCSE/A Level/IGCSE programmes),
+ * so a family on those courses is not quoted a group format that does not exist. */
+export const ONE_TO_ONE_ONLY_NOTE = `${'OCR courses, and OxfordAQA Islamiyat and Pakistan Studies'}, are taught one-to-one only (no group option); the multi-subject and sibling discounts do not apply.`;
+
 export const oneToOneOnlyConversionFor = (region: string): IbConversion | undefined =>
   ONE_TO_ONE_ONLY_CONVERSIONS.find((r) => r.region === region);
 

@@ -24,7 +24,7 @@ const uid = `sub-${source}`;
     <h2 id={`${uid}-h`} class="m-0 text-[18px] font-semibold text-navy-800">Get free revision emails (optional)</h2>
     <p class="m-0 mt-1 max-w-[62ch] text-[14.5px] text-ink-mute">{NEWSLETTER.promise} The free tools on this site never need an email.</p>
     <form class="mt-4 grid gap-4 sm:grid-cols-2" novalidate method="post" action="/api/subscribe" data-subscribe-form>
-      <div aria-hidden="true" class="absolute -left-[9999px] h-px w-px overflow-hidden"><label for={`${uid}-web`}>Website</label><input id={`${uid}-web`} name="website" tabindex={-1} autocomplete="off" /></div>
+      <div aria-hidden="true" class="pointer-events-none absolute start-0 top-0 h-px w-px overflow-hidden whitespace-nowrap opacity-0 [clip-path:inset(50%)]"><label for={`${uid}-web`}>Website</label><input id={`${uid}-web`} name="website" tabindex={-1} autocomplete="off" /></div>
       <input type="hidden" name="source" value={source} />
       <div class="grid gap-1.5">
         <label for={`${uid}-email`} class="text-[14px] font-medium">Email</label>

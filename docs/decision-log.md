@@ -14240,3 +14240,17 @@ The D-149 principle (no pop-ups or interstitials, and the material stays free) i
 - Diagnostics: below 60% self-marked, the trial box names the weakest topic and becomes a primary button (`data-cta="diagnostic-trial-low-score"`).
 
 **Checked, no change needed.** The pricing-page footer already reads "Marlbridge is the international branch of Learners Academy" (an earlier fetch showed an old deploy). IB subject resource counts of 10 are real files.
+
+---
+
+## D-338 - Audit fixes: Arabic/Urdu form pages blank on phones, OCR one-to-one-only on UK and programme pages, diagnostic topic hand-off, trial reply promise repetition (2026-09-27)
+
+**Source.** Audit of changed pages, 27 Sep 2026 (project doc `audit-changed-pages-2026-09-27.md`, findings N-01, N-02, N-04, N-05). Owner instruction: "yes fix them".
+
+**Changes.**
+- **N-01 (high).** Honeypot fields were hidden with `absolute -left-[9999px]`. On right-to-left pages this widened the layout to ~10,400 px, so on phones /ar/ and /ur/ trial, contact, schools and tutoring showed a blank screen (Chromium mobile emulation: layout 1,560 px, heading at x = 1,190). Now hidden in place with `absolute start-0 top-0 h-px w-px overflow-hidden opacity-0 [clip-path:inset(50%)] pointer-events-none`, keeping `aria-hidden`, `tabindex=-1` and `autocomplete=off`. Files: TrialRequestForm, EnquiryForm, CorrectionForm, SubscribeBox, workshops/[slug]. Guard: `audit-accessibility.mjs` check [6] fails the build on any `-left-/-right-[NNNpx]` offset.
+- **N-02.** /uk/ fee table gains an "OCR courses, one-to-one only, per class (indicative)" row (from `ONE_TO_ONE_ONLY_CONVERSIONS`), the note and the GCSE FAQ say OCR is one-to-one only. Programme pages whose curriculum line names OCR (GCSE, A Level) or OxfordAQA (IGCSE only) add "…: one-to-one only · 6,000 PKR per class in Pakistan (other currencies)" beside "Groups capped at 15". New `ONE_TO_ONE_ONLY_NOTE`.
+- **N-04.** Low-score diagnostic prompt: button now "Get a free class on this topic"; when every topic scored the same it says "these topics" instead of naming the first one; the named topic travels to /trial/ as `topic=` and is written (as text, length-capped, character allow-list) into the message box.
+- **N-05.** /trial/ showed the reply promise five times; removed from the lead and the form note (still in the key-facts card, the "We reply" step, the FAQ and the success panel).
+
+**Not changed.** Prices, discounts, the reply promise itself, teacher data. N-03 (teachers for World History, English Literature, IB Maths/Language pages) waits for owner answers.

@@ -14,7 +14,7 @@ import ProgramTeachers from '../../components/sections/ProgramTeachers.astro';
 import TuitionOptions from '../../components/sections/TuitionOptions.astro';
 import HowTuitionWorks from '../../components/sections/HowTuitionWorks.astro';
 import { TUITION_FAQS } from '../../data/tuition';
-import { PRICING_TERMS, QUALIFICATION_TIER, IB_PRICING } from '../../data/pricing';
+import { PRICING_TERMS, QUALIFICATION_TIER, IB_PRICING, ONE_TO_ONE_ONLY_PRICING } from '../../data/pricing';
 import { getPrograms, availabilityLabel, availabilityTone } from '../../utils/content/collections';
 import { relatedResources } from '../../utils/content/related';
 import { courseNode } from '../../utils/schema/course';
@@ -29,6 +29,15 @@ export async function getStaticPaths() {
 interface Props { program: CollectionEntry<'programs'> }
 const { program } = Astro.props;
 const d = program.data;
+/* D-338 -- OCR courses, and OxfordAQA Islamiyat / Pakistan Studies, are
+ * one-to-one only (D-335). Say so next to "Groups capped at 15" wherever the
+ * programme's curriculum line names those boards. */
+const curriculumBoards = (d.curriculum ?? '').split('/').map((s: string) => s.trim());
+const oneToOneOnlyHere = [
+  curriculumBoards.includes('OCR') ? 'OCR courses' : null,
+  // OxfordAQA Islamiyat / Pakistan Studies exist at IGCSE only.
+  curriculumBoards.includes('OxfordAQA') && program.id === 'igcse' ? 'OxfordAQA Islamiyat and Pakistan Studies' : null,
+].filter(Boolean).join(', and ');
 const { Content } = await render(program);
 const path = routes.program(program.id);
 
@@ -160,6 +169,9 @@ const jsonLd = [
     {d.ageRange && <span class="text-[14px] text-ink-mute">Typical ages: {d.ageRange}</span>}
     {d.marlbridgeTeaches === 'teaching' && hasGroupTuition && (
       <span class="text-[14px] text-ink-mute">Groups capped at {PRICING_TERMS.maxGroupSize} &middot; one-to-one also available</span>
+    )}
+    {d.marlbridgeTeaches === 'teaching' && hasGroupTuition && oneToOneOnlyHere && (
+      <span class="text-[14px] text-ink-mute">{oneToOneOnlyHere}: one-to-one only &middot; {ONE_TO_ONE_ONLY_PRICING.perClass.toLocaleString('en-US')} {ONE_TO_ONE_ONLY_PRICING.currency} per class in {ONE_TO_ONE_ONLY_PRICING.region} (<a href="/pricing/#one-to-one-only" class="underline decoration-gold-500 underline-offset-2">other currencies</a>)</span>
     )}
     {d.marlbridgeTeaches === 'teaching' && isIb && (
       <span class="text-[14px] text-ink-mute">One-to-one only &middot; {IB_PRICING.perClass.toLocaleString('en-US')} {IB_PRICING.currency} per 1-hour class in {IB_PRICING.region}</span>
