@@ -12,9 +12,17 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "characteristics-and-classification-of-living-organisms-cambridge-igcse-biology"
+    subtopic: "characteristics-of-living-organisms-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "characteristics-and-classification-of-living-organisms-cambridge-igcse-biology"
+    subtopic: "concept-and-uses-of-classification-systems-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "characteristics-and-classification-of-living-organisms-cambridge-igcse-biology"
+    subtopic: "features-of-organisms-cambridge-igcse-biology"
 description: "Original exam-style practice questions with full worked answers on MRS GREN, the five kingdoms, vertebrates and dichotomous keys for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -24,6 +32,8 @@ featured: false
 > these alongside the official past papers available free from your board.
 
 Related: [Characteristics and Classification revision notes](/resources/igcse-biology-characteristics-classification-revision-notes/)
+
+> **Tier note:** questions marked *(Extended)* test Supplement content in the 0610 syllabus: the five kingdoms (1.3, Supplement outcome 4) and ferns and flowering plants, including monocotyledons and dicotyledons (1.3, Supplement outcome 5). All other questions are answerable by a 0610 Core candidate.
 
 ---
 
@@ -47,7 +57,7 @@ Related: [Characteristics and Classification revision notes](/resources/igcse-bi
 
 **(c)** Explain one advantage of the binomial system. **[2]**
 
-**5.** **(Supplement)** Kingdom features.
+**5.** *(Extended)* Kingdom features.
 
 **(a)** State the cell wall material and type of nutrition for plants and for fungi. **[4]**
 
@@ -75,7 +85,7 @@ Related: [Characteristics and Classification revision notes](/resources/igcse-bi
 
 **(b)** Give **one** feature that would distinguish a bird from this group, and state the corresponding feature in the bird. **[2]**
 
-**9.** **(Supplement)** A flowering plant has flower parts arranged in threes and leaves with parallel veins.
+**9.** *(Extended)* A flowering plant has flower parts arranged in threes and leaves with parallel veins.
 
 **(a)** State whether it is a monocotyledon or a dicotyledon, using **both** pieces of evidence given. **[2]**
 

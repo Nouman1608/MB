@@ -12,6 +12,16 @@ order: 8
 syllabusTopics:
   - qualification: "igcse"
     topic: "transport-in-plants-cambridge-igcse-biology"
+    subtopic: "xylem-and-phloem-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "transport-in-plants-cambridge-igcse-biology"
+    subtopic: "water-uptake-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "transport-in-plants-cambridge-igcse-biology"
+    subtopic: "transpiration-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "transport-in-plants-cambridge-igcse-biology"
+    subtopic: "translocation-cambridge-igcse-biology"
 description: "Original exam-style questions with full worked answers on xylem and phloem, water uptake, transpiration pull, factors affecting transpiration, and translocation from sources to sinks, for Cambridge IGCSE Biology (0610)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
@@ -25,6 +35,8 @@ featured: false
 > these alongside the official past papers available from your board.
 
 Each question practises a skill tested in the June 2024 Paper 42. After each answer there is an examiner insight, a mark-scheme insight or a tip, and (where a close match exists) the real question to try next. Questions marked *(Extended)* test Supplement content.
+
+> **Tier note:** questions marked *(Extended)* go beyond 0610 Core: the structure of xylem vessels (8.1), the transpiration pull and the effect of humidity (8.3), and translocation (8.4 is Supplement only). All other questions are answerable by a 0610 Core candidate.
 
 ---
 

@@ -12,9 +12,20 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "waves-cambridge-igcse-physics"
+    subtopic: "general-properties-of-waves-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "waves-cambridge-igcse-physics"
+    subtopic: "light-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "waves-cambridge-igcse-physics"
+    subtopic: "electromagnetic-spectrum-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "waves-cambridge-igcse-physics"
+    subtopic: "sound-cambridge-igcse-physics"
 description: "General wave properties, reflection and refraction of light, thin lenses, the electromagnetic spectrum and sound -- the Core and Supplement content of Topic 3 Waves for Cambridge IGCSE Physics 0625, 2026-2028 series."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-29
+updatedDate: 2026-09-27
 featured: false
 ---
 

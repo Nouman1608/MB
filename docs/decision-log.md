@@ -14681,3 +14681,47 @@ Source: project doc `claude/audit-d354-d359-2026-09-27.md`, finding T-01.
 - **No 0620 page is wholly Extended.** The only Supplement-only 0620 subtopic is 2.7 (metallic bonding), and no page is mapped to it alone. So every 0620 page keeps the Core set; its tier notes and labels show Extended students what applies to them.
 - 0610 and 0625 have Extended sets too, but their subtopic tiers aren't verified yet (backlog B16), so the rule doesn't fire for them.
 - Tests: 2 new unit tests in `next-steps.test.mjs`.
+
+## D-363 - Core/Extended tiers for every question in the four tiered IGCSE banks; 0580 tier labels (M1, B16) (2026-09-27)
+
+**Why:** follow-ups M1 and B16 from D-355. Six 0580 revision-notes pages had no tier labels. No 0610 or 0625 practice question carried a tier, so the Core-only filters from D-354 could not work for them. Review also showed that one Extended-only subtopic mapping made every question in a file Extended-only. That hid Core questions from Core students, including some in the 0580 Core diagnostic.
+
+| Change | Files |
+|---|---|
+| A question-level "(Extended)" label at the start of a question makes that question Extended-only. A label on only one part makes the question mixed. Labels for another syllabus code are ignored, and partial notes do not count. There are 5 unit tests. | `src/utils/practice/question-tier.ts`, `client-questions.ts` |
+| A file that maps a mix of Extended-only and other subtopics is now "both", and the labels mark its Extended-only questions. Only a file whose every subtopic is Extended-only makes all its questions Extended-only. | `src/utils/practice/client-questions.ts` |
+| The diagnostics validator now rejects Extended-only questions in the non-Extended sets for all four tiered codes (0580, 0610, 0620, 0625). Before, it checked only 0620. | `scripts/validate-diagnostics.mjs`, `src/data/diagnostics.ts` |
+| 0610: all 61 subtopics from the official 2026–2028 syllabus (697203, V3), with verified tiers (12 Core-only, 3 Supplement-only, 46 both). The 19 pages are mapped to subtopics. The 11 practice files have item-by-item "(Extended)" labels and tier notes. | `syllabus-topics.ts`, 0610 resources |
+| 0625: all 24 subtopics from the 2026–2028 syllabus (697209, V2), with verified tiers (1.6 Momentum Supplement-only, 4.4 Electrical safety Core-only, 22 both). The 14 pages are mapped. The 8 practice files are labelled item by item. In the Core diagnostic, q12 (acceleration, Supplement) is swapped for q1 (average speed). | same, 0625 resources, `diagnostics.ts` |
+| 0580 (M1): the six revision-notes pages (coordinate geometry, geometry, mensuration, trigonometry, transformations and vectors, probability) now have tier notes and "(Extended)" labels, checked against the C/E lists. The number and algebra practice files are mapped to subtopics. The 34 questions re-tiered by the file rule were each checked: 31 are Core, 2 are Extended and 1 is mixed. | 0580 resources |
+
+**Fixes:**
+- **Geometry, kite symmetry:** the self-test answer was wrong.
+- **Geometry, constructions:** perpendicular and angle bisector constructions are not required by C4.2/E4.2. They are now marked background in the notes and replaced by a triangle-from-three-sides construction in the notes and in practice Q2. Practice Q1(a) no longer asks for the non-syllabus term "bisector".
+- **Probability:** there is now a note that conditional-probability notation and formulas are not required (E8.4), and the self-test uses a counting question instead.
+- **Physics:** the answer to Q3 in electricity practice now accepts the Core wording.
+
+**Result:** every question in the 0580 (115), 0610 (83), 0620 (203) and 0625 (66) banks now has a tier. None is untagged.
+
+| Code | Extended-only | Both | Core |
+|---|---|---|---|
+| 0580 | 59 | 56 | – |
+| 0610 | 28 | 55 | – |
+| 0620 | 55 | 129 | 19 |
+| 0625 | 35 | 31 | – |
+
+**Independent reviews:** three, with no high-severity findings. Their medium and low points were applied:
+- missing mappings to 8.4, 17.2, 17.3 and 1.6, added now that the mixed-file rule makes them safe;
+- the E8.4 self-test;
+- the algebra mappings and Q9(b);
+- the wording of the constructions note.
+
+**For specialist teachers:**
+- **Biology:** enzymes q6, reproduction q4 and movement q4.
+- **Physics:** thermal Q5, Q10 and Q13; electricity Q5; motion Q2 and Q9.
+- **Maths:** number Q4 (repeated percentage change), and probability practice Q4, which uses P(B | A) notation that E8.4 says is not required.
+- **Chemistry:** bonding q5(d).
+
+**Open item:** the 0610 Extended diagnostic set includes one Core question (inheritance q1). Its scope label says "Extended content".
+
+**Process note:** the D-355 to D-358 decision-log merges garbled older entries because they went through a non-UTF-8 shell. D-360 repaired this. Decision-log changes are now made in UTF-8 tools only.

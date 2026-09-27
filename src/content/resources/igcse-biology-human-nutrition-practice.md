@@ -12,9 +12,23 @@ order: 6
 syllabusTopics:
   - qualification: "igcse"
     topic: "human-nutrition-cambridge-igcse-biology"
+    subtopic: "diet-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "human-nutrition-cambridge-igcse-biology"
+    subtopic: "digestive-system-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "human-nutrition-cambridge-igcse-biology"
+    subtopic: "physical-digestion-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "human-nutrition-cambridge-igcse-biology"
+    subtopic: "chemical-digestion-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "human-nutrition-cambridge-igcse-biology"
+    subtopic: "absorption-cambridge-igcse-biology"
 description: "Exam-style questions with full worked answers on diet, the digestive system, physical and chemical digestion, and absorption, for Cambridge IGCSE Biology (0610) Topic 7."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -26,7 +40,9 @@ Use these questions alongside the [Human Nutrition study
 guide](/resources/igcse-biology-human-nutrition/) and [revision
 notes](/resources/igcse-biology-human-nutrition-revision-notes/).
 Section A targets Core content that both tiers must know; Section B
-mixes Core and Supplement material, with Supplement-only parts marked.
+mixes Core and Supplement material, with Supplement-only questions marked.
+
+> **Tier note:** questions marked *(Extended)* go beyond 0610 Core: pepsin, trypsin and bile neutralising stomach acid (7.4), and villi, microvilli, capillaries and lacteals (7.5). All other questions are answerable by a 0610 Core candidate.
 
 ## Section A — Core
 
@@ -65,7 +81,7 @@ starch more effective once it reaches the small intestine. **[2]**
 
 **[3]**
 
-**8. (Supplement)** Pepsin and trypsin are both proteases, but they
+**8.** *(Extended)* Pepsin and trypsin are both proteases, but they
 work in different regions of the alimentary canal.
 
 **(a)** State where pepsin acts, and the pH conditions it requires. **[2]**
@@ -74,7 +90,7 @@ work in different regions of the alimentary canal.
 suitable for trypsin to work, given that the stomach contents entering
 the duodenum are acidic. **[2]**
 
-**9. (Supplement)** A villus in the small intestine wall contains both
+**9.** *(Extended)* A villus in the small intestine wall contains both
 a network of capillaries and a lacteal.
 
 **(a)** State which digestion products are absorbed by the

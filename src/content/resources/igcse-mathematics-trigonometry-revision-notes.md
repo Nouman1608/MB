@@ -31,12 +31,20 @@ syllabusTopics:
 description: "Condensed recall notes on Pythagoras' theorem, right-angled and non-right-angled triangle trigonometry, exact values, trig functions and 3D problems for Cambridge IGCSE Mathematics 0580."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-04
+updatedDate: 2026-09-27
 featured: false
 ---
 
 Condensed for the final weeks. Pair these notes with the
 [Trigonometry practice questions](/resources/igcse-mathematics-trigonometry-practice/)
 for worked exam-style application.
+
+> **Tier note:** Pythagoras' theorem (C6.1) and sine, cosine and tangent in right-angled triangles (C6.2)
+> are Core. The sections and items marked *(Extended)* are Extended only: exact trigonometric values
+> (E6.3), the graphs of sin, cos and tan (E6.4), the sine rule, cosine rule and area formula (E6.5) and
+> Pythagoras and trigonometry in 3D (E6.6). Extended also adds angles of elevation and depression, the
+> shortest distance from a point to a line (E6.2) and solving trigonometric equations (E6.4), which are
+> not covered on this page.
 
 ## Pythagoras' theorem
 
@@ -56,7 +64,7 @@ tan(angle) = opposite / adjacent
 
 Relative to the **marked angle**, not a fixed position on the page -- the opposite and adjacent sides swap depending on which angle in the triangle is being used, so identify the marked angle first, then label the three sides relative to it.
 
-## Exact trigonometric values
+## Exact trigonometric values *(Extended)*
 
 | angle | 0 | 30 | 45 | 60 | 90 |
 |---|---|---|---|---|---|
@@ -66,11 +74,11 @@ Relative to the **marked angle**, not a fixed position on the page -- the opposi
 
 An "exact value" answer must not be a rounded decimal approximation of an irrational value -- writing 0.707 instead of √2/2 loses accuracy and is not acceptable. This is different from a terminating decimal that equals the exact value precisely: 0.5 is exactly equal to 1/2 (not a rounding of it), so it is an acceptable exact answer for sin 30 degrees unless the question specifically demands fraction notation.
 
-## Trigonometric functions and their graphs
+## Trigonometric functions and their graphs *(Extended)*
 
 The graphs of y = sin x and y = cos x are smooth waves repeating every 360 degrees, both oscillating between -1 and 1. y = cos x starts at its maximum (cos 0 = 1), falls to its minimum at 180 degrees (cos 180 = -1), and returns to its maximum at 360 degrees. y = sin x starts at 0, rises to its maximum at 90 degrees, and falls back through 0 at 180 degrees. y = tan x repeats every 180 degrees and is undefined at 90 and 270 degrees.
 
-## Non-right-angled triangles
+## Non-right-angled triangles *(Extended)*
 
 ```
 Sine rule:    a / sin A = b / sin B = c / sin C
@@ -92,7 +100,7 @@ PR = 7.60 cm (3 s.f.)
 
 The cosine rule can also be rearranged to find an **angle** when all three sides are known: cos A = (b^2 + c^2 - a^2) / (2bc). A negative value inside cos-inverse is not an error -- it correctly signals an obtuse angle.
 
-## Pythagoras and trigonometry in 3D
+## Pythagoras and trigonometry in 3D *(Extended)*
 
 3D problems are solved by finding the correct 2D right-angled triangle inside the solid first -- typically a diagonal across a face or the base -- then applying Pythagoras or SOHCAHTOA within that flat triangle.
 
@@ -109,18 +117,18 @@ Keeping an intermediate length in exact (surd) form, rather than rounding it ear
 
 - Applying Pythagoras to the wrong pair of sides, forgetting the hypotenuse is always opposite the right angle.
 - Mixing up which side is opposite, adjacent and hypotenuse relative to the marked angle in an unfamiliar orientation.
-- Giving an exact-value answer as a rounded decimal approximation of an irrational surd value (e.g. 1.73 instead of sqrt(3)) -- a genuinely exact terminating decimal such as 0.5 for 1/2 is not this error.
-- Using the sine rule when the cosine rule is needed (or the reverse), because the given information doesn't match a sine-rule angle-side pair.
-- In a 3D problem, applying a 2D triangle directly to the solid without first identifying the correct base diagonal or cross-section.
+- *(Extended)* Giving an exact-value answer as a rounded decimal approximation of an irrational surd value (e.g. 1.73 instead of sqrt(3)) -- a genuinely exact terminating decimal such as 0.5 for 1/2 is not this error.
+- *(Extended)* Using the sine rule when the cosine rule is needed (or the reverse), because the given information doesn't match a sine-rule angle-side pair.
+- *(Extended)* In a 3D problem, applying a 2D triangle directly to the solid without first identifying the correct base diagonal or cross-section.
 - Rounding an intermediate length before the final trigonometric step, which compounds into an inaccurate final answer.
 
 ## Self-test
 
 1. State which side of a right-angled triangle is always the hypotenuse.
-2. Write down the exact value of tan 45 degrees.
-3. State the condition needed to use the sine rule rather than the cosine rule.
-4. Write down the formula for the area of a triangle given two sides and the included angle.
-5. In a 3D cuboid problem, what should be found first before calculating the space diagonal?
-6. Write down the rearranged cosine rule formula used to find an angle, given all three sides of a triangle.
+2. *(Extended)* Write down the exact value of tan 45 degrees.
+3. *(Extended)* State the condition needed to use the sine rule rather than the cosine rule.
+4. *(Extended)* Write down the formula for the area of a triangle given two sides and the included angle.
+5. *(Extended)* In a 3D cuboid problem, what should be found first before calculating the space diagonal?
+6. *(Extended)* Write down the rearranged cosine rule formula used to find an angle, given all three sides of a triangle.
 
 **Answers:** 1. The longest side, always opposite the right angle. 2. tan 45 = 1. 3. A known angle and the side directly opposite it (a matching angle-side pair). 4. Area = (1/2) ab sin C, where C is the angle between sides a and b. 5. The base diagonal (the 2D diagonal across the cuboid's base), found using Pythagoras' theorem on the two base edges. 6. cos A = (b^2 + c^2 - a^2) / (2bc).

@@ -34,6 +34,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on coordinates, gradient, straight-line equations, length, midpoint, and parallel/perpendicular lines for Cambridge IGCSE Mathematics 0580."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-01
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -43,6 +44,11 @@ featured: false
 > these alongside the official past papers available free from your board.
 
 Related: [Coordinate Geometry revision notes](/resources/igcse-mathematics-coordinate-geometry-revision-notes/)
+
+> **Tier note:** items marked *(Extended)* are Extended only in the 0580 syllabus: calculating a gradient
+> from the coordinates of two points, including finding the equation of a line through two given points
+> (E3.3; Core finds a gradient from a grid only), length and midpoint (E3.4) and perpendicular lines
+> (E3.7). All other questions use Core content.
 
 ---
 

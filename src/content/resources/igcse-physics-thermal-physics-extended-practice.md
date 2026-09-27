@@ -12,9 +12,17 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "thermal-physics-cambridge-igcse-physics"
+    subtopic: "kinetic-particle-model-of-matter-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "thermal-physics-cambridge-igcse-physics"
+    subtopic: "thermal-properties-and-temperature-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "thermal-physics-cambridge-igcse-physics"
+    subtopic: "transfer-of-thermal-energy-cambridge-igcse-physics"
 description: "Original exam-style questions with full worked answers on pV = constant, gas pressure in terms of forces from particle collisions, specific heat capacity, boiling and evaporation, conduction in gases and the balance between energy received and energy emitted, for Cambridge IGCSE Physics (0625) Extended candidates."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -23,7 +31,9 @@ featured: false
 > mark tariffs — Cambridge International holds copyright in its own papers. Use
 > these alongside the official past papers available from your board.
 
-Every question here is on Extended (Supplement) content from the syllabus. After each answer there is a common mistake to avoid.
+> **Tier note:** every question here is marked *(Extended)*: each one is on Supplement content of the 0625 syllabus — pV = constant (2.1.3 Supplement 3), gas pressure as force per unit area from particle collisions (2.1.2 Supplement 7), specific heat capacity (2.2.2 Supplement 3), boiling compared with evaporation (2.2.3 Supplement 6), poor conduction in gases (2.3.1 Supplement 3) and the balance of energy gained and lost by radiation (2.3.3 Supplement 4–5). Core candidates do not need them.
+
+After each answer there is a common mistake to avoid.
 
 ---
 

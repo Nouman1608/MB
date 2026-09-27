@@ -12,9 +12,14 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "organisation-of-the-organism-cambridge-igcse-biology"
+    subtopic: "cell-structure-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "organisation-of-the-organism-cambridge-igcse-biology"
+    subtopic: "size-of-specimens-cambridge-igcse-biology"
 description: "Exam-style questions with full worked answers on plant, animal and bacterial cell structure, specialised cells, the organisation hierarchy, and magnification calculations, for Cambridge IGCSE Biology (0610) Topic 2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -29,6 +34,8 @@ notes](/resources/igcse-biology-organisation-revision-notes/). Every
 outcome in this topic's cell-structure content is Core; the
 magnification unit-conversion skill in Section B is Supplement-only,
 as marked.
+
+> **Tier note:** the question marked *(Extended)* — converting between millimetres and micrometres (2.2, Supplement outcome 3) — goes beyond 0610 Core. All other questions are answerable by a 0610 Core candidate.
 
 ## Section A — Core
 
@@ -85,7 +92,7 @@ working. **[2]**
 **(b)** State the magnification as it would conventionally be
 written. **[1]**
 
-**10. (Supplement)** A scale bar on a micrograph is given in
+**10.** *(Extended)* A scale bar on a micrograph is given in
 micrometres (μm), but a student has measured the image size in
 millimetres (mm).
 

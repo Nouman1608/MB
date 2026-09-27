@@ -12,9 +12,17 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "thermal-physics-cambridge-igcse-physics"
+    subtopic: "kinetic-particle-model-of-matter-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "thermal-physics-cambridge-igcse-physics"
+    subtopic: "thermal-properties-and-temperature-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "thermal-physics-cambridge-igcse-physics"
+    subtopic: "transfer-of-thermal-energy-cambridge-igcse-physics"
 description: "Condensed recall notes on the kinetic particle model, gas laws, thermal expansion, specific heat capacity, changes of state, and conduction/convection/radiation for Cambridge IGCSE Physics 0625 Topic 2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-29
+updatedDate: 2026-09-27
 featured: false
 ---
 

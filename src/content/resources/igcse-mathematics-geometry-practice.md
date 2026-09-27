@@ -37,6 +37,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on geometrical terms, constructions, scale drawings, similarity, symmetry, angles and circle theorems for Cambridge IGCSE Mathematics 0580."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-01
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -47,20 +48,26 @@ featured: false
 
 Related: [Geometry revision notes](/resources/igcse-mathematics-geometry-revision-notes/)
 
+> **Tier note:** items marked *(Extended)* are Extended only in the 0580 syllabus: area scale factors of
+> similar shapes (E4.4; Core calculates lengths only) and the circle theorems beyond the Core pair, such
+> as the angle at the centre and cyclic quadrilaterals (E4.7). The Core circle theorems are the angle in a
+> semicircle and the angle between a tangent and a radius (C4.7). All other questions and parts use Core
+> content.
+
 ---
 
 ## Questions
 
-**1.** State the mathematical term for: **(a)** a line that divides an angle into two equal parts; **(b)** two shapes that have the same shape and size. **[2]**
+**1.** State the mathematical term for: **(a)** an angle that is greater than 180° but less than 360°; **(b)** two shapes that have the same shape and size. **[2]**
 
-**2.** Describe, step by step, how to construct the perpendicular bisector of a line segment AB using only a pair of compasses and a straight edge. **[3]**
+**2.** Describe, step by step, how to construct triangle ABC with AB = 7 cm, AC = 6 cm and BC = 5 cm, using only a ruler and a pair of compasses. **[3]**
 
 **3.** A map is drawn to a scale of 1 : 25 000. The distance between two towns on the map is 4.4 cm. Calculate the real distance between the towns, in kilometres. **[3]**
 
 **4.** Triangle ABC is similar to triangle PQR, with AB corresponding to PQ. AB = 2 cm and PQ = 5 cm. The area of triangle ABC is 12 cm².
 
 **(a)** Find the linear scale factor from ABC to PQR. **[1]**
-**(b)** Find the area of triangle PQR. **[2]**
+**(b)** *(Extended)* Find the area of triangle PQR. **[2]**
 
 **5.** **(a)** State the order of rotational symmetry of a regular hexagon. **[1]**
 **(b)** State the number of lines of symmetry of an isosceles triangle (that is not equilateral). **[1]**
@@ -70,7 +77,7 @@ Related: [Geometry revision notes](/resources/igcse-mathematics-geometry-revisio
 **(a)** Calculate the size of one exterior angle. **[2]**
 **(b)** Calculate the size of one interior angle. **[1]**
 
-**7.** Points A, B and C lie on the circumference of a circle, centre O. The angle at the circumference, angle BAC, is 35°.
+**7.** *(Extended)* Points A, B and C lie on the circumference of a circle, centre O. The angle at the circumference, angle BAC, is 35°.
 
 **(a)** State the circle theorem that relates angle BOC (the angle at the centre) to angle BAC. **[1]**
 **(b)** Calculate angle BOC. **[1]**
@@ -89,10 +96,10 @@ Related: [Geometry revision notes](/resources/igcse-mathematics-geometry-revisio
 
 ## Answers
 
-**1. (a)** **Bisector** (angle bisector) [1].
+**1. (a)** **Reflex** angle [1].
 **(b)** **Congruent** [1].
 
-**2.** Open the compasses to more than half the length of AB [1]. With the point on A, draw arcs above and below the line; repeat with the point on B, using the same radius, so the arcs intersect above and below AB [1]. Draw a straight line through the two intersection points — this is the perpendicular bisector [1].
+**2.** Draw AB = 7 cm with a ruler [1]. Open the compasses to 6 cm and, with the point on A, draw an arc; open them to 5 cm and, with the point on B, draw an arc that crosses the first arc [1]. The crossing point is C: join it to A and to B with a ruler, leaving both construction arcs visible [1].
 
 **3.** Real distance = 4.4 × 25 000 = 110 000 cm [1] = 1100 m [1] = **1.1 km** [1].
 

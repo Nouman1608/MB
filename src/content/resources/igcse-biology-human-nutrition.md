@@ -12,9 +12,23 @@ order: 5
 syllabusTopics:
   - qualification: "igcse"
     topic: "human-nutrition-cambridge-igcse-biology"
+    subtopic: "diet-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "human-nutrition-cambridge-igcse-biology"
+    subtopic: "digestive-system-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "human-nutrition-cambridge-igcse-biology"
+    subtopic: "physical-digestion-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "human-nutrition-cambridge-igcse-biology"
+    subtopic: "chemical-digestion-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "human-nutrition-cambridge-igcse-biology"
+    subtopic: "absorption-cambridge-igcse-biology"
 description: "Diet, the alimentary canal, physical and chemical digestion, enzymes and absorption, with the Core and Supplement split marked exactly as the official syllabus states it -- the full content of Topic 7 for Cambridge IGCSE Biology 0610, 2026-2028 series."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
+updatedDate: 2026-09-27
 featured: false
 ---
 

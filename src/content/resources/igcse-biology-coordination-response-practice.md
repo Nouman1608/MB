@@ -12,6 +12,10 @@ order: 14
 syllabusTopics:
   - qualification: "igcse"
     topic: "coordination-and-response-cambridge-igcse-biology"
+    subtopic: "coordination-and-response-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "coordination-and-response-cambridge-igcse-biology"
+    subtopic: "sense-organs-cambridge-igcse-biology"
 description: "Original exam-style questions with full worked answers on sense organs, reflex arcs, synapses, accommodation, rods and cones and the pupil reflex, for Cambridge IGCSE Biology (0610)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
@@ -25,6 +29,8 @@ featured: false
 > these alongside the official past papers available from your board.
 
 Each question practises a skill tested in the June 2024 Paper 42. After each answer there is an examiner insight, a mark-scheme insight or a tip, and (where a close match exists) the real question to try next. Questions marked *(Extended)* test Supplement content.
+
+> **Tier note:** questions marked *(Extended)* go beyond 0610 Core: events at a synapse (14.1), accommodation, and rods, cones and the fovea (14.2). All other questions are answerable by a 0610 Core candidate.
 
 ---
 

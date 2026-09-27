@@ -25,6 +25,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on reflection, rotation, enlargement, translation, vector notation, magnitude and vector geometry for Cambridge IGCSE Mathematics 0580."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-01
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -34,6 +35,11 @@ featured: false
 > these alongside the official past papers available free from your board.
 
 Related: [Transformations and Vectors revision notes](/resources/igcse-mathematics-transformations-and-vectors-revision-notes/)
+
+> **Tier note:** the four transformations are Core (C7.1). All the vector work is Extended only: adding,
+> subtracting and scaling vectors (E7.2), magnitude (E7.3) and vector geometry (E7.4); those questions are
+> marked *(Extended)*. Describing a translation by a column vector is Core (C7.1). All other questions use
+> Core content.
 
 ---
 
@@ -60,7 +66,7 @@ Related: [Transformations and Vectors revision notes](/resources/igcse-mathemati
 
 **6.** Triangle A has vertices (1, 1), (3, 1) and (1, 4). Triangle D has vertices (5, −1), (7, −1) and (5, 2), formed by translating every vertex of triangle A by the same column vector. Describe fully the single transformation that maps triangle A onto triangle D. **[2]**
 
-**7.** Given OM = a and ON = b, write down the vector MN in terms of a and b, and state how the vector NM relates to it. **[2]**
+**7.** *(Extended)* Given OM = a and ON = b, write down the vector MN in terms of a and b, and state how the vector NM relates to it. **[2]**
 
 ---
 

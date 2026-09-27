@@ -12,6 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "characteristics-and-classification-of-living-organisms-cambridge-igcse-biology"
+    subtopic: "characteristics-of-living-organisms-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "characteristics-and-classification-of-living-organisms-cambridge-igcse-biology"
+    subtopic: "concept-and-uses-of-classification-systems-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "characteristics-and-classification-of-living-organisms-cambridge-igcse-biology"
+    subtopic: "features-of-organisms-cambridge-igcse-biology"
 description: "The seven characteristics of life, the binomial naming system and dichotomous keys, and how organisms are placed into kingdoms and groups -- the full content of Topic 1 for Cambridge IGCSE Biology 0610, 2026-2028 series."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21

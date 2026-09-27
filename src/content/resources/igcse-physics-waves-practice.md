@@ -12,9 +12,20 @@ order: 5
 syllabusTopics:
   - qualification: "igcse"
     topic: "waves-cambridge-igcse-physics"
+    subtopic: "general-properties-of-waves-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "waves-cambridge-igcse-physics"
+    subtopic: "light-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "waves-cambridge-igcse-physics"
+    subtopic: "electromagnetic-spectrum-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "waves-cambridge-igcse-physics"
+    subtopic: "sound-cambridge-igcse-physics"
 description: "Original exam-style practice questions with full worked answers on wave properties, reflection, refraction, lenses, the electromagnetic spectrum and sound, for Cambridge IGCSE Physics (0625) Topic 3."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -25,6 +36,8 @@ featured: false
 
 Related: [Waves study guide](/resources/igcse-physics-waves/) and
 [revision notes](/resources/igcse-physics-waves-revision-notes/)
+
+> **Tier note:** question 8 and part 4(b), marked *(Extended)*, are on Supplement content of the 0625 syllabus: refractive index, n = sin i / sin r (syllabus 3.2.2 Supplement 7), and using ultrasound echoes to calculate a depth (3.4 Supplement 12). Everything else is 0625 Core, including the echo calculation of the speed of sound in question 10 (3.4 Core 6 and 8).
 
 ---
 
@@ -42,7 +55,7 @@ each answer. **[2]**
 **4.** A ray of light passes from air into a glass block.
 
 **(a)** State what happens to the speed and direction of the ray as it enters the glass. **[2]**
-**(b) (Supplement)** The angle of incidence is 40° and the angle of refraction is 25°. Calculate the
+**(b)** *(Extended)* The angle of incidence is 40° and the angle of refraction is 25°. Calculate the
 refractive index of the glass. **[2]**
 
 **5.** A ray of light inside a glass block strikes the glass-air boundary at an angle
@@ -60,7 +73,7 @@ Explain why this claim is incorrect. **[2]**
 **7.** List the regions of the electromagnetic spectrum in order of increasing frequency, and state
 one named use of microwaves. **[3]**
 
-**8. (Supplement)** An ultrasound pulse is sent from a ship and reflects off the sea floor. The pulse returns after
+**8.** *(Extended)* An ultrasound pulse is sent from a ship and reflects off the sea floor. The pulse returns after
 0.4 seconds, and the speed of sound in water is 1500 m/s.
 
 **(a)** Calculate the depth of the sea floor below the ship. **[2]**
@@ -84,7 +97,7 @@ fields) is at right angles to the direction of travel [1].
 **3.** The angle of incidence equals the angle of reflection [1].
 
 **4. (a)** The ray slows down [1] and bends towards the normal [1] (since glass is denser than air).
-**(b)** n = sin i / sin r = sin 40° / sin 25° = 0.643 / 0.423 = **1.52** (accept 1.5–1.53) [2].
+**(b)** *(Extended)* n = sin i / sin r = sin 40° / sin 25° = 0.643 / 0.423 = **1.52** (accept 1.5–1.53) [2].
 
 **5. (a)** Total internal reflection occurs — the ray reflects entirely back into the glass [1].
 **(b)** Once the angle of incidence exceeds the critical angle, no refracted ray exists at all; the
@@ -100,7 +113,7 @@ lens [1].
 order; lose one mark for one error). Named use of microwaves: satellite communication (or mobile
 phones/Wi-Fi) [1].
 
-**8. (a)** The pulse travels to the sea floor and back in 0.4 s, so the one-way travel time is 0.2 s
+**8.** *(Extended)* **(a)** The pulse travels to the sea floor and back in 0.4 s, so the one-way travel time is 0.2 s
 [1]. Depth = speed × time = 1500 × 0.2 = **300 m** [1].
 **(b)** The wave equation v = fλ relates speed, frequency and wavelength, none of which are given or
 needed here; this calculation instead uses speed = distance/time, since the quantities available are

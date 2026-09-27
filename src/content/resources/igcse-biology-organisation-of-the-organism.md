@@ -12,9 +12,14 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "organisation-of-the-organism-cambridge-igcse-biology"
+    subtopic: "cell-structure-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "organisation-of-the-organism-cambridge-igcse-biology"
+    subtopic: "size-of-specimens-cambridge-igcse-biology"
 description: "Comparing plant, animal and bacterial cell structure, naming six specialised cells and their functions, and calculating magnification from image and actual size -- the full content of Topic 2 for Cambridge IGCSE Biology 0610, 2026-2028 series."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-31
+updatedDate: 2026-09-27
 featured: false
 ---
 

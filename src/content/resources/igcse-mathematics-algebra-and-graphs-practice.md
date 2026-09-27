@@ -12,9 +12,32 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "algebra-and-graphs-cambridge-igcse-maths"
+    subtopic: "algebraic-manipulation-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "algebra-and-graphs-cambridge-igcse-maths"
+    subtopic: "indices-ii-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "algebra-and-graphs-cambridge-igcse-maths"
+    subtopic: "equations-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "algebra-and-graphs-cambridge-igcse-maths"
+    subtopic: "inequalities-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "algebra-and-graphs-cambridge-igcse-maths"
+    subtopic: "sequences-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "algebra-and-graphs-cambridge-igcse-maths"
+    subtopic: "proportion-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "algebra-and-graphs-cambridge-igcse-maths"
+    subtopic: "differentiation-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "algebra-and-graphs-cambridge-igcse-maths"
+    subtopic: "functions-cambridge-igcse-maths"
 description: "Original exam-style practice questions with full worked answers on algebraic manipulation, equations, inequalities, sequences and graphs for Cambridge IGCSE Mathematics 0580."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-29
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -24,6 +47,13 @@ featured: false
 > these alongside the official past papers available free from your board.
 
 Related: [Algebra and Graphs revision notes](/resources/igcse-mathematics-algebra-and-graphs-revision-notes/)
+
+> **Tier note:** questions marked *(Extended)* use content in the Extended syllabus only: factorising a
+> difference of two squares (E2.2), solving a linear inequality (E2.6; Core represents and interprets
+> inequalities but does not solve them), solving quadratics and rearranging a formula with a power of the
+> subject (E2.5), proportion (E2.8), differentiation (E2.12), functions (E2.13), and calculating a
+> gradient from coordinates without a grid (E3.3; Core finds a gradient from a grid only). All other
+> questions and parts use Core content.
 
 ---
 
@@ -43,14 +73,14 @@ x − y = 1 **[3]**
 
 **6.** *(Extended)* Make *r* the subject of the formula A = πr². **[2]**
 
-**7.** Solve the inequality 3x + 2 < 17, and show your answer on a number line. **[2]**
+**7.** *(Extended)* Solve the inequality 3x + 2 < 17, and show your answer on a number line. **[2]**
 
 **8.** The first five terms of a sequence are 4, 9, 16, 25, 36. Find an expression for the nth term. **[2]**
 
 **9.** A straight-line graph passes through the points (0, −2) and (3, 10).
 
-**(a)** Find the gradient of the line. **[2]**
-**(b)** Write the equation of the line in the form y = mx + c. **[1]**
+**(a)** *(Extended)* Find the gradient of the line. **[2]**
+**(b)** The gradient of the line is 4. Write the equation of the line in the form y = mx + c. **[1]**
 
 **10.** *(Extended)* Solve x² + 3x − 5 = 0 using the quadratic formula, giving your answers to 2 decimal places. **[3]**
 

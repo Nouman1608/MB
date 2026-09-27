@@ -25,6 +25,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on basic probability, relative and expected frequency, combined events and conditional probability for Cambridge IGCSE Mathematics 0580."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-01
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -34,6 +35,11 @@ featured: false
 > these alongside the official past papers available free from your board.
 
 Related: [Probability revision notes](/resources/igcse-mathematics-probability-revision-notes/)
+
+> **Tier note:** items marked *(Extended)* are Extended only in the 0580 syllabus: combined events
+> without replacement (E8.3; Core combined events are with replacement only) and conditional probability
+> (E8.4). All other questions use Core content. Probability notation such as P(A) is Extended (E8.1);
+> Core answers do not need it.
 
 ---
 
@@ -56,7 +62,7 @@ Related: [Probability revision notes](/resources/igcse-mathematics-probability-r
 
 **5.** *(Extended)* In a group of 40 students, 24 study French, 18 study Spanish, and 10 study both. A student is picked at random from those who study French. Find the probability that this student also studies Spanish. **[3]**
 
-**6.** A biased dice has P(rolling a 6) = 0.15.
+**6.** The probability that a biased dice lands on 6 is 0.15.
 
 **(a)** Find the probability of not rolling a 6. **[1]**
 **(b)** The dice is rolled 300 times. Estimate the number of times a 6 is **not** rolled. **[2]**

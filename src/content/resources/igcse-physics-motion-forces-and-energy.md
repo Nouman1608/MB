@@ -12,9 +12,32 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "motion-forces-and-energy-cambridge-igcse-physics"
+    subtopic: "physical-quantities-and-measurement-techniques-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "motion-forces-and-energy-cambridge-igcse-physics"
+    subtopic: "motion-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "motion-forces-and-energy-cambridge-igcse-physics"
+    subtopic: "mass-and-weight-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "motion-forces-and-energy-cambridge-igcse-physics"
+    subtopic: "density-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "motion-forces-and-energy-cambridge-igcse-physics"
+    subtopic: "forces-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "motion-forces-and-energy-cambridge-igcse-physics"
+    subtopic: "momentum-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "motion-forces-and-energy-cambridge-igcse-physics"
+    subtopic: "energy-work-and-power-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "motion-forces-and-energy-cambridge-igcse-physics"
+    subtopic: "pressure-cambridge-igcse-physics"
 description: "Physical quantities, motion graphs, mass and weight, density, forces, momentum, energy/work/power and pressure -- the Core and Supplement content of Topic 1 Motion, forces and energy for Cambridge IGCSE Physics 0625, 2026-2028 series."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
+updatedDate: 2026-09-27
 featured: false
 ---
 

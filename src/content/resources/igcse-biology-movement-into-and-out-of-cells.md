@@ -12,9 +12,17 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "movement-into-and-out-of-cells-cambridge-igcse-biology"
+    subtopic: "diffusion-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "movement-into-and-out-of-cells-cambridge-igcse-biology"
+    subtopic: "osmosis-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "movement-into-and-out-of-cells-cambridge-igcse-biology"
+    subtopic: "active-transport-cambridge-igcse-biology"
 description: "Diffusion, osmosis and active transport, with the Core and Supplement split marked exactly as the official syllabus states it -- the full content of Topic 3 for Cambridge IGCSE Biology 0610, 2026-2028 series."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
+updatedDate: 2026-09-27
 featured: false
 ---
 
