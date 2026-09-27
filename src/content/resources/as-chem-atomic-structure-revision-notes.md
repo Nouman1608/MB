@@ -20,6 +20,7 @@ syllabusTopics:
 description: "Condensed recall notes on protons, neutrons and electrons, beams in an electric field, atomic and ionic radius trends, and isotopes for Cambridge AS Level Chemistry 9701 (2025-2027)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -43,12 +44,12 @@ subtopics 1.1 Particles in the atom and atomic radius and 1.2 Isotopes.
 |---|---|---|---|
 | **Proton** | nucleus | **+1** | **1** |
 | **Neutron** | nucleus | **0** | **1** |
-| **Electron** | shells around the nucleus | **−1** | **1/1836** (negligible) |
+| **Electron** | shells around the nucleus | **−1** | **1/1840** (negligible) |
 
 ### Distribution of mass and charge
 
 - **Mass:** almost all of the mass is in the **nucleus**, because protons and neutrons each have a relative mass of 1,
-  compared with 1/1836 for an electron.
+  compared with 1/1840 for an electron.
 - **Charge:** the **positive** charge is concentrated in the tiny nucleus (the protons); the
   **negative** charge (the electrons) is spread through the large volume around it.
 - A neutral atom has **equal numbers of protons and electrons**, so the charges cancel.
@@ -77,7 +78,7 @@ and a negative plate.
 **Why the angles differ:** at the same velocity, the deflection depends on **charge ÷ mass**.
 
     proton:    charge ÷ mass = 1 ÷ 1        = 1
-    electron:  charge ÷ mass = 1 ÷ (1/1836) = 1836   (size of charge only)
+    electron:  charge ÷ mass = 1 ÷ (1/1840) = 1840   (size of charge only)
 
 Protons and electrons have charges of the **same size**, but the electron is far lighter, so it is
 deflected much more. The same rule compares ions: ¹H⁺ (1 ÷ 1 = 1) is deflected more than ⁴He²⁺
@@ -184,7 +185,7 @@ is 75% ³⁵Cl and 25% ³⁷Cl.
 
 **Answers:**
 
-1. Proton: +1, 1. Neutron: 0, 1. Electron: −1, 1/1836 (negligible).
+1. Proton: +1, 1. Neutron: 0, 1. Electron: −1, 1/1840 (negligible).
 2. Almost all the mass, and all the positive charge, is in the tiny nucleus (protons and neutrons);
    the negative charge (electrons) is spread through the large, mostly empty space around the nucleus.
 3. Protons curve towards the negative plate; electrons curve towards the positive plate through a much
