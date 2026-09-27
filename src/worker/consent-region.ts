@@ -42,34 +42,53 @@ interface HtmlRewriterLike {
   transform(response: Response): Response;
 }
 
-/** Adds the opt-out marker to HTML responses for visitors outside the UK/Europe. */
-export function applyConsentRegion(request: Request, response: Response): Response {
+/**
+ * Adds the opt-out marker to HTML responses for visitors outside the
+ * UK/Europe, and gives every HTML page an ETag with If-None-Match support.
+ *
+ * D-349 (audit R-06) -- live HTML carried no ETag, so every repeat visit
+ * downloaded the whole page. After the first D-349 deploy it was clear the
+ * asset store sends no ETag for HTML at all (checked 27 Sep 2026: the new
+ * code was live and /trial/ still had none), so the tag is computed here:
+ * the asset's own ETag when there is one, otherwise a SHA-1 of the page as
+ * built. Pages rewritten for the opt-out region get their own weak tag,
+ * since their bytes differ. A matching If-None-Match gets a 304.
+ */
+export async function applyConsentRegion(request: Request, response: Response): Promise<Response> {
   const contentType = response.headers.get('content-type') || '';
   if (!contentType.toLowerCase().includes('text/html')) return response;
   const country = (request as unknown as { cf?: { country?: string } }).cf?.country;
-  if (consentRegionFor(country) !== 'optout') return response;
   const Rewriter = (globalThis as unknown as { HTMLRewriter?: new () => HtmlRewriterLike }).HTMLRewriter;
-  if (typeof Rewriter !== 'function') return response;
-  // D-349 (audit R-06) -- rewriting the body drops the asset's ETag, so every
-  // repeat visit outside the UK/Europe downloaded the whole page again. The
-  // rewritten page gets its own weak ETag (the asset's tag plus the region),
-  // and a matching If-None-Match gets a 304.
-  const assetTag = response.headers.get('etag');
-  const tag = assetTag ? optoutEtag(assetTag) : null;
-  if (tag && response.status === 200 && ifNoneMatchHits(request.headers.get('if-none-match'), tag)) {
-    const headers = new Headers(response.headers);
+  const optout = consentRegionFor(country) === 'optout' && typeof Rewriter === 'function';
+  const rewrite = (r: Response) => new Rewriter!()
+    .on('html', { element(el) { el.setAttribute('data-mb-consent-region', 'optout'); } })
+    .transform(r);
+  if (response.status !== 200) return optout ? rewrite(response) : response;
+
+  let base = response;
+  let assetTag = response.headers.get('etag');
+  if (!assetTag) {
+    const body = await response.arrayBuffer();
+    assetTag = `"${await sha1Hex(body)}"`;
+    base = new Response(body, response);
+  }
+  const tag = optout ? optoutEtag(assetTag) : assetTag;
+  if (ifNoneMatchHits(request.headers.get('if-none-match'), tag)) {
+    const headers = new Headers(base.headers);
     headers.delete('content-length');
     headers.delete('content-type');
     headers.set('etag', tag);
     return new Response(null, { status: 304, headers });
   }
-  const rewritten = new Rewriter()
-    .on('html', { element(el) { el.setAttribute('data-mb-consent-region', 'optout'); } })
-    .transform(response);
-  if (!tag) return rewritten;
-  const out = new Response(rewritten.body, rewritten);
+  const served = optout ? rewrite(base) : base;
+  const out = new Response(served.body, served);
   out.headers.set('etag', tag);
   return out;
+}
+
+async function sha1Hex(body: ArrayBuffer): Promise<string> {
+  const digest = await crypto.subtle.digest('SHA-1', body);
+  return [...new Uint8Array(digest)].map((b) => b.toString(16).padStart(2, '0')).join('');
 }
 
 /** W/"<asset tag>-optout": weak, because the bytes differ from the asset's. */

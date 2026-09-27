@@ -14462,3 +14462,9 @@ Validation:
 - negative-validation suite 0;
 - cross-board regression 0;
 - `node --test` 130 / 0.
+
+## D-350 - R-06 follow-up: the asset store sends no ETag for HTML (2026-09-27)
+
+D-349 added an ETag only when the asset response already had one. After D-349 went live (checked 27 Sep 2026, about 17:55 PKT), the new code was running: the home page carried `data-mb-consent-region="optout"` and the IB hero sentence. But `/trial/` and `/pricing/` still had no ETag, while `/llms.txt` and `/robots.txt` did. So the asset store sends no ETag for HTML at all, and D-349's R-06 fix changed nothing live.
+
+`applyConsentRegion` (`src/worker/consent-region.ts`) now gives every HTML 200 response a tag. It uses the asset's own ETag when there is one; otherwise it computes a SHA-1 of the page as built (read once, then served from the same buffer). Pages rewritten for the opt-out region get `W/"<tag>-optout"`. A matching `If-None-Match` gets a 304 with no body. The function is now async, and `src/worker/index.ts` awaits it. The UK-visitor test now checks for an unchanged body and an ETag, instead of an identical response object. One new test covers the live case (no asset ETag, first request 200 with a tag, repeat 304). Worker tests: 19 pass. `test:api`: 88 / 0. `check`: 0 errors. The live 304 check is repeated after this deploy.

@@ -175,7 +175,7 @@ export default {
     // D-280 -- mark HTML pages for visitors outside the UK/Europe so
     // ConsentAnalytics.astro runs analytics by default for them.
     const assetResponse = await env.ASSETS.fetch(request);
-    return applyConsentRegion(request, assetResponse);
+    return await applyConsentRegion(request, assetResponse);
   },
 
   /**

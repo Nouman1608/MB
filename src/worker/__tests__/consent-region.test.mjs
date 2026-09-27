@@ -27,21 +27,23 @@ test('all 27 EU states are in the list', () => {
   for (const cc of eu) assert.ok(OPT_IN_COUNTRIES.has(cc), cc);
 });
 
-test('non-HTML responses are returned untouched', () => {
+test('non-HTML responses are returned untouched', async () => {
   const req = new Request('https://marlbridge.com/robots.txt');
   Object.defineProperty(req, 'cf', { value: { country: 'PK' } });
   const res = new Response('User-agent: *', { headers: { 'content-type': 'text/plain' } });
-  assert.equal(applyConsentRegion(req, res), res);
+  assert.equal(await applyConsentRegion(req, res), res);
 });
 
-test('HTML for a UK visitor is returned untouched', () => {
+test('HTML for a UK visitor keeps its body, gets no marker, and gets an ETag (D-349)', async () => {
   const req = new Request('https://marlbridge.com/');
   Object.defineProperty(req, 'cf', { value: { country: 'GB' } });
   const res = new Response('<html></html>', { headers: { 'content-type': 'text/html' } });
-  assert.equal(applyConsentRegion(req, res), res);
+  const out = await applyConsentRegion(req, res);
+  assert.equal(await out.text(), '<html></html>');
+  assert.match(out.headers.get('etag'), /^"[0-9a-f]{40}"$/);
 });
 
-test('HTML for a Pakistan visitor goes through HTMLRewriter and sets the marker', () => {
+test('HTML for a Pakistan visitor goes through HTMLRewriter and sets the marker', async () => {
   const seen = [];
   globalThis.HTMLRewriter = class {
     on(selector, handlers) { seen.push(selector); this.h = handlers; return this; }
@@ -56,7 +58,7 @@ test('HTML for a Pakistan visitor goes through HTMLRewriter and sets the marker'
     const req = new Request('https://marlbridge.com/');
     Object.defineProperty(req, 'cf', { value: { country: 'PK' } });
     const res = new Response('<html></html>', { headers: { 'content-type': 'text/html; charset=utf-8' } });
-    applyConsentRegion(req, res);
+    await applyConsentRegion(req, res);
     assert.deepEqual(seen, ['html', { 'data-mb-consent-region': 'optout' }]);
   } finally {
     delete globalThis.HTMLRewriter;
@@ -81,7 +83,7 @@ test('If-None-Match uses weak comparison and accepts lists and *', () => {
   assert.equal(ifNoneMatchHits('*', tag), true);
 });
 
-test('Pakistan visitor: rewritten HTML carries the optout ETag; a matching If-None-Match gets 304', () => {
+test('Pakistan visitor: rewritten HTML carries the optout ETag; a matching If-None-Match gets 304', async () => {
   globalThis.HTMLRewriter = class {
     on() { return this; }
     transform(response) { return new Response(response.body, response); }
@@ -90,19 +92,42 @@ test('Pakistan visitor: rewritten HTML carries the optout ETag; a matching If-No
     const first = new Request('https://marlbridge.com/trial/');
     Object.defineProperty(first, 'cf', { value: { country: 'PK' } });
     const asset = () => new Response('<html></html>', { status: 200, headers: { 'content-type': 'text/html', etag: '"abc"' } });
-    const r1 = applyConsentRegion(first, asset());
+    const r1 = await applyConsentRegion(first, asset());
     assert.equal(r1.status, 200);
     assert.equal(r1.headers.get('etag'), 'W/"abc-optout"');
 
     const second = new Request('https://marlbridge.com/trial/', { headers: { 'if-none-match': r1.headers.get('etag') } });
     Object.defineProperty(second, 'cf', { value: { country: 'PK' } });
-    const r2 = applyConsentRegion(second, asset());
+    const r2 = await applyConsentRegion(second, asset());
     assert.equal(r2.status, 304);
     assert.equal(r2.headers.get('etag'), 'W/"abc-optout"');
 
     const changed = new Request('https://marlbridge.com/trial/', { headers: { 'if-none-match': 'W/"old-optout"' } });
     Object.defineProperty(changed, 'cf', { value: { country: 'PK' } });
-    assert.equal(applyConsentRegion(changed, asset()).status, 200);
+    assert.equal((await applyConsentRegion(changed, asset())).status, 200);
+  } finally {
+    delete globalThis.HTMLRewriter;
+  }
+});
+
+test('no asset ETag (live case): a SHA-1 tag is computed, and the repeat request gets 304', async () => {
+  globalThis.HTMLRewriter = class {
+    on() { return this; }
+    transform(response) { return new Response(response.body, response); }
+  };
+  try {
+    const asset = () => new Response('<html>page</html>', { status: 200, headers: { 'content-type': 'text/html' } });
+    const first = new Request('https://marlbridge.com/trial/');
+    Object.defineProperty(first, 'cf', { value: { country: 'US' } });
+    const r1 = await applyConsentRegion(first, asset());
+    const tag = r1.headers.get('etag');
+    assert.match(tag, /^W\/"[0-9a-f]{40}-optout"$/);
+    assert.equal(await r1.text(), '<html>page</html>');
+    const again = new Request('https://marlbridge.com/trial/', { headers: { 'if-none-match': tag } });
+    Object.defineProperty(again, 'cf', { value: { country: 'US' } });
+    const r2 = await applyConsentRegion(again, asset());
+    assert.equal(r2.status, 304);
+    assert.equal(await r2.text(), '');
   } finally {
     delete globalThis.HTMLRewriter;
   }
