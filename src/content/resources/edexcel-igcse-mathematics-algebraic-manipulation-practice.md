@@ -47,7 +47,7 @@ Related: [Use of symbols and algebraic manipulation study guide](/resources/igcs
 
 ## Answers
 
-**(a)** x⁻³ = 1/x³ [1]. **(b)** x⁰ = 1 [1]. **(c)** x^(1/2) = √x [1].
+**1. (a)** x⁻³ = 1/x³ [1]. **(b)** x⁰ = 1 [1]. **(c)** x^(1/2) = √x [1].
 
 **2.** 6x² − 5x − 6 = (2x − 3)(3x + 2) [2] (1 mark for a partially correct factorisation with correct
 signs, full marks for the fully correct pair of brackets, verifiable by expanding back out).

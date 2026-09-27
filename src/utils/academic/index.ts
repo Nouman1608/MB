@@ -157,6 +157,14 @@ const FLAGSHIP_DEFINITIONS: FlagshipSpec[] = [
   { code: '2281', boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'economics' },
   { code: '7115', boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'business' },
   { code: '2210', boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'computer-science' },
+  // Content-breadth sprint (2026-09-28): Edexcel IGCSE Maths A and the four
+  // AQA GCSE core subjects join the self-check bank, now that every topic in
+  // each specification has an original practice set (see content-gap-report.md).
+  { code: '4MA1', boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'mathematics' },
+  { code: '8461', boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'biology' },
+  { code: '8462', boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'chemistry' },
+  { code: '8463', boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'physics' },
+  { code: '8300', boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'mathematics' },
 ];
 
 let cachedFlagships: (FlagshipSpec & { combination: Combination })[] | null = null;
