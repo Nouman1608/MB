@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Condensed recall notes on states of matter, atomic structure, bonding, the mole and electrolysis for Edexcel International GCSE Chemistry 4CH1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -37,7 +38,7 @@ Condensed for the final weeks. For the full explanation, use the
 |---|---|---|
 | Proton | 1 | +1 |
 | Neutron | 1 | 0 |
-| Electron | 1/1836 | −1 |
+| Electron | 1/1840 | −1 |
 
 **Atomic number** = protons. **Mass number** = protons + neutrons.
 
