@@ -14320,3 +14320,13 @@ The D-149 principle (no pop-ups or interstitials, and the material stays free) i
 **Verified (headless Chromium against the build):** `/search/?q=electrolysis` fills the box and shows "32 results for electrolysis"; typing "titration" changes the URL to `?q=titration`; clearing returns to `/search/`; `/search/` alone still opens empty; no script errors. The search page stays `noindex`.
 
 *Renumbered from D-335 (25 Sep) and D-337 (27 Sep 2026): those numbers were taken by changes merged first.*
+
+## D-342 - "Portal Login" link in the site header (2026-09-27)
+
+**Why.** The owner runs a school management portal (enrolments, fees, results, attendance) at learnerspreschool.cloud and wants admins, teachers and students to reach it from the public sites, marlbridge.com and learnersacademy.com.pk, without remembering a separate address.
+
+**Decision.** One outlined "Portal Login" link in the desktop header, beside the gold "Free Trial Class" CTA, and the same link as a ghost button under the trial button in the mobile menu. It points at `https://learnerspreschool.cloud/login`. One link, not three: the portal has a single sign-in page and routes each user by role afterwards, so separate admin/teacher/student buttons would all open the same page. Outlined rather than filled so the trial CTA remains the single highlighted action (D-150).
+
+**Scope.** English chrome only (`Header.astro`, `MobileMenu.astro`). The translated /ar/, /ur/ and /bn/ landing pages do not carry it: the portal itself is English-only, and those pages are commercial landing pages for prospective families, not existing students.
+
+**Validation.** `npm run build` passes; the built homepage contains the link.

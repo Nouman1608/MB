@@ -35,6 +35,12 @@ import MobileMenu from './MobileMenu.astro';
           (--color-gold-500), which reads as the "highlighted" action
           against the navy header without competing visually with the
           existing ivory "Explore Programs" button. */}
+      {/* D-342 -- "Portal Login" opens the school management portal
+          (learnerspreschool.cloud). One link for admins, teachers and
+          students: the portal routes by role after sign-in. Outlined so
+          it does not compete with the gold trial CTA, which stays the
+          single highlighted action. */}
+      <a href="https://learnerspreschool.cloud/login" class="hidden rounded-sm border border-navy-rule px-5 py-3 text-sm font-semibold text-ivory hover:border-gold-500 hover:text-white lg:inline-flex">Portal Login</a>
       <a href="/trial/" class="hidden rounded-sm bg-gold-500 px-5 py-3 text-sm font-semibold text-navy-800 hover:bg-gold-600 lg:inline-flex">Free Trial Class</a>
       <button
         type="button"
