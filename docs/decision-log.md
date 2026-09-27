@@ -14405,3 +14405,9 @@ Validation: build OK; `audit:all` PASS (2,282 pages); `check` 0 errors; `test:i1
 **Not changed:** no existing page, diagnostic set, author or review status.
 
 **Validation:** build (all validators), audit:all, negative suite 37/37, cross-board regression, test:api 84, test:tools 72, test:practice-analytics 24, and astro check with 0 errors.
+
+## D-348 - Portal Login points at portal.marlbridge.com (2026-09-27)
+
+**Change.** The header and mobile-menu "Portal Login" links (D-342) now open `https://portal.marlbridge.com/login` instead of `https://learnerspreschool.cloud/login`. The portal deployment answers on that subdomain (Cloudflare A record to the app server, certificate extended) and shows Marlbridge branding when reached through it; users, data and login are unchanged.
+
+**Validation.** `npm run build` passes; the built homepage carries the new href in both places.
