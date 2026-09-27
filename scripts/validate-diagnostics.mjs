@@ -66,7 +66,8 @@ for (const set of DIAGNOSTIC_SETS) {
     if (/\bQuestions? \d+\b|\b(previous|above|earlier|last|preceding) question\b/i.test(text)) problems.push(`${key}: ${id} refers to another question the diagnostic does not show`);
     if (/Background(?! (radiation|count))|beyond the .*syllabus|not examinable/i.test(text)) problems.push(`${key}: ${id} is marked Background/beyond the syllabus`);
     if (!extendedSet && TIERED.includes(set.code) && /Extended|Supplement/i.test(text)) problems.push(`${key}: ${id} is marked Extended, but the set is not an Extended set`);
-    if (!extendedSet && set.code === '0620' && q.tier === 'supplement') problems.push(`${key}: ${id} is Supplement-only (Extended), but the set is for both tiers`);
+    // B16 (2026-09-27): every tiered bank now carries tiers (subtopic data + per-question labels).
+    if (!extendedSet && TIERED.includes(set.code) && q.tier === 'supplement') problems.push(`${key}: ${id} is Supplement-only (Extended), but the set is for both tiers`);
     if (q.marks > 4) problems.push(`${key}: ${id} is worth ${q.marks} marks; diagnostic questions are 2-3 marks`);
     const topic = q.topics[0]?.key.split('/')[0];
     if (!topic) problems.push(`${key}: ${id} has no syllabus topic tag, so its result cannot be reported by topic`);

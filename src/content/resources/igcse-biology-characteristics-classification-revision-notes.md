@@ -12,9 +12,17 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "characteristics-and-classification-of-living-organisms-cambridge-igcse-biology"
+    subtopic: "characteristics-of-living-organisms-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "characteristics-and-classification-of-living-organisms-cambridge-igcse-biology"
+    subtopic: "concept-and-uses-of-classification-systems-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "characteristics-and-classification-of-living-organisms-cambridge-igcse-biology"
+    subtopic: "features-of-organisms-cambridge-igcse-biology"
 description: "Condensed recall notes on MRS GREN, the five kingdoms, vertebrate and arthropod groups, and dichotomous keys for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 

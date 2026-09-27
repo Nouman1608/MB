@@ -12,9 +12,17 @@ order: 4
 syllabusTopics:
   - qualification: "igcse"
     topic: "movement-into-and-out-of-cells-cambridge-igcse-biology"
+    subtopic: "diffusion-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "movement-into-and-out-of-cells-cambridge-igcse-biology"
+    subtopic: "osmosis-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "movement-into-and-out-of-cells-cambridge-igcse-biology"
+    subtopic: "active-transport-cambridge-igcse-biology"
 description: "Condensed recall notes on diffusion, osmosis and active transport, with the Core/Supplement split, for Cambridge IGCSE Biology (0610)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
+updatedDate: 2026-09-27
 featured: false
 ---
 

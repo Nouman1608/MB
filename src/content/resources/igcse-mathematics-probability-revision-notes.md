@@ -25,12 +25,18 @@ syllabusTopics:
 description: "Condensed recall notes on basic probability, relative and expected frequency, combined events and conditional probability for Cambridge IGCSE Mathematics 0580."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-04
+updatedDate: 2026-09-27
 featured: false
 ---
 
 Condensed for the final weeks. Pair these notes with the
 [Probability practice questions](/resources/igcse-mathematics-probability-practice/)
 for worked exam-style application.
+
+> **Tier note:** items marked *(Extended)* are Extended only in the 0580 syllabus: combined events
+> without replacement (E8.3; Core combined events are with replacement only) and conditional probability
+> (E8.4). Probability notation such as P(A) and P(A′) is Extended (E8.1): Core answers do not need it, and
+> Core Venn diagrams are limited to two sets. Everything else is Core.
 
 ## Basic probability
 
@@ -59,7 +65,7 @@ Two rules govern combining probabilities:
 
 A **tree diagram** is the standard tool for combined events across two or more stages. Probabilities on branches from the same point must sum to 1, and the probability of a complete path is found by **multiplying along the branches**. When more than one path gives the required outcome, **add** the probabilities of those paths together.
 
-**Without replacement** matters: once an item is removed from a group, the total (and sometimes the count of the relevant outcome) is reduced by one for every later branch, so probabilities on the second stage are different from the first.
+*(Extended)* **Without replacement** matters: once an item is removed from a group, the total (and sometimes the count of the relevant outcome) is reduced by one for every later branch, so probabilities on the second stage are different from the first.
 
 ```
 Bag: 5 red, 3 blue. Two counters taken without replacement.
@@ -79,11 +85,13 @@ Pairs summing to 7: (1,6) (2,5) (3,4) (4,3) (5,2) (6,1) -- 6 outcomes.
 P(sum = 7) = 6/36 = 1/6
 ```
 
-## Conditional probability
+## Conditional probability *(Extended)*
 
 ```
 P(B | A) = P(A and B) / P(A)
 ```
+
+The syllabus does not require the notation P(B | A) or a formula (E8.4): questions are answered from a Venn diagram, tree diagram or table by counting only within the group already known to have happened. For example, if 12 of 30 students play chess and 5 of those 12 also play tennis, the probability that a chess player also plays tennis is 5/12. The formula above gives the same result.
 
 P(B | A) means "the probability of B, given that A has already happened" -- it restricts attention to only the outcomes where A occurred, then asks what fraction of those also satisfy B. This is different from P(A and B), which is measured against the whole sample space, not just the outcomes where A happened.
 
@@ -96,17 +104,17 @@ P(B | A) = 0.15 / 0.3 = 0.5
 
 - Confusing theoretical probability (counting outcomes) with relative frequency (an experimental estimate) -- a question asking for one is not answered with the other.
 - Adding probabilities that should be multiplied (a combined AND event), or the reverse for two mutually exclusive OR outcomes.
-- Forgetting that probabilities change on the second branch of a tree diagram when an item is removed without replacement.
+- *(Extended)* Forgetting that probabilities change on the second branch of a tree diagram when an item is removed without replacement.
 - Not simplifying a final probability fraction, or giving an answer greater than 1.
-- In conditional probability, dividing by the whole sample space instead of by P(A) -- the denominator must be the probability of the event that has already happened.
+- *(Extended)* In conditional probability, dividing by the whole total instead of by the size of the group already known to have happened.
 
 ## Self-test
 
 1. State the two things the probabilities of all possible outcomes of an event must do.
 2. When should probabilities on a tree diagram be added rather than multiplied?
 3. Why is relative frequency described as an "estimate" rather than the true probability?
-4. Write down the formula for conditional probability P(B | A).
-5. A bag has 5 red and 3 blue counters. Without replacement, what is P(blue) on the second pick, given the first pick was blue?
+4. *(Extended)* In a club of 30 students, 12 play chess, and 5 of the chess players also play tennis. A chess player is chosen at random. Find the probability that they also play tennis.
+5. *(Extended)* A bag has 5 red and 3 blue counters. Without replacement, what is P(blue) on the second pick, given the first pick was blue?
 6. State when a possibility space diagram is a useful alternative to a tree diagram.
 
-**Answers:** 1. They must each be between 0 and 1, and they must sum to 1. 2. When combining separate paths that both lead to the outcome required (an OR situation across whole paths) -- multiply along a single path, add across different qualifying paths. 3. Because it is calculated from a limited number of trials and will not usually match the theoretical probability exactly, especially for small samples. 4. P(B | A) = P(A and B) / P(A). 5. 2/7, since one blue counter has already been removed, leaving 2 blue and 5 red out of 7 remaining. 6. When there are two independent events, each with a small, fixed number of equally likely outcomes -- a grid of every combined outcome makes counting favourable outcomes straightforward.
+**Answers:** 1. They must each be between 0 and 1, and they must sum to 1. 2. When combining separate paths that both lead to the outcome required (an OR situation across whole paths) -- multiply along a single path, add across different qualifying paths. 3. Because it is calculated from a limited number of trials and will not usually match the theoretical probability exactly, especially for small samples. 4. 5/12: only the 12 chess players can be chosen, and 5 of them play tennis. 5. 2/7, since one blue counter has already been removed, leaving 2 blue and 5 red out of 7 remaining. 6. When there are two independent events, each with a small, fixed number of equally likely outcomes -- a grid of every combined outcome makes counting favourable outcomes straightforward.

@@ -12,9 +12,17 @@ order: 5
 syllabusTopics:
   - qualification: "igcse"
     topic: "movement-into-and-out-of-cells-cambridge-igcse-biology"
+    subtopic: "diffusion-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "movement-into-and-out-of-cells-cambridge-igcse-biology"
+    subtopic: "osmosis-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "movement-into-and-out-of-cells-cambridge-igcse-biology"
+    subtopic: "active-transport-cambridge-igcse-biology"
 description: "Original exam-style practice questions with full worked answers on diffusion, osmosis and active transport, with Core and Supplement content marked, for Cambridge IGCSE Biology (0610) Topic 3."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -25,6 +33,8 @@ featured: false
 
 Related: [Movement into and out of cells study guide](/resources/igcse-biology-movement-into-and-out-of-cells/)
 and [revision notes](/resources/igcse-biology-movement-cells-revision-notes/)
+
+> **Tier note:** questions and parts marked *(Extended)* go beyond 0610 Core: water potential, plasmolysis, turgid and flaccid (3.2, Supplement outcomes 7–9). All other questions and parts are answerable by a 0610 Core candidate; question 4 sits in a Supplement context (ion uptake by root hairs) but needs only the Core definition of active transport.
 
 ---
 
@@ -45,11 +55,11 @@ concentration of those ions is lower in the soil than inside the root hair cell.
 **(a)** Identify the process responsible for this movement. **[1]**
 **(b)** Explain why this process, rather than diffusion, must be responsible. **[3]**
 
-**5.** A plant cell is placed into a concentrated sugar solution and loses water, causing the cell
+**5.** *(Extended)* A plant cell is placed into a concentrated sugar solution and loses water, causing the cell
 membrane to pull away from the cell wall.
 
-**(a) (Supplement)** Name the condition being described. **[1]**
-**(b) (Supplement)** Explain, using the term water potential, why water leaves the cell in this situation. **[3]**
+**(a)** Name the condition being described. **[1]**
+**(b)** Explain, using the term water potential, why water leaves the cell in this situation. **[3]**
 
 **6.** A gas exchange surface in the lungs relies on diffusion to move oxygen into the blood.
 
@@ -67,14 +77,14 @@ to the concentration gradient and whether energy from respiration is required.
 **8.** A student places dialysis tubing filled with concentrated sugar solution into a beaker of pure
 water and observes the tubing swell over time.
 
-**(a) (Supplement)** Explain, in terms of water potential, why the tubing swells. **[3]**
+**(a)** *(Extended)* Explain, in terms of water potential, why the tubing swells. **[3]**
 **(b)** Suggest what would happen if the experiment were repeated with the tubing placed in a very
 concentrated salt solution instead of pure water. **[2]**
 
 **9.** A wilted houseplant is watered and, within a few hours, its leaves and stems return to being
 firm and upright.
 
-**(a) (Supplement)** Name the state the plant cells are in once they have recovered. **[1]**
+**(a)** *(Extended)* Name the state the plant cells are in once they have recovered. **[1]**
 **(b)** Explain how water uptake restores this firmness, referring to the cell wall. **[3]**
 
 ---

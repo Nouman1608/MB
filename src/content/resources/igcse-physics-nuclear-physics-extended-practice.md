@@ -12,9 +12,14 @@ order: 5
 syllabusTopics:
   - qualification: "igcse"
     topic: "nuclear-physics-cambridge-igcse-physics"
+    subtopic: "the-nuclear-model-of-the-atom-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "nuclear-physics-cambridge-igcse-physics"
+    subtopic: "radioactivity-cambridge-igcse-physics"
 description: "Original exam-style questions with full worked answers on alpha-particle scattering and the nuclear model, beta-decay equations, half-life from count rates that include background radiation, deflection of radiation in an electric field, choosing an isotope for a smoke alarm, and nuclear fusion, for Cambridge IGCSE Physics (0625) Extended candidates."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -23,7 +28,9 @@ featured: false
 > mark tariffs — Cambridge International holds copyright in its own papers. Use
 > these alongside the official past papers available from your board.
 
-Every question here is on Extended (Supplement) content from the syllabus. After each answer there is a common mistake to avoid.
+> **Tier note:** every question here is marked *(Extended)*: each one is on Supplement content of the 0625 syllabus — alpha-particle scattering (5.1.1 Supplement 3), fusion nuclide equations (5.1.2 Supplement 6), decay equations and the change in the nucleus in beta decay (5.2.3 Supplement 4–5), half-life with background radiation (5.2.4 Supplement 2), deflection of radiation in an electric field (5.2.2 Supplement 3) and choosing an isotope for a smoke alarm (5.2.4 Supplement 3). Core candidates do not need them.
+
+After each answer there is a common mistake to avoid.
 
 ---
 

@@ -12,9 +12,29 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "motion-forces-and-energy-cambridge-igcse-physics"
+    subtopic: "motion-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "motion-forces-and-energy-cambridge-igcse-physics"
+    subtopic: "mass-and-weight-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "motion-forces-and-energy-cambridge-igcse-physics"
+    subtopic: "density-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "motion-forces-and-energy-cambridge-igcse-physics"
+    subtopic: "forces-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "motion-forces-and-energy-cambridge-igcse-physics"
+    subtopic: "momentum-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "motion-forces-and-energy-cambridge-igcse-physics"
+    subtopic: "energy-work-and-power-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "motion-forces-and-energy-cambridge-igcse-physics"
+    subtopic: "pressure-cambridge-igcse-physics"
 description: "Condensed recall notes on speed, acceleration, mass and weight, density, forces, momentum, energy and pressure for Cambridge IGCSE Physics 0625 Topic 1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-29
+updatedDate: 2026-09-27
 featured: false
 ---
 

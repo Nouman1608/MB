@@ -12,9 +12,17 @@ order: 4
 syllabusTopics:
   - qualification: "igcse"
     topic: "electricity-and-magnetism-cambridge-igcse-physics"
+    subtopic: "electrical-quantities-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "electricity-and-magnetism-cambridge-igcse-physics"
+    subtopic: "electric-circuits-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "electricity-and-magnetism-cambridge-igcse-physics"
+    subtopic: "electromagnetic-effects-cambridge-igcse-physics"
 description: "Original exam-style questions with full worked answers on current as rate of flow of charge, resistors in parallel, how resistance depends on length and cross-sectional area, the direction of an induced e.m.f., transformer calculations and power losses in transmission cables, for Cambridge IGCSE Physics (0625) Extended candidates."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -23,7 +31,9 @@ featured: false
 > mark tariffs — Cambridge International holds copyright in its own papers. Use
 > these alongside the official past papers available from your board.
 
-Every question here is on Extended (Supplement) content from the syllabus. After each answer there is a common mistake to avoid.
+> **Tier note:** everything marked *(Extended)* is Supplement content of the 0625 syllabus. Two parts are Core: the transformer turns ratio, Vₚ/Vₛ = Nₚ/Nₛ, in 5(a) (syllabus 4.5.6 Core 3), and finding a current from P = IV in 6(a) (4.2.5 Core 2). The later parts of those questions (IₚVₚ = IₛVₛ and power loss P = I²R, 4.5.6 Supplement 7–8) and all of questions 1–4 are Extended only.
+
+After each answer there is a common mistake to avoid.
 
 ---
 
@@ -37,9 +47,9 @@ Every question here is on Extended (Supplement) content from the syllabus. After
 
 **4.** *(Extended)* The north pole of a bar magnet is pushed towards one end of a coil that is connected to a sensitive meter. **(a)** State the magnetic pole produced at the end of the coil nearest the magnet while the magnet is moving in. **(b)** Explain, using the idea of energy, why the induced current must produce this pole. **[2]**
 
-**5.** *(Extended)* A transformer has 1600 turns on its primary coil, which is connected to a 240 V a.c. supply. The output voltage is 12 V. **(a)** Calculate the number of turns on the secondary coil. **(b)** The current in the secondary coil is 2.0 A. Assuming the transformer is 100% efficient, calculate the current in the primary coil. **[3]**
+**5.** A transformer has 1600 turns on its primary coil, which is connected to a 240 V a.c. supply. The output voltage is 12 V. **(a)** Calculate the number of turns on the secondary coil. **(b)** *(Extended)* The current in the secondary coil is 2.0 A. Assuming the transformer is 100% efficient, calculate the current in the primary coil. **[3]**
 
-**6.** *(Extended)* A power station sends 20 MW of electrical power along transmission cables at 400 kV. The total resistance of the cables is 5.0 Ω. **(a)** Calculate the current in the cables. **(b)** Calculate the power wasted as heat in the cables. **(c)** Explain why sending the same power at a lower voltage would waste more energy. **[3]**
+**6.** A power station sends 20 MW of electrical power along transmission cables at 400 kV. The total resistance of the cables is 5.0 Ω. **(a)** Calculate the current in the cables. **(b)** *(Extended)* Calculate the power wasted as heat in the cables. **(c)** *(Extended)* Explain why sending the same power at a lower voltage would waste more energy. **[3]**
 
 ---
 
@@ -64,14 +74,14 @@ Every question here is on Extended (Supplement) content from the syllabus. After
 
 *Common mistake:* saying a south pole forms "to attract the magnet". The induced e.m.f. always opposes the change causing it.
 
-**5.** *(Extended)* **(a)** Vₚ ÷ Vₛ = Nₚ ÷ Nₛ, so Nₛ = 1600 × 12 ÷ 240 = **80 turns** [1].
-**(b)** IₚVₚ = IₛVₛ [1], so Iₚ = (2.0 × 12) ÷ 240 = **0.10 A** [1].
+**5.** **(a)** Vₚ ÷ Vₛ = Nₚ ÷ Nₛ, so Nₛ = 1600 × 12 ÷ 240 = **80 turns** [1].
+**(b)** *(Extended)* IₚVₚ = IₛVₛ [1], so Iₚ = (2.0 × 12) ÷ 240 = **0.10 A** [1].
 
 *Common mistake:* thinking that a step-down transformer also steps down the current. With 100% efficiency the power is the same on both sides, so the lower voltage side has the larger current.
 
-**6.** *(Extended)* **(a)** I = P ÷ V = 20 000 000 ÷ 400 000 = **50 A** [1].
-**(b)** P = I²R = 50² × 5.0 = **12 500 W** (12.5 kW) [1].
-**(c)** For the same power, a lower voltage needs a **larger current**, and since the power lost is I²R, the loss rises with the **square of the current** [1].
+**6.** **(a)** I = P ÷ V = 20 000 000 ÷ 400 000 = **50 A** [1].
+**(b)** *(Extended)* P = I²R = 50² × 5.0 = **12 500 W** (12.5 kW) [1].
+**(c)** *(Extended)* For the same power, a lower voltage needs a **larger current**, and since the power lost is I²R, the loss rises with the **square of the current** [1].
 
 *Common mistake:* using P = V²/R with the 400 kV supply voltage. The 400 kV is not the voltage across the cables, so the loss must be worked out from the current using I²R.
 

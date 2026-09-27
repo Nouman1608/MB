@@ -12,9 +12,20 @@ order: 4
 syllabusTopics:
   - qualification: "igcse"
     topic: "waves-cambridge-igcse-physics"
+    subtopic: "general-properties-of-waves-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "waves-cambridge-igcse-physics"
+    subtopic: "light-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "waves-cambridge-igcse-physics"
+    subtopic: "electromagnetic-spectrum-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "waves-cambridge-igcse-physics"
+    subtopic: "sound-cambridge-igcse-physics"
 description: "Condensed recall notes on wave properties, reflection, refraction, lenses, the electromagnetic spectrum and sound, with Core/Supplement content marked, for Cambridge IGCSE Physics (0625) Topic 3."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
+updatedDate: 2026-09-27
 featured: false
 ---
 

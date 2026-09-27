@@ -32,7 +32,7 @@
  * reviewer can check them): one question per chosen topic, topics spread
  * across the syllabus order; 2-3 marks each; no question that depends on a
  * diagram, graph or table the bank cannot show; no question marked
- * "Extended", "Background" or "beyond the syllabus"; for 0620, no
+ * "Extended", "Background" or "beyond the syllabus"; for 0580, 0610, 0620 and 0625, no
  * Supplement-only (Extended) question, so Core and Extended candidates can
  * both use it; answers must render cleanly. `scripts/validate-diagnostics.mjs`
  * (part of validate:academic) fails the build if an id stops existing in
@@ -233,8 +233,11 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
     audience: 'For Core and Extended candidates. Every question is on content both tiers study.',
     // D-315 (2026-09-24): six original questions across four topics. No 0625
     // papers were available, so the set is written from the syllabus.
+    // B16 (2026-09-27): -q12 (calculating acceleration, a = Δv/Δt) is 0625
+    // Supplement (1.2 Supplement 9) and is now labelled Extended, so it was
+    // swapped for -q1 (average speed, 1.2 Core 3), same topic, same 2 marks.
     questionIds: [
-      'igcse-physics-motion-forces-and-energy-practice-q12',
+      'igcse-physics-motion-forces-and-energy-practice-q1',
       'igcse-physics-motion-forces-and-energy-practice-q13',
       'igcse-physics-thermal-physics-practice-q13',
       'igcse-physics-waves-practice-q10',

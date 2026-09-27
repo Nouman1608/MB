@@ -12,6 +12,7 @@ order: 6
 syllabusTopics:
   - qualification: "igcse"
     topic: "plant-nutrition-cambridge-igcse-biology"
+    subtopic: "photosynthesis-cambridge-igcse-biology"
 description: "Original exam-style questions with full worked answers on mineral ions, uses of carbohydrates, the photosynthesis equation, hydrogencarbonate indicator experiments and limiting factors, for Cambridge IGCSE Biology (0610)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
@@ -25,6 +26,8 @@ featured: false
 > these alongside the official past papers available from your board.
 
 Each question practises a skill tested in the June 2024 Paper 42. After each answer there is an examiner insight, a mark-scheme insight or a tip, and (where a close match exists) the real question to try next. Questions marked *(Extended)* test Supplement content.
+
+> **Tier note:** questions marked *(Extended)* go beyond 0610 Core: the balanced chemical equation for photosynthesis and limiting factors (6.1, Supplement outcomes 10–11). All other questions are answerable by a 0610 Core candidate.
 
 ---
 

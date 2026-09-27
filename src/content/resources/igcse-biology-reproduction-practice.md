@@ -12,6 +12,16 @@ order: 16
 syllabusTopics:
   - qualification: "igcse"
     topic: "reproduction-cambridge-igcse-biology"
+    subtopic: "asexual-reproduction-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "reproduction-cambridge-igcse-biology"
+    subtopic: "sexual-reproduction-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "reproduction-cambridge-igcse-biology"
+    subtopic: "sexual-reproduction-in-plants-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "reproduction-cambridge-igcse-biology"
+    subtopic: "sexual-reproduction-in-humans-cambridge-igcse-biology"
 description: "Original exam-style questions with full worked answers on asexual and sexual reproduction, the female reproductive system, gametes, the amniotic sac, the placenta and the advantages of sexual reproduction, for Cambridge IGCSE Biology (0610)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
@@ -25,6 +35,8 @@ featured: false
 > these alongside the official past papers available from your board.
 
 Each question practises a skill tested in the June 2024 Paper 42. After each answer there is an examiner insight, a mark-scheme insight or a tip, and (where a close match exists) the real question to try next. Questions marked *(Extended)* test Supplement content.
+
+> **Tier note:** questions marked *(Extended)* go beyond 0610 Core: exchange across the placenta (16.4), the advantages of sexual reproduction, and haploid and diploid nuclei (16.2). All other questions are answerable by a 0610 Core candidate.
 
 ---
 

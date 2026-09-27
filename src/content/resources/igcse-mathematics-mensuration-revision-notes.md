@@ -28,12 +28,18 @@ syllabusTopics:
 description: "Condensed recall notes on units of measure, area, perimeter, circles, arcs, sectors, surface area, volume and compound shapes for Cambridge IGCSE Mathematics 0580."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-04
+updatedDate: 2026-09-27
 featured: false
 ---
 
 Condensed for the final weeks. Pair these notes with the
 [Mensuration practice questions](/resources/igcse-mathematics-mensuration-practice/)
 for worked exam-style application.
+
+> **Tier note:** almost all of this page is Core (C5.1 to C5.5). The items marked *(Extended)* are
+> Extended only: arc length and sector area for any sector angle, including major sectors (E5.3). Core
+> uses the same formulas only when the sector angle is a factor of 360° (C5.3). The frustum, the
+> Extended example of a part of a solid (E5.5), is not covered on this page.
 
 ## Units of measure
 
@@ -73,7 +79,7 @@ arc length  = (angle / 360) x 2 x pi x r
 sector area = (angle / 360) x pi x r^2
 ```
 
-Both the arc length and sector-area formulas scale the full circumference or area by the **fraction of a full turn** the angle represents. For a **major** sector or arc, first subtract the given (minor) angle from 360 degrees to get the correct larger angle before applying the fraction -- applying the fraction directly to the given angle answers the wrong region.
+Both the arc length and sector-area formulas scale the full circumference or area by the **fraction of a full turn** the angle represents. In Core questions the sector angle is a factor of 360 degrees, such as 90, 60 or 45 degrees. *(Extended)* The angle can be any value. For a **major** sector or arc, first subtract the given (minor) angle from 360 degrees to get the correct larger angle before applying the fraction -- applying the fraction directly to the given angle answers the wrong region.
 
 ## Surface area and volume
 
@@ -114,7 +120,7 @@ The same add-or-subtract principle applies to compound **solids** as to compound
 - Converting an area or volume using only the linear conversion factor, without squaring or cubing it.
 - Forgetting the angle-over-360 fraction when finding an arc length or sector area.
 - Using the slant height instead of the perpendicular height in a cone's volume formula.
-- Applying the minor-sector angle directly to a major-sector question, instead of subtracting it from 360 degrees first.
+- *(Extended)* Applying the minor-sector angle directly to a major-sector question, instead of subtracting it from 360 degrees first.
 - Adding instead of subtracting (or the reverse) when a compound shape has a piece removed.
 - Rounding at an intermediate step in a multi-step calculation rather than only at the final answer.
 
@@ -123,7 +129,7 @@ The same add-or-subtract principle applies to compound **solids** as to compound
 1. State the area-conversion factor between m^2 and cm^2.
 2. Write down the formula for the area of a sector, given the sector angle and radius.
 3. Which length is used in a cone's volume formula: the slant height or the perpendicular height?
-4. A major sector has a minor angle of 80 degrees marked on the diagram. What angle should be used to find the major sector's area?
+4. *(Extended)* A major sector has a minor angle of 80 degrees marked on the diagram. What angle should be used to find the major sector's area?
 5. State whether a compound-shape calculation with a piece removed uses addition or subtraction.
 6. Write down the area formula for a trapezium with parallel sides a and b and height h.
 

@@ -12,6 +12,16 @@ order: 17
 syllabusTopics:
   - qualification: "igcse"
     topic: "inheritance-cambridge-igcse-biology"
+    subtopic: "chromosomes-genes-and-proteins-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "inheritance-cambridge-igcse-biology"
+    subtopic: "monohybrid-inheritance-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "inheritance-cambridge-igcse-biology"
+    subtopic: "mitosis-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "inheritance-cambridge-igcse-biology"
+    subtopic: "meiosis-cambridge-igcse-biology"
 description: "Original exam-style questions with full worked answers on genes and alleles, sex determination, monohybrid crosses, sex linkage, mitosis and meiosis, and stem cells and gene expression, for Cambridge IGCSE Biology (0610)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
@@ -25,6 +35,8 @@ featured: false
 > these alongside the official past papers available from your board.
 
 Each question practises a skill tested in the June 2024 Paper 42. After each answer there is an examiner insight, a mark-scheme insight or a tip, and (where a close match exists) the real question to try next. Questions marked *(Extended)* test Supplement content.
+
+> **Tier note:** questions marked *(Extended)* go beyond 0610 Core: sex linkage (17.4), mitosis and meiosis (17.2 and 17.3 are Supplement only), and stem cells and gene expression (17.2, 17.1). All other questions are answerable by a 0610 Core candidate.
 
 ---
 

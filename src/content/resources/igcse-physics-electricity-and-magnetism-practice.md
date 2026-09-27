@@ -12,9 +12,20 @@ order: 6
 syllabusTopics:
   - qualification: "igcse"
     topic: "electricity-and-magnetism-cambridge-igcse-physics"
+    subtopic: "electrical-quantities-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "electricity-and-magnetism-cambridge-igcse-physics"
+    subtopic: "electric-circuits-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "electricity-and-magnetism-cambridge-igcse-physics"
+    subtopic: "electrical-safety-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "electricity-and-magnetism-cambridge-igcse-physics"
+    subtopic: "electromagnetic-effects-cambridge-igcse-physics"
 description: "Original exam-style practice questions with full worked answers on charge, current, resistance, series and parallel circuits, electrical energy and magnetism for Cambridge IGCSE Physics (0625) Topic 4."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -22,6 +33,8 @@ featured: false
 > and they do **not** replicate the exam's exact structure, question count or
 > mark tariffs — Cambridge International holds copyright in its own papers. Use
 > these alongside the official past papers available free from your board.
+
+> **Tier note:** question 5, marked *(Extended)*, asks how the strength of an electromagnet's field changes, which is Supplement content of the 0625 syllabus (4.5.3 Supplement 4–5). Everything else is 0625 Core.
 
 ---
 
@@ -39,7 +52,7 @@ featured: false
 
 **4.** A 2.0 kW kettle is switched on for 3.0 minutes. Calculate the energy it transfers, in joules. **[2]**
 
-**5.** Describe how to make a simple electromagnet stronger. Give **two** ways. **[2]**
+**5.** *(Extended)* Describe how to make a simple electromagnet stronger. Give **two** ways. **[2]**
 
 **6.** State the purpose of a fuse in a plug and explain how it works. **[2]**
 
@@ -54,11 +67,11 @@ featured: false
 
 *Common mistake:* using the resistance of only one resistor. In series, the resistances add.
 
-**3.** In a series circuit the current is the **same at every point** [1]; in a parallel circuit the current from the source **divides between the branches** and the branch currents add up to the total [1].
+**3.** In a series circuit the current is the **same at every point** [1]; in a parallel circuit the current from the source **divides between the branches**, so the current from the source is larger than the current in each branch [1] (*Extended:* the branch currents add up to the total).
 
 **4.** *E* = *Pt* = 2000 W × 180 s [1] = **360 000 J** (3.6 × 10⁵ J) [1].
 
-**5.** Any two of: **more turns** on the coil [1]; a **larger current** [1]; a **soft-iron core** in the coil [1]. Maximum 2 marks.
+**5.** *(Extended)* Any two of: **more turns** on the coil [1]; a **larger current** [1]; a **soft-iron core** in the coil [1]. Maximum 2 marks.
 
 **6.** A fuse protects the wiring (and the appliance) from **too large a current**, which could cause overheating or fire [1]. If the current is larger than the fuse rating, the fuse wire **heats up and melts**, breaking the circuit [1].
 

@@ -12,9 +12,26 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "motion-forces-and-energy-cambridge-igcse-physics"
+    subtopic: "physical-quantities-and-measurement-techniques-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "motion-forces-and-energy-cambridge-igcse-physics"
+    subtopic: "motion-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "motion-forces-and-energy-cambridge-igcse-physics"
+    subtopic: "forces-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "motion-forces-and-energy-cambridge-igcse-physics"
+    subtopic: "momentum-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "motion-forces-and-energy-cambridge-igcse-physics"
+    subtopic: "energy-work-and-power-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "motion-forces-and-energy-cambridge-igcse-physics"
+    subtopic: "pressure-cambridge-igcse-physics"
 description: "Original exam-style questions with full worked answers on the resultant of two vectors at right angles, impulse and force as rate of change of momentum, conservation of momentum, kinetic and gravitational potential energy, pressure in a liquid and deceleration with F = ma, for Cambridge IGCSE Physics (0625) Extended candidates."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -23,7 +40,9 @@ featured: false
 > mark tariffs — Cambridge International holds copyright in its own papers. Use
 > these alongside the official past papers available from your board.
 
-Every question here is on Extended (Supplement) content from the syllabus. After each answer there is a common mistake to avoid.
+> **Tier note:** every question here is marked *(Extended)*: each one is on Supplement content of the 0625 syllabus — the resultant of two vectors at right angles (1.1 Supplement 7), acceleration and deceleration (1.2 Supplement 9 and 12), F = ma (1.5.1 Supplement 11), momentum and impulse (1.6, all Supplement), kinetic and gravitational potential energy (1.7.1 Supplement 4–5) and pressure change with depth, Δp = ρgΔh (1.8 Supplement 4). Core candidates do not need them.
+
+After each answer there is a common mistake to avoid.
 
 ---
 

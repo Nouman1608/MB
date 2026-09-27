@@ -19,6 +19,7 @@
  */
 import { practiceQuestionsForCode, type PracticeQuestion } from './bank.ts';
 import { topicsFor } from '../../data/academic/syllabus-topics.ts';
+import { explicitTierFromLabel, combineTier } from './question-tier.ts';
 import type { flagshipSpecs } from '../academic/index.ts';
 import { createHash } from 'node:crypto';
 
@@ -106,13 +107,22 @@ export function buildClientQuestions(spec: FlagshipSpecWithCombination): ClientQ
     const tiers = entries
       .map((t) => subtopicTier.get(`${t.topicSlug}/${t.subtopicSlug}`))
       .filter((t): t is 'core' | 'supplement' | 'both' => !!t);
-    const tier = tiers.includes('supplement')
+    // B16 review (27 Sep 2026): a FILE mapped to a mix of Extended-only and other
+    // subtopics holds both kinds of question, so it is 'both' and the per-question
+    // "(Extended)" labels (question-tier.ts) mark the Extended-only ones. Only a file
+    // whose every tagged subtopic is Extended-only makes all its questions Extended-only.
+    // (Before, one Extended-only mapping made every question in the file Extended-only,
+    // hiding Core questions from Core students.)
+    const derived = tiers.length > 0 && tiers.every((t) => t === 'supplement')
       ? 'supplement'
-      : tiers.includes('both')
+      : tiers.includes('supplement') || tiers.includes('both')
         ? 'both'
         : tiers.includes('core')
           ? 'core'
           : undefined;
+    // B16 -- an explicit, syllabus-checked "(Extended)" label in the question
+    // text refines the file-level tier (question-tier.ts). Tiered syllabuses only.
+    const tier = topicMeta?.tiered ? combineTier(derived, explicitTierFromLabel(q.questionMarkdown, spec.code)) : derived;
     return {
       id: q.id,
       qHtml: mdToHtml(q.questionMarkdown),

@@ -12,9 +12,14 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "organisation-of-the-organism-cambridge-igcse-biology"
+    subtopic: "cell-structure-cambridge-igcse-biology"
+  - qualification: "igcse"
+    topic: "organisation-of-the-organism-cambridge-igcse-biology"
+    subtopic: "size-of-specimens-cambridge-igcse-biology"
 description: "Condensed recall notes on plant, animal and bacterial cell structure, the six named specialised cells, magnification calculations, and the cell-to-organism hierarchy, for Cambridge IGCSE Biology (0610)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
+updatedDate: 2026-09-27
 featured: false
 ---
 

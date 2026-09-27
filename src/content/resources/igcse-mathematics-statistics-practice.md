@@ -34,6 +34,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on classifying and interpreting data, averages, range, charts, scatter diagrams, cumulative frequency and histograms for Cambridge IGCSE Mathematics 0580."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-01
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -41,6 +42,9 @@ featured: false
 > and they do **not** replicate the exam's exact structure, question count or
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
+
+> **Tier note:** items marked *(Extended)* are Extended only in the 0580 syllabus: cumulative frequency
+> (E9.6) and histograms (E9.7). All other questions use Core content (C9.1 to C9.5).
 
 ---
 

@@ -31,6 +31,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on Pythagoras' theorem, right-angled and non-right-angled triangle trigonometry, exact values, trig functions and 3D problems for Cambridge IGCSE Mathematics 0580."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-01
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -40,6 +41,11 @@ featured: false
 > these alongside the official past papers available free from your board.
 
 Related: [Trigonometry revision notes](/resources/igcse-mathematics-trigonometry-revision-notes/)
+
+> **Tier note:** Pythagoras' theorem (C6.1) and sine, cosine and tangent in right-angled triangles (C6.2)
+> are Core. Items marked *(Extended)* are Extended only: exact trigonometric values (E6.3), the graphs of
+> trigonometric functions (E6.4), the sine and cosine rules (E6.5) and Pythagoras and trigonometry in 3D
+> (E6.6). All other questions use Core content.
 
 ---
 

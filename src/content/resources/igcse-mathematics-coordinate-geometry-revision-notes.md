@@ -34,12 +34,18 @@ syllabusTopics:
 description: "Condensed recall notes on coordinates, gradient, straight-line equations, length, midpoint, and parallel and perpendicular lines for Cambridge IGCSE Mathematics 0580."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-04
+updatedDate: 2026-09-27
 featured: false
 ---
 
 Condensed for the final weeks. Pair these notes with the
 [Coordinate Geometry practice questions](/resources/igcse-mathematics-coordinate-geometry-practice/)
 for worked exam-style application.
+
+> **Tier note:** items marked *(Extended)* are Extended only in the 0580 syllabus: calculating a gradient
+> from the coordinates of two points (E3.3; Core finds a gradient from a grid only), length and midpoint
+> (E3.4), lines written in other forms such as ax + by = c (E3.2, E3.5) and perpendicular lines (E3.7).
+> Everything else is Core.
 
 ## Coordinates and linear graphs
 
@@ -54,9 +60,13 @@ x =  2:  y = 2(2) - 1  =  3
 points to plot: (-2, -5), (0, -1), (2, 3)
 ```
 
-Checking two points against the same table pattern also answers "is this line horizontal, vertical, or neither?" questions directly: if every y-value is identical the line is horizontal, if every x-value is identical it is vertical, and otherwise it slopes, so its gradient can be calculated in the normal way from any two of the points on it.
+Checking two points against the same table pattern also answers "is this line horizontal, vertical, or neither?" questions directly: if every y-value is identical the line is horizontal, if every x-value is identical it is vertical, and otherwise it slopes. Core finds its gradient from a grid; *(Extended)* calculating it from the coordinates of any two points is E3.3.
 
 ## Gradient
+
+Gradient = vertical change ÷ horizontal change. On a grid, count the squares up (or down) and across between two points on the line.
+
+*(Extended)* From the coordinates of two points, without a grid:
 
 ```
 gradient m = (y2 - y1) / (x2 - x1)
@@ -64,7 +74,7 @@ gradient m = (y2 - y1) / (x2 - x1)
 
 A positive gradient slopes upward left to right; a negative gradient slopes downward. A horizontal line has gradient **0**; a vertical line has an **undefined** gradient (division by zero). Always subtract the coordinates in the **same order** in both the numerator and denominator -- picking (x1, y1) and (x2, y2) consistently, and not swapping which point is which partway through the calculation, avoids the sign errors that are the most common mistake in this whole topic.
 
-## Length and midpoint
+## Length and midpoint *(Extended)*
 
 ```
 length AB   = sqrt( (x2 - x1)^2 + (y2 - y1)^2 )
@@ -75,7 +85,7 @@ The length formula is Pythagoras' theorem applied to the horizontal and vertical
 
 ## Equations of straight lines
 
-Every straight line (that is not vertical) can be written as **y = mx + c**, where m is the gradient and c is the y-intercept. Given two points, find m first using the gradient formula, then substitute **either** point's coordinates into y = mx + c to solve for c -- both points must lie on the same line, so either one gives the same, correct value of c.
+Every straight line (that is not vertical) can be written as **y = mx + c**, where m is the gradient and c is the y-intercept. When the graph is given, read m from the grid and c from where the line crosses the y-axis. *(Extended)* Given only two points, find m first using the gradient formula, then substitute **either** point's coordinates into y = mx + c to solve for c -- both points must lie on the same line, so either one gives the same, correct value of c.
 
 ```
 Line through (2, 3) and (4, 9):
@@ -83,6 +93,8 @@ Line through (2, 3) and (4, 9):
   3 = 3(2) + c  ->  c = -3
   y = 3x - 3
 ```
+
+*(Extended)* A line may also be given in another form, such as ax + by = c. Rearrange it into y = mx + c to read off the gradient and y-intercept: 2x + 3y = 12 gives 3y = 12 - 2x, so y = -(2/3)x + 4, with gradient -2/3 and y-intercept 4.
 
 ## Parallel and perpendicular lines
 
@@ -95,7 +107,7 @@ gradient stays 3 (parallel lines have equal gradient)
 y = 3x + 1
 ```
 
-**Perpendicular** lines have gradients that are **negative reciprocals** of each other: if one line has gradient m, a line perpendicular to it has gradient **-1/m**, so that m x (-1/m) = -1.
+*(Extended)* **Perpendicular** lines have gradients that are **negative reciprocals** of each other: if one line has gradient m, a line perpendicular to it has gradient **-1/m**, so that m x (-1/m) = -1.
 
 ```
 Line L: y = 4x - 1, gradient 4
@@ -110,16 +122,16 @@ y = -(1/4)x + 5.5
 ## Exam traps
 
 - Dividing the change in x by the change in y when finding a gradient, rather than change in y over change in x.
-- Leaving a length answer as the sum of two squares, having forgotten the final square root.
-- Adding the coordinates for a midpoint but forgetting to divide by 2.
-- Applying the negative-reciprocal rule to a question that only asks for the equation of the given line itself, not a perpendicular one.
+- *(Extended)* Leaving a length answer as the sum of two squares, having forgotten the final square root.
+- *(Extended)* Adding the coordinates for a midpoint but forgetting to divide by 2.
+- *(Extended)* Applying the negative-reciprocal rule to a question that only asks for the equation of the given line itself, not a perpendicular one.
 - Substituting a point into y = mx + c to solve for c, then writing the point's coordinates back into the final answer instead of the values of m and c.
 
 ## Self-test
 
 1. State the gradient of a horizontal line and of a vertical line.
-2. Write down the formula for the length of the line joining two points.
-3. Two lines are perpendicular. If one has gradient 2, what is the gradient of the other?
+2. *(Extended)* Write down the formula for the length of the line joining two points.
+3. *(Extended)* Two lines are perpendicular. If one has gradient 2, what is the gradient of the other?
 4. What must be true of two lines for them to be parallel?
 5. Given the equation of a line and one point on a new, parallel line, describe the two steps needed to find the new line's equation.
 6. State the equation of a line with gradient -2 that passes through the origin.
