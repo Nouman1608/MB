@@ -64,7 +64,9 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 
 **2.** It is mainly aimed at **relative poverty** [1]. A progressive tax takes a larger proportion of income from high earners, and spending the revenue on low-income households narrows the gap between rich and poor, so fewer people are poor compared with the average [1]. (It could also reduce absolute poverty if the services lift people above the level needed for basic necessities, but that is not its main aim.)
 
-*Mark-scheme insight (June 2024):* The mark scheme specifically links progressive taxes to reducing relative poverty, while measures such as benefits and lower prices of necessities are linked to helping people afford basic necessities.
+*Mark-scheme insight (Cambridge 2281 June 2024 mark scheme, Paper 22, Question 2(b)):* The mark scheme pairs progressive taxes with reducing relative poverty, whereas state benefits and a maximum price on necessities are linked to helping people afford basic necessities.
+
+*Source for the mark-scheme insights on this page: Cambridge O Level Economics 2281 June 2024 mark scheme for Paper 22 (2281/22), paraphrased. Cambridge's [2281 past papers page](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-economics-2281/past-papers/) publishes the Paper 21 mark scheme from this series, not the Paper 22 one.*
 
 *Try the real question next:* Cambridge O Level Economics 2281, June 2024, Paper 22, Question 2(b).
 
@@ -84,7 +86,7 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 
 **(b)** Identification [1], explanation [1], for example: primary sector output such as farming usually has low value added and low labour productivity [1], so output and incomes per worker are low, keeping GDP per head low [1]. Or: primary output depends on weather and world commodity prices [1], so incomes are unstable and often low [1].
 
-*Mark-scheme insight (June 2024):* An opportunity cost is the next-best alternative given up, so the mark scheme credits the products of the other sectors (manufactured goods, services) and also lost wildlife habitats or ecosystem quality.
+*Mark-scheme insight (Cambridge 2281 June 2024 mark scheme, Paper 22, Question 2(a)):* An opportunity cost is the next-best alternative given up, so the mark scheme credits output of the other sectors (manufactured or capital goods, and services) and also lost wildlife habitats or ecosystem quality.
 
 *Try the real question next:* Cambridge O Level Economics 2281, June 2024, Paper 22, Question 2(a).
 

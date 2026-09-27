@@ -12,9 +12,17 @@ order: 4
 syllabusTopics:
   - qualification: "igcse"
     topic: "geometry-cambridge-igcse-maths"
+    subtopic: "similarity-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "geometry-cambridge-igcse-maths"
+    subtopic: "angles-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "geometry-cambridge-igcse-maths"
+    subtopic: "circle-theorems-cambridge-igcse-maths"
 description: "Geometrical vocabulary, constructions, scale drawings, similarity, symmetry, angle properties and circle theorems -- the Core and Extended content of Topic 4 Geometry for Cambridge IGCSE Mathematics 0580, 2025-2027 series."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
+updatedDate: 2026-09-27
 featured: false
 ---
 

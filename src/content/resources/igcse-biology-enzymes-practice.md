@@ -67,7 +67,9 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **(b)** At 70 °C the enzyme is **denatured** [1]. The **shape of the active site has changed** [1], so the egg-white protein (the substrate) **no longer fits / is no longer complementary** to the active site, and no product is formed [1].
 
-*Mark-scheme insight (June 2024):* In the high-temperature yeast question, each of three marks was for a separate idea, chosen from: enzymes denatured, active site changed shape, substrate no longer fitting the active site, and the yeast being unable to respire. Write each idea as its own point to collect all three marks.
+*Mark-scheme insight (Cambridge 0610 June 2024 mark scheme, Paper 42, Question 1(c)(iv)):* In the yeast question at 95 °C, each of the three marks was for a separate idea, from: enzymes denatured, active site changed shape, the active site no longer fitting (complementary to) the substrate, and the yeast being unable to respire. Write each idea as its own point to collect all three marks.
+
+*Source for the mark-scheme insights on this page: Cambridge IGCSE Biology 0610 June 2024 mark scheme for Paper 42 (0610/42), paraphrased. Cambridge's [0610 past papers page](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-biology-0610/past-papers/) publishes the Paper 41 mark scheme from this series, not the Paper 42 one.*
 
 *Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 1.
 

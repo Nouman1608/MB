@@ -75,13 +75,15 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 **4.** **(a)** Supernormal profit = ($15 − $11) × 2,000 [1] = **$8,000** [1].
 **(b)** Any one of: it may aim to **maximise sales revenue** or market share instead [1]; it may keep prices lower to avoid attention from a competition regulator or to discourage new entrants; it may be a regulated natural monopoly that is only allowed a normal profit.
 
-*Mark-scheme insight (June 2024):* the mark scheme rewards recognising that a monopolist does not always take the full supernormal profit available, for example because it follows another objective such as sales revenue maximisation.
+*Mark-scheme insight (Cambridge 9708 June 2024 mark scheme, Paper 42, Question 3):* one of the evaluation points the mark scheme lists is that a monopolist may not exploit all the supernormal profit open to it, pursuing another aim such as sales revenue maximisation instead.
+
+*Source for the mark-scheme insights on this page: Cambridge International AS & A Level Economics 9708 June 2024 mark scheme for Paper 42 (9708/42), paraphrased. Cambridge's [9708 past papers page](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-economics-9708/past-papers/) publishes the Paper 41 mark scheme from this series, not the Paper 42 one.*
 
 *Try the real question next:* Cambridge International AS & A Level Economics 9708, June 2024, Paper 42, Question 3.
 
 **5.** **Allocative efficiency** occurs when **price equals marginal cost** (P = MC), so the value consumers place on the last unit equals the cost of the resources used to make it [1]. **Productive efficiency** occurs when output is produced at the **minimum average cost** [1]. In long-run equilibrium a perfectly competitive firm produces where MR = MC and, because it is a price-taker, P = MR, so **P = MC** [1]; entry and exit remove supernormal profit so that **P = minimum AC** as well [1].
 
-*Mark-scheme insight (June 2024):* the mark scheme links allocative efficiency to output where price (AR) equals MC, or MSB equals MSC, and productive efficiency to producing at minimum average cost.
+*Mark-scheme insight (Cambridge 9708 June 2024 mark scheme, Paper 42, Question 2):* the mark scheme ties allocative efficiency to the output where AR (price) equals MC, or MSB equals MSC, and productive efficiency to producing at the lowest average cost.
 
 *Try the real question next:* Cambridge International AS & A Level Economics 9708, June 2024, Paper 42, Question 2.
 

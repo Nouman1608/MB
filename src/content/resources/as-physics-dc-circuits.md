@@ -23,7 +23,7 @@ syllabusTopics:
 description: "E.m.f. and internal resistance, Kirchhoff's first and second laws, combined resistance in series and parallel, and potential divider circuits, for Cambridge International AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-18
-updatedDate: 2026-08-18
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -58,6 +58,71 @@ recalling and using the potentiometer principle for comparing potential
 differences; understanding a galvanometer's use in null methods; explaining
 the use of thermistors and LDRs in potential dividers to give a
 temperature- or light-dependent output.
+
+## Circuit symbols
+
+Subtopic 10.1 asks you to recall and use the circuit symbols listed in the
+9702 syllabus, and to draw and interpret circuit diagrams that contain them.
+The syllabus's own table ("Circuit symbols", in the additional information
+at the back of the 2025–2027 syllabus) lists the 27 symbols below. It calls
+the table a guide to the symbols that may be used in examination papers. The
+descriptions are in words; check each one against the drawn table in the
+official syllabus, and practise drawing them.
+
+| Component | How the symbol is drawn |
+|---|---|
+| Cell | Two parallel lines across the wire, one long line and one short line (drawn the same thickness). The long line is the positive terminal. |
+| Battery of cells | Two or more cell symbols side by side, all facing the same way; or two cells joined by a dashed line to show that there are more cells in between. |
+| Power supply | Two small open circles (the terminals), each at the end of a short lead, with a gap between them. |
+| a.c. power supply | The power-supply symbol with a wavy line (∼) in the gap between the two terminals. |
+| Junction of conductors | A solid dot where one wire meets another and is joined to it. |
+| Lamp | A circle with a cross (×) inside it, the ends of the cross touching the circle. |
+| Fixed resistor | An open rectangle in line with the wire. |
+| Variable resistor | The resistor rectangle with a diagonal arrow drawn through it, the arrowhead at the upper end. |
+| Thermistor | The resistor rectangle with a diagonal line through it (no arrowhead) that bends into a short horizontal "tail" at its lower end. |
+| Light-dependent resistor (LDR) | The resistor rectangle with two parallel arrows pointing *towards* it (light falling on it). |
+| Heater | A rectangle divided into several equal sections by short vertical lines. |
+| Potentiometer | The resistor rectangle with an arrow pointing onto its long side from a third lead (the sliding contact). |
+| Diode | A triangle pointing along the wire, with a short line across the wire at the triangle's tip. The triangle points in the direction of conventional current that the diode allows. |
+| Light-emitting diode (LED) | The diode symbol with two parallel arrows pointing *away* from it (light given out). |
+| Switch | A gap in the wire, with a short line hinged at one contact and angled away from the other (switch open). |
+| Earth | A lead ending in three horizontal lines, one below another, each shorter than the one above. |
+| Electric bell | A semicircle with its curved side upwards on a flat base, with two leads going down from the base. |
+| Buzzer | A semicircle the other way up (flat side at the top, curved side below), with two leads going down from it. |
+| Microphone | A circle with a straight line touching one side of it, and two leads leaving from the other side. |
+| Loudspeaker | A small rectangle with a flared shape (like a cone) on one side, and two leads entering the rectangle from the other side. |
+| Motor | A circle containing the letter M, with a short bracket under the M. |
+| Generator | A square containing the letter G. |
+| Ammeter | A circle containing the letter A. |
+| Voltmeter | A circle containing the letter V. |
+| Galvanometer | A circle containing a vertical arrow pointing upwards (a pointer). |
+| Oscilloscope | A circle containing a sawtooth-shaped trace. |
+| Capacitor | Two parallel lines of equal length across the wire, with a gap between them. |
+
+**Pairs that are easy to confuse:**
+
+- **Cell and capacitor** — both are two parallel lines. A cell's lines are
+of *unequal* length; a capacitor's are *equal*.
+- **Variable resistor and potentiometer** — an arrow *through* the rectangle
+means a variable resistor (two connections); an arrow *pointing onto* the
+rectangle from a third lead means a potentiometer (a sliding contact that
+taps off part of the p.d., as in the potential dividers below).
+- **Variable resistor and thermistor** — the thermistor's diagonal line has a
+horizontal tail and no arrowhead. Its resistance changes with temperature,
+not by hand.
+- **LDR and LED** — the arrows point *in* for a light-dependent resistor
+(light received) and *out* for a light-emitting diode (light given out).
+- **Motor and generator** — M in a circle, but G in a square.
+- **Power supply and a.c. power supply** — the only difference is the wavy
+line between the terminals.
+
+**Drawing and reading circuit diagrams.** Draw wires as straight lines with
+square corners, and put a junction dot wherever wires are joined. An ammeter
+goes in series with the component whose current it measures; a voltmeter
+goes in parallel across the component whose p.d. it measures (see
+[Meters](#meters) below). When you interpret a diagram, trace each loop from
+the supply and back, and identify every junction before applying
+Kirchhoff's laws.
 
 ## E.m.f., internal resistance and terminal p.d.
 
@@ -162,6 +227,8 @@ explicitly rather than guessing the direction.
 
 ## Quick revision checklist
 
+- The 27 circuit symbols in the syllabus table, and the pairs that are easy
+to confuse
 - E.m.f. vs. potential difference, and the effect of internal resistance on
 terminal p.d.
 - Kirchhoff's first and second laws, and their conservation-law basis

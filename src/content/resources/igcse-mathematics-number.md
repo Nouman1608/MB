@@ -12,9 +12,23 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "number-cambridge-igcse-maths"
+    subtopic: "types-of-number-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "number-cambridge-igcse-maths"
+    subtopic: "standard-form-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "number-cambridge-igcse-maths"
+    subtopic: "limits-of-accuracy-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "number-cambridge-igcse-maths"
+    subtopic: "ratio-and-proportion-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "number-cambridge-igcse-maths"
+    subtopic: "percentages-cambridge-igcse-maths"
 description: "Types of number, sets, powers and roots, fractions/decimals/percentages, indices, standard form, estimation, ratio, rates and time -- the Core content of Topic 1 Number for Cambridge IGCSE Mathematics 0580, 2025-2027 series."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-19
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -122,6 +136,22 @@ syllabus limits this to giving the bounds of the rounded value itself:
 calculations which have used data rounded to a specified accuracy"
 (C1.10). Combining bounds through a calculation is Extended content
 (E1.10).
+
+**Sets, conversions, ordering, calculator use, time and money.** These
+Core subtopics (C1.2, C1.4, C1.5, C1.14, C1.15 and C1.16) each have a
+worked example in the
+[Number revision notes](/resources/igcse-mathematics-number-revision-notes/):
+two-set Venn diagrams and set notation, converting between fractions,
+decimals and percentages, ordering with =, ≠, >, <, ⩾ and ⩽, entering
+times and reading the calculator display, the 12-hour and 24-hour clock
+with timetables and time zones, and currency conversion. One example of
+each:
+```
+Venn: 30 students, 18 French, 14 Spanish, 5 neither
+      both = 18 + 14 - (30 - 5) = 7
+time: 09 47 to 13 22 = 13 min + 3 h + 22 min = 3 h 35 min
+money: £1 = $1.28, so $500 = 500 / 1.28 = £390.63
+```
 
 ## How to approach it
 

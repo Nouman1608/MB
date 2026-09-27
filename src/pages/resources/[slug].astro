@@ -17,6 +17,7 @@ import { syllabusPointsFor } from '../../utils/academic/syllabus-points';
 import { PRICING_TERMS, ONE_TO_ONE_ONLY_PRICING, isOneToOneOnlyCourse, formatFee } from '../../data/pricing';
 import { LEVEL_FOR_QUALIFICATION, taughtOnly, activeOnly, academicHubPath } from '../../utils/academic';
 import { matrixSlugsFor } from '../../utils/content/status';
+import { courseSubjectNameOverride } from '../../data/academic/matrix';
 import { teachersForSubjectTitle } from '../../utils/content/subject-teachers';
 import ResourceNextSteps from '../../components/tools/ResourceNextSteps.astro';
 import { resourceNextSteps } from '../../utils/content/resource-next-steps';
@@ -175,7 +176,17 @@ const syllabusHubs = activeOnly()
     label: `${c.qualification.startsWith('IB ') ? c.qualification : `${c.board} ${c.qualification}`} ${c.subject}`,
   }));
 const correctionHref = `${routes.reportCorrection}#page=${encodeURIComponent(`https://marlbridge.com${path}`)}`;
-const alignedToParts = [...boardNames, ...qualificationNames, subject?.data.title].filter(Boolean) as string[];
+/**
+ * B15 review (C1) -- a resource that resolves to one course (one board, one
+ * qualification) names the subject the way that course's hub does, e.g.
+ * "Cambridge A Level Information Technology (9626)", not the shared subject
+ * title "ICT". See COURSE_SUBJECT_NAMES in data/academic/matrix.ts.
+ */
+const courseSubjectNames = d.boards.length === 1 && d.qualifications.length === 1
+  ? [...new Set(matrixSubjects.map((s) => courseSubjectNameOverride(d.boards[0], d.qualifications[0], s)).filter((n): n is string => Boolean(n)))]
+  : [];
+const alignedSubjectName = courseSubjectNames.length === 1 ? courseSubjectNames[0] : subject?.data.title;
+const alignedToParts = [...boardNames, ...qualificationNames, alignedSubjectName].filter(Boolean) as string[];
 let alignedToText = `Aligned to ${alignedToParts.join(' ')}`;
 /**
  * Audit I357 fix (D-237): a resource may declare a second code that belongs to a

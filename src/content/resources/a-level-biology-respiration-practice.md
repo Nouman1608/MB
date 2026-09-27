@@ -55,7 +55,9 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **(b)** The carbon dioxide molecule **diffuses from the matrix through the inner mitochondrial membrane into the intermembrane space, then through the outer mitochondrial membrane into the cytoplasm** [1]. It crosses both membranes by **simple diffusion through the phospholipid bilayer** (it is small and non-polar), not through membrane proteins [1].
 
-*Mark-scheme insight (June 2024):* In the similar question, which traced oxygen in the opposite direction, credit required the route to pass through the phospholipid bilayer of both the outer and the inner membrane. Routes through membrane proteins were rejected.
+*Mark-scheme insight (Cambridge 9700 June 2024 mark scheme, Paper 42, Question 6(a)):* In the similar question, which traced oxygen from the cytoplasm into the matrix, the mark needed arrows through the phospholipid layer of both the outer and the inner membrane; arrows through membrane proteins were rejected.
+
+*Source for the mark-scheme insights on this page: Cambridge International AS & A Level Biology 9700 June 2024 mark scheme for Paper 42 (9700/42), paraphrased. Cambridge's [9700 past papers page](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-biology-9700/past-papers/) publishes the Paper 41 mark scheme from this series, not the Paper 42 one.*
 
 *Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 6(a).
 

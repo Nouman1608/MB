@@ -63,7 +63,9 @@ Each question practises a skill tested in the June 2024 Paper 32. After each ans
 
 **3.** Any two from: the past may not be a good guide to the future because markets are dynamic (for example, a new competitor or a change in tastes) [1]; the method ignores qualitative factors such as consumer confidence or the weather [1]; unexpected external events can make the forecast inaccurate, and the further ahead the forecast, the less reliable it is [1]. (Maximum 2 marks.)
 
-*Mark-scheme insight (June 2024):* the limitations credited for sales forecasting included its reliance on past data, the fact that markets change, and its failure to take account of qualitative factors.
+*Mark-scheme insight (Cambridge 9609 June 2024 mark scheme, Paper 32, Question 3(c)):* the drawbacks of sales forecasting listed in the mark scheme include inaccuracy, dynamic markets, reliance on past data and ignoring qualitative factors.
+
+*Source for the mark-scheme insights on this page: Cambridge International AS & A Level Business 9609 June 2024 mark scheme for Paper 32 (9609/32), paraphrased. Cambridge's [9609 past papers page](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-business-9609/past-papers/) publishes the Paper 31 mark scheme from this series, not the Paper 32 one.*
 
 *Try the real question next:* Cambridge International AS & A Level Business 9609, June 2024, Paper 32, Question 3(c).
 

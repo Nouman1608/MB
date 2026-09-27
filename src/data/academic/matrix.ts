@@ -53,6 +53,15 @@ export interface Combination {
    * means classes are offered, as for every combination before this field.
    */
   classesOffered?: boolean;
+  /**
+   * B15 (2026-09-27): a shorter name searchers also use for this course's
+   * subject. Set only where `subject` has been overridden per course (see
+   * COURSE_SUBJECT_NAMES below) and the shared subject name is still a
+   * common search term -- e.g. 9626 "Information Technology", searched as
+   * "ICT". The hub shows it once, in brackets, in its <title>. Never used
+   * in a URL, a slug or a heading.
+   */
+  subjectAlias?: string;
 }
 
 const LA = 'https://learnersacademy.com.pk';
@@ -749,9 +758,59 @@ const SUBJECTS_WITHOUT_CLASSES: ReadonlySet<string> = new Set([
   'myp-design', 'myp-individuals-and-societies',
 ]);
 
+/**
+ * B15 (2026-09-27) -- per-course subject display names.
+ *
+ * A subject slug is shared across courses (one /subjects/<slug>/ page, one
+ * `subjects` collection entry, one set of URLs), but an awarding body can
+ * title the same subject differently at different levels. Cambridge IGCSE
+ * 0417 is "Information and Communication Technology" (shown as "ICT"), while
+ * Cambridge International AS & A Level 9626 is "Information Technology"
+ * (official title in the 2025-2027 syllabus, document 662482, and in
+ * syllabuses.ts). Without an override, the 9626 hub heading, breadcrumb,
+ * meta and every list that names the course said "ICT".
+ *
+ * An entry here replaces `subject` (the rendered name) for that ONE
+ * board/qualification/subject course. It never changes a slug or URL: the
+ * 9626 hub stays at /boards/cambridge/a-level/ict/. Every other course --
+ * including 0417 -- keeps the shared name from SUBJECT_NAMES.
+ * Keyed "<boardSlug>/<qualificationSlug>/<subjectSlug>". Add a row only
+ * where the official syllabus title differs from the shared subject name.
+ */
+export interface CourseSubjectName {
+  readonly name: string;
+  /** See Combination.subjectAlias. */
+  readonly searchAlias?: string;
+  /** Where the official title was read. */
+  readonly source: string;
+}
+export const COURSE_SUBJECT_NAMES: Readonly<Record<string, CourseSubjectName>> = {
+  'cambridge/a-level/ict': {
+    name: 'Information Technology',
+    searchAlias: 'ICT',
+    source: 'Cambridge International AS & A Level Information Technology 9626 syllabus 2025-2027 (662482), cambridgeinternational.org',
+  },
+};
+
+/**
+ * The rendered subject name for one course: its per-course override when it
+ * has one, otherwise undefined (callers fall back to the shared name). Pages
+ * that are built from slugs rather than a Combination (e.g. the printable
+ * checklists) use this so they name the course the same way its hub does.
+ */
+export const courseSubjectNameOverride = (
+  boardSlug: string, qualificationSlug: string, subjectSlug: string,
+): string | undefined => COURSE_SUBJECT_NAMES[`${boardSlug}/${qualificationSlug}/${subjectSlug}`]?.name;
+
+function withCourseSubjectName(c: Combination): Combination {
+  const o = COURSE_SUBJECT_NAMES[`${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`];
+  if (!o) return c;
+  return { ...c, subject: o.name, ...(o.searchAlias ? { subjectAlias: o.searchAlias } : {}) };
+}
+
 export const MATRIX: readonly Combination[] = BASE_MATRIX.map((c) =>
   SUBJECTS_WITHOUT_CLASSES.has(c.subjectSlug) ? { ...c, classesOffered: false } : c,
-);
+).map(withCourseSubjectName);
 
 export const byMarlbridgeStatus = (s: Status) => MATRIX.filter((c) => c.marlbridgeStatus === s);
 export const activeCombinations = () => byMarlbridgeStatus('ACTIVE');

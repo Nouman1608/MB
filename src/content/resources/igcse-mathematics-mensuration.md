@@ -12,9 +12,14 @@ order: 5
 syllabusTopics:
   - qualification: "igcse"
     topic: "mensuration-cambridge-igcse-maths"
+    subtopic: "circles-arcs-and-sectors-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "mensuration-cambridge-igcse-maths"
+    subtopic: "compound-shapes-and-parts-of-shapes-cambridge-igcse-maths"
 description: "Units of measure, area and perimeter, circles/arcs/sectors, surface area and volume, and compound shapes -- the Core and Extended content of Topic 5 Mensuration for Cambridge IGCSE Mathematics 0580, 2025-2027 series."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
+updatedDate: 2026-09-27
 featured: false
 ---
 

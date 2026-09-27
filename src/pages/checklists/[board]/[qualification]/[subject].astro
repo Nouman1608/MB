@@ -16,6 +16,7 @@ import { SYLLABUS_VERSIONS, topicsFor } from '../../../../data/academic/syllabus
 import { boardBySlug } from '../../../../data/academic/boards';
 import { qualificationBySlug } from '../../../../data/academic/qualifications';
 import { subjectBySlug } from '../../../../data/academic/subjects';
+import { courseSubjectNameOverride } from '../../../../data/academic/matrix';
 import { activeOnly, academicHubPath } from '../../../../utils/academic';
 import { recordRtlLang, nameRtlLang } from '../../../../utils/academic/rtl-names';
 
@@ -35,7 +36,8 @@ if (!version) throw new Error(`No syllabus version for ${board}/${qualification}
 
 const boardName = boardBySlug(board)?.name ?? board;
 const qualificationName = qualificationBySlug(qualification)?.name ?? qualification;
-const subjectName = subjectBySlug(subject)?.name ?? subject;
+// B15 -- name the course as its hub does (9626 is "Information Technology").
+const subjectName = courseSubjectNameOverride(board, qualification, subject) ?? subjectBySlug(subject)?.name ?? subject;
 const rtlLang = recordRtlLang(version.topics);
 const hubHref = academicHubPath({ boardSlug: board, qualificationSlug: qualification, subjectSlug: subject } as any);
 ---

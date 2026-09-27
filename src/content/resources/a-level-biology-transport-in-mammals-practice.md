@@ -57,7 +57,9 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 
 **2.** 0.0055 mm × 1000 = **5.5 μm** [1]. The red blood cell (7.5 μm) is **2.0 μm wider than the lumen**, so it **cannot pass through without changing shape**; it must bend or squeeze through [1].
 
-*Mark-scheme insight (June 2024):* For a similar "explain whether" question, the mark was given only for a decision supported by converted values with units. A plain "yes" or "no" was not enough.
+*Mark-scheme insight (Cambridge 9700 June 2024 mark scheme, Paper 22, Question 1(b)(ii)):* In a similar "explain whether" question, the mark needed the decision backed by numerical values with units (the mark scheme's examples convert both to the same unit). A plain "yes" or "no" was not enough.
+
+*Source for the mark-scheme insights on this page: Cambridge International AS & A Level Biology 9700 June 2024 mark scheme for Paper 22 (9700/22), paraphrased. Cambridge's [9700 past papers page](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-biology-9700/past-papers/) publishes the Paper 21 mark scheme from this series, not the Paper 22 one.*
 
 *Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 22, Question 1(b)(ii).
 

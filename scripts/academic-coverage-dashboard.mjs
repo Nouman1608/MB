@@ -97,12 +97,15 @@ for (const subject of subjectSlugs) {
   const active = rows.filter((r) => r.marlbridgeStatus === 'ACTIVE');
   const unknown = rows.filter((r) => r.marlbridgeStatus === 'UNKNOWN');
   const subjectContent = contentFor(subject);
-  const taxonomies = SYLLABUS_TOPICS.filter((s) => s.subjectSlug === subject);
+  // B15 review (C4): 'future' records (not yet current) are not counted as
+  // coverage; they are listed on one labelled line instead.
+  const taxonomies = SYLLABUS_TOPICS.filter((s) => s.subjectSlug === subject && s.status !== 'future');
+  const futureTaxonomies = SYLLABUS_TOPICS.filter((s) => s.subjectSlug === subject && s.status === 'future');
 
   // Subjects with zero content and zero taxonomy work are listed compactly
   // at the end instead of getting a full block — still visible (a missing
   // subject is the biggest gap of all), just not verbose about it.
-  if (active.length === 0 && subjectContent.length === 0 && taxonomies.length === 0) {
+  if (active.length === 0 && subjectContent.length === 0 && taxonomies.length === 0 && futureTaxonomies.length === 0) {
     untouched.push(`${subject} (${rows.length} matrix rows, all UNKNOWN/NOT_SUPPORTED/FUTURE)`);
     continue;
   }
@@ -140,6 +143,9 @@ for (const subject of subjectSlugs) {
       console.log(`    Name-only in taxonomy (no subtopic detail researched yet): `
         + `${nameOnly.map((t) => `${t.number} ${t.name}`).join(' · ')}`);
     }
+  }
+  for (const syl of futureTaxonomies) {
+    console.log(`  [${syl.qualificationSlug}] ${syl.syllabusCode} (${syl.syllabusSeries}, future): not yet current -- not counted as coverage`);
   }
 }
 

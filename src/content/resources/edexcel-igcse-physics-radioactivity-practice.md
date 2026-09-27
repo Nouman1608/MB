@@ -22,6 +22,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on radiation types, half-life, nuclear equations and safety for Edexcel IGCSE Physics 4PH1."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -112,7 +113,9 @@ Related: [Radioactivity revision notes](/resources/edexcel-igcse-physics-radioac
 **12.** **(a)** The **time taken** [1] for the **activity** (or the number of undecayed nuclei) to **halve** [1].
 **(b)** 18 hours is three half-lives: 800 → 400 → 200 → **100 Bq** [1].
 
-*Mark-scheme insight (June 2024):* "half the time" is rejected; the definition must be the time taken for the activity (or count rate, or number of nuclei) to halve. *Try the real question next:* Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 1PR, Question 8.
+*Mark-scheme insight (Pearson Edexcel 4PH1 June 2024 mark scheme, Paper 1PR, Question 8(a)(ii)):* "half the time" is rejected; the definition needs the time taken for the activity (or count rate) to halve, or for half the nuclei to decay. *Try the real question next:* Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 1PR, Question 8.
+
+*Source for the mark-scheme insights on this page: [Pearson Edexcel International GCSE Physics 4PH1 Paper 1PR mark scheme (Summer 2024)](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Physics/2017/Exam-materials/4ph1-1pr-rms-20240822.pdf), paraphrased.*
 
 ---
 

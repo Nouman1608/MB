@@ -25,6 +25,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on density, pressure, the gas laws and specific heat capacity for Edexcel IGCSE Physics 4PH1."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -116,7 +117,9 @@ p₂ = 2.0 × 10⁵ × (500 ÷ 300) [1] = **3.3 × 10⁵ Pa** [1].
 
 **10.** The molecules move **randomly** at high speed and **collide with the walls**, each collision exerting a force [1]. The collisions happen at an **equal rate in every direction**, so the pressure (force per unit area) is the same on each wall [1].
 
-*Mark-scheme insight (June 2024):* the second mark needs the idea of an equal rate of collisions in each direction, not just "molecules hit the walls". *Try the real question next:* Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 1PR, Question 11.
+*Mark-scheme insight (Pearson Edexcel 4PH1 June 2024 mark scheme, Paper 1PR, Question 11(a)):* one mark is for molecules moving randomly and the second for the idea of an equal rate of collisions in each direction, so "molecules hit the walls" alone is not enough. *Try the real question next:* Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 1PR, Question 11.
+
+*Source for the mark-scheme insights on this page: [Pearson Edexcel International GCSE Physics 4PH1 Paper 1PR mark scheme (Summer 2024)](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Physics/2017/Exam-materials/4ph1-1pr-rms-20240822.pdf), paraphrased.*
 
 ---
 

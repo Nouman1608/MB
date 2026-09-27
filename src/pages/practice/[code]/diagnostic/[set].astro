@@ -27,7 +27,7 @@ import { flagshipSpecs, academicHubPath } from '../../../../utils/academic';
 import { syllabusFor } from '../../../../data/academic/syllabuses';
 import { topicsFor } from '../../../../data/academic/syllabus-topics';
 import { buildClientQuestions } from '../../../../utils/practice/client-questions';
-import { questionsForTopic, retestPath, topicFilterIndex, coreFilterApplies, RETEST_MIN_QUESTIONS } from '../../../../utils/practice/topic-filter';
+import { questionsForTopic, retestPath, topicFilterIndex, coreFilterApplies, reportTopicSlug, RETEST_MIN_QUESTIONS } from '../../../../utils/practice/topic-filter';
 import { getResources } from '../../../../utils/content/collections';
 import { resourcesForCombination, STUDY_KIND, type StudyKind } from '../../../../utils/academic/combination-resources';
 import { getEntry } from 'astro:content';
@@ -51,8 +51,15 @@ const bank = buildClientQuestions(spec);
 const questions = set.questionIds.map((id) => {
   const q = bank.find((x) => x.id === id);
   if (!q) throw new Error(`Diagnostic ${set.code}/${set.slug}: question ${id} is not in the practice bank`);
-  const topicSlug = q.topics[0]?.key.split('/')[0] ?? 'general';
-  const topicName = topicRecord?.topics.find((t) => t.slug === topicSlug)?.name ?? (q.topics[0]?.label.split(' — ')[0] ?? 'General');
+  // M9: a set may name the topic for a question whose file spans two topics.
+  const override = set.topicOverrides?.[q.id];
+  const reported = reportTopicSlug(q, override);
+  if (override !== undefined && reported === null) throw new Error(`Diagnostic ${set.code}/${set.slug}: topicOverrides names ${override}, which ${id} is not mapped to`);
+  const topicSlug = reported ?? 'general';
+  // Review fix (C6): with no topic record, label from the tag of the REPORTED
+  // topic (an override may name the question's second topic), not topics[0].
+  const reportedTag = q.topics.find((t) => t.key.split('/')[0] === topicSlug) ?? q.topics[0];
+  const topicName = topicRecord?.topics.find((t) => t.slug === topicSlug)?.name ?? (reportedTag?.label.split(' — ')[0] ?? 'General');
   return { id: q.id, qHtml: q.qHtml, aHtml: q.aHtml, marks: q.marks, topicSlug, topicName, source: `/resources/${q.resourceSlug}/`, sourceTitle: q.resourceTitle };
 });
 const totalMarks = questions.reduce((n, q) => n + q.marks, 0);

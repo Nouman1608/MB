@@ -12,6 +12,9 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "algebra-and-graphs-cambridge-igcse-maths"
+    subtopic: "introduction-to-algebra-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "algebra-and-graphs-cambridge-igcse-maths"
     subtopic: "algebraic-manipulation-cambridge-igcse-maths"
   - qualification: "igcse"
     topic: "algebra-and-graphs-cambridge-igcse-maths"
@@ -30,11 +33,14 @@ syllabusTopics:
     subtopic: "proportion-cambridge-igcse-maths"
   - qualification: "igcse"
     topic: "algebra-and-graphs-cambridge-igcse-maths"
+    subtopic: "sketching-curves-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "algebra-and-graphs-cambridge-igcse-maths"
     subtopic: "differentiation-cambridge-igcse-maths"
   - qualification: "igcse"
     topic: "algebra-and-graphs-cambridge-igcse-maths"
     subtopic: "functions-cambridge-igcse-maths"
-description: "Original exam-style practice questions with full worked answers on algebraic manipulation, equations, inequalities, sequences and graphs for Cambridge IGCSE Mathematics 0580."
+description: "Original exam-style practice questions with full worked answers on using letters and substitution, algebraic manipulation, equations, inequalities, sequences, graphs and sketching curves for Cambridge IGCSE Mathematics 0580."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-29
 updatedDate: 2026-09-27
@@ -96,6 +102,19 @@ x − y = 1 **[3]**
 
 **16.** Solve 3(*x* − 4) = 2*x* + 5. **[2]**
 
+**17.** A pen costs p cents and a ruler costs r cents.
+
+**(a)** Write an expression for the total cost, in cents, of 3 pens and 2 rulers. **[1]**
+**(b)** Find this total cost when p = 45 and r = 60. **[1]**
+**(c)** Use the formula v = u + at to find v when u = 12, a = −3 and t = 5. **[2]**
+**(d)** n stands for any integer. Explain why 2n + 1 is always an odd number. **[1]**
+
+**18.** **(a)** Sketch the graph of y = −2x + 6, showing where it crosses both axes. **[2]**
+**(b)** The graph of y = x² − 6x + 5 crosses the x-axis at (1, 0) and (5, 0).
+(i) Write down the equation of its line of symmetry. **[1]**
+(ii) Find where the graph crosses the y-axis. **[1]**
+(iii) Sketch the graph, showing these features. **[2]**
+
 ---
 
 ## Answers
@@ -134,6 +153,20 @@ x − y = 1 **[3]**
 **16.** 3*x* − 12 = 2*x* + 5 [1], so *x* = **17** [1].
 
 *Common mistake:* expanding the bracket as 3*x* − 4 (multiply **every** term inside the bracket by 3).
+
+**17. (a)** **3p + 2r** [1].
+**(b)** 3 × 45 + 2 × 60 = 135 + 120 = **255 cents** ($2.55) [1].
+**(c)** v = 12 + (−3) × 5 [1] = 12 − 15 = **−3** [1].
+**(d)** 2n is 2 times an integer, so it is always even; one more than an even number is always odd, so 2n + 1 is odd for every integer n [1].
+
+*Common mistake:* in (c), working left to right as (12 − 3) × 5 = 45. Multiply a × t first.
+
+**18. (a)** When x = 0, y = 6, so the line crosses the y-axis at **(0, 6)**; when y = 0, −2x + 6 = 0, so x = 3 and it crosses the x-axis at **(3, 0)** [1]. A straight line through these two points, sloping **downwards** from left to right because the gradient is −2 [1].
+**(b)** (i) The line of symmetry is halfway between the two roots: (1 + 5) ÷ 2 = 3, so **x = 3** [1].
+(ii) When x = 0, y = 0 − 0 + 5, so it crosses at **(0, 5)** [1].
+(iii) A **U-shaped** curve (the x² term is positive) [1] passing through (0, 5), (1, 0) and (5, 0), symmetrical about x = 3 and below the x-axis between the roots [1]. (Core does not require the turning point, so it need not be located or labelled.)
+
+*Common mistake:* drawing an n-shape, or a curve that is not symmetrical about x = 3. A sketch needs the right shape and the key points labelled, not an accurate plot.
 
 ## Examiner report insight
 

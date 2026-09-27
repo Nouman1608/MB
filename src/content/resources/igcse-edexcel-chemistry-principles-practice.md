@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on states of matter, atomic structure, bonding and electrolysis for Edexcel International GCSE Chemistry 4CH1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -145,11 +146,13 @@ m = 0.20 × 58.5 = **11.7 g** [1].
 **12.** **(a)** The number of **protons** in the nucleus of an atom [1].
 **(b)** Different: chlorine-37 has **two more neutrons** (20 instead of 18) [1]. Same: the same number of **protons** (17) (or electrons, so the same chemical properties) [1].
 
-*Mark-scheme insight (June 2024):* atomic number is the number of **protons**; answers that add neutrons describe the mass number instead. *Try the real question next:* Pearson Edexcel International GCSE Chemistry 4CH1, June 2024, Paper 1CR, Question 1.
+*Mark-scheme insight (Pearson Edexcel 4CH1 June 2024 mark scheme, Paper 1CR, Question 1(b)(i)):* atomic number is credited as the number of **protons**; protons plus neutrons is the mass number, which is credited in the next part. *Try the real question next:* Pearson Edexcel International GCSE Chemistry 4CH1, June 2024, Paper 1CR, Question 1.
+
+*Source for the mark-scheme insights on this page: [Pearson Edexcel International GCSE Chemistry 4CH1 Paper 1CR mark scheme (Summer 2024)](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Chemistry/2017/Exam-materials/4ch1-1cr-rms-20240822.pdf) and [Pearson Edexcel International GCSE Chemistry 4CH1 Paper 2CR mark scheme (Summer 2024)](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Chemistry/2017/Exam-materials/4ch1-2cr-rms-20240822.pdf), paraphrased.*
 
 **13.** Magnesium has **layers of positive ions** held together by **delocalised electrons** [1]. The layers (of ions) can **slide over one another** while the metallic bonding still holds them together [1].
 
-*Mark-scheme insight (June 2024):* the mark is for **atoms or ions** sliding over one another; answers that say protons or electrons slide are rejected. *Try the real question next:* Pearson Edexcel International GCSE Chemistry 4CH1, June 2024, Paper 2CR, Question 3.
+*Mark-scheme insight (Pearson Edexcel 4CH1 June 2024 mark scheme, Paper 2CR, Question 3(a)(ii)):* the marks are for **layers** of atoms or ions (particles is also allowed) that **slide over one another**; answers that bring in intermolecular forces are rejected. In the part before, "protons" was rejected as the name for the positive particles. *Try the real question next:* Pearson Edexcel International GCSE Chemistry 4CH1, June 2024, Paper 2CR, Question 3.
 
 ---
 

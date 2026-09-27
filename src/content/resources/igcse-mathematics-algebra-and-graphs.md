@@ -12,6 +12,16 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "algebra-and-graphs-cambridge-igcse-maths"
+    subtopic: "equations-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "algebra-and-graphs-cambridge-igcse-maths"
+    subtopic: "inequalities-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "algebra-and-graphs-cambridge-igcse-maths"
+    subtopic: "sequences-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "algebra-and-graphs-cambridge-igcse-maths"
+    subtopic: "differentiation-cambridge-igcse-maths"
 description: "Algebraic manipulation, equations, inequalities, sequences and graphs -- the Core and Extended content of Topic 2 Algebra and graphs for Cambridge IGCSE Mathematics 0580, 2025-2027 series."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-29

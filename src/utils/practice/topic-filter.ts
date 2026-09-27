@@ -118,3 +118,23 @@ export function retestPath(code: string, key: string, opts: { coreOnly?: boolean
 
 /** A retest link is only worth offering when it opens more than the one question just answered. */
 export const RETEST_MIN_QUESTIONS = 2;
+
+/**
+ * M9 (27 Sep 2026) -- the topic a 10-minute diagnostic reports a question
+ * under (its result line, recommendations and "Retest this topic" link).
+ *
+ * A question's topic tags are its practice FILE's syllabusTopics, so a file
+ * written across two topics tags every question with both, and the first
+ * tag used to decide. That reported the 0580 Extended set's histogram
+ * question (from the statistics-and-probability Extended file) as
+ * Probability, with a Probability retest link. A set may name the topic for
+ * such a question (DiagnosticSet.topicOverrides); the override must be one
+ * of the question's own mapped topics, otherwise this returns null and the
+ * caller fails the build. Without an override the first mapped topic is
+ * used, as before; null when the question has no topic tag.
+ */
+export function reportTopicSlug(q: Pick<TopicTaggedQuestion, 'topics'>, override?: string): string | null {
+  const slugs = q.topics.map((t) => t.key.split('/')[0]).filter((s) => s !== '');
+  if (override !== undefined) return slugs.includes(override) ? override : null;
+  return slugs[0] ?? null;
+}

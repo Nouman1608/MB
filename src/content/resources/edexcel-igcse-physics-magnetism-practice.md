@@ -25,6 +25,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on the motor effect, induction and transformers for Edexcel International GCSE Physics 4PH1."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -140,7 +141,9 @@ I_p = (5.0 × 12) ÷ 240 [1] = **0.25 A** [1].
 
 **10.** As the coil rotates, its wires **cut the magnetic field lines** (the coil experiences a changing magnetic field) [1], so a **voltage is induced** across the coil [1].
 
-*Mark-scheme insight (June 2024):* the mark is for a **voltage** (p.d.) being induced; "a current is induced" on its own is ignored, because a current only flows if the circuit is complete. *Try the real question next:* Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 1PR, Question 10.
+*Mark-scheme insight (Pearson Edexcel 4PH1 June 2024 mark scheme, Paper 1PR, Question 10(a)):* the second mark is for a **voltage** (p.d.) being induced; "a current is induced" is ignored. (A current flows only if the circuit is complete.) *Try the real question next:* Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 1PR, Question 10.
+
+*Source for the mark-scheme insights on this page: [Pearson Edexcel International GCSE Physics 4PH1 Paper 1PR mark scheme (Summer 2024)](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Physics/2017/Exam-materials/4ph1-1pr-rms-20240822.pdf), paraphrased.*
 
 ---
 

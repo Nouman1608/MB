@@ -25,6 +25,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on wave properties, the Doppler effect, the electromagnetic spectrum, refraction and sound for Edexcel International GCSE Physics 4PH1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -118,7 +119,9 @@ Related: [Waves revision notes](/resources/edexcel-igcse-physics-waves-revision-
 
 **10.** *n* = sin *i* ÷ sin *r* [1] = sin 50° ÷ sin 30° = 0.766 ÷ 0.500 = **1.53** [1].
 
-*Mark-scheme insight (June 2024):* the mark scheme rejects *n* = *i* ÷ *r* and any answer found by dividing the angles themselves (here 50 ÷ 30 = 1.67). Always take the sines first. *Try the real question next:* Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 1PR, Question 6.
+*Mark-scheme insight (Pearson Edexcel 4PH1 June 2024 mark scheme, Paper 1PR, Question 6(a)(ii)–(iii)):* the mark scheme rejects *n* = *i* ÷ *r* and any value found by dividing the angles themselves (in Question 10 above, 50 ÷ 30 = 1.67), and a mark goes to showing the sines. Always take the sines first. *Try the real question next:* Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 1PR, Question 6.
+
+*Source for the mark-scheme insights on this page: [Pearson Edexcel International GCSE Physics 4PH1 Paper 1PR mark scheme (Summer 2024)](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Physics/2017/Exam-materials/4ph1-1pr-rms-20240822.pdf), paraphrased.*
 
 ## Official syllabus
 

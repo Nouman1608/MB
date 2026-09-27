@@ -211,6 +211,8 @@ The sequence is: choose syllabus → find weak topic → study → questions →
 | **B15 (new)** | The 9626 hub heading says "ICT". This needs a per-course display-name override, because the subject entry is shared with 0417. |
 | **B16 (new)** | 0610 and 0625 practice questions carry no Core/Extended tier tags, so the Core filters cannot apply to them. |
 
+**Update (27 Sep 2026, night):** B14 done in D-367. B15 done in D-368. M2, M3, M4, M8 and M9 done in D-364. M5 done in D-365. M7 done in D-366. M10 done in D-368 (0625 matrix, section 14). M1 and B16 were done earlier, in D-363.
+
 ## 9. Verification (27 Sep 2026)
 
 - **Local gate, all pass:**
@@ -406,3 +408,93 @@ Demand figures are only those already in section 4. No new analytics were taken.
   - the manual checks are hard-coded.
   
   No resource content was changed.
+
+## 14. Coverage matrix: 0625 (M10)
+
+**Written 27 Sep 2026.** File: `docs/content-review/coverage-matrix-cambridge-0625-2026-09-27.csv` (24 rows, one per official subtopic).
+
+Same columns as the 0580 matrix, with a **"0625 tier"** column: Core and Supplement (22 rows), Supplement only (1.6 Momentum) or Core only (4.4 Electrical safety). "Outcomes with keyword evidence" gives Core and Supplement separately, because the two 0625 columns hold different statements. The Extended content is Core plus Supplement.
+
+**Status:** 21 rows are "Present but not yet reviewed": each has at least one mapped page, and no page has had a teacher review. 3 rows are "Not present": 4.1 Simple phenomena of magnetism, 6.1 The Earth and the Solar System, and 6.2 Stars and the Universe. "Present" can mean a single practice set (see 14.2). Keyword evidence is not a review.
+
+### 14.1 Sources and syllabus data check
+
+- **Syllabus:** Cambridge IGCSE Physics 0625, for exams in 2026, 2027 and 2028, Version 2, [697209-2026-2028-syllabus.pdf](https://www.cambridgeinternational.org/Images/697209-2026-2028-syllabus.pdf). Downloaded 27 Sep 2026 and read with `pdftotext -layout`. I did not look for an update notice.
+- **`syllabus-topics.ts` matches the syllabus (D-363).** All 6 topics and 24 subtopics match in number and name. The tier of every subtopic matches the PDF's Core and Supplement columns.
+- **All 14 published 0625 pages are mapped at subtopic level.** No page has a topic-level tag, and no tag points to an unknown subtopic. The pages are 3 study guides, 3 sets of revision notes and 8 practice sets, 4 of which are Extended sets. All 14 carry code 0625.
+
+### 14.2 What exists
+
+| | 0625 |
+|---|---|
+| Rows | 24: 22 Core and Supplement, 1 Supplement only, 1 Core only |
+| Outcomes parsed | 324: 197 Core, 127 Supplement |
+| Rows with no mapped resource | **3**: 4.1, 6.1, 6.2 (41 outcomes) |
+| Study guide / notes / practice present | 15 / 14 / 21 |
+| Worked answers / self-check bank | 21 / 21 (every practice set has an answers section and is parsed into the bank) |
+| In a 10-minute diagnostic (question-level) | 10 rows |
+| Outcomes with keyword evidence (mapped rows) | 170 of 283 (Core 100, Supplement 70) |
+
+**By topic:**
+- **Topics 1–3** (Motion, forces and energy; Thermal physics; Waves) have a study guide, revision notes and practice for every subtopic. The one exception is 1.1: no notes are mapped, and its only practice is the Extended set.
+- **Topic 4 (Electricity and magnetism)** has two practice sets only, with 12 questions between them. There is no study guide or revision notes, and nothing is mapped to 4.1.
+- **Topic 5 (Nuclear physics)** has one Extended practice set only (6 questions). Nothing is written for a Core candidate.
+- **Topic 6 (Space physics)** has nothing.
+
+### 14.3 Gaps by type
+
+**No keyword evidence: 113 outcomes, each checked by hand against the mapped pages.**
+- **Gap (not found), 62.** Topic 4 has 37 of them, topic 5 has 8 and topics 1–3 have 17. Examples:
+  - Topic 1: measuring techniques (1.1 Core 1–3); the density experiments and floating (1.4 Core 2–3, Supplement 4); the centre-of-gravity experiment (1.5.3 Core 2); energy resources and their advantages and disadvantages (1.7.3).
+  - Topics 2 and 3: the melting and boiling points of water, and condensation and solidification (2.2.3 Core 2–3); the harmful effects of electromagnetic radiation (3.3 Core 4); correcting long and short sight (3.2.3 Supplement 8).
+  - Topic 4: electrostatics, e.m.f. and p.d. definitions, meters, circuit symbols, mains wiring and earthing, and the motor effect, generator and motor.
+  - Topic 5: ions, background radiation, safety and the effects of radiation.
+- **Partial, 37** (topics 1–3: 15, topic 4: 14, topic 5: 8). For example: energy stores (only kinetic and gravitational potential energy); EM spectrum uses (a few named); half-life (calculated from count rates but never defined); fission (only fusion is practised).
+- **Method miss (content taught, the syllabus word unused), 14.** For example: °C for "degrees Celsius"; "lens" against "lenses"; the transformer and power equations, which are practised without the word "equation".
+
+The full list, with a note on each outcome, is in the Gaps column.
+
+**Other gaps:**
+- **Topic-level study-guide summaries.** Each 0625 study guide has a "Syllabus coverage" section that paraphrases the syllabus. It names some content the pages never teach: the density experiments, energy resources, and the melting and boiling points of water. A student could take the list as a statement of what the page covers.
+- **Only an Extended practice set:** 1.1, 5.1 and 5.2. Core candidates have no Core questions for these rows.
+- **Not in a 10-minute diagnostic:** 14 rows (1.1, 1.3, 1.5, 1.7, 1.8, 2.3, 3.1–3.3, 4.1, 4.4, 5.1, 6.1, 6.2). The 11 questions in the two 0625 sets were assigned by hand. They cover 1.2, 1.4, 1.6, 2.1, 2.2, 3.4, 4.2, 4.3, 4.5 and 5.2.
+- **Mapping:** the Topic 1 revision notes teach scalars and vectors (1.1 Supplement 4), but they are not tagged to 1.1.
+
+**Tier labels (no problem found at page level).**
+- All 14 pages contain tier words in the body.
+- The study guides mark Core and Supplement item by item in their summaries. The three sets of revision notes label Supplement items "(Supplement)": 14, 5 and 5 labels.
+- The 8 practice sets have 66 questions. Read with the B16 label reader (`src/utils/practice/question-tier.ts`), they break down as follows:
+  - 35 have an Extended label that covers the whole question;
+  - 3 carry the label on one part only, so they mix Core and Extended parts;
+  - 28 are unlabelled and count as Core.
+- The labels were set against the syllabus in D-363. I did not re-check whether each unlabelled question tests only Core content.
+
+### 14.4 Proposed follow-ups (not yet ranked against B1–B13 and M1–M9)
+
+The only demand figure is the one in section 4 (physics: 68 clicks, the highest subject). No new analytics were taken.
+
+| # | Priority | Page / course | Verified gap | Proposed improvement | Effort | Acceptance criteria |
+|---|---|---|---|---|---|---|
+| M10a | 1 | 0625 Topic 4 Electricity and magnetism | Practice only (12 questions). No guide or notes. 4.1 has nothing. 37 outcomes not found, 14 partial | Study guide and revision notes for Topic 4, then practice for 4.1, 4.2.1–4.2.3, 4.3.1 and 4.4 | High | Matrix re-run shows a guide and notes for 4.1–4.5; the hand re-check finds each listed gap taught |
+| M10b | 1 | 0625 Topic 5 Nuclear physics | One Extended practice set. No Core material. 8 gaps, 8 partial | Study guide, revision notes and a Core practice set | Medium–High | Core practice exists (tier note at the top); the matrix shows notes and a guide for 5.1 and 5.2 |
+| M10c | 2 | 0625 Topic 6 Space physics | No page at all (30 outcomes) | Guide, notes and practice | Medium | Rows 6.1 and 6.2 become "Present" |
+| M10d | 2 | 0625 Topics 1–3 pages | 17 gaps and 15 partial outcomes, listed in the CSV, e.g. 1.1 measurement, 1.4 density experiments and floating, 1.7.3 energy resources, 2.2.3 water and changes of state, 3.3 uses and hazards, 3.2.3 focal length and sight correction | Short taught sections in the existing notes and guides; the "Syllabus coverage" lists stay as they are but should not promise untaught content | Medium | Hand re-check finds each; no summary item names content the page does not teach |
+| M10e | 3 | Mapping | Topic 1 notes teach scalars and vectors but are not tagged to 1.1 | Add the 1.1 tag | Low | Matrix shows notes for 1.1; `validate:academic` passes |
+| M10f | 3 | All 14 0625 pages | All `review-pending` | A physics teacher reviews them in matrix order, starting with the pages M10a–d change | High | Reviewer and date recorded only after a real review |
+
+The diagnostic gaps are left to B9's "Retest this topic" (as M9). I did not check whether a syllabus after 2028 has been published (the M7 question). This syllabus covers exams up to 2028.
+
+### 14.5 Method and limitations
+
+- **Same as 13.5**, with these differences:
+  - Outcomes come from both 0625 columns: 197 Core and 127 Supplement. They are numbered per block (for example "1.5.1 C3" and "1.5.1 S9"), and the columns are split at the header position.
+  - The parser checks that each block's Supplement numbering follows on from its Core numbering. It reported no warnings.
+- **Stricter text rule than 0580/9702.** The study guides' "Syllabus coverage" and "Official syllabus" sections are removed before matching, not just their first lines. Those sections paraphrase the syllabus over several lines per item, and counting them would credit untaught content.
+  - Under the 0580/9702 rule, 190 outcomes pass instead of 170.
+  - Control test (each topic's outcomes against the pages of an unrelated topic): 27/324 (8%) pass under this rule, 29/324 under the old one.
+  - As before, a "yes" is weak evidence and a "no" is a prompt to look. All 113 "no" results were checked by hand. The "yes" results were not.
+- **No formula-only outcomes.** Every 0625 formula outcome has words to match.
+- **Thin rows.** In Topics 4 and 5, one or two short practice sets are the only evidence. A "yes" there usually means one question touches the outcome, not that it is taught.
+- **Tier labels** are a page-level test plus a per-question label count. They do not check that each label is right.
+- **Not a quality check.** Worked answers were counted, not checked.
+- **Script:** `/tmp/claude-0/matrix-m10/build-matrix-0625.mjs` and `parse-0625.mjs`, adapted from the B10/B11 scripts. The hand-check notes are in `manual-0625.json`, and the syllabus text in `s0625.txt`. Run it from the repo root with `node --experimental-strip-types`. No resource content was changed.

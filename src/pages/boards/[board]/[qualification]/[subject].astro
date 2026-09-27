@@ -27,6 +27,7 @@ import EmptyState from '../../../../components/ui/EmptyState.astro';
 import CTA from '../../../../components/ui/CTA.astro';
 import { activeOnly, offersClasses, offeringsForSubject, academicHubPath, boardPath, levelPath, LEVEL_FOR_QUALIFICATION, isFlagshipCode, type Combination } from '../../../../utils/academic';
 import { subjectBySlug } from '../../../../data/academic/subjects';
+import { courseSubjectNameOverride } from '../../../../data/academic/matrix';
 import { syllabusFor } from '../../../../data/academic/syllabuses';
 import { assessmentsFor, type AssessmentComponent } from '../../../../data/academic/assessments';
 import { topicsFor, hasStages } from '../../../../data/academic/syllabus-topics';
@@ -276,6 +277,8 @@ const siblings = offeringsForSubject(c.subjectSlug).filter((o) => o.qualificatio
  */
 const boardQualPhrase = c.qualification.startsWith('IB ') ? c.qualification : `${c.board} ${c.qualification}`;
 const heading = `${boardQualPhrase} ${c.subject}`;
+/** B15 -- this course's subject name is overridden per course (COURSE_SUBJECT_NAMES in matrix.ts). */
+const courseRenamed = courseSubjectNameOverride(c.boardSlug, c.qualificationSlug, c.subjectSlug) !== undefined;
 /**
  * D-299 -- titles name the document searchers ask for. Search Console
  * (2026-08-19 to 2026-09-21) shows hubs ranking around positions 6-11 for
@@ -300,9 +303,12 @@ const hasRealCode = Boolean(syllabus && /\d/.test(syllabus.code) && c.boardSlug 
 const codeLabel = hasRealCode ? `${syllabus!.code}${upcomingCode ? ` / ${upcomingCode}` : ''}` : '';
 // D-286 (main): the five hubs with a tuition section say so in the title.
 const tuitionPage = offersClasses(c) ? tuitionPageFor(c.boardSlug, c.qualificationSlug, c.subjectSlug) : undefined;
+// B15 -- a course whose subject name is overridden (e.g. 9626 "Information
+// Technology") keeps the shared search term once, in brackets, in its title.
+const titleSubject = c.subjectAlias ? `${heading} (${c.subjectAlias})` : heading;
 const title = syllabus
-  ? `${heading}${codeLabel ? ` ${codeLabel}` : ''} ${docWord}${editionYears ? ` ${editionYears}` : ''}${tuitionPage ? ' & Online Tuition' : ''}`
-  : heading;
+  ? `${titleSubject}${codeLabel ? ` ${codeLabel}` : ''} ${docWord}${editionYears ? ` ${editionYears}` : ''}${tuitionPage ? ' & Online Tuition' : ''}`
+  : titleSubject;
 
 /**
  * Differentiated meta description (Aug 2026 SEO remediation, Phase 4/9).
@@ -565,8 +571,10 @@ const jsonLd = [
   breadcrumbs={[
     { label: 'Home', href: routes.home },
     { label: 'Subjects', href: routes.subjects },
-    { label: c.subject, href: routes.subject(hubSlug) },
-    { label: boardQualPhrase, href: path },
+    // B15 -- a renamed course (9626) names its parent subject page by that
+    // page's own title ("ICT") and itself in full ("... Information Technology").
+    { label: courseRenamed ? (subjectEntry?.data.title ?? c.subject) : c.subject, href: routes.subject(hubSlug) },
+    { label: courseRenamed ? heading : boardQualPhrase, href: path },
   ]}
   jsonLd={jsonLd}
 >

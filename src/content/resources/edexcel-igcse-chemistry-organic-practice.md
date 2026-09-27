@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on crude oil, fractional distillation, cracking, alkenes, fermentation and pollution from fuels for Pearson Edexcel International GCSE Chemistry (4CH1) Topic 4."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -50,7 +51,9 @@ featured: false
 **1. (a)** A temperature of about **30 °C** (30–40 °C) [1]; **yeast** (enzymes in yeast) [1].
 **(b)** Oxygen in the air would **oxidise the ethanol** to **ethanoic acid** [1].
 
-*Mark-scheme insight (June 2024):* the conditions credited are the temperature and yeast; "anaerobic" or "glucose" on its own does not score as a condition. *Try the real question next:* Pearson Edexcel International GCSE Chemistry 4CH1, June 2024, Paper 2CR, Question 4.
+*Mark-scheme insight (Pearson Edexcel 4CH1 June 2024 mark scheme, Paper 2CR, Question 4(a)):* the credited conditions are a temperature (30 °C, or a value from 30 to 40 °C) and yeast; "glucose", "anaerobic" and "pressure" are ignored, so they do not score as conditions. *Try the real question next:* Pearson Edexcel International GCSE Chemistry 4CH1, June 2024, Paper 2CR, Question 4.
+
+*Source for the mark-scheme insights on this page: [Pearson Edexcel International GCSE Chemistry 4CH1 Paper 2CR mark scheme (Summer 2024)](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Chemistry/2017/Exam-materials/4ch1-2cr-rms-20240822.pdf) and [Pearson Edexcel International GCSE Chemistry 4CH1 Paper 1CR mark scheme (Summer 2024)](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Chemistry/2017/Exam-materials/4ch1-1cr-rms-20240822.pdf), paraphrased.*
 
 **2.** Crude oil is **heated so it vaporises** and the vapour enters near the bottom of the column [1]; the column has a **temperature gradient**, hot at the bottom and cooler at the top [1]; each fraction **condenses** at the height where the temperature falls below its **boiling point**, so fractions are separated by boiling point [1].
 
@@ -61,7 +64,7 @@ featured: false
 
 **5.** Some fuels contain **sulfur** impurities, which burn to form **sulfur dioxide** [1]; sulfur dioxide dissolves in rainwater to form an **acidic** solution (acid rain) [1].
 
-*Mark-scheme insight (June 2024):* the first mark is for **sulfur** in the fuel; naming nitrogen as the impurity in the fuel is rejected. (Nitrogen oxides come from nitrogen in the air, not from the fuel.) *Try the real question next:* Pearson Edexcel International GCSE Chemistry 4CH1, June 2024, Paper 1CR, Question 8.
+*Mark-scheme insight (Pearson Edexcel 4CH1 June 2024 mark scheme, Paper 1CR, Question 8(c)):* the first mark is for the fuel containing **sulfur**, and nitrogen is rejected for that mark. (Nitrogen oxides come from nitrogen in the air, not from the fuel.) *Try the real question next:* Pearson Edexcel International GCSE Chemistry 4CH1, June 2024, Paper 1CR, Question 8.
 
 ---
 

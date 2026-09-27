@@ -23,11 +23,22 @@ syllabusTopics:
 description: "Condensed recall notes on Kirchhoff laws, resistance, e.m.f. and internal resistance, and potential dividers for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 
 Condensed for the final weeks. For the full explanation, use the
 [D.C. Circuits study guide](/resources/as-physics-dc-circuits/).
+
+## Circuit symbols
+
+You must recall and use the 27 symbols in the syllabus's circuit-symbol table, and draw and interpret diagrams that use them. The full list, each described in words, is in the [study guide](/resources/as-physics-dc-circuits/#circuit-symbols). The ones most often mixed up:
+
+- **Cell** — two parallel lines of *unequal* length (long line = positive). **Capacitor** — two parallel lines of *equal* length.
+- **Variable resistor** — arrow *through* the rectangle. **Potentiometer** — arrow *onto* the rectangle from a third lead. **Thermistor** — diagonal line with a horizontal tail, no arrowhead.
+- **LDR** — arrows pointing *in*. **LED** — diode symbol with arrows pointing *out*.
+- **Motor** — M in a circle. **Generator** — G in a square. **Ammeter**, **voltmeter**, **galvanometer** — A, V or an upward arrow in a circle.
+- **Junction** — a solid dot where wires are joined.
 
 ## Core relationships
 

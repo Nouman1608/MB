@@ -22,6 +22,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on motion graphs, Newton laws, momentum and stopping distance for Edexcel International GCSE Physics 4PH1."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -124,7 +125,9 @@ d = **20 cm** from the pivot [1].
 **11.** **(a)** The forces are **equal in size** [1] and **opposite in direction** [1].
 **(b)** *p* = *mv* = 0.20 × 3.0 = **0.60 kg m/s** [1].
 
-*Mark-scheme insight (June 2024):* separate marks are given for "same size" and "opposite direction"; a slogan such as "every action has an equal and opposite reaction" earns only one mark. *Try the real question next:* Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 2PR, Question 5.
+*Mark-scheme insight (Pearson Edexcel 4PH1 June 2024 mark scheme, Paper 2PR, Question 5(a)):* separate marks are given for "same size" and "opposite directions"; "equal and opposite", or "every action has an equal and opposite reaction", scores only one mark when no other mark is awarded. *Try the real question next:* Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 2PR, Question 5.
+
+*Source for the mark-scheme insights on this page: [Pearson Edexcel International GCSE Physics 4PH1 Paper 2PR mark scheme (Summer 2024)](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Physics/2017/Exam-materials/4ph1-2pr-rms-20240822.pdf), paraphrased.*
 
 ---
 

@@ -60,7 +60,9 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 
 **2.** It is recorded as **secondary income** (current transfers) [1]. It is an inflow of foreign currency, so it increases a surplus or reduces a deficit on the current account [1].
 
-*Mark-scheme insight (June 2024):* Money sent home by citizens working abroad was credited as secondary income that improves the current account position and brings in foreign currency.
+*Mark-scheme insight (Cambridge 2281 June 2024 mark scheme, Paper 22, Question 4(c)):* Money sent home by people working abroad was credited as secondary income that improves the current account position and brings in foreign currency.
+
+*Source for the mark-scheme insights on this page: Cambridge O Level Economics 2281 June 2024 mark scheme for Paper 22 (2281/22), paraphrased. Cambridge's [2281 past papers page](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-economics-2281/past-papers/) publishes the Paper 21 mark scheme from this series, not the Paper 22 one.*
 
 *Try the real question next:* Cambridge O Level Economics 2281, June 2024, Paper 22, Question 4(c).
 
@@ -80,7 +82,7 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 
 **5.** Two ways, each with identification [1] and explanation [1], for example: imported raw materials and capital goods become cheaper [1], lowering firms' costs of production [1]; cheaper imports reduce the inflation rate [1], raising households' purchasing power [1]; lower total demand may reduce demand-pull inflation [1] where the economy is overheating [1]; if demand for exports is price inelastic [1], export revenue may rise despite the higher price [1]; a strong currency may raise confidence [1] and attract investment [1].
 
-*Mark-scheme insight (June 2024):* The mark scheme credited cheaper imported raw materials and capital goods, lower inflation, more choice and competitive pressure on domestic firms, and the possibility that export revenue rises if demand for exports is price inelastic.
+*Mark-scheme insight (Cambridge 2281 June 2024 mark scheme, Paper 22, Question 1(h)):* The benefits the mark scheme credits include cheaper imported raw materials and capital goods, lower inflation, more choice, more competitive pressure on domestic firms, and higher export revenue if demand for exports is price inelastic.
 
 *Try the real question next:* Cambridge O Level Economics 2281, June 2024, Paper 22, Question 1(h).
 

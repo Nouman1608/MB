@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on energetics, rates of reaction, catalysts and reversible reactions for Pearson Edexcel International GCSE Chemistry (4CH1) Topic 3."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -52,11 +53,13 @@ Bond energies in kJ/mol: H–H 436, Cl–Cl 242, H–Cl 431 **[3]**
 **1. (a)** *Q* = *mc*Δ*T* = 100 × 4.2 × 25.0 = **10 500 J** [1].
 **(b)** Moles of ethanol = 0.46 ÷ 46 = 0.0100 mol [1]; Δ*H* = −10.5 kJ ÷ 0.0100 mol = **−1050 kJ/mol** [1] (negative because the reaction is exothermic).
 
-*Mark-scheme insight (June 2024):* the mark scheme multiplies the mass of **water** heated by 4.2 and the temperature rise, then converts J to kJ and divides by the moles of fuel burned. Using the mass of the fuel, or forgetting to convert to kJ, loses marks. *Try the real question next:* Pearson Edexcel International GCSE Chemistry 4CH1, June 2024, Paper 1CR, Question 6.
+*Mark-scheme insight (Pearson Edexcel 4CH1 June 2024 mark scheme, Paper 1CR, Question 6(b)(ii)–(iii)):* the energy calculation uses the mass of **water** heated × 4.2 × the temperature rise; the next part then has separate marks for the energy in kJ, the moles of fuel, the division and a final answer with a negative sign. *Try the real question next:* Pearson Edexcel International GCSE Chemistry 4CH1, June 2024, Paper 1CR, Question 6.
+
+*Source for the mark-scheme insights on this page: [Pearson Edexcel International GCSE Chemistry 4CH1 Paper 1CR mark scheme (Summer 2024)](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Chemistry/2017/Exam-materials/4ch1-1cr-rms-20240822.pdf), paraphrased.*
 
 **2.** A catalyst provides an **alternative pathway** (route) for the reaction [1] with a **lower activation energy**, so more collisions have enough energy to react [1].
 
-*Mark-scheme insight (June 2024):* both marks depend on the idea of an **alternative route** and a **lower activation energy**; saying a catalyst simply "speeds up the reaction" repeats the question. *Try the real question next:* Pearson Edexcel International GCSE Chemistry 4CH1, June 2024, Paper 1CR, Question 10.
+*Mark-scheme insight (Pearson Edexcel 4CH1 June 2024 mark scheme, Paper 1CR, Question 10(a)):* the two marks are for an **alternative pathway** (route) and a **lower activation energy**. Our tip: saying only that a catalyst "speeds up the reaction" does not explain how it works. *Try the real question next:* Pearson Edexcel International GCSE Chemistry 4CH1, June 2024, Paper 1CR, Question 10.
 
 **3.** Powder has a **larger surface area** (to volume ratio), so more particles of calcium carbonate are exposed to the acid [1], giving **more frequent collisions** between acid particles and calcium carbonate particles [1].
 
