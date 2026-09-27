@@ -1,6 +1,6 @@
 # Content gap report
 
-**Generated 27 Sep 2026, 23:16 PKT** by `python3 scripts/content-gap-report.py` (content-breadth sprint).
+**Generated 28 Sep 2026, 00:09 PKT** by `python3 scripts/content-gap-report.py` (content-breadth sprint).
 
 Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series only), which is the build-validated transcription of each board's official document. A topic counts as having a study guide (SG), revision notes (RN) or practice set (PQ) only if a resource of that type maps to it. Subtopic columns count exact subtopic mappings only. Nothing here says a page has been teacher-reviewed: all resources remain `review-pending`.
 
@@ -21,20 +21,20 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 | MYP Individuals and Societies (myp-individuals-and-societies) | From 2014 | 7 | 2 / 2 / 2 | 3 / 6 | no subtopic data | gaps remain |
 | 0580 (mathematics) | 2025-2027 | 31 | 9 / 9 / 13 | 9 / 9 | 0 / 72 | complete |
 | 0620 (chemistry) | 2026-2028 | 59 | 19 / 20 / 20 | 12 / 12 | 46 / 49 | complete |
-| 0625 (physics) | For examination in 2026, 2027 and 2028 | 14 | 3 / 3 / 8 | 3 / 6 | 14 / 24 | gaps remain |
-| 0610 (biology) | For examination in 2026, 2027 and 2028 | 19 | 4 / 4 / 11 | 4 / 21 | 13 / 61 | gaps remain |
+| 0625 (physics) | For examination in 2026, 2027 and 2028 | 21 | 6 / 6 / 9 | 6 / 6 | 22 / 24 | complete |
+| 0610 (biology) | For examination in 2026, 2027 and 2028 | 63 | 21 / 21 / 21 | 21 / 21 | 55 / 61 | complete |
 | 9701 (chemistry) | 2025-2027 | 129 | 43 / 43 / 43 | 37 / 37 | 90 / 90 | complete |
 | 9702 (physics) | 2025-2027 | 75 | 25 / 25 / 25 | 25 / 25 | 76 / 76 | complete |
-| 9700 (biology) | For examination in 2025, 2026 and 2027 | 17 | 3 / 3 / 11 | 3 / 19 | 0 / 44 | gaps remain |
-| 9709 (mathematics) | 2026-2027 | 13 | 4 / 2 / 7 | 2 / 6 | 0 / 38 | gaps remain |
-| 4MA1 (mathematics) | Specification Issue 2, November 2017 | 6 | 2 / 2 / 2 | 2 / 6 | 0 / 36 | gaps remain |
-| 4CH1 (chemistry) | Issue 3, September 2024 | 8 | 2 / 2 / 4 | 2 / 4 | 1 / 17 | gaps remain |
+| 9700 (biology) | For examination in 2025, 2026 and 2027 | 57 | 19 / 19 / 19 | 19 / 19 | 18 / 44 | complete |
+| 9709 (mathematics) | 2026-2027 | 22 | 8 / 6 / 8 | 6 / 6 | 5 / 38 | complete |
+| 4MA1 (mathematics) | Specification Issue 2, November 2017 | 18 | 6 / 6 / 6 | 6 / 6 | 17 / 36 | complete |
+| 4CH1 (chemistry) | Issue 3, September 2024 | 12 | 4 / 4 / 4 | 4 / 4 | 1 / 17 | complete |
 | 4PH1 (physics) | Issue 4 | 24 | 8 / 8 / 8 | 8 / 8 | 30 / 30 | complete |
-| 4BI1 (biology) | Issue 3 | 9 | 3 / 3 / 3 | 3 / 5 | 1 / 12 | gaps remain |
-| 8461 (biology) | For first teaching 2016 | 7 | 3 / 2 / 2 | 2 / 8 | 1 / 6 | gaps remain |
-| 8462 (chemistry) | For teaching from September 2016 | 7 | 3 / 2 / 2 | 2 / 11 | 1 / 8 | gaps remain |
-| 8463 (physics) | For first teaching 2016 | 8 | 3 / 2 / 3 | 1 / 8 | 2 / 30 | gaps remain |
-| 8300 (mathematics) | For first teaching 2015 | 7 | 3 / 2 / 2 | 2 / 6 | 0 / 7 | gaps remain |
+| 4BI1 (biology) | Issue 3 | 15 | 5 / 5 / 5 | 5 / 5 | 1 / 12 | complete |
+| 8461 (biology) | For first teaching 2016 | 24 | 8 / 8 / 8 | 8 / 8 | 1 / 6 | complete |
+| 8462 (chemistry) | For teaching from September 2016 | 33 | 11 / 11 / 11 | 11 / 11 | 1 / 8 | complete |
+| 8463 (physics) | For first teaching 2016 | 29 | 10 / 9 / 10 | 8 / 8 | 29 / 30 | complete |
+| 8300 (mathematics) | For first teaching 2015 | 18 | 6 / 6 / 6 | 6 / 6 | 0 / 7 | complete |
 
 ## Detail by syllabus
 
@@ -188,9 +188,9 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 | 1 | Motion, forces and energy | 1 | 1 | 2 | 1.1 (RN) |
 | 2 | Thermal physics | 1 | 1 | 2 | -- |
 | 3 | Waves | 1 | 1 | 1 | -- |
-| 4 | Electricity and magnetism | 0 | 0 | 2 | 4.1 (SG/RN/PQ), 4.2 (SG/RN), 4.3 (SG/RN), 4.4 (SG/RN), 4.5 (SG/RN) |
-| 5 | Nuclear physics | 0 | 0 | 1 | 5.1 (SG/RN), 5.2 (SG/RN) |
-| 6 | Space physics | 0 | 0 | 0 | 6.1 (SG/RN/PQ), 6.2 (SG/RN/PQ) |
+| 4 | Electricity and magnetism | 1 | 1 | 2 | 4.1 (PQ) |
+| 5 | Nuclear physics | 1 | 1 | 1 | -- |
+| 6 | Space physics | 1 | 1 | 1 | -- |
 
 ### 0610 -- biology (cambridge igcse, For examination in 2026, 2027 and 2028)
 
@@ -199,24 +199,24 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 | 1 | Characteristics and classification of living organisms | 1 | 1 | 1 | -- |
 | 2 | Organisation of the organism | 1 | 1 | 1 | -- |
 | 3 | Movement into and out of cells | 1 | 1 | 1 | -- |
-| 4 | Biological molecules | 0 | 0 | 0 | 4.1 (SG/RN/PQ) |
-| 5 | Enzymes | 0 | 0 | 1 | 5.1 (SG/RN) |
-| 6 | Plant nutrition | 0 | 0 | 1 | 6.1 (SG/RN), 6.2 (SG/RN/PQ) |
+| 4 | Biological molecules | 1 | 1 | 1 | -- |
+| 5 | Enzymes | 1 | 1 | 1 | -- |
+| 6 | Plant nutrition | 1 | 1 | 1 | 6.2 (PQ) |
 | 7 | Human nutrition | 1 | 1 | 1 | -- |
-| 8 | Transport in plants | 0 | 0 | 1 | 8.1 (SG/RN), 8.2 (SG/RN), 8.3 (SG/RN), 8.4 (SG/RN) |
-| 9 | Transport in animals | 0 | 0 | 0 | 9.1 (SG/RN/PQ), 9.2 (SG/RN/PQ), 9.3 (SG/RN/PQ), 9.4 (SG/RN/PQ) |
-| 10 | Diseases and immunity | 0 | 0 | 0 | 10.1 (SG/RN/PQ) |
-| 11 | Gas exchange in humans | 0 | 0 | 0 | 11.1 (SG/RN/PQ) |
-| 12 | Respiration | 0 | 0 | 1 | 12.1 (SG/RN), 12.2 (SG/RN), 12.3 (SG/RN) |
-| 13 | Excretion in humans | 0 | 0 | 0 | 13.1 (SG/RN/PQ) |
-| 14 | Coordination and response | 0 | 0 | 1 | 14.1 (SG/RN), 14.2 (SG/RN), 14.3 (SG/RN/PQ), 14.4 (SG/RN/PQ), 14.5 (SG/RN/PQ) |
-| 15 | Drugs | 0 | 0 | 0 | 15.1 (SG/RN/PQ) |
-| 16 | Reproduction | 0 | 0 | 1 | 16.1 (SG/RN), 16.2 (SG/RN), 16.3 (SG/RN), 16.4 (SG/RN), 16.5 (SG/RN/PQ), 16.6 (SG/RN/PQ) |
-| 17 | Inheritance | 0 | 0 | 1 | 17.1 (SG/RN), 17.2 (SG/RN), 17.3 (SG/RN), 17.4 (SG/RN) |
-| 18 | Variation and selection | 0 | 0 | 0 | 18.1 (SG/RN/PQ), 18.2 (SG/RN/PQ), 18.3 (SG/RN/PQ) |
-| 19 | Organisms and their environment | 0 | 0 | 0 | 19.1 (SG/RN/PQ), 19.2 (SG/RN/PQ), 19.3 (SG/RN/PQ), 19.4 (SG/RN/PQ) |
-| 20 | Human influences on ecosystems | 0 | 0 | 0 | 20.1 (SG/RN/PQ), 20.2 (SG/RN/PQ), 20.3 (SG/RN/PQ), 20.4 (SG/RN/PQ) |
-| 21 | Biotechnology and genetic modification | 0 | 0 | 0 | 21.1 (SG/RN/PQ), 21.2 (SG/RN/PQ), 21.3 (SG/RN/PQ) |
+| 8 | Transport in plants | 1 | 1 | 1 | -- |
+| 9 | Transport in animals | 1 | 1 | 1 | -- |
+| 10 | Diseases and immunity | 1 | 1 | 1 | -- |
+| 11 | Gas exchange in humans | 1 | 1 | 1 | -- |
+| 12 | Respiration | 1 | 1 | 1 | -- |
+| 13 | Excretion in humans | 1 | 1 | 1 | -- |
+| 14 | Coordination and response | 1 | 1 | 1 | 14.3 (PQ), 14.4 (PQ), 14.5 (PQ) |
+| 15 | Drugs | 1 | 1 | 1 | -- |
+| 16 | Reproduction | 1 | 1 | 1 | 16.5 (PQ), 16.6 (PQ) |
+| 17 | Inheritance | 1 | 1 | 1 | -- |
+| 18 | Variation and selection | 1 | 1 | 1 | -- |
+| 19 | Organisms and their environment | 1 | 1 | 1 | -- |
+| 20 | Human influences on ecosystems | 1 | 1 | 1 | -- |
+| 21 | Biotechnology and genetic modification | 1 | 1 | 1 | -- |
 
 ### 9701 -- chemistry (cambridge a-level, 2025-2027)
 
@@ -297,22 +297,22 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 | 1 | Cell structure | 1 | 1 | 1 | 1.1 (SG/RN/PQ), 1.2 (SG/RN/PQ) |
 | 2 | Biological molecules | 1 | 1 | 1 | 2.1 (SG/RN/PQ), 2.2 (SG/RN/PQ), 2.3 (SG/RN/PQ), 2.4 (SG/RN/PQ) |
 | 3 | Enzymes | 1 | 1 | 1 | 3.1 (SG/RN/PQ), 3.2 (SG/RN/PQ) |
-| 4 | Cell membranes and transport | 0 | 0 | 1 | 4.1 (SG/RN/PQ), 4.2 (SG/RN/PQ) |
-| 5 | The mitotic cell cycle | 0 | 0 | 0 | 5.1 (SG/RN/PQ), 5.2 (SG/RN/PQ) |
-| 6 | Nucleic acids and protein synthesis | 0 | 0 | 0 | 6.1 (SG/RN/PQ), 6.2 (SG/RN/PQ) |
-| 7 | Transport in plants | 0 | 0 | 0 | 7.1 (SG/RN/PQ), 7.2 (SG/RN/PQ) |
-| 8 | Transport in mammals | 0 | 0 | 1 | 8.1 (SG/RN/PQ), 8.2 (SG/RN/PQ), 8.3 (SG/RN/PQ) |
-| 9 | Gas exchange | 0 | 0 | 0 | 9.1 (SG/RN/PQ) |
-| 10 | Infectious diseases | 0 | 0 | 1 | 10.1 (SG/RN/PQ), 10.2 (SG/RN/PQ) |
-| 11 | Immunity | 0 | 0 | 1 | 11.1 (SG/RN/PQ), 11.2 (SG/RN/PQ) |
-| 12 | Energy and respiration | 0 | 0 | 1 | 12.1 (SG/RN/PQ), 12.2 (SG/RN/PQ) |
-| 13 | Photosynthesis | 0 | 0 | 0 | 13.1 (SG/RN/PQ), 13.2 (SG/RN/PQ) |
-| 14 | Homeostasis | 0 | 0 | 1 | 14.1 (SG/RN/PQ), 14.2 (SG/RN/PQ) |
-| 15 | Control and coordination | 0 | 0 | 1 | 15.1 (SG/RN/PQ), 15.2 (SG/RN/PQ) |
-| 16 | Inheritance | 0 | 0 | 1 | 16.1 (SG/RN/PQ), 16.2 (SG/RN/PQ), 16.3 (SG/RN/PQ) |
-| 17 | Selection and evolution | 0 | 0 | 0 | 17.1 (SG/RN/PQ), 17.2 (SG/RN/PQ), 17.3 (SG/RN/PQ) |
-| 18 | Classification, biodiversity and conservation | 0 | 0 | 0 | 18.1 (SG/RN/PQ), 18.2 (SG/RN/PQ), 18.3 (SG/RN/PQ) |
-| 19 | Genetic technology | 0 | 0 | 0 | 19.1 (SG/RN/PQ), 19.2 (SG/RN/PQ), 19.3 (SG/RN/PQ) |
+| 4 | Cell membranes and transport | 1 | 1 | 1 | 4.1 (PQ), 4.2 (PQ) |
+| 5 | The mitotic cell cycle | 1 | 1 | 1 | -- |
+| 6 | Nucleic acids and protein synthesis | 1 | 1 | 1 | -- |
+| 7 | Transport in plants | 1 | 1 | 1 | -- |
+| 8 | Transport in mammals | 1 | 1 | 1 | 8.1 (PQ), 8.2 (PQ), 8.3 (PQ) |
+| 9 | Gas exchange | 1 | 1 | 1 | -- |
+| 10 | Infectious diseases | 1 | 1 | 1 | 10.1 (PQ), 10.2 (PQ) |
+| 11 | Immunity | 1 | 1 | 1 | 11.1 (PQ), 11.2 (PQ) |
+| 12 | Energy and respiration | 1 | 1 | 1 | 12.1 (PQ), 12.2 (PQ) |
+| 13 | Photosynthesis | 1 | 1 | 1 | -- |
+| 14 | Homeostasis | 1 | 1 | 1 | 14.1 (PQ), 14.2 (PQ) |
+| 15 | Control and coordination | 1 | 1 | 1 | 15.1 (PQ), 15.2 (PQ) |
+| 16 | Inheritance | 1 | 1 | 1 | 16.1 (PQ), 16.2 (PQ), 16.3 (PQ) |
+| 17 | Selection and evolution | 1 | 1 | 1 | -- |
+| 18 | Classification, biodiversity and conservation | 1 | 1 | 1 | -- |
+| 19 | Genetic technology | 1 | 1 | 1 | -- |
 
 ### 9709 -- mathematics (cambridge a-level, 2026-2027)
 
@@ -320,10 +320,10 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 |---|---|---|---|---|---|
 | 1 | Pure Mathematics 1 | 3 | 1 | 2 | 1.1 (SG/RN/PQ), 1.2 (RN/PQ), 1.3 (RN/PQ), 1.4 (SG/RN/PQ), 1.5 (SG/RN/PQ), 1.6 (SG/RN/PQ), 1.7 (SG/RN/PQ), 1.8 (SG/RN/PQ) |
 | 2 | Pure Mathematics 2 | 1 | 1 | 1 | 2.1 (SG/RN/PQ), 2.2 (SG/RN/PQ), 2.3 (SG/RN/PQ), 2.4 (SG/RN/PQ), 2.5 (SG/RN/PQ), 2.6 (SG/RN/PQ) |
-| 3 | Pure Mathematics 3 | 0 | 0 | 2 | 3.1 (SG/RN/PQ), 3.2 (SG/RN/PQ), 3.3 (SG/RN/PQ), 3.4 (SG/RN/PQ), 3.5 (SG/RN/PQ), 3.6 (SG/RN/PQ), 3.7 (SG/RN/PQ), 3.8 (SG/RN/PQ), 3.9 (SG/RN/PQ) |
-| 4 | Mechanics | 0 | 0 | 1 | 4.1 (SG/RN/PQ), 4.2 (SG/RN/PQ), 4.3 (SG/RN/PQ), 4.4 (SG/RN/PQ), 4.5 (SG/RN/PQ) |
-| 5 | Probability & Statistics 1 | 0 | 0 | 1 | 5.1 (SG/RN/PQ), 5.2 (SG/RN/PQ), 5.3 (SG/RN/PQ), 5.4 (SG/RN/PQ), 5.5 (SG/RN/PQ) |
-| 6 | Probability & Statistics 2 | 0 | 0 | 0 | 6.1 (SG/RN/PQ), 6.2 (SG/RN/PQ), 6.3 (SG/RN/PQ), 6.4 (SG/RN/PQ), 6.5 (SG/RN/PQ) |
+| 3 | Pure Mathematics 3 | 1 | 1 | 2 | 3.1 (PQ), 3.2 (PQ), 3.3 (PQ), 3.4 (PQ), 3.5 (PQ), 3.6 (PQ), 3.7 (PQ), 3.8 (PQ), 3.9 (PQ) |
+| 4 | Mechanics | 1 | 1 | 1 | 4.1 (PQ), 4.2 (PQ), 4.3 (PQ), 4.4 (PQ), 4.5 (PQ) |
+| 5 | Probability & Statistics 1 | 1 | 1 | 1 | 5.1 (PQ), 5.2 (PQ), 5.3 (PQ), 5.4 (PQ), 5.5 (PQ) |
+| 6 | Probability & Statistics 2 | 1 | 1 | 1 | -- |
 
 ### 4MA1 -- mathematics (edexcel igcse, Specification Issue 2, November 2017)
 
@@ -331,10 +331,10 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 |---|---|---|---|---|---|
 | 1 | Numbers and the number system | 1 | 1 | 1 | 1.1 (SG/RN/PQ), 1.2 (SG/RN/PQ), 1.3 (SG/RN/PQ), 1.4 (SG/RN/PQ), 1.5 (SG/RN/PQ), 1.6 (SG/RN/PQ), 1.7 (SG/RN/PQ), 1.8 (SG/RN/PQ), 1.9 (SG/RN/PQ), 1.10 (SG/RN/PQ), 1.11 (SG/RN/PQ) |
 | 2 | Equations, formulae and identities | 1 | 1 | 1 | 2.1 (SG/RN/PQ), 2.2 (SG/RN/PQ), 2.3 (SG/RN/PQ), 2.4 (SG/RN/PQ), 2.5 (SG/RN/PQ), 2.6 (SG/RN/PQ), 2.7 (SG/RN/PQ), 2.8 (SG/RN/PQ) |
-| 3 | Sequences, functions and graphs | 0 | 0 | 0 | 3.1 (SG/RN/PQ), 3.2 (SG/RN/PQ), 3.3 (SG/RN/PQ), 3.4 (SG/RN/PQ) |
-| 4 | Geometry and trigonometry | 0 | 0 | 0 | 4.1 (SG/RN/PQ), 4.2 (SG/RN/PQ), 4.3 (SG/RN/PQ), 4.4 (SG/RN/PQ), 4.5 (SG/RN/PQ), 4.6 (SG/RN/PQ), 4.7 (SG/RN/PQ), 4.8 (SG/RN/PQ) |
-| 5 | Vectors and transformation geometry | 0 | 0 | 0 | 5.1 (SG/RN/PQ), 5.2 (SG/RN/PQ) |
-| 6 | Statistics and probability | 0 | 0 | 0 | 6.1 (SG/RN/PQ), 6.2 (SG/RN/PQ), 6.3 (SG/RN/PQ) |
+| 3 | Sequences, functions and graphs | 1 | 1 | 1 | -- |
+| 4 | Geometry and trigonometry | 1 | 1 | 1 | -- |
+| 5 | Vectors and transformation geometry | 1 | 1 | 1 | -- |
+| 6 | Statistics and probability | 1 | 1 | 1 | -- |
 
 ### 4CH1 -- chemistry (edexcel igcse, Issue 3, September 2024)
 
@@ -342,8 +342,8 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 |---|---|---|---|---|---|
 | 1 | Principles of chemistry | 1 | 1 | 1 | 1a (SG/RN/PQ), 1b (SG/RN/PQ), 1c (SG/RN/PQ), 1d (SG/RN/PQ), 1e (SG/RN/PQ), 1f (SG/RN/PQ), 1g (SG/RN/PQ), 1h (SG/RN/PQ), 1i (SG/RN/PQ) |
 | 2 | Inorganic chemistry | 1 | 1 | 1 | a (SG/RN/PQ), b (SG/RN/PQ), c (SG/RN/PQ), e (SG/RN/PQ), f (SG/RN/PQ), g (SG/RN/PQ), h (SG/RN/PQ) |
-| 3 | Physical chemistry | 0 | 0 | 1 | topic has no subtopic data |
-| 4 | Organic chemistry | 0 | 0 | 1 | topic has no subtopic data |
+| 3 | Physical chemistry | 1 | 1 | 1 | topic has no subtopic data |
+| 4 | Organic chemistry | 1 | 1 | 1 | topic has no subtopic data |
 
 ### 4PH1 -- physics (edexcel igcse, Issue 4)
 
@@ -365,8 +365,8 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 | 1 | The nature and variety of living organisms | 1 | 1 | 1 | topic has no subtopic data |
 | 2 | Structures and functions in living organisms | 1 | 1 | 1 | a (SG/RN/PQ), c (SG/RN/PQ), d (SG/RN/PQ), e (SG/RN/PQ), f (SG/RN/PQ), g (SG/RN/PQ), h (SG/RN/PQ), i (SG/RN/PQ), j (SG/RN/PQ) |
 | 3 | Reproduction and inheritance | 1 | 1 | 1 | a (SG/RN/PQ), b (SG/RN/PQ) |
-| 4 | Ecology and the environment | 0 | 0 | 0 | topic has no subtopic data |
-| 5 | Use of biological resources | 0 | 0 | 0 | topic has no subtopic data |
+| 4 | Ecology and the environment | 1 | 1 | 1 | topic has no subtopic data |
+| 5 | Use of biological resources | 1 | 1 | 1 | topic has no subtopic data |
 
 ### 8461 -- biology (aqa gcse, For first teaching 2016)
 
@@ -374,12 +374,12 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 |---|---|---|---|---|---|
 | 1 | Cell biology | 1 | 1 | 1 | 4.1.1 (SG/RN/PQ), 4.1.2 (SG/RN/PQ), 4.1.3 (SG/RN/PQ) |
 | 2 | Organisation | 1 | 1 | 1 | 4.2.1 (SG/RN/PQ), 4.2.2.2 (SG/RN/PQ) |
-| 3 | Infection and response | 1 | 0 | 0 | topic has no subtopic data |
-| 4 | Bioenergetics | 0 | 0 | 0 | topic has no subtopic data |
-| 5 | Homeostasis and response | 0 | 0 | 0 | topic has no subtopic data |
-| 6 | Inheritance, variation and evolution | 0 | 0 | 0 | topic has no subtopic data |
-| 7 | Ecology | 0 | 0 | 0 | topic has no subtopic data |
-| 8 | Key ideas | 0 | 0 | 0 | topic has no subtopic data |
+| 3 | Infection and response | 1 | 1 | 1 | topic has no subtopic data |
+| 4 | Bioenergetics | 1 | 1 | 1 | topic has no subtopic data |
+| 5 | Homeostasis and response | 1 | 1 | 1 | topic has no subtopic data |
+| 6 | Inheritance, variation and evolution | 1 | 1 | 1 | topic has no subtopic data |
+| 7 | Ecology | 1 | 1 | 1 | topic has no subtopic data |
+| 8 | Key ideas | 1 | 1 | 1 | topic has no subtopic data |
 
 ### 8462 -- chemistry (aqa gcse, For teaching from September 2016)
 
@@ -387,28 +387,28 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 |---|---|---|---|---|---|
 | 1 | Atomic structure and the periodic table | 1 | 1 | 1 | 4.1.1 (SG/RN/PQ), 4.1.2 (SG/RN/PQ), 4.1.3 (SG/RN/PQ) |
 | 2 | Bonding, structure, and the properties of matter | 1 | 1 | 1 | 4.2.1.1 (SG/RN/PQ), 4.2.1.3 (SG/RN/PQ), 4.2.1.4 (SG/RN/PQ), 4.2.1.5 (SG/RN/PQ) |
-| 3 | Quantitative chemistry | 1 | 0 | 0 | topic has no subtopic data |
-| 4 | Chemical changes | 0 | 0 | 0 | topic has no subtopic data |
-| 5 | Energy changes | 0 | 0 | 0 | topic has no subtopic data |
-| 6 | The rate and extent of chemical change | 0 | 0 | 0 | topic has no subtopic data |
-| 7 | Organic chemistry | 0 | 0 | 0 | topic has no subtopic data |
-| 8 | Chemical analysis | 0 | 0 | 0 | topic has no subtopic data |
-| 9 | Chemistry of the atmosphere | 0 | 0 | 0 | topic has no subtopic data |
-| 10 | Using resources | 0 | 0 | 0 | topic has no subtopic data |
-| 11 | Key ideas | 0 | 0 | 0 | topic has no subtopic data |
+| 3 | Quantitative chemistry | 1 | 1 | 1 | topic has no subtopic data |
+| 4 | Chemical changes | 1 | 1 | 1 | topic has no subtopic data |
+| 5 | Energy changes | 1 | 1 | 1 | topic has no subtopic data |
+| 6 | The rate and extent of chemical change | 1 | 1 | 1 | topic has no subtopic data |
+| 7 | Organic chemistry | 1 | 1 | 1 | topic has no subtopic data |
+| 8 | Chemical analysis | 1 | 1 | 1 | topic has no subtopic data |
+| 9 | Chemistry of the atmosphere | 1 | 1 | 1 | topic has no subtopic data |
+| 10 | Using resources | 1 | 1 | 1 | topic has no subtopic data |
+| 11 | Key ideas | 1 | 1 | 1 | topic has no subtopic data |
 
 ### 8463 -- physics (aqa gcse, For first teaching 2016)
 
 | # | Topic | SG | RN | PQ | Subtopics missing a type (missing types) |
 |---|---|---|---|---|---|
 | 1 | Energy | 3 | 2 | 3 | 4.1.3 (RN) |
-| 2 | Electricity | 0 | 0 | 0 | 4.2.1 (SG/RN/PQ), 4.2.2 (SG/RN/PQ), 4.2.3 (SG/RN/PQ), 4.2.4 (SG/RN/PQ), 4.2.5 (SG/RN/PQ) |
-| 3 | Particle model of matter | 0 | 0 | 0 | 4.3.1 (SG/RN/PQ), 4.3.2 (SG/RN/PQ), 4.3.3 (SG/RN/PQ) |
-| 4 | Atomic structure | 0 | 0 | 0 | 4.4.1 (SG/RN/PQ), 4.4.2 (SG/RN/PQ), 4.4.3 (SG/RN/PQ), 4.4.4 (SG/RN/PQ) |
-| 5 | Forces | 0 | 0 | 0 | 4.5.1 (SG/RN/PQ), 4.5.2 (SG/RN/PQ), 4.5.3 (SG/RN/PQ), 4.5.4 (SG/RN/PQ), 4.5.5 (SG/RN/PQ), 4.5.6 (SG/RN/PQ), 4.5.7 (SG/RN/PQ) |
-| 6 | Waves | 0 | 0 | 0 | 4.6.1 (SG/RN/PQ), 4.6.2 (SG/RN/PQ), 4.6.3 (SG/RN/PQ) |
-| 7 | Magnetism and electromagnetism | 0 | 0 | 0 | 4.7.1 (SG/RN/PQ), 4.7.2 (SG/RN/PQ), 4.7.3 (SG/RN/PQ) |
-| 8 | Space physics | 0 | 0 | 0 | 4.8.1 (SG/RN/PQ), 4.8.2 (SG/RN/PQ) |
+| 2 | Electricity | 1 | 1 | 1 | -- |
+| 3 | Particle model of matter | 1 | 1 | 1 | -- |
+| 4 | Atomic structure | 1 | 1 | 1 | -- |
+| 5 | Forces | 1 | 1 | 1 | -- |
+| 6 | Waves | 1 | 1 | 1 | -- |
+| 7 | Magnetism and electromagnetism | 1 | 1 | 1 | -- |
+| 8 | Space physics | 1 | 1 | 1 | -- |
 
 ### 8300 -- mathematics (aqa gcse, For first teaching 2015)
 
@@ -416,7 +416,7 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 |---|---|---|---|---|---|
 | 1 | Number | 1 | 1 | 1 | 3.1.1 (SG/RN/PQ), 3.1.2 (SG/RN/PQ), 3.1.3 (SG/RN/PQ) |
 | 2 | Algebra | 1 | 1 | 1 | 3.2.1 (SG/RN/PQ), 3.2.2 (SG/RN/PQ), 3.2.3 (SG/RN/PQ), 3.2.4 (SG/RN/PQ) |
-| 3 | Ratio, proportion and rates of change | 1 | 0 | 0 | topic has no subtopic data |
-| 4 | Geometry and measures | 0 | 0 | 0 | topic has no subtopic data |
-| 5 | Probability | 0 | 0 | 0 | topic has no subtopic data |
-| 6 | Statistics | 0 | 0 | 0 | topic has no subtopic data |
+| 3 | Ratio, proportion and rates of change | 1 | 1 | 1 | topic has no subtopic data |
+| 4 | Geometry and measures | 1 | 1 | 1 | topic has no subtopic data |
+| 5 | Probability | 1 | 1 | 1 | topic has no subtopic data |
+| 6 | Statistics | 1 | 1 | 1 | topic has no subtopic data |
