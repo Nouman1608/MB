@@ -29,6 +29,7 @@ import { topicsFor } from '../../../data/academic/syllabus-topics.ts';
 import { routes } from '../../../utils/urls/routes';
 import { buildClientQuestions, dataHashFor } from '../../../utils/practice/client-questions.ts';
 import { diagnosticsForCode, diagnosticPath } from '../../../data/diagnostics.ts';
+import { topicFilterIndex, coreFilterApplies } from '../../../utils/practice/topic-filter.ts';
 
 export async function getStaticPaths() {
   return flagshipSpecs()
@@ -86,6 +87,15 @@ const trialHref = `/trial/?course=${encodeURIComponent(`${spec.boardSlug}/${spec
 // older in-page "Diagnostic check" mode (25 questions, answers shown as you
 // go) so there are not two competing diagnostics for the same syllabus.
 const diagnosticSets = diagnosticsForCode(spec.code);
+/**
+ * B9 (2026-09-27) -- "Retest this topic". ?topic=<key> narrows the bank to
+ * one topic (a topic slug) or subtopic (topic/subtopic key); only keys that
+ * occur in this bank are valid (src/utils/practice/topic-filter.ts), anything
+ * else is ignored. The client gets key -> [label, 1 if a Core-only filter
+ * means anything for that topic (it has an Extended-only question), else 0].
+ */
+const topicNames = Object.fromEntries((topicsFor(spec.boardSlug, spec.qualificationSlug, spec.subjectSlug)?.topics ?? []).map((t) => [t.slug, t.name]));
+const topicFilters = Object.fromEntries(Object.entries(topicFilterIndex(clientQuestions, topicNames)).map(([k, v]) => [k, [v.label, tiered && coreFilterApplies(v) ? 1 : 0]]));
 ---
 <PageLayout
   title={`${subjectTitle} — Free Practice Questions`}
@@ -153,6 +163,13 @@ const diagnosticSets = diagnosticsForCode(spec.code);
           <span id="mb-practice-timer" class="font-mono text-navy-800" hidden>00:00</span>
         </div>
 
+        <div aria-live="polite">
+          <div id="mb-practice-topic-banner" tabindex="-1" class="mb-6 flex flex-wrap items-center gap-x-4 gap-y-2 rounded-sm border border-gold-500 bg-ivory px-4 py-3 text-[14.5px]" hidden>
+            <p class="m-0 text-ink">Showing questions on: <strong id="mb-practice-topic-label" class="text-navy-800"></strong> <span id="mb-practice-topic-count" class="text-ink-mute"></span></p>
+            <a id="mb-practice-topic-clear" href={path} class="inline-flex min-h-6 items-center font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">Show all questions</a>
+          </div>
+        </div>
+
         {tiered && (
           <div id="mb-practice-tier-gate" class="mb-6 rounded-sm border border-rule bg-white p-[clamp(22px,3vw,36px)]" hidden>
             <h2 class="m-0 mb-2 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Which tier are you preparing for?</h2>
@@ -166,7 +183,7 @@ const diagnosticSets = diagnosticsForCode(spec.code);
           </div>
         )}
 
-        <div id="mb-practice-card" class="rounded-sm border border-rule bg-white p-[clamp(22px,3vw,36px)]">
+        <div id="mb-practice-card" tabindex="-1" class="rounded-sm border border-rule bg-white p-[clamp(22px,3vw,36px)]">
           <div class="mb-4 flex items-center justify-between text-[12px] font-medium uppercase tracking-[0.1em] text-gold-600">
             <span id="mb-practice-qnum">Question 1 of {clientQuestions.length}</span>
             <span id="mb-practice-marks"></span>
@@ -252,7 +269,7 @@ const diagnosticSets = diagnosticsForCode(spec.code);
     </Container>
   </Section>
 
-  <script is:inline define:vars={{ storageKey, hubPath: hubPath, dataUrl, analyticsContext, tiered }}>
+  <script is:inline define:vars={{ storageKey, hubPath: hubPath, dataUrl, analyticsContext, tiered, topicFilters, practicePath: path }}>
     (function () {
       const app = document.getElementById('mb-practice-app');
       if (!app) return;
@@ -293,6 +310,10 @@ const diagnosticSets = diagnosticsForCode(spec.code);
         diagRestart: document.getElementById('mb-practice-diag-restart'),
         teacherSupport: document.getElementById('mb-practice-teacher-support'),
         tierGate: document.getElementById('mb-practice-tier-gate'),
+        topicBanner: document.getElementById('mb-practice-topic-banner'),
+        topicLabel: document.getElementById('mb-practice-topic-label'),
+        topicCount: document.getElementById('mb-practice-topic-count'),
+        topicClear: document.getElementById('mb-practice-topic-clear'),
       };
 
       /**
@@ -357,6 +378,91 @@ const diagnosticSets = diagnosticsForCode(spec.code);
        * earlier run in the same page visit.
        */
       let selectedTier = null;
+
+      /**
+       * B9 (2026-09-27) -- topic filter from ?topic=<key> ("Retest this
+       * topic"). Only a key in `topicFilters` (built at build time from this
+       * bank, src/utils/practice/topic-filter.ts) is accepted; an unknown key
+       * is ignored and the whole bank shows. `tier=core` (tiered syllabuses
+       * only, only with a topic, and only for a topic that has an
+       * Extended-only question -- topicFilters[key][1]) leaves out
+       * Extended-only questions, the same rule as the Core diagnostic pool
+       * below. Applies to standard and
+       * mixed practice; the broad in-page diagnostic check always uses the
+       * whole bank.
+       */
+      let activeTopic = null;
+      let topicCoreOnly = false;
+      try {
+        const params = new URLSearchParams(window.location.search);
+        const t = params.get('topic');
+        if (t && Object.prototype.hasOwnProperty.call(topicFilters, t)) {
+          activeTopic = t;
+          topicCoreOnly = params.get('tier') === 'core' && coreApplies(t);
+        }
+      } catch (e) {}
+      // The four one-line functions below mirror src/utils/practice/topic-filter.ts
+      // (questionMatchesTopic, questionsForTopic, retestPath, coreFilterNote); its
+      // test extracts and runs them against the util to catch drift.
+      function matchesTopic(q, key) { return q.topics.some((t) => t.key === key || t.key.indexOf(key + '/') === 0); }
+      function topicPoolOf(list, key, coreOnly) { return list.filter((q) => matchesTopic(q, key) && (!coreOnly || q.tier !== 'supplement')); }
+      function retestHrefFor(base, key, coreOnly) { return base + '?topic=' + encodeURIComponent(key) + (coreOnly ? '&tier=core' : ''); }
+      function coreFilterNote(untagged) { return untagged > 0 ? 'Extended-only questions left out; ' + untagged + ' not yet tagged Core or Extended' : 'Core only'; }
+      function coreApplies(key) { return !!tiered && Object.prototype.hasOwnProperty.call(topicFilters, key) && topicFilters[key][1] === 1; }
+      /** An unmodified primary click: anything else (new tab, new window) is left to the browser. */
+      function isPlainClick(ev) { return ev.button === 0 && !ev.metaKey && !ev.ctrlKey && !ev.shiftKey && !ev.altKey; }
+      function topicPool(key, coreOnly) {
+        return topicPoolOf(questions, key, coreOnly);
+      }
+      /** Questions standard/mixed practice draws from: the topic's, or the whole bank. */
+      function practicePool() {
+        return activeTopic ? topicPool(activeTopic, topicCoreOnly) : questions;
+      }
+      function retestHref(key, coreOnly) {
+        return retestHrefFor(practicePath, key, coreOnly);
+      }
+      function setTopicUrl() {
+        try {
+          const url = new URL(window.location.href);
+          url.searchParams.delete('topic');
+          url.searchParams.delete('tier');
+          if (activeTopic) {
+            url.searchParams.set('topic', activeTopic);
+            if (topicCoreOnly) url.searchParams.set('tier', 'core');
+          }
+          history.replaceState(history.state, '', url.pathname + url.search + url.hash);
+        } catch (e) {}
+      }
+      function updateTopicBanner() {
+        if (!els.topicBanner) return;
+        const show = !!activeTopic && mode !== 'diagnostic';
+        els.topicBanner.hidden = !show;
+        if (!show) return;
+        const pool = practicePool();
+        const n = pool.length;
+        const untagged = pool.filter((q) => !q.tier).length;
+        els.topicLabel.textContent = topicFilters[activeTopic][0];
+        els.topicCount.textContent = '(' + n + (n === 1 ? ' question' : ' questions') + (topicCoreOnly ? ', ' + coreFilterNote(untagged) : '') + ')';
+      }
+      function clearTopic() {
+        if (!activeTopic) return;
+        activeTopic = null;
+        topicCoreOnly = false;
+        setTopicUrl();
+        updateTopicBanner();
+      }
+      /** Open one topic's questions in standard practice, without reloading the page. */
+      function openTopic(key, coreOnly) {
+        activeTopic = key;
+        topicCoreOnly = !!coreOnly && coreApplies(key);
+        setTopicUrl();
+        els.filter.value = 'all';
+        els.mode.value = 'standard';
+        applyMode();
+        // Keyboard and screen-reader users land on the banner that says what changed.
+        try { els.topicBanner.focus({ preventScroll: true }); } catch (e) {}
+        els.topicBanner.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
 
       /**
        * Flagship Dominance Programme WS-B (2026-08-31) -- topic index built
@@ -446,12 +552,13 @@ const diagnosticSets = diagnosticsForCode(spec.code);
 
       function applyFilter() {
         const mode = els.filter.value;
+        const pool = practicePool();
         if (mode === 'unattempted') {
-          filtered = questions.filter((q) => !state.attempts[q.id]);
+          filtered = pool.filter((q) => !state.attempts[q.id]);
         } else if (mode === 'wrong') {
-          filtered = questions.filter((q) => state.attempts[q.id] && state.attempts[q.id].correct === false);
+          filtered = pool.filter((q) => state.attempts[q.id] && state.attempts[q.id].correct === false);
         } else {
-          filtered = questions.slice();
+          filtered = pool.slice();
         }
         index = 0;
         render();
@@ -518,7 +625,32 @@ const diagnosticSets = diagnosticsForCode(spec.code);
             track('weak_topic_click', { topic: info.label, wrong_count: info.count });
           });
           li.appendChild(label);
-          li.appendChild(badge);
+          // B9 -- retest just this topic here, when it has more than one question,
+          // keeping Core-only mode if the page is in it and it applies to this topic.
+          const retestCoreHere = !!activeTopic && topicCoreOnly && coreApplies(key);
+          if (topicPool(key, retestCoreHere).length >= 2) {
+            const links = document.createElement('span');
+            links.className = 'flex shrink-0 flex-wrap items-center justify-end gap-2';
+            const retest = document.createElement('a');
+            retest.href = retestHref(key, retestCoreHere);
+            retest.className = 'rounded-sm bg-white px-2.5 py-1 text-[12px] font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600';
+            retest.textContent = 'Retest';
+            const retestSr = document.createElement('span');
+            retestSr.className = 'sr-only';
+            retestSr.textContent = ': ' + info.label;
+            retest.appendChild(retestSr);
+            retest.addEventListener('click', (ev) => {
+              track('recommended_resource_click', { source: 'practice_weak_topics', link_kind: 'retest_topic' });
+              if (!isPlainClick(ev)) return;
+              ev.preventDefault();
+              openTopic(key, retestCoreHere);
+            });
+            links.appendChild(badge);
+            links.appendChild(retest);
+            li.appendChild(links);
+          } else {
+            li.appendChild(badge);
+          }
           els.weakList.appendChild(li);
         }
       }
@@ -542,7 +674,7 @@ const diagnosticSets = diagnosticsForCode(spec.code);
             track('retry', { topic: q.topics[0] ? q.topics[0].label : 'general', source: 'notebook' });
             const i = filtered.findIndex((f) => f.id === q.id);
             if (i >= 0) { index = i; render(); }
-            else { filtered = questions.slice(); index = questions.findIndex((f) => f.id === q.id); render(); }
+            else { clearTopic(); filtered = questions.slice(); index = questions.findIndex((f) => f.id === q.id); render(); }
             els.card.scrollIntoView({ behavior: 'smooth', block: 'start' });
           });
           li.appendChild(btn);
@@ -618,7 +750,7 @@ const diagnosticSets = diagnosticsForCode(spec.code);
             if (mode !== 'standard') { els.mode.value = 'standard'; applyMode(); }
             const i = filtered.findIndex((f) => f.id === q.id);
             if (i >= 0) { index = i; render(); }
-            else { filtered = questions.slice(); index = questions.findIndex((f) => f.id === q.id); render(); }
+            else { clearTopic(); filtered = questions.slice(); index = questions.findIndex((f) => f.id === q.id); render(); }
             els.card.scrollIntoView({ behavior: 'smooth', block: 'start' });
           });
           li.appendChild(btn);
@@ -688,13 +820,39 @@ const diagnosticSets = diagnosticsForCode(spec.code);
 
         const byTopic = topicResultsFor(ids, diagnosticRun);
         const strengths = [...byTopic.values()].filter((t) => t.correct === t.total);
-        const weak = [...byTopic.values()].filter((t) => t.correct < t.total);
+        const weak = [...byTopic.entries()].filter(([, t]) => t.correct < t.total);
         els.diagStrengths.innerHTML = strengths.length
           ? strengths.map((t) => '<li class="mb-1">' + t.label + '</li>').join('')
           : '<li class="text-ink-mute">None yet -- try again after reviewing the weak areas below.</li>';
-        els.diagWeak.innerHTML = weak.length
-          ? weak.map((t) => '<li class="mb-1">' + t.label + ' (' + t.correct + '/' + t.total + ')</li>').join('')
-          : '<li class="text-ink-mute">None -- every topic sampled was fully correct.</li>';
+        els.diagWeak.innerHTML = weak.length ? '' : '<li class="text-ink-mute">None -- every topic sampled was fully correct.</li>';
+        // B9 -- each weak area gets "Retest this topic": that topic's questions
+        // only, Core-only when the student chose Core at the tier question and
+        // the topic has Extended-only questions to leave out.
+        for (const [key, t] of weak) {
+          const retestCore = selectedTier === 'core' && coreApplies(key);
+          const li = document.createElement('li');
+          li.className = 'mb-2';
+          li.appendChild(document.createTextNode(t.label + ' (' + t.correct + '/' + t.total + ')'));
+          const n = topicPool(key, retestCore).length;
+          if (n >= 2) {
+            const a = document.createElement('a');
+            a.href = retestHref(key, retestCore);
+            a.className = 'ml-2 inline-flex min-h-6 items-center text-[13px] font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600';
+            a.textContent = 'Retest this topic (' + n + ' questions)';
+            const aSr = document.createElement('span');
+            aSr.className = 'sr-only';
+            aSr.textContent = ': ' + t.label;
+            a.appendChild(aSr);
+            a.addEventListener('click', (ev) => {
+              track('recommended_resource_click', { source: 'practice_diagnostic', link_kind: 'retest_topic' });
+              if (!isPlainClick(ev)) return;
+              ev.preventDefault();
+              openTopic(key, retestCore);
+            });
+            li.appendChild(a);
+          }
+          els.diagWeak.appendChild(li);
+        }
         if (els.diagWrap.scrollIntoView) els.diagWrap.scrollIntoView({ behavior: 'smooth', block: 'start' });
       }
 
@@ -723,6 +881,7 @@ const diagnosticSets = diagnosticsForCode(spec.code);
         els.diagWrap.hidden = true;
         if (els.tierGate) els.tierGate.hidden = true;
         els.filter.disabled = mode !== 'standard';
+        updateTopicBanner();
         if (mode === 'standard') {
           els.card.hidden = false;
           applyFilter();
@@ -730,7 +889,8 @@ const diagnosticSets = diagnosticsForCode(spec.code);
         }
         if (mode === 'mixed') {
           els.card.hidden = false;
-          filtered = buildBalancedSet(Math.min(20, questions.length));
+          const pool = practicePool();
+          filtered = buildBalancedSet(Math.min(20, pool.length), pool);
           index = 0;
           render();
           return;
@@ -871,6 +1031,16 @@ const diagnosticSets = diagnosticsForCode(spec.code);
           });
         });
       }
+      if (els.topicClear) {
+        els.topicClear.addEventListener('click', (ev) => {
+          if (!isPlainClick(ev)) return;
+          ev.preventDefault();
+          clearTopic();
+          applyMode();
+          // The banner (and this link) is now hidden: move focus to the question card.
+          try { els.card.focus({ preventScroll: true }); } catch (e) {}
+        });
+      }
       els.masteryInfo.addEventListener('click', () => {
         els.masteryExplain.hidden = !els.masteryExplain.hidden;
       });
@@ -912,6 +1082,12 @@ const diagnosticSets = diagnosticsForCode(spec.code);
           return;
         }
         allTopics = buildTopicsIndex();
+        // B9 -- a valid key that leaves nothing to show (e.g. Core only, and
+        // every question on the topic is Extended-only) is ignored too.
+        if (activeTopic && practicePool().length === 0) clearTopic();
+        // Normalise the address: an ignored tier=core (the topic has no
+        // Extended-only question) is dropped, so a shared link never implies Core.
+        else if (activeTopic) setTopicUrl();
         app.classList.remove('hidden');
         track('practice_start', {});
         applyMode();

@@ -27,6 +27,7 @@ import { flagshipSpecs, academicHubPath } from '../../../../utils/academic';
 import { syllabusFor } from '../../../../data/academic/syllabuses';
 import { topicsFor } from '../../../../data/academic/syllabus-topics';
 import { buildClientQuestions } from '../../../../utils/practice/client-questions';
+import { questionsForTopic, retestPath, topicFilterIndex, coreFilterApplies, RETEST_MIN_QUESTIONS } from '../../../../utils/practice/topic-filter';
 import { getResources } from '../../../../utils/content/collections';
 import { resourcesForCombination, STUDY_KIND, type StudyKind } from '../../../../utils/academic/combination-resources';
 import { getEntry } from 'astro:content';
@@ -76,6 +77,23 @@ const recs = Object.fromEntries(questions.map((q) => {
   return [q.topicSlug, list.map((r) => ({ t: r.data.title, u: routes.resource(r.id), k: STUDY_KIND[r.data.resourceType] }))];
 }));
 
+// B9 (2026-09-27) -- "Retest this topic": the practice bank for this code,
+// filtered to the sampled topic (/practice/{code}/?topic=<topic slug>). On a
+// tiered syllabus the set that is not the Extended one tests Core content, so
+// its retest leaves out Extended-only questions (tier=core) -- but only for a
+// topic that has an Extended-only question to leave out (review fix: 0610,
+// 0625 and much of 0580 carry no tier tags, so tier=core would remove nothing
+// while the page said "Core only"). The Extended set's retest shows every
+// question on the topic. Offered only when the topic has more than the one
+// question just answered.
+const coreSet = !!topicRecord?.tiered && set.tier !== 'extended';
+const bankTopics = topicFilterIndex(bank);
+const retest = Object.fromEntries([...new Set(questions.map((q) => q.topicSlug))].flatMap((slug) => {
+  const coreOnly = coreSet && coreFilterApplies(bankTopics[slug]);
+  const n = questionsForTopic(bank, slug, { coreOnly }).length;
+  return slug !== 'general' && n >= RETEST_MIN_QUESTIONS ? [[slug, { u: retestPath(set.code, slug, { coreOnly }), n }]] : [];
+}));
+
 // Who wrote the source questions (their own resource bylines; never a guessed person).
 const authorSlugs = [...new Set(await Promise.all(questions.map(async (q) => {
   const r = await getEntry('resources', q.source.split('/')[2]);
@@ -86,7 +104,7 @@ const reviewer = set.setReview ? await getEntry('authors', set.setReview.reviewe
 const otherSets = diagnosticsForCode(set.code).filter((s) => s.slug !== set.slug);
 
 // '<' escaped so no question text can ever close the JSON script element.
-const payload = JSON.stringify({ code: set.code, set: set.slug, courseId, questions, recs, minutes: set.minutes }).replace(/</g, '\\u003c');
+const payload = JSON.stringify({ code: set.code, set: set.slug, courseId, questions, recs, retest, minutes: set.minutes }).replace(/</g, '\\u003c');
 const trialHref = `/trial/?course=${encodeURIComponent(courseId)}&source=diagnostic`;
 ---
 <PageLayout
