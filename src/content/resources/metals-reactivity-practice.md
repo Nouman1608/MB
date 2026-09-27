@@ -31,6 +31,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on the reactivity series, extraction, displacement, rusting and alloys."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -40,6 +41,8 @@ featured: false
 > these alongside the official past papers available free from your board.
 
 Related: [Metal Properties and Reactivity revision notes](/resources/metals-reactivity-revision-notes/)
+
+> **Tier note:** parts marked *(0620 Extended, 5070 required)* go beyond 0620 Core: the symbol equation for the blast furnace (syllabus 9.6), explaining alloy hardness in terms of structure (9.3), sacrificial protection and galvanising (9.5) and displacement reactions with aqueous metal ions (9.4). Everything else is 0620 Core. 5070 has no tiers, so O Level candidates need all of it.
 
 ---
 
@@ -55,16 +58,16 @@ Related: [Metal Properties and Reactivity revision notes](/resources/metals-reac
 
 **4.** *(Extension beyond this resource's core scope — blast-furnace extraction detail is covered in* [Alloys and Extraction of Metals](/resources/alloys-and-extraction-of-metals/) *; included here only as a worked example of question 3's reactivity-extraction link.)* Iron is extracted in the blast furnace.
 
-**(a)** Write the equation for the reduction of iron(III) oxide by carbon monoxide. **[2]**
+**(a)** *(0620 Extended, 5070 required)* Write the symbol equation for the reduction of iron(III) oxide by carbon monoxide. **[2]**
 **(b)** Explain the role of limestone. **[3]**
 **(c)** Explain why aluminium cannot be extracted this way. **[2]**
 
 **5.** Rusting requires both air and water.
 
 **(a)** Describe an experiment to show that both are needed. **[4]**
-**(b)** Explain how galvanising protects iron by **two** different mechanisms. **[4]**
+**(b)** *(0620 Extended, 5070 required)* Explain how galvanising protects iron by **two** different mechanisms. **[4]**
 
-**6.** *(Extension beyond this resource's core scope — alloys are covered in* [Alloys and Extraction of Metals](/resources/alloys-and-extraction-of-metals/) *.)* Explain, using a diagram in words, why an alloy is harder than the pure metal. **[3]**
+**6.** *(0620 Extended, 5070 required)* *(Extension beyond this resource's core scope — alloys are covered in* [Alloys and Extraction of Metals](/resources/alloys-and-extraction-of-metals/) *.)* Explain, using a diagram in words, why an alloy is harder than the pure metal. **[3]**
 
 **7.** Magnesium ribbon reacts rapidly with steam, but only very slowly with cold water.
 
@@ -79,11 +82,11 @@ Related: [Metal Properties and Reactivity revision notes](/resources/metals-reac
 **9.** Painting, greasing and galvanising can all be used to protect iron from rusting.
 
 **(a)** Explain why painting and greasing work, and state one limitation they share. **[2]**
-**(b)** Explain why galvanising still protects iron even where the coating is scratched, unlike painting or greasing. **[2]**
+**(b)** *(0620 Extended, 5070 required)* Explain why galvanising still protects iron even where the coating is scratched, unlike painting or greasing. **[2]**
 
 ---
 
-**10.** Zinc powder is added to three separate solutions: copper(II) sulfate, magnesium sulfate and iron(II) sulfate.
+**10.** *(0620 Extended, 5070 required)* Zinc powder is added to three separate solutions: copper(II) sulfate, magnesium sulfate and iron(II) sulfate.
 
 **(a)** State which of the solutions react with zinc, and explain your answer. **[2]**
 

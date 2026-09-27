@@ -29,6 +29,7 @@ syllabusTopics:
 description: "Condensed recall notes on Coulomb\u2019s law, field strength, potential and the comparison with gravitational fields for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -97,7 +98,7 @@ Work done accelerating a charge through a potential difference:
 W = qV        and if all becomes kinetic energy:  qV = 1/2 m v^2
 ```
 
-That relation defines the **electronvolt**: 1 eV = 1.60 × 10⁻¹⁹ J.
+W = qV also defines the **electronvolt**: the energy gained by an electron accelerated through a p.d. of 1 V, so 1 eV = 1.60 × 10⁻¹⁹ J.
 
 **Worked example.** An electron (charge 1.60 × 10⁻¹⁹ C, mass 9.11 × 10⁻³¹ kg) is accelerated from rest through a p.d. of 500 V:
 
@@ -121,13 +122,13 @@ Relationship: `E = −dV/dr` — field strength is the negative potential gradie
 - Applying E = V/d to a radial field — it only holds for uniform fields.
 - Treating field strength (vector) and potential (scalar) alike; potentials **add algebraically**.
 - Omitting 1/(4πε₀) or using the wrong power of r.
-- Forgetting that the electronvolt relation (qV = ½mv²) only holds when all the accelerating work converts to kinetic energy, with no other force acting.
+- Forgetting that qV = ½mv² only holds when all the work done by the field becomes kinetic energy (starting from rest, with no other force acting).
 
 Related: [Electric Fields practice questions](/resources/a-physics-electric-fields-practice/) for further worked calculations.
 
 ## Self-test
 
-1. State Coulomb's law and give the units of ε₀ term.
+1. State Coulomb's law and give the units of ε₀.
 2. How does electric potential differ from gravitational potential in sign?
 3. Two parallel plates 5 mm apart have a 200 V p.d. Find the field strength.
 4. What path does a charged particle take entering a uniform field perpendicular to it?
@@ -135,4 +136,4 @@ Related: [Electric Fields practice questions](/resources/a-physics-electric-fiel
 6. Find the field strength 0.20 m from a point charge of +5.0 × 10⁻⁶ C.
 7. An electron is accelerated from rest through a p.d. of 500 V. Find its final speed.
 
-**Answers:** 1. F = Q₁Q₂/(4πε₀r²); the constant 1/(4πε₀) ≈ 8.99 × 10⁹ N m² C⁻². 2. Gravitational potential is always negative because gravity is only attractive; electric potential is positive near a positive charge and negative near a negative charge. 3. E = V/d = 200/0.005 = **40 000 V/m**. 4. A parabola — constant velocity across the field, constant acceleration along it, exactly like projectile motion. 5. The force is perpendicular to the displacement at every point, so W = Fd cos 90° = 0. 6. E = 8.99 × 10⁹ × 5.0 × 10⁻⁶ ÷ 0.20² = **1.12 × 10⁶ N/C**, directed radially outward. 7. v = √(2qV/m) = √(2 × 1.60 × 10⁻¹⁹ × 500 ÷ 9.11 × 10⁻³¹) = **1.33 × 10⁷ m/s**.
+**Answers:** 1. F = Q₁Q₂/(4πε₀r²); ε₀ is in F m⁻¹ (equivalently C² N⁻¹ m⁻²), and 1/(4πε₀) ≈ 8.99 × 10⁹ N m² C⁻². 2. Gravitational potential is always negative because gravity is only attractive; electric potential is positive near a positive charge and negative near a negative charge. 3. E = V/d = 200/0.005 = **40 000 V/m**. 4. A parabola — constant velocity across the field, constant acceleration along it, exactly like projectile motion. 5. The force is perpendicular to the displacement at every point, so W = Fd cos 90° = 0. 6. E = 8.99 × 10⁹ × 5.0 × 10⁻⁶ ÷ 0.20² = **1.12 × 10⁶ N/C**, directed radially outward. 7. v = √(2qV/m) = √(2 × 1.60 × 10⁻¹⁹ × 500 ÷ 9.11 × 10⁻³¹) = **1.33 × 10⁷ m/s**.

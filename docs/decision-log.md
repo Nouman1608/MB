@@ -14277,3 +14277,32 @@ The D-149 principle (no pop-ups or interstitials, and the material stays free) i
 **Validation.** `astro check` 0 errors; `validate:academic`, `validate:assessments`, `validate:pinned-teachers` pass; `audit:all` passes; `test:i18n-routes` passes; `node --test` 124 pass, 0 fail; build clean (2,267 pages indexed).
 
 **Still open.** Ammar Bilal's photograph and years of experience, and Harris Khan's (N-06 of the same audit).
+
+---
+
+## D-339 - Resource library audit and first quality batch (2026-09-27)
+
+**Status:** prepared for review (branch `d-339-resource-quality-batch1`, not merged). **Brief:** owner, 27 Sep 2026 (audit and improve the resource library; implement a first batch; prepare changes for review).
+
+**Audit.**
+- Full report: `docs/content-review/resource-library-audit-2026-09-27.md`.
+- Coverage matrix for 0620, 5070 and 9701 (188 subtopics) against the official syllabus PDFs: `docs/content-review/coverage-matrix-cambridge-chemistry-2026-09-27.csv`.
+- Quality sample: 27 pages (24 stratified random, 3 highest search clicks). 5 pages had a definite error; 3 reviewer claims were rejected after checking the syllabus.
+
+**Changed.**
+- Corrections on 12 pages. Tier labels on 2 metals pages.
+- 0620 Core diagnostic: `metals-reactivity-practice-q10` (Supplement 9.4.4) replaced by `-q7` (Core 9.4.2).
+- New collapsed "Syllabus points this page covers" list on mapped resource pages, with verified 0620 tiers and 9701 stages (`src/utils/academic/syllabus-points.ts`, tests in `test:tools`). Opening it is tracked as `recommended_resource_click` (`source: syllabus_points`).
+- Gap-filling on 3 pages:
+  - 0580 mensuration: 3 Extended questions;
+  - 0610 classification: animal-group features (Core 1.3.2);
+  - 0620/5070 formulae: formula from a model or diagram.
+- Negative-suite fixture [AD] updated to the corrected wording.
+
+**Not changed.**
+- No author, reviewer or review status changed.
+- No review claim added.
+- No page removed or merged.
+- No diagnostic set added.
+
+**Needs academic review:** see section 10 of the report.

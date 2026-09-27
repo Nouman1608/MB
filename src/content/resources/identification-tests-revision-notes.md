@@ -19,6 +19,7 @@ syllabusTopics:
 description: "Condensed recall notes on every qualitative analysis test — cations, anions, gases and flame colours — for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -69,7 +70,7 @@ With **ammonia solution** instead: Zn²⁺ redissolves in excess, Al³⁺ does *
 | Nitrate NO₃⁻ | Add NaOH + aluminium foil, warm | Ammonia gas produced |
 | Sulfite SO₃²⁻ | Add acidified potassium manganate(VII) | Purple solution **decolourises** |
 
-**Acidify first** in the halide and sulfate tests — otherwise carbonate present would also precipitate and give a false positive. The sulfite test gives the **same** decolourising result as the sulfur dioxide gas test below, since sulfite reacting with acid is exactly what produces the sulfur dioxide in the first place.
+**Acidify first** in the halide and sulfate tests — otherwise carbonate present would also precipitate and give a false positive. The sulfite test and the sulfur dioxide gas test give the **same** result (acidified potassium manganate(VII) turns from purple to colourless), because both SO₃²⁻ and SO₂ are reducing agents. The sulfite test is done on the **solution**: the ions react with the manganate(VII) directly.
 
 ## Gas tests
 
