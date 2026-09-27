@@ -19,6 +19,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on energy profiles, bond energies and enthalpy calculations, plus two calorimetry questions labelled as background beyond 0620/5070 for progression to AS."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -29,25 +30,27 @@ featured: false
 
 Related: [Exothermic and Endothermic Reactions revision notes](/resources/energetics-revision-notes/)
 
+> **Tier note:** most of this page is in the Supplement column of the 0620 syllabus, so it is marked *(0620 Extended, 5070 required)*: ΔH and its sign (syllabus 5.1 outcome 4), activation energy (5.1 outcome 5), drawing and labelling reaction pathway diagrams (5.1 outcome 6), bond breaking and bond making (5.1 outcome 7), bond-energy calculations (5.1 outcome 8) and a catalyst lowering the activation energy (6.2 outcome 7). 0620 Core covers questions 1 (apart from the sign of ΔH) and 2: exothermic and endothermic reactions in terms of energy transfer and the temperature of the surroundings (5.1 outcomes 1–2). Core candidates also need to *interpret* (not draw) reaction pathway diagrams (5.1 outcome 3). 5070 has no tiers, so O Level candidates need all of it. Questions 6 and 8 are background beyond both syllabuses.
+
 ---
 
 ## Section A
 
-**1.** Define exothermic and endothermic, stating the sign of ΔH and the direction of energy transfer in each case. **[4]**
+**1.** Define exothermic and endothermic, stating the sign of ΔH and the direction of energy transfer in each case. *(The sign of ΔH is 0620 Extended, 5070 required.)* **[4]**
 
 **2.** Give **two** everyday or laboratory examples of an exothermic process, and **two** of an endothermic process. **[4]**
 
 ## Section B
 
-**3.** Explain, in terms of bond breaking and bond making, why a reaction is exothermic. **[3]**
+**3.** *(0620 Extended, 5070 required)* Explain, in terms of bond breaking and bond making, why a reaction is exothermic. **[3]**
 
-**4.** For the reaction H₂ + Cl₂ → 2HCl, the bond energies in kJ mol⁻¹ are H–H 436, Cl–Cl 242, H–Cl 431.
+**4.** *(0620 Extended, 5070 required)* For the reaction H₂ + Cl₂ → 2HCl, the bond energies in kJ mol⁻¹ are H–H 436, Cl–Cl 242, H–Cl 431.
 
 **(a)** Calculate the energy needed to break the bonds in the reactants. **[1]**
 **(b)** Calculate the energy released in forming the bonds in the products. **[1]**
 **(c)** Calculate ΔH and state whether the reaction is exothermic or endothermic. **[3]**
 
-**5.** Sketch or describe an energy profile diagram for an endothermic reaction, labelling reactants, products, activation energy and ΔH. **[4]**
+**5.** *(0620 Extended, 5070 required)* Sketch or describe an energy profile diagram for an endothermic reaction, labelling reactants, products, activation energy and ΔH. **[4]**
 
 > **Not on the 0620/5070 syllabus.** Questions 6 and 8 use calorimetry
 > and Q = mcΔT, which are not part of either syllabus's chemical energetics
@@ -61,7 +64,7 @@ Related: [Exothermic and Endothermic Reactions revision notes](/resources/energe
 **(a)** Calculate the energy released in joules. **[2]**
 **(b)** Give **two** reasons why the experimental value is lower in magnitude than the accepted value. **[2]**
 
-**7.** A catalyst is added to a slow reaction.
+**7.** *(0620 Extended, 5070 required)* A catalyst is added to a slow reaction.
 
 **(a)** Explain, with reference to activation energy, how the catalyst increases the rate of reaction. **[2]**
 **(b)** State what happens to ΔH when a catalyst is used, explaining why. **[2]**
@@ -102,11 +105,11 @@ Related: [Exothermic and Endothermic Reactions revision notes](/resources/energe
 
 ## Where marks are usually lost
 
-- Giving ΔH the wrong sign.
-- Reversing "bonds broken − bonds made".
-- Measuring activation energy from the products instead of the reactants.
+- *(0620 Extended, 5070 required)* Giving ΔH the wrong sign.
+- *(0620 Extended, 5070 required)* Reversing "bonds broken − bonds made".
+- *(0620 Extended, 5070 required)* Measuring activation energy from the products instead of the reactants.
 - *(Background questions 6 and 8 only — not a 0620/5070 outcome)* Using the mass of the solute rather than the total solution mass in Q = mcΔT.
-- Saying a catalyst changes ΔH, or drawing the catalysed curve starting/ending at different energy levels from the uncatalysed one — only the height of the hump should change.
-- Explaining "increases the rate" without linking it back to activation energy and the proportion of particles with enough energy to react.
+- *(0620 Extended, 5070 required)* Saying a catalyst changes ΔH, or drawing the catalysed curve starting/ending at different energy levels from the uncatalysed one — only the height of the hump should change.
+- *(0620 Extended, 5070 required)* Explaining "increases the rate" without linking it back to activation energy and the proportion of particles with enough energy to react.
 
 Question 7 draws on the catalyst section of the [Exothermic and Endothermic Reactions revision notes](/resources/energetics-revision-notes/); questions 6 and 8 draw on the calorimetry section instead (background beyond 0620/5070), since question 8 is itself a calorimetry question and has nothing to do with catalysts.

@@ -19,17 +19,18 @@ syllabusTopics:
 description: "The reagents, observations and conclusions for identifying anions, cations, gases and flame colours, for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
 publishedDate: 2026-08-17
-updatedDate: 2026-08-17
+updatedDate: 2026-09-27
 featured: false
 ---
 
 This guide covers subtopic **12.5, Identification of ions and gases**, for Cambridge
 IGCSE Chemistry 0620 and Cambridge O Level Chemistry 5070, 2026–2028 series.
 
-**This is fully shared content.** Unlike bonding or the mole, subtopic 12.5 sits
-entirely in the **Core** column for 0620 — there is no Extended-only material here at
-all — and the O Level 5070 wording is effectively identical. Every candidate, on
-either qualification, is expected to know every test on this page.
+> **Tier note:** every test on this page is 0620 Core. Unlike bonding or the mole, subtopic 12.5
+> sits entirely in the Core column of the 0620 syllabus, with no Supplement outcomes. The one item
+> marked *(0620 Extended, 5070 required)* is a side explanation that uses the idea of a reducing agent
+> (6.4 outcomes 10 and 12). 5070 has no tiers, and its 12.5 wording is effectively identical, so O Level
+> candidates need all of it too.
 
 Qualitative analysis is tested by giving you an unknown substance or solution and
 asking what you would do and what you would see. Examiners mark on three things:
@@ -96,10 +97,13 @@ feature that can help confirm it.
 | Sulfur dioxide, SO₂ | Add to acidified aqueous potassium manganate(VII) | The purple solution decolourises |
 
 Sulfite ions and sulfur dioxide gas give the **same** positive result — decolourising
-acidified potassium manganate(VII) — because sulfite reacting with acid is what
-produces the sulfur dioxide in the first place. If a question gives you a solid and
-asks for a gas test, you are testing for the gas that reaction gives off, not
-testing the solid directly.
+acidified potassium manganate(VII). The sulfite test is done on the solution itself:
+the sulfite ions react with the manganate(VII) directly, and no gas needs to be given
+off first. *(0620 Extended, 5070 required)* Both results happen because sulfite ions and sulfur dioxide
+are reducing agents: they reduce the purple manganate(VII) ions.
+
+If a question describes a solid reacting (for example, a carbonate with acid) and asks for a gas
+test, you are testing the gas that the reaction gives off, not testing the solid directly.
 
 ## Flame tests
 
@@ -151,7 +155,7 @@ ammonium, calcium, chromium(III), copper(II), iron(II), iron(III), zinc
 - Gas tests: ammonia, carbon dioxide, chlorine, hydrogen, oxygen, sulfur dioxide
 - Flame tests: lithium, sodium, potassium, calcium, barium, copper(II)
 
-There is no Core/Extended split to track here — every test on this page is
+There is no Core/Extended split to track for the tests — every *test* on this page is
 examinable for every candidate on both qualifications.
 
 ## Related resources

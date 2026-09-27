@@ -26,6 +26,10 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Identification of Ions and Gases study guide](/resources/identification-of-ions-and-gases/).
 
+> **Tier note:** the tests themselves are all 0620 Core: syllabus 12.5 has no Supplement outcomes. The
+> one item marked *(0620 Extended, 5070 required)* is a side explanation that uses the idea of a reducing
+> agent (6.4 outcomes 10 and 12). 5070 has no tiers, so O Level candidates need all of it.
+
 This topic is pure recall. Learn the **reagent, observation and conclusion** for each — all three are needed for full marks, since a correct colour change without naming the reagent used to produce it rarely scores in full.
 
 ## Flame tests
@@ -70,7 +74,7 @@ With **ammonia solution** instead: Fe²⁺ and Fe³⁺ give the same precipitate
 | Nitrate NO₃⁻ | Add NaOH + aluminium foil, warm | Ammonia gas produced |
 | Sulfite SO₃²⁻ | Add acidified potassium manganate(VII) | Purple solution **decolourises** |
 
-**Acidify first** in the halide and sulfate tests — otherwise carbonate present would also precipitate and give a false positive. The sulfite test and the sulfur dioxide gas test give the **same** result (acidified potassium manganate(VII) turns from purple to colourless), because both SO₃²⁻ and SO₂ are reducing agents. The sulfite test is done on the **solution**: the ions react with the manganate(VII) directly.
+**Acidify first** in the halide and sulfate tests — otherwise carbonate present would also precipitate and give a false positive. The sulfite test and the sulfur dioxide gas test give the **same** result (acidified potassium manganate(VII) turns from purple to colourless). *(0620 Extended, 5070 required)* This is because both SO₃²⁻ and SO₂ are reducing agents. The sulfite test is done on the **solution**: the ions react with the manganate(VII) directly.
 
 ## Gas tests
 
@@ -83,7 +87,7 @@ With **ammonia solution** instead: Fe²⁺ and Fe³⁺ give the same precipitate
 | Chlorine | Damp litmus paper | **Bleached** white |
 | Sulfur dioxide | Acidified aqueous potassium manganate(VII) | Purple → **colourless** |
 
-If a question gives a solid and asks for a gas test, you are testing the gas that reaction gives off — not the solid directly. See the [Identification of Ions and Gases study guide](/resources/identification-of-ions-and-gases/) for the reasoning behind every table above.
+If a question describes a solid reacting (for example, a carbonate with acid) and asks for a gas test, you are testing the gas that the reaction gives off — not the solid directly. See the [Identification of Ions and Gases study guide](/resources/identification-of-ions-and-gases/) for the reasoning behind every table above.
 
 ## Exam traps
 

@@ -31,6 +31,7 @@ syllabusTopics:
 description: "Condensed recall notes on metal properties, the reactivity series, displacement and rusting for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -38,9 +39,17 @@ Condensed for the final weeks. For the full explanation, use the
 [Metal Properties and Reactivity study guide](/resources/metal-properties-and-reactivity/),
 and test yourself with the [practice questions](/resources/metals-reactivity-practice/).
 
+> **Tier note:** items marked *(0620 Extended, 5070 required)* are in the Supplement column of the 0620
+> syllabus: metallic bonding and the structure-and-bonding explanation of metal properties (2.7, all
+> Supplement), displacement reactions with aqueous metal ions (9.4 outcome 4), aluminium's oxide layer
+> (9.4 outcome 5), and galvanising and sacrificial protection (9.5 outcomes 4–5). Everything else is
+> 0620 Core. 5070 has no tiers, so O Level candidates need all of it.
+
 ## Physical properties
 
-Metals share **good thermal and electrical conductivity**, **malleability** (can be hammered into shape without shattering) and **ductility** (can be drawn into wires), plus generally high melting and boiling points. All of these come from the same cause: **metallic bonding** — a lattice of positive ions in a "sea" of delocalised electrons. The delocalised electrons carry charge (conductivity) and heat, while the ions can slide past one another without breaking the bonding (malleability, ductility).
+Metals share **good thermal and electrical conductivity**, **malleability** (can be hammered into shape without shattering) and **ductility** (can be drawn into wires), plus generally high melting and boiling points.
+
+*(0620 Extended, 5070 required)* All of these come from the same cause: **metallic bonding** — a lattice of positive ions in a "sea" of delocalised electrons. The delocalised electrons carry charge (conductivity) and heat, while the ions can slide past one another without breaking the bonding (malleability, ductility).
 
 ## The reactivity series — learn the order
 
@@ -80,7 +89,7 @@ Consistent with the reactivity series: Mg sits well above Fe, and Fe is
 above hydrogen while Cu sits below it -- matching Cu's total lack of reaction.
 ```
 
-## Displacement
+## Displacement *(0620 Extended, 5070 required)*
 
 A more reactive metal displaces a less reactive one from its compound.
 
@@ -101,7 +110,7 @@ These are **redox**: the more reactive metal is oxidised (loses electrons); the 
 
 Aluminium needs electrolysis despite the cost because carbon cannot reduce it — electrolysis uses far more energy than heating with carbon, but it is the only option for a metal above carbon in the series.
 
-## Aluminium's apparent unreactivity
+## Aluminium's apparent unreactivity *(0620 Extended, 5070 required)*
 
 Aluminium is high in the reactivity series, above zinc and iron, but seems
 unreactive in everyday life. The reason: a thin, **impermeable layer of
@@ -119,27 +128,27 @@ iron + oxygen + water  ->  hydrated iron(III) oxide
 
 **Prevention:**
 - *Barrier* — painting, greasing, plastic coating, tin plating.
-- *Sacrificial protection* — attaching a **more reactive** metal (zinc, magnesium) which corrodes instead.
-- *Galvanising* — zinc coating: barrier **and** sacrificial, which is why it is preferred.
+- *(0620 Extended, 5070 required)* *Sacrificial protection* — attaching a **more reactive** metal (zinc, magnesium) which corrodes instead.
+- *(0620 Extended, 5070 required)* *Galvanising* — zinc coating: barrier **and** sacrificial, which is why it is preferred.
 
 ## Exam traps
 
 - Water gives hydroxide; **steam** gives oxide. Different products.
 - Salt does not cause rust — it speeds it up.
-- Sacrificial metal must be **more** reactive than iron.
-- A scratched tin can rusts **faster** than bare iron (tin is less reactive, so iron corrodes preferentially).
+- *(0620 Extended, 5070 required)* Sacrificial metal must be **more** reactive than iron.
+- *(0620 Extended, 5070 required)* A scratched tin can rusts **faster** than bare iron (tin is less reactive, so iron corrodes preferentially).
 - Extraction method follows the metal's position relative to **carbon**.
-- Explaining malleability or conductivity without mentioning the delocalised electron sea — "metals are shiny" is not a mechanism.
+- *(0620 Extended, 5070 required)* Explaining malleability or conductivity without mentioning the delocalised electron sea — "metals are shiny" is not a mechanism.
 - Ranking metals by acid reaction without linking the observation (vigour of fizzing) back to the reactivity series explicitly.
 
 ## Self-test
 
 1. Why is copper unreactive with dilute acid?
 2. Give the products of magnesium with steam.
-3. Will magnesium displace zinc from zinc sulfate? Explain.
+3. *(0620 Extended, 5070 required)* Will magnesium displace zinc from zinc sulfate? Explain.
 4. Why is aluminium extracted by electrolysis rather than with carbon?
-5. Why is galvanising better than tin plating?
-6. Explain, in terms of structure and bonding, why metals conduct electricity.
+5. *(0620 Extended, 5070 required)* Why is galvanising better than tin plating?
+6. *(0620 Extended, 5070 required)* Explain, in terms of structure and bonding, why metals conduct electricity.
 7. Zinc granules react steadily with dilute hydrochloric acid; magnesium ribbon reacts violently; lead reacts extremely slowly. Rank the three by reactivity.
 
 **Answers:** 1. It lies below hydrogen in the reactivity series, so it cannot displace hydrogen from the acid. 2. Magnesium oxide and hydrogen. 3. Yes — magnesium is more reactive than zinc, so it displaces zinc: Mg + ZnSO₄ → MgSO₄ + Zn. 4. Aluminium is above carbon in the reactivity series, so carbon cannot reduce its oxide; electrolysis is required. 5. Zinc is more reactive than iron, so it protects both as a barrier and sacrificially even when scratched; tin is less reactive, so a scratch causes the iron to corrode faster. 6. Metals have delocalised electrons in a "sea" around a lattice of positive ions; these electrons are free to move throughout the structure and carry charge, allowing conduction. 7. Magnesium (most vigorous) > Zinc (steady) > Lead (extremely slow) — matching their order in the reactivity series.

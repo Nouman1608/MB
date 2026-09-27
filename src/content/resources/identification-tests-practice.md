@@ -30,6 +30,8 @@ featured: false
 
 Related: [Identification of Ions and Gases revision notes](/resources/identification-tests-revision-notes/)
 
+> **Tier note:** everything on this page is 0620 Core (syllabus 12.5, which has no Supplement outcomes). 5070 has no tiers, so O Level candidates need all of it too.
+
 ---
 
 ## Questions

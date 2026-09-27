@@ -25,6 +25,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on homologous series, isomerism, alkanes, alkenes and alcohols for IGCSE Chemistry."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -35,47 +36,49 @@ featured: false
 
 Related: [Organic Chemistry revision notes](/resources/organic-chemistry-revision-notes/)
 
+> **Tier note:** questions and parts marked *(0620 Extended, 5070 required)* go beyond 0620 Core: the full list of homologous-series characteristics, structural formulae and structural isomers (syllabus 11.1 outcomes 7–9), naming unbranched compounds beyond methane and ethane, including locants (11.2 outcome 3), empirical formula (3.1 outcome 5), addition as a reaction type (11.5 outcomes 5–6), intermolecular forces (2.5 outcome 5) and comparing the two ways of making ethanol (11.6 outcome 4). Everything else is 0620 Core. 5070 has no tiers, so O Level candidates need all of it.
+
 ---
 
 ## Questions
 
-**1.** Define a homologous series, giving three characteristics. **[3]**
+**1.** *(0620 Extended, 5070 required)* Define a homologous series, giving three characteristics. **[3]**
 
 **2.** Give the general formula of the alkanes, alkenes and alcohols. **[3]**
 
-**3.** Name and draw or describe the structure of the first four alkanes. **[4]**
+**3.** *(0620 Extended, 5070 required)* Name and draw or describe the structure of the first four alkanes. **[4]**
 
-**4.** Define a structural isomer and give the two structural isomers of C₄H₁₀ with their names. **[3]**
+**4.** *(0620 Extended, 5070 required)* Define a structural isomer and give the two structural isomers of C₄H₁₀ with their names. **[3]**
 
 **5.** Describe how you would distinguish ethane from ethene.
 
 **(a)** State the reagent and both observations. **[3]**
-**(b)** Explain why the alkene reacts. **[2]**
+**(b)** *(0620 Extended, 5070 required)* Explain why the alkene reacts. **[2]**
 
 **6.** *(Extension beyond this resource's core scope — fractional distillation and cracking are covered in* [Petroleum, Alkanes and Alkenes](/resources/petroleum-alkanes-and-alkenes/) *; included here only because crude oil supplies the alkane/alkene feedstocks named above.)* Crude oil is separated by fractional distillation.
 
 **(a)** Explain the principle on which the separation depends. **[2]**
-**(b)** Explain why fractions collected near the top of the column have lower boiling points. **[2]**
+**(b)** *(0620 Extended, 5070 required)* Explain why fractions collected near the top of the column have lower boiling points. **[2]**
 **(c)** Explain why cracking is carried out. **[3]**
 
 **7.** *(Extension beyond this resource's core scope — ethanol production is covered in* [Alcohols and Carboxylic Acids](/resources/alcohols-and-carboxylic-acids/) *; included here only as a natural follow-on from the alcohol general formula in question 2.)* Ethanol can be made by fermentation.
 
 **(a)** State the conditions required. **[3]**
 **(b)** Write the word equation. **[1]**
-**(c)** Give one advantage and one disadvantage compared with hydration of ethene. **[2]**
+**(c)** *(0620 Extended, 5070 required)* Give one advantage and one disadvantage compared with hydration of ethene. **[2]**
 
-**8.** Propan-1-ol and propan-2-ol have the same molecular formula, C₃H₈O.
+**8.** *(0620 Extended, 5070 required)* Propan-1-ol and propan-2-ol have the same molecular formula, C₃H₈O.
 
 **(a)** Explain what a locant number tells you, using these two compounds as your example. **[2]**
 **(b)** State whether propan-1-ol and propan-2-ol are structural isomers of each other, giving a reason. **[2]**
 
 **9.** For butane, C₄H₁₀:
 
-**(a)** Give its empirical formula. **[1]**
+**(a)** *(0620 Extended, 5070 required)* Give its empirical formula. **[1]**
 **(b)** Explain the difference between its molecular formula and its displayed formula. **[2]**
 **(c)** State one piece of information a displayed formula gives that a molecular formula does not. **[1]**
 
-**10.** Ethene is bubbled through bromine water. State the colour change and name the type of reaction. **[2]**
+**10.** Ethene is bubbled through bromine water. State the colour change and name the type of reaction. *(Naming the type of reaction is 0620 Extended, 5070 required.)* **[2]**
 
 ---
 
@@ -105,7 +108,7 @@ Related: [Organic Chemistry revision notes](/resources/organic-chemistry-revisio
 
 **9. (a)** **C₂H₅** [1] (the simplest whole-number ratio of C to H, 4:10 simplified to 2:5).
 **(b)** The **molecular formula** (C₄H₁₀) gives only the total number of each type of atom [1]; the **displayed formula** shows every individual atom and every bond drawn out, including all C–H bonds [1].
-**(c)** It shows **which isomer** is being described — for example, whether the chain is straight (butane) or branched (methylpropane), which the molecular formula alone cannot distinguish [1].
+**(c)** It shows **which isomer** is being described — for example, whether the chain is straight (butane) or branched (methylpropane), which the molecular formula alone cannot distinguish [1]. (Also accept: it shows how the atoms are arranged and bonded to each other.)
 
 **10.** **Orange to colourless** [1]; **addition** reaction (bromine adds across the C=C double bond) [1].
 
@@ -115,21 +118,21 @@ Related: [Organic Chemistry revision notes](/resources/organic-chemistry-revisio
 
 ## Where marks are usually lost
 
-- Giving only one characteristic of a homologous series.
+- *(0620 Extended, 5070 required)* Giving only one characteristic of a homologous series.
 - Saying the alkene "turns bromine water brown" — it decolourises it.
 - Explaining fractional distillation without linking boiling point to chain length.
 - Giving only one reason for cracking.
-- Treating propan-1-ol and propan-2-ol as if they were the same compound, since they share a molecular formula — locant numbers exist precisely to distinguish them.
-- Confusing empirical formula (simplest ratio) with molecular formula (actual number of atoms) — for a compound like C₄H₁₀ these are different, but for others (like water, H₂O) they happen to be identical.
+- *(0620 Extended, 5070 required)* Treating propan-1-ol and propan-2-ol as if they were the same compound, since they share a molecular formula — locant numbers exist precisely to distinguish them.
+- *(0620 Extended, 5070 required)* Confusing empirical formula (simplest ratio) with molecular formula (actual number of atoms) — for a compound like C₄H₁₀ these are different, but for others (like water, H₂O) they happen to be identical.
 - Omitting C–H bonds when drawing a displayed formula — every bond, not just the "interesting" ones, must be shown.
 
 ## The four types of formula, side by side
 
 | Type | What it shows | Butane example |
 |---|---|---|
-| Empirical | Simplest whole-number ratio of atoms | C₂H₅ |
+| Empirical *(0620 Extended, 5070 required)* | Simplest whole-number ratio of atoms | C₂H₅ |
 | Molecular | Actual number of each atom in one molecule | C₄H₁₀ |
-| Structural | How atoms are grouped, without every bond drawn | CH₃CH₂CH₂CH₃ |
+| Structural *(0620 Extended, 5070 required)* | How atoms are grouped, without every bond drawn | CH₃CH₂CH₂CH₃ |
 | Displayed | Every atom and every bond drawn out in full | (all atoms and all bonds drawn out) |
 
 Examiners specifically ask for a displayed formula when they want to

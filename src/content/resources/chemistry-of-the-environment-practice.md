@@ -31,6 +31,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on air pollution, greenhouse gases, water treatment and fertilisers for IGCSE Chemistry."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -40,6 +41,8 @@ featured: false
 > these alongside the official past papers available free from your board.
 
 Related: [Chemistry of the Environment revision notes](/resources/chemistry-of-the-environment-revision-notes/)
+
+> **Tier note:** questions marked *(0620 Extended, 5070 required)* go beyond 0620 Core: how a catalytic converter removes oxides of nitrogen, with the equation (syllabus 10.3 outcome 8), and explaining how greenhouse gases cause global warming (10.3 outcome 7). Everything else is 0620 Core — water (10.1) and fertilisers (10.2) are entirely Core, and so are pollutant sources and effects and the strategies to reduce them (10.3 outcomes 1–4). 5070 has no tiers, so O Level candidates need all of it.
 
 ---
 
@@ -55,9 +58,9 @@ Related: [Chemistry of the Environment revision notes](/resources/chemistry-of-t
 
 **3.** Explain how sulfur dioxide leads to acid rain, and give two consequences. **[4]**
 
-**4.** Explain how a catalytic converter reduces pollution, giving one equation. **[3]**
+**4.** *(0620 Extended, 5070 required)* Explain how a catalytic converter reduces pollution, giving one equation. **[3]**
 
-**5.** Explain the greenhouse effect and name two greenhouse gases with a source for each. **[5]**
+**5.** *(0620 Extended, 5070 required)* Explain the greenhouse effect and name two greenhouse gases with a source for each. *(Naming the two gases and their sources is 0620 Core.)* **[5]**
 
 **6.** Water for domestic use is treated before supply.
 
@@ -94,7 +97,7 @@ Related: [Chemistry of the Environment revision notes](/resources/chemistry-of-t
 
 **2. (a)** From **incomplete combustion** of carbon-containing fuels [1]; it is **toxic**, binding to haemoglobin and reducing oxygen transport [1].
 **(b)** From burning **sulfur-containing fossil fuels** [1]; it causes **acid rain** and respiratory problems [1].
-**(c)** From **high-temperature combustion in engines**, where nitrogen and oxygen from the air react [1]; they cause **acid rain** and photochemical smog [1].
+**(c)** From **car engines** [1] (how they form — nitrogen and oxygen from the air reacting at the high temperature inside the engine — is *(0620 Extended, 5070 required)*); they cause **acid rain** and photochemical smog [1].
 
 **3.** SO₂ is released when sulfur-containing fuels burn [1]; it **dissolves in rainwater to form acid rain** [1] *(background, not required: in the atmosphere SO₂ may first be oxidised to SO₃, which then dissolves in water to form sulfuric acid directly — this oxidation step is not part of the syllabus)*. Consequences, any two: acidified lakes killing aquatic life; damage to trees and soil; **corrosion of limestone buildings** [1] [1].
 
@@ -128,7 +131,7 @@ Two gases with sources: **carbon dioxide** from burning fossil fuels [1]; **meth
 ## Where marks are usually lost
 
 - Giving the source of a pollutant without its effect.
-- Describing the greenhouse effect without mentioning the change in wavelength.
+- *(0620 Extended, 5070 required)* Describing the greenhouse effect without saying that the gases **absorb** thermal energy emitted by the Earth and **re-emit** it, reducing thermal energy loss to space.
 - Forgetting that eutrophication kills aquatic life specifically through **oxygen depletion** (the detailed algal-bloom mechanism is background, not required).
 - The water-treatment stages and chlorine's specific role are a genuinely weak recall area — vague answers like "it is purified" or "chlorine cleans it" don't get credit; name each stage in order and state exactly what chlorine does (kills bacteria/disease-causing microorganisms).
 - Confusing the two water tests (which only detect the presence of water) with a purity test (which requires comparing melting/boiling point against the known values for pure water).

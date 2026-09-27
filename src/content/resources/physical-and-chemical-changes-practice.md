@@ -19,6 +19,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on identifying and justifying physical vs chemical changes for IGCSE Chemistry."
 author: "nouman-ahmed"
 publishedDate: 2026-09-01
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -28,6 +29,8 @@ featured: false
 > these alongside the official past papers available free from your board.
 
 Related: [Physical and Chemical Changes revision notes](/resources/physical-and-chemical-changes/)
+
+> **Tier note:** everything on this page is 0620 Core (syllabus 6.1 outcome 1, which has no Supplement outcomes). 5070 has no tiers, so O Level candidates need all of it too.
 
 ---
 
