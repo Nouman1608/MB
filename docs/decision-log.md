@@ -14889,3 +14889,23 @@ Source: project doc `claude/audit-d354-d359-2026-09-27.md`, finding T-01.
 - **Guards:** tests pin these counts and the bank totals; every "Higher" mention in these banks must be a recognised label or on a reviewed allowlist; `validate-diagnostics.mjs` rejects 'core'/'extended' set slugs for these codes (negative case [AK]).
 - **4MA1 originality fix:** algebraic-manipulation Questions 2–6 repeated the specification's printed examples. They are replaced with original expressions (for example 2x² − 10x + 3 = 2(x − 2.5)² − 9.5), with marks and labels unchanged and answers checked by computer algebra and by hand. Number Question 4 now says "in one year".
 - **Not done:** the same specification examples appear on two other 4MA1 pages (`igcse-edexcel-mathematics-use-of-symbols-and-algebraic-manipulation.md` and `edexcel-igcse-mathematics-algebraic-manipulation-revision-notes.md`) and need checking.
+
+
+## D-375 - IB Global Politics and MYP hubs filled, 9709 Pure 1/2 subtopic pages, Cambridge past-papers guides (2026-09-28)
+
+**Owner request (28 Sep 2026, 02:30 PKT):** (1) get the missing IB documents and fill the remaining IB hubs, (2) start the deeper subtopic pages, (3) use the owner's folder of Cambridge examiner reports "to bring people to the website".
+
+- **IB (120 resources):** 8 new units each, each with a study guide, revision notes and a practice set, for DP Global Politics (full IB guide, first assessment 2026), MYP Sciences, MYP Design, MYP Individuals and Societies and MYP Language Acquisition (IB subject briefs). Each hub now has at least 10 of each type. MYP pages say plainly that MYP has no prescribed content list. They state as IB fact only what the brief prints. MYP science and I&S units use the eAssessment topics the brief lists. Every unit was independently verified (IB facts grepped against the official text, real-world facts web-checked, numbers recomputed in Python). About 60 fixes were applied, including ASEAN's 11th member (Timor-Leste, 2025) and the US Paris Agreement withdrawal taking effect in January 2026. 18 duplicate-scope groups were allow-listed with per-file evidence, because these courses have no subtopics.
+- **9709 (37 resources):** exact-subtopic pages for Pure Mathematics 1 sections 1.2-1.8 and Pure Mathematics 2 sections 2.1-2.6. All values were checked in sympy. The verifiers replaced 4 questions that resembled past-paper items. Existing Pure 3, Mechanics, P&S1 and mixed Pure 1 practice pages now map to the subtopics they actually test. 9709 exact-subtopic gaps: 33 of 38 -> 2 of 38.
+- **Past-papers guides (11 pages, `resourceType: past-papers`):** 0620, 0610, 9700, 9701, 9702, 9708, 9609, 9618, 2281, 7115, 1123. Each has:
+  - a 2019-2025 series index linking Cambridge's official past-papers page (no papers hosted);
+  - grade-threshold tables for every series in the owner's folder;
+  - a per-series note of what the Principal Examiner Report said;
+  - the errors the reports repeat.
+- **How the past-papers guides were built:**
+  - **Thresholds:** 1,245 rows were parsed by script from 107 Cambridge grade-threshold PDFs, and every row was matched back to the PDF text. For A Levels, only the linear full-A-Level routes and AS-only routes are shown; the rest are counted in a "Not shown" line.
+  - **Examiner-report notes:** 110 reports were summarised in our own words, with no question text or data.
+  - **Verification:** each page was independently checked against the report text itself, and about 90 wording fixes were made (overstated "many candidates" claims, wrong paper numbers). A script checks that no 8-word run is shared with any report.
+  - **Linking:** `/grade-thresholds/` now links every guide under "Earlier series".
+- **Source rules:** the Section 14 rules held. Confidential Instructions were not opened, and nothing from a report is reproduced.
+- **Not done:** 0580, 0625 and 9709 (plus 4024, 5054, and Edexcel/AQA except the IAL Chemistry January units) have no examiner reports in the folder, and the owner has been asked for them. The MYP Sciences and MYP I&S framework topics "key concepts" and "global contexts" still have no dedicated unit.

@@ -15,9 +15,17 @@ import Container from '../../components/layout/Container.astro';
 import { GRADE_THRESHOLDS, type Grade } from '../../data/academic/grade-thresholds.ts';
 import { routes } from '../../utils/urls/routes';
 import CTA from '../../components/ui/CTA.astro';
+import { getCollection } from 'astro:content';
 
 const path = '/grade-thresholds/';
 const GRADE_ORDER: Grade[] = ['A*', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'a', 'b', 'c', 'd', 'e'];
+
+// Past-papers guides (resourceType "past-papers") hold the earlier series'
+// thresholds; list them here so this page links every one of them.
+const PAST_PAPER_GUIDES = (await getCollection('resources'))
+  .filter((r) => r.data.resourceType === 'past-papers')
+  .map((r) => ({ slug: r.id, label: r.data.title.replace(/: Grade Thresholds.*$/, '').replace(/ Past Papers$/, ' past papers') }))
+  .sort((a, b) => a.label.localeCompare(b.label));
 ---
 <PageLayout
   title="Grade Threshold Explorer — Cambridge Grade Boundaries"
@@ -102,6 +110,21 @@ const GRADE_ORDER: Grade[] = ['A*', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'a', 'b',
         series might earn an A or a C in another — always check the threshold table for the exact series you sat, not
         a different one, and never assume this series' numbers will repeat next time.
       </p>
+    </Container>
+  </Section>
+
+  <Section surface="ivory" border>
+    <Container>
+      <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Earlier series: thresholds and examiner-report notes</h2>
+      <p class="m-0 mb-4 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
+        Our past-papers guides list the grade thresholds for every earlier series we hold (from 2020 onwards for some
+        syllabuses), copied from Cambridge's grade-threshold documents, with a note of what each series' examiner report said.
+      </p>
+      <ul class="m-0 grid list-none gap-2 p-0 text-[14.5px] sm:grid-cols-2">
+        {PAST_PAPER_GUIDES.map((g) => (
+          <li><a class="text-navy-800 underline decoration-gold-500 underline-offset-2" href={`/resources/${g.slug}/`}>{g.label}</a></li>
+        ))}
+      </ul>
     </Container>
   </Section>
 
