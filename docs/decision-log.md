@@ -14330,3 +14330,24 @@ The D-149 principle (no pop-ups or interstitials, and the material stays free) i
 **Scope.** English chrome only (`Header.astro`, `MobileMenu.astro`). The translated /ar/, /ur/ and /bn/ landing pages do not carry it: the portal itself is English-only, and those pages are commercial landing pages for prospective families, not existing students.
 
 **Validation.** `npm run build` passes; the built homepage contains the link.
+
+## D-343 - Revision notes for 0620/5070 organic and practical topics and 9701 28.3–28.5 (2026-09-27)
+
+**Why:** backlog B6/B7 of the resource library audit (D-339): the coverage matrix showed no revision notes for 0620/5070 11.3–11.7 and 12.1–12.4, or for 9701 28.3–28.5, although each already had a study guide and practice page.
+
+| New page | Syllabus points |
+|---|---|
+| `fuels-alkanes-and-alkenes-revision-notes` | 0620/5070 11.3–11.5 |
+| `alcohols-and-carboxylic-acids-revision-notes` | 0620/5070 11.6–11.7 (and 11.2 ester naming) |
+| `practical-techniques-revision-notes` | 0620/5070 12.1–12.4 |
+| `a-chemistry-transition-elements-colour-isomerism-kstab-revision-notes` | 9701 28.3–28.5 (A Level) |
+
+- Written from the official syllabuses (0620 and 5070 2026–2028; 9701 2025–2027) and the existing study guides. Each page is condensed: tables, key equations, exam traps, and a short self-test with answers.
+- 0620 Supplement items carry the "*(0620 Extended, 5070 required)*" label, checked line by line against the Supplement column. Where 5070 wording is wider (for example "combustion of alcohols"), a "5070 note" covers it.
+- Author: `marlbridge-academic-team`. `reviewStatus` is left at the review-pending default. The Kstab values on the 9701 page are labelled illustrative.
+- An independent AI reviewer checked every equation, calculation and tier label against the syllabus text. It found 4 unlabelled Supplement items and 4 wording or accuracy points (for example "propanol" should be "propan-1-ol", and Cu⁺ is not a safe "colourless" example). All were fixed. Points for the chemistry teacher to confirm are listed in section 10 of the audit report.
+- The coverage matrix and audit report are updated (21 matrix rows).
+
+**Not changed:** no existing page, diagnostic set, author or review status.
+
+**Validation:** build (all validators), audit:all, negative suite 37/37, cross-board regression, test:api 84, test:tools 72, test:practice-analytics 24, and astro check with 0 errors.
