@@ -128,6 +128,7 @@ def main():
         '|---|---|---|---|---|---|---|',
     ]
     detail = []
+    gaps = []
     for group, board, qual, subject, code in SCOPE:
         cands = [s for s in sylls if s['code'] == code and s['status'] == 'current' and s['board'] == board]
         if not cands:
@@ -155,12 +156,20 @@ def main():
         ntop = len(s['topics'])
         status = 'complete' if full_topics == ntop and ntop else 'gaps remain'
         subtxt = f'{sub_full} / {sub_total}' if sub_total else 'no subtopic data'
+        if full_topics < ntop:
+            gaps.append((1000 + (ntop - full_topics), f"{code}: {ntop - full_topics} of {ntop} topics still lack at least one of study guide / revision notes / practice set"))
+        if sub_total and sub_full < sub_total:
+            gaps.append((sub_total - sub_full, f"{code}: {sub_total - sub_full} of {sub_total} official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)"))
         lines.append(f"| {code} ({s['subject']}) | {s['series']} | {len(mine)} | {n_by_type['study-guides']} / {n_by_type['revision-notes']} / {n_by_type['practice-questions']} | {full_topics} / {ntop} | {subtxt} | {status} |")
         detail += ['', f"### {code} -- {s['subject']} ({s['board']} {s['qual']}, {s['series']})", '',
                    '| # | Topic | SG | RN | PQ | Subtopics missing a type (missing types) |', '|---|---|---|---|---|---|']
         for tp, have, complete, missing_subs in topic_rows:
             ms = ', '.join(missing_subs) if missing_subs else ('--' if tp['subtopics'] else 'topic has no subtopic data')
             detail.append(f"| {tp['number']} | {tp['name']} | {have['SG']} | {have['RN']} | {have['PQ']} | {ms} |")
+    gaps.sort(key=lambda g: -g[0])
+    lines += ['', '## Largest remaining gaps', '',
+              'Topic-level gaps first, then subtopic depth. Also outstanding, outside this table: the past-paper index (brief step 5) is not built, because per-series board links and examiner-report notes could not be verified; IB Global Politics and the four MYP subjects are waiting for their official IB documents.', '']
+    lines += [f'{i}. {g[1]}' for i, g in enumerate(gaps[:10], 1)]
     lines += ['', '## Detail by syllabus'] + detail
     open(os.path.join(ROOT, 'content-gap-report.md'), 'w', encoding='utf-8').write('\n'.join(lines) + '\n')
     print('\n'.join(lines[:12 + len(SCOPE)]))

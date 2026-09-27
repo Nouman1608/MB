@@ -1,6 +1,6 @@
 # Content gap report
 
-**Generated 28 Sep 2026, 00:09 PKT** by `python3 scripts/content-gap-report.py` (content-breadth sprint).
+**Generated 28 Sep 2026, 00:30 PKT** by `python3 scripts/content-gap-report.py` (content-breadth sprint).
 
 Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series only), which is the build-validated transcription of each board's official document. A topic counts as having a study guide (SG), revision notes (RN) or practice set (PQ) only if a resource of that type maps to it. Subtopic columns count exact subtopic mappings only. Nothing here says a page has been teacher-reviewed: all resources remain `review-pending`.
 
@@ -28,13 +28,28 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 | 9700 (biology) | For examination in 2025, 2026 and 2027 | 57 | 19 / 19 / 19 | 19 / 19 | 18 / 44 | complete |
 | 9709 (mathematics) | 2026-2027 | 22 | 8 / 6 / 8 | 6 / 6 | 5 / 38 | complete |
 | 4MA1 (mathematics) | Specification Issue 2, November 2017 | 18 | 6 / 6 / 6 | 6 / 6 | 17 / 36 | complete |
-| 4CH1 (chemistry) | Issue 3, September 2024 | 12 | 4 / 4 / 4 | 4 / 4 | 1 / 17 | complete |
+| 4CH1 (chemistry) | Issue 3, September 2024 | 14 | 4 / 4 / 6 | 4 / 4 | 1 / 17 | complete |
 | 4PH1 (physics) | Issue 4 | 24 | 8 / 8 / 8 | 8 / 8 | 30 / 30 | complete |
 | 4BI1 (biology) | Issue 3 | 15 | 5 / 5 / 5 | 5 / 5 | 1 / 12 | complete |
 | 8461 (biology) | For first teaching 2016 | 24 | 8 / 8 / 8 | 8 / 8 | 1 / 6 | complete |
 | 8462 (chemistry) | For teaching from September 2016 | 33 | 11 / 11 / 11 | 11 / 11 | 1 / 8 | complete |
 | 8463 (physics) | For first teaching 2016 | 29 | 10 / 9 / 10 | 8 / 8 | 29 / 30 | complete |
 | 8300 (mathematics) | For first teaching 2015 | 18 | 6 / 6 / 6 | 6 / 6 | 0 / 7 | complete |
+
+## Largest remaining gaps
+
+Topic-level gaps first, then subtopic depth. Also outstanding, outside this table: the past-paper index (brief step 5) is not built, because per-series board links and examiner-report notes could not be verified; IB Global Politics and the four MYP subjects are waiting for their official IB documents.
+
+1. DP Global Politics: 3 of 5 topics still lack at least one of study guide / revision notes / practice set
+2. MYP Language Acquisition: 3 of 5 topics still lack at least one of study guide / revision notes / practice set
+3. MYP Sciences: 3 of 5 topics still lack at least one of study guide / revision notes / practice set
+4. MYP Design: 3 of 4 topics still lack at least one of study guide / revision notes / practice set
+5. MYP Individuals and Societies: 3 of 6 topics still lack at least one of study guide / revision notes / practice set
+6. 0580: 72 of 72 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
+7. 9709: 33 of 38 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
+8. 9700: 26 of 44 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
+9. 4MA1: 19 of 36 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
+10. 4CH1: 16 of 17 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
 
 ## Detail by syllabus
 
@@ -340,8 +355,8 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 
 | # | Topic | SG | RN | PQ | Subtopics missing a type (missing types) |
 |---|---|---|---|---|---|
-| 1 | Principles of chemistry | 1 | 1 | 1 | 1a (SG/RN/PQ), 1b (SG/RN/PQ), 1c (SG/RN/PQ), 1d (SG/RN/PQ), 1e (SG/RN/PQ), 1f (SG/RN/PQ), 1g (SG/RN/PQ), 1h (SG/RN/PQ), 1i (SG/RN/PQ) |
-| 2 | Inorganic chemistry | 1 | 1 | 1 | a (SG/RN/PQ), b (SG/RN/PQ), c (SG/RN/PQ), e (SG/RN/PQ), f (SG/RN/PQ), g (SG/RN/PQ), h (SG/RN/PQ) |
+| 1 | Principles of chemistry | 1 | 1 | 2 | 1a (SG/RN/PQ), 1b (SG/RN/PQ), 1c (SG/RN/PQ), 1d (SG/RN/PQ), 1e (SG/RN), 1f (SG/RN/PQ), 1g (SG/RN/PQ), 1h (SG/RN/PQ), 1i (SG/RN/PQ) |
+| 2 | Inorganic chemistry | 1 | 1 | 2 | a (SG/RN), b (SG/RN), c (SG/RN), e (SG/RN/PQ), f (SG/RN), g (SG/RN), h (SG/RN) |
 | 3 | Physical chemistry | 1 | 1 | 1 | topic has no subtopic data |
 | 4 | Organic chemistry | 1 | 1 | 1 | topic has no subtopic data |
 

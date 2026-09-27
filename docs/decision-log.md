@@ -14725,3 +14725,23 @@ Source: project doc `claude/audit-d354-d359-2026-09-27.md`, finding T-01.
 **Open item:** the 0610 Extended diagnostic set includes one Core question (inheritance q1). Its scope label says "Extended content".
 
 **Process note:** the D-355 to D-358 decision-log merges garbled older entries because they went through a non-UTF-8 shell. D-360 repaired this. Decision-log changes are now made in UTF-8 tools only.
+
+
+## D-370 - Content-breadth sprint: 397 new resources, practice bank to 5 more codes (2026-09-28)
+
+**Owner brief (27 Sep 2026, 18:07 PKT):** widen coverage without lowering the bar, in six steps. Owner decisions taken at the start: **Step 6 (teacher as author + "reviewed by" credit) skipped** (it would reverse D-134/D-283 and credit reviews that have not happened), and **each completed syllabus is pushed straight to main**. Number D-370 was chosen because D-364 to D-368 are in use on branch `d-364-remaining-backlog`.
+
+**Method, every page:** written against the board's own document (IB guides for Maths AA/AI; IB subject briefs for ESS, Language A x2 and Language B; Cambridge, Pearson and AQA PDFs for the core sciences and maths), numbers computed in Python, then read in full by an independent checker who had not written it and who re-derived every number, checked tier labels and syllabus coverage, and fixed definite errors in place (about 200 fixes in total). Practice pages: original questions, `[1]` mark points summing to each allocation, one examiner-insight line per question stating marking conventions only (no named session, report or statistic), "Where marks are usually lost", next steps. All pages `review-pending`, byline Marlbridge Academic Team. `scripts/content-gap-report.py` writes `content-gap-report.md` (repo root).
+
+**Added (397):**
+- IB DP Maths AA 45 and AI 51: every numbered guide section now has a study guide, revision notes and a practice set.
+- IB DP ESS 30, Language A: Language and Literature 24, Language A: Literature 24, Language B 24 (each hub now 34-40 resources). Only course facts printed in the subject briefs are stated; public-domain (pre-1929) quotations were checked word for word against Gutenberg/Wikisource.
+- Core syllabuses (every topic in the official list now has all three types): 0610 44, 9700 40, 8462 26, 8463 21, 8461 17, 4MA1 12, 8300 11, 9709 9, 0625 7, 4BI1 6, 4CH1 6 (incl. 2 extra practice sets).
+- 18 duplicate-scope groups for the Language A units (no subtopics in those courses) reviewed and recorded in `REVIEWED_LEGITIMATE` with evidence.
+
+**Practice tool:** 4MA1 (60), 8461 (87), 8462 (122), 8463 (108) and 8300 (64 questions) added to `FLAGSHIP_DEFINITIONS`; 0610, 9700, 9709 and 4CH1 were already there (4CH1 raised from 31 to 54). One existing 4MA1 page fixed so it parses.
+
+**Not done, and why:**
+- IB Global Politics and MYP Language Acquisition, Sciences, Design, Individuals and Societies: the official PDFs could not be fetched (ibo.org bot check; the owner was asked to save them). No page written without them.
+- Step 5 (past-paper index): per-series links, thresholds and "what the series emphasised" notes need the boards' pages and examiner reports, which could not be verified in this session. Nothing published.
+- Existing pages flagged by checkers (not edited): several Language B / Language A pages state criteria, timings or marks the subject briefs do not print; a few older practice pages lack examiner-insight lines or topic-level mapping.
