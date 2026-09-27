@@ -15,6 +15,7 @@ syllabusTopics:
 description: "The seven characteristics of life, the binomial naming system and dichotomous keys, and how organisms are placed into kingdoms and groups -- the full content of Topic 1 for Cambridge IGCSE Biology 0610, 2026-2028 series."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -98,8 +99,8 @@ user step by step to a name:
 3.  Has fur or hair .......................... MAMMAL
     No fur or hair ............................ go to 4
 
-4.  Has gills and lives in water ............. FISH
-    No gills .................................. go to 5
+4.  Has fins and scales ...................... FISH
+    No fins ................................... go to 5
 
 5.  Has scaly, dry skin ...................... REPTILE
     Has moist skin ............................ AMPHIBIAN
@@ -109,6 +110,27 @@ Each numbered pair must offer **only two options**, based on a feature
 that can actually be observed on the specimen in front of you — vague
 or overlapping criteria (such as "large" without a stated size) make a
 key impossible to use consistently between different people.
+
+## Groups within the animal kingdom (Core)
+
+All candidates need the main features used to place animals in these groups (syllabus 1.3.2).
+
+| Vertebrate group | Main features |
+|---|---|
+| Mammals | Fur or hair; external ears (pinnae); mammary glands produce milk for the young |
+| Birds | Feathers; a beak; wings (front limbs); lay eggs with hard shells |
+| Reptiles | Dry, scaly skin; lay eggs with rubbery (leathery) shells, on land |
+| Amphibians | Moist skin with no scales; lay eggs without shells in water |
+| Fish | Scales; fins; gills for gas exchange |
+
+| Arthropod group | Main features |
+|---|---|
+| Insects | Three body parts (head, thorax, abdomen); three pairs of legs; one pair of antennae; usually two pairs of wings |
+| Arachnids | Two body parts; four pairs of legs; no antennae |
+| Crustaceans | More than four pairs of legs; two pairs of antennae; a hard exoskeleton (often with calcium carbonate) |
+| Myriapods | A long body with many segments; one or two pairs of legs on each segment; one pair of antennae |
+
+All arthropods have jointed legs, a segmented body and an exoskeleton. Exam questions often give a photo or description and ask which group an organism belongs to, so learn the features that tell the groups apart (e.g. counting legs and body parts).
 
 ## The five kingdoms (Supplement)
 
@@ -136,9 +158,10 @@ respiration (a chemical process releasing energy) from breathing or gas
 exchange, which students frequently conflate. For classification,
 practise constructing and reading dichotomous keys directly, since this
 is a practical skill examined by giving candidates a set of organisms
-and asking them to build or follow a key, not just define one. Extended
-candidates should be comfortable stating the five kingdoms and the
-named groups within the animal and plant kingdoms precisely — these
+and asking them to build or follow a key, not just define one. All candidates
+need the features of the vertebrate and arthropod groups; Extended
+candidates also need the five kingdoms and the plant groups (ferns and
+flowering plants, with monocotyledons and dicotyledons) — these
 recur as short-answer identification questions across past papers, and
 partial recall (getting the kingdom right but the wrong subgroup) is a
 common source of dropped marks.

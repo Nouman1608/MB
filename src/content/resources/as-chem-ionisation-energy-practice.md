@@ -17,9 +17,10 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-atomic-structure"
     subtopic: "as-ionisation-energy"
-description: "Original exam-style practice questions with full worked answers on ionisation energy trends, sub-shells and mass spectrometry for AS Chemistry."
+description: "Original exam-style practice questions with full worked answers on ionisation energy trends, sub-shells and electron configurations for AS Chemistry."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -36,7 +37,7 @@ Related: [Atomic Structure and Ionisation Energy revision notes](/resources/as-c
 
 **1.** Define first ionisation energy. **[3]**
 
-**2.** State the three factors that determine the size of an ionisation energy. **[3]**
+**2.** State three factors that affect the size of an ionisation energy. **[3]**
 
 **3.** Write the electron configuration of (a) Fe²⁺ (b) Cr. **[2]**
 
@@ -76,7 +77,7 @@ Related: [Atomic Structure and Ionisation Energy revision notes](/resources/as-c
 
 **1.** The energy required to remove **one mole of electrons** [1] from **one mole of gaseous atoms** [1] to form **one mole of gaseous 1+ ions** [1].
 
-**2.** **Nuclear charge** [1]; **atomic radius / distance of the outer electron from the nucleus** [1]; **shielding by inner shells** [1].
+**2.** Any three of: **nuclear charge** [1]; **atomic radius / distance of the outer electron from the nucleus** [1]; **shielding by inner shells** [1]; **spin-pair repulsion** (an electron removed from a doubly occupied orbital is easier to remove) or the **sub-shell** the electron is in (e.g. 3p is higher in energy than 3s) [1]. Maximum [3].
 
 **3. (a)** [Ar]3d⁶ [1] — the 4s electrons are lost first. **(b)** [Ar]3d⁵4s¹ [1].
 
@@ -94,7 +95,7 @@ Related: [Atomic Structure and Ionisation Energy revision notes](/resources/as-c
 
 **6.** Down the group the outer electron is in a shell **further from the nucleus** [1] with **more shielding** from inner shells [1], so the **attraction between the nucleus and the outer electron is weaker** and it is removed more easily [1].
 
-**7. (a)** Each of the three 2p orbitals holds **one unpaired electron first** (arrows pointing the same way) [1], and only the **fourth and fifth electrons** cause one orbital to become doubly occupied, with the second electron in that orbital having the **opposite spin** [1].
+**7. (a)** The first three 2p electrons go **one into each of the three 2p orbitals**, with parallel spins (arrows pointing the same way) [1]. The **fourth and fifth electrons pair up** with two of them, each with **opposite spin**, so the arrangement is ⇅ ⇅ ↑: **two orbitals doubly occupied and one singly occupied** [1].
 **(b)** This follows **Hund's rule** [1]. Electrons occupy separate orbitals singly before pairing up, because electrons carry the **same (negative) charge and repel each other**; spreading them across separate orbitals **minimises this repulsion**, making the configuration lower in energy than pairing electrons in fewer orbitals would be [1].
 
 **8.** The energy required to remove **one mole of electrons** from **one mole of gaseous Mg⁺ ions** [1], forming **one mole of gaseous Mg²⁺ ions** [1]. `Mg⁺(g) → Mg²⁺(g) + e⁻` [1].

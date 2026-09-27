@@ -28,6 +28,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on units of measure, area, perimeter, circles, arcs, sectors, surface area, volume and compound shapes for Cambridge IGCSE Mathematics 0580."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-01
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -37,6 +38,8 @@ featured: false
 > these alongside the official past papers available free from your board.
 
 Related: [Mensuration revision notes](/resources/igcse-mathematics-mensuration-revision-notes/)
+
+> **Tier note:** questions 1 to 10 are Core (0580 C5). Questions 11 to 13, marked *(Extended)*, are Extended only (E5.3 to E5.5): Core covers sectors only where the angle is a factor of 360°, and not frustums or other parts of solids. For 11 to 13, use the π key on your calculator.
 
 ---
 
@@ -74,6 +77,20 @@ Related: [Mensuration revision notes](/resources/igcse-mathematics-mensuration-r
 
 **10.** Calculate the area of a circle of radius 6 cm. Give your answer correct to 3 significant figures. **[2]**
 
+**11.** *(Extended)* A major sector of a circle has radius 7 cm and sector angle 250°. Calculate:
+
+(a) the arc length **[2]**
+(b) the area of the sector **[2]**
+(c) the perimeter of the sector. **[1]**
+
+**12.** *(Extended)* A solid cone has base radius 5 cm and perpendicular height 12 cm. Calculate:
+
+(a) its slant height **[2]**
+(b) its total surface area, giving your answer in terms of π **[2]**
+(c) its volume, correct to 3 significant figures. **[2]**
+
+**13.** *(Extended)* A solid cone has base radius 6 cm and height 12 cm. A smaller cone of height 4 cm is cut off the top, parallel to the base, leaving a frustum. Calculate the volume of the frustum, correct to 3 significant figures. **[4]**
+
 ---
 
 ## Answers
@@ -101,6 +118,20 @@ Related: [Mensuration revision notes](/resources/igcse-mathematics-mensuration-r
 **9.** SA = 4πr² → r² = 314.2 ÷ (4 × 3.142) [1] = 314.2 ÷ 12.568 = 25 [1] → r = √25 = **5 cm** [1].
 
 **10.** *A* = π*r*² = π × 6² [1] = 113.097… = **113 cm²** [1].
+
+**11. (a)** Arc length = (250/360) × 2 × π × 7 [1] = 30.54… = **30.5 cm** [1].
+**(b)** Area = (250/360) × π × 7² [1] = 106.90… = **107 cm²** [1].
+**(c)** Perimeter = arc + two radii = 30.54 + 7 + 7 = **44.5 cm** [1]. *Common mistake: leaving out the two radii.*
+
+**12. (a)** l² = 5² + 12² = 169 [1], so l = **13 cm** [1].
+**(b)** Curved surface = πrl = π × 5 × 13 = 65π; base = πr² = 25π [1]. Total = **90π cm²** [1] (about 283 cm²).
+**(c)** V = ⅓πr²h = ⅓ × π × 25 × 12 = 100π [1] = **314 cm³** [1].
+
+**13.** The small cone is similar to the large one, with height ratio 4 : 12 = 1 : 3, so its radius is 6 ÷ 3 = **2 cm** [1].
+Large cone: ⅓ × π × 6² × 12 = 144π [1]. Small cone: ⅓ × π × 2² × 4 = 16π/3 [1].
+Frustum = 144π − 16π/3 = 416π/3 = 435.6… = **436 cm³** [1].
+
+*Indicative marking only: these are original questions, and the mark allocation is Marlbridge's guide, not an official mark scheme.*
 
 *Common mistake:* using the diameter instead of the radius, or calculating 2π*r* (the circumference) instead of π*r*².
 

@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on photosynthesis, exchange and transport in plants, human circulation, digestion, breathing and respiration for OxfordAQA International GCSE Biology (9201)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -57,7 +58,7 @@ products, 1 mark for indicating light is required).
 amino acids) [1]. **Lipase** — breaks down fats/lipids (into fatty acids and glycerol) [1].
 
 **3.** If growth rate does not increase despite more carbon dioxide being available, carbon dioxide was
-not the limiting factor in this case [1]; either light or temperature must instead be limiting the rate
+not the limiting factor in this case [1]; another factor, for example light intensity or temperature, is limiting the rate
 of photosynthesis [1], and increasing carbon dioxide further will not raise growth until whichever factor
 actually is limiting is addressed [1].
 

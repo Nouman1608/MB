@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Condensed recall notes on binary, hexadecimal, character sets, images, sound and compression for Cambridge O Level Computer Science 2210."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -58,7 +59,7 @@ Bits shifted out are lost, so shifting can lose data — which is why repeated s
 ## Character sets
 
 **ASCII** — 7 bits, 128 characters; extended ASCII uses 8 bits for 256.
-**Unicode** — up to 32 bits in a fixed-width encoding, covering a very wide range of the world's writing systems.
+**Unicode** — can use up to 32 bits (4 bytes) per character, covering a very wide range of the world's writing systems; it needs more bits per character than ASCII, so text files are larger.
 
 **Unicode was needed because ASCII could not represent non-Latin scripts** such as Arabic, Chinese or Urdu. The trade-off is that Unicode text can require more storage per character.
 

@@ -13,6 +13,7 @@ import { relatedResources, relatedArticles, topicSiblings } from '../../utils/co
 import { articleNode } from '../../utils/schema/article';
 import { routes, resourceUrl } from '../../utils/urls/routes';
 import { syllabusFor } from '../../data/academic/syllabuses';
+import { syllabusPointsFor } from '../../utils/academic/syllabus-points';
 import { PRICING_TERMS, ONE_TO_ONE_ONLY_PRICING, isOneToOneOnlyCourse, formatFee } from '../../data/pricing';
 import { LEVEL_FOR_QUALIFICATION, taughtOnly, activeOnly, academicHubPath } from '../../utils/academic';
 import { matrixSlugsFor } from '../../utils/content/status';
@@ -116,6 +117,10 @@ const oneToOneOnlyFee = oneToOneOnly ? ` One-to-one only for this course: ${ONE_
  * auto-renders filter checkboxes for any data-pagefind-filter value found.
  */
 const boardNames = d.boards.map((slug) => boardBySlug(slug)?.name).filter((n): n is string => Boolean(n));
+// D-339 -- the syllabus points this page is mapped to, with the verified 0620 tier
+// (Core / Extended only / both) and the 9701 stage. See utils/academic/syllabus-points.ts.
+const syllabusPoints = syllabusPointsFor({ boards: d.boards, subject: d.subject.id, syllabusTopics: d.syllabusTopics, syllabusCodes: d.syllabusCodes });
+const hasTieredPoints = syllabusPoints.some((g) => g.tiered && g.points.some((p) => p.tier));
 const qualificationNames = d.qualifications.map((slug) => qualificationBySlug(slug)?.name).filter((n): n is string => Boolean(n));
 
 /**
@@ -294,6 +299,22 @@ const jsonLd = [articleNode({
         ))}
       </p>
     )}
+    {syllabusPoints.length > 0 && (
+      <details data-testid="syllabus-points" data-mb-syllabus-points class="mt-2">
+        <summary class="cursor-pointer text-ink">Syllabus points this page covers{hasTieredPoints ? ', with Core and Extended' : ''}</summary>
+        {syllabusPoints.map((g) => (
+          <div class="mt-2">
+            <p class="m-0 font-medium text-ink">{g.code}{g.stage ? ` (${g.stage})` : ''}{!g.tiered && syllabusPoints.some((o) => o.tiered) ? ': not tiered, so all of it is required' : ''}</p>
+            <ul class="m-0 mt-1 list-none p-0">
+              {g.points.map((pt) => (
+                <li class="m-0">{pt.number} {pt.name}{pt.tier && <span class="text-ink"> · {pt.tier}</span>}</li>
+              ))}
+            </ul>
+          </div>
+        ))}
+        {hasTieredPoints && <p class="m-0 mt-2">"Core and Extended" means part of that syllabus point is Extended only. The page's own tier notes say which part.</p>}
+      </details>
+    )}
     <p class="m-0 mt-1"><a href={correctionHref} class="underline decoration-gold-500 underline-offset-2">Found an error? Report a correction.</a></p>
     {/* D-326 -- GA4 (27 Aug-23 Sep 2026): resource pages take ~60% of views,
         but only ~13% of visitors scroll to the tuition block at the foot of
@@ -421,3 +442,15 @@ const jsonLd = [articleNode({
     </Container>
   </Section>
 </PageLayout>
+
+<script>
+  // D-339 -- measure whether students open the syllabus-points list (existing consent-aware mbTrack).
+  document.querySelectorAll<HTMLDetailsElement>('[data-mb-syllabus-points]').forEach((el) => {
+    el.addEventListener('toggle', () => {
+      if (!el.open) return;
+      try {
+        (window as unknown as { mbTrack?: (n: string, p: Record<string, unknown>) => void }).mbTrack?.('recommended_resource_click', { source: 'syllabus_points', link_kind: 'open' });
+      } catch { /* never block */ }
+    }, { once: true });
+  });
+</script>
