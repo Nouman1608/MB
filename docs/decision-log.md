@@ -14411,3 +14411,54 @@ Validation: build OK; `audit:all` PASS (2,282 pages); `check` 0 errors; `test:i1
 **Change.** The header and mobile-menu "Portal Login" links (D-342) now open `https://portal.marlbridge.com/login` instead of `https://learnerspreschool.cloud/login`. The portal deployment answers on that subdomain (Cloudflare A record to the app server, certificate extended) and shows Marlbridge branding when reached through it; users, data and login are unchanged.
 
 **Validation.** `npm run build` passes; the built homepage carries the new href in both places.
+
+## D-349 - Auditor handoff of 27 Sep: open fixes R-01 to R-09 (2026-09-27)
+
+Source: project doc `claude/auditor-handoff-open-fixes-2026-09-27.md` (written 27 Sep 2026, 17:35 PKT, by the auditor, from `website-audit-2026-09-25-detailed.md` F-11 to F-20). The handoff said to start at D-348; D-348 was taken by the Portal Login change (#94), so this batch is D-349. Repaired 27 Sep 2026, about 17:40 PKT. No price, discount or policy changed, and no teacher data, address or claim was invented.
+
+- **R-01 (/pricing/ "date below" and literal `--`).** The auditor quoted: "Pricing last verified 2026-08-20. … The date below is when they were last confirmed." — the date came before the sentence. Both shared notes (`PRICING_TERMS.notPermanentNote`, `ONE_TO_ONE_TERMS.notPermanentNote` in `src/data/pricing.ts`) no longer point up or down; every page that uses them already prints its own dated line next to them. `TuitionPanel.astro` no longer strips the old phrase. On /pricing/, "above -- per class" is now "above: per class", and the discounts sentence uses brackets. Whole family: rendered text across the site had 8,066 literal " -- " on 1,512 pages (counted on the 27 Sep build). New build step `src/integrations/typographic-dashes.mjs` (astro:build:done, before Pagefind) sets a spaced `--` as a spaced en dash in visible text only, never inside script, style, pre, code, textarea, tags or attributes. After the build: 0 in the visible text of /pricing/, and 0 anywhere outside code blocks. The only remaining "date above" sentences are on the three legal pages, where the date really is above.
+- **R-02 (home hero omits IB).** The hero now adds "IB (Middle Years Programme and Diploma Programme) is taught one-to-one." It is derived from the matrix (an ACTIVE `ib` combination), like the board list. The one-to-one wording is from `IB_PRICING.deliveryMode`. The translated home pages already name IB in their pricing note, so they were left alone.
+- **R-03 (llms.txt).** The practice line was hand-typed and named five subjects. It is now generated from `src/data/diagnostics.ts`: "31 diagnostic sets across 19 syllabus codes", plus a new "Diagnostics" section listing every code with links to its sets. Also new: a "Pricing" line, a "Teachers" section generated from the published person profiles (21), and a Learners Academy line using the site's own wording ("the international branch of Learners Academy … which operates it").
+- **R-04 (organisation schema).** `src/utils/schema/organization.ts` now emits:
+  - `address` as a PostalAddress from `site.about.address` (owner-confirmed 2026-09-21: Commercial 17/18, Block B, Al-Kabir Town, Lahore, PK);
+  - `areaServed`: every region with its own row in `REGION_PRICING` (nine countries and Europe; "Other countries" is a price tier, so it is left out);
+  - `parentOrganization`: Learners Academy, https://learnersacademy.com.pk.
+
+  The structured-data audit is still at 0 problems.
+- **R-05 (teacher profiles, fees).** A profile whose boards include a one-to-one-only course (D-335: every OCR course; OxfordAQA Islamiyat and Pakistan Studies, matched on the profile's own subjects) now shows `ONE_TO_ONE_ONLY_NOTE` with "In Pakistan 6,000 PKR per class" (`ONE_TO_ONE_ONLY_PRICING`). Seven profiles show it: Azam Siddique, Harris Zaman, Iftikhar Azeemi, Muhammad Ghazali Siddiqui, Nouman Ahmed, Saad Zai and Salman Ahmad. The "see all fees" link is now "Fees in your currency" and still points to /pricing/.
+- **R-06 (no ETag on HTML).** Cause: live `/robots.txt` has an ETag, but `/trial/` served to a visitor outside the UK/Europe has none, because the D-280 HTMLRewriter (consent region) drops it. `applyConsentRegion` (`src/worker/consent-region.ts`) now:
+  - gives the rewritten page a weak ETag, `W/"<asset tag>-optout"`;
+  - answers a matching `If-None-Match` with 304 and no body;
+  - still sends a full 200 for a stale tag.
+
+  Three new tests are in `src/worker/__tests__/consent-region.test.mjs` (10 pass). The live check (a second request with `If-None-Match` getting 304) can only be made after deploy.
+- **R-07 (page weight).**
+  - `/resources/` no longer renders every card. Each type lists its subjects with counts, each linking to the new page `/resources/<type>/<subject>/` (`src/pages/resources/[type]/[subject].astro`, 155 pages, largest 101 KB), which lists every resource of that type in that subject. The old client-side filter script and CSS are removed.
+  - An author page with more than 24 resources shows 12 and links to `/authors/<slug>/resources/` (48 per page, numbered pages).
+  - Family: the three translated resource directories (476 KB each) now list subjects per type, linking to the same pages.
+
+  | Page | Before | After |
+  |---|---|---|
+  | /resources/ | 1,681,639 bytes | 101,358 |
+  | /authors/marlbridge-academic-team/ | 1,161,876 | 42,274 |
+  | /ar/resources/ | 476,432 | 75,391 |
+
+  Every resource is still linked: the internal-links audit passes across 2,481 pages. Observation, not actioned: three subject hubs are also over 200 KB (`/boards/cambridge/a-level/chemistry/` 267 KB, `/subjects/chemistry/` 258 KB and `/subjects/physics/` 226 KB, each listing 259 to 307 resources). They were not in the handoff, and splitting them changes the hub design, so they are left for a separate decision.
+- **R-08 (font swap shift).** Metric-matched fallback faces are added in `src/styles/fonts.css` and put in the font stacks:
+  - "Newsreader Fallback" (Georgia) and "Newsreader Fallback Times" (Times New Roman, Liberation Serif, Tinos);
+  - "Public Sans Fallback" (Arial, Liberation Sans, Arimo).
+
+  The overrides are computed from the web fonts' own tables (read with fontTools from the woff2 files) and the fallbacks' metrics from @capsizecss/metrics. Measured in Chromium, with every font delayed 800 ms: CLS on / is 0.0000 (desktop) and 0.0001 (mobile), and on /trial/ 0.0012 and 0.0001. This was measured with Playwright's layout-shift observer, not a Lighthouse run.
+- **R-09 (language switcher targets).** Each switcher link in `LocaleLayout.astro` is now at least 24 by 24 px (`inline-flex min-h-6 min-w-6`). Measured at 412 px wide on /ar/, /ur/, /ar/resources/ and /ur/resources/: every link is 24 px high and 29 to 54 px wide.
+
+Validation:
+- build OK;
+- `audit:all` PASS, 0 problems across 2,481 pages;
+- `check` 0 errors;
+- `test:i18n-routes` OK;
+- `test:tools` 72 pass / 0 fail;
+- `test:api` 87 / 0;
+- `test:practice-analytics` OK;
+- negative-validation suite 0;
+- cross-board regression 0;
+- `node --test` 130 / 0.

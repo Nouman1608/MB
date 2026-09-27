@@ -142,6 +142,37 @@ const studyResourcesLine = presentCategoryLabels.length
   ? `- [Study resources](${SITE_URL}/resources/): ${presentCategoryLabels.join(', ')}.`
   : `- [Study resources](${SITE_URL}/resources/): study material published as it is written.`;
 
+// D-349 (audit R-03) -- the practice line used to be typed by hand and
+// named five subjects while 31 diagnostic sets existed. It is now generated
+// from src/data/diagnostics.ts, one entry per syllabus code, with the names
+// taken from the matrix row the set belongs to.
+const { DIAGNOSTIC_SETS } = JSON.parse(tsx('src/data/diagnostics.ts'));
+const diagCodes = [];
+for (const set of DIAGNOSTIC_SETS) {
+  let entry = diagCodes.find((e) => e.code === set.code);
+  if (!entry) {
+    const row = MATRIX.find((c) => c.boardSlug === set.boardSlug && c.qualificationSlug === set.qualificationSlug && c.subjectSlug === set.subjectSlug);
+    const label = row ? `${row.board} ${row.qualification} ${row.subject}` : `${set.boardSlug} ${set.qualificationSlug} ${set.subjectSlug}`;
+    entry = { code: set.code, label, sets: [] };
+    diagCodes.push(entry);
+  }
+  entry.sets.push(`[${set.slug}](${SITE_URL}/practice/${set.code}/diagnostic/${set.slug}/)`);
+}
+const diagnosticLines = diagCodes.map((e) => `- ${e.label} (${e.code}): ${e.sets.join(', ')}.`);
+
+// D-349 (audit R-03) -- teacher profiles, from the authors collection.
+const authorsDir = 'src/content/authors';
+const teacherLines = [];
+for (const file of (await readdir(authorsDir)).filter((f) => f.endsWith('.md')).sort()) {
+  const fm = (await readFile(join(authorsDir, file), 'utf8')).split('---')[1] ?? '';
+  if (!/^entityType:\s*person\s*$/m.test(fm)) continue;
+  if (/^publicationState:\s*draft\s*$/m.test(fm)) continue;
+  const name = (fm.match(/^name:\s*"([^"]+)"/m) || [])[1];
+  const role = (fm.match(/^role:\s*"([^"]+)"/m) || [])[1];
+  if (!name) continue;
+  teacherLines.push(`- [${name}](${SITE_URL}/authors/${file.replace(/\.md$/, '')}/)${role ? `: ${role}.` : ''}`);
+}
+
 const lines = [
   `# ${SITE_NAME}`,
   '',
@@ -166,16 +197,25 @@ const lines = [
   studyResourcesLine,
   // D-286 -- the free revision tools.
   `- [Revision planner](${SITE_URL}/revision-planner/): free weekly revision plan from a student's subjects, exam dates, free time and topic confidence; runs in the browser, no account.`,
-  `- [Practice and 10-minute diagnostics](${SITE_URL}/practice/): self-marked study checks and self-check questions with worked answers for Cambridge IGCSE Chemistry, Physics, Mathematics and A Level Chemistry, Physics.`,
+  `- [Practice and 10-minute diagnostics](${SITE_URL}/practice/): self-marked study checks and self-check questions with worked answers; ${DIAGNOSTIC_SETS.length} diagnostic sets across ${diagCodes.length} syllabus codes (listed under "Diagnostics" below).`,
   `- [Printable syllabus checklists](${SITE_URL}/checklists/)`,
   `- [Free trial class](${SITE_URL}/trial/): request a free trial class with a subject teacher (we match a specialist teacher and confirm a time).`,
   `- [Programs](${SITE_URL}/programs/): Marlbridge's programs by qualification; each program page says whether it is taught now.`,
-  `- [Tutoring](${SITE_URL}/tutoring/)`,
+  `- [Tutoring](${SITE_URL}/tutoring/): the teachers and how classes work; each teacher's profile is listed under "Teachers" below.`,
+  `- [Pricing](${SITE_URL}/pricing/): group fees per subject per month by region, one-to-one and IB fees per class, discounts and the free trial class.`,
   `- [International online tutoring](${SITE_URL}/international-tutoring/): all classes are taught live online from Lahore, Pakistan (in person in Lahore too); class times by time zone and fees by country. Marlbridge has no office outside Pakistan.`,
   `- Country pages: [Pakistan](${SITE_URL}/pakistan/), [United Kingdom](${SITE_URL}/uk/), [United Arab Emirates](${SITE_URL}/uae/), [Qatar](${SITE_URL}/qatar/), [Malaysia](${SITE_URL}/malaysia/), [Gulf](${SITE_URL}/gulf/).`,
   `- [For Schools](${SITE_URL}/schools/)`,
-  `- [About Marlbridge](${SITE_URL}/about/)`,
+  `- [About Marlbridge](${SITE_URL}/about/): Marlbridge is the international branch of Learners Academy (https://learnersacademy.com.pk), which operates it; its teachers teach under the Marlbridge name.`,
   `- [Contact](${SITE_URL}/contact/)`,
+  '',
+  '## Diagnostics',
+  '',
+  ...diagnosticLines,
+  '',
+  '## Teachers',
+  '',
+  ...teacherLines,
   '',
 ];
 

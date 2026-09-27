@@ -51,6 +51,10 @@ const heroBoards = [...new Set(
 const boardList = heroBoards.length > 1
   ? `${heroBoards.slice(0, -1).join(', ')} and ${heroBoards[heroBoards.length - 1]}`
   : heroBoards[0] ?? '';
+/** D-349 (audit R-02) -- IB is taught (one-to-one only, IB_PRICING.deliveryMode)
+ * but the board list above covers IGCSE/O Level/A Level only, so the hero
+ * never mentioned it. Derived from the matrix, like the board list. */
+const teachesIb = activeOnly().some((c) => c.boardSlug === 'ib');
 
 const proof = [
   'First class free',
@@ -67,7 +71,7 @@ const proof = [
       Online IGCSE, O Level and A Level tuition with specialist teachers.
     </h1>
     <p class="mt-[clamp(22px,3.5vh,32px)] max-w-[52ch] text-[length:var(--text-lead)] leading-[1.55] text-on-navy">
-      Marlbridge teaches {boardList} courses one-to-one and in small groups &mdash; in person in Pakistan, and online wherever a student studies. Every class is taught by a named subject specialist.
+      Marlbridge teaches {boardList} courses one-to-one and in small groups &mdash; in person in Pakistan, and online wherever a student studies.{teachesIb && ' IB (Middle Years Programme and Diploma Programme) is taught one-to-one.'} Every class is taught by a named subject specialist.
     </p>
     <div class="mt-[clamp(28px,4vh,40px)] flex flex-wrap gap-3.5">
       <Button href={`${routes.trial}?source=home`} variant="onDark" size="lg" data-cta="hero-trial">Request a free trial</Button>

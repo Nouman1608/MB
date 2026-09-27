@@ -50,7 +50,38 @@ export function applyConsentRegion(request: Request, response: Response): Respon
   if (consentRegionFor(country) !== 'optout') return response;
   const Rewriter = (globalThis as unknown as { HTMLRewriter?: new () => HtmlRewriterLike }).HTMLRewriter;
   if (typeof Rewriter !== 'function') return response;
-  return new Rewriter()
+  // D-349 (audit R-06) -- rewriting the body drops the asset's ETag, so every
+  // repeat visit outside the UK/Europe downloaded the whole page again. The
+  // rewritten page gets its own weak ETag (the asset's tag plus the region),
+  // and a matching If-None-Match gets a 304.
+  const assetTag = response.headers.get('etag');
+  const tag = assetTag ? optoutEtag(assetTag) : null;
+  if (tag && response.status === 200 && ifNoneMatchHits(request.headers.get('if-none-match'), tag)) {
+    const headers = new Headers(response.headers);
+    headers.delete('content-length');
+    headers.delete('content-type');
+    headers.set('etag', tag);
+    return new Response(null, { status: 304, headers });
+  }
+  const rewritten = new Rewriter()
     .on('html', { element(el) { el.setAttribute('data-mb-consent-region', 'optout'); } })
     .transform(response);
+  if (!tag) return rewritten;
+  const out = new Response(rewritten.body, rewritten);
+  out.headers.set('etag', tag);
+  return out;
+}
+
+/** W/"<asset tag>-optout": weak, because the bytes differ from the asset's. */
+export function optoutEtag(assetTag: string): string {
+  const opaque = assetTag.replace(/^W\//, '').replace(/^"|"$/g, '');
+  return `W/"${opaque}-optout"`;
+}
+
+/** RFC 9110 weak comparison against an If-None-Match list (or "*"). */
+export function ifNoneMatchHits(header: string | null, tag: string): boolean {
+  if (!header) return false;
+  const strip = (t: string) => t.trim().replace(/^W\//, '');
+  if (header.trim() === '*') return true;
+  return header.split(',').some((t) => strip(t) === strip(tag));
 }

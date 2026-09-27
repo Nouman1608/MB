@@ -120,9 +120,10 @@ const jsonLd = [...siteGraph(), webPageNode(path, title, description)];
         </nav>
         <div class="flex shrink-0 items-center gap-3">
           <a href={localePath(locale, 'trial')} class="hidden rounded-sm bg-gold-500 px-4 py-2.5 text-[13.5px] font-semibold text-navy-800 hover:bg-gold-600 sm:inline-flex">{nav.ctaTrial}</a>
-          <nav aria-label={nav.languageLabel} class="flex gap-3 text-[13.5px]">
+          {/* D-349 (audit R-09) -- each link at least 24x24 px (WCAG 2.5.8). */}
+          <nav aria-label={nav.languageLabel} class="flex gap-2 text-[13.5px]">
             {switcherLinks.map((l) => (
-              <a href={l.href} class={l.href === path ? 'font-semibold text-white' : 'text-ivory/70 hover:text-white'}>{l.label}</a>
+              <a href={l.href} class={`inline-flex min-h-6 min-w-6 items-center justify-center px-1 ${l.href === path ? 'font-semibold text-white' : 'text-ivory/70 hover:text-white'}`}>{l.label}</a>
             ))}
           </nav>
         </div>

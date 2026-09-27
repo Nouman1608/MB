@@ -62,3 +62,48 @@ test('HTML for a Pakistan visitor goes through HTMLRewriter and sets the marker'
     delete globalThis.HTMLRewriter;
   }
 });
+
+// D-349 (audit R-06) -- the rewritten page keeps a (region-specific) ETag,
+// and a repeat request with that tag gets a 304.
+import { optoutEtag, ifNoneMatchHits } from '../consent-region.ts';
+
+test('optout ETag is weak and derived from the asset tag', () => {
+  assert.equal(optoutEtag('"abc123"'), 'W/"abc123-optout"');
+  assert.equal(optoutEtag('W/"abc123"'), 'W/"abc123-optout"');
+});
+
+test('If-None-Match uses weak comparison and accepts lists and *', () => {
+  const tag = 'W/"abc-optout"';
+  assert.equal(ifNoneMatchHits(null, tag), false);
+  assert.equal(ifNoneMatchHits('"abc-optout"', tag), true);
+  assert.equal(ifNoneMatchHits('"x", W/"abc-optout"', tag), true);
+  assert.equal(ifNoneMatchHits('"abc"', tag), false);
+  assert.equal(ifNoneMatchHits('*', tag), true);
+});
+
+test('Pakistan visitor: rewritten HTML carries the optout ETag; a matching If-None-Match gets 304', () => {
+  globalThis.HTMLRewriter = class {
+    on() { return this; }
+    transform(response) { return new Response(response.body, response); }
+  };
+  try {
+    const first = new Request('https://marlbridge.com/trial/');
+    Object.defineProperty(first, 'cf', { value: { country: 'PK' } });
+    const asset = () => new Response('<html></html>', { status: 200, headers: { 'content-type': 'text/html', etag: '"abc"' } });
+    const r1 = applyConsentRegion(first, asset());
+    assert.equal(r1.status, 200);
+    assert.equal(r1.headers.get('etag'), 'W/"abc-optout"');
+
+    const second = new Request('https://marlbridge.com/trial/', { headers: { 'if-none-match': r1.headers.get('etag') } });
+    Object.defineProperty(second, 'cf', { value: { country: 'PK' } });
+    const r2 = applyConsentRegion(second, asset());
+    assert.equal(r2.status, 304);
+    assert.equal(r2.headers.get('etag'), 'W/"abc-optout"');
+
+    const changed = new Request('https://marlbridge.com/trial/', { headers: { 'if-none-match': 'W/"old-optout"' } });
+    Object.defineProperty(changed, 'cf', { value: { country: 'PK' } });
+    assert.equal(applyConsentRegion(changed, asset()).status, 200);
+  } finally {
+    delete globalThis.HTMLRewriter;
+  }
+});

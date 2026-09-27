@@ -1,0 +1,67 @@
+---
+/**
+ * D-349 (audit R-07) -- every resource by one author, 48 to a page, so the
+ * profile page no longer carries the whole list (the Academic Team byline
+ * was 1.16 MB). Only authors with more than the profile's preview get
+ * these pages; see AUTHOR_RESOURCE_PREVIEW in ../../[slug].astro.
+ */
+import type { GetStaticPaths } from 'astro';
+import PageLayout from '../../../../layouts/PageLayout.astro';
+import Section from '../../../../components/layout/Section.astro';
+import Container from '../../../../components/layout/Container.astro';
+import ResourceCard from '../../../../components/cards/ResourceCard.astro';
+import { getAuthors } from '../../../../utils/content/collections';
+import { resourcesByAuthor } from '../../../../utils/content/related';
+import { routes } from '../../../../utils/urls/routes';
+
+export const getStaticPaths = (async ({ paginate }) => {
+  // getStaticPaths runs on its own, so its constants live inside it.
+  const PER_PAGE = 48;
+  const PREVIEW = 24; // must match AUTHOR_RESOURCE_PREVIEW on the profile page
+  const out = [];
+  for (const author of await getAuthors()) {
+    const resources = await resourcesByAuthor(author.id);
+    if (resources.length <= PREVIEW) continue;
+    out.push(...paginate(resources, { pageSize: PER_PAGE, params: { slug: author.id }, props: { author } }));
+  }
+  return out;
+}) satisfies GetStaticPaths;
+
+const { page, author } = Astro.props;
+const name = author.data.name;
+const path = routes.authorResources(author.id, page.currentPage);
+const suffix = page.lastPage > 1 ? ` (page ${page.currentPage} of ${page.lastPage})` : '';
+---
+<PageLayout
+  title={`Resources by ${name}${suffix}`}
+  description={`All ${page.total} free resources published on Marlbridge by ${name}${suffix}.`}
+  path={path}
+  eyebrow="Resources"
+  heading={`Resources by ${name}`}
+  lead={`${page.total} published. Showing ${page.start + 1} to ${page.end + 1}.`}
+  breadcrumbs={[
+    { label: 'Home', href: routes.home },
+    { label: name, href: routes.author(author.id) },
+    { label: 'Resources', href: routes.authorResources(author.id) },
+  ]}
+>
+  <Section surface="white">
+    <Container>
+      <h2 class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{page.lastPage > 1 ? `Page ${page.currentPage} of ${page.lastPage}` : `All ${page.total}`}</h2>
+      <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
+        {page.data.map((r) => <li class="m-0"><ResourceCard entry={r} /></li>)}
+      </ul>
+      {page.lastPage > 1 && (
+        <nav aria-label="Pages" class="mt-10 flex flex-wrap items-center gap-2 text-[15px]">
+          {page.currentPage > 1 && <a href={routes.authorResources(author.id, page.currentPage - 1)} rel="prev" class="rounded-sm border border-rule px-3 py-1.5 hover:border-gold-500">Previous</a>}
+          {Array.from({ length: page.lastPage }, (_, i) => i + 1).map((n) => (
+            n === page.currentPage
+              ? <span aria-current="page" class="rounded-sm border border-navy-800 bg-navy-800 px-3 py-1.5 text-white">{n}</span>
+              : <a href={routes.authorResources(author.id, n)} class="rounded-sm border border-rule px-3 py-1.5 hover:border-gold-500">{n}</a>
+          ))}
+          {page.currentPage < page.lastPage && <a href={routes.authorResources(author.id, page.currentPage + 1)} rel="next" class="rounded-sm border border-rule px-3 py-1.5 hover:border-gold-500">Next</a>}
+        </nav>
+      )}
+    </Container>
+  </Section>
+</PageLayout>

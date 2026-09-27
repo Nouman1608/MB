@@ -3,6 +3,7 @@ import sitemap from '@astrojs/sitemap';
 import { satteri } from '@astrojs/markdown-satteri';
 import { rtlBlocksPlugin } from './src/utils/markdown/hast-rtl-blocks.mjs';
 import tailwindcss from '@tailwindcss/vite';
+import typographicDashes from './src/integrations/typographic-dashes.mjs';
 import { readdirSync, readFileSync } from 'node:fs';
 import { activeOnly, academicHubPath, LEVEL_FOR_QUALIFICATION } from './src/utils/academic/index.ts';
 import { subjectBySlug } from './src/data/academic/subjects.ts';
@@ -208,6 +209,7 @@ export default defineConfig({
     processor: satteri({ hastPlugins: [rtlBlocksPlugin] }),
   },
   integrations: [
+    typographicDashes(),
     sitemap({
       // Excluded: private/internal routes, plus every academic hub page
       // that isIndexableAcademicPage() has marked non-indexable (see

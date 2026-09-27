@@ -7,7 +7,7 @@ import ArticleCard from '../../components/cards/ArticleCard.astro';
 import ResourceCard from '../../components/cards/ResourceCard.astro';
 import RelatedGrid from '../../components/layout/RelatedGrid.astro';
 import Button from '../../components/ui/Button.astro';
-import { PRICING_TERMS, REGION_PRICING, ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS, formatFee } from '../../data/pricing';
+import { PRICING_TERMS, REGION_PRICING, ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS, ONE_TO_ONE_ONLY_PRICING, ONE_TO_ONE_ONLY_NOTE, isOneToOneOnlyCourse, formatFee } from '../../data/pricing';
 import { getAuthors } from '../../utils/content/collections';
 import { articlesByAuthor, resourcesByAuthor } from '../../utils/content/related';
 import { personNode, organizationEntityNode } from '../../utils/schema/person';
@@ -30,6 +30,11 @@ const path = routes.author(author.id);
 
 const articles = await articlesByAuthor(author.id);
 const resources = await resourcesByAuthor(author.id);
+// D-349 (audit R-07) -- the Academic Team byline had over a thousand resource
+// cards on one page (1.16 MB). Past AUTHOR_RESOURCE_PREVIEW, the profile
+// shows the first few and links to the paginated full list.
+const AUTHOR_RESOURCE_PREVIEW = 24;
+const resourcePreview = resources.length > AUTHOR_RESOURCE_PREVIEW ? resources.slice(0, 12) : resources;
 /* D-286 -- this teacher's published lessons; renders nothing while there are none. */
 const videos = await videosForTeacher(author.id);
 
@@ -71,6 +76,15 @@ const ALL_LEVELS_LABEL = teachesIB
 // D-330: the owner-set Pakistan base rates (other regions are on /pricing/).
 const pkGroup = REGION_PRICING.find((r) => r.region === 'Pakistan')!;
 const pkOne = ONE_TO_ONE_PRICING.find((r) => r.region === 'Pakistan')!;
+// D-349 (audit R-05): a teacher whose boards include a one-to-one-only course
+// (D-335: every OCR course; OxfordAQA Islamiyat and Pakistan Studies) says so,
+// with its rate, next to the group and one-to-one fees.
+const subjectSlugs = d.subjectsTaught.flatMap((name) =>
+  name.split('/').map((part) => part.trim().toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')),
+);
+const teachesOneToOneOnly = d.boardsTaught.some((board) =>
+  isOneToOneOnlyCourse(board, '') || subjectSlugs.some((subject) => isOneToOneOnlyCourse(board, subject)),
+);
 const teachingFacts = [
   d.subjectsTaught.length > 0 && { label: 'Teaches', value: d.subjectsTaught.join(' · ') },
   // D-331 (owner decision, 25 Sep 2026): every Marlbridge teacher teaches all levels.
@@ -186,7 +200,10 @@ const jsonLd = [
               <dd class="m-0 mt-1.5">{PRICING_TERMS.classFormat.oneToOne} In Pakistan from {formatFee(pkOne.igcse, pkOne.currency)} {pkOne.currency} {ONE_TO_ONE_TERMS.unit}.</dd>
             </div>
           </dl>
-          <p class="m-0 mt-3 text-[14px] text-ink-mute">A Level, IB and other regions are priced differently: <a href={routes.pricing} class="underline decoration-gold-500 underline-offset-2">see all fees</a>. {PRICING_TERMS.teacherAvailability}</p>
+          {teachesOneToOneOnly && (
+            <p class="m-0 mt-3 text-[14px] text-ink-mute">{ONE_TO_ONE_ONLY_NOTE} In Pakistan {formatFee(ONE_TO_ONE_ONLY_PRICING.perClass, ONE_TO_ONE_ONLY_PRICING.currency)} {ONE_TO_ONE_ONLY_PRICING.currency} {ONE_TO_ONE_ONLY_PRICING.unit}.</p>
+          )}
+          <p class="m-0 mt-3 text-[14px] text-ink-mute">A Level, IB and other regions are priced differently: <a href={routes.pricing} class="underline decoration-gold-500 underline-offset-2">Fees in your currency</a>. {PRICING_TERMS.teacherAvailability}</p>
           <div class="mt-6 flex flex-wrap items-center gap-4">
             <Button href={`${routes.trial}?teacher=${author.id}&source=teacher`} variant="primary" data-cta="teacher-trial">Request a free trial with {d.name.split(' ')[0]}</Button>
             <Button href={routes.tutoring} variant="quiet">See all teachers</Button>
@@ -209,8 +226,11 @@ const jsonLd = [
       )}
       {resources.length > 0 && (
         <RelatedGrid id="author-resources" title="Resources">
-          {resources.map((r) => <li class="m-0"><ResourceCard entry={r} /></li>)}
+          {resourcePreview.map((r) => <li class="m-0"><ResourceCard entry={r} /></li>)}
         </RelatedGrid>
+      )}
+      {resourcePreview.length < resources.length && (
+        <p class="m-0 mt-6 text-[15.5px]"><a href={routes.authorResources(author.id)} class="underline decoration-gold-500 underline-offset-2">All {resources.length} resources by {d.name}</a></p>
       )}
     </Container>
   </Section>

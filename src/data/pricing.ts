@@ -249,7 +249,7 @@ export const ONE_TO_ONE_TERMS = {
   deliveryMode: 'One-to-one only -- these rates are not available as group tuition.',
   verifiedDate: '2026-08-23',
   conversionNote: 'Only the Pakistan and US dollar rates above were directly set by Marlbridge. The other regions are indicative currency conversions of the Pakistan rate (exchange rates from exchangerate-api.com: dated 2026-08-22 for the Gulf, UK and Europe rows, and 2026-09-23 for Malaysia). They are not independently published regional rates, are refreshed as exchange rates move, and the exact fee is confirmed in writing before any payment.',
-  notPermanentNote: 'These fees are reviewed periodically and are not guaranteed to remain unchanged. The date above is when they were last confirmed or converted.',
+  notPermanentNote: 'These fees are reviewed periodically and are not guaranteed to remain unchanged.',  // D-349 (R-01): no "date above/below"; each page prints its own dated line next to this note.
 } as const;
 
 export const PRICING_TERMS = {
@@ -292,7 +292,7 @@ export const PRICING_TERMS = {
   // D-311 -- countries without their own row now see the US dollar row
   // (an indicative conversion), per the owner's 24 Sep 2026 instruction.
   unsupportedRegionNote: 'Families in countries without their own row use the US dollar prices ("Other countries"). The group figures are indicative conversions of the Pakistan fee; the one-to-one and IB US dollar prices are set by Marlbridge. The exact fee is confirmed in writing before any payment.',
-  notPermanentNote: 'These fees are reviewed periodically and are not guaranteed to remain unchanged. The date below is when they were last confirmed.',
+  notPermanentNote: 'These fees are reviewed periodically and are not guaranteed to remain unchanged.',  // D-349 (R-01): see ONE_TO_ONE_TERMS.notPermanentNote.
   /** Owner confirmed directly in chat, 2026-08-26 (D-043). Group-class length/frequency
    * is a fixed format; one-to-one length is fixed but the number of classes taken is
    * left to the student/family, so no fixed frequency is stated for it. */

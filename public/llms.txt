@@ -65,13 +65,60 @@
 - [Qualifications directory](https://marlbridge.com/levels/): every qualification level Marlbridge publishes material for.
 - [Study resources](https://marlbridge.com/resources/): study guides, revision notes, practice questions, exam preparation material, subject guides.
 - [Revision planner](https://marlbridge.com/revision-planner/): free weekly revision plan from a student's subjects, exam dates, free time and topic confidence; runs in the browser, no account.
-- [Practice and 10-minute diagnostics](https://marlbridge.com/practice/): self-marked study checks and self-check questions with worked answers for Cambridge IGCSE Chemistry, Physics, Mathematics and A Level Chemistry, Physics.
+- [Practice and 10-minute diagnostics](https://marlbridge.com/practice/): self-marked study checks and self-check questions with worked answers; 31 diagnostic sets across 19 syllabus codes (listed under "Diagnostics" below).
 - [Printable syllabus checklists](https://marlbridge.com/checklists/)
 - [Free trial class](https://marlbridge.com/trial/): request a free trial class with a subject teacher (we match a specialist teacher and confirm a time).
 - [Programs](https://marlbridge.com/programs/): Marlbridge's programs by qualification; each program page says whether it is taught now.
-- [Tutoring](https://marlbridge.com/tutoring/)
+- [Tutoring](https://marlbridge.com/tutoring/): the teachers and how classes work; each teacher's profile is listed under "Teachers" below.
+- [Pricing](https://marlbridge.com/pricing/): group fees per subject per month by region, one-to-one and IB fees per class, discounts and the free trial class.
 - [International online tutoring](https://marlbridge.com/international-tutoring/): all classes are taught live online from Lahore, Pakistan (in person in Lahore too); class times by time zone and fees by country. Marlbridge has no office outside Pakistan.
 - Country pages: [Pakistan](https://marlbridge.com/pakistan/), [United Kingdom](https://marlbridge.com/uk/), [United Arab Emirates](https://marlbridge.com/uae/), [Qatar](https://marlbridge.com/qatar/), [Malaysia](https://marlbridge.com/malaysia/), [Gulf](https://marlbridge.com/gulf/).
 - [For Schools](https://marlbridge.com/schools/)
-- [About Marlbridge](https://marlbridge.com/about/)
+- [About Marlbridge](https://marlbridge.com/about/): Marlbridge is the international branch of Learners Academy (https://learnersacademy.com.pk), which operates it; its teachers teach under the Marlbridge name.
 - [Contact](https://marlbridge.com/contact/)
+
+## Diagnostics
+
+- Cambridge IGCSE Chemistry (0620): [core](https://marlbridge.com/practice/0620/diagnostic/core/), [extended](https://marlbridge.com/practice/0620/diagnostic/extended/).
+- Cambridge A Level Chemistry (9701): [as](https://marlbridge.com/practice/9701/diagnostic/as/), [a-level](https://marlbridge.com/practice/9701/diagnostic/a-level/).
+- Cambridge A Level Physics (9702): [as](https://marlbridge.com/practice/9702/diagnostic/as/), [a-level](https://marlbridge.com/practice/9702/diagnostic/a-level/).
+- Cambridge IGCSE Mathematics (0580): [core](https://marlbridge.com/practice/0580/diagnostic/core/), [extended](https://marlbridge.com/practice/0580/diagnostic/extended/).
+- Cambridge IGCSE Physics (0625): [core](https://marlbridge.com/practice/0625/diagnostic/core/), [extended](https://marlbridge.com/practice/0625/diagnostic/extended/).
+- Pearson Edexcel IGCSE Chemistry (4CH1): [all-topics](https://marlbridge.com/practice/4CH1/diagnostic/all-topics/).
+- Pearson Edexcel IGCSE Physics (4PH1): [all-topics](https://marlbridge.com/practice/4PH1/diagnostic/all-topics/).
+- Cambridge A Level Economics (9708): [as](https://marlbridge.com/practice/9708/diagnostic/as/), [a-level](https://marlbridge.com/practice/9708/diagnostic/a-level/).
+- Cambridge A Level Business (9609): [as](https://marlbridge.com/practice/9609/diagnostic/as/), [a-level](https://marlbridge.com/practice/9609/diagnostic/a-level/).
+- Cambridge A Level Computer Science (9618): [as](https://marlbridge.com/practice/9618/diagnostic/as/), [a-level](https://marlbridge.com/practice/9618/diagnostic/a-level/).
+- Cambridge O Level Chemistry (5070): [all-topics](https://marlbridge.com/practice/5070/diagnostic/all-topics/).
+- Cambridge A Level Mathematics (9709): [as](https://marlbridge.com/practice/9709/diagnostic/as/), [a-level](https://marlbridge.com/practice/9709/diagnostic/a-level/).
+- Cambridge O Level Mathematics (4024): [all-topics](https://marlbridge.com/practice/4024/diagnostic/all-topics/).
+- Cambridge IGCSE Biology (0610): [core](https://marlbridge.com/practice/0610/diagnostic/core/), [extended](https://marlbridge.com/practice/0610/diagnostic/extended/).
+- Cambridge A Level Biology (9700): [as](https://marlbridge.com/practice/9700/diagnostic/as/), [a-level](https://marlbridge.com/practice/9700/diagnostic/a-level/).
+- Cambridge O Level Physics (5054): [all-topics](https://marlbridge.com/practice/5054/diagnostic/all-topics/).
+- Cambridge O Level Economics (2281): [all-topics](https://marlbridge.com/practice/2281/diagnostic/all-topics/).
+- Cambridge O Level Business (7115): [all-topics](https://marlbridge.com/practice/7115/diagnostic/all-topics/).
+- Cambridge O Level Computer Science (2210): [all-topics](https://marlbridge.com/practice/2210/diagnostic/all-topics/), [paper-2](https://marlbridge.com/practice/2210/diagnostic/paper-2/).
+
+## Teachers
+
+- [Aizaz Raoof Ali](https://marlbridge.com/authors/aizaz-raoof-ali/): Law Teacher.
+- [Ameer Hamza](https://marlbridge.com/authors/ameer-hamza/): Biology Teacher.
+- [Ammar Bilal](https://marlbridge.com/authors/ammar-bilal/): English Literature and IB Language Teacher.
+- [Arslan Tanvir](https://marlbridge.com/authors/arslan-tanvir/): Mathematics Teacher.
+- [Asif Iqbal](https://marlbridge.com/authors/asif-iqbal/): Business Studies Teacher.
+- [Azam Siddique](https://marlbridge.com/authors/azam-siddique/): Islamiyat / Pakistan Studies, History and Environmental Management Teacher.
+- [Farheen Zehra](https://marlbridge.com/authors/farheen-zehra/): Urdu Language Teacher.
+- [Harris Khan](https://marlbridge.com/authors/harris-khan/): Computer Science and ICT Teacher.
+- [Harris Zaman](https://marlbridge.com/authors/harris-zaman/): Biology Teacher.
+- [Hassan](https://marlbridge.com/authors/hassan/): Physics Teacher.
+- [Hina Mogul](https://marlbridge.com/authors/hina-mogul/): Biology Teacher.
+- [Iftikhar Azeemi](https://marlbridge.com/authors/iftikhar-azeemi/): Physics Teacher.
+- [Javaid Iqbal Sabri](https://marlbridge.com/authors/javaid-iqbal-sabri/): Accounting Teacher.
+- [Jawad Tariq](https://marlbridge.com/authors/jawad-tariq/): Physics Teacher.
+- [Lubna Waseem](https://marlbridge.com/authors/lubna-waseem/): English and IELTS Teacher.
+- [Muhammad Ghazali Siddiqui](https://marlbridge.com/authors/muhammad-ghazali-siddiqui/): Mathematics and Statistics Teacher.
+- [Nouman Ahmed](https://marlbridge.com/authors/nouman-ahmed/): Chemistry Teacher.
+- [Saad Zai](https://marlbridge.com/authors/saad-zai/): Biology Teacher.
+- [Sajawal Zahid](https://marlbridge.com/authors/sajawal-zahid/): Mathematics Teacher.
+- [Salman Ahmad](https://marlbridge.com/authors/salman-ahmad/): Economics, Business Studies and Commerce Teacher.
+- [Zain Ud Din Ahmed](https://marlbridge.com/authors/zain-ud-din-ahmed/): Accounting Teacher.

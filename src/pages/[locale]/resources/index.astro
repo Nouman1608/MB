@@ -2,8 +2,8 @@
 /**
  * v1.x CLOSURE WS2 -- translated resources directory. Deliberately
  * simpler than the English /resources/ page (D-052): a translated
- * heading/lead plus a real "browse by type" grid and a real, complete
- * list of published resources grouped by type -- reading the SAME live
+ * heading/lead plus a real "browse by type" grid and a real list of
+ * subjects per type (each linking to the English per-subject page, D-349) -- reading the SAME live
  * content-collection data the English page reads, so counts can never
  * drift. The English page's client-side subject/level filter UI is not
  * replicated here; every resource is simply listed. Individual resource
@@ -14,7 +14,7 @@ import LocaleLayout from '../../../layouts/LocaleLayout.astro';
 import { DIRECTORY_COPY } from '../../../i18n/pages/directories';
 import { NAV_COPY, type LocaleCode } from '../../../i18n/nav';
 import { TRANSLATED_LOCALES } from '../../../i18n/routes';
-import { getResources, resourceCategoryMeta } from '../../../utils/content/collections';
+import { getResources, getSubjects, resourceCategoryMeta } from '../../../utils/content/collections';
 import { routes } from '../../../utils/urls/routes';
 
 export function getStaticPaths() {
@@ -28,6 +28,13 @@ const nav = NAV_COPY[locale];
 const types = Object.entries(resourceCategoryMeta);
 const resources = await getResources();
 const byType = Object.fromEntries(types.map(([slug]) => [slug, resources.filter((r) => r.data.resourceType === slug)]));
+// D-349 (audit R-07 family) -- list subjects per type, linking to the
+// English per-type, per-subject pages, instead of every resource title
+// (the three translated directories were about 476 KB each).
+const subjects = await getSubjects();
+const subjectsByType = Object.fromEntries(types.map(([slug]) => [slug, subjects
+  .map((s) => ({ subject: s, count: byType[slug].filter((r) => r.data.subject.id === s.id).length }))
+  .filter((x) => x.count > 0)]));
 
 const CATEGORY_LABEL: Record<LocaleCode, Record<string, string>> = {
   ar: { 'study-guides': 'أدلة دراسية', 'revision-notes': 'ملاحظات مراجعة', 'past-papers': 'أوراق امتحانات سابقة', 'practice-questions': 'أسئلة تدريب', 'exam-preparation': 'التحضير للامتحان', 'subject-guides': 'أدلة المواد', 'learning-articles': 'مقالات تعليمية' },
@@ -46,10 +53,10 @@ const inDevelopment: Record<LocaleCode, string> = { ar: 'قيد التطوير �
         <h2 class="m-0 mb-1.5 text-[20px] font-semibold text-navy-800">{labels[slug]}</h2>
         <p class="m-0 mb-5 text-[13.5px] text-ink-mute">{byType[slug].length}</p>
         {byType[slug].length > 0 ? (
-          <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
-            {byType[slug].map((r) => (
+          <ul class="m-0 grid list-none gap-3 p-0 sm:grid-cols-2 lg:grid-cols-3">
+            {subjectsByType[slug].map(({ subject, count }) => (
               <li class="m-0 rounded-sm border border-rule bg-white p-4">
-                <a href={routes.resource(r.id)} class="text-[15px] font-medium text-navy-800 hover:underline">{r.data.title}</a>
+                <a href={routes.resourceBrowse(slug, subject.id)} class="flex items-baseline justify-between gap-3 text-[15px] font-medium text-navy-800 hover:underline"><span lang="en" dir="ltr">{subject.data.title}</span><span class="font-mono text-[12px] text-ink-mute">{count}</span></a>
               </li>
             ))}
           </ul>

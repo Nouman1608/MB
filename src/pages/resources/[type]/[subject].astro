@@ -1,0 +1,68 @@
+---
+/**
+ * D-349 (audit R-07) -- /resources/ used to render every published resource
+ * card (1.69 MB of HTML). It now lists, per type, the subjects with their
+ * counts, and each subject links here: one page per resource type and
+ * subject, listing every resource of that type in that subject. Every
+ * resource stays reachable by plain links, and no listing page carries the
+ * whole library.
+ */
+import PageLayout from '../../../layouts/PageLayout.astro';
+import Section from '../../../components/layout/Section.astro';
+import Container from '../../../components/layout/Container.astro';
+import ResourceCard from '../../../components/cards/ResourceCard.astro';
+import { getResources, getSubjects, resourceCategoryMeta, type ResourceCategory } from '../../../utils/content/collections';
+import { routes } from '../../../utils/urls/routes';
+
+export async function getStaticPaths() {
+  const resources = await getResources();
+  const subjects = await getSubjects();
+  const paths = [];
+  for (const type of Object.keys(resourceCategoryMeta) as ResourceCategory[]) {
+    for (const subject of subjects) {
+      const entries = resources
+        .filter((r) => r.data.resourceType === type && r.data.subject.id === subject.id)
+        .sort((a, b) => a.data.title.localeCompare(b.data.title));
+      if (entries.length === 0) continue;
+      paths.push({ params: { type, subject: subject.id }, props: { type, subject, entries } });
+    }
+  }
+  return paths;
+}
+
+const { type, subject, entries } = Astro.props;
+const meta = resourceCategoryMeta[type as ResourceCategory];
+const subjectTitle = subject.data.title;
+const path = routes.resourceBrowse(type, subject.id);
+const title = `${subjectTitle} ${meta.title.toLowerCase()}`;
+---
+<PageLayout
+  title={title}
+  description={`All ${entries.length} free ${subjectTitle} ${meta.title.toLowerCase()} published by Marlbridge, listed by title. ${meta.description}`}
+  path={path}
+  eyebrow="Resources"
+  heading={title}
+  lead={`${entries.length} published, listed by title. ${meta.description}`}
+  breadcrumbs={[
+    { label: 'Home', href: routes.home },
+    { label: 'Resources', href: routes.resources },
+    { label: meta.title, href: routes.resourceTypeAnchor(type) },
+    { label: subjectTitle, href: path },
+  ]}
+>
+  <Section surface="white">
+    <Container>
+      <h2 class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">All {entries.length}, by title</h2>
+      <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
+        {entries.map((entry) => (
+          <li class="m-0"><ResourceCard entry={entry} subjectTitle={subjectTitle} /></li>
+        ))}
+      </ul>
+      <p class="m-0 mt-10 text-[15px] text-ink-mute">
+        <a href={routes.resourceTypeAnchor(type)} class="underline decoration-gold-500 underline-offset-2">All {meta.title.toLowerCase()} by subject</a>
+        {' · '}
+        <a href={routes.subject(subject.id)} class="underline decoration-gold-500 underline-offset-2">{subjectTitle} subject page</a>
+      </p>
+    </Container>
+  </Section>
+</PageLayout>
