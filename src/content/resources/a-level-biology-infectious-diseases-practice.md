@@ -16,6 +16,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on naming pathogens, HIV/AIDS and anti-retroviral therapy, how penicillin works, the spread of tuberculosis and antibiotic resistance, for Cambridge International AS & A Level Biology (9700)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -62,21 +63,23 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 
 **(c)** A **protoctist**, e.g. ***Plasmodium falciparum*** (also accept *P. vivax*, *P. ovale* or *P. malariae*) [1].
 
-*Examiner insight (June 2024):* Candidates must spell pathogen names correctly. For HIV, common errors were in "immunodeficiency" (such as "immune deficiency" or doubled letters). Some also wrote "human immunodeficiency disease".
+*Examiner insight (Cambridge 9700 June 2024 examiner report, Paper 22, Question 6(a)):* Candidates must spell pathogen names correctly. For HIV, most errors were in "immunodeficiency" (such as "immune deficiency" or doubled letters). Some also wrote "human immunodeficiency disease".
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 22, Question 6.
+*Source for the examiner insights on this page: [Cambridge International AS & A Level Biology 9700 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/566822-june-2024-examiner-report.pdf), Paper 9700/22 section, paraphrased.*
+
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 22, Question 6(a).
 
 **2.** ART **stops HIV replicating, keeping the viral load low** [1]. Without ART, HIV multiplies and **infects and destroys T-helper lymphocytes** [1]. With fewer T-helper cells, **B-lymphocytes and other immune cells are not activated**, so the **immune response is weak** [1]. The person is then open to **opportunistic infections** that a healthy immune system would control [1]. (Any three.)
 
-*Examiner insight (June 2024):* Full-credit answers explained how ART helps the immune system, for example by keeping T-lymphocyte numbers up, and then linked this to fewer opportunistic infections. Some wrongly thought ART was a drug that treats the opportunistic infections themselves.
+*Examiner insight (Cambridge 9700 June 2024 examiner report, Paper 22, Question 6(b)):* Full-credit answers explained the benefit of ART to the immune system and then linked this to opportunistic infections being prevented or less likely; fewer mentioned lower viral numbers or maintained T-lymphocyte numbers. Some wrongly thought ART was a drug that treats the opportunistic infections themselves.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 22, Question 6.
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 22, Question 6(b).
 
 **3.** Similarities (any one or two): both **act on the peptidoglycan cell wall** and **weaken it** [1]; both cause **osmotic lysis**, because the weakened wall cannot withstand the pressure as water enters [1]. Differences (any two or three): endolysin is an **enzyme (a protein)** that **hydrolyses bonds in existing peptidoglycan**, whereas penicillin is an **antibiotic** that **inhibits the enzymes (transpeptidases) that form cross-links** in new peptidoglycan [1]; penicillin **only works on bacteria that are making new cell wall**, whereas endolysin can break down any wall it reaches [1]; endolysin is a much **larger molecule** and **can be denatured by heat** [1]. (Max 4; at least one similarity and one difference are needed.)
 
-*Examiner insight (June 2024):* Answers giving only differences could not earn full marks when similarities and differences were asked for. A common mistake was saying penicillin makes "holes" in the wall. In fact it stops the enzyme that forms cross-links.
+*Examiner insight (Cambridge 9700 June 2024 examiner report, Paper 22, Question 3(b)):* Answers giving only differences could not earn full marks when similarities and differences were asked for. A common misconception was that penicillin makes "holes" in the wall; in fact it stops the action of the enzyme that forms the cross-links.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 22, Question 3.
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 22, Question 3(b).
 
 **4.** **(a)** HIV is a virus with **no cell wall or peptidoglycan**, and it uses the host cell's metabolism, so there is **nothing for penicillin to act on** [1].
 
@@ -84,7 +87,7 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 
 *Mark-scheme insight (June 2024):* The mark scheme credited the point that penicillin works only while bacterial cells are growing and building cell wall.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 22, Question 3.
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 22, Question 3(b).
 
 **5.** TB spreads through **droplets in the air** when an infected person coughs or sneezes [1]. In overcrowded housing people are **close together for long periods**, often with poor ventilation, so more people breathe in the bacteria [1]. HIV **destroys T-helper lymphocytes**, weakening the immune response, so **TB bacteria that were held in check become active**, or a new infection is not controlled [1].
 

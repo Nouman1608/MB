@@ -16,6 +16,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on cost-push and demand-pull inflation, interest rates, conflicting fiscal and monetary policy, the Phillips curve, supply-side policy, lost tax revenue and the multiplier effect of falling exports, for Cambridge International AS & A Level Economics (9708)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -54,14 +55,16 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **1.** **Cost-push** inflation is caused by **rising costs of production** (such as wages, raw materials or imports), which shift aggregate supply to the left [1]. **Demand-pull** inflation is caused by **aggregate demand rising faster than the economy's capacity to produce** [1]. A rise in the price of imported fertiliser and fuel causes **cost-push (imported) inflation** [1].
 
-*Examiner insight (June 2024):* good responses applied the theory to a cost-push context; candidates who did not recognise that the inflation came from supply problems limited the quality of their answers.
+*Examiner insight (Cambridge 9708 June 2024 examiner report, Paper 42, Question 4):* good responses related the theory to the question's setting of cost-push inflation; answers that missed this setting were weaker.
+
+*Source for the examiner insights on this page: [Cambridge International AS & A Level Economics 9708 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/567336-june-2024-examiner-report.pdf), Paper 9708/42 section, paraphrased.*
 
 *Try the real question next:* Cambridge International AS & A Level Economics 9708, June 2024, Paper 42, Question 4.
 
 **2.** **(a)** Higher interest rates raise the **cost of borrowing** (and the reward for saving), so households spend less on credit-financed goods and firms invest less [1]. Consumption and investment fall, so **aggregate demand falls** and there is less upward pressure on prices [1]. (A higher exchange rate making imports cheaper is also accepted.)
 **(b)** Cost-push inflation comes from **higher costs reducing aggregate supply**; higher interest rates act on **aggregate demand**, not on the cause [1]. Prices may fall only slowly while **output falls and unemployment rises** further [1].
 
-*Examiner insight (June 2024):* good evaluation recognised that policies which reduce demand are suited to demand-pull inflation and may not suit cost-push inflation.
+*Examiner insight (Cambridge 9708 June 2024 examiner report, Paper 42, Question 4):* good evaluation recognised that the fiscal and monetary policies in the question (a tax cut and a rise in interest rates) may suit demand-pull rather than cost-push inflation.
 
 *Try the real question next:* Cambridge International AS & A Level Economics 9708, June 2024, Paper 42, Question 4.
 
@@ -73,13 +76,13 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **4.** The short-run Phillips curve shows an **inverse relationship between inflation and unemployment** [1]. Higher interest rates reduce aggregate demand, so inflation falls, but firms produce less and **unemployment rises** as the economy moves along the curve [1]. The objective of **price stability conflicts with low unemployment** (and with economic growth) in the short run [1].
 
-*Examiner insight (June 2024):* some candidates mentioned the Phillips curve but could not apply it to the question; use it to show the specific trade-off the policy creates.
+*Examiner insight (Cambridge 9708 June 2024 examiner report, Paper 42, Question 4):* some candidates referred to the Phillips curve but could not apply it to the question; use it to show the specific trade-off the policy creates.
 
 *Try the real question next:* Cambridge International AS & A Level Economics 9708, June 2024, Paper 42, Question 4.
 
 **5.** Any one policy explained, for example: **education and training** raise labour productivity [1], which lowers unit labour costs and shifts aggregate supply to the right, reducing cost pressure on prices [1]. (Other valid policies: investment in energy infrastructure to cut energy costs; deregulation to increase competition.)
 
-*Examiner insight (June 2024):* discussion of supply-side policies, or of whether fiscal and monetary policies have supply-side effects, was seen as suitable evaluation when inflation came from supply shortages.
+*Examiner insight (Cambridge 9708 June 2024 examiner report, Paper 42, Question 4):* discussing supply-side policies, or whether the fiscal and monetary policies had supply-side effects, was appropriate evaluation for inflation caused by supply disruption.
 
 *Try the real question next:* Cambridge International AS & A Level Economics 9708, June 2024, Paper 42, Question 4.
 

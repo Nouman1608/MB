@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on uses of energy, aerobic and anaerobic respiration equations, yeast respiration investigations, the effect of temperature and oxygen debt, for Cambridge IGCSE Biology (0610)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -75,23 +76,25 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 *Tip:* "Powerhouse of the cell" is not an answer. Name the process precisely, for example "aerobic respiration releases energy from glucose".
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 1.
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 1(a)(i).
 
 **2.** **(a)** **glucose + oxygen → carbon dioxide + water** [1 for reactants, 1 for products].
 
 **(b)** **glucose → alcohol (ethanol) + carbon dioxide** [1 for reactant, 1 for both products]. No oxygen appears on the left: that is what makes it anaerobic.
 
-*Examiner insight (June 2024):* When asked for the yeast equation, most candidates knew it was anaerobic respiration and started correctly with glucose; far fewer could write the ethanol product correctly. Learn ethanol as a product of yeast, never lactic acid.
+*Examiner insight (Cambridge 0610 June 2024 examiner report, Paper 42, Question 1(b)):* In a question asking for the balanced chemical equation for yeast, most candidates knew it was anaerobic respiration and started correctly with glucose; fewer knew the product ethanol well enough to write its formula. Learn ethanol as a product of yeast, never lactic acid.
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 1.
+*Source for the examiner insights on this page: [Cambridge IGCSE Biology 0610 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/520425-june-2024-examiner-report.pdf), Paper 0610/42 section, paraphrased.*
+
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 1(b).
 
 **3.** *(Extended)* **(a)** **C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O** [1 for correct formulae, 1 for balancing].
 
 **(b)** **C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂** [1 for glucose as the only reactant, 1 for correct, balanced products]. Check: 6 C, 12 H and 6 O on each side.
 
-*Examiner insight (June 2024):* Many candidates could not recall the formula of ethanol (C₂H₅OH), so they could not balance the yeast equation. Learn it alongside the glucose formula.
+*Examiner insight (Cambridge 0610 June 2024 examiner report, Paper 42, Question 1(b)):* Many candidates could not recall the formula of ethanol (C₂H₅OH), so they could not balance the yeast equation. Learn it alongside the glucose formula.
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 1.
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 1(b).
 
 **4.** **(a)** Volume produced = 27 − 6 = 21 cm³; time = 10 − 4 = 6 minutes [1]. Rate = 21 ÷ 6 = **3.5 cm³ per minute** (cm³/min) [1 for value and unit].
 
@@ -99,23 +102,23 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **(c)** **All the glucose has been used up** [1] (or: the ethanol produced has built up to a level that is toxic to the yeast).
 
-*Examiner insight (June 2024):* Many candidates wrongly said the oil stops evaporation, as in a transpiration experiment; others wrote "air" or "gas" where "oxygen" was needed. In the rate calculation, some wrote "m" for minutes, which is the symbol for metres.
+*Examiner insight (Cambridge 0610 June 2024 examiner report, Paper 42, Question 1(c)):* Many candidates wrongly said the oil stops evaporation, as in a transpiration experiment; others wrote "air" or "gas" where "oxygen" was needed. In the rate calculation, some wrote "m" for minutes, which is the symbol for metres.
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 1.
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 1(c).
 
 **5.** At 90 °C the **enzymes** in the yeast cells that control respiration are **denatured** [1]. The shape of the **active site changes**, so glucose (the substrate) **no longer fits / is no longer complementary** to it [1]. So the yeast cannot **respire** and no carbon dioxide is released [1].
 
-*Examiner insight (June 2024):* Some candidates wrote as if yeast itself were an enzyme that becomes denatured. Yeast is a living fungus; it is the enzymes inside its cells that denature.
+*Examiner insight (Cambridge 0610 June 2024 examiner report, Paper 42, Question 1(c)(iv)):* Some candidates wrote as if yeast itself were an enzyme that becomes denatured. Yeast is a living fungus; it is the enzymes inside its cells that denature.
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 1.
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 1(c)(iv).
 
 **6.** **(a)** **Carbon dioxide** [1]: the gas bubbles get trapped in the dough.
 
 **(b)** **Ethanol (alcohol)** [1].
 
-*Examiner insight (June 2024):* When asked for a use of the *carbon dioxide* from yeast, some candidates gave uses of yeast in general, such as biofuel or wine. Read which product the question is about.
+*Examiner insight (Cambridge 0610 June 2024 examiner report, Paper 42, Question 1(d)):* When asked for a use of the *carbon dioxide* from yeast, some candidates gave uses of yeast in general, such as biofuel or wine. Read which product the question is about.
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 1.
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 1(d).
 
 **7.** *(Extended)* During the race her muscles respire **anaerobically** as well as aerobically, so **lactic acid builds up** in the muscles and blood [1]. This causes an **oxygen debt** [1]. Afterwards, the fast **heart rate** carries lactic acid in the blood from the muscles **to the liver** [1], and the fast, deep **breathing** supplies the oxygen needed for **aerobic respiration of the lactic acid** [1].
 

@@ -16,6 +16,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on neurone types and myelin, saltatory conduction, conduction speed, voltage-gated and ligand-gated channels at a cholinergic synapse, an insecticide that inhibits acetylcholinesterase, and hyperpolarisation and the threshold potential, for Cambridge International AS & A Level Biology (9700)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -58,15 +59,17 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **(c)** **Nodes of Ranvier** [1].
 
-*Examiner insight (June 2024):* When a question asks for a type of cell, name a whole cell. Answers such as "axon" or "dendrite" name only part of a cell and were not credited. Most candidates knew that Schwann cells form the myelin sheath.
+*Examiner insight (Cambridge 9700 June 2024 examiner report, Paper 42, Question 8(a)):* When a question asks for a type of cell, name a whole cell. Answers such as "axon" or "dendrite" came from not focusing on the word "cell". Most candidates knew that Schwann cells form the myelin sheath.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 8.
+*Source for the examiner insights on this page: [Cambridge International AS & A Level Biology 9700 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/566822-june-2024-examiner-report.pdf), Paper 9700/42 section, paraphrased.*
+
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 8(a).
 
 **2.** Any four: the **myelin sheath insulates the axon**, so ions cannot move across the membrane where it is covered [1]; **voltage-gated channels are found at the nodes of Ranvier**, so ions can move across the membrane only there [1]; **depolarisation (action potentials) happens only at the nodes** [1]; **local circuits form between one node and the next**, so they are much longer than in an unmyelinated axon [1]; the action potential **jumps from node to node (saltatory conduction)**, instead of travelling along every part of the membrane [1].
 
-*Examiner insight (June 2024):* Good answers linked the insulating myelin to action potentials occurring only at the nodes and to longer local circuits. Writing that "impulses jump" was a common error, although credit could still be gained by naming saltatory conduction.
+*Examiner insight (Cambridge 9700 June 2024 examiner report, Paper 42, Question 8(b)):* Good answers linked the insulating myelin to action potentials occurring only at the nodes and to longer local circuits. Writing that "impulses jump" was a common error, although credit could still be gained by naming saltatory conduction.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 8.
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 8(b).
 
 **3.** Time = 12 ms = 0.012 s. Speed = distance ÷ time = 0.84 ÷ 0.012 [1] = **70 m s⁻¹** [1].
 
@@ -74,21 +77,21 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **4.** Presynaptic membrane: **calcium ions (Ca²⁺)** pass through **voltage-gated channels**, which open when an **action potential arrives and depolarises the membrane** [1]. Postsynaptic membrane: **sodium ions (Na⁺)** pass through **ligand-gated channels**, which open when **acetylcholine binds** to them [1].
 
-*Examiner insight (June 2024):* Many answers only described where the channels are. Credit came from naming the correct ion for each channel and comparing how each one opens. Write the calcium ion as Ca²⁺, not Ca⁺.
+*Examiner insight (Cambridge 9700 June 2024 examiner report, Paper 42, Question 8(c)(i)):* Many answers only described where the channels are. Credit came from naming the correct ion for each channel and comparing how each one opens. Write the calcium ion as Ca²⁺, not Ca⁺.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 8.
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 8(c)(i).
 
 **5.** Any four: **acetylcholine is not hydrolysed (broken down)** in the synaptic cleft [1]; so acetylcholine **stays bound to the receptors on the postsynaptic membrane** [1]; the **sodium ion channels stay open**, so the **postsynaptic membrane stays depolarised** (or action potentials keep being generated) [1]; the **muscles keep contracting and cannot relax** (spasms or paralysis), which can kill the insect [1]; choline is **not recycled to the presynaptic knob**, so less new acetylcholine can be made [1].
 
-*Examiner insight (June 2024):* In the similar question, credit depended on naming the specific membrane: say presynaptic membrane or postsynaptic membrane, not just "membrane" or "neurone".
+*Examiner insight (Cambridge 9700 June 2024 examiner report, Paper 42, Question 8(c)(ii)):* Credit depended on naming the specific membrane: say presynaptic membrane or postsynaptic membrane, not just "membrane" or "neurone".
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 8.
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 8(c)(ii).
 
 **6.** The inside of the neurone is now **more negative (hyperpolarised)** than before [1]. A **bigger depolarisation is needed to reach the threshold**: 25 mV (from −80 mV to −55 mV) instead of 15 mV (from −70 mV to −55 mV) [1]. So **stimuli that would normally be strong enough no longer produce an action potential**, and fewer (or no) action potentials are produced [1].
 
-*Examiner insight (June 2024):* In the similar question, a common error was to say the inside becomes "negative"; it is already negative at rest, so you must say it becomes more negative. Strong answers then linked this to the threshold being harder to reach.
+*Examiner insight (Cambridge 9700 June 2024 examiner report, Paper 42, Question 8(c)(iii)):* A common error was to say the inside becomes "negative"; it is already negative at rest, so you must say it becomes more negative. Strong answers then linked this to the threshold being harder to reach.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 8.
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 8(c)(iii).
 
 ---
 

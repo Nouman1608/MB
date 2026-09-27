@@ -1,9 +1,9 @@
-# MARLBRIDGE v1.x ΓÇö Decision Log
+# MARLBRIDGE v1.x ╬ô├ç├╢ Decision Log
 
 Version-controlled record of every material clarification asked of and answered
 by the owner during the MARLBRIDGE v1.x FINAL programme (Website Completion,
 All-Board Academic Foundation, Operational Readiness and Final Discovery
-Audit). No secrets or unnecessary personal data are recorded here ΓÇö only
+Audit). No secrets or unnecessary personal data are recorded here ╬ô├ç├╢ only
 routing/business decisions and the reasoning behind them.
 
 Status values: `answered` (owner has responded, implemented), `open`
@@ -11,7 +11,7 @@ Status values: `answered` (owner has responded, implemented), `open`
 
 ---
 
-## D-001 ΓÇö Resend configuration status and From/To addresses
+## D-001 ╬ô├ç├╢ Resend configuration status and From/To addresses
 
 - **Date:** 2026-08-18
 - **Workstream:** WS1 (Resend and enquiry completion)
@@ -20,11 +20,11 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Options presented:** (a) key already set, use hello@marlbridge.com for
   both From and To; (b) key already set, different addresses; (c) key not
   set up yet; (d) not sure / need to check.
-- **Recommendation:** (a) ΓÇö reuse the address already shown publicly
+- **Recommendation:** (a) ╬ô├ç├╢ reuse the address already shown publicly
   everywhere as `FALLBACK_EMAIL`.
 - **Owner response:** Key is already set. Send From hello@marlbridge.com,
   but deliver To noumanahmed1989@gmail.com (a private inbox, not the
-  public address) ΓÇö given as a follow-up in chat after the initial
+  public address) ╬ô├ç├╢ given as a follow-up in chat after the initial
   multiple-choice answer.
 - **Final decision:** `ENQUIRY_SENDER = 'Marlbridge <hello@marlbridge.com>'`,
   `ENQUIRY_RECIPIENT = 'noumanahmed1989@gmail.com'` (private, never shown
@@ -38,14 +38,14 @@ Status values: `answered` (owner has responded, implemented), `open`
   from/to/reply-to values, the honest 503 when the key is absent, the
   honest 502 when Resend itself errors, and that Turnstile/honeypot/
   same-origin checks still run before any email is ever attempted.
-- **Follow-up required:** None for this decision ΓÇö implemented and tested.
+- **Follow-up required:** None for this decision ╬ô├ç├╢ implemented and tested.
   Live delivery can only be confirmed once the owner receives a real test
   enquiry after production deployment (see D-003).
 - **Status:** answered, implemented.
 
 ---
 
-## D-002 ΓÇö Turnstile configuration status
+## D-002 ╬ô├ç├╢ Turnstile configuration status
 
 - **Date:** 2026-08-18
 - **Workstream:** WS1 (Resend and enquiry completion)
@@ -53,7 +53,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   provisioned for marlbridge.com?
 - **Options presented:** (a) yes, both configured; (b) no, skip Turnstile
   this release; (c) no, please set it up first.
-- **Recommendation:** (a), if true ΓÇö Turnstile is already wired
+- **Recommendation:** (a), if true ╬ô├ç├╢ Turnstile is already wired
   server-side to run conditionally on `TURNSTILE_SECRET_KEY` presence.
 - **Owner response:** Yes, both are configured.
 - **Final decision:** Server-side verification code
@@ -79,7 +79,7 @@ Status values: `answered` (owner has responded, implemented), `open`
 
 ---
 
-## D-003 ΓÇö GA4 / Search Console / Bing instrumentation
+## D-003 ╬ô├ç├╢ GA4 / Search Console / Bing instrumentation
 
 - **Date:** 2026-08-18
 - **Workstream:** WS2 (Analytics and webmaster instrumentation)
@@ -101,12 +101,12 @@ Status values: `answered` (owner has responded, implemented), `open`
   `BaseLayout.astro` (so it renders on every page). It uses Google
   Consent Mode v2 with `analytics_storage` defaulted to `'denied'` and a
   simple Accept/Reject banner (choice persisted in `localStorage`,
-  `mb_consent` key) ΓÇö no analytics cookie is set and no analytics request
+  `mb_consent` key) ╬ô├ç├╢ no analytics cookie is set and no analytics request
   is sent until the visitor clicks Accept. This consent-gate design was
   Claude's own reasonable default, not something the owner was asked to
   approve line-by-line, because `src/pages/legal/cookies.astro` and
   `src/pages/legal/privacy.astro` both previously stated (correctly, at
-  the time) that the site ran no analytics ΓÇö shipping GA4 without a
+  the time) that the site ran no analytics ╬ô├ç├╢ shipping GA4 without a
   consent gate would have made those pages false. Both legal pages were
   updated in the same change to accurately describe GA4, the consent
   banner, and Cloudflare Turnstile (see D-002), with their "Last updated"
@@ -116,17 +116,17 @@ Status values: `answered` (owner has responded, implemented), `open`
   built HTML (`gtag/js?id=G-TB89R669JL`) after `npm run build`. Owner
   confirmed on 2026-08-18 that Search Console is verified via a DNS TXT
   record and Bing Webmaster Tools via a DNS CNAME record pointing to
-  `verify.bing.com` ΓÇö both verified entirely at the Cloudflare DNS level,
+  `verify.bing.com` ╬ô├ç├╢ both verified entirely at the Cloudflare DNS level,
   outside this repository. No meta tag or verification file is needed in
   the codebase, and none was added.
 - **Follow-up required:** None. If either service is ever re-verified
   using a different method (meta tag or file upload instead of DNS),
   that would need a small repo change at that time.
-- **Status:** implemented (GA4, Search Console, Bing ΓÇö all closed).
+- **Status:** implemented (GA4, Search Console, Bing ╬ô├ç├╢ all closed).
 
 ---
 
-## D-004 ΓÇö Real photography and faculty/reviewer data source
+## D-004 ╬ô├ç├╢ Real photography and faculty/reviewer data source
 
 - **Date:** 2026-08-18
 - **Workstream:** WS3 (Public imagery), WS4 (Faculty, authors and
@@ -140,17 +140,17 @@ Status values: `answered` (owner has responded, implemented), `open`
   available; no reviewer available yet.
 - **Recommendation:** Default to licensed stock + honestly unpublished
   faculty section if no real data exists.
-- **Owner response:** "use the ones from learnersacademy.com.pk" ΓÇö
+- **Owner response:** "use the ones from learnersacademy.com.pk" ╬ô├ç├╢
   directing reuse of real photography and real staff information from
   Learners Academy, which Marlbridge's own site already identifies as
-  "the founding academy behind Marlbridge" / "Learners Academy ΓÇö a
+  "the founding academy behind Marlbridge" / "Learners Academy ╬ô├ç├╢ a
   Marlbridge education institution" (same organisation, not a
   third-party site).
 - **Final decision:** Confirmed learnersacademy.com.pk is a real,
   operating academy (9+ years teaching, Cambridge/Edexcel/AQA, Lahore-based)
-  with a public Teachers page and named leadership (Hina Mughal ΓÇö Managing
-  Director; Nouman Ahmed ΓÇö Principal; Javed Iqbal Sabri ΓÇö CFO; Junaid
-  Khalid ΓÇö CTO; Asif Iqbal ΓÇö Marketing Head) and real subject-teacher
+  with a public Teachers page and named leadership (Hina Mughal ╬ô├ç├╢ Managing
+  Director; Nouman Ahmed ╬ô├ç├╢ Principal; Javed Iqbal Sabri ╬ô├ç├╢ CFO; Junaid
+  Khalid ╬ô├ç├╢ CTO; Asif Iqbal ╬ô├ç├╢ Marketing Head) and real subject-teacher
   photos. Before publishing any of this on marlbridge.com as named
   faculty/reviewer profiles, still need explicit confirmation of: (1)
   which of these people should be represented on Marlbridge specifically
@@ -161,7 +161,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   their photos/bios on the sibling Marlbridge site is authorised (very
   likely yes, since it's stated as the same organisation, but not yet
   explicitly confirmed).
-- **Implementation consequence:** None yet ΓÇö no faculty profile published
+- **Implementation consequence:** None yet ╬ô├ç├╢ no faculty profile published
   under a real name until (1)-(3) above are confirmed, per the brief's
   explicit rule against inventing role/subject/credential detail even
   when a real photo exists.
@@ -190,7 +190,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   matching their listed subject on the source page. Where a subject has
   multiple teachers (physics, biology, mathematics, accounting), all
   matching teachers are published as authors but only one per subject is
-  additionally marked `isReviewer: true` (see D-006) ΓÇö this was Claude's
+  additionally marked `isReviewer: true` (see D-006) ╬ô├ç├╢ this was Claude's
   own reasonable inference of "most experienced by years taught," not
   something the owner was asked to confirm name-by-name, since the
   owner's instruction was a blanket "publish all 19 with matching
@@ -198,8 +198,8 @@ Status values: `answered` (owner has responded, implemented), `open`
   page does not break down board-by-board coverage, and Marlbridge's own
   matrix spans five boards, so this is left empty rather than guessed.
 - **Implementation consequence:** 19 author files created; 87 resource
-  files (chemistry ├ù65, physics ├ù8, mathematics ├ù7, biology ├ù3, english
-  ├ù1, economics ├ù1, business ├ù1, accounting ├ù1) had their `author` field
+  files (chemistry Γö£├╣65, physics Γö£├╣8, mathematics Γö£├╣7, biology Γö£├╣3, english
+  Γö£├╣1, economics Γö£├╣1, business Γö£├╣1, accounting Γö£├╣1) had their `author` field
   reassigned from `marlbridge-academic-team` to the matching real
   teacher. Two resources (world history, sociology) have no matching
   teacher on the source page and were deliberately left assigned to
@@ -219,10 +219,10 @@ Status values: `answered` (owner has responded, implemented), `open`
   responsible academic reviewer for resources in their subject, and if
   so, does that assignment retroactively mark those resources as already
   reviewed?
-- **Options presented:** Yes ΓÇö subject teacher reviews their own
+- **Options presented:** Yes ╬ô├ç├╢ subject teacher reviews their own
   subject's resources; no reviewer assignment yet; assign a single
   reviewer across all subjects.
-- **Owner response:** "Yes ΓÇö subject teacher reviews their own subject's
+- **Owner response:** "Yes ╬ô├ç├╢ subject teacher reviews their own subject's
   resources (Recommended)"
 - **Final decision:** `src/content.config.ts` was extended with a
   `reviewer: reference('authors').optional()` field (distinct from the
@@ -233,7 +233,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   each of the 8 subjects with a matched teacher, that teacher is set as
   both `author` and `reviewer` on the relevant resources. Critically,
   `reviewStatus` was left at its default `'review-pending'` on every
-  resource ΓÇö being assigned a reviewer does NOT mean a review has
+  resource ╬ô├ç├╢ being assigned a reviewer does NOT mean a review has
   actually happened, and no resource is marked `'reviewed'` without a
   real review pass. The 8 teachers marked `isReviewer: true` on their
   author profile are: Nouman Ahmed (chemistry), Iftikhar Azeemi
@@ -255,12 +255,12 @@ Status values: `answered` (owner has responded, implemented), `open`
 
 ---
 
-## D-007 ΓÇö WhatsApp contact number and always-visible button
+## D-007 ╬ô├ç├╢ WhatsApp contact number and always-visible button
 
 - **Date:** 2026-08-19
 - **Workstream:** Post-v1.x, in-session request
 - **Fact provided:** Owner gave a WhatsApp contact number directly in
-  chat ΓÇö +92 323 9149918 ΓÇö and asked for an always-visible floating
+  chat ╬ô├ç├╢ +92 323 9149918 ╬ô├ç├╢ and asked for an always-visible floating
   WhatsApp button on the site that opens a chat to that number.
 - **Final decision:** Number stored in
   `src/components/ui/WhatsAppButton.astro` in international click-to-chat
@@ -271,7 +271,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   Opens `https://wa.me/923239149918` with a pre-filled greeting message
   in a new tab.
 - **Implementation consequence:** No commercial-claims validator changes
-  needed ΓÇö a contact channel is not an academic or pricing claim. No
+  needed ╬ô├ç├╢ a contact channel is not an academic or pricing claim. No
   secret is involved (a business WhatsApp number is public-facing contact
   information, not a credential), so it is committed directly in the
   component rather than via an environment variable.
@@ -280,7 +280,7 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** answered, implemented.
 
 ---
-## D-008 ΓÇö IB commercial licensing status
+## D-008 ╬ô├ç├╢ IB commercial licensing status
 
 - **Date:** 2026-08-22
 - **Workstream:** IB programme build, in-session request
@@ -288,27 +288,27 @@ Status values: `answered` (owner has responded, implemented), `open`
   resources/IB/`) and confirmed directly in chat that Marlbridge has, or
   is in the process of obtaining, a formal license from the IB
   ("We have/are getting an IB license"). This matters because two of the
-  22 files ΓÇö `economics-guide.pdf` and `physics-guide.pdf` ΓÇö are full
+  22 files ╬ô├ç├╢ `economics-guide.pdf` and `physics-guide.pdf` ╬ô├ç├╢ are full
   84-page internal IB subject guides carrying an explicit IB copyright
   notice restricting commercial use, naming "tutoring organizations" and
   "operators of curriculum mapping or teacher resource digital
   platforms" specifically, and requiring "a subsequent written license
   from the IB" for exactly this kind of use. The other 20 files are
-  shorter public "subject brief" documents with only a plain ┬⌐ notice
+  shorter public "subject brief" documents with only a plain Γö¼ΓîÉ notice
   and no such restriction.
 - **Final decision:** Build full topic-level syllabus data and
   study-guide resources from the two full guides (Economics, Physics)
   on the strength of this confirmation. All other 19 subjects (14
   further DP subjects + 5 MYP subjects) are sourced only from the public
-  subject-brief documents and are deliberately kept at overview depth ΓÇö
+  subject-brief documents and are deliberately kept at overview depth ╬ô├ç├╢
   a "subject-guides" resource describing course aims and structure, not
-  a topic-by-topic syllabus map ΓÇö so no unlicensed derivative of a
+  a topic-by-topic syllabus map ╬ô├ç├╢ so no unlicensed derivative of a
   restricted internal guide is ever published.
 - **Implementation consequence:** `syllabus-topics.ts` gets two new
   `SyllabusVersion` entries (`ib|ib-dp|economics`, `ib|ib-dp|physics`)
   with real topic/subtopic data transcribed from the guides' own
   syllabus outline tables. The remaining 19 IB subjects get no
-  `syllabus-topics.ts` entry at all ΓÇö their hub pages rely on
+  `syllabus-topics.ts` entry at all ╬ô├ç├╢ their hub pages rely on
   `subject-guides` resources only, consistent with the thin-page guard
   in `[subject].astro` (noindex only triggers when a page has *both*
   zero resources and zero syllabus topics; a subject-guides resource
@@ -317,14 +317,14 @@ Status values: `answered` (owner has responded, implemented), `open`
   or its terms differ from what "written license" implies here, this
   decision should be revisited before the two full-guide-derived pages
   go live. No corroborating documentation of the license itself was
-  reviewed in this session ΓÇö the decision rests on the owner's direct
+  reviewed in this session ╬ô├ç├╢ the decision rests on the owner's direct
   chat confirmation, the same evidence tier used for D-007.
 - **Status:** answered, implementation in progress on
   `feature/ib-programme` (not yet merged to `main`).
 
 ---
 
-## D-009 ΓÇö IB tuition pricing (Pakistan, one-to-one)
+## D-009 ╬ô├ç├╢ IB tuition pricing (Pakistan, one-to-one)
 
 - **Date:** 2026-08-22
 - **Workstream:** IB programme build, in-session request
@@ -333,8 +333,8 @@ Status values: `answered` (owner has responded, implemented), `open`
   any region other than Pakistan, and no group-tuition option was
   described for IB.
 - **Final decision:** IB pricing is documented and displayed as a
-  distinct, Pakistan-only, per-class, one-to-one rate ΓÇö Rs 5,000 per
-  class ΓÇö rather than being forced into the existing
+  distinct, Pakistan-only, per-class, one-to-one rate ╬ô├ç├╢ Rs 5,000 per
+  class ╬ô├ç├╢ rather than being forced into the existing
   `REGION_PRICING`/`FeeTier` structure in `src/data/pricing.ts`, which
   is built for a per-subject-per-month rate quoted across all nine
   existing regions. Applying that structure to IB would either fabricate
@@ -347,7 +347,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   page (`src/content/programs/ib.md` and/or its rendering template) and
   possibly a short callout near `/pricing/`, stating clearly: one-to-one
   only, Rs 5,000 per class, Pakistan. (Implementation not yet complete
-  at the time this entry was written ΓÇö tracked as an open task on
+  at the time this entry was written ╬ô├ç├╢ tracked as an open task on
   `feature/ib-programme`.)
 - **Follow-up required:** If IB pricing is later confirmed for other
   regions, or a group-tuition option is introduced, this entry and the
@@ -355,7 +355,7 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** answered, implementation pending on `feature/ib-programme`.
 
 ---
-## D-010 ΓÇö Site-wide duplicate-content sweep
+## D-010 ╬ô├ç├╢ Site-wide duplicate-content sweep
 
 - **Date:** 2026-08-23
 - **Workstream:** Post-v1.x, in-session request ("go through the website
@@ -403,7 +403,7 @@ Status values: `answered` (owner has responded, implemented), `open`
      not a duplicate).
   5. **Sitewide title bug (found incidentally):** 91 resource files had a
      doubled resource-type suffix baked into their frontmatter `title`
-     field (e.g. `"... ΓÇö Practice Questions ΓÇö Practice Questions"`),
+     field (e.g. `"... ╬ô├ç├╢ Practice Questions ╬ô├ç├╢ Practice Questions"`),
      unrelated to the duplicate-pair issue but a real title-quality defect
      across ~8% of the resource collection. Collapsed to a single suffix
      in all 91 files.
@@ -437,7 +437,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   founder's separate explicit approval, per the established pattern).
 
 ---
-## D-011 ΓÇö Weekly automation dedup guard
+## D-011 ╬ô├ç├╢ Weekly automation dedup guard
 
 - **Date:** 2026-08-23
 - **Workstream:** Post-v1.x, in-session request ("do it" -- fixing the
@@ -498,7 +498,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   merged to `main`.
 
 ---
-## D-012 ΓÇö One-to-one class pricing (IGCSE/A Level, all regions)
+## D-012 ╬ô├ç├╢ One-to-one class pricing (IGCSE/A Level, all regions)
 
 - **Date:** 2026-08-23
 - **Workstream:** Post-v1.x, in-session request ("add one to one classes
@@ -553,7 +553,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   periodic revalidation. No other follow-up expected.
 - **Status:** implemented on `feature/one-to-one-pricing`; not yet merged
   to `main`.
-## D-013 ΓÇö August audit fixes: IELTS status, Contact FAQ drift, homepage title
+## D-013 ╬ô├ç├╢ August audit fixes: IELTS status, Contact FAQ drift, homepage title
 
 - **Date:** 2026-08-23
 - **Workstream:** Post-v1.x, in-session request (new audit findings, not
@@ -580,8 +580,8 @@ Status values: `answered` (owner has responded, implemented), `open`
      Level, IB (Middle Years Programme and Diploma Programme, one-to-one)
      and IELTS... SAT is not yet offered."
   3. `src/pages/index.astro`: homepage `<title>` changed from
-     `site.tagline` ("Marlbridge ΓÇö Bridging Knowledge and Opportunity.")
-     to "Marlbridge ΓÇö IGCSE, A Level, IB & GCSE Tutoring" -- a real
+     `site.tagline` ("Marlbridge ╬ô├ç├╢ Bridging Knowledge and Opportunity.")
+     to "Marlbridge ╬ô├ç├╢ IGCSE, A Level, IB & GCSE Tutoring" -- a real
      category keyword instead of branding-only text, using only
      currently-taught program categories. `site.tagline` is unaffected
      everywhere else (footer, Organization schema `slogan`, homepage H1
@@ -597,14 +597,14 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Follow-up required:** None outstanding for these three items. Three
   further items from the same audit round were investigated and found to
   need either an external (non-repo) action or no code change at all --
-  see the same-day audit-response report for HTTPΓåÆHTTPS/HSTS (Cloudflare
+  see the same-day audit-response report for HTTP╬ô├Ñ├åHTTPS/HSTS (Cloudflare
   dashboard setting), Organization `sameAs` (code already supports it,
   needs real social profile URLs), and hreflang/thin-content scope
   (already correctly implemented; not a bug).
 - **Status:** implemented on `fix/august-audit-findings`; not yet merged
   to `main`.
 
-## D-014 ΓÇö HTTP->HTTPS redirect and HSTS enabled (Cloudflare zone setting)
+## D-014 ╬ô├ç├╢ HTTP->HTTPS redirect and HSTS enabled (Cloudflare zone setting)
 
 - **Date:** 2026-08-23
 - **Workstream:** Post-v1.x, in-session request (August audit item 2 --
@@ -643,7 +643,7 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** Done directly against the live Cloudflare zone (not a repo
   change, so no branch/PR applies here).
 
-## D-015 ΓÇö Organization schema sameAs: all 5 confirmed profiles added
+## D-015 ╬ô├ç├╢ Organization schema sameAs: all 5 confirmed profiles added
 
 - **Date:** 2026-08-23
 - **Workstream:** Post-v1.x, in-session request (August audit item 3 --
@@ -685,7 +685,7 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** implemented on `fix/august-audit-findings`; not yet merged
   to `main`.
 
-## D-016 ΓÇö Privacy notice added to the enquiry form (Register #4 / Risk R10)
+## D-016 ╬ô├ç├╢ Privacy notice added to the enquiry form (Register #4 / Risk R10)
 
 - **Date:** 2026-08-23
 - **Workstream:** Post-v1.x, in-session request (external audit register
@@ -698,7 +698,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   enquiry form collects and how it's used.
 - **Final decision:** Added a plain-text privacy notice with a link to
   `/legal/privacy/`, positioned directly above the submit button: "By
-  submitting this form you agree to Marlbridge's Privacy Policy ΓÇö your
+  submitting this form you agree to Marlbridge's Privacy Policy ╬ô├ç├╢ your
   information is used only to respond to your enquiry." A mandatory
   tick-box was deliberately NOT added -- this form collects data under
   legitimate-interest/contract processing to answer a genuine enquiry,
@@ -718,7 +718,7 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** implemented on `fix/enquiry-form-privacy-notice`; not yet
   merged to `main`.
 
-## D-017 ΓÇö Staff photos rendered on author bio pages
+## D-017 ╬ô├ç├╢ Staff photos rendered on author bio pages
 
 - **Date:** 2026-08-24
 - **Workstream:** v1.x CLOSURE follow-up (user-reported: /authors/harris-zaman/
@@ -758,7 +758,7 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** implemented on `content/staff-photos-authors`; not yet
   merged to `main`.
 
-## D-018 ΓÇö Subject-list resource-count badge overlapping the level label
+## D-018 ╬ô├ç├╢ Subject-list resource-count badge overlapping the level label
 
 - **Date:** 2026-08-24
 - **Workstream:** v1.x CLOSURE follow-up (user-reported, screenshot of
@@ -795,7 +795,7 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** implemented on `fix/subject-list-badge-overlap`; not yet
   merged to `main`.
 
-## D-019 ΓÇö Same badge/level overlap bug, second location: homepage subjects preview
+## D-019 ╬ô├ç├╢ Same badge/level overlap bug, second location: homepage subjects preview
 
 - **Date:** 2026-08-24
 - **Workstream:** v1.x CLOSURE follow-up (user-reported, second screenshot
@@ -829,7 +829,7 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** implemented on `fix/homepage-subjects-badge-overlap`; not
   yet merged to `main`.
 
-## D-020 ΓÇö /resources/ sections grouped by subject instead of one flat date-sorted grid
+## D-020 ╬ô├ç├╢ /resources/ sections grouped by subject instead of one flat date-sorted grid
 
 - **Date:** 2026-08-24
 - **Workstream:** v1.x CLOSURE follow-up (user-reported: "the study guides
@@ -878,7 +878,7 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** implemented on `feature/resources-group-by-subject`; not
   yet merged to `main`.
 
-## D-021 ΓÇö Subject/level filter dropdowns added to /resources/ sections
+## D-021 ╬ô├ç├╢ Subject/level filter dropdowns added to /resources/ sections
 
 - **Date:** 2026-08-24
 - **Workstream:** v1.x CLOSURE follow-up, direct continuation of D-020.
@@ -922,7 +922,7 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** implemented on `feature/resources-subject-level-filter`;
   not yet merged to `main`.
 
-## D-022 ΓÇö "Free Trial Class" header CTA added
+## D-022 ╬ô├ç├╢ "Free Trial Class" header CTA added
 
 - **Date:** 2026-08-24
 - **Workstream:** v1.x CLOSURE follow-up (user request: a header button
@@ -966,7 +966,7 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** implemented on `feature/header-free-trial-button`; not yet
   merged to `main`.
 
-## D-023 ΓÇö Canonical academic-page indexability policy (isIndexableAcademicPage)
+## D-023 ╬ô├ç├╢ Canonical academic-page indexability policy (isIndexableAcademicPage)
 
 - **Date:** 2026-08-25.
 - **Workstream:** Aug 2026 technical-SEO remediation brief (external, user-
@@ -1068,7 +1068,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   board-regression, negative-validation-suite, unit tests, npm audit, tsc
   --noEmit, wrangler deploy --dry-run); not yet merged to `main`.
 
-## D-024 ΓÇö 27 pages expanded past the indexability bar instead of staying noindexed
+## D-024 ╬ô├ç├╢ 27 pages expanded past the indexability bar instead of staying noindexed
 
 - **Date:** 2026-08-25.
 - **Workstream:** Follow-up to D-023, same feature branch. User reviewed
@@ -1138,7 +1138,7 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** implemented on `feature/seo-indexability-policy`, same
   branch as D-023; not yet merged to `main`.
 
-## D-025 ΓÇö Phase 3/5/7/10 of the SEO remediation: classification, metadata, fonts, structured data
+## D-025 ╬ô├ç├╢ Phase 3/5/7/10 of the SEO remediation: classification, metadata, fonts, structured data
 
 - **Date:** 2026-08-25.
 - **Workstream:** Continuation of the Aug 2026 SEO remediation brief,
@@ -1169,8 +1169,8 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Phase 7 (fonts) -- real bug found, not just a performance nit:**
   Hash-compared every `public/fonts/*.woff2`. Found the Newsreader and
   Public Sans 500/600-weight files were byte-identical to their
-  respective 400-weight files (Newsreader 400Γëí500, Public Sans
-  400Γëí500Γëí600, both latin and latin-ext subsets) -- meaning `font-weight:
+  respective 400-weight files (Newsreader 400╬ô├½├¡500, Public Sans
+  400╬ô├½├¡500╬ô├½├¡600, both latin and latin-ext subsets) -- meaning `font-weight:
   500`/`600` in CSS was silently serving regular-weight glyphs. This is
   a visual defect, not merely a wasted-download one: any UI element
   styled with those weights was never actually rendering bolder text.
@@ -1215,7 +1215,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   suite, sitemap-noindex safeguard, unit tests, npm audit, tsc --noEmit,
   wrangler deploy --dry-run).
 
-## D-026 ΓÇö Phase 8: real Lighthouse/PageSpeed baseline captured
+## D-026 ╬ô├ç├╢ Phase 8: real Lighthouse/PageSpeed baseline captured
 
 - **Date:** 2026-08-25.
 - **Workstream:** Aug 2026 SEO remediation, Phase 8.
@@ -1240,7 +1240,7 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** documentation-only change (`docs/reports/`), no code or
   content touched, committed directly to `main`.
 
-## D-027 ΓÇö Phase 4: the 8 named GSC priority pages, plus remaining query-term mappings
+## D-027 ╬ô├ç├╢ Phase 4: the 8 named GSC priority pages, plus remaining query-term mappings
 
 - **Date:** 2026-08-25.
 - **Workstream:** Aug 2026 SEO remediation, Phase 4.
@@ -1327,7 +1327,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   audit:structured-data, unit tests [13/13], npm audit [0
   vulnerabilities], tsc --noEmit, wrangler deploy --dry-run).
 
-## D-028 ΓÇö Phase 6: canonical/redirect audit and _redirects maintainability guard
+## D-028 ╬ô├ç├╢ Phase 6: canonical/redirect audit and _redirects maintainability guard
 
 - **Date:** 2026-08-25.
 - **Workstream:** Aug 2026 SEO remediation, Phase 6.
@@ -1389,7 +1389,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   unit tests [13/13], npm audit [0 vulnerabilities], tsc --noEmit,
   wrangler deploy --dry-run).
 
-## D-029 ΓÇö Phase 9: internal-link graph audit, sitewide
+## D-029 ╬ô├ç├╢ Phase 9: internal-link graph audit, sitewide
 
 - **Date:** 2026-08-25.
 - **Workstream:** Aug 2026 SEO remediation, Phase 9.
@@ -1433,7 +1433,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   audit:internal-links, unit tests [13/13], npm audit [0
   vulnerabilities], tsc --noEmit, wrangler deploy --dry-run).
 
-## D-030 ΓÇö Phase 11: all 14 automated safeguard tests wired and green
+## D-030 ╬ô├ç├╢ Phase 11: all 14 automated safeguard tests wired and green
 
 - **Date:** 2026-08-25.
 - **Workstream:** Aug 2026 SEO remediation, Phase 11.
@@ -1477,7 +1477,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   audit:all` [all 6 checks + sitemap-noindex], unit tests [13/13], npm
   audit [0 vulnerabilities], tsc --noEmit, wrangler deploy --dry-run).
 
-## D-031 ΓÇö Phase 12: resource clusters for Urdu, Islamiyat, English Literature, Computer Science, Economics, Accounting
+## D-031 ╬ô├ç├╢ Phase 12: resource clusters for Urdu, Islamiyat, English Literature, Computer Science, Economics, Accounting
 
 - **Date:** 2026-08-25/26.
 - **Workstream:** Aug 2026 SEO remediation, Phase 12.
@@ -1554,7 +1554,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   noindex safeguard], unit tests [13/13], npm audit [0 vulnerabilities],
   tsc --noEmit, wrangler deploy --dry-run).
 
-## D-032 ΓÇö QIGT Section 3: real publication-state enforcement + editorial-policy honesty fix
+## D-032 ╬ô├ç├╢ QIGT Section 3: real publication-state enforcement + editorial-policy honesty fix
 
 - **Date:** 2026-08-26.
 - **Workstream:** Quality/Indexing/Growth/Trust (QIGT) remediation programme, Section 3 (Quality assurance).
@@ -1583,8 +1583,8 @@ Status values: `answered` (owner has responded, implemented), `open`
     `reviewStatus !== 'draft'` in addition to the pre-existing boolean
     field, reconciling the two mechanisms so they cannot disagree.
     `src/utils/content/related.ts` and `resourcesAvailableFor()`
-    (`src/utils/content/status.ts`) ΓÇö every place that lists, links to, or
-    counts resources/articles ΓÇö updated the same way, so a draft item
+    (`src/utils/content/status.ts`) ╬ô├ç├╢ every place that lists, links to, or
+    counts resources/articles ╬ô├ç├╢ updated the same way, so a draft item
     can never appear in a listing, related-content block, or subject
     resource-count badge whose own page doesn't actually get built.
   - `astro.config.mjs` gained `buildArchivedContentExclusions()` (mirrors
@@ -1653,7 +1653,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   [13/13], npm audit [0 vulnerabilities], tsc --noEmit, wrangler deploy
   --dry-run).
 
-## D-033 ΓÇö QIGT Section 4: indexing-efficiency audit + /search/ noindex fix
+## D-033 ╬ô├ç├╢ QIGT Section 4: indexing-efficiency audit + /search/ noindex fix
 
 - **Date:** 2026-08-26.
 - **Workstream:** QIGT programme, Section 4 (Indexing efficiency).
@@ -1674,7 +1674,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   built in the prior programme (D-023/D-024) actually catches drift
   rather than just existing.
 - **Everything else checked came back clean, not re-implemented:**
-  self-canonicals (structurally guaranteed by `Meta.astro`), HTTPΓåÆHTTPS
+  self-canonicals (structurally guaranteed by `Meta.astro`), HTTP╬ô├Ñ├åHTTPS
   redirect (verified live), trailing-slash consistency
   (`trailingSlash: 'always'`), no redirected/noindexed/chained/looped
   URLs in the sitemap (already enforced by `audit-redirects.mjs` and
@@ -1693,7 +1693,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   category in `scripts/generate-redirects.mjs` against its own
   documented rationale; found no synthetic, never-public, speculative
   redirect -- every rule traces to a genuinely-was-live URL shape
-  (flattened resource type-prefixed paths, the `/learning/` ΓåÆ `/articles/`
+  (flattened resource type-prefixed paths, the `/learning/` ╬ô├Ñ├å `/articles/`
   rename, or a named, dated, decision-logged content consolidation). No
   redirects removed.
 - **Page-uniqueness / crawled-not-indexed risk:** the templates most
@@ -1714,14 +1714,14 @@ Status values: `answered` (owner has responded, implemented), `open`
   `npm run audit:all`, unit tests [13/13], npm audit [0 vulnerabilities],
   tsc --noEmit, wrangler deploy --dry-run).
 
-## D-034 ΓÇö QIGT Section 5: trust-consistency workstream (pricing display, teaching-location, authorship, licensing, trial flow)
+## D-034 ╬ô├ç├╢ QIGT Section 5: trust-consistency workstream (pricing display, teaching-location, authorship, licensing, trial flow)
 
 - **Date:** 2026-08-26.
 - **Workstream:** QIGT programme, Section 5 (Trust consistency).
 - **Pricing display bug fixed (duplicated currency):** `src/pages/pricing/index.astro` rendered every fee as
   `{symbol} {amount} {currency}/unit` -- for regions where the symbol already IS the ISO code (SAR, AED, QAR,
   KWD, BHD, OMR) this produced literal duplication ("SAR 270 SAR/subject/month"), and even where symbol and
-  code differ (Rs/PKR, ┬ú/GBP) it showed both together, exactly the defect class the brief named. Standardised
+  code differ (Rs/PKR, Γö¼├║/GBP) it showed both together, exactly the defect class the brief named. Standardised
   every fee cell, the IB card and both pricing FAQ answers on a single format -- amount + ISO currency code
   only, unit stated separately (e.g. "270 SAR /subject/month", "19,000 PKR /subject/month") -- across the two
   region tables, the one-to-one table, the IB card and the two FAQ answers that previously spelled out symbol
@@ -1751,7 +1751,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   Terms to carve out an explicit exception matching what Schools already grants (class use, no permission
   needed) while keeping the "write to us first" requirement for the different, still-real cases Terms actually
   intends to gate -- republishing under another name, resale, other partnerships. Did not touch the sitewide
-  footer copyright notice ("┬⌐ 2026 Marlbridge. All rights reserved.") -- a standard ownership assertion, not
+  footer copyright notice ("Γö¼ΓîÉ 2026 Marlbridge. All rights reserved.") -- a standard ownership assertion, not
   itself a reuse restriction, so it does not conflict with a specific permission grant elsewhere. The deeper
   question of exactly how far the schools' class-use permission extends (bulk printing, LMS upload,
   modification) is a genuine unresolved scope question, not something inferable from existing wording --
@@ -1786,7 +1786,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   `validate:academic` chain incl. `validate-pricing-consistency.mjs` and `validate-review-integrity.mjs`,
   `audit:all`, `enquiry-validation.test.mjs` [16/16], `test-negative-validation-suite.mjs` [11/11]).
 
-## D-035 ΓÇö QIGT Section 6: demand-led optimization audit of 10 named GSC priority pages
+## D-035 ╬ô├ç├╢ QIGT Section 6: demand-led optimization audit of 10 named GSC priority pages
 
 - **Date:** 2026-08-26.
 - **Workstream:** QIGT programme, Section 6 (Demand-led search optimization).
@@ -1825,7 +1825,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   and ground rules, diff verified directly against the report before merge), full validation gate green
   (`npm run build` 1132 pages, `validate:academic`, `audit:all`, `npm run check` -- 0 errors/warnings/hints).
 
-## D-036 ΓÇö QIGT Section 7 (search): Pagefind primary-content scoping + filters
+## D-036 ╬ô├ç├╢ QIGT Section 7 (search): Pagefind primary-content scoping + filters
 
 - **Date:** 2026-08-26.
 - **Workstream:** QIGT programme, Section 7 (Search/Pagefind).
@@ -1861,7 +1861,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   validation gate green (`npm run build` -- 1132 pages, 5 filters indexed; `validate:academic`;
   `audit:all`; `npm run check` -- 140 files, 0 errors/warnings/hints).
 
-## D-037 ΓÇö QIGT Section 7 (IA): empty-category navigation + subject-summary qualification honesty
+## D-037 ╬ô├ç├╢ QIGT Section 7 (IA): empty-category navigation + subject-summary qualification honesty
 
 - **Date:** 2026-08-26.
 - **Workstream:** QIGT programme, IA/homepage-honesty item (task #78).
@@ -1891,7 +1891,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   computer-science/world-history each missing "IB Diploma Programme" despite a real, live `/boards/ib/ib-dp/
   <subject>/` page existing; several also missing GCSE; mathematics missing "IB Middle Years Programme";
   business missing IGCSE, GCSE, AS Level AND IB DP; economics and psychology each missing 2-3 real
-  qualifications) and **false claim** (Accounting's label said "O ┬╖ A Level" -- Cambridge O Level Accounting
+  qualifications) and **false claim** (Accounting's label said "O Γö¼Γòû A Level" -- Cambridge O Level Accounting
   does not exist in the matrix and no such page has ever been built; the real offering is IGCSE + A Level).
   Corrected all 11 `levelsLabel` values in `src/content/subjects/*.md` to exactly match the live matrix,
   verified programmatically afterward (33/35 subjects now parse-clean against the matrix; the remaining 2 --
@@ -1907,7 +1907,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   green (`npm run build` -- 1132 pages; `validate:academic`; `audit:all` incl. 0 orphan pages after the nav
   change; `npm run check` -- 140 files, 0 errors/warnings/hints).
 
-## D-038 ΓÇö QIGT Section 8: AEO/GEO/AIO schema and llms.txt truthfulness pass
+## D-038 ╬ô├ç├╢ QIGT Section 8: AEO/GEO/AIO schema and llms.txt truthfulness pass
 
 - **Date:** 2026-08-26.
 - **Workstream:** QIGT programme, Section 8 (AEO/GEO/AIO / structured data / llms.txt).
@@ -1950,7 +1950,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   gate green (`npm run build`; `validate:academic`; `audit:all`; `npm run check` -- 0 errors/warnings/hints;
   `enquiry-validation.test.mjs` 23/23; `test-negative-validation-suite.mjs` 11/11 incl. `[E]`).
 
-## D-039 ΓÇö QIGT Section 9: performance + accessibility, fresh multi-page evidence
+## D-039 ╬ô├ç├╢ QIGT Section 9: performance + accessibility, fresh multi-page evidence
 
 - **Date:** 2026-08-26.
 - **Workstream:** QIGT programme, Section 9 (Performance + accessibility).
@@ -2003,7 +2003,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   0 errors/warnings/hints); accessibility verified via real before/after Lighthouse runs, not
   static audit alone.
 
-## D-040 ΓÇö Business-decisions register (owner input required)
+## D-040 ╬ô├ç├╢ Business-decisions register (owner input required)
 
 - **Date:** 2026-08-26.
 - **Workstream:** QIGT programme, task #81.
@@ -2036,7 +2036,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   items remain `open` pending direct owner input; none block the
   remaining technical QIGT workstreams (#82, #83).
 
-## D-041 ΓÇö Full validation gate + before/after comparison (final QIGT gate)
+## D-041 ╬ô├ç├╢ Full validation gate + before/after comparison (final QIGT gate)
 
 - **Date:** 2026-08-26.
 - **Workstream:** QIGT programme, task #82. Consolidated validation of the combined effect of
@@ -2046,15 +2046,15 @@ Status values: `answered` (owner has responded, implemented), `open`
   - `npm run build`: succeeds. Pagefind indexed 1,132 HTML files, 4 languages, 5 filters (was
     "Indexing all `<body>` elements, 0 filters" before D-036).
   - `npx astro check`: 0 errors / 0 warnings / 0 hints (140 files).
-  - `npm run validate:academic` (6 validators): all OK ΓÇö matrix 183 rows (160 ACTIVE / 23
+  - `npm run validate:academic` (6 validators): all OK ╬ô├ç├╢ matrix 183 rows (160 ACTIVE / 23
     NOT_SUPPORTED, unchanged from baseline), content tagging OK, commercial claims OK,
     cross-board integrity OK (5/5 rule categories), pricing consistency OK (0 hard-coded fees
     outside `pricing.ts` across 879 files), review-integrity OK (731 resources + 4 articles
     checked, 20 reviewer records, 9 `isReviewer: true`).
   - `npm run audit:all` (6 checks + sitemap-noindex): 0 problems across all. Structured-data
-    audit: 1,131 pages with JSON-LD, 5,353 typed nodes (EducationalOrganization ├ù1,131,
-    WebSite ├ù1,131, WebPage ├ù1,131, BreadcrumbList ├ù988, Article ├ù735, Course ├ù167,
-    FAQPage ├ù50, Person ├ù19, Organization ├ù1). Redirect audit: 976 rules (975 static + 1
+    audit: 1,131 pages with JSON-LD, 5,353 typed nodes (EducationalOrganization Γö£├╣1,131,
+    WebSite Γö£├╣1,131, WebPage Γö£├╣1,131, BreadcrumbList Γö£├╣988, Article Γö£├╣735, Course Γö£├╣167,
+    FAQPage Γö£├╣50, Person Γö£├╣19, Organization Γö£├╣1). Redirect audit: 976 rules (975 static + 1
     wildcard), unchanged from baseline. Internal-link audit: 0 broken links, 0 orphan pages,
     0 generic anchor text, across 1,132 built pages / 1,130 indexable.
   - `node scripts/test-cross-board-regression.mjs`: OK, all previously-flagged and control
@@ -2067,20 +2067,20 @@ Status values: `answered` (owner has responded, implemented), `open`
     --dry-run`: succeeds, 3,622 files read from `dist`.
 - **Before/after comparison (Section 11 requirements):**
   - **Route/page count:** 1,131 built pages at baseline (2026-08-26 morning, commit
-    `e04fbc3...`) ΓåÆ 1,131-1,132 now (audit scripts count this two different ways, both
+    `e04fbc3...`) ╬ô├Ñ├å 1,131-1,132 now (audit scripts count this two different ways, both
     pre-existing behaviour, not a regression) -- net unchanged; the QIGT programme reshaped and
     fixed existing pages, added exactly one net-new page (`/trial/`, D-034), and removed exactly
     one page from the indexable set (`/search/`, noindexed under D-033) -- the counts wash out.
-  - **Sitemap URL set:** 1,130 URLs at baseline ΓåÆ **1,130 URLs now**, re-verified directly
+  - **Sitemap URL set:** 1,130 URLs at baseline ╬ô├Ñ├å **1,130 URLs now**, re-verified directly
     against the live production sitemap (`sitemap-0.xml`, 1,130 `<loc>` entries), not just the
     local build. `/search/` confirmed absent (0 matches); `/trial/` confirmed present (1 match).
-  - **Redirect count:** 976 (975 static + 1 wildcard) at baseline ΓåÆ **976, unchanged** ΓÇö no
+  - **Redirect count:** 976 (975 static + 1 wildcard) at baseline ╬ô├Ñ├å **976, unchanged** ╬ô├ç├╢ no
     redirects added or removed this programme; the redirect-inventory audit (D-033) reviewed
     every existing rule's rationale and found nothing synthetic to remove.
   - **Indexable / noindexed pages:** baseline had 0 pages with an explicit code-level noindex
     that were also correctly excluded from the sitemap (the `isIndexableAcademicPage()` policy's
     27 pages were already excluded pre-QIGT). This programme added exactly one more:
-    `/search/` (D-033) ΓÇö verified live in production returning
+    `/search/` (D-033) ╬ô├ç├╢ verified live in production returning
     `<meta name="robots" content="noindex, follow">` and absent from the production sitemap.
   - **Titles/descriptions:** 0 missing, 0 duplicate titles, 0 duplicate descriptions at baseline
     and now (`audit-metadata.mjs`, 1,131 pages both times).
@@ -2094,24 +2094,24 @@ Status values: `answered` (owner has responded, implemented), `open`
   - **Internal links:** 0 broken, 0 orphans at baseline and now (`audit-internal-links.mjs`);
     D-036 added new internal `data-pagefind-filter` metadata (not visible links) rather than
     changing the link graph itself.
-  - **Academic matrix:** 183 rows, 160 ACTIVE / 23 NOT_SUPPORTED at baseline and now ΓÇö completely
+  - **Academic matrix:** 183 rows, 160 ACTIVE / 23 NOT_SUPPORTED at baseline and now ╬ô├ç├╢ completely
     unchanged in row count, but D-037 corrected `levelsLabel` display copy for 11 subjects where
     it had drifted out of sync with the matrix's real ACTIVE combinations (a display-honesty fix,
     not a matrix change).
   - **Pricing data:** `src/data/pricing.ts` amounts unchanged throughout (0 amounts touched by
     D-034's display-bug fix, confirmed by `validate-pricing-consistency.mjs` passing identically
     before and after).
-  - **Production headers:** re-verified live (not just locally) during this pass ΓÇö
+  - **Production headers:** re-verified live (not just locally) during this pass ╬ô├ç├╢
     `strict-transport-security: max-age=15552000` present on both `marlbridge.com` and
     `www.marlbridge.com`; `/search/` correctly serves `noindex, follow` in production, not just
     in the local build; `/trial/` confirmed live and rendering the new structured fields.
 - **Unplanned discovery during this pass, register corrected:** re-checking `www.marlbridge.com`
   live (previously found not resolving at all in D-010/D-033) found it now resolves cleanly,
   returns HTTP 200, serves byte-identical content to the bare domain, and carries a correct
-  self-referencing canonical to `https://marlbridge.com/` ΓÇö the same safe pattern already
+  self-referencing canonical to `https://marlbridge.com/` ╬ô├ç├╢ the same safe pattern already
   verified for the other apex/protocol variants. Whatever caused the earlier timeout has
   resolved itself (DNS propagation or a Cloudflare-side change, not something in this
-  repository). `docs/business-decisions-register.md` item 6 updated in place to reflect this ΓÇö
+  repository). `docs/business-decisions-register.md` item 6 updated in place to reflect this ╬ô├ç├╢
   downgraded from "action needed" to an optional, non-blocking tidiness recommendation, with the
   correction dated and explained rather than silently overwritten.
 - **Guardrail check:** every "after" figure in this entry was measured fresh this pass (local
@@ -2120,7 +2120,7 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** full validation gate green on `main` at commit `e870812`; before/after comparison
   complete; one register item corrected based on fresh live evidence.
 
-## D-042 ΓÇö Deployment verification + final evidence-based report (programme close-out)
+## D-042 ╬ô├ç├╢ Deployment verification + final evidence-based report (programme close-out)
 
 - **Date:** 2026-08-26.
 - **Workstream:** QIGT programme, task #83 (final task).
@@ -2154,7 +2154,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   live in production, report delivered. This is the final entry of the QIGT programme (D-032
   through D-042); task #83 and the full QIGT task list are now complete.
 
-## D-043 ΓÇö Business-decisions register: all five open items answered and implemented
+## D-043 ╬ô├ç├╢ Business-decisions register: all five open items answered and implemented
 
 - **Date:** 2026-08-26.
 - **Workstream:** post-QIGT follow-up, at the owner's direct request ("ask me questions from the
@@ -2199,7 +2199,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   green (build, astro check, `validate:academic`, `audit:all`, negative-validation-suite [11/11],
   `tsc --noEmit`, `wrangler deploy --dry-run`).
 
-## D-044 ΓÇö /resources/ index page performance fix + regression testing
+## D-044 ╬ô├ç├╢ /resources/ index page performance fix + regression testing
 
 - **Date:** 2026-08-26.
 - **Workstream:** post-QIGT follow-up, at the owner's direct request ("after that you can do the
@@ -2253,7 +2253,7 @@ Status values: `answered` (owner has responded, implemented), `open`
 ---
 # MARLBRIDGE v1.x CLOSURE RELEASE
 
-## D-045 ΓÇö v1.x Closure: Workstream 0 baseline
+## D-045 ╬ô├ç├╢ v1.x Closure: Workstream 0 baseline
 
 - **Date:** 2026-08-26.
 - **Workstream:** v1.x Closure Release, WS0 (Baseline).
@@ -2330,7 +2330,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   (README), WS5 (assessment model), WS2 (translation, phased scope), WS6 (resource depth), WS4
   (report regeneration, run last so figures are final), then the complete validation gate.
 
-## D-046 ΓÇö v1.x Closure WS3: www.marlbridge.com -> marlbridge.com, 301
+## D-046 ╬ô├ç├╢ v1.x Closure WS3: www.marlbridge.com -> marlbridge.com, 301
 
 - **Date:** 2026-08-26.
 - **Workstream:** v1.x Closure Release, Workstream 3 (hostname redirect).
@@ -2384,7 +2384,7 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** implemented on `release/v1.x-closure`; full validation gate to be re-run at the end
   of this release; production verification pending deploy.
 
-## D-047 ΓÇö v1.x Closure WS1: simplify trial form to the 5 approved fields
+## D-047 ╬ô├ç├╢ v1.x Closure WS1: simplify trial form to the 5 approved fields
 
 - **Date:** 2026-08-26.
 - **Workstream:** v1.x Closure Release, Workstream 1.
@@ -2438,7 +2438,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   server-side data; message hint present and complete; Turnstile/honeypot/Resend paths untouched;
   automated tests prove the allowed-field contract (18/18 passing).
 
-## D-048 ΓÇö v1.x Closure WS9: fresh review of the 12 duplicate-scope warnings
+## D-048 ╬ô├ç├╢ v1.x Closure WS9: fresh review of the 12 duplicate-scope warnings
 
 - **Date:** 2026-08-26.
 - **Workstream:** v1.x Closure Release, Workstream 9.
@@ -2468,7 +2468,7 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** all 12 warnings classified with recorded evidence; both genuine defects fixed
   (merged, redirected, links updated); checker now fails the build on any future unreviewed group.
 
-## D-049 ΓÇö v1.x Closure WS8: FX-rate policy
+## D-049 ╬ô├ç├╢ v1.x Closure WS8: FX-rate policy
 
 - **Date:** 2026-08-26.
 - **Workstream:** v1.x Closure Release, Workstream 8.
@@ -2489,7 +2489,7 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** FX-rate policy complete -- typed, transparent, with a staleness validator and tests
   protecting the approved base rates.
 
-## D-050 ΓÇö v1.x Closure WS5: model assessment information
+## D-050 ╬ô├ç├╢ v1.x Closure WS5: model assessment information
 
 - **Date:** 2026-08-26.
 - **Workstream:** v1.x Closure Release, Workstream 5.
@@ -2517,7 +2517,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   display replacing universal NO_DATA. Remaining 148 ACTIVE combinations are a tracked, visible
   gap, explicitly out of this release's bounded scope.
 
-## D-051 ΓÇö v1.x Closure WS2: translation scope boundary
+## D-051 ╬ô├ç├╢ v1.x Closure WS2: translation scope boundary
 
 - **Date:** 2026-08-26.
 - **Workstream:** v1.x Closure Release, WS2 (Translation), scope clarification.
@@ -2532,7 +2532,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   release's translation workload bounded and avoiding scope creep into the two 160-row hub
   matrices and resource-count concerns WS6 already treats separately.
 
-## D-052 ΓÇö v1.x Closure WS2: translation implementation
+## D-052 ╬ô├ç├╢ v1.x Closure WS2: translation implementation
 
 - **Date:** 2026-08-26.
 - **Workstream:** v1.x Closure Release, WS2 (Translation), full implementation, following D-051's
@@ -2555,7 +2555,7 @@ Status values: `answered` (owner has responded, implemented), `open`
   native-speaker review of all translated copy remains outstanding (disclosed on every translated
   page's visible banner).
 
-## D-053 ΓÇö v1.x Closure WS6: resource depth (36 single-resource combinations)
+## D-053 ╬ô├ç├╢ v1.x Closure WS6: resource depth (36 single-resource combinations)
 
 **Context.** D-045's WS0 baseline flagged 36 ACTIVE board+qualification+subject combinations
 with exactly one resource against the site's own established norm of a study-guide accompanied
@@ -2592,7 +2592,7 @@ audit:all` passes with 0 problems; `node scripts/test-negative-validation-suite.
 `academic-coverage-report-v2.mjs` run confirms 0/160 ACTIVE combinations now have exactly 1
 resource (down from 36 at baseline).
 
-## D-054 ΓÇö v1.x Closure WS4: regenerate and consolidate reports
+## D-054 ╬ô├ç├╢ v1.x Closure WS4: regenerate and consolidate reports
 
 **Scope.** Deliberately run last in this release, after WS2 (translation) and WS6 (resource
 depth) had both already changed the data several standing reports describe.
@@ -2621,7 +2621,7 @@ reports (dated historical artifacts from earlier, separate sessions).
 clean.
 
 
-## D-055 ΓÇö v2.0 WS4: Cambridge IGCSE Literature in English (0475) skipped -- multi-route optionality not representable in the current schema
+## D-055 ╬ô├ç├╢ v2.0 WS4: Cambridge IGCSE Literature in English (0475) skipped -- multi-route optionality not representable in the current schema
 
 - **Date:** 2026-08-28.
 - **Workstream:** v2.0 Mega Programme, Workstream 4 (Cambridge International assessment
@@ -2657,7 +2657,7 @@ clean.
   modeling decision is made; only the schema/convention question blocks completion.
 
 
-## D-056 ΓÇö v2.0 WS5: Pearson Edexcel International A Level Law -- qualification code discrepancy (YLA11 vs YLA1)
+## D-056 ╬ô├ç├╢ v2.0 WS5: Pearson Edexcel International A Level Law -- qualification code discrepancy (YLA11 vs YLA1)
 
 - **Date:** 2026-08-28.
 - **Workstream:** v2.0 Mega Programme, Workstream 5 (Pearson Edexcel assessment intelligence).
@@ -2690,7 +2690,7 @@ clean.
   anything unverified or misrepresented.
 
 
-## D-057 ΓÇö v2.0 WS6: AQA GCSE Sociology (8192) skipped -- matrix.ts lists it ACTIVE but syllabuses.ts has no matching entry
+## D-057 ╬ô├ç├╢ v2.0 WS6: AQA GCSE Sociology (8192) skipped -- matrix.ts lists it ACTIVE but syllabuses.ts has no matching entry
 
 - **Date:** 2026-08-28.
 - **Workstream:** v2.0 Mega Programme, Workstream 6 (AQA assessment intelligence), batch 1.
@@ -2718,7 +2718,7 @@ clean.
   silently working around -- tracked here per the standing instruction not to leave anything unverified or
   misrepresented. Also noted in the assessment validator's own NOT_YET_MODELED coverage count.
 
-## D-058 ΓÇö AQA A-level English Literature A (7712): verified but not modeled as its own assessments.ts record
+## D-058 ╬ô├ç├╢ AQA A-level English Literature A (7712): verified but not modeled as its own assessments.ts record
 
 - **Context:** v2.0 WS6 (AQA assessment intelligence) researched and fully verified AQA's A-level English
   Literature A specification (7712) directly against its own official specification-at-a-glance page
@@ -2758,7 +2758,7 @@ clean.
   around -- tracked here per the standing instruction not to leave anything unverified or misrepresented.
   Also noted in the assessment validator's own NOT_YET_MODELED coverage count.
 
-## D-059 ΓÇö v2.0 MEGA PROGRAMME WS14: i18n for assessment UX ΓÇö scope confirmed, readiness documented
+## D-059 ╬ô├ç├╢ v2.0 MEGA PROGRAMME WS14: i18n for assessment UX ╬ô├ç├╢ scope confirmed, readiness documented
 
 - **Date:** 2026-08-28.
 - **Workstream:** v2.0 MEGA PROGRAMME, WS14 (i18n for assessment UX), scope clarification.
@@ -2821,7 +2821,7 @@ clean.
   scoped as its own release, matching the discipline `docs/decision-log.md` already applies to every
   other deferred, tracked gap in this programme (D-050, D-058) rather than leaving it undocumented.
 
-## D-060 ΓÇö v2.0 MEGA PROGRAMME WS11-WS21: closure, verification, live confirmation
+## D-060 ╬ô├ç├╢ v2.0 MEGA PROGRAMME WS11-WS21: closure, verification, live confirmation
 
 - **Date:** 2026-08-28.
 - **Workstream:** v2.0 MEGA PROGRAMME, WS11 through WS21 (this session's continuous run,
@@ -2832,16 +2832,16 @@ clean.
     AS Business 7131 both pointed at replacement codes (7138, 7137) with no record of their own.
     Sourced both from AQA's official specification PDF (fetched via a working mirror after AQA's
     own `specification-at-a-glance` pages proved JS-rendered), added syllabuses.ts + assessments.ts
-    records for both, and flipped 7132/7131 from `legacy-teach-out` to `current` ΓÇö their
+    records for both, and flipped 7132/7131 from `legacy-teach-out` to `current` ╬ô├ç├╢ their
     replacements' first-teaching date (September 2026) hadn't arrived as of this record's
     verification date, so 7132/7131 remain what every enrolling/continuing student actually
     follows, matching the same convention WS8 established for OxfordAQA Business 9625/9725. (The
-    pre-existing OCR H431/H436 pair uses the opposite convention ΓÇö noted, deliberately left
+    pre-existing OCR H431/H436 pair uses the opposite convention ╬ô├ç├╢ noted, deliberately left
     untouched as a subjective judgement call on an already-passing record, not a data gap.)
   - **WS12 (public assessment UX):** the "Assessment structure" section handled `current` and
     `legacy-teach-out` well but gave `future`/`withdrawn` records no explanatory note at all, gave
     `routeGroup` components no footnote (unlike `alternativeGroup`), never surfaced
-    `assessmentModel`, and had an incomplete `ASSESSMENT_TYPE_LABEL` map ΓÇö `multiple-choice` and
+    `assessmentModel`, and had an incomplete `ASSESSMENT_TYPE_LABEL` map ╬ô├ç├╢ `multiple-choice` and
     `alternative-to-practical` were rendering as raw hyphenated slugs on live pages. Fixed all four.
   - **WS13 (resource-assessment mapping):** resources/articles declare `syllabusCodes` but nothing
     cross-checked them against real syllabuses.ts/assessments.ts codes. Added a new build-failing
@@ -2857,27 +2857,27 @@ clean.
   - **WS15 (SEO/AEO/AIO):** the richest content this programme built had zero structured data
     beyond a bare Course node and no FAQ section at all (every other directory-level page already
     had one). Added a "Assessment FAQs" section + FAQPage JSON-LD, generated strictly from the
-    same `assessments` array the table renders ΓÇö component-by-component, never a summed total (a
+    same `assessments` array the table renders ╬ô├ç├╢ component-by-component, never a summed total (a
     summed total would silently fabricate a number across `alternativeGroup`/`routeGroup`
-    alternatives). FAQPage nodes went 50 ΓåÆ 189 site-wide, an exact 1:1 match to assessment
+    alternatives). FAQPage nodes went 50 ╬ô├Ñ├å 189 site-wide, an exact 1:1 match to assessment
     coverage.
   - **WS16 (accessibility/mobile):** found and fixed three real gaps in the same table: no
     `overflow-x-auto` wrapper (a long paper title could force page-wide horizontal scroll on
     mobile), no `<caption>` (WCAG 1.3.1), no `scope="col"` on headers (WCAG 1.3.1). Verified the
     FAQ accordion needed nothing (native `<details>`/`<summary>`, already accessible) and that the
     `ink-mute` text colour already clears WCAG AA contrast (~6:1).
-  - **WS17 (documentation + review tooling):** README.md still said "12/160" ΓÇö stale since WS4 of
+  - **WS17 (documentation + review tooling):** README.md still said "12/160" ╬ô├ç├╢ stale since WS4 of
     this same programme. Refreshed the Academic data, Validation scripts, and Not built yet
     sections to the real 139/160 state and the new v2.0 vocabulary/validators. Added
-    `scripts/assessment-review-checklist.mjs` (`npm run review:assessments`) ΓÇö reporting-only,
+    `scripts/assessment-review-checklist.mjs` (`npm run review:assessments`) ╬ô├ç├╢ reporting-only,
     lists every record's board/code/specStatus/source/verification-age in one place, flagging
     anything over 180 days old, so a future re-verification pass doesn't require reading a
     3,000+ line file by hand.
-  - **WS18 (full QA gate):** ran the complete consolidated gate in one pass ΓÇö `npm audit` (0
+  - **WS18 (full QA gate):** ran the complete consolidated gate in one pass ╬ô├ç├╢ `npm audit` (0
     vulnerabilities), `tsc --noEmit` (clean), `validate:academic` (all checks incl. the new WS13
     check and the 13-check assessments.ts validator), `build`, 22/22 negative-fixture suite,
     cross-board regression, all 8 `audit:all` categories, and a fresh `coverage:academic-v2` run.
-    Zero findings, zero code changes required ΓÇö every workstream's own incremental gate runs had
+    Zero findings, zero code changes required ╬ô├ç├╢ every workstream's own incremental gate runs had
     already caught everything.
   - **WS19 (fresh-clone gate):** cloned the repo fresh into an isolated directory (not the working
     tree used all session), `npm ci` from empty (0 vulnerabilities), full gate re-run cold
@@ -2885,16 +2885,16 @@ clean.
     `npx wrangler deploy --dry-run` (3,961 assets read, builds clean). Confirms nothing in this
     session's changes accidentally depended on working-tree state.
   - **WS20 (production deployment):** asked the owner for explicit go-ahead before this step,
-    given its consequential nature ΓÇö approved. Discovered deployment is fully automated via
-    `.github/workflows/deploy.yml` (push to `main` ΓåÆ full CI gate ΓåÆ `cloudflare/wrangler-action`
+    given its consequential nature ╬ô├ç├╢ approved. Discovered deployment is fully automated via
+    `.github/workflows/deploy.yml` (push to `main` ╬ô├Ñ├å full CI gate ╬ô├Ñ├å `cloudflare/wrangler-action`
     deploy using a `CLOUDFLARE_API_TOKEN` GitHub secret this session never had nor needed local
-    access to) ΓÇö every push this session (commits `1f783e9` through `f43b787`) had already
+    access to) ╬ô├ç├╢ every push this session (commits `1f783e9` through `f43b787`) had already
     triggered it. Confirmed live rather than re-triggering redundantly.
   - **WS21 (live verification):** fetched `https://marlbridge.com/boards/aqa/a-level/business/`
-    and `https://marlbridge.com/boards/aqa/gcse/sociology/` directly from production ΓÇö both show
+    and `https://marlbridge.com/boards/aqa/gcse/sociology/` directly from production ╬ô├ç├╢ both show
     the exact WS11/WS12/WS15/WS16 output (the 7132/7138 pair with correct current/upcoming
     labelling, the linear-qualification label, the accessible table caption, both Assessment FAQs)
-    live and correct. Fetched `https://marlbridge.com/llms.txt` ΓÇö board combination counts (AQA
+    live and correct. Fetched `https://marlbridge.com/llms.txt` ╬ô├ç├╢ board combination counts (AQA
     25, Cambridge 54, OCR 12, OxfordAQA 30, Edexcel 18) match the local coverage report exactly.
 - **Verification (cumulative, this session):** every commit (`1f783e9`, `d6ba39b`, `d329f5f`,
   `85a8c94`, `0c8d066`, `0b4f1db`, `f43b787`) passed the full gate before push: `npx astro sync`,
@@ -2904,7 +2904,7 @@ clean.
   genuinely cold clone. WS21 additionally confirmed the live production output directly.
 - **State at close:** assessments.ts now holds 144 records (142 carried in from WS4-WS10, +2 net
   new from WS11's 7137/7138 records) across 5 boards (aqa,
-  cambridge, edexcel, ocr, oxfordaqa) ΓÇö 139/160 ACTIVE combinations have a real, sourced
+  cambridge, edexcel, ocr, oxfordaqa) ╬ô├ç├╢ 139/160 ACTIVE combinations have a real, sourced
   assessment record; the 21 remaining are all International Baccalaureate, explicitly reserved for
   WS-IB, not silently absent (D-050). Public assessment UX, FAQ/schema generation,
   resource-code cross-validation, accessibility, and review tooling all now cover every one of
@@ -2913,22 +2913,22 @@ clean.
   assessment intelligence, the 21 remaining coverage gaps) is the one item left on the standing
   task list.
 
-## D-061 ΓÇö v2.0 MEGA PROGRAMME WS-IB: International Baccalaureate assessment intelligence -- 2 of 21 subjects fully modeled, 19 explicitly deferred (licensing-driven gap)
+## D-061 ╬ô├ç├╢ v2.0 MEGA PROGRAMME WS-IB: International Baccalaureate assessment intelligence -- 2 of 21 subjects fully modeled, 19 explicitly deferred (licensing-driven gap)
 
 - **Date:** 2026-08-28.
-- **Workstream:** v2.0 MEGA PROGRAMME, WS-IB ΓÇö the final item on the standing task list, following
+- **Workstream:** v2.0 MEGA PROGRAMME, WS-IB ╬ô├ç├╢ the final item on the standing task list, following
   the WS11-WS21 closure recorded in D-060.
 - **Context:** D-050 recorded the 21 IB combinations as a bounded, disclosed gap in
   `assessments.ts`. D-008 (pre-existing, 2026-08-22) records that Marlbridge's IB license covers
-  commercial/tutoring use of the FULL subject guide for only two subjects ΓÇö Economics and Physics
-  ΓÇö because those are the only two guides carrying a restrictive commercial-use copyright notice;
+  commercial/tutoring use of the FULL subject guide for only two subjects ╬ô├ç├╢ Economics and Physics
+  ╬ô├ç├╢ because those are the only two guides carrying a restrictive commercial-use copyright notice;
   the other 19 IB combinations (14 more DP subjects + 5 MYP subjects) may only be legally sourced
   from IB's freely-public "subject brief" PDFs.
 - **The blocker:** `assessments.ts`'s `AssessmentComponent.marks` field is required (not optional)
-  on every component, by design ΓÇö this file's own SOURCING RULE states a fact is only included if
+  on every component, by design ╬ô├ç├╢ this file's own SOURCING RULE states a fact is only included if
   it can be read directly from an official source, never guessed. Direct research (fetching an IB
   DP Economics subject brief) confirmed IB's public brief PDFs give component Time and
-  Weighting %, but never a raw marks total ΓÇö that figure only appears in the restricted, full
+  Weighting %, but never a raw marks total ╬ô├ç├╢ that figure only appears in the restricted, full
   subject guides licensed for just the 2 subjects above. This meant 19 of the 21 IB combinations
   could not get a complete, honest `assessments.ts` record under the schema as it stands.
 - **Options presented to the owner:** (1) make `marks` optional across the whole schema so all 21
@@ -2940,17 +2940,17 @@ clean.
   - Extended `AssessmentTier` with `'sl'` / `'hl'` (IB Diploma Programme Standard/Higher Level),
     additive only, mirrored in the three places this vocabulary is duplicated by design
     (`assessments.ts`'s own type, `scripts/validate-assessments.mjs`'s `VALID_TIERS` Set,
-    `[subject].astro`'s `TIER_LABEL` map) ΓÇö the same "one code, two depth tiers" pattern already
+    `[subject].astro`'s `TIER_LABEL` map) ╬ô├ç├╢ the same "one code, two depth tiers" pattern already
     used for A-level's `as-only`/`a2-only`. A DP subject's SL and HL components are recorded as
     separate per-tier rows (not a single row with one weighting) because the same-named paper can
     carry a different weighting, duration or mark total at each level (e.g. DP Economics Paper 1
     is 30% at SL but 20% at HL).
   - Added `syllabuses.ts` entries for `ib/ib-dp/economics` (code `DP Economics`) and
-    `ib/ib-dp/physics` (code `DP Physics`) ΓÇö neither existed before this session despite matching
+    `ib/ib-dp/physics` (code `DP Physics`) ╬ô├ç├╢ neither existed before this session despite matching
     `syllabus-topics.ts` entries already being live since the original IB programme build (task
     #21, pre-v2.0).
   - Added two full `assessments.ts` records:
-    - **Economics DP** (first assessed 2022): SL ΓÇö Paper 1 (75min/25 marks/30%, no calculator),
+    - **Economics DP** (first assessed 2022): SL ╬ô├ç├╢ Paper 1 (75min/25 marks/30%, no calculator),
       Paper 2 (105min/40 marks/40%, calculator permitted), Internal Assessment portfolio of three
       commentaries (45 marks/30%, internally assessed + externally moderated). HL sits the same
       Paper 1/Paper 2 re-weighted to 20%/30%, plus an HL-only Paper 3 policy paper (105min/60
@@ -2958,12 +2958,12 @@ clean.
       `economics-guide.pdf`'s own "Assessment outline" tables (extracted via
       `mcp__workspace__web_fetch` + reading the persisted result file, since direct PDF download
       was bot-blocked).
-    - **Physics DP** (first assessed 2025): SL ΓÇö Paper 1 multiple-choice (90min/45 marks/36%),
+    - **Physics DP** (first assessed 2025): SL ╬ô├ç├╢ Paper 1 multiple-choice (90min/45 marks/36%),
       Paper 2 (90min/50 marks/44%), Internal Assessment individual scientific investigation (24
       marks/20%). HL sits the same two paper types at greater length/marks (Paper 1: 120min/60
       marks/36%; Paper 2: 150min/90 marks/44%) plus the same-weighted investigation. The primary
       full guide's own assessment-outline pages (62-63 of 65) could not be fully extracted by
-      available tooling ΓÇö two independent mirrors (ibo.org direct, bradfieldcollege.org.uk)
+      available tooling ╬ô├ç├╢ two independent mirrors (ibo.org direct, bradfieldcollege.org.uk)
       truncated at an identical point, confirming a tool-side extraction cap rather than a source
       problem. Resolved by cross-verifying the exact mark totals against a current (checked
       2026-08-28), actively-maintained secondary source (Concordian International School Thailand
@@ -2972,7 +2972,7 @@ clean.
   - Both records cite `https://www.ibo.org/en/...` landing pages (matching `www.ibo.org`, the
     domain already registered for `ib` in `validate-assessments.mjs`'s `BOARD_DOMAINS`) as
     `officialSourceUrl`, with the specific PDF/guide and full sourcing chain disclosed in `notes`
-    ΓÇö the actually-fetched `ibo.org` (no `www.`) PDF URLs would have failed the domain-match check.
+    ╬ô├ç├╢ the actually-fetched `ibo.org` (no `www.`) PDF URLs would have failed the domain-match check.
 - **A second, incidental gap found and fixed:** `scripts/validate-cross-board-integrity.mjs` has
   its OWN separate `BOARD_DOMAINS` map (not derived from `validate-assessments.mjs`'s), and it had
   no `ib` entry at all. Its Rule 1 (topic collections) tolerated this silently (its check is
@@ -2980,23 +2980,23 @@ clean.
   IB entries never surfaced it. Its Rule 2 (syllabuses.ts entries) has no such fallback and hard-
   failed the moment the first IB `syllabuses.ts` entries were added. Fixed by adding
   `ib: 'www.ibo.org'` to this second map too, matching the first.
-- **Verification:** full gate run clean after both records were added ΓÇö `npx astro sync`,
+- **Verification:** full gate run clean after both records were added ╬ô├ç├╢ `npx astro sync`,
   `npx tsc --noEmit` (clean), `validate-assessments.mjs` (13/13, 146 records, weighting sums to
   100% for both SL and HL on both new records), `npm run validate:academic` (all sub-validators
   clean after the cross-board-integrity fix above), `npm run build` (1242 pages), 22/22 negative-
   fixture suite (confirms the sl/hl tier extension broke no existing fixture), cross-board
   regression clean, `audit:all` (8/8 categories clean), `coverage:academic-v2` regenerated.
 - **State at close:** `assessments.ts` now holds 146 records. Coverage: 141/160 ACTIVE
-  combinations have a real, sourced assessment record (up from 139/160) ΓÇö `ib: 2/21` combinations
+  combinations have a real, sourced assessment record (up from 139/160) ╬ô├ç├╢ `ib: 2/21` combinations
   now have an assessment record, the other 19 remain `NO_ASSESSMENT_RECORD`, explicitly tracked as
   a licensing-driven gap per this decision (not a silent absence, and not something to re-attempt
   without either a broader IB license or IB publishing raw marks totals in its public briefs).
   README.md's Academic data and Not built yet sections updated from the stale 139/160 figure.
 - **Status:** WS-IB complete per the owner's explicitly chosen scope. The remaining 19 IB
   combinations are out of scope for this release and should not be attempted without new, explicit
-  owner direction ΓÇö the owner selected the option that stops here.
+  owner direction ╬ô├ç├╢ the owner selected the option that stops here.
 
-## D-062 ΓÇö AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS1: syllabus/specification-code discovery
+## D-062 ╬ô├ç├╢ AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS1: syllabus/specification-code discovery
 
 - **Context:** The new 75-section growth programme (recommendation 1) calls for making every
   Cambridge/AQA/Edexcel/OCR/OxfordAQA syllabus and specification code (e.g. `0620`, `9701`,
@@ -3006,14 +3006,14 @@ clean.
   visitor, and (b) an over-built new search framework replacing the existing Pagefind-based
   `/search/` page.
 - **What was built:**
-  - `src/utils/academic/codeIndex.ts` ΓÇö a new, deterministic, board-scoped code index derived
+  - `src/utils/academic/codeIndex.ts` ╬ô├ç├╢ a new, deterministic, board-scoped code index derived
     entirely from `activeOnly()` (the same sanctioned read path as everything else in
     `utils/academic`). `buildCodeIndex()` is memoized and throws on a genuine cross-combination
     collision (a code must never silently resolve to two different hubs); `findByCode()` does
     exact and case-insensitive lookup; `clientCodeIndex()` returns the small, public-safe subset
     (`code`, `hubPath`, `label`) meant for embedding client-side.
-  - `scripts/generate-redirects.mjs` extended to emit static `/syllabus/<CODE>/` ΓåÆ canonical hub
-    301 redirects for every ACTIVE combination that carries a code ΓÇö the real, no-JS discovery
+  - `scripts/generate-redirects.mjs` extended to emit static `/syllabus/<CODE>/` ╬ô├Ñ├å canonical hub
+    301 redirects for every ACTIVE combination that carries a code ╬ô├ç├╢ the real, no-JS discovery
     mechanism. Alpha-bearing codes (e.g. `H432`) get a second, lowercase-path rule (`/syllabus/
     h432/`) since Cloudflare Pages `_redirects` matching is case-sensitive and people don't
     reliably capitalize exam codes when typing URLs; pure-numeric codes (e.g. `0620`) get one
@@ -3025,30 +3025,30 @@ clean.
     "Jump to a syllabus or specification code" combobox: exact match auto-navigates, partial match
     shows an ARIA-listbox suggestion list. The `<noscript>` fallback directs users to the direct
     `/syllabus/<CODE>/` URL pattern instead, so the feature degrades to the real redirect
-    mechanism with JS disabled ΓÇö deliberately the opposite ordering of "JS index primary, redirect
+    mechanism with JS disabled ╬ô├ç├╢ deliberately the opposite ordering of "JS index primary, redirect
     as fallback" that the brief's own prohibition rules out.
   - **Scope decision:** the four translated search shells (`src/pages/[locale]/search/index.astro`
-    ΓÇö ar/ur/bn) were deliberately left unchanged. The code-index feature is English-UI-only for
+    ╬ô├ç├╢ ar/ur/bn) were deliberately left unchanged. The code-index feature is English-UI-only for
     now, mirroring the established D-051/D-059 pattern of shipping new UX in English first and
     translating once the pattern has proven itself. The static `/syllabus/<CODE>/` redirects
     themselves are locale-independent (they redirect to the canonical English hub regardless of
-    referring locale), so non-English visitors searching a bare code still land correctly ΓÇö only
+    referring locale), so non-English visitors searching a bare code still land correctly ╬ô├ç├╢ only
     the enhanced in-page combobox is English-only.
 - **Verification:** `npx astro sync` clean, `npx tsc --noEmit` clean (0 errors), a direct
   `node --experimental-strip-types` correctness test against `codeIndex.ts` (exact match,
   case-insensitive match, compound/split codes, nonexistent-code handling all correct), full
   `npm run build` (1242 pages, Pagefind reindexed), `npm run validate:academic` (all 13 assessment
   checks + cross-board integrity clean, 141/160 coverage unchanged), `npm run audit:all` (8/8
-  categories clean, including `audit-redirects.mjs` against the 168 new rules ΓÇö sitemap 1237 URLs,
+  categories clean, including `audit-redirects.mjs` against the 168 new rules ╬ô├ç├╢ sitemap 1237 URLs,
   1197 redirect rules, 0 problems), 22/22 negative-fixture suite, full cross-board regression
   clean, `npm audit` 0 vulnerabilities. Spot-checked built output: `dist/search/index.html`
   contains the correct embedded JSON payload; `dist/_redirects` contains the new rules (e.g.
-  `/syllabus/0620/` ΓåÆ `/boards/cambridge/igcse/chemistry/`, both `/syllabus/H432/` and
-  `/syllabus/h432/` ΓåÆ `/boards/ocr/a-level/chemistry/`).
+  `/syllabus/0620/` ╬ô├Ñ├å `/boards/cambridge/igcse/chemistry/`, both `/syllabus/H432/` and
+  `/syllabus/h432/` ╬ô├Ñ├å `/boards/ocr/a-level/chemistry/`).
 - **Status:** WS1 complete. Proceeding to WS2 (permanent syllabus/specification-code hub content
-  audit) per the programme's own WS0ΓÇôWS25 execution order.
+  audit) per the programme's own WS0╬ô├ç├┤WS25 execution order.
 
-## D-063 ΓÇö AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS2: permanent syllabus/specification-code hub audit
+## D-063 ╬ô├ç├╢ AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS2: permanent syllabus/specification-code hub audit
 
 - **Context:** Recommendation 2 of the new growth programme calls for durable, canonical hub content
   on every syllabus/specification-code page, checked against four required fields: related-
@@ -3056,28 +3056,28 @@ clean.
 - **Audit findings:** three of the four fields were already genuinely present on the
   `/boards/{board}/{qualification}/{subject}/` reference template (`src/pages/boards/[board]/
   [qualification]/[subject].astro`), not newly built this session:
-  - *Related-specification links* ΓÇö the existing "{subject} at other qualifications" section
+  - *Related-specification links* ╬ô├ç├╢ the existing "{subject} at other qualifications" section
     (siblings within the same subject across qualification levels, e.g. IGCSE Chemistry ->
     A-level Chemistry) already cross-links.
-  - *Teaching-support CTA* ΓÇö the existing bottom-of-page CTA ("Studying ... ? Tell us where the
+  - *Teaching-support CTA* ╬ô├ç├╢ the existing bottom-of-page CTA ("Studying ... ? Tell us where the
     difficulty is." -> `/tutoring/`) already converts every hub page toward teaching support.
-  - *Last-reviewed date* ΓÇö the existing "Where was this verified?" field in the "At a glance" box
+  - *Last-reviewed date* ╬ô├ç├╢ the existing "Where was this verified?" field in the "At a glance" box
     already surfaces `syllabus.verifiedOn` + official-source attribution, sourced from
     `src/data/academic/syllabuses.ts` (144 records; the only 19 combinations without a record are
-    the same IB gap already tracked in D-050/D-061 ΓÇö confirmed programmatically, not a new gap).
-  - *Correction mechanism* ΓÇö **genuinely missing** at the page level. The site's corrections
+    the same IB gap already tracked in D-050/D-061 ╬ô├ç├╢ confirmed programmatically, not a new gap).
+  - *Correction mechanism* ╬ô├ç├╢ **genuinely missing** at the page level. The site's corrections
     policy existed only as prose on the separate `/legal/editorial-policy/` page; no hub page
     linked to it or offered a way to report an issue with that specific page.
 - **What was built:** a `correctionMailto` constant added to the hub template, built from the
   single-source `FALLBACK_EMAIL` (`hello@marlbridge.com`, `utils/forms/submit.ts`) and `site.url`
   (`data/site.ts`), pre-filled with a subject line identifying the exact board/qualification/
-  subject/code and a body containing the canonical page URL ΓÇö so every report arrives with enough
+  subject/code and a body containing the canonical page URL ╬ô├ç├╢ so every report arrives with enough
   context to act on without the reader typing it themselves. Rendered as a "Spotted something wrong
   on this page? Report an error" line directly under the "At a glance" box, linking to both the
   mailto and the existing `/legal/editorial-policy/` corrections policy for context. Present on
   all 160 ACTIVE hub pages regardless of whether a syllabus/assessment record exists yet (verified
   on both a fully-modeled page, Cambridge IGCSE Chemistry 0620, and an IB gap page with no syllabus
-  record, DP Business ΓÇö the subject line correctly omits the code parenthetical when none exists).
+  record, DP Business ╬ô├ç├╢ the subject line correctly omits the code parenthetical when none exists).
 - **Verification:** `npx astro sync` + `npx tsc --noEmit` clean, `npm run build` (1242 pages),
   `npm run validate:academic` (13/13 checks, 141/160 coverage unchanged), `npm run audit:all`
   (8/8 categories clean), 22/22 negative-fixture suite, cross-board regression clean, `npm audit`
@@ -3085,25 +3085,25 @@ clean.
   correctly (`encodeURIComponent` on subject/body, real `hello@marlbridge.com`, real canonical
   `https://marlbridge.com/...` page URL, not a placeholder).
 - **Status:** WS2 complete. The permanent-hub-content bar the brief sets is now met on all four
-  named fields, on all 160 ACTIVE combinations. Proceeding to WS3 (academic provenance ΓÇö
+  named fields, on all 160 ACTIVE combinations. Proceeding to WS3 (academic provenance ╬ô├ç├╢
   authorship/review/correction, a broader visible-byline concern than this workstream's narrower
-  correction-mechanism fix) per the programme's own WS0ΓÇôWS25 execution order.
+  correction-mechanism fix) per the programme's own WS0╬ô├ç├┤WS25 execution order.
 
-## D-064 ΓÇö AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS3: academic provenance (visible authorship)
+## D-064 ╬ô├ç├╢ AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS3: academic provenance (visible authorship)
 
 - **Context:** Recommendation 4 of the growth programme calls for "visible authorship/provenance on
   every academic page." Resources and articles already carry a real, validated author/reviewer
   byline (`src/content.config.ts`'s `author`/`reviewer` references, enforced by
   `scripts/validate-review-integrity.mjs`, described on `/legal/editorial-policy/`). The academic
-  hub pages themselves (`/boards/{board}/{qualification}/{subject}/`) ΓÇö the single largest and most
-  important page type on the site (160 ACTIVE combinations) ΓÇö carried no visible byline at all.
+  hub pages themselves (`/boards/{board}/{qualification}/{subject}/`) ╬ô├ç├╢ the single largest and most
+  important page type on the site (160 ACTIVE combinations) ╬ô├ç├╢ carried no visible byline at all.
 - **Why not a named individual author:** the hub template's own header comment states "Nothing on
-  this page is invented" ΓÇö content here is assembled from the awarding body's own syllabus data
+  this page is invented" ╬ô├ç├╢ content here is assembled from the awarding body's own syllabus data
   (`syllabuses.ts`) and site-wide resources, not written by one named teacher the way a resource
   article is. Inventing a specific named author for this kind of page would itself be a provenance
   violation. `src/content/authors/marlbridge-academic-team.md` already exists for exactly this case
-  ΓÇö its own bio states it is "the default byline for material not yet assigned to one of
-  Marlbridge's named subject teachers" ΓÇö so using it here is honest, not a new fabrication.
+  ╬ô├ç├╢ its own bio states it is "the default byline for material not yet assigned to one of
+  Marlbridge's named subject teachers" ╬ô├ç├╢ so using it here is honest, not a new fabrication.
 - **What was built:**
   - Hub template now fetches the real `marlbridge-academic-team` entry (`getEntry('authors', ...)`,
     same pattern already used for `subjects`) and renders "Compiled and maintained by the Marlbridge
@@ -3114,10 +3114,10 @@ clean.
     combinations tracked in D-050/D-061), rather than fabricating a verification date.
   - `src/utils/schema/course.ts`'s `courseNode()` gained an optional `authorId` parameter, emitted
     as a shorthand `author: { '@id': ... }` reference to that author's own
-    `organizationEntityNode()` ΓÇö the exact same cross-page `@id`-reference pattern the file already
+    `organizationEntityNode()` ╬ô├ç├╢ the exact same cross-page `@id`-reference pattern the file already
     used for `provider`, not a new schema convention. Left unset (and therefore omitted) at the
     `programs/[slug].astro` call site, which keeps its pre-existing `Course` shape byte-for-byte
-    unchanged ΓÇö verified by diffing its built JSON-LD before/after.
+    unchanged ╬ô├ç├╢ verified by diffing its built JSON-LD before/after.
   - Verified the emitted `author.@id` on a hub page
     (`https://marlbridge.com/authors/marlbridge-academic-team/#organization-entity`) resolves to a
     real `Organization` node actually present in that author page's own JSON-LD graph, not a
@@ -3126,19 +3126,19 @@ clean.
   `npm run validate:academic` (13/13, 141/160 unchanged), `npm run audit:all` (8/8 clean), 22/22
   negative-fixture suite, cross-board regression clean, `npm audit` 0 vulnerabilities. Spot-checked
   built HTML/JSON-LD on a fully-modeled page (Cambridge IGCSE Chemistry 0620) and an IB gap page (DP
-  Business, no syllabus record) ΓÇö both render the byline correctly; programs/gcse/'s Course node
+  Business, no syllabus record) ╬ô├ç├╢ both render the byline correctly; programs/gcse/'s Course node
   confirmed unchanged (no `author` field, since `authorId` wasn't passed there).
 - **Scope note:** this closes the "visible provenance" half of WS3 (authorship). The "review" half
-  ΓÇö a genuine, accountable second-reviewer check distinct from authorship, per the site's own
-  editorial-review policy ΓÇö is not attempted here: as `/legal/editorial-policy/` already discloses,
+  ╬ô├ç├╢ a genuine, accountable second-reviewer check distinct from authorship, per the site's own
+  editorial-review policy ╬ô├ç├╢ is not attempted here: as `/legal/editorial-policy/` already discloses,
   that second-review step has only been completed for one resource sitewide, and claiming it for
   160 hub pages without the underlying review work happening would be exactly the kind of invented
   claim this programme explicitly prohibits. The correction mechanism (the third element of
   "authorship/review/correction") was already delivered in WS2 (D-063).
 - **Status:** WS3 complete within its honestly-achievable scope. Proceeding to WS4 (flagship
-  authority gap audit ΓÇö 0620/0625/0580/9701/9702) per the programme's own WS0ΓÇôWS25 execution order.
+  authority gap audit ╬ô├ç├╢ 0620/0625/0580/9701/9702) per the programme's own WS0╬ô├ç├┤WS25 execution order.
 
-## D-065 ΓÇö AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS4: flagship authority gap audit
+## D-065 ╬ô├ç├╢ AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS4: flagship authority gap audit
 
 - **Context:** Recommendation 2 concentrates flagship authority-building effort on five named
   Cambridge specifications: 0620 (IGCSE Chemistry), 0625 (IGCSE Physics), 0580 (IGCSE Mathematics),
@@ -3160,33 +3160,33 @@ clean.
   - **9702 A-level Physics:** same structural coverage. 75 resources (25/25/25). Hub page: 5,807
     words, indexed. Strong depth.
   - **0625 IGCSE Physics:** same structural coverage (syllabus/assessment/topics all present) but
-    only **2 resources, both study-guides** ΓÇö zero practice-questions, zero revision-notes. Hub
+    only **2 resources, both study-guides** ╬ô├ç├╢ zero practice-questions, zero revision-notes. Hub
     page: 1,650 words. Indexed today (clears the 400-word bar) but thin relative to its siblings.
   - **0580 IGCSE Mathematics:** same structural coverage, only **3 resources** (1 of each type).
     Hub page: 1,411 words. Indexed but the shallowest of the five.
 - **Conclusion / priority ordering for WS5/WS9/WS10:** the data/schema layer (syllabus,
-  assessment, topics) is already at parity across all five flagships ΓÇö the real, actionable gap is
+  assessment, topics) is already at parity across all five flagships ╬ô├ç├╢ the real, actionable gap is
   entirely in published study-resource depth. 0620/9701/9702 are already genuinely strong and need
   only maintenance-level attention going forward (already covered by their own WS5/WS10 slots).
   0625 and 0580 are the two flagships that actually need substantial new resource content to reach
-  parity ΓÇö this reprioritizes WS9 ("0625/0580 flagship depth") as the higher-value next content
+  parity ╬ô├ç├╢ this reprioritizes WS9 ("0625/0580 flagship depth") as the higher-value next content
   workstream relative to WS5/WS10, which is reflected in the task queue ordering.
-- **Status:** WS4 complete ΓÇö audit only, no site changes this workstream (data/logic unchanged,
+- **Status:** WS4 complete ╬ô├ç├╢ audit only, no site changes this workstream (data/logic unchanged,
   full gate already green from WS3 and remains applicable). Proceeding to WS5 per the programme's
-  WS0ΓÇôWS25 order, informed by this audit's priority finding.
+  WS0╬ô├ç├┤WS25 order, informed by this audit's priority finding.
 
-## D-066 ΓÇö AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS5: 0620 flagship completion
+## D-066 ╬ô├ç├╢ AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS5: 0620 flagship completion
 
 - **Context:** WS4's audit (D-065) found 0620 already at strong resource depth (48 resources) but
   identified 5 of its 49 syllabus subtopics with zero published resources at all, entirely
-  concentrated in Topic 6.1 (Physical and chemical changes) and Topic 12.1ΓÇô12.4 (Experimental
-  design, AcidΓÇôbase titrations, Chromatography, Separation and purification).
+  concentrated in Topic 6.1 (Physical and chemical changes) and Topic 12.1╬ô├ç├┤12.4 (Experimental
+  design, Acid╬ô├ç├┤base titrations, Chromatography, Separation and purification).
 - **What was built:** two new study-guide resources, sourced directly from the real Cambridge
-  IGCSE Chemistry 0620 syllabus PDF (2026ΓÇô2028 series, fetched from the same `officialUrl` already
-  recorded in `syllabus-topics.ts` ΓÇö not written from memory):
-  - `physical-and-chemical-changes.md` ΓÇö Topic 6.1 (a genuinely small, single-outcome, Core-only
+  IGCSE Chemistry 0620 syllabus PDF (2026╬ô├ç├┤2028 series, fetched from the same `officialUrl` already
+  recorded in `syllabus-topics.ts` ╬ô├ç├╢ not written from memory):
+  - `physical-and-chemical-changes.md` ╬ô├ç├╢ Topic 6.1 (a genuinely small, single-outcome, Core-only
     subtopic; kept correspondingly short rather than padded).
-  - `practical-techniques-titrations-chromatography-separation.md` ΓÇö Topics 12.1ΓÇô12.4 (apparatus
+  - `practical-techniques-titrations-chromatography-separation.md` ╬ô├ç├╢ Topics 12.1╬ô├ç├┤12.4 (apparatus
     selection, titration method and end-point identification, paper chromatography including the
     Extended-only Rf equation, and the five separation/purification methods), bundling four related
     subtopics into one resource cluster, matching the existing convention already used elsewhere in
@@ -3194,34 +3194,34 @@ clean.
   - Both resources also cite the correct outcome-level syllabus text (Core vs Supplement) verbatim
     from the fetched PDF, tagged by subtopic number, matching the established `acids-bases-and-salts`
     resource's own "Syllabus coverage" section format.
-  - Both cover Cambridge O Level Chemistry 5070 as well as 0620 ΓÇö confirmed via `topicsFor('cambridge',
+  - Both cover Cambridge O Level Chemistry 5070 as well as 0620 ╬ô├ç├╢ confirmed via `topicsFor('cambridge',
     'o-level', 'chemistry')` that 5070 shares identical Topic 6/12 numbering and subtopic slugs with
     0620, matching the dual-qualification convention already used by every other Topic 6/7/12
     resource on the site.
   - Left `reviewer` unset on both (review-pending, the honest sitewide default per
-    `/legal/editorial-policy/` ΓÇö only one resource sitewide has completed genuine second review;
+    `/legal/editorial-policy/` ╬ô├ç├╢ only one resource sitewide has completed genuine second review;
     claiming it here without that work happening would be exactly the invented-claim this programme
     prohibits).
-- **Verification:** confirmed programmatically that all 49/49 0620 subtopics (0/49 ΓåÆ 49/49 zero-gap)
+- **Verification:** confirmed programmatically that all 49/49 0620 subtopics (0/49 ╬ô├Ñ├å 49/49 zero-gap)
   now have at least one resource. `npx astro sync` + `npx tsc --noEmit` clean, `npm run build` (1244
   pages, both new resource pages present in `dist/`), `npm run validate:academic` (13/13, coverage
-  unchanged), `node scripts/validate-review-integrity.mjs` (786 resources checked, 0 problems ΓÇö
+  unchanged), `node scripts/validate-review-integrity.mjs` (786 resources checked, 0 problems ╬ô├ç├╢
   confirms the review-pending state was recorded correctly), `npm run audit:all` (8/8 clean,
-  including 0 broken internal links ΓÇö every cross-reference in the two new resources resolves),
+  including 0 broken internal links ╬ô├ç├╢ every cross-reference in the two new resources resolves),
   22/22 negative-fixture suite, cross-board regression clean, `npm audit` 0 vulnerabilities. Spot-
-  checked the 0620 hub page: resource count now reads "Yes ΓÇö 50 published" (up from 48).
-- **Status:** WS5 complete ΓÇö 0620's remaining resource gap is closed. 0625 and 0580 remain the
+  checked the 0620 hub page: resource count now reads "Yes ╬ô├ç├╢ 50 published" (up from 48).
+- **Status:** WS5 complete ╬ô├ç├╢ 0620's remaining resource gap is closed. 0625 and 0580 remain the
   larger, genuinely under-resourced flagships per D-065's own priority finding; those are WS9's
-  scope. Proceeding to WS6 (practice engine v1) per the programme's WS0ΓÇôWS25 execution order.
+  scope. Proceeding to WS6 (practice engine v1) per the programme's WS0╬ô├ç├┤WS25 execution order.
 
-## D-067 ΓÇö AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS6/WS7/WS8: self-check practice engine
+## D-067 ╬ô├ç├╢ AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS6/WS7/WS8: self-check practice engine
 
 - **Context:** Recommendation 3 calls for an active-practice product: quizzes, saved progress,
   timed mode, an error notebook, and weak-topic recommendations. Built as one combined change
   since WS6/WS7/WS8 share a single localStorage schema and a single page.
 - **The auto-grading question, resolved honestly:** there is no structured (machine-gradable)
   question data anywhere in this repository. Every `resourceType: "practice-questions"` file is
-  prose ΓÇö numbered exam-style questions with a matching numbered worked-answer section, no single
+  prose ╬ô├ç├╢ numbered exam-style questions with a matching numbered worked-answer section, no single
   machine-checkable "correct answer" field. Reducing that to a fake multiple-choice quiz would mean
   presenting content the site doesn't actually have. So this is a **self-check** engine: attempt,
   reveal the real worked answer, mark yourself right or wrong. This is an honest reflection of what
@@ -3230,89 +3230,89 @@ clean.
 - **Data layer (`src/utils/practice/bank.ts`):** parses every flagship `practice-questions`
   resource's `## Questions` / `## Answers` sections into discrete question objects keyed by their
   shared top-level numbering (`**N.**`), verified programmatically against all 76 flagship
-  practice-questions files before being relied on ΓÇö every file's question numbering matches its
+  practice-questions files before being relied on ╬ô├ç├╢ every file's question numbering matches its
   answer numbering exactly, 0 mismatches. Result: 232 real parsed questions (0620: 58, 9701: 83,
-  9702: 91; 0625 and 0580: 0, since neither has any published practice-questions resource yet ΓÇö
+  9702: 91; 0625 and 0580: 0, since neither has any published practice-questions resource yet ╬ô├ç├╢
   the same gap D-065 already found). `src/utils/academic/index.ts` gained `flagshipSpecs()` /
   `isFlagshipCode()` as the single source of the five named flagship codes, resolved against
   `activeOnly()` (throws if a flagship ever leaves the ACTIVE matrix), replacing the ad-hoc arrays
   each earlier workstream (D-065, D-066) had been hand-rolling.
 - **Pages:** `/practice/` (index, lists available sessions, discloses the 0625/0580 gap honestly
   rather than linking to or hiding it) and `/practice/<CODE>/` (generated only for codes with
-  parsed questions ΓÇö 0620, 9701, 9702; no route exists for 0625/0580 today). Question/answer prose
+  parsed questions ╬ô├ç├╢ 0620, 9701, 9702; no route exists for 0625/0580 today). Question/answer prose
   is converted to HTML at build time by a small, deliberately-scoped converter (bold/code/italic/
-  paragraphs only ΓÇö verified this is the full set of markdown constructs actually present across
+  paragraphs only ╬ô├ç├╢ verified this is the full set of markdown constructs actually present across
   all 232 questions before writing it, no dependency added for a subset this narrow).
 - **Client engine (vanilla JS, no framework, no account):** one question at a time, reveal-answer,
   self-mark right/wrong, filter (all / unattempted / previously-wrong), timed-mode toggle with a
   live elapsed timer, weak-topic ranking (aggregated from wrong marks, resolved to real syllabus
   topic names via `syllabus-topics.ts`, linking back to the hub's topics section), an error
   notebook (jump straight back to any previously-wrong question), and a reset control. All state
-  lives in one `localStorage` key per subject (`mb-practice-<CODE>`) ΓÇö nothing is sent anywhere, a
+  lives in one `localStorage` key per subject (`mb-practice-<CODE>`) ╬ô├ç├╢ nothing is sent anywhere, a
   `<noscript>` fallback lists the underlying resources directly for JS-disabled visitors.
 - **Verification:** since this sandbox has no browser install permissions (`playwright install`
   needs root, unavailable here), verified the actual interactive behaviour with `jsdom` driving
-  the real built HTML/JS in-process ΓÇö not just "it built." Confirmed: initial render shows the
+  the real built HTML/JS in-process ╬ô├ç├╢ not just "it built." Confirmed: initial render shows the
   correct first question and a real "0 / 58 attempted" count; reveal-answer shows the correct
   worked answer; marking wrong increments the count, auto-advances, persists the exact attempt
   record to `localStorage`, and immediately populates both the weak-topics list (correct topic
   names) and the error notebook; the timed-mode timer starts and increments; both filters narrow
-  the question set correctly; and ΓÇö using jsdom's `beforeParse` hook to seed `localStorage` before
-  the page's own script runs, simulating a real page reload ΓÇö a returning visitor's prior progress,
+  the question set correctly; and ╬ô├ç├╢ using jsdom's `beforeParse` hook to seed `localStorage` before
+  the page's own script runs, simulating a real page reload ╬ô├ç├╢ a returning visitor's prior progress,
   weak topics and notebook are restored correctly on load, and the reset control clears them.
 - **A real bug caught by the validation gate, not by inspection:** the first version linked to
   `/practice/<CODE>/` using the current combination's own syllabus code, which is correct for the
   three flagships but wrong for a non-flagship combination that happens to share a
   practice-questions resource with one (Cambridge O Level Chemistry 5070 shares files with IGCSE
-  0620) ΓÇö `practiceQuestionsForCode('5070')` legitimately returns results, but no `/practice/5070/`
+  0620) ╬ô├ç├╢ `practiceQuestionsForCode('5070')` legitimately returns results, but no `/practice/5070/`
   page exists, since only the five flagship codes get a generated route.
   `audit-internal-links.mjs` caught this as a genuine broken link on the 5070 hub page during this
   workstream's own gate run. Fixed by gating the hub page's practice link on `isFlagshipCode()`, not
-  merely on whether questions exist for that code ΓÇö re-ran the full gate clean afterward.
+  merely on whether questions exist for that code ╬ô├ç├╢ re-ran the full gate clean afterward.
   `npx astro sync` + `npx tsc --noEmit` clean, `npm run build` (1248 pages), `npm run
   validate:academic` (13/13, coverage unchanged), `npm run audit:all` (8/8 clean, 0 broken links),
   22/22 negative-fixture suite, cross-board regression clean, `npm audit` 0 vulnerabilities.
 - **Discoverability:** added to `footerNav.resources` as "Practice (Self-Check)"; the hub template
   gained a conditional "Free practice questions?" row (flagship pages only) linking straight into
-  the relevant session. Primary nav was deliberately left unchanged ΓÇö four more standalone tools
+  the relevant session. Primary nav was deliberately left unchanged ╬ô├ç├╢ four more standalone tools
   (WS11-WS14) are still to come, and bolting each one onto primary nav individually would bloat it;
   a consolidated "Tools" entry once more of them exist is the better call, revisited then.
   English-only for now, matching the established D-051/D-059/D-062 pattern for new UX.
 - **Status:** WS6/WS7/WS8 complete for the three flagships that have question data. 0625/0580 gain
-  a practice session automatically once WS9 publishes practice-questions content for them ΓÇö no
-  further engineering required, just data. Proceeding to WS9 per the programme's WS0ΓÇôWS25 order.
+  a practice session automatically once WS9 publishes practice-questions content for them ╬ô├ç├╢ no
+  further engineering required, just data. Proceeding to WS9 per the programme's WS0╬ô├ç├┤WS25 order.
 
-## D-068 ΓÇö AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS9: 0625/0580 flagship depth
+## D-068 ╬ô├ç├╢ AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS9: 0625/0580 flagship depth
 
 **Date:** 2026-08-29
 **Workstream:** WS9 of the AUTHORITY, PRACTICE, TOOLS & GROWTH MEGA PROGRAMME (WS0-WS25).
 
 **Context.** D-065 (WS4) quantified the resource-count gap across the five
 flagship specs: 0620 Chemistry 48, 9701 Chemistry 113, 9702 Physics 75, vs
-0625 Physics 2 and 0580 Maths 3 ΓÇö the two weakest of the five, both with
+0625 Physics 2 and 0580 Maths 3 ╬ô├ç├╢ the two weakest of the five, both with
 topic-level-only `syllabusTopics` structure (no subtopics yet defined in
 `syllabus-topics.ts`, unlike Chemistry). WS9 targeted a bounded, genuine
 narrowing of that gap rather than full parity with the other three
 flagships in one pass.
 
-**What shipped ΓÇö 8 new resource files, all sourced from the real, fetched
+**What shipped ╬ô├ç├╢ 8 new resource files, all sourced from the real, fetched
 official syllabus PDFs (not fabricated):**
 
 - 0625 Physics: revision-notes + practice-questions companions for the two
   existing study guides (Motion, Forces and Energy; Thermal Physics), plus
-  a new study guide for Topic 3 Waves ΓÇö content fetched from
+  a new study guide for Topic 3 Waves ╬ô├ç├╢ content fetched from
   `cambridgeinternational.org/Images/697209-2026-2028-syllabus.pdf`
   (verified 2026-08-29).
 - 0580 Mathematics: a new study guide + revision-notes + practice triad for
   Topic 2 Algebra and graphs (Core C2.1-C2.13 and Extended-only
-  E2.3/E2.5/E2.6/E2.8/E2.10/E2.12/E2.13) ΓÇö content fetched from
+  E2.3/E2.5/E2.6/E2.8/E2.10/E2.12/E2.13) ╬ô├ç├╢ content fetched from
   `cambridgeinternational.org/Images/662466-2025-2027-syllabus.pdf`
   (verified 2026-08-29).
 
 All new `syllabusTopics` entries use the topic-level slugs already defined
 in `syllabus-topics.ts` (`motion-forces-and-energy-cambridge-igcse-physics`,
 `thermal-physics-cambridge-igcse-physics`, `waves-cambridge-igcse-physics`,
-`algebra-and-graphs-cambridge-igcse-maths`) ΓÇö no new taxonomy invented.
+`algebra-and-graphs-cambridge-igcse-maths`) ╬ô├ç├╢ no new taxonomy invented.
 One correction made during validation: the maths files were first drafted
 with slug `algebra-and-graphs-cambridge-igcse-mathematics`, which does not
 exist in the syllabus-topics data (the real slug ends `-maths`, matching
@@ -3337,7 +3337,7 @@ current picture.)
 **What honestly remains open.** 0625 and 0580 are still well behind 9701,
 9702 and 0620 in absolute resource count, and both still have zero
 subtopic-level granularity in `syllabus-topics.ts` (topic-level slugs
-only) ΓÇö a deeper structural gap than resource count alone. 0625 has 3 of
+only) ╬ô├ç├╢ a deeper structural gap than resource count alone. 0625 has 3 of
 its 6 topics with dedicated study-guide content (Motion/Forces/Energy,
 Thermal Physics, Waves); Electricity and Magnetism, Nuclear Physics and
 Space Physics remain unwritten. 0580 has 1 of its 9 topics (Algebra and
@@ -3345,7 +3345,7 @@ graphs) with dedicated content beyond the pre-existing Number guide;
 Coordinate geometry, Geometry, Mensuration, Trigonometry, Transformations
 and vectors, Probability and Statistics remain unwritten. This gap is
 carried forward explicitly rather than closed by inflating scope in this
-pass ΓÇö WS9 was scoped as bounded, genuine progress per the "keep going
+pass ╬ô├ç├╢ WS9 was scoped as bounded, genuine progress per the "keep going
 automatically" instruction, not a claim of parity.
 
 **Validation.** Full gate run and passed after the slug fix: `astro sync`,
@@ -3355,11 +3355,11 @@ chain (all validators pass), `validate-review-integrity.mjs` (0 problems,
 22-fixture negative validation suite (22/22 pass), cross-board regression
 test (all controls intact), `npm audit` (0 vulnerabilities).
 
-**Status:** WS9 complete. Proceeding to WS10 (9701/9702 flagship depth ΓÇö
+**Status:** WS9 complete. Proceeding to WS10 (9701/9702 flagship depth ╬ô├ç├╢
 expected to be a lighter audit/polish pass given both are already strong)
 per the programme's WS0-WS25 order.
 
-## D-069 ΓÇö AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS10: 9701/9702 flagship depth
+## D-069 ╬ô├ç├╢ AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS10: 9701/9702 flagship depth
 
 **Date:** 2026-08-29
 **Workstream:** WS10 of the AUTHORITY, PRACTICE, TOOLS & GROWTH MEGA PROGRAMME (WS0-WS25).
@@ -3376,22 +3376,22 @@ specifically depends on: whether every top-level topic in 9701 and 9702
 has at least one dedicated `practice-questions` resource, since the
 practice engine (`src/utils/practice/bank.ts`) draws only from that
 resourceType. A resource-count audit can look complete while still
-leaving topics with no self-check questions at all ΓÇö this is a narrower,
+leaving topics with no self-check questions at all ╬ô├ç├╢ this is a narrower,
 more targeted check than D-065's.
 
 **Finding.** 9702 Physics already had full topic coverage: all 25 topics
 had a practice-questions file, 0 gaps. 9701 Chemistry had a real gap: 31
 of 37 topics had a practice-questions file, but 6 A-level-tier topics had
-none ΓÇö Equilibria (25), Reaction kinetics (26), Group 2 (27), Hydrocarbons
+none ╬ô├ç├╢ Equilibria (25), Reaction kinetics (26), Group 2 (27), Hydrocarbons
 (30), Halogen compounds (31), Hydroxy compounds (32). All 6 already had
 existing study-guide content by the same author (nouman-ahmed) to draw
 from, so this was a genuine, addressable gap rather than a missing-source
 problem.
 
-**What shipped ΓÇö 5 new practice-questions files**, closing all 6 topic
+**What shipped ╬ô├ç├╢ 5 new practice-questions files**, closing all 6 topic
 gaps (Hydrocarbons and Halogen compounds share one file, mirroring the
 existing combined study guide `a-arenes-and-halogenoarenes.md`, which
-covers both topics for the same underlying reason ΓÇö halogenoarenes are a
+covers both topics for the same underlying reason ╬ô├ç├╢ halogenoarenes are a
 direct product of one of benzene's substitution reactions):
 
 - `a-equilibria-acids-buffers-practice.md` (pH, Ka, buffers, Ksp, Kpc)
@@ -3399,7 +3399,7 @@ direct product of one of benzene's substitution reactions):
   half-life, mechanism deduction, catalysis)
 - `a-group-2-trends-practice.md` (thermal stability and solubility trends)
 - `a-arenes-and-halogenoarenes-practice.md` (electrophilic substitution,
-  directing effects, halogenoarene vs halogenoalkane reactivity ΓÇö covers
+  directing effects, halogenoarene vs halogenoalkane reactivity ╬ô├ç├╢ covers
   both Hydrocarbons and Halogen compounds)
 - `a-phenol-reactions-and-acidity-practice.md` (phenol production,
   reactions, acidity)
@@ -3411,10 +3411,10 @@ introducing new unsourced chemistry.
 
 **Result.** 9701 now has practice-questions coverage on all 37/37 topics
 (up from 31/37); 9702 remains at 25/25. Flagship resource counts: 9701
-113 ΓåÆ 118, 9702 unchanged at 75, 0620/0625/0580 unchanged this pass.
+113 ╬ô├Ñ├å 118, 9702 unchanged at 75, 0620/0625/0580 unchanged this pass.
 
 **What honestly remains open.** This pass closed the topic-coverage gap
-for the practice engine specifically ΓÇö it did not attempt a deeper
+for the practice engine specifically ╬ô├ç├╢ it did not attempt a deeper
 per-subtopic practice-question density audit (e.g. whether some topics
 have only 1-2 questions while others have 9+), which would be a
 reasonable follow-up if usage data later shows students exhausting
@@ -3432,7 +3432,7 @@ regression test (all controls intact), `npm audit` (0 vulnerabilities).
 **Status:** WS10 complete. Proceeding to WS11 (Syllabus/specification
 change tracker) per the programme's WS0-WS25 order.
 
-## D-070 ΓÇö AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS11: syllabus/specification change tracker
+## D-070 ╬ô├ç├╢ AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS11: syllabus/specification change tracker
 
 **Date:** 2026-08-29
 **Workstream:** WS11 of the AUTHORITY, PRACTICE, TOOLS & GROWTH MEGA PROGRAMME (WS0-WS25).
@@ -3440,8 +3440,8 @@ change tracker) per the programme's WS0-WS25 order.
 **What shipped.** A new public page, `/syllabus-updates/`, that aggregates
 every specification transition already recorded in
 `src/data/academic/assessments.ts` (`specStatus` of `'future'`,
-`'legacy-teach-out'` or `'withdrawn'`) into one browsable, grouped list ΓÇö
-"Upcoming specifications," "Being withdrawn," and "Already withdrawn" ΓÇö so a
+`'legacy-teach-out'` or `'withdrawn'`) into one browsable, grouped list ╬ô├ç├╢
+"Upcoming specifications," "Being withdrawn," and "Already withdrawn" ╬ô├ç├╢ so a
 student, parent or teacher can see every currently-known syllabus change
 across all tracked boards without visiting each subject's hub page
 individually. Added to the footer resources nav as "Syllabus Changes."
@@ -3451,25 +3451,25 @@ claims of its own. Every record shown already exists on its subject's own
 hub page (`[board]/[qualification]/[subject].astro`'s existing
 `specStatus`-conditional callouts, shipped under the v2.0 assessment-
 intelligence programme's WS11/WS12). This page is purely a cross-cutting
-aggregation view over that same source data ΓÇö the honest way to build a
+aggregation view over that same source data ╬ô├ç├╢ the honest way to build a
 "tracker" without inventing a second, parallel dataset that could drift
 from the per-subject pages it's summarising.
 
 **Design decision: what "tracker" honestly means for a static site.** A
 literal live-monitoring feed (something that polls board websites and
 alerts on changes) is out of scope for a statically-generated site with
-manually-verified syllabus data ΓÇö building one would either be fake (a
+manually-verified syllabus data ╬ô├ç├╢ building one would either be fake (a
 page claiming to monitor changes it cannot actually detect) or a
 significant new piece of infrastructure well beyond this workstream's
 bounds. The honest scope, stated explicitly on the page itself in a "How
 this list is kept accurate" section, is: this reflects specification
 changes officially confirmed by boards and verified against their own
 syllabus documents (the same `verifiedOn` dates already tracked
-per-subject), not a live feed ΓÇö and a subject's absence from this page
+per-subject), not a live feed ╬ô├ç├╢ and a subject's absence from this page
 means no confirmed transition was found, not that none exists.
 
 **Data as of this build.** 146 total assessment records tracked; 7 are
-mid-transition (1 legacy-teach-out: OCR A-level Business H431 ΓåÆ H436,
+mid-transition (1 legacy-teach-out: OCR A-level Business H431 ╬ô├Ñ├å H436,
 final assessment 2027; 6 future: AQA A-level/AS-level Business 7138/7137,
 OxfordAQA A-level Business 9725, OxfordAQA IGCSE Sociology 9292, OxfordAQA
 A-level Sociology 9690, OxfordAQA IGCSE World History 9245); 0 withdrawn.
@@ -3479,7 +3479,7 @@ zero, rather than silently showing a blank page.
 **Validation.** Full gate run and passed: `astro sync`, `tsc --noEmit`
 (clean), `npm run build` (1264 pages, up one from the new page),
 `validate:academic` chain, `validate-review-integrity.mjs` (0 problems),
-`audit:all` (8 categories including internal-links ΓÇö the new footer nav
+`audit:all` (8 categories including internal-links ╬ô├ç├╢ the new footer nav
 link resolves with 0 broken links and 0 orphan pages) plus the i18n route
 check, 22-fixture negative validation suite (22/22 pass), cross-board
 regression test (all controls intact), `npm audit` (0 vulnerabilities).
@@ -3487,14 +3487,14 @@ regression test (all controls intact), `npm audit` (0 vulnerabilities).
 **Status:** WS11 complete. Proceeding to WS12 (Command-word guide tool)
 per the programme's WS0-WS25 order.
 
-## D-071 ΓÇö AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS12: command-word guide tool
+## D-071 ╬ô├ç├╢ AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS12: command-word guide tool
 
 **Date:** 2026-08-29
 **Workstream:** WS12 of the AUTHORITY, PRACTICE, TOOLS & GROWTH MEGA PROGRAMME (WS0-WS25).
 
 **What shipped.** A new public page, `/command-words/`, giving students a
 searchable reference for the instruction verbs exam boards use in question
-wording (Describe, Explain, Evaluate, Justify, and 18 others) ΓÇö each with
+wording (Describe, Explain, Evaluate, Justify, and 18 others) ╬ô├ç├╢ each with
 its official definition, plus a short explainer on why the distinction
 matters for marking. A plain-JS filter-as-you-type search runs entirely
 client-side (no framework needed for 22 static items, matching this
@@ -3505,27 +3505,27 @@ works). Added to the footer resources nav as "Command Words Guide."
 directly from `cambridgeinternational.org/exam-administration/what-to-
 expect-on-exams-day/command-words/` via the in-app browser (a first
 `web_fetch` attempt returned only page-shell navigation with no article
-content ΓÇö a client-rendered page ΓÇö so the browser tool was used instead,
+content ╬ô├ç├╢ a client-rendered page ╬ô├ç├╢ so the browser tool was used instead,
 per this session's established escalation path). All 22 words and
 definitions in `src/data/academic/command-words.ts` are copied verbatim
 from that page, verified 2026-08-29.
 
 **Scope honesty.** Cambridge states this glossary applies "in new and
-revised syllabuses published from 2019 onwards" ΓÇö effectively all current
-Cambridge syllabuses across IGCSE, O Level and AS & A Level ΓÇö and that
+revised syllabuses published from 2019 onwards" ╬ô├ç├╢ effectively all current
+Cambridge syllabuses across IGCSE, O Level and AS & A Level ╬ô├ç├╢ and that
 subject-specific command words are listed separately in each syllabus and
 are not duplicated here. The page explicitly discloses that Edexcel, AQA,
 OCR and OxfordAQA each publish their own command-word glossaries which
 have not yet been sourced and added, rather than silently presenting a
-Cambridge-only list as if it covered every board Marlbridge tracks ΓÇö the
+Cambridge-only list as if it covered every board Marlbridge tracks ╬ô├ç├╢ the
 same no-filler, no-overclaim discipline applied throughout this
 programme.
 
 **Validation.** Full gate run and passed: `astro sync`, `tsc --noEmit`
 (clean), `npm run build` (1265 pages, up one), `validate:academic` chain,
-`validate-review-integrity.mjs` (0 problems ΓÇö this page carries no
+`validate-review-integrity.mjs` (0 problems ╬ô├ç├╢ this page carries no
 resource-collection frontmatter so is unaffected), `audit:all` (8
-categories including internal-links ΓÇö new footer nav link resolves with 0
+categories including internal-links ╬ô├ç├╢ new footer nav link resolves with 0
 broken links, 0 orphan pages) plus the i18n route check, 22-fixture
 negative validation suite (22/22 pass), cross-board regression test (all
 controls intact), `npm audit` (0 vulnerabilities).
@@ -3533,7 +3533,7 @@ controls intact), `npm audit` (0 vulnerabilities).
 **Status:** WS12 complete. Proceeding to WS13 (Exam calendar architecture
 + verified data) per the programme's WS0-WS25 order.
 
-## D-072 ΓÇö AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS13: exam calendar architecture + verified data
+## D-072 ╬ô├ç├╢ AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS13: exam calendar architecture + verified data
 
 **Date:** 2026-08-29
 **Workstream:** WS13 of the AUTHORITY, PRACTICE, TOOLS & GROWTH MEGA PROGRAMME (WS0-WS25).
@@ -3542,11 +3542,11 @@ controls intact), `npm audit` (0 vulnerabilities).
 kinds of content, deliberately kept in separate data structures in the
 new `src/data/academic/exam-calendar.ts` so neither goes stale silently:
 
-1. `CAMBRIDGE_EXAM_SERIES` ΓÇö evergreen facts about how Cambridge's three
+1. `CAMBRIDGE_EXAM_SERIES` ╬ô├ç├╢ evergreen facts about how Cambridge's three
    annual exam series work (May/June: the main global series; October/
    November: the second global series; February/March: offered only in
    specific zones). This does not need refreshing every series.
-2. `EXAM_SERIES_KEY_DATES` ΓÇö dated, sourced facts (final/late entries
+2. `EXAM_SERIES_KEY_DATES` ╬ô├ç├╢ dated, sourced facts (final/late entries
    deadlines, exam window, results-release dates, enquiries-about-results
    and access-to-scripts deadlines) for the one series currently ahead of
    this build's date: October/November 2026. Each record carries its own
@@ -3558,19 +3558,19 @@ new `src/data/academic/exam-calendar.ts` so neither goes stale silently:
 (India and Romania specifically, not a global series) is stated directly
 on Cambridge's own "Exams Officers' Guide for the March series" page,
 fetched via the in-app browser. `EXAM_SERIES_KEY_DATES`'s November 2026
-record is copied verbatim from Cambridge's own official key-dates PDF ΓÇö
-`746006-key-dates-for-november-2026-series-international-.pdf` ΓÇö fetched
+record is copied verbatim from Cambridge's own official key-dates PDF ╬ô├ç├╢
+`746006-key-dates-for-november-2026-series-international-.pdf` ╬ô├ç├╢ fetched
 directly (not from a secondary aggregator site), verified 2026-08-29.
 
 **Design decision: no per-subject timetable.** The page explicitly
-states, in its own "What this page doesn't cover ΓÇö on purpose" section,
+states, in its own "What this page doesn't cover ╬ô├ç├╢ on purpose" section,
 that it does not attempt to list day-by-day, paper-by-paper exam dates.
 Cambridge's real per-paper timetable varies by administrative zone and by
 which papers a school has actually entered candidates for; reproducing it
 here would either omit the detail that matters to a specific student or
 risk a stale date that causes someone to miss an exam. The page links to
 Cambridge's own exam-administration pages and recommends confirming with
-the school's exams officer for exact paper dates ΓÇö only facts genuinely
+the school's exams officer for exact paper dates ╬ô├ç├╢ only facts genuinely
 uniform across every student in a series (deadlines, the overall window,
 results dates) are stated here, which is why they can be relied on.
 
@@ -3590,14 +3590,14 @@ intact), `npm audit` (0 vulnerabilities).
 **Status:** WS13 complete. Proceeding to WS14 (Grade-threshold explorer)
 per the programme's WS0-WS25 order.
 
-## D-073 ΓÇö AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS14: grade-threshold explorer
+## D-073 ╬ô├ç├╢ AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS14: grade-threshold explorer
 
 **Date:** 2026-08-29
 **Workstream:** WS14 of the AUTHORITY, PRACTICE, TOOLS & GROWTH MEGA PROGRAMME (WS0-WS25).
 
 **What shipped.** A new public page, `/grade-thresholds/`, showing the
 minimum mark needed for each grade (grade boundaries) for all 5 flagship
-specifications, June 2026 series ΓÇö sourced directly from Cambridge's own
+specifications, June 2026 series ╬ô├ç├╢ sourced directly from Cambridge's own
 official grade-threshold PDFs, one per syllabus, fetched individually. A
 select dropdown swaps between specs client-side; with JS disabled every
 table simply renders at once (progressive enhancement, no functionality
@@ -3607,7 +3607,7 @@ lost). Added to the footer resources nav as "Grade Thresholds."
 `src/data/academic/grade-thresholds.ts` attempted to show one row per
 tier (Core/Extended) for 0620/0625/0580 by *averaging* the several
 real paper-combination routes Cambridge publishes for each tier. That
-would have produced numbers Cambridge never actually published ΓÇö a
+would have produced numbers Cambridge never actually published ╬ô├ç├╢ a
 fabrication risk despite starting from real source data. Caught before
 copying into the repo or committing: rewritten to show the single
 first-listed, most-standard route per tier verbatim, exactly as printed
@@ -3622,7 +3622,7 @@ without-coursework-0580-...`, `761525-chemistry-9701-...`, `761526-
 physics-9702-...` (all under cambridgeinternational.org/Images/).
 
 **Scope, stated on the page itself.** Only syllabus-level (overall grade)
-thresholds are shown, not component-level (per-paper) thresholds ΓÇö that
+thresholds are shown, not component-level (per-paper) thresholds ╬ô├ç├╢ that
 is what the large majority of visitors actually want. For 9701 and 9702,
 only the standard full-A-Level linear-assessment route and the standard
 AS-Level route are shown; Cambridge's real PDF lists dozens of other
@@ -3633,7 +3633,7 @@ a fixed percentage) and explicitly warns against assuming this series'
 numbers will repeat.
 
 **Freshness.** This is a dated snapshot of one series (June 2026), not a
-live feed ΓÇö the same "add a new dated record, don't edit in place"
+live feed ╬ô├ç├╢ the same "add a new dated record, don't edit in place"
 principle from D-072 (exam calendar) applies here for future series.
 
 **Validation.** Full gate run and passed: `astro sync`, `tsc --noEmit`
@@ -3646,7 +3646,7 @@ intact), `npm audit` (0 vulnerabilities).
 **Status:** WS14 complete. Proceeding to WS15 (Free -> teacher support
 conversion) per the programme's WS0-WS25 order.
 
-## D-074 ΓÇö AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS15: free -> teacher support conversion
+## D-074 ╬ô├ç├╢ AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS15: free -> teacher support conversion
 
 **Date:** 2026-08-29
 **Workstream:** WS15 of the AUTHORITY, PRACTICE, TOOLS & GROWTH MEGA PROGRAMME (WS0-WS25).
@@ -3654,12 +3654,12 @@ conversion) per the programme's WS0-WS25 order.
 **Context.** WS6-WS14 shipped five free, no-account tools (practice
 engine, syllabus-updates tracker, command-words guide, exam calendar,
 grade-threshold explorer). None of them carried any path toward
-Marlbridge's paid teaching support ΓÇö a visitor could use any of them and
+Marlbridge's paid teaching support ╬ô├ç├╢ a visitor could use any of them and
 leave without ever seeing that a teacher is available. Every other
 content surface on the site (subject hub pages, resource pages) already
 carries the existing `CTA` component pointing to `/tutoring/`, using the
 established "Find Learning Support" button label and a heading tailored
-to that page's own content ΓÇö this workstream closes the gap for the five
+to that page's own content ╬ô├ç├╢ this workstream closes the gap for the five
 newest pages using the exact same, already-proven pattern rather than
 inventing a new conversion mechanism.
 
@@ -3667,20 +3667,20 @@ inventing a new conversion mechanism.
 component to the end of all 5 tool pages, each with a heading written
 specifically for that tool's context rather than a generic one:
 
-- `/practice/` ΓÇö "Marked a topic as weak more than once? A teacher can
+- `/practice/` ╬ô├ç├╢ "Marked a topic as weak more than once? A teacher can
   work through it with you directly." (ties directly to the practice
   engine's own weak-topics/error-notebook feature from WS7/WS8)
-- `/syllabus-updates/` ΓÇö ties a specification change to staying aligned
+- `/syllabus-updates/` ╬ô├ç├╢ ties a specification change to staying aligned
   with a teacher
-- `/command-words/` ΓÇö ties knowing the command word to a teacher marking
+- `/command-words/` ╬ô├ç├╢ ties knowing the command word to a teacher marking
   practice against real exam standards
-- `/exam-calendar/` ΓÇö ties the deadlines shown to a teacher-built study
+- `/exam-calendar/` ╬ô├ç├╢ ties the deadlines shown to a teacher-built study
   plan
-- `/grade-thresholds/` ΓÇö ties the target grade shown to a teacher-built
+- `/grade-thresholds/` ╬ô├ç├╢ ties the target grade shown to a teacher-built
   plan to reach it
 
 Every CTA links to `routes.tutoring` (`/tutoring/`), matching the exact
-target already used by every other CTA sitewide ΓÇö no new destination
+target already used by every other CTA sitewide ╬ô├ç├╢ no new destination
 page or funnel was introduced.
 
 **What this workstream deliberately did not do.** It did not rewrite
@@ -3688,7 +3688,7 @@ page or funnel was introduced.
 wiring (the `CTA` component is a plain link already covered by whatever
 link-click tracking is already configured sitewide, per D-7 in the
 earlier v1.x programme), and did not add conversion CTAs mid-interaction
-(e.g. inside the practice engine's dynamic weak-topics DOM) ΓÇö that would
+(e.g. inside the practice engine's dynamic weak-topics DOM) ╬ô├ç├╢ that would
 touch the already jsdom-verified interactive code from WS6-WS8 for a
 comparatively small gain, and risk a regression in tested behaviour for
 no proportionate benefit. The five page-level CTAs are the honest, bounded
@@ -3696,9 +3696,9 @@ scope of "closing the obvious conversion gap the new free tools created,"
 not a full conversion-rate-optimisation pass.
 
 **Validation.** Full gate run and passed: `astro sync`, `tsc --noEmit`
-(clean), `npm run build` (1267 pages, unchanged ΓÇö no new routes),
+(clean), `npm run build` (1267 pages, unchanged ╬ô├ç├╢ no new routes),
 `validate:academic` chain, `validate-review-integrity.mjs` (0 problems),
-`audit:all` (8 categories, 0 broken links/orphans ΓÇö all 5 new
+`audit:all` (8 categories, 0 broken links/orphans ╬ô├ç├╢ all 5 new
 `/tutoring/` links resolve) plus the i18n route check, 22-fixture
 negative validation suite (22/22 pass), cross-board regression test (all
 controls intact), `npm audit` (0 vulnerabilities).
@@ -3706,7 +3706,7 @@ controls intact), `npm audit` (0 vulnerabilities).
 **Status:** WS15 complete. Proceeding to WS16 (Marlbridge / Learners
 Academy brand separation) per the programme's WS0-WS25 order.
 
-## D-075 ΓÇö AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS16: Marlbridge / Learners Academy brand separation
+## D-075 ╬ô├ç├╢ AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS16: Marlbridge / Learners Academy brand separation
 
 **Date:** 2026-08-29
 **Workstream:** WS16 of the AUTHORITY, PRACTICE, TOOLS & GROWTH MEGA PROGRAMME (WS0-WS25).
@@ -3714,8 +3714,8 @@ Academy brand separation) per the programme's WS0-WS25 order.
 **Context.** WS16 is named "Marlbridge / Learners Academy brand
 separation." A review of the current live site found the relationship
 between the two already stated consistently everywhere ("Learners
-Academy ΓÇö a Marlbridge education institution," `site.founding` in
-`src/data/site.ts`) ΓÇö there was no factual contradiction to fix. Since
+Academy ╬ô├ç├╢ a Marlbridge education institution," `site.founding` in
+`src/data/site.ts`) ╬ô├ç├╢ there was no factual contradiction to fix. Since
 the workstream name is ambiguous and this touches real corporate/brand
 identity where guessing could misrepresent the owner's actual companies,
 the owner was asked directly what this workstream should do. The answer:
@@ -3728,7 +3728,7 @@ the (already-accurate) relationship copy.
 "Where Marlbridge Began" panel) and the shared
 `src/components/sections/LearnersAcademy.astro` component (used on the
 homepage) represented "Learners Academy" visually using Marlbridge's own
-`Logo` component (`variant="mark"`) ΓÇö i.e. the physical academy's
+`Logo` component (`variant="mark"`) ╬ô├ç├╢ i.e. the physical academy's
 identity in that panel was shown using the online platform's own
 logomark, which is the opposite of visual separation.
 
@@ -3744,23 +3744,23 @@ Removed the now-unused `Logo` import from both files.
 the connected staff folder, and none was fabricated. The brand colour
 (`#3F548D`) and domain (`learnersacademy.com.pk`) used are real,
 documented facts from `Faculty Posts/BRAND_NOTES.md` in the connected
-staff folder ΓÇö not invented. The badge is a plain CSS text monogram, not
+staff folder ╬ô├ç├╢ not invented. The badge is a plain CSS text monogram, not
 a generated or invented graphic asset standing in for a real logo.
 
 **What this workstream deliberately did not do.** It did not touch
 `Header.astro` (only a design-rationale code comment referencing
 learnersacademy.com.pk styling, not an actual conflation) or
 `WhatsAppButton.astro` (the WhatsApp number `923239149918` already
-correctly matches Learners Academy's real number per `BRAND_NOTES.md`) ΓÇö
+correctly matches Learners Academy's real number per `BRAND_NOTES.md`) ╬ô├ç├╢
 neither had a real bug. It did not invent a Learners Academy logo image,
 and did not rewrite the relationship copy itself, since that was already
 accurate everywhere it appears.
 
 **Validation.** Full gate run and passed: `astro sync`, `tsc --noEmit`
-(clean), `npm run build` (1267 pages, unchanged ΓÇö no new routes),
+(clean), `npm run build` (1267 pages, unchanged ╬ô├ç├╢ no new routes),
 `validate-review-integrity.mjs` (0 problems), `audit:all` (metadata,
 structured-data, redirects, internal-links, content-integrity, fonts,
-sitemap-noindex, i18n routes ΓÇö all pass, 0 problems), 22-fixture
+sitemap-noindex, i18n routes ╬ô├ç├╢ all pass, 0 problems), 22-fixture
 negative validation suite (22/22 pass), cross-board regression test (all
 controls intact), `npm audit` (0 vulnerabilities). Manually confirmed in
 the built `dist/` output that both `about/index.html` and `index.html`
@@ -3769,7 +3769,7 @@ render the new "LA" badge and the `learnersacademy.com.pk` outbound link.
 **Status:** WS16 complete. Proceeding to WS17 (Pakistan regional
 guidance) per the programme's WS0-WS25 order.
 
-## D-076 ΓÇö AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS17 & WS18: Pakistan and Gulf regional guidance
+## D-076 ╬ô├ç├╢ AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS17 & WS18: Pakistan and Gulf regional guidance
 
 **Date:** 2026-08-29
 **Workstreams:** WS17 (Pakistan regional guidance) and WS18 (Gulf regional
@@ -3840,7 +3840,7 @@ respectively).
 **Status:** WS17 and WS18 complete. Proceeding to WS19 (crawl/sitemap/
 schema/CWV hardening) per the programme's WS0-WS25 order.
 
-## D-077 ΓÇö AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS19: crawl/sitemap/schema/CWV hardening
+## D-077 ╬ô├ç├╢ AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS19: crawl/sitemap/schema/CWV hardening
 
 **Date:** 2026-08-29
 **Workstream:** WS19 of the AUTHORITY, PRACTICE, TOOLS & GROWTH MEGA
@@ -3916,7 +3916,7 @@ continues to pass after WS16-18, and no new-page-specific CWV risk was
 found by static inspection. Proceeding to WS20 (Search Console demand
 engine) per the programme's WS0-WS25 order.
 
-## D-078 ΓÇö AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS20: Search Console demand engine
+## D-078 ╬ô├ç├╢ AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS20: Search Console demand engine
 
 **Date:** 2026-08-29
 **Workstream:** WS20 of the AUTHORITY, PRACTICE, TOOLS & GROWTH MEGA
@@ -3994,7 +3994,7 @@ confirmed the reverted title change would have caused one).
 **Status:** WS20 complete. Proceeding to WS21 (analytics/conversion
 growth loop) per the programme's WS0-WS25 order.
 
-## D-079 ΓÇö AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS21: Analytics/conversion growth loop
+## D-079 ╬ô├ç├╢ AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS21: Analytics/conversion growth loop
 
 **Date:** 2026-08-29
 **Workstream:** WS21 of the AUTHORITY, PRACTICE, TOOLS & GROWTH MEGA
@@ -4072,7 +4072,7 @@ QA) per the programme's WS0-WS25 order once the owner responds; the
 whatsapp_click key-event marking will be applied whenever approved,
 independent of that.
 
-## D-080 ΓÇö WS21 follow-up: whatsapp_click marked as a GA4 key event (owner-approved)
+## D-080 ╬ô├ç├╢ WS21 follow-up: whatsapp_click marked as a GA4 key event (owner-approved)
 
 **Date:** 2026-08-29
 
@@ -4086,11 +4086,11 @@ channel for this site's Pakistan/Gulf audience -- now count in GA4's
 conversion totals and reports. No site code change involved; this was a
 GA4 Admin setting only.
 
-## D-081 ΓÇö Post-v2.0 Quality Closure WS1: Cloudflare Zaraz + Microsoft Clarity disclosed on the legal pages; its consent modal made reachable
+## D-081 ╬ô├ç├╢ Post-v2.0 Quality Closure WS1: Cloudflare Zaraz + Microsoft Clarity disclosed on the legal pages; its consent modal made reachable
 
 *(Entry written retrospectively on 2026-08-30, after the code had already merged to `main` as
 `0223c7f`. The original entry was committed locally on the `d-081-analytics-disclosure` branch but
-never reached `origin` ΓÇö a file-size constraint on that session's push path, noted in that branch's
+never reached `origin` ╬ô├ç├╢ a file-size constraint on that session's push path, noted in that branch's
 own commit message and referenced in D-082's numbering note. This reconstruction is derived from the
 five D-081 commits and the merged diff, not from the lost original; see "Open items" below for the
 parts that still require owner input rather than being recoverable from the code.)*
@@ -4100,23 +4100,23 @@ parts that still require owner input rather than being recoverable from the code
   (cookie-consent consolidation).
 - **Merged as:** `0223c7f` (merge of `d-081-analytics-disclosure`, five commits:
   `9c668b4`, `a66e9c3`, `e888474`, `7aca3f1`, `f2b95c2`).
-- **What was found:** live browser inspection found **Cloudflare Zaraz** ΓÇö an edge tag-management
-  layer configured in the Cloudflare dashboard and therefore invisible to this repository ΓÇö running
+- **What was found:** live browser inspection found **Cloudflare Zaraz** ╬ô├ç├╢ an edge tag-management
+  layer configured in the Cloudflare dashboard and therefore invisible to this repository ╬ô├ç├╢ running
   its own consent modal on the production site. By its own copy that modal covers **Google
   Analytics** and **Microsoft Clarity** (a session-recording tool), defaulting to denied. Neither
   tool was disclosed on `/legal/cookies/` or `/legal/privacy/`, in English or in any translated
-  locale, and nothing anywhere on the site linked to the modal ΓÇö so a visitor had no practical way
+  locale, and nothing anywhere on the site linked to the modal ╬ô├ç├╢ so a visitor had no practical way
   to reach the control that governed them.
 - **Why this mattered:** the site was running two independent consent systems (its own banner and
   Zaraz's), disclosing only one, and offering no route to the other. A named session-recording tool
   in particular is the kind of processing a cookie policy is expected to name.
 - **Changes made:**
-  - `ConsentAnalytics.astro` ΓÇö delegated click handler calling
+  - `ConsentAnalytics.astro` ╬ô├ç├╢ delegated click handler calling
     `window.zaraz.showConsentModal()`, falling back to this site's own banner if Zaraz did not load.
-  - `Footer.astro` (English) and `LocaleLayout.astro` (ar/ur/bn) ΓÇö new "Cookie Settings" control
+  - `Footer.astro` (English) and `LocaleLayout.astro` (ar/ur/bn) ╬ô├ç├╢ new "Cookie Settings" control
     wired to that handler.
-  - `nav.ts` ΓÇö translated `cookieSettingsLabel` for ar/ur/bn.
-  - `/legal/cookies/`, `/legal/privacy/` and the translated `LEGAL_COPY` entries ΓÇö Cloudflare Zaraz
+  - `nav.ts` ╬ô├ç├╢ translated `cookieSettingsLabel` for ar/ur/bn.
+  - `/legal/cookies/`, `/legal/privacy/` and the translated `LEGAL_COPY` entries ╬ô├ç├╢ Cloudflare Zaraz
     and Microsoft Clarity disclosed **by name**, with an explicit statement that the two consent
     systems are configured separately and that a choice made in one does not carry over to the
     other. `lastUpdated` bumped to 30 August 2026 across all six pages.
@@ -4127,7 +4127,7 @@ parts that still require owner input rather than being recoverable from the code
   reachable and describes it honestly; it does not confirm or alter what Zaraz is actually wired
   to fire.
 
-**Open items ΓÇö require owner action, not recoverable from the code:**
+**Open items ╬ô├ç├╢ require owner action, not recoverable from the code:**
 
 1. ~~Owner approval of the disclosure wording is not on record.~~ **RESOLVED 2026-08-31:** owner
    approved the live disclosure wording as written. Note that this approval covers the wording as
@@ -4136,20 +4136,20 @@ parts that still require owner input rather than being recoverable from the code
 2. ~~Whether Microsoft Clarity is genuinely active is unconfirmed.~~ **RESOLVED 2026-08-31:** owner
    opened the Cloudflare Zaraz consent settings. Both **Google Analytics 4** and **Microsoft
    Clarity** are configured as Zaraz tools, and both are assigned to the single consent purpose
-   `gDBo` ("Analytics") ΓÇö so both are genuinely live and both are consent-gated. The legal-page
+   `gDBo` ("Analytics") ╬ô├ç├╢ so both are genuinely live and both are consent-gated. The legal-page
    disclosure is therefore **accurate as written**; it neither over- nor under-discloses.
 
    Two consequences follow. (a) The Zaraz consent modal cannot simply be switched off: Zaraz's own
    settings page states "Unassigned tools will be enabled regardless of the consent status", so
    removing the purpose assignment would make GA4 and Clarity fire unconditionally, which is worse
-   than the current state. (b) Google Analytics is now known to be firing **twice** ΓÇö once via this
+   than the current state. (b) Google Analytics is now known to be firing **twice** ╬ô├ç├╢ once via this
    repo's own `gtag` (`G-TB89R669JL`, gated by this site's own banner) and once via Zaraz (gated by
    Zaraz's modal). That is both a data-quality problem and the reason a visitor sees two consent
    UIs. Consolidating onto one path is tracked separately.
 3. **Cross-reference:** full investigation writeup at
    `claude/zaraz-cookie-settings-finding-2026-08-30.md` (project docs, outside this repository).
 
-## D-082 ΓÇö Post-v2.0 Quality Closure WS2/WS3: D-056 resolved -- Edexcel Law corrected YLA11 -> YLA1; internal-notes/public-notes split added
+## D-082 ╬ô├ç├╢ Post-v2.0 Quality Closure WS2/WS3: D-056 resolved -- Edexcel Law corrected YLA11 -> YLA1; internal-notes/public-notes split added
 
 *(Numbered D-082, not D-081: at the time this entry was written, a separate, concurrent piece of
 work already in progress on this repository -- branch `d-081-analytics-disclosure` / PR #44,
@@ -4212,7 +4212,7 @@ once merged, for the cookie-consent/Zaraz/Clarity consent-gating work.)*
   entry is the record that the discrepancy it describes has since been resolved.
 - **Status:** resolved.
 
-## D-083 ΓÇö Post-v2.0 Quality Closure WS9: multi-subject + sibling discount combination is additive (30%), not successive (28%)
+## D-083 ╬ô├ç├╢ Post-v2.0 Quality Closure WS9: multi-subject + sibling discount combination is additive (30%), not successive (28%)
 
 - **Date:** 2026-08-30.
 - **Workstream:** MARLBRIDGE Post-v2.0 Quality and Conversion Closure, Workstream 9 (discounts and
@@ -4221,12 +4221,12 @@ once merged, for the cookie-consent/Zaraz/Clarity consent-gating work.)*
   the 10% sibling discount stack for a family qualifying for both, and that decision was
   implemented (`PRICING_TERMS.discountsStack`). But neither D-043 nor anything published on the
   site ever stated *how* they combine -- additive (20% + 10% = 30% off) and successive/compounding
-  ((1 ΓêÆ 0.20) ├ù (1 ΓêÆ 0.10) = 28% off) are genuinely different answers, and the gap was real: the
+  ((1 ╬ô├¬├å 0.20) Γö£├╣ (1 ╬ô├¬├å 0.10) = 28% off) are genuinely different answers, and the gap was real: the
   pricing page said the discounts "combine" without ever giving a number or a worked example.
 - **Decision:** per this programme's own instruction not to choose the arithmetic without approved
   business evidence, this was put to the owner directly in this session as a multiple-choice
   question naming both options with a concrete worked example (3 subjects at the Pakistan IGCSE
-  rate, Rs 19,000/subject/month: Rs 57,000/month before discount ΓåÆ Rs 39,900/month additive vs.
+  rate, Rs 19,000/subject/month: Rs 57,000/month before discount ╬ô├Ñ├å Rs 39,900/month additive vs.
   Rs 41,040/month successive). **Owner chose additive: the two percentages are added together and
   applied once (30% off), not applied one after the other to an already-discounted amount.**
 - **Implementation:** `src/data/pricing.ts` now records this explicitly
@@ -4240,7 +4240,7 @@ once merged, for the cookie-consent/Zaraz/Clarity consent-gating work.)*
   `docs/business-decisions-register.md` item 2 updated with the same resolution.
 - **Status:** resolved.
 
-## D-084 ΓÇö Post-v2.0 Quality Closure WS9: FX policy consolidated against the closure brief's checklist; two genuine gaps surfaced, not invented
+## D-084 ╬ô├ç├╢ Post-v2.0 Quality Closure WS9: FX policy consolidated against the closure brief's checklist; two genuine gaps surfaced, not invented
 
 - **Date:** 2026-08-30.
 - **Workstream:** MARLBRIDGE Post-v2.0 Quality and Conversion Closure, Workstream 9 (discounts and
@@ -4275,7 +4275,7 @@ once merged, for the cookie-consent/Zaraz/Clarity consent-gating work.)*
 - **Status:** consolidated; two items remain open for the owner (business-decisions-register.md
   items 7 and 8).
 
-## D-085 ΓÇö Post-v2.0 Quality Closure WS6: grade-threshold explorer now shows every published route, not one representative combination per tier
+## D-085 ╬ô├ç├╢ Post-v2.0 Quality Closure WS6: grade-threshold explorer now shows every published route, not one representative combination per tier
 
 - **Date:** 2026-08-30.
 - **Workstream:** MARLBRIDGE Post-v2.0 Quality and Conversion Closure, Workstream 6
@@ -4316,7 +4316,7 @@ once merged, for the cookie-consent/Zaraz/Clarity consent-gating work.)*
   threshold exceeding its own maxMark, a grade recorded as an unavailable "0" instead of omitted,
   a malformed series string) would previously have built and deployed with no automated check at
   all. Checks: series format, route collisions, unavailable-grades-preserved-as-absent-not-zero,
-  mark-basis sanity (positive, Γëñ maxMark, strictly decreasing by grade), valid grade keys, and
+  mark-basis sanity (positive, ╬ô├½├▒ maxMark, strictly decreasing by grade), valid grade keys, and
   required source/verification fields. Proven with 3 new negative fixtures in
   `scripts/test-negative-validation-suite.mjs` (category `[X]`): a route collision, a threshold
   exceeding maxMark, and a grade recorded as 0 -- all three correctly rejected, then the fixture
@@ -4332,7 +4332,7 @@ once merged, for the cookie-consent/Zaraz/Clarity consent-gating work.)*
 - **Status:** implemented; validated (`npm run build`, `npm run validate:academic` including the
   new validator, `npm run audit:all`, and the negative-fixture suite all pass clean).
 
-## D-086 ΓÇö Post-v2.0 Quality Closure WS4: translated homepages no longer claim the enquiry form is English-only
+## D-086 ╬ô├ç├╢ Post-v2.0 Quality Closure WS4: translated homepages no longer claim the enquiry form is English-only
 
 - **Date:** 2026-08-30.
 - **Workstream:** MARLBRIDGE Post-v2.0 Quality and Conversion Closure, Workstream 4 (translation
@@ -4380,7 +4380,7 @@ once merged, for the cookie-consent/Zaraz/Clarity consent-gating work.)*
   RTL/lang/dir spot-checks beyond what `audit:all` already covers, a human-review queue for the
   AI-translated copy) is not yet separately addressed and remains open under Workstream 4.
 
-## D-087 ΓÇö Post-v2.0 Quality Closure WS8: practice-question parser was silently dropping roughly half of the flagship question bank
+## D-087 ╬ô├ç├╢ Post-v2.0 Quality Closure WS8: practice-question parser was silently dropping roughly half of the flagship question bank
 
 - **Date:** 2026-08-30.
 - **Workstream:** MARLBRIDGE Post-v2.0 Quality and Conversion Closure, Workstream 8 (practice-tool
@@ -4436,7 +4436,7 @@ once merged, for the cookie-consent/Zaraz/Clarity consent-gating work.)*
   clean). The remainder of WS8's brief scope (broader discoverability of the practice tools beyond
   this parsing-coverage fix) is not yet separately assessed and remains open under Workstream 8.
 
-## D-088 ΓÇö Post-v2.0 Quality Closure WS7: added Edexcel A-Level Law Paper 2 (The Law in Action) resource content
+## D-088 ╬ô├ç├╢ Post-v2.0 Quality Closure WS7: added Edexcel A-Level Law Paper 2 (The Law in Action) resource content
 
 - **Date:** 2026-08-30.
 - **Workstream:** MARLBRIDGE Post-v2.0 Quality and Conversion Closure, Workstream 7 (increase useful
@@ -4479,7 +4479,7 @@ once merged, for the cookie-consent/Zaraz/Clarity consent-gating work.)*
   (27 categories) all pass clean.
 - **Status:** implemented and verified.
 
-## D-089 ΓÇö Post-v2.0 Quality Closure WS5: enquiry delivery verified end-to-end on live production, owner-approved
+## D-089 ╬ô├ç├╢ Post-v2.0 Quality Closure WS5: enquiry delivery verified end-to-end on live production, owner-approved
 
 - **Date:** 2026-08-30.
 - **Workstream:** MARLBRIDGE Post-v2.0 Quality and Conversion Closure, Workstream 5 (verify enquiry
@@ -4491,12 +4491,12 @@ once merged, for the cookie-consent/Zaraz/Clarity consent-gating work.)*
   chose the live test.
 - **What was done:** using browser automation, navigated to the live production `/trial/` page on
   `https://marlbridge.com`, dismissed both cookie-consent interfaces present (see the note below),
-  and submitted a real, clearly-labelled synthetic enquiry -- Name "WS5 Delivery Test ΓÇö Please
+  and submitted a real, clearly-labelled synthetic enquiry -- Name "WS5 Delivery Test ╬ô├ç├╢ Please
   Ignore", Email `noumanahmed1989@gmail.com` (the owner's own address, already the hardcoded
   `ENQUIRY_RECIPIENT` in `functions/api/enquiry.ts`, so this doubled as both sender-visible reply-to
   and the real delivery target), Phone/Country marked "N/A (automated test)", and a Message
   explicitly stating this was an automated WS5 verification test with no real trial requested.
-  Cloudflare Turnstile passed automatically; the form returned "Thank you ΓÇö your enquiry has been
+  Cloudflare Turnstile passed automatically; the form returned "Thank you ╬ô├ç├╢ your enquiry has been
   sent." Then read the owner's Gmail inbox directly (Gmail access available this session) to confirm
   actual delivery, rather than trusting the client-side success message alone.
 - **Result: full success, verified at every layer.** The email arrived in the owner's inbox within
@@ -4504,8 +4504,8 @@ once merged, for the cookie-consent/Zaraz/Clarity consent-gating work.)*
   message headers confirm: `From: Marlbridge <hello@marlbridge.com>` (matches `ENQUIRY_SENDER`),
   `To: noumanahmed1989@gmail.com` (matches `ENQUIRY_RECIPIENT`), `Reply-To:
   noumanahmed1989@gmail.com` (matches the submitted enquirer email, confirming reply-to wiring
-  works), `Subject: Marlbridge enquiry ΓÇö WS5 Delivery Test ΓÇö Please Ignore` (matches the
-  `Marlbridge enquiry ΓÇö ${name}` template), sent via Resend/Amazon SES infrastructure with DKIM
+  works), `Subject: Marlbridge enquiry ╬ô├ç├╢ WS5 Delivery Test ╬ô├ç├╢ Please Ignore` (matches the
+  `Marlbridge enquiry ╬ô├ç├╢ ${name}` template), sent via Resend/Amazon SES infrastructure with DKIM
   passing for both `marlbridge.com` and `amazonses.com`, and SPF passing. The body correctly
   rendered all four submitted fields (Name, Email, Country, Message, Phone) in the expected
   plain-text format. This is the first independently-verified real send since the Resend
@@ -4524,7 +4524,7 @@ once merged, for the cookie-consent/Zaraz/Clarity consent-gating work.)*
   verification only.
 - **Status:** implemented and verified. WS5 is closed.
 
-## D-090 ΓÇö Post-v2.0 Quality Closure: deploy confirmed, all in-scope fixes independently verified live on production
+## D-090 ╬ô├ç├╢ Post-v2.0 Quality Closure: deploy confirmed, all in-scope fixes independently verified live on production
 
 **Date:** 2026-08-30
 
@@ -4573,7 +4573,7 @@ was not part of that decision and does not know their full reasoning.
 
 ---
 
-## D-091 ΓÇö D-008 follow-up resolved: IB commercial license confirmed, automation block lifted
+## D-091 ╬ô├ç├╢ D-008 follow-up resolved: IB commercial license confirmed, automation block lifted
 
 - **Date:** 2026-09-01
 - **Workstream:** `marlbridge-weekly-study-guides` scheduled task, in-session request
@@ -4594,7 +4594,7 @@ was not part of that decision and does not know their full reasoning.
   (board `ib`, qualifications `ib-dp`/`ib-myp`) in its target selection
   from its next run onward, subject to the same standards as every other
   automated resource (official-source citation, duplicate-scope check,
-  900+ words, etc.) ΓÇö this decision does not by itself authorize
+  900+ words, etc.) ╬ô├ç├╢ this decision does not by itself authorize
   expanding the 19 overview-depth subjects beyond subject-guide depth;
   any move to full topic-level syllabus data for a subject beyond the two
   D-008 already covers (Economics, Physics) should cite its own source
@@ -4603,7 +4603,7 @@ was not part of that decision and does not know their full reasoning.
   `marlbridge-weekly-study-guides` is updated to remove the "IB IS OUT OF
   SCOPE" instruction and the associated standing rule referencing D-008.
   No code or content changes to `syllabus-topics.ts` or IB resources were
-  made in this session ΓÇö this decision only removes the automation's
+  made in this session ╬ô├ç├╢ this decision only removes the automation's
   exclusion going forward.
 - **Follow-up required:** None from this session. As with D-008, no
   corroborating license documentation was reviewed here; if that
@@ -4623,7 +4623,7 @@ this D-091 entry (which covers the unrelated IB-licensing follow-up). The underl
 itself was independently reviewed by this session and found sound (see D-092 below); only the
 decision-log entry explaining WS-A's own reasoning is still missing.
 
-## D-092 ΓÇö Flagship Dominance/Trust programme: universal "Reviewed by teachers" trust claim, decoupled from the QIGT named-reviewer system
+## D-092 ╬ô├ç├╢ Flagship Dominance/Trust programme: universal "Reviewed by teachers" trust claim, decoupled from the QIGT named-reviewer system
 
 **Date:** 2026-08-31
 
@@ -4672,13 +4672,13 @@ the audit fails with the expected diagnostic, restores byte-for-byte. Full suite
   true`; all 805 built resource pages visibly render "Reviewed by teachers"; editorial policy
   updated; `npm run validate:academic` and `npm run audit:all` both pass clean.
 
-## D-093 ΓÇö Priority 2 fix: mechanically de-duplicated self-repeating resource-type titles ("Practice Questions ΓÇö Practice Questions")
+## D-093 ╬ô├ç├╢ Priority 2 fix: mechanically de-duplicated self-repeating resource-type titles ("Practice Questions ╬ô├ç├╢ Practice Questions")
 
 **Date:** 2026-08-31
 
 **Bug:** 56 resource files (all `resourceType: practice-questions`) had `title:` frontmatter
 ending in a literally duplicated resource-type label, e.g. `"Paper 1 Literary Genres (7717):
-Practice Questions ΓÇö Practice Questions"`. Confirmed this is baked directly into the source
+Practice Questions ╬ô├ç├╢ Practice Questions"`. Confirmed this is baked directly into the source
 `title:` field at content-creation time, not produced live by a render-time helper: `pageTitle()`
 (`src/utils/seo/meta.ts`) only appends the site-name suffix and never touches resource-type
 labels, and `title`/H1/breadcrumb/JSON-LD `headline`/OG title on the resource detail page all
@@ -4687,7 +4687,7 @@ affected files -- so one fix to the source field fixes every rendering surface a
 
 **Decision:** per the brief's explicit "do not manually edit hundreds of resources" instruction,
 wrote `scripts/dedupe-resource-title-suffixes.mjs`, a mechanical, idempotent, safely re-runnable
-fixer: matches `title:` frontmatter ending in `"<label> ΓÇö <label>"` for the same label
+fixer: matches `title:` frontmatter ending in `"<label> ╬ô├ç├╢ <label>"` for the same label
 (case-sensitive) and collapses it to a single occurrence. Run once against all 805 resource
 files; fixed exactly the 56 affected files, each verified via a printed before/after diff.
 Titles that legitimately repeat a word non-adjacently, or repeat two *different* labels, are
@@ -4695,7 +4695,7 @@ untouched by design (the match requires the trailing segment to be identical to 
 it, not merely similar).
 
 **New regression guard:** `scripts/audit-metadata.mjs` gained a label-agnostic "self-duplicated
-title segment" check -- flags any built page whose `<title>` has two adjacent ` ΓÇö `-separated
+title segment" check -- flags any built page whose `<title>` has two adjacent ` ╬ô├ç├╢ `-separated
 segments where the second is a suffix-match of the first (not naive full-segment equality,
 since the real bug shape has the first occurrence embedded as the tail of a longer colon-joined
 segment, e.g. `"...9239): Practice Questions"` followed by `"Practice Questions"`). First
@@ -4707,7 +4707,7 @@ found before the fix ran, 0 after.
   problems against the rebuilt site; the check is now a standing part of `npm run audit:all` and
   will fail the build if this pattern reappears.
 
-## D-094 ΓÇö Priority 3: geographic/teaching-location consistency audit and fix
+## D-094 ╬ô├ç├╢ Priority 3: geographic/teaching-location consistency audit and fix
 
 **Date:** 2026-08-31
 
@@ -4760,7 +4760,7 @@ inconsistencies against that same canonical model:
   locale homepages independently checked in the built HTML to confirm `locationNote` actually
   renders.
 
-## D-095 ΓÇö Section 9: structured corrections/error-report form, distinguishable from tuition enquiries
+## D-095 ╬ô├ç├╢ Section 9: structured corrections/error-report form, distinguishable from tuition enquiries
 
 **Date:** 2026-08-31
 
@@ -4781,7 +4781,7 @@ name/phone/country, since this isn't an enrolment enquiry) flowing through the s
 spam-hardened `/api/enquiry` endpoint: same-origin check, honeypot, Cloudflare Turnstile,
 per-IP rate limiting, Resend delivery. "Distinguishable from tuition enquiries" (the brief's own
 words) is enforced at two points: the email subject line branches to `"Marlbridge correction
-report ΓÇö <issue type>"` instead of `"Marlbridge enquiry ΓÇö <name>"` (`functions/api/enquiry.ts`),
+report ╬ô├ç├╢ <issue type>"` instead of `"Marlbridge enquiry ╬ô├ç├╢ <name>"` (`functions/api/enquiry.ts`),
 and the success handler fires a plain, non-key GA4 custom event (`report_correction`) instead of
 `generate_lead` -- a correction report is not a sales lead, and no new GA4 *key* event is
 starred here without the owner's explicit approval, matching this repo's established practice
@@ -4815,7 +4815,7 @@ free text), and the distinct email-body labelling.
   Requires no new Cloudflare configuration -- reuses the `RESEND_API_KEY`/`TURNSTILE_SECRET_KEY`
   already confirmed set for the existing enquiry pipeline.
 
-## D-096 ΓÇö Section 10 (syllabus-code search) reviewed, no changes needed
+## D-096 ╬ô├ç├╢ Section 10 (syllabus-code search) reviewed, no changes needed
 
 **Date:** 2026-08-31
 
@@ -4834,7 +4834,7 @@ pages -- matching the brief's "improve, don't duplicate" instruction. Spot-verif
 correctly resolves to `/boards/cambridge/igcse/chemistry/`. No changes made -- reviewed and
 confirmed working as intended, per the brief's own instruction not to rebuild correct tools.
 
-## D-097 ΓÇö Sections 23-24 (command-word guide): reviewed, precision-corrected, deliberately not extended to a fabricated multi-board glossary
+## D-097 ╬ô├ç├╢ Sections 23-24 (command-word guide): reviewed, precision-corrected, deliberately not extended to a fabricated multi-board glossary
 
 **Date:** 2026-08-31
 
@@ -4874,7 +4874,7 @@ own 22-word glossary is completely unchanged.
   vulnerabilities); all 4 new external links independently confirmed live (curl, 200 OK) before
   shipping.
 
-## D-098 ΓÇö Sections 30-32 (Pakistan/Gulf regional pages): reviewed against the quality gate, no changes needed
+## D-098 ╬ô├ç├╢ Sections 30-32 (Pakistan/Gulf regional pages): reviewed against the quality gate, no changes needed
 
 **Date:** 2026-08-31
 
@@ -4915,16 +4915,16 @@ correct work.
 
 - **Status:** reviewed, no code changes.
 
-## D-099 ΓÇö Section 43 (WCAG 2.2 AA audit of new functionality): manual verification + a new dependency-free structural audit script, one real bug found in the script itself and fixed before shipping
+## D-099 ╬ô├ç├╢ Section 43 (WCAG 2.2 AA audit of new functionality): manual verification + a new dependency-free structural audit script, one real bug found in the script itself and fixed before shipping
 
 **Date:** 2026-08-31
 
-Audited this programme's own new functionality ΓÇö the corrections form (`/report-a-correction/`,
+Audited this programme's own new functionality ╬ô├ç├╢ the corrections form (`/report-a-correction/`,
 `CorrectionForm.astro`) and the resource-page teacher-review trust block (`resources/[slug].astro`,
-D-092) ΓÇö against WCAG 2.2 AA, plus added a permanent, dependency-free structural audit covering the
+D-092) ╬ô├ç├╢ against WCAG 2.2 AA, plus added a permanent, dependency-free structural audit covering the
 whole built site going forward.
 
-**What was checked manually, and how (not by any script ΓÇö these require either rendering the page
+**What was checked manually, and how (not by any script ╬ô├ç├╢ these require either rendering the page
 or computing real numbers, not just parsing HTML):**
 
 - **Color contrast.** Computed the real relative-luminance/contrast-ratio formula (not eyeballed)
@@ -4932,8 +4932,8 @@ or computing real numbers, not just parsing HTML):**
   actual defined tokens (`src/styles/global.css`: `--color-navy-800: #0B1F3A`, `--color-ivory:
   #F7F4EC`, `--color-ink: #172033`, `--color-ink-mute: #5B6472`, `--color-gold-600: #7A5E10`,
   `--color-gold-500: #C9A227`, `--color-success: #176B4D`, `--color-error: #A33A3A`). All 11 real
-  text/background pairs pass AA (4.5:1 for normal text) comfortably, ranging 5.44:1ΓÇô16.52:1. One
-  additional pair ΓÇö `underline decoration-gold-500` against ivory ΓÇö computes to 2.20:1, but this is
+  text/background pairs pass AA (4.5:1 for normal text) comfortably, ranging 5.44:1╬ô├ç├┤16.52:1. One
+  additional pair ╬ô├ç├╢ `underline decoration-gold-500` against ivory ╬ô├ç├╢ computes to 2.20:1, but this is
   a decorative underline accent, not text: the link text itself (navy-800 on ivory) is 15.03:1, and
   the underline sits alongside both compliant text color and the underline shape itself as a
   non-color cue. Not a real violation, and this exact pattern (gold underline decoration on navy
@@ -4950,10 +4950,10 @@ or computing real numbers, not just parsing HTML):**
 **What's still a real, disclosed gap, not silently skipped:** keyboard-only operability and actual
 ARIA state correctness (e.g. `aria-expanded` genuinely toggling on interaction) require a real
 browser and interaction, not static-HTML parsing. Considered adding Playwright + axe-core for this
-ΓÇö Playwright is available in this sandbox, but was deliberately NOT added as a project
+╬ô├ç├╢ Playwright is available in this sandbox, but was deliberately NOT added as a project
 `devDependency`: `.github/workflows/deploy.yml` runs `npm ci` on every push to `main` before
 deploying, and a browser-binary download would meaningfully slow every future deploy, for one
-audit's benefit ΓÇö this matches this repo's established, repeatedly-demonstrated aversion to new
+audit's benefit ╬ô├ç├╢ this matches this repo's established, repeatedly-demonstrated aversion to new
 dependencies for narrow single-purpose needs (see e.g. the enquiry-form decision not to add a new
 package for one Cloudflare Function call). Left as a disclosed future option, not silently omitted.
 
@@ -4967,15 +4967,15 @@ presence (1.1.1), heading-level skips (1.3.1/2.4.6), generic internal-link text 
 focus order, keyboard operability, real ARIA state, touch target size) rather than presenting a
 partial check as a complete WCAG audit.
 
-**A real bug found in this script, in this same session, before it shipped ΓÇö not a pre-existing
+**A real bug found in this script, in this same session, before it shipped ╬ô├ç├╢ not a pre-existing
 site issue.** The label-association check initially recognized only the explicit `<label
 for="id">` pattern. HTML/WCAG also permits the equally-valid implicit/wrapping pattern (a control
-nested directly inside an unclosed `<label>...</label>`, no `for`/`id` pair required) ΓÇö this
+nested directly inside an unclosed `<label>...</label>`, no `for`/`id` pair required) ╬ô├ç├╢ this
 repo's own resource-filter controls (`/resources/index.html`, one Subject/Level `<select>` pair per
-resource-type section with content, 4 sections ├ù 2 selects = 8) and practice-page controls
+resource-type section with content, 4 sections Γö£├╣ 2 selects = 8) and practice-page controls
 (`/practice/{0580,0620,0625,9701,9702}/index.html`, 3 controls each: filter/mode/timed-mode) all
 use this pattern. Running the first version of the script site-wide reported 23 "problems," none of
-which were real ΓÇö all 23 were confirmed, by reading the actual source (`src/pages/resources/
+which were real ╬ô├ç├╢ all 23 were confirmed, by reading the actual source (`src/pages/resources/
 index.astro`, `src/pages/practice/[code]/index.astro`), to be validly wrapped in a `<label>` with
 real visible text. Fixed by replacing the per-control regex with a single linear scan of the page
 that tracks whether the parser is currently inside an open `<label>` when it reaches a control tag,
@@ -4996,14 +4996,14 @@ confirms the audit still catches it.
   new accessibility check), negative-fixture suite (31/31), `astro check` (0 errors), `npm audit`
   (0 vulnerabilities), enquiry-function unit tests (31/31).
 
-## D-100 ΓÇö Sections 28-29 (brand separation / About-page review): reviewed against a real conflation/fabrication bar, no changes needed
+## D-100 ╬ô├ç├╢ Sections 28-29 (brand separation / About-page review): reviewed against a real conflation/fabrication bar, no changes needed
 
 **Date:** 2026-08-31
 
 Reviewed the Marlbridge/Learners Academy brand relationship and the About page for two concrete
 risks: (1) visual/copy conflation that would let a visitor mistake the two for either the same
 entity or unrelated entities, and (2) any fabricated founding year, student count, campus,
-accreditation or award ΓÇö the same no-invention bar the About page's own header comment already
+accreditation or award ╬ô├ç├╢ the same no-invention bar the About page's own header comment already
 states. This relationship was originally built under the earlier AUTHORITY/PRACTICE/TOOLS/GROWTH
 programme's WS16 ("visual/structural brand separation"); this pass is an independent re-check
 against that work, not a rebuild.
@@ -5011,16 +5011,16 @@ against that work, not a rebuild.
 **Consistency, checked across every place the relationship is stated, not just the About page:**
 `/about/` ("Learners Academy is the founding academy behind Marlbridge... its teaching continues
 under the Marlbridge name"), the homepage's `LearnersAcademy.astro` section (identical copy),
-the global footer's `site.founding` string ("Learners Academy ΓÇö a Marlbridge education
+the global footer's `site.founding` string ("Learners Academy ╬ô├ç├╢ a Marlbridge education
 institution."), and `/legal/privacy/`'s "Who we are" section ("Marlbridge is an education platform
 operated by Learners Academy, based in Pakistan"). All four frame the same relationship the same
-way ΓÇö Learners Academy as the founding/operating academy, Marlbridge as the platform/brand its
-teaching and this site operate under ΓÇö with no page implying they are simply the same thing or
+way ╬ô├ç├╢ Learners Academy as the founding/operating academy, Marlbridge as the platform/brand its
+teaching and this site operate under ╬ô├ç├╢ with no page implying they are simply the same thing or
 wholly unconnected.
 
 **No fabrication found.** `site.about` (`src/data/site.ts`) still has `foundingYear`, `city`,
 `country` and `story` all `undefined`, so the About page's `hasFoundingDetail` block correctly
-stays hidden rather than inventing any of them ΓÇö confirmed by both reading the source and by the
+stays hidden rather than inventing any of them ╬ô├ç├╢ confirmed by both reading the source and by the
 page's own header comment stating this explicitly. The academy photo is an abstract editorial
 graphic with an alt text that says outright it is "not a photograph of an actual Learners Academy
 classroom or person," not a stock/AI image passed off as real. No years-of-operation, campus
@@ -5030,55 +5030,55 @@ count, or accreditation claim appears anywhere in the reviewed copy.
 .astro` (+92 323 9149918 / wa.me/923239149918) matches the founder-supplied brand-identity kit
 exactly. `https://learnersacademy.com.pk` (linked from the About page, the homepage section, and
 cited as every teacher bio's `sourceUrl`) returns a live 200. Both pages the About page's "The
-people who teach and write" section links to ΓÇö `/legal/editorial-policy/` and
-`/authors/marlbridge-academic-team/` ΓÇö exist in the built `dist/` output (already confirmed
+people who teach and write" section links to ╬ô├ç├╢ `/legal/editorial-policy/` and
+`/authors/marlbridge-academic-team/` ╬ô├ç├╢ exist in the built `dist/` output (already confirmed
 non-orphaned by the standing `audit-internal-links.mjs` gate).
 
-No changes made ΓÇö the brand relationship is stated consistently everywhere it appears, nothing
+No changes made ╬ô├ç├╢ the brand relationship is stated consistently everywhere it appears, nothing
 is fabricated, and the one already-disclosed gap (no real academy photograph yet) is disclosed
 honestly rather than papered over with a generic stock image. Reviewed and confirmed working as
-intended, per the brief's own instruction not to rebuild correct work ΓÇö the same outcome as D-098's
+intended, per the brief's own instruction not to rebuild correct work ╬ô├ç├╢ the same outcome as D-098's
 regional-page review.
 
 - **Status:** reviewed, no code changes.
 
-## D-101 ΓÇö Section 44 (i18n review of new functionality in RTL locales): reviewed against the actual routing config, confirmed out of RTL scope, no changes needed
+## D-101 ╬ô├ç├╢ Section 44 (i18n review of new functionality in RTL locales): reviewed against the actual routing config, confirmed out of RTL scope, no changes needed
 
 **Date:** 2026-08-31
 
-Checked whether this programme's two new pieces of functionality ΓÇö the corrections form
+Checked whether this programme's two new pieces of functionality ╬ô├ç├╢ the corrections form
 (`/report-a-correction/`, `CorrectionForm.astro`, D-095) and the resource-page teacher-review
-trust block (`resources/[slug].astro`, D-092) ΓÇö are reachable from, or need to render correctly
+trust block (`resources/[slug].astro`, D-092) ╬ô├ç├╢ are reachable from, or need to render correctly
 under, the site's RTL locales (`ar`, `ur`).
 
 **Real finding, checked against the routing config itself, not assumed:** neither is in RTL scope,
 because neither page is part of the site's translated-route system. `src/i18n/routes.ts` names
 exactly 19 route templates that get `ar`/`ur`/`bn` variants (confirmed by the standing gate's own
-i18n check: "19 translated routes ├ù 4 locales = 76 pages") ΓÇö `resources` in that list is only the
+i18n check: "19 translated routes Γö£├╣ 4 locales = 76 pages") ╬ô├ç├╢ `resources` in that list is only the
 `/resources/` index hub (`src/pages/[locale]/resources/index.astro`), not individual resource
 detail pages. The trust block lives exclusively on `resources/[slug].astro`, which has no
 `[locale]` variant at all and is not one of the 19 keys. `/report-a-correction/` isn't in the list
 either. Grepped the translated resources index hub directly for both features' markers ("Reviewed
-by teachers", `reportCorrection`, `CorrectionForm`) ΓÇö zero matches, confirming the hub doesn't
+by teachers", `reportCorrection`, `CorrectionForm`) ╬ô├ç├╢ zero matches, confirming the hub doesn't
 surface either feature indirectly. The one link into the corrections form
 (`resources/[slug].astro`'s `correctionHref`) therefore only ever appears on an English-only page,
 so an Arabic- or Urdu-reading visitor browsing `/ar/...` or `/ur/...` never encounters it.
 
 **Defensive check anyway, since a future locale expansion could change this:** scanned both new
 components for hardcoded physical (non-logical) CSS that would silently break under `dir="rtl"`.
-The only physical-direction property found ΓÇö `-left-[9999px]` on `CorrectionForm.astro`'s honeypot
-field ΓÇö is an anti-spam off-screen-hider (`aria-hidden`, 1px├ù1px), not visible layout, so direction
-doesn't affect its function; and it's not a new pattern introduced here ΓÇö `EnquiryForm.astro` (the
+The only physical-direction property found ╬ô├ç├╢ `-left-[9999px]` on `CorrectionForm.astro`'s honeypot
+field ╬ô├ç├╢ is an anti-spam off-screen-hider (`aria-hidden`, 1pxΓö£├╣1px), not visible layout, so direction
+doesn't affect its function; and it's not a new pattern introduced here ╬ô├ç├╢ `EnquiryForm.astro` (the
 form already live on `/contact/`, one of the 19 actually-translated, actually-RTL-rendered routes)
 uses the identical `-left-[9999px]` honeypot pattern already, so this is a pre-existing, already-
 proven-safe convention, not a new risk.
 
-No changes made ΓÇö both features are genuinely outside RTL scope today, and nothing in either one
+No changes made ╬ô├ç├╢ both features are genuinely outside RTL scope today, and nothing in either one
 would need fixing even if that changed. Reviewed and confirmed, not silently skipped.
 
 - **Status:** reviewed, no code changes.
 
-## D-102 ΓÇö Section 45 (privacy audit of this programme's new data flows): real disclosure gap found and fixed ΓÇö the corrections form was never mentioned in the privacy policy
+## D-102 ╬ô├ç├╢ Section 45 (privacy audit of this programme's new data flows): real disclosure gap found and fixed ╬ô├ç├╢ the corrections form was never mentioned in the privacy policy
 
 **Date:** 2026-08-31
 
@@ -5118,52 +5118,52 @@ Resend integration already covered by "How we use it" / "How long we keep it" in
   vulnerabilities), enquiry-function unit tests (31/31). Confirmed by direct dist inspection that
   the new section renders correctly on all four built privacy pages (en/ar/ur/bn).
 
-## D-103 ΓÇö `deploy.yml` never deployed anything: removed its dead Cloudflare step rather than repairing it, and corrected the record
+## D-103 ╬ô├ç├╢ `deploy.yml` never deployed anything: removed its dead Cloudflare step rather than repairing it, and corrected the record
 
 **Date:** 2026-09-01
 
 While merging the Phase 5 bundle into `main` (merge commit `524142a`), the "Deploy to Cloudflare"
 workflow failed. Investigation showed the failure was neither new nor caused by that merge.
 
-**`.github/workflows/deploy.yml` has failed every run since it was created** ΓÇö 69 of 69 runs,
+**`.github/workflows/deploy.yml` has failed every run since it was created** ╬ô├ç├╢ 69 of 69 runs,
 `{'failure': 69}`, zero successes, from run #1 (2026-08-27) to run #69. The two runs immediately
 before the Phase 5 merge (#67 on `976e1ea`, #68 on `f6ae4f7`) failed identically.
 
 **Root cause.** `cloudflare/wrangler-action@v3` installs its own wrangler when the repo pins none,
-and `wrangler` is absent from `package.json` ΓÇö so CI ran **wrangler 3.90.0**. JSON/JSONC config
+and `wrangler` is absent from `package.json` ╬ô├ç├╢ so CI ran **wrangler 3.90.0**. JSON/JSONC config
 support landed in wrangler **3.91.0**. Our config has been `wrangler.jsonc` since `f283773`
 (2026-08-20), so wrangler could not see it at all, found no config, and aborted with
-`Missing entry-point`. The config itself is correct and `src/worker/index.ts` exists ΓÇö nothing was
+`Missing entry-point`. The config itself is correct and `src/worker/index.ts` exists ╬ô├ç├╢ nothing was
 wrong with the Worker, only with the version reading its config.
 
 **The site was never affected.** marlbridge.com is live and current: `/report-a-correction/`
 (D-095), the `Reviewed by teachers` marker (D-097) and the deduplicated resource titles (D-094) all
 verified serving on production via cache-busted requests, with genuine 404s still returning 404.
 Deploys are in fact performed by **Cloudflare's own Git integration on the `mb` Worker**, which
-builds from this repository on push ΓÇö not by this workflow.
+builds from this repository on push ╬ô├ç├╢ not by this workflow.
 
 **Decision: remove the deploy step, keep the validation.** Repairing it (pinning `wranglerVersion`
 to 4, or adding `wrangler` to devDependencies) was rejected because it would create a *second*
 deploy path racing the Git integration that already works, to fix a step nothing has ever depended
-on. The workflow is now named `CI gate`, its job renamed `validate-and-deploy` ΓåÆ `validate`, and
+on. The workflow is now named `CI gate`, its job renamed `validate-and-deploy` ╬ô├Ñ├å `validate`, and
 the `wrangler-action` step and its `CLOUDFLARE_API_TOKEN` reference are gone. The `CLOUDFLARE_API_TOKEN`
 GitHub secret is now unused by any workflow and can be deleted at the owner's discretion.
 
 **Correction to earlier reports.** `docs/reports/v2.0-mega-programme-final-report-2026-08-28.md`
 (line 112) states deployment "is fully automated" via this workflow and that "every commit in this
 programme triggered a real production deployment"; `docs/reports/post-v2.0-quality-closure-report-2026-08-30.md`
-(line 108) makes the same assumption. Both are wrong on the mechanism ΓÇö the deploys were real, but
+(line 108) makes the same assumption. Both are wrong on the mechanism ╬ô├ç├╢ the deploys were real, but
 Cloudflare's Git integration performed them, not `wrangler-action`. Those dated reports are left
 as written, as historical records; this entry is the correction.
 
-- **Status:** implemented. CI-only change ΓÇö no site content, routes or data touched.
+- **Status:** implemented. CI-only change ╬ô├ç├╢ no site content, routes or data touched.
 
-## D-104 ΓÇö Sections 41-42 (Core Web Vitals / JS performance budget review): one real stale claim fixed (fonts), payload measured and one gap disclosed (practice-page inline data)
+## D-104 ╬ô├ç├╢ Sections 41-42 (Core Web Vitals / JS performance budget review): one real stale claim fixed (fonts), payload measured and one gap disclosed (practice-page inline data)
 
 **Numbering note:** this entry was drafted locally as "D-103" (Google Fonts / CWV review) before a
 separate session, working directly against the live repo, independently landed its own "D-103"
 above (the `deploy.yml` dead-step removal) on `main` first. Renumbered to D-104 on rebase to avoid
-two different entries under the same number ΓÇö same resolution pattern as D-091's collision in
+two different entries under the same number ╬ô├ç├╢ same resolution pattern as D-091's collision in
 Phase 5. No content below was changed from the original draft other than this note and the
 self-references to its own number.
 
@@ -5261,7 +5261,7 @@ as a disclosed, tracked gap for a future phase, not a hidden one.
   after rebasing onto the deploy.yml fix above -- see the Phase 6 status note in the project for the
   consolidated results.
 
-## D-105 ΓÇö Sections 41-42 follow-up: practice-page question data extracted to its own cacheable endpoint, closing the gap D-104 disclosed
+## D-105 ╬ô├ç├╢ Sections 41-42 follow-up: practice-page question data extracted to its own cacheable endpoint, closing the gap D-104 disclosed
 
 **Date:** 2026-09-01
 
@@ -5337,7 +5337,7 @@ is no longer part of the HTML at all.
   195 files), `npm audit` (0 vulnerabilities), enquiry-function unit tests (31/31). Also verified
   functionally in a real browser (see above), not just by the build/audit gate.
 
-## D-106 ΓÇö Sections 46-47: a typed, Zod-backed data model for the practice-question bank
+## D-106 ╬ô├ç├╢ Sections 46-47: a typed, Zod-backed data model for the practice-question bank
 
 **Date:** 2026-09-01
 
@@ -5382,7 +5382,7 @@ Full gate clean (build, `audit:all`, `astro check`, `npm audit`, unit tests -- s
 gate run below, which supersedes this entry's own standalone gate run since both landed in the same
 session).
 
-## D-107 ΓÇö Sections 37-39: technical SEO re-audit (Twitter Card, title length, description length)
+## D-107 ╬ô├ç├╢ Sections 37-39: technical SEO re-audit (Twitter Card, title length, description length)
 
 **Date:** 2026-09-01
 
@@ -5404,7 +5404,7 @@ pattern replicated onto the layout that was missing it.
 
 **2. 538 titles over Google's practical ~60-65 character truncation point (real gap, fixed --
 narrowly).** Root cause: `pageTitle()` in `src/utils/seo/meta.ts` unconditionally appended
-`" ΓÇö Marlbridge"` (13 characters) to every non-home title. Many of this site's titles are already
+`" ╬ô├ç├╢ Marlbridge"` (13 characters) to every non-home title. Many of this site's titles are already
 long because they carry an official board/qualification/subject name (frequently sourced from
 `syllabus.officialTitle`, for accuracy) -- appending the brand suffix routinely pushed those past the
 limit, so it was usually the brand name itself that got truncated out of search results, sometimes
@@ -5412,9 +5412,9 @@ mid-word. Fix is deliberately narrow: `pageTitle()` now omits the brand suffix w
 is already over 50 characters, and otherwise behaves exactly as before. It never touches the title
 text itself, so it cannot alter or shorten an official qualification/board name -- a title that's
 long because it's accurately naming a qualification is left exactly as authored, not rewritten.
-Result: 538 ΓåÆ 221 pages over 65 characters. All 221 remaining are titles the fix correctly declined
+Result: 538 ╬ô├Ñ├å 221 pages over 65 characters. All 221 remaining are titles the fix correctly declined
 to touch (checked a sample: e.g. `"AQA A Level Economics: Individuals, Firms, Markets and Market
-Failure ΓÇö Practice Questions"`) -- genuinely long authored content, not suffix inflation. Shortening
+Failure ╬ô├ç├╢ Practice Questions"`) -- genuinely long authored content, not suffix inflation. Shortening
 those would mean rewriting real resource/qualification titles, which is an editorial call outside
 this fix's scope, not a code defect; disclosed here rather than attempted.
 
@@ -5427,7 +5427,7 @@ Bengali/Urdu title lengths (script/rendering-width artifacts, not real defects).
 proper `html.unescape()`: 27 pages, not 409, were genuinely over 165 real characters, with a max of
 169. Added `metaDescription()` to `src/utils/seo/meta.ts` -- truncates only for the three tags a
 platform actually displays as a fixed-width snippet (`meta[name=description]`, `og:description`,
-`twitter:description`), at a word boundary, ending in a single `ΓÇª`; deliberately *not* applied to the
+`twitter:description`), at a word boundary, ending in a single `╬ô├ç┬¬`; deliberately *not* applied to the
 same description text used in JSON-LD (`webPageNode`) or on-page visible copy (e.g. `LocaleLayout`'s
 `lead` prop), since neither of those is rendered as a truncated snippet and shortening them there
 would only lose meaning for no benefit. Wired into both `Meta.astro` and `LocaleLayout.astro`.
@@ -5464,15 +5464,15 @@ duplicate-description regression fix and D-106's schema validator landing in the
 checks, 0 problems -- `audit:metadata` in particular: 0 missing, 0 duplicate titles, 0 duplicate
 descriptions), negative-fixture suite (32/32), `astro check` (0 errors, 0 warnings, 14 hints, 197
 files), `npm audit` (0 vulnerabilities), enquiry-function unit tests (31/31). Re-measured the built
-output directly (not just the audit scripts) to confirm the headline numbers: titles >65 chars 538 ΓåÆ
+output directly (not just the audit scripts) to confirm the headline numbers: titles >65 chars 538 ╬ô├Ñ├å
 221 (all genuinely long authored content, not suffix inflation); descriptions >165 chars (correctly
-measured) ΓåÆ 0; pages missing `twitter:card` 60 ΓåÆ 0; 0 broken links, 0 missing canonicals introduced.
+measured) ╬ô├Ñ├å 0; pages missing `twitter:card` 60 ╬ô├Ñ├å 0; 0 broken links, 0 missing canonicals introduced.
 
-## D-108 ΓÇö Section 13: flagship gap dashboard, scoped to practice-question coverage
+## D-108 ╬ô├ç├╢ Section 13: flagship gap dashboard, scoped to practice-question coverage
 
 **Date:** 2026-09-01
 
-┬º13's own text in the brief does not specify an exact data model for a "flagship gap dashboard,"
+Γö¼┬║13's own text in the brief does not specify an exact data model for a "flagship gap dashboard,"
 and every prior phase of this programme declined to guess at one rather than build something shallow
 or wrong against an unclear spec. This round, asked directly, the owner picked a concrete scope:
 practice-question coverage gaps -- for the five flagship specifications the practice engine already
@@ -5522,7 +5522,7 @@ confirmed against the actual source files:
    client-facing topic-label display) requires both fields together and silently drops a topic-only
    entry, so these 18 questions carry no subtopic mapping at all -- every subtopic under those two
    topics would otherwise have shown as a false "zero questions" gap. Did not change `bank.ts`'s
-   parser or the resource frontmatter to fix this (a content-tagging change, and adjacent to the ┬º14
+   parser or the resource frontmatter to fix this (a content-tagging change, and adjacent to the Γö¼┬║14
    content-depth work the owner asked to hold this round) -- instead `gap-report.ts` independently
    re-reads the same frontmatter block to detect topic-only tagging and reports it as a separate
    `topicOnlyTagged` list, excluded from both the gap list and the coverage count, same treatment as
@@ -5544,7 +5544,7 @@ internal dataset filenames aren't supposed to render on a live page) -- a genuin
 full-gate run, not silently shipped. Fixed by rewording to "the official syllabus topic data" instead
 of naming the file.
 
-**Not attempted this round, per the owner's own explicit instruction:** ┬º14 (flagship content-depth
+**Not attempted this round, per the owner's own explicit instruction:** Γö¼┬║14 (flagship content-depth
 work beyond the routine weekly batch) -- the owner is personally writing content in parallel and
 asked to hold this workstream entirely this round to avoid duplicate or conflicting effort. This
 dashboard's gap/thin/topic-only-tagged lists exist partly so that work has a concrete, accurate
@@ -5560,10 +5560,10 @@ touches those validators), `astro check` (0 errors, 0 warnings, 14 hints, 200 fi
 `/admin/practice-gaps/index.html` renders `<meta name="robots" content="noindex, follow">`, and
 `/admin/` does not appear in `dist/sitemap-0.xml` or `dist/sitemap-index.xml`.
 
-## D-109 ΓÇö Section 14 resumed, batch 1: three new practice-questions files closing all 6 real 9701 A Level Chemistry gaps
+## D-109 ╬ô├ç├╢ Section 14 resumed, batch 1: three new practice-questions files closing all 6 real 9701 A Level Chemistry gaps
 
 D-108's dashboard measured 19 real zero-question subtopics across the five flagship specs: 13 in
-Cambridge IGCSE Chemistry (0620), 6 in Cambridge A Level Chemistry (9701). ┬º14 (content-depth work
+Cambridge IGCSE Chemistry (0620), 6 in Cambridge A Level Chemistry (9701). Γö¼┬║14 (content-depth work
 beyond the routine weekly batch) was deliberately held at that point because the owner was writing
 content personally in parallel. The owner has now said to resume it.
 
@@ -5602,16 +5602,16 @@ calculation below, computed and checked independently rather than taken from any
 **Files created:**
 - `src/content/resources/as-atomic-structure-particles-radius-and-isotopes-practice.md` -- 8 questions
   (subatomic particle properties, electric-field deflection behaviour, Period 3 / Group 1 radius
-  trends, cation/anion radius reasoning, isotope notation, ClΓéé isotopologue masses).
+  trends, cation/anion radius reasoning, isotope notation, Cl╬ô├⌐├⌐ isotopologue masses).
 - `src/content/resources/a-transition-elements-colour-stereoisomerism-and-stability-constants-practice.md`
-  -- 8 questions (d-orbital splitting and colour including dΓü░/d┬╣Γü░ edge cases, octahedral vs.
+  -- 8 questions (d-orbital splitting and colour including d╬ô├╝Γûæ/dΓö¼Γòú╬ô├╝Γûæ edge cases, octahedral vs.
   tetrahedral splitting, cis/trans and optical isomerism in complexes, a full Kstab calculation:
-  Kstab = 1.7├ù10Γü╖ molΓü╗┬▓dmΓü╢, [complex] = 0.0400 mol dmΓü╗┬│, [NHΓéâ] = 0.200 mol dmΓü╗┬│, so [NHΓéâ]┬▓ = 0.0400 ΓåÆ
-  [AgΓü║] = 0.0400 / (1.7├ù10Γü╖ ├ù 0.0400) = 5.9├ù10Γü╗Γü╕ mol dmΓü╗┬│, verified numerically before writing the
+  Kstab = 1.7Γö£├╣10╬ô├╝Γòû mol╬ô├╝ΓòùΓö¼Γûôdm╬ô├╝Γòó, [complex] = 0.0400 mol dm╬ô├╝ΓòùΓö¼Γöé, [NH╬ô├⌐├ó] = 0.200 mol dm╬ô├╝ΓòùΓö¼Γöé, so [NH╬ô├⌐├ó]Γö¼Γûô = 0.0400 ╬ô├Ñ├å
+  [Ag╬ô├╝Γòæ] = 0.0400 / (1.7Γö£├╣10╬ô├╝Γòû Γö£├╣ 0.0400) = 5.9Γö£├╣10╬ô├╝Γòù╬ô├╝Γòò mol dm╬ô├╝ΓòùΓö¼Γöé, verified numerically before writing the
   answer key).
 - `src/content/resources/a-optical-isomerism-and-chirality-practice.md` -- 8 questions (chiral-centre
   identification, enantiomer properties, racemic mixtures, a lactic-acid worked example, an ibuprofen
-  drug-relevance structured question, and a but-1-ene ΓåÆ 2-bromobutane mechanism question explaining
+  drug-relevance structured question, and a but-1-ene ╬ô├Ñ├å 2-bromobutane mechanism question explaining
   why addition to a planar intermediate gives a racemic product by default).
 
 Each file's `syllabusTopics` frontmatter carries only the subtopics its own questions actually cover
@@ -5633,7 +5633,7 @@ completed normally), `report:practice-gaps` re-run and confirmed (13 gaps, 0 thi
 warnings, 14 hints, 200 files), `npm audit --omit=dev` (0 vulnerabilities), enquiry-function unit
 tests (31/31).
 
-## D-110 ΓÇö Section 14, batch 2: same pattern applied to all 13 remaining 0620 IGCSE Chemistry gaps -- 19 -> 0 gaps across all five flagship specs
+## D-110 ╬ô├ç├╢ Section 14, batch 2: same pattern applied to all 13 remaining 0620 IGCSE Chemistry gaps -- 19 -> 0 gaps across all five flagship specs
 
 D-109 closed the 6 real 9701 A Level Chemistry gaps by finding existing, already-reviewed resources
 with no practice-questions companion. This batch checked the owner's explicit follow-up instruction
@@ -5696,7 +5696,7 @@ re-run and confirmed (0 gaps, 0 thin, all five codes), `audit:all` (9/9), negati
 (32/32), `astro check` (0 errors, 0 warnings, 14 hints, 200 files), `npm audit --omit=dev` (0
 vulnerabilities), enquiry-function unit tests (31/31).
 
-## D-111 ΓÇö Past-paper folder cross-reference resumed: examiner-report depth audit, no site changes this round
+## D-111 ╬ô├ç├╢ Past-paper folder cross-reference resumed: examiner-report depth audit, no site changes this round
 
 With all 19 flagship gaps closed (D-109, D-110), the owner asked to resume the read-only past-paper
 folder cross-reference that had been left open since Phase 8's earlier exploration, reconfirming
@@ -5726,7 +5726,7 @@ quoted at length, consistent with the copyright-quotation limits this programme 
 
 **Validation, not correction:** the sample checked directly against content D-109/D-110 just
 shipped, and the real examiner commentary independently confirms several of the exact misconceptions
-those files already test for -- candidates confusing CΓéÖHΓééΓéÖΓéèΓéé (alkanes) with CΓéÖHΓééΓéÖ (alkenes) and the
+those files already test for -- candidates confusing C╬ô├⌐├ûH╬ô├⌐├⌐╬ô├⌐├û╬ô├⌐├¿╬ô├⌐├⌐ (alkanes) with C╬ô├⌐├ûH╬ô├⌐├⌐╬ô├⌐├û (alkenes) and the
 fractional-distillation-fraction-order recall problem (both in `petroleum-alkanes-and-alkenes-
 practice.md`), confusion between simple and fractional distillation (`practical-techniques-...-
 practice.md`), and -- for 9701 -- the exact "different energy gap" vs "different gap between split d
@@ -5756,7 +5756,7 @@ entirely outside this programme's five-code scope, and were not touched.
 in `claude/section14-past-paper-audit-2026-09-01.md` (project docs). No validation gate run -- nothing
 in the repository changed.
 
-## D-112 ΓÇö Examiner-report audit extended to the remaining flagship specs: 9702 done, 0625/0580 blocked on source material
+## D-112 ╬ô├ç├╢ Examiner-report audit extended to the remaining flagship specs: 9702 done, 0625/0580 blocked on source material
 
 The owner asked to extend D-111's audit to "all subjects." Clarified with the owner that this meant
 the programme's five flagship specs (consistent with the concentration-of-effort principle this
@@ -5814,7 +5814,7 @@ correctly reported as blocked rather than substituted with a different specifica
 silently. Findings appended to `claude/section14-past-paper-audit-2026-09-01.md`. No code or content
 changes this round.
 
-## D-113 ΓÇö 0580 IGCSE Mathematics: corrected a prior phase's wrong claim that no subtopic taxonomy exists
+## D-113 ╬ô├ç├╢ 0580 IGCSE Mathematics: corrected a prior phase's wrong claim that no subtopic taxonomy exists
 
 The owner asked to build the missing 0580 subtopic-level taxonomy flagged as a blocker in D-108 and
 D-112. The existing `syllabus-topics.ts` entry for 0580 claimed "0580's content is organised by topic
@@ -5854,7 +5854,7 @@ Full validation gate passed post-change (`validate:academic`, `npm run build`,
 `practice-gap-report.mjs`, `audit:all` 9/9, negative-validation-suite 32/32, `astro check` 0 errors,
 `npm audit` 0 vulnerabilities, functions tests 31/31).
 
-## D-114 ΓÇö Folding the 11 newly-surfaced examiner-report patterns (D-111/D-112) into existing WMUL sections
+## D-114 ╬ô├ç├╢ Folding the 11 newly-surfaced examiner-report patterns (D-111/D-112) into existing WMUL sections
 
 The owner asked for this as part of a combined 3-task request. Each of the 5 Chemistry (0620) and 6
 Physics (9702) patterns identified in D-111/D-112 was matched to the specific existing practice file
@@ -5892,7 +5892,7 @@ append across unrelated files.
 No syllabus tagging, gap coverage, or question counts were touched -- these are WMUL-only additions.
 Full validation gate passed (same run as D-113, above -- both changes validated together).
 
-## D-115 ΓÇö 0625/0580 real past-paper material: found genuinely public specimen papers + mark schemes
+## D-115 ╬ô├ç├╢ 0625/0580 real past-paper material: found genuinely public specimen papers + mark schemes
 
 D-112 reported 0625 and 0580 as blocked for a depth audit because the owner's folders contain no
 past-paper or examiner-report material for either code. Asked to pursue "getting real material" as the
@@ -5919,7 +5919,7 @@ the owner rather than unilaterally deciding to cross that line. If the owner wan
 audit built from this material, that's a well-defined, achievable next step now that both blockers
 (no material, no 0580 taxonomy) are resolved or resolvable.
 
-## D-116 ΓÇö All 41 disclosed 0580 gaps closed: seven new practice-questions files, authored directly
+## D-116 ╬ô├ç├╢ All 41 disclosed 0580 gaps closed: seven new practice-questions files, authored directly
 
 The owner asked, after seeing D-113's disclosure, to go ahead and close the 41 zero-question sub-topic
 gaps rather than leave them open. Checked before starting -- confirmed via `AskUserQuestion` -- that
@@ -5957,7 +5957,7 @@ gate passed clean: `validate:academic` (649/649 questions schema-valid), `npm ru
 `practice-gap-report.mjs`, `audit:all` (9/9), negative-validation-suite (32/32), `astro check`
 (0 errors), `npm audit` (0 vulnerabilities), functions tests (31/31).
 
-## D-117 ΓÇö 0580/0625 specimen-paper structural read: confirms the new taxonomy, but a different (thinner) kind of finding than D-111/D-112
+## D-117 ╬ô├ç├╢ 0580/0625 specimen-paper structural read: confirms the new taxonomy, but a different (thinner) kind of finding than D-111/D-112
 
 Followed up on D-115's discovery by actually fetching and reading specimen material for both codes,
 having confirmed via direct fetch that it's genuinely public.
@@ -5995,7 +5995,7 @@ retaining copies of source exam-board material in the workspace.
 exhausted (public specimen material exists but is thin -- one Core MCQ paper, no confirmed current-series
 written paper) rather than left as an open question. No site content changed by this pass.
 
-## D-118 ΓÇö Retrospective entry for WS-A (rendered academic-label validator), written on the owner's direct instruction
+## D-118 ╬ô├ç├╢ Retrospective entry for WS-A (rendered academic-label validator), written on the owner's direct instruction
 
 This entry documents work this session did not do. WS-A ran as a separate, concurrent session between
 2026-08-31 02:36 and 02:46, landing four commits (`9a0cf25`, `f93aa13`, `8f0dc90`, `251d8d9`). Its final
@@ -6062,7 +6062,7 @@ remains genuinely unknowable to this session, and is not asserted here. Written 
 days after the fact, on the owner's explicit instruction, to close a gap `251d8d9` referenced but never
 filled.
 
-## D-119 ΓÇö Completed the D-048 duplicate-merge that was never actually executed
+## D-119 ╬ô├ç├╢ Completed the D-048 duplicate-merge that was never actually executed
 
 - **Date:** 2026-09-02.
 - **Trigger:** the weekly `marlbridge-weekly-study-guides` scheduled task ran
@@ -6118,7 +6118,7 @@ filled.
 - **Status:** both duplicate pages actually removed and redirected this time. No further action
   needed on these two groups; `check:duplicate-scope` is clean.
 
-## D-120 ΓÇö Weekly depth batch (2026-09-02, sub-batch 1): 3 new resources, 1 reviewed same-scope pair
+## D-120 ╬ô├ç├╢ Weekly depth batch (2026-09-02, sub-batch 1): 3 new resources, 1 reviewed same-scope pair
 
 - **Date:** 2026-09-02.
 - **Workstream:** `marlbridge-weekly-study-guides` scheduled task, first sub-batch of this run.
@@ -6132,14 +6132,14 @@ filled.
 - **Resources added:**
   1. `o-level-english-language-paper-1-reading.md` (study-guides) -- Cambridge O-Level English
      Language (1123) had an overview guide and a Paper 2 Writing deep dive but no Paper 1 Reading
-     deep dive. Combination: 4 ΓåÆ 5 resources.
+     deep dive. Combination: 4 ╬ô├Ñ├å 5 resources.
   2. `o-level-geography-economic-development.md` (study-guides) -- Cambridge O-Level Geography
      (2217) had Theme 1 and Theme 2 study guides but Theme 3 (Economic Development) was entirely
-     uncovered, including in the sibling IGCSE 0460 resource set. Combination: 4 ΓåÆ 5 resources.
+     uncovered, including in the sibling IGCSE 0460 resource set. Combination: 4 ╬ô├Ñ├å 5 resources.
   3. `a-level-cambridge-global-perspectives-team-project.md` (study-guides) -- Cambridge A-Level
      Global Perspectives & Research (9239) had Component 1 (3 resources) and Component 2 (1
      resource) covered but Component 3 (Team Project) had zero resources anywhere on the site.
-     Combination: 4 ΓåÆ 5 resources.
+     Combination: 4 ╬ô├Ñ├å 5 resources.
   All three cite their own official Cambridge syllabus PDF with a verification date, and none
   required new `syllabus-topics.ts` entries -- all three topics already existed in the taxonomy
   from prior sessions.
@@ -6162,7 +6162,7 @@ filled.
 - **Status:** sub-batch 1 of this run's depth batch. Further sub-batches follow in later commits
   this same run.
 
-## D-121 ΓÇö Weekly depth batch (2026-09-02, sub-batch 2): 3 more resources
+## D-121 ╬ô├ç├╢ Weekly depth batch (2026-09-02, sub-batch 2): 3 more resources
 
 - **Date:** 2026-09-02.
 - **Workstream:** `marlbridge-weekly-study-guides` scheduled task, second sub-batch of this run
@@ -6171,18 +6171,18 @@ filled.
   1. `a-level-cambridge-law-criminal-law.md` (study-guides) -- Cambridge A-Level Law (9084) had
      all 4 of its existing resources on Topic 1 (English Legal System) only; Topics 2 (Criminal
      Law), 3 (Contract) and 4 (Tort) were entirely uncovered. Wrote Topic 2, the next AS Level
-     topic. Combination: 4 ΓåÆ 5 resources.
+     topic. Combination: 4 ╬ô├Ñ├å 5 resources.
   2. `a-level-cambridge-psychology-research-methods.md` (study-guides) -- Cambridge A-Level
      Psychology (9990) had Paper 1 (2 resources) and Paper 3 (1 resource) covered but Paper 2
      (Research Methods) had zero resources anywhere on the site, despite being one of two
-     compulsory AS papers. Combination: 4 ΓåÆ 5 resources.
+     compulsory AS papers. Combination: 4 ╬ô├Ñ├å 5 resources.
   3. `a-level-cambridge-sociology-the-family.md` (study-guides) -- Cambridge A-Level Sociology
      (9699) had Paper 1 (3 resources) and Paper 4 (1 resource) covered but Paper 2 (The Family,
      the other compulsory AS paper) and Paper 3 (Education) both had zero resources. Wrote
-     Paper 2. Combination: 4 ΓåÆ 5 resources.
+     Paper 2. Combination: 4 ╬ô├Ñ├å 5 resources.
   All three cite their own official Cambridge syllabus PDF with a verification date.
 - **Taxonomy update:** `syllabus-topics.ts`'s Cambridge A-Level Sociology (9699) entry had Paper 2
-  ΓÇô The Family recorded with an empty `subtopics: []` array (not yet researched). Fetched the
+  ╬ô├ç├┤ The Family recorded with an empty `subtopics: []` array (not yet researched). Fetched the
   official syllabus PDF's own subject-content chapter for Paper 2 (pages 17-18) and added the
   real subtopic structure: 3.1 Perspectives on the role of the family, 3.2 Diversity and social
   change, 4.1 Gender equality and experiences of family life, 4.2 Age and family life. Updated the
@@ -6196,7 +6196,7 @@ filled.
   `coverage:academic-v2`, `check:duplicate-scope`) run clean before commit.
 - **Status:** sub-batch 2 of this run's depth batch, continuing from D-120.
 
-## D-122 ΓÇö Weekly depth batch (2026-09-02, sub-batch 3): 2 more resources
+## D-122 ╬ô├ç├╢ Weekly depth batch (2026-09-02, sub-batch 3): 2 more resources
 
 - **Date:** 2026-09-02.
 - **Workstream:** `marlbridge-weekly-study-guides` scheduled task, third sub-batch of this run
@@ -6206,11 +6206,11 @@ filled.
      History (9489) had the European Option (3 resources) and American Option (1 resource)
      covered, but the International Option (International history, 1870-1945) had zero
      resources despite being one of the three AS Level routes candidates can choose. Combination:
-     4 ΓåÆ 5 resources.
+     4 ╬ô├Ñ├å 5 resources.
   2. `igcse-edexcel-biology-reproduction-and-inheritance.md` (study-guides) -- Pearson Edexcel
      International GCSE Biology (4BI1) had Topic 1 and part of Topic 2 covered but Topics 3
      (Reproduction and inheritance), 4 (Ecology and the environment) and 5 (Use of biological
-     resources) were entirely uncovered. Wrote Topic 3. Combination: 4 ΓåÆ 5 resources.
+     resources) were entirely uncovered. Wrote Topic 3. Combination: 4 ╬ô├Ñ├å 5 resources.
   Both cite their own official specification PDF with a verification date.
 - **Taxonomy update:** `syllabus-topics.ts`'s Edexcel IGCSE Biology (4BI1) entry had Topic 3
   recorded with an empty `subtopics: []` array. Fetched the official specification PDF's own
@@ -6227,7 +6227,7 @@ filled.
   final sub-batch of this run -- see the run's completion report for the overall total against
   the 50-resource target and the reason for stopping short.
 
-## D-123 ΓÇö GSC demand engine, ┬º33-36: credential setup + smallest-possible live-API verification endpoint (and a real overlap this session found)
+## D-123 ╬ô├ç├╢ GSC demand engine, Γö¼┬║33-36: credential setup + smallest-possible live-API verification endpoint (and a real overlap this session found)
 
 - **Date:** 2026-09-02.
 - **Baseline note:** originally drafted as D-120 against the `478cd1f` tip. The
@@ -6239,7 +6239,7 @@ filled.
   yet another automation run lands, the number may need bumping once more at merge time -- check
   `grep -o '^## D-[0-9]*' docs/decision-log.md | tail -1` before merging, not this entry's word
   for what's free.
-- **Context:** Flagship Dominance/Trust programme ┬º33-36 ("Search Console demand engine"). A
+- **Context:** Flagship Dominance/Trust programme Γö¼┬║33-36 ("Search Console demand engine"). A
   handoff brief for this item (written earlier the same day, before this entry) established that
   D-078 (WS20, 2026-08-29) and this programme's Phase 7 (2026-09-01) were both one-time manual GSC
   reviews, not reusable tooling, and that no Google Search Console API credentials existed anywhere
@@ -6322,7 +6322,7 @@ filled.
   clean, not yet deployed or exercised. Architecture question open. No storage/dashboard/automation
   built.
 
-## D-124 ΓÇö GSC demand engine follow-up: gsc-verify.ts was dead code, wired into the actual Worker router
+## D-124 ╬ô├ç├╢ GSC demand engine follow-up: gsc-verify.ts was dead code, wired into the actual Worker router
 
 - **Date:** 2026-09-02.
 - **Context:** D-123 shipped `functions/api/admin/gsc-verify.ts`, a temporary verification endpoint,
@@ -6353,7 +6353,7 @@ filled.
   claimed here.
 - **Status:** routing fixed and gate-clean, not yet deployed or re-exercised.
 
-## D-125 ΓÇö Live Search Console demand engine: verified credential confirmed working, then built the full D1/Cron/dashboard system on explicit owner direction
+## D-125 ╬ô├ç├╢ Live Search Console demand engine: verified credential confirmed working, then built the full D1/Cron/dashboard system on explicit owner direction
 
 - **Date:** 2026-09-02.
 - **Context:** D-124 fixed the routing bug that made `functions/api/admin/gsc-verify.ts` unreachable.
@@ -6469,7 +6469,7 @@ filled.
   first real data, then verify the dashboard renders it, per this same session's standing "never
   claim success without checking" discipline.
 
-## D-126 ΓÇö IB Middle Years Programme assessment structure: 5 subjects modeled from public sources, closing 5 of the 19 IB `NOT_YET_MODELED` gaps with a new, honestly-distinct schema value
+## D-126 ╬ô├ç├╢ IB Middle Years Programme assessment structure: 5 subjects modeled from public sources, closing 5 of the 19 IB `NOT_YET_MODELED` gaps with a new, honestly-distinct schema value
 
 - **Date:** 2026-09-04.
 - **Context:** the owner asked this session to research IB assessment structure online and update the schema as needed, following on from an investigation (this same session) into why all 19 `NOT_YET_MODELED` ACTIVE combinations were IB subjects (14 IB Diploma Programme, 5 IB Middle Years Programme). That investigation independently re-verified D-050/the DP Economics and DP Physics records' own sourcing notes by fetching a real IB DP subject brief directly (Biology): confirmed the public briefs give component duration and weighting but never raw mark totals, so the 14 DP gaps genuinely cannot be closed without either broader owner-licensed subject-guide access or IB publishing that detail publicly -- unchanged, still open, not attempted this round.
@@ -6483,20 +6483,20 @@ filled.
 - **Not yet done / explicitly out of scope this round:** the 14 IB Diploma Programme gaps remain genuinely blocked pending an owner decision (broader licensed subject-guide access, or accepting the gap) -- not attempted here, no guessed marks introduced. `docs/reports/academic-coverage-report-v1.2.{csv,md,json}` were not regenerated in this round -- that generation is currently being run by a separate, concurrent batch process against this same repo; regenerating it here risked a spurious merge conflict against work already in flight, so it's left for that process's own next regeneration pass rather than hand-edited or duplicated.
 - **Status:** built and gate-clean; not yet pushed as of this entry -- see the accompanying report to the owner for the push decision.
 
-## D-127 ΓÇö Owner decision: IB licence documentation is no longer a precondition for modeling DP assessment records
+## D-127 ╬ô├ç├╢ Owner decision: IB licence documentation is no longer a precondition for modeling DP assessment records
 
 **Date:** 2026-09-04
 **Trigger:** Direct owner instruction: "change the licensing decision to not require the license documentation. fill the 14 IB DP assessment gaps."
 
-**Prior state.** D-focused work on DP Economics and DP Physics (the only 2 of 16 active IB Diploma Programme subject combinations with a modeled assessment record before this entry) was built on a formal IB licence the owner held covering commercial/tutoring use of those two subjects' full guide PDFs. The remaining 14 active DP combinations were left as `NOT_YET_MODELED`, with their assessment records' own notes stating the reason was that the only freely public DP source ΓÇö the 2-page "subject brief" PDF ΓÇö gives component weighting and sitting duration but never a raw marks total, and a complete record couldn't be built without either extending that paid licence or the board publishing marks totals publicly itself.
+**Prior state.** D-focused work on DP Economics and DP Physics (the only 2 of 16 active IB Diploma Programme subject combinations with a modeled assessment record before this entry) was built on a formal IB licence the owner held covering commercial/tutoring use of those two subjects' full guide PDFs. The remaining 14 active DP combinations were left as `NOT_YET_MODELED`, with their assessment records' own notes stating the reason was that the only freely public DP source ╬ô├ç├╢ the 2-page "subject brief" PDF ╬ô├ç├╢ gives component weighting and sitting duration but never a raw marks total, and a complete record couldn't be built without either extending that paid licence or the board publishing marks totals publicly itself.
 
-**What changed.** Risk R13 (IB licence documentation, tracked open since the v2.0 MEGA PROGRAMME closed 28 Aug 2026) is closed by explicit owner decision: filing further licence paperwork is **no longer required** before modeling additional DP subjects. This is not a relaxation of this repo's sourcing standard ΓÇö it's the discovery (confirmed this session by directly fetching IB's own public "Sample exam papers" hub, `https://ibo.org/programmes/diploma-programme/assessment-and-exams/sample-exam-papers/`) that IB publishes **official specimen exam papers with real, printed mark totals** for many DP subjects completely freely, separately from the paid subject guides. Pairing a subject's freely public subject-brief PDF (weighting % + duration, no marks) with its freely public specimen paper PDF (real marks, directly fetched and read) yields a fully verifiable component-based record without needing the licensed guide at all. The "never invent a number" rule is unchanged; this only changes which public documents count as sufficient primary sources.
+**What changed.** Risk R13 (IB licence documentation, tracked open since the v2.0 MEGA PROGRAMME closed 28 Aug 2026) is closed by explicit owner decision: filing further licence paperwork is **no longer required** before modeling additional DP subjects. This is not a relaxation of this repo's sourcing standard ╬ô├ç├╢ it's the discovery (confirmed this session by directly fetching IB's own public "Sample exam papers" hub, `https://ibo.org/programmes/diploma-programme/assessment-and-exams/sample-exam-papers/`) that IB publishes **official specimen exam papers with real, printed mark totals** for many DP subjects completely freely, separately from the paid subject guides. Pairing a subject's freely public subject-brief PDF (weighting % + duration, no marks) with its freely public specimen paper PDF (real marks, directly fetched and read) yields a fully verifiable component-based record without needing the licensed guide at all. The "never invent a number" rule is unchanged; this only changes which public documents count as sufficient primary sources.
 
-**Scope note.** This decision governs new DP records added from this point forward (see the batch modeled immediately after this entry). It does not retroactively alter the existing DP Economics / DP Physics records, which remain accurately documented as built from the licensed guides they were actually sourced from ΓÇö rewriting their `notes` to imply a different sourcing history would itself violate this repo's own accuracy discipline.
+**Scope note.** This decision governs new DP records added from this point forward (see the batch modeled immediately after this entry). It does not retroactively alter the existing DP Economics / DP Physics records, which remain accurately documented as built from the licensed guides they were actually sourced from ╬ô├ç├╢ rewriting their `notes` to imply a different sourcing history would itself violate this repo's own accuracy discipline.
 
 **Owner authority:** explicit, direct instruction, 2026-09-04.
 
-## D-128 ΓÇö IB Diploma Programme assessment records: 8 subjects modeled in full, 2 partial (HL only), 6 deferred, closing 8 of the 14 IB DP `NOT_YET_MODELED` gaps under the D-127 sourcing decision
+## D-128 ╬ô├ç├╢ IB Diploma Programme assessment records: 8 subjects modeled in full, 2 partial (HL only), 6 deferred, closing 8 of the 14 IB DP `NOT_YET_MODELED` gaps under the D-127 sourcing decision
 
 **Date:** 2026-09-05
 **Trigger:** Direct follow-on from D-127's owner decision. Per that entry's own instruction ("see the batch modeled immediately after this entry"), this entry records the actual batch: independently fetching and reading, for each of the 14 IB DP subjects still `NOT_YET_MODELED`, that subject's own freely public official subject-brief PDF (weighting % and sitting duration, never marks) and, where one exists, its own freely public official specimen exam-paper PDF (real, printed mark totals) from ibo.org.
@@ -6525,7 +6525,7 @@ filled.
 
 **Owner authority:** carries forward D-127's explicit owner instruction to fill the IB DP assessment gaps; no further owner input was sought mid-batch, consistent with D-127's own framing of this as the batch it anticipated.
 
-## D-129 ΓÇö Evidence policy widened to allow authentic mirrors (not just ibo.org itself); 5 of the remaining 6 IB DP `NOT_YET_MODELED` subjects modeled, 1 remains a genuine gap
+## D-129 ╬ô├ç├╢ Evidence policy widened to allow authentic mirrors (not just ibo.org itself); 5 of the remaining 6 IB DP `NOT_YET_MODELED` subjects modeled, 1 remains a genuine gap
 
 **Date:** 2026-09-05
 **Trigger:** Owner decision, same date: the sourcing rule established by D-127/used through D-128 ("every fact must trace to the awarding body's own published specification... never a tutoring site, forum, or model memory") is narrowed from "hosted on ibo.org" to "a genuine, authentic IB-origin document, regardless of who mirrors it." A specimen paper, mark scheme or subject brief mirrored on a school's own site, a teacher-support blog, or a well-established revision platform is now usable PROVIDED it is checked against an authenticity checklist (IB branding/copyright, document formatting and coding conventions, subject/qualification/tier identifiers, session/version markers, page numbering, consistency with the official subject brief, cross-source consistency) and classified into one of three usable evidence tiers, worst to best: `authentic-mirror-corroborated` (a second independent source agrees), `authentic-mirror-high-confidence` (one detailed, internally consistent source with no independent corroboration but no contradiction either), `official-host` (ibo.org itself, unchanged from before). Two tiers below that threshold (`authentic-mirror-review-required` for numerically conflicting sources, `rejected` for sources failing the checklist) exist only as a research discipline, never as a written record -- a source that only reaches one of those two never becomes data. `officialSourceUrl` must always still point to IB's own official page even when the actual marks came from a mirror.
@@ -6552,71 +6552,71 @@ filled.
 
 **Owner authority:** carries forward the owner's evidence-policy-widening decision described above, made directly this session; no further owner input was sought mid-batch.
 
-## D-130 ΓÇö Full audit and remediation of the bulk-content automation's entire body of work (155 commits, 982 files), superseding the 4 Sept baseline's stale "49 undocumented commits, out of scope" assumption
+## D-130 ╬ô├ç├╢ Full audit and remediation of the bulk-content automation's entire body of work (155 commits, 982 files), superseding the 4 Sept baseline's stale "49 undocumented commits, out of scope" assumption
 
 **Date:** 2026-09-05
 **Trigger:** Direct owner instruction, relayed via the orchestrating session: the 4 Sept baseline audit had flagged "49 undocumented bulk-content commits" from an automated content-generation process and marked them out of scope, on the assumption they belonged to a different Claude instance. The owner confirmed that assumption was wrong and asked for a full audit and remediation of the entire body of work. The orchestrating session had already re-derived the true scope (the automation was still running when the 49 figure was measured, so it was stale immediately) and handed this session a verified reconstruction to audit against, rather than re-deriving it from scratch.
 
-**Scope reconstruction, independently re-verified before use.** The handed-off reconstruction ΓÇö commits matching `^Deepen`, `^content(academic): deepen`, `^Weekly study guides`, `^Add [0-9]+.*deepening`, `^content: deepen`, `^Expand`, `^Fill .*depth gap`, `^Fill missed`, `^Regenerate coverage report after merge`, `^Build missing`, `^Top up` (case-insensitive, subject-anchored) from `b0b47035af631d886a9968e13d1ea7c5ca15c2fe~1` to `HEAD` ΓÇö was recomputed independently with the exact same `git log --extended-regexp --grep` command and diffed byte-for-byte against the handed-off list: **0 lines of difference**. The 982-file union (via `git show --no-commit-id --name-only` per commit, unioned and filtered to files still present on HEAD) was likewise recomputed and diffed: **0 lines of difference**. **Confirmed exact: 155 commits, 982 files** (974 under `src/content/resources/`, 8 infrastructure files: `docs/decision-log.md`, `docs/reports/academic-coverage-report-v1.2.{csv,json}`, `public/_redirects`, `public/llms.txt`, `scripts/check-duplicate-resource-scope.mjs`, `scripts/test-cross-board-regression.mjs`, `src/data/academic/syllabus-topics.ts`). The 15 excluded legitimate commits in the same date range (GSC dashboard, IB MYP/DP modeling, a vulnerability fix, a title-formatting fix, an already-reviewed duplicate-scope fix, and the separately-labeled "Weekly depth batch" resources) were left untouched, as instructed.
+**Scope reconstruction, independently re-verified before use.** The handed-off reconstruction ╬ô├ç├╢ commits matching `^Deepen`, `^content(academic): deepen`, `^Weekly study guides`, `^Add [0-9]+.*deepening`, `^content: deepen`, `^Expand`, `^Fill .*depth gap`, `^Fill missed`, `^Regenerate coverage report after merge`, `^Build missing`, `^Top up` (case-insensitive, subject-anchored) from `b0b47035af631d886a9968e13d1ea7c5ca15c2fe~1` to `HEAD` ╬ô├ç├╢ was recomputed independently with the exact same `git log --extended-regexp --grep` command and diffed byte-for-byte against the handed-off list: **0 lines of difference**. The 982-file union (via `git show --no-commit-id --name-only` per commit, unioned and filtered to files still present on HEAD) was likewise recomputed and diffed: **0 lines of difference**. **Confirmed exact: 155 commits, 982 files** (974 under `src/content/resources/`, 8 infrastructure files: `docs/decision-log.md`, `docs/reports/academic-coverage-report-v1.2.{csv,json}`, `public/_redirects`, `public/llms.txt`, `scripts/check-duplicate-resource-scope.mjs`, `scripts/test-cross-board-regression.mjs`, `src/data/academic/syllabus-topics.ts`). The 15 excluded legitimate commits in the same date range (GSC dashboard, IB MYP/DP modeling, a vulnerability fix, a title-formatting fix, an already-reviewed duplicate-scope fix, and the separately-labeled "Weekly depth batch" resources) were left untouched, as instructed.
 
-**Tier 1 ΓÇö automated, exhaustive, all 974 content files:**
-- **Near-duplicate detection:** wrote a shingled 8-word-gram Jaccard-similarity script (`/tmp/audit/near_dup.py`, not committed ΓÇö a throwaway analysis tool, not a repo artifact), comparing every file against every other file of the *same* `resourceType`, with an inverted-index candidate-generation step to make the ~510k possible same-type pairs tractable. At a permissive 0.15 Jaccard threshold, only **3 candidate pairs** surfaced across the entire corpus. All 3 manually reviewed in full: IGCSE World History 1848-1914 vs. the sibling O-Level version (0.597), IGCSE vs. O-Level Islamiyat Paper 2 notes (0.204), and Edexcel vs. OCR GCSE Mathematics "Number" notes (0.156). All three are **false positives** ΓÇö genuinely independent prose for distinct qualification codes (each citing its own correct spec code, series and, where applicable, an explicit "identical core content to sibling X" disclosure that Cambridge's own syllabi corroborate), not copy-paste padding. Zero genuine near-duplicates found.
-- **Red-flag grep sweep:** all 974 files scanned for `TODO|FIXME|Lorem ipsum|\[insert|XXX` (0 hits) and for process-leakage language adjacent to what `audit-content-integrity.mjs`'s `INTERNAL_NOTE_PATTERNS` already blocks (`sub-batch`, `batch N/`, `depth gap`, `thin ACTIVE combinations`, `top-up`, `NOT_YET_MODELED`, `regenerate coverage`, etc. ΓÇö 0 hits). A verbatim-repeated-line scan (lines >60 chars appearing in >=5 distinct files) found 23 repeated lines; all are legitimate, intentional boilerplate (the required per-practice-file copyright disclaimer, a citation-format convention, and revision-notes cross-link phrasing), not disguised padding.
-- **Word-count distribution and claim-checking:** computed whole-corpus word counts (whitespace-split method, frontmatter excluded); n=974, min 875, max 1458, median 948.5 ΓÇö a tight, deliberate band consistent with the automation's own "past 900 words" target, one file 25 words under 900 (never itself the subject of a 900-word claim, so not a bug). Cross-referenced all **56 commits** whose subject line explicitly claims a numeric word-count outcome ("... past/to 900 words", 555 (commit, file) pairs) against the file's *current* word count on HEAD: **0 of 555 are actually under 900 words** ΓÇö every claim holds. (An initial pass using a stricter alphanumeric-token regex wrongly flagged 253 as under 900; cross-checked against plain `wc -w`, which showed the regex was simply a non-standard undercount ΓÇö the standard whitespace-split method, matching `wc -w`, is what the report above uses.) Also spot-checked 98 commits with a leading numeric claim adjacent to resource/combination/file wording against actual files-touched counts; all 14 apparent mismatches were manually confirmed to be false positives of the check's own naive regex (picking up syllabus codes, batch numbers, or legitimate one-combination-many-files cases), not real bugs.
+**Tier 1 ╬ô├ç├╢ automated, exhaustive, all 974 content files:**
+- **Near-duplicate detection:** wrote a shingled 8-word-gram Jaccard-similarity script (`/tmp/audit/near_dup.py`, not committed ╬ô├ç├╢ a throwaway analysis tool, not a repo artifact), comparing every file against every other file of the *same* `resourceType`, with an inverted-index candidate-generation step to make the ~510k possible same-type pairs tractable. At a permissive 0.15 Jaccard threshold, only **3 candidate pairs** surfaced across the entire corpus. All 3 manually reviewed in full: IGCSE World History 1848-1914 vs. the sibling O-Level version (0.597), IGCSE vs. O-Level Islamiyat Paper 2 notes (0.204), and Edexcel vs. OCR GCSE Mathematics "Number" notes (0.156). All three are **false positives** ╬ô├ç├╢ genuinely independent prose for distinct qualification codes (each citing its own correct spec code, series and, where applicable, an explicit "identical core content to sibling X" disclosure that Cambridge's own syllabi corroborate), not copy-paste padding. Zero genuine near-duplicates found.
+- **Red-flag grep sweep:** all 974 files scanned for `TODO|FIXME|Lorem ipsum|\[insert|XXX` (0 hits) and for process-leakage language adjacent to what `audit-content-integrity.mjs`'s `INTERNAL_NOTE_PATTERNS` already blocks (`sub-batch`, `batch N/`, `depth gap`, `thin ACTIVE combinations`, `top-up`, `NOT_YET_MODELED`, `regenerate coverage`, etc. ╬ô├ç├╢ 0 hits). A verbatim-repeated-line scan (lines >60 chars appearing in >=5 distinct files) found 23 repeated lines; all are legitimate, intentional boilerplate (the required per-practice-file copyright disclaimer, a citation-format convention, and revision-notes cross-link phrasing), not disguised padding.
+- **Word-count distribution and claim-checking:** computed whole-corpus word counts (whitespace-split method, frontmatter excluded); n=974, min 875, max 1458, median 948.5 ╬ô├ç├╢ a tight, deliberate band consistent with the automation's own "past 900 words" target, one file 25 words under 900 (never itself the subject of a 900-word claim, so not a bug). Cross-referenced all **56 commits** whose subject line explicitly claims a numeric word-count outcome ("... past/to 900 words", 555 (commit, file) pairs) against the file's *current* word count on HEAD: **0 of 555 are actually under 900 words** ╬ô├ç├╢ every claim holds. (An initial pass using a stricter alphanumeric-token regex wrongly flagged 253 as under 900; cross-checked against plain `wc -w`, which showed the regex was simply a non-standard undercount ╬ô├ç├╢ the standard whitespace-split method, matching `wc -w`, is what the report above uses.) Also spot-checked 98 commits with a leading numeric claim adjacent to resource/combination/file wording against actual files-touched counts; all 14 apparent mismatches were manually confirmed to be false positives of the check's own naive regex (picking up syllabus codes, batch numbers, or legitimate one-combination-many-files cases), not real bugs.
 
-**Tier 2 ΓÇö targeted deep read, 39 of 982 files (Γëê4%), explicit sample, not exhaustive.** Stratified by board (Cambridge 16, IB 12, OxfordAQA 10, AQA 10, Edexcel 10, OCR 8 planned; 39 actually read in depth before diminishing returns and budget were judged to outweigh reading the rest) weighted ~65% toward quantitative subjects (chemistry, physics, mathematics, biology, economics, accounting, business finance) per the brief, covering practice-questions, revision-notes, study-guides and subject-guides. For every quantitative file, every worked-example and answer-key calculation was independently redone by hand (stoichiometry, kinetics/equilibrium Kp/Kc, mechanics, nuclear decay/half-life, GCSE number/percentages/surds/bounds, IB DP momentum/collisions, break-even/ratios/current-and-acid-test-ratios, economics multiplier/elasticity, statistics weighted means). **Result: zero arithmetic or factual errors found** across all 39 files. Academic identity (subject/board/qualification/stage/topic matching frontmatter and the file's own body) was correct in all 39. Cited official sources (spec codes, series years, syllabus document titles) were checked against known real board specifications and found accurate in all 39; several history/Islamiyat/Pakistan Studies dates and figures were cross-checked against established historical record and found accurate.
+**Tier 2 ╬ô├ç├╢ targeted deep read, 39 of 982 files (╬ô├½├¬4%), explicit sample, not exhaustive.** Stratified by board (Cambridge 16, IB 12, OxfordAQA 10, AQA 10, Edexcel 10, OCR 8 planned; 39 actually read in depth before diminishing returns and budget were judged to outweigh reading the rest) weighted ~65% toward quantitative subjects (chemistry, physics, mathematics, biology, economics, accounting, business finance) per the brief, covering practice-questions, revision-notes, study-guides and subject-guides. For every quantitative file, every worked-example and answer-key calculation was independently redone by hand (stoichiometry, kinetics/equilibrium Kp/Kc, mechanics, nuclear decay/half-life, GCSE number/percentages/surds/bounds, IB DP momentum/collisions, break-even/ratios/current-and-acid-test-ratios, economics multiplier/elasticity, statistics weighted means). **Result: zero arithmetic or factual errors found** across all 39 files. Academic identity (subject/board/qualification/stage/topic matching frontmatter and the file's own body) was correct in all 39. Cited official sources (spec codes, series years, syllabus document titles) were checked against known real board specifications and found accurate in all 39; several history/Islamiyat/Pakistan Studies dates and figures were cross-checked against established historical record and found accurate.
 
-**One genuine issue found and fixed: a stale, misapplied IB commercial-licensing disclaimer.** While reading `ib-dp-physics-forces-momentum-revision-notes.md`, noticed its "Official syllabus" footer stating "Marlbridge holds, or is in the process of obtaining, a formal license from the IB for commercial use of this guide." This hedge language originates in D-008 (22 Aug), when the licensing status was genuinely unresolved for the two IB DP subjects (Economics, Physics) built from the IB's *licensed, full internal* subject guides. **D-091 (1 Sept) confirms the owner resolved this** ("the licensing situation is now resolved... the automation exclusion is lifted"), making the hedge stale from that date forward. Searched all 106 IB content files: only **7** still carried the sentence, and only these 7 ΓÇö every other IB file (built from the freely public, unrestricted subject-brief documents, which is the sourcing basis for all but the original two D-008 subjects) correctly carries no such disclaimer at all. Of the 7, **2 fall outside this audit's 982-file scope** (`ib-dp-economics-syllabus-guide.md`, `ib-dp-physics-forces-and-momentum.md` ΓÇö pre-existing D-008 originals, never touched by the bulk-content automation) and were left alone per the audit's scope boundary. The remaining **5 are in scope** and were fixed by removing the stale sentence: `ib-dp-biology-theme-a-unity-diversity-practice.md` (the sentence didn't even apply here ΓÇö this file is sourced from the public Biology subject brief, the same unrestricted category as every other undisclaimed IB file, so its presence was a copy-paste error, not a real disclosure), `ib-dp-economics-demand-supply-equilibrium-revision-notes.md`, `ib-dp-physics-forces-momentum-revision-notes.md`, `ib-dp-physics-kinematics-revision-notes.md`, `ib-dp-physics-syllabus-guide.md`. Two of the five were themselves the subject of `Weekly study guides` bulk commits *after* D-091's 1 Sept resolution date (`ib-dp-physics-forces-momentum-revision-notes.md`, published 2026-09-02) ΓÇö the automation was still copying the stale hedge forward from the older sibling files it was "deepening," even after the underlying uncertainty it described no longer existed. **Trade-off disclosed rather than papered over:** removing this sentence drops `ib-dp-physics-syllabus-guide.md` from 913 to 892 words, below the 900-word bar its own originating "Expand batch 10... to 900+ words" commit had certified. Per this audit's explicit fix policy ("do NOT expand anything further"), no compensating filler was added ΓÇö the file is a complete, substantively correct 892-word guide, and the regression is disclosed here rather than concealed by re-padding.
-- **Not a recurring class, no new validator added.** This was one historical sentence, introduced once (D-008) and copied forward by the deepening automation into a small, now-fully-identified set of sibling files, not a generalizable bug pattern the corpus is at ongoing risk of reproducing ΓÇö `audit-content-integrity.mjs`'s existing `INTERNAL_NOTE_PATTERNS` already target a different failure class (internal engineering artifacts), and this sentence, while stale, was a legitimate (if outdated) business/legal statement, not an engineering leak. Judged not to meet this audit's own bar for adding a durable validator.
+**One genuine issue found and fixed: a stale, misapplied IB commercial-licensing disclaimer.** While reading `ib-dp-physics-forces-momentum-revision-notes.md`, noticed its "Official syllabus" footer stating "Marlbridge holds, or is in the process of obtaining, a formal license from the IB for commercial use of this guide." This hedge language originates in D-008 (22 Aug), when the licensing status was genuinely unresolved for the two IB DP subjects (Economics, Physics) built from the IB's *licensed, full internal* subject guides. **D-091 (1 Sept) confirms the owner resolved this** ("the licensing situation is now resolved... the automation exclusion is lifted"), making the hedge stale from that date forward. Searched all 106 IB content files: only **7** still carried the sentence, and only these 7 ╬ô├ç├╢ every other IB file (built from the freely public, unrestricted subject-brief documents, which is the sourcing basis for all but the original two D-008 subjects) correctly carries no such disclaimer at all. Of the 7, **2 fall outside this audit's 982-file scope** (`ib-dp-economics-syllabus-guide.md`, `ib-dp-physics-forces-and-momentum.md` ╬ô├ç├╢ pre-existing D-008 originals, never touched by the bulk-content automation) and were left alone per the audit's scope boundary. The remaining **5 are in scope** and were fixed by removing the stale sentence: `ib-dp-biology-theme-a-unity-diversity-practice.md` (the sentence didn't even apply here ╬ô├ç├╢ this file is sourced from the public Biology subject brief, the same unrestricted category as every other undisclaimed IB file, so its presence was a copy-paste error, not a real disclosure), `ib-dp-economics-demand-supply-equilibrium-revision-notes.md`, `ib-dp-physics-forces-momentum-revision-notes.md`, `ib-dp-physics-kinematics-revision-notes.md`, `ib-dp-physics-syllabus-guide.md`. Two of the five were themselves the subject of `Weekly study guides` bulk commits *after* D-091's 1 Sept resolution date (`ib-dp-physics-forces-momentum-revision-notes.md`, published 2026-09-02) ╬ô├ç├╢ the automation was still copying the stale hedge forward from the older sibling files it was "deepening," even after the underlying uncertainty it described no longer existed. **Trade-off disclosed rather than papered over:** removing this sentence drops `ib-dp-physics-syllabus-guide.md` from 913 to 892 words, below the 900-word bar its own originating "Expand batch 10... to 900+ words" commit had certified. Per this audit's explicit fix policy ("do NOT expand anything further"), no compensating filler was added ╬ô├ç├╢ the file is a complete, substantively correct 892-word guide, and the regression is disclosed here rather than concealed by re-padding.
+- **Not a recurring class, no new validator added.** This was one historical sentence, introduced once (D-008) and copied forward by the deepening automation into a small, now-fully-identified set of sibling files, not a generalizable bug pattern the corpus is at ongoing risk of reproducing ╬ô├ç├╢ `audit-content-integrity.mjs`'s existing `INTERNAL_NOTE_PATTERNS` already target a different failure class (internal engineering artifacts), and this sentence, while stale, was a legitimate (if outdated) business/legal statement, not an engineering leak. Judged not to meet this audit's own bar for adding a durable validator.
 
-**Explicitly NOT checked ΓÇö do not represent this as exhaustive coverage:** the ~935 content files outside the 39-file Tier 2 sample received only the Tier 1 automated checks (near-duplicate signature, red-flag sweep, word-count-claim cross-reference) ΓÇö genuinely useful, whole-corpus, but structurally incapable of catching a subtle factual or arithmetic error that doesn't manifest as duplication, a red-flag string, or a word-count mismatch. The owner's brief's own structural/systemic categories (rendered-label integrity, review-trust signal, accessibility, metadata/canonical duplication, sitemap/indexability, structured-data agreement, cross-board leakage, exact-syllabus-scope duplication) remain independently confirmed clean across all 982 files by the pre-existing site-wide tooling (`npm run audit:all`, `check-duplicate-resource-scope.mjs`), which this session re-ran rather than re-derived.
+**Explicitly NOT checked ╬ô├ç├╢ do not represent this as exhaustive coverage:** the ~935 content files outside the 39-file Tier 2 sample received only the Tier 1 automated checks (near-duplicate signature, red-flag sweep, word-count-claim cross-reference) ╬ô├ç├╢ genuinely useful, whole-corpus, but structurally incapable of catching a subtle factual or arithmetic error that doesn't manifest as duplication, a red-flag string, or a word-count mismatch. The owner's brief's own structural/systemic categories (rendered-label integrity, review-trust signal, accessibility, metadata/canonical duplication, sitemap/indexability, structured-data agreement, cross-board leakage, exact-syllabus-scope duplication) remain independently confirmed clean across all 982 files by the pre-existing site-wide tooling (`npm run audit:all`, `check-duplicate-resource-scope.mjs`), which this session re-ran rather than re-derived.
 
-**Verification gate, run in full after the fix:** `npm run build` (1728 pages, clean); `npm run audit:all` (11/11 clean, including a fresh `audit:content-integrity` internal-note-leakage scan across all 1728 built pages); `npm run validate:academic` (all 13 assessment sub-checks + grade-thresholds + practice-bank + practice-question-schema, clean); `node scripts/test-negative-validation-suite.mjs` (32/32 passed ΓÇö the reporting tool's own summary line, not a fixed "35" figure); `npm audit` (0 vulnerabilities); `npx astro check` (0 errors, 17 pre-existing unrelated hints); `node --experimental-strip-types scripts/check-duplicate-resource-scope.mjs` (PASS, same allow-listed pairs as baseline, no new duplicates introduced). Fresh-clone check (`git clone` to a scratch directory + `npm ci` + full gate) run against the final committed state.
+**Verification gate, run in full after the fix:** `npm run build` (1728 pages, clean); `npm run audit:all` (11/11 clean, including a fresh `audit:content-integrity` internal-note-leakage scan across all 1728 built pages); `npm run validate:academic` (all 13 assessment sub-checks + grade-thresholds + practice-bank + practice-question-schema, clean); `node scripts/test-negative-validation-suite.mjs` (32/32 passed ╬ô├ç├╢ the reporting tool's own summary line, not a fixed "35" figure); `npm audit` (0 vulnerabilities); `npx astro check` (0 errors, 17 pre-existing unrelated hints); `node --experimental-strip-types scripts/check-duplicate-resource-scope.mjs` (PASS, same allow-listed pairs as baseline, no new duplicates introduced). Fresh-clone check (`git clone` to a scratch directory + `npm ci` + full gate) run against the final committed state.
 
-**Not yet done / explicitly out of scope this round:** the ~935-file gap in Tier 2 coverage stated above. The 2 out-of-scope stale-hedge files (`ib-dp-economics-syllabus-guide.md`, `ib-dp-physics-forces-and-momentum.md`) were deliberately left untouched ΓÇö they predate the bulk-content automation this audit covers; fixing them is a legitimate follow-up but belongs to a differently-scoped session if the owner wants it. The 6 `NOT_YET_MODELED` IB DP assessment gaps (D-128) are unrelated to this audit and untouched.
+**Not yet done / explicitly out of scope this round:** the ~935-file gap in Tier 2 coverage stated above. The 2 out-of-scope stale-hedge files (`ib-dp-economics-syllabus-guide.md`, `ib-dp-physics-forces-and-momentum.md`) were deliberately left untouched ╬ô├ç├╢ they predate the bulk-content automation this audit covers; fixing them is a legitimate follow-up but belongs to a differently-scoped session if the owner wants it. The 6 `NOT_YET_MODELED` IB DP assessment gaps (D-128) are unrelated to this audit and untouched.
 
 **Owner authority:** explicit, direct instruction relayed via the orchestrating session, 2026-09-05, superseding the 4 Sept baseline's "out of scope" assumption about this same body of work.
 
-## D-131 ΓÇö `assessments.ts` corrupted on `main` by a silently-truncated API push; recovered in full, and large-file pushes moved off the GitHub Contents API
+## D-131 ╬ô├ç├╢ `assessments.ts` corrupted on `main` by a silently-truncated API push; recovered in full, and large-file pushes moved off the GitHub Contents API
 
 **Date:** 2026-09-05
 **Trigger:** The owner asked this session to push the six-commit D-129/D-130 series directly, rather than continue the bundle-and-apply handoff used for D-127 through D-130. The session had a GitHub connector authenticated as the repository owner, so it pushed via the GitHub Contents API. That mechanism turned out to be structurally unsafe for this repository's largest data file, and `main` was left in a non-compiling state for part of the session.
 
-**What went wrong, precisely.** The Contents API (`create_or_update_file` / `push_files`) has no append or patch mode: it replaces a file wholesale, so the *entire* new file content must be supplied as a single parameter ΓÇö which, for a model-driven client, means the whole file has to be generated as output tokens in one message. `src/data/academic/assessments.ts` is 3,526 lines / 349,870 bytes, roughly 87,000 output tokens, well beyond a single response's output budget. The generation stopped mid-file and the call was nevertheless submitted and accepted. The failure mode is the dangerous one: **not an error, but a plausible-looking partial file**.
+**What went wrong, precisely.** The Contents API (`create_or_update_file` / `push_files`) has no append or patch mode: it replaces a file wholesale, so the *entire* new file content must be supplied as a single parameter ╬ô├ç├╢ which, for a model-driven client, means the whole file has to be generated as output tokens in one message. `src/data/academic/assessments.ts` is 3,526 lines / 349,870 bytes, roughly 87,000 output tokens, well beyond a single response's output budget. The generation stopped mid-file and the call was nevertheless submitted and accepted. The failure mode is the dangerous one: **not an error, but a plausible-looking partial file**.
 
 Sequence on `main`:
-- `ee1b341` ΓÇö validator check [14]. Pushed cleanly; content verified identical to the intended `dd8cfd7`. No issue.
-- `c6bf48b` ΓÇö intended to be the D-129 data commit. Wrote `assessments.ts` truncated at **750 of 3,526 lines**, ending mid-record inside an unclosed Cambridge O Level Geography object. Invalid TypeScript; `npm run build` and therefore the Cloudflare deploy from `main` would fail from this commit onward.
-- `ebf8775` ΓÇö a first hotfix attempt that, through an operator error in constructing the API call, contained the literal string `PLACEHOLDER` instead of file content. Strictly worse than what it replaced, and corrected within the same minute.
-- `81b812a` ΓÇö a deliberate, disclosed **stopgap**: the complete type/interface header and both helper functions restored verbatim from the last known-good blob (`fdfa9f3`), with `ASSESSMENTS` left as an **empty array**. Chosen to make `main` compile again immediately while the real data was recovered by a safe route. Its commit message stated the emptiness explicitly. Verified with `npx astro check` (0 errors) before being relied on. **No assessment record was invented to fill the gap at any point** ΓÇö the file was honestly empty rather than plausibly wrong, which is the same principle this data file has applied to unsourced records since D-050.
-- `2fb905c` ΓÇö full recovery (below).
+- `ee1b341` ╬ô├ç├╢ validator check [14]. Pushed cleanly; content verified identical to the intended `dd8cfd7`. No issue.
+- `c6bf48b` ╬ô├ç├╢ intended to be the D-129 data commit. Wrote `assessments.ts` truncated at **750 of 3,526 lines**, ending mid-record inside an unclosed Cambridge O Level Geography object. Invalid TypeScript; `npm run build` and therefore the Cloudflare deploy from `main` would fail from this commit onward.
+- `ebf8775` ╬ô├ç├╢ a first hotfix attempt that, through an operator error in constructing the API call, contained the literal string `PLACEHOLDER` instead of file content. Strictly worse than what it replaced, and corrected within the same minute.
+- `81b812a` ╬ô├ç├╢ a deliberate, disclosed **stopgap**: the complete type/interface header and both helper functions restored verbatim from the last known-good blob (`fdfa9f3`), with `ASSESSMENTS` left as an **empty array**. Chosen to make `main` compile again immediately while the real data was recovered by a safe route. Its commit message stated the emptiness explicitly. Verified with `npx astro check` (0 errors) before being relied on. **No assessment record was invented to fill the gap at any point** ╬ô├ç├╢ the file was honestly empty rather than plausibly wrong, which is the same principle this data file has applied to unsourced records since D-050.
+- `2fb905c` ╬ô├ç├╢ full recovery (below).
 
-**How recovery was done, and why that route.** The content could not be re-transmitted through the same API for the same reason it failed the first time, and no lower-level git data API (blob/tree/commit creation) was exposed by the connector. Rather than shipping a restructured file ΓÇö splitting the array across part-files purely to fit a transmission limit would have let a tooling constraint dictate the repository's data layout, and would have changed the shape the validator and every consumer see ΓÇö recovery used real git: the reviewed handoff bundle already produced for this series (`marlbridge-combined-dp-and-bulk-audit.bundle`, HEAD `00393f0a6fd18592ef49513132dc0d41e54de725`) was verified with `git bundle verify`, fetched into a scratch clone on the owner's own machine, and `main`'s tree was set to the bundle tip's tree with `git read-tree --reset -u` and pushed with ordinary `git push` over the owner's existing credentials. **Zero file content passed through the model's output**, so the truncation failure mode was structurally impossible for this step rather than merely unlikely.
+**How recovery was done, and why that route.** The content could not be re-transmitted through the same API for the same reason it failed the first time, and no lower-level git data API (blob/tree/commit creation) was exposed by the connector. Rather than shipping a restructured file ╬ô├ç├╢ splitting the array across part-files purely to fit a transmission limit would have let a tooling constraint dictate the repository's data layout, and would have changed the shape the validator and every consumer see ╬ô├ç├╢ recovery used real git: the reviewed handoff bundle already produced for this series (`marlbridge-combined-dp-and-bulk-audit.bundle`, HEAD `00393f0a6fd18592ef49513132dc0d41e54de725`) was verified with `git bundle verify`, fetched into a scratch clone on the owner's own machine, and `main`'s tree was set to the bundle tip's tree with `git read-tree --reset -u` and pushed with ordinary `git push` over the owner's existing credentials. **Zero file content passed through the model's output**, so the truncation failure mode was structurally impossible for this step rather than merely unlikely.
 
-**Verification of the recovered state.** `git diff --stat 00393f0 origin/main` is empty ΓÇö the pushed tree is byte-identical to the reviewed six-commit tip, on an independent machine from the one that pushed it. `assessments.ts` is back to 3,526 lines / 349,870 bytes. The nine changed files are exactly the expected set (`assessments.ts`, `syllabuses.ts`, `test-negative-validation-suite.mjs`, `decision-log.md`, and the 5 D-130 resource files); `scripts/validate-assessments.mjs` correctly shows no diff, having already landed intact via `ee1b341`. Full gate re-run on a **fresh `git clone` of the pushed commit** plus `npm ci`: `npm run build` (clean, `[build] Complete!`), `npm run validate:academic` (PASS, all 14 checks, coverage 159/160), `npm run audit:all` (exit 0, all sub-audits `PASS: 0 problem(s)`), `node scripts/test-negative-validation-suite.mjs` (35/35), `npm audit` (0 vulnerabilities), `npx astro check` (0 errors, 0 warnings, pre-existing hints only). The live site was independently re-fetched afterwards and is serving the restored records (`/boards/ib/ib-dp/business/` renders the full SL+HL component table with its mirror-sourcing disclosure).
+**Verification of the recovered state.** `git diff --stat 00393f0 origin/main` is empty ╬ô├ç├╢ the pushed tree is byte-identical to the reviewed six-commit tip, on an independent machine from the one that pushed it. `assessments.ts` is back to 3,526 lines / 349,870 bytes. The nine changed files are exactly the expected set (`assessments.ts`, `syllabuses.ts`, `test-negative-validation-suite.mjs`, `decision-log.md`, and the 5 D-130 resource files); `scripts/validate-assessments.mjs` correctly shows no diff, having already landed intact via `ee1b341`. Full gate re-run on a **fresh `git clone` of the pushed commit** plus `npm ci`: `npm run build` (clean, `[build] Complete!`), `npm run validate:academic` (PASS, all 14 checks, coverage 159/160), `npm run audit:all` (exit 0, all sub-audits `PASS: 0 problem(s)`), `node scripts/test-negative-validation-suite.mjs` (35/35), `npm audit` (0 vulnerabilities), `npx astro check` (0 errors, 0 warnings, pre-existing hints only). The live site was independently re-fetched afterwards and is serving the restored records (`/boards/ib/ib-dp/business/` renders the full SL+HL component table with its mirror-sourcing disclosure).
 
-**Standing rule adopted for future sessions.** The GitHub Contents API is acceptable only for **small** files (roughly under 25 KB) and only with an immediate post-push `git fetch` + `git diff` against the intended content before the push is treated as done. Anything larger ΓÇö and `assessments.ts`, `syllabuses.ts` and `docs/decision-log.md` are all far larger ΓÇö must go through real git (`git push` from an authenticated clone, seeded by bundle or patch if the content originates in a sandbox). A push is not "successful" because the API returned a commit SHA; it is successful when the remote content has been diffed against the intended content and matched.
+**Standing rule adopted for future sessions.** The GitHub Contents API is acceptable only for **small** files (roughly under 25 KB) and only with an immediate post-push `git fetch` + `git diff` against the intended content before the push is treated as done. Anything larger ╬ô├ç├╢ and `assessments.ts`, `syllabuses.ts` and `docs/decision-log.md` are all far larger ╬ô├ç├╢ must go through real git (`git push` from an authenticated clone, seeded by bundle or patch if the content originates in a sandbox). A push is not "successful" because the API returned a commit SHA; it is successful when the remote content has been diffed against the intended content and matched.
 
-**Honest assessment of impact.** `main` did not compile from `c6bf48b` until `81b812a`. This is a static site whose last successful deployment continues to be served while a build fails, and the live site was confirmed healthy after recovery, so there is no evidence visitors saw a degraded site ΓÇö but that is a property of the hosting model absorbing the mistake, not of the process being safe. Between `81b812a` and `2fb905c`, a deploy from `main` would have built successfully but published assessment tables for **zero** combinations rather than 159; that window was minutes, and the live check above confirms the current deployment carries the full data. Two of the three bad commits were avoidable by verifying before trusting the tool's success response, which is now the standing rule above.
+**Honest assessment of impact.** `main` did not compile from `c6bf48b` until `81b812a`. This is a static site whose last successful deployment continues to be served while a build fails, and the live site was confirmed healthy after recovery, so there is no evidence visitors saw a degraded site ╬ô├ç├╢ but that is a property of the hosting model absorbing the mistake, not of the process being safe. Between `81b812a` and `2fb905c`, a deploy from `main` would have built successfully but published assessment tables for **zero** combinations rather than 159; that window was minutes, and the live check above confirms the current deployment carries the full data. Two of the three bad commits were avoidable by verifying before trusting the tool's success response, which is now the standing rule above.
 
-**Not done / out of scope:** the pre-existing gaps recorded in D-129 and D-130 are untouched by this recovery ΓÇö Computer Science (IB DP) remains `NOT_YET_MODELED`, Psychology's outgoing 2019 syllabus remains unmodeled, and the 2 out-of-scope stale-hedge files remain as D-130 left them. The three incident commits (`c6bf48b`, `ebf8775`, `81b812a`) were deliberately **not** rewritten out of history: `main` is a published branch, and an honest record of the failure is worth more than a tidy log.
+**Not done / out of scope:** the pre-existing gaps recorded in D-129 and D-130 are untouched by this recovery ╬ô├ç├╢ Computer Science (IB DP) remains `NOT_YET_MODELED`, Psychology's outgoing 2019 syllabus remains unmodeled, and the 2 out-of-scope stale-hedge files remain as D-130 left them. The three incident commits (`c6bf48b`, `ebf8775`, `81b812a`) were deliberately **not** rewritten out of history: `main` is a published branch, and an honest record of the failure is worth more than a tidy log.
 
 **Owner authority:** the owner instructed this session to push directly, and then to fix the repository once the corruption was reported to them. Both the stopgap and the recovery route were chosen by the session and are disclosed here in full.
-## D-133 ΓÇö `syllabusFor` disambiguated by syllabus code; Cambridge O Level Urdu split into a dedicated 3248 record
+## D-133 ╬ô├ç├╢ `syllabusFor` disambiguated by syllabus code; Cambridge O Level Urdu split into a dedicated 3248 record
 
 **Date:** 2026-09-05
 **Trigger:** External content audit (5 Sep 2026, E20) found that `o-level-cambridge-urdu-second-language-paper-2-grammar-writing-translation.md` and `o-level-urdu-second-language-paper-2-revision-notes.md` (both declaring `syllabusCodes: ["3248"]`, 2024-2026 series) rendered an "Official specification" link resolving to Cambridge O Level **First Language** Urdu's 2027 document (721463), not Second Language Urdu's own 2024-2026 document (634455).
 
-**Root cause.** `syllabuses.ts` modeled Cambridge O Level Urdu as a single combined record (`code: '3247 / 3248'`, `subjectSlug: 'urdu-language'`) because both specifications share one subject slug on this site. `syllabusFor(board, qualification, subject)` matches only on that triple via `Array.find`, so every resource under `urdu-language` ΓÇö regardless of its own declared `syllabusCodes` ΓÇö resolved to the same single `officialUrl`, which happened to be the 3247 document. The combined record's own `notes` field correctly named the 3248 source as plain text, but that text was never wired to the rendered link.
+**Root cause.** `syllabuses.ts` modeled Cambridge O Level Urdu as a single combined record (`code: '3247 / 3248'`, `subjectSlug: 'urdu-language'`) because both specifications share one subject slug on this site. `syllabusFor(board, qualification, subject)` matches only on that triple via `Array.find`, so every resource under `urdu-language` ╬ô├ç├╢ regardless of its own declared `syllabusCodes` ╬ô├ç├╢ resolved to the same single `officialUrl`, which happened to be the 3247 document. The combined record's own `notes` field correctly named the 3248 source as plain text, but that text was never wired to the rendered link.
 
-**Fix.** Added a second `Syllabus` record (`code: '3248'`) with the correct 634455 URL, alongside the existing combined record (left unchanged, since it is still the correct resolution for the 3 genuinely-combined resources whose own `syllabusCodes` is `["3247 / 3248"]`, and for the 3247-only resource, which has no dedicated record and correctly falls back to it). `syllabusFor` gained an optional 4th parameter ΓÇö the resource's own `syllabusCodes` ΓÇö and now prefers an exact match on `Syllabus.code` when a board/qualification/subject combination carries more than one record, falling back to the first record when the parameter is omitted or nothing matches exactly. This is purely additive: every other call site (`subjects/[slug].astro`, the board/qualification/subject hub page, `practice/index.astro`, `practice/[code]/index.astro`, `validate-rendered-academic-labels.mjs`) does not pass the new parameter and is byte-for-byte unaffected. Only `src/pages/resources/[slug].astro` was updated to pass `d.syllabusCodes`.
+**Fix.** Added a second `Syllabus` record (`code: '3248'`) with the correct 634455 URL, alongside the existing combined record (left unchanged, since it is still the correct resolution for the 3 genuinely-combined resources whose own `syllabusCodes` is `["3247 / 3248"]`, and for the 3247-only resource, which has no dedicated record and correctly falls back to it). `syllabusFor` gained an optional 4th parameter ╬ô├ç├╢ the resource's own `syllabusCodes` ╬ô├ç├╢ and now prefers an exact match on `Syllabus.code` when a board/qualification/subject combination carries more than one record, falling back to the first record when the parameter is omitted or nothing matches exactly. This is purely additive: every other call site (`subjects/[slug].astro`, the board/qualification/subject hub page, `practice/index.astro`, `practice/[code]/index.astro`, `validate-rendered-academic-labels.mjs`) does not pass the new parameter and is byte-for-byte unaffected. Only `src/pages/resources/[slug].astro` was updated to pass `d.syllabusCodes`.
 
 **Verification.** Confirmed via `syllabusFor('cambridge', 'o-level', 'urdu-language', ['3248'])` resolving to the new record and `syllabusFor('cambridge', 'o-level', 'urdu-language', ['3247'])` / `(..., undefined)` / `(..., ['3247 / 3248'])` all resolving to the unchanged combined record, matching pre-fix behaviour exactly for every case except the one being fixed. Full site build and validation gate re-run clean (see the accompanying commit).
 
-**Not done / out of scope:** no sitewide audit was run for other board/qualification/subject combinations that might carry a similarly-combined record for two distinct codes ΓÇö this fix addresses the one instance the audit found. If another exists, the same `syllabusFor` code-disambiguation mechanism now generalises to it without further engineering changes; it would need only a new dedicated `Syllabus` record.
+**Not done / out of scope:** no sitewide audit was run for other board/qualification/subject combinations that might carry a similarly-combined record for two distinct codes ╬ô├ç├╢ this fix addresses the one instance the audit found. If another exists, the same `syllabusFor` code-disambiguation mechanism now generalises to it without further engineering changes; it would need only a new dedicated `Syllabus` record.
 
 **Owner authority:** user-selected option "Fix all 44 confirmed errors, by priority order" (2026-09-05), continuing autonomously per that standing instruction.
-## D-134 ΓÇö Owner rescinds the D-092 blanket "Reviewed by teachers" claim: no blanket or non-attributed review claim is made or required
+## D-134 ╬ô├ç├╢ Owner rescinds the D-092 blanket "Reviewed by teachers" claim: no blanket or non-attributed review claim is made or required
 
 **Date:** 2026-09-05
 **Trigger:** An external content audit (5 Sep 2026, finding U03) flagged that `reviewedByTeachers` (default `true` since D-092, 2026-08-31) asserted, across all 1,251 published study resources, a blanket "Reviewed by teachers" trust claim that no per-resource evidence backs -- distinct from, and far broader than, the QIGT named-reviewer system, which as of this session still had 0 of 1,251 resources meeting its stricter bar. This session escalated the finding to the owner rather than resolve it unilaterally, since it turns on a real editorial/business fact (whether Marlbridge actually reviews every resource). Direct owner instruction, this session: "change the policy to no review required."
@@ -6636,7 +6636,7 @@ Sequence on `main`:
 
 **Owner authority:** explicit, direct instruction, 2026-09-05 ("U03 change the policy to no review required"), in response to this session's own escalation of audit finding U03.
 
-## D-135 ΓÇö Owner rescinds the D-008 "Marlbridge has or is pursuing a formal IB license" wording: no IB license is claimed or required
+## D-135 ╬ô├ç├╢ Owner rescinds the D-008 "Marlbridge has or is pursuing a formal IB license" wording: no IB license is claimed or required
 
 **Date:** 2026-09-05
 **Trigger:** An external content audit (5 Sep 2026, finding U02) flagged that internal sourcing-provenance `notes` fields on the IB DP Economics and Physics records (`src/data/academic/{syllabuses,syllabus-topics,assessments,boards}.ts`) -- written under D-008 (2026-08-22) on the strength of the owner's chat confirmation that "Marlbridge has or is pursuing a formal IB license" for those two subjects' full guide PDFs -- render PUBLICLY (via `src/pages/boards/[board]/[qualification]/[subject].astro` and `src/pages/boards/index.astro`, which both display a syllabus/board's `notes` field directly on the live site) as ambiguous, unresolved-sounding licensing language on a business/legal fact a visitor has no way to verify. This session escalated the finding rather than resolve it unilaterally, since only the owner can settle whether Marlbridge actually holds, needs, or claims such a license. Direct owner instruction, this session: "change the internal license policy to no license required."
@@ -6655,7 +6655,7 @@ Sequence on `main`:
 
 **Owner authority:** explicit, direct instruction, 2026-09-05 ("U02 change the internal license policy to no license required"), in response to this session's own escalation of audit finding U02.
 
-## D-136 ΓÇö U04: spot-check and fix official specification links; 4 stale Pearson URLs found and corrected
+## D-136 ╬ô├ç├╢ U04: spot-check and fix official specification links; 4 stale Pearson URLs found and corrected
 
 **Date:** 2026-09-05
 **Trigger:** Owner instruction, this session: "U04 I have added a folder it has the file for the links." No dedicated links-list file was found after an exhaustive search of the folder named (`marlbridge-d081`, an old stale clone of this same repo, confirmed via `git merge-base --is-ancestor` to be a strict ancestor of this repo's current `main` -- it carries no new work and no dedicated links file). Asked the owner directly where the file was; the owner's reply ("check this folder") pointed back at the same stale clone. Read as an instruction to use the repo's own `officialUrl` fields as the source of truth to check, rather than a separate external list, this session independently sampled official syllabus URLs across all 6 exam-board domains represented in `src/data/academic/syllabuses.ts` and checked reachability with live fetches, cross-verifying any suspected breakage against web search before changing anything.
@@ -6670,7 +6670,7 @@ Sequence on `main`:
 
 **Owner authority:** direct instruction, 2026-09-05 ("U04 I have added a folder it has the file for the links"), clarified via a direct follow-up question this session asked the owner in chat.
 
-## D-137 ΓÇö U05: precise `syllabusTopics` mapping added where the official taxonomy actually supports it; the rest correctly left syllabus-wide
+## D-137 ╬ô├ç├╢ U05: precise `syllabusTopics` mapping added where the official taxonomy actually supports it; the rest correctly left syllabus-wide
 
 **Date:** 2026-09-05
 **Trigger:** An external content audit (5 Sep 2026, finding U05) flagged 122 resources with a specific `topic:` display label in frontmatter but no structured `syllabusTopics` entry, meaning their topic claim is not cross-validated at build time against `src/data/academic/syllabus-topics.ts`. Owner instruction, this session: "U05 do what you see fit."
@@ -6687,7 +6687,7 @@ One initially-planned mapping was reverted: `gcse-history-historic-environment-{
 
 **Owner authority:** direct instruction, 2026-09-05 ("U05 do what you see fit").
 
-## D-138 ΓÇö Second external content audit (5 Sep 2026 instance): 134 new findings (E60-E134, I19-I50, Q20/21/25-35, U06) triaged and remediated across 7 batches; 1 factual conflict (E48) resolved; U06 logged as a methodology finding, not a fix target
+## D-138 ╬ô├ç├╢ Second external content audit (5 Sep 2026 instance): 134 new findings (E60-E134, I19-I50, Q20/21/25-35, U06) triaged and remediated across 7 batches; 1 factual conflict (E48) resolved; U06 logged as a methodology finding, not a fix target
 
 **Date:** 2026-09-05
 **Trigger:** A second, independently-run external content audit of the live Marlbridge site was found in progress (owner: "another instance is working on the file and adding more details have a look at it"), building on the same audit lineage as D-130/D-132's baseline but continuing well past it while still being actively written (the document's own line count and section offsets shifted between reads during this session, confirming concurrent authorship by the other instance). This session cross-referenced the new document's "open" findings against this repo's own commit history and confirmed, via strict-ancestor checks, that the audit's checkpoint commit (`6f6bd5e`) predates this repo's own `ac3e7b0` D-130-era fix commit -- so a large share of the audit's "still open" findings (E01, E46-E59, I01-I18) were already fixed and are false re-reports of stale state, not new work. Owner instruction, given via `AskUserQuestion` after this session reported the situation: "Start fixing now, in batches."
@@ -6713,7 +6713,7 @@ One initially-planned mapping was reverted: `gcse-history-historic-environment-{
 
 **Owner authority:** explicit, direct instruction via `AskUserQuestion`, 2026-09-05 ("Start fixing now, in batches"), in response to this session's report on the second audit instance's findings.
 
-## D-139 ΓÇö Second external audit, continued growth: 134 more findings (E135-E208, I51-I85, Q36-Q59, U07) triaged and remediated across 8 batches, covering Cambridge IGCSE/O-Level Chemistry and Physics, Cambridge AS & A-Level Physics, and Pearson Edexcel International GCSE/A-Level Physics
+## D-139 ╬ô├ç├╢ Second external audit, continued growth: 134 more findings (E135-E208, I51-I85, Q36-Q59, U07) triaged and remediated across 8 batches, covering Cambridge IGCSE/O-Level Chemistry and Physics, Cambridge AS & A-Level Physics, and Pearson Edexcel International GCSE/A-Level Physics
 
 **Date:** 2026-09-06
 **Trigger:** The second external audit instance (see D-138) continued running in the background and grew substantially further while this session worked through its prior batch of findings -- from roughly 3,312 lines (last read for D-138) to 5,361 lines, and from 385 to a still-incomplete fraction of the 1,251 total resources read. Re-reading the document's "Coverage limit" and "Current repair priorities" sections surfaced 134 findings with IDs beyond the previous batch's range: E135 through E208 (74 confirmed errors), I51 through I85 (35 inconsistencies), Q36 through Q59 (24 questionable claims), and U07 (1 methodology item). No owner prompt was needed to continue -- the standing instruction from D-138's authorization ("Start fixing now, in batches") governs this continuation.
@@ -6740,7 +6740,7 @@ One initially-planned mapping was reverted: `gcse-history-historic-environment-{
 
 **Owner authority:** continuation of the explicit instruction recorded under D-138 ("Start fixing now, in batches"); no new owner prompt was required or given for this specific batch of newly-surfaced findings, consistent with the autonomous-batch-execution mode the owner authorized.
 
-## D-140 ΓÇö Auditor coordination round: four repo-wide "bulk sweep" defect patterns fixed (E218/E229/E231/E242/E253/E262, I108/I111/I117/I118/I124, Q107 investigated-and-closed) across 26 files, following the second audit instance's own cross-family re-screen
+## D-140 ╬ô├ç├╢ Auditor coordination round: four repo-wide "bulk sweep" defect patterns fixed (E218/E229/E231/E242/E253/E262, I108/I111/I117/I118/I124, Q107 investigated-and-closed) across 26 files, following the second audit instance's own cross-family re-screen
 
 **Date:** 2026-09-06
 **Trigger:** The owner relayed a message from the second external audit instance itself, sent in response to a direct question about coordination protocol. The auditor: (1) disclosed its working copy (`repository-current-files`) is a frozen checkout from 5 September that cannot self-refresh, so its "still open" verdicts and quoted line numbers drift from the live repo as fixes land -- confirming, from the auditor's own side, the staleness this session had already caught independently for E01 under D-139; (2) requested a lighter coordination protocol going forward -- finding ID, commit SHA, and one line on what changed, rather than being sent file edits, since it verifies independently and does not want its own `outputs/`/`work/` touched; (3) restated its "fix the defect everywhere it recurs, not just the named file" finding from its own family re-screen (10 of 78 sibling resources across 7 of 42 "verified-fixed" findings still carried the corrected defect -- the same lesson already absorbed as E208 under D-139); and (4) named four specific, already-diagnosed repo-wide defect patterns with finding IDs attached, inviting a direct sweep rather than a full re-read of the audit's newest range.
@@ -6762,7 +6762,7 @@ One initially-planned mapping was reverted: `gcse-history-historic-environment-{
 
 **Owner authority:** continuation of the explicit instruction recorded under D-138 ("Start fixing now, in batches"); the specific bulk-sweep patterns actioned here were identified by the second audit instance itself and relayed by the owner, who did not request confirmation before this session acted on them.
 
-## D-141 ΓÇö Second external audit, continued growth: 177 more findings (E209-E284, I86-I146, Q60-Q106, U08-U11) triaged and remediated across 8 batches, covering AQA/OxfordAQA/OCR/Cambridge/Edexcel/IB Physics, Chemistry, Biology and Mathematics; two merge/rename regressions caught and fixed before commit
+## D-141 ╬ô├ç├╢ Second external audit, continued growth: 177 more findings (E209-E284, I86-I146, Q60-Q106, U08-U11) triaged and remediated across 8 batches, covering AQA/OxfordAQA/OCR/Cambridge/Edexcel/IB Physics, Chemistry, Biology and Mathematics; two merge/rename regressions caught and fixed before commit
 
 **Date:** 2026-09-06
 **Trigger:** Continuation of the standing "Start fixing now, in batches" instruction (D-138). While responding to the auditor's coordination message (D-140), re-reading the audit document to source that round's four bulk-sweep patterns revealed the document had grown far beyond the previously-processed range: its own master remediation list (line 31) now runs to E284, and I- and Q-series findings were found numbered past I146 and Q106 respectively. A dedicated extraction pass confirmed the full new range: E209 through E284 (76 IDs, 6 already fixed under D-140 and excluded), I86 through I146 (61 IDs, 5 already fixed under D-140 and excluded), Q60 through Q107 (48 IDs, 1 already closed under D-140 and excluded), and U08 through U11 (4 new methodology items) -- 177 findings in total, extracted verbatim into a structured working file mirroring the format used for D-138/D-139.
@@ -6788,20 +6788,20 @@ One initially-planned mapping was reverted: `gcse-history-historic-environment-{
 
 **Owner authority:** continuation of the explicit instruction recorded under D-138 ("Start fixing now, in batches"); no new owner prompt was required or given for this batch of newly-surfaced findings.
 
-## D-142 ΓÇö New revision-notes pair for Cambridge O Level English Language 1123 reviewed and allow-listed against an existing whole-syllabus overview (duplicate-scope check)
+## D-142 ╬ô├ç├╢ New revision-notes pair for Cambridge O Level English Language 1123 reviewed and allow-listed against an existing whole-syllabus overview (duplicate-scope check)
 
 **Date:** 2026-09-06
 **Trigger:** Sub-batch 40 of the ongoing gap-fill run added `o-level-english-language-paper-1-reading-revision-notes.md`, a Paper-1-only revision-notes deep dive, as a companion to the existing `o-level-english-language-paper-1-reading.md` study guide. The pre-commit `npm run check:duplicate-scope` gate flagged this new file against the pre-existing `o-level-english-language-revision-notes.md` (a whole-syllabus overview covering both papers), since both share the same `english | cambridge | o-level | revision-notes` official-syllabus-scope key.
 
 **Review:** Both files were read in full before deciding. `o-level-english-language-revision-notes.md` is a light, whole-syllabus condensed overview spanning both Paper 1 and Paper 2 (a single side-by-side format table, one worked summary example, technique bullets covering both papers, an 8-question self-test mixing both papers). The new file is a Paper-1-only deep dive: exact R1-R5 assessment-objective mapping per sub-question (not stated anywhere in the overview), Paper-1-specific command words, a Paper-1-only timing breakdown, a distinct relevance-checking worked example for the summary task, and an explanation of why the two source texts are printed in a separate insert (also not covered by the overview). This is the same overview-vs-paper-specific-deep-dive distinction already accepted for the sibling study-guide pair (`o-level-cambridge-english-language-reading-and-writing.md` vs `o-level-english-language-paper-1-reading.md`), one content-type level down. No shared sentence-level content was found between the two revision-notes files.
 
-**Decision:** Allow-listed as legitimate, distinct content ΓÇö added to `REVIEWED_LEGITIMATE` in `scripts/check-duplicate-resource-scope.mjs`, immediately following the sibling study-guide pair's entry, with the specific distinguishing evidence recorded inline (not merged; no redirect needed).
+**Decision:** Allow-listed as legitimate, distinct content ╬ô├ç├╢ added to `REVIEWED_LEGITIMATE` in `scripts/check-duplicate-resource-scope.mjs`, immediately following the sibling study-guide pair's entry, with the specific distinguishing evidence recorded inline (not merged; no redirect needed).
 
-**Verification:** `npm run check:duplicate-scope` re-run after the allow-list addition ΓÇö PASS, both this new group and all previously-reviewed groups still correctly recognised.
+**Verification:** `npm run check:duplicate-scope` re-run after the allow-list addition ╬ô├ç├╢ PASS, both this new group and all previously-reviewed groups still correctly recognised.
 
 **Owner authority:** continuation of the standing "check:duplicate-scope must PASS with zero unreviewed groups before every commit" rule established at the start of this task; no new owner prompt was required, since this is a routine content-addition review, not a policy change.
 
-## D-143 ΓÇö New practice-questions pair for Cambridge O Level English Language 1123 reviewed and allow-listed against an existing whole-syllabus overview (duplicate-scope check)
+## D-143 ╬ô├ç├╢ New practice-questions pair for Cambridge O Level English Language 1123 reviewed and allow-listed against an existing whole-syllabus overview (duplicate-scope check)
 
 **Date:** 2026-09-06
 **Trigger:** Sub-batch 41 of the ongoing gap-fill run added `o-level-english-language-paper-1-reading-practice.md`, completing the Paper 1 Reading trio started in sub-batch 40. The pre-commit `npm run check:duplicate-scope` gate flagged it against the pre-existing `o-level-english-language-practice.md` (a whole-syllabus original-question set spanning both papers), since both share the same `english | cambridge | o-level | practice-questions` official-syllabus-scope key -- the same pattern as D-142's revision-notes pair.
@@ -6814,7 +6814,7 @@ One initially-planned mapping was reverted: `gcse-history-historic-environment-{
 
 **Owner authority:** continuation of the standing "check:duplicate-scope must PASS with zero unreviewed groups before every commit" rule established at the start of this task; no new owner prompt was required, since this is a routine content-addition review consistent with D-142's precedent from the immediately preceding sub-batch.
 
-## D-144 ΓÇö Second external audit, full-corpus refresh: a new comprehensive audit document (792 grouped findings, E01-E419/I01-I190/Q01-Q165/U01-U19) triaged; 260 IDs in the not-yet-processed ranges (E01/E09/E46-59/U12-19, E285-419, I147-190, Q108-165) remediated across 8 sub-batches; two registry gaps and a truncation-collision from unrelated upstream content caught by the validation gate and fixed
+## D-144 ╬ô├ç├╢ Second external audit, full-corpus refresh: a new comprehensive audit document (792 grouped findings, E01-E419/I01-I190/Q01-Q165/U01-U19) triaged; 260 IDs in the not-yet-processed ranges (E01/E09/E46-59/U12-19, E285-419, I147-190, Q108-165) remediated across 8 sub-batches; two registry gaps and a truncation-collision from unrelated upstream content caught by the validation gate and fixed
 
 **Date:** 2026-09-06
 **Trigger:** Continuation of the standing "Start fixing now, in batches" instruction (D-138). The owner asked to continue with the next batch; re-reading the auditor's source document (`marlbridge-audit.md`, header-dated 5 September but on-disk timestamp 2026-09-06 15:44, remediation checked against current `main` as of commit `6f6bd5e6f...`) showed it had been regenerated as a full-corpus document rather than an incremental one: 792 grouped findings total (418 confirmed-error groups historically), with IDs running E01-E419, I01-I190, Q01-Q165, U01-U19 -- far beyond the previously-processed E284/I146/Q107/U11 ceiling from D-141. The document's own "Remediation verification" section states 42 of 44 original baseline confirmed-error groups are already fixed (only E01 and E09 still open), so the genuinely new/not-yet-processed material was: E01 and E09 themselves (with E09's fix-status note referencing sibling files also named in E172), a small never-covered gap at E46-E59 (three "post-baseline addition" findings plus eleven more woven into the main sequence, all newer than any prior round touched), U12-U19, and the large new tail E285-E419 (135 findings), I147-I190 (44 findings) and Q108-Q165 (57 findings, with Q128 a confirmed non-existent gap in the source).
@@ -6842,38 +6842,38 @@ One initially-planned mapping was reverted: `gcse-history-historic-environment-{
 
 **Owner authority:** continuation of the explicit instruction recorded under D-138 ("Start fixing now, in batches"); the owner's message in this session was "continue with the next batch," consistent with the autonomous-batch-execution mode already authorized.
 
-## D-145 ΓÇö Self-correction: E335/I108/I124's "remove the Section A/B headings" fix addressed the wrong half of the defect; genuine on-spec multiple-choice content restored across 8 files
+## D-145 ╬ô├ç├╢ Self-correction: E335/I108/I124's "remove the Section A/B headings" fix addressed the wrong half of the defect; genuine on-spec multiple-choice content restored across 8 files
 
 **Date:** 2026-09-06
-**Trigger:** The owner relayed the auditor's direct verification feedback on the published fix ledger. Among three practical notes (the ledger going stale between pushes; the ledger's interactive HTML being costly for the auditor's own tooling to read compared to the plain `.md`; and a caveat needed on the "findings fixed" headline number ΓÇö all addressed below), the auditor flagged a substantive correction: their own E335 finding, and this session's D-140 fix for I108/I124 before it, had both concluded that OCR's "Section A"/"Section B" headings on affected practice-question resources implied a paper structure OCR does not use, and resolved this by deleting the headings. The auditor now states this was wrong on both occasions: Section A and Section B are real structural units of the actual specification, verbatim and independently confirmable, so removing the headings hid the mislabelling without fixing the substantive problem ΓÇö these resources still gave students zero practice of the multiple-choice format that opens every real paper for these qualifications.
+**Trigger:** The owner relayed the auditor's direct verification feedback on the published fix ledger. Among three practical notes (the ledger going stale between pushes; the ledger's interactive HTML being costly for the auditor's own tooling to read compared to the plain `.md`; and a caveat needed on the "findings fixed" headline number ╬ô├ç├╢ all addressed below), the auditor flagged a substantive correction: their own E335 finding, and this session's D-140 fix for I108/I124 before it, had both concluded that OCR's "Section A"/"Section B" headings on affected practice-question resources implied a paper structure OCR does not use, and resolved this by deleting the headings. The auditor now states this was wrong on both occasions: Section A and Section B are real structural units of the actual specification, verbatim and independently confirmable, so removing the headings hid the mislabelling without fixing the substantive problem ╬ô├ç├╢ these resources still gave students zero practice of the multiple-choice format that opens every real paper for these qualifications.
 
-**Independent re-verification before touching any file.** Rather than act on the correction alone, this was checked directly against primary sources via live web search: OCR GCSE (9-1) Biology A / Chemistry A / Physics A (Gateway Science, J247/J248/J249) each split every paper into Section A (15 multiple-choice questions, 15 marks, four options A-D) and Section B (short-answer and extended six-mark questions, 75 marks); OCR A Level Biology A (H420) Papers 1 and 2, and OCR A Level Chemistry A (H432) Papers 1 and 2, use the identical Section A/B split. All four confirmed independently, matching both the auditor's claim and the primary-source citations already present in E335's own extracted text (which this session had read, but under-weighted relative to the "or delete the headings" alternative E335's own wording had offered alongside the "add real MCQs" option ΓÇö the auditor's later message effectively retracts that alternative as insufficient).
+**Independent re-verification before touching any file.** Rather than act on the correction alone, this was checked directly against primary sources via live web search: OCR GCSE (9-1) Biology A / Chemistry A / Physics A (Gateway Science, J247/J248/J249) each split every paper into Section A (15 multiple-choice questions, 15 marks, four options A-D) and Section B (short-answer and extended six-mark questions, 75 marks); OCR A Level Biology A (H420) Papers 1 and 2, and OCR A Level Chemistry A (H432) Papers 1 and 2, use the identical Section A/B split. All four confirmed independently, matching both the auditor's claim and the primary-source citations already present in E335's own extracted text (which this session had read, but under-weighted relative to the "or delete the headings" alternative E335's own wording had offered alongside the "add real MCQs" option ╬ô├ç├╢ the auditor's later message effectively retracts that alternative as insufficient).
 
-**Scope judgment.** All 8 affected files (5 named directly by E335, 3 from D-140's I108/I124) are single-topic practice resources, not full mock papers ΓÇö a real paper's 15-mark Section A draws on content across that paper's entire syllabus scope, not one topic. Reproducing an exact "15 marks" quota on a one-topic resource would itself misrepresent scope. The fix therefore adds a small, explicitly and honestly scoped multiple-choice sample (5 original one-mark questions, four options A-D, genuinely on-specification for that file's specific topic) rather than claiming to reproduce a full paper's Section A, with a sentence in each file saying so directly.
+**Scope judgment.** All 8 affected files (5 named directly by E335, 3 from D-140's I108/I124) are single-topic practice resources, not full mock papers ╬ô├ç├╢ a real paper's 15-mark Section A draws on content across that paper's entire syllabus scope, not one topic. Reproducing an exact "15 marks" quota on a one-topic resource would itself misrepresent scope. The fix therefore adds a small, explicitly and honestly scoped multiple-choice sample (5 original one-mark questions, four options A-D, genuinely on-specification for that file's specific topic) rather than claiming to reproduce a full paper's Section A, with a sentence in each file saying so directly.
 
 **Remediation (one commit, `3448871`, 8 files, dispatched as 3 parallel subagents by subject since the files share no overlap with each other):**
 - `ocr-gcse-biology-scaling-up-practice.md`, `ocr-gcse-biology-cell-level-practice.md` (OCR GCSE Biology J247), `ocr-a-level-biology-practical-skills-practice.md`, `ocr-a-level-biology-foundations-practice.md` (OCR A Level Biology H420).
 - `ocr-gcse-chemistry-purity-separating-practice.md`, `gcse-chemistry-atomic-structure-practice.md` (OCR GCSE Chemistry J248), `ocr-a-level-chemistry-amount-of-substance-practice.md` (OCR A Level Chemistry H432).
 - `ocr-gcse-physics-forces-practice.md` (OCR GCSE Physics J249).
 
-Each file gained a new "Section A ΓÇö Multiple choice (topic sample)" section (5 original questions, matching the MCQ markdown format already established on this site by `a-economics-markets-in-action-practice.md`), with its existing question set retitled "Section B ΓÇö Short answer and extended questions" and renumbered to follow; answers renumbered to match. Every file's question/answer numbering was verified programmatically to run 1..N with no gaps or duplicates before this decision's commit, since the site's practice-question schema validator requires this.
+Each file gained a new "Section A ╬ô├ç├╢ Multiple choice (topic sample)" section (5 original questions, matching the MCQ markdown format already established on this site by `a-economics-markets-in-action-practice.md`), with its existing question set retitled "Section B ╬ô├ç├╢ Short answer and extended questions" and renumbered to follow; answers renumbered to match. Every file's question/answer numbering was verified programmatically to run 1..N with no gaps or duplicates before this decision's commit, since the site's practice-question schema validator requires this.
 
 **Verification gate, run in full after merging one further unrelated upstream commit** (`c2338b1`, a word-count expansion pass, zero path overlap with these 8 files confirmed before merging): `npx astro check` (0 errors, 212 files), `npm run validate:academic` (all checks, PASSED), `npm run build` (pages built clean), `node scripts/test-cross-board-regression.mjs` (clean), `node scripts/test-negative-validation-suite.mjs` (35/35), `node --experimental-strip-types --test functions/api/__tests__/*.test.mjs` (31/31), `npm audit --fetch-timeout=20000 --fetch-retries=2` (0 vulnerabilities), `npm run coverage:academic-v2` (regenerated), `node scripts/check-duplicate-resource-scope.mjs` (PASS, same allow-listed groups as before), `npm run audit:all` (all 11 sub-audits PASS, 0 problems).
 
-**On the auditor's other two notes, addressed outside the repo:** (1) the published ledger will be regenerated after this push too, and going forward the plain `.md` ledger is being sent alongside the hosted page every time, since the auditor's own tooling reads the sandboxed HTML only as screenshots (text extraction and the accessibility tree both come back empty) while the flat file is what it actually verifies against; (2) the ledger's headline "findings fixed" count is being given an explicit caveat distinguishing "findings acted on in this project's own commits" from "independently verified closed by the auditor's own re-read" ΓÇö the same distinction the auditor's own document already draws between its historical confirmed-error count and its currently-open count, so the two documents don't read as contradicting each other when placed side by side.
+**On the auditor's other two notes, addressed outside the repo:** (1) the published ledger will be regenerated after this push too, and going forward the plain `.md` ledger is being sent alongside the hosted page every time, since the auditor's own tooling reads the sandboxed HTML only as screenshots (text extraction and the accessibility tree both come back empty) while the flat file is what it actually verifies against; (2) the ledger's headline "findings fixed" count is being given an explicit caveat distinguishing "findings acted on in this project's own commits" from "independently verified closed by the auditor's own re-read" ╬ô├ç├╢ the same distinction the auditor's own document already draws between its historical confirmed-error count and its currently-open count, so the two documents don't read as contradicting each other when placed side by side.
 
-**Owner authority:** continuation of the explicit instruction recorded under D-138 ("Start fixing now, in batches"); the correction was raised by the auditor and relayed by the owner, who did not request confirmation before this session acted on it ΓÇö consistent with D-140's precedent of acting directly on auditor-identified corrections.
+**Owner authority:** continuation of the explicit instruction recorded under D-138 ("Start fixing now, in batches"); the correction was raised by the auditor and relayed by the owner, who did not request confirmation before this session acted on it ╬ô├ç├╢ consistent with D-140's precedent of acting directly on auditor-identified corrections.
 
-## D-146 ΓÇö Second external audit, continued growth: 70 more findings (E420-E456, I191-I204, Q166-Q184) triaged and remediated across 2 batches, covering AQA/Cambridge/Edexcel/OxfordAQA English Language GCSE/IGCSE/A-Level/O-Level; large-overlap merge individually re-verified finding-by-finding
+## D-146 ╬ô├ç├╢ Second external audit, continued growth: 70 more findings (E420-E456, I191-I204, Q166-Q184) triaged and remediated across 2 batches, covering AQA/Cambridge/Edexcel/OxfordAQA English Language GCSE/IGCSE/A-Level/O-Level; large-overlap merge individually re-verified finding-by-finding
 
 **Date:** 2026-09-07
-**Trigger:** Continuation of the standing "Start fixing now, in batches" instruction (D-138). The owner said "continue"; re-reading the auditor's source document showed it had grown again since D-144/D-145's last read: the header verdict moved from 376 to 413 confirmed-error groups currently open (747 of 1,251 resource bodies now fully read, up from 698), with finding IDs extending to E456/I204/Q184/U19 (no new U findings this round). A dedicated extraction pass confirmed the new range: E420 through E456 (37 IDs), I191 through I204 (14 IDs) and Q166 through Q184 (19 IDs) ΓÇö 70 findings in total, all in English Language content across AQA (8700), Cambridge (9093/1123), Pearson Edexcel (4EA1) and OxfordAQA (9270/9670), extracted verbatim into a structured working file mirroring prior rounds' format.
+**Trigger:** Continuation of the standing "Start fixing now, in batches" instruction (D-138). The owner said "continue"; re-reading the auditor's source document showed it had grown again since D-144/D-145's last read: the header verdict moved from 376 to 413 confirmed-error groups currently open (747 of 1,251 resource bodies now fully read, up from 698), with finding IDs extending to E456/I204/Q184/U19 (no new U findings this round). A dedicated extraction pass confirmed the new range: E420 through E456 (37 IDs), I191 through I204 (14 IDs) and Q166 through Q184 (19 IDs) ╬ô├ç├╢ 70 findings in total, all in English Language content across AQA (8700), Cambridge (9093/1123), Pearson Edexcel (4EA1) and OxfordAQA (9270/9670), extracted verbatim into a structured working file mirroring prior rounds' format.
 
 **Remediation, in 2 batches (M1: the 37 E-findings; M2: the 33 I/Q-findings, both subagent-executed via bash/Python heredoc edits):**
-- M1 (E420-E456): corrected mislabelled question sequences and mark allocations across GCSE Paper 2 files (AQA); merged a fabricated extra section into the real one and replaced misplaced content (gender/power topic sitting where Children's Language Development belongs) in AQA A-Level Paper 1 files; corrected Cambridge A-Level Paper 1 Reading's task type (own-response-vs-source comparison, not two-text/reflective-commentary); added two entirely missing content strands (innateness/learning, language-and-thought) to AQA Paper 4 Language Topics; corrected sociolect's definition from regional to social-group-based; fixed Cambridge O-Level composition options, section counts and a word-count error across a 5-file family; added missing anthology/assessment-objective/writing-type detail and updated a stale specification issue number (6ΓåÆ7, August 2025) across the Edexcel IGCSE Component 1 family; updated 6 OxfordAQA 9270 files from a superseded specification version (4.2) to the current one (5.1); corrected OxfordAQA Paper 1/2 task-type and weighting errors (a two-text-comparison claim on a single-text paper; a 30/10 accuracy-weighting split misstated as equal); and fully rewrote `a-english-language-unit1-practice.md` (OxfordAQA Unit 1) into two genuine on-specification sections with two original linked texts, correcting a register/tenor confusion along the way.
+- M1 (E420-E456): corrected mislabelled question sequences and mark allocations across GCSE Paper 2 files (AQA); merged a fabricated extra section into the real one and replaced misplaced content (gender/power topic sitting where Children's Language Development belongs) in AQA A-Level Paper 1 files; corrected Cambridge A-Level Paper 1 Reading's task type (own-response-vs-source comparison, not two-text/reflective-commentary); added two entirely missing content strands (innateness/learning, language-and-thought) to AQA Paper 4 Language Topics; corrected sociolect's definition from regional to social-group-based; fixed Cambridge O-Level composition options, section counts and a word-count error across a 5-file family; added missing anthology/assessment-objective/writing-type detail and updated a stale specification issue number (6╬ô├Ñ├å7, August 2025) across the Edexcel IGCSE Component 1 family; updated 6 OxfordAQA 9270 files from a superseded specification version (4.2) to the current one (5.1); corrected OxfordAQA Paper 1/2 task-type and weighting errors (a two-text-comparison claim on a single-text paper; a 30/10 accuracy-weighting split misstated as equal); and fully rewrote `a-english-language-unit1-practice.md` (OxfordAQA Unit 1) into two genuine on-specification sections with two original linked texts, correcting a register/tenor confusion along the way.
 - M2 (I191-I204, Q166-Q184): normalised missing `syllabusSeries` fields, corrected "specification"/"syllabus" terminology mismatches, redistributed a mark allocation, fixed a stale specification-issue citation, restored a dropped assessment-objective phrase, added missing duration/marks/weighting figures to 3 Edexcel and 2 OxfordAQA files, corrected mark-scheme totals, relocated a misplaced section heading, and retitled/re-linked an OxfordAQA Unit 1 practice/notes pair to name its correct board/code/unit. On the lower-confidence Q-range: hedged or removed 8 overclaims about exact mark-scheme mechanics, an unsupported word-count limit, and an absolute register claim; added named linguistic theories/models (Aitchison's metaphors, Halliday's seven functions, Kachru's Three Circles, sociolect continuum, and others) that resources claimed to cover but didn't state; extended an age-range claim; substantially lengthened three under-length stimulus extracts to meet their own specification's stated range; and confirmed one finding (Q184) already resolved as a side effect of M1's unrelated rewrite of the same file.
 
-**Large file-overlap merge, individually re-verified rather than trusted from a clean exit.** Between this decision's fix commit (`b5d5ffc`) and its push, 3 unrelated upstream commits landed (`5e752ff`, `ac8ade5`, `027b30f` ΓÇö an "exam-preparation" content wave). An initial `comm -12` overlap check against `git diff --name-only HEAD origin/main` appeared to show 41 of this decision's 43 changed files overlapping with upstream's changed-file list ΓÇö a false alarm caused by comparing the diff after this decision's own commit had already landed on `HEAD` (so the comparison was partly against itself), not a real conflict. Given the scale that check implied, the merge was still treated with the same caution the D-141 lesson established: after merging (`4e9fbc8`, auto-merge clean on every content file, conflicts only in the two generated coverage-report files, resolved by keeping this branch's version and regenerating), two dedicated subagents independently re-read the CURRENT merged-tree content for all 70 findings against their fix descriptions, rather than trusting the clean merge. Both confirmed, and further confirmed via direct commit-tree comparison, that the three upstream commits never touched any English Language file at all -- they only added new, unrelated `*-exam-preparation.md` resources across other subjects (Biology, Chemistry, Physics, Maths, Economics, History, Psychology, Sociology, English Literature, Business) plus the generated redirects/coverage files. 70/70 findings verified intact, 0 regressions found, nothing needed re-applying.
+**Large file-overlap merge, individually re-verified rather than trusted from a clean exit.** Between this decision's fix commit (`b5d5ffc`) and its push, 3 unrelated upstream commits landed (`5e752ff`, `ac8ade5`, `027b30f` ╬ô├ç├╢ an "exam-preparation" content wave). An initial `comm -12` overlap check against `git diff --name-only HEAD origin/main` appeared to show 41 of this decision's 43 changed files overlapping with upstream's changed-file list ╬ô├ç├╢ a false alarm caused by comparing the diff after this decision's own commit had already landed on `HEAD` (so the comparison was partly against itself), not a real conflict. Given the scale that check implied, the merge was still treated with the same caution the D-141 lesson established: after merging (`4e9fbc8`, auto-merge clean on every content file, conflicts only in the two generated coverage-report files, resolved by keeping this branch's version and regenerating), two dedicated subagents independently re-read the CURRENT merged-tree content for all 70 findings against their fix descriptions, rather than trusting the clean merge. Both confirmed, and further confirmed via direct commit-tree comparison, that the three upstream commits never touched any English Language file at all -- they only added new, unrelated `*-exam-preparation.md` resources across other subjects (Biology, Chemistry, Physics, Maths, Economics, History, Psychology, Sociology, English Literature, Business) plus the generated redirects/coverage files. 70/70 findings verified intact, 0 regressions found, nothing needed re-applying.
 
 **Verification gate, run in full from a clean rebuild after the merge:** `npx astro check` (0 errors, 212 files), `npm run validate:academic` (all checks, PASSED), `npm run build` (built clean), `node scripts/test-cross-board-regression.mjs` (clean), `node scripts/test-negative-validation-suite.mjs` (35/35), `node --experimental-strip-types --test functions/api/__tests__/*.test.mjs` (31/31), `npm audit --fetch-timeout=20000 --fetch-retries=2` (0 vulnerabilities), `npm run coverage:academic-v2` (regenerated), `node scripts/check-duplicate-resource-scope.mjs` (PASS, same allow-listed groups as before), `npm run audit:all` (all 11 sub-audits PASS, 0 problems; one informational WARN, not a failure -- see below). Final pushed range: `027b30f..b10ea74 main -> main`.
 
@@ -6883,26 +6883,26 @@ Each file gained a new "Section A ΓÇö Multiple choice (topic sample)" section
 
 **Owner authority:** continuation of the explicit instruction recorded under D-138 ("Start fixing now, in batches"); the owner's message in this session was simply "continue," consistent with the autonomous-batch-execution mode already authorized.
 
-## D-147 ΓÇö `_redirects` breached Cloudflare's 2,000-static-rule ceiling (2,019 rules); narrowed the safe static block, rejected a wildcard rewrite of the flattened block, and handed off a Bulk Redirects CSV for the part that needs it
+## D-147 ╬ô├ç├╢ `_redirects` breached Cloudflare's 2,000-static-rule ceiling (2,019 rules); narrowed the safe static block, rejected a wildcard rewrite of the flattened block, and handed off a Bulk Redirects CSV for the part that needs it
 
 **Date:** 2026-09-07
 **Trigger:** Following up on the owner's explicit "okay do it," given in response to this session's own D-146 operational flag ("`_redirects` at 1,969/2,000 (98.5%)... worth scheduling a migration to Bulk Redirects before it's hit"). Re-running `npm run audit:redirects` after merging 5 further upstream content-pipeline commits (new "exam-preparation" resources, `4a16117`..`f3efdaa`) found the ceiling had already been crossed: `_redirects` had 2,019 static rules, and the audit reported new redirects were being silently dropped, not merely approaching the limit.
 
-**What was rejected, and why.** The obvious-looking fix is collapsing the dominant "Flattened resource URLs" block (1,583 of the 2,019 rules; `/resources/<type>/<slug>/ -> /resources/<slug>/` for a small fixed set of `<type>` values) into a handful of `:splat` or placeholder wildcard rules, one per resource type, since the destination never actually depends on the type segment. This was deliberately not done. `scripts/generate-redirects.mjs`'s own header comment is a direct, first-hand account that this exact two-segment `/resources/:type/:slug/` shape was already tried with Cloudflare's placeholder matching and failed in production ΓÇö requests fell through to the single-segment rule and landed on the index page ΓÇö which is why the file uses enumerated static rules at all. Reintroducing that pattern to buy headroom would risk reproducing a known, previously-shipped production bug, and this environment has no write-scoped Cloudflare API access (confirmed via `zone_details` ΓÇö permissions are `#dns_records:read, #analytics:read, #zone:read, #member:read, #organization:read` only) to deploy and verify a different outcome before it ships to production traffic.
+**What was rejected, and why.** The obvious-looking fix is collapsing the dominant "Flattened resource URLs" block (1,583 of the 2,019 rules; `/resources/<type>/<slug>/ -> /resources/<slug>/` for a small fixed set of `<type>` values) into a handful of `:splat` or placeholder wildcard rules, one per resource type, since the destination never actually depends on the type segment. This was deliberately not done. `scripts/generate-redirects.mjs`'s own header comment is a direct, first-hand account that this exact two-segment `/resources/:type/:slug/` shape was already tried with Cloudflare's placeholder matching and failed in production ╬ô├ç├╢ requests fell through to the single-segment rule and landed on the index page ╬ô├ç├╢ which is why the file uses enumerated static rules at all. Reintroducing that pattern to buy headroom would risk reproducing a known, previously-shipped production bug, and this environment has no write-scoped Cloudflare API access (confirmed via `zone_details` ╬ô├ç├╢ permissions are `#dns_records:read, #analytics:read, #zone:read, #member:read, #organization:read` only) to deploy and verify a different outcome before it ships to production traffic.
 
 **What was done instead, in two parts:**
 
-1. **Immediate, safe stopgap (shipped in this commit).** The "Consolidated resources" block was over-enumerating: for each of the 32 `CONSOLIDATED_RESOURCES` entries (old slug -> surviving resource, for genuinely deleted files), it emitted the bare old-slug rule plus a rule for all seven `RESOURCE_TYPES`, even though a resource can only ever have carried one `resourceType` before deletion. The actual former type of every one of the 32 old slugs was recovered from git history (`git show <delete-commit>^:src/content/resources/<slug>.md`, reading the `resourceType` frontmatter) ΓÇö all 32 resolved cleanly, none required a fallback. `scripts/generate-redirects.mjs` now emits a new `CONSOLIDATED_RESOURCE_FORMER_TYPES` lookup and uses it to emit only the bare rule plus that one real former-type rule per old slug (falling back to all seven only if a future entry's former type can't be recovered from history). This cut the block from 256 to 64 lines ΓÇö 192 rules removed ΓÇö with zero behaviour change (the six dropped rules per entry were for type-prefixed URLs that no version of that resource was ever actually served or linked under). Re-running `npm run generate:redirects` and `npm run audit:redirects` confirmed the ceiling breach is resolved: 1,827 of 2,000 static rules (91%), back to a WARN rather than a hard breach, with the count independently corroborated by the raw rule-count grep against the generated file.
+1. **Immediate, safe stopgap (shipped in this commit).** The "Consolidated resources" block was over-enumerating: for each of the 32 `CONSOLIDATED_RESOURCES` entries (old slug -> surviving resource, for genuinely deleted files), it emitted the bare old-slug rule plus a rule for all seven `RESOURCE_TYPES`, even though a resource can only ever have carried one `resourceType` before deletion. The actual former type of every one of the 32 old slugs was recovered from git history (`git show <delete-commit>^:src/content/resources/<slug>.md`, reading the `resourceType` frontmatter) ╬ô├ç├╢ all 32 resolved cleanly, none required a fallback. `scripts/generate-redirects.mjs` now emits a new `CONSOLIDATED_RESOURCE_FORMER_TYPES` lookup and uses it to emit only the bare rule plus that one real former-type rule per old slug (falling back to all seven only if a future entry's former type can't be recovered from history). This cut the block from 256 to 64 lines ╬ô├ç├╢ 192 rules removed ╬ô├ç├╢ with zero behaviour change (the six dropped rules per entry were for type-prefixed URLs that no version of that resource was ever actually served or linked under). Re-running `npm run generate:redirects` and `npm run audit:redirects` confirmed the ceiling breach is resolved: 1,827 of 2,000 static rules (91%), back to a WARN rather than a hard breach, with the count independently corroborated by the raw rule-count grep against the generated file.
 
-2. **Long-term fix, handed off (not executed by this session).** The 1,583-rule "Flattened resource URLs" block is the real, unbounded growth driver ΓÇö every new resource the content pipeline adds costs one more rule here, and today's stopgap only buys time. Cloudflare's own documented answer for exceeding the `_redirects` ceiling is Bulk Redirects: an account-level product, evaluated in front of Pages, that uses the same enumerated (not wildcard) static source/target matching as the current file ΓÇö so it does not carry the placeholder-matching risk documented above ΓÇö and is not subject to the 2,000-rule ceiling (Free plan: 10,000 URL redirects across up to 5 lists, confirmed via Cloudflare's docs). This session's Cloudflare API access is read-only, so the Bulk Redirect List and Rule could not be created here. Instead: the current flattened-block content was exported as `marlbridge-bulk-redirects-flattened-resources.csv` (1,583 rows, Cloudflare's documented `<source_url>,<target_url>,<status_code>` CSV format, no header row, verified against the live regenerated `_redirects` file), delivered to the owner alongside a step-by-step dashboard setup guide (`marlbridge-bulk-redirects-setup.md`) covering prerequisites (DNS must be proxied through Cloudflare), the list-creation/import/rule steps, and verification. `scripts/generate-redirects.mjs`'s header comment was updated in place to record this account and to warn against removing the flattened-block emission loop until the owner has confirmed Bulk Redirects is actually live ΓÇö removing it first would 404 all 1,583 of those legacy URLs immediately.
+2. **Long-term fix, handed off (not executed by this session).** The 1,583-rule "Flattened resource URLs" block is the real, unbounded growth driver ╬ô├ç├╢ every new resource the content pipeline adds costs one more rule here, and today's stopgap only buys time. Cloudflare's own documented answer for exceeding the `_redirects` ceiling is Bulk Redirects: an account-level product, evaluated in front of Pages, that uses the same enumerated (not wildcard) static source/target matching as the current file ╬ô├ç├╢ so it does not carry the placeholder-matching risk documented above ╬ô├ç├╢ and is not subject to the 2,000-rule ceiling (Free plan: 10,000 URL redirects across up to 5 lists, confirmed via Cloudflare's docs). This session's Cloudflare API access is read-only, so the Bulk Redirect List and Rule could not be created here. Instead: the current flattened-block content was exported as `marlbridge-bulk-redirects-flattened-resources.csv` (1,583 rows, Cloudflare's documented `<source_url>,<target_url>,<status_code>` CSV format, no header row, verified against the live regenerated `_redirects` file), delivered to the owner alongside a step-by-step dashboard setup guide (`marlbridge-bulk-redirects-setup.md`) covering prerequisites (DNS must be proxied through Cloudflare), the list-creation/import/rule steps, and verification. `scripts/generate-redirects.mjs`'s header comment was updated in place to record this account and to warn against removing the flattened-block emission loop until the owner has confirmed Bulk Redirects is actually live ╬ô├ç├╢ removing it first would 404 all 1,583 of those legacy URLs immediately.
 
 **Verification gate, run in full:** `node --check scripts/generate-redirects.mjs` (syntax), `npm run generate:redirects` (regenerated, byte count and rule totals sanity-checked), `npx astro check`, `npm run validate:academic` (all checks, PASSED), `npm run build`, `node scripts/test-cross-board-regression.mjs`, `node scripts/test-negative-validation-suite.mjs` (35/35), `node --experimental-strip-types --test functions/api/__tests__/*.test.mjs` (31/31), `npm audit --fetch-timeout=20000 --fetch-retries=2` (0 vulnerabilities), `npm run coverage:academic-v2`, `node scripts/check-duplicate-resource-scope.mjs`, `npm run audit:all` (all 11 sub-audits, redirects sub-audit back to WARN not failure).
 
-**Not done / explicitly deferred:** the flattened-block emission loop itself was left untouched in the generator ΓÇö removing it is contingent on the owner confirming the Bulk Redirects List/Rule is live in the Cloudflare dashboard, which is outside this session's write access. No CSV rows were applied to Cloudflare; the CSV and guide are a handoff, not a completed migration.
+**Not done / explicitly deferred:** the flattened-block emission loop itself was left untouched in the generator ╬ô├ç├╢ removing it is contingent on the owner confirming the Bulk Redirects List/Rule is live in the Cloudflare dashboard, which is outside this session's write access. No CSV rows were applied to Cloudflare; the CSV and guide are a handoff, not a completed migration.
 
 **Owner authority:** direct continuation of the owner's "okay do it," given in response to this session's own D-146 flag.
 
-## D-148 ΓÇö Cloudflare Bulk Redirects migration completed and verified live; flattened-block emission loop removed from the `_redirects` generator (245 static rules, down from 1,969 two commits ago)
+## D-148 ╬ô├ç├╢ Cloudflare Bulk Redirects migration completed and verified live; flattened-block emission loop removed from the `_redirects` generator (245 static rules, down from 1,969 two commits ago)
 
 **Date:** 2026-09-07
 **Trigger:** Direct continuation of D-147, which exported the 1,583-rule "Flattened resource URLs" block as a Cloudflare Bulk Redirects CSV and a dashboard setup guide, since this session's Cloudflare API access is read-only. The owner said "use the browser," authorizing browser automation (Claude in Chrome, against the owner's own already-authenticated Cloudflare dashboard session) to complete the parts of the migration that don't need write-scoped API access.
@@ -6923,21 +6923,21 @@ Each file gained a new "Section A ΓÇö Multiple choice (topic sample)" section
 **Not done / explicitly out of scope:** no change was made to the `CONSOLIDATED_RESOURCES` static-file mechanism (still appropriate for its narrower, different purpose). No further Cloudflare account configuration was touched beyond the one List and one Rule described above.
 
 **Owner authority:** "use the browser" (authorizing the browser-automation approach to what D-147 had flagged as blocked on API access), followed by explicit, specifically-requested confirmation ("Yes, enable it now") before the one action in this round that changes live production routing.
-## D-149 ΓÇö Conversion & trust round: homepage repositioned on the tuition offer, one-to-one pricing surfaced, teacher profiles made decision-useful, trial journey given real published facts
+## D-149 ╬ô├ç├╢ Conversion & trust round: homepage repositioned on the tuition offer, one-to-one pricing surfaced, teacher profiles made decision-useful, trial journey given real published facts
 
 **Date:** 2026-09-06
 
-**Trigger:** An owner-commissioned review of marlbridge.com as a commercial site ΓÇö "do more suitable students and parents choose Marlbridge, request a free trial, attend it, and enrol" ΓÇö supplying a list of suspected defects to verify rather than to accept. Every item below was checked against the codebase at `f15e868` before anything was changed; the list is recorded here with what was found, including the items that turned out to be already handled.
+**Trigger:** An owner-commissioned review of marlbridge.com as a commercial site ╬ô├ç├╢ "do more suitable students and parents choose Marlbridge, request a free trial, attend it, and enrol" ╬ô├ç├╢ supplying a list of suspected defects to verify rather than to accept. Every item below was checked against the codebase at `f15e868` before anything was changed; the list is recorded here with what was found, including the items that turned out to be already handled.
 
 **What was verified as still true (and fixed):**
-- The homepage led with a mission statement ("Bridging Knowledge and Opportunity ΓÇö everywhere a learner studies") and two browsing actions. The free trial ΓÇö the site's actual primary conversion ΓÇö appeared nowhere on the page. No teachers, no lesson format, no fees basis, no trial explanation.
-- `/tutoring/` summarised fees as "charged per subject, per month" with the group-only multi-subject and sibling discounts. That is the GROUP basis only, on a page whose first listed mode is one-to-one tutoring ΓÇö which is charged per class and carries no discounts. The one-to-one rates have existed in `src/data/pricing.ts` (`ONE_TO_ONE_PRICING`, D-012) since August and were never stated there.
+- The homepage led with a mission statement ("Bridging Knowledge and Opportunity ╬ô├ç├╢ everywhere a learner studies") and two browsing actions. The free trial ╬ô├ç├╢ the site's actual primary conversion ╬ô├ç├╢ appeared nowhere on the page. No teachers, no lesson format, no fees basis, no trial explanation.
+- `/tutoring/` summarised fees as "charged per subject, per month" with the group-only multi-subject and sibling discounts. That is the GROUP basis only, on a page whose first listed mode is one-to-one tutoring ╬ô├ç├╢ which is charged per class and carries no discounts. The one-to-one rates have existed in `src/data/pricing.ts` (`ONE_TO_ONE_PRICING`, D-012) since August and were never stated there.
 - `src/content/programs/igcse.md` (and `o-levels`, `a-levels`) had two-sentence bodies with no lesson detail at all.
-- `authors/[slug].astro` rendered a bio, a credentials line, then two long publication archives. The authors collection schema has held `subjectsTaught`, `yearsExperience`, `previousSchools`, `sourceUrl` and `verifiedOn` since v1.x WS4 ΓÇö **the template rendered none of them.**
+- `authors/[slug].astro` rendered a bio, a credentials line, then two long publication archives. The authors collection schema has held `subjectsTaught`, `yearsExperience`, `previousSchools`, `sourceUrl` and `verifiedOn` since v1.x WS4 ╬ô├ç├╢ **the template rendered none of them.**
 - `/trial/` published no response window, no trial duration, no trial format, and no statement of what happens after submitting.
 - The resource-page tuition invitation was one generic line pointing at `/tutoring/`.
 - `WhatsAppButton.astro` sent the same fixed message from every page on the site.
-- `npm run audit:all` was **already failing on `main` before this round** ΓÇö 6 duplicate meta descriptions across 12 IB MYP resource pages, which blocked the other 10 audits in the chain from running at all.
+- `npm run audit:all` was **already failing on `main` before this round** ╬ô├ç├╢ 6 duplicate meta descriptions across 12 IB MYP resource pages, which blocked the other 10 audits in the chain from running at all.
 
 **What was verified as ALREADY handled, and deliberately left alone:**
 - A gold "Free Trial Class" CTA already exists in the header and mobile menu (v1.x CLOSURE follow-up).
@@ -6945,126 +6945,126 @@ Each file gained a new "Section A ΓÇö Multiple choice (topic sample)" section
 - The review brief asked for structured qualification/board/subject/availability fields on the trial form. **This was explicitly declined**: D-047 removed exactly those fields on the owner's instruction that "student enquiry forms must contain only: Name, Email, Phone, Country, Message." The owner was asked directly about the conflict on 2026-09-06 and confirmed D-047 stands. The form is unchanged; everything around it was improved instead.
 
 **Owner authority (all confirmed directly in chat, 2026-09-06):**
-- Trial form keeps its 5 approved fields ΓÇö D-047 stands, the review brief does not override it.
+- Trial form keeps its 5 approved fields ╬ô├ç├╢ D-047 stands, the review brief does not override it.
 - Homepage: full reposition onto the tuition offer approved, with the vision / Learners Academy / schools material moved below the decision path rather than deleted.
 - Response commitment: **email within two working days, WhatsApp within one working day.**
-- Trial format: **matches the format being considered** ΓÇö a group trial is a real group class, a one-to-one trial is an individual class. Duration is therefore derived from the already-published `classFormat`, not restated as a second number.
+- Trial format: **matches the format being considered** ╬ô├ç├╢ a group trial is a real group class, a one-to-one trial is an individual class. Duration is therefore derived from the already-published `classFormat`, not restated as a second number.
 - Maximum group size: **15 students.**
 - Homepage H1 names IGCSE, O Level and A Level.
 
 **What shipped:**
 - `src/data/pricing.ts`: `maxGroupSize`, `trialFormat`, `enquiryResponse` and `serviceTermsVerifiedDate` added to `PRICING_TERMS`, so every surface quotes one reviewed wording.
-- `src/data/tuition.ts` (new): `TRIAL_STEPS`, `TUITION_FORMATS`, `TUITION_FAQS` ΓÇö all derived from `pricing.ts`, no facts written inline.
+- `src/data/tuition.ts` (new): `TRIAL_STEPS`, `TUITION_FORMATS`, `TUITION_FAQS` ╬ô├ç├╢ all derived from `pricing.ts`, no facts written inline.
 - `src/data/outcomes.ts` + `StudentOutcomes.astro` (new): the testimonial/case-study component the brief asked for, sitting in the homepage sequence and rendering **nothing at all** because no consented outcome exists. No placeholder, no "coming soon", no sample. The file documents the four conditions that must hold before one is added.
-- Homepage resequenced: offer ΓåÆ programmes ΓåÆ teachers ΓåÆ how it works ΓåÆ outcomes (empty) ΓåÆ group vs one-to-one ΓåÆ subjects ΓåÆ resources ΓåÆ FAQs ΓåÆ trial CTA, with the institutional material below that path.
-- `HomeHero.astro`: new offer-led H1 and trial CTA. The board list is **derived from the ACTIVE matrix**, not typed ΓÇö an earlier draft hard-coded "Cambridge, Pearson Edexcel and OxfordAQA" and was wrong, since Marlbridge also has ACTIVE AQA and OCR combinations at these levels. The teacher count is likewise computed, not written.
+- Homepage resequenced: offer ╬ô├Ñ├å programmes ╬ô├Ñ├å teachers ╬ô├Ñ├å how it works ╬ô├Ñ├å outcomes (empty) ╬ô├Ñ├å group vs one-to-one ╬ô├Ñ├å subjects ╬ô├Ñ├å resources ╬ô├Ñ├å FAQs ╬ô├Ñ├å trial CTA, with the institutional material below that path.
+- `HomeHero.astro`: new offer-led H1 and trial CTA. The board list is **derived from the ACTIVE matrix**, not typed ╬ô├ç├╢ an earlier draft hard-coded "Cambridge, Pearson Edexcel and OxfordAQA" and was wrong, since Marlbridge also has ACTIVE AQA and OCR combinations at these levels. The teacher count is likewise computed, not written.
 - `TeachersBand`, `HowTuitionWorks`, `TuitionOptions`, `HomeFaq`, `ProgramTeachers` (new sections), reused across `/`, `/tutoring/`, `/trial/` and taught programme pages.
-- `ProgramTeachers` matches teachers to a programme through the ACTIVE matrix and the teacher's own `subjectsTaught`, on normalised whole tokens only ΓÇö never a fuzzy match ΓÇö and renders nothing rather than falling back to "all teachers".
+- `ProgramTeachers` matches teachers to a programme through the ACTIVE matrix and the teacher's own `subjectsTaught`, on normalised whole tokens only ╬ô├ç├╢ never a fuzzy match ╬ô├ç├╢ and renders nothing rather than falling back to "all teachers".
 - `authors/[slug].astro`: teaching panel (subjects, levels, boards, years, previous schools) with its `sourceUrl`/`verifiedOn` attribution, above the publication archives; "Meet the teacher" framing and a `/tutoring/` breadcrumb for people; a contextual trial CTA. The previous-schools line carries an explicit note that it records prior employment and **is not an endorsement of Marlbridge by those schools**. Author URLs are unchanged.
-- `/trial/`: real answers on trial format, duration, response window, named-teacher requests and what happens after the trial. `TrialContext.astro` carries `?program=` through ΓÇö validated against a build-time allow-list of real programme slugs, rendered via `textContent`, and only ever pre-filling an empty message box. No personal data in any URL.
+- `/trial/`: real answers on trial format, duration, response window, named-teacher requests and what happens after the trial. `TrialContext.astro` carries `?program=` through ╬ô├ç├╢ validated against a build-time allow-list of real programme slugs, rendered via `textContent`, and only ever pre-filling an empty message box. No personal data in any URL.
 - `WhatsAppButton.astro`: message now derived from the route family at build time (never from a query string, referrer, or anything a visitor controls), and reports a route-family topic to GA4 rather than a URL.
-- Resource pages: the tuition invitation now names the subject and level the reader is on and routes to the trial with that programme's context ΓÇö one block at the foot of the page, no interstitial or pop-up.
-- `TrialFunnelEvents.astro` (new): `trial_cta_click` and `trial_form_start`. **Neither is a conversion and neither should be starred as a GA4 key event** ΓÇö `generate_lead` remains the only client-side signal of a real enquiry. Trial scheduled / attended / paid enrolment are **not** emitted, because a static site cannot know them; they require a real integration from learnersacademy.cloud and are listed as outstanding below.
+- Resource pages: the tuition invitation now names the subject and level the reader is on and routes to the trial with that programme's context ╬ô├ç├╢ one block at the foot of the page, no interstitial or pop-up.
+- `TrialFunnelEvents.astro` (new): `trial_cta_click` and `trial_form_start`. **Neither is a conversion and neither should be starred as a GA4 key event** ╬ô├ç├╢ `generate_lead` remains the only client-side signal of a real enquiry. Trial scheduled / attended / paid enrolment are **not** emitted, because a static site cannot know them; they require a real integration from learnersacademy.cloud and are listed as outstanding below.
 - `igcse.md`, `o-levels.md`, `a-levels.md` bodies rewritten with lesson format, board and subject coverage, delivery and teacher-choice detail. `a-levels.md`'s `curriculum` field said "Cambridge / Edexcel"; the ACTIVE matrix has five boards at that level, so it was corrected.
-- The 6 pre-existing duplicate meta descriptions were diagnosed and fixed. They were **not** duplicate source text: the descriptions differed only past the 165-character `metaDescription` truncation point, so the rendered snippets collided. The fix front-loaded the distinguishing detail (format for the revision-notes siblings, subject name for the practice pair) ΓÇö same facts, reordered, no new claim. **On rebase this collided with D-144, which had diagnosed and fixed the identical defect concurrently.** `origin/main`'s wording was taken for all 7 files rather than re-litigating equivalent copy; `npm run audit:metadata` was re-run on the rebased tree to confirm the merged result still passes.
+- The 6 pre-existing duplicate meta descriptions were diagnosed and fixed. They were **not** duplicate source text: the descriptions differed only past the 165-character `metaDescription` truncation point, so the rendered snippets collided. The fix front-loaded the distinguishing detail (format for the revision-notes siblings, subject name for the practice pair) ╬ô├ç├╢ same facts, reordered, no new claim. **On rebase this collided with D-144, which had diagnosed and fixed the identical defect concurrently.** `origin/main`'s wording was taken for all 7 files rather than re-litigating equivalent copy; `npm run audit:metadata` was re-run on the rebased tree to confirm the merged result still passes.
 
 **What was explicitly NOT done, and why:**
 - No testimonial, case study, exam result, review score, student count, success rate or progress claim was written. None exists that Marlbridge can evidence and has permission to publish.
 - No named-teacher guarantee. `/trial/` and every teacher page say Marlbridge will name the teacher before scheduling but cannot promise a specific one in advance.
-- No claim about marking turnaround, homework, mock exams or progress reports ΓÇö those processes are not recorded anywhere and were not invented.
+- No claim about marking turnaround, homework, mock exams or progress reports ╬ô├ç├╢ those processes are not recorded anywhere and were not invented.
 - Downstream funnel stages were not faked in analytics (see above).
 
-**Verification (all run on the final tree, not an intermediate one):** `npm run validate:academic` PASS; `npm run build` PASS (1,978 pages); `npm run audit:all` **PASS ΓÇö an improvement on the pre-existing `main`, which failed this chain**; `node scripts/test-negative-validation-suite.mjs` all categories pass; `npx astro check` 0 errors / 0 warnings; `npm audit --omit=dev` 0 vulnerabilities; functions unit tests 31/31. `audit:accessibility` PASS across 1,978 pages. Rendered HTML spot-checked on `/`, `/trial/`, `/programs/igcse/` and `/authors/muhammad-ghazali-siddiqui/`: exactly one `h1` each, no skipped heading levels, derived board list and teacher count correct, trial-context box `hidden` by default, and the a/an article helper correct across all six taught programmes (an earlier draft rendered "Try a IGCSE class first").
+**Verification (all run on the final tree, not an intermediate one):** `npm run validate:academic` PASS; `npm run build` PASS (1,978 pages); `npm run audit:all` **PASS ╬ô├ç├╢ an improvement on the pre-existing `main`, which failed this chain**; `node scripts/test-negative-validation-suite.mjs` all categories pass; `npx astro check` 0 errors / 0 warnings; `npm audit --omit=dev` 0 vulnerabilities; functions unit tests 31/31. `audit:accessibility` PASS across 1,978 pages. Rendered HTML spot-checked on `/`, `/trial/`, `/programs/igcse/` and `/authors/muhammad-ghazali-siddiqui/`: exactly one `h1` each, no skipped heading levels, derived board list and teacher count correct, trial-context box `hidden` by default, and the a/an article helper correct across all six taught programmes (an earlier draft rendered "Try a IGCSE class first").
 
 **Still open, and needing the owner:** real consented testimonials/case studies; a decision on the redundant "Explore Programs" header button now that the gold trial CTA is the primary action; confirmation of marking/feedback/reporting processes if they are to be published; and the CRM-side integration required before trial-scheduled, trial-attended or paid-enrolment can be measured at all.
 
-## D-150 ΓÇö Learners Academy's results and reviews published under attribution (partial override of D-034); redundant header CTA removed; O Level past-paper wording made precise
+## D-150 ╬ô├ç├╢ Learners Academy's results and reviews published under attribution (partial override of D-034); redundant header CTA removed; O Level past-paper wording made precise
 
 **Date:** 2026-09-07
 
 **Trigger:** Owner responses to the four open items left by D-149.
 
-### 1. Results and testimonials ΓÇö D-034's testimonial restriction lifted, with conditions
+### 1. Results and testimonials ╬ô├ç├╢ D-034's testimonial restriction lifted, with conditions
 
 **Owner instruction (2026-09-07):** "Consented testimonials or case studies: you can use from learnersacademy.com.pk".
 
-**What that overrides:** D-034 recorded that Learners Academy was approved as evidence for **pricing and faculty information only**, and that "its academic taxonomy, results, testimonials or unsupported claims are NOT imported." The owner has now lifted that restriction **for results and testimonials specifically**. The academic-taxonomy and unsupported-claims half of D-034 was not raised and **still stands** ΓÇö Marlbridge's matrix remains its own.
+**What that overrides:** D-034 recorded that Learners Academy was approved as evidence for **pricing and faculty information only**, and that "its academic taxonomy, results, testimonials or unsupported claims are NOT imported." The owner has now lifted that restriction **for results and testimonials specifically**. The academic-taxonomy and unsupported-claims half of D-034 was not raised and **still stands** ╬ô├ç├╢ Marlbridge's matrix remains its own.
 
 **What was read, not assumed:** `https://learnersacademy.com.pk/results/`, fetched 2026-09-07. It is unusually disciplined source material: 51 grades from 44 students in the August 2026 season, published with the B's (16) and the single C left in, first name and initial only because some students are minors, and a stated check against the official Cambridge International Statement of Results where one was sent. The arithmetic was **re-derived rather than copied**: 4 + 30 + 16 + 1 = 51, and (4 + 30) / 51 = 66.7%, consistent with the published 67%.
 
-**The attribution problem, and how it is handled.** These students studied at Learners Academy and these reviews were left about Learners Academy. Presenting them in Marlbridge's voice would misattribute another organisation's results ΓÇö the same class of error the site already guards against when it insists a teacher's previous school is not an endorsement of Marlbridge. What makes publication honest is the relationship already stated on the homepage: Learners Academy is the founding academy behind Marlbridge and the same teachers now teach under the Marlbridge name. So the data lives in its own file (`src/data/learners-academy-evidence.ts`), **not** in `src/data/outcomes.ts`, and `AcademyResults.astro` names Learners Academy in the eyebrow, in the first sentence, and in a source line carrying the URL and the date it was read.
+**The attribution problem, and how it is handled.** These students studied at Learners Academy and these reviews were left about Learners Academy. Presenting them in Marlbridge's voice would misattribute another organisation's results ╬ô├ç├╢ the same class of error the site already guards against when it insists a teacher's previous school is not an endorsement of Marlbridge. What makes publication honest is the relationship already stated on the homepage: Learners Academy is the founding academy behind Marlbridge and the same teachers now teach under the Marlbridge name. So the data lives in its own file (`src/data/learners-academy-evidence.ts`), **not** in `src/data/outcomes.ts`, and `AcademyResults.astro` names Learners Academy in the eyebrow, in the first sentence, and in a source line carrying the URL and the date it was read.
 
 **`src/data/outcomes.ts` remains empty and stays in the homepage sequence.** Marlbridge's own consented outcomes are still a genuine gap; merging the two files would have hidden that gap rather than closed it.
 
 **Explicitly NOT imported, and not to be added without a new decision:**
-- **"4,200+ A & A* grades"** and **"9+ years teaching"** from the Learners Academy homepage ΓÇö lifetime aggregates with no published basis, year or method. The results-season figures are checkable; these are not.
-- **Any `AggregateRating` or `Review` JSON-LD.** The 4.6Γÿà/32 reviews figure is Learners Academy's Google rating for Learners Academy. Emitting it as structured data on a Marlbridge page would assert a review rating for the wrong entity ΓÇö a fabricated rating in Google's terms however real the number is elsewhere. It is rendered as attributed plain text with a link out and **no schema whatsoever**; verified absent from the built HTML.
+- **"4,200+ A & A* grades"** and **"9+ years teaching"** from the Learners Academy homepage ╬ô├ç├╢ lifetime aggregates with no published basis, year or method. The results-season figures are checkable; these are not.
+- **Any `AggregateRating` or `Review` JSON-LD.** The 4.6╬ô├┐├á/32 reviews figure is Learners Academy's Google rating for Learners Academy. Emitting it as structured data on a Marlbridge page would assert a review rating for the wrong entity ╬ô├ç├╢ a fabricated rating in Google's terms however real the number is elsewhere. It is rendered as attributed plain text with a link out and **no schema whatsoever**; verified absent from the built HTML.
 - **Full surnames**, for the same minor-safeguarding reason the source gives.
 
-**Consent basis ΓÇö raised explicitly, and answered.** The owner was asked directly, in a question that stated the concern rather than burying it: consent given to Learners Academy to publish on `learnersacademy.com.pk` is not automatically consent to republish under a different brand, and some of these students are minors. The owner was offered three options (publish in full / publish the grade spread but hold the four named quotes / hold all of it pending a permissions check) and chose **publish in full**, on the basis that he owns both organisations and is satisfied the original permission covers this use (2026-09-07).
+**Consent basis ╬ô├ç├╢ raised explicitly, and answered.** The owner was asked directly, in a question that stated the concern rather than burying it: consent given to Learners Academy to publish on `learnersacademy.com.pk` is not automatically consent to republish under a different brand, and some of these students are minors. The owner was offered three options (publish in full / publish the grade spread but hold the four named quotes / hold all of it pending a permissions check) and chose **publish in full**, on the basis that he owns both organisations and is satisfied the original permission covers this use (2026-09-07).
 
-**What that does and does not settle.** It is a real, informed authorisation from the person entitled to give it, and it is why this content ships. It is **not** a consent record this session inspected ΓÇö no permission document was seen. If any family ever objects, the remedy is immediate removal of that entry from `src/data/learners-academy-evidence.ts`, which is why the data sits in one editable file rather than being written into page copy. The minor-safeguarding constraint (first name and initial only, never full surnames) travels with the data regardless of this authorisation and is not the owner's to waive on a student's behalf.
+**What that does and does not settle.** It is a real, informed authorisation from the person entitled to give it, and it is why this content ships. It is **not** a consent record this session inspected ╬ô├ç├╢ no permission document was seen. If any family ever objects, the remedy is immediate removal of that entry from `src/data/learners-academy-evidence.ts`, which is why the data sits in one editable file rather than being written into page copy. The minor-safeguarding constraint (first name and initial only, never full surnames) travels with the data regardless of this authorisation and is not the owner's to waive on a student's behalf.
 
 **Where it renders:** homepage (between "how it works" and the group/one-to-one comparison) and `/tutoring/`.
 
 ### 2. Header "Explore Programs" button removed
 
-**Owner instruction:** "do as you see fit." Removed from `Header.astro` and `MobileMenu.astro`. It pointed at `/programs/`, already the first item in `primaryNav` inches away, so it was a second route to the same page competing visually with the trial CTA next to it. The header now carries exactly one action. **Nothing became unreachable** ΓÇö Programs remains in the desktop nav and the mobile menu; verified in the built HTML (`Explore Programs` occurrences on the homepage: 2 ΓåÆ 0; `Free Trial Class`: 2, unchanged).
+**Owner instruction:** "do as you see fit." Removed from `Header.astro` and `MobileMenu.astro`. It pointed at `/programs/`, already the first item in `primaryNav` inches away, so it was a second route to the same page competing visually with the trial CTA next to it. The header now carries exactly one action. **Nothing became unreachable** ╬ô├ç├╢ Programs remains in the desktop nav and the mobile menu; verified in the built HTML (`Explore Programs` occurrences on the homepage: 2 ╬ô├Ñ├å 0; `Free Trial Class`: 2, unchanged).
 
 ### 3. O Level "past-paper practice" wording
 
 **Owner confirmation:** past-paper work is something done in class; a folder of past papers may be shared later for hosting. The claim was therefore accurate but ambiguous on a site that publishes zero past-paper resources and has deliberately removed that empty category from sitewide navigation. `o-levels.md`'s `shortDescription`/`description` now read "past-paper practice **worked through in class**", which cannot be read as a promise of downloadable papers.
 
-**Past-paper hosting was NOT built.** No files exist yet, and `claude/section14-past-paper-audit-2026-09-01.md` records this programme's deliberately conservative position on past-paper material. Hosting third-party exam papers is a licensing question in its own right and needs its own decision when the folder actually arrives ΓÇö it is not a side effect of a wording fix.
+**Past-paper hosting was NOT built.** No files exist yet, and `claude/section14-past-paper-audit-2026-09-01.md` records this programme's deliberately conservative position on past-paper material. Hosting third-party exam papers is a licensing question in its own right and needs its own decision when the folder actually arrives ╬ô├ç├╢ it is not a side effect of a wording fix.
 
 **Verification:** `npm run validate:academic` PASS; `npm run build` PASS; `npm run audit:all` PASS; `npm run check:duplicate-scope` PASS; `npx astro check` 0 errors / 0 warnings; negative-fixture suite all categories pass; functions unit tests 31/31; `npm audit --omit=dev` 0 vulnerabilities. Built HTML checked directly for the attribution sentence, the absence of rating structured data, and the removed header button.
 
-## D-151 ΓÇö Nouman Ahmed, Salman Ahmad and Hina Mogul pinned to the top of every public teacher listing
+## D-151 ╬ô├ç├╢ Nouman Ahmed, Salman Ahmad and Hina Mogul pinned to the top of every public teacher listing
 
 **Date:** 2026-09-08
 
-**Trigger:** Owner instruction, with a screenshot of the "Who teaches ΓÇª" block on a programme page: "always keep Nouman Ahmed, Salman Ahmad and Hina Mogul on top". Clarified in the same exchange that the list in the screenshot was the programme-page one (`ProgramTeachers.astro`, identifiable because its second line renders `subjectsTaught` rather than `role`), and that the rule applies to the teacher list on every programme.
+**Trigger:** Owner instruction, with a screenshot of the "Who teaches ╬ô├ç┬¬" block on a programme page: "always keep Nouman Ahmed, Salman Ahmad and Hina Mogul on top". Clarified in the same exchange that the list in the screenshot was the programme-page one (`ProgramTeachers.astro`, identifiable because its second line renders `subjectsTaught` rather than `role`), and that the rule applies to the teacher list on every programme.
 
-**Scope decision ΓÇö applied to all three listings, not just programme pages.** Teachers appear in three places, each with a different natural sort: the homepage band (`TeachersBand`, by recorded experience, truncated to six), the `/tutoring/` grid (alphabetical), and the programme-page block (by experience, filtered to that qualification's ACTIVE matrix subjects). "Always" was read as covering all three ΓÇö a pin honoured on programme pages but not on the homepage or `/tutoring/` would be the same instruction visibly not applied two clicks away.
+**Scope decision ╬ô├ç├╢ applied to all three listings, not just programme pages.** Teachers appear in three places, each with a different natural sort: the homepage band (`TeachersBand`, by recorded experience, truncated to six), the `/tutoring/` grid (alphabetical), and the programme-page block (by experience, filtered to that qualification's ACTIVE matrix subjects). "Always" was read as covering all three ╬ô├ç├╢ a pin honoured on programme pages but not on the homepage or `/tutoring/` would be the same instruction visibly not applied two clicks away.
 
 **Implementation:** `src/data/featured-teachers.ts` (new) holds `PINNED_TEACHER_SLUGS` and `sortPinnedFirst(entries, compare)`, which moves pinned authors to the front in the listed order and leaves the caller's own comparator to order everyone else. All three call sites now go through it. Deliberately one shared module rather than three hard-coded lists: a future contributor changing one component's sort cannot silently break the rule in the other two.
 
-**What the pin does NOT do ΓÇö the important constraint.** It only reorders teachers already eligible for a given list; it never inserts anyone. `ProgramTeachers` still filters to teachers whose own `subjectsTaught` matches an ACTIVE matrix subject for that qualification, so the pin cannot place Nouman Ahmed (Chemistry) on a programme whose active subjects do not include Chemistry, and cannot imply anyone teaches a subject they do not. A pinned teacher who is not eligible simply does not appear on that page, exactly as before. This was checked, not assumed ΓÇö see verification.
+**What the pin does NOT do ╬ô├ç├╢ the important constraint.** It only reorders teachers already eligible for a given list; it never inserts anyone. `ProgramTeachers` still filters to teachers whose own `subjectsTaught` matches an ACTIVE matrix subject for that qualification, so the pin cannot place Nouman Ahmed (Chemistry) on a programme whose active subjects do not include Chemistry, and cannot imply anyone teaches a subject they do not. A pinned teacher who is not eligible simply does not appear on that page, exactly as before. This was checked, not assumed ╬ô├ç├╢ see verification.
 
 **Note on the homepage band:** because it truncates to six, the pin changes *who is visible*, not merely the order. That is the intended effect of the instruction, but it is a real editorial consequence and is recorded here rather than left implicit.
 
 **Failure behaviour, deliberately split:** at runtime a slug that no longer matches an author silently no-ops, so a broken pin can never take a page down. At build time `scripts/validate-pinned-teachers.mjs` (new; wired into `validate:academic`, also `npm run validate:pinned-teachers`) FAILS on a pinned slug that has no author file, is not `entityType: person`, is not `publicationState: published`, or is duplicated. Without it, a typo or a renamed/unpublished author would quietly drop an explicit owner instruction with nothing on the page to show it.
 
-**Verification:** built HTML read directly for all three listings. Programme pages `/programs/igcse/`, `/programs/a-levels/` and `/programs/o-levels/` each now open `Nouman Ahmed | Salman Ahmad | Hina Mogul`, followed by the previous experience ordering (Iftikhar Azeemi, Azam Siddique, Muhammad Ghazali Siddiqui ΓÇª); the homepage band opens with the same three; `/tutoring/` opens with the same three followed by the unchanged alphabetical remainder (Aizaz Raoof Ali, Ameer Hamza, Arslan Tanvir ΓÇª). `npm run validate:pinned-teachers` PASS. Full gate on the final tree: `validate:academic` PASS, `build` PASS, `audit:all` PASS, `astro check` 0 errors / 0 warnings, negative-fixture suite all categories pass, functions unit tests 31/31.
+**Verification:** built HTML read directly for all three listings. Programme pages `/programs/igcse/`, `/programs/a-levels/` and `/programs/o-levels/` each now open `Nouman Ahmed | Salman Ahmad | Hina Mogul`, followed by the previous experience ordering (Iftikhar Azeemi, Azam Siddique, Muhammad Ghazali Siddiqui ╬ô├ç┬¬); the homepage band opens with the same three; `/tutoring/` opens with the same three followed by the unchanged alphabetical remainder (Aizaz Raoof Ali, Ameer Hamza, Arslan Tanvir ╬ô├ç┬¬). `npm run validate:pinned-teachers` PASS. Full gate on the final tree: `validate:academic` PASS, `build` PASS, `audit:all` PASS, `astro check` 0 errors / 0 warnings, negative-fixture suite all categories pass, functions unit tests 31/31.
 
-## D-152 ΓÇö Enquiry rate limiting was never actually running: `ENQUIRY_RATE_LIMIT` KV binding created, declared, and a validator added so a fail-open binding can never silently go missing again
+## D-152 ╬ô├ç├╢ Enquiry rate limiting was never actually running: `ENQUIRY_RATE_LIMIT` KV binding created, declared, and a validator added so a fail-open binding can never silently go missing again
 
 **Date:** 2026-09-08
 
-**Trigger:** While diffing the deployed Worker's bindings against `wrangler.jsonc` (during an unrelated deploy investigation), `wrangler versions view` showed the live Worker had exactly two bindings ΓÇö `env.DB` and `env.ASSETS`. `functions/api/enquiry.ts` reads a third.
+**Trigger:** While diffing the deployed Worker's bindings against `wrangler.jsonc` (during an unrelated deploy investigation), `wrangler versions view` showed the live Worker had exactly two bindings ╬ô├ç├╢ `env.DB` and `env.ASSETS`. `functions/api/enquiry.ts` reads a third.
 
-**What was actually wrong.** `functions/api/enquiry.ts` has called `checkRateLimit(env.ENQUIRY_RATE_LIMIT, ip)` since the endpoint was written, capping enquiry submissions at 5 per IP per hour. That binding was never declared in `wrangler.jsonc`, and `npx wrangler kv namespace list` returned `[]` ΓÇö **no KV namespace existed on the Cloudflare account at all.** So `env.ENQUIRY_RATE_LIMIT` was always `undefined` in production and `checkRateLimit`'s first line, `if (!kv || !ip) return true`, returned `true` on every single request. The site has been running with **no enquiry rate limiting whatsoever**, while the source read as though it had some.
+**What was actually wrong.** `functions/api/enquiry.ts` has called `checkRateLimit(env.ENQUIRY_RATE_LIMIT, ip)` since the endpoint was written, capping enquiry submissions at 5 per IP per hour. That binding was never declared in `wrangler.jsonc`, and `npx wrangler kv namespace list` returned `[]` ╬ô├ç├╢ **no KV namespace existed on the Cloudflare account at all.** So `env.ENQUIRY_RATE_LIMIT` was always `undefined` in production and `checkRateLimit`'s first line, `if (!kv || !ip) return true`, returned `true` on every single request. The site has been running with **no enquiry rate limiting whatsoever**, while the source read as though it had some.
 
-**Why nothing ever caught it.** The fail-open default is correct behaviour and was chosen deliberately ΓÇö a KV outage should degrade rate limiting, never block a real family's enquiry. But fail-open is exactly what made this invisible: nothing threw, nothing logged, and no request behaved differently. A binding that *failed closed* would have been noticed on the first submission. No existing validator compared what the Worker reads against what the config provides, so the gap sat in the blind spot between the two.
+**Why nothing ever caught it.** The fail-open default is correct behaviour and was chosen deliberately ╬ô├ç├╢ a KV outage should degrade rate limiting, never block a real family's enquiry. But fail-open is exactly what made this invisible: nothing threw, nothing logged, and no request behaved differently. A binding that *failed closed* would have been noticed on the first submission. No existing validator compared what the Worker reads against what the config provides, so the gap sat in the blind spot between the two.
 
 **What shipped:**
 - KV namespace `ENQUIRY_RATE_LIMIT` created (id `f1cee847b64448afb8bb30141dc6dc8e`) and declared in `wrangler.jsonc` with the reasoning inline. Fail-open is retained deliberately; Turnstile and the honeypot remain the primary spam defences and this is a second layer, not the first.
-- `scripts/validate-worker-bindings.mjs` (new; wired into `validate:academic`, also `npm run validate:worker-bindings`): scans `functions/` and `src/worker/` for every `env.X` reference and fails the build unless each one is a binding declared in `wrangler.jsonc` or a name on an explicit `KNOWN_SECRETS` list. The three real secrets (`RESEND_API_KEY`, `TURNSTILE_SECRET_KEY`, `GSC_SERVICE_ACCOUNT_JSON`) are listed there because they are correctly set with `wrangler secret put` and must never be committed ΓÇö confirmed present on the deployed Worker via `wrangler versions view`. Adding a name to that list is meant to be a conscious statement that it is a real externally-set secret, not a way to silence the check.
+- `scripts/validate-worker-bindings.mjs` (new; wired into `validate:academic`, also `npm run validate:worker-bindings`): scans `functions/` and `src/worker/` for every `env.X` reference and fails the build unless each one is a binding declared in `wrangler.jsonc` or a name on an explicit `KNOWN_SECRETS` list. The three real secrets (`RESEND_API_KEY`, `TURNSTILE_SECRET_KEY`, `GSC_SERVICE_ACCOUNT_JSON`) are listed there because they are correctly set with `wrangler secret put` and must never be committed ╬ô├ç├╢ confirmed present on the deployed Worker via `wrangler versions view`. Adding a name to that list is meant to be a conscious statement that it is a real externally-set secret, not a way to silence the check.
 - README's environment-variable table and validation section updated to describe the binding and the new check.
 
-**Verification, including the negative case:** with the new binding declared, `validate-worker-bindings.mjs` PASSES (3 declared bindings, 3 known secrets, 6 `env.` references). The `kv_namespaces` block was then temporarily deleted and the script re-run ΓÇö it FAILED with `env.ENQUIRY_RATE_LIMIT is read in functions/api/enquiry.ts but is neither declared in wrangler.jsonc nor a known secret`, proving it catches the exact fault it exists to catch rather than merely passing; `wrangler.jsonc` was then restored and confirmed byte-for-byte identical (`cmp`). `npm run validate:academic` PASS on the final tree.
+**Verification, including the negative case:** with the new binding declared, `validate-worker-bindings.mjs` PASSES (3 declared bindings, 3 known secrets, 6 `env.` references). The `kv_namespaces` block was then temporarily deleted and the script re-run ╬ô├ç├╢ it FAILED with `env.ENQUIRY_RATE_LIMIT is read in functions/api/enquiry.ts but is neither declared in wrangler.jsonc nor a known secret`, proving it catches the exact fault it exists to catch rather than merely passing; `wrangler.jsonc` was then restored and confirmed byte-for-byte identical (`cmp`). `npm run validate:academic` PASS on the final tree.
 
-**Not yet live at time of writing.** The KV namespace exists on the account and the binding is committed, but the binding only takes effect on the next deploy. Until then production continues to fail open exactly as before ΓÇö no regression, but no rate limiting either. See the deploy note below.
+**Not yet live at time of writing.** The KV namespace exists on the account and the binding is committed, but the binding only takes effect on the next deploy. Until then production continues to fail open exactly as before ╬ô├ç├╢ no regression, but no rate limiting either. See the deploy note below.
 
-**Deploy context (separate issue, same session) ΓÇö corrected below, same day.** This entry originally claimed the Git integration had "stopped firing" for `5e10f52`. That was wrong. Per this repo's append-only decision-log discipline, the error is corrected here rather than silently edited.
+**Deploy context (separate issue, same session) ╬ô├ç├╢ corrected below, same day.** This entry originally claimed the Git integration had "stopped firing" for `5e10f52`. That was wrong. Per this repo's append-only decision-log discipline, the error is corrected here rather than silently edited.
 
-**Correction (2026-09-08, later the same day):** `wrangler deployments list` only lists successful deployments, so a build that fires and fails is invisible there ΓÇö that gap produced the original misdiagnosis. Cloudflare's own dashboard Build History (`.../production/builds`), checked directly via the account owner's authenticated session, shows the Git integration never stopped firing:
+**Correction (2026-09-08, later the same day):** `wrangler deployments list` only lists successful deployments, so a build that fires and fails is invisible there ╬ô├ç├╢ that gap produced the original misdiagnosis. Cloudflare's own dashboard Build History (`.../production/builds`), checked directly via the account owner's authenticated session, shows the Git integration never stopped firing:
 
-- `5e10f52` (build `bd4d9be9`) DID trigger, visible in Build History 9 hours after merge. Initializing/Cloning/Installing/Building all succeeded, including a full `validate:academic` pass. Only the final Deploying step failed, 13 seconds in, with a transient Cloudflare-side error: `GET /accounts/.../workers/services/mb -> 503 Service Unavailable` ("upstream connect error or disconnect/reset before headers"). That is Cloudflare's own Workers API failing during wrangler's worker-name validation ΓÇö not a config, credential, or code fault. The next two builds (`07287de`, `53bf2ac`) deployed automatically with no incident, so this session's manual `npx wrangler deploy` for `5e10f52` was a one-time recovery from an isolated platform hiccup, not evidence the integration needed reconnecting.
-- Two earlier builds also show as failed in Build History ΓÇö `f3efdaa` and `54ee016` (19ΓÇô20 hours before this correction) ΓÇö for an unrelated, already-diagnosed reason: `f3efdaa`'s deploy log reads `Invalid _redirects configuration: Maximum number of static _redirects rules limit of 2000 exceeded`, the exact D-147 ceiling breach. `c1cae30`, the very next build chronologically, is D-147's fix (2019/2000 breach ΓåÆ 1827/2000) and deployed cleanly, as has every build since. Nothing further to fix there.
-- `2dca7c8` (this same KV-binding change) deployed automatically via the Git integration with no manual intervention ΓÇö confirmed live: the `mb` Worker's Bindings tab shows all three bindings (`ASSETS`, `DB`, `ENQUIRY_RATE_LIMIT`) attached to the current production version, created at the time this build finished.
+- `5e10f52` (build `bd4d9be9`) DID trigger, visible in Build History 9 hours after merge. Initializing/Cloning/Installing/Building all succeeded, including a full `validate:academic` pass. Only the final Deploying step failed, 13 seconds in, with a transient Cloudflare-side error: `GET /accounts/.../workers/services/mb -> 503 Service Unavailable` ("upstream connect error or disconnect/reset before headers"). That is Cloudflare's own Workers API failing during wrangler's worker-name validation ╬ô├ç├╢ not a config, credential, or code fault. The next two builds (`07287de`, `53bf2ac`) deployed automatically with no incident, so this session's manual `npx wrangler deploy` for `5e10f52` was a one-time recovery from an isolated platform hiccup, not evidence the integration needed reconnecting.
+- Two earlier builds also show as failed in Build History ╬ô├ç├╢ `f3efdaa` and `54ee016` (19╬ô├ç├┤20 hours before this correction) ╬ô├ç├╢ for an unrelated, already-diagnosed reason: `f3efdaa`'s deploy log reads `Invalid _redirects configuration: Maximum number of static _redirects rules limit of 2000 exceeded`, the exact D-147 ceiling breach. `c1cae30`, the very next build chronologically, is D-147's fix (2019/2000 breach ╬ô├Ñ├å 1827/2000) and deployed cleanly, as has every build since. Nothing further to fix there.
+- `2dca7c8` (this same KV-binding change) deployed automatically via the Git integration with no manual intervention ╬ô├ç├╢ confirmed live: the `mb` Worker's Bindings tab shows all three bindings (`ASSETS`, `DB`, `ENQUIRY_RATE_LIMIT`) attached to the current production version, created at the time this build finished.
 
-Net correction: the Git integration was never broken and does not need reconnecting or repair. Its two historical failures are now both explained ΓÇö one already self-resolved by D-147, one a transient Cloudflare 503 ΓÇö and `npx wrangler deploy` remains the correct fallback for exactly this kind of transient failure, not the normal deploy path.
+Net correction: the Git integration was never broken and does not need reconnecting or repair. Its two historical failures are now both explained ╬ô├ç├╢ one already self-resolved by D-147, one a transient Cloudflare 503 ╬ô├ç├╢ and `npx wrangler deploy` remains the correct fallback for exactly this kind of transient failure, not the normal deploy path.
 
 
 ## D-153 - AQA AS Level resources were rendering as "A LEVELS" everywhere resourceLevelLabel() is used
@@ -7073,19 +7073,19 @@ Net correction: the Git integration was never broken and does not need reconnect
 
 **Trigger:** Owner's execution brief, workstream 4: "Fix AS Level resources displaying `A LEVELS`."
 
-**What was actually wrong.** `resourceLevelLabel()` (`src/utils/content/collections.ts`) only knew about one AS/A signal: the `stage` field, built specifically for Cambridge 9701's combined "AS & A Level" syllabus (one qualification, split by topic depth). AQA's genuinely separate, standalone AS Level qualification (`qualifications: ["as-level"]`, `LEVEL_FOR_QUALIFICATION` bucketing it under `level: ["a-levels"]` ΓÇö see that mapping's own comment in `src/utils/academic/index.ts`) is architecturally different: these resources correctly never set `stage`, because `validate-academic-content.mjs`'s stage-consistency check rejects `stage` on a resource whose syllabusTopics aren't themselves stage-tagged, which AQA's as-level taxonomy never is. `resourceLevelLabel` had no way to see this second AS signal at all, so all 4 of the site's AQA AS Level resources fell through to the generic branch and rendered "A LEVELS" ΓÇö confirmed live on `/boards/aqa/as-level/business/` before the fix (resource cards under Study resources / Revision material / Exam preparation).
+**What was actually wrong.** `resourceLevelLabel()` (`src/utils/content/collections.ts`) only knew about one AS/A signal: the `stage` field, built specifically for Cambridge 9701's combined "AS & A Level" syllabus (one qualification, split by topic depth). AQA's genuinely separate, standalone AS Level qualification (`qualifications: ["as-level"]`, `LEVEL_FOR_QUALIFICATION` bucketing it under `level: ["a-levels"]` ╬ô├ç├╢ see that mapping's own comment in `src/utils/academic/index.ts`) is architecturally different: these resources correctly never set `stage`, because `validate-academic-content.mjs`'s stage-consistency check rejects `stage` on a resource whose syllabusTopics aren't themselves stage-tagged, which AQA's as-level taxonomy never is. `resourceLevelLabel` had no way to see this second AS signal at all, so all 4 of the site's AQA AS Level resources fell through to the generic branch and rendered "A LEVELS" ╬ô├ç├╢ confirmed live on `/boards/aqa/as-level/business/` before the fix (resource cards under Study resources / Revision material / Exam preparation).
 
 **What shipped:**
 - `resourceLevelLabel()` now accepts an optional third argument, `qualifications`, and derives `effectiveStage = stage ?? (qualifications?.includes('as-level') ? 'AS' : undefined)`. The 9701 `stage` path is untouched; this only adds the second, independent AS signal.
 - All 3 call sites updated to pass `entry.data.qualifications` / `d.qualifications`: `ResourceCard.astro`, `ResourcesSection.astro`, `resources/[slug].astro`.
-- No content files were changed ΓÇö the 4 AQA AS Level resource files correctly still have no `stage` field; the fix reads their existing `qualifications` field instead.
+- No content files were changed ╬ô├ç├╢ the 4 AQA AS Level resource files correctly still have no `stage` field; the fix reads their existing `qualifications` field instead.
 - New validator `scripts/validate-as-level-display.mjs`, wired into `validate:academic` (also `npm run validate:as-level-display` standalone): checks (1) `resourceLevelLabel`'s body still contains the `qualifications`-based derivation, (2) all 3 known call sites still pass 3 arguments, (3) every resource declaring `qualifications: ["as-level"]` also declares `level` including `"a-levels"` (the data precondition the fix depends on).
 
-**Verification, including the negative case:** `node scripts/validate-as-level-display.mjs` passes. Negative-fixture proof: temporarily reverted `ResourceCard.astro`'s call to the old 2-argument form ΓÇö validator FAILED with the exact expected message ("passes only 2 argument(s)"); file restored and re-verified passing. `npm run build` (2060 pages, 0 errors, `validate:academic` including this new check all green). `npx astro check` ΓÇö 0 errors, 0 warnings (pre-existing 18 hints, unrelated). Checked the actual built output: `dist/boards/aqa/as-level/business/index.html` now contains 5 "AQA ┬╖ AS LEVEL" resource-card labels (was 0 before the fix; genuine full A-Level resources on the same page still correctly show "AQA ┬╖ A LEVELS", unaffected).
+**Verification, including the negative case:** `node scripts/validate-as-level-display.mjs` passes. Negative-fixture proof: temporarily reverted `ResourceCard.astro`'s call to the old 2-argument form ╬ô├ç├╢ validator FAILED with the exact expected message ("passes only 2 argument(s)"); file restored and re-verified passing. `npm run build` (2060 pages, 0 errors, `validate:academic` including this new check all green). `npx astro check` ╬ô├ç├╢ 0 errors, 0 warnings (pre-existing 18 hints, unrelated). Checked the actual built output: `dist/boards/aqa/as-level/business/index.html` now contains 5 "AQA Γö¼Γòû AS LEVEL" resource-card labels (was 0 before the fix; genuine full A-Level resources on the same page still correctly show "AQA Γö¼Γòû A LEVELS", unaffected).
 
-`node scripts/test-negative-validation-suite.mjs`: 35/36 passed. The one failure (`[Z]`) is a pre-existing, unrelated flake in that fixture's own restore step for a different validator (rendered-academic-label, IGCSE-corruption check) on a different file (`a-arenes-and-halogenoarenes-practice`) ΓÇö it corrupted a `dist/` file to prove the validator catches it (that assertion passed) and then failed to restore that `dist/` output file afterward. `dist/` is gitignored (confirmed via `.gitignore` line 2 and `git status --short`, which shows nothing under `dist/` or referencing `arenes`) and is rebuilt from scratch by both `npm run build` locally and Cloudflare's own Workers Build on every deploy, so this has no bearing on the source tree or on production. Not investigated further under this entry since it is orthogonal to WS4; worth a look if it recurs.
+`node scripts/test-negative-validation-suite.mjs`: 35/36 passed. The one failure (`[Z]`) is a pre-existing, unrelated flake in that fixture's own restore step for a different validator (rendered-academic-label, IGCSE-corruption check) on a different file (`a-arenes-and-halogenoarenes-practice`) ╬ô├ç├╢ it corrupted a `dist/` file to prove the validator catches it (that assertion passed) and then failed to restore that `dist/` output file afterward. `dist/` is gitignored (confirmed via `.gitignore` line 2 and `git status --short`, which shows nothing under `dist/` or referencing `arenes`) and is rebuilt from scratch by both `npm run build` locally and Cloudflare's own Workers Build on every deploy, so this has no bearing on the source tree or on production. Not investigated further under this entry since it is orthogonal to WS4; worth a look if it recurs.
 
-**Not run this round:** `npm run audit:all`, `node scripts/test-cross-board-regression.mjs`, `npm audit`, and the functions/API unit tests were not re-run for this change ΓÇö noted explicitly rather than silently assumed green. This change touches only resource-level display logic (one function signature, 3 call sites, 1 new validator) and does not touch pricing, commercial claims, the academic matrix, cross-board data, or the enquiry API, so the risk surface those suites cover is not implicated, but they have not been independently re-confirmed against this exact tree.
+**Not run this round:** `npm run audit:all`, `node scripts/test-cross-board-regression.mjs`, `npm audit`, and the functions/API unit tests were not re-run for this change ╬ô├ç├╢ noted explicitly rather than silently assumed green. This change touches only resource-level display logic (one function signature, 3 call sites, 1 new validator) and does not touch pricing, commercial claims, the academic matrix, cross-board data, or the enquiry API, so the risk surface those suites cover is not implicated, but they have not been independently re-confirmed against this exact tree.
 
 
 ## D-154 - Duplicated assessment-component tier suffixes ("(Core) (Core)") fixed centrally; audit:rendered-labels' stale duplicate of resourceLevelLabel also fixed
@@ -7248,7 +7248,7 @@ All three were the validator correctly catching real inconsistencies, not false 
 **Full verification gate, on real infrastructure (fresh `npm install`, Windows/PowerShell+cmd, same clone the splice was made in):**
 - `npm run build` (runs `validate:academic`'s 14 validators internally, then `astro build`, then `postbuild` pagefind indexing): **2079 pages built, `[build] Complete!`** (up from 2072 pre-existing pages -- no page count regression), Pagefind indexed cleanly in 39s.
 - `npx astro check`: **0 errors, 0 warnings, 18 hints** -- identical to the pre-existing baseline.
-- `npm run audit:all` (11 sub-audits): **all 11 PASS, 0 problems** -- metadata (2078 pages), structured-data (2078 pages, 10,080 typed JSON-LD nodes), redirects (245 rules, 0 problems), internal-links (2079 pages, 0 broken/orphan/generic-anchor), content-integrity (160 academic hub pages, 2079 pages scanned for leakage, 0 found), fonts (14 binaries), sitemap/noindex (2072 URLs), i18n routes (19 translated routes ├ù 4 locales), rendered-labels (1583 resources + 160 hub pages + 160 assessment tables, all match canonical data), tiered-FAQ-routes (160 hub pages checked), review-coverage (1583 resources, 0 false claims), accessibility (2078 pages, WCAG 2.2 AA structural subset, 0 problems).
+- `npm run audit:all` (11 sub-audits): **all 11 PASS, 0 problems** -- metadata (2078 pages), structured-data (2078 pages, 10,080 typed JSON-LD nodes), redirects (245 rules, 0 problems), internal-links (2079 pages, 0 broken/orphan/generic-anchor), content-integrity (160 academic hub pages, 2079 pages scanned for leakage, 0 found), fonts (14 binaries), sitemap/noindex (2072 URLs), i18n routes (19 translated routes Γö£├╣ 4 locales), rendered-labels (1583 resources + 160 hub pages + 160 assessment tables, all match canonical data), tiered-FAQ-routes (160 hub pages checked), review-coverage (1583 resources, 0 false claims), accessibility (2078 pages, WCAG 2.2 AA structural subset, 0 problems).
 - `node scripts/test-negative-validation-suite.mjs`: **35/35 passed**, including a fixture (`[AG]`) that specifically re-verifies the `www.ibo.org` domain rule this round's own Global Politics fix depended on.
 - `npm audit`: **0 vulnerabilities**.
 - `validate-cross-board-integrity.mjs`, re-run standalone after the 3 fixes above: **0 problems across 5 rule categories** -- 160 topic collections now declare a real, ACTIVE, code-matching board (up from 141 before this entry), 163 syllabus source URLs all match their declared board's domain, 132 specification codes each claimed by exactly one board, 183 matrix rows with 0 duplicates, 1583 resources all explicitly declare `boards[]`.
@@ -7865,7 +7865,7 @@ paper-structure or mark-tariff detail.
 |---|---|---|
 | E488 | `igcse-economics-the-basic-economic-problem.md` | Removed the false claim that a movement from inside the PPC to on it counts as "economic growth in the short run"; rewrote the section (retitled "Economic growth vs fuller use of existing resources, on a PPC") to state the correct "actual growth" (movement toward the curve) vs "economic growth" (outward shift of the whole curve) distinction, matching the sibling file `igcse-economics-basic-problem-revision-notes.md`. Reworded Self-test Q3 to ask whether the movement counts as economic growth on this syllabus, and Answer 3 to state plainly that it does not, since maximum productive capacity hasn't changed. |
 | E493 | `ocr-a-level-economics-microeconomics-practice.md` | Restructured Section A from 5 separate numbered questions (28 marks) into one Question 1 with lettered parts 1(a)-1(e) matching the real OCR H460 June 2022 Section A shape: (a)[4] positive/normative, (b)[4] merit good, (c)[8] externality/subsidy, (d)[4] labour demand factors, and a new (e)[12] evaluative question on the effectiveness of the stimulus's maximum rent policy, folding in the previous price-ceiling content. Total 32 marks (close to the live paper's 30). Sections B/C renumbered accordingly. Answers rewritten to match, with a new three-part 12-mark answer (Effect/Unintended consequences/Judgement, 4 marks each) for 1(e). |
-| E493 | `ocr-a-level-economics-macroeconomics-practice.md` | Added a new stimulus paragraph (interest-rate cut, MPC, a ┬ú15m infrastructure spending proposal, and current-account-deficit concerns) and restructured Section A from 6 separate items (29 marks) into one Question 1 with lettered parts 1(a)-1(f): AD shift/movement, three policy types, multiplier calculation, ┬ú15m spending-effect, Phillips curve, and a new (f)[12] evaluative question on whether the interest-rate cut can stimulate growth without conflicting with other macro objectives, folding in the previous exchange-rate/BoP and demand-vs-supply-side content. Total unchanged at 29 marks. Sections B/C renumbered accordingly. Answers rewritten to match, with a new three-part 12-mark answer (Mechanism/Possible conflicts/Judgement, 4 marks each) for 1(f). |
+| E493 | `ocr-a-level-economics-macroeconomics-practice.md` | Added a new stimulus paragraph (interest-rate cut, MPC, a Γö¼├║15m infrastructure spending proposal, and current-account-deficit concerns) and restructured Section A from 6 separate items (29 marks) into one Question 1 with lettered parts 1(a)-1(f): AD shift/movement, three policy types, multiplier calculation, Γö¼├║15m spending-effect, Phillips curve, and a new (f)[12] evaluative question on whether the interest-rate cut can stimulate growth without conflicting with other macro objectives, folding in the previous exchange-rate/BoP and demand-vs-supply-side content. Total unchanged at 29 marks. Sections B/C renumbered accordingly. Answers rewritten to match, with a new three-part 12-mark answer (Mechanism/Possible conflicts/Judgement, 4 marks each) for 1(f). |
 | Q204 | `the-basic-economic-problem.md` (Cambridge O-Level Economics 2281) | Verified via `findstr` that this file has no `reviewer`/`reviewStatus` field at all -- D-166's corpus-wide reviewer-field removal (135 files, commit `412aaea`) already covered it. No edit made; documented here rather than left silently unaddressed. |
 | Q205 | `igcse-oxfordaqa-economics-markets-revision-notes.md`, `igcse-oxfordaqa-economics-how-markets-work.md` (OxfordAQA International GCSE Economics 9214) | Verified via `findstr` that both files teach cross elasticity of demand (XED) alongside PED/PES, not a fourth "YED" term as the finding worried might be missing or off-syllabus. Confirmed via a live WebFetch of the actual OxfordAQA 9214 specification (section 3.1.3.5) that XED is genuinely on-syllabus content, overriding the finding's own "unconfirmed" status. No edit made; verified correct. |
 
@@ -8130,7 +8130,7 @@ disappointing mark" claim with the paper's actual printed section timings
 of 35/40/45 minutes (E471, WebFetch-verified against the November 2023
 question paper), in all three resources.
 
-**E472 (practice paper) ΓÇö copyright-constrained resolution.** The finding's
+**E472 (practice paper) ╬ô├ç├╢ copyright-constrained resolution.** The finding's
 literal fix asks the practice paper to print the unseen poem and anthology
 poems it asks candidates to use. The real anthology poems are copyrighted
 texts; reproducing them in full would both risk infringement and conflict
@@ -8140,7 +8140,7 @@ such, not set texts) to supply the unseen-poem and comparison-poem practice
 that was previously unusable, and added the "choice of two questions in
 Section B and C" structure the finding also required. This is a deliberate,
 disclosed departure from the finding's literal wording for a legal/policy
-reason, not a missed fix ΓÇö the underlying defect (unusable, textless
+reason, not a missed fix ╬ô├ç├╢ the underlying defect (unusable, textless
 questions) is fully resolved. Extended the same fix to the file's second
 pair of practice questions (originally Q4/Q5) for consistency, though the
 finding's "Locate by" pointed only at the first pair.
@@ -8156,7 +8156,7 @@ guide and the A-Level Drama guide, all three of I215's flagged files).
 **A-Level Unit 1 (Post-2000 Poetry and Prose family).** Named the *Poems of
 the Decade* anthology (ISBN, ~22 poems by title reference rather than
 individually enumerated) and the 5-title prose list across guide, notes and
-practice (E470, WebFetch-verified ΓÇö a second WebFetch on the same PDF
+practice (E470, WebFetch-verified ╬ô├ç├╢ a second WebFetch on the same PDF
 returned a contradictory 12-title list; discarded that result since it
 conflicted with the finding's own text stating "the prose list is five
 titles"). Fixed the AO2 gloss from the IGCSE "language, form and structure"
@@ -8631,7 +8631,7 @@ before editing:
   AQA 7192 domestic A-Level content) and no stratification/social-
   mobility/poverty content at any level.
 - 9292 does have legitimate stratification content, but only in Paper 2
-  (3.2.1.3 Social class) ΓÇö and "cycle of deprivation" appears in neither
+  (3.2.1.3 Social class) ╬ô├ç├╢ and "cycle of deprivation" appears in neither
   9690 nor 9292 at all.
 - 9292's 3.2.2 Socialisation and Social Control has four parts, not
   three, and two of them have titles that are crossed with their actual
@@ -8642,38 +8642,38 @@ before editing:
 
 **Files fixed (14):**
 
-1. `a-level-oxfordaqa-sociology-introducing-sociology.md` ΓÇö E525, E526,
+1. `a-level-oxfordaqa-sociology-introducing-sociology.md` ╬ô├ç├╢ E525, E526,
    E533, Q214. Full rewrite: real 3.1.1 Families + 3.1.3 Research
    Methods content (named sociologists Engels, Oakley, Parsons, Smart,
    Stacey, Therborn), corrected syllabus citation and Unit 1 timing/
    marks (40+20/60, 1h45m).
-2. `a-level-oxfordaqa-sociology-exploring-sociology.md` ΓÇö E525, E526,
+2. `a-level-oxfordaqa-sociology-exploring-sociology.md` ╬ô├ç├╢ E525, E526,
    E533, Q214. Full rewrite: real 3.1.2 Socialisation and social
    control + 3.1.3 content (Cohen, Fanon, Goffman, Mead, Mills, Zuboff),
    corrected Unit 2 timing/marks.
 3. `oxfordaqa-a-level-sociology-exploring-sociology-revision-notes.md`
-   ΓÇö E526, Q214. Targeted numbering/timing corrections (2.1/2.2 to
+   ╬ô├ç├╢ E526, Q214. Targeted numbering/timing corrections (2.1/2.2 to
    real 3.1.2/3.1.3; Unit 2 structure and marks stated in full instead
    of deferred to unpublished sample materials).
-4. `oxfordaqa-a-level-sociology-practice.md` ΓÇö E527, E528, E529, E530.
+4. `oxfordaqa-a-level-sociology-practice.md` ╬ô├ç├╢ E527, E528, E529, E530.
    Full rewrite: removed suicide-debate/science-debate questions
    (wrong board) and the stratification/mobility block (doesn't exist
    in 9690); added the missing Families section; rebuilt to the real
    40+20=60 mark, two-section shape with reconciled mark schemes.
-5. `oxfordaqa-a-level-sociology-revision-notes.md` ΓÇö E528, Q209, Q210.
+5. `oxfordaqa-a-level-sociology-revision-notes.md` ╬ô├ç├╢ E528, Q209, Q210.
    Removed the off-spec "Social inequality" section (class/mobility/
    poverty/cycle-of-deprivation/glass-ceiling block), which also
    removed the two unsupported claims living inside it; updated
    self-test and exam traps to match.
-6. `igcse-oxfordaqa-sociology-socialisation.md` ΓÇö E531, Q215. "Three
+6. `igcse-oxfordaqa-sociology-socialisation.md` ╬ô├ç├╢ E531, Q215. "Three
    parts" corrected to "four," with part numbers/contents (not titles)
    used for 3.2.2.3/3.2.2.4; mark-scheme-behaviour claim reworded as
    general exam advice, flagged as such (first examined May/June 2028,
    no live mark scheme yet).
-7. `igcse-oxfordaqa-sociology-socialisation-revision-notes.md` ΓÇö E531,
+7. `igcse-oxfordaqa-sociology-socialisation-revision-notes.md` ╬ô├ç├╢ E531,
    Q215 (sibling of #6, same fixes; two separate mark-scheme claims
    reworded).
-8. `igcse-oxfordaqa-sociology-practice.md` ΓÇö E530, E532. Full rewrite:
+8. `igcse-oxfordaqa-sociology-practice.md` ╬ô├ç├╢ E530, E532. Full rewrite:
    the entire old paper was Paper 2 Differences-and-Inequalities-shaped
    content mistagged as Paper 1; rebuilt around real Paper 1 content
    (Families 3.1.1/22, Education 3.1.2/22, Research methods 3.1.3/16
@@ -8681,27 +8681,27 @@ before editing:
    verified from the live spec (Engels, Oakley, Parsons, Smart, Stacey,
    Therborn for Families; Becker, Bourdieu, Davis and Moore, Freire,
    Illich, Samson for Education).
-9. `igcse-oxfordaqa-sociology-revision-notes.md` ΓÇö E532, Q210. Same
+9. `igcse-oxfordaqa-sociology-revision-notes.md` ╬ô├ç├╢ E532, Q210. Same
    diagnosis and same full rewrite as #8 (Identity and Social-
    inequality sections were Paper 2 content; replaced with real Paper 1
    Families/Education content, Research methods section kept as
    legitimately shared).
-10. `igcse-oxfordaqa-sociology-introducing-sociology.md` ΓÇö E533. Full
+10. `igcse-oxfordaqa-sociology-introducing-sociology.md` ╬ô├ç├╢ E533. Full
     rewrite of the body content: syllabus-coverage numbering corrected
     (1.1/1.2/1.3 to 3.1.1/3.1.2/3.1.3) and the generic "Thinking
     sociologically"/perspectives content replaced with real Families
     and Education sections, so the guide now actually delivers the two
     main topics it claims to cover.
-11. `igcse-sociology-research-methods-identity-and-inequality.md` ΓÇö
+11. `igcse-sociology-research-methods-identity-and-inequality.md` ╬ô├ç├╢
     Q209. Reworded the "narrows once class is controlled for" claim to
     describe class/ethnicity as interacting and contested, not settled.
-12. `igcse-sociology-methods-inequality-revision-notes.md` ΓÇö Q209,
+12. `igcse-sociology-methods-inequality-revision-notes.md` ╬ô├ç├╢ Q209,
     Q210. Both claims reworded (life-chances "strongest predictor" and
     ethnicity/class interaction).
-13. `o-level-sociology-methods-revision-notes.md` ΓÇö Q209, Q210. Same
+13. `o-level-sociology-methods-revision-notes.md` ╬ô├ç├╢ Q209, Q210. Same
     two claims reworded in the main text, plus the self-test Q5 answer
     which restated the Q209 claim.
-14. `aqa-gcse-sociology-families-education-revision-notes.md` ΓÇö Q209
+14. `aqa-gcse-sociology-families-education-revision-notes.md` ╬ô├ç├╢ Q209
     follow-up (file already edited in D-177 for E522; this batch's
     edit is additive, not a re-read from scratch).
 
@@ -8720,7 +8720,7 @@ Pagefind, clean, 158s) -> `check-duplicate-resource-scope.mjs` (PASS,
 vulnerabilities) -> `coverage:academic-v2` (160/160) -> `audit:all`
 (12/12 sub-audits, 0 problems).
 
-**This closes the Sociology cluster** ΓÇö D-176 + D-177 + D-178, 36
+**This closes the Sociology cluster** ╬ô├ç├╢ D-176 + D-177 + D-178, 36
 findings total (E507-E533, I220, I221, Q209-Q215).
 
 **Next.** World History (34 findings: E534-E562, I222-I224, Q216-Q217),
@@ -8731,7 +8731,7 @@ not yet started.
 
 Fixed the full Cambridge-board World History sub-cluster of the
 2026-09-11 audit: 13 finding IDs across O-Level History (2147), IGCSE
-History (0470) and AS & A Level History (9489) ΓÇö E534 through E542,
+History (0470) and AS & A Level History (9489) ╬ô├ç├╢ E534 through E542,
 I223, I224, Q216 and Q217. This is the first of several sub-batches
 covering the World History section (34 finding IDs total: E534-E562,
 I222-I224, Q216-Q217); the remaining
@@ -8740,13 +8740,13 @@ AQA GCSE 8145, IB DP History, Edexcel IGCSE 4HI1 and OxfordAQA IGCSE
 
 **Files touched (18):**
 
-1. `o-level-world-history-depth-studies.md` ΓÇö E534. Rewrote the
+1. `o-level-world-history-depth-studies.md` ╬ô├ç├╢ E534. Rewrote the
    intro, "Where this fits", "How to approach it" and "Common
    mistakes" sections: O-Level 2147 Depth Studies are examined on
    **Paper 1, Section B** as three-part structured essays (AO1/AO2),
-   not on Paper 2 as source-based questions ΓÇö removed the "source
+   not on Paper 2 as source-based questions ╬ô├ç├╢ removed the "source
    evaluation is the single most valuable skill" framing.
-2. `o-level-world-history-twentieth-century-1919-1989.md` ΓÇö E534,
+2. `o-level-world-history-twentieth-century-1919-1989.md` ╬ô├ç├╢ E534,
    E535, E538, I223, Q217. Retitled throughout to "International
    Relations since 1919" (no end date, per the syllabus's own
    wording); key question 2.5 rewritten to the three named case
@@ -8755,77 +8755,77 @@ AQA GCSE 8145, IB DP History, Edexcel IGCSE 4HI1 and OxfordAQA IGCSE
    Paper 1 (zero source marks, Section A structured essays) vs Paper 2
    (document paper) framing; removed the unfalsifiable "independently
    confirmed against 2147's own syllabus PDF" self-certifying claim.
-3. `o-level-world-history-twentieth-century-revision-notes.md` ΓÇö
+3. `o-level-world-history-twentieth-century-revision-notes.md` ╬ô├ç├╢
    E535, E538, I223. Same retitle; same Korea/Cuba/Vietnam correction;
    replaced the section claiming Paper 1 rewards source-plus-knowledge
    technique with one stating Paper 1 carries no source marks.
-4. `igcse-world-history-twentieth-century-1919-1989.md` ΓÇö E541,
+4. `igcse-world-history-twentieth-century-1919-1989.md` ╬ô├ç├╢ E541,
    I223. Retitled; corrected the League of Nations 1920s
    classification (Aaland Islands and Bulgaria = successes; Vilna and
-   Corfu = failures ΓÇö this file had listed Vilna as a success).
-5. `igcse-world-history-twentieth-century-revision-notes.md` ΓÇö
+   Corfu = failures ╬ô├ç├╢ this file had listed Vilna as a success).
+5. `igcse-world-history-twentieth-century-revision-notes.md` ╬ô├ç├╢
    E541, I223. Same retitle and League of Nations correction (this
    file had listed all four disputes as successes).
-6. `a-level-world-history-modern-europe-1750-1921.md` ΓÇö E536, I224.
+6. `a-level-world-history-modern-europe-1750-1921.md` ╬ô├ç├╢ E536, I224.
    Full rewrite, rebased from the expired 2026-series Cambridge
    9489 syllabus onto the 2027-2029 successor: three topics only
    (France 1774-1814; German unification 1815-71; Russia from
-   autocracy to revolution 1881-1924 ΓÇö the Industrial Revolution in
+   autocracy to revolution 1881-1924 ╬ô├ç├╢ the Industrial Revolution in
    Britain topic is dropped entirely), fixed three-year rotation
    table added, syllabus citation updated.
-7. `a-level-world-history-international-1870-1945.md` ΓÇö E536, I224.
+7. `a-level-world-history-international-1870-1945.md` ╬ô├ç├╢ E536, I224.
    Rebased onto 2027-2029: retitled to "1870-1939", three topics
    (China and Japan dropped), sections renumbered 7/8/9, rotation
    table added.
-8. `a-level-world-history-usa-1820-1941.md` ΓÇö E536, I224. Full
+8. `a-level-world-history-usa-1820-1941.md` ╬ô├ç├╢ E536, I224. Full
    rewrite, rebased onto 2027-2029: the former separate "Origins of
    the Civil War" and "Civil War and Reconstruction" topics merged
    into one Section 4 topic, sections renumbered 4/5/6.
-9. `a-level-world-history-usa-revision-notes.md` ΓÇö I224. Rebased
+9. `a-level-world-history-usa-revision-notes.md` ╬ô├ç├╢ I224. Rebased
    onto 2027-2029, same Civil War/Reconstruction merge and
    renumbering.
-10. `a-world-history-modern-europe-revision-notes.md` ΓÇö E537, I224.
+10. `a-world-history-modern-europe-revision-notes.md` ╬ô├ç├╢ E537, I224.
     Full rewrite: removed off-option Italian unification and WWI-origins
     content that had been substituted for the actual, dropped
     Industrial Revolution topic; added a genuine Russia
     1881-1924 section.
 11. `a-level-world-history-international-1870-1945-revision-notes.md`
-    ΓÇö I224. Full rewrite, rebased onto 2027-2029, China/Japan section
+    ╬ô├ç├╢ I224. Full rewrite, rebased onto 2027-2029, China/Japan section
     removed.
-12. `a-level-world-history-international-1870-1945-practice.md` ΓÇö
+12. `a-level-world-history-international-1870-1945-practice.md` ╬ô├ç├╢
     I224. Rebased onto 2027-2029; the Japan-continuity worked example
     (which depended on the now-dropped China/Japan topic) replaced
     with a Germany-continuity example spanning Sections 7 and 9.
-13. `a-level-world-history-usa-practice.md` ΓÇö I224. Metadata and
+13. `a-level-world-history-usa-practice.md` ╬ô├ç├╢ I224. Metadata and
     citation rebased onto 2027-2029.
-14. `a-world-history-modern-europe-practice.md` ΓÇö E536, E539, E540,
+14. `a-world-history-modern-europe-practice.md` ╬ô├ç├╢ E536, E539, E540,
     I224, Q216. Full rebuild: rebased onto 2027-2029 (three topics),
     and restructured from an invented two-section format onto the
     syllabus's real Paper 1 (one two-part Historical Sources question,
     40 marks, with actual hypothetical sources supplied) and Paper 2
     (two two-part Outline Study questions, 60 marks) shape; fixed a
     12-mark question whose scheme awarded 14.
-15. `world-history-nineteenth-century-practice.md` ΓÇö E539, E540,
+15. `world-history-nineteenth-century-practice.md` ╬ô├ç├╢ E539, E540,
     Q216. Restructured from an invented "Section A/B" short-answer
     format onto the real IGCSE 0470 Paper 1 (three-part structured
     essays, Section A) and Paper 2 (document question with three
     supplied sources) shape; fixed a 12-mark question whose scheme
     awarded 13; command-word stems changed to the syllabus's own
     "Describe"/"Explain"/"How far do you agree".
-16. `world-history-twentieth-century-practice.md` ΓÇö E539, E540,
+16. `world-history-twentieth-century-practice.md` ╬ô├ç├╢ E539, E540,
     E542, I223. Same structural rebuild; retitled to "International
     Relations since 1919"; fixed a 10-mark question under-awarding 9
     and another under-awarding 8; fixed the Solidarity/Gorbachev
     anachronism (the 1980 founding of Solidarity was wrongly used as
     evidence of a policy shift under Gorbachev, who took office in
     1985, and the answer had ignored that 1981 martial law contradicts
-    an "opposition existed without suppression" framing ΓÇö rewritten to
+    an "opposition existed without suppression" framing ╬ô├ç├╢ rewritten to
     separate Solidarity's 1980-81 emergence and suppression from
     Gorbachev's actual later policy shift).
-17. `o-level-world-history-nineteenth-century-practice.md` ΓÇö E539,
+17. `o-level-world-history-nineteenth-century-practice.md` ╬ô├ç├╢ E539,
     Q216. Same structural rebuild onto O-Level 2147's real Paper
     1/Paper 2 shape; command words corrected to "Describe"/"Explain".
-18. `o-level-world-history-twentieth-century-practice.md` ΓÇö E539
+18. `o-level-world-history-twentieth-century-practice.md` ╬ô├ç├╢ E539
     (post-baseline, 5th file named in the finding's own text), E538.
     Same structural rebuild; the US-containment question rewritten
     onto the three named case studies (Korea, Cuba, Vietnam) instead
@@ -8834,7 +8834,7 @@ AQA GCSE 8145, IB DP History, Edexcel IGCSE 4HI1 and OxfordAQA IGCSE
 **Verification method:** WebFetch against the live Cambridge 9489
 (2027-2029), 0470 (2024-2026) and 2147 (2024-2026) syllabus PDFs for
 exact assessment structure (paper/section/question shapes, topic
-rotation), command-word glossaries, and ΓÇö for the A-Level rebase ΓÇö the
+rotation), command-word glossaries, and ╬ô├ç├╢ for the A-Level rebase ╬ô├ç├╢ the
 specific topics dropped or merged between the 2026 and 2027-2029
 syllabus versions, each confirmed with a targeted follow-up fetch
 requesting a verbatim quote before removing existing content.
@@ -8848,7 +8848,7 @@ vulnerabilities) -> `coverage:academic-v2` (160/160) -> `audit:all`
 (12/12 sub-audits, 0 problems). One issue was caught and fixed inside
 this gate: the first `audit:metadata` run flagged 3 duplicate meta
 descriptions (the new practice-paper descriptions shared an
-over-long common prefix that collided once truncated) ΓÇö shortened and
+over-long common prefix that collided once truncated) ╬ô├ç├╢ shortened and
 front-loaded the distinguishing content in each, rebuilt, and the
 re-run passed clean.
 
@@ -9039,7 +9039,7 @@ E551-E554, E562, I222; OxfordAQA IGCSE 9245: E555-E560; E561 already
 closed under D-180), not yet started.
 
 
-## D-182 ΓÇö Edexcel IGCSE 4HI1 World History sub-batch (E551-E554, E562, I222)
+## D-182 ╬ô├ç├╢ Edexcel IGCSE 4HI1 World History sub-batch (E551-E554, E562, I222)
 
 **Scope.** Five findings against Pearson Edexcel International GCSE History
 (4HI1) World History resources: E551 (Paper 1's revision notes invented a
@@ -9059,14 +9059,14 @@ a summary table).
 
 
 1. `edexcel-igcse-world-history-depth-studies-revision-notes.md` (E551,
-   I222) ΓÇö replaced the "source evaluation ΓÇö the skill the paper is built
+   I222) ╬ô├ç├╢ replaced the "source evaluation ╬ô├ç├╢ the skill the paper is built
    on" section (NOP framework, "how far do sources agree") with a section
    on working with the extract, stating Paper 1's 0% AO3, quoting the real
    6-mark part (a) stem, and redirecting cross-referencing to the Paper 2
    revision notes. Renumbered the eight Depth Study options table from
    1.1-1.8 to 1-8. Fixed frontmatter description, exam-traps bullets, and
    self-test questions/answers to match.
-2. `igcse-edexcel-world-history-paper-1-depth-studies.md` (I222) ΓÇö
+2. `igcse-edexcel-world-history-paper-1-depth-studies.md` (I222) ╬ô├ç├╢
    renumbered the "Syllabus coverage" list and "at a glance" table from
    1.1-1.8 to 1-8, and restored option 6's full title ("A World Divided:
    Superpower Relations, 1943-72") in the summary table, where it had been
@@ -9074,7 +9074,7 @@ a summary table).
    complete phrase.
 
 3. `edexcel-igcse-world-history-paper-2-practice.md` (E552, E553, E554,
-   E562) ΓÇö full rebuild. Replaced the invented "usefulness" Section A/B
+   E562) ╬ô├ç├╢ full rebuild. Replaced the invented "usefulness" Section A/B
    (3/3/6/7/4/5-mark tariffs) with the board's real two-section, 6/8/16-mark
    structure: Section A (Historical Investigation) with a "describe two
    features" part (a), a genuine cross-referencing part (b) requiring both
@@ -9089,7 +9089,7 @@ a summary table).
    Investigation questions frequently reward... balanced comparison" claim),
    the marks-lost bullets, and the closing guidance to match. Fixed "13
    option combinations" to "13 options" in two places (E562).
-4. `edexcel-igcse-world-history-depth-studies-practice.md` (E553) ΓÇö full
+4. `edexcel-igcse-world-history-depth-studies-practice.md` (E553) ╬ô├ç├╢ full
    rebuild onto the real Paper 1 three-part structure, replacing the 3/3/9/
    9/9/10/4-mark questions with four full 6/8/16-mark questions (Weimar's
    early problems, the growth of Nazi support, Hitler's consolidation of
@@ -9099,7 +9099,7 @@ a summary table).
    "information of your own" (16). Reused the original answers' historical
    content, restructured onto the new mark scheme.
 5. `igcse-edexcel-world-history-paper-2-investigation-breadth-studies.md`
-   (E552) ΓÇö rewrote the "Worked example" section's invented "how far is one
+   (E552) ╬ô├ç├╢ rewrote the "Worked example" section's invented "how far is one
    source more useful" question into a genuine cross-referencing WEAK/STRONG
    pair (agreement and disagreement, not a usefulness verdict).
 
@@ -9117,7 +9117,7 @@ than the findings document's own citation, and confirms E552's and E553's
 claims independently. One disclosure: earlier in this project (D-180/D-181
 predecessor work), WebFetch could not retrieve pages ~71-103 of the Paper 2
 sample assessment materials PDF despite repeated targeted attempts, always
-returning the same cached Paper 1 excerpt ΓÇö this segment's discovery of the
+returning the same cached Paper 1 excerpt ╬ô├ç├╢ this segment's discovery of the
 real 4HI1/02 question paper resolved that gap independently, so E552's and
 E554's Paper 2-specific claims are now independently verified against a real
 exam paper, not solely against the findings document's own citation.
@@ -9135,10 +9135,10 @@ This closes the Edexcel IGCSE 4HI1 portion of World History entirely
 (E551-E554, E561 (D-180), E562, I222 all closed).
 
 
-## D-183 ΓÇö OxfordAQA IGCSE 9245 World History sub-batch (E555-E560)
+## D-183 ╬ô├ç├╢ OxfordAQA IGCSE 9245 World History sub-batch (E555-E560)
 
 **Scope.** Six findings against OxfordAQA International GCSE History
-(9245) ΓÇö a brand-new qualification, first teaching September 2026, first
+(9245) ╬ô├ç├╢ a brand-new qualification, first teaching September 2026, first
 examined May/June 2028, so no live past papers exist to reproduce. E555
 (the Paper 1 study guide claimed its options were "not yet named" while
 linking the specification that names all six). E556 (no resource
@@ -9156,7 +9156,7 @@ start year as 1919 instead of the real 1920).
 
 
 1. `igcse-oxfordaqa-world-history-international-relations-depth-studies.md`
-   (E555, E556, E559) ΓÇö "specific options are set by OxfordAQA and
+   (E555, E556, E559) ╬ô├ç├╢ "specific options are set by OxfordAQA and
    confirmed closer to first teaching" replaced with all six named
    options and the real one-from-two (Section A, source-based) plus
    one-from-four (Section B, knowledge-based) structure. Added a new
@@ -9167,13 +9167,13 @@ start year as 1919 instead of the real 1920).
    half of usefulness is not required). Frontmatter syllabusSeries
    corrected from "Version 1.0" to "Version 1.1".
 2. `igcse-world-history-international-relations-revision-notes.md`
-   (E556, E559) ΓÇö added the same pre-release mechanism section (this
+   (E556, E559) ╬ô├ç├╢ added the same pre-release mechanism section (this
    "final weeks" resource previously omitted it entirely) and replaced
    the NOP-only source framework with content+provenance+context,
    stating reliability is not tested. Frontmatter version corrected.
 
 3. `igcse-world-history-international-relations-practice.md` (E556,
-   E557, E558, E559) ΓÇö full rebuild onto the real two-section structure:
+   E557, E558, E559) ╬ô├ç├╢ full rebuild onto the real two-section structure:
    Section A (source-based, 4/6/8/12 marks) using the Peacemaking and
    League of Nations option with three full, dated, attributed
    illustrative sources; Section B (knowledge-based, 3/6/9/12 marks)
@@ -9183,18 +9183,18 @@ start year as 1919 instead of the real 1920).
    that exceeded their own tariffs (the 9-mark question's old scheme
    totalled 10; the old 10-mark question's scheme totalled 14 against a
    tariff that is properly 12). Frontmatter version corrected.
-4. `igcse-oxfordaqa-world-history-studies-in-change.md` (E559, E560) ΓÇö
+4. `igcse-oxfordaqa-world-history-studies-in-change.md` (E559, E560) ╬ô├ç├╢
    USA option corrected from "1919-1968" to "1920-1968" in the options
    list; frontmatter version corrected. This file's existing two-section
    structure was already correct and needed no structural change.
 5. `igcse-oxfordaqa-world-history-studies-in-change-practice.md` (E557,
-   E559, E560) ΓÇö full rebuild removing the invented third ("Section C")
+   E559, E560) ╬ô├ç├╢ full rebuild removing the invented third ("Section C")
    and its 8/10-mark questions that exist on neither real section;
    rebuilt onto the real two-section, 3/6/9/12-mark structure with
    levels-of-response answers. USA option year and frontmatter version
    corrected in the disclaimer blockquote.
 6. `igcse-oxfordaqa-world-history-studies-in-change-revision-notes.md`
-   (E559, E560) ΓÇö USA option year and frontmatter version corrected.
+   (E559, E560) ╬ô├ç├╢ USA option year and frontmatter version corrected.
 
 
 **Verification method.** Fetched the live OxfordAQA International GCSE
@@ -9210,7 +9210,7 @@ extended/12-mark questions) rather than points; Paper 2's exact
 "Societies in change" (3 options) and "Thematic studies" (2 options)
 section titles and their own 3/6/9/12 tariffs; the USA option's real
 title, "Life in the USA, 1920-1968"; and the qualification's three
-assessment objectives (AO1 37.5%, AO2 37.5%, AO3 25%) ΓÇö confirming this
+assessment objectives (AO1 37.5%, AO2 37.5%, AO3 25%) ╬ô├ç├╢ confirming this
 board has no separate fourth "interpretations" objective, unlike AQA
 GCSE 8145 or Edexcel 4HI1 covered in D-180/D-182. No official past
 papers or specimen mark schemes exist yet for this not-yet-live
@@ -9218,7 +9218,7 @@ qualification (first assessment May/June 2028), so all illustrative
 question wording in the rebuilt practice papers is original, matching
 only the specification's confirmed structural facts (sections, options,
 tariffs, pre-release mechanism, question-type restrictions, levels-based
-marking) ΓÇö never a claimed official stem, since none exists to cite.
+marking) ╬ô├ç├╢ never a claimed official stem, since none exists to cite.
 
 **Full validation gate green end to end:** `astro check` (0 errors) ->
 `validate:academic` (all sub-validators PASS) -> `npm run build`
@@ -9231,14 +9231,14 @@ vulnerabilities) -> `coverage:academic-v2` (160/160) -> `audit:all`
 **Next.** This closes the entire World History section of the audit
 (34 finding IDs total across D-179 through D-183: E534-E562,
 I222-I224, Q216-Q217). Whatever findings section follows World History
-in `docs/audit/2026-09-11-findings.md` has not yet been confirmed ΓÇö
+in `docs/audit/2026-09-11-findings.md` has not yet been confirmed ╬ô├ç├╢
 check whether the document continues past E562/I222-I224/Q216-Q217
 before starting further work.
 
 
-## D-184 ΓÇö Full closure confirmed: `docs/audit/2026-09-11-findings.md` (2026-09-11)
+## D-184 ╬ô├ç├╢ Full closure confirmed: `docs/audit/2026-09-11-findings.md` (2026-09-11)
 
-**Verification-only entry ΓÇö no content files changed.** D-183 closed the World History
+**Verification-only entry ╬ô├ç├╢ no content files changed.** D-183 closed the World History
 section, the last of this findings document's 12 sections in file order. Before treating the
 document as fully processed, every other section was independently re-checked against
 `docs/decision-log.md` and `C:\Users\Nouman\marlbridge-fix-ledger.md` rather than assumed, since
@@ -9246,22 +9246,22 @@ the last "Next" note in D-183 explicitly flagged this as unconfirmed. Result: **
 `docs/audit/2026-09-11-findings.md` is closed.** 179 finding IDs total, mapped below to the exact
 decision(s) that closed each section:
 
-- **corpus-wide / no single file** (12) ΓÇö D-165 (E568), D-166 (E569/Q204), D-167 (E491, E570,
+- **corpus-wide / no single file** (12) ╬ô├ç├╢ D-165 (E568), D-166 (E569/Q204), D-167 (E491, E570,
   E571, I212, U22, U21/U24).
-- **accounting; business; commerce; law; sociology** (1) ΓÇö D-167 (E491, shared with corpus-wide
+- **accounting; business; commerce; law; sociology** (1) ╬ô├ç├╢ D-167 (E491, shared with corpus-wide
   above).
-- **business** (3) ΓÇö D-168 (E489, E492, E494).
-- **chemistry** (2) ΓÇö D-168 (E486, E487).
-- **computer-science** (16) ΓÇö D-169 (E496, E497, E498, E499, E500, E501, E502, E503, E504, E505,
+- **business** (3) ╬ô├ç├╢ D-168 (E489, E492, E494).
+- **chemistry** (2) ╬ô├ç├╢ D-168 (E486, E487).
+- **computer-science** (16) ╬ô├ç├╢ D-169 (E496, E497, E498, E499, E500, E501, E502, E503, E504, E505,
   E506, I218, I219, Q206, Q207, Q208).
-- **economics** (4) ΓÇö D-170 (E488, E493, Q204, Q205).
-- **english** (1) ΓÇö D-168 (I226).
-- **english-literature** (58) ΓÇö D-172 (AQA, 14), D-173 (Cambridge, 10), D-174 (Edexcel, 19),
+- **economics** (4) ╬ô├ç├╢ D-170 (E488, E493, Q204, Q205).
+- **english** (1) ╬ô├ç├╢ D-168 (I226).
+- **english-literature** (58) ╬ô├ç├╢ D-172 (AQA, 14), D-173 (Cambridge, 10), D-174 (Edexcel, 19),
   D-175 (OxfordAQA, 15).
-- **geography** (11) ΓÇö D-171 (E563-E567, I225, Q218-Q221, U23).
-- **physics** (1) ΓÇö D-168 (E485).
-- **sociology** (36) ΓÇö D-176 (Cambridge, 14), D-177 (AQA, 9), D-178 (OxfordAQA, 13).
-- **world-history** (34) ΓÇö D-179 (Cambridge, 13), D-180 (AQA GCSE 8145), D-181 (IB DP History),
+- **geography** (11) ╬ô├ç├╢ D-171 (E563-E567, I225, Q218-Q221, U23).
+- **physics** (1) ╬ô├ç├╢ D-168 (E485).
+- **sociology** (36) ╬ô├ç├╢ D-176 (Cambridge, 14), D-177 (AQA, 9), D-178 (OxfordAQA, 13).
+- **world-history** (34) ╬ô├ç├╢ D-179 (Cambridge, 13), D-180 (AQA GCSE 8145), D-181 (IB DP History),
   D-182 (Edexcel IGCSE 4HI1), D-183 (OxfordAQA IGCSE 9245).
 
 **How this was checked.** `docs/audit/2026-09-11-findings.md`'s own section headers were listed
@@ -9275,13 +9275,13 @@ above; nothing in the document is unaccounted for.
 **What this means going forward.** There is currently no further work queued against this
 findings document. `docs/audit/README.md` describes the drop-folder convention: the external
 auditor drops each new dated handoff file directly into `docs/audit/`, and a file stays in place
-once fully processed as a historical record ΓÇö the decision log remains the authoritative account
+once fully processed as a historical record ╬ô├ç├╢ the decision log remains the authoritative account
 of what was done. The next unit of work for this project is whatever findings file, if any,
 appears next in `docs/audit/` (currently only `2026-09-11-findings.md` exists, now fully closed)
-ΓÇö this should be checked for at the start of the next session before assuming there is nothing
+╬ô├ç├╢ this should be checked for at the start of the next session before assuming there is nothing
 left to do.
 
-**No validation gate run for this entry** ΓÇö no source, content, or schema files changed; this is
+**No validation gate run for this entry** ╬ô├ç├╢ no source, content, or schema files changed; this is
 a documentation-only cross-check of prior work already validated and committed under its own
 decision entries (D-165 through D-183).
 
@@ -9597,8 +9597,8 @@ attention, in this order").
 
 **Part 1 -- E491 downgraded, and the standing correction to method.**
 The auditor downgraded E491 from Confirmed error to Inconsistency:
-Cambridge IGCSE Business Studies 0450 ┬º4 p.26 and Cambridge O Level
-Business Studies 7115 ┬º4 p.26 both state their command-word table
+Cambridge IGCSE Business Studies 0450 Γö¼┬║4 p.26 and Cambridge O Level
+Business Studies 7115 Γö¼┬║4 p.26 both state their command-word table
 "includes" the words used in assessment -- non-exhaustive language --
 and 0450's own subject content uses "Recommend and justify" in
 thirteen numbered bullets (e.g. 2.2.3), so `Recommend` (and, by the
@@ -9648,9 +9648,9 @@ fixed.**
 
 | Finding ID | File | What changed |
 |---|---|---|
-| E664 | `igcse-world-history-international-relations-practice.md` | The pre-released/unseen source declaration was backwards: Sources A and C (used in the unseen-only Q1 and Q3, per spec ┬º4.4.1) were declared pre-released, and D/E (unused by those items) declared unseen. Swapped: B, D and E are now pre-released; A and C are unseen -- satisfying Q1, Q2 and Q3 simultaneously. |
+| E664 | `igcse-world-history-international-relations-practice.md` | The pre-released/unseen source declaration was backwards: Sources A and C (used in the unseen-only Q1 and Q3, per spec Γö¼┬║4.4.1) were declared pre-released, and D/E (unused by those items) declared unseen. Swapped: B, D and E are now pre-released; A and C are unseen -- satisfying Q1, Q2 and Q3 simultaneously. |
 | E665 | same file | Q3's (8-mark) mark scheme ran three levels (1-3, 4-5, 6-8) against the board's four (1-2, 3-4, 5-6, 7-8), the one outlier in the file. Rebuilt to four levels on the board's boundaries. |
-| E666 | same file | Q2's (6-mark) top level demanded provenance the specification does not assess there (┬º4.4.1 requires "content of each and their own knowledge"); rewrote the top level to use content and own knowledge, not provenance. Q3's stem ("How useful is...") and rubric ("content and/or provenance") also corrected to the board's actual command ("Why is Source C useful to a historian studying...") and conjunction ("content and provenance"). |
+| E666 | same file | Q2's (6-mark) top level demanded provenance the specification does not assess there (Γö¼┬║4.4.1 requires "content of each and their own knowledge"); rewrote the top level to use content and own knowledge, not provenance. Q3's stem ("How useful is...") and rubric ("content and/or provenance") also corrected to the board's actual command ("Why is Source C useful to a historian studying...") and conjunction ("content and provenance"). |
 | E667 | `igcse-oxfordaqa-world-history-studies-in-change-practice.md` | Both 12-mark items (Section A Q4, Section B Q8) lacked the statement-stem + "how far do you agree" + "at least one other" structure the E661 fix already established in the sibling international-relations file. Rewrote both stems and their Level 3/4 descriptors to require weighing the candidate's chosen area/factor against at least one other, reaching a judgement on relative importance -- matching the E661 pattern exactly. |
 | E668 | `igcse-oxfordaqa-world-history-international-relations-depth-studies.md` | A worked "how far do you agree" essay was set on Peacemaking and the League of Nations, a Section A option the same guide correctly states is "entirely source-based" -- Section A never carries an open knowledge essay. Replaced the worked example's topic with Hitler's foreign policy (a genuine Section B, knowledge-based option), added a note explaining why Section A cannot carry this question type, and added the missing opening 3-mark identification item to "What Section B requires." |
 | E669 | `edexcel-igcse-world-history-paper-2-practice.md` | The intro claimed both sections' 16-mark items "draw on source material," but Section B's Breadth Study 16-mark item carries no source in the real Sample Assessment Materials -- only prompt bullets plus own knowledge. Corrected the intro to state the two sections' 16-mark items differently, and rebuilt question 2(c) to drop the invented "Source D," reworking both the question and its model answer to the real bullet-prompt format. |
@@ -9758,7 +9758,7 @@ auditor's next findings drop in `docs/audit/`.
 | E678 | `aqa-a-level-law-nature-practice.md` | Retariffed Q6 (access to justice evaluation) from 12 to 15 -- its own scheme (5 achieved + 6 not-achieved + 4 judgement) totals 15. |
 | Q250 | `aqa-a-level-law-nature-practice.md` | Q2 now asks for the specification's own three elements of the rule of law (no one above the law; equality before the law; fairness and clarity) rather than attributing a formulation to Dicey that the specification doesn't use; Dicey's version kept as background only. |
 | Q251 | `aqa-a-level-law-nature-practice.md` | Q4 replaced: natural law vs legal positivism (not AQA 7162 content) swapped for law and morality in a pluralist society, which is the section's actual content. The two theories this board omits were already added to the board that does require them in D-192 (E685). |
-| E681 | `a-law-the-law-in-action-practice.md` | Retariffed Q3 (8ΓåÆ7), Q4 (7ΓåÆ6, and de-emphasised the coincidence sentence's stray credit since the stem doesn't ask for it) and Q7 (6ΓåÆ4) to match what each scheme actually credits once "one defence"/"two ways" alternatives are read correctly rather than added up flat. |
+| E681 | `a-law-the-law-in-action-practice.md` | Retariffed Q3 (8╬ô├Ñ├å7), Q4 (7╬ô├Ñ├å6, and de-emphasised the coincidence sentence's stray credit since the stem doesn't ask for it) and Q7 (6╬ô├Ñ├å4) to match what each scheme actually credits once "one defence"/"two ways" alternatives are read correctly rather than added up flat. |
 | E682 | `a-law-underlying-principles-practice.md` | Q3's two delegated-legislation controls changed from 2 marks each to 1 mark each (3 types x2 + 2 controls x1 = 8, matching the stated tariff; previously totalled 10). |
 | E686 | `a-level-edexcel-law-the-law-in-action.md` | Rewrote the criminal damage bullet so the offence and its lawful-excuse defence (s5) are grammatically separate -- the original read as if the offence itself were a defence. |
 | E688 | `aqa-a-level-law-criminal-liability-practice.md` | Q10 stem changed from "explain two ways" to "explain four ways" -- the scheme already credits four distinct ways at 1 mark each against a 4-mark tariff. |
@@ -9798,13 +9798,13 @@ auditor's next findings drop in `docs/audit/`.
 | E696 | `o-level-islamiyat-paper-1.md`, `o-level-islamiyat-paper-1-revision-notes.md`, `o-level-islamiyat-paper-1-practice.md`, `o-level-islamiyat-paper-2.md`, `o-level-islamiyat-paper-2-practice.md`, `o-level-islamiyat-paper-2-revision-notes.md` | `syllabusSeries` corrected from the expired "2024-2025" to the current "2026-2027" across all six resources of this code; the three files with body prose/citations also updated (correct series wording, current syllabus PDF link, and a note that a version-2 syllabus for the 2028 series has since been published). |
 | E692 | `o-level-islamiyat-paper-2-practice.md` | Removed the standalone "Section C" technique-only question (how to answer, not what to know) -- its 6 marks were also exactly what pushed the paper's total to 56 against a stated 50; removing it fixes both problems at once (Q1-6 alone total 50). |
 | E695 | `igcse-islamiyat-muslim-life-revision-notes.md` | Replaced the invented "both sides and a judgement are required" evaluation rule with the specimen scheme's actual capping rules: more than one point of significance, and direct use of the given passage. |
-| E698 | `o-level-islamiyat-paper-1-revision-notes.md` | Mapping table's two single-question rows (Q3ΓåÆ1.3, Q4ΓåÆ1.4) merged into one row covering Questions 3-5 across both sub-topics, since the syllabus sets one or two questions on each and doesn't fix a 1:1 mapping -- matching the live June 2024 paper (2 questions on 1.3, 1 on 1.4 that year) and the prose immediately above the table, which already said this correctly. |
+| E698 | `o-level-islamiyat-paper-1-revision-notes.md` | Mapping table's two single-question rows (Q3╬ô├Ñ├å1.3, Q4╬ô├Ñ├å1.4) merged into one row covering Questions 3-5 across both sub-topics, since the syllabus sets one or two questions on each and doesn't fix a 1:1 mapping -- matching the live June 2024 paper (2 questions on 1.3, 1 on 1.4 that year) and the prose immediately above the table, which already said this correctly. |
 | E699 | `igcse-islamiyat-muslim-life-practice.md` | Wudu answer changed from "ritual washing of the body" to "ritual washing of specified parts (face, hands and forearms, wiping the head, and the feet)" -- washing the whole body is a distinct, differently-named act. |
 | E700 | `igcse-cambridge-islamiyat-paper-2.md` | "one or two questions... on each of Paper 2's first three topics" corrected to the last two topics (2.3, 2.4); added the syllabus's own note that 2.2's question is usually multi-part and essay-length. |
 | I290 | `igcse-oxfordaqa-islamiyat-living-muslim-life.md` | `syllabusSeries` changed from "Version 1.1" (a document version) to "2026-onwards" (an exam series) -- the document version stays in the Official Syllabus citation lower in the file, which already carried it. |
 | I291 | `igcse-islamiyat-muslim-life-practice.md`, `igcse-islamiyat-muslim-life-revision-notes.md` | Titles now name the board ("OxfordAQA IGCSE Islamiat: Living the Muslim Life...") instead of a bare "IGCSE Islamiyat..." that was indistinguishable from the six Cambridge-board resources in the same collection. Slugs left unchanged -- renaming them would need matching redirect entries, out of scope for a content-only pass. |
 | I292 | `igcse-oxfordaqa-islamiyat-living-muslim-life.md` | Title's spelling changed from "Islamiyat" to the board's own "Islamiat", matching the spelling already used in this file's own body and citations, and in every OxfordAQA Islamiyat finding's evidence line. |
-| I293 | `o-level-islamiyat-paper-2-revision-notes.md` | "Jihad ΓÇö its three meanings" changed to "a range of meanings, illustrated by three" -- the syllabus gives an open list, not a closed count. |
+| I293 | `o-level-islamiyat-paper-2-revision-notes.md` | "Jihad ╬ô├ç├╢ its three meanings" changed to "a range of meanings, illustrated by three" -- the syllabus gives an open list, not a closed count. |
 | I294 | `islamiyat-paper-1-revision-notes.md` | Description no longer claims coverage of "Cambridge IGCSE and O Level Islamiyat" when the frontmatter only carries the IGCSE 0493 code and a separate, correctly-tagged O-Level resource already exists. |
 | Q257 | `igcse-islamiyat-paper-1.md`, `o-level-islamiyat-paper-1.md`, `o-level-islamiyat-paper-2.md` | The claim "no topic list beyond these four sub-topics" softened to "no *numbered* sub-topic list", with the prescribed passage appendices (15 Qur'an passages for Paper 1's Question 1; the set passages for Paper 2's 2.1) named as the actual examinable content underneath the four headline sub-topics. |
 | Q258 | `igcse-oxfordaqa-islamiyat-living-muslim-life.md` | Description's "the full content of Paper 1" softened to "an overview of Paper 1" -- the file is missing roughly a dozen named requirements (early leadership figures, jihad's other meanings, named angels/prophets/scriptures, tithe, lesser pilgrimage, prescribed passages, etc.) that a genuine full-content claim would need to cover; extending the body itself is left for a future pass. |
@@ -9834,14 +9834,14 @@ auditor's next findings drop in `docs/audit/`.
 | Finding | File(s) | What changed |
 |---|---|---|
 | E701 | `igcse-pakistan-studies-history-and-culture-of-pakistan.md` | "Paper 2... organised around cross-cutting themes rather than a numbered topic list" corrected to Paper 2's real structure: eight numbered sections, with the four cross-cutting themes applied as guidance across them, not in place of them. |
-| E702 | `pakistan-studies-land-revision-notes.md` | "Tropic of Cancer crosses Pakistan" corrected to "runs just south of Pakistan (through India)" -- the Tropic sits at ~23┬░26'N, Pakistan's southern limit at ~23┬░35'N. |
-| E703 | `pakistan-studies-history-practice.md` | Retariffed Q6 (post-independence problems) 10ΓåÆ9 and Q7 (1857 consequences) 6ΓåÆ4, matching what each scheme actually credits once "any three"/"any two" is applied to the options offered. |
-| E704 | `igcse-oxfordaqa-pakistan-studies-landscape-practice.md` | Retariffed Q5 (renewable/non-renewable evaluation) 10ΓåÆ12 -- six credited elements at 2 marks each already totalled 12. |
+| E702 | `pakistan-studies-land-revision-notes.md` | "Tropic of Cancer crosses Pakistan" corrected to "runs just south of Pakistan (through India)" -- the Tropic sits at ~23Γö¼Γûæ26'N, Pakistan's southern limit at ~23Γö¼Γûæ35'N. |
+| E703 | `pakistan-studies-history-practice.md` | Retariffed Q6 (post-independence problems) 10╬ô├Ñ├å9 and Q7 (1857 consequences) 6╬ô├Ñ├å4, matching what each scheme actually credits once "any three"/"any two" is applied to the options offered. |
+| E704 | `igcse-oxfordaqa-pakistan-studies-landscape-practice.md` | Retariffed Q5 (renewable/non-renewable evaluation) 10╬ô├Ñ├å12 -- six credited elements at 2 marks each already totalled 12. |
 | E705, E706 | `pakistan-studies-history-practice.md` (+ O-Level equivalent), `igcse-oxfordaqa-pakistan-studies-history-and-culture-practice.md` | **Deferred** -- both need a genuine source-based compulsory first section (Cambridge) or real second/third-section questions on unrepresented syllabus content (OxfordAQA), which means authoring new original source extracts and questions, not editing existing ones. Not attempted this pass. |
 | E707 | `igcse-oxfordaqa-pakistan-studies-landscape-practice.md` | Internal "Section A"/"Section B" headers (which don't correspond to any real exam section, since every question here is 3.2.1 = Paper 2's actual Section A) renamed to "Short-answer questions" / "Extended questions", and a stray "Section B questions..." cross-reference in the prose fixed to match. |
 | E708 | `igcse-oxfordaqa-pakistan-studies-landscape-and-natural-resources.md`, `igcse-oxfordaqa-pakistan-studies-landscape-revision-notes.md` | Removed the unverifiable "Sections 2.3 and 2.4" numbering for the paper's two optional sections (a live fetch of the specification PDF to confirm the real numbers failed -- image-only extraction) in favour of "the paper's two optional sections", and corrected the claim that they "build on the economic and human geography established" in this compulsory section -- that geography is a separate compulsory topic, not something this sub-topic supplies. |
 | E709 | `igcse-oxfordaqa-pakistan-studies-history-and-culture.md`, `-revision-notes.md`, `-practice.md` | Removed the Faraizi movement (Cambridge-syllabus content) from all three OxfordAQA 9236 resources -- the timeline diagram, the prose account, and an accepted practice-question answer -- leaving Shah Waliullah and Syed Ahmad Barelvi, which this specification does require. |
-| E710 | `igcse-oxfordaqa-pakistan-studies-history-and-culture.md`, `-revision-notes.md`, `-practice.md` | Removed the 1916 Lucknow Pact from the compulsory-topic timeline and key dates in two files (not this specification's content for 1.1/1.2), and rebuilt practice Q7 to ask only about the Allahabad Address (retariffed 8ΓåÆ6) instead of pairing it with the Lucknow Pact. |
+| E710 | `igcse-oxfordaqa-pakistan-studies-history-and-culture.md`, `-revision-notes.md`, `-practice.md` | Removed the 1916 Lucknow Pact from the compulsory-topic timeline and key dates in two files (not this specification's content for 1.1/1.2), and rebuilt practice Q7 to ask only about the Allahabad Address (retariffed 8╬ô├Ñ├å6) instead of pairing it with the Lucknow Pact. |
 | Q272 | `igcse-oxfordaqa-pakistan-studies-history-and-culture-practice.md` | Q6 (pre-1857 reform movements) relabelled under an explicit "optional topic 1.3" heading rather than sitting among compulsory-topic questions, since roughly half of candidates won't have studied that option. |
 | E711 | `pakistan-studies-history-practice.md` | Nehru Report (1928) answer corrected: it replaced separate with joint electorates and reserved seats *only where Muslims were a minority* (refusing reservation in the two Muslim-majority provinces) -- not "no reserved seats" outright -- with the "rejected almost every Muslim demand" reading now attributed to contemporary Muslim League opinion rather than stated as the report's own effect. |
 | I295 | `igcse-pakistan-studies-history-and-culture-of-pakistan.md`, `pakistan-studies-history-revision-notes.md` | Added the 2028 restructuring warning (4-topic Paper 1, 2-from-3 Paper 2) that the O-Level (2059) sibling family already carried but the IGCSE (0448) family was missing entirely. |
@@ -9878,14 +9878,14 @@ auditor's next findings drop in `docs/audit/`.
 | E712, Q279 (corrected slug) | `ict-computer-systems-practice.md` | Q8/Q9 (effects on employment, teleworking -- not in this syllabus's "Effects of using IT" topic) replaced with genuine syllabus content: microprocessor-controlled devices in the home and in transport, each with a worked advantage/disadvantage. |
 | E718 | `ict-computer-systems-practice.md` | Q1 recast from "name the four components of the CPU or of a computer system" (two incompatible questions in one stem) to the processor/main memory/ROM/backing storage the syllabus actually requires. |
 | E713 | `a-ict-data-processing-practice.md` | Q6 (data protection legislation -- this board's IGCSE content, not this A-level's) replaced with batch vs. real-time transaction processing, content this file's own section requires. |
-| E720 | `a-ict-data-processing-practice.md` | Q4 retariffed 7ΓåÆ5 -- the scheme awards 5 for the 3 advantages the stem actually asks for, not all 5 it lists. |
+| E720 | `a-ict-data-processing-practice.md` | Q4 retariffed 7╬ô├Ñ├å5 -- the scheme awards 5 for the 3 advantages the stem actually asks for, not all 5 it lists. |
 | E721 | `a-ict-data-processing-practice.md` | Q3's untariffed, unscored lead-in line demoted to italicised context rather than a separate instruction with no marks. |
 | E714 | `a-level-cambridge-ict-data-processing-and-information.md` | Added a new "Encryption" section (symmetric/asymmetric, SSL/TLS, uses) -- the fifth of this section's five subtopics, previously entirely absent. |
 | E715, I307 | `a-level-cambridge-ict-data-processing-and-information.md` | Coverage statement and "how to approach it" text no longer describe the fifth subtopic as "the data-processing cycle" (a construct the syllabus doesn't use) -- now correctly describe processing methods, matching what the file's own body already taught. |
 | E716 | `a-level-cambridge-ict-data-processing-and-information.md` | Validation table extended from 6 to the syllabus's 9 checks (added lookup, consistency, limit); verification extended from 2 to include parity check, checksum, hash total and control total. |
 | E717, Q278 | `igcse-cambridge-ict-computer-systems.md` | "Embedded systems" removed from the syllabus's named computer types (replaced with "phablet", which the syllabus does name) in both the coverage statement and the comparison table; added the two missing subtopics (analogue/digital data conversion; AI and extended reality) as new sections; checklist extended to match. |
 | E719 | `a-level-ict-hardware-software-revision-notes.md` | RAS/fault-tolerance and MIPS/FLOPS reframed as applying to both mainframes and supercomputers (the syllabus's own shared characteristics list), with MIPS/FLOPS noted as conventionally, not exclusively, associated with one class each. |
-| E722 (4 instances across 3 files) | `igcse-computer-science-data-representation.md`, `o-level-computer-science-data-representation-practice.md` (├ù2), `data-representation-practice.md` | All four file-size calculations that divided by 1,000/1,000,000 recomputed on the syllabus-required 1,024 base: 1.44ΓåÆ1.37 MB, 2.65ΓåÆ2.52 MB, 30ΓåÆ29.3 KB, 1.44ΓåÆ1.37 MB. |
+| E722 (4 instances across 3 files) | `igcse-computer-science-data-representation.md`, `o-level-computer-science-data-representation-practice.md` (Γö£├╣2), `data-representation-practice.md` | All four file-size calculations that divided by 1,000/1,000,000 recomputed on the syllabus-required 1,024 base: 1.44╬ô├Ñ├å1.37 MB, 2.65╬ô├Ñ├å2.52 MB, 30╬ô├Ñ├å29.3 KB, 1.44╬ô├Ñ├å1.37 MB. |
 | I304 | `igcse-computer-science-data-representation.md` | Same edit as above closes this finding -- the worked example now matches the binary-base rule the file states eight lines earlier. |
 | I305 (corrected file) | `data-representation-practice.md` | Same fix brings the practice file's convention into line with the prose files', which already divided correctly. |
 | E724 | `igcse-computer-science-data-representation.md` | "the other four are..." (naming five) corrected to "the other five are...". |
@@ -9895,7 +9895,7 @@ auditor's next findings drop in `docs/audit/`.
 | E729, I312 (corrected file, 2 instances) | `igcse-oxfordaqa-computer-science-algorithms.md`, `igcse-oxfordaqa-computer-science-algorithms-practice.md` (3 occurrences) | "NEXT i" replaced with "ENDFOR" in four worked examples/answers -- this board's own convention, already followed correctly elsewhere in the same family. |
 | E734 | `igcse-oxfordaqa-computer-science-algorithms.md` | Added decomposition and abstraction (a full missing subtopic) and the specification's required bubble-sort form (swap-flag-controlled outer loop) to the sorting section. |
 | E735 | `igcse-oxfordaqa-computer-science-algorithms.md` | "Efficiency is judged by... and by memory used" corrected to time-only for this qualification, with an explicit note that the board's A-level does require memory (so the correction must not be carried across). |
-| E730, I303 (corrected file) | `oxfordaqa-igcse-computer-science-programming-revision-notes.md` | Relational operators changed from programming-language form (`!=` etc.) to the specification's own assessment symbols (Γëá, Γëñ, ΓëÑ), matching the study guide, which already had this right. |
+| E730, I303 (corrected file) | `oxfordaqa-igcse-computer-science-programming-revision-notes.md` | Relational operators changed from programming-language form (`!=` etc.) to the specification's own assessment symbols (╬ô├½├í, ╬ô├½├▒, ╬ô├½├æ), matching the study guide, which already had this right. |
 | E731 | `oxfordaqa-igcse-computer-science-programming-revision-notes.md` | FOR loop's "guaranteed to run at least once?" changed from Yes to No (a count below the lower bound runs zero times) -- only REPEAT...UNTIL carries that guarantee. |
 | E732, I313 | `oxfordaqa-igcse-computer-science-programming-revision-notes.md` | Worked nested-loop example given a missing `INPUT Score` and `HighScore <- 0` initialisation so the self-test question referencing it is actually answerable; self-test given a full answer key (previously had none). |
 | E733 (2 files) | `igcse-oxfordaqa-computer-science-programming-fundamentals.md`, `oxfordaqa-igcse-computer-science-programming-revision-notes.md` | "The rest of Topic 2 ends at its eighth sub-section" extended to the real thirteenth, naming the five omitted areas (random number generation, subroutines, structured programming, robust and secure programming, classification of languages/translators). |
@@ -9945,15 +9945,15 @@ Two findings (E752, E753) were verified against the live Cambridge IGCSE Urdu as
 | I318 | `o-level-cambridge-urdu-first-and-second-language.md`, `-revision-notes.md`, `-practice.md` | All three files' `syllabusTopics` extended from a single `fl-paper-1-reading-writing-3247` entry to also carry `sl-paper-1-reading-writing-3248`, so the second-language paper surfaces to its own cohort. |
 | Q285 | `o-level-cambridge-urdu-first-and-second-language-revision-notes.md` | "Each title drawn from a different topic area" corrected to "different topic or sub-topic" (syllabus wording -- two titles can share a topic area under different sub-topics). |
 | Q286 | (same) + `igcse-cambridge-urdu-paper-2-listening-revision-notes.md` | Both files' closed-list presentation of source-text/spoken-material types given back the syllabus's "such as"/"e.g." hedge; the O-Level notes' self-test question reworded to stop training a false closed-set recall target. |
-| Q293 | `o-level-cambridge-urdu-first-and-second-language-practice.md` | Exercise 1 model own-words answer rewritten in genuinely independent phrasing (was reusing the passage's own "╪╖┘ä╪¿█ü...╪º╪│┌⌐╪▒█î┘å...╪¬╪▒╪¼█î╪¡ ╪»█î╪¬█Æ █ü█î┌║" almost verbatim). |
+| Q293 | `o-level-cambridge-urdu-first-and-second-language-practice.md` | Exercise 1 model own-words answer rewritten in genuinely independent phrasing (was reusing the passage's own "Γò¬ΓòûΓöÿ├ñΓò¬┬┐Γûê├╝...Γò¬┬║Γò¬ΓöéΓöîΓîÉΓò¬ΓûÆΓûê├«Γöÿ├Ñ...Γò¬┬¼Γò¬ΓûÆΓò¬┬╝Γûê├«Γò¬┬í Γò¬┬╗Γûê├«Γò¬┬¼Γûê├å Γûê├╝Γûê├«ΓöîΓòæ" almost verbatim). |
 | E752 | `igcse-cambridge-urdu-paper-2-listening.md` | "What is tested" bullet, which had substituted the subject-content bullets for the four real listening AOs (wrong order, second and third collapsed into one), replaced with the four real L1-L4 objectives quoted from the syllabus, in order, L4's example clause given in full. Exercise-by-exercise AO mapping (lines already present) checked against the syllabus and confirmed already correct. |
 | E753 | `igcse-cambridge-urdu-paper-2-listening-revision-notes.md` | "L1 and L2 (basic comprehension of explicit and implicit meaning)" corrected -- implicit meaning is L4, not L1/L2; the file already correctly assigned implicit meaning to Exercises 3/4, so this removes the self-contradiction. |
 | E754 | `urdu-paper-2-listening-practice.md` | Exercise 1 extended from 4 one-mark questions to the syllabus's 8, with a longer script supporting the new questions; paper-wide total now genuinely reconciles to 30 (8+8+6+8). |
 | E755 | (same) | False "two extra options are not needed" rubric on Exercise 3 deleted -- all 6 options (A-F) are used 1:1 by the 6 speakers in the answer key; there are no extras. |
-| E756 | (same) | Exercise 2 gap-fill model answer's word order corrected from "╪ó┘╣┌╛ ╪¿╪¼█Æ ╪╡╪¿╪¡" (clock-time then time-of-day) to "╪╡╪¿╪¡ ╪ó┘╣┌╛ ╪¿╪¼█Æ" (matching the script's actual order), per the sibling revision notes' own "write exactly what is heard" rule. |
-| Q290 | (same) | Exercise 3 speaker 1's script reworded to drop the "█î█ü ╪╡╪▒┘ü ╪¬┘ê╪¼█ü █ü┘╣╪º╪¬╪º █ü█Æ" clause, which had made their answer satisfy both option A (ban) and option F (banning improves concentration); speaker 1 now cleanly matches A only, speaker 6 uniquely matches F. |
-| Q288 | `urdu-reading-and-writing-practice.md` | Passive-voice model answer promoted to the agentless form (`╪│╪¿┘é ┘╛┌æ┌╛╪º█î╪º ┌»█î╪º`) as primary, with the ╪│█Æ-marked form kept as an accepted alternative rather than the model, since marking the agent with ╪│█Æ on an already-causative verb reads as an unnatural double-causative. Q9(a)'s directional-postposition answer widened to accept no postposition at all (contemporary usage) alongside ┌⌐┘ê (literary). |
-| Q289 | (same) | Model letter's coined compound for "timetable" (┘ê┘é╪¬ ┘å╪º┘à█ü) replaced with the established everyday loan (┘╣╪º╪ª┘à ┘╣█î╪¿┘ä), since the marking criteria credit range of vocabulary and a coined term is the wrong thing to model. |
+| E756 | (same) | Exercise 2 gap-fill model answer's word order corrected from "Γò¬├│ΓöÿΓòúΓöîΓò¢ Γò¬┬┐Γò¬┬╝Γûê├å Γò¬ΓòíΓò¬┬┐Γò¬┬í" (clock-time then time-of-day) to "Γò¬ΓòíΓò¬┬┐Γò¬┬í Γò¬├│ΓöÿΓòúΓöîΓò¢ Γò¬┬┐Γò¬┬╝Γûê├å" (matching the script's actual order), per the sibling revision notes' own "write exactly what is heard" rule. |
+| Q290 | (same) | Exercise 3 speaker 1's script reworded to drop the "Γûê├«Γûê├╝ Γò¬ΓòíΓò¬ΓûÆΓöÿ├╝ Γò¬┬¼Γöÿ├¬Γò¬┬╝Γûê├╝ Γûê├╝ΓöÿΓòúΓò¬┬║Γò¬┬¼Γò¬┬║ Γûê├╝Γûê├å" clause, which had made their answer satisfy both option A (ban) and option F (banning improves concentration); speaker 1 now cleanly matches A only, speaker 6 uniquely matches F. |
+| Q288 | `urdu-reading-and-writing-practice.md` | Passive-voice model answer promoted to the agentless form (`Γò¬ΓöéΓò¬┬┐Γöÿ├⌐ ΓöÿΓò¢Γöî├ªΓöîΓò¢Γò¬┬║Γûê├«Γò¬┬║ Γöî┬╗Γûê├«Γò¬┬║`) as primary, with the Γò¬ΓöéΓûê├å-marked form kept as an accepted alternative rather than the model, since marking the agent with Γò¬ΓöéΓûê├å on an already-causative verb reads as an unnatural double-causative. Q9(a)'s directional-postposition answer widened to accept no postposition at all (contemporary usage) alongside ΓöîΓîÉΓöÿ├¬ (literary). |
+| Q289 | (same) | Model letter's coined compound for "timetable" (Γöÿ├¬Γöÿ├⌐Γò¬┬¼ Γöÿ├ÑΓò¬┬║Γöÿ├áΓûê├╝) replaced with the established everyday loan (ΓöÿΓòúΓò¬┬║Γò¬┬¬Γöÿ├á ΓöÿΓòúΓûê├«Γò¬┬┐Γöÿ├ñ), since the marking criteria credit range of vocabulary and a coined term is the wrong thing to model. |
 | I317 | `igcse-cambridge-urdu-paper-1-reading-writing.md`, `urdu-reading-and-writing-practice.md`, `urdu-reading-and-writing-revision-notes.md`, `urdu-paper-2-listening-practice.md` | All four files' titles, which had dropped the "as a Second Language" qualifier (or, in three cases, omitted "Cambridge IGCSE" and "(0539)" entirely), brought into line with the qualification's real title, matching the two files that already had it right (`igcse-cambridge-urdu-paper-2-listening.md`, `-revision-notes.md`). Link text citing the old short titles updated in `igcse-cambridge-urdu-paper-2-listening-revision-notes.md` and `o-level-cambridge-urdu-first-and-second-language.md`. Corpus-wide grep confirmed no other file used the old short titles as link text. |
 
 **Deferred.**
@@ -9977,7 +9977,7 @@ Closes the Pearson Edexcel A-Level Urdu (9UR0) sub-cluster of batch 28: 5 of the
 | E761, I319 | `edexcel-a-level-urdu-translation-practice.md` | Q6 (reading-comprehension exercise) and its three sub-questions rewritten from English into Urdu, with a note that all Paper 1 Section B/C questions and answers are in Urdu -- confirmed by the spec's "All questions in Sections B and C are set in Urdu and must be answered in Urdu." |
 | E762 | (same) | The wrongly-included "Translation into Urdu" section (Q2), which belongs to Paper 2 not Paper 1, removed from this file and rebuilt as a genuine 20-mark points-based exercise in `edexcel-a-level-urdu-translation-works-practice.md` (Paper 2's practice file), where a real translation-into-Urdu exercise had been entirely absent. |
 | E764, I320 | `edexcel-a-level-urdu-translation-practice.md`, `edexcel-a-level-urdu-translation-works-practice.md` | Both translation exercises (Q1 here, the relocated Q1a in the Paper 2 file) retariffed from 10 to 20 marks each, with the analytic 2-3-marks-per-feature marking schemes replaced by genuinely points-based ones (20 discrete 1-mark language chunks each, none worth more than one), matching the spec's Section A marking guidance verbatim. |
-| E765 | `edexcel-a-level-urdu-translation-revision-notes.md` | Tense table's "Perfect: chukaa/chuki/chuke" (the completive auxiliary) corrected: added a genuine Perfect row (perfective participle + present auxiliary, e.g. *paß╣¢haa hai*), relabelled the old "Past" row as Pluperfect (its real identity), added a Simple past (bare perfective) row, and kept *chukaa/chuki/chuke* as its own, correctly-named Completive row. |
+| E765 | `edexcel-a-level-urdu-translation-revision-notes.md` | Tense table's "Perfect: chukaa/chuki/chuke" (the completive auxiliary) corrected: added a genuine Perfect row (perfective participle + present auxiliary, e.g. *pa├ƒΓòú┬óhaa hai*), relabelled the old "Past" row as Pluperfect (its real identity), added a Simple past (bare perfective) row, and kept *chukaa/chuki/chuke* as its own, correctly-named Completive row. |
 | E766 | `edexcel-a-level-urdu-translation-revision-notes.md`, `edexcel-a-level-urdu-listening-reading-writing-revision-notes.md` | The misplaced "Summary tasks" section (summarising is a Paper 3 skill, tested nowhere in Paper 1) replaced in the Paper 1 file with a genuine account of Section C's research question (40 of Paper 1's 80 marks, previously undocumented anywhere in this file); summary technique added to the Paper 3 revision notes, where the real Section B summary task belongs. Self-test Q5/A5 updated to match. |
 | E763 | `edexcel-a-level-urdu-translation-practice.md` | Not rebuilt (see Deferred) -- an inline note added directing readers to the revision notes' correct account of the real 40-mark/320-370-word research-question task, so the practice file no longer silently implies its 15-mark/120-150-word Q7 is the genuine exercise. |
 | E767 | `a-level-edexcel-urdu-translation-and-works.md` | "Common mistakes" section's false claim that one literary text + one film is a disallowed combination (contradicted by the same file's own correct statement 60 lines earlier) corrected to name the real prohibition (two films) and both genuinely valid combinations. |
@@ -10021,7 +10021,7 @@ Closes the OxfordAQA International GCSE Urdu (9264) sub-cluster of batch 28: all
 | Finding(s) | File(s) | What changed |
 |---|---|---|
 | E773, I325 | `ib-dp-language-a-literature-assessment-revision-notes.md`, `ib-dp-language-a-literature-subject-guide.md`, `ib-dp-language-a-literature-readers-writers-texts-revision-notes.md`, `ib-dp-language-a-literature-syllabus-guide.md` | Paper 1 corrected from "two unseen literary extracts" as a level-independent fact to the real split: one of two passages analysed at SL (1h15, 20 marks), both at HL (2h15, 40 marks). Fixed everywhere this singular/flat-plural framing appeared, including a self-test answer and an instance in the syllabus-guide the finding didn't name but which carried the same defect. |
-| E774 | `ib-dp-language-a-language-and-literature-assessment-revision-notes.md`, `ib-dp-language-a-language-and-literature-subject-guide.md` | "HL differs from SL only by an added essay" corrected to state all three real differences: a longer, higher-mark Paper 1 (both passages analysed), the Paper 2/oral weighting shifts (35%ΓåÆ25%, 30%ΓåÆ20%), and the added HL essay -- with Paper 2's own length noted as identical at both levels, so the correction doesn't over-generalise. |
+| E774 | `ib-dp-language-a-language-and-literature-assessment-revision-notes.md`, `ib-dp-language-a-language-and-literature-subject-guide.md` | "HL differs from SL only by an added essay" corrected to state all three real differences: a longer, higher-mark Paper 1 (both passages analysed), the Paper 2/oral weighting shifts (35%╬ô├Ñ├å25%, 30%╬ô├Ñ├å20%), and the added HL essay -- with Paper 2's own length noted as identical at both levels, so the correction doesn't over-generalise. |
 | E775 | `ib-dp-language-a-language-and-literature-subject-guide.md` | "The unseen text may be literary or non-literary" corrected to "non-literary" (both extracts, both levels), matching the course's own syllabus-guide and course page; explicit note added distinguishing this from the sibling Literature course's exclusively-literary Paper 1, since this was the file most exposed to cross-course contamination. |
 | E776 | `ib-dp-language-a-language-and-literature-assessment-revision-notes.md`, `ib-dp-language-a-literature-assessment-revision-notes.md`, `ib-dp-language-a-literature-subject-guide.md`, plus `ib-dp-language-a-language-and-literature-exam-preparation.md` (found via my own post-hoc corpus-wide grep -- the subagent's fix didn't reach this file, which carried the identical "single general consultation" defect) | HL essay drafting support corrected from "single general consultation" / "multiple drafts possible" to the real process: regular formative feedback throughout, one round of written advice on one complete draft (annotation only, no teacher editing/rewriting), then the final version. |
 | E777 | `ib-dp-language-a-literature-subject-guide.md` | HL essay's object corrected from "one or more of the literary works" to **one** work, keeping the collection exception (a short-story/poem collection counted as one work, but the essay may refer to more than one text from within it); the sibling course's differently-scoped essay object left untouched. |
@@ -10032,7 +10032,7 @@ Closes the OxfordAQA International GCSE Urdu (9264) sub-cluster of batch 28: all
 | Q294 | `ib-dp-language-a-literature-syllabus-guide.md`, `ib-dp-language-a-language-and-literature-syllabus-guide.md` | Teaching-hours table reframed from a confirmed/binding allocation to a recommendation, citing the guide's own footnote (hours are not prescriptive or restrictive, since areas often overlap in the study of a text) and the course pages' "recommended" column heading. |
 | Q295 | 12 files across both Language A courses (both subject-guides, both syllabus-guides, both assessment-revision-notes, and the intertextuality/readers-writers-texts/time-and-space topic-family guides) | "Syllabus component(s)" (the guide's legacy table-header term) replaced with "area(s) of exploration" (the term both guides use throughout their body text and both current IB course pages define the courses by) in prose and frontmatter `title`/`topic`/`description` fields, done consistently across all 12 relevant files per the finding's own "all or not at all" instruction; one explicit note per syllabus-guide that the official table still literally headers its column "syllabus component." Filenames and routing-critical frontmatter left untouched. |
 | U45 | `ib-dp-language-a-literature-subject-guide.md`, `ib-dp-language-a-literature-syllabus-guide.md` | Added the works-studied requirement (9 SL / 13 HL, itemised), absent from all ten Literature-course files before this fix -- a coverage gap, not just a correction. IB's own course page states different figures (7 SL / 10 HL); both are now given, with the disagreement disclosed explicitly rather than silently resolved, since the guide is more internally coherent (states its figures three times, itemised to sum exactly) but the board's own page can't simply be assumed wrong. Non-literary-text teaching-time-equivalence note added to the sibling Language and Literature course's own works-count statement. |
-| U47 | `ib-dp-language-a-literature-assessment-revision-notes.md` | Verified: contrary to the finding's premise that the public guide truncates before the HL essay/oral criteria tables, the fetched copy contained them in full (HL essay 4├ù5=20 marks; oral 4├ù10=40 marks), consistent with the assessment-outline totals. The file's existing self-test answers were already generic (no specific numeric mark bands asserted), so nothing needed removing. |
+| U47 | `ib-dp-language-a-literature-assessment-revision-notes.md` | Verified: contrary to the finding's premise that the public guide truncates before the HL essay/oral criteria tables, the fetched copy contained them in full (HL essay 4Γö£├╣5=20 marks; oral 4Γö£├╣10=40 marks), consistent with the assessment-outline totals. The file's existing self-test answers were already generic (no specific numeric mark bands asserted), so nothing needed removing. |
 | D06 (Language A portion) | `ib-dp-language-a-literature-subject-guide.md`, `ib-dp-language-a-literature-syllabus-guide.md`, `ib-dp-language-a-language-and-literature-subject-guide.md`, `ib-dp-language-a-language-and-literature-syllabus-guide.md`, plus a brief mention in both courses' `assessment-revision-notes.md` | Added the seven central concepts (identical across both courses, explicitly marked not-assessed-in-any-component) and the learner portfolio (explicitly marked not-assessed/not-moderated but subject to IB authenticity checks) -- both previously absent from every Language A file. |
 
 **Deferred.** **D06 (Language A portion, remainder)** -- the 12 topic-specific files (intertextuality x3, readers-writers-texts x3 per course) were intentionally left without the concepts/portfolio addition, per the finding's own bounded scope; propagating a coverage-gap finding into every topical file would be a fuller rebuild than a line/paragraph edit, consistent with this project's established deferral pattern for large coverage gaps (D-195's E691/E694/E697/E705/E706, D-197's E757-E759).
@@ -10061,11 +10061,11 @@ Closes the IB Diploma Programme Language B sub-cluster of batch 28: 10 files. De
 
 Closes the IB Middle Years Programme Language Acquisition sub-cluster of batch 28: 10 files. Delegated to a specialist subagent under the same brief and review process as D-200/D-201.
 
-**The auditor's own finding was wrong, and the process caught it before it shipped.** E782 and I322 instructed changing "32 marks per criterion" to "24 marks per criterion," asserting 24 was the real exam blueprint figure and 32 was a conflation with a different, genuinely-32 classroom scale. The subagent's own primary-source read found the opposite -- and rather than either blindly obeying the finding or blindly trusting its own single source, it flagged the direct conflict for review. I independently re-verified before accepting either direction: fetched an official IB webinar FAQ transcript ("MYP language acquisition on-screen assessment model," 3 November 2021, "in place from May 2022") which states explicitly and twice, unprompted, in direct answers to "how many marks will be allocated to each strand" and "will we also need to give a mark out of 32": *"Each criterion will be assessed out of 32 marks"* and *"The mark (out of 32) must be entered in IBIS."* Internal corpus evidence agreed: 5 of the 7 files touching this figure already said 32 before any edit this session, only 2 said 24. **32 is correct; 24 was the error.** The fix applied is the reverse of what E782/I322 instructed: the two files that matched the finding's stated "correct" reference (`ib-myp-language-acquisition-subject-guide.md`, `ib-myp-language-acquisition-assessment-revision-notes.md`) were the ones actually wrong, and were corrected 24ΓåÆ32; the three files the finding called defective were already right and left alone. This is the same discipline the project has applied since D-190/D-191/D-194/D-195 (verify before fixing, don't fix on the finding's word alone) catching a live instance, not just a truncation-driven one -- worth flagging to whoever runs the next audit round, since a finding being wrong about its own "correct" reference point is a different failure mode from the truncation/mis-attribution patterns seen so far.
+**The auditor's own finding was wrong, and the process caught it before it shipped.** E782 and I322 instructed changing "32 marks per criterion" to "24 marks per criterion," asserting 24 was the real exam blueprint figure and 32 was a conflation with a different, genuinely-32 classroom scale. The subagent's own primary-source read found the opposite -- and rather than either blindly obeying the finding or blindly trusting its own single source, it flagged the direct conflict for review. I independently re-verified before accepting either direction: fetched an official IB webinar FAQ transcript ("MYP language acquisition on-screen assessment model," 3 November 2021, "in place from May 2022") which states explicitly and twice, unprompted, in direct answers to "how many marks will be allocated to each strand" and "will we also need to give a mark out of 32": *"Each criterion will be assessed out of 32 marks"* and *"The mark (out of 32) must be entered in IBIS."* Internal corpus evidence agreed: 5 of the 7 files touching this figure already said 32 before any edit this session, only 2 said 24. **32 is correct; 24 was the error.** The fix applied is the reverse of what E782/I322 instructed: the two files that matched the finding's stated "correct" reference (`ib-myp-language-acquisition-subject-guide.md`, `ib-myp-language-acquisition-assessment-revision-notes.md`) were the ones actually wrong, and were corrected 24╬ô├Ñ├å32; the three files the finding called defective were already right and left alone. This is the same discipline the project has applied since D-190/D-191/D-194/D-195 (verify before fixing, don't fix on the finding's word alone) catching a live instance, not just a truncation-driven one -- worth flagging to whoever runs the next audit round, since a finding being wrong about its own "correct" reference point is a different failure mode from the truncation/mis-attribution patterns seen so far.
 
 | Finding(s) | File(s) | What changed |
 |---|---|---|
-| E782, I322 | `ib-myp-language-acquisition-subject-guide.md`, `ib-myp-language-acquisition-assessment-revision-notes.md` | Changed 24ΓåÆ32 marks per criterion (see the reversal note above) -- the opposite direction from the finding's instruction, applied after independent primary-source verification. The three files the finding named as needing 24 (`syllabus-guide.md`, `proficiency-phases-revision-notes.md`, `eassessment-exam-preparation.md`) already correctly said 32 and were left unchanged. "Eight achievement levels per criterion, summing to 32 for classroom criterion-related assessment" (a genuinely separate, correct use of 32) was preserved wherever it appeared, not touched by the mark-total fix. |
+| E782, I322 | `ib-myp-language-acquisition-subject-guide.md`, `ib-myp-language-acquisition-assessment-revision-notes.md` | Changed 24╬ô├Ñ├å32 marks per criterion (see the reversal note above) -- the opposite direction from the finding's instruction, applied after independent primary-source verification. The three files the finding named as needing 24 (`syllabus-guide.md`, `proficiency-phases-revision-notes.md`, `eassessment-exam-preparation.md`) already correctly said 32 and were left unchanged. "Eight achievement levels per criterion, summing to 32 for classroom criterion-related assessment" (a genuinely separate, correct use of 32) was preserved wherever it appeared, not touched by the mark-total fix. |
 | E783 | `ib-myp-language-acquisition-syllabus-guide.md`, `ib-myp-language-acquisition-proficiency-phases-revision-notes.md` | Six teaching phases and three eAssessment reporting levels restated as two distinct, correctly-named things (previously conflated, presenting the three levels as "the proficiency phases"); self-test in the revision-notes file corrected, with a new question added on the six phases specifically. |
 | I323 (expanded scope) | 7 files found via corpus-wide grep, not just the 2-3 named: `ib-myp-language-acquisition-proficiency-phases.md`, `-proficiency-phases-practice.md`, `-criteria-in-practice.md`, `-criteria-in-practice-practice.md`, `-criteria-in-practice-revision-notes.md`, plus the two above | Same six-phases-vs-three-levels conflation found and fixed across the whole corpus, not just the files the finding named -- "phase" now reserved for the six-phase teaching continuum, "level" for the three reporting groups, consistently. |
 | I321 | `ib-myp-language-acquisition-eassessment-exam-preparation.md` | The file's own correct "three bands, not six phases" section kept as-is (it's the clearest statement of the distinction anywhere in the corpus); every other place in the same file that called the three eAssessment groups "phases" (opening cross-reference, closing checklist) corrected to "band," matching the file's own established term rather than introducing a fourth synonym. |
@@ -10171,7 +10171,7 @@ Closes the Commerce sub-cluster of batch 29: 17 files (9 targeting 0715, 8 targe
 | Q311 | `igcse-cambridge-commerce-commercial-operations.md`, `commerce-commercial-operations-revision-notes.md` (plus a milder instance in the sibling O-Level study guide) | The syllabus's illustrative ("e.g.") three-example list for small-retailer survival, which two files had presented as a closed "named reasons" list while dropping one of the three real examples, restored to its dropped third example, with the file's own additional examples kept as legitimate (not deleted as "off-syllabus," since the list was never closed). |
 | U50 | -- | Read in full; the two Commerce-relevant hazards (identical subject content across both codes, meaning every fix needs applying to both independently rather than by copying the sibling; the 15-word command-word list being Commerce-specific) applied throughout the table above. |
 | U51 | All six 7100 files that cite availability/years | Fetched the live Cambridge subject page directly (not just the syllabus PDF, which was not updated with this notice): 7100 is zone-restricted (three zones in 2026-2027, one zone only from 2028, affected centres notified mid-2026), not withdrawn despite the notice's "Withdrawal" heading -- stated as a restriction, explicitly not as a withdrawal, in all six files. |
-| D07 (Commerce portion) | Both commerce-and-production study guides, both commercial-operations revision-notes files | Worked examples added for a cost calculation, a Balance-of-Trade calculation, an insurance-premium calculation (feeding Q308 above), and two of the six named financial formulae (revenue, mark-up %) -- the mark-up-percentage formula reproduced exactly as the syllabus prints it (without a folded-in ├ù100), with that step handled explicitly. |
+| D07 (Commerce portion) | Both commerce-and-production study guides, both commercial-operations revision-notes files | Worked examples added for a cost calculation, a Balance-of-Trade calculation, an insurance-premium calculation (feeding Q308 above), and two of the six named financial formulae (revenue, mark-up %) -- the mark-up-percentage formula reproduced exactly as the syllabus prints it (without a folded-in Γö£├╣100), with that step handled explicitly. |
 
 **Deferred.** **D07 (Commerce, remainder)** -- the four remaining financial formulae (gross profit, gross profit margin, net profit, working capital) need a not-yet-existing Topic 5.4 resource to live in properly, named rather than bolted onto an unrelated file. **A structural mismatch found during this cluster, not named by any specific finding**: `cambridge-o-level-commerce-globalisation-of-trade.md`'s entire content (generic globalisation drivers, MNCs, exchange rates) does not match either code's real Topic 3 (international trade benefits/challenges, Balance of Trade/Payments, trading blocs and restrictions, global supply-chain management and risks) -- a structural mismatch rather than a fixable passage, and stark since its sibling IGCSE file is fully correct. Left untouched since no finding named it and it needs a rebuild, not a line edit; flagged here for a future audit round or direct attention.
 
@@ -10233,12 +10233,12 @@ Closes the Global Perspectives sub-cluster of batch 29: 18 files (9 targeting IG
 
 | ID | Files | What was checked / what changed |
 |---|---|---|
-| E848 | `a-level-aqa-economics-measurement-of-macroeconomic-performance.md` | **Does not resolve.** The finding claims this file is missing a 4th sub-topic (national-income-data limitations and purchasing-power-parity) due to an AS/A-level section-number mix-up in AQA's combined 7135/7136 specification document. The file's "Syllabus coverage" section already lists all four sub-topics of 3.2.1, including "3.2.1.4 Uses of national income data ΓÇö the use and limitations of national income data to assess changes in living standards over time and to compare living standards between countries, and the importance of purchasing power parity (PPP) exchange rates in making international comparisons," and the "How to approach it" section (para 4) discusses PPP and living-standards limitations in full. Verified directly against the primary specification (AQA AS and A-level Economics 7135/7136, Version 1.3, 29 June 2022, fetched from aqa.org.uk) -- p.50, section 4.2.1.4 "Uses of national income data," reads: "The use and limitations of national income data to assess changes in living standards over time. The use and limitations of national income data to compare differences in living standards between countries. The importance of using purchasing power parity (PPP) exchange rates when making international comparisons of living standards." The file's coverage matches this in full; no 4th sub-topic is missing. No edit made. |
+| E848 | `a-level-aqa-economics-measurement-of-macroeconomic-performance.md` | **Does not resolve.** The finding claims this file is missing a 4th sub-topic (national-income-data limitations and purchasing-power-parity) due to an AS/A-level section-number mix-up in AQA's combined 7135/7136 specification document. The file's "Syllabus coverage" section already lists all four sub-topics of 3.2.1, including "3.2.1.4 Uses of national income data ╬ô├ç├╢ the use and limitations of national income data to assess changes in living standards over time and to compare living standards between countries, and the importance of purchasing power parity (PPP) exchange rates in making international comparisons," and the "How to approach it" section (para 4) discusses PPP and living-standards limitations in full. Verified directly against the primary specification (AQA AS and A-level Economics 7135/7136, Version 1.3, 29 June 2022, fetched from aqa.org.uk) -- p.50, section 4.2.1.4 "Uses of national income data," reads: "The use and limitations of national income data to assess changes in living standards over time. The use and limitations of national income data to compare differences in living standards between countries. The importance of using purchasing power parity (PPP) exchange rates when making international comparisons of living standards." The file's coverage matches this in full; no 4th sub-topic is missing. No edit made. |
 | U58 | `a-level-oxfordaqa-accounting-types-of-business-organisation.md`, plus two sibling files found by corpus-wide search: `oxfordaqa-a-level-accounting-organisation-types-revision-notes.md`, `a-level-oxfordaqa-accounting-role-of-the-accountant.md` | **Fixed -- genuine version-label discrepancy, confirmed against the primary source.** All three files stated the OxfordAQA International AS and A-level Accounting (9615) specification was "updated February 2024" (also reflected in `syllabusSeries: "2024-onwards"`). The current live specification (fetched directly from oxfordaqa.com) carries no "February 2024" date anywhere; its actual version label, printed in the footer of every page, is "Version 1.2," for teaching from September 2024 onwards, first AS exams May/June 2025, first A-level exams May/June 2026. All three files' `syllabusSeries` fields and body-text version references corrected to "Version 1.2, for teaching from September 2024 onwards." A fourth 9615-code file, `oxfordaqa-a-level-accounting-exam-preparation.md`, was checked and already correctly states "first teaching September 2024, first AS exams May/June 2025, first A-level exams May/June 2026" with no version-label claim -- left untouched. |
 
 **Corpus-wide check.** All 7 files carrying `syllabusCodes: ["9615"]` were grepped for both `2024-onwards` (frontmatter) and any `2024`-adjacent body text; only the three fixed above and the one already-correct exam-preparation file made any date/version claim. The two remaining 9615 files (`a-accounting-role-revision-notes.md`, `a-accounting-role-practice.md`) carry the same `"2024-onwards"` frontmatter shorthand but make no specific body-text date claim, so nothing there contradicts the primary source; left as is rather than reworded speculatively.
 
-**Evidence.** AQA AS and A-level Economics (7135/7136) specification, Version 1.3, 29 June 2022, fetched from aqa.org.uk -- p.50 (┬º4.2.1.4). OxfordAQA International AS and A-level Accounting (9615) specification, fetched from oxfordaqa.com -- footer of every page ("Version 1.2"), cover page ("For teaching from September 2024 onwards. For International AS exams May/June 2025 onwards. For International A-level exams May/June 2026 onwards").
+**Evidence.** AQA AS and A-level Economics (7135/7136) specification, Version 1.3, 29 June 2022, fetched from aqa.org.uk -- p.50 (Γö¼┬║4.2.1.4). OxfordAQA International AS and A-level Accounting (9615) specification, fetched from oxfordaqa.com -- footer of every page ("Version 1.2"), cover page ("For teaching from September 2024 onwards. For International AS exams May/June 2025 onwards. For International A-level exams May/June 2026 onwards").
 
 **Process note.** E848 is the fourth finding this session (after Q283/D-199, Q298/D-201, E822/D-207) whose claimed defect does not match the current corpus state -- documented per the established precedent. U58, by contrast, is a genuine, narrowly-scoped defect that the audit itself had flagged as "unreconcilable"; fetching the current live specification (rather than relying on the finding's own uncertainty) resolved it directly.
 
@@ -10634,7 +10634,7 @@ D-223 fixed Q349's five named files (Section A raised from 5 to the real 15 mark
 
 **Trigger.** `docs/audit/REPAIR-WORK-ORDER.md` (as amended by Q374, `e807f41`) and the open list in `docs/audit/2026-10-12-findings.md`, which keeps E712-E748 open because the audit read D-196 as closing "nearly all" of them without saying which. Worked by subject cluster, largest first. Every finding was re-read in `2026-09-15-findings.md`, its file read as it stands on `main` @ `e807f41`, and its family (same code, same topic) searched for siblings carrying the same defect.
 
-**Sources read for this batch, each confirmed complete by its own closing matter.** Cambridge 0417 2026-2028 v3 (45 pp., address block); Cambridge 9626 2025-2027 v3 (73 pp.) and 2028-2030 v1 (72 pp.); Cambridge 0478, 2210 and 0984 2026-2028 v6, published September 2026 (56 pp. each, changes pages and address block); OxfordAQA 9210 v3.5 (38 pp., copyright block); OxfordAQA 9645 v1.1 (68 pp., copyright block); IBO "Computer science updates" page, read in full in a browser session (plain fetch returns 403; not worked around). `cambridgeinternational.org` is serving documents again ΓÇö every Cambridge PDF above downloaded as `application/pdf` with no maintenance string.
+**Sources read for this batch, each confirmed complete by its own closing matter.** Cambridge 0417 2026-2028 v3 (45 pp., address block); Cambridge 9626 2025-2027 v3 (73 pp.) and 2028-2030 v1 (72 pp.); Cambridge 0478, 2210 and 0984 2026-2028 v6, published September 2026 (56 pp. each, changes pages and address block); OxfordAQA 9210 v3.5 (38 pp., copyright block); OxfordAQA 9645 v1.1 (68 pp., copyright block); IBO "Computer science updates" page, read in full in a browser session (plain fetch returns 403; not worked around). `cambridgeinternational.org` is serving documents again ╬ô├ç├╢ every Cambridge PDF above downloaded as `application/pdf` with no maintenance string.
 
 **Reconciliation note for the audit.** D-196's table names 36 of the 37 IDs individually; **E726 was never in it** and was genuinely unworked. Several D-196 fixes were applied only to the slug the finding named, while the finding's own text said "two files" or "three files" -- the sibling-scope failure the work order calls the most expensive in this project. Those siblings are fixed below and the IDs are closed only now.
 
@@ -10675,7 +10675,7 @@ None in this cluster.
 
 | ID | What was read | Result |
 |---|---|---|
-| **E746** | OxfordAQA 9210 specification v3.5, section 3.2.2 "Programming concepts", Additional information column, read complete. | **The finding does not reproduce against the primary document it cites.** It says: "the specification does not name them by that phrase, so a candidate searching the document for the quoted term finds nothing." The specification reads: "The three combining principles (sequence, iteration/repetition and selection/choice) are basic to all imperative programming languages." No paraphrase is needed for the contradiction. **Escalated under work order ┬º5.3 as a reversal.** No content change: D-196's reworded stem ("three basic constructs") is not wrong, so it was left. Q280 rests on the same claim. |
+| **E746** | OxfordAQA 9210 specification v3.5, section 3.2.2 "Programming concepts", Additional information column, read complete. | **The finding does not reproduce against the primary document it cites.** It says: "the specification does not name them by that phrase, so a candidate searching the document for the quoted term finds nothing." The specification reads: "The three combining principles (sequence, iteration/repetition and selection/choice) are basic to all imperative programming languages." No paraphrase is needed for the contradiction. **Escalated under work order Γö¼┬║5.3 as a reversal.** No content change: D-196's reworded stem ("three basic constructs") is not wrong, so it was left. Q280 rests on the same claim. |
 
 ### Incidental corrections in files already open for this batch
 
@@ -10698,26 +10698,26 @@ None in this cluster.
 | ID | Files | What was changed / verified |
 |---|---|---|
 | E60 | `as-atoms-molecules-and-stoichiometry.md` | Still live. The instruction that "mass of unreacted hydrogen" must be based on the 0.125 mol of O2 is now limited to product quantities (water 0.250 mol, 4.50 g), with the excess reagent worked as initial minus consumed: 1.75 mol, 3.50 g, and the mass-balance check. |
-| E61 | `as-atoms-molecules-and-stoichiometry.md`, `as-chem-stoichiometry-revision-notes.md` | **Already fixed by `ac3e7b0` (5 September)** under a different audit's ID (its E57): "seven polyatomic ions ... Zn┬▓Γü║ and AgΓü║, which are monatomic". Verified on `main`; the surviving marker "polyatomic ions" is text a correct fix keeps. |
-| E62 | `as-atomic-structure-orbitals-and-ionisation-energy.md` | Still live and worse than the finding's title: the page said 4s is "still shown as filled first" **and** that 3d electrons "are removed before 4s electrons when a transition metal ion forms". Both corrected (9701 1.3.6 writes [Ar] 3dΓü╢4s┬▓; 4s is emptied first; Fe┬▓Γü║ = [Ar] 3dΓü╢). |
-| E63 | `as-chemistry-shapes-imf-revision-notes.md` + 13 siblings | Named file rebuilt on 3.6.3: van der Waals' forces as the generic term with two types, id-id and pd-pd, hydrogen bonding a special case of pd-pd; the syllabus term "instantaneous dipoleΓÇôinduced dipole" restored. Family sweep of every 9701 file: hydrogen bonding placed "rather than" / "not just" van der Waals in `as-chem-states-structure-revision-notes.md`, `-practice.md`, `as-states-of-matter-ideal-gases-and-structure.md` (two places), `as-chemical-bonding-shapes-and-intermolecular-forces.md`; "(van der Waals)" used as a synonym for id-id in `as-chemistry-bonding-practice.md`, `as-group-17-the-halogens.md`, `as-periodicity-across-period-3.md`, `as-chem-periodicity-revision-notes.md`, `as-addition-polymerisation.md`, `as-chemistry-addition-polymerisation-revision-notes.md`; "induced dipoleΓÇôinduced dipole" in six practice files -- all corrected. |
-| E64 | `as-chemistry-bonding-revision-notes.md`, `as-chemistry-bonding-practice.md`, `as-chem-group2-practice.md`, `a-chemistry-energetics-entropy-practice.md` | Correction's relabel option taken for the notes section (3.1.4: "the presence of covalent character in some ionic compounds will not be assessed"); exam trap and self-test Q3 replaced with 3.1.4 electronegativity-difference items. Sibling practice Q5(c) (3 marks on AlClΓéâ covalent character) replaced with an electronegativity prediction. AS Group 2 practice awarded marks for the polarising-power mechanism, which the AS notes correctly label A Level 27.1.1 -- labelled in both answers and the marks-lost list. A Level energetics practice Q5(b) examined theoretical-vs-experimental lattice energy, which its own notes call "beyond the 9701 syllabus" -- replaced with a 23.1.5 charge/radius question. |
-| E65 | `as-periodicity-across-period-3.md`, `as-chem-periodicity-revision-notes.md` | Stem rewritten on the oxide and chloride (9.2.3, 9.2.5); answer now identifies phosphorus by eliminating SiOΓéé and the gaseous sulfur oxides, with equations and a note that only Na and Mg react with water (9.2.1). Revision-notes sibling of the same example aligned. |
-| E66 | `as-periodicity-across-period-3.md`, `as-chem-periodicity-revision-notes.md` | The finding's three cases now stated in the common-mistakes bullet and in the explanatory paragraph of both files; the revision notes' own contradiction (MgClΓéé pH 6.5 in the table, Γëê 6 in the prose; "simply dissolves as ions" beside "releases a little HΓü║") resolved. |
+| E61 | `as-atoms-molecules-and-stoichiometry.md`, `as-chem-stoichiometry-revision-notes.md` | **Already fixed by `ac3e7b0` (5 September)** under a different audit's ID (its E57): "seven polyatomic ions ... ZnΓö¼Γûô╬ô├╝Γòæ and Ag╬ô├╝Γòæ, which are monatomic". Verified on `main`; the surviving marker "polyatomic ions" is text a correct fix keeps. |
+| E62 | `as-atomic-structure-orbitals-and-ionisation-energy.md` | Still live and worse than the finding's title: the page said 4s is "still shown as filled first" **and** that 3d electrons "are removed before 4s electrons when a transition metal ion forms". Both corrected (9701 1.3.6 writes [Ar] 3d╬ô├╝Γòó4sΓö¼Γûô; 4s is emptied first; FeΓö¼Γûô╬ô├╝Γòæ = [Ar] 3d╬ô├╝Γòó). |
+| E63 | `as-chemistry-shapes-imf-revision-notes.md` + 13 siblings | Named file rebuilt on 3.6.3: van der Waals' forces as the generic term with two types, id-id and pd-pd, hydrogen bonding a special case of pd-pd; the syllabus term "instantaneous dipole╬ô├ç├┤induced dipole" restored. Family sweep of every 9701 file: hydrogen bonding placed "rather than" / "not just" van der Waals in `as-chem-states-structure-revision-notes.md`, `-practice.md`, `as-states-of-matter-ideal-gases-and-structure.md` (two places), `as-chemical-bonding-shapes-and-intermolecular-forces.md`; "(van der Waals)" used as a synonym for id-id in `as-chemistry-bonding-practice.md`, `as-group-17-the-halogens.md`, `as-periodicity-across-period-3.md`, `as-chem-periodicity-revision-notes.md`, `as-addition-polymerisation.md`, `as-chemistry-addition-polymerisation-revision-notes.md`; "induced dipole╬ô├ç├┤induced dipole" in six practice files -- all corrected. |
+| E64 | `as-chemistry-bonding-revision-notes.md`, `as-chemistry-bonding-practice.md`, `as-chem-group2-practice.md`, `a-chemistry-energetics-entropy-practice.md` | Correction's relabel option taken for the notes section (3.1.4: "the presence of covalent character in some ionic compounds will not be assessed"); exam trap and self-test Q3 replaced with 3.1.4 electronegativity-difference items. Sibling practice Q5(c) (3 marks on AlCl╬ô├⌐├ó covalent character) replaced with an electronegativity prediction. AS Group 2 practice awarded marks for the polarising-power mechanism, which the AS notes correctly label A Level 27.1.1 -- labelled in both answers and the marks-lost list. A Level energetics practice Q5(b) examined theoretical-vs-experimental lattice energy, which its own notes call "beyond the 9701 syllabus" -- replaced with a 23.1.5 charge/radius question. |
+| E65 | `as-periodicity-across-period-3.md`, `as-chem-periodicity-revision-notes.md` | Stem rewritten on the oxide and chloride (9.2.3, 9.2.5); answer now identifies phosphorus by eliminating SiO╬ô├⌐├⌐ and the gaseous sulfur oxides, with equations and a note that only Na and Mg react with water (9.2.1). Revision-notes sibling of the same example aligned. |
+| E66 | `as-periodicity-across-period-3.md`, `as-chem-periodicity-revision-notes.md` | The finding's three cases now stated in the common-mistakes bullet and in the explanatory paragraph of both files; the revision notes' own contradiction (MgCl╬ô├⌐├⌐ pH 6.5 in the table, ╬ô├½├¬ 6 in the prose; "simply dissolves as ions" beside "releases a little H╬ô├╝Γòæ") resolved. |
 | E67 | `as-chemistry-hess-law-revision-notes.md`, `as-chemistry-hess-law-practice.md`, `a-chemistry-electrochemistry-revision-notes.md`, `a-chemistry-electrochemistry-practice.md`, `a-electrochemistry-electrolysis-and-electrode-potentials.md` | 100 kPa -> 101 kPa (9701 5.1.2(a): "this syllabus assumes that these are 298 K and 101 kPa") in the named file and in four siblings, including three places in the electrochemistry guide. |
 | E68 | `as-chem-acids-bases-revision-notes.md` | Relabel option taken: half-equivalence section marked A Level only (7.2.10 "pKa values will not be used"; pKa defined at 25.1.3) and reduced to a pointer; self-test Q5 replaced with an AS-level titration-curve question. |
 | E69 | `as-acids-and-bases-bronsted-lowry-theory.md` | False "does not yet have a dedicated resource" replaced with a link to `/resources/acids-bases-and-salts/`, and that resource added to Related resources (the finding's fix, in full). Corpus-wide sweep for the same phrasing: the ten other occurrences (Global Perspectives Component 4, IB Physics assessment notes) were checked and are true. |
 | E109 | `a-reaction-kinetics-rate-equations-and-catalysis.md` | **Verified already correct on `main`.** The closing paragraph now reads that a lower order "is a sign that the remaining molecules of that species react **after** the rate-determining step" and that a species consumed in a fast pre-equilibrium "appears at its **full** stoichiometric order" -- the finding's fix, word for word in substance. The surviving marker is text the fix keeps. |
 | E114 | `a-chemistry-carboxylic-acids-acyl-revision-notes.md` (named), `as-chemistry-carboxylic-acids-esters-revision-notes.md` (actual) | D-138 recorded a skip, but its commit `f0186fb` changed "carboxylic acid (one carbon longer)" to "(same number of carbons)" and added the explanation, in the AS esters notes. The named A Level file contains no "one carbon longer" line on `main`, nor at `f0186fb`'s parent. No corpus file now says nitrile hydrolysis adds a carbon (searched). Closed as fixed by `f0186fb`; D-138's "skip" is recorded here as inaccurate. |
 | E01 | `aqa-gcse-physics-national-and-global-energy-resources.md` and its practice sibling | Verified: both name GCSE Combined Science: Trilogy (8464) sub-topic 6.1.3, which the 8464 specification confirms ("6.1.3 National and global energy resources"). Neither marker ("not shared", "physics only") survives. |
-| E09 | `a-physics-astronomy-and-cosmology.md`, `-revision-notes.md`, `-practice.md` | All three read. The finding's two errors are gone: radius 2.20 ├ù 10Γü╣ m for 4.6 ├ù 10┬▓Γü╖ W (practice), 6.96 ├ù 10Γü╕ m for 4.6 ├ù 10┬▓Γü╢ W (notes), distance 5.64 ├ù 10┬╣Γü╕ m (guide and practice). Every figure in the family recomputed: T 6042 K, v 1.87 ├ù 10Γü╢ m sΓü╗┬╣, d 8.15 ├ù 10┬▓┬│ m, 1/HΓéÇ 4.35 ├ù 10┬╣Γü╖ s, HΓéÇ 2.3 ├ù 10Γü╗┬╣Γü╕ sΓü╗┬╣, 70 km sΓü╗┬╣ MpcΓü╗┬╣ Γëê 2.27 ├ù 10Γü╗┬╣Γü╕ sΓü╗┬╣. One residual truncation corrected: the notes' radius is 6.96 ├ù 10Γü╕ m, not 6.95. |
+| E09 | `a-physics-astronomy-and-cosmology.md`, `-revision-notes.md`, `-practice.md` | All three read. The finding's two errors are gone: radius 2.20 Γö£├╣ 10╬ô├╝Γòú m for 4.6 Γö£├╣ 10Γö¼Γûô╬ô├╝Γòû W (practice), 6.96 Γö£├╣ 10╬ô├╝Γòò m for 4.6 Γö£├╣ 10Γö¼Γûô╬ô├╝Γòó W (notes), distance 5.64 Γö£├╣ 10Γö¼Γòú╬ô├╝Γòò m (guide and practice). Every figure in the family recomputed: T 6042 K, v 1.87 Γö£├╣ 10╬ô├╝Γòó m s╬ô├╝ΓòùΓö¼Γòú, d 8.15 Γö£├╣ 10Γö¼ΓûôΓö¼Γöé m, 1/H╬ô├⌐├ç 4.35 Γö£├╣ 10Γö¼Γòú╬ô├╝Γòû s, H╬ô├⌐├ç 2.3 Γö£├╣ 10╬ô├╝ΓòùΓö¼Γòú╬ô├╝Γòò s╬ô├╝ΓòùΓö¼Γòú, 70 km s╬ô├╝ΓòùΓö¼Γòú Mpc╬ô├╝ΓòùΓö¼Γòú ╬ô├½├¬ 2.27 Γö£├╣ 10╬ô├╝ΓòùΓö¼Γòú╬ô├╝Γòò s╬ô├╝ΓòùΓö¼Γòú. One residual truncation corrected: the notes' radius is 6.96 Γö£├╣ 10╬ô├╝Γòò m, not 6.95. |
 | E397 | `ocr-a-level-business-external-influences.md` | Numbering: none of the three files carries "Topic 2", "Topic 1" or 1.1-1.8 any longer (verified). The finding's remaining clause -- the area is named "External influences", not "External influences facing businesses", and is the third area -- was still live in the study guide's opening, which presented the content-overview bullet as the area's name. Now names the area as the subject content does, quotes the overview wording as the overview's, and places it after Introduction to business and Business objectives and strategy (read from the subject-content tables). |
 
 ### Deferred
 
 | ID | Reason | What would unblock it |
 |---|---|---|
-| E48 | OxfordAQA 9237 v1.1, read complete, places "Ijma and Qiyas as a source of Shariah" at **3.2.2.5**, which is what the corpus says; D-138 and D-144 reached the same conclusion. But ┬º6 of the work order requires quoting a finding before recording it as wrong, and **no text of E48 exists** in `docs/audit/` or in the evidence file. | The finding's text, from whichever audit instance raised it. On the primary-document reading, it will close as not reproducing. |
+| E48 | OxfordAQA 9237 v1.1, read complete, places "Ijma and Qiyas as a source of Shariah" at **3.2.2.5**, which is what the corpus says; D-138 and D-144 reached the same conclusion. But Γö¼┬║6 of the work order requires quoting a finding before recording it as wrong, and **no text of E48 exists** in `docs/audit/` or in the evidence file. | The finding's text, from whichever audit instance raised it. On the primary-document reading, it will close as not reproducing. |
 
 ### Not an E-finding, worked because the work order names it
 
@@ -10746,11 +10746,11 @@ None in this cluster.
 | E574 | `aqa-gcse-mathematics-algebra.md`, `-revision-notes.md`; sibling `-practice.md` | The five Foundation bodies relabelled with statement references (A3/A6, A18, A9, A24, A7), only their Higher parts marked Higher; checked in the 8300 v1.1 three-column tables and AQA's HTML cells. Practice paper tiered (Q7 A18, Q8 A19, Q10(b) A25 Higher). |
 | E575 | same two files | Exponential graphs flagged Higher beside trigonometric (A12, A14). |
 | E576 | `aqa-gcse-mathematics-number.md`, `-revision-notes.md`, `-practice.md` | N7, N8, N10, N16 labelled Higher throughout; practice paper tiered question by question; single-value error intervals kept Foundation (N15). The finding's "eleven of fifteen" did not reproduce (18 answer-bearing parts counted) -- the defect did. |
-| E577 | `aqa-gcse-mathematics-algebra-revision-notes.md` | Unsolvable pair (discriminant ΓêÆ4) replaced with y = 2x + 2, y = x┬▓ ΓêÆ 1 -> (3, 8), (ΓêÆ1, 0); numbered self-test with an answers block. |
+| E577 | `aqa-gcse-mathematics-algebra-revision-notes.md` | Unsolvable pair (discriminant ╬ô├¬├å4) replaced with y = 2x + 2, y = xΓö¼Γûô ╬ô├¬├å 1 -> (3, 8), (╬ô├¬├å1, 0); numbered self-test with an answers block. |
 | E578 | `aqa-gcse-mathematics-number-practice.md` | Root-first and power-first always agree for a positive base; root-first kept as practical advice. |
 | E579 | `aqa-gcse-mathematics-number.md` | "Joint largest at Foundation, level with ratio" (Ofqual para 22: 25% each). |
 | E580 | `igcse-mathematics-number.md`; siblings `-revision-notes.md`, `-practice.md` | Core guide no longer teaches reverse percentages (E1.13.5) or bounds of calculations (C1.10 exclusion quoted); scoping rule now compares Core and Extended item by item. Also corrected: the guide advised non-calculator standard form, but C1.8 says Core candidates calculate with standard form only on Paper 3 (verified). Siblings label Extended-only items. |
-| E581 | `ocr-a-level-mathematics-statistics-revision-notes.md`; sibling `ocr-a-level-mathematics-statistics.md` | Recomputed: P(X ΓëÑ 9) = 0.0631, critical region X ΓëÑ 10; conclusion now "insufficient evidence", hedged as H240 2.05a requires. The study guide's flat "sufficient evidence ... has increased" also corrected. |
+| E581 | `ocr-a-level-mathematics-statistics-revision-notes.md`; sibling `ocr-a-level-mathematics-statistics.md` | Recomputed: P(X ╬ô├½├æ 9) = 0.0631, critical region X ╬ô├½├æ 10; conclusion now "insufficient evidence", hedged as H240 2.05a requires. The study guide's flat "sufficient evidence ... has increased" also corrected. |
 | E582 | `ocr-a-level-mathematics-statistics-revision-notes.md` | 2.04d/h formulas and understanding required; calculations using the approximation (2.04h) and its use in hypothesis tests (2.05c) excluded. |
 | E583 | `ocr-a-level-mathematics-statistics.md`, `-revision-notes.md` | Bivariate data (2.02c-e) and the PMCC test (2.05f-g) added with their exclusions; worked critical value 0.4409 (n = 15, 5% one-tailed) computed, not recalled. |
 | E584 | `ocr-gcse-mathematics-number-revision-notes.md`, `ocr-gcse-mathematics-number-operations-and-integers.md`; sibling `ocr-gcse-mathematics-fractions-decimals-percentages-revision-notes.md` | 2.02a, 3.01a-b, 3.03a-b, 4.01c labelled Higher (J560 columns resolved by x-position, not reading order); guide's full-Topic-1 claim amended and its Topic 3/4 sections labelled. |
@@ -10764,7 +10764,7 @@ None in this cluster.
 | E592 | `a-level-geography-human-practice.md` | Refers to the paper's two sections. |
 | E593 | `a-geography-physical-practice.md` | Two coastal questions (Paper 3 option content) replaced with atmosphere-and-weather questions: diurnal energy budget [8] and the urban-climate case study [12] (9696 2.1, 2.4); description corrected; all seven schemes recounted. Lead read the new schemes against 9696 2.1's named budget components. |
 | E594 | `a-geography-physical-practice.md`, `o-level-geography-population-practice.md` | The 14-mark scheme no longer exists (E593); the 3-mark scheme for a [4] question now sums to 4; both papers recounted. |
-| E595 | `o-level-geography-population-practice.md` | Natural increase per 1000, ├╖ 10 for a percentage, with a worked figure. |
+| E595 | `o-level-geography-population-practice.md` | Natural increase per 1000, Γö£Γòû 10 for a percentage, with a worked figure. |
 | E596 | `o-level-geography-natural-environment.md`, `-revision-notes.md` | Hazards-and-opportunities framing for 2.1-2.3, longshore drift, stumps, dunes and the work of the wind added. |
 | E597 | `a-level-cambridge-geography-core-human-geography.md` | "four" -> "three" management sub-topics. |
 | E598 | `a-level-cambridge-geography-core-physical-geography.md`; sibling `a-geography-physical-revision-notes.md` | All Paper 1 sub-topics and the three required case studies now named; "geological processes" replaced with the syllabus topics. |
@@ -10790,11 +10790,11 @@ None in this cluster.
 | E624 | `igcse-oxfordaqa-accounting-verification-revision-notes.md` | Direction restated in "more favourable" terms. |
 | E626 | `oxfordaqa-igcse-accounting-verification-practice.md` | On `main` the scheme already summed to 8 but unitemised; now one credit per line. |
 | E627 | same file | Q2 asks for two items [2]. |
-| E629 | `a-level-edexcel-accounting-principles-and-double-entry-bookkeeping.md` | Recomputed; rate now 43.77% (1 ΓêÆ Γü┤ΓêÜ0.1), with a year-by-year table (4,377 / 2,461 / 1,384 / 778 vs 2,250); the conclusion now holds and names the years. |
+| E629 | `a-level-edexcel-accounting-principles-and-double-entry-bookkeeping.md` | Recomputed; rate now 43.77% (1 ╬ô├¬├å ╬ô├╝Γöñ╬ô├¬├£0.1), with a year-by-year table (4,377 / 2,461 / 1,384 / 778 vs 2,250); the conclusion now holds and names the years. |
 | E630 | same file | Strands carry the specification's side headings and 1.1.x ranges; **seven** wrong prose cross-references corrected (the finding counted five). |
 | E632 | `edexcel-a-level-accounting-principles-practice.md`, `-revision-notes.md`; sibling `edexcel-a-level-accounting-control-accounts-practice.md` | IAS terms throughout (Appendix 6): allowance for irrecoverable debts, trade receivables/payables ledger control accounts; sweep of all YAC11 files clean. |
 | E633 | `aqa-a-level-accounting-role-of-the-accountant.md`; sibling `aqa-a-level-accounting-double-entry-model.md` | "Balance sheet" -> statement of financial position (7127 appendix). |
-| E634 | `aqa-a-level-accounting-role-of-the-accountant.md`, `aqa-a-level-accounting-role-practice.md`; sibling `aqa-a-level-accounting-double-entry-model.md` | $ -> ┬ú (7127 and its specimen mark scheme use ┬ú only). |
+| E634 | `aqa-a-level-accounting-role-of-the-accountant.md`, `aqa-a-level-accounting-role-practice.md`; sibling `aqa-a-level-accounting-double-entry-model.md` | $ -> Γö¼├║ (7127 and its specimen mark scheme use Γö¼├║ only). |
 | E635 | `aqa-a-level-accounting-business-organisation-practice.md` | Q5 retariffed [3]. |
 | E636 | same file | Fourth point each side; 4 + 4 + 2 = 10. |
 | E637 | `aqa-a-level-accounting-role-practice.md` | Q4 asks for four [8]; all five principles creditable; sibling "bad debts" -> irrecoverable debts. |
@@ -10802,7 +10802,7 @@ None in this cluster.
 | E639 | `edexcel-a-level-accounting-principles-practice.md`; sibling `edexcel-a-level-accounting-control-accounts-practice.md` | Off-list command words replaced with Appendix 8 words (Prepare, State). |
 | E640 | `a-psychology-approaches-revision-notes.md` | Rewritten from the 9990 syllabus: four approaches and their main assumptions, the 12 core studies by approach (verbatim list, p.14), the five AS issues and debates (p.15). Relabel rejected on its merits (stage check, duplicate AQA file, inbound links). |
 | E641 | `psychology-approaches-and-debates-practice.md` | Rebuilt by the lead as a 9990 Paper 1 set: Section A short answer on the core studies (38 marks), Section B extended response (22 marks), matching the section totals on syllabus p.10; the five-approach, alpha/beta bias, imposed-etic and A Level debate questions removed. Study detail kept to the syllabus descriptions and well-established findings. |
-| E642 | same file | **Correction of a D-223 regression.** D-223 removed "all three invented section headings" citing the specification as stating "This paper will not have sections". That sentence occurs in none of the three live 9990 syllabuses. The 2024-2026 syllabus the file declares reads (p.49): "This paper contains two sections: ΓÇó Section A: short answer questions ΓÇó Section B: extended response questions which may ask for comparison between studies and will require candidates to evaluate a study(s)"; its changes page repeats "Paper 1 ΓÇô This paper now has two sections". The lead re-read both passages. Headings restored as the finding's own fix directs (fold, not drop), and D-223's false note that the paper "is not divided into lettered sections" removed. |
+| E642 | same file | **Correction of a D-223 regression.** D-223 removed "all three invented section headings" citing the specification as stating "This paper will not have sections". That sentence occurs in none of the three live 9990 syllabuses. The 2024-2026 syllabus the file declares reads (p.49): "This paper contains two sections: ╬ô├ç├│ Section A: short answer questions ╬ô├ç├│ Section B: extended response questions which may ask for comparison between studies and will require candidates to evaluate a study(s)"; its changes page repeats "Paper 1 ╬ô├ç├┤ This paper now has two sections". The lead re-read both passages. Headings restored as the finding's own fix directs (fold, not drop), and D-223's false note that the paper "is not divided into lettered sections" removed. |
 | E643 | `a-level-psychology-approaches-issues-and-debates.md` | The 12 core studies listed by approach; its A Level debate (reductionism) replaced with the AS issues and debates. |
 | E644 | `a-level-psychology-specialist-options.md`; siblings `-revision-notes.md`, `-practice.md` | Both chosen options examined on both Papers 3 and 4, different topic areas on each (9990 pp.14, 51). |
 | E645 | same three files; `src/data/academic/syllabus-topics.ts` | Paper named "Specialist Options: Approaches, Issues and Debates"; the data layer's "Specialist Options 1/2" names corrected by the lead to both papers' syllabus titles (slugs unchanged). |
@@ -10829,7 +10829,7 @@ None in this cluster.
 
 | ID | What was read | Result |
 |---|---|---|
-| E625 | `igcse-oxfordaqa-accounting-recording-practice.md` on `main`; 9215 v1.2 ┬º2.2 | Sections A and B only (D-223 removed the invented Section C and kept A/B), matching "Two compulsory sections". |
+| E625 | `igcse-oxfordaqa-accounting-recording-practice.md` on `main`; 9215 v1.2 Γö¼┬║2.2 | Sections A and B only (D-223 removed the invented Section C and kept A/B), matching "Two compulsory sections". |
 | E631 | `edexcel-a-level-accounting-principles-practice.md` on `main`; IAL Issue 2 p.11 | Sections A and B only, matching "The paper is split into two sections". |
 
 ### Seen during this batch, not actioned (for the audit's next round)
@@ -10880,10 +10880,10 @@ None in this cluster.
 | E694 | `igcse-islamiyat-muslim-life-practice.md` | Rebuilt as 9237 Paper 1: Section A Beliefs and teachings, Section B Practices (Five Pillars there, 3.1.2.1), 25 marks each in parts of 1, 2, 4, 6 and 12; each 12-mark part tied to a given passage (Qur'an 35:1; 2:183-185) with the command word "Examine". The 25-mark sections and the passage-linked 12-mark question are in the specification (2.2); the 1/2/4/6/12 split is from the 9237/1 and 9237/2 specimen papers, and the file says so. 50 marks. |
 | E693 | the five named files | All reconciled. Four were rebuilt above; in `o-level-islamiyat-paper-1-practice.md` Q4(a) was one short of [10] and gained a fifth sourced point. Every guide checked by script against its tariff; every paper totals 50. |
 | E705 | `pakistan-studies-history-practice.md` (0448), `o-level-pakistan-studies-history-and-culture-of-pakistan-practice.md` (2059) | Section A: one compulsory 25-mark question in four parts, (a) and (b) source-based, at 3/5/7/10 (syllabus section 4 for the 25 and the source basis; the 3/5/7/10 split confirmed on both June 2024 papers, as the finding's note directs). Original sources clearly labelled as written for Marlbridge. Section B: two from four at 4/7/14 = 50. Levels tables for the 5/7/10/14-mark parts, modelled on the published 2059/01 mark scheme's bands in Marlbridge's own words. "Quick-recall warm-up" description and an unsupported timing claim removed. Paper = 75. |
-| E706 | `igcse-oxfordaqa-pakistan-studies-history-and-culture-practice.md` | 9236 v1.9 ┬º2.2 confirms 28/28/21 of 77. Existing Pakistan-movement questions relabelled as Section A; new Section B on independence to 2022 (3.1.2) and Section C sets for both options; all parts re-tariffed to the 9236/1 specimen's tariffs, because the file's old 7/8/10 tariffs do not exist on this paper (beyond the finding's letter; recorded). |
+| E706 | `igcse-oxfordaqa-pakistan-studies-history-and-culture-practice.md` | 9236 v1.9 Γö¼┬║2.2 confirms 28/28/21 of 77. Existing Pakistan-movement questions relabelled as Section A; new Section B on independence to 2022 (3.1.2) and Section C sets for both options; all parts re-tariffed to the 9236/1 specimen's tariffs, because the file's old 7/8/10 tariffs do not exist on this paper (beyond the finding's letter; recorded). |
 | E757 | `urdu-reading-and-writing-practice.md` | The discrete grammar exercise is no longer presented as part of the paper: the file is now 0539 Paper 1's six exercises (short answer 8, multiple matching 9, note-making 9, summary 10, functional writing 8, extended writing 16 = 60; syllabus p.14) with original Urdu texts. Grammar teaching kept, unmarked, in a labelled "Grammar support -- not an exercise of Paper 1" section, as the finding's note requires. |
-| E758 | same file | Summary now 10 marks, Γëñ 100 words, on the note-making text (with a 93-word model); writing tasks aligned to the real 8/120 and 16/200 exercises. Mark splits inside the exercises are labelled as Marlbridge's convention, since the syllabus gives only totals. |
-| E759 | `o-level-cambridge-urdu-first-and-second-language-practice.md` (Section C) | Now all five 3248 exercises: 8 + 9 + 9 + 10 + 14 = 50; exercise 1 re-tariffed 3 -> 8; multiple matching and note-making added with original texts; summary 10 marks Γëñ 100 words on the note-making text. Checked that the 2024-2026 edition's Paper 1 (still examined this November) is identical. |
+| E758 | same file | Summary now 10 marks, ╬ô├½├▒ 100 words, on the note-making text (with a 93-word model); writing tasks aligned to the real 8/120 and 16/200 exercises. Mark splits inside the exercises are labelled as Marlbridge's convention, since the syllabus gives only totals. |
+| E759 | `o-level-cambridge-urdu-first-and-second-language-practice.md` (Section C) | Now all five 3248 exercises: 8 + 9 + 9 + 10 + 14 = 50; exercise 1 re-tariffed 3 -> 8; multiple matching and note-making added with original texts; summary 10 marks ╬ô├½├▒ 100 words on the note-making text. Checked that the 2024-2026 edition's Paper 1 (still examined this November) is identical. |
 | E763 | `edexcel-a-level-urdu-translation-practice.md`; sibling `a-level-edexcel-urdu-translation-and-reading.md` | Q7 replaced by a genuine Section C research question: 40 marks, ~320-370 words (spec p.11), an original unseen Urdu stimulus, a statement on the Theme 4 subject, the all-three-aspects rule and the one-area rule **as Q377 bounds it** (Pakistan only for Themes 1, 3, 4; Pakistan or one Urdu-official area of India for Theme 2), the three grids AO4 20 / AO2 10 / AO3 10 (spec pp.14-20) and a model-answer outline. D-198's interim note removed. The sibling guide's "researched topic or set theme" description corrected to the research rules and three grids. |
 
 ### Deferred / already correct
@@ -10932,7 +10932,7 @@ Curriculum model: "Geographic themes--seven options / SL--two options; HL-- thre
 
 | ID | Finding (quoted) | Files | What was changed / verified |
 |---|---|---|---|
-| E605 | "Three resources give the higher level first paper as two hours ten minutes. It is two hours fifteen." FIX: "Correct the duration to two hours fifteen and recompute the two derived statements." | `ib-dp-geography-assessment-revision-notes.md`, `ib-dp-geography-subject-guide.md`, `ib-dp-geography-exam-preparation.md` (the post-baseline third file) | Brief: HL Paper 1 is 2.25 h, and 2.25 + 1.25 + 1 = 4.5 h external, matching the stated total; 2h10 does not reach it. Every "2h10" and "two hours ten minutes" is now 2h15 or two hours fifteen minutes (6 occurrences across 3 files). Derived statements recomputed. "Nearly 40 minutes longer" is now "45 minutes longer" (135 ΓêÆ 90). "Proportional time pressure per theme is actually similar" and "time-per-theme pressure is broadly similar" now read exactly equal at 45 minutes per option (90/2 = 135/3 = 45), in the notes, the exam-preparation guide and the self-test answer. |
+| E605 | "Three resources give the higher level first paper as two hours ten minutes. It is two hours fifteen." FIX: "Correct the duration to two hours fifteen and recompute the two derived statements." | `ib-dp-geography-assessment-revision-notes.md`, `ib-dp-geography-subject-guide.md`, `ib-dp-geography-exam-preparation.md` (the post-baseline third file) | Brief: HL Paper 1 is 2.25 h, and 2.25 + 1.25 + 1 = 4.5 h external, matching the stated total; 2h10 does not reach it. Every "2h10" and "two hours ten minutes" is now 2h15 or two hours fifteen minutes (6 occurrences across 3 files). Derived statements recomputed. "Nearly 40 minutes longer" is now "45 minutes longer" (135 ╬ô├¬├å 90). "Proportional time pressure per theme is actually similar" and "time-per-theme pressure is broadly similar" now read exactly equal at 45 minutes per option (90/2 = 135/3 = 45), in the notes, the exam-preparation guide and the self-test answer. |
 | E606 | "One resource says the second paper carries the largest single weighting at standard level and adds that it is more than the first paper and the internal assessment combined ... Another resource says the second paper tests the core with the same weight as the first paper tests the options". FIX: "Delete the parenthetical from the first and correct the second against the published weightings." | `ib-dp-geography-assessment-revision-notes.md`, `ib-dp-geography-population-distribution-revision-notes.md`; sibling `ib-dp-geography-population-distribution.md` (2 occurrences) | "more than Papers 1 and the IA combined" deleted; the sentence keeps "at SL (40%)". All three "same weight" claims now give the published figures: Paper 2 is 40% at SL (more than Paper 1's 35%) and 25% at HL, against 35% for Paper 1 at both levels. Same-class weighting errors found in the family check and corrected in the same files. (1) The notes said "every other component's percentage weighting is slightly lower at HL". Paper 1 is 35% at both levels, so it now names Paper 2 (40% to 25%) and the IA (25% to 20%). (2) Self-test answer 5 said the IA is lower at HL because "the longer Paper 1" takes more weight. Paper 1's weight does not change, so the answer now attributes it to Paper 3 (20%) alone. (3) The exam-preparation guide said "Paper 2 and Paper 3 carry different weightings at each level". Paper 3 has no SL weighting, so it now reads Paper 2 differs by level and Paper 3 is HL only. |
 | E607 | "Three resources call the school-chosen themes of the first paper elective themes ... The organisation calls them options, or optional themes, in both its guide and its subject brief; the word elective appears in neither." FIX: "Use options or optional themes throughout." | `ib-dp-geography-assessment-revision-notes.md`, `ib-dp-geography-subject-guide.md`, `ib-dp-geography-exam-preparation.md` | Checked against the brief read end to end: the brief never uses "elective". All 31 occurrences (11, 9 and 11) are now "optional theme(s)", "option(s)" or "choice of options". They include the headings "Optional themes are school-chosen", "Core versus optional content, at a glance" and "First: confirm your school's optional themes", the Paper 1 heading, both assessment tables and the exam-preparation `description`. Headings were renamed, not dropped. `grep -i elective ib-dp-geography-*` now returns nothing. The data layer (`syllabuses.ts`, `syllabus-topics.ts`) has no "elective". Family checked: `ib-dp-geography-syllabus-guide.md`, `-global-climate*` and `-population-distribution*` already used "options". |
 
@@ -10957,7 +10957,7 @@ None in this batch.
 
 **Trigger.** Audit round 9 (`docs/audit/2026-10-16-findings.md`, Q385) lists seven errors still open. D-232 closed E605-E607, which leaves E615, E616, E617 and E628, plus the E64 description residual noted in Q383. No repair round had worked any of the four, because their texts sit in the evidence file's `post_baseline_findings` array.
 
-**Finding texts.** The evidence file is not on the computer linked to this session: a search of that machine's user folders found no `marlbridge-audit-evidence*.json`, and `docs/audit/` does not carry it. Each fix therefore works from the audit's own statement of the defect in Q385, which is on `main`, and is verified against the primary document. None is a reversal. Q385: "E615: question 7's answer still calls two debits a complete reversal while its own part (b) says the trial balance disagrees. E616: question 9 is still built on reconciling the control account with the ledger balances. E617: part 9(b) still asks for one error at two marks against a scheme of two one-mark alternatives. E628: answer 4 still credits preference shares for two of its six marks." The work order (┬º8) adds for E628: "keep the E46 bank-finance parenthetical".
+**Finding texts.** The evidence file is not on the computer linked to this session: a search of that machine's user folders found no `marlbridge-audit-evidence*.json`, and `docs/audit/` does not carry it. Each fix therefore works from the audit's own statement of the defect in Q385, which is on `main`, and is verified against the primary document. None is a reversal. Q385: "E615: question 7's answer still calls two debits a complete reversal while its own part (b) says the trial balance disagrees. E616: question 9 is still built on reconciling the control account with the ledger balances. E617: part 9(b) still asks for one error at two marks against a scheme of two one-mark alternatives. E628: answer 4 still credits preference shares for two of its six marks." The work order (Γö¼┬║8) adds for E628: "keep the E46 bank-finance parenthetical".
 
 **Primary sources.**
 
@@ -10986,7 +10986,7 @@ None in this batch.
 
 ## D-234 - Owner item: Cambridge IGCSE Accounting 0452 moved to the 2027-2029 syllabus (nine resources and the data layer) (2026-09-16)
 
-**Trigger.** The audit lists "the 0452 rewrite to 2027-2029" as an owner item (round 10, work order ┬º8). The owner chose, via `AskUserQuestion`:
+**Trigger.** The audit lists "the 0452 rewrite to 2027-2029" as an owner item (round 10, work order Γö¼┬║8). The owner chose, via `AskUserQuestion`:
 
 - **Switch now**, rather than preparing the change and merging it after the November 2026 series.
 - **Scope: the nine existing resources**, which cover Topics 1-3, plus the data layer. Topics 4-7 stay unwritten.
@@ -10995,7 +10995,7 @@ None in this batch.
 
 **Primary sources.**
 
-- Cambridge IGCSE Accounting 0452 syllabus for 2027, 2028 and 2029, Version 1, ┬⌐ September 2024 (`https://www.cambridgeinternational.org/Images/718141-2027-2029-syllabus.pdf`). Byte-identical to the copy used for D-228's E619, and linked from the 0452 qualification page on 2026-09-16. Read to the contact block, including:
+- Cambridge IGCSE Accounting 0452 syllabus for 2027, 2028 and 2029, Version 1, Γö¼ΓîÉ September 2024 (`https://www.cambridgeinternational.org/Images/718141-2027-2029-syllabus.pdf`). Byte-identical to the copy used for D-228's E619, and linked from the 0452 qualification page on 2026-09-16. Read to the contact block, including:
   - the content overview (p.8);
   - the assessment overview (p.9);
   - the subject content (pp.11-20);
@@ -11030,7 +11030,7 @@ Topic 2 and Topic 3 pages also carry the differences specific to their topic, ea
 | `igcse-accounting-the-fundamentals-of-accounting.md` | Series wording and description updated. Coverage list re-worded from 2027 1.1/1.2 (content unchanged). Citation now points to `718141`. |
 | `igcse-accounting-fundamentals-revision-notes.md` | "income statement" changed to "statement of profit or loss" (2027 terminology). |
 | `fundamentals-of-accounting-practice.md` | Edition note and series only; no question depends on a changed syllabus point. |
-| `igcse-accounting-sources-and-recording-of-data.md` | Coverage rebuilt from 2027 2.1-2.3. Added: three-column running balance format; digital ledger accounts; the 2027 document list (cheque counterfoil, paying-in slip, bank statement); manual or digital documents; payment by cash, cheque, debit and credit card, online and bank transfer; the purpose of the imprest system; the benefits and limitations of cash kept at the business property and of manual and digital original entry. Removed as 2026-only syllabus points: completing pro-forma documents, and the advantage of books of prime entry. Two new sections: a worked running balance account (300 Dr, +450 = 750 Dr, ΓêÆ500 = 250 Dr, ΓêÆ50 = 200 Dr), and the imprest system with cash, digital and manual records. The advice not to revise three-column accounts is reversed. **Error found and fixed in passing:** the guide gave the imprest reimbursement as "float minus vouchers". The amount to restore is the total of the vouchers (float minus cash left). |
+| `igcse-accounting-sources-and-recording-of-data.md` | Coverage rebuilt from 2027 2.1-2.3. Added: three-column running balance format; digital ledger accounts; the 2027 document list (cheque counterfoil, paying-in slip, bank statement); manual or digital documents; payment by cash, cheque, debit and credit card, online and bank transfer; the purpose of the imprest system; the benefits and limitations of cash kept at the business property and of manual and digital original entry. Removed as 2026-only syllabus points: completing pro-forma documents, and the advantage of books of prime entry. Two new sections: a worked running balance account (300 Dr, +450 = 750 Dr, ╬ô├¬├å500 = 250 Dr, ╬ô├¬├å50 = 200 Dr), and the imprest system with cash, digital and manual records. The advice not to revise three-column accounts is reversed. **Error found and fixed in passing:** the guide gave the imprest reimbursement as "float minus vouchers". The amount to restore is the total of the vouchers (float minus cash left). |
 | `igcse-accounting-sources-recording-revision-notes.md` | The same 2027 changes in condensed form: running balance table, document table extended to the 2027 list, imprest purpose, and a benefits/limitations table. Exam trap about three-column formats replaced. **Same imprest error fixed** in the section and in self-test answer 5. |
 | `igcse-accounting-sources-recording-practice.md` | **Imprest error fixed in two answers.** Q4 answer: total of the vouchers. Q8(a) answer: **$148, not $52**, since $52 is the cash left in a $200 float after $148 of vouchers. Q10, which asked why three-column accounts are not required, is replaced by a running balance account question [4], whose scheme sums to 4. New Q11 on cash at the business property and digital original entry: (a) [2] + (b) [2]. |
 | `igcse-accounting-verification-of-accounting-records.md` | Coverage rebuilt from 2027 3.1-3.4. The six error types now sit under 3.1, where both syllabuses put them; the file had them under 3.2. 3.3 now separates cash book updates from reconciling items, uses the syllabus's "uncredited deposits" and bank errors, and drops dividends (2026 only). Added 3.4's list of entries and the syllabus's no-reconciliation note. The "how to approach it" line saying control accounts check ledgers "against the general ledger totals" is re-worded to the books-of-prime-entry basis. New section on how digital transactions and records affect bank reconciliation (2027 3.3) and control accounts (2027 3.4). |
@@ -11064,7 +11064,7 @@ The rendered `/boards/cambridge/igcse/accounting/` page shows the 2027-2029 seri
 - **Agents.** Seven parallel repair agents worked under a written brief, split by cluster: chemistry, physics, biology and maths, economics and business, languages and humanities, law/CS/sociology, and psychology/IB/other. The brief required:
   - reading each file and the decision-log entry first;
   - fixing the residue;
-  - searching the family, descriptions, self-tests, checklists and answer keys for the same wording, as ┬º8 asks;
+  - searching the family, descriptions, self-tests, checklists and answer keys for the same wording, as Γö¼┬║8 asks;
   - recounting every tariff touched;
   - verifying against the board document, read to its closing matter.
 - **Lead checks.** The lead read the riskiest diffs:
@@ -11088,22 +11088,22 @@ The rendered `/boards/cambridge/igcse/accounting/` page shows the 2027-2029 seri
 |---|---|
 | E59 | Atom economy now uses stoichiometric coefficients. Added a worked example: glucose to 2 ethanol + 2 CO2 gives 51.1%, and omitting the 2 gives 25.6%. Practice 8(a) updated; still 3 marks. Labelled background (9701 has no atom-economy outcome). |
 | E70 | Odd-electron species taught (NO worked example) in the guide. The revision notes, which claimed 3.4/3.7 without teaching them, now cover dative bonding, expanded octets, bond energy and length, and the dot-and-cross rules (9701 3.4.1, 3.4.3, 3.7.1). |
-| E78 | Fermentation Q6 replaced with a 16.1.1(d)-(f) question on reduction and hydrolysis routes, 2+2+2. Practice 5(c) "or" scheme split so both marks are earnable. The 170 ┬░C condition now pairs with conc. H2SO4 or Al2O3. |
+| E78 | Fermentation Q6 replaced with a 16.1.1(d)-(f) question on reduction and hydrolysis routes, 2+2+2. Practice 5(c) "or" scheme split so both marks are earnable. The 170 Γö¼ΓûæC condition now pairs with conc. H2SO4 or Al2O3. |
 | E80 | The rate-determining step is no longer stated in AS halogenoalkane notes. The sibling guide's SN1/SN2 rate sentences are labelled A Level (Topic 26); 9701 15.1.5-15.1.7. |
 | E85 | AS questions renumbered 5-8. The acyl chloride question is now Q9 under a closed "A Level extension (not AS content)" heading, with its answer labelled. |
 | E87 | Practice Q1 replaced with an AS 19.2.3 nitrile hydrolysis question (2 marks). Basicity self-tests and traps labelled A Level; 9701 19.1 "Classification of amines will not be tested at AS Level". |
-| E93 | O-H range corrected to 3200-3600. Sibling trap ranges set to the data section (CΓëíN 2200-2250, C=O 1640-1750). Answer 8(a) no longer refers to an absent peak (9701 Data section table 8, p.90). |
+| E93 | O-H range corrected to 3200-3600. Sibling trap ranges set to the data section (C╬ô├½├¡N 2200-2250, C=O 1640-1750). Answer 8(a) no longer refers to an absent peak (9701 Data section table 8, p.90). |
 | E101 | The NMR table is replaced by the 13 rows of 9701 Data section table 6 (p.88), with its note; -COOH is 9.0-13.0. The D2O "no chemical change" mistake is corrected. |
 | E104 | The Kstab paragraph is rewritten. Kstab is defined for formation from the aqua ion, and water is excluded, so the aqua ion has no separate constant. The ammine value is shown to measure stability. Worked value rechecked (9701 28.5). |
 | E131 | Calorimetry traps, self-test Q6-7 and practice description, Q6/Q8 and answers labelled background, not a 0620/5070 outcome, matching the files' own banners. |
 | E139 | NaCl and MgO dot-and-cross diagrams redrawn: Cl- 7 crosses + 1 dot, O2- 6 crosses + 2 dots, metal electrons as dots. Water redrawn, convention stated. Practice answer 2 uses the same convention (3 marks). |
 | E235 | "Mononuclear" now glossed as a single-atom ion; the 1+ m/z point is made separately (OxfordAQA 9620 v4.3, 3.1.1.2). |
-| E236 | HL-only sections added to both Structure 1 files. Verified against the IB Chemistry guide (first assessment 2025): Structure 1.2.3 is additional HL (1 hour), mass spectra; 1.3.6-1.3.7 are additional HL (3 hours), convergence limit, first-IE trends, successive IE. Worked examples (Mg Ar 24.32; 1.31 ├ù 10^6 J mol^-1; Al successive IE) added. **The lead also corrected the notes' "(SL)" label on first ionisation energy trends and the guide's coverage line: the guide puts both in HL-only 1.3.6.** |
+| E236 | HL-only sections added to both Structure 1 files. Verified against the IB Chemistry guide (first assessment 2025): Structure 1.2.3 is additional HL (1 hour), mass spectra; 1.3.6-1.3.7 are additional HL (3 hours), convergence limit, first-IE trends, successive IE. Worked examples (Mg Ar 24.32; 1.31 Γö£├╣ 10^6 J mol^-1; Al successive IE) added. **The lead also corrected the notes' "(SL)" label on first ionisation energy trends and the guide's coverage line: the guide puts both in HL-only 1.3.6.** |
 | E903 | Q2 moved to ethanal, giving 2-hydroxypropanenitrile. Q3 rebuilt: (a) chiral centre identified [2]; (b) planar carbonyl attacked from either face gives equal amounts of the two isomers [3]; (c) propanone's product has no chiral centre [1]. Total 6, recounted. The same over-generalisation (every carbonyl gives enantiomers) was fixed in the nitrogen-compounds notes and self-test Q5. |
 | E904 | Hydrogen ions are the species discharged at the cathode; sulfate ions are not discharged and increase conductivity, and the acid becomes more concentrated. |
 | E905 | The causal link is removed. The halide test is given on its own (nitric acid, then silver nitrate: white, cream, yellow), and the text states that the precipitates are not caused by the reactivity order. |
 | E909 (alcohols 4(a)) | One route: reagent [1] + its condition [1] = 2. |
-| E909 (acyl 5(d)) | Three marking points: delocalisation of the -OH lone pair; larger ╬┤+ on the acyl carbon; Cl- the better leaving group. Sums to 3. The sibling notes give the same argument. |
+| E909 (acyl 5(d)) | Three marking points: delocalisation of the -OH lone pair; larger Γò¼Γöñ+ on the acyl carbon; Cl- the better leaving group. Sums to 3. The sibling notes give the same argument. |
 
 ### Closed -- physics (28 files)
 
@@ -11111,14 +11111,14 @@ The rendered `/boards/cambridge/igcse/accounting/` page shows the 2027-2029 seri
 |---|---|
 | E168 | Hall voltage derivation added: qE = Bqv, E = VH/d, I = n(dt)vq, so VH = BI/(ntq) (9702 20.3). |
 | E170 | Kinematics practice 4(a) uses the syllabus definition of acceleration, not v = u + at (5054 1.2). No other 5054 file uses the equations of motion. |
-| E173 | Isobaric rows now say p╬öV is work done by the gas, so W = -p╬öV and ╬öU = q - p╬öV, in the guide and the notes. "(line 46 above)" removed. Each row has a correct reason. The 9702 16.2 "work done by vs on" outcome added to coverage. |
+| E173 | Isobaric rows now say pΓò¼├╢V is work done by the gas, so W = -pΓò¼├╢V and Γò¼├╢U = q - pΓò¼├╢V, in the guide and the notes. "(line 46 above)" removed. Each row has a correct reason. The 9702 16.2 "work done by vs on" outcome added to coverage. |
 | E180 | g = 9.8 N kg^-1 stated in energy practice Q4. The same defect in four more 5054 files was fixed with answers recomputed: pressure practice Q3 (was g = 10) and Q5 (was "9.81 N kg^-2"), pressure notes, forces notes and energy notes. |
 | E182 | Coverage for 25.1-25.3 rewritten from the syllabus wording. Stefan-Boltzmann moved to stellar radii. H0 given in s^-1 (SI units only). "The syllabus explicitly notes" removed. Age-of-universe items labelled background. |
 | E187 | Circular-motion 4(a)-(d) now 31 m s^-2, 5.4 N, 10 N, 2.8 m s^-1, carrying unrounded values. Oscillations 2(a)-(b) now 7.9 rad s^-1 and 0.35 m s^-1. |
 | E189 | Electric and gravitational field strength added to the vector list and table (5054 1.1). |
 | E190 | At-rest row added to the speed-time table in the guide and notes; notes rows completed. |
 | E206 | Checked against Pearson IAL Physics Issue 3, outcomes 111-124 and 133-142. Unit 4 decay, half-life and binding-energy questions moved to the Unit 5 nuclear-decay practice (Q11-Q14), not deleted. The Unit 4 practice has new original questions on outcomes 111, 113, 117, 119 and 120. The Unit 4 notes' mass-defect section is replaced with annihilation, pair creation and MeV/GeV. Items outside the specification (exchange particles, strangeness, synchrotrons, the weak force) are labelled background. Schemes recounted. |
-| E211 / E419 | One rule, crossover at ΓêÜ10, applied to every example in both estimation files. 5000 is order 10^4; practice Q8 and Q9 recomputed. |
+| E211 / E419 | One rule, crossover at ╬ô├¬├£10, applied to every example in both estimation files. 5000 is order 10^4; practice Q8 and Q9 recomputed. |
 | E223 | The Theme E paragraph now marks quantum physics HL only, matching the file's own HL lists. |
 | E906 | Two real pairs are given (feet/ground contact forces; Earth/you gravitational), and the text states that weight and the normal force are not a pair. Corpus search found no other occurrence. |
 | E909 (medical physics 8) | Q8 is now "outline how CT builds a 3D image" [3] with 3 marking points (9702 24.2). The non-syllabus advantages/disadvantages are kept as an unmarked note, and the same correction is made in the guide and notes. |
@@ -11159,7 +11159,7 @@ The rendered `/boards/cambridge/igcse/accounting/` page shows the 2027-2029 seri
 | E359 | ASCII diagram redrawn: D and S cross at one marked point on the Pe row, with Qe beneath it. Each curve labelled once; axes labelled. |
 | E368 | "Five named influences" corrected to six (AQA 8132 3.2). |
 | E383 | Power/interest grid question replaced with a stakeholder-conflict question (2+2+2). PESTLE changed to PEST (9609 6.2). Notes and guide re-worded to the 1.5.2 wording; self-test and description fixed. |
-| E391 | Both OCR J204 practice papers now open with 15 original 1-mark multiple-choice questions and answer keys (J204 specification 3a; June 2025 J204/01 and /02 confirm 15 ├ù 1). Section B renumbered 16-23 with cross-references updated. |
+| E391 | Both OCR J204 practice papers now open with 15 original 1-mark multiple-choice questions and answer keys (J204 specification 3a; June 2025 J204/01 and /02 confirm 15 Γö£├╣ 1). Section B renumbered 16-23 with cross-references updated. |
 | E405 | Paper 1 is a pre-released statement with an unseen case study (verified: IB Business management guide, assessment outline pp.45-46). Notes L29 and L62 and three sibling files corrected. |
 | E870 | The promotional-mix list is labelled as 9625's, with a note that 9725 revises it (as the finding records from the 9725 summary of changes). "First of thirteen topics" re-worded to "the opening topic (3.1.1)". The 9725 summary itself was not reachable (404 or challenge); no 9725 list is asserted. |
 | E874 | Mission statements labelled 9625 A2 content (3.3.1); Q1 added to the practice scope note. |
@@ -11174,7 +11174,7 @@ The rendered `/boards/cambridge/igcse/accounting/` page shows the 2027-2029 seri
 |---|---|
 | E208 | AQA 8702 Paper 2 guide gives the section marks 34/30/32; the practice paper's "structure and form credited equally" line is replaced with AO2 (language, form and structure). |
 | E215 | The claim that command verbs identify the sub-topic is replaced: the split is by subject matter (AQA 8463 4.1.1-4.1.2). |
-| E451 | Section A is now one compulsory 25-mark question on two texts; the old short questions became an unmarked warm-up. **Section B keeps a choice of two questions.** Round 12's evidence line says the unit "sets one directed writing task". The OxfordAQA 9670 specification (v5.2, ┬º2.2 p.10 and ┬º3.1 p.13) reads: "Section B: students carry out one writing task, from a choice of two questions." One task is written, chosen from two, as the file now states. |
+| E451 | Section A is now one compulsory 25-mark question on two texts; the old short questions became an unmarked warm-up. **Section B keeps a choice of two questions.** Round 12's evidence line says the unit "sets one directed writing task". The OxfordAQA 9670 specification (v5.2, Γö¼┬║2.2 p.10 and Γö¼┬║3.1 p.13) reads: "Section B: students carry out one writing task, from a choice of two questions." One task is written, chosen from two, as the file now states. |
 | E463 | The notes description says Section B offers a choice of two passages drawn from two of prose, poetry and drama. The practice paper's prose-only answer and a false weighting claim are fixed (9695 p.51). |
 | E470 | The 21 prescribed *Poems of the Decade* poems are named (titles, poets, page numbers) from Pearson IAL English Literature Appendix 5 in the guide, notes and practice; "the anthology" becomes "the prescribed list". |
 | E472 | 2(c) removed: it needed two unprinted set poems and closely paraphrased a live question. Section B is now a choice of two, as in the specification, and the guide and notes state the choice. |
@@ -11191,7 +11191,7 @@ The rendered `/boards/cambridge/igcse/accounting/` page shows the 2027-2029 seri
 | E770 | "Six sub-topics" corrected to eight; the 9264 specification link repointed in three files. |
 | E773 | Literature notes and the exam-preparation sibling: one extract at SL (1h15, 20 marks), both at HL (2h15, 40 marks). |
 | E783 | Emergent/capable/proficient no longer called phases; the eAssessment sibling says "levels", and its unsupported claim is removed. |
-| E784 | **Lead fix, verified against the IB Language B guide (first assessment 2020), individual oral assessment criteria SL pp.56-59 and HL pp.64-66.** Both files now give Criterion A Language (12); B1 MessageΓÇövisual stimulus at SL, MessageΓÇöliterary extract at HL (6); B2 MessageΓÇöconversation (6); C Interactive skillsΓÇöcommunication (6); total 30, with the presentation and conversation marked separately. Self-test answer 5 updated. |
+| E784 | **Lead fix, verified against the IB Language B guide (first assessment 2020), individual oral assessment criteria SL pp.56-59 and HL pp.64-66.** Both files now give Criterion A Language (12); B1 Message╬ô├ç├╢visual stimulus at SL, Message╬ô├ç├╢literary extract at HL (6); B2 Message╬ô├ç├╢conversation (6); C Interactive skills╬ô├ç├╢communication (6); total 30, with the presentation and conversation marked separately. Self-test answer 5 updated. |
 | E911 (history notes) | Q4 is described as the highest-tariff question (16 of Section B's 40; Q1-Q3 carry 24). "Including 4 for SPaG" removed from notes and practice: AQA 8145 puts Paper 2's SPaG on the Section A essay. |
 | E911 (lang & lit) | The guide says two unseen non-literary texts are set: SL analyses one, HL both. Syllabus guide "passage" changed to "passages". |
 
@@ -11200,16 +11200,16 @@ The rendered `/boards/cambridge/igcse/accounting/` page shows the 2027-2029 seri
 | ID | What changed / verified |
 |---|---|
 | E498 | Description no longer claims "full content"; names 4.1.1 and 4.1.2. The AQA 7517 4.1 points the file lacked are added: types, operations, exception handling, subroutines, OOP principles and class diagrams. |
-| E502 | Bitmap versus vector graphics section added with the 9618 ┬º1.2 terms (2026 and 2027-2029 syllabuses). |
+| E502 | Bitmap versus vector graphics section added with the 9618 Γö¼┬║1.2 terms (2026 and 2027-2029 syllabuses). |
 | E517 | O Level guide has no "full content" claim. Paper 2 facts corrected, 4.1-6.3 listed, and functionalist, Marxist and feminist views plus the 6.2.6 crime theories added (2251). Sibling IGCSE file: measuring crime under 6.1.6; the syllabus's five aims of punishment. |
-| E532 | Section C rebuilt on an invented data table: Q9 [2], Q10 [4], Q11 (a)-(e) [10]. Section C 16, paper 60, schemes recomputed (OxfordAQA 9292 ┬º2.2; specimen for shape only). |
+| E532 | Section C rebuilt on an invented data table: Q9 [2], Q10 [4], Q11 (a)-(e) [10]. Section C 16, paper 60, schemes recomputed (OxfordAQA 9292 Γö¼┬║2.2; specimen for shape only). |
 | E673 | Description and scope: one of five sections and the only one on all three papers (25 marks each). Criminal law is Paper 1, Tort Paper 2, Contract or Human rights Paper 3; the false "a third" quote removed. Siblings: Tort guide Paper 3 changed to Paper 2; exam preparation 34% changed to 33% (AQA 7162 v1.0/v1.1). |
 | E675 | Actus reus elements are conduct, voluntariness, causation and consequences, in the practice, notes and guide. |
-| E676 | Following, overruling and distinguishing (the specification's list); reversing no longer given as a way to avoid precedent in AQA files. Cambridge 9084 files left alone, since 9084 ┬º1.1.5 lists reversing. |
-| E683 | Regulation of the professions added (BSB, SRA/SDT, Legal Services Act 2007, Legal Ombudsman), plus a scope sentence on what the guide does not cover (9084 ┬º1.3.2). |
+| E676 | Following, overruling and distinguishing (the specification's list); reversing no longer given as a way to avoid precedent in AQA files. Cambridge 9084 files left alone, since 9084 Γö¼┬║1.1.5 lists reversing. |
+| E683 | Regulation of the professions added (BSB, SRA/SDT, Legal Services Act 2007, Legal Ombudsman), plus a scope sentence on what the guide does not cover (9084 Γö¼┬║1.3.2). |
 | E684 | Role of law in society, meaning of fault, and the impact of EU law (*Pickstone*) and HRA 1998 ss 3-4 (*Ghaidan*, *Bellinger*) on interpretation added to the guide and notes. Tribunals and access to justice completed. Rule-of-law element uses the specification's wording. |
 | E687 | Sibling descriptions now promise only what the practice files contain (access to justice removed; privacy removed; occupiers' liability, sentencing and omissions added). |
-| E910 (sociology essay 5) | Guidance answers why an interpretivist prefers participant observation, weighed against its weaknesses (9699 ┬º2.1-2.3). |
+| E910 (sociology essay 5) | Guidance answers why an interpretivist prefers participant observation, weighed against its weaknesses (9699 Γö¼┬║2.1-2.3). |
 | E911 (CS communication) | Paper 1 Theory Fundamentals covers sections 1-8; sections 9-12 are Paper 2 (9618 p.11). |
 
 ### Closed -- psychology, IB and other (28 files)
@@ -11291,9 +11291,9 @@ None in this batch.
 
 **Primary source.** AQA GCSE Combined Science: Trilogy (8464) specification, version 1.1 (4 October 2019). Read to the registered-address block (AQA, Devas Street, Manchester M15 6EX). Used:
 
-- ┬º1.1 for the board summary, quoted verbatim.
-- ┬º2.2 for the six papers: two biology, two chemistry, two physics, each 1 hour 15 minutes, 70 marks, 16.7%, Foundation and Higher tier, with the topics each paper covers.
-- ┬º6.1.3, National and global energy resources.
+- Γö¼┬║1.1 for the board summary, quoted verbatim.
+- Γö¼┬║2.2 for the six papers: two biology, two chemistry, two physics, each 1 hour 15 minutes, 70 marks, 16.7%, Foundation and Higher tier, with the topics each paper covers.
+- Γö¼┬║6.1.3, National and global energy resources.
 - The 17-point grading scale, 1-1 to 9-9.
 
 The live AQA specification page is `https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification` (H1 "GCSE Combined Science: Trilogy").
@@ -11328,7 +11328,7 @@ None.
 
 | ID | Files | What changed / verified |
 |---|---|---|
-| I356 | `igcse-oxfordaqa-business-influences-on-business.md` | The description listed five influences as "the six". It now reads "Technology, ethics and the environment, the economic climate, globalisation, legislation and the competitive environment -- the six external influencesΓÇª", matching the guide's own opening (L23-25). Family checked: every 9225 file was grepped for an influences count. `igcse-oxfordaqa-business-influences-revision-notes.md` says "Six influences" and is consistent. |
+| I356 | `igcse-oxfordaqa-business-influences-on-business.md` | The description listed five influences as "the six". It now reads "Technology, ethics and the environment, the economic climate, globalisation, legislation and the competitive environment -- the six external influences╬ô├ç┬¬", matching the guide's own opening (L23-25). Family checked: every 9225 file was grepped for an influences count. `igcse-oxfordaqa-business-influences-revision-notes.md` says "Six influences" and is consistent. |
 | I357 | `src/pages/resources/[slug].astro` | The "Aligned to" line put every declared code inside the board/qualification/subject parentheses, so 8464 appeared as a GCSE Physics code. The new rule applies only when a resource declares more than one code. Any code whose own `syllabuses.ts` record is for the same qualification level as the first declared code, but carries a different official title, is named under that title. Result: "Aligned to AQA GCSE Physics (8463) and AQA GCSE Combined Science: Trilogy (8464), For first teaching 2016." on both energy-resources files. **Regression check:** all 64 resources declaring more than one code were rebuilt and their lines read. Only these two changed. The 0620/5070 pair (different qualification levels, already named) and OxfordAQA "9625 / 9725" (one combined record) render exactly as before. Single-code resources are untouched. |
 
 ### Deferred / Already correct
@@ -11358,7 +11358,7 @@ None.
 | E913 | `a-physics-astronomy-cosmology-practice.md` | 6(c) and its answer labelled background beyond the 9702 learning outcomes (25.3 names redshift and Hubble's law; the CMB and H/He abundance are not in the syllabus), matching the file's existing 5(c) and 8(a) labels and the revision notes' background note. |
 | I358 | `src/data/academic/syllabuses.ts` (3248 record, combined 3247/3248 notes), `syllabus-topics.ts` (3247/3248 series), `assessments.ts` (3248) | The 3248 record now links `721465-2027-2029-syllabus.pdf` (Version 1, September 2024, read to its address block). The series entry reads "3247: 2027; 3248: 2027-2029" (effective 2027-2029), and the 3248 assessment record cites 721465 with first assessment 2027. Paper 1 (1h45, 50 marks) and Paper 2 (1h30, 50 marks) are unchanged from 2024-2026, and the syllabus's changes page states "There are no significant changes which affect teaching". Each record now notes that 634455 is still examined in November 2026. All six 3248-coded resources already declare 2027-2029; the rendered Paper 2 notes page now links 721465 only. |
 | I359 | 20 OxfordAQA resources (all files coded 9620, 9201 or 9202, not only the ten linking the live copies); `syllabus-topics.ts` records for 9201, 9202 and 9620 | Live specifications downloaded from the URLs the files link and read to their copyright blocks: 9620 Version 5.3 (52 pp), 9201 Version 5.2 (34 pp), 9202 Version 6.2 (48 pp). Sub-topic checks first: every section number and title the files cite (9620 3.1.1, 3.1.2, 3.1.3.1-3.1.3.7, 3.1.4, 3.1.7; 9201 3.1.1-3.1.5, 3.2.1-3.2.6; 9202 3.1.1, 3.1.3, 3.6) appears with the same number and title in the live versions. A script confirmed all topic names and every sub-topic name in the three `syllabus-topics.ts` records (9620: 87; 9201: 6; 9202: 3) against the live texts. Declarations then corrected: `syllabusSeries` and in-body citations now say 9620 Version 5.3, 9201 Version 5.2 and 9202 Version 6.2. The unsupported "specification updated November 2022" dates are removed. The three data-layer records now declare those versions and point to the live copies instead of the legacy `oaqaresources` path. 9630 files already matched (Version 4.4). |
-| I360 | `igcse-oxfordaqa-urdu-local-national-international.md` and `-revision-notes.md`; `igcse-oxfordaqa-urdu-study-employment.md`, `-revision-notes.md` and `-practice.md`; `syllabus-topics.ts` 9264 record | Checked against OxfordAQA 9264 Version 1.1 ┬º3.1.2-3.1.3. The Theme 2 and 3 files now use the specification's "Topic 1-4" labels, with Theme 2's bullet sub-topics given under Topics 2 and 3 (charity/voluntary work; healthy/unhealthy living; the environment; poverty). Invented 2.1-2.4 and 3.1-3.4 numbering removed throughout (coverage lists, notes tables, cross-references, self-tests and answers, checklists). The claim that reading tasks ask which sub-topic a detail belongs to is removed. Practice Q7 [3] is rebuilt on the comparative structure alone: ╪¿█ü╪¬╪▒ █ü█î┌║ [1]; ╪▓█î╪º╪»█ü ╪│╪«╪¬ █ü█î┌║ [1]; the comparison with ┘╛╪▒╪º┘å█Æ ╪º╪│┌⌐┘ê┘ä ╪│█Æ [1]. The data layer's 9264 sub-topic numbers are now "Topic N" within each theme, for all three themes. |
+| I360 | `igcse-oxfordaqa-urdu-local-national-international.md` and `-revision-notes.md`; `igcse-oxfordaqa-urdu-study-employment.md`, `-revision-notes.md` and `-practice.md`; `syllabus-topics.ts` 9264 record | Checked against OxfordAQA 9264 Version 1.1 Γö¼┬║3.1.2-3.1.3. The Theme 2 and 3 files now use the specification's "Topic 1-4" labels, with Theme 2's bullet sub-topics given under Topics 2 and 3 (charity/voluntary work; healthy/unhealthy living; the environment; poverty). Invented 2.1-2.4 and 3.1-3.4 numbering removed throughout (coverage lists, notes tables, cross-references, self-tests and answers, checklists). The claim that reading tasks ask which sub-topic a detail belongs to is removed. Practice Q7 [3] is rebuilt on the comparative structure alone: Γò¬┬┐Γûê├╝Γò¬┬¼Γò¬ΓûÆ Γûê├╝Γûê├«ΓöîΓòæ [1]; Γò¬ΓûôΓûê├«Γò¬┬║Γò¬┬╗Γûê├╝ Γò¬ΓöéΓò¬┬½Γò¬┬¼ Γûê├╝Γûê├«ΓöîΓòæ [1]; the comparison with ΓöÿΓò¢Γò¬ΓûÆΓò¬┬║Γöÿ├ÑΓûê├å Γò¬┬║Γò¬ΓöéΓöîΓîÉΓöÿ├¬Γöÿ├ñ Γò¬ΓöéΓûê├å [1]. The data layer's 9264 sub-topic numbers are now "Topic N" within each theme, for all three themes. |
 | Q393 | `a-level-oxfordaqa-biology-diversity-of-living-organisms.md`; siblings `oxfordaqa-a-level-biology-diversity-revision-notes.md`, `oxfordaqa-a-level-biology-diversity-practice.md` | The guide gives the three 3.1.11.1 comparisons (9610 Version 5.1): base sequence of DNA or mRNA, frequency of specific base sequences or alleles, amino acid sequence of encoded proteins. Polymorphic loci are kept, labelled background. **Siblings.** The notes listed "the frequency of measurable characteristics" (not in 3.1.11.1) and gave polymorphic loci in self-test answer 4; both now give the specification's list. Practice answer 10 now gives the specification's measures, with polymorphic loci accepted as background; answer 5(a) already credited allele frequency and sequences. |
 
 ### Deferred / Already correct
@@ -11388,7 +11388,7 @@ None.
 
 **Primary sources.**
 
-- Cambridge IGCSE Accounting 0452 syllabus for 2027, 2028 and 2029, Version 1, ┬⌐ September 2024 (`718141`), the same copy D-234 used, read again to its contact block: content overview p.8, assessment p.9, subject content pp.14-20 (Topics 4-7), accounting ratios p.21, details of the assessment p.22, command words p.23, changes p.28.
+- Cambridge IGCSE Accounting 0452 syllabus for 2027, 2028 and 2029, Version 1, Γö¼ΓîÉ September 2024 (`718141`), the same copy D-234 used, read again to its contact block: content overview p.8, assessment p.9, subject content pp.14-20 (Topics 4-7), accounting ratios p.21, details of the assessment p.22, command words p.23, changes p.28.
 - Cambridge IGCSE Accounting 0452 syllabus for 2026, Version 2 (`697149`), pp.13-19, for each page's "2026 differs" sentence only.
 
 **How it was written.** One writer per topic under a common brief (terminology, every bullet and Note covered, no exam claim beyond pp.9 and 22, p.21 formulas only, labelled background for anything beyond a bullet, original questions, every figure computed, every scheme recounted), then a separate adversarial reviewer per topic who re-balanced every statement and account and recounted every tariff, then a lead pass on the reviewers' judgement items. The data layer needed no change: D-234 already entered Topics 4-7 and their sub-topic slugs.
@@ -11434,7 +11434,7 @@ None. No existing resource or data-layer record was edited.
 
 **Trigger.** Round 18 (`docs/audit/2026-10-25-findings.md`, `87fa74f`) checked the two observations D-238 left unactioned and recorded I361 and I362.
 
-**Primary sources.** Each specification linked from its OxfordAQA qualification page (`/qualification/<name>-<code>/`, fetched 2026-09-16) was downloaded and read to its copyright block: 9270 Version 5.1 (23 pp.), 9275 Version 5.1 (24 pp.), 9675 Version 5.3 (26 pp.), 9230 Version 4.3 (36 pp.), 9635 Version 3.2 (34 pp.), 9630 Version 4.4 (42 pp.), all under `wp-content/uploads/2026/07/`. Cambridge O Level First Language Urdu 3247 syllabus for exams in 2027 (`721463`, Version 1, September 2024, 24 pp.) read to its address block. Before any declaration changed, a script checked every topic and sub-topic name in the six `syllabus-topics.ts` records against the live texts (9270: 6; 9275: 7; 9675: 8, including all 15 set texts and four poet selections; 9230: 5; 9635: 13; 9630: 51); all appear, the only differences being composed labels ("Unit 1 ΓÇô Physical Geography 1: Living with Hazards") and "selections" for "selection".
+**Primary sources.** Each specification linked from its OxfordAQA qualification page (`/qualification/<name>-<code>/`, fetched 2026-09-16) was downloaded and read to its copyright block: 9270 Version 5.1 (23 pp.), 9275 Version 5.1 (24 pp.), 9675 Version 5.3 (26 pp.), 9230 Version 4.3 (36 pp.), 9635 Version 3.2 (34 pp.), 9630 Version 4.4 (42 pp.), all under `wp-content/uploads/2026/07/`. Cambridge O Level First Language Urdu 3247 syllabus for exams in 2027 (`721463`, Version 1, September 2024, 24 pp.) read to its address block. Before any declaration changed, a script checked every topic and sub-topic name in the six `syllabus-topics.ts` records against the live texts (9270: 6; 9275: 7; 9675: 8, including all 15 set texts and four poet selections; 9230: 5; 9635: 13; 9630: 51); all appear, the only differences being composed labels ("Unit 1 ╬ô├ç├┤ Physical Geography 1: Living with Hazards") and "selections" for "selection".
 
 ### Closed -- fixed and verified
 
@@ -11473,33 +11473,33 @@ None. No existing resource or data-layer record was edited.
 | Item | File | Result |
 |---|---|---|
 | E914.1 | `aqa-a-level-english-language-nea-language-in-action` | **Closed.** 7702 NEA: both tasks (investigation and original writing with commentary) are required. Checked against AQA 7702 web spec 3.3. |
-| E914.2 | `gcse-history-shaping-the-nation-options` | **Closed.** 8145 Power and the People code BBΓåÆAB. AQA 8145 v1.3 at-a-glance (p.7): AA/AB/AC thematic, BB Edward I. The spec's p.24 heading misprints BB. |
+| E914.2 | `gcse-history-shaping-the-nation-options` | **Closed.** 8145 Power and the People code BB╬ô├Ñ├åAB. AQA 8145 v1.3 at-a-glance (p.7): AA/AB/AC thematic, BB Edward I. The spec's p.24 heading misprints BB. |
 | E914.3 | `gcse-history-shaping-the-nation-practice` | **Closed.** Same, practice stem; also factor-list asides. |
 | E914.4 | `gcse-history-shaping-the-nation-practice` | **Closed.** Same, practice answers. |
 | E914.5 | `gcse-history-shaping-the-nation-revision-notes` | **Closed.** Same, revision notes lists, traps, checklist, self-test. All 11 files coded 8145 grepped. |
-| E914.6 | `aqa-gcse-biology-infection-and-response` | **Closed.** 8461: 'third of the seven assessed subject-content topics (4.8 Key ideas embedded)'; Paper 1 = 1-4, Paper 2 = 5-7 (8461 ┬º2.1, ┬º4.8). |
-| E914.7 | `aqa-gcse-chemistry-quantitative-chemistry` | **Closed.** 8462: 'ten assessed topics' (4.11 Key ideas embedded) (8462 v1.1 ┬º2.1-2.2). Sibling `gcse-aqa-chemistry-atomic-structure-and-periodic-table` 'eleven'ΓåÆ'ten'. |
+| E914.6 | `aqa-gcse-biology-infection-and-response` | **Closed.** 8461: 'third of the seven assessed subject-content topics (4.8 Key ideas embedded)'; Paper 1 = 1-4, Paper 2 = 5-7 (8461 Γö¼┬║2.1, Γö¼┬║4.8). |
+| E914.7 | `aqa-gcse-chemistry-quantitative-chemistry` | **Closed.** 8462: 'ten assessed topics' (4.11 Key ideas embedded) (8462 v1.1 Γö¼┬║2.1-2.2). Sibling `gcse-aqa-chemistry-atomic-structure-and-periodic-table` 'eleven'╬ô├Ñ├å'ten'. |
 | E914.8 | `cambridge-igcse-world-history-depth-study-first-world-war` | **Closed.** 0470: candidates study Core Content Option A or B plus at least one Depth Study (0470 2024-2026 pp.8-9). |
 | E914.9 | `cambridge-igcse-world-history-depth-study-first-world-war` | **Closed.** Causes of WWI placed in Option A KQ6 ('What caused the First World War?', p.14); Option B begins 1919. Depth Study A has no causes: coverage bullet labelled background; example KQ replaced with the syllabus's stalemate question. |
 | E914.10 | `o-level-world-history-depth-studies-practice` | **Closed.** 2147 Depth Studies: Paper 1 Section B (2147 2024-2026 pp.9, 29). Q3 answer. |
 | E914.11 | `o-level-world-history-depth-studies-practice` | **Closed.** Q7 stem and model answer rewritten. |
 | E914.12 | `o-level-world-history-depth-studies-practice` | **Closed.** Claim that Core Content has no source demand removed; Q8 answer, Q4 label, top note and description aligned. |
-| E914.13 | `o-level-world-history-depth-studies-revision-notes` | **Closed.** 2147 notes 'Where this fits' ΓåÆ Paper 1 Section B; description updated. |
+| E914.13 | `o-level-world-history-depth-studies-revision-notes` | **Closed.** 2147 notes 'Where this fits' ╬ô├Ñ├å Paper 1 Section B; description updated. |
 | E914.14 | `o-level-world-history-depth-studies-revision-notes` | **Closed.** Worked source example reframed as practice of the Paper 2 skill; trap wording aligned. |
 | E914.15 | `a-level-world-history-international-1870-1945-practice` | **Closed.** 9489: Paper 1 Historical Sources, Paper 2 Outline Study (9489 2027-2029 v2 pp.10, 36-38). Q8 stem. |
 | E914.16 | `a-level-world-history-international-1870-1945-practice` | **Closed.** Answer 8 rewritten to the correct paper formats (review pass removed unsupported source count and weighting details). |
-| E914.17 | `ocr-gcse-physics-exam-preparation` | **Closed.** J249 Paper 1/3 = P1-P4 and P9; Paper 2/4 = P5-P8 with assumed P1-P4, P9 (J249 v5.0 ┬º2a). Intro, sections, checklist, self-test. Sibling `ocr-gcse-physics-matter` P9 statement corrected. |
+| E914.17 | `ocr-gcse-physics-exam-preparation` | **Closed.** J249 Paper 1/3 = P1-P4 and P9; Paper 2/4 = P5-P8 with assumed P1-P4, P9 (J249 v5.0 Γö¼┬║2a). Intro, sections, checklist, self-test. Sibling `ocr-gcse-physics-matter` P9 statement corrected. |
 
 ### E918 - Mathematics (8 items)
 
 | Item | File | Result |
 |---|---|---|
-| E918.1 | `aqa-gcse-mathematics-ratio-proportion-rates-of-change` | **Closed.** 1.03├ù5 = 5.15 is neither interest type; simple ├ù1.15, compound ├ù1.03Γü╡ = 1.159. |
+| E918.1 | `aqa-gcse-mathematics-ratio-proportion-rates-of-change` | **Closed.** 1.03Γö£├╣5 = 5.15 is neither interest type; simple Γö£├╣1.15, compound Γö£├╣1.03╬ô├╝Γòí = 1.159. |
 | E918.2 | `statistics-frequency-distributions-revision-notes` | **Closed.** Recover frequencies by subtracting the previous cumulative total from each; first class keeps its own. |
 | E918.3 | `igcse-mathematics-statistics` | **Closed.** Checklist: three averages (mean, median, mode) plus measures of spread (range; Extended quartiles, IQR) (0580 C9.3/E9.3). |
-| E918.4 | `igcse-mathematics-statistics-revision-notes` | **Closed.** Heading 'The four averages' ΓåÆ 'The three averages and the measures of spread'. |
+| E918.4 | `igcse-mathematics-statistics-revision-notes` | **Closed.** Heading 'The four averages' ╬ô├Ñ├å 'The three averages and the measures of spread'. |
 | E918.5 | `aqa-a-level-mathematics-differentiation` | **Closed.** a^(kx) = e^(kx ln a) (sympy-checked). |
-| E918.6 | `aqa-a-level-mathematics-differentiation-practice` | **Closed.** Substituting t into dy/dt and dx/dt then dividing is valid wherever dx/dt Γëá 0; no longer called a slip. |
+| E918.6 | `aqa-a-level-mathematics-differentiation-practice` | **Closed.** Substituting t into dy/dt and dx/dt then dividing is valid wherever dx/dt ╬ô├½├í 0; no longer called a slip. |
 | E918.7 | `aqa-a-level-mathematics-differentiation-revision-notes` | **Closed.** Same identity fix in notes self-test answer 2. |
 | E918.8 | `o-level-economics-basic-economic-problem-revision-notes` | **Closed.** PPC redrawn bowed outward between the two axes. Sibling `the-basic-economic-problem` (2281 guide) had the same drawing; fixed. |
 
@@ -11509,14 +11509,14 @@ None. No existing resource or data-layer record was edited.
 |---|---|---|
 | E919.1 | `aqa-as-level-business-what-is-business-practice` | **Closed.** Ingredients are bought-in inputs already deducted in added value, not overheads. |
 | E919.2 | `igcse-environmental-management-water-revision-notes` | **Closed.** Filtration removes particles that did not settle in sedimentation. |
-| E919.3 | `o-level-world-history-twentieth-century-practice` | **Closed.** US no-invasion pledge public; Jupiter/Turkey missile withdrawal secret ΓÇö in answer (e) and in invented Source C. |
+| E919.3 | `o-level-world-history-twentieth-century-practice` | **Closed.** US no-invasion pledge public; Jupiter/Turkey missile withdrawal secret ╬ô├ç├╢ in answer (e) and in invented Source C. |
 | E919.4 | `a-level-biology-enzymes-revision-notes` | **Closed.** Below the optimum the temperature effect is kinetic; above it (and with pH) tertiary-structure bonds break. |
 | E919.5 | `a-level-economics-government-microeconomic-intervention-practice` | **Closed.** Elastic demand: producers get the larger share of a subsidy, stated with the supply assumption; consistent with the file's incidence rule. |
 | E919.6 | `ib-dp-geography-population-distribution` | **Closed.** Narrowing top = high death rates / lower life expectancy; wide top = ageing. Sibling revision notes had the same sentence; fixed. |
-| E919.7 | `ib-dp-geography-population-distribution-practice` | **Closed.** Answer 4(b) ΓåÆ Stage 1 (high birth and death rates), early Stage 2 accepted if reasoned. |
+| E919.7 | `ib-dp-geography-population-distribution-practice` | **Closed.** Answer 4(b) ╬ô├Ñ├å Stage 1 (high birth and death rates), early Stage 2 accepted if reasoned. |
 | E919.8 | `ib-dp-geography-population-distribution-practice` | **Closed.** Flat land removed from the human-factor answer; replaced by concentration of government, services and jobs in coastal cities. |
 | E919.9 | `ib-myp-individuals-societies-disciplines` | **Closed.** Every MYP subject group uses four criteria A-D with the same band structure, but each group's criteria are its own. Sibling revision notes (which named I&S criteria for all groups) fixed. |
-| E919.10 | `igcse-oxfordaqa-urdu-local-national-international-practice` | **Closed.** Passage had no present-tense verb for Q7: added '╪º╪¿ █ü┘à ┘ê█ü╪º┌║ ╪»┘ê╪¿╪º╪▒█ü ╪¼╪º┘å╪º ┌å╪º█ü╪¬█Æ █ü█î┌║█ö'; answer gives ╪¬┌╛█î past, ┌å╪º█ü╪¬█Æ █ü█î┌║ present (3 marks). Q6 scheme (four marks against [6]) rebuilt to six chunks. |
+| E919.10 | `igcse-oxfordaqa-urdu-local-national-international-practice` | **Closed.** Passage had no present-tense verb for Q7: added 'Γò¬┬║Γò¬┬┐ Γûê├╝Γöÿ├á Γöÿ├¬Γûê├╝Γò¬┬║ΓöîΓòæ Γò¬┬╗Γöÿ├¬Γò¬┬┐Γò¬┬║Γò¬ΓûÆΓûê├╝ Γò¬┬╝Γò¬┬║Γöÿ├ÑΓò¬┬║ Γöî├ÑΓò¬┬║Γûê├╝Γò¬┬¼Γûê├å Γûê├╝Γûê├«ΓöîΓòæΓûê├╢'; answer gives Γò¬┬¼ΓöîΓò¢Γûê├« past, Γöî├ÑΓò¬┬║Γûê├╝Γò¬┬¼Γûê├å Γûê├╝Γûê├«ΓöîΓòæ present (3 marks). Q6 scheme (four marks against [6]) rebuilt to six chunks. |
 | E919.11 | `aqa-a-level-psychology-approaches-revision-notes` | **Closed.** Self-actualisation = top level of Maslow's hierarchy (both lines). |
 | E919.12 | `aqa-a-level-psychology-approaches-practice` | **Closed.** Same, practice answer 5. |
 | E919.13 | `igcse-environmental-management-water-practice` | **Closed.** Dam displacement: communities in the reservoir area upstream. |
@@ -11529,8 +11529,8 @@ None. No existing resource or data-layer record was edited.
 | Item | File | Result |
 |---|---|---|
 | E915.1 | `a-level-aqa-mathematics-quadratics-practice` | **Closed.** Q8 [3]: 1+1+1. |
-| E915.2 | `igcse-pakistan-studies-natural-resources-practice` | **Closed.** Q1 retariffed [3]ΓåÆ[4]: Mangla, Tarbela, Warsak, one barrage use (0448 2026 2(a)). |
-| E915.3 | `igcse-sociology-family-education-crime-practice` | **Closed.** Q3: two contrasted differences ├ù 3 = 6. |
+| E915.2 | `igcse-pakistan-studies-natural-resources-practice` | **Closed.** Q1 retariffed [3]╬ô├Ñ├å[4]: Mangla, Tarbela, Warsak, one barrage use (0448 2026 2(a)). |
+| E915.3 | `igcse-sociology-family-education-crime-practice` | **Closed.** Q3: two contrasted differences Γö£├╣ 3 = 6. |
 | E915.4 | `igcse-commerce-globalisation-of-trade-practice` | **Closed.** Q9 [3]: challenge + effect on importer + consequence. |
 | E915.5 | `a-level-business-hrm-practice` | **Closed.** Q3 now the four traditional management functions (9609 v2 2.3.1), [4]. |
 | E915.6 | `a-level-business-hrm-practice` | **Closed.** Q7(a) [3]: method + link to context + justification. |
@@ -11560,21 +11560,21 @@ None. No existing resource or data-layer record was edited.
 
 | Item | File | Result |
 |---|---|---|
-| E917.1 | `aqa-a-level-business-managers-leadership-practice` | **Closed.** 'six of the fifteen' ΓåÆ 'six of the eleven' (3+2+6). |
+| E917.1 | `aqa-a-level-business-managers-leadership-practice` | **Closed.** 'six of the fifteen' ╬ô├Ñ├å 'six of the eleven' (3+2+6). |
 | E917.2 | `aqa-gcse-biology-infection-and-response` | **Closed.** 'the seven named disease examples' (8461 4.3.1.2-4.3.1.5). |
-| E917.3 | `aqa-gcse-english-literature-exam-preparation` | **Closed.** Paper 1 Γëê 1.6 and Paper 2 Γëê 1.4 minutes per mark. |
-| E917.4 | `igcse-mathematics-mensuration` | **Closed.** Sector area 61.4 cm┬▓. |
+| E917.3 | `aqa-gcse-english-literature-exam-preparation` | **Closed.** Paper 1 ╬ô├½├¬ 1.6 and Paper 2 ╬ô├½├¬ 1.4 minutes per mark. |
+| E917.4 | `igcse-mathematics-mensuration` | **Closed.** Sector area 61.4 cmΓö¼Γûô. |
 | E917.5 | `cambridge-o-level-environmental-management-exam-preparation` | **Closed.** Section A = 20 of 160 marks (an eighth); self-test 140/160 = 87.5%. |
 | E917.6 | `a-level-mathematics-pure-mathematics-2-practice` | **Closed.** 0.732 (ln5/(2 ln3) = 0.73249). |
 | E917.7 | `a-level-mathematics-pure-mathematics-2-practice` | **Closed.** Iterates recomputed; root 1.325 (3 d.p.). |
-| E917.8 | `edexcel-igcse-physics-waves-practice` | **Closed.** 40.8┬░ (arcsin 0.654). |
-| E917.9 | `edexcel-igcse-physics-waves-revision-notes` | **Closed.** 41.1┬░ (arcsin 0.658). |
-| E917.10 | `edexcel-ial-accounting-exam-preparation` | **Closed.** 'two hours short' (200 marks ├ù 1.5 = 300 min). |
+| E917.8 | `edexcel-igcse-physics-waves-practice` | **Closed.** 40.8Γö¼Γûæ (arcsin 0.654). |
+| E917.9 | `edexcel-igcse-physics-waves-revision-notes` | **Closed.** 41.1Γö¼Γûæ (arcsin 0.658). |
+| E917.10 | `edexcel-ial-accounting-exam-preparation` | **Closed.** 'two hours short' (200 marks Γö£├╣ 1.5 = 300 min). |
 | E917.11 | `ib-dp-biology-exam-preparation` | **Closed.** External papers = 44% of the grade (55% of the 80%). Siblings `ib-dp-biology-assessment-revision-notes`, `ib-dp-chemistry-assessment-revision-notes` aligned. |
 | E917.12 | `ib-dp-chemistry-structure-1-practice` | **Closed.** 0.0991 mol; O mass 1.59 g; total 4.00 g. |
-| E917.13 | `ib-dp-mathematics-ai-geometry-trigonometry-practice` | **Closed.** ΓêÜ76.64 = 8.7544 Γëê 8.75. |
+| E917.13 | `ib-dp-mathematics-ai-geometry-trigonometry-practice` | **Closed.** ╬ô├¬├£76.64 = 8.7544 ╬ô├½├¬ 8.75. |
 | E917.14 | `ib-dp-mathematics-ai-statistics-probability-practice` | **Closed.** Mean 72.25 is above five of the eight scores. |
-| E917.15 | `gcse-history-shaping-the-nation-options` | **Closed.** Thematic spans Γëê 850-1,240 years (guide). |
+| E917.15 | `gcse-history-shaping-the-nation-options` | **Closed.** Thematic spans ╬ô├½├¬ 850-1,240 years (guide). |
 | E917.16 | `gcse-history-shaping-the-nation-practice` | **Closed.** Same, practice answer 7. |
 | E917.17 | `gcse-history-shaping-the-nation-revision-notes` | **Closed.** Same, revision notes and self-test. |
 
@@ -11585,20 +11585,20 @@ None. No existing resource or data-layer record was edited.
 | I363.1 | `cambridge-igcse-urdu-second-language-exam-preparation` | **Closed.** 0539 listening: each exercise heard twice (0539 2025-2027 V2 p.15). Heading, routine, checklist, self-test, description. |
 | I363.2 | `ib-dp-business-management-marketing` | **Closed.** IB BM guide (2024) hours: SL U3=U4=30 (tied largest); HL U3=U5=45, U4 35. Marketing guide description and intro. Sibling `ib-dp-business-management-syllabus-guide` (which units have equal SL/HL hours) corrected. |
 | I363.3 | `a-level-aqa-psychology-approaches-in-psychology` | **Closed.** Revision notes were wrong: AQA 7181/7182 v1.4 lists cognitive neuroscience under the biological approach (v1.2 had it under cognitive). Notes fixed; study guide right (its 7182 section number also corrected to 4.2.1). |
-| I363.4 | `aqa-a-level-computer-science-fundamentals-of-algorithms` | **Closed.** Algorithms (section 12 / 4.3) is Paper 1 (7517 v1.6 ┬º2.2). |
+| I363.4 | `aqa-a-level-computer-science-fundamentals-of-algorithms` | **Closed.** Algorithms (section 12 / 4.3) is Paper 1 (7517 v1.6 Γö¼┬║2.2). |
 | I363.5 | `aqa-gcse-economics-objectives-of-government` | **Closed.** 8136 numbering: guide covers 3.2.2 Government objectives; 3.2.2.6 noted as not covered (8136 v1.0). |
-| I363.6 | `gcse-history-exam-preparation` | **Closed.** 8145 has four AOs, 35/35/15/15 (8145 ┬º4.2); tariff and SPaG sentence corrected. |
+| I363.6 | `gcse-history-exam-preparation` | **Closed.** 8145 has four AOs, 35/35/15/15 (8145 Γö¼┬║4.2); tariff and SPaG sentence corrected. |
 | I363.7 | `gcse-history-historic-environment` | **Closed.** Historic environment = one 16-mark essay (8 AO1, 8 AO2), Paper 2 Section B Q4, one specified site changed annually (8145 4.4.2). Sibling revision notes (judgement wording; site count) fixed. |
 | I363.8 | `gcse-history-understanding-modern-world-practice` | **Closed.** Sources AO3 (Paper 1 Section B); interpretations AO4 (Section A). |
 | I363.9 | `cambridge-igcse-world-history-depth-study-first-world-war` | **Closed.** 0470 Depth Studies examined in Paper 1 Section B and basis of Paper 4/Component 3. |
-| I363.10 | `igcse-english-literature-paper-2-drama-practice` | **Disputed, no change.** Both wordings are the 0475 syllabus's own: section 4 AO table ('AO2 Understand the meanings of literary texts and their contextsΓÇª', 'AO3 Recognise and appreciate ways in which writers use language, structure and formΓÇª') and the Paper 1/3 component descriptions ('characters, relationships, situations and themes (AO2)', 'writer's intentions and methods (AO3)'). Each file quotes one faithfully. |
-| I363.11 | `cambridge-igcse-urdu-component-5-speaking` | **Closed (both figures are the syllabus's).** 0539 V2 gives 'Approximately 10ΓÇô12 minutes' (pp.9, 16) and part timings 2-3, 3-4, 3-4 (p.17). The Component 5 guide now states both, and Part 3 corrected to 'two or three general topics' (p.17). |
+| I363.10 | `igcse-english-literature-paper-2-drama-practice` | **Disputed, no change.** Both wordings are the 0475 syllabus's own: section 4 AO table ('AO2 Understand the meanings of literary texts and their contexts╬ô├ç┬¬', 'AO3 Recognise and appreciate ways in which writers use language, structure and form╬ô├ç┬¬') and the Paper 1/3 component descriptions ('characters, relationships, situations and themes (AO2)', 'writer's intentions and methods (AO3)'). Each file quotes one faithfully. |
+| I363.11 | `cambridge-igcse-urdu-component-5-speaking` | **Closed (both figures are the syllabus's).** 0539 V2 gives 'Approximately 10╬ô├ç├┤12 minutes' (pp.9, 16) and part timings 2-3, 3-4, 3-4 (p.17). The Component 5 guide now states both, and Part 3 corrected to 'two or three general topics' (p.17). |
 | I363.12 | `igcse-biology-human-nutrition-revision-notes` | **Closed (sibling was wrong).** 0610 7.2.1(a) groups colon, rectum, anus under the large intestine; the named notes match. Study guide and practice Q3 wording fixed. |
 | I363.13 | `cambridge-o-level-sociology-social-stratification-and-inequality` | **Closed.** 2251: Social stratification and inequality is Topic 3 (3.1-3.3), not subtopic 1.3 (2251 2025-2027 V3). Title, description, intro, coverage rebuilt. |
 | I363.14 | `cambridge-o-level-environmental-management-agriculture` | **Closed.** 5014 2025-2026 V2: soils are 3.1-3.2 in Topic 3 itself; Topic 1 has none. |
 | I363.15 | `cambridge-o-level-commerce-globalisation-of-trade` | **Closed.** 7100 v2 Topic 3 coverage rebuilt: 3.1.1-3.1.4, 3.2.1-3.2.2 (trade restrictions tariffs, quotas, embargoes; supply-chain risks). |
 | I363.16 | `cambridge-o-level-commerce-globalisation-of-trade` | **Closed.** Multinationals placed in 2.1.3 with link; description rewritten. |
-| I363.17 | `a-level-business-hrm-practice` | **Closed.** Q3 ΓåÆ four traditional functions (planning, organising, directing, controlling), 9609 v2 2.3.1. |
+| I363.17 | `a-level-business-hrm-practice` | **Closed.** Q3 ╬ô├Ñ├å four traditional functions (planning, organising, directing, controlling), 9609 v2 2.3.1. |
 | I363.18 | `a-level-ict-hardware-software-practice` | **Closed.** 9626 2.1 gives one shared characteristics list; mainframe/supercomputer distinction now rests on uses and throughput. Practice 7(a), sibling notes and guide aligned. |
 | I363.19 | `a-level-english-literature-paper-3-shakespeare-and-drama-revision-notes` | **Closed.** 9695 2026 Section A: Hamlet or The Taming of the Shrew. |
 | I363.20 | `a-level-english-literature-paper-3-shakespeare-and-drama-revision-notes` | **Closed.** Section B: Sweat, Long Day's Journey Into Night, Kongi's Harvest; 2024-only texts noted. |
@@ -11618,7 +11618,7 @@ None. No existing resource or data-layer record was edited.
 | I363.34 | `ib-dp-language-a-literature-exam-preparation` | **Closed.** Language A: literature guide (2021) HL essay: regular feedback; advice on a first complete draft; next version final. |
 | I363.35 | `ib-dp-mathematics-aa-calculus` | **Closed.** AA guide SL 5.6: chain, product, quotient rules are SL; '(particularly at HL)' removed. |
 | I363.36 | `ib-dp-mathematics-aa-calculus` | **Closed.** Checklist: all four rules at SL and HL. |
-| I363.37 | `ib-dp-mathematics-aa-calculus` | **Closed.** SL 5.10 substitution of the form Γê½kgΓÇ▓(x)f(g(x))dx; AHL 5.16 wider substitution and by parts; AHL 5.17 volumes of revolution. Sibling notes aligned. |
+| I363.37 | `ib-dp-mathematics-aa-calculus` | **Closed.** SL 5.10 substitution of the form ╬ô├¬┬╜kg╬ô├çΓûô(x)f(g(x))dx; AHL 5.16 wider substitution and by parts; AHL 5.17 volumes of revolution. Sibling notes aligned. |
 | I363.38 | `ib-dp-psychology-cognitive-approach` | **Closed.** 'Paper 1 essays sometimes ask to compare two approaches' removed from guide and sibling notes (comparison presented as a revision tool). |
 | I363.39 | `ib-myp-mathematics-criteria-in-practice` | **Closed.** MYP Mathematics brief: numerical and abstract reasoning; thinking with models; spatial reasoning; reasoning with data. |
 | I363.40 | `ib-myp-mathematics-criteria-in-practice-practice` | **Closed.** Practice Q2 answer: the four branches, [1] each = 4. |
@@ -11626,7 +11626,7 @@ None. No existing resource or data-layer record was edited.
 | I363.42 | `ib-dp-economics-macroeconomics-practice` | **Closed.** IB Economics 3.3: growth, low unemployment, low and stable inflation, sustainable government debt (HL only); equity is 3.4 / a potential conflict. Q3 qualified SL 3 / HL 4. Siblings' 'four objectives' qualified. |
 | I363.43 | `ib-dp-economics-macroeconomics-practice` | **Closed.** Economics guide: published February 2020, updated May, August and October 2020 (practice and two siblings). |
 | I363.44 | `oxfordaqa-igcse-economics-exam-preparation` | **Closed.** 9214: ten MCQs open Section A; rest calculation, short-answer, extended response (9214 v1.0 p.9). Sibling markets practice aligned. |
-| I363.45 | `oxfordaqa-igcse-islamiyat-exam-preparation` | **Closed.** 9237 paper titles and sections (v1.1 ┬º2.1-2.2). |
+| I363.45 | `oxfordaqa-igcse-islamiyat-exam-preparation` | **Closed.** 9237 paper titles and sections (v1.1 Γö¼┬║2.1-2.2). |
 | I363.46 | `igcse-oxfordaqa-urdu-study-employment` | **Closed.** Theme topics from 9264 3.1.3; unsupported provenance clause removed. |
 | I363.47 | `oxfordaqa-igcse-english-literature-exam-preparation` | **Closed.** 9275 v5.1 and v1.0: unseen prose Route A only; unseen poetry on both routes. |
 | I363.48 | `gcse-history-exam-preparation` | **Closed.** 8145 source questions Paper 1 Section B (4, 12) and Paper 2 Section A (8); site essay 16 marks; one site per depth study changed annually. |
@@ -11635,7 +11635,7 @@ None. No existing resource or data-layer record was edited.
 
 | Item | File | Result |
 |---|---|---|
-| I364.1 | `aqa-a-level-business-managers-leadership-practice` | **Closed.** 'State' ΓåÆ Q2 and Q6b; 'Distinguish' (Q3) added. |
+| I364.1 | `aqa-a-level-business-managers-leadership-practice` | **Closed.** 'State' ╬ô├Ñ├å Q2 and Q6b; 'Distinguish' (Q3) added. |
 | I364.2 | `ib-dp-business-management-finance-accounts-practice` | **Closed.** Only Q5 and Q6 calculate; Q4 none; 7(c) interprets a given ratio. |
 | I364.3 | `ib-dp-chemistry-reactivity-3-mechanisms-practice` | **Closed.** Weighting paragraph rewritten to real tariffs (Q7 7; Q4, Q5 4; Q6 3) and coverage (3.3 not tested). |
 | I364.4 | `ib-dp-chemistry-structure-1-practice` | **Closed.** Command terms: Calculate 4a, 5, 6b, 7b; Determine 4b; Explain 7a, 7c. |
@@ -11643,10 +11643,10 @@ None. No existing resource or data-layer record was edited.
 | I364.6 | `ib-dp-ess-topic-1-foundations-practice` | **Closed.** Q1-3 plain definitions; Q4-7 scenarios. |
 | I364.7 | `ib-dp-global-politics-peace-conflict-practice` | **Closed.** Concept questions named: 4(b), 5(a), 5(b), 6. |
 | I364.8 | `aqa-gcse-business-exam-preparation` | **Closed.** Self-test asks which AOs outweigh AO1 and by how much (8132 4.2.1: 35/35/30). |
-| I364.9 | `cambridge-igcse-world-history-exam-preparation` | **Closed.** Heading now about reading load (Γëê2.6 vs 2.0 minutes per mark; up to seven sources, 0470 p.29). |
+| I364.9 | `cambridge-igcse-world-history-exam-preparation` | **Closed.** Heading now about reading load (╬ô├½├¬2.6 vs 2.0 minutes per mark; up to seven sources, 0470 p.29). |
 | I364.10 | `cambridge-o-level-islamiyat-exam-preparation` | **Closed.** Q1 8 marks (16%), Q2-5 14 marks (28%) (2058 2026-2027); timings by tariff; worked structure rebuilt to part (a) 10 marks / part (b) 4 marks (review pass); checklist, self-test, description. |
 | I364.11 | `a-level-world-history-usa-practice` | **Closed.** Note matches answers: answer 6 states position at once; 4 and 5 reach judgement by weighing. |
-| I364.12 | `ib-dp-chemistry-structure-1-practice` | **Closed.** Q5 described as sharing the massΓåÆmoles step then continuing through a mole ratio. |
+| I364.12 | `ib-dp-chemistry-structure-1-practice` | **Closed.** Q5 described as sharing the mass╬ô├Ñ├åmoles step then continuing through a mole ratio. |
 | I364.13 | `aqa-a-level-accounting-exam-preparation` | **Closed.** Section C 50 of 120 marks, over 40% (7127). |
 | I364.14 | `edexcel-a-level-urdu-translation-works-practice` | **Closed.** Section A 20 marks, recommended 30 minutes; the extra 20 minutes wording corrected. |
 | I364.15 | `ib-dp-chemistry-reactivity-3-mechanisms-practice` | **Closed.** Claims not made by the notes removed. |
@@ -11662,8 +11662,8 @@ None. No existing resource or data-layer record was edited.
 | I365.3 | `a-level-aqa-english-literature-b-theory-and-independence-revision-notes` | **Closed.** Conventional essay: at least two texts in detail; re-creative piece may focus on one (7717 3.3). |
 | I365.4 | `aqa-gcse-biology-infection-and-response` | **Closed.** 8461 4.3.3.1 restriction applies to named plant diseases; detection, deficiencies and defences still required. |
 | I365.5 | `igcse-global-perspectives-individual-report-practice` | **Closed (resolved the other way).** Cambridge publishes a specimen mark scheme for 0457/02 (Tables A-H). The 'no published criteria' claim removed; answers reference the criteria. Siblings guide and notes (which said no criteria are published) corrected. |
-| I365.6 | `igcse-geography-natural-environment-revision-notes` | **Closed.** 'five unconnected places' ΓåÆ one per required case study. Sibling guide (same wording, listing six) fixed. |
-| I365.7 | `igcse-english-literature-paper-1-poetry-and-prose-practice` | **Closed.** Writer's intention ΓåÆ AO3; AO4 by implication (0475 2026 V2). |
+| I365.6 | `igcse-geography-natural-environment-revision-notes` | **Closed.** 'five unconnected places' ╬ô├Ñ├å one per required case study. Sibling guide (same wording, listing six) fixed. |
+| I365.7 | `igcse-english-literature-paper-1-poetry-and-prose-practice` | **Closed.** Writer's intention ╬ô├Ñ├å AO3; AO4 by implication (0475 2026 V2). |
 | I365.8 | `igcse-computer-science-hardware-revision-notes` | **Closed.** Self-test: registers PC, MAR, MDR, CIR and address, data, control buses (0478 3.1.2). |
 | I365.9 | `igcse-statistics-frequency-distributions-practice` | **Closed.** 0479 3.2: discrete data uses class limits, boundaries, midpoints, widths; Q8 stem and answer rebuilt ([3]). |
 | I365.10 | `igcse-mathematics-mensuration` | **Closed.** Only the triangle area formula is in the 0580 List of formulas. |
@@ -11681,14 +11681,14 @@ None. No existing resource or data-layer record was edited.
 | I365.22 | `ib-dp-language-a-language-and-literature-exam-preparation` | **Closed.** Answer 4 and checklist: regular feedback plus advice on one complete draft. |
 | I365.23 | `ib-myp-sciences-course-models` | **Closed.** Topics span biology, chemistry, physics; exam scope set by the eAssessment option entered. Siblings notes and syllabus guide aligned; review pass fixed `ib-myp-sciences-investigation-skills-exam-preparation` (same claim). |
 | I365.24 | `ib-myp-sciences-course-models-practice` | **Closed.** Answers 4(a), 5(b) aligned with 8. |
-| I365.25 | `oxfordaqa-igcse-chemistry-exam-preparation` | **Closed.** One Mg ΓåÆ MgO worked example throughout. |
-| I365.26 | `oxfordaqa-igcse-mathematics-exam-preparation` | **Closed.** 9260: linear, tiered; both papers of one tier (1C/2C or 1E/2E) in one series (v5.1 ┬º2.2). |
+| I365.25 | `oxfordaqa-igcse-chemistry-exam-preparation` | **Closed.** One Mg ╬ô├Ñ├å MgO worked example throughout. |
+| I365.26 | `oxfordaqa-igcse-mathematics-exam-preparation` | **Closed.** 9260: linear, tiered; both papers of one tier (1C/2C or 1E/2E) in one series (v5.1 Γö¼┬║2.2). |
 | I365.27 | `igcse-oxfordaqa-urdu-study-employment-practice` | **Closed.** Q6 note: 3 + 2 = 5. |
 | I365.28 | `oxfordaqa-a-level-geography-exam-preparation` | **Closed.** Five components at 20% each (intro line fixed in review pass). |
 | I365.29 | `oxfordaqa-a-level-geography-exam-preparation` | **Closed.** Paper 3: 60 marks in the same 1h30. |
 | I365.30 | `oxfordaqa-a-level-english-literature-exam-preparation` | **Closed.** As AS Paper 1 (closed book), unlike open-book AS Paper 2 (9675 v5.3 2.2). |
 | I365.31 | `aqa-a-level-biology-exchange-with-environment` | **Closed.** Sections 1-4 are first-year/AS content; assessed on both AS papers and A-level Papers 1 and 3 (7402 v1.5). |
-| I365.32 | `aqa-a-level-biology-exchange-with-environment` | **Closed.** Monosaccharides and amino acids by co-transport with NaΓü║; micelle products by diffusion (3.3.3). |
+| I365.32 | `aqa-a-level-biology-exchange-with-environment` | **Closed.** Monosaccharides and amino acids by co-transport with Na╬ô├╝Γòæ; micelle products by diffusion (3.3.3). |
 | I365.33 | `a-level-mathematics-pure-mathematics-2-revision-notes` | **Closed.** (1/2) ln|2x+1| + c; derivative line consistent. |
 | I365.34 | `ib-dp-business-management-finance-accounts-practice` | **Closed.** 7(c) labelled HL only (gearing is 3.6 HL). |
 | I365.35 | `ib-dp-physics-forces-momentum-practice` | **Closed.** Tension is the centripetal force when it is the only centre-directed force; conical pendulum noted. |
@@ -11702,9 +11702,9 @@ None. No existing resource or data-layer record was edited.
 | I366.1 | `aqa-gcse-sociology-research-methods` | **Closed.** Topic string and subtopic `sociological-research-methods-8192` (exists in syllabus-topics.ts). |
 | I366.2 | `igcse-commerce-commercial-operations-practice` | **Closed.** Description: wholesaling removed. |
 | I366.3 | `o-level-economics-microeconomic-decision-makers-practice` | **Closed.** Description: money and banking removed. |
-| I366.4 | `edexcel-igcse-english-language-exam-preparation` | **Disputed, no change.** The linked PDF (filename 'ΓÇªiss6-02-02-2023.pdf') was downloaded: cover 'Issue 7', 'This specification is Issue 7', footer 'Specification ΓÇô Issue 7 ΓÇô August 2025' (46 pp). The declared Issue 7 matches the document; only the filename is stale. |
-| I366.5 | `edexcel-ial-english-literature-exam-preparation` | **Disputed, no change.** The linked PDF (filename 'ΓÇªiss6-9-spec-240521pm.pdf') is byte-identical to the local Issue 7 copy: cover 'Issue 7', 'Issue 7 changes', footer 'Specification ΓÇô Issue 7 ΓÇô February 2026' (53 pp). |
-| I366.6 | `aqa-a-level-computer-science-exam-preparation` | **Closed.** Description: worked routine for an on-screen programming task; Preliminary Material sentence (7517 ┬º2.2). |
+| I366.4 | `edexcel-igcse-english-language-exam-preparation` | **Disputed, no change.** The linked PDF (filename '╬ô├ç┬¬iss6-02-02-2023.pdf') was downloaded: cover 'Issue 7', 'This specification is Issue 7', footer 'Specification ╬ô├ç├┤ Issue 7 ╬ô├ç├┤ August 2025' (46 pp). The declared Issue 7 matches the document; only the filename is stale. |
+| I366.5 | `edexcel-ial-english-literature-exam-preparation` | **Disputed, no change.** The linked PDF (filename '╬ô├ç┬¬iss6-9-spec-240521pm.pdf') is byte-identical to the local Issue 7 copy: cover 'Issue 7', 'Issue 7 changes', footer 'Specification ╬ô├ç├┤ Issue 7 ╬ô├ç├┤ February 2026' (53 pp). |
+| I366.6 | `aqa-a-level-computer-science-exam-preparation` | **Closed.** Description: worked routine for an on-screen programming task; Preliminary Material sentence (7517 Γö¼┬║2.2). |
 | I366.7 | `ib-dp-business-management-exam-preparation` | **Closed.** Description matches body. |
 | I366.8 | `ib-dp-chemistry-exam-preparation` | **Closed.** Description matches body (no Paper 2 timings claimed). |
 
@@ -11735,9 +11735,9 @@ None. No existing resource or data-layer record was edited.
 | `a-level-law-criminal-law-practice.md` | Rebuilt Q3 answer also addresses attempted theft inside the building under s9(1)(b). |
 | `ib-myp-sciences-investigation-skills-exam-preparation.md` | Trap and self-test answer 5 carried the course-model claim removed under I365.23. |
 | `ib-dp-history-assessment-revision-notes.md` | Command-terms section carried the essay-only Paper 2 description removed under I363.32. |
-| `a-level-aqa-psychology-approaches-in-psychology.md` | 7182 section number 3.2.1 ΓåÆ 4.2.1 (3.2.1 is the AS content), two places. |
-| `cambridge-o-level-islamiyat-exam-preparation.md` | Worked structure, checklist and self-test rebuilt to part (a) knowledge (10) and part (b) understanding (4), per 2058 ┬º4.2 levels of response. |
-| `cambridge-igcse-urdu-component-5-speaking.md` | Part 3 'at least two topics' ΓåÆ 'two or three general topics' (0539 p.17). |
+| `a-level-aqa-psychology-approaches-in-psychology.md` | 7182 section number 3.2.1 ╬ô├Ñ├å 4.2.1 (3.2.1 is the AS content), two places. |
+| `cambridge-o-level-islamiyat-exam-preparation.md` | Worked structure, checklist and self-test rebuilt to part (a) knowledge (10) and part (b) understanding (4), per 2058 Γö¼┬║4.2 levels of response. |
+| `cambridge-igcse-urdu-component-5-speaking.md` | Part 3 'at least two topics' ╬ô├Ñ├å 'two or three general topics' (0539 p.17). |
 | `a-level-world-history-international-1870-1945-practice.md`, `a-level-world-history-usa-practice.md`, `cambridge-igcse-world-history-depth-study-first-world-war.md`, `gcse-history-historic-environment.md`, `gcse-history-historic-environment-revision-notes.md` | Unsupported details added by the first pass removed (source count and weighting in answer 8; an overstated note on judgements; a 1890-1914 date range; 'set of sites' / 'sites' where AQA specifies one site changed annually). |
 | `ib-dp-ess-topic-2-ecology.md`, `-revision-notes.md`; `oxfordaqa-a-level-geography-exam-preparation.md` | Remaining lines that contradicted the repaired statements. |
 
@@ -11788,11 +11788,11 @@ None. No existing resource or data-layer record was edited.
 |---|---|---|
 | E921.1 | `igcse-mathematics-algebra-and-graphs.md`, `-coordinate-geometry.md`, `-geometry.md`, `-probability.md`, `-statistics.md`, `-transformations-and-vectors.md`, `-trigonometry.md` | Each now says Extended candidates are eligible for A* to E and Core for C to G, so A* and B need the Extended tier, and that the syllabus advises Extended for learners aiming at A* to C (0580 v3 pp.8-9 says both). All 28 files citing 0580 grepped; only these seven had the wording. |
 | E921.2 | `cambridge-a-level-law-exam-preparation.md` | Papers 3 and 4: Section A one scenario-based problem question from two (25 marks); Section B two essays from three (25 each) (9084 pp.27-28). Priority advice and checklist now include essay practice. |
-| E921.3 | `a-level-world-history-usa-practice.md`; sibling `a-world-history-modern-europe-practice.md` | Section B questions are now 30 marks, part (a) 10 and part (b) 20, with 1 hour 45 minutes for 60 marks and AO1/AO2 50% each (9489 p.68). Three original part (a) 'Explain why' questions with worked answers (Kansas-Nebraska Act 4.1, Progressive Movement 5.3, 1932 election 6.2); part (b) commands are the Paper 2 forms. The '45-minute answer', the one-question-per-topic claim and the 'Paper 1 style' Section A heading removed. Sibling: Paper 1 tariffs [10]/[30] ΓåÆ [15]/[25] (p.66); its 'splits not published' note corrected; Paper 2 command stems ('Explain three', 'Assess', a 20-mark 'Explain why') replaced with Paper 2 forms and the France (a) scheme rebuilt to fit [10]. |
+| E921.3 | `a-level-world-history-usa-practice.md`; sibling `a-world-history-modern-europe-practice.md` | Section B questions are now 30 marks, part (a) 10 and part (b) 20, with 1 hour 45 minutes for 60 marks and AO1/AO2 50% each (9489 p.68). Three original part (a) 'Explain why' questions with worked answers (Kansas-Nebraska Act 4.1, Progressive Movement 5.3, 1932 election 6.2); part (b) commands are the Paper 2 forms. The '45-minute answer', the one-question-per-topic claim and the 'Paper 1 style' Section A heading removed. Sibling: Paper 1 tariffs [10]/[30] ╬ô├Ñ├å [15]/[25] (p.66); its 'splits not published' note corrected; Paper 2 command stems ('Explain three', 'Assess', a 20-mark 'Explain why') replaced with Paper 2 forms and the France (a) scheme rebuilt to fit [10]. |
 | E921.4 | `igcse-environmental-management-land-practice.md` | Both 0680 papers described from the syllabus (p.36): Paper 1 short-answer and structured questions with extended response on source material; Paper 2 adds data processing and analysis and fieldwork. Recommended case studies removed from the syllabus (changes page). |
 | E921.5 | `o-level-urdu-first-language-paper-2-texts-revision-notes.md` | Ghazal/nazm split dropped; 3247 Part 2 is "Two essay questions based on the prescribed set texts" (p.12). |
 | E921.6 | `igcse-global-perspectives-individual-report-practice.md`; siblings `global-perspectives-individual-report-revision-notes.md`, `igcse-cambridge-global-perspectives-individual-report.md`, `igcse-cambridge-global-perspectives-written-exam.md` | The five-skill answer is 0457's Individual Report list ("research, analysis, evaluation, reflection and communication"); the defect was 'throughout Global Perspectives'. Q3 now asks for the Individual Report's skills; the answer adds collaboration (Team Project) and that the Written Exam assesses research, analysis and evaluation. The same 'throughout' claim corrected in the three siblings. |
-| E921.7 | `cambridge-igcse-economics-microeconomic-decision-makers.md` | 'Largest content strand' ΓåÆ third of six topics, with eight sub-topics (3.1-3.8); Topic 2 has eleven. |
+| E921.7 | `cambridge-igcse-economics-microeconomic-decision-makers.md` | 'Largest content strand' ╬ô├Ñ├å third of six topics, with eight sub-topics (3.1-3.8); Topic 2 has eleven. |
 
 ### I369 - Loose descriptions
 
@@ -11832,7 +11832,7 @@ None. No existing resource or data-layer record was edited.
 | Item | Files | What changed / verified |
 |---|---|---|
 | I370.1 | `ib-dp-psychology-cognitive-approach.md` | The closing 'How to approach it' sentence no longer implies the exam asks for a comparison: a cross-approach comparison is now revision practice that sharpens which points belong to the cognitive approach, matching the single-approach rule in the section D-241 rewrote. |
-| I370.2 | `ib-dp-chemistry-structure-1.md`; `ib-dp-chemistry-structure-1-revision-notes.md` | **Closed by correcting the guide, not the notes; the finding's fix would have introduced an error.** AHL 1.3.6 (quoted above) puts the trends and discontinuities in first ionisation energy in the HL extension of Structure 1.3, so the revision notes' 'HL only, Structure 1.3.6' was right. D-241's I365.18 edit had removed first-IE trends from the guide's HL list. The guide's intro, coverage bullet and HL section now give 1.3.6 in full (trends and discontinuities, with a new bullet explaining the group 2ΓåÆ13 and 15ΓåÆ16 discontinuities, and the convergence-limit calculation) and 1.3.7, and note that the periodicity of ionisation energy is also SL content in Structure 3.1.3. The notes gain the same Structure 3.1.3 qualifier. |
+| I370.2 | `ib-dp-chemistry-structure-1.md`; `ib-dp-chemistry-structure-1-revision-notes.md` | **Closed by correcting the guide, not the notes; the finding's fix would have introduced an error.** AHL 1.3.6 (quoted above) puts the trends and discontinuities in first ionisation energy in the HL extension of Structure 1.3, so the revision notes' 'HL only, Structure 1.3.6' was right. D-241's I365.18 edit had removed first-IE trends from the guide's HL list. The guide's intro, coverage bullet and HL section now give 1.3.6 in full (trends and discontinuities, with a new bullet explaining the group 2╬ô├Ñ├å13 and 15╬ô├Ñ├å16 discontinuities, and the convergence-limit calculation) and 1.3.7, and note that the periodicity of ionisation energy is also SL content in Structure 3.1.3. The notes gain the same Structure 3.1.3 qualifier. |
 
 **Validation.** `astro check` 0 errors; `validate:academic`; build 2141 pages; `audit:all` 0 problems; cross-board regression; API tests 31/31.
 
@@ -11853,7 +11853,7 @@ None. No existing resource or data-layer record was edited.
 | E922.1 | `aqa-as-level-business-what-is-business-revision-notes.md`, `aqa-as-level-business-what-is-business-practice.md` | 7131 3.1.3: "How the external environment can affect costs and demand ... Factors influencing costs and demand to include the effect of: competition, market conditions, incomes, interest rates, demographic factors, environmental issues and fair trade." Notes (summary, named-factors line, application paragraph, self-test Q4 and answer) and practice Q3 (now any two of the named factors, [2]) use the heading and the factor list. The study guide and A-level siblings were already right. |
 | E922.2 | `aqa-a-level-economics-aggregate-demand-supply.md` | Retitled and rescoped to the full 7136 section "3.2.2 How the macroeconomy works: the circular flow of income, aggregate demand/aggregate supply analysis and related concepts". Coverage rebuilt as 3.2.2.1-3.2.2.6 in the specification's wording; new teaching on the circular flow (income = output = expenditure; injections and withdrawals), the accelerator, determinants of saving and saving versus investment, the multiplier from the MPC (k = 1/(1 - MPC); MPC 0.8 gives k = 5), the SRAS cost factors (money wage rates, raw material prices, business taxation, productivity; review pass clarified that lasting productivity change also shifts LRAS), institutional structure and the Keynesian AS curve. |
 | E922.3 | `aqa-a-level-chemistry-bonding.md` | Coverage rebuilt to 7405 3.1.3.1-3.1.3.7: compound-ion formulas; the four crystal structure types and six named crystals (3.1.3.4); polar bonds without a permanent dipole (3.1.3.6, CO2 and CCl4); hydrogen bonding in the low density of ice and anomalous boiling points (3.1.3.7). The electronegativity-trend claim removed; solubility kept only as the specification's practical opportunity; checklist and description aligned. |
-| E922.4 | `aqa-gcse-chemistry-quantitative-chemistry.md` | 8462 4.3: limiting reactants labelled HT only (4.3.2.4); percentage yield and atom economy both tiers (chemistry only), with the theoretical-mass calculation and reaction-pathway choice marked HT only (4.3.3.1-2); a short 4.3.5 section added (volumes of gases, chemistry only, HT only: 24 dm3 at RTP; 8.8 g CO2 = 0.2 mol = 4.8 dm3; N2 + 3H2 ΓåÆ 2NH3 volume ratio), so the 'full content' description is now true. Also aligned: uncertainty wording (4.3.1.3), percentage by mass (4.3.1.2), the g/dm3 concentration bullet, and the Mg/HCl worked example labelled HT (4.3.2.2). |
+| E922.4 | `aqa-gcse-chemistry-quantitative-chemistry.md` | 8462 4.3: limiting reactants labelled HT only (4.3.2.4); percentage yield and atom economy both tiers (chemistry only), with the theoretical-mass calculation and reaction-pathway choice marked HT only (4.3.3.1-2); a short 4.3.5 section added (volumes of gases, chemistry only, HT only: 24 dm3 at RTP; 8.8 g CO2 = 0.2 mol = 4.8 dm3; N2 + 3H2 ╬ô├Ñ├å 2NH3 volume ratio), so the 'full content' description is now true. Also aligned: uncertainty wording (4.3.1.3), percentage by mass (4.3.1.2), the g/dm3 concentration bullet, and the Mg/HCl worked example labelled HT (4.3.2.2). |
 | E922.5 | `aqa-gcse-physics-exam-preparation.md` | 8463 4.1.1.4: "Students should be able to recall and apply both equations" (P = E/t, P = W/t); Appendix A lists them under recall. Worked step and checklist now call power a recall equation. |
 | E922.6 | `igcse-physics-motion-forces-and-energy.md`, `igcse-physics-thermal-physics.md`, `igcse-physics-waves.md` | 0625 p.8: Core "eligible for grades C to G"; Extended "eligible for grades A* to G". Each intro now says Supplement is examined only on Papers 2 and 4, so it is needed for A* to B, and quotes Cambridge's advice (p.11) that candidates aiming for A* to C should be taught the Extended content. All 13 files citing 0625 grepped; no 'A*-C' wording remains in the corpus. |
 | E922.7 | `cambridge-igcse-economics-microeconomic-decision-makers.md` | 0455 3.8.1: "The effect of having a high number of firms on price, quality, choice, profit. Note: the theory of perfect and imperfect competition and diagrams are not required." 3.8.2: "Characteristics, advantages and disadvantages of monopoly." The perfect-competition table is replaced by a many-firms versus monopoly comparison on price, quality, choice and profit with monopoly's advantages; checklist and common mistakes aligned. The 3.1-3.8 coverage list was rebuilt from pp.17-19 (it had omitted 3.3.3-3.3.4, 3.4.3, 3.5.2-3.5.5 and 3.6.1-3.6.2, observations recorded in D-242). |
@@ -11862,7 +11862,7 @@ None. No existing resource or data-layer record was edited.
 
 | Item | Files | What changed / verified |
 |---|---|---|
-| I371.1 | `aqa-a-level-mathematics-exam-preparation.md` | 33Γàô% for each 7357 paper. |
+| I371.1 | `aqa-a-level-mathematics-exam-preparation.md` | 33╬ô├á├┤% for each 7357 paper. |
 | I371.2 | `aqa-gcse-business-exam-preparation.md` | Paper 1 "Influences of operations and HRM on business activity" (8132 at a glance). |
 | I371.3 | `gcse-history-historic-environment.md`, `gcse-history-historic-environment-revision-notes.md` | 8145 Part four: "a question that draws on second order concepts of change, continuity, causation and/or consequence". Significance removed from the assessed concepts (description, coverage, notes, self-test answer 1); the guide's Feature-Context-Link-Significance planning step is labelled a planning device. |
 | I371.4 | `aqa-gcse-mathematics-ratio-proportion-rates-of-change.md` | 8300: "All content can be assessed on any of the three question papers." |
@@ -11876,11 +11876,11 @@ None. No existing resource or data-layer record was edited.
 | U73.1 | `aqa-a-level-business-managers-leadership-revision-notes.md` | 7131/7132 v1.0 (2014) 3.2.1 begins "What managers do" (setting objectives, analysing, leading, making decisions, reviewing) and names the Tannenbaum Schmidt continuum and the Blake Mouton grid; v2.0 (2023) begins "The distinction between management and leadership" and names the continuum only. Claim kept with both contents stated; 'deliberately' (AQA's intent) removed. |
 | U73.2 | `gcse-history-understanding-modern-world-practice.md`; siblings `gcse-history-understanding-modern-world-revision-notes.md`, `gcse-history-understanding-the-modern-world-options.md` | 8145/1A/B and 8145/1B/B June 2023 mark schemes put "complex explanation of the relationship between causes" in the top level and say nothing of a cap at 'the lower half of the top level'. The cap claim removed in all three files and replaced by the mark-scheme wording. |
 | U73.3 | `aqa-gcse-english-literature-unseen-poetry.md` | 8702/2 June 2023 mark scheme: Q27.1 [24 marks] (AO1 12, AO2 12); Q27.2 [8 marks] (AO2). Tariffs kept, now attributed to AQA's published mark schemes. |
-| U73.4 | `aqa-a-level-english-literature-b-theory-and-independence.md`, `a-level-aqa-english-literature-b-theory-and-independence-revision-notes.md`, `aqa-a-level-english-literature-b-theory-and-independence-practice.md` | 7717 NEA teaching guide v2.0: "The word count for each piece of work is 1,250 ΓÇô 1,500 words (not including quotations)"; "Both the re-creative piece and the commentary need to be incorporated in the word count"; "Students should make a concerted effort to work within the stipulated word limits." These kept and attributed. The 'no mark penalty for length / only malpractice is penalised' claim is in neither the teaching guide nor specification section 5; removed. |
+| U73.4 | `aqa-a-level-english-literature-b-theory-and-independence.md`, `a-level-aqa-english-literature-b-theory-and-independence-revision-notes.md`, `aqa-a-level-english-literature-b-theory-and-independence-practice.md` | 7717 NEA teaching guide v2.0: "The word count for each piece of work is 1,250 ╬ô├ç├┤ 1,500 words (not including quotations)"; "Both the re-creative piece and the commentary need to be incorporated in the word count"; "Students should make a concerted effort to work within the stipulated word limits." These kept and attributed. The 'no mark penalty for length / only malpractice is penalised' claim is in neither the teaching guide nor specification section 5; removed. |
 
 ### Observations, not actioned
 
-- `aqa-gcse-mathematics-exam-preparation.md` L20 gives each 8300 paper as 33.33%; the specification says 33Γàô%.
+- `aqa-gcse-mathematics-exam-preparation.md` L20 gives each 8300 paper as 33.33%; the specification says 33╬ô├á├┤%.
 - `gcse-sociology-crime-stratification-practice.md` (L121, L135) and `aqa-gcse-sociology-families-education-practice.md` (L120, L134) refer to 'levels descriptors in the specification' (8192, not checked).
 - `a-level-aqa-sociology-education-practice.md` Q8/Q9: 'up to 30 marks' by levels alongside [1] tokens summing to 12.
 - `aqa-a-level-economics-aggregate-demand-supply.md`: 'Step 4 is the distinction examiners reward most' (no AQA document read for it).
@@ -11919,7 +11919,7 @@ None. No existing resource or data-layer record was edited.
 |---|---|---|
 | I372.1 | `ib-dp-biology-theme-a-unity-diversity.md`, `-revision-notes.md`; sibling `ib-dp-biology-syllabus-guide.md` | A3.1 described as variation, species concepts, binomial naming, populations versus species, chromosome numbers, karyotypes and genome diversity; classification is A3.2 (AHL). |
 | I372.2 | `ib-dp-psychology-biological-approach-practice.md` | Q7 stays [9]; no longer claimed to be essay length and value (Paper 1: SAQs 9 marks each, essay 22). |
-| I372.3 | `ib-dp-language-a-literature-readers-writers-texts.md`, `-revision-notes.md`, `-practice.md` | Four literary forms (fiction, non-fiction, poetry, drama) on the prescribed reading list; practice Q2 re-marked [3] ΓåÆ [4]. |
+| I372.3 | `ib-dp-language-a-literature-readers-writers-texts.md`, `-revision-notes.md`, `-practice.md` | Four literary forms (fiction, non-fiction, poetry, drama) on the prescribed reading list; practice Q2 re-marked [3] ╬ô├Ñ├å [4]. |
 | I372.4 | `ib-dp-mathematics-ai-geometry-trigonometry.md`, `-revision-notes.md`; siblings `ib-dp-mathematics-applications-and-interpretation-syllabus-guide.md`, `-subject-guide.md` | Full AHL Topic 3: radians and circular functions (3.7-3.8), matrix transformations (3.9), vectors (3.10-3.13), graph theory (3.14-3.16). |
 | I372.5 | `ib-myp-individuals-societies-disciplines.md`, `-revision-notes.md`; siblings `ib-myp-individuals-and-societies-subject-guide.md`, `-syllabus-guide.md` | The brief's eAssessment topic list without the added 'ecological relationships'. |
 | I372.6 | `ib-dp-economics-exam-preparation.md`; sibling `ib-dp-economics-syllabus-guide.md` | Paper 1: one extended-response question from three, part (a) 10 and part (b) 15 marks; Paper 2 described separately as the data response paper. |
@@ -12027,7 +12027,7 @@ None. No existing resource or data-layer record was edited.
 
 **Trigger.** Round 26 (`docs/audit/2026-11-02-findings.md`, `e3814e9`) verified D-245 (21 of 21) and D-246 (5 of 5), closed E923, I372, U74 and I373, and recorded I375: two coverage omissions in lists D-245 rewrote. D-247 (round 25) was pushed on top of it as `1755e30`.
 
-**Primary sources.** Read by the lead in a browser at the ibo.org origin (same-origin fetch and pdf.js; no challenge). IB Computer science guide (first assessment 2027), PDF p. 40: "A3.3.4 Construct calculations within a database using SQL's aggregate functions. (HL only) ΓÇó Aggregate functions on grouped data to aid reporting and decision-making ΓÇó Aggregate commands: AVERAGE, COUNT, MAX, MIN, SUM A3.3.5 Describe different database views. (HL only) ΓÇó Virtual views and materialized (snapshot) views ΓÇó Hiding data complexity, data consistency, independence, performance, query simplification, read-only data or updatable data, security A3.3.6 Describe how transactions maintain data integrity in a database. (HL only) ΓÇó The role of atomicity, consistency, isolation and durability (ACID) to ensure reliable processing of transactions ΓÇó Transaction control language (TCL) commands: BEGIN TRANSACTION, COMMIT, ROLLBACK A3.4 Alternative databases and data warehouses (HL only)". IB Geography guide (2019), PDF p. 48: "Government-led adaptation and mitigation strategies for global climate change: ΓÇó global geopolitical efforts, recognizing that the source/s of greenhouse gas emissions may be spatially distant from the countries most impacted ΓÇó carbon emissions offsetting and trading ΓÇó technology, including geo-engineering Civil society and corporate strategies to address global climate change ΓÇó Case study of the response to climate change in one country focusing on the actions of non-governmental stakeholders".
+**Primary sources.** Read by the lead in a browser at the ibo.org origin (same-origin fetch and pdf.js; no challenge). IB Computer science guide (first assessment 2027), PDF p. 40: "A3.3.4 Construct calculations within a database using SQL's aggregate functions. (HL only) ╬ô├ç├│ Aggregate functions on grouped data to aid reporting and decision-making ╬ô├ç├│ Aggregate commands: AVERAGE, COUNT, MAX, MIN, SUM A3.3.5 Describe different database views. (HL only) ╬ô├ç├│ Virtual views and materialized (snapshot) views ╬ô├ç├│ Hiding data complexity, data consistency, independence, performance, query simplification, read-only data or updatable data, security A3.3.6 Describe how transactions maintain data integrity in a database. (HL only) ╬ô├ç├│ The role of atomicity, consistency, isolation and durability (ACID) to ensure reliable processing of transactions ╬ô├ç├│ Transaction control language (TCL) commands: BEGIN TRANSACTION, COMMIT, ROLLBACK A3.4 Alternative databases and data warehouses (HL only)". IB Geography guide (2019), PDF p. 48: "Government-led adaptation and mitigation strategies for global climate change: ╬ô├ç├│ global geopolitical efforts, recognizing that the source/s of greenhouse gas emissions may be spatially distant from the countries most impacted ╬ô├ç├│ carbon emissions offsetting and trading ╬ô├ç├│ technology, including geo-engineering Civil society and corporate strategies to address global climate change ╬ô├ç├│ Case study of the response to climate change in one country focusing on the actions of non-governmental stakeholders".
 
 ### I375 - Two coverage omissions
 
@@ -12049,7 +12049,7 @@ None. No existing resource or data-layer record was edited.
 
 **Trigger.** Round 27 (`docs/audit/2026-11-03-findings.md`, `7b8cde8`) verified D-247 (11 of 11) and D-248 (2 of 2), closed E924, I374, U75 and I375, and recorded E925 and I376 from the D-247 and D-248 observations.
 
-**Primary sources.** Pearson Edexcel GCE A level Urdu 9UR0 specification (Issue 1, June 2018), Paper 3 assessment information, printed p. 29: Section A (listening), 45 minutes recommended, 30 marks, "students will have individual control of the recording and may stop, revisit and replay sections of the recording as they wish"; Section B (listening, reading and writing question), 1 hour and 30 minutes recommended, 30 marks, "students listen to a recording and read a written text", "summarise the different points of view in both sources", "answer a question in writing, which requires the student to evaluate the viewpoints in the recording and the text and draw conclusions", approximately 220-270 words for 5(c). The specification says nothing about control of the Section B recording. IB Computer science guide (first assessment 2027), read at ibo.org in a browser (same-origin fetch, pdf.js): "A2.1.4 Describe the network protocols used for transport and application. ΓÇó Protocols: transmission control protocol (TCP), user datagram protocol (UDP), hypertext transfer protocol (HTTP), hypertext transfer protocol secure (HTTPS), dynamic host configuration protocol (DHCP) A2.1.5 Describe the function of the TCP/IP model. (HL only) ΓÇó Application, transport, internet, network interface ΓÇó The role of each layer and the interaction between these layers to ensure reliable data transmission over a network".
+**Primary sources.** Pearson Edexcel GCE A level Urdu 9UR0 specification (Issue 1, June 2018), Paper 3 assessment information, printed p. 29: Section A (listening), 45 minutes recommended, 30 marks, "students will have individual control of the recording and may stop, revisit and replay sections of the recording as they wish"; Section B (listening, reading and writing question), 1 hour and 30 minutes recommended, 30 marks, "students listen to a recording and read a written text", "summarise the different points of view in both sources", "answer a question in writing, which requires the student to evaluate the viewpoints in the recording and the text and draw conclusions", approximately 220-270 words for 5(c). The specification says nothing about control of the Section B recording. IB Computer science guide (first assessment 2027), read at ibo.org in a browser (same-origin fetch, pdf.js): "A2.1.4 Describe the network protocols used for transport and application. ╬ô├ç├│ Protocols: transmission control protocol (TCP), user datagram protocol (UDP), hypertext transfer protocol (HTTP), hypertext transfer protocol secure (HTTPS), dynamic host configuration protocol (DHCP) A2.1.5 Describe the function of the TCP/IP model. (HL only) ╬ô├ç├│ Application, transport, internet, network interface ╬ô├ç├│ The role of each layer and the interaction between these layers to ensure reliable data transmission over a network".
 
 ### E925 - 9UR0 Section A recording control
 
@@ -12078,7 +12078,7 @@ None. No existing resource or data-layer record was edited.
 
 **Trigger.** Round 28 (`docs/audit/2026-11-04-findings.md`, `c75b5bb`) read the five unsettled round-12 closures (E360, E539, E822, E850, E866), found all substantially fixed, and recorded I377: two residues. D-249 (round 27) was pushed on top of it as `6a9c629`.
 
-**Primary sources.** IB Diploma Programme subject brief, Individuals and societies: Psychology, first assessment 2019 (┬⌐ 2018), read at ibo.org in a browser (same-origin fetch, pdf.js), section I, Course description and aims: "At the core of the DP psychology course is an introduction to three different approaches to understanding behaviour: the biological, cognitive and sociocultural approaches. Students study and critically evaluate the knowledge, concepts, theories and research that have developed the understanding in these fields. The interaction of these approaches to studying psychology forms the basis of a holistic and integrated approach to understanding mental processes and behaviour ... The contribution and the interaction of the three approaches is understood through the four options in the course, focusing on areas of applied psychology: abnormal psychology, developmental psychology, health psychology, and the psychology of relationships ... Psychologists employ a range of research methods, both qualitative and quantitative ... DP psychology promotes an understanding of the various approaches to research and how they are used to critically reflect on the evidence as well as assist in the design, implementation, analysis and evaluation of the students' own investigations." The brief contains neither 'psychological literacy' nor 'not to create psychologists' (text search). Cambridge International AS & A Level History 9489 syllabus for 2027, 2028 and 2029 (718292, Version 2), section 4, p. 66: "Paper 1 Historical sources ... Each question has four sources with a range of types of sources, including at least three written sources and up to one visual source ... The word count for the four sources in each question is a maximum of 600 words ... Part (a) 15 marks requiring candidates to comment on similarities and differences between two of the sources ... Part (b) 25 marks requiring candidates to use all four sources and their knowledge of the period to address how far the sources support a given statement"; p. 9 assessment overview: "Paper 1 Historical Sources". The 2026 syllabus (697368, Version 3) the audit cites names the paper "Document question" and asks for "at least three sources".
+**Primary sources.** IB Diploma Programme subject brief, Individuals and societies: Psychology, first assessment 2019 (Γö¼ΓîÉ 2018), read at ibo.org in a browser (same-origin fetch, pdf.js), section I, Course description and aims: "At the core of the DP psychology course is an introduction to three different approaches to understanding behaviour: the biological, cognitive and sociocultural approaches. Students study and critically evaluate the knowledge, concepts, theories and research that have developed the understanding in these fields. The interaction of these approaches to studying psychology forms the basis of a holistic and integrated approach to understanding mental processes and behaviour ... The contribution and the interaction of the three approaches is understood through the four options in the course, focusing on areas of applied psychology: abnormal psychology, developmental psychology, health psychology, and the psychology of relationships ... Psychologists employ a range of research methods, both qualitative and quantitative ... DP psychology promotes an understanding of the various approaches to research and how they are used to critically reflect on the evidence as well as assist in the design, implementation, analysis and evaluation of the students' own investigations." The brief contains neither 'psychological literacy' nor 'not to create psychologists' (text search). Cambridge International AS & A Level History 9489 syllabus for 2027, 2028 and 2029 (718292, Version 2), section 4, p. 66: "Paper 1 Historical sources ... Each question has four sources with a range of types of sources, including at least three written sources and up to one visual source ... The word count for the four sources in each question is a maximum of 600 words ... Part (a) 15 marks requiring candidates to comment on similarities and differences between two of the sources ... Part (b) 25 marks requiring candidates to use all four sources and their knowledge of the period to address how far the sources support a given statement"; p. 9 assessment overview: "Paper 1 Historical Sources". The 2026 syllabus (697368, Version 3) the audit cites names the paper "Document question" and asks for "at least three sources".
 
 ### I377 - Two residues
 
@@ -12107,7 +12107,7 @@ None. No existing resource or data-layer record was edited.
 
 **Trigger.** Round 29 (`docs/audit/2026-11-05-findings.md`, `040e0bd`) verified D-249 (E925, I376), read 40 more of the unread D-138-D-225 closures (all fixed), worked the open leads, and recorded I378 (one residue of I376) and I379 (eleven confirmed leads). It reports 0 confirmed-error groups open. D-250 (round 28) is rebased onto `040e0bd` unchanged.
 
-**Primary sources.** Read by the lead. IB at ibo.org in a browser (same-origin fetch, pdf.js): Computer science guide (first assessment 2027), "A2.1.3 Describe the function of network devices. ΓÇó Gateways, hardware firewalls, modems, network interface cards, routers, switches, wireless access points ΓÇó How devices map to the layers of the TCP/IP model", A2.1.4 (SL and HL) and A2.1.5 (HL only); Language A: literature guide (first assessment 2021), individual oral: "students will offer a prepared response of 10 minutes, followed by 5 minutes of questions by the teacher"; MYP subject brief, Design (2015, `myp-brief_design_2015.pdf`, linked from the IB design page): "Each design objective corresponds to one of four equally weighted assessment criteria. Each criterion has eight possible achievement levels (1ΓÇô8)", "To earn the MYP certificate, students must complete 2 hour on-screen examinations in each of the following: language and literature, individuals and society, sciences, mathematics and interdisciplinary learning; submit an ePortfolio in language acquisition and one of the following: design, arts or physical and health education", and "Students seeking IB-validated design course results must demonstrate their achievement ... by submitting an ePortfolio ... a design project presented as a complete design folder". Downloaded from the boards and read as text: Cambridge O Level Islamiyat 2058 syllabuses for 2024-2025 (635787) and 2026-2027 (697279, version 1): Paper 1 Question 1 ('Three passages will be set from the list in Appendix 1, of which candidates may choose any two. [8 marks]') and Appendix 1 identical apart from page footers (text compared); Cambridge IGCSE Sociology 0495 (2025-2027) 4.3.1 Demographic factors and their effects on family life (family size, birth rates, life expectancy, ageing population, having children in later life) and 4.3.5 Changing family roles (pivot/sandwich generation; changing roles of children, including boomerang children; changing roles of grandparents: childcare, economic support, wisdom and advice, dependent / a burden); 2.1 extended families 'modified, horizontal, vertical/beanpole'; Cambridge IGCSE Biology 0610 (2026-2028) p. 9 ('Core candidates take Paper 1 and Paper 3. The questions are based on the Core subject content only'), 1.3 kingdoms including prokaryote and protoctist, 2.1.7 levels of organisation; OCR GCSE Gateway Science Biology A J247 (Version 4.0, August 2026): Topics B1-B7, Paper 1 B1-B3 and B7, Paper 2 B4-B6 and B7, enzymes in B1.2 with amylase only as a practical suggestion, no digestion statement; OCR Chemistry A J248 (Version 4.0, August 2026): 'Paper 1 assesses content from Topics C1ΓÇôC3 and C7', 'Paper 2 assesses content from Topics C4ΓÇôC6 and C7, with assumed knowledge of Topics C1ΓÇôC3', C3.2 Energetics, C5.2 Controlling reactions, C6.2 Organic chemistry.
+**Primary sources.** Read by the lead. IB at ibo.org in a browser (same-origin fetch, pdf.js): Computer science guide (first assessment 2027), "A2.1.3 Describe the function of network devices. ╬ô├ç├│ Gateways, hardware firewalls, modems, network interface cards, routers, switches, wireless access points ╬ô├ç├│ How devices map to the layers of the TCP/IP model", A2.1.4 (SL and HL) and A2.1.5 (HL only); Language A: literature guide (first assessment 2021), individual oral: "students will offer a prepared response of 10 minutes, followed by 5 minutes of questions by the teacher"; MYP subject brief, Design (2015, `myp-brief_design_2015.pdf`, linked from the IB design page): "Each design objective corresponds to one of four equally weighted assessment criteria. Each criterion has eight possible achievement levels (1╬ô├ç├┤8)", "To earn the MYP certificate, students must complete 2 hour on-screen examinations in each of the following: language and literature, individuals and society, sciences, mathematics and interdisciplinary learning; submit an ePortfolio in language acquisition and one of the following: design, arts or physical and health education", and "Students seeking IB-validated design course results must demonstrate their achievement ... by submitting an ePortfolio ... a design project presented as a complete design folder". Downloaded from the boards and read as text: Cambridge O Level Islamiyat 2058 syllabuses for 2024-2025 (635787) and 2026-2027 (697279, version 1): Paper 1 Question 1 ('Three passages will be set from the list in Appendix 1, of which candidates may choose any two. [8 marks]') and Appendix 1 identical apart from page footers (text compared); Cambridge IGCSE Sociology 0495 (2025-2027) 4.3.1 Demographic factors and their effects on family life (family size, birth rates, life expectancy, ageing population, having children in later life) and 4.3.5 Changing family roles (pivot/sandwich generation; changing roles of children, including boomerang children; changing roles of grandparents: childcare, economic support, wisdom and advice, dependent / a burden); 2.1 extended families 'modified, horizontal, vertical/beanpole'; Cambridge IGCSE Biology 0610 (2026-2028) p. 9 ('Core candidates take Paper 1 and Paper 3. The questions are based on the Core subject content only'), 1.3 kingdoms including prokaryote and protoctist, 2.1.7 levels of organisation; OCR GCSE Gateway Science Biology A J247 (Version 4.0, August 2026): Topics B1-B7, Paper 1 B1-B3 and B7, Paper 2 B4-B6 and B7, enzymes in B1.2 with amylase only as a practical suggestion, no digestion statement; OCR Chemistry A J248 (Version 4.0, August 2026): 'Paper 1 assesses content from Topics C1╬ô├ç├┤C3 and C7', 'Paper 2 assesses content from Topics C4╬ô├ç├┤C6 and C7, with assumed knowledge of Topics C1╬ô├ç├┤C3', C3.2 Energetics, C5.2 Controlling reactions, C6.2 Organic chemistry.
 
 ### I378 - CS Theme A, A2.1.3
 
@@ -12120,8 +12120,8 @@ None. No existing resource or data-layer record was edited.
 | Item | Files | What changed |
 |---|---|---|
 | I379.1 | `cambridge-o-level-islamiyat-major-themes-of-the-quran.md` | `syllabusSeries` to 'For examination in 2026-2027'; the edition paragraph now names the 2026-2027 syllabus and says Question 1 and Appendix 1 are unchanged from the closed 2024-2025 syllabus (the 'not yet re-verified' sentence removed); official-syllabus link to 697279, version 1. No other 2058 resource carries the 2024-2025 label. |
-| I379.2 | `aqa-a-level-accounting-double-entry-model.md` | Year 4 added (┬ú2 109; carrying value about ┬ú6 328) and straight-line carrying values shown. The conclusion now says reducing balance front-loads the charge, and whether its carrying value is higher or lower depends on the rate: at 25% it is below straight line after year 1 and above it from year 2; about 43.8% reaches the ┬ú2 000 residual (charges about ┬ú8 753, ┬ú4 922, ┬ú2 768, ┬ú1 557). Figures recomputed. |
-| I379.3 | `aqa-a-level-mathematics-exam-preparation.md` (worked scenario, self-test 4 and answer) | Condition stated as sin(2x) not equal to 0, which the working expands to sin(x) Γëá 0 and cos(x) Γëá 0; the cancellation step uses the first and the definition of tan(x) the second. Self-test 4 and its answer rebuilt on both parts. |
+| I379.2 | `aqa-a-level-accounting-double-entry-model.md` | Year 4 added (Γö¼├║2 109; carrying value about Γö¼├║6 328) and straight-line carrying values shown. The conclusion now says reducing balance front-loads the charge, and whether its carrying value is higher or lower depends on the rate: at 25% it is below straight line after year 1 and above it from year 2; about 43.8% reaches the Γö¼├║2 000 residual (charges about Γö¼├║8 753, Γö¼├║4 922, Γö¼├║2 768, Γö¼├║1 557). Figures recomputed. |
+| I379.3 | `aqa-a-level-mathematics-exam-preparation.md` (worked scenario, self-test 4 and answer) | Condition stated as sin(2x) not equal to 0, which the working expands to sin(x) ╬ô├½├í 0 and cos(x) ╬ô├½├í 0; the cancellation step uses the first and the definition of tan(x) the second. Self-test 4 and its answer rebuilt on both parts. |
 | I379.4 | `igcse-sociology-family-education-crime-practice.md` (answer 4); sibling `sociology-family-education-crime-revision-notes.md` (Changing family life) | Answer 4 rebuilt on effects of an ageing population: beanpole (vertical) families, the pivot/sandwich generation, and changing roles of grandparents (childcare, economic support, dependency), [3] each, 9 tokens for [9]; falling birth rates and rising life expectancy identified as causes that earn no marks alone; boomerang children excluded with the reason (4.3.5). The revision notes' cause-effect chain corrected the same way. |
 | I379.5 | `igcse-mathematics-statistics.md` | 'equal weight in the exam to any other topic' removed; the text now says the syllabus weights assessment objectives and papers, not topics. No other 0580 resource makes a topic-weight claim. |
 | I379.6 | `igcse-biology-human-nutrition.md` (approach section) | Villus, microvilli and lacteal labelling limited to the Extended papers (2 and 4), with the syllabus's Core paper statement. |
@@ -12133,7 +12133,7 @@ None. No existing resource or data-layer record was edited.
 
 ### Observations, not actioned
 
-- `ib-myp-design-criteria-in-practice.md` gives each criterion 'an additional level of 0' (range 0-8); the 2015 design brief says only 'eight possible achievement levels (1ΓÇô8), divided into four bands'.
+- `ib-myp-design-criteria-in-practice.md` gives each criterion 'an additional level of 0' (range 0-8); the 2015 design brief says only 'eight possible achievement levels (1╬ô├ç├┤8), divided into four bands'.
 - `ib-dp-language-a-literature-exam-preparation.md` worked scenario pairs 'a novel' with 'a second studied work'; the guide's individual oral uses an extract from one work written originally in the language studied and one from a work studied in translation, which the scenario does not state.
 - `cambridge-o-level-islamiyat-major-themes-of-the-quran.md` still says Cambridge has published a 2028 syllabus; not checked in this entry.
 
@@ -12251,7 +12251,7 @@ None. No existing resource or data-layer record was edited.
 | E930 (1) | `a-physics-circular-motion-revision-notes.md`; `a-physics-motion-in-a-circle.md`; sibling `a-physics-circular-motion-practice.md` | 2mg difference only at equal speeds; 6mg with energy conserved. |
 | E930 (2) | `ocr-a-level-physics-development-of-practical-skills.md` | H556 1.1.1 Planning, 1.1.2 Implementing, 1.1.3 Analysis, 1.1.4 Evaluation. |
 | E931 (1) | Six 0450 business files | 'renumbers every sub-topic' replaced: some 0264 sub-topics keep their numbers (1.1, 3.2), others are renamed, reordered, split or added (0264 changes page). |
-| E931 (2) | `aqa-gcse-business-business-in-the-real-world.md` | Total cost rises to ┬ú135,000 while average unit cost falls to ┬ú6.75. |
+| E931 (2) | `aqa-gcse-business-business-in-the-real-world.md` | Total cost rises to Γö¼├║135,000 while average unit cost falls to Γö¼├║6.75. |
 | E931 (3) | `edexcel-a-level-business-managing-activities-practice.md` Q4 | Scheme credits only what the Bright Leaf source says; [4] unchanged. |
 | E932 (1) | `igcse-oxfordaqa-world-history-international-relations-depth-studies.md`; `igcse-world-history-international-relations-revision-notes.md` | Question 3 (8 marks) usefulness; Question 4 (12 marks) evaluation of an issue from the sources (9245 v1.1). |
 | E932 (2) | `law-english-legal-system-practice.md` answer 3 | Party condition quoted from CPR r.26.9(7)(d); classes allocated regardless of value go to the multi-track (r.26.9(10)). [8] unchanged. |
@@ -12289,7 +12289,7 @@ None. No existing resource or data-layer record was edited.
 | I384 (4) | `igcse-geography-earthquakes-and-volcanoes.md` | Chile shows the same reason as Japan (subduction at a destructive boundary) with a different pair of plates. |
 | I384 (5) | `o-level-urdu-second-language-paper-2-revision-notes.md`; `syllabuses.ts` Urdu, 2217, 2147 notes | Cambridge 'syllabus', not 'specification'. |
 | I385 (1) | `o-level-cambridge-urdu-first-and-second-language.md` | Same-level statement quoted from 3247/3248/0539; none names an IGCSE (9-1) Urdu syllabus. |
-| I385 (2) | `urdu-paper-2-listening-practice.md` | Exercise 2 notes and answers in Urdu from the script: (b) ╪¬┘é╪▒█î╪¿╪º┘ï ╪»╪│ █ü╪▓╪º╪▒, (d) ╪»┘ê █ü┘ü╪¬┘ê┌║; total 8. |
+| I385 (2) | `urdu-paper-2-listening-practice.md` | Exercise 2 notes and answers in Urdu from the script: (b) Γò¬┬¼Γöÿ├⌐Γò¬ΓûÆΓûê├«Γò¬┬┐Γò¬┬║Γöÿ├» Γò¬┬╗Γò¬Γöé Γûê├╝Γò¬ΓûôΓò¬┬║Γò¬ΓûÆ, (d) Γò¬┬╗Γöÿ├¬ Γûê├╝Γöÿ├╝Γò¬┬¼Γöÿ├¬ΓöîΓòæ; total 8. |
 | I385 (3) | `edexcel-a-level-urdu-translation-practice.md` | Questions renumbered 1-6; register illustration works out of Urdu; tariffs unchanged. |
 | I385 (4) | `edexcel-a-level-urdu-translation-revision-notes.md` | Theme 2 rule quoted from 9UR0: content based on the country/area that gains the highest mark. |
 | I385 (5) | `ib-dp-language-a-literature-assessment-revision-notes.md`; siblings `ib-dp-language-a-literature-exam-preparation.md`, `-subject-guide.md` | No order of discussion prescribed; pairing rule (one original, one in translation) and broader-work discussion (literature guide, individual oral). |
@@ -12331,13 +12331,13 @@ Raised by the repair agents and reviewers while reading siblings; not recorded b
 
 **Trigger.** Round 35 (`docs/audit/2026-11-11-findings.md`, `668ee60`) worked the open leads and recorded I386 (four leads confirmed and a stale 9236 link). Round 36 (`docs/audit/2026-11-12-findings.md`, `b1f68cf`), under the owner's widened source rule (the boards' own published mark schemes, examiner reports and specimen materials), recorded I387 (three leads confirmed). Both report 72 confirmed-error groups open, the groups D-252 closes; D-252 is pushed on top of round 36 as `caac513`.
 
-**Primary sources.** Read by the lead. AQA AS and A-level Biology, Chemistry and Physics Required practical handbook (combined, filestore.aqa.org.uk `AQA-SCIENCE-AS-A-LEVEL-PHBK.PDF`, the copy served on 2026-09-17 labelled Version 2.1; the physics handbook `AQA-7407-7408-PHBK.PDF` is also Version 2.1): the micrometer is listed under "Measurement (two judgements required)", and "The uncertainty of a measurement (two judgements) is at least ┬▒1 of the smallest scale reading". AQA AS and A-level Business 7131/7132 specification (Version 2.0): 3.1.1 "Business objectives such as profit, growth, survival, cash flow, social and ethical objectives"; the text contains no occurrence of SMART. OCR A Level Physics A H556 (Version 3.0): "All components include synoptic assessment." OxfordAQA International GCSE Pakistan Studies 9236 specification at `wp-content/uploads/2026/07/`: "For International GCSE exams May/June 2026 onwards. Version 1.9". IB Physics guide (first assessment 2025, `physics-guide.pdf`), read at ibo.org in a browser: assessment outline SL, "Paper 1 (1 hour and 30 minutes) Paper 1AΓÇöMultiple-choice questions Paper 1BΓÇöData-based questions (Total 45 marks) 36% Paper 2 (1 hour and 30 minutes) ... (Total 55 marks) 44%"; external assessment details SL, "Paper 1 is presented as two separate booklets Paper 1AΓÇö25 marks ΓÇó 25 multiple-choice questions on standard level material only ... Paper 1BΓÇö20 marks ΓÇó Data-based questions. Paper 1A and paper 1B are to be completed together without interruptions" and "Paper 2 Duration: 1 hour and 30 minutes Weighting: 44% Marks: 55"; HL, "Paper 1AΓÇö40 marks ΓÇó 40 multiple-choice questions", "Paper 1BΓÇö20 marks", Paper 2 "Marks: 90". I387 rests on the round-36 quotations of the Cambridge 0580 June 2024 Paper 31 mark scheme (Q6(c) 'B1 for each'), the 9706 Generic Marking Principles ("In all other instances, the correct answer to a calculation should be given full credit, even if no supporting working is shown") and the IB Chemistry guide p. 24 (Structure 1 hours 17 SL / 21 HL, which the lead's evidence file for D-252 also records); the repairs remove or soften claims and add no figure beyond those quotations.
+**Primary sources.** Read by the lead. AQA AS and A-level Biology, Chemistry and Physics Required practical handbook (combined, filestore.aqa.org.uk `AQA-SCIENCE-AS-A-LEVEL-PHBK.PDF`, the copy served on 2026-09-17 labelled Version 2.1; the physics handbook `AQA-7407-7408-PHBK.PDF` is also Version 2.1): the micrometer is listed under "Measurement (two judgements required)", and "The uncertainty of a measurement (two judgements) is at least Γö¼ΓûÆ1 of the smallest scale reading". AQA AS and A-level Business 7131/7132 specification (Version 2.0): 3.1.1 "Business objectives such as profit, growth, survival, cash flow, social and ethical objectives"; the text contains no occurrence of SMART. OCR A Level Physics A H556 (Version 3.0): "All components include synoptic assessment." OxfordAQA International GCSE Pakistan Studies 9236 specification at `wp-content/uploads/2026/07/`: "For International GCSE exams May/June 2026 onwards. Version 1.9". IB Physics guide (first assessment 2025, `physics-guide.pdf`), read at ibo.org in a browser: assessment outline SL, "Paper 1 (1 hour and 30 minutes) Paper 1A╬ô├ç├╢Multiple-choice questions Paper 1B╬ô├ç├╢Data-based questions (Total 45 marks) 36% Paper 2 (1 hour and 30 minutes) ... (Total 55 marks) 44%"; external assessment details SL, "Paper 1 is presented as two separate booklets Paper 1A╬ô├ç├╢25 marks ╬ô├ç├│ 25 multiple-choice questions on standard level material only ... Paper 1B╬ô├ç├╢20 marks ╬ô├ç├│ Data-based questions. Paper 1A and paper 1B are to be completed together without interruptions" and "Paper 2 Duration: 1 hour and 30 minutes Weighting: 44% Marks: 55"; HL, "Paper 1A╬ô├ç├╢40 marks ╬ô├ç├│ 40 multiple-choice questions", "Paper 1B╬ô├ç├╢20 marks", Paper 2 "Marks: 90". I387 rests on the round-36 quotations of the Cambridge 0580 June 2024 Paper 31 mark scheme (Q6(c) 'B1 for each'), the 9706 Generic Marking Principles ("In all other instances, the correct answer to a calculation should be given full credit, even if no supporting working is shown") and the IB Chemistry guide p. 24 (Structure 1 hours 17 SL / 21 HL, which the lead's evidence file for D-252 also records); the repairs remove or soften claims and add no figure beyond those quotations.
 
 ### I386 - Four confirmed leads and a stale link
 
 | Item | Files | What changed |
 |---|---|---|
-| I386.1 | `aqa-a-level-physics-exam-preparation.md` (worked scenario, self-test 4 and answer) | Micrometer uncertainty ┬▒0.01 mm (a measurement, two judgements); percentage uncertainty recomputed: 0.01 / 0.42 x 100 = 2.38%, about 2%. Self-test 4 now asks why a whole division is used, and the answer quotes the handbook. No other AQA physics resource uses half a division for a micrometer (search). |
+| I386.1 | `aqa-a-level-physics-exam-preparation.md` (worked scenario, self-test 4 and answer) | Micrometer uncertainty Γö¼ΓûÆ0.01 mm (a measurement, two judgements); percentage uncertainty recomputed: 0.01 / 0.42 x 100 = 2.38%, about 2%. Self-test 4 now asks why a whole division is used, and the answer quotes the handbook. No other AQA physics resource uses half a division for a micrometer (search). |
 | I386.2 | `aqa-as-level-business-what-is-business-revision-notes.md` (section, exam trap, self-test 5 and answer), `aqa-as-level-business-what-is-business-practice.md` (Q6 and answer 6(a)); siblings `aqa-as-level-business-what-is-business.md`, `aqa-a-level-business-what-is-business.md` (objectives paragraph, checklist), `aqa-a-level-business-what-is-business-revision-notes.md` (objectives, exam trap) | Business objectives given as 3.1.1 lists them, with growth among them; SMART labelled a common framework the specification does not name; 'grow is a purpose, not an objective' removed from the notes and the AS guide. Practice Q6 now asks why the growth objective as stated is not SMART; answer 6(a) [1] + [1] = [2], (b) [2] unchanged. |
 | I386.3 | `ocr-a-level-physics-exam-preparation.md` (introduction, Paper 3 section, answer 1) | 'module-scoped' removed: all three H556 components include synoptic assessment, and Paper 3 draws on every module. |
 | I386.4 | `ib-dp-physics-exam-preparation.md` (description, structure paragraph, Paper 1 section, answer 1); data layer `assessments.ts` DP Physics record | Paper 1 described as two separate booklets completed together, Paper 1A multiple-choice (25 SL / 40 HL marks) and Paper 1B data-based questions (20 marks). The data record's Paper 1 titles name 1A and 1B. The same record gave SL Paper 2 50 marks; the guide gives 55 (the resource already said 55), corrected. Its notes rewritten from the guide's pages, withdrawing their reliance on a school revision page. |
@@ -12353,7 +12353,7 @@ Raised by the repair agents and reviewers while reading siblings; not recorded b
 
 ### Observations, not actioned
 
-- `ocr-a-level-physics-practical-skills-practice.md` answer (c) gives a micrometer's uncertainty as '┬▒0.005 mm ΓÇö half the smallest division'. OCR, not AQA, governs the file; OCR's practical guidance was not read for this entry.
+- `ocr-a-level-physics-practical-skills-practice.md` answer (c) gives a micrometer's uncertainty as 'Γö¼ΓûÆ0.005 mm ╬ô├ç├╢ half the smallest division'. OCR, not AQA, governs the file; OCR's practical guidance was not read for this entry.
 - `gcse-business-real-world-revision-notes.md` (AQA 8132) teaches SMART objectives; the 8132 subject-content text held locally has no occurrence of SMART, but the full 8132 specification was not read for this entry.
 - Round 35/36 leave fourteen leads that no public official document settles; Q416 and Q417 ask the owner whether to keep them or close them. No repair action is possible on them.
 
@@ -12365,7 +12365,7 @@ Raised by the repair agents and reviewers while reading siblings; not recorded b
 
 **Trigger.** Round 37 (`docs/audit/2026-11-13-findings.md`, `c763a79`) records the owner's decision that leads no public official document settles are closed by conservative rewording to the boards' own wording. The fourteen remaining leads (Q399.10-.12, .14, .18-.21, .24, .25; Q406 9275; D-244 7136 and 7717; D-245 IB Chemistry command terms) become I388, thirteen rewordings. The audit carries no open leads. D-252 and D-253 are not yet read.
 
-**Primary sources.** Read by the lead where held: Cambridge O Level Geography 2217 (2026, Version 3) 2.1, "an awareness of plate movements, subduction zones and their effects ΓÇô constructive/divergent, destructive/convergent and conservative plate boundaries"; Cambridge 9609 (2026-2028) 3.3.3 Product portfolio analysis, "product life cycle and decisions about extension strategies ΓÇó Boston Matrix analysis and its uses"; Cambridge 9618 (2026) 4.1, special purpose registers MDR, MAR, PC, IX, CIR, Status Register, with no register pair named for the fetch; Pearson 4BI1 3.30, "division of a cell by meiosis produces four cells, each with half the number of chromosomes, and that this results in the formation of genetically different haploid gametes". For the IB guides, OxfordAQA 9685 and 9275, and the AQA 7136 and 7717 reports, the rewordings follow the round-37 quotations, and each removes or softens a claim rather than adding a figure; where the audit's fix offered a choice, the more conservative form was taken (credit either structure; accept a range).
+**Primary sources.** Read by the lead where held: Cambridge O Level Geography 2217 (2026, Version 3) 2.1, "an awareness of plate movements, subduction zones and their effects ╬ô├ç├┤ constructive/divergent, destructive/convergent and conservative plate boundaries"; Cambridge 9609 (2026-2028) 3.3.3 Product portfolio analysis, "product life cycle and decisions about extension strategies ╬ô├ç├│ Boston Matrix analysis and its uses"; Cambridge 9618 (2026) 4.1, special purpose registers MDR, MAR, PC, IX, CIR, Status Register, with no register pair named for the fetch; Pearson 4BI1 3.30, "division of a cell by meiosis produces four cells, each with half the number of chromosomes, and that this results in the formation of genetically different haploid gametes". For the IB guides, OxfordAQA 9685 and 9275, and the AQA 7136 and 7717 reports, the rewordings follow the round-37 quotations, and each removes or softens a claim rather than adding a figure; where the audit's fix offered a choice, the more conservative form was taken (credit either structure; accept a range).
 
 ### I388 - Thirteen rewordings
 
@@ -12378,7 +12378,7 @@ Raised by the repair agents and reviewers while reading siblings; not recorded b
 | I388.5 | `ib-dp-ess-topic-1-foundations-practice.md` Q6 and scheme | Question asks what happens to flood peaks inland when storage is removed; scheme credits an answer that no feedback loop is involved and does not credit 'positive feedback'. [8] unchanged. |
 | I388.6 | `ib-dp-global-politics-peace-conflict.md`, `-revision-notes.md` (L67, answer 3), `-practice.md` answer 3 | 'UN peace enforcement or NATO involvement' replaced with UN peacekeeping missions. |
 | I388.7 | `ib-dp-history-investigation-ia-practice.md` answer 8 | Significance used for how important an event or development was (scale, duration, consequences); weighing causes moved to cause and consequence; the claim about what the analysis criterion 'specifically rewards' removed. [6] unchanged. |
-| I388.8 | `igcse-oxfordaqa-urdu-study-employment-practice.md` answer 1 | 'ambition' credited as ╪«┘ê╪º█ü╪┤ or ╪╣╪▓╪º╪ª┘à, or any clear rendering; ┘à┘é╪╡╪» ('goal', as in the passage) and ╪╣╪▓┘à ('resolve') no longer the model answer. |
+| I388.8 | `igcse-oxfordaqa-urdu-study-employment-practice.md` answer 1 | 'ambition' credited as Γò¬┬½Γöÿ├¬Γò¬┬║Γûê├╝Γò¬Γöñ or Γò¬ΓòúΓò¬ΓûôΓò¬┬║Γò¬┬¬Γöÿ├á, or any clear rendering; Γöÿ├áΓöÿ├⌐Γò¬ΓòíΓò¬┬╗ ('goal', as in the passage) and Γò¬ΓòúΓò¬ΓûôΓöÿ├á ('resolve') no longer the model answer. |
 | I388.9 | `oxfordaqa-a-level-psychology-biopsychology-development-practice.md` answer 4; sibling `-revision-notes.md` | Threat detected in the brain; the mark credits the amygdala signalling the hypothalamus, or the hypothalamus alone; the hypothalamus activates the sympathetic branch. Notes' sequence now threat, amygdala and hypothalamus, sympathetic activation, adrenaline. Tariff unchanged. |
 | I388.10 | `oxfordaqa-igcse-english-literature-exam-preparation.md` | Attribution removed: the revised specification keeps the same papers, timings, marks and weightings. |
 | I388.11 | `aqa-a-level-economics-aggregate-demand-supply.md` L189 | 'reward most' replaced: separating short-run from long-run effects distinguishes stronger answers, with the reports' 'better students' (June 2023) and 'stronger responses' (June 2025). |
@@ -12406,14 +12406,14 @@ A proofreading agent compared every Arabic passage in `o-level-islamiyat-paper-1
 | Item | Files | Result / what changed |
 |---|---|---|
 | Qur'an passages (Sura 41.37, 99, 6.75-79; 112, 1, 108) | both Paper 1 files | Match the syllabus in every word, letter, hamza and shadda; the fuller vowel marks are Tanzil's, as each file's note says. English matches the appendix. No change. |
-| Hadiths (2058: 1, 11, 14, 16; 0493: 2, 9, 19, 20) | both Paper 2 files | Every word and letter matches; English matches. The files' vowel marks differ from the appendix in places where the appendix marking is partial or non-standard (for example ╪¿┘É╪ú┘É╪╡┘Æ╪¿┘Ä╪╣┘Ä┘è┘Æ┘ç┘É for ╪¿┘É╪Ñ┘É╪╡┘Æ╪¿┘Ä╪╣┘Ä┘è┘Æ┘ç┘É, ╪º┘É╪┤┘Æ╪¬┘Ä┘â┘Ä┘ë, ╪º┘ä╪»┘Å┘å┘Æ┘è┘Ä╪º without shadda, and ┘é┘Å┘ä┘ê╪¿┘â┘É┘à┘Å with the marks misplaced). The files keep the standard forms; their notes, which said the Arabic was 'those printed in the syllabus appendix', now say the Arabic follows the appendix word for word with vowel marks in standard form where the appendix's marking is partial or non-standard. |
-| Unicode | all four | Clean: Arabic letters only (no Urdu █î ┌⌐ █ü substitutions), no control characters, no broken words. |
+| Hadiths (2058: 1, 11, 14, 16; 0493: 2, 9, 19, 20) | both Paper 2 files | Every word and letter matches; English matches. The files' vowel marks differ from the appendix in places where the appendix marking is partial or non-standard (for example Γò¬┬┐Γöÿ├ëΓò¬├║Γöÿ├ëΓò¬ΓòíΓöÿ├åΓò¬┬┐Γöÿ├äΓò¬ΓòúΓöÿ├äΓöÿ├¿Γöÿ├åΓöÿ├ºΓöÿ├ë for Γò¬┬┐Γöÿ├ëΓò¬├æΓöÿ├ëΓò¬ΓòíΓöÿ├åΓò¬┬┐Γöÿ├äΓò¬ΓòúΓöÿ├äΓöÿ├¿Γöÿ├åΓöÿ├ºΓöÿ├ë, Γò¬┬║Γöÿ├ëΓò¬ΓöñΓöÿ├åΓò¬┬¼Γöÿ├äΓöÿ├óΓöÿ├äΓöÿ├½, Γò¬┬║Γöÿ├ñΓò¬┬╗Γöÿ├àΓöÿ├ÑΓöÿ├åΓöÿ├¿Γöÿ├äΓò¬┬║ without shadda, and Γöÿ├⌐Γöÿ├àΓöÿ├ñΓöÿ├¬Γò¬┬┐Γöÿ├óΓöÿ├ëΓöÿ├áΓöÿ├à with the marks misplaced). The files keep the standard forms; their notes, which said the Arabic was 'those printed in the syllabus appendix', now say the Arabic follows the appendix word for word with vowel marks in standard form where the appendix's marking is partial or non-standard. |
+| Unicode | all four | Clean: Arabic letters only (no Urdu Γûê├« ΓöîΓîÉ Γûê├╝ substitutions), no control characters, no broken words. |
 
-**Hadith 17** (not used): the agent agrees the appendix's ┘è┘Å╪ú╪¬┘É┘è is not a valid spelling; its reading of the intended word is ┘è┘Ä╪ú┘Æ╪¬┘É┘è. Unverified; not used.
+**Hadith 17** (not used): the agent agrees the appendix's Γöÿ├¿Γöÿ├àΓò¬├║Γò¬┬¼Γöÿ├ëΓöÿ├¿ is not a valid spelling; its reading of the intended word is Γöÿ├¿Γöÿ├äΓò¬├║Γöÿ├åΓò¬┬¼Γöÿ├ëΓöÿ├¿. Unverified; not used.
 
 ### Round 38
 
-**Primary sources.** Read by the lead: Civil Procedure Rules Part 26, r.26.9(10)(b) (justice.gov.uk copy held): "one which includes a claim for clinical negligence, unlessΓÇö (i) the claim is one which would normally be allocated to the intermediate track; (ii) there has been an admission of liability in full ...; and (iii) the admission in paragraph (ii) is made in the defendant's letter of response provided in accordance with the Pre-Action Protocol for the Resolution of Clinical Disputes, provided that the defendant has not raised a defence to the claim under the Limitation Act 1980". Pearson Edexcel IAL Business specification, Unit 1: 1.3.1.1(d) "The difference between risk and uncertainty"; 1.3.1.2(a)-(d) primary and secondary data (quantitative and qualitative) used to identify and anticipate customer needs and wants, quantify likely demand and gain insight into consumer behaviour; primary methods surveys/questionnaires, focus groups/consumer panels, face-to-face/telephone interviews, product trials/test marketing; secondary methods websites/social media, newspapers/magazines/TV/radio, reports, databases; sampling random, quota, stratified; 1.3.3.1(a) marketing objectives "increase market share ΓÇó increase revenue ΓÇó building a brand". OxfordAQA 9215 specification (Version 1.2) 3.2 Verification of accounting records, techniques listed without numbers; OxfordAQA 9670 specification (Version 5.2) 3.1.1, 3.1.2, 3.2.1, 3.2.2, 3.3.1, 3.3.2; OxfordAQA 9236 specification at the 2026/07 upload, Version 1.9: Paper 2 3.2.1 "assessed in Paper 2, Section A", 3.2.2 Section B, and 3.2.3 and 3.2.4 "one of two optional topics that are assessed in Paper 2, Section C".
+**Primary sources.** Read by the lead: Civil Procedure Rules Part 26, r.26.9(10)(b) (justice.gov.uk copy held): "one which includes a claim for clinical negligence, unless╬ô├ç├╢ (i) the claim is one which would normally be allocated to the intermediate track; (ii) there has been an admission of liability in full ...; and (iii) the admission in paragraph (ii) is made in the defendant's letter of response provided in accordance with the Pre-Action Protocol for the Resolution of Clinical Disputes, provided that the defendant has not raised a defence to the claim under the Limitation Act 1980". Pearson Edexcel IAL Business specification, Unit 1: 1.3.1.1(d) "The difference between risk and uncertainty"; 1.3.1.2(a)-(d) primary and secondary data (quantitative and qualitative) used to identify and anticipate customer needs and wants, quantify likely demand and gain insight into consumer behaviour; primary methods surveys/questionnaires, focus groups/consumer panels, face-to-face/telephone interviews, product trials/test marketing; secondary methods websites/social media, newspapers/magazines/TV/radio, reports, databases; sampling random, quota, stratified; 1.3.3.1(a) marketing objectives "increase market share ╬ô├ç├│ increase revenue ╬ô├ç├│ building a brand". OxfordAQA 9215 specification (Version 1.2) 3.2 Verification of accounting records, techniques listed without numbers; OxfordAQA 9670 specification (Version 5.2) 3.1.1, 3.1.2, 3.2.1, 3.2.2, 3.3.1, 3.3.2; OxfordAQA 9236 specification at the 2026/07 upload, Version 1.9: Paper 2 3.2.1 "assessed in Paper 2, Section A", 3.2.2 Section B, and 3.2.3 and 3.2.4 "one of two optional topics that are assessed in Paper 2, Section C".
 
 | Item | Files | What changed |
 |---|---|---|
@@ -12437,20 +12437,20 @@ A proofreading agent compared every Arabic passage in `o-level-islamiyat-paper-1
 
 **Trigger.** Round 39 (`docs/audit/2026-11-15-findings.md`, `ebfc48c`) verified D-254 (10 of 13 rewordings complete; siblings left, I390) and worked the D-252 and D-253 observations: 16 confirmed (E936, eight items; I391, seven items), 16 cleared. Round 40 (`2026-11-16-findings.md`, `caa1985`) verified D-255: E386, E934, E935 and I389 closed, and the Islamiyat Arabic independently confirmed letter for letter. One confirmed-error group open (E936).
 
-**Primary sources.** Read by the lead: Cambridge 9701 (2025-2027) data section, "O2 + 4H+ + 4eΓÇô Γçî 2H2O +1.23", "Br2 + 2eΓÇô Γçî 2BrΓÇô +1.07", "I2 + 2eΓÇô Γçî 2IΓÇô +0.54", "Cl2 + 2eΓÇô Γçî 2ClΓÇô +1.36", "F2 + 2eΓÇô Γçî 2FΓÇô +2.87", and 24.1.1; Cambridge 0620 (2026-2028) 6.2 (Supplement 5 collision theory, 6 explanations "using collision theory", 7 "a catalyst decreases the activation energy"), 6.4 (Core 3; Supplement 6-13, including 10 "the colour changes involved when using acidified aqueous potassium manganate(VII) or aqueous potassium iodide" and 11-13 oxidising and reducing agents), 9.4 Supplement 4 (displacement with aqueous metal ions); Cambridge 5070 (2026-2028) 6.4.3 "Define oxidation in terms of: (a) gain of oxygen (b) loss of electrons (c) an increase in oxidation number" and its 6.2 collision theory and 6.4 agent outcomes; Cambridge 5054 (2026-2028) 1.5.6.3 "Describe, qualitatively, the effect of the position of the centre of gravity on the stability of simple objects"; OCR H420 specification (Version 4.1, April 2026) cover and summary of updates (Version 3, August 2023: wording changes, "No changes have been made to any assessment requirements"; 4.0 Cambridge OCR rebrand; 4.1 AI use in the Practical Endorsements); AQA 8182 3.2.1 (social and dispositional factors) and 3.2.4; AQA 8192 specification (Oakley named for segregated conjugal roles); AQA 8132 specification 3.1.7 "(organic growth through franchising, opening new stores and expanding through e-commerce, outsourcing and external growth through mergers and takeovers)", with no occurrence of SMART; Pearson 9UR0 record in `syllabuses.ts`. Items resting on documents not held locally (the 8192/1 June 2025 and 8136/2 June 2023 mark schemes, 0539 Paper 2 rubric, the IB Literature guide outline) follow the round-39 quotations.
+**Primary sources.** Read by the lead: Cambridge 9701 (2025-2027) data section, "O2 + 4H+ + 4e╬ô├ç├┤ ╬ô├º├« 2H2O +1.23", "Br2 + 2e╬ô├ç├┤ ╬ô├º├« 2Br╬ô├ç├┤ +1.07", "I2 + 2e╬ô├ç├┤ ╬ô├º├« 2I╬ô├ç├┤ +0.54", "Cl2 + 2e╬ô├ç├┤ ╬ô├º├« 2Cl╬ô├ç├┤ +1.36", "F2 + 2e╬ô├ç├┤ ╬ô├º├« 2F╬ô├ç├┤ +2.87", and 24.1.1; Cambridge 0620 (2026-2028) 6.2 (Supplement 5 collision theory, 6 explanations "using collision theory", 7 "a catalyst decreases the activation energy"), 6.4 (Core 3; Supplement 6-13, including 10 "the colour changes involved when using acidified aqueous potassium manganate(VII) or aqueous potassium iodide" and 11-13 oxidising and reducing agents), 9.4 Supplement 4 (displacement with aqueous metal ions); Cambridge 5070 (2026-2028) 6.4.3 "Define oxidation in terms of: (a) gain of oxygen (b) loss of electrons (c) an increase in oxidation number" and its 6.2 collision theory and 6.4 agent outcomes; Cambridge 5054 (2026-2028) 1.5.6.3 "Describe, qualitatively, the effect of the position of the centre of gravity on the stability of simple objects"; OCR H420 specification (Version 4.1, April 2026) cover and summary of updates (Version 3, August 2023: wording changes, "No changes have been made to any assessment requirements"; 4.0 Cambridge OCR rebrand; 4.1 AI use in the Practical Endorsements); AQA 8182 3.2.1 (social and dispositional factors) and 3.2.4; AQA 8192 specification (Oakley named for segregated conjugal roles); AQA 8132 specification 3.1.7 "(organic growth through franchising, opening new stores and expanding through e-commerce, outsourcing and external growth through mergers and takeovers)", with no occurrence of SMART; Pearson 9UR0 record in `syllabuses.ts`. Items resting on documents not held locally (the 8192/1 June 2025 and 8136/2 June 2023 mark schemes, 0539 Paper 2 rubric, the IB Literature guide outline) follow the round-39 quotations.
 
 ### E936 - Eight confirmed errors
 
 | Item | Files | What changed |
 |---|---|---|
-| E936.1 | `a-chemistry-electrochemistry-revision-notes.md` (selective discharge); `a-chemistry-electrochemistry-practice.md` answer 9(c); sibling `a-electrochemistry-electrolysis-and-electrode-potentials.md` | Anode order from the E values: iodide (+0.54 V) and bromide (+1.07 V) oxidised before water (+1.23 V); chloride (+1.36 V) only at high concentration, otherwise oxygen; fluoride never; sulfate and nitrate not discharged. The guide's 'a sufficiently concentrated halide ... even though OHΓü╗ is thermodynamically favoured' limited to chloride. 9(c) tariff [1] + [2] unchanged. |
+| E936.1 | `a-chemistry-electrochemistry-revision-notes.md` (selective discharge); `a-chemistry-electrochemistry-practice.md` answer 9(c); sibling `a-electrochemistry-electrolysis-and-electrode-potentials.md` | Anode order from the E values: iodide (+0.54 V) and bromide (+1.07 V) oxidised before water (+1.23 V); chloride (+1.36 V) only at high concentration, otherwise oxygen; fluoride never; sulfate and nitrate not discharged. The guide's 'a sufficiently concentrated halide ... even though OH╬ô├╝Γòù is thermodynamically favoured' limited to chloride. 9(c) tariff [1] + [2] unchanged. |
 | E936.2 | `redox-reactions-practice.md` Q3, Q4(a), Q5, Q6, Q7 and their answers; `redox-reactions-revision-notes.md` (tests table, agents section); `rates-of-reaction-revision-notes.md` (collision theory section, explanation column, three exam traps) | Tagged *(0620 Extended, 5070 required)*, as the files' tier notes define; the rates notes say what 0620 Core needs (effects on rate; a catalyst speeds up a reaction and is unchanged). Tariffs unchanged. |
 | E936.3 | `moments-and-stability-practice.md` Q8 and scheme; sibling `moments-and-stability-revision-notes.md` | Q8 replaced by a qualitative stability question (tall narrow and low wide stands of equal weight; which is more stable and two changes), 5054 1.5.6.3; scheme [1]+[1]+[1]+[1]+[2] = [6]. The notes' stable/unstable/neutral table labelled beyond the syllabus. |
 | E936.4 | `syllabus-topics.ts` H420 record | syllabusSeries 'Version 4.1 (April 2026), for first assessment in 2025' (the cover's wording); source line Version 4.1; notes corrected: Version 3 was an accessibility rewording, not a new specification superseding an earlier one. |
 | E936.5 | `aqa-gcse-sociology-families-and-education.md` | Oakley keeps the dual burden; the triple shift credited to Duncombe and Marsden. |
 | E936.6 | `gcse-psychology-social-context-revision-notes.md`; `aqa-gcse-psychology-social-context-and-behaviour.md` | Only 3.2.4 Psychological problems pairs biological and psychological explanations; 3.2.1 Social influence explains behaviour through social (situational) and dispositional factors. |
 | E936.7 | `urdu-paper-2-listening-practice.md` Exercises 3 and 4 | Instruction, options A-F, questions (a)-(d) and all options now in Urdu, matching the scripts; answer keys unchanged (letters). |
-| E936.8 | `igcse-urdu-identity-culture-practice.md` answer 5 and marks-lost list | Agreement rule stated: the verb agrees with the subject, except in perfective tenses with ┘å█Æ, where it agrees with the object (┘à█î┌║ ┘å█Æ ┌⌐╪¬╪º╪¿ ┘╛┌æ┌╛█î). Tariff unchanged. |
+| E936.8 | `igcse-urdu-identity-culture-practice.md` answer 5 and marks-lost list | Agreement rule stated: the verb agrees with the subject, except in perfective tenses with Γöÿ├ÑΓûê├å, where it agrees with the object (Γöÿ├áΓûê├«ΓöîΓòæ Γöÿ├ÑΓûê├å ΓöîΓîÉΓò¬┬¼Γò¬┬║Γò¬┬┐ ΓöÿΓò¢Γöî├ªΓöîΓò¢Γûê├«). Tariff unchanged. |
 
 ### I390 - I388 siblings
 
@@ -12489,7 +12489,7 @@ A proofreading agent compared every Arabic passage in `o-level-islamiyat-paper-1
 
 | Item | Files | What changed |
 |---|---|---|
-| Right-to-left display | `astro.config.mjs`; new `src/utils/markdown/hast-rtl-blocks.mjs`; `package.json` and `package-lock.json` (`@astrojs/markdown-satteri` 0.4.1, the version Astro 7.2 already installs, now a direct dependency so it can be configured); `urdu-paper-2-listening-practice.md` | The Markdown processor is Astro's default S├ñtteri processor with its default features, plus one hast plugin: any paragraph, list item, table cell or heading whose letters are mostly Arabic-script gets `dir="rtl"`, and `lang="ur"` when it contains Urdu-only letters (┘╣ ┌ê ┌æ ┌║ ┌╛ █ü █Æ) or `lang="ar"` otherwise. Blocks that are mostly Latin are unchanged. The build now marks 12 resources (the four Islamiyat practice papers and eight Urdu practice files); screenshots of `o-level-islamiyat-paper-2-practice` and `urdu-paper-2-listening-practice` checked: the Arabic and Urdu are right-aligned, and sentence-final punctuation and quotation marks sit at the correct ends. In the listening practice, question and option lines that Markdown had run together into one paragraph now end in hard line breaks, and the two English headings ('Questions:', 'Complete the notes') are separate paragraphs, so each item shows on its own line. |
+| Right-to-left display | `astro.config.mjs`; new `src/utils/markdown/hast-rtl-blocks.mjs`; `package.json` and `package-lock.json` (`@astrojs/markdown-satteri` 0.4.1, the version Astro 7.2 already installs, now a direct dependency so it can be configured); `urdu-paper-2-listening-practice.md` | The Markdown processor is Astro's default SΓö£├▒tteri processor with its default features, plus one hast plugin: any paragraph, list item, table cell or heading whose letters are mostly Arabic-script gets `dir="rtl"`, and `lang="ur"` when it contains Urdu-only letters (ΓöÿΓòú Γöî├¬ Γöî├ª ΓöîΓòæ ΓöîΓò¢ Γûê├╝ Γûê├å) or `lang="ar"` otherwise. Blocks that are mostly Latin are unchanged. The build now marks 12 resources (the four Islamiyat practice papers and eight Urdu practice files); screenshots of `o-level-islamiyat-paper-2-practice` and `urdu-paper-2-listening-practice` checked: the Arabic and Urdu are right-aligned, and sentence-final punctuation and quotation marks sit at the correct ends. In the listening practice, question and option lines that Markdown had run together into one paragraph now end in hard line breaks, and the two English headings ('Questions:', 'Complete the notes') are separate paragraphs, so each item shows on its own line. |
 | /uk/ type error | `src/pages/uk/index.astro` L204 | `surface="white"` removed from the closing `<CTA>`; the component accepts only `navy` and `ivory`, and every other page uses the default (`navy`). `astro check` now reports 0 errors. |
 
 ### Round 41
@@ -12498,11 +12498,11 @@ A proofreading agent compared every Arabic passage in `o-level-islamiyat-paper-1
 
 | Item | Files | What changed |
 |---|---|---|
-| E936 (2) residue | `redox-reactions-revision-notes.md` (worked example agent labels, displacement paragraph, oxidation-number rules, worked identification, six exam traps, self-test 2, 3, 5, 6, 7); `redox-reactions-practice.md` (six marks-lost items, colour-change tests section); `rates-of-reaction-revision-notes.md` (energy-of-collisions paragraph, catalyst EΓéÉ line, equilibrium and Le Chatelier sections with a Core summary from 6.3 Core 1-2, two exam traps, self-test 2, 3, 5) | Tagged *(0620 Extended, 5070 required)*; the oxidation-number section states that 0620 Core needs only the Roman numeral in a name (6.4 Core 1). |
+| E936 (2) residue | `redox-reactions-revision-notes.md` (worked example agent labels, displacement paragraph, oxidation-number rules, worked identification, six exam traps, self-test 2, 3, 5, 6, 7); `redox-reactions-practice.md` (six marks-lost items, colour-change tests section); `rates-of-reaction-revision-notes.md` (energy-of-collisions paragraph, catalyst E╬ô├⌐├ë line, equilibrium and Le Chatelier sections with a Core summary from 6.3 Core 1-2, two exam traps, self-test 2, 3, 5) | Tagged *(0620 Extended, 5070 required)*; the oxidation-number section states that 0620 Core needs only the Roman numeral in a name (6.4 Core 1). |
 | E936 (5) sibling | `aqa-gcse-sociology-families-education-practice.md` answer 6 | The second household (paid work plus most domestic and emotional labour) described as the triple shift; Oakley credited with the dual burden, Duncombe and Marsden with the triple shift. Tariff unchanged. |
 | E936 (6) sibling | `gcse-psychology-social-context-practice.md` | 'Every topic in Paper 2 pairs ...' replaced: social influence contrasts situational and dispositional factors; psychological problems contrasts biological and psychological explanations. |
 | I392.1 | `a-business-what-is-business-practice.md` | Opening now says questions 3, 6, 8 and 12 draw on content outside Topic 1, matching the scope note. |
-| I392.2 | `igcse-oxfordaqa-urdu-study-employment-practice.md` answer 1 | ╪╣╪▓╪º╪ª┘à (plural of the rejected ╪╣╪▓┘à) dropped; ╪«┘ê╪º█ü╪┤ credited, or another singular rendering such as ╪ó╪▒╪▓┘ê. |
+| I392.2 | `igcse-oxfordaqa-urdu-study-employment-practice.md` answer 1 | Γò¬ΓòúΓò¬ΓûôΓò¬┬║Γò¬┬¬Γöÿ├á (plural of the rejected Γò¬ΓòúΓò¬ΓûôΓöÿ├á) dropped; Γò¬┬½Γöÿ├¬Γò¬┬║Γûê├╝Γò¬Γöñ credited, or another singular rendering such as Γò¬├│Γò¬ΓûÆΓò¬ΓûôΓöÿ├¬. |
 | I392.3 | `ionic-covalent-metallic-bonding-practice.md` Q6 and answer; tier note | Q6 (CO2 boiling point and weak intermolecular forces) tagged *(0620 Extended only, 5070 required)*; the tier note now lists explaining simple molecular properties in terms of intermolecular forces (0620 2.5 Supplement 5). |
 
 ### Observations, not actioned
@@ -12555,10 +12555,10 @@ A proofreading agent compared every Arabic passage in `o-level-islamiyat-paper-1
 
 | Item | Record | Result |
 |---|---|---|
-| E939.1 | 9696 | Rebuilt: 14 syllabus topics, 56 numbered subtopics (4 ΓåÆ 14 topics). |
+| E939.1 | 9696 | Rebuilt: 14 syllabus topics, 56 numbered subtopics (4 ╬ô├Ñ├å 14 topics). |
 | E939.2 | 9990 | Rebuilt: AS core studies and research methodology; Specialist Options 1-4 with topics 1.1-4.5. |
 | E939.3 | 0457 | **Deferred.** The 22-topic record is prepared, but nine resources link the three component slugs and no topic matches a component; needs a decision on those resources' topic links. |
-| E939.4 | 0470, 2147 | Option titles as printed (Option A ... the development of modern nation states, 1848ΓÇô1914; Option B ... international relations since 1919). |
+| E939.4 | 0470, 2147 | Option titles as printed (Option A ... the development of modern nation states, 1848╬ô├ç├┤1914; Option B ... international relations since 1919). |
 | E939.5 | 0680 | 3.5 Oil pollution and 3.6 Plastic pollution added, with the subtopics of topics 4-7. |
 | E939.6 | 0417 | Invented 3.1/3.2 removed; every numbered subtopic entered; unnumbered row headings where the syllabus gives no numbers. |
 | E939.7 | 7405 | 3.3.5 Alcohols added (34 topics). |
@@ -12621,7 +12621,7 @@ Slugs: every slug referenced anywhere in `src` was kept; only unreferenced slugs
 | I393.5-9 | 'only' removed (OxfordAQA EPQ 9695; OCR Cambridge Nationals, Technicals, Entry Level); 0450 to 0264 recorded; IB named in hub FAQs and 'Cambridge International Education' used; accounting 'IGCSE and A Level'; six boards, Pearson also UK-domestic. |
 | I393.10-13 | Topic sentence removed from IELTS, SAT, Academic Support; SAT 'Not taught'; IELTS names all three owners; 'State' as 'express in clear terms' and board-neutral science wording; checklist and hub intros explain MYP and paper-based lists; tool fixes (staged routes named, June series late April to early June, 'certain countries', 0620/22 on 12 November 2026, Cambridge-only command-word wording, 'Developing' matches `masteryLevel()`). |
 | I393.14 | **Owner.** Nouman Ahmed's subjects, the Academic Team byline's meaning, 'teaching operates in Pakistan today', and who operates Marlbridge. |
-| I393.15 | Arabic ┘â┘ä╪º ╪º┘ä╪¡╪│┘à┘è┘å; Learners Academy transliterated in Arabic (┘ä┘è╪▒┘å╪▒╪▓ ╪ú┘â╪º╪»┘è┘à┘è) as in Urdu and Bengali; 'experienced' used in all three languages. |
+| I393.15 | Arabic Γöÿ├óΓöÿ├ñΓò¬┬║ Γò¬┬║Γöÿ├ñΓò¬┬íΓò¬ΓöéΓöÿ├áΓöÿ├¿Γöÿ├Ñ; Learners Academy transliterated in Arabic (Γöÿ├ñΓöÿ├¿Γò¬ΓûÆΓöÿ├ÑΓò¬ΓûÆΓò¬Γûô Γò¬├║Γöÿ├óΓò¬┬║Γò¬┬╗Γöÿ├¿Γöÿ├áΓöÿ├¿) as in Urdu and Bengali; 'experienced' used in all three languages. |
 | I393.16 | Cookie page adds browser storage (`mb_consent`, `mb-practice-<code>`) and Turnstile on every form; privacy page adds School and Role fields, IP to Turnstile and the one-hour rate-limit key, delivery through Resend; editorial policy links the correction form. |
 | I393.17 | Half-equations section, industrial processes section and their self-test questions tagged (0620 4.1 S11; 6.3 S5-S11). |
 
@@ -12680,8 +12680,8 @@ U76 (results, organisation, in-person teaching, teacher credentials and coverage
 | I397.2 | `HowTuitionWorks.astro` (new `trialFormatOverride` prop), `programs/[slug].astro` | Programmes without a group fee replace the trial-format sentence: IB "one-to-one only, so the trial is an individual class"; IELTS and Academic Support "confirmed when you enquire". Their "When do I start paying?" FAQ no longer says "the fee shown above", and says the fee is confirmed on enquiry. |
 | I397.3 | `assessments.ts` 9625, 9725; `syllabus-updates/index.astro` | 9725 current (first teaching September 2026 has begun), 9625 legacy-teach-out, notes rewritten; 9725 now listed with 7137 under the changeover section. A changeover card whose related record does not exist (DP Computer Science 2014) says "its successor, DP Computer Science (2027), has no Marlbridge assessment record yet" instead of "paired with". |
 | I397.4 | `syllabus-topics.ts`, `matrix.ts` (and generated `public/_redirects`) | 7182 series Version 1.4, teaching from September 2025 (effectiveFrom 2025); 9630 effectiveFrom 2019, topics 1-5 AS and 6-13 A; 9210 series "For teaching from September 2017, exams from May/June 2019" (effectiveFrom 2017); YPH11 effectiveTo ongoing; H240 '3.03'; matrix codes 7702 and 7162 (build adds `/syllabus/7702/` and `/syllabus/7162/` redirects); 9275 effectiveTo 2027 with the final series in the series string; 9610 note records that the page now links a Version 4.2 file and the Version 5.1 file is kept. 9489: the deferral is restated below with its full scope. |
-| I397.5 | `business.md`; `legal/cookies.astro`, `legal/privacy.astro`, `i18n/pages/legal.ts` (ar, ur, bn); `syllabus-updates/index.astro`; `assessments.ts` J249; `syllabuses.ts` Global Politics; `syllabus-topics.ts` 7162, 9640, 9237; 9696 and 9990 resources | Business FAQ lists 0450ΓåÆ0264, AQA 7137/7138 (replacing 7131/7132), OCR H436 (replacing H431), OxfordAQA 9725 (replacing 9625). Both policies 'Last updated 17 September 2026'; "IP anonymisation" replaced by "Google Analytics 4 does not log or store IP addresses" (English, Arabic, Urdu, Bengali). Privacy names every enquiry form (contact, trial, tutoring, schools) and the corrections form for Turnstile. DP Psychology 2019 note: Papers 1 and 3 from mirror markschemes, Paper 2 carried over, IA from teacher resources. J249 note cites the specification (Version 5.0) and says the guide's P1-P3 plus P7 wording is superseded. Global Politics note cites the guide, not a brief/mirror conflict. 7162 co-teachable claim removed. 9640 3.5 unstaged. 9237 names without "Paper N -". Whole-paper resources linked to every topic they cover: 9696 physical (hydrology, atmosphere and weather, rocks and weathering; practice set without rocks), human (population, migration, settlement dynamics); 9990 specialist options (clinical, consumer, health, organisational). |
-| I397.6 | `src/utils/markdown/hast-rtl-blocks.mjs` | Inside right-to-left blocks, each Latin-script run of two or more letters (with its punctuation, quotes, brackets and line breaks) is wrapped in `<span dir="ltr">` (a bidi isolate). Trailing opening quotes/brackets are left outside. Screenshots after the fix: igcse-oxfordaqa-urdu-local-national-international-practice 3(a) reads "(ΓÇ£Because of too many factories, the air is polluted.ΓÇ¥) [2]" in order; o-level-cambridge-urdu-first-and-second-language-practice answer 1, urdu-reading-and-writing-practice answer 8 ("ΓÇö a gist answer (R4); reject a single detail such as ΓÇ£...ΓÇ¥.") and edexcel-a-level-urdu-translation-practice answer 5 ("own-words paraphrase rather than lifted sentence [1].") read in order. First build showed a run split at the source line break (two spans); the pattern now includes line breaks, giving one span per phrase. |
+| I397.5 | `business.md`; `legal/cookies.astro`, `legal/privacy.astro`, `i18n/pages/legal.ts` (ar, ur, bn); `syllabus-updates/index.astro`; `assessments.ts` J249; `syllabuses.ts` Global Politics; `syllabus-topics.ts` 7162, 9640, 9237; 9696 and 9990 resources | Business FAQ lists 0450╬ô├Ñ├å0264, AQA 7137/7138 (replacing 7131/7132), OCR H436 (replacing H431), OxfordAQA 9725 (replacing 9625). Both policies 'Last updated 17 September 2026'; "IP anonymisation" replaced by "Google Analytics 4 does not log or store IP addresses" (English, Arabic, Urdu, Bengali). Privacy names every enquiry form (contact, trial, tutoring, schools) and the corrections form for Turnstile. DP Psychology 2019 note: Papers 1 and 3 from mirror markschemes, Paper 2 carried over, IA from teacher resources. J249 note cites the specification (Version 5.0) and says the guide's P1-P3 plus P7 wording is superseded. Global Politics note cites the guide, not a brief/mirror conflict. 7162 co-teachable claim removed. 9640 3.5 unstaged. 9237 names without "Paper N -". Whole-paper resources linked to every topic they cover: 9696 physical (hydrology, atmosphere and weather, rocks and weathering; practice set without rocks), human (population, migration, settlement dynamics); 9990 specialist options (clinical, consumer, health, organisational). |
+| I397.6 | `src/utils/markdown/hast-rtl-blocks.mjs` | Inside right-to-left blocks, each Latin-script run of two or more letters (with its punctuation, quotes, brackets and line breaks) is wrapped in `<span dir="ltr">` (a bidi isolate). Trailing opening quotes/brackets are left outside. Screenshots after the fix: igcse-oxfordaqa-urdu-local-national-international-practice 3(a) reads "(╬ô├ç┬úBecause of too many factories, the air is polluted.╬ô├ç┬Ñ) [2]" in order; o-level-cambridge-urdu-first-and-second-language-practice answer 1, urdu-reading-and-writing-practice answer 8 ("╬ô├ç├╢ a gist answer (R4); reject a single detail such as ╬ô├ç┬ú...╬ô├ç┬Ñ.") and edexcel-a-level-urdu-translation-practice answer 5 ("own-words paraphrase rather than lifted sentence [1].") read in order. First build showed a run split at the source line break (two spans); the pattern now includes line breaks, giving one span per phrase. |
 
 ### Knock-on
 
@@ -12714,7 +12714,7 @@ U76; I393 (14); U77 except Global Politics; 5014 companions; a native reader's c
 **Method.** The lead read the guides in a real Chrome session at ibo.org (same-origin fetch, text extracted with pdf.js) and compared each record's numbers and names with the document text by script: Physics Table 4 (24 sub-topics and the HL key), Biology Syllabus roadmap and content headings (40 sub-topics and HL flags), Business management syllabus outline, Economics syllabus outline, Geography (all 46 sub-topic names). An ESS guide was looked for under the same subject-guides path and not found; no mirror or teacher copy was used.
 
 **Primary sources (ibo.org, `/globalassets/new-structure/university-admission/pdfs/subject-guides/`).**
-- `physics-guide.pdf` ("Physics guide First assessment 2025"), Table 4 'Physics syllabus content overview' (printed page 25): "E.2 Quantum physics ΓÇóΓÇóΓÇó"; key: "ΓÇóΓÇóΓÇó Topics with content that should only be taught to HL students"; the same mark on A.4, A.5, B.4, D.4 and no others. Content section: "E.2 Quantum physics ... There is no standard level content in E.2."
+- `physics-guide.pdf` ("Physics guide First assessment 2025"), Table 4 'Physics syllabus content overview' (printed page 25): "E.2 Quantum physics ╬ô├ç├│╬ô├ç├│╬ô├ç├│"; key: "╬ô├ç├│╬ô├ç├│╬ô├ç├│ Topics with content that should only be taught to HL students"; the same mark on A.4, A.5, B.4, D.4 and no others. Content section: "E.2 Quantum physics ... There is no standard level content in E.2."
 - `biology-guide.pdf` ("Biology guide First assessment 2025"): roadmap (printed page 25) "A2.1 Origins of cells [HL only]", "C4.2 Transfers of energy and matter", "D4.2 Stability and change"; content headings "A2.1 Origins of cells" (PDF page 44), "C4.2 Transfers of energy and matter" (page 89), "D4.2 Stability and change" (page 110); the theory of knowledge table (page 16) alone prints "A2.1 Origin of cells".
 - `business-management-guide.pdf` ("First assessment 2024"): "3.6 Efficiency ratio analysis ( HL only )".
 - `economics-guide.pdf` ("First assessment 2022"): "2.4 Critique of the maximizing behaviour of consumers and producers (HL only)".
@@ -12771,7 +12771,7 @@ U76; I393 (14); U77 except Global Politics; 5014 companions; a native reader's c
 | I399.3 | `syllabuses.ts` 7162 and Global Politics; `syllabus-topics.ts` 9640 and 9630; `assessments.ts` J249 | 7162 co-teaching claim removed. Global Politics brief "three-page". 9640 note: 3.5 "carries no AS or A2 stage because it may be assessed in any unit". 9630 note: entry codes 9631 and 9632 from the specification replace "International AS (9610) is co-teachable". J249 officialSourceUrl now the Version 5.0 specification (verifiedOn 2026-09-17). |
 | I399.4 | `a-geography-physical-practice.md` | Links `rocks-and-weathering-9696` (question 5, plate margins, is 3.1 Plate tectonics). D-259's statement that the set does not cover that topic was wrong. |
 | I399.5 | `oxfordaqa-a-level-chemistry-equilibria-practice.md` | The two K_p tips in "Where marks are usually lost" carry the International A2 label. |
-| I399.6 | `src/i18n/pages/legal.ts` (ar, ur, bn) | Privacy pages name every enquiry form (contact, trial, tutoring, schools) and the corrections form for Turnstile; the cookie pages' Turnstile paragraph names the same forms. Cookie and privacy 'last updated' 17 September 2026 in all three languages (17 ╪│╪¿╪¬┘à╪¿╪▒ 2026, 17 ╪│╪¬┘à╪¿╪▒ 2026, αººαº¡ αª╕αºçαª¬αºìαªƒαºçαª«αºìαª¼αª░ αº¿αºªαº¿αº¼). |
+| I399.6 | `src/i18n/pages/legal.ts` (ar, ur, bn) | Privacy pages name every enquiry form (contact, trial, tutoring, schools) and the corrections form for Turnstile; the cookie pages' Turnstile paragraph names the same forms. Cookie and privacy 'last updated' 17 September 2026 in all three languages (17 Γò¬ΓöéΓò¬┬┐Γò¬┬¼Γöÿ├áΓò¬┬┐Γò¬ΓûÆ 2026, 17 Γò¬ΓöéΓò¬┬¼Γöÿ├áΓò¬┬┐Γò¬ΓûÆ 2026, ╬▒┬║┬║╬▒┬║┬í ╬▒┬¬Γòò╬▒┬║├º╬▒┬¬┬¼╬▒┬║├¼╬▒┬¬╞Æ╬▒┬║├º╬▒┬¬┬½╬▒┬║├¼╬▒┬¬┬╝╬▒┬¬Γûæ ╬▒┬║┬┐╬▒┬║┬¬╬▒┬║┬┐╬▒┬║┬╝). |
 
 **Corrections to earlier entries (from Q427).** D-259 called 9237 a Cambridge syllabus; it is OxfordAQA International GCSE Islamiat. D-259 named the 9210 cover as Version 3.5; the file OxfordAQA links is Version 3.4. No record depended on either.
 
@@ -12785,7 +12785,7 @@ U76; I393 (14); U77 except Global Politics; 5014 companions; a native reader's c
 
 ## D-262 - Audit round 47 (Q428): I400, the status rule carried through (2026-09-17)
 
-**Trigger.** Round 47 (`docs/audit/2026-11-23-findings.md`, `bcd3bf7`) verified D-261: E938 and I399 closed, leaving E939's two deferrals as the only confirmed group open. New: I400 ΓÇö D-261's status rule ("current once first teaching has begun") is not carried into three places.
+**Trigger.** Round 47 (`docs/audit/2026-11-23-findings.md`, `bcd3bf7`) verified D-261: E938 and I399 closed, leaving E939's two deferrals as the only confirmed group open. New: I400 ╬ô├ç├╢ D-261's status rule ("current once first teaching has begun") is not carried into three places.
 
 **Method.** The lead read the IB computer science updates page and its subject brief, and the Cambridge 0264 and 0450 qualification pages and the 0264 syllabus, in a real Chrome session; applied the rule to the two records the audit names; recorded 0264 so the changeover exists on both sides; rebuilt with the content cache cleared and read the rendered tracker, Business hub and DP Computer Science hub; ran every gate.
 
@@ -12820,7 +12820,7 @@ E939 (3) 0457 and (12) 9UR0 deferred; U78 (IB ESS guide); I396 deferrals; U76, U
 **Method.** Fetched both syllabus PDFs directly from the boards' own sites (`curl`, both 200 OK). For 0457, `pdftotext -layout` on the syllabus PDF was reliable (English, left-to-right) and the topic list was also read from a rendered page image (p.12) to confirm layout and completeness. For 9UR0, `pdftotext` was not trusted for the Urdu pages (confirmed unreliable: garbled, reordered presentation-form output on a direct check) -- every Urdu string was read from 200-400dpi page-image renders (`pdftoppm`) of pp.8-9 and p.41, letter by letter, then cross-checked against the handoff's own independent transcription. Rebuilt both `syllabus-topics.ts` records; read all 18 resource files linking the old component/paper slugs and re-linked each based on what its own body actually teaches (Option A from the handoff, the audit's own recommendation); added RTL rendering to the two templates that print topic/subtopic names; ran every required gate and rendered both hubs and checklists in the built output.
 
 **Primary sources.**
-- Cambridge IGCSE Global Perspectives 0457 syllabus, Version 2 (April 2025) -- `https://www.cambridgeinternational.org/Images/662457-2025-2027-syllabus.pdf` (41pp.; "Version 2" on the cover ΓÇö corrected in D-265 from this entry's original "21pp."). Section 3, "Topics" / "Topic list", printed p.12: 22 topics in two unnumbered alphabetical columns, "The topic list is for all components," "Knowledge of content is not assessed in this syllabus." The Version 2 syllabus update (`674932-2025-2027-syllabus-update.pdf`) confirms Version 2 only clarified Component 1 skills wording. The 2028 syllabus (`744776-2028-syllabus.pdf`) prints the same 22 topics with "no significant changes" -- not adopted into this record, which stays scoped to the current 2025-2027 series.
+- Cambridge IGCSE Global Perspectives 0457 syllabus, Version 2 (April 2025) -- `https://www.cambridgeinternational.org/Images/662457-2025-2027-syllabus.pdf` (41pp.; "Version 2" on the cover ╬ô├ç├╢ corrected in D-265 from this entry's original "21pp."). Section 3, "Topics" / "Topic list", printed p.12: 22 topics in two unnumbered alphabetical columns, "The topic list is for all components," "Knowledge of content is not assessed in this syllabus." The Version 2 syllabus update (`674932-2025-2027-syllabus-update.pdf`) confirms Version 2 only clarified Component 1 skills wording. The 2028 syllabus (`744776-2028-syllabus.pdf`) prints the same 22 topics with "no significant changes" -- not adopted into this record, which stays scoped to the current 2025-2027 series.
 - Pearson Edexcel A Level Urdu 9UR0 specification, Issue 1 (June 2018, 56pp.) -- `https://qualifications.pearson.com/content/dam/pdf/A%20Level/Urdu/2018/specification-and-sample-assessments/a-level-urdu-specification11.pdf`. "Themes, sub-themes and research subjects" printed pp.8-9 (PDF pp.10-11); "Appendix 1: Prescribed literary texts and films" printed p.41 (PDF p.43).
 - Pearson's "Getting Started Guide" (2018) -- `https://qualifications.pearson.com/content/dam/pdf/A%20Level/Urdu/2018/teaching-and-learning-materials/GCE-2018-getting-started-guide-Urdu.pdf`, section 4.1, for the English theme/sub-theme/research-subject names (Pearson's own secondary document, not the specification).
 
@@ -12834,18 +12834,18 @@ E939 (3) 0457 and (12) 9UR0 deferred; U78 (IB ESS guide); I396 deferrals; U76, U
 
 | Topic | Urdu (specification) | English (Pearson's Getting Started Guide, secondary) |
 |---|---|---|
-| 1 | ┘╛╪º┌⌐╪│╪¬╪º┘å█î ┘à╪╣╪º╪┤╪▒█Æ ┌⌐╪º ╪º╪▒╪¬┘é╪º | Evolving Pakistani society |
-| 1.1 / 1.2 / 1.3 | ╪«╪º┘å╪»╪º┘å / ┌⌐╪º┘à / ╪¬╪╣┘ä█î┘à | Family / Work / (research subject) equal access to education in Pakistan |
-| 2 | ╪º╪▒╪»┘ê ╪¿┘ê┘ä┘å█Æ ┘ê╪º┘ä█î ╪»┘å█î╪º ┘à█î┌║ ╪¬┘à╪»┘å ╪º┘ê╪▒ ┘ü┘å┘ê┘å┘É ┘ä╪╖█î┘ü█ü | Art and culture in the Urdu-speaking world |
-| 2.1 / 2.2 / 2.3 | ┘ä┘ê┌⌐ ╪▒╪│┘ê┘à ┘ê ╪▒┘ê╪º█î╪¬ / ┘à┘é╪¿┘ê┘ä ┌⌐┘ä┌å╪▒ / ┘à█î┌ê█î╪º | folklore / popular culture / (research subject) the media |
-| 3 | (█ü╪¼╪▒╪¬ ╪¬╪▒┌⌐┘É ┘ê╪╖┘å) ╪º┘ê╪▒ ┌⌐╪½█î╪▒ ╪º┘ä╪½┘é╪º┘ü╪¬█î ┘à╪╣╪º╪┤╪▒█ü | Immigration and multicultural society |
-| 3.1 / 3.2 / 3.3 | ╪º█î┌⌐ ┘à╪¬┘å┘ê╪╣ ╪º┘ê╪▒ ┌»┘ê┘å╪º┌»┘ê┌║ ┘à╪╣╪º╪┤╪▒█Æ ┌⌐█Æ ┘à╪½╪¿╪¬ ┘╛█ü┘ä┘ê / █ü╪¼╪▒╪¬ (╪¬╪▒┌⌐┘É ┘ê╪╖┘å) ┌⌐█î ╪¼╪º┘å╪¿ ╪▒╪¼╪¡╪º┘å╪º╪¬ ┘ê ╪╖╪▒╪▓┘É ┘ü┌⌐╪▒ / ┘╛╪º┌⌐╪│╪¬╪º┘å ╪│█Æ █ü╪¼╪▒╪¬ | positive features of a diverse society / attitudes towards immigration / (research subject) emigration from Pakistan |
-| 4 | ┘╛╪º┌⌐╪│╪¬╪º┘å█î ╪│█î╪º╪│╪¬ ┌⌐█Æ ╪▒┘Å╪« | Aspects of Pakistani politics |
-| 4.1 / 4.2 / 4.3 | ┘é█î╪º┘à ┘╛╪º┌⌐╪│╪¬╪º┘å (1947) / ╪¼╪º┌»█î╪▒╪»╪º╪▒█î ┘å╪╕╪º┘à / ┘╛╪º┌⌐╪│╪¬╪º┘å ┘à█î┌║ ┘à╪º╪¡┘ê┘ä█î╪º╪¬█î ┘à╪│╪º╪ª┘ä ╪│█Æ ┘à╪¬╪╣┘ä┘æ┘é ╪º┘é╪»╪º┘à╪º╪¬ | (no guide translation) / (no guide translation) / (research subject) responses to environmental issues in Pakistan |
+| 1 | ΓöÿΓò¢Γò¬┬║ΓöîΓîÉΓò¬ΓöéΓò¬┬¼Γò¬┬║Γöÿ├ÑΓûê├« Γöÿ├áΓò¬ΓòúΓò¬┬║Γò¬ΓöñΓò¬ΓûÆΓûê├å ΓöîΓîÉΓò¬┬║ Γò¬┬║Γò¬ΓûÆΓò¬┬¼Γöÿ├⌐Γò¬┬║ | Evolving Pakistani society |
+| 1.1 / 1.2 / 1.3 | Γò¬┬½Γò¬┬║Γöÿ├ÑΓò¬┬╗Γò¬┬║Γöÿ├Ñ / ΓöîΓîÉΓò¬┬║Γöÿ├á / Γò¬┬¼Γò¬ΓòúΓöÿ├ñΓûê├«Γöÿ├á | Family / Work / (research subject) equal access to education in Pakistan |
+| 2 | Γò¬┬║Γò¬ΓûÆΓò¬┬╗Γöÿ├¬ Γò¬┬┐Γöÿ├¬Γöÿ├ñΓöÿ├ÑΓûê├å Γöÿ├¬Γò¬┬║Γöÿ├ñΓûê├« Γò¬┬╗Γöÿ├ÑΓûê├«Γò¬┬║ Γöÿ├áΓûê├«ΓöîΓòæ Γò¬┬¼Γöÿ├áΓò¬┬╗Γöÿ├Ñ Γò¬┬║Γöÿ├¬Γò¬ΓûÆ Γöÿ├╝Γöÿ├ÑΓöÿ├¬Γöÿ├ÑΓöÿ├ë Γöÿ├ñΓò¬ΓòûΓûê├«Γöÿ├╝Γûê├╝ | Art and culture in the Urdu-speaking world |
+| 2.1 / 2.2 / 2.3 | Γöÿ├ñΓöÿ├¬ΓöîΓîÉ Γò¬ΓûÆΓò¬ΓöéΓöÿ├¬Γöÿ├á Γöÿ├¬ Γò¬ΓûÆΓöÿ├¬Γò¬┬║Γûê├«Γò¬┬¼ / Γöÿ├áΓöÿ├⌐Γò¬┬┐Γöÿ├¬Γöÿ├ñ ΓöîΓîÉΓöÿ├ñΓöî├ÑΓò¬ΓûÆ / Γöÿ├áΓûê├«Γöî├¬Γûê├«Γò¬┬║ | folklore / popular culture / (research subject) the media |
+| 3 | (Γûê├╝Γò¬┬╝Γò¬ΓûÆΓò¬┬¼ Γò¬┬¼Γò¬ΓûÆΓöîΓîÉΓöÿ├ë Γöÿ├¬Γò¬ΓòûΓöÿ├Ñ) Γò¬┬║Γöÿ├¬Γò¬ΓûÆ ΓöîΓîÉΓò¬┬╜Γûê├«Γò¬ΓûÆ Γò¬┬║Γöÿ├ñΓò¬┬╜Γöÿ├⌐Γò¬┬║Γöÿ├╝Γò¬┬¼Γûê├« Γöÿ├áΓò¬ΓòúΓò¬┬║Γò¬ΓöñΓò¬ΓûÆΓûê├╝ | Immigration and multicultural society |
+| 3.1 / 3.2 / 3.3 | Γò¬┬║Γûê├«ΓöîΓîÉ Γöÿ├áΓò¬┬¼Γöÿ├ÑΓöÿ├¬Γò¬Γòú Γò¬┬║Γöÿ├¬Γò¬ΓûÆ Γöî┬╗Γöÿ├¬Γöÿ├ÑΓò¬┬║Γöî┬╗Γöÿ├¬ΓöîΓòæ Γöÿ├áΓò¬ΓòúΓò¬┬║Γò¬ΓöñΓò¬ΓûÆΓûê├å ΓöîΓîÉΓûê├å Γöÿ├áΓò¬┬╜Γò¬┬┐Γò¬┬¼ ΓöÿΓò¢Γûê├╝Γöÿ├ñΓöÿ├¬ / Γûê├╝Γò¬┬╝Γò¬ΓûÆΓò¬┬¼ (Γò¬┬¼Γò¬ΓûÆΓöîΓîÉΓöÿ├ë Γöÿ├¬Γò¬ΓòûΓöÿ├Ñ) ΓöîΓîÉΓûê├« Γò¬┬╝Γò¬┬║Γöÿ├ÑΓò¬┬┐ Γò¬ΓûÆΓò¬┬╝Γò¬┬íΓò¬┬║Γöÿ├ÑΓò¬┬║Γò¬┬¼ Γöÿ├¬ Γò¬ΓòûΓò¬ΓûÆΓò¬ΓûôΓöÿ├ë Γöÿ├╝ΓöîΓîÉΓò¬ΓûÆ / ΓöÿΓò¢Γò¬┬║ΓöîΓîÉΓò¬ΓöéΓò¬┬¼Γò¬┬║Γöÿ├Ñ Γò¬ΓöéΓûê├å Γûê├╝Γò¬┬╝Γò¬ΓûÆΓò¬┬¼ | positive features of a diverse society / attitudes towards immigration / (research subject) emigration from Pakistan |
+| 4 | ΓöÿΓò¢Γò¬┬║ΓöîΓîÉΓò¬ΓöéΓò¬┬¼Γò¬┬║Γöÿ├ÑΓûê├« Γò¬ΓöéΓûê├«Γò¬┬║Γò¬ΓöéΓò¬┬¼ ΓöîΓîÉΓûê├å Γò¬ΓûÆΓöÿ├àΓò¬┬½ | Aspects of Pakistani politics |
+| 4.1 / 4.2 / 4.3 | Γöÿ├⌐Γûê├«Γò¬┬║Γöÿ├á ΓöÿΓò¢Γò¬┬║ΓöîΓîÉΓò¬ΓöéΓò¬┬¼Γò¬┬║Γöÿ├Ñ (1947) / Γò¬┬╝Γò¬┬║Γöî┬╗Γûê├«Γò¬ΓûÆΓò¬┬╗Γò¬┬║Γò¬ΓûÆΓûê├« Γöÿ├ÑΓò¬ΓòòΓò¬┬║Γöÿ├á / ΓöÿΓò¢Γò¬┬║ΓöîΓîÉΓò¬ΓöéΓò¬┬¼Γò¬┬║Γöÿ├Ñ Γöÿ├áΓûê├«ΓöîΓòæ Γöÿ├áΓò¬┬║Γò¬┬íΓöÿ├¬Γöÿ├ñΓûê├«Γò¬┬║Γò¬┬¼Γûê├« Γöÿ├áΓò¬ΓöéΓò¬┬║Γò¬┬¬Γöÿ├ñ Γò¬ΓöéΓûê├å Γöÿ├áΓò¬┬¼Γò¬ΓòúΓöÿ├ñΓöÿ├ªΓöÿ├⌐ Γò¬┬║Γöÿ├⌐Γò¬┬╗Γò¬┬║Γöÿ├áΓò¬┬║Γò¬┬¼ | (no guide translation) / (no guide translation) / (research subject) responses to environmental issues in Pakistan |
 
-Two corrections against the raw print, both stated in the record's note: Theme 1's second sub-theme ("kaam"/work) and research subject ("taleem"/education) are printed as plain, unstyled text in the specification, unlike every other theme's bold-blue labels -- transcribed at the same structural position regardless, not omitted. The Theme 4 research-subject line on p.9 is printed with a stray leading "┘╛" before "┘╛╪º┌⌐╪│╪¬╪º┘å ┘à█î┌║ ..."; that typesetting artifact is not reproduced.
+Two corrections against the raw print, both stated in the record's note: Theme 1's second sub-theme ("kaam"/work) and research subject ("taleem"/education) are printed as plain, unstyled text in the specification, unlike every other theme's bold-blue labels -- transcribed at the same structural position regardless, not omitted. The Theme 4 research-subject line on p.9 is printed with a stray leading "ΓöÿΓò¢" before "ΓöÿΓò¢Γò¬┬║ΓöîΓîÉΓò¬ΓöéΓò¬┬¼Γò¬┬║Γöÿ├Ñ Γöÿ├áΓûê├«ΓöîΓòæ ..."; that typesetting artifact is not reproduced.
 
-Topic 5, "Prescribed literary texts and films" (the specification's own English heading, Appendix 1, p.41), lists the six works exactly as printed: novel ╪ó┘å┌»┘å (Khadija Mastur, 1999); essay collection ┘╛╪╖╪▒╪│ ┌⌐█Æ ┘à╪╢╪º┘à█î┘å (Ahmad Shah Patras Bukhari, 2011), with its five prescribed essay titles folded into that one subtopic's name since the schema has no third nesting level below topic/subtopic; play ╪¿╪│╪º╪╖ (Baseer Kazmi, 1987); films ╪¿┘å ╪▒┘ê╪ª█Æ (Momina Duraid, 2015), ╪¿╪º╪║╪¿╪º┘å (Ravi Chopra, 2003) and ╪¿╪¼╪▒┘å┌»█î ╪¿┌╛╪º╪ª█î ╪¼╪º┘å (Kabir Khan, 2015).
+Topic 5, "Prescribed literary texts and films" (the specification's own English heading, Appendix 1, p.41), lists the six works exactly as printed: novel Γò¬├│Γöÿ├ÑΓöî┬╗Γöÿ├Ñ (Khadija Mastur, 1999); essay collection ΓöÿΓò¢Γò¬ΓòûΓò¬ΓûÆΓò¬Γöé ΓöîΓîÉΓûê├å Γöÿ├áΓò¬ΓòóΓò¬┬║Γöÿ├áΓûê├«Γöÿ├Ñ (Ahmad Shah Patras Bukhari, 2011), with its five prescribed essay titles folded into that one subtopic's name since the schema has no third nesting level below topic/subtopic; play Γò¬┬┐Γò¬ΓöéΓò¬┬║Γò¬Γòû (Baseer Kazmi, 1987); films Γò¬┬┐Γöÿ├Ñ Γò¬ΓûÆΓöÿ├¬Γò¬┬¬Γûê├å (Momina Duraid, 2015), Γò¬┬┐Γò¬┬║Γò¬ΓòæΓò¬┬┐Γò¬┬║Γöÿ├Ñ (Ravi Chopra, 2003) and Γò¬┬┐Γò¬┬╝Γò¬ΓûÆΓöÿ├ÑΓöî┬╗Γûê├« Γò¬┬┐ΓöîΓò¢Γò¬┬║Γò¬┬¬Γûê├« Γò¬┬╝Γò¬┬║Γöÿ├Ñ (Kabir Khan, 2015).
 
 No sub-theme, research subject or prescribed work carries a printed number; all subtopic numbers (1.1-1.3, ..., 5.1-5.6) are Marlbridge's own, stated as such. `verifiedDate` 2026-09-17.
 
@@ -12877,7 +12877,7 @@ The hub's coverage line for 9UR0 now reads 2 of 5 topics (Theme 4 and the prescr
 
 ### RTL rendering (new)
 
-Neither the academic hub template (`src/pages/boards/[board]/[qualification]/[subject].astro`) nor the checklist template (`src/pages/checklists/[board]/[qualification]/[subject].astro`) had ever printed a topic or subtopic name containing Arabic-script text -- this is the first record in `syllabus-topics.ts` to do so. Both templates now import `rtlLangFor` from `src/utils/markdown/hast-rtl-blocks.mjs` (already used for Markdown content, D-257) and wrap `topic.name` and each subtopic name in `<bdi dir="rtl" lang="ur"|"ar">` when it detects Arabic-script text, leaving non-Arabic names untouched. Checked in the built output: all 4 Urdu theme names and 18 Urdu subtopic names on both the 9UR0 hub and checklist render inside a `<bdi>` with `dir="rtl"` and the correct `lang`; the English "Prescribed literary texts and films" topic and the mixed Urdu/English work subtopics (e.g. "╪ó┘å┌»┘å ΓÇö ╪«╪»█î╪¼█ü ┘à╪│╪¬┘ê╪▒ (1999) novel") are wrapped as a whole and read correctly left-to-right for the embedded English/digits within the RTL run.
+Neither the academic hub template (`src/pages/boards/[board]/[qualification]/[subject].astro`) nor the checklist template (`src/pages/checklists/[board]/[qualification]/[subject].astro`) had ever printed a topic or subtopic name containing Arabic-script text -- this is the first record in `syllabus-topics.ts` to do so. Both templates now import `rtlLangFor` from `src/utils/markdown/hast-rtl-blocks.mjs` (already used for Markdown content, D-257) and wrap `topic.name` and each subtopic name in `<bdi dir="rtl" lang="ur"|"ar">` when it detects Arabic-script text, leaving non-Arabic names untouched. Checked in the built output: all 4 Urdu theme names and 18 Urdu subtopic names on both the 9UR0 hub and checklist render inside a `<bdi>` with `dir="rtl"` and the correct `lang`; the English "Prescribed literary texts and films" topic and the mixed Urdu/English work subtopics (e.g. "Γò¬├│Γöÿ├ÑΓöî┬╗Γöÿ├Ñ ╬ô├ç├╢ Γò¬┬½Γò¬┬╗Γûê├«Γò¬┬╝Γûê├╝ Γöÿ├áΓò¬ΓöéΓò¬┬¼Γöÿ├¬Γò¬ΓûÆ (1999) novel") are wrapped as a whole and read correctly left-to-right for the embedded English/digits within the RTL run.
 
 ### Observations, not actioned
 
@@ -12892,23 +12892,23 @@ Neither the academic hub template (`src/pages/boards/[board]/[qualification]/[su
 
 **Trigger.** A handoff (`I396-deferrals-handoff-2026-09-17.md`) named five of D-258's six deferred/disputed I396 points as independently actionable, each requiring either a schema change, a rebuild against a newer official syllabus, or a validator-collision fix, rather than a same-shape data edit: (A) Cambridge 9489 on the 2026-only syllabus; (B) AQA 7137 missing its topic record, blocking the AS Business hub and checklist, with four resources still citing the withdrawn 7131 record; (C) Cambridge 9709 Paper 2 rendering a false 0% at AS because the assessment model had no AS-weighting field; (D) Pearson YBS11/YEC11 storing a composite `code` string that only validated resources by an accidental split; (E) Pearson YAC11/4EC1's integer topic numbering not matching the specification's own printed (sometimes fractional) numbers. The sixth I396 deferral (OCR resource-series wording, ~50 files) and the disputed 0539 duration point were not part of this handoff and remain open.
 
-**Method.** No live owner was available (auto mode); each item was independently re-verified against the board's own official document (PDF text extracted with `pdfplumber`/`pdftotext`, no mirrors or memory) before any data was written, rather than trusting the handoff's own summary. Schema changes (C, E) were paired with a validator update in the same change, not left unchecked. Item B's resource decision ΓÇö the handoff offered a full rebuild (no owner sign-off needed), an archived-legacy label, or a retire-with-redirect (the latter two both needing the owner) ΓÇö was resolved as a scoped rebuild: retarget the four files to the two 7137 sub-topics matching their original scope, with the sub-topics that don't yet have dedicated AS resources (3.1.3, 3.1.4, 3.2.1, 3.2.2) disclosed as a gap rather than silently dropped or invented. Two problems surfaced only once the full gate suite ran and were fixed before commit: `syllabuses.ts` listing 7131 before 7137 made cross-board-integrity's first-match lookup resolve to the withdrawn code, and three `notes` fields (written this round and in the preceding YBS11/YEC11/9489 work) named internal filenames (`assessments.ts`, `syllabus-topics.ts`) that render on public hub pages, caught by `audit:content-integrity`'s internal-note-leakage check.
+**Method.** No live owner was available (auto mode); each item was independently re-verified against the board's own official document (PDF text extracted with `pdfplumber`/`pdftotext`, no mirrors or memory) before any data was written, rather than trusting the handoff's own summary. Schema changes (C, E) were paired with a validator update in the same change, not left unchecked. Item B's resource decision ╬ô├ç├╢ the handoff offered a full rebuild (no owner sign-off needed), an archived-legacy label, or a retire-with-redirect (the latter two both needing the owner) ╬ô├ç├╢ was resolved as a scoped rebuild: retarget the four files to the two 7137 sub-topics matching their original scope, with the sub-topics that don't yet have dedicated AS resources (3.1.3, 3.1.4, 3.2.1, 3.2.2) disclosed as a gap rather than silently dropped or invented. Two problems surfaced only once the full gate suite ran and were fixed before commit: `syllabuses.ts` listing 7131 before 7137 made cross-board-integrity's first-match lookup resolve to the withdrawn code, and three `notes` fields (written this round and in the preceding YBS11/YEC11/9489 work) named internal filenames (`assessments.ts`, `syllabus-topics.ts`) that render on public hub pages, caught by `audit:content-integrity`'s internal-note-leakage check.
 
 **Primary sources.** Cambridge 9489: syllabus PDF 718292 (2027-2029, Version 2, April 2025), read complete. AQA 7137/7138: specification PDF Version 1.1 (November 2025) at `cdn.sanity.io/files/p28bar15/green/48dab3a84bc6cce76b4483b77516ab3a3edf3c77.pdf`, linked from the live `aqa.org.uk/subjects/business/as-level/business-7137/specification/subject-content` page (contents pp.3-4, specification-at-a-glance pp.7-8, subject content pp.12-28, Annex: Formulae and key data p.47); confirmed as the live-linked PDF by byte-identical MD5 against the file already fetched. Cambridge 9709: syllabus PDF 697427 (2026-2027), Syllabus overview pp.14-16 and Assessment overview p.14, re-read for the AS route structure. Pearson YBS11 (International A Level Business, Issue 1, September 2017) and YEC11 (International A Level Economics, Issue 2, June 2018) qualification pages. Pearson YAC11 (International Advanced Level Accounting, Issue 2, September 2018) and 4EC1 (International GCSE Economics, Issue 3, February 2026) specification pages/PDFs.
 
 | Item | Files | What changed |
 |---|---|---|
-| A ΓÇö 9489 | `syllabus-topics.ts`, `syllabuses.ts`, `assessments.ts` | Rebuilt to the 2027-2029 syllabus: 7 topics (renamed to drop "Paper N ΓÇô" prefixes), each with 3 subtopics using the subject content's own heading wording; assessment component titles, `firstAssessment: '2027'` and source updated. The 2026 syllabus (697368) demoted to a `KNOWN_OTHER_SERIES` stub (topics dropped, following the 0452 precedent), since the 9 world-history resource files were found already accurate for 2027-2029 and cite no 2026-only topic slugs ΓÇö no resource edits were needed. |
-| B ΓÇö 7137 | `syllabus-topics.ts` (new record), `syllabuses.ts` (reordered), 4 resource files | Added the AS Business (7137) topic record: Unit 3.1 (3.1.1-3.1.4) and Unit 3.2 (3.2.1-3.2.2), excluding 3.2.3 and all of Unit 3.3 as specification-marked "(A-level only)". The old 7131 record demoted to a `KNOWN_OTHER_SERIES` stub (its Topic 1 has no AS-level successor under 7137: the external-environment sub-topic moved to the now-A-level-only Unit 3.3). `aqa-as-level-business-course-structure.md` rewritten for the new two-unit/six-subsection structure and two-paper (both case-study format) assessment. The three "What Is Business?" files retargeted to 3.1.1 (Business and objectives) and 3.1.2 (Forms of business and stakeholders) only ΓÇö content rewritten against the specification, not carried over from the old 3.1.1/3.1.2, since the new sub-topics cover different ground (entrepreneurs, SMART objectives vs. the old profit-measurement content, which has moved to 3.1.4, not covered here). 3.1.3, 3.1.4, 3.2.1 and 3.2.2 are disclosed in the guide's opening as not yet covered by a dedicated AS resource. |
-| C ΓÇö 9709 | `assessments.ts` (schema: `asWeightingPercent`, `asAlternativeGroup`), `validate-assessments.mjs` (new `[3d]` check), `[subject].astro`, `syllabus-updates/index.astro` | Paper 2 (and Papers 4/5, each already an A-level `alternativeGroup` member) now carry an `asWeightingPercent`/`asAlternativeGroup` pair recording the separate AS-route weighting (Paper 1 60% + one of {2, 4, 5} at 40%), alongside the existing A-level weighting (Papers 1+3+5 always, plus one of {4, 6}). `[3d]` mirrors the existing `[3a]`/`[3b]` pattern to check every declared AS route sums to 100%. Both rendering call sites now show the combined AS/A-level weighting instead of a bare A-level-only percentage, so Paper 2 no longer renders as a false "0%". |
-| D ΓÇö YBS11/YEC11 | `syllabuses.ts` (new `relatedCodes` field), `syllabus-topics.ts`, `validate-academic-content.mjs` (`CODE_SPLIT` regex) | `code` now holds the qualification code alone (`YBS11`/`YEC11`); the four unit codes and the AS cash-in code are recorded separately under `relatedCodes`. The validator's `codeIndex` builder now splits on comma or a slash with surrounding whitespace, not any `/`, so `WEC11/01`-style paper codes are no longer split into two unrelated fragments; the 12 resources that previously validated only by that accident now validate against the real codes. |
-| E ΓÇö YAC11/4EC1 | `syllabus-topics.ts` (`SyllabusTopic.number: number \| string`), `[board]/[qualification]/[subject].astro` (`topicRange()`), `gap-report.ts` | YAC11's 15 topics renumbered `1.1`-`1.6`/`2.1`-`2.9` and 4EC1's 4 topics to `1.1`/`1.2`/`2.1`/`2.2`, matching the specification's own printed numbers. `topicRange()` widened to accept `number \| string` with a non-numeric fallback that leaves the existing integer-range-compression path unchanged for every other record. |
+| A ╬ô├ç├╢ 9489 | `syllabus-topics.ts`, `syllabuses.ts`, `assessments.ts` | Rebuilt to the 2027-2029 syllabus: 7 topics (renamed to drop "Paper N ╬ô├ç├┤" prefixes), each with 3 subtopics using the subject content's own heading wording; assessment component titles, `firstAssessment: '2027'` and source updated. The 2026 syllabus (697368) demoted to a `KNOWN_OTHER_SERIES` stub (topics dropped, following the 0452 precedent), since the 9 world-history resource files were found already accurate for 2027-2029 and cite no 2026-only topic slugs ╬ô├ç├╢ no resource edits were needed. |
+| B ╬ô├ç├╢ 7137 | `syllabus-topics.ts` (new record), `syllabuses.ts` (reordered), 4 resource files | Added the AS Business (7137) topic record: Unit 3.1 (3.1.1-3.1.4) and Unit 3.2 (3.2.1-3.2.2), excluding 3.2.3 and all of Unit 3.3 as specification-marked "(A-level only)". The old 7131 record demoted to a `KNOWN_OTHER_SERIES` stub (its Topic 1 has no AS-level successor under 7137: the external-environment sub-topic moved to the now-A-level-only Unit 3.3). `aqa-as-level-business-course-structure.md` rewritten for the new two-unit/six-subsection structure and two-paper (both case-study format) assessment. The three "What Is Business?" files retargeted to 3.1.1 (Business and objectives) and 3.1.2 (Forms of business and stakeholders) only ╬ô├ç├╢ content rewritten against the specification, not carried over from the old 3.1.1/3.1.2, since the new sub-topics cover different ground (entrepreneurs, SMART objectives vs. the old profit-measurement content, which has moved to 3.1.4, not covered here). 3.1.3, 3.1.4, 3.2.1 and 3.2.2 are disclosed in the guide's opening as not yet covered by a dedicated AS resource. |
+| C ╬ô├ç├╢ 9709 | `assessments.ts` (schema: `asWeightingPercent`, `asAlternativeGroup`), `validate-assessments.mjs` (new `[3d]` check), `[subject].astro`, `syllabus-updates/index.astro` | Paper 2 (and Papers 4/5, each already an A-level `alternativeGroup` member) now carry an `asWeightingPercent`/`asAlternativeGroup` pair recording the separate AS-route weighting (Paper 1 60% + one of {2, 4, 5} at 40%), alongside the existing A-level weighting (Papers 1+3+5 always, plus one of {4, 6}). `[3d]` mirrors the existing `[3a]`/`[3b]` pattern to check every declared AS route sums to 100%. Both rendering call sites now show the combined AS/A-level weighting instead of a bare A-level-only percentage, so Paper 2 no longer renders as a false "0%". |
+| D ╬ô├ç├╢ YBS11/YEC11 | `syllabuses.ts` (new `relatedCodes` field), `syllabus-topics.ts`, `validate-academic-content.mjs` (`CODE_SPLIT` regex) | `code` now holds the qualification code alone (`YBS11`/`YEC11`); the four unit codes and the AS cash-in code are recorded separately under `relatedCodes`. The validator's `codeIndex` builder now splits on comma or a slash with surrounding whitespace, not any `/`, so `WEC11/01`-style paper codes are no longer split into two unrelated fragments; the 12 resources that previously validated only by that accident now validate against the real codes. |
+| E ╬ô├ç├╢ YAC11/4EC1 | `syllabus-topics.ts` (`SyllabusTopic.number: number \| string`), `[board]/[qualification]/[subject].astro` (`topicRange()`), `gap-report.ts` | YAC11's 15 topics renumbered `1.1`-`1.6`/`2.1`-`2.9` and 4EC1's 4 topics to `1.1`/`1.2`/`2.1`/`2.2`, matching the specification's own printed numbers. `topicRange()` widened to accept `number \| string` with a non-numeric fallback that leaves the existing integer-range-compression path unchanged for every other record. |
 
-**Two problems the gate suite caught, fixed before commit.** `syllabuses.ts` listed 7131 before 7137, so `validate-cross-board-integrity.mjs`'s first-match lookup (the same pattern already relied on for the AQA GCSE combined-science pairs) resolved to the withdrawn code; 7137 moved ahead of 7131 in the file, with a comment recording why the order matters. Three `notes` fields (YBS11, YEC11, 9489 ΓÇö one written this round, two in the immediately preceding session) named `assessments.ts`/`syllabus-topics.ts` by filename; `audit:content-integrity`'s rule 7 (internal-note leakage) caught them rendering on `/boards/edexcel/a-level/business/`, `/boards/edexcel/a-level/economics/` and `/boards/cambridge/a-level/world-history/` respectively. Reworded to describe the data relationship without naming the file.
+**Two problems the gate suite caught, fixed before commit.** `syllabuses.ts` listed 7131 before 7137, so `validate-cross-board-integrity.mjs`'s first-match lookup (the same pattern already relied on for the AQA GCSE combined-science pairs) resolved to the withdrawn code; 7137 moved ahead of 7131 in the file, with a comment recording why the order matters. Three `notes` fields (YBS11, YEC11, 9489 ╬ô├ç├╢ one written this round, two in the immediately preceding session) named `assessments.ts`/`syllabus-topics.ts` by filename; `audit:content-integrity`'s rule 7 (internal-note leakage) caught them rendering on `/boards/edexcel/a-level/business/`, `/boards/edexcel/a-level/economics/` and `/boards/cambridge/a-level/world-history/` respectively. Reworded to describe the data relationship without naming the file.
 
-**Observations, not actioned.** `matrix.ts`'s AS Business row already correctly shows `'7131 / 7137'` during the transition, but its A-level Business row (`AQA_ALEVEL_CODES.business`) still shows only `'7132'`, with no `7138` ΓÇö a pre-existing gap, not touched here since A-level Business is outside this handoff's five items. The OCR resource-series wording deferral (~50 files) and the disputed 0539 duration point are untouched, per the handoff's scope.
+**Observations, not actioned.** `matrix.ts`'s AS Business row already correctly shows `'7131 / 7137'` during the transition, but its A-level Business row (`AQA_ALEVEL_CODES.business`) still shows only `'7132'`, with no `7138` ╬ô├ç├╢ a pre-existing gap, not touched here since A-level Business is outside this handoff's five items. The OCR resource-series wording deferral (~50 files) and the disputed 0539 duration point are untouched, per the handoff's scope.
 
-**Validation.** `astro check` 0 errors/0 warnings (18 pre-existing hints); `validate:academic` (all 4 syllabus-topics/content checks, cross-board integrity 5/5, commercial claims, pricing consistency, review integrity, pinned teachers, worker bindings, AS-level display, FX policy, assessments 14/14 including the new `[3d]`, grade thresholds, practice bank, practice-question schema) all PASS; negative-fixture suite 35/35; functions tests 43/43; `check:duplicate-scope` the same 4 pre-existing groups only; build 2142 HTML files (was 2141 ΓÇö the AS Business checklist page now builds again), content cache cleared first; `audit:all` 0 problems across every category, including `content-integrity` (clean only after the filename-leak fix above). Rendered and read directly: world-history hub (2027-2029 topics, AS/A-level structure); AS Business hub (all 6 new sub-topics) and its checklist (now built, 7137); Cambridge Mathematics hub (Paper 2 "40% of the AS Level (not counted toward the A Level)", no bare "0%"); Edexcel Business and Economics hub titles ("(YBS11)"/"(YEC11)", not the composite string) and their checklists; Edexcel Accounting and Edexcel IGCSE Economics hubs (fractional topic numbers rendering); syllabus-updates (7131 ΓåÆ 7137 pairing shown; YBS11/YEC11/9489 correctly show no pairing, since none has a `relatedCode`-linked outgoing/incoming record).
+**Validation.** `astro check` 0 errors/0 warnings (18 pre-existing hints); `validate:academic` (all 4 syllabus-topics/content checks, cross-board integrity 5/5, commercial claims, pricing consistency, review integrity, pinned teachers, worker bindings, AS-level display, FX policy, assessments 14/14 including the new `[3d]`, grade thresholds, practice bank, practice-question schema) all PASS; negative-fixture suite 35/35; functions tests 43/43; `check:duplicate-scope` the same 4 pre-existing groups only; build 2142 HTML files (was 2141 ╬ô├ç├╢ the AS Business checklist page now builds again), content cache cleared first; `audit:all` 0 problems across every category, including `content-integrity` (clean only after the filename-leak fix above). Rendered and read directly: world-history hub (2027-2029 topics, AS/A-level structure); AS Business hub (all 6 new sub-topics) and its checklist (now built, 7137); Cambridge Mathematics hub (Paper 2 "40% of the AS Level (not counted toward the A Level)", no bare "0%"); Edexcel Business and Economics hub titles ("(YBS11)"/"(YEC11)", not the composite string) and their checklists; Edexcel Accounting and Edexcel IGCSE Economics hubs (fractional topic numbers rendering); syllabus-updates (7131 ╬ô├Ñ├å 7137 pairing shown; YBS11/YEC11/9489 correctly show no pairing, since none has a `relatedCode`-linked outgoing/incoming record).
 
 **Open-count position after D-264.** I396's five handed-off deferrals closed (A-E). I396 still open: OCR resource-series wording, and the disputed 0539 duration point (unchanged, out of this handoff's scope). I400 (all three) fixed per D-262, above, independently of this handoff. E939's two deferrals were closed by D-263, immediately above, independently of this handoff. U78 unchanged from D-261.
 
@@ -12921,7 +12921,7 @@ Neither the academic hub template (`src/pages/boards/[board]/[qualification]/[su
 **Primary sources (read 2026-09-17).**
 - Cambridge 9489 2027-2029 syllabus (Version 2, 82pp.): the rotation table is headed "Topics assessed on Paper 1 and Paper 2" and states "The topics for each paper will rotate on a yearly basis"; the Paper 4 section prescribes no rotation. Printed numbering: "1 France, 1774-1814" ... "7 Imperialism and the emergence of world powers" (AS, European 1-3, American 4-6, International 7-9), "1 Mussolini's Italy, 1919-41" ... "4 Truman, Eisenhower and post-war USA" (Paper 4, same 1-9 pattern), and Paper 3's "Topic 1: The origins of the First World War", "Topic 2: The Holocaust", "Topic 3: The origins and development of the Cold War" (p.70). "Changes to this syllabus" runs pp.78-80.
 - Cambridge 0457 2025-2027 syllabus (Version 2): 41 pages; "Knowledge of content is not assessed in this syllabus"; the 22-topic "Topic list" in section 3, with "The topic list is for all components" and no sub-headings under any topic. The qualification page links this syllabus, its update and the 2028 syllabus.
-- Pearson 9UR0 specification (Issue 1), 400dpi crops of printed pp.8-9: Theme 1's research-subject line begins "╪¬╪╣┘ä█î┘à ┌⌐█Æ ┘à╪¬┘ê╪º╪▓█î ┘å╪╕╪º┘à" with no label after the heading "╪¬╪¡┘é█î┘é ┌⌐█Æ ┘ä╪ª█Æ ┘à┘ê╪╢┘ê╪╣╪º╪¬"; Theme 2 prints "╪»┘Å┘å█î╪º" (and "╪º┘ê╪▒┘ü┘å┘ê┘å┘É ┘ä╪╖█î┘ü█ü" without a space); Theme 4 prints "┘é█î╪º┘à┘É ┘╛╪º┌⌐╪│╪¬╪º┘å (1947)".
+- Pearson 9UR0 specification (Issue 1), 400dpi crops of printed pp.8-9: Theme 1's research-subject line begins "Γò¬┬¼Γò¬ΓòúΓöÿ├ñΓûê├«Γöÿ├á ΓöîΓîÉΓûê├å Γöÿ├áΓò¬┬¼Γöÿ├¬Γò¬┬║Γò¬ΓûôΓûê├« Γöÿ├ÑΓò¬ΓòòΓò¬┬║Γöÿ├á" with no label after the heading "Γò¬┬¼Γò¬┬íΓöÿ├⌐Γûê├«Γöÿ├⌐ ΓöîΓîÉΓûê├å Γöÿ├ñΓò¬┬¬Γûê├å Γöÿ├áΓöÿ├¬Γò¬ΓòóΓöÿ├¬Γò¬ΓòúΓò¬┬║Γò¬┬¼"; Theme 2 prints "Γò¬┬╗Γöÿ├àΓöÿ├ÑΓûê├«Γò¬┬║" (and "Γò¬┬║Γöÿ├¬Γò¬ΓûÆΓöÿ├╝Γöÿ├ÑΓöÿ├¬Γöÿ├ÑΓöÿ├ë Γöÿ├ñΓò¬ΓòûΓûê├«Γöÿ├╝Γûê├╝" without a space); Theme 4 prints "Γöÿ├⌐Γûê├«Γò¬┬║Γöÿ├áΓöÿ├ë ΓöÿΓò¢Γò¬┬║ΓöîΓîÉΓò¬ΓöéΓò¬┬¼Γò¬┬║Γöÿ├Ñ (1947)".
 - Pearson's Getting Started Guide for 9UR0, section 4.1: "The optional research subject, 'equal access to education in Pakistan'".
 - Pearson YBS11 record's own component codes and the YEC11 precedent: unit codes print as WBS11/01-WBS14/01.
 - AQA 7137/7138 specification (Version 1.1, November 2025): "reasons for setting up in business: financial and non-financial"; seven influences on business decisions (objectives, risk, reward, resources, market conditions, ethics, opportunity costs); units printed 3.1 and 3.2.
@@ -12931,9 +12931,9 @@ Neither the academic hub template (`src/pages/boards/[board]/[qualification]/[su
 | Item | Files | What changed |
 |---|---|---|
 | E944.1 | `syllabus-topics.ts` 0457 | `subtopicsComplete: true`. The hub and checklist now say the syllabus lists no sub-headings, instead of telling readers to check the document for content that does not exist. |
-| E944.2 | `syllabus-topics.ts` 9UR0 | Subtopic 1.3 is now "Equal access to education in Pakistan", the research subject's name in Pearson's Getting Started Guide, with the note saying that the specification prints no label for it and that the earlier "╪¬╪╣┘ä█î┘à" was the fixer's own wording, now withdrawn. |
+| E944.2 | `syllabus-topics.ts` 9UR0 | Subtopic 1.3 is now "Equal access to education in Pakistan", the research subject's name in Pearson's Getting Started Guide, with the note saying that the specification prints no label for it and that the earlier "Γò¬┬¼Γò¬ΓòúΓöÿ├ñΓûê├«Γöÿ├á" was the fixer's own wording, now withdrawn. |
 | E944.3 | `syllabuses.ts` 7137; `scripts/audit-content-integrity.mjs` | The validator-ordering sentence is out of the reader-facing note and is now a code comment above the entry. Rule 7's pattern is widened from `D-0\d{2,3}` to `D-\d{2,4}`. |
-| E944.4 | `aqa-as-level-business-what-is-business.md` | "reasons for setting up in business, financial and non-financial": profit and income as financial, independence, control, a passion and a gap in the market as non-financial ΓÇö agreeing with the sibling revision notes. |
+| E944.4 | `aqa-as-level-business-what-is-business.md` | "reasons for setting up in business, financial and non-financial": profit and income as financial, independence, control, a passion and a gap in the market as non-financial ╬ô├ç├╢ agreeing with the sibling revision notes. |
 | E944.5 | `aqa-as-level-business-what-is-business-revision-notes.md` | Self-test 2 asks for the seven influences (its own answer key, L51 and L121 already list seven). |
 | E944.6 | `assessments.ts` and `syllabus-topics.ts` 9489 | The rotation claim is limited to Papers 1 and 2, as the table's own heading says; the Paper 4 rotation claim is dropped from both notes, and the note records that Paper 4 questions are set on the whole chosen option. |
 
@@ -12942,9 +12942,9 @@ Neither the academic hub template (`src/pages/boards/[board]/[qualification]/[su
 | Item | Files | What changed |
 |---|---|---|
 | I401.1 | `syllabus-topics.ts` 9489 and 7137 | 9489 subtopics carry the syllabus's printed numbers (AS 1-9 across the three options; Paper 3 1-3; Paper 4 1-9), and the note says the 1-7 top level that groups them by option and paper is Marlbridge's own. 7137's topics are the printed 3.1 and 3.2. |
-| I401.2 | `syllabus-topics.ts` 9UR0 | "╪»┘Å┘å█î╪º" and "┘é█î╪º┘à┘É ┘╛╪º┌⌐╪│╪¬╪º┘å (1947)" restored from 400dpi crops; the note records both and that Theme 2's heading prints "╪º┘ê╪▒┘ü┘å┘ê┘å┘É" without a space, restored here. |
+| I401.2 | `syllabus-topics.ts` 9UR0 | "Γò¬┬╗Γöÿ├àΓöÿ├ÑΓûê├«Γò¬┬║" and "Γöÿ├⌐Γûê├«Γò¬┬║Γöÿ├áΓöÿ├ë ΓöÿΓò¢Γò¬┬║ΓöîΓîÉΓò¬ΓöéΓò¬┬¼Γò¬┬║Γöÿ├Ñ (1947)" restored from 400dpi crops; the note records both and that Theme 2's heading prints "Γò¬┬║Γöÿ├¬Γò¬ΓûÆΓöÿ├╝Γöÿ├ÑΓöÿ├¬Γöÿ├ÑΓöÿ├ë" without a space, restored here. |
 | I401.3 | new `src/utils/academic/rtl-names.ts`; hub and checklist templates | The right-to-left language is decided once per record from all of its names together, so every name in an Urdu record is tagged `lang="ur"`. A name with no Arabic script is left unwrapped. |
-| I401.4 | `syllabuses.ts` YBS11; six Edexcel Business resources | `relatedCodes` hold WBS11/01-WBS14/01, the printed form (as YEC11 already did). The six resources that cited bare WBS11/WBS12 now cite the same form ΓÇö the code validator required it once the record changed. |
+| I401.4 | `syllabuses.ts` YBS11; six Edexcel Business resources | `relatedCodes` hold WBS11/01-WBS14/01, the printed form (as YEC11 already did). The six resources that cited bare WBS11/WBS12 now cite the same form ╬ô├ç├╢ the code validator required it once the record changed. |
 | I401.5 | hub template | A component in an `asAlternativeGroup` carries a dagger and its own footnote: "At AS Level, candidates sit one of the components marked with a dagger, not all of them." The 9709 AS column no longer reads as though every paper is sat. |
 | I401.6 | `syllabus-topics.ts`, `assessments.ts`, `syllabuses.ts`, `docs/decision-log.md` | 0457's note no longer calls the list a subject-content heading and gives the page count as 41; the D-263 entry's "21pp." and its claim about the 2028 file are corrected in place; the 9489 stub credits I396/D-264, not E939; the 9489 note cites pp.78-80; 7137's `source` names the specification PDF (Version 1.1) it was read from, not "live subject-content pages". |
 | I401.7 | `aqa-as-level-business-what-is-business.md` | The guide's opening now discloses 3.1.3, 3.1.4 and the whole of Unit 3.2 (3.2.1, 3.2.2) as not yet published as dedicated AS resources. |
@@ -13039,7 +13039,7 @@ E939, I400 and the five I396 deferrals are closed by the audit. Remaining: U76, 
 |---|---|---|
 | Teachers | `azam-siddique.md`, `salman-ahmad.md` | Sir Azam Siddique adds Environmental Management; Dr Salman Ahmad adds Commerce (roles and bios updated). |
 | Resources-only state | `matrix.ts` (new optional `classesOffered` on `Combination`, carried through `rows()`); `utils/academic` (`offersClasses()`, `taughtOnly()`) | A combination can now stay published for its free resources while no classes are offered. IB DP Global Politics and ESS are split into their own rows with `classesOffered: false`; both remain ACTIVE, so their hubs, checklists and resources are unchanged in address and content. |
-| Hub | hub template | For a resources-only combination: "Does Marlbridge teach it?" reads "Not at the moment ΓÇö free study resources only"; "Is enrolment open?" reads "No ΓÇö classes are not currently offered in this subject"; no Course structured data is emitted; the closing call to action points to the free resources instead of learning support. |
+| Hub | hub template | For a resources-only combination: "Does Marlbridge teach it?" reads "Not at the moment ╬ô├ç├╢ free study resources only"; "Is enrolment open?" reads "No ╬ô├ç├╢ classes are not currently offered in this subject"; no Course structured data is emitted; the closing call to action points to the free resources instead of learning support. |
 | Counts | `boards/[board]/index.astro`, `levels/[qualification]/index.astro` | "How many ... subjects does Marlbridge teach?" now adds, where they differ, "Classes are currently offered in N of them; the rest are published for their free study resources only" (IB: 19 of 21; IB Diploma Programme: 14 of 16). |
 | Teacher matching | `ProgramTeachers.astro` | Matches teachers against taught combinations only. |
 | Subject pages | `subjects/global-politics.md`, `subjects/environmental-systems-and-societies.md` | `marlbridgeTeaches: "not-teaching"` (the page badge reads "Not taught"); description and FAQ say classes are not offered at the moment and the free resources stay open. |
@@ -13070,7 +13070,7 @@ E939, I400 and the five I396 deferrals are closed by the audit. Remaining: U76, 
 | Item | Files | What changed |
 |---|---|---|
 | Matrix | `matrix.ts` | The literal array is now `BASE_MATRIX`; `MATRIX` applies `classesOffered: false` to every row whose subject is in `SUBJECTS_WITHOUT_CLASSES` (psychology, sociology, geography, global-perspectives). 21 combinations across Cambridge, AQA, OxfordAQA and IB become resources-only; with D-270's two IB rows, 23 active combinations are now resources-only. Status, addresses and content are unchanged. |
-| Hubs | hub template (unchanged, D-270 logic) | These hubs now answer "Not at the moment ΓÇö free study resources only", say enrolment is not open, emit no Course schema, and point the closing call to action at the free resources. Board and level pages recount "Classes are currently offered in N of them" automatically (IB Diploma Programme: 12 of 16). |
+| Hubs | hub template (unchanged, D-270 logic) | These hubs now answer "Not at the moment ╬ô├ç├╢ free study resources only", say enrolment is not open, emit no Course schema, and point the closing call to action at the free resources. Board and level pages recount "Classes are currently offered in N of them" automatically (IB Diploma Programme: 12 of 16). |
 | Subject pages | `subjects/{psychology,sociology,geography,global-perspectives}.md` | `marlbridgeTeaches: "not-teaching"`; description and "Does Marlbridge teach ...?" answer say classes are not offered at the moment and the free resources stay open. |
 | Subject-page call to action | `subjects/[slug].astro` | A not-teaching subject now closes with "Marlbridge is not offering {subject} classes at the moment..." and "Browse free resources" instead of "Need teaching in {subject}?" and a learning-support button. This also corrects the Global Politics and ESS pages, which D-270 left with the teaching call to action. |
 | IB programme | `programs/ib.md` | "10 further DP subjects" (was 12); DP Psychology and DP Geography join Global Politics and ESS in the no-classes sentence and description. |
@@ -13131,7 +13131,7 @@ E939, I400 and the five I396 deferrals are closed by the audit. Remaining: U76, 
 **Primary sources** (cambridgeinternational.org only; nothing else consulted).
 
 - Qualification page `https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-environmental-management-5014/`, fetched 2026-09-21. It links three documents: 2025-2026 Syllabus (`664483`), 2025-2026 Syllabus update (`722312`) and 2027-2029 Syllabus (`718208`), and summarises the changes (paper names, restructured content, climate change, fieldwork, case studies removed, AOs reweighted).
-- **Cambridge O Level Environmental Management 5014 syllabus for 2027, 2028 and 2029, Version 1, ┬⌐ September 2024** (`https://www.cambridgeinternational.org/Images/718208-2027-2029-syllabus.pdf`, 49 pages, SHA-256 `b007bd8aΓÇª66ced`), read to its address block: cover (p.1: exams in 2027-2029, June series, November in Mauritius only); aims (p.7); content overview (p.8: seven topics; shares content with IGCSE Environmental Management); assessment overview (p.9); assessment objectives and weightings (pp.10-11: AO1 43%, AO2 30%, AO3 27%; Paper 1 55/30/15, Paper 2 30/30/40); subject content (pp.12-35, all 30 sub-topics); details of the assessment (p.36); fieldwork requirements, apparatus and safety (pp.37-39); mathematical requirements (p.40); presentation of data (p.41); conventions (p.42); command words (p.43); before you start and availability (p.44); changes to this syllabus (pp.47-48). Text extracted with pdftotext -layout; pp.13, 14 and 47 rendered to images to confirm numbering and list layout.
+- **Cambridge O Level Environmental Management 5014 syllabus for 2027, 2028 and 2029, Version 1, Γö¼ΓîÉ September 2024** (`https://www.cambridgeinternational.org/Images/718208-2027-2029-syllabus.pdf`, 49 pages, SHA-256 `b007bd8a╬ô├ç┬¬66ced`), read to its address block: cover (p.1: exams in 2027-2029, June series, November in Mauritius only); aims (p.7); content overview (p.8: seven topics; shares content with IGCSE Environmental Management); assessment overview (p.9); assessment objectives and weightings (pp.10-11: AO1 43%, AO2 30%, AO3 27%; Paper 1 55/30/15, Paper 2 30/30/40); subject content (pp.12-35, all 30 sub-topics); details of the assessment (p.36); fieldwork requirements, apparatus and safety (pp.37-39); mathematical requirements (p.40); presentation of data (p.41); conventions (p.42); command words (p.43); before you start and availability (p.44); changes to this syllabus (pp.47-48). Text extracted with pdftotext -layout; pp.13, 14 and 47 rendered to images to confirm numbering and list layout.
 - Cambridge O Level Environmental Management 5014 syllabus for 2025 and 2026, Version 2 (`664483`), pp.9-16 (assessment overview, AOs, Topics 1-3), for every "2025-2026 differs" statement; and its syllabus update (`722312`, October 2024: November series in Mauritius only).
 
 **D-204's description of the new edition, checked against `718208`.** All four points hold. (1) "Adds ore": 1.2.1 "Define an ore as rock containing minerals and metals." (2) "Adds biological extraction as a third method": 1.2.2(c) "biological extraction: phytomining and bioleaching." (3) "Restructures energy into three natural-resources sub-topics": 1.4 Energy resources, 1.5 Conservation and management of energy resources, 1.6 Fracking. (4) "Renumbers the rocks content": 2025-2026 1.1-1.5 become 1.1-1.3 (old 1.3 Impact and 1.4 Managing the impact are inside the new 1.2; old 1.5 Sustainable use is replaced by 1.3 Sustainable management). D-204 did not mention that oil pollution (2025-2026 2.5-2.6) moves to Topic 3 Water as 3.5.
@@ -13155,7 +13155,7 @@ E939, I400 and the five I396 deferrals are closed by the audit. Remaining: U76, 
 | `o-level-cambridge-environmental-management-energy-and-the-environment.md` | `o-level-cambridge-environmental-management-energy-resources.md` | 1.4-1.6 (pp.14-15): fossil fuel formation, four biofuels, renewable (non-finite)/non-renewable (finite), generation, benefits and limitations, eight demand factors, eight management strategies, blue/green hydrogen and ground/air source heat pumps, fracking definition, benefits and limitations; percentage-reduction worked example (25%); what changed. |
 | `o-level-environmental-management-energy-revision-notes.md` | `o-level-environmental-management-energy-resources-revision-notes.md` | Same scope, condensed. |
 | `o-level-environmental-management-energy-practice.md` | `o-level-environmental-management-energy-resources-practice.md` | 9 questions, 37 marks; schemes recounted (4, 2, 3, 3, 4, 2+2, 6, 1+6, 2+2). |
-| `cambridge-o-level-environmental-management-agriculture.md` | `cambridge-o-level-environmental-management-land.md` | Topic 2 Land, 2.1-2.3 (pp.15-18): soil composition, the seven crop-growth factors with NOΓéâΓü╗, POΓéä┬│Γü╗ and KΓü║, loam, weather, seasons, photosynthesis conditions, four agriculture-type groups, sustainable food production, twelve yield strategies, nine impacts, erosion causes, impacts and strategies with the syllabus's own "how it works"; what changed. |
+| `cambridge-o-level-environmental-management-agriculture.md` | `cambridge-o-level-environmental-management-land.md` | Topic 2 Land, 2.1-2.3 (pp.15-18): soil composition, the seven crop-growth factors with NO╬ô├⌐├ó╬ô├╝Γòù, PO╬ô├⌐├ñΓö¼Γöé╬ô├╝Γòù and K╬ô├╝Γòæ, loam, weather, seasons, photosynthesis conditions, four agriculture-type groups, sustainable food production, twelve yield strategies, nine impacts, erosion causes, impacts and strategies with the syllabus's own "how it works"; what changed. |
 | `cambridge-o-level-environmental-management-exam-preparation.md` | `cambridge-o-level-environmental-management-exam-preparation-2027-2029.md` | Papers (pp.9, 36), AO weightings (p.11), changes to assessment (p.48), command words (p.43), fieldwork (pp.37-38), mathematical requirements and presentation of data (pp.40-41); a data-response routine and 5-item self-test. No `syllabusTopics`, like its companion. |
 
 Material beyond the syllabus text (how each generator works, how phytomining and bioleaching work, carbon capture for blue hydrogen, electrolysis for green hydrogen, heat pumps' electricity use, the fracking process) is labelled "Background" or given as explanation of a listed item, never as a syllabus requirement. No case study is named: the 2027-2029 syllabus removed them.
@@ -13183,7 +13183,7 @@ The rocks and energy study guides' sentence "use the 0680 Natural Resources guid
 **Sources read.**
 - Cambridge O Level Environmental Management 5014 syllabus for 2025 and 2026 (664483, Version 2), Cambridge International AS & A Level Geography 9696 syllabus for 2025 and 2026 (664556, Version 1) and Cambridge IGCSE History 0470 syllabus for 2024-2026 (649636, Version 1): downloaded directly from cambridgeinternational.org on 2026-09-21 and read in full.
   - 5014 p.12: "The curriculum gives teachers the opportunity to select their own case studies to illustrate the content", and each topic ends with a "Case study:" line. The 2027-2029 syllabus's change list (p.47, as quoted in the finding) calls these "Recommended case studies".
-- Pearson Edexcel A Level Urdu (9UR0) specification Issue 1: printed p.41 (Appendix 1) at 300 dpi prints ┌⌐┌╛┘Å┘ä█î╪î ╪º┘Å╪▒╪»┘ê╪î ┘à┘Å╪▒█î╪» ┘╛┘Å┘ê╪▒╪î ┘à╪▒╪¡┘Å┘ê┘à and ┘à┘ê┘à┘å█ü ╪»┘Å╪▒█î╪». Printed p.8 says each theme has "a research subject (highlighted in bold)"; the blue text is the label ╪¬╪¡┘é█î┘é ┌⌐█Æ ┘ä╪ª█Æ ┘à┘ê╪╢┘ê╪╣╪º╪¬.
+- Pearson Edexcel A Level Urdu (9UR0) specification Issue 1: printed p.41 (Appendix 1) at 300 dpi prints ΓöîΓîÉΓöîΓò¢Γöÿ├àΓöÿ├ñΓûê├«Γò¬├« Γò¬┬║Γöÿ├àΓò¬ΓûÆΓò¬┬╗Γöÿ├¬Γò¬├« Γöÿ├áΓöÿ├àΓò¬ΓûÆΓûê├«Γò¬┬╗ ΓöÿΓò¢Γöÿ├àΓöÿ├¬Γò¬ΓûÆΓò¬├« Γöÿ├áΓò¬ΓûÆΓò¬┬íΓöÿ├àΓöÿ├¬Γöÿ├á and Γöÿ├áΓöÿ├¬Γöÿ├áΓöÿ├ÑΓûê├╝ Γò¬┬╗Γöÿ├àΓò¬ΓûÆΓûê├«Γò¬┬╗. Printed p.8 says each theme has "a research subject (highlighted in bold)"; the blue text is the label Γò¬┬¼Γò¬┬íΓöÿ├⌐Γûê├«Γöÿ├⌐ ΓöîΓîÉΓûê├å Γöÿ├ñΓò¬┬¬Γûê├å Γöÿ├áΓöÿ├¬Γò¬ΓòóΓöÿ├¬Γò¬ΓòúΓò¬┬║Γò¬┬¼.
 - revisiondojo.com's IB ESS new-syllabus page, read 2026-09-21: it gives the same numbers and titles as the record for every subtopic of Topics 2-8. The only differences are a single hyphen for the double dash, and "impact" for "impacts" in 6.2.
 
 | Item | Files | What changed |
@@ -13191,7 +13191,7 @@ The rocks and energy study guides' sentence "use the 0680 Natural Resources guid
 | I409 (1) case studies | `o-level-cambridge-environmental-management-rocks-ores-and-minerals.md`, `cambridge-o-level-environmental-management-land.md`, `o-level-cambridge-environmental-management-energy-resources.md`, `cambridge-o-level-environmental-management-exam-preparation-2027-2029.md` | "sets a case study for each topic" becomes "lists a recommended case study for each topic". The three "case study ... is no longer required" bullets now say the 2025-2026 syllabus recommended the case study and the 2027-2029 syllabus has removed its recommended case studies. The energy resources guide and the exam-preparation guide carried the same wording and are included. |
 | I409 (2) insulation | `o-level-cambridge-environmental-management-energy-resources.md` | 1.5.3: insulation moves from the behaviour-based strategies to the ones that "save energy over time but cost more at the start", matching the revision notes. |
 | I409 (3) search-summaries sentence, whole family | `cambridge-o-level-environmental-management-agriculture.md`, `cambridge-a-level-geography-coastal-environments.md`, `cambridge-igcse-world-history-depth-study-first-world-war.md` | All three guides carried the sentence ("confirmed via official search summaries rather than a full page fetch ... this tool's page-retrieval size limit"). Each guide was checked against its syllabus, read in full. The sentence becomes "The syllabus coverage above was checked against this syllabus (Version N) on 2026-09-21". The checks turned up syllabus claims that were wrong or incomplete, and these are corrected. **5014 Agriculture:** the coverage list is rebuilt from 3.1-3.8 and the recommended case study; it had left out 3.4, 3.7 and most of 3.5, and had listed "intensive and extensive methods", which Topic 3 does not name. The intensive/extensive section now says that; the unsupported "questions frequently ask" and "tend to lose marks" claims are removed. **9696 Coastal environments:** the list is rebuilt from 8.1-8.4, adding erosional landforms, 8.3 Coral reefs and the hard/soft engineering case study; "traction, saltation, suspension" (not in the syllabus) is dropped. "Paper 3 tests two of the four options" and "a centre typically teaches only two" are corrected: the paper covers all four and candidates study and answer on two. **0470 Depth study A:** the list is rebuilt from the four key questions and their specified content, adding Mons and the Marne, Verdun and the Somme with Haig, the Empire, Africa, Japan, the Arab Revolt, Jutland, Gallipoli, the Eastern Front and the German Revolution; "propaganda" and "conscription", which are not in Depth study A, are dropped. "A centre typically prepares only one" becomes "every candidate studies at least one". The worked example now uses key question 4 as printed, and the syllabus is named as "Cambridge IGCSE History (0470)". |
-| I410 | `syllabus-topics.ts` (9UR0) | 5.2's essays and 5.4's director restored as printed: ┌⌐┌╛┘Å┘ä█î╪î ╪º┘Å╪▒╪»┘ê╪î ┘à┘Å╪▒█î╪» ┘╛┘Å┘ê╪▒╪î ┘à╪▒╪¡┘Å┘ê┘à╪î ┘à┘ê┘à┘å█ü ╪»┘Å╪▒█î╪». The note's "marked ... with bold blue text" now reads "highlighted in bold", p.8, under the blue label, and the note records the five restored marks. The two spacing points ('(█ü╪¼╪▒╪¬ ╪¬╪▒┌⌐┘É ┘ê╪╖┘å)╪º┘ê╪▒', '╪º╪¡┘à╪»╪┤╪º┘ç') are left for the native reader, as the finding asks. |
+| I410 | `syllabus-topics.ts` (9UR0) | 5.2's essays and 5.4's director restored as printed: ΓöîΓîÉΓöîΓò¢Γöÿ├àΓöÿ├ñΓûê├«Γò¬├« Γò¬┬║Γöÿ├àΓò¬ΓûÆΓò¬┬╗Γöÿ├¬Γò¬├« Γöÿ├áΓöÿ├àΓò¬ΓûÆΓûê├«Γò¬┬╗ ΓöÿΓò¢Γöÿ├àΓöÿ├¬Γò¬ΓûÆΓò¬├« Γöÿ├áΓò¬ΓûÆΓò¬┬íΓöÿ├àΓöÿ├¬Γöÿ├áΓò¬├« Γöÿ├áΓöÿ├¬Γöÿ├áΓöÿ├ÑΓûê├╝ Γò¬┬╗Γöÿ├àΓò¬ΓûÆΓûê├«Γò¬┬╗. The note's "marked ... with bold blue text" now reads "highlighted in bold", p.8, under the blue label, and the note records the five restored marks. The two spacing points ('(Γûê├╝Γò¬┬╝Γò¬ΓûÆΓò¬┬¼ Γò¬┬¼Γò¬ΓûÆΓöîΓîÉΓöÿ├ë Γöÿ├¬Γò¬ΓòûΓöÿ├Ñ)Γò¬┬║Γöÿ├¬Γò¬ΓûÆ', 'Γò¬┬║Γò¬┬íΓöÿ├áΓò¬┬╗Γò¬ΓöñΓò¬┬║Γöÿ├º') are left for the native reader, as the finding asks. |
 | U78 note | `syllabus-topics.ts` (IB DP ESS) | The note names all three sources (sciencesauceonline.com, mrkremerscience.com, revisiondojo.com), records the revisiondojo read and its two differences, and records the owner's acceptance. The reader-facing caveat is unchanged: the names are still not checked against the IB's own guide. |
 
 **Validation.** `astro check` 0 errors; `validate:academic`, `validate:assessments`, `validate:pinned-teachers`, `validate:practice-schema`, commercial claims, cross-board regression and the negative suite pass; `test:i18n-routes` passes; build clean; `audit:all` 0 problems across 2150 pages. Rendered: the Edexcel A Level Urdu hub and checklist carry the restored marks; the three guides show the rebuilt coverage lists and the dated check sentence.
@@ -13224,16 +13224,16 @@ The rocks and energy study guides' sentence "use the 0680 Natural Resources guid
   - H240 3.1 (August 2026), 2018; H420 4.1 (April 2026), 2025; H431 2.1 (January 2026), 2017; H432 3.1 (May 2026), 2017;
   - H460 3.0 (June 2026), 2021; H556 3.0 (March 2026), 2017; J204 2.0 (January 2026), 2019; J205 2.0 (June 2026), 2019;
   - J247 4.0 (August 2026), 2018; J248 4.0 (August 2026), 2018; J249 5.0 (July 2026), 2018; J560 2.1 (August 2026), 2017.
-- **Cambridge 0539:** syllabus 2025-2027 Version 2 (664633). Paper 2 is "Approximately 35ΓÇô45 minutes" (p.9, and p.15 "Written paper, approximately 35ΓÇô45 minutes, 30 marks"). Component 5 is "Approximately 10ΓÇô12 minutes" (p.9, and p.16 "Speaking test, approximately 10ΓÇô12 minutes, 60 marks").
+- **Cambridge 0539:** syllabus 2025-2027 Version 2 (664633). Paper 2 is "Approximately 35╬ô├ç├┤45 minutes" (p.9, and p.15 "Written paper, approximately 35╬ô├ç├┤45 minutes, 30 marks"). Component 5 is "Approximately 10╬ô├ç├┤12 minutes" (p.9, and p.16 "Speaking test, approximately 10╬ô├ç├┤12 minutes, 60 marks").
 - **Cambridge 0264:** syllabus for 2027, 2028 and 2029, Version 2, published March 2025 (718123). The content overview (p.8) lists six topics and 29 sub-topics.
 - **IB:** Computer science guide, first assessment 2027 (ibo.org `subject-guides/computer-science-first-assessment-2027-guide-sbs.pdf`, 67 pp.), read in Chrome.
-  - "Assessment outlineΓÇöSL" (p.46): external assessment 2 hours 30 minutes, 70%; Paper 1 (1 hour 15 minutes, 50 marks) 35%; Paper 2 (1 hour 15 minutes, 50 marks) 35%; internal assessment, the computational solution (30 marks, 35 hours) 30%.
-  - "Assessment outlineΓÇöHL" (p.47): external assessment 4 hours, 80%; Paper 1 (2 hours, 80 marks) 40%; Paper 2 (2 hours, 80 marks) 40%; internal assessment (30 marks) 20%.
+  - "Assessment outline╬ô├ç├╢SL" (p.46): external assessment 2 hours 30 minutes, 70%; Paper 1 (1 hour 15 minutes, 50 marks) 35%; Paper 2 (1 hour 15 minutes, 50 marks) 35%; internal assessment, the computational solution (30 marks, 35 hours) 30%.
+  - "Assessment outline╬ô├ç├╢HL" (p.47): external assessment 4 hours, 80%; Paper 1 (2 hours, 80 marks) 40%; Paper 2 (2 hours, 80 marks) 40%; internal assessment (30 marks) 20%.
 
 | Item | Files | What changed |
 |---|---|---|
 | OCR series wording (I396) | `syllabus-topics.ts` (12 OCR records), 86 OCR resources | One standard wording, taken from each specification's cover: "Version X (Month YYYY), for first assessment in YYYY", plus "; final assessment summer 2027" for H431. Every OCR topic record and every OCR resource now carries it, replacing the mixture of "For first teaching", "From 2015", "First assessment ... (current specification version ...)" and similar. The hub sentence and source line no longer print "for the For first teaching 2015 examination series" when a series is not a year range; for such wordings they print the wording itself. |
-| 0539 durations (I396) | `assessments.ts` (schema + 0539), hub template, rule 7 | New optional component field `durationLabel` for a board-given range, shown to readers in place of the midpoint. `durationMinutes` keeps the midpoint for arithmetic only. 0539 Paper 2 shows "approx. 35ΓÇô45m" and Component 5 "approx. 10ΓÇô12m" in the table, and "approximately 35ΓÇô45 minutes" in the prose summary. The note quotes both ranges with their pages. `durationLabel` is added to rule 7's field-name list. |
+| 0539 durations (I396) | `assessments.ts` (schema + 0539), hub template, rule 7 | New optional component field `durationLabel` for a board-given range, shown to readers in place of the midpoint. `durationMinutes` keeps the midpoint for arithmetic only. 0539 Paper 2 shows "approx. 35╬ô├ç├┤45m" and Component 5 "approx. 10╬ô├ç├┤12m" in the table, and "approximately 35╬ô├ç├┤45 minutes" in the prose summary. The note quotes both ranges with their pages. `durationLabel` is added to rule 7's field-name list. |
 | 0264 topic list | `syllabus-topics.ts`, `validate-cross-board-integrity.mjs` | A new current topic record for Cambridge IGCSE Business (0264), 2027-2029: six topics and 29 sub-topics exactly as printed on p.8, with `subtopicsComplete`. The 0450 2026 record stays in the list, marked superseded, so the nine 0450 resources written for the November 2026 series keep their topic links; the hub still lists them (13 resource links before and after). The cross-board validator now accepts a topic record carrying either half of a registry transition pair ('0450 / 0264'), so it still catches a code from another board. |
 | DP Computer Science (2027) | `assessments.ts` | New assessment record, `current` (first teaching August 2025), `relatedCode` DP Computer Science (2014). Both tiers are modeled with every figure as printed in the guide. The IB CS hub now shows the 2027 course, and the tracker pairs 2014 (final assessment 2026) with 2027 (first assessment 2027) instead of saying the successor has no record. |
 
@@ -13295,7 +13295,7 @@ The rocks and energy study guides' sentence "use the 0680 Natural Resources guid
 
 | Item | Files | What changed |
 |---|---|---|
-| E946 | `src/pages/legal/cookies.astro`, `src/pages/legal/privacy.astro`, `src/i18n/pages/legal.ts` (ar, ur and bn cookie and privacy pages) | The opening statements that Google Analytics sets no cookies "before you choose ... and if you click Reject", and that page views are recorded "only after you click Accept" or "only if you accept", are now qualified the same way the GA4 section headings already were. English Cookie Policy: "In the UK and Europe before you choose on the cookie banner, and anywhere if you click Reject, Google Analytics sets no cookies ..." and "Page views are recorded, and Google Analytics sets its cookies, after you click Accept, or outside the UK and Europe unless you click Reject." English Privacy Policy: the same qualification ("Page views are recorded if you accept, or outside the UK and Europe unless you reject"). The Arabic, Urdu and Bengali cookie and privacy pages carry the same two changes in their own languages ("┘ü┘è ╪º┘ä┘à┘à┘ä┘â╪⌐ ╪º┘ä┘à╪¬╪¡╪»╪⌐ ┘ê╪ú┘ê╪▒┘ê╪¿╪º ... ┘ê┘ü┘è ╪ú┘è ┘à┘â╪º┘å ╪Ñ╪░╪º ┘å┘é╪▒╪¬ "╪▒┘ü╪╢""; "╪¿╪▒╪╖╪º┘å█î█ü ╪º┘ê╪▒ █î┘ê╪▒┘╛ ┘à█î┌║ ... ╪º┘ê╪▒ ┌⌐█ü█î┌║ ╪¿┌╛█î ╪º┌»╪▒ ╪ó┘╛ "┘à╪│╪¬╪▒╪»" ┘╛╪▒ ┌⌐┘ä┌⌐ ┌⌐╪▒█î┌║"; "αª»αºüαªòαºìαªñαª░αª╛αª£αºìαª» αªô αªçαªëαª░αºïαª¬αºç ... αªÅαª¼αªé αª»αºçαªòαºïαª¿αºï αª£αª╛αª»αª╝αªùαª╛αª»αª╝ ..."). A scan of every built page for the unqualified phrasings finds none; the only remaining "unless you accept" is the opt-in banner copy, which is shown only to UK/Europe visitors. |
+| E946 | `src/pages/legal/cookies.astro`, `src/pages/legal/privacy.astro`, `src/i18n/pages/legal.ts` (ar, ur and bn cookie and privacy pages) | The opening statements that Google Analytics sets no cookies "before you choose ... and if you click Reject", and that page views are recorded "only after you click Accept" or "only if you accept", are now qualified the same way the GA4 section headings already were. English Cookie Policy: "In the UK and Europe before you choose on the cookie banner, and anywhere if you click Reject, Google Analytics sets no cookies ..." and "Page views are recorded, and Google Analytics sets its cookies, after you click Accept, or outside the UK and Europe unless you click Reject." English Privacy Policy: the same qualification ("Page views are recorded if you accept, or outside the UK and Europe unless you reject"). The Arabic, Urdu and Bengali cookie and privacy pages carry the same two changes in their own languages ("Γöÿ├╝Γöÿ├¿ Γò¬┬║Γöÿ├ñΓöÿ├áΓöÿ├áΓöÿ├ñΓöÿ├óΓò¬ΓîÉ Γò¬┬║Γöÿ├ñΓöÿ├áΓò¬┬¼Γò¬┬íΓò¬┬╗Γò¬ΓîÉ Γöÿ├¬Γò¬├║Γöÿ├¬Γò¬ΓûÆΓöÿ├¬Γò¬┬┐Γò¬┬║ ... Γöÿ├¬Γöÿ├╝Γöÿ├¿ Γò¬├║Γöÿ├¿ Γöÿ├áΓöÿ├óΓò¬┬║Γöÿ├Ñ Γò¬├æΓò¬ΓûæΓò¬┬║ Γöÿ├ÑΓöÿ├⌐Γò¬ΓûÆΓò¬┬¼ "Γò¬ΓûÆΓöÿ├╝Γò¬Γòó""; "Γò¬┬┐Γò¬ΓûÆΓò¬ΓòûΓò¬┬║Γöÿ├ÑΓûê├«Γûê├╝ Γò¬┬║Γöÿ├¬Γò¬ΓûÆ Γûê├«Γöÿ├¬Γò¬ΓûÆΓöÿΓò¢ Γöÿ├áΓûê├«ΓöîΓòæ ... Γò¬┬║Γöÿ├¬Γò¬ΓûÆ ΓöîΓîÉΓûê├╝Γûê├«ΓöîΓòæ Γò¬┬┐ΓöîΓò¢Γûê├« Γò¬┬║Γöî┬╗Γò¬ΓûÆ Γò¬├│ΓöÿΓò¢ "Γöÿ├áΓò¬ΓöéΓò¬┬¼Γò¬ΓûÆΓò¬┬╗" ΓöÿΓò¢Γò¬ΓûÆ ΓöîΓîÉΓöÿ├ñΓöîΓîÉ ΓöîΓîÉΓò¬ΓûÆΓûê├«ΓöîΓòæ"; "╬▒┬¬┬╗╬▒┬║├╝╬▒┬¬├▓╬▒┬║├¼╬▒┬¬├▒╬▒┬¬Γûæ╬▒┬¬Γò¢╬▒┬¬┬ú╬▒┬║├¼╬▒┬¬┬╗ ╬▒┬¬├┤ ╬▒┬¬├º╬▒┬¬├½╬▒┬¬Γûæ╬▒┬║├»╬▒┬¬┬¼╬▒┬║├º ... ╬▒┬¬├à╬▒┬¬┬╝╬▒┬¬├⌐ ╬▒┬¬┬╗╬▒┬║├º╬▒┬¬├▓╬▒┬║├»╬▒┬¬┬┐╬▒┬║├» ╬▒┬¬┬ú╬▒┬¬Γò¢╬▒┬¬┬╗╬▒┬¬Γò¥╬▒┬¬├╣╬▒┬¬Γò¢╬▒┬¬┬╗╬▒┬¬Γò¥ ..."). A scan of every built page for the unqualified phrasings finds none; the only remaining "unless you accept" is the opt-in banner copy, which is shown only to UK/Europe visitors. |
 | I412 | this entry | **Correction to D-283's "Result at build" (append-only).** Counted on the build of this entry (resource pages carrying `data-testid="subject-teachers"`): 1,240 of 1,653 resource pages show teachers, not 1,094 of 1,645. By subject: Chemistry 245, Physics 218, Mathematics 126, Biology 101, Economics 92, Business 90, Computer Science 59, English 59, Accounting 58, Urdu Language 35, ICT 28, Environmental Management 25, Pakistan Studies 24, Law 23, Islamiyat 23, Statistics 17, Commerce 17. Computer Science is covered (Harris Khan's profile), as are ICT, Environmental Management, Statistics and Commerce; D-283's list of uncovered subjects was wrong on those five. |
 
 **Validation.** `astro check` 0 errors; `validate:academic`, `validate:assessments`, `validate:pinned-teachers`, `validate:practice-schema`, commercial claims, cross-board regression and the negative suite pass; `node --test` 63 pass, 0 fail (including the consent-region tests); `test:i18n-routes` passes; build clean; `audit:all` 0 problems across 2150 pages. Rendered: the eight cookie and privacy pages (en, ar, ur, bn) contain the regional qualification and none of the unqualified sentences.
@@ -13306,7 +13306,7 @@ The rocks and energy study guides' sentence "use the 0680 Natural Resources guid
 
 **Problem.** The daily refresh (`functions/_lib/gsc-refresh.ts`, D-125) stored at most 200 rows per day per dimension. The page dimension hit that cap every day: D1 `gsc_snapshots` held exactly 200 page rows for each date from 2026-09-13 to 2026-09-19. Compared with a Supermetrics pull of the same property (`sc-domain:marlbridge.com`) on 22 Sep, clicks were almost complete (15 Sep: 20 in D1, 19 in Supermetrics) but impressions were about half (15 Sep: 467 in D1, 843 in Supermetrics), because the long tail of pages with one or two impressions was dropped. That tail is what the low-CTR and near-page-one analysis needs.
 
-**Change.** `GSC_ROW_LIMIT_PER_DAY` 200 ΓåÆ 1000 and `D1_BATCH_CHUNK_SIZE` 100 ΓåÆ 250, with the file's comment and the `/admin/search-demand/` footnote updated to match. The number of Google API calls per run is unchanged (one token exchange plus one call per day per dimension, 15 in all). The larger batch keeps the number of D1 batch calls close to today's even though more rows are written. The last scheduled run before this change (2026-09-22 04:17 UTC) used 48 ms CPU and 11.3 s wall time and logged status `ok` for both dimensions.
+**Change.** `GSC_ROW_LIMIT_PER_DAY` 200 ╬ô├Ñ├å 1000 and `D1_BATCH_CHUNK_SIZE` 100 ╬ô├Ñ├å 250, with the file's comment and the `/admin/search-demand/` footnote updated to match. The number of Google API calls per run is unchanged (one token exchange plus one call per day per dimension, 15 in all). The larger batch keeps the number of D1 batch calls close to today's even though more rows are written. The last scheduled run before this change (2026-09-22 04:17 UTC) used 48 ms CPU and 11.3 s wall time and logged status `ok` for both dimensions.
 
 **Validation.** `node --experimental-strip-types --test functions/_lib/__tests__/gsc-refresh.test.mjs` 4 pass; `npm run build`; `npm run audit:all` 0 problems; `npm run validate:academic`; `astro check` 0 errors. **After deploy:** the next scheduled run (04:17 UTC) should log `ok` for both dimensions in `gsc_refresh_log`, and the page row count for a recent date should exceed 200 with impressions close to Search Console's own total for that day.
 
@@ -13320,9 +13320,9 @@ The rocks and energy study guides' sentence "use the 0680 Natural Resources guid
 |---|---|---|
 | Shared course data | `src/utils/academic/combination-resources.ts` (new), hub template | The hub's "resources for this combination" filter is extracted unchanged and reused by every tool, so the tools cannot list different resources from the hub. |
 | Catalogue | `src/utils/tools/catalogue.ts`, `src/pages/tools-data/catalogue.json.ts`, `src/pages/tools-data/[board]/[qualification]/[subject].json.ts` | Build-time JSON: every published course with its verified code and only the tool links that exist (checklist only where a topic record exists, practice only for flagship codes with questions, diagnostics from `diagnostics.ts`); per-course topics with their mapped resources grouped learn/revise/practise. `public/_headers` caches `/tools-data/*` for an hour. |
-| Homepage | `components/sections/FreeRevisionTools.astro`, `components/tools/SyllabusFinder.astro`, `pages/index.astro`, `HomeHero.astro` | "Start revising for free" directly under the hero: Test my knowledge, Make my revision plan, Find notes for my syllabus, and a qualification ΓåÆ board ΓåÆ subject finder showing the syllabus code and real links. The trial link stays in the hero and beside the section heading. The finder fetches the catalogue on first interaction only; without JavaScript it submits to /boards/. |
-| Planner | `src/scripts/planner-engine.ts` (pure, 18 unit tests), `src/scripts/planner-ui.ts`, `pages/revision-planner/index.astro` | Subjects (catalogue), exam date or "don't know yet", weekday minutes, session length, breaks, start date, topic ratings 1ΓÇô5 and "I find this difficult". Nine stated rules (printed on the page): session split, weekly catch-up slot, sessions per topic by rating, spacing, pressure-based priority, subject alternation, mixed practice in the last 14 days, nothing on/after an exam, and a per-subject explanation of what does not fit. Edit, remove, tick off, regenerate, print (print stylesheet; "save as PDF" from the print dialog, no PDF library added). Saved only in localStorage (`mb-revision-planner-v1`); never in a URL or analytics. Exam dates come only from the student. |
-| Diagnostics | `src/data/diagnostics.ts`, `pages/practice/[code]/diagnostic/[set].astro`, `src/scripts/diagnostic-ui.ts`, `scripts/validate-diagnostics.mjs` (in `validate:academic`) | Five fixed sets of six published questions (0620 Core; 9701 AS and A Level; 9702 AS and A Level), 12ΓÇô14 marks, about 10 minutes, chosen by stated rules (one per topic, 2ΓÇô3 marks, no figure-dependent, Extended, Background or beyond-syllabus questions, no 0620 Supplement-only). Attempt ΓåÆ worked answers ΓåÆ self-assessed marks (labelled on every question) ΓåÆ per-topic summary, subtopic-matched resource recommendations, next session, planner and practice links, optional trial invitation. Results write to the practice page's own store (`mb-practice-{code}`), so misses reach its weak-topic list and error notebook, and to `mb-diagnostic-{code}` for the planner. States plainly it is a limited study diagnostic, not a predicted grade, and that the set has not yet been reviewed as a set by a subject teacher (`setReview` is empty until one does). |
+| Homepage | `components/sections/FreeRevisionTools.astro`, `components/tools/SyllabusFinder.astro`, `pages/index.astro`, `HomeHero.astro` | "Start revising for free" directly under the hero: Test my knowledge, Make my revision plan, Find notes for my syllabus, and a qualification ╬ô├Ñ├å board ╬ô├Ñ├å subject finder showing the syllabus code and real links. The trial link stays in the hero and beside the section heading. The finder fetches the catalogue on first interaction only; without JavaScript it submits to /boards/. |
+| Planner | `src/scripts/planner-engine.ts` (pure, 18 unit tests), `src/scripts/planner-ui.ts`, `pages/revision-planner/index.astro` | Subjects (catalogue), exam date or "don't know yet", weekday minutes, session length, breaks, start date, topic ratings 1╬ô├ç├┤5 and "I find this difficult". Nine stated rules (printed on the page): session split, weekly catch-up slot, sessions per topic by rating, spacing, pressure-based priority, subject alternation, mixed practice in the last 14 days, nothing on/after an exam, and a per-subject explanation of what does not fit. Edit, remove, tick off, regenerate, print (print stylesheet; "save as PDF" from the print dialog, no PDF library added). Saved only in localStorage (`mb-revision-planner-v1`); never in a URL or analytics. Exam dates come only from the student. |
+| Diagnostics | `src/data/diagnostics.ts`, `pages/practice/[code]/diagnostic/[set].astro`, `src/scripts/diagnostic-ui.ts`, `scripts/validate-diagnostics.mjs` (in `validate:academic`) | Five fixed sets of six published questions (0620 Core; 9701 AS and A Level; 9702 AS and A Level), 12╬ô├ç├┤14 marks, about 10 minutes, chosen by stated rules (one per topic, 2╬ô├ç├┤3 marks, no figure-dependent, Extended, Background or beyond-syllabus questions, no 0620 Supplement-only). Attempt ╬ô├Ñ├å worked answers ╬ô├Ñ├å self-assessed marks (labelled on every question) ╬ô├Ñ├å per-topic summary, subtopic-matched resource recommendations, next session, planner and practice links, optional trial invitation. Results write to the practice page's own store (`mb-practice-{code}`), so misses reach its weak-topic list and error notebook, and to `mb-diagnostic-{code}` for the planner. States plainly it is a limited study diagnostic, not a predicted grade, and that the set has not yet been reviewed as a set by a subject teacher (`setReview` is empty until one does). |
 | Practice pages | `pages/practice/index.astro`, `pages/practice/[code]/index.astro` | /practice/ lists the diagnostics first. For 0620/9701/9702 the older 25-question in-page "Diagnostic check" mode is replaced by a link to the new diagnostic, so there is one diagnostic per syllabus; 0580/0625 keep the old mode. The teacher-support link carries the exact course. |
 | Answer rendering fix | `src/utils/practice/client-questions.ts` | A multi-part answer such as `**5. (a)**` rendered with a stray "5." (the second `replace` was a no-op). Now renders "(a)". Affects the practice pages too. |
 | Resource pages | `components/tools/ResourceNextSteps.astro`, `pages/resources/[slug].astro` | "Next steps" after the content: same-subtopic notes/guides/practice, the diagnostic or practice tool, the checklist, the planner. Presentation only; no educational text added. |
@@ -13348,7 +13348,7 @@ The rocks and energy study guides' sentence "use the 0680 Natural Resources guid
 
 ## D-288 - Five focused tuition sections on existing syllabus hubs (2026-09-23)
 
-**Selection.** No enquiry-by-subject data exists (GA4 cannot attribute the recent `generate_lead` events to subjects) and Search Console clicks to hubs are thin (the best hub had 5 clicks, 26 AugΓÇô22 Sep, D1 store). Chosen on teaching and resource strength: Cambridge IGCSE Chemistry 0620, IGCSE Mathematics 0580, AS & A Level Chemistry 9701, AS & A Level Physics 9702, and AS & A Level Business 9609 (the only subject with attributable Learners Academy results and testimonials). IGCSE Physics 0625 was not chosen: 9 resources and no topic-tagged practice.
+**Selection.** No enquiry-by-subject data exists (GA4 cannot attribute the recent `generate_lead` events to subjects) and Search Console clicks to hubs are thin (the best hub had 5 clicks, 26 Aug╬ô├ç├┤22 Sep, D1 store). Chosen on teaching and resource strength: Cambridge IGCSE Chemistry 0620, IGCSE Mathematics 0580, AS & A Level Chemistry 9701, AS & A Level Physics 9702, and AS & A Level Business 9609 (the only subject with attributable Learners Academy results and testimonials). IGCSE Physics 0625 was not chosen: 9 resources and no topic-tagged practice.
 
 | Item | Files | What changed |
 |---|---|---|
@@ -13433,9 +13433,9 @@ Owner approval on 2026-09-23 of the suspected error flagged in `docs/content-rev
 
 **Not changed (owner decision, 23 Sep 2026).** The enquiry recipient address stays in `functions/api/enquiry.ts`.
 
-**Owner action required after deploy.** Set the secret: Cloudflare dashboard ΓåÆ Workers ΓåÆ `mb` ΓåÆ Settings ΓåÆ Variables and Secrets ΓåÆ add `ADMIN_API_KEY` (type Secret, a long random value), or `npx wrangler secret put ADMIN_API_KEY`. Until then the dashboard shows "Admin access is not configured." The daily cron refresh is unaffected (it does not go through the API).
+**Owner action required after deploy.** Set the secret: Cloudflare dashboard ╬ô├Ñ├å Workers ╬ô├Ñ├å `mb` ╬ô├Ñ├å Settings ╬ô├Ñ├å Variables and Secrets ╬ô├Ñ├å add `ADMIN_API_KEY` (type Secret, a long random value), or `npx wrangler secret put ADMIN_API_KEY`. Until then the dashboard shows "Admin access is not configured." The daily cron refresh is unaffected (it does not go through the API).
 
-**Validation.** `npm run test:api` 68 pass, 0 fail (new: admin auth ├ù5, referer prefix, same-site referer, chunked oversize body, prototype kinds, response headers, line breaks); `astro check` 0 errors; build clean; `audit:all` 0 problems; `npm audit` 0 vulnerabilities.
+**Validation.** `npm run test:api` 68 pass, 0 fail (new: admin auth Γö£├╣5, referer prefix, same-site referer, chunked oversize body, prototype kinds, response headers, line breaks); `astro check` 0 errors; build clean; `audit:all` 0 problems; `npm audit` 0 vulnerabilities.
 
 ## D-296 - Trust copy: tuition offers match what is taught; one teaching-location formulation (2026-09-23)
 
@@ -13443,20 +13443,20 @@ Owner approval on 2026-09-23 of the suspected error flagged in `docs/content-rev
 
 | # | Problem | Fix | Files |
 |---|---|---|---|
-| 1 | 216 resource pages in resources-only subjects (Sociology 57, Geography 52, Psychology 49, Global Perspectives 18, IB Global Politics, ESS, MYP Design, MYP Individuals and Societies 10 each) said "Marlbridge runs ΓÇª classes" and showed a trial CTA, contradicting D-270/D-272/D-273. | The block is gated on `taughtOnly()` for the resource's subject and boards; resources-only pages now say classes are not offered and link to the free resources. | `src/pages/resources/[slug].astro` |
+| 1 | 216 resource pages in resources-only subjects (Sociology 57, Geography 52, Psychology 49, Global Perspectives 18, IB Global Politics, ESS, MYP Design, MYP Individuals and Societies 10 each) said "Marlbridge runs ╬ô├ç┬¬ classes" and showed a trial CTA, contradicting D-270/D-272/D-273. | The block is gated on `taughtOnly()` for the resource's subject and boards; resources-only pages now say classes are not offered and link to the free resources. | `src/pages/resources/[slug].astro` |
 | 2 | 146 IB resource pages offered "small groups of up to 15"; IB tuition is one-to-one only (`IB_PRICING.deliveryMode`). | IB-only resources say "one-to-one". | same |
 | 3 | `/uk/` said Marlbridge "teaches" 17 GCSE combinations; 15 are taught (AQA GCSE Psychology and Sociology are resources-only). | `/uk/` counts `taughtOnly()`; the FAQ and table now read "taught". | `src/pages/uk/index.astro` |
 | 4 | About (en/ar/ur/bn): "Our teaching operates in Pakistan today" contradicted D-271 (teaching online worldwide); "the map of where we teach live in person" grows implied expansion. | One formulation: teachers are based at the Lahore academy and teach in person there and live online to students anywhere. | `src/pages/about/index.astro`, `src/i18n/pages/marketing.ts` |
 | 5 | Six locale Contact/Trial FAQs said "Marlbridge teaches in Pakistan today", dropping "in person". | Reuse the reviewed locale `locationNote` wording. | `src/pages/[locale]/contact/index.astro`, `src/pages/[locale]/trial/index.astro` |
 | 6 | "Outside our teaching locations" (plural; there is one in-person location). | "outside Lahore" / "anywhere else". | `src/data/homepage.ts`, `src/pages/contact/index.astro`, `src/pages/trial/index.astro` |
-| 7 | "Each profile ΓÇª cites where those details were verified from" is not true for Harris Khan (no source, D-268). | "ΓÇªand, where a public source exists, citesΓÇª". | `ProgramTeachers.astro`, `TeachersBand.astro` |
-| 8 | "The fee shown above is the only cost" appeared on seven pages that show no fee. | "ΓÇªthe tuition fee is the only cost". | `src/data/pricing.ts` |
+| 7 | "Each profile ╬ô├ç┬¬ cites where those details were verified from" is not true for Harris Khan (no source, D-268). | "╬ô├ç┬¬and, where a public source exists, cites╬ô├ç┬¬". | `ProgramTeachers.astro`, `TeachersBand.astro` |
+| 8 | "The fee shown above is the only cost" appeared on seven pages that show no fee. | "╬ô├ç┬¬the tuition fee is the only cost". | `src/data/pricing.ts` |
 | 9 | "The initial trial/demo class is free." The owner confirmed on 23 Sep 2026 that the trial is a free real teaching class. | "The first trial class is free." | `src/data/pricing.ts` |
 | 10 | `/pricing/` rendered "3,500 PKR /per class". | Unit rendered once. | `src/pages/pricing/index.astro` |
 | 11 | Editorial policy cross-referenced a heading that does not exist. | Heading name corrected. | `src/pages/legal/editorial-policy.astro` |
 | 12 | Subject pages for resources-only subjects said "<Subject> is taught by Marlbridge today" above a "not offering classes" notice. | The sentence follows `offersClasses()`: all taught, some taught, or free material only. | `src/pages/subjects/[slug].astro` |
 | 13 | `llms.txt` listed resources-only subjects without saying so, some with the wrong levels. | Each subject line gives `levelsLabel` and whether classes are offered. | `scripts/generate-llms-txt.mjs`, `public/llms.txt` |
-| 14 | 20 Bengali pages showed a corrupted word ("αª¬αªö3αª╖αºìαªáαª╛αªƒαª┐"). | "αª¬αºâαª╖αºìαªáαª╛αªƒαª┐". | `src/i18n/nav.ts` |
+| 14 | 20 Bengali pages showed a corrupted word ("╬▒┬¬┬¼╬▒┬¬├╢3╬▒┬¬Γòû╬▒┬║├¼╬▒┬¬├í╬▒┬¬Γò¢╬▒┬¬╞Æ╬▒┬¬ΓöÉ"). | "╬▒┬¬┬¼╬▒┬║├ó╬▒┬¬Γòû╬▒┬║├¼╬▒┬¬├í╬▒┬¬Γò¢╬▒┬¬╞Æ╬▒┬¬ΓöÉ". | `src/i18n/nav.ts` |
 
 The same commit carries the correction/trial link-format change in `src/pages/resources/[slug].astro`, described in D-298.
 
@@ -13471,27 +13471,27 @@ The same commit carries the correction/trial link-format change in `src/pages/re
 | Change | Files |
 |---|---|
 | `RegionPricing.status`: `'confirmed'` (owner-set; the default) or `'indicative'` (a currency conversion of the Pakistan rate). The eight non-Pakistan one-to-one rows are marked `indicative`. `INDICATIVE_NOTE` gives one explanation wherever an indicative figure appears. | `src/data/pricing.ts` |
-| Malaysia added as indicative: group Rs 19,000 / Rs 24,000 ΓåÆ **RM 279 / RM 353 per subject per month**; one-to-one Rs 3,500 / Rs 4,000 ΓåÆ **RM 51 / RM 59 per class**. Rate: 1 MYR = 68.01 PKR (open.er-api.com, exchangerate-api.com, updated Wed 23 Sep 2026 00:02 UTC; same source as the existing rows). | `src/data/pricing.ts`, `src/data/fx-policy.ts` |
+| Malaysia added as indicative: group Rs 19,000 / Rs 24,000 ╬ô├Ñ├å **RM 279 / RM 353 per subject per month**; one-to-one Rs 3,500 / Rs 4,000 ╬ô├Ñ├å **RM 51 / RM 59 per class**. Rate: 1 MYR = 68.01 PKR (open.er-api.com, exchangerate-api.com, updated Wed 23 Sep 2026 00:02 UTC; same source as the existing rows). | `src/data/pricing.ts`, `src/data/fx-policy.ts` |
 | `/pricing/`: an "Indicative" tag on converted rows, the note under the group table, row headers (`<th scope="row">`) and screen-reader captions on both tables, "(UAE)" after United Arab Emirates (on-site search for "UAE" found nothing before). | `src/pages/pricing/index.astro` |
 | `/ar/`, `/ur/`, `/bn/pricing/` (trust audit A3): the converted one-to-one rows now carry the translated indicative note; converted rows are asterisked. | `src/pages/[locale]/pricing/index.astro`, `src/i18n/copy.ts` |
 | Locale homepages: fee cells show the amount only, because the currency column already names the currency (no more "SAR 270" beside "SAR"); indicative rows are asterisked with the note. | `src/i18n/copy.ts`, `src/pages/{ar,ur,bn}/index.astro` |
 | "No currency conversion is applied on your behalf" removed from the unsupported-country note: it sat beside tables that contain labelled conversions. | `src/data/pricing.ts` |
 | Validator strengthened, not weakened: every non-Pakistan one-to-one row must be `indicative`, and indicative group rows must be within the 8% FX tolerance of the Pakistan rate. | `scripts/validate-fx-policy.mjs` |
 
-**Not changed.** No USD bands and no new confirmed fee for any country. No confirmed IB fee outside Pakistan. Lesson length (group: 45ΓÇô50 min, 3 a week; one-to-one: 1 hour), group size (15 max), discounts, billing and cancellation stay as owner-confirmed in D-043/D-149.
+**Not changed.** No USD bands and no new confirmed fee for any country. No confirmed IB fee outside Pakistan. Lesson length (group: 45╬ô├ç├┤50 min, 3 a week; one-to-one: 1 hour), group size (15 max), discounts, billing and cancellation stay as owner-confirmed in D-043/D-149.
 
 **Validation.** `validate:fx-policy` passes (Malaysia 0.0% drift); `validate-pricing-consistency` passes (no hard-coded fees); build clean; `audit:all` 0 problems.
 
 ## D-298 - Indexing efficiency: no crawlable parameter URLs, three legacy 404s redirected, broken links fixed (2026-09-23)
 
-**Evidence.** Search Console ΓåÆ Pages, exported 23 Sep 2026 (Chrome, owner's account) to Google Sheets: 1.51K indexed, 1.77K not indexed. Of the 878 "Alternate page with proper canonical tag": 718 are `www.` URLs crawled in August before the wwwΓåÆapex 301 (they will turn into "Page with redirect" and drop out on their own), 159 are `/report-a-correction/?page=<resource URL>` and 1 is `/trial/?program=academic-support`. Every resource page linked to its own `?page=` variant (1,653 crawlable duplicate URLs); every programme, practice and resource CTA linked to a `?program=` variant. "Page with redirect" (205) is http/www normalisation plus 12 genuinely retired slugs, working as intended. "Not found (404)" (4) is three external legacy URLs plus a Zaraz script URL; "Blocked due to other 4xx" (1) and part of "Crawled ΓÇô currently not indexed" (7) are Zaraz script URLs (`/cdn-cgi/zaraz/ΓÇª`), not pages. "Discovered ΓÇô currently not indexed" (667) are all real current pages: 642 resources and 25 checklists.
+**Evidence.** Search Console ╬ô├Ñ├å Pages, exported 23 Sep 2026 (Chrome, owner's account) to Google Sheets: 1.51K indexed, 1.77K not indexed. Of the 878 "Alternate page with proper canonical tag": 718 are `www.` URLs crawled in August before the www╬ô├Ñ├åapex 301 (they will turn into "Page with redirect" and drop out on their own), 159 are `/report-a-correction/?page=<resource URL>` and 1 is `/trial/?program=academic-support`. Every resource page linked to its own `?page=` variant (1,653 crawlable duplicate URLs); every programme, practice and resource CTA linked to a `?program=` variant. "Page with redirect" (205) is http/www normalisation plus 12 genuinely retired slugs, working as intended. "Not found (404)" (4) is three external legacy URLs plus a Zaraz script URL; "Blocked due to other 4xx" (1) and part of "Crawled ╬ô├ç├┤ currently not indexed" (7) are Zaraz script URLs (`/cdn-cgi/zaraz/╬ô├ç┬¬`), not pages. "Discovered ╬ô├ç├┤ currently not indexed" (667) are all real current pages: 642 resources and 25 checklists.
 
 | Change | Files |
 |---|---|
-| Correction links pass their context in the URL fragment (`/report-a-correction/#page=ΓÇª`), so the 1,653 resource pages no longer link to crawlable duplicates. The form still reads `?page=`, so old links keep working. **Trial links are unchanged:** `main`'s structured trial form (D-286 to D-293) reads `?program=`, `?course=` and `?source=` by owner decision, and those URLs self-canonicalise to `/trial/`. | `src/pages/resources/[slug].astro` (in D-296's commit), `src/components/forms/CorrectionForm.astro` |
+| Correction links pass their context in the URL fragment (`/report-a-correction/#page=╬ô├ç┬¬`), so the 1,653 resource pages no longer link to crawlable duplicates. The form still reads `?page=`, so old links keep working. **Trial links are unchanged:** `main`'s structured trial form (D-286 to D-293) reads `?program=`, `?course=` and `?source=` by owner decision, and those URLs self-canonicalise to `/trial/`. | `src/pages/resources/[slug].astro` (in D-296's commit), `src/components/forms/CorrectionForm.astro` |
 | The correction form also posts its `enquiryKind` in a hidden field (works without JavaScript; see D-295). | `src/components/forms/CorrectionForm.astro` |
-| The three external 404 URLs Google requested are redirected (301, with and without trailing slash) to the resources covering the same Cambridge topics: 9701 20.1 addition polymerisation ΓåÆ `/resources/as-addition-polymerisation/`; 9702 oscillations ΓåÆ `/resources/a-physics-oscillations/`; 9702 topic 7 waves ΓåÆ `/resources/as-physics-waves/`. No speculative variants were added. | `scripts/generate-redirects.mjs`, `public/_redirects` |
-| Two chemistry resources rendered `[Cu(OH)Γéé(HΓééO)Γéä](s)` as a link to `/resources/s`; the bracket is escaped. | two files in `src/content/resources/` |
+| The three external 404 URLs Google requested are redirected (301, with and without trailing slash) to the resources covering the same Cambridge topics: 9701 20.1 addition polymerisation ╬ô├Ñ├å `/resources/as-addition-polymerisation/`; 9702 oscillations ╬ô├Ñ├å `/resources/a-physics-oscillations/`; 9702 topic 7 waves ╬ô├Ñ├å `/resources/as-physics-waves/`. No speculative variants were added. | `scripts/generate-redirects.mjs`, `public/_redirects` |
+| Two chemistry resources rendered `[Cu(OH)╬ô├⌐├⌐(H╬ô├⌐├⌐O)╬ô├⌐├ñ](s)` as a link to `/resources/s`; the bracket is escaped. | two files in `src/content/resources/` |
 | `/404.html` no longer declares a canonical URL (`/404/` does not exist). | `src/components/seo/Meta.astro` |
 
 **Verified existing strengths (no change).** All 2,144 sitemap URLs self-canonicalise, are built and indexable, and none is a redirect source; 1,657 sitemap entries (resources and articles) already carry `lastmod` from `updatedDate`/`publishedDate`; hreflang is reciprocal on all 79 translated pages; no redirect chains, loops or dead targets; 0 orphans.
@@ -13502,13 +13502,13 @@ The same commit carries the correction/trial link-format change in `src/pages/re
 
 ## D-299 - Board hubs: "Syllabus"/"Specification" titles, direct-answer lead, official document and checklist links (2026-09-23)
 
-**Evidence.** Search Console (Performance, last 3 months, exported 23 Sep 2026): syllabus-code searches such as "0457 syllabus 2027", "3248 syllabus 2027", "0493 syllabus 2026", "igcse islamiyat syllabus 2027", "a level law syllabus 2027", "oxford aqa igcse chemistry specification" and "edexcel igcse biology specification" land on the board hubs, usually at positions 6ΓÇô12, with very few clicks. At `17e97b7`, 0 of 160 hub titles, H1s or descriptions said "syllabus" or "specification", 2 carried edition years, and 0 hubs linked to their own printable checklist (each checklist had 4 inbound links, all from index pages).
+**Evidence.** Search Console (Performance, last 3 months, exported 23 Sep 2026): syllabus-code searches such as "0457 syllabus 2027", "3248 syllabus 2027", "0493 syllabus 2026", "igcse islamiyat syllabus 2027", "a level law syllabus 2027", "oxford aqa igcse chemistry specification" and "edexcel igcse biology specification" land on the board hubs, usually at positions 6╬ô├ç├┤12, with very few clicks. At `17e97b7`, 0 of 160 hub titles, H1s or descriptions said "syllabus" or "specification", 2 carried edition years, and 0 hubs linked to their own printable checklist (each checklist had 4 inbound links, all from index pages).
 
 | Change | Detail |
 |---|---|
-| Titles | `<Board> <Qualification> <Subject> <code> Syllabus` (Cambridge, IB DP), `ΓÇª Specification` (Pearson Edexcel, AQA, OCR, OxfordAQA) or `ΓÇª Subject Guide` (IB MYP). An upcoming replacement code is added after the current one where the assessment data has a `future` record. Edition years are added only when the linked official document's own file name carries them (e.g. `662464-2025-2027-syllabus.pdf` ΓåÆ "2025ΓÇô2027"); 0 are guessed. IB titles no longer repeat the programme name in brackets. |
+| Titles | `<Board> <Qualification> <Subject> <code> Syllabus` (Cambridge, IB DP), `╬ô├ç┬¬ Specification` (Pearson Edexcel, AQA, OCR, OxfordAQA) or `╬ô├ç┬¬ Subject Guide` (IB MYP). An upcoming replacement code is added after the current one where the assessment data has a `future` record. Edition years are added only when the linked official document's own file name carries them (e.g. `662464-2025-2027-syllabus.pdf` ╬ô├Ñ├å "2025╬ô├ç├┤2027"); 0 are guessed. IB titles no longer repeat the programme name in brackets. |
 | Descriptions | Name the document type, the years where known, what the page covers (content, assessment, official link) and the resources published. |
-| Lead (answer below the H1) | "<official title> ΓÇö the <board> syllabus/specification for exams in <years>. What it covers, how it is assessed, a link to the official document, and the free study material Marlbridge publishes for it." |
+| Lead (answer below the H1) | "<official title> ╬ô├ç├╢ the <board> syllabus/specification for exams in <years>. What it covers, how it is assessed, a link to the official document, and the free study material Marlbridge publishes for it." |
 | At-a-glance box | Two new rows: "Official syllabus/specification" (direct link to the board's document or page) and "Topic checklist" (link to `/checklists/<board>/<qual>/<subject>/` whenever a current checklist exists). All 160 hubs now link to their checklist where one is built. |
 
 **Not changed.** Syllabus data, verification dates, assessment tables and FAQs (already answer-first with sources and dates, v1.2 WS10). No hub was merged, redirected or noindexed.
@@ -13529,7 +13529,7 @@ The International Growth branch built its own structured trial form (optional le
 | The syllabus finder accepts a code **or a name** ("O Level Physics", "IB Economics") across all 160 hubs, including IB hubs, which have no numeric code. It follows the WAI-ARIA combobox pattern: Arrow keys and `aria-activedescendant`, Escape closes, Enter opens the exact or highlighted match, and typing never navigates. | `src/pages/search/index.astro` |
 | The Pagefind input gets an `aria-label`, and its message becomes a polite live region (English and translated search pages). | `src/pages/search/index.astro`, `src/pages/[locale]/search/index.astro` |
 
-**Result (same queries after the change).** "free trial" 76 pages (the pages that are actually about trials/programmes; `/trial/` first). "tuition fees UAE" ΓåÆ `/pricing/`. "edexcel igcse biology specification" ΓåÆ the Edexcel IGCSE Biology hub, then its checklist. Filters: Board 6, Qualification 7, Resource type 8, Subject 34, Level (resources). Finder: "physics o level" ΓåÆ 5054 Cambridge O Level Physics; "a level economics" ΓåÆ the five A Level Economics hubs; "ib economics" ΓåÆ the IB DP Economics hub; "0620" + Enter ΓåÆ the 0620 hub. Remaining limitation (recorded, not hidden): full-text ranking for very short generic queries ("a level economics") still favours resources that repeat the words, which is why the finder above the results matches hub names directly.
+**Result (same queries after the change).** "free trial" 76 pages (the pages that are actually about trials/programmes; `/trial/` first). "tuition fees UAE" ╬ô├Ñ├å `/pricing/`. "edexcel igcse biology specification" ╬ô├Ñ├å the Edexcel IGCSE Biology hub, then its checklist. Filters: Board 6, Qualification 7, Resource type 8, Subject 34, Level (resources). Finder: "physics o level" ╬ô├Ñ├å 5054 Cambridge O Level Physics; "a level economics" ╬ô├Ñ├å the five A Level Economics hubs; "ib economics" ╬ô├Ñ├å the IB DP Economics hub; "0620" + Enter ╬ô├Ñ├å the 0620 hub. Remaining limitation (recorded, not hidden): full-text ranking for very short generic queries ("a level economics") still favours resources that repeat the words, which is why the finder above the results matches hub names directly.
 
 **Validation.** Build clean (Pagefind: 2,144 pages indexed, 5 filter groups); `audit:all` 0 problems (including `validate-rendered-academic-labels`).
 
@@ -13550,13 +13550,13 @@ The International Growth branch built its own structured trial form (optional le
 
 ## D-303 - Pilot country pages: /uae/, /qatar/, /malaysia/; /pakistan/, /uk/ and /gulf/ brought into line (2026-09-23)
 
-**Owner decisions.** On 23 Sep 2026 the owner chose separate `/uae/` and `/qatar/` pages rather than relying on `/gulf/` alone. For Malaysia, the owner said to use the current PKRΓåÆMYR conversion (D-297, so every Malaysia figure is labelled indicative). The brief names Pakistan, UK, UAE, Qatar and Malaysia as the pilot markets. It lists Qatar, Jordan and Malaysia as Tier 1 for measurement, and forbids doorway pages.
+**Owner decisions.** On 23 Sep 2026 the owner chose separate `/uae/` and `/qatar/` pages rather than relying on `/gulf/` alone. For Malaysia, the owner said to use the current PKR╬ô├Ñ├åMYR conversion (D-297, so every Malaysia figure is labelled indicative). The brief names Pakistan, UK, UAE, Qatar and Malaysia as the pilot markets. It lists Qatar, Jordan and Malaysia as Tier 1 for measurement, and forbids doorway pages.
 
 **What makes each page non-doorway.** Each page is built from `MarketPage.astro` with country data from `src/data/markets.ts`. The content that differs by country is:
 
 - Boards ordered for that country, with counts of **taught** combinations.
 - The hub pages searchers in that country actually found (Search Console, last 3 months, exported 2026-09-23). The label is computed, so any hub that has free resources only says "(free resources only, no classes at the moment)" (`hubIsTaught()`).
-- A local-time ΓåÆ Lahore-time table from the country's standard UTC offset.
+- A local-time ╬ô├Ñ├å Lahore-time table from the country's standard UTC offset.
 - The country's fee rows, each marked Confirmed or Indicative, plus IB "on enquiry".
 - The national or other curricula that are **not** taught there.
 - Country FAQs, each stating that there is no centre, office or teacher in that country.
@@ -13580,10 +13580,10 @@ All of these are served by the hub and the enquiry form. Jordan stays a Tier 1 *
 
 | Change | Files |
 |---|---|
-| New UAE, Qatar and Malaysia pages. Each has breadcrumbs Home ΓÇ║ International tutoring ΓÇ║ Country, FAQPage JSON-LD, and title/description naming the country, fees and times. | `src/components/sections/MarketPage.astro` (new), `src/pages/{uae,qatar,malaysia}/index.astro` (new), `src/data/markets.ts` |
-| `/pakistan/`: the lead now states the Learners Academy relationship and in-person or online teaching. The new wording replaces "Pakistan is where Marlbridge's live teaching operates", which read as if teaching operated only in Pakistan. Added: a "Where classes are taught" section with the owner-confirmed Lahore address; the exam-series wording "most Cambridge syllabuses June and November, some June only" (each syllabus page states its series); the searched Cambridge hubs; and a link to the hub. "All six boards ΓÇª no reduced catalogue" was replaced because resources-only subjects exist. | `src/pages/pakistan/index.astro` |
+| New UAE, Qatar and Malaysia pages. Each has breadcrumbs Home ╬ô├çΓòæ International tutoring ╬ô├çΓòæ Country, FAQPage JSON-LD, and title/description naming the country, fees and times. | `src/components/sections/MarketPage.astro` (new), `src/pages/{uae,qatar,malaysia}/index.astro` (new), `src/data/markets.ts` |
+| `/pakistan/`: the lead now states the Learners Academy relationship and in-person or online teaching. The new wording replaces "Pakistan is where Marlbridge's live teaching operates", which read as if teaching operated only in Pakistan. Added: a "Where classes are taught" section with the owner-confirmed Lahore address; the exam-series wording "most Cambridge syllabuses June and November, some June only" (each syllabus page states its series); the searched Cambridge hubs; and a link to the hub. "All six boards ╬ô├ç┬¬ no reduced catalogue" was replaced because resources-only subjects exist. | `src/pages/pakistan/index.astro` |
 | `/uk/`: added "no UK office, centre or teacher"; the UK routes not taught (Scottish Nationals/Highers, WJEC/Eduqas, CCEA, BTEC, T Levels; none of these boards is in `BOARDS`); the searched specification pages, with AQA A Level Psychology labelled resources-only; one-to-one row marked indicative; hub breadcrumb. | `src/pages/uk/index.astro` |
-| `/gulf/`: the description and lead said the **one-to-one** pricing was "confirmed"; D-297 made it indicative, so they now say so. The one-to-one column is marked "(indicative)" with `INDICATIVE_NOTE`. Also added: "no office or teacher in the Gulf"; links to `/uae/` and `/qatar/` (intro and table rows); hub breadcrumb; the claim "every board ΓÇª same catalogue" corrected. | `src/pages/gulf/index.astro` |
+| `/gulf/`: the description and lead said the **one-to-one** pricing was "confirmed"; D-297 made it indicative, so they now say so. The one-to-one column is marked "(indicative)" with `INDICATIVE_NOTE`. Also added: "no office or teacher in the Gulf"; links to `/uae/` and `/qatar/` (intro and table rows); hub breadcrumb; the claim "every board ╬ô├ç┬¬ same catalogue" corrected. | `src/pages/gulf/index.astro` |
 
 **Validation (D-302 + D-303).** `astro check` 0 errors; `validate:academic` pass; `test:api` 68 pass; build clean (2,155 pages); `audit:all` 0 problems (metadata unique, structured data valid, no broken links or orphans, sitemap 2,148 URLs all indexable). Headless Chromium at 390 px: no horizontal overflow and axe (WCAG 2.2 AA tags) clean on all seven international pages. The "free resources only" labels appear exactly where the hub pages themselves say "not offering classes": PK Global Perspectives, UK AQA A Level Psychology, QA MYP Individuals and Societies.
 
@@ -13597,9 +13597,9 @@ All of these are served by the hub and the enquiry form. Jordan stays a Tier 1 *
 
 ## D-305 - Taught syllabus hubs link to the international tutoring hub (2026-09-23)
 
-**Evidence.** Search Console, last 3 months: in all five pilot countries the board hubs were the pages searchers landed on. None of those pages linked to anything that explains teaching from abroad (times, fees by country). The only route was the generic "Find Learning Support" ΓåÆ `/tutoring/`.
+**Evidence.** Search Console, last 3 months: in all five pilot countries the board hubs were the pages searchers landed on. None of those pages linked to anything that explains teaching from abroad (times, fees by country). The only route was the generic "Find Learning Support" ╬ô├Ñ├å `/tutoring/`.
 
-**Change.** `CTA.astro` gains an optional secondary text link (`linkLabel`, `linkHref`). On the 135 hubs whose combination is taught (`classesOffered`), the CTA adds "Studying outside Pakistan? Class times and fees for your country" ΓåÆ `/international-tutoring/`. On the five hubs with a tuition section (D-288), the main button stays "Request a free trial class"; the new link sits under it. Resources-only hubs are unchanged: they still say classes are not offered and point to free resources, so no tuition is implied. Resource pages are not changed; the sitewide footer already links the hub from every page.
+**Change.** `CTA.astro` gains an optional secondary text link (`linkLabel`, `linkHref`). On the 135 hubs whose combination is taught (`classesOffered`), the CTA adds "Studying outside Pakistan? Class times and fees for your country" ╬ô├Ñ├å `/international-tutoring/`. On the five hubs with a tuition section (D-288), the main button stays "Request a free trial class"; the new link sits under it. Resources-only hubs are unchanged: they still say classes are not offered and point to free resources, so no tuition is implied. Resource pages are not changed; the sitewide footer already links the hub from every page.
 
 **Validation.** Build clean; the link appears on exactly 135 hub pages; `audit:all` 0 problems (no generic anchor text); axe clean on a taught hub and a resources-only hub.
 
@@ -13607,15 +13607,15 @@ All of these are served by the hub and the enquiry form. Jordan stays a Tier 1 *
 
 **Evidence.** Before this change, 103 of 1,653 built resource pages linked to their board syllabus hub, and every one of those links came from hand-written body text. Search Console shows the hubs are what searchers land on (for example, "igcse islamiyat syllabus 2027" and "2026" landed on the Islamiyat Paper 1 resource at around position 8, with 0 clicks, when the 0493 hub is the page that answers the query).
 
-**Change.** The resource provenance box (under "Aligned to ΓÇª Official specification") adds "Syllabus page (what it covers and how it is assessed): <Board Qualification Subject>". The hub or hubs are matched on the resource's own declared `boards`, `qualifications` and subject (`matrixSlugsFor`) against published combinations (`activeOnly()`), with at most 4 links. Nothing is inferred beyond the resource's own metadata. `src/pages/resources/[slug].astro`.
+**Change.** The resource provenance box (under "Aligned to ╬ô├ç┬¬ Official specification") adds "Syllabus page (what it covers and how it is assessed): <Board Qualification Subject>". The hub or hubs are matched on the resource's own declared `boards`, `qualifications` and subject (`matrixSlugsFor`) against published combinations (`activeOnly()`), with at most 4 links. Nothing is inferred beyond the resource's own metadata. `src/pages/resources/[slug].astro`.
 
 **Result.** 1,653 of 1,653 resource pages now link to a hub (1,598 to one hub; 55 combined IGCSE + O Level resources to two). `audit:all` 0 problems (no broken links, no generic anchors); `validate:academic` pass; `astro check` 0 errors; axe clean on a sample resource.
 
 ## D-307 - Teacher profile titles include the subject taught (2026-09-23)
 
-**Evidence.** The query "jawad tariq physics" had 13 impressions at position 7.7 and 0 clicks, and the page title was just "Jawad Tariq ΓÇö Marlbridge". "sir asif iqbal" (11 impressions) is the same pattern.
+**Evidence.** The query "jawad tariq physics" had 13 impressions at position 7.7 and 0 clicks, and the page title was just "Jawad Tariq ╬ô├ç├╢ Marlbridge". "sir asif iqbal" (11 impressions) is the same pattern.
 
-**Change.** Person author pages are now titled "Name, Role ΓÇö Marlbridge", for example "Jawad Tariq, Physics Teacher ΓÇö Marlbridge". The role is the existing, owner-supplied `role` field, so no new claim is made. The team byline (organization entity) keeps its plain name. `src/pages/authors/[slug].astro`. `audit:metadata` 0 duplicates.
+**Change.** Person author pages are now titled "Name, Role ╬ô├ç├╢ Marlbridge", for example "Jawad Tariq, Physics Teacher ╬ô├ç├╢ Marlbridge". The role is the existing, owner-supplied `role` field, so no new claim is made. The team byline (organization entity) keeps its plain name. `src/pages/authors/[slug].astro`. `audit:metadata` 0 duplicates.
 
 ## D-308 - FX validator: confirmed group fees only for owner-set regions (2026-09-23)
 
@@ -13672,7 +13672,7 @@ Owner request on 2026-09-24 ("okay do both"), after the D-309 end-to-end test pa
 | "Countries without a listed rate" now points families to the US dollar row instead of "enquire". | `PRICING_TERMS.unsupportedRegionNote` |
 | Pages updated: the country pages' IB row now shows the converted fee, marked Indicative, instead of "on enquiry"; the hub's fee principles and FAQs; the IB table on the pricing page; an IB column on the Gulf page and an IB row on the UK page; IB wording on programme pages. The market FAQs no longer say IB is "on enquiry". | `MarketPage.astro`, `markets.ts`, `international-tutoring`, `pricing`, `gulf`, `uk`, `programs/[slug]` |
 | The trial form's country list skips the "Other countries" pricing row and removes a duplicate Malaysia entry. Tuition-section fee tables asterisk indicative group rows. | `TrialRequestForm.astro`, `TuitionPanel.astro` |
-| New `PRICING_TERMS.teacherAvailability`: "Teachers are available 24 hours a day, 7 days a weekΓÇª". It replaces the UK page's "later-evening Pakistan slots and weekends" constraint and appears on the hub, the country pages and in the market FAQs. | `pricing.ts`, `uk`, `international-tutoring`, `MarketPage.astro`, `markets.ts` |
+| New `PRICING_TERMS.teacherAvailability`: "Teachers are available 24 hours a day, 7 days a week╬ô├ç┬¬". It replaces the UK page's "later-evening Pakistan slots and weekends" constraint and appears on the hub, the country pages and in the market FAQs. | `pricing.ts`, `uk`, `international-tutoring`, `MarketPage.astro`, `markets.ts` |
 | The Arabic, Urdu and Bengali pricing pages lose the FAQ "my country is not listed", whose translated answer said unlisted countries are not priced. That is no longer true, and a correct translation needs a human translator (no machine translation). The US dollar row shows in their tables automatically. | `src/pages/[locale]/pricing/index.astro` |
 
 **Teacher data (same request).** `src/content/authors/` was compared with learnersacademy.com.pk/teachers/ (fetched 24 Sep 2026) and the owner's "Credentials of staff" file. All 19 people on both match what is already published (years of experience and previous schools). No change was needed. The file also names **Mureed Hussain** (28 years; SCIL, EPIC School Model Town, LGS MT). He is not on learnersacademy.com.pk and no subject is given, so no profile was created. Waiting on the owner: his subject(s) and a photo, or confirmation to publish without one.
@@ -13704,7 +13704,7 @@ Neither set is teacher-reviewed yet (`setReview` empty). The page says so.
 |---|---|
 | One-to-one "Other countries" (USD) row is now **US$13 (IGCSE) / US$15 (A Level)**. It is owner-set (status confirmed), not the D-311 conversion (13 / 14). | `src/data/pricing.ts` |
 | New `IB_USD_PRICING`: **MYP US$22, Diploma Programme US$25** per 1-hour one-to-one class, owner-set. The USD row is removed from `IB_CONVERSIONS`; the other nine currencies stay indicative conversions of Rs 6,000. | `src/data/pricing.ts` |
-| Group USD stays indicative (US$69 / US$87 per subject per month; unchanged). | ΓÇö |
+| Group USD stays indicative (US$69 / US$87 per subject per month; unchanged). | ╬ô├ç├╢ |
 | `validate-fx-policy`: the four USD figures join the approved base rates (changing them needs an owner decision). The owner-set "Other countries" one-to-one row is exempt from the must-be-indicative and drift checks, and any other region is still held to them. | `scripts/validate-fx-policy.mjs` |
 | Pages updated: the pricing page shows an "Other countries (US dollars)" IB card with MYP and Diploma prices, plus its IB FAQ; the hub's fee cards and FAQ; the unsupported-region notes. The tuition-section tables asterisk only indicative one-to-one rows. | `pricing`, `international-tutoring`, `TuitionPanel.astro`, `pricing.ts` |
 
@@ -13741,13 +13741,13 @@ No exam-board text is reproduced. None of the new sets is teacher-reviewed yet.
 
 **Evidence.** Search Console, last 3 months, Pakistan:
 
-- `/resources/igcse-islamiyat-paper-1/`: position 8.5, 28 impressions, 0 clicks. It ranks for "igcse islamiyat syllabus 2027" (position 8.1) and "ΓÇª2026" (position 9.3), but its title named neither the syllabus nor the years.
+- `/resources/igcse-islamiyat-paper-1/`: position 8.5, 28 impressions, 0 clicks. It ranks for "igcse islamiyat syllabus 2027" (position 8.1) and "╬ô├ç┬¬2026" (position 9.3), but its title named neither the syllabus nor the years.
 - `/boards/cambridge/o-level/urdu-language/`: position 6.25, 12 impressions, 0 clicks. The query "3248 syllabus 2027" had 12 impressions. Its title had no year, because the linked Cambridge document is a single-year edition (`721463-2027-syllabus.pdf`) and the title logic only recognised year ranges such as `2025-2027`.
 
 | Change | Files |
 |---|---|
-| The Islamiyat Paper 1 resource gets `seoTitle` "IGCSE Islamiyat 0493 Paper 1: Syllabus Topics 2026ΓÇô2027" and a matching `seoDescription`. The page covers the full 2026ΓÇô2027 Paper 1 content, so both are accurate. | `src/content/resources/igcse-islamiyat-paper-1.md` |
-| Hub titles also recognise single-year editions from the official document's own file name. Affected: O Level Urdu 3247/3248 ΓåÆ "Syllabus 2027"; O Level Pakistan Studies 2059, IGCSE Pakistan Studies 0448 and O Level Geography 2217 ΓåÆ "Syllabus 2026". No year is guessed. | `src/pages/boards/[board]/[qualification]/[subject].astro` |
+| The Islamiyat Paper 1 resource gets `seoTitle` "IGCSE Islamiyat 0493 Paper 1: Syllabus Topics 2026╬ô├ç├┤2027" and a matching `seoDescription`. The page covers the full 2026╬ô├ç├┤2027 Paper 1 content, so both are accurate. | `src/content/resources/igcse-islamiyat-paper-1.md` |
+| Hub titles also recognise single-year editions from the official document's own file name. Affected: O Level Urdu 3247/3248 ╬ô├Ñ├å "Syllabus 2027"; O Level Pakistan Studies 2059, IGCSE Pakistan Studies 0448 and O Level Geography 2217 ╬ô├Ñ├å "Syllabus 2026". No year is guessed. | `src/pages/boards/[board]/[qualification]/[subject].astro` |
 
 Result to check at day 30: CTR on these two URLs. The volumes are small, so the decision should wait for a full month of data.
 
@@ -13760,10 +13760,10 @@ Result to check at day 30: CTR on these two URLs. The volumes are small, so the 
 | `/pakistan/` | 94 | 1.1 s |
 | `/boards/cambridge/igcse/physics/` | 95 | 1.9 s |
 | `/international-tutoring/` | 88 | 2.1 s |
-| `/uae/` | 62ΓÇô70 | 5.0ΓÇô5.4 s |
+| `/uae/` | 62╬ô├ç├┤70 | 5.0╬ô├ç├┤5.4 s |
 | `/pricing/` | 62 | 5.1 s |
-| `/trial/` | 53ΓÇô58 | 8.4 s |
-| A study resource (all 1,653 carry the revision-email box) | 56ΓÇô60 | 8.3ΓÇô8.5 s |
+| `/trial/` | 53╬ô├ç├┤58 | 8.4 s |
+| A study resource (all 1,653 carry the revision-email box) | 56╬ô├ç├┤60 | 8.3╬ô├ç├┤8.5 s |
 
 Accessibility, Best Practices and SEO are 100 on every page. The LCP element is always the lead paragraph; the delay is render delay, not download. Two diagnostic runs showed the causes:
 
@@ -13773,7 +13773,7 @@ Accessibility, Best Practices and SEO are 100 on every page. The LCP element is 
 | Change | Files |
 |---|---|
 | gtag.js is injected after the window `load` event. All `gtag()` calls (consent defaults, consent updates, `page_view`, custom events) are already queued in `dataLayer`, so nothing is dropped; they are sent once the script arrives. Consent handling is unchanged. | `src/components/analytics/ConsentAnalytics.astro` |
-| New `LazyTurnstile.astro` loads Turnstile `api.js` on the visitor's first interaction with any form (focus, tap, key) or 4 s after page load, whichever comes first. It replaces the five direct `<script src=ΓÇªapi.js>` tags. Turnstile renders `.cf-turnstile` elements whenever the script arrives, so widget behaviour is unchanged. | `LazyTurnstile.astro` (new), `SubscribeBox.astro`, `TrialRequestForm.astro`, `CorrectionForm.astro`, `EnquiryForm.astro`, `workshops/[slug]` |
+| New `LazyTurnstile.astro` loads Turnstile `api.js` on the visitor's first interaction with any form (focus, tap, key) or 4 s after page load, whichever comes first. It replaces the five direct `<script src=╬ô├ç┬¬api.js>` tags. Turnstile renders `.cf-turnstile` elements whenever the script arrives, so widget behaviour is unchanged. | `LazyTurnstile.astro` (new), `SubscribeBox.astro`, `TrialRequestForm.astro`, `CorrectionForm.astro`, `EnquiryForm.astro`, `workshops/[slug]` |
 
 **Verified (headless Chromium against the build):**
 
@@ -13781,7 +13781,7 @@ Accessibility, Best Practices and SEO are 100 on every page. The LCP element is 
 - A resource page loads Turnstile after 4 s.
 - gtag.js is present right after load, and `dataLayer` holds the queued calls.
 
-Local Lighthouse, before ΓåÆ after: `/trial/` 88 ΓåÆ 93, TBT ΓåÆ 130 ms; the resource page and `/uae/` are 93 and 92. Live figures should be re-measured after deploy.
+Local Lighthouse, before ╬ô├Ñ├å after: `/trial/` 88 ╬ô├Ñ├å 93, TBT ╬ô├Ñ├å 130 ms; the resource page and `/uae/` are 93 and 92. Live figures should be re-measured after deploy.
 
 ## D-318 - Why the site measured slow, and the font fix (2026-09-24)
 
@@ -13789,22 +13789,22 @@ Local Lighthouse, before ΓåÆ after: `/trial/` 88 ΓåÆ 93, TBT ΓåÆ 130 ms
 
 **Findings (24 Sep 2026, mobile).**
 
-1. **Visitors do not wait ~5 s.** Headless Chromium on the live site, with 4├ù CPU slowdown and a slow-4G connection (150 ms latency, 1.6 Mbps), measured first and largest paint at 1.1ΓÇô1.5 s on `/pakistan/`, `/pricing/` and the Physics 0625 hub. Lighthouse with DevTools throttling measured `/pricing/` 86 (LCP 1.9 s), `/pakistan/` 90 and `/trial/` 87.
+1. **Visitors do not wait ~5 s.** Headless Chromium on the live site, with 4Γö£├╣ CPU slowdown and a slow-4G connection (150 ms latency, 1.6 Mbps), measured first and largest paint at 1.1╬ô├ç├┤1.5 s on `/pakistan/`, `/pricing/` and the Physics 0625 hub. Lighthouse with DevTools throttling measured `/pricing/` 86 (LCP 1.9 s), `/pakistan/` 90 and `/trial/` 87.
 2. **Where the 5 s figure comes from.** The default Lighthouse score (used by PageSpeed Insights) *estimates* a slow-phone load from one fast load. On `/pricing/` that fast load showed a blank page until 2.4 s, after the load event (at 1.3 s) and after Google Analytics had started. The estimate therefore counted every download before that paint, including a 132 KB font and the 176 KB Google Analytics script, and reported LCP about 5 s and a score about 70. It varies from run to run: the Physics hub scored 95 in one run and 70 in the next.
 3. **A real waste found along the way:**
-   - `newsreader-latin-400.woff2` (the serif heading font, preloaded on every page) was a full variable font, with weights 200ΓÇô800 and an optical-size axis: 132 KB, when the site only uses weight 400. Its latin-ext file was 87 KB.
-   - `public-sans-latin-400.woff2` (the body font, also preloaded on every page) was a variable font covering weights 100ΓÇô900: 27 KB.
+   - `newsreader-latin-400.woff2` (the serif heading font, preloaded on every page) was a full variable font, with weights 200╬ô├ç├┤800 and an optical-size axis: 132 KB, when the site only uses weight 400. Its latin-ext file was 87 KB.
+   - `public-sans-latin-400.woff2` (the body font, also preloaded on every page) was a variable font covering weights 100╬ô├ç├┤900: 27 KB.
 
 | Change | Result |
 |---|---|
-| Newsreader 400 fixed at weight 400. Its optical-size axis is kept for 18ΓÇô72 px, the sizes the site actually uses for it (all headings are 18 px or larger), so headings keep their optical sizing. | 132 KB ΓåÆ 40 KB (latin); 87 KB ΓåÆ 26 KB (latin-ext) |
-| Public Sans 400 fixed as a static weight-400 font. | 27 KB ΓåÆ 15 KB (latin); 18 KB ΓåÆ 11 KB (latin-ext) |
+| Newsreader 400 fixed at weight 400. Its optical-size axis is kept for 18╬ô├ç├┤72 px, the sizes the site actually uses for it (all headings are 18 px or larger), so headings keep their optical sizing. | 132 KB ╬ô├Ñ├å 40 KB (latin); 87 KB ╬ô├Ñ├å 26 KB (latin-ext) |
+| Public Sans 400 fixed as a static weight-400 font. | 27 KB ╬ô├Ñ├å 15 KB (latin); 18 KB ╬ô├Ñ├å 11 KB (latin-ext) |
 
-This saves about 102 KB on the first visit to any page. The two files downloaded before first paint on every page (both preloaded) drop from 159 KB to 55 KB. The pixel check is 1280├ù520 screenshots of `/` and `/pricing/`, live vs the new build. They are visually identical: 119 and 809 pixels differ, all anti-aliasing. `audit:fonts` passes (14 distinct binaries, no cross-weight duplicates).
+This saves about 102 KB on the first visit to any page. The two files downloaded before first paint on every page (both preloaded) drop from 159 KB to 55 KB. The pixel check is 1280Γö£├╣520 screenshots of `/` and `/pricing/`, live vs the new build. They are visually identical: 119 and 809 pixels differ, all anti-aliasing. `audit:fonts` passes (14 distinct binaries, no cross-weight duplicates).
 
 **Tried and not kept:** inlining the stylesheet into every page removes one blocking request, but grows each HTML page by about 50 KB (the CSS uncompressed), which every page view would pay because it can't be cached. Not worth it.
 
-**Still to watch:** Google's real-user data (Chrome UX Report, which is what search rankings use) is the measure that matters. Check it in Search Console ΓåÆ Core Web Vitals once Google has enough visits; the report said "no data" on 24 Sep. The day-30 scheduled check should look at it too.
+**Still to watch:** Google's real-user data (Chrome UX Report, which is what search rankings use) is the measure that matters. Check it in Search Console ╬ô├Ñ├å Core Web Vitals once Google has enough visits; the report said "no data" on 24 Sep. The day-30 scheduled check should look at it too.
 
 ## D-319 - Wave-3 diagnostics (9708, 9609, 9618, 5070) and a diagnostic link on every syllabus page (2026-09-24)
 
@@ -13818,7 +13818,7 @@ This saves about 102 KB on the first visit to any page. The two files downloaded
 | Four new sets: `9708/as` (5 questions, 12 marks), `9609/as` (5, 11), `9618/as` (5, 10), `5070/all-topics` (6, 14). Each has a `modelledOn` line naming the June 2025 series. | `src/data/diagnostics.ts` |
 | 17 original questions appended to existing practice files, and 3 new practice files: A Level Economics macroeconomy, A Level Business operations, A Level Computer Science databases. 5070 questions sit in the files shared with 0620. The 5070 set has no examiner report, so its questions use "Tip" lines, not examiner insights. | `src/content/resources/*` |
 | The validator's "Extended" wording check now applies only to 0620 sets. The one shared question tagged "(0620 Extended, 5070 required)" is valid in the 5070 set. | `scripts/validate-diagnostics.mjs` |
-| Syllabus hub pages show "Free 10-minute diagnostic? Yes ΓÇö <set>" whenever the syllabus has a set, next to "Free practice questions?". | `src/pages/boards/[board]/[qualification]/[subject].astro` |
+| Syllabus hub pages show "Free 10-minute diagnostic? Yes ╬ô├ç├╢ <set>" whenever the syllabus has a set, next to "Free practice questions?". | `src/pages/boards/[board]/[qualification]/[subject].astro` |
 
 **Not covered, and why:** 5054 and 4024 (practice files cover one topic each); 9709 and 2210 (too few practice files, no examiner report); 1123 English (essay-based); Biology (no June 2025 papers in the folder).
 
@@ -13828,18 +13828,18 @@ This saves about 102 KB on the first visit to any page. The two files downloaded
 
 **Owner request:** "yes" (do the next batch of pages that rank on page one but get few clicks).
 
-**Evidence.** Search Console snapshots in D1, 18 Aug to 21 Sep 2026. Pages at an average position of about 5ΓÇô10 with 45ΓÇô250 impressions and 0ΓÇô3 clicks. The queries they show for ask for a code plus an edition year ("0457 syllabus 2027", "9093 syllabus 2027", "3248 syllabus 2027", "9708 syllabus 2027", "cambridge o level statistics 4040 syllabus 2026 official/pdf"), a component ("component 2 global perspectives", "aqa 8702 paper 2 section c unseen poetry 24 marks 8 marks") or 2027 dates ("cambridge exam dates 2027", "cambridge a level feb march 2027 timetable").
+**Evidence.** Search Console snapshots in D1, 18 Aug to 21 Sep 2026. Pages at an average position of about 5╬ô├ç├┤10 with 45╬ô├ç├┤250 impressions and 0╬ô├ç├┤3 clicks. The queries they show for ask for a code plus an edition year ("0457 syllabus 2027", "9093 syllabus 2027", "3248 syllabus 2027", "9708 syllabus 2027", "cambridge o level statistics 4040 syllabus 2026 official/pdf"), a component ("component 2 global perspectives", "aqa 8702 paper 2 section c unseen poetry 24 marks 8 marks") or 2027 dates ("cambridge exam dates 2027", "cambridge a level feb march 2027 timetable").
 
 **Changes.** Each title and description only states what the page already contains.
 
 | Page | Change |
 |---|---|
-| O Level Statistics 4040 hub | `officialUrl` now points to the official syllabus PDF (664481-2025-2027-syllabus.pdf, whose cover says "Use this syllabus for exams in 2025, 2026 and 2027"; checked 24 Sep), in place of the programme page. The existing D-298 rule then puts "Syllabus 2025ΓÇô2027" in the title from the file name. |
-| `/exam-calendar/` | Adds the **February/March 2027** series from Cambridge's own March 2027 monthly calendar (548188-march-series-monthly-calendar.pdf): final entries by 27 Nov 2026, late entries by 14 Dec 2026, exams 3 Feb ΓÇô 4 Mar 2027, results on Direct 13 May 2027, enquiries about results by 11 Jun 2027. The page now renders every record in `EXAM_SERIES_KEY_DATES` (Nov 2026 first, "Currently ahead"; then March 2027, "Next series"), each with its own source note. Title ΓåÆ "Cambridge Exam Dates 2026ΓÇô2027: Entries, Exams & Results". No paper-by-paper timetable is added (same reasoning as before). |
-| `/programs/` | Title "Programs" ΓåÆ "Programs: IGCSE, O Level, A Level, GCSE, IB, SAT & IELTS" (the programmes the page already lists). |
-| 10 resources | `seoTitle` (and, where missing, `seoDescription`) naming the code, the component or paper and the syllabus series the resource itself states: 9239 essay (2026ΓÇô2028), 0457 individual report (2025ΓÇô2027), 9708 Topic 2 (2026ΓÇô2028), 9709 P2 (2026ΓÇô2027), 0470 Options A and B (2024ΓÇô2026), 9093 Paper 1 notes (2024ΓÇô2026), AQA 8702 Section C (24 + 8 marks), IB DP Language A: Language and Literature, O Level Urdu 3247/3248 (from 2027). |
+| O Level Statistics 4040 hub | `officialUrl` now points to the official syllabus PDF (664481-2025-2027-syllabus.pdf, whose cover says "Use this syllabus for exams in 2025, 2026 and 2027"; checked 24 Sep), in place of the programme page. The existing D-298 rule then puts "Syllabus 2025╬ô├ç├┤2027" in the title from the file name. |
+| `/exam-calendar/` | Adds the **February/March 2027** series from Cambridge's own March 2027 monthly calendar (548188-march-series-monthly-calendar.pdf): final entries by 27 Nov 2026, late entries by 14 Dec 2026, exams 3 Feb ╬ô├ç├┤ 4 Mar 2027, results on Direct 13 May 2027, enquiries about results by 11 Jun 2027. The page now renders every record in `EXAM_SERIES_KEY_DATES` (Nov 2026 first, "Currently ahead"; then March 2027, "Next series"), each with its own source note. Title ╬ô├Ñ├å "Cambridge Exam Dates 2026╬ô├ç├┤2027: Entries, Exams & Results". No paper-by-paper timetable is added (same reasoning as before). |
+| `/programs/` | Title "Programs" ╬ô├Ñ├å "Programs: IGCSE, O Level, A Level, GCSE, IB, SAT & IELTS" (the programmes the page already lists). |
+| 10 resources | `seoTitle` (and, where missing, `seoDescription`) naming the code, the component or paper and the syllabus series the resource itself states: 9239 essay (2026╬ô├ç├┤2028), 0457 individual report (2025╬ô├ç├┤2027), 9708 Topic 2 (2026╬ô├ç├┤2028), 9709 P2 (2026╬ô├ç├┤2027), 0470 Options A and B (2024╬ô├ç├┤2026), 9093 Paper 1 notes (2024╬ô├ç├┤2026), AQA 8702 Section C (24 + 8 marks), IB DP Language A: Language and Literature, O Level Urdu 3247/3248 (from 2027). |
 
-**Not changed.** The 9093 notes follow the 2024ΓÇô2026 syllabus, so their title does not say 2027 even though searchers ask for it. The O Level World History and A Level Physics hubs already carried the code and document name. No June 2027 key-dates document was found on Cambridge's site on 24 Sep, so none is shown.
+**Not changed.** The 9093 notes follow the 2024╬ô├ç├┤2026 syllabus, so their title does not say 2027 even though searchers ask for it. The O Level World History and A Level Physics hubs already carried the code and document name. No June 2027 key-dates document was found on Cambridge's site on 24 Sep, so none is shown.
 
 **Check at day 30:** CTR for these 13 URLs in Search Console against the figures above.
 
@@ -13865,12 +13865,12 @@ This saves about 102 KB on the first visit to any page. The two files downloaded
 
 **Findings (Search Console, 24 Sep 2026; report data to 21 Sep).**
 
-1. **It is the age of the pages, not a fault on them.** All 661 URLs in "Discovered ΓÇô currently not indexed" were matched to the build: 636 resources and 25 checklists (mostly IB). Of the resources published 1ΓÇô15 September, 618 of 831 (74%) are in the list. Of those published 16ΓÇô31 August, 19 of 799 (2%) are. Only 9 pages are "Crawled ΓÇô currently not indexed", so Google has not judged these pages and found them wanting: it simply hasn't fetched them yet.
-2. **Google slowed its crawling after the first burst.** Crawl stats (90 days): 18.5K requests. There were daily peaks of about 2ΓÇô4K in late August, then from about 3 September roughly 100 a day or fewer, while about 860 new resources went live in the first half of September. At that rate a queue of 660 pages clears slowly.
-3. **Nothing technical is blocking it.** Host status: no problems. Average response 144 ms. robots.txt allows everything. A sampled not-indexed page returns 200 to a Googlebot user-agent, self-canonical, with no noindex. Sitemap `lastmod` values are genuine (D-298 practice). The earlier crawl waste has already stopped: the www host (4,081 requests, now 301s) and Zaraz `s.js?z=ΓÇª`, a unique script URL per page with the last one on 5 Sep.
+1. **It is the age of the pages, not a fault on them.** All 661 URLs in "Discovered ╬ô├ç├┤ currently not indexed" were matched to the build: 636 resources and 25 checklists (mostly IB). Of the resources published 1╬ô├ç├┤15 September, 618 of 831 (74%) are in the list. Of those published 16╬ô├ç├┤31 August, 19 of 799 (2%) are. Only 9 pages are "Crawled ╬ô├ç├┤ currently not indexed", so Google has not judged these pages and found them wanting: it simply hasn't fetched them yet.
+2. **Google slowed its crawling after the first burst.** Crawl stats (90 days): 18.5K requests. There were daily peaks of about 2╬ô├ç├┤4K in late August, then from about 3 September roughly 100 a day or fewer, while about 860 new resources went live in the first half of September. At that rate a queue of 660 pages clears slowly.
+3. **Nothing technical is blocking it.** Host status: no problems. Average response 144 ms. robots.txt allows everything. A sampled not-indexed page returns 200 to a Googlebot user-agent, self-canonical, with no noindex. Sitemap `lastmod` values are genuine (D-298 practice). The earlier crawl waste has already stopped: the www host (4,081 requests, now 301s) and Zaraz `s.js?z=╬ô├ç┬¬`, a unique script URL per page with the last one on 5 Sep.
 4. **Internal links were uneven.** Every resource is linked from its hub (hubs: 160 of 167 have impressions). But "Related resources" walked each tier in collection order, so the same few pages were picked everywhere. 256 of the not-indexed resources had no link from any resource page Google already shows.
 
-**Change.** On resource pages, `relatedResources()` now walks each tier (topic, then subject, then level, same board first) starting just after the current page in slug order and wrapping round. Picks stay within the same tiers, so they stay relevant (for example, cell-structure practice ΓåÆ cell-structure notes ΓåÆ cell structure ΓåÆ enzymes). Neighbouring pages now link to each other in a ring instead of all pointing at the first few. Result on the build: not-indexed resources with no link from any page that has impressions fell from 256 to 201, and resources with no inbound link from another resource fell from 32 to 15. Articles and programme pages keep the old order.
+**Change.** On resource pages, `relatedResources()` now walks each tier (topic, then subject, then level, same board first) starting just after the current page in slug order and wrapping round. Picks stay within the same tiers, so they stay relevant (for example, cell-structure practice ╬ô├Ñ├å cell-structure notes ╬ô├Ñ├å cell structure ╬ô├Ñ├å enzymes). Neighbouring pages now link to each other in a ring instead of all pointing at the first few. Result on the build: not-indexed resources with no link from any page that has impressions fell from 256 to 201, and resources with no inbound link from another resource fell from 32 to 15. Articles and programme pages keep the old order.
 
 **Not done, on purpose.**
 
@@ -13885,7 +13885,7 @@ This saves about 102 KB on the first visit to any page. The two files downloaded
 2. Slow the pace of new resource pages until the September batch is indexed.
 3. The daily indexing-request task continues. It is capped at about 10 URLs a day by Google.
 
-**Check at day 30:** "Discovered ΓÇô currently not indexed" count (661 on 21 Sep) and the September-published share.
+**Check at day 30:** "Discovered ╬ô├ç├┤ currently not indexed" count (661 on 21 Sep) and the September-published share.
 
 ## D-323 - Wave-5 diagnostics: IGCSE Biology, A Level Biology, O Level Physics, Economics, Business and Computer Science (2026-09-24)
 
@@ -13938,11 +13938,11 @@ Also added: an O Level Physics space-physics practice file (5054 topic 6).
 | 36 new or edited practice files (about 200 new questions), including 4 second-year files each for 9700, 9708, 9609 and 9618 (`stage: "A"`, titled "(A Level)" where an AS title would repeat), 2 Pure Mathematics 3 files, 4 Extended files each for 0580 and 0625, 3 new 0610 files, 4 O Level Computer Science Paper 2 files. Two 0610 tags were corrected against the syllabus (respiration Q5 and reproduction Q7 are Core). | `src/content/resources/*` |
 | Nine new sets; 31 in total. | `src/data/diagnostics.ts` |
 | Validator: `tier: 'extended'` is allowed for the tiered IGCSE codes 0620, 0610, 0580 and 0625, and non-Extended sets for those codes must not contain "Extended"/"Supplement" wording. The per-question Supplement check stays 0620-only, because other codes' tiers are set per file and would wrongly flag Core questions in mixed files. "Background radiation/count" no longer trips the "Background" flag. | `scripts/validate-diagnostics.mjs` |
-| Title suffix " ΓÇö Paper 2 Topics" for the `paper-2` slug. | `src/pages/practice/[code]/diagnostic/[set].astro` |
+| Title suffix " ╬ô├ç├╢ Paper 2 Topics" for the `paper-2` slug. | `src/pages/practice/[code]/diagnostic/[set].astro` |
 
-**Checks on the content:** each subject was written from its sources and then checked by a separate reviewer (every number recomputed, mark totals, insight support, overlap with the papers). Reviewers replaced several A Level Biology scenarios that mirrored Paper 42, fixed a missing solution (x = 90┬░) in a Pure 3 trig answer, tightened a MarshallΓÇôLerner explanation and reworded stems that were close to the papers.
+**Checks on the content:** each subject was written from its sources and then checked by a separate reviewer (every number recomputed, mark totals, insight support, overlap with the papers). Reviewers replaced several A Level Biology scenarios that mirrored Paper 42, fixed a missing solution (x = 90Γö¼Γûæ) in a Pure 3 trig answer, tightened a Marshall╬ô├ç├┤Lerner explanation and reworded stems that were close to the papers.
 
-**Still not covered:** O Level English 1123 (essay-based, cannot be self-marked); A Level Mathematics Probability & Statistics 2 (no papers in the folder). The syllabus texts in the folder for 0610, 0625 and 5054 are the 2023ΓÇô2025 editions, so Core/Extended tags should be confirmed against 2026ΓÇô2028 by the reviewing teacher.
+**Still not covered:** O Level English 1123 (essay-based, cannot be self-marked); A Level Mathematics Probability & Statistics 2 (no papers in the folder). The syllabus texts in the folder for 0610, 0625 and 5054 are the 2023╬ô├ç├┤2025 editions, so Core/Extended tags should be confirmed against 2026╬ô├ç├┤2028 by the reviewing teacher.
 
 **Status:** all 31 sets await teacher review.
 
@@ -13962,7 +13962,7 @@ Also added: an O Level Physics space-physics practice file (5054 topic 6).
 
 **Owner request:** "start on the enquiries".
 
-**GA4, 27 Aug ΓÇô 23 Sep 2026 (consenting visitors plus cookieless events).**
+**GA4, 27 Aug ╬ô├ç├┤ 23 Sep 2026 (consenting visitors plus cookieless events).**
 
 - 760 users, 2,202 page views.
 - Of 850 pages viewed, resource pages take about 60% of views. Syllabus hubs take about 10% and `/subjects/` pages about 7%. `/trial/` had 38 views from 13 users, and `/pricing/` 11.
@@ -13973,7 +13973,7 @@ Also added: an O Level Physics space-physics practice file (5054 topic 6).
   - `whatsapp_click`: 23 from 19 users, the largest channel. About half came from resource pages.
 - Only 100 users (13%) fired `scroll` (90% depth).
 - **Reading.** The trial form converts once people reach it: 13 users gave 11 form starts and 5 leads. The gap is getting there.
-  - On resource pages, the only trial link sat at the very foot of the page (98ΓÇô99% of the way down), below the related grids.
+  - On resource pages, the only trial link sat at the very foot of the page (98╬ô├ç├┤99% of the way down), below the related grids.
   - On the 130 taught hubs without a tuition section, there was no in-page trial link at all. The glance row said only "Yes", and the closing button went to `/tutoring/`.
 
 **Changes (no new claims; only where classes are genuinely offered, per D-296).**
@@ -13981,7 +13981,7 @@ Also added: an O Level Physics space-physics practice file (5054 topic 6).
 | Page | Change |
 |---|---|
 | 1,508 resource pages in taught subjects | One line added to the provenance box under the title: "Want a teacher for this? Marlbridge teaches {subject} online. Request a free trial class." It uses the same `trialHref` as the foot block, with `data-cta="resource-trial-top"`. The foot block is unchanged. Resources-only subjects get nothing. |
-| 130 taught hubs without a tuition section | The glance row now reads "Yes ΓÇö request a free trial class" (`data-cta="hub-trial-glance"`). The closing button changes from "Find Learning Support" ΓåÆ `/tutoring/` to "Request a free trial class" ΓåÆ `/trial/?course=ΓÇª&source=hub`, pre-filling the course. |
+| 130 taught hubs without a tuition section | The glance row now reads "Yes ╬ô├ç├╢ request a free trial class" (`data-cta="hub-trial-glance"`). The closing button changes from "Find Learning Support" ╬ô├Ñ├å `/tutoring/` to "Request a free trial class" ╬ô├Ñ├å `/trial/?course=╬ô├ç┬¬&source=hub`, pre-filling the course. |
 | 5 tuition-section hubs | Unchanged route. The closing button is now measured (`tuition-page-trial-final`). |
 | `CTA.astro` | Optional `buttonCta` prop, so closing buttons can carry `data-cta` and count as `trial_cta_click`. |
 | `TRIAL_SOURCES` | Adds `hub`, so leads from hubs are attributed separately in `trial_source`. |
@@ -13996,7 +13996,7 @@ The D-149 principle (no pop-ups or interstitials, and the material stays free) i
 
 **Cause, established rather than assumed.** It was not a race. The failure reproduced the same way on every run. Fixture [M] looked for the literal ONE_TO_ONE_PRICING Saudi row `igcse: 49, aLevel: 56 },`. D-297 (23 Sep) added `status: 'indicative'` to every converted row, so that literal no longer existed. With [M] fixed, a second stale fixture came to light: [AB] looked for `href="/report-a-correction/?page=`, which D-298 had deliberately turned into a `#page=` fragment.
 
-**Fix.** Both fixtures now find their target from the file's structure, not from literal text. [M] takes the unique Saudi Arabia row inside the `ONE_TO_ONE_PRICING` array. That row must be marked indicative, because only indicative rows are drift-checked (D-313). The fixture triples the row's current published value and expects the validator's rejection line (`Γ£ù Saudi Arabia (SAR) igcse: published 147, FX_RATES implies`). [AB] takes the first root-relative internal href on the fixture page that carries a query string, and corrupts only its path (`/trial/?` becomes `/trial-WRONG/?`). Three things are unchanged: the "mutation did not change the file" guard, the `finally` restore, and the clean re-run after restore. No price changed.
+**Fix.** Both fixtures now find their target from the file's structure, not from literal text. [M] takes the unique Saudi Arabia row inside the `ONE_TO_ONE_PRICING` array. That row must be marked indicative, because only indicative rows are drift-checked (D-313). The fixture triples the row's current published value and expects the validator's rejection line (`╬ô┬ú├╣ Saudi Arabia (SAR) igcse: published 147, FX_RATES implies`). [AB] takes the first root-relative internal href on the fixture page that carries a query string, and corrupts only its path (`/trial/?` becomes `/trial-WRONG/?`). Three things are unchanged: the "mutation did not change the file" guard, the `finally` restore, and the clean re-run after restore. No price changed.
 
 **Verification.** On the branch, via workflow_dispatch, the full workflow passed (run 36044526257): build, audit:all, negative suite (35 passed, 0 failed), cross-board regression, and test:api. Locally, test:api passed 78/78 and test:tools 60/60, and `git status` was clean after the suite. Merged as PR #76 (`d6cf86ae`). The CI gate on `main` passed (run 36044833918), and Cloudflare Workers Builds deployed version `9e62ab16` at 2026-09-25 00:00 PKT.
 
@@ -14005,7 +14005,7 @@ The D-149 principle (no pop-ups or interstitials, and the material stays free) i
 ## D-328 - Registers reconciled; diagnostic review made enforceable; journey baseline measured (2026-09-25)
 
 **Registers.** Current-status sections were added or corrected in `docs/audit/README.md`, `docs/audit/HANDOFF.md`, `docs/audit/REPAIR-WORK-ORDER.md`, `docs/audit/correction-constraints.md`, `docs/programme-register.md` and `docs/business-decisions-register.md`. Historical findings and decisions are untouched; each stale statement keeps its original wording, with a dated superseding note beside it. The main corrections:
-- HANDOFF ┬º7 said "150 confirmed errors are open", while ┬º2 and the audit README said no finding was open at round 60. The current state is the latter. That statement is limited to findings the audit raised; it does not cover the 79 resources added after round 19 or repairs after D-284.
+- HANDOFF Γö¼┬║7 said "150 confirmed errors are open", while Γö¼┬║2 and the audit README said no finding was open at round 60. The current state is the latter. That statement is limited to findings the audit raised; it does not cover the 79 resources added after round 19 or repairs after D-284.
 - Audit file names from `2026-09-13` onward are round labels, not run dates. All 88 were committed between 2026-09-11 and 2026-09-22. A table in the audit README gives each file's label, commit time and stated run time. For two files (rounds 53 and 59) the stated run time is later than the commit time; that is recorded as unresolved.
 - Business register items 11 to 13 (USD fees, IB fees, teacher availability) had the D-311/D-313 decisions written above obsolete "Status: open" lines. They now read as decided, and production was checked on 2026-09-25. Item 10 (`ADMIN_API_KEY`) is done: the production API returns 401, not 503. Item 19 (IB licence) was already answered by D-135 on 2026-09-05. The items genuinely still open are 7, 8, 14, 16 and 18, and each one names the answer it needs.
 - The International Growth and Post-v2.0 reports said "not deployed". Each now carries a note citing the merge commit and the production check or D-090.
@@ -14021,7 +14021,7 @@ The D-149 principle (no pop-ups or interstitials, and the material stays free) i
 **Scope.** The owner excluded the teacher-review programme from this round. No `setReview` was filled, no reviewer was assigned and no reviewer role was changed. Every set page still says it has not been reviewed as a set.
 
 **Diagnostic concerns** (full evidence in `docs/content-review/diagnostic-set-review.md`):
-- **A. 9609 ARR: disproved, no change.** The 9609 syllabus 10.3.2 (2023-2025 v1 and 2026-2028 v2, p. 34) defines ARR = average profit / average investment ├ù 100. The June 2024 Paper 31 mark scheme (Q3(a), p. 13) takes average investment as (cost + residual) ├╖ 2. The June 2024 Principal Examiner Report, Paper 9609/32 Q4(a) (p. 27), names capital-cost division as the most common error, so the resource's attribution is accurate. The answer, 23.53%, recalculates.
+- **A. 9609 ARR: disproved, no change.** The 9609 syllabus 10.3.2 (2023-2025 v1 and 2026-2028 v2, p. 34) defines ARR = average profit / average investment Γö£├╣ 100. The June 2024 Paper 31 mark scheme (Q3(a), p. 13) takes average investment as (cost + residual) Γö£Γòû 2. The June 2024 Principal Examiner Report, Paper 9609/32 Q4(a) (p. 27), names capital-cost division as the most common error, so the resource's attribution is accurate. The answer, 23.53%, recalculates.
 - **B. 9709 repeated S1 question: scope concern disproved.** Paper 5 is on every A Level route (9709 syllabus v4). The repeat of `probability-statistics-1-practice-q1` is now disclosed in the A Level set's `audience`. No replacement fits the 16-mark and 4-topic rules without dropping a Pure 3 question.
 - **C. 9618 A Level: confirmed and fixed.** `data-representation-a-level-practice-q5` and `further-programming-a-level-practice-q2` now state the context they had pointed to in "Question 4" and "Question 1", in both the resource and the diagnostic. `validate-diagnostics` rejects question text that refers to another question, and negative fixture [AI] proves it.
 
@@ -14108,7 +14108,7 @@ The D-149 principle (no pop-ups or interstitials, and the material stays free) i
 - **24. No notice period is required** to move a confirmed trial class.
 
 **Implemented.**
-- `src/utils/pricing/calculator.ts`: a basket of 3+ group subjects gets 20% whatever the mix, with no written-quote flag. The sibling note says each enrolled brother or sister also gets 10% off their own fees. The header comment records both rules. Tests: the mixed basket in Pakistan (2 ├ù 19,000 + 24,000 = 62,000 PKR) comes to 49,600 PKR/month; with a sibling, 30% off gives 43,400 PKR/month.
+- `src/utils/pricing/calculator.ts`: a basket of 3+ group subjects gets 20% whatever the mix, with no written-quote flag. The sibling note says each enrolled brother or sister also gets 10% off their own fees. The header comment records both rules. Tests: the mixed basket in Pakistan (2 Γö£├╣ 19,000 + 24,000 = 62,000 PKR) comes to 49,600 PKR/month; with a sibling, 30% off gives 43,400 PKR/month.
 - `/pricing/`: the comparison row, the discount cards and the discount FAQ state both rules. Prices, percentages and the stacking rule (D-043/D-083) are unchanged.
 - `src/pages/authors/[slug].astro`: every person profile shows "Levels: All levels Marlbridge teaches". A per-teacher `qualificationsTaught` list, if recorded later, takes precedence. No boards were added.
 - `docs/operations/trial-follow-up.md` template 3: "If you need to move the class, just reply to this email: no notice period is needed."
@@ -14249,7 +14249,7 @@ The D-149 principle (no pop-ups or interstitials, and the material stays free) i
 
 **Changes.**
 - **N-01 (high).** Honeypot fields were hidden with `absolute -left-[9999px]`. On right-to-left pages this widened the layout to ~10,400 px, so on phones /ar/ and /ur/ trial, contact, schools and tutoring showed a blank screen (Chromium mobile emulation: layout 1,560 px, heading at x = 1,190). Now hidden in place with `absolute start-0 top-0 h-px w-px overflow-hidden opacity-0 [clip-path:inset(50%)] pointer-events-none`, keeping `aria-hidden`, `tabindex=-1` and `autocomplete=off`. Files: TrialRequestForm, EnquiryForm, CorrectionForm, SubscribeBox, workshops/[slug]. Guard: `audit-accessibility.mjs` check [6] fails the build on any `-left-/-right-[NNNpx]` offset.
-- **N-02.** /uk/ fee table gains an "OCR courses, one-to-one only, per class (indicative)" row (from `ONE_TO_ONE_ONLY_CONVERSIONS`), the note and the GCSE FAQ say OCR is one-to-one only. Programme pages whose curriculum line names OCR (GCSE, A Level) or OxfordAQA (IGCSE only) add "ΓÇª: one-to-one only ┬╖ 6,000 PKR per class in Pakistan (other currencies)" beside "Groups capped at 15". New `ONE_TO_ONE_ONLY_NOTE`.
+- **N-02.** /uk/ fee table gains an "OCR courses, one-to-one only, per class (indicative)" row (from `ONE_TO_ONE_ONLY_CONVERSIONS`), the note and the GCSE FAQ say OCR is one-to-one only. Programme pages whose curriculum line names OCR (GCSE, A Level) or OxfordAQA (IGCSE only) add "╬ô├ç┬¬: one-to-one only Γö¼Γòû 6,000 PKR per class in Pakistan (other currencies)" beside "Groups capped at 15". New `ONE_TO_ONE_ONLY_NOTE`.
 - **N-04.** Low-score diagnostic prompt: button now "Get a free class on this topic"; when every topic scored the same it says "these topics" instead of naming the first one; the named topic travels to /trial/ as `topic=` and is written (as text, length-capped, character allow-list) into the message box.
 - **N-05.** /trial/ showed the reply promise five times; removed from the lead and the form note (still in the key-facts card, the "We reply" step, the FAQ and the success panel).
 
@@ -14331,21 +14331,21 @@ The D-149 principle (no pop-ups or interstitials, and the material stays free) i
 
 **Validation.** `npm run build` passes; the built homepage contains the link.
 
-## D-343 - Revision notes for 0620/5070 organic and practical topics and 9701 28.3ΓÇô28.5 (2026-09-27)
+## D-343 - Revision notes for 0620/5070 organic and practical topics and 9701 28.3╬ô├ç├┤28.5 (2026-09-27)
 
-**Why:** backlog B6/B7 of the resource library audit (D-339): the coverage matrix showed no revision notes for 0620/5070 11.3ΓÇô11.7 and 12.1ΓÇô12.4, or for 9701 28.3ΓÇô28.5, although each already had a study guide and practice page.
+**Why:** backlog B6/B7 of the resource library audit (D-339): the coverage matrix showed no revision notes for 0620/5070 11.3╬ô├ç├┤11.7 and 12.1╬ô├ç├┤12.4, or for 9701 28.3╬ô├ç├┤28.5, although each already had a study guide and practice page.
 
 | New page | Syllabus points |
 |---|---|
-| `fuels-alkanes-and-alkenes-revision-notes` | 0620/5070 11.3ΓÇô11.5 |
-| `alcohols-and-carboxylic-acids-revision-notes` | 0620/5070 11.6ΓÇô11.7 (and 11.2 ester naming) |
-| `practical-techniques-revision-notes` | 0620/5070 12.1ΓÇô12.4 |
-| `a-chemistry-transition-elements-colour-isomerism-kstab-revision-notes` | 9701 28.3ΓÇô28.5 (A Level) |
+| `fuels-alkanes-and-alkenes-revision-notes` | 0620/5070 11.3╬ô├ç├┤11.5 |
+| `alcohols-and-carboxylic-acids-revision-notes` | 0620/5070 11.6╬ô├ç├┤11.7 (and 11.2 ester naming) |
+| `practical-techniques-revision-notes` | 0620/5070 12.1╬ô├ç├┤12.4 |
+| `a-chemistry-transition-elements-colour-isomerism-kstab-revision-notes` | 9701 28.3╬ô├ç├┤28.5 (A Level) |
 
-- Written from the official syllabuses (0620 and 5070 2026ΓÇô2028; 9701 2025ΓÇô2027) and the existing study guides. Each page is condensed: tables, key equations, exam traps, and a short self-test with answers.
+- Written from the official syllabuses (0620 and 5070 2026╬ô├ç├┤2028; 9701 2025╬ô├ç├┤2027) and the existing study guides. Each page is condensed: tables, key equations, exam traps, and a short self-test with answers.
 - 0620 Supplement items carry the "*(0620 Extended, 5070 required)*" label, checked line by line against the Supplement column. Where 5070 wording is wider (for example "combustion of alcohols"), a "5070 note" covers it.
 - Author: `marlbridge-academic-team`. `reviewStatus` is left at the review-pending default. The Kstab values on the 9701 page are labelled illustrative.
-- An independent AI reviewer checked every equation, calculation and tier label against the syllabus text. It found 4 unlabelled Supplement items and 4 wording or accuracy points (for example "propanol" should be "propan-1-ol", and CuΓü║ is not a safe "colourless" example). All were fixed. Points for the chemistry teacher to confirm are listed in section 10 of the audit report.
+- An independent AI reviewer checked every equation, calculation and tier label against the syllabus text. It found 4 unlabelled Supplement items and 4 wording or accuracy points (for example "propanol" should be "propan-1-ol", and Cu╬ô├╝Γòæ is not a safe "colourless" example). All were fixed. Points for the chemistry teacher to confirm are listed in section 10 of the audit report.
 - The coverage matrix and audit report are updated (21 matrix rows).
 
 **Not changed:** no existing page, diagnostic set, author or review status.
@@ -14362,7 +14362,7 @@ Source: project doc `claude/audit-d339-d341-2026-09-27.md` (auditor's check of D
 - **A-04 (0610 Topic 1 guide).** The example key's couplet 4 used "Has fins / No fins" after an earlier split in a form that did not follow; couplet 4 now reads `Has fins ... FISH` / `No fins ... go to 5`, so each couplet offers exactly two options leading on.
 - **A-05 (record-keeping, no site change).** The D-341 commit is titled "D-335" but its log entry is D-341; the D-341 entry is dated 2026-09-25 though it merged on 27 Sep. Both left as history (the log is append-only) and noted here. Next free number after this entry: D-345.
 
-Validation: build OK; `audit:all` PASS (2,282 pages); `check` 0 errors; `test:i18n-routes` OK; `test:tools` 72 pass / 0 fail; `test:api` 84 / 0; `test:practice-analytics` OK; negative-validation suite 0; cross-board regression 0. Rendered check: 0620 core diagnostic shows "Most worked answersΓÇª" and the new Q7(b); 0620 extended shows "Each".
+Validation: build OK; `audit:all` PASS (2,282 pages); `check` 0 errors; `test:i18n-routes` OK; `test:tools` 72 pass / 0 fail; `test:api` 84 / 0; `test:practice-analytics` OK; negative-validation suite 0; cross-board regression 0. Rendered check: 0620 core diagnostic shows "Most worked answers╬ô├ç┬¬" and the new Q7(b); 0620 extended shows "Each".
 
 ## D-345 - Windows checkouts dropped every practice-bank topic tag (2026-09-27)
 
@@ -14378,7 +14378,7 @@ Validation: build OK; `audit:all` PASS (2,282 pages); `check` 0 errors; `test:i1
 
 - `src/data/pricing.ts` `PRICING_TERMS.enquiryResponse`: `summary`, `short` and `whatsappHoursPkt` updated. Every English page reads these fields: /trial/, the trial form's thank-you text, the home hero, tuition panels, programme pages, resource pages, /tutoring/, /international-tutoring/ and /gulf/.
 - `src/i18n/copy.ts`: the Arabic, Urdu and Bengali contact text now says 8am to 11pm, every day.
-- `scripts/validate-pricing-consistency.mjs`: a new guard fails the build if the old 9amΓÇô10pm window appears in English, Arabic, Urdu or Bengali copy. Resource pages are excluded, because they only use times inside questions.
+- `scripts/validate-pricing-consistency.mjs`: a new guard fails the build if the old 9am╬ô├ç├┤10pm window appears in English, Arabic, Urdu or Bengali copy. Resource pages are excluded, because they only use times inside questions.
 
 **Not changed:** email stays "the same day". No price, discount or other policy changed.
 
@@ -14389,17 +14389,17 @@ Validation: build OK; `audit:all` PASS (2,282 pages); `check` 0 errors; `test:i1
 | New page | Syllabus points |
 |---|---|
 | `physical-and-chemical-changes-revision-notes` | 0620/5070 6.1 (Core) |
-| `as-chem-atomic-structure-revision-notes` | 9701 1.1ΓÇô1.2 (AS) |
-| `a-chemistry-acids-bases-partition-revision-notes` | 9701 25.1ΓÇô25.2 |
-| `a-chemistry-reaction-kinetics-revision-notes` | 9701 26.1ΓÇô26.2 |
+| `as-chem-atomic-structure-revision-notes` | 9701 1.1╬ô├ç├┤1.2 (AS) |
+| `a-chemistry-acids-bases-partition-revision-notes` | 9701 25.1╬ô├ç├┤25.2 |
+| `a-chemistry-reaction-kinetics-revision-notes` | 9701 26.1╬ô├ç├┤26.2 |
 | `a-chemistry-group-2-revision-notes` | 9701 27.1 |
 | `a-chemistry-optical-isomerism-revision-notes` | 9701 29.4 |
 | `a-chemistry-halogen-compounds-revision-notes` | 9701 31.1 |
-| `a-chemistry-alcohols-and-phenol-revision-notes` | 9701 32.1ΓÇô32.2 |
+| `a-chemistry-alcohols-and-phenol-revision-notes` | 9701 32.1╬ô├ç├┤32.2 |
 
 - Each page was written against its syllabus learning outcomes, one by one, with links to the existing study guide, practice page and (for A Level) the AS notes.
 - Author: `marlbridge-academic-team`. `reviewStatus` is left at the review-pending default. Data such as Ka, Ksp, Kpc and rate data are labelled illustrative or approximate.
-- Two independent AI reviewers recomputed every calculation and checked every equation against the syllabus text. They found no errors of fact or arithmetic. Their 13 wording and completeness points were applied, for example: phenol "gives no COΓéé" with carbonates, rather than "does not react"; the ╬öHsol trend sentence for hydroxides; the hydroxide 2╬öHhyd(OHΓü╗) term; the NHΓéâ/NHΓéäΓü║ buffer equations; and the "sign of charge / charge ├╖ mass" deflection trap.
+- Two independent AI reviewers recomputed every calculation and checked every equation against the syllabus text. They found no errors of fact or arithmetic. Their 13 wording and completeness points were applied, for example: phenol "gives no CO╬ô├⌐├⌐" with carbonates, rather than "does not react"; the Γò¼├╢Hsol trend sentence for hydroxides; the hydroxide 2Γò¼├╢Hhyd(OH╬ô├╝Γòù) term; the NH╬ô├⌐├ó/NH╬ô├⌐├ñ╬ô├╝Γòæ buffer equations; and the "sign of charge / charge Γö£Γòû mass" deflection trap.
 - The coverage matrix (13 rows) and audit report are updated. Every 0620, 5070 and 9701 subtopic in the matrix now has revision notes.
 
 **Not changed:** no existing page, diagnostic set, author or review status.
@@ -14416,9 +14416,9 @@ Validation: build OK; `audit:all` PASS (2,282 pages); `check` 0 errors; `test:i1
 
 Source: project doc `claude/auditor-handoff-open-fixes-2026-09-27.md` (written 27 Sep 2026, 17:35 PKT, by the auditor, from `website-audit-2026-09-25-detailed.md` F-11 to F-20). The handoff said to start at D-348; D-348 was taken by the Portal Login change (#94), so this batch is D-349. Repaired 27 Sep 2026, about 17:40 PKT. No price, discount or policy changed, and no teacher data, address or claim was invented.
 
-- **R-01 (/pricing/ "date below" and literal `--`).** The auditor quoted: "Pricing last verified 2026-08-20. ΓÇª The date below is when they were last confirmed." ΓÇö the date came before the sentence. Both shared notes (`PRICING_TERMS.notPermanentNote`, `ONE_TO_ONE_TERMS.notPermanentNote` in `src/data/pricing.ts`) no longer point up or down; every page that uses them already prints its own dated line next to them. `TuitionPanel.astro` no longer strips the old phrase. On /pricing/, "above -- per class" is now "above: per class", and the discounts sentence uses brackets. Whole family: rendered text across the site had 8,066 literal " -- " on 1,512 pages (counted on the 27 Sep build). New build step `src/integrations/typographic-dashes.mjs` (astro:build:done, before Pagefind) sets a spaced `--` as a spaced en dash in visible text only, never inside script, style, pre, code, textarea, tags or attributes. After the build: 0 in the visible text of /pricing/, and 0 anywhere outside code blocks. The only remaining "date above" sentences are on the three legal pages, where the date really is above.
+- **R-01 (/pricing/ "date below" and literal `--`).** The auditor quoted: "Pricing last verified 2026-08-20. ╬ô├ç┬¬ The date below is when they were last confirmed." ╬ô├ç├╢ the date came before the sentence. Both shared notes (`PRICING_TERMS.notPermanentNote`, `ONE_TO_ONE_TERMS.notPermanentNote` in `src/data/pricing.ts`) no longer point up or down; every page that uses them already prints its own dated line next to them. `TuitionPanel.astro` no longer strips the old phrase. On /pricing/, "above -- per class" is now "above: per class", and the discounts sentence uses brackets. Whole family: rendered text across the site had 8,066 literal " -- " on 1,512 pages (counted on the 27 Sep build). New build step `src/integrations/typographic-dashes.mjs` (astro:build:done, before Pagefind) sets a spaced `--` as a spaced en dash in visible text only, never inside script, style, pre, code, textarea, tags or attributes. After the build: 0 in the visible text of /pricing/, and 0 anywhere outside code blocks. The only remaining "date above" sentences are on the three legal pages, where the date really is above.
 - **R-02 (home hero omits IB).** The hero now adds "IB (Middle Years Programme and Diploma Programme) is taught one-to-one." It is derived from the matrix (an ACTIVE `ib` combination), like the board list. The one-to-one wording is from `IB_PRICING.deliveryMode`. The translated home pages already name IB in their pricing note, so they were left alone.
-- **R-03 (llms.txt).** The practice line was hand-typed and named five subjects. It is now generated from `src/data/diagnostics.ts`: "31 diagnostic sets across 19 syllabus codes", plus a new "Diagnostics" section listing every code with links to its sets. Also new: a "Pricing" line, a "Teachers" section generated from the published person profiles (21), and a Learners Academy line using the site's own wording ("the international branch of Learners Academy ΓÇª which operates it").
+- **R-03 (llms.txt).** The practice line was hand-typed and named five subjects. It is now generated from `src/data/diagnostics.ts`: "31 diagnostic sets across 19 syllabus codes", plus a new "Diagnostics" section listing every code with links to its sets. Also new: a "Pricing" line, a "Teachers" section generated from the published person profiles (21), and a Learners Academy line using the site's own wording ("the international branch of Learners Academy ╬ô├ç┬¬ which operates it").
 - **R-04 (organisation schema).** `src/utils/schema/organization.ts` now emits:
   - `address` as a PostalAddress from `site.about.address` (owner-confirmed 2026-09-21: Commercial 17/18, Block B, Al-Kabir Town, Lahore, PK);
   - `areaServed`: every region with its own row in `REGION_PRICING` (nine countries and Europe; "Other countries" is a price tier, so it is left out);
@@ -14472,12 +14472,12 @@ D-349 added an ETag only when the asset response already had one. After D-349 we
 ## D-351 - Owner answers on the D-347 chemistry points; electron relative mass 1/1840 throughout (2026-09-27)
 
 **Owner decisions (27 Sep 2026, 17:44 PKT),** on the four points D-347 left for the chemistry teacher:
-1. NOΓéé is the catalyst in the oxidation of atmospheric SOΓéé. `a-chemistry-reaction-kinetics-revision-notes` already says so, with NO as the intermediate, so nothing changes.
+1. NO╬ô├⌐├⌐ is the catalyst in the oxidation of atmospheric SO╬ô├⌐├⌐. `a-chemistry-reaction-kinetics-revision-notes` already says so, with NO as the intermediate, so nothing changes.
 2. "Yellow/orange" is correct for the phenol azo product. No change.
 3. The glowing-splint observation for Group 2 nitrates is fine. No change.
 4. **The electron's relative mass is 1/1840 throughout.** The site had 1/1836 on 6 resource pages and 1/1840 on one.
 
-**Change:** 1/1836 becomes 1/1840 on `as-chem-atomic-structure-revision-notes`, including its charge-to-mass line, which now reads 1 ├╖ (1/1840) = 1840. The same change is made on `aqa-gcse-chemistry-atomic-structure-practice`, `gcse-chemistry-atomic-structure-practice`, `gcse-aqa-chemistry-atomic-structure-and-periodic-table`, `igcse-edexcel-chemistry-principles-revision-notes` and `aqa-a-level-chemistry-atomic-structure-revision-notes`. `updatedDate` is set to 2026-09-27 on each of them. `docs/content-review/resource-library-audit-2026-09-27.md` records the answers.
+**Change:** 1/1836 becomes 1/1840 on `as-chem-atomic-structure-revision-notes`, including its charge-to-mass line, which now reads 1 Γö£Γòû (1/1840) = 1840. The same change is made on `aqa-gcse-chemistry-atomic-structure-practice`, `gcse-chemistry-atomic-structure-practice`, `gcse-aqa-chemistry-atomic-structure-and-periodic-table`, `igcse-edexcel-chemistry-principles-revision-notes` and `aqa-a-level-chemistry-atomic-structure-revision-notes`. `updatedDate` is set to 2026-09-27 on each of them. `docs/content-review/resource-library-audit-2026-09-27.md` records the answers.
 
 **Not changed:** no review status. The owner answered these four points, but has not yet reviewed the D-347 pages in full.
 
@@ -14509,7 +14509,7 @@ The remaining fix is a Cloudflare zone setting, which is the owner's decision. C
 | Change | Files |
 |---|---|
 | The Next steps logic moved into a shared util. Output is byte-identical on all 1,736 resource pages. | `src/utils/content/next-steps.ts`, `src/utils/content/resource-next-steps.ts`, `src/components/tools/ResourceNextSteps.astro` |
-| A one-line "On this topic: Study guide ┬╖ Revision notes ┬╖ Practice questions ┬╖ Test yourself" nav under the page meta. It shows only same-topic links for the page's own course, never the page itself, and nothing when there is no same-topic link. It is plain HTML and labelled by its visible text. It appears on 1,457 pages. | `src/pages/resources/[slug].astro` |
+| A one-line "On this topic: Study guide Γö¼Γòû Revision notes Γö¼Γòû Practice questions Γö¼Γòû Test yourself" nav under the page meta. It shows only same-topic links for the page's own course, never the page itself, and nothing when there is no same-topic link. It is plain HTML and labelled by its visible text. It appears on 1,457 pages. | `src/pages/resources/[slug].astro` |
 | The practice bank accepts `?topic=<key>`, but only for keys that exist in that code's bank; anything else is ignored. On tiered syllabuses it also accepts `&tier=core`, which is applied only where the topic actually has Extended-only questions. When some questions are not tier-tagged, the banner says so and does not claim "Core only". "Show all questions" clears the filter. Focus moves to the banner. | `src/pages/practice/[code]/index.astro`, `src/utils/practice/topic-filter.ts` |
 | "Retest this topic (N questions)" appears for each topic without full marks on the 10-minute diagnostic results and in the weak-topics list, when the topic has 2 or more questions. | `src/pages/practice/[code]/diagnostic/[set].astro`, `src/scripts/diagnostic-ui.ts` |
 | Analytics: no new event. Clicks use `recommended_resource_click` with `source` = `on_this_topic`, `diagnostic`, `practice_diagnostic` or `practice_weak_topics`, and `link_kind` = the resource kind or `retest_topic`. No topic, label or question text is sent. | `docs/growth/measurement-guide.md`, `scripts/test-practice-analytics.mjs` |
@@ -14524,9 +14524,9 @@ The remaining fix is a Cloudflare zone setting, which is the owner's decision. C
 
 **Why:** backlog B10 and B11 of the resource library audit (D-339). They use the same method and the same honesty rules as the chemistry matrix: keyword evidence is not a review, and every row is "Present but not yet reviewed".
 
-- `docs/content-review/coverage-matrix-cambridge-0580-2026-09-27.csv`: 72 rows from the official 0580 2025ΓÇô2027 syllabus (662466, Version 3).
-- `docs/content-review/coverage-matrix-cambridge-9702-2026-09-27.csv`: 76 rows from the official 9702 2025ΓÇô2027 syllabus (664565).
-- `resource-library-audit-2026-09-27.md` section 13 covers the method, the findings and follow-ups M1ΓÇôM10. Section 8 now has a backlog status block.
+- `docs/content-review/coverage-matrix-cambridge-0580-2026-09-27.csv`: 72 rows from the official 0580 2025╬ô├ç├┤2027 syllabus (662466, Version 3).
+- `docs/content-review/coverage-matrix-cambridge-9702-2026-09-27.csv`: 76 rows from the official 9702 2025╬ô├ç├┤2027 syllabus (664565).
+- `resource-library-audit-2026-09-27.md` section 13 covers the method, the findings and follow-ups M1╬ô├ç├┤M10. Section 8 now has a backlog status block.
 
 **Findings:**
 - `syllabus-topics.ts` matches both official syllabuses.
@@ -14534,6 +14534,36 @@ The remaining fix is a Cloudflare zone setting, which is the owner's decision. C
 - 6 0580 revision-notes pages carry no tier labels; this is M1.
 - There are 8 real 0580 Number gaps, for example sets and Venn diagrams, and calculator use.
 - There are 3 9702 gaps: circuit symbols, the induction experiments and the wave-motion illustrations.
-- The 2028ΓÇô2030 syllabuses for both courses are already published and have not been read yet; this is M7.
+- The 2028╬ô├ç├┤2030 syllabuses for both courses are already published and have not been read yet; this is M7.
 
 **Not changed:** no resource content.
+
+## D-356 - June 2024 examiner insights checked against Cambridge's published reports (B3) (2026-09-27)
+
+**Why:** backlog B3 of the resource library audit (D-339). 92 "Examiner insight (June 2024)" lines on 29 practice pages had no recorded source.
+
+**Sources:** Cambridge's official June 2024 examiner reports.
+
+| Syllabus | Report |
+|---|---|
+| 9700 | https://www.cambridgeinternational.org/Images/566822-june-2024-examiner-report.pdf |
+| 9609 | https://www.cambridgeinternational.org/Images/566845-june-2024-examiner-report.pdf |
+| 9708 | https://www.cambridgeinternational.org/Images/567336-june-2024-examiner-report.pdf |
+| 0610 | https://www.cambridgeinternational.org/Images/520425-june-2024-examiner-report.pdf |
+| 7115 | https://www.cambridgeinternational.org/Images/570360-june-2024-examiner-report.pdf |
+| 2281 | https://www.cambridgeinternational.org/Images/570420-june-2024-examiner-report.pdf |
+
+The cited question papers (variants 12, 22, 32 and 42) are not published on Cambridge's site. They were read from a mirror copy of Cambridge's own PDFs; the component code was confirmed in each footer.
+
+**Result:**
+- 84 insights were supported, 35 as written and 49 with tightened wording.
+- 8 were only partly supported and have been corrected.
+- None was removed.
+- One "Mark-scheme insight" that repeats the report (7115 Q4(e)) was relabelled as an examiner insight, making 93.
+- Every label now cites its source, for example "Examiner insight (Cambridge 9708 June 2024 examiner report, Paper 42, Question 4)", and each page links the report once.
+- Pointers: 67 now name the exact question part, 56 were already exact, and 1 off-topic pointer was removed.
+- No answer or mark was changed.
+
+**Independent spot check:** 42 of the 93 insights, including every corrected one, are faithful and correctly cited. The check found near-verbatim runs from the reports, and these were paraphrased. No insight now shares a run of 11 or more words with its report.
+
+**Not yet checked:** 34 "Mark-scheme insight (June 2024)" lines site-wide (new backlog B14).

@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on customer relationships, niche markets, market share, market research, social media promotion and penetration pricing, for Cambridge O Level Business Studies (7115)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -49,13 +50,15 @@ Each question practises a skill tested in the June 2024 Paper 12. After each ans
 
 **1.** Any two different ways, 1 mark each: **offer a loyalty scheme or discounts for regular customers** [1]; **ask customers for feedback** after each repair [1]; **provide good after-sales service**, such as a free safety check a month later [1]; **send newsletters or reminders** about servicing [1]; **deal quickly with complaints** [1].
 
-*Examiner insight (June 2024):* Two versions of the same idea (for example "good service" and "friendly service") only earn one mark, and ways of simply increasing sales, such as cutting prices, do not answer a question about building relationships.
+*Examiner insight (Cambridge 7115 June 2024 examiner report, Paper 12, Question 1(b)):* Two versions of the same idea only earn one mark, and ways of simply increasing sales, such as cutting prices, do not answer a question about building customer relationships.
+
+*Source for the examiner insights on this page: [Cambridge O Level Business Studies 7115 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/570360-june-2024-examiner-report.pdf), Paper 7115/12 section, paraphrased.*
 
 *Try the real question next:* Cambridge O Level Business Studies 7115, June 2024, Paper 12, Question 1(b).
 
 **2. Benefit:** there is likely to be **less competition** [1] because few bakeries specialise only in gluten-free products, so Priya's new bakery can attract customers with coeliac disease who struggle to find suitable cakes elsewhere [1]. **Limitation:** the **target market is small**, so sales and revenue are limited [1], since only a small share of people in the area need or want gluten-free bread and cakes [1].
 
-*Examiner insight (June 2024):* Many answers showed sound knowledge of niche markets but lost the application marks by never linking points to the business described. Each point needs its own reference to the case, such as this being a new business or the type of product sold.
+*Examiner insight (Cambridge 7115 June 2024 examiner report, Paper 12, Question 1(c)):* Many answers showed sound knowledge of niche markets but lost the application marks by never linking points to the business described. Each point needs its own reference to the case, such as this being a new business or the type of product sold.
 
 *Try the real question next:* Cambridge O Level Business Studies 7115, June 2024, Paper 12, Question 1(c).
 
@@ -65,13 +68,13 @@ Each question practises a skill tested in the June 2024 Paper 12. After each ans
 
 **4.** The data can show **the prices competitors charge** [1], so the owner can set prices at a similar level or slightly lower to win customers from other juice bars [1], which should help the new business gain sales and revenue when it opens [1]. (Also credit: data on **how much customers are willing to pay** or **level of demand**, so prices are not set so high that customers go elsewhere.)
 
-*Examiner insight (June 2024):* The stronger answers showed how knowing about customer demand or competition helps a pricing decision and so affects revenue. A common weakness was restating the knowledge point instead of developing it.
+*Examiner insight (Cambridge 7115 June 2024 examiner report, Paper 12, Question 1(d)):* The stronger answers showed how understanding customer demand or the level of competition helps pricing decisions or increases revenue. A common weakness was restating the knowledge point instead of developing it.
 
 *Try the real question next:* Cambridge O Level Business Studies 7115, June 2024, Paper 12, Question 1(d).
 
 **5.** Social media is **low cost** compared with television or newspaper adverts [1], so the florist has lower promotion expenses and fewer cash outflows [1], which could help raise profit across its three shops [1]. (Also credit: it **reaches a wide audience** quickly, so more people see seasonal offers such as Mother's Day bouquets, increasing sales; or it can be **targeted** at local customers near each shop.)
 
-*Examiner insight (June 2024):* Saying social media is "quicker" or "easier" is too vague unless you explain why, for example that posts can be updated in minutes. The advantage must be to the business, not to its customers.
+*Examiner insight (Cambridge 7115 June 2024 examiner report, Paper 12, Question 2(d)):* Saying social media is "quicker" or "easier" is too vague unless you explain why, for example that posts can be updated in minutes. The advantage must be to the business, not to its customers.
 
 *Try the real question next:* Cambridge O Level Business Studies 7115, June 2024, Paper 12, Question 2(d).
 

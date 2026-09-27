@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on the qualities of a good tax, types of unemployment and policies to reduce frictional unemployment, real wages and inflation, tax revenue in a recession, and the link between inflation and economic growth, for Cambridge O Level Economics (2281)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -67,7 +68,9 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 
 **1.** It is **economical** — it costs much less to collect than it raises in revenue [1]. It is **certain** (clear to taxpayers) — hotels know exactly how much to pay and when [1]. Accept **convenient** instead of economical for the easy online payment. Naming the policy change itself (for example "made paying online") is not a quality of a good tax.
 
-*Examiner insight (June 2024):* Some candidates listed the changes the government made to its tax system instead of naming the qualities of a good tax those changes were meant to achieve. Answer with the quality (economical, certain, convenient, efficient, equitable), not the policy.
+*Examiner insight (Cambridge 2281 June 2024 examiner report, Paper 22, Question 1(b)):* Some candidates identified the changes the government made to its tax system, such as reducing the tax burden, instead of the qualities of a good tax. Answer with the quality (economical, certain, convenient, efficient, equitable), not the policy.
+
+*Source for the examiner insights on this page: [Cambridge O Level Economics 2281 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/570420-june-2024-examiner-report.pdf), Paper 2281/22 section, paraphrased.*
 
 *Try the real question next:* Cambridge O Level Economics 2281, June 2024, Paper 22, Question 1(b).
 
@@ -75,7 +78,7 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 
 **(b)** Identification [1], explanation [1], for example: not raising (or reducing) unemployment benefit in real terms [1], which increases the incentive to accept a job sooner [1]; or helping with the cost of moving to another area for a new job [1], which improves geographical mobility so vacancies are filled more quickly [1].
 
-*Examiner insight (June 2024):* The key was to focus specifically on frictional unemployment, which is temporary. People who have been unemployed for a very long time are experiencing structural unemployment, so measures aimed at them did not answer the question.
+*Examiner insight (Cambridge 2281 June 2024 examiner report, Paper 22, Question 1(d)):* The key was to focus specifically on frictional unemployment, which is temporary. People who have been unemployed for a very long time are experiencing structural unemployment, so measures aimed at them did not answer the question.
 
 *Try the real question next:* Cambridge O Level Economics 2281, June 2024, Paper 22, Question 1(d).
 
@@ -85,13 +88,13 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 
 **(c)** Identification [1], explanation [1], for example: higher wages raise firms' costs of production [1], so firms raise prices — cost-push inflation [1]; or higher wages raise disposable income and consumer spending [1], increasing total demand — demand-pull inflation [1].
 
-*Examiner insight (June 2024):* This was a challenging question: the data showed the change in the average wage, which stayed positive even when it slowed. Strong answers interpreted the pattern and explained why wages and inflation move together; a small proportion simply wrote down the figures without any interpretation.
+*Examiner insight (Cambridge 2281 June 2024 examiner report, Paper 22, Question 1(e)):* This was a challenging question: the data showed the change in the average wage, which stayed positive (wages rose every year, at different rates). Strong answers interpreted the pattern and explored why wages and inflation move together; a small proportion simply wrote down the figures without any interpretation.
 
 *Try the real question next:* Cambridge O Level Economics 2281, June 2024, Paper 22, Question 1(e).
 
 **4.** Any two [1] each, for example: incomes fall and unemployment rises, so less income tax is paid [1]; consumer spending falls, so less indirect tax (such as VAT/sales tax) is collected [1]; firms' profits fall, so less corporation tax is paid [1]; fewer imports are bought, so less tariff revenue is raised [1].
 
-*Examiner insight (June 2024):* Most candidates understood what a recession is, but some answered a different question by giving reasons why a government might choose to cut taxes during a recession. The question asks why revenue falls automatically.
+*Examiner insight (Cambridge 2281 June 2024 examiner report, Paper 22, Question 4(a)):* Most candidates understood what a recession is, but some answered a different question by giving reasons why a government might choose to cut taxes during a recession. The question asks why revenue falls automatically.
 
 *Try the real question next:* Cambridge O Level Economics 2281, June 2024, Paper 22, Question 4(a).
 
@@ -99,7 +102,7 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 
 **(b)** Identification [1], explanation [1], for example: if the inflation is demand-pull, it comes from rising total demand [1], which may encourage firms to raise output, so growth could be high [1]. Or: inflation reduces the real value of debts/the real cost of borrowing [1], which may encourage consumer spending and investment [1].
 
-*Examiner insight (June 2024):* Good answers separated demand-pull from cost-push inflation, since they can have different effects on growth. Stronger answers also compared the country's inflation rate with rivals' and considered the effect of inflation on the real value of debt.
+*Examiner insight (Cambridge 2281 June 2024 examiner report, Paper 22, Question 3(d)):* Good answers separated demand-pull from cost-push inflation, since they can have different effects on growth. Stronger answers also compared the country's inflation rate with rivals' and considered the effect of inflation on the real value of debt.
 
 *Try the real question next:* Cambridge O Level Economics 2281, June 2024, Paper 22, Question 3(d).
 

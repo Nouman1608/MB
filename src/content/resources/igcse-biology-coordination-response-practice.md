@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on sense organs, reflex arcs, synapses, accommodation, rods and cones and the pupil reflex, for Cambridge IGCSE Biology (0610)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -59,9 +60,11 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **1.** A **group of receptor cells** [1] that respond to a **specific stimulus** such as light, sound, touch, temperature or chemicals [1].
 
-*Examiner insight (June 2024):* Candidates more often gained the mark for responding to stimuli than the mark for receptor cells. Include both parts: *what* a sense organ is made of and *what* it does.
+*Examiner insight (Cambridge 0610 June 2024 examiner report, Paper 42, Question 2(a)):* Fewer candidates gained the mark for receptors than the mark for detecting stimuli. Include both parts: *what* a sense organ is made of and *what* it does.
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 2.
+*Source for the examiner insights on this page: [Cambridge IGCSE Biology 0610 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/520425-june-2024-examiner-report.pdf), Paper 0610/42 section, paraphrased.*
+
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 2(a).
 
 **2.** **(a)** **Sensory neurone** [1].
 
@@ -71,25 +74,25 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 *Tip:* work out which way the impulse travels before naming the neurone: sensory neurones carry impulses towards the brain or spinal cord, and motor neurones carry them away to an effector.
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 2.
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 2(b)(i).
 
 **3.** *(Extended)* The impulse causes **vesicles** to release **neurotransmitter** molecules [1] into the **synaptic gap** [1]. The neurotransmitter **diffuses across the gap** [1] and **binds to receptor proteins** on the membrane of the next neurone, which stimulates a new impulse [1].
 
-*Examiner insight (June 2024):* Some candidates called the receptor molecules "cells" or invented names such as "receiver molecules". Use the precise term: receptor proteins (or receptor molecules) on the next neurone.
+*Examiner insight (Cambridge 0610 June 2024 examiner report, Paper 42, Question 2(b)(ii)):* A few candidates called the receptor molecules "cells" or invented names such as "receiver molecules". Use the precise term: receptor proteins (or receptor molecules) on the next neurone.
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 2.
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 2(b)(ii).
 
 **4.** *(Extended)* The **ciliary muscles contract** [1], so the **suspensory ligaments slacken** [1]. The **lens becomes more convex** (fatter) [1], so light is **refracted more** and is focused on the **retina** [1].
 
-*Examiner insight (June 2024):* A common error was to treat the ciliary muscles and suspensory ligaments as an antagonistic pair of muscles; ligaments are not muscles. Another was saying the lens "refracts more light" rather than that light is refracted more.
+*Examiner insight (Cambridge 0610 June 2024 examiner report, Paper 42, Question 2(b)(iii)):* A common error was to treat the ciliary muscles and suspensory ligaments as an antagonistic pair of muscles; ligaments are not muscles. Another was saying the lens "refracts more light" rather than that light is refracted more.
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 2.
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 2(b)(iii).
 
 **5.** *(Extended)* Any four of: both are found in the **retina** [1]; the **fovea** contains mainly **cones** and no rods [1]; there are **no rods or cones at the blind spot** [1]; **rods** are sensitive to **dim light** and give black-and-white vision [1]; **cones** work in **bright light** and give **colour vision**, with different cones absorbing different wavelengths of light [1]. Max [4].
 
-*Examiner insight (June 2024):* Few candidates mentioned the blind spot. Some said cones "are red, green or blue" instead of absorbing different wavelengths, or said receptors "see" light rather than detect it.
+*Examiner insight (Cambridge 0610 June 2024 examiner report, Paper 42, Question 2(c)):* Only a few candidates mentioned that there are no rods or cones at the blind spot. Some said cones "are red, green or blue" instead of absorbing different wavelengths, or said receptors "see" light rather than detect it.
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 2.
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 2(c).
 
 **6.** **(a)** His pupils become **smaller (narrower / constrict)** [1].
 

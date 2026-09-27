@@ -16,6 +16,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on marginal revenue product, derived demand and structural unemployment, correcting externalities with taxes and subsidies, and the Lorenz curve and Gini coefficient, for Cambridge International AS & A Level Economics (9708)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -57,7 +58,9 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 **2.** **(a)** The demand for labour is a **derived demand**: it depends on the demand for coal [1]. As demand for coal falls, the demand for coal miners falls (shifts to the left), so both the **wage and the number of miners employed fall** [1].
 **(b)** **Structural unemployment**, because it is caused by a long-term decline in an industry [1]. Policy: government-funded **retraining** so that miners gain skills for growing industries (or grants to help workers move to areas with jobs) [1].
 
-*Examiner insight (June 2024):* a good number of candidates spotted that wages fall or that the unemployment is structural, yet only a minority went on to explain why retraining is needed. Some candidates also wrongly labelled a labour-market analysis with aggregate demand and aggregate supply; use the demand for and supply of labour, the wage and the quantity of labour.
+*Examiner insight (Cambridge 9708 June 2024 examiner report, Paper 42, Question 1(c)):* most candidates drew the diagram accurately, but comments were weaker: some spotted the fall in wages or that the unemployment was structural, and few recognised the need for training. Some wrongly labelled the labour-market diagram with aggregate demand and aggregate supply; use the demand for and supply of labour, the wage and the quantity of labour.
+
+*Source for the examiner insights on this page: [Cambridge International AS & A Level Economics 9708 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/567336-june-2024-examiner-report.pdf), Paper 9708/42 section, paraphrased.*
 
 *Try the real question next:* Cambridge International AS & A Level Economics 9708, June 2024, Paper 42, Question 1(c).
 
@@ -69,7 +72,7 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **4.** When demand is price-inelastic, the quantity demanded is **not very responsive** to a change in price [1]. The tax raises the price, but the percentage fall in quantity is **smaller than the percentage rise in price**, so consumption falls only a little (though tax revenue is large) [1].
 
-*Examiner insight (June 2024):* just saying that a policy "depends on price elasticity" earned only low evaluation credit; the higher level needed an explanation of **how** elasticity changes the outcome, as in this answer.
+*Examiner insight (Cambridge 9708 June 2024 examiner report, Paper 42, Question 2):* just saying that a policy "depends on price elasticity" earned only the lower evaluation level; the higher level needed an explanation of **how** elasticity changes the outcome, as in this answer.
 
 *Try the real question next:* Cambridge International AS & A Level Economics 9708, June 2024, Paper 42, Question 2.
 

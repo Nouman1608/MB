@@ -16,6 +16,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on centred moving averages, seasonal variation, limitations of sales forecasting, correlation, cross elasticity of demand and international marketing strategy, for Cambridge AS & A Level Business (9609)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -48,21 +49,23 @@ Each question practises a skill tested in the June 2024 Paper 32. After each ans
 
 **1.** First four-quarter moving total = 30 + 44 + 52 + 38 = 164; second four-quarter moving total = 44 + 52 + 38 + 34 = 168 [1]. Eight-period moving total = 164 + 168 = 332 [1]. Centred moving average = 332 ÷ 8 = **41.5 thousand units** (41 500 units) [1].
 
-*Examiner insight (June 2024):* the centred quarterly moving average method was unfamiliar to most candidates, a large number did not attempt it, and few showed the method. Showing even one correct four-period moving total earned credit, so always write down your working.
+*Examiner insight (Cambridge 9609 June 2024 examiner report, Paper 32, Question 3(b)):* most candidates could not work out the centred quarterly moving average, many did not attempt it, and many answers gave no working. Showing even one correct four-period moving total earned credit, so always write down your working.
 
-*Try the real question next:* Cambridge International AS & A Level Business 9609, June 2024, Paper 32, Question 3.
+*Source for the examiner insights on this page: [Cambridge International AS & A Level Business 9609 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/566845-june-2024-examiner-report.pdf), Paper 9609/32 section, paraphrased.*
+
+*Try the real question next:* Cambridge International AS & A Level Business 9609, June 2024, Paper 32, Question 3(b).
 
 **2.** Seasonal variation = actual sales − trend = 22 400 − 25 600 = **−3 200 units** [1]. The negative value shows that sales in this quarter are 3 200 units below the trend, as expected for swimwear in winter [1].
 
-*Examiner insight (June 2024):* many candidates reversed the formula (trend − actual) and gave a positive answer, which could not be credited. The sign matters: a negative seasonal variation means sales are below the trend.
+*Examiner insight (Cambridge 9609 June 2024 examiner report, Paper 32, Question 3(a)):* many candidates reversed the formula (trend − actual) and gave a positive answer, which could not be credited. The sign matters: a negative seasonal variation means sales are below the trend.
 
-*Try the real question next:* Cambridge International AS & A Level Business 9609, June 2024, Paper 32, Question 3.
+*Try the real question next:* Cambridge International AS & A Level Business 9609, June 2024, Paper 32, Question 3(a).
 
 **3.** Any two from: the past may not be a good guide to the future because markets are dynamic (for example, a new competitor or a change in tastes) [1]; the method ignores qualitative factors such as consumer confidence or the weather [1]; unexpected external events can make the forecast inaccurate, and the further ahead the forecast, the less reliable it is [1]. (Maximum 2 marks.)
 
 *Mark-scheme insight (June 2024):* the limitations credited for sales forecasting included its reliance on past data, the fact that markets change, and its failure to take account of qualitative factors.
 
-*Try the real question next:* Cambridge International AS & A Level Business 9609, June 2024, Paper 32, Question 3.
+*Try the real question next:* Cambridge International AS & A Level Business 9609, June 2024, Paper 32, Question 3(c).
 
 **4.** Correlation only shows that two variables move together; it does not show cause and effect [1]. Another factor could have raised sales at the same time, for example warmer weather, a price cut or a rival café closing, so the increase may not be due to the advertising at all [1].
 

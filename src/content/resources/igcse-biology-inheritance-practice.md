@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on genes and alleles, sex determination, monohybrid crosses, sex linkage, mitosis and meiosis, and stem cells and gene expression, for Cambridge IGCSE Biology (0610)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -81,9 +82,11 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **1.** Gene: a **length of DNA that codes for a protein** [1]. Allele: an **alternative form of a gene** [1].
 
-*Examiner insight (June 2024):* Almost all candidates knew the term allele; the most common wrong answer was "genotype".
+*Examiner insight (Cambridge 0610 June 2024 examiner report, Paper 42, Question 2(d)(i)):* Almost all candidates knew the term allele; the most common wrong answer was "genotype".
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 2.
+*Source for the examiner insights on this page: [Cambridge IGCSE Biology 0610 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/520425-june-2024-examiner-report.pdf), Paper 0610/42 section, paraphrased.*
+
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 2(d)(i).
 
 **2.** **(a)** Male: **XY**; female: **XX** [1].
 
@@ -91,7 +94,7 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 *Tip:* Each pregnancy is independent: earlier children do not change the odds. A quick genetic diagram (XX × XY) makes the 50% obvious.
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 2.
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 2(d).
 
 **3.** *(Extended)* **(a)** **XʰY** [1].
 
@@ -99,9 +102,9 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **(c)** Males have **only one X chromosome**, so a single recessive allele is expressed; there is **no second X to carry a dominant allele** that would mask it [1].
 
-*Examiner insight (June 2024):* The most common wrong genotype for an affected male used the dominant allele instead of the recessive one. Check which allele causes the condition before you write the genotype.
+*Examiner insight (Cambridge 0610 June 2024 examiner report, Paper 42, Question 2(d)(ii)):* The most common wrong genotype for a colour-blind male used the dominant allele instead of the recessive one. Check which allele causes the condition before you write the genotype.
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 2.
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 2(d)(ii).
 
 **4.** **(a)** **Black** fur [1].
 
@@ -113,15 +116,15 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **5.** *(Extended)* **(a)** **Mitosis** [1]. **(b)** **Meiosis** [1]. **(c)** **Mitosis** [1]. **(d)** **Meiosis** [1]. **(e)** **Mitosis** [1]: the moss plant is already haploid, so its gametes are produced by mitosis. Meiosis only happens when a diploid cell forms haploid cells.
 
-*Examiner insight (June 2024):* Most candidates identified some of the divisions correctly, but only a minority got every one right, so check each step by asking whether the chromosome number halves (meiosis) or stays the same (mitosis).
+*Examiner insight (Cambridge 0610 June 2024 examiner report, Paper 42, Question 3(a)(i)):* Most candidates identified some of the divisions correctly, but only a minority got every one right, so check each step by asking whether the chromosome number halves (meiosis) or stays the same (mitosis).
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 3.
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 3(a)(i).
 
 **6.** *(Extended)* Stem cells are **unspecialised** cells [1] that **divide by mitosis** to produce daughter cells that can become **specialised** [1]. Every body cell contains the same genes, but in each type of cell **only some genes are expressed** (switched on) [1], so each cell type makes **different proteins**, which give it its structure and function [1].
 
-*Examiner insight (June 2024):* Many candidates thought specialised cells lack some genes, have different genes, or "make" the genes they need. The genes are all present; the difference is which ones are expressed.
+*Examiner insight (Cambridge 0610 June 2024 examiner report, Paper 42, Question 3(a)(iii)):* Many candidates thought specialised cells lack some genes, have different genes, or "make" the genes they need. The genes are all present; the difference is which ones are expressed.
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 3.
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 3(a)(iii).
 
 **7.** **(a)** Genotype: the **genetic make-up** of an organism in terms of the **alleles** present [1].
 

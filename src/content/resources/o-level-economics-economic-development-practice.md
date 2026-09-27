@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on policies to reduce poverty, absolute and relative poverty, the benefits of citizens working abroad, education and earnings, the primary sector and opportunity cost, and GDP per head as a measure of living standards, for Cambridge O Level Economics (2281)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -55,7 +56,9 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 
 **1.** Two measures, each with identification [1] and explanation [1], for example: providing unemployment or other state benefits [1], so families with no income can still buy food and other basic necessities [1]; cutting indirect taxes on basic foods [1], because these taxes take a bigger share of poor households' income, so prices of necessities fall [1]; spending more on education and training [1], which raises workers' skills, productivity and earning potential [1]; setting a maximum price on staple foods [1], keeping necessities affordable [1]; introducing or raising a minimum wage [1], raising the income of the lowest-paid workers [1].
 
-*Examiner insight (June 2024):* This skill was generally well answered, with education spending and unemployment benefit the most popular measures. To gain full marks, candidates had to spell out the link between each measure and a reduction in poverty rather than just naming it.
+*Examiner insight (Cambridge 2281 June 2024 examiner report, Paper 22, Question 2(b)):* This skill was generally well answered, with education spending and unemployment benefit the most popular measures. To gain full marks, candidates had to spell out the link between each measure and a reduction in poverty rather than just naming it.
+
+*Source for the examiner insights on this page: [Cambridge O Level Economics 2281 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/570420-june-2024-examiner-report.pdf), Paper 2281/22 section, paraphrased.*
 
 *Try the real question next:* Cambridge O Level Economics 2281, June 2024, Paper 22, Question 2(b).
 
@@ -67,13 +70,13 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 
 **3.** Two advantages, each with identification [1] and explanation [1], for example: workers send money home (remittances) [1], raising their families' incomes and reducing poverty [1]; remittances bring foreign currency into the country [1], recorded as secondary income, improving the current account of the balance of payments [1]; workers gain skills, experience and knowledge of new technology abroad [1], which they bring back, raising productivity or allowing them to set up firms that increase GDP [1]; it may reduce unemployment at home [1] where there are not enough jobs, cutting government spending on unemployment benefit [1].
 
-*Examiner insight (June 2024):* Strong answers covered remittances, the current account and the skills workers bring back. Weaker answers drifted into the general effects of net emigration, which the mark scheme did not reward — keep the focus on people working abroad.
+*Examiner insight (Cambridge 2281 June 2024 examiner report, Paper 22, Question 4(c)):* Strong answers covered remittances, the current account and the skills workers bring back. Some answers lost focus and wrote about the general effects of net emigration, so keep the focus on people working abroad.
 
 *Try the real question next:* Cambridge O Level Economics 2281, June 2024, Paper 22, Question 4(c).
 
 **4.** Logical chain, up to 4 marks, for example: fewer years of education means fewer qualifications and skills [1], so the person is less productive [1] and less likely to be promoted [1]; they are more likely to be employed in low-paid manual work [1] and easier to replace, so have less bargaining power [1]; with fewer skills they are more likely to be unemployed at times [1]; they may know less about healthy living and good healthcare, so may take more time off work through illness [1].
 
-*Examiner insight (June 2024):* Many answers simply said that less-educated people get lower-paid jobs and so earn less. Stronger answers explained why — lower productivity, higher chances of unemployment and more time off through illness.
+*Examiner insight (Cambridge 2281 June 2024 examiner report, Paper 22, Question 3(b)):* A number of answers simply said that less-educated people get lower-paid jobs and so earn less. Stronger answers explained the reasons for lower pay, for longer spells of unemployment and for more time off through illness.
 
 *Try the real question next:* Cambridge O Level Economics 2281, June 2024, Paper 22, Question 3(b).
 

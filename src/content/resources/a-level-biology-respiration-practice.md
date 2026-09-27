@@ -16,6 +16,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on how carbon dioxide leaves a mitochondrion, oxidative phosphorylation and chemiosmosis, the effects of cyanide and of an uncoupler, respiratory quotient, and anaerobic respiration in yeast, for Cambridge International AS & A Level Biology (9700)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -56,25 +57,27 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 *Mark-scheme insight (June 2024):* In the similar question, which traced oxygen in the opposite direction, credit required the route to pass through the phospholipid bilayer of both the outer and the inner membrane. Routes through membrane proteins were rejected.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 6.
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 6(a).
 
 **2.** Any six: reduced NAD **gives up hydrogen, which splits into protons (H⁺) and electrons**, at the inner mitochondrial membrane [1]; the **electrons pass along the electron transport chain (electron carriers)** [1]; **energy is released** as electrons move from carrier to carrier [1]; this energy is used to **actively transport (pump) protons from the matrix into the intermembrane space** [1]; this builds up a **high concentration of protons (a proton gradient)** in the intermembrane space [1]; **protons diffuse back into the matrix through ATP synthase** [1]; this **drives ATP synthase to make ATP from ADP and Pi** [1]; the process is called **chemiosmosis** [1]; **oxygen is the final electron acceptor**, forming water [1].
 
-*Examiner insight (June 2024):* Common errors were calling the chain "carrier proteins" or "proton pumps" instead of electron carriers, and not saying whether protons move by active transport or by diffusion. Energy is released as electrons move along the chain; it is not "produced" or "lost".
+*Examiner insight (Cambridge 9700 June 2024 examiner report, Paper 42, Question 6(b)):* Common errors were calling the chain "carrier proteins" or "proton pumps" instead of electron carriers, and not saying whether protons move by active transport or by diffusion. Energy is released as electrons move along the chain; it is not "produced" or "lost".
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 6.
+*Source for the examiner insights on this page: [Cambridge International AS & A Level Biology 9700 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/566822-june-2024-examiner-report.pdf), Paper 9700/42 section, paraphrased.*
+
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 6(b).
 
 **3.** Any four: electrons cannot leave the chain, so **electron flow along the electron transport chain stops** [1]; **no energy is released to pump protons**, so **no proton gradient** is kept up [1]; **no protons diffuse through ATP synthase**, so **no ATP is made** by oxidative phosphorylation [1]; **reduced NAD and reduced FAD are not oxidised**, so **NAD and FAD are not regenerated** [1]; the Krebs cycle (and the link reaction) **need NAD and FAD to accept hydrogen**, so they stop [1].
 
 *Tip:* When a step in a pathway is blocked, trace the effect in both directions: what cannot be made after the block, and what cannot be recycled before it.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 6.
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 6(b).
 
 **4.** Any three: protons **leak back into the matrix without passing through ATP synthase** [1]; so the **proton gradient is reduced** and **less ATP is made** [1]; the electron transport chain keeps running (oxygen is still used), but the **energy released is lost as heat** [1]; so the **temperature of the cell rises** [1].
 
 *Tip:* ATP synthase makes ATP only when protons flow through it. Any route that lets protons bypass it wastes the gradient.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 6.
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 6(b).
 
 **5.** RQ = CO₂ given out ÷ O₂ taken in = 3.4 ÷ 4.8 = **0.71** [1]. An RQ of about 0.7 suggests the substrate is **lipid** [1].
 

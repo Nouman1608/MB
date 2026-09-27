@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on asexual and sexual reproduction, the female reproductive system, gametes, the amniotic sac, the placenta and the advantages of sexual reproduction, for Cambridge IGCSE Biology (0610)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -67,9 +68,11 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **(b)** Any two of: **gametes are formed** (pollen nuclei and egg cells) [1]; **pollination** [1]; **fertilisation**, the **fusion of the nuclei** of a male and a female gamete to form a zygote [1]. Max [2].
 
-*Examiner insight (June 2024):* Some candidates described fertilisation as the fusion of the gametes themselves (eggs and sperm) rather than the fusion of their nuclei. Always say nuclei.
+*Examiner insight (Cambridge 0610 June 2024 examiner report, Paper 42, Question 3(b)):* Some candidates described fertilisation as the fusion of the gametes themselves (eggs and sperm) rather than the fusion of their nuclei. Always say nuclei.
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 3.
+*Source for the examiner insights on this page: [Cambridge IGCSE Biology 0610 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/520425-june-2024-examiner-report.pdf), Paper 0610/42 section, paraphrased.*
+
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 3(b).
 
 **2.** **(a)** Ovary: **produces egg cells** (female gametes) and releases oestrogen [1].
 
@@ -79,27 +82,27 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **(d)** Cervix: a ring of muscle at the base of the uterus that **keeps the fetus in place** during pregnancy and **dilates during birth** [1].
 
-*Examiner insight (June 2024):* Answers on the cervix were often vague, and some said the ovary makes "ovules", which are plant structures. Use "egg cells" or "female gametes" for humans.
+*Examiner insight (Cambridge 0610 June 2024 examiner report, Paper 42, Question 5(c)):* Answers on the cervix were often vague, and a few said the ovary makes "ovules", which are plant structures. Use "egg cells" or "female gametes" for humans.
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 5.
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 5(c).
 
 **3.** Any two of: **protects the fetus from mechanical shock** (bumps) [1]; **supports** the fetus [1]; helps **keep the temperature** of the fetus steady [1]; allows the fetus to **move** [1]. Max [2].
 
-*Examiner insight (June 2024):* Many candidates wrote just "protection", which needed qualifying, for example as protection from mechanical shock, especially as some thought the fluid gives immunity. Some also mixed up the jobs of the placenta and the amniotic sac.
+*Examiner insight (Cambridge 0610 June 2024 examiner report, Paper 42, Question 5(d)(ii)):* Many candidates wrote just "protection", which needed qualifying, for example as protection from mechanical shock, especially as some thought the fluid gives immunity. A few also mixed up the jobs of the placenta and the amniotic sac.
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 5.
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 5(d)(ii).
 
 **4.** *(Extended)* **Oxygen and dissolved nutrients** (such as glucose and amino acids) pass **from the mother's blood to the fetus's blood** [1]. **Carbon dioxide and urea** (excretory products) pass **from the fetus to the mother** [1]. These substances move by **diffusion** across the placenta, and the umbilical cord carries fetal blood between the fetus and the placenta [1]. The placenta keeps the **two blood supplies separate** and acts as a **barrier** to many toxins and pathogens [1].
 
-*Examiner insight (June 2024):* Some candidates did not state the direction of exchange for nutrients and wastes, or wrote "food" instead of "nutrients". Naming specific nutrients was a good habit.
+*Examiner insight (Cambridge 0610 June 2024 examiner report, Paper 42, Question 5(d)(i)):* A few candidates did not state the direction of exchange for nutrients and wastes, or wrote "food" instead of "nutrients". Many named specific nutrients, which is a good habit.
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 5.
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 5(d)(i).
 
 **5.** *(Extended)* Sexual reproduction produces **genetic variation** in the offspring [1]. Some rabbits may have **combinations of alleles** that make them **resistant** to the new disease, so they **survive and reproduce** [1]. The population can therefore **adapt** by natural selection to a **changing environment**, so it is **less likely to become extinct** [1].
 
-*Examiner insight (June 2024):* Most candidates knew that sexual reproduction gives variation, but fewer developed further points in enough detail. Take the idea on to survival, adaptation and a named change in the environment.
+*Examiner insight (Cambridge 0610 June 2024 examiner report, Paper 42, Question 5(b)):* Most candidates knew that sexual reproduction gives variation, but fewer developed further points in enough detail. Take the idea on to survival, adaptation and a named change in the environment.
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 5.
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 5(b).
 
 **6.** *(Extended)* **(a)** Sperm cell: **23** [1]; zygote: **46** [1].
 
@@ -107,7 +110,7 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 *Tip:* Haploid means one set of chromosomes (23 in humans); diploid means two sets (46). Meiosis halves the number; fertilisation restores it.
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 3.
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 3(a).
 
 **7.** Any two feature-and-explanation pairs: **flagellum** [1], which lets the sperm **swim** towards the egg [1]; many **mitochondria** [1], which **release energy by respiration** for swimming [1]; **enzymes in the acrosome** [1], which **digest the jelly coat** of the egg so the sperm nucleus can enter [1]. Max [4].
 

@@ -16,6 +16,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on total quality management, quality assurance, kaizen, critical path analysis, location decisions and diseconomies of scale, for Cambridge AS & A Level Business (9609)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -50,7 +51,9 @@ Each question practises a skill tested in the June 2024 Paper 32. After each ans
 
 **1.** TQM is an approach to quality in which every employee, in every part of the business, takes responsibility for quality, aiming to get things right first time and achieve zero defects [1]. One problem is the cost of training staff to check their own work [1], which may be high where many workers are unskilled or on short-term contracts, so each new group has to be trained [1]. (Other valid problems: resistance from staff given extra responsibility, the need to change the culture of the business, a short-term dip in productivity while changes bed in, or the cost of making quality inspectors redundant.)
 
-*Examiner insight (June 2024):* many candidates wrongly said a business using TQM would need to hire more quality inspectors. TQM puts workers themselves in charge of quality, so it reduces the need for inspectors; answers without this understanding scored poorly.
+*Examiner insight (Cambridge 9609 June 2024 examiner report, Paper 32, Question 2):* many candidates wrongly said a business using TQM would need to hire more quality inspectors. TQM makes workers themselves responsible for quality, so it replaces the need for inspectors; without this understanding, marks were limited.
+
+*Source for the examiner insights on this page: [Cambridge International AS & A Level Business 9609 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/566845-june-2024-examiner-report.pdf), Paper 9609/32 section, paraphrased.*
 
 *Try the real question next:* Cambridge International AS & A Level Business 9609, June 2024, Paper 32, Question 2.
 

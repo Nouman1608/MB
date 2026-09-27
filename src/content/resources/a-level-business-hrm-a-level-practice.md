@@ -16,6 +16,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on flexible employment contracts, core and peripheral workers, hard and soft HRM, management by objectives, matrix structures and emotional intelligence, for Cambridge AS & A Level Business (9609)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -50,7 +51,9 @@ Each question practises a skill tested in the June 2024 Paper 32. After each ans
 
 **1.** A zero-hour contract is an employment contract with no guaranteed minimum number of hours; the employee works only when the business needs them [1]. One advantage is that the business pays wages only when there is work to do [1], so labour costs rise and fall with demand, which helps keep unit costs and prices competitive when trade is slow [1].
 
-*Examiner insight (June 2024):* definitions needed to go further than just naming contract types; for example, stating that a zero-hour contract gives no guaranteed hours. Advantages to employees, such as a better work-life balance, were only credited when linked to a benefit for the business, such as higher productivity.
+*Examiner insight (Cambridge 9609 June 2024 examiner report, Paper 32, Question 1):* definitions needed to go further than the contract types named in the case; for example, stating that a zero-hour contract gives no guaranteed hours. Advantages to employees, such as a better work-life balance, were only credited when linked to a benefit for the business, such as higher productivity.
+
+*Source for the examiner insights on this page: [Cambridge International AS & A Level Business 9609 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/566845-june-2024-examiner-report.pdf), Paper 9609/32 section, paraphrased.*
 
 *Try the real question next:* Cambridge International AS & A Level Business 9609, June 2024, Paper 32, Question 1.
 
@@ -62,7 +65,7 @@ Each question practises a skill tested in the June 2024 Paper 32. After each ans
 
 **3.** Temporary contracts let the theme park take on staff only for the busy summer months [1], so it avoids paying wages to extra workers in winter when there are few visitors [1]. This keeps labour costs in line with seasonal demand, lowering costs over the year and protecting profit [1]. (Also valid: the park can judge temporary workers' performance before offering any of them permanent jobs.)
 
-*Examiner insight (June 2024):* the best answers linked flexible contracts directly to seasonal demand for labour in the business's own situation, and then developed a chain of reasoning to lower costs and higher profit or more competitive prices. Only advantages were needed, so time spent on drawbacks earned nothing.
+*Examiner insight (Cambridge 9609 June 2024 examiner report, Paper 32, Question 1):* the best answers linked flexible contracts directly to the business's seasonal demand for labour, then developed a chain of reasoning to lower unit costs and higher profit or more competitive prices. Only advantages were asked for, so time spent on limitations earned nothing.
 
 *Try the real question next:* Cambridge International AS & A Level Business 9609, June 2024, Paper 32, Question 1.
 

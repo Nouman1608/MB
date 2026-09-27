@@ -16,6 +16,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on globalisation, GNI per head and the standard of living, foreign direct investment, transfer pricing, exchange-rate calculations and the Marshall–Lerner condition, for Cambridge International AS & A Level Economics (9708)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -65,7 +66,9 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **3.** **Short run:** the investment is an **injection** that raises aggregate demand, creating jobs and incomes, with a multiplier effect on national income (**actual growth**) [1]. **Long run:** the new capital, technology and training **increase productive capacity** (potential growth, aggregate supply shifts right) [1]. Higher real incomes and employment raise **real GNI per head**, and tax revenue can fund health and education, improving the standard of living [1].
 
-*Examiner insight (June 2024):* the better answers analysed both actual and potential growth; weaker answers did not carry the analysis through to incomes and the standard of living.
+*Examiner insight (Cambridge 9708 June 2024 examiner report, Paper 42, Question 5):* the better answers analysed both actual and potential growth; weaker answers did not carry the analysis through to incomes and the standard of living.
+
+*Source for the examiner insights on this page: [Cambridge International AS & A Level Economics 9708 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/567336-june-2024-examiner-report.pdf), Paper 9708/42 section, paraphrased.*
 
 *Try the real question next:* Cambridge International AS & A Level Economics 9708, June 2024, Paper 42, Question 5.
 
