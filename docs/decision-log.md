@@ -14306,3 +14306,17 @@ The D-149 principle (no pop-ups or interstitials, and the material stays free) i
 - No diagnostic set added.
 
 **Needs academic review:** see section 10 of the report.
+
+---
+
+## D-341 - Search links with ?q= now run the search (2026-09-25)
+
+**Why:** audit finding (25 Sep): a shared or bookmarked link such as `/search/?q=electrolysis` opened an empty search, because Pagefind's UI ignores the query string. The owner asked for the links to be fixed.
+
+| Change | Files |
+|---|---|
+| On load, `?q=` (trimmed, max 200 characters) is passed to Pagefind's `triggerSearch`, so the box is filled and results appear. While typing, the address bar keeps `?q=` in step (debounced `history.replaceState`, so the back button is not flooded); clearing the box removes it. | `src/pages/search/index.astro` |
+
+**Verified (headless Chromium against the build):** `/search/?q=electrolysis` fills the box and shows "32 results for electrolysis"; typing "titration" changes the URL to `?q=titration`; clearing returns to `/search/`; `/search/` alone still opens empty; no script errors. The search page stays `noindex`.
+
+*Renumbered from D-335 (25 Sep) and D-337 (27 Sep 2026): those numbers were taken by changes merged first.*
