@@ -16,6 +16,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on accounting rate of return, payback, net present value, efficiency ratios and investor ratios, for Cambridge AS & A Level Business (9609)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -52,9 +53,11 @@ Each question practises a skill tested in the June 2024 Paper 32. After each ans
 
 **1.** Total profit = total net cash inflows − capital cost = (200 000 + 220 000 + 240 000 + 260 000) − 600 000 = $320 000 [1]. Average annual profit = 320 000 ÷ 4 = $80 000 [1]. Average investment = (capital cost + residual value) ÷ 2 = (600 000 + 80 000) ÷ 2 = $340 000 [1]. ARR = average annual profit ÷ average investment × 100 = 80 000 ÷ 340 000 × 100 = **23.5%** [1].
 
-*Examiner insight (June 2024):* the most common error was dividing by the capital cost instead of the average investment, and some candidates took the residual value away from the capital cost instead of adding the two together. Clear working still earned method marks when the final answer was wrong.
+*Examiner insight (Cambridge 9609 June 2024 examiner report, Paper 32, Question 4(a)):* the most common error was dividing by the capital cost instead of the average investment, and some candidates took the residual value away from the capital cost instead of adding the two together. Clear working still earned method marks when the final answer was wrong.
 
-*Try the real question next:* Cambridge International AS & A Level Business 9609, June 2024, Paper 32, Question 4.
+*Source for the examiner insights on this page: [Cambridge International AS & A Level Business 9609 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/566845-june-2024-examiner-report.pdf), Paper 9609/32 section, paraphrased.*
+
+*Try the real question next:* Cambridge International AS & A Level Business 9609, June 2024, Paper 32, Question 4(a).
 
 **2.** Cumulative net cash flow: end of Year 1 = $40 000, end of Year 2 = $90 000, end of Year 3 = $135 000 [1]. Still needed in Year 4 = 150 000 − 135 000 = $15 000, which is 15 000 ÷ 60 000 = 0.25 of a year = 3 months [1]. Payback period = **3 years 3 months** [1].
 
@@ -74,9 +77,9 @@ Each question practises a skill tested in the June 2024 Paper 32. After each ans
 
 **6.** Yes: 23.5% is above the 20% criterion rate, so the spa **meets the criterion rate** [1]. One other factor is the reliability of the forecasts: the ARR depends on predicted cash flows [1], and if demand for spa treatments turns out lower than expected, for example because of a new competitor nearby, the actual return could fall below 20% [1]. (Other valid factors: fit with the group's objectives and brand, impact on staff and customers, or the opportunity cost of other projects.)
 
-*Examiner insight (June 2024):* stronger answers on whether to go ahead with an investment used the ARR they had calculated and compared it with the business's criterion rate, then balanced this against other factors rather than giving a one-sided answer.
+*Examiner insight (Cambridge 9609 June 2024 examiner report, Paper 32, Question 4(b)):* good answers used the ARR they had calculated and noted that it was above the business's criterion rate; many answers were one-sided, and better ones balanced this against drawbacks such as the capital cost.
 
-*Try the real question next:* Cambridge International AS & A Level Business 9609, June 2024, Paper 32, Question 4.
+*Try the real question next:* Cambridge International AS & A Level Business 9609, June 2024, Paper 32, Question 4(b).
 
 ---
 

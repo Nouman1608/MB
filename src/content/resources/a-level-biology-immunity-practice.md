@@ -16,6 +16,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on phagocytosis, a live attenuated oral vaccine, memory cells and long-term immunity, types of immunity, T-helper cells and antibody structure, for Cambridge International AS & A Level Biology (9700)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -62,21 +63,23 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 
 **(b)** **Lysosomes** [1].
 
-*Examiner insight (June 2024):* Full credit needed an event before or after engulfing, such as receptor binding or the membrane fusing. Repeating that the cell "detected" the bacteria was not enough, because the question already said so. Events after the vacuole formed, or accounts of lymphocytes, gained nothing. "Lysosome" had to be spelled correctly.
+*Examiner insight (Cambridge 9700 June 2024 examiner report, Paper 22, Question 2(b)):* Full credit needed an event before or after engulfing, such as receptor binding or the membrane fusing. Repeating that the cell "detected" the bacteria was not enough, because the question already said so. Events after the vacuole formed, or accounts of lymphocytes, gained nothing. "Lysosome" had to be spelled correctly.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 22, Question 2.
+*Source for the examiner insights on this page: [Cambridge International AS & A Level Biology 9700 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/566822-june-2024-examiner-report.pdf), Paper 9700/22 section, paraphrased.*
+
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 22, Question 2(b).
 
 **2.** Any four: the live viruses **replicate in the body**, so there is a **large amount of non-self antigen** [1]; this gives a **strong primary immune response**, making **many memory cells** [1]; this is **artificial active immunity**, which is long-lasting [1]; because the strain is weakened, it **almost never causes the disease** [1]; the vaccine **stimulates an immune response in the gut, where poliovirus enters**, so the virus can be stopped before it spreads through the body [1]; giving it by mouth needs **no needles or specially trained staff**, so it is **quick, cheap and easy to give to large numbers of people** (and avoids fear of injections) [1].
 
-*Examiner insight (June 2024):* In the related question on a live vaccine, some answers described the benefits of a vaccination programme instead of the stated features of the vaccine itself. Good answers explained that memory cells are made during the primary response, and did not just say the body "has memory cells".
+*Examiner insight (Cambridge 9700 June 2024 examiner report, Paper 22, Question 2(c)):* In the question on a live vaccine, some answers described the advantages of a vaccination programme instead of the stated features of the vaccine itself. Good answers explained that memory cells are made during the primary response, and did not just say the body "has memory cells".
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 22, Question 2.
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 22, Question 2(c).
 
 **3.** The vaccine caused a primary immune response that produced **memory cells (memory B- and T-lymphocytes)**, which **stay in the body for many years** after the antibodies have gone [1]. When the pathogen enters, memory cells recognise its antigen and cause a **secondary immune response**, which is **faster and larger** [1]. **Plasma cells** quickly make **large amounts of antibody**, so the pathogen is destroyed **before it can cause symptoms** [1].
 
-*Examiner insight (June 2024):* Examiners wanted precise terms, not phrases such as memory cells "remembering" or "fighting" the infection. Some answers wrongly treated antibodies as memory cells, or said antibodies stay in the blood ready for a later infection.
+*Examiner insight (Cambridge 9700 June 2024 examiner report, Paper 22, Question 2(c)):* Examiners wanted precise terms, not phrases such as memory cells "remembering" or "fighting" the infection. Some answers wrongly treated antibodies as memory cells, or said antibodies stay in the blood ready for a later infection.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 22, Question 2.
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 22, Question 2(c).
 
 **4.** **(a)** **Natural passive** [1].
 
@@ -88,7 +91,7 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 
 *Mark-scheme insight (June 2024):* A vaccine was credited as giving artificial active immunity, and "natural active" was rejected. Being given antibodies is passive; making your own antibodies is active.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 22, Question 2.
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 22, Question 2(c).
 
 **5.** HIV **infects and destroys T-helper lymphocytes** [1]. T-helper cells normally release **cytokines that stimulate B-lymphocytes** with the matching receptor to divide and **become plasma cells** [1]. With few T-helper cells, **fewer B-lymphocytes are activated**, so **fewer plasma cells form and less antibody is made** [1].
 

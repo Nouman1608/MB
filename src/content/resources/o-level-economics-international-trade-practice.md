@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on calculating the current account balance, remittances as secondary income, how an appreciation changes export and import prices, total demand and the economy, and the effects of multinational companies, for Cambridge O Level Economics (2281)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -51,7 +52,9 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 
 **1.** Current account balance = trade in goods and services + primary income + secondary income = −5.2 + 0.9 + 1.5 = **−$2.8 billion** [1]. This is a **deficit** [1].
 
-*Examiner insight (June 2024):* Some candidates left the current account calculation out, a few saying they had no calculator. A calculator may be used in this paper, so bring one and attempt every calculation.
+*Examiner insight (Cambridge 2281 June 2024 examiner report, Paper 22, Question 1(a)):* Some candidates left the current account calculation out, a few saying they had no calculator. A calculator may be used in this paper, so bring one and attempt every calculation.
+
+*Source for the examiner insights on this page: [Cambridge O Level Economics 2281 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/570420-june-2024-examiner-report.pdf), Paper 2281/22 section, paraphrased.*
 
 *Try the real question next:* Cambridge O Level Economics 2281, June 2024, Paper 22, Question 1(a).
 
@@ -65,13 +68,13 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 
 **(b)** Before: $300 ÷ $0.40 = 750 kora; after: $300 ÷ $0.50 = 600 kora [1]. The laptop's price in kora **falls** by 150 kora, so imports become cheaper for domestic buyers [1].
 
-*Examiner insight (June 2024):* A small number of candidates confused how a rise in the currency's value affects export and import prices. Remember: when a currency appreciates, its exports become dearer abroad and its imports become cheaper at home.
+*Examiner insight (Cambridge 2281 June 2024 examiner report, Paper 22, Question 1(h)):* A small number of candidates confused how a rise in the currency's value affects export and import prices. Remember: when a currency appreciates, its exports become dearer abroad and its imports become cheaper at home.
 
 *Try the real question next:* Cambridge O Level Economics 2281, June 2024, Paper 22, Question 1(h).
 
 **4.** A rise in the currency's value makes exports more expensive abroad, so demand for exports may fall [1]. It makes imports cheaper, so households and firms may switch spending from domestic products to imports [1]. Net exports (exports minus imports) fall, and because net exports are part of total demand, total demand in the country falls [1].
 
-*Examiner insight (June 2024):* A number of candidates wrongly thought that more spending on imports would raise total demand in the country. Spending on imports leaves the economy, so it reduces total demand for domestic output.
+*Examiner insight (Cambridge 2281 June 2024 examiner report, Paper 22, Question 1(h)):* A number of candidates wrongly thought that more spending on imports would raise total demand in the country. Spending on imports leaves the economy, so it reduces total demand for domestic output.
 
 *Try the real question next:* Cambridge O Level Economics 2281, June 2024, Paper 22, Question 1(h).
 

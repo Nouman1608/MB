@@ -16,6 +16,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on marginal utility, internal economies of scale, minimum efficient scale, supernormal profit in perfect competition and monopoly, and allocative and productive efficiency, for Cambridge International AS & A Level Economics (9708)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -52,20 +53,22 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **1.** Internal economies of scale are the fall in **long-run average cost** [1] that a firm gains as it increases its **own scale of output** [1]. Example: buying flour in bulk at a lower price per kilogram is a **purchasing (bulk-buying) economy**, or the large automated ovens are a **technical economy** [1].
 
-*Examiner insight (June 2024):* most candidates did well on this skill; marks were lost by leaving out that the costs are *average* costs and that it is a *long-run* idea.
+*Examiner insight (Cambridge 9708 June 2024 examiner report, Paper 42, Question 1(a)):* many candidates scored full marks; the main errors were leaving out that the costs are *average* costs and that it is a *long-run* idea.
+
+*Source for the examiner insights on this page: [Cambridge International AS & A Level Economics 9708 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/567336-june-2024-examiner-report.pdf), Paper 9708/42 section, paraphrased.*
 
 *Try the real question next:* Cambridge International AS & A Level Economics 9708, June 2024, Paper 42, Question 1(a).
 
 **2.** Minimum efficient scale is the **lowest level of output at which long-run average cost stops falling** (the first output at the minimum of the LRAC curve) [1]. For this firm, LRAC falls from $64 to $51 to $46, then stays at $46 [1], so the minimum efficient scale is **8,000 panels per week** [1]. Beyond this, extra output brings no further fall in average cost.
 
-*Examiner insight (June 2024):* very few candidates had a clear idea of what minimum efficient scale means, even though many could read cost data correctly. Learn the definition as well as how to apply it.
+*Examiner insight (Cambridge 9708 June 2024 examiner report, Paper 42, Question 1(b)):* very few candidates had a clear idea of what minimum efficient scale means, even though many could apply the idea to the cost data. Learn the definition as well as how to apply it.
 
 *Try the real question next:* Cambridge International AS & A Level Economics 9708, June 2024, Paper 42, Question 1(b).
 
 **3.** **(a)** Supernormal profit = (price − ATC) × output = ($12 − $10) × 500 [1] = **$1,000** [1].
 **(b)** There are no barriers to entry, so the supernormal profit attracts **new firms into the industry** [1]. Market supply rises and the price falls until price equals minimum average cost, so each firm earns only **normal profit** in the long run [1].
 
-*Examiner insight (June 2024):* the better answers explained how the entry of new firms lowers the price and removes excess profit; some candidates showed only the starting position and never reached the long run.
+*Examiner insight (Cambridge 9708 June 2024 examiner report, Paper 42, Question 3):* the better answers explained how the entry of new firms lowers the price and removes excess profit; some candidates showed only the starting position and never reached the long run.
 
 *Try the real question next:* Cambridge International AS & A Level Economics 9708, June 2024, Paper 42, Question 3.
 

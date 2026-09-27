@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on flow and batch production, factory location, labour productivity and break-even analysis, for Cambridge O Level Business Studies (7115)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -52,23 +53,25 @@ Each question practises a skill tested in the June 2024 Paper 12. After each ans
 **1. (a)** The company can benefit from **economies of scale** [1], because it produces very large quantities, which **lowers the average (unit) cost** of each bottle [1]. (Also credit: production is **capital intensive**, so labour costs are lower; or it can run **continuously**.)
 **(b)** Production is **inflexible** — it is hard to change the product [1], so the company may be unable to meet customers who want different sizes or designs of bottle [1]. (Also credit: **repetitive work demotivates workers**, raising absenteeism or labour turnover; or **one machine breaking down stops the whole line**, delaying output.)
 
-*Mark-scheme insight (June 2024):* Economies of scale were only developed if the answer said they lower unit or average costs — "lowers costs" on its own was not enough. The examiner report added that high output does not automatically mean high sales.
+*Examiner insight (Cambridge 7115 June 2024 examiner report, Paper 12, Question 4(e)):* A common misconception was that economies of scale simply "lower costs"; they lower average (unit) costs. High output also does not automatically mean high sales.
+
+*Source for the examiner insights on this page: [Cambridge O Level Business Studies 7115 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/570360-june-2024-examiner-report.pdf), Paper 7115/12 section, paraphrased.*
 
 *Try the real question next:* Cambridge O Level Business Studies 7115, June 2024, Paper 12, Question 4(e).
 
 **2.** Batch production is making **a group of identical products together, then moving on to a different group** [1]. Example: **loaves of bread, batches of biscuits, or a run of T-shirts in one colour** [1].
 
-*Examiner insight (June 2024):* Several candidates writing about flow production confused it with batch or job production. Learn a clear definition of each so you can tell them apart.
+*Examiner insight (Cambridge 7115 June 2024 examiner report, Paper 12, Question 4(e)):* Several candidates writing about flow production confused it with batch or job production. Learn a clear definition of each so you can tell them apart.
 
 **3.** The **distance from suppliers** matters [1]: timber is heavy and bulky, so being close to timber suppliers [1] would **reduce transport costs and let materials arrive more quickly**, helping keep production on time [1].
 
-*Examiner insight (June 2024):* The most common credited answer was distance, developed into its effect on transport costs. A frequent mistake was simply defining what a supplier is instead of explaining why suppliers affect the location decision.
+*Examiner insight (Cambridge 7115 June 2024 examiner report, Paper 12, Question 4(d)):* The most common credited answer was distance, developed into its effect on transport costs. A frequent mistake was simply defining what a supplier is instead of explaining why suppliers affect the location decision.
 
 *Try the real question next:* Cambridge O Level Business Studies 7115, June 2024, Paper 12, Question 4(d).
 
 **4.** The site must have a **reliable supply of water and electricity** [1], because a bottling plant needs large volumes of water for its drinks and power for its machines [1]; without them **production would stop** [1]. (Also credit: **enough space** for the plant and future expansion; the **cost of the land or rent**, which raises fixed costs; **good transport links** for deliveries.)
 
-*Examiner insight (June 2024):* Good answers mentioned factors such as rent, space or electricity and their effect on costs or production. Saying the land "needs to be suitable" with no development gained nothing, and points about being near customers were not credited, because that matters little when choosing where a manufacturer should locate.
+*Examiner insight (Cambridge 7115 June 2024 examiner report, Paper 12, Question 4(d)):* Good answers mentioned factors such as rent, space or electricity and their effect on costs or production. Saying the land "needs to be suitable" with no development gained nothing, and points about access to customers were not credited, because this is not a significant factor for a manufacturer.
 
 *Try the real question next:* Cambridge O Level Business Studies 7115, June 2024, Paper 12, Question 4(d).
 

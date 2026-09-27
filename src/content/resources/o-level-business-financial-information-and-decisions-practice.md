@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on return on capital employed, gross profit margin, the current ratio, improving profit margin, users of accounts and cash-flow forecasts, for Cambridge O Level Business Studies (7115)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -49,7 +50,9 @@ Each question practises a skill tested in the June 2024 Paper 12. After each ans
 
 **1.** ROCE = (profit ÷ capital employed) × 100 = (84 000 ÷ 560 000) × 100 [1] = **15%** [1].
 
-*Examiner insight (June 2024):* A common mistake was dividing revenue, rather than profit, by capital employed. The mark scheme gave full marks only if the answer was shown as a percentage, and leaving out the % sign suggested weak understanding.
+*Examiner insight (Cambridge 7115 June 2024 examiner report, Paper 12, Question 2(b)):* A common mistake was using revenue instead of profit. Some candidates left out the % sign, which the examiners said suggests limited understanding of the concept.
+
+*Source for the examiner insights on this page: [Cambridge O Level Business Studies 7115 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/570360-june-2024-examiner-report.pdf), Paper 7115/12 section, paraphrased.*
 
 *Try the real question next:* Cambridge O Level Business Studies 7115, June 2024, Paper 12, Question 2(b).
 
@@ -59,7 +62,7 @@ Each question practises a skill tested in the June 2024 Paper 12. After each ans
 
 **3.** Any two, each with a link to the salons: **raise prices** [1], for example charging more for haircuts or colouring treatments, so each sale earns more profit [1]; **reduce variable costs** [1], for example buying shampoo and hair dye in bulk from a cheaper supplier [1]; **reduce fixed costs** [1], for example negotiating lower rent for one of the two salons [1].
 
-*Examiner insight (June 2024):* The most common error was giving ways to increase sales, which does not by itself raise the profit margin. Some candidates also mixed up price and cost — they are different concepts, so use the right word.
+*Examiner insight (Cambridge 7115 June 2024 examiner report, Paper 12, Question 2(c)):* The most common error was giving ways to increase sales, which does not by itself raise the profit margin. Some candidates also mixed up price and cost — they are different concepts, so use the right word.
 
 *Try the real question next:* Cambridge O Level Business Studies 7115, June 2024, Paper 12, Question 2(c).
 
@@ -70,7 +73,7 @@ Each question practises a skill tested in the June 2024 Paper 12. After each ans
 
 **5.** Any two users, 2 marks each: **Banks** [1] — want to know whether the business makes enough profit to **repay a loan and its interest** before lending [1]. **Suppliers** [1] — want to check the business's **liquidity** so they know it can pay for goods bought on credit [1]. **Government** [1] — wants to check **profit so the correct amount of tax is paid** [1].
 
-*Examiner insight (June 2024):* Credited answers explained how groups such as banks, suppliers or government use the accounts; naming shareholders was the most frequent answer that did not earn credit. Some candidates misread the question and wrote about sources of finance instead.
+*Examiner insight (Cambridge 7115 June 2024 examiner report, Paper 12, Question 2(e)):* Better answers explained how external users such as banks, suppliers or governments use the accounts; shareholders was the most common incorrect answer. Some candidates misread the question and wrote about sources of finance instead.
 
 *Try the real question next:* Cambridge O Level Business Studies 7115, June 2024, Paper 12, Question 2(e).
 

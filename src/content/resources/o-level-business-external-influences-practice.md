@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on import quotas, tax rates, external costs and benefits, pressure groups, exchange rates and interest rates, for Cambridge O Level Business Studies (7115)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -55,19 +56,21 @@ Each question practises a skill tested in the June 2024 Paper 12. After each ans
 
 **2.** Any two: **more profit is retained** after tax [1]; **more money available for investment or expansion** [1]; **lower cash outflows** [1]; **higher profit margin** after tax [1].
 
-*Examiner insight (June 2024):* Many candidates just repeated the question by saying the business pays less tax. Others confused tax with interest rates, or assumed lower taxes mean employees are paid more, which does not necessarily follow.
+*Examiner insight (Cambridge 7115 June 2024 examiner report, Paper 12, Question 4(b)):* A common mistake was to repeat the question by saying the business pays less tax. Others confused tax with interest rates, or assumed lower taxes mean employees are paid more, which does not necessarily follow.
+
+*Source for the examiner insights on this page: [Cambridge O Level Business Studies 7115 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/570360-june-2024-examiner-report.pdf), Paper 7115/12 section, paraphrased.*
 
 *Try the real question next:* Cambridge O Level Business Studies 7115, June 2024, Paper 12, Question 4(b).
 
 **3. External cost:** **dust and air pollution** [1] from making cement, which could harm the health of people living in the town [1] (also credit: extra lorry traffic and congestion; loss of green land). **External benefit:** **new jobs for local people** [1], reducing unemployment in the town [1] (also credit: better roads built to serve the factory; taxes paid to the government).
 
-*Examiner insight (June 2024):* Most candidates knew external costs but many struggled with an external benefit. Simply saying the business provides its product (here, cement) is not an external benefit, and costs or benefits to the business itself are not external.
+*Examiner insight (Cambridge 7115 June 2024 examiner report, Paper 12, Question 3(c)):* Most candidates knew external costs but many struggled with an external benefit. Simply saying the business provides its product (here, cement) is not an external benefit, and costs or benefits to the business itself are not external.
 
 *Try the real question next:* Cambridge O Level Business Studies 7115, June 2024, Paper 12, Question 3(c).
 
 **4.** The pressure group could **organise a consumer boycott** [1], urging shoppers not to buy from the retailer [1], which would **reduce its sales and revenue**, putting pressure on it to sell longer-lasting clothes [1]. (Also credit: **protests or publicity campaigns** that damage the retailer's reputation; **lobbying the government** to change the law.)
 
-*Examiner insight (June 2024):* Some answers only repeated the word "pressure" without saying how the influence would happen, and some explained why a group wants to influence a business instead of how it does so.
+*Examiner insight (Cambridge 7115 June 2024 examiner report, Paper 12, Question 3(e)):* Some answers only repeated the word "pressure" without saying how the influence would happen, and some explained why a group wants to influence a business instead of how it does so.
 
 *Try the real question next:* Cambridge O Level Business Studies 7115, June 2024, Paper 12, Question 3(e).
 

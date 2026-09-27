@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on mineral ions, uses of carbohydrates, the photosynthesis equation, hydrogencarbonate indicator experiments and limiting factors, for Cambridge IGCSE Biology (0610)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -69,9 +70,11 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **(b)** **Nitrate** (ions) [1].
 
-*Examiner insight (June 2024):* Magnesium was the usual correct answer for making chlorophyll, but "nitrogen" was a common wrong answer. Learn the pairs: magnesium for chlorophyll, nitrate for amino acids.
+*Examiner insight (Cambridge 0610 June 2024 examiner report, Paper 42, Question 4(a)):* Magnesium was the usual correct answer for making chlorophyll, but "nitrogen" was a common wrong answer. Learn the pairs: magnesium for chlorophyll, nitrate for amino acids.
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 4.
+*Source for the examiner insights on this page: [Cambridge IGCSE Biology 0610 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/520425-june-2024-examiner-report.pdf), Paper 0610/42 section, paraphrased.*
+
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 4(a).
 
 **2.** *(Extended)* **6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂** [1 for correct formulae, 1 for correct balancing]. Light and chlorophyll can be written above the arrow. Check: 6 C, 12 H and 18 O on each side.
 
@@ -83,17 +86,17 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **(c)** It is a **control**: it shows that the colour change is caused by the **pondweed**, not by the light or the indicator itself [1].
 
-*Examiner insight (June 2024):* In a similar two-tube algae investigation, a considerable number of candidates did not mention respiration at all, wrote about oxygen instead of carbon dioxide, or got the direction of the pH change the wrong way round. Plants respire in the light and the dark; link carbon dioxide to acidity every time.
+*Examiner insight (Cambridge 0610 June 2024 examiner report, Paper 42, Question 4(b)(i)):* In a similar two-tube algae investigation, a considerable number of candidates did not mention respiration at all, wrote about oxygen instead of carbon dioxide, or got the direction of the pH change the wrong way round. Plants respire in the light and the dark; link carbon dioxide to acidity every time.
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 4.
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 4(b)(i).
 
 **4.** *(Extended)* **(a)** **Light intensity** [1].
 
 **(b)** Any two of: **carbon dioxide concentration** [1]; **temperature** [1]; amount of **chlorophyll** / number of **chloroplasts** [1]. Max [2].
 
-*Examiner insight (June 2024):* Many candidates named more than one limiting factor on the rising part of the curve, or said light intensity was still limiting on the flat part. Others were too vague when suggesting carbon dioxide as a limiting factor, so always write carbon dioxide concentration.
+*Examiner insight (Cambridge 0610 June 2024 examiner report, Paper 42, Question 4(b)(ii)):* Many candidates named more than one limiting factor on the rising part of the curve, or said light intensity was still limiting on the flat part. Others were too vague when suggesting carbon dioxide as a limiting factor, so always write carbon dioxide concentration.
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 4.
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 4(b)(ii).
 
 **5.** *(Extended)* Heating to 25 °C means **temperature is no longer limiting**: the enzymes controlling photosynthesis would work slowly in cold winter air [1]. The lamps increase **light intensity** and give extra hours of light, so **light is no longer limiting** [1]. Burning the fuel raises the **carbon dioxide concentration**, so **carbon dioxide is no longer limiting** [1]. The faster rate of photosynthesis makes more carbohydrate for growth and fruit.
 
@@ -106,8 +109,6 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 **(c)** **Sucrose** [1].
 
 *Tip:* Starch is for storage, cellulose is for structure, sucrose is for transport. Glucose itself is used in respiration.
-
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 4.
 
 ---
 

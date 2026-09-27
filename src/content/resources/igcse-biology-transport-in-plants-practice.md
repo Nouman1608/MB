@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on xylem and phloem, water uptake, transpiration pull, factors affecting transpiration, and translocation from sources to sinks, for Cambridge IGCSE Biology (0610)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -61,9 +62,11 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **(b)** **Sucrose** and **amino acids** [1 for both].
 
-*Examiner insight (June 2024):* Most candidates knew that phloem carries sucrose, though some wrote xylem or a blend of the two words. Many knew amino acids are also carried, but a wide range of wrong molecules was seen. Spell xylem and phloem clearly and keep their jobs separate.
+*Examiner insight (Cambridge 0610 June 2024 examiner report, Paper 42, Question 4(c)(i)):* Most candidates knew that phloem carries sucrose, though some wrote xylem or a blend of the two words. Many knew amino acids are also carried, but a wide range of wrong molecules was seen. Spell xylem and phloem clearly and keep their jobs separate.
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 4.
+*Source for the examiner insights on this page: [Cambridge IGCSE Biology 0610 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/520425-june-2024-examiner-report.pdf), Paper 0610/42 section, paraphrased.*
+
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 4(c)(i).
 
 **2.** *(Extended)* **Thick walls strengthened with lignin**, which support the plant and stop the vessel collapsing [1]; **no cell contents**, so water flows through without obstruction [1]; cells joined **end to end with no cross walls**, forming a **long continuous tube** [1].
 
@@ -89,7 +92,7 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 *Tip:* Whether a part is a source or a sink depends on what it is doing at the time: releasing sucrose or amino acids (source) or using or storing them (sink).
 
-*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 4.
+*Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 4(c)(i).
 
 ---
 

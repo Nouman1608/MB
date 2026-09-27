@@ -16,6 +16,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on osmoreceptors and ADH, percentage change in urine flow, aquaporins in the collecting duct, negative feedback and glucagon, glucose test strips and biosensors, and abscisic acid and stomatal closure, for Cambridge International AS & A Level Biology (9700)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -56,27 +57,29 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **1.** **Osmoreceptors in the hypothalamus** [1] detect a **decrease in the water potential of the blood** [1]. They send **nerve impulses to the posterior pituitary gland**, which **releases (secretes) ADH into the blood** [1].
 
-*Examiner insight (June 2024):* Say "water potential of the blood", not "water level" or "water concentration". Name the posterior pituitary: "pituitary" alone was not always enough, and "anterior pituitary" is wrong.
+*Examiner insight (Cambridge 9700 June 2024 examiner report, Paper 42, Question 1(a)):* Say "water potential of the blood", not "water level" or "water concentration". Name the posterior pituitary: some answers needed to specify posterior, and a few wrongly gave the anterior pituitary.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 1.
+*Source for the examiner insights on this page: [Cambridge International AS & A Level Biology 9700 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/566822-june-2024-examiner-report.pdf), Paper 9700/42 section, paraphrased.*
+
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 1(a).
 
 **2.** Increase = 6.9 − 1.6 = 5.3 cm³ min⁻¹. Percentage increase = 5.3 ÷ 1.6 × 100 [1] = 331.25 = **331%** (3 s.f.) [1].
 
-*Examiner insight (June 2024):* The most common mistake was dividing by the wrong value. Always divide the change by the starting value (here 1.6), and round to the number of significant figures asked for.
+*Examiner insight (Cambridge 9700 June 2024 examiner report, Paper 42, Question 1(b)(i)):* The most common mistake was dividing by the wrong value. Divide the change by the starting value (here 1.6), and round as the question asks.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 1.
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 1(b)(i).
 
 **3.** Any four: **less ADH binds to receptors on the cell surface membrane** of collecting duct cells [1]; so there is **less activation of the cascade of reactions (via cAMP)**, and **fewer vesicles containing aquaporins fuse with the luminal membrane** (aquaporins are taken back into the cytoplasm in vesicles) [1]; the luminal membrane has **fewer aquaporins, so it is less permeable to water** [1]; **less water is reabsorbed** from the filtrate in the collecting duct **by osmosis into the tissue fluid and blood** [1]; so **more water stays in the filtrate**, giving a **larger volume of more dilute urine** [1].
 
-*Examiner insight (June 2024):* In the similar question, strong answers started with ADH binding to its receptor on collecting duct cells and followed the chain through to aquaporins in the luminal membrane. Weaker answers said water is "absorbed" without making clear that the amount reabsorbed into the blood changes, or described data instead of explaining it.
+*Examiner insight (Cambridge 9700 June 2024 examiner report, Paper 42, Question 1(b)(ii)):* Strong answers started with ADH binding to its receptor on the cell surface membrane and followed the chain through to vesicles with aquaporins fusing with the luminal membrane. Weaker answers said water is "absorbed" without making clear that reabsorption into the blood increases, and the most frequent error was describing the graph instead of explaining it.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 1.
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 1(b)(ii).
 
 **4.** **(a)** **Negative feedback** [1].
 
 **(b)** Any four: **α cells in the islets of Langerhans** of the pancreas detect the fall in blood glucose and **secrete glucagon** [1]; glucagon **binds to receptors on liver cells** [1]; this activates a **second messenger (cAMP) and an enzyme cascade** inside the cells [1]; **glycogenolysis**: glycogen is broken down to glucose [1]; **gluconeogenesis**: glucose is made from non-carbohydrates such as amino acids and glycerol [1]; **glucose is released into the blood**, so the concentration **rises back towards the set point** [1].
 
-*Examiner insight (June 2024):* Many wrote "homeostasis" when the mechanism asked for was negative feedback. Spell glucagon, glycogen and glucose carefully, because a wrong spelling can turn one term into another.
+*Examiner insight (Cambridge 9700 June 2024 examiner report, Paper 42, Question 10):* Many wrote "homeostasis" when the answer was negative feedback. The report also asked for care when spelling similar names. For example (our illustration), glucagon, glycogen and glucose are easily confused, and a wrong spelling can turn one term into another.
 
 *Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 10.
 
@@ -84,9 +87,9 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **(b)** Any two: the urine was **made over several hours during the night and stored in the bladder**, so it shows **glucose that entered the filtrate earlier** [1]; his blood glucose must have been **high earlier (above the concentration at which all filtered glucose can be reabsorbed)**, so glucose was left in the urine [1]; the **biosensor measures the blood glucose concentration at the moment of testing**, which has since fallen back into the normal range [1].
 
-*Examiner insight (June 2024):* In the similar question, some candidates had trouble spelling gluconic acid, so learn it carefully.
+*Examiner insight (Cambridge 9700 June 2024 examiner report, Paper 42, Question 10(c)(i)):* Some candidates struggled to spell gluconic acid, so learn it carefully.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 10.
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 10(c).
 
 **6.** Any four: ABA **binds to receptors on the cell surface membrane of guard cells** [1]; this causes **calcium ions to enter the cytoplasm**, acting as a **second messenger** [1]; ion channels open and **potassium ions (and anions) leave the guard cells** [1]; the **water potential of the guard cells rises**, so **water leaves by osmosis** [1]; the guard cells **lose turgor (become flaccid)** and the **stoma closes**, reducing water loss by transpiration [1].
 

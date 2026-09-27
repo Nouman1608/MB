@@ -16,6 +16,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on proton cotransport, evidence for active transport, exocytosis, water potential, plasmodesmata and the fluid mosaic membrane, for Cambridge International AS & A Level Biology (9700)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -52,15 +53,17 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 
 **1.** ATP is hydrolysed to provide energy for a **proton pump**, which **actively transports hydrogen ions out of the cell** [1] into the **cell wall (apoplast)** just outside the cell surface membrane [1]. This builds up a **high concentration of hydrogen ions outside the cell**, a proton (electrochemical) gradient [1]. Hydrogen ions then **diffuse back into the cell down their gradient through the cotransporter protein** (facilitated diffusion) [1], and **phosphate ions are carried in with them (cotransport)** [1], so phosphate ions move **against their own concentration gradient** [1]. (Any four.) The phosphate ions are not pumped directly: the energy comes from the hydrogen ion gradient.
 
-*Examiner insight (June 2024):* In the related question, examiners saw many clear, step-by-step answers, but some missed out where the pumped protons end up (the cell wall or apoplast). Others called the movement of the transported solute active transport, when only the protons pass through the cotransporter by facilitated diffusion.
+*Examiner insight (Cambridge 9700 June 2024 examiner report, Paper 22, Question 4(c)(i)):* Many answers were clear and sequential, but some missed out where the pumped protons end up (the cell wall or apoplast). Some wrongly called the movement of the transported solute active transport; only the protons pass through the cotransporter by facilitated diffusion.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 22, Question 4.
+*Source for the examiner insights on this page: [Cambridge International AS & A Level Biology 9700 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/566822-june-2024-examiner-report.pdf), Paper 9700/22 section, paraphrased.*
+
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 22, Question 4(c)(i).
 
 **2.** The results suggest uptake is by **active transport** [1]. By 2 hours the cells contain **20 mmol dm⁻³, 40 times the 0.5 mmol dm⁻³ outside**, so potassium ions are taken up **against their concentration gradient**, which diffusion cannot do [1]. Between 2 and 4 hours the control **rose by 16 mmol dm⁻³ (to 36 mmol dm⁻³)**, but with cyanide the concentration **did not rise and fell by 2 mmol dm⁻³ (to 18 mmol dm⁻³)**, so uptake stopped [1]. Cyanide stops **respiration producing ATP**, and **ATP is needed by the carrier proteins (pumps)** that move the ions in [1]. The small fall suggests some potassium ions **leak out by diffusion** down their gradient once the pumps stop [1]. (Any four; at least one comparison with the control must use data with units.)
 
-*Examiner insight (June 2024):* In the related question, the strongest answers compared each experiment with the control and explained each effect. Weaker answers only described the results, or compared the experiments with each other. Many could have earned more marks by quoting data with units.
+*Examiner insight (Cambridge 9700 June 2024 examiner report, Paper 22, Question 4(e)):* The strongest answers compared each experiment with the control and suggested how each factor had its effect. Weaker answers only described the results, or compared the experiments with each other. Many could have earned more marks by quoting data with units.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 22, Question 4.
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 22, Question 4(e).
 
 **3.** **(a)** **Exocytosis** [1].
 
@@ -74,9 +77,9 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 
 **5.** Plasmodesmata are **strands of cytoplasm passing through the cell walls**, so the cytoplasm of the two cells is continuous [1]. Glucose can therefore **diffuse down its concentration gradient through the plasmodesmata** without having to cross a cell surface membrane [1].
 
-*Examiner insight (June 2024):* Most candidates identified plasmodesmata or a concentration gradient in the related question. Incorrect answers described movement through membrane proteins, often calling it facilitated diffusion.
+*Examiner insight (Cambridge 9700 June 2024 examiner report, Paper 22, Question 4(c)(ii)):* Most candidates identified plasmodesmata or a concentration gradient. Incorrect answers described movement through membrane proteins, often calling it facilitated diffusion.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 22, Question 4.
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 22, Question 4(c)(ii).
 
 **6.** Sodium ions are **charged (and surrounded by water molecules)**, so they **cannot pass through the hydrophobic core** made by the fatty acid tails of the phospholipids [1]. Oxygen molecules are **small and non-polar**, so they dissolve in and diffuse through the hydrophobic core [1]. Sodium ions diffuse through **channel proteins** [1].
 

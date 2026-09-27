@@ -16,6 +16,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on multiple alleles, codominance and dominance hierarchies, setting out genetic crosses, autosomal versus sex-linked inheritance, the chi-squared test, gene–protein–phenotype links in albinism, and gibberellin and DELLA proteins, for Cambridge International AS & A Level Biology (9700)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -66,9 +67,11 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **(b)** **Two** alleles, because a rabbit is **diploid**: it has two copies of each chromosome, so **two copies of the gene** (one inherited from each parent) [1].
 
-*Examiner insight (June 2024):* Answers needed to say how many alleles the gene has, or that one gene has more than two alleles. Simply repeating the phrase "multiple alleles" from the question, or listing phenotypes instead of alleles, did not explain anything.
+*Examiner insight (Cambridge 9700 June 2024 examiner report, Paper 42, Question 3(a)):* Answers needed to say how many alleles the gene has, or that one gene has more than two alleles. Simply repeating the phrase "multiple alleles" from the question, or listing phenotypes instead of alleles, did not explain anything.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 3.
+*Source for the examiner insights on this page: [Cambridge International AS & A Level Biology 9700 June 2024 Principal Examiner Report for Teachers](https://www.cambridgeinternational.org/Images/566822-june-2024-examiner-report.pdf), Paper 9700/42 section, paraphrased.*
+
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 3(a).
 
 **2.** **(a)** **Fᴾ and Fᵂ** are codominant [1]. Order of dominance: **Fᴾ = Fᵂ > Fᴳ** [1].
 
@@ -80,9 +83,9 @@ Offspring genotypes and phenotypes: **FᴾFᵂ striped; FᴾFᴳ purple; FᵂF�
 
 Ratio: **1 striped : 1 purple : 1 white : 1 gold** [1].
 
-*Examiner insight (June 2024):* In the similar question, most errors came from not clearly linking each offspring genotype to its phenotype, listing phenotypes in a different order from the ratio, and writing the allele superscripts the same size as the gene letter so that alleles could not be told apart.
+*Examiner insight (Cambridge 9700 June 2024 examiner report, Paper 42, Question 3(b)):* The main errors were not clearly linking each offspring genotype to its phenotype, listing phenotypes in a different order from the ratio, and writing the allele superscripts the same size as the gene letter.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 3.
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 3(b).
 
 **3.** **(a)** Females **ee** and males **EE** [1].
 
@@ -90,9 +93,9 @@ Ratio: **1 striped : 1 purple : 1 white : 1 gold** [1].
 
 **(c)** **3 grey : 1 ebony in the males and 3 grey : 1 ebony in the females** [1].
 
-*Examiner insight (June 2024):* Only the strongest candidates used the males and females separately as evidence. Many wrote about the overall ratio of phenotypes, which on its own does not show whether a gene is on the X chromosome.
+*Examiner insight (Cambridge 9700 June 2024 examiner report, Paper 42, Question 3(d)(ii)):* Only the strongest candidates gained credit, for example by describing similar numbers of males and females for each phenotype. Many wrote about the overall ratio of phenotypes, which on its own does not show whether a gene is on the X chromosome.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 3.
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 3(d)(ii).
 
 **4.** Expected numbers: **300 black and 100 white** [1].
 
@@ -104,25 +107,25 @@ So **the difference between observed and expected results is not significant**; 
 
 *Tip:* Always state the degrees of freedom and compare your χ² value with the critical value before writing a conclusion in words.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 3.
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 3(d)(iii).
 
 **5.** Any four: a **gene codes for a protein, and the protein determines the phenotype** [1]; the **TYR gene codes for the enzyme tyrosinase**, which **converts tyrosine into melanin** (via DOPA) [1]; albinism is caused by a **recessive allele** of TYR, so a person with albinism is **homozygous recessive** [1]; this allele codes for a **non-functional tyrosinase (or no tyrosinase)**, because a change in the base sequence changes the primary structure and shape of the enzyme [1]; so **little or no melanin is made**, giving **very pale skin and hair and pale eyes** that are sensitive to light [1].
 
-*Examiner insight (June 2024):* In the similar question, many mixed up the name of the gene with the name of its protein. Others wrote that the gene was missing. The gene is always present: which allele is present decides whether the protein works.
+*Examiner insight (Cambridge 9700 June 2024 examiner report, Paper 42, Question 4(a)):* It was common to mix up the name of the gene with the name of its protein. Others wrote as if the gene was missing. The gene is always present: which allele is present decides whether the protein works.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 4.
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 4(a).
 
 **6.** Any four: lele is **homozygous recessive** [1]; the le allele codes for a **non-functional (or much less active) enzyme**, the one that makes **active gibberellin (GA₁)** from an inactive precursor [1]; so the plant has **little or no active gibberellin** [1]; so there is **less cell elongation in the stem** (shorter internodes), giving a short stem [1]; spraying on GA₁ **bypasses the faulty enzyme**, so the stem cells elongate normally [1].
 
-*Examiner insight (June 2024):* Few answers stated that the genotype is homozygous recessive, and some missed the step that the allele codes for a non-functional enzyme. Some wrote about germination instead of stem elongation.
+*Examiner insight (Cambridge 9700 June 2024 examiner report, Paper 42, Question 4(b)):* Relatively few answers stated that the genotype is homozygous recessive, and some missed the step that the allele codes for a non-functional enzyme. Some wrote about germination instead of stem elongation.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 4.
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 4(b).
 
 **7.** Any four: **DELLA proteins bind to a transcription factor (PIF)** [1]; this stops the **transcription factor binding to the promoter** of genes needed for stem growth [1], so **RNA polymerase cannot bind and the genes are not transcribed (no mRNA)** [1]; normally, gibberellin **binds to a receptor**, and this leads to the **DELLA proteins being broken down**, releasing the transcription factor [1]; in the mutant, **DELLA is not broken down even when gibberellin binds to its receptor**, so the growth genes stay switched off, there is **little cell elongation** and the plant stays short [1].
 
-*Examiner insight (June 2024):* Some answers mixed this up with the lac operon, saying a repressor binds to an operator; plants have no operon here. Others wrongly said DELLA binds directly to the promoter.
+*Examiner insight (Cambridge 9700 June 2024 examiner report, Paper 42, Question 4(c)):* Some answers confused this with repressor proteins in prokaryotes binding to an operator. Others wrongly said DELLA binds directly to the promoter.
 
-*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 4.
+*Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 42, Question 4(c).
 
 ---
 
