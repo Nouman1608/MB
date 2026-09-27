@@ -1,6 +1,6 @@
 # Content gap report
 
-**Generated 27 Sep 2026, 22:30 PKT** by `python3 scripts/content-gap-report.py` (content-breadth sprint).
+**Generated 27 Sep 2026, 23:16 PKT** by `python3 scripts/content-gap-report.py` (content-breadth sprint).
 
 Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series only), which is the build-validated transcription of each board's official document. A topic counts as having a study guide (SG), revision notes (RN) or practice set (PQ) only if a resource of that type maps to it. Subtopic columns count exact subtopic mappings only. Nothing here says a page has been teacher-reviewed: all resources remain `review-pending`.
 
@@ -10,11 +10,11 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 |---|---|---|---|---|---|---|
 | DP Mathematics: Analysis and Approaches (mathematics-analysis-and-approaches) | First assessment 2021 | 51 | 17 / 17 / 17 | 5 / 5 | 83 / 83 | complete |
 | DP Mathematics: Applications and Interpretation (mathematics-applications-and-interpretation) | First assessments for SL and HL—2021 | 57 | 19 / 19 / 19 | 5 / 5 | 78 / 78 | complete |
-| DP Language A: Language and Literature (language-a-language-and-literature) | First assessments for SL and HL 2021 | 6 | 2 / 2 / 2 | 2 / 3 | no subtopic data | gaps remain |
-| DP Language A: Literature (language-a-literature) | First assessments for SL and HL 2021 | 6 | 2 / 2 / 2 | 2 / 3 | no subtopic data | gaps remain |
-| DP Environmental Systems and Societies (environmental-systems-and-societies) | First assessment 2026 | 6 | 2 / 2 / 2 | 2 / 11 | 0 / 27 | gaps remain |
+| DP Language A: Language and Literature (language-a-language-and-literature) | First assessments for SL and HL 2021 | 30 | 10 / 10 / 10 | 3 / 3 | no subtopic data | complete |
+| DP Language A: Literature (language-a-literature) | First assessments for SL and HL 2021 | 30 | 10 / 10 / 10 | 3 / 3 | no subtopic data | complete |
+| DP Environmental Systems and Societies (environmental-systems-and-societies) | First assessment 2026 | 36 | 12 / 12 / 12 | 11 / 11 | 27 / 27 | complete |
 | DP Global Politics (global-politics) | First assessment 2026 | 6 | 2 / 2 / 2 | 2 / 5 | no subtopic data | gaps remain |
-| DP Language B (language-b) | First assessment 2020 | 6 | 2 / 2 / 2 | 2 / 5 | no subtopic data | gaps remain |
+| DP Language B (language-b) | First assessment 2020 | 30 | 10 / 10 / 10 | 5 / 5 | no subtopic data | complete |
 | MYP Language Acquisition (myp-language-acquisition) | From 2020 (first eAssessment May 2023/November 2023) | 7 | 2 / 2 / 2 | 2 / 5 | no subtopic data | gaps remain |
 | MYP Sciences (myp-sciences) | From 2014 | 7 | 2 / 2 / 2 | 2 / 5 | no subtopic data | gaps remain |
 | MYP Design (myp-design) | From 2014 | 6 | 2 / 2 / 2 | 1 / 4 | 0 / 4 | gaps remain |
@@ -62,33 +62,33 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 
 | # | Topic | SG | RN | PQ | Subtopics missing a type (missing types) |
 |---|---|---|---|---|---|
-| 1 | Readers, writers and texts | 1 | 1 | 1 | topic has no subtopic data |
-| 2 | Time and space | 1 | 1 | 1 | topic has no subtopic data |
-| 3 | Intertextuality: connecting texts | 0 | 0 | 0 | topic has no subtopic data |
+| 1 | Readers, writers and texts | 6 | 6 | 6 | topic has no subtopic data |
+| 2 | Time and space | 6 | 6 | 6 | topic has no subtopic data |
+| 3 | Intertextuality: connecting texts | 4 | 4 | 4 | topic has no subtopic data |
 
 ### DP Language A: Literature -- language-a-literature (ib ib-dp, First assessments for SL and HL 2021)
 
 | # | Topic | SG | RN | PQ | Subtopics missing a type (missing types) |
 |---|---|---|---|---|---|
-| 1 | Readers, writers and texts | 1 | 1 | 1 | topic has no subtopic data |
-| 2 | Time and space | 0 | 0 | 0 | topic has no subtopic data |
-| 3 | Intertextuality: connecting texts | 1 | 1 | 1 | topic has no subtopic data |
+| 1 | Readers, writers and texts | 6 | 6 | 6 | topic has no subtopic data |
+| 2 | Time and space | 5 | 5 | 5 | topic has no subtopic data |
+| 3 | Intertextuality: connecting texts | 6 | 6 | 6 | topic has no subtopic data |
 
 ### DP Environmental Systems and Societies -- environmental-systems-and-societies (ib ib-dp, First assessment 2026)
 
 | # | Topic | SG | RN | PQ | Subtopics missing a type (missing types) |
 |---|---|---|---|---|---|
-| 1 | Foundation | 1 | 1 | 1 | 1.1 (SG/RN/PQ), 1.2 (SG/RN/PQ), 1.3 (SG/RN/PQ) |
-| 2 | Ecology | 1 | 1 | 1 | 2.1 (SG/RN/PQ), 2.2 (SG/RN/PQ), 2.3 (SG/RN/PQ), 2.4 (SG/RN/PQ), 2.5 (SG/RN/PQ) |
-| 3 | Biodiversity and conservation | 0 | 0 | 0 | 3.1 (SG/RN/PQ), 3.2 (SG/RN/PQ), 3.3 (SG/RN/PQ) |
-| 4 | Water | 0 | 0 | 0 | 4.1 (SG/RN/PQ), 4.2 (SG/RN/PQ), 4.3 (SG/RN/PQ), 4.4 (SG/RN/PQ) |
-| 5 | Land | 0 | 0 | 0 | 5.1 (SG/RN/PQ), 5.2 (SG/RN/PQ) |
-| 6 | Atmosphere and climate change | 0 | 0 | 0 | 6.1 (SG/RN/PQ), 6.2 (SG/RN/PQ), 6.3 (SG/RN/PQ), 6.4 (SG/RN/PQ) |
-| 7 | Natural resources | 0 | 0 | 0 | 7.1 (SG/RN/PQ), 7.2 (SG/RN/PQ), 7.3 (SG/RN/PQ) |
-| 8 | Human populations and urban systems | 0 | 0 | 0 | 8.1 (SG/RN/PQ), 8.2 (SG/RN/PQ), 8.3 (SG/RN/PQ) |
-| 9 | HL.a Environmental law | 0 | 0 | 0 | topic has no subtopic data |
-| 10 | HL.b Environmental and ecological economics | 0 | 0 | 0 | topic has no subtopic data |
-| 11 | HL.c Environmental ethics | 0 | 0 | 0 | topic has no subtopic data |
+| 1 | Foundation | 2 | 2 | 2 | -- |
+| 2 | Ecology | 3 | 3 | 3 | -- |
+| 3 | Biodiversity and conservation | 1 | 1 | 1 | -- |
+| 4 | Water | 1 | 1 | 1 | -- |
+| 5 | Land | 1 | 1 | 1 | -- |
+| 6 | Atmosphere and climate change | 1 | 1 | 1 | -- |
+| 7 | Natural resources | 1 | 1 | 1 | -- |
+| 8 | Human populations and urban systems | 1 | 1 | 1 | -- |
+| 9 | HL.a Environmental law | 1 | 1 | 1 | topic has no subtopic data |
+| 10 | HL.b Environmental and ecological economics | 1 | 1 | 1 | topic has no subtopic data |
+| 11 | HL.c Environmental ethics | 1 | 1 | 1 | topic has no subtopic data |
 
 ### DP Global Politics -- global-politics (ib ib-dp, First assessment 2026)
 
@@ -104,11 +104,11 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 
 | # | Topic | SG | RN | PQ | Subtopics missing a type (missing types) |
 |---|---|---|---|---|---|
-| 1 | Identities | 1 | 1 | 1 | topic has no subtopic data |
-| 2 | Experiences | 0 | 0 | 0 | topic has no subtopic data |
-| 3 | Human ingenuity | 0 | 0 | 0 | topic has no subtopic data |
-| 4 | Social organization | 0 | 0 | 0 | topic has no subtopic data |
-| 5 | Sharing the planet | 1 | 1 | 1 | topic has no subtopic data |
+| 1 | Identities | 5 | 5 | 5 | topic has no subtopic data |
+| 2 | Experiences | 4 | 4 | 4 | topic has no subtopic data |
+| 3 | Human ingenuity | 4 | 4 | 4 | topic has no subtopic data |
+| 4 | Social organization | 5 | 5 | 5 | topic has no subtopic data |
+| 5 | Sharing the planet | 5 | 5 | 5 | topic has no subtopic data |
 
 ### MYP Language Acquisition -- myp-language-acquisition (ib ib-myp, From 2020 (first eAssessment May 2023/November 2023))
 

@@ -145,6 +145,78 @@ const REVIEWED_LEGITIMATE = [
     files: ['cambridge-o-level-sociology-social-stratification-and-inequality.md', 'o-level-sociology-research-methods-identity-and-inequality.md'],
     evidence: "Second (research-methods-identity-and-inequality.md) is a whole-Paper-1 overview; its treatment of 1.3 (Social Stratification and Inequality) consists of one syllabus-coverage bullet plus a connective paragraph explaining how 1.2 (Identity) and 1.3 relate to each other -- 1.3's own content (meritocracy, Marxist explanations of class inequality, the specific impact of class/gender/ethnicity on life chances) is not independently developed. First (new, 2026-09-09) is a 1.3-only deep dive: life chances explained as the concept tying the subtopic together, a dedicated section on meritocracy and its sociological critique, a section on gender and ethnicity as forms of stratification, and a full worked example applying a Marxist explanation to a scenario -- none of which the overview develops beyond its connective paragraph. No shared sentence-level content, confirmed by direct comparison before writing.",
   },
+  {
+    files: ['ib-dp-language-a-language-literature-analysing-literary-forms.md', 'ib-dp-language-a-language-literature-paper-1-guided-textual-analysis.md'],
+    evidence: "Same two topic tags (Readers, writers and texts + Time and space) because the course has no subtopics. The analysing-literary-forms unit teaches close reading of LITERARY forms -- prose narration, poetry form/metre/imagery, dramatic conventions -- with pre-1929 and original literary examples. The paper-1 unit is about NON-literary texts only (adverts, opinion pieces, web pages) and teaches the guided-analysis exam method: reading the passage, planning, structuring, timing. Different passages, different questions; no shared sentence-level content (checked by heading and passage comparison, content-breadth sprint 27 Sep 2026).",
+  },
+  {
+    files: ['ib-dp-language-a-language-literature-analysing-literary-forms-revision-notes.md', 'ib-dp-language-a-language-literature-paper-1-guided-textual-analysis-revision-notes.md'],
+    evidence: "Revision notes siblings of the study-guide pair above; same distinction applies. Same two topic tags (Readers, writers and texts + Time and space) because the course has no subtopics. The analysing-literary-forms unit teaches close reading of LITERARY forms -- prose narration, poetry form/metre/imagery, dramatic conventions -- with pre-1929 and original literary examples. The paper-1 unit is about NON-literary texts only (adverts, opinion pieces, web pages) and teaches the guided-analysis exam method: reading the passage, planning, structuring, timing. Different passages, different questions; no shared sentence-level content (checked by heading and passage comparison, content-breadth sprint 27 Sep 2026).",
+  },
+  {
+    files: ['ib-dp-language-a-language-literature-analysing-literary-forms-practice.md', 'ib-dp-language-a-language-literature-paper-1-guided-textual-analysis-practice.md'],
+    evidence: "Practice sets siblings of the study-guide pair above; same distinction applies. Same two topic tags (Readers, writers and texts + Time and space) because the course has no subtopics. The analysing-literary-forms unit teaches close reading of LITERARY forms -- prose narration, poetry form/metre/imagery, dramatic conventions -- with pre-1929 and original literary examples. The paper-1 unit is about NON-literary texts only (adverts, opinion pieces, web pages) and teaches the guided-analysis exam method: reading the passage, planning, structuring, timing. Different passages, different questions; no shared sentence-level content (checked by heading and passage comparison, content-breadth sprint 27 Sep 2026).",
+  },
+  {
+    files: ['ib-dp-language-a-language-literature-language-context-culture-and-power.md', 'ib-dp-language-a-language-literature-time-and-space.md'],
+    evidence: "Both tagged Time and space. The older time-and-space pages are a short overview of the area of exploration with one non-literary and one literary worked example. The language-context-culture-and-power unit is a deep dive on representation, bias and stance, power (who speaks / who is silenced), gender and identity, and changing reception, built on Douglass (1845), Wollstonecraft (1792) and new original passages that the overview never uses. No shared questions or passages (content-breadth sprint 27 Sep 2026).",
+  },
+  {
+    files: ['ib-dp-language-a-language-literature-language-context-culture-and-power-revision-notes.md', 'ib-dp-language-a-language-literature-time-and-space-revision-notes.md'],
+    evidence: "Revision notes siblings of the study-guide pair above; same distinction applies. Both tagged Time and space. The older time-and-space pages are a short overview of the area of exploration with one non-literary and one literary worked example. The language-context-culture-and-power unit is a deep dive on representation, bias and stance, power (who speaks / who is silenced), gender and identity, and changing reception, built on Douglass (1845), Wollstonecraft (1792) and new original passages that the overview never uses. No shared questions or passages (content-breadth sprint 27 Sep 2026).",
+  },
+  {
+    files: ['ib-dp-language-a-language-literature-language-context-culture-and-power-practice.md', 'ib-dp-language-a-language-literature-time-and-space-practice.md'],
+    evidence: "Practice sets siblings of the study-guide pair above; same distinction applies. Both tagged Time and space. The older time-and-space pages are a short overview of the area of exploration with one non-literary and one literary worked example. The language-context-culture-and-power unit is a deep dive on representation, bias and stance, power (who speaks / who is silenced), gender and identity, and changing reception, built on Douglass (1845), Wollstonecraft (1792) and new original passages that the overview never uses. No shared questions or passages (content-breadth sprint 27 Sep 2026).",
+  },
+  {
+    files: ['ib-dp-language-a-language-literature-non-literary-text-types-and-conventions.md', 'ib-dp-language-a-language-literature-readers-writers-texts.md'],
+    evidence: "Both tagged Readers, writers and texts. The older readers-writers-texts pages cover the area's core question and a general technique-to-effect analysis method. The non-literary-text-types unit catalogues the conventions of eight non-literary text types and teaches image/layout reading (salience, anchorage, reading path, shot distance) with its own editorial, captioned photograph, blog, infographic and cartoon. No shared passages or questions (content-breadth sprint 27 Sep 2026).",
+  },
+  {
+    files: ['ib-dp-language-a-language-literature-non-literary-text-types-and-conventions-revision-notes.md', 'ib-dp-language-a-language-literature-readers-writers-texts-revision-notes.md'],
+    evidence: "Revision notes siblings of the study-guide pair above; same distinction applies. Both tagged Readers, writers and texts. The older readers-writers-texts pages cover the area's core question and a general technique-to-effect analysis method. The non-literary-text-types unit catalogues the conventions of eight non-literary text types and teaches image/layout reading (salience, anchorage, reading path, shot distance) with its own editorial, captioned photograph, blog, infographic and cartoon. No shared passages or questions (content-breadth sprint 27 Sep 2026).",
+  },
+  {
+    files: ['ib-dp-language-a-language-literature-non-literary-text-types-and-conventions-practice.md', 'ib-dp-language-a-language-literature-readers-writers-texts-practice.md'],
+    evidence: "Practice sets siblings of the study-guide pair above; same distinction applies. Both tagged Readers, writers and texts. The older readers-writers-texts pages cover the area's core question and a general technique-to-effect analysis method. The non-literary-text-types unit catalogues the conventions of eight non-literary text types and teaches image/layout reading (salience, anchorage, reading path, shot distance) with its own editorial, captioned photograph, blog, infographic and cartoon. No shared passages or questions (content-breadth sprint 27 Sep 2026).",
+  },
+  {
+    files: ['ib-dp-language-a-literature-individual-oral-global-issues.md', 'ib-dp-language-a-literature-literary-concepts-and-perspectives.md'],
+    evidence: "Both tagged Readers, writers and texts + Intertextuality. The individual-oral unit covers the oral assessment only: choosing a global issue, pairing extracts from a work in translation and a work in the original language, structuring the talk. The literary-concepts unit teaches the course concepts the brief names and seven critical lenses, with three readings of Blake's 'London' and a method for evaluating interpretations; it does not cover the oral. Different texts and questions (content-breadth sprint 27 Sep 2026).",
+  },
+  {
+    files: ['ib-dp-language-a-literature-individual-oral-global-issues-revision-notes.md', 'ib-dp-language-a-literature-literary-concepts-and-perspectives-revision-notes.md'],
+    evidence: "Revision notes siblings of the study-guide pair above; same distinction applies. Both tagged Readers, writers and texts + Intertextuality. The individual-oral unit covers the oral assessment only: choosing a global issue, pairing extracts from a work in translation and a work in the original language, structuring the talk. The literary-concepts unit teaches the course concepts the brief names and seven critical lenses, with three readings of Blake's 'London' and a method for evaluating interpretations; it does not cover the oral. Different texts and questions (content-breadth sprint 27 Sep 2026).",
+  },
+  {
+    files: ['ib-dp-language-a-literature-individual-oral-global-issues-practice.md', 'ib-dp-language-a-literature-literary-concepts-and-perspectives-practice.md'],
+    evidence: "Practice sets siblings of the study-guide pair above; same distinction applies. Both tagged Readers, writers and texts + Intertextuality. The individual-oral unit covers the oral assessment only: choosing a global issue, pairing extracts from a work in translation and a work in the original language, structuring the talk. The literary-concepts unit teaches the course concepts the brief names and seven critical lenses, with three readings of Blake's 'London' and a method for evaluating interpretations; it does not cover the oral. Different texts and questions (content-breadth sprint 27 Sep 2026).",
+  },
+  {
+    files: ['ib-dp-language-a-literature-paper-2-comparative-essay.md', 'ib-dp-language-a-literature-prose-and-drama-analysis.md'],
+    evidence: "Both tagged Intertextuality + Time and space. The paper-2 unit is exam method for the comparative essay (answering the question set, comparative thesis, integrated comparison, remembered quotation) using Jekyll and Hyde and Dorian Gray. The prose-and-drama unit teaches close-reading tools for narrative voice, characterisation, setting and structure in prose and for staging, dialogue and dramatic irony in drama, using Dickens, Austen, Macbeth and original passages. No shared passages or questions (content-breadth sprint 27 Sep 2026).",
+  },
+  {
+    files: ['ib-dp-language-a-literature-paper-2-comparative-essay-revision-notes.md', 'ib-dp-language-a-literature-prose-and-drama-analysis-revision-notes.md'],
+    evidence: "Revision notes siblings of the study-guide pair above; same distinction applies. Both tagged Intertextuality + Time and space. The paper-2 unit is exam method for the comparative essay (answering the question set, comparative thesis, integrated comparison, remembered quotation) using Jekyll and Hyde and Dorian Gray. The prose-and-drama unit teaches close-reading tools for narrative voice, characterisation, setting and structure in prose and for staging, dialogue and dramatic irony in drama, using Dickens, Austen, Macbeth and original passages. No shared passages or questions (content-breadth sprint 27 Sep 2026).",
+  },
+  {
+    files: ['ib-dp-language-a-literature-paper-2-comparative-essay-practice.md', 'ib-dp-language-a-literature-prose-and-drama-analysis-practice.md'],
+    evidence: "Practice sets siblings of the study-guide pair above; same distinction applies. Both tagged Intertextuality + Time and space. The paper-2 unit is exam method for the comparative essay (answering the question set, comparative thesis, integrated comparison, remembered quotation) using Jekyll and Hyde and Dorian Gray. The prose-and-drama unit teaches close-reading tools for narrative voice, characterisation, setting and structure in prose and for staging, dialogue and dramatic irony in drama, using Dickens, Austen, Macbeth and original passages. No shared passages or questions (content-breadth sprint 27 Sep 2026).",
+  },
+  {
+    files: ['ib-dp-language-a-literature-poetry-analysis.md', 'ib-dp-language-a-literature-readers-writers-texts.md'],
+    evidence: "Both tagged Readers, writers and texts. The older readers-writers-texts pages are an overview of the area with one narrative-voice worked example. The poetry-analysis unit is poetry only: voice, form, structure, metre and rhyme, sound, imagery and paragraph writing, using Blake, Rossetti, Hopkins and original poems the overview never uses. No shared questions (content-breadth sprint 27 Sep 2026).",
+  },
+  {
+    files: ['ib-dp-language-a-literature-poetry-analysis-revision-notes.md', 'ib-dp-language-a-literature-readers-writers-texts-revision-notes.md'],
+    evidence: "Revision notes siblings of the study-guide pair above; same distinction applies. Both tagged Readers, writers and texts. The older readers-writers-texts pages are an overview of the area with one narrative-voice worked example. The poetry-analysis unit is poetry only: voice, form, structure, metre and rhyme, sound, imagery and paragraph writing, using Blake, Rossetti, Hopkins and original poems the overview never uses. No shared questions (content-breadth sprint 27 Sep 2026).",
+  },
+  {
+    files: ['ib-dp-language-a-literature-poetry-analysis-practice.md', 'ib-dp-language-a-literature-readers-writers-texts-practice.md'],
+    evidence: "Practice sets siblings of the study-guide pair above; same distinction applies. Both tagged Readers, writers and texts. The older readers-writers-texts pages are an overview of the area with one narrative-voice worked example. The poetry-analysis unit is poetry only: voice, form, structure, metre and rhyme, sound, imagery and paragraph writing, using Blake, Rossetti, Hopkins and original poems the overview never uses. No shared questions (content-breadth sprint 27 Sep 2026).",
+  },
 ];
 const legitimateKeyOf = (fs) => [...fs].sort().join('|');
 const REVIEWED_KEYS = new Map(
