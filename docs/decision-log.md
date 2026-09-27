@@ -14488,3 +14488,16 @@ Checked 27 Sep 2026, 18:01 to 18:10 PKT, after D-350 went live. The deployed Wor
 Correction to D-350: the asset store does send an ETag for HTML. The tag above is built from it: 32 hex characters, not a SHA-1. D-350's statement that it sends none was wrong. The ETag is removed after the Worker, on 200 responses only. That points to a Cloudflare zone feature that modifies HTML (for example Automatic HTTPS Rewrites or Email Obfuscation), which removes ETags from pages it may change.
 
 To confirm without changing any setting, `?etag-probe=1` adds `no-transform` to the page's Cache-Control (Cloudflare does not apply those HTML features to such responses). It is diagnostic only, affects nothing without the query string, and is to be removed once the cause is settled. Any zone setting change is the owner's decision. Worker tests: 19 pass; `check`: 0 errors.
+
+## D-353 - R-06 probe result: no-transform keeps the ETag but switches off compression (2026-09-27)
+
+Live check, 27 Sep 2026, 18:05 PKT, after D-352 deployed:
+
+| Request | Cache-Control | ETag | Encoding | Bytes on the wire |
+|---|---|---|---|---|
+| `/trial/?etag-probe=1` | `public, max-age=0, must-revalidate, no-transform` | `W/"9751639549c56e575103d676f8bb5133-optout"` | none | 77,599 |
+| `/trial/` | `public, max-age=0, must-revalidate` | none | `br` | 16,511 |
+
+So the Worker's ETag is removed by Cloudflare's own processing of HTML after the Worker. `no-transform` is not a fix: it keeps the ETag but switches off compression, which makes the page nearly five times larger on the wire, the opposite of what R-06 is for. It is not applied to normal requests.
+
+The remaining fix is a Cloudflare zone setting, which is the owner's decision. Check which HTML-modifying features are on for marlbridge.com; Automatic HTTPS Rewrites and Email Address Obfuscation are the usual ones, and no `__cf_email__` markup appears on /contact/, so Email Obfuscation looks off already. Then re-run: `curl -I https://marlbridge.com/trial/`, then the same request with `If-None-Match: <tag>`, which should give 304. The `?etag-probe=1` switch from D-352 stays until then, for that check, and is removed afterwards. R-06 stays open.
