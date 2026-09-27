@@ -14381,3 +14381,27 @@ Validation: build OK; `audit:all` PASS (2,282 pages); `check` 0 errors; `test:i1
 - `scripts/validate-pricing-consistency.mjs`: a new guard fails the build if the old 9am–10pm window appears in English, Arabic, Urdu or Bengali copy. Resource pages are excluded, because they only use times inside questions.
 
 **Not changed:** email stays "the same day". No price, discount or other policy changed.
+
+## D-347 - Revision notes for the remaining Cambridge chemistry subtopics (2026-09-27)
+
+**Why:** completes backlog B6/B7 of the resource library audit (D-339). After D-343, 13 matrix rows still had no revision notes: 0620/5070 6.1, and 9701 1.1, 1.2, 25.1, 25.2, 26.1, 26.2, 27.1, 29.4, 31.1, 32.1, 32.2. The owner asked for the next batch.
+
+| New page | Syllabus points |
+|---|---|
+| `physical-and-chemical-changes-revision-notes` | 0620/5070 6.1 (Core) |
+| `as-chem-atomic-structure-revision-notes` | 9701 1.1–1.2 (AS) |
+| `a-chemistry-acids-bases-partition-revision-notes` | 9701 25.1–25.2 |
+| `a-chemistry-reaction-kinetics-revision-notes` | 9701 26.1–26.2 |
+| `a-chemistry-group-2-revision-notes` | 9701 27.1 |
+| `a-chemistry-optical-isomerism-revision-notes` | 9701 29.4 |
+| `a-chemistry-halogen-compounds-revision-notes` | 9701 31.1 |
+| `a-chemistry-alcohols-and-phenol-revision-notes` | 9701 32.1–32.2 |
+
+- Each page was written against its syllabus learning outcomes, one by one, with links to the existing study guide, practice page and (for A Level) the AS notes.
+- Author: `marlbridge-academic-team`. `reviewStatus` is left at the review-pending default. Data such as Ka, Ksp, Kpc and rate data are labelled illustrative or approximate.
+- Two independent AI reviewers recomputed every calculation and checked every equation against the syllabus text. They found no errors of fact or arithmetic. Their 13 wording and completeness points were applied, for example: phenol "gives no CO₂" with carbonates, rather than "does not react"; the ΔHsol trend sentence for hydroxides; the hydroxide 2ΔHhyd(OH⁻) term; the NH₃/NH₄⁺ buffer equations; and the "sign of charge / charge ÷ mass" deflection trap.
+- The coverage matrix (13 rows) and audit report are updated. Every 0620, 5070 and 9701 subtopic in the matrix now has revision notes.
+
+**Not changed:** no existing page, diagnostic set, author or review status.
+
+**Validation:** build (all validators), audit:all, negative suite 37/37, cross-board regression, test:api 84, test:tools 72, test:practice-analytics 24, and astro check with 0 errors.

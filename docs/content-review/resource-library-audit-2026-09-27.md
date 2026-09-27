@@ -184,6 +184,8 @@ The sequence is: choose syllabus → find weak topic → study → questions →
 | B7 | 2 | 0620/5070 revision notes | 10 subtopics per course have no revision notes | Same approach | As B6 | As above | Medium | As B6 |
 
 **Progress on B6/B7 (D-343, 27 Sep 2026):** four new revision-notes pages cover 0620/5070 11.3–11.7 and 12.1–12.4 (9 subtopics per course) and 9701 28.3–28.5. Remaining without notes: 0620/5070 6.1, and 11 subtopics of 9701 (1.1, 1.2, 25.1, 25.2, 26.1, 26.2, 27.1, 29.4, 31.1, 32.1, 32.2). The new pages are review-pending; see section 10.
+
+**B6/B7 completed (D-347, 27 Sep 2026):** eight more revision-notes pages cover the remaining subtopics (0620/5070 6.1; 9701 1.1–1.2, 25.1–25.2, 26.1–26.2, 27.1, 29.4, 31.1, 32.1–32.2). The coverage matrix now shows revision notes for every 0620, 5070 and 9701 subtopic. All new pages are review-pending.
 | B8 | 4 | Resource page template | "Next steps" sits at the foot; 13% scroll to 90% | One line under the title: "On this topic: notes · practice · test yourself", reusing ResourceNextSteps links, tracked with a new link kind | Faster study → practice → retest | GA4 scroll data | Low | Line present on mapped pages; `recommended_resource_click` split by position |
 | B9 | 4 | Diagnostic results | Retest means redoing the whole set | "Retest this topic" link to the practice bank filtered to that topic | Closes the retest step | Journey gap | Low–Medium | The link opens only that topic's questions |
 | B10 | 3 | 0580 Maths (next course to map) | Not yet mapped; mensuration gap found | Build the same coverage matrix for 0580; check tier labels | Covers the highest-demand Cambridge course | Maths 55 resource clicks; 3 of the top pages | Medium | 0580 matrix in `docs/content-review/` |
@@ -222,6 +224,11 @@ The sequence is: choose syllabus → find weak topic → study → questions →
 - **A maths teacher:** the three Extended mensuration questions and their mark allocations.
 - **An English/IB teacher:** the Language A Q3 answer.
 - **Physics and maths:** the small wording fixes.
+
+**D-347 revision notes (added 27 Sep 2026), for the chemistry teacher:**
+- `physical-and-chemical-changes-revision-notes` (0620/5070), `as-chem-atomic-structure-revision-notes` (AS), and six A Level pages: `a-chemistry-acids-bases-partition-revision-notes`, `a-chemistry-reaction-kinetics-revision-notes`, `a-chemistry-group-2-revision-notes`, `a-chemistry-optical-isomerism-revision-notes`, `a-chemistry-halogen-compounds-revision-notes`, `a-chemistry-alcohols-and-phenol-revision-notes`.
+- Points to confirm: whether mark schemes credit NO₂ or NO as the catalyst in SO₂ oxidation; the colour wording for the phenol azo product ("yellow/orange"); the glowing-splint observation for Group 2 nitrates; the electron relative mass (1/1836 on the notes, 1/1840 in the study guide).
+- Two independent AI checks recomputed every calculation and checked every equation; they found no errors of fact or arithmetic. Their wording fixes (for example "phenol gives no CO₂ with carbonates", and the ΔHsol trend sentence) were applied. These checks are not a teacher review.
 
 **D-343 revision notes (added 27 Sep 2026), for the chemistry teacher:**
 - `fuels-alkanes-and-alkenes-revision-notes`, `alcohols-and-carboxylic-acids-revision-notes`, `practical-techniques-revision-notes` (0620/5070) and `a-chemistry-transition-elements-colour-isomerism-kstab-revision-notes` (9701).
