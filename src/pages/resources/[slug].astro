@@ -19,6 +19,8 @@ import { LEVEL_FOR_QUALIFICATION, taughtOnly, activeOnly, academicHubPath } from
 import { matrixSlugsFor } from '../../utils/content/status';
 import { teachersForSubjectTitle } from '../../utils/content/subject-teachers';
 import ResourceNextSteps from '../../components/tools/ResourceNextSteps.astro';
+import { resourceNextSteps } from '../../utils/content/resource-next-steps';
+import { onThisTopicLinks } from '../../utils/content/next-steps';
 import VideoSection from '../../components/media/VideoSection.astro';
 import { videosForResource } from '../../utils/content/media';
 import { videoNodes } from '../../utils/schema/video';
@@ -219,6 +221,16 @@ const genuinelyReviewed = d.reviewStatus === 'reviewed' && !!reviewerEntry && re
 /** `archived` content stays reachable (no dead links) but must not be indexed. */
 const pageNoindex = d.noindex || d.reviewStatus === 'archived';
 
+/**
+ * B8 (2026-09-27) -- one Next-steps computation for the page: the block at
+ * the foot, and a compact "On this topic" line under the title with its
+ * same-topic study links and the course diagnostic (only ~13% of readers
+ * scroll to 90%, where Next steps sits). The line is omitted when there is
+ * no same-topic link. See src/utils/content/next-steps.ts.
+ */
+const nextStepsPlan = await resourceNextSteps(resource);
+const onThisTopic = onThisTopicLinks(nextStepsPlan.steps, routes.resource(resource.id));
+
 const siblings = await topicSiblings(resource);
 const alsoResources = await relatedResources({ subject: d.subject.id, topic: d.topic, boards: d.boards, excludeId: resource.id, picked: d.relatedResources, limit: 3 });
 const alsoArticles = await relatedArticles({ subject: d.subject.id, picked: d.relatedArticles, limit: 2 });
@@ -268,6 +280,20 @@ const jsonLd = [articleNode({
       <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Reviewed by </dt><dd class="m-0 inline text-ink-mute"><a href={routes.author(reviewerEntry!.id)} class="underline decoration-rule underline-offset-2">{reviewerEntry!.data.name}</a>{d.reviewedDate && <> on <time datetime={d.reviewedDate.toISOString()}>{formatDate(d.reviewedDate)}</time></>}</dd></div>
     )}
   </dl>
+
+  {onThisTopic.length > 0 && (
+    <nav slot="hero-extra" aria-labelledby="on-this-topic-label" data-testid="on-this-topic" class="mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-[14.5px]">
+      <span id="on-this-topic-label" class="font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">On this topic:</span>
+      <ul class="m-0 flex list-none flex-wrap items-center gap-x-2 gap-y-1 p-0">
+        {onThisTopic.map((l, i) => (
+          <li class="m-0 flex items-center gap-x-2">
+            {i > 0 && <span aria-hidden="true" class="text-ink-mute">·</span>}
+            <a href={l.href} data-on-this-topic={l.kind} title={l.title} class="inline-flex min-h-6 items-center font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{l.label}</a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+  )}
 
   {/* Provenance and a correction path -- syllabus alignment plus a link to the
       official specification and a way to report an error. The universal,
@@ -367,7 +393,7 @@ const jsonLd = [articleNode({
         </nav>
       )}
 
-      <ResourceNextSteps resource={resource} />
+      <ResourceNextSteps resource={resource} plan={nextStepsPlan} />
 
       {alsoResources.length > 0 && (
         <RelatedGrid id="also-resources" title="Related resources">
@@ -452,5 +478,13 @@ const jsonLd = [articleNode({
         (window as unknown as { mbTrack?: (n: string, p: Record<string, unknown>) => void }).mbTrack?.('recommended_resource_click', { source: 'syllabus_points', link_kind: 'open' });
       } catch { /* never block */ }
     }, { once: true });
+  });
+  // B8 -- clicks on the "On this topic" line; same event as the Next steps block, told apart by source.
+  document.querySelectorAll<HTMLAnchorElement>('[data-on-this-topic]').forEach((a) => {
+    a.addEventListener('click', () => {
+      try {
+        (window as unknown as { mbTrack?: (n: string, p: Record<string, unknown>) => void }).mbTrack?.('recommended_resource_click', { source: 'on_this_topic', link_kind: a.dataset.onThisTopic ?? 'unknown' });
+      } catch { /* never block navigation */ }
+    });
   });
 </script>

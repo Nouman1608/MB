@@ -17,13 +17,17 @@
  * button; D-329 -- without it a page view could not be told apart from a
  * genuine attempt) and one `diagnostic_complete` event per completed run,
  * with the course code, set, question count and, on completion, a duration
- * bucket. No marks, no answers, no topics.
+ * bucket. No marks, no answers, no topics. Following a recommended link or a
+ * "Retest this topic" link (B9) sends `recommended_resource_click` with the
+ * source, link kind and course code only.
  */
 import { track } from './catalogue-client';
 
 interface Q { id: string; qHtml: string; aHtml: string; marks: number; topicSlug: string; topicName: string; source: string; sourceTitle: string }
 interface Rec { t: string; u: string; k: 'learn' | 'practice' | 'review' }
-interface Data { code: string; set: string; courseId: string; questions: Q[]; recs: Record<string, Rec[]>; minutes: number }
+/** B9 -- per sampled topic: the practice bank filtered to it (u) and how many questions that opens (n). */
+interface Retest { u: string; n: number }
+interface Data { code: string; set: string; courseId: string; questions: Q[]; recs: Record<string, Rec[]>; retest?: Record<string, Retest>; minutes: number }
 
 const dataEl = document.getElementById('diag-data');
 if (dataEl) init(JSON.parse(dataEl.textContent ?? '{}') as Data);
@@ -192,6 +196,16 @@ function init(d: Data): void {
           ul.append(item);
         }
         li.append(ul);
+      }
+      // B9 -- retest just this topic in the practice bank. No topic is sent to analytics.
+      const rt = ratio < 1 ? d.retest?.[slug] : undefined;
+      if (rt) {
+        const a = el('a', 'mt-2 inline-flex min-h-11 items-center rounded-sm border border-rule bg-white px-4 text-[14px] font-medium text-navy-800 hover:border-gold-500', `Retest this topic (${rt.n} questions)`);
+        a.href = rt.u;
+        // The accessible name starts with the visible text (WCAG 2.5.3); the topic is added for screen readers.
+        a.append(el('span', 'sr-only', `: ${t.name}`));
+        a.addEventListener('click', () => track('recommended_resource_click', { source: 'diagnostic', link_kind: 'retest_topic', course_code: d.code }));
+        li.append(a);
       }
       list.append(li);
     }

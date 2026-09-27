@@ -152,6 +152,34 @@ console.log('\n[9] Negative fixture -- accidental email field in a track() call 
   check('the injected email fixture is detected as a leak by a fresh scan', fixtureLeak);
 }
 
+console.log('\n[10] B9 "Retest this topic" -- reuses recommended_resource_click, never sends a topic');
+{
+  const diagUiSrc = readFileSync(path.join(root, 'src/scripts/diagnostic-ui.ts'), 'utf8');
+  const resourcePageSrc = readFileSync(path.join(root, 'src/pages/resources/[slug].astro'), 'utf8');
+  const retestCalls = [
+    ...practiceSrc.matchAll(/track\('recommended_resource_click', (\{[^}]*\})\)/g),
+    ...diagUiSrc.matchAll(/track\('recommended_resource_click', (\{[^}]*link_kind: 'retest_topic'[^}]*\})\)/g),
+  ].map((m) => m[1]);
+  const practiceRetest = retestCalls.filter((p) => p.includes("link_kind: 'retest_topic'"));
+  check('practice page: weak-topic list retest link is tracked (source practice_weak_topics)',
+    practiceRetest.some((p) => p.includes("source: 'practice_weak_topics'")));
+  check('practice page: in-page diagnostic retest link is tracked (source practice_diagnostic)',
+    practiceRetest.some((p) => p.includes("source: 'practice_diagnostic'")));
+  check('10-minute diagnostic: retest link is tracked (source diagnostic, link_kind retest_topic)',
+    retestCalls.some((p) => p.includes("source: 'diagnostic'") && p.includes("link_kind: 'retest_topic'")));
+  check('no retest event carries a topic, label, key or question field',
+    retestCalls.length >= 3 && retestCalls.every((p) => !/topic:|label|key:|question/.test(p)));
+  check("no new event name was introduced for retest ('retest_topic_click' is not fired)",
+    !practiceSrc.includes('retest_topic_click') && !diagUiSrc.includes('retest_topic_click'));
+  check('the topic filter never blocks or depends on analytics (retest clicks call track() before openTopic())',
+    /track\('recommended_resource_click', \{ source: 'practice_diagnostic', link_kind: 'retest_topic' \}\);[^}]{0,160}openTopic\(/.test(practiceSrc));
+  // B8 -- the "On this topic" line on resource pages.
+  const onTopic = resourcePageSrc.match(/mbTrack\?\.\('recommended_resource_click', (\{[^}]*source: 'on_this_topic'[^}]*\})\)/);
+  check("resource page: 'On this topic' clicks send recommended_resource_click with source on_this_topic", !!onTopic);
+  check("resource page: 'On this topic' params are only source and link_kind",
+    !!onTopic && /^\{ source: 'on_this_topic', link_kind: [^,]+ \}$/.test(onTopic[1]));
+}
+
 console.log('\n==============================================================================');
 console.log(`SUMMARY: ${pass} passed, ${fail} failed`);
 console.log('==============================================================================');

@@ -14501,3 +14501,21 @@ Live check, 27 Sep 2026, 18:05 PKT, after D-352 deployed:
 So the Worker's ETag is removed by Cloudflare's own processing of HTML after the Worker. `no-transform` is not a fix: it keeps the ETag but switches off compression, which makes the page nearly five times larger on the wire, the opposite of what R-06 is for. It is not applied to normal requests.
 
 The remaining fix is a Cloudflare zone setting, which is the owner's decision. Check which HTML-modifying features are on for marlbridge.com; Automatic HTTPS Rewrites and Email Address Obfuscation are the usual ones, and no `__cf_email__` markup appears on /contact/, so Email Obfuscation looks off already. Then re-run: `curl -I https://marlbridge.com/trial/`, then the same request with `If-None-Match: <tag>`, which should give 304. The `?etag-probe=1` switch from D-352 stays until then, for that check, and is removed afterwards. R-06 stays open.
+
+## D-354 - "On this topic" line on resource pages, and "Retest this topic" (B8, B9) (2026-09-27)
+
+**Why:** backlog B8 and B9 of the resource library audit (D-339). The "Next steps" block sits at the foot of long pages, and only about 13% of readers scroll to 90%. Apart from redoing the whole diagnostic, there was no way to retest one topic.
+
+| Change | Files |
+|---|---|
+| The Next steps logic moved into a shared util. Output is byte-identical on all 1,736 resource pages. | `src/utils/content/next-steps.ts`, `src/utils/content/resource-next-steps.ts`, `src/components/tools/ResourceNextSteps.astro` |
+| A one-line "On this topic: Study guide · Revision notes · Practice questions · Test yourself" nav under the page meta. It shows only same-topic links for the page's own course, never the page itself, and nothing when there is no same-topic link. It is plain HTML and labelled by its visible text. It appears on 1,457 pages. | `src/pages/resources/[slug].astro` |
+| The practice bank accepts `?topic=<key>`, but only for keys that exist in that code's bank; anything else is ignored. On tiered syllabuses it also accepts `&tier=core`, which is applied only where the topic actually has Extended-only questions. When some questions are not tier-tagged, the banner says so and does not claim "Core only". "Show all questions" clears the filter. Focus moves to the banner. | `src/pages/practice/[code]/index.astro`, `src/utils/practice/topic-filter.ts` |
+| "Retest this topic (N questions)" appears for each topic without full marks on the 10-minute diagnostic results and in the weak-topics list, when the topic has 2 or more questions. | `src/pages/practice/[code]/diagnostic/[set].astro`, `src/scripts/diagnostic-ui.ts` |
+| Analytics: no new event. Clicks use `recommended_resource_click` with `source` = `on_this_topic`, `diagnostic`, `practice_diagnostic` or `practice_weak_topics`, and `link_kind` = the resource kind or `retest_topic`. No topic, label or question text is sent. | `docs/growth/measurement-guide.md`, `scripts/test-practice-analytics.mjs` |
+
+**Tests:** 15 new unit tests, added to `test:tools`. They include a behavioural drift test of the page's inline helpers against the util, and a check over every real bank that the Core filter is offered only where it removes a question. There are 8 new analytics checks. 79 browser checks (Playwright) pass, covering desktop and 390 px, JavaScript off, keyboard focus after Retest, Ctrl+click, and invalid and prototype keys.
+
+**Independent code review:** no high-severity findings. All seven medium and low points were fixed: honest Core wording on 0610/0625, focus management, accessible names, modified clicks, the drift test, nav labelling and keeping the tier setting on retest.
+
+**Owner decision pending:** on 0620 Extended-only pages, "Test yourself" links to the course's first diagnostic, the Core set, as Next steps already does.
