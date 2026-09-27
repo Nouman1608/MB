@@ -182,6 +182,8 @@ The sequence is: choose syllabus → find weak topic → study → questions →
 | B5 | 2 | /resources/ib-myp-individuals-and-societies-subject-guide/ | Repetition; no key or global concepts; no next steps | Remove repeats; add key concepts, global contexts and links to MYP resources | Useful for the page students actually find | Most-clicked resource (11 clicks, 242 impressions) | Low | No repeated section; at least 3 internal links; concepts listed from the IB brief |
 | B6 | 2 | 9701 revision notes | 14 subtopics have no revision notes (e.g. 28.3–28.5) | Condensed notes for the missing subtopics, from the existing study guides | Quick revision for all of topic 28 | Owner-taught | Medium | Matrix shows notes for every 9701 subtopic |
 | B7 | 2 | 0620/5070 revision notes | 10 subtopics per course have no revision notes | Same approach | As B6 | As above | Medium | As B6 |
+
+**Progress on B6/B7 (D-343, 27 Sep 2026):** four new revision-notes pages cover 0620/5070 11.3–11.7 and 12.1–12.4 (9 subtopics per course) and 9701 28.3–28.5. Remaining without notes: 0620/5070 6.1, and 11 subtopics of 9701 (1.1, 1.2, 25.1, 25.2, 26.1, 26.2, 27.1, 29.4, 31.1, 32.1, 32.2). The new pages are review-pending; see section 10.
 | B8 | 4 | Resource page template | "Next steps" sits at the foot; 13% scroll to 90% | One line under the title: "On this topic: notes · practice · test yourself", reusing ResourceNextSteps links, tracked with a new link kind | Faster study → practice → retest | GA4 scroll data | Low | Line present on mapped pages; `recommended_resource_click` split by position |
 | B9 | 4 | Diagnostic results | Retest means redoing the whole set | "Retest this topic" link to the practice bank filtered to that topic | Closes the retest step | Journey gap | Low–Medium | The link opens only that topic's questions |
 | B10 | 3 | 0580 Maths (next course to map) | Not yet mapped; mensuration gap found | Build the same coverage matrix for 0580; check tier labels | Covers the highest-demand Cambridge course | Maths 55 resource clicks; 3 of the top pages | Medium | 0580 matrix in `docs/content-review/` |
@@ -220,6 +222,11 @@ The sequence is: choose syllabus → find weak topic → study → questions →
 - **A maths teacher:** the three Extended mensuration questions and their mark allocations.
 - **An English/IB teacher:** the Language A Q3 answer.
 - **Physics and maths:** the small wording fixes.
+
+**D-343 revision notes (added 27 Sep 2026), for the chemistry teacher:**
+- `fuels-alkanes-and-alkenes-revision-notes`, `alcohols-and-carboxylic-acids-revision-notes`, `practical-techniques-revision-notes` (0620/5070) and `a-chemistry-transition-elements-colour-isomerism-kstab-revision-notes` (9701).
+- Points to confirm: the cobalt(II) colours (Co(OH)₂ "blue precipitate", [Co(NH₃)₆]²⁺ "pale brown (straw)"), [CuCl₄]²⁻ "yellow-green", and whether mark schemes also credit heat for hydrogenation.
+- An independent AI check against the syllabus PDFs found no equation or calculation errors; its tier-label and wording findings were fixed. That check is not a teacher review.
 
 None of these is marked reviewed.
 
