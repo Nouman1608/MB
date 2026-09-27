@@ -168,7 +168,7 @@ def main():
             detail.append(f"| {tp['number']} | {tp['name']} | {have['SG']} | {have['RN']} | {have['PQ']} | {ms} |")
     gaps.sort(key=lambda g: -g[0])
     lines += ['', '## Largest remaining gaps', '',
-              'Topic-level gaps first, then subtopic depth. Also outstanding, outside this table: the past-paper index (brief step 5) is not built, because per-series board links and examiner-report notes could not be verified; IB Global Politics and the four MYP subjects are waiting for their official IB documents.', '']
+              'Topic-level gaps first, then subtopic depth. Past-paper guides (brief step 5) now exist for the Cambridge syllabuses whose examiner reports and grade-threshold tables were available (0620, 0610, 9700, 9701, 9702, 9708, 9609, 9618, 2281, 7115, 1123); 0580, 0625, 9709 and the Edexcel and AQA syllabuses still have none, because their examiner reports were not available.', '']
     lines += [f'{i}. {g[1]}' for i, g in enumerate(gaps[:10], 1)]
     lines += ['', '## Detail by syllabus'] + detail
     open(os.path.join(ROOT, 'content-gap-report.md'), 'w', encoding='utf-8').write('\n'.join(lines) + '\n')

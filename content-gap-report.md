@@ -1,6 +1,6 @@
 # Content gap report
 
-**Generated 28 Sep 2026, 00:30 PKT** by `python3 scripts/content-gap-report.py` (content-breadth sprint).
+**Generated 28 Sep 2026, 03:46 PKT** by `python3 scripts/content-gap-report.py` (content-breadth sprint).
 
 Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series only), which is the build-validated transcription of each board's official document. A topic counts as having a study guide (SG), revision notes (RN) or practice set (PQ) only if a resource of that type maps to it. Subtopic columns count exact subtopic mappings only. Nothing here says a page has been teacher-reviewed: all resources remain `review-pending`.
 
@@ -13,20 +13,20 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 | DP Language A: Language and Literature (language-a-language-and-literature) | First assessments for SL and HL 2021 | 30 | 10 / 10 / 10 | 3 / 3 | no subtopic data | complete |
 | DP Language A: Literature (language-a-literature) | First assessments for SL and HL 2021 | 30 | 10 / 10 / 10 | 3 / 3 | no subtopic data | complete |
 | DP Environmental Systems and Societies (environmental-systems-and-societies) | First assessment 2026 | 36 | 12 / 12 / 12 | 11 / 11 | 27 / 27 | complete |
-| DP Global Politics (global-politics) | First assessment 2026 | 6 | 2 / 2 / 2 | 2 / 5 | no subtopic data | gaps remain |
+| DP Global Politics (global-politics) | First assessment 2026 | 30 | 10 / 10 / 10 | 5 / 5 | no subtopic data | complete |
 | DP Language B (language-b) | First assessment 2020 | 30 | 10 / 10 / 10 | 5 / 5 | no subtopic data | complete |
-| MYP Language Acquisition (myp-language-acquisition) | From 2020 (first eAssessment May 2023/November 2023) | 7 | 2 / 2 / 2 | 2 / 5 | no subtopic data | gaps remain |
-| MYP Sciences (myp-sciences) | From 2014 | 7 | 2 / 2 / 2 | 2 / 5 | no subtopic data | gaps remain |
-| MYP Design (myp-design) | From 2014 | 6 | 2 / 2 / 2 | 1 / 4 | 0 / 4 | gaps remain |
-| MYP Individuals and Societies (myp-individuals-and-societies) | From 2014 | 7 | 2 / 2 / 2 | 3 / 6 | no subtopic data | gaps remain |
-| 0580 (mathematics) | 2025-2027 | 31 | 9 / 9 / 13 | 9 / 9 | 0 / 72 | complete |
+| MYP Language Acquisition (myp-language-acquisition) | From 2020 (first eAssessment May 2023/November 2023) | 31 | 10 / 10 / 10 | 5 / 5 | no subtopic data | complete |
+| MYP Sciences (myp-sciences) | From 2014 | 31 | 10 / 10 / 10 | 3 / 5 | no subtopic data | gaps remain |
+| MYP Design (myp-design) | From 2014 | 30 | 10 / 10 / 10 | 4 / 4 | 4 / 4 | complete |
+| MYP Individuals and Societies (myp-individuals-and-societies) | From 2014 | 31 | 10 / 10 / 10 | 4 / 6 | no subtopic data | gaps remain |
+| 0580 (mathematics) | 2025-2027 | 31 | 9 / 9 / 13 | 9 / 9 | 29 / 72 | complete |
 | 0620 (chemistry) | 2026-2028 | 59 | 19 / 20 / 20 | 12 / 12 | 46 / 49 | complete |
-| 0625 (physics) | For examination in 2026, 2027 and 2028 | 21 | 6 / 6 / 9 | 6 / 6 | 22 / 24 | complete |
+| 0625 (physics) | For examination in 2026, 2027 and 2028 | 22 | 6 / 6 / 10 | 6 / 6 | 24 / 24 | complete |
 | 0610 (biology) | For examination in 2026, 2027 and 2028 | 63 | 21 / 21 / 21 | 21 / 21 | 55 / 61 | complete |
 | 9701 (chemistry) | 2025-2027 | 129 | 43 / 43 / 43 | 37 / 37 | 90 / 90 | complete |
 | 9702 (physics) | 2025-2027 | 75 | 25 / 25 / 25 | 25 / 25 | 76 / 76 | complete |
 | 9700 (biology) | For examination in 2025, 2026 and 2027 | 57 | 19 / 19 / 19 | 19 / 19 | 18 / 44 | complete |
-| 9709 (mathematics) | 2026-2027 | 22 | 8 / 6 / 8 | 6 / 6 | 5 / 38 | complete |
+| 9709 (mathematics) | 2026-2027 | 59 | 19 / 19 / 21 | 6 / 6 | 36 / 38 | complete |
 | 4MA1 (mathematics) | Specification Issue 2, November 2017 | 18 | 6 / 6 / 6 | 6 / 6 | 17 / 36 | complete |
 | 4CH1 (chemistry) | Issue 3, September 2024 | 14 | 4 / 4 / 6 | 4 / 4 | 1 / 17 | complete |
 | 4PH1 (physics) | Issue 4 | 24 | 8 / 8 / 8 | 8 / 8 | 30 / 30 | complete |
@@ -38,18 +38,18 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 
 ## Largest remaining gaps
 
-Topic-level gaps first, then subtopic depth. Also outstanding, outside this table: the past-paper index (brief step 5) is not built, because per-series board links and examiner-report notes could not be verified; IB Global Politics and the four MYP subjects are waiting for their official IB documents.
+Topic-level gaps first, then subtopic depth. Past-paper guides (brief step 5) now exist for the Cambridge syllabuses whose examiner reports and grade-threshold tables were available (0620, 0610, 9700, 9701, 9702, 9708, 9609, 9618, 2281, 7115, 1123); 0580, 0625, 9709 and the Edexcel and AQA syllabuses still have none, because their examiner reports were not available.
 
-1. DP Global Politics: 3 of 5 topics still lack at least one of study guide / revision notes / practice set
-2. MYP Language Acquisition: 3 of 5 topics still lack at least one of study guide / revision notes / practice set
-3. MYP Sciences: 3 of 5 topics still lack at least one of study guide / revision notes / practice set
-4. MYP Design: 3 of 4 topics still lack at least one of study guide / revision notes / practice set
-5. MYP Individuals and Societies: 3 of 6 topics still lack at least one of study guide / revision notes / practice set
-6. 0580: 72 of 72 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
-7. 9709: 33 of 38 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
-8. 9700: 26 of 44 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
-9. 4MA1: 19 of 36 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
-10. 4CH1: 16 of 17 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
+1. MYP Sciences: 2 of 5 topics still lack at least one of study guide / revision notes / practice set
+2. MYP Individuals and Societies: 2 of 6 topics still lack at least one of study guide / revision notes / practice set
+3. 0580: 43 of 72 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
+4. 9700: 26 of 44 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
+5. 4MA1: 19 of 36 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
+6. 4CH1: 16 of 17 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
+7. 4BI1: 11 of 12 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
+8. 8462: 7 of 8 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
+9. 8300: 7 of 7 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
+10. 0610: 6 of 61 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
 
 ## Detail by syllabus
 
@@ -109,11 +109,11 @@ Topic-level gaps first, then subtopic depth. Also outstanding, outside this tabl
 
 | # | Topic | SG | RN | PQ | Subtopics missing a type (missing types) |
 |---|---|---|---|---|---|
-| 1 | Core topics: Understanding power and global politics | 0 | 0 | 0 | topic has no subtopic data |
+| 1 | Core topics: Understanding power and global politics | 6 | 6 | 6 | topic has no subtopic data |
 | 2 | Thematic studies: Rights and justice | 1 | 1 | 1 | topic has no subtopic data |
-| 3 | Thematic studies: Development and sustainability | 0 | 0 | 0 | topic has no subtopic data |
+| 3 | Thematic studies: Development and sustainability | 1 | 1 | 1 | topic has no subtopic data |
 | 4 | Thematic studies: Peace and conflict | 1 | 1 | 1 | topic has no subtopic data |
-| 5 | HL extension: Global political challenges | 0 | 0 | 0 | topic has no subtopic data |
+| 5 | HL extension: Global political challenges | 1 | 1 | 1 | topic has no subtopic data |
 
 ### DP Language B -- language-b (ib ib-dp, First assessment 2020)
 
@@ -129,30 +129,30 @@ Topic-level gaps first, then subtopic depth. Also outstanding, outside this tabl
 
 | # | Topic | SG | RN | PQ | Subtopics missing a type (missing types) |
 |---|---|---|---|---|---|
-| 1 | Key concepts (examples) | 0 | 0 | 0 | topic has no subtopic data |
-| 2 | Related concepts (examples) | 0 | 0 | 0 | topic has no subtopic data |
-| 3 | Global contexts | 0 | 0 | 0 | topic has no subtopic data |
-| 4 | Assessment criteria (Listening, Reading, Speaking, Writing) | 2 | 2 | 2 | topic has no subtopic data |
-| 5 | MYP eAssessment structure and proficiency levels | 1 | 1 | 1 | topic has no subtopic data |
+| 1 | Key concepts (examples) | 1 | 1 | 1 | topic has no subtopic data |
+| 2 | Related concepts (examples) | 2 | 2 | 2 | topic has no subtopic data |
+| 3 | Global contexts | 1 | 1 | 1 | topic has no subtopic data |
+| 4 | Assessment criteria (Listening, Reading, Speaking, Writing) | 8 | 8 | 8 | topic has no subtopic data |
+| 5 | MYP eAssessment structure and proficiency levels | 2 | 2 | 2 | topic has no subtopic data |
 
 ### MYP Sciences -- myp-sciences (ib ib-myp, From 2014)
 
 | # | Topic | SG | RN | PQ | Subtopics missing a type (missing types) |
 |---|---|---|---|---|---|
 | 1 | Key concepts (examples: change, relationships, systems) | 0 | 0 | 0 | topic has no subtopic data |
-| 2 | Related concepts (examples: energy, movement, transformation, models) | 0 | 0 | 0 | topic has no subtopic data |
+| 2 | Related concepts (examples: energy, movement, transformation, models) | 8 | 8 | 8 | topic has no subtopic data |
 | 3 | Global contexts | 0 | 0 | 0 | topic has no subtopic data |
 | 4 | Assessment criteria (A: Knowing and understanding; B: Inquiring and designing; C: Processing and evaluating; D: Reflecting on the impacts of science) | 1 | 1 | 1 | topic has no subtopic data |
-| 5 | MYP eAssessment structure and on-screen examination topics (examples) | 1 | 1 | 1 | topic has no subtopic data |
+| 5 | MYP eAssessment structure and on-screen examination topics (examples) | 9 | 9 | 9 | topic has no subtopic data |
 
 ### MYP Design -- myp-design (ib ib-myp, From 2014)
 
 | # | Topic | SG | RN | PQ | Subtopics missing a type (missing types) |
 |---|---|---|---|---|---|
-| 1 | Key concepts (examples) | 0 | 0 | 0 | topic has no subtopic data |
-| 2 | Related concepts (examples) | 0 | 0 | 0 | topic has no subtopic data |
-| 3 | Global contexts | 0 | 0 | 0 | topic has no subtopic data |
-| 4 | Assessment criteria | 2 | 2 | 2 | A (SG/RN/PQ), B (SG/RN/PQ), C (SG/RN/PQ), D (SG/RN/PQ) |
+| 1 | Key concepts (examples) | 1 | 1 | 1 | topic has no subtopic data |
+| 2 | Related concepts (examples) | 3 | 3 | 3 | topic has no subtopic data |
+| 3 | Global contexts | 2 | 2 | 2 | topic has no subtopic data |
+| 4 | Assessment criteria | 6 | 6 | 6 | -- |
 
 ### MYP Individuals and Societies -- myp-individuals-and-societies (ib ib-myp, From 2014)
 
@@ -160,24 +160,24 @@ Topic-level gaps first, then subtopic depth. Also outstanding, outside this tabl
 |---|---|---|---|---|---|
 | 1 | Constituent disciplines | 1 | 1 | 1 | topic has no subtopic data |
 | 2 | Key concepts (examples) | 0 | 0 | 0 | topic has no subtopic data |
-| 3 | Related concepts (examples) | 0 | 0 | 0 | topic has no subtopic data |
+| 3 | Related concepts (examples) | 8 | 8 | 8 | topic has no subtopic data |
 | 4 | Global contexts | 0 | 0 | 0 | topic has no subtopic data |
 | 5 | Assessment criteria | 1 | 1 | 1 | topic has no subtopic data |
-| 6 | MYP eAssessment topics (examples) | 1 | 1 | 1 | topic has no subtopic data |
+| 6 | MYP eAssessment topics (examples) | 9 | 9 | 9 | topic has no subtopic data |
 
 ### 0580 -- mathematics (cambridge igcse, 2025-2027)
 
 | # | Topic | SG | RN | PQ | Subtopics missing a type (missing types) |
 |---|---|---|---|---|---|
-| 1 | Number | 1 | 1 | 2 | 1.1 (SG/RN), 1.2 (SG/RN/PQ), 1.3 (SG/RN/PQ), 1.4 (SG/RN), 1.5 (SG/RN/PQ), 1.6 (SG/RN), 1.7 (SG/RN/PQ), 1.8 (SG/RN), 1.9 (SG/RN), 1.10 (SG/RN), 1.11 (SG/RN), 1.12 (SG/RN), 1.13 (SG/RN), 1.14 (SG/RN/PQ), 1.15 (SG/RN/PQ), 1.16 (SG/RN/PQ), 1.17 (SG/RN), 1.18 (SG/RN) |
-| 2 | Algebra and graphs | 1 | 1 | 2 | 2.1 (SG/RN/PQ), 2.2 (SG/RN), 2.3 (SG/RN), 2.4 (SG/RN), 2.5 (SG/RN), 2.6 (SG/RN), 2.7 (SG/RN), 2.8 (SG/RN), 2.9 (SG/RN/PQ), 2.10 (SG/RN/PQ), 2.11 (SG/RN/PQ), 2.12 (SG/RN), 2.13 (SG/RN) |
-| 3 | Coordinate geometry | 1 | 1 | 1 | 3.1 (SG), 3.2 (SG), 3.3 (SG), 3.4 (SG), 3.5 (SG), 3.6 (SG), 3.7 (SG) |
-| 4 | Geometry | 1 | 1 | 2 | 4.1 (SG), 4.2 (SG), 4.3 (SG), 4.4 (SG), 4.5 (SG), 4.6 (SG), 4.7 (SG), 4.8 (SG) |
-| 5 | Mensuration | 1 | 1 | 1 | 5.1 (SG), 5.2 (SG), 5.3 (SG), 5.4 (SG), 5.5 (SG) |
-| 6 | Trigonometry | 1 | 1 | 2 | 6.1 (SG), 6.2 (SG), 6.3 (SG), 6.4 (SG), 6.5 (SG), 6.6 (SG) |
-| 7 | Transformations and vectors | 1 | 1 | 1 | 7.1 (SG), 7.2 (SG), 7.3 (SG), 7.4 (SG) |
-| 8 | Probability | 1 | 1 | 2 | 8.1 (SG), 8.2 (SG), 8.3 (SG), 8.4 (SG) |
-| 9 | Statistics | 1 | 1 | 2 | 9.1 (SG/RN), 9.2 (SG/RN), 9.3 (SG/RN), 9.4 (SG/RN), 9.5 (SG/RN), 9.6 (SG/RN), 9.7 (SG/RN) |
+| 1 | Number | 1 | 1 | 2 | 1.2 (SG), 1.3 (SG), 1.4 (SG), 1.5 (SG), 1.6 (SG), 1.7 (SG/PQ), 1.9 (SG/RN), 1.12 (SG), 1.14 (SG), 1.15 (SG), 1.16 (SG), 1.17 (SG), 1.18 (SG) |
+| 2 | Algebra and graphs | 1 | 1 | 2 | 2.1 (SG), 2.2 (SG), 2.3 (SG), 2.4 (SG), 2.8 (SG), 2.9 (SG/PQ), 2.10 (SG/PQ), 2.11 (SG), 2.13 (SG) |
+| 3 | Coordinate geometry | 1 | 1 | 1 | 3.1 (SG), 3.2 (SG) |
+| 4 | Geometry | 1 | 1 | 2 | 4.1 (SG), 4.2 (SG), 4.3 (SG), 4.5 (SG), 4.8 (SG) |
+| 5 | Mensuration | 1 | 1 | 1 | 5.1 (SG), 5.2 (SG), 5.4 (SG) |
+| 6 | Trigonometry | 1 | 1 | 2 | 6.1 (SG), 6.3 (SG), 6.4 (SG) |
+| 7 | Transformations and vectors | 1 | 1 | 1 | 7.2 (SG), 7.3 (SG) |
+| 8 | Probability | 1 | 1 | 2 | 8.1 (SG), 8.2 (SG) |
+| 9 | Statistics | 1 | 1 | 2 | 9.1 (SG), 9.2 (SG), 9.4 (SG), 9.6 (SG) |
 
 ### 0620 -- chemistry (cambridge igcse, 2026-2028)
 
@@ -200,11 +200,11 @@ Topic-level gaps first, then subtopic depth. Also outstanding, outside this tabl
 
 | # | Topic | SG | RN | PQ | Subtopics missing a type (missing types) |
 |---|---|---|---|---|---|
-| 1 | Motion, forces and energy | 1 | 1 | 2 | 1.1 (RN) |
+| 1 | Motion, forces and energy | 1 | 1 | 2 | -- |
 | 2 | Thermal physics | 1 | 1 | 2 | -- |
 | 3 | Waves | 1 | 1 | 1 | -- |
-| 4 | Electricity and magnetism | 1 | 1 | 2 | 4.1 (PQ) |
-| 5 | Nuclear physics | 1 | 1 | 1 | -- |
+| 4 | Electricity and magnetism | 1 | 1 | 2 | -- |
+| 5 | Nuclear physics | 1 | 1 | 2 | -- |
 | 6 | Space physics | 1 | 1 | 1 | -- |
 
 ### 0610 -- biology (cambridge igcse, For examination in 2026, 2027 and 2028)
@@ -333,11 +333,11 @@ Topic-level gaps first, then subtopic depth. Also outstanding, outside this tabl
 
 | # | Topic | SG | RN | PQ | Subtopics missing a type (missing types) |
 |---|---|---|---|---|---|
-| 1 | Pure Mathematics 1 | 3 | 1 | 2 | 1.1 (SG/RN/PQ), 1.2 (RN/PQ), 1.3 (RN/PQ), 1.4 (SG/RN/PQ), 1.5 (SG/RN/PQ), 1.6 (SG/RN/PQ), 1.7 (SG/RN/PQ), 1.8 (SG/RN/PQ) |
-| 2 | Pure Mathematics 2 | 1 | 1 | 1 | 2.1 (SG/RN/PQ), 2.2 (SG/RN/PQ), 2.3 (SG/RN/PQ), 2.4 (SG/RN/PQ), 2.5 (SG/RN/PQ), 2.6 (SG/RN/PQ) |
-| 3 | Pure Mathematics 3 | 1 | 1 | 2 | 3.1 (PQ), 3.2 (PQ), 3.3 (PQ), 3.4 (PQ), 3.5 (PQ), 3.6 (PQ), 3.7 (PQ), 3.8 (PQ), 3.9 (PQ) |
-| 4 | Mechanics | 1 | 1 | 1 | 4.1 (PQ), 4.2 (PQ), 4.3 (PQ), 4.4 (PQ), 4.5 (PQ) |
-| 5 | Probability & Statistics 1 | 1 | 1 | 1 | 5.1 (PQ), 5.2 (PQ), 5.3 (PQ), 5.4 (PQ), 5.5 (PQ) |
+| 1 | Pure Mathematics 1 | 8 | 8 | 9 | 1.1 (SG) |
+| 2 | Pure Mathematics 2 | 7 | 7 | 7 | -- |
+| 3 | Pure Mathematics 3 | 1 | 1 | 2 | -- |
+| 4 | Mechanics | 1 | 1 | 1 | -- |
+| 5 | Probability & Statistics 1 | 1 | 1 | 1 | 5.1 (PQ) |
 | 6 | Probability & Statistics 2 | 1 | 1 | 1 | -- |
 
 ### 4MA1 -- mathematics (edexcel igcse, Specification Issue 2, November 2017)
