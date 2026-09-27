@@ -12,6 +12,9 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "motion-forces-and-energy-cambridge-igcse-physics"
+    subtopic: "physical-quantities-and-measurement-techniques-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "motion-forces-and-energy-cambridge-igcse-physics"
     subtopic: "motion-cambridge-igcse-physics"
   - qualification: "igcse"
     topic: "motion-forces-and-energy-cambridge-igcse-physics"
@@ -34,7 +37,7 @@ syllabusTopics:
 description: "Condensed recall notes on speed, acceleration, mass and weight, density, forces, momentum, energy and pressure for Cambridge IGCSE Physics 0625 Topic 1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-29
-updatedDate: 2026-09-27
+updatedDate: 2026-09-28
 featured: false
 ---
 
@@ -59,6 +62,18 @@ Condensed for the final weeks. For the full explanation, use the
 | Pressure | p = F/A |
 | Pressure in a liquid *(Supplement)* | Δp = ρgΔh |
 
+## Measurement techniques
+
+- **Ruler:** measure from the zero mark, eye directly above the reading (no parallax). **Measuring cylinder:** read the bottom of the meniscus at eye level; 1 cm³ = 1 ml.
+- **Timing:** stopwatch for longer intervals (hand timing adds reaction time); digital timer with light gates for short ones.
+- **Multiples:** measure many and divide. 20 swings of a pendulum in 28.4 s → period = 28.4 ÷ 20 = 1.42 s. 100 sheets of paper 9.5 mm thick → one sheet 0.095 mm.
+
+## Scalars and vectors *(Supplement)*
+
+- **Scalar:** magnitude (size) only: distance, speed, time, mass, energy, temperature.
+- **Vector:** magnitude and direction: force, weight, velocity, acceleration, momentum, electric field strength, gravitational field strength.
+- **Resultant of two vectors at right angles** (forces or velocities only): by calculation with Pythagoras, or by a scale drawing. Forces of 3.0 N east and 4.0 N north: resultant = √(3.0² + 4.0²) = **5.0 N**, at tan⁻¹(4.0/3.0) = 53° north of east.
+
 ## Graphs — the part everyone under-revises
 
 **Distance–time graph:** gradient = speed. A curved (steepening) line means increasing speed; flat means stationary.
@@ -77,6 +92,13 @@ Condensed for the final weeks. For the full explanation, use the
 - **Weight** is the pull of gravity on that mass — a **force**, measured in **newtons (N)**. Changes if gravitational field strength changes (e.g. weight on the Moon is about 1/6 of weight on Earth; mass is unchanged).
 - Link them with **g = W/m**, so **W = mg**. On Earth's surface, g ≈ 9.8 N/kg (equivalently, free-fall acceleration ≈ 9.8 m/s²).
 
+## Density and floating
+
+- **Liquid:** mass of cylinder empty and with liquid (difference = mass of liquid); read the volume. **Regular solid:** V = length × width × height. **Irregular solid that sinks:** volume = rise in water level when it is lowered in (displacement).
+- A 54 g stone raises the level from 40.0 cm³ to 60.0 cm³: ρ = 54 ÷ 20.0 = 2.7 g/cm³.
+- An object **floats** if its density is less than the liquid's (water: 1.0 g/cm³), and sinks if it is greater.
+- *(Supplement)* Of two liquids that do not mix, the less dense floats on top (oil on water).
+
 ## Forces
 
 - **Newton's first law:** an object stays at rest, or moving at constant velocity in a straight line, unless a resultant (unbalanced) force acts on it.
@@ -84,6 +106,8 @@ Condensed for the final weeks. For the full explanation, use the
 - **Hooke's law** *(Supplement)*: extension x is directly proportional to force, up to the limit of proportionality — beyond that limit, the load–extension graph stops being a straight line.
 - **Moment of a force** = force × perpendicular distance from the pivot. **Principle of moments**: for a body in equilibrium, the sum of clockwise moments equals the sum of anticlockwise moments. Note this is about moments only — a body is in **equilibrium** when there is **no resultant force AND no resultant moment**; balanced moments alone are not enough if the forces don't also balance.
 - **Centre of gravity**: the single point where an object's whole weight can be considered to act. A wider base and lower centre of gravity make an object more stable — this is worth being able to explain, not just state.
+- **Finding it for a flat card:** hang the card from a pin so it swings freely, hang a plumb line from the same pin and mark its line; repeat from a second hole; the centre of gravity is where the lines cross.
+- **Load–extension experiment:** spring, clamp, vertical ruler, pointer; add loads one at a time; extension = new length − original length; plot load against extension.
 
 ## Momentum *(Supplement only)*
 
@@ -97,12 +121,22 @@ F = Δp/Δt  (resultant force = rate of change of momentum)
 
 ## Energy, work and power
 
+- **Energy stores:** kinetic, gravitational potential, chemical, elastic (strain), nuclear, electrostatic, internal (thermal).
+- **Transfers:** by forces (mechanical work), electrical currents (electrical work), heating, and waves (electromagnetic, sound).
 - **Principle of conservation of energy:** energy cannot be created or destroyed, only transferred from one store to another (or the same store, redistributed between objects).
-- **Work done, W = Fd** — the force must act *in the direction of motion*; only that component does work.
+- **Work done, W = Fd = ΔE** — work done equals the energy transferred; the force must act *in the direction of motion*; only that component does work.
 - **Kinetic energy** *(Supplement)*: KE = ½mv². **Gravitational potential energy** *(Supplement)*: GPE = mgh (change in height).
 - **Sankey diagrams** *(Supplement)* show energy input on the left, useful and wasted output on the right, with arrow width proportional to energy — read them by comparing arrow widths, not just labels.
 - **Power, P = W/t = ΔE/t** — the rate of doing work, or the rate of energy transfer. Units: watts (W), 1 W = 1 J/s.
 - **Efficiency** *(Supplement)* = useful energy output / total energy input (as a fraction or percentage) — never more than 100%.
+
+## Energy resources
+
+- **Boiler → turbine → generator:** fossil fuels, biofuels and nuclear fuel heat water to steam, which turns a turbine that drives a generator. Hydroelectric, tidal, wave and wind turn the turbine directly; geothermal uses steam from hot rocks.
+- **Solar cells** turn light into electrical energy; **solar panels** use infrared from the Sun to heat water.
+- **Renewable:** biofuels, hydroelectric, tides, waves, geothermal, solar, wind. **Not renewable:** fossil fuels, nuclear fuel.
+- Compare them on **renewability, availability, reliability, scale and environmental impact**: fossil fuels are reliable and large-scale but release CO₂; wind and solar release no CO₂ in operation but depend on the weather; nuclear is reliable with no CO₂ in operation, but leaves radioactive waste.
+- *(Supplement)* The Sun is the main source of energy for all our resources except **geothermal, nuclear and tidal**. The Sun releases energy by **nuclear fusion**; research is under way into generating electricity from fusion on a large scale.
 
 ## Pressure
 

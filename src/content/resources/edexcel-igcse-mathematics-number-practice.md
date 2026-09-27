@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on fractions, ratio, percentages, standard form and bounds."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-28
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -24,6 +25,8 @@ featured: false
 > these alongside the official past papers available free from your board.
 
 Related: [Numbers and the Number System revision notes](/resources/edexcel-igcse-mathematics-number-revision-notes/)
+
+**Tiers:** questions and parts marked **(Higher tier only)** use content that the 4MA1 specification (Issue 2) lists for the Higher Tier only: converting recurring decimals to fractions (1.3A) and solving problems with upper and lower bounds (1.8A). Everything else is for both tiers; the Foundation Tier includes identifying upper and lower bounds (1.8C).
 
 ---
 
@@ -40,10 +43,10 @@ Related: [Numbers and the Number System revision notes](/resources/edexcel-igcse
 **(a)** (3.2 × 10⁵) × (2.5 × 10⁻³) **[2]**
 **(b)** (8.4 × 10⁷) ÷ (4.0 × 10²) **[2]**
 
-**4.** A population increases from 48 000 to 55 200.
+**4.** In one year, a population increases from 48 000 to 55 200.
 
 **(a)** Calculate the percentage increase. **[3]**
-**(b)** If it continues to grow at this rate, calculate the population after a further 3 years. **[3]**
+**(b)** If it continues to grow at this rate each year, calculate the population after a further 3 years. **[3]**
 
 **5.** The value of a car depreciates by 18% each year. It is bought for $24 000.
 
@@ -53,9 +56,9 @@ Related: [Numbers and the Number System revision notes](/resources/edexcel-igcse
 **6.** x = 6.2 and y = 3.5, both correct to 1 decimal place.
 
 **(a)** Write the upper and lower bounds of x and y. **[2]**
-**(b)** Calculate the lower bound of x ÷ y. **[3]**
+**(b)** **(Higher tier only)** Calculate the lower bound of x ÷ y. **[3]**
 
-**7.** Express 0.2̇7̇ as a fraction in its simplest form. **[3]**
+**7.** **(Higher tier only)** Express 0.2̇7̇ as a fraction in its simplest form. **[3]**
 
 ---
 

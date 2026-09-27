@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on fields, records and primary keys, choosing data types for fields, and writing and reading SQL using SELECT, FROM, WHERE, ORDER BY, SUM and COUNT, for Cambridge O Level Computer Science (2210)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-28
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -59,7 +60,9 @@ Each question practises a skill tested in the June 2025 Paper 22. After each ans
 
 **2.** WeightKg: **real**; Vaccinated: **Boolean**; Species: **text**; Visits: **integer**. All four correct [2]; two or three correct [1].
 
-*Mark-scheme insight (June 2025):* The same banding was used: two marks for all four fields correct, one mark for two or three. An identifier field was accepted as either integer or text, because the right type depends on what the values look like, so base your choice on the data given.
+*Mark-scheme insight (Cambridge 2210 June 2025 mark scheme, Paper 22, Question 9(a)):* The same banding was used: two marks for all four fields correct, one mark for two or three. The identifier field was listed under both integer and text, so either type was accepted; base your choice on what the values in the data look like.
+
+*Source for the mark-scheme insights on this page: Cambridge O Level Computer Science 2210 June 2025 mark scheme for Paper 22 (2210/22), paraphrased. This mark scheme is not published on Cambridge's [2210 past papers page](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-computer-science-2210/past-papers/) (checked September 2026).*
 
 *Try the real question next:* Cambridge O Level Computer Science 2210, June 2025, Paper 22, Question 9.
 
@@ -73,7 +76,7 @@ WHERE Species = 'Dog';
 
 Both correct fields, and only those, after SELECT [1]; FROM Pet [1]; the correct field Species in the WHERE clause [1]; the correct criterion 'Dog' in quotation marks [1].
 
-*Mark-scheme insight (June 2025):* Each part of the statement earned its own mark: the fields after SELECT, the keyword FROM, the field in WHERE and the criterion. A text criterion was accepted in either single or double quotation marks.
+*Mark-scheme insight (Cambridge 2210 June 2025 mark scheme, Paper 22, Question 9(b)):* Each part of the statement earned its own mark: the fields after SELECT, the keyword FROM, the field in WHERE and the criterion. A text criterion was accepted in either single or double quotation marks.
 
 *Try the real question next:* Cambridge O Level Computer Science 2210, June 2025, Paper 22, Question 9.
 

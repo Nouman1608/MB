@@ -12,6 +12,9 @@ order: 4
 syllabusTopics:
   - qualification: "igcse"
     topic: "electricity-and-magnetism-cambridge-igcse-physics"
+    subtopic: "simple-phenomena-of-magnetism-cambridge-igcse-physics"
+  - qualification: "igcse"
+    topic: "electricity-and-magnetism-cambridge-igcse-physics"
     subtopic: "electrical-quantities-cambridge-igcse-physics"
   - qualification: "igcse"
     topic: "electricity-and-magnetism-cambridge-igcse-physics"
@@ -22,7 +25,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on current as rate of flow of charge, resistors in parallel, how resistance depends on length and cross-sectional area, the direction of an induced e.m.f., transformer calculations and power losses in transmission cables, for Cambridge IGCSE Physics (0625) Extended candidates."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
-updatedDate: 2026-09-27
+updatedDate: 2026-09-28
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -31,7 +34,7 @@ featured: false
 > mark tariffs — Cambridge International holds copyright in its own papers. Use
 > these alongside the official past papers available from your board.
 
-> **Tier note:** everything marked *(Extended)* is Supplement content of the 0625 syllabus. Two parts are Core: the transformer turns ratio, Vₚ/Vₛ = Nₚ/Nₛ, in 5(a) (syllabus 4.5.6 Core 3), and finding a current from P = IV in 6(a) (4.2.5 Core 2). The later parts of those questions (IₚVₚ = IₛVₛ and power loss P = I²R, 4.5.6 Supplement 7–8) and all of questions 1–4 are Extended only.
+> **Tier note:** everything marked *(Extended)* is Supplement content of the 0625 syllabus. Two parts are Core: the transformer turns ratio, Vₚ/Vₛ = Nₚ/Nₛ, in 5(a) (syllabus 4.5.6 Core 3), and finding a current from P = IV in 6(a) (4.2.5 Core 2). The later parts of those questions (IₚVₚ = IₛVₛ and power loss P = I²R, 4.5.6 Supplement 7–8) and all of questions 1–4 and 7 are Extended only.
 
 After each answer there is a common mistake to avoid.
 
@@ -50,6 +53,8 @@ After each answer there is a common mistake to avoid.
 **5.** A transformer has 1600 turns on its primary coil, which is connected to a 240 V a.c. supply. The output voltage is 12 V. **(a)** Calculate the number of turns on the secondary coil. **(b)** *(Extended)* The current in the secondary coil is 2.0 A. Assuming the transformer is 100% efficient, calculate the current in the primary coil. **[3]**
 
 **6.** A power station sends 20 MW of electrical power along transmission cables at 400 kV. The total resistance of the cables is 5.0 Ω. **(a)** Calculate the current in the cables. **(b)** *(Extended)* Calculate the power wasted as heat in the cables. **(c)** *(Extended)* Explain why sending the same power at a lower voltage would waste more energy. **[3]**
+
+**7.** *(Extended)* A student draws the magnetic field lines around a bar magnet. **(a)** State how the drawing shows where the magnetic field is strongest, and where that is. **(b)** The N poles of two bar magnets are held close together. State what causes the force between them. **[3]**
 
 ---
 
@@ -84,6 +89,11 @@ After each answer there is a common mistake to avoid.
 **(c)** *(Extended)* For the same power, a lower voltage needs a **larger current**, and since the power lost is I²R, the loss rises with the **square of the current** [1].
 
 *Common mistake:* using P = V²/R with the 400 kV supply voltage. The 400 kV is not the voltage across the cables, so the loss must be worked out from the current using I²R.
+
+**7.** *(Extended)* **(a)** The field is strongest where the field lines are **closest together** [1], which is near the **poles** [1].
+**(b)** The force is due to the **interaction between the magnetic fields** of the two magnets [1] (here it is a repulsion, because the poles are alike).
+
+*Common mistake:* drawing more lines to show a stronger magnet but spacing them evenly. Strength is shown by how close together the lines are.
 
 ---
 

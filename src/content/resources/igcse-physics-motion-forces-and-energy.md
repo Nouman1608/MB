@@ -37,7 +37,7 @@ syllabusTopics:
 description: "Physical quantities, motion graphs, mass and weight, density, forces, momentum, energy/work/power and pressure -- the Core and Supplement content of Topic 1 Motion, forces and energy for Cambridge IGCSE Physics 0625, 2026-2028 series."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
-updatedDate: 2026-09-27
+updatedDate: 2026-09-28
 featured: false
 ---
 
@@ -63,6 +63,11 @@ treatment of the gas laws.
 
 **CAMBRIDGE IGCSE PHYSICS 0625 — TOPIC 1 MOTION, FORCES AND ENERGY**
 
+This list summarises what the syllabus requires; it is not a list of what
+this page explains. The sections below, the
+[revision notes](/resources/igcse-physics-motion-forces-and-energy-revision-notes/)
+and the practice sets teach it between them.
+
 - 1.1 Physical quantities and measurement techniques (Core) — using
 rulers and measuring cylinders for length/volume, timing intervals with
 clocks and digital timers, and finding an average value for a small
@@ -79,8 +84,10 @@ terminal velocity, and describing **qualitatively** the motion of an
 object travelling in a circular path at constant speed under a force
 directed towards the centre
 - 1.3 Mass and weight (Core) — mass as the quantity of matter in an
-object, weight as the **effect of a gravitational field on a mass**
-(a force), and gravitational field strength g = W/m
+object, weight as a gravitational force on an object that has mass,
+gravitational field strength g = W/m, and comparing weights (and masses)
+with a balance; (Supplement) weight as the **effect of a gravitational
+field on a mass**
 - 1.4 Density (Core) — density as mass per unit volume, ρ = m/V, and
 determining the density of liquids and regular/irregular solids;
 (Supplement) predicting whether one liquid floats on another from density
@@ -195,6 +202,149 @@ momentum.
 the surface — not on the shape or width of the container. A narrow tube
 of water 2.0 m deep therefore exerts exactly the same pressure at its
 base as a wide tank of water at the same 2.0 m depth.
+
+## Measurement techniques (1.1)
+
+**Lengths and volumes.** Measure a length with a ruler held against the
+object, starting from the zero mark (not the worn end of the ruler), with
+your eye directly above the reading to avoid parallax. Measure the volume
+of a liquid with a measuring cylinder on a level bench: read the bottom
+of the meniscus with your eye level with it. Volumes are usually in cm³
+(1 cm³ = 1 ml).
+
+**Time intervals.** Time longer intervals with a clock or stopwatch.
+Starting and stopping a stopwatch by hand adds your reaction time (a few
+tenths of a second) to each reading, so for short intervals use a digital
+timer started and stopped automatically, for example by light gates.
+
+**Measuring multiples.** A single small length or short time is hard to
+measure accurately, so measure many and divide.
+
+- Thickness of one sheet of paper: 100 sheets measure 9.5 mm, so one
+  sheet is 9.5 ÷ 100 = **0.095 mm**.
+- Period of a pendulum (the time for one complete swing, there and
+  back): 20 oscillations take 28.4 s, so the period is 28.4 ÷ 20 =
+  **1.42 s**. Start counting from a moving pendulum as it passes the
+  centre of its swing, and count "zero" as you start the stopwatch.
+
+## Density experiments and floating (1.4)
+
+Density ρ = m/V, in g/cm³ or kg/m³ (1 g/cm³ = 1000 kg/m³). In each
+experiment, find the mass with a balance and the volume as follows.
+
+- **A liquid:** find the mass of an empty measuring cylinder, pour in
+  the liquid and read its volume, then find the mass again. The mass of
+  the liquid is the difference between the two masses.
+- **A regularly shaped solid:** measure its length, width and height
+  with a ruler; volume = length × width × height.
+- **An irregularly shaped solid that sinks (displacement):** part-fill
+  a measuring cylinder with water and read the level. Lower the object in
+  on a thread until it is fully under water and read the new level. The
+  object's volume is the rise in level.
+
+**Worked example.** A stone of mass 54 g raises the water level in a
+measuring cylinder from 40.0 cm³ to 60.0 cm³.
+
+```
+V = 60.0 − 40.0 = 20.0 cm³
+ρ = m / V = 54 / 20.0 = 2.7 g/cm³   (= 2700 kg/m³)
+```
+
+**Will it float?** An object floats in a liquid if its density is less
+than the liquid's density, and sinks if its density is greater. Water's
+density is 1.0 g/cm³. A block 5.0 cm × 4.0 cm × 2.0 cm has a volume of
+40 cm³; if its mass is 32 g, its density is 32 ÷ 40 = 0.80 g/cm³, so it
+floats in water. The 2.7 g/cm³ stone sinks.
+
+*(Supplement)* Two liquids that do not mix form layers: the less dense
+liquid floats on top. Oil of density 0.92 g/cm³ floats on water
+(1.0 g/cm³).
+
+## Forces: experiments and everyday moments (1.5)
+
+**Load–extension experiment.** Hang a spring from a clamp with a
+vertical ruler beside it and a pointer on the bottom of the spring. Record
+the pointer reading with no load. Add equal loads one at a time (for
+example 1.0 N each), recording the pointer reading each time; extension =
+new reading − original reading. Read the ruler at eye level, and remove
+the loads at the end to check whether the spring returns to its original
+length. Plot load against extension (or extension against load; read the
+axis labels in a question). For a spring the graph is a straight line
+through the origin, up to the limit of proportionality *(Supplement
+term)*, after which it curves. For example, a spring 12.0 cm long that
+measures 15.6 cm with a 3.0 N load has an extension of 3.6 cm.
+
+**Moments in everyday life.** The moment of a force measures its turning
+effect. A door handle is placed far from the hinges, and a long spanner
+turns a tight nut more easily, because a larger perpendicular distance
+gives a larger moment for the same force. A see-saw balances when the
+moments on each side are equal.
+
+**Finding the centre of gravity of an irregular flat card (lamina).**
+Make two or three small holes near the edge of the card. Hang the card
+from a pin through one hole, held in a clamp, so it swings freely, and
+hang a plumb line (a thread with a small mass) from the same pin. When
+both are still, mark the line of the thread on the card. Repeat from a
+second hole. The centre of gravity is where the lines cross; a line from
+a third hole should pass through the same point, which checks the result.
+
+## Energy stores, transfers and resources (1.7)
+
+**Stores.** Energy may be stored as kinetic, gravitational potential,
+chemical, elastic (strain), nuclear, electrostatic and internal (thermal)
+energy.
+
+**Transfers between stores** happen by forces doing mechanical work, by
+electrical currents doing electrical work, by heating, and by waves
+(electromagnetic, sound and others). Examples: a stretched catapult
+(elastic store) does mechanical work on a stone (kinetic store); a
+battery drives a current through a motor (chemical store → kinetic store
+of the motor, with some to internal store by heating); a hot drink cools
+(its internal store → the surroundings' internal store, by heating).
+
+**Work done = energy transferred.** Mechanical or electrical work done
+equals the energy transferred: W = Fd = ΔE. Pushing a box with a force
+of 250 N for 4.0 m does 250 × 4.0 = **1000 J** of work, transferring
+1000 J.
+
+**Energy flow diagrams (Core)** show stores as boxes and transfers as
+arrows. A torch: chemical store of the battery → (electrical work) →
+lamp → (light and heating) → internal store of the surroundings. By
+conservation of energy, the energy out equals the energy in.
+
+*(Supplement)* **A multi-stage example.** In a fuel-burning power
+station, suppose each 100 J of chemical energy in the fuel gives:
+boiler, 10 J wasted by heating; turbine, 50 J wasted; generator, 5 J
+wasted. The electrical output is 100 − 10 − 50 − 5 = **35 J**, so the
+efficiency is 35%. In a Sankey diagram the arrow starts 100 units wide,
+and each wasted-energy arrow branches off at its stage. (Illustrative
+figures, not data for a real power station.)
+
+**Energy resources.** Most generate electricity by turning a
+**turbine** connected to a **generator**; in fuel-burning and nuclear
+power stations the energy first heats water in a **boiler** to make
+high-pressure steam that drives the turbine.
+
+| Resource | How useful energy is obtained | Renewable? | Advantages | Disadvantages |
+|---|---|---|---|---|
+| Fossil fuels (coal, oil, gas) | chemical energy released by burning; boiler, turbine, generator | no | reliable; large scale; available on demand | release CO₂ (climate change) and other pollutants; will run out |
+| Biofuels (wood, biogas, ethanol) | chemical energy released by burning | yes | renewable; plants absorb CO₂ as they grow | need large areas of land; release CO₂ and pollutants when burnt |
+| Hydroelectric | water stored behind a dam flows down through turbines | yes | no fuel or CO₂ in operation; reliable; output can be started quickly | floods valleys and habitats; only where the geography suits; expensive to build |
+| Tides | water trapped behind a barrage flows through turbines | yes | predictable; no CO₂ in operation | few suitable estuaries; affects habitats; output varies with the tides |
+| Waves | wave motion drives floating generators | yes | no CO₂ in operation | small scale; unreliable (depends on weather); hard to maintain at sea |
+| Geothermal | hot rocks heat water to steam, which drives turbines | yes | reliable; little CO₂ | only in a few volcanic areas; can be costly to drill |
+| Nuclear fuel | fission of uranium releases energy; boiler, turbine, generator | no | reliable; large scale; no CO₂ in operation | radioactive waste must be stored safely for a very long time; risk of accidents; expensive to build and dismantle |
+| Solar cells | light is transferred directly to electrical energy | yes | no CO₂ in operation; little maintenance | no output at night; less on cloudy days; large areas for large outputs |
+| Solar panels | infrared and other waves from the Sun heat water flowing through them | yes | free energy once installed | heat water rather than generate electricity; depend on sunshine |
+| Wind | moving air turns the blades of a turbine | yes | no CO₂ in operation | unreliable (depends on wind); noisy; many turbines needed; visual impact |
+
+*(Supplement)* Radiation from the Sun is the main source of energy for
+all our energy resources **except geothermal, nuclear and tidal**: it
+grows the plants that formed fossil fuels and biofuels, drives the water
+cycle that fills hydroelectric reservoirs, and drives winds and waves.
+The Sun releases energy by **nuclear fusion**, and research is being
+carried out into how energy released by nuclear fusion can be used to
+generate electricity on a large scale.
 
 ## Official syllabus
 

@@ -22,6 +22,7 @@ syllabusTopics:
 description: "Condensed Cambridge IGCSE Physics 0625 space physics revision notes: key facts, equations, star life cycle, Hubble constant and a quick self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
+updatedDate: 2026-09-28
 featured: false
 ---
 
@@ -142,13 +143,13 @@ planetary nebula + white dwarf        supernova → nebula (hydrogen + heavier e
 3. Name the planet between Saturn and Neptune.
 4. The Moon is 3.8 × 10⁸ m from the Earth. How long does light take to travel this distance?
 5. What force keeps a comet in orbit around the Sun?
-6. **(Extended)** A planet has an average orbital radius of 7.8 × 10¹¹ m and a period of 4330 days. Calculate its average orbital speed.
+6. *(Extended)* A planet has an average orbital radius of 7.8 × 10¹¹ m and a period of 4330 days. Calculate its average orbital speed.
 7. Name the three regions of the electromagnetic spectrum in which the Sun radiates most of its energy.
-8. **(Extended)** State where a comet travels fastest in its orbit and give the energy transfer that explains it.
-9. **(Extended)** What does a red supergiant form, and what can be left at the centre?
-10. **(Extended)** A galaxy recedes at 4.4 × 10⁶ m/s. Calculate its distance in metres.
-11. **(Extended)** Convert 2.0 × 10⁶ light-years into metres.
-12. **(Extended)** Why is radiation produced shortly after the Universe formed now observed as microwaves?
+8. *(Extended)* State where a comet travels fastest in its orbit and give the energy transfer that explains it.
+9. *(Extended)* What does a red supergiant form, and what can be left at the centre?
+10. *(Extended)* A galaxy recedes at 4.4 × 10⁶ m/s. Calculate its distance in metres.
+11. *(Extended)* Convert 2.0 × 10⁶ light-years into metres.
+12. *(Extended)* Why is radiation produced shortly after the Universe formed now observed as microwaves?
 
 ### Answers
 

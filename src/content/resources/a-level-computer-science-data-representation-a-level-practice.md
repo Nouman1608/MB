@@ -16,6 +16,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on enumerated, composite and pointer data types, normalised binary floating-point representation and random file access by hashing, for Cambridge AS & A Level Computer Science (9618)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-28
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -60,7 +61,9 @@ Each question practises a skill tested in the June 2025 Paper 31. After each ans
 
 **1.** `TYPE CupSize = (Small, Medium, Large, Jumbo)` — the keyword TYPE with the identifier CupSize and an equals sign [1]; the four values listed in brackets, separated by commas, with no quotation marks [1].
 
-*Mark-scheme insight (June 2025):* the mark scheme gives one mark for the `TYPE` keyword, identifier and equals sign, and a separate mark for the complete list of values in brackets.
+*Mark-scheme insight (Cambridge 9618 June 2025 mark scheme, Paper 31, Question 1(a)):* the mark scheme gives one mark for the `TYPE` keyword, identifier and equals sign, and a separate mark for the complete list of values in brackets.
+
+*Source for the mark-scheme insights on this page: Cambridge International AS & A Level Computer Science 9618 June 2025 mark scheme for Paper 31 (9618/31), paraphrased. This mark scheme is not published on Cambridge's [9618 past papers page](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9618/past-papers/) (checked September 2026).*
 
 *Try the real question next:* Cambridge International AS & A Level Computer Science 9618, June 2025, Paper 31, Question 1.
 
@@ -98,7 +101,7 @@ ENDTYPE
 
 **5.** 13.625 in binary: 13 = 1101 and 0.625 = 0.5 + 0.125 = 0.101, so +13.625 = 01101.101 [1]. Two's complement (flip the bits and add 1 in the last place): 10010.010 + 0.001 = **10010.011** [1]. Check: −16 + 2 + 0.25 + 0.125 = −13.625. Normalise by moving the binary point four places to the left so the mantissa starts 1.0: 1.0010011 × 2⁴. Mantissa: **1.00100110000** [1]; exponent: +4 = **0100** [1]
 
-*Mark-scheme insight (June 2025):* marks on the matching question were available for working (the positive binary value, its two's complement and the movement of the binary point) as well as for the final mantissa and exponent, so always show each stage.
+*Mark-scheme insight (Cambridge 9618 June 2025 mark scheme, Paper 31, Question 2(b)):* up to two marks on the matching question were available for working (such as the positive binary value, its two's complement and the movement of the binary point), as well as a mark each for the final mantissa and exponent, so always show each stage.
 
 *Try the real question next:* Cambridge International AS & A Level Computer Science 9618, June 2025, Paper 31, Question 2.
 

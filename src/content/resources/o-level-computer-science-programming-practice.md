@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on library routines (ROUND, DIV, MOD), string handling, one-dimensional arrays, finding largest values, functions with parameters, data types and constants, for Cambridge O Level Computer Science (2210)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-28
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -69,13 +70,15 @@ Explain how you would change the algorithm so that it also finds the highest pri
 
 **1.** **(a)** `OUTPUT ROUND(TotalDistance / 6, 2)`: the division by 6 to find the mean [1] and ROUND with 2 as the number of decimal places [1]. **(b)** DIV(47, 6) = **7** [1]; MOD(47, 6) = **5** [1], because 47 = 6 × 7 + 5.
 
-*Mark-scheme insight (June 2025):* One mark was for correctly calculating the average (or using a variable that holds it) and a second mark for using ROUND with the right number of decimal places, so write the calculation inside ROUND and give the number of places as the second parameter.
+*Mark-scheme insight (Cambridge 2210 June 2025 mark scheme, Paper 22, Question 5(b)):* One mark was for correctly calculating the average (or using a variable that holds it) and a second mark for using ROUND with the right number of decimal places, so write the calculation inside ROUND and give the number of places as the second parameter.
+
+*Source for the mark-scheme insights on this page: Cambridge O Level Computer Science 2210 June 2025 mark scheme for Paper 22 (2210/22), paraphrased. This mark scheme is not published on Cambridge's [2210 past papers page](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-computer-science-2210/past-papers/) (checked September 2026).*
 
 *Try the real question next:* Cambridge O Level Computer Science 2210, June 2025, Paper 22, Question 5.
 
 **2.** LENGTH(Code) = **6** [1]. SUBSTRING(Code, 3, 2) starts at character 3 and takes 2 characters, giving **"48"** [1]. LCASE(Code) = **"kx4829"** [1] (the digits are unchanged).
 
-*Mark-scheme insight (June 2025):* In the worked answer for a string-handling algorithm, SUBSTRING(Word, V1, 1) with V1 = 1 gave the first letter, confirming that character positions in Cambridge pseudocode start at 1, not 0.
+*Mark-scheme insight (Cambridge 2210 June 2025 mark scheme, Paper 22, Question 6(a)):* In the question's string-handling algorithm and the completed trace table, SUBSTRING(Word, V1, 1) with V1 = 1 gave the first letter, confirming that character positions in Cambridge pseudocode start at 1, not 0.
 
 *Try the real question next:* Cambridge O Level Computer Science 2210, June 2025, Paper 22, Question 6.
 
@@ -95,13 +98,13 @@ NEXT Count
 
 Each score input into the array **using the loop counter as the index** [1]; a **second loop, after the first** has finished, that runs 25 times [1]; a selection statement using >= 50 [1]; output of the array element using the counter as the index [1].
 
-*Mark-scheme insight (June 2025):* When asked to store each value and then output them all, marks were given for storing into an array with the counter as the index, and for a separate loop outside the input loop that outputs the array contents using the counter as the index.
+*Mark-scheme insight (Cambridge 2210 June 2025 mark scheme, Paper 22, Question 7(b)):* When asked to store each value and then output them all, marks were given for storing into an array with the counter as the index, and for a separate loop outside the input loop that outputs the array contents using the counter as the index.
 
 *Try the real question next:* Cambridge O Level Computer Science 2210, June 2025, Paper 22, Question 7.
 
 **4.** Declare a new variable, e.g. **Highest**, at the start of the algorithm [1]. Initialise it to a **low value such as 0**, so the first price input will replace it [1]. Inside the loop, after the price is input, add `IF Price[Item] > Highest THEN Highest ← Price[Item] ENDIF`, so that any price larger than the current highest becomes the new highest [1]. After the loop, add `OUTPUT "Highest price: ", Highest` [1].
 
-*Mark-scheme insight (June 2025):* For a similar change, separate marks were given for declaring the new variable, setting it to a low starting value, the comparison after the input, replacing the stored value when a larger one is found, and outputting it outside the loop. The question asked for every statement to be fully explained, so describe what each added line does, not just the code.
+*Mark-scheme insight (Cambridge 2210 June 2025 mark scheme, Paper 22, Question 5(c)):* For a similar change, the mark points (up to four marks) were declaring the new variable, setting it to a low starting value, the comparison after the input, replacing the stored value when a larger one is found, and outputting it outside the loop. The question asked for every statement to be fully explained, so describe what each added line does, not just the code.
 
 *Try the real question next:* Cambridge O Level Computer Science 2210, June 2025, Paper 22, Question 5.
 

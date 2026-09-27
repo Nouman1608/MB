@@ -22,7 +22,7 @@ syllabusTopics:
 description: "Condensed recall notes on the kinetic particle model, gas laws, thermal expansion, specific heat capacity, changes of state, and conduction/convection/radiation for Cambridge IGCSE Physics 0625 Topic 2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-29
-updatedDate: 2026-09-27
+updatedDate: 2026-09-28
 featured: false
 ---
 
@@ -61,6 +61,8 @@ Specific heat capacity is the energy needed to raise the temperature of 1 kg of 
 ## Changes of state
 
 - **Melting/boiling**: energy is put in, but temperature stays constant while the state changes — the energy is used to overcome the forces between particles (increasing potential energy), not to speed the particles up.
+- **Pure water** at standard atmospheric pressure: melts (and freezes) at **0 °C**, boils at **100 °C**.
+- **Condensation**: gas particles lose energy, slow down and are pulled close together by the attractive forces, forming a liquid. **Solidification**: liquid particles lose energy until they are held in fixed positions in a regular pattern, only vibrating. Both transfer energy to the surroundings at constant temperature.
 - **Evaporation** happens at any temperature, only at the liquid's surface, and is the escape of the most energetic particles — this **removes** energy from the remaining liquid, which is why evaporation has a **cooling effect**.
 - **Boiling** happens at one fixed temperature (the boiling point), throughout the liquid, not just the surface.
 - Factors that **increase the rate of evaporation** *(Supplement)*: higher temperature, larger surface area, air movement (draught) over the surface, lower humidity.
@@ -72,6 +74,9 @@ Specific heat capacity is the energy needed to raise the temperature of 1 kg of 
 | **Conduction** | A medium (solid best) | Particle vibrations pass energy to neighbours; in metals, free electrons carry energy too *(Supplement)* |
 | **Convection** | A fluid (liquid or gas) | Heated fluid expands, becomes less dense, rises; cooler, denser fluid sinks to replace it |
 | **Radiation** | Nothing — works through a vacuum | Infrared emitted by all objects; dull black surfaces are the best emitters *and* absorbers, shiny/light surfaces are the worst emitters and best reflectors |
+
+- *(Supplement)* Many solids sit in between: glass, brick and concrete conduct better than insulators (plastic foam, wool, trapped air) but much less well than metals.
+- *(Supplement)* Several processes at once: a coal or wood fire heats a room mainly by radiation while hot gases leave up the chimney by convection; a car radiator passes energy from the coolant by conduction through thin metal fins, and moving air carries it away by convection.
 
 ## Common mistakes
 

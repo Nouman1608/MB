@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original exam-style questions with full worked answers on automated systems, robots, expert systems and artificial intelligence, for Cambridge O Level Computer Science (2210)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-24
+updatedDate: 2026-09-28
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -63,7 +64,9 @@ Each question practises a skill tested in the June 2025 Paper 12. After each ans
 - The inference engine **uses the IF…THEN rules to reason about the stored facts** and reach a conclusion [1].
 - The most likely fault is output through the interface, often with a probability and an explanation [1]. (Max 4.)
 
-*Mark-scheme insight (June 2025):* Credit depended on naming the inference engine and describing what it does: choosing the next question from earlier inputs, comparing the inputs with the knowledge base and applying the rule base. Simply listing the components of an expert system does not describe how the decision is made.
+*Mark-scheme insight (Cambridge 2210 June 2025 mark scheme, Paper 12, Question 5(a)):* The credited points were that the inference engine is used, that it chooses the next question from earlier inputs, that the inputs are compared with the knowledge base, and that the rule base is applied. Name the inference engine and describe what it does; simply listing the components of an expert system does not describe how the decision is made.
+
+*Source for the mark-scheme insights on this page: Cambridge O Level Computer Science 2210 June 2025 mark scheme for Paper 12 (2210/12), paraphrased. This mark scheme is not published on Cambridge's [2210 past papers page](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-computer-science-2210/past-papers/) (checked September 2026).*
 
 *Try the real question next:* Cambridge O Level Computer Science 2210, June 2025, Paper 12, Question 5.
 
@@ -75,7 +78,7 @@ Each question practises a skill tested in the June 2025 Paper 12. After each ans
 
 **(b)** Any one from: it has a **mechanical structure or framework** [1]; it is **programmable** [1].
 
-*Mark-scheme insight (June 2025):* The electrical components credited were sensors, microprocessors and actuators. Wheels and arms belong to the robot's mechanical structure, not its electrical components, so keep them out of part (a).
+*Mark-scheme insight (Cambridge 2210 June 2025 mark scheme, Paper 12, Question 5(b)(i)):* The examples of electrical components credited were sensors, microprocessors and actuators. Wheels and arms belong to the robot's mechanical structure, not its electrical components, so keep them out of part (a).
 
 *Try the real question next:* Cambridge O Level Computer Science 2210, June 2025, Paper 12, Question 5.
 
@@ -86,7 +89,7 @@ Each question practises a skill tested in the June 2025 Paper 12. After each ans
 - The robot can be **more precise** than a human hand [1], **so it can reach small spaces and take accurate readings** [1].
 - The company can use **the best specialist anywhere in the world** [1], **so the inspection is likely to be done well** [1].
 
-*Mark-scheme insight (June 2025):* The credited advantages were linked by a "so…" expansion, for example no travel, so it can be done straight away by any specialist, or greater precision, so the work is more accurate and safer. Give the point and then the consequence.
+*Mark-scheme insight (Cambridge 2210 June 2025 mark scheme, Paper 12, Question 5(b)(ii)):* The credited advantages were points followed by "so…" expansions, for example no travel, so any specialist anywhere can do it or it can start straight away; or greater precision, so a smaller incision can be made and the work is safer. Give the point and then the consequence.
 
 *Try the real question next:* Cambridge O Level Computer Science 2210, June 2025, Paper 12, Question 5.
 
@@ -97,7 +100,7 @@ Each question practises a skill tested in the June 2025 Paper 12. After each ans
 - The control **data could be corrupted in transmission** [1], **so the robot carries out the wrong movement** [1].
 - The robot is **expensive to buy and maintain** [1], **so money cannot be spent elsewhere** [1].
 
-*Mark-scheme insight (June 2025):* One mark was for the disadvantage and the second for an expansion that matches it, so a lost connection must be followed by its effect (the work cannot continue), not by an unrelated point.
+*Mark-scheme insight (Cambridge 2210 June 2025 mark scheme, Paper 12, Question 5(b)(iii)):* One mark was for the disadvantage and the second for an expansion that matches it, so a lost connection must be followed by its effect (the work cannot continue), not by an unrelated point.
 
 *Try the real question next:* Cambridge O Level Computer Science 2210, June 2025, Paper 12, Question 5.
 

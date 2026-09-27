@@ -25,7 +25,7 @@ syllabusTopics:
 description: "Condensed recall notes on wave properties, reflection, refraction, lenses, the electromagnetic spectrum and sound, with Core/Supplement content marked, for Cambridge IGCSE Physics (0625) Topic 3."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
-updatedDate: 2026-09-27
+updatedDate: 2026-09-28
 featured: false
 ---
 
@@ -41,10 +41,14 @@ crest, or any two identical points on consecutive waves — never crest to troug
 
 | Wave type | Vibration direction | Examples |
 |---|---|---|
-| Transverse | At right angles to travel direction | Light, water waves, seismic S-waves |
-| Longitudinal | Parallel to travel direction | Sound, seismic P-waves |
+| Transverse | At right angles to travel direction | Electromagnetic radiation (including light), water waves, seismic S-waves |
+| Longitudinal | Parallel to travel direction | Sound waves, seismic P-waves |
 
-If a question mentions compressions and rarefactions, it is describing a **longitudinal** wave.
+Wave motion is shown by a rope moved up and down (transverse), a spring pushed and pulled along its
+length (longitudinal; Supplement: compressions and rarefactions) and ripples in a ripple tank, which also shows
+reflection (barrier), refraction (shallower water slows the waves) and diffraction (gap or edge).
+
+(Supplement) If a question mentions compressions and rarefactions, it is describing a **longitudinal** wave.
 (Supplement) Diffraction through a gap increases as wavelength increases relative to gap size;
 diffraction also occurs at an edge, more noticeably for longer wavelengths.
 
@@ -57,7 +61,10 @@ from mirror, **virtual**. Law of reflection: angle of incidence = angle of refle
 
 Light entering a **denser** material slows down and bends **towards** the normal; leaving it, light
 speeds up and bends **away** from the normal. **Critical angle**: beyond it, no refracted ray exists at
-all — only total internal reflection. (Supplement) refractive index **n = sin i / sin r = 1/sin c**.
+all — only total internal reflection. Experiment: trace a ray from a ray box through glass blocks of different shapes, mark it with crosses,
+draw the normal and measure the angles. Total internal reflection: a ray aimed at the centre of the flat
+side of a semicircular block, with the angle increased past the critical angle.
+(Supplement) refractive index **n = sin i / sin r = 1/sin c**.
 Optical fibres use total internal reflection for telecommunications.
 
 ## 3.2 Light — thin lenses
@@ -66,7 +73,11 @@ Converging lens: parallel rays meet at the **principal focus** — defined as wh
 the principal axis** converge **after refraction**; both halves of this definition are required. Know
 the three standard ray-diagram cases: object beyond 2F (real, inverted, diminished), between F and 2F
 (real, inverted, enlarged), inside F (virtual, upright, enlarged — magnifying glass). A virtual image
-is formed by extrapolating diverging rays backwards.
+is formed by extrapolating diverging rays backwards. **Focal length** = distance from the centre of the
+lens to the principal focus. A diverging lens spreads a parallel beam as if from a principal focus on
+the incoming side. (Supplement) **Short sight** (distant objects blurred, light focused in front of
+the retina): corrected with a **diverging** lens. **Long sight** (near objects blurred, focus behind
+the retina): corrected with a **converging** lens.
 
 ## 3.2 Light — dispersion
 
@@ -79,9 +90,28 @@ all, not just that "light disperses."
 Order by **increasing frequency, decreasing wavelength**: radio, microwave, infrared, visible,
 ultraviolet, X-ray, gamma. All travel at the same high speed in a vacuum (Supplement: 3.0 × 10⁸ m/s).
 Learn this sequence as one chain — questions often place an unfamiliar use or hazard by matching it to
-a property (frequency/energy level) you already know. Mobile phones/Wi-Fi use microwaves; Bluetooth
-uses radio waves; optical fibres use visible/infrared light. (Supplement) digital signals resist noise
-better than analogue.
+a property (frequency/energy level) you already know. Mobile phones use microwaves; optical fibres use
+visible/infrared light. (Supplement) Wireless internet (Wi-Fi) also uses microwaves and Bluetooth uses
+radio waves; digital signals resist noise better than analogue.
+
+| Region | Uses | Harm (excessive exposure) |
+|---|---|---|
+| Radio | radio and TV transmissions, astronomy, RFID | none listed in the syllabus |
+| Microwave | satellite TV, mobile phones, microwave ovens | internal heating of body cells |
+| Infrared | electric grills, remote controls, intruder alarms, thermal imaging, optical fibres | skin burns |
+| Visible | vision, photography, illumination | none listed in the syllabus |
+| Ultraviolet | security marking, detecting fake bank notes, sterilising water | damage to surface cells and eyes: skin cancer, eye conditions |
+| X-ray | medical scanning, security scanners | mutation or damage to cells |
+| Gamma | sterilising food and medical equipment, detecting and treating cancer | mutation or damage to cells |
+
+Satellite communication is mainly by microwaves: some satellite phones use low-orbit satellites; other
+satellite phones and direct-broadcast satellite TV use geostationary satellites. (Supplement) Microwaves
+pass through some walls and need only a short aerial; radio waves (Bluetooth) pass through walls but are
+weakened; glass is transparent to visible light and some infrared, which carry high data rates.
+
+(Supplement) Analogue signals vary continuously; digital signals take only set values (1 and 0). Sound
+can be sent as either. Digital benefits: a higher data rate, and a longer range because the signal can
+be regenerated accurately.
 
 ## 3.4 Sound
 
@@ -90,7 +120,9 @@ a medium (does not travel through a vacuum); speed in air approximately **330–
 affects loudness; frequency affects pitch. Echoes are reflected sound. Ultrasound: above 20 kHz.
 (Supplement) sound travels faster in solids than liquids, faster in liquids than gases. Ultrasound
 depth/distance calculations use **speed = distance/time**, NOT v = fλ — frequency and wavelength play
-no part. Use **depth = (speed × time) / 2**, halving because the pulse travels out and back.
+no part. Use **depth = (speed × time) / 2**, halving because the pulse travels out and back. Other uses of
+ultrasound (Supplement): non-destructive testing (echoes from cracks in metal) and medical scanning of
+soft tissue (echoes from tissue boundaries).
 
 ## Why 3.1 underpins everything else in this topic
 

@@ -30,6 +30,8 @@ featured: false
 
 > **Tier note:** every question here is marked *(Extended)*: each one is on Supplement content of the 0625 syllabus — alpha-particle scattering (5.1.1 Supplement 3), fusion nuclide equations (5.1.2 Supplement 6), decay equations and the change in the nucleus in beta decay (5.2.3 Supplement 4–5), half-life with background radiation (5.2.4 Supplement 2), deflection of radiation in an electric field (5.2.2 Supplement 3) and choosing an isotope for a smoke alarm (5.2.4 Supplement 3). Core candidates do not need them.
 
+Related: [Core and Extended practice questions on nuclear physics](/resources/igcse-physics-0625-nuclear-physics-practice/), [study guide](/resources/igcse-physics-0625-nuclear-physics/) and [revision notes](/resources/igcse-physics-0625-nuclear-physics-revision-notes/).
+
 After each answer there is a common mistake to avoid.
 
 ---

@@ -14847,3 +14847,45 @@ Source: project doc `claude/audit-d354-d359-2026-09-27.md`, finding T-01.
 - IB Global Politics and MYP Language Acquisition, Sciences, Design, Individuals and Societies: the official PDFs could not be fetched (ibo.org bot check; the owner was asked to save them). No page written without them.
 - Step 5 (past-paper index): per-series links, thresholds and "what the series emphasised" notes need the boards' pages and examiner reports, which could not be verified in this session. Nothing published.
 - Existing pages flagged by checkers (not edited): several Language B / Language A pages state criteria, timings or marks the subject briefs do not print; a few older practice pages lack examiner-insight lines or topic-level mapping.
+
+## D-371 - Owner decisions: 2028–2030 note on the 0580 and 9702 hubs, 0610 diagnostic swap, geometry Question 10 (2026-09-28)
+
+**Owner decision (28 Sep 2026, 02:11 PKT, "do as you recommend"):** act on the three open decisions from D-366 and D-368.
+
+- **2028–2030 note:** a new optional `laterEditionNote` field on a syllabus (`src/data/academic/syllabuses.ts`), shown on the hub page as one sentence with a link to the official PDF (`data-later-edition-note`). Set for 0580 (Cambridge PDF 745681) and 9702 (PDF 744626) only, the two syllabuses checked in D-366. Nothing else on the hubs changes.
+- **0610 Extended diagnostic:** the Core inheritance question `igcse-biology-inheritance-practice-q1` is replaced by `igcse-biology-reproduction-practice-q6` (3 marks, Supplement). No 2–3 mark Supplement inheritance question exists yet; a biology teacher should confirm the substitute, or an original one should be written.
+- **Duplicate geometry question:** `igcse-mathematics-geometry-practice.md` Question 10 rewritten (interior angle 150°, so 12 sides; angle sum 1800°). Answers rechecked.
+- **9626 titles:** kept without the " — Marlbridge" suffix (no change).
+- **0580 assessment fields:** checked; the staging fields belong to 9701 and are correct (no change).
+
+## D-372 - June 2025 Computer Science mark-scheme insights checked (2026-09-28)
+
+**Why:** D-367 left 29 "Mark-scheme insight (June 2025)" lines on Computer Science pages without a source.
+
+- **Source:** the June 2025 mark schemes for 2210/12, 2210/22 and 9618/31. They are not yet listed on cambridgeinternational.org (its past-papers pages show June 2024, checked September 2026), so they were read from mirror copies of Cambridge's own PDFs, with the component code confirmed in each header.
+- **Result on 11 pages (7 for 2210, 4 for 9618):** 21 supported, 8 reworded, 0 removed. Each label now reads "Mark-scheme insight (Cambridge <code> June 2025 mark scheme, Paper NN, Question n)" and each page has a source line.
+- **Review fixes:** question references corrected where a point spans two questions ("Questions 1 and 2", "Question 4(a) and 4(b)"); one insight re-attributed to the question paper's algorithm rather than the mark scheme.
+- **Not done:** 15 "Examiner insight (June 2025)" lines on other 9618 pages still have no recorded source.
+
+## D-373 - 0625 Physics: topic 1–6 gaps filled; new nuclear physics practice (M10a–e) (2026-09-28)
+
+**Why:** the D-368 matrix found 62 unmet outcomes, most in topic 4, and no Core practice for topic 5.
+
+- **Topic 4 (Electricity and magnetism):** the study guide and revision notes (first written in D-370) now cover each outcome in order; three new practice questions (Core Questions 7–8, Extended Question 7).
+- **Topics 1–3:** missing outcomes added to the existing pages; the topic 1 notes are now mapped to 1.1.
+- **Topic 5:** new `igcse-physics-0625-nuclear-physics-practice.md` (16 original questions: Questions 1–8 Core, 9–16 Extended); gamma-radiation line added.
+- **Topic 6:** Extended labels on the space practice page changed to the form the tier reader recognises (`*(Extended)*`); new Core Question 13.
+- **Review fixes:** compressions and rarefactions, the V–I graph method, current-reversal in field patterns, analogue/digital signals and Wi-Fi/Bluetooth moved under Supplement labels; "pure water at standard atmospheric pressure"; insulation before heating in the specific heat capacity method.
+- **Checked against** the 0625 2026–2028 syllabus text; every calculation recomputed.
+- **Not done:** the D-368 coverage matrix has not been rerun and is now out of date. A physics teacher should look at the nuclear Question 6(c) answer, which goes slightly beyond the Core statement.
+
+## D-374 - Foundation/Higher tiers for 4MA1, 8300, 8461, 8462 and 8463; original 4MA1 algebra questions (2026-09-28)
+
+**Why:** the five banks added in D-370 are Foundation/Higher, but the practice pages used Cambridge's Core/Extended wording and no question carried a tier.
+
+- **Wording:** the practice page takes its tier names from the syllabus (`tierSchemeFor`, `TIER_NAMES` in `src/utils/practice/question-tier.ts`). Data values are unchanged ('core'/'extended'), so URLs and analytics are unaffected. A tiered syllabus with no known scheme fails the build.
+- **Labels:** every practice file in these banks was checked question by question against the AQA specifications and the Pearson 4MA1 specification (Issue 2). Higher-only questions and parts carry a label; `HIGHER_LABELS_CHECKED` lists the checked files, and an unlabelled question in them is shown to both tiers, never as Foundation-only. Two 4MA1 files were newly labelled.
+- **Higher-only questions:** 4MA1 29 of 60, 8300 16 of 64, 8461 8 of 87, 8462 11 of 122, 8463 12 of 108.
+- **Guards:** tests pin these counts and the bank totals; every "Higher" mention in these banks must be a recognised label or on a reviewed allowlist; `validate-diagnostics.mjs` rejects 'core'/'extended' set slugs for these codes (negative case [AK]).
+- **4MA1 originality fix:** algebraic-manipulation Questions 2–6 repeated the specification's printed examples. They are replaced with original expressions (for example 2x² − 10x + 3 = 2(x − 2.5)² − 9.5), with marks and labels unchanged and answers checked by computer algebra and by hand. Number Question 4 now says "in one year".
+- **Not done:** the same specification examples appear on two other 4MA1 pages (`igcse-edexcel-mathematics-use-of-symbols-and-algebraic-manipulation.md` and `edexcel-igcse-mathematics-algebraic-manipulation-revision-notes.md`) and need checking.

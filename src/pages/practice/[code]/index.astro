@@ -30,6 +30,7 @@ import { routes } from '../../../utils/urls/routes';
 import { buildClientQuestions, dataHashFor } from '../../../utils/practice/client-questions.ts';
 import { diagnosticsForCode, diagnosticPath } from '../../../data/diagnostics.ts';
 import { topicFilterIndex, coreFilterApplies } from '../../../utils/practice/topic-filter.ts';
+import { tierSchemeFor, TIER_NAMES } from '../../../utils/practice/question-tier.ts';
 
 export async function getStaticPaths() {
   return flagshipSpecs()
@@ -72,14 +73,24 @@ const analyticsContext = {
  * `syllabus.tiered` is the same real, officially-sourced flag already used
  * elsewhere in this codebase (D-155's FAQ fix, the assessment tables) --
  * true today for 0620 Chemistry and 0580 Mathematics, false for 0625/9701/
- * 9702. The Diagnostic check mode below only shows a Core/Extended route
- * question when this is true, so untiered specs are unaffected.
+ * 9702. The Diagnostic check mode below only shows a tier route question
+ * when this is true, so untiered specs are unaffected.
+ *
+ * D-370 follow-up (28 Sep 2026): the tier NAMES come from the syllabus's
+ * scheme (question-tier.ts) -- Core/Extended for Cambridge IGCSE,
+ * Foundation/Higher for AQA GCSE and Edexcel IGCSE. The data values stay
+ * 'core'/'extended' (choice buttons, analytics, tier=core); only the words
+ * change. A tiered syllabus with no known scheme fails the build rather
+ * than showing students another board's tier names.
  *
  * `trialHref` (D-149, updated D-286) pre-fills the trial request with this
  * exact course; /trial/ accepts it only if it is a taught course in its own
  * build-time allow-list (src/components/forms/TrialRequestForm.astro).
  */
 const tiered = topicsFor(spec.boardSlug, spec.qualificationSlug, spec.subjectSlug)?.tiered ?? false;
+const tierScheme = tiered ? tierSchemeFor(spec.boardSlug, spec.qualificationSlug) : null;
+if (tiered && !tierScheme) throw new Error(`practice/${spec.code}: tiered syllabus with no tier names in question-tier.ts tierSchemeFor()`);
+const tierNames = tierScheme ? TIER_NAMES[tierScheme] : null;
 // D-286: the trial form now takes the exact course (validated there against
 // the taught-course allow-list), replacing the D-149 programme-only link.
 const trialHref = `/trial/?course=${encodeURIComponent(`${spec.boardSlug}/${spec.qualificationSlug}/${spec.subjectSlug}`)}&source=practice`;
@@ -173,13 +184,13 @@ const topicFilters = Object.fromEntries(Object.entries(topicFilterIndex(clientQu
         {tiered && (
           <div id="mb-practice-tier-gate" class="mb-6 rounded-sm border border-rule bg-white p-[clamp(22px,3vw,36px)]" hidden>
             <h2 class="m-0 mb-2 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Which tier are you preparing for?</h2>
-            <p class="m-0 mb-5 text-[14.5px] text-ink-mute">{subjectTitle} is tiered: Extended candidates cover Core content plus more. This decides which questions you'll be asked.</p>
+            <p class="m-0 mb-5 text-[14.5px] text-ink-mute">{subjectTitle} is tiered: {tierNames?.upper} candidates cover {tierNames?.lower} content plus more. This decides which questions you'll be asked.</p>
             <div class="flex flex-wrap gap-3">
-              <button type="button" data-tier-choice="core" class="rounded-sm bg-navy-800 px-5 py-2.5 text-[14px] font-medium text-white transition-colors hover:bg-navy-700">Core</button>
-              <button type="button" data-tier-choice="extended" class="rounded-sm bg-navy-800 px-5 py-2.5 text-[14px] font-medium text-white transition-colors hover:bg-navy-700">Extended</button>
+              <button type="button" data-tier-choice="core" class="rounded-sm bg-navy-800 px-5 py-2.5 text-[14px] font-medium text-white transition-colors hover:bg-navy-700">{tierNames?.lower}</button>
+              <button type="button" data-tier-choice="extended" class="rounded-sm bg-navy-800 px-5 py-2.5 text-[14px] font-medium text-white transition-colors hover:bg-navy-700">{tierNames?.upper}</button>
               <button type="button" data-tier-choice="unsure" class="rounded-sm border border-rule bg-white px-5 py-2.5 text-[14px] font-medium text-ink transition-colors hover:border-gold-500">Not sure</button>
             </div>
-            <p class="m-0 mt-4 text-[13px] text-ink-mute">Not sure includes some Extended-only content — skip anything your course doesn't cover.</p>
+            <p class="m-0 mt-4 text-[13px] text-ink-mute">Not sure includes some {tierNames?.upper}-only content — skip anything your course doesn't cover.</p>
           </div>
         )}
 
@@ -269,7 +280,7 @@ const topicFilters = Object.fromEntries(Object.entries(topicFilterIndex(clientQu
     </Container>
   </Section>
 
-  <script is:inline define:vars={{ storageKey, hubPath: hubPath, dataUrl, analyticsContext, tiered, topicFilters, practicePath: path }}>
+  <script is:inline define:vars={{ storageKey, hubPath: hubPath, dataUrl, analyticsContext, tiered, tierNames, topicFilters, practicePath: path }}>
     (function () {
       const app = document.getElementById('mb-practice-app');
       if (!app) return;
@@ -407,7 +418,7 @@ const topicFilters = Object.fromEntries(Object.entries(topicFilterIndex(clientQu
       function matchesTopic(q, key) { return q.topics.some((t) => t.key === key || t.key.indexOf(key + '/') === 0); }
       function topicPoolOf(list, key, coreOnly) { return list.filter((q) => matchesTopic(q, key) && (!coreOnly || q.tier !== 'supplement')); }
       function retestHrefFor(base, key, coreOnly) { return base + '?topic=' + encodeURIComponent(key) + (coreOnly ? '&tier=core' : ''); }
-      function coreFilterNote(untagged) { return untagged > 0 ? 'Extended-only questions left out; ' + untagged + ' not yet tagged Core or Extended' : 'Core only'; }
+      function coreFilterNote(untagged, names) { return untagged > 0 ? names.upper + '-only questions left out; ' + untagged + ' not yet tagged ' + names.lower + ' or ' + names.upper : names.lower + ' only'; }
       function coreApplies(key) { return !!tiered && Object.prototype.hasOwnProperty.call(topicFilters, key) && topicFilters[key][1] === 1; }
       /** An unmodified primary click: anything else (new tab, new window) is left to the browser. */
       function isPlainClick(ev) { return ev.button === 0 && !ev.metaKey && !ev.ctrlKey && !ev.shiftKey && !ev.altKey; }
@@ -442,7 +453,7 @@ const topicFilters = Object.fromEntries(Object.entries(topicFilterIndex(clientQu
         const n = pool.length;
         const untagged = pool.filter((q) => !q.tier).length;
         els.topicLabel.textContent = topicFilters[activeTopic][0];
-        els.topicCount.textContent = '(' + n + (n === 1 ? ' question' : ' questions') + (topicCoreOnly ? ', ' + coreFilterNote(untagged) : '') + ')';
+        els.topicCount.textContent = '(' + n + (n === 1 ? ' question' : ' questions') + (topicCoreOnly ? ', ' + coreFilterNote(untagged, tierNames) : '') + ')';
       }
       function clearTopic() {
         if (!activeTopic) return;

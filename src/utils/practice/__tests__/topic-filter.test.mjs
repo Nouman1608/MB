@@ -64,6 +64,10 @@ test('"Core only" applies only to a topic with an Extended-only question (untagg
   // The banner never calls untagged questions Core.
   assert.equal(coreFilterNote(0), 'Core only');
   assert.equal(coreFilterNote(3), 'Extended-only questions left out; 3 not yet tagged Core or Extended');
+  // D-370 follow-up: Foundation/Higher courses get their own tier names, never "Core".
+  const FH = { lower: 'Foundation', upper: 'Higher' };
+  assert.equal(coreFilterNote(0, FH), 'Foundation only');
+  assert.equal(coreFilterNote(2, FH), 'Higher-only questions left out; 2 not yet tagged Foundation or Higher');
 });
 
 test('real banks: the Core filter is offered exactly where it removes a question', async () => {
@@ -174,7 +178,12 @@ test("the practice page's inline helpers behave exactly like the util", () => {
       assert.equal(fns.retestHrefFor('/practice/0620/', key, coreOnly), retestPath('0620', key, { coreOnly }), `href ${key} ${coreOnly}`);
     }
   }
-  for (const n of [0, 1, 16]) assert.equal(fns.coreFilterNote(n), coreFilterNote(n));
+  const CE = { lower: 'Core', upper: 'Extended' };
+  const FH = { lower: 'Foundation', upper: 'Higher' };
+  for (const n of [0, 1, 16]) {
+    assert.equal(fns.coreFilterNote(n, CE), coreFilterNote(n));
+    assert.equal(fns.coreFilterNote(n, FH), coreFilterNote(n, FH));
+  }
 });
 
 test('the practice page only accepts its own keys, gates tier=core on the build-time flag, and sets labels as text', () => {
@@ -185,4 +194,16 @@ test('the practice page only accepts its own keys, gates tier=core on the build-
   // The build-time flag comes from the util's rule.
   assert.match(page, /\[v\.label, tiered && coreFilterApplies\(v\) \? 1 : 0\]/);
   assert.match(page, /els\.topicLabel\.textContent = topicFilters\[activeTopic\]\[0\]/);
+  // D-370 follow-up: the banner note is given the syllabus's tier names.
+  assert.match(page, /coreFilterNote\(untagged, tierNames\)/);
+});
+
+test('D-370 follow-up: the tier gate uses the syllabus tier names, not hard-coded Core/Extended', () => {
+  const { page } = inlineHelpers();
+  const gate = page.slice(page.indexOf('id="mb-practice-tier-gate"'), page.indexOf('</div>\n        )}'));
+  assert.ok(gate.length > 100, 'tier gate markup found');
+  assert.doesNotMatch(gate, />\s*(Core|Extended)\s*</, 'no hard-coded Core/Extended button');
+  assert.doesNotMatch(gate, /Extended candidates|Core content|Extended-only/, 'no hard-coded Core/Extended wording');
+  assert.match(gate, /\{tierNames\?\.lower\}/);
+  assert.match(gate, /\{tierNames\?\.upper\}/);
 });
