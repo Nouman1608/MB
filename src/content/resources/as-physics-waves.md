@@ -29,7 +29,7 @@ syllabusTopics:
 description: "Progressive wave terms and the wave equation, transverse vs longitudinal waves, the Doppler effect, the electromagnetic spectrum, and polarisation, for Cambridge International AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-18
-updatedDate: 2026-08-18
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -120,6 +120,59 @@ divisions with the time-base set to 5.0 ms/div. Amplitude = 2.5 × 2.0 =
 **5.0 V**. Period T = 4.0 × 5.0 ms = 20 ms = 0.020 s, so frequency f = 1/T =
 1/0.020 = **50 Hz**.
 
+## Seeing wave motion: ropes, springs and ripple tanks
+
+Subtopic 7.1 starts with describing wave motion as shown by vibrations in
+ropes, springs and ripple tanks. In each one, the thing to notice is the
+same: **each part of the medium oscillates about a fixed position, while the
+wave (and the energy it carries) moves along**.
+
+**A rope.** Lay a long rope (or a length of rubber tubing) along the floor,
+fix or hold the far end, and move your end up and down once: a single
+**pulse** travels along the rope. Keep moving your end up and down steadily
+and a continuous **progressive wave** travels along it. A ribbon tied to the
+rope moves up and down as the wave passes but does not travel along the
+rope. Each part of the rope moves **perpendicular** to the direction the
+wave travels, so this is a **transverse** wave. The frequency of the wave is
+the frequency at which you move your hand.
+
+**A spring (a "slinky").** Stretch a long, loose spring along a bench and
+move one end steadily **backwards and forwards along the spring's length**.
+Regions where the coils are closer together (**compressions**) and further
+apart (**rarefactions**) travel along the spring. A coil marked with tape
+oscillates backwards and forwards about its rest position but does not move
+along with the wave. The coils move **parallel** to the direction the wave
+travels, so this is a **longitudinal** wave — the same pattern of
+compressions and rarefactions as a sound wave. Moving the same end **from
+side to side** instead gives a transverse wave on the same spring, which
+shows that "transverse" and "longitudinal" describe the direction of
+oscillation relative to the direction of travel, not the medium.
+
+**A ripple tank.** A ripple tank is a shallow, transparent-bottomed tray of
+water. A bar that just touches the surface, vibrated by a small motor,
+produces straight (plane) wavefronts; a small ball-shaped dipper produces
+circular wavefronts. A lamp above the tank shines through the water onto a
+screen or sheet of paper below. The crests of the ripples focus the light,
+so they show up as bright lines and the troughs between them as darker
+lines. The distance between neighbouring bright lines corresponds to one
+wavelength.
+
+- A **stroboscope** flashing at the same frequency as the vibrating bar
+makes the pattern appear still, because each crest moves exactly one
+wavelength between flashes. This lets you measure the wavelength, then find
+the speed from v = fλ.
+- Measure across several wavelengths and divide, to reduce the uncertainty.
+The pattern on the screen is **larger** than the real waves, so either
+measure against a ruler placed in the tank or scale the reading by the
+image's magnification.
+- A small floating object bobs up and down as the waves pass but is not
+carried along with them: the wave transfers energy, not water. At this level
+water surface waves are treated as transverse.
+
+The ripple tank is also the standard way to show reflection, refraction and
+diffraction of waves (see
+[Superposition](/resources/as-physics-superposition/) for diffraction).
+
 ## Transverse vs. longitudinal waves
 
 In a **transverse wave**, particle displacement is perpendicular to the
@@ -202,6 +255,8 @@ unpolarised light (which is not required at this level).
 
 ## Quick revision checklist
 
+- Wave motion shown by a rope (transverse), a spring (longitudinal or
+transverse) and a ripple tank
 - Wave terms: displacement, amplitude, period, frequency, wavelength, phase
 difference
 - v = fλ, and intensity ∝ amplitude²

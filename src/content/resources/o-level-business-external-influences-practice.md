@@ -50,7 +50,9 @@ Each question practises a skill tested in the June 2024 Paper 12. After each ans
 
 **1.** A **limit on the quantity (number or amount) of a product** [1] that is **allowed to be imported into a country** [1].
 
-*Mark-scheme insight (June 2024):* Both marks need two ideas: a limit on quantity, and goods coming into the country. Answers that confused a quota with a tariff (a tax on imports) were not credited.
+*Mark-scheme insight (Cambridge 7115 June 2024 mark scheme, Paper 12, Question 4(a)):* Both marks need two ideas: a limit on the quantity of goods, and those goods coming into the country. A partial definition earned one mark, and answers that confused a quota with a tariff (a tax on imports) were not credited.
+
+*Source for the mark-scheme insights on this page: Cambridge O Level Business Studies 7115 June 2024 mark scheme for Paper 12 (7115/12), paraphrased. Cambridge's [7115 past papers page](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-business-studies-7115/past-papers/) publishes the Paper 11 mark scheme from this series, not the Paper 12 one.*
 
 *Try the real question next:* Cambridge O Level Business Studies 7115, June 2024, Paper 12, Question 4(a).
 

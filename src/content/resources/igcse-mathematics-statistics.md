@@ -12,9 +12,17 @@ order: 9
 syllabusTopics:
   - qualification: "igcse"
     topic: "statistics-cambridge-igcse-maths"
+    subtopic: "averages-and-range-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "statistics-cambridge-igcse-maths"
+    subtopic: "scatter-diagrams-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "statistics-cambridge-igcse-maths"
+    subtopic: "histograms-cambridge-igcse-maths"
 description: "Classifying and interpreting data, averages and range, statistical charts, scatter diagrams, cumulative frequency and histograms -- the Core and Extended content of Topic 9 Statistics for Cambridge IGCSE Mathematics 0580, 2025-2027 series."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
+updatedDate: 2026-09-27
 featured: false
 ---
 

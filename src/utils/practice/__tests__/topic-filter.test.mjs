@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
-import { questionMatchesTopic, topicFilterIndex, resolveTopicFilter, questionsForTopic, retestPath, coreFilterApplies, coreFilterNote, RETEST_MIN_QUESTIONS } from '../topic-filter.ts';
+import { questionMatchesTopic, topicFilterIndex, resolveTopicFilter, questionsForTopic, retestPath, coreFilterApplies, coreFilterNote, reportTopicSlug, RETEST_MIN_QUESTIONS } from '../topic-filter.ts';
 
 const q = (id, keys, tier) => ({ id, topics: keys.map((k) => ({ key: k, label: `L ${k}` })), ...(tier ? { tier } : {}) });
 const bank = [
@@ -81,6 +81,73 @@ test('real banks: the Core filter is offered exactly where it removes a question
     }
   }
   assert.ok(checked > 100, `checked ${checked} topic keys`);
+});
+
+test('M9: a diagnostic reports a question under its first topic, or a valid override', () => {
+  const twoTopics = q('h', ['probability/conditional', 'statistics/histograms', 'statistics/cumulative']);
+  assert.equal(reportTopicSlug(twoTopics), 'probability');
+  assert.equal(reportTopicSlug(twoTopics, 'statistics'), 'statistics');
+  assert.equal(reportTopicSlug(twoTopics, 'mensuration'), null, 'an override must be one of the question\'s own topics');
+  assert.equal(reportTopicSlug(twoTopics, 'statistics/histograms'), null, 'a topic slug, not a subtopic key');
+  assert.equal(reportTopicSlug(q('t', ['topic-only/'])), 'topic-only', 'a topic-level tag still names its topic');
+  assert.equal(reportTopicSlug(q('n', [])), null);
+});
+
+test('M9: real diagnostics report every question under one of its topics, and every retest opens more than one question', async () => {
+  const { flagshipSpecs } = await import('../../academic/index.ts');
+  const { buildClientQuestions } = await import('../client-questions.ts');
+  const { DIAGNOSTIC_SETS } = await import('../../../data/diagnostics.ts');
+  for (const set of DIAGNOSTIC_SETS) {
+    const spec = flagshipSpecs().find((f) => f.code === set.code);
+    const qs = buildClientQuestions(spec);
+    const idx = topicFilterIndex(qs);
+    for (const id of set.questionIds) {
+      const question = qs.find((x) => x.id === id);
+      const slug = reportTopicSlug(question, set.topicOverrides?.[id]);
+      assert.ok(slug && idx[slug] && idx[slug].count >= 1, `${set.code}/${set.slug} ${id} reported under ${slug}`);
+      assert.ok(questionsForTopic(qs, slug).length >= RETEST_MIN_QUESTIONS, `${set.code}/${set.slug} ${id}: retest pool for ${slug} has at least ${RETEST_MIN_QUESTIONS} questions`);
+    }
+  }
+  // The 0580 Extended histogram question is a Statistics result, not Probability.
+  const ext = DIAGNOSTIC_SETS.find((s) => s.code === '0580' && s.slug === 'extended');
+  const qs0580 = buildClientQuestions(flagshipSpecs().find((f) => f.code === '0580'));
+  const hist = qs0580.find((x) => x.id === 'igcse-mathematics-statistics-and-probability-extended-practice-q4');
+  assert.equal(reportTopicSlug(hist, ext.topicOverrides?.[hist.id]), 'statistics-cambridge-igcse-maths');
+});
+
+test('M9: every 0580 and 9702 topic and subtopic can be retested from practice, including topics no diagnostic samples', async () => {
+  const { flagshipSpecs } = await import('../../academic/index.ts');
+  const { buildClientQuestions } = await import('../client-questions.ts');
+  const { topicsFor } = await import('../../../data/academic/syllabus-topics.ts');
+  for (const [code, qual, subject] of [['0580', 'igcse', 'mathematics'], ['9702', 'a-level', 'physics']]) {
+    const qs = buildClientQuestions(flagshipSpecs().find((f) => f.code === code));
+    const idx = topicFilterIndex(qs);
+    for (const t of topicsFor('cambridge', qual, subject).topics) {
+      assert.ok(resolveTopicFilter(t.slug, idx), `${code} topic ${t.number} is a valid ?topic= key`);
+      assert.ok(questionsForTopic(qs, t.slug).length >= RETEST_MIN_QUESTIONS, `${code} topic ${t.number} has a retest pool`);
+      // Core-only retest (tier=core) is only offered where it applies, and never onto an empty pool.
+      if (coreFilterApplies(idx[t.slug])) assert.ok(questionsForTopic(qs, t.slug, { coreOnly: true }).length >= 1, `${code} topic ${t.number} Core pool`);
+      for (const s of t.subtopics) {
+        const key = `${t.slug}/${s.slug}`;
+        if (!idx[key]) continue; // not tagged on any practice file: never offered (keys come from the bank)
+        assert.ok(questionsForTopic(qs, key).length >= 1, `${code} ${s.number}`);
+      }
+    }
+  }
+});
+
+test('B15 review: 0580 and 9702 resolve to their 2025-2027 syllabus, with at most one current record per course', async () => {
+  const { topicsFor, SYLLABUS_TOPICS } = await import('../../../data/academic/syllabus-topics.ts');
+  assert.equal(topicsFor('cambridge', 'igcse', 'mathematics')?.syllabusSeries, '2025-2027');
+  assert.equal(topicsFor('cambridge', 'a-level', 'physics')?.syllabusSeries, '2025-2027');
+  const current = new Map();
+  for (const s of SYLLABUS_TOPICS) {
+    if (s.status !== 'current') continue;
+    const key = `${s.boardSlug}/${s.qualificationSlug}/${s.subjectSlug}`;
+    current.set(key, [...(current.get(key) ?? []), `${s.syllabusCode} ${s.syllabusSeries}`]);
+  }
+  const duplicates = [...current].filter(([, v]) => v.length > 1);
+  assert.deepEqual(duplicates, [], 'more than one current syllabus record for one board/qualification/subject');
 });
 
 // The practice page's inline script cannot import modules, so it carries one-line

@@ -29,6 +29,7 @@ syllabusTopics:
 description: "Condensed recall notes on F = BIL, F = BQv, flux, electromagnetic induction and Faraday\u2019s and Lenz\u2019s laws for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -96,13 +97,22 @@ E = - d(N phi) / dt
 
 **Lenz's law** — the induced e.m.f. opposes the change producing it. That is the **minus sign**, and it is a statement of conservation of energy: if the induced current helped the change, energy would be created from nothing.
 
+## Induction experiments (20.5)
+
+Coil (or wire) connected to a **sensitive centre-zero galvanometer**:
+
+- **Magnet into coil** → brief deflection; **magnet at rest** → none; **magnet out** → deflection the other way. Only a *changing* flux linkage induces an e.m.f.
+- **Wire moved through a U-shaped magnet's field** → deflection while it cuts the field lines; none when still or moving parallel to them.
+- **Bigger e.m.f.** with a faster movement, a stronger magnet, or more turns — all raise the rate of change of flux linkage. A larger coil area does not help with a bar magnet (a wider loop also encloses the magnet's return field); it does for a coil in a **uniform** field, such as between a U-shaped magnet's poles, where flux linkage is NBA.
+- **Direction (Lenz):** a north pole approaching makes the near end of the coil a north pole (repels); a north pole withdrawn makes it a south pole (attracts). Work must be done against this force, which supplies the electrical energy.
+
 ## The three ways to induce an e.m.f.
 
 1. Change the **field strength** B.
 2. Change the **area** A.
 3. Change the **angle** θ (rotation — this is how a generator works).
 
-For a coil rotating at angular frequency ω, the e.m.f. varies sinusoidally with peak value **NBAω**.
+For a coil rotating at angular frequency ω, the e.m.f. varies sinusoidally with peak value **NBAω** *(extension — not a 9702 requirement)*.
 
 ## Exam traps
 

@@ -12,9 +12,14 @@ order: 7
 syllabusTopics:
   - qualification: "igcse"
     topic: "transformations-and-vectors-cambridge-igcse-maths"
+    subtopic: "transformations-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "transformations-and-vectors-cambridge-igcse-maths"
+    subtopic: "vector-geometry-cambridge-igcse-maths"
 description: "Reflection, rotation, enlargement and translation, plus vector notation, magnitude and vector geometry -- the Core and Extended content of Topic 7 Transformations and Vectors for Cambridge IGCSE Mathematics 0580, 2025-2027 series."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
+updatedDate: 2026-09-27
 featured: false
 ---
 

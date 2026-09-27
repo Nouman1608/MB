@@ -89,13 +89,15 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 **6.** **(a)** Revenue before = $3 × 900 million = $2.7 billion; revenue after = $3 × 700 million = $2.1 billion [1]. Fall = **$0.6 billion ($600 million)** [1].
 **(b)** Any two of: **raise other taxes**, such as income tax or taxes on other goods [1]; **cut government spending** [1]; **borrow more**, accepting a larger budget deficit.
 
-*Mark-scheme insight (June 2024):* for a fall in tax receipts, the mark scheme credits the government raising taxes on other goods or on income, reducing spending, or running a budget deficit.
+*Mark-scheme insight (Cambridge 9708 June 2024 mark scheme, Paper 42, Question 1(d)):* where tax revenue falls, the mark scheme credits the government cutting its spending, raising taxes on other goods or on income, or running a budget deficit.
+
+*Source for the mark-scheme insights on this page: Cambridge International AS & A Level Economics 9708 June 2024 mark scheme for Paper 42 (9708/42), paraphrased. Cambridge's [9708 past papers page](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-economics-9708/past-papers/) publishes the Paper 41 mark scheme from this series, not the Paper 42 one.*
 
 *Try the real question next:* Cambridge International AS & A Level Economics 9708, June 2024, Paper 42, Question 1(d).
 
 **7.** Marginal propensity to withdraw = 0.1 + 0.1 + 0.05 = 0.25, so the multiplier = 1 ÷ 0.25 = **4** [1]. Final fall in national income = 4 × $4 billion = **$16 billion** [1]. The fall is larger because the copper workers and firms who lose income **spend less**, which reduces other people's incomes in further rounds of spending [1].
 
-*Mark-scheme insight (June 2024):* the mark scheme credits linking a fall in exports to a fall in the (X − M) part of aggregate demand and so to a fall in output.
+*Mark-scheme insight (Cambridge 9708 June 2024 mark scheme, Paper 42, Question 1(d)):* the mark scheme credits the chain from lower exports to a smaller (X − M) component of aggregate demand, and then to lower output.
 
 *Try the real question next:* Cambridge International AS & A Level Economics 9708, June 2024, Paper 42, Question 1(d).
 

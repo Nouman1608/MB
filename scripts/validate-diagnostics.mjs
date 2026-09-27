@@ -11,6 +11,7 @@
 import { DIAGNOSTIC_SETS } from '../src/data/diagnostics.ts';
 import { flagshipSpecs } from '../src/utils/academic/index.ts';
 import { buildClientQuestions } from '../src/utils/practice/client-questions.ts';
+import { reportTopicSlug } from '../src/utils/practice/topic-filter.ts';
 import { readFileSync, existsSync } from 'node:fs';
 
 // D-328 (2026-09-25): a set's `setReview` puts "This set was reviewed by <name>"
@@ -69,8 +70,11 @@ for (const set of DIAGNOSTIC_SETS) {
     // B16 (2026-09-27): every tiered bank now carries tiers (subtopic data + per-question labels).
     if (!extendedSet && TIERED.includes(set.code) && q.tier === 'supplement') problems.push(`${key}: ${id} is Supplement-only (Extended), but the set is for both tiers`);
     if (q.marks > 4) problems.push(`${key}: ${id} is worth ${q.marks} marks; diagnostic questions are 2-3 marks`);
-    const topic = q.topics[0]?.key.split('/')[0];
-    if (!topic) problems.push(`${key}: ${id} has no syllabus topic tag, so its result cannot be reported by topic`);
+    // M9: the topic the result is reported under (the set's topicOverrides entry, else the first tag).
+    const override = set.topicOverrides?.[id];
+    const topic = reportTopicSlug(q, override);
+    if (override !== undefined && !topic) problems.push(`${key}: topicOverrides names ${override} for ${id}, which is not one of its mapped topics`);
+    else if (!topic) problems.push(`${key}: ${id} has no syllabus topic tag, so its result cannot be reported by topic`);
     topics.add(topic);
   }
   if (set.setReview) {
@@ -84,6 +88,9 @@ for (const set of DIAGNOSTIC_SETS) {
     }
     if (!/^\d{4}-\d{2}-\d{2}$/.test(reviewedOn) || Number.isNaN(Date.parse(reviewedOn))) problems.push(`${key}: setReview reviewedOn "${reviewedOn}" is not an ISO date (YYYY-MM-DD)`);
     else if (reviewedOn > today) problems.push(`${key}: setReview reviewedOn ${reviewedOn} is in the future`);
+  }
+  for (const id of Object.keys(set.topicOverrides ?? {})) {
+    if (!set.questionIds.includes(id)) problems.push(`${key}: topicOverrides names ${id}, which is not in the set`);
   }
   if (set.questionIds.length < 4 || set.questionIds.length > 8) problems.push(`${key}: ${set.questionIds.length} questions; keep a diagnostic at 4-8`);
   if (marks > 16) problems.push(`${key}: ${marks} marks is too many for about ${set.minutes} minutes`);

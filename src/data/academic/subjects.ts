@@ -39,7 +39,7 @@ export const SUBJECTS: readonly CanonicalSubject[] = [
   { slug: 'psychology', name: 'Psychology', aliases: [], hubId: 'psychology', source: 'LA nav + /subjects/' },
   { slug: 'law', name: 'Law', aliases: [], hubId: 'law', source: 'LA nav + /subjects/' },
   { slug: 'world-history', name: 'World History', aliases: ['History'], hubId: 'world-history', source: 'LA nav (labelled "History", slug world-history) + /subjects/', notes: 'Label/slug mismatch on the source site. Canonical name kept as World History to match the slug.' },
-  { slug: 'ict', name: 'ICT', aliases: ['Information and Communication Technology'], hubId: 'ict', source: 'LA nav (Cambridge IGCSE + A Level)', notes: 'CONFLICT-03: present in nav with live course pages, but absent from the /subjects/ index of 23.' },
+  { slug: 'ict', name: 'ICT', aliases: ['Information and Communication Technology', 'Information Technology'], hubId: 'ict', source: 'LA nav (Cambridge IGCSE + A Level)', notes: 'CONFLICT-03: present in nav with live course pages, but absent from the /subjects/ index of 23.' },
   { slug: 'urdu-language', name: 'Urdu Language', aliases: ['Urdu'], hubId: 'urdu-language', source: 'LA nav (Edexcel A Level, labelled "Urdu") + /subjects/' },
   { slug: 'english-literature', name: 'English Literature', aliases: [], hubId: 'english-literature', source: '/subjects/english-literature/ only — no course pages' },
   { slug: 'geography', name: 'Geography', aliases: [], source: '/subjects/ index only — no course pages' },

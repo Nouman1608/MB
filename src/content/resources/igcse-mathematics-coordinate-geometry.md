@@ -12,9 +12,23 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "coordinate-geometry-cambridge-igcse-maths"
+    subtopic: "gradient-of-linear-graphs-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "coordinate-geometry-cambridge-igcse-maths"
+    subtopic: "length-and-midpoint-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "coordinate-geometry-cambridge-igcse-maths"
+    subtopic: "equations-of-linear-graphs-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "coordinate-geometry-cambridge-igcse-maths"
+    subtopic: "parallel-lines-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "coordinate-geometry-cambridge-igcse-maths"
+    subtopic: "perpendicular-lines-cambridge-igcse-maths"
 description: "Coordinates, straight-line graphs, gradient, length, midpoint, and parallel and perpendicular lines -- the Core and Extended content of Topic 3 Coordinate geometry for Cambridge IGCSE Mathematics 0580, 2025-2027 series."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
+updatedDate: 2026-09-27
 featured: false
 ---
 

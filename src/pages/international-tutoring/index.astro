@@ -21,6 +21,7 @@ import FAQ from '../../components/ui/FAQ.astro';
 import { routes } from '../../utils/urls/routes';
 import { taughtOnly, boardPath } from '../../utils/academic';
 import { BOARDS } from '../../data/academic/boards';
+import { subjectBySlug } from '../../data/academic/subjects';
 import { faqNode } from '../../utils/schema/faq';
 import { TRIAL_STEPS } from '../../data/tuition';
 import { REGION_PRICING, ONE_TO_ONE_PRICING, PRICING_TERMS, IB_PRICING, IB_USD_PRICING, isIndicative, formatFee } from '../../data/pricing';
@@ -31,7 +32,11 @@ const path = '/international-tutoring/';
 const taught = taughtOnly();
 const boards = BOARDS.filter((b) => b.status === 'offered' && taught.some((c) => c.boardSlug === b.slug));
 const qualifications = [...new Set(taught.map((c) => c.qualification))];
-const subjectNames = [...new Set(taught.map((c) => c.subject))].sort((a, b) => a.localeCompare(b));
+// B15 review (C3): one entry per subject slug, under the shared subject name,
+// so a per-course name (9626 "Information Technology") does not list ICT twice.
+const subjectNameBySlug = new Map<string, string>();
+for (const c of taught) if (!subjectNameBySlug.has(c.subjectSlug)) subjectNameBySlug.set(c.subjectSlug, subjectBySlug(c.subjectSlug)?.name ?? c.subject);
+const subjectNames = [...new Set(subjectNameBySlug.values())].sort((a, b) => a.localeCompare(b));
 
 const confirmedRegions = REGION_PRICING.filter((r) => !isIndicative(r)).map((r) => r.region);
 const usdGroup = REGION_PRICING.find((r) => r.currency === 'USD')!;

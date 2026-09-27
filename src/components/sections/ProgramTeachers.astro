@@ -19,6 +19,7 @@
 import Button from '../ui/Button.astro';
 import { getAuthors } from '../../utils/content/collections';
 import { taughtOnly, LEVEL_FOR_QUALIFICATION } from '../../utils/academic';
+import { subjectBySlug } from '../../data/academic/subjects';
 import { sortPinnedFirst } from '../../data/featured-teachers';
 import { routes } from '../../utils/urls/routes';
 
@@ -41,7 +42,9 @@ const tokens = (label: string): string[] => {
 const matrixSubjects = new Set(
   taughtOnly()
     .filter((c) => LEVEL_FOR_QUALIFICATION[c.qualificationSlug] === level)
-    .flatMap((c) => tokens(c.subject)),
+    // B15 -- a course can carry its own subject name (9626 "Information
+    // Technology"); teachers list the shared name ("ICT"), so match both.
+    .flatMap((c) => [...tokens(c.subject), ...tokens(subjectBySlug(c.subjectSlug)?.name ?? '')]),
 );
 
 // Pinned leads first (D-151), then the existing experience ordering. The

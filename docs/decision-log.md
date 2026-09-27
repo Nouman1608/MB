@@ -14726,6 +14726,108 @@ Source: project doc `claude/audit-d354-d359-2026-09-27.md`, finding T-01.
 
 **Process note:** the D-355 to D-358 decision-log merges garbled older entries because they went through a non-UTF-8 shell. D-360 repaired this. Decision-log changes are now made in UTF-8 tools only.
 
+## D-364 - 0580: missing Number content, subtopic-level mappings, and a diagnostic topic fix (M2, M3, M4, M8, M9) (2026-09-27)
+
+**Why:** follow-ups from the 0580 coverage matrix (D-355, section 13). Some Core Number content was not taught, the study guides were mapped only to whole topics, and there were small partial gaps.
+
+- **M2, M3 and M8 (content):** all checked against the 0580 2025–2027 syllabus (V3).
+  - **Number revision notes, new sections:**
+    - Sets and Venn diagrams (C1.2). The E1.2 notation and three-set diagrams are labelled Extended.
+    - Powers and roots (C1.3); fractions, decimals and percentages (C1.4); ordering (C1.5); average speed (C1.12).
+    - Using a calculator (C1.14). It notes that Paper 1 excludes C1.14 and Paper 2 excludes E1.14.
+    - Time and timetables (C1.15), using the syllabus time format; money and currency (C1.16).
+    - Exponential growth and decay (E1.17) and a surds section (E1.18).
+  - **New practice questions**, each with a worked answer and indicative marks:
+    - Number Q13–Q22. Q15, three sets, is labelled Extended.
+    - Algebra Q17–Q18: letters and generalised numbers; sketching.
+    - Statistics Q8: tally and two-way tables.
+  - **Algebra notes:** a new "Letters and substitution" section (C2.1).
+- **M4 (mappings):** every 0580 page is now mapped to the subtopics it teaches. No page is mapped to a whole topic.
+  - A subtopic counts as taught only where the page has a worked example or a method. A restated syllabus list does not count.
+  - Geometry practice no longer claims 4.8.
+  - Tier-label fixes in the Algebra notes:
+    - quadratic and cubic sequences are Core (C2.7);
+    - shade the unwanted region (E2.6);
+    - solving inequalities (E2.6), factorising trinomials (E2.2.4) and fractional indices (E2.4) are labelled Extended.
+  - Trigonometry guide: elevation and depression are labelled E6.2.
+- **M9 (retest):** every 0580 and 9702 topic, including those in no 10-minute diagnostic, can be retested from practice, each with at least 2 questions.
+  - **Bug fixed:** the 0580 Extended diagnostic reported a histogram question (statistics-and-probability-extended-practice q4) as Probability, because its file's first tag is 8.4. A new `topicOverrides` field on diagnostic sets, checked by the validator, now reports it as Statistics.
+  - The set now samples 5 topics, as its label says.
+  - **Tests:** unit tests and negative case [AJ].
+- **Known limitation:** topic tags are per file, so a Core student can see an Extended-only subtopic name in the practice weak-topics list. The proposed fix is per-question topic tagging.
+- **Independent reviews:** found no high-severity issues. Their points were applied:
+  - the algebra notes' C2.1 mapping;
+  - the paper-exclusion wording;
+  - the E2.7 wording;
+  - the y = −2x + 6 form;
+  - Q18(b)(iii), no turning point required.
+
+## D-365 - 9702: circuit symbols, induction experiments, wave-motion illustrations (M5) (2026-09-27)
+
+**Why:** real gaps found by the 9702 matrix: 10.1 circuit symbols, 20.5.4 induction experiments and 7.1.1 wave-motion illustrations.
+
+- **D.C. circuits guide:** a 27-row table of exactly the symbols in syllabus section 6 (pp. 61–62), each described in words from the drawing, plus pairs that are easy to confuse. The revision notes and practice Q10 were added too.
+- **Waves pages:** rope, slinky and ripple-tank illustrations (7.1.1), a demonstrations list, and practice Q10–Q11. Q11 works out λ = 1.5 cm and v = 0.18 m s⁻¹, and the stroboscope wording was corrected.
+- **Magnetic fields pages:** the three kinds of experiment in 20.5.4 (a changing flux induces an e.m.f.; the factors that affect its size; Lenz's law), with practice Q9.
+- **Review fixes:**
+  - "Larger coil area" was removed as a factor for a bar magnet moved into a coil, because the net linked flux does not grow with area. Area is kept only for a coil in a uniform field.
+  - NBAω is labelled as an extension (not a 9702 requirement).
+  - Cell, motor, switch and oscilloscope descriptions corrected against the drawings.
+
+## D-366 - 0580 and 9702 syllabuses for 2028–2030 checked; future series recorded (M7) (2026-09-27)
+
+**Why:** students who start two-year courses in September 2026 sit their exams in 2028.
+
+- **Documents checked:**
+  - 0580 2028–2030 V2 (745681, update notice 763300);
+  - 9702 2028–2030 V1 (744626).
+  - Both were compared with the current series and with Cambridge's own "Changes" pages.
+- **Findings:**
+  - Subject content is unchanged for both. Cambridge says there are "no significant changes which affect teaching".
+  - Assessment structure is unchanged.
+  - Command words are lightly reworded: Sketch (0580); Define, Explain and Suggest (9702).
+- **Record:** `docs/content-review/syllabus-changes-0580-9702-2028-2030.md`.
+- **Data:** the 2028–2030 series are added to `syllabus-topics.ts` with `status: 'future'`, reusing the current slugs.
+  - `topicsFor` returns only current series. A test confirms this and that there is one current record per course.
+  - The content validator and coverage dashboard now skip future records.
+  - No live page changes.
+- **Owner decision pending:** add a one-line "also valid for 2028–2030" note to the 0580 and 9702 hubs.
+- **Found in passing:** the 0580 record in `assessments.ts` carries A Level-style staging fields that no template reads. This needs a separate data fix.
+
+## D-367 - June 2024 mark-scheme insights checked (B14) (2026-09-27)
+
+**Why:** backlog B14. 34 "Mark-scheme insight (June 2024)" lines on 24 pages had no recorded source.
+
+- **Sources:**
+  - Pearson Edexcel: the official 4CH1 1CR/2CR and 4PH1 1PR/2PR mark schemes on qualifications.pearson.com.
+  - Cambridge: the cited variants (9700/22, 9700/42, 9609/32, 9708/42, 0610/42, 7115/12, 2281/22) are not published on cambridgeinternational.org, which lists only Paper x1 mark schemes. They were read from a mirror copy of Cambridge's own PDFs, with the component code confirmed in each header.
+- **Result:**
+  - 26 supported; 7 partly supported and reworded; 1 corrected (4CH1 2CR Question 3(a)); 0 removed.
+  - Every label now cites its mark scheme, paper and question, and each page has a source line.
+  - No question, answer or mark changed.
+- **Independent check:** all 34 lines were checked. None copies more than 9 words. Five wording refinements were applied: the 6(b)(ii)–(iii) label, marking our own tip as such, the "second mark", the Question 10 example, and the units wording.
+- **Not done:** 29 "Mark-scheme insight (June 2025)" lines on Computer Science pages still carry no source.
+
+## D-368 - 9626 shown as "Information Technology" everywhere; 0625 coverage matrix (B15, M10) (2026-09-27)
+
+**B15:** the official title of 9626 is Information Technology (syllabus 662482), but its subject entry is shared with IGCSE 0417, which is correctly "ICT".
+
+- **The fix:** a per-course display-name override (`COURSE_SUBJECT_NAMES` in `src/data/academic/matrix.ts`) renames 9626 only.
+- **Where 9626 now shows the new name:**
+  - the hub's title, heading, meta and schema (with "(ICT)" kept once in the title);
+  - checklists, board and level listings;
+  - the trial-form course label;
+  - the "Aligned to" line on the 9 resource pages;
+  - the Qatar page link.
+- **Unchanged:** 0417 and every other course. No URL or slug changes, and the sitemap is identical.
+- **Tests and checks:** a unit test; a rendered-label check on hub headings and on the "Aligned to" line; two negative cases.
+- **Side effect:** the 9626 hub and checklist titles are now long enough that the site's existing rule drops the " — Marlbridge" suffix.
+
+**M10:** `docs/content-review/coverage-matrix-cambridge-0625-2026-09-27.csv` has 24 rows. The audit report has a new section 14.
+
+- **Gaps:** 4.1, 6.1 and 6.2 have no pages. Topic 4 has practice only; topic 5 has only Extended practice.
+- **Outcome checks:** 113 outcomes were checked by hand. 62 are real gaps, mostly in topic 4.
+- **Follow-ups:** M10a–f.
 
 ## D-370 - Content-breadth sprint: 397 new resources, practice bank to 5 more codes (2026-09-28)
 

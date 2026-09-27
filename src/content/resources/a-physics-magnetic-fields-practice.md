@@ -29,6 +29,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on the motor effect, charged particles in fields, induction and Lenz law for A Level Physics."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -75,6 +76,12 @@ Related: [Magnetic Fields revision notes](/resources/a-physics-magnetic-fields-r
 **(b)** *(Extension, not examinable.)* Calculate the peak e.m.f. induced.
 **(c)** State how the e.m.f. varies with time. **[1]**
 
+**9.** A coil of insulated wire is connected to a sensitive centre-zero galvanometer. The north pole of a bar magnet is pushed into one end of the coil, held at rest inside it, and then pulled out.
+
+**(a)** Describe what the galvanometer shows during each of the three stages. **[3]**
+**(b)** State two changes to the apparatus or the method that would give a larger maximum deflection, and explain why each works. **[4]**
+**(c)** State the magnetic polarity of the end of the coil nearest the magnet while the magnet is being pushed in, and explain why work must be done to push the magnet in. **[3]**
+
 ---
 
 ## Answers
@@ -104,6 +111,10 @@ Related: [Magnetic Fields revision notes](/resources/a-physics-magnetic-fields-r
 **8. (a)** ω = 2πf, converting the rotation rate from rev/s to rad/s first [1] = 2π × 50 = **314 rad s⁻¹** [1].
 **(b)** *(Extension, not part of the 9702 mark scheme.)* peak e.m.f. = NBAω = 200 × 0.050 × 0.010 × 314 = **31.4 V**.
 **(c)** It varies **sinusoidally** with time, oscillating between +31.4 V and −31.4 V [1].
+
+**9. (a)** Pushed in: a **brief deflection** in one direction [1]. At rest: **no deflection** (zero reading), because the flux linkage is not changing [1]. Pulled out: a brief deflection in the **opposite direction** [1].
+**(b)** Any two, each with its reason [1] + [1]: move the magnet **faster** — the flux linkage changes in less time; use a **stronger magnet** — a larger change of flux; use a coil with **more turns** — a larger change of flux linkage NΦ; wind the coil on an **iron core** and move the magnet towards its end — the iron concentrates more of the magnet's flux through the turns. (A larger coil area is not credited: a wider loop around a bar magnet also encloses the magnet's return field, so the net flux linked does not increase.) Each increases the **rate of change of flux linkage**, and by Faraday's law the induced e.m.f. (and so the current) is proportional to it.
+**(c)** A **north pole** [1]. By Lenz's law, the induced current opposes the change producing it, so the coil **repels** the approaching magnet [1]; work must be done against this repulsive force, and this work is transferred to electrical energy in the circuit (conservation of energy) [1].
 
 ---
 

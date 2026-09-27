@@ -29,6 +29,7 @@ syllabusTopics:
 description: "Condensed recall notes on wave properties, the wave equation, the electromagnetic spectrum, polarisation and the Doppler effect for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -60,6 +61,12 @@ v = f λ            f = 1 / T
 | Structure | Crests and troughs | Compressions and rarefactions |
 | Polarisable? | **Yes** | **No** |
 | Examples | Light, all EM waves, water waves | Sound, ultrasound |
+
+**Demonstrations (7.1).** In each, the medium oscillates about a fixed position while the wave and its energy move along:
+
+- **Rope** moved up and down at one end → transverse wave; a ribbon on the rope moves up and down but not along.
+- **Slinky spring** pushed and pulled along its length → longitudinal wave (compressions and rarefactions); moved side to side → transverse.
+- **Ripple tank** → a vibrating bar gives straight wavefronts, a dipper gives circular ones; a lamp above projects crests as bright lines (spacing on the screen = λ × magnification); a stroboscope at the wave frequency "freezes" the pattern so λ can be measured and v = fλ found; a floating object bobs up and down without moving along.
 
 Only transverse waves can be polarised — the standard reason sound cannot be, since a longitudinal oscillation has only one direction (parallel to travel) to begin with, so there is no second plane for a filter to restrict it to.
 

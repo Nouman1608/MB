@@ -79,6 +79,28 @@ featured: false
 
 **7.** *(Extended)* In a histogram, one bar represents a class with width 5 and frequency 15. Calculate the frequency density for this bar. **[2]**
 
+**8.** **(a)** The number of people in each of 20 cars passing a school is recorded:
+
+```
+1  2  1  3  2  1  4  1  2  2
+1  3  1  5  2  1  1  2  3  1
+```
+
+(i) Draw a tally table with columns "Number of people", "Tally" and "Frequency". **[2]**
+(ii) Write down the mode. **[1]**
+
+**(b)** 60 students each chose one sport. Some of the results are shown in this two-way table.
+
+```
+          Football   Tennis   Swimming   Total
+Boys         14                   6        30
+Girls                  13
+Total        22                  15        60
+```
+
+(i) Complete the table. **[3]**
+(ii) What fraction of the students who chose tennis were girls? **[1]**
+
 ---
 
 ## Answers
@@ -102,6 +124,34 @@ featured: false
 **(b)** The median is the 25th value (of 50). This falls in the 20–30 class, where the cumulative frequency reaches 14 at age 20 and 30 at age 30 [1]. Estimated median = 20 + ((25 − 14) ÷ 16) × 10 = 20 + 6.9 = **26.9 years** (3 s.f.) [1].
 
 **7.** Frequency density = frequency ÷ class width = 15 ÷ 5 = **3** [2].
+
+**8. (a)** (i) [2 for all five rows correct, 1 for at least three correct]
+
+```
+Number of people   Tally          Frequency
+1                  ||||/ ||||     9
+2                  ||||/ |        6
+3                  |||            3
+4                  |              1
+5                  |              1
+                   Total          20
+```
+
+Here ||||/ stands for a group of five: four strokes crossed by a fifth. Check that the frequencies add up to 20.
+(ii) **1** person [1] (it has the highest frequency, 9). The mode is the value, 1, not its frequency.
+
+**(b)** (i) Boys, tennis: 30 − 14 − 6 = **10**; girls, football: 22 − 14 = **8**; girls, swimming: 15 − 6 = **9** [1]. Girls total: 60 − 30 = **30** (check: 8 + 13 + 9 = 30) [1]. Tennis total: 10 + 13 = **23** (check: 22 + 23 + 15 = 60) [1].
+
+```
+          Football   Tennis   Swimming   Total
+Boys         14        10         6        30
+Girls         8        13         9        30
+Total        22        23        15        60
+```
+
+(ii) **13/23** [1]: 13 of the 23 students who chose tennis were girls.
+
+*Common mistake:* in (b)(ii), dividing by 30 (all the girls) or 60 (all the students). The question is about the students who chose tennis, so the denominator is the tennis total.
 
 ---
 

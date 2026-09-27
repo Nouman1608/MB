@@ -12,9 +12,17 @@ order: 6
 syllabusTopics:
   - qualification: "igcse"
     topic: "trigonometry-cambridge-igcse-maths"
+    subtopic: "right-angled-triangles-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "trigonometry-cambridge-igcse-maths"
+    subtopic: "non-right-angled-triangles-cambridge-igcse-maths"
+  - qualification: "igcse"
+    topic: "trigonometry-cambridge-igcse-maths"
+    subtopic: "pythagoras-theorem-and-trigonometry-cambridge-igcse-maths"
 description: "Pythagoras' theorem, right-angled triangle trigonometry, exact values, trig functions, the sine and cosine rules and 3D problems -- the Core and Extended content of Topic 6 Trigonometry for Cambridge IGCSE Mathematics 0580, 2025-2027 series."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -88,7 +96,7 @@ Choosing between the sine and cosine rules comes down to what you
 already know: use the cosine rule when you have three sides, or two
 sides and the included angle; use the sine rule when you have a side
 and its opposite angle, plus one more piece of information. Elevation
-and depression problems are just right-angled triangle trigonometry
+and depression problems (Extended, E6.2) are just right-angled triangle trigonometry
 with the angle measured from a horizontal line, so redraw them with
 the horizontal marked before choosing a ratio. For 3D problems,
 always start by sketching the single 2D right-angled triangle hidden

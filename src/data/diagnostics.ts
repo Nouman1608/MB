@@ -64,6 +64,14 @@ export interface DiagnosticSet {
   audience: string;
   /** Question ids from the practice bank, in the order asked. */
   questionIds: readonly string[];
+  /**
+   * M9 (27 Sep 2026) -- question id -> the topic slug its result is reported
+   * under, for a question whose practice file is mapped to more than one topic
+   * (a question's tags are its file's, and the first tag is used otherwise).
+   * Must be one of the question's own mapped topics (validate-diagnostics.mjs,
+   * reportTopicSlug in src/utils/practice/topic-filter.ts).
+   */
+  topicOverrides?: Readonly<Record<string, string>>;
   /** Approximate minutes, stated to the student. */
   minutes: number;
   /**
@@ -551,6 +559,12 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
       'igcse-mathematics-statistics-and-probability-extended-practice-q3',
       'igcse-mathematics-statistics-and-probability-extended-practice-q4',
     ],
+    // M9 (27 Sep 2026): -q4 is a histogram question (9.7), but its file is also
+    // mapped to 8.4 conditional probability, which comes first, so it was reported
+    // (and its "Retest this topic" link went) under Probability.
+    topicOverrides: {
+      'igcse-mathematics-statistics-and-probability-extended-practice-q4': 'statistics-cambridge-igcse-maths',
+    },
     minutes: 10,
   },
   {

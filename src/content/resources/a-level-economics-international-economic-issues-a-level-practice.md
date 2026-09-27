@@ -53,14 +53,16 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **1.** Globalisation is the growing **integration of the world's economies** through closer international links [1]. Any one feature, for example: larger cross-border **flows of goods, services, capital and people**; production processes **split across several countries**; the spread of multinational companies [1].
 
-*Mark-scheme insight (June 2024):* the mark scheme defines globalisation in terms of world-wide trade links, the movement of goods, services, capital and people, and the dividing up of manufacturing between countries.
+*Mark-scheme insight (Cambridge 9708 June 2024 mark scheme, Paper 42, Question 5):* the mark scheme's definition of globalisation covers world-wide trade links, flows of goods, services, capital and people between countries, and manufacturing split into stages carried out in different countries.
+
+*Source for the mark-scheme insights on this page: Cambridge International AS & A Level Economics 9708 June 2024 mark scheme for Paper 42 (9708/42), paraphrased. Cambridge's [9708 past papers page](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-economics-9708/past-papers/) publishes the Paper 41 mark scheme from this series, not the Paper 42 one.*
 
 *Try the real question next:* Cambridge International AS & A Level Economics 9708, June 2024, Paper 42, Question 5.
 
 **2.** **(a)** Real GNI per head = $45 billion ÷ 30 million [1] = **$1,500** [1].
 **(b)** It is an average, so it hides **inequality**, and it ignores **non-material aspects** of living standards such as health, education, working conditions and the environment (or the informal economy) [1].
 
-*Mark-scheme insight (June 2024):* the mark scheme treats the standard of living as having a material side (real income per head and the goods it buys) and a non-material side (health, education, social and working conditions).
+*Mark-scheme insight (Cambridge 9708 June 2024 mark scheme, Paper 42, Question 5):* the mark scheme describes the standard of living in two parts: a material part (real GNI per head and what it can buy) and a non-material part (health, education, social and working conditions).
 
 *Try the real question next:* Cambridge International AS & A Level Economics 9708, June 2024, Paper 42, Question 5.
 
@@ -74,7 +76,7 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **4.** Transfer pricing is when a multinational sets the **prices charged between its own branches** in different countries so that profits are recorded in a **low-tax country** [1]. The host country collects **less tax revenue**, reducing what it can spend on education and health [1].
 
-*Mark-scheme insight (June 2024):* the mark scheme gives transfer pricing, moving profits to tax havens and so reducing a developing country's ability to fund education and health, as an evaluative point.
+*Mark-scheme insight (Cambridge 9708 June 2024 mark scheme, Paper 42, Question 5):* one evaluation point in the mark scheme is transfer pricing: a multinational shifting profits to a tax haven, which leaves a developing country less able to invest in education and health.
 
 *Try the real question next:* Cambridge International AS & A Level Economics 9708, June 2024, Paper 42, Question 5.
 

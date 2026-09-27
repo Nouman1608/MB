@@ -59,7 +59,9 @@ Each question practises a skill tested in the June 2024 Paper 32. After each ans
 
 **2.** Core workers are permanent, usually full-time employees with key skills who are central to the business's main activities [1]. Peripheral workers are employed on flexible terms, such as part-time, temporary or zero-hour contracts, and can be taken on or released as demand changes [1].
 
-*Mark-scheme insight (June 2024):* employing peripheral workers on temporary or zero-hour contracts to match seasonal production was accepted as relevant context when analysing flexible contracts.
+*Mark-scheme insight (Cambridge 9609 June 2024 mark scheme, Paper 32, Question 1):* one way the mark scheme applies flexible contracts to the case business is its use of peripheral workers on temporary or zero-hour contracts to match seasonal production.
+
+*Source for the mark-scheme insights on this page: Cambridge International AS & A Level Business 9609 June 2024 mark scheme for Paper 32 (9609/32), paraphrased. Cambridge's [9609 past papers page](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-business-9609/past-papers/) publishes the Paper 31 mark scheme from this series, not the Paper 32 one.*
 
 *Try the real question next:* Cambridge International AS & A Level Business 9609, June 2024, Paper 32, Question 1.
 

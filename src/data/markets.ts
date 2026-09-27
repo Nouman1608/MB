@@ -129,7 +129,7 @@ export const MARKETS: readonly Market[] = [
       { path: '/boards/edexcel/igcse/biology/', label: 'Pearson Edexcel IGCSE Biology' },
       { path: '/boards/ib/ib-myp/myp-individuals-and-societies/', label: 'IB MYP Individuals and Societies' },
       { path: '/boards/cambridge/igcse/computer-science/', label: 'Cambridge IGCSE Computer Science' },
-      { path: '/boards/cambridge/a-level/ict/', label: 'Cambridge A Level ICT' },
+      { path: '/boards/cambridge/a-level/ict/', label: 'Cambridge A Level Information Technology' },
       { path: '/boards/edexcel/a-level/physics/', label: 'Pearson Edexcel A Level Physics' },
       { path: '/boards/aqa/a-level/english-language/', label: 'AQA A Level English Language' },
     ],

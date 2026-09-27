@@ -66,7 +66,9 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **3.** A negative externality is a **cost to a third party** not involved in the transaction, so marginal social cost is greater than marginal private cost [1]. The market ignores this cost and **over-produces** the good [1]. An indirect tax equal to the marginal external cost raises producers' costs, shifting supply to the left, so output falls towards the level where **MSC = MSB** [1].
 
-*Mark-scheme insight (June 2024):* the mark scheme links a negative externality to over-production and lists an indirect tax on producers as one policy to correct market failure.
+*Mark-scheme insight (Cambridge 9708 June 2024 mark scheme, Paper 42, Question 2):* the mark scheme links a negative externality to over-production and includes an indirect tax on producers among the policies that can correct market failure.
+
+*Source for the mark-scheme insights on this page: Cambridge International AS & A Level Economics 9708 June 2024 mark scheme for Paper 42 (9708/42), paraphrased. Cambridge's [9708 past papers page](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-economics-9708/past-papers/) publishes the Paper 41 mark scheme from this series, not the Paper 42 one.*
 
 *Try the real question next:* Cambridge International AS & A Level Economics 9708, June 2024, Paper 42, Question 2.
 
@@ -78,7 +80,7 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **5.** Consumers consider only their private benefit, so marginal social benefit is greater than marginal private benefit and vaccinations are **under-consumed** [1]. A subsidy lowers the price, increasing consumption towards the level where **MSB = MSC** [1]. Drawback, any one of: it has an **opportunity cost**, as the money could be spent elsewhere; it is hard to measure the external benefit, so the subsidy may be set at the wrong level [1].
 
-*Mark-scheme insight (June 2024):* the mark scheme credits pointing out that subsidies use funds that could have other uses, and that the correct size of a subsidy or tax is difficult to measure.
+*Mark-scheme insight (Cambridge 9708 June 2024 mark scheme, Paper 42, Question 2):* the evaluation points in the mark scheme include the opportunity cost of a subsidy (the money could have been used elsewhere) and the difficulty of measuring the right size of a subsidy or tax.
 
 *Try the real question next:* Cambridge International AS & A Level Economics 9708, June 2024, Paper 42, Question 2.
 

@@ -29,7 +29,7 @@ syllabusTopics:
 description: "The magnetic field concept, the force on a current-carrying conductor and on a moving charge, magnetic fields due to currents, and electromagnetic induction, for Cambridge International AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-18
-updatedDate: 2026-08-18
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -80,9 +80,11 @@ conductor; understanding the effect of a ferrous core on the strength of
 the magnetic field produced by a solenoid.
 
 **20.5 Electromagnetic induction** — defining magnetic flux and magnetic
-flux linkage; recalling and using Faraday's law of electromagnetic
-induction; recalling and using Lenz's law to determine the direction of an
-induced e.m.f.
+flux linkage; understanding and explaining experiments that demonstrate
+induction, the direction of the induced e.m.f. and the factors affecting its
+size; recalling and using Faraday's law of electromagnetic induction;
+recalling and using Lenz's law to determine the direction of an induced
+e.m.f.
 
 ## The magnetic field concept
 
@@ -220,6 +222,81 @@ states that an induced e.m.f. always acts in a direction to oppose the
 change producing it — this determines the direction (sign) of the induced
 e.m.f. and is a direct consequence of conservation of energy.
 
+### Experiments that demonstrate electromagnetic induction
+
+The syllabus (20.5) asks you to understand and explain experiments showing
+three things: that a changing magnetic flux can induce an e.m.f. in a
+circuit; that the induced e.m.f. is in a direction that opposes the change
+producing it; and which factors affect the size of the induced e.m.f. The
+standard demonstrations use a coil of many turns (or a single wire)
+connected to a **sensitive centre-zero ammeter (galvanometer)**, which shows
+both the size and the direction of a small current.
+
+**1. A changing flux induces an e.m.f.**
+
+- **Magnet and coil.** Push a bar magnet into the coil: the meter deflects
+briefly. Hold the magnet still inside the coil: the reading returns to
+zero, even though flux still links the coil. Pull the magnet out: the meter
+deflects the other way. Moving the coil instead of the magnet gives the same
+results. An e.m.f. is induced only while the flux linkage is **changing**.
+- **Wire and magnet.** Move a straight wire, connected to the meter, down
+through the field between the poles of a U-shaped magnet: the meter
+deflects while the wire cuts across the field lines. Moving it up gives a
+deflection the other way. Holding it still, or moving it parallel to the
+field lines, gives no deflection, because the flux through the circuit does
+not change.
+- **Two coils, no motion.** Wind two coils on the same iron core, one
+connected to a cell and switch, the other to the meter. The meter deflects
+briefly when the switch is closed and, the other way, when it is opened, but
+not while a steady current flows. A changing flux induces an e.m.f. even
+when nothing moves.
+
+The meter detects the current that the induced e.m.f. drives round the
+complete circuit. The e.m.f. is induced whether or not the circuit is
+complete; it can be shown with a high-resistance voltmeter or an
+oscilloscope instead.
+
+**2. Factors that affect the size of the induced e.m.f.**
+
+With the magnet-and-coil arrangement, the maximum deflection is larger when:
+
+- the magnet is moved **faster** (the flux linkage changes in less time);
+- a **stronger magnet** is used (a larger change in flux density B);
+- the coil has **more turns** N (a larger change in flux linkage NΦ);
+- the coil is wound on an **iron core** and the magnet is moved towards its
+end, so that the iron concentrates more of the magnet's flux through the turns.
+
+A larger coil area does **not** help here: a wider loop around a bar magnet
+also encloses more of the magnet's return field, which points the opposite
+way, so the net flux linked is not increased. Area matters for a coil in a
+**uniform** field (for example between the poles of a U-shaped magnet), where
+a larger area gives a larger flux linkage NBA.
+
+Each of these increases the **rate of change of flux linkage**, which is
+exactly what Faraday's law says the induced e.m.f. is proportional to.
+Pushing the magnet in and pulling it out at the same speed gives deflections
+of the same size in opposite directions.
+
+**3. The direction of the induced e.m.f. (Lenz's law)**
+
+First find which way the meter deflects for a known current direction (for
+example, briefly connect a cell through a large resistor). Then:
+
+- as the **north pole approaches** the coil, the induced current makes the
+end of the coil nearest the magnet a **north pole**, which **repels** the
+magnet and opposes its approach;
+- as the **north pole is withdrawn**, the induced current reverses and that
+end becomes a **south pole**, which **attracts** the magnet and opposes its
+withdrawal.
+
+The pole produced at the coil's end can be checked against the direction of
+the induced current using the right-hand grip rule for a coil. Because the
+induced effect always opposes the motion, **work must be done** to move the
+magnet, and that work is the source of the electrical energy — Lenz's law is
+conservation of energy. In the same way, a magnet dropped through a vertical
+copper tube falls more slowly than through a plastic one: currents induced
+in the copper oppose its fall.
+
 ## Common mistakes
 
 - **Forgetting the sin θ term in F = BIL sin θ or F = BQv sin θ** — the
@@ -247,6 +324,7 @@ moving faster or slower than v₀ = E/B feels a net force and is deflected.
 - Velocity selection: v₀ = E/B when the electric and magnetic forces balance
 - Field patterns for a straight wire, flat coil and solenoid, and the effect of a ferrous core
 - Faraday's law (rate of change of flux linkage) and Lenz's law (opposing direction)
+- The induction experiments: magnet and coil with a galvanometer, a wire moved through a magnet's field, the factors that increase the induced e.m.f., and finding its direction with Lenz's law
 
 ## Related resources
 

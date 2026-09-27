@@ -89,7 +89,9 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 
 **(d)** **Artificial active** [1].
 
-*Mark-scheme insight (June 2024):* A vaccine was credited as giving artificial active immunity, and "natural active" was rejected. Being given antibodies is passive; making your own antibodies is active.
+*Mark-scheme insight (Cambridge 9700 June 2024 mark scheme, Paper 22, Question 2(c)):* A vaccine was credited as giving (artificial) active immunity, and "natural active immunity" was rejected. Being given antibodies is passive; making your own antibodies is active.
+
+*Source for the mark-scheme insights on this page: Cambridge International AS & A Level Biology 9700 June 2024 mark scheme for Paper 22 (9700/22), paraphrased. Cambridge's [9700 past papers page](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-biology-9700/past-papers/) publishes the Paper 21 mark scheme from this series, not the Paper 22 one.*
 
 *Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 22, Question 2(c).
 

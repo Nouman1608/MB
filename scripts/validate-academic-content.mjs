@@ -160,7 +160,11 @@ const topicIndex = new Map();
 // 2027-2029 current). Resources written against either edition must
 // validate, so records sharing a board+subject+qualification key are merged
 // (union of slugs) rather than the later one silently replacing the earlier.
+// B15 review (C4): a 'future' record (e.g. 0580 / 9702 2028-2030) is not yet
+// public structure, so it must not make a slug valid for resources. Only
+// current (and superseded, still-sat) records build the index.
 for (const s of SYLLABUS_TOPICS) {
+  if (s.status === 'future') continue;
   const key = topicKey(s.boardSlug, s.subjectSlug, s.qualificationSlug);
   const entry = topicIndex.get(key) ?? { topics: new Set(), subtopics: new Set(), stageByTopic: new Map() };
   for (const t of s.topics) {

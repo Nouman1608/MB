@@ -23,6 +23,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on Kirchhoff laws, internal resistance and potential dividers for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -75,6 +76,16 @@ Related: [D.C. Circuits revision notes](/resources/as-physics-dc-circuits-revisi
 
 **9.** Under what condition(s) are e.m.f. and terminal p.d. equal? **[2]**
 
+**10.** A circuit diagram shows a single loop containing a cell, a closed switch, a fixed resistor and a component drawn as a resistor rectangle crossed by a diagonal line that has a short horizontal tail at its lower end. A circle containing the letter V is connected across the fixed resistor.
+
+**(a)** Name the component with the tailed diagonal line, and the meter. **[2]**
+
+**(b)** The cell is drawn as two parallel lines of different lengths. State which line represents the positive terminal. **[1]**
+
+**(c)** The temperature of the component named in (a) rises. State and explain what happens to the meter reading. **[3]**
+
+**(d)** Describe how the symbol for a variable resistor differs from the symbol for a potentiometer. **[2]**
+
 ---
 
 ## Answers
@@ -108,6 +119,14 @@ Related: [D.C. Circuits revision notes](/resources/as-physics-dc-circuits-revisi
 **8.** An LDR's resistance **falls as light intensity increases** [1]. If the output is taken across the LDR, it takes a **smaller share of the total resistance** as light increases, so the **output voltage falls** [1] — the circuit can therefore signal changing light levels via a changing output voltage [1].
 
 **9.** When the internal resistance is **negligible**, or when **no current flows** (open circuit) [1] [1] — otherwise, while the cell is discharging (supplying current), the "lost volts" Ir make terminal p.d. less than e.m.f.; while it is being charged, the applied terminal voltage instead exceeds the e.m.f. by Ir. This is why a genuinely fresh, low-resistance cell measured on open circuit gives a reading very close to its rated e.m.f.
+
+**10. (a)** A **thermistor** [1]; the meter is a **voltmeter** [1].
+
+**(b)** The **longer** line [1].
+
+**(c)** The voltmeter reading **increases** [1]. The thermistor's resistance **falls as its temperature rises** [1], so the current in the loop increases and the fixed resistor takes a **larger share** of the cell's p.d. (V = IR across it rises) [1].
+
+**(d)** A variable resistor has an arrow drawn **through** the rectangle [1]; a potentiometer has an arrow pointing **onto** the rectangle from a third connection, the sliding contact [1].
 
 ---
 

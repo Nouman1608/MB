@@ -29,6 +29,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on wave properties, the electromagnetic spectrum, polarisation and the Doppler effect for AS Physics."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -74,6 +75,14 @@ Related: [Waves revision notes](/resources/as-physics-waves-revision-notes/)
 **(a)** Calculate the frequency heard by a stationary observer as the ambulance approaches. **[3]**
 **(b)** Calculate the frequency heard by the same observer once the ambulance has passed and is moving away at the same speed. **[2]**
 
+**10.** A long spring (a "slinky") is stretched along a bench. Describe how one end of the spring should be moved to produce **(a)** a longitudinal wave and **(b)** a transverse wave along it. In each case, state the direction in which the coils move relative to the direction in which the wave travels. **[4]**
+
+**11.** In a ripple tank, a vibrating bar produces straight wavefronts at a frequency of 12 Hz. A stroboscope is used to make the wave pattern appear stationary. Using a ruler placed in the tank, a student finds that 6 successive crests span a distance of 7.5 cm.
+
+**(a)** Explain why the pattern appears stationary when the stroboscope flashes at 12 Hz. **[2]**
+**(b)** Calculate the wavelength and the speed of the waves. **[3]**
+**(c)** A small cork floats on the water. Describe its motion as the waves pass, and state what this shows about wave motion. **[2]**
+
 ---
 
 ## Answers
@@ -102,6 +111,13 @@ Uses (any three): radio — broadcasting [1]; microwave — cooking or satellite
 
 **9. (a)** Approaching, so use the minus sign in the denominator [1]: f = f₀ × v ÷ (v − v_s) = 600 × 340 ÷ (340 − 30) = 600 × 340 ÷ 310 [1] = **658 Hz** [1].
 **(b)** Receding, so use the plus sign [1]: f = 600 × 340 ÷ (340 + 30) = 600 × 340 ÷ 370 = **551 Hz** [1].
+
+**10. (a)** Push and pull the end **backwards and forwards along the length** of the spring [1]; the coils move **parallel** to the direction of travel of the wave, forming compressions and rarefactions [1].
+**(b)** Move the end **from side to side** (at right angles to the spring) [1]; the coils move **perpendicular** to the direction of travel of the wave [1].
+
+**11. (a)** Between one flash and the next (1/12 s, one period), each crest moves forward **exactly one wavelength** [1], into the position the next crest occupied at the previous flash, so the pattern looks the same at every flash [1]. *(It would also appear stationary at 12 Hz divided by a whole number (6 Hz, 4 Hz, 3 Hz …). At 24 Hz a stationary pattern with twice as many lines appears, so use the highest flash frequency that gives a single, stationary pattern.)*
+**(b)** 6 successive crests span **5** wavelengths, so λ = 7.5 ÷ 5 = **1.5 cm** (0.015 m) [1]. v = fλ = 12 × 0.015 [1] = **0.18 m s⁻¹** [1].
+**(c)** The cork **bobs up and down** about a fixed position and is not carried along with the waves [1]; this shows that the wave transfers **energy**, not matter (water) [1].
 
 ---
 

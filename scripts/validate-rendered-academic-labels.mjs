@@ -63,7 +63,8 @@ const load = (file) => JSON.parse(execSync(
   `import('./${file}').then(m => process.stdout.write(JSON.stringify(m.default ?? m)))"`,
   { encoding: 'utf8', cwd: process.cwd() }));
 
-const { MATRIX } = load('src/data/academic/matrix.ts');
+const { MATRIX, COURSE_SUBJECT_NAMES } = load('src/data/academic/matrix.ts');
+const { SUBJECTS: CANONICAL_SUBJECTS } = load('src/data/academic/subjects.ts');
 const { BOARDS } = load('src/data/academic/boards.ts');
 const { QUALIFICATIONS } = load('src/data/academic/qualifications.ts');
 const { SYLLABUSES } = load('src/data/academic/syllabuses.ts');
@@ -126,6 +127,16 @@ const listField = (fm, name) => {
   return m[1].split(',').map((v) => v.trim().replace(/^["']|["']$/g, '')).filter(Boolean);
 };
 
+// Content subject id -> matrix subject slugs (same mapping as
+// src/utils/content/status.ts:matrixSlugsFor).
+const matrixSlugsForContentId = new Map();
+for (const sub of CANONICAL_SUBJECTS) {
+  const hub = sub.hubId ?? sub.slug;
+  if (!matrixSlugsForContentId.has(hub)) matrixSlugsForContentId.set(hub, []);
+  matrixSlugsForContentId.get(hub).push(sub.slug);
+}
+const matrixSlugsFor = (id) => matrixSlugsForContentId.get(id) ?? [id];
+
 let resourceFiles = [];
 try {
   resourceFiles = (await readdir('src/content/resources')).filter((f) => f.endsWith('.md'));
@@ -179,6 +190,26 @@ for (const file of resourceFiles) {
     const tag = `data-pagefind-filter="Qualification:${expectedName}"`;
     if (!html.includes(tag)) {
       errors.push(`${at}: frontmatter declares qualification "${q}" (${expectedName}) but no matching Qualification:${expectedName} filter tag is rendered`);
+    }
+  }
+
+  // B15 review (C1): a resource for exactly one course whose subject has a
+  // per-course name (COURSE_SUBJECT_NAMES in matrix.ts, e.g. 9626
+  // "Information Technology") must say so in its "Aligned to" line, not use
+  // the shared subject title ("Cambridge A Level ICT (9626)").
+  const subjectId = scalarField(fm, 'subject');
+  if (subjectId && boards.length === 1 && quals.length === 1) {
+    const names = [...new Set(matrixSlugsFor(subjectId)
+      .map((sl) => COURSE_SUBJECT_NAMES[`${boards[0]}/${quals[0]}/${sl}`]?.name)
+      .filter(Boolean))];
+    const boardName = boardNameBySlug.get(boards[0]);
+    const qualName = qualNameBySlug.get(quals[0]);
+    if (names.length === 1 && boardName && qualName) {
+      const aligned = (html.match(/Aligned to ([^<]*)/)?.[1] ?? '').replace(/\s+/g, ' ').trim();
+      const expected = `${boardName} ${qualName} ${names[0]}`;
+      if (!aligned.startsWith(expected)) {
+        errors.push(`${at}: "Aligned to ${aligned}" does not name the course as "${expected}" (COURSE_SUBJECT_NAMES in matrix.ts)`);
+      }
     }
   }
 
@@ -242,6 +273,15 @@ for (const c of activeCombos) {
   const boardIdentityPresent = title.includes(expectedBoardName) || title.includes(expectedQualName);
   if (!boardIdentityPresent || !title.includes(c.subject)) {
     errors.push(`${at}: <title> "${title.trim()}" does not contain expected board "${expectedBoardName}" (or qualification "${expectedQualName}") and/or subject "${c.subject}"`);
+  }
+
+  // B15 (2026-09-27): the visible <h1> must name the course's subject as
+  // the matrix does -- including a per-course override such as 9626
+  // "Information Technology" (COURSE_SUBJECT_NAMES in matrix.ts), so a
+  // template that went back to the shared subject name ("ICT") fails here.
+  const h1 = (html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)?.[1] ?? '').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+  if (!h1.includes(c.subject)) {
+    errors.push(`${at}: <h1> "${h1}" does not contain expected subject "${c.subject}" (matrix.ts)`);
   }
 
   const boardField = html.match(/Board\s*<\/dt><dd[^>]*><a[^>]*>([^<]*)</)?.[1]?.trim();

@@ -43,7 +43,8 @@
  * matches its <label for=...> (AC, Flagship Dominance/Trust programme,
  * D-099, accessibility audit), and a diagnostic set recorded as reviewed by
  * a reviewer who does not teach its subject (AH, D-328), and a diagnostic
- * question that refers to another question the diagnostic does not show (AI, D-329).
+ * question that refers to another question the diagnostic does not show (AI, D-329),
+ * and a diagnostic topic override naming a topic its question is not mapped to (AJ, M9).
  *
  * Categories proven elsewhere, not re-implemented here (see comments below
  * each skip): cross-board topic contamination (test-cross-board-regression.mjs,
@@ -550,6 +551,28 @@ if (!existsSync(labelFixtureFile)) {
       label: 'A-level resource page with its rendered Level tag corrupted to IGCSE is rejected',
     },
   );
+  // B15 -- the 9626 hub must name its course "Information Technology" (per-course
+  // override in matrix.ts), not the shared subject name "ICT".
+  withMutation(
+    'dist/boards/cambridge/a-level/ict/index.html',
+    (text) => text.replace('Cambridge A Level Information Technology</h1>', 'Cambridge A Level ICT</h1>'),
+    {
+      validatorCmd: 'node scripts/validate-rendered-academic-labels.mjs',
+      expectSubstring: 'does not contain expected subject "Information Technology"',
+      label: '9626 hub whose <h1> reverts to the shared "ICT" name is rejected (B15)',
+    },
+  );
+  // B15 review (C1) -- a 9626 resource page's "Aligned to" line must name the
+  // course "Information Technology", not the shared subject title "ICT".
+  withMutation(
+    'dist/resources/a-level-ict-monitoring-control-practice/index.html',
+    (text) => text.replace('Aligned to Cambridge A Level Information Technology (9626)', 'Aligned to Cambridge A Level ICT (9626)'),
+    {
+      validatorCmd: 'node scripts/validate-rendered-academic-labels.mjs',
+      expectSubstring: 'does not name the course as "Cambridge A Level Information Technology"',
+      label: '9626 resource page whose "Aligned to" line says "Cambridge A Level ICT (9626)" is rejected (B15)',
+    },
+  );
 }
 
 console.log('\n[AA] Review-coverage audit rejects the retired blanket teacher-review claim reappearing (D-134)');
@@ -610,6 +633,22 @@ console.log('\n[AI] Diagnostics: a question that leans on another question in it
     },
   );
 }
+
+console.log('\n[AJ] Diagnostics: a topicOverrides entry must name one of the question\'s own topics (M9)');
+// Located by text: the 0580 Extended set's override for its histogram question is
+// pointed at Mensuration, a topic that question's practice file is not mapped to.
+withMutation(
+  'src/data/diagnostics.ts',
+  (text) => text.replace(
+    "'igcse-mathematics-statistics-and-probability-extended-practice-q4': 'statistics-cambridge-igcse-maths',",
+    "'igcse-mathematics-statistics-and-probability-extended-practice-q4': 'mensuration-cambridge-igcse-maths',",
+  ),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-diagnostics.mjs',
+    expectSubstring: 'which is not one of its mapped topics',
+    label: 'a 0580 diagnostic override naming a topic the question is not mapped to is rejected',
+  },
+);
 
 console.log('\n[AB] Flagship Dominance/Trust programme -- internal-links audit correctly parses hrefs with a query string');
 const queryLinkFixtureFile = 'dist/resources/a-level-edexcel-law-the-law-in-action/index.html';

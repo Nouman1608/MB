@@ -25,6 +25,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on mains safety, circuits, resistance and electrostatic charge for Edexcel International GCSE Physics 4PH1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -117,7 +118,9 @@ Describe how the current–voltage graph for each of the three components would 
 **9.** **(a)** Power = current × voltage (*P* = *IV*) [1].
 **(b)** *P* = 8.7 × 230 = 2001 W [1] = **2.0 kW** [1].
 
-*Mark-scheme insight (June 2024):* the mark scheme gives a separate mark for converting the answer from W to kW, so check the unit the question asks for. *Try the real question next:* Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 1PR, Question 2.
+*Mark-scheme insight (Pearson Edexcel 4PH1 June 2024 mark scheme, Paper 1PR, Question 2(b)(ii)):* the mark scheme gives separate marks for the answer in W and for converting it to kW, so check the unit the question asks for. *Try the real question next:* Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 1PR, Question 2.
+
+*Source for the mark-scheme insights on this page: [Pearson Edexcel International GCSE Physics 4PH1 Paper 1PR mark scheme (Summer 2024)](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Physics/2017/Exam-materials/4ph1-1pr-rms-20240822.pdf), paraphrased.*
 
 ## Official syllabus
 

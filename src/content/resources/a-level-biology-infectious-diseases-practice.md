@@ -85,7 +85,9 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 
 **(b)** Penicillin **inhibits the enzymes that build cross-links** in new cell wall [1]. Bacteria that are not growing are **not making new cell wall**, so their wall is not weakened and they do not burst [1].
 
-*Mark-scheme insight (June 2024):* The mark scheme credited the point that penicillin works only while bacterial cells are growing and building cell wall.
+*Mark-scheme insight (Cambridge 9700 June 2024 mark scheme, Paper 22, Question 3(b)):* The mark scheme credited the point that penicillin is effective only while bacterial cells are growing and making new cell wall (in that question it was contrasted with lysozyme, which acts at any stage).
+
+*Source for the mark-scheme insights on this page: Cambridge International AS & A Level Biology 9700 June 2024 mark scheme for Paper 22 (9700/22), paraphrased. Cambridge's [9700 past papers page](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-biology-9700/past-papers/) publishes the Paper 21 mark scheme from this series, not the Paper 22 one.*
 
 *Try the real question next:* Cambridge International AS & A Level Biology 9700, June 2024, Paper 22, Question 3(b).
 

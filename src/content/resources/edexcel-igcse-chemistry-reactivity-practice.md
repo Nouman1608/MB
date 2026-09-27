@@ -16,6 +16,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on Group 1 and Group 7 trends, gases in the atmosphere and the reactivity series for Pearson Edexcel International GCSE Chemistry (4CH1)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -93,7 +94,9 @@ which convention the question uses [1] [1].
 
 **8.** **Iron(III) oxide** is reduced [1] because it **loses oxygen** [1] (to the carbon monoxide).
 
-*Mark-scheme insight (June 2024):* the mark scheme rejects saying the metal ("iron") loses oxygen; it is the metal **oxide** that loses oxygen and is reduced. *Try the real question next:* Pearson Edexcel International GCSE Chemistry 4CH1, June 2024, Paper 1CR, Question 12.
+*Mark-scheme insight (Pearson Edexcel 4CH1 June 2024 mark scheme, Paper 1CR, Question 12(c)(i)):* in that question a metal oxide is reduced by carbon, and the mark scheme penalises saying the metal itself loses oxygen or is reduced; it is the metal **oxide** that loses oxygen and is reduced. *Try the real question next:* Pearson Edexcel International GCSE Chemistry 4CH1, June 2024, Paper 1CR, Question 12.
+
+*Source for the mark-scheme insights on this page: [Pearson Edexcel International GCSE Chemistry 4CH1 Paper 1CR mark scheme (Summer 2024)](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Chemistry/2017/Exam-materials/4ch1-1cr-rms-20240822.pdf), paraphrased.*
 
 ---
 
