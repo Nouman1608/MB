@@ -93,7 +93,7 @@ const event = !isDraft(w) && d.status !== 'cancelled' ? [{
               <h2 id="reg-h" class="m-0 text-[19px] font-semibold text-navy-800">Register — free</h2>
               <p class="m-0 mt-1 text-[14px] text-ink-mute">We'll email a confirmation now and the joining link before the start.{d.registration.capacity ? ` Places are limited to ${d.registration.capacity}.` : ''}</p>
               <form class="mt-4 grid gap-4" novalidate data-register-form>
-                <div aria-hidden="true" class="absolute -left-[9999px] h-px w-px overflow-hidden"><label for="reg-web">Website</label><input id="reg-web" name="website" tabindex={-1} autocomplete="off" /></div>
+                <div aria-hidden="true" class="pointer-events-none absolute start-0 top-0 h-px w-px overflow-hidden whitespace-nowrap opacity-0 [clip-path:inset(50%)]"><label for="reg-web">Website</label><input id="reg-web" name="website" tabindex={-1} autocomplete="off" /></div>
                 <input type="hidden" name="workshop" value={w.id} />
                 <div class="grid gap-1.5"><label for="reg-name" class="text-[14px] font-medium">Name</label><input id="reg-name" name="name" required autocomplete="name" class="min-h-11 rounded-sm border border-rule px-3" /><p class="m-0 text-[13.5px] text-error" hidden data-err="name"></p></div>
                 <div class="grid gap-1.5"><label for="reg-email" class="text-[14px] font-medium">Email</label><input id="reg-email" name="email" type="email" required autocomplete="email" class="min-h-11 rounded-sm border border-rule px-3" /><p class="m-0 text-[13.5px] text-error" hidden data-err="email"></p></div>

@@ -14224,9 +14224,92 @@ The D-149 principle (no pop-ups or interstitials, and the material stays free) i
 - Because D-334 lists teachers by subject and board, these teachers now appear on the matching OCR and OxfordAQA pages and show the board on their profiles.
 - Checked: no other page picks them up. There is no OCR Commerce or Statistics course. OxfordAQA World History does not match Azam's "History".
 
+## D-337 - Faster reply promise, confident trial copy, homepage and diagnostic conversion (2026-09-27)
+
+**Status:** answered and implemented. **Asked:** in chat, 27 Sep 2026, after a conversion review of marlbridge.com. **Answered by the owner:** 27 Sep 2026 ("WhatsApp within 1 hour"; "leave the pricing as it is, fix the rest").
+
+**Decisions.**
+- Reply promise: WhatsApp within an hour, 9am to 10pm Pakistan time; email the same day. Replaces the D-149 / 2026-09-06 promise (email two working days, WhatsApp one). Business register item 15 is updated.
+- Pricing is unchanged (owner: "leave the pricing as it is").
+
+**Implemented.**
+- `PRICING_TERMS.enquiryResponse` (single source for every page), the family acknowledgement email (`ACK_RESPONSE_SUMMARY`), the /trial/ meta description, and the ar/ur/bn home contact blurbs.
+- Trial copy: "a request, not a booking" / "Nothing is booked yet" removed from the selling pages (trial page, form, success panel, tuition panels, FAQs, international hub, market pages, diagnostic, llms.txt, ar/ur/bn trial notes). The copy still says, accurately, that we match a specialist and agree a time with the family before the class. The internal staff email keeps "not a confirmed booking".
+- Homepage programs grid shows only programs taught now (SAT stays on /programs/ with its status); the "Only programs marked Teaching now" note and the per-card badge are gone; a "Not sure where to start?" trial card fills the last cell.
+- Editorial image alt text no longer says "not a photograph of ...".
+- Diagnostics: below 60% self-marked, the trial box names the weakest topic and becomes a primary button (`data-cta="diagnostic-trial-low-score"`).
+
+**Checked, no change needed.** The pricing-page footer already reads "Marlbridge is the international branch of Learners Academy" (an earlier fetch showed an old deploy). IB subject resource counts of 10 are real files.
+
 ---
 
-## D-337 - Search links with ?q= now run the search (2026-09-25)
+## D-338 - Audit fixes: Arabic/Urdu form pages blank on phones, OCR one-to-one-only on UK and programme pages, diagnostic topic hand-off, trial reply promise repetition (2026-09-27)
+
+**Source.** Audit of changed pages, 27 Sep 2026 (project doc `audit-changed-pages-2026-09-27.md`, findings N-01, N-02, N-04, N-05). Owner instruction: "yes fix them".
+
+**Changes.**
+- **N-01 (high).** Honeypot fields were hidden with `absolute -left-[9999px]`. On right-to-left pages this widened the layout to ~10,400 px, so on phones /ar/ and /ur/ trial, contact, schools and tutoring showed a blank screen (Chromium mobile emulation: layout 1,560 px, heading at x = 1,190). Now hidden in place with `absolute start-0 top-0 h-px w-px overflow-hidden opacity-0 [clip-path:inset(50%)] pointer-events-none`, keeping `aria-hidden`, `tabindex=-1` and `autocomplete=off`. Files: TrialRequestForm, EnquiryForm, CorrectionForm, SubscribeBox, workshops/[slug]. Guard: `audit-accessibility.mjs` check [6] fails the build on any `-left-/-right-[NNNpx]` offset.
+- **N-02.** /uk/ fee table gains an "OCR courses, one-to-one only, per class (indicative)" row (from `ONE_TO_ONE_ONLY_CONVERSIONS`), the note and the GCSE FAQ say OCR is one-to-one only. Programme pages whose curriculum line names OCR (GCSE, A Level) or OxfordAQA (IGCSE only) add "…: one-to-one only · 6,000 PKR per class in Pakistan (other currencies)" beside "Groups capped at 15". New `ONE_TO_ONE_ONLY_NOTE`.
+- **N-04.** Low-score diagnostic prompt: button now "Get a free class on this topic"; when every topic scored the same it says "these topics" instead of naming the first one; the named topic travels to /trial/ as `topic=` and is written (as text, length-capped, character allow-list) into the message box.
+- **N-05.** /trial/ showed the reply promise five times; removed from the lead and the form note (still in the key-facts card, the "We reply" step, the FAQ and the success panel).
+
+**Not changed.** Prices, discounts, the reply promise itself, teacher data. N-03 (teachers for World History, English Literature, IB Maths/Language pages) waits for owner answers.
+
+## D-340 - Teachers for World History, English Literature, IB Mathematics and the IB language courses (2026-09-27)
+
+**Status:** answered and implemented. **Asked:** N-03 of the 27 September audit of changed pages (`audit-changed-pages-2026-09-27.md`), which found 22 taught-subject course pages with no teacher. **Answered by the owner:** 27 September 2026, in chat. (D-339 is taken by the resource-library audit branch, PR #88; this entry is D-340.)
+
+**Decisions.**
+- IB Mathematics: Arslan Tanvir and Muhammad Ghazali Siddiqui ("IB Maths: Sir Arslan and Sir Ghazali").
+- World History: Azam Siddique, including AQA (asked separately, the owner chose to add AQA to his boards).
+- English Literature: Ammar Bilal, a teacher not previously on the site, for every board the site covers (Cambridge, Edexcel, AQA, OxfordAQA and IB).
+- IB Language A, Language B and MYP Language Acquisition: Ammar Bilal. MYP Sciences keeps no teacher (asked separately: "Languages only").
+- His photograph will follow later, so the profile is published without one, as Harris Khan's is.
+
+**Implemented.**
+- New profile `authors/ammar-bilal.md`: English Literature, Language A: Literature, Language A: Language and Literature, Language B and Language Acquisition (MYP); all five boards; no image and no years of experience yet.
+- `azam-siddique.md`: "World History" added to `subjectsTaught` (the subject name the site uses, alongside "History"), and `aqa` added to `boardsTaught`.
+- `arslan-tanvir.md` and `muhammad-ghazali-siddiqui.md`: "Mathematics: Analysis and Approaches" and "Mathematics: Applications and Interpretation" added, the names the IB course pages use.
+- `functions/_lib/trial-teachers.ts`: `ammar-bilal` added, so a trial request may name him (the test that keeps this list level with the profiles passes again).
+
+**Result at build.** The named pages now show their teachers: AQA GCSE World History (Azam Siddique), Cambridge IGCSE English Literature (Ammar Bilal), IB DP Mathematics: Analysis and Approaches (Muhammad Ghazali Siddiqui and Arslan Tanvir), IB DP Language B (Ammar Bilal). Of 167 course pages, 38 still show no teacher; those are the resources-only subjects (Psychology, Sociology, Geography, Global Perspectives, IB Global Politics and ESS, MYP Design, MYP Individuals and Societies, MYP Sciences) and the board and level index pages, which have no single teacher.
+
+**Validation.** `astro check` 0 errors; `validate:academic`, `validate:assessments`, `validate:pinned-teachers` pass; `audit:all` passes; `test:i18n-routes` passes; `node --test` 124 pass, 0 fail; build clean (2,267 pages indexed).
+
+**Still open.** Ammar Bilal's photograph and years of experience, and Harris Khan's (N-06 of the same audit).
+
+---
+
+## D-339 - Resource library audit and first quality batch (2026-09-27)
+
+**Status:** prepared for review (branch `d-339-resource-quality-batch1`, not merged). **Brief:** owner, 27 Sep 2026 (audit and improve the resource library; implement a first batch; prepare changes for review).
+
+**Audit.**
+- Full report: `docs/content-review/resource-library-audit-2026-09-27.md`.
+- Coverage matrix for 0620, 5070 and 9701 (188 subtopics) against the official syllabus PDFs: `docs/content-review/coverage-matrix-cambridge-chemistry-2026-09-27.csv`.
+- Quality sample: 27 pages (24 stratified random, 3 highest search clicks). 5 pages had a definite error; 3 reviewer claims were rejected after checking the syllabus.
+
+**Changed.**
+- Corrections on 12 pages. Tier labels on 2 metals pages.
+- 0620 Core diagnostic: `metals-reactivity-practice-q10` (Supplement 9.4.4) replaced by `-q7` (Core 9.4.2).
+- New collapsed "Syllabus points this page covers" list on mapped resource pages, with verified 0620 tiers and 9701 stages (`src/utils/academic/syllabus-points.ts`, tests in `test:tools`). Opening it is tracked as `recommended_resource_click` (`source: syllabus_points`).
+- Gap-filling on 3 pages:
+  - 0580 mensuration: 3 Extended questions;
+  - 0610 classification: animal-group features (Core 1.3.2);
+  - 0620/5070 formulae: formula from a model or diagram.
+- Negative-suite fixture [AD] updated to the corrected wording.
+
+**Not changed.**
+- No author, reviewer or review status changed.
+- No review claim added.
+- No page removed or merged.
+- No diagnostic set added.
+
+**Needs academic review:** see section 10 of the report.
+
+---
+
+## D-341 - Search links with ?q= now run the search (2026-09-25)
 
 **Why:** audit finding (25 Sep): a shared or bookmarked link such as `/search/?q=electrolysis` opened an empty search, because Pagefind's UI ignores the query string. The owner asked for the links to be fixed.
 
@@ -14236,4 +14319,4 @@ The D-149 principle (no pop-ups or interstitials, and the material stays free) i
 
 **Verified (headless Chromium against the build):** `/search/?q=electrolysis` fills the box and shows "32 results for electrolysis"; typing "titration" changes the URL to `?q=titration`; clearing returns to `/search/`; `/search/` alone still opens empty; no script errors. The search page stays `noindex`.
 
-*Renumbered from D-335 on 25 Sep 2026: D-335 and D-336 were taken by the one-to-one-only courses and their teachers, merged first.*
+*Renumbered from D-335 (25 Sep) and D-337 (27 Sep 2026): those numbers were taken by changes merged first.*

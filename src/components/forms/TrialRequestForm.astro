@@ -78,7 +78,7 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
   <input type="hidden" name="qualification" value="" data-trial-qualification />
   <input type="hidden" name="teacher" value="" data-trial-teacher />
   <input type="hidden" name="availability" value="" data-trial-availability />
-  <div aria-hidden="true" class="absolute -left-[9999px] top-auto h-px w-px overflow-hidden">
+  <div aria-hidden="true" class="pointer-events-none absolute start-0 top-0 h-px w-px overflow-hidden whitespace-nowrap opacity-0 [clip-path:inset(50%)]">
     <label for="trial-website">Website</label><input type="text" id="trial-website" name="website" tabindex={-1} autocomplete="off" />
   </div>
 
@@ -161,7 +161,7 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
   {site.turnstile.siteKey && <div class="cf-turnstile" data-sitekey={site.turnstile.siteKey} data-theme="light"></div>}
 
   <div class="grid gap-3">
-    <p class="m-0 text-[14px] text-ink-mute"><strong class="text-ink">This requests a free trial class; it does not book one.</strong> {PRICING_TERMS.enquiryResponse.summary} We confirm a teacher and a time with you, in your own time zone, before anything is scheduled. By sending, you agree to our <a href="/legal/privacy/" class="underline decoration-gold-500 underline-offset-2">Privacy Policy</a>; we use your details only to respond.</p>
+    <p class="m-0 text-[14px] text-ink-mute">We match you with a specialist teacher and confirm a time with you, in your own time zone. By sending, you agree to our <a href="/legal/privacy/" class="underline decoration-gold-500 underline-offset-2">Privacy Policy</a>; we use your details only to respond.</p>
     <div class="flex flex-wrap items-center gap-4">
       <button type="submit" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-7 py-3.5 text-[15px] font-medium text-ivory transition-colors hover:bg-navy-700 disabled:opacity-60">Request my free trial class</button>
       <a href={waHref} target="_blank" rel="noopener noreferrer" data-trial-whatsapp class="inline-flex min-h-11 items-center gap-2 text-[15px] font-medium text-navy-800 underline decoration-[#25D366] underline-offset-4">Prefer WhatsApp? Message us</a>
@@ -172,7 +172,7 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
   {/* D-330: shown only after the server has accepted the request (result.ok). */}
   <section data-trial-success hidden tabindex="-1" aria-labelledby="trial-success-heading" class="rounded-sm border border-[#B9D3C6] bg-[#F1F7F4] p-[clamp(18px,2.4vw,28px)] text-[15.5px] leading-relaxed text-ink">
     <h2 id="trial-success-heading" class="m-0 text-[21px] font-semibold text-navy-800">Request received</h2>
-    <p class="m-0 mt-2"><strong>Nothing is booked yet.</strong> {PRICING_TERMS.enquiryResponse.summary}</p>
+    <p class="m-0 mt-2"><strong>Thank you — we're on it.</strong> {PRICING_TERMS.enquiryResponse.summary}</p>
     <dl data-trial-summary class="m-0 mt-4 grid gap-2 sm:grid-cols-[minmax(170px,auto)_1fr] sm:gap-x-4"></dl>
     <h3 class="m-0 mt-5 text-[16px] font-semibold text-navy-800">What happens next</h3>
     <ol class="m-0 mt-2 grid gap-1.5 ps-5">
@@ -242,6 +242,19 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
       status.textContent = 'Teacher preference removed. We will suggest a teacher for you.';
       subject.focus();
     });
+    // D-338 -- a diagnostic can pass the topic the student found hardest.
+    // Plain text only, length-capped, letters/digits/basic punctuation; it is
+    // written into the message box as text (never as HTML) and can be edited.
+    const topic = (params.get('topic') ?? '').trim();
+    if (topic && topic.length <= 120 && /^[\p{L}\p{N} ,.'&()\-–:\/]+$/u.test(topic)) {
+      const msg = form.querySelector<HTMLTextAreaElement>('#trial-message');
+      if (msg && !msg.value) {
+        msg.value = `Topic I'd like help with: ${topic}`;
+        const det = form.querySelector<HTMLDetailsElement>('details[data-message]');
+        if (det) det.open = true;
+      }
+      notes.push(`(topic: ${topic})`);
+    }
     const fmt = params.get('format');
     if (fmt === 'group' || fmt === 'one-to-one') {
       const r = form.querySelector<HTMLInputElement>(`input[name="format"][value="${fmt}"]`);
@@ -321,7 +334,7 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
       if (result.ok) {
         sent = true;
         status.className = 'sr-only';
-        status.textContent = 'Request received. Nothing is booked yet.';
+        status.textContent = 'Request received. We will be in touch shortly to confirm your teacher and time.';
         // D-330: a summary of what was asked for, built from the form itself (never from the URL),
         // shown in the page only. Nothing personal is put in the address bar or sent to analytics.
         const panel = form.querySelector<HTMLElement>('[data-trial-success]')!;

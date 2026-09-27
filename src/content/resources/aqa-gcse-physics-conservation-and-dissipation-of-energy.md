@@ -16,7 +16,7 @@ syllabusTopics:
 description: "Conservation of energy, energy dissipation, insulation, and efficiency calculations, for sub-topic 4.1.2 of AQA GCSE Physics (8463)."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-19
-updatedDate: 2026-08-19
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -37,10 +37,7 @@ introduced there.
 Energy can be transferred usefully, stored, or dissipated, but never
 created or destroyed. Students should be able to describe, with examples,
 how in all system changes energy is dissipated, so that it is stored in
-less useful ways; this energy is often described as being "wasted."
-Students should be able to describe, with examples, how in all system
-changes energy is dissipated, so that it is stored in less useful ways.
-This energy is often "wasted" — dissipated to the surroundings, becoming
+less useful ways. This energy is often "wasted" — dissipated to the surroundings, becoming
 increasingly spread out.
 
 Energy is not destroyed but ends up in the surroundings, becoming more
@@ -119,9 +116,9 @@ by 100). **(HT only)** Ways to increase the efficiency of an intended energy tra
 include reducing friction (lubrication) and reducing unwanted thermal
 transfer (insulation).
 
-**No device can be 100% efficient**, except an electric heater, where the
-intended output is thermal energy anyway, so none of the dissipated
-energy is actually wasted. In every other device, some energy is always
+**No real device is 100% efficient.** An electric heater comes close,
+because its intended output is thermal energy and almost all of the input
+ends up in the thermal store it is meant to heat. In every other device, some energy is always
 dissipated by friction, sound or unwanted heating, so useful output is
 always less than total input.
 

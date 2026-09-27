@@ -31,6 +31,7 @@ syllabusTopics:
 description: "Condensed recall notes on alloys, the blast furnace, aluminium extraction and metal uses for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -39,11 +40,13 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Why alloys are harder than pure metals
 
+> **0620 Core** needs only the fact that alloys can be harder and stronger than pure metals. The explanation in terms of structure below is **0620 Extended** (syllabus 9.3). 5070 candidates need all of it.
+
 In a **pure metal**, identical atoms sit in regular layers that can **slide** over one another — the metal is soft and malleable.
 
 In an **alloy**, atoms of a **different size** disrupt the regular layers, so the layers cannot slide as easily. The alloy is therefore **harder** and stronger.
 
-That explanation, with "different sized atoms" and "layers cannot slide", is the mark scheme wording.
+That explanation, with "different sized atoms" and "layers cannot slide", follows the syllabus wording.
 
 | Alloy | Composition | Use |
 |---|---|---|
@@ -61,13 +64,15 @@ That explanation, with "different sized atoms" and "layers cannot slide", is the
 | **Below** carbon | Reduction with carbon | Zn, **Fe**, Pb |
 | Very unreactive | Found native | Au, Ag |
 
-**Why aluminium needs electrolysis, not carbon reduction.** Aluminium is *more reactive than carbon*, so carbon cannot reduce aluminium oxide back to the metal — it's not simply that nobody has tried a cheaper method. Only electrolysis provides enough energy to break the strong ionic bonds in Al₂O₃. Iron sits below carbon in reactivity, so carbon reduction works for it, but not for aluminium.
+**Why aluminium needs electrolysis, not carbon reduction.** Aluminium is *more reactive than carbon*, so carbon cannot reduce aluminium oxide back to the metal — it's not simply that nobody has tried a cheaper method. Iron sits below carbon in reactivity, so carbon reduction works for it, but not for aluminium.
 
 The general rule linking reactivity to ease of extraction: the **less reactive** a metal, the **less energy** is needed to reduce its compound back to the metal, so it can be extracted more easily and cheaply — which is also why very unreactive metals like gold occur **native** (uncombined) rather than needing extraction at all.
 
 ## Blast furnace — iron from haematite
 
 Raw materials: **haematite (Fe₂O₃)**, **coke (C)**, **limestone (CaCO₃)**, hot air.
+
+> **0620 Core** describes these steps in words; symbol equations are not required. The **symbol equations** below are **0620 Extended** (syllabus 9.6). 5070 candidates need them.
 
 ```
 1. C  +  O2   ->  CO2                    (coke burns, releases heat)
@@ -82,6 +87,8 @@ Limestone removes acidic impurities:
 Molten iron sinks; **slag** floats on top and is tapped off separately.
 
 ## Aluminium — electrolysis
+
+> **0620 Core** needs only: the main ore is bauxite, and aluminium is extracted by electrolysis. Cryolite, the anodes and the half-equations below are **0620 Extended** (syllabus 9.6). 5070 candidates need all of it.
 
 Ore is **bauxite**, purified to aluminium oxide (Al₂O₃), dissolved in molten **cryolite** to lower the melting point and save energy.
 
@@ -98,7 +105,7 @@ Aluminium is expensive because electrolysis uses enormous quantities of electric
 
 | Metal | Property | Use |
 |---|---|---|
-| Aluminium | Low density, corrosion-resistant (oxide layer) | Aircraft, drinks cans, overhead cables |
+| Aluminium | Low density, corrosion-resistant (oxide layer), good electrical conductor | Aircraft, drinks cans, overhead cables (low density and good electrical conductivity) |
 | Copper | Excellent conductor, ductile | Wiring, plumbing |
 | Iron/steel | Strong, cheap | Construction, vehicles |
 | Zinc | More reactive than iron | Galvanising |
@@ -124,4 +131,4 @@ Aluminium is expensive because electrolysis uses enormous quantities of electric
 7. State the general relationship between a metal's reactivity and how easily it is extracted.
 8. Why does the answer "aluminium is used in aircraft" alone score no marks?
 
-**Answers:** 1. Atoms of different sizes disrupt the regular layers, so the layers cannot slide over one another easily. 2. Fe₂O₃ + 3CO → 2Fe + 3CO₂. 3. It decomposes to calcium oxide, which reacts with acidic silicon dioxide impurities to form slag, removing them from the iron. 4. They are carbon and burn away in the oxygen produced at the anode, forming carbon dioxide. 5. Aluminium has a much lower density, so cables are lighter and need fewer supporting pylons; it also resists corrosion through its oxide layer. 6. Aluminium is more reactive than carbon, so carbon cannot reduce aluminium oxide — only electrolysis supplies enough energy to break its strong ionic bonds. 7. The less reactive a metal is, the less energy is needed to extract it from its compound, so it is extracted more easily and cheaply; very unreactive metals such as gold occur native. 8. Because it doesn't state the property responsible — the full answer needs "...because of its low density", linking the use to the specific property that explains it.
+**Answers:** 1. Atoms of different sizes disrupt the regular layers, so the layers cannot slide over one another easily. 2. Fe₂O₃ + 3CO → 2Fe + 3CO₂. 3. It decomposes to calcium oxide, which reacts with acidic silicon dioxide impurities to form slag, removing them from the iron. 4. They are carbon and burn away in the oxygen produced at the anode, forming carbon dioxide. 5. Aluminium conducts electricity well and has a much lower density, so cables are lighter and need fewer supporting pylons; it also resists corrosion through its oxide layer. 6. Aluminium is more reactive than carbon, so carbon cannot reduce aluminium oxide; electrolysis is needed instead. 7. The less reactive a metal is, the less energy is needed to extract it from its compound, so it is extracted more easily and cheaply; very unreactive metals such as gold occur native. 8. Because it doesn't state the property responsible — the full answer needs "...because of its low density", linking the use to the specific property that explains it.

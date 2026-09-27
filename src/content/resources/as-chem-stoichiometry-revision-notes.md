@@ -26,6 +26,7 @@ syllabusTopics:
 description: "Condensed recall notes on mole calculations, limiting reagents, percentage yield and gas volumes for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -125,7 +126,7 @@ Addition reactions have 100% atom economy; substitution and elimination do not.
 - Using 24 dm³ mol⁻¹ for a solid or liquid; it applies to **gases at rtp** only.
 - Percentage yield above 100% means impure or wet product, or an arithmetic error.
 - Rounding partway through instead of at the end.
-- Splitting a solid or gas product into separate ions in an ionic equation — only species that are genuinely free ions in solution (or that change state) are written that way; a solid product stays as its full formula.
+- Splitting a solid or gas product into separate ions in an ionic equation — only species that are genuinely free ions in solution are written that way; precipitates, gases, water and other covalent molecules stay as their full formulae.
 - Forgetting the lowest-common-multiple step when balancing an ionic formula, especially for charges like 3+ and 2− that don't cancel directly.
 
 ## Self-test

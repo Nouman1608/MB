@@ -41,7 +41,7 @@ const ISSUE_TYPES = [
 ---
 <form data-correction-form method="post" action="/api/enquiry" novalidate class="grid max-w-[68ch] gap-5 sm:grid-cols-2">
   <input type="hidden" name="enquiryKind" value="correction" />
-  <div aria-hidden="true" class="absolute -left-[9999px] top-auto h-px w-px overflow-hidden">
+  <div aria-hidden="true" class="pointer-events-none absolute start-0 top-0 h-px w-px overflow-hidden whitespace-nowrap opacity-0 [clip-path:inset(50%)]">
     <label for="corr-website">Website</label>
     <input type="text" id="corr-website" name="website" tabindex={-1} autocomplete="off" />
   </div>

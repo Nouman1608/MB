@@ -102,11 +102,11 @@ export const site = {
    */
   academyPhoto: {
     image: academyPortrait as ImageMetadata | undefined,
-    alt: 'Abstract editorial graphic in the Marlbridge colour palette -- not a photograph of an actual Learners Academy classroom or person',
+    alt: 'Abstract editorial graphic in the Marlbridge colour palette',
   },
   classroomPhoto: {
     image: editorialBand as ImageMetadata | undefined,
-    alt: 'Abstract editorial graphic in the Marlbridge colour palette -- not a photograph of an actual Marlbridge lesson or classroom',
+    alt: 'Abstract editorial graphic in the Marlbridge colour palette',
   },
 } as const;
 

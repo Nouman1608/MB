@@ -92,6 +92,15 @@ for (const file of files) {
     problems.push(`[5] ${pagePath}: <html> has no non-empty lang attribute`);
   }
 
+  // [6] D-338 -- no element may be hidden by pushing it far off-screen with
+  // a physical left/right offset (e.g. Tailwind `-left-[9999px]`). On
+  // right-to-left pages (ar, ur) that widened the layout to ~10,000 px and
+  // phones showed a blank screen on every page with a form. Hide with a
+  // clip instead (see the honeypot fields in src/components/forms/).
+  if (/-(left|right)-\[\d{3,}px\]/.test(html)) {
+    problems.push(`[6] ${pagePath}: element hidden with a large left/right offset (e.g. -left-[9999px]); this widens right-to-left pages on phones -- use a clip-path hide instead`);
+  }
+
   // [1] Form control label association. A control is validly labelled two
   // ways per HTML/WCAG: explicit (<label for="id"> matching the control's
   // id) or implicit/wrapping (the control nested directly inside an open

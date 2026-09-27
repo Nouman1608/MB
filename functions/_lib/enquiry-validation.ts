@@ -295,14 +295,14 @@ export const ALLOWED_FIELDS_BY_KIND = FIELDS_BY_KIND;
  * booked, and gives the response commitment and the correction routes. It
  * never states a teacher, time or price as agreed: those come from a person.
  */
-export const ACK_RESPONSE_SUMMARY = 'We reply to email enquiries within two working days, and to WhatsApp messages within one working day.';
+export const ACK_RESPONSE_SUMMARY = 'We reply to WhatsApp messages within an hour, between 9am and 10pm Pakistan time, and to email enquiries the same day.';
 export const ACK_WHATSAPP = '+92 323 9149918';
 export function renderTrialAcknowledgement(data: Record<string, string>): { subject: string; text: string } {
   const lines: string[] = [];
   const firstName = (data.name ?? '').split(' ')[0] || 'there';
   lines.push(`Hello ${firstName},`, '');
   lines.push('Thank you. We have received your request for a free trial class with Marlbridge.');
-  lines.push('This is a request, not a booking: no class has been scheduled yet.', '');
+  lines.push('Next, we will match you with a specialist teacher and confirm a time with you in your own time zone.', '');
   lines.push('What you asked for:');
   const rows: [string, string][] = [
     ['Subjects', data.subject ?? ''],

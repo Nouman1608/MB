@@ -12,6 +12,7 @@ order: 3
 description: "Paper-by-paper exam preparation for AQA A-Level Mathematics 7357 -- pure content across every paper, mechanics vs statistics revision split, a worked show-that answer and a checklist."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-07
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -45,9 +46,10 @@ than a ready-made formula.
 
 ## Command words and how much detail they expect
 
-**Calculate**, **find** and **solve** require a direct numerical or algebraic answer. **Hence** or
-**hence or otherwise** require building explicitly on a result from an earlier part of the same
-question. **Show that** requires a full, step-by-step derivation reaching a given result -- stating
+**Calculate**, **find** and **solve** require a direct numerical or algebraic answer. **Hence** requires
+building explicitly on a result from an earlier part of the same question; another method, even a correct one,
+may not earn the marks. **Hence or otherwise** means the earlier result is the intended route, but any
+correct valid method is accepted. **Show that** requires a full, step-by-step derivation reaching a given result -- stating
 the correct final answer without the working loses marks even when it is right. **Prove** requires a
 rigorous, general argument, not verification using specific examples.
 

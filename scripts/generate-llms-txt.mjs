@@ -168,7 +168,7 @@ const lines = [
   `- [Revision planner](${SITE_URL}/revision-planner/): free weekly revision plan from a student's subjects, exam dates, free time and topic confidence; runs in the browser, no account.`,
   `- [Practice and 10-minute diagnostics](${SITE_URL}/practice/): self-marked study checks and self-check questions with worked answers for Cambridge IGCSE Chemistry, Physics, Mathematics and A Level Chemistry, Physics.`,
   `- [Printable syllabus checklists](${SITE_URL}/checklists/)`,
-  `- [Free trial class](${SITE_URL}/trial/): request a free trial class with a subject teacher (a request, not a booking).`,
+  `- [Free trial class](${SITE_URL}/trial/): request a free trial class with a subject teacher (we match a specialist teacher and confirm a time).`,
   `- [Programs](${SITE_URL}/programs/): Marlbridge's programs by qualification; each program page says whether it is taught now.`,
   `- [Tutoring](${SITE_URL}/tutoring/)`,
   `- [International online tutoring](${SITE_URL}/international-tutoring/): all classes are taught live online from Lahore, Pakistan (in person in Lahore too); class times by time zone and fees by country. Marlbridge has no office outside Pakistan.`,

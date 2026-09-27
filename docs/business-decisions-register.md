@@ -24,7 +24,7 @@ production by someone other than the implementer, with the date) · *open*
 | 12 | IB fees outside Pakistan | Owner decision, implemented, deployed (D-311, D-313) | Live `/pricing/` shows "6,000 PKR per 1-hour class" and "22 USD (MYP) or 25 USD (Diploma" (checked 25 Sep 2026 00:10 PKT) | Nothing |
 | 13 | Teacher availability | Owner decision, implemented, deployed (D-311) | `PRICING_TERMS.teacherAvailability`; the sentence "24 hours a day, 7 days a week" is live on `/international-tutoring/` and `/uae/` (checked 25 Sep 2026 00:10 PKT) | Nothing |
 | 14 | "Confirmed in writing" | **Open (wording kept)** | Wording matches the owner's stated email practice | Owner confirmation that no standard quote template exists, or the template itself |
-| 15 | Enquiry recipient | Owner decision (no change), 23 Sep 2026 | `functions/api/enquiry.ts` | Nothing |
+| 15 | Enquiry recipient and response time | Owner decision; response time changed 27 Sep 2026 (D-337): WhatsApp within an hour 9am-10pm PKT, email the same day | `functions/api/enquiry.ts`; `PRICING_TERMS.enquiryResponse` | Nothing |
 | 16 | Progress reports, safeguarding, qualified-teacher claims | **Open (deliberately absent from the site)** | No policy document supplied | The document or policy for any of these the owner wants claimed |
 | 17 | Cloudflare housekeeping | Optional | — | Nothing required |
 | 18 | `updatedDate` practice | **Open (practice, not code)** | — | Owner confirmation that `updatedDate` changes only on a real revision |

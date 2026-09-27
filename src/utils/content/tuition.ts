@@ -29,8 +29,8 @@ export function tuitionFaqs(page: TuitionPage, courseLabel: string): { question:
       answer: 'Class times are agreed with you before the first class, in your own time zone. There is no fixed public timetable, so tell us when you are free on the trial form.',
     },
     {
-      question: 'Does the trial request book a class?',
-      answer: `No. It sends a request. ${PRICING_TERMS.enquiryResponse.summary} We confirm a teacher and a time with you before anything is scheduled.`,
+      question: 'What happens after I request a trial?',
+      answer: `${PRICING_TERMS.enquiryResponse.summary} We match you with a specialist teacher, agree a time in your own time zone, and send the joining details.`,
     },
     ...page.faqs,
   ];

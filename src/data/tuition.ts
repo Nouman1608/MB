@@ -26,7 +26,7 @@ export interface Step {
  */
 export const TRIAL_STEPS: readonly Step[] = [
   {
-    title: 'Send the request',
+    title: 'Tell us what you need',
     body: 'A short form: the subject you need, how to reach you and your country. If the exam board or the times that suit you are not decided yet, say so — we will help you work it out.',
   },
   {
@@ -35,7 +35,7 @@ export const TRIAL_STEPS: readonly Step[] = [
   },
   {
     title: 'We confirm a teacher and a time',
-    body: 'Sending the form is a request, not a booking. We check which specialist is free for your subject and level, agree a time in your own time zone, and confirm it with you before anything is scheduled.',
+    body: 'We match you with the specialist for your subject and level, agree a time in your own time zone, and send the joining details.',
   },
   {
     title: 'You attend the free class',

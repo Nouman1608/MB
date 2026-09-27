@@ -204,6 +204,37 @@ function init(d: Data): void {
       next.textContent = 'Full marks on every question here. Try the other diagnostic for this syllabus, or practise mixed questions to test other topics.';
     }
 
+    // D-337: below 60% the free trial is the most useful next step, so the
+    // trial box names the weakest topic and becomes a primary button.
+    const trialBox = document.getElementById('diag-trial-box');
+    const trialText = document.getElementById('diag-trial-text');
+    const trialLink = document.getElementById('diag-trial-link');
+    if (trialBox && trialText && trialLink) {
+      const subject = trialLink.dataset.subject ?? 'subject';
+      const low = total > 0 && got / total < 0.6;
+      trialBox.className = low ? 'rounded-sm border-2 border-gold-500 bg-ivory p-5' : 'rounded-sm border border-rule bg-white p-5';
+      trialLink.className = low
+        ? 'mt-3 inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-5 text-[14.5px] font-medium text-ivory hover:bg-navy-700'
+        : 'mt-3 inline-flex min-h-11 items-center text-[14.5px] font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600';
+      // D-338 -- only name one topic when it really is the weakest. If every
+      // topic scored the same (e.g. all 0 after skipping), "the weakest" would
+      // just be the first topic, so talk about "these topics" instead.
+      const ratios = [...topics.values()].map((t) => (t.max ? t.awarded / t.max : 1));
+      const tied = ratios.length > 1 && ratios.every((r) => r === ratios[0]);
+      const oneTopic = low && weakest && !tied;
+      trialLink.textContent = !low ? 'Request a free trial class' : oneTopic ? 'Get a free class on this topic' : 'Get a free class on these topics';
+      trialLink.dataset.cta = low ? 'diagnostic-trial-low-score' : 'diagnostic-trial';
+      trialText.textContent = oneTopic
+        ? `${weakest![1].name} is costing you marks. A ${subject} specialist can take you through it in a free trial class.`
+        : low
+          ? `These topics are costing you marks. A ${subject} specialist can take you through them in a free trial class.`
+          : `Want help with these topics? Request a free class with a ${subject} teacher.`;
+      // Carry the topic to the trial form so the teacher knows where to start.
+      const href = new URL(trialLink.getAttribute('href') ?? '/trial/', window.location.origin);
+      if (oneTopic) href.searchParams.set('topic', weakest![1].name); else href.searchParams.delete('topic');
+      trialLink.setAttribute('href', href.pathname + href.search);
+    }
+
     // Worked answers again, for review.
     const review = $('diag-review');
     review.replaceChildren();

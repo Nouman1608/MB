@@ -15,6 +15,7 @@ syllabusTopics:
 description: "Original practice questions with full worked answers on narrative voice, form and how craft choices shape reader interpretation, for the Readers, Writers and Texts component of IB Diploma Programme Language A: Literature."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -62,7 +63,7 @@ and the [IB DP Language A: Literature syllabus guide](/resources/ib-dp-language-
 
 **2.** Fiction **[1]**, non-fiction **[1]**, poetry **[1]** and drama **[1]**. **[4]**
 
-**3.** Staging (or dialogue, or dramatic irony) -- a consideration specific to a work being performed. **[1]**
+**3.** Any one element of performance, for example staging, stage directions, an actor's delivery or the presence of a live audience -- a consideration specific to a work being performed. **[1]** (Dialogue and dramatic irony do not count: prose uses them too.)
 
 **4. (a)** Apostrophe (direct address to an absent or non-responding listener). **[1]**
 **(b)** Because the listener never responds, the reader is positioned to fill the resulting silence with their own inference about what the addressed listener might think or feel, making the reader an active participant in completing the poem's implied dialogue rather than a passive observer of a two-way exchange. **[2]**

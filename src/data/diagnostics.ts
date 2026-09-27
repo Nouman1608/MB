@@ -88,7 +88,7 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
     questionIds: [
       'states-of-matter-practice-q11',
       'formulae-equations-and-the-mole-practice-q9',
-      'metals-reactivity-practice-q10',
+      'metals-reactivity-practice-q7', // D-339: was q10 (displacement from aqueous ions, 0620 9.4.4, Supplement) -- not Core
       'alcohols-and-carboxylic-acids-practice-q10',
       'identification-tests-practice-q10',
       'electrolysis-practice-q10',

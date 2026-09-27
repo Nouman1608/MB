@@ -191,6 +191,11 @@ export const ONE_TO_ONE_ONLY_CONVERSIONS: readonly IbConversion[] = [
   { region: 'Other countries', currency: 'USD', symbol: 'US$', perClass: 22, status: 'indicative' },
 ] as const;
 
+/** D-338 -- one short line for pages that list OCR or OxfordAQA among the
+ * boards taught next to group fees (UK page, GCSE/A Level/IGCSE programmes),
+ * so a family on those courses is not quoted a group format that does not exist. */
+export const ONE_TO_ONE_ONLY_NOTE = `${'OCR courses, and OxfordAQA Islamiyat and Pakistan Studies'}, are taught one-to-one only (no group option); the multi-subject and sibling discounts do not apply.`;
+
 export const oneToOneOnlyConversionFor = (region: string): IbConversion | undefined =>
   ONE_TO_ONE_ONLY_CONVERSIONS.find((r) => r.region === region);
 
@@ -326,18 +331,18 @@ export const PRICING_TERMS = {
     summary: 'The free trial runs in whichever format you are considering: a real group class, or an individual one-to-one class.',
   },
   /**
-   * Response commitment. Owner confirmed 2026-09-06. Deliberately two
-   * different windows because they are two different channels staffed
-   * differently -- publishing a single blended number would either overstate
-   * email or understate WhatsApp. Stated in WORKING days, not calendar
-   * hours, so a Sunday enquiry does not create a promise nobody is rostered
-   * to keep.
+   * Response commitment. D-337 -- owner, 27 Sep 2026: WhatsApp within one
+   * hour between 9am and 10pm Pakistan time, email the same day. Replaces
+   * the D-149 / 2026-09-06 promise (email two working days, WhatsApp one),
+   * which read as slow to a parent comparing tutors the same evening. The
+   * hours window is stated so an overnight message does not create a promise
+   * nobody is rostered to keep.
    */
   enquiryResponse: {
-    emailWorkingDays: 2,
-    whatsappWorkingDays: 1,
-    summary: 'We reply to email enquiries within two working days, and to WhatsApp messages within one working day.',
-    short: 'Email replies within two working days; WhatsApp within one.',
+    whatsappReplyHours: 1,
+    whatsappHoursPkt: '9am to 10pm',
+    summary: 'We reply to WhatsApp messages within an hour, between 9am and 10pm Pakistan time, and to email enquiries the same day.',
+    short: 'WhatsApp replies within an hour (9am–10pm Pakistan time); email the same day.',
   },
   /** D-311 -- owner, 24 Sep 2026: "we have teachers available 24/7".
    * D-332 -- owner, 25 Sep 2026: group class times are arranged per group

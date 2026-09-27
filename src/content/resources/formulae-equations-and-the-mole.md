@@ -31,7 +31,7 @@ syllabusTopics:
 description: "Formulae, balanced equations, relative masses and mole calculations for Cambridge IGCSE 0620 and O Level 5070 — where the two qualifications differ most."
 author: "nouman-ahmed"
 publishedDate: 2026-08-17
-updatedDate: 2026-08-17
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -70,6 +70,21 @@ symbols from given information.
 Note that state symbols appear in **both** tiers of 0620: Core outcome 4 covers word and
 symbol equations including state symbols, and the Supplement extends this to **ionic
 equations**. Ionic equations are required for O Level 5070 as well.
+
+### Deducing a formula from a model or diagram
+
+A question may show a ball-and-stick model, a space-filling model or a diagram of a lattice
+instead of giving the formula. Count the atoms (or ions) of each element and write them as
+the formula.
+
+- **A molecule (Core, 0620 3.1.3):** a model shows one nitrogen atom bonded to three
+  hydrogen atoms. The formula is **NH₃**. A model with two carbon atoms and six hydrogen
+  atoms is **C₂H₆**. Count every atom in the molecule; do not simplify a molecular formula.
+- **An ionic lattice (Extended, 0620 3.1.6):** a diagram of part of a lattice shows the ions
+  in the ratio one Mg²⁺ to two Cl⁻. The formula is **MgCl₂**: an ionic formula shows the
+  simplest ratio of ions, and a lattice has no fixed number of ions.
+
+5070 has no tiers, so O Level candidates need both.
 
 ### Deducing ionic formulae from charges
 

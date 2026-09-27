@@ -16,7 +16,7 @@ syllabusTopics:
 description: "Simple harmonic motion, displacement/velocity/acceleration equations, energy in oscillating systems, resonance and damping for sub-topic 5.5 of Pearson Edexcel International A Level Physics (YPH11), Unit 5."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-18
-updatedDate: 2026-08-18
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -121,11 +121,13 @@ acceleration if the amplitude is 0.050 m.
 
 (a) T = 2π√(m/k) = 2π√(0.40/25) = 2π√(0.016) = 2π(0.1265) = **0.795 s**
 
-(b) ω = 2π/T = 2π/0.795 = 7.90 rad/s
+(b) ω² = k/m = 25/0.40 = 62.5 s⁻² (so ω = 7.91 rad/s)
 
 Maximum acceleration occurs at maximum displacement (x = A):
 
-a_max = ω²A = (7.90)² × 0.050 = **3.12 m/s²**
+a_max = ω²A = 62.5 × 0.050 = **3.13 m/s²** (3.125 m/s², to 3 s.f.)
+
+Using ω² = k/m directly avoids the rounding error you get by squaring a rounded ω taken from T.
 
 ## Common mistakes
 

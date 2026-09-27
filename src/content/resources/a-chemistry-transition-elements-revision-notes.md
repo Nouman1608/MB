@@ -20,6 +20,7 @@ syllabusTopics:
 description: "Condensed recall notes on variable oxidation states, complex ions, colour and catalysis for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 
@@ -82,15 +83,15 @@ The split size, and hence the colour, changes with **ligand, oxidation state, an
 | Coordination number | Shape |
 |---|---|
 | 6 | Octahedral |
-| 4 with Cl⁻ (large ligand) | Tetrahedral |
-| 4 with small ligands, e.g. Ni²⁺, Pt²⁺ | Square planar |
+| 4, e.g. [CuCl₄]²⁻, [CoCl₄]²⁻ | Tetrahedral |
+| 4, with some d⁸ ions such as Pt²⁺, e.g. [Pt(NH₃)₂Cl₂] | Square planar |
 | 2 | Linear |
 
 **Ligand exchange** — the ligand exchange that actually occurs is the one giving the complex with the larger **stability constant (Kstab)** under the conditions used, not a single fixed "strength order" applied regardless of concentration. NH₃ and CN⁻ typically form more stable complexes than H₂O at ordinary concentrations, but a **very high concentration** of Cl⁻ can still drive out H₂O by mass action, as below — this is a concentration effect, not proof that Cl⁻ is intrinsically a stronger ligand.
 
-**Worked examples.** [Cu(H₂O)₆]²⁺ (pale blue, octahedral) + excess NH₃(aq) → [Cu(NH₃)₄(H₂O)₂]²⁺ (deep blue, distorted octahedral) — only four of six waters are replaced. [Cu(H₂O)₆]²⁺ + excess **concentrated** HCl → [CuCl₄]²⁻ (yellow-green, tetrahedral) — coordination number falls from 6 to 4 because Cl⁻ is too large to fit six around the ion; this reaction needs a high Cl⁻ concentration (mass action) precisely because Cl⁻ is not, on its own, as strong a ligand as H₂O or NH₃. [Co(H₂O)₆]²⁺ (pink) behaves the same way: + excess NH₃(aq) → [Co(NH₃)₆]²⁺ (yellow-brown); + excess concentrated HCl → [CoCl₄]²⁻ (blue, tetrahedral).
+**Worked examples.** [Cu(H₂O)₆]²⁺ (pale blue, octahedral) + excess NH₃(aq) → [Cu(NH₃)₄(H₂O)₂]²⁺ (deep blue, distorted octahedral) — only four of six waters are replaced. [Cu(H₂O)₆]²⁺ + excess **concentrated** HCl → [CuCl₄]²⁻ (yellow-green, tetrahedral) — coordination number falls from 6 to 4 because Cl⁻ is too large to fit six around the ion; the reaction needs a high Cl⁻ concentration (mass action), and adding water reverses it. [Co(H₂O)₆]²⁺ (pink) behaves the same way: + excess NH₃(aq) → [Co(NH₃)₆]²⁺ (yellow-brown); + excess concentrated HCl → [CoCl₄]²⁻ (blue, tetrahedral).
 
-**NaOH(aq)** precipitates the metal hydroxide at any concentration, limited or excess — e.g. Cu²⁺(aq) + 2OH⁻(aq) → Cu(OH)₂(s), pale blue — written as a complex, [Cu(H₂O)₆]²⁺ + 2OH⁻ → \[Cu(OH)₂(H₂O)₄](s) + 2H₂O, where two OH⁻ ligands replace two water ligands to give an uncharged, insoluble complex — and this precipitate does **not** redissolve in excess NaOH(aq). **NH₃(aq)**, by contrast, gives the same kind of precipitate with limited NH₃ (NH₃ acting as a base, supplying the OH⁻), but that precipitate **does** redissolve in excess NH₃(aq), forming the soluble ammine complex by ligand exchange.
+**NaOH(aq)** precipitates the metal hydroxide at any concentration, limited or excess — e.g. Cu²⁺(aq) + 2OH⁻(aq) → Cu(OH)₂(s), pale blue — written as a complex, [Cu(H₂O)₆]²⁺ + 2OH⁻ → \[Cu(OH)₂(H₂O)₄](s) + 2H₂O, where two OH⁻ ligands replace two water ligands to give an uncharged, insoluble complex — and Cu(OH)₂ does **not** redissolve in excess NaOH(aq). **NH₃(aq)** gives the same precipitate with a little NH₃ (NH₃ acting as a base, supplying the OH⁻), and for **Cu²⁺** that precipitate **does** redissolve in excess NH₃(aq), forming the deep blue ammine complex by ligand exchange. **These are not general rules.** From the 9701 qualitative-analysis table: Cr(OH)₃ (grey-green) **does** dissolve in excess NaOH(aq), giving a dark green solution, but not in excess NH₃(aq); the Fe²⁺, Fe³⁺ and Mn²⁺ hydroxides are insoluble in excess of **either** reagent. Learn each ion from the table rather than applying one rule.
 
 *(Background, beyond 9701's 28.1/28.2 outcomes.)* The **chelate effect**: multidentate ligands displace monodentate ones because the reaction increases the number of free particles, so **ΔS is positive** and ΔG becomes more negative. It is an entropy effect, not an enthalpy one.
 

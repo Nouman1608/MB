@@ -19,6 +19,7 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on cation tests, anion tests, gas tests and flame tests for IGCSE Chemistry."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
+updatedDate: 2026-09-27
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -57,13 +58,14 @@ Related: [Identification of Ions and Gases revision notes](/resources/identifica
 
 **5.** A white solid dissolves in water. The solution gives a lilac flame, and a white precipitate with acidified barium nitrate. Identify the compound and justify. **[3]**
 
-**6.** Describe how you would distinguish between solutions of bromide ions and iodide ions using a single reagent. **[3]**
+**6.** Describe how you would distinguish between solutions of bromide ions and iodide ions using one test. **[3]**
 
 **7.** Describe how you would use aqueous ammonia to distinguish copper(II) ions from chromium(III) ions. **[3]**
 
 **8.** Describe the test for nitrate ions, including the gas that confirms a positive result. **[3]**
 
-**9.** A colourless gas turns acidified potassium manganate(VII) from purple to colourless. Suggest what the gas is, and explain why a solid giving off this gas would also decolourise the same reagent in solution. **[3]**
+**9. (a)** A colourless gas turns acidified aqueous potassium manganate(VII) from purple to colourless. Identify the gas. **[1]**
+**(b)** Describe the test for sulfite ions in a solution, and give the result. **[2]**
 
 ---
 
@@ -75,8 +77,8 @@ Related: [Identification of Ions and Gases revision notes](/resources/identifica
 
 **1.** Lithium **red** [1]; sodium **yellow** [1]; potassium **lilac** [1]; calcium **orange-red** [1]; copper(II) **blue-green** [1].
 
-**2. (a)** Cu²⁺ — **blue** precipitate [1]. Fe²⁺ — **green** precipitate, turning brown near the surface on standing [1]. Fe³⁺ — **red-brown** precipitate [1]. Zn²⁺ — **white** precipitate [1].
-**(b)** Add **excess** sodium hydroxide [1]: the **zinc hydroxide dissolves** to give a colourless solution, whereas aluminium hydroxide also dissolves — so instead use **excess ammonia**, in which zinc hydroxide dissolves but aluminium hydroxide does not [1].
+**2. (a)** Cu²⁺ — **light blue** precipitate [1]. Fe²⁺ — **green** precipitate, turning brown near the surface on standing [1]. Fe³⁺ — **red-brown** precipitate [1]. Zn²⁺ — **white** precipitate [1].
+**(b)** Add **aqueous ammonia, then excess ammonia** [1]. Both give a white precipitate at first; zinc hydroxide **dissolves in excess ammonia** to give a colourless solution, while aluminium hydroxide **does not dissolve** [1]. (Excess sodium hydroxide does not tell them apart: both precipitates dissolve in it.)
 **(c)** Add sodium hydroxide and **warm** [1]. **Ammonia gas** is released [1], turning **damp red litmus paper blue** [1].
 
 **3. (a)** Add **dilute hydrochloric acid** [1]; **effervescence** occurs and the gas turns limewater **milky** [1].
@@ -97,7 +99,8 @@ Related: [Identification of Ions and Gases revision notes](/resources/identifica
 
 **8.** Add **aluminium foil** and **aqueous sodium hydroxide**, then **warm** [1]. **Ammonia gas** is released [1], confirmed by turning **damp red litmus paper blue** [1].
 
-**9.** The gas is **sulfur dioxide** [1]. A sulfite solid reacting with acid **produces sulfur dioxide gas** [1]; this is the same reducing gas that decolourises acidified potassium manganate(VII), so the solid gives the same positive result via the gas it releases [1].
+**9. (a)** **Sulfur dioxide**, SO₂ [1].
+**(b)** Add a small volume of **acidified aqueous potassium manganate(VII)** to the solution [1]; it changes colour from **purple to colourless** [1]. The sulfite ions in the solution react with the manganate(VII) directly: no gas needs to be given off.
 
 **10.** Dip a clean wire (nichrome or platinum), moistened with dilute hydrochloric acid, into the solid and hold it in a **hot (blue) Bunsen flame** [1]. Potassium ions give a **lilac** flame [1].
 
@@ -118,6 +121,6 @@ Related: [Identification of Ions and Gases revision notes](/resources/identifica
 - Confusing the bromide (cream) and iodide (yellow) precipitates with silver nitrate — the colours are close and worth memorising as a pair.
 - Stopping at the dropwise-ammonia stage when a question specifically asks how to distinguish two similar-looking hydroxide precipitates — the distinguishing observation is almost always in the excess-reagent stage, not the first drops.
 - Forgetting that barium also gives a flame test result (light green), distinct from calcium's orange-red — the two are sometimes confused since both are Group 2 metals.
-- Testing the solid itself for a gas, rather than testing the gas that solid releases on reaction — a nitrate or sulfite test always involves a reaction step first.
+- Confusing the gas test with the ion test: sulfur dioxide gas and sulfite ions in solution both decolourise acidified potassium manganate(VII), but the sulfite test is done on the solution itself. The nitrate test is the one that needs a reaction step first (warm with aqueous sodium hydroxide and aluminium foil, then test the gas for ammonia).
 
 For condensed recall notes on this topic, see the [Identification of Ions and Gases revision notes](/resources/identification-tests-revision-notes/); for the full explanation with the complete cation and anion tables, see the [Identification of Ions and Gases study guide](/resources/identification-of-ions-and-gases/).

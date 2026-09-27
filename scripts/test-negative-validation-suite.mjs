@@ -713,12 +713,12 @@ withMutation(
   // not what this category is proving.
   (text) => text
     .replace(
-      '**2.** State the three factors that determine the size of an ionisation energy. **[3]**',
-      '**1.** State the three factors that determine the size of an ionisation energy. **[3]**',
+      '**2.** State three factors that affect the size of an ionisation energy. **[3]**',
+      '**1.** State three factors that affect the size of an ionisation energy. **[3]**',
     )
     .replace(
-      '**2.** **Nuclear charge** [1]; **atomic radius / distance of the outer electron from the nucleus** [1]; **shielding by inner shells** [1].',
-      '**1.** **Nuclear charge** [1]; **atomic radius / distance of the outer electron from the nucleus** [1]; **shielding by inner shells** [1].',
+      '**2.** Any three of: **nuclear charge** [1];',
+      '**1.** Any three of: **nuclear charge** [1];',
     ),
   {
     validatorCmd: 'node --experimental-strip-types scripts/validate-practice-question-schema.mjs',
