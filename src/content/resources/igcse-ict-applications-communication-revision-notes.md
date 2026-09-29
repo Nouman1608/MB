@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "ict-applications-communication-0417"
 description: "Condensed recall notes on communication media, mobile communication and VoIP for Cambridge IGCSE ICT 0417, section 6.1."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

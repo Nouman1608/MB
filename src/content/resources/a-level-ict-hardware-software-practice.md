@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "hardware-and-software"
 description: "Exam-style questions with full worked answers on mainframes and supercomputers, system and utility software, custom-written vs off-the-shelf software, and user interfaces, for Cambridge AS & A Level Information Technology (9626) Topic 2."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false

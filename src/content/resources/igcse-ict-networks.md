@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "networks-0417"
 description: "Router operation, common network devices, wi-fi and Bluetooth, cloud computing, and the differences between extranets, intranets, the internet, LANs, WLANs and WANs, for Cambridge IGCSE ICT 0417, section 4.1."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

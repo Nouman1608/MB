@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "ict-applications-communication-0417"
 description: "The characteristics and uses of newsletters, posters, websites, multimedia presentations, audio, video, media streaming and ePublications, plus mobile communication via SMS, calls, VoIP and video calls, for Cambridge IGCSE ICT 0417, section 6.1."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

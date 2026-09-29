@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "storage-devices-0417"
 description: "Original exam-style practice questions with full worked answers on magnetic, optical and solid-state storage devices and media for Cambridge IGCSE ICT 0417, Topic 3."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

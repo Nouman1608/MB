@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "monitoring-and-control"
 description: "Exam-style questions with full worked answers on monitoring vs control, sensors, calibration, actuators, and microprocessor-controlled systems, for Cambridge AS & A Level Information Technology (9626) Topic 3."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false

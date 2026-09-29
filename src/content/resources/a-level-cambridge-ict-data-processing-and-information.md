@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "data-processing-and-information"
 description: "Data and information, quality of information, encryption, validation and verification, and batch, online and real-time processing -- topic 1 of Cambridge International AS & A Level Information Technology (9626), a 21-topic syllabus staged across AS and A Level."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 updatedDate: 2026-09-27
 featured: false

@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "microprocessor-controlled-devices-0417"
 description: "Condensed recall notes on microprocessor-controlled devices in the home and transport, and health problems from prolonged IT use, for Cambridge IGCSE ICT 0417, Topic 5."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

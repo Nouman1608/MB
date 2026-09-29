@@ -11,6 +11,9 @@ syllabusSeries: "From 2014"
 order: 2
 description: "The discrete, modular and integrated course models and four assessment criteria of IB Middle Years Programme Sciences -- knowing and understanding, inquiring and designing, processing and evaluating, reflecting on the impacts of science -- and its eAssessment structure."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

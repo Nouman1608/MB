@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "data-processing-and-information"
 description: "Condensed recall notes on data and information, direct and indirect sources, quality of information, encryption, validation and verification, and processing methods for Cambridge AS & A Level Information Technology 9626, topic 1."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false

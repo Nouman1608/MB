@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "types-and-components-of-computer-systems"
 description: "Hardware, computer types and system components -- the opening topic of Cambridge IGCSE ICT (0417), a 21-topic, untiered syllabus."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

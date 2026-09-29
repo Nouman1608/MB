@@ -17,6 +17,9 @@ syllabusSeries: "From 2014"
 order: 29
 description: "Condensed IB MYP Sciences revision notes on matter: particle model tables, changes of state, density, gas pressure, separation methods and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 ---

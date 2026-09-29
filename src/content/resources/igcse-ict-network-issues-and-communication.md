@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "network-issues-and-communication-0417"
 description: "Data-transfer security and privacy, strong versus weak passwords, authentication methods beyond passwords, anti-malware software, and the requirements of video, audio and web conferencing, for Cambridge IGCSE ICT 0417, section 4.2."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

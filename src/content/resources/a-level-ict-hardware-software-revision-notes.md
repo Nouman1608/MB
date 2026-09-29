@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "hardware-and-software"
 description: "Condensed revision notes on mainframes/supercomputers, system and utility software, custom vs off-the-shelf software, and user interfaces for Cambridge AS & A Level Information Technology Topic 2 (9626)."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 updatedDate: 2026-09-27
 featured: false

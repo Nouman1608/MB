@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "monitoring-and-control"
 description: "Sensors, calibration, actuators and microprocessor-controlled technology -- Topic 3 of Cambridge International AS & A Level Information Technology (9626), covering monitoring, measurement and control systems."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 updatedDate: 2026-09-27
 featured: false

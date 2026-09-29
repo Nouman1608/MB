@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "storage-devices-0417"
 description: "The device/media distinction, and the characteristics, uses, advantages and disadvantages of magnetic, optical and solid-state storage devices and media, for Cambridge IGCSE ICT 0417, Topic 3."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

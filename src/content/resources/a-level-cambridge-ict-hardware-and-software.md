@@ -16,6 +16,9 @@ syllabusTopics:
 description: "Mainframe computers and supercomputers, system software, utility software, custom-written and off-the-shelf software, and user interfaces -- Topic 2 of Cambridge International AS & A Level Information Technology (9626)."
 seoDescription: "Cambridge AS & A Level IT (9626) topic 2 guide: mainframes, system and utility software, off-the-shelf vs custom software, and user interfaces."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 updatedDate: 2026-09-27
 featured: false

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "input-and-output-devices"
 description: "Condensed recall notes on input devices, direct data entry devices and output devices for Cambridge IGCSE ICT 0417, Topic 2."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "microprocessor-controlled-devices-0417"
 description: "The positive and negative effects of microprocessor/smart devices in the home and in transport, and the causes and prevention of RSI, back problems, eye problems and headaches from prolonged IT use, for Cambridge IGCSE ICT 0417, Topic 5."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

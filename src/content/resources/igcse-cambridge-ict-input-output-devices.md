@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "input-and-output-devices"
 description: "Input devices, direct data entry devices and output devices -- Topic 2 of Cambridge IGCSE ICT (0417), 2026-2028 series."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

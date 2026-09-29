@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "network-issues-and-communication-0417"
 description: "Original exam-style practice questions with full worked answers spanning both 4.1 Networks and 4.2 Network issues and communication for Cambridge IGCSE ICT 0417, Topic 4."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

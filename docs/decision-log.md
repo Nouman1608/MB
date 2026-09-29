@@ -14909,3 +14909,17 @@ Source: project doc `claude/audit-d354-d359-2026-09-27.md`, finding T-01.
   - **Linking:** `/grade-thresholds/` now links every guide under "Earlier series".
 - **Source rules:** the Section 14 rules held. Confidential Instructions were not opened, and nothing from a report is reproduced.
 - **Not done:** 0580, 0625 and 9709 (plus 4024, 5054, and Edexcel/AQA except the IAL Chemistry January units) have no examiner reports in the folder, and the owner has been asked for them. The MYP Sciences and MYP I&S framework topics "key concepts" and "global contexts" still have no dedicated unit.
+
+
+## D-376 - Review credits for MYP Sciences and ICT; author bylines left unchanged (2026-09-29)
+
+**Owner request (29 Sep 2026):** "MYP Sciences / author Ameer Hamza / reviewed by Nouman and Iftikhar / Haris Khan for ICT".
+
+- **ICT (28 resources):** `reviewer: harris-khan`, `reviewStatus: reviewed`. He lists ICT in `subjectsTaught` and is `isReviewer: true`.
+- **MYP Sciences (34 resources):** the schema stores one reviewer per resource (`reviewer: reference('authors')`), so "Nouman and Iftikhar" cannot both be recorded on the same page. The 34 pages were split by the subject domain of the topic, which keeps each credit inside the reviewer's stated expertise:
+  - Chemistry (atomic structure and bonding, states and properties of matter) and the framework/assessment pages (course models, criteria in practice, investigation skills, subject and syllabus guides, assessment notes): `nouman-ahmed` - 16.
+  - Physics (forces, electromagnetism and waves): `iftikhar-azeemi` - 6.
+  - Biology (cells and organisms, evolution and interactions, metabolism, cycles in science): `hina-mogul` - 12. The owner named no reviewer for the biology units here; this follows the mapping he already gave ("Biology: Miss Hina", "IB/MYP same as the others") rather than crediting a review to a physics or chemistry teacher.
+- **`author` left as `marlbridge-academic-team`, deliberately.** The request to set Ameer Hamza as author of the MYP Sciences pages was not applied. Those 34 pages were written by Marlbridge on 28 Sep 2026 (D-375); Ameer Hamza did not write them. Changing the field would put a false `"author"` claim in each page's schema.org `Article` and reverse D-283, which settled that an organisational byline is not moved to an individual who did not write the page. The honest way to give a named teacher credit on a page he did not write is the `reviewer` field, which is what D-370 and this entry use. Raised with the owner.
+- **Validation:** `validate-review-integrity.mjs` PASS (2,305 resources); build PASS; `audit:content-integrity` PASS. No rule [8] clashes, since none of the four reviewers is the author of these pages.
+- **Totals:** 1,987 of 2,305 resources now carry a named reviewer. Still uncredited: Sociology 57, Geography 52, Psychology 49, ESS 40, MYP Design 34, MYP Individuals and Societies 34, Global Politics 34, Global Perspectives 18.

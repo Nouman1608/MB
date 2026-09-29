@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-myp-sciences-assessment-criteria"
 description: "Exam preparation for IB Middle Years Programme Sciences's Investigation skills eAssessment task -- worth half the total available marks -- covering hypothesis formulation, data handling and evaluation, with a worked practice example."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---
