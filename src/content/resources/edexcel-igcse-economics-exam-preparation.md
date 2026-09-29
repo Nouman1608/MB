@@ -11,6 +11,9 @@ syllabusSeries: "Specification Issue 3, February 2026"
 order: 3
 description: "Working the four-compulsory-question structure of Pearson Edexcel IGCSE Economics 4EC1 -- 20 marks per question across mixed styles, the micro/macro paper split, data-response technique and a worked evaluation routine."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

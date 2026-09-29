@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "relative-atomic-mass-and-relative-molecular-mass-7405"
 description: "Relative atomic and molecular mass, the Avogadro constant, and mole calculations using mass, concentration and volume -- 3.1.2.1 and 3.1.2.2 of AQA A-Level Chemistry (7405), AS-shared content."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

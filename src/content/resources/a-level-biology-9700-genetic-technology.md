@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "genetically-modified-organisms-in-agriculture-cambridge"
 description: "Study guide for Cambridge 9700 topic 19: recombinant DNA, enzymes and vectors, PCR, electrophoresis, microarrays, gene therapy, screening and GM crops."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

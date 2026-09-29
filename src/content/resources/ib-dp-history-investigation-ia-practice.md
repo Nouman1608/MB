@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-world-history-internal-assessment"
 description: "Original practice questions with full worked answers on refining inquiry questions, evaluating sources, and structuring the written response, for the Historical Investigation internal assessment of IB Diploma Programme History."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

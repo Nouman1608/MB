@@ -11,6 +11,9 @@ syllabusSeries: "Issue 5, February 2026"
 order: 3
 description: "How the option structure of Pearson Edexcel IGCSE History 4HI1 governs revision -- two depth studies from eight on Paper 1, an investigation plus a breadth study on Paper 2, and a worked change-and-continuity routine."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

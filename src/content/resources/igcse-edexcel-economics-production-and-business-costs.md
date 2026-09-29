@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "business-economics-edexcel-igcse-economics"
 description: "The factors of production, productivity and division of labour, and costs, revenue and economies of scale -- sub-topics 1.2.1-1.2.3 of Topic 2 Business Economics, Pearson Edexcel International GCSE Economics (4EC1)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

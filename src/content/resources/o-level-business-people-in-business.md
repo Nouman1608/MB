@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "people-in-business"
 description: "Motivation theory, organisational structure and leadership styles, recruitment and training, and internal/external communication -- the full content of Topic 2 for Cambridge O Level Business Studies 7115, 2026 series."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

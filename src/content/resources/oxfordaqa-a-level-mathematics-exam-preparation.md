@@ -11,6 +11,9 @@ syllabusSeries: "First assessed 2019"
 order: 3
 description: "How OxfordAQA International A-Level Mathematics 9660's compulsory units weight against the Statistics-or-Mechanics option, plus a worked full-working routine."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

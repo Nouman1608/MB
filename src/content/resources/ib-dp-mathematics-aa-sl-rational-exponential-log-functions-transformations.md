@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-2-11"
 description: "IB DP Maths AA study guide to rational, exponential and log functions, solving equations and graph transformations, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

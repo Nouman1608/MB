@@ -10,6 +10,9 @@ syllabusCodes: ["DP History"]
 order: 6
 description: "Paper-by-paper exam preparation for IB DP History -- Paper 1's three source questions on an inquiry question, Paper 2's concept question and two-part thematic-study question, HL Paper 3's regional depth study, a worked answer on how a source's context shapes its use, and a checklist. First examined 2028."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

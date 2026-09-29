@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "english-legal-system-9084"
 description: "Condensed recall notes on sources of law, the legislative process, precedent, statutory interpretation, the courts and legal personnel for Cambridge AS & A Level Law 9084."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

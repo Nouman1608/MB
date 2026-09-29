@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "oxfordaqa-a-level-chemistry-energetics"
 description: "Standard enthalpy changes of combustion and formation, calorimetry using q = mc∆T, Hess's law calculations, and mean bond enthalpy, for OxfordAQA International AS and A-level Chemistry 9620, section 3.1.4."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

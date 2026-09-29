@@ -11,6 +11,9 @@ syllabusSeries: "For first teaching 2016"
 order: 1
 description: "Paper-by-paper exam preparation for AQA GCSE Chemistry 8462 -- Foundation/Higher tier strategy, required-practicals revision, calculation technique, a worked mole-ratio answer and a checklist."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

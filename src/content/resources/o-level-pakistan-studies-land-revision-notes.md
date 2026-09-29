@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "the-land-of-pakistan-2059"
 description: "Condensed recall notes on Pakistan's location, administrative areas, topography and climate for Section 1 of Paper 2, Cambridge O Level Pakistan Studies (2059), 2026 series."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

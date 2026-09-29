@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "trigonometry"
 description: "Original exam-style questions with full worked answers on Pythagoras, right-angled trigonometry, the sine and cosine rules, the area of a triangle and bearings, for Cambridge O Level Mathematics 4024."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "g-differentiation-aqa-alevel-maths"
 description: "Condensed recall notes on first principles, the chain/product/quotient rules, stationary points, implicit and parametric differentiation, and forming differential equations for AQA A-Level Mathematics (7357), G1-G6."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

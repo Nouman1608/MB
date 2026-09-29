@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-writers-viewpoints-and-perspectives-8700"
 description: "Condensed recall notes on comparing two non-fiction texts and writing to a specified viewpoint for AQA GCSE English Language (8700) Paper 2."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

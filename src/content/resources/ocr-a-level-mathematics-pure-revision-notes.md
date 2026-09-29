@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "pure-mathematics-ocr-alevel-maths"
 description: "Condensed recall notes on proof, algebra, functions, sequences, trigonometry, calculus and vectors for OCR A Level Mathematics H240."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

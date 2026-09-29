@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "a-system-software"
 description: "Original exam-style questions with full worked answers on interpreters, syntax rules and Backus-Naur Form, Reverse Polish Notation, multi-tasking, shortest remaining time scheduling and disk thrashing, for Cambridge AS & A Level Computer Science (9618)."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
 featured: false

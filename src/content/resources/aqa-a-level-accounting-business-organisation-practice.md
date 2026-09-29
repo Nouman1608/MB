@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "types-of-business-organisation"
 description: "Original exam-style practice questions with full worked answers on the four business ownership types, their benefits, risks and reporting requirements, and sources of finance for AQA A-Level Accounting (7127), Topic 3.2."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 ---

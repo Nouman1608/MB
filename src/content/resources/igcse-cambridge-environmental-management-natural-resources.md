@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "natural-resources-0680"
 description: "Rock formation, extraction, energy resources and fracking -- the opening topic of Cambridge IGCSE Environmental Management (0680), a seven-topic syllabus for the 2027-2029 series."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

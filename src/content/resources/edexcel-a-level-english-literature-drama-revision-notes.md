@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "unit-2-drama-yet01"
 description: "Condensed exam-skills notes on the assessment objectives, essay structure and set-text preparation for Unit 2 Drama, Pearson Edexcel International A-Level English Literature (YET01)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

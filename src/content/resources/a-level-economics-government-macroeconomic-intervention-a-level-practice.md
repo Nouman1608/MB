@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "government-macroeconomic-intervention-a-cambridge-alevel-economics"
 description: "Original exam-style questions with full worked answers on cost-push and demand-pull inflation, interest rates, conflicting fiscal and monetary policy, the Phillips curve, supply-side policy, lost tax revenue and the multiplier effect of falling exports, for Cambridge International AS & A Level Economics (9708)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

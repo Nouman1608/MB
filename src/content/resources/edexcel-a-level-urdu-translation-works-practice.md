@@ -11,6 +11,9 @@ syllabusSeries: "2018"
 order: 2
 description: "Original practice questions with full worked answers: a full translation-into-Urdu exercise like Section A, plus questions on the paper's structure, marking rules and timing for the Section B/C essays, for Pearson Edexcel A-Level Urdu (9UR0) Paper 2."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false

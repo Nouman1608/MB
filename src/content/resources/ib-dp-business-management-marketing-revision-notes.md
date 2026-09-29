@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-business-unit-4"
 description: "Condensed revision notes on IB Diploma Programme Business Management Unit 4 -- marketing planning, sales forecasting, market research and the seven Ps of the marketing mix."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

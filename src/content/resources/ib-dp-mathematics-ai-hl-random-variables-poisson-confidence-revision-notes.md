@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-4-17"
 description: "Condensed IB Maths AI HL revision notes on E and Var rules, X̄ and the CLT, z and t confidence intervals and Poisson, with a 12-question self-test."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

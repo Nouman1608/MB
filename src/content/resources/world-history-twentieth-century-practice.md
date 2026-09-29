@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "core-content-option-b-0470"
 description: "Original IGCSE practice questions on Versailles, the League of Nations, Hitler's foreign policy and the Cold War — built onto Paper 1's three-part essays and Paper 2's document-question format."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

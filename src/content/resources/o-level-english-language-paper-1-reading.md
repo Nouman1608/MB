@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "reading-1123"
 description: "A section-by-section breakdown of Paper 1 in Cambridge O-Level English Language (1123): Comprehension and Use of Language, Summary and Short Response, and how the reading assessment objectives are actually marked."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "boolean-logic-2210"
 description: "Original exam-style questions with full worked answers on NAND, NOR and XOR gates, writing logic expressions from problem statements and circuit descriptions, and working out outputs for every input combination, for Cambridge O Level Computer Science (2210)."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
 featured: false

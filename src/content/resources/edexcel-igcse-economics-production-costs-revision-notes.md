@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "business-economics-edexcel-igcse-economics"
 description: "Condensed recall notes on the factors of production, productivity, division of labour, costs, revenue and economies of scale for Pearson Edexcel International GCSE Economics (4EC1), 1.2.1-1.2.3."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

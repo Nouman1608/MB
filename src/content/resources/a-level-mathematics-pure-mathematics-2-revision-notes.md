@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "pure-mathematics-2-cambridge-alevel"
 description: "Condensed recall notes on the modulus function and polynomial division with the factor and remainder theorems, logarithms/exponentials, extended trigonometry, differentiation/integration, and numerical methods for Cambridge International AS & A Level Mathematics (9709), Pure Mathematics 2."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

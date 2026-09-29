@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "the-nature-and-variety-of-living-organisms-edexcel-igcse-biology"
 description: "Original exam-style practice questions with full worked answers on characteristics of living organisms, the five kingdoms, viruses and pathogens."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-source-based-reading-and-directed-writing-9270"
 description: "Original exam-style practice questions with full worked answers on reading modern-world sources, visual/graphic texts, and directed writing for a specified audience and purpose."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 ---

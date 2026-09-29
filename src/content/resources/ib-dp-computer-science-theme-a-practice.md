@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-computer-science-theme-a"
 description: "Original practice questions with full worked answers covering computer fundamentals, networks, databases and machine learning, for Theme A of IB Diploma Programme Computer Science."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

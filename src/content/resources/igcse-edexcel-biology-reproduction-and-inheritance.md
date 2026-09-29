@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "reproduction-and-inheritance-edexcel-igcse-biology"
 description: "Sexual and asexual reproduction in plants and humans, DNA and the genome, monohybrid inheritance, mitosis and meiosis, variation, mutation and natural selection -- Topic 3 of Pearson Edexcel International GCSE Biology (4BI1)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

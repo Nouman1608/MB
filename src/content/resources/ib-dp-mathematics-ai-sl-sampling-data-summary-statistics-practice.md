@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-4-3"
 description: "11 original questions with marked answers on sampling, outliers, cumulative frequency, box plots and summary statistics for IB DP Maths AI SL and HL."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

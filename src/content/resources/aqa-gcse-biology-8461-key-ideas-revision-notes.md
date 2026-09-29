@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "key-ideas-aqa-gcse-biology"
 description: "Condensed AQA GCSE Biology 8461 Key ideas notes: the nine big ideas, core equations, linking chains, must-know contrasts and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

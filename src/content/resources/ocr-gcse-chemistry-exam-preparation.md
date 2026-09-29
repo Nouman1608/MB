@@ -11,6 +11,9 @@ syllabusSeries: "Version 4.0 (August 2026), for first assessment in 2018"
 order: 3
 description: "Which topics sit on which OCR GCSE Chemistry J248 paper, how to earn the chemistry-specific calculation and equation marks, tier choice, and a worked balancing-and-moles routine."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

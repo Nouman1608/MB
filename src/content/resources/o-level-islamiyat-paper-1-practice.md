@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-2058"
 description: "Original practice questions in the real Question 1-5 format, including a set-passage Question 1 printed in Arabic and English, with full worked answers on the Qur'an, the Prophet Muhammad (pbuh) and the first Islamic community for Cambridge O Level Islamiyat 2058."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-25
 featured: false
 ---

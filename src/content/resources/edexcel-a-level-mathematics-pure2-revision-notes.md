@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "unit-p2-pure-mathematics-2-edexcel-alevel-maths"
 description: "Condensed recall notes on proof, algebra and functions, sequences and series, exponentials/logarithms, trigonometry, differentiation and integration for Pearson Edexcel International A Level Mathematics (YMA01), Unit P2."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

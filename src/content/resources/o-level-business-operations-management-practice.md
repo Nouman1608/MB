@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "operations-management"
 description: "Original exam-style questions with full worked answers on flow and batch production, factory location, labour productivity and break-even analysis, for Cambridge O Level Business Studies (7115)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

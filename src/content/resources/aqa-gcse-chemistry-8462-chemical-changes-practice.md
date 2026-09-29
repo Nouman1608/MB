@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "chemical-changes-8462"
 description: "Eleven original AQA GCSE Chemistry 8462 Chemical changes questions on reactivity, redox, salts, titrations and electrolysis, with marked answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

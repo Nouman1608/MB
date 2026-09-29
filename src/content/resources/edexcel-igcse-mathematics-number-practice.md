@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "numbers-and-the-number-system-edexcel-igcse-maths"
 description: "Original exam-style practice questions with full worked answers on fractions, ratio, percentages, standard form and bounds."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-28
 featured: false

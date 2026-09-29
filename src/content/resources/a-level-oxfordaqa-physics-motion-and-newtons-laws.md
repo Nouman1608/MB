@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "motion-along-a-straight-line-oxfordaqa"
 description: "SUVAT equations, displacement-time and velocity-time graphs, and Newton's three laws of motion with F = ma -- 3.2.3 and 3.2.5 of OxfordAQA International AS and A-Level Physics (9630)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

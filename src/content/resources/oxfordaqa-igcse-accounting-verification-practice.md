@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "verification-of-accounting-records-oxfordaqa-igcse"
 description: "Original exam-style practice questions with full worked answers on trial balances, control accounts, bank reconciliation and correcting errors for OxfordAQA International GCSE Accounting (9215)."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

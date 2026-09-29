@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "transport-mechanisms-cambridge-alevel-biology"
 description: "Study guide to xylem and phloem structure, plan diagrams, water pathways, cohesion-tension, xerophytes and phloem mass flow for Cambridge 9700 AS Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

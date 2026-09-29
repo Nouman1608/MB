@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "number-operations-and-integers-ocr-gcse-maths"
 description: "Calculations with integers, whole number theory, combining arithmetic operations, and inverse operations -- the full content of Topic 1 for OCR GCSE Mathematics (J560) -- with supporting notes on indices, standard form, rounding and error intervals from Topics 3 and 4."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

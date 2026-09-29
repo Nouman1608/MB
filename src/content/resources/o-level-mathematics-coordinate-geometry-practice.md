@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "coordinate-geometry"
 description: "Original exam-style questions with full worked answers on gradients, equations of lines, perpendicular and parallel lines, midpoints and lengths, for Cambridge O Level Mathematics 4024."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 featured: false
 ---

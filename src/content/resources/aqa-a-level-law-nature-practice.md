@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "the-nature-of-law-and-the-english-legal-system-7162"
 description: "Original exam-style practice questions with full worked answers on law and morality, law and justice, the rule of law and legal institutions."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

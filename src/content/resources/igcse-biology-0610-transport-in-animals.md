@@ -27,6 +27,9 @@ syllabusTopics:
     subtopic: "blood-cambridge-igcse-biology"
 description: "Study guide teaching circulatory systems, the heart, blood vessels and blood, with Core and Extended content marked, for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

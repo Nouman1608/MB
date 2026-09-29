@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "agriculture-and-the-environment-5014"
 description: "Farming systems, soil degradation, and sustainable agricultural practices -- Topic 3 of Cambridge O Level Environmental Management (5014), distinct from the site's existing guides to Rocks and Minerals and Energy and the Environment."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

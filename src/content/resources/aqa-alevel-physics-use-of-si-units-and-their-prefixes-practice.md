@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "use-of-si-units-and-their-prefixes"
 description: "Original exam-style practice questions with full worked answers on base and derived SI units, SI prefixes, standard form, and converting between units of the same quantity, for sub-topic 3.1.1 of AQA A-level Physics (7408)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 ---

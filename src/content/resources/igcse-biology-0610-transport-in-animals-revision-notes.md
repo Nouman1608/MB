@@ -27,6 +27,9 @@ syllabusTopics:
     subtopic: "blood-cambridge-igcse-biology"
 description: "Condensed revision notes on the heart, circulation, blood vessels and blood, with a self-test and Extended content flagged, for Cambridge IGCSE 0610."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

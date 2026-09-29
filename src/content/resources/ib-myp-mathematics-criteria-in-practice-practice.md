@@ -13,6 +13,9 @@ syllabusTopics:
     topic: "ib-myp-mathematics-assessment-criteria"
 description: "Original MYP Mathematics practice questions, scenario-based with full worked answers, testing whether sample coursework evidence would meet top-band standard for each of the four assessment criteria."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

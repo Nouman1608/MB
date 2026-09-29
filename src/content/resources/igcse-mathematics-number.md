@@ -27,6 +27,9 @@ syllabusTopics:
     subtopic: "percentages-cambridge-igcse-maths"
 description: "Types of number, sets, powers and roots, fractions/decimals/percentages, indices, standard form, estimation, ratio, rates and time -- the Core content of Topic 1 Number for Cambridge IGCSE Mathematics 0580, 2025-2027 series."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-19
 updatedDate: 2026-09-27
 featured: false

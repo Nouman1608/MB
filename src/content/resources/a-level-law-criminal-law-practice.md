@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "criminal-law-9084"
 description: "Original practice questions with full worked answers covering elements of a crime, offences against property, and sentencing, for Cambridge AS & A Level Law Topic 2 Criminal Law (9084)."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

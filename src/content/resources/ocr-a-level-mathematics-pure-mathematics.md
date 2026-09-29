@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "pure-mathematics-ocr-alevel-maths"
 description: "Proof, algebra and functions, coordinate geometry, sequences and series, trigonometry, exponentials and logarithms, differentiation, integration, numerical methods, and vectors -- the full content of Pure Mathematics for OCR A-Level Mathematics A (H240)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

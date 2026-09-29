@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-drama-0475"
 description: "Condensed recall notes on Paper 2 Drama's format, the one-of-each question rule, the closed-book requirement, and how each assessment objective is rewarded, for Cambridge IGCSE Literature in English (0475), 2026 series."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

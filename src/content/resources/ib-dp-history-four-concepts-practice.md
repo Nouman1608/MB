@@ -11,6 +11,9 @@ syllabusSeries: "First assessment 2028"
 order: 3
 description: "Original practice questions with full worked answers applying cause and consequence, continuity and change, perspectives, and significance to historical scenarios, for IB Diploma Programme History's four transferable concepts."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

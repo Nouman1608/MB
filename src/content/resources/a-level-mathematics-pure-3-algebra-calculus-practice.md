@@ -29,6 +29,9 @@ syllabusTopics:
     subtopic: "differential-equations-cambridge-alevel-maths"
 description: "Original exam-style questions with full worked answers on the modulus function, exponential equations, binomial expansions with negative and fractional powers, partial fractions, parametric differentiation, integration by parts and by substitution, and separable differential equations, for Cambridge International AS & A Level Mathematics (9709)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 featured: false
 ---

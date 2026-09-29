@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-0493"
 description: "Condensed recall notes on the Hadiths, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam -- Paper 2 of Cambridge IGCSE Islamiyat (0493), 2026-2027 series."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

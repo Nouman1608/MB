@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "interest-rates-saving-borrowing-spending-investment-aqa-gcse-economics"
 description: "Condensed recall notes on interest rate effects, UK government revenue/spending, and direct/indirect and progressive/regressive taxation for AQA GCSE Economics (8136), 3.2.1.1 and 3.2.1.2."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

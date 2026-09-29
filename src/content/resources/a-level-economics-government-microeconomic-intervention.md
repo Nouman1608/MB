@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "government-microeconomic-intervention-as-cambridge-alevel-economics"
 description: "Why governments intervene in individual markets, the methods used -- indirect taxes, subsidies, price controls, buffer stocks, direct provision -- and policies to address income and wealth inequality, for Cambridge International AS & A Level Economics 9708."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

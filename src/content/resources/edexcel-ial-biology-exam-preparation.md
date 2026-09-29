@@ -11,6 +11,9 @@ syllabusSeries: "Specification Issue 2, February 2021"
 order: 3
 description: "How the six modular units of Edexcel IAL Biology YBI11 are weighted, why Units 3 and 6 are written practical-skills papers rather than lab assessments, and a worked experimental-evaluation routine."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

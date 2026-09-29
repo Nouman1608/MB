@@ -11,6 +11,9 @@ syllabusCodes: ["0610"]
 order: 1
 description: "Cambridge IGCSE Biology 0610 past papers guide: grade thresholds and examiner report notes for the March, June and November series, 2022 to 2024."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 ---

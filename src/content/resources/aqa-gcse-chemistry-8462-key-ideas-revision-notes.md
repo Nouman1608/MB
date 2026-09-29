@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "key-ideas-8462"
 description: "Condensed revision notes on the eight AQA GCSE Chemistry 8462 key ideas, with method steps, must-know distinctions and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

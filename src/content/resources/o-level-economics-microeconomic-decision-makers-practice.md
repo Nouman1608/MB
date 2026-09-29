@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "microeconomic-decision-makers"
 description: "Original exam-style practice questions with full worked answers on households, workers, trade unions, firms (mergers, small firms, productivity and production methods) and costs/revenue calculations, for Cambridge O Level Economics (2281) Topic 3."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

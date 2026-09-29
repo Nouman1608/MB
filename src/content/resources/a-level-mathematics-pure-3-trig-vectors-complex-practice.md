@@ -26,6 +26,9 @@ syllabusTopics:
     subtopic: "complex-numbers-cambridge-alevel-maths"
 description: "Original exam-style questions with full worked answers on the R cos(θ − α) form, double-angle equations, locating roots and fixed-point iteration, vector equations of lines, scalar products and areas, square roots of complex numbers and loci of complex numbers, for Cambridge International AS & A Level Mathematics (9709)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 featured: false
 ---

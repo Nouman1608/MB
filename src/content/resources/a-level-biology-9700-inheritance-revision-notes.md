@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "gene-control-cambridge-alevel-biology"
 description: "Condensed Cambridge 9700 inheritance notes: meiosis stages, cross types, chi-squared steps, gene-protein links and the lac operon, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "sources-and-recording-of-data"
 description: "The double entry system of book-keeping, the business documents that trigger it, and the seven books of prime entry that feed it -- the full content of Topic 2 for Cambridge IGCSE Accounting 0452, 2027-2029 syllabus."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

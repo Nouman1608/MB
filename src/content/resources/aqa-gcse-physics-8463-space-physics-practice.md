@@ -21,6 +21,9 @@ syllabusTopics:
     subtopic: "red-shift"
 description: "Eleven original AQA GCSE Physics 8463 Space physics questions on star life cycles, orbits, satellites, red-shift and the Big Bang, with marked answers."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

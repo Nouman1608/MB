@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "biological-molecules-cambridge-alevel-biology"
 description: "Testing for biological molecules, carbohydrates and lipids, proteins, and water -- the full content of Topic 2 Biological molecules for Cambridge AS & A Level Biology 9700, 2025-2027 series."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "verification-of-accounting-records"
 description: "Exam-style questions with full worked answers on the trial balance, the six error types, suspense accounts, bank reconciliation, control accounts and digital records, for Cambridge IGCSE Accounting (0452) Topic 3, 2027-2029 syllabus."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

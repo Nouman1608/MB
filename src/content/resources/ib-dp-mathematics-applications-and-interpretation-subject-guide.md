@@ -9,6 +9,9 @@ syllabusCodes: ["DP Mathematics: Applications and Interpretation"]
 syllabusSeries: "First assessment 2021"
 description: "An overview of IB Diploma Programme Mathematics: Applications and Interpretation -- technology-driven, real-world mathematical modelling, and how it differs from Analysis and Approaches."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

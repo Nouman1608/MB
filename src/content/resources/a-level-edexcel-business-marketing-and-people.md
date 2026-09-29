@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "marketing-and-people-edexcel-alevel-business"
 description: "Meeting customer needs, the market, marketing mix and strategy, managing people, and entrepreneurs and leaders, including organisational design -- a study guide to the five content sections of Unit 1 (entry code WBS11) for Pearson Edexcel International A Level Business (YBS11/XBS11)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

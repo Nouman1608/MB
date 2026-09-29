@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "equations-formulae-and-identities-edexcel-igcse-maths"
 description: "Condensed recall notes on index notation, expanding, factorising, algebraic fractions and completing the square for Pearson Edexcel International GCSE Mathematics (4MA1), Higher Tier sub-topics 2.1-2.2."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

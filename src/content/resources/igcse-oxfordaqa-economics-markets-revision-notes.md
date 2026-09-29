@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "how-markets-work-oxfordaqa-igcse-economics"
 description: "Condensed recall notes on demand, supply, equilibrium, elasticity and market failure for OxfordAQA International GCSE Economics 9214."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

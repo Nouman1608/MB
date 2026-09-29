@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "specialised-cells-tissues-and-organs"
 description: "Original exam-style practice questions with full worked answers on cells, organelles, specialisation and levels of organisation."
 author: "saad-zai"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

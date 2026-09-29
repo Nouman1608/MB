@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "the-operation-of-markets-market-failure-and-the-role-of-government-oxfordaqa-alevel-economics"
 description: "The economic problem and methodology, how markets work, production, costs, revenue and profit, competitive and concentrated markets, and market failure and government intervention -- the full content of Topic 1 for OxfordAQA International AS and A-Level Economics (9640)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

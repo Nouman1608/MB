@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-source-based-reading-and-directed-writing-9270"
 description: "Condensed recall notes on modern-issue source reading and directed writing technique for OxfordAQA International GCSE English Language Paper 2 (9270)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

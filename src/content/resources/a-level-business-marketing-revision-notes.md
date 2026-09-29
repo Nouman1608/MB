@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "marketing-as-cambridge-alevel-business"
 description: "Condensed recall notes on market orientation and segmentation, primary/secondary research, and the marketing mix's 4Ps including the Boston Matrix, for Cambridge International AS & A Level Business (9609), Topic 3."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

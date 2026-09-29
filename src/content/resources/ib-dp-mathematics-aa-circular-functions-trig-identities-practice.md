@@ -34,6 +34,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-3-11"
 description: "12 original IB DP Maths AA trig questions on circular functions, identities and equations (3.5-3.11), with mark-by-mark worked answers."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

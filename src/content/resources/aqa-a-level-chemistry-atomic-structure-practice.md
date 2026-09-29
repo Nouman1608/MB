@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "atomic-structure-7405"
 description: "Original exam-style practice questions with full worked answers on time-of-flight mass spectrometry, electron configuration and ionisation energy for AQA A Level Chemistry 7405."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

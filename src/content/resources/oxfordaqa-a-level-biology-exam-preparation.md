@@ -11,6 +11,9 @@ syllabusSeries: "For first teaching 2016"
 order: 3
 description: "How OxfordAQA International A-Level Biology 9610's five equally weighted papers work, why the ten required practicals are examined in writing, cashable AS awards, and a worked experimental-design routine."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

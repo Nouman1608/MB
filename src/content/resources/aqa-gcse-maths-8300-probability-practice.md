@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "probability-aqa-gcse-maths"
 description: "Eleven original AQA GCSE Maths 8300 Probability questions on relative frequency, Venn and tree diagrams and conditional probability, with marked answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

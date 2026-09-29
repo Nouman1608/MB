@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "paper-2-writing-9093"
 description: "Original exam-style Section A and Section B writing briefs with model planning structures and commentary guidance for Cambridge International AS & A Level English Language (9093)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

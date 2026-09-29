@@ -39,6 +39,9 @@ syllabusTopics:
     subtopic: "trigonometry-and-pythagoras-theorem-edexcel-igcse-maths"
 description: "Condensed 4MA1 geometry and trigonometry notes: angle facts, polygons, bearings, compound measures, circle theorems and trig rules, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

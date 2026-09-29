@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "enterprise-business-growth-and-size"
 description: "Entrepreneurship and business plans, measuring business size, why some businesses grow and others stay small, and why businesses fail, for Cambridge O Level Business Studies 7115."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "control-accounts-yac11"
 description: "Using control accounts to check receivable and payable ledgers, and correcting errors that do and do not affect the trial balance, using journal entries and the suspense account -- 1.2.3-1.2.9 of Pearson Edexcel International A-Level Accounting (YAC11)."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-chemistry-reactivity-3"
 description: "Proton transfer, electron transfer, electron sharing and electron-pair sharing reactions -- Reactivity 3, the largest single component in the IB Diploma Programme Chemistry syllabus, first assessment 2025, and how it draws on the Structure strand."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

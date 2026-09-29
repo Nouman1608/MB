@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-3-16"
 description: "IB DP Maths AI HL graph theory study guide: graph terms, adjacency and transition matrices, MSTs, Chinese postman and TSP, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

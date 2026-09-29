@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-modern-texts-and-poetry-8702"
 description: "Original exam-style practice questions with full worked answers on Paper 2 of AQA GCSE English Literature (8702) -- modern texts, the poetry anthology cluster, and unseen poetry."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 ---

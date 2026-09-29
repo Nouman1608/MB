@@ -13,6 +13,9 @@ syllabusTopics:
     topic: "understanding-the-modern-world-8145"
 description: "The named period study and wider world depth study options within Paper 1 (Understanding the Modern World) of AQA GCSE History (8145), and how to approach each once your school's choices are confirmed."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

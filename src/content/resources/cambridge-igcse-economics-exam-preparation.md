@@ -11,6 +11,9 @@ syllabusSeries: "For examination in 2026"
 order: 3
 description: "How the 30/70 split between Paper 1 multiple choice and Paper 2 structured questions should shape revision for Cambridge IGCSE Economics 0455 -- question choice, timing per mark, a worked chain-of-reasoning answer and a checklist."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

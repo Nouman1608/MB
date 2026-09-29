@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "energy-changes-in-a-system"
 description: "Condensed recall notes on kinetic, elastic potential and gravitational potential energy, specific heat capacity and power for sub-topic 4.1.1 of AQA GCSE Physics (8463)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

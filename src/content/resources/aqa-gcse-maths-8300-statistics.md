@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "statistics-aqa-gcse-maths"
 description: "Study guide for AQA GCSE Maths 8300 Statistics (S1-S6): sampling, charts, averages and spread, histograms, box plots and scatter graphs."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

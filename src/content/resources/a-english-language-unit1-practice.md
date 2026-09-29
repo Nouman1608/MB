@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "unit-1-language-and-context-9670"
 description: "Original exam-style practice questions with full worked answers on audience, purpose, genre and mode, and directed writing, for OxfordAQA International AS/A-level English Language Unit 1 (9670)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

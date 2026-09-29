@@ -11,6 +11,9 @@ syllabusCodes: ["9701"]
 order: 1
 description: "9701 Chemistry grade thresholds and examiner-report notes for March, June and November 2024 and 2025, with links to Cambridge's official papers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 ---

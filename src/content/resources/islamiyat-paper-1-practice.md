@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-0493"
 description: "Original practice paper in the Cambridge IGCSE Islamiyat 0493 Paper 1 format: Question 1 on set Qur'an passages in Arabic and English, then two-part questions on the revelation of the Qur'an, the Prophet's life and his wives, with levels-based mark guidance."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

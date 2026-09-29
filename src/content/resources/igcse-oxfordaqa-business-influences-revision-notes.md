@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "influences-on-business-oxfordaqa-igcse-business"
 description: "Condensed recall notes on technology, ethics, the economic climate, globalisation, legislation and competition for OxfordAQA International GCSE Business Topic 2 (9225)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

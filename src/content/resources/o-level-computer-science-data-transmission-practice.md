@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "data-transmission-2210"
 description: "Original exam-style practice questions with full worked answers on packet structure, transmission methods, error detection and encryption, for Cambridge O-Level Computer Science (2210) Topic 2 Data Transmission."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

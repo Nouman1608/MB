@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "cell-structure-cambridge-alevel-biology"
 description: "The microscope in cell studies, and cells as the basic units of living organisms -- the full content of Topic 1 Cell structure for Cambridge AS & A Level Biology 9700, 2025-2027 series."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

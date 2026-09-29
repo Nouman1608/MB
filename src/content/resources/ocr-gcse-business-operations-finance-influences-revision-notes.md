@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "operations-finance-and-influences-on-business-ocr-gcse-business"
 description: "Condensed recall notes on production, quality, break-even, cash flow, and ethical/economic/global influences, for OCR GCSE (9-1) Business (J204), Component 02 Business 2."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

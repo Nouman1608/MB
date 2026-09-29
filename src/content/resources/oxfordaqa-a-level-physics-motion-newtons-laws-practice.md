@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "motion-along-a-straight-line-oxfordaqa"
 description: "Original exam-style practice questions with full worked answers on SUVAT equations, motion graphs, the free-fall required practical, and Newton's three laws of motion, for OxfordAQA International A-Level Physics (9630), sub-topics 3.2.3 and 3.2.5."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

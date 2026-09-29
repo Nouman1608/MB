@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-1-15"
 description: "12 original IB DP Maths AI HL questions on matrices, inverses, eigenvalues and matrix powers, with mark-by-mark worked answers."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-1-14"
 description: "Study guide to complex numbers for IB DP Maths AA HL: Cartesian, polar and Euler forms, the Argand diagram, conjugate roots and De Moivre's theorem."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

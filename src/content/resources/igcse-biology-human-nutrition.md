@@ -27,6 +27,9 @@ syllabusTopics:
     subtopic: "absorption-cambridge-igcse-biology"
 description: "Diet, the alimentary canal, physical and chemical digestion, enzymes and absorption, with the Core and Supplement split marked exactly as the official syllabus states it -- the full content of Topic 7 for Cambridge IGCSE Biology 0610, 2026-2028 series."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false

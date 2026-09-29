@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-world-history-internal-assessment"
 description: "Source selection, evaluation and synthesis for the compulsory Historical Investigation internal assessment of IB Diploma Programme History -- applicable regardless of which focused, thematic or regional study a student's class covers, first assessment 2028."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

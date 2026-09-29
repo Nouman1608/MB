@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "criminal-law-9084"
 description: "Elements of a crime, offences against property under the Theft Act 1968/1978, Criminal Damage Act 1971 and Fraud Act 2006, and sentencing in England and Wales -- Topic 2 of Cambridge International AS & A Level Law (9084), assessed on Paper 2."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "homeostasis-in-plants-cambridge-alevel-biology"
 description: "Cambridge 9700 homeostasis revision notes: nephron, ADH, glucagon signalling, insulin, biosensors and stomata, with a self-test and common mark losses."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

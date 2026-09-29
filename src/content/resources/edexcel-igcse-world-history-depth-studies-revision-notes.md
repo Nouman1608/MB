@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-depth-studies-4hi1"
 description: "Condensed recall notes on the interpretation-evaluation skill Paper 1 tests, causation, and the depth-study topics for Edexcel International GCSE History 4HI1."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-writers-viewpoints-and-perspectives-8700"
 description: "Original exam-style practice questions with full worked-approach guidance on Paper 2 reading and writing skills for AQA GCSE English Language (8700)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

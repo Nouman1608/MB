@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "writing-1123"
 description: "Condensed recall notes on Directed Writing and Composition, mark allocation, and the five writing assessment objectives for Paper 2 of Cambridge O Level English Language (1123)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

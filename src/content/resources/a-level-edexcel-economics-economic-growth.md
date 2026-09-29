@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "measures-of-economic-performance-edexcel-alevel-economics"
 description: "Real GDP and GNI, adjusting for real/nominal, total/per capita and value/volume, Purchasing Power Parities, recession, and national happiness and wellbeing -- the Economic Growth strand of Unit 2 (WEC12/01) in Pearson Edexcel International A-Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "the-causes-of-disease-pathogens-lifestyle-and-genes-oxfordaqa-alevel-biology"
 description: "How pathogens cause disease, and the lifestyle risk factors linked to coronary heart disease and cancer -- 3.2.1 of OxfordAQA International AS and A-Level Biology (9610), opening Unit 2: Biological Systems and Disease."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

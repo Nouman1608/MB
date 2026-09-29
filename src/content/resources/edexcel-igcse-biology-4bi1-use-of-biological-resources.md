@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "use-of-biological-resources-edexcel-igcse-biology"
 description: "Study guide for Edexcel IGCSE Biology 4BI1 Topic 5: crop yield, yeast and yoghurt, fermenters, selective breeding, genetic modification and cloning."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "managing-business-activities-edexcel-alevel-business"
 description: "Planning and raising finance, financial planning, managing finance, resource management, and external influences -- the full content of Unit 2 (entry code WBS12) for Pearson Edexcel International A Level Business (YBS11/XBS11)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

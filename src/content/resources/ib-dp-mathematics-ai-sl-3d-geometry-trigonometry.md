@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-3-4"
 description: "Study guide to 3D solids, sine and cosine rules, bearings, elevation and sectors for IB DP Maths AI SL and HL (sections 3.1-3.4), with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "structure-of-eukaryotic-cells-aqa-alevel-biology"
 description: "Condensed recall notes on eukaryotic organelles, prokaryotic cell structure and viruses for AQA AS and A-Level Biology (7401/7402), 3.2.1.1 and 3.2.1.2."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

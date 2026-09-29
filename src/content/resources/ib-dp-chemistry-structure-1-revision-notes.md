@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-chemistry-structure-1"
 description: "Condensed recall notes on Structure 1 -- particle theory, the nuclear atom, electron configurations, the mole and ideal gases, with the HL-only mass spectra and ionisation energy extensions -- for IB Diploma Programme Chemistry."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

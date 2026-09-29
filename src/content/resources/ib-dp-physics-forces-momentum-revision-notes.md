@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "ib-dp-physics-a-2"
 description: "Condensed SL/HL recall notes on Newton's laws, contact and field forces, momentum, impulse, collisions and circular motion, for sub-topic A.2 of IB Diploma Programme Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

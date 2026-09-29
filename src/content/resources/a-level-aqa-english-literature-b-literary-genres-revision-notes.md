@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-literary-genres-7717"
 description: "Condensed recall notes on Paper 1's genre-led structure and approach for AQA A-Level English Literature B (7717)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "automated-and-emerging-technologies-2210"
 description: "Original exam-style questions with full worked answers on automated systems, robots, expert systems and artificial intelligence, for Cambridge O Level Computer Science (2210)."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
 featured: false

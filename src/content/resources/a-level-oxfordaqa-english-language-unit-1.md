@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "unit-1-language-and-context-9670"
 description: "Understanding texts (a compulsory two-text comparison) and directed writing, with the full assessment structure, for OxfordAQA International AS and A-Level English Language (9670) Unit 1."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

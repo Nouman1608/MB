@@ -21,6 +21,9 @@ syllabusTopics:
     subtopic: "fracking-5014-2027"
 description: "Original exam-style practice questions with full worked answers on fossil fuels, energy resources, energy demand, hydrogen fuels, heat pumps, battery storage and fracking, for the 2027-2029 Cambridge O Level Environmental Management 5014 syllabus."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-21
 featured: false
 ---

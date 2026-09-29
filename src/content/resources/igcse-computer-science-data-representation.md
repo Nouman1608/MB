@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "data-representation-0478"
 description: "Binary and hexadecimal number systems, how text, sound and images are represented in binary, and data storage and compression -- the full content of Topic 1 for Cambridge IGCSE Computer Science 0478, 2026-2028 series."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

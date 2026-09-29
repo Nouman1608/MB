@@ -21,6 +21,9 @@ syllabusTopics:
     subtopic: "government-intervention-edexcel-igcse-economics"
 description: "Monopoly and oligopoly, the demand and supply of labour, and how governments intervene in markets and the labour market -- sub-topics 1.2.4-1.2.6 of Topic 2 Business Economics, Pearson Edexcel International GCSE Economics (4EC1)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 ---

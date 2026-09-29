@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "number-aqa-gcse-maths"
 description: "Condensed recall notes on indices, surds, standard form, fractions, percentages and bounds for AQA GCSE Mathematics 8300."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

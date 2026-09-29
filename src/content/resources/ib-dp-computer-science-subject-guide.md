@@ -8,6 +8,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Computer Science"]
 description: "An overview of IB Diploma Programme Computer Science -- computational thinking, algorithmic thinking and programming, and what the course aims to develop."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

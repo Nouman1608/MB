@@ -11,6 +11,9 @@ syllabusSeries: "2026"
 order: 3
 description: "How Cambridge O Level Business Studies 7115's two equally weighted papers demand different answering techniques, and a worked case-study application routine."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "thermal-physics"
 description: "Original exam-style questions with full worked answers on specific heat capacity, gas pressure and the particle model, momentum of gas particles, pressure and volume of a gas, evaporation and thermal energy transfer, for Cambridge O Level Physics (5054)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "quantitative-chemistry-8462"
 description: "Conservation of mass, relative formula mass, chemical measurements, concentration, percentage yield and atom economy, and (Higher Tier) moles, reacting masses, limiting reactants, concentrations in mol/dm3 and volumes of gases -- the full content of Topic 4.3 for AQA GCSE Chemistry (8462)."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

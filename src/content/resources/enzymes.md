@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "effects-of-temperature-and-ph"
 description: "Enzymes as biological catalysts, the lock-and-key model of enzyme specificity, and the effects of temperature and pH on enzyme activity, for Cambridge O Level Biology 5090."
 author: "saad-zai"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
 ---

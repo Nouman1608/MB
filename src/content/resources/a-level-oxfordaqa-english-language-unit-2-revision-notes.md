@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "unit-2-language-and-society-9670"
 description: "Condensed recall notes on the four social functions of language and connecting analysis to academic argument for OxfordAQA International AS/A-Level English Language Unit 2 (9670)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

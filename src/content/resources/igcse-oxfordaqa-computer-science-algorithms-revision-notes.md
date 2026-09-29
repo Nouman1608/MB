@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "algorithms-9210"
 description: "Condensed recall notes on pseudocode, flowcharts, searching, sorting, trace tables and computational thinking for OxfordAQA International GCSE Computer Science 9210."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "data-structures-7517"
 description: "Condensed recall notes on the definition of a data structure and using single- and multi-dimensional arrays, for AQA A-Level Computer Science (7517), 4.2.1.1 and 4.2.1.2."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

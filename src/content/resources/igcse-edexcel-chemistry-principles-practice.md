@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "principles-of-chemistry-4ch1"
 description: "Original exam-style practice questions with full worked answers on states of matter, atomic structure, bonding and electrolysis for Edexcel International GCSE Chemistry 4CH1."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false

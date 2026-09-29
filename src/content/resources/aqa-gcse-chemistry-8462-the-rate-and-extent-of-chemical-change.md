@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "the-rate-and-extent-of-chemical-change-8462"
 description: "AQA GCSE Chemistry 8462 rates and equilibrium taught from scratch: rate calculations, collision theory, catalysts, reversible reactions, Le Chatelier."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

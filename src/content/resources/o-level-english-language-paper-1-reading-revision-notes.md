@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "reading-1123"
 description: "Condensed recall notes on Paper 1's structure, the five reading assessment objectives, and how each question is marked, for Cambridge O Level English Language (1123), 2024-2026 series."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

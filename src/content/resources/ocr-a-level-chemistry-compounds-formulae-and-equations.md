@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-2-1-2"
 description: "Writing formulae of ionic compounds from ionic charges, recall of named polyatomic ions, and constructing balanced chemical and ionic equations with state symbols, for OCR A Level Chemistry A H432, Module 2.1.2."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

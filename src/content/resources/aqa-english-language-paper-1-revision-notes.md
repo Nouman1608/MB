@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-language-the-individual-and-society-7702"
 description: "Condensed recall notes on Paper 1 structure, textual variations, children\u2019s language development and the analytical frameworks for AQA A-Level English Language 7702."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

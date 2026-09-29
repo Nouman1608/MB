@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-4-11"
 description: "Condensed revision notes on r, rₛ, regression, χ² tests and the t-test, with a quick self-test, for IB DP Mathematics: Applications and Interpretation."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

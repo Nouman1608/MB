@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "marketing-and-marketing-strategies-ocr-alevel-business"
 description: "The marketing mix, product life cycle, Boston Matrix and Ansoff's Matrix -- one of the seven content areas of OCR A Level Business (H431), distinct from the site's existing guides to Business Objectives and Strategic Decisions and External Influences Facing Businesses."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

@@ -30,6 +30,9 @@ syllabusTopics:
     subtopic: "operations-management-aqa-aslevel-business"
 description: "How AQA AS Business (7137) is structured, how it relates to full A-level Business, and how to approach its two-unit, two-paper assessment."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-25
 featured: false
 ---

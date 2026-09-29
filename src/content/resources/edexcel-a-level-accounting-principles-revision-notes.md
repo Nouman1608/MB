@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "principles-of-accounting-and-double-entry-bookkeeping"
 description: "Condensed recall notes on the accounting equation, concepts, adjustments, control accounts, with bank reconciliation as supporting background, for Edexcel A Level Accounting."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

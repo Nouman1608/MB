@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-3-6"
 description: "Study guide to perpendicular bisectors and Voronoi diagrams for IB DP Maths AI SL and HL (sections 3.5-3.6), with fully worked examples."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

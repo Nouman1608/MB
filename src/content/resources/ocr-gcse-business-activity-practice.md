@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "business-activity-marketing-and-people-ocr-gcse-business"
 description: "Original exam-style practice questions with full worked answers on enterprise, ownership, the marketing mix, market research and people, with a 15-question multiple-choice Section A in the OCR GCSE Business (J204/01) format."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

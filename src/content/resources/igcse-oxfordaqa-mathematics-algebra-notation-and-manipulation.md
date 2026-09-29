@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "notation-and-manipulation-oxfordaqa-igcse-maths"
 description: "Generalised expressions, formulae, expanding and factorising, index laws and algebraic fractions -- sub-topic 3.2.1 Notation and Manipulation, the opening sub-topic of Algebra in OxfordAQA International GCSE Mathematics (9260)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

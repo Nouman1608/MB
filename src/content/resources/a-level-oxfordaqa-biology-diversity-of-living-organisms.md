@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "the-diversity-of-living-organisms-oxfordaqa-alevel-biology"
 description: "Species and taxonomy, biodiversity within a community and random sampling in investigations of variation, from Unit 1 of OxfordAQA International AS & A-Level Biology (9610), the first of two units forming the International AS."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

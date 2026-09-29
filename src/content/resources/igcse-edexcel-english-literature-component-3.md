@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "assignment-b-literary-heritage-texts-4et1"
 description: "The coursework alternative to Component 2 -- teacher-devised, internally assessed assignments on a modern drama text and a literary heritage text, for Pearson Edexcel International GCSE English Literature (4ET1)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 ---

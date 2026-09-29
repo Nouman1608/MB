@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "enzymes-cambridge-alevel-biology"
 description: "Original exam-style practice questions with full worked answers on enzyme mode of action, factors affecting rate, Michaelis-Menten kinetics, inhibitors and immobilised enzymes, for Topic 3 of Cambridge International AS & A Level Biology (9700)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "marketing-oxfordaqa-alevel-business"
 description: "Marketing objectives and plans, marketing data, segmentation and targeting, and the marketing mix -- Topic 2 of OxfordAQA International AS & A-Level Business, primarily 9625 with 9725 divergences flagged."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

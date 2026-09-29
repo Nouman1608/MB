@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "unit-1-post-2000-poetry-and-prose-yet01"
 description: "Contemporary poetry and prose published since 2000 -- Unit 1 of Pearson Edexcel International Advanced Level English Literature (YET01), the first of two units forming the International AS."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "statistics-ocr-alevel-maths"
 description: "Original exam-style practice questions with full worked answers on sampling, probability, the binomial and normal distributions, and hypothesis testing, for OCR A Level Mathematics A (H240)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 ---

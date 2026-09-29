@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-3-4"
 description: "12 original IB DP Maths AA practice questions on 3D solids, sine and cosine rules, bearings, arcs and sectors (3.1–3.4), with fully worked mark schemes."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

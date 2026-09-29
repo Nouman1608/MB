@@ -11,6 +11,9 @@ syllabusSeries: "First assessment 2024"
 order: 2
 description: "The five units of the IB Diploma Programme Business Management syllabus -- Introduction to business management, Human resource management, Finance and accounts, Marketing, and Operations management -- with HL-only sub-topics marked, for first assessment 2024."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

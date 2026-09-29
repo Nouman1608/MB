@@ -11,6 +11,9 @@ syllabusSeries: "First teaching 2017, first examined 2019"
 order: 3
 description: "How to prepare for OxfordAQA International GCSE Computer Science 9210's on-screen Paper 1 built on a pre-released skeleton program, the May/June-only series change, and a worked incremental-coding routine."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

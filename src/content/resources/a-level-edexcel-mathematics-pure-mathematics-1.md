@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "unit-p1-pure-mathematics-1-edexcel-alevel-maths"
 description: "Algebra and functions, coordinate geometry, trigonometry, differentiation and integration -- the full content of Unit P1 for Pearson Edexcel International A Level Mathematics (YMA01)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

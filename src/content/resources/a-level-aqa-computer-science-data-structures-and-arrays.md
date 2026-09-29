@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "data-structures-7517"
 description: "The concept of a data structure, and the use of single- and multi-dimensional arrays to solve simple problems -- 4.2.1.1 and 4.2.1.2 of AQA A-Level Computer Science (7517)."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

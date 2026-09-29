@@ -34,6 +34,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-3-18"
 description: "Learn IB DP Maths AA HL vectors from scratch: scalar and vector products, lines, planes, intersections and angles, with fully worked examples."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

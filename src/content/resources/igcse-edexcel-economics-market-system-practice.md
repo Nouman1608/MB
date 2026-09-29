@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "the-market-system-edexcel-igcse-economics"
 description: "Original exam-style practice questions with full worked answers on demand, supply, elasticity, market failure and government intervention, built as four compulsory questions with mixed sub-question types, matching the specification's paper structure."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

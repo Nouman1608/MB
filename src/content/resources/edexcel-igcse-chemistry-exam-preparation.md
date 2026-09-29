@@ -11,6 +11,9 @@ syllabusSeries: "For first teaching 2017"
 order: 3
 description: "Why Paper 2 of Pearson Edexcel IGCSE Chemistry 4CH1 assesses bold-referenced content that Paper 1 does not, how the 61/39 weighting should shape revision, and a worked calculation-marks routine."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

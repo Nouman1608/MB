@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "non-exam-assessment-theory-and-independence-7717"
 description: "Original exam-technique practice questions with full worked answers on Component 3's requirements, text-selection rules and assessment structure for AQA A-Level English Literature B (7717)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

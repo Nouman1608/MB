@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "types-of-business-organisation"
 description: "Condensed recall notes on sole traders, partnerships, private and public limited companies, their reporting implications and sources of finance for AQA A-Level Accounting (7127), 3.2."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

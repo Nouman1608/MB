@@ -11,6 +11,9 @@ syllabusSeries: "First assessed 2017"
 order: 3
 description: "How AQA GCSE English Language 8700's two papers each split evenly between Reading and Writing marks, and a worked timing-allocation routine."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

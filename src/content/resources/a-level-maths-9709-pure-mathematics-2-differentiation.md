@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "differentiation-cambridge-alevel-maths-2"
 description: "Study guide for Cambridge 9709 Pure Mathematics 2 section 2.4: derivatives of eˣ, ln x and trig, product and quotient rules, parametric and implicit."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 ---

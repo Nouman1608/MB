@@ -27,6 +27,9 @@ syllabusTopics:
     subtopic: "conservation-cambridge-igcse-biology"
 description: "Condensed revision notes for 0610 Human influences on ecosystems: food supply, deforestation, pollution, eutrophication steps, conservation and self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

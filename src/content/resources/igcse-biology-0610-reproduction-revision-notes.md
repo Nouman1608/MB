@@ -33,6 +33,9 @@ syllabusTopics:
     subtopic: "sexually-transmitted-infections-cambridge-igcse-biology"
 description: "Condensed Cambridge IGCSE Biology 0610 reproduction notes: flowers, gametes, the menstrual cycle, hormones and STIs, with a self-test and answers."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

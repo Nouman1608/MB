@@ -27,6 +27,9 @@ syllabusTopics:
     subtopic: "populations-cambridge-igcse-biology"
 description: "Original practice questions with mark-by-mark answers on food webs, energy transfer, carbon and nitrogen cycles and populations for IGCSE Biology 0610."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

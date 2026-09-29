@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "numerical-solution-of-equations-cambridge-2"
 description: "Study guide for Cambridge 9709 Pure Mathematics 2 section 2.6: locating roots by sign change and using iterative formulae, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 ---

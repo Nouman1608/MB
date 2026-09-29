@@ -30,6 +30,9 @@ syllabusTopics:
     subtopic: "pressure-cambridge-igcse-physics"
 description: "Original exam-style questions with full worked answers on the resultant of two vectors at right angles, impulse and force as rate of change of momentum, conservation of momentum, kinetic and gravitational potential energy, pressure in a liquid and deceleration with F = ma, for Cambridge IGCSE Physics (0625) Extended candidates."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

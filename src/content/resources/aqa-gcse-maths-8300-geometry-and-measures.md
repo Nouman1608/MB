@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "geometry-and-measures-aqa-gcse-maths"
 description: "AQA GCSE Maths 8300 geometry and measures study guide (G1-G25): angles, constructions, circles, mensuration, trig and vectors, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

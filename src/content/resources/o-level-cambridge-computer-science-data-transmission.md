@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "data-transmission-2210"
 description: "How data is packaged into packets and sent between devices, the transmission methods and USB interface, error-detection techniques, and symmetric versus asymmetric encryption, for Cambridge O-Level Computer Science 2210."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

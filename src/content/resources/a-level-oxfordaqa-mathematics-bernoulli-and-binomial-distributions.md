@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "s1-bernoulli-and-binomial-distributions-oxfordaqa-alevel-maths"
 description: "Conditions for a Bernoulli distribution, deriving its mean and variance, and building the binomial distribution as a sum of independent Bernoulli trials -- S1.3 of OxfordAQA International AS and A-Level Mathematics (9660)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

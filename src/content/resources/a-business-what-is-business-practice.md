@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "what-is-business-oxfordaqa-alevel-business"
 description: "Original practice paper in the section layout of the 9625 International AS Unit 1 paper (Sections A, B and C of 17, 27 and 36 marks), with worked answers on business objectives, ownership, entrepreneurs and the external environment, primarily 9625 with second-year and off-topic questions flagged."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

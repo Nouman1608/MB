@@ -11,6 +11,9 @@ syllabusSeries: "For first teaching 2018"
 order: 3
 description: "The unit weightings of Edexcel IAL Chemistry YCH11, why Units 3 and 6 are written practical papers, the 20% minimum mathematics demand, and a worked routine for organic mechanism questions."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

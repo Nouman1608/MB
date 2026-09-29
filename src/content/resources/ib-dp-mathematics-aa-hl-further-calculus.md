@@ -37,6 +37,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-5-19"
 description: "Learn IB DP Maths AA HL further calculus from scratch: limits, l'Hôpital, further integration, differential equations and Maclaurin series."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

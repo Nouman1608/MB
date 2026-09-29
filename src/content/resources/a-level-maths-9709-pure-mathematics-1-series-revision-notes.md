@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "series-cambridge-alevel-maths"
 description: "Revision notes for Cambridge 9709 Paper 1 Series: binomial terms, AP and GP formulae, convergence and a quick self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 ---

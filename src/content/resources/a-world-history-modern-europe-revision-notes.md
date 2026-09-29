@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "european-option-modern-europe-9489"
 description: "Condensed recall notes on the French Revolution, Napoleon, German unification, and Russia from autocracy to revolution for Cambridge AS & A Level History 9489, 2027-2029 series."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

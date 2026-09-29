@@ -11,6 +11,9 @@ syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 3
 description: "How OCR A Level Economics H460's three equal components work, why Component 03 applies micro and macro content to an unseen theme, and a worked routine for transferring theory to unfamiliar material."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

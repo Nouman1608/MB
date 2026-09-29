@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "the-gas-exchange-system-cambridge-alevel-biology"
 description: "Quick-recall notes on airway tissues, their functions, plan diagrams and alveolar gas exchange, with a self-test, for Cambridge 9700 AS Level Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

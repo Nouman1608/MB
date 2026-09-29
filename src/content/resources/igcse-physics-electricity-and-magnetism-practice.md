@@ -27,6 +27,9 @@ syllabusTopics:
     subtopic: "electromagnetic-effects-cambridge-igcse-physics"
 description: "Original exam-style practice questions with full worked answers on charge, current, resistance, series and parallel circuits, electrical energy and magnetism for Cambridge IGCSE Physics (0625) Topic 4."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
 featured: false

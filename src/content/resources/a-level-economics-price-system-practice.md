@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "the-price-system-and-the-microeconomy-as-cambridge-alevel-economics"
 description: "Original exam-style practice questions with full worked answers on demand and supply, elasticity, market equilibrium and consumer/producer surplus, for Cambridge AS & A Level Economics (9708) Topic 2."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

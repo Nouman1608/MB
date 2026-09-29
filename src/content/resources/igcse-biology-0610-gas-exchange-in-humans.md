@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "gas-exchange-in-humans-cambridge-igcse-biology"
 description: "Gas exchange surfaces, the breathing system, ventilation, inspired and expired air and breathing in exercise, taught for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

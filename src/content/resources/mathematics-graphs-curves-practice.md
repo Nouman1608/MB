@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "sketching-curves"
 description: "Original exam-style practice questions with full worked answers on graph sketching and graphical solutions for Cambridge O Level Mathematics."
 author: "muhammad-ghazali-siddiqui"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

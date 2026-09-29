@@ -11,6 +11,9 @@ syllabusSeries: "First assessment 2022"
 order: 5
 description: "Paper-by-paper exam preparation for IB Diploma Programme Economics -- diagram practice, evaluation-writing strategy, HL Paper 3's policy focus, a worked scenario and a before/during-exam checklist."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

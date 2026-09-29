@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "physical-chemistry-4ch1"
 description: "Condensed revision notes and a self-test on energetics, rates of reaction and equilibria for Edexcel International GCSE Chemistry 4CH1 Topic 3."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

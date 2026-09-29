@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "ratio-proportion-and-rates-of-change-aqa-gcse"
 description: "Condensed AQA GCSE Maths 8300 revision notes for ratio, proportion and rates of change (R1-R16): units, percentages, proportion, growth and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

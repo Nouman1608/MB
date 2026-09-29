@@ -10,6 +10,9 @@ syllabusCodes: ["DP Computer Science"]
 order: 1
 description: "Paper-by-paper exam preparation for IB Diploma Programme Computer Science -- how to use the pre-seen Paper 1 case study, programming practice in Java or Python for Paper 2, a worked scenario and a before/during-exam checklist."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

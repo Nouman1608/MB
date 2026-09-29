@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "foundations-of-physics-ocr-alevel"
 description: "Condensed recall notes on physical quantities and SI units, uncertainty handling, and scalars and vectors for OCR A Level Physics A (H556), Module 2."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

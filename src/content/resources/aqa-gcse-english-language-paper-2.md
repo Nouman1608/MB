@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-writers-viewpoints-and-perspectives-8700"
 description: "Reading two non-fiction texts on a shared topic and writing to present a viewpoint -- the full structure of Paper 2, Writers' Viewpoints and Perspectives, for AQA GCSE English Language (8700)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

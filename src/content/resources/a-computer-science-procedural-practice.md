@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "procedural-programming"
 description: "Original exam-style practice questions with full worked answers on algorithms, searching, sorting, complexity and modular design."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

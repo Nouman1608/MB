@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "using-resources-8462"
 description: "Twelve original AQA GCSE Chemistry 8462 Using resources questions on water, LCAs, corrosion, alloys, polymers, Haber and NPK, with full mark schemes."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

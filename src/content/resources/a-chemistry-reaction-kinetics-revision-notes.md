@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "a-homogeneous-and-heterogeneous-catalysts"
 description: "Condensed recall notes on rate equations, orders of reaction, rate constants and their units, initial rates and half-life methods, mechanisms and rate-determining steps, and homogeneous and heterogeneous catalysis for Cambridge A Level Chemistry 9701 (2025-2027)."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

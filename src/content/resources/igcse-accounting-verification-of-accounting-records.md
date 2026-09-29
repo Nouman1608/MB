@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "verification-of-accounting-records"
 description: "The trial balance, correction of errors, bank reconciliation and control accounts -- the four checking mechanisms of Topic 3 for Cambridge IGCSE Accounting 0452, 2027-2029 syllabus."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

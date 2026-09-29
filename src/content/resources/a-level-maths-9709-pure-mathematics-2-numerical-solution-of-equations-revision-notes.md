@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "numerical-solution-of-equations-cambridge-2"
 description: "Revision notes for Cambridge 9709 Paper 2 section 2.6: sign-change method, iteration steps, exact limits, a quick self-test and where marks are lost."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 ---

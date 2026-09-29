@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "accounting-for-non-current-assets"
 description: "Capital versus revenue expenditure, depreciation methods, the cost and revaluation models, and accounting for disposal of non-current assets, for Cambridge AS & A Level Accounting 9706."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

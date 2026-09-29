@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "integration-cambridge-alevel-maths-1"
 description: "11 original Cambridge 9709 Paper 1 integration questions with mark-by-mark answers: definite and improper integrals, areas and volumes of revolution."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 ---

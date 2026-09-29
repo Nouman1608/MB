@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "prescribed-literary-texts-and-films-9ur0"
 description: "Condensed recall notes on translation into Urdu, the prescribed literary texts and films, and the works-response mark scheme for Pearson Edexcel A-Level Urdu (9UR0) Paper 2."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

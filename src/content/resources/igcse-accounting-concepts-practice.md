@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "accounting-concepts-and-modern-practice"
 description: "Exam-style questions with full worked answers on the ten accounting concepts, the five fundamental ethical principles, digital records and the four types of data storage, including a 20-mark structured question, for Cambridge IGCSE Accounting (0452) Topic 7, 2027-2029 syllabus."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-16
 featured: false
 ---

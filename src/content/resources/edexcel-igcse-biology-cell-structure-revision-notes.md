@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "cell-structure-4bi1"
 description: "Condensed revision notes on cell structures and functions, plant vs animal cells, and the three major biological molecules for Pearson Edexcel International GCSE Biology (4BI1)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

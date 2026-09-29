@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "evolution-cambridge-alevel-biology"
 description: "Study guide for Cambridge 9700 A Level Biology topic 17: variation, the t-test, natural and artificial selection, Hardy-Weinberg and speciation."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

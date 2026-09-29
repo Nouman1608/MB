@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "the-measurement-of-macroeconomic-performance-aqa-alevel-economics"
 description: "Original exam-style practice questions with full worked answers on government macroeconomic policy objectives, macroeconomic indicators, index numbers and the uses of national income data for AQA A-Level Economics (7136), 3.2.1. AS Economics (7135) has 3.2.1.1-3.2.1.3; questions 10 and 11 (uses of national income data, 3.2.1.4) are A-level only."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 ---

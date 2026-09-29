@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "protein-synthesis-cambridge-alevel-biology"
 description: "Study guide to nucleotides, DNA structure, semi-conservative replication, transcription, translation and mutation for Cambridge 9700 AS Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

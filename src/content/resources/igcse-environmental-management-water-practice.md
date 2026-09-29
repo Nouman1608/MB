@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "water-0680"
 description: "Original exam-style practice questions with full worked answers on the water cycle, water pollution, water-related diseases and marine aquaculture, for Cambridge IGCSE Environmental Management (0680) Topic 3 Water."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

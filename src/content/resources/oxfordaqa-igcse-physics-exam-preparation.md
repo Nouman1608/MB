@@ -11,6 +11,9 @@ syllabusSeries: "First teaching 2016, first examined 2018"
 order: 3
 description: "Why either OxfordAQA International GCSE Physics 9203 paper can assess any topic, the unit and rearrangement discipline that protects marks, graph work, and a worked substitution routine."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

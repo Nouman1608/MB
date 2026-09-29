@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "interest-rates-saving-borrowing-spending-investment-aqa-gcse-economics"
 description: "How interest rates affect consumer and producer decisions, and UK government revenue, spending, and direct versus indirect taxation -- 3.2.1.1 and 3.2.1.2 of AQA GCSE Economics (8136), opening Paper 2: How the Economy Works."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

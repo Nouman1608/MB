@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "accounting-procedures"
 description: "Condensed recall notes on capital and revenue items, depreciation methods and disposals, accruals and prepayments, irrecoverable debts and the allowance, and inventory at the lower of cost and net realisable value, for Cambridge IGCSE Accounting (0452) Topic 4, 2027-2029 syllabus."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-16
 featured: false
 ---

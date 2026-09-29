@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-0493"
 description: "The rule, achievements and significance of Abu Bakr, Umar, Uthman and Ali as leaders -- Subtopic 2.3, the Rightly Guided Caliphs, given a full deep dive beyond the bullet-point summary in the site's existing whole-Paper-2 study guide."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

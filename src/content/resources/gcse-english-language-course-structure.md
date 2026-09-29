@@ -10,6 +10,9 @@ syllabusSeries: "For first teaching 2015"
 order: 1
 description: "How AQA GCSE English Language (8700) is structured — its two papers, the spoken language endorsement, and the skills each part assesses."
 author: "lubna-waseem"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
 ---

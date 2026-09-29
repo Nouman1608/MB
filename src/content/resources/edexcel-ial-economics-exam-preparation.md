@@ -11,6 +11,9 @@ syllabusSeries: "Specification Issue 2"
 order: 3
 description: "The exact question-type breakdown of each Edexcel IAL Economics YEC11 unit -- 6 marks of multiple choice, a 34-mark data response, and essays -- plus how the AS and A2 units differ and a worked essay routine."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

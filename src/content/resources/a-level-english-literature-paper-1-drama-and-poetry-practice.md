@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "paper-1-drama-and-poetry-9695"
 description: "Original exam-style practice questions with full worked answers on Paper 1's structure, and passage-based commentary practice using original drama and poetry extracts."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-25
 featured: false
 ---

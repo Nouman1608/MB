@@ -13,6 +13,9 @@ syllabusTopics:
     topic: "understanding-the-modern-world-8145"
 description: "Condensed recall notes on Paper 1's period study and wider world depth study options, and the causation/change skills both test, for AQA GCSE History (8145)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

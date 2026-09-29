@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "biological-molecules-cambridge-alevel-biology"
 description: "Condensed revision notes on biochemical tests, carbohydrates and lipids, proteins, and water for Cambridge AS & A Level Biology Topic 2 (9700)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-mathematics-applications-and-interpretation-geometry-and-trigonometry"
 description: "Original practice questions with full worked answers on triangle trigonometry, bearings, compound solids and HL vector intersection, for the Geometry and Trigonometry strand of IB Diploma Programme Mathematics: Applications and Interpretation."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

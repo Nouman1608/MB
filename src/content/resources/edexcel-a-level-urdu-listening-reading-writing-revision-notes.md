@@ -11,6 +11,9 @@ syllabusSeries: "2018"
 order: 4
 description: "Condensed recall notes on Paper 3's two-section structure, timing and technique for Pearson Edexcel GCE A-Level Urdu (9UR0)."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

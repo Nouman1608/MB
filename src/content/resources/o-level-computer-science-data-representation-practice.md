@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "data-representation-2210"
 description: "Original exam-style practice questions with full worked answers on number bases, binary arithmetic, character sets and data storage."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

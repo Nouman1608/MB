@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "general-elements-of-liability-7162"
 description: "Original exam-style practice questions with full worked answers on actus reus, mens rea, causation, transferred malice and strict liability for AQA A-Level Law (7162), General Elements of Liability."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 ---

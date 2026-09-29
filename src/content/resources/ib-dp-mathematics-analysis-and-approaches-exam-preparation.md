@@ -11,6 +11,9 @@ syllabusSeries: "First assessment 2021"
 order: 5
 description: "Paper-by-paper exam preparation for IB DP Mathematics: Analysis and Approaches -- building genuine by-hand fluency for Paper 1, showing full working on 'show that' questions, HL Paper 3 strategy, a worked derivative proof and a checklist."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

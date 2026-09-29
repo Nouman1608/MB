@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "people-in-business"
 description: "Original exam-style practice questions with full worked answers on motivation theory, organisational structure, leadership styles, recruitment, training and communication."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

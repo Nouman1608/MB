@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "molecules-transport-and-health-edexcel-alevel-biology"
 description: "Condensed recall notes on biological molecules, the circulatory system, atherosclerosis and cardiovascular risk for Pearson Edexcel International A-Level Biology (YBI11)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

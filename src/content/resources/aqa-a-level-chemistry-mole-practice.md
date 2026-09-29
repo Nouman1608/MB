@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "relative-atomic-mass-and-relative-molecular-mass-7405"
 description: "Original exam-style practice questions with full worked answers on relative atomic/molecular mass, the mole, the Avogadro constant and mole calculations for AQA A-Level Chemistry (7405), 3.1.2.1-3.1.2.2."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 ---

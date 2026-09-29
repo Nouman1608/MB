@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "the-price-system-and-the-microeconomy-a-cambridge-alevel-economics"
 description: "Original exam-style questions with full worked answers on marginal utility, internal economies of scale, minimum efficient scale, supernormal profit in perfect competition and monopoly, and allocative and productive efficiency, for Cambridge International AS & A Level Economics (9708)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "rocks-and-minerals-and-their-exploitation-5014"
 description: "Rock formation, extraction and sustainable use -- the opening topic of Cambridge O Level Environmental Management (5014), a nine-topic syllabus sharing content with sibling IGCSE 0680."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

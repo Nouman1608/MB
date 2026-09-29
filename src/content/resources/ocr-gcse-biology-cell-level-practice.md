@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "cell-level-systems-ocr-gcse-biology"
 description: "Original exam-style practice questions with full worked answers on cell structure, enzymes, respiration and photosynthesis for OCR GCSE Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

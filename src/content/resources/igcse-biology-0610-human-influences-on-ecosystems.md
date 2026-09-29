@@ -27,6 +27,9 @@ syllabusTopics:
     subtopic: "conservation-cambridge-igcse-biology"
 description: "Study guide for Cambridge IGCSE Biology 0610 topic 20: food production, habitat destruction, pollution, eutrophication and conservation, with examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

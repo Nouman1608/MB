@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "people-in-business-cambridge-igcse-business"
 description: "Motivation theory and methods, organisational structure and leadership styles, recruitment and training, and internal/external communication -- the full content of Topic 2 for Cambridge IGCSE Business Studies 0450, 2026 series."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-31
 featured: false
 ---

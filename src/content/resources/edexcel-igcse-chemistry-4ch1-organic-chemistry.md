@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "organic-chemistry-4ch1"
 description: "Study guide for Edexcel International GCSE Chemistry 4CH1 Topic 4: crude oil, alkanes, alkenes, alcohols, acids, esters and polymers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

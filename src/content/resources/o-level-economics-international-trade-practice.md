@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "international-trade-and-globalisation"
 description: "Original exam-style questions with full worked answers on calculating the current account balance, remittances as secondary income, how an appreciation changes export and import prices, total demand and the economy, and the effects of multinational companies, for Cambridge O Level Economics (2281)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

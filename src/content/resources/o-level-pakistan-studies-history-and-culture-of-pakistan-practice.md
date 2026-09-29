@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-history-culture-2059"
 description: "A full original practice paper for Paper 1 of Cambridge O Level Pakistan Studies (2059), 2026 series: a source-based Section A question and four Section B questions in 4, 7 and 14-mark parts, with levels-based mark schemes."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 ---

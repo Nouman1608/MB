@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "circular-measure-cambridge-alevel-maths"
 description: "Radians, arc length, sector area, segments and tangent problems taught step by step with worked examples, for Cambridge 9709 Pure Mathematics 1."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 ---

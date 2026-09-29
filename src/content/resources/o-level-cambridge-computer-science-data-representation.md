@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "data-representation-2210"
 description: "Number systems, binary, and data storage -- the opening topic of Cambridge O-Level Computer Science (2210), which shares its ten-topic structure with sibling syllabus 0478."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

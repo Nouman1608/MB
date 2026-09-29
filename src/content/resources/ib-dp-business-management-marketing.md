@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-business-unit-4"
 description: "Marketing planning, sales forecasting, market research, the seven Ps of the marketing mix, and international marketing -- IB Diploma Programme Business Management Unit 4, tied with Unit 3 as the largest unit at SL (30 hours) and 35 hours at HL."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

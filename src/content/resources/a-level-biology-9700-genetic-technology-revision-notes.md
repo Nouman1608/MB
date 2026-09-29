@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "genetically-modified-organisms-in-agriculture-cambridge"
 description: "Condensed Cambridge 9700 genetic technology notes: gene transfer tools, PCR, electrophoresis, microarrays, medicine and GM crops, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

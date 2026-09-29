@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-4-19"
 description: "IB Maths AI HL study guide: data collection, reliability and validity, non-linear regression and R², hypothesis tests, Type I/II errors, Markov chains."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-business-unit-3"
 description: "The nine sub-topics of IB Diploma Programme Business Management Unit 3 -- sources of finance, costs and revenues, final accounts, ratio analysis, cash flow and investment appraisal -- and how to approach the unit's calculation-heavy content."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

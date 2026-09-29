@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "movement-into-and-out-of-cells-cambridge-alevel"
 description: "Study guide for Cambridge 9700 topic 4: the fluid mosaic model, cell signalling, diffusion, osmosis, active transport and SA:V, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

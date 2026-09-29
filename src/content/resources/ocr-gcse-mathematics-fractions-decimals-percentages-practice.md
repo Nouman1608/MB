@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "fractions-decimals-and-percentages-ocr-gcse-maths"
 description: "Original exam-style practice questions with full worked answers on fraction arithmetic, percentage change, reverse percentages, compound growth and ordering, for OCR GCSE (9-1) Mathematics (J560)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 ---

@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "transport-mechanisms-cambridge-alevel-biology"
 description: "Condensed notes on xylem, phloem, apoplast and symplast, transpiration, xerophytes and mass flow, with a self-test, for Cambridge 9700 AS Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

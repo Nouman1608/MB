@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-international-relations-depth-studies-9245"
 description: "Condensed recall notes on the peace treaties, the League of Nations, the origins of the Second World War and the Cold War for International GCSE History."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "business-and-its-environment-as-cambridge-alevel-business"
 description: "Enterprise, business structure, size of business, business objectives and stakeholders -- the full content of Topic 1 Business and its environment for Cambridge AS & A Level Business 9609, 2026-2028 series."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

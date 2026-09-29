@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "people-in-business-cambridge-igcse-business"
 description: "Original exam-style practice questions with full worked answers on motivation, organisation and management, recruitment and training, and communication, for Cambridge IGCSE Business Studies (0450) Topic 2 People in Business."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

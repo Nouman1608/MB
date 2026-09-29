@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "theme-3-study-employment-9264"
 description: "Original exam-style practice questions with full worked answers on studies, school life, post-16 options and jobs/careers for OxfordAQA International GCSE Urdu Theme 3 (9264)."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

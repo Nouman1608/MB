@@ -11,6 +11,9 @@ syllabusSeries: "Version 3.1 (May 2026), for first assessment in 2017"
 order: 3
 description: "How OCR A Level Chemistry H432's 37/37/26 papers divide the specification, why Paper 3 is unified across all modules, where the Practical Endorsement sits, and a worked multi-step calculation routine."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

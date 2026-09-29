@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "theme-1-identity-culture-9264"
 description: "Condensed recall notes on vocabulary, tenses, sentence structure and exam technique for International GCSE Urdu."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-explorations-in-creative-reading-and-writing-8700"
 description: "Condensed recall notes on the reading and writing skills tested in Paper 1 of AQA GCSE English Language (8700)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 ---

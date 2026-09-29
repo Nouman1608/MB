@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "communication"
 description: "Condensed revision notes on networks, topologies, cloud computing, wired/wireless media, Ethernet, IP addressing and DNS for Cambridge AS & A Level Computer Science Topic 2 (9618)."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

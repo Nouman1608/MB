@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "waves"
 description: "Original exam-style questions with full worked answers on sound as a longitudinal wave, frequency and period, loudness and pitch, diffraction, echoes, refraction of light and total internal reflection, for Cambridge O Level Physics (5054)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 featured: false
 ---

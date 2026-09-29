@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "the-role-of-markets-and-money-ocr-gcse-economics"
 description: "Original exam-style practice questions with full worked answers on demand and supply, equilibrium, elasticity, competition, the labour market and the role of money, for OCR GCSE (9-1) Economics (J205)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 ---

@@ -34,6 +34,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-5-8"
 description: "Condensed IB DP Maths AA differentiation revision notes: derivative rules table, tangent and stationary point methods, and a 12-question self-test."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

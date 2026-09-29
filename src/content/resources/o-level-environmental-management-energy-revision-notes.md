@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "energy-and-the-environment-5014"
 description: "Condensed recall notes on fossil fuel formation, renewable and non-renewable resources, energy demand, conservation and oil pollution for Cambridge O Level Environmental Management (5014), 2025-2026 series."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

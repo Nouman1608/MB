@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "probability-edexcel-igcse-maths"
 description: "Twelve original Edexcel IGCSE Maths 4MA1 statistics and probability questions, Foundation and Higher, with fully worked mark-by-mark answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

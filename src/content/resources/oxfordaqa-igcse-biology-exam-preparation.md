@@ -11,6 +11,9 @@ syllabusSeries: "First teaching 2016, first examined 2018"
 order: 3
 description: "Why either OxfordAQA International GCSE Biology 9201 paper can assess any part of the specification, how practical knowledge is examined without a practical exam, and a worked unfamiliar-organism routine."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

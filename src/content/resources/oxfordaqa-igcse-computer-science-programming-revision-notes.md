@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "programming-9210"
 description: "Condensed recall notes on data types, sequence/iteration/selection, and arithmetic, relational and Boolean operators for OxfordAQA International GCSE Computer Science (9210), sections 3.2.1-3.2.5."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

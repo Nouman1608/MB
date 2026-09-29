@@ -21,6 +21,9 @@ syllabusTopics:
     subtopic: "active-transport-cambridge-igcse-biology"
 description: "Condensed recall notes on diffusion, osmosis and active transport, with the Core/Supplement split, for Cambridge IGCSE Biology (0610)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 updatedDate: 2026-09-27
 featured: false

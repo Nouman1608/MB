@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "paper-3-shakespeare-and-drama-9695"
 description: "Original exam-technique practice questions with full worked answers on Paper 3's format, the fifth assessment objective AO5, and how Paper 3 differs from the AS Level papers, for Cambridge International A Level Literature in English (9695)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 ---

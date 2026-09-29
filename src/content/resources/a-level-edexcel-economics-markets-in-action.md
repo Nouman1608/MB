@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "markets-in-action-edexcel-alevel-economics"
 description: "Introductory concepts, consumer behaviour and demand, supply, price determination, market failure, and government intervention in markets -- a syllabus map and study guide for Unit 1 Markets in action (WEC11/01) for Pearson Edexcel International A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

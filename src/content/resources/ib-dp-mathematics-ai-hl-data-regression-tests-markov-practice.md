@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-4-19"
 description: "12 original IB Maths AI HL questions on survey design, χ² tests, regression, hypothesis tests and Markov chains, with mark-by-mark worked answers."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

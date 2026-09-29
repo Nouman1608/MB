@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "infectious-diseases-cambridge-alevel-biology"
 description: "Original exam-style questions with full worked answers on naming pathogens, HIV/AIDS and anti-retroviral therapy, how penicillin works, the spread of tuberculosis and antibiotic resistance, for Cambridge International AS & A Level Biology (9700)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

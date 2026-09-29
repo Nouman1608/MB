@@ -11,6 +11,9 @@ syllabusSeries: "Specification Issue 4, November 2021"
 order: 3
 description: "Why Edexcel IAL Law YLA1 is linear rather than modular, what sitting two 3-hour papers in one June series demands, how Paper 2's synoptic content works, and a worked application routine."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

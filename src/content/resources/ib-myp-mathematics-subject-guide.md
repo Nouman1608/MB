@@ -8,6 +8,9 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Mathematics"]
 description: "An overview of IB Middle Years Programme Mathematics -- four branches of mathematical study, and its emphasis on inquiry and application for ages 11-16."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-studies-in-change-9245"
 description: "Societies in change (Germany, Russia and the USSR, or the USA) and thematic studies in technology or medicine -- the full paper structure of Paper 2 for OxfordAQA International GCSE History (9245), a new qualification for teaching from September 2026."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

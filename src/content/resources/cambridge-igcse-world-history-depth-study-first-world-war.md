@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "depth-studies-0470"
 description: "The Western Front, the wider war and Germany's defeat, with the causes of the war as background -- Depth Study A: The First World War, 1914-18, distinct from the site's existing guides to the Nineteenth and Twentieth Century core content options."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

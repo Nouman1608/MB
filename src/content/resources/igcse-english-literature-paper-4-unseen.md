@@ -15,6 +15,9 @@ syllabusTopics:
 description: "How Paper 4 Unseen is assessed in Cambridge IGCSE Literature in English 0475: the 1 hour 15 minute critical-commentary format, the choice between an unseen poem and an unseen prose extract, the 20-minute planning guidance, and how to build transferable close-reading skills for a text you cannot revise in advance, for the 2026 series."
 seoDescription: "How Cambridge IGCSE Literature 0475's Paper 4 Unseen works: the 1h15 critical-commentary format, poem-or-prose choice, and close-reading exam technique."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-31
 featured: false
 ---

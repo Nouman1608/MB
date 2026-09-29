@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "markets-in-action-edexcel-alevel-economics"
 description: "Condensed recall notes on demand and supply, elasticity, market failure, government intervention and reasons consumers may not maximise utility for A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

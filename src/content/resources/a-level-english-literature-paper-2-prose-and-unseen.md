@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "paper-2-prose-and-unseen-9695"
 description: "The format and structure of Paper 2 Prose and Unseen -- an AS Level paper for Cambridge International A Level English Literature 9695, 2024-2026 series."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

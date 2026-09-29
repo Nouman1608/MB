@@ -11,6 +11,9 @@ syllabusSeries: "Version 2.1 (August 2026), for first assessment in 2017"
 order: 3
 description: "Why OCR GCSE Mathematics J560 sets three 100-mark papers per tier with exactly one non-calculator paper, why any topic can appear on any paper, and a worked method-marks routine."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

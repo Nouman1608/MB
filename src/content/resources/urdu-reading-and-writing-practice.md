@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-reading-writing-0539"
 description: "A full original practice Paper 1 for Cambridge IGCSE Urdu as a Second Language (0539): all six exercises, from short answers, multiple matching and note-making to summary, functional writing and extended writing, at the syllabus tariffs, with answer keys, mark guidance and a separate grammar-support drill."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -42,6 +42,9 @@ syllabusTopics:
     subtopic: "complex-numbers-cambridge-alevel-maths"
 description: "Study guide to Cambridge 9709 Pure Mathematics 3 (Paper 3): sections 3.1 to 3.9 taught step by step with a fully worked example for each topic."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

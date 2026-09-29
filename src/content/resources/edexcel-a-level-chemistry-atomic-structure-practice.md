@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "atomic-structure-and-the-periodic-table-ych11"
 description: "Original exam-style practice questions with full worked answers on subatomic particles, isotopes and mass spectrometry calculations for Pearson Edexcel International A-Level Chemistry (YCH11), outcomes 2.1-2.7."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "development-of-practical-skills-in-physics-ocr-alevel"
 description: "Original exam-style practice questions with full worked answers on experimental design, uncertainty and graphical analysis for OCR A Level Physics H556."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

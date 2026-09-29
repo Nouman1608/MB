@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-3-drama-open-text-0475"
 description: "How Paper 3 Drama (Open Text) differs from Paper 2 Drama in Cambridge IGCSE Literature in English 0475: the open-book rule, one question from a choice of two on a single set play, and how it combines with either Paper 4 or Component 5 Coursework, for the 2026 series."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

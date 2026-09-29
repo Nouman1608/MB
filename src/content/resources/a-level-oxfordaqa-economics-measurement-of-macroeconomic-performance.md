@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "the-measurement-of-macroeconomic-performance-oxfordaqa-alevel-economics"
 description: "Government macroeconomic policy objectives, the indicators (including the Gini coefficient) used to measure economic performance, and how index numbers work -- 3.2.1 of OxfordAQA International AS and A-Level Economics (9640)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "organic-chemistry-8462"
 description: "Study guide for AQA GCSE Chemistry 8462 Topic 7 Organic chemistry: crude oil, cracking, alkenes, alcohols, carboxylic acids and polymers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

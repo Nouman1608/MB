@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "number-operations-and-integers-ocr-gcse-maths"
 description: "Original exam-style practice questions with full worked answers on integers, order of operations, primes, fractions and estimation."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "unit-p2-pure-mathematics-2-edexcel-alevel-maths"
 description: "Original exam-style practice questions with full worked answers on proof, the factor and remainder theorems, coordinate geometry of the circle, sequences and series, logarithms, and stationary points, for Pearson Edexcel International A Level Mathematics (YMA01), Unit P2."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 ---

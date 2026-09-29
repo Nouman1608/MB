@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "unit-2-place-in-literary-texts-9675"
 description: "Condensed recall notes on the prose and poetry sections, the specification's nine 'place' angles, and exam technique for OxfordAQA International AS & A-Level English Literature (9675) Unit 2."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

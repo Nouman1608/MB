@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "bioenergetics-aqa-gcse-biology"
 description: "AQA GCSE Biology 8461 Bioenergetics taught from scratch: photosynthesis, limiting factors, respiration, exercise and metabolism, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

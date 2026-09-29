@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "marketing-as-cambridge-alevel-business"
 description: "Market orientation, segmentation and demand/supply, primary and secondary market research, and the 4Ps of the marketing mix including product portfolio analysis and the Boston Matrix -- the full AS Level content of Topic 3 Marketing for Cambridge International AS & A Level Business 9609."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

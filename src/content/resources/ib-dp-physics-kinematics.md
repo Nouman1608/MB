@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "ib-dp-physics-a-1"
 description: "Distance, displacement, speed, velocity, acceleration, the SUVAT equations and projectile motion -- sub-topic A.1 of IB Diploma Programme Physics, identical content at SL and HL."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

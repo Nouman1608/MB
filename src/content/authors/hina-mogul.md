@@ -13,6 +13,6 @@ yearsExperience: 4
 previousSchools: ["De Montmorency College"]
 sourceUrl: "https://learnersacademy.com.pk/teachers/"
 verifiedOn: 2026-08-18
-isReviewer: false
+isReviewer: true
 publicationState: published
 ---

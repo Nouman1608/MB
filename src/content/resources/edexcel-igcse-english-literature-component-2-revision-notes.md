@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "component-2-modern-drama-and-literary-heritage-texts-4et1"
 description: "Condensed recall notes on open-book exam technique, contextual analysis and essay structure for Pearson Edexcel International GCSE English Literature Component 2 (4ET1)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

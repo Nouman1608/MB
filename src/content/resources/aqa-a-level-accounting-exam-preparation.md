@@ -11,6 +11,9 @@ syllabusSeries: "2017-onwards"
 order: 3
 description: "How AQA A-Level Accounting 7127's identical three-section papers should shape revision -- the 30/40/50 mark split across Sections A, B and C, the different content each paper draws on, and a worked own-figure-rule routine."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

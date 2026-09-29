@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "the-nature-of-law-and-the-english-legal-system-7162"
 description: "Condensed recall notes on law making, precedent, statutory interpretation, the courts, legal personnel, access to justice, law and society, fault, and law and morality for AQA A Level Law 7162."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

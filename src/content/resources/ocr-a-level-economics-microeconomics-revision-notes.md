@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "microeconomics-ocr-alevel-economics"
 description: "Condensed recall notes on elasticity, costs and revenue, market structures, labour markets and market failure for OCR A Level Economics H460."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

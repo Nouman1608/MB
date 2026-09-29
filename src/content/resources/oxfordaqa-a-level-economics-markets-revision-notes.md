@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "the-operation-of-markets-market-failure-and-the-role-of-government-oxfordaqa-alevel-economics"
 description: "Condensed recall notes on methodology, demand and supply, elasticity, costs, market structures and market failure for International A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

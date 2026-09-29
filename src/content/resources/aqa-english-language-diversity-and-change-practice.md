@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "section-a-diversity-and-change-7702"
 description: "Original exam-style practice questions with full worked answers on sociolect, dialect, contextual analysis and language change for AQA A-Level English Language Paper 2 Section A (7702)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 ---

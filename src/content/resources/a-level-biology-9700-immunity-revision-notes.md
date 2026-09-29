@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "antibodies-and-vaccination-cambridge-alevel-biology"
 description: "Condensed 9700 AS Biology notes on the immune response, memory cells, antibody structure, monoclonal antibodies and vaccination, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

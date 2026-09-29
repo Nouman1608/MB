@@ -11,6 +11,9 @@ syllabusSeries: "For first teaching 2017"
 order: 2
 description: "Paper-by-paper exam preparation for AQA GCSE Business 8132 -- operations/HRM vs marketing/finance split, AO1/AO2/AO3 balance, case-study data-response strategy, a worked answer and a checklist."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

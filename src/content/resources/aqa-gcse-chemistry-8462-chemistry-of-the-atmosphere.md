@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "chemistry-of-the-atmosphere-8462"
 description: "Study guide for AQA GCSE Chemistry 8462 Topic 9: the early atmosphere, greenhouse gases, climate change, carbon footprint and pollutants from fuels."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

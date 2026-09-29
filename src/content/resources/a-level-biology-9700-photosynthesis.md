@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "investigation-of-limiting-factors-cambridge-alevel"
 description: "Chloroplasts, pigments, Rf values, photophosphorylation, the Calvin cycle and limiting factors, taught from scratch for Cambridge A Level Biology 9700."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

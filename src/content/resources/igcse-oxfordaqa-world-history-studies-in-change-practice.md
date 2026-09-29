@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-studies-in-change-9245"
 description: "Original exam-style practice questions with full worked answers on Paper 2's real two-section, four-question-per-section structure at 3, 6, 9 and 12 marks, applicable to any Section A society-in-change option and Section B thematic study."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

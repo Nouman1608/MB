@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "exchange-and-transport-ocr-alevel-biology"
 description: "Gas exchange, mass transport in animals, and transport in plants -- Module 3 of OCR A Level Biology A (H420), distinct from the site's existing guides to Foundations in Biology and Development of Practical Skills."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

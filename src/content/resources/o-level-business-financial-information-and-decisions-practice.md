@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "financial-information-and-decisions"
 description: "Original exam-style questions with full worked answers on return on capital employed, gross profit margin, the current ratio, improving profit margin, users of accounts and cash-flow forecasts, for Cambridge O Level Business Studies (7115)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

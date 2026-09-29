@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "the-measurement-of-macroeconomic-performance-aqa-alevel-economics"
 description: "Government macroeconomic policy objectives, the indicators used to measure economic performance, how index numbers work, and the uses and limitations of national income data -- 3.2.1 of AQA A-Level Economics (7136). AS Economics (7135) has the first three parts; uses of national income data (3.2.1.4) is A-level only."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

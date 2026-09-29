@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-computer-science-theme-a"
 description: "Computer fundamentals, networks, databases (including SQL queries) and machine learning -- the four sub-topics of Theme A for IB Diploma Programme Computer Science, first assessment 2027, and how Theme A is tested through Paper 1 and the pre-released case study."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

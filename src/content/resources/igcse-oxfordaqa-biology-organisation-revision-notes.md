@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "organisation-oxfordaqa-igcse-biology"
 description: "Condensed recall notes on Topic 1 Organisation of OxfordAQA International GCSE Biology 9201 (cell structure, tissues, organs and organ systems, and transport in cells), with linked Topic 2 notes on enzymes and digestion, the heart and the lungs."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

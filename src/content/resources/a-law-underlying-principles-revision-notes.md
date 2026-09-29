@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-underlying-principles-and-english-legal-system-yla1"
 description: "Condensed recall notes on parliamentary law making, delegated legislation, law reform and the relationship between law and morality for A Level Law."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

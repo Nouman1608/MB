@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "ionic-bonding-8462"
 description: "Original exam-style practice questions with full worked answers on the three types of chemical bond and ionic bonding by electron transfer for AQA GCSE Chemistry (8462), 4.2.1.1 and 4.2.1.2."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 ---

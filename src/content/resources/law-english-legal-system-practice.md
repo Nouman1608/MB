@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "english-legal-system-9084"
 description: "Original exam-style practice questions with full worked answers on sources of law, civil court tracks, ADR, judicial precedent and statutory interpretation."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

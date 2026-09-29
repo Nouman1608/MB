@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "processor-fundamentals"
 description: "CPU architecture, assembly language, and bit manipulation for Cambridge AS & A Level Computer Science 9618, 2027-2029 series -- focused on the fetch-execute cycle, tracing assembly programs and addressing modes, and bit masking; see the note below on the parts of Topic 4 this guide does not go into."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

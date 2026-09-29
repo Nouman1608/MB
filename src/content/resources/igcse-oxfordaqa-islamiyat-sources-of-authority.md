@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "sources-of-authority-9237"
 description: "The Qur'an, Hadith, Sunnah, Ijma and Qiyas as sources of authority in Islam -- covering 3.2.2.1-3.2.2.5 of OxfordAQA International GCSE Islamiat (9237), Version 1.1, for exams May/June 2026 onwards."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

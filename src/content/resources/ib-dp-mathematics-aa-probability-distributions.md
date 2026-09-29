@@ -40,6 +40,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-4-14"
 description: "IB DP Maths AA study guide to probability, discrete and continuous random variables, binomial and normal distributions, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

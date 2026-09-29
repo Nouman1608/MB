@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "databases"
 description: "Original exam-style practice questions with full worked answers on primary, candidate and foreign keys, referential integrity, normalisation and SQL for Cambridge AS & A Level Computer Science (9618) Topic 8."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 featured: false
 ---

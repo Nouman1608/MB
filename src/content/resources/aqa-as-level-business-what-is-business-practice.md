@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "forms-of-business-and-stakeholders-aqa-aslevel-business"
 description: "Original exam-style practice questions with full worked answers on entrepreneurs, business objectives, business forms and stakeholders, for AQA AS-Level Business (7137), sub-topics 3.1.1 and 3.1.2."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 updatedDate: 2026-09-17
 featured: false

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-literary-non-fiction-and-composition-9270"
 description: "Original exam-style practice questions with full worked answers on reading non-fiction, language and structural analysis, evaluating viewpoint and writing."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

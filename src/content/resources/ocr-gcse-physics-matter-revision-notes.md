@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "matter-ocr-gcse"
 description: "Condensed recall notes on density, particle model, changes of state, specific heat capacity, latent heat and gas pressure for OCR GCSE Physics J249."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

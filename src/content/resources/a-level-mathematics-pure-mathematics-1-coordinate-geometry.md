@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "coordinate-geometry-cambridge-alevel-maths"
 description: "Equations of straight lines, the circle equation and its expanded form, and algebraic methods for lines and circles -- a deep dive into subtopic 1.3 Coordinate geometry for Cambridge International AS & A Level Mathematics 9709, Pure Mathematics 1."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

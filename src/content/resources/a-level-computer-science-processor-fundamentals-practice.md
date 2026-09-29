@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "processor-fundamentals"
 description: "Original exam-style practice questions with full worked answers on the fetch-execute cycle, assembly language tracing, addressing modes and bit manipulation, for Cambridge AS & A Level Computer Science (9618) Topic 4 Processor Fundamentals."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

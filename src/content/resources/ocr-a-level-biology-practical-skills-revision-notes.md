@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "development-of-practical-skills-in-biology-ocr-alevel-biology"
 description: "Condensed recall notes on variables, validity, reliability, accuracy, precision and uncertainty for OCR A Level Biology H420."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

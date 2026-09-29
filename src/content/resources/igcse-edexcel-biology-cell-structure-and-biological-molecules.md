@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "cell-structure-4bi1"
 description: "Cell structures and their functions, plant vs animal cells, and the three major biological molecules -- sub-topics (b) and (c) of Topic 2 Structures and Functions in Living Organisms, Pearson Edexcel International GCSE Biology (4BI1)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "the-allocation-of-resources-cambridge-igcse-economics"
 description: "The price mechanism, demand and supply curves, market equilibrium and disequilibrium, price elasticity, market failure and the mixed economy -- the full content of Topic 2 for Cambridge IGCSE Economics 0455, 2026 series."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

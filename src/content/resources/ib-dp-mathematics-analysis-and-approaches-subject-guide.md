@@ -9,6 +9,9 @@ syllabusCodes: ["DP Mathematics: Analysis and Approaches"]
 syllabusSeries: "First assessment 2021"
 description: "An overview of IB Diploma Programme Mathematics: Analysis and Approaches -- rigorous mathematical argument and abstract problem solving, and how it differs from Applications and Interpretation."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

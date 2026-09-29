@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-mathematics-applications-and-interpretation-geometry-and-trigonometry"
 description: "Real-world spatial problems, triangle trigonometry, compound solids and, at HL, radians and circular functions, matrix transformations, vectors and graph theory -- the strand with the largest SL-to-HL jump in IB Diploma Programme Mathematics: Applications and Interpretation, first assessment 2021, and its technology-driven approach."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

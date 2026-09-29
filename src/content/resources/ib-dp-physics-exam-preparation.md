@@ -11,6 +11,9 @@ syllabusSeries: "First assessment 2025"
 order: 4
 description: "Paper-by-paper exam preparation for IB DP Physics -- Paper 1A multiple-choice and Paper 1B data-based strategy, Paper 2's short-and-extended-response strategy, data-booklet fluency, a worked uncertainty-estimation scenario and a checklist, for first assessment 2025."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

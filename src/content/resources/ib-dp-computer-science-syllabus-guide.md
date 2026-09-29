@@ -11,6 +11,9 @@ syllabusSeries: "First assessment 2027"
 order: 2
 description: "The two syllabus themes of IB Diploma Programme Computer Science -- Concepts in computer science and Computational thinking and problem-solving -- with every numbered sub-topic and recommended teaching hours, for first assessment 2027."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

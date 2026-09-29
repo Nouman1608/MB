@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "g-differentiation-aqa-alevel-maths"
 description: "First principles, standard derivatives, stationary points, the product/quotient/chain rules, implicit and parametric differentiation, and forming differential equations -- Section G of AQA A-Level Mathematics (7357)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

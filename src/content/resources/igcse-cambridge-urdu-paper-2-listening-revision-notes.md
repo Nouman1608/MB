@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-listening-0539"
 description: "Condensed recall notes on the four listening exercises -- short answer questions, gap-fill, multiple matching and multiple choice -- for Cambridge IGCSE Urdu as a Second Language (0539), 2025-2027 series."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

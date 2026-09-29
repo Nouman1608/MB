@@ -27,6 +27,9 @@ syllabusTopics:
     subtopic: "calculus-edexcel-igcse-maths"
 description: "Study guide for Edexcel IGCSE Maths A 4MA1 Topic 3: sequences, functions, straight-line and curved graphs, and calculus, with full worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

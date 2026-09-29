@@ -31,6 +31,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-2-6"
 description: "Study guide for IB Maths AI functions and modelling: straight lines, functions and inverses, graphs, the six SL models and fitting them."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

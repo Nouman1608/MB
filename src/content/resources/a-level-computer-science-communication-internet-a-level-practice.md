@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "communication-and-internet-technologies"
 description: "Original exam-style questions with full worked answers on the layers of the TCP/IP protocol suite, email and peer-to-peer protocols, and packet switching compared with circuit switching, for Cambridge AS & A Level Computer Science (9618)."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
 featured: false

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "foundations-in-biology-ocr-alevel-biology"
 description: "Condensed recall notes on cell structure, microscopy, and biological molecules, for OCR A Level Biology A (H420), Module 2 opening sub-topics."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

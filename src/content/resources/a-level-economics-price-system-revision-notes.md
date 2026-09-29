@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "the-price-system-and-the-microeconomy-as-cambridge-alevel-economics"
 description: "Condensed revision notes on demand and supply, elasticity, market equilibrium, and consumer/producer surplus for Cambridge AS & A Level Economics Topic 2 (9708)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

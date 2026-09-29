@@ -11,6 +11,9 @@ syllabusCodes: ["2281"]
 order: 1
 description: "O Level Economics 2281 past papers guide: grade thresholds and examiner report notes for June and November 2022 to 2024, with free practice links."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 ---

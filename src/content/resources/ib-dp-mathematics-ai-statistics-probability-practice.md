@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-mathematics-applications-and-interpretation-statistics-and-probability"
 description: "Original practice questions with full worked answers covering descriptive statistics, probability, distributions and inferential statistics, for IB Diploma Programme Mathematics: Applications and Interpretation."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "fractions-decimals-and-percentages-ocr-gcse-maths"
 description: "Condensed recall notes on fraction arithmetic, percentage calculations, reverse percentages and ordering, for OCR GCSE (9-1) Mathematics (J560), Topic 2."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

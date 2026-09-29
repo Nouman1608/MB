@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "accounting-concepts-and-modern-practice"
 description: "The ten accounting concepts and how they are applied in the records, the ethical framework and its five fundamental principles, and digital records and safe, sustainable data storage, for Cambridge IGCSE Accounting (0452) Topic 7, 2027-2029 syllabus."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-16
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "depth-studies-2147"
 description: "Original exam-technique practice questions with full worked answers on the five Depth Studies, how Paper 1 Section B examines them, and the source-evaluation skill Paper 2 tests on the Core Content prescribed topic, for Cambridge O Level World History (2147)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "graphs-in-practical-situations"
 description: "Condensed recall notes on distance-time and speed-time graphs, conversion graphs and rates of change for Cambridge O Level Mathematics 4024."
 author: "muhammad-ghazali-siddiqui"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

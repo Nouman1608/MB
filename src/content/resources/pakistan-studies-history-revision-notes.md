@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-history-culture-0448"
 description: "Condensed recall notes on the reform movements, Sir Syed, the Pakistan Movement and independence for Cambridge IGCSE Pakistan Studies 0448."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

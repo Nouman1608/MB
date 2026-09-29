@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-4-19"
 description: "Condensed IB Maths AI HL revision notes on survey design, χ² df, SSres and R², z, t, binomial and Poisson tests and Markov chains, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

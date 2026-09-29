@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "quantitative-chemistry-8462"
 description: "Condensed AQA GCSE Chemistry 8462 quantitative chemistry notes: Mr, moles, reacting masses, yield, atom economy, concentration and gas volumes."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

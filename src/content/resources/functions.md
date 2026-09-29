@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "functions"
 description: "Function notation, domain and range, inverse functions and composite functions, for Cambridge O Level Mathematics (Syllabus D) 4024."
 author: "muhammad-ghazali-siddiqui"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-mathematics-analysis-and-approaches-calculus"
 description: "Original practice questions with full worked answers covering differentiation, integration and their applications, for the Calculus strand of IB Diploma Programme Mathematics: Analysis and Approaches."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

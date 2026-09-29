@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "a-data-representation"
 description: "Original exam-style questions with full worked answers on enumerated, composite and pointer data types, normalised binary floating-point representation and random file access by hashing, for Cambridge AS & A Level Computer Science (9618)."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
 featured: false

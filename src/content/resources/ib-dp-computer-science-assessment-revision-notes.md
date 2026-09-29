@@ -9,6 +9,9 @@ syllabusCodes: ["DP Computer Science"]
 order: 1
 description: "Condensed recall notes on the assessment structure at SL and HL -- papers, weightings and the computational solution -- for IB Diploma Programme Computer Science."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 ---

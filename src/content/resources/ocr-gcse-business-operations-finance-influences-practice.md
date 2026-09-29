@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "operations-finance-and-influences-on-business-ocr-gcse-business"
 description: "Original exam-style practice questions with full worked answers on production, quality, break-even, cash flow, profit and loss, and ethical/economic/global influences, with a 15-question multiple-choice Section A in the OCR GCSE (9-1) Business (J204/02) format."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 updatedDate: 2026-09-27
 featured: false

@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "measures-of-economic-performance-edexcel-alevel-economics"
 description: "Original exam-style practice questions with full worked answers on GDP, GNI, real vs nominal measures, Purchasing Power Parities, recession and the limitations of GDP, built to the specification's four-section paper structure and command-word tariffs, for Pearson Edexcel International A-Level Economics, Unit 2 (WEC12/01), the Economic Growth strand of 2.3.1."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 ---

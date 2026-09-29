@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "chromosome-behaviour-in-mitosis-cambridge-alevel"
 description: "Condensed revision notes for Cambridge 9700 mitotic cell cycle: chromosome terms, cycle stages, telomeres, stem cells, tumours and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

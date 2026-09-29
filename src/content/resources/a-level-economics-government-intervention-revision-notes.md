@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "government-microeconomic-intervention-as-cambridge-alevel-economics"
 description: "Condensed recall notes on why governments intervene, the six intervention tools and their diagram effects, and income/wealth inequality policies for Cambridge International AS & A Level Economics (9708), Topic 3."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

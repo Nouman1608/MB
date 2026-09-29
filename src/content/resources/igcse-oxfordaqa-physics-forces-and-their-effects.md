@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "forces-and-their-effects-oxfordaqa-igcse"
 description: "Forces and their interactions, motion, resultant forces, momentum, terminal velocity, centre of mass, and moments -- the full content of Topic 1 for OxfordAQA International GCSE Physics (9203)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

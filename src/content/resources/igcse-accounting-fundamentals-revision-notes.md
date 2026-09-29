@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "the-fundamentals-of-accounting"
 description: "Condensed recall notes on the accounting equation, double entry, books of prime entry and the trial balance for Cambridge IGCSE Accounting 0452."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "ib-dp-computer-science-b-2"
 description: "Original practice questions with full worked answers covering the three control structures, modularity, pseudocode design, and normal/boundary/erroneous test planning, for IB Diploma Programme Computer Science B.2 Programming."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

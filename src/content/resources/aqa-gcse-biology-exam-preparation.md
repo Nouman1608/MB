@@ -11,6 +11,9 @@ syllabusSeries: "For first teaching 2016"
 order: 1
 description: "Paper-by-paper exam preparation for AQA GCSE Biology 8461 -- Foundation/Higher tier strategy, required-practicals revision, AO1/AO2/AO3 balance, a worked six-mark answer and a checklist."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

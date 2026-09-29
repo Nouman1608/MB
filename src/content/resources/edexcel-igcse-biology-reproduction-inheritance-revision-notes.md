@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "reproduction-and-inheritance-edexcel-igcse-biology"
 description: "Condensed revision notes on sexual and asexual reproduction, DNA and the genome, monohybrid inheritance, mitosis and meiosis, variation and natural selection, for Topic 3 of Pearson Edexcel International GCSE Biology (4BI1)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

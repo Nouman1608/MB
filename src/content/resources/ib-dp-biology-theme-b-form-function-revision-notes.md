@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-biology-form-function"
 description: "Condensed revision notes on IB Diploma Programme Biology's Theme B -- Form and function -- carbohydrates and lipids, proteins, membranes, organelles, cell specialization, gas exchange, transport and adaptation -- with HL-only content marked and self-test questions."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

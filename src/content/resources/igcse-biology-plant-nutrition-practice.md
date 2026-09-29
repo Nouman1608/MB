@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "photosynthesis-cambridge-igcse-biology"
 description: "Original exam-style questions with full worked answers on mineral ions, uses of carbohydrates, the photosynthesis equation, hydrogencarbonate indicator experiments and limiting factors, for Cambridge IGCSE Biology (0610)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

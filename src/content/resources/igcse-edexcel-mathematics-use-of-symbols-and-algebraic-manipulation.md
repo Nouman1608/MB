@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "equations-formulae-and-identities-edexcel-igcse-maths"
 description: "Fractional and negative indices, expanding and factorising, algebraic fractions and completing the square -- sub-topics 2.1-2.2 of Topic 2 Equations, Formulae and Identities, Pearson Edexcel International GCSE Mathematics (Specification A, 4MA1), Higher Tier."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

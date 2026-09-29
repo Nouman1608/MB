@@ -30,6 +30,9 @@ syllabusTopics:
     subtopic: "the-normal-distribution-cambridge-alevel-maths"
 description: "Study guide for Cambridge 9709 Probability & Statistics 1 (Paper 5): data, arrangements, probability, binomial, geometric and normal, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

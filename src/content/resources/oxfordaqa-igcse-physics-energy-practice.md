@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "energy-oxfordaqa-igcse"
 description: "Original exam-style practice questions with full worked answers on work done, energy stores, kinetic and gravitational potential energy, power, efficiency, Sankey diagrams and energy resources for International GCSE Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 ---

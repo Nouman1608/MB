@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "information-representation"
 description: "Condensed recall notes on number bases, binary arithmetic, two's complement, character sets and compression for AS Computer Science. Floating point representation is full-A-Level-only content, assessed in Paper 3, and is not covered by these AS-stage notes."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

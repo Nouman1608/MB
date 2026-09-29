@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "government-objectives-oxfordaqa-igcse-economics"
 description: "Condensed recall notes on growth, employment, inflation, the balance of payments and income distribution for OxfordAQA International GCSE Economics sub-topic 3.2.2 (9214)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

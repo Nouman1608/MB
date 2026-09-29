@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "component-5-speaking-0539"
 description: "Presentation, discussion and general conversation -- the optional, separately-endorsed Speaking component, distinct from the site's existing guides to the written Paper 1 (Reading and Writing) and Paper 2 (Listening) components."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

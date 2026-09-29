@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "respiration-cambridge-alevel-biology"
 description: "Condensed notes on ATP, RQ, the stages of aerobic respiration, fermentation and rice, with a checked self-test, for Cambridge A Level Biology 9700."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

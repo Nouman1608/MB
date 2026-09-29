@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "business-in-the-real-world-oxfordaqa-igcse-business"
 description: "Condensed recall notes on business purpose, ownership, stakeholders, location and growth for OxfordAQA International GCSE Business 9225."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

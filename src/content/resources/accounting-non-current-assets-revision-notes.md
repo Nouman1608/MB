@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "accounting-for-non-current-assets"
 description: "Condensed revision notes on capital vs revenue expenditure, depreciation methods, the cost and revaluation models, and disposal for Cambridge AS & A Level Accounting 1.3 (9706)."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "understanding-business-activity-cambridge-igcse-business"
 description: "Needs, wants and scarcity, business classification, enterprise and business growth, types of business organisation, and business/stakeholder objectives -- the full content of Topic 1 for Cambridge IGCSE Business Studies 0450, 2026 series."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

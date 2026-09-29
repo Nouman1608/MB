@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "marketing-as-cambridge-alevel-business"
 description: "Original exam-style practice questions with full worked answers on market orientation, segmentation, market research and the marketing mix, for Cambridge AS & A Level Business (9609) Topic 3 Marketing."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

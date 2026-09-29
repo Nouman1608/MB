@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "inheritance-variation-and-evolution-aqa-gcse-biology"
 description: "Twelve original AQA GCSE Biology 8461 questions on meiosis, DNA, Punnett squares, natural selection, GM, cloning and Darwin, with worked answers."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

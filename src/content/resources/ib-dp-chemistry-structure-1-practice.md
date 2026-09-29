@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-chemistry-structure-1"
 description: "Original practice questions with full worked answers covering particle theory, the nuclear atom, electron configurations, the mole and ideal gases, for IB Diploma Programme Chemistry Structure 1."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

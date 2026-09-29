@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "the-land-of-pakistan-0448"
 description: "Location, administrative areas, natural topography and climate -- Section 1 of Paper 2 The Environment of Pakistan, Cambridge IGCSE Pakistan Studies (0448), 2026 series."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

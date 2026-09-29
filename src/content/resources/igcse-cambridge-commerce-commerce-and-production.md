@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "commerce-and-production-0715"
 description: "Trade, commerce, aids to trade and the different types of modern commerce -- the opening topic of Cambridge IGCSE Commerce (0715), a new six-topic syllabus for exams from 2028."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

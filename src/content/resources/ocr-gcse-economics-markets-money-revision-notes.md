@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "the-role-of-markets-and-money-ocr-gcse-economics"
 description: "Condensed recall notes on markets, demand, supply, price determination, competition, production, the labour market and the role of money, for OCR GCSE (9-1) Economics (J205), Topic 2."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

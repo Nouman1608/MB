@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ratio-proportion-and-rates-of-change-aqa-gcse"
 description: "Percentages, direct and inverse proportion, and compound units -- Topic 3 of AQA GCSE Mathematics (8300), the third of six content strands and a common source of exam marks across both Foundation and Higher tiers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

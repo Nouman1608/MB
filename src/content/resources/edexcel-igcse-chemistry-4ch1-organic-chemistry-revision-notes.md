@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "organic-chemistry-4ch1"
 description: "Condensed revision notes and a self-test on crude oil, alkanes, alkenes, alcohols, esters and polymers for Edexcel International GCSE Chemistry 4CH1."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

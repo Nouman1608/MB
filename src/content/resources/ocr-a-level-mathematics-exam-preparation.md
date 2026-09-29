@@ -11,6 +11,9 @@ syllabusSeries: "Version 3.1 (August 2026), for first assessment in 2018"
 order: 3
 description: "Why pure mathematics appears on all three OCR A Level Mathematics H240 components, what the pre-release data set on Component 02 requires, and a worked routine for protecting method marks."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

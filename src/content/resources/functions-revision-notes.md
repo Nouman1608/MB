@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "functions"
 description: "Condensed recall notes on function notation, domain and range, composite and inverse functions for Cambridge O Level Mathematics 4024."
 author: "muhammad-ghazali-siddiqui"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

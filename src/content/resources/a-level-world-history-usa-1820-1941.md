@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "american-option-history-usa-9489"
 description: "The Civil War and Reconstruction, the Gilded Age and Progressive Era, and the Great Depression and New Deal -- the full content of the American Option for Cambridge AS & A Level History 9489, 2027-2029 series."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

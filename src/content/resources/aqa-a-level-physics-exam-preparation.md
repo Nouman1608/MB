@@ -11,6 +11,9 @@ syllabusSeries: "For first teaching 2015"
 order: 3
 description: "Paper-by-paper exam preparation for AQA A-Level Physics 7408 -- Paper 2's assumed-knowledge structure, choosing and preparing your Paper 3 option topic, practical-skills fluency, a worked answer and a checklist."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

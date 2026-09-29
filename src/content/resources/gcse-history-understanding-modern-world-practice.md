@@ -13,6 +13,9 @@ syllabusTopics:
     topic: "understanding-the-modern-world-8145"
 description: "Original exam-style practice questions with full worked answers on the causation, change-and-continuity, source-evaluation and interpretation skills tested across Paper 1's period study and wider world depth study options, for AQA GCSE History (8145)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

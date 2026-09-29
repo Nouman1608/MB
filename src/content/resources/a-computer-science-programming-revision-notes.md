@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "fundamentals-of-programming"
 description: "Condensed recall notes on data types, constructs, arrays, subroutines, OOP and testing for AQA A Level Computer Science 7517."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "sl-paper-2-grammar-writing-translation-3248"
 description: "Original exam-technique practice questions with full worked answers on Paper 2's four compulsory exercises, mark allocation, and where marks are typically lost, for Cambridge O Level Second Language Urdu (3248)."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

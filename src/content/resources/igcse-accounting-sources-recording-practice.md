@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "sources-and-recording-of-data"
 description: "Exam-style questions with full worked answers on double entry, running balance accounts, business documents, the seven books of prime entry, trade vs cash discount, the imprest system and manual versus digital records, for Cambridge IGCSE Accounting (0452) Topic 2, 2027-2029 syllabus."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

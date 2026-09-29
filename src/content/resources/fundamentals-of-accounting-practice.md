@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "the-fundamentals-of-accounting"
 description: "Original exam-style practice questions with full worked answers on the accounting equation, double entry, trial balance and financial statements."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "commercial-operations-0715"
 description: "Condensed recall notes on commercial enterprises, outsourcing, retailing, wholesaling, trading documents and communication for Topic 2 of Cambridge IGCSE Commerce (0715), exams from 2028."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

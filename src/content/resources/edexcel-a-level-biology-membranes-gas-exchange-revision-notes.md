@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "membranes-proteins-dna-and-gene-expression-edexcel-alevel-biology"
 description: "Condensed recall notes on Fick's Law, gas exchange surfaces, the fluid mosaic model and membrane transport for Pearson Edexcel International A-Level Biology (YBI11), outcomes 2.1-2.5."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

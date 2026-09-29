@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-2058"
 description: "Original practice paper in the Cambridge O Level Islamiyat 2058 Paper 2 format: Question 1 on set Hadiths in Arabic and English, then two-part questions on Sahih al-Bukhari and Sahih Muslim, Umar's caliphate, fasting and al-qadr, with levels-based mark guidance."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

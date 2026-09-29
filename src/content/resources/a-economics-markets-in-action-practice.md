@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "markets-in-action-edexcel-alevel-economics"
 description: "Original exam-style practice questions with full worked answers on elasticity, market failure and government intervention, built to the specification's four-section paper structure and command-word tariffs, for A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

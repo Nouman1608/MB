@@ -11,6 +11,9 @@ syllabusSeries: "2025-2027"
 order: 3
 description: "Preparing for all three components of Cambridge IGCSE Urdu as a Second Language 0539 -- why Paper 1 carries two-thirds of the grade, how to work a listening test in which each extract is heard twice, and where the optional Speaking endorsement fits."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

@@ -11,6 +11,9 @@ syllabusSeries: "First teaching 2016, first examined 2018"
 order: 3
 description: "How OxfordAQA International GCSE English Language 9270's compulsory Paper 1 combines with either the Route A exam or the Route B non-exam assessment, and a worked composition-planning routine."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

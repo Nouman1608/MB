@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "statistics-ocr-alevel-maths"
 description: "Condensed recall notes on sampling, data presentation including bivariate data, probability, statistical distributions and hypothesis testing (including the correlation test), for OCR A Level Mathematics A (H240), the Statistics strand."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-the-law-in-action-yla1"
 description: "Contract or negligence in the market, criminal liability and property offences, and the individual's rights to reputation, privacy and land -- Paper 2 of Pearson Edexcel International Advanced Level Law, one of two compulsory papers."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-30
 featured: false
 ---

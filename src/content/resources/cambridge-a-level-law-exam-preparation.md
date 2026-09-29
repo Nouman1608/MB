@@ -11,6 +11,9 @@ syllabusSeries: "2026-2028"
 order: 3
 description: "How Cambridge International A-Level Law 9084's four equally weighted papers still demand different content preparation, plus a worked IRAC-style problem-question routine."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "the-role-of-markets-and-money-ocr-gcse-economics"
 description: "Markets, demand, supply, price, competition, production, the labour market and the role of money -- a map of the eight sub-topics of Topic 2 for OCR GCSE (9-1) Economics (J205), Component 01, with core explanations and worked calculations."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

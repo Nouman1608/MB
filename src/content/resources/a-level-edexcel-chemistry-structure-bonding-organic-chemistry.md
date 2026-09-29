@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "unit-1-structure-bonding-organic-chemistry-ych11"
 description: "Formulae and amount of substance, atomic structure, bonding, and introductory organic chemistry -- Unit 1 of Pearson Edexcel International Advanced Level Chemistry, the first of three units forming the International AS."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

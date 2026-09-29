@@ -11,6 +11,9 @@ syllabusSeries: "For first teaching September 2024"
 order: 3
 description: "How OxfordAQA International A-Level Computer Science 9645's two on-screen programming papers differ in preparation from its two written theory papers, plus a worked trace-table routine."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

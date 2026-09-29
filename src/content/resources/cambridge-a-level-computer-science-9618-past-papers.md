@@ -11,6 +11,9 @@ syllabusCodes: ["9618"]
 order: 1
 description: "9618 Computer Science past papers guide: grade thresholds and examiner report notes for June 2024 to June 2025, with links to Cambridge's official papers."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "the-human-digestive-system-aqa-gcse-biology"
 description: "Condensed recall notes on the cells-tissues-organs hierarchy, digestive enzymes, bile and required practicals 4-5 for AQA GCSE Biology (8461), 4.2.1 and 4.2.2.1."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

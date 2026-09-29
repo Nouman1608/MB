@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "the-measurement-of-macroeconomic-performance-oxfordaqa-alevel-economics"
 description: "Original exam-style practice questions with full worked answers on government macroeconomic objectives, macroeconomic indicators, the Gini coefficient, and index numbers."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

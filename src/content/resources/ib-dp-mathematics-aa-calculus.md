@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-mathematics-analysis-and-approaches-calculus"
 description: "Differentiation, integration and their applications -- the largest content strand at HL in IB Diploma Programme Mathematics: Analysis and Approaches, first assessment 2021, and how it depends on and extends the Functions strand."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

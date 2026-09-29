@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "cell-biology-aqa-gcse-biology"
 description: "Cell structure, cell division, and transport in cells -- the full content of Topic 1 Cell biology for AQA GCSE Biology (8461)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

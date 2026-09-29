@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "individuals-firms-markets-and-market-failure-aqa-alevel-economics"
 description: "Condensed recall notes on demand and supply, elasticity, costs and revenue, market structures and market failure for AQA A Level Economics 7136."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

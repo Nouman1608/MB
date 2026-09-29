@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "measurements-and-their-errors-oxfordaqa-alevel"
 description: "Original exam-style practice questions with full worked answers on SI units, uncertainty, error propagation and orders of magnitude."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

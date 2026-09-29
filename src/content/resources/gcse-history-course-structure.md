@@ -9,6 +9,9 @@ syllabusCodes: ["8145"]
 order: 1
 description: "How AQA GCSE History (8145) is structured — its two components, the historic environment study, and how to approach revision."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
 ---

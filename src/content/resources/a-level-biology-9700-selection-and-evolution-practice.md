@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "evolution-cambridge-alevel-biology"
 description: "12 original Cambridge 9700 questions on variation, t-tests, Hardy-Weinberg, selection, breeding and speciation, with fully worked mark-by-mark answers."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

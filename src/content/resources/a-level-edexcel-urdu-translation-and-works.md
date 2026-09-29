@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "prescribed-literary-texts-and-films-9ur0"
 description: "Translation into Urdu and extended responses to prescribed literary texts and films -- Paper 2 of Pearson Edexcel GCE A-Level Urdu (9UR0), the paper carrying the largest single mark total of the three."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

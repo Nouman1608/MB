@@ -30,6 +30,9 @@ syllabusTopics:
     subtopic: "energy-work-and-power-cambridge-alevel-maths"
 description: "Study guide to Cambridge 9709 Mechanics (Paper 4): forces, kinematics, momentum, Newton's laws, and energy, work and power, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

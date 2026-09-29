@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "transport-mechanisms-cambridge-alevel-biology"
 description: "Original exam-style questions with marked answers on xylem, phloem, water pathways, transpiration and translocation for Cambridge 9700 AS Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

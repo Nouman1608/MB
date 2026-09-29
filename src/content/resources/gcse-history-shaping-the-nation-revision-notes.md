@@ -13,6 +13,9 @@ syllabusTopics:
     topic: "shaping-the-nation-8145"
 description: "Condensed recall notes on Paper 2's thematic study and British depth study options, and how to approach each, for AQA GCSE History (8145)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

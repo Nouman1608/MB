@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "a-stability-constants-kstab"
 description: "Condensed recall notes on d-orbital splitting and colour, ligand exchange with copper(II) and cobalt(II), cis/trans and optical isomerism in complexes, and stability constants for Cambridge A Level Chemistry 9701 (2025-2027)."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

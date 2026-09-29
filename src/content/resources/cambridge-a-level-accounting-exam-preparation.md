@@ -11,6 +11,9 @@ syllabusSeries: "2026-2028"
 order: 3
 description: "How Cambridge International A-Level Accounting 9706's four papers weight unevenly (Paper 2 alone is 36% of the A Level), and a worked cost-and-management-accounting routine."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

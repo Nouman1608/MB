@@ -11,6 +11,9 @@ syllabusSeries: "Version 4.1 (April 2026), for first assessment in 2025"
 order: 3
 description: "How OCR A Level Biology H420's 37/37/26 paper weighting works, why Paper 3 is whole-specification and synoptic, where the separately reported Practical Endorsement fits, and a worked unfamiliar-data routine."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

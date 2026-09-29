@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "fundamentals-of-programming"
 description: "Original exam-style practice questions with full worked answers on data types, control structures, procedures, functions and scope."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

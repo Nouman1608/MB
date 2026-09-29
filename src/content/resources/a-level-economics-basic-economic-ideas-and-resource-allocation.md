@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "basic-economic-ideas-and-resource-allocation-cambridge-alevel-economics"
 description: "Scarcity and opportunity cost, economic methodology, factors of production, resource allocation systems, production possibility curves, and classification of goods and services -- a syllabus map and study guide for Topic 1 of Cambridge AS & A Level Economics 9708, 2026-2028 series."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

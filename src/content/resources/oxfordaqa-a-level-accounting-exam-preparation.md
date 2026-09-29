@@ -11,6 +11,9 @@ syllabusSeries: "For first teaching September 2024"
 order: 3
 description: "How OxfordAQA International A-Level Accounting 9615's AS papers (20% each) and A-level papers (30% each) build on one another, and a worked adjusting-entries routine."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

@@ -22,6 +22,9 @@ syllabusTopics:
     topic: "ib-dp-physics-topic-e"
 description: "The five themes of the IB Diploma Programme Physics syllabus -- Space time and motion, The particulate nature of matter, Wave behaviour, Fields, and Nuclear and quantum physics -- with HL-only topics marked, for first assessment 2025."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

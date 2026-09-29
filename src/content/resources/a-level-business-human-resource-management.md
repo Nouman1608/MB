@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "human-resource-management-as-cambridge-alevel-business"
 description: "Human resource management, motivation, and management -- the full content of Topic 2 Human resource management for Cambridge AS & A Level Business 9609, 2026-2028 series."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

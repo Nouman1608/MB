@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "organisation-oxfordaqa-igcse-biology"
 description: "Original exam-style practice questions with full worked answers on cell structure, tissues, organs and transport in cells for OxfordAQA International GCSE Biology (9201)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

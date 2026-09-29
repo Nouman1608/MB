@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "english-legal-system-9084"
 description: "Original exam-style practice questions with full worked answers on civil and criminal law, the criminal courts and classification of offences, the jury, barristers, solicitors and legal executives, and judicial independence."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

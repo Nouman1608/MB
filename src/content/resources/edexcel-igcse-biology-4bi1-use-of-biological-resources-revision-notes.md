@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "use-of-biological-resources-edexcel-igcse-biology"
 description: "Revision notes for Edexcel IGCSE Biology 4BI1 Topic 5: food production, fermenters, selective breeding, GM and cloning, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

@@ -27,6 +27,9 @@ syllabusTopics:
     subtopic: "populations-cambridge-igcse-biology"
 description: "Study guide for Cambridge IGCSE Biology 0610 topic 19: energy flow, food webs, ecological pyramids, carbon and nitrogen cycles, and population growth."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

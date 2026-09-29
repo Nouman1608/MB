@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "production-possibility-curve-ppc-diagrams"
 description: "Condensed recall notes on finite resources vs unlimited wants, the four factors of production and their rewards, opportunity cost, and production possibility curve (PPC) diagrams for Cambridge O Level Economics (2281)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

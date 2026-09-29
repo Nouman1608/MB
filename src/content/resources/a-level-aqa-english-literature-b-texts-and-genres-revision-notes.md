@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-texts-and-genres-7717"
 description: "Condensed recall notes on open-book exam technique, the elements framework, and structuring the connective essay for AQA A-Level English Literature B Paper 2 (7717)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

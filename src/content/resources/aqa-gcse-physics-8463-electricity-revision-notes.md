@@ -30,6 +30,9 @@ syllabusTopics:
     subtopic: "static-electricity"
 description: "Condensed AQA GCSE Physics 8463 Electricity revision notes: circuit equations, I–V graphs, series vs parallel, mains wiring, static and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

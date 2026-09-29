@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "development-of-practical-skills-in-physics-ocr-alevel"
 description: "Practical skills assessed in a written examination and practical skills assessed in the Practical Endorsement -- the full content of Module 1 for OCR A-Level Physics A (H556)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

@@ -11,6 +11,9 @@ syllabusSeries: "First assessment 2028"
 order: 3
 description: "Condensed revision notes on the four historical concepts that structure every DP History paper -- cause and consequence, continuity and change, perspectives, significance -- applicable regardless of which focused study, thematic study or regional study your class covered."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

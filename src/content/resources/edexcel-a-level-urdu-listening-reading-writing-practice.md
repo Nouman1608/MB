@@ -11,6 +11,9 @@ syllabusSeries: "2018"
 order: 5
 description: "Original exam-technique practice questions with full worked answers on Paper 3's format, sections and revision strategy for Pearson Edexcel GCE A-Level Urdu (9UR0)."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

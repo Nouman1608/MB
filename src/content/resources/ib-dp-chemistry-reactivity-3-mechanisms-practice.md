@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-chemistry-reactivity-3"
 description: "Original practice questions with full worked answers covering proton transfer, electron transfer, electron sharing and electron-pair sharing reactions, for IB Diploma Programme Chemistry Reactivity 3."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

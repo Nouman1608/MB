@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "sketching-curves"
 description: "Condensed recall notes on linear, quadratic, cubic, reciprocal and exponential graphs, and graphical solutions for Cambridge O Level Mathematics."
 author: "muhammad-ghazali-siddiqui"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

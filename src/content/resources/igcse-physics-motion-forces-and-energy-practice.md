@@ -33,6 +33,9 @@ syllabusTopics:
     subtopic: "momentum-cambridge-igcse-physics"
 description: "Original exam-style practice questions with full worked answers on speed, forces, momentum, energy and pressure for Cambridge IGCSE Physics 0625."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-29
 updatedDate: 2026-09-27
 featured: false

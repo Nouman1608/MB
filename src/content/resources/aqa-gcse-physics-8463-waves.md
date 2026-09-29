@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "black-body-radiation-aqa-gcse"
 description: "Study guide for AQA GCSE Physics 8463 Topic 6 Waves: wave properties, v = fλ, sound, ultrasound, seismic waves, the EM spectrum, lenses and black bodies."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

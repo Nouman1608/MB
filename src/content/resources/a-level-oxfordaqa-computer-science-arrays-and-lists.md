@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "arrays-and-lists-oxfordaqa-alevel-cs"
 description: "Static vs dynamic data structures, and using one- and two-dimensional arrays and lists to solve problems -- the introduction and 3.2.1 of OxfordAQA International AS and A-Level Computer Science (9645)."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

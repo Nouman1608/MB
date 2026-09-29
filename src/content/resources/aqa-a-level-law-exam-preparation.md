@@ -11,6 +11,9 @@ syllabusSeries: "For teaching from September 2017 onwards, A-level exams 2019 on
 order: 3
 description: "Why the nature of law and the English legal system is examined on all three AQA A-Level Law 7162 papers, how the 25/75 mark split works, the Paper 3 option choice, and a worked IRAC-style routine."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

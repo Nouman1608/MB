@@ -21,6 +21,9 @@ syllabusTopics:
     subtopic: "ib-dp-economics-3-3"
 description: "Condensed SL-level recall notes on measuring economic activity, the AD-AS model, and macroeconomic objectives for IB Diploma Programme Economics, Unit 3 sub-topics 3.1-3.3."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

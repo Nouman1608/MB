@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "unit-p1-pure-mathematics-1-edexcel-alevel-maths"
 description: "Original exam-style practice questions with full worked answers on algebra, quadratics, differentiation, integration and coordinate geometry."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

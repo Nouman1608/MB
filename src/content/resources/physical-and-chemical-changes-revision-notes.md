@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "physical-and-chemical-changes"
 description: "Condensed recall notes on identifying physical and chemical changes, the evidence for a new substance and the differences between the two for Cambridge IGCSE 0620 and O Level 5070 (2026-2028)."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-4-3"
 description: "Condensed revision notes on sampling, bias, outliers, cumulative frequency, box plots and summary statistics, with a self-test, for IB DP Maths AI."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

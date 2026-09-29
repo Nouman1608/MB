@@ -11,6 +11,9 @@ syllabusSeries: "Specification Issue 7, August 2025"
 order: 3
 description: "How Pearson Edexcel IGCSE English Language A 4EA1's compulsory Component 1 and its examined-or-coursework second route differ in preparation, the 45/45 reading and writing split, and a worked transactional writing routine."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

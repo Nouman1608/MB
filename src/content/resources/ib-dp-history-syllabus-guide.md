@@ -11,6 +11,9 @@ syllabusSeries: "First assessment 2028"
 order: 2
 description: "The focused study, thematic study, and HL-only regional study options of IB Diploma Programme History, with recommended teaching hours for SL and HL, for first assessment 2028."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

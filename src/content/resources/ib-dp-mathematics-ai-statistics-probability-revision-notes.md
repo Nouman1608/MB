@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-mathematics-applications-and-interpretation-statistics-and-probability"
 description: "Condensed revision notes on the Statistics and probability strand of IB Diploma Programme Mathematics: Applications and Interpretation -- one of the course's two largest strands by teaching hours -- with technology-use guidance and self-test questions."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

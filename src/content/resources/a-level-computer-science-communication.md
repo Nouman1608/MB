@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "communication"
 description: "LAN/WAN characteristics, client-server and peer-to-peer models, network topologies, cloud computing, wired and wireless media, Ethernet and CSMA/CD, IP addressing, and how URLs and DNS locate resources on the web -- the full content of Topic 2 Communication for Cambridge International AS & A Level Computer Science 9618."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

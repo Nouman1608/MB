@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "globalisation-of-trade-0715"
 description: "Condensed recall notes on international trade benefits/challenges, Balance of Trade vs Balance of Payments, trading blocs, and global supply chains for Cambridge IGCSE Commerce (0715)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

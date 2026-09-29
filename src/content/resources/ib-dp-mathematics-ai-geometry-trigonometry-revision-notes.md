@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-mathematics-applications-and-interpretation-geometry-and-trigonometry"
 description: "Condensed revision notes on the Geometry and trigonometry strand of IB Diploma Programme Mathematics: Applications and Interpretation -- real-world spatial problems, vectors, and technology-driven modelling -- with worked reminders and self-test questions."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

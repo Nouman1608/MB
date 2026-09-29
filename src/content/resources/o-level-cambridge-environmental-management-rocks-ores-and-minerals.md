@@ -21,6 +21,9 @@ syllabusTopics:
     subtopic: "sustainable-management-of-rocks-ores-and-minerals-5014-2027"
 description: "Formation of rocks, extraction of rocks, ores and minerals, and their sustainable management -- sub-topics 1.1-1.3 of Topic 1 Natural resources in the 2027-2029 Cambridge O Level Environmental Management (5014) syllabus."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-21
 featured: false
 ---

@@ -11,6 +11,9 @@ syllabusSeries: "Version 2.0 (January 2026), for first assessment in 2019"
 order: 3
 description: "Why Component 02 of OCR GCSE Business J204 carries synoptic assessment, how to work an 80-mark 90-minute paper, using case-study context in every answer, and a worked calculate-then-interpret routine."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

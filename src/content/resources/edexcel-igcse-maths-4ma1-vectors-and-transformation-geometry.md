@@ -21,6 +21,9 @@ syllabusTopics:
     subtopic: "transformation-geometry-edexcel-igcse-maths"
 description: "Study guide for Edexcel IGCSE Maths 4MA1 topic 5: vectors, column vectors, vector proof, rotations, reflections, translations and enlargements."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

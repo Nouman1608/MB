@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "membranes-proteins-dna-and-gene-expression-edexcel-alevel-biology"
 description: "Original exam-style practice questions with full worked answers on Fick's Law, gas exchange surfaces, cell membrane structure, osmosis and membrane transport mechanisms for Pearson Edexcel International A-Level Biology (YBI11), outcomes 2.1-2.5."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

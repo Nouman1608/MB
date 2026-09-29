@@ -11,6 +11,9 @@ syllabusSeries: "Specification Issue 2, September 2018"
 order: 3
 description: "Preparing for the unusually large 200-mark units of Edexcel IAL Accounting YAC11 -- Section A's two compulsory 55-mark questions, choosing three of four in Section B, and a worked own-figure routine."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

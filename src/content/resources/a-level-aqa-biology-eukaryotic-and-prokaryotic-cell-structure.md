@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "structure-of-eukaryotic-cells-aqa-alevel-biology"
 description: "The structure and function of eukaryotic organelles, and the differences between prokaryotic cells, eukaryotic cells and viruses -- 3.2.1.1 and 3.2.1.2 of AQA AS and A-Level Biology (7401/7402)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

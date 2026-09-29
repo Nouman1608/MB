@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "enzymes-cambridge-igcse-biology"
 description: "Condensed revision notes for Cambridge IGCSE Biology 0610 Enzymes, with Core and Extended answer templates, rate calculations and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

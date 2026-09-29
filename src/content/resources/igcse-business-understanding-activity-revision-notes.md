@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "understanding-business-activity-cambridge-igcse-business"
 description: "Condensed recall notes on needs and wants, sectors, business objectives, stakeholders and legal structures for Cambridge IGCSE Business Studies 0450."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

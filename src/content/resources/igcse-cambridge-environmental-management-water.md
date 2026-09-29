@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "water-0680"
 description: "The water cycle, water sources and supply, water pollution, water-related diseases and marine aquaculture -- Topic 3 of Cambridge IGCSE Environmental Management (0680), the 2027-2029 series."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

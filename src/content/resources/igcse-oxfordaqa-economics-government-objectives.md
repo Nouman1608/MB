@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "government-objectives-oxfordaqa-igcse-economics"
 description: "Economic growth, employment, inflation, the balance of payments and income distribution -- the government's core economic objectives and the conflicts between them, for OxfordAQA International GCSE Economics (9214)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

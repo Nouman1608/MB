@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "unit-p1-pure-maths-oxfordaqa-alevel-maths"
 description: "Algebra, coordinate geometry, differentiation, integration, and sequences and series -- the full content of Unit P1 for OxfordAQA International AS and A-Level Mathematics (9660)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "what-is-business-aqa-alevel-business"
 description: "The nature and purpose of business, different business forms, and the external environment businesses operate within -- the full content of Topic 1 for AQA A-Level Business (7132)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

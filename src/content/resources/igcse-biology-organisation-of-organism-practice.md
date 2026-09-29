@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "size-of-specimens-cambridge-igcse-biology"
 description: "Exam-style questions with full worked answers on plant, animal and bacterial cell structure, specialised cells, the organisation hierarchy, and magnification calculations, for Cambridge IGCSE Biology (0610) Topic 2."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false

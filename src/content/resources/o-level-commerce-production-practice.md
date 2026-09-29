@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "commerce-and-production-7100"
 description: "Original exam-style practice questions with full worked answers on trade, commerce, production and specialisation for Cambridge O Level Commerce 7100."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 ---

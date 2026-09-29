@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "natural-resources-0680"
 description: "Original exam-style practice questions with full worked answers on renewable and non-renewable resources, energy, water and sustainability."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

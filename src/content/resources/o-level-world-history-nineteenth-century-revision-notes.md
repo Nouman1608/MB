@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "core-content-option-a-2147"
 description: "Condensed recall notes on the 1848 revolutions, unification, alliances, imperialism and the causes of the First World War for Cambridge O Level History 2147."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

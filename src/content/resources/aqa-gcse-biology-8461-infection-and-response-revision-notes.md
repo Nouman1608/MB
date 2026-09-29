@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "infection-and-response-aqa-gcse-biology"
 description: "Condensed AQA GCSE Biology 8461 notes on pathogens, the seven named diseases, defences, vaccines, drugs and plant disease, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

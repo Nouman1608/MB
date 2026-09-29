@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "processor-fundamentals"
 description: "Condensed recall notes on CPU architecture, assembly language tracing, and bit manipulation for Cambridge AS & A Level Computer Science (9618), Topic 4."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-international-relations-depth-studies-9245"
 description: "The paper structure of Paper 1 for OxfordAQA International GCSE History (9245), a new qualification for teaching from September 2026."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "drugs-cambridge-igcse-biology"
 description: "Condensed Cambridge IGCSE Biology 0610 notes on drugs and antibiotics, with the Core/Extended split, a resistance method box and a self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

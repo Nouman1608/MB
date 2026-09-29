@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "organic-chemistry-4ch1"
 description: "Original exam-style practice questions with full worked answers on crude oil, fractional distillation, cracking, alkenes, fermentation and pollution from fuels for Pearson Edexcel International GCSE Chemistry (4CH1) Topic 4."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

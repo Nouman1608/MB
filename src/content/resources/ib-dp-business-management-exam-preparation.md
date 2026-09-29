@@ -10,6 +10,9 @@ syllabusCodes: ["DP Business Management"]
 order: 1
 description: "Paper-by-paper exam preparation for IB Diploma Programme Business Management -- how to use the pre-released Paper 1 statement, what to practise for the fully unseen Paper 2 and HL Paper 3, the four concepts as a planning tool, a worked scenario and a before/during-exam checklist."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

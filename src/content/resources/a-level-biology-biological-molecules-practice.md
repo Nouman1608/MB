@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "biological-molecules-cambridge-alevel-biology"
 description: "Original exam-style practice questions with full worked answers on biochemical tests, carbohydrates, lipids, proteins and water for Cambridge International AS & A Level Biology (9700) Topic 2."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

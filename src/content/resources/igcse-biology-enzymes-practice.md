@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "enzymes-cambridge-igcse-biology"
 description: "Original exam-style questions with full worked answers on catalysts, enzyme action, the effect of temperature and pH, kinetic energy and collisions, and enzyme specificity, for Cambridge IGCSE Biology (0610)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

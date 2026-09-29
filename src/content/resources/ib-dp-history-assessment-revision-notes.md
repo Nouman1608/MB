@@ -9,6 +9,9 @@ syllabusCodes: ["DP History"]
 order: 1
 description: "Condensed recall notes on the assessment structure at SL and HL -- papers, weightings and the four historical concepts -- for IB Diploma Programme History (first examined 2028)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 ---

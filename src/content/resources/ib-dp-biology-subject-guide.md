@@ -8,6 +8,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Biology"]
 description: "An overview of IB Diploma Programme Biology -- the study of life and living systems, its emphasis on scientific inquiry, and the aims shared across all three DP sciences subjects."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

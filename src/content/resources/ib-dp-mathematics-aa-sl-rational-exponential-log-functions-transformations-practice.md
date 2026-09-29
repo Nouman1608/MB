@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-2-11"
 description: "11 original IB DP Maths AA questions on rational, exp and log functions, equations and transformations, with mark-by-mark answers."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

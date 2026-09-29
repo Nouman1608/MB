@@ -11,6 +11,9 @@ syllabusCodes: ["9700"]
 order: 1
 description: "9700 Biology past papers guide: grade thresholds and examiner report notes for every March, June and November series from 2021 to 2024."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 ---

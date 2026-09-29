@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "ib-dp-computer-science-b-2"
 description: "Condensed revision notes on IB Diploma Programme Computer Science's B.2 Programming sub-topic -- the syllabus's single largest sub-topic at SL -- covering the programming process, testing, and how it links to B.1's computational thinking cycle, with self-test questions."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

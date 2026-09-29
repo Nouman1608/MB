@@ -11,6 +11,9 @@ syllabusSeries: "For first teaching 2020"
 order: 3
 description: "Why the two A2 papers of OxfordAQA International A-Level Economics 9640 are weighted 30% each against the AS papers' 20% each, and a worked essay-planning routine."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

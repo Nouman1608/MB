@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "rocks-and-minerals-and-their-exploitation-5014"
 description: "Original exam-style practice questions with full worked answers on rock types, the rock cycle, mining, and environmental impacts of extraction."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

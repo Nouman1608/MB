@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-5-11"
 description: "Learn IB DP Maths AA integration from scratch: anti-differentiation, reverse chain rule, definite integrals, areas and kinematics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

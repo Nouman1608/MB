@@ -36,6 +36,9 @@ syllabusTopics:
     subtopic: "separation-and-purification"
 description: "Condensed recall notes on apparatus, solution vocabulary, titrations, paper chromatography and Rf, and separation and purification for Cambridge IGCSE 0620 and O Level 5070 (2026-2028)."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

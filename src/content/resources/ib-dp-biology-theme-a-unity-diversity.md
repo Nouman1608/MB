@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-biology-unity-diversity"
 description: "The full content of IB Diploma Programme Biology's Theme A -- water, nucleic acids, origins of cells, cell structure, viruses, classification, evolution and speciation, and conservation of biodiversity -- with HL-only content marked."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

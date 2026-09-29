@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "an-introduction-to-the-role-of-the-accountant-in-business"
 description: "The accountant's responsibilities within a business, the difference between financial and management accounting, and the role of the accountant in overseeing accounting information systems -- the full content of Topic 1 for AQA A-Level Accounting (7127)."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

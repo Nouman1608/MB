@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-underlying-principles-and-english-legal-system-yla1"
 description: "The nature and purpose of law, legal theories, and how English law is made and administered -- Paper 1 of Pearson Edexcel International Advanced Level Law, one of two compulsory papers."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

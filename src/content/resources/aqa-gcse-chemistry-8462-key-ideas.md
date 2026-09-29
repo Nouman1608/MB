@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "key-ideas-8462"
 description: "Study guide to the AQA GCSE Chemistry 8462 key ideas: atoms, periodicity, bonding, structure, barriers to reaction, three reaction types and energy."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "equations"
 description: "Positive, negative and fractional indices, then linear, fractional, simultaneous and quadratic equations, and changing the subject of a formula, for Cambridge O Level Mathematics (Syllabus D) 4024."
 author: "muhammad-ghazali-siddiqui"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
 ---

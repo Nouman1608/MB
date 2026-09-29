@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "individuals-firms-markets-and-market-failure-aqa-alevel-economics"
 description: "Economic methodology, price determination, production and costs, market structures, and market failure and government intervention -- a syllabus map and study guide for section 3.1 for AQA A-Level Economics (7136)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

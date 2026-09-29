@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "component-1-non-fiction-texts-and-transactional-writing-4ea1"
 description: "Condensed recall notes on reading non-fiction, language analysis, comparison and transactional writing for Edexcel International GCSE English Language 4EA1."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

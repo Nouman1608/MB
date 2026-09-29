@@ -32,6 +32,9 @@ syllabusTopics:
     subtopic: "differentiation-cambridge-alevel-maths-1"
 description: "Original exam-style Pure Mathematics 1 questions with full worked answers: line and curve intersection, binomial coefficients, rates of change, trigonometric graphs, circles, stationary points, progressions and inverse functions, for Cambridge AS & A Level Mathematics 9709."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "unit-1-aspects-of-dramatic-tragedy-9675"
 description: "Condensed recall notes on Unit 1's two-section structure and genre-focused approach for OxfordAQA International AS & A-Level English Literature (9675)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 ---

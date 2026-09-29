@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "business-objectives-and-strategic-decisions-ocr-alevel-business"
 description: "Condensed recall notes on corporate objectives, SWOT and PESTLE, Ansoff, Porter, decision trees and investment appraisal for A Level Business."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

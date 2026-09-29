@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-history-culture-9236"
 description: "A full original practice paper for Paper 1 of OxfordAQA International GCSE Pakistan Studies (9236): Section A on the Pakistan movement, Section B on Pakistan from independence to 2022, and Section C on both optional topics, with mark schemes (77 marks)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 ---

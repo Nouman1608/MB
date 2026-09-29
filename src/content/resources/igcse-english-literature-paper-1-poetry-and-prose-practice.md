@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-poetry-and-prose-0475"
 description: "Original exam-technique practice questions with full worked answers on Paper 1's format, the command word Explore, and how the four assessment objectives are marked, for Cambridge IGCSE English Literature (0475)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

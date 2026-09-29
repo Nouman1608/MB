@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "equations-formulae-and-identities-edexcel-igcse-maths"
 description: "Original exam-style practice questions with full worked answers on index notation, expanding, factorising, algebraic fractions and completing the square, for Pearson Edexcel International GCSE Mathematics Higher Tier (4MA1)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 updatedDate: 2026-09-28
 featured: false

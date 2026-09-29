@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "paper-1-reading-9093"
 description: "Knowledge and understanding of textual forms and linguistic features, plus the analytical and creative reading and writing skills tested -- the full content of Paper 1 for Cambridge International AS & A Level English Language (9093)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

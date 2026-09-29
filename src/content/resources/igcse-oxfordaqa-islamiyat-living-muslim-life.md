@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-living-muslim-life-9237"
 description: "Islam: beliefs and teachings, and Islam: practices -- an overview of Paper 1 for OxfordAQA International GCSE Islamiat (9237)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

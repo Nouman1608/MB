@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "individuals-firms-markets-and-market-failure-aqa-alevel-economics"
 description: "Original exam-style practice questions with full worked answers on costs, revenue, market structures, market failure and behavioural economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

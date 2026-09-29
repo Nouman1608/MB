@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "electromagnetic-effects-cambridge-igcse-physics"
 description: "Original exam-style questions with full worked answers on current as rate of flow of charge, resistors in parallel, how resistance depends on length and cross-sectional area, the direction of an induced e.m.f., transformer calculations and power losses in transmission cables, for Cambridge IGCSE Physics (0625) Extended candidates."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
 featured: false

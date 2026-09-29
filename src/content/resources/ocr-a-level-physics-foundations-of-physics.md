@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "foundations-of-physics-ocr-alevel"
 description: "Physical quantities and units, making measurements and analysing data, and the nature of scalars and vectors -- the full content of Module 2 for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

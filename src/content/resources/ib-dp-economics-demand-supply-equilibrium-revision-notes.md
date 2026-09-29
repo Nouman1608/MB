@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-economics-unit-2"
 description: "Condensed SL-level recall notes on demand, supply and competitive market equilibrium (sub-topics 2.1-2.3), with a first look at price ceilings, for IB Diploma Programme Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 updatedDate: 2026-09-27
 featured: false

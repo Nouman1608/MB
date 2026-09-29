@@ -30,6 +30,9 @@ syllabusTopics:
     subtopic: "electromagnetic-effects-cambridge-igcse-physics"
 description: "Study guide for Cambridge IGCSE Physics 0625 Topic 4: magnetism, charge, circuits, electrical safety and electromagnetic effects, Core and Extended."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 updatedDate: 2026-09-28
 featured: false

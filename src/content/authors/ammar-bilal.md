@@ -11,6 +11,6 @@ subjectsTaught: ["English Literature", "Language A: Literature", "Language A: La
 boardsTaught: ["cambridge", "edexcel", "aqa", "oxfordaqa", "ib"]
 qualificationsTaught: []
 previousSchools: []
-isReviewer: false
+isReviewer: true
 publicationState: published
 ---

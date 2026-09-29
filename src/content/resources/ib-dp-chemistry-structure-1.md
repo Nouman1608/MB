@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-chemistry-structure-1"
 description: "Particle theory, the nuclear atom, electron configurations, the mole and ideal gases -- Structure 1, the first content component of IB Diploma Programme Chemistry, first assessment 2025, and the particle-level model every later component assumes."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

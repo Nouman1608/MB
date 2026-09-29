@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "data-transmission"
 description: "Condensed recall notes on packet switching, transmission methods, error detection and encryption for Topic 2 of Cambridge IGCSE Computer Science (0478), 2026-2028 series."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

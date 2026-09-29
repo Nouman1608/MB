@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "scaling-up-ocr-gcse-biology"
 description: "Condensed recall notes on diffusion/osmosis/active transport, mitosis, stem cells, surface area to volume ratio, and the human and plant transport systems for OCR GCSE (9-1) Biology A Gateway Science (J247), Topic B2."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

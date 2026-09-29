@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "hardware-0478"
 description: "Computer architecture and the fetch-decode-execute cycle, input/output devices and sensors, primary/secondary/cloud storage, and network hardware -- the full content of Topic 3 for Cambridge IGCSE Computer Science 0478, 2026-2028 series."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

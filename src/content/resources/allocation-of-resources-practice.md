@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "the-allocation-of-resources-cambridge-igcse-economics"
 description: "Original exam-style practice questions with full worked answers on demand and supply, price elasticity, market failure and the mixed economy."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

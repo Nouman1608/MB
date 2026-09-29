@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "natural-resources-sustainability-0448"
 description: "Condensed recall notes on water, forests, mineral resources and fish -- with named locations and the sustainability-question framework -- for Section 2 of Cambridge IGCSE Pakistan Studies Paper 2 (0448)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

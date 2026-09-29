@@ -16,6 +16,9 @@ syllabusTopics:
     topic: "paper-1-0493"
 description: "Cambridge IGCSE Islamiyat 0493 (2026-2027 series), Paper 1: the major themes of the Qur'an, its history and importance, the life of the Prophet Muhammad (pbuh), and the first Islamic community."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

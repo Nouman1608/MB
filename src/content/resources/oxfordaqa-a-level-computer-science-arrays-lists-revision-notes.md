@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "arrays-and-lists-oxfordaqa-alevel-cs"
 description: "Condensed recall notes on static vs dynamic data structures, and one/two-dimensional arrays and lists, for OxfordAQA International A-Level Computer Science (9645), sub-topic 3.2.1."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

@@ -21,6 +21,9 @@ syllabusTopics:
     subtopic: "leaf-structure-cambridge-igcse-biology"
 description: "Study guide to photosynthesis, limiting factors and leaf structure, with worked practical examples, for Cambridge IGCSE Biology 0610 Core and Extended."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

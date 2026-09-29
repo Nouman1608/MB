@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "unit-2-language-and-society-9670"
 description: "Original exam-style practice questions with full worked answers on the four social functions of language, connecting text analysis to academic argument, and Unit 2's assessment structure."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "water-0680"
 description: "Condensed recall notes on water sources and supply, water pollution, water-related disease control, and marine aquaculture for Cambridge IGCSE Environmental Management (0680)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

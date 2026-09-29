@@ -11,6 +11,9 @@ syllabusSeries: "First assessed 2019"
 order: 3
 description: "How OxfordAQA International A-Level English Literature 9675 mixes closed-book and open-book papers, and the Route A exam / Route B non-exam-assessment choice, plus a worked quotation-recall routine."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

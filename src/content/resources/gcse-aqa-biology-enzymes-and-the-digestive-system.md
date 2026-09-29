@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "the-human-digestive-system-aqa-gcse-biology"
 description: "Cells, tissues, organs and organ systems, and how digestive enzymes break down food -- 4.2.1 and 4.2.2.1 of AQA GCSE Biology (8461), including the lock and key model and required practicals 4 and 5."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

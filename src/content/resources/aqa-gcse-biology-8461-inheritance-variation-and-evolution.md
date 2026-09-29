@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "inheritance-variation-and-evolution-aqa-gcse-biology"
 description: "Study guide for AQA GCSE Biology 8461 topic 6: meiosis, DNA, Punnett squares, inherited disorders, evolution, breeding, cloning and classification."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

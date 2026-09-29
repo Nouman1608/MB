@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "geometry-and-measures-aqa-gcse-maths"
 description: "Twelve original AQA GCSE Maths 8300 geometry questions: angles, loci, circles, area, volume, trigonometry, similarity and vectors, fully worked."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

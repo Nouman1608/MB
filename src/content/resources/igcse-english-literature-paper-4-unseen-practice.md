@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-4-unseen-0475"
 description: "Original exam-technique practice questions with full worked answers on Paper 4's critical-commentary format, the 20-minute planning window, and building a scoring personal response, for Cambridge IGCSE Literature in English (0475)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

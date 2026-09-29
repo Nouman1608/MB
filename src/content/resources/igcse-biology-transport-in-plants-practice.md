@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "translocation-cambridge-igcse-biology"
 description: "Original exam-style questions with full worked answers on xylem and phloem, water uptake, transpiration pull, factors affecting transpiration, and translocation from sources to sinks, for Cambridge IGCSE Biology (0610)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

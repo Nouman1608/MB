@@ -40,6 +40,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-4-14"
 description: "Condensed IB DP Maths AA notes on probability, binomial and normal distributions, Bayes and continuous variables, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

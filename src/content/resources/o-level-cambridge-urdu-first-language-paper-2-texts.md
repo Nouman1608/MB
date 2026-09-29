@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "fl-paper-2-texts-3247"
 description: "Unseen Passage, Poetry and Prose -- the full structure of Paper 2 Texts for Cambridge O Level First Language Urdu 3247, 2027 series (Version 1), with its prescribed ghazal, nazm and prose set texts."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

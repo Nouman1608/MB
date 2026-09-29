@@ -11,6 +11,9 @@ syllabusSeries: "2026-2028"
 order: 3
 description: "Turning the 30/70 split of Cambridge O Level Commerce 7100 into a revision plan -- calculation-bearing multiple choice, writing to a varying mark tariff on Paper 2, a worked applied answer and a checklist."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

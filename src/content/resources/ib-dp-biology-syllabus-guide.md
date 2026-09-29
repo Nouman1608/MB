@@ -11,6 +11,9 @@ syllabusSeries: "First assessment 2025"
 order: 2
 description: "The four syllabus themes of IB Diploma Programme Biology -- Unity and diversity, Form and function, Interaction and interdependence, and Continuity and change -- with real sub-topic names, HL-only content marked, and recommended teaching hours, for first assessment 2025."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "excretion-in-humans-cambridge-igcse-biology"
 description: "Study guide for Cambridge IGCSE Biology 0610 topic 13: lungs, kidneys, the nephron, deamination and urea, with Core and Extended content labelled."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

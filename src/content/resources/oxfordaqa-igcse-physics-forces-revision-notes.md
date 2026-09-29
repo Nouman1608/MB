@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "forces-and-their-effects-oxfordaqa-igcse"
 description: "Condensed recall notes on forces, motion graphs, Newton laws, momentum, moments and Hooke law for International GCSE Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

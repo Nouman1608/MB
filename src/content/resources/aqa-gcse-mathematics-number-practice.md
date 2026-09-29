@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "number-aqa-gcse-maths"
 description: "Original exam-style practice questions with full worked answers on indices, surds, standard form, bounds and percentages."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -28,6 +28,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-5-18"
 description: "HL study guide for IB DP Maths AI differential equations: separation of variables, slope fields, Euler's method and phase portraits, worked in full."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

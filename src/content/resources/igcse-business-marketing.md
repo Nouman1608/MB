@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "marketing-cambridge-igcse-business"
 description: "Niche versus mass marketing, market segmentation, market research methods, the four Ps of the marketing mix, and marketing strategy for entering foreign markets -- the full content of Topic 3 for Cambridge IGCSE Business Studies 0450, 2026 series."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

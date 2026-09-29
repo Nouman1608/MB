@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "drugs-cambridge-igcse-biology"
 description: "Original practice questions for Cambridge IGCSE Biology 0610 topic 15 (Drugs), covering antibiotics, resistance data and MRSA, with mark-by-mark answers."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

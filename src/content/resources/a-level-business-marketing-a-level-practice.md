@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "marketing-a-cambridge-alevel-business"
 description: "Original exam-style questions with full worked answers on centred moving averages, seasonal variation, limitations of sales forecasting, correlation, cross elasticity of demand and international marketing strategy, for Cambridge AS & A Level Business (9609)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

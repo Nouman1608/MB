@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "the-gas-exchange-system-cambridge-alevel-biology"
 description: "The human gas exchange system from scratch: airways, tissues, plan diagrams and alveolar gas exchange, with worked examples, for Cambridge 9700 Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "bioenergetics-oxfordaqa-igcse-biology"
 description: "Photosynthesis, exchange and transport in plants, human circulation, digestion, breathing and respiration -- the six sub-topics of Bioenergetics in OxfordAQA International GCSE Biology (9201)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

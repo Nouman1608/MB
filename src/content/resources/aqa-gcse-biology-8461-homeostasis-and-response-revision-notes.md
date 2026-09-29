@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "homeostasis-and-response-aqa-gcse-biology"
 description: "Condensed AQA GCSE Biology 8461 notes on homeostasis: reflexes, eye, temperature, insulin, kidneys, ADH, menstrual cycle, auxin, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

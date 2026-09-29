@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "investigation-of-limiting-factors-cambridge-alevel"
 description: "Quick-recall notes on chloroplasts, pigments, Rf, cyclic and non-cyclic photophosphorylation, the Calvin cycle and limiting factors for Cambridge 9700."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "cell-level-systems-ocr-gcse-biology"
 description: "Cell structures and microscopy, DNA and protein synthesis, enzymes, respiration and the synthesis and breakdown of biological molecules, and photosynthesis, including experiments to investigate it -- a study guide to Topic B1 Cell level systems for OCR GCSE Gateway Science Suite Biology A (J247)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

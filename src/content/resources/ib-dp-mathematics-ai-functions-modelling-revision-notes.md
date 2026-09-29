@@ -31,6 +31,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-2-6"
 description: "Condensed IB Maths AI revision notes for functions and modelling (SL 2.1–2.6): model forms, GDC methods, key distinctions and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

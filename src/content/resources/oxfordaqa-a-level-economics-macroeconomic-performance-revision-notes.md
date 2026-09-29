@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "the-measurement-of-macroeconomic-performance-oxfordaqa-alevel-economics"
 description: "Condensed recall notes on government macroeconomic objectives, the Gini coefficient and other performance indicators, and index numbers, for OxfordAQA International A-Level Economics (9640), sub-topic 3.2.1."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

@@ -11,6 +11,9 @@ syllabusSeries: "First teaching 2016, first examined 2018"
 order: 3
 description: "Why either OxfordAQA International GCSE Chemistry 9202 paper can assess any topic, how practical work is examined without a practical exam, the calculation set worth drilling, and a worked moles routine."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

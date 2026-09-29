@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "conservation-cambridge-alevel-biology"
 description: "Original Cambridge 9700 practice questions on classification, sampling, Lincoln and Simpson's indices, correlation and conservation, with marked answers."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

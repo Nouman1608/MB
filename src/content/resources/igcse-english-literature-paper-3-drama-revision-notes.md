@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-3-drama-open-text-0475"
 description: "Condensed recall notes on Paper 3's open-book rule, single-text format, and how each assessment objective is rewarded, for Cambridge IGCSE Literature in English (0475), 2026 series."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

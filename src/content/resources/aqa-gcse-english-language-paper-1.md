@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-explorations-in-creative-reading-and-writing-8700"
 description: "Reading one literature fiction text and writing a creative response to a linked scenario -- the full structure, marks and assessment objectives of Paper 1, Explorations in Creative Reading and Writing, for AQA GCSE English Language (8700)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

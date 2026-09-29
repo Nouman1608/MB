@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-0493"
 description: "Original practice paper in the Cambridge IGCSE Islamiyat 0493 Paper 2 format: Question 1 on set Hadiths in Arabic and English, then two-part questions on the compilation of the Hadiths, Abu Bakr's caliphate, angels and zakat, with levels-based mark guidance."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

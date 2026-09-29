@@ -11,6 +11,9 @@ syllabusSeries: "For first teaching 2019"
 order: 3
 description: "How OxfordAQA International A-Level Physics 9630's five equally weighted papers work, why Physics in Practice can draw on any part of the specification, and a worked calculation-and-uncertainty routine."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

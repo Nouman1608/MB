@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "biological-molecules-aqa-alevel-biology"
 description: "Monomers and polymers, carbohydrates, lipids, proteins, nucleic acids, ATP, water and inorganic ions -- the full content of Topic 1 for AQA AS/A-Level Biology (7401/7402)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

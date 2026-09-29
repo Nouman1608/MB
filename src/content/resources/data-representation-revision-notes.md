@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "data-representation-0478"
 description: "Condensed recall notes on binary, hexadecimal, character sets, images, sound and compression for Cambridge IGCSE Computer Science 0478."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

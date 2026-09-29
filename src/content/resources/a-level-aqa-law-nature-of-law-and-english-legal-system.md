@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "the-nature-of-law-and-the-english-legal-system-7162"
 description: "Nature of law, the rule of law, law making and the legal system -- Section 3.1 of AQA A-level Law (7162), one of five content sections and the only one examined on all three papers, at 25 marks on each (75 of the qualification's 300 marks)."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

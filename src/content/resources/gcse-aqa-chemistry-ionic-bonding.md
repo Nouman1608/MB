@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "ionic-bonding-8462"
 description: "The three types of strong chemical bond, and how ionic bonding forms through electron transfer -- 4.2.1.1 and 4.2.1.2 of AQA GCSE Chemistry (8462), including dot and cross diagrams and working out ion charge from group number."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

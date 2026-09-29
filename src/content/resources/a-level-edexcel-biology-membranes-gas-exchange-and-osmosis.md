@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "membranes-proteins-dna-and-gene-expression-edexcel-alevel-biology"
 description: "Properties of gas exchange surfaces, Fick's Law, cell membrane structure and the fluid mosaic model, and osmosis and membrane transport -- outcomes 2.1-2.5 of Pearson Edexcel International A-Level Biology (YBI11), Topic 2."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "control-and-coordination-in-plants-cambridge"
 description: "Cambridge 9700 control and coordination revision notes: neurones, action potentials, synapses, sliding filaments and plant responses, plus a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "the-allocation-of-resources"
 description: "Original exam-style practice questions with full worked answers on demand, supply, market equilibrium, price elasticity and market failure for Cambridge O Level Economics 2281, Topic 2."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 ---

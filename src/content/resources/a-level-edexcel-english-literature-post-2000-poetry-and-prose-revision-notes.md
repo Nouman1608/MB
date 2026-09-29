@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "unit-1-post-2000-poetry-and-prose-yet01"
 description: "Condensed recall notes on Unit 1's two-section structure and assessment objectives for Pearson Edexcel International Advanced Level English Literature (YET01)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 ---

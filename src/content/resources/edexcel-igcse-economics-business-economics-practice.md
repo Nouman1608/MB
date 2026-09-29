@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "business-economics-edexcel-igcse-economics"
 description: "Original exam-style practice questions with full worked answers on factors of production, productivity, division of labour, costs, revenue and economies of scale, built as four compulsory questions with mixed sub-question types, matching the specification's paper structure, for Pearson Edexcel International GCSE Economics (4EC1)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

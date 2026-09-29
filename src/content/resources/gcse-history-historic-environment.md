@@ -10,6 +10,9 @@ syllabusCodes: ["8145"]
 order: 5
 description: "How the Historic Environment element works within AQA GCSE History (8145) Paper 2 -- connecting a specified site's key features to your chosen British depth study and the second-order concepts the question draws on: change, continuity, causation and consequence."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

@@ -11,6 +11,9 @@ syllabusSeries: "First assessment 2028"
 order: 2
 description: "Cause and consequence, continuity and change, perspectives, and significance -- the four historical concepts that structure every DP History paper regardless of which focused study, thematic study or regional study a class covers, first assessment 2028."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

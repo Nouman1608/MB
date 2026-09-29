@@ -11,6 +11,9 @@ syllabusSeries: "For first teaching 2026, first exams May/June 2028"
 order: 3
 description: "How the two papers of the new OxfordAQA International GCSE History 9245 use internal choice and pre-released sources, and a worked source-attribution routine."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

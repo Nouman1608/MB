@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "statistics-ocr-alevel-maths"
 description: "Statistical sampling, data presentation and interpretation (including bivariate data and correlation), probability, statistical distributions, and statistical hypothesis testing (binomial, normal mean and correlation tests) -- the full content of the Statistics strand for OCR A Level Mathematics A (H240)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

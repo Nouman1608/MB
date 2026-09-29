@@ -21,6 +21,9 @@ syllabusTopics:
     subtopic: "fracking-5014-2027"
 description: "Fossil fuel formation, renewable and non-renewable energy resources, energy demand, conservation and management of energy resources, and fracking -- sub-topics 1.4-1.6 of Topic 1 Natural resources in the 2027-2029 Cambridge O Level Environmental Management (5014) syllabus."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-21
 featured: false
 ---

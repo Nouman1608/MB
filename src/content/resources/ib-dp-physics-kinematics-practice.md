@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-physics-topic-a"
 description: "Original SL-level practice questions with full worked answers on kinematics for IB Diploma Programme Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 ---

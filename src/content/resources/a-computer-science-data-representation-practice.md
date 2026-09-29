@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "information-representation"
 description: "Original exam-style practice questions with full worked answers on two's complement, overflow, character sets and compression for AS Computer Science. Floating point is full-A-Level-only content and is not covered by these AS-stage questions."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

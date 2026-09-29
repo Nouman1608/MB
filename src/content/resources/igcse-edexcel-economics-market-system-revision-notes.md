@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "the-market-system-edexcel-igcse-economics"
 description: "Condensed recall notes on demand, supply, elasticity, market failure and government intervention for Edexcel International GCSE Economics 4EC1."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

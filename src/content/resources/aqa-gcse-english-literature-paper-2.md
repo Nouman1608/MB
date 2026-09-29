@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-modern-texts-and-poetry-8702"
 description: "Modern prose or drama, the poetry anthology cluster, and unseen poetry -- the full structure of Paper 2 for AQA GCSE English Literature (8702), the paper worth 60% of the qualification."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

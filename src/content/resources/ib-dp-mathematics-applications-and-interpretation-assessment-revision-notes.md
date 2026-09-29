@@ -10,6 +10,9 @@ syllabusSeries: "First assessment 2021"
 order: 1
 description: "Condensed recall notes on the assessment structure at SL and HL -- papers, weightings, technology use and the mathematical exploration -- for IB Diploma Programme Mathematics: Applications and Interpretation."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 ---

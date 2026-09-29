@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-mathematics-analysis-and-approaches-functions"
 description: "Original practice questions with full worked answers on domain and range, composite and inverse functions, transformations, and equations combining exponentials and logarithms, for the Functions strand of IB Diploma Programme Mathematics: Analysis and Approaches."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

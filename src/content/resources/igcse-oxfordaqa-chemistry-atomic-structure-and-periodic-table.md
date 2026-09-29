@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "atomic-structure-and-the-periodic-table-9202"
 description: "States of matter, the structure of the atom, and the periodic table's arrangement by proton number -- the opening topic of OxfordAQA International GCSE Chemistry 9202, and the foundation for every topic that follows."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

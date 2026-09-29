@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-3-6"
 description: "Condensed IB Maths AI revision notes on perpendicular bisectors and Voronoi diagrams: key methods, must-know terms and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

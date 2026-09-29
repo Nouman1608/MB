@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "analysis-and-interpretation"
 description: "Exam-style questions with full worked answers on calculating and interpreting the ten accounting ratios, profit and cash, inter-business comparison, interested parties and the limitations of accounting statements, including a 20-mark structured question, for Cambridge IGCSE Accounting (0452) Topic 6, 2027-2029 syllabus."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-16
 featured: false
 ---

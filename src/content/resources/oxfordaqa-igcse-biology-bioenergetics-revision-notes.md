@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "bioenergetics-oxfordaqa-igcse-biology"
 description: "Condensed recall notes on photosynthesis, exchange and transport in plants, circulation, digestion, breathing and respiration, for OxfordAQA International GCSE Biology (9201), Topic 2 Bioenergetics."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

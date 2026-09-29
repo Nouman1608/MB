@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "preparation-of-financial-statements"
 description: "Statements of profit or loss and statements of financial position with year-end adjustments for sole traders, partnerships and limited companies, plus manufacturing accounts, clubs and societies and incomplete records, with fully balanced worked examples, for Cambridge IGCSE Accounting (0452) Topic 5, 2027-2029 syllabus."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-16
 featured: false
 ---

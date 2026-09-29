@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "mensuration"
 description: "Original exam-style questions with full worked answers on area units, arcs and sectors, circles, cylinders, cones and hemispheres, for Cambridge O Level Mathematics 4024."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 featured: false
 ---

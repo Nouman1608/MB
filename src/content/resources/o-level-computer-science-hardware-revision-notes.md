@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "hardware-2210"
 description: "Condensed recall notes on CPU components and the FDE cycle, input/output devices and sensors, storage types, and network hardware for Cambridge O Level Computer Science (2210)."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

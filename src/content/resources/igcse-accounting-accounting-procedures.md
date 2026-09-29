@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "accounting-procedures"
 description: "Capital and revenue expenditure and receipts, depreciation and disposal of non-current assets, other payables and other receivables, irrecoverable debts and the allowance for irrecoverable debts, and inventory valuation — the year-end procedures of Cambridge IGCSE Accounting (0452) Topic 4, 2027-2029 syllabus."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-16
 featured: false
 ---

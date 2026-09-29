@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "carboxylic-acids"
 description: "Condensed recall notes on making ethanol, its combustion and uses, reactions of ethanoic acid, oxidation of ethanol and esters for Cambridge IGCSE 0620 and O Level 5070 (2026-2028)."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

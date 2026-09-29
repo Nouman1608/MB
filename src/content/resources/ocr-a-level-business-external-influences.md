@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "external-influences-facing-businesses-ocr-alevel-business"
 description: "Markets, market forces and competition, the global context, and political, economic, social, technological, ethical, legal and environmental factors -- the full content of External Influences Facing Businesses for OCR A Level Business (H431)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

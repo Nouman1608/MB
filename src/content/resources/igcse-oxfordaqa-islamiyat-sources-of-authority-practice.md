@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "sources-of-authority-9237"
 description: "Two original Section B practice sets in the OxfordAQA International GCSE Islamiat 9237 Paper 2 format (1, 2, 4, 6 and 12-mark parts, 25 marks each) on the Qur'an, the Hadith and Sunnah, and Ijma and Qiyas as sources of authority, sub-topics 3.2.2.1-3.2.2.5."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

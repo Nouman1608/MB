@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "probability-edexcel-igcse-maths"
 description: "Study guide for Edexcel IGCSE Maths 4MA1 topic 6: charts, histograms, cumulative frequency, averages, quartiles, Venn diagrams and tree diagrams."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

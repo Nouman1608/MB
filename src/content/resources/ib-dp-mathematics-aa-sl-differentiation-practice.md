@@ -34,6 +34,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-5-8"
 description: "11 original IB DP Maths AA differentiation questions on limits, tangents, the chain, product and quotient rules and optimisation, with marked answers."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

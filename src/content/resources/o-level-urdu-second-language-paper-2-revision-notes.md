@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "sl-paper-2-grammar-writing-translation-3248"
 description: "Condensed recall notes on sentence transformation, cloze, extended writing and translation for Paper 2 of Cambridge O Level Second Language Urdu (3248), 2027-2029 series."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

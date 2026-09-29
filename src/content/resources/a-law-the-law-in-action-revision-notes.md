@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-the-law-in-action-yla1"
 description: "Condensed recall notes on contract and negligence, criminal liability and property offences, and defamation, human rights, privacy and occupiers' liability for A Level Law Paper 2."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-30
 featured: false
 ---

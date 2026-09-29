@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "natural-resources-sustainability-2059"
 description: "Condensed recall notes on water, forests, mineral resources and fish -- with the sustainability-evaluation framework each Paper 2 question rewards -- for Section 2 of Cambridge O Level Pakistan Studies Paper 2 (2059)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

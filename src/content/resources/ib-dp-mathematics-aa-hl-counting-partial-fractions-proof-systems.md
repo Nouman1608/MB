@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-1-16"
 description: "IB DP Maths AA HL study guide to counting, the extended binomial theorem, partial fractions, proof and 3×3 linear systems, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

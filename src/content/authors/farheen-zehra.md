@@ -13,6 +13,6 @@ yearsExperience: 20
 previousSchools: ["LACAS", "Roots", "The City School"]
 sourceUrl: "https://learnersacademy.com.pk/teachers/"
 verifiedOn: 2026-08-18
-isReviewer: false
+isReviewer: true
 publicationState: published
 ---

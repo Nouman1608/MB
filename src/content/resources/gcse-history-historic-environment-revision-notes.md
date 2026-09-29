@@ -10,6 +10,9 @@ syllabusCodes: ["8145"]
 order: 1
 description: "Condensed recall notes on how to approach the Historic Environment study within AQA GCSE History (8145)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 ---

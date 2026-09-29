@@ -11,6 +11,9 @@ syllabusSeries: "From 2020, first assessment 2022"
 order: 2
 description: "The four branches of the IB Middle Years Programme Mathematics framework -- numerical and abstract reasoning, thinking with models, spatial reasoning, reasoning with data -- and its four assessment criteria, for first assessment 2022."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

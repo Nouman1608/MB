@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "unit-1-aspects-of-dramatic-tragedy-9675"
 description: "Original exam-style practice questions with full worked answers on Unit 1 of OxfordAQA International AS & A-Level English Literature (9675)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 ---

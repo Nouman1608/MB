@@ -37,6 +37,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-1-8"
 description: "IB DP Maths AI study guide to standard form, sequences, compound interest, logarithms, rounding errors, loans, annuities and GDC equation solving."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

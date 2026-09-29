@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "human-resource-management-as-cambridge-alevel-business"
 description: "Original exam-style practice questions with full worked answers on recruitment, motivation and management for Cambridge AS & A Level Business (9609) Topic 2 Human resource management."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "data-transmission"
 description: "Original exam-style practice questions with full worked answers on packet switching, transmission methods, error detection and encryption, for Cambridge IGCSE Computer Science (0478) Topic 2 Data Transmission."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

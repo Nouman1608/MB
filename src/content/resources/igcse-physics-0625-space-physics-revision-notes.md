@@ -21,6 +21,9 @@ syllabusTopics:
     subtopic: "stars-and-the-universe-cambridge-igcse-physics"
 description: "Condensed Cambridge IGCSE Physics 0625 space physics revision notes: key facts, equations, star life cycle, Hubble constant and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 updatedDate: 2026-09-28
 featured: false

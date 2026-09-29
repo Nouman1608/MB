@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "development-of-practical-skills-in-biology-ocr-alevel-biology"
 description: "Practical skills assessed in the written examinations and practical skills assessed in the Practical Endorsement -- the full content of Module 1 for OCR A-Level Biology A (H420)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

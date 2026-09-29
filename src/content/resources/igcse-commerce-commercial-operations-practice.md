@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "commercial-operations-0715"
 description: "Original exam-style practice questions with full worked answers on commercial enterprises, location factors, outsourcing, retailing and ecommerce, trading documents and a short item on communication, for Cambridge IGCSE Commerce (0715) Topic 2 Commercial Operations."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

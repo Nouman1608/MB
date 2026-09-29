@@ -30,6 +30,9 @@ syllabusTopics:
     subtopic: "hypothesis-tests-cambridge-alevel-maths"
 description: "Study guide for Cambridge 9709 Probability & Statistics 2 (Paper 6): Poisson, linear combinations, PDFs, estimation and hypothesis tests, fully worked."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

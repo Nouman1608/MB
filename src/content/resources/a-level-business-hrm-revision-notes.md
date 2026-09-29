@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "human-resource-management-as-cambridge-alevel-business"
 description: "Condensed revision notes on recruitment, motivation and management for Cambridge AS & A Level Business Topic 2 Human resource management (9609)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

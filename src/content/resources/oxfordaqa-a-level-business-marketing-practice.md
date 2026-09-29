@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "marketing-oxfordaqa-alevel-business"
 description: "Original practice paper in the section layout of the 9625 International AS Unit 1 paper (Sections A, B and C of 17, 27 and 36 marks), all on Topic 2 Marketing, with worked answers on marketing objectives, research, segmentation-targeting-positioning and the 7Ps marketing mix; the different 9725 layout and 4Ps mix are flagged."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

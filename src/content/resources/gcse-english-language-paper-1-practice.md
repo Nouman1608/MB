@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-explorations-in-creative-reading-and-writing-8700"
 description: "Original exam-style practice questions with full worked answers on Paper 1 reading and writing skills for AQA GCSE English Language 8700."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "matter-ocr-gcse"
 description: "Original exam-style practice questions with full worked answers on density, changes of state, specific heat capacity and gas pressure for OCR GCSE Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

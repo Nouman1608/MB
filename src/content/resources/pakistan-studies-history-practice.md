@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-history-culture-0448"
 description: "A full original practice paper for Cambridge IGCSE Pakistan Studies (0448) Paper 1: a source-based Section A question and four Section B questions in 4, 7 and 14-mark parts, with levels-based mark schemes."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

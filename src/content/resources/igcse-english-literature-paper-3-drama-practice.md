@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-3-drama-open-text-0475"
 description: "Original exam-technique practice questions with full worked answers on Paper 3's open-book rule, format, and how the four assessment objectives are marked, for Cambridge IGCSE Literature in English (0475)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

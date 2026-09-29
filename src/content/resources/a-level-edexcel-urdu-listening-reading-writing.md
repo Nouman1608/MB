@@ -11,6 +11,9 @@ syllabusSeries: "2018"
 order: 3
 description: "Section A Listening Comprehension and Section B Listening, Reading and Writing -- the structure, timing and skills of Paper 3 for Pearson Edexcel GCE A-Level Urdu (9UR0)."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

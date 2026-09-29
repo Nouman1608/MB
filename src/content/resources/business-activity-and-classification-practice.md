@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "classification-of-businesses"
 description: "Original exam-style practice questions with full worked answers on business activity, sectors, added value, stakeholders and enterprise."
 author: "asif-iqbal"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

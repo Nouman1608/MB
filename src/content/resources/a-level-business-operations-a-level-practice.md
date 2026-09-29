@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "operations-management-a-cambridge-alevel-business"
 description: "Original exam-style questions with full worked answers on total quality management, quality assurance, kaizen, critical path analysis, location decisions and diseconomies of scale, for Cambridge AS & A Level Business (9609)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

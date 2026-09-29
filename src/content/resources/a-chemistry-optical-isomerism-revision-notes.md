@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "a-isomerism"
 description: "Condensed recall notes on enantiomers, optical activity, racemic mixtures, the effect of optical isomers on plane-polarised light, and chirality in the synthesis of drug molecules for Cambridge A Level Chemistry 9701 (2025-2027)."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

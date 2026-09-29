@@ -8,6 +8,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Chemistry"]
 description: "An overview of IB Diploma Programme Chemistry -- identifying patterns that explain matter at the microscopic level, its emphasis on scientific inquiry, and the aims shared across all three DP sciences subjects."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

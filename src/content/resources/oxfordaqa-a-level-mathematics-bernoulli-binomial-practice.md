@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "s1-bernoulli-and-binomial-distributions-oxfordaqa-alevel-maths"
 description: "Original exam-style practice questions with full worked answers on Bernoulli trials, the conditions for a binomial distribution, calculating binomial probabilities, and the mean and variance of binomial and Bernoulli distributions."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

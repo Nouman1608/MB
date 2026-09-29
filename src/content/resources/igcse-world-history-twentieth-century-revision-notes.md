@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "core-content-option-b-0470"
 description: "Condensed recall notes on Versailles, the League of Nations, Hitler's foreign policy, the origins of the Cold War, containment and Soviet control of Eastern Europe for Cambridge IGCSE History 0470."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

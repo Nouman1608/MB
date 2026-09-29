@@ -9,6 +9,9 @@ syllabusCodes: ["DP Business Management"]
 order: 1
 description: "Condensed recall notes on the assessment structure at SL and HL -- papers, weightings and the internal assessment -- for IB Diploma Programme Business Management."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 ---

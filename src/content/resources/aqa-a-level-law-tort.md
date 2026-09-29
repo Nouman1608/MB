@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "tort-7162"
 description: "Negligence, occupiers' liability, nuisance, vicarious liability, defences and remedies -- the full content of Section 3.3 for AQA A-Level Law (7162)."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

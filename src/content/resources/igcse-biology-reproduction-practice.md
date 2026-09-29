@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "sexual-reproduction-in-humans-cambridge-igcse-biology"
 description: "Original exam-style questions with full worked answers on asexual and sexual reproduction, the female reproductive system, gametes, the amniotic sac, the placenta and the advantages of sexual reproduction, for Cambridge IGCSE Biology (0610)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

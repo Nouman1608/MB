@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-4-3"
 description: "Study guide to sampling methods, outliers, histograms, cumulative frequency, box plots, mean and standard deviation for IB DP Maths AI SL and HL."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

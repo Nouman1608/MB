@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "principles-of-accounting-and-double-entry-bookkeeping"
 description: "The role and purpose of accounting, the double entry system, accounting concepts and conventions, capital and revenue expenditure, and non-current asset depreciation -- the full content of Topic 1 for Pearson Edexcel International A Level Accounting (YAC11), Unit 1."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

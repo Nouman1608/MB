@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "chemical-changes-8462"
 description: "AQA GCSE Chemistry 8462 Chemical changes taught from scratch: reactivity, redox, acids, salts, pH, titrations and electrolysis, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "the-nature-and-variety-of-living-organisms-edexcel-igcse-biology"
 description: "Characteristics of living organisms and the variety of living organisms (plants, animals, fungi, protoctists, bacteria and pathogens) -- the opening topic of Pearson Edexcel International GCSE Biology (4BI1), an untiered, linear qualification."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

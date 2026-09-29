@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "american-option-history-usa-9489"
 description: "Condensed revision notes on the origins of the Civil War, Reconstruction, the Gilded Age and Progressive Era, and the Great Depression and New Deal for Cambridge AS & A Level History's American Option (9489)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

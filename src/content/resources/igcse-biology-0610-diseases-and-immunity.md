@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "diseases-and-immunity-cambridge-igcse-biology"
 description: "Study guide to pathogens, transmission, body defences, disease control, immunity, vaccination and cholera, Core and Extended, for Cambridge IGCSE 0610."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

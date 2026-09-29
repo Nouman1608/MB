@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-mathematics-applications-and-interpretation-statistics-and-probability"
 description: "Descriptive statistics, probability, distributions and inferential statistics -- one of the two largest content strands of IB Diploma Programme Mathematics: Applications and Interpretation, first assessment 2021, and the technology fluency and interpretive skill it specifically rewards."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

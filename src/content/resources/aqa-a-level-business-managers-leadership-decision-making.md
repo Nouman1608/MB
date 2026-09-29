@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "managers-leadership-and-decision-making-aqa-alevel-business"
 description: "Management vs leadership, leadership styles, scientific and intuitive decision making, and stakeholder mapping -- the full content of Topic 2 for AQA A-Level Business (7132)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "commerce-and-production-0715"
 description: "Original exam-style practice questions with full worked answers on production, commerce, trade, aids to trade and the chain of distribution."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

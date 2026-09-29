@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "atomic-structure-and-the-periodic-table-8462"
 description: "Condensed recall notes on atomic models, isotopes, electron configuration, group trends and separation techniques for AQA GCSE Chemistry 8462."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

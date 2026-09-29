@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "the-human-digestive-system-aqa-gcse-biology"
 description: "Original exam-style practice questions with full worked answers on cells, tissues, organs and organ systems, digestive enzymes, bile, and required practicals 4 and 5 for AQA GCSE Biology (8461), covering 4.2.1 and 4.2.2.1."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

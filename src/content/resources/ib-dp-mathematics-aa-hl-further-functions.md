@@ -28,6 +28,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-2-16"
 description: "Study guide to IB DP Maths AA HL further functions: factor theorem, roots of polynomials, rational graphs, odd/even and inverse functions, modulus."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

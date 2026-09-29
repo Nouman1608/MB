@@ -21,6 +21,9 @@ syllabusTopics:
     subtopic: "opportunity-cost"
 description: "Original exam-style practice questions with full worked answers on finite resources and unlimited wants, the four factors of production, and opportunity cost, for Cambridge O Level Economics (2281) Topic 1."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

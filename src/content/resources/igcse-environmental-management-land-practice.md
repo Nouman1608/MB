@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "land-0680"
 description: "Original exam-style practice questions with full worked answers on soils and crop growth, food production and crop yield, and soil erosion, for Cambridge IGCSE Environmental Management (0680) Topic 2 Land."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

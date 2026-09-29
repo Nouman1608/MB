@@ -11,6 +11,9 @@ syllabusSeries: "First teaching 2016; revised set texts for first teaching 2026"
 order: 3
 description: "How OxfordAQA International GCSE English Literature 9275's compulsory Paper 1 combines with either Route A's open-book Paper 2a or Route B's shorter Paper 2b plus a non-exam assessment."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "people-in-business-cambridge-igcse-business"
 description: "Condensed recall notes on motivation theory, organisational structure, leadership styles, recruitment/training, and communication for Cambridge IGCSE Business Studies (0450)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

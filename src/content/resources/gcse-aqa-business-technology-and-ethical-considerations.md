@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "technology-aqa-gcse-business"
 description: "E-commerce and digital communication, and the trade-offs between ethics, sustainability and profit -- 3.2.1 and 3.2.2 of AQA GCSE Business (8132), the opening two sub-topics of Influences on Business."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

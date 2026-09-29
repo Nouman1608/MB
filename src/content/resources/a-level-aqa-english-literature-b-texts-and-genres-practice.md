@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-texts-and-genres-7717"
 description: "Original exam-technique practice questions with full worked answers on Paper 2's open-book format, the elements framework, and structuring a genuinely connective Section C essay, for AQA A-Level English Literature B (7717)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

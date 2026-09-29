@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "general-elements-of-liability-7162"
 description: "Actus reus, mens rea, strict liability and the coincidence of actus reus and mens rea -- 3.2.3 General Elements of Liability, the foundational content of AQA A-Level Law (7162)'s Criminal Law section."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

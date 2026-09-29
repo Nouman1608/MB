@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "understanding-business-activity-cambridge-igcse-business"
 description: "Original exam-style practice questions with full worked answers on added value, ownership, stakeholders and business size for Cambridge IGCSE Business Studies 0450."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

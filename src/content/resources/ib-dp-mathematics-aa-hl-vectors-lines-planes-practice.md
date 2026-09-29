@@ -34,6 +34,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-3-18"
 description: "12 original IB DP Maths AA HL vectors, lines and planes questions, calculator-free and calculator allowed, with mark-by-mark worked answers."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

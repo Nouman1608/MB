@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "introduction-to-economics-ocr-gcse-economics"
 description: "Condensed recall notes on scarcity, opportunity cost, factors of production, economic systems, specialisation and money for OCR GCSE Economics J205."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "business-activity-marketing-and-people-ocr-gcse-business"
 description: "Business activity, marketing, and people -- the three sections of Component 1 (J204/01) for OCR GCSE Business (J204)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

@@ -28,6 +28,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-4-10"
 description: "Study guide to sampling, data displays, summary statistics, correlation and regression lines for IB DP Maths AA SL and HL, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

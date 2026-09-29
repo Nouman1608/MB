@@ -34,6 +34,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-3-13"
 description: "Study guide for IB Maths AI HL sections 3.7-3.13: radians, the unit circle, matrix transformations, vectors, kinematics, scalar and vector products."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

@@ -11,6 +11,9 @@ syllabusSeries: "Specification Issue 7, February 2026"
 order: 3
 description: "Why Edexcel IAL English Literature YET01's 50-mark units give unusually generous time per mark, how Unit 3's uneven 20/30 section split changes pacing, and a worked comparative-paragraph routine."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-biology-unity-diversity"
 description: "Condensed revision notes on IB Diploma Programme Biology's Theme A -- Unity and diversity -- water, nucleic acids, cell structure, classification, evolution and conservation -- with HL-only content marked and self-test questions."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

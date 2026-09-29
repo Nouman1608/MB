@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "introduction-to-economics-ocr-gcse-economics"
 description: "Main economic groups and factors of production, and the basic economic problem -- Topic 1 of Component 01 for OCR GCSE Economics (J205)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

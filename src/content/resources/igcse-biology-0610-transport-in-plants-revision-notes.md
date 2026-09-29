@@ -27,6 +27,9 @@ syllabusTopics:
     subtopic: "translocation-cambridge-igcse-biology"
 description: "Condensed revision notes on xylem, phloem, root hairs, transpiration, wilting and sources and sinks, with a self-test, for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "landscape-natural-resources-9236"
 description: "Condensed recall notes on Pakistan's landscape, climate, and mineral, energy and water resources for OxfordAQA International GCSE Pakistan Studies sub-topic 3.2.1 (9236)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

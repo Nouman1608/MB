@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "number"
 description: "Original exam-style questions with full worked answers on negative numbers, prime factors, HCF and LCM, percentages, ratio, estimation, surds, recurring decimals, interest, bounds and standard form, for Cambridge O Level Mathematics 4024."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 featured: false
 ---

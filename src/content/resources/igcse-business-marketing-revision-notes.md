@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "marketing-cambridge-igcse-business"
 description: "Condensed recall notes on niche/mass marketing, market research, the four Ps, and marketing strategy for Cambridge IGCSE Business Studies (0450)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

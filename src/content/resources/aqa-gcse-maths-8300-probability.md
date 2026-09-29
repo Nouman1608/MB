@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "probability-aqa-gcse-maths"
 description: "Study guide for AQA GCSE Maths 8300 Probability (P1-P9): relative frequency, sample spaces, Venn and tree diagrams, and conditional probability."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

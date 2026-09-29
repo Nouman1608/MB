@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "external-influences-facing-businesses-ocr-alevel-business"
 description: "Original exam-style practice questions with full worked answers on markets, market forces, globalisation and PESTLE factors for OCR A Level Business (H431), the External Influences Facing Businesses area of study."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 ---

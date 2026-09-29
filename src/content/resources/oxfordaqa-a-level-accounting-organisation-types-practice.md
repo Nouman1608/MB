@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "types-of-business-organisation-oxfordaqa"
 description: "Original exam-style practice questions with full worked answers on the four business ownership types, their liability and reporting obligations, and sources of finance."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

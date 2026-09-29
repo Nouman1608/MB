@@ -21,6 +21,9 @@ syllabusTopics:
     subtopic: "active-transport-cambridge-igcse-biology"
 description: "Original exam-style practice questions with full worked answers on diffusion, osmosis and active transport, with Core and Supplement content marked, for Cambridge IGCSE Biology (0610) Topic 3."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false

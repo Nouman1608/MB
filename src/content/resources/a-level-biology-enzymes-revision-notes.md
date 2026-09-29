@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "enzymes-cambridge-alevel-biology"
 description: "Condensed recall notes on enzyme mode of action, lock-and-key vs induced-fit, factors affecting rate, Michaelis-Menten kinetics, inhibitors and immobilised enzymes, for Cambridge International AS & A Level Biology (9700) Topic 3."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

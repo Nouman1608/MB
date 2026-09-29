@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "key-ideas-aqa-gcse-biology"
 description: "Study guide to the nine AQA GCSE Biology 8461 key ideas, showing where each appears in the specification and how to use them in linked answers."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

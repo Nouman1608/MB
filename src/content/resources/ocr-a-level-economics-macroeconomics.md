@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "macroeconomics-ocr-alevel-economics"
 description: "Aggregate demand and supply, economic policy objectives, implementing policy, the global context, and the financial sector -- a syllabus map and study guide for Component 2, Macroeconomics, for OCR A Level Economics (H460)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

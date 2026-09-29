@@ -11,6 +11,9 @@ syllabusSeries: "For first teaching 2016"
 order: 3
 description: "Why Component 1 of Pearson Edexcel IGCSE English Literature 4ET1 is closed book while Component 2 is open book, how the coursework alternative differs, and a worked quotation-selection routine."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

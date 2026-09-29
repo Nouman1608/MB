@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "differentiation-cambridge-igcse-maths"
 description: "Algebraic manipulation, equations, inequalities, sequences and graphs -- the Core and Extended content of Topic 2 Algebra and graphs for Cambridge IGCSE Mathematics 0580, 2025-2027 series."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-29
 updatedDate: 2026-09-27
 featured: false

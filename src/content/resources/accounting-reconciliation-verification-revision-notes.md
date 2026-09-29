@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "reconciliation-and-verification"
 description: "Condensed recall notes on the six trial-balance-proof error types, bank reconciliation, and control accounts for Cambridge International AS & A Level Accounting (9706), Topic 1.4."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

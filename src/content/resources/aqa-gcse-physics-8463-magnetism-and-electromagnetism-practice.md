@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "induced-potential-transformers-and-the-national-grid"
 description: "Twelve original AQA GCSE Physics 8463 magnetism questions on fields, electromagnets, F = BIl, motors, generators and transformers, with marked answers."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

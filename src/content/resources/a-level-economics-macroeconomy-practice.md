@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "the-macroeconomy-as-cambridge-alevel-economics"
 description: "Original exam-style practice questions with full worked answers on inflation, the consumer price index, deflation and disinflation, aggregate demand and real GDP for Cambridge AS & A Level Economics (9708) Topic 4."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "verification-of-accounting-records"
 description: "Condensed recall notes on the trial balance, the six error types, bank reconciliation, control accounts and the impact of digital records for Cambridge IGCSE Accounting (0452), 2027-2029 syllabus."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

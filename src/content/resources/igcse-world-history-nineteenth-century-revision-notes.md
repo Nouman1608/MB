@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "core-content-option-a-0470"
 description: "Condensed recall notes on unification, alliances, imperialism and the causes of the First World War for Cambridge IGCSE History 0470."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

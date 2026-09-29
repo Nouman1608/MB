@@ -13,6 +13,6 @@ yearsExperience: 25
 previousSchools: ["Aitchison College", "LGS", "Garrison", "Newlands", "Learning Alliance", "TNS", "ISL", "SICAS", "BTSC", "Crescent CornerStone"]
 sourceUrl: "https://learnersacademy.com.pk/teachers/"
 verifiedOn: 2026-08-18
-isReviewer: false
+isReviewer: true
 publicationState: published
 ---

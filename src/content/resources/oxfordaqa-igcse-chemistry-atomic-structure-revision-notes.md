@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "atomic-structure-and-the-periodic-table-9202"
 description: "Condensed recall notes on states of matter, the structure of the atom, and the periodic table's arrangement by proton number, for OxfordAQA International GCSE Chemistry (9202), Topic 1."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

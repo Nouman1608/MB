@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "sources-of-authority-9237"
 description: "Condensed recall notes on the Qur'an, Hadith, Sunnah, Ijma and Qiyas as sources of authority for OxfordAQA International GCSE Islamiat sub-topics 3.2.2.1-3.2.2.5 (9237)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

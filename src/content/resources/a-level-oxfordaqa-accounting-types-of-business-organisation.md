@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "types-of-business-organisation-oxfordaqa"
 description: "Sole traders, partnerships, private and public limited companies, and the sources of finance available to each -- Topic 3.1.2 of OxfordAQA International AS and A-Level Accounting (9615)."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

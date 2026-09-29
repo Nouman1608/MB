@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "core-content-option-b-2147"
 description: "Condensed revision notes on the Treaty of Versailles, the League of Nations, Hitler's foreign policy, and the origins and end of the Cold War for Cambridge O Level World History Option B (2147)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "radioactivity-cambridge-igcse-physics"
 description: "Sixteen original Cambridge IGCSE Physics 0625 nuclear physics questions, Core and Extended: atoms and ions, nuclide notation, isotopes, background radiation, alpha, beta and gamma, decay equations, half-life, fission, uses and safety, with full worked answers."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 updatedDate: 2026-09-28
 featured: false

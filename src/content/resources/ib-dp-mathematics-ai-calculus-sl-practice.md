@@ -37,6 +37,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-5-8"
 description: "12 original IB DP Maths AI calculus questions for SL and HL on derivatives, integrals, optimisation and the trapezoidal rule, with marked answers."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

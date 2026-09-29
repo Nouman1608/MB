@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "electricity-and-magnetism"
 description: "Original exam-style questions with full worked answers on measuring resistance, resistance and length, choosing fuses, parallel lighting circuits, trip switches, the d.c. motor and the turning effect on a coil, for Cambridge O Level Physics (5054)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 featured: false
 ---

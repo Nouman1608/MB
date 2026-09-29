@@ -10,6 +10,9 @@ syllabusCodes: ["8145"]
 order: 1
 description: "Original exam-style practice questions with full worked answers on approaching the Historic Environment essay question for AQA GCSE History 8145."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 ---

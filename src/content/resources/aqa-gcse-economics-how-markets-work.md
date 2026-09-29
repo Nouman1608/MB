@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "how-markets-work-aqa-gcse-economics"
 description: "A specification map of Paper 1 for AQA GCSE Economics (8136), with in-depth notes on price determination (demand, supply, equilibrium and elasticity), market structures and market failure."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

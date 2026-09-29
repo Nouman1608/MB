@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "the-market-system-edexcel-igcse-economics"
 description: "The economic problem, economic assumptions, demand, supply and market equilibrium, elasticity, the mixed economy, and externalities -- a syllabus map and study guide for Topic 1 of Pearson Edexcel International GCSE Economics (4EC1)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

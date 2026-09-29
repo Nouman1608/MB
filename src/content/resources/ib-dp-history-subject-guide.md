@@ -8,6 +8,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP History"]
 description: "An overview of IB Diploma Programme History -- a comparative, multi-perspective world history course built around four historical concepts: cause and consequence, continuity and change, perspectives, and significance."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

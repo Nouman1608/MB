@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "organisation-oxfordaqa-igcse-biology"
 description: "Cell structure, tissues and organ systems -- the opening topic of OxfordAQA International GCSE Biology (9201), largely co-teachable with OxfordAQA International GCSE Combined Science (9204)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

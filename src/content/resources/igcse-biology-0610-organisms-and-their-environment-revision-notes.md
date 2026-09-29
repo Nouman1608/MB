@@ -27,6 +27,9 @@ syllabusTopics:
     subtopic: "populations-cambridge-igcse-biology"
 description: "Condensed revision notes for 0610 Organisms and their environment: key definitions, pyramids, energy efficiency, nutrient cycles and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

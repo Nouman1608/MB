@@ -11,6 +11,9 @@ syllabusSeries: "For first teaching 2015"
 order: 3
 description: "Paper-by-paper exam preparation for AQA A-Level Biology 7402 -- why Paper 3 draws on all eight topics, comprehension and essay-writing strategy, practical-skills fluency, a worked answer and a checklist."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

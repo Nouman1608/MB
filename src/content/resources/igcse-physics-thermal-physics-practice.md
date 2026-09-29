@@ -21,6 +21,9 @@ syllabusTopics:
     subtopic: "transfer-of-thermal-energy-cambridge-igcse-physics"
 description: "Original exam-style practice questions with full worked answers on the kinetic particle model, gas laws, specific heat capacity, changes of state and heat transfer for Cambridge IGCSE Physics 0625."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-29
 updatedDate: 2026-09-27
 featured: false

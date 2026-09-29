@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "molecules-transport-and-health-edexcel-alevel-biology"
 description: "Carbohydrates and lipids, the heart and circulation, and the risk factors and evidence behind cardiovascular disease -- the full learning outcomes of Topic 1 for Pearson Edexcel International A Level Biology (YBI11), examined as Unit 1."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

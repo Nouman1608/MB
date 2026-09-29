@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-mathematics-analysis-and-approaches-calculus"
 description: "Condensed revision notes on the Calculus strand of IB Diploma Programme Mathematics: Analysis and Approaches -- the largest strand at HL -- covering differentiation, integration and their applications, with worked reminders and self-test questions."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

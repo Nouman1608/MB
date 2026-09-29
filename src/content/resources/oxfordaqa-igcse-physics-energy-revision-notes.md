@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "energy-oxfordaqa-igcse"
 description: "Condensed recall notes on work, energy transfers, conservation, efficiency, Sankey diagrams and energy resources for OxfordAQA International GCSE Physics (9203), Topic 2 Energy."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

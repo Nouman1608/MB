@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "oxfordaqa-a-level-chemistry-amount-of-substance"
 description: "Relative atomic and molecular mass, the mole and Avogadro constant, the ideal gas equation, empirical and molecular formulae, and balanced-equation calculations including percentage atom economy, for OxfordAQA International AS and A-level Chemistry 9620, section 3.1.2."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

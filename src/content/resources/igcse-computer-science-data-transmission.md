@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "data-transmission"
 description: "Packets and packet switching, serial versus parallel and simplex versus duplex transmission, error detection methods, and symmetric versus asymmetric encryption -- the full content of Topic 2 for Cambridge IGCSE Computer Science 0478, 2026-2028 series."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

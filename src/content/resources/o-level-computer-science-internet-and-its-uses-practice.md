@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "the-internet-and-its-uses-2210"
 description: "Original exam-style questions with full worked answers on URLs, the DNS, web browsers, SSL, cookies, blockchain and cyber security threats, for Cambridge O Level Computer Science (2210)."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
 featured: false

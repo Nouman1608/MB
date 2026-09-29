@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "writing-1123"
 description: "A deep dive into Paper 2 of Cambridge O-Level English Language (1123): Directed Writing and Composition, the two tasks, their assessment objectives, and how marks are actually awarded."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

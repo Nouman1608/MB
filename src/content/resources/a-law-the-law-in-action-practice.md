@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-the-law-in-action-yla1"
 description: "Original exam-style practice questions with full worked answers on contract terms and the Consumer Rights Act 2015, negligence, actus reus, mens rea and omissions, theft, sentencing, defamation, and occupiers' liability for A Level Law Paper 2."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-30
 featured: false
 ---

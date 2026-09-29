@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "a-phenol"
 description: "Condensed recall notes on forming esters from alcohols and acyl chlorides, producing phenol, its reactions with bases, sodium, diazonium salts, nitric acid and bromine water, and the relative acidities of water, phenol and ethanol for Cambridge A Level Chemistry 9701 (2025-2027)."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

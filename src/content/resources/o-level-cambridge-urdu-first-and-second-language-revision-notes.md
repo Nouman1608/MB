@@ -16,6 +16,9 @@ syllabusTopics:
     topic: "sl-paper-1-reading-writing-3248"
 description: "Condensed recall notes on the exact Paper 1 exercise structure, mark allocations and technique differences between Cambridge O-Level Urdu 3247 (First Language) and 3248 (Second Language)."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-25
 featured: false
 ---

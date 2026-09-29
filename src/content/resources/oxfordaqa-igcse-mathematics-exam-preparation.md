@@ -11,6 +11,9 @@ syllabusSeries: "First teaching 2016, first examined 2018"
 order: 3
 description: "What the Core (grades 1-5) and Extension (grades 4-9) tiers of OxfordAQA International GCSE Mathematics 9260 mean in practice, why calculators are allowed throughout, and a worked method-marks routine."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

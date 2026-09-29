@@ -21,6 +21,9 @@ syllabusTopics:
     subtopic: "transfer-of-thermal-energy-cambridge-igcse-physics"
 description: "The kinetic particle model, gas pressure and the kelvin scale, thermal expansion, specific heat capacity, changes of state, and conduction, convection and radiation -- everything Topic 2 Thermal physics asks of Core and Extended candidates in Cambridge IGCSE Physics 0625, examined 2026-2028."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-24
 updatedDate: 2026-09-28
 featured: false

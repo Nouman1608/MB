@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "excretion-in-humans-cambridge-igcse-biology"
 description: "Condensed revision notes on excretion for Cambridge IGCSE Biology 0610: kidney, nephron, deamination and urea, with a self-test and common mark losses."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

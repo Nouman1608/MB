@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "hardware-2210"
 description: "The fetch-decode-execute cycle and CPU components, named input/output devices and sensors, primary/secondary/cloud storage, and network hardware -- the full content of Topic 3 for Cambridge O Level Computer Science 2210, 2026-2028 series."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

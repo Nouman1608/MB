@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-business-unit-4"
 description: "Original practice questions with full worked answers covering marketing planning, sales forecasting, market research, the seven Ps and international marketing, for IB Diploma Programme Business Management Unit 4."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

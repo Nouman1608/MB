@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "the-allocation-of-resources"
 description: "Demand and supply curves, market equilibrium and disequilibrium, price changes, PED and PES, market failure, and the market and mixed economic systems -- a walk through all eleven sub-sections of Topic 2 in Cambridge O Level Economics 2281, for the 2026 series."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-24
 featured: false
 ---

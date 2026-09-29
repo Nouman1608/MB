@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "business-objectives-and-strategic-decisions-ocr-alevel-business"
 description: "Stakeholders and business objectives, mission statements, CSR, strategy and implementation, business plans, risk and uncertainty, opportunity cost, contingency planning, models of strategic choice, performance measures, forecasting, decision making, decision trees, Ansoff's matrix, and conflicts in decision making -- the full content of the Business objectives and strategy area for OCR A-Level Business (H431)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

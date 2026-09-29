@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "ib-dp-computer-science-b-2"
 description: "The programming process, core constructs, pseudocode and testing -- B.2 Programming, the largest single sub-topic in the IB Diploma Programme Computer Science syllabus at SL, first assessment 2027, and how it links to B.1's computational thinking cycle."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

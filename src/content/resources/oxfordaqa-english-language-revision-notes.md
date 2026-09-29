@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-literary-non-fiction-and-composition-9270"
 description: "Condensed recall notes on analysing literary non-fiction, structural analysis and composition technique for OxfordAQA International GCSE English Language 9270."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

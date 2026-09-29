@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-economics-unit-2"
 description: "Demand, supply and competitive market equilibrium -- sub-topics 2.1-2.3 of IB Diploma Programme Economics Unit 2 Microeconomics (35 SL / 70 HL teaching hours), first assessment 2022."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

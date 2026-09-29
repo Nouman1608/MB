@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "theme-2-local-national-international-9264"
 description: "Original exam-style practice questions with full worked answers on housing and locality, social issues, global issues and travel for OxfordAQA International GCSE Urdu Theme 2 (9264)."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

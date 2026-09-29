@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "atomic-structure-and-the-periodic-table-9202"
 description: "Original exam-style practice questions with full worked answers on sub-atomic particles, isotopes, electron structure, the periodic table and states of matter."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 ---

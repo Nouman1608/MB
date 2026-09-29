@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "what-is-business-oxfordaqa-alevel-business"
 description: "Business objectives, stakeholders and the external environment -- the opening topic of OxfordAQA International AS & A-Level Business, primarily 9625 (first teaching September 2018) with 9725 divergences flagged."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

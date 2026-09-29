@@ -31,6 +31,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-2-6"
 description: "12 original IB Maths AI practice questions on functions and modelling, SL 2.1–2.6, with fully worked mark-by-mark answers and examiner insights."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

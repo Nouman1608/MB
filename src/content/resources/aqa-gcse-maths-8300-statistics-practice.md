@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "statistics-aqa-gcse-maths"
 description: "Twelve original AQA GCSE Maths 8300 Statistics questions on sampling, averages, pie charts, histograms, box plots and scatter graphs, with marked answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

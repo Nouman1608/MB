@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "hardware-0478"
 description: "Condensed recall notes on the fetch-decode-execute cycle, input/output devices and sensors, storage types, and network hardware for Cambridge IGCSE Computer Science (0478)."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "reactivity-series-4ch1"
 description: "Group 1 and Group 7 trends, gases in the atmosphere and the reactivity series -- sub-topics (a) to (d) of Topic 2 Inorganic Chemistry, Pearson Edexcel International GCSE Chemistry (4CH1)."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

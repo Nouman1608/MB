@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-language-the-individual-and-society-7702"
 description: "Original exam-style practice questions with full worked answers on textual variations, representations, discourse and language methods."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

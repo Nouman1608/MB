@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-literary-non-fiction-and-composition-9270"
 description: "Literary non-fiction analysis and composition writing, with the full assessment structure (duration, marks, weighting), for OxfordAQA International GCSE English Language (9270) Paper 1."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

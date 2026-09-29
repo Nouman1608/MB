@@ -27,6 +27,9 @@ syllabusTopics:
     subtopic: "absorption-cambridge-igcse-biology"
 description: "Condensed recall notes on diet, the digestive system, physical and chemical digestion, and absorption, with the Core/Supplement split, for Cambridge IGCSE Biology (0610)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 updatedDate: 2026-09-27
 featured: false

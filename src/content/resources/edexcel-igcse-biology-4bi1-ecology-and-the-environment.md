@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "ecology-and-the-environment-edexcel-igcse-biology"
 description: "Study guide for Edexcel IGCSE Biology 4BI1 Topic 4: quadrats, food chains, energy transfer, carbon and nitrogen cycles and human impacts."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

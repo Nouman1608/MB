@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "reconciliation-and-verification"
 description: "Errors that do and don't affect the trial balance, suspense accounts, bank reconciliation statements, and sales/purchases ledger control accounts -- the full content of AS Level Topic 1.4 for Cambridge International AS & A Level Accounting 9706, 2026-2028 series."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

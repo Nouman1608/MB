@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "microeconomic-decision-makers"
 description: "Money and banking, household spending decisions, wage determination, trade unions, and firms' growth, costs, revenue and market structure -- the full content of Topic 3 for Cambridge O Level Economics 2281, 2026 series."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

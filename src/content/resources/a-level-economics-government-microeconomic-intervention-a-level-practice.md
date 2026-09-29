@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "government-microeconomic-intervention-a-cambridge-alevel-economics"
 description: "Original exam-style questions with full worked answers on marginal revenue product, derived demand and structural unemployment, correcting externalities with taxes and subsidies, and the Lorenz curve and Gini coefficient, for Cambridge International AS & A Level Economics (9708)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "measurements-and-their-errors-oxfordaqa-alevel"
 description: "Condensed recall notes on SI units, uncertainty, accuracy and precision, error types and graphical analysis for International A Level Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

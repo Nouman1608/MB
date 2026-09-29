@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "energy-and-the-environment-5014"
 description: "Fossil fuel formation, renewable and non-renewable energy resources, energy demand, conservation strategies, and the causes and management of oil pollution -- the second of nine topics in Cambridge O Level Environmental Management (5014), 2025-2026 series."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

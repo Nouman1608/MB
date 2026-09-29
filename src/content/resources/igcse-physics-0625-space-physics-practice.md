@@ -21,6 +21,9 @@ syllabusTopics:
     subtopic: "stars-and-the-universe-cambridge-igcse-physics"
 description: "Thirteen original Cambridge IGCSE Physics 0625 space physics questions, Core and Extended, with fully worked mark-by-mark answers and examiner tips."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 updatedDate: 2026-09-28
 featured: false

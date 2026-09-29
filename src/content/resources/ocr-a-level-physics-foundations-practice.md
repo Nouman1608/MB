@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "foundations-of-physics-ocr-alevel"
 description: "Original exam-style practice questions with full worked answers on SI units, uncertainty combination, and resolving and combining vectors, for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 ---

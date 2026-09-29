@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "landscape-natural-resources-9236"
 description: "Original exam-style practice questions with full worked answers on Pakistan's physical landscape, climate, natural resources, and energy and water for OxfordAQA International GCSE Pakistan Studies (9236)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "biological-molecules-aqa-alevel-biology"
 description: "Original exam-style practice questions with full worked answers on carbohydrates, proteins, enzymes and food tests for AQA A Level Biology 7402."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -51,6 +51,9 @@ syllabusTopics:
     subtopic: "functions-cambridge-igcse-maths"
 description: "Condensed recall notes on algebraic manipulation, equations, inequalities, sequences and graphs for Cambridge IGCSE Mathematics 0580 Topic 2."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-29
 updatedDate: 2026-09-27
 featured: false

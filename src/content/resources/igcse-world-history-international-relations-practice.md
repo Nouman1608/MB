@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-international-relations-depth-studies-9245"
 description: "Original exam-style practice questions with full worked answers on Paper 1's real two-section structure -- Section A's source-based Peacemaking and League of Nations option, and Section B's knowledge-based Hitler's foreign policy option -- for OxfordAQA International GCSE History (9245)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

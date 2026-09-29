@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "unit-p1-pure-mathematics-1-edexcel-alevel-maths"
 description: "Condensed recall notes on algebra, quadratics, straight-line coordinate geometry, differentiation and integration for Pure Mathematics 1 of Pearson Edexcel International A Level Mathematics (YMA01)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

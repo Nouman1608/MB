@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "european-option-modern-europe-9489"
 description: "France 1774-1814, Liberalism and Nationalism in Germany, and Russia from autocracy to revolution -- the full content of the European Option for Cambridge AS & A Level History 9489, 2027-2029 series."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

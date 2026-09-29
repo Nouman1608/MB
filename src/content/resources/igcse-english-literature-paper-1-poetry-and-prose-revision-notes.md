@@ -15,6 +15,9 @@ syllabusTopics:
 description: "Exam technique for Paper 1 -- answer structure, quotation use, the command word 'Explore', and how the assessment objectives are actually marked -- for Cambridge IGCSE English Literature 0475, 2026 series."
 seoDescription: "Cambridge IGCSE Literature 0475 Paper 1 revision notes: answer structure, quotation technique, the command word 'Explore', and how marks are awarded."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

@@ -11,6 +11,9 @@ syllabusSeries: "For first teaching 2015"
 order: 3
 description: "Why AQA A-Level Computer Science 7517's on-screen Paper 1 needs practice at a machine, how the written Paper 2 differs, where the 20% NEA fits, and a worked routine for an on-screen programming task."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

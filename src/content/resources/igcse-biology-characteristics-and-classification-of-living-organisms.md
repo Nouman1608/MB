@@ -21,6 +21,9 @@ syllabusTopics:
     subtopic: "features-of-organisms-cambridge-igcse-biology"
 description: "The seven characteristics of life, the binomial naming system and dichotomous keys, and how organisms are placed into kingdoms and groups -- the full content of Topic 1 for Cambridge IGCSE Biology 0610, 2026-2028 series."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 updatedDate: 2026-09-27
 featured: false

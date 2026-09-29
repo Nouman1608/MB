@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "fundamentals-of-algorithms"
 description: "Graph and tree traversal, Reverse Polish notation, searching and sorting algorithms, and Dijkstra's shortest path algorithm, with their time complexities -- the full content of Section 4.3 for AQA A-Level Computer Science (7517)."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-4-unseen-0475"
 description: "Condensed recall notes on format, timing, the poetry/prose choice, and the four assessment objectives for Paper 4 Unseen in Cambridge IGCSE Literature in English (0475)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

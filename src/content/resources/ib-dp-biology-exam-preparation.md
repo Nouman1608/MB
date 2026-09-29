@@ -11,6 +11,9 @@ syllabusSeries: "First assessment 2025"
 order: 1
 description: "Paper-by-paper exam preparation for IB Diploma Programme Biology -- how to allocate time across Paper 1 and Paper 2, a worked practice scenario, and a before/during-exam checklist."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

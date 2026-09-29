@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "inequalities"
 description: "Representing inequalities on a number line and graphically, solving linear inequalities, and listing the inequalities that define a region, for Cambridge O Level Mathematics (Syllabus D) 4024."
 author: "muhammad-ghazali-siddiqui"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
 ---

@@ -27,6 +27,9 @@ syllabusTopics:
     subtopic: "nuclear-fission-and-fusion-aqa-gcse"
 description: "AQA GCSE Physics 8463 Atomic structure taught from scratch: the nuclear atom, isotopes, decay equations, half-life, radiation uses, fission and fusion."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

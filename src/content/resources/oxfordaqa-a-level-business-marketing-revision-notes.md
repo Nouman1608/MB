@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "marketing-oxfordaqa-alevel-business"
 description: "Condensed recall notes on marketing objectives, marketing research, segmentation-targeting-positioning, and the marketing mix, for OxfordAQA International A-Level Business, primarily 9625 (7Ps) with 9725 (4Ps) divergence flagged."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

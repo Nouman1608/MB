@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "selection-cambridge-igcse-biology"
 description: "Study guide for Cambridge IGCSE Biology 0610 topic 18: variation, mutation, adaptive features, natural selection and selective breeding, with examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

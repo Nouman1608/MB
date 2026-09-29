@@ -11,6 +11,9 @@ syllabusSeries: "First assessment 2021"
 order: 2
 description: "The five content strands of IB Diploma Programme Mathematics: Applications and Interpretation -- number and algebra, functions, geometry and trigonometry, statistics and probability, and calculus -- with recommended teaching hours for SL and HL, for first assessment 2021."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

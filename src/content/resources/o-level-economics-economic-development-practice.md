@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "economic-development"
 description: "Original exam-style questions with full worked answers on policies to reduce poverty, absolute and relative poverty, the benefits of citizens working abroad, education and earnings, the primary sector and opportunity cost, and GDP per head as a measure of living standards, for Cambridge O Level Economics (2281)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

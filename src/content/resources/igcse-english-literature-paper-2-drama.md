@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-drama-0475"
 description: "How Paper 2 Drama is assessed in Cambridge IGCSE Literature in English 0475: two questions on two set plays, the choice between passage-based and essay tasks, the closed-book rule, and what each of the four assessment objectives rewards in a drama answer, for the 2026 series."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-24
 featured: false
 ---

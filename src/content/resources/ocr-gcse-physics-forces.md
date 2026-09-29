@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "forces-ocr-gcse"
 description: "Motion, Newton's laws, and forces in action -- the full content of Topic 2 Forces for OCR GCSE (9-1) Physics A (Gateway Science) (J249)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

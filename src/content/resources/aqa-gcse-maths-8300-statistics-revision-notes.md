@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "statistics-aqa-gcse-maths"
 description: "Condensed AQA GCSE Maths 8300 Statistics revision notes: averages, charts, histograms, box plots and scatter graphs, with a self-test and answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

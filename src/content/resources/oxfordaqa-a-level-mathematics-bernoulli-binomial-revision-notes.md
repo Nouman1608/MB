@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "s1-bernoulli-and-binomial-distributions-oxfordaqa-alevel-maths"
 description: "Condensed recall notes on Bernoulli trials, the binomial distribution, and calculating binomial probabilities, mean and variance, for OxfordAQA International A-Level Mathematics (9660), sub-topic S1.3."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

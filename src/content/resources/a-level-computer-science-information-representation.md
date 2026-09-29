@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "information-representation"
 description: "An overview of data representation, multimedia (graphics and sound), and compression for Topic 1 Information representation, Cambridge AS & A Level Computer Science 9618, 2027-2029 series -- covering number-base conversion, file-size calculation, the choice between bitmap and vector graphics, and compression choice; see the note below on parts of 1.1 this overview does not go into."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

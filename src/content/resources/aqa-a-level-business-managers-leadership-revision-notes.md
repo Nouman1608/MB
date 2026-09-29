@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "managers-leadership-and-decision-making-aqa-alevel-business"
 description: "Condensed revision notes on management vs leadership, leadership styles, scientific and intuitive decision making, and stakeholder mapping, for Topic 2 of AQA A-Level Business (7132)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

@@ -11,6 +11,9 @@ syllabusSeries: "2027-2029"
 order: 3
 description: "Preparing for Paper 1 Principles of Environmental Management and Paper 2 Environmental Management in Context in the 2027-2029 Cambridge O Level Environmental Management 5014 syllabus -- assessment objectives, command words, fieldwork and data skills, with a worked routine."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-21
 featured: false
 ---

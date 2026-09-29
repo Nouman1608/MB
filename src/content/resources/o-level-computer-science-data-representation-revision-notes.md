@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "data-representation-2210"
 description: "Condensed recall notes on binary, hexadecimal, two's complement, binary shifts, character sets, images, sound, storage units and compression for Cambridge O Level Computer Science 2210."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false

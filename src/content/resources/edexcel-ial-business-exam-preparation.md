@@ -11,6 +11,9 @@ syllabusSeries: "Specification Issue 1, September 2017"
 order: 3
 description: "How the internal section structure of Edexcel IAL Business YBS11 changes between the AS units and the A2 units, why source booklets drive every answer, and a worked essay-from-source routine."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "globalisation-of-trade-7100"
 description: "International trade (benefits, challenges, the Balance of Trade and Balance of Payments, free trade, trading blocs and trade restrictions) and global supply chain management -- Topic 3 of Cambridge O Level Commerce (7100), distinct from the site's existing guides to Commerce and Production and Commercial Operations."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

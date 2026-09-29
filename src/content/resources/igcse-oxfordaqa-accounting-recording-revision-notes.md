@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "sources-and-recording-of-data-oxfordaqa-igcse"
 description: "Condensed recall notes on double entry, books of prime entry, ledgers, the trial balance and error types for International GCSE Accounting."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

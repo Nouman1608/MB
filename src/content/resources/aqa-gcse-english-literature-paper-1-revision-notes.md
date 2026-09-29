@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-shakespeare-and-the-19th-century-novel-8702"
 description: "Condensed recall notes on Paper 1's closed-book structure and approach for AQA GCSE English Literature (8702)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 ---

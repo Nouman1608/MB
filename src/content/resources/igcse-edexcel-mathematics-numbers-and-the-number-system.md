@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "numbers-and-the-number-system-edexcel-igcse-maths"
 description: "Integers, fractions, decimals, powers and roots, set language, percentages, ratio and proportion, degree of accuracy, standard form and calculator use -- the full content of Topic 1 for Pearson Edexcel International GCSE Mathematics A (4MA1)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

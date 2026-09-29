@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "international-economic-issues-a-cambridge-alevel-economics"
 description: "Original exam-style questions with full worked answers on globalisation, GNI per head and the standard of living, foreign direct investment, transfer pricing, exchange-rate calculations and the Marshall–Lerner condition, for Cambridge International AS & A Level Economics (9708)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

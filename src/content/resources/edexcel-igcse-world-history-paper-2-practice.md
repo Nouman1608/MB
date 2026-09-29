@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-investigation-breadth-studies-4hi1"
 description: "Original exam-style practice questions with full worked answers on the Historical Investigation's describe, cross-reference and interpretation questions, and the Breadth Study's explain and significance questions, for Pearson Edexcel International GCSE History (4HI1)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 ---

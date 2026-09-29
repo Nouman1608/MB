@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "cell-structure-cambridge-alevel-biology"
 description: "Original exam-style practice questions with full worked answers on organelles, microscopy, magnification, viruses and cell comparison for Cambridge A Level Biology 9700."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

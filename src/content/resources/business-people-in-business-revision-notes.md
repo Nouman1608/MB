@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "people-in-business"
 description: "Condensed recall notes on motivation theory, organisational structure, leadership styles, recruitment, training and communication for Topic 2 of Cambridge O Level Business Studies (7115), 2026 series."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

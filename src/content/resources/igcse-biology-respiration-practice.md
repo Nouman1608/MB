@@ -21,6 +21,9 @@ syllabusTopics:
     subtopic: "anaerobic-respiration-cambridge-igcse-biology"
 description: "Original exam-style questions with full worked answers on uses of energy, aerobic and anaerobic respiration equations, yeast respiration investigations, the effect of temperature and oxygen debt, for Cambridge IGCSE Biology (0610)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

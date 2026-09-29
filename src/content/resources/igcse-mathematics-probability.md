@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "conditional-probability-cambridge-igcse-maths"
 description: "The probability scale, relative and expected frequency, and combined and conditional events using sample space, Venn and tree diagrams -- the Core and Extended content of Topic 8 Probability for Cambridge IGCSE Mathematics 0580, 2025-2027 series."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false

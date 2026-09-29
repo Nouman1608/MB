@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "atomic-structure-and-the-periodic-table-8462"
 description: "Atomic structure, the periodic table and transition metals -- the opening topic of AQA GCSE Chemistry (8462), a tiered Foundation/Higher qualification co-teachable with AQA Combined Science."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 updatedDate: 2026-09-27
 featured: false

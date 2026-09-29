@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "b3-quadratic-functions-aqa-alevel-maths"
 description: "Condensed recall notes on the discriminant, quadratic graphs, simultaneous linear-quadratic equations, and linear/quadratic inequalities for AQA A-Level Mathematics (7357), B3-B5."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

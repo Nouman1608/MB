@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "evolution-cambridge-alevel-biology"
 description: "Condensed Cambridge 9700 notes on variation, t-test steps, selection types, Hardy-Weinberg, selective breeding and speciation, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "trigonometry-cambridge-alevel-maths-1"
 description: "Revision notes for Cambridge 9709 Pure 1 Trigonometry (1.5): graph facts, exact values, principal values, identities, equation methods and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 ---

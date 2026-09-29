@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "oxfordaqa-a-level-chemistry-atomic-structure"
 description: "Fundamental particles, mass number and isotopes, the time-of-flight mass spectrometer, electron configuration to Z=36, and ionisation energy evidence for shell and sub-shell structure, for OxfordAQA International AS and A-level Chemistry 9620, section 3.1.1."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

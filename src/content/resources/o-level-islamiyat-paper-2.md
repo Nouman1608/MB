@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-2058"
 description: "Cambridge O Level Islamiyat 2058 (2026-2027 series), Paper 2: the major teachings and history of the Hadiths, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam. Identical structure to Cambridge IGCSE Islamiyat 0493."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

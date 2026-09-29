@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "energy-and-the-environment-5014"
 description: "Original exam-style practice questions with full worked answers on fossil fuel formation, energy resources, energy demand and oil pollution for Cambridge O Level Environmental Management Topic 2 (5014)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

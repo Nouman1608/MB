@@ -11,6 +11,9 @@ syllabusSeries: "2025-2026"
 order: 3
 description: "Preparing for both equally weighted papers of Cambridge O Level Environmental Management 5014 -- Paper 1's two-section structure, working from source material under time pressure, and a worked data-response routine."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-reading-writing-0539"
 description: "Short answer questions, multiple matching, note-making, summary, and writing exercises -- the full content of Paper 1 for Cambridge IGCSE Urdu (0539)."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

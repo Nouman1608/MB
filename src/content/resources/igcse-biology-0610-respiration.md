@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "anaerobic-respiration-cambridge-igcse-biology"
 description: "Uses of energy, aerobic and anaerobic respiration, the yeast temperature investigation and oxygen debt, taught in steps for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "sources-and-recording-of-data-oxfordaqa-igcse"
 description: "Source documents, books of prime entry and double-entry bookkeeping -- the opening topic of OxfordAQA International GCSE Accounting (9215), first teaching September 2024."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

@@ -28,6 +28,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-5-13"
 description: "Condensed IB Maths AI HL notes on differentiation rules, concavity, substitution, areas, volumes of revolution and kinematics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

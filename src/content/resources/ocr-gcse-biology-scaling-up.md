@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "scaling-up-ocr-gcse-biology"
 description: "Supplying the cell and the challenges of size -- the full content of Topic B2 Scaling Up for OCR GCSE (9-1) Biology A (Gateway Science) (J247), including diffusion, osmosis, mitosis, stem cells, and the human circulatory and plant transport systems."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

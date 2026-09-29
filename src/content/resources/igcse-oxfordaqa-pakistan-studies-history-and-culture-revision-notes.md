@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-history-culture-9236"
 description: "Condensed recall notes on Paper 1's compulsory topics for OxfordAQA International GCSE Pakistan Studies (9236)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 ---

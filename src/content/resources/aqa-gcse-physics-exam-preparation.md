@@ -11,6 +11,9 @@ syllabusSeries: "For first teaching 2016"
 order: 1
 description: "Paper-by-paper exam preparation for AQA GCSE Physics 8463 -- Foundation/Higher tier strategy, equations and units fluency, required-practicals revision, a worked energy-transfer answer and a checklist."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

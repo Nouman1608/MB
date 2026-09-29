@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "algebra-cambridge-alevel-maths-2"
 description: "Study guide to Cambridge 9709 Paper 2 section 2.1 Algebra: the modulus function, polynomial division, and the factor and remainder theorems, fully worked."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 ---

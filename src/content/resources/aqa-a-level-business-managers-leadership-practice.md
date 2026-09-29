@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "managers-leadership-and-decision-making-aqa-alevel-business"
 description: "Original practice paper in the section layout of AQA A-Level Business (7132) Paper 1 (15 multiple-choice questions, short-answer questions including a decision-tree net gain calculation, and a choice of essays in Sections C and D), with worked answers, all on Topic 2 Managers, leadership and decision making."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

@@ -34,6 +34,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-3-13"
 description: "Condensed IB Maths AI HL revision notes on radians, unit circle, matrix transformations and vectors (3.7-3.13), with formula tables and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

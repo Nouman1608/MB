@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-investigation-breadth-studies-4hi1"
 description: "The five Historical Investigation options and eight Breadth Study options -- one of each studied -- for Paper 2 of Pearson Edexcel International GCSE History (4HI1)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

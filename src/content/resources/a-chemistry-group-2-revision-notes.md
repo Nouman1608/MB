@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "a-similarities-and-trends-in-the-properties-of-the-group-2-metals-and-their-compounds"
 description: "Condensed recall notes on the thermal stability of Group 2 nitrates and carbonates, and the solubility and enthalpy change of solution of Group 2 hydroxides and sulfates, for Cambridge A Level Chemistry 9701 (2025-2027)."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

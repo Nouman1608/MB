@@ -13,6 +13,9 @@ syllabusTopics:
     topic: "shaping-the-nation-8145"
 description: "The named thematic study and British depth study options within Paper 2 (Shaping the Nation) of AQA GCSE History (8145), and how to approach each once your school's choices are confirmed."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

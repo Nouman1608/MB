@@ -27,6 +27,9 @@ syllabusTopics:
     subtopic: "perpendicular-lines-cambridge-igcse-maths"
 description: "Coordinates, straight-line graphs, gradient, length, midpoint, and parallel and perpendicular lines -- the Core and Extended content of Topic 3 Coordinate geometry for Cambridge IGCSE Mathematics 0580, 2025-2027 series."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false

@@ -28,6 +28,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-1-8"
 description: "12 original IB DP Maths AA questions on sequences, series, compound interest and sums to infinity, with mark-by-mark worked answers and examiner insights."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

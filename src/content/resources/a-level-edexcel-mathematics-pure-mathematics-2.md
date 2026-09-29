@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "unit-p2-pure-mathematics-2-edexcel-alevel-maths"
 description: "Proof, algebra and functions, coordinate geometry, sequences and series, exponentials and logarithms, trigonometry, differentiation and integration -- the full content of Unit P2 for Pearson Edexcel International A Level Mathematics (YMA01)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

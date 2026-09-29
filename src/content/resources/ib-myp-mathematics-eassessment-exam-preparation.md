@@ -11,6 +11,9 @@ syllabusSeries: "From 2020, first assessment 2022"
 order: 9
 description: "Task-by-task exam preparation for IB Middle Years Programme Mathematics eAssessment -- Knowing and understanding, Investigating patterns, and Applying mathematics in real-life contexts -- with a worked practice scenario and a task-by-task checklist."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

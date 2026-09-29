@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "microeconomics-ocr-alevel-economics"
 description: "Introduction to microeconomics, the role of markets, business objectives, market structures, and the labour market -- a syllabus map of all of Component 1 for OCR A-Level Economics (H460), with study notes on its core topics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

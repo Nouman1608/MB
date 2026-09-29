@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "pure-mathematics-1-cambridge-alevel"
 description: "Quadratics, functions, coordinate geometry, circular measure, trigonometry, series, differentiation and integration -- the full content of Pure Mathematics 1 for Cambridge International AS & A Level Mathematics 9709, 2026-2027 series."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

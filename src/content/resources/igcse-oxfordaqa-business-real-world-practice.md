@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "business-in-the-real-world-oxfordaqa-igcse-business"
 description: "Original exam-style practice questions with full worked answers on business ownership, objectives, stakeholders, location, business planning, growth and average unit costs, plus related Topic 2 (economic climate, legislation, ethics) and Finance questions."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

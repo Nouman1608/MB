@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "infection-and-response-aqa-gcse-biology"
 description: "Pathogens and communicable diseases, human defence systems, vaccination, antibiotics and drug development, plus the Biology-only content on monoclonal antibodies and plant disease -- the full content of Topic 4.3 for AQA GCSE Biology (8461)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

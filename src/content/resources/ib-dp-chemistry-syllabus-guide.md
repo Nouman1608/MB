@@ -11,6 +11,9 @@ syllabusSeries: "First assessment 2025"
 order: 2
 description: "The Structure and Reactivity strands of the IB Diploma Programme Chemistry syllabus, with every numbered sub-topic (Structure 1-3, Reactivity 1-3) and recommended teaching hours, for first assessment 2025."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "how-markets-work-aqa-gcse-economics"
 description: "Condensed recall notes on demand, supply, price determination, elasticity, competition and market failure for GCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

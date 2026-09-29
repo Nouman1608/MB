@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "radioactivity-cambridge-igcse-physics"
 description: "Original exam-style questions with full worked answers on alpha-particle scattering and the nuclear model, beta-decay equations, half-life from count rates that include background radiation, deflection of radiation in an electric field, choosing an isotope for a smoke alarm, and nuclear fusion, for Cambridge IGCSE Physics (0625) Extended candidates."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

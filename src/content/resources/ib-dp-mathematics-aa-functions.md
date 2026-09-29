@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-mathematics-analysis-and-approaches-functions"
 description: "Function notation, transformations, and solving equations involving functions -- the toolkit the Calculus strand depends on -- for IB Diploma Programme Mathematics: Analysis and Approaches, first assessment 2021."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

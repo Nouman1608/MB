@@ -11,6 +11,9 @@ syllabusSeries: "First assessment 2025"
 order: 1
 description: "Paper-by-paper exam preparation for IB Diploma Programme Chemistry -- how to use the data booklet effectively, time allocation on Paper 1, connected-topic revision for Paper 2, a worked scenario and a before/during-exam checklist."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

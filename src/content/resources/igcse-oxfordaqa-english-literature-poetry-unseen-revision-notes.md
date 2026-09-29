@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "poetry-and-unseen-texts-9275"
 description: "Condensed recall notes on comparing People and Places anthology poems and analysing unseen poetry and prose for OxfordAQA International GCSE English Literature Paper 2a (9275)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

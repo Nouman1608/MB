@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "reactivity-series-4ch1"
 description: "Original exam-style practice questions with full worked answers on Group 1 and Group 7 trends, gases in the atmosphere and the reactivity series for Pearson Edexcel International GCSE Chemistry (4CH1)."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 updatedDate: 2026-09-27
 featured: false

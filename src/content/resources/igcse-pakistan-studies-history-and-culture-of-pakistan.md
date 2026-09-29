@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-history-culture-0448"
 description: "The cultural and historical background to the Pakistan Movement, the emergence of Pakistan 1906-47, and nationhood 1947-99 -- the full content of Paper 1 for Cambridge IGCSE Pakistan Studies 0448, 2026 series."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

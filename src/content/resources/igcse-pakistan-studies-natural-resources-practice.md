@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "natural-resources-sustainability-0448"
 description: "Original exam-style practice questions with full worked answers on water, forests, mineral resources and fish, for Cambridge IGCSE Pakistan Studies (0448) Paper 2 Section 2 Natural Resources."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "interest-rates-saving-borrowing-spending-investment-aqa-gcse-economics"
 description: "Original exam-style practice questions (multiple-choice and written) with full worked answers on interest rates, saving/borrowing/spending/investment, and government income and expenditure for AQA GCSE Economics (8136), 3.2.1.1 and 3.2.1.2."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 ---

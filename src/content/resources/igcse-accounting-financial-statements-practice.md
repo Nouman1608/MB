@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "preparation-of-financial-statements"
 description: "Exam-style questions with full worked answers on sole trader adjustments, depreciation methods, partnership appropriation and current accounts, company statements of changes in equity, manufacturing accounts, club subscriptions and incomplete records, for Cambridge IGCSE Accounting (0452) Topic 5, 2027-2029 syllabus."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-16
 featured: false
 ---

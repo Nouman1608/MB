@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "homeostasis-and-response-aqa-gcse-biology"
 description: "Twelve original AQA GCSE Biology 8461 questions on reflexes, the eye, diabetes, kidneys, hormones, IVF and auxin, with mark-by-mark answers."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

@@ -11,6 +11,9 @@ syllabusSeries: "Version 5.0 (July 2026), for first assessment in 2018"
 order: 3
 description: "How OCR GCSE Physics J249 splits its topics across two papers per tier, the equation and unit discipline that protects marks, reading graphs for gradients and areas, and a worked rearrangement routine."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "marketing-and-people-edexcel-alevel-business"
 description: "Original exam-style case-study practice questions with full worked answers on market research, pricing, motivation and organisational structure for A Level Business."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

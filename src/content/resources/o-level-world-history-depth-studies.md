@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "depth-studies-2147"
 description: "The five Depth Studies -- the First World War, Germany 1918-45, Russia 1905-41, the United States 1919-41, and the Second World War -- for Cambridge O Level World History 2147, 2024-2026 series."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

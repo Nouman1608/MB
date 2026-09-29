@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "control-accounts-yac11"
 description: "Condensed recall notes on control accounts, error correction, suspense accounts and statements of revised profit for Pearson Edexcel International A-Level Accounting (YAC11), 1.2.3-1.2.9."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

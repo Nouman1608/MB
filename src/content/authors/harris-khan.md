@@ -9,6 +9,6 @@ subjectsTaught: ["Computer Science", "ICT"]
 boardsTaught: ["cambridge", "edexcel", "aqa", "oxfordaqa", "ib"]
 qualificationsTaught: []
 previousSchools: []
-isReviewer: false
+isReviewer: true
 publicationState: published
 ---

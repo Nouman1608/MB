@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "sl-paper-2-grammar-writing-translation-3248"
 description: "Sentence transformation, multiple-choice cloze, extended writing and English-to-Urdu translation -- Paper 2 Grammar, Writing and Translation of Cambridge O Level Second Language Urdu (3248), 2027-2029 series."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "bonding-7405"
 description: "Ionic, covalent, dative covalent and metallic bonding, the four types of crystal structure and physical properties, the shapes of molecules and ions, bond polarity, and intermolecular forces -- the full content of Section 3.1.3 for AQA A-Level Chemistry (7405)."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

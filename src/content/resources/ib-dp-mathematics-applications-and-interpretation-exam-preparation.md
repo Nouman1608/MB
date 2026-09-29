@@ -11,6 +11,9 @@ syllabusSeries: "First assessment 2021"
 order: 3
 description: "Paper-by-paper exam preparation for IB DP Mathematics: Applications and Interpretation -- technology-fluency strategy for every paper, interpreting results in context, HL Paper 3 strategy, a worked modelling example and a checklist."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "microeconomic-decision-makers-cambridge-igcse-economics"
 description: "Money and banking, households, workers, trade unions, firms, and market structure -- Topic 3 of Cambridge IGCSE Economics (0455), distinct from the site's existing guides to the basic economic problem and the allocation of resources."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "overarching-themes-aqa-alevel-maths"
 description: "Mathematical argument, language and proof; mathematical problem solving; and mathematical modelling -- the three overarching themes that apply across all content in AQA A-Level Mathematics (7357)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

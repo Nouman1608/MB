@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "theme-2-local-national-international-9264"
 description: "Home and neighbourhood, social issues, global issues, and travel and tourism -- the full content of Theme 2 for OxfordAQA International GCSE Urdu (9264)."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

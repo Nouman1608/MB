@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-2-1-1"
 description: "Isotopes, atomic structure from atomic and mass number, relative isotopic and atomic mass, mass spectrometry, and relative molecular/formula mass, for OCR A Level Chemistry A H432, Module 2.1.1."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

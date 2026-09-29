@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "surds-cambridge-igcse-maths"
 description: "Original exam-style questions with full worked answers on exponential growth and decay, simplifying surds and rationalising denominators, for Cambridge IGCSE Mathematics (0580) Extended."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 featured: false
 ---

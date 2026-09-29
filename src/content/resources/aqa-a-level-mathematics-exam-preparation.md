@@ -11,6 +11,9 @@ syllabusSeries: "For first teaching 2017"
 order: 3
 description: "Paper-by-paper exam preparation for AQA A-Level Mathematics 7357 -- pure content across every paper, mechanics vs statistics revision split, a worked show-that answer and a checklist."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 updatedDate: 2026-09-27
 featured: false

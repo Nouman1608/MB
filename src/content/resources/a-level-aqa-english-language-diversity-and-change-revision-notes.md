@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "section-a-diversity-and-change-7702"
 description: "Condensed recall notes on sociolect, dialect and the audience/purpose/genre/mode framework for AQA A-Level English Language Paper 2 Section A (7702)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

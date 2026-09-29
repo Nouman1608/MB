@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "enzymes-cambridge-alevel-biology"
 description: "The lock-and-key and induced-fit hypotheses, active sites and activation energy, and the factors -- temperature, pH, concentration, inhibitors -- that affect enzyme-catalysed reaction rates, including Michaelis-Menten kinetics and immobilised enzymes, for Cambridge International AS & A Level Biology 9700."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

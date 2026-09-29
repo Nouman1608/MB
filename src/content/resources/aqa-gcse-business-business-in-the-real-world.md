@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "business-in-the-real-world-aqa-gcse-business"
 description: "The purpose and nature of businesses, ownership, aims and objectives, stakeholders, location, planning, and expansion -- the full content of Topic 1 for AQA GCSE Business (8132)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

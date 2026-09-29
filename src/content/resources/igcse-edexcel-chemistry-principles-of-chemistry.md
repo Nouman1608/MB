@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "principles-of-chemistry-4ch1"
 description: "States of matter, atomic structure, bonding and electrolysis -- the opening topic of Pearson Edexcel International GCSE Chemistry (4CH1), an untiered qualification assessed across two papers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "electric-charge"
 description: "Original exam-style practice questions with full worked answers on mains safety, circuits, resistance and electrostatic charge for Edexcel International GCSE Physics 4PH1."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false

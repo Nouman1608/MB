@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "rocks-and-minerals-and-their-exploitation-5014"
 description: "Condensed recall notes on rock types, the rock cycle, mineral extraction, impacts and sustainable management for Cambridge O Level Environmental Management 5014."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

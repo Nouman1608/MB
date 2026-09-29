@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "types-of-business-organisation"
 description: "Sole traders, partnerships, private and public limited companies, their benefits, risks and reporting implications, and their sources of finance -- Topic 3.2 of AQA A-Level Accounting (7127)."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

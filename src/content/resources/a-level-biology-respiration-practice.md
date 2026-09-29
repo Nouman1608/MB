@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "energy-and-respiration-cambridge-alevel-biology"
 description: "Original exam-style questions with full worked answers on how carbon dioxide leaves a mitochondrion, oxidative phosphorylation and chemiosmosis, the effects of cyanide and of an uncoupler, respiratory quotient, and anaerobic respiration in yeast, for Cambridge International AS & A Level Biology (9700)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

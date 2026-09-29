@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "energy-changes-in-a-system"
 description: "Original exam-style practice questions with full worked answers on kinetic, elastic potential and gravitational potential energy, specific heat capacity and power for AQA GCSE Physics 8463."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

@@ -11,6 +11,9 @@ syllabusSeries: "2018"
 order: 1
 description: "Condensed recall notes on translation technique, register, grammar and reading comprehension for Edexcel A Level Urdu."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

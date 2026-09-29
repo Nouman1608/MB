@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "macroeconomics-ocr-alevel-economics"
 description: "Original exam-style practice questions with full worked answers on aggregate demand and supply, the multiplier, policy objectives, fiscal/monetary/supply-side policy, and exchange rates, for OCR A Level Economics (H460)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 ---

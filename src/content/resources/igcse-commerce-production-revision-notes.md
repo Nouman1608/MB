@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "commerce-and-production-0715"
 description: "Condensed recall notes on the chain of production, direct and indirect services, trade and aids to trade for Cambridge IGCSE Commerce 0715."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

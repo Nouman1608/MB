@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "programming-9210"
 description: "Original exam-style practice questions with full worked answers on data types, sequence/iteration/selection, and arithmetic, relational and Boolean operators, for OxfordAQA International GCSE Computer Science (9210)."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

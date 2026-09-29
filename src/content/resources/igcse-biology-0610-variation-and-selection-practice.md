@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "selection-cambridge-igcse-biology"
 description: "Original Cambridge IGCSE Biology 0610 questions on variation, mutation, adaptive features and selection, with marked worked answers and examiner insights."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

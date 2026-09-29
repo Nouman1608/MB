@@ -11,6 +11,9 @@ syllabusSeries: "For first teaching 2015"
 order: 3
 description: "Mapping the internal section structure of AQA A-Level English Language 7702 -- the 70/30 split on Paper 1, Paper 2's three-task shape, the 3,500-word NEA, and a worked routine for the directed writing task."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

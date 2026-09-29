@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "energy-changes-8462"
 description: "AQA GCSE Chemistry 8462 Energy changes taught from scratch: exothermic and endothermic reactions, reaction profiles, bond energies, cells and fuel cells."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "paper-4-language-topics-9093"
 description: "English as a global language and its varieties, including Kachru's Three Circles model and creolisation, and how language shapes and reflects social identity, for Cambridge International AS & A Level English Language (9093) Paper 4."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "european-option-modern-europe-9489"
 description: "Original exam-style practice questions, built onto the real Paper 1 (one two-part sources question) and Paper 2 (two two-part outline-study questions) structure, covering France 1774-1814, German unification and Russia from autocracy to revolution."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

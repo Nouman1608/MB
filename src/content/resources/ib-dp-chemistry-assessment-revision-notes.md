@@ -9,6 +9,9 @@ syllabusCodes: ["DP Chemistry"]
 order: 1
 description: "Condensed recall notes on the assessment structure -- papers, weightings, the structure-and-reactivity framework and the internal assessment -- for IB Diploma Programme Chemistry."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 ---

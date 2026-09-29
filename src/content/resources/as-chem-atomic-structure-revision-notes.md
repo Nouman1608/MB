@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "as-isotopes"
 description: "Condensed recall notes on protons, neutrons and electrons, beams in an electric field, atomic and ionic radius trends, and isotopes for Cambridge AS Level Chemistry 9701 (2025-2027)."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 updatedDate: 2026-09-27
 featured: false

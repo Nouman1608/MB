@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "b3-quadratic-functions-aqa-alevel-maths"
 description: "Quadratic functions and the discriminant, solving simultaneous linear-quadratic equations, and linear and quadratic inequalities -- B3, B4 and B5 of AQA A-Level Mathematics (7357)'s DfE-prescribed Algebra and Functions content."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

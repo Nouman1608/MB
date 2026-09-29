@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "an-introduction-to-the-role-of-the-accountant-in-business-oxfordaqa"
 description: "The purpose of accounting and the role of the accountant -- the opening topic of OxfordAQA International AS & A-Level Accounting (9615), a 20-topic, modular syllabus."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

@@ -20,6 +20,9 @@ syllabusTopics:
     topic: "ib-dp-economics-unit-4"
 description: "The four units of the IB Diploma Programme Economics syllabus -- Introduction to economics, Microeconomics, Macroeconomics and The global economy -- with the real HL-only content marked, for first assessment 2022."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

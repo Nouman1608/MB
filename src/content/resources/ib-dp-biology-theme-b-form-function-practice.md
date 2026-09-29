@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-biology-form-function"
 description: "Original practice questions with full worked answers covering macromolecules, proteins, membrane transport, organelles, cell specialization, gas exchange and adaptation, for IB Diploma Programme Biology Theme B."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

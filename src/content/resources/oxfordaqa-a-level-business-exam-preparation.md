@@ -11,6 +11,9 @@ syllabusSeries: "9625 (legacy, final A-level exams 2027) alongside 9725 (revised
 order: 3
 description: "Why two OxfordAQA International A-Level Business specifications are running in parallel right now, how their papers differ, and a worked case-study routine."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "excretion-in-humans-cambridge-igcse-biology"
 description: "Eleven original excretion questions for Cambridge IGCSE Biology 0610, from the urinary system to the nephron and deamination, with marked answers."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

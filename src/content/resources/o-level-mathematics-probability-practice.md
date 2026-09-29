@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "probability"
 description: "Original exam-style questions with full worked answers on single events, relative frequency, selections without replacement, Venn diagrams and expected frequency, for Cambridge O Level Mathematics 4024."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 featured: false
 ---

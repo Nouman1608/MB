@@ -11,6 +11,9 @@ syllabusCodes: ["0620"]
 order: 1
 description: "0620 IGCSE Chemistry past papers guide: grade thresholds and examiner report notes for every series from March 2020 to November 2025."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 ---

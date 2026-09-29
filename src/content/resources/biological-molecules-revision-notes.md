@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "biological-molecules-content"
 description: "Condensed recall notes on carbohydrates, lipids, proteins, DNA and the food tests for Cambridge O Level Biology 5090."
 author: "saad-zai"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

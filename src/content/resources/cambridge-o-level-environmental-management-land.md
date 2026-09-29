@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "land-5014-2027"
 description: "Soils and crop growth, food production and crop yield, and soil erosion -- Topic 2 Land of the 2027-2029 Cambridge O Level Environmental Management (5014) syllabus, which replaces the 2025-2026 topic Agriculture and the environment."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-21
 featured: false
 ---

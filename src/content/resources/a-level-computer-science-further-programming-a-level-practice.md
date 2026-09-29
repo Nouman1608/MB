@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "further-programming"
 description: "Original exam-style questions with full worked answers on classes, encapsulation, inheritance and polymorphism, declarative programming, random file handling in pseudocode and exception handling, for Cambridge AS & A Level Computer Science (9618)."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
 featured: false

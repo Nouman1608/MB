@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-economics-unit-2"
 description: "An original SL-level practice question in the Paper 2 part structure, (a) to (g) for 40 marks, with full worked answers on demand, supply and competitive market equilibrium, for IB Diploma Programme Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 ---

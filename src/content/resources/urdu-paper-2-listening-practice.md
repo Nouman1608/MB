@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-listening-0539"
 description: "Original exam-style listening scripts and comprehension questions, with full worked answers, covering all four Paper 2 exercise types for Cambridge IGCSE Urdu as a Second Language (0539)."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

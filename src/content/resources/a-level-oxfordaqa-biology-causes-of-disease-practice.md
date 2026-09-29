@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "the-causes-of-disease-pathogens-lifestyle-and-genes-oxfordaqa-alevel-biology"
 description: "Original exam-style practice questions with full worked answers on pathogens, disease mechanisms, and lifestyle risk factors for coronary heart disease and cancer, for OxfordAQA International A-Level Biology (9610), sub-topic 3.2.1."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

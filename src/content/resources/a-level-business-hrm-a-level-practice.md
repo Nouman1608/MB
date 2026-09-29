@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "human-resource-management-a-cambridge-alevel-business"
 description: "Original exam-style questions with full worked answers on flexible employment contracts, core and peripheral workers, hard and soft HRM, management by objectives, matrix structures and emotional intelligence, for Cambridge AS & A Level Business (9609)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

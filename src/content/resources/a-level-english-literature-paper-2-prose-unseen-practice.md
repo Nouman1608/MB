@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "paper-2-prose-and-unseen-9695"
 description: "Original exam-technique practice questions with full worked answers on Paper 2's structure, the unseen close-reading method, and the technique-then-effect habit, for Cambridge International A Level English Literature (9695)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "algebra-aqa-gcse-maths"
 description: "Notation and manipulation, graphs, solving equations and inequalities, and sequences -- the full content of Topic 2 Algebra for AQA GCSE Mathematics (8300)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

@@ -11,6 +11,9 @@ syllabusSeries: "For first teaching 2015"
 order: 1
 description: "Paper-by-paper exam preparation for AQA GCSE Mathematics 8300 -- Foundation/Higher tier strategy, non-calculator vs calculator paper strategy, a worked show-your-method answer and a checklist."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

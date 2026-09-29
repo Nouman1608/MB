@@ -39,6 +39,9 @@ syllabusTopics:
     subtopic: "trigonometry-and-pythagoras-theorem-edexcel-igcse-maths"
 description: "Twelve original 4MA1 questions on angles, polygons, bearings, measures, circle theorems, sine and cosine rules and 3D trig, with worked answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

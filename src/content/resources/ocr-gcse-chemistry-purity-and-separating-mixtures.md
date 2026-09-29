@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "c2-1-purity-separating-mixtures-j248"
 description: "Purity, melting point, relative formula mass, empirical formula and the four core separation techniques -- subtopic C2.1 of OCR GCSE (9-1) Chemistry A (Gateway Science) J248."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

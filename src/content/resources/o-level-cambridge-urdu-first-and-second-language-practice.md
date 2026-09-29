@@ -16,6 +16,9 @@ syllabusTopics:
     topic: "sl-paper-1-reading-writing-3248"
 description: "Original exam-style practice for both Cambridge O-Level Urdu Paper 1 formats: 3247 First Language's Reading and Writing parts, and 3248 Second Language's five-exercise structure, with full worked answers."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-25
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-computer-science-theme-a"
 description: "Condensed recall notes on Theme A -- computer fundamentals, networks, databases (including SQL queries) and machine learning -- for IB Diploma Programme Computer Science, first assessment 2027."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

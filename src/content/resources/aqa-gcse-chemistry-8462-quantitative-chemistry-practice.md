@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "quantitative-chemistry-8462"
 description: "Eleven original AQA GCSE Chemistry 8462 quantitative chemistry questions on moles, limiting reactants, yield, titrations and gas volumes, with marks."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "what-is-business-oxfordaqa-alevel-business"
 description: "Condensed recall notes on business purpose, ownership, stakeholders, market analysis and the external environment for A Level Business, primarily 9625 with 9725 divergences flagged."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

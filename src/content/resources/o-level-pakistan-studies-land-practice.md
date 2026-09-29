@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "the-land-of-pakistan-2059"
 description: "Exam-style questions with full worked answers on Pakistan's location, administrative areas, natural topography and climate, for Cambridge O Level Pakistan Studies (2059) Paper 2 Section 1."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "measures-of-economic-performance-edexcel-alevel-economics"
 description: "Condensed recall notes on GDP, GNI, real vs nominal, PPPs, recession and national wellbeing for Pearson Edexcel International A-Level Economics, Unit 2 (WEC12/01), the Economic Growth strand of 2.3.1."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

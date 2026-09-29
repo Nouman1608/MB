@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-0493"
 description: "Condensed recall notes on the Qur\u2019an, the life of the Prophet and the first Islamic community for Cambridge IGCSE Islamiyat (0493)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

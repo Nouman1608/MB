@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "operations-finance-and-influences-on-business-ocr-gcse-business"
 description: "Operations, finance, and influences on business -- the full content of Component 02, Business 2, for OCR GCSE (9-1) Business (J204), including production, quality, break-even, cash flow, and ethical, economic and global influences."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

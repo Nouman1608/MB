@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "managing-business-activities-edexcel-alevel-business"
 description: "Original exam-style practice questions with full worked answers on raising finance, break-even analysis, profitability and liquidity ratios, business failure, resource management and external influences for Edexcel International A Level Business (WBS12), Unit 2."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 ---

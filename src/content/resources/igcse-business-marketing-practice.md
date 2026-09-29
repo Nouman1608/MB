@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "marketing-cambridge-igcse-business"
 description: "Original exam-style practice questions with full worked answers on niche/mass marketing, market research, the marketing mix and marketing strategy, for Cambridge IGCSE Business Studies (0450) Topic 3 Marketing."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

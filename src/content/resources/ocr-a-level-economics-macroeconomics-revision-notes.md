@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "macroeconomics-ocr-alevel-economics"
 description: "Condensed recall notes on aggregate demand and supply, policy objectives, and fiscal/monetary/supply-side policy for OCR A Level Economics (H460), Component 2 Macroeconomics -- the global context and financial sector content areas are not covered by these notes."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

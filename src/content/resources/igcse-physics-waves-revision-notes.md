@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "sound-cambridge-igcse-physics"
 description: "Condensed recall notes on wave properties, reflection, refraction, lenses, the electromagnetic spectrum and sound, with Core/Supplement content marked, for Cambridge IGCSE Physics (0625) Topic 3."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 updatedDate: 2026-09-28
 featured: false

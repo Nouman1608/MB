@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "measurements-and-their-errors-oxfordaqa-alevel"
 description: "SI units, measurement limitations and estimation -- the opening section of OxfordAQA International AS & A-Level Physics (9630), shared content with the International AS award (9631)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

@@ -11,6 +11,9 @@ syllabusCodes: ["9702"]
 order: 1
 description: "9702 Physics past papers guide: grade thresholds and examiner report notes for March 2024 to June 2025, with links to Cambridge's official papers."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 ---

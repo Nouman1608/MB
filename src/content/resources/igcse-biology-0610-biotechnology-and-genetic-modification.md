@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "genetic-modification-cambridge-igcse-biology"
 description: "Study guide to Cambridge IGCSE Biology 0610 topic 21: bacteria in biotechnology, yeast, enzymes, fermenters and genetic modification, Core and Extended."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

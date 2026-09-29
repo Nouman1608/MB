@@ -11,6 +11,9 @@ syllabusSeries: "2026-2027"
 order: 3
 description: "Preparing for both equally weighted papers of Cambridge IGCSE Islamiyat 0493 -- why neither paper can be sacrificed, how to budget 90 minutes across 50 marks, using set passages precisely, and a worked answer structure."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "government-and-the-macroeconomy"
 description: "Original exam-style questions with full worked answers on the qualities of a good tax, types of unemployment and policies to reduce frictional unemployment, real wages and inflation, tax revenue in a recession, and the link between inflation and economic growth, for Cambridge O Level Economics (2281)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

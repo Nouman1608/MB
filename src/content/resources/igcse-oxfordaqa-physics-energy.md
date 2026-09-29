@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "energy-oxfordaqa-igcse"
 description: "Work, energy transfers, conservation, efficiency, Sankey diagrams and energy resources -- Topic 2 Energy of OxfordAQA International GCSE Physics (9203), the second of eight topics in the full award."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

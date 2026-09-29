@@ -11,6 +11,9 @@ syllabusSeries: "Specification Issue 3, April 2019"
 order: 3
 description: "The five valid applied unit pairings for Edexcel IAL Mathematics YMA01, why every unit is worth exactly the same, and a worked routine for protecting method marks across 75-mark papers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

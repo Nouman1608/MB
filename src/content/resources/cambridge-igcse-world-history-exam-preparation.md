@@ -11,6 +11,9 @@ syllabusSeries: "2024-2026"
 order: 3
 description: "How Cambridge IGCSE History 0470's three components fit together -- Paper 1's core-plus-depth question pattern, Paper 2's source-based demands, the coursework versus Paper 4 choice, and a worked source-evaluation routine."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

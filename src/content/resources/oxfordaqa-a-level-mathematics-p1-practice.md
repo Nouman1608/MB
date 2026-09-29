@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "unit-p1-pure-maths-oxfordaqa-alevel-maths"
 description: "Original exam-style practice questions with full worked answers on indices, surds, quadratics, binomial expansion, simultaneous equations, differentiation and integration for OxfordAQA 9660 Unit P1, plus two trigonometry questions marked as Unit PSM1 content."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

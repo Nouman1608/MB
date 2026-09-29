@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "atomic-structure-and-the-periodic-table-ych11"
 description: "Protons, neutrons and electrons, isotopes, and using a mass spectrometer to determine relative atomic and molecular mass -- outcomes 2.1-2.7 of Pearson Edexcel International A-Level Chemistry (YCH11), Unit 1's Atomic Structure content."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "writing-1123"
 description: "Original exam-technique practice questions with full worked answers on Paper 2's format, the five writing assessment objectives, and how marks split between Directed Writing and Composition, for Cambridge O Level English Language (1123)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

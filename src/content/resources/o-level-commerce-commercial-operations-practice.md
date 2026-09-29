@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "commercial-operations-7100"
 description: "Original exam-style practice questions with full worked answers on business ownership types, multinationals, retailing, wholesaling and trading documents for Cambridge O Level Commerce (7100)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

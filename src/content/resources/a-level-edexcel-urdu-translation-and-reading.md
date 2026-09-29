@@ -11,6 +11,9 @@ syllabusSeries: "2018"
 order: 1
 description: "Translation into English, reading comprehension and a research-based writing question in Urdu -- Paper 1 of Pearson Edexcel GCE A-Level Urdu (9UR0)."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

@@ -28,6 +28,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-1-8"
 description: "IB DP Maths AA study guide to standard form, arithmetic and geometric sequences, sigma notation, compound interest, depreciation and infinite sums."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

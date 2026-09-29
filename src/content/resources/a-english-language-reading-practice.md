@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "paper-1-reading-9093"
 description: "Original exam-style practice questions with full worked answers on discourse analysis, register, lexis, grammar and pragmatics."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

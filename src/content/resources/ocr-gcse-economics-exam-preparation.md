@@ -11,6 +11,9 @@ syllabusSeries: "Version 2.0 (June 2026), for first assessment in 2019"
 order: 3
 description: "Why both components of OCR GCSE Economics J205 carry synoptic assessment, how to pace an 80-mark 90-minute paper, diagram discipline, and a worked chain-of-reasoning routine."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

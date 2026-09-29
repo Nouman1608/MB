@@ -30,6 +30,9 @@ syllabusTopics:
     subtopic: "alkenes"
 description: "Condensed recall notes on fossil fuels, fractional distillation of petroleum, alkanes, cracking and alkene reactions for Cambridge IGCSE 0620 and O Level 5070 (2026-2028)."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

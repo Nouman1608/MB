@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "anaerobic-respiration-cambridge-igcse-biology"
 description: "Condensed respiration notes for Cambridge IGCSE Biology 0610: equations, uses of energy, yeast investigation, oxygen debt and a self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

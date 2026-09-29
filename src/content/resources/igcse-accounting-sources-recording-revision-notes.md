@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "sources-and-recording-of-data"
 description: "Quick-recall revision notes on double entry, running balance accounts, business documents, the seven books of prime entry, the imprest system and manual versus digital records for Cambridge IGCSE Accounting (0452), 2027-2029 syllabus."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

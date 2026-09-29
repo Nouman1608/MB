@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "respiration-cambridge-alevel-biology"
 description: "ATP, RQ, glycolysis, the link reaction, Krebs cycle, oxidative phosphorylation and fermentation taught step by step for Cambridge A Level Biology 9700."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

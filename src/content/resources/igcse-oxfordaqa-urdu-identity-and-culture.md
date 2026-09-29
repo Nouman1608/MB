@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "theme-1-identity-culture-9264"
 description: "Family and friends, technology in everyday life, and free-time activities -- the full content of Theme 1 for OxfordAQA International GCSE Urdu (9264)."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

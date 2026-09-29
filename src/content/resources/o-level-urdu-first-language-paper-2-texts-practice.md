@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "fl-paper-2-texts-3247"
 description: "Original exam-technique practice questions with full worked answers on Paper 2's three parts, the prescribed set-text list, and what the levels-based mark schemes reward, for Cambridge O Level First Language Urdu (3247)."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

@@ -36,6 +36,9 @@ syllabusTopics:
     subtopic: "pressure-cambridge-igcse-physics"
 description: "Physical quantities, motion graphs, mass and weight, density, forces, momentum, energy/work/power and pressure -- the Core and Supplement content of Topic 1 Motion, forces and energy for Cambridge IGCSE Physics 0625, 2026-2028 series."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 updatedDate: 2026-09-28
 featured: false

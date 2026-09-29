@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-studies-in-change-9245"
 description: "Condensed recall notes on tracing change across a society-in-change option and a thematic study for OxfordAQA International GCSE History Paper 2 (9245)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

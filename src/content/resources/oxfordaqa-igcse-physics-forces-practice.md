@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "forces-and-their-effects-oxfordaqa-igcse"
 description: "Original exam-style practice questions with full worked answers on motion graphs, Newton laws, momentum and moments for International GCSE Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

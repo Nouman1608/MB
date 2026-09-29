@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "the-heart-cambridge-alevel-biology"
 description: "Condensed notes on vessels, tissue fluid, the chloride shift, the Bohr shift and the cardiac cycle, with a self-test, for Cambridge 9700 AS Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

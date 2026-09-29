@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "cell-structure-4bi1"
 description: "Original practice questions with full worked answers on cell structures, plant vs animal cells, biological molecules and enzymes, for Pearson Edexcel International GCSE Biology (4BI1)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

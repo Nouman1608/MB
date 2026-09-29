@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "business-and-its-environment-as-cambridge-alevel-business"
 description: "Condensed recall notes on enterprise, business objectives, ownership, stakeholders and growth for AS Topic 1 of Cambridge AS & A Level Business 9609."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

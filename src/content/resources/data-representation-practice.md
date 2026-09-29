@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "data-representation-0478"
 description: "Original exam-style practice questions with full worked answers on binary, hexadecimal, character sets, images, sound and compression."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

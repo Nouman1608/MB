@@ -37,6 +37,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-5-8"
 description: "Condensed IB DP Maths AI calculus notes for SL and HL: rules, method steps and a quick self-test on derivatives, integrals and optimisation."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

@@ -11,6 +11,9 @@ syllabusSeries: "2026-2027"
 order: 3
 description: "Working the four-from-five question structure of Cambridge O Level Islamiyat 2058 -- which two questions are compulsory, how to choose the other two, a time budget matched to the 8-mark and 14-mark tariffs and a worked answer structure."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

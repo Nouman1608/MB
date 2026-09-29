@@ -21,6 +21,9 @@ syllabusTopics:
     subtopic: "ib-dp-economics-3-3"
 description: "Measuring economic activity, aggregate demand and aggregate supply, and macroeconomic objectives -- sub-topics 3.1-3.3 of IB Diploma Programme Economics Unit 3 Macroeconomics, first assessment 2022."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

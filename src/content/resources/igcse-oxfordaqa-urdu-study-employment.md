@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "theme-3-study-employment-9264"
 description: "My studies, life at school/college, education post-16, and jobs and career choices -- the full content of Theme 3 for OxfordAQA International GCSE Urdu (9264)."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

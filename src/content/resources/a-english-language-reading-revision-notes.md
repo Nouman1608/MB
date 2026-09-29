@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "paper-1-reading-9093"
 description: "Condensed recall notes on language frameworks, discourse analysis, register, and directed writing for Cambridge AS & A Level English Language 9093."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

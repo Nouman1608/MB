@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "operations-management-as-cambridge-alevel-business"
 description: "Original exam-style practice questions with full worked answers on inventory management, re-order levels, buffer inventory, just-in-time, capacity utilisation and productivity for Cambridge AS & A Level Business (9609) Topic 4."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 featured: false
 ---

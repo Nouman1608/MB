@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "types-of-business-organisation-oxfordaqa"
 description: "Condensed recall notes on sole traders, partnerships, and private and public limited companies, their liability and reporting obligations, and sources of finance, for OxfordAQA International A-Level Accounting (9615), sub-topic 3.1.2."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

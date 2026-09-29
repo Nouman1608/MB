@@ -11,6 +11,9 @@ syllabusSeries: "First teaching 2024, first examined 2026"
 order: 3
 description: "How OxfordAQA International GCSE Accounting 9215's two equally weighted papers divide book-keeping from financial statements, why the qualification has no coursework, and a worked own-figure routine."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

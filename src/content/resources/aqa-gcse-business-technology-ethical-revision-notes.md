@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "technology-aqa-gcse-business"
 description: "Condensed recall notes on e-commerce, digital communication, and ethics/environment/sustainability trade-offs for AQA GCSE Business (8132), 3.2.1 and 3.2.2."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

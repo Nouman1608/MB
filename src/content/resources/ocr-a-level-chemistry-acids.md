@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-2-1-4"
 description: "Common acids and alkalis, strong versus weak acid dissociation, neutralisation reactions, standard solution preparation, acid-base titration technique, and titration calculations, for OCR A Level Chemistry A H432, Module 2.1.4."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

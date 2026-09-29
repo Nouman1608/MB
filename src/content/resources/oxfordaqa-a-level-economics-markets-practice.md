@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "the-operation-of-markets-market-failure-and-the-role-of-government-oxfordaqa-alevel-economics"
 description: "Original exam-style practice questions with full worked answers on market failure, externalities, tax incidence and government intervention for OxfordAQA International AS Economics Unit 1, with separately marked Unit 3 extension questions on utility, surplus and efficiency."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

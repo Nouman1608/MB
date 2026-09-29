@@ -21,6 +21,9 @@ syllabusTopics:
     subtopic: "algebraic-fractions"
 description: "Simplifying, expanding, factorising and completing the square, plus algebraic fractions, for Cambridge O Level Mathematics (Syllabus D) 4024."
 author: "muhammad-ghazali-siddiqui"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-07-01
 updatedDate: 2026-08-18
 featured: false

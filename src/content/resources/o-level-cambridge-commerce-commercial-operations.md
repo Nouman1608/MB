@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "commercial-operations-7100"
 description: "Private and public sector enterprises, multinationals, franchises, retailing, wholesaling, trading documents and communication -- the second of six topics in Cambridge O Level Commerce (7100), 2026-2028 series."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

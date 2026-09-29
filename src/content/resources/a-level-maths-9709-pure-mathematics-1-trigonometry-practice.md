@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "trigonometry-cambridge-alevel-maths-1"
 description: "Original Cambridge 9709 Paper 1 trigonometry questions (section 1.5) with mark-by-mark worked answers and examiner insights on each question."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 ---

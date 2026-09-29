@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-reading-writing-0539"
 description: "Condensed recall notes on comprehension technique, register and the accuracy points that decide Urdu marks, for Cambridge IGCSE Urdu 0539."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

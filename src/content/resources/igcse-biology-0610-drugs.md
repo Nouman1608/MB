@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "drugs-cambridge-igcse-biology"
 description: "Study guide to Cambridge IGCSE Biology 0610 topic 15: what a drug is, how antibiotics treat bacterial infections and how resistance such as MRSA develops."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

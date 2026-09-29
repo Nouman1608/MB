@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "hardware-0478"
 description: "Original exam-style practice questions with full worked answers on computer architecture, input/output devices, sensors, data storage and network hardware, for Cambridge IGCSE Computer Science (0478) Topic 3 Hardware."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

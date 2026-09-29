@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "ib-myp-mathematics-branches-of-mathematical-study-reasoning-with-data"
 description: "Condensed revision notes on the Reasoning with data branch of IB Middle Years Programme Mathematics -- statistics, probability and drawing conclusions from data -- with worked examples tied to the four MYP assessment criteria."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

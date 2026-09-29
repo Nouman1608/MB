@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "sources-and-recording-of-data-oxfordaqa-igcse"
 description: "Original exam-style practice questions with full worked answers on source documents, double entry, ledgers and the trial balance."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

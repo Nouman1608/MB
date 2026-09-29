@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "depth-studies-2147"
 description: "Condensed recall notes on the five Depth Studies, how Paper 1 Section B examines them, and the source-evaluation technique Paper 2 tests on the Core Content prescribed topic, for Cambridge O Level World History (2147)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

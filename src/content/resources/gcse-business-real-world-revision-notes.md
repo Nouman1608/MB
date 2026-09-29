@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "business-in-the-real-world-aqa-gcse-business"
 description: "Condensed recall notes on business purpose, ownership, stakeholders, location, growth and business planning for GCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

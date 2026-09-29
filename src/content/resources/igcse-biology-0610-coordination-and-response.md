@@ -30,6 +30,9 @@ syllabusTopics:
     subtopic: "tropic-responses-cambridge-igcse-biology"
 description: "Study guide for Cambridge IGCSE Biology 0610 topic 14: nerves, synapses, the eye, hormones, homeostasis and tropisms, with Extended content labelled."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

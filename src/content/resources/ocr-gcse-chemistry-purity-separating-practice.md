@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "c2-1-purity-separating-mixtures-j248"
 description: "Original exam-style practice questions with full worked answers on purity, melting point, relative formula mass, empirical formula and the four separation techniques for OCR GCSE (9-1) Chemistry A Gateway Science (J248), C2.1."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 ---

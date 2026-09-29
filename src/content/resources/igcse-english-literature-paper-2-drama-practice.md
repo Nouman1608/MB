@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-2-drama-0475"
 description: "Original exam-technique practice questions with full worked answers on Paper 2's format, the one-of-each question rule, closed-book preparation, and how the four assessment objectives are marked, for Cambridge IGCSE Literature in English (0475)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "homeostasis-in-plants-cambridge-alevel-biology"
 description: "Study guide for Cambridge 9700 topic 14: negative feedback, the kidney and nephron, ADH, glucagon cell signalling, insulin, biosensors and guard cells."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

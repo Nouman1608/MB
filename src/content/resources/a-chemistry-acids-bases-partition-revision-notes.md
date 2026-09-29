@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "a-partition-coefficients"
 description: "Condensed recall notes on conjugate acid–base pairs, pH, Ka, pKa and Kw calculations, buffer solutions, solubility product and the common ion effect, and partition coefficients for Cambridge A Level Chemistry 9701 (2025-2027)."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

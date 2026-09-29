@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "natural-resources-sustainability-2059"
 description: "Exam-style questions with full worked answers on water, forests, mineral resources and fish, applying the location-use-sustainability framework, for Cambridge O Level Pakistan Studies (2059) Paper 2 Section 2."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

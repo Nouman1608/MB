@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "ecology-and-the-environment-edexcel-igcse-biology"
 description: "Twelve original Edexcel IGCSE Biology 4BI1 ecology questions with mark-by-mark answers on quadrats, energy transfer, cycles and pollution."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

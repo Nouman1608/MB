@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "black-body-radiation-aqa-gcse"
 description: "Twelve original AQA GCSE Physics 8463 Waves questions on v = fλ, practicals, ultrasound, seismic waves, EM waves, lenses and black bodies, with marks."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

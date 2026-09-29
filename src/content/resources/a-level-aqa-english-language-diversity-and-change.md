@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "section-a-diversity-and-change-7702"
 description: "Sociolects, dialects, language change over time, and how audience, purpose, genre and mode shape variation -- 4.2.1 Language Diversity and Change, assessed on Paper 2 Section A of AQA A-Level English Language (7702)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

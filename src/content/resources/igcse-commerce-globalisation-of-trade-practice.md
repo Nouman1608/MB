@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "globalisation-of-trade-0715"
 description: "Original exam-style practice questions with full worked answers on international trade, Balance of Trade/Payments calculations, trading blocs and trade restrictions, and global supply chains, for Cambridge IGCSE Commerce (0715) Topic 3."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

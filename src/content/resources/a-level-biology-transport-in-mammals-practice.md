@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "transport-in-mammals-cambridge-alevel-biology"
 description: "Original exam-style questions with full worked answers on identifying capillaries, unit conversions, capillary structure and function, veins adapting to arterial pressure, artery and vein walls, and oxygen carried by haemoglobin, for Cambridge International AS & A Level Biology (9700)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

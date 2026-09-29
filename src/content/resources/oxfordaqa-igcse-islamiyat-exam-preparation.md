@@ -11,6 +11,9 @@ syllabusSeries: "First examined May/June 2026"
 order: 3
 description: "Why both papers of OxfordAQA International GCSE Islamiat 9237 require study of specific set Qur'an and Hadith passages, how the two equally weighted papers divide content, and a worked source-citation routine."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

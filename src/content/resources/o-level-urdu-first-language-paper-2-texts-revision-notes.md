@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "fl-paper-2-texts-3247"
 description: "Condensed recall notes on Paper 2's Unseen Passage, Poetry and Prose parts, the prescribed set texts, and what the mark schemes actually reward for Cambridge O Level First Language Urdu (3247)."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

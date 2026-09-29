@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "databases-2210"
 description: "Original exam-style questions with full worked answers on fields, records and primary keys, choosing data types for fields, and writing and reading SQL using SELECT, FROM, WHERE, ORDER BY, SUM and COUNT, for Cambridge O Level Computer Science (2210)."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
 featured: false

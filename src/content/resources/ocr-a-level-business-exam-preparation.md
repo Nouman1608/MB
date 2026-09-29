@@ -11,6 +11,9 @@ syllabusSeries: "Version 2.1 (January 2026), for first assessment in 2017; final
 order: 3
 description: "What OCR A Level Business H431's withdrawal timetable means for candidates, how its three equal 80-mark components differ, why every paper is synoptic, and a worked evaluation routine."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

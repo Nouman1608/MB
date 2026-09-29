@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "commercial-operations-0715"
 description: "Commercial enterprises, outsourcing, retailing, wholesaling, trading documents and communication -- Topic 2 of Cambridge IGCSE Commerce (0715), a new six-topic syllabus for exams from 2028."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

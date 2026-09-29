@@ -9,6 +9,9 @@ syllabusCodes: ["DP Business Management"]
 syllabusSeries: "First assessment 2024"
 description: "An overview of IB Diploma Programme Business Management -- its four interdisciplinary concepts (creativity, change, ethics, sustainability), its core business functions, and what the course aims to develop, for both Standard Level and Higher Level."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

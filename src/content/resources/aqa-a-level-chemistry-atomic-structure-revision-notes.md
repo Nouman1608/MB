@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "atomic-structure-7405"
 description: "Condensed recall notes on subatomic particles, mass spectrometry, electron configuration and ionisation energies for AQA A Level Chemistry 7405."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false

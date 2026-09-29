@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "an-introduction-to-the-role-of-the-accountant-in-business-oxfordaqa"
 description: "Condensed recall notes on accounting concepts, financial statements, adjustments and ratio analysis for A Level Accounting."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

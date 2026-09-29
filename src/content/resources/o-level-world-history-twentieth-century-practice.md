@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "core-content-option-b-2147"
 description: "Original O Level practice questions on Versailles, the League of Nations, Hitler's foreign policy and US containment of communism — built onto Paper 1's three-part essays and Paper 2's document-question format."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 ---

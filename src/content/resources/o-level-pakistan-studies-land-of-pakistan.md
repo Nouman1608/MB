@@ -16,6 +16,9 @@ syllabusTopics:
 description: "Location, administrative areas and cities, natural topography, and climate -- Section 1 of Paper 2 The Environment of Pakistan, for Cambridge O Level Pakistan Studies 2059, 2026 series (Version 1)."
 seoDescription: "Cambridge O Level Pakistan Studies (2059) Paper 2, Section 1: location, terrain, climate and administrative divisions of Pakistan explained."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "the-diversity-of-living-organisms-oxfordaqa-alevel-biology"
 description: "Condensed recall notes on classification, biodiversity indices and genetic diversity, with natural selection as a Unit 3 forward reference, for OxfordAQA International A Level Biology 9610."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

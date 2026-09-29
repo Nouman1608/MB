@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "series-cambridge-alevel-maths"
 description: "Original Cambridge 9709 Paper 1 Series questions with marked answers: binomial terms, APs, GPs, sums to infinity and linked progressions."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 ---

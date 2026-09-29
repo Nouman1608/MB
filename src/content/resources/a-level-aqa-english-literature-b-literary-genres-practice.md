@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "paper-1-literary-genres-7717"
 description: "Original exam-style practice questions with full worked answers on Paper 1 of AQA A-Level English Literature B (7717)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 ---

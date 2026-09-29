@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "paper-3-shakespeare-and-drama-9695"
 description: "How Paper 3 differs from the AS Level papers in Cambridge International A Level Literature in English 9695: A-Level-only availability, the introduction of AO5 (evaluation of opinion), the Shakespeare and Drama sections, and the 2026-series set texts, for the 2024-2026 syllabus."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

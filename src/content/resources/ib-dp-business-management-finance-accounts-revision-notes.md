@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-business-unit-3"
 description: "Condensed revision notes on IB Diploma Programme Business Management Unit 3 -- sources of finance, costs and revenues, final accounts, ratio analysis, cash flow and investment appraisal -- with worked calculation reminders and self-test questions."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

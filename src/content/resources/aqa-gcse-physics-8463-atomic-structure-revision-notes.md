@@ -27,6 +27,9 @@ syllabusTopics:
     subtopic: "nuclear-fission-and-fusion-aqa-gcse"
 description: "Condensed AQA GCSE Physics 8463 Atomic structure notes: key facts, decay rules, half-life steps, must-know contrasts and a 12-question self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

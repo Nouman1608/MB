@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "how-markets-work-oxfordaqa-igcse-economics"
 description: "Economic foundations, resource allocation, price determination, production and costs, market structures, and market failure -- the full content of Topic 1 for OxfordAQA International GCSE Economics (9214)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

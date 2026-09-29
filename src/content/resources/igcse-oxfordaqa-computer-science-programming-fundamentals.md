@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "programming-9210"
 description: "Data types, sequence/iteration/selection, and arithmetic, relational and Boolean operators -- the core imperative-programming constructs within Topic 2 Programming of OxfordAQA International GCSE Computer Science (9210)."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

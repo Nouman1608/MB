@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "preparation-of-financial-statements"
 description: "Condensed recall notes on financial statements and year-end adjustments for sole traders, partnerships and limited companies, manufacturing accounts, clubs and societies and incomplete records, for Cambridge IGCSE Accounting (0452) Topic 5, 2027-2029 syllabus."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-16
 featured: false
 ---

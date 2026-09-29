@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "how-markets-work-aqa-gcse-economics"
 description: "Original exam-style practice questions with full worked answers on demand, supply, equilibrium, elasticity and market failure."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

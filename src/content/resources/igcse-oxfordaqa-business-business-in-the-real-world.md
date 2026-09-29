@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "business-in-the-real-world-oxfordaqa-igcse-business"
 description: "Business activity, ownership, aims and objectives, business planning and growth -- the opening topic of OxfordAQA International GCSE Business (9225), whose content areas mirror AQA's domestic GCSE Business for this topic only."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

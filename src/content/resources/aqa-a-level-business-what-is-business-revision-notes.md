@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "what-is-business-aqa-alevel-business"
 description: "Condensed recall notes on business purpose, ownership, stakeholders and the external environment for AQA A Level Business 7132."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

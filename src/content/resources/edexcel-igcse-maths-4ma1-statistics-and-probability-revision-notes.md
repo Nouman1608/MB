@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "probability-edexcel-igcse-maths"
 description: "Condensed 4MA1 revision notes on statistics and probability: formulas, averages, histograms, quartiles, tree diagrams and a 12-question self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

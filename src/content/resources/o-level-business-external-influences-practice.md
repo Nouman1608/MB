@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "external-influences-on-business-activity"
 description: "Original exam-style questions with full worked answers on import quotas, tax rates, external costs and benefits, pressure groups, exchange rates and interest rates, for Cambridge O Level Business Studies (7115)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

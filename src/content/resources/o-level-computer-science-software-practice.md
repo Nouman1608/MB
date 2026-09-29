@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "software-2210"
 description: "Original exam-style questions with full worked answers on high-level languages, compilers and interpreters, IDE functions, operating system functions and interrupts, for Cambridge O Level Computer Science (2210)."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
 featured: false

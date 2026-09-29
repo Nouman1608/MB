@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "the-allocation-of-resources-cambridge-igcse-economics"
 description: "Condensed recall notes and comparison tables on demand and supply, price determination, elasticity and market failure for Cambridge IGCSE Economics 0455."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

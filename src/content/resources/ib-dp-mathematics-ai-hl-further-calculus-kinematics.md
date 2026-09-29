@@ -28,6 +28,9 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-5-13"
 description: "IB Maths AI HL study guide to chain, product and quotient rules, second derivatives, substitution, volumes of revolution and kinematics."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

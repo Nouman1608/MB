@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "bioenergetics-oxfordaqa-igcse-biology"
 description: "Original exam-style practice questions with full worked answers on photosynthesis, exchange and transport in plants, human circulation, digestion, breathing and respiration for OxfordAQA International GCSE Biology (9201)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 updatedDate: 2026-09-27
 featured: false

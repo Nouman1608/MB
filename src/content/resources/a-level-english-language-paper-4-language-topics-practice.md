@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "paper-4-language-topics-9093"
 description: "Original exam-style stimulus-based discussion questions with model response structures for English in the World and Language and the Self, for Cambridge International AS & A Level English Language (9093)."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

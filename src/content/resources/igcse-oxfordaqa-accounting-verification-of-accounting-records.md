@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "verification-of-accounting-records-oxfordaqa-igcse"
 description: "Trial balances, control accounts, bank reconciliation statements and correcting errors -- the four verification techniques of Topic 2 in OxfordAQA International GCSE Accounting (9215)."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

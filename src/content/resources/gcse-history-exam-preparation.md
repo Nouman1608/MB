@@ -11,6 +11,9 @@ syllabusSeries: "For first teaching 2016"
 order: 2
 description: "Paper-by-paper exam preparation for AQA GCSE History 8145 -- confirming your school's chosen studies, the four assessment objectives (AO1-AO4), the historic environment study, a worked source-utility answer and a checklist."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---
