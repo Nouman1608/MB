@@ -25,7 +25,7 @@ featured: false
 > developed by each candidate's own team. Use these alongside the official
 > syllabus and your teacher's guidance.
 >
-> **Coverage note:** this resource, and Marlbridge's other 9239 resources
+> **Coverage note:** this resource, and Marlbridge's other resources for 9239
 > published so far, cover Components 1-3 (the AS Level) only. Component 4,
 > the Cambridge Research Report (85 marks, A-Level-only), does not yet have a
 > dedicated Marlbridge resource.

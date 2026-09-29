@@ -24,7 +24,7 @@ four Paper 1 subtopics, but develops 1.1 in only a single summary bullet before 
 compilation history and the connected timeline of 1.3 and 1.4 -- this guide develops 1.1 specifically.
 
 **Which edition this guide covers:** this guide follows the **2026-2027 syllabus**, the edition the site's
-other 2058 resources, including the main [Paper 1](/resources/o-level-islamiyat-paper-1/) guide, follow.
+other resources for 2058, including the main [Paper 1](/resources/o-level-islamiyat-paper-1/) guide, follow.
 Its Question 1 format and the passages set for special study in Appendix 1 are the same as in the closed
 2024-2025 syllabus. Cambridge has also published a 2028 syllabus; check with your centre which cycle you
 are entered for.

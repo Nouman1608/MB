@@ -24,7 +24,7 @@ featured: false
 > are not taken from any past paper and are not endorsed by Cambridge
 > International.
 >
-> **Coverage note:** this resource, and Marlbridge's other 9239 resources
+> **Coverage note:** this resource, and Marlbridge's other resources for 9239
 > published so far, cover Components 1-3 (the AS Level) only. Component 4,
 > the Cambridge Research Report (85 marks, A-Level-only), does not yet have a
 > dedicated Marlbridge resource.

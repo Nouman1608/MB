@@ -24,7 +24,7 @@ Related: [Component 2 study guide](/resources/a-level-cambridge-global-perspecti
 Condensed, exam-focused notes for Component 2 of Cambridge AS & A Level Global Perspectives & Research
 (9239), 2026-2028 series.
 
-**Coverage note:** these notes, and Marlbridge's other 9239 resources published so far, cover
+**Coverage note:** these notes, and Marlbridge's other resources for 9239 published so far, cover
 Components 1-3 (the AS Level) only. Component 4, the Cambridge Research Report (85 marks,
 A-Level-only), does not yet have a dedicated Marlbridge resource.
 

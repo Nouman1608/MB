@@ -22,7 +22,7 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Team Project study guide](/resources/a-level-cambridge-global-perspectives-team-project/).
 
-**Coverage note:** these notes, and Marlbridge's other 9239 resources published so far, cover
+**Coverage note:** these notes, and Marlbridge's other resources for 9239 published so far, cover
 Components 1-3 (the AS Level) only. Component 4, the Cambridge Research Report (85 marks,
 A-Level-only), does not yet have a dedicated Marlbridge resource.
 

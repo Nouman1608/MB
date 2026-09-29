@@ -38,7 +38,7 @@ are three routes through the qualification: AS Level only (Components
 Year 1, Component 4 in Year 2), or the full A Level completed in a
 single series (all four components together).
 
-**Coverage note:** this guide, and Marlbridge's other 9239 resources
+**Coverage note:** this guide, and Marlbridge's other resources for 9239
 published so far, cover Components 1-3 (the AS Level) only. Component
 4 does not yet have a dedicated Marlbridge resource.
 

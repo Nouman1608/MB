@@ -31,7 +31,7 @@ featured: false
 > different shape from the eight shorter questions below, which are organised
 > by skill for focused practice rather than as a full-paper simulation.
 >
-> **Coverage note:** this resource, and Marlbridge's other 9239 resources
+> **Coverage note:** this resource, and Marlbridge's other resources for 9239
 > published so far, cover Components 1-3 (the AS Level) only. Component 4,
 > the Cambridge Research Report (85 marks, A-Level-only), does not yet have a
 > dedicated Marlbridge resource.

@@ -32,7 +32,7 @@ cover individually-produced components, Team Project is the one
 component built explicitly around collaborative research, even though
 the final marks are entirely individual.
 
-**Coverage note:** this guide, and Marlbridge's other 9239 resources
+**Coverage note:** this guide, and Marlbridge's other resources for 9239
 published so far, cover Components 1-3 (the AS Level) only. Component
 4 does not yet have a dedicated Marlbridge resource.
 

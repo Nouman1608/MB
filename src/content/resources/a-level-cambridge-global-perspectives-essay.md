@@ -43,7 +43,7 @@ research log) — 85 marks in total, half of the full A Level on its
 own, and the only component that distinguishes the full A Level from
 the AS-only qualification.
 
-**Coverage note:** this guide, and Marlbridge's other 9239 resources
+**Coverage note:** this guide, and Marlbridge's other resources for 9239
 published so far, cover Components 1-3 (the AS Level) only. Component
 4 does not yet have a dedicated Marlbridge resource.
 

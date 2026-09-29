@@ -137,7 +137,7 @@ deconstruction, reconstruction and communication itself under timed conditions â
 tested is the reasoning process applied on the day, not recalled knowledge of any particular global
 issue.
 
-**Coverage note:** these notes, and Marlbridge's other 9239 resources published so far, cover
+**Coverage note:** these notes, and Marlbridge's other resources for 9239 published so far, cover
 Components 1-3 (the AS Level) only. Component 4 does not yet have a dedicated Marlbridge resource.
 
 ## Self-test
