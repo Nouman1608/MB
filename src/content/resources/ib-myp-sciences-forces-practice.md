@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-related-concepts"
 description: "Eleven original IB MYP Sciences forces questions for criteria A to D, from F = ma and motion graphs to an investigation, each with a worked answer."
-author: "marlbridge-academic-team"
+author: "ameer-hamza"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29

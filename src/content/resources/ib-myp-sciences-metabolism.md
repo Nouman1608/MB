@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-related-concepts"
 description: "IB MYP Sciences study guide to metabolism: enzymes, aerobic and anaerobic respiration, photosynthesis, digestion, plus criterion B and C skills."
-author: "marlbridge-academic-team"
+author: "ameer-hamza"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29

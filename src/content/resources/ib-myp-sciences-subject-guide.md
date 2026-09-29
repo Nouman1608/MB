@@ -7,7 +7,7 @@ boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Sciences"]
 description: "An overview of IB Middle Years Programme Sciences -- an inquiry-based, often integrated science course exploring the connections between science and everyday life, for ages 11-16."
-author: "marlbridge-academic-team"
+author: "ameer-hamza"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29

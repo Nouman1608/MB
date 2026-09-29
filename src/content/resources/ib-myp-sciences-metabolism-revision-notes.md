@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-related-concepts"
 description: "Condensed IB MYP Sciences metabolism notes: key definitions, equations, enzyme and limiting-factor rules, data methods and a quick self-test."
-author: "marlbridge-academic-team"
+author: "ameer-hamza"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29

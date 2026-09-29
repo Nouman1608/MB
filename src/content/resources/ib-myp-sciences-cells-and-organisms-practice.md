@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-related-concepts"
 description: "Original IB MYP Sciences practice questions on cells and organisms, from magnification sums to a stomata investigation, with fully worked answers."
-author: "marlbridge-academic-team"
+author: "ameer-hamza"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29

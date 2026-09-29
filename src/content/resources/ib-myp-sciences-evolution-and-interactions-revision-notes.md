@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-related-concepts"
 description: "Condensed IB MYP Sciences revision notes on natural selection, evolution evidence, energy transfer, symbiosis and sampling, with a quick self-test."
-author: "marlbridge-academic-team"
+author: "ameer-hamza"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29

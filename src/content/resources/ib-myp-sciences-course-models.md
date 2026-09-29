@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-eassessment-structure"
 description: "The discrete, modular and integrated course models IB MYP Sciences schools choose between, and how the content scope of its eAssessment, spanning biology, chemistry and physics topics, is set by the eAssessment option entered rather than by which model a school uses."
-author: "marlbridge-academic-team"
+author: "ameer-hamza"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29

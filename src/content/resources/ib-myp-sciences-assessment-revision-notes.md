@@ -8,7 +8,7 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Sciences"]
 order: 1
 description: "Condensed recall notes on the four assessment criteria and the eAssessment task structure for IB Middle Years Programme Sciences."
-author: "marlbridge-academic-team"
+author: "ameer-hamza"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29

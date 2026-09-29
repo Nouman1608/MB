@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-related-concepts"
 description: "Twelve original IB MYP Sciences practice questions on states of matter, density, gas pressure and separation, with worked answers for criteria A to D."
-author: "marlbridge-academic-team"
+author: "ameer-hamza"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29

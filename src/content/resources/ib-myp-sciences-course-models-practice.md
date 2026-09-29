@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-eassessment-structure"
 description: "Original practice questions with full worked answers on the discrete/modular/integrated course models, eAssessment content scope, and revision-planning strategy, for IB MYP Sciences."
-author: "marlbridge-academic-team"
+author: "ameer-hamza"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
