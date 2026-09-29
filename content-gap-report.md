@@ -1,6 +1,6 @@
 # Content gap report
 
-**Generated 28 Sep 2026, 03:46 PKT** by `python3 scripts/content-gap-report.py` (content-breadth sprint).
+**Generated 29 Sep 2026, 16:43 PKT** by `python3 scripts/content-gap-report.py` (content-breadth sprint).
 
 Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series only), which is the build-validated transcription of each board's official document. A topic counts as having a study guide (SG), revision notes (RN) or practice set (PQ) only if a resource of that type maps to it. Subtopic columns count exact subtopic mappings only. Nothing here says a page has been teacher-reviewed: all resources remain `review-pending`.
 

@@ -5249,25 +5249,54 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/664481-2025-2027-syllabus.pdf', verifiedDate: '2026-08-21',
-    notes: "Cambridge O Level Statistics (4040), for examination 2025-2027. Twelve named topic areas verified in full from the Syllabus content at a glance list, closely mirroring sibling IGCSE Statistics 0479's topic structure with slightly different wording. Topic 2 (Summary representation of data) sub-topic structure (2.1-2.4) reproduced directly from the official syllabus PDF's Section 6 Syllabus content table, fetched and verified 2026-09-01. Named sub-topics for the remaining topics are not shown on the summary page and are not yet entered. Fetched and verified 2026-08-21.",
+    notes: "Cambridge O Level Statistics (4040), for examination 2025-2027. Twelve named topic areas verified in full from the Syllabus content at a glance list, closely mirroring sibling IGCSE Statistics 0479's topic structure with slightly different wording. Topic 2 (Summary representation of data) sub-topic structure (2.1-2.4) reproduced directly from the official syllabus PDF's Section 6 Syllabus content table, fetched and verified 2026-09-01. Named sub-topics (1.1-1.5, 3.1-3.2, 4.1-4.2, 5.1-5.4, 6.1-6.2, 9.1-9.2, 10.1-10.2, 12.1-12.2) entered from the same Section 6 table on 2026-09-29 (D-377); topics 7, 8 and 11 have guidance notes but no numbered sub-topics in the PDF. Fetched and verified 2026-08-21.",
     topics: [
-      { number: 1, name: 'Data and its collection', slug: 'data-and-its-collection-4040', subtopics: [] },
+      { number: 1, name: 'Data and its collection', slug: 'data-and-its-collection-4040', subtopics: [
+        { number: '1.1', name: 'General ideas of sampling', slug: 'general-ideas-of-sampling-4040' },
+        { number: '1.2', name: 'Types of sampling', slug: 'types-of-sampling-4040' },
+        { number: '1.3', name: 'Bias: how it arises and is avoided', slug: 'bias-how-it-arises-and-is-avoided-4040' },
+        { number: '1.4', name: 'General ideas of surveys', slug: 'general-ideas-of-surveys-4040' },
+        { number: '1.5', name: 'Types of data and variable', slug: 'types-of-data-and-variable-4040' },
+      ] },
       { number: 2, name: 'Summary representation of data', slug: 'summary-representation-of-data-4040', subtopics: [
         { number: '2.1', name: 'Classification and representation in tabular form', slug: 'classification-tabular-form-4040' },
         { number: '2.2', name: 'Representation in pictorial or diagrammatic form', slug: 'representation-pictorial-diagrammatic-4040' },
         { number: '2.3', name: 'The purpose and use of various forms of representation, their advantages and disadvantages', slug: 'purpose-use-representation-advantages-disadvantages-4040' },
         { number: '2.4', name: 'Interpretation of data presented in tabular, pictorial or diagrammatic form', slug: 'interpretation-data-tabular-pictorial-diagrammatic-4040' },
       ] },
-      { number: 3, name: 'Formation of data into ungrouped or grouped frequency distributions', slug: 'formation-of-data-into-frequency-distributions-4040', subtopics: [] },
-      { number: 4, name: 'Formation of frequency distributions into cumulative frequency distributions', slug: 'formation-of-cumulative-frequency-distributions-4040', subtopics: [] },
-      { number: 5, name: 'Statistical measures, their interpretation and appropriate use', slug: 'statistical-measures-interpretation-and-use-4040', subtopics: [] },
-      { number: 6, name: 'Transformations involving mean and standard deviation', slug: 'transformations-involving-mean-and-standard-deviation-4040', subtopics: [] },
+      { number: 3, name: 'Formation of data into ungrouped or grouped frequency distributions', slug: 'formation-of-data-into-frequency-distributions-4040', subtopics: [
+        { number: '3.1', name: 'Class measures for grouped frequency distributions', slug: 'class-measures-grouped-frequency-4040' },
+        { number: '3.2', name: 'Representation in frequency polygons and histograms', slug: 'frequency-polygons-and-histograms-4040' },
+      ] },
+      { number: 4, name: 'Formation of frequency distributions into cumulative frequency distributions', slug: 'formation-of-cumulative-frequency-distributions-4040', subtopics: [
+        { number: '4.1', name: 'Representation in tabular form', slug: 'cumulative-frequency-tabular-form-4040' },
+        { number: '4.2', name: 'Representation in graphical form', slug: 'cumulative-frequency-graphical-form-4040' },
+      ] },
+      { number: 5, name: 'Statistical measures, their interpretation and appropriate use', slug: 'statistical-measures-interpretation-and-use-4040', subtopics: [
+        { number: '5.1', name: 'Measures of central tendency: mean, median, mode and modal class', slug: 'measures-of-central-tendency-4040' },
+        { number: '5.2', name: 'Measures of dispersion: range, interquartile range, variance and standard deviation', slug: 'measures-of-dispersion-4040' },
+        { number: '5.3', name: 'Quartiles and percentiles', slug: 'quartiles-and-percentiles-4040' },
+        { number: '5.4', name: 'Measures for combined sets of data', slug: 'measures-for-combined-sets-of-data-4040' },
+      ] },
+      { number: 6, name: 'Transformations involving mean and standard deviation', slug: 'transformations-involving-mean-and-standard-deviation-4040', subtopics: [
+        { number: '6.1', name: 'Effect on mean and standard deviation of adding a constant to each observation and of multiplying each observation by a constant', slug: 'effect-of-adding-or-multiplying-by-a-constant-4040' },
+        { number: '6.2', name: 'Linear transformation of data to a given mean and standard deviation', slug: 'linear-transformation-to-given-mean-and-sd-4040' },
+      ] },
       { number: 7, name: 'Crude and standardised rates, and their appropriate use', slug: 'crude-and-standardised-rates-and-their-use-4040', subtopics: [] },
       { number: 8, name: 'Index numbers', slug: 'index-numbers-4040', subtopics: [] },
-      { number: 9, name: 'Bivariate distributions and their representation by scatter diagrams', slug: 'bivariate-distributions-and-scatter-diagrams-4040', subtopics: [] },
-      { number: 10, name: 'Time series', slug: 'time-series-4040', subtopics: [] },
+      { number: 9, name: 'Bivariate distributions and their representation by scatter diagrams', slug: 'bivariate-distributions-and-scatter-diagrams-4040', subtopics: [
+        { number: '9.1', name: 'Elementary ideas of correlation', slug: 'elementary-ideas-of-correlation-4040' },
+        { number: '9.2', name: 'Lines of best fit', slug: 'lines-of-best-fit-4040' },
+      ] },
+      { number: 10, name: 'Time series', slug: 'time-series-4040', subtopics: [
+        { number: '10.1', name: 'Understanding of trend', slug: 'understanding-of-trend-4040' },
+        { number: '10.2', name: 'Understanding of seasonal variation', slug: 'understanding-of-seasonal-variation-4040' },
+      ] },
       { number: 11, name: 'Elementary ideas of probability', slug: 'elementary-ideas-of-probability-4040', subtopics: [] },
-      { number: 12, name: 'Probability distributions', slug: 'probability-distributions-4040', subtopics: [] },
+      { number: 12, name: 'Probability distributions', slug: 'probability-distributions-4040', subtopics: [
+        { number: '12.1', name: 'Formation of the probability distribution of a discrete variable', slug: 'probability-distribution-of-a-discrete-variable-4040' },
+        { number: '12.2', name: 'Expectation', slug: 'expectation-4040' },
+      ] },
     ],
   },
   {
