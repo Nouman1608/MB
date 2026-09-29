@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "a-hubbles-law-and-the-big-bang-theory"
 description: "Standard candles and determining astronomical distance, calculating stellar radii, and Hubble's law and the Big Bang theory, for Cambridge International AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

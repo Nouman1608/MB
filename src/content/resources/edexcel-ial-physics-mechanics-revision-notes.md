@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "mechanics"
 description: "Condensed recall notes on kinematics, projectiles, Newton laws, momentum and energy for Edexcel International A Level Physics YPH11."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

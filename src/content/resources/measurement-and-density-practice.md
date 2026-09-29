@@ -21,6 +21,9 @@ syllabusTopics:
     subtopic: "density"
 description: "Original exam-style practice questions with full worked answers on measuring instruments, precision, density calculations and experimental method."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

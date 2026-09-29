@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "nuclear-decay"
 description: "Condensed recall notes on radioactive decay, half-life, decay constant, nuclear equations and radiation safety for Edexcel International A Level Physics YPH11 (Unit 5, WPH15)."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "momentum"
 description: "Condensed recall notes on momentum, impulse and conservation of momentum in collisions for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "forces"
 description: "Spring constant and load-extension graphs, the principle of moments, and centre of gravity and stability, for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
 ---

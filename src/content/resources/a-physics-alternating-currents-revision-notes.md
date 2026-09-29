@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "a-rectification-and-smoothing"
 description: "Condensed recall notes on r.m.s. values, peak values and rectification for Cambridge AS & A Level Physics 9702, plus a recap of prerequisite (IGCSE/O Level) transformer background."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

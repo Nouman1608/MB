@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "momentum"
 description: "Original exam-style practice questions with full worked answers on momentum, impulse, conservation, collisions and safety features."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

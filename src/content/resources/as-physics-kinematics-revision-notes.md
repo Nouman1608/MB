@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "as-equations-of-motion"
 description: "Condensed recall notes on the suvat equations, motion graphs and projectile motion for Cambridge International AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

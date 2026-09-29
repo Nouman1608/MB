@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "as-density-and-pressure"
 description: "Condensed recall notes on moments, equilibrium, centre of gravity, density, pressure and upthrust for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

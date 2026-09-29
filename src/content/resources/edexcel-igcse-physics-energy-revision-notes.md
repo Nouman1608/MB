@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "energy-resources-and-electricity-generation"
 description: "Condensed recall notes on energy stores, conservation, efficiency, thermal transfer and energy resources for Edexcel International GCSE Physics 4PH1."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "energy-work-and-power"
 description: "Condensed recall notes on energy stores, conservation, KE and GPE, work and power for Cambridge O Level Physics 5054 — every equation and the standard traps."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

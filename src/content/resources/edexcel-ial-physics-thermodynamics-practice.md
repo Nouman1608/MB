@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "thermodynamics-edexcel"
 description: "A mixed Unit 5 paper of original exam-style practice questions with full worked answers, covering sub-topic 5.3 thermodynamics (specific heat capacity, gas laws, internal energy) alongside sub-topic 5.6 astrophysics and cosmology (black body radiation, the H-R diagram and Hubble's law)."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

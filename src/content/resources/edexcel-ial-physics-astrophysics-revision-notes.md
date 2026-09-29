@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "astrophysics-and-cosmology"
 description: "Condensed recall notes on luminosity, Wien and Stefan laws, the HR diagram, stellar evolution and Hubble law for Edexcel International A Level Physics YPH11 (Unit 5, WPH15)."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

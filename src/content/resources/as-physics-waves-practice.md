@@ -28,6 +28,9 @@ syllabusTopics:
     subtopic: "as-polarisation"
 description: "Original exam-style practice questions with full worked answers on wave properties, the electromagnetic spectrum, polarisation and the Doppler effect for AS Physics."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false

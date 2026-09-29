@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "electric-circuits"
 description: "Current, potential difference, resistance, Ohm's law, resistivity, potential dividers, e.m.f. and internal resistance for sub-topic 2.4 of Pearson Edexcel International A Level Physics (YPH11), Unit 2."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

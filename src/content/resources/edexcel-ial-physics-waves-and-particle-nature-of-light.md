@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "waves-and-particle-nature-of-light"
 description: "Wave properties, standing waves, refraction, diffraction, the photoelectric effect and atomic line spectra for sub-topic 2.3 of Pearson Edexcel International A Level Physics (YPH11), Unit 2."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

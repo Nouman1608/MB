@@ -21,6 +21,9 @@ syllabusTopics:
     subtopic: "density"
 description: "Condensed recall notes on measuring length, volume and time, mass versus weight, and density for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

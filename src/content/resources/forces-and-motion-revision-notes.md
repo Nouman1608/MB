@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "forces"
 description: "Condensed recall notes on Newton\u2019s laws, F = ma, friction, terminal velocity and stopping distance for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

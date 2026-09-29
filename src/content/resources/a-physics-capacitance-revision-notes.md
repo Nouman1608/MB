@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "a-discharging-a-capacitor"
 description: "Condensed recall notes on capacitance, capacitors in series and parallel, energy stored and discharge curves for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

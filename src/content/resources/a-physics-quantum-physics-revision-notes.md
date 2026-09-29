@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "a-energy-levels-in-atoms-and-line-spectra"
 description: "Condensed recall notes on the photoelectric effect, photon energy, wave-particle duality and energy levels for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "energy-work-and-power"
 description: "Original exam-style practice questions with full worked answers on energy stores and transfers, work done, power, efficiency and conservation of energy."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

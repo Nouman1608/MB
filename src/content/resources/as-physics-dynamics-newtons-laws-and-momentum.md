@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "as-linear-momentum-and-its-conservation"
 description: "Newton's three laws of motion, linear momentum, terminal velocity, and the principle of conservation of momentum applied to elastic and inelastic collisions, for Cambridge International AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

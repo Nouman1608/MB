@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "waves-and-particle-nature-of-light"
 description: "Condensed recall notes on wave properties, refraction, polarisation, interference, the photoelectric effect and energy levels for Edexcel International A Level Physics YPH11."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "conservation-and-dissipation-of-energy"
 description: "Condensed recall notes on energy stores and transfers, conservation, efficiency, power and reducing unwanted transfers for AQA GCSE Physics 8463."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

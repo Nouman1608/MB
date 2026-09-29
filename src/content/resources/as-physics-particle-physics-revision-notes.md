@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "as-fundamental-particles"
 description: "Condensed recall notes on the standard model, quarks, leptons, fundamental forces and conservation rules for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

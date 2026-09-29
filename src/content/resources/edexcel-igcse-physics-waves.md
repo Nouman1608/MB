@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "light-and-sound"
 description: "Wave properties and the Doppler effect, the electromagnetic spectrum and its uses and hazards, and reflection, refraction and sound, for Pearson Edexcel International GCSE Physics 4PH1."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

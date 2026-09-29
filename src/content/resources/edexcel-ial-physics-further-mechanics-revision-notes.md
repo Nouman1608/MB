@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "further-mechanics"
 description: "Condensed recall notes on momentum in two dimensions, circular motion and centripetal force for Edexcel International A Level Physics YPH11 (Unit 4, WPH14)."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

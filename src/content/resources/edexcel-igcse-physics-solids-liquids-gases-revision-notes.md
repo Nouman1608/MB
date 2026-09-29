@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "ideal-gas-molecules"
 description: "Condensed recall notes on density, pressure, the gas laws, kinetic theory and specific heat capacity for Edexcel International GCSE Physics 4PH1."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

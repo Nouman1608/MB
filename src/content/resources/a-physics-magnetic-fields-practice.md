@@ -28,6 +28,9 @@ syllabusTopics:
     subtopic: "a-electromagnetic-induction"
 description: "Original exam-style practice questions with full worked answers on the motor effect, charged particles in fields, induction and Lenz law for A Level Physics."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false

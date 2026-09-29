@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "energy-work-and-power"
 description: "Renewable and non-renewable energy resources, electricity generation, and calculating efficiency, for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "nuclear-and-particle-physics"
 description: "Condensed recall notes on the standard model, particle accelerators, mass-energy equivalence and conservation rules for Edexcel International A Level Physics YPH11 (Unit 4, WPH14)."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

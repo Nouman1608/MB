@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "cosmology"
 description: "Condensed recall notes on the solar system, orbits, stellar life cycles, redshift and the Big Bang for Edexcel International GCSE Physics 4PH1."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

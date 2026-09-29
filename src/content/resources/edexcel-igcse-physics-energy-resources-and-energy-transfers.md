@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "energy-resources-and-electricity-generation"
 description: "Energy stores and transfers, conservation of energy and efficiency, work and power, and electricity generation from renewable and non-renewable resources, for Pearson Edexcel International GCSE Physics 4PH1."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

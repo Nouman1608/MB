@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "materials"
 description: "Density, upthrust, Stokes' law and viscosity, Hooke's law, the Young modulus and elastic strain energy for sub-topic 1.4 of Pearson Edexcel International A Level Physics (YPH11), Unit 1."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

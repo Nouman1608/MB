@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "forces"
 description: "Original exam-style practice questions with full worked answers on moments, the principle of moments, centre of gravity, stability and elastic deformation (spring constant, load-extension graphs)."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

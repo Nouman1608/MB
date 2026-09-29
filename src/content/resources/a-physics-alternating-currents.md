@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "a-rectification-and-smoothing"
 description: "Characteristics of alternating currents and voltages, root-mean-square values and power, and rectification and smoothing, for Cambridge International AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

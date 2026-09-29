@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "a-discharging-a-capacitor"
 description: "Original exam-style practice questions with full worked answers on capacitance, energy stored, combinations and exponential discharge for A Level Physics."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

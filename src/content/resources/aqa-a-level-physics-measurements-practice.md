@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "limitation-of-physical-measurements"
 description: "Original exam-style practice questions with full worked answers on uncertainty, errors, precision and graphical analysis for AQA A Level Physics 7408."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "energy-changes-in-a-system"
 description: "Energy stores, kinetic and elastic potential and gravitational potential energy, specific heat capacity, and power, for sub-topic 4.1.1 of AQA GCSE Physics (8463)."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-19
 updatedDate: 2026-08-19
 featured: false

@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "a-hubbles-law-and-the-big-bang-theory"
 description: "Original exam-style practice questions with full worked answers on luminosity, Wien and Stefan laws, redshift and Hubble law for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

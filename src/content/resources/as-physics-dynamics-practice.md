@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "as-linear-momentum-and-its-conservation"
 description: "Original exam-style practice questions with full worked answers on Newton laws, momentum, impulse and collisions for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

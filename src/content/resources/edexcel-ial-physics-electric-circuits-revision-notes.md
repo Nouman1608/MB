@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "electric-circuits"
 description: "Condensed recall notes on current, resistance, Kirchhoff laws, internal resistance, potential dividers and I-V characteristics for Edexcel International A Level Physics YPH11."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

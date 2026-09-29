@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "as-the-diffraction-grating"
 description: "Original exam-style practice questions with full worked answers on interference, diffraction gratings and stationary waves for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

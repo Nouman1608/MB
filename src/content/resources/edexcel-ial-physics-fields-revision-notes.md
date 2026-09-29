@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "electric-and-magnetic-fields"
 description: "Condensed recall notes on electric fields, capacitance, magnetic flux density and electromagnetic induction for Edexcel International A Level Physics YPH11 (Unit 4, WPH14)."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

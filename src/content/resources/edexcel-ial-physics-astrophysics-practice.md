@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "astrophysics-and-cosmology"
 description: "Original exam-style practice questions with full worked answers on luminosity, the HR diagram, stellar evolution and Hubble law for Edexcel IAL Physics."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

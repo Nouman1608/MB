@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "as-scalars-and-vectors"
 description: "Condensed recall notes on SI units, homogeneity, scalars and vectors, uncertainty and errors for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

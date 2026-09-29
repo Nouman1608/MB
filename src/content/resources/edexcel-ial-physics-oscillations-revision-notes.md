@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "oscillations-edexcel"
 description: "Condensed recall notes on simple harmonic motion, energy in SHM, damping and resonance for Edexcel International A Level Physics YPH11 (Unit 5, WPH15)."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

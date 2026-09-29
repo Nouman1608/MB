@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "a-specific-heat-capacity-and-specific-latent-heat"
 description: "Original exam-style practice questions with full worked answers on thermal equilibrium, temperature scales and thermometers for A Level Physics."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "electric-circuits"
 description: "Original exam-style practice questions with full worked answers on drift velocity, resistivity, internal resistance and potential dividers for Edexcel IAL Physics."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "astrophysics-and-cosmology"
 description: "Gravitational fields, black body radiation, astronomical distance measurement, the Hertzsprung-Russell diagram, redshift and the Hubble constant for sub-topic 5.6 of Pearson Edexcel International A Level Physics (YPH11), Unit 5."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

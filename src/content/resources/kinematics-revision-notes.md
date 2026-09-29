@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "motion"
 description: "Condensed recall notes on speed, velocity, acceleration and motion graphs for Cambridge O Level Physics 5054 — definitions, equations and graph rules."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

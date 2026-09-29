@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "forces"
 description: "Condensed recall notes on Hooke\u2019s law, the principle of moments, centre of gravity and stability for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

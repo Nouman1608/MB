@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "as-gravitational-potential-energy-and-kinetic-energy"
 description: "Condensed recall notes on work done, kinetic and potential energy, conservation, power and efficiency for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

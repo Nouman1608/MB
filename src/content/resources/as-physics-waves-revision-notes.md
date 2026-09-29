@@ -28,6 +28,9 @@ syllabusTopics:
     subtopic: "as-polarisation"
 description: "Condensed recall notes on wave properties, the wave equation, the electromagnetic spectrum, polarisation and the Doppler effect for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false

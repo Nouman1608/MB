@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "motion"
 description: "Original exam-style practice questions with full worked answers on speed, acceleration, motion graphs and the area under a speed-time graph."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

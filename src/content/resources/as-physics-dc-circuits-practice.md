@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "as-potential-dividers"
 description: "Original exam-style practice questions with full worked answers on Kirchhoff laws, internal resistance and potential dividers for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false

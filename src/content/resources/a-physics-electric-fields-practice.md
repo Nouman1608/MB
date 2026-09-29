@@ -28,6 +28,9 @@ syllabusTopics:
     subtopic: "a-electric-potential"
 description: "Original exam-style practice questions with full worked answers on Coulomb law, field strength, potential and charged particle motion for A Level Physics."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "cosmology"
 description: "Original exam-style practice questions with full worked answers on the solar system, orbits, stellar life cycles, red shift and the Big Bang."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

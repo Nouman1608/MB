@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "forces"
 description: "Original exam-style practice questions with full worked answers on Newton's laws, resultant forces, friction, weight and free-body diagrams."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

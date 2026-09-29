@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "further-mechanics"
 description: "Original exam-style practice questions with full worked answers on momentum in two dimensions, circular motion and vertical circles for Edexcel IAL Physics."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

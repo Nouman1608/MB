@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "forces-movement-shape-and-momentum"
 description: "Distance-time and velocity-time graphs, the equations of motion, and forces including Hooke's law and momentum, for Pearson Edexcel International GCSE Physics 4PH1."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

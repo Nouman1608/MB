@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "as-density-and-pressure"
 description: "Original exam-style practice questions with full worked answers on moments, equilibrium, upthrust and pressure for AS Physics."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

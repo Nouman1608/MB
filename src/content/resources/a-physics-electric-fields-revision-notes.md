@@ -28,6 +28,9 @@ syllabusTopics:
     subtopic: "a-electric-potential"
 description: "Condensed recall notes on Coulomb\u2019s law, field strength, potential and the comparison with gravitational fields for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false

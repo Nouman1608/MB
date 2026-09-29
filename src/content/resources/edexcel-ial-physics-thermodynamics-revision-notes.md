@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "thermodynamics-edexcel"
 description: "Condensed recall notes on internal energy, specific heat capacity, latent heat, the gas laws and kinetic theory for Edexcel International A Level Physics YPH11 (Unit 5, WPH15)."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

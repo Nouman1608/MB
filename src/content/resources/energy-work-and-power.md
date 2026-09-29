@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "energy-work-and-power"
 description: "Energy stores and transfers, the conservation of energy, kinetic and gravitational potential energy, work done and power, for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
 ---

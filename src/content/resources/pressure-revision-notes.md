@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "pressure"
 description: "Condensed recall notes on pressure as force per unit area, atmospheric pressure, barometers and pressure in liquids for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

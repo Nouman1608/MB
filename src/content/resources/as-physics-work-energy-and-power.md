@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "as-gravitational-potential-energy-and-kinetic-energy"
 description: "Work done, conservation of energy, efficiency, power, and deriving the formulas for gravitational potential energy and kinetic energy, for Cambridge International AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

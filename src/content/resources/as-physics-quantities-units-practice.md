@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "as-scalars-and-vectors"
 description: "Original exam-style practice questions with full worked answers on SI units, homogeneity, vectors and uncertainty for AS Physics."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

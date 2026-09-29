@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "a-radioactive-decay"
 description: "Original exam-style practice questions with full worked answers on binding energy, mass defect, radioactive decay and fission for A Level Physics."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

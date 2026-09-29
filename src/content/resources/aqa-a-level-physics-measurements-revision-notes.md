@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "limitation-of-physical-measurements"
 description: "Condensed recall notes on SI units, uncertainty, accuracy and precision, error types and graphical analysis for AQA A Level Physics 7408."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

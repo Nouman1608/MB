@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "as-gravitational-potential-energy-and-kinetic-energy"
 description: "Original exam-style practice questions with full worked answers on work done, energy conservation, power and efficiency for AS Physics."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

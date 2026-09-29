@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "nuclear-decay"
 description: "Original exam-style practice questions with full worked answers on radioactive decay equations, radiation types, half-life, activity, dating, safety, mass deficit and binding energy per nucleon."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

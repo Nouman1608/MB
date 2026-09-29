@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "ideal-gas-molecules"
 description: "Original exam-style practice questions with full worked answers on density, pressure, the gas laws and specific heat capacity for Edexcel IGCSE Physics 4PH1."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false

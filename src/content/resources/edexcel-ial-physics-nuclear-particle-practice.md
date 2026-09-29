@@ -15,6 +15,9 @@ syllabusTopics:
     subtopic: "nuclear-and-particle-physics"
 description: "Original exam-style practice questions with full worked answers on atomic structure, thermionic emission, particle accelerators and detectors, relativistic lifetimes, MeV and GeV units, quarks and conservation laws, for Unit 4 sub-topic 4.5."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

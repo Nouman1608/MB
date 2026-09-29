@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "a-the-first-law-of-thermodynamics"
 description: "Condensed recall notes on internal energy, the first law, specific heat capacity and latent heat for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---
