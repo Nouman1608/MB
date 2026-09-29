@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-language-b-identities"
 description: "Condensed revision notes on the compulsory Identities theme of IB Diploma Programme Language B -- vocabulary, discussion angles and receptive-skills preparation for one of the five prescribed themes."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

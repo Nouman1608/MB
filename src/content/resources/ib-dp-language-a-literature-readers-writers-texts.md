@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-readers-writers-texts"
 description: "Close literary analysis of narrative voice, form and craft, and how a writer's choices shape what a reader constructs from a text -- one of three equally-weighted areas of exploration of IB Diploma Programme Language A: Literature, first assessment 2021."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

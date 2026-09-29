@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "ib-dp-language-b-social-organization"
 description: "Revision notes for IB DP Language B Social organization: the six topics, rule and obligation language, formal register, key distinctions and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

@@ -19,6 +19,9 @@ syllabusTopics:
     topic: "ib-dp-language-b-sharing-the-planet"
 description: "Condensed IB DP Language B HL revision notes on literary works: key terms, the extract method, theme links and a quick self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-intertextuality"
 description: "Original practice questions with full worked answers on building genuine comparative analysis, naming intertextual relationships, and preparing for Paper 2's comparative essay in IB Diploma Programme Language A: Literature."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

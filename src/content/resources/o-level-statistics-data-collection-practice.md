@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "data-and-its-collection-4040"
 description: "Original exam-style practice questions with full worked answers on data types, sampling and census methods for Cambridge O Level Statistics 4040."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 ---

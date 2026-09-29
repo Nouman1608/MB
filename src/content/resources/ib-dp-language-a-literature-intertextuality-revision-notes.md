@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-intertextuality"
 description: "Condensed revision notes on IB Diploma Programme Language A: Literature's Intertextuality component -- how works of literature echo, respond to or subvert each other -- with a worked comparison approach and self-test questions."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

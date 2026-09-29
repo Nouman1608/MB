@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-eassessment-structure"
 description: "Task-by-task exam preparation for IB Middle Years Programme Language Acquisition's two eAssessment components -- the on-screen listening/reading/writing paper and the separately assessed speaking examination -- with a proficiency-level checklist."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "summary-representation-of-data-4040"
 description: "Condensed recall notes on tabular and pictorial representation, their advantages and disadvantages, and interpreting displayed data for Cambridge O Level Statistics (4040), 2025-2027 series."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

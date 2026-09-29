@@ -11,6 +11,9 @@ syllabusSeries: "2025-2027"
 order: 3
 description: "Preparing for the two identical 2h15 papers of Cambridge O Level Statistics 4040 -- the short-question and long-question split, calculator discipline, why the qualification cannot be resat by component, and a worked method-marks routine."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 ---

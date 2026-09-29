@@ -17,6 +17,9 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-time-space"
 description: "Condensed IB DP Literature Paper 2 revision notes: timing, thesis checks, paragraph moves, quotation-bank rules and a quick self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

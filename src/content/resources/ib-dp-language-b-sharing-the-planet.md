@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-language-b-sharing-the-planet"
 description: "Environment, human rights, peace and conflict, equality, globalization, ethics, and urban/rural environments -- one of the five compulsory themes of IB Diploma Programme Language B, first assessment 2020, examined through unseen material on Paper 2."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

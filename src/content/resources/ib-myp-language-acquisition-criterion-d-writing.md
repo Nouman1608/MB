@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-assessment-criteria"
 description: "IB MYP Language Acquisition study guide to criterion D writing: decoding the task, planning, cohesion, register, accuracy and range, with a model."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 ---

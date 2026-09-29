@@ -16,6 +16,9 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-assessment-criteria"
 description: "The emergent/capable/proficient proficiency levels used for eAssessment reporting, the six phases used for day-to-day teaching, and the four independently-weighted assessment criteria -- listening, reading, speaking, writing -- for IB Middle Years Programme Language Acquisition, from 2020."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

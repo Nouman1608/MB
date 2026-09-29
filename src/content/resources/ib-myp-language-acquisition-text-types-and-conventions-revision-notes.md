@@ -17,6 +17,9 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-assessment-criteria"
 description: "Condensed IB MYP Language Acquisition revision notes on text-type conventions and register, with a layout table, quick self-test and common slips."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 ---

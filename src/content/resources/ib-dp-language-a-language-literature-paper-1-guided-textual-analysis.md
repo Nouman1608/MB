@@ -17,6 +17,9 @@ syllabusTopics:
     topic: "ib-dp-language-a-language-and-literature-time-and-space"
 description: "Step-by-step study guide to IB DP Language and Literature Paper 1: read an unseen non-literary text, plan, structure and time your analysis."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

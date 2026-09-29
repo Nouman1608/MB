@@ -16,6 +16,9 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-assessment-criteria"
 description: "Condensed revision notes on IB MYP Language Acquisition's emergent/capable/proficient reporting levels, the six phases used for teaching, and its four independently-weighted assessment criteria -- listening, reading, speaking, writing."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

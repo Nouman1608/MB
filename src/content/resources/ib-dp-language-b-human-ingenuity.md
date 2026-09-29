@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "ib-dp-language-b-human-ingenuity"
 description: "Study guide to the Human ingenuity theme in IB DP Language B: its five recommended topics, two possible questions and worked examples for every component."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

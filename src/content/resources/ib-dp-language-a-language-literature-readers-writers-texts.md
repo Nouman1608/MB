@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-language-a-language-and-literature-readers-writers-and-texts"
 description: "How a writer's choices of language, form and structure shape meaning across literary and non-literary texts, and how a reader actively constructs interpretation -- one of three equally-weighted areas of exploration of IB Diploma Programme Language A: Language and Literature, first assessment 2021."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

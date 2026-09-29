@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "representation-of-data-0479"
 description: "Condensed recall notes on frequency tables, bar charts, pie charts, Venn diagrams and stem-and-leaf diagrams for Topic 2 of Cambridge IGCSE Statistics (0479), examination 2027."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

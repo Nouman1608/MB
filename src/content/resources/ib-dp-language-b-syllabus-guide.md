@@ -11,6 +11,9 @@ syllabusSeries: "First assessment 2020"
 order: 2
 description: "The five prescribed themes of IB Diploma Programme Language B -- identities, experiences, human ingenuity, social organization, sharing the planet -- with their guiding principles and recommended topics, for first assessment 2020."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

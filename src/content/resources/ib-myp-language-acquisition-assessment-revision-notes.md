@@ -9,6 +9,9 @@ syllabusCodes: ["MYP Language Acquisition"]
 order: 1
 description: "Condensed recall notes on the four assessment criteria, proficiency phases and eAssessment structure for IB Middle Years Programme Language Acquisition."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 ---

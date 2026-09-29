@@ -17,6 +17,9 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-assessment-criteria"
 description: "Original IB MYP Language Acquisition practice on multimodal texts: poster and video stimuli, Criteria A-D tasks and fully worked model answers."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-assessment-criteria"
 description: "IB MYP Language Acquisition study guide to Criterion B reading: main ideas, details, conventions, visuals, purpose and perspective, with original texts."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 ---

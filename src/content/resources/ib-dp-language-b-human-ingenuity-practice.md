@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "ib-dp-language-b-human-ingenuity"
 description: "Original practice questions on Human ingenuity for IB DP Language B: two new passages, an oral image task and a speech plan, with worked answers."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

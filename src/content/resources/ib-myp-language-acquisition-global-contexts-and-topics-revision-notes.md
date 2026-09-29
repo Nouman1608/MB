@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-global-contexts"
 description: "Condensed IB MYP Language Acquisition notes on the six global contexts, five-layer word banks and reusing topic words in all four skills, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 ---

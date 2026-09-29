@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "data-and-its-collection-4040"
 description: "Sampling, survey design and data classification -- the opening topic of Cambridge O Level Statistics (4040), a twelve-topic syllabus closely mirroring sibling IGCSE Statistics 0479."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

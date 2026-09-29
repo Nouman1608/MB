@@ -11,6 +11,9 @@ syllabusSeries: "From 2020"
 order: 2
 description: "The four assessment criteria of IB Middle Years Programme Language Acquisition -- listening, reading, speaking, writing -- and its emergent/capable/proficient assessment levels, for the from-2020 framework."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

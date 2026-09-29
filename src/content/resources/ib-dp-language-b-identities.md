@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-language-b-identities"
 description: "The nature of the self and what it means to be human -- lifestyles, health and well-being, beliefs, subcultures, and language and identity -- one of five compulsory themes of IB Diploma Programme Language B, first assessment 2020, examined through unseen material on Paper 2."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

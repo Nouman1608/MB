@@ -17,6 +17,9 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-related-concepts"
 description: "Original IB MYP Language Acquisition practice questions on key concepts, word choice, conventions, idiom and statements of inquiry, with model answers."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 ---

@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "ib-dp-language-a-language-and-literature-time-and-space"
 description: "Original IB DP Lang and Lit practice on representation, bias and power: news reports, Wollstonecraft and a company memo, with model answers and plans."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

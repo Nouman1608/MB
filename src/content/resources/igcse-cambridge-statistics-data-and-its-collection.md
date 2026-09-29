@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "data-and-its-collection-0479"
 description: "Sampling methods, survey design and classifying data -- the opening topic of Cambridge IGCSE Statistics (0479), a twelve-topic syllabus assessed across two compulsory papers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 ---

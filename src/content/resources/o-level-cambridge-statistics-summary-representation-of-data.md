@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "summary-representation-of-data-4040"
 description: "Classification and tabulation, pictorial and diagrammatic representation, and interpretation of data -- the second of twelve topics in Cambridge O Level Statistics (4040), 2025-2027 series."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "formation-of-data-into-frequency-distributions-4040"
 description: "Class limits, boundaries, midpoints and intervals, plus frequency polygons and histograms -- Topic 3 of Cambridge O Level Statistics (4040), distinct from the site's existing guides to Data and Its Collection and Summary Representation of Data."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 ---

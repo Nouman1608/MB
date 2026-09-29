@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-language-b-sharing-the-planet"
 description: "Condensed revision notes on IB Diploma Programme Language B's Sharing the planet theme -- environment, human rights, peace and conflict, equality, globalization, ethics, urban and rural environments -- with vocabulary-building and comprehension-practice guidance."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 ---

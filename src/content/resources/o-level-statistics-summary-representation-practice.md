@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "summary-representation-of-data-4040"
 description: "Original exam-style practice questions with full worked answers on tabulation, chart selection and interpretation of data for Cambridge O Level Statistics Topic 2 (4040)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

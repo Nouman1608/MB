@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-readers-writers-texts"
 description: "Condensed revision notes on the Readers, Writers and Texts area of exploration of IB Diploma Programme Language A: Literature -- close literary analysis of narrative voice, form and craft."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 ---

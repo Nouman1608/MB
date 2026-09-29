@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "ib-dp-language-b-social-organization"
 description: "Original IB DP Language B practice on Social organization: three passages, reading and listening questions, a formal writing task and an oral plan."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

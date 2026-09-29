@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "frequency-distributions-0479"
 description: "Condensed recall notes on grouped and ungrouped frequency distributions, class boundaries and widths, histograms, frequency polygons and cumulative frequency, for Topic 3 of Cambridge IGCSE Statistics (0479), examination 2027."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

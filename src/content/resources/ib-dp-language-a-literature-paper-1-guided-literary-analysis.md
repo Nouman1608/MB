@@ -17,6 +17,9 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-time-space"
 description: "Study guide to IB DP Literature Paper 1: annotate an unseen poem or prose passage, plan, structure and time a guided literary analysis."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---

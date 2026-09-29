@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "ib-dp-language-b-identities"
 description: "Original comprehension-style practice questions with full worked answers on the Identities theme, plus a Paper 1 writing-task planning exercise, for IB Diploma Programme Language B."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 ---

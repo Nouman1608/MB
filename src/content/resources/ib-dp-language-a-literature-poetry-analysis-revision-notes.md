@@ -15,6 +15,9 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-readers-writers-texts"
 description: "Condensed revision notes on poetry terms, scansion, rhyme and paragraph method for IB DP Language A: Literature, with a quick self-test and answers."
 author: "marlbridge-academic-team"
+reviewer: "lubna-waseem"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 ---
