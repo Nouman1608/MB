@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "as-isomerism"
 description: "Original exam-style practice questions with full worked answers on nomenclature, formulae, isomerism and reaction mechanisms terminology."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

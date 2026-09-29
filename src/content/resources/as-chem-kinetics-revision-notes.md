@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "as-homogeneous-and-heterogeneous-catalysts"
 description: "Condensed recall notes on collision theory, activation energy, the Boltzmann distribution and catalysis for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

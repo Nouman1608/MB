@@ -13,6 +13,9 @@ syllabusTopics:
     topic: "topic-c1-particles-j248"
 description: "Condensed recall notes covering both C1.2 Atomic structure (assessed on Papers 1 and 3) and C4.1 Predicting chemical reactions -- periodic table development and Group 1/7/0 properties (assessed on Papers 2 and 4) -- for GCSE Chemistry."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

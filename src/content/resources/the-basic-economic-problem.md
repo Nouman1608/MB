@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "production-possibility-curve-ppc-diagrams"
 description: "Finite resources and unlimited wants, economic and free goods, the factors of production, opportunity cost, and production possibility curve (PPC) diagrams, for Cambridge O Level Economics 2281."
 author: "salman-ahmad"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
 ---

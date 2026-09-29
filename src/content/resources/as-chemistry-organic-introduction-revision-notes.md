@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "as-isomerism"
 description: "Condensed recall notes on nomenclature, formulae, isomerism, bond fission and mechanism types for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

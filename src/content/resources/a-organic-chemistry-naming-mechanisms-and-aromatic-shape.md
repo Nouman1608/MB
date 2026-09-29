@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "a-shapes-of-aromatic-organic-molecules"
 description: "New A Level functional groups and naming, electrophilic substitution and addition-elimination terminology, and the shape of benzene, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

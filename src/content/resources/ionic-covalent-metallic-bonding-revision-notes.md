@@ -36,6 +36,9 @@ syllabusTopics:
     subtopic: "metallic-bonding"
 description: "Condensed recall notes on ionic, covalent, giant covalent and metallic bonding for Cambridge IGCSE 0620 and O Level 5070 — structure-to-property tables and exam traps."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

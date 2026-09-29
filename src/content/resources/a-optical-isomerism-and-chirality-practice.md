@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "a-isomerism"
 description: "Original exam-style practice questions with full worked answers on chiral centres, enantiomers, racemic mixtures and the relevance of chirality to drug synthesis for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

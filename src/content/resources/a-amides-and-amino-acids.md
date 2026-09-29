@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "a-amino-acids"
 description: "Producing and hydrolysing amides, why amides are weaker bases than amines, and amino acid acid-base properties, zwitterions and electrophoresis, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

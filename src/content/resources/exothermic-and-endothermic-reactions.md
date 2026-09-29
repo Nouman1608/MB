@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "exothermic-and-endothermic-reactions"
 description: "Exothermic and endothermic reactions, reaction pathway diagrams, activation energy, and calculating enthalpy change from bond energies, for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
 ---

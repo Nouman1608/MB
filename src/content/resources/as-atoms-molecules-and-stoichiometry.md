@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "as-reacting-masses-and-volumes-of-solutions-and-gases"
 description: "Ionic formulae from Roman-numeral oxidation numbers, ionic equations, and stoichiometric calculations including limiting reagent and percentage yield, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

@@ -30,6 +30,9 @@ syllabusTopics:
     subtopic: "isotopes"
 description: "Original exam-style practice questions with full worked answers on elements/compounds/mixtures, subatomic particles, electronic configuration and isotopes."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

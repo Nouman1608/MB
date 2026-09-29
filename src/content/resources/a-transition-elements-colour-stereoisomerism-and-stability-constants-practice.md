@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "a-stability-constants-kstab"
 description: "Original exam-style practice questions with full worked answers on d-orbital splitting and colour, cis/trans and optical isomerism in complexes, and stability constant (Kstab) calculations for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

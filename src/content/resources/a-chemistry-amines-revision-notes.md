@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "a-phenylamine-and-azo-compounds"
 description: "Condensed recall notes on amine basicity, preparation, reactions and the comparison of aliphatic and aromatic amines for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

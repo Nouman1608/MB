@@ -13,6 +13,9 @@ syllabusTopics:
     topic: "quantitative-chemistry-9202"
 description: "Condensed recall notes on relative masses, the mole, formulae, reacting masses, concentration and titrations for International GCSE Chemistry."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

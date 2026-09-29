@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "as-nitriles-and-hydroxynitriles"
 description: "Condensed recall notes on primary amine preparation, nitriles and hydroxynitriles for Cambridge AS & A Level Chemistry 9701, with amine basicity and further amine routes labelled as A Level extension."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false

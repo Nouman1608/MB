@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "redox"
 description: "Condensed recall notes on oxidation and reduction by oxygen, electrons and oxidation number for Cambridge IGCSE 0620 and O Level 5070, with the standard tests."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

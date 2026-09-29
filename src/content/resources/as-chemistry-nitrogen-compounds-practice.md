@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "as-nitriles-and-hydroxynitriles"
 description: "Original exam-style practice questions with full worked answers on primary amine preparation, nitriles and hydroxynitriles for AS Chemistry, with clearly labelled A Level extension questions on amine basicity and further amine routes."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

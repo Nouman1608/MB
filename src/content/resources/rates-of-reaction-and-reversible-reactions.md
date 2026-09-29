@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "reversible-reactions-and-equilibrium"
 description: "Collision theory, the factors that change reaction rate, reversible reactions, equilibrium, and the Haber and Contact processes, for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

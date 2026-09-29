@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "as-ionisation-energy"
 description: "Original exam-style practice questions with full worked answers on ionisation energy trends, sub-shells and electron configurations for AS Chemistry."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false

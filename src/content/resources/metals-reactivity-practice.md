@@ -30,6 +30,9 @@ syllabusTopics:
     subtopic: "corrosion-of-metals"
 description: "Original exam-style practice questions with full worked answers on the reactivity series, extraction, displacement, rusting and alloys."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false

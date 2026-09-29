@@ -13,6 +13,9 @@ syllabusTopics:
     topic: "quantitative-chemistry-9202"
 description: "Original exam-style practice questions with full worked answers on moles, formula mass, reacting masses and concentration."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "as-reacting-masses-and-volumes-of-solutions-and-gases"
 description: "Condensed recall notes on mole calculations, limiting reagents, percentage yield and gas volumes for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false

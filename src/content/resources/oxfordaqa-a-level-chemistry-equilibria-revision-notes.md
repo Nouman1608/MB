@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "oxfordaqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc"
 description: "Condensed recall notes on dynamic equilibrium, Kc, Le Chatelier principle and industrial compromise for International A Level Chemistry (with the International A2 Kp extension, assessed in Unit 4, flagged separately)."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

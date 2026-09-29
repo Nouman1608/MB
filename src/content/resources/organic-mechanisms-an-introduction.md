@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "as-isomerism"
 description: "The naming conventions, mechanism vocabulary and isomerism you need before studying any specific organic reaction, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

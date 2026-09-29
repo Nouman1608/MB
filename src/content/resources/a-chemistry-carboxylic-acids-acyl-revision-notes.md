@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "a-acyl-chlorides"
 description: "Condensed recall notes on carboxylic acid reactions, acidity, acyl chlorides and their derivatives for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

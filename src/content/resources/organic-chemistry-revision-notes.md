@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "naming-organic-compounds"
 description: "Condensed recall notes on homologous series, functional groups, isomerism and naming organic compounds for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false

@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "as-dot-and-cross-diagrams"
 description: "Condensed recall notes on covalent and coordinate bonding, expanded octets, bond energy, dot-and-cross diagrams, VSEPR shapes, bond angles, polarity and van der Waals' forces (id-id, pd-pd and hydrogen bonding) for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

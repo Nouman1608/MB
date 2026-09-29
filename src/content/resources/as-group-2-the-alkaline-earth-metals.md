@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "as-similarities-and-trends-in-the-properties-of-the-group-2-metals-and-their-compounds"
 description: "Reactions of the Group 2 metals and their oxides, hydroxides, carbonates and nitrates, and the solubility and thermal-stability trends down the group, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

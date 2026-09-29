@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "as-organic-synthesis"
 description: "Condensed recall notes on the AS reaction map, functional group interconversions and planning multi-step synthesis for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

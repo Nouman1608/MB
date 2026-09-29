@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "reversible-reactions-and-equilibrium"
 description: "Original exam-style practice questions with full worked answers on rate factors, collision theory, catalysts and equilibrium for IGCSE Chemistry."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false

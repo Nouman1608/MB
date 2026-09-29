@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "exothermic-and-endothermic-reactions"
 description: "Original exam-style practice questions with full worked answers on energy profiles, bond energies and enthalpy calculations, plus two calorimetry questions labelled as background beyond 0620/5070 for progression to AS."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false

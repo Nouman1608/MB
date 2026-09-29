@@ -13,6 +13,9 @@ syllabusTopics:
     topic: "topic-c1-particles-j248"
 description: "Original exam-style practice questions with full worked answers spanning C1.2 Atomic structure (Papers 1 and 3) and C4.1 group trends and the periodic table (Papers 2 and 4) for GCSE Chemistry."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false

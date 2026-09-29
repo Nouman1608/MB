@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "a-phenol"
 description: "Original exam-style practice questions with full worked answers on phenol's production, reactions and acidity, and the alcohol/acyl chloride reaction, for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-29
 featured: false
 ---

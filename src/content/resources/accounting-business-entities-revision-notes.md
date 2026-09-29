@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "the-accounting-system"
 description: "Condensed recall notes on business structures, the accounting system, financial statements and partnership accounts."
 author: "javaid-iqbal-sabri"
+reviewer: "zain-ud-din-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

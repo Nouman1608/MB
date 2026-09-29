@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "as-esters"
 description: "Condensed recall notes on carboxylic acid preparation and reactions, esterification, hydrolysis and uses of esters for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

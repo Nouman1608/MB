@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "physical-and-chemical-changes"
 description: "Original exam-style practice questions with full worked answers on identifying and justifying physical vs chemical changes for IGCSE Chemistry."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 updatedDate: 2026-09-27
 featured: false

@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "as-the-reactions-of-chlorine"
 description: "Physical and chemical trends down Group 17, halide-ion reducing power, the silver nitrate and concentrated sulfuric acid tests, and chlorine's disproportionation reactions, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

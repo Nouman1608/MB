@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "as-isotopes"
 description: "Original exam-style practice questions with full worked answers on subatomic particles, deflection in an electric field, atomic/ionic radius trends and isotopes for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

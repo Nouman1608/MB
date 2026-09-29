@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "a-similarities-and-trends-in-the-properties-of-the-group-2-metals-and-their-compounds"
 description: "Explaining the thermal stability of Group 2 nitrates and carbonates, and the solubility trends of their hydroxides and sulfates, using lattice energy and hydration enthalpy, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

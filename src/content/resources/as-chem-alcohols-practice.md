@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "as-alcohols"
 description: "Original exam-style practice questions with full worked answers on alcohol classification, oxidation, dehydration, the iodoform test and the preparation of alcohols by reduction and ester hydrolysis for AS Chemistry."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "carboxylic-acids"
 description: "Original exam-style practice questions with full worked answers on manufacturing ethanol, ethanoic acid reactions and esterification for IGCSE Chemistry."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 ---

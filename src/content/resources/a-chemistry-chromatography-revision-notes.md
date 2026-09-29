@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "a-gas-liquid-chromatography"
 description: "Condensed recall notes on TLC, gas-liquid chromatography, Rf values and retention time for Cambridge A Level Chemistry 9701, plus GC-MS as enrichment beyond the syllabus."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "as-similarities-and-trends-in-the-properties-of-the-group-2-metals-and-their-compounds"
 description: "Condensed recall notes on Group 2 reactions, thermal stability and solubility trends for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

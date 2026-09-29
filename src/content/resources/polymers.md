@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "polymers"
 description: "Addition and condensation polymerisation, nylon and PET, proteins as natural polyamides, and the environmental impact of plastics, for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
 ---

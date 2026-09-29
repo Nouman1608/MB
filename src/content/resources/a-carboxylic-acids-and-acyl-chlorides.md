@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "a-acyl-chlorides"
 description: "Producing benzoic acid, relative acidity of carboxylic acids and phenols, and the reactions and addition-elimination mechanism of acyl chlorides, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

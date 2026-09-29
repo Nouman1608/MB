@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "as-bonding-and-structure"
 description: "The ideal gas equation pV = nRT, and the four types of giant/molecular lattice structure and how they determine physical properties, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

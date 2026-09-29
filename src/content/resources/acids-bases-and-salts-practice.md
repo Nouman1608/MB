@@ -30,6 +30,9 @@ syllabusTopics:
     subtopic: "preparation-of-salts"
 description: "Original exam-style practice questions with full worked answers on acids, bases, salt preparation and titrations for IGCSE Chemistry."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

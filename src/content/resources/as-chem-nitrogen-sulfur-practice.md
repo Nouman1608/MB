@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "as-nitrogen-and-sulfur"
 description: "Original exam-style practice questions with full worked answers on ammonia, nitrogen oxides, acid rain and the Contact process for AS Chemistry."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

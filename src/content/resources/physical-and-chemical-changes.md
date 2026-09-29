@@ -18,6 +18,9 @@ syllabusTopics:
     subtopic: "physical-and-chemical-changes"
 description: "How to identify and distinguish physical changes from chemical changes, with the evidence examiners actually accept, for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-29
 featured: false
 ---

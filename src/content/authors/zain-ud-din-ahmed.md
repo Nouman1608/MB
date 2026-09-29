@@ -13,6 +13,6 @@ yearsExperience: 12
 previousSchools: ["LGS", "LACAS", "Beaconhouse", "FWS"]
 sourceUrl: "https://learnersacademy.com.pk/teachers/"
 verifiedOn: 2026-08-18
-isReviewer: false
+isReviewer: true
 publicationState: published
 ---

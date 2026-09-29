@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "oxfordaqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc"
 description: "Dynamic equilibrium, Le Chatelier's principle, and writing and using the equilibrium constant Kc, for OxfordAQA International AS and A-level Chemistry 9620, assessed in Unit 2."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
 ---

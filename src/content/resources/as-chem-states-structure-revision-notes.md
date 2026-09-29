@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "as-bonding-and-structure"
 description: "Condensed recall notes on the ideal gas equation, real gas deviations and the four lattice structures for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

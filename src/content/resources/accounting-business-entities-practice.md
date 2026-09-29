@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "the-accounting-system"
 description: "Original exam-style practice questions with full worked answers on sole traders, partnerships, limited companies and books of prime entry."
 author: "javaid-iqbal-sabri"
+reviewer: "zain-ud-din-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

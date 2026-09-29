@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "as-esters"
 description: "Original exam-style practice questions with full worked answers on carboxylic acid reactions, esterification and hydrolysis."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "a-gibbs-free-energy-change"
 description: "Born-Haber cycles, enthalpies of solution and hydration, entropy change and Gibbs free energy, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

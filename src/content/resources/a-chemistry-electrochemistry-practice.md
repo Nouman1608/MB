@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "a-standard-electrode-potentials-cell-potentials-and-the-nernst-equation"
 description: "Original exam-style practice questions with full worked answers on electrode potentials, cell e.m.f. and electrolysis for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

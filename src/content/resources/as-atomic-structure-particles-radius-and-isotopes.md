@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "as-isotopes"
 description: "Subatomic particles, deflection in an electric field, atomic and ionic radius trends, and isotopes, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

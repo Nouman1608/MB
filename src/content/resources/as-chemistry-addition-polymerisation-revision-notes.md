@@ -16,6 +16,9 @@ syllabusTopics:
     subtopic: "as-addition-polymerisation"
 description: "Condensed recall notes on addition polymers, repeat units, properties and disposal for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

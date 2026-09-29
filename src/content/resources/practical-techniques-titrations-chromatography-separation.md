@@ -36,6 +36,9 @@ syllabusTopics:
     subtopic: "separation-and-purification"
 description: "Apparatus, titration technique, chromatography (including Rf) and separation/purification methods for Cambridge IGCSE 0620 and O Level 5070 — the practical-skills half of Topic 12."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-29
 featured: false
 ---

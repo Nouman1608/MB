@@ -14,6 +14,9 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-2-1-3"
 description: "Condensed recall notes on the mole, empirical formulae, titrations, gas volumes, yield and atom economy for OCR A Level Chemistry H432."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

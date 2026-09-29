@@ -14,6 +14,9 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-2-1-3"
 description: "Original exam-style practice questions with full worked answers on moles, the ideal gas equation, titrations and percentage yield for OCR A Level Chemistry."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

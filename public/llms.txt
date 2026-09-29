@@ -107,6 +107,7 @@
 - [Arslan Tanvir](https://marlbridge.com/authors/arslan-tanvir/): Mathematics Teacher.
 - [Asif Iqbal](https://marlbridge.com/authors/asif-iqbal/): Business Studies Teacher.
 - [Azam Siddique](https://marlbridge.com/authors/azam-siddique/): Islamiyat / Pakistan Studies, History and Environmental Management Teacher.
+- [Farhat ul Ain Sehgal](https://marlbridge.com/authors/farhat-ul-ain-sehgal/): Chemistry Teacher.
 - [Farheen Zehra](https://marlbridge.com/authors/farheen-zehra/): Urdu Language Teacher.
 - [Harris Khan](https://marlbridge.com/authors/harris-khan/): Computer Science and ICT Teacher.
 - [Harris Zaman](https://marlbridge.com/authors/harris-zaman/): Biology Teacher.

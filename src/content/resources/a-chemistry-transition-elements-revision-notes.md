@@ -19,6 +19,9 @@ syllabusTopics:
     subtopic: "a-general-characteristic-chemical-properties-of-the-first-set-of-transition-elements-titanium-to-copper"
 description: "Condensed recall notes on variable oxidation states, complex ions, colour and catalysis for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false

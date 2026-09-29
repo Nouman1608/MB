@@ -24,6 +24,9 @@ syllabusTopics:
     subtopic: "hydrogen-oxygen-fuel-cells"
 description: "Condensed recall notes on electrolysis of molten and aqueous compounds, predicting products, electroplating and fuel cells for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false

@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "a-gibbs-free-energy-change"
 description: "Original exam-style practice questions with full worked answers on Born-Haber cycles, entropy and Gibbs free energy for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

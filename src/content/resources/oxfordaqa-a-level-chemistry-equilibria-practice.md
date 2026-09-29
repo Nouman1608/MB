@@ -14,6 +14,9 @@ syllabusTopics:
     topic: "oxfordaqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc"
 description: "Original exam-style practice questions with full worked answers on Le Chatelier, Kc and industrial compromise conditions, with labelled International A2 Kp extension questions."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---

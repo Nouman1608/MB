@@ -25,6 +25,9 @@ syllabusTopics:
     subtopic: "as-dot-and-cross-diagrams"
 description: "Covalent and coordinate bonding, expanded octets, orbital overlap, bond energy and length, VSEPR shapes and bond angles, hydrogen bonding and van der Waals' forces, and dot-and-cross diagrams including odd-electron species, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

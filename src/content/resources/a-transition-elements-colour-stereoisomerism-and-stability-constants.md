@@ -22,6 +22,9 @@ syllabusTopics:
     subtopic: "a-stability-constants-kstab"
 description: "Why transition-metal complexes are coloured, cis/trans and optical isomerism in complexes, and stability constants, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
