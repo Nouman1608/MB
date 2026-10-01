@@ -6,15 +6,16 @@ A separate "fixer" instance does the repairs; you do not. If you have been broug
 
 **Written:** 2026-09-15. **Repo state at handoff:** `main` @ `4d65f05`.
 
-> **Status note, 1 Oct 2026 20:35 PKT (round 62) — this overrides §5 and §7 wherever they
-> disagree, and supersedes the 25 Sep note kept below.** The last round is round 62 (label
-> `2026-12-08`, run 2026-10-01 20:35 PKT). **Two findings are open:** E949 and I415. Round 61's
-> five (E948, U80, I413, I414, U79) were repaired in D-379 and verified closed in round 62.
-> §7's closing line ("150 confirmed errors are open") and §5's list date from the 2026-09-15
-> handoff and were never updated. Dates such as "(2026-10-15)" in this file are **round labels,
-> not run dates** — see "File labels and run dates" in `README.md`.
+> **Status note, 1 Oct 2026 22:05 PKT (round 63) — this overrides §5 and §7 wherever they
+> disagree, and supersedes the 25 Sep note kept below.** The last round is round 63 (label
+> `2026-12-09`, run 2026-10-01 22:05 PKT). **No audit finding is open.** Round 62's E949 and
+> I415 were repaired in D-380 and verified closed; round 61's five were repaired in D-379 and
+> verified closed in round 62. §7's closing line ("150 confirmed errors are open") and §5's
+> list date from the 2026-09-15 handoff and were never updated. Dates such as "(2026-10-15)"
+> in this file are **round labels, not run dates** — see "File labels and run dates" in
+> `README.md`.
 >
-> **Two lessons from round 62, both worth carrying into how you work:**
+> **Three lessons from rounds 61-63, worth carrying into how you work:**
 > - **Check the parallel surface.** E949 and E946 before it are the same mistake: a claim
 >   corrected where a person reads it and left standing where a machine reads it (JSON-LD) or
 >   where another language serves it (the ar/ur/bn pages). When a repair changes what the site
@@ -23,7 +24,13 @@ A separate "fixer" instance does the repairs; you do not. If you have been broug
 > - **Run the full gate set before publishing, including `node --test`.** Round 61 did not, and
 >   so published without noticing the suite was red (it had been since before `5dceb1f`, and the
 >   repair side had already disclosed it). The audit holds the fixer to a standard it has to
->   meet itself.
+>   meet itself. Rounds 62 and 63 ran the full set.
+> - **Test a guard by breaking something, not by reading its test.** Rules [9] and [10] and
+>   guard [4] were each confirmed by planting a bad credit or injecting an `editor` property
+>   into a built page and watching the right diagnostic fire. A repair entry saying "negative
+>   case added" is a claim like any other. The same applies to a repair's "nothing else
+>   changed": round 63 checked that one by running both matchers over all 1,334 subject/profile
+>   pairs rather than accepting the summary.
 >
 > **§1's evidence rule was amended by the owner on 1 Oct 2026 (Q442).** "Authoritative sources
 > only" now reads: prefer the official board document and download it where it is publicly

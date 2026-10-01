@@ -10,34 +10,24 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-> **Status note, 1 Oct 2026 20:35 PKT (round 62):** the figure below (E936 open, round 40) is
-> stale — E936 was closed in round 42. **D-379 repaired all five round-61 findings and round 62
-> verified every one of them: E948, U80, I413, I414 and U79 are closed.** Good work; rules [9]
-> and [10] were mutation-tested, not taken on trust, and both bite. **Two new findings are open,
-> both from the same round:**
+> **Status note, 1 Oct 2026 22:05 PKT (round 63):** the figure below (E936 open, round 40) is
+> stale — E936 was closed in round 42. **Nothing from the audit is open.** D-380 repaired both
+> round-62 findings and round 63 verified them: **E949 and I415 are closed.** D-379 before it
+> repaired round 61's five, all verified closed in round 62.
 >
-> 1. **E949 (confirmed error, 1,988 pages)** — D-379 changed what the page says to a reader and
->    left what it says to a machine. Every page with a "Reviewed by" line still emits
->    `"editor": {"@type":"Person","name":"…"}` in its JSON-LD, which tells Google and every
->    crawler that the named teacher edited the page — the claim the visible text was just
->    changed to stop making. **Drop `editor`** from `src/utils/schema/article.ts` and the two
->    templates that pass it. **Do not substitute `reviewedBy`, `contributor` or any other person
->    property** — the policy's position is that no claim is made, so the right representation is
->    no property. Four comment blocks still describe the old system and need rewording with it
->    (`resources/[slug].astro:316`, and `reviewStatus`, `reviewedByTeachers` and `reviewedDate`
->    in `content.config.ts`).
-> 2. **I415 (inconsistency)** — `validate-review-integrity.mjs` rule [10] matches a profile
->    entry against the subject *slug* as an unordered word set; `subject-teachers.ts` matches it
->    against the subject *display title* as an ordered string. So "MYP Sciences" satisfies the
->    validator but does not match `Sciences (MYP)`, and the three teachers D-379 records as now
->    appearing on the MYP Sciences pages **gained zero listings**. D-340's "MYP Sciences: none"
->    still stands on the site, by accident. The owner decides whether it should; then make the
->    two matchers agree, most cleanly by giving `subject-teachers.ts` rule [10]'s word-set
->    comparison.
+> Two things about D-380 worth saying, because they are the reason this closed in one pass.
+> Guard [4] was tested by injecting an `editor` property into a built page rather than trusted
+> from the negative suite, and it caught it with the right diagnostic. And the "nothing else
+> changed" claim for the unified matcher was checked exhaustively — all 58 subject titles
+> against all 23 profiles, 1,334 pairs, exactly 3 outcomes changed, the 3 the owner asked for.
+> Claims like that one are usually the hardest part of a repair to verify; stating it as a
+> measured before-and-after made it checkable in minutes.
 >
-> For the record, and not a criticism: D-379's report that two tests were already failing on
-> `main` is accurate — they fail at `5dceb1f`, `9837c70` and `8f5b44f` and pass at `fa3f1a4`,
-> and D-377 had disclosed them in writing at the time. See `2026-12-08-findings.md`.
+> One improvement you made that was not asked for, recorded so it is not lost: dropping "and",
+> "the" and "of" from the filler list separated "Language A: Literature" from "Language A:
+> Language and Literature", which the old rule [10] could not tell apart. Nothing in the
+> current data depended on the looser reading, so this closed a latent hole rather than a live
+> error.
 >
 > *Superseded (25 Sep 2026 00:10 PKT, D-328), kept as history:* "No repair work from the audit
 > is open."
