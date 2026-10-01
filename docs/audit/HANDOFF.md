@@ -6,17 +6,42 @@ A separate "fixer" instance does the repairs; you do not. If you have been broug
 
 **Written:** 2026-09-15. **Repo state at handoff:** `main` @ `4d65f05`.
 
-> **Status note, 25 Sep 2026 00:10 PKT (D-328) — this overrides §5 and §7 wherever they disagree.**
-> §2's table was kept current to round 60 (run 2026-09-22 20:02 PKT): **no audit finding is
-> open.** §7's closing line ("150 confirmed errors are open") and §5's list date from the
-> 2026-09-15 handoff and were never updated. They are now corrected in place, with the original
-> wording kept below each. Dates such as "(2026-10-15)" in this file are **round labels, not
-> run dates** — see "File labels and run dates" in `README.md`.
+> **Status note, 1 Oct 2026 14:40 PKT (round 61) — this overrides §5 and §7 wherever they
+> disagree, and supersedes the 25 Sep note kept below.** The last round is round 61 (label
+> `2026-12-07`, run 2026-10-01 14:40 PKT). **Five findings are open:** E948, I413, I414, U79,
+> U80. §7's closing line ("150 confirmed errors are open") and §5's list date from the
+> 2026-09-15 handoff and were never updated. Dates such as "(2026-10-15)" in this file are
+> **round labels, not run dates** — see "File labels and run dates" in `README.md`.
+>
+> **§1's evidence rule was amended by the owner on 1 Oct 2026 (Q442).** "Authoritative sources
+> only" now reads: prefer the official board document and download it where it is publicly
+> available, adding it to the owner's reference folder; where no official copy is obtainable,
+> use the folder copy whatever its provenance; and state the evidence class on every finding —
+> **[official]** or **[folder copy, provenance not established]**. The no-bypass rule in §7 is
+> unchanged and was applied this round: the IB ESS brief and the Global Politics guide could not
+> be downloaded because ibo.org serves a Cloudflare challenge, so both sections are
+> [folder copy].
 >
 > What remains for an auditor, from evidence rather than headings:
-> - **79 resources added after round 19** (`251571e`, 2026-09-16) have never been read by the
->   audit, including the 71 practice files behind the diagnostics (24 Sep 2026).
-> - **Repairs after D-284** (D-285 onward) have not been checked.
+> - **D-379 onward** has not been read. Round 61 read D-286 to D-377 (`5dceb1f`) and recorded
+>   D-378 (`9837c70`), which the audit instance made itself at the owner's request.
+> - **The IB material rests on folder copies.** The ESS brief, the Global Politics guide and
+>   the Maths AA/AI and Language A guides have no entry in the folder's download log and could
+>   not be fetched from ibo.org. If the owner can supply them from My IB, batches 2, 3 and the
+>   ESS section of round 61 move from [folder copy] to [official]. The folder's ESS brief is
+>   also the 2023 edition; the IB published an updated ESS guide in November 2025.
+> - **Publishing route.** The audit's own publishing scripts live on `desktop-dbja8vd`, which was
+>   offline through round 61. Round 61 was written and pushed by hand instead, via a clone on
+>   `book-j0f471teb8` with `gh` authenticated as Nouman1608 — the cloud container has no
+>   credential for `Nouman1608/MB`. Verify the tree hash against the tested commit before
+>   pushing that way.
+>
+> *Superseded (25 Sep 2026 00:10 PKT, D-328), kept as history:* "§2's table was kept current to
+> round 60 (run 2026-09-22 20:02 PKT): **no audit finding is open.** … **79 resources added
+> after round 19** (`251571e`, 2026-09-16) have never been read by the audit, including the 71
+> practice files behind the diagnostics (24 Sep 2026). **Repairs after D-284** (D-285 onward)
+> have not been checked." Both gaps are closed: round 61 read every resource file added up to
+> `5dceb1f`, the 79 among them.
 > - §5 items 2, 5 and 6 below: nothing in the repository shows them done. Treat as open.
 > - E238: §2's "one exception" is historical. Round 31 (label `2026-11-07`, run 2026-09-17)
 >   records E238 fixed against the IB Chemistry guide (first assessment 2025) pp. 45 and 62-68,
@@ -34,6 +59,9 @@ A separate "fixer" instance does the repairs; you do not. If you have been broug
   do not establish academic correctness.*
 - **Authoritative sources only.** Open and read the official board PDF sections. Do not rely
   on search-result excerpts, unofficial revision sites, AI summaries, or memory.
+  *(Amended by the owner 1 Oct 2026 — see the status note above and Q442: prefer the official
+  document and download it where it is public; otherwise use the folder copy whatever its
+  provenance; state the evidence class on every finding.)*
 - **Finding classifications:** Confirmed error (E) / Inconsistency (I) / Questionable claim
   (Q) / Unverified item (U) / Duplicate or overlapping scope (D). Group identical failures.
   **Do not inflate the report with stylistic preferences.**

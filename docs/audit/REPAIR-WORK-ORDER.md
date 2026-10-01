@@ -10,10 +10,33 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-> **Status note, 25 Sep 2026 00:10 PKT (D-328):** the figure below (E936 open, round 40) is
-> stale. E936 was closed in round 42 (label `2026-11-18`, D-257 read), and the audit reported **no
-> finding open** at round 60 (label `2026-12-06`, run 2026-09-22 20:02 PKT). No repair work from
-> the audit is open. See `README.md` for the limits of that statement.
+> **Status note, 1 Oct 2026 14:40 PKT (round 61):** the figure below (E936 open, round 40) is
+> stale — E936 was closed in round 42 (label `2026-11-18`, D-257 read), and round 60 reported no
+> finding open. **Round 61 (label `2026-12-07`) read the 666 resource files added between
+> 21 September and 1 October and opens five findings.** Four are yours:
+>
+> 1. **E948** — `a-level-biology-cell-membranes-practice.md` Q3 is marked **[3]** and its answer
+>    carries four `[1]` marking points. Raise the tariff or merge two points. **Read the
+>    finding's "Note for correction" first:** this is not a corpus-wide pattern. Answers that
+>    list more markers than the tariff are correct wherever they say "any two of", "1 mark each"
+>    or set out a band; all of those were checked and are right.
+> 2. **U80** — 21 of the 36 `ib-dp-ess-*` resources say they are "aligned to the IB Diploma
+>    Programme Subject Brief" and then give numbered subtopics (3.1, 3.2, 3.3 …) with "what you
+>    must be able to do" outcomes. The brief breaks out subtopics for Topic 1 only. The three
+>    Topic 2 pages in the same set already disclose this correctly and are the model. Do **not**
+>    delete the subtopic tables — the problem is the attribution, not the content.
+> 3. **I413** — 509 resources credit a reviewer whose profile's `subjectsTaught` or
+>    `boardsTaught` does not cover that subject or board. Needs the owner's decision on which
+>    side is wrong before either is touched.
+> 4. **I414** — `ammar-bilal`, `harris-khan` and `farhat-ul-ain-sehgal` have no `sourceUrl` or
+>    `verifiedOn`; the other nineteen profiles do. Owner input needed.
+>
+> **U79** (the 1,987 "Reviewed by" credits) is with the owner, not with you. **E947** was raised
+> and closed inside round 61 by D-378, which the audit instance made at the owner's request.
+> See `2026-12-07-findings.md` and `README.md` for the limits of all of this.
+>
+> *Superseded (25 Sep 2026 00:10 PKT, D-328), kept as history:* "No repair work from the audit
+> is open."
 
 **1 confirmed-error group open (E936)** *(2026-11-16, round 40: D-255 verified — E386, E934, E935 and I389 closed. I390 and I391 open.)*
 

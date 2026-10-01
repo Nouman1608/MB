@@ -7,13 +7,27 @@ file is one round, findings are **never edited after publication**, and later ro
 **amend** earlier ones. Acting on an old file without checking what amended it is how the
 corpus briefly ended up worse than baseline on five files — see the amendment map below.
 
-> **Current account, 25 Sep 2026 00:10 PKT (register reconciliation, D-328).** The audit's
-> last round is round 60 (file label `2026-12-06`, run 2026-09-22 20:02 PKT). At that point **no
-> audit finding was open**. That statement has limits, set out in "Where the numbers stand"
-> below: it covers findings this audit raised, not the correctness of the whole site, and it
-> does not cover the 79 resources added after round 19's read (71 of them on 24 Sep 2026 for
-> the diagnostics). File names from `2026-09-13` onward are **round labels, not run dates** —
-> see "File labels and run dates" at the end of this page.
+> **Current account, 1 Oct 2026 14:40 PKT (round 61).** The audit's last round is round 61
+> (file label `2026-12-07`, run 2026-10-01 14:40 PKT). **Five findings are open:** E948 (one
+> practice-question tariff), I413 and I414 (reviewer credits and profiles), U79 (the 1,987
+> "Reviewed by" claims) and U80 (21 IB ESS pages). Round 61 read the **666 resource files added
+> between 21 September and 1 October**, so the gap the earlier note described — resources added
+> after round 19 that the audit had never read — is closed for everything up to `5dceb1f`.
+> That still covers findings this audit raised, not the correctness of the whole site. File
+> names from `2026-09-13` onward are **round labels, not run dates** — see "File labels and run
+> dates" at the end of this page.
+>
+> *Superseded (25 Sep 2026 00:10 PKT, D-328), kept as history:* "The audit's last round is round
+> 60 (file label `2026-12-06`, run 2026-09-22 20:02 PKT). At that point **no audit finding was
+> open**. … it does not cover the 79 resources added after round 19's read (71 of them on
+> 24 Sep 2026 for the diagnostics)."
+>
+> **Evidence rule, amended by the owner 1 Oct 2026 (Q442).** Prefer the official board document
+> and download it where it is publicly available; where no official copy is obtainable, use the
+> copy in the owner's reference folder whatever its provenance; and state the evidence class on
+> every finding — **[official]** or **[folder copy, provenance not established]**. Bot
+> challenges and CAPTCHAs are still never bypassed: where a board's site serves one, the audit
+> stops and says so.
 >
 > **Status words, used separately:** *read end to end* (the auditor read the whole resource) ·
 > *finding declared closed* (a repair round's decision-log entry says it is handled) · *repair
@@ -107,6 +121,7 @@ corpus briefly ended up worse than baseline on five files — see the amendment 
 | `2026-12-04-findings.md` | Round 58 (2026-09-21, 21:20 PKT): D-279 verified — I396 closed; 0264 list and DP CS (2027) record correct; owner closes the remaining choices. **No finding open.** |
 | `2026-12-05-findings.md` | Round 59 (2026-09-22, 19:35 PKT): D-280 to D-283 verified — **E946** (8 legal pages still say page views are recorded only after Accept), I412 (D-283's count). **1 confirmed-error group open.** |
 | `2026-12-06-findings.md` | Round 60 (2026-09-22, 20:02 PKT): D-284 verified — **E946** and I412 closed; D-285 (audit-made, Search Console row cap) recorded. **No finding open.** |
+| `2026-12-07-findings.md` | Round 61 (2026-10-01, 14:40 PKT): D-286 to D-377 read — the **666 new resource files** checked against the boards' documents in five batches. **E947** raised and closed within the round by D-378 (audit-made, MYP Sciences byline). **E948** (one practice tariff), I413 (509 reviewer/profile contradictions), I414 (3 profiles with no source), U79 (1,987 review credits unverifiable), U80 (21 IB ESS pages attribute subtopics to a brief that has none), Q442 (the owner's amendment to the evidence rule; D-378 recorded). **1 confirmed-error group open** (E948). |
 | `2026-09-15-tier-resolution-response.md` | Cambridge 0620 tier question, resolved by coordinates. |
 | `correction-constraints.md` | **Standing rules. Start here.** |
 
