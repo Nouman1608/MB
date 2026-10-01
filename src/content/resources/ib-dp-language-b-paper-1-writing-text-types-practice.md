@@ -23,7 +23,7 @@ syllabusTopics:
     topic: "ib-dp-language-b-sharing-the-planet"
 description: "Original IB DP Language B Paper 1 practice: three model texts to analyse for register and conventions, task decoding and a planned writing task."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27

@@ -17,7 +17,7 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-intertextuality"
 description: "Condensed IB DP Language A: Literature notes on course concepts, critical lenses and five tests for evaluating interpretations, with a self-test."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27

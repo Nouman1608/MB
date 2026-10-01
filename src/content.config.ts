@@ -286,7 +286,11 @@ const authors = defineCollection({
      * external source), but must be set whenever one exists.
      */
     sourceUrl: z.url().optional(),
-    /** Date this profile's facts were last checked against sourceUrl. */
+    /** D-379 (audit I414) -- where no published listing exists, a plain
+     * statement of who confirmed the facts and when (e.g. the owner, in
+     * writing). Shown on the profile instead of the listing link. */
+    sourceNote: z.string().optional(),
+    /** Date this profile's facts were last checked against sourceUrl (or sourceNote). */
     verifiedOn: z.coerce.date().optional(),
     /**
      * Whether this person is the designated academic reviewer for the

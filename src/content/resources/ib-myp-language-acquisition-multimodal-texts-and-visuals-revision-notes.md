@@ -17,7 +17,7 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-assessment-criteria"
 description: "Revision notes for IB MYP Language Acquisition multimodal texts: visual terms, text-image links, a describe-interpret method and a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28

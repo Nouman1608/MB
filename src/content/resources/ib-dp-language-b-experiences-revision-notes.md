@@ -15,7 +15,7 @@ syllabusTopics:
     topic: "ib-dp-language-b-experiences"
 description: "Condensed revision notes on the IB DP Language B Experiences theme: topics, narrative tenses, time markers, text types and a self-test."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27

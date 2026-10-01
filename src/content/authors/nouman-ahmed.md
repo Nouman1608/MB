@@ -6,7 +6,7 @@ bio: >-
 credentials: []
 image: "/images/faculty/nouman-ahmed.jpg"
 entityType: person
-subjectsTaught: ["Chemistry"]
+subjectsTaught: ["Chemistry", "MYP Sciences"]
 boardsTaught: ["cambridge", "edexcel", "aqa", "ocr", "oxfordaqa", "ib"]
 qualificationsTaught: []
 yearsExperience: 9

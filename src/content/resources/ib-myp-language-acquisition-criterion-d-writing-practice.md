@@ -15,7 +15,7 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-assessment-criteria"
 description: "Original IB MYP Language Acquisition criterion D practice: decoding prompts, cohesion, register, accuracy, range and a model blog post, with answers."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28

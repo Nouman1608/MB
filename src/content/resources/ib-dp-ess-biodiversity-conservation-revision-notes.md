@@ -30,6 +30,8 @@ These are condensed revision notes. For full explanations and longer worked exam
 
 The notes cover Topic 3, Biodiversity and conservation, of IB Diploma Programme Environmental Systems and Societies. They are aligned to the IB Diploma Programme Subject Brief, *Environmental systems and societies*, and cover syllabus sections 3.1–3.3: biodiversity and evolution, human impact on biodiversity, and conservation and regeneration. The topic is common to SL and HL (13 hours SL, 26 hours HL), and HL students study some topics in extra depth. They follow the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.
 
+The brief gives Topic 3 Biodiversity and conservation 13 teaching hours at SL and 26 at HL. It does not list the subtopics or learning outcomes for this topic, so the numbered subtopics and outcomes on this page follow the syllabus numbering used in the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/), not the brief itself.
+
 When you can recall everything here, test yourself with the [biodiversity and conservation practice questions](/resources/ib-dp-ess-biodiversity-conservation-practice/). The [IB DP ESS course hub](/boards/ib/ib-dp/environmental-systems-and-societies/) and the [printable ESS syllabus checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/) show where this unit sits. Topic 3 leans on niches and succession from the [Topic 2 Ecology revision notes](/resources/ib-dp-ess-topic-2-ecology-revision-notes/) and on value systems from the [Topic 1 Foundations revision notes](/resources/ib-dp-ess-topic-1-foundations-revision-notes/). For paper formats, see the [ESS assessment revision notes](/resources/ib-dp-environmental-systems-and-societies-assessment-revision-notes/).
 
 ## Definitions
@@ -179,4 +181,4 @@ Small reminder: counts of 5, 5, 5, 5 give N = 20, N(N − 1) = 380 and Σn(n −
 
 ## Official syllabus
 
-International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026.
+International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026. The brief lists subtopics for Topic 1 only; the subtopic numbering on this page follows the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/).

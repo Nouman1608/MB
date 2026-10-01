@@ -17,7 +17,7 @@ syllabusTopics:
     topic: "ib-dp-language-a-language-and-literature-time-and-space"
 description: "Original IB DP Lang and Lit Paper 1 practice: a poster, a column and a speech, with short analysis questions, two extended tasks and model answers."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27

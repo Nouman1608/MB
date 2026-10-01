@@ -15,7 +15,7 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-time-space"
 description: "Time and space revision notes for IB DP Language A: Literature: key terms, a context-to-effect method, translation rules and a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27

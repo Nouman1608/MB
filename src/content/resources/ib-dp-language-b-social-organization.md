@@ -15,7 +15,7 @@ syllabusTopics:
     topic: "ib-dp-language-b-social-organization"
 description: "Study guide to the Social organization theme of IB DP Language B: its guiding principle, six recommended topics, rule language and formal register."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27

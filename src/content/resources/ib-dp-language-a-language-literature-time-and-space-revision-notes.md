@@ -14,7 +14,7 @@ syllabusTopics:
     topic: "ib-dp-language-a-language-and-literature-time-and-space"
 description: "Condensed revision notes on the Time and Space area of exploration of IB Diploma Programme Language A: Language and Literature -- context of production and reception across literary and non-literary texts."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03

@@ -8,7 +8,7 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Language Acquisition"]
 description: "An overview of IB Middle Years Programme Language Acquisition -- developing insight into language, culture and multiliteracy skills for ages 11-16."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22

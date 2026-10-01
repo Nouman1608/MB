@@ -11,7 +11,7 @@ syllabusSeries: "First assessment 2021"
 order: 2
 description: "The three areas of exploration of IB Diploma Programme Language A: Language and Literature -- Readers, writers and texts; Time and space; Intertextuality -- and how the course's mix of literary and non-literary text study is examined, for first assessment 2021."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02

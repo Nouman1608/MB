@@ -17,7 +17,7 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-intertextuality"
 description: "How to choose a global issue, pair a translated work with one in the language studied and structure the IB DP Language A: Literature oral."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27

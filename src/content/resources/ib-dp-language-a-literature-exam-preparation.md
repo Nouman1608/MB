@@ -10,7 +10,7 @@ syllabusCodes: ["DP Language A: Literature"]
 order: 4
 description: "Paper-by-paper exam preparation for IB DP Language A: Literature -- working from Paper 1's guiding questions on two unseen extracts, building a genuine comparative Paper 2 essay, balancing the individual oral across two works, a worked scenario and a checklist."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07

@@ -14,7 +14,7 @@ syllabusTopics:
     topic: "ib-dp-language-a-language-and-literature-readers-writers-and-texts"
 description: "Condensed revision notes on IB Diploma Programme Language A: Language and Literature's Readers, writers and texts component -- the close-reading toolkit shared across literary and non-literary text analysis -- with self-test questions."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02

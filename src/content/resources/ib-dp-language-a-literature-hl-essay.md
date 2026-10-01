@@ -19,7 +19,7 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-intertextuality"
 description: "Study guide to the IB DP Language A: Literature HL essay: a line of inquiry on one work, research, drafting to 1,500 words and referencing."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27

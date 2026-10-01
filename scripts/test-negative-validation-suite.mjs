@@ -181,24 +181,26 @@ withMutation(
 // derived from real resource data, not hardcoded -- proven by showing it
 // changes correctly when the underlying data changes, then reverts.
 console.log('\n[E] llms.txt resource-category claims are live-derived, not hardcoded');
+// D-379 -- past-papers resources now exist (past-paper guides, 28 Sep 2026),
+// so the derivation is proven with the still-empty learning-articles category.
 {
   const resourceFile = 'src/content/resources/ocr-gcse-chemistry-atomic-structure.md';
   const llmsFile = 'public/llms.txt';
   const originalResource = readFileSync(resourceFile, 'utf8');
   const originalLlms = readFileSync(llmsFile, 'utf8');
   try {
-    if (originalLlms.includes('past papers')) {
-      console.log('  ✗ precondition failed: llms.txt already claims "past papers" before mutation -- cannot prove derivation');
+    if (originalLlms.includes('learning articles')) {
+      console.log('  ✗ precondition failed: llms.txt already claims "learning articles" before mutation -- cannot prove derivation');
       failed++;
     } else {
-      writeFileSync(resourceFile, originalResource.replace('resourceType: "study-guides"', 'resourceType: "past-papers"'));
+      writeFileSync(resourceFile, originalResource.replace('resourceType: "study-guides"', 'resourceType: "learning-articles"'));
       run('node scripts/generate-llms-txt.mjs');
       const mutatedLlms = readFileSync(llmsFile, 'utf8');
-      if (mutatedLlms.includes('past papers')) {
-        console.log('  ✓ llms.txt correctly started claiming "past papers" once a past-papers resource existed');
+      if (mutatedLlms.includes('learning articles')) {
+        console.log('  ✓ llms.txt correctly started claiming "learning articles" once a learning-articles resource existed');
         passed++;
       } else {
-        console.log('  ✗ llms.txt did NOT pick up the new past-papers resource -- generation may be stale/hardcoded');
+        console.log('  ✗ llms.txt did NOT pick up the new learning-articles resource -- generation may be stale/hardcoded');
         failed++;
       }
     }
@@ -210,7 +212,7 @@ console.log('\n[E] llms.txt resource-category claims are live-derived, not hardc
       console.log('  ✗✗ RESTORE FAILED — llms.txt did not return to its original content. Manual check required.');
       failed++;
     } else {
-      console.log('  ✓ llms.txt correctly reverted once the past-papers resource was removed again');
+      console.log('  ✓ llms.txt correctly reverted once the learning-articles resource was removed again');
       passed++;
     }
   }
@@ -233,6 +235,10 @@ console.log('    state and was never itself the goal; sitemap/robots agreement i
 
 console.log('\n[I] Review-integrity validator (QIGT programme)');
 const reviewFixtureFile = 'src/content/resources/a-acids-bases-buffers-and-partition-coefficients.md';
+// D-379 -- the fixture gained reviewer/reviewStatus/reviewedDate lines in the
+// 28-29 Sep credit sweep, so each review mutation first strips them and then
+// inserts its own state (otherwise the mutation tested the existing record).
+const stripReview = (t) => t.replace(/^(reviewer|reviewStatus|reviewedDate):.*\n/gm, '');
 // D-166: the fixture's own `reviewer: "nouman-ahmed"` line was removed
 // corpus-wide by the E569 self-review fix, so these mutations now anchor
 // on the still-present `author: "nouman-ahmed"` line and insert the
@@ -241,7 +247,7 @@ const reviewFixtureFile = 'src/content/resources/a-acids-bases-buffers-and-parti
 
 withMutation(
   reviewFixtureFile,
-  (text) => text.replace('author: "nouman-ahmed"', 'author: "nouman-ahmed"\nreviewStatus: "reviewed"'),
+  (text) => stripReview(text).replace('author: "nouman-ahmed"', 'author: \"nouman-ahmed\"\nreviewStatus: "reviewed"'),
   {
     validatorCmd: 'node scripts/validate-review-integrity.mjs',
     expectSubstring: 'has reviewStatus "reviewed" but no reviewer field set',
@@ -251,7 +257,7 @@ withMutation(
 
 withMutation(
   reviewFixtureFile,
-  (text) => text.replace('author: "nouman-ahmed"', 'author: "nouman-ahmed"\nreviewStatus: "reviewed"\nreviewer: "nonexistent-person-xyz"'),
+  (text) => stripReview(text).replace('author: "nouman-ahmed"', 'author: \"nouman-ahmed\"\nreviewStatus: "reviewed"\nreviewer: "nonexistent-person-xyz"'),
   {
     validatorCmd: 'node scripts/validate-review-integrity.mjs',
     expectSubstring: 'does not exist in src/content/authors/',
@@ -261,7 +267,7 @@ withMutation(
 
 withMutation(
   reviewFixtureFile,
-  (text) => text.replace('author: "nouman-ahmed"', 'author: "nouman-ahmed"\nreviewStatus: "reviewed"\nreviewer: "aizaz-raoof-ali"'),
+  (text) => stripReview(text).replace('author: "nouman-ahmed"', 'author: \"nouman-ahmed\"\nreviewStatus: "reviewed"\nreviewer: "jawad-tariq"'), // D-379: Aizaz Raoof Ali is now a reviewer; Jawad Tariq is not
   {
     validatorCmd: 'node scripts/validate-review-integrity.mjs',
     expectSubstring: 'who is not marked isReviewer: true',
@@ -271,7 +277,7 @@ withMutation(
 
 withMutation(
   reviewFixtureFile,
-  (text) => text.replace('author: "nouman-ahmed"', 'author: "nouman-ahmed"\nreviewStatus: "reviewed"\nreviewer: "nouman-ahmed"\nreviewedDate: 2026-01-01'),
+  (text) => stripReview(text).replace('author: "nouman-ahmed"', 'author: \"nouman-ahmed\"\nreviewStatus: "reviewed"\nreviewer: "nouman-ahmed"\nreviewedDate: 2026-01-01'),
   {
     validatorCmd: 'node scripts/validate-review-integrity.mjs',
     expectSubstring: 'before publishedDate',
@@ -281,11 +287,33 @@ withMutation(
 
 withMutation(
   reviewFixtureFile,
-  (text) => text.replace('author: "nouman-ahmed"', 'author: "nouman-ahmed"\nreviewStatus: "reviewed"\nreviewer: "nouman-ahmed"\nreviewedDate: 2027-01-01'),
+  (text) => stripReview(text).replace('author: "nouman-ahmed"', 'author: \"nouman-ahmed\"\nreviewStatus: "reviewed"\nreviewer: "nouman-ahmed"\nreviewedDate: 2027-01-01'),
   {
     validatorCmd: 'node scripts/validate-review-integrity.mjs',
     expectSubstring: 'in the future',
     label: 'future reviewedDate is rejected',
+  },
+);
+
+// D-379 (audit I413) -- [9] a reviewer whose profile lacks the resource's board.
+withMutation(
+  reviewFixtureFile,
+  (text) => stripReview(text).replace('author: "nouman-ahmed"', 'author: "nouman-ahmed"\nreviewStatus: "reviewed"\nreviewer: "asif-iqbal"').replace(/^boards:.*$/m, 'boards: ["ocr"]'),
+  {
+    validatorCmd: 'node scripts/validate-review-integrity.mjs',
+    expectSubstring: 'whose profile does not list the board(s) ocr',
+    label: 'reviewer whose profile lacks the resource board is rejected',
+  },
+);
+
+// D-379 (audit I413) -- [10] a reviewer whose profile lacks the resource's subject.
+withMutation(
+  reviewFixtureFile,
+  (text) => stripReview(text).replace('author: "nouman-ahmed"', 'author: "nouman-ahmed"\nreviewStatus: "reviewed"\nreviewer: "asif-iqbal"').replace(/^boards:.*$/m, 'boards: ["cambridge"]'),
+  {
+    validatorCmd: 'node scripts/validate-review-integrity.mjs',
+    expectSubstring: 'do not cover "chemistry"',
+    label: 'reviewer whose profile lacks the resource subject is rejected',
   },
 );
 

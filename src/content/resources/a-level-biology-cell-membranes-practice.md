@@ -42,7 +42,7 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 
 **(a)** Name the process by which amylase leaves the cells.
 
-**(b)** Describe this process and explain why it needs a supply of ATP. **[3]**
+**(b)** Describe this process and explain why it needs a supply of ATP. **[4]**
 
 **4.** Plant cell P has a water potential of −580 kPa. The cell next to it, cell Q, has a water potential of −340 kPa. State the direction of net water movement between the two cells and explain your answer. **[2]**
 

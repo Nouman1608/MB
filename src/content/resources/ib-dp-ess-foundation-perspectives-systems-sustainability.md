@@ -28,6 +28,8 @@ featured: false
 
 This study guide teaches the foundation unit of IB Diploma Programme Environmental Systems and Societies (ESS), aligned to the International Baccalaureate Organization *Diploma Programme Subject Brief, Environmental systems and societies*, first assessment 2026. It covers syllabus sections 1.1 Perspectives, 1.2 Systems and 1.3 Sustainability. The foundation unit is the starting point for both SL and HL, so everything here applies to both levels. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.
 
+The brief names Topic 1's three subtopics (1.1 Perspectives, 1.2 Systems, 1.3 Sustainability) and gives Topic 1 16 teaching hours at SL and HL, but it sets out no learning outcomes, so the outcomes on this page, and any numbering below Topic 1's three subtopics, follow the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/), not the brief itself.
+
 Use it with the [revision notes](/resources/ib-dp-ess-foundation-perspectives-systems-sustainability-revision-notes/) and the [practice questions](/resources/ib-dp-ess-foundation-perspectives-systems-sustainability-practice/). For the whole course, see the [ESS course hub](/boards/ib/ib-dp/environmental-systems-and-societies/) and the [printable checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/). The shorter [Topic 1 Foundations overview](/resources/ib-dp-ess-topic-1-foundations/) gives the core definitions; this guide adds worked calculations and models.
 
 ## What this unit covers
@@ -223,4 +225,4 @@ Test yourself with the [practice questions](/resources/ib-dp-ess-foundation-pers
 
 ## Official syllabus
 
-International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026.
+International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026. The brief lists subtopics for Topic 1 only; the subtopic numbering on this page follows the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/).

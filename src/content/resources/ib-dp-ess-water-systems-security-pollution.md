@@ -263,4 +263,6 @@ Use the [Topic 4 revision notes](/resources/ib-dp-ess-water-systems-security-pol
 
 ## Official syllabus
 
-International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026. This guide covers Topic 4, Water: sections 4.1, 4.2, 4.3 and 4.4.
+International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026. This guide covers Topic 4, Water: sections 4.1, 4.2, 4.3 and 4.4. The brief lists subtopics for Topic 1 only; the subtopic numbering on this page follows the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/).
+
+The brief gives Topic 4 Water 12 teaching hours at SL and 25 at HL. It does not list the subtopics or learning outcomes for this topic, so the numbered subtopics and outcomes on this page follow the syllabus numbering used in the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/), not the brief itself.

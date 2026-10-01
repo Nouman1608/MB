@@ -14,7 +14,7 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-intertextuality"
 description: "How works of literature echo, respond to or subvert each other, and how to build a genuine comparative analysis across two studied works -- one of three areas of exploration of IB Diploma Programme Language A: Literature, first assessment 2021."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06

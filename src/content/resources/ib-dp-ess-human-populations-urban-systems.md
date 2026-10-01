@@ -28,6 +28,8 @@ featured: false
 
 This study guide teaches Topic 8, Human populations and urban systems, for IB Diploma Programme Environmental Systems and Societies (ESS). It is aligned to the International Baccalaureate *Diploma Programme Subject Brief: Environmental systems and societies*, first assessment 2026, and covers syllabus sections 8.1 (human populations), 8.2 (urban systems and urban planning) and 8.3 (urban air pollution). The topic is studied at both SL and HL; the brief gives it 9 teaching hours at SL and 15 at HL, so HL students study some parts in extra depth. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.
 
+The brief gives Topic 8 Human populations and urban systems 9 teaching hours at SL and 15 at HL. It does not list the subtopics or learning outcomes for this topic, so the numbered subtopics and outcomes on this page follow the syllabus numbering used in the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/), not the brief itself.
+
 When you have worked through it, fix the key facts with the [revision notes](/resources/ib-dp-ess-human-populations-urban-systems-revision-notes/) and test yourself with the [practice questions](/resources/ib-dp-ess-human-populations-urban-systems-practice/). The [IB DP ESS course hub](/boards/ib/ib-dp/environmental-systems-and-societies/) and the [printable syllabus checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/) show where this topic sits in the course.
 
 ## What this unit covers
@@ -217,4 +219,4 @@ Recap with the [revision notes](/resources/ib-dp-ess-human-populations-urban-sys
 
 ## Official syllabus
 
-International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026.
+International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026. The brief lists subtopics for Topic 1 only; the subtopic numbering on this page follows the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/).

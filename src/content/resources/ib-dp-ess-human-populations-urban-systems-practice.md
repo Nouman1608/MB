@@ -34,6 +34,8 @@ featured: false
 
 This practice set covers Topic 8, Human populations and urban systems, of IB Diploma Programme Environmental Systems and Societies. It is aligned to the International Baccalaureate *Diploma Programme Subject Brief: Environmental systems and societies*, first assessment 2026, syllabus sections 8.1–8.3, and suits both SL and HL. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions. All data are fictional.
 
+The brief gives Topic 8 Human populations and urban systems 9 teaching hours at SL and 15 at HL. It does not list the subtopics or learning outcomes for this topic, so the numbered subtopics and outcomes on this page follow the syllabus numbering used in the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/), not the brief itself.
+
 Learn the content first in the [study guide](/resources/ib-dp-ess-human-populations-urban-systems/) and the [revision notes](/resources/ib-dp-ess-human-populations-urban-systems-revision-notes/). The [IB DP ESS course hub](/boards/ib/ib-dp/environmental-systems-and-societies/) and the [printable syllabus checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/) show where this topic sits. Extended answers list **indicative** points; real exam essays may be judged holistically against IB criteria, which your teacher will share.
 
 ## Questions
@@ -192,4 +194,4 @@ Learn the content first in the [study guide](/resources/ib-dp-ess-human-populati
 
 ## Official syllabus
 
-International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026.
+International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026. The brief lists subtopics for Topic 1 only; the subtopic numbering on this page follows the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/).

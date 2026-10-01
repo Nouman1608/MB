@@ -34,6 +34,8 @@ featured: false
 
 This practice set covers the foundation unit of IB Diploma Programme Environmental Systems and Societies, aligned to the International Baccalaureate Organization *Diploma Programme Subject Brief, Environmental systems and societies*, first assessment 2026. It tests syllabus sections 1.1 Perspectives, 1.2 Systems and 1.3 Sustainability, which are common to SL and HL. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.
 
+The brief names Topic 1's three subtopics (1.1 Perspectives, 1.2 Systems, 1.3 Sustainability) and gives Topic 1 16 teaching hours at SL and HL, but it sets out no learning outcomes, so the outcomes on this page, and any numbering below Topic 1's three subtopics, follow the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/), not the brief itself.
+
 Learn the content first in the [study guide](/resources/ib-dp-ess-foundation-perspectives-systems-sustainability/) and the [revision notes](/resources/ib-dp-ess-foundation-perspectives-systems-sustainability-revision-notes/). The questions here use different scenarios from the [Topic 1 Foundations practice set](/resources/ib-dp-ess-topic-1-foundations-practice/), so you can do both. All data are fictional. Mark allocations are for practice only; the real exam is marked by trained examiners using the IB's own markschemes.
 
 ## Questions
@@ -190,4 +192,4 @@ Identify the EVS of each stakeholder and justify each with evidence from their w
 
 ## Official syllabus
 
-International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026.
+International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026. The brief lists subtopics for Topic 1 only; the subtopic numbering on this page follows the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/).

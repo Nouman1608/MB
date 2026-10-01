@@ -28,8 +28,8 @@ const reviewedArticles = allArticles.filter((a) => a.data.reviewStatus === 'revi
 const teamArticles = allArticles.filter((a) => a.data.author.id === TEAM_ID).length;
 const plural = (n: number, one: string, many: string) => `${n.toLocaleString('en-US')} ${n === 1 ? one : many}`;
 const reviewedSummary = reviewedResources === 0 && reviewedArticles === 0
-  ? 'has not yet been completed for any published resource or article'
-  : `has been completed for ${reviewedResources === 0 ? 'no study resource' : plural(reviewedResources, 'study resource', 'study resources')} and ${reviewedArticles === 0 ? 'no article' : plural(reviewedArticles, 'article', 'articles')}`;
+  ? 'is not yet shown on any published resource or article'
+  : `is shown on ${reviewedResources === 0 ? 'no study resource' : plural(reviewedResources, 'study resource', 'study resources')} and ${reviewedArticles === 0 ? 'no article' : plural(reviewedArticles, 'article', 'articles')}`;
 ---
 <PageLayout
   translationKey="legal-editorial-policy"
@@ -68,13 +68,15 @@ const reviewedSummary = reviewedResources === 0 && reviewedArticles === 0
           reviewed by a teacher. Every resource is written against the official syllabus document for the
           board, qualification and syllabus code it declares, and is checked against that document before
           publication, whichever byline it carries (see "Editorial policy" above and "Copyright and original questions"
-          below). Separately, Marlbridge operates a distinct, accountable, named second-reviewer step — a
-          named reviewer, different from the author, credited by name on the page — for resources where that
-          specific accountable record exists; this is enforced at build time, so a page only ever displays
-          "Reviewed by [name]" if a real reviewer record exists for a real person the site designates a
-          genuine reviewer, and the underlying data is validated on every release. At present this named
-          second-reviewer credit {reviewedSummary}; every other resource is recorded as awaiting review. A
-          resource without this named credit is not described as reviewed by a teacher; its accuracy rests on
+          below). Separately, many resources name a subject teacher in a "Reviewed by [name]" line. On
+          Marlbridge, that line means the named teacher is the subject teacher accountable for that page's
+          accuracy: they answer questions and corrections about it, and the page is theirs to put right. It
+          is not a record of a dated, line-by-line check, and the site does not claim one (owner's
+          decision of 1 October 2026). The named teacher is always a different person from the author, and
+          their own profile lists the subject and exam board of every page they are named on; both rules are
+          checked at build time on every release. At present a named accountable teacher
+          {reviewedSummary}; every other resource is recorded as awaiting one. A
+          resource without this line names no accountable teacher; its accuracy rests on
           its own citation of the official syllabus and on the corrections
           process below, which is how errors are caught and fixed on any resource, credited reviewer or not.
         </p>
@@ -151,9 +153,9 @@ const reviewedSummary = reviewedResources === 0 && reviewedArticles === 0
           Organization, never as a Person. The other {namedResources.toLocaleString('en-US')} resources carry a real, named author — one of
           {' '}{namedAuthorCount} named teachers from the Marlbridge teaching team, credited on the resource page and linked to their own
           author page, which states only verified facts (role, years of teaching experience, previous schools)
-          sourced from a cited public source and dated when it was last checked. Being credited as an author is a separate role from being a reviewer: a reviewer is a second,
-          distinct, accountable check on already-written content, and Marlbridge only ever displays a review
-          claim where that genuine second check has actually taken place (see "Academic review policy" above).
+          sourced from a cited public source and dated when it was last checked. Being credited as an author is a separate role from being named in a "Reviewed by" line: that line
+          names the subject teacher accountable for a page's accuracy, never the author, and it is not a record
+          of a dated, line-by-line check (see "Academic review policy" above).
         </p>
       </div>
     </Container>

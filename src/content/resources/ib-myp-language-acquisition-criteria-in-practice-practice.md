@@ -13,7 +13,7 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-assessment-criteria"
 description: "Original scenario-based practice questions with full worked answers testing whether sample listening, reading, speaking and writing evidence would meet top-band standard for each of MYP Language Acquisition's four assessment criteria."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06

@@ -31,6 +31,8 @@ featured: false
 
 This practice set is for IB Diploma Programme Environmental Systems and Societies, aligned to the IB Diploma Programme Subject Brief, *Environmental systems and societies*. It covers syllabus sections 5.1 (Soil) and 5.2 (Agriculture and food) of Topic 5, Land, which is studied at SL and HL; question 9 uses an HL-only lens and is labelled HL. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.
 
+The brief gives Topic 5 Land 8 teaching hours at SL and 15 at HL. It does not list the subtopics or learning outcomes for this topic, so the numbered subtopics and outcomes on this page follow the syllabus numbering used in the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/), not the brief itself.
+
 Learn the content first in the [study guide](/resources/ib-dp-ess-soil-agriculture-food/) and the [revision notes](/resources/ib-dp-ess-soil-agriculture-food-revision-notes/). The [ESS course hub](/boards/ib/ib-dp/environmental-systems-and-societies/) and [printable checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/) show the rest of the course, and the [Topic 2 Ecology practice set](/resources/ib-dp-ess-topic-2-ecology-practice/) covers the energy flow these questions build on. All data below are invented for these questions.
 
 ## Questions
@@ -158,4 +160,4 @@ Learn the content first in the [study guide](/resources/ib-dp-ess-soil-agricultu
 
 ## Official syllabus
 
-International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026. This set covers syllabus sections 5.1 (Soil) and 5.2 (Agriculture and food) of Topic 5, Land.
+International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026. This set covers syllabus sections 5.1 (Soil) and 5.2 (Agriculture and food) of Topic 5, Land. The brief lists subtopics for Topic 1 only; the subtopic numbering on this page follows the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/).

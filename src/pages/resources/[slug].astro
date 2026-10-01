@@ -288,7 +288,7 @@ const jsonLd = [articleNode({
     {author && <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Author </dt><dd class="m-0 inline text-ink-mute"><a href={routes.author(author.id)} class="underline decoration-rule underline-offset-2">{author.data.name}</a></dd></div>}
     <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Updated </dt><dd class="m-0 inline text-ink-mute"><time datetime={(d.updatedDate ?? d.publishedDate).toISOString()}>{formatDate(d.updatedDate ?? d.publishedDate)}</time></dd></div>
     {genuinelyReviewed && (
-      <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Reviewed by </dt><dd class="m-0 inline text-ink-mute"><a href={routes.author(reviewerEntry!.id)} class="underline decoration-rule underline-offset-2">{reviewerEntry!.data.name}</a>{d.reviewedDate && <> on <time datetime={d.reviewedDate.toISOString()}>{formatDate(d.reviewedDate)}</time></>}</dd></div>
+      <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Reviewed by </dt><dd class="m-0 inline text-ink-mute"><a href={routes.author(reviewerEntry!.id)} class="underline decoration-rule underline-offset-2">{reviewerEntry!.data.name}</a> <a href="/legal/editorial-policy/#academic-review-policy" class="text-[12.5px] underline decoration-rule underline-offset-2">(what this means)</a></dd></div>
     )}
   </dl>
 

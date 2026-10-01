@@ -17,7 +17,7 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-time-space"
 description: "Original IB DP Literature Paper 1 practice: a poem, a prose extract and a drama scene, with analysis questions, two guiding-question tasks and models."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27

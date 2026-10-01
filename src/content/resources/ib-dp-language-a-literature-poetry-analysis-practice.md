@@ -15,7 +15,7 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-readers-writers-texts"
 description: "Original poetry analysis questions for IB DP Language A: Literature on Blake and two new poems, with model paragraphs, marked answers and examiner tips."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27

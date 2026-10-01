@@ -31,6 +31,8 @@ featured: false
 
 This study guide teaches Topic 6 of IB Diploma Programme Environmental Systems and Societies (ESS), aligned to the International Baccalaureate *Diploma Programme Subject Brief: Environmental systems and societies*, first assessment 2026. It covers syllabus sections 6.1–6.4, studied at both SL and HL. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.
 
+The brief gives Topic 6 Atmosphere and climate change 10 teaching hours at SL and 23 at HL. It does not list the subtopics or learning outcomes for this topic, so the numbered subtopics and outcomes on this page follow the syllabus numbering used in the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/), not the brief itself.
+
 The brief gives Topic 6 10 teaching hours at SL and 23 at HL, so HL students study some topics in extra depth. Your teacher's copy of the full subject guide lists the detailed understandings.
 
 Afterwards, use the [revision notes](/resources/ib-dp-ess-atmosphere-climate-change-ozone-revision-notes/) and the [practice questions](/resources/ib-dp-ess-atmosphere-climate-change-ozone-practice/). The [IB DP ESS course hub](/boards/ib/ib-dp/environmental-systems-and-societies/) and the [printable syllabus checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/) show where this unit sits in the course.
@@ -224,4 +226,4 @@ Next: the [revision notes](/resources/ib-dp-ess-atmosphere-climate-change-ozone-
 
 ## Official syllabus
 
-International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026.
+International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026. The brief lists subtopics for Topic 1 only; the subtopic numbering on this page follows the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/).

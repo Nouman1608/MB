@@ -30,6 +30,8 @@ For full explanations and worked examples, read the [study guide](/resources/ib-
 
 These revision notes cover the foundation unit of IB Diploma Programme Environmental Systems and Societies, aligned to the International Baccalaureate Organization *Diploma Programme Subject Brief, Environmental systems and societies*, first assessment 2026. They cover syllabus sections 1.1 Perspectives, 1.2 Systems and 1.3 Sustainability, which are common to SL and HL. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.
 
+The brief names Topic 1's three subtopics (1.1 Perspectives, 1.2 Systems, 1.3 Sustainability) and gives Topic 1 16 teaching hours at SL and HL, but it sets out no learning outcomes, so the outcomes on this page, and any numbering below Topic 1's three subtopics, follow the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/), not the brief itself.
+
 Test yourself afterwards with the [practice questions](/resources/ib-dp-ess-foundation-perspectives-systems-sustainability-practice/). Track your progress on the [printable checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/) and find every ESS page on the [course hub](/boards/ib/ib-dp/environmental-systems-and-societies/). For a lighter recap of the same unit, see the [Topic 1 Foundations revision notes](/resources/ib-dp-ess-topic-1-foundations-revision-notes/); for paper formats, see the [assessment revision notes](/resources/ib-dp-environmental-systems-and-societies-assessment-revision-notes/).
 
 ## The unit at a glance
@@ -178,4 +180,4 @@ Work through the [practice questions](/resources/ib-dp-ess-foundation-perspectiv
 
 ## Official syllabus
 
-International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026.
+International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026. The brief lists subtopics for Topic 1 only; the subtopic numbering on this page follows the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/).

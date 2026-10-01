@@ -14,7 +14,7 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-readers-writers-texts"
 description: "Original practice questions with full worked answers on narrative voice, form and how craft choices shape reader interpretation, for the Readers, Writers and Texts area of exploration of IB Diploma Programme Language A: Literature."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06

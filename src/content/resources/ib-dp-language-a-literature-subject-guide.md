@@ -8,7 +8,7 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language A: Literature"]
 description: "An overview of IB Diploma Programme Language A: Literature -- its exploration of literature across cultures and history, its three areas of exploration, and teaching hours at SL and HL."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22

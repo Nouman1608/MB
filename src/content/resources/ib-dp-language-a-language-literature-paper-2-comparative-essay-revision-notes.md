@@ -17,7 +17,7 @@ syllabusTopics:
     topic: "ib-dp-language-a-language-and-literature-time-and-space"
 description: "Condensed revision notes for the IB DP Language and Literature Paper 2 comparative essay: thesis patterns, paragraph steps, evidence and a self-test."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27

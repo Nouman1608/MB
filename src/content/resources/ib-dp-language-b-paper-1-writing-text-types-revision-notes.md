@@ -23,7 +23,7 @@ syllabusTopics:
     topic: "ib-dp-language-b-sharing-the-planet"
 description: "Condensed IB DP Language B revision notes for Paper 1 writing: register, audience, purpose and text-type conventions, with a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27

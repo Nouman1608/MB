@@ -15,7 +15,7 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-assessment-criteria"
 description: "Study guide to MYP Language Acquisition Criterion C: responding aloud to a multimodal text, interaction strategies, fluency, accuracy and pronunciation."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28

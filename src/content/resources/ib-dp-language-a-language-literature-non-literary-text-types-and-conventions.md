@@ -15,7 +15,7 @@ syllabusTopics:
     topic: "ib-dp-language-a-language-and-literature-readers-writers-and-texts"
 description: "IB DP Lang and Lit study guide to non-literary text types: adverts, editorials, speeches, blogs, infographics, photos, cartoons, reports, image and layout."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27

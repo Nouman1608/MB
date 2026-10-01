@@ -19,7 +19,7 @@ syllabusTopics:
     topic: "ib-dp-language-b-sharing-the-planet"
 description: "HL-only study guide for IB DP Language B: how to read your two literary works, discuss an extract step by step and link it to the prescribed themes."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27

@@ -19,7 +19,7 @@ syllabusTopics:
     topic: "ib-dp-language-b-sharing-the-planet"
 description: "Study guide to context, audience, purpose, meaning and variation in IB DP Language B, with register, tone and worked reading and writing examples."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27

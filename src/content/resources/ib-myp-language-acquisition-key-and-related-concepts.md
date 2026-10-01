@@ -17,7 +17,7 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-related-concepts"
 description: "IB MYP Language Acquisition study guide to communication, connections, creativity, culture, word choice, conventions and idiom, with worked examples."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28

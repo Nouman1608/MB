@@ -31,6 +31,8 @@ featured: false
 
 This practice set covers climate, biomes, zonation and succession for IB Diploma Programme Environmental Systems and Societies. It is aligned to the IB Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026, syllabus subtopics 2.4 (Climate and biomes) and 2.5 (Zonation, succession and change in ecosystems). All questions are core content for SL and HL. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.
 
+The brief gives Topic 2 Ecology 22 teaching hours at SL and 35 at HL. It does not list the subtopics or learning outcomes for this topic, so the numbered subtopics and outcomes on this page follow the syllabus numbering used in the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/), not the brief itself.
+
 The brief describes Paper 2 as short-answer and data-based questions plus structured essays; questions 1–11 practise the first style and question 12 the second. All data are fictional.
 
 Learn the content first in the [study guide](/resources/ib-dp-ess-climate-biomes-succession/) and [revision notes](/resources/ib-dp-ess-climate-biomes-succession-revision-notes/). The [IB DP ESS course hub](/boards/ib/ib-dp/environmental-systems-and-societies/) and [printable checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/) show where this unit sits. For broader Topic 2 practice, try the [Topic 2 Ecology practice set](/resources/ib-dp-ess-topic-2-ecology-practice/).
@@ -173,4 +175,4 @@ Learn the content first in the [study guide](/resources/ib-dp-ess-climate-biomes
 
 ## Official syllabus
 
-International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026.
+International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026. The brief lists subtopics for Topic 1 only; the subtopic numbering on this page follows the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/).

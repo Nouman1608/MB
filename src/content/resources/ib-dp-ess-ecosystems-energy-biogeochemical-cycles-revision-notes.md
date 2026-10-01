@@ -235,5 +235,7 @@ say:
 
 ## Official syllabus
 
-International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and
+International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and The brief lists subtopics for Topic 1 only; the subtopic numbering on this page follows the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/).
 societies*, first assessment 2026.
+
+The brief gives Topic 2 Ecology 22 teaching hours at SL and 35 at HL. It does not list the subtopics or learning outcomes for this topic, so the numbered subtopics and outcomes on this page follow the syllabus numbering used in the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/), not the brief itself.

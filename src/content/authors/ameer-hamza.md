@@ -6,7 +6,7 @@ bio: >-
 credentials: []
 image: "/images/faculty/ameer-hamza.jpg"
 entityType: person
-subjectsTaught: ["Biology"]
+subjectsTaught: ["Biology", "MYP Sciences"]
 boardsTaught: ["cambridge", "edexcel", "aqa", "oxfordaqa", "ib"]
 qualificationsTaught: []
 yearsExperience: 3

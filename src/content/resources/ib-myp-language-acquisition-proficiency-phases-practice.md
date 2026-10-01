@@ -16,7 +16,7 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-assessment-criteria"
 description: "Original practice questions with full worked answers on matching revision to proficiency level, the four criteria's equal weighting, and the compulsory-status exception, for IB MYP Language Acquisition."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06

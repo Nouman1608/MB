@@ -6,7 +6,7 @@ bio: >-
 credentials: []
 image: "/images/faculty/iftikhar-azeemi.jpg"
 entityType: person
-subjectsTaught: ["Physics"]
+subjectsTaught: ["Physics", "MYP Sciences"]
 boardsTaught: ["cambridge", "edexcel", "aqa", "ocr", "oxfordaqa", "ib"]
 qualificationsTaught: []
 yearsExperience: 30

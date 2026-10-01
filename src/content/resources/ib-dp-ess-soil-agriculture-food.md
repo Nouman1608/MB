@@ -25,6 +25,8 @@ featured: false
 
 This study guide teaches the soil, agriculture and food unit of IB Diploma Programme Environmental Systems and Societies (ESS). It is aligned to the IB Diploma Programme Subject Brief, *Environmental systems and societies*, and covers syllabus sections 5.1 (Soil) and 5.2 (Agriculture and food) of Topic 5, Land. Topic 5 is studied at both SL and HL: the brief recommends 8 teaching hours at SL and 15 at HL, and HL students study some topics in extra depth. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.
 
+The brief gives Topic 5 Land 8 teaching hours at SL and 15 at HL. It does not list the subtopics or learning outcomes for this topic, so the numbered subtopics and outcomes on this page follow the syllabus numbering used in the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/), not the brief itself.
+
 When you have worked through this page, test yourself with the [soil, agriculture and food revision notes](/resources/ib-dp-ess-soil-agriculture-food-revision-notes/) and the [practice questions](/resources/ib-dp-ess-soil-agriculture-food-practice/). The [IB DP ESS course hub](/boards/ib/ib-dp/environmental-systems-and-societies/) and the [printable syllabus checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/) show where Topic 5 sits. This unit builds directly on the nutrient cycling and energy flow in the [Topic 2 Ecology study guide](/resources/ib-dp-ess-topic-2-ecology/) and the perspectives, systems and sustainability ideas in [Topic 1 Foundations](/resources/ib-dp-ess-topic-1-foundations/).
 
 ## What this unit covers
@@ -194,4 +196,4 @@ Next, use the [revision notes](/resources/ib-dp-ess-soil-agriculture-food-revisi
 
 ## Official syllabus
 
-International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026. This guide covers syllabus sections 5.1 (Soil) and 5.2 (Agriculture and food) of Topic 5, Land.
+International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026. This guide covers syllabus sections 5.1 (Soil) and 5.2 (Agriculture and food) of Topic 5, Land. The brief lists subtopics for Topic 1 only; the subtopic numbering on this page follows the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/).

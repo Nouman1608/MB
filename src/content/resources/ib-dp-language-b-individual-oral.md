@@ -19,7 +19,7 @@ syllabusTopics:
     topic: "ib-dp-language-b-sharing-the-planet"
 description: "Study guide to the IB DP Language B individual oral: SL image and HL extract stimuli, planning a spoken presentation and handling the conversation."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27

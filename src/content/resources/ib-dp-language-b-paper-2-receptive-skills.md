@@ -21,7 +21,7 @@ syllabusTopics:
     topic: "ib-dp-language-b-social-organization"
 description: "Study guide to IB DP Language B Paper 2: locating evidence, paraphrase, inference, reference words, listening tactics and timing, with worked examples."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27

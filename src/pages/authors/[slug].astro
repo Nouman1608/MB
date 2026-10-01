@@ -179,6 +179,11 @@ const jsonLd = [
               These details were taken from <a href={d.sourceUrl} rel="noopener" target="_blank" class="underline decoration-gold-500 underline-offset-2">the published faculty listing</a>{d.verifiedOn && <> and last checked on {d.verifiedOn.toISOString().slice(0, 10)}</>}. Where a school is listed above, it records where this teacher has previously worked — it is not an endorsement of Marlbridge by that school.
             </p>
           )}
+          {!d.sourceUrl && d.sourceNote && (
+            <p class="m-0 mt-5 border-t border-rule pt-4 text-[13px] leading-relaxed text-ink-mute">
+              Source for these details: {d.sourceNote}
+            </p>
+          )}
         </section>
       )}
 

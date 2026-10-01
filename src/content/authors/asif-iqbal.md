@@ -6,7 +6,7 @@ bio: >-
 credentials: []
 image: "/images/faculty/asif-iqbal.jpg"
 entityType: person
-subjectsTaught: ["Business Studies"]
+subjectsTaught: ["Business Studies", "Economics"]
 boardsTaught: ["cambridge", "edexcel", "ib"]
 qualificationsTaught: []
 yearsExperience: 17

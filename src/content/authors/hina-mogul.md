@@ -7,7 +7,7 @@ credentials: []
 image: "/images/faculty/hina-mogul.jpg"
 entityType: person
 subjectsTaught: ["Biology"]
-boardsTaught: ["cambridge", "ib"]
+boardsTaught: ["cambridge", "ib", "aqa", "edexcel", "ocr", "oxfordaqa"]
 qualificationsTaught: []
 yearsExperience: 4
 previousSchools: ["De Montmorency College"]

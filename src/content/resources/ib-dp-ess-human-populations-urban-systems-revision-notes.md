@@ -30,6 +30,8 @@ For full explanations and worked examples, start with the [Human populations and
 
 They cover Topic 8, Human populations and urban systems, of IB Diploma Programme Environmental Systems and Societies, aligned to the International Baccalaureate *Diploma Programme Subject Brief: Environmental systems and societies*, first assessment 2026. They cover syllabus sections 8.1 (human populations), 8.2 (urban systems and urban planning) and 8.3 (urban air pollution), studied at both SL and HL (9 hours SL, 15 hours HL, so HL goes into more depth). It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.
 
+The brief gives Topic 8 Human populations and urban systems 9 teaching hours at SL and 15 at HL. It does not list the subtopics or learning outcomes for this topic, so the numbered subtopics and outcomes on this page follow the syllabus numbering used in the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/), not the brief itself.
+
 Test yourself afterwards with the [practice questions](/resources/ib-dp-ess-human-populations-urban-systems-practice/). The [IB DP ESS course hub](/boards/ib/ib-dp/environmental-systems-and-societies/) lists every topic, and the [printable syllabus checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/) lets you tick them off. For how the papers work, see the [ESS assessment revision notes](/resources/ib-dp-environmental-systems-and-societies-assessment-revision-notes/).
 
 ## Key definitions
@@ -192,4 +194,4 @@ A city is an **open system** that relies on land far beyond its boundary, so its
 
 ## Official syllabus
 
-International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026.
+International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026. The brief lists subtopics for Topic 1 only; the subtopic numbering on this page follows the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/).

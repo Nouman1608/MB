@@ -40,6 +40,12 @@
  *       future self-review field still cannot slip past silently in
  *       whichever collection nobody happened to grep by hand.
  *
+ *   [9] D-379 (audit I413) -- the reviewer's own profile must list every
+ *       exam board in the resource's `boards`, and [10] a subject that
+ *       covers the resource's `subject` (word-set match, so "Business
+ *       Studies" covers `business`). The site links each "Reviewed by" name
+ *       to that profile, so a reader could otherwise see the contradiction.
+ *
  * Exits 1 on any problem found, matching the other validate-*.mjs
  * scripts in this repo.
  */
@@ -59,7 +65,22 @@ function parseFrontmatter(raw) {
     reviewedDate: get(/^reviewedDate:\s*(\S+)/m),
     publishedDate: get(/^publishedDate:\s*(\S+)/m),
     resourceType: get(/^resourceType:\s*"?([\w-]+)"?/m),
+    subject: get(/^subject:\s*"?([\w-]+)"?/m),
+    boards: JSON.parse(get(/^boards:\s*(\[.*\])/m) ?? '[]'),
   };
+}
+
+// Filler words a profile may use that a subject slug does not ("Business
+// Studies" for `business`); every other word must match exactly, so
+// "English Literature" does not cover `english` (English Language).
+const FILLER = new Set(['studies', 'and', 'the', 'of']);
+const words = (t) => new Set(t.toLowerCase().split(/[^a-z0-9]+/).filter((w) => w && !FILLER.has(w)));
+function subjectCovered(subjectSlug, profileSubjects) {
+  const want = words(subjectSlug);
+  return profileSubjects.flatMap((s) => s.split('/')).some((entry) => {
+    const have = words(entry);
+    return have.size === want.size && [...want].every((w) => have.has(w));
+  });
 }
 
 function loadAuthors() {
@@ -69,7 +90,8 @@ function loadAuthors() {
     const raw = readFileSync(join(dir, file), 'utf-8');
     const fm = raw.split('---')[1] ?? '';
     const isReviewer = /^isReviewer:\s*true/m.test(fm);
-    authors.set(file.replace(/\.md$/, ''), { isReviewer });
+    const list = (key) => JSON.parse(fm.match(new RegExp(`^${key}:\\s*(\\[.*\\])`, 'm'))?.[1] ?? '[]');
+    authors.set(file.replace(/\.md$/, ''), { isReviewer, subjects: list('subjectsTaught'), boards: list('boardsTaught') });
   }
   return authors;
 }
@@ -95,6 +117,17 @@ function checkCollection(dir, label, authors, problems) {
 
     if (fm.reviewer && fm.author && fm.reviewer === fm.author) {
       problems.push(`[8] ${id} has reviewer "${fm.reviewer}" identical to author "${fm.author}" -- self-review is not independent review.`);
+    }
+
+    if (fm.reviewer && authors.has(fm.reviewer) && fm.reviewer !== 'marlbridge-academic-team') {
+      const prof = authors.get(fm.reviewer);
+      const missing = fm.boards.filter((b) => !prof.boards.includes(b));
+      if (missing.length) {
+        problems.push(`[9] ${id} names reviewer "${fm.reviewer}", whose profile does not list the board(s) ${missing.join(', ')}.`);
+      }
+      if (fm.subject && !subjectCovered(fm.subject, prof.subjects)) {
+        problems.push(`[10] ${id} names reviewer "${fm.reviewer}", whose profile subjects (${prof.subjects.join('; ') || 'none'}) do not cover "${fm.subject}".`);
+      }
     }
 
     if (fm.reviewedDate) {

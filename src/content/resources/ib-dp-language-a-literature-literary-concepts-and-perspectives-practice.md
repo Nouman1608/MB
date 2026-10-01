@@ -17,7 +17,7 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-intertextuality"
 description: "Original IB DP Language A: Literature practice: apply critical lenses to a Rossetti sonnet and new prose, then evaluate two rival interpretations."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27

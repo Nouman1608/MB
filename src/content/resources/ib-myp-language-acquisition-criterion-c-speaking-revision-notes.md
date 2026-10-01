@@ -15,7 +15,7 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-assessment-criteria"
 description: "Condensed MYP Language Acquisition Criterion C notes: speaking-task facts, stimulus method, interaction phrases, fluency and accuracy checks, self-test."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28

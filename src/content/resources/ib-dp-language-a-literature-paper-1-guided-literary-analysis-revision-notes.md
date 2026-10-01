@@ -17,7 +17,7 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-time-space"
 description: "Condensed IB DP Literature Paper 1 revision notes: the method in steps, poetry, prose and drama terms, key distinctions and a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27

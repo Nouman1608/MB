@@ -27,6 +27,8 @@ For full explanations and worked examples, start with the [soil, agriculture and
 
 They cover IB Diploma Programme Environmental Systems and Societies, aligned to the IB Diploma Programme Subject Brief, *Environmental systems and societies*: syllabus sections 5.1 (Soil) and 5.2 (Agriculture and food) of Topic 5, Land. The topic is studied at SL and HL (8 and 15 recommended teaching hours); HL students study some topics in extra depth. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.
 
+The brief gives Topic 5 Land 8 teaching hours at SL and 15 at HL. It does not list the subtopics or learning outcomes for this topic, so the numbered subtopics and outcomes on this page follow the syllabus numbering used in the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/), not the brief itself.
+
 Links: [ESS course hub](/boards/ib/ib-dp/environmental-systems-and-societies/) · [printable checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/) · [practice questions](/resources/ib-dp-ess-soil-agriculture-food-practice/) · [Topic 2 Ecology revision notes](/resources/ib-dp-ess-topic-2-ecology-revision-notes/) · [Topic 1 Foundations revision notes](/resources/ib-dp-ess-topic-1-foundations-revision-notes/) · [ESS assessment revision notes](/resources/ib-dp-environmental-systems-and-societies-assessment-revision-notes/)
 
 ## Key definitions
@@ -178,4 +180,4 @@ HL students apply the three HL-only lenses — environmental law, environmental 
 
 ## Official syllabus
 
-International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026. These notes cover syllabus sections 5.1 (Soil) and 5.2 (Agriculture and food) of Topic 5, Land.
+International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026. These notes cover syllabus sections 5.1 (Soil) and 5.2 (Agriculture and food) of Topic 5, Land. The brief lists subtopics for Topic 1 only; the subtopic numbering on this page follows the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/).

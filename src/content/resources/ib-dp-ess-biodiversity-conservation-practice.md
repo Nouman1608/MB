@@ -34,6 +34,8 @@ featured: false
 
 This practice set is for Topic 3, Biodiversity and conservation, of IB Diploma Programme Environmental Systems and Societies. It is aligned to the IB Diploma Programme Subject Brief, *Environmental systems and societies*, and covers syllabus sections 3.1–3.3: biodiversity and evolution, human impact on biodiversity, and conservation and regeneration. All questions suit both SL and HL; HL students study some topics in extra depth. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.
 
+The brief gives Topic 3 Biodiversity and conservation 13 teaching hours at SL and 26 at HL. It does not list the subtopics or learning outcomes for this topic, so the numbered subtopics and outcomes on this page follow the syllabus numbering used in the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/), not the brief itself.
+
 Learn the content first with the [biodiversity and conservation study guide](/resources/ib-dp-ess-biodiversity-conservation/) and the [revision notes](/resources/ib-dp-ess-biodiversity-conservation-revision-notes/). The [IB DP ESS course hub](/boards/ib/ib-dp/environmental-systems-and-societies/) and the [printable ESS syllabus checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/) show the whole course. For food-web questions, use the [Topic 2 Ecology practice set](/resources/ib-dp-ess-topic-2-ecology-practice/). All data below are invented.
 
 ## Questions
@@ -184,4 +186,4 @@ Simpson's reciprocal index: D = N(N − 1) / Σn(n − 1)
 
 ## Official syllabus
 
-International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026.
+International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026. The brief lists subtopics for Topic 1 only; the subtopic numbering on this page follows the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/).

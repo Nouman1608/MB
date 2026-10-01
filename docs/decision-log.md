@@ -14957,3 +14957,56 @@ Source: project doc `claude/audit-d354-d359-2026-09-27.md`, finding T-01.
 - Chemistry and framework pages (`nouman-ahmed`, 16) and physics pages (`iftikhar-azeemi`, 6) are unchanged.
 
 **Validation.** `validate-review-integrity` PASS; `npm run build` PASS; `npm run audit:all` 0 problems; `astro check` 0 errors. Rendered check: the 34 pages show "Marlbridge Academic Team" in the byline and `"author": {"@type": "Organization"}` in the Article schema, and the biology pages read "Reviewed by Ameer Hamza".
+
+## D-379 - Round 61: E948, U80 repaired; I413, I414 and U79 settled by the owner's answers (2026-10-01)
+
+Source: `docs/audit/2026-12-07-findings.md` (round 61, run 1 Oct 2026, 14:40 PKT; commit `8f5b44f`) and its REPAIR-WORK-ORDER note. Repaired 1 Oct 2026, about 19:45 PKT. The owner's answers were given in this session through multiple-choice questions on 1 Oct 2026; each is quoted below.
+
+- **E948 (`a-level-biology-cell-membranes-practice.md`, Q3).** On these pages the tariff after a question's last part is the total for the whole question. Q3 showed **[3]**, but its answer awards (a) Exocytosis [1] plus three points for (b), four in all. The tariff is now **[4]**. All four marking points are kept and none merged, so no content changed. Not applied as a corpus rule, per the finding's note; the auditor's sweep found no other case.
+- **U80 (IB ESS attribution).** The finding: pages cite the IB Subject Brief, but the brief "breaks out subtopics for Topic 1 only". The disclosure modelled on the Topic 2 page ("It does not list the subtopics, so … follow the syllabus numbering used in the printable ESS checklist") is now on all 21 pages the auditor listed. Whole family: it is also on the 4 other ESS pages that cite the brief, number subtopics and had no disclosure (climate-biomes-succession practice and revision notes; ecosystems-energy-biogeochemical-cycles practice and revision notes). 25 files in all.
+  - Each disclosure gives the topic's SL/HL teaching hours as the auditor verified them: 1 Foundation 16/16; 2 Ecology 22/35; 3 Biodiversity and conservation 13/26; 4 Water 12/25; 5 Land 8/15; 6 Atmosphere and climate change 10/23; 7 Natural resources 10/18; 8 Human populations and urban systems 9/15.
+  - Topic 1 pages say the brief names 1.1 to 1.3 but sets no outcomes.
+  - Each "Official syllabus" block adds that the brief lists subtopics for Topic 1 only.
+  - The subtopic tables are untouched, per the finding's note.
+- **I413 (reviewer credits against profiles).** Owner's answers, 1 Oct 2026:
+  - Hina Mogul: "Add boards to profile". AQA, Edexcel, OCR and OxfordAQA added.
+  - Sajawal Zahid: "Add to profile". Cambridge, OCR and Statistics added.
+  - IB language pages: "Move to Ammar Bilal". 136 credits moved from Lubna Waseem to Ammar Bilal, whose profile already lists Language A (both), Language B and MYP Language Acquisition.
+  - The smaller cases: "Add to profiles". AQA and OxfordAQA for Javaid Iqbal Sabri; OCR for Farhat ul Ain Sehgal; MYP Sciences for Nouman Ahmed, Ameer Hamza and Iftikhar Azeemi; Economics for Asif Iqbal.
+  - Ammar Bilal on 61 English pages (subject `english`): "Add to Ammar profile". "English" added; his profile had English Literature only.
+
+  The MYP Sciences answer supersedes D-340's "MYP Sciences: none". Those three teachers, and Asif Iqbal for Economics, now appear in the subject-teacher lists that `subject-teachers.ts` builds from the same profiles.
+
+  New validator rules in `scripts/validate-review-integrity.mjs`, the place the auditor suggested:
+  - **[9]** the reviewer's profile must list every board in the resource's `boards`;
+  - **[10]** a subject in the reviewer's profile must match the resource's subject (same words, ignoring "Studies"), so "English Literature" does not cover `english`.
+
+  On the pre-fix data the rules find 260 board mismatches (the auditor's 260) and 249 subject mismatches. After the fix: 0. Two new cases in the negative suite prove each rule rejects a bad credit.
+- **I414 (profiles with no source).** Owner's answer: "Owner, in writing". Ammar Bilal, Harris Khan and Farhat ul Ain Sehgal now carry `verifiedOn: 2026-10-01` and a new optional field `sourceNote`: "Confirmed in writing by Nouman Ahmed, owner, 1 October 2026." It is in `content.config.ts`, and the profile shows it where the other nineteen show the faculty-listing link.
+- **U79 (what "Reviewed by" means).** Owner's answer: "Say 'accountable'".
+  - **Editorial & Trust Policy:** it now says the "Reviewed by" line names the subject teacher accountable for the page's accuracy, who answers questions and corrections about it. It is not a record of a dated, line-by-line check, and the site does not claim one. The teacher is never the author, and their profile lists the subject and board of every page they are named on; both rules are checked at build time.
+  - **/about/:** the same change replaces "a genuine, accountable second check … only where that check has actually taken place".
+  - **Resource and article pages:** the review date ("on 29 Sep 2026") is no longer shown, because it read as a review event. In its place is a "(what this means)" link to the policy section. The `reviewedDate` data is kept.
+- **Found while running the gates, both already failing on `main` before this entry:**
+  - `TRIAL_TEACHERS` lacked Farhat ul Ain Sehgal, so the trial-teachers test failed. She is added.
+  - The negative suite had two stale fixtures. The review fixture gained reviewer lines in the 28–29 Sep credit sweep, so each review mutation now strips them first, and the not-a-reviewer case uses Jawad Tariq because Aizaz Raoof Ali is now a reviewer. The llms.txt derivation test now uses the still-empty learning-articles category, since past-paper guides now exist.
+
+Validation:
+- build OK;
+- `audit:all` PASS, 0 problems across 3,081 pages;
+- `check` 0 errors;
+- `test:i18n-routes` OK;
+- `test:tools` 110 / 0;
+- `test:api` 88 / 0;
+- `test:practice-analytics` OK;
+- negative-validation suite 0;
+- cross-board regression 0;
+- `node --test` 169 / 0;
+- `validate-review-integrity` PASS.
+
+Rendered checks:
+- the cell-membranes Q3(b) shows [4];
+- "Reviewed by Hina Mogul (what this means)";
+- Ammar Bilal's profile shows the source note;
+- the policy shows the new wording;
+- the ESS Land page shows the disclosure.

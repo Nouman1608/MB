@@ -28,6 +28,8 @@ featured: false
 
 This study guide teaches Topic 3, Biodiversity and conservation, of IB Diploma Programme Environmental Systems and Societies (ESS). It is aligned to the IB Diploma Programme Subject Brief, *Environmental systems and societies*, and covers syllabus sections 3.1 (biodiversity and evolution), 3.2 (human impact on biodiversity) and 3.3 (conservation and regeneration). The topic is studied at both SL and HL: the brief gives it 13 teaching hours at SL and 26 at HL, so HL students study some topics in extra depth. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.
 
+The brief gives Topic 3 Biodiversity and conservation 13 teaching hours at SL and 26 at HL. It does not list the subtopics or learning outcomes for this topic, so the numbered subtopics and outcomes on this page follow the syllabus numbering used in the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/), not the brief itself.
+
 When you have worked through this guide, move on to the [biodiversity and conservation revision notes](/resources/ib-dp-ess-biodiversity-conservation-revision-notes/) and then test yourself with the [biodiversity and conservation practice questions](/resources/ib-dp-ess-biodiversity-conservation-practice/). The [IB DP ESS course hub](/boards/ib/ib-dp/environmental-systems-and-societies/) and the [printable ESS syllabus checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/) show where this unit sits in the course.
 
 This topic builds directly on the [Topic 2 Ecology study guide](/resources/ib-dp-ess-topic-2-ecology/) (niches, food webs, succession) and on the systems and sustainability ideas in the [Topic 1 Foundations study guide](/resources/ib-dp-ess-topic-1-foundations/). The [ESS syllabus guide](/resources/ib-dp-environmental-systems-and-societies-syllabus-guide/) shows how Topic 3 fits the whole course, and the [ESS exam preparation guide](/resources/ib-dp-environmental-systems-and-societies-exam-preparation/) explains how the papers are set.
@@ -229,4 +231,4 @@ The single reserve has more than twice the core area for the same land. Several 
 
 ## Official syllabus
 
-International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026.
+International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026. The brief lists subtopics for Topic 1 only; the subtopic numbering on this page follows the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/).

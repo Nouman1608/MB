@@ -10,7 +10,7 @@ syllabusSeries: "First assessment 2020"
 order: 1
 description: "Condensed recall notes on the assessment structure -- papers, weightings and the individual oral -- for IB Diploma Programme Language B, common to SL and HL."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26

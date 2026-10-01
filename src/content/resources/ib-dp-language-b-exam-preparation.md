@@ -11,7 +11,7 @@ syllabusSeries: "First assessment 2020"
 order: 6
 description: "Paper-by-paper exam preparation for IB Diploma Programme Language B -- matching Paper 1's text type to its purpose, extracting specific detail on Paper 2, moving beyond description on the individual oral, a worked scenario and a checklist."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07

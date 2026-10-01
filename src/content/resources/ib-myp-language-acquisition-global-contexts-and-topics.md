@@ -15,7 +15,7 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-global-contexts"
 description: "IB MYP Language Acquisition study guide: use the six global contexts to build topic word banks and reuse them across listening, reading, speaking, writing."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28

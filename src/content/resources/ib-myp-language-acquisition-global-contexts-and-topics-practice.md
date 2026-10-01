@@ -15,7 +15,7 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-global-contexts"
 description: "Original IB MYP Language Acquisition practice on global contexts, topic word banks and reusing vocabulary across Criteria A to D, with model answers."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28

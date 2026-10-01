@@ -19,7 +19,7 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-intertextuality"
 description: "Original IB DP Language A: Literature HL essay practice on Chopin: line of inquiry, analysis, referencing, word-budget and essay-plan tasks."
 author: "marlbridge-academic-team"
-reviewer: "lubna-waseem"
+reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
