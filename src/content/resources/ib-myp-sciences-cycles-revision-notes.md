@@ -16,8 +16,8 @@ syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-related-concepts"
 description: "Condensed IB MYP Sciences revision notes on the carbon, water, nitrogen and rock cycles, with key terms, human impacts and a quick self-test."
-author: "ameer-hamza"
-reviewer: "hina-mogul"
+author: "marlbridge-academic-team"
+reviewer: "ameer-hamza"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28

@@ -16,8 +16,8 @@ syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-related-concepts"
 description: "Original IB MYP Sciences metabolism questions on enzymes, respiration, photosynthesis and digestion, with criterion B design and C data tasks."
-author: "ameer-hamza"
-reviewer: "hina-mogul"
+author: "marlbridge-academic-team"
+reviewer: "ameer-hamza"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28

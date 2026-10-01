@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-related-concepts"
 description: "IB MYP Sciences study guide to forces: types of force, resultant force, Newton's laws, motion graphs, pressure and moments, with worked examples."
-author: "ameer-hamza"
+author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29

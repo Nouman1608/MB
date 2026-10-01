@@ -16,8 +16,8 @@ syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-related-concepts"
 description: "IB MYP Sciences study guide to variation, natural selection, evidence for evolution, food webs, competition, symbiosis and population sampling."
-author: "ameer-hamza"
-reviewer: "hina-mogul"
+author: "marlbridge-academic-team"
+reviewer: "ameer-hamza"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28

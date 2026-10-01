@@ -12,7 +12,7 @@ syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-assessment-criteria"
 description: "Original scenario-based practice questions with full worked answers testing whether sample investigative evidence would meet top-band standard for each of MYP Sciences's four assessment criteria."
-author: "ameer-hamza"
+author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29

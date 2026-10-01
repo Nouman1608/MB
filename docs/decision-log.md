@@ -14942,3 +14942,18 @@ Source: project doc `claude/audit-d354-d359-2026-09-27.md`, finding T-01.
 - **Raised with the owner first:** the public GitHub repository outranks the site for "marlbridge IGCSE". Making it private is the owner's decision.
 - **Validation:** build PASS; `audit:all` PASS (structured data: 0 problems, Article author is the Marlbridge Academic Team organisation); `validate:academic` PASS; cross-board regression PASS; `test:tools` PASS. `test-negative-validation-suite.mjs` has the same 3 failures on `main` without this change (llms.txt "past papers" precondition; two review-integrity mutations) and needs its own fix.
 - **Check at day 28:** impressions and position for the six new URLs and for 4040 topic queries.
+
+## D-378 - MYP Sciences byline reverted to the Marlbridge Academic Team; Ameer Hamza credited as reviewer (2026-10-01)
+
+**Made by the audit instance at the owner's request** (1 Oct 2026), after the audit's check of the 22-29 September work reported the author claim as a confirmed error.
+
+**Problem.** D-376 recorded the fixer's objection and then applied the owner's override: all 34 IB MYP Sciences resources carried `author: ameer-hamza`, so each page displayed "Author Ameer Hamza" and its schema.org `Article` named him as the author. Marlbridge wrote those pages on 28 September (D-375); he did not write them. This is the claim class D-134 rescinded and D-283 settled, and it sits against the site's own Editorial & Trust Policy ("Being credited as an author is a separate role from being a reviewer").
+
+**Owner decision (1 Oct 2026).** Revert the byline and keep his name in the reviewer field.
+
+**Change.**
+- All 34 MYP Sciences resources: `author` back to `marlbridge-academic-team`.
+- The 12 biology-domain pages (cells and organisms, evolution and interactions, metabolism, cycles in science): `reviewer` moved from `hina-mogul` to `ameer-hamza`. He teaches Biology (`subjectsTaught: ["Biology"]`), the owner named him for these pages, and rule [8] no longer blocks him now that he is not the author. Hina Mogul keeps her 225 other credits; if the owner would rather she kept these twelve, say so and they go back.
+- Chemistry and framework pages (`nouman-ahmed`, 16) and physics pages (`iftikhar-azeemi`, 6) are unchanged.
+
+**Validation.** `validate-review-integrity` PASS; `npm run build` PASS; `npm run audit:all` 0 problems; `astro check` 0 errors. Rendered check: the 34 pages show "Marlbridge Academic Team" in the byline and `"author": {"@type": "Organization"}` in the Article schema, and the biology pages read "Reviewed by Ameer Hamza".

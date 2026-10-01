@@ -16,8 +16,8 @@ syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-related-concepts"
 description: "IB MYP Sciences study guide to the carbon, water, nitrogen and rock cycles, human impacts on them and how to write a criterion D response."
-author: "ameer-hamza"
-reviewer: "hina-mogul"
+author: "marlbridge-academic-team"
+reviewer: "ameer-hamza"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28

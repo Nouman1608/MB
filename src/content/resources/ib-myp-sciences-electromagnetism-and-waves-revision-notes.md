@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-related-concepts"
 description: "Condensed IB MYP Sciences revision notes on electromagnetism and waves: key rules, v = fλ methods, the EM spectrum table and a checked self-test."
-author: "ameer-hamza"
+author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29

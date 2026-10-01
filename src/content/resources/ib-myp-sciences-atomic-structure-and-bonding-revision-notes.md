@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-related-concepts"
 description: "Condensed revision notes on atomic structure, isotopes, ions and ionic, covalent and metallic bonding, with a self-test, for IB MYP Sciences years 4 and 5."
-author: "ameer-hamza"
+author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29

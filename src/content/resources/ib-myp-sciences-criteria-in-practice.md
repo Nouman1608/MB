@@ -12,7 +12,7 @@ syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-assessment-criteria"
 description: "Worked, criterion-by-criterion guidance on what top-band evidence actually looks like for MYP Sciences's four assessment criteria -- Knowing and understanding, Inquiring and designing, Processing and evaluating, and Reflecting on the impacts of science."
-author: "ameer-hamza"
+author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
