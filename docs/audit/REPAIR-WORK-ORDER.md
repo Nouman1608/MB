@@ -10,30 +10,37 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-> **Status note, 1 Oct 2026 14:40 PKT (round 61):** the figure below (E936 open, round 40) is
-> stale — E936 was closed in round 42 (label `2026-11-18`, D-257 read), and round 60 reported no
-> finding open. **Round 61 (label `2026-12-07`) read the 666 resource files added between
-> 21 September and 1 October and opens five findings.** Four are yours:
+> **Status note, 1 Oct 2026 20:35 PKT (round 62):** the figure below (E936 open, round 40) is
+> stale — E936 was closed in round 42. **D-379 repaired all five round-61 findings and round 62
+> verified every one of them: E948, U80, I413, I414 and U79 are closed.** Good work; rules [9]
+> and [10] were mutation-tested, not taken on trust, and both bite. **Two new findings are open,
+> both from the same round:**
 >
-> 1. **E948** — `a-level-biology-cell-membranes-practice.md` Q3 is marked **[3]** and its answer
->    carries four `[1]` marking points. Raise the tariff or merge two points. **Read the
->    finding's "Note for correction" first:** this is not a corpus-wide pattern. Answers that
->    list more markers than the tariff are correct wherever they say "any two of", "1 mark each"
->    or set out a band; all of those were checked and are right.
-> 2. **U80** — 21 of the 36 `ib-dp-ess-*` resources say they are "aligned to the IB Diploma
->    Programme Subject Brief" and then give numbered subtopics (3.1, 3.2, 3.3 …) with "what you
->    must be able to do" outcomes. The brief breaks out subtopics for Topic 1 only. The three
->    Topic 2 pages in the same set already disclose this correctly and are the model. Do **not**
->    delete the subtopic tables — the problem is the attribution, not the content.
-> 3. **I413** — 509 resources credit a reviewer whose profile's `subjectsTaught` or
->    `boardsTaught` does not cover that subject or board. Needs the owner's decision on which
->    side is wrong before either is touched.
-> 4. **I414** — `ammar-bilal`, `harris-khan` and `farhat-ul-ain-sehgal` have no `sourceUrl` or
->    `verifiedOn`; the other nineteen profiles do. Owner input needed.
+> 1. **E949 (confirmed error, 1,988 pages)** — D-379 changed what the page says to a reader and
+>    left what it says to a machine. Every page with a "Reviewed by" line still emits
+>    `"editor": {"@type":"Person","name":"…"}` in its JSON-LD, which tells Google and every
+>    crawler that the named teacher edited the page — the claim the visible text was just
+>    changed to stop making. **Drop `editor`** from `src/utils/schema/article.ts` and the two
+>    templates that pass it. **Do not substitute `reviewedBy`, `contributor` or any other person
+>    property** — the policy's position is that no claim is made, so the right representation is
+>    no property. Four comment blocks still describe the old system and need rewording with it
+>    (`resources/[slug].astro:316`, and `reviewStatus`, `reviewedByTeachers` and `reviewedDate`
+>    in `content.config.ts`).
+> 2. **I415 (inconsistency)** — `validate-review-integrity.mjs` rule [10] matches a profile
+>    entry against the subject *slug* as an unordered word set; `subject-teachers.ts` matches it
+>    against the subject *display title* as an ordered string. So "MYP Sciences" satisfies the
+>    validator but does not match `Sciences (MYP)`, and the three teachers D-379 records as now
+>    appearing on the MYP Sciences pages **gained zero listings**. D-340's "MYP Sciences: none"
+>    still stands on the site, by accident. The owner decides whether it should; then make the
+>    two matchers agree, most cleanly by giving `subject-teachers.ts` rule [10]'s word-set
+>    comparison.
 >
-> **U79** (the 1,987 "Reviewed by" credits) is with the owner, not with you. **E947** was raised
-> and closed inside round 61 by D-378, which the audit instance made at the owner's request.
-> See `2026-12-07-findings.md` and `README.md` for the limits of all of this.
+> For the record, and not a criticism: D-379's report that two tests were already failing on
+> `main` is accurate — they fail at `5dceb1f`, `9837c70` and `8f5b44f` and pass at `fa3f1a4`,
+> and D-377 had disclosed them in writing at the time. See `2026-12-08-findings.md`.
+>
+> *Superseded (25 Sep 2026 00:10 PKT, D-328), kept as history:* "No repair work from the audit
+> is open."
 >
 > *Superseded (25 Sep 2026 00:10 PKT, D-328), kept as history:* "No repair work from the audit
 > is open."
