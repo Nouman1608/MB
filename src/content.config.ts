@@ -152,12 +152,12 @@ const resources = defineCollection({
      */
     reviewer: reference('authors').optional(),
     /**
-     * Real publication/review workflow state. Defaults to
-     * 'review-pending' -- being assigned a reviewer does NOT mean a
-     * review has actually happened; that only becomes 'reviewed' once a
-     * human with subject expertise has actually checked the content and
-     * the site's editorial policy records that. See docs/decision-log.md
-     * D-006 and src/pages/legal/editorial-policy.astro.
+     * Publication workflow state. Defaults to 'review-pending'. 'reviewed'
+     * means a named subject teacher (`reviewer`) is credited as accountable
+     * for the page's accuracy and the page shows "Reviewed by [name]". Since
+     * D-379 (owner, 1 Oct 2026) that is NOT a claim that a dated,
+     * line-by-line check took place; see the "Academic review policy"
+     * section of src/pages/legal/editorial-policy.astro.
      */
     reviewStatus: z.enum(['draft', 'review-pending', 'reviewed', 'changes-requested', 'archived']).default('review-pending'),
     /**
@@ -174,18 +174,17 @@ const resources = defineCollection({
      * This is entirely separate from `reviewStatus`/`reviewer`/
      * `reviewedDate` above (the QIGT programme's stricter, per-resource,
      * named-and-accountable reviewer system, enforced by
-     * scripts/validate-review-integrity.mjs) -- that system, and the more
-     * specific "Reviewed by [Name]" byline and schema.org `editor` claim it
-     * gates, are completely unchanged and untouched by this decision.
+     * scripts/validate-review-integrity.mjs). That system's "Reviewed by
+     * [Name]" line names the accountable subject teacher (D-379); it emits
+     * no structured-data property (D-380).
      */
     reviewedByTeachers: z.boolean().default(false),
     /**
-     * QIGT programme -- when a genuine human review actually took place.
-     * Distinct from publishedDate/updatedDate (authoring dates) and from
-     * merely having a `reviewer` assigned (assignment is not completion).
-     * Only meaningful once reviewStatus is 'reviewed' or
-     * 'changes-requested'; validated by scripts/validate-review-integrity.mjs
-     * to never precede publishedDate and never be in the future.
+     * The date the `reviewer` credit was applied to this page (for most
+     * pages, 28 or 29 Sep 2026). Not a record that a review took place on
+     * that date, and not shown on the page since D-379. Validated by
+     * scripts/validate-review-integrity.mjs never to precede publishedDate
+     * and never to be in the future.
      */
     reviewedDate: z.coerce.date().optional(),
     publishedDate: z.coerce.date(),
@@ -206,7 +205,7 @@ const articles = defineCollection({
     author: reference('authors'),
     reviewer: reference('authors').optional(),
     reviewStatus: z.enum(['draft', 'review-pending', 'reviewed', 'changes-requested', 'archived']).default('review-pending'),
-    /** QIGT programme -- see the matching field on the resources collection above for full rationale. */
+    /** The date the reviewer credit was applied -- see the matching field on the resources collection above. */
     reviewedDate: z.coerce.date().optional(),
     publishedDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),

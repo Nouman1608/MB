@@ -15010,3 +15010,48 @@ Rendered checks:
 - Ammar Bilal's profile shows the source note;
 - the policy shows the new wording;
 - the ESS Land page shows the disclosure.
+
+## D-380 - Round 62: E949 (no `editor` in structured data) and I415 (one subject matcher; MYP Sciences teachers shown) (2026-10-01)
+
+Source: `docs/audit/2026-12-08-findings.md` (round 62, commit `e20e5cc`). The round verified D-379 and closed E948, U80, I413, I414 and U79, then opened E949 and I415. Repaired 1 Oct 2026, about 21:30 PKT.
+
+- **E949.** The finding: every page with a "Reviewed by" line still emitted `"editor": { "@type": "Person", … }`, which "asserts to Google, to AI crawlers … exactly the claim the visible text was changed to stop making".
+  - `editor` is removed from `articleNode` (`src/utils/schema/article.ts`), and both templates (`resources/[slug].astro`, `articles/[slug].astro`) no longer pass it.
+  - No other person property replaces it, per the finding's note. A comment in `article.ts` now says not to add `editor`, `reviewedBy`, `contributor` or any other person property.
+  - The comment blocks were rewritten to match the D-379 policy:
+    - `reviewStatus`, `reviewedByTeachers` and `reviewedDate` (resources and articles) in `content.config.ts`; `reviewedDate` now says it is the date the credit was applied, not a review date;
+    - the provenance comment at `resources/[slug].astro` and the "genuine review evidence" block above it;
+    - the header of `scripts/audit-review-coverage.mjs`.
+  - New guard **[4]** in `audit-review-coverage.mjs`, part of `audit:all`: no built page's JSON-LD may carry `editor` or `reviewedBy`. A page with an injected `editor` fails the audit with [4], and passes again once restored.
+  - Rendered check: `grep '"editor"'` across the build returns 0 pages (1,988 before).
+- **I415.** Owner's answer, 1 Oct 2026, to whether the MYP Sciences pages should list Nouman Ahmed, Ameer Hamza and Iftikhar Azeemi: "Show the three". Both matchers now import one rule from the new `src/utils/content/subject-match.mjs`:
+  - split a profile entry on "/";
+  - a part matches when its set of words equals the subject's, ignoring case, punctuation and "Studies".
+
+  So "MYP Sciences" now matches both the display title "Sciences (MYP)" and the slug `myp-sciences`. The word "and" is not ignored, so "Language A: Literature" still does not cover "Language A: Language and Literature".
+
+  The two users of the rule are `subject-teachers.ts` (public teacher lists, which compared ordered strings before) and `validate-review-integrity.mjs` rule [10] (which compared word sets).
+
+  Measured effect, comparing every built page before and after the change:
+
+  | Where | Change |
+  |---|---|
+  | Resource pages (teacher block) | Nouman Ahmed, Ameer Hamza and Iftikhar Azeemi added on the 34 MYP Sciences pages each |
+  | Other pages (author links) | The same three added on the MYP Sciences hub (3 board pages in all) |
+  | Everything else | No teacher added or removed anywhere |
+
+  This is what D-379 meant to record. For the record of D-379 itself, per the auditor: it added 394 public teacher listings (Sajawal Zahid 154, Hina Mogul 84, Ammar Bilal 61, Asif Iqbal 59, Javaid Iqbal Sabri 22, Farhat ul Ain Sehgal 14), each following from the owner's answers.
+- **Q443:** noted, no repair needed. The audit confirms the `node --test` breakage predated D-378 and that D-379 cleared it.
+
+Validation:
+- build OK;
+- `audit:all` PASS, 0 problems across 3,081 pages, with the new [4];
+- `check` 0 errors;
+- `test:i18n-routes` OK;
+- `test:tools` 110 / 0;
+- `test:api` 88 / 0;
+- `test:practice-analytics` OK;
+- negative-validation suite 0;
+- cross-board regression 0;
+- `node --test` 169 / 0;
+- `validate-review-integrity` PASS.

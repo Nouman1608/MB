@@ -9,23 +9,17 @@ import { absoluteUrl } from '../seo/meta';
  * — it matches the fallback name below ('Marlbridge Academic Team'),
  * which is also not a person.
  */
+/**
+ * D-380 (audit E949) -- no `editor`. The "Reviewed by" line names the subject
+ * teacher accountable for a page; it is not a claim that the person edited or
+ * checked it (editorial policy, D-379). schema.org has no "accountable person"
+ * property, so the structured data carries no reviewer property at all. Do not
+ * add `editor`, `reviewedBy`, `contributor` or any other person property for it.
+ */
 export function articleNode(opts: {
   path: string; headline: string; description: string;
   published: Date; updated?: Date; authorName: string;
   authorEntityType?: 'person' | 'organization'; image?: string;
-  /**
-   * QIGT programme -- ONLY pass these when a genuine review has actually
-   * happened (reviewStatus === 'reviewed', reviewer resolves to a real
-   * authors-collection entry with isReviewer: true). The caller (resource
-   * and article page templates) computes this from the exact same data
-   * used to render the on-page "Reviewed by" byline, so schema can never
-   * claim a reviewer the page itself doesn't visibly show -- there is no
-   * separate path for the schema value to diverge from the display value.
-   * schema.org's Article has no dedicated "reviewedBy" property; `editor`
-   * is the correct standard CreativeWork property for a named person who
-   * checked/edited the content before publication.
-   */
-  editorName?: string; editorEntityType?: 'person' | 'organization';
 }) {
   return {
     '@type': 'Article',
@@ -38,8 +32,5 @@ export function articleNode(opts: {
     publisher: { '@id': absoluteUrl('/#organization') },
     mainEntityOfPage: { '@id': absoluteUrl(opts.path) + '#webpage' },
     ...(opts.image ? { image: absoluteUrl(opts.image) } : {}),
-    ...(opts.editorName
-      ? { editor: { '@type': opts.editorEntityType === 'organization' ? 'Organization' : 'Person', name: opts.editorName } }
-      : {}),
   };
 }

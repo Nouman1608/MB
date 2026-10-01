@@ -217,15 +217,12 @@ if (d.syllabusSeries) alignedToText += `, ${d.syllabusSeries}`;
 alignedToText += '.';
 
 /**
- * QIGT programme -- genuine review evidence, computed ONCE and reused for
- * both the visible "Reviewed by" byline below and the schema.org `editor`
- * property, so the two can never disagree. Requires ALL of: reviewStatus
- * is actually 'reviewed' (not just a reviewer being assigned -- assignment
- * alone stays review-pending), the reviewer reference resolves to a real
- * authors-collection entry, and that entry is flagged isReviewer: true.
- * `changes-requested` and `review-pending` never display or claim review,
- * on purpose -- see scripts/validate-review-integrity.mjs for the
- * build-time enforcement of this same rule.
+ * When the "Reviewed by" line shows. Since D-379 that line names the subject
+ * teacher accountable for the page (editorial policy), not a dated check, and
+ * since D-380 it feeds no structured data. It shows only when reviewStatus is
+ * 'reviewed', the reviewer resolves to a real profile and that profile is
+ * isReviewer: true; scripts/validate-review-integrity.mjs enforces the same
+ * rule plus reviewer != author and the profile-coverage rules [9]/[10].
  */
 const reviewerEntry = d.reviewer ? await getEntry(d.reviewer) : undefined;
 const genuinelyReviewed = d.reviewStatus === 'reviewed' && !!reviewerEntry && reviewerEntry.data.isReviewer === true;
@@ -254,9 +251,6 @@ const jsonLd = [articleNode({
   updated: d.updatedDate,
   authorName: author?.data.name ?? 'Marlbridge Academic Team',
   authorEntityType: author?.data.entityType ?? 'organization',
-  ...(genuinelyReviewed
-    ? { editorName: reviewerEntry!.data.name, editorEntityType: reviewerEntry!.data.entityType }
-    : {}),
 }), ...videoNodes(videos)];
 ---
 <PageLayout
@@ -312,8 +306,8 @@ const jsonLd = [articleNode({
       block (Flagship Dominance/Trust programme, D-092) was RESCINDED by
       explicit owner decision 2026-09-05 -- see docs/decision-log.md D-134 and
       reviewedByTeachers in src/content.config.ts. No blanket or non-attributed
-      review claim is made; this block is independent of, and unrelated to,
-      the genuine named-reviewer byline above, which is untouched. */}
+      review claim is made; this block is independent of the "Reviewed by"
+      line above, which names the accountable subject teacher (D-379). */}
   <div slot="hero-extra" data-testid="resource-provenance" class="mt-6 max-w-[62ch] rounded-sm border border-rule bg-ivory px-5 py-4 text-[14px] leading-relaxed text-ink-mute">
     <p class="m-0">
       {alignedToText}{officialSyllabuses.map((s) => (

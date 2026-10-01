@@ -51,6 +51,7 @@
  */
 import { readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
+import { subjectCovered as covered } from '../src/utils/content/subject-match.mjs';
 
 const TODAY = new Date();
 
@@ -70,18 +71,8 @@ function parseFrontmatter(raw) {
   };
 }
 
-// Filler words a profile may use that a subject slug does not ("Business
-// Studies" for `business`); every other word must match exactly, so
-// "English Literature" does not cover `english` (English Language).
-const FILLER = new Set(['studies', 'and', 'the', 'of']);
-const words = (t) => new Set(t.toLowerCase().split(/[^a-z0-9]+/).filter((w) => w && !FILLER.has(w)));
-function subjectCovered(subjectSlug, profileSubjects) {
-  const want = words(subjectSlug);
-  return profileSubjects.flatMap((s) => s.split('/')).some((entry) => {
-    const have = words(entry);
-    return have.size === want.size && [...want].every((w) => have.has(w));
-  });
-}
+// D-380 (audit I415) -- the same matcher the public teacher lists use.
+const subjectCovered = (subjectSlug, profileSubjects) => covered(profileSubjects, subjectSlug);
 
 function loadAuthors() {
   const dir = 'src/content/authors';

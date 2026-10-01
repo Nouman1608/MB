@@ -10,9 +10,9 @@
  * subject, labelled as teachers -- never as author or reviewer -- and the
  * byline and Article schema are left exactly as they were.
  *
- * Matching is by subject name, normalised: case-insensitive, "Studies"
- * dropped, and a profile entry like "Islamiyat / Pakistan Studies" counts for
- * each part. IB-only subjects (e.g. "Language B") match nobody, so they show
+ * Matching is by subject name, through src/utils/content/subject-match.mjs
+ * (D-380): the same set of words, in any order, ignoring case and "Studies";
+ * a profile entry like "Islamiyat / Pakistan Studies" counts for each part. IB-only subjects (e.g. "Language B") match nobody, so they show
  * no block rather than a guessed teacher.
  *
  * D-334 -- when the page belongs to known boards, only teachers whose
@@ -22,14 +22,11 @@
  */
 import type { CollectionEntry } from 'astro:content';
 import { getAuthors } from './collections';
-
-const normalise = (s: string) =>
-  s.toLowerCase().replace(/\bstudies\b/g, '').replace(/[^a-z]+/g, ' ').trim();
+// D-380 (audit I415) -- the same matcher as validate-review-integrity rule [10].
+import { subjectCovered } from './subject-match.mjs';
 
 export function teacherMatchesSubject(subjectsTaught: readonly string[], subjectTitle: string): boolean {
-  const target = normalise(subjectTitle);
-  if (!target) return false;
-  return subjectsTaught.some((entry) => entry.split('/').some((part) => normalise(part) === target));
+  return subjectCovered(subjectsTaught, subjectTitle);
 }
 
 let cache: CollectionEntry<'authors'>[] | undefined;

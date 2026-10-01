@@ -18,8 +18,9 @@
  * or a resource file explicitly opting back in without a documented
  * decision). It is DELIBERATELY separate from the stricter QIGT
  * `reviewStatus`/`reviewer` system (scripts/validate-review-integrity.mjs),
- * which still gates the more specific named-reviewer byline and schema.org
- * `editor` claim and is untouched by either D-092 or D-134.
+ * which gates the "Reviewed by [name]" line (since D-379 it names the
+ * accountable subject teacher, not a dated check; since D-380 it feeds no
+ * structured data).
  *
  * Reads the BUILT site (run `npm run build` first, same convention as the
  * other dist-dependent audits in this repo) and checks:
@@ -36,6 +37,9 @@
  *       restate the rescinded blanket claim ("All Marlbridge study
  *       resources are reviewed by teachers" / the retired trust line), and
  *       does not go silent on review policy entirely.
+ *   [4] D-380 (audit E949): no built page's JSON-LD carries an `editor`
+ *       (or `reviewedBy`) property -- the "Reviewed by" line is not a claim
+ *       that anyone edited or checked the page.
  *
  * Negative-tested by scripts/test-negative-validation-suite.mjs ([AA]): a
  * built resource page has the retired trust line reintroduced, this script
@@ -94,6 +98,19 @@ for (const file of resourceHtmlFiles) {
   const html = await readFile(file, 'utf-8');
   if (html.includes(RETIRED_TRUST_LINE)) {
     problems.push(`[2] ${file} renders the retired "${RETIRED_TRUST_LINE}" trust line, which the owner's D-134 decision rescinded -- this looks like a template regression.`);
+  }
+}
+
+// [4] D-380 -- no JSON-LD anywhere names an editor or reviewer.
+let jsonLdPagesChecked = 0;
+for (const file of await walkHtml(DIST)) {
+  const html = await readFile(file, 'utf-8');
+  for (const m of html.matchAll(/<script[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/g)) {
+    jsonLdPagesChecked++;
+    if (/"(editor|reviewedBy)"\s*:/.test(m[1])) {
+      problems.push(`[4] ${file} emits a JSON-LD "editor"/"reviewedBy" property -- the "Reviewed by" line is not a claim that anyone edited or checked the page (D-379, D-380).`);
+      break;
+    }
   }
 }
 
