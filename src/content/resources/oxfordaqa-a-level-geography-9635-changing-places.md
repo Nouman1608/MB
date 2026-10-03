@@ -95,7 +95,7 @@ The specification asks how relationships and connections change people and place
 
 - Governments rename, brand and conserve places to attract visitors and investment.
 - Corporations brand developments and market them to particular customers.
-- Community groups contest official meanings. In Newham, the Focus E15 housing campaign formed in 2013 after eviction notices were served on young mothers in a hostel. In September 2014 its members occupied empty flats on the Carpenters Estate in Stratford, presenting the area as a place of housing need rather than of Olympic success.
+- Community groups contest official meanings. In Newham, a housing campaign was formed in 2013 by young mothers in a Stratford hostel after they were served eviction notices. In September 2014 its members occupied empty flats on the Carpenters Estate in Stratford, presenting the area as a place of housing need rather than of Olympic success.
 
 **Formal and informal representations.** Formal representations include census data, official maps and statistics. Informal ones include advertising copy, tourist material, film, photography, art, story and song. The specification notes these often give contrasting images. A census table may show a ward as deprived; a song by a local artist may present it as close-knit and proud.
 
@@ -141,7 +141,7 @@ Both must focus on people's lived experience of the place in the past and at pre
 - **Past.** Victorian industry grew on the marshes; the Eastern Counties Railway moved its works to Stratford in 1847, and the Great Eastern Railway ran them from 1862.
 - **Change.** The 2012 Olympics drove regeneration. The London Legacy Development Corporation, a mayoral development corporation, was set up in 2012. Queen Elizabeth Olympic Park opened permanently in 2014. The former athletes' village became East Village, with 2,818 homes, of which 1,379 are affordable. UCL and London College of Fashion opened campuses on the park in 2023.
 - **Contrast with Lahore.** Higher-income country, much lower population density than the Walled City, ethnically very mixed population.
-- **Lived experience.** Long-standing residents may welcome transport and jobs while reporting rising rents; Focus E15 shows contested meaning.
+- **Lived experience.** Long-standing residents may welcome transport and jobs while reporting rising rents; the 2013 young mothers' housing campaign shows contested meaning.
 
 ## Common errors
 

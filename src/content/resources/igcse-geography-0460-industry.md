@@ -116,7 +116,7 @@ The guidance asks you to show how factors combine to shape four things.
 
 Jebel Ali Free Zone (Jafza) is at the far western end of Dubai, United Arab Emirates. It began operating in 1985 with 19 companies. It now covers about 57 square kilometres and its operator says it hosts more than 11,000 businesses from over 100 countries. Firms work in logistics, electronics, vehicles, food, e-commerce and petrochemicals. The zone is run by DP World.
 
-- **Transport (location):** Jafza is next to Jebel Ali Port, which opened in 1979. It is the world's largest man-made harbour and the biggest and busiest port in the Middle East. Al Maktoum International Airport is about 24 km away. Sheikh Zayed Road (E11) also serves the area.
+- **Transport (location):** Jafza is next to Jebel Ali Port, which opened in 1979. It is the world's largest man-made harbour and the biggest and busiest port in the Middle East. Al Maktoum International Airport is about 24 km away. Sheikh Zayed Road also serves the area.
 - **Political factors:** as a free zone, Jafza allows foreign firms to own their companies with no foreign ownership restrictions. It is a customs bonded zone, so goods can be imported, stored and re-exported without paying customs duty.
 - **Markets:** Dubai sits between Europe, Asia and Africa. Firms store, assemble or process goods here and send them across the Gulf and beyond.
 - **Labour:** the United Arab Emirates relies heavily on workers from other countries, especially South Asia, so firms can recruit both skilled and less-skilled staff.

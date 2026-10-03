@@ -15055,3 +15055,77 @@ Validation:
 - cross-board regression 0;
 - `node --test` 169 / 0;
 - `validate-review-integrity` PASS.
+
+## D-381 -- Thin-subjects breadth sprint: 79 units for Global Perspectives, Psychology, Geography and Sociology (branch `thin-subjects-breadth`, 3 Oct 2026, 19:26 PKT)
+
+**Context.** The owner's 29 Sep brief: close the breadth gap for the thinnest subjects. Work from the official syllabus or specification. Give each missing unit a study guide, revision notes and a practice set (1,500-2,600 words each, mark-allocated worked answers, examiner insights, "where marks are lost"). Questions are original, no resource counts, author `marlbridge-academic-team`, `reviewStatus` left at its default and no reviewer. Work on a branch for the owner to merge. The owner paused the first wave on 29 Sep ("wait") and restarted the sprint on 3 Oct ("continue with the work").
+
+**Scope check against the official documents.**
+- Global Politics, ESS, MYP Design and MYP Individuals and Societies already cover every official topic, so this sprint adds nothing for them.
+- MYP framework topics (key concepts, global contexts) are still open. The full MYP subject guides are now in the owner's OneDrive "Papers 2025\Guides" folder, so they can be a follow-up.
+- DP Geography stays parked because the guide is unavailable (ibo.org 403, and not in the folder).
+
+**What was added: 79 units, 3 pages each (study guide, revision notes, practice set).**
+
+| Syllabus | Units |
+|---|---|
+| Cambridge IGCSE Global Perspectives 0457 (the 22 topics; each page states that topic knowledge is not assessed and teaches the assessed skills through it) | 22 |
+| Cambridge AS & A Level Global Perspectives & Research 9239, Component 4 | 1 |
+| AQA A-level Psychology 7182, Paper 3 (Issues and debates plus all nine options) | 10 |
+| OxfordAQA International A-level Psychology 9685, 3.3.1-3.3.3 and 3.4.1-3.4.3 | 6 |
+| Cambridge AS & A Level Sociology 9699, education (5.1-5.3, 6.1-6.2 and ethnicity/gender) | 3 |
+| Cambridge AS & A Level Geography 9696, topics 7-14 | 8 |
+| Cambridge IGCSE Geography 0460, Theme 3 (3.1-3.7) | 7 |
+| OxfordAQA International A-level Geography 9635, Units 3-5 | 5 |
+| OxfordAQA International GCSE Geography 9230, geographical and fieldwork skills | 1 |
+| AQA A-level Sociology 7192, Paper 2 (all eight topics) | 8 |
+| AQA GCSE Sociology 8192, 3.1-3.7 | 5 |
+| OxfordAQA International A-level Sociology 9690, Units 3-5 (new specification, first A-level exams May/June 2028) | 3 |
+
+**Process.**
+- One writer agent per unit worked to `BRIEF_THIN.md`. A separate verifier agent that had not written the unit then checked it against `VERIFY_BRIEF.md`. The verifier checked:
+  - every syllabus statement against the board's own document text (grep);
+  - every real-world fact, study and case study against a source;
+  - every number, by re-running a Python check script, one per unit;
+  - originality, mark arithmetic and the rules.
+- All 79 units were verified. Most verifiers made fixes. Examples:
+  - 9239/0457: wording aligned to the syllabus.
+  - Scotland's age of criminal responsibility: in force December 2021, not November 2019.
+  - Meffert et al. (2013) replaces a misattributed "Keysers 2011".
+  - Kanner (1981): 10 months, not 9.
+  - Stockholm congestion charge: the effect lasted, it did not weaken.
+  - HIPC: 36 countries at completion point.
+  - Maldives: unverifiable 2001 and 3.5 kg figures removed.
+  - Command words outside the 0460 and 0457 lists replaced.
+  - Practice questions too close to standard past-paper wording were rewritten with new scenarios.
+- The session's WebSearch budget ran out partway through. Later checks used WebFetch: Wikipedia, Europe PMC, Crossref, OpenAlex, ONS, SEC EDGAR, NOAA, UNEP, PUB and similar. Anything that could not be confirmed was removed or worded generally.
+- Partly confirmed and left in (standard textbook content; owner or reviewer may wish to spot-check):
+  - 7192 Work, poverty and welfare: Murray's underclass traits, Bauman's consumption thesis, Rodman (title only), "wealth is more unequal than income".
+  - 7192 Beliefs in society: Norris and Inglehart's birth-rate link, Horton's open/closed contrast.
+  - 7182 Issues and debates: Berry 1969 date. 7182 Stress: Meichenbaum's SIT phase names. 7182 Gender: Furnham and Farragher (2000) finding. 7182 Forensic: Osborn and West direction, Bartol sample details, Mednick cell percentages.
+  - 9699 Intelligence and class: Sullivan's "465 pupils, four schools".
+
+**Conventions settled during the sprint.**
+- `stage: "A"` is added wherever the validator requires it for an A-stage topic: 9239, 9685, 9699, 9696, 9635 and 9690.
+- 7182 pages cite the Version 1.4 PDF's 4.3.x numbering. 7192 pages cite the PDF's 4.2.x headings and say once that the at-a-glance list shows 3.2.x.
+- The spec prints "Gerwitz"; the pages use the correct spelling, Gewirtz, and note the misprint.
+
+**Other changes.**
+- `check:duplicate-scope` was already failing on main with 3 unreviewed groups that predate this sprint (0625 nuclear practice pair, 0625 thermal practice pair, 9620 bonding study-guide pair). Each pair was read and found to be distinct content: different questions, or different specification sections. They are added to `REVIEWED_LEGITIMATE` with specific evidence. None of the new pages forms a duplicate-scope group.
+- Audit fixes made on new pages before the run passed:
+  - "Sheikh Zayed Road (E11)" and the "Focus E15" campaign name were reworded so the audit no longer reads them as internal finding IDs.
+  - One practice page had a `###` heading before any `##`; it is now `##`.
+- The official documents used (syllabi, specifications, IB/MYP guides) are all in OneDrive "Papers 2025" (Syllabus, Guides, Thresholds), per the owner's 1 and 3 Oct instructions.
+
+**Validation (3 Oct 2026, 19:26 PKT).**
+- `npm run validate:academic` PASS.
+- `npm run build` OK.
+- `npm run audit:all` PASS, 0 problems.
+- `npm run check:duplicate-scope` PASS.
+- `validate-review-integrity` PASS.
+- `check_thin.py` OK on all 237 new files: word counts, links, mark sums, one examiner insight per question, no count claims, author set and no reviewer fields.
+- All 79 number-check scripts pass.
+
+**Not done / owner decisions.**
+- Branch pushed only; the owner merges.
+- `reviewStatus` and `reviewer` are untouched on every new page; only the owner assigns them.

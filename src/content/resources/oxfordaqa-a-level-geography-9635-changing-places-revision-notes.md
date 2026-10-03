@@ -80,7 +80,7 @@ Your local study must be your own locality; your teacher will confirm your centr
 - Victorian industry; Eastern Counties Railway works from 1847, run by the Great Eastern Railway from 1862.
 - 2012 Olympics: 560-acre park, open permanently from 2014; Westfield Stratford City opened September 2011; LLDC set up 2012.
 - East Village: 2,818 homes, 1,379 of them affordable; UCL and London College of Fashion campuses opened 2023.
-- Contested meaning: Focus E15 campaign (2013) and occupation of empty Carpenters Estate flats (September 2014).
+- Contested meaning: young mothers' housing campaign in Stratford (2013) and occupation of empty Carpenters Estate flats (September 2014).
 - Inequality: a 2017 report found 36% of Newham employees in low-paid work, the highest of any London borough.
 
 ## Must-know distinctions

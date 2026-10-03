@@ -29,7 +29,7 @@ These questions use the topic **Migration and urbanisation** from the Cambridge 
 
 All places, people, organisations and figures in the sources are fictional. Revise first with the [study guide](/resources/igcse-global-perspectives-0457-migration-and-urbanisation/) and [revision notes](/resources/igcse-global-perspectives-0457-migration-and-urbanisation-revision-notes/). See also the [Global Perspectives hub](/boards/cambridge/igcse/global-perspectives/) and the [0457 checklist](/checklists/cambridge/igcse/global-perspectives/).
 
-### The sources
+## The sources
 
 **Source A -- original text written for Marlbridge** (fictional data)
 
