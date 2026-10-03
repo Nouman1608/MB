@@ -111,7 +111,7 @@ All details below are as the specification's Appendix B summarises them.
 | Carlen (1988) | Unstructured interviews with 39 women aged 15-46 | Crime more likely when the class and gender deals fail | Relatively small sample |
 | Townsend (1979) | Questionnaires to over 2,000 households, more than 6,000 individuals; deprivation index | More than 22% in poverty in 1968-69 on his measure | Index items may show choice, not poverty |
 | Young and Willmott (1973) | Large-scale survey: nearly 2,000 people interviewed in Greater London and surrounding areas | Symmetrical family | Feminists questioned whether "symmetry" existed |
-| Devine (1992) | Interviews with Vauxhall Luton workers and their wives, late 1980s | No strong evidence of privatised instrumentalism | Revisiting the same site allowed comparison over time |
+| Devine (1992) | Interviews with Vauxhall Luton workers and their wives, late 1980s | Did not find evidence to support privatised instrumentalism | Revisiting the same site allowed comparison over time |
 
 ## Must-know distinctions
 
@@ -133,7 +133,7 @@ All details below are as the specification's Appendix B summarises them.
 1. **Define and apply.** Participant observation: the researcher joins the group. In a school this means sitting in lessons or spending time with pupils.
 2. **For (validity).** Records what pupils and teachers do, not what they claim. Ball's three years in one comprehensive and Willis's observation of working-class boys in a Midlands school show banding, teacher expectations and counter culture as they happen.
 3. **For (hard-to-reach views).** Pupils resistant to school may not answer a questionnaire honestly; trust built over time gets beneath the surface.
-4. **Against (practical).** Time and access: a head teacher must agree; an adult cannot pass as a pupil, so covert work is rarely possible.
+4. **Against (practical).** Time and access: the head teacher usually has to agree; an adult cannot pass as a pupil, so covert work is rarely possible.
 5. **Against (reliability and representativeness).** One school or class cannot be repeated or generalised.
 6. **Against (ethics).** Pupils are under 18: parental consent, confidentiality of named teachers, harm from being labelled in a report.
 7. **Alternatives.** Questionnaires on setting and self-image give comparable data across many schools; official statistics show attainment by set or exclusion rates.

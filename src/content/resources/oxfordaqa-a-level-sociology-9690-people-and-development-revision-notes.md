@@ -84,7 +84,7 @@ Assessment reminders from the specification: AO1, AO2 and AO3 are roughly equal 
 | Rostow (1960) | Modernisation: five stages of growth | Societies develop by adopting Western values and investment until "take-off" | Ethnocentric; assumes one route for all |
 | Weber (1905) | Protestant ethic | Calvinist values encouraged saving, work and reinvestment | Capitalism also grew in non-Protestant settings |
 | Frank | Dependency | The metropolis grows by draining satellites; satellites grew most when ties were weakest | Cannot explain the rise of the East Asian "tigers" |
-| Rodney (1972) | *How Europe Underdeveloped Africa* | Enslavement and colonial rule moved Africa's wealth and labour to Europe | Critics say it plays down African states' own choices since independence |
+| Rodney (1972) | *How Europe Underdeveloped Africa* | Enslavement and colonial rule moved Africa's wealth and labour to Europe | Critics say it underplays African agency and internal factors |
 | Williams (1944) | *Capitalism and Slavery* | Slave-trade profits helped finance British industry | Historians debate how large that share was |
 | Pomeranz (2000) | *The Great Divergence* | Coal and colonial land, not unique values, explain Britain's lead | Challenges both Weber and pure exploitation accounts |
 | Braudel | *Longue durée* | Slow structures of trade and geography shape history | Long time scale can hide human agency |
@@ -96,7 +96,7 @@ Assessment reminders from the specification: AO1, AO2 and AO3 are roughly equal 
 | Robertson | Glocalisation | Global and local combine | Shows local adaptation, but global brands still profit |
 | Sachs (2005) | Aid as a "big push" | Targeted aid breaks the poverty trap | Moyo and Easterly argue aid breeds dependency |
 | Lee (1966) | Push-pull | Migration follows push, pull and intervening obstacles | Treats migrants as isolated rational individuals |
-| Cohen (1997) | *Global Diasporas* | Victim, labour, trade and imperial diasporas | Categories overlap in real communities |
+| Cohen (1997) | *Global Diasporas* | Types of diaspora, including victim, labour, trade and imperial | Categories overlap in real communities |
 | Mies (1986) | Feminist: housewifisation | Women's work is treated as cheap or unpaid | Factory jobs may also give women income |
 | Collier (2007) | Conflict trap | War destroys investment and makes more war likely | Economic focus; less on identity and history |
 
@@ -164,7 +164,7 @@ Assessment reminders from the specification: AO1, AO2 and AO3 are roughly equal 
 - Leaving out own-society examples in the extended answers that require them.
 - Using "refugee" for all migrants.
 - Describing push and pull factors without evaluating the model.
-- Presenting one side only on aid or migration, so the AO3 marks are capped.
+- Presenting one side only on aid or migration, which leaves little to evaluate (AO3).
 - Ending an essay without a judgement that follows from the evidence.
 
 ## Where next

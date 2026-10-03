@@ -151,7 +151,7 @@ For: social media allow audiences to become content creators [1]. Citizen journa
 Against: a few platform companies own the main social networks [1]. Algorithms decide what is seen, so visibility is controlled [1]. Platforms profit from users' data and attention [1]. Most users consume rather than create content [1]. Disinformation shows that organised groups can exploit platforms [1]. Digital divides mean those without access or skills gain no voice [1].
 
 Evaluation: Uscinski's work questions claims that social media have transformed belief, since conspiracy talk did not rise over the long term [1]. Traditional media still adapt and often decide which online stories become major news [1]. Audience power varies by society, for example where governments restrict platforms [1]. Judgement: audiences have more voice, but control of distribution remains concentrated [1]. **[16]**
-*Examiner insight:* The question asks for examples from your own society; an answer without them cannot reach the top band however strong the theory.
+*Examiner insight:* The question asks for examples from your own society, so an answer built only on theory misses the application credit that local examples earn.
 
 **12.** The real exam marks extended answers with levels of response, not point by point; the points below show indicative creditworthy content.
 

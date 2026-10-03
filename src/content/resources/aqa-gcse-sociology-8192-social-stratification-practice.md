@@ -119,7 +119,7 @@ Using the item, identify and explain **two** different sources of power or autho
 
 Discuss how far sociologists would agree that differences in pay between occupations reflect how functionally important those occupations are. **[12]**
 
-**12.** Discuss how far sociologists would agree that gender is the most important factor affecting power relationships in the UK today. **[12]**
+**12.** Discuss how far sociologists would agree that, in the UK today, equality laws mean gender no longer shapes who holds power. **[12]**
 
 ## Answers
 
@@ -169,26 +169,26 @@ Discuss how far sociologists would agree that differences in pay between occupat
 - Tumin argued unequal access to education stops many able people competing, so talent is wasted [1].
 - Feminists note that care work, mostly done by women, is underpaid and unpaid caring at home is ignored [1].
 - Evaluation: there is no agreed measure of talent or importance, so the theory is hard to test [1].
-- Judgement: some pay gaps reflect training and responsibility, but the size of gaps suggests power and gender shape pay more than importance [1]. **[12]**
+- Judgement that weighs both sides, for example that some gaps reflect training and responsibility while others are hard to explain by importance alone [1]. **[12]**
 
 *Examiner insight:* Use the table: a comparison such as care worker versus chief executive turns a description of Davis and Moore into evaluation.
 
 **12.** The real exam marks extended answers using levels of response, not point by point. The points below show indicative creditworthy content.
 
 - Power relationships are relationships in which one group can get its way over another [1].
-- Walby argues patriarchy is central, operating through six structures such as paid work, the state and male violence [1].
-- Women remain segregated into lower-paid, lower-status jobs under public patriarchy [1].
+- For: laws such as the Equal Pay Act 1970 and the Equality Act 2010 make unequal treatment at work unlawful [1].
+- Women's rising entry into professions and politics suggests formal barriers have fallen [1].
+- Functionalists see differences in men's and women's roles as complementary, not as domination [1].
+- Against: Walby argues patriarchy operates through six structures, such as paid work, the state and male violence [1].
+- She argues the state does relatively little to protect women and equal opportunities laws are seldom enforced [1].
+- Under public patriarchy women are in paid work but segregated into lower-paid, lower-status jobs [1].
 - The glass ceiling limits women's access to senior roles in business and politics [1].
-- Double standards in culture and sexuality still apply different rules to women and men [1].
-- Against: Marxists argue class is the main power relationship, rooted in ownership of the means of production [1].
-- A wealthy woman may hold far more power than a working-class man, so class can outweigh gender [1].
-- Race and ethnicity also shape power, for example through racial discrimination and institutional racism [1].
-- Age, disability, sexuality and religion are further factors listed in the specification, often combining with gender [1].
-- Functionalists see differences in roles as complementary, not as domination [1].
-- Equality laws and women's rising entry into professions suggest gender inequality has reduced, though Walby argues the laws are seldom enforced [1].
-- Judgement: gender remains a major factor, but it combines with class, ethnicity and other factors, so it is one of several rather than clearly the most important [1]. **[12]**
+- Double standards in culture and sexuality are largely outside the reach of equality laws [1].
+- Marxists argue class, rooted in ownership of the means of production, shapes power more than gender; a wealthy woman may hold more power than a working-class man [1].
+- Gender also combines with other factors listed in the specification, such as race, age, disability and sexuality [1].
+- Judgement that weighs both sides, for example that laws have removed some formal barriers while the informal structures Walby describes may persist [1]. **[12]**
 
-*Examiner insight:* "Today" asks for change over time; Walby's private-to-public shift gives you that point directly.
+*Examiner insight:* "Today" asks for change over time; Walby's private-to-public shift lets you show what laws have and have not changed.
 
 ## Where marks are usually lost
 

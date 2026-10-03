@@ -51,7 +51,7 @@ Use it with the [revision notes for this unit](/resources/oxfordaqa-a-level-soci
 
 ## How Unit 3 is assessed
 
-The specification prints three facts about the paper: 1 hour 30 minutes, 50 marks, short and extended response questions. Unit 3 carries roughly 7% AO1 (knowledge), 6% AO2 (application and interpretation) and 7% AO3 (analysis and evaluation) of the whole A-level. The specification also says you must use examples from your own society, or one you know about, in selected extended answers. It recommends the work of Bello, Braudel, Frank, Polanyi, Rodney and Sachs, and credits other sociologists used well. Question styles and mark tariffs are not printed; your teacher will confirm them.
+The specification prints these facts about the paper: 1 hour 30 minutes, 50 marks, 20% of the International A-level, short and extended response questions. Unit 3 carries roughly 7% AO1 (knowledge), 6% AO2 (application and interpretation) and 7% AO3 (analysis and evaluation) of the whole A-level. The specification also says you must use examples from your own society, or one you know about, in selected extended answers. It recommends the work of Bello, Braudel, Frank, Polanyi, Rodney and Sachs, and credits other sociologists used well. Question styles and mark tariffs are not printed; your teacher will confirm them.
 
 ## 3.2.1.1 The Great Divergence
 
@@ -76,7 +76,7 @@ Fernand Braudel's idea of the *longue durée* adds a time scale: slow changes in
 - Pomeranz's view challenges both value-based and purely exploitation-based accounts.
 
 **Worked paragraph.** *Assess one explanation of why Europe industrialised first.*
-> Weber argued that Calvinist Protestantism produced a "spirit of capitalism": believers worked hard and reinvested profit as a sign they were saved (knowledge). This fits Britain and the Netherlands, both Protestant and early industrialisers (application). It suggests ideas, not only resources, shaped economic change (analysis). However, Pomeranz shows coal and colonial land gave Britain a material advantage, and Williams links industrial capital to slavery, so Weber's account leaves out exploitation (evaluation).
+> Weber argued that Calvinist Protestantism produced a "spirit of capitalism": believers worked hard and reinvested profit as a sign they were saved (knowledge). This fits Britain, a largely Protestant country and the first to industrialise (application). It suggests ideas, not only resources, shaped economic change (analysis). However, Pomeranz shows coal and colonial land gave Britain a material advantage, and Williams links industrial capital to slavery, so Weber's account leaves out exploitation (evaluation).
 
 ## 3.2.1.2 What is meant by globalisation?
 
@@ -135,7 +135,7 @@ Karl Polanyi's *The Great Transformation* (1944) is useful for negative globalis
 
 Views on migration are contested. Some stress labour shortages, remittances and cultural exchange. Others stress pressure on wages, services and social cohesion in receiving areas, or "brain drain" from sending countries. Present both sides.
 
-**Diasporas and transnational networks.** A diaspora is a population dispersed from a homeland that keeps links with it. Robin Cohen (*Global Diasporas*, 1997) distinguished victim, labour, trade and imperial diasporas. Cheap travel, money transfer and social media let families live transnationally, sending remittances and keeping dual identities.
+**Diasporas and transnational networks.** A diaspora is a population dispersed from a homeland that keeps links with it. Robin Cohen (*Global Diasporas*, 1997) distinguished types of diaspora, including victim, labour, trade and imperial diasporas. Cheap travel, money transfer and social media let families live transnationally, sending remittances and keeping dual identities.
 
 **Climate change.** Drought, sea-level rise and storms add push factors. People displaced by climate alone are not refugees under the 1951 Convention.
 

@@ -64,7 +64,7 @@ Davis and Moore, writing in 1945, called stratification a "universal necessity".
 - Less well paid jobs, such as nursing, can be just as important. Is a lawyer really more important than a nurse?
 - Pay may reflect **power**, not importance.
 - There is no agreed way to measure talent. The specification notes there is no formal educational requirement for government ministers.
-- The pool of talent may be far larger than Davis and Moore assume. Tumin (1953) argued unequal access to education stops many able people from competing at all.
+- The pool of talent may be far larger than Davis and Moore assume. Tumin (1953) argued that unequal access to education and training stops many able people competing.
 
 **Marxist view:** rewards reflect ownership and inheritance, so the competition is not fair. **Feminist view:** the theory ignores unpaid work in the home and caring, mostly done by women. Women are concentrated in lower-paid jobs whatever their ability, and the **glass ceiling** blocks them from top posts.
 
@@ -117,7 +117,7 @@ Weber gives a more complex picture.
 Goldthorpe and Lockwood studied affluent manual workers in Luton in the 1960s. Lockwood predicted **privatised instrumentalism**: life centred on the home, with work only a means to an end. In the late 1980s Devine interviewed male manual workers at the Vauxhall car plant in Luton and their wives (published 1992).
 
 - She found no strong support for privatised instrumentalism. Lifestyles were less communal than the traditional working class, but not as home-centred as predicted.
-- She rejected the idea of a "new working class" and of **embourgeoisement** in the sense that workers had accepted capitalism uncritically.
+- She rejected the "new working class" idea and denied that affluent workers accepted capitalism uncritically, so her findings do not support **embourgeoisement**.
 - Living standards and consumer aspirations had risen. But many still resented inherited wealth and felt a sense of injustice about extreme class inequality.
 - They kept many traditional working-class values but had lost faith in the Labour Party's ability to deliver a fairer society.
 
@@ -200,7 +200,7 @@ Walby argued patriarchy has moved from **private patriarchy** (direct control by
 - Saying Weber "disagreed with Marx about everything". He accepted the owner versus non-owner division.
 - Mixing up Townsend's three measures. Relative deprivation is his preferred measure, not relative income.
 - Describing Murray as Marxist. He is linked to the New Right.
-- Giving Devine's study as proof of embourgeoisement. She rejected it.
+- Giving Devine's study as proof of embourgeoisement. Her findings do not support it.
 - Reciting Walby's six structures without private versus public patriarchy.
 
 For methods points, revisit the [Research methods guide](/resources/aqa-gcse-sociology-research-methods/).

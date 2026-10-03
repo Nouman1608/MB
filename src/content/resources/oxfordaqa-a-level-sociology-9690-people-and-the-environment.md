@@ -29,7 +29,7 @@ publishedDate: 2026-09-29
 featured: false
 ---
 
-This guide covers section 3.2.2 People and the environment (3.2.2.1 to 3.2.2.3) of the OxfordAQA International AS and A-level Sociology (9690) specification, Version 1.1 (first teaching September 2026; first A-level exams May/June 2028). The section is A-level content and is assessed in Unit 4: People and the environment, a 1 hour 30 minute exam worth 50 marks and 20% of the International A-level. This is a new specification, so the first A-level exams are in May/June 2028.
+This guide covers section 3.2.2 People and the environment (3.2.2.1 to 3.2.2.3) of the OxfordAQA International AS and A-level Sociology (9690) specification, Version 1.1 (first teaching September 2026; first A-level exams May/June 2028). The section is A-level content and is assessed in Unit 4: People and the environment, a 1 hour 30 minute exam worth 50 marks and 20% of the International A-level.
 
 Keep the [revision notes](/resources/oxfordaqa-a-level-sociology-9690-people-and-the-environment-revision-notes/) and the [practice questions](/resources/oxfordaqa-a-level-sociology-9690-people-and-the-environment-practice/) open as you work. Track progress on the [OxfordAQA A-level Sociology hub](/boards/oxfordaqa/a-level/sociology/) and the [OxfordAQA A-level Sociology checklist](/checklists/oxfordaqa/a-level/sociology/). For the whole course's exam structure, read [preparing for the new 9690 specification](/resources/oxfordaqa-a-level-sociology-exam-preparation/).
 
@@ -39,7 +39,7 @@ Keep the [revision notes](/resources/oxfordaqa-a-level-sociology-9690-people-and
 |---|---|---|
 | 3.2.2.1 The built human environment | Nomadic lifestyles; rural areas: peasants and landless labourers, rural depopulation; urbanisation; social life in cities: 'slums' and informal housing, suburbia, segregation, gated communities, megacities, non-places; power and inequalities in rural and urban areas; cities and changing environment and climate; demographic transition theory | Unit 4 |
 | 3.2.2.2 Human impacts on environment | Views of people and the natural world: exploitation for human use, romanticism, conservation, media representations; future generations and 'the long now'; consumption, sustainability, energy sources; agriculture and food; mass transport and commuting, tourism and over-tourism; air, land and water pollution, plastics, e-waste; desertification, deforestation, extraction and mining, national parks and protected areas, oceans; global heating, wildfires; social construction of environment and climate crises as social problems; scepticism and denialism, governments and the Intergovernmental Panel on Climate Change, environmental movements; ecological modernisation theory, green Marxism; inequalities between and within countries; environmental and climate justice | Unit 4 |
-| 3.2.2.3 People and animals | The zoological connection (Bryant); views of humans and animals; animal welfare, cruelty and rights; working animals, livestock, slaughter for food; pets and therapeutic use of animals; zoonotic diseases; the Columbian Exchange; extinctions, megafauna, hunting and fishing, invasive species; conservation, zoos, rewilding, reintroduction, de-extinction; biotechnology and genomics; animal experimentation | Unit 4 |
+| 3.2.2.3 People and animals | The zoological connection (Bryant); views of humans and animals; animal welfare, cruelty and rights; domestication: working animals, livestock, production and slaughter of animals for food; pets and therapeutic use of animals; zoonotic diseases; the Columbian Exchange; extinctions, megafauna, hunting and fishing, invasive species; conservation, zoos, rewilding, reintroduction, de-extinction; biotechnology and genomics; animal experimentation | Unit 4 |
 
 The specification says students "would benefit from studying" Augé, Brand, Bryant, Bullard, (Mike) Davis and Hannigan, and that "appropriate use of the work of other sociologists will be credited".
 
@@ -77,9 +77,9 @@ The specification prints: exam 1 hour 30 minutes; 50 marks; 20% of the Internati
 - **Conservation**: managing nature to protect it, as in Yellowstone, the first national park (1872).
 - **Media representations**: nature documentaries, disaster news and advertising shape what people see as "nature" and as a problem.
 
-**Future generations and 'the long now'.** The specification lists "Brand" without a first name. Stewart Brand co-founded the Long Now Foundation in 1996 and wrote *The Clock of the Long Now* (1999); the Foundation's clock is designed to run for 10,000 years, as a symbol of thinking across many generations. Ulrich Brand, with Markus Wissen, wrote *The Imperial Mode of Living* (German 2017, English 2021), arguing that everyday consumption in richer countries depends on cheap labour and nature elsewhere. Your teacher will confirm which Brand they use. The Brundtland Report (1987) defined sustainable development as meeting "the needs of the present without compromising the ability of future generations to meet their own needs".
+**Future generations and 'the long now'.** The specification lists "Brand" without a first name. Stewart Brand co-founded the Long Now Foundation in 1996 and wrote *The Clock of the Long Now* (1999); the Foundation's clock is designed to run for 10,000 years, as a symbol of thinking across many generations. Ulrich Brand, with Markus Wissen, wrote *The Imperial Mode of Living* (German 2017, English 2021), arguing that everyday consumption in richer countries depends on cheap labour and nature elsewhere. 'The long now' wording suggests Stewart Brand; your teacher will confirm. The Brundtland Report (1987) defined sustainable development as meeting "the needs of the present without compromising the ability of future generations to meet their own needs".
 
-**Consumption, sustainability and energy.** High consumption uses more materials and energy. Fossil fuels remain dominant; renewables and nuclear power are contested alternatives.
+**Consumption, sustainability and energy.** High consumption uses more materials and energy. Fossil fuels still dominate; renewables and nuclear are contested alternatives.
 
 **Agriculture and food.** Meat, dairy, imported produce and food waste have environmental costs. The Green Revolution of the 1960s raised yields with new seeds, fertiliser and irrigation; Vandana Shiva argued it damaged soils and deepened rural inequality.
 
@@ -113,7 +113,7 @@ The specification prints: exam 1 hour 30 minutes; 50 marks; 20% of the Internati
 
 **Inequalities between and within countries.** Richer countries and richer people produce far more emissions per head, yet poorer countries and poorer people often suffer first and worst, and have least access to acting sustainably (solar panels, electric cars, organic food). Pakistan's 2022 floods hit a country with low historical emissions. Within countries, poorer areas are more exposed to heat, flooding and pollution.
 
-**Environmental and climate justice.** Robert Bullard, called the "father of environmental justice", supported the 1979 Houston lawsuit *Bean v. Southwestern Waste Management*, showing that waste sites were placed mainly in Black neighbourhoods. His book *Dumping in Dixie* (1990) linked race, class and environmental harm. **Climate justice** asks who caused climate change, who pays and who suffers; the loss and damage fund agreed at COP27 (2022) is one response.
+**Environmental and climate justice.** Robert Bullard, called the "father of environmental justice", was an expert witness in the 1979 Houston lawsuit *Bean v. Southwestern Waste Management*; his research showed that the city's waste sites were placed mainly in Black neighbourhoods. His book *Dumping in Dixie* (1990) linked race, class and environmental harm. **Climate justice** asks who caused climate change, who pays and who suffers; the loss and damage fund agreed at COP27 (2022) is one response.
 
 **Worked paragraph.** *Knowledge*: Bullard showed that hazardous sites cluster where people have least political power. *Application*: in many South Asian cities, tanneries and brick kilns sit beside informal settlements rather than wealthy suburbs. *Analysis*: this supports green Marxist views that costs are pushed onto those with least power. *Evaluation*: however, EMT supporters would note that stricter regulation can relocate or clean such industries, so the pattern is not fixed.
 
@@ -127,7 +127,7 @@ The specification prints: exam 1 hour 30 minutes; 50 marks; 20% of the Internati
 
 **Pets** are companion animals treated as family members. Animals are used therapeutically, for example assistance dogs and animal-assisted therapy, though research on health benefits is mixed.
 
-**Health.** **Zoonotic diseases** pass from animals to humans, such as rabies, Ebola and avian influenza; HIV originated from a virus in chimpanzees. Deforestation and wildlife trade increase human contact with wild animals.
+**Health.** **Zoonotic diseases** pass from animals to humans, such as rabies, Ebola and avian influenza; HIV-1 originated from a virus in chimpanzees. Deforestation and wildlife trade increase human contact with wild animals.
 
 **The Columbian Exchange**, named by Alfred Crosby (1972), was the transfer of plants, animals and diseases between the Americas and Afro-Eurasia after 1492: horses, cattle and smallpox to the Americas; maize, potatoes and turkeys to Afro-Eurasia.
 

@@ -55,13 +55,11 @@ Use this guide with the [research methods revision notes](/resources/aqa-gcse-so
 | 3.7 Interpretation of data | Interpret graphs, diagrams, charts and tables to discern patterns and trends in statistical data | Papers 1 and 2 |
 | 3.7 Practical issues | Time, cost and access | Papers 1 and 2 |
 | 3.7 Ethical issues | Consent, confidentiality and harm to participants, and how the issues can be addressed | Papers 1 and 2 |
-| 3.7 skills | Do all of the above "in the context of" families, education, crime and deviance and social stratification, for "a specific area of research" | Papers 1 and 2 |
-
-That last row matters most: judge methods against a real topic.
+| 3.7 skills | Do all of the above "in the context of the various social structures, social processes and social issues detailed in the specification" (families, education, crime and deviance, social stratification), for "a specific area of research" | Papers 1 and 2 |
 
 ## Key terms
 
-These terms appear in the specification's key terms appendix.
+Pilot study comes from the research design content row; the other terms appear in the specification's key terms appendix (Appendix A).
 
 | Term | Meaning |
 |---|---|
@@ -85,7 +83,7 @@ Research design is the plan for a study. The specification names four stages.
 
 **2. Pilot study.** A trial on a few people shows whether questions are confusing, whether the method takes too long and whether people will take part.
 
-**3. Sampling.** A **sampling frame** is needed for most methods. School rolls, the electoral register and GP lists are examples, though access to some lists is restricted. The specification names four sampling methods:
+**3. Sampling.** A **sampling frame** is needed for most methods. School rolls, the electoral register and GP lists are examples, though access to some lists is restricted. The key terms appendix lists four sampling methods:
 
 - **Random sample:** every member of the population has an equal chance of selection, e.g. names drawn by computer. Fair, but a small random sample can still be unrepresentative by chance.
 - **Systematic sample:** every *n*th name on the list. To pick 100 pupils from a roll of 1,200, take every 12th name. Quick, but a list ordered in a pattern can create bias.
@@ -173,12 +171,12 @@ The specification expects you to read graphs, diagrams, charts and tables to "di
 
 For any data item: read the title, units, dates and source; describe the overall pattern; quote figures with units; note exceptions; ask what the data cannot tell you.
 
-**Worked example (fictional data).** A survey in the fictional town of Brackley found that 28% of couples said they shared housework equally in 2005, and 42% in 2025.
+**Worked example (fictional data).** A survey in the fictional town of Dunmarsh found that 28% of couples said they shared housework equally in 2005, and 42% in 2025.
 
 - The rise is 42 - 28 = **14 percentage points**.
 - As a proportion of the starting figure, 14 / 28 x 100 = a **50% increase**.
 
-Both are correct; "it rose by 14%" would be wrong. Then evaluate: "said they shared" is self-reported, and two years cannot show what happened in between.
+"It rose by 14%" would be wrong. Then evaluate: "said they shared" is self-reported, and two years cannot show what happened in between.
 
 ## Practical issues
 
@@ -186,11 +184,11 @@ The specification names **time**, **cost** and **access**.
 
 - **Time:** participant observation can take years (Ball's fieldwork lasted three); a questionnaire can be done in weeks.
 - **Cost:** large samples, travel, interviewer wages and transcription all cost money. Secondary data are usually cheap.
-- **Access:** some groups are hard to reach. Schools need head teacher and parental permission; prisons and courts are tightly controlled; private family life happens behind closed doors. Carlen interviewed women, a number of whom were in prison or youth custody at the time, where access is tightly controlled.
+- **Access:** some groups are hard to reach. Research in a school usually needs the head teacher's agreement, and parental consent is normally sought for pupils; prisons and courts are tightly controlled; private family life happens behind closed doors. Some of Carlen's interviewees were in prison or youth custody at the time.
 
 ## Ethical issues
 
-The specification names three issues and asks how each "can be addressed". Ethical considerations are guided by professional codes, such as the British Sociological Association's guidance.
+The specification names three issues and asks how each "can be addressed". UK sociologists also follow the British Sociological Association's Statement of Ethical Practice.
 
 | Issue | What it means | How to address it |
 |---|---|---|

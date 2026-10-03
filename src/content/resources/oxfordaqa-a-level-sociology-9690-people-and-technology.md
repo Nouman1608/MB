@@ -94,7 +94,7 @@ Communication technologies (**post, telegraph, telephone**) let messages travel 
 
 The internet gives **fast global access to information**. Social media changed communication from one-to-many to **many-to-many**. Henry Jenkins (*Convergence Culture*, 2006) described a **participatory culture** in which audiences create and share content.
 
-**Social media and mental health** is contested. Jonathan Haidt's *The Anxious Generation* (2024) argues that smartphones and social media harmed adolescent mental health. Amy Orben and Andrew Przybylski (2019), analysing large datasets, found only a very small association between digital technology use and adolescent wellbeing. Present both views and note that correlation is not causation.
+**Social media and mental health** is contested. Jonathan Haidt's *The Anxious Generation* (2024) argues that smartphones and social media harmed adolescent mental health. Amy Orben and Andrew Przybylski (2019), analysing large datasets, found only a small negative association between digital technology use and adolescent wellbeing, explaining at most 0.4% of the variation. Present both views and note that correlation is not causation.
 
 **Ownership and control:** a few large platform companies own the main social networks, search and app stores. Their algorithms decide what users see, which gives them power that Marxists compare with traditional media owners.
 
@@ -138,7 +138,7 @@ The internet gives **fast global access to information**. Social media changed c
 - Writing about "AI" in general without naming a type or a specific use.
 - Forgetting the required examples from your own society in extended answers.
 
-For the AS content that leads into this unit, see the [Exploring Sociology guide](/resources/a-level-oxfordaqa-sociology-exploring-sociology/) (which covers moral panics, social control and online identities) and the [Introducing Sociology guide](/resources/a-level-oxfordaqa-sociology-introducing-sociology/). For exam technique on a new specification, read [preparing for the new 9690 exams](/resources/oxfordaqa-a-level-sociology-exam-preparation/). The other A-level units are covered in the guides to [People and development](/resources/oxfordaqa-a-level-sociology-9690-people-and-development/) and [People and the environment](/resources/oxfordaqa-a-level-sociology-9690-people-and-the-environment/).
+For the AS content that leads into this unit, see the [Exploring Sociology guide](/resources/a-level-oxfordaqa-sociology-exploring-sociology/) (which covers socialisation, social control and online identities) and the [Introducing Sociology guide](/resources/a-level-oxfordaqa-sociology-introducing-sociology/). For exam technique on a new specification, read [preparing for the new 9690 exams](/resources/oxfordaqa-a-level-sociology-exam-preparation/). The other A-level units are covered in the guides to [People and development](/resources/oxfordaqa-a-level-sociology-9690-people-and-development/) and [People and the environment](/resources/oxfordaqa-a-level-sociology-9690-people-and-the-environment/).
 
 ## Official syllabus
 

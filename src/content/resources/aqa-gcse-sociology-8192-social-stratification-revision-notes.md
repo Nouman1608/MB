@@ -83,7 +83,7 @@ All of these appear in the specification's key terms list for social stratificat
 | Davis and Moore (1945) | Functionalist theory | Stratification is a "universal necessity": unequal rewards attract the most able into functionally important roles | Low-paid nurses are vital, so pay may follow power, not importance |
 | Marx | Class conflict | Bourgeoisie exploit proletariat; ruling class ideology; class struggle; polarisation leading to revolution | The middle class grew instead of shrinking; no revolution in Britain |
 | Weber | Class, status, party; authority | Class is market situation; middle class expands; status and party are separate; three types of authority | Gives a more detailed picture, but Marxists say it hides the basic owner-worker divide |
-| Devine (1992) | Affluent workers revisited, Vauxhall, Luton | No strong evidence of privatised instrumentalism; rejected embourgeoisement; workers resented inherited wealth | One plant in one town, so hard to generalise |
+| Devine (1992) | Affluent workers revisited, Vauxhall, Luton | No evidence for privatised instrumentalism; rejected the "new working class" idea; workers resented inherited wealth | One plant in one town, so hard to generalise |
 | Townsend (1979) | Relative deprivation | Deprivation index; over 22% in poverty in 1968 to 1969, against just over 6% on the state standard | The index may record choice, not poverty |
 | Murray (1984) | Underclass, New Right | Welfare creates dependency; signs in Britain: illegitimacy, crime, unwillingness to work | Ignores economic causes; most poor people hold conventional values |
 | Walby (1990) | Patriarchy, feminist | Six structures; shift from private to public patriarchy | Less attention to differences between women by class and ethnicity |
@@ -120,16 +120,16 @@ All of these appear in the specification's key terms list for social stratificat
 
 ## Mini essay plan
 
-**Question type:** "Discuss how far sociologists would agree that poverty in the UK is caused by the behaviour of the poor." (extended response)
+**Question type:** "Discuss how far sociologists would agree that welfare dependency is the main reason poverty persists in the UK." (extended response)
 
-1. **Define and frame.** Poverty: absolute and relative. The claim matches the culture of poverty and New Right views.
+1. **Define and frame.** Poverty: absolute and relative. The claim matches New Right views and links to the culture of poverty.
 2. **For: Murray.** Underclass; generous welfare creates dependency; signs he named in Britain. Link to the culture of poverty and the cycle of deprivation.
 3. **Apply.** Use a realistic example, such as long-term unemployment across two generations of one family.
 4. **Against: Townsend.** Relative deprivation shows poverty as lack of resources. His measure found far more poverty than the state standard.
 5. **Against: structural causes.** Material deprivation, the poverty trap, loss of industrial jobs through globalisation.
 6. **Perspectives.** Marxist: poverty built into capitalism. Feminist: women's poverty linked to caring and low pay.
 7. **Evaluate evidence.** Murray's evidence base is criticised; Townsend's index may confuse choice with poverty.
-8. **Judgement.** Behaviour may play a part for some, but evidence that most poor people hold conventional values suggests structural causes explain more.
+8. **Judgement.** Reach your own conclusion from the evidence you have weighed. New Right writers stress dependency and values; their critics stress low pay, job loss and lack of resources.
 
 ## Quick self-test
 
@@ -165,7 +165,7 @@ All of these appear in the specification's key terms list for social stratificat
 - Treating Weber as a Marxist. He shared the owner versus non-owner idea but rejected polarisation and inevitable revolution.
 - Quoting Townsend's 22% without saying it came from his own relative deprivation measure for 1968 to 1969.
 - Presenting Murray's underclass as fact. It is a contested New Right argument.
-- Reporting Devine as supporting embourgeoisement. She rejected it.
+- Reporting Devine as supporting embourgeoisement. Her findings do not support it.
 - Giving a type of authority without an example, or using "power" and "authority" as if they mean the same.
 - In "Discuss" questions, covering one side only. Extended answers need a contrasting view and a judgement.
 - Ignoring the item or scenario. Application marks need its details, not a general definition.
