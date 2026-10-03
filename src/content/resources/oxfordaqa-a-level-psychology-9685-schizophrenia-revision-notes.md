@@ -55,10 +55,10 @@ Test yourself with the [schizophrenia practice questions](/resources/oxfordaqa-a
 | Diathesis-stress | Genetic vulnerability plus environmental trigger |
 | Hyperdopaminergia | Excess dopamine activity, linked to positive symptoms |
 | Hypodopaminergia | Too little dopamine activity, linked to negative symptoms |
-| Metarepresentation | Awareness of your own thoughts as your own (Frith) |
-| Central control | Suppressing automatic responses while acting deliberately (Frith) |
+| Metarepresentation | Ability to reflect on mental states, your own and others' (Frith) |
+| Willed action | Starting and controlling deliberate, self-generated behaviour such as speech (Frith) |
 | Typical anti-psychotic | First-generation D2 antagonist, e.g. chlorpromazine |
-| Atypical anti-psychotic | Second-generation drug acting on dopamine and serotonin, e.g. clozapine |
+| Atypical anti-psychotic | Second-generation drug acting on dopamine and serotonin, e.g. clozapine; generally fewer movement side effects |
 | Tardive dyskinesia | Involuntary movements, a side effect mainly of typical drugs |
 | Agranulocytosis | Dangerous fall in white blood cells, a risk with clozapine |
 
@@ -69,7 +69,7 @@ Test yourself with the [schizophrenia practice questions](/resources/oxfordaqa-a
 | Rosenhan (1973) | Healthy pseudopatients sought admission to 12 US hospitals | Almost all admitted with schizophrenia; stays 7-52 days | Later evidence casts serious doubt on how it was run (Scull, 2023) |
 | Cheniaux et al. (2009) | Two psychiatrists assessed 100 inpatients with DSM-IV and ICD-10 | Schizophrenia diagnosed more often under ICD-10 | Shows the manual affects who is diagnosed: a validity issue |
 | Loring and Powell (1988) | 290 psychiatrists rated case studies varying only client sex and race | Sex and race of client and psychiatrist affected diagnosis | Vignettes lack the realism of real assessment |
-| Luhrmann et al. (2015) | Interviews with 20 voice-hearers each in USA, India, Ghana | Voices more often violent in USA, more positive in India and Ghana | Small samples per country |
+| Luhrmann et al. (2015) | Interviews with 20 voice-hearers each in USA, India, Ghana | Violent commands reported more in USA; rich relationships with voices more in India and Ghana | Small samples per country |
 | Cotton et al. (2009) | Records of 661 first-episode psychosis patients | Males had more severe symptoms and lower functioning | Record audit; cannot show why the difference exists |
 | Buckley et al. (2009) | Review of comorbidities | About 50% comorbid depression; about 47% lifetime substance abuse | Raises the question of whether schizophrenia is one disorder |
 | Hilker et al. (2018) | Danish registers, 31,524 twin pairs | Concordance 33% MZ, 7% DZ; heritability 79% | MZ concordance far below 100%, so environment matters |
@@ -92,8 +92,8 @@ Test yourself with the [schizophrenia practice questions](/resources/oxfordaqa-a
 - **Co-morbidity vs symptom overlap.** Two disorders in one person vs shared symptoms between disorders.
 - **Culture bias vs gender bias.** Distortion by cultural norms vs distortion by gender.
 - **Original vs revised dopamine hypothesis.** Excess dopamine only vs low prefrontal plus high mesolimbic.
-- **Metarepresentation vs central control.** Recognising your thoughts as yours vs suppressing automatic responses.
-- **Typical vs atypical drugs.** D2 blockers mainly for positive symptoms vs broader action with fewer movement side effects.
+- **Self-monitoring vs willed action.** Recognising your thoughts and actions as your own vs starting deliberate behaviour yourself.
+- **Typical vs atypical drugs.** D2 blockers mainly for positive symptoms vs broader action, generally with fewer movement side effects.
 
 ## Mini essay plan
 
@@ -132,7 +132,7 @@ Test yourself with the [schizophrenia practice questions](/resources/oxfordaqa-a
 7. Poor adoptive-family functioning predicted schizophrenia-spectrum disorder only in adoptees at high genetic risk.
 8. Low prefrontal dopamine (negative symptoms) alongside high mesolimbic dopamine (positive symptoms).
 9. The ventral striatum.
-10. Faulty metarepresentation (self-monitoring), so inner speech is experienced as external.
+10. Faulty self-monitoring (a metarepresentation problem), so inner speech is experienced as external.
 11. Typical: chlorpromazine or haloperidol. Atypical: clozapine, risperidone or olanzapine.
 12. CBT has a small effect on symptoms, and the effect shrinks when assessors are masked.
 

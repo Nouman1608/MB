@@ -59,7 +59,7 @@ Revise first with the [study guide for this unit](/resources/a-level-sociology-9
 
 **6.** On the second day of term at Fernhill Primary, a fictional school, a teacher listens to each child read one sentence aloud. She then places the children in three reading groups. A researcher notes that the children whose parents are doctors or lawyers are mostly in the top group, and those whose parents work in a nearby factory are mostly in the bottom group.
 
-**(a)** Identify the sociological concept that best describes the teacher's action. **[1]**
+**(a)** Give the sociological concept that best describes the teacher's action. **[1]**
 **(b)** Explain how this could lead to a self-fulfilling prophecy. **[4]**
 
 **7.** Imani's parents are university lecturers. At weekends the family visits museums, and at dinner they debate the news. Kyle's parents both work long shifts in a warehouse. Using the concept of cultural capital, explain two ways in which Imani may be advantaged at school. **[4]**
@@ -74,7 +74,7 @@ Revise first with the [study guide for this unit](/resources/a-level-sociology-9
 | 8 | 67 | 61 |
 | 11 | 71 | 69 |
 
-**(a)** Calculate the gap between the two groups at each age. **[3]**
+**(a)** Using the data, give the gap between the two groups at each age. **[3]**
 **(b)** Evaluate what the data show about the success of compensatory education. **[5]**
 
 **10.** "Anti-school subcultures are caused by working-class pupils' own values, not by what happens in schools."
@@ -128,7 +128,7 @@ However, intelligence has no agreed definition: Gardner and Sternberg describe s
 Other influences are strong: material deprivation [1], cultural capital (Bourdieu; Sullivan) [1] and labelling (Rosenthal and Jacobson; Rist) [1]. Conclusion: ability plays some part, but it is shaped and filtered by class. **[12]**
 *Examiner insight:* top answers question the concept of intelligence itself rather than only listing other causes.
 
-**12.** Material factors: overcrowded housing and poor diet reduce study time and concentration [1]. Hidden costs of trips, books and devices exclude poorer pupils [1]. Older pupils may leave to earn [1]. Gewirtz, Ball and Bowe found working-class parents chose from the nearest schools [1]. Sullivan found a class effect remained after cultural capital was measured, which supports a material or structural cause [1].
+**12.** Material factors: overcrowded housing and poor diet reduce study time and concentration [1]. Hidden costs of trips, books and devices exclude poorer pupils [1]. Older pupils may leave to earn [1]. Gewirtz, Ball and Bowe found working-class parents' school choices were more limited than middle-class parents' [1]. Sullivan found a class effect remained after cultural capital was measured, which supports a material or structural cause [1].
 Cultural factors: Douglas found less parental involvement in working-class homes [1]. Sugarman described immediate gratification and fatalism [1]. Bernstein argued schools use the elaborated code [1]. Bourdieu argued schools reward middle-class cultural capital [1], and Lareau showed concerted cultivation fits school expectations [1].
 Evaluation: Keddie and Labov argue cultural deprivation is a myth [1]. Material and cultural factors overlap, because money buys cultural capital [1]. Both ignore in-school processes such as banding (Ball) [1] and educational triage (Gillborn and Youdell) [1]. Compensatory programmes that targeted culture often faded, which may suggest culture is not the main problem [1]. Conclusion: material factors set limits, cultural factors shape how schools judge pupils, and schools turn both into results [1]. **[16]**
 *Examiner insight:* an essay that weighs the two factors against each other, and reaches a reasoned judgement, scores higher than two separate lists.

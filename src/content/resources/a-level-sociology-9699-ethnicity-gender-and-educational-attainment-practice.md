@@ -78,14 +78,14 @@ Using sociological material, give two arguments against this view. **[8]**
 
 **10.** Explain how ethnicity, social class and gender may combine to affect educational attainment. **[6]**
 
-**11.** Evaluate the view that racism in schools is the main cause of ethnic differences in educational attainment. **[16]**
+**11.** Evaluate the view that the way schools treat minority ethnic pupils matters more than any other factor in explaining ethnic differences in educational attainment. **[16]**
 
 ## Answers
 
 **1.** Sorting pupils into groups according to their predicted chance of passing [1], then concentrating teaching effort on those near the pass borderline while others receive less [1]. **[2]**
 *Examiner insight:* a definition needs both parts, the sorting and the uneven effort that follows it.
 
-**2.** Conformists and innovators [1]; retreatists and rebels [1]. **[2]**
+**2.** Conformists and innovators [1]; retreators (often written "retreatists") and rebels [1]. **[2]**
 *Examiner insight:* "Give" questions reward accurate recall; spend no time explaining each type.
 
 **3.** Uncertainty or anxiety about male identity [1], linked to the decline of traditional manual jobs and of the male breadwinner role [1]. **[2]**
@@ -97,14 +97,14 @@ Using sociological material, give two arguments against this view. **[8]**
 *Examiner insight:* in (c), a limitation earns the second mark only when you say what it means for the conclusion.
 
 **5.** Way 1: the label "loud and challenging" leads to placement in the bottom set [1]. The teacher's own words show the decision is about managing behaviour, not ability [1]. As Gillborn and Youdell found, lower sets and exam tiers can cap the grades pupils are able to reach [1].
-Way 2: a label can produce a reaction; boys who feel unfairly treated may join an anti-school subculture, like Sewell's rebels [1]. A "positive" label can also harm; the "quiet and hard-working" pupils "never need chasing", so their difficulties may be missed [1]. Archer and Francis found teachers saw some minority ethnic pupils as passive, a stereotype pupils experienced as negative [1]. **[6]**
+Way 2: a label can produce a reaction; boys who feel unfairly treated may join an anti-school subculture, like Sewell's rebels [1]. A "positive" label can also harm; the "quiet and hard-working" pupils "never need chasing", so their difficulties may be missed [1]. Archer and Francis found teachers saw some minority ethnic pupils as passive and quiet, a homogenising stereotype that can restrict pupils even when it sounds positive [1]. **[6]**
 *Examiner insight:* application marks need quotations or details from the item, not a general account of labelling.
 
 **6.** Self-worth protection means avoiding visible effort so that failure cannot be blamed on low ability [1]. Saying he "didn't even try" lets Daniel explain his poor mock without admitting he lacks ability [1]. Calling revision "for geeks" reflects a laddish culture in which effort is "uncool" [1]. Jackson links this to masculinity, so peer status is protected but attainment may fall, even in a top set [1]. **[4]**
 *Examiner insight:* each point should connect the concept to something Daniel says or does.
 
 **7.** Explanation 1: family values that prioritise education [1]. Francis and Archer found British-Chinese pupils and parents valued education extremely highly, whatever their class or gender [1]. This can mean more support at home and homework treated as a priority [1], which helps explain why a group can do well even when some families are working class [1].
-Explanation 2: cultural deprivation, the idea that some groups' family patterns or values hold children back [1]. The Moynihan Report (1965) in the USA linked Black poverty to lone-mother families and culture [1]. Sewell also pointed to a street-fashion peer culture that competes with school [1]. Critics say such accounts blame the victim; Mirza's young women did well at school yet still met barriers in the job market [1]. **[8]**
+Explanation 2: cultural deprivation, the idea that some groups' family patterns or values hold children back [1]. The Moynihan Report (1965) in the USA linked Black poverty to lone-mother families and culture [1]. Sewell also described the pull of an inner-city street-fashion culture on Black boys [1]. Critics say such accounts blame the victim; Mirza's young women did well at school yet still met barriers in the job market [1]. **[8]**
 *Examiner insight:* two explanations must be genuinely different; "family values" and "parents care about school" would count as one.
 
 **8.** Boys may receive more teacher attention [1]; French (1984) found this was partly because boys used attention-seeking strategies [1]. Girls may speak less in mixed classes [1]; Spender argued that stereotypes kept many girls from speaking up [1]. **[4]**
@@ -121,9 +121,9 @@ Argument 2: girls are not one group [1]. Archer, Halsall and Hollingworth found 
 
 Introduction and case for: institutional racism is discrimination built into an organisation's routines (Macpherson Report, 1999) [1]. Coard argued West Indian children were wrongly labelled "educationally subnormal" [1]. Gillborn (1990) showed white teachers' expectations about discipline and ability shaped African-Caribbean pupils' experiences [1]. Gillborn and Youdell found triage, sets and tiers rationed opportunity [1]. Sewell found Black boys received disproportionate punishment [1]. Gillborn's critical race theory argues the Black/White gap is hidden by a focus on free school meal pupils [1]. Together these link labelling to structural outcomes such as capped grades [1].
 
-Case against: Hill argued that Gillborn misused class data and overlooked high Indian attainment [1]. British-Chinese pupils achieve highly and their families value education extremely highly (Francis and Archer) [1], even though they still face stereotypes, so racism does not always lower attainment [1]. Gillborn and Mirza found class and gender also matter [1], and Vincent et al. show race and class interact [1]. Sewell's conformists and innovators show pupils respond in different ways [1]. Mirza's young women did well at school, so some barriers lie in the labour market [1]. Most evidence for racism comes from small ethnographies, while national data show patterns but not causes [1].
+Case against: Hill argued that Gillborn misused class data and overlooked high Indian attainment, claims Gillborn (2010) rejected [1]. British-Chinese pupils achieve highly and their families value education extremely highly (Francis and Archer) [1], even though they still face stereotypes, so racism does not always lower attainment [1]. Gillborn and Mirza found class and gender also matter [1], and Vincent et al. show race and class interact [1]. Sewell's conformists and innovators show pupils respond in different ways [1]. Mirza's young women did well at school, so some barriers lie in the labour market [1]. Most evidence for racism comes from small ethnographies, while national data show patterns but not causes [1].
 
-Judgement: racism in schools is a significant cause for some groups, but it works alongside class, gender and culture, so "main cause" is too strong for every group [1]. **[16]**
+Judgement: the way schools treat pupils is a significant cause for some groups, but it works alongside class, gender and culture, so "more than any other factor" is too strong for every group [1]. **[16]**
 *Examiner insight:* top-level essays reach a judgement that follows from the evidence used, rather than a summary added at the end.
 
 ## Where marks are usually lost

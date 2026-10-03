@@ -72,16 +72,16 @@ Reliability and validity are taught in depth in [Research methods 2](/resources/
 
 ### Evidence
 
-- **Rosenhan (1973)**, published in *Science*, sent healthy volunteers ("pseudopatients") to 12 US hospitals claiming to hear voices. Almost all were admitted with a diagnosis of schizophrenia, and stays ranged from 7 to 52 days, averaging 19. In a follow-up, staff at one hospital were told impostors would arrive. Of 193 patients, staff judged 41 to be impostors, although none had been sent. Rosenhan argued diagnosis could not tell the sane from the insane. **But** the manuals have since been revised, and records uncovered by the journalist Susannah Cahalan cast serious doubt on how the study was run; Scull (2023) called it scientific fraud. Use it with care.
-- **Cheniaux et al. (2009)**: two trained psychiatrists independently assessed 100 inpatients using both DSM-IV and ICD-10. Schizophrenia was diagnosed more often under ICD-10 than DSM-IV. The authors linked this to ICD-10 lacking a rule that excludes mood symptoms. So the manual used changes who gets the diagnosis, which questions validity. Agreement between the two psychiatrists on schizophrenia itself was moderate.
-- **Luhrmann et al. (2015)** interviewed 20 people meeting criteria for schizophrenia in each of the USA, India and Ghana about their voices. US participants more often described violent commands and used diagnostic labels. Participants in India and Ghana more often described close, sometimes helpful relationships with their voices. Culture shapes how symptoms are experienced and reported, so a clinician from another culture may misjudge them.
-- **Loring and Powell (1988)**: 290 psychiatrists rated two case studies in which only the client's sex and race varied (some were given no sex or race). Diagnoses changed with the sex and race of both client and psychiatrist, even with clear DSM-III criteria. This is direct evidence of gender and culture bias.
+- **Rosenhan (1973)**, published in *Science*, sent healthy volunteers ("pseudopatients") to 12 US hospitals claiming to hear voices. Almost all were admitted with a diagnosis of schizophrenia, and stays ranged from 7 to 52 days, averaging 19. In a follow-up, staff at one hospital were told impostors would arrive. Of 193 patients, staff judged 41 to be impostors, although none had been sent. Rosenhan argued diagnosis could not tell the sane from the insane. **But** the manuals have since been revised, and records uncovered by the journalist Susannah Cahalan cast serious doubt on how the study was run; Scull (2023) called it scientific fraud.
+- **Cheniaux et al. (2009)**: two trained psychiatrists independently assessed 100 inpatients using both DSM-IV and ICD-10. Schizophrenia was diagnosed more often under ICD-10 than DSM-IV. The authors linked this to ICD-10 lacking an item that excludes an affective (mood) syndrome. So the manual used changes who gets the diagnosis, which questions validity. Agreement between the manuals was lowest for schizoaffective disorder.
+- **Luhrmann et al. (2015)** interviewed 20 people meeting criteria for schizophrenia in each of the USA, India and Ghana about their voices. US participants more often reported violent commands and used diagnostic labels. Participants in India and Ghana more often reported rich relationships with their voices. Culture shapes how symptoms are experienced and reported, so a clinician from another culture may misjudge them.
+- **Loring and Powell (1988)**: 290 psychiatrists rated two case studies in which only the client's sex and race varied (some were given no sex or race). Diagnoses changed with the sex and race of both client and psychiatrist, even with clear DSM-III criteria.
 - **Cotton et al. (2009)** audited records of 661 patients with first-episode psychosis in Melbourne. Males had more severe symptoms and lower functioning. If women function better, their schizophrenia may be missed or diagnosed as a mood disorder.
 - **Buckley et al. (2009)** estimated that comorbid depression occurs in about 50% of patients with schizophrenia, and that about 47% have a lifetime diagnosis of substance abuse.
 
 ### Co-morbidity and symptom overlap
 
-If half of patients also have depression, is schizophrenia one disorder or several? Co-morbidity makes it hard to say which symptoms belong to which condition. Symptom overlap matters too. Hallucinations and delusions can occur in bipolar disorder, and avolition looks like the low motivation of depression. Schizoaffective disorder sits on the boundary, which is why Cheniaux et al. found the manuals disagreed most there.
+If half of patients also have depression, is schizophrenia one disorder or several? Co-morbidity makes it hard to say which symptoms belong to which condition. Symptom overlap matters too. Hallucinations and delusions can occur in bipolar disorder, and avolition looks like the low motivation of depression. Schizoaffective disorder sits on the boundary, and Cheniaux et al. found the two manuals agreed least on that diagnosis.
 
 ### Evaluation
 
@@ -92,7 +92,7 @@ If half of patients also have depression, is schizophrenia one disorder or sever
 
 *Question focus: explain how culture bias may reduce the validity of diagnosis.*
 
-> Hearing voices is a key positive symptom, but its meaning differs across cultures (knowledge). A clinician trained in one culture may treat a person who hears an ancestor's guidance as having a hallucination, when in their community this may be an accepted experience (application). Luhrmann et al. (2015) found that people in India and Ghana described closer, more positive relationships with their voices than people in the USA, so the same symptom label may cover different experiences (analysis). This suggests diagnosis can reflect the clinician's norms rather than a real disorder, which lowers validity. However, the study used small samples of 20 per country, so the findings may not generalise (evaluation).
+> Hearing voices is a key positive symptom, but its meaning differs across cultures (knowledge). A clinician trained in one culture may treat a person who hears an ancestor's guidance as having a hallucination, when in their community this may be an accepted experience (application). Luhrmann et al. (2015) found that people in India and Ghana were more likely than people in the USA to report rich relationships with their voices, so the same symptom label may cover different experiences (analysis). This suggests diagnosis can reflect the clinician's norms rather than a real disorder, which lowers validity. However, the study used small samples of 20 per country, so the findings may not generalise (evaluation).
 
 ## Biological explanations: genetics
 
@@ -102,7 +102,7 @@ Risk rises with closeness of relationship, but families share environments too, 
 - **Tienari et al. (2004)** followed children of mothers with schizophrenia-spectrum disorders who were adopted away, and compared them with low-risk adoptees. In high-risk adoptees, poor adoptive-family functioning predicted schizophrenia-spectrum disorder; in low-risk adoptees it did not. This supports a **diathesis-stress** view: genes set the vulnerability; environment triggers it.
 - **The Psychiatric Genomics Consortium (Ripke et al., 2014)** compared up to 36,989 cases with 113,075 controls and found 108 genetic loci linked to schizophrenia. These included the dopamine D2 receptor gene (DRD2) and genes involved in glutamate signalling. Schizophrenia is **polygenic**: many genes, each with a small effect.
 
-**Evaluation.** If schizophrenia were purely genetic, MZ concordance would approach 100%. At 33%, environment must matter. MZ twins may also be treated more alike, inflating MZ concordance. Adoption studies and genome-wide studies give converging evidence.
+**Evaluation.** If schizophrenia were purely genetic, MZ concordance would approach 100%. At 33%, environment must matter. MZ twins may also be treated more alike, inflating MZ concordance.
 
 ## Biological explanations: neural correlates and the dopamine hypothesis
 
@@ -128,14 +128,14 @@ Risk rises with closeness of relationship, but families share environments too, 
 
 ## Cognitive explanations: dysfunctional thought processing
 
-**Frith (1992)** argued that symptoms come from faulty information processing.
+**Frith (1992)** argued that symptoms come from faulty information processing. He related many symptoms to a problem of **metarepresentation**: the ability to reflect on mental states, your own and other people's.
 
-- **Metarepresentation** is the ability to reflect on your own thoughts and know they are yours. If it fails, inner speech can be experienced as an external voice (auditory hallucination), and your own actions or thoughts can feel controlled by someone else (delusions of control).
-- **Central control** is the ability to suppress automatic responses while doing a deliberate action. If it fails, a person may be derailed by associations, or may say little because they cannot organise a response (speech poverty and disorganised speech).
+- **Faulty self-monitoring.** If you cannot recognise your own inner speech or actions as self-generated, inner speech can be experienced as an external voice (auditory hallucination), and your own thoughts or actions can feel controlled by someone else (delusions of control). Frith (1995) linked positive symptoms such as hallucinations to defects of self-monitoring.
+- **Faulty willed action.** Willed action is starting and controlling deliberate, self-generated behaviour, such as deciding what to say. Frith (1995) linked negative signs such as poverty of speech to defects of willed action.
 
 **Evidence**
 
-- **Frith and Done (1989)** gave 23 drug-free acute psychotic patients a motor task designed to cause errors. Patients who reported experiences of alien control were less likely to correct errors without visual feedback. This suggests they did not know what response they had just made, which fits faulty self-monitoring.
+- **Frith and Done (1989)** gave 23 drug-free acute psychotic patients a motor task designed to cause errors. Patients who reported experiences of alien control were less likely to correct errors without visual feedback. The ability to correct depends on knowing what response you have just made, so this fits faulty central monitoring of action.
 - **Stirling et al. (2006)** tested 30 people with schizophrenia and 18 controls. Patients with more thought disorder did worse on tests of executive function and semantic processing.
 
 **Evaluation.** The explanation fits specific symptoms and has led to cognitive therapy. But it describes **how** symptoms happen (proximal causes) rather than **why** the processing is faulty in the first place (distal causes). Deficits may be a consequence of the disorder or medication. The accounts can combine: faulty self-monitoring may have a neural basis, as Allen et al. (2007) suggest.
@@ -144,14 +144,14 @@ Risk rises with closeness of relationship, but families share environments too, 
 
 **Typical anti-psychotics** (first generation), such as **chlorpromazine** (developed in the 1950s) and haloperidol, are **dopamine antagonists**: they block D2 receptors, reducing dopamine transmission and positive symptoms.
 
-**Atypical anti-psychotics** (second generation), such as **clozapine**, **risperidone** and **olanzapine**, act on dopamine and other neurotransmitters such as serotonin. They aim to treat both positive and negative symptoms with fewer movement side effects.
+**Atypical anti-psychotics** (second generation), such as **clozapine**, **risperidone** and **olanzapine**, act on dopamine and other neurotransmitters such as serotonin. They are generally less likely than potent typical drugs such as haloperidol to cause movement side effects. Whether they help negative symptoms more is debated.
 
 **Evidence**
 
 - A Cochrane review (**Adams et al., 2014**) found chlorpromazine reduced relapse compared with placebo over six months to two years, but rated the quality of evidence as very low.
 - **Kane et al. (1988)** studied 268 patients who had not responded to at least three previous drugs. On a pre-set criterion, 30% of those given clozapine improved, against 4% given chlorpromazine. Clozapine improved negative as well as positive symptoms.
 
-**Evaluation.** Drugs act quickly and let many people live outside hospital. But typical drugs can cause movement problems, including **tardive dyskinesia** (involuntary movements). Clozapine carries a risk of **agranulocytosis**, a dangerous fall in white blood cells, so patients need regular blood tests. Atypicals can cause weight gain. Side effects reduce adherence, and drugs manage symptoms rather than cure.
+**Evaluation.** Typical drugs can cause movement problems, including **tardive dyskinesia** (involuntary movements). Clozapine carries a risk of **agranulocytosis**, a dangerous fall in white blood cells, so patients need regular blood tests. Atypicals can cause weight gain. Side effects reduce adherence, and drugs manage symptoms rather than cure.
 
 ## Therapies: cognitive therapy
 

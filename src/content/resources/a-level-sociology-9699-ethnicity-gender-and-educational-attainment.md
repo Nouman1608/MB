@@ -65,7 +65,7 @@ The marks for Questions 1 to 3 are not printed separately; your teacher will con
 - **Educational triage**: sorting pupils into those who will pass anyway, those who can be helped to pass, and those seen as hopeless.
 
 **Key studies**
-- **Coard (1971)**, a teacher in London, published a booklet arguing that British schools treated white children as the norm, so West Indian children were wrongly labelled "educationally subnormal" and placed in special schools.
+- **Coard (1971)**, who had worked as a teacher in London, published a booklet arguing that the British school system was biased in favour of White pupils, so West Indian children were wrongly labelled "educationally subnormal" and placed in special schools.
 - **Gillborn (1990)**, *"Race", Ethnicity and Education*, studied City Road, a multi-ethnic inner-city school, using interviews and classroom observation. He showed how white teachers' expectations about discipline, ability and attitude shaped the school lives of African-Caribbean and Asian pupils.
 - **Gillborn and Youdell (2000)**, *Rationing Education*, observed two English secondary schools. Pressure to raise league-table results created an "A-to-C economy". Schools used sets, exam tiers and educational triage, which rationed teaching towards pupils near the pass borderline and reproduced inequalities of class, ethnicity and gender.
 - **Gillborn (2008)** used critical race theory (CRT). He argued that a long-standing gap between Black African-Caribbean and White pupils in England was hidden when debate focused on pupils receiving free school meals, and that official "gap talk" disguised deep-seated race inequality.
@@ -73,7 +73,7 @@ The marks for Questions 1 to 3 are not printed separately; your teacher will con
 **Evaluation**
 - Strength: these are detailed ethnographies that show *how* inequality is produced day to day, not just *that* it exists.
 - Limitation: small samples of one or two schools are hard to generalise.
-- Counter-evidence: Dave Hill, a critic who stresses social class, argued that Gillborn misused statistics on class and overlooked the high attainment of Indian pupils. Gillborn (2010) rejected these claims. If racism were the whole story, it is hard to explain why some minority ethnic groups do very well.
+- Counter-evidence: Dave Hill (2009), a critic who stresses social class, argued that Gillborn misused statistics on class and overlooked the high attainment of Indian pupils. Gillborn (2010) rejected these claims. If racism were the whole story, it is hard to explain why some minority ethnic groups do very well.
 
 **Worked paragraph**
 > One explanation is racism within schools. Gillborn and Youdell found that pressure to meet A-to-C targets led schools to ration their effort through educational triage. If teachers see some pupils as having low ability, those pupils may be placed in lower sets or foundation tiers, which caps the grades they can reach. This links labelling to a structural outcome: lower attainment results from a school's decision rather than the pupil's ability. However, the study covered only two schools, and the claim struggles to explain why groups such as Indian and Chinese pupils achieve highly in the same system, which suggests that culture and class also matter.
@@ -91,7 +91,7 @@ The marks for Questions 1 to 3 are not printed separately; your teacher will con
 - **Archer (2008)** argued that teachers' image of the "ideal pupil" is White, male and middle class, so minority ethnic pupils are rarely seen as authentic successes, even when they achieve.
 
 **Ethnicity and subcultures**
-- **Sewell (1997)**, *Black Masculinities and Schooling*, used interviews and observation in an urban English school. African-Caribbean boys responded to school as conformists, innovators, retreatists or rebels. Black boys received a disproportionate amount of punishment, and Sewell argued that teachers could not escape wider social perceptions of young Black men. He also stressed the pull of a street-fashion peer culture.
+- **Sewell (1997)**, *Black Masculinities and Schooling*, used interviews and observation in an urban English school. African-Caribbean boys responded to school as conformists, innovators, retreators or rebels (many textbooks write "retreatists"; the book's own term is "retreators"). Black boys received a disproportionate amount of punishment, and Sewell argued that teachers could not escape wider social perceptions of young Black men. He also stressed the pull of a street-fashion peer culture.
 - **Mirza (1992)**, *Young, Female and Black*, followed 62 working-class young African-Caribbean women from two south London comprehensives for 18 months. They did well at school, yet a labour market segregated by race and gender limited their jobs.
 
 **Evaluation**
@@ -114,7 +114,7 @@ The marks for Questions 1 to 3 are not printed separately; your teacher will con
 - **Archer (2002)** found British Muslim boys described Muslim girls' post-16 choices as decided by parents, while the girls said social change gave them wider choices.
 
 **Worked paragraph**
-> Ethnicity cannot be separated from class and gender. Gillborn and Mirza found that class and gender were linked to attainment but did not explain away ethnic gaps. Vincent and colleagues showed that even middle-class Black parents faced subtle racism, so class resources did not protect their children fully. However, sociologists who stress class would reply that poverty lowers attainment within every ethnic group, so a balanced answer weighs both and avoids treating any one factor as the whole story.
+> Ethnicity cannot be separated from class and gender. Gillborn and Mirza found that class and gender were linked to attainment but did not explain away ethnic gaps. Vincent and colleagues showed that even middle-class Black parents faced subtle racism, so class resources did not protect their children fully. However, Hill, who stresses class, argues that it is not "whiteness" that most advantages or disadvantages pupils in England and Wales, so a balanced answer weighs class and ethnicity together and avoids treating any one factor as the whole story.
 
 ## 6.4 Gender socialisation and wider social changes
 
@@ -129,14 +129,14 @@ The marks for Questions 1 to 3 are not printed separately; your teacher will con
 - **Skelton and Francis (2012)** found popular high-achieving boys could enjoy English without threatening their masculinity, while high-achieving girls struggled to combine sport with acceptable femininity.
 
 **Wider social changes**
-- Feminism and equal opportunities laws, such as the UK's Equal Pay Act 1970 and Sex Discrimination Act 1975, raised girls' sense of what was possible.
-- More jobs in services and more women in paid work gave girls role models and a reason to gain qualifications.
+- One argument is that feminism and equal opportunities laws, such as the UK's Equal Pay Act 1970 and Sex Discrimination Act 1975, raised girls' sense of what was possible.
+- A related argument is that growth in service jobs and in women's paid work gave girls role models and a reason to gain qualifications. Your teacher will confirm the employment trends in your own country.
 - **Francis (2002)** found that girls aged 14–16 had become far more ambitious in their career choices, though choices still followed a deep gender divide.
 - **Crisis of masculinity**: the decline of manual jobs removed a route into work that once needed few qualifications.
 - **Epstein et al. (1998)**, *Failing Boys?*, argued that public reaction to boys' "underachievement" was simplistic and asked "which boys?" fail. **Francis (2006)** described a moral panic about boys' underachievement, noting feminist concern that it had negative effects for girls' schooling.
 
 **Worked paragraph**
-> Changing female expectations help explain why girls now outperform boys in many systems. Francis found that girls' career aims had become far more ambitious, and equal opportunities laws and growth in women's employment give girls good reasons to gain qualifications. Yet the gain is uneven: Francis also found career choices still followed a gender divide, and Epstein et al. warn that talk of "failing boys" hides that working-class boys and girls both underachieve.
+> Changing female expectations help explain why girls' results have improved. Francis found that girls' career aims had become far more ambitious, and sociologists argue that equal opportunities laws and growth in women's employment give girls good reasons to gain qualifications. Yet the gain is uneven: Francis also found career choices still followed a gender divide, and Epstein et al. ask "which boys?", warning that a simple boys-versus-girls debate hides differences of class and ethnicity within each sex.
 
 ## 6.4 Gender subcultures and teacher expectations
 

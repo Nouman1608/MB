@@ -86,10 +86,10 @@ They cover sections 6.1 (Intelligence and educational attainment) and 6.2 (Socia
 
 | Who | What | Finding or claim | One evaluation point |
 |---|---|---|---|
-| Gewirtz, Ball and Bowe (1995) | School choice | Working-class parents chose from the nearest schools | Shows money and knowledge combine |
+| Gewirtz, Ball and Bowe (1995) | School choice | Middle-class parents used choice to keep their advantage; working-class choice more limited | Shows money and knowledge combine |
 | Douglas (1964) | Parental attitudes | Working-class parents less involved in schooling | Lack of time is not lack of interest |
-| Hyman (1967) | Values | Working class valued education less, saw fewer chances | Stereotypes a varied class |
-| Sugarman (1970) | Values | Fatalism, collectivism, immediate gratification, present-time orientation | May reflect real limits, not choice |
+| Hyman | Values | Working class valued education less, saw fewer chances | Stereotypes a varied class |
+| Sugarman | Values | Fatalism, collectivism, immediate gratification, present-time orientation | May reflect real limits, not choice |
 | Bernstein (1971) | Speech codes | Schools use the elaborated code | He denied the restricted code was inferior |
 | Keddie (1973) | Critique | Culturally different, not deprived | Shifts blame to schools |
 | Labov | Critique | Non-standard speech carries complex logic | Supports "difference, not deficit" |
@@ -100,7 +100,7 @@ They cover sections 6.1 (Intelligence and educational attainment) and 6.2 (Socia
 | Rist (1970) | Kindergarten | Tables set by day eight, by appearance and background | One classroom |
 | Rosenthal and Jacobson (1968) | Field experiment | "Bloomers" chosen at random gained most when young | Weak methods; replication problems |
 | Ball (1981) | *Beachside Comprehensive* | Non-manual pupils more likely in top band | One school |
-| Gillborn and Youdell | Two London schools | Educational triage; lower tiers | Shows policy pressures shape labels |
+| Gillborn and Youdell (2000) | Two British secondary schools | Educational triage; setting and tiering | Shows policy pressures shape labels |
 | Hargreaves (1967) | Streaming | Low-stream "failures" formed a delinquent subculture | Deterministic |
 | Lacey (1970) | *Hightown Grammar* | Differentiation leads to polarisation | Pupils still have agency |
 | Willis (1977) | 12 "lads" | Counter-school culture | Small sample; lads chose their path |

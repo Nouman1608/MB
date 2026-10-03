@@ -67,11 +67,11 @@ Test yourself with the [issues and debates practice questions](/resources/oxford
 | Bandura (1986), reciprocal determinism | Social cognitive theory | Behaviour, environment and personal factors influence each other | Soft determinism; less precise to test than single causes |
 | Rotter (1966) | Locus of control | Beliefs about control lie on a continuum from internal to external | Links beliefs about choice to real behaviour, such as resisting pressure |
 | Vohs and Schooler (2008) | Reading a determinist passage | Participants were more likely to cheat on a later test | Later studies have reported contradictory findings |
-| Baillargeon (1987) | Violation of expectation | Infants as young as 3.5 months looked longer at impossible events | Looking time may reflect novelty, not knowledge |
+| Baillargeon (1987) | Violation of expectation | Some infants as young as 3.5 months looked longer at impossible events | Looking time may reflect novelty, not knowledge |
 | Maguire et al. (2000) | London taxi drivers, brain scans | Larger posterior hippocampus; volume correlated with time as a driver | Correlational, but the years-of-driving link supports plasticity |
 | Frith (1992) | Cognitive account of schizophrenia | A fault in central monitoring of action | A cognitive level of explanation alongside the dopamine hypothesis |
 | Tolman and Honzik (1930) | Rats in a maze | Rats rewarded only from day 11 quickly matched always-rewarded rats | Challenges stimulus-response reductionism: learning without reinforcement |
-| Janis (1972) | Groupthink | Close groups can reach decisions no single member would make | Supports holism, but group-level claims are hard to test |
+| Janis (1972) | Groupthink | Drive for agreement in a close group overrides realistic appraisal of alternatives | Supports holism, but group-level claims are hard to test |
 | Watson (1913) | Behaviourist manifesto | Psychology should be objective natural science aiming at prediction and control | Rejected introspection; narrowed what psychology could study |
 | Popper (1934; English 1959) | Falsifiability | A scientific theory must be open to refutation | Criticised theories that could explain any outcome |
 | Baddeley and Hitch (1974); Baddeley (2000) | Working memory model | Episodic buffer added to fit new evidence | Shows theory revision through hypothesis testing |

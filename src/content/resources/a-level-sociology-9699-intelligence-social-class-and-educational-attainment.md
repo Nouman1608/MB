@@ -110,7 +110,7 @@ The **hereditarian** view says differences in attainment mainly reflect differen
 - Diet and health: hunger and illness reduce concentration and increase absence.
 - Hidden costs: uniforms, trips, books, devices and internet access.
 - Paid work: older pupils may work part-time or leave education early to earn.
-- School choice: houses near high-performing schools cost more. **Gewirtz, Ball and Bowe**, in *Markets, Choice and Equity in Education* (1995), found that working-class parents tended to choose from the schools nearest home, limited by travel and knowledge of alternatives.
+- School choice: houses near high-performing schools cost more. **Gewirtz, Ball and Bowe**, in *Markets, Choice and Equity in Education* (1995), found that middle-class parents used school choice to keep their advantage, while working-class choices were more limited.
 
 **Evaluation.** Material explanations show that the problem lies in inequality, not in families' values. But many poor children succeed, so money cannot be the whole story. Material and cultural factors also overlap: money buys tutors, books and trips, which build cultural capital.
 
@@ -123,7 +123,7 @@ The syllabus names parental attitudes, values, speech codes and cultural capital
 **Cultural deprivation** explanations claim some working-class families do not pass on the attitudes, values and language that schools need.
 
 - **Parental attitudes.** **Douglas**, in *The Home and the School* (1964), found working-class parents placed less emphasis on educational achievement and were less involved in their children's schooling.
-- **Values.** **Hyman (1967)** argued working-class people valued education less and saw fewer chances to rise. **Sugarman (1970)** described working-class values of fatalism, collectivism, immediate gratification and present-time orientation, against middle-class deferred gratification and future planning.
+- **Values.** **Hyman**, in an essay on the value systems of different classes, argued working-class people valued education less and saw fewer chances to rise. **Sugarman** described working-class values of fatalism, collectivism, immediate gratification and present-time orientation, against middle-class deferred gratification and future planning.
 - **Speech codes.** **Bernstein**, in *Class, Codes and Control* (1971), distinguished the **restricted code** (short, context-bound, relying on shared understanding) from the **elaborated code** (explicit, detailed, context-free). Schools use the elaborated code, which middle-class children use more. Bernstein insisted the restricted code was not inferior, and that he was not offering a deficit account.
 
 **Criticism.** **Keddie**, in *Tinker, Tailor... The Myth of Cultural Deprivation* (1973), argued working-class children are culturally different, not deprived. **Labov**, in "The Logic of Nonstandard English", showed that non-standard speech can carry complex reasoning. Parents may value education but lack time because of long working hours.
@@ -146,7 +146,7 @@ The syllabus names parental attitudes, values, speech codes and cultural capital
 **Ability grouping** (streaming, banding, setting):
 
 - **Ball**, in *Beachside Comprehensive* (1981), found that pupils from non-manual backgrounds were more likely to be placed in the top band than pupils of similar ability from working-class homes.
-- **Gillborn and Youdell**, in *Rationing Education*, studied two London secondary schools and described **educational triage**: resources focused on pupils near a pass, while others were written off. Working-class pupils were less likely to be placed in higher exam tiers.
+- **Gillborn and Youdell**, in *Rationing Education* (2000), studied two British secondary schools and described **educational triage**: resources went to pupils near a pass; others were written off. They linked setting, exam tiering and triage to class inequalities.
 
 **Pupil subcultures:**
 

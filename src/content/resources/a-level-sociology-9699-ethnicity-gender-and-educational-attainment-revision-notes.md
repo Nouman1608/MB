@@ -75,7 +75,7 @@ No studies are named in the syllabus for these sections. The studies below are w
 | Francis and Archer (2005) | British-Chinese pupils and parents | Extremely high value placed on education, whatever class or gender | Teachers still stereotyped these pupils (passive girls) |
 | Archer (2008) | Teachers, parents and pupils, four studies | "Ideal pupil" excludes minority ethnic pupils from authentic success | Interview data; relies on accounts |
 | Moynihan Report (1965) | US report on Black poverty | Linked poverty to lone-mother families and culture | Criticised as blaming the victim |
-| Sewell (1997) | African-Caribbean boys in an urban school | Conformists, innovators, retreatists, rebels; disproportionate punishment; street culture | Shows varied responses, not one "Black boy" response |
+| Sewell (1997) | African-Caribbean boys in an urban school | Conformists, innovators, retreators (often written "retreatists"), rebels; disproportionate punishment; street culture | Shows varied responses, not one "Black boy" response |
 | Mirza (1992) | 62 African-Caribbean young women, south London | Did well at school but faced a race- and gender-segregated job market | Structure, not low aspiration, limited outcomes |
 | Gillborn and Mirza (2000) | National data review | Class and gender cannot account for persistent ethnic inequalities | Uses broad categories that hide variation |
 | Vincent, Rollock, Ball and Gillborn (2012–2013) | Black Caribbean-heritage middle-class parents | Race changes how class works; subtle racism persists | Supports intersectional analysis |
@@ -94,7 +94,7 @@ No studies are named in the syllabus for these sections. The studies below are w
 - **Individual vs institutional racism**: a prejudiced teacher vs a setting or exclusion system that disadvantages a group without anyone intending it.
 - **Cultural vs structural explanations**: values in the family and community vs schools, policy and the job market.
 - **Labelling vs subcultural response**: what teachers do to pupils vs how pupils react (Sewell's four responses).
-- **Gender gap vs class gap**: girls outperform boys on average, but class gaps within each sex are often larger. Use this as an argument, and let your teacher confirm local figures.
+- **Gender gap vs differences within each sex**: a boys-versus-girls comparison can hide class and ethnic differences among boys and among girls (Epstein et al. ask "which boys?"; Gillborn and Mirza link class and gender to attainment). Your teacher will confirm the figures for your own country.
 - **Changing female expectations vs crisis of masculinity**: girls gaining new goals vs boys losing old routes into work.
 
 ## Mini essay plan
@@ -127,7 +127,7 @@ No studies are named in the syllabus for these sections. The studies below are w
 
 1. Sorting pupils by their chance of passing and focusing effort on the borderline group.
 2. Gillborn and Youdell, *Rationing Education*.
-3. Conformists, innovators, retreatists and rebels.
+3. Conformists, innovators, retreators (often written "retreatists") and rebels.
 4. They did well at school but a race- and gender-segregated labour market limited their jobs.
 5. Pupils and parents valued education extremely highly, whatever their class or gender.
 6. It can blame the victim and treat a whole group as having one culture.

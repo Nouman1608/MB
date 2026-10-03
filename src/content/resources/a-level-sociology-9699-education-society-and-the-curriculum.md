@@ -82,7 +82,7 @@ Your teacher will confirm how the other 24 marks are split. Paper 3 weightings: 
 
 **Louis Althusser** ("Ideology and Ideological State Apparatuses", 1970 in French, 1971 in English) separated the **repressive state apparatus** (police, army, courts), which controls by force, from **ideological state apparatuses** such as the media, religion and education, which control through ideas. He argued that in capitalist societies the school is the dominant ideological state apparatus. It passes on ruling-class ideology while appearing neutral.
 
-**Bowles and Gintis**, in *Schooling in Capitalist America* (1976), put forward the **correspondence principle**: school life mirrors work life. Pupils accept teachers' authority as workers accept managers', and work for grades as workers work for wages. In a study of 237 senior-year students at a New York high school, they found that higher grades went with traits such as perseverance, consistency and punctuality. Lower grades went with creativity, aggressiveness and independence. Their view is often summed up as the **myth of meritocracy**: schools claim to reward ability fairly but in fact reproduce inequality.
+**Bowles and Gintis**, in *Schooling in Capitalist America* (1976), put forward the **correspondence principle**: school life mirrors work life. Pupils accept teachers' authority as workers accept managers', and work for grades as workers work for wages. They drew on a study by Peter Meyer of the 237 members of the senior class at one New York State high school. Higher grades went with traits such as perseverance, consistency and punctuality. Lower grades went with creativity, aggressiveness and independence. Their view is often summed up as the **myth of meritocracy**: schools claim to reward ability fairly but in fact reproduce inequality.
 
 **Cultural reproduction** is the idea that education passes on the culture of the dominant class and so reproduces class inequality from one generation to the next. Pierre Bourdieu, with Jean-Claude Passeron, developed this idea using the concept of cultural capital (see 5.3).
 
@@ -96,9 +96,9 @@ Your teacher will confirm how the other 24 marks are split. Paper 3 weightings: 
 
 The **New Right** believes the state runs schools poorly. Without competition, schools have little reason to improve. **Chubb and Moe**, *Politics, Markets, and America's Schools* (1990), argued that the root cause of poor performance is direct democratic control of schools, and called for parental choice and competition. This is **marketisation**: schools compete for pupils like firms compete for customers. In England, the Education Reform Act 1988 introduced a National Curriculum, more parental choice of school and local management of school budgets.
 
-**Evaluation.** **Alison Wolf**, *Does Education Matter?* (2002), questioned whether spending more on education automatically drives growth. Critics of the New Right, such as **Ball, Bowe and Gewirtz (1994)**, found that "skilled choosers", who were mainly middle class, were best placed to work the school market, while other parents lacked the cultural skills and contacts to do so. So market choice can widen inequality.
+**Evaluation.** **Alison Wolf**, *Does Education Matter?* (2002), questioned whether spending more on education automatically drives growth. Critics of the New Right cite **Gewirtz, Ball and Bowe (1995)**, who described "privileged/skilled choosers", who were mainly middle class and best placed to work the school market, while other parents lacked the cultural skills and contacts to do so. So market choice can widen inequality. Supporters reply that published results give every parent more information.
 
-**Worked paragraph.** *The New Right argues that competition raises standards [knowledge]. If a city published league tables, weak schools would need to improve to attract pupils [application]. This ties schooling to economic efficiency [analysis]. However, Ball, Bowe and Gewirtz suggest choice helps middle-class parents most [evaluation].*
+**Worked paragraph.** *The New Right argues that competition raises standards [knowledge]. If a city published league tables, weak schools would need to improve to attract pupils [application]. This ties schooling to economic efficiency [analysis]. However, Gewirtz, Ball and Bowe suggest choice helps middle-class parents most [evaluation].*
 
 ## 5.2 Meritocracy, life chances and social mobility
 
@@ -109,7 +109,7 @@ A **meritocracy** is a system where rewards depend on ability and effort, not on
 **Are education systems meritocratic today?**
 
 - **For:** open exams, wider access to higher education, and laws against discrimination suggest more pupils can succeed on merit. Functionalists see exams as a fair sifting system.
-- **Against:** Marxists call meritocracy a myth. Bourdieu argues that schools reward the culture of the middle class. Ball, Bowe and Gewirtz show that school choice favours parents with cultural skills and social contacts. Private tutoring and fee-paying schools let some families buy advantage.
+- **Against:** Marxists call meritocracy a myth. Bourdieu argues that schools reward the culture of the middle class. Gewirtz, Ball and Bowe show that school choice favours parents with cultural skills and social contacts. Private tutoring and fee-paying schools let some families buy advantage.
 
 **Life chances** are a person's chances of gaining good things, such as income, health, housing and secure work. Education shapes life chances because qualifications act as entry tickets to many jobs.
 
@@ -119,7 +119,7 @@ Functionalists and social democrats stress the waste of talent. Marxists argue t
 
 **Social mobility** is movement between social classes. **Intergenerational** mobility compares a person with their parents. **Absolute** mobility is the total amount of movement. **Relative** mobility compares the chances of people from different class backgrounds.
 
-- **John Goldthorpe** co-directed a large British mobility survey in 1972 and reported it in *Social Mobility and Class Structure in Modern Britain* (1980). Absolute upward mobility rose as the occupational structure changed. Relative mobility stayed broadly stable, so class background still mattered.
+- **John Goldthorpe** and colleagues ran the 1972 Oxford Mobility Study, reported in *Social Mobility and Class Structure in Modern Britain* (1980). Absolute upward mobility rose as the occupational structure changed. Relative mobility stayed broadly stable, so class background still mattered.
 - Comparisons of two British birth cohorts, born in 1958 and 1970, suggest family background did not weaken as an influence over time and may have strengthened.
 - The **"Great Gatsby curve"**, popularised by the economist Alan Krueger in 2012 using data from Miles Corak, shows that countries with more income inequality tend to have less mobility between generations.
 
@@ -154,7 +154,7 @@ The **social construction of knowledge** means that what counts as valuable know
 ## Common errors
 
 - Writing that Durkheim used the terms "particularistic" and "universalistic". These are Parsons's terms.
-- Saying Bowles and Gintis studied British schools. Their high-school study was in New York.
+- Saying Bowles and Gintis studied British schools. The high-school data they used came from New York State.
 - Treating Willis as simple support for Bowles and Gintis. He shows resistance, even though reproduction still happens.
 - Mixing up absolute and relative mobility.
 - Describing cultural capital as money. It is cultural knowledge and dispositions.

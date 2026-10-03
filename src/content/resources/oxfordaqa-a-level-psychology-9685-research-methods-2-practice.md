@@ -84,7 +84,7 @@ A Wilcoxon test gave T = 4.5, with N = 9.
 **(c)** Explain why N is 9, not 10. **[1]**
 **(d)** Using the table, explain whether the result is significant at p ≤ 0.05 and at p ≤ 0.01. **[3]**
 
-**7.** A researcher writes a new 10-item exam stress scale. Twelve students complete it and also complete an established anxiety questionnaire. The correlation between the two sets of scores is r = +0.74. For N = 12, the two-tailed critical value of Pearson's r at p ≤ 0.05 is 0.576. The calculated value must be equal to or greater than this.
+**7.** A researcher writes a new 10-item exam stress scale. Twelve students complete it and also complete an established questionnaire that measures exam stress. The correlation between the two sets of scores is r = +0.74. For N = 12, the two-tailed critical value of Pearson's r at p ≤ 0.05 is 0.576. The calculated value must be equal to or greater than this.
 
 **(a)** Explain how this procedure assesses concurrent validity. **[2]**
 **(b)** State whether the correlation is significant. Give a reason. **[2]**
@@ -150,7 +150,7 @@ A Chi-squared test gave χ² = 4.89 (df = 1). The two-tailed critical values are
 **(d)** The hypothesis is directional, so one-tailed values are used [1]. T = 4.5 is less than 8, so the result is significant at p ≤ 0.05 and the null hypothesis is rejected [1]. T = 4.5 is greater than 3, so it is not significant at p ≤ 0.01 [1]. **[3]**
 *Examiner insight:* in (d), state the rule direction for Wilcoxon and quote both numbers; "4.5 is significant" alone earns little.
 
-**7. (a)** Scores on the new scale are compared with an established measure of a related construct taken at the same time [1]. A strong positive correlation shows the new scale agrees with the established one, which supports its validity [1]. **[2]**
+**7. (a)** Scores on the new scale are compared with scores on an established measure of exam stress taken at the same time [1]. A strong positive correlation shows the new scale agrees with the established one, which supports its validity [1]. **[2]**
 **(b)** It is significant [1], because 0.74 is greater than the critical value of 0.576 [1]. **[2]**
 **(c)** Ask experts, such as clinical psychologists, to inspect the 10 items [1] and judge whether each item looks as if it measures exam stress, rewriting any that do not [1]. **[2]**
 *Examiner insight:* face validity is judged by inspecting items, so an answer that correlates scores here is describing a different type.

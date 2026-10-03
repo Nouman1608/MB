@@ -39,7 +39,7 @@ Use it with the [issues and debates revision notes](/resources/oxfordaqa-a-level
 
 ## How Unit 4 is set out
 
-Section 2.3 prints three 30-mark sections of compulsory questions: A, Approaches in psychology; B, Issues and debates in psychology; C, Applied psychology: work and the individual. Section 4.3.2 gives approximate Unit 4 weightings, as a share of the whole International A-level, of AO1 9%, AO2 8% and AO3 13%. Evaluation carries the most weight. The specification does not print command words or mark schemes; your teacher will confirm how each question type is marked.
+Section 2.3 prints three 30-mark sections of compulsory questions: A, Approaches in psychology; B, Issues and debates in psychology; C, Applied psychology: work and the individual. Section 4.3.2 gives approximate Unit 4 weightings, as a share of the whole International A-level, of AO1 9%, AO2 8% and AO3 13%. The specification does not print command words or mark schemes; your teacher will confirm how each question type is marked.
 
 The key instruction is synoptic: you are "expected to use knowledge and understanding from other areas of the course to illustrate and inform" Section A and B answers. Section 3.4.2 does not name gender and culture bias, psychic determinism, idiographic and nomothetic approaches or social sensitivity, so treat those as background if your teacher covers them.
 
@@ -57,7 +57,7 @@ The key instruction is synoptic: you are "expected to use knowledge and understa
 **Synoptic examples.**
 
 - *Biological determinism, sleep.* Narcolepsy type 1 is linked to the loss of brain cells that produce the neurotransmitter orexin (also called hypocretin). A person cannot simply decide to stay awake if that system is damaged.
-- *Soft determinism, social influence.* Rotter's (1966) locus of control describes a belief that outcomes depend on your own actions (internal) or outside forces (external). An internal locus is linked to resisting social pressure, so beliefs about control can change behaviour.
+- *Soft determinism, social influence.* Rotter's (1966) locus of control describes a belief that outcomes depend on your own actions (internal) or outside forces (external). The specification lists it as an explanation of resistance to social influence: an internal locus is thought to help people resist pressure.
 
 **The scientific emphasis on causal explanations.** Science looks for cause and effect. An experiment manipulates an independent variable and measures its effect on a dependent variable while controlling extraneous variables. That method assumes behaviour is determined: if it were not, there would be no regular effect to find. Prediction and control, the goals Watson set out for psychology in 1913, only make sense if behaviour has causes.
 
@@ -79,7 +79,7 @@ The key instruction is synoptic: you are "expected to use knowledge and understa
 
 **Synoptic examples.**
 
-- *Nature, cognitive development.* Baillargeon (1987) used the violation of expectation method: infants watched possible and impossible events, and looking time was measured. Infants as young as 3.5 months looked longer at impossible events, suggesting some understanding that hidden objects still exist. Piaget had placed object permanence later in the first year. Earlier understanding supports a stronger role for nature.
+- *Nature, cognitive development.* Baillargeon (1987) used the violation of expectation method: infants watched possible and impossible events, and looking time was measured. Some infants as young as 3.5 months looked longer at impossible events, suggesting some understanding that hidden objects still exist. Piaget had placed object permanence later in the first year. Earlier understanding supports a stronger role for nature.
 - *Nurture, cognitive development.* Vygotsky argued that higher thinking develops through social interaction and cultural tools such as language. Scaffolding by an adult moves a child forward.
 - *Interaction, biopsychology.* Maguire et al. (2000) found that London taxi drivers had a larger posterior hippocampus than controls, and that its volume was positively correlated with time spent as a taxi driver. Experience appears to change the brain (plasticity).
 - *Interaction, sleep.* The sleep/wake cycle depends on an endogenous pacemaker (an inherited internal clock) that is reset by exogenous zeitgebers such as light. Neither works alone. Narcolepsy type 1 is also interactionist: a genetic variant in the HLA system raises risk, and an immune trigger such as an infection is thought to start the loss of orexin cells.
@@ -111,9 +111,9 @@ The key instruction is synoptic: you are "expected to use knowledge and understa
 **Evaluation.**
 
 - *Strength of reductionism.* Clear, testable variables and practical treatments such as antipsychotic drugs.
-- *Limit of biological reductionism.* Antipsychotics change dopamine activity within minutes, but symptoms usually take several days to improve. Atypical antipsychotics have been reported to work better than typicals on negative symptoms, and other neurotransmitters such as glutamate are involved. So dopamine alone is an incomplete account.
+- *Limit of biological reductionism.* Antipsychotics block dopamine receptors within hours, but symptoms usually take days or weeks to improve. Atypical antipsychotics have been reported to work better than typicals on negative symptoms, and other neurotransmitters such as glutamate are involved. So dopamine alone is an incomplete account.
 - *Limit of stimulus-response reductionism.* Tolman and Honzik (1930) found that rats which explored a maze without food for 10 days, and were then rewarded on day 11, quickly matched rats that had been rewarded all along. They had learned the layout without reinforcement, which pure stimulus-response links cannot explain.
-- *Holism.* Janis (1972) described groupthink, where a close group reaches poor decisions that no single member would make. Such effects exist only at the group level. But holistic accounts are harder to test, because too many variables interact.
+- *Holism.* Janis (1972) described groupthink, where the drive for agreement in a close-knit group overrides realistic appraisal of alternatives and leads to poor decisions. Such effects exist only at the group level. But holistic accounts are harder to test, because too many variables interact.
 
 **Worked paragraph.** Stimulus-response reductionism explains learning as conditioned links between stimuli and responses (knowledge). Skinner would explain a rat's maze running as a response strengthened by food (application). This gives precise, measurable variables, which is why it produced reliable laws of reinforcement (analysis). However, Tolman and Honzik (1930) showed that rats which had not been rewarded had still learned the maze, which only showed once food appeared on day 11; this suggests an internal cognitive map, so the reductionist account leaves out a mental level (evaluation).
 
@@ -137,7 +137,7 @@ Watson (1913), rejecting the introspection used in early laboratories, argued th
 - *Against.* Low replication rates and the role of interpretation challenge objectivity. Human participants react to being studied (demand characteristics), which physics does not face.
 - *A counter-argument.* The replication problem was found by scientific methods, and responses such as larger samples and pre-registration of hypotheses are themselves scientific corrections.
 
-**Worked paragraph.** Falsifiability means a theory must make predictions that could be shown to be wrong (knowledge). Piaget's theory predicted that young infants lack object permanence, and Baillargeon (1987) found looking-time evidence of it at 3.5 months (application). Because the claim could be tested and challenged, Piaget's theory meets Popper's criterion, and the result led to revision of his timeline (analysis). However, critics question whether looking time measures knowledge, so falsification in psychology often depends on how a measure is interpreted (evaluation).
+**Worked paragraph.** Falsifiability means a theory must make predictions that could be shown to be wrong (knowledge). Piaget's theory predicted that young infants lack object permanence, and Baillargeon (1987) found looking-time evidence of it in some infants at 3.5 months (application). Because the claim could be tested and challenged, Piaget's theory meets Popper's criterion, and the result led to revision of his timeline (analysis). However, critics question whether looking time measures knowledge, so falsification in psychology often depends on how a measure is interpreted (evaluation).
 
 ## Common errors
 

@@ -39,7 +39,7 @@ Use it with the [revision notes for Research methods 2](/resources/oxfordaqa-a-l
 | 3.3.3 Data handling | Nominal, ordinal and interval data; choosing a test by aim, level of measurement and design | Unit 3, Section C |
 | 3.3.3 Data handling | When to use Spearman's rho, Pearson's r, Wilcoxon, Mann-Whitney, related t-test, unrelated t-test, Sign test and Chi-squared | Unit 3, Section C |
 
-The specification states that you will **not** carry out statistical tests in the exam. You should be able to comment on the use of named tests and interpret their results. It also says research methods, practical skills and mathematical skills are assessed in Unit 3.
+The specification states that you will **not** carry out statistical tests in the exam. You should be able to comment on the use of named tests and interpret their results. It also says research methods, practical research skills and mathematical skills are assessed in Unit 3.
 
 ## Content analysis
 

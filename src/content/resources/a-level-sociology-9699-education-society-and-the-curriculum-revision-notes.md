@@ -82,12 +82,12 @@ Questions 1-3 share the remaining 24 marks; your teacher will confirm the split.
 | Parsons | Functionalist | School is the bridge from particularistic family to universalistic society; status becomes achieved | Ignores class barriers to achievement |
 | Davis and Moore (1945) | Functionalist | Education sifts the most able into the most important, best-rewarded jobs | Tumin: high pay does not prove importance |
 | Althusser (1970; English 1971) | Marxist | School is the dominant ideological state apparatus in capitalist societies | Sees pupils as passive |
-| Bowles and Gintis (1976) | Marxist | Correspondence principle; New York study of 237 students: grades linked to perseverance and punctuality, not creativity | Based on 1970s American schooling |
+| Bowles and Gintis (1976) | Marxist | Correspondence principle; used Meyer's study of 237 seniors at a New York State high school: grades linked to perseverance and punctuality, not creativity | Based on 1970s American schooling |
 | Willis (1977) | Marxist | 12 working-class "lads" resisted school yet still entered manual jobs | Small sample of boys in one school |
 | Bourdieu (with Passeron) | Cultural reproduction | Schools reward middle-class cultural capital | Some working-class pupils succeed |
 | Halsey | Social democratic | Equality of opportunity through state action, such as comprehensive schools | Expansion has not closed class gaps |
 | Schultz; Becker (1964) | Human capital theory | Education is an investment that raises productivity | Wolf (2002): spending does not automatically drive growth |
-| Chubb and Moe (1990) | New Right | Democratic control causes poor schools; choice and competition improve them | Ball, Bowe and Gewirtz (1994): markets favour skilled, mainly middle-class choosers |
+| Chubb and Moe (1990) | New Right | Democratic control causes poor schools; choice and competition improve them | Gewirtz, Ball and Bowe (1995): markets favour privileged/skilled, mainly middle-class choosers |
 | Young (1958) | Meritocracy | Merit = intelligence + effort; satire warning of a new elite | Written as a warning, not a blueprint |
 | Dore (1976) | Credentials | Qualification inflation weakens the value of each credential | Qualifications still matter for many jobs |
 | Goldthorpe (1980) | Mobility | Absolute mobility rose; relative mobility stayed broadly stable | Focuses on Britain |

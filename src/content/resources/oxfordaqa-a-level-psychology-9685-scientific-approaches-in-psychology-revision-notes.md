@@ -70,7 +70,7 @@ When you have revised, try the [approaches practice questions](/resources/oxford
 | Who | What they did | Key finding | One evaluation point |
 |---|---|---|---|
 | Pavlov | Paired neutral sounds (metronomes, whistles, tuning forks) with food for dogs | Sound alone came to produce salivation | Objective and controlled, but dogs' reflexes may not generalise to complex human behaviour |
-| Skinner (*The Behavior of Organisms*, 1938) | Rats in a box pressed a lever for food, or to switch off a mild electric current | Behaviour followed by reward, or by removal of something unpleasant, increased | Strong control, but ignores thought and expectation |
+| Skinner (*The Behavior of Organisms*, 1938) | Rats in a box pressed a lever and received food pellets | Lever pressing followed by food increased (positive reinforcement) | Strong control, but ignores thought and expectation |
 | Ferster and Skinner (1957) | Studied schedules of reinforcement | Variable ratio responding lasts longest without reward | Explains persistent behaviour such as repeated checking |
 | Bandura, Ross and Ross (1961) | 72 nursery children (37 to 69 months) saw an aggressive, non-aggressive or no model with a Bobo doll | Aggressive model led to more copied aggression; same-sex models had more influence | Demand characteristics: the doll is designed to be hit |
 | Bandura (1965) | Model rewarded, punished or no consequence; then children offered rewards to copy | Punished-model group copied less, until offered rewards | Shows learning and performance are different |
