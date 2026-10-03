@@ -24,7 +24,7 @@ featured: false
 
 For full explanations and worked paragraphs, read the [Addiction study guide](/resources/aqa-a-level-psychology-7182-addiction/) first.
 
-These notes follow the AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025), for teaching from September 2025. They cover section 4.3.10 Addiction, part of Option 3. Addiction is assessed in Paper 3: Issues and Options in Psychology, Section D (24 marks, with multiple choice, short answer and extended writing). Paper 3 is 2 hours, 96 marks and 33.3% of A-level. You answer Section A (Issues and debates, compulsory) and one topic from each option group: one from option 1, one from option 2 and one from option 3.
+These notes follow the AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025), for teaching from September 2025. They cover section 4.3.10 Addiction, part of Option 3. Addiction is assessed in Paper 3: Issues and Options in Psychology, Section D (24 marks, with multiple choice, short answer and extended writing). Paper 3 is 2 hours, 96 marks and 33.3% of A-level. Paper 3 assesses the compulsory Issues and debates in Psychology content and optional content: one from option 1, one from option 2 and one from option 3.
 
 Keep the [7182 subject hub](/boards/aqa/a-level/psychology/) and the [7182 topic checklist](/checklists/aqa/a-level/psychology/) open while you revise, and finish with the [Addiction practice questions](/resources/aqa-a-level-psychology-7182-addiction-practice/).
 
@@ -69,12 +69,12 @@ Keep the [7182 subject hub](/boards/aqa/a-level/psychology/) and the [7182 topic
 | Dopamine explanation | Nicotine stimulates dopamine release in the nucleus accumbens | Explains pleasure, tolerance and withdrawal | Reductionist; does not explain relapse long after withdrawal |
 | Carter and Tiffany (1999) | Meta-analysis of 41 cue-reactivity studies | Drug cues produced large craving effects and smaller physiological effects | Lab cues may not match real-life cues |
 | Learning theory of gambling | Variable ratio reinforcement, near misses as reinforcers | Explains persistent betting and resistance to extinction | Most gamblers on the same schedules do not become addicted |
-| Clark et al. (2009) | Near misses in a simulated slot machine | Near misses raised the desire to play and activated win-related brain areas | Lab gambling lacks real financial risk |
-| Griffiths (1994) | 30 regular and 30 non-regular fruit-machine gamblers, thinking aloud | Regular gamblers made more irrational verbalisations (about 14% compared with 2.5%) but were not more skilful | Coding verbalisations is subjective |
-| Kim et al. (2001) | Double-blind naltrexone trial for gambling | 75% improved substantially compared with 24% on placebo | Side effects such as nausea |
-| Hajek and Stead (2004) | Cochrane review of aversive smoking | Insufficient evidence for rapid smoking; trials had method problems | Few high-quality trials |
-| Petry et al. (2006) | 231 gamblers: GA referral, plus workbook, or plus individual CBT | Outcomes generally better with CBT | Needs motivation and a trained therapist |
-| Cahill, Lancaster and Green (2010) | Cochrane review of stage-based smoking interventions | Not more effective than non-stage-based interventions | Challenges the practical value of Prochaska's model |
+| Clark et al. (2009) | Near misses in a simulated slot machine | Near misses raised the desire to play (only with personal control) and activated win-related brain areas | A simplified lab slot machine may not reflect real gambling settings |
+| Griffiths (1994) | 30 regular and 30 non-regular fruit-machine gamblers, thinking aloud | Regular gamblers made more irrational verbalisations (about 14% of verbalisations compared with 2.5%) but were not significantly more skilful on objective measures | Coding verbalisations is subjective |
+| Kim et al. (2001) | 11-week double-blind naltrexone trial for gambling | 75% much or very much improved, compared with 24% on placebo | Nausea was common in the first week |
+| Hajek and Stead (2004) | Cochrane review of aversive smoking | Insufficient evidence to judge rapid smoking; most trials had serious method problems | Weak trial quality limits conclusions |
+| Petry et al. (2006) | 231 gamblers: GA referral, plus workbook, or plus individual CBT | CBT reduced gambling more than GA referral alone | Needs motivation and a trained therapist |
+| Cahill, Lancaster and Green (2010) | Cochrane review of stage-based smoking interventions | Neither more nor less effective than non-stage-based equivalents | Challenges the practical value of Prochaska's model |
 
 ## Must-know distinctions
 
@@ -109,7 +109,7 @@ For the debates themselves (Section A of Paper 3), see the [Issues and debates s
 - **Reductionism**: the dopamine explanation reduces addiction to one neurotransmitter; learning theory reduces it to stimulus-response links. Neither alone explains individual differences.
 - **Determinism**: if genes or conditioning fully caused addiction, treatment and personal choice would make little difference. The success of CBT and of stage-matched support suggests people can change.
 - **Practical applications**: risk factor research guides prevention; cue reactivity research guides relapse prevention; the stage model guides how services talk to people who are not yet ready to change.
-- **Ethics**: aversion therapy causes deliberate discomfort and has high dropout, so check informed consent and the right to withdraw.
+- **Ethics**: aversion therapy causes deliberate discomfort, so check informed consent and the right to withdraw.
 
 ## Quick self-test
 
@@ -139,7 +139,7 @@ For the debates themselves (Section A of Paper 3), see the [Issues and debates s
 9. Covert sensitisation pairs the behaviour with an imagined unpleasant consequence, not a real one.
 10. Functional analysis: working out when and why the behaviour happens.
 11. Precontemplation, contemplation, preparation, action, maintenance, termination.
-12. They were no more effective than non-stage-based interventions.
+12. They were neither more nor less effective than non-stage-based equivalents.
 
 ## Where marks are usually lost
 

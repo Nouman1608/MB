@@ -28,7 +28,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-This set follows the AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025), for teaching from September 2025. It covers section 4.3.8, Aggression, which the specification assesses in Paper 3, Issues and Options in Psychology, Section D ("one topic from option 3, 15–17", 24 marks, with multiple choice, short answer and extended writing). Penmoor College, HMP Ashcombe, the Corran cichlid and all people and figures in the questions are fictional.
+This set follows the AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025), for teaching from September 2025. It covers section 4.3.8, Aggression, which the specification assesses in Paper 3, Issues and Options in Psychology, Section D ("one topic from option 3, 15–17", 24 marks, with multiple choice, short answer and extended writing). Penmoor College, HMP Ashcombe, Bramford, the Corran cichlid, the podcast host and all people and figures in the questions are fictional.
 
 Learn the content first with the [aggression study guide](/resources/aqa-a-level-psychology-7182-aggression/) and the [aggression revision notes](/resources/aqa-a-level-psychology-7182-aggression-revision-notes/). The [7182 course hub](/boards/aqa/a-level/psychology/) and [7182 checklist](/checklists/aqa/a-level/psychology/) cover the rest of the course.
 
@@ -76,11 +76,11 @@ Use social learning theory to explain Tom's behaviour. **[4]**
 
 **9.** Explain **one** limitation of the frustration-aggression hypothesis as an explanation of human aggression. **[3]**
 
-**10.** Evaluate de-individuation as an explanation of human aggression. **[8]**
+**10.** After a cup final, a group of fans in matching masks damaged the centre of Bramford. Evaluate de-individuation as an explanation of aggression by crowds such as this one. **[8]**
 
-**11.** Discuss evolutionary explanations of human aggression. **[16]**
+**11.** A podcast host claims that "jealous violence in relationships is simply part of male nature". Discuss evolutionary explanations of human aggression. Refer to the host's claim in your answer. **[16]**
 
-**12.** Discuss media influences on aggression. Refer to the role of desensitisation, disinhibition and cognitive priming in your answer. **[16]**
+**12.** A parent asks whether letting a teenager play violent computer games will make them more aggressive. Discuss media influences on aggression. Refer to desensitisation, disinhibition and cognitive priming in your answer. **[16]**
 
 ## Answers
 
@@ -119,12 +119,12 @@ Use social learning theory to explain Tom's behaviour. **[4]**
 
 - Zimbardo (1969) found hooded, anonymous participants gave longer electric shocks than named ones, supporting the link between anonymity and aggression [1].
 - Diener et al. (1976) found children who were anonymous and in groups were more likely to take extra Halloween sweets, showing reduced self-regulation [1].
-- These findings help explain real crowd violence, such as masked groups at riots, giving the theory practical use [1].
+- The theory fits the Bramford fans: matching masks gave anonymity, which may have lowered self-awareness and weakened their usual restraints [1].
 - However, Postmes and Spears (1998) reviewed 60 studies and found only weak overall support [1].
 - They argued anonymity increases conformity to local group norms rather than releasing aggression in general [1].
 - So de-individuation can lead to pro-social behaviour if the group norm is peaceful, which the original theory cannot explain [1].
 - Lab tasks such as giving shocks lack ecological validity, so the link to real aggression is uncertain [1].
-- Judgement: de-individuation explains some aggression, but only when combined with the norms of the group [1].
+- Judgement: the Bramford damage is better explained by anonymity plus an aggressive group norm than by anonymity alone [1].
 
 **[8]**
 *Examiner insight:* "Evaluate" questions need sustained judgement; a paragraph describing the theory earns little AO3 credit.
@@ -138,7 +138,7 @@ Use social learning theory to explain Tom's behaviour. **[4]**
 - Sexual jealousy may have evolved to prevent cuckoldry [1].
 - Mate retention strategies include direct guarding and negative inducements, such as threats or violence [1].
 - Aggression may also raise status and access to resources, attracting mates [1].
-- Daly and Wilson (1988) argued sexual jealousy is a leading motive in partner violence and homicide [1].
+- Wilson and Daly (1996) argued that male sexual proprietariness, a sense of ownership over a partner, underlies much violence against wives [1].
 
 *AO3 (evaluation)*
 
@@ -147,7 +147,7 @@ Use social learning theory to explain Tom's behaviour. **[4]**
 - But the evidence is largely correlational and self-reported, so cause cannot be established [1].
 - Cultural variation in levels of aggression suggests learning plays a large role, which the theory underplays [1].
 - The theory is hard to falsify, because the ancestral environment cannot be observed [1].
-- It is deterministic and could be misused to excuse partner violence, raising social sensitivity [1].
+- The host's claim that such violence is "simply" male nature is deterministic; it ignores cultural variation and could be misused to excuse partner violence [1].
 - It cannot easily explain non-adaptive aggression, such as violence that damages the aggressor's own reproductive chances [1].
 - Social learning theory offers an alternative based on observed models and reinforcement [1].
 - An interactionist view combines evolved tendencies with cultural and situational triggers [1].
@@ -160,12 +160,12 @@ Use social learning theory to explain Tom's behaviour. **[4]**
 
 *AO1 (description)*
 
-- Laboratory studies such as Anderson and Dill (2000) found that playing a violent game led to longer noise blasts than a non-violent game [1].
+- Anderson and Dill (2000) found that playing a graphically violent game in the laboratory increased aggressive thoughts and behaviour [1].
 - Desensitisation: repeated exposure reduces emotional and physiological arousal to violence [1].
-- Carnagey et al. (2007) found lower heart rate and skin response to filmed real violence after 20 minutes of violent game play [1].
+- Carnagey et al. (2007) found lower skin conductance to videos of real-life violence after playing a violent game than after a non-violent one [1].
 - Disinhibition: media make violence seem normal and acceptable, especially when it is rewarded, weakening usual restraints [1].
 - Cognitive priming: violent content activates aggressive thoughts and scripts that a later cue can trigger [1].
-- Josephson (1987) found boys who watched a violent film featuring walkie-talkies were more aggressive in hockey when a referee carried one [1].
+- Josephson (1987) found that violent TV plus a cue linked to it raised boys' aggression in floor hockey, mainly in groups with more high-aggressive boys [1].
 
 *AO3 (evaluation)*
 
@@ -173,12 +173,12 @@ Use social learning theory to explain Tom's behaviour. **[4]**
 - However, lab measures such as noise blasts are not real-world aggression, which limits validity [1].
 - Lab effects are short-term and may not show lasting change [1].
 - Correlational research cannot rule out that aggressive people choose violent media [1].
-- Ferguson (2015) argued effects are small and inflated by publication bias [1].
+- Ferguson (2015) pooled 101 studies of young people, found the effect on aggression was minimal and argued publication bias remains a problem [1].
 - Josephson's field setting gives more realism, supporting priming [1].
 - Lower arousal (desensitisation) is not the same as behaving aggressively, so the mechanism is only partly shown [1].
 - Effects may depend on the individual, such as existing aggressive traits, suggesting an interaction [1].
 - Findings could inform age ratings and parental guidance, giving practical value [1].
-- Judgement: media seem to raise short-term aggression through these mechanisms, but long-term effects remain disputed [1].
+- Judgement for the parent: violent games may raise short-term aggression, especially in already aggressive players, but long-term effects remain disputed [1].
 
 **[16]**
 *Examiner insight:* The question names three mechanisms, so an answer that covers only desensitisation cannot reach the top band.

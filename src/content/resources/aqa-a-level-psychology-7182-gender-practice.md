@@ -81,9 +81,9 @@ Use gender schema theory to explain Leo's behaviour. **[4]**
 
 **10.** Evaluate Kohlberg's theory of gender development. Refer to gender schema theory in your answer. **[8]**
 
-**11.** Discuss biological explanations of gender development. **[16]**
+**11.** Discuss biological explanations of gender development. Refer to evidence from atypical sex development in your answer. **[16]**
 
-**12.** Discuss biological and social/cultural explanations of gender incongruence. **[8]**
+**12.** Discuss biological and social/cultural explanations of gender incongruence. Refer to the difficulty of establishing cause in this research. **[8]**
 
 ## Answers
 
@@ -119,14 +119,14 @@ Questions 10 to 12 are extended responses. In the real exam these are marked wit
 **9.** Assess constancy with interview questions, such as asking a boy whether he would still be a boy if he wore a dress [1]. The independent variable is whether the child has reached constancy or not; this is a naturally occurring difference, so it is a quasi-experiment [1]. Each child watches a short split-screen video of a man and a woman doing the same simple tasks [1]. The dependent variable is the number of seconds the child looks at the same-gender model, recorded by trained observers [1]. Control: every child sees the same video for the same length, with the side each model appears on counterbalanced [1]. Ethics: parents give informed consent for their children, and testing stops if a child shows distress [1]. **[6]**
 *Examiner insight:* design marks need operationalised variables; "measure attention" without seconds or a method earns less.
 
-**10.** Kohlberg proposed that gender understanding develops through gender identity, stability and constancy [1], and that children only actively imitate same-gender models once constancy is reached [1]. Support comes from Slaby and Frey (1975), who found higher-constancy children watched same-sex adults more in a film [1]. However, children show gender-typed preferences well before age 6 (Martin and Little, 1990) [1], which challenges the claim that constancy is needed [1]. Gender schema theory explains this better, because it says basic identity alone starts schema-driven learning [1]. Both theories see the child as active, a strength over social learning theory [1]. But Kohlberg does not explain where gender content comes from or why some people's gender identity differs from their assigned sex, so culture and biology are also needed [1]. **[8]**
+**10.** Kohlberg proposed that gender understanding develops through gender identity, stability and constancy [1], and that children only actively imitate same-gender models once constancy is reached [1]. Support comes from Slaby and Frey (1975), who found higher-constancy children, especially boys, watched the same-sex adult more in a film [1]. However, children show gender-typed preferences well before age 6 (Martin and Little, 1990) [1], which challenges the claim that constancy is needed [1]. Gender schema theory explains this better, because it says basic identity alone starts schema-driven learning [1]. Both theories see the child as active, a strength over social learning theory [1]. But Kohlberg does not explain where gender content comes from or why some people's gender identity differs from their assigned sex, so culture and biology are also needed [1]. **[8]**
 *Examiner insight:* using gender schema theory as a comparison only gains credit when it is tied to a specific weakness in Kohlberg.
 
 **11.** Model plan:
 
 - AO1: Sex chromosomes (XX/XY) set the pattern of development; the SRY gene triggers testes [1]. Prenatal testosterone masculinises the body and is thought to masculinise the brain [1]. Hormones at puberty, testosterone and oestrogen, strengthen sex differences [1]. Oxytocin is linked to bonding, and Taylor et al. (2000) linked women's "tend and befriend" stress response partly to it [1]. AIS shows that without androgen response an XY person develops a female body and usually a female identity [1].
 - AO3 support: Berenbaum and Hines (1992) found girls with CAH, exposed to high prenatal androgens, preferred toys typically chosen by boys [1]. Van Goozen et al. (1995) found hormone treatment changed aggression in the predicted direction [1]. The David Reimer case suggests gender identity can resist socialisation [1].
-- AO3 challenges: Reimer is a single unique case and cannot be generalised [1]. Parents of girls with CAH may have treated them differently, a social confound [1]. Imperato-McGinley et al. (1974) supports hormones, but community attitudes may explain the identity shift [1].
+- AO3 challenges: Reimer is a single unique case and cannot be generalised [1]. Parents of girls with CAH may have treated them differently, a social confound [1]. Imperato-McGinley et al. (1979) supports hormones, but community attitudes may explain the identity shift [1].
 - AO3 issues and debates: the explanation is biologically reductionist [1] and determinist, leaving little room for choice [1]. It cannot explain cultural variation in gender roles, such as Mead's reports [1].
 - Judgement: biology appears to set a base [1], but the strongest account is interactionist, with social and cognitive factors shaping how it is expressed [1]. **[16]**
 

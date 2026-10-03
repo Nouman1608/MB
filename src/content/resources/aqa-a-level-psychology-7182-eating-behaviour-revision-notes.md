@@ -68,20 +68,20 @@ Find every unit on the [AQA A-level Psychology hub](/boards/aqa/a-level/psycholo
 | Steiner (1979) | Newborn facial reactions to tastes | Positive to sweet, rejection to bitter | Supports innate preferences, but adults learn to like bitter foods |
 | Garcia and Koelling (1966) | Rats: taste or light/sound paired with illness | Taste-illness link learned easily; light/sound-illness not | Shows preparedness; animal study, so generalise with care |
 | Bernstein (1978) | Children having chemotherapy given new ice cream | Those who had it before nausea-causing treatment later avoided it | Human evidence of taste aversion; real-world application |
-| Birch and Marlin (1982) | Two-year-olds given new fruits repeatedly | More exposure, more preference | Practical value for reducing neophobia |
+| Birch and Marlin (1982) | Two-year-olds given new cheeses or fruits repeatedly | More exposure, more preference | Practical value for reducing neophobia |
 | Birch (1980) | Preschool children eating with peers | Children shifted vegetable choices towards peers' | Supports social learning; short-term lab-style setting |
 | Brown and Ogden (2004) | Parents and children's eating | Snack intake, motives and body dissatisfaction correlated | Correlation; shared genes not ruled out |
 | Anand and Brobeck (1951) | LH lesions in rats | Rats stopped eating | Lesions also hit passing nerve fibres |
 | Hetherington and Ranson (1940) | VMH lesions in rats | Overeating and obesity | Animal brains differ from human |
 | Cummings et al. (2001) | Ghrelin before and after meals | Rises before meals, falls after | Suggests a role in starting meals |
 | Wren et al. (2001) | Ghrelin given to people | Food intake increased | Experimental, so suggests cause |
-| Montague et al. (1997) | Two cousins unable to make leptin | Severe obesity | Rare cases; most people with obesity have high leptin |
+| Montague et al. (1997) | Two related children with congenital leptin deficiency | Severe obesity | Rare cases; most people with obesity have high leptin |
 | Holland et al. (1988) | Twins with AN | Higher concordance in MZ than DZ | MZ concordance well below 100% |
 | Watson et al. (2019) | Genome-wide study of AN | Several gene locations; psychiatric and metabolic links | Each gene adds small risk |
 | Kaye et al. (2009) | Review of brain systems in AN | Serotonin and dopamine differences, even after recovery | Starvation may cause changes |
 | Minuchin et al. (1978) | Clinical work with families | Enmeshment, over-protection, conflict avoidance | Observational; may blame parents |
 | Bruch (1978) | Clinical account of AN | Lack of autonomy; food restriction as control | Based on case material |
-| Becker et al. (2002) | Fijian girls before and after TV | Eating-attitude risk scores rose from 13% to 29% | Measured attitudes, not diagnosis |
+| Becker et al. (2002) | Fijian girls soon after TV arrived and three years later | Share with high-risk eating-attitude scores rose from about 13% to about 29% | Measured attitudes, not diagnosis |
 | Garner and Bemis (1982) | Cognitive account of AN | Irrational beliefs and reasoning errors | Distortions may be effects of AN |
 | Stunkard et al. (1986) | Adopted adults | Weight linked to biological, not adoptive, parents | Separates genes and upbringing |
 | Frayling et al. (2007) | FTO gene variant | Two copies: about 3 kg heavier on average | Small effect; polygenic |

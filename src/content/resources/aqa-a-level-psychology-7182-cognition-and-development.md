@@ -71,7 +71,7 @@ Jean Piaget argued that children are active learners who build knowledge by acti
 - *Strength:* Piaget changed how people saw children, as active thinkers rather than small adults. His ideas shaped discovery learning in schools.
 - *Limitation (method):* McGarrigle and Donaldson (1974) used "Naughty Teddy" to mess up a row of counters. Many more 4–6-year-olds conserved than in Piaget's version, where an adult deliberately changed the row. Piaget's task may have signalled that the answer *should* change.
 - *Limitation (method):* Samuel and Bryant (1984) found fewer errors when children were asked about quantity only once, after the change. Asking twice may make children think their first answer was wrong.
-- *Limitation (egocentrism):* Hughes (1975) used a "policeman doll" task with a scenario children understood. Most children aged 3½–5 hid a boy doll where the policeman could not see him, which suggests less egocentrism than the three mountains task showed.
+- *Limitation (egocentrism):* Hughes (1975) used a "policeman doll" task with a scenario children understood. About 90% of children aged 3½–5 hid a boy doll where neither of two policeman dolls could see him, which suggests less egocentrism than the three mountains task showed.
 - *Limitation (sample):* Piaget's early observations included his own children, which raises the risk of bias and limits generalisation.
 
 **Worked paragraph (Piaget and conservation)**
@@ -90,14 +90,14 @@ Lev Vygotsky argued that cognitive development is social first and individual la
 
 **Evaluation**
 
-- *Strength:* Wood and Middleton (1975) found that mothers who adjusted their help to how their child was doing (more help after failure, less after success) had children who did better on a block task alone. This supports scaffolding within the ZPD.
+- *Strength:* Wood and Middleton (1975) found that mothers who adjusted their help to how their child was doing (more help after failure, less after success) gave the most effective help as their 4-year-olds tried to build a model from blocks and pegs. This supports scaffolding within the ZPD.
 - *Strength (application):* the theory supports guided group work, peer tutoring and teacher questioning in schools.
 - *Limitation:* the ZPD is hard to measure precisely, so it is difficult to test the theory scientifically.
 - *Limitation:* Vygotsky said less about individual differences, such as why two children with the same help learn at different speeds, or about the role of biological maturation.
 
 **Worked paragraph (scaffolding)**
 
-> Vygotsky argued that children learn best in the zone of proximal development, with scaffolding from a more knowledgeable other (knowledge). For example, a parent teaching a child to tie shoelaces might first do most of the steps, then give hints only, then simply watch (application). Wood and Middleton's finding that contingent help led to better independent performance supports this, because the help was matched to the child's current level (analysis). However, scaffolding research mostly uses practical tasks with young children, so it shows how help works rather than proving that all thinking starts as social interaction (evaluation).
+> Vygotsky argued that children learn best in the zone of proximal development, with scaffolding from a more knowledgeable other (knowledge). For example, a parent teaching a child to tie shoelaces might first do most of the steps, then give hints only, then simply watch (application). Wood and Middleton's finding that the most effective mothers adjusted their help to how the child was doing supports this, because the help was matched to the child's current level (analysis). However, scaffolding research mostly uses practical tasks with young children, so it shows how help works rather than proving that all thinking starts as social interaction (evaluation).
 
 ## Baillargeon's explanation of early infant abilities
 
@@ -151,7 +151,7 @@ Robert Selman interviewed children about social dilemmas, such as a story in whi
 
 **Mirror neurons** fire both when you perform an action and when you watch someone else perform it. Rizzolatti's research group first recorded them in macaque monkeys in the 1990s. The theory is that the mirror neuron system lets us understand others' actions and intentions by simulating them, which could support empathy, imitation and ToM. Iacoboni and colleagues (2005) used fMRI and found that a mirror area in the inferior frontal cortex responded differently to the same grasping action depending on whether the scene suggested the person intended to drink or to clean up.
 
-*Evaluation:* Mukamel and colleagues (2010) recorded single neurons in human patients and found cells that responded to both doing and seeing actions, which supports their existence in humans. However, Hickok (2009) argued that mirror neuron activity could be a result of understanding rather than its cause, and that much human evidence comes from fMRI, which measures broad activity in brain areas rather than individual mirror neurons.
+*Evaluation:* Mukamel and colleagues (2010) recorded single neurons in human patients and found cells that responded to both doing and seeing actions, which supports their existence in humans. However, Hickok (2009) reviewed the evidence and argued that it does not show mirror neurons are the basis of understanding others' actions. Also, much human evidence comes from fMRI, which measures broad activity in brain areas rather than individual mirror neurons.
 
 **Worked paragraph (mirror neurons)**
 

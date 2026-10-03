@@ -34,7 +34,7 @@ Practise with the [aggression practice questions](/resources/aqa-a-level-psychol
 |---|---|
 | Paper | Paper 3: Issues and Options in Psychology |
 | Length and marks | Written exam, 2 hours, 96 marks, 33.3% of A-level |
-| Section A | Issues and debates (compulsory content 8), 24 marks |
+| Section A | Multiple choice, short answer and extended writing, 24 marks (compulsory content 8 is assessed in Paper 3; your teacher will confirm it sits in Section A) |
 | Sections B, C, D | One topic from option 1 (9–11), option 2 (12–14) and option 3 (15–17), 24 marks each |
 | Option 3 | Aggression, Forensic Psychology, Addiction |
 | Question types | Multiple choice, short answer and extended writing |
@@ -68,28 +68,28 @@ Practise with the [aggression practice questions](/resources/aqa-a-level-psychol
 
 | Who | What | Finding | One evaluation point |
 |---|---|---|---|
-| Klüver and Bucy (1939) | Temporal lobe lesions in rhesus monkeys | Monkeys became tamer | Animal brains may not generalise to humans |
+| Klüver and Bucy (1939) | Temporal lobes removed on both sides in rhesus monkeys | Monkeys became placid and lost normal fear | Animal brains may not generalise to humans |
 | Gospic et al. (2011) | Ultimatum game in a scanner, drug vs placebo | Drug lowered amygdala activity and rejection of unfair offers | Drug manipulation shows cause, not just correlation |
-| Raleigh et al. (1991) | Serotonin-altering treatments in vervet monkeys | Raised serotonin, less aggression; lowered, more | Animal study |
-| Dabbs et al. (1987) | Saliva testosterone in 89 male prisoners | Highest levels mostly violent offenders | Correlational; direction of cause unclear |
+| Raleigh et al. (1991) | Serotonin-raising or -lowering drugs in male vervet monkeys | Raised serotonin: treated males became dominant; lowered: cage mates did | Animal study; dominance is not the same as aggression |
+| Dabbs et al. (1987) | Saliva testosterone in 89 male prisoners | 10 of the 11 highest had committed violent crimes | Correlational; direction of cause unclear |
 | Mehta and Josephs (2010) | Dual-hormone hypothesis | Testosterone predicts dominance mainly when cortisol is low | Shows a single-hormone account is too simple |
-| Coccaro et al. (1997) | Adult male twins | Genes explained about half the variance in physical aggression | Assumes equal environments for MZ and DZ twins |
-| Brunner et al. (1993) | 28 men in a Dutch family | MAOA fault, low MAOA activity, impulsive violence | One family; may not generalise |
-| Caspi et al. (2002) | Dunedin boys, MAOA and maltreatment | Low MAOA plus maltreatment: about 12% of males, 44% of violent convictions | Supports gene-environment interaction |
+| Coccaro et al. (1997) | Adult male twins | Genes explained about 47% of the variance in direct physical aggression | Assumes equal environments for MZ and DZ twins |
+| Brunner et al. (1993) | Affected men in one Dutch family | MAOA mutation, no MAOA activity, impulsive aggression | One family; may not generalise |
+| Caspi et al. (2002) | Dunedin boys, MAOA and maltreatment | Maltreated boys with high-activity MAOA less likely to become antisocial | Supports gene-environment interaction |
 | Tinbergen (1951) | Stickleback models | Red underside triggered attack | Controlled, but animal-only evidence |
 | Lorenz | Ethology | Aggression adaptive and often ritualistic | Gombe chimpanzee killings show lethal aggression |
 | Shackelford et al. (2005) | Couples survey | Men's mate retention predicted partner violence | Self-report and correlational |
 | Dollard et al. (1939) | Frustration-aggression hypothesis | Frustration always leads to aggression | Too absolute; Berkowitz (1989) revised it |
 | Berkowitz and LePage (1967) | Shocks with guns vs racquets nearby | More shocks with guns present | Aggressive cues matter |
-| Bushman (2002) | Venting on a punchbag | Venting increased aggression | Contradicts catharsis |
+| Bushman (2002) | Hitting a punchbag while thinking of the provoker | More aggressive than doing nothing | Contradicts catharsis |
 | Bandura et al. (1961) | Bobo doll | Children imitated adult aggression | Doll is not a person |
 | Bandura (1965) | Model rewarded or punished | Punished model, less imitation until reward offered | Learning differs from performance |
 | Zimbardo (1969) | Hooded vs named participants | Hooded gave longer shocks | Postmes and Spears (1998): weak overall support |
 | Irwin and Cressey (1962) | Importation model | Prisoners bring norms in | Camp and Gaes: similar misconduct at different security levels |
 | Sykes (1958) | Pains of imprisonment | Five deprivations cause frustration | Useful for prison management |
-| Anderson and Dill (2000) | Violent vs non-violent game | Longer noise blasts after violent game | Noise blasts lack validity |
-| Carnagey et al. (2007) | 20 minutes of game play, then real violence on film | Lower heart rate and skin response after violent game | Short-term lab effect |
-| Josephson (1987) | Hockey and walkie-talkie cue | Primed boys more aggressive | Field setting raises validity |
+| Anderson and Dill (2000) | Violent game in the lab | More aggressive thoughts and behaviour | Lab measures lack validity |
+| Carnagey et al. (2007) | Violent or non-violent game, then videos of real-life violence | Lower skin conductance after violent game | Short-term lab effect |
+| Josephson (1987) | 396 boys, violent or non-violent TV, cue, floor hockey | Violent TV plus cue raised aggression in groups with more high-aggressive boys | Naturalistic observation raises validity; effect not found in all boys |
 
 ## Must-know distinctions
 
@@ -139,7 +139,7 @@ The [issues and debates study guide](/resources/aqa-a-level-psychology-7182-issu
 1. The amygdala and the hypothalamus.
 2. It regulates limbic activity and impulses; poor OFC control allows reactive aggression.
 3. Serotonin (among other neurotransmitters).
-4. Low MAOA activity predicted antisocial behaviour mainly in men maltreated as children.
+4. The MAOA variant mattered mainly for boys maltreated as children: maltreated boys with high-activity MAOA were less likely to become antisocial.
 5. Universal, ballistic, single-purpose, triggered by a specific stimulus.
 6. A red underside on the model.
 7. Raising another man's child; sexual jealousy and mate retention may have evolved to prevent it.

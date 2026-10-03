@@ -70,15 +70,15 @@ Each section uses multiple choice, short answer and extended writing.
 | Berenbaum and Hines (1992) | Girls with CAH (high prenatal androgens) | Preferred toys typically chosen by boys more than female relatives did | Parents' treatment may have played a part |
 | Van Goozen et al. (1995) | Trans people receiving hormone treatment | Testosterone raised aggression; anti-androgens lowered it | Small sample; hormone effects only |
 | Diamond and Sigmundson (1997) | Follow-up of David Reimer | Raised as a girl after an injury; rejected that identity | A single unique case |
-| Imperato-McGinley et al. (1974) | Dominican Republic community, XY children appearing female at birth | Many adjusted to a male identity at puberty | Community attitudes may also explain the change |
+| Imperato-McGinley et al. (1979) | Dominican Republic community, XY children appearing female at birth | 17 of 18 raised as girls changed to a male identity during or after puberty | Community attitudes may also explain the change |
 | Kohlberg (1966) | Stages: identity, stability, constancy | Gender learning driven by cognitive maturity | Gender-typed preferences appear before constancy (Martin and Little, 1990) |
-| Slaby and Frey (1975) | Children watched a film of male and female adults | Higher-constancy children attended more to same-sex models | Supports Kohlberg |
+| Slaby and Frey (1975) | Children watched a film of male and female adults | Higher-constancy children attended more to the same-sex model (significant for boys only) | Supports Kohlberg, but weaker for girls |
 | Martin and Halverson (1981) | Gender schema theory | Gender identity alone is enough to start schemas | Does not explain where schema content comes from |
 | Martin and Halverson (1983) | Memory for gender-inconsistent pictures | Children distorted them to fit stereotypes | Supports schema-driven memory |
 | Bradbard et al. (1986) | Unfamiliar objects labelled for boys or girls | Children explored and recalled more about own-gender objects | Lab task; artificial |
 | Fagot (1978) | Parents observed with toddlers | Parents reacted more positively to gender-typical play | Supports direct reinforcement |
-| Smith and Lloyd (1978) | Adults played with an infant dressed as a boy or girl | Offered gender-typed toys based on the label | Shows reinforcement starts early |
-| Mead (1935) | Three societies in Papua New Guinea | Different gender roles, e.g. Tchambuli women dominant | Criticised for researcher bias |
+| Smith and Lloyd (1978) | Mothers played with a six-month-old infant dressed and named as a boy or girl | Toy choice and play style varied with the perceived sex | Shows reinforcement starts early |
+| Mead (1935) | Three societies in Papua New Guinea | Different gender roles, e.g. Tchambuli women dominant | Criticised as subjective; later fieldwork questioned her account |
 | Williams and Best (1990) | Cross-national study of stereotypes | Broad agreement on stereotypes across many countries | Suggests some universality |
 | Furnham and Farragher (2000) | Adverts in Britain and New Zealand | Men in autonomous roles, women in familial roles | Correlational; effect on viewers not measured |
 | Williams (1986) | "Notel", a Canadian town before and after TV | Children's gender stereotyping increased | Natural experiment; other changes possible |
@@ -107,7 +107,7 @@ Gender essays reward links to wider debates. Use them briefly and tie each to a 
 
 ## Mini essay plan
 
-**Question type:** "Discuss the cognitive explanations of gender development." **[16]**
+**Question type:** "Compare Kohlberg's theory with gender schema theory as explanations of gender development." **[16]**
 
 1. **AO1 Kohlberg:** three stages, approximate ages, constancy triggers imitation of same-gender models.
 2. **AO1 gender schema theory:** identity starts schemas; in-group vs out-group; schemas filter memory and attention.

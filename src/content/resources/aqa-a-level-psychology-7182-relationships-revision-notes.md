@@ -79,7 +79,8 @@ Course links: [AQA A-level Psychology hub](/boards/aqa/a-level/psychology/), [AQ
 | Walther (1996) | Hyperpersonal model | Selective self-presentation; faster, deeper disclosure | Fits Joinson (2001) |
 | Toma et al. (2008) | Profiles vs measured height, weight, age | Most misreported something, usually slightly | Deception modest and strategic |
 | McKenna et al. (2002) | Absence of gating | Lonely and socially anxious people formed close online relationships | Shows online contact can widen opportunity |
-| McCutcheon et al. (2002) | Absorption addiction model; Celebrity Attitude Scale | Three levels of parasocial relationship | Mostly correlational self-report |
+| McCutcheon et al. (2002) | Absorption addiction model | Absorption, then addiction, drives stronger involvement with a celebrity | Mostly correlational self-report |
+| Celebrity Attitude Scale (McCutcheon and colleagues) | Levels of parasocial relationship | Entertainment-social, intense-personal, borderline-pathological | Self-report measure |
 | Cole and Leets (1999) | Attachment explanation | Insecure-resistant most likely to form parasocial relationships | McCutcheon et al. (2006) found no link |
 
 ## Must-know distinctions
@@ -97,7 +98,7 @@ Course links: [AQA A-level Psychology hub](/boards/aqa/a-level/psychology/), [AQ
 **"Discuss Rusbult's investment model of commitment." (16 marks)**
 
 1. **Describe (AO1):** commitment from satisfaction, comparison with alternatives and investment; intrinsic and extrinsic investment; planned futures (Goodfriend and Agnew, 2008).
-2. **Support (AO3):** Le and Agnew (2003) meta-analysis; satisfaction strongest predictor.
+2. **Support (AO3):** Le and Agnew (2003) meta-analysis; the three factors together explained nearly two-thirds of the variance in commitment.
 3. **Application:** Rusbult and Martz (1995) explains why some people return to abusive partners; social exchange theory struggles to explain this.
 4. **Limitation:** self-report measures; people may justify staying after the event.
 5. **Limitation:** correlational, so commitment may produce perceived investment rather than the reverse.

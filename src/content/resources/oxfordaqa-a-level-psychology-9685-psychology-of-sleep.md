@@ -36,7 +36,7 @@ Use it with the [sleep revision notes](/resources/oxfordaqa-a-level-psychology-9
 | 3.3.1 bullet 3 | The nature of sleep: types of sleep, non-REM and REM | Unit 3, Section A |
 | 3.3.1 bullet 4 | Functions of sleep: evolutionary explanations; restoration theory; memory consolidation | Unit 3, Section A |
 | 3.3.1 bullet 5 | Sleep disorders: insomnia, including the role of personality factors and genetics; narcolepsy | Unit 3, Section A |
-| 3.3 (all Unit 3) | Demonstrate knowledge (AO1), apply it in a range of contexts (AO2), analyse, interpret and evaluate theories and studies (AO3) | Unit 3 |
+| 3.3 (all Unit 3) | Demonstrate knowledge (AO1), apply it in a range of contexts (AO2), analyse, interpret and evaluate theories and studies (AO3); evaluate therapies and treatments | Unit 3 |
 
 The specification also says research methods, practical skills and mathematical skills are assessed in Unit 3. Expect sleep questions built around data or a study design. Your teacher will confirm the question styles and mark tariffs.
 
@@ -57,8 +57,8 @@ The specification also says research methods, practical skills and mathematical 
 
 - **Siffre (1962)** spent about two months in a cave with no daylight or clocks. His sleep/wake cycle kept going but ran slightly longer than 24 hours. This shows an endogenous clock that needs light to stay on a 24-hour day.
 - **Aschoff and Wever** placed volunteers in an underground bunker with no natural light. Most settled into cycles a little longer than 24 hours.
-- **Ralph et al. (1990)** transplanted SCN tissue from mutant hamsters with short (20-hour) rhythms into normal hamsters. The recipients took on the donor's rhythm. This points to the SCN as the main pacemaker.
-- **DeCoursey et al. (2000)** destroyed the SCN in chipmunks and returned them to the wild. Many were killed by predators, as they were awake at the wrong times.
+- **Ralph et al. (1990)** transplanted SCN tissue between normal hamsters and mutant hamsters with short (20-hour) rhythms. The recipients' own SCN had been destroyed. The recipients took on the donor's rhythm, whichever direction the transplant went. This points to the SCN as the main pacemaker.
+- **DeCoursey et al. (2000)** damaged the SCN in chipmunks and returned them to their natural forest habitat. More of them were killed by weasels than control chipmunks, possibly because their restlessness at night helped predators find them.
 - **Stern and McClintock (1998)** found that odourless compounds from other women's armpits changed the length of women's menstrual cycles. This suggests pheromones can act as a zeitgeber for an infradian rhythm.
 
 **Evaluation**
@@ -78,7 +78,7 @@ Both disrupt rhythms by making the internal clock **out of step** with external 
 
 **Shift work.** Night workers must sleep in daylight, when melatonin is low and body temperature is rising. Their sleep is shorter and lighter. Alertness is lowest in the early hours of the morning, so errors are more likely then. Rotating shifts mean the clock never fully adjusts. Long-term shift work has been linked with health problems, including heart disease, but most of this evidence is correlational.
 
-**Czeisler et al. (1982)** studied workers at a chemical plant in Utah. When shifts rotated forwards (days to evenings to nights) and changed less often, workers reported better sleep, health and morale. Rotating forwards asks the body to **phase delay** (stay up later), which is easier than a phase advance.
+**Czeisler et al. (1982)** studied workers on rotating shifts. When rotas were redesigned to fit circadian principles, rotating forwards (days to evenings to nights) and changing less often, workers were more satisfied with their schedules and rated their health better, staff turnover fell and productivity rose. Rotating forwards asks the body to **phase delay** (stay up later), which is easier than a phase advance.
 
 **Jet lag.** Crossing time zones moves the light/dark cycle. Flying **east** shortens the day, so the body must **phase advance**. Flying **west** lengthens the day, a phase delay. Because the SCN runs slightly over 24 hours, phase delay is easier. **Recht et al. (1995)** analysed American baseball results and found that teams who had just flown east performed worse than teams who had flown west.
 
@@ -119,12 +119,12 @@ A full cycle lasts about **90 minutes**, an ultradian rhythm. A typical night ha
 **Evolutionary explanations** say sleep exists because it helped survival.
 
 - **Energy conservation**: sleep lowers metabolism. **Zepelin and Rechtschaffen (1974)** found smaller animals with faster metabolic rates tend to sleep more.
-- **Predator-prey (safety)**: **Meddis (1975)** argued sleep keeps an animal still and hidden when it cannot forage. **Allison and Cicchetti (1976)** found prey species tend to sleep less than predators.
+- **Predator-prey (safety)**: **Meddis (1975)** argued sleep keeps an animal still and hidden when it cannot forage. **Allison and Cicchetti (1976)** compared 39 mammal species and found that species in more danger from predators tended to have less REM (paradoxical) sleep.
 - Evaluation: there are many exceptions to these patterns. Sleep also makes an animal unresponsive, which is dangerous. Bottlenose dolphins sleep with one brain half at a time, which suggests sleep is needed and not just a way to stay safe. The explanations are hard to falsify.
 
 **Restoration theory (Oswald)** says SWS restores the body (growth hormone, tissue repair) and REM restores the brain. **Horne** split sleep into **core sleep** (SWS and some REM, needed) and **optional sleep**.
 
-- Support: **Shapiro et al. (1981)** found increased SWS in runners after a 92 km ultramarathon. **Randy Gardner** stayed awake for 264 hours in 1964. He made up only a fraction of the lost sleep, but a larger share of SWS and REM, which fits core sleep.
+- Support: **Shapiro et al. (1981)** found increased SWS and total sleep time in runners after a 92 km ultramarathon. **Randy Gardner** stayed awake for 264 hours in 1964. He made up only a fraction of the lost sleep, but a larger share of SWS and REM, which fits core sleep.
 - Limitation: tissue repair also happens while awake. Exercise does not always increase sleep. Gardner was a single case.
 
 **Memory consolidation.** Sleep strengthens and reorganises new memories. A common view is that SWS supports declarative memory (facts) and REM supports procedural memory (skills), with the hippocampus replaying new learning to the cortex.
@@ -148,7 +148,7 @@ A full cycle lasts about **90 minutes**, an ultradian rhythm. A typical night ha
 
 **Narcolepsy** involves excessive daytime sleepiness and sudden sleep episodes. Many people with narcolepsy also have **cataplexy** (sudden loss of muscle tone, often triggered by strong emotion), sleep paralysis and vivid hallucinations as they fall asleep. It is often explained as REM sleep intruding into waking.
 
-- **Lin et al. (1999)** found that narcolepsy in a breed of dogs was caused by a mutation in a gene for a **hypocretin (orexin)** receptor. In humans with narcolepsy with cataplexy, most hypocretin-producing neurons in the hypothalamus are lost.
+- **Lin et al. (1999)** found that inherited narcolepsy in dogs was caused by a mutation in a gene for a **hypocretin (orexin)** receptor. In humans with narcolepsy with cataplexy, most hypocretin-producing neurons in the hypothalamus are lost.
 - A link with an immune system gene (HLA-DQB1*06:02) suggests an autoimmune cause. Cases rose in some European countries after a 2009 H1N1 flu vaccine, which fits this idea.
 - Evaluation: the dog findings are single-gene, but in humans the cause is more complex. The hypocretin account fits narcolepsy with cataplexy better than narcolepsy without it.
 

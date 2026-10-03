@@ -34,7 +34,7 @@ Revise first with the [issues and debates study guide](/resources/aqa-a-level-ps
 
 ## Questions
 
-**1.** Explain what is meant by androcentrism in psychology. **[2]**
+**1.** A fictional textbook, written using research with men, describes women's lower average scores on an assertiveness questionnaire as "a shortfall in confidence". Explain how this shows androcentrism. **[2]**
 
 **2.** Distinguish between alpha bias and beta bias. Use an example of each. **[4]**
 
@@ -88,13 +88,13 @@ Revise first with the [issues and debates study guide](/resources/aqa-a-level-ps
 
 **9.** A student says: "The heritability of height is 0.8, so 80% of my height was caused by my genes." Explain what is wrong with this statement. **[3]**
 
-**10.** Discuss cultural bias in psychology. Refer to at least one topic you have studied. **[8]**
+**10.** A fictional lecturer tells first-year students: "Most findings in psychology tell us how people everywhere behave." Evaluate this claim with reference to cultural bias. Use at least one topic you have studied as evidence. **[8]**
 
-**11.** Discuss the free will and determinism debate in psychology. Refer to at least two topics you have studied. **[16]**
+**11.** A fictional magistrate says: "If science shows that behaviour is caused, then nobody can be blamed for anything." To what extent does psychological research support hard determinism rather than soft determinism or free will? Use examples from at least two topics you have studied. **[16]**
 
 ## Answers
 
-**1.** Male thinking and behaviour are treated as the normal standard [1], so female behaviour that differs is judged as abnormal, lacking or less developed [1]. **[2]**
+**1.** The textbook treats the men's scores, from the research it was based on, as the normal standard for assertiveness [1], so women's different scores are judged as lacking, a "shortfall", rather than simply different [1]. **[2]**
 *Examiner insight:* "Biased against women" alone is too vague for the second mark; say what is used as the norm and what happens to behaviour that differs from it.
 
 **2.** Alpha bias exaggerates differences between men and women, often treating them as fixed [1]. Example: Freud's claim that girls develop a weaker superego than boys [1]. Beta bias ignores or minimises differences [1]. Example: early fight-or-flight research used mostly male samples and assumed it applied to females, before Taylor et al. (2000) proposed "tend and befriend" [1]. **[4]**
@@ -133,7 +133,7 @@ Revise first with the [issues and debates study guide](/resources/aqa-a-level-ps
 
 *Knowledge.* Free will means people can choose their behaviour within limits [1]. Hard determinism says all behaviour has causes and free will is an illusion [1]; soft determinism says behaviour has causes but some conscious choice remains [1]. Biological determinism: genetic and neural explanations of OCD treat the behaviour as caused by the body [1]. Environmental determinism: the two-process model explains phobias through conditioning [1]. Psychic determinism: Freud explained behaviour through unconscious conflict [1]. Science emphasises causal explanations, for example manipulating an independent variable to cause a change in a dependent variable [1].
 
-*Evaluation.* Libet et al. (1983) found brain activity began before people reported deciding to move, supporting determinism [1]. However, the task was a simple movement, not a complex life decision [1]. Determinism fits the scientific aims of prediction and control [1]. But hard determinism is unfalsifiable, because any behaviour can be called "caused" after it happens [1]. The legal system holds people responsible, which assumes free will [1]. People feel they make choices, which gives free will face validity [1], though that feeling could itself be caused [1]. Soft determinism fits treatments such as cognitive therapy for depression, which assumes people can change their thinking within limits [1]. Judgement: causes may raise the likelihood of behaviour rather than fix it, so a probabilistic, soft determinist view fits the evidence best [1]. **[16]**
+*Evaluation.* Libet et al. (1983) found brain activity began before people reported deciding to move, supporting determinism [1]. However, the task was a simple movement, not a complex life decision [1]. Determinism fits the scientific aims of prediction and control [1]. But hard determinism is unfalsifiable, because any behaviour can be called "caused" after it happens [1]. The magistrate's own legal system holds people responsible for their actions, which assumes some free will [1]. People feel they make choices, which gives free will face validity [1], though that feeling could itself be caused [1]. Soft determinism fits treatments such as cognitive therapy for depression, which assumes people can change their thinking within limits [1]. Judgement: causes may raise the likelihood of behaviour rather than fix it, so a probabilistic, soft determinist view fits the evidence best [1]. **[16]**
 *Examiner insight:* Naming the type of determinism inside each example, and ending with a reasoned judgement, separates top-band answers from lists of debates.
 
 ## Where marks are usually lost

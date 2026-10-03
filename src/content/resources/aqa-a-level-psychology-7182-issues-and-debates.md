@@ -130,12 +130,12 @@ One instruction matters more than any other here: you are "expected to illustrat
 
 ## Idiographic and nomothetic approaches
 
-The terms were introduced into psychology by Allport (1937).
+The terms come from the philosopher Wilhelm Windelband. Allport (1937) made them widely known in personality psychology.
 
 - **Idiographic approach:** studies the individual in depth to understand what makes them unique. It uses qualitative methods such as case studies and unstructured interviews.
 - **Nomothetic approach:** studies groups to find general laws that apply to many people. It uses quantitative methods, experiments and statistics.
 
-**Examples.** Freud's case studies and humanistic psychology are idiographic. The case of Phineas Gage, a railway worker whose personality was reported to change after an iron rod passed through his frontal lobe in 1848, is an idiographic source that later fed general theories of brain function. Milgram's obedience research and behaviourist laws of learning are nomothetic.
+**Examples.** Freud's case studies and humanistic psychology are idiographic. The case of Phineas Gage, a railway construction foreman whose personality was reported to change after an iron rod passed through his frontal lobe in 1848, is an idiographic source that later fed general theories of brain function. Milgram's obedience research and behaviourist laws of learning are nomothetic.
 
 **Evaluation.** The idiographic approach gives rich detail and can challenge a general law with one clear case, but it is hard to generalise and relies on subjective interpretation. The nomothetic approach is scientific, replicable and useful for prediction, but it can lose sight of the individual. In practice the two work together: case studies suggest hypotheses that nomothetic research then tests.
 
@@ -163,7 +163,7 @@ Sieber and Stanley (1988) described socially sensitive research as studies with 
 
 For the approaches that these debates are applied to, use the [Approaches in Psychology guide](/resources/a-level-aqa-psychology-approaches-in-psychology/) and the [approaches revision notes](/resources/aqa-a-level-psychology-approaches-revision-notes/). For Paper 1 examples, use the [introductory topics guide](/resources/aqa-a-level-psychology-introductory-topics/) and the [memory revision notes](/resources/aqa-a-level-psychology-memory-revision-notes/).
 
-The Paper 3 option topics give you more examples for these debates: [Relationships](/resources/aqa-a-level-psychology-7182-relationships/), [Gender](/resources/aqa-a-level-psychology-7182-gender/), [Cognition and development](/resources/aqa-a-level-psychology-7182-cognition-and-development/), [Schizophrenia](/resources/aqa-a-level-psychology-7182-schizophrenia/), [Eating behaviour](/resources/aqa-a-level-psychology-7182-eating-behaviour/), [Stress](/resources/aqa-a-level-psychology-7182-stress/), [Aggression](/resources/aqa-a-level-psychology-7182-aggression/) and [Forensic Psychology](/resources/aqa-a-level-psychology-7182-forensic-psychology/).
+The Paper 3 option topics give you more examples for these debates: [Relationships](/resources/aqa-a-level-psychology-7182-relationships/), [Gender](/resources/aqa-a-level-psychology-7182-gender/), [Cognition and development](/resources/aqa-a-level-psychology-7182-cognition-and-development/), [Schizophrenia](/resources/aqa-a-level-psychology-7182-schizophrenia/), [Eating behaviour](/resources/aqa-a-level-psychology-7182-eating-behaviour/), [Stress](/resources/aqa-a-level-psychology-7182-stress/), [Aggression](/resources/aqa-a-level-psychology-7182-aggression/), [Forensic Psychology](/resources/aqa-a-level-psychology-7182-forensic-psychology/) and [Addiction](/resources/aqa-a-level-psychology-7182-addiction/).
 
 ## Official syllabus
 

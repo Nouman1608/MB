@@ -74,7 +74,7 @@ Test yourself with the [issues and debates practice questions](/resources/aqa-a-
 | Henrich, Heine and Norenzayan (2010) | Review of research samples | Most samples are "WEIRD" | Questions universality of many findings |
 | Libet et al. (1983) | Brain activity and decisions | Readiness potential before conscious decision | Simple lab movements, not real-life choices |
 | Bouchard et al. (1990) | Identical twins reared apart | Around 70% of IQ variation associated with genetic variation | Twins may have shared similar environments |
-| Allport (1937) | Personality | Introduced idiographic and nomothetic into psychology | Shows both approaches have a place |
+| Allport (1937) | Personality | Made the idiographic-nomothetic distinction widely known in personality psychology | Shows both approaches have a place |
 | Sieber and Stanley (1988) | Socially sensitive research | Four points where issues arise | Researchers cannot control how findings are used |
 
 ## Must-know distinctions
@@ -112,7 +112,7 @@ The specification expects examples from elsewhere in the course. Learn at least 
 
 When you use an example, say which side of the debate it supports and add one evaluation point. A named example with no link back to the debate earns little.
 
-## Mini essay plan: "Discuss holism and reductionism in psychology." (extended response)
+## Mini essay plan: "Evaluate the use of reductionist explanations of behaviour." (extended response)
 
 1. **Define (AO1).** Reductionism and holism; the three levels of explanation.
 2. **Biological reductionism (AO1 + example).** Genetic and neural explanations of OCD; drug treatment.

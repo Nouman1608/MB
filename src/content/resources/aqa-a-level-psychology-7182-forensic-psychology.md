@@ -94,7 +94,7 @@ Genetic explanations suggest some people inherit a predisposition that raises th
 
 - **Twin studies.** Lange (1929) found higher concordance for criminality in MZ than DZ twin pairs, though the sample was small. Christiansen (1977) studied over 3,500 Danish twin pairs and found about a third of male MZ pairs were concordant for criminality, much higher than for DZ pairs.
 - **Adoption studies.** Mednick et al. (1984) studied 14,427 Danish adoptees. When neither biological nor adoptive parent had a conviction, 13.5% of adoptees had a conviction. The figure was 20% when only the biological parent had one and 24.5% when both did.
-- **Candidate genes.** Tiihonen et al. (2015) analysed about 900 offenders in Finland and linked two genes, MAOA and CDH13, to very violent offending. MAOA is covered in [Aggression](/resources/aqa-a-level-psychology-7182-aggression/).
+- **Candidate genes.** Tiihonen et al. (2015) studied Finnish prisoners and linked two genes, MAOA and CDH13, to extremely violent offending. MAOA is covered in [Aggression](/resources/aqa-a-level-psychology-7182-aggression/).
 
 The **diathesis-stress model** proposes that a genetic predisposition (diathesis) leads to offending only when combined with environmental triggers (stress), such as a harsh upbringing.
 
@@ -105,8 +105,8 @@ The **diathesis-stress model** proposes that a genetic predisposition (diathesis
 Neural explanations focus on differences in brain structure and function.
 
 - **Prefrontal cortex.** This area helps regulate emotion and control impulses. Raine et al. (1997) used PET scans on 41 people charged with murder who pleaded not guilty by reason of insanity and 41 matched controls. The murderers showed lower activity in the prefrontal cortex.
-- **Antisocial personality disorder.** Raine et al. (2000) found that men with antisocial personality disorder had around 11% less grey matter in the prefrontal cortex than controls.
-- **Mirror neurons.** Keysers et al. (2011) found that violent offenders with psychopathy showed empathy-related brain activity when told to empathise, suggesting a "switch" that is normally off rather than an absent capacity.
+- **Antisocial personality disorder.** Raine et al. (2000) used MRI and found people with antisocial personality disorder had about 11% less prefrontal grey matter than controls.
+- **Mirror neurons.** Meffert et al. (2013), from Christian Keysers' group (sometimes cited as Keysers et al., 2011), scanned 18 offenders with psychopathy. Watching others' hand interactions, they showed less empathy-related activity than controls, but the difference largely disappeared when told to empathise. Empathy may be "switched off" rather than absent.
 
 **Evaluation.** Brain differences are correlational. A brain difference may be a result of experiences such as abuse or head injury, not a cause of offending. The research is also reductionist: it reduces complex behaviour, shaped by poverty and peers, to brain function. However, it has real-world value, for example in debates about responsibility in court.
 
@@ -122,7 +122,7 @@ Eysenck proposed that personality varies on three dimensions measured by the Eys
 
 The typical criminal personality is high on all three. Eysenck argued these traits have a biological basis, and that offending results from poor **socialisation**: high E and high N individuals are harder to condition, so they learn the link between wrongdoing and punishment less well.
 
-**Evaluation.** Eysenck and Eysenck (1977) found prisoners scored higher on E, N and P than non-prisoners. However, Farrington et al. (1982) reviewed studies and found offenders scored high on P but not consistently on E or N. Bartol and Holanchock (1979) found Hispanic and African-American offenders in a New York prison were less extraverted than a control group, suggesting cultural bias. Personality may also not be a stable trait across situations.
+**Evaluation.** Eysenck and Eysenck (1977) found prisoners scored higher on E, N and P than non-prisoners. However, Farrington et al. (1982) reviewed studies and found offenders scored consistently high on P, but not consistently high on E. Bartol and Holanchock (1979) found Hispanic and African-American offenders in a New York prison were less extraverted than a control group, suggesting cultural bias. Personality may also not be a stable trait across situations.
 
 ### Cognitive explanations: level of moral reasoning
 
@@ -140,7 +140,7 @@ Offenders are thought more likely to reason at the pre-conventional level. They 
 
 **Cognitive distortions** are faulty, irrational ways of thinking that help offenders justify their behaviour.
 
-- **Hostile attribution bias**: seeing ambiguous actions as aggressive. Schönenberg and Justye (2014) found violent offenders were more likely than controls to see anger in ambiguous facial expressions.
+- **Hostile attribution bias**: seeing ambiguous actions as aggressive. Schönenberg and Jusyte (2014) found violent offenders were more likely than controls to see anger in ambiguous facial expressions.
 - **Minimalisation**: downplaying the seriousness of an offence, for example describing a burglary as "just borrowing". Barbaree (1991) reported that many incarcerated rapists denied the offence entirely and many others minimised the harm caused.
 
 **Evaluation.** The idea has practical value: cognitive behavioural programmes in prisons target distortions directly. A limitation is that distortions may be stronger for some crimes than others, and it is unclear whether they cause offending or develop afterwards to justify it.
@@ -149,7 +149,7 @@ Offenders are thought more likely to reason at the pre-conventional level. They 
 
 Sutherland's **differential association theory** proposes that offending is learned through interaction with others, especially close groups such as family and friends. A person becomes an offender when they are exposed to more attitudes favourable to breaking the law than unfavourable. They learn both the attitudes and the techniques of crime.
 
-**Evaluation.** Osborn and West (1979) found that 40% of sons whose fathers had a criminal record had convictions by age 18, compared with 13% of sons of non-criminal fathers. The theory also explains white-collar crime, which other theories struggle with. However, the shared family environment could also reflect shared genes. The ratio of attitudes is hard to measure, so the theory is difficult to test scientifically.
+**Evaluation.** Osborn and West (1979) found that sons of convicted fathers were more likely to be convicted than sons of non-criminal fathers. The theory also explains white-collar crime, which other theories struggle with. However, the shared family environment could also reflect shared genes. The ratio of attitudes is hard to measure, so the theory is difficult to test scientifically.
 
 Compare the learning mechanisms with the [behaviourist and social learning approaches](/resources/aqa-a-level-psychology-approaches-revision-notes/) and the wider [Approaches in Psychology guide](/resources/a-level-aqa-psychology-approaches-in-psychology/).
 
@@ -176,15 +176,15 @@ The four **aims** of custodial sentencing are:
 
 Anger management is a cognitive behavioural therapy. Novaco's (1975) model has three stages: **cognitive preparation** (identifying triggers), **skill acquisition** (techniques such as relaxation and assertiveness) and **application practice** (role-play).
 
-**Evaluation.** Ireland (2004) reported improvements in young offenders after a programme compared with a control group. It tackles the cause of the behaviour, not just the behaviour itself. However, role-play may not match real situations, and many studies measure short-term change rather than long-term reoffending.
+**Evaluation.** Ireland (2004) reported improvements in young offenders after a programme compared with a control group. It tackles the cause, not just the behaviour. However, role-play may not match real situations, and many studies measure short-term change rather than long-term reoffending.
 
 ### Restorative justice
 
 **Restorative justice** brings the offender and victim together, usually with a trained mediator. The offender hears the impact of the crime and takes responsibility; the victim can have a voice and receive reparation.
 
-**Evaluation.** Sherman and Strang (2007) reviewed studies and found restorative justice reduced reoffending for some offenders, with larger effects for violent crime than for property crime. Victims often report satisfaction. However, it relies on the offender admitting guilt and the victim agreeing. Meeting the offender could cause the victim further distress, and some see it as a soft option.
+**Evaluation.** Sherman and Strang (2007) reviewed studies and found restorative justice reduced reoffending for some offenders, and that it worked more consistently with violent crime than with property crime. Victims often report satisfaction. However, it relies on the offender admitting guilt and the victim agreeing. Meeting the offender could cause the victim further distress, and some see it as a soft option.
 
-**Worked paragraph.** *Knowledge:* Restorative justice lets the victim explain the harm caused. *Application:* A young person who vandalised a neighbour's car hears how the repair cost affected the family. *Analysis:* This may weaken minimalisation, because the offender can no longer tell themselves "it was only a car". *Evaluation:* Sherman and Strang (2007) suggest effects are larger for violent crime, so the benefit for property crime may be smaller.
+**Worked paragraph.** *Knowledge:* Restorative justice lets the victim explain the harm caused. *Application:* A young person who vandalised a neighbour's car hears how the repair cost affected the family. *Analysis:* This may weaken minimalisation, because the offender can no longer tell themselves "it was only a car". *Evaluation:* Sherman and Strang (2007) found it worked more consistently with violent crime than with property crime, so the benefit for this offence is less certain.
 
 ## Common errors
 

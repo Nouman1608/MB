@@ -24,7 +24,7 @@ featured: false
 
 For full explanations and worked answer paragraphs, read the [Stress study guide](/resources/aqa-a-level-psychology-7182-stress/) first.
 
-These notes cover the Stress option of AQA A-level Psychology (7182), from the AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025), for teaching from September 2025. Stress is section 4.3.7 and topic 14 in Option 2. It is assessed in Paper 3: Issues and Options in Psychology, Section C (24 marks of a 96-mark, 2-hour paper worth 33.3% of A-level). On Paper 3 you answer the compulsory Issues and debates section plus "one from option 1, 9–11, one from option 2, 12–14, one from option 3, 15–17".
+These notes cover the Stress option of AQA A-level Psychology (7182), from the AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025), for teaching from September 2025. Stress is section 4.3.7 and topic 14 in Option 2. It is assessed in Paper 3: Issues and Options in Psychology, Section C (24 marks of a 96-mark, 2-hour paper worth 33.3% of A-level). Paper 3 assesses compulsory Issues and debates content plus optional content, "one from option 1, 9–11, one from option 2, 12–14, one from option 3, 15–17".
 
 When you are ready, try the [Stress practice questions](/resources/aqa-a-level-psychology-7182-stress-practice/). For other topics, use the [AQA A-level Psychology hub](/boards/aqa/a-level/psychology/) and tick off progress on the [AQA A-level Psychology checklist](/checklists/aqa/a-level/psychology/).
 
@@ -68,20 +68,20 @@ When you are ready, try the [Stress practice questions](/resources/aqa-a-level-p
 | Kiecolt-Glaser et al. (1984) | Blood samples from medical students a month before and during exams | Lower NK cell activity during exams; lonelier students had lower immune function | Real stressor, same participants twice; but behaviour (sleep, diet) may confound |
 | Kiecolt-Glaser et al. (1995) | Small wounds in dementia carers and controls | Carers' wounds healed significantly more slowly | Chronic real-life stressor; carers may also differ in sleep and health |
 | Cohen et al. (1991) | Gave volunteers a cold virus | Higher stress scores linked to more colds | Controlled exposure; still correlational on stress |
-| Segerstrom and Miller (2004) | Reviewed nearly 300 studies | Short-term stress can boost some immunity; chronic stress suppresses it | Shows stress-illness link is not one-way |
+| Segerstrom and Miller (2004) | Meta-analysis of more than 300 studies | Short-term stress can boost some immunity; chronic stress suppresses it | Shows stress-illness link is not one-way |
 | Holmes and Rahe (1967) | Built the SRRS from 43 events | Death of a spouse 100; marriage 50 | Assumes everyone finds an event equally stressful |
-| Rahe et al. (1970) | US Navy sailors completed the SRRS | Weak positive correlation between life change and illness | Weak correlation; all-male sample |
-| Kanner et al. (1981) | Adults completed hassles scales over nine months | Hassles predicted psychological symptoms better than life events | Self-report and correlational |
+| Rahe et al. (1970) | US Navy sailors' life change scores for the previous six months; health tracked over the next six months | Weak positive correlation (about +0.12) between life change and illness | Weak correlation; all-male sample |
+| Kanner et al. (1981) | Middle-aged adults completed hassles and uplifts scales monthly for ten months | Hassles predicted psychological symptoms better than life events | Self-report and correlational |
 | Johansson et al. (1978) | Swedish sawmill finishers versus cleaners | Finishers (high workload, low control) had more stress hormones, illness and absence | Natural setting; small group, one workplace |
-| Marmot et al. (1997) | Over 7,000 London civil servants | Low job control linked to CHD; high workload alone was not | Large sample; grade also linked to pay and lifestyle |
-| Friedman and Rosenman (Western Collaborative Group Study) | Over 3,000 Californian men followed for about eight and a half years | Type A roughly twice as likely to develop CHD | Later follow-up found no link with CHD deaths |
+| Marmot et al. (1997), Whitehall II | Over 7,000 London civil servants | Low job control made the largest contribution to higher CHD in lower grades; a companion paper (Bosma et al., 1997) found job demands were not related to CHD | Large sample; but correlational, and low control goes with lower pay and lifestyle differences |
+| Friedman and Rosenman (Western Collaborative Group Study) | Over 3,000 Californian men followed for about eight and a half years | Type A roughly twice as likely to develop CHD | Ragland and Brand (1988): among men who developed CHD, Type A men were less likely to die from it |
 | Greer and Morris (1975) | Interviewed women before breast biopsy | Those diagnosed with cancer reported more emotional suppression | Nakaya et al. (2003) found no personality-cancer link |
 | Kobasa (1979) | Business executives | Healthy high-stress executives scored higher on hardiness | Mostly male executives |
 | Meichenbaum (1985) | Described SIT | Three phases prepare people for future stress | Time-consuming; needs motivation |
 | Saunders et al. (1996) | Meta-analysis of 37 SIT studies | SIT reduced anxiety and improved performance under stress | Combines varied samples and settings |
-| Lemaire et al. (2011) | Doctors used a biofeedback device for 28 days | Lower stress scores than controls | Relaxation alone may explain the effect |
+| Lemaire et al. (2011) | Doctors used a biofeedback-based tool for 28 days | Significantly greater fall in stress scores than controls | Relaxation alone may explain the effect |
 | Taylor et al. (2000) | Proposed tend-and-befriend | Women seek social contact and protect offspring under stress, possibly linked to oxytocin | Evolutionary claims are hard to test |
-| Tamres et al. (2002) | Meta-analysis of coping studies | Women used more strategies overall; differences small | Challenges simple "men problem-focused" claim |
+| Tamres et al. (2002) | Meta-analysis of coping studies | Women more likely to use most strategies, not only emotion-focused ones; some differences depended on the stressor | Challenges simple "men problem-focused" claim |
 | Cohen et al. (2015) | Adults reported support and hugs, then were exposed to a cold virus | Support and hugs linked to protection and milder symptoms | Correlational on support |
 
 ## Must-know distinctions
@@ -149,7 +149,7 @@ When you are ready, try the [Stress practice questions](/resources/aqa-a-level-p
 - Presenting Type C as an established cause of cancer.
 - Naming SIT phases without saying what happens in each, or naming biofeedback without explaining the reinforcement and transfer steps.
 - Discussing therapies without judging appropriateness and effectiveness, which the specification asks for.
-- Using a generic "gender difference" point without evidence, or ignoring Tamres et al.'s finding that differences are small.
+- Using a generic "gender difference" point without evidence, or ignoring Tamres et al.'s finding that women use most strategies more, not only emotion-focused ones.
 - Writing an application answer with no reference to the scenario's details.
 
 ## Official syllabus

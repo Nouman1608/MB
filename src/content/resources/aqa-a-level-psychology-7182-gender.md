@@ -48,7 +48,7 @@ The specification prints these facts about Paper 3: Issues and Options in Psycho
 - Section C: one topic from option 2 (Schizophrenia, Eating behaviour, Stress), 24 marks.
 - Section D: one topic from option 3 (Aggression, Forensic Psychology, Addiction), 24 marks.
 
-So if your school teaches Gender, it is your Section B topic. Which option your centre chooses is a matter your teacher will confirm. Research methods and maths skills can be tested within Gender questions.
+If your school teaches Gender, it is your Section B topic; your teacher will confirm your centre's options. Research methods and maths skills can be tested within Gender questions.
 
 ## Biological sex: chromosomes and hormones
 
@@ -61,13 +61,13 @@ So if your school teaches Gender, it is your Section B topic. Which option your 
 
 ## Diversity in sex development
 
-Sometimes chromosomes, hormones and anatomy do not follow the typical pattern. Studying these conditions lets psychologists ask how much of gender comes from biology.
+Sometimes chromosomes, hormones and anatomy do not follow the typical pattern.
 
 | Condition | Chromosomes | Main features |
 |---|---|---|
 | Androgen insensitivity syndrome (AIS) | XY | Body cells do not respond (fully or partly) to androgens such as testosterone. In complete AIS, external genitals are female, testes are internal and there is no womb. Often identified at puberty when periods do not start. People with complete AIS usually identify as women. |
 | Klinefelter's syndrome | XXY | Male. Smaller testes and lower testosterone; usually infertile. Some people have learning or language difficulties. |
-| Turner syndrome | One X chromosome, missing or partly missing (XO) | Female. Short stature; ovaries do not develop typically, so puberty often needs hormone treatment; usually infertile. Some people have difficulties with spatial or maths tasks. |
+| Turner syndrome | One X chromosome; the second sex chromosome is missing or partly missing (often written XO) | Female. Short stature; ovaries do not develop typically, so puberty often needs hormone treatment; usually infertile. Some people have difficulties with spatial or maths tasks. |
 
 **Evaluation.** These cases show that biological sex is not always a simple binary. Complete AIS supports the role of hormones: without androgen response, an XY person develops a female body and usually a female identity. But case studies are small samples, and psychological differences may come from how people are treated, not only from their biology.
 
@@ -96,9 +96,9 @@ The biological explanation says gender comes from chromosomes and hormones. Chro
 - Van Goozen et al. (1995) found that trans women given anti-androgens showed reduced aggression, and trans men given testosterone showed increased aggression.
 - The case of David Reimer: after a surgical accident in infancy, he was raised as a girl on John Money's advice. He was unhappy with this identity and later lived as a man (Diamond and Sigmundson, 1997). This suggests biology can outweigh socialisation.
 
-**Counter-evidence.** Imperato-McGinley et al. (1974) studied a group in the Dominican Republic with a condition in which some XY children appear female at birth and masculinise at puberty. Many adjusted to a male identity at puberty. This supports hormones, but the community's attitudes may also have shaped the change.
+**Counter-evidence.** Imperato-McGinley et al. (1979) studied a community in the Dominican Republic where some XY children have 5-alpha-reductase deficiency: they appear female at birth and masculinise at puberty. Of 18 raised unambiguously as girls, 17 changed to a male gender identity during or after puberty. This supports a role for testosterone, but the community's attitudes may also have shaped the change.
 
-**Evaluation.** The explanation is supported by scientific evidence and explains why gender identity is often resistant to socialisation. However, it is reductionist and determinist. It struggles to explain cultural variation in gender roles. Case studies such as Reimer's are unique and cannot be generalised.
+**Evaluation.** The explanation has scientific support and explains why gender identity often resists socialisation. However, it is reductionist and determinist. It struggles to explain cultural variation in gender roles. Case studies such as Reimer's are unique and cannot be generalised.
 
 **Worked paragraph.** *Biological explanations claim that prenatal androgens shape gendered behaviour. Berenbaum and Hines found that girls with CAH preferred toys usually chosen by boys, which supports this. However, parents of these girls knew about the condition and may have treated them differently, so a social cause cannot be ruled out. The evidence therefore suggests hormones contribute, but the relative weight of nature and nurture is still debated.*
 
@@ -111,7 +111,7 @@ Kohlberg (1966) proposed that gender understanding develops in fixed stages as t
 3. **Gender constancy** (around age 6): the child understands that gender stays the same over time and across situations. Only now does the child actively seek out same-gender models and imitate them.
 
 **Evaluation.**
-- Strength: Slaby and Frey (1975) found that children with higher gender constancy paid more attention to same-sex adults in a film.
+- Strength: Slaby and Frey (1975) found that preschool children with higher gender constancy spent more time watching the same-sex adult in a film, though the effect was significant only for boys.
 - Limitation: children show gender-typed preferences well before age 6 (Martin and Little, 1990). This suggests constancy is not needed for gender learning to begin.
 - Limitation: the stage approach does not explain why some people's gender identity differs from their assigned sex, or why gender identity can be fluid.
 
@@ -139,9 +139,9 @@ Social learning theory (SLT) says gender is learned from the environment through
 - **Identification:** imitating models who are similar or admired, such as same-gender parents.
 - **Mediational processes:** attention, retention, motor reproduction and motivation.
 
-Smith and Lloyd (1978) found that adults played differently with the same infant depending on whether it was dressed and named as a boy or a girl, offering gender-typed toys.
+Smith and Lloyd (1978) found that mothers playing with a six-month-old infant dressed and named as a boy or a girl varied their toy choice and play style with the infant's perceived sex.
 
-**Culture.** If gender roles are learned, they should vary between cultures. Mead (1935) reported different gender roles in three societies in Papua New Guinea: among the Tchambuli, she described women as dominant and men as more decorative. However, her work has been criticised for researcher bias. Williams and Best (1990) found broad agreement on gender stereotypes across many countries, which suggests some roles may be universal.
+**Culture.** If gender roles are learned, they should vary between cultures. Mead (1935) reported different gender roles in three societies in Papua New Guinea: among the Tchambuli, she described women as the dominant, managing partner and men as less responsible and more emotionally dependent. However, her work has been criticised as subjective, and later fieldwork among the Tchambuli (Chambri) questioned her account. Williams and Best (1990) found broad agreement on gender stereotypes across many countries, which suggests some roles may be universal.
 
 **Media.** The media provides models and stereotypes. Furnham and Farragher (2000) found that television adverts in Britain and New Zealand tended to show men in autonomous roles and women in familial roles. Williams (1986) studied a Canadian town, "Notel", before and after television arrived, and found children's gender stereotyping increased.
 
@@ -172,7 +172,7 @@ Smith and Lloyd (1978) found that adults played differently with the same infant
 
 ## Where to go next
 
-Read the [Approaches revision notes](/resources/aqa-a-level-psychology-approaches-revision-notes/) to refresh SLT and the biological approach. The [Issues and debates study guide](/resources/aqa-a-level-psychology-7182-issues-and-debates/) covers gender bias, nature-nurture and social sensitivity for Section A, and the [Cognition and development study guide](/resources/aqa-a-level-psychology-7182-cognition-and-development/) covers another option 1 topic. Then return to the [AQA A-level Psychology checklist](/checklists/aqa/a-level/psychology/) to track this topic.
+Refresh SLT with the [Approaches revision notes](/resources/aqa-a-level-psychology-approaches-revision-notes/). The [Issues and debates study guide](/resources/aqa-a-level-psychology-7182-issues-and-debates/) covers gender bias, nature-nurture and social sensitivity for Section A, and the [Cognition and development study guide](/resources/aqa-a-level-psychology-7182-cognition-and-development/) covers another option 1 topic. Track this topic on the [AQA A-level Psychology checklist](/checklists/aqa/a-level/psychology/).
 
 ## Official syllabus
 

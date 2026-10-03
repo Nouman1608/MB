@@ -84,9 +84,9 @@ Explain how family systems theory might account for Jonah's anorexia nervosa. **
 
 Use the boundary model to explain Priyanka's behaviour. **[4]**
 
-**10.** Discuss neural explanations for obesity. **[8]**
+**10.** Evaluate the role of neural mechanisms in explaining obesity. **[8]**
 
-**11.** Discuss social learning theory as an explanation for anorexia nervosa. Refer to **one** other explanation in your answer. **[16]**
+**11.** To what extent does social learning theory explain anorexia nervosa? Use **one** other explanation of anorexia nervosa to support your evaluation. **[16]**
 
 ## Answers
 
@@ -130,7 +130,7 @@ AO3: Montague et al. (1997) showed rare leptin deficiency causes severe obesity,
 
 **11.** The real exam marks this with levels of response; each bracketed mark below shows one indicative creditworthy point.
 AO1: Social learning theory (SLT) says behaviour is learned by observing others [1]. People may model the dieting and eating of parents, peers or media figures [1]. Weight loss may be directly reinforced by praise [1], or vicariously reinforced when others are seen being admired for thinness [1]. The media spreads a thin ideal that can be imitated [1]. Identification with a role model makes imitation more likely [1].
-AO3: Becker et al. (2002) found eating-attitude risk scores in Fijian girls rose from 13% to 29% after TV arrived, supporting a media effect [1]. This natural experiment had high ecological validity [1]. However, it measured attitudes, not diagnosed AN [1]. Most people see thin-ideal media but few develop AN, so SLT cannot explain individual vulnerability [1]. A genetic explanation helps here: twin studies such as Holland et al. (1988) suggest inherited risk [1]. Combining the two gives a diathesis-stress account: genes create vulnerability, social learning triggers it [1]. SLT also struggles to explain why restriction continues when it brings no praise and causes serious harm [1]. It has practical use, supporting media-literacy work [1]. SLT is less reductionist than a purely genetic view because it includes social context [1]. Overall, SLT explains triggers better than causes [1]. **[16]**
+AO3: Becker et al. (2002) found the proportion of Fijian girls with high-risk eating-attitude scores rose from about 13% to about 29% in the three years after TV arrived, supporting a media effect [1]. This natural experiment had high ecological validity [1]. However, it measured attitudes, not diagnosed AN [1]. Most people see thin-ideal media but few develop AN, so SLT cannot explain individual vulnerability [1]. A genetic explanation helps here: twin studies such as Holland et al. (1988) suggest inherited risk [1]. Combining the two gives a diathesis-stress account: genes create vulnerability, social learning triggers it [1]. SLT also struggles to explain why restriction continues when it brings no praise and causes serious harm [1]. It has practical use, supporting media-literacy work [1]. SLT is less reductionist than a purely genetic view because it includes social context [1]. Overall, SLT explains triggers better than causes [1]. **[16]**
 *Examiner insight:* the "one other explanation" must be used to evaluate SLT, not described in a separate block; link it back each time.
 
 ## Where marks are usually lost

@@ -123,7 +123,7 @@ Baillargeon proposed an innate physical reasoning system [1], tested with violat
 
 **11.** The real exam marks this with levels of response; these are indicative creditworthy points.
 
-Vygotsky argued learning is social first and individual later [1], with learning in the zone of proximal development supported by scaffolding [1]. Wood and Middleton found contingent help from mothers improved children's independent performance [1], supporting scaffolding [1]. Unlike Piaget, who saw the child as discovering through stages driven by maturation [1], Vygotsky explains why teaching and peers speed up development [1]. Limitation: the ZPD is hard to measure, so the theory is difficult to test [1]. Vygotsky says less about individual and biological differences than Piaget, so the two theories may be complementary [1]. **[8]**
+Vygotsky argued learning is social first and individual later [1], with learning in the zone of proximal development supported by scaffolding [1]. Wood and Middleton found the most effective mothers adjusted their help to how their child was doing [1], supporting scaffolding [1]. Unlike Piaget, who saw the child as discovering through stages driven by maturation [1], Vygotsky explains why teaching and peers speed up development [1]. Limitation: the ZPD is hard to measure, so the theory is difficult to test [1]. Vygotsky says less about individual and biological differences than Piaget, so the two theories may be complementary [1]. **[8]**
 *Examiner insight:* comparison with Piaget earns credit only when it shows something about Vygotsky's strengths or weaknesses, not as a separate description of Piaget.
 
 ## Where marks are usually lost

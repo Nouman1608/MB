@@ -52,7 +52,7 @@ The specification also says research methods and mathematical skills are assesse
 
 ### Self-disclosure
 
-**Self-disclosure** means revealing personal information about yourself to another person. In **social penetration theory**, Altman and Taylor (1973) argued that relationships develop as disclosure increases in **breadth** (the range of topics) and **depth** (how personal the topics are). Deep disclosure too soon can put people off. Reis and Shaver (1988) stressed **reciprocity**: intimacy grows when one partner discloses and the other responds with understanding and discloses in return.
+**Self-disclosure** means revealing personal information about yourself to another person. In **social penetration theory**, Altman and Taylor (1973) argued that relationships develop as disclosure increases in **breadth** (the range of topics) and **depth** (how personal the topics are). Reis and Shaver (1988) stressed **reciprocity**: intimacy grows when one partner discloses and the other responds with understanding and discloses in return.
 
 **Evaluation.** Sprecher and Hendrick (2004) found that self-disclosure was positively correlated with satisfaction in dating couples. This is correlational: satisfied couples may simply disclose more. Norms about what to share differ across cultures, so the pattern may not be universal.
 
@@ -107,7 +107,7 @@ Rusbult (1983) argued that **commitment** depends on three factors:
 
 High satisfaction, poor alternatives and large investment produce high commitment, and commitment, rather than satisfaction alone, predicts whether a relationship lasts.
 
-**Evaluation.** Rusbult followed students in dating relationships over several months; satisfaction, alternatives and investment together predicted commitment, and commitment predicted staying together. Le and Agnew's (2003) meta-analysis supported all three factors, with satisfaction the strongest. Rusbult and Martz (1995) studied women who had used a refuge after abuse: those with fewer alternatives and greater investments were more likely to return. A limitation is that the model relies on self-report, and "investment" is hard to measure objectively.
+**Evaluation.** Rusbult followed students in dating relationships over several months; satisfaction, alternatives and investment together predicted commitment, and commitment predicted staying together. Le and Agnew's (2003) meta-analysis of 52 studies found the three factors together explained nearly two-thirds of the variance in commitment. Rusbult and Martz (1995) studied women who had used a refuge after abuse: those with fewer alternatives and greater investments were more likely to return. A limitation is that the model relies on self-report, and "investment" is hard to measure objectively.
 
 ### Duck's phase model of relationship breakdown
 
@@ -146,7 +146,7 @@ The specification names three issues: **self-disclosure**, **use of deception** 
 
 A **parasocial relationship** is a one-sided relationship in which a person feels they know a media figure who does not know them. Horton and Wohl (1956) introduced the term.
 
-**Levels.** McCutcheon et al. (2002) developed the Celebrity Attitude Scale, which identifies three levels:
+**Levels.** Research using the Celebrity Attitude Scale, developed by McCutcheon and colleagues, identifies three levels:
 
 - **Entertainment-social** -- celebrities are a source of fun and conversation with friends.
 - **Intense-personal** -- more intense, compulsive feelings; the person may think of the celebrity as a soulmate.
@@ -174,7 +174,7 @@ A **parasocial relationship** is a one-sided relationship in which a person feel
 
 ## Where to go next
 
-Build [issues and debates](/resources/aqa-a-level-psychology-7182-issues-and-debates/) into your evaluation, such as cultural bias in Duck's model. The [approaches guide](/resources/a-level-aqa-psychology-approaches-in-psychology/) links social exchange theory to reinforcement. Then use the [revision notes](/resources/aqa-a-level-psychology-7182-relationships-revision-notes/) and the [practice questions](/resources/aqa-a-level-psychology-7182-relationships-practice/).
+Build [issues and debates](/resources/aqa-a-level-psychology-7182-issues-and-debates/) into your evaluation. The [approaches guide](/resources/a-level-aqa-psychology-approaches-in-psychology/) links social exchange theory to reinforcement. Then use the [revision notes](/resources/aqa-a-level-psychology-7182-relationships-revision-notes/) and the [practice questions](/resources/aqa-a-level-psychology-7182-relationships-practice/).
 
 ## Official syllabus
 

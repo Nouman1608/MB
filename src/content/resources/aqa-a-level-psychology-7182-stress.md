@@ -31,12 +31,12 @@ Use it with the [Stress revision notes](/resources/aqa-a-level-psychology-7182-s
 The specification prints these rules for Paper 3:
 
 - What's assessed: compulsory content 8 (Issues and debates in Psychology) and optional content, "one from option 1, 9–11, one from option 2, 12–14, one from option 3, 15–17".
-- Option 2 is Schizophrenia (12), Eating behaviour (13) and Stress (14). If you study Stress, it is your Option 2 topic.
+- Option 2 is Schizophrenia (12), Eating behaviour (13) and Stress (14).
 - Written exam: 2 hours, 96 marks in total, 33.3% of A-level.
-- Section A (Issues and debates): multiple choice, short answer and extended writing, 24 marks.
+- Section A: "multiple choice, short answer and extended writing, 24 marks". Sections B to D are the options, so your teacher will confirm that Section A covers Issues and debates.
 - Section C: "one topic from option 2, 12–14 above, multiple choice, short answer and extended writing, 24 marks".
 
-The specification says sections B, C and D of Paper 3 contain extended response questions, and that you should "evaluate therapies and treatments including in terms of their appropriateness and effectiveness". How the 24 marks are split is not printed; your teacher will confirm typical tariffs.
+The specification says sections B, C and D contain extended response questions, and that you should "evaluate therapies and treatments including in terms of their appropriateness and effectiveness". How the 24 marks are split is not printed; your teacher will confirm typical tariffs.
 
 ## Coverage table
 
@@ -63,9 +63,9 @@ The specification says sections B, C and D of Paper 3 contain extended response 
 - **Resistance:** the body tries to adapt; stress hormones stay raised and the person appears to cope.
 - **Exhaustion:** with prolonged stress, the body can no longer adapt, and illness becomes more likely.
 
-**Evaluation.** GAS was one of the first models to link long-term stress to illness, and it fits later findings about cortisol and immune function. However, it came from rats, and rats do not appraise stressors the way people do. Lazarus argued that stress depends on whether we judge a situation as beyond our coping resources, and GAS leaves this cognitive appraisal out. Later research also suggests illness in prolonged stress is linked to stress hormones staying high, rather than resources running out as Selye proposed.
+**Evaluation.** GAS was one of the first models to link long-term stress to illness. However, it came from rats, and rats do not appraise stressors the way people do. Lazarus argued that stress depends on whether we judge a situation as beyond our coping resources, and GAS leaves this cognitive appraisal out.
 
-**Worked paragraph (application and evaluation).** *A student has revised for weeks and now catches every cold going. In GAS terms, she may have moved from resistance into exhaustion: weeks of raised cortisol suppress immune function. However, GAS came from rats, so it cannot explain why her friend sees the same exams as a challenge and stays well. Cognitive appraisal needs to be added to a purely physiological account.*
+**Worked paragraph (application and evaluation).** *A student has revised for weeks and now catches every cold going. In GAS terms, she may have moved from resistance into exhaustion, as weeks of raised cortisol suppress immune function. However, GAS came from rats, so it cannot explain why her friend sees the same exams as a challenge and stays well.*
 
 ## 2. The role of stress in illness
 
@@ -75,33 +75,33 @@ The specification says sections B, C and D of Paper 3 contain extended response 
 - **Kiecolt-Glaser et al. (1995)** found that small wounds took significantly longer to heal in people caring for a relative with dementia than in matched controls.
 - **Cohen et al. (1991)** gave volunteers nasal drops containing a cold virus. Those with higher stress scores were more likely to develop a cold.
 
-**Cardiovascular disorders** include hypertension and coronary heart disease (CHD). Repeated SAM activation raises heart rate and blood pressure, which can damage blood vessels over time. Adrenaline and raised blood glucose may also contribute to the build-up of fatty deposits in arteries.
+**Cardiovascular disorders** include hypertension and coronary heart disease (CHD). Repeated SAM activation raises heart rate and blood pressure, which can damage blood vessels over time.
 
-**Evaluation.** The exam studies use real stressors, so they have good mundane realism. But the link is not simple. Segerstrom and Miller (2004), reviewing nearly 300 studies, concluded that short-term stressors can boost some immune functions, while chronic stress suppresses them. Much of the research is correlational, and stressed people may sleep less or smoke more, so behaviour may explain some of the link.
+**Evaluation.** The exam studies use real stressors. But the link is not simple. Segerstrom and Miller (2004), in a meta-analysis of more than 300 studies, concluded that short-term stressors can boost some immune functions, while chronic stress suppresses them. Much of the research is correlational, and stressed people may sleep less or smoke more, so behaviour may explain some of the link.
 
-**Worked paragraph.** *One strength of the immunosuppression explanation is Kiecolt-Glaser et al. (1984), who found lower NK cell activity in medical students during exams than a month before. Testing the same students twice controlled individual differences. However, students under exam stress may also sleep and eat badly, so the drop could be partly behavioural, which limits how firmly we can say stress itself caused it.*
+**Worked paragraph.** *One strength of the immunosuppression explanation is Kiecolt-Glaser et al. (1984), who found lower NK cell activity in medical students during exams than a month before. Testing the same students twice controlled participant variables. However, students under exam stress may also sleep and eat badly, so the drop could be partly behavioural, which limits how firmly we can say stress itself caused it.*
 
 ## 3. Sources of stress
 
-**Life changes** are major events, such as bereavement, divorce or moving house, that require psychological readjustment. Holmes and Rahe (1967) gave each event a life change unit (LCU) value. Rahe et al. (1970) found a weak positive correlation between US Navy sailors' life change scores and illness during a tour of duty.
+**Life changes** are major events, such as bereavement, divorce or moving house, that require psychological readjustment. Holmes and Rahe (1967) gave each event a life change unit (LCU) value. Rahe et al. (1970) recorded US Navy sailors' life change scores for the previous six months, then tracked their health over the next six months. They found a weak positive correlation (about +0.12) between life change scores and illness.
 
-**Daily hassles** are frequent minor irritations, such as traffic, losing keys or arguments. **Uplifts** are small positive events that may offset them. Kanner et al. (1981) followed adults over nine months and found that hassles predicted psychological symptoms better than major life events. One explanation is the amplification hypothesis: a life change can create many new hassles (bereavement brings paperwork and new chores), and the hassles do the damage.
+**Daily hassles** are frequent minor irritations, such as traffic, losing keys or arguments. **Uplifts** are small positive events that may offset them. Kanner et al. (1981) gave middle-aged adults hassles and uplifts scales once a month for ten months and found that hassles predicted psychological symptoms better than major life events. One explanation is the amplification hypothesis: a life change can create many new hassles (bereavement brings paperwork and new chores), and the hassles do the damage.
 
-**Workplace stress.** The specification names **workload** and **control**. Johansson et al. (1978) studied a Swedish sawmill. "Finishers" did repetitive, machine-paced work with high responsibility and little control. They had higher stress hormone levels, more illness and more absence than cleaners, who had more control over their pace. Marmot et al. (1997), studying over 7,000 London civil servants, found that low job control was linked to higher risk of CHD, while high workload alone was not.
+**Workplace stress.** The specification names **workload** and **control**. Johansson et al. (1978) studied a Swedish sawmill. "Finishers" did repetitive, machine-paced work with high responsibility and little control. They had higher stress hormone levels, more illness and more absence than cleaners, who had more control over their pace. Marmot et al. (1997) analysed over 7,000 London civil servants in the Whitehall II study. Lower-grade staff had more new CHD, and low job control made the largest contribution to that difference. A companion paper from the same study (Bosma et al., 1997) found that job demands (workload) were not related to CHD risk.
 
-**Evaluation.** Life change research is mostly correlational and relies on recall. Hassles research shows that the meaning of an event depends on the person. Marmot's findings challenge the simple idea that heavy workload alone causes illness. However, civil servants in lower grades also differ in income and lifestyle, which are confounding variables.
+**Evaluation.** Life change research is mostly correlational and relies on recall. The Whitehall II findings challenge the simple idea that heavy workload alone causes illness. The researchers adjusted for risk factors such as smoking, but the study is correlational and low control goes with lower pay and different lifestyles, so confounding cannot be fully ruled out.
 
-**Worked paragraph.** *A teacher with a heavy marking load but freedom over when and how she marks may cope better than one with a lighter load set by others. This fits Marmot et al. (1997), where low control, not high workload, predicted heart disease. However, lower-grade civil servants also had lower pay and different lifestyles, so control may not be the only cause.*
+**Worked paragraph.** *A teacher with a heavy marking load but freedom over when and how she marks may cope better than one with a lighter load set by others. This fits the Whitehall II study (Marmot et al., 1997), where low control, not high workload, was linked to heart disease. However, this was correlational: low control goes together with lower pay and different lifestyles, so control may not be the only cause.*
 
 ## 4. Measuring stress
 
 **Social Readjustment Ratings Scale (SRRS).** Holmes and Rahe (1967) listed 43 life events, rated against marriage (set at 50). Death of a spouse scored highest at 100. A person ticks the events they have experienced in a set period, and the LCUs are summed.
 
-**Hassles and Uplifts Scale.** Respondents rate how often minor hassles and uplifts occurred and how strong they were. Kanner et al. (1981) produced separate hassles and uplifts scales; DeLongis and colleagues later combined them.
+**Hassles and Uplifts Scale.** Respondents go through a list of everyday hassles and uplifts and rate how much each one has affected them over a set period. Kanner et al. (1981) produced separate hassles and uplifts scales; DeLongis and colleagues later combined them.
 
 **Physiological measures.** The **skin conductance response (SCR)** measures sweating on the skin, usually the fingers. Sympathetic arousal increases sweat, so the skin conducts electricity better. Cortisol in saliva or blood can also be measured.
 
-**Evaluation.** Self-report scales are quick and cheap. But the SRRS treats every event as equally stressful for everyone, and some items (marriage, holidays) can be positive. Answers depend on memory and honesty. Physiological measures are objective and not affected by social desirability. However, arousal is not the same as stress: excitement also raises SCR, and some people have naturally high baseline conductance, so you need a comparison or baseline.
+**Evaluation.** Self-report scales are quick and cheap, but the SRRS treats every event as equally stressful for everyone, and some items (marriage, holidays) can be positive. Answers depend on memory and honesty. Physiological measures are objective and avoid social desirability bias. However, excitement also raises SCR, and baselines differ between people, so you need a comparison condition.
 
 **Worked paragraph.** *A researcher compares SCR on an ordinary day and on the morning of a driving test. Because SCR is measured by a sensor, it avoids the social desirability bias of a self-report scale. However, a higher reading could reflect excitement rather than stress, so the researcher should add a self-report measure to interpret what the arousal means.*
 
@@ -110,7 +110,7 @@ The specification says sections B, C and D of Paper 3 contain extended response 
 **Type A** behaviour includes competitiveness, time urgency, impatience and hostility. **Type B** people are relaxed and patient. **Type C** people suppress negative emotions, especially anger, and are cooperative and unassertive.
 
 - **Friedman and Rosenman** began the Western Collaborative Group Study with over 3,000 men in California. After about eight and a half years, Type A men were roughly twice as likely to have developed CHD as Type B men.
-- Later follow-up of the same sample found that Type A did not predict death from CHD, which weakens the claim. Researchers now argue that **hostility** is the active ingredient.
+- Ragland and Brand (1988) followed up the men in this study who had developed CHD. Type A men were actually less likely to die from CHD than Type B men, which weakens the claim. Many researchers now argue that **hostility** is the active ingredient.
 - **Type C and cancer.** Greer and Morris (1975) found that women diagnosed with breast cancer were more likely to report suppressing emotions, especially anger. However, a large Japanese cohort study (Nakaya et al., 2003) found no link between personality and cancer risk.
 
 **Hardiness.** Kobasa (1979) studied business executives and proposed that hardy people show:
@@ -119,9 +119,9 @@ The specification says sections B, C and D of Paper 3 contain extended response 
 - **Challenge:** seeing change as an opportunity, not a threat.
 - **Control:** believing you can influence events.
 
-Kobasa found that highly stressed executives who stayed healthy scored higher on hardiness. Maddi and colleagues followed managers at Illinois Bell Telephone through major job cuts. Many developed stress-related problems, and those who coped well showed more hardiness. A criticism is that hardiness overlaps with low negative affectivity (low anxiety), so it may not be a separate trait. Early samples were mostly male executives, which limits generalisation.
+Kobasa found that highly stressed executives who stayed healthy scored higher on hardiness. Maddi and colleagues followed managers at Illinois Bell Telephone through the upheaval of the US telephone industry's deregulation. About two-thirds showed declines in health or performance, and those who stayed well were higher in hardiness. A criticism is that hardiness overlaps with low negative affectivity (low anxiety), so it may not be a separate trait. Early samples were mostly male executives, which limits generalisation.
 
-**Worked paragraph.** *Ravi is always rushing, interrupts colleagues and gets angry in traffic, which shows Type A time urgency and hostility. Friedman and Rosenman found Type A men were about twice as likely to develop CHD. However, later follow-up found no link with CHD deaths, and hostility seems to matter more than the whole profile, so Ravi's anger, not his rushing, may be the real risk.*
+**Worked paragraph.** *Ravi is always rushing, interrupts colleagues and gets angry in traffic, which shows Type A time urgency and hostility. Friedman and Rosenman found Type A men were about twice as likely to develop CHD. However, a follow-up found Type A men with CHD were less likely to die from it, and hostility seems to matter more than the whole profile, so Ravi's anger, not his rushing, may be the real risk.*
 
 ## 6. Managing and coping with stress
 
@@ -129,9 +129,9 @@ Kobasa found that highly stressed executives who stayed healthy scored higher on
 
 **Stress inoculation therapy (SIT).** Meichenbaum (1985) described a cognitive-behavioural therapy in three phases: **conceptualisation** (understanding stress and how you appraise it), **skills acquisition and rehearsal** (relaxation, positive self-talk, problem-solving) and **application and follow-through** (practising skills in increasingly stressful situations). Saunders et al. (1996), in a meta-analysis of 37 studies, found SIT reduced anxiety and improved performance under stress. SIT prepares people for future stressors, but it takes time, money and motivation.
 
-**Biofeedback.** A person sees or hears real-time information about a body response, such as muscle tension or heart rate, while learning to relax. Lowering the reading is rewarding (operant reinforcement), and the skill is then transferred to everyday life. Lemaire et al. (2011) found that doctors using a biofeedback device for 28 days reported lower stress than controls. Biofeedback has no drug side effects, but it needs equipment and training, and relaxation alone may explain the benefit.
+**Biofeedback.** A person sees or hears real-time information about a body response, such as muscle tension or heart rate, while learning to relax. Lowering the reading is rewarding (operant reinforcement), and the skill is then transferred to everyday life. Lemaire et al. (2011) found that doctors using a biofeedback-based tool for 28 days showed a significantly greater fall in stress scores than controls. Biofeedback has no drug side effects, but it needs equipment and training, and relaxation alone may explain the benefit.
 
-**Gender differences in coping.** A traditional view is that men use more problem-focused coping and women more emotion-focused coping. Taylor et al. (2000) proposed **tend-and-befriend**: women respond to stress by protecting offspring and seeking social contact, possibly linked to oxytocin. Tamres et al. (2002), in a meta-analysis, found women used more coping strategies overall, including problem-focused ones, and that differences were small. Differences may reflect social roles, not biology alone.
+**Gender differences in coping.** A traditional view is that men use more problem-focused coping and women more emotion-focused coping. Taylor et al. (2000) proposed **tend-and-befriend**: women respond to stress by protecting offspring and seeking social contact, possibly linked to oxytocin. Tamres et al. (2002), in a meta-analysis, found women were more likely than men to use most coping strategies, not only emotion-focused ones. Some differences depended on the type of stressor. Differences may reflect social roles, not biology alone.
 
 **Social support.** The specification names three types:
 
@@ -139,7 +139,7 @@ Kobasa found that highly stressed executives who stayed healthy scored higher on
 - **Emotional:** listening, warmth, reassurance.
 - **Esteem:** boosting someone's belief in their own ability.
 
-Cohen et al. (2015) exposed adults to a cold virus. Those who reported more social support and more frequent hugs were better protected: support buffered the extra infection risk linked to interpersonal conflict, and infected people with more support had milder symptoms. Support can also go wrong: unwanted help can feel controlling.
+Cohen et al. (2015) exposed adults to a cold virus. Those who reported more social support and more frequent hugs were better protected: support buffered the extra infection risk linked to interpersonal conflict, and infected people with more support had milder symptoms.
 
 **Worked paragraph (evaluating therapies).** *For a surgeon with stage fright before presenting, a beta-blocker acts quickly by blocking adrenaline, so it is appropriate for a one-off event. However, it does nothing about her fear of being judged. SIT would take weeks, but its conceptualisation phase would target this appraisal, so it may be more effective long term.*
 
@@ -147,15 +147,14 @@ Cohen et al. (2015) exposed adults to a cold virus. Those who reported more soci
 
 - Mixing up the pathways: the SAM uses the adrenal **medulla** (adrenaline); the HPA uses the adrenal **cortex** (cortisol).
 - Writing that ACTH comes from the hypothalamus. It comes from the anterior pituitary.
-- Calling GAS stages "fight, flight, freeze". They are alarm, resistance and exhaustion.
 - Treating Type C as a cause of cancer. The evidence is mixed.
 - Saying workplace stress is caused by workload alone. The specification asks for workload **and** control.
 - Describing SCR as a direct measure of stress rather than of sympathetic arousal.
 
 ## Where to go next
 
-Revisit the biological approach in [Approaches in Psychology](/resources/a-level-aqa-psychology-approaches-in-psychology/) for the nervous and endocrine systems, and refresh Paper 1 content in [AQA A-level Psychology Introductory Topics](/resources/aqa-a-level-psychology-introductory-topics/). Then try the practice questions.
+For the nervous and endocrine systems, revisit [Approaches in Psychology](/resources/a-level-aqa-psychology-approaches-in-psychology/). For Paper 1 content, see [Introductory Topics](/resources/aqa-a-level-psychology-introductory-topics/).
 
 ## Official syllabus
 
-AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025), for teaching from September 2025. Stress is section 4.3.7 (Option 2, topic 14) and is assessed in Paper 3: Issues and Options in Psychology, Section C.
+AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025), for teaching from September 2025, section 4.3.7.

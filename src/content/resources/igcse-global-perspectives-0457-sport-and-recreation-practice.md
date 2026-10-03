@@ -52,7 +52,7 @@ Identify one fact and one opinion in Source A. **[2]**
 | Larnholm | 1.2 | 2.1 |
 | Pellmouth | 0.9 | 1.4 |
 
-**(a)** Calculate the percentage by which the final cost exceeded the bid cost for each previous host. **[2]**
+**(a)** Using the table, identify the percentage by which the final cost exceeded the bid cost for each previous host. **[2]**
 **(b)** Evaluate how far the evidence supports the bid committee's claim that the Games "will cost 1.5 billion talers and pay for themselves". **[6]**
 
 **4.** Suggest how researchers could test the claim that hosting the Continental Games will make more young people in Brackenford take part in sport. **[6]**

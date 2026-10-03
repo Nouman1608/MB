@@ -81,14 +81,14 @@ Practise with the [Forensic Psychology practice questions](/resources/aqa-a-leve
 | Christiansen (1977) | Over 3,500 Danish twin pairs | Higher concordance for MZ than DZ | MZ twins share more similar environments |
 | Mednick et al. (1984) | 14,427 Danish adoptees | Conviction rate 13.5% (no parent) to 24.5% (both) | Selective placement may confound |
 | Raine et al. (1997) | PET scans, 41 murderers, 41 controls | Lower prefrontal activity | Correlational; murderers pleading insanity are a special group |
-| Raine et al. (2000) | Men with antisocial personality disorder | About 11% less prefrontal grey matter | Cause or effect unclear |
-| Eysenck | E, N, P criminal personality | Poor conditioning leads to poor socialisation | Farrington et al. (1982): only P consistently high |
+| Raine et al. (2000) | MRI scans, community volunteers with antisocial personality disorder | About 11% less prefrontal grey matter | Cause or effect unclear |
+| Eysenck | E, N, P criminal personality | Poor conditioning leads to poor socialisation | Farrington et al. (1982): P consistently high, E not |
 | Bartol and Holanchock (1979) | Offenders in a New York prison | Less extraverted than controls | Suggests cultural bias in Eysenck |
 | Palmer and Hollin (1998) | Moral reasoning measure | Offenders less mature | Reasoning does not always predict behaviour |
-| Schönenberg and Justye (2014) | Ambiguous facial expressions | Violent offenders saw more anger | Supports hostile attribution bias |
-| Osborn and West (1979) | Sons of fathers with records | 40% vs 13% convicted by 18 | Shared genes could explain it |
+| Schönenberg and Jusyte (2014) | Ambiguous facial expressions | Violent offenders saw more anger | Supports hostile attribution bias |
+| Osborn and West (1979) | Conviction records of fathers and sons | Sons of convicted fathers more often convicted than sons of non-criminal fathers | Shared genes could explain it |
 | Hobbs and Holt (1976) | Token economy, young offenders | Improved behaviour | Gains may not last after release |
-| Sherman and Strang (2007) | Review of restorative justice | Reduced reoffending for some; stronger for violent crime | Needs offender and victim consent |
+| Sherman and Strang (2007) | Review of restorative justice | Reduced reoffending for some; more consistent for violent than property crime | Needs offender and victim consent |
 
 ## Must-know distinctions
 
@@ -106,9 +106,9 @@ Practise with the [Forensic Psychology practice questions](/resources/aqa-a-leve
 *Discuss two psychological explanations of offending behaviour.* Adapt this plan to the exact question. The specification's approximate Paper 3 weightings are 9–12% of the A-level for AO1 and 15–17% for AO3, so evaluation should take up most of your answer.
 
 1. **AO1, brief and accurate.** Outline Eysenck (E, N, P; biological basis; poor conditioning) and cognitive distortions (hostile attribution bias, minimalisation). Keep it accurate and brief.
-2. **AO3 point 1.** Eysenck and Eysenck (1977) support; Farrington et al. (1982) shows only P is consistent.
+2. **AO3 point 1.** Eysenck and Eysenck (1977) support; Farrington et al. (1982) shows only P is consistently high; E is not.
 3. **AO3 point 2.** Bartol and Holanchock (1979): cultural bias.
-4. **AO3 point 3.** Schönenberg and Justye (2014) support hostile attribution bias.
+4. **AO3 point 3.** Schönenberg and Jusyte (2014) support hostile attribution bias.
 5. **AO3 point 4.** Practical value: CBT programmes target distortions.
 6. **Issues and debates.** Eysenck is more biologically determinist; cognitive explanations allow change. Interactionist view: combine with biological explanations. See the [Issues and debates guide](/resources/aqa-a-level-psychology-7182-issues-and-debates/).
 7. **Conclusion.** A balanced judgement backed by the evidence above.

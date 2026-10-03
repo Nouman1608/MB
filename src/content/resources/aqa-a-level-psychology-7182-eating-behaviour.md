@@ -50,7 +50,7 @@ The specification prints the Paper 3 rules like this. Compulsory content is Issu
 - **Neophobia.** A reluctance to try new foods. It protected young children, who could now walk away from their carers, from eating something harmful.
 - **Taste aversion.** A learned avoidance of a food after it has been followed by illness. One pairing can be enough, even with a delay of hours. It is "prepared" learning: animals are biologically ready to link taste with sickness.
 
-**Evidence.** Garcia and Koelling (1966) found rats easily learned to link a taste with illness, but not a light or sound with illness. This supports a biological readiness to link taste and sickness. Bernstein (1978) gave children receiving chemotherapy a new ice cream before treatment that caused nausea; they later avoided it, while children who did not have it before nausea-causing treatment did not.
+**Evidence.** Garcia and Koelling (1966) found rats easily learned to link a taste with illness, but not a light or sound with illness. This supports a biological readiness to link taste and sickness. Bernstein (1978) offered children receiving chemotherapy an unusual ice cream before drug treatment. Children whose treatment caused stomach and gut side effects were later less likely to choose that ice cream again than control children.
 
 **Evaluation.**
 - *Strength:* the innate face responses in newborns are hard to explain through learning.
@@ -70,7 +70,7 @@ The specification prints the Paper 3 rules like this. Compulsory content is Issu
 
 **Cultural influences.** Culture decides what counts as food, how it is prepared and when it is eaten. A food that is a delicacy in one culture can cause disgust in another. Media and advertising spread cultural norms.
 
-**Mere exposure.** Birch and Marlin (1982) found that the more often two-year-olds were exposed to new fruits, the more they preferred them.
+**Mere exposure.** Birch and Marlin (1982) found that the more often two-year-olds were exposed to new cheeses or fruits, the more they preferred them.
 
 **Evaluation.**
 - *Strength:* exposure research has practical use for parents and nurseries.
@@ -86,7 +86,7 @@ The specification prints the Paper 3 rules like this. Compulsory content is Issu
 
 **Ghrelin.** A hormone released mainly by the stomach when it is empty. It acts on the hypothalamus to increase hunger. Cummings et al. (2001) found ghrelin rises before meals and falls after eating. Wren et al. (2001) found that giving people ghrelin increased their food intake.
 
-**Leptin.** A hormone released by fat (adipose) tissue. It signals to the hypothalamus that energy stores are adequate and reduces appetite. Montague et al. (1997) described two cousins with a genetic inability to make leptin; both had severe obesity. Farooqi et al. (1999) showed that leptin treatment greatly reduced a child's weight in a similar case.
+**Leptin.** A hormone released by fat (adipose) tissue. It signals to the hypothalamus that energy stores are adequate and reduces appetite. Montague et al. (1997) described two severely obese children from the same family who had a gene mutation that left them with very low leptin (congenital leptin deficiency). Farooqi et al. (1999) reported large weight loss when a child with congenital leptin deficiency was given leptin treatment.
 
 **Evaluation.**
 - *Strength:* human cases of leptin deficiency give clear causal evidence.
@@ -116,13 +116,12 @@ The specification prints the Paper 3 rules like this. Compulsory content is Issu
 
 *Evaluation:* family-based therapy has good support for adolescents, which suggests family processes matter. But the evidence is mostly from clinical observation and correlation; enmeshment could be a reaction to a child's illness rather than a cause. The theory has been criticised for blaming parents.
 
-**Social learning theory.** People **model** the eating and dieting of parents, peers and media figures. Weight loss may be **reinforced** by praise (direct) or seen to be rewarded in others (vicarious). The **media** presents a thin ideal. Becker et al. (2002) studied adolescent girls in Fiji after television arrived in 1995. The proportion scoring above the risk threshold on an eating attitudes test rose from 13% to 29%.
+**Social learning theory.** People **model** the eating and dieting of parents, peers and media figures. Weight loss may be **reinforced** by praise (direct) or seen to be rewarded in others (vicarious). The **media** presents a thin ideal. Becker et al. (2002) studied adolescent girls in a region of Fiji where television arrived in 1995. The proportion scoring above the risk threshold on an eating attitudes test rose from about 13% within a month of television arriving to about 29% three years later.
 
 *Evaluation:* the Fiji study is a strong natural experiment. But nearly everyone sees thin-ideal media and few develop AN, so SLT cannot explain individual vulnerability. The Fiji study measured attitudes, not diagnosed AN.
 
 **Cognitive theory.** People with AN show **distortions**, such as seeing their body as larger than it is. They hold **irrational beliefs**, such as "If I gain any weight I am a failure" or all-or-nothing thinking. Garner and Bemis (1982) described AN in terms of such beliefs and reasoning errors.
 
-*Evaluation:* cognitive behavioural therapy targets these beliefs and has some support. But it is unclear whether distortions cause AN or are effects of starvation. The theory describes what the person thinks more than why it started.
 *Evaluation:* cognitive behavioural therapy targets these beliefs and has some support. But it is unclear whether distortions cause AN or are effects of starvation. The theory describes what the person thinks more than why it started.
 
 **Worked paragraph.** *"SLT says thin ideals are modelled and weight loss is reinforced (AO1). A dancer praised by a coach for looking 'lighter' receives direct reinforcement (AO2). Becker et al. (2002) support a media effect (AO3), but most people exposed to such media never develop AN (AO3)."*

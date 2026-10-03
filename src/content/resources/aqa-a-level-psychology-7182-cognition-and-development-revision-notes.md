@@ -59,7 +59,7 @@ Test yourself with the [practice questions](/resources/aqa-a-level-psychology-71
 | Samuel and Bryant (1984) | One-question conservation | Fewer errors when asked once, after the change | Supports Piaget's sequence but not his ages |
 | Vygotsky | Social origin of thinking; ZPD; language as a tool | Learning is social first, individual later | ZPD is hard to measure precisely |
 | Wood, Bruner and Ross (1976) | Tutoring young children on a block task | Introduced the term "scaffolding" | Practical task, so limited to one kind of learning |
-| Wood and Middleton (1975) | Mothers helping 4-year-olds | Contingent help led to better independent performance | Supports scaffolding in the ZPD |
+| Wood and Middleton (1975) | Mothers helping 4-year-olds | The most effective mothers adjusted their help to how the child was doing (contingent help) | Supports scaffolding in the ZPD |
 | Baillargeon, Spelke and Wasserman (1985) | Drawbridge VoE study, 5-month-olds | Longer looking at the "impossible" rotation | Rivera et al. (1999): may be preference for more movement |
 | Baillargeon and DeVos (1991) | Tall and short carrot, 3½-month-olds | Longer looking when the tall carrot missed the window | Looking time is inferred, not direct evidence of thought |
 | Selman | Levels 0–4 of perspective-taking from dilemma interviews | Perspective-taking rises with age | Relies on verbal ability |

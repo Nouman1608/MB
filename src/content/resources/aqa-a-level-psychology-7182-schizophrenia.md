@@ -68,9 +68,9 @@ The specification names four issues.
 
 **Culture bias** is when diagnosis reflects the clinician's cultural norms. Luhrmann et al. (2015) interviewed voice-hearers with psychosis in the USA, India and Ghana. US participants more often described voices as violent and hostile. Participants in India and Ghana more often described voices as familiar or even positive. In England, the AESOP study (Fearon et al., 2006) found higher rates of diagnosis among Black Caribbean and Black African groups. Some researchers see this as diagnostic bias. Others point to social adversity and stress. Present both views.
 
-**Gender bias** is when diagnosis is distorted by the person's gender. Research has often reported that men are diagnosed more often than women. One suggested reason is that women may keep up relationships and daily functioning better, so their symptoms may be noticed less. This is debated, so treat it as an argument to evaluate, not a settled fact.
+**Gender bias** is when diagnosis is distorted by the person's gender. Research often reports more men than women diagnosed. One suggested reason is that women may keep up relationships and daily functioning better, so their symptoms may be noticed less. This is debated, so treat it as an argument to evaluate, not a settled fact.
 
-**Evaluation.** These issues matter because diagnosis guides treatment, so a wrong diagnosis may mean unsuitable treatment. On the other hand, overlap and co-morbidity are partly real features of mental health, not only errors by clinicians.
+**Evaluation.** Diagnosis guides treatment, so a wrong diagnosis may mean unsuitable treatment. But overlap and co-morbidity are partly real features of mental health, not only clinicians' errors.
 
 **Worked paragraph.** *Symptom overlap is a problem for diagnosing schizophrenia. A clinician who sees a person with a persecutory delusion and low motivation might diagnose schizophrenia, while another might focus on low mood and diagnose depression with psychotic features. This matters because the two diagnoses lead to different treatment plans. However, overlap may show that our categories are too rigid rather than that clinicians are careless.*
 
@@ -84,7 +84,7 @@ Schizophrenia is **polygenic**: many genes each add a small amount of risk. Ripk
 - Strength: family and twin evidence is consistent across many studies.
 - Limitation: concordance for identical twins is well below 100%, so genes cannot be the whole cause.
 - Limitation: families share environments as well as genes. Twin studies cannot fully separate the two.
-- Counter-evidence and nuance: Tienari et al. (2004) studied adopted children in Finland. Children whose biological mothers had schizophrenia were more likely to develop schizophrenia-spectrum disorders mainly when their adoptive family was rated as dysfunctional. This supports genes as a vulnerability, not destiny.
+- Counter-evidence and nuance: Tienari et al. (2004) studied adopted children in Finland. Children whose biological mothers had a schizophrenia-spectrum diagnosis were more likely to develop schizophrenia-spectrum disorders mainly when their adoptive family was rated as dysfunctional. This supports genes as a vulnerability, not destiny.
 
 ## Biological explanations: neural correlates and dopamine
 
@@ -149,9 +149,9 @@ Stirling et al. (2006) found people with schizophrenia were much slower than a c
 
 Jauhar et al. (2014) reviewed 34 trials and found CBT had a small effect on symptoms. The effect shrank further in trials where assessors did not know which treatment people had received.
 
-**Family therapy** works with the person and their family. It aims to reduce expressed emotion, improve communication, build problem-solving skills and help families understand the condition. Pharoah et al. (2010), a Cochrane review of 53 trials, found family intervention reduced relapse and hospital admission and improved medication compliance.
+**Family therapy** works with the person and their family. It aims to reduce expressed emotion, improve communication, build problem-solving skills and help families understand the condition. Pharoah et al. (2010), a Cochrane review of 53 trials, found family intervention may reduce relapse and hospital admission and help people keep taking medication, though poor trial quality may overstate this.
 
-**Evaluation.** Both therapies are usually given alongside medication, so isolating their effect is hard. They need trained staff and time, and a person with severe symptoms may need medication first before they can take part. NICE guidance in England recommends offering both CBT and family intervention to people with psychosis or schizophrenia.
+**Evaluation.** Both therapies are usually given alongside medication, so isolating their effect is hard. They need trained staff and time, and a person with severe symptoms may need medication before they can take part. NICE guidance in England recommends offering both CBT and family intervention to people with psychosis or schizophrenia.
 
 ## The interactionist approach and the diathesis-stress model
 
@@ -167,7 +167,7 @@ In treatment, the interactionist approach means combining drugs with CBT and fam
 - Strength: it fits the evidence that no single factor explains all cases.
 - Limitation: it is harder to test than a single-cause model. It is not clear how diathesis and stress combine.
 
-**Worked paragraph.** *The diathesis-stress model explains why only some people with high genetic risk develop schizophrenia. In Tienari et al.'s adoption study, children with a biological mother who had schizophrenia were at higher risk mainly when the adoptive family was dysfunctional. This suggests the family environment acted as the stressor that triggered a genetic vulnerability. This links to the nature-nurture debate, as it supports an interactionist position rather than either extreme.*
+**Worked paragraph.** *The diathesis-stress model explains why only some people with high genetic risk develop schizophrenia. In Tienari et al.'s adoption study, children with a biological mother who had a schizophrenia-spectrum diagnosis were at higher risk mainly when the adoptive family was dysfunctional. This suggests the family environment acted as the stressor that triggered a genetic vulnerability. This links to the nature-nurture debate, as it supports an interactionist position rather than either extreme.*
 
 ## Common errors
 

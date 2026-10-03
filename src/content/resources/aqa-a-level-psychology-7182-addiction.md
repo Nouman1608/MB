@@ -28,9 +28,9 @@ Use it with the [7182 subject hub](/boards/aqa/a-level/psychology/), the [7182 t
 
 ## How Paper 3 is set up
 
-The specification prints Paper 3 as follows. What's assessed: compulsory content 8 (Issues and debates in Psychology) and optional content, "one from option 1, 9–11, one from option 2, 12–14, one from option 3, 15–17". It is a written exam of 2 hours, 96 marks in total, 33.3% of A-level. Section A is Issues and debates (24 marks). Sections B, C and D each cover one topic from options 1, 2 and 3 respectively, with multiple choice, short answer and extended writing, 24 marks each. So if you study Addiction, it is your Section D topic, and you cannot also answer Aggression or Forensic Psychology for that section.
+The specification prints Paper 3 as follows. What's assessed: compulsory content 8 (Issues and debates in Psychology) and optional content, "one from option 1, 9–11, one from option 2, 12–14, one from option 3, 15–17". It is a written exam of 2 hours, 96 marks in total, 33.3% of A-level. Section A has multiple choice, short answer and extended writing questions worth 24 marks and is not tied to an option. Sections B, C and D each cover one topic from options 1, 2 and 3 respectively, with multiple choice, short answer and extended writing, 24 marks each. So if you study Addiction, it is your Section D topic, and you cannot also answer Aggression or Forensic Psychology for that section.
 
-The specification also says that research methods, practical research skills and mathematical skills are assessed in Paper 3, and that you should be able to "evaluate therapies and treatments including in terms of their appropriateness and effectiveness". Expect data, research design and therapy evaluation questions on Addiction, not only essays.
+The specification also says that research methods, practical research skills and mathematical skills are assessed in Paper 3, and that you should be able to "evaluate therapies and treatments including in terms of their appropriateness and effectiveness". So be ready for data, research design and therapy evaluation questions on Addiction, not only essays.
 
 ## Coverage table
 
@@ -76,7 +76,7 @@ The specification also says that research methods, practical research skills and
 
 ### Brain neurochemistry and dopamine
 
-Nicotine binds to nicotinic acetylcholine receptors on dopamine neurons in the ventral tegmental area. This triggers dopamine release in the nucleus accumbens, part of the mesolimbic reward pathway, producing pleasure. Nicotine leaves the body quickly, so the effect fades within a couple of hours. With repeated use, receptors become desensitised (tolerance) and the brain adjusts, so without nicotine the person feels low and irritable (withdrawal). Smoking again relieves this.
+Nicotine binds to nicotinic acetylcholine receptors on dopamine neurons in the ventral tegmental area. This triggers dopamine release in the nucleus accumbens, part of the mesolimbic reward pathway, producing pleasure. Nicotine has a short half-life in the blood (about two hours), so its effects wear off within hours of the last cigarette. With repeated use, receptors become desensitised (tolerance) and the brain adjusts, so without nicotine the person feels low and irritable (withdrawal). Smoking again relieves this.
 
 **Evaluation.**
 - Support from treatment: drugs that act on the same receptors, such as varenicline (a partial agonist), help people quit, which fits the dopamine explanation.
@@ -100,13 +100,13 @@ Nicotine binds to nicotinic acetylcholine receptors on dopamine neurons in the v
 
 Wins act as positive reinforcement, but they are unpredictable. Under **partial reinforcement** only some bets are rewarded. Under a **variable ratio** schedule the number of bets between wins changes. This schedule produces fast, steady responding that is very resistant to extinction, because the next bet could always be the winner. Near misses and the lights and sounds of machines act as secondary reinforcers.
 
-**Evaluation.** Clark et al. (2009) found that near misses increased players' desire to keep gambling and activated brain areas that also respond to wins, especially when players felt in control. This supports learning theory. A limitation is that most people who gamble on these schedules do not become addicted, so individual differences such as cognition must matter too.
+**Evaluation.** Clark et al. (2009) used a simplified slot-machine task. Near misses felt less pleasant than full misses but increased players' desire to keep gambling, though only when players had personal control over arranging the gamble. Near misses also activated brain areas (striatum and insula) that respond to monetary wins. This supports learning theory. A limitation is that most people who gamble on these schedules do not become addicted, so individual differences such as cognition must matter too.
 
 ### Cognitive theory: cognitive bias
 
 Gamblers hold distorted beliefs that keep them betting. Examples are the **illusion of control** (believing skill or rituals influence chance), the **gambler's fallacy** (believing a win is "due" after losses) and reading near misses as signs of improvement.
 
-Griffiths (1994) compared 30 regular and 30 non-regular fruit-machine gamblers in an arcade, using a "thinking aloud" method. Regular gamblers made more irrational verbalisations (about 14% compared with 2.5%) and rated their own skill as above average. They were not more skilful on objective measures.
+Griffiths (1994) compared 30 regular and 30 non-regular fruit-machine gamblers in an arcade, using a "thinking aloud" method. Regular gamblers made more irrational verbalisations (about 14% of their verbalisations, compared with 2.5% for non-regular gamblers) and were more skill-oriented on self-report measures. On objective measures they were not significantly more skilful.
 
 **Evaluation.** Griffiths' field setting gives ecological validity, but coding verbalisations is subjective. Cognitive theory explains why gamblers continue despite losses. It does not explain why only some people develop the biases, and it struggles to say whether biases cause gambling or develop from it.
 
@@ -118,7 +118,7 @@ Griffiths (1994) compared 30 regular and 30 non-regular fruit-machine gamblers i
 
 - **Nicotine replacement therapy** (patches, gum) supplies nicotine without smoke, reducing withdrawal so the person can tackle the habit.
 - **Varenicline** is a partial agonist at nicotinic receptors. It gives a smaller dopamine effect and blocks the full reward of smoking.
-- **Naltrexone** is an opioid antagonist that may reduce the reward of gambling. Kim et al. (2001) ran a double-blind trial: 75% of treated patients improved substantially compared with 24% on placebo. Nausea was a common side effect.
+- **Naltrexone** is an opioid antagonist that may reduce the reward of gambling. Kim et al. (2001) ran an 11-week double-blind trial with people diagnosed with pathological gambling: at the end, 75% of those taking naltrexone were rated much or very much improved, compared with 24% on placebo. Nausea was common in the first week.
 
 **Evaluation.** Easy to use and supported by controlled trials. But it treats symptoms, not the learned or cognitive causes, and side effects lead some people to drop out.
 
@@ -127,11 +127,11 @@ Griffiths (1994) compared 30 regular and 30 non-regular fruit-machine gamblers i
 - **Aversion therapy** pairs the addictive behaviour with an unpleasant stimulus (for example a nausea-inducing drug or "rapid smoking") so the behaviour becomes linked with discomfort.
 - **Covert sensitisation** does the same in imagination. The person pictures the behaviour followed by a vivid unpleasant consequence.
 
-**Evaluation.** A Cochrane review by Hajek and Stead (2004) concluded that the evidence for rapid smoking was insufficient and that the trials had methodological problems. Aversion therapy raises ethical issues and high dropout. Covert sensitisation avoids physical harm, but it depends on the person's ability to imagine vividly.
+**Evaluation.** A Cochrane review by Hajek and Stead (2004) concluded that the evidence was insufficient to judge whether rapid smoking works, because most trials had serious methodological problems, and that milder aversive methods seemed to lack specific effect. Aversion therapy also raises ethical issues because it causes deliberate discomfort. Covert sensitisation avoids physical harm, but it depends on the person's ability to imagine vividly.
 
 ### Cognitive behaviour therapy
 
-CBT starts with a functional analysis (when and why the behaviour happens). The therapist then challenges distorted beliefs, such as "I'm due a win", and teaches skills such as coping with cues and refusing offers. Petry et al. (2006) randomly allocated 231 gamblers to Gamblers Anonymous referral alone, referral plus a CBT workbook, or referral plus eight sessions of individual CBT. Outcomes were generally better in the CBT conditions.
+CBT starts with a functional analysis (when and why the behaviour happens). The therapist then challenges distorted beliefs, such as "I'm due a win", and teaches skills such as coping with cues and refusing offers. Petry et al. (2006) randomly allocated 231 gamblers to Gamblers Anonymous referral alone, referral plus a CBT workbook, or referral plus eight sessions of individual CBT. CBT reduced gambling more than GA referral alone during treatment, with some effects maintained at follow-up, and individual CBT improved some outcomes compared with the workbook.
 
 **Evaluation.** CBT targets causes and teaches lasting skills. It needs motivation, time and a trained therapist, and some people find it hard to talk through cognitive distortions.
 
@@ -139,9 +139,9 @@ CBT starts with a functional analysis (when and why the behaviour happens). The 
 
 ## Prochaska's six-stage model of behaviour change
 
-The six stages are **precontemplation** (no intention to change), **contemplation** (thinking about it, aware of pros and cons), **preparation** (planning soon), **action** (has changed recently), **maintenance** (sustained change, guarding against relapse) and **termination** (no temptation, certain they will not relapse). People can move back as well as forward, so relapse is part of the cycle. The model's application is to **match the intervention to the stage**: for example, raising awareness in precontemplation and teaching coping skills in action.
+The six stages are **precontemplation** (no intention to change), **contemplation** (thinking about it, aware of pros and cons), **preparation** (planning soon), **action** (has changed within the last six months), **maintenance** (change sustained for more than six months, guarding against relapse) and **termination** (no temptation, certain they will not relapse). People can move back as well as forward, so relapse is part of the cycle. The model's application is to **match the intervention to the stage**: for example, raising awareness in precontemplation and teaching coping skills in action.
 
-**Evaluation.** The model treats relapse as normal and encourages services to support people who are not yet ready. However, a Cochrane review by Cahill, Lancaster and Green (2010) found that stage-based smoking interventions were no more effective than non-stage-based ones. Critics also argue that the stage boundaries are arbitrary and that people can move from no intention to quitting very quickly.
+**Evaluation.** The model treats relapse as normal and encourages services to support people who are not yet ready. However, a Cochrane review by Cahill, Lancaster and Green (2010) found that stage-based self-help and counselling interventions for smoking were neither more nor less effective than non-stage-based equivalents. Critics also argue that the stage boundaries are arbitrary and that people can move from no intention to quitting very quickly.
 
 ## Common errors
 

@@ -67,15 +67,15 @@ The assessment objectives are AO1 (knowledge), AO2 (application) and AO3 (analys
 | Siffre (1962) | About two months alone in a cave | Sleep/wake cycle continued but ran slightly over 24 hours | Single case; cannot generalise alone |
 | Aschoff and Wever | Volunteers in an underground bunker | Most free-ran a little over 24 hours | Artificial light may have reset the clock |
 | Ralph et al. (1990) | SCN transplants in hamsters | Recipients took the donor's 20-hour rhythm | Animal study; generalising to humans needs care |
-| DeCoursey et al. (2000) | SCN destroyed in chipmunks, returned to wild | Many killed by predators | Ethical concerns about harm to animals |
+| DeCoursey et al. (2000) | SCN damaged in chipmunks, returned to the wild | More killed by weasels than controls | Ethical concerns about harm to animals |
 | Campbell and Murphy (1998) | Light on back of the knee | Rhythm shifted | Later work failed to replicate |
 | Stern and McClintock (1998) | Armpit compounds applied to other women | Menstrual cycle length changed | Many other factors affect cycle length |
-| Czeisler et al. (1982) | Utah chemical plant shift rotas | Forward, slower rotation improved sleep and health | Real workplace, so high ecological validity |
+| Czeisler et al. (1982) | Rotas of rotating shift workers | Forward, slower rotation improved schedule satisfaction, health ratings and productivity | Real workplace, so high ecological validity |
 | Recht et al. (1995) | Baseball results after travel | Teams flying east did worse than those flying west | Correlational; travel stress is a confound |
 | Dement and Kleitman (1957) | Woke sleepers in REM and NREM | REM wakings usually produced dream reports | Relies on self-report |
 | Zepelin and Rechtschaffen (1974) | Sleep across species | Smaller, faster-metabolism animals sleep more | Many species do not fit |
-| Allison and Cicchetti (1976) | Sleep across species | Prey species tend to sleep less | Correlational comparison |
-| Shapiro et al. (1981) | Runners after a 92 km race | More SWS afterwards | Supports body restoration |
+| Allison and Cicchetti (1976) | Sleep across 39 mammal species | Species in more danger from predators had less REM sleep | Correlational comparison |
+| Shapiro et al. (1981) | Runners after a 92 km race | More SWS and total sleep afterwards | Supports body restoration |
 | Randy Gardner (1964) | 264 hours awake | Recovered a fraction of lost sleep, but more SWS and REM | Single case |
 | Jenkins and Dallenbach (1924) | Recall after sleep vs waking | Better after sleep | May reflect less interference, not consolidation |
 | Plihal and Born (1997) | Early vs late night sleep | SWS-rich helped facts; REM-rich helped a motor skill | Lab tasks may lack everyday validity |

@@ -80,7 +80,7 @@ Test yourself afterwards with the [Schizophrenia practice questions](/resources/
 | Stirling et al. (2006) | Stroop task | People with schizophrenia much slower than controls | Supports weak central control |
 | Leucht et al. (2013) | Comparison of 15 antipsychotics | All beat placebo; clozapine ranked most effective | Side effect profiles differ widely |
 | Jauhar et al. (2014) | Review of CBT trials | Small effect, smaller still in well-masked trials | Questions how effective CBT really is |
-| Pharoah et al. (2010) | Cochrane review of family intervention | Less relapse and hospital admission; better medication compliance | Usually given with drugs, so effect is hard to isolate |
+| Pharoah et al. (2010) | Cochrane review of family intervention | May reduce relapse and hospital admission and help people keep taking medication | Usually given with drugs, so effect is hard to isolate |
 | Meehl (1962) | Early diathesis-stress model | Single "schizogene" as the diathesis | Now replaced by polygenic and trauma-based ideas |
 
 ## Must-know distinctions
