@@ -94,7 +94,7 @@ Test yourself afterwards with the [practice questions](/resources/a-level-geogra
 ## Conditions for coral growth
 
 - Warm water, typically 23-29°C, rarely below about 18°C.
-- Light for zooxanthellae, so mostly shallower than about 25 m.
+- Light for zooxanthellae, so mostly within roughly the top 30 m.
 - Clear water with little sediment.
 - Normal sea salinity, so few reefs near large river mouths.
 - Wave action for oxygen and food, with only brief exposure at low tide.

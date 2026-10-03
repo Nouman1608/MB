@@ -111,7 +111,7 @@ Revise first with the [study guide](/resources/a-level-geography-9696-coastal-en
 *Examiner insight:* "Outline how" needs the effect on retreat for each process, not just a named process.
 
 **4. (a)** 50.0 - 8.0 = 42.0 m over 15 years [1]; 42.0 / 15 = 2.8 m per year [1]. **[2]**
-**(b)** Retreat is greatest at post C (42.0 m) [1]. Posts A and D retreat at similar, high rates (27.0 m and 28.5 m) [1]. Posts B and E retreat very little (1.5 m each) [1]. **[3]**
+**(b)** Retreat is greatest at post C (42.0 m) [1]. Posts A and D retreat by similar, large amounts (27.0 m and 28.5 m) [1]. Posts B and E retreat very little (1.5 m each) [1]. **[3]**
 **(c)** Post B is protected, so the groynes and revetment absorb wave energy [1]. Post C lies just south of the groynes, so sediment moving south is trapped and its beach is starved, leaving the cliff foot exposed [1]. Posts A to D are weak glacial till, which slumps and is easily eroded [1], whereas the sandstone at E is more resistant [1]. E may also be a headland where the cliff foot is protected by a rock platform or by debris that is removed more slowly [1]. **[5]**
 *Examiner insight:* Top answers use the data and context together: the groyne location and drift direction explain post C, which is the key anomaly.
 
@@ -122,7 +122,7 @@ Revise first with the [study guide](/resources/a-level-geography-9696-coastal-en
 **6.** Longshore drift moves sediment along the coast [1]. Where the coastline changes direction, for example at an estuary, deposition continues out into open water [1]. Waves refracting round the end, or a change in wind and wave direction, curve the tip into a recurve [1]. As the spit grows, new recurves form and older ones are left along the landward side, giving a compound spit [1]. Sheltered water behind the spit allows mud to settle and saltmarsh to form [1]. **[5]**
 *Examiner insight:* "Compound" must be explained; a description of a simple spit with one hook stops at about three marks.
 
-**7. (a)** Warm water, typically 23-29°C [1]; shallow water, mostly less than about 25 m, so light reaches the zooxanthellae for photosynthesis [1]; clear water with little sediment [1]; normal sea salinity [1]. Also credit wave action to bring oxygen and food, or only brief exposure to air at low tide, in place of any of these. **[4]**
+**7. (a)** Warm water, typically 23-29°C [1]; shallow water, mostly within roughly the top 30 m, so light reaches the zooxanthellae for photosynthesis [1]; clear water with little sediment [1]; normal sea salinity [1]. Also credit wave action to bring oxygen and food, or only brief exposure to air at low tide, in place of any of these. **[4]**
 **(b)** Cold ocean currents [1] and upwelling of cold deep water lower sea temperatures below what corals need [1]. **[2]**
 *Examiner insight:* For (a), give a value or reason with each condition; a bare list such as "warm, shallow, clear" earns less.
 

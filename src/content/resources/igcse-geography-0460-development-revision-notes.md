@@ -24,7 +24,7 @@ featured: false
 
 These notes condense the [Development study guide](/resources/igcse-geography-0460-development/). Read the guide first if a point here is unclear.
 
-These notes cover topic 3.1 Development in Theme 3 (Economic development) of the Cambridge IGCSE Geography (0460) syllabus for examination in 2025 and 2026, Version 2 (published November 2022). The syllabus describes Paper 1 (Geographical Themes) as a mix of resource-based tasks and free-response writing that needs place-specific case study information, and Paper 2 (Geographical Skills) can base knowledge questions on any of the three themes. Your teacher will confirm which Paper 1 section holds Theme 3.
+These notes cover topic 3.1 Development in Theme 3 (Economic development) of the Cambridge IGCSE Geography (0460) syllabus for examination in 2025 and 2026, Version 2 (published November 2022). The syllabus describes Paper 1 (Geographical Themes) as a combination of resource-based tasks and free-response writing requiring place-specific information, and Paper 2 (Geographical Skills) can base knowledge questions on any of the three themes. Your teacher will confirm which Paper 1 section holds Theme 3.
 
 Test yourself with the [Development practice questions](/resources/igcse-geography-0460-development-practice/). The [IGCSE Geography hub](/boards/cambridge/igcse/geography/) and the [0460 topic checklist](/checklists/cambridge/igcse/geography/) show the whole course. For links between development and birth rates, see the [Population and Settlement revision notes](/resources/igcse-geography-population-settlement-revision-notes/). Factory location and the secondary sector continue in [Industry](/resources/igcse-geography-0460-industry/).
 
@@ -119,13 +119,13 @@ From Nike's annual report for the year ending 31 May 2026:
 
 ## Mini essay plan
 
-**Question type**: "To what extent has globalisation benefited countries at a low level of development?"
+**Question type**: "Explain the benefits and problems of globalisation for countries at a low level of development. Justify whether the benefits outweigh the problems."
 
 1. **Define** globalisation and set the scale (local, national, global).
 2. **Benefits with evidence**: TNC factory jobs, export earnings and technology. Use Nike's footwear production in Vietnam and Indonesia.
 3. **Costs with evidence**: low wages and poor conditions (Nike in the 1990s), profits leaving the country, dependence on a few TNCs, footloose investment.
 4. **Who gains and who loses**: factory workers versus small local firms; urban versus rural areas; the poorest countries attract little investment.
-5. **Judgement**: benefits are real but uneven; they depend on government policy, worker protection and the time scale. Say clearly how far you agree.
+5. **Judgement**: benefits are real but uneven; they depend on government policy, worker protection and the time scale. State and justify your view clearly.
 
 ## Quick self-test
 

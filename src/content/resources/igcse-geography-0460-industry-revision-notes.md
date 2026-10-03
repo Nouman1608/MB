@@ -24,7 +24,7 @@ featured: false
 
 These notes condense the [Industry study guide](/resources/igcse-geography-0460-industry/); read that first for full explanations and worked answers.
 
-They cover section 3.3 Industry of the Cambridge IGCSE Geography (0460) syllabus for examination in 2025 and 2026, Version 2 (published November 2022). This section is part of Theme 3: Economic development. It is assessed in Paper 1 Geographical Themes, where you answer three 25-mark questions, one from each section, and Paper 2 Geographical Skills may also set data questions on the themes. Practise with the [Industry practice questions](/resources/igcse-geography-0460-industry-practice/), and track progress on the [Cambridge IGCSE Geography hub](/boards/cambridge/igcse/geography/) and [checklist](/checklists/cambridge/igcse/geography/).
+They cover section 3.3 Industry of the Cambridge IGCSE Geography (0460) syllabus for examination in 2025 and 2026, Version 2 (published November 2022). This section is part of Theme 3: Economic development. It is assessed in Paper 1 Geographical Themes, where you answer three 25-mark questions, one from each section. Paper 2 Geographical Skills can also set knowledge questions based on the three themes. Practise with the [Industry practice questions](/resources/igcse-geography-0460-industry-practice/), and track progress on the [Cambridge IGCSE Geography hub](/boards/cambridge/igcse/geography/) and [checklist](/checklists/cambridge/igcse/geography/).
 
 ## The syllabus in one box
 
@@ -98,8 +98,8 @@ The syllabus defines these command words. Match your answer to the word.
 
 | Case study | Type | Key facts | Main location factors | One evaluation point |
 |---|---|---|---|---|
-| Jebel Ali Free Zone, Dubai, UAE | Industrial zone | Began 1985 with 19 companies; about 57 km²; operator says over 11,000 businesses; run by DP World | Beside Jebel Ali Port (opened 1979), the world's largest man-made harbour; about 24 km from Al Maktoum airport; free-zone rules with no foreign ownership restrictions | Political and transport factors outweigh raw materials, but much activity is trade and storage, not making goods |
-| Toyota, Burnaston, Derbyshire, England | Factory (car assembly) | First car built 16 December 1992; engines from Deeside, North Wales | Flat site of former Derby Airport; beside A38, near A50 and M1; avoided import duties on cars sold in Europe; engineering skills in Derby | Shows how trade rules can change and add costs to a plant built for one market |
+| Jebel Ali Free Zone, Dubai, UAE | Industrial zone | Began 1985 with 19 companies; about 57 km²; operator says over 11,000 businesses; run by DP World | Beside Jebel Ali Port (opened 1979), the world's largest man-made harbour and the Middle East's busiest port; about 24 km from Al Maktoum airport; free-zone rules with no foreign ownership restrictions | Political and transport factors outweigh raw materials, but much activity is trade and storage, not making goods |
+| Toyota, Burnaston, Derbyshire, England | Factory (car assembly) | First car built 16 December 1992; engines from Deeside, North Wales | Flat site of former Derby Airport; beside A38, near A50 and M1; UK then in the European Community, so no import duties on cars sold to other members; engineering skills in Derby | Shows how trade rules can change and add costs to a plant built for one market |
 | Cambridge Science Park, England | High-tech zone (short example) | Founded by Trinity College in 1970; about 3 km north of the city | University links, skilled graduates, A14 road and Cambridge North station | Footloose firms still cluster where knowledge and skills are found |
 
 ## Must-know distinctions

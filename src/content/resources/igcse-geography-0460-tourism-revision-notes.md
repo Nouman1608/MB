@@ -87,8 +87,8 @@ What decides the balance: scale, ownership, type of tourism, management, and who
 | Who / where | What | Key facts | One evaluation point |
 |---|---|---|---|
 | Butler (1980), *The Canadian Geographer* | Tourist area cycle of evolution | Exploration, involvement, development, consolidation, stagnation, then decline or rejuvenation | A general pattern: shocks such as disasters can cause falls that the model does not predict |
-| The Maldives (main case study) | Area where tourism is important | 1,192 coral islands in 26 atolls; first resort Kurumba 1972; about 28% of GDP; arrivals 2,046,615 in 2024; guesthouses on local islands since 2009; green tax since 2015, USD 12 a night at resorts from 2025 | High leakage and waste (Thilafushi landfill island) limit benefits; sea-level rise is outside its control |
-| Bhutan | Fee-based limits | Opened 1974; "high value, low impact" policy; Sustainable Development Fee USD 200 a night from 2022, USD 100 from 2023 | High fees protect the country but can deter visitors |
+| The Maldives (main case study) | Area where tourism is important | 1,192 coral islands in 26 atolls; first resort Kurumba 1972; about 21% of GDP (World Bank); arrivals about 1.7 million in 2019; guesthouses spreading on local islands; green tax since 2015, USD 12 a night at resorts from 2025 | High leakage and waste (Thilafushi landfill island) limit benefits; sea-level rise is outside its control |
+| Bhutan | Fee-based limits | Opened 1974; "high value, low volume" policy; Sustainable Development Fee USD 200 a night from 2022, USD 100 from 2023 | High fees protect the country but can deter visitors |
 | Venice | Managing crowds | EUR 5 day-tripper fee from 25 April 2024 on selected days; ships over 25,000 tonnes banned from the Giudecca Canal since August 2021 | A small fee may not change visitor behaviour much |
 
 The 3.4 content list does not require a model. The Butler model is named in the syllabus's list of suggested coursework enquiries; your teacher will confirm how far to use it.
@@ -122,8 +122,8 @@ Phrases such as "How far do you agree" and "To what extent" also appear. They ne
 **Question type:** "For a named area you have studied, evaluate the benefits and disadvantages of tourism." (Treat this as an extended Paper 1 case-study answer.)
 
 1. **Locate and set the scene** -- the Maldives, Indian Ocean, 1,192 coral islands, tourism since 1972.
-2. **Benefits with detail** -- about 28% of GDP; foreign currency for an import-dependent country; guesthouse tourism since 2009 spreads income to local islands.
-3. **Disadvantages with detail** -- leakage through imports and foreign ownership; waste shipped to Thilafushi; reef damage and coral bleaching; over-dependence shown when GDP fell about 5.5% in 2005 after the 2004 tsunami.
+2. **Benefits with detail** -- about 21% of GDP; foreign currency for an import-dependent country; guesthouse tourism spreads income to local islands.
+3. **Disadvantages with detail** -- leakage through imports and foreign ownership; waste shipped to Thilafushi; reef damage and coral bleaching; over-dependence shown when GDP fell sharply in 2005 after the 2004 tsunami, and when arrivals collapsed in 2020.
 4. **Weigh them** -- benefits are large at national scale; disadvantages fall on the environment and the future.
 5. **Judgement** -- tourism is beneficial overall only if management (green tax, waste handling, local ownership) keeps pace with growth.
 
@@ -151,7 +151,7 @@ Phrases such as "How far do you agree" and "To what extent" also appear. They ne
 6. Workers lose jobs or income in the off season, so incomes are unreliable.
 7. It reduces leakage, because profits stay in the area and are more likely to be re-spent locally.
 8. 1972 (Kurumba).
-9. It is an artificial island used as a landfill for rubbish from Malé, from 1992.
+9. It is an artificial island used as a landfill for rubbish from Malé, since the early 1990s.
 10. Any two: permits or quotas; entry fees; zoning; marked paths; visitor codes of conduct.
 11. Ecotourism is small-scale and aims to conserve nature and benefit local people; mass tourism brings large numbers, often to resorts, with larger impacts.
 

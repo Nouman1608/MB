@@ -67,7 +67,7 @@ The syllabus names four of these for special attention.
 
 **Demand and distance from markets.** Von Thünen's model (1826) predicts rings of land use around a single market town. Perishable or bulky products that cost a lot to move per hectare (market gardening, dairying) locate close. Land uses with low output per hectare (grain, ranching) locate further out. The idea is **locational rent**: income per hectare minus production and transport costs.
 
-*Evaluation:* the model assumes one market, flat uniform land, one transport mode and profit-maximising farmers. Refrigeration and air freight have shrunk the friction of distance: Kenyan cut flowers are flown to Europe. The model still helps explain vegetables and dairying on farmland near large cities.
+*Evaluation:* the model assumes one market, flat uniform land, one transport mode and profit-maximising farmers. Refrigeration and air freight have shrunk the friction of distance: Kenyan cut flowers are flown to Europe. It still explains dairying and vegetables near large cities.
 
 **Agricultural technology** includes mechanisation, high-yielding varieties (HYVs), fertilisers, pesticides, GM crops and GPS-guided precision farming. It raises output but needs capital, so it can widen the gap between large and small farms.
 
@@ -102,7 +102,7 @@ A smallholder rice farm can have high yield per hectare but low output per worke
 
 The syllabus requires one country, at the local scale (farm or producer) and the national scale. India is used here.
 
-**The need for change.** In the mid-1960s India faced food shortages and relied on food aid. The **Green Revolution**, introduced in Punjab in the late 1960s, combined HYV wheat and rice, fertiliser, pesticides, credit and irrigation. M. S. Swaminathan is widely called its main architect. Gains were largest in Punjab, Haryana and western Uttar Pradesh. A minimum support price (MSP) system began in 1965, and the Food Corporation of India buys grain for the public distribution system.
+**The need for change.** In the mid-1960s India faced food shortages and relied on food aid. The **Green Revolution**, introduced in Punjab in the late 1960s, combined HYV wheat and rice, fertiliser, pesticides, credit and irrigation. M. S. Swaminathan is widely called its main architect. Gains were largest in Punjab, Haryana and western Uttar Pradesh. Minimum support prices (MSP) date from the mid-1960s, and the Food Corporation of India buys grain for the public distribution system.
 
 **Local scale: a Punjab smallholder.** A typical family grows rice in the monsoon season and wheat in winter. Tubewells pump groundwater, and Punjab has given farmers free electricity for pumps. Difficulties:
 
@@ -110,7 +110,7 @@ The syllabus requires one country, at the local scale (farm or producer) and the
 - only weeks separate the rice harvest from wheat sowing, so many farmers burn stubble, adding to Delhi's air pollution;
 - small holdings and rising input costs push some farmers into debt.
 
-Responses at this scale include a 2009 Punjab law that delays rice transplanting until a notified date in June, so the crop uses more monsoon rain; machines such as the Happy Seeder, which sow wheat through the stubble; and payments to switch to maize or bajra (millet).
+Responses at this scale include a 2009 Punjab law that delays rice transplanting until a notified date in June, so the crop uses more monsoon rain; machines such as the Happy Seeder, which sow wheat through the stubble; and a 2022 offer to buy maize and bajra (millet) at MSP, to draw farmers away from rice.
 
 **National scale.** Most Indian holdings are under 2 hectares. Policies include MSP and procurement, input subsidies, the Soil Health Card scheme (2015) and PM-KISAN (2019), which pays landholding farm families Rs 6,000 a year in three instalments. In September 2020 Parliament passed three farm laws to open up private trade and contract farming. Farmers, led by those from Punjab, Haryana and western Uttar Pradesh, protested for over a year and demanded a legal guarantee of MSP. The government announced repeal on 19 November 2021.
 
@@ -120,11 +120,9 @@ Responses at this scale include a 2009 Punjab law that delays rice transplanting
 - *Limits:* benefits went mainly to irrigated areas and larger farmers. MSP procurement concentrates on wheat and rice, which locks Punjab into a water-hungry rotation. PM-KISAN excludes tenant farmers who do not own land.
 - *Difficulty of management:* the 2020 reforms show that national change fails without farmers' support, and local fixes (delayed transplanting) can shorten the window before wheat and encourage burning.
 
-**Worked paragraph (Evaluate):** "India's Green Revolution solved the national problem of the 1960s but created new local problems. Nationally, HYVs, fertiliser and guaranteed prices made India a grain-surplus country. On Punjab farms, however, the rice-wheat rotation depends on pumped groundwater, so water tables are falling. A solution designed for food quantity ignored sustainability. Delayed transplanting and payments for maize try to correct this, but while MSP still favours rice and wheat, success is likely to be partial."
+**Worked paragraph (Evaluate):** "India's Green Revolution solved the national problem of the 1960s but created new local problems. Nationally, HYVs, fertiliser and guaranteed prices made India a grain-surplus country. On Punjab farms, however, the rice-wheat rotation depends on pumped groundwater, so water tables are falling. A solution designed for food quantity ignored sustainability. Delayed transplanting and MSP offers for maize try to correct this, but while MSP still favours rice and wheat, success is likely to be partial."
 
 ## 11.3 Factors in the location of manufacturing and related services
-
-Know each factor and an example of when it matters.
 
 - **Land:** cost, flat sites, room to expand.
 - **Labour:** cost and skills; assembly seeks low wages, research seeks skills.
@@ -149,7 +147,7 @@ Alfred Weber's least-cost theory (1909) explains location by minimising transpor
 - **horizontal** (lateral) linkages between firms making parts for the same final product;
 - **service** linkages to transport, finance and repair firms.
 
-*Example of agglomeration:* Sialkot in Pakistan is known as a world centre of surgical-instrument manufacture, and it also makes footballs, other sports goods and leather goods. Thousands of small firms share suppliers and skills, and local business funded a dry port and an international airport. *Evaluation:* the cluster shows how linkages and inertia hold an industry in place for over a century, but it depends on low-cost labour and export demand.
+*Example of agglomeration:* Sialkot in Pakistan is known as a world centre of surgical-instrument manufacture, and also makes footballs, other sports goods and leather goods. Thousands of small firms share suppliers and skills, and local business funded a dry port and an international airport. *Evaluation:* the cluster shows how linkages and inertia hold an industry in place for over a century, but it depends on low-cost labour and export demand.
 
 An **industrial estate** is a planned area with serviced plots, roads, power and water, built for several firms. It cuts start-up costs and separates industry from housing.
 
@@ -164,16 +162,16 @@ The **informal sector** is economic activity that is not registered, regulated o
 - **Location:** markets, transport hubs, roadsides and homes in informal settlements, close to customers.
 - **Impact:** positive (jobs, cheap goods, skills, recycling, subcontracting for formal firms); negative (low, unstable pay, unsafe work, lost tax revenue).
 
-*Example:* in Kenya informal artisans are called **jua kali** ("hot sun" in Swahili), as many first worked outdoors. In Nairobi's Kamukunji area metalworkers turn scrap into tools, boxes and cooking pots. *Evaluation:* governments now often support the sector (sheds, training, microcredit), but formalisation can raise costs and push the poorest out.
+*Example:* in Kenya informal artisans are called **jua kali** ("hot sun" in Swahili), as many first worked outdoors. Nairobi's Kamukunji area has thousands of small jua kali enterprises, with their own association. *Evaluation:* governments now often support the sector (sheds, training, microcredit), but formalisation can raise costs and push the poorest out.
 
 ## 11.4 Case study: Malaysia's industrial policy
 
 **Character, location and organisation over time.**
 
-1. **Import substitution (1958 onward):** the Pioneer Industries Ordinance gave tax relief to firms making goods for the home market.
+1. **Import substitution (late 1950s and 1960s):** tax relief and tariffs encouraged firms to make goods for the home market.
 2. **Export orientation (1970s):** the Free Trade Zones Act (1971) and the Bayan Lepas Free Industrial Zone in Penang (1972) drew electronics TNCs such as Intel, AMD and Hewlett-Packard. The New Economic Policy (1971) aimed to raise the Malay (Bumiputera) share of the economy.
 3. **Heavy industry (1980s):** HICOM (1980) and the national car company Proton (1983), whose first car, the Saga, launched in 1985 with Mitsubishi as partner.
-4. **Master plans and knowledge industry:** Industrial Master Plans ran from 1986 to 2020. The Multimedia Super Corridor (1996) stretched from Kuala Lumpur to the new airport. Proton opened a plant at Tanjung Malim in 2003. The New Industrial Master Plan 2030 followed in 2023.
+4. **Master plans and knowledge industry:** Three Industrial Master Plans followed, the third covering 2006-2020. The Multimedia Super Corridor (1996) stretched from Kuala Lumpur to the new airport. Proton opened a plant at Tanjung Malim in 2003. The New Industrial Master Plan 2030 came next.
 
 Character changed from processing rubber and tin to electronics, cars and semiconductors; electrical and electronics products now make up around 40% of exports. Location concentrated in Penang, the Klang Valley and Johor. Organisation mixed foreign TNC branch plants, state-led firms and local suppliers.
 

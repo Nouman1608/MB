@@ -71,7 +71,7 @@ Test yourself with the [practice questions for this unit](/resources/a-level-geo
 | Lomé Convention (1975) | EU preferences for ACP countries | Example of colonial ties shaping trade | Preferences can lock countries into raw-material exports |
 | Fairtrade (Max Havelaar, Netherlands, 1988) | Minimum price plus premium | Shields producers from price falls | Often only part of output sold on Fairtrade terms; a 2014 Ethiopia and Uganda study found no gain for hired workers |
 | Debt crisis (1982) | Mexico could not service its debt in August 1982 | 1970s petrodollar lending plus rising interest rates from 1979 | Structural adjustment led to the "lost decade" in Latin America |
-| HIPC (1996, enhanced 1999) | IMF/World Bank debt relief | 37 countries completed by 2020 | Conditions such as utility privatisation could hurt poor households |
+| HIPC (1996, enhanced 1999) | IMF/World Bank debt relief | 36 countries at completion point by early 2023 | Conditions such as utility privatisation could hurt poor households |
 | Zambia | Copper-dependent exporter | HIPC relief, then a 2020 Eurobond default | Restructured under the G20 Common Framework (2023-2024) |
 | 0.7% target (UN, 1970) | Aid target as share of GNI | Few donors meet it | UK cut from 0.7% to 0.5% in 2021 |
 | Pergau Dam (Malaysia) | UK aid linked to an arms deal | Ruled unlawful by the High Court in 1994 | Shows aid shaped by donor interests |

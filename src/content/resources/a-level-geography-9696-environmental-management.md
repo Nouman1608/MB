@@ -53,7 +53,7 @@ Use it with the [Cambridge A Level Geography hub](/boards/cambridge/a-level/geog
 | 12.3 | Protection of environments at risk at the local or regional scale: needs, measures and outcomes | Paper 4 |
 | 12.4 | Case study: one degraded environment -- causes, problems, issues, evaluation of solutions | Paper 4 |
 
-AO4 Evaluation is 40% of Paper 4, so every case study below ends with a judgement.
+AO4 Evaluation is about 40% of Paper 4, so every case study below ends with a judgement.
 
 ## 12.1 Renewable and non-renewable energy
 
@@ -119,7 +119,7 @@ The enhanced greenhouse effect is in the [Core Physical Geography guide](/resour
 
 **Location and scale.** On the Yangtze River at Sandouping, Hubei province. Construction began in December 1994; the power plant was fully running in 2012. Installed capacity is 22,500 MW (32 turbines of 700 MW and 2 of 50 MW). It generated nearly 112 TWh in 2020, a world record for one plant. The reservoir stretches up to 600 km upstream.
 
-**Demand and supply.** China's electricity demand grew fast with industrialisation. Long high-voltage lines carry the power to central, eastern and southern China. The dam also provides flood control and navigation; a ship lift opened in 2015.
+**Demand and supply.** China's electricity demand grew fast with industrialisation. Long high-voltage lines carry the power to central, eastern and southern China. The dam also provides flood control and navigation; a ship lift was completed in 2015 and came into use in 2016.
 
 **Issues.**
 
@@ -141,7 +141,7 @@ The enhanced greenhouse effect is in the [Core Physical Geography guide](/resour
 
 Distinguish **point-source** pollution (one outlet, such as a factory pipe -- easier to regulate) from **diffuse** pollution (many small sources, such as farm runoff -- harder to control).
 
-**Example: London's Ultra Low Emission Zone.** It started in central London on 8 April 2019 and was extended in October 2021 and again in August 2023 to all London boroughs. Older, more polluting vehicles pay £12.50 a day. A Transport for London report in 2024 estimated nitrogen dioxide was 27% lower across the city than it would have been without the zone. Critics argue the charge falls hardest on lower-income drivers.
+**Example: London's Ultra Low Emission Zone.** It started in central London on 8 April 2019 and was extended in October 2021 and again in August 2023 to all London boroughs. Older, more polluting vehicles pay £12.50 a day. A Transport for London report estimated nitrogen dioxide was 27% lower across the city than it would have been without the zone. Critics argue the charge falls hardest on lower-income drivers.
 
 ## 12.3 Water demand, supply and quality
 

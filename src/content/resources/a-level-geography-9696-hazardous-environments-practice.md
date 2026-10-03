@@ -102,7 +102,7 @@ Revise first with the [study guide for this unit](/resources/a-level-geography-9
 
 **11.** "Atmospheric hazards are now easier to manage than tectonic hazards." How far do you agree? **[20]**
 
-**12.** With reference to a case study, evaluate the success of attempts to manage a hazardous environment sustainably. **[20]**
+**12.** "Saving lives is not the same as managing a hazardous environment sustainably." With reference to a hazardous environment you have studied, how far do you agree? **[20]**
 
 ## Answers
 
@@ -163,7 +163,7 @@ Questions 11 and 12 are essays. The real exam marks essays with levels of respon
 - Introduce the environment: low, flat delta land, high population density and frequent cyclones [1].
 - Define sustainable management: meeting present needs without harming future ones, socially, economically and environmentally [1].
 - Problem: storm surges flood low-lying land [1]; poverty limits strong housing or moving away [1].
-- The Cyclone Preparedness Programme, set up in 1972, spreads warnings through volunteers [1].
+- The Cyclone Preparedness Programme, set up in the early 1970s, spreads warnings through volunteers [1].
 - Cyclone shelters: about 2 million people evacuated before Sidr in 2007 [1].
 - Evidence of success: deaths fell from about 138,000 in 1991 to at least 3,447 in Sidr [1].
 - Limitation: some officials described Sidr's damage as worse than in 1991, so economic losses stayed high [1].

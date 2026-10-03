@@ -89,7 +89,7 @@ You can link this to the climate graphs in [climate and natural vegetation](/res
 
 **Natural inputs.** The land is the very flat Ganges-Brahmaputra delta. Floods spread fertile alluvium over the fields. The monsoon brings heavy summer rain, and the climate is warm enough for crops all year.
 
-**Human inputs.** A large rural labour force. Agriculture employs about 42.7% of Bangladesh's workforce. Inputs also include seeds, fertiliser, draught animals or small tillers, and irrigation from tubewells.
+**Human inputs.** A large rural labour force. Agriculture employs a large share of Bangladesh's workforce, roughly two-fifths. Inputs also include seeds, fertiliser, draught animals or small tillers, and irrigation from tubewells.
 
 **Processes.** Seedbeds, transplanting seedlings by hand into flooded paddies, weeding, harvesting and threshing.
 
@@ -99,7 +99,7 @@ You can link this to the climate graphs in [climate and natural vegetation](/res
 - **Aman**: planted in July or August, harvested in November or December, and relies on rainfall.
 - **Boro**: planted from mid-November to February and harvested from April to June. It is a dry-season crop that needs irrigation. With high-yielding varieties (HYV), fertiliser and irrigation, boro is now the leading paddy crop.
 
-Output reached about 39.1 million tonnes in 2022-23. Bangladesh produces almost 5 tonnes of rice per hectare and is largely self-sufficient in rice.
+Output reached about 39.1 million tonnes in 2022-23. Average yields are close to 5 tonnes of paddy (unmilled rice) per hectare, and Bangladesh is largely self-sufficient in rice.
 
 **Evaluation.** This case shows clearly how natural inputs (flat land, alluvium, monsoon) and human inputs (labour, irrigation, HYV seed) combine. Its limitation is that farms vary: some households sell much of their crop. Boro also depends on costly inputs, so poorer farmers gain less. The same flat delta that makes rice farming possible also exposes it to flooding and cyclones.
 
@@ -142,7 +142,7 @@ Other relevant factors include rapid population growth (see [population and sett
 
 ## Case study 2: Somalia, 2010-2012 food crisis
 
-**Causes.** In 2011 the Horn of Africa suffered a drought widely described as the worst in 60 years. Rainfall from April to June 2011 was less than 30% of the 1995-2010 average. Livestock losses reached 40-60% in some areas. Staple food prices in southern Somalia rose by up to 240%. Conflict involving the militant group al-Shabaab made matters worse. Some Western governments restricted aid to areas the group controlled, and aid workers were intimidated, kidnapped or killed, so some operations were suspended.
+**Causes.** In 2011 the Horn of Africa suffered a drought widely described as the worst in 60 years. In many areas, rainfall from April to June 2011 was less than 30% of the 1995-2010 average. Livestock losses reached 40-60% in some areas. Staple food prices in southern Somalia rose by up to 240%. Conflict involving the militant group al-Shabaab made matters worse. Some Western governments restricted aid to areas the group controlled, and aid workers were intimidated, kidnapped or killed, so some operations were suspended.
 
 **Effects.** On 20 July 2011 the UN declared famine in the Lower Shabelle and Bakool regions of southern Somalia. Famine was later extended to parts of Middle Shabelle, to camps for internally displaced people around Mogadishu and Afgooye, and to the Bay region. More than 920,000 Somali refugees had fled by mid-September 2011. Dadaab camp in Kenya held at least 440,000 people against a capacity of 90,000. Estimates of the death toll range from about 50,000 to about 260,000.
 
@@ -150,7 +150,7 @@ Other relevant factors include rapid population growth (see [population and sett
 
 **Evaluation.** This is a strong case because it shows natural and political causes together. Drought alone did not cause famine; conflict and blocked aid turned a shortage into mass death. One limitation is that death toll estimates vary widely, so avoid quoting one figure as certain.
 
-**Worked example paragraph.** *To what extent was drought the main cause of food shortage in a named country?* In southern Somalia in 2011, rainfall from April to June was less than 30% of normal and some areas lost 40-60% of their livestock, so drought cut food supply (knowledge and application). Food prices then rose by up to 240%, so poor households could not buy what was available (analysis). However, neighbouring areas with the same drought did not see famine declared, while conflict with al-Shabaab blocked aid in the south. So drought triggered the shortage, but war turned it into famine (evaluation).
+**Worked example paragraph.** *To what extent was drought the main cause of food shortage in a named country?* In southern Somalia in 2011, rainfall from April to June was less than 30% of the 1995-2010 average in many areas and some areas lost 40-60% of their livestock, so drought cut food supply (knowledge and application). Food prices then rose by up to 240%, so poor households could not buy what was available (analysis). However, neighbouring areas with the same drought did not see famine declared, while conflict with al-Shabaab blocked aid in the south. So drought triggered the shortage, but war turned it into famine (evaluation).
 
 ## Common errors
 

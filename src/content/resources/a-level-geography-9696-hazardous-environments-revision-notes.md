@@ -78,10 +78,10 @@ Test yourself afterwards with the [practice questions for this unit](/resources/
 | Case | What | Key facts | One evaluation point |
 |---|---|---|---|
 | Tohoku, Japan, 11 March 2011 | Mw 9.0-9.1 earthquake and tsunami | Run-up of 38.9 m at Miyako; 19,759 deaths; Fukushima Daiichi meltdowns | A prepared, wealthy country was overwhelmed by an event larger than planned for |
-| Christchurch, NZ, 22 February 2011 | Mw 6.2 earthquake | 185 deaths; over 200,000 tonnes of liquefied silt; over 8,000 red-zone homes removed | Moderate magnitude, high impact: shallow focus close to a city |
-| Gorkha, Nepal, 25 April 2015 | Mw 7.8 earthquake | About 8,900 deaths; Langtang avalanche and landslide left over 300 missing | Shows earthquake-triggered mass movement in mountains |
+| Christchurch, NZ, 22 February 2011 | Mw 6.2 earthquake | 185 deaths; around 400,000 tonnes of liquefied silt; over 8,000 red-zone homes removed | Moderate magnitude, high impact: shallow focus close to a city |
+| Gorkha, Nepal, 25 April 2015 | Mw 7.8 earthquake | Nearly 9,000 deaths; Langtang avalanche and landslide left over 300 missing | Shows earthquake-triggered mass movement in mountains |
 | Mont Pelée, Martinique, 8 May 1902 | Nuée ardente | About 28,000 deaths in Saint-Pierre | Older than 1980, but the event that defined the term |
-| Nevado del Ruiz, Colombia, 13 November 1985 | Lahars | Over 20,000 deaths in Armero; hazard map had no key | Failure of communication, not of science |
+| Nevado del Ruiz, Colombia, 13 November 1985 | Lahars | Over 20,000 deaths in Armero; a newspaper version of the hazard map had no key | Failure of communication, not of science |
 | Mount St Helens, USA, 18 May 1980 | Volcanic landslide and lateral blast | Largest landslide on land in recorded history; about 57 deaths; flank bulged 1.5-1.8 m a day | Monitoring led to a "red zone" before the eruption |
 | Pinatubo, Philippines, 15 June 1991 | VEI 6 eruption | About 60,000 evacuated; 847 deaths, mostly from roofs under wet ash during Typhoon Yunya | Credited with saving tens of thousands of lives |
 
@@ -103,7 +103,7 @@ Test yourself afterwards with the [practice questions for this unit](/resources/
 
 ### 9.4 Sustainable management: coastal Bangladesh
 
-- Cyclone Preparedness Programme set up in 1972 by the government and the Bangladesh Red Crescent Society.
+- Cyclone Preparedness Programme set up in the early 1970s, after the 1970 cyclone, by the government and the Bangladesh Red Crescent Society.
 - Deaths: 300,000-500,000 (1970), about 138,000 (1991), at least 3,447 (Sidr, 2007), when about 2 million people went to shelters.
 - 139 polders built from the 1960s; the Sundarbans mangroves act as a buffer but face shrimp farming, salinity and sea-level rise.
 - Evaluation: big gains in lives saved; weaker gains in livelihoods and the environment.
@@ -152,7 +152,7 @@ Test yourself afterwards with the [practice questions for this unit](/resources/
 2. Shaking compacts saturated grains, so water pressure between them rises and grain contact is lost.
 3. Lahars are water-rich mudflows; pyroclastic flows are hot gas and rock. Lahars can happen years later with rain.
 4. Wet ash from Typhoon Yunya's rain made the ash fallout heavy.
-5. It was poorly distributed, had no key, and placed Armero in a green zone read as safe.
+5. It was poorly distributed, and a newspaper version had no key and showed Armero in a green zone read as safe.
 6. Any two: deforestation, cutting slopes for roads, building on slopes, poor drainage.
 7. At least 26.5 °C, to a depth of about 50 m.
 8. The Coriolis force is too weak there to start rotation.

@@ -116,11 +116,11 @@ The guidance asks you to show how factors combine to shape four things.
 
 Jebel Ali Free Zone (Jafza) is at the far western end of Dubai, United Arab Emirates. It began operating in 1985 with 19 companies. It now covers about 57 square kilometres and its operator says it hosts more than 11,000 businesses from over 100 countries. Firms work in logistics, electronics, vehicles, food, e-commerce and petrochemicals. The zone is run by DP World.
 
-- **Transport (location):** Jafza is next to Jebel Ali Port, which opened in 1979. It is the world's largest man-made harbour and the busiest port in the Middle East by container volume. Al Maktoum International Airport is about 24 km away. Sheikh Zayed Road and the Dubai Metro Red Line also serve the area.
-- **Political factors:** as a free zone, Jafza allows foreign firms to own their companies with no foreign ownership restrictions. Goods can be imported and re-exported without customs duty, and there are tax advantages.
+- **Transport (location):** Jafza is next to Jebel Ali Port, which opened in 1979. It is the world's largest man-made harbour and the biggest and busiest port in the Middle East. Al Maktoum International Airport is about 24 km away. Sheikh Zayed Road (E11) also serves the area.
+- **Political factors:** as a free zone, Jafza allows foreign firms to own their companies with no foreign ownership restrictions. It is a customs bonded zone, so goods can be imported, stored and re-exported without paying customs duty.
 - **Markets:** Dubai sits between Europe, Asia and Africa. Firms store, assemble or process goods here and send them across the Gulf and beyond.
 - **Labour:** the United Arab Emirates relies heavily on workers from other countries, especially South Asia, so firms can recruit both skilled and less-skilled staff.
-- **Land (site):** flat coastal land with room for expansion and a deep harbour dug into the coast.
+- **Land (site):** flat coastal land with room for expansion, beside the man-made harbour.
 
 **Evaluation.** Jafza shows that political and transport factors can outweigh raw materials: most firms bring their inputs in by sea. A limitation is that much activity is storage and trade rather than making things, so use examples of factories inside the zone when a question asks about manufacturing.
 
@@ -130,8 +130,8 @@ Toyota's car plant at Burnaston, Derbyshire, is about 7 km south-west of Derby. 
 
 - **Land and site:** the factory covers the site of the former Derby Airport, a large, flat grass airfield. Flat, open land suited a long assembly plant.
 - **Transport:** the plant is beside the A38 dual carriageway, which links to Birmingham. The A38 meets the A50 nearby, and the A50 leads to the M1.
-- **Markets and political factors:** Japanese car plants built in Britain at this time let firms avoid import duties and shipping costs on cars sold in Europe.
-- **Labour:** Derby has a long history of engineering, so skilled workers were available.
+- **Markets and political factors:** the UK was then a member of the European Community (later the European Union), which charged no customs duties on trade between members. Cars built at Burnaston could be sold in other member countries without the import duties charged on cars shipped in from Japan.
+- **Labour:** Derby has a long history of engineering, including railway works and Rolls-Royce, so skilled workers lived nearby.
 
 **Evaluation.** Burnaston shows how transport and market access combine with a good site. It also shows political risk: when trade rules change, a plant built to serve one market can face new costs.
 
@@ -139,7 +139,7 @@ Toyota's car plant at Burnaston, Derbyshire, is about 7 km south-west of Derby. 
 
 *Explain why a named factory was located where it is. (7 marks)*
 
-> Toyota chose Burnaston, near Derby, partly because of its site. The old Derby Airport gave a large area of flat land, which was cheap to build on and allowed a long production line (knowledge and application). The plant is beside the A38, which joins the A50 and then the M1, so parts arrive and cars leave quickly. This matters because Toyota uses just-in-time delivery, which fails if lorries are delayed (analysis). Locating inside the European trade area avoided import duties on cars sold there, which was probably the deciding factor, because land and roads could be found in many places (evaluation).
+> Toyota chose Burnaston, near Derby, partly because of its site. The old Derby Airport gave a large area of flat land, which was cheap to build on and allowed a long production line (knowledge and application). The plant is beside the A38, which joins the A50 and then the M1, so parts arrive and cars leave quickly. This matters because Toyota uses just-in-time delivery, which fails if lorries are delayed (analysis). Being inside the European Community also meant cars could be sold across member countries without import duties. This market access may have mattered more than the site itself, because flat land and good roads could be found in many places (evaluation).
 
 ## Common errors
 

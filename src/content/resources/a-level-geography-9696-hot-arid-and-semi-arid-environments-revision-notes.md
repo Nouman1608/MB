@@ -34,7 +34,7 @@ featured: false
 
 These notes condense the [full study guide](/resources/a-level-geography-9696-hot-arid-and-semi-arid-environments/) for this unit.
 
-They cover topic 10, Hot arid and semi-arid environments (sections 10.1 to 10.4), of the Cambridge International AS & A Level Geography (9696) syllabus for examination in 2025 and 2026. The topic is one of four Advanced Physical Geography options in Paper 3, which lasts 1 hour 30 minutes and carries 60 marks. For each of your two options, Paper 3 sets a 10-mark structured question and a choice of two 20-mark essays.
+They cover topic 10, Hot arid and semi-arid environments (sections 10.1 to 10.4), of the Cambridge International AS & A Level Geography (9696) syllabus for examination in 2025 and 2026. The topic is one of four Advanced Physical Geography options in Paper 3, which lasts 1 hour 30 minutes and carries 60 marks. For each of your two options, Paper 3 sets a 10-mark structured question and a choice of 20-mark essay questions.
 
 Use the [Cambridge A Level Geography hub](/boards/cambridge/a-level/geography/), tick off points on the [9696 checklist](/checklists/cambridge/a-level/geography/), then try the [practice questions](/resources/a-level-geography-9696-hot-arid-and-semi-arid-environments-practice/). For the AS weathering and slope content this unit builds on, see the [physical geography revision notes](/resources/a-geography-physical-revision-notes/).
 
@@ -89,7 +89,7 @@ Use the [Cambridge A Level Geography hub](/boards/cambridge/a-level/geography/),
 | Griggs (1936) | Laboratory test of insolation weathering | Dry heating and cooling did not break granite; adding water did | Lab samples were small and time was compressed, so results are indicative only |
 | Lake Bonneville, Utah | Pleistocene pluvial lake | About 30,000 to 13,000 years ago; over 300 m deep; shorelines remain | Clear proof of past wetter climate in a now dry basin |
 | Mega-Chad | Holocene humid phase in the Sahara | Lake Chad was once far larger; shorelines visible from satellites | Shows wetter phases occurred after the Pleistocene too |
-| Charney (1975) | Albedo hypothesis | Loss of vegetation raises albedo, which may reduce rainfall | Later regreening shows rainfall also recovers for other reasons |
+| Charney (1975) | Albedo hypothesis | Loss of vegetation raises albedo, which may reduce rainfall | Later research linked Sahel rainfall mainly to ocean temperatures, so vegetation is now seen as an amplifier, not the main cause |
 | FMNR, Niger | Natural regeneration from stumps | Began in Maradi in 1983; about five million hectares by 2004 | Depends on secure rights to trees |
 | Zaï pits, Burkina Faso | Water harvesting pits with manure | Yacouba Sawadogo, Yatenga, from the 1980s | Heavy labour; manure in short supply |
 | Great Green Wall | African Union initiative, 2007 | Target 100 million hectares by 2030 | 2020 UN report: about 4% of target reached |

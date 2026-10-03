@@ -41,7 +41,7 @@ They cover topic 7, Tropical environments (sections 7.1 to 7.4), of the Cambridg
 - 1 hour 30 minutes, 60 marks, 25% of the A Level (as printed in the syllabus).
 - For each of your two options: one structured question (10 marks), then one essay chosen from two (20 marks each).
 - You may be asked to draw and label diagrams or sketch maps and integrate them into answers.
-- Paper 3 weights AO4 (evaluation) at 40%, the largest share of any objective on this paper.
+- The syllabus gives AO4 (evaluation) an approximate weighting of 40% on Paper 3, the largest share of any objective on this paper.
 - Rough timing: 45 minutes per option, so about 15 minutes for the structured question and 30 for the essay.
 
 ## Key terms
@@ -115,9 +115,9 @@ Inselbergs also appear in the piedmont zone of the [Hot arid and semi-arid envir
 
 ## Case study summary: Brazilian Amazon (7.4)
 
-- **Threats:** cattle ranching (about 80% of clearing), soy, logging, mining, roads (Trans-Amazonian Highway, from 1972).
-- **PPCDAm (2004):** DETER satellite alerts, enforcement, protected areas. PRODES clearing fell from 27,772 km² (2004) to 4,571 km² (2012). Dropped 2019, restored 2023.
-- **Soy Moratorium (2006):** traders refused soy from newly cleared land; CADE ruled to suspend it in late 2025.
+- **Threats:** cattle ranching (about 80% of clearing), soy, logging, mining, roads (Trans-Amazonian Highway, opened 1972).
+- **PPCDAm (2004):** DETER satellite alerts, enforcement, protected areas. PRODES clearing fell from 27,772 km² (2004) to 4,571 km² (2012). Weakened after 2019; new edition June 2023.
+- **Soy Moratorium (2006):** traders refused soy from newly cleared land; in September 2025 CADE decided to suspend it from January 2026.
 - **Amazon Fund (2008):** BNDES-managed, mainly Norway and Germany; frozen 2019, resumed 2023.
 - **Mamirauá (1996):** community-managed reserve of flooded forest in Amazonas state.
 - **Judgement:** success follows political will; 6,288 km² cleared in 2024 shows recovery, but leakage to the Cerrado and weak land titles remain.
@@ -169,7 +169,7 @@ Inselbergs also appear in the piedmont zone of the [Hot arid and semi-arid envir
 9. A community held back by human activity, such as savanna kept open by burning.
 10. Biomass, because nutrients are taken up quickly and decomposition is fast.
 11. Ferrallitisation.
-12. Clearing rose after PPCDAm was dropped in 2019 and fell after it was restored in 2023.
+12. Clearing rose when enforcement weakened after 2019 and fell again after a new edition of PPCDAm in 2023.
 
 ## Where marks are usually lost
 

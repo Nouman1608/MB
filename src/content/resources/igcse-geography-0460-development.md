@@ -22,7 +22,7 @@ publishedDate: 2026-09-29
 featured: false
 ---
 
-This guide covers topic 3.1 Development in Theme 3 (Economic development) of the Cambridge IGCSE Geography (0460) syllabus for examination in 2025 and 2026, Version 2 (published November 2022). The syllabus says Paper 1 (Geographical Themes) mixes resource-based tasks with free-response writing that needs place-specific case study information, and Paper 2 (Geographical Skills) can base knowledge questions on any of the three themes. Your teacher will confirm which section of Paper 1 holds the Theme 3 questions.
+This guide covers topic 3.1 Development in Theme 3 (Economic development) of the Cambridge IGCSE Geography (0460) syllabus for examination in 2025 and 2026, Version 2 (published November 2022). The syllabus says Paper 1 (Geographical Themes) combines resource-based tasks and free-response writing requiring place-specific information, and Paper 2 (Geographical Skills) can base knowledge questions on any of the three themes. Your teacher will confirm which section of Paper 1 holds the Theme 3 questions.
 
 Use this guide with the [Development revision notes](/resources/igcse-geography-0460-development-revision-notes/) and the [Development practice questions](/resources/igcse-geography-0460-development-practice/). The [IGCSE Geography hub](/boards/cambridge/igcse/geography/) and the [0460 topic checklist](/checklists/cambridge/igcse/geography/) show where this topic sits in the course. Development links closely to birth rates, death rates and population structure, which are covered in [Population and Settlement](/resources/igcse-geography-population-and-settlement/).
 
@@ -60,7 +60,7 @@ Use this guide with the [Development revision notes](/resources/igcse-geography-
 
 ## Inequalities between and within countries
 
-**Between countries.** The 1980 Brandt Report drew a line dividing a richer "North" from a poorer "South". Today geographers prefer terms such as high-income countries (HICs) and low-income countries (LICs), because many countries, such as China, have moved up the scale.
+**Between countries.** The Brandt Line, associated with the 1980 Brandt Report (*North–South: A Programme for Survival*), divides a richer "North" from a poorer "South". Today geographers prefer terms such as high-income countries (HICs) and low-income countries (LICs), because many countries, such as China, have moved up the scale.
 
 Reasons for inequality between countries:
 

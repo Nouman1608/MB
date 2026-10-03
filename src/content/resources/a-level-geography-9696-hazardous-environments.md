@@ -69,8 +69,8 @@ Most earthquakes and volcanoes lie along plate margins. The Pacific "Ring of Fir
 **Moment magnitude** measures energy released. **Intensity** (for example Modified Mercalli) measures shaking and damage at a place.
 
 - **Shaking:** damage rises with shallow focus, closeness to the epicentre, soft sediments that amplify waves, and poor construction.
-- **Landslides:** shaking loosens steep slopes. After the Gorkha, Nepal earthquake of 25 April 2015 (Mw 7.8, about 8,900 deaths), an avalanche and landslide in the Langtang valley left over 300 people missing.
-- **Soil liquefaction:** shaking raises pore-water pressure in saturated sand or silt, so it behaves like a liquid. In Christchurch, New Zealand (22 February 2011, Mw 6.2, 185 deaths), liquefaction in the eastern suburbs brought over 200,000 tonnes of silt to the surface. Over 8,000 homes in the residential "red zone" were later bought out and removed.
+- **Landslides:** shaking loosens steep slopes. After the Gorkha, Nepal earthquake of 25 April 2015 (Mw 7.8, nearly 9,000 deaths), an avalanche and landslide in the Langtang valley left over 300 people missing.
+- **Soil liquefaction:** shaking raises pore-water pressure in saturated sand or silt, so it behaves like a liquid. In Christchurch, New Zealand (22 February 2011, Mw 6.2, 185 deaths), liquefaction in the eastern suburbs brought around 400,000 tonnes of silt to the surface. Over 8,000 homes in the residential "red zone" were later bought out and removed.
 - **Tsunami:** sudden uplift of the sea floor at a subduction zone displaces the water column. The Tohoku, Japan earthquake (11 March 2011, Mw 9.0-9.1) caused a 38.9 m run-up at Miyako and 19,759 deaths. It also caused meltdowns at the Fukushima Daiichi nuclear plant.
 
 **Evaluation.** Christchurch shows a moderate, shallow earthquake near a city can be deadly. Tohoku shows a prepared country can be overwhelmed by an event larger than planned for.
@@ -100,7 +100,7 @@ Eruption style depends on magma viscosity and gas content. Runny basaltic magma 
 - **Preparedness:** building codes, drills, education and early warning. In 2011 Japan's system alerted millions about a minute before strong shaking reached Tokyo.
 - **Perception of risk:** people may accept risk for fertile soils or jobs, be fatalistic, or trust officials too much.
 
-At Pinatubo, the Philippine Institute of Volcanology and Seismology, helped by the United States Geological Survey, used a five-level alert system, and about 60,000 people were evacuated from within 30 km. At Armero, a hazard map existed in October 1985, but it was poorly distributed, had no key, and placed Armero in a green zone that people read as safe. On the night, residents were told to stay calm.
+At Pinatubo, the Philippine Institute of Volcanology and Seismology, helped by the United States Geological Survey, used a five-level alert system, and about 60,000 people were evacuated from within 30 km. At Armero, a hazard map was finished in October 1985, but it was poorly distributed. A newspaper version had no key and showed Armero in a green zone that people read as safe. On the night, residents were told to stay calm.
 
 **Worked paragraph (9.1).** *Monitoring reduces volcanic deaths only when warnings turn into action. At Pinatubo in 1991, monitoring led to a staged alert system and about 60,000 people left the danger zone, so deaths were limited to 847 and the evacuation is credited with saving tens of thousands of lives. At Armero in 1985, a hazard map showed the lahar risk, yet more than 20,000 people died because the map was unclear and officials gave reassuring messages. So communication matters as much as the instruments. However, Pinatubo gave a long build-up of warning signs; some volcanoes give far less.*
 
@@ -160,10 +160,10 @@ Coastal Bangladesh, on the Ganges-Brahmaputra-Meghna delta, suits this required 
 
 | Measure | Evidence | Evaluation |
 |---|---|---|
-| Cyclone Preparedness Programme (1972; government and Bangladesh Red Crescent Society) | Volunteers pass warnings to villages | Credited with saving thousands of lives; works only if people trust warnings |
+| Cyclone Preparedness Programme (early 1970s, after the 1970 cyclone; government and Bangladesh Red Crescent Society) | Volunteers pass warnings to villages | Credited with saving thousands of lives; works only if people trust warnings |
 | Cyclone shelters | About 2 million people evacuated to shelters for Cyclone Sidr (15 November 2007) | Sidr deaths at least 3,447, against about 138,000 in 1991 and 300,000-500,000 in 1970 |
 | Polders and embankments (139 polders, built from the 1960s) | Protect farmland from tidal flooding and salt water | Costly to maintain; a large surge can overtop or breach them, and they may give a false sense of safety |
-| Mangroves (the Sundarbans, the world's largest mangrove forest) | A natural buffer against surges | Threatened by shrimp farming, salinity and sea-level rise; badly damaged by Sidr |
+| Mangroves (the Sundarbans, one of the world's largest mangrove forests) | A natural buffer against surges | Threatened by shrimp farming, salinity and sea-level rise; badly damaged by Sidr |
 
 **Is it sustainable?** Deaths have fallen sharply, so the social measures work. But economic losses remain high, shrimp farmers profit from clearing mangroves that protect everyone else, and sea-level rise may outpace engineering.
 
@@ -179,7 +179,7 @@ Coastal Bangladesh, on the Ganges-Brahmaputra-Meghna delta, suits this required 
 
 ## Where to go next
 
-Test yourself with the [practice questions](/resources/a-level-geography-9696-hazardous-environments-practice/) and condense with the [revision notes](/resources/a-level-geography-9696-hazardous-environments-revision-notes/). Recap plate margins with the [Core Physical Geography revision notes](/resources/a-geography-physical-revision-notes/) and [practice](/resources/a-geography-physical-practice/). Plan all four papers with [preparing for the staged four-paper route](/resources/cambridge-a-level-geography-exam-preparation/), and see mangrove protection in the [coastal environments unit](/resources/a-level-geography-9696-coastal-environments/).
+Recap plate margins with the [Core Physical Geography revision notes](/resources/a-geography-physical-revision-notes/) and [practice](/resources/a-geography-physical-practice/). Plan all four papers with [preparing for the staged four-paper route](/resources/cambridge-a-level-geography-exam-preparation/), and see mangrove protection in the [coastal environments unit](/resources/a-level-geography-9696-coastal-environments/).
 
 ## Official syllabus
 

@@ -82,11 +82,11 @@ Revise first with the [study guide](/resources/a-level-geography-9696-hot-arid-a
 **(a)** Describe the changes shown, using data. **[3]**
 **(b)** Explain how irrigation without drainage can cause these changes. **[4]**
 
-**10.** Assess the relative importance of wind and water in shaping the landforms of hot arid environments. **[12]**
+**10.** The fictional Saredh Basin is an enclosed desert basin with a sand sea in its centre and mountains along its edges. Using this setting and your own examples, assess how far wind, rather than water, shapes the landforms of hot arid environments. **[12]**
 
-**11.** To what extent is desertification in semi-arid areas the result of human activity rather than natural factors? **[12]**
+**11.** "Desertification in semi-arid lands is caused by people, so people can stop it." To what extent do you agree? **[12]**
 
-**12.** With reference to a case study of a hot arid or semi-arid environment, evaluate the success of attempts to manage it sustainably. **[15]**
+**12.** With reference to a case study of a hot arid or semi-arid environment, evaluate whether small-scale, community-led schemes have managed it more sustainably than large-scale projects. **[15]**
 
 ## Answers
 
@@ -132,8 +132,8 @@ Revise first with the [study guide](/resources/a-level-geography-9696-hot-arid-a
 - One flood can move more sediment than years of wind [1].
 - Many fluvial landforms are inherited from pluvials, e.g. Lake Bonneville shorelines [1].
 - Weathering (salt, thermal) prepares material for both agents [1].
-- Balance varies: sand seas are wind-dominated; mountain fronts are water-dominated [1].
-- Reasoned conclusion answering "relative importance" [1]. **[12]**
+- Balance varies: in the Saredh Basin the central sand sea is wind-dominated, while the mountain edges are water-dominated [1].
+- Reasoned conclusion answering "how far" [1]. **[12]**
 *Examiner insight:* High-level answers judge the balance by place and landform rather than listing wind features then water features.
 
 **11.** Indicative content (marked by levels of response in the real exam):
@@ -148,7 +148,7 @@ Revise first with the [study guide](/resources/a-level-geography-9696-hot-arid-a
 - Underlying causes: population growth and settled herders concentrate pressure [1].
 - Counter-evidence: regreening as rainfall partly returned shows climate matters [1].
 - Interaction: drought starts degradation; land use decides whether it lasts [1].
-- Judgement on "to what extent" with a supported conclusion [1]. **[12]**
+- Judgement on both halves of the claim: causes are mixed, so human action can reduce but not prevent degradation in drought [1]. **[12]**
 *Examiner insight:* A one-sided answer, all human or all natural, cannot reach the top level on a "to what extent" question.
 
 **12.** Indicative content using the Sahel (levels of response apply in the real exam):
@@ -167,7 +167,7 @@ Revise first with the [study guide](/resources/a-level-geography-9696-hot-arid-a
 - Bottom-up schemes worked better where farmers gained directly [1].
 - Sustainability judged on environmental, economic and social grounds [1].
 - Supported overall judgement [1]. **[15]**
-*Examiner insight:* "Evaluate the success" needs criteria for success; without them, the answer stays descriptive.
+*Examiner insight:* Comparing the two scales needs clear criteria for sustainability; without them, the answer stays descriptive.
 
 ## Where marks are usually lost
 

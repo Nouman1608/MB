@@ -141,9 +141,9 @@ Also credit political unrest or a global recession.
 
 **10.** Example answer: the Maldives. The real exam marks extended case-study answers with levels of response; the points below show what a top-level answer contains.
 
-Growth: the Maldives has 1,192 coral islands with reefs, lagoons and white sand beaches, ideal for diving and snorkelling [1]. The first resort, Kurumba, opened in 1972 [1], and luxury "one island, one resort" developments reached by seaplane from Velana International Airport added a human attraction [1]. Arrivals reached 2,046,615 in 2024 [1].
+Growth: the Maldives has 1,192 coral islands with reefs, lagoons and white sand beaches, ideal for diving and snorkelling [1]. The first resort, Kurumba, opened in 1972 [1], and luxury "one island, one resort" developments reached by seaplane from Velana International Airport added a human attraction [1]. Arrivals reached about 1.7 million in 2019 [1].
 
-Management: a green tax has been charged since 2015, and from 2025 it is USD 12 a night at resorts [1]. Guesthouses on inhabited islands have been allowed since 2009, spreading income beyond resort islands [1]. Waste from Malé has been shipped to the landfill island of Thilafushi since 1992 [1], although this has created its own pollution problems [1]. **[8]**
+Management: a green tax has been charged since 2015, and from 2025 it is USD 12 a night at resorts [1]. Guesthouses on inhabited islands now pay a lower green tax rate, and their spread takes income beyond resort islands [1]. Waste from Malé has been shipped to the landfill island of Thilafushi since the early 1990s [1], although this has created its own pollution problems [1]. **[8]**
 *Examiner insight:* Case-study marks depend on place-specific detail; a generic "tropical island" answer cannot reach the top level.
 
 **11.** The real exam marks extended answers with levels of response, not point by point. The indicative points below show what a strong answer includes.

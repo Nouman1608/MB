@@ -113,7 +113,7 @@ Charles Darwin's subsidence theory (*The Structure and Distribution of Coral Ree
 
 **Distribution and conditions for growth.** Reef-building corals live in symbiosis with algae called zooxanthellae, which photosynthesise. So they need:
 - warm water, typically about 23-29°C and rarely below about 18°C;
-- light, so most growth is in water shallower than about 25 m;
+- light, so most growth is in shallow water within roughly the top 30 m;
 - clear, sediment-free water;
 - normal sea salinity, so reefs are rare near large river mouths;
 - wave action to supply oxygen and nutrients, but only brief exposure to air.

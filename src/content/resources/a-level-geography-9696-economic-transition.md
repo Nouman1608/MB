@@ -131,7 +131,7 @@ A **newly industrialised country (NIC)** has moved quickly from a farming-based 
 
 Stronger backwash means **divergence**; stronger spread means **convergence**. Albert Hirschman (1958) used the similar terms polarisation and trickle-down.
 
-**Illustration: Italy.** At unification in the 1860s the north already had far more road and rail. Industry concentrated in the north-west and southerners migrated north or abroad: classic backwash. In 2017 southern regions' GDP per capita ranged from about 60% (Calabria) to about 87% (Abruzzo) of the national average.
+**Illustration: Italy.** At unification in the 1860s the north already had far more road and rail. Industry concentrated in the north-west and southerners migrated north or abroad: classic backwash. In 2023 southern regions' GDP per capita still ranged from about 59% (Calabria) to about 86% (Abruzzo) of the national average.
 
 **Evaluation.** Ratios can converge while absolute gaps widen, so say which measure you use.
 ## 14.4 Case study (regional development policy): China

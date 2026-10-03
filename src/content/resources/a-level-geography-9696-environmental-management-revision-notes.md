@@ -87,7 +87,7 @@ Track your progress on the [Cambridge A Level Geography hub](/boards/cambridge/a
 |---|---|---|---|---|
 | Germany, *Energiewende* | 12.2 country strategy | Feed-in payments from the EEG (2000); nuclear exit; coal to end by 2038 at the latest | Last reactors closed 15 April 2023; renewables 54% of demand in 2024 | Large change in the mix, but north-south grid lag (SuedLink now due 2028) and high prices |
 | Three Gorges Dam, Hubei, China | 12.2 named scheme | 22,500 MW HEP plant on the Yangtze, fully running 2012 | Nearly 112 TWh in 2020; 1.13-1.4 million displaced | National success on output; local people and the river ecosystem bear the costs |
-| London ULEZ | 12.3 air pollution | Charge on older vehicles from April 2019, London-wide from August 2023 | TfL (2024): NO2 27% lower than without the zone | Health gains, but the cost falls hardest on lower-income drivers |
+| London ULEZ | 12.3 air pollution | Charge on older vehicles from April 2019, London-wide from August 2023 | TfL report: NO2 27% lower than without the zone | Health gains, but the cost falls hardest on lower-income drivers |
 | Cape Town | 12.3 water supply and demand | Drought from 2015; "Day Zero" threatened | 50 litres per person per day from 1 February 2018 | Demand halved quickly, but winter rain also saved the city |
 | Great Barrier Reef Marine Park | 12.3 protection at regional scale | Park created 1975; rezoned 2004 | No-take zones raised from 4.6% to 33.3% | Zoning handles local pressures, not global warming |
 | Aral Sea | 12.4 degraded environment | Rivers diverted from the 1960s to irrigate cotton | Dike Kokaral (2005) raised the North Aral 12 m by 2008 | Partial success: the South Aral's eastern basin dried out in 2014 |
@@ -153,7 +153,7 @@ Spend most of your words on paragraphs 3-5. That is where AO4 evaluation marks s
 - Stating impacts without a scale when the question asks for "local and global".
 - Describing pollution without its solutions, or solutions without saying how well they work.
 - Treating "protection" answers as only measures. Needs and outcomes earn marks too.
-- Ending an essay with a summary instead of a judgement. Paper 4 weights AO4 Evaluation at 40%.
+- Ending an essay with a summary instead of a judgement. Paper 4 weights AO4 Evaluation at about 40%.
 - Using numbers you are unsure of. A wrong statistic weakens an answer more than a well-explained general point.
 
 The other Advanced Human Geography Options are [Production, location and change](/resources/a-level-geography-9696-production-location-and-change/), [Global interdependence](/resources/a-level-geography-9696-global-interdependence/) and [Economic transition](/resources/a-level-geography-9696-economic-transition/).

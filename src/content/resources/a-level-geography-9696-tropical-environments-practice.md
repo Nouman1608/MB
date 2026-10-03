@@ -92,9 +92,9 @@ Revise first with the [study guide](/resources/a-level-geography-9696-tropical-e
 **(b)** Suggest two reasons for the fall in the rate of loss. **[4]**
 **(c)** Give two limitations of using these data alone to judge whether the policies worked. **[2]**
 
-**11.** "Savanna is a plagioclimax rather than a climatic climax." To what extent do you agree? **[12]**
+**11.** A fictional savanna reserve has kept one plot free of fire for 25 years; trees now cover much of it, while burned plots nearby remain open grassland. Using this evidence and your own knowledge, assess how far savanna is a plagioclimax rather than a climatic climax. **[12]**
 
-**12.** With reference to a case study of either the rainforest or the savanna ecosystem, evaluate attempts to manage it sustainably. **[16]**
+**12.** "Satellites and laws matter less than the people who live in the forest." With reference to a case study of either the rainforest or the savanna ecosystem, evaluate this view of attempts at sustainable management. **[16]**
 
 ## Answers
 
@@ -142,14 +142,14 @@ Revise first with the [study guide](/resources/a-level-geography-9696-tropical-e
 - Drought adaptations suggest long evolution under a seasonal climate [1].
 - Soil case: laterite crusts and poor drainage can stop trees, an edaphic subclimax [1].
 - Human case: people have used fire for a very long time to clear land and renew grazing [1].
-- Where fire is excluded, woody plants spread, so fire holds savanna back [1].
+- The fictional reserve's unburned plot gained tree cover, so fire holds savanna back [1].
 - Grazing by livestock removes seedlings and changes the grass-tree balance [1].
 - Derived savanna on forest margins shows clearance can create savanna [1].
 - But savanna also occurs where human influence is low [1].
 - Judgement: climate sets where savanna can exist; fire and grazing control its structure [1].
 - Conclusion weighs the evidence and states a clear extent of agreement [1].
 **[12]**
-*Examiner insight:* "to what extent" needs a stated judgement that is reached in the conclusion and supported by evidence for both sides.
+*Examiner insight:* "assess how far" needs a stated judgement, and the reserve evidence should be used, then tested against cases where fire is not the control.
 
 **12.** The real exam marks extended answers with levels of response, not point by point; these are indicative creditworthy points for a Brazilian Amazon answer.
 - Names and locates the case study [1].
@@ -160,14 +160,14 @@ Revise first with the [study guide](/resources/a-level-geography-9696-tropical-e
 - PPCDAm (2004) combined DETER alerts, fines and protected areas [1].
 - Clearing fell from 27,772 km² in 2004 to 4,571 km² in 2012 [1].
 - Judgement: the fall shows enforcement worked when politically backed [1].
-- The plan was dropped in 2019 and clearing rose, so success was fragile [1].
+- Enforcement weakened after 2019 and clearing rose, so success was fragile [1].
 - Soy Moratorium (2006) removed a market for soy grown on new clearings [1].
 - Limitation: supply-chain deals may push clearing to the Cerrado [1].
-- CADE's 2025 suspension ruling shows voluntary deals can be overturned [1].
+- CADE's September 2025 decision to suspend it shows voluntary deals can be overturned [1].
 - Amazon Fund (2008) paid for projects; payments frozen 2019, resumed 2023 [1].
 - Mamirauá (1996) shows community management at a local scale [1].
 - Evaluates scale: community schemes are small compared with ranching [1].
-- Overall judgement on how far solutions have been sustainable, with a reason [1].
+- Overall judgement on whether government enforcement or local communities did more for sustainability, with a reason [1].
 **[16]**
 *Examiner insight:* credit for evaluation comes from judging each scheme against evidence; listing schemes with dates alone stays in the lower levels.
 

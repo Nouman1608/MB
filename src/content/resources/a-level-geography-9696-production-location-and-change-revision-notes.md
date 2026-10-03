@@ -78,10 +78,10 @@ Check your progress against the [Geography checklist](/checklists/cambridge/a-le
 | Weber (1909) | Industry seeks the least-cost location | Weighs transport against labour costs | Fits heavy industry better than footloose firms and services |
 | Canadian Prairie wheat (arable) | Extensive, commercial, mechanised system | Chernozem soils; grain moved by rail to ports | Low output per hectare but high output per worker |
 | Waikato dairy, New Zealand (pastoral) | Intensive, grass-based system | Rotational grazing; milk to the Fonterra co-operative | High output, but nitrate run-off harms water quality |
-| India, agricultural change (11.2) | Green Revolution from the late 1960s; MSP since 1965 | Punjab rice-wheat rotation; PM-KISAN (2019); farm laws 2020, repeal announced November 2021 | Raised national output but locked Punjab into a water-hungry rotation |
+| India, agricultural change (11.2) | Green Revolution from the late 1960s; MSP from the mid-1960s | Punjab rice-wheat rotation; PM-KISAN (2019); farm laws 2020, repeal announced November 2021 | Raised national output but locked Punjab into a water-hungry rotation |
 | Sialkot, Pakistan (agglomeration) | Cluster of surgical-instrument and sports-goods firms | Business-funded dry port and airport | Strong linkages and inertia, but reliant on low-cost labour |
 | Chittagong EPZ, Bangladesh | EPZ opened 1983, run by BEPZA | Tax holidays; unions banned inside EPZs | Jobs and exports, but weak local linkages and labour rights |
-| Jua kali, Kenya (informal sector) | Informal artisans, such as Kamukunji metalworkers in Nairobi | Tools and pots from scrap | Supplies jobs and cheap goods, but low, unstable pay |
+| Jua kali, Kenya (informal sector) | "Hot sun" in Swahili: informal enterprises, such as the Kamukunji cluster in Nairobi | Thousands of small firms with their own association | Supplies jobs and cheap goods, but low, unstable pay |
 | Malaysia, industrial policy (11.4) | Import substitution, then export zones, heavy industry, master plans | Bayan Lepas FIZ (1972); Proton (1983); MSC (1996) | Strong electronics exports, but Proton's share fell from 74% (1993) to 32% (2006) |
 
 ## Must-know distinctions
@@ -104,7 +104,7 @@ Check your progress against the [Geography checklist](/checklists/cambridge/a-le
 1. **Introduction:** define agricultural change; name India; state the need (1960s food shortage; later water and income problems). Give your view in one line.
 2. **National success:** Green Revolution, HYVs, MSP and procurement; India moved from shortage to grain surplus.
 3. **Local scale problems:** a Punjab smallholder's rice-wheat rotation; falling water tables; stubble burning; debt.
-4. **Attempted local fixes:** delayed transplanting law (2009); Happy Seeder; payments for maize and millet. Judge each.
+4. **Attempted local fixes:** delayed transplanting law (2009); Happy Seeder; the 2022 MSP offer for maize and bajra. Judge each.
 5. **National reform and resistance:** PM-KISAN excludes tenants; 2020 farm laws repealed after protests. What this shows about stakeholders.
 6. **Conclusion:** success in quantity, partial in sustainability and equity; success depends on scale and on who you ask.
 

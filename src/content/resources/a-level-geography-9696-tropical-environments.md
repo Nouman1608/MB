@@ -51,7 +51,7 @@ Use it with the [Cambridge A Level Geography hub](/boards/cambridge/a-level/geog
 
 ## How Paper 3 works
 
-The syllabus prints these facts. Paper 3 lasts 1 hour 30 minutes, is worth 60 marks and forms 25% of the A Level. There are three questions on each option. For each of your two options you answer a structured question worth 10 marks and choose one of two essay questions worth 20 marks. You may be asked to draw and label diagrams or sketch maps and to integrate them into your answers. Paper 3 weights AO4 (evaluation) at 40%, so essays must reach judgements, not just describe.
+The syllabus prints these facts. Paper 3 lasts 1 hour 30 minutes, is worth 60 marks and forms 25% of the A Level. There are three questions on each option. For each of your two options you answer a structured question worth 10 marks and choose one of two essay questions worth 20 marks. You may be asked to draw and label diagrams or sketch maps and to integrate them into your answers. The syllabus gives AO4 (evaluation) an approximate weighting of 40% on Paper 3, so essays must reach judgements, not just describe.
 
 ## 7.1 Tropical climates
 
@@ -136,12 +136,12 @@ Gersmehl's model (1976) shows three stores (biomass, litter and soil) as circles
 
 The syllabus requires one case study in either the rainforest or the savanna. This guide uses the Brazilian Amazon rainforest.
 
-**Threats (exploitation).** Cattle ranching is identified as the main cause of deforestation, often cited at about 80%. Soy farming, logging, mining and roads add to it. Roads open the forest: the Trans-Amazonian Highway was built from 1972, and most clearing happens close to roads.
+**Threats (exploitation).** Cattle ranching is identified as the main cause of deforestation, often cited at about 80%. Soy farming, logging, mining and roads add to it. Roads open the forest: the Trans-Amazonian Highway was opened, still unfinished, in 1972, and most clearing happens close to roads.
 
 **Attempted solutions.**
 
-- **PPCDAm** (2004): a federal plan combining satellite monitoring (the DETER near-real-time alert system), law enforcement, land registration and new protected areas. Annual deforestation measured by Brazil's PRODES system fell from 27,772 km² in 2004 to 4,571 km² in 2012. The plan was dropped in 2019 and restored in 2023, with a target of zero deforestation by 2030.
-- **The Soy Moratorium** (2006): traders agreed not to buy soy from land deforested after a cutoff date (later set in 2008). In late 2025 Brazil's competition regulator, CADE, ruled that it should be suspended, which put its future in doubt.
+- **PPCDAm** (2004): a federal plan combining satellite monitoring (the DETER near-real-time alert system), law enforcement, land registration and new protected areas. Annual deforestation measured by Brazil's PRODES system fell from 27,772 km² in 2004 to 4,571 km² in 2012. Enforcement weakened after 2019, and a new edition of the plan was launched in June 2023, with a target of zero deforestation by 2030.
+- **The Soy Moratorium** (2006): traders agreed not to buy soy from land deforested after a cutoff date (later set in 2008). In September 2025 Brazil's competition regulator, CADE, decided that it should be suspended from January 2026, which put its future in doubt.
 - **The Amazon Fund** (2008): managed by Brazil's development bank BNDES, funded mainly by Norway and Germany. Donors froze payments in 2019 and resumed in 2023.
 - **Community reserves:** Mamirauá Sustainable Development Reserve (1996) in Amazonas state protects about 11,000 km² of flooded várzea forest between the Solimões and Japurá rivers, with local people living and managing resources inside it.
 
@@ -151,7 +151,7 @@ The syllabus requires one case study in either the rainforest or the savanna. Th
 
 *Question: Evaluate the success of attempts to manage the rainforest sustainably.*
 
-> In Brazil, the PPCDAm combined DETER satellite alerts with fines and new protected areas (knowledge). This targeted ranchers directly, because alerts let officials act within weeks of clearing (application). As a result, deforestation fell from 27,772 km² in 2004 to 4,571 km² in 2012, which suggests that enforcement, not just satellites, cut the profit of illegal clearing (analysis). However, the plan was dropped in 2019 and clearing rose again, so its success was fragile and depended on politics rather than lasting change in land use (evaluation).
+> In Brazil, the PPCDAm combined DETER satellite alerts with fines and new protected areas (knowledge). This targeted ranchers directly, because alerts let officials act within weeks of clearing (application). As a result, deforestation fell from 27,772 km² in 2004 to 4,571 km² in 2012, which suggests that enforcement, not just satellites, cut the profit of illegal clearing (analysis). However, enforcement weakened after 2019 and clearing rose again, so its success was fragile and depended on politics rather than lasting change in land use (evaluation).
 
 ## Common errors
 
