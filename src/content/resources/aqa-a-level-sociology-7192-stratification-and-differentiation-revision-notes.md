@@ -68,25 +68,21 @@ Use them with the [AQA A-level Sociology hub](/boards/aqa/a-level/sociology/) an
 | Davis and Moore (1945) | Functionalist theory | Higher rewards attract talent to important roles | Tumin (1953): importance is hard to measure and stratification blocks talent |
 | Marx | Conflict theory | Two classes defined by the means of production; polarisation | The middle class grew instead |
 | Weber | Class, status, party | Many classes based on market situation; status and power vary separately | Marxists say it hides the core owner/worker divide |
-| Westergaard and Resler (1975) | Marxist | Britain remained a class society with a powerful upper class | Postmodernists say class identity has faded |
 | Wright (1985) | Neo-Marxist | Contradictory class locations | Adds complexity Marx did not foresee |
 | Walby (1990) | Feminist | Six structures of patriarchy; private to public patriarchy | Hakim says women's work patterns partly reflect choice |
 | Hakim (2000) | Preference theory | Home-centred, adaptive and work-centred women | Choices are limited by childcare and employers |
 | Rex and Tomlinson (1979) | Weberian, ethnicity | Minority ethnic underclass in Handsworth | Modood shows big differences between groups |
-| Castles and Kosack (1973) | Marxist, ethnicity | Migrants as a reserve army of labour | Underplays racism as a separate factor |
-| Cumming and Henry (1961) | Functionalist, age | Disengagement theory | Many older people stay active |
-| Phillipson (1982) | Marxist, age | Capitalism devalues people outside paid work | Ignores wealthy older people |
+| Cumming and Henry (1961) | Age | Disengagement theory: mutual withdrawal of older people and society | Many older people stay active |
 | Oliver (1990) | Social model of disability | Society, not impairment, disables people | Shakespeare (2006): impairment still matters |
 | Goldthorpe (1983) | Gender and class | Defends the conventional household approach | Acker (1973) and Stanworth (1984) call it sexist |
 | Savage and colleagues (2013) | Great British Class Survey | Seven classes from elite to precariat using three capitals | Self-selecting web survey |
-| Goldthorpe and Lockwood (1960s) | Affluent Worker | Little support for embourgeoisement in Luton | Small, specific sample |
+| Goldthorpe and Lockwood (1960s) | Affluent Worker | Little support for embourgeoisement in Luton; Labour loyalties kept | Small, specific sample |
 | Braverman (1974) | Proletarianisation | Clerical work deskilled | Many white-collar workers have gained skills |
-| Pakulski and Waters (1996) | Postmodern | The death of class; identity from consumption | Class still shapes life chances |
-| Sklair (2001) | Globalisation | TCC with corporate, state, technical and consumerist fractions | Business elites still divided by nation |
-| Glass (1954) | Mobility | Mostly short-range; elite self-recruitment | Men only |
-| Goldthorpe (1980) | Oxford Mobility Study | More absolute upward mobility; relative chances still unequal | Men only |
-| Marshall and colleagues (1988) | Essex study | Similar pattern, with women included | Still class-based measures |
-| Saunders (1996) | Meritocracy | Ability and effort explain much mobility | Critics say ability tests reflect class |
+| Pakulski and Waters (1996) | Postmodern | The death of class; many inequalities are status, not class | Class still shapes life chances |
+| Sklair | Globalisation | TCC with corporate, state, technical and consumerist fractions | Business elites still divided by nation |
+| Glass (1954) | Mobility | Strongest continuity at the top (elite self-recruitment) | Compared only men with their fathers |
+| Goldthorpe (1980) | Oxford Mobility Study | More absolute upward mobility; relative chances still unequal | Saunders says ability and effort explain more |
+| Saunders (1996) | Meritocracy | Ability and effort explain much mobility | Breen and Goldthorpe (1999): less advantaged children need more merit to reach the same place |
 | Blanden, Gregg and Machin (2005) | Income mobility | Fell between the 1958 and 1970 birth cohorts | Income is only one measure |
 
 ## Must-know distinctions
@@ -105,8 +101,8 @@ Use them with the [AQA A-level Sociology hub](/boards/aqa/a-level/sociology/) an
 *Question type: "Evaluate the view that social class is no longer the most important source of inequality in the UK."*
 
 1. **Introduction.** Define class and stratification. Name the view (postmodern; some feminist and ethnicity theorists) and the challenge (Marxist and Weberian).
-2. **For the view.** Pakulski and Waters: identity from consumption. Beck: individualisation. Walby: gender inequality is structural. Rex and Tomlinson, Modood: ethnicity shapes life chances. Disability and age create their own inequalities.
-3. **Against the view.** Marmot's social gradient in health. Goldthorpe: relative mobility still unequal. Blanden and colleagues: income mobility fell. Savage: economic, cultural and social capital still cluster.
+2. **For the view.** Pakulski and Waters: class is dissolving. Beck: individualisation. Walby: gender inequality is structural. Rex and Tomlinson, Modood: ethnicity shapes life chances. Disability and age create their own inequalities.
+3. **Against the view.** Marmot's social gradient in health. Goldthorpe: relative mobility still unequal. Blanden and colleagues: income mobility fell. Savage: a seven-class model from elite to precariat, built on economic, cultural and social capital.
 4. **Globalisation.** Sklair's TCC suggests class power has grown, not faded. Standing's precariat shows new class insecurity.
 5. **Intersection.** Class, gender, ethnicity and age interact; Weber's three dimensions explain this.
 6. **Conclusion.** Reach a judgement that follows from your evidence. One possible line: class remains important, but it works together with other sources of inequality.

@@ -28,7 +28,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 4.2.7 The Media (cross-referenced as 3.2.7) of the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). The Media is an option in Paper 2: Topics in Sociology, a 2 hour exam worth 80 marks. The specification places it in "Section B: one from option 2: 4.2.5, 4.2.6, 4.2.7 or 4.2.8", with Section A being "one from option 1: 4.2.1, 4.2.2, 4.2.3 or 4.2.4". All companies, places, people and data below are fictional.
+These questions cover section 4.2.7 The Media (shown as 3.2.7 in the specification's at-a-glance list) of the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). The Media is an option in Paper 2: Topics in Sociology, a 2 hour exam worth 80 marks. The specification places it in "Section B: one from option 2: 4.2.5, 4.2.6, 4.2.7 or 4.2.8", with Section A being "one from option 1: 4.2.1, 4.2.2, 4.2.3 or 4.2.4". All companies, places, people and data below are fictional.
 
 Revise first with the [study guide](/resources/aqa-a-level-sociology-7192-the-media/) and the [revision notes](/resources/aqa-a-level-sociology-7192-the-media-revision-notes/). Track your progress on the [AQA A-level Sociology hub](/boards/aqa/a-level/sociology/) and the [AQA A-level Sociology checklist](/checklists/aqa/a-level/sociology/).
 
@@ -75,7 +75,7 @@ Revise first with the [study guide](/resources/aqa-a-level-sociology-7192-the-me
 
 > **Item B.** In the fictional country of Lorvania, the three most-watched streaming series last year were all made in the USA. However, a Lorvanian band that mixes traditional folk instruments with hip-hop topped the charts in several neighbouring countries. Lorvanian TV channels also buy foreign game-show formats and remake them with local presenters and local humour.
 
-Applying material from Item B and your knowledge, evaluate the view that the globalisation of the media has created a single global popular culture. **[16]**
+Applying material from Item B and your knowledge, evaluate the view that the global spread of media is replacing local cultures with a single, mainly American, popular culture. **[16]**
 
 **11.** Evaluate the view that media representations of social groups mainly reflect the interests of powerful groups. **[12]**
 
@@ -150,4 +150,4 @@ Check your weaker areas with our free [diagnostics](/diagnostics/). Go back to t
 
 ## Official syllabus
 
-AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021), section 4.2.7 The Media (cross-referenced as 3.2.7), assessed in Paper 2: Topics in Sociology.
+AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021), section 4.2.7 The Media, assessed in Paper 2: Topics in Sociology.

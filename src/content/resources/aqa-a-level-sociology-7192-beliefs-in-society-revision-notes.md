@@ -80,7 +80,7 @@ They cover section 4.2.5 Beliefs in Society of the AQA AS and A-level Sociology 
 | Stark and Bainbridge | Market theory; deprivation | Competition and compensators explain religiosity | Hadaway et al. (1993): US attendance over-reported |
 | Heelas and Woodhead (2005) | Kendal | Holistic milieu growing but much smaller than congregations | No spiritual revolution yet |
 | Miller and Hoffmann (1995) | Gender | Women more risk-averse and socialised into religion | Gender gap varies by faith |
-| Pryce (1979) | Bristol African-Caribbeans | Pentecostalism helped adaptation; Rastafarianism protested racism | One city, one period |
+| Pryce (1979) | Bristol African-Caribbeans | Pentecostalism's values of hard work and thrift helped members adapt | One city, one period |
 | Voas and Crockett (2005) | Age | Each generation less religious than its parents | Survey data may miss private belief |
 | Davie | Believing without belonging | Belief persists as attendance falls | Belief is falling too |
 | Lyon (2000) | Jesus in Disneyland | Religion relocated into consumption | Weak commitment may be decline |

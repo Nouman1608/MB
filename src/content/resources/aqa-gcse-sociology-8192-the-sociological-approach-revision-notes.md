@@ -81,7 +81,7 @@ The New Right, linked by the specification to Murray, is a further view that cri
 - **Structure vs agency.** Structure: institutions shape behaviour. Agency: individuals interpret and choose. Interactionism stresses agency.
 - **Macro vs micro.** Functionalism, Marxism and feminism look at society as a whole (macro). Interactionism looks at face-to-face interaction (micro).
 - **Norms vs values.** Values are beliefs; norms are the specific rules that put them into practice.
-- **Power vs authority.** Authority is legitimate power. Weber's three types: traditional (custom), charismatic (exceptional personal qualities), rational-legal (accepted impersonal rules).
+- **Power vs authority.** Authority is legitimate power. Weber's three types (the specification's "three different sources of power"): traditional (custom), charismatic (exceptional personal qualities), rational-legal (accepted impersonal rules).
 - **Prejudice vs discrimination.** Prejudice is an attitude; discrimination is an action.
 - **Primary vs secondary socialisation.** Family first; school, peers, religion, media and workplace later.
 - **Marx vs Weber on class.** Marx: two main classes defined by ownership, which polarise. Weber: market situation creates more divisions, and the middle class expands.

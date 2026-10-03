@@ -39,16 +39,15 @@ Use it with the [revision notes](/resources/aqa-a-level-sociology-7192-families-
 
 ## How Paper 2 works
 
-The specification prints Paper 2: Topics in Sociology as a 2 hour written exam worth 80 marks and 33.3% of the A-level. Section A is "one from option 1: 4.2.1, 4.2.2, 4.2.3 or 4.2.4" (Culture and Identity; Families and Households; Health; Work, Poverty and Welfare). Section B is "one from option 2: 4.2.5, 4.2.6, 4.2.7 or 4.2.8" (Beliefs in Society; Global Development; The Media; Stratification and Differentiation). Each section is extended writing, 40 marks. If you choose Families and Households for Section A, you pick a different topic from option 2 for Section B.
+The specification prints Paper 2: Topics in Sociology as a 2 hour written exam worth 80 marks and 33.3% of the A-level. Section A is "one from option 1: 4.2.1, 4.2.2, 4.2.3 or 4.2.4" (Culture and Identity; Families and Households; Health; Work, Poverty and Welfare). Section B is "one from option 2: 4.2.5, 4.2.6, 4.2.7 or 4.2.8" (Beliefs in Society; Global Development; The Media; Stratification and Differentiation). Each section is extended writing, 40 marks. Section B must then come from option 2.
 
-The assessment objectives are AO1 (knowledge and understanding), AO2 (application) and AO3 (analysis and evaluation). Link each topic to the two core themes: socialisation, culture and identity; and social differentiation, power and stratification. Question styles and mark splits inside Section A are set by AQA; your teacher will confirm them.
+The assessment objectives are AO1 (knowledge and understanding), AO2 (application) and AO3 (analysis and evaluation). Link each topic to the two core themes: socialisation, culture and identity; and social differentiation, power and stratification. Your teacher will confirm question styles and mark splits.
 
 ## 1. The family, social structure, the economy and the state
 
 **Key terms**
 - **Functional fit**: the idea that the family's structure changes to suit the needs of the economy.
 - **Primary socialisation**: the first learning of norms and values, mainly in the family.
-- **Ideological state apparatus / ideology**: ideas that make an unequal system seem natural and fair.
 - **Social policy**: government actions (laws, taxes, benefits) that affect families.
 
 **Functionalism.** Murdock (1949) looked at 250 societies and argued the nuclear family is universal because it performs four functions: sexual, reproductive, economic and educational. Parsons (1955) argued that industrial society needed a geographically and socially mobile workforce, so the isolated nuclear family replaced the extended family. He said the family keeps two "irreducible" functions: primary socialisation and the stabilisation of adult personalities.
@@ -61,13 +60,13 @@ The assessment objectives are AO1 (knowledge and understanding), AO2 (applicatio
 
 **State policies.** Policies can shape family life directly (the Divorce Reform Act 1969; the Marriage (Same Sex Couples) Act 2013) or indirectly through tax, benefits and childcare. Donzelot argued that health visitors, social workers and other professionals carry out surveillance of families, with poorer families watched most closely. The New Right (for example Murray) argue that generous welfare benefits create perverse incentives that reward lone parenthood and weaken the conventional family. Feminists argue that many policies assume a male breadwinner and a female carer, which keeps women dependent.
 
-*Evaluation.* Critics say the New Right blame the poor and neglect low income as a cause of family breakdown. Supporters reply that policy should still encourage stable two-parent families. Present both views.
+*Evaluation.* Critics say the New Right blame the poor and neglect low income. Supporters reply that policy should still encourage stable two-parent families.
 
 **Worked paragraph.** *Knowledge:* Parsons argued that the nuclear family fits industrial society because workers must move to where jobs are. *Application:* this helps explain why the shift from farming to factories in Britain coincided with smaller, more mobile households. *Analysis:* if fit holds, family structure should follow economic change. *Evaluation:* however, Laslett's evidence that nuclear households were common before industrialisation suggests the nuclear family may have helped industrialisation happen, not the other way round, so Parsons may reverse cause and effect.
 
 ## 2. Marriage, cohabitation, divorce, childbearing, the life course and diversity
 
-**Patterns.** Fewer people marry, and they marry later. Cohabitation is now common, both before marriage and as an alternative to it. Same-sex couples have been able to marry in England and Wales since the Marriage (Same Sex Couples) Act 2013, and opposite-sex couples have been able to form civil partnerships there since 31 December 2019. Women are having fewer children and having them later, and a large share of births are outside marriage.
+**Patterns.** Fewer people marry, and they marry later. Cohabitation is now common, both before marriage and as an alternative to it. Same-sex marriage (2013) and opposite-sex civil partnerships (from December 2019) widened legal choices in England and Wales. Women are having fewer children and having them later, and a large share of births are outside marriage.
 
 Divorce rose sharply after the Divorce Reform Act 1969 came into force in 1971. The Divorce, Dissolution and Separation Act 2020 came into effect on 6 April 2022, removing the need to prove fault. The ONS reported 80,057 divorces in England and Wales in 2022, the lowest number since 1971. In 2019, 62% of opposite-sex divorces were petitioned by wives.
 
@@ -75,9 +74,11 @@ Divorce rose sharply after the Divorce Reform Act 1969 came into force in 1971. 
 
 **Diversity.** Rapoport and Rapoport (1982) identified five types: organisational, cultural, social class, life-stage and cohort. Chester (1985) argued the main change is a "neo-conventional family" where both partners work, so diversity is overstated. Brannen (2003) described the "beanpole family": many generations, few relatives in each.
 
+**New Right view of diversity.** The New Right see the conventional nuclear family, with married parents, as the best setting for raising children, and link the growth of lone-parent families to social problems. Critics reply that low income, not family type, explains much of the disadvantage, and that this view stigmatises lone parents.
+
 **Postmodern and late-modern views.** Giddens (1992) described the "pure relationship", which lasts only as long as both partners are satisfied. Beck and Beck-Gernsheim (1995) argued that individualisation makes relationships more fragile. Stacey described "divorce-extended families", where ties continue through former in-laws.
 
-**The life course and personal life.** Life course analysis (associated with Hareven) studies the turning points people move through and the meanings they give them. Smart (2007) set out the sociology of personal life, which focuses on the relationships people themselves see as important: friends, pets, donor relatives or kin who have died. Nordqvist and Smart (2014) studied families formed through donor conception. Weeks wrote of "families of choice" among gay and lesbian people.
+**The life course and personal life.** Life course analysis (associated with Hareven) studies the turning points people move through and the meanings they give them. Smart (2007) set out the sociology of personal life, which focuses on the relationships people themselves see as important, such as friends, kin linked through donor conception or relatives who have died. Nordqvist and Smart (2014) studied families formed through donor conception. Weeks wrote of "families of choice" among gay and lesbian people.
 
 *Evaluation.* The personal life approach captures meaning, but can underplay structural limits such as income and law. Postmodern views may exaggerate choice.
 
@@ -95,7 +96,7 @@ Divorce rose sharply after the Divorce Reform Act 1969 came into force in 1971. 
 
 **Domestic violence.** Dobash and Dobash (1979) argued that violence against wives reflects patriarchal power. Wilkinson (1996) linked it more to stress from social inequality, which helps explain why risk is higher in poorer households. Note that men can also be victims; good answers recognise both explanations.
 
-*Evaluation.* Time-use surveys can miss who takes responsibility for planning. Liberal feminists see gradual change; radical feminists see patriarchy persisting.
+*Evaluation.* Time-use surveys can miss who takes responsibility for planning. Liberal feminists see gradual change; radical feminists see patriarchy persisting. Hakim's (2000) preference theory challenges feminists: many women choose home-centred or adaptive lifestyles, so some inequality reflects choice. Feminists reply that these preferences are shaped by limited childcare and lower pay.
 
 **Worked paragraph.** *Knowledge:* Crompton and Lyonette offer a material explanation. *Application:* in a household where the woman earns more, the material view predicts she will do less housework. *Analysis:* if she still does more, cultural norms matter more than income. *Evaluation:* studies of same-sex couples, such as Dunne's, support the cultural view because equality is easier to achieve without gender scripts.
 
@@ -103,11 +104,11 @@ Divorce rose sharply after the Divorce Reform Act 1969 came into force in 1971. 
 
 **Key terms.** *Social construction*: something defined by society, not fixed by biology. *Child-centredness*: family life organised around children's needs. *Age patriarchy*: Gittins' (1998) term for adult control over children.
 
-**Childhood as constructed.** Ariès (1960) used paintings and diaries to argue that in medieval Europe children were treated as "mini-adults". Shorter (1975) argued high infant mortality encouraged emotional distance. Benedict (1934) and Punch (2001), who studied children in rural Bolivia, show how children elsewhere take on responsibilities early.
+**Childhood as constructed.** Ariès (1960) used paintings and diaries to argue that in medieval Europe children were treated as "mini-adults". Shorter (1975) argued high infant mortality encouraged emotional distance. Benedict (1938) and Punch (2001), who studied children in rural Bolivia, show how children elsewhere take on responsibilities early.
 
 *Evaluation.* Pollock (1983) used diaries to argue that childhood existed in earlier centuries too, just in a different form. Ariès relied on limited sources.
 
-**Changes since 1900.** Laws separated children from adults: free secondary education for all (Education Act 1944), the school leaving age raised to 16 in 1972, the Children Act 1989 and the UN Convention on the Rights of the Child (1989). Lower infant mortality and smaller families made each child more central. Pilcher (1995) stressed the *separateness* of childhood, shown in laws, dress and products.
+**Changes since 1900.** Laws separated children from adults: free secondary education for all (Education Act 1944), the school leaving age raised to 16 in 1972, the Children Act 1989 and the UN Convention on the Rights of the Child (1989). Pilcher (1995) stressed the *separateness* of childhood, shown in laws, dress and products.
 
 **Is childhood disappearing?** Postman (1982) argued television removed the "information hierarchy" between adults and children, so childhood is disappearing. Palmer (2006) described "toxic childhood" caused by technology and consumerism. Opie (1993) pointed instead to a lively children's culture of games and rhymes.
 
@@ -121,11 +122,11 @@ Divorce rose sharply after the Divorce Reform Act 1969 came into force in 1971. 
 
 **Births and family size.** Births fell across the century, with baby booms after both World Wars and a peak in 1964. Fertility has been below the replacement level of about 2.1 children per woman since the 1970s. Explanations: changes in women's position (education, careers, contraception, abortion law), lower infant mortality, children becoming an economic cost rather than an earner, and child-centredness.
 
-**Deaths and life expectancy.** The death rate fell. McKeown (1976) credited better nutrition more than medicine. Public health measures, better housing and later the NHS (1948) also mattered. ONS figures show life expectancy at birth in England and Wales reached 79.0 for boys and 82.8 for girls in 2011.
+**Deaths and life expectancy.** The death rate fell. McKeown (1976) credited better nutrition more than medicine. Public health measures, better housing and later the NHS (1948) also mattered. ONS national life tables put UK life expectancy at birth at 78.6 years for males and 82.6 years for females in 2020 to 2022.
 
 **Ageing population.** Lower fertility and longer lives mean a higher average age. Consequences include more one-person pensioner households, more care by relatives (often women) and a rising dependency ratio. Phillipson (1982) argued that older people are marginalised under capitalism because they are no longer productive. Postmodernists argue that age identity is now more fluid.
 
-**Migration and globalisation.** After the arrival of the Empire Windrush in 1948, migration from the Caribbean and South Asia added to cultural diversity of families. Cohen (2006) distinguished citizens, denizens and helots. Ehrenreich and Hochschild (2003) described "global care chains", where women migrate to do care work, leaving their own children with relatives. Transnational families keep ties across borders through travel and technology. Views of migration's impact are contested: some stress economic and cultural gains, others stress pressure on services. Present both sides.
+**Migration and globalisation.** After the arrival of the Empire Windrush in 1948, migration from the Caribbean and South Asia added to cultural diversity of families. Cohen (2006) distinguished citizens, denizens and helots. Ehrenreich and Hochschild (2003) described "global care chains", where women migrate to do care work, leaving their own children with relatives. Views of migration's impact are contested: some stress economic and cultural gains, others pressure on services.
 
 **Worked paragraph.** *Knowledge:* the ageing population increases the number of older dependants. *Application:* a "sandwich" carer may look after a parent and a child at once. *Analysis:* this shows a demographic trend reshaping gender roles, since women do most unpaid care. *Evaluation:* yet many older people also give care, for example grandparents doing childcare, so they are not simply a burden.
 
@@ -135,10 +136,9 @@ Divorce rose sharply after the Divorce Reform Act 1969 came into force in 1971. 
 - Treating a fall in marriage as proof marriage is unpopular. Fletcher's point is that expectations rose.
 - Confusing the birth rate with the total fertility rate.
 - Quoting Young and Willmott without Oakley's critique of their measure.
-- Forgetting migration and globalisation in demography answers.
 - Giving one side only on contested policy or migration debates.
 
-Related: [Methods in Context](/resources/a-level-sociology-methods-in-context/), [education and differential achievement](/resources/a-level-aqa-sociology-role-of-education-and-differential-achievement/), the [Crime and Deviance guide](/resources/a-level-aqa-sociology-crime-and-deviance/) and the [course structure](/resources/a-level-sociology-course-structure/).
+Related: [Methods in Context](/resources/a-level-sociology-methods-in-context/), [education](/resources/a-level-aqa-sociology-role-of-education-and-differential-achievement/), [Crime and Deviance](/resources/a-level-aqa-sociology-crime-and-deviance/), [course structure](/resources/a-level-sociology-course-structure/).
 
 ## Official syllabus
 

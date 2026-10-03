@@ -28,7 +28,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover the Health topic of AQA A-level Sociology (7192), section 3.2.3 (printed as 4.2.3 in the A-level content) of the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). Health is an option 1 topic, answered in Section A of Paper 2: Topics in Sociology, a 2 hour, 80-mark written exam in which Section A is extended writing worth 40 marks. All places, people and data below are fictional.
+These questions cover the Health topic of AQA A-level Sociology (7192), section 4.2.3 of the A-level subject content (listed as 3.2.3 in the specification at a glance) of the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). Health is an option 1 topic, answered in Section A of Paper 2: Topics in Sociology, a 2 hour, 80-mark written exam in which Section A is extended writing worth 40 marks. All places, people and data below are fictional.
 
 Revise first with the [Health study guide](/resources/aqa-a-level-sociology-7192-health/) and the [Health revision notes](/resources/aqa-a-level-sociology-7192-health-revision-notes/). The [AQA A-level Sociology hub](/boards/aqa/a-level/sociology/) and the [AQA A-level Sociology checklist](/checklists/aqa/a-level/sociology/) show where this topic fits.
 
@@ -93,7 +93,7 @@ Applying material from the item and your knowledge, evaluate cultural/behavioura
 **(c)** Reason one, material/structural: Millgate is the most deprived ward, so residents are more likely to face low income, poor housing and hazardous work [1]; this helps explain why 31% report a long-term limiting condition against 14% in Ashby Park [1], and why healthy life expectancy is 12.7 years lower [1]. Reason two, the inverse care law: Millgate has the greater need [1] yet each GP serves 2,100 patients against 1,600 in Ashby Park [1], so need and provision run in opposite directions, as Tudor Hart argued [1]. **[6]**
 *Examiner insight:* in part (c), application marks come from quoting the table's figures inside each explanation, not from a general account of inequality.
 
-**5.** First, the physical environment disables Priya: the lack of a lift and the stepped pub entrance exclude her [1], which fits the social model's view that disability is the barriers society builds rather than her impairment [1]. Second, the manager's language ("brave", "must find it hard to cope") labels her as dependent and tragic [1], which shows how others' reactions can shape a disabled identity, as Scott argued about agencies for blind people [1]. Third, Priya's own view that "the building, not her body" is the problem [1] reflects how disabled people's movements, such as UPIAS, have redefined disability as a social issue [1]. **[6]**
+**5.** First, the physical environment disables Priya: the lack of a lift and the stepped pub entrance exclude her [1], which fits the social model's view that disability is the barriers society builds rather than her impairment [1]. Second, the manager's language ("brave", "must find it hard to cope") labels her as dependent and tragic [1], which shows how others' reactions can spoil a person's identity, as Goffman's work on stigma suggests [1]. Third, Priya's own view that "the building, not her body" is the problem [1] reflects how disabled people's movements, such as UPIAS, have redefined disability as a social issue [1]. **[6]**
 *Examiner insight:* each way needs a detail from the item plus a sociological concept; three bare concepts score half marks at best.
 
 **6.** Women may be more willing to seek medical help and admit illness, since masculine identities discourage this, so more female illness is recorded [1]; men's greater risk-taking linked to masculinity may also raise their death rates [1]. Feminists argue women's lower incomes and the double shift of paid work and care [1] cause more everyday ill health without being fatal [1]. **[4]**
@@ -102,38 +102,38 @@ Applying material from the item and your knowledge, evaluate cultural/behavioura
 **7.** Explanation one, ethnocentric diagnosis and labelling: psychiatrists may misread the behaviour of young Black men through stereotypes of danger [1], which could explain the higher rate of psychotic diagnoses and emergency routes into care in Brookvale [1]; this links to labelling theory, where the label shapes later treatment [1]. Explanation two, cultural and access barriers: stigma within some communities, language barriers or a lack of culturally aware services may stop South Asian women seeking help [1], which fits the item's point that they are rarely referred though GPs see distress [1]; a realist would add that this means real illness goes uncounted, so the records understate need [1]. **[6]**
 *Examiner insight:* "analyse" needs a chain of reasoning for each explanation; naming racism without showing how it produces the pattern limits the marks.
 
-**8.** Lacking a close confiding relationship [1]; having three or more young children at home [1]. Also credit having no paid work outside the home, or loss of mother in childhood. **[2]**
+**8.** Lacking an intimate confiding relationship [1]; having no paid work outside the home [1]. Also credit loss of mother before age 11. **[2]**
 *Examiner insight:* one mark per factor; general terms such as "stress" or "poverty" are not the study's vulnerability factors.
 
-**9.** Way one, the power of transnational drug companies: medicines are produced by large global companies [1] whose aim is profit for shareholders [1], so research may focus on conditions common in rich markets rather than diseases of poorer countries [1]; critics such as Goldacre argue companies can also shape which trial results are published [1]. Way two, global movement of patients and staff: medical tourism lets wealthier patients buy treatment abroad, turning health care into a global market [1]; doctors and nurses migrate from poorer to richer countries [1], which can strengthen services in countries like the UK [1] while leaving source countries short of staff, widening global health inequality [1]. **[8]**
+**9.** Way one, the power of transnational drug companies: medicines are produced by large global companies [1] whose aim is profit for shareholders [1], so research may focus on conditions common in rich markets rather than diseases of poorer countries [1]; critics such as Goldacre argue that negative trial results often go unpublished, distorting the evidence [1]. Way two, global movement of patients and staff: medical tourism lets wealthier patients buy treatment abroad, turning health care into a global market [1]; doctors and nurses migrate from poorer to richer countries [1], which can strengthen services in countries like the UK [1] while leaving source countries short of staff, widening global health inequality [1]. **[8]**
 *Examiner insight:* the top marks go to answers that develop each way into consequences; two lists of examples without analysis stay in the lower levels.
 
 **10.** The real exam marks extended answers with levels of response, not point by point. The points below show indicative creditworthy content.
 
-*Paragraph 1, the explanation.* Cultural/behavioural explanations, one of the four in the Black Report [1], argue that working-class people have worse health because of choices such as smoking, poor diet and less exercise [1]. The Hollin Bridge campaign reflects this, telling residents to "make better choices" [1]. New Right thinkers support it, stressing individual responsibility for health [1].
+*Paragraph 1, the explanation.* Cultural/behavioural explanations, one of four main explanations of class inequality in health [1], argue that working-class people have worse health because of choices such as smoking, poor diet and less exercise [1]. The Hollin Bridge campaign reflects this, telling residents to "make better choices" [1]. New Right thinkers support it, stressing individual responsibility for health [1].
 
 *Paragraph 2, evidence for.* Smoking and diet do differ by class and are linked to major diseases [1], so behaviour clearly contributes to some of the gap [1].
 
-*Paragraph 3, material/structural critique.* Materialists argue behaviour is shaped by circumstances [1]: in the item, the supermarket is two bus rides away, so fresh food costs time and money [1], and damp flats damage health whatever residents eat [1]. The Black Report itself favoured this material explanation [1]. Cultural explanations therefore risk blaming the victim [1].
+*Paragraph 3, material/structural critique.* Materialists argue behaviour is shaped by circumstances [1]: in the item, the supermarket is two bus rides away, so fresh food costs time and money [1], and damp flats damage health whatever residents eat [1]. The Black Report (1980) saw economic inequality as the main cause [1]. Cultural explanations therefore risk blaming the victim [1].
 
-*Paragraph 4, psychosocial critique.* Night-shift work in the distribution centre suggests low control and stress [1], which the Whitehall studies linked to higher death rates among lower grades [1]; smoking may be a way of coping with that stress rather than a free choice [1].
+*Paragraph 4, psychosocial critique.* Night-shift work in the distribution centre suggests low control and stress [1], which psychosocial explanations, drawing on the Whitehall studies, link to higher death rates among lower grades [1]; smoking may be a way of coping with that stress rather than a free choice [1].
 
 *Paragraph 5, method and judgement.* Evidence on lifestyle often comes from self-report surveys, which may under-record smoking and drinking [1]. Overall, behaviour matters, but it is best seen as one link in a chain that starts with material conditions, so cultural/behavioural explanations alone are inadequate [1]. **[16]**
 *Examiner insight:* the item is there to be used; quote at least two of its details (distance to the supermarket, night shifts, damp) and tie each to a theory.
 
 **11.** The real exam marks extended answers with levels of response, not point by point. The points below show indicative creditworthy content.
 
-*Paragraph 1, the view.* Weberians such as Freidson argue doctors use social closure [1], controlling entry, training and knowledge [1] to protect their status and income [1]. Witz adds that the profession excluded women and kept nursing and midwifery subordinate [1].
+*Paragraph 1, the view.* Freidson argues that medicine has professional dominance over its own work and other health occupations [1]; Weberians see this as social closure, controlling entry, training and knowledge [1] to protect status and income [1]. Feminists add that the profession long excluded women and kept nursing and midwifery subordinate [1].
 
-*Paragraph 2, Marxist support.* Navarro argues medicine serves capitalism by treating illness as individual [1], hiding its social causes such as poor working conditions [1]; on this view doctors serve the ruling class, not only themselves [1].
+*Paragraph 2, Marxist support.* Marxists such as Navarro argue medicine serves capitalism by treating illness as individual [1], hiding its social causes such as poor working conditions [1]; on this view doctors serve the ruling class, not only themselves [1].
 
 *Paragraph 3, Illich.* Illich argues medicine creates dependence and harm through clinical, social and cultural iatrogenesis [1], which suggests professional power grows at patients' expense [1].
 
-*Paragraph 4, functionalist challenge.* Parsons and Barber see the profession as altruistic, with expert knowledge and an ethical code [1]; strict entry rules protect patients from unsafe practice [1], and high rewards are a fair return for long training [1].
+*Paragraph 4, functionalist challenge.* Functionalists see the profession as altruistic, with expert knowledge and an ethical code [1]; strict entry rules protect patients from unsafe practice [1], and high rewards are a fair return for long training [1].
 
 *Paragraph 5, postmodern change.* Haug's idea of deprofessionalisation suggests doctors' power is weakening [1] as patients research conditions online and use alternative therapies [1].
 
-*Paragraph 6, judgement.* McKeown's work shows that medicine's claims can be overstated, yet modern treatments clearly save lives [1]; a reasoned conclusion is that the profession serves both its own and patients' interests, with the balance depending on how far its power is checked [1]. **[16]**
+*Paragraph 6, judgement.* McKeown argued that falling death rates owed more to living standards than to medicine, so medicine's claims can be overstated, yet modern treatments clearly save lives [1]; a reasoned conclusion is that the profession serves both its own and patients' interests, with the balance depending on how far its power is checked [1]. **[16]**
 *Examiner insight:* evaluation must test the view, not just list theories; say which evidence supports it and which undermines it, then reach a judgement.
 
 ## Where marks are usually lost
@@ -158,4 +158,4 @@ Applying material from the item and your knowledge, evaluate cultural/behavioura
 
 ## Official syllabus
 
-These questions are based on the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021), A-level section 3.2.3 (printed in the PDF as 4.2.3) Health, and the Paper 2 assessment information in the same document.
+These questions are based on the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021), A-level section 4.2.3 Health, and the Paper 2 assessment information in the same document.

@@ -28,7 +28,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover Global Development, section 3.2.6 of the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021), printed as 4.2.6 in the A-level subject content. The topic is assessed in Section B of A-level Paper 2: Topics in Sociology, which the specification describes as "one from option 2: 4.2.5, 4.2.6, 4.2.7 or 4.2.8" and "extended writing, 40 marks". All countries, firms and figures below are fictional.
+These questions cover Global Development, section 4.2.6 of the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021), listed as 3.2.6 in the specification at a glance. The topic is assessed in Section B of A-level Paper 2: Topics in Sociology, which the specification describes as "one from option 2: 4.2.5, 4.2.6, 4.2.7 or 4.2.8" and "extended writing, 40 marks". All countries, firms and figures below are fictional.
 
 Revise first with the [Global development study guide](/resources/aqa-a-level-sociology-7192-global-development/) and the [Global development revision notes](/resources/aqa-a-level-sociology-7192-global-development-revision-notes/). The [AQA A-level Sociology hub](/boards/aqa/a-level/sociology/) and the [AQA A-level Sociology checklist](/checklists/aqa/a-level/sociology/) show where the topic fits.
 
@@ -112,7 +112,7 @@ Using the scenario, outline three ways in which a dependency theorist might inte
 *Examiner insight:* Two distinct effects are needed; two examples of the same effect count as one.
 
 **8. (a)** 0.70 x 40 = US$28 million [1]. **[1]**
-**(b)** Only US$12 million can go to Ondara's own firms, so local businesses and jobs gain little [1]; this supports Hayter's view that aid serves donor interests [1]. Repayment with interest over 20 years adds to Ondara's debt [1], which may force spending cuts or reliance on further loans, as dependency theorists argue [1]. **[4]**
+**(b)** At most US$12 million can go to Ondara's own firms, so local businesses and jobs gain little [1]; this supports Hayter's view that aid serves donor interests [1]. Repayment with interest over 20 years adds to Ondara's debt [1], which may force spending cuts or reliance on further loans, as dependency theorists argue [1]. **[4]**
 *Examiner insight:* "Analyse" needs a consequence for each problem, not just naming tied aid and debt.
 
 **9. (a)** 1980: 44 - 21 = 23 per 1,000 [1]. 2000: 38 - 12 = 26 per 1,000 [1]. 2020: 27 - 8 = 19 per 1,000 [1]. **[3]**
@@ -152,4 +152,4 @@ Outline dependency theory as a Marxist, conflict account [1]. Frank (1966): metr
 
 ## Official syllabus
 
-AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021): section 3.2.6 Global Development (4.2.6 in the A-level subject content), A-level Paper 2: Topics in Sociology, Section B.
+AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021): section 4.2.6 Global Development, A-level Paper 2: Topics in Sociology, Section B.

@@ -24,7 +24,7 @@ featured: false
 
 These notes condense the full [study guide on The Media](/resources/aqa-a-level-sociology-7192-the-media/). Read that first if a term below is new to you.
 
-They cover section 4.2.7 The Media (cross-referenced as 3.2.7) of the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). The Media is an A-level option in Paper 2: Topics in Sociology (2 hours, 80 marks, 33.3% of the A-level). The specification states: "Section A: one from option 1: 4.2.1, 4.2.2, 4.2.3 or 4.2.4" and "Section B: one from option 2: 4.2.5, 4.2.6, 4.2.7 or 4.2.8". So The Media is answered in Section B, "extended writing, 40 marks".
+They cover section 4.2.7 The Media (shown as 3.2.7 in the specification's at-a-glance list) of the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). The Media is an A-level option in Paper 2: Topics in Sociology (2 hours, 80 marks, 33.3% of the A-level). The specification states: "Section A: one from option 1: 4.2.1, 4.2.2, 4.2.3 or 4.2.4" and "Section B: one from option 2: 4.2.5, 4.2.6, 4.2.7 or 4.2.8". So The Media is answered in Section B, "extended writing, 40 marks".
 
 Keep track of what you have revised on the [AQA A-level Sociology hub](/boards/aqa/a-level/sociology/) and the [AQA A-level Sociology checklist](/checklists/aqa/a-level/sociology/). When you are ready, try the [practice questions](/resources/aqa-a-level-sociology-7192-the-media-practice/).
 
@@ -143,7 +143,7 @@ Using one of these themes in each extended answer helps show analysis, not just 
 
 ### Answers
 
-1. Section 4.2.7, cross-referenced as 3.2.7.
+1. Section 4.2.7.
 2. Section B, which takes one from option 2.
 3. Different media merging on one platform or device.
 4. Horizontal: several firms in the same sector. Vertical: owning each stage from production to distribution.
@@ -171,4 +171,4 @@ See how the media link to crime coverage in the [crime and deviance revision not
 
 ## Official syllabus
 
-AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021), section 4.2.7 The Media (cross-referenced as 3.2.7), assessed in Paper 2: Topics in Sociology.
+AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021), section 4.2.7 The Media, assessed in Paper 2: Topics in Sociology.

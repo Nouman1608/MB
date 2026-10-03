@@ -28,7 +28,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-This set gives practice on Work, Poverty and Welfare for AQA A-level Sociology (7192), based on the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). The topic is section 3.2.4 (numbered 4.2.4 in the A-level subject content chapter). The specification assesses it in Paper 2: Topics in Sociology, Section A, which is "one from option 1: 4.2.1, 4.2.2, 4.2.3 or 4.2.4"; Section B is "one from option 2: 4.2.5, 4.2.6, 4.2.7 or 4.2.8".
+This set gives practice on Work, Poverty and Welfare for AQA A-level Sociology (7192), based on the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). The topic is section 4.2.4 (the specification-at-a-glance list also shows it as 3.2.4). The specification assesses it in Paper 2: Topics in Sociology, Section A, which is "one from option 1: 4.2.1, 4.2.2, 4.2.3 or 4.2.4"; Section B is "one from option 2: 4.2.5, 4.2.6, 4.2.7 or 4.2.8".
 
 Revise first with the [study guide](/resources/aqa-a-level-sociology-7192-work-poverty-and-welfare/) and [revision notes](/resources/aqa-a-level-sociology-7192-work-poverty-and-welfare-revision-notes/); see also the [AQA A-level Sociology hub](/boards/aqa/a-level/sociology/) and [7192 checklist](/checklists/aqa/a-level/sociology/). All towns, firms and figures below are fictional.
 
@@ -45,7 +45,7 @@ Revise first with the [study guide](/resources/aqa-a-level-sociology-7192-work-p
 > A researcher records weekly household income after tax for nine households in Easterby, already adjusted for household size: A £220, B £310, C £380, D £450, E £520, F £600, G £690, H £820, I £1,150. The researcher uses the official approach of counting households below 60% of the median income as being in relative low income.
 
 **(a)** Calculate the median income and the 60% line, and name the households below the line. **[3]**
-**(b)** Every household's income rises by 10%. Explain what happens to the number of households in relative low income, and compare this with a fixed absolute line of £300 a week. **[4]**
+**(b)** Every household's income rises by 10%. Explain what happens to the number of households in relative low income, and compare this with a fixed absolute line of £320 a week. **[4]**
 **(c)** Using the item, outline one limitation of measuring poverty by income alone. **[2]**
 
 **5.** Read the scenario.
@@ -55,7 +55,7 @@ Revise first with the [study guide](/resources/aqa-a-level-sociology-7192-work-p
 **(a)** Classify each of the four sources of support as state, private, voluntary or informal welfare. **[4]**
 **(b)** Explain one criticism of relying on voluntary provision to respond to poverty. **[2]**
 
-**6.** Outline and explain two reasons why women are more likely than men to experience poverty. **[6]**
+**6.** Outline and explain two ways in which gender inequality, inside and outside the home, can raise women's risk of poverty. **[6]**
 
 **7.** Read the item about the fictional firm Brackley Logistics.
 
@@ -87,7 +87,7 @@ Extended answers (questions 8 to 10) are marked in the real exam with levels of 
 *Examiner insight:* the wage is a manifest function, so naming income here earns nothing.
 
 **4. (a)** The median is the fifth of nine values, £520 [1]. The 60% line is 0.6 x £520 = £312 [1]. Households A (£220) and B (£310) are below the line [1]. **[3]**
-**(b)** The median rises to £572 and the 60% line to £343.20 [1], so A and B are still below it and the number in relative low income stays at two [1]. Against a fixed absolute line of £300, only A was below before the rise, and A (now £242) is still below while B (now £341) remains above, so the count stays at one [1]. So a relative measure falls only if the gap to the middle narrows, while an absolute one falls when low incomes pass a fixed standard [1]. **[4]**
+**(b)** The median rises to £572 and the 60% line to £343.20 [1], so A and B are still below it and the number in relative low income stays at two [1]. Against a fixed absolute line of £320, A and B were both below before the rise; afterwards A (£242) is still below but B (£341) is above, so the count falls from two to one [1]. So a relative measure falls only if low incomes rise faster than the median, while an absolute measure falls whenever low incomes pass a fixed standard [1]. **[4]**
 **(c)** Income alone ignores costs: household D may be above the line but have high rent or debt repayments, leaving less to live on than A [1]. It also ignores wealth or savings and how money is shared within the household, so it can misclassify who is deprived [1]. **[2]**
 *Examiner insight:* show your working with the item's figures; a correct conclusion with no calculation, or a general point not tied to Easterby, limits the marks.
 
@@ -104,8 +104,8 @@ Extended answers (questions 8 to 10) are marked in the real exam with levels of 
 *Examiner insight:* in application parts the marks come from using the item's numbers and details, not from describing the flexible firm in general.
 
 **8.** Indicative content for a strong answer:
-- First way, deskilling: Braverman argued that managers use technology to take knowledge out of jobs, turning skilled work into routine tasks [1]. Software that scripts a call-centre conversation, or a scanner that directs each pick, is an example [1]. This cheapens labour and increases management control, because workers become easier to replace [1]. Ritzer's McDonaldization supports this, stressing predictability and control by non-human technology [1]. However, Braverman ignored worker resistance and assumed a past "golden age" of craft skill [1].
-- Second way, upskilling or reduced alienation: Blauner argued that automated process technology needs skilled monitoring and gives workers more control than assembly lines [1]. Gallie's survey evidence found more workers reporting rising than falling skill demands [1]. This suggests technology can raise skill levels for some, especially in professional and technical work [1]. However, the gains were uneven between occupational classes, pointing to polarisation rather than general upskilling [1].
+- First way, deskilling: Braverman argued that managers use technology to take knowledge out of jobs, turning skilled work into routine tasks [1]. Software that scripts a call-centre conversation, or a scanner that directs each pick, is an example [1]. This cheapens labour and increases management control, because workers become easier to replace [1]. Ritzer's McDonaldization supports this, stressing predictability and control through technology [1]. However, Braverman ignored worker resistance and assumed a past "golden age" of craft skill [1].
+- Second way, upskilling or reduced alienation: Blauner argued that as technology develops, tasks become more complex and need more skill, giving workers more discretion [1]. Gallie's survey evidence found little sign of widespread deskilling [1]. This suggests technology can raise skill levels for some workers rather than degrade all work [1]. However, Gallie also found a marked polarisation of skills, so the gains were uneven [1].
 - Analysis linking both: the effect of technology depends on management choices and the type of work, so it is not determined by the technology itself [1].
 **[10]**
 *Examiner insight:* "analyse two ways" rewards developing each way in depth with a chain of reasoning; a list of five brief effects scores less than two well-developed ones.
@@ -115,7 +115,7 @@ Extended answers (questions 8 to 10) are marked in the real exam with levels of 
 - Policy implications: a smaller state, lower taxes, stronger work requirements and more private and voluntary provision [1]. Examples include tighter conditions on benefits and the benefit cap [1].
 - Link to welfare pluralism: New Right writers see voluntary and family support as building responsibility [1].
 - Support: the poverty trap, where means-tested support is withdrawn as earnings rise, can reduce the gain from extra work, which New Right writers use as evidence of disincentives [1].
-- Evaluation, evidence: Shildrick et al. (2012) found no families with three generations who had never worked [1], and MacDonald and Marsh found that young people in poor areas valued work [1].
+- Evaluation, evidence: Shildrick et al. (2012) found no families with three generations who had never worked [1], and found young people strongly committed to conventional values about work [1].
 - Evaluation, dynamics: the "low-pay, no-pay" cycle shows many claimants move in and out of work, so they are not a fixed dependent group [1]. Hills showed most people both pay into and draw from welfare over their lives [1].
 - Social democratic critique: Townsend argued that poverty comes from low pay and inadequate benefits, so cutting welfare increases hardship [1].
 - Marxist critique: welfare stabilises capitalism and New Right policy blames the poor for structural problems [1].
@@ -129,7 +129,7 @@ Extended answers (questions 8 to 10) are marked in the real exam with levels of 
 - Jahoda's latent functions show work as a source of time structure, status and identity [1].
 - Globalisation has moved much manufacturing to lower-wage countries, causing deindustrialisation in older industrial areas of the UK [1]; this removed jobs that had given whole communities a shared identity [1].
 - Sennett argued that short-term, flexible work makes it harder to build a stable life story and long-term commitments [1].
-- Standing's precariat suggests a growing group without job security or an occupational identity, which weakens life chances such as income stability and pensions [1].
+- Standing's precariat suggests a growing group without job security or a secure identity, which weakens life chances such as income stability and pensions [1].
 - Bauman argued that identity now comes more from consumption than production [1].
 - Evaluation, continuity: many people still define themselves by their jobs, especially in professional work, so work remains significant [1].
 - Evaluation, uneven effects: globalisation has also created service and knowledge jobs, and its effects vary by class, region, gender and ethnicity [1].
@@ -161,4 +161,4 @@ Extended answers (questions 8 to 10) are marked in the real exam with levels of 
 
 ## Official syllabus
 
-AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021): Work, Poverty and Welfare (3.2.4 in the specification-at-a-glance; 4.2.4 in the A-level subject content), assessed in Paper 2: Topics in Sociology, Section A.
+AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021): Work, Poverty and Welfare (section 4.2.4), assessed in Paper 2: Topics in Sociology, Section A.

@@ -19,7 +19,7 @@ publishedDate: 2026-09-29
 featured: false
 ---
 
-This guide covers section 3.2, Social structures, social processes and social issues, of the AQA GCSE Sociology (8192) specification, Version 1.2 (June 2026), for GCSE exams 2019 onwards. Section 3.2 sets out how you must handle theories, extracts, methods and current debates in every topic. The specification does not attach it to one paper: Paper 1 (The sociology of families and education) and Paper 2 (The sociology of crime and deviance and social stratification) both assess "relevant areas of social theory and methodology", and both expect you to draw on the entire course.
+This guide covers section 3.2, Social structures, social processes and social issues, of the AQA GCSE Sociology (8192) specification, Version 1.2 (June 2026), for GCSE exams 2019 onwards. Section 3.2 sets out how you handle theories, extracts, methods and debates in every topic. The specification does not attach it to one paper: Paper 1 (The sociology of families and education) and Paper 2 (The sociology of crime and deviance and social stratification) both assess "relevant areas of social theory and methodology", and both expect you to draw on the entire course.
 
 Use this guide with the [revision notes](/resources/aqa-gcse-sociology-8192-social-structures-processes-issues-revision-notes/) and the [practice questions](/resources/aqa-gcse-sociology-8192-social-structures-processes-issues-practice/). Track your progress on the [AQA GCSE Sociology hub](/boards/aqa/gcse/sociology/) and the [AQA GCSE Sociology checklist](/checklists/aqa/gcse/sociology/).
 
@@ -33,7 +33,7 @@ Use this guide with the [revision notes](/resources/aqa-gcse-sociology-8192-soci
 | 3.2, issues | Explore and debate contemporary social issues, and challenge everyday understandings of social phenomena from a sociological perspective | Papers 1 and 2 |
 | Section 3 (applies to all content) | Draw on and synthesise evidence from different sources; analyse written, visual and numerical information; construct reasoned arguments and substantiated judgements; draw connections between topic areas | Papers 1 and 2 |
 
-Section 3.2 trains AO2 (application, about 40% overall) and AO3 (analysis and evaluation, about 20%).
+These skills match AO2 (apply, about 40% overall) and AO3 (analyse and evaluate, about 20%) in section 4.2.
 
 ## What the three terms mean
 
@@ -54,7 +54,7 @@ The specification asks for the **key features** of each theory "in the context o
 | Feminism | Society is patriarchal; men benefit from women's subordination | Delphy and Leonard: men exploit women's labour; Oakley: the idea of the conventional family | Gendered experiences of schooling | Heidensohn: women controlled more closely; Carlen: class deal and gender deal | Walby: six patriarchal structures |
 | Interactionism | Society is built in everyday interaction; meanings and labels matter | (named mainly in other topics) | Ball: teacher expectations, banding | Becker: labelling, master status, deviant career | (not a named perspective for this topic) |
 
-The specification names interactionism for education processes and crime only; families and stratification name functionalist, feminist and Marxist perspectives.
+The specification names interactionism only in 3.4.4 (processes within schools) and 3.5.1 to 3.5.3 (crime and deviance); elsewhere it names functionalist, feminist and Marxist perspectives.
 
 ### How to compare well
 

@@ -22,7 +22,7 @@ publishedDate: 2026-09-29
 featured: false
 ---
 
-This guide covers The Media for AQA A-level Sociology (7192), using the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). The content is printed in section 4.2.7 The Media, which the specification's at-a-glance list cross-references as 3.2.7. It is an A-level option only, and it is assessed in Paper 2: Topics in Sociology, a 2 hour written exam worth 80 marks and 33.3% of the A-level.
+This guide covers The Media for AQA A-level Sociology (7192), using the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). The content is printed in section 4.2.7 The Media, which the specification's at-a-glance list shows as 3.2.7. It is an A-level option only, and it is assessed in Paper 2: Topics in Sociology, a 2 hour written exam worth 80 marks and 33.3% of the A-level.
 
 The specification prints the Paper 2 option rules like this: "Section A: one from option 1: 4.2.1, 4.2.2, 4.2.3 or 4.2.4" and "Section B: one from option 2: 4.2.5, 4.2.6, 4.2.7 or 4.2.8". The Media (4.2.7) is in option 2, so you answer it in Section B, which the specification describes as "extended writing, 40 marks". It does not print individual question tariffs; your teacher will confirm the question styles.
 
@@ -101,7 +101,7 @@ The specification also asks you to understand "conflict and consensus, social st
 - **Framing**: presenting a story from a particular angle.
 - **Hierarchy of credibility**: giving more weight to the views of powerful people (Becker, 1967).
 
-**Explanations.** Stanley Cohen and Jock Young's *The Manufacture of News* (1973) argued that news is a social product, not a mirror of events. Johan Galtung and Mari Ruge (1965) listed news values such as negativity, unexpectedness, reference to elite nations and persons, and personalisation. Tony Harcup and Deirdre O'Neill (2001, revised 2017) updated these, adding values such as celebrity, entertainment and shareability. David Manning White's "gatekeeper" study (1950) showed one wire editor's personal choices shaping what was printed. Maxwell McCombs and Donald Shaw (1972) found that the issues voters ranked as important matched the issues the media emphasised. Practical factors also matter: deadlines, cost and reliance on press releases (what Nick Davies called "churnalism" in *Flat Earth News*, 2008). The Glasgow University Media Group's content analyses argued that industrial disputes were often framed in ways that favoured management.
+**Explanations.** Stanley Cohen and Jock Young's *The Manufacture of News* (1973) argued that news is a social product, not a mirror of events. Johan Galtung and Mari Ruge (1965) listed news values such as negativity, unexpectedness, reference to elite nations and persons, and personalisation. Tony Harcup and Deirdre O'Neill (2001, revised 2017) updated these, adding values such as celebrity, entertainment and shareability. David Manning White's "gatekeeper" study (1950) showed one wire editor's personal choices shaping what was printed. Maxwell McCombs and Donald Shaw (1972) found that the issues voters ranked as important matched the issues the media emphasised. Practical factors also matter: deadlines, cost and reliance on press releases (the "churnalism" Nick Davies described in *Flat Earth News*, 2008). The Glasgow University Media Group's content analyses argued that industrial disputes were often framed in ways that favoured management.
 
 **Evaluation.** Marxists use these findings to show ideological bias. Pluralists reply that news values reflect audience interest, not class power. Postmodernists note that audiences now pick from many sources, which weakens any single agenda.
 
@@ -162,4 +162,4 @@ Next, use the [revision notes](/resources/aqa-a-level-sociology-7192-the-media-r
 
 ## Official syllabus
 
-AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021), section 4.2.7 The Media (cross-referenced as 3.2.7), with the Paper 2 assessment details in section 2.2 and the assessment objectives in section 5.2.
+AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021), section 4.2.7 The Media, with the Paper 2 assessment details in section 2.2 and the assessment objectives in section 5.2.

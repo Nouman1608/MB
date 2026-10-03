@@ -72,7 +72,7 @@ A second debate runs through the course: **structure versus agency**. The specif
 
 ### Functionalism
 
-Functionalists ask what each institution does for society. Durkheim saw education as transmitting norms and values and turning individuals into "a united whole". Parsons argued the family has two basic functions, primary socialisation and the stabilisation of adult personalities, and that schools run on meritocratic principles. Merton, Albert Cohen and Davis and Moore are the other functionalists the specification names.
+Functionalists ask what each institution does for society. Durkheim saw education as transmitting norms and values and turning individuals into "a united whole". Parsons argued the family has two basic functions, primary socialisation and the stabilisation of adult personalities, and that schools run on meritocratic principles. Merton, Albert Cohen, Davis and Moore, and Willmott and Young are the other writers the specification describes as functionalist.
 
 **Strengths:** explains how societies hold together; links institutions to each other. **Limitations:** the specification notes that Parsons has been criticised for an idealised, middle-class picture of family life; functionalism tends to ignore power and conflict.
 
@@ -90,7 +90,7 @@ Feminists see society as patriarchal, meaning male-dominated. Oakley questions t
 
 ### Interactionism
 
-Interactionists study small-scale, everyday interaction and the meanings people give to it. Becker argues that an act becomes deviant only when others define it as deviant. A label can become a **master status** and lead to a **self-fulfilling prophecy**. In education, Ball's study of teacher expectations fits this approach.
+Interactionists study small-scale, everyday interaction and the meanings people give to it. Becker argues that an act becomes deviant only when others define it as deviant. A label can become a **master status** and lead to a **self-fulfilling prophecy**. In education, labelling ideas are often applied to how teachers treat pupils in different sets or bands, a question Ball's study of Beachside Comprehensive explored by comparing a banded cohort with a mixed-ability cohort.
 
 **Strengths:** shows how people actively create social life; explains why the same act is treated differently depending on who does it. **Limitations:** says less about where labels come from, so it can overlook the wider structures of class and gender power.
 
@@ -112,7 +112,7 @@ The specification asks for a "sense of time and place": where each writer lived,
 
 ### Max Weber (1864-1920)
 
-**Time and place:** Germany, which was industrialising fast and building large state and business bureaucracies. The specification notes he wrote in the early 20th century and died in 1920. **View of the world:** stratification has more than one dimension. Class depends on market situation, which shapes life chances; status (prestige) and party (groups seeking power) can also unite or divide people. He identified three types of authority: traditional, charismatic and rational-legal. Unlike Marx, he saw no polarisation and expected the middle class to expand. **Contribution:** Weber stressed understanding the meanings behind social action. In *The Protestant Ethic and the Spirit of Capitalism* (1904-05) he argued that religious ideas helped capitalism develop, so ideas, not only economics, can cause change. His focus on meaning influenced later interactionist approaches.
+**Time and place:** Germany, which was industrialising fast and building large state and business bureaucracies. The specification notes he wrote in the early 20th century and died in 1920. **View of the world:** stratification has more than one dimension. Class depends on market situation, which shapes life chances; status (prestige) and party (groups seeking power) can also unite or divide people. He identified three types of authority, which the specification calls three sources of power: traditional, charismatic and rational-legal. Unlike Marx, he saw no polarisation and expected the middle class to expand. **Contribution:** Weber stressed understanding the meanings behind social action. In *The Protestant Ethic and the Spirit of Capitalism* (1904-05) he argued that religious ideas helped capitalism develop, so ideas, not only economics, can cause change. His focus on meaning influenced later interactionist approaches.
 
 **Evaluation:** his model fits modern societies with large professional and service classes. Marxists reply that ownership is still the main division, and the specification notes New Right critics accuse both traditions of bias.
 
@@ -133,11 +133,11 @@ The general pattern: functionalism was influential in the mid-20th century; conf
 
 ## The interrelationship between the core areas
 
-The core areas of families, education, crime and deviance and social stratification are linked, and answers that make these links show understanding. Social class affects family life, educational achievement (Halsey), the risk of being labelled or criminalised (Cohen, Becker) and life chances. Gender links Oakley's housework research to Heidensohn on social control and Walby on paid work. Socialisation starts in the family and continues in school; when it breaks down, functionalists link this to crime.
+The core areas of families, education, crime and deviance and social stratification are linked, and answers that make these links show understanding. Social class affects family life, educational achievement (Halsey), explanations of crime (Cohen on status frustration), the risk of being labelled (Becker) and life chances. Gender links Oakley's housework research to Heidensohn on social control and Walby on paid work. Socialisation starts in the family and continues in school; when it breaks down, functionalists link this to crime.
 
 ## Using research methods in context
 
-The specification asks you to apply methods to each topic, and suggests teachers may set small-scale projects so you see the practical difficulties researchers face. Theory often guides method: Durkheim's scientific approach favoured statistics, while interactionists prefer qualitative methods such as Ball's participant observation. The full content is in our [research methods guide](/resources/aqa-gcse-sociology-research-methods/).
+The specification asks you to apply methods to each topic, and suggests teachers may set small-scale projects so you see the practical difficulties researchers face. Theory often guides method: Durkheim's scientific approach favoured statistics, while interactionists prefer qualitative methods such as participant observation, the method Ball used at Beachside. The full content is in our [research methods guide](/resources/aqa-gcse-sociology-research-methods/).
 
 ## Common errors
 

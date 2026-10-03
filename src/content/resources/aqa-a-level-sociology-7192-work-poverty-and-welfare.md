@@ -22,7 +22,7 @@ publishedDate: 2026-09-29
 featured: false
 ---
 
-This guide covers Work, Poverty and Welfare for AQA A-level Sociology (7192), using the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). The topic is section 3.2.4 in the specification-at-a-glance list (the A-level subject content chapter numbers it 4.2.4). It is one of the four Option 1 topics on Paper 2: Topics in Sociology, which the specification sets as a 2 hour written exam, 80 marks, 33.3% of the A-level.
+This guide covers Work, Poverty and Welfare for AQA A-level Sociology (7192), using the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). The topic is section 4.2.4 of the specification (the specification-at-a-glance list also shows it as 3.2.4). It is one of the four Option 1 topics on Paper 2: Topics in Sociology, which the specification sets as a 2 hour written exam, 80 marks, 33.3% of the A-level.
 
 Use it with the [revision notes](/resources/aqa-a-level-sociology-7192-work-poverty-and-welfare-revision-notes/), the [practice questions](/resources/aqa-a-level-sociology-7192-work-poverty-and-welfare-practice/), the [AQA A-level Sociology hub](/boards/aqa/a-level/sociology/) and the [7192 checklist](/checklists/aqa/a-level/sociology/).
 
@@ -30,11 +30,11 @@ Use it with the [revision notes](/resources/aqa-a-level-sociology-7192-work-pove
 
 | Syllabus reference | What you must know or be able to do (from the document) | Where assessed |
 |---|---|---|
-| 3.2.4, point 1 | The nature, existence and persistence of poverty in contemporary society | Paper 2, Section A |
-| 3.2.4, point 2 | The distribution of poverty, wealth and income between different social groups | Paper 2, Section A |
-| 3.2.4, point 3 | Responses and solutions to poverty by the state and by private, voluntary and informal welfare providers in contemporary society | Paper 2, Section A |
-| 3.2.4, point 4 | Organisation and control of the labour process, including the division of labour, the role of technology, skill and de-skilling | Paper 2, Section A |
-| 3.2.4, point 5 | The significance of work and worklessness for people's lives and life chances, including the effects of globalisation | Paper 2, Section A |
+| 4.2.4, point 1 | The nature, existence and persistence of poverty in contemporary society | Paper 2, Section A |
+| 4.2.4, point 2 | The distribution of poverty, wealth and income between different social groups | Paper 2, Section A |
+| 4.2.4, point 3 | Responses and solutions to poverty by the state and by private, voluntary and informal welfare providers in contemporary society | Paper 2, Section A |
+| 4.2.4, point 4 | Organisation and control of the labour process, including the division of labour, the role of technology, skill and de-skilling | Paper 2, Section A |
+| 4.2.4, point 5 | The significance of work and worklessness for people's lives and life chances, including the effects of globalisation | Paper 2, Section A |
 | All topics in 4.2 | Relate each area to the two core themes; study both the evidence and the explanations | Paper 2 |
 
 ## How Paper 2 is set out
@@ -51,19 +51,20 @@ AO1 is knowledge and understanding, AO2 is application, and AO3 is analysis and 
 - **Relative poverty:** being unable to reach the living standard that is normal in your own society at a given time.
 - **Relative low income (UK official measure):** a household income below 60% of the median household income, adjusted for household size.
 
-**Defining and measuring.** Seebohm Rowntree's survey of York in 1899 used a "primary poverty" line based on the cost of a minimum diet and essentials. This is an absolute approach. Peter Townsend's *Poverty in the United Kingdom* (1979) argued instead that poverty is relative. He built a deprivation index of everyday items and activities and found far more poverty than official figures showed. Critics said his choice of items was arbitrary. Joanna Mack and Stewart Lansley's *Poor Britain* (1985) used a "consensual" approach: the public decided which items were necessities, and poverty meant being unable to afford them.
+**Defining and measuring.** Seebohm Rowntree's survey of York in 1899 used a "primary poverty" line based on the cost of a minimum diet and essentials. This is an absolute approach. Peter Townsend's *Poverty in the United Kingdom* (1979) argued instead that poverty is relative. He built a deprivation index of everyday items and activities and found an income level below which people's participation in normal life fell sharply. Critics said his choice of items was arbitrary and ignored choice. Joanna Mack and Stewart Lansley's *Poor Britain* (1985) used a "consensual" approach: the public decided which items were necessities, and poverty meant being unable to afford them.
 
-**Why poverty persists: cultural explanations.** Oscar Lewis, studying poor families in Mexico and Puerto Rico, described a "culture of poverty": fatalism, present-time orientation and weak ties to mainstream institutions, passed between generations. The New Right writer Charles Murray (*The Emerging British Underclass*, 1990) argued that generous welfare had created an "underclass" marked by worklessness, lone parenthood and crime.
+**Why poverty persists: cultural explanations.** Oscar Lewis, studying poor families in Mexico and Puerto Rico, described a "culture of poverty": feelings of marginality, helplessness and dependency, and a sense that mainstream institutions do not serve the poor, passed on to children. The New Right writer Charles Murray (*The Emerging British Underclass*, 1990) argued that generous welfare had created an "underclass" marked by worklessness, lone parenthood and crime.
 
-**Why poverty persists: structural explanations.** Townsend and other social democratic writers point to low pay, unemployment, inadequate benefits and unequal access to resources. Marxists such as John Westergaard and Henrietta Resler (*Class in a Capitalist Society*, 1975) argue that poverty is built into capitalism: a pool of low-paid and unemployed workers keeps wages down and disciplines the workforce.
+**Why poverty persists: structural explanations.** Townsend and other social democratic writers point to low pay, unemployment, inadequate benefits and unequal access to resources. Marxists such as John Westergaard and Henrietta Resler (*Class in a Capitalist Society*, 1975) see poverty as part of the class inequality built into capitalism. Marxists also argue that a pool of low-paid and unemployed workers keeps wages down.
 
 **Evaluation.**
 - Hyman Rodman (1963) argued that the poor share mainstream values but "stretch" them to fit their situation, which challenges the idea of a separate culture.
-- Robert MacDonald and Jane Marsh (*Disconnected Youth?*, 2005), researching young people on Teesside, found no distinct underclass culture; most moved between poor jobs and unemployment while still valuing work.
-- Tracy Shildrick and colleagues (Joseph Rowntree Foundation, 2012), working in Glasgow and Middlesbrough, could not find any families with three generations who had never worked.
+- Robert MacDonald and Jane Marsh (*Disconnected Youth?*, 2005) studied young people in a poor British neighbourhood and questioned the welfare-dependent underclass idea.
+- Tracy Shildrick and colleagues (Joseph Rowntree Foundation, 2012), working in Glasgow and Middlesbrough, could not find any families with three generations who had never worked, and found young people committed to conventional values about work.
+- Supporters reply that small local studies cannot rule out dependency elsewhere, and that the poverty trap weakens work incentives.
 
 **Worked paragraph (persistence of poverty).**
-> Cultural theorists such as Murray argue that poverty persists because welfare dependency creates an underclass with different values (knowledge). Applied to an estate where several generations of a family have claimed benefits, this view would explain the pattern by values learned at home rather than by a lack of jobs (application). However, it rests on the assumption that values cause behaviour, when behaviour may be a response to blocked opportunities (analysis). Shildrick et al.'s research found no three-generation workless families and found that young people held conventional attitudes to work, which suggests structural barriers such as poor local labour markets are the stronger explanation (evaluation).
+> Cultural theorists such as Murray argue that poverty persists because welfare dependency creates an underclass with different values (knowledge). Applied to an estate where several generations of a family have claimed benefits, this view would explain the pattern by values learned at home rather than by a lack of jobs (application). However, it rests on the assumption that values cause behaviour, when behaviour may be a response to blocked opportunities (analysis). Shildrick et al.'s research found no three-generation workless families and found that young people held conventional attitudes to work, which suggests that structural barriers such as poor local labour markets may matter more (evaluation).
 
 ## 2. The distribution of poverty, wealth and income
 
@@ -72,12 +73,12 @@ AO1 is knowledge and understanding, AO2 is application, and AO3 is analysis and 
 - **Income:** a flow of money over time, such as wages, benefits, pensions or interest.
 - **Wealth:** a stock of assets at one point, such as property, pensions, shares and savings.
 
-**Patterns.** Official UK data show wealth is far more unequally spread than income, because wealth builds up and is inherited. Groups more likely to be in poverty include children, lone-parent families (most of them headed by women), disabled people, people in low-paid or insecure work, and some minority ethnic groups, notably people of Pakistani and Bangladeshi heritage. Check current figures (for example, the government's *Households Below Average Income* statistics) before quoting numbers.
+**Patterns.** Wealth is far more unequally spread than income, because wealth builds up and is inherited. Groups more likely to be in poverty include children, lone-parent families (most of them headed by women), disabled people, people in low-paid or insecure work, and some minority ethnic groups, notably people of Pakistani and Bangladeshi heritage. Check current *Households Below Average Income* figures before quoting numbers.
 
 **Explanations by group.**
 - **Gender:** feminists link women's higher risk to unpaid caring, part-time and low-paid work, and longer lives on lower pensions. Jan Pahl's research on household money (*Money and Marriage*, 1989) showed that income is not always shared equally inside households, so some women experience "hidden" poverty.
 - **Ethnicity:** explanations include discrimination in hiring and concentration in low-paid sectors.
-- **Class and wealth:** Marxists argue that the concentration of wealth at the top reflects ownership of capital. Thomas Piketty (*Capital in the Twenty-First Century*) argued that when the return on capital is higher than economic growth, wealth inequality tends to widen.
+- **Class and wealth:** Marxists argue that the concentration of wealth at the top reflects ownership of capital. Thomas Piketty (*Capital in the Twenty-First Century*) argued that when the return on capital is higher than economic growth, wealth inequality tends to widen; critics dispute how well the evidence supports this.
 
 **Evaluation.** Poverty rates change depending on whether housing costs are counted, and groups overlap (intersectionality). New Right writers argue that wealth inequality rewards risk-taking; Marxists and feminists see it as a sign of unequal power.
 
@@ -103,7 +104,7 @@ AO1 is knowledge and understanding, AO2 is application, and AO3 is analysis and 
 - **Feminist:** welfare has often assumed a male breadwinner and relied on women's unpaid care.
 - **Comparative:** Gøsta Esping-Andersen (*The Three Worlds of Welfare Capitalism*, 1990) grouped welfare states into liberal, conservative and social democratic types. He placed the UK closest to the liberal model.
 
-**Evaluation.** John Hills (*Good Times, Bad Times*, 2014) challenged the "strivers and skivers" split by showing that most people both pay into and draw from the welfare state over their lifetimes. Supporters of welfare pluralism stress choice and local knowledge; critics say voluntary help is patchy and informal care burdens women.
+**Evaluation.** John Hills (*Good Times, Bad Times*, 2014) challenged the "them and us" view of welfare, arguing that most people both pay into and draw from the welfare state over their lifetimes. Supporters of welfare pluralism stress choice and local knowledge; critics say voluntary help is patchy and informal care burdens women.
 
 **Worked paragraph (welfare pluralism).**
 > Welfare pluralism means the state shares responsibility with private, voluntary and informal providers (knowledge). A town where food banks and church groups now provide emergency food shows the voluntary sector filling gaps left by benefit delays (application). New Right thinkers see this as healthy, because communities take responsibility rather than relying on the state (analysis). However, social democrats argue that voluntary help is uneven and depends on donations, so it cannot guarantee a minimum standard in the way a legal entitlement can (evaluation).
@@ -120,15 +121,15 @@ AO1 is knowledge and understanding, AO2 is application, and AO3 is analysis and 
 **Theories.**
 - **Durkheim** (*The Division of Labour in Society*, 1893) saw specialisation as a basis for "organic solidarity", but warned of anomie without shared rules.
 - **Marx** argued that capitalist work is alienating because workers lack control over the product and the process.
-- **Harry Braverman** (*Labor and Monopoly Capital*, 1974) argued that managers use Taylorism and machinery to take knowledge away from workers, deskilling both manual and office work so that it is cheaper and easier to control.
-- **Robert Blauner** (*Alienation and Freedom*, 1964) argued that alienation depends on technology. It is low in craft work, highest on the assembly line, and falls again in automated process industries: an "inverted U".
+- **Harry Braverman** (*Labor and Monopoly Capital*, 1974) argued that managers use Taylorism and machinery to take knowledge away from workers, deskilling work so that it is cheaper and easier to control.
+- **Robert Blauner** (*Alienation and Freedom*, 1964) compared industries using different technologies and argued that alienation depends on technology. He took an optimistic view: as technology develops, tasks become more complex, need more skill and give workers more discretion.
 - **Post-Fordism:** Michael Piore and Charles Sabel (*The Second Industrial Divide*, 1984) described "flexible specialisation", with skilled workers using adaptable technology. John Atkinson's "flexible firm" model splits staff into a skilled, secure core and a peripheral group on temporary or part-time terms.
 - **Emotional labour:** Arlie Hochschild (*The Managed Heart*, 1983) showed that service workers such as flight attendants are trained to manage their feelings for profit.
 
-**Evaluation.** Duncan Gallie's survey research (1991) found more employees reporting rising than falling skill demands, though gains were uneven between classes, suggesting polarisation rather than general deskilling. Critics also say Braverman ignored worker resistance. Critics of post-Fordism argue that flexibility for employers often means insecurity for workers.
+**Evaluation.** Duncan Gallie's analysis of national survey data (1991) found little evidence of widespread deskilling in the 1980s, but a marked tendency towards polarisation of skills. Critics also say Braverman ignored worker resistance. Critics of post-Fordism argue that flexibility for employers often means insecurity for workers.
 
 **Worked paragraph (technology and skill).**
-> Braverman argued that capitalists use technology to deskill work and increase control (knowledge). In a call centre where scripts and software dictate each step of a call, workers have little room to use their own judgement (application). This supports the view that technology is used to cut labour costs rather than to raise skill (analysis). However, Gallie's survey evidence points to upskilling for many workers, and Blauner showed that some technologies reduce alienation, so the effect of technology depends on how it is used and on the type of work (evaluation).
+> Braverman argued that capitalists use technology to deskill work and increase control (knowledge). In a call centre where scripts and software dictate each step of a call, workers have little room to use their own judgement (application). This supports the view that technology is used to cut labour costs rather than to raise skill (analysis). However, Gallie's survey evidence found little widespread deskilling, and Blauner argued that more advanced technology can raise skill and discretion, so the effect of technology depends on how it is used and on the type of work (evaluation).
 
 ## 5. The significance of work and worklessness, including globalisation
 
@@ -138,9 +139,9 @@ AO1 is knowledge and understanding, AO2 is application, and AO3 is analysis and 
 - **Latent functions of employment:** the hidden benefits of a job beyond the wage.
 - **Precarious work:** insecure work such as zero-hours contracts and agency or gig work.
 
-**Work and identity.** Marie Jahoda, with Paul Lazarsfeld and Hans Zeisel, studied the Austrian village of Marienthal after its main factory closed in the early 1930s. She later argued (*Employment and Unemployment*, 1982) that jobs give people a time structure, social contact, a sense of shared purpose, status and identity, and regular activity. Losing these explains much of the harm of unemployment. Zygmunt Bauman (*Work, Consumerism and the New Poor*, 1998) argued that identity now comes more from consumption.
+**Work and identity.** Marie Jahoda, with Paul Lazarsfeld and Hans Zeisel, studied mass unemployment in the Austrian industrial community of Marienthal in the early 1930s. She later argued (*Employment and Unemployment*, 1982) that jobs give people a time structure, social contact, a sense of shared purpose, status and identity, and regular activity. Losing these explains much of the harm of unemployment. Zygmunt Bauman (*Work, Consumerism and the New Poor*, 1998) argued that identity now comes more from consumption.
 
-**Life chances.** Shildrick et al. (*Poverty and Insecurity*, 2012) described a "low-pay, no-pay" cycle in which people move between short-term jobs and benefits. Guy Standing (*The Precariat*, 2011) argued that a growing group lacks job security and a clear occupational identity.
+**Life chances.** Shildrick et al. (*Poverty and Insecurity*, 2012) described a "low-pay, no-pay" cycle in which people move between short-term jobs and benefits. Guy Standing (*The Precariat*, 2011) argued that a growing group lacks job security and suffers insecurity of identity.
 
 **Globalisation.** Deindustrialisation and offshoring removed many manual jobs from older industrial areas in the UK. Richard Sennett (*The Corrosion of Character*, 1998) argued that short-term, flexible work makes it harder to build a stable life story. Supporters reply that globalisation has also created service and knowledge jobs.
 
@@ -153,7 +154,7 @@ AO1 is knowledge and understanding, AO2 is application, and AO3 is analysis and 
 
 - Treating relative poverty as "being poorer than average". It means falling below a living standard that is normal in a society, often measured against a share of the median.
 - Confusing income with wealth. Income is a flow; wealth is a stock.
-- Presenting the underclass idea as fact. It is a contested claim, and studies such as MacDonald and Marsh challenge it.
+- Presenting the underclass idea as fact. It is a contested claim, and studies such as Shildrick et al. challenge it.
 - Writing only about the state in welfare answers. The specification names private, voluntary and informal providers too.
 - Assuming Braverman's deskilling thesis is the only view of the labour process. Bring in Blauner, Gallie and post-Fordism.
 
@@ -161,4 +162,4 @@ Next, try the [practice questions](/resources/aqa-a-level-sociology-7192-work-po
 
 ## Official syllabus
 
-AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021): Work, Poverty and Welfare (3.2.4 in the specification-at-a-glance; 4.2.4 in the A-level subject content), assessed in Paper 2: Topics in Sociology, Section A.
+AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021): Work, Poverty and Welfare (section 4.2.4), assessed in Paper 2: Topics in Sociology, Section A.

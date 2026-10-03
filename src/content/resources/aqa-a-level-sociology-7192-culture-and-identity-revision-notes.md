@@ -74,7 +74,7 @@ These notes cover Culture and Identity for AQA A-level Sociology (7192), from th
 | Hebdige (1979) | Punk style | Objects given new meaning (bricolage) | Based on the analyst's reading, not members' accounts |
 | Parsons | Functionalist socialisation | Family socialises children and stabilises adults | Ignores conflict and abuse within families |
 | Oakley | Gender socialisation | Manipulation and canalisation | Children may resist gendered cues |
-| Sharpe (1976; 1994) | Girls' priorities | Shift from marriage to careers between the 1970s and 1990s | Small samples; may not apply to all groups |
+| Sharpe (1976; 1994) | Girls' priorities | Shift from marriage to careers between the 1970s and 1990s | Working-class London girls; may not apply to all groups |
 | Mead | Self through interaction | Taking the role of the "generalised other" | Says little about structural power |
 | Cooley | Looking-glass self | Self-image from how we think others see us | Hard to test directly |
 | Wrong (1961) | Oversocialised view | People are not puppets of culture | Can understate real constraints |
@@ -82,8 +82,8 @@ These notes cover Culture and Identity for AQA A-level Sociology (7192), from th
 | Giddens (1991) | Reflexive project of the self | People rework identity in late modernity | Overstates choice for poorer groups |
 | Hall (1990; 1992) | Identity as becoming; globalisation | Three outcomes: homogenisation, resistance, hybridity | Outcomes vary by group and place |
 | Oliver (1990) | Social model of disability | Society's barriers disable people | Shakespeare (2006): ignores impairment effects |
-| Modood et al. (1997) | Fourth National Survey | Identity markers vary between and within ethnic groups | Data now dated |
-| Gilroy (1993); Back (1996) | Hybrid identities | Young people mix cultural sources | Can underplay racism |
+| Modood et al. (1997) | Fourth National Survey of Ethnic Minorities | Stressed diversity between minority groups, including in culture and identity | Data now dated |
+| Gilroy (1993); Back (1996) | Hybrid identities | Diasporic "Black Atlantic" culture; young people mixing cultural sources | Can underplay racism |
 | Connell | Hegemonic masculinity | Masculinities are ranked | Concept is hard to measure |
 | Mac an Ghaill (1994) | Crisis of masculinity | Loss of manual jobs unsettles male identity | Not all men experience a crisis |
 | Butler (1990) | Gender performativity | Gender produced by repeated acts | Less on material inequality |
@@ -91,7 +91,7 @@ These notes cover Culture and Identity for AQA A-level Sociology (7192), from th
 | Billig (1995) | Banal nationalism | Everyday reminders reproduce nationhood | Hard to show the effect on individuals |
 | Foucault; Weeks | Constructed sexualities | Sexual categories are historically specific | Essentialists stress orientation is not chosen |
 | Skeggs (1997) | Class and respectability | Working-class women seek respectability | Small, local sample |
-| Savage et al. (2013) | Great British Class Survey | Seven classes from economic, cultural, social capital | Self-selecting online sample |
+| Savage et al. (2013) | Great British Class Survey | Seven classes from economic, cultural, social capital | Main online sample was self-selecting |
 | Pakulski and Waters (1996) | Death of class | Consumption replaces class as identity source | Class still predicts life chances |
 | Veblen (1899) | Conspicuous consumption | Goods display status | Written about an elite, not mass consumers |
 | Bauman (1998) | Flawed consumers | The poor are excluded from consumer society | Supports, not refutes, the role of class |
@@ -146,7 +146,7 @@ These notes cover Culture and Identity for AQA A-level Sociology (7192), from th
 6. Caused: shaped by structures such as class or the economy. Constructed: built and negotiated through interaction and meaning.
 7. An identity damaged by a stigma, which the person has to manage in interaction.
 8. People are disabled by social barriers, not by their impairment itself.
-9. Everyday, unnoticed reminders of nationhood, such as national flags on public buildings.
+9. Everyday, unnoticed reminders of nationhood, such as national flags in everyday places or "the weather" in the national press.
 10. Economic, cultural and social capital.
 11. Homogenisation (erosion), resistance (strengthening) and hybridity (new identities).
 12. Zygmunt Bauman.

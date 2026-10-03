@@ -69,13 +69,13 @@ Using the sociology of personal life, explain how a sociologist might interpret 
 **(a)** Calculate the total dependency ratio (dependants per 100 people aged 16-64) for 2000 and for 2040. **[2]**
 **(b)** Explain two likely consequences of this change for family life in Norvale. **[4]**
 
-**8.** Explain three reasons for the fall in the death rate in the UK since 1900. **[6]**
+**8.** A student in the fictional town of Brackenford says: "People live longer than in 1900 only because doctors got better." Explain three factors, including at least one that is not medical, that help account for the fall in the UK death rate since 1900. **[6]**
 
 **9.** Read the item.
 
 > In the fictional country of Valdoria, the government has introduced a tax allowance for married couples, free nursery places from age two, and a rule that only the higher earner in a couple can claim child-related benefits.
 
-Using the item and your knowledge, analyse two ways in which state policies may shape family structures and relationships. **[10]**
+Using the item and your knowledge, analyse two likely effects of Valdoria's policies on who lives together and how partners share money and care. **[10]**
 
 **10.** Evaluate the view that the neo-conventional family remains the norm in the UK today. **[12]**
 
@@ -107,11 +107,11 @@ Using the item and your knowledge, analyse two ways in which state policies may 
 *Examiner insight:* show the working for a ratio so your method is clear, and state what the ratio means in words.
 
 **8.** Improved nutrition raised resistance to infection, as McKeown (1976) argued [1], reducing deaths from diseases such as tuberculosis [1]. Public health measures such as clean water, sewers and better housing [1] cut the spread of infectious disease [1]. Medical advances and the NHS from 1948 [1] widened access to vaccination and treatment [1]. **[6]**
-*Examiner insight:* "explain" needs each reason linked to how it reduced deaths, not a list of three factors.
+*Examiner insight:* "explain" needs each factor linked to how it reduced deaths, and here a non-medical factor, not a list of three causes.
 
 Questions 9 to 11 are extended answers. The real exam marks these with levels of response, not point by point; the points below show indicative content only.
 
-**9.** *Way 1, marriage incentives.* The tax allowance rewards marriage [1], which may encourage couples to marry rather than cohabit [1]. The New Right would support this as strengthening the conventional family [1]. Critics argue it penalises lone parents and cohabiting couples [1], so policy can reduce the acceptance of diversity [1]. *Way 2, care and gender roles.* Free nursery places from age two make it easier for both parents to work [1], supporting a neo-conventional, dual-earner family [1]. But giving benefits only to the higher earner may give men more control of money [1], which links to Pahl's work on financial power [1]. Feminists would argue that such rules assume a male breadwinner and reinforce women's dependence [1]. **[10]**
+**9.** *Effect 1, marriage incentives.* The tax allowance rewards marriage [1], which may encourage couples to marry rather than cohabit [1]. The New Right would support this as strengthening the conventional family [1]. Critics argue it penalises lone parents and cohabiting couples [1], so policy can reduce the acceptance of diversity [1]. *Effect 2, care and gender roles.* Free nursery places from age two make it easier for both parents to work [1], supporting a neo-conventional, dual-earner family [1]. But giving benefits only to the higher earner may give men more control of money [1], which links to Pahl's work on financial power [1]. Feminists would argue that such rules assume a male breadwinner and reinforce women's dependence [1]. **[10]**
 *Examiner insight:* the item gives three policies; the best answers use at least two and analyse their effects, not just describe them.
 
 **10.** Indicative content: Chester (1985) argues most people live in a nuclear family at some stage of the life course [1]. Snapshot statistics overstate diversity because people pass through stages [1]. The neo-conventional family is dual-earner, reflecting women's employment [1]. Against this, the Rapoports identify five types of diversity [1], including cultural and class differences [1]. Rising cohabitation, divorce and lone parenthood suggest the nuclear family is less dominant [1]. Same-sex marriage since 2013 shows legal recognition of new forms [1]. Postmodernists such as Stacey argue there is no dominant type [1]. Giddens' pure relationship suggests relationships are chosen and fragile [1]. Critics reply that postmodernists exaggerate choice [1]. Smart's personal life approach questions whether household type is the right measure at all [1]. Judgement: the neo-conventional family is common over the life course, but it is no longer the only accepted form [1]. **[12]**

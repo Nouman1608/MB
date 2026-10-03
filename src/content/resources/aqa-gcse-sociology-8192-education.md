@@ -83,8 +83,7 @@ Parsons ("The school class as a social system") saw the school as a **bridge bet
 | Secondary | Usually ages 11 to 16 or 18 |
 | State | Funded by taxation, free to attend; includes comprehensive schools, academies and free schools |
 | Selective (grammar) | State schools that select by an entrance test such as the eleven plus |
-| Private (independent, fee-paying) | Funded mainly by fees; the oldest and most famous are called "public schools" |
-| Special | For pupils with particular educational needs |
+| Private (independent, fee-paying) | Funded mainly by fees |
 
 The **tripartite system** set up after the Education Act 1944 used the eleven plus to send pupils to grammar, secondary technical or secondary modern schools. Most areas later moved to comprehensive schools, which take pupils of all abilities.
 
@@ -92,8 +91,6 @@ The **tripartite system** set up after the Education Act 1944 used the eleven pl
 
 - **Home schooling:** parents educate their child at home instead of sending them to school. In England this is legal, but parents must make sure the child receives a suitable full-time education.
 - **De-schooling:** the idea, linked to Ivan Illich (*Deschooling Society*, 1971), that formal schooling should be replaced. Illich argued schools teach pupils to depend on institutions and confuse being taught with learning.
-
-Home schooling moves education out of school; de-schooling criticises schooling itself.
 
 ### Worked paragraph (knowledge, application, analysis, evaluation)
 
@@ -165,7 +162,7 @@ Class, gender and ethnicity overlap. A good answer asks how much of an "ethnic" 
 
 ### Ball on parental choice and competition between schools
 
-**Ball, Bowe and Gewirtz** ("Market forces and parental choice", 1994) studied fifteen schools in neighbouring local education authorities (LEAs) with different class and ethnic profiles. They looked at the effects of **parental choice** and **league tables** (the **marketisation of education**). Schools felt pressure to **reintroduce streaming and setting** and some tended to **focus on the more able**, who improve a school's results. Ball and his colleagues argued that middle-class parents were better placed to use choice, so the market could widen class inequality.
+**Ball, Bowe and Gewirtz** ("Market forces and parental choice", 1994; the specification prints the name as "Gerwitz") studied fifteen schools in neighbouring local education authorities (LEAs) with different class and ethnic profiles. They looked at the effects of **parental choice** and **league tables** (the **marketisation of education**). Schools felt pressure to **reintroduce streaming and setting** and some tended to **focus on the more able**, who improve a school's results. In a related book (*Markets, Choice and Equity in Education*, 1995), Gewirtz, Ball and Bowe argued that middle-class parents were better placed to use choice, so the market could widen class inequality.
 
 ### Perspectives
 
@@ -190,7 +187,7 @@ Class, gender and ethnicity overlap. A good answer asks how much of an "ethnic" 
 
 ### Ball on teacher expectations
 
-Ball (*Beachside Comprehensive*, 1981) spent three years as a **participant observer** in a south coast comprehensive. He followed two cohorts: one **banded by ability** and one taught in **mixed ability** classes. Band 1 pupils, mostly middle class, met higher teacher expectations and were encouraged to be academic. Lower bands were seen as less able and tended to become anti-school. When mixed ability teaching was introduced, this division eased, but teachers still expected more of middle-class pupils, so class differences continued.
+Ball (*Beachside Comprehensive*, 1981) spent three years as a **participant observer** in a south coast comprehensive. He followed two cohorts: one **banded by ability** and one taught in **mixed ability** classes. Middle-class pupils were more likely than working-class pupils of similar ability to be placed in band 1, which met higher teacher expectations. Band 2 pupils were steered towards easier exams and practical subjects, and were the most likely to develop anti-school attitudes. The mixed ability cohort lets you compare the two ways of grouping pupils.
 
 **Evaluation.** Participant observation gives detailed, valid data. But this is one school, so it may not be representative, and the researcher's presence can change behaviour.
 
@@ -214,7 +211,7 @@ Willis (*Learning to Labour*, 1977) studied twelve working-class boys, "the lads
 
 ### Worked paragraph
 
-> Ball found that when Beachside used banding, band 1 pupils, who were mostly middle class, received higher expectations. In a school that sets Year 9 maths by a test, a working-class pupil placed in a low set may be given easier work and come to see themselves as weak at maths, which is a self-fulfilling prophecy. This shows how an internal process can turn a label into lower achievement. However, Ball also found that class differences continued under mixed ability teaching, so setting alone cannot explain the gap.
+> Ball found that at Beachside middle-class pupils were more likely to be placed in band 1, which received higher expectations. In a school that sets Year 9 maths by a test, a working-class pupil placed in a low set may be given easier work and come to see themselves as weak at maths, which is a self-fulfilling prophecy. This shows how an internal process can turn a label into lower achievement. However, Beachside was a single school, and factors outside school, such as material deprivation, also shape achievement.
 
 ## Common errors
 

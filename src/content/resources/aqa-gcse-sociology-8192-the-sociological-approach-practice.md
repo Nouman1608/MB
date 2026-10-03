@@ -94,7 +94,7 @@ Using the item and interactionist ideas, explain how labelling may have affected
 
 **5. (a)** The family [1]. **[1]**
 **(b)** 72 + 40 = 112 students; 112 ÷ 160 × 100 [1] = 70% [1]. **[2]**
-**(c)** The sample came from one school in one town, so it may not represent young people in other areas, regions or types of school [1]; the students were all in Year 11, so younger or older people might name different agencies [1]. **[2]**
+**(c)** The sample came from one school in one town [1], so it may not represent young people in other areas, regions or types of school, where family, religion or local culture may play a different part [1]. **[2]**
 *Examiner insight:* For part (c), tie the reason to the survey's actual details (one school, one year group), not a general point about surveys.
 
 **6.** A functionalist would see the rule as teaching shared norms and values, such as following rules and respecting the school community [1], which builds social cohesion and prepares pupils for life in wider society, as Durkheim argued [1]. A Marxist would see it as teaching obedience to authority [1], which corresponds to the workplace, where workers must follow rules they did not choose, as Bowles and Gintis argue [1]. **[4]**

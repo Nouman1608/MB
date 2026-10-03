@@ -156,7 +156,7 @@ Revise first with the [study guide for this unit](/resources/oxfordaqa-igcse-geo
 *Examiner insight:* weakness questions need the effect on the reader explained; naming "truncated axis" alone gains only half the marks.
 
 **10. (a)** Use a digital thermometer held at the same height above the ground at each site [1] and record readings after the display settles, for the same length of time at each site [1].
-**(b)** Stratified sampling [1]: choose an equal number of sites on tarmac and on grass [1], so both surfaces are fairly represented and can be compared [1].
+**(b)** Stratified sampling [1]: divide the site into tarmac and grass areas and choose sample points within each surface [1], so both surfaces are represented and can be fairly compared [1].
 **(c)** Risk: vehicles in the school car park on tarmac sites [1]. Reduce it by working in pairs with one person watching for traffic, or by measuring when the car park is closed [1].
 **(d)** The data supports the hypothesis: tarmac was 1.8°C warmer [1]. However, readings were taken at one time on one sunny day [1], so results may differ on cloudy days or in the morning [1]. Five readings is a small sample, and shade from buildings may affect some sites, so the conclusion is only partly reliable [1].
 *Examiner insight:* "evaluate" needs a judgement; finish with how reliable the conclusion is, not just a list of problems.

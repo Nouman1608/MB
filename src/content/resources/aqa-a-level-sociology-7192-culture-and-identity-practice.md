@@ -122,7 +122,7 @@ Using this scenario, explain whether the Lantern Kids are better understood as a
 - Connell's hegemonic masculinity shows a dominant ideal that still ranks and polices other masculinities [1].
 - Mac an Ghaill links male identity to the economy, showing structure as well as choice [1].
 - Feminists note that unequal pay and care work limit women's choices [1].
-- Class and ethnicity shape which gender identities are seen as "respectable", as Skeggs found [1].
+- Class shapes which femininities are seen as "respectable", as Skeggs found among working-class women [1].
 - Interactionists show identities are negotiated with others, not simply chosen [1].
 - Choice may be greater in some settings, such as cities, than others [1].
 - Conclusion: there is more visible variety, but structures and socialisation still constrain choice [1]. **[15]**
@@ -132,10 +132,10 @@ Using this scenario, explain whether the Lantern Kids are better understood as a
 **11.** Indicative content. The real exam marks extended answers with levels of response, not point by point; the points below show the kind of material that gains credit.
 
 - Define ethnic identity as identification with a group sharing culture, such as religion, language or history [1].
-- Hybridity: Gilroy and Back describe young people mixing cultural sources [1], suggesting more choice [1].
+- Hybridity: Gilroy and Back describe hybrid identities that mix cultural sources, and Back studied this among young people [1], suggesting more choice [1].
 - Hall argues identity is "becoming" as well as "being", so it changes over time [1].
 - Postmodernists see ethnicity as one option among many in a pick-and-mix identity [1].
-- Modood et al. found identity markers vary within groups, which shows individual variation [1].
+- Modood et al.'s Fourth National Survey stressed diversity between minority groups, so there is no single "ethnic" identity to choose or reject [1].
 - Against: socialisation in family and religious communities shapes ethnic identity early [1].
 - Racism and labelling by others limit choice; Jenkins's external side of identity applies [1].
 - Some young people strengthen ethnic or religious identity as resistance to exclusion [1].

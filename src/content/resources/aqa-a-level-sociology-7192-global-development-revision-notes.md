@@ -24,7 +24,7 @@ featured: false
 
 Read the [Global development study guide](/resources/aqa-a-level-sociology-7192-global-development/) first; these notes condense it for last-stage revision.
 
-These notes cover Global Development, section 3.2.6 of the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021), printed as 4.2.6 in the A-level subject content. It is assessed in A-level Paper 2: Topics in Sociology (2 hours, 80 marks, 33.3% of the A-level). The specification states that Section A is "one from option 1: 4.2.1, 4.2.2, 4.2.3 or 4.2.4" and Section B is "one from option 2: 4.2.5, 4.2.6, 4.2.7 or 4.2.8"; Global Development is in option 2, so you answer it in Section B ("extended writing, 40 marks").
+These notes cover Global Development, section 4.2.6 of the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021), listed as 3.2.6 in the specification at a glance. It is assessed in A-level Paper 2: Topics in Sociology (2 hours, 80 marks, 33.3% of the A-level). The specification states that Section A is "one from option 1: 4.2.1, 4.2.2, 4.2.3 or 4.2.4" and Section B is "one from option 2: 4.2.5, 4.2.6, 4.2.7 or 4.2.8"; Global Development is in option 2, so you answer it in Section B ("extended writing, 40 marks").
 
 Test yourself afterwards with the [Global development practice questions](/resources/aqa-a-level-sociology-7192-global-development-practice/). The [AQA A-level Sociology hub](/boards/aqa/a-level/sociology/) and the [AQA A-level Sociology checklist](/checklists/aqa/a-level/sociology/) list the rest of the course.
 
@@ -78,7 +78,7 @@ The specification also requires you to link every topic to the two core themes (
 | Sklair | Transnational capitalist class | Global elites share interests across borders | Elites also compete with each other |
 | Hayter (1971) | Aid as imperialism | Aid serves donor interests | Ignores life-saving humanitarian aid |
 | Sachs (2005) | Pro-aid | Large targeted aid can break poverty traps | Critics doubt top-down planning |
-| Moyo (2009) | Anti-aid | State-to-state aid breeds dependency and corruption | Collier: overstates alternative finance |
+| Moyo (2009) | Anti-aid | State-to-state aid breeds dependency and corruption | Underplays clear gains from health and emergency aid |
 | Collier (2007) | Four traps | Conflict, natural resources, landlocked, bad governance | Focuses on internal causes over global ones |
 | Davis (2006) | Planet of Slums | Urban growth without jobs creates slums | Some migrants still gain from city life |
 | Kaldor | New wars | Intra-state conflicts, identity politics, civilian targets | Disputed how "new" these are |
@@ -155,4 +155,4 @@ Green and state crime overlap with this topic in [crime and deviance revision no
 
 ## Official syllabus
 
-AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021): section 3.2.6 Global Development (4.2.6 in the A-level subject content), A-level Paper 2: Topics in Sociology, Section B.
+AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021): section 4.2.6 Global Development, A-level Paper 2: Topics in Sociology, Section B.

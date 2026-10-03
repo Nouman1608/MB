@@ -22,7 +22,7 @@ publishedDate: 2026-09-29
 featured: false
 ---
 
-This guide covers Global Development, section 3.2.6 of the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). In the A-level subject content and the Paper 2 option list the same topic is printed as 4.2.6. It is assessed in A-level Paper 2: Topics in Sociology, a 2 hour written exam worth 80 marks and 33.3% of the A-level. Global Development is an A-level option only: it is not one of the four topics listed for AS Paper 2.
+This guide covers Global Development, section 4.2.6 of the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021); the specification at a glance also lists it as 3.2.6. It is assessed in A-level Paper 2: Topics in Sociology, a 2 hour written exam worth 80 marks and 33.3% of the A-level. Global Development is an A-level option only: it is not one of the four topics listed for AS Paper 2.
 
 The specification prints the Paper 2 rule like this: "Section A: one from option 1: 4.2.1, 4.2.2, 4.2.3 or 4.2.4" and "Section B: one from option 2: 4.2.5, 4.2.6, 4.2.7 or 4.2.8". Global Development (4.2.6) sits in option 2, so it is answered in Section B, which the document describes as "extended writing, 40 marks". Your teacher will confirm the question types inside Section B.
 
@@ -32,11 +32,11 @@ Use this guide with the [Global development revision notes](/resources/aqa-a-lev
 
 | Syllabus reference | What you must know or be able to do (from the document) | Where assessed |
 |---|---|---|
-| 3.2.6 (4.2.6), point 1 | Sociological explanations of development, underdevelopment and global inequality | Paper 2, Section B |
-| 3.2.6 (4.2.6), point 2 | Globalisation and its influence on the cultural, political and economic relationships between societies | Paper 2, Section B |
-| 3.2.6 (4.2.6), point 3 | The role of transnational corporations, non-governmental organisations and international agencies in local and global strategies for development | Paper 2, Section B |
-| 3.2.6 (4.2.6), point 4 | Development in relation to aid and trade, industrialisation, urbanisation, the environment, and war and conflict | Paper 2, Section B |
-| 3.2.6 (4.2.6), point 5 | Employment, education, health, demographic change and gender as aspects of development | Paper 2, Section B |
+| 4.2.6, point 1 | Sociological explanations of development, underdevelopment and global inequality | Paper 2, Section B |
+| 4.2.6, point 2 | Globalisation and its influence on the cultural, political and economic relationships between societies | Paper 2, Section B |
+| 4.2.6, point 3 | The role of transnational corporations, non-governmental organisations and international agencies in local and global strategies for development | Paper 2, Section B |
+| 4.2.6, point 4 | Development in relation to aid and trade, industrialisation, urbanisation, the environment, and war and conflict | Paper 2, Section B |
+| 4.2.6, point 5 | Employment, education, health, demographic change and gender as aspects of development | Paper 2, Section B |
 | 4.2 (all topics) | Topic areas in relation to the two core themes; both the evidence of and the sociological explanations for the content; links with other topics | All of Paper 2 |
 | Integral elements | Sociological theories, perspectives and methods; the design of the research used to obtain the data, including its strengths and limitations | All papers |
 
@@ -97,7 +97,7 @@ The specification also requires you to understand "conflict and consensus": mode
 
 ## 4. Aid and trade, industrialisation and urbanisation
 
-**Aid.** Official development assistance flows from governments; tied aid must be spent on goods or services from the donor. Modernisation theory and Jeffrey Sachs (*The End of Poverty*, 2005) support aid as a way to fund take-off. Teresa Hayter (*Aid as Imperialism*, 1971) argued that aid serves donor interests. Dambisa Moyo (*Dead Aid*, 2009) argued that government-to-government aid to Africa breeds dependency and corruption, and proposed alternatives such as bond markets and foreign investment. Paul Collier, in *The Bottom Billion* (2007), identified four traps: the conflict trap, the natural resource trap, being landlocked with bad neighbours, and bad governance in a small country.
+**Aid.** Official development assistance flows from governments; tied aid must be spent on goods or services from the donor. Modernisation theorists support aid as a way to fund take-off, and Jeffrey Sachs (*The End of Poverty*, 2005) argued that large, carefully planned aid can lift the poorest countries out of a poverty trap. Teresa Hayter (*Aid as Imperialism*, 1971) argued that aid serves donor interests. Dambisa Moyo (*Dead Aid*, 2009) argued that government-to-government aid to Africa breeds dependency and corruption, and proposed alternatives such as bond markets and foreign investment. Paul Collier, in *The Bottom Billion* (2007), identified four traps: the conflict trap, the natural resource trap, being landlocked with bad neighbours, and bad governance in a small country.
 - *Evaluation:* humanitarian aid clearly saves lives; the debate is mainly about long-term state-to-state aid.
 
 **Trade.** Neoliberals argue that free trade lets countries specialise. Dependency theorists note that many poorer countries rely on primary products, whose prices can fall against manufactured goods (the Prebisch-Singer thesis). Fair trade schemes aim to give producers a better price, though they reach only a small share of trade.
@@ -145,4 +145,4 @@ Globalisation also appears in [crime and deviance](/resources/a-level-aqa-sociol
 
 ## Official syllabus
 
-AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021): section 3.2.6 Global Development (printed as 4.2.6 in the A-level subject content), assessed in A-level Paper 2: Topics in Sociology, Section B.
+AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021): section 4.2.6 Global Development (listed as 3.2.6 at a glance), assessed in A-level Paper 2: Topics in Sociology, Section B.

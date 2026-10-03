@@ -90,10 +90,10 @@ Test yourself with the [practice questions](/resources/aqa-a-level-sociology-719
 | 1972 | School leaving age raised to 16 | Longer, more separate childhood |
 | 1989 | Children Act; UN Convention on the Rights of the Child | Children's welfare and rights in law |
 | 2013 | Marriage (Same Sex Couples) Act | Legal recognition of same-sex marriage |
-| 2019 | Civil partnerships open to opposite-sex couples (from 31 December) | More legal choice for couples |
+| 2019 | Civil partnerships open to opposite-sex couples (from December) | More legal choice for couples |
 | 2022 | No-fault divorce in effect from 6 April | Divorce without proving fault |
 
-ONS figures worth knowing: 80,057 divorces in England and Wales in 2022, the lowest since 1971; life expectancy at birth of 79.0 for boys and 82.8 for girls in 2011.
+ONS figures worth knowing: 80,057 divorces in England and Wales in 2022, the lowest since 1971; UK life expectancy at birth of 78.6 years for males and 82.6 years for females in 2020 to 2022 (national life tables).
 
 ## Linking to the core themes
 

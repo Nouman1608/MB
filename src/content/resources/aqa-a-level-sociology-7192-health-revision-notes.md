@@ -24,7 +24,7 @@ featured: false
 
 These notes condense the [Health study guide](/resources/aqa-a-level-sociology-7192-health/); go there first if a term or study is new to you.
 
-They follow the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021), A-level section 3.2.3 Health (printed in the PDF's A-level content as 4.2.3). Health is an option 1 topic, assessed in Section A of Paper 2: Topics in Sociology, a 2 hour, 80-mark exam worth 33.3% of the A-level, in which Section A is extended writing worth 40 marks.
+They follow the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021), A-level section 4.2.3 Health (the specification at a glance also lists it as 3.2.3). Health is an option 1 topic, assessed in Section A of Paper 2: Topics in Sociology, a 2 hour, 80-mark exam worth 33.3% of the A-level, in which Section A is extended writing worth 40 marks.
 
 Practise with the [Health practice questions](/resources/aqa-a-level-sociology-7192-health-practice/). The [AQA A-level Sociology hub](/boards/aqa/a-level/sociology/) and the [AQA A-level Sociology checklist](/checklists/aqa/a-level/sociology/) show the full course.
 
@@ -45,11 +45,11 @@ Paper 2 rule, as printed: Section A is "one from option 1: 4.2.1, 4.2.2, 4.2.3 o
 | Biomedical model | Illness is a physical fault in the individual body, diagnosed and cured by doctors using science |
 | Social model of health | Health and illness are shaped by social conditions, meanings and power |
 | Lay definitions | How ordinary people, not doctors, define health and illness |
-| Illness iceberg | Most symptoms are never taken to a doctor |
+| Illness iceberg | Only a small share of cases of illness reach a doctor (Last) |
 | Sick role | Parsons's set of rights and duties for the sick person |
 | Stigma | A discrediting mark that spoils a person's social identity (Goffman) |
 | Impairment / disability | A bodily difference / the exclusion society creates around it (social model) |
-| Body project | Shilling's idea that people shape their bodies as part of their identity |
+| Body project | The idea that people shape their bodies as part of their identity |
 | Health chances | The likelihood of good or poor health over a lifetime |
 | Social gradient | Health worsens step by step down the social scale |
 | Inverse care law | Good care tends to be least available where need is greatest (Tudor Hart) |
@@ -64,27 +64,26 @@ Paper 2 rule, as printed: Section A is "one from option 1: 4.2.1, 4.2.2, 4.2.3 o
 | Who | What | Key point | One evaluation |
 |---|---|---|---|
 | Parsons (1951) | Sick role | Illness is deviance managed by rights and duties; doctor is gatekeeper | Poor fit for chronic illness and stigmatised conditions |
-| Zola (1966) | Culture and symptoms | Irish- and Italian-American patients presented similar symptoms differently | US groups only; dated |
-| Blaxter and Paterson (1982) | Three generations of Scottish women | Working-class mothers saw health as being able to carry on | Small, women-only sample |
+| Last (1963) | The "iceberg" in general practice | Only the tip of illness in the community reaches health services | Recorded illness statistics understate real illness |
+| Blaxter and Paterson (1982) | *Mothers and Daughters* | Health attitudes and behaviour compared across three generations | Mothers and daughters only, so men's lay ideas are missing |
 | Goffman (1963) | Stigma | Conditions can spoil identity; people manage information | Says little about where stigma comes from |
-| UPIAS; Oliver (1990) | Social model of disability | Society disables people with impairments | Shakespeare: underplays real limits of impairment |
-| Scott (1969) | *The Making of Blind Men* | Agencies socialise clients into dependence | Based on US agencies of its time |
-| Black Report (1980) | Class and death rates | Four explanations; favoured material/structural | Some argue it underplayed behaviour and choice |
-| Whitehall studies (Marmot) | Civil service grades | Lower grade, higher death rate; low control matters | Sample of office workers only |
-| Wilkinson and Pickett (2009) | *The Spirit Level* | More unequal societies have worse health | Critics question whether inequality causes the link |
-| Nazroo (1997) | Ethnic minority health | Much of the gap reflects socio-economic disadvantage, plus racism | Ethnic categories group very different people together |
+| UPIAS; Oliver (1983, 1990) | Social model of disability | Society disables people with impairments | Shakespeare: does not match many disabled people's everyday experience of impairment |
+| Black Report (1980) | Class and health inequality | Saw economic inequality as the main cause | Some argue it underplayed behaviour and choice |
+| Acheson Report (1998) | Health inequality | Reached the same conclusions as the Black Report | Inequalities were not reduced in the years that followed |
+| Whitehall studies (Marmot) | Civil service grades | Lowest grade had three times the death rate of the highest; risk factors explain only part | Whitehall I studied men only |
+| Wilkinson and Pickett (2009) | *The Spirit Level* | More unequal rich societies do worse on health and social indicators | Critics question the choice of countries and whether inequality causes the link |
+| Nazroo (1997) | *The Health of Britain's Ethnic Minorities* | Links ethnic health differences to socio-economic disadvantage and racism | Ethnic categories group very different people together |
 | Tudor Hart (1971) | Inverse care law | Care varies inversely with need | NHS reduces cost barriers that markets keep |
-| Navarro (1976); Doyal (1979) | Marxist view | Medicine serves capitalism and hides social causes | Ignores real gains from medicine |
-| Szasz (1961) | Myth of mental illness | Many "illnesses" are problems in living | Understates real suffering |
-| Scheff (1966) | Labelling and mental illness | Labelled rule-breaking can become a career | Does not explain the first behaviour |
-| Rosenhan (1973) | Pseudopatients | Diagnosis can stick regardless of behaviour | Later investigation raised doubts about its data |
-| Brown and Harris (1978) | Depression in Camberwell women | Life events plus vulnerability factors; more common for working-class women | Retrospective recall; women only |
-| Busfield (1996) | Gender and mental illness | Diagnosis reflects gendered ideas of normality | Hard to separate labelling from real difference |
-| Freidson (1970) | Profession of medicine | Doctors use social closure | Strict entry also protects patients |
-| Witz (1992) | Professions and patriarchy | Medicine excluded women; nursing subordinated | Women now form a large share of new doctors |
+| Navarro (1993) | Marxist view | Health care under capitalism serves profit and hides social causes | Ignores real gains from medicine |
+| Szasz (1961) | Myth of mental illness | Psychiatry turns ordinary difficulties of living into "illness" | Understates real distress |
+| Scheff (1966) | *Being Mentally Ill* | Labelling rule-breaking as mental illness can reinforce it | Does not explain the first behaviour |
+| Rosenhan (1973) | Pseudopatients | Diagnosis can stick regardless of behaviour | Cahalan (2019) found inconsistent data and misleading descriptions |
+| Brown and Harris (1978) | Depression in Camberwell women | Severe life events plus vulnerability factors; working-class women more likely to become depressed after a severe event | Retrospective recall; women only |
+| Busfield (1996) | *Men, Women and Madness* | Gender shapes how mental disorder is understood | Hard to separate labelling from real difference |
+| Freidson (1970) | *Profession of Medicine* | Professional dominance over its own work and other health occupations | Strict entry also protects patients |
 | Illich (1975) | Medical nemesis | Clinical, social and cultural iatrogenesis | Overstates harm; ignores clear benefits |
-| McKeown (1976) | Role of medicine | Mortality fell mainly from better nutrition | Szreter: underplays public health |
-| Goldacre (2012) | *Bad Pharma* | Drug companies can shape published evidence | Regulation has since tightened in places |
+| McKeown (1976) | Role of medicine | Mortality fell mainly from better living standards, especially nutrition | Szreter: underplays public health measures |
+| Goldacre (2012) | *Bad Pharma* | Negative trial results often go unpublished, distorting evidence | Focuses on drug trials, not the wider health system |
 
 ## Must-know distinctions
 
@@ -101,11 +100,11 @@ Paper 2 rule, as printed: Section A is "one from option 1: 4.2.1, 4.2.2, 4.2.3 o
 
 **Question type:** "Evaluate sociological explanations of class inequalities in health" (an extended response).
 
-1. **Intro:** define health chances and the social gradient; name the Black Report's four explanations.
+1. **Intro:** define health chances and the social gradient; name the four explanations: artefact, social selection, cultural/behavioural, material/structural.
 2. **Artefact and selection:** explain each; evaluate (the gap remains under different class measures; drift explains only a small share).
 3. **Cultural/behavioural:** smoking, diet, alcohol; evaluate (risk of blaming the victim; behaviour shaped by stress and income).
-4. **Material/structural:** housing, income, hazardous work; supported by Black, Acheson and Marmot; evaluate (does not explain gradient among the non-poor).
-5. **Psychosocial:** Whitehall, Wilkinson and Pickett; evaluate (hard to measure stress; possible causes run both ways).
+4. **Material/structural:** housing, income, hazardous work; the Black Report saw economic inequality as the main cause, and Acheson reached the same conclusions; evaluate (does not explain gradient among the non-poor).
+5. **Psychosocial:** Whitehall, Wilkinson and Pickett; evaluate (hard to measure stress; critics question the evidence that inequality itself causes ill health).
 6. **Theory link:** Marxist view of capitalism and health; New Right emphasis on individual responsibility.
 7. **Methods comment:** official statistics on death certificates and occupation; strengths and limits.
 8. **Conclusion:** a judgement on which explanations work together, backed by your strongest evidence.
@@ -115,7 +114,7 @@ Paper 2 rule, as printed: Section A is "one from option 1: 4.2.1, 4.2.2, 4.2.3 o
 1. Name the two rights and two duties of Parsons's sick role.
 2. What is the illness iceberg?
 3. Who separated impairment from disability, and how?
-4. Give the four explanations of class inequality in the Black Report.
+4. Give four sociological explanations of class inequalities in health.
 5. What did the Whitehall studies find?
 6. State the inverse care law.
 7. What is the difference between a realist and a social constructionist view of mental illness?
@@ -128,26 +127,26 @@ Paper 2 rule, as printed: Section A is "one from option 1: 4.2.1, 4.2.2, 4.2.3 o
 ### Answers
 
 1. Rights: exemption from normal roles; not being blamed. Duties: want to get well; seek and cooperate with competent help.
-2. The idea that most symptoms are never reported to a doctor, so recorded illness is only the visible tip.
-3. UPIAS in the 1970s, later named the social model by Oliver: impairment is the bodily difference; disability is the exclusion society creates.
+2. Last's (1963) idea that only a small proportion of cases of illness reach health services, so recorded illness is only the visible tip.
+3. UPIAS in the 1970s; Oliver coined "social model of disability" in 1983. Impairment is the bodily difference; disability is the exclusion society creates.
 4. Artefact; social (natural) selection; cultural/behavioural; material/structural.
-5. The lower a civil servant's grade, the higher the death rate, even after common risk factors were allowed for.
+5. The lower a civil servant's grade, the higher the death rate; the lowest grade had three times the death rate of the highest, and risk factors such as smoking explained only part of the gap.
 6. The availability of good medical care tends to vary inversely with the need for it in the population served.
 7. Realists see mental illness as real with identifiable causes; constructionists see it as a label applied by those with power to define.
-8. Any two: no close confiding relationship; three or more young children at home; no paid work outside the home; loss of mother in childhood.
+8. Any two: no intimate confiding relationship; no paid work outside the home; loss of mother before age 11.
 9. Clinical, social and cultural.
-10. Deaths from infectious disease fell mainly because of better nutrition and living standards, not medical treatment.
-11. Doctors control entry to the profession and its knowledge to protect their status and income.
+10. Death rates fell mainly because of better living standards, especially nutrition, not medical treatment.
+11. Freidson describes professional dominance: doctors control their own work and other health occupations. Weberians call this social closure, protecting status and income.
 12. Any two: transnational drug companies; medical tourism; international patent rules on medicines; migration of health workers.
 
 ## Where marks are usually lost
 
-- Naming the Black Report but not linking each explanation to evidence or evaluation.
+- Naming the four explanations but not linking each one to evidence or evaluation.
 - Writing "the poor are unhealthy because of bad choices" with no sociological explanation of why choices differ.
 - Mixing up provision (services that exist) with access (who uses them).
 - Treating gender patterns as simple: women live longer but report more illness, and you need to explain both.
 - Using "ethnic minorities" as one block instead of noting differences between groups.
-- Describing Rosenhan as proof without mentioning the later doubts about his data.
+- Describing Rosenhan as proof without mentioning Cahalan's later doubts about his data.
 - Leaving out the global part of point 5 when a question on medicine invites it.
 - Offering no conclusion in an extended answer. Evaluation should lead to a judgement.
 - Ignoring research design. The specification makes it an integral element of every topic.
@@ -156,4 +155,4 @@ For labelling ideas you can reuse here, see the [AQA Crime and Deviance revision
 
 ## Official syllabus
 
-These notes follow the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021), A-level section 3.2.3 (printed in the PDF as 4.2.3) Health, and the Paper 2 assessment information in the same document.
+These notes follow the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021), A-level section 4.2.3 Health, and the Paper 2 assessment information in the same document.

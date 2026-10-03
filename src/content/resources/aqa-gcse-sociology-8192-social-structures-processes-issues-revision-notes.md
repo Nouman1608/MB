@@ -34,7 +34,7 @@ Section 3 adds: synthesise evidence from different sources, analyse written, vis
 
 ## Key terms
 
-All terms below appear in Appendix A of the specification except "social structure", "social process" and "agency", which are working definitions from this unit's title and the aims in section 4.1.
+All terms below appear in Appendix A of the specification except "social structure", "social process" and "agency", which are working definitions from this unit's title and the aims in section 4.1, and "official statistics" (Appendix A lists "official crime statistics").
 
 | Term | Definition |
 |---|---|
@@ -64,7 +64,7 @@ All terms below appear in Appendix A of the specification except "social structu
 | Feminism | Patriarchy shapes institutions; men benefit | Revealing inequality in the home and at work | Heidensohn criticised for generalising to all women |
 | Interactionism | Meanings and labels are created in interaction | Explaining self-fulfilling prophecies | Can neglect where the power to label comes from |
 
-Remember which perspectives the specification names. Interactionism appears for education processes (3.4.4) and crime (3.5). Families and stratification name functionalist, feminist and Marxist.
+Remember which perspectives the specification names. Interactionism appears for processes within schools (3.4.4) and for crime and deviance in 3.5.1 to 3.5.3. Data on crime (3.5.4), the other education points, families and stratification name functionalist, feminist and Marxist.
 
 ## Named studies at a glance (methods focus)
 

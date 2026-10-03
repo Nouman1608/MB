@@ -22,7 +22,7 @@ publishedDate: 2026-09-29
 featured: false
 ---
 
-This guide covers Beliefs in Society for AQA A-level Sociology (7192), based on the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). It teaches every content point in section 4.2.5 (shown as "4.2.5 3.2.5" in the specification at a glance). Beliefs in Society is an A-level option, not an AS topic. It is assessed in Paper 2: Topics in Sociology, Section B.
+This guide covers Beliefs in Society for AQA A-level Sociology (7192), based on the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). It teaches every content point in section 4.2.5 (the specification at a glance also lists it as 3.2.5). Beliefs in Society is an A-level option, not an AS topic. It is assessed in Paper 2: Topics in Sociology, Section B.
 
 Use it with the [AQA A-level Sociology hub](/boards/aqa/a-level/sociology/) and the [AQA A-level Sociology checklist](/checklists/aqa/a-level/sociology/). Then move on to the [revision notes](/resources/aqa-a-level-sociology-7192-beliefs-in-society-revision-notes/) and [practice questions](/resources/aqa-a-level-sociology-7192-beliefs-in-society-practice/). For how the three papers fit together, see the [A-level Sociology course structure](/resources/a-level-sociology-course-structure/).
 
@@ -56,11 +56,11 @@ The specification does not print how Section B's 40 marks are split between ques
 
 **Science.** Popper argued science is an open belief system. Its theories must be falsifiable, so knowledge grows as false ideas are rejected. Merton (1942) argued that science depends on four norms: communism (sharing findings), universalism (judging claims by evidence, not by who makes them), disinterestedness, and organised scepticism. Horton contrasted open (scientific) and closed (traditional) belief systems.
 
-Polanyi argued that closed systems defend themselves. Evans-Pritchard's study of the Azande of Central Africa showed how belief in witchcraft and the poison oracle survived contrary evidence: a failed oracle could be blamed on bad poison or a broken taboo. Polanyi argued science can also behave like this. Kuhn's *The Structure of Scientific Revolutions* (1962) supports him: during "normal science", scientists work inside a paradigm and tend to set aside anomalies until a scientific revolution replaces it.
+Polanyi argued that closed systems defend themselves. Evans-Pritchard's study of the Azande of southern Sudan showed how belief in witchcraft and the poison oracle survived contrary evidence: a failed oracle could be blamed on the wrong kind of poison or a broken taboo. Polanyi argued science can also behave like this. Kuhn's *The Structure of Scientific Revolutions* (1962) supports him: during "normal science", scientists work inside a paradigm and tend to set aside anomalies until a scientific revolution replaces it.
 
-**Religion.** Definitions shape what counts as religion. Substantive definitions (Weber) focus on belief in the supernatural or God. Functional definitions (Durkheim) focus on what religion does, such as building social integration. Social constructionists ask how groups themselves define religion. Use both Christian and non-Christian traditions, as the specification requires; for example, Hinduism and karma, or Islam and the umma.
+**Religion.** Definitions shape what counts as religion. Substantive definitions (Weber) focus on belief in the supernatural or God. Functional definitions (Durkheim) focus on what religion does, such as building social integration. Social constructionists ask how groups themselves define religion. Use both Christian and non-Christian traditions, as the specification requires (for example, Hinduism and karma).
 
-**Worked paragraph.** *Polanyi argues both religion and science can be closed belief systems. The Azande explained away failed oracles, so the belief could not be disproved, and Kuhn showed scientists in normal science also set aside anomalies. However, paradigms do eventually collapse under anomalies, while religious traditions can last centuries, so science is more open in the long run.*
+**Worked paragraph.** *Polanyi argues both religion and science can be closed belief systems. The Azande explained away failed oracles, and Kuhn showed scientists in normal science also set aside anomalies. However, paradigms do eventually collapse under anomalies, while religious traditions can last centuries, so science is more open in the long run.*
 
 ## 2. Religion, social change and social stability
 
@@ -79,7 +79,7 @@ Polanyi argued that closed systems defend themselves. Evans-Pritchard's study of
 
 - **Weber:** in *The Protestant Ethic and the Spirit of Capitalism* (1905), Calvinist belief in predestination caused anxiety about salvation. Hard work in a calling and ascetic saving were signs of being chosen, which helped produce the spirit of capitalism. Weber compared Hinduism and Confucianism, arguing they lacked this combination of this-worldly work and self-denial. Evaluation: Marxists such as Kautsky argued capitalism came before Calvinism, and some Calvinist societies did not develop capitalism quickly.
 - **Bruce:** religion was a resource in the American civil rights movement. Black churches gave meeting places, leaders such as Martin Luther King, and the moral high ground. By contrast, Bruce sees the New Christian Right as largely unsuccessful.
-- **Neo-Marxism:** Maduro argued religion can be relatively autonomous from the ruling class. Liberation theology in Latin America led Catholic priests to side with the poor; Archbishop Óscar Romero was killed in 1980. Engels noted religion's "dual character": it can inspire protest as well as acceptance.
+- **Neo-Marxism:** Maduro argued religion can be relatively autonomous from the ruling class. Liberation theology in Latin America led Catholic priests to side with the poor; Archbishop Óscar Romero was killed in 1980. Bloch argued religion has a "dual character": it can inspire protest as well as acceptance.
 - **Millenarian movements:** Worsley studied cargo cults in Melanesia as early, religious forms of anti-colonial protest.
 
 **Worked paragraph.** *Religion can support change when it offers a moral justification and an organisation (Bruce). In the civil rights movement, Black churches supplied meeting places, leaders and values that white Christians also claimed, so religion challenged segregation. However, the New Christian Right shows religious campaigns often fail, so religion helps change mainly when its goals fit values society already holds.*
@@ -99,9 +99,9 @@ Polanyi argued that closed systems defend themselves. Evans-Pritchard's study of
 - **World-accommodating:** often breakaways from mainstream churches, aiming to restore spiritual purity (for example, neo-Pentecostalism).
 - **World-affirming:** cult-like, offering access to spiritual powers that help people succeed in ordinary life (for example, Scientology, or Transcendental Meditation, which has Hindu roots).
 
-**Explaining growth.** Weber's theodicy of disprivilege says sects explain and promise to reward the suffering of marginal groups. Stark and Bainbridge stress relative deprivation and the compensators religion offers. Wilson and Bruce link growth to rapid social change, anomie and modernisation.
+**Explaining growth.** Weber's theodicy of disprivilege says sects explain and promise to reward the suffering of marginal groups. Stark and Bainbridge stress relative deprivation and the compensators religion offers. Wilson links growth to rapid social change, which creates anomie (normlessness); sects offer certainty and community.
 
-**Dynamics.** Niebuhr argued sects die out or become denominations, partly because of the second generation. Wilson replied that some become "established sects". Stark and Bainbridge describe a cycle of schism, compromise and new schism.
+**Dynamics.** Niebuhr argued sects die out or become denominations, partly because of the second generation. Wilson replied that some become "established sects". Stark and Bainbridge describe a sectarian cycle: schism, compromise with the world, then a new schism.
 
 **New Age movements.** Heelas describes self-spirituality (looking inward) and detraditionalisation (rejecting external authority). Heelas and Woodhead (2005) compared the congregational domain with the holistic milieu in Kendal, Cumbria. The holistic milieu was growing but was still much smaller, so they said a "spiritual revolution" had not yet happened. Bruce sees the New Age as evidence of secularisation, because commitment is weak and individual. Drane links it to a postmodern loss of trust in experts and metanarratives.
 
@@ -109,17 +109,17 @@ Polanyi argued that closed systems defend themselves. Evans-Pritchard's study of
 
 ## 4. Social groups and religion
 
-**Gender.** Women are generally more likely than men to hold religious beliefs and to take part. Miller and Hoffmann (1995) link this to socialisation and to greater risk-aversion. Davie suggests closer involvement with birth and death. Women also outnumber men in the holistic milieu, which Heelas and Woodhead link to its focus on caring and well-being. Brown argues women's move away from church since the 1960s, as their roles changed, drove recent secularisation.
+**Gender.** Women are generally more likely than men to hold religious beliefs and to take part. Miller and Hoffmann (1995) link this to socialisation and to greater risk-aversion. Davie suggests closer involvement with birth and death. In Kendal, about 80% of holistic-milieu participants were women (Heelas and Woodhead); Bruce links this to the New Age's stress on nurturing and healing. Brown argues women's move away from church since the 1960s, as their roles changed, drove recent secularisation.
 
-**Ethnicity.** Many minority ethnic groups in the UK show higher religiosity than the White British majority. Bruce explains this through **cultural defence** (religion unites a community under threat) and **cultural transition** (religion helps migrants adjust, then declines as they integrate; Herberg found this among US immigrants). Pryce (1979), studying African-Caribbeans in Bristol, found Pentecostalism encouraged self-help and adaptation, while Rastafarianism was a protest against racism. Modood stresses that religion can matter as identity even where practice varies.
+**Ethnicity.** Many minority ethnic groups in the UK show higher religiosity than the White British majority. Bruce explains this through **cultural defence** (religion unites a community under threat) and **cultural transition** (religion helps migrants adjust, then declines as they integrate; Herberg found this among US immigrants). Pryce (1979), studying African-Caribbeans in Bristol, found Pentecostalism valued hard work, thrift and community, which helped members cope with and adapt to life in Britain. O'Beirne (2004) found religion was a central part of identity for many minority groups.
 
 **Age.** Older people are generally more likely to attend and believe. Voas and Crockett (2005) argue each generation is less religious than its parents, so decline is generational, not just ageing. Others note young people's interest in spirituality outside churches.
 
 **Social class.** Weber and Stark and Bainbridge link sects to deprived groups. By contrast, the New Age draws more on the middle class (Bruce).
 
-**Evaluation.** These are broad patterns that vary between faiths and over time. Attendance, belief and identity can give different pictures, so check what each study measured.
+**Evaluation.** These patterns vary between faiths and over time, and attendance, belief and identity can differ.
 
-**Worked paragraph.** *Cultural transition explains high religiosity in some migrant communities. A mosque, gurdwara or Pentecostal church gives newcomers support and contacts, so religion helps groups settle. However, Modood suggests religion can stay important for identity among later generations, which challenges the idea that it simply fades after integration.*
+**Worked paragraph.** *Cultural transition explains high religiosity in some migrant communities. A mosque, gurdwara or Pentecostal church gives newcomers support and contacts, so religion helps groups settle. Modood et al. (1997) found later generations were generally less religious, which fits this view. However, O'Beirne (2004) found religion was central to many minority groups' identity, so its role may shift towards identity rather than simply fading.*
 
 ## 5. Religion in the contemporary world: secularisation and globalisation
 
@@ -140,9 +140,9 @@ Arguments against:
 - Stark and Bainbridge: religious market theory, so competition in the USA keeps religion strong. Hadaway et al. (1993) found real attendance was well below what Americans reported.
 - Norris and Inglehart, *Sacred and Secular* (2004): existential security. Insecure, poorer societies stay religious and have higher birth rates, so religious populations grow globally.
 
-**Globalisation and the spread of religions.** Migration has made Islam, Hinduism and Sikhism part of UK religious life. Pentecostalism has spread fast in Latin America and Africa, partly because it fits local cultures (Berger and Martin). Nanda studies Hinduism among India's growing middle class. Redding links post-Confucian values to East Asian economic growth. Casanova (1994) describes religion returning to public life.
+**Globalisation and the spread of religions.** Migration has made Islam, Hinduism and Sikhism part of UK religious life. Pentecostalism has spread fast in Latin America and Africa. Lehmann argues it adapts to local cultures; Berger compares it to a modern Protestant ethic. Nanda studies Hinduism among India's growing middle class. Redding links post-Confucian values to East Asian economic growth. Casanova (1994) describes religion returning to public life.
 
-**Fundamentalism.** Giddens sees it as a defensive response to globalisation. Huntington (1996) argued conflict would follow "civilisations", often defined by religion. Critics, including Casanova and Armstrong, say this ignores divisions within each religion and stereotypes Islam.
+**Fundamentalism.** Giddens sees it as a defensive response to globalisation. Huntington (1996) argued conflict would increasingly follow "civilisations", often defined by religion. Casanova says it ignores divisions within each civilisation; Armstrong traces hostility to the West to Western foreign policy, not to Islam itself.
 
 **Worked paragraph.** *Existential security theory (Norris and Inglehart) explains why secularisation is uneven. Britain has a welfare state and high living standards, so people need religion less. Poorer, riskier societies stay religious and have higher birth rates, so the world may grow more religious overall even as Britain becomes more secular. This weakens claims of a universal trend, though critics say the theory ignores how people actually experience faith.*
 
@@ -152,10 +152,9 @@ Arguments against:
 - Claiming Durkheim studied religion in modern Britain. His evidence came from anthropological reports on Australian Aboriginal clans.
 - Treating all NRMs as sects. Use Wallis's three types.
 - Using church attendance as the only measure of secularisation. Discuss belief, belonging and identity.
-- Writing that Davie proves Britain is not secular.
 - Presenting Huntington's thesis as fact. It is a contested view.
 
-Next, read the [revision notes](/resources/aqa-a-level-sociology-7192-beliefs-in-society-revision-notes/) and try the [practice questions](/resources/aqa-a-level-sociology-7192-beliefs-in-society-practice/). Compare the perspectives in the [Crime and Deviance study guide](/resources/a-level-aqa-sociology-crime-and-deviance/); for research design, see [Methods in Context](/resources/a-level-sociology-methods-in-context/). Globalisation links to [Global development](/resources/aqa-a-level-sociology-7192-global-development/); option 1 identity links to [Culture and identity](/resources/aqa-a-level-sociology-7192-culture-and-identity/).
+Next, read the [revision notes](/resources/aqa-a-level-sociology-7192-beliefs-in-society-revision-notes/) and try the [practice questions](/resources/aqa-a-level-sociology-7192-beliefs-in-society-practice/). Compare the perspectives in the [Crime and Deviance study guide](/resources/a-level-aqa-sociology-crime-and-deviance/); for research design, see [Methods in Context](/resources/a-level-sociology-methods-in-context/). Globalisation links to [Global development](/resources/aqa-a-level-sociology-7192-global-development/).
 
 ## Official syllabus
 
