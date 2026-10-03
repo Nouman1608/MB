@@ -62,7 +62,7 @@ Revise first with the [study guide](/resources/oxfordaqa-a-level-geography-9635-
 | Soil pH | 8.4 | 8.1 | 7.6 | 7.0 | 6.4 | 5.8 | 5.1 | 4.6 |
 
 **(a)** Describe the change in soil pH along the transect. **[2]**
-**(b)** Calculate Spearman's rank correlation coefficient (rs) for distance and number of plant species, using rs = 1 - (6Σd²) / (n³ - n). The critical value at the 0.05 significance level for n = 8 is 0.738. State what your result shows. **[3]**
+**(b)** Calculate Spearman's rank correlation coefficient (rs) for distance and number of plant species, using rs = 1 - (6Σd²) / (n³ - n). The critical value at the 0.05 significance level (two-tailed) for n = 8 is 0.738. State what your result shows. **[3]**
 **(c)** Using the data, explain the changes along the transect in terms of succession. **[6]**
 
 **6.** The table shows nutrient stores at two fictional sites, Site X (tropical rainforest) and Site Y (savanna grassland).
@@ -104,9 +104,9 @@ Revise first with the [study guide](/resources/oxfordaqa-a-level-geography-9635-
 **(b)** Much of the energy taken in is used in respiration and lost as heat [1]. Some material is not eaten or cannot be digested and passes out as waste [1]. So each level receives only a small share, which limits the number of top consumers the pond can support [1]. **[3]**
 *Examiner insight:* Show the division in (a); a bare answer risks losing the method mark if it is wrongly rounded.
 
-**5. (a)** Soil pH falls from 8.4 (alkaline) at the strand line to 4.6 (acidic) at 350 m [1]. The fall is steady at every site, a total drop of 3.8 units [1]. **[2]**
-**(b)** Species ranks are 1, 2, 3, 4, 6, 5, 7, 8, so Σd² = 2 [1]. rs = 1 - (6 × 2) / (512 - 8) = 0.976 [1]. This exceeds 0.738, so there is a significant strong positive relationship between distance and species number at the 0.05 level [1]. **[3]**
-**(c)** Near the strand line only 2-3 pioneer species survive salt spray, moving sand and dry, alkaline sand [1]. Pioneers such as marram trap sand and add organic matter as they die [1]. Humus builds up inland, improving water and nutrient retention [1]. Leaching of shell-derived calcium carbonate lowers pH from 8.4 to 4.6 [1]. Shelter and better soils allow more species to arrive, so richness rises to 14 at site 8 [1]. The slight dip at site 6 (8 species) may show a local disturbance such as trampling, so the sequence is not perfectly regular [1]. **[6]**
+**5. (a)** Soil pH falls from 8.4 (alkaline) at the strand line to 4.6 (acidic) at 350 m [1]. pH falls between every pair of sites, a total drop of 3.8 units [1]. **[2]**
+**(b)** Species ranks are 1, 2, 3, 4, 6, 5, 7, 8, so Σd² = 2 [1]. rs = 1 - (6 × 2) / (512 - 8) = 0.976 [1]. This exceeds the two-tailed critical value of 0.738, so there is a significant strong positive relationship between distance and species number at the 0.05 level [1]. **[3]**
+**(c)** Near the strand line only 2-3 pioneer species survive salt spray, moving sand and dry, alkaline sand [1]. Pioneers such as sea couch grass, then marram, trap sand and add organic matter as they die [1]. Humus builds up inland, improving water and nutrient retention [1]. Leaching of shell-derived calcium carbonate lowers pH from 8.4 to 4.6 [1]. Shelter and better soils allow more species to arrive, so richness rises to 14 at site 8 [1]. The slight dip at site 6 (8 species) may show a local disturbance such as trampling, so the sequence is not perfectly regular [1]. **[6]**
 *Examiner insight:* In (c), marks go to answers that quote figures from the table, not to a general description of a psammosere.
 
 **6. (a)** Site X: 6,000 / 7,500 × 100 = 80.0% [1]. Site Y: 900 / 3,600 × 100 = 25.0% [1]. **[2]**
@@ -144,7 +144,7 @@ Revise first with the [study guide](/resources/oxfordaqa-a-level-geography-9635-
 - Indigenous territories such as the Uru-Eu-Wau-Wau keep forest-based ways of life [1].
 - Politically, land conflict between ranchers and Indigenous groups reflects competition for forest land [1].
 - The Forest Code and satellite monitoring are responses to the change [1].
-- Clearance fell after the 2004 Amazon peak but enforcement has varied with national politics [1].
+- Amazon clearance fell sharply after 2004, but enforcement has varied with national politics [1].
 - So the community now reflects a changed setting rather than the original rainforest [1].
 - Judgement: the economic character closely reflects the setting; the political character reflects conflict over it [1]. **[12]**
 *Examiner insight:* Weaker answers describe deforestation only; credit goes to answers that link it to economic, social and political character as the question asks.

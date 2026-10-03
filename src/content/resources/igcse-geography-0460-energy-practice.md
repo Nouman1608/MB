@@ -89,7 +89,7 @@ Suggest the advantages and disadvantages of the wind farm for Glenmorrow. **[6]*
 
 **9.** Explain two disadvantages of nuclear power. **[4]**
 
-**10.** Describe the importance of biofuels and evaluate their use as a replacement for oil in transport. **[5]**
+**10.** To what extent are biofuels a good replacement for oil in transport? Use an example. **[5]**
 
 **11.** "Renewable energy is a better choice than nuclear power for a country that wants to use less fossil fuel." To what extent do you agree? Use examples. **[8]**
 
@@ -133,7 +133,7 @@ Suggest the advantages and disadvantages of the wind farm for Glenmorrow. **[6]*
 *Examiner insight:* for "explain two", each disadvantage needs a development point; two bare statements score half marks.
 
 **10.** Biofuels such as ethanol from sugarcane can replace petrol in cars [1]; Brazil has run a national programme since 1975, and flex-fuel cars there can use any blend of petrol and ethanol [1]. They are renewable and cut oil imports [1]. However, crops for fuel take farmland that could grow food [1], and expanding farmland can lead to forest clearance, so biofuels are best where there is spare land, as in Brazil, rather than in every country [1]. **[5]**
-*Examiner insight:* the evaluation mark needs a conditional judgement, such as "where", "when" or "for whom" biofuels work.
+*Examiner insight:* the judgement mark needs a conditional conclusion, such as "where", "when" or "for whom" biofuels work.
 
 **11.** The real exam marks extended answers with levels of response, not point by point; these indicative points show what a strong answer includes.
 For renewables: they have no fuel cost and produce no radioactive waste [1]. Iceland makes almost all its electricity from hydro and geothermal because of its high rainfall and plate-boundary heat [1]. Small solar systems can supply villages in low-income countries that nuclear power could never reach [1].

@@ -103,7 +103,7 @@ They cover section 3.4.2 of the OxfordAQA International AS and A-level Geography
 2. **Singapore, waste:** incineration and Semakau. Strength: up to 90% volume reduction and energy recovery. Limit: landfill space is finite and incineration still needs ash disposal.
 3. **Singapore, air quality:** ERP since 1998 manages congestion. Strength: linked to good public transport. Limit: pricing alone does not cut regional haze or all emissions.
 4. **Lagos, waste:** Olusosun landfill. Limit: burning and leachate harm surrounding residents. Context: rapid growth outpaced planning.
-5. **Lagos, transport and drainage:** BRT from 2008 and the Blue Line from 2023. Strength: alternatives to congested roads. Limit: drainage still fails where waste blocks channels.
+5. **Lagos, transport and drainage:** BRT from 2008 and the Blue Line from 2023. Strength: alternatives to congested roads. Limit: drainage still fails where drains are too few or poorly maintained.
 6. **Judgement:** strategies succeed most where the state controls land and can fund infrastructure. They are weakest where informal growth outpaces planning. Success also varies within each city.
 
 ## Quick self-test

@@ -34,9 +34,9 @@ Use this guide with the [Environmental risks revision notes](/resources/igcse-ge
 | 3.7 guidance | Threats to the natural environment including soil erosion, desertification, enhanced global warming and pollution (water, air, noise, visual) | Paper 1 |
 | 3.7 | Demonstrate the need for sustainable development and management | Paper 1 |
 | 3.7 | Understand the importance of resource conservation | Paper 1 |
-| Case study | An area where economic development is taking place and causing the environment to be at risk | Paper 1 case study parts |
+| Case study | An area where economic development is taking place and causing the environment to be at risk | Paper 1 |
 
-The word "including" means you must know every listed threat. You may add others, such as loss of biodiversity. The syllabus does not name a case study, so your teacher may choose a different one from the case study below.
+The guidance lists these threats by name, so learn each one. You may add others, such as loss of biodiversity. The syllabus does not name a case study, so your teacher may choose a different one from the case study below.
 
 ## Economic activities as threats: local and global
 
@@ -142,21 +142,21 @@ Sustainable development balances three things:
 
 ## Case study: oil in the Niger Delta, Nigeria
 
-The Niger Delta in southern Nigeria is one of the largest wetlands in Africa. It has mangrove forests, creeks and farmland, and millions of people depend on fishing and farming. Shell-BP found oil at Oloibiri in 1956. Oil and gas have since provided most of Nigeria's export earnings and a large share of government revenue. This is economic development that has put the environment at risk.
+The Niger Delta in southern Nigeria is one of the largest wetlands in Africa. It has mangrove forests, creeks and farmland, and millions of people depend on fishing and farming. Shell found oil at Oloibiri in 1956. Oil and gas have since provided most of Nigeria's export earnings and a large share of government revenue. This is economic development that has put the environment at risk.
 
 **Threats to the environment and people**
 - **Water and land pollution:** thousands of oil spills from pipelines, wells and tankers. Oil coats mangroves and creeks, kills fish and makes farmland infertile.
 - **Air pollution and enhanced global warming:** gas that comes up with oil is often burned off (**gas flaring**). This releases carbon dioxide, soot and other pollutants. People living near flares report breathing problems.
 - **Threats to people:** loss of fishing and farming income and polluted drinking water.
 
-**Ogoniland and Bodo.** Ogoniland is an area of about 1,000 km² in the delta. In 2011 the United Nations Environment Programme (UNEP) published an assessment of Ogoniland based on more than 4,000 samples from over 200 sites. It found soil that could no longer be farmed and groundwater contaminated with oil. In one community, drinking water contained benzene, a cancer-causing chemical, at about 900 times the World Health Organization guideline. UNEP estimated that full recovery could take up to 30 years, and that the first five years would need about US$1 billion.
+**Ogoniland and Bodo.** Ogoniland is an area of about 1,000 km² in the delta. In 2011 the United Nations Environment Programme (UNEP) published an assessment of Ogoniland based on more than 4,000 samples from over 200 sites. It found oil contamination in soil and groundwater at many sites. In one community, drinking water contained benzene, a cancer-causing chemical, at about 900 times the World Health Organization guideline. UNEP estimated that full recovery could take up to 30 years, and that the first five years would need about US$1 billion.
 
 Two spills from Shell Nigeria's Trans-Niger pipeline, which began in 2008, badly polluted Bodo, a fishing community in Ogoniland. After a case in a London court, Shell agreed in 2015 to pay £55 million: £35 million to individuals and £20 million to the community.
 
-**Causes of spills, and different views:** spills come from corroded pipelines, equipment failure, and also from sabotage, oil theft and illegal refining. Oil companies tend to stress theft and sabotage. Local communities and campaigners tend to stress poor maintenance and slow clean-up. Estimates of how much oil has been spilled vary widely.
+**Causes of spills, and different views:** spills come from corroded pipelines, equipment failure, and also from sabotage, oil theft and illegal refining. Oil companies tend to stress theft and sabotage. Local communities and campaigners tend to stress poor maintenance and slow clean-up. The Nigerian government both earns oil revenue and regulates the industry. Critics say its laws on spills and flaring have been weakly enforced; the government points to its clean-up agency and its plans to cut flaring. Estimates of how much oil has been spilled vary widely.
 
 **Management**
-- The Nigerian government set up a clean-up agency, the Hydrocarbon Pollution Remediation Project (HYPREP). Work began in the late 2010s. A trial restored mangroves along Bodo Creek.
+- The Nigerian government set up a clean-up agency, the Hydrocarbon Pollution Remediation Project (HYPREP), to act on UNEP's report. It was first set up in the early 2010s; the Ogoniland clean-up was launched in 2016, and its work has included restoring mangroves.
 - Compensation payments, such as the Bodo settlement.
 - Efforts to reduce gas flaring by capturing gas for use instead of burning it.
 
@@ -166,7 +166,7 @@ Two spills from Shell Nigeria's Trans-Niger pipeline, which began in 2008, badly
 
 *For a named area, explain how economic development has put the environment and people at risk. (7 marks)*
 
-> In the Niger Delta, Nigeria, oil extraction since the oil discovery at Oloibiri in 1956 has caused many oil spills (knowledge). At Bodo in Ogoniland, two pipeline spills that began in 2008 polluted creeks and mangroves, so fish died and families who depended on fishing lost their income (application). UNEP's 2011 assessment found soil that could no longer be farmed and drinking water with benzene about 900 times the WHO guideline, which shows that pollution threatens health as well as jobs (analysis). Gas flaring adds carbon dioxide to the atmosphere, so the risk is global as well as local. The greatest risk is long-term, because UNEP estimated recovery could take up to 30 years (evaluation).
+> In the Niger Delta, Nigeria, oil extraction since the oil discovery at Oloibiri in 1956 has caused many oil spills (knowledge). At Bodo in Ogoniland, two pipeline spills that began in 2008 polluted creeks and mangroves, so fish died and families who depended on fishing lost their income (application). UNEP's 2011 assessment found oil in soil and groundwater, and drinking water with benzene about 900 times the WHO guideline, which shows that pollution threatens health as well as jobs (analysis). Gas flaring adds carbon dioxide to the atmosphere, so the risk is global as well as local. The greatest risk is long-term, because UNEP estimated recovery could take up to 30 years (evaluation).
 
 The answer names a place, uses real details, links each threat to people, and covers local and global scales.
 

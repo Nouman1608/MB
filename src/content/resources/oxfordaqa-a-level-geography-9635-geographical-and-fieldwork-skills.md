@@ -43,16 +43,16 @@ Use it with the [revision notes](/resources/oxfordaqa-a-level-geography-9635-geo
 
 ## How Unit 5 is assessed
 
-- Unit 5 (entry code GG05) has 60 raw marks and 20% of the International A-level.
+- Entry code: GG05.
 - 15 of the 60 marks assess your **own investigation**.
 - Fieldwork is tested in two ways. **Unfamiliar fieldwork questions** ask you to apply fieldwork knowledge to new scenarios. **Familiar fieldwork questions** ask about your own experiences and findings.
 - Approximate weightings of Unit 5 within the A-level: AO1 5.0%, AO2 6.0%, AO3 9.0%. So AO3 (quantitative, qualitative and fieldwork skills) carries the most weight.
 
-The specification lists "command words with exemplars" as a support resource but does not print the list. Your teacher will confirm the exact command words.
+The specification does not print a list of command words; your teacher will confirm them.
 
 ## 3.5.1.1 Core skills
 
-**Annotation** means adding labels that explain, not just name. "Steep slope" is a label. "Steep slope, so faster overland flow and thin soils" is an annotation.
+**Annotation** means adding labels that explain, not just name. "Steep slope" is a label. "Steep slope, so faster overland flow and thin soils" is an annotation. Annotate base maps, sketch maps, field sketches, photographs and digital or geo-located imagery the same way.
 
 **Literacy** covers reading factual and discursive material, such as a planning report or a resident's letter, and judging its purpose and bias. **Numeracy** covers using number and measurement: units, percentages, rates of change and sensible rounding.
 
@@ -62,6 +62,7 @@ The specification lists "command words with exemplars" as a support resource but
 
 | Map type | Shows | Strength | Limitation |
 |---|---|---|---|
+| Atlas maps | Small-scale maps of physical and human features, such as relief, climate or population | Puts a place or pattern in its regional or global context | Too generalised to show local detail |
 | Proportional symbols | Circles or bars sized to a value at a point | Shows magnitude and location together | Large symbols overlap |
 | Flow lines | Line width proportional to the volume moving along a route | Shows volume and route | Cluttered where routes converge |
 | Desire lines | Straight lines from origin to destination | Shows the pattern of trips simply | Ignores the actual route |
@@ -74,12 +75,12 @@ The specification lists "command words with exemplars" as a support resource but
 
 ## 3.5.1.3 Graphical skills
 
-- **Line graphs** show continuous change. A *compound* line graph stacks values so the top line is the total. A *divergent* line graph shows values above and below a central value, such as zero.
+- **Line graphs** show continuous change. A *simple* line graph has one line; a *comparative* line graph plots two or more lines on the same axes. A *compound* line graph stacks values so the top line is the total. A *divergent* line graph shows values above and below a central value, such as zero.
 - **Bar graphs** compare categories. Comparative bars sit side by side; compound bars are divided into parts; divergent bars extend either side of a central axis, as in a population pyramid.
 - **Scatter graphs** test a relationship between two variables. Draw a **best fit line** with roughly equal numbers of points either side. Do not force it through the origin. Name the anomalies (residuals).
 - **Pie charts** show proportions: each segment is the percentage multiplied by 3.6 degrees. **Proportional divided circles** also make each circle's **area** proportional to its total, so the radius is proportional to the square root of the value. A value four times larger needs a radius two times larger.
 - **Triangular graphs** plot data with three components that add to 100%, such as employment in primary, secondary and tertiary sectors, or sand, silt and clay in a soil sample. Read each axis along its own gridlines.
-- **Logarithmic scales** compress a wide range of values (for example 10 to 1,000,000) on to one axis. Each cycle is a tenfold increase. Equal slopes show equal rates of change.
+- **Logarithmic scales** compress a wide range of values (for example 10 to 1,000,000) on to one axis. Each cycle is a tenfold increase. On a graph with a logarithmic vertical axis, equal slopes show equal percentage (proportional) rates of change, not equal absolute changes.
 - **Dispersion diagrams** plot each value as a dot along a vertical scale. They show the spread, clustering and outliers in a data set, and you can mark the median and quartiles on them.
 
 ## 3.5.1.4 Statistical skills
@@ -92,7 +93,7 @@ Pedestrian counts at 11 sites, in order: 12, 18, 18, 22, 25, 31, 34, 40, 46, 52,
 
 - **Mean** = 373 / 11 = 33.9. It uses every value but is pulled up by the high value, 75.
 - **Median** = 6th value = 31. It resists extreme values.
-- **Mode** = 18. It is the only repeated value, so it says little here.
+- **Mode** = 18. It says little here.
 - **Range** = 75 - 12 = 63. Easy, but distorted by one extreme value.
 - **Inter-quartile range**: lower quartile = value at position (n + 1) / 4 = 3rd = 18; upper quartile = position 3(n + 1) / 4 = 9th = 46. IQR = 46 - 18 = 28. It describes the middle half, ignoring extremes.
 - **Standard deviation** = square root of [sum of (x - mean)^2 / n]. The squared deviations sum to 3,414.9, so SD = square root of (3,414.9 / 11) = 17.6. About two-thirds of values in a normal-shaped distribution lie within one SD of the mean. Some textbooks divide by n - 1 instead (giving 18.5 here); your teacher will confirm which version to use.
@@ -121,9 +122,9 @@ Charles Spearman published this coefficient in 1904. It tests the strength and d
 
 Sum of d^2 = 14.5. rs = 1 - (6 x 14.5) / (1,000 - 10) = 1 - 87 / 990 = **0.912**.
 
-rs runs from +1 (perfect positive) to -1 (perfect negative). For n = 10, two-tailed critical values are 0.648 at the 0.05 level and 0.794 at the 0.01 level. Because 0.912 is above 0.794, reject the null hypothesis: there is a significant positive relationship, with less than a 1% probability that it arose by chance. Tables differ for one-tailed and two-tailed tests, so use the one you are given. With only a few ties, as here, the formula still gives a sound result.
+rs runs from +1 (perfect positive) to -1 (perfect negative). For n = 10, two-tailed critical values (used with a non-directional null hypothesis like this one) are 0.648 at the 0.05 level and 0.794 at the 0.01 level. One-tailed values for n = 10 are lower: 0.564 (0.05) and 0.745 (0.01). Because 0.912 is above 0.794, reject the null hypothesis: there is a significant positive relationship, with less than a 1% probability that it arose by chance. Tables differ for one-tailed and two-tailed tests, so use the one you are given. With only a few ties, as here, the formula still gives a sound result.
 
-**Evaluation:** a significant correlation does not prove causation. Spearman's rank uses ranks, so it ignores the size of gaps between values, and small samples give unreliable results.
+**Evaluation:** correlation is not causation. Ranks ignore the size of gaps between values, and small samples are unreliable.
 
 ### Chi-square test
 
@@ -139,13 +140,13 @@ Degrees of freedom = number of categories - 1 = 2. For a table with rows and col
 
 ### Significance tests
 
-A significance test asks how likely a result is to have arisen by chance. Geographers usually accept the **0.05 level** (95% confidence) and treat the **0.01 level** as strong evidence. If the result exceeds the critical value, reject the null hypothesis. Then explain the result geographically.
+A significance test asks how likely a result is to have arisen by chance. Geographers usually accept the **0.05 level** (95% confidence) and treat the **0.01 level** as strong evidence. If the result exceeds the critical value, reject the null hypothesis. Then explain it geographically.
 
 ## 3.5.1.5 ICT skills
 
 - **Remotely sensed data**: images from satellites, aircraft or drones, such as Landsat or Copernicus Sentinel imagery. Useful for land-use change and vegetation cover over large areas. Limitations: cloud cover, resolution, and the need for ground checking.
-- **Electronic databases**: census tables, river flow records, crime or health statistics. Large and consistent, but collected for other purposes and sometimes out of date.
-- **Crowd sourcing and 'big data'**: volunteered data such as OpenStreetMap edits, geotagged social media posts or phone location records. Very large and near real-time, but unrepresentative (people without smartphones are missed) and raising privacy questions.
+- **Electronic databases**: census tables, river flow records, crime or health statistics. Large and consistent, but collected for other purposes.
+- **Crowd sourcing and 'big data'**: volunteered data such as OpenStreetMap edits, geotagged social media posts or phone location records. Huge and near real-time, but unrepresentative (people without smartphones are missed), with privacy concerns.
 
 ## 3.5.2 Fieldwork: what the specification requires
 
@@ -181,24 +182,19 @@ Link conclusions back to the aim, and **accept or reject the hypothesis**. Consi
 
 > I used systematic sampling, counting pedestrians for 10 minutes at 11 sites every 100 m from the town centre (knowledge). This gave even coverage of the transect, so I could see how footfall changed with distance (application). However, every count was taken on one weekday morning, so the results show one moment, not typical footfall; one site was beside a school at the start of the day, which inflated its count (analysis). The method was reliable in being repeatable, but less valid as a measure of typical footfall. Repeat counts at three times on two days, and a stratified sample that includes each land-use zone, would have made the conclusion more secure (evaluation).
 
-The paragraph uses real detail, names a specific weakness, explains its effect and targets the improvement at it.
-
 ## Common errors
 
 - Making a proportional circle's **radius**, not its area, proportional to the value.
 - Ranking the two variables in opposite directions in Spearman's rank.
-- Stating "rs = 0.912 so distance causes better quality". Significance is not causation.
 - Using percentages instead of raw counts in chi-square.
-- Forgetting degrees of freedom, or reading the wrong row of the critical value table.
+- Reading the wrong row (df) of the critical value table.
 - Describing a sampling method without justifying it for the question.
 - Treating a risk assessment as a list of hazards with no control measures.
-- Evaluating with "more data would be better" without saying which data and why.
-- Writing a vague account of your own fieldwork with no numbers, place names or dates.
 
 ## Where to go next
 
-Test yourself with the [practice questions](/resources/oxfordaqa-a-level-geography-9635-geographical-and-fieldwork-skills-practice/). Skills also appear in Units 1 to 4: try applying them in the [physical geography practice set](/resources/oxfordaqa-a-level-geography-physical-practice/) and the [global systems and governance guide](/resources/a-level-oxfordaqa-geography-global-systems-and-governance/).
+Test yourself with the [practice questions](/resources/oxfordaqa-a-level-geography-9635-geographical-and-fieldwork-skills-practice/). Apply the skills to other units with the [physical geography practice set](/resources/oxfordaqa-a-level-geography-physical-practice/) and the [global systems and governance guide](/resources/a-level-oxfordaqa-geography-global-systems-and-governance/).
 
 ## Official syllabus
 
-This guide is based on the OxfordAQA International AS and A-level Geography (9635) specification, Version 3.2, section 3.5 (Unit 5: Geographical and Fieldwork skills) and the scheme of assessment in section 4. Check the current version on the OxfordAQA website.
+This guide is based on the OxfordAQA International AS and A-level Geography (9635) specification, Version 3.2, section 3.5 (Unit 5: Geographical and Fieldwork skills), the scheme of assessment in section 4 and the entry codes in section 5.1. Check the current version on the OxfordAQA website.

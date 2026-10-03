@@ -70,16 +70,16 @@ Your local study must be your own locality; your teacher will confirm your centr
 
 - About 256 ha; population about 200,000; historic gates include Delhi, Bhati and Roshnai.
 - Mughal heritage: Wazir Khan Mosque (1634 to 1641), Shahi Hammam (1635); Lahore Fort a UNESCO World Heritage Site since 1981.
-- Partition (1947): Hindu and Sikh residents left, Muslim refugees arrived, a sharp demographic and cultural change.
+- Partition (1947): mass migration in both directions; most Hindu and Sikh residents left for India and Muslim refugees from India settled, a sharp demographic and cultural change.
 - Commercial uses crowded older buildings: before restoration the Shahi Hammam had housed a school, dispensary and municipal office, with shops built into its façades.
-- Walled City of Lahore Authority (2012) conserves and promotes tourism; Shahi Guzargah project from 2012, first phase done 2015 with Norwegian and US support; Shahi Hammam restoration with the Aga Khan Trust for Culture won a UNESCO Award of Merit (2016).
+- Walled City of Lahore Authority (2012) conserves and promotes tourism; Shahi Guzargah pilot project 2012 to 2015 with Norwegian and US government support; Shahi Hammam restoration with the Aga Khan Trust for Culture won a UNESCO Award of Merit (2016).
 
 **Stratford, east London, UK**
 
 - In Newham; borough population 351,030 (2021 census); largest groups Bangladeshi 15.9%, White British 14.8%, White Other 14.6%.
-- Victorian industry; Great Eastern Railway works from 1847.
+- Victorian industry; Eastern Counties Railway works from 1847, run by the Great Eastern Railway from 1862.
 - 2012 Olympics: 560-acre park, open permanently from 2014; Westfield Stratford City opened September 2011; LLDC set up 2012.
-- East Village: about 3,500 homes, half affordable; UCL and London College of Fashion campuses opened 2023.
+- East Village: 2,818 homes, 1,379 of them affordable; UCL and London College of Fashion campuses opened 2023.
 - Contested meaning: Focus E15 campaign (2013) and occupation of empty Carpenters Estate flats (September 2014).
 - Inequality: a 2017 report found 36% of Newham employees in low-paid work, the highest of any London borough.
 

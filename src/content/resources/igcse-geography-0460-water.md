@@ -78,7 +78,7 @@ The syllabus names three methods. Learn how each works, where it suits, and one 
 
 Other methods you can mention beyond the named three include water transfer by pipeline or tunnel from a wetter area, rainwater harvesting from roofs, and recycling wastewater.
 
-**Example: Lesotho Highlands Water Project.** Lesotho and South Africa developed this project together. Dams in the Lesotho mountains, including Katse Dam (completed 1998, 185 m high), store water, which is transferred to South Africa's industrial heartland, Gauteng. Lesotho receives royalties and hydroelectric power. In 2015 royalties were about 5% of Lesotho's state income outside taxes. Critics point to people who lost their land and livelihoods, ecological impacts, and corruption cases linked to the project. A further dam, Polihali, is under construction.
+**Example: Lesotho Highlands Water Project.** Lesotho and South Africa developed this project together. Dams in the Lesotho mountains, including Katse Dam (185 m high; water deliveries began in 1998), store water, which is transferred into South Africa's Vaal River system to supply the industrial Witwatersrand region. Lesotho receives royalties and hydroelectric power. In 2015 royalties were about 5% of Lesotho's state income outside taxes. Critics point to people who lost their land and livelihoods, ecological impacts, and corruption cases linked to the project. A further dam, Polihali, is under construction.
 
 ## 2. How water use changes with development
 
@@ -92,7 +92,7 @@ Globally, the FAO's AQUASTAT database gives withdrawals as about 69% agricultura
 | Middle income (newly industrialising) | Agriculture still large, industry growing fast | Factories and power stations grow; cities expand |
 | High income | Industry (including cooling power stations) often the largest share; domestic share higher | Many factories and power stations; high living standards mean showers, washing machines, gardens and swimming pools |
 
-Be careful with "proportion" and "amount". A high-income country may use a smaller *proportion* for domestic purposes than for industry, yet each person still uses far more water at home than a person in a low-income country. Some high-income countries with dry climates, such as parts of southern Europe, still use most water for irrigation. Use data in the question rather than assuming.
+Be careful with "proportion" and "amount". A high-income country may use a smaller *proportion* for domestic purposes than for industry, yet each person still uses far more water at home than a person in a low-income country. Patterns also vary with climate, not just development, so use the data in the question rather than assuming.
 
 **Worked example (4 marks): "Using a pie chart of water use in a low-income country, explain why agriculture uses the largest proportion."**
 
@@ -120,7 +120,7 @@ Learn shortages as two groups: not enough water, or not enough money and infrast
 - Leaking pipes and poor maintenance.
 - Lack of investment in dams, pipes and treatment: economic water scarcity.
 
-Many places in sub-Saharan Africa have enough rain overall but too little investment to supply people, while places like the Arabian Peninsula face physical scarcity.
+Much of sub-Saharan Africa faces economic water scarcity, while arid regions such as North Africa and West Asia face physical scarcity.
 
 ## 4. The impact of lack of clean water
 
@@ -163,8 +163,8 @@ Singapore is a small, densely populated island city-state. It has heavy rainfall
 
 1. **Local catchment.** About two-thirds of Singapore's land is used as water catchment. Rain is collected through drains and canals into 17 reservoirs. Marina Barrage, opened in 2008, dammed the mouth of the Marina Channel to create a freshwater reservoir in the city centre.
 2. **Imported water.** Under a 1962 agreement, which expires in 2061, Singapore can draw up to 250 million gallons a day from the Johor River in Malaysia.
-3. **NEWater.** Treated used water is purified again by microfiltration, reverse osmosis and ultraviolet disinfection. NEWater was launched in 2002. Government figures say it can meet up to about 40% of current demand. Most goes to industry, such as wafer fabrication plants, and air-conditioning cooling. In dry periods it is added to reservoirs.
-4. **Desalination.** The first plant opened in 2005. By 2022 there were five, which can meet up to about 30% of current needs.
+3. **NEWater.** Treated used water is purified again by microfiltration, reverse osmosis and ultraviolet disinfection. NEWater was launched in 2002. PUB says it can meet up to 40% of Singapore's current water needs. Most goes to industry, such as wafer fabrication plants, and air-conditioning cooling. In dry periods it is added to reservoirs.
+4. **Desalination.** The first plant opened in 2005, and there are now five plants. Desalinated water does not depend on rainfall.
 
 **Managing demand.** Total demand is about 430 million gallons a day. Prices include a water conservation tax, and households pay a higher rate above 40 cubic metres a month. Household use per person has fallen since 2003, when it was 165 litres a day. Only about 5% of water is lost as non-revenue water.
 
@@ -174,7 +174,7 @@ Singapore is a small, densely populated island city-state. It has heavy rainfall
 
 **Worked example (7 marks): "For a named country or area, describe and explain how water is supplied."**
 
-> Singapore has heavy rainfall but little land to collect it, so it uses Four National Taps. First, about two-thirds of the island is catchment, and rain is channelled into 17 reservoirs, including Marina Reservoir behind Marina Barrage. Second, it imports water from Malaysia's Johor River under a 1962 agreement lasting until 2061, because local catchment alone cannot meet demand of about 430 million gallons a day. Third, used water is purified into NEWater, which can meet up to about 40% of demand, mainly for industry. Finally, five desalination plants turn seawater into fresh water. Using several sources means supply is secure even in a drought, but the high energy cost is a weakness.
+> Singapore has heavy rainfall but little land to collect it, so it uses Four National Taps. First, about two-thirds of the island is catchment, and rain is channelled into 17 reservoirs, including Marina Reservoir behind Marina Barrage. Second, it imports water from Malaysia's Johor River under a 1962 agreement lasting until 2061, because local catchment alone cannot meet demand of about 430 million gallons a day. Third, used water is purified into NEWater, which can meet up to 40% of current needs, mainly for industry. Finally, five desalination plants turn seawater into fresh water. Using several sources means supply is secure even in a drought, but the high energy cost is a weakness.
 
 Notice: named place, numbers, a reason for each method, and a brief judgement.
 

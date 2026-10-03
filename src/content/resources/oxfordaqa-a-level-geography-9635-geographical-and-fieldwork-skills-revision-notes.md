@@ -54,6 +54,7 @@ When you have revised, test yourself with the [practice questions](/resources/ox
 | Proportional divided circle | Circle with area proportional to its total, divided into segments |
 | Triangular graph | Plots three components that add to 100% |
 | Logarithmic scale | Each cycle is a tenfold increase; compresses a wide range |
+| Atlas map | Small-scale map giving the regional or global context of a place or pattern |
 | Dispersion diagram | Each value plotted as a dot on a vertical scale to show spread |
 | Inter-quartile range | Upper quartile minus lower quartile: the spread of the middle half |
 | Standard deviation | Average spread of values around the mean |
@@ -81,7 +82,7 @@ When you have revised, test yourself with the [practice questions](/resources/ox
 
 **Critical values to recognise** (from standard tables):
 
-- Spearman's rank, n = 10, two-tailed: 0.648 (0.05), 0.794 (0.01).
+- Spearman's rank, n = 10, two-tailed (non-directional hypothesis): 0.648 (0.05), 0.794 (0.01). One-tailed (directional): 0.564 (0.05), 0.745 (0.01).
 - Chi-square, df = 1: 3.84 (0.05), 6.63 (0.01). df = 2: 5.99 (0.05), 9.21 (0.01). df = 3: 7.81 (0.05), 11.34 (0.01).
 
 In the exam you will normally be given the table. Use it.
@@ -95,6 +96,7 @@ In the exam you will normally be given the table. Use it.
 - **Three parts adding to 100%:** triangular graph.
 - **Very wide range of values:** logarithmic scale.
 - **Spread and outliers in a small data set:** dispersion diagram.
+- **Regional or global context of a place or pattern:** atlas maps.
 - **Values at points on a map:** located proportional symbols.
 - **Movement:** flow lines (volume), desire lines (origin to destination), trip lines (individual journeys).
 - **Patterns over an area:** choropleth (by area), isoline (continuous change), dot (density).
@@ -162,7 +164,7 @@ The specification requires every student to do a personal investigation. If prac
 7. (2 - 1) x (3 - 1) = 2.
 8. Large areas tend to have large totals simply because of their size, which hides the real pattern.
 9. It is unrepresentative, because only people with the technology and willingness to contribute are included.
-10. Equal rates of change.
+10. Equal percentage (proportional) rates of change, not equal absolute changes.
 11. Unfamiliar fieldwork questions and familiar fieldwork questions.
 
 ## Where marks are usually lost
@@ -180,4 +182,4 @@ The specification requires every student to do a personal investigation. If prac
 
 ## Official syllabus
 
-These notes follow the OxfordAQA International AS and A-level Geography (9635) specification, Version 3.2, section 3.5 (Unit 5: Geographical and Fieldwork skills) and the scheme of assessment in section 4.
+These notes follow the OxfordAQA International AS and A-level Geography (9635) specification, Version 3.2, section 3.5 (Unit 5: Geographical and Fieldwork skills) and the scheme of assessment in section 4. Check the current version on the OxfordAQA website.

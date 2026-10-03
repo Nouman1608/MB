@@ -62,7 +62,7 @@ Use these terms: "infiltration transfers water to the soil store" beats "water g
 - **Frontal:** warm air is forced over cold air at a depression's front.
 - **Orographic (relief):** air is forced over hills and mountains.
 
-**Cryospheric processes** are accumulation (snowfall adding to ice) and ablation (melting, sublimation and calving). At the global scale, during the last glacial maximum, so much water was stored as ice that sea level was about 120 m lower than today. At the drainage basin scale, snowmelt in spring can raise river flow for weeks. On hill slopes, frozen ground stops infiltration.
+**Cryospheric processes** are accumulation (snowfall adding to ice) and ablation (melting, sublimation and calving). At the global scale, during the last glacial maximum, so much water was stored as ice that sea level was about 120 to 125 m lower than today. At the drainage basin scale, snowmelt in spring can raise river flow for weeks. On hill slopes, frozen ground stops infiltration.
 
 **Drainage basins as open systems.**
 
@@ -113,7 +113,7 @@ The cryosphere also stores carbon, mainly as frozen organic matter in permafrost
 - **Natural:** wildfires release carbon quickly, but regrowth can take it back over decades. Volcanic activity releases carbon from the lithosphere.
 - **Human:** extracting and burning hydrocarbon fuels moves carbon from a slow store (the lithosphere) to a fast one (the atmosphere). Farming practices matter too: ploughing exposes soil carbon to decomposition, and cattle and flooded rice fields produce methane. Deforestation and land use changes, such as draining peat or urban growth, also release carbon.
 
-**The carbon budget** compares carbon entering and leaving each store. In 2018 the Global Carbon Project estimated fossil emissions at 37.1 billion tonnes of carbon dioxide, about 10.1 GtC. Somewhat under half of human emissions stays in the atmosphere; oceans and land take up the rest. Atmospheric carbon dioxide at Mauna Loa rose from an annual mean of 315.98 ppm in 1959 to 421.08 ppm in 2023, compared with about 280 ppm before industrialisation. Effects include an enhanced greenhouse effect and warming (atmosphere), ocean acidification (ocean) and changes to plant growth and soil carbon (land).
+**The carbon budget** compares carbon entering and leaving each store. The Global Carbon Project projected 2018 fossil emissions at 37.1 billion tonnes of carbon dioxide, about 10.1 GtC. Somewhat under half of human emissions stays in the atmosphere; oceans and land take up the rest. Atmospheric carbon dioxide at Mauna Loa rose from an annual mean of 315.98 ppm in 1959 to 421.08 ppm in 2023, compared with about 280 ppm before industrialisation. Effects include an enhanced greenhouse effect and warming (atmosphere), ocean acidification (ocean) and changes to plant growth and soil carbon (land).
 
 ## 3.3.1.4 Water, carbon, climate and life on Earth
 
@@ -169,7 +169,7 @@ The Eden rises at Black Fell Moss, Mallerstang. It flows through Kirkby Stephen,
 
 - **Flooding, 7 January 2005:** up to 180 mm of rain fell upstream in a day. The Eden, Caldew and Petteril flooded about 2,700 homes in Carlisle and three people died.
 - **Flooding, December 2015 (Storm Desmond):** Honister Pass in the Lake District recorded 341.4 mm on 5 December. About 36 hours of rain overwhelmed Carlisle's defences, and about 5,200 homes flooded across Cumbria and Lancashire. After days of rain, soil stores were close to full, so more rain became overland flow and reached channels quickly.
-- **Water supply:** Haweswater Reservoir, completed by 1935 for Manchester and now run by United Utilities, supplies about 25% of North West England's water. It drains via Haweswater Beck towards the Lowther, Eamont and Eden. Storage can protect supply in dry spells, but it moves water out of the Eden basin.
+- **Water supply:** Haweswater Reservoir, filled by 1935 for Manchester and now run by United Utilities, supplies about 25% of North West England's water. It drains via Haweswater Beck towards the Lowther, Eamont and Eden. Storage can protect supply in dry spells, but it moves water out of the Eden basin.
 
 **Evaluation.** The Eden shows the same basin can face both too much water and pressure on supply. Higher defences protect Carlisle but can pass water downstream. Upland land use change, such as tree planting, could increase interception, but is unproven at the scale of a 2015-type storm.
 

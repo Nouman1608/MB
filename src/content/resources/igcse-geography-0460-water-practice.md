@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "theme-3-economic-development-0460"
     subtopic: "water-0460"
-description: "Original IGCSE Geography 0460 water questions with marked answers: supply methods, water-use data, reservoir graphs, shortages and extended case studies."
+description: "Original IGCSE Geography 0460 water questions with marked answers: supply methods, water-use data, reservoir records, shortages and extended case studies."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
@@ -87,7 +87,7 @@ Revise first with the [water study guide](/resources/igcse-geography-0460-water/
 
 **10.** For a named country or area you have studied, describe and explain how water is supplied to meet demand. **[8]**
 
-**11.** "Large dams are the best way to supply water to rural communities in low-income countries." Evaluate this view. **[9]**
+**11.** "Large dams are the best way to supply water to rural communities in low-income countries." How far do you agree with this view? **[9]**
 
 **12.** To what extent are water shortages caused by human factors rather than physical factors? Refer to examples. **[10]**
 
@@ -134,7 +134,7 @@ Revise first with the [water study guide](/resources/igcse-geography-0460-water/
 *Examiner insight:* Questionnaire questions must link to the enquiry aim and be answerable; vague opinion questions rarely score.
 
 **10.** Indicative answer using Singapore; the real exam marks this with levels of response, not point by point.
-Singapore is a small, densely populated island with little land to store rain [1]. About two-thirds of the land is catchment feeding 17 reservoirs [1], including Marina Reservoir behind Marina Barrage, opened in 2008 [1]. It imports water from Malaysia's Johor River under a 1962 agreement lasting until 2061 [1], because local catchment cannot meet demand of about 430 million gallons a day [1]. Used water is purified by microfiltration, reverse osmosis and ultraviolet light into NEWater, launched in 2002 [1], which can meet up to about 40% of demand, mainly for industry [1]. Five desalination plants turn seawater into fresh water, so supply does not depend on rainfall [1]. **[8]**
+Singapore is a small, densely populated island with little land to store rain [1]. About two-thirds of the land is catchment feeding 17 reservoirs [1], including Marina Reservoir behind Marina Barrage, opened in 2008 [1]. It imports water from Malaysia's Johor River under a 1962 agreement lasting until 2061 [1], because local catchment cannot meet demand of about 430 million gallons a day [1]. Used water is purified by microfiltration, reverse osmosis and ultraviolet light into NEWater, launched in 2002 [1], which can meet up to 40% of current needs, mainly for industry [1]. Five desalination plants turn seawater into fresh water, so supply does not depend on rainfall [1]. **[8]**
 *Examiner insight:* Top-level answers combine named methods, place-specific figures and a reason for each method.
 
 **11.** Indicative points; the real exam marks this with levels of response, not point by point.
@@ -142,7 +142,7 @@ For: a large dam stores wet-season water, so supply is reliable in the dry seaso
 Against: large dams cost a great deal, which low-income governments struggle to fund [1]; they often supply cities and industry rather than scattered rural villages [1]; people lose land and homes, as in the Lesotho Highlands Water Project [1].
 Alternatives: boreholes with hand pumps are cheap and close to where rural people live [1]; but they need maintenance and can lower the water table if over-used [1].
 Judgement: for scattered rural communities, small-scale boreholes or rainwater tanks run by the community are usually more suitable than large dams, though dams may help regional supply [1]. **[9]**
-*Examiner insight:* "Evaluate" needs both sides and a reasoned judgement; a one-sided list stays in the lower levels.
+*Examiner insight:* "How far do you agree" needs both sides and a reasoned judgement; a one-sided list stays in the lower levels.
 
 **12.** Indicative points; the real exam marks this with levels of response, not point by point.
 Physical: low annual rainfall in deserts limits supply [1]; seasonal or unreliable rainfall means rivers and reservoirs dry out [1]; high temperatures increase evaporation [1].

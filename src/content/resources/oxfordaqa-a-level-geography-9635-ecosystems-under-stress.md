@@ -51,7 +51,7 @@ The index tracks the average change in monitored vertebrate populations. It is n
 
 **Causes** fit a simple framework: habitat change (clearance, drainage, fragmentation), overexploitation (overfishing, hunting), pollution, invasive species and climate change. **Impacts** include loss of ecosystem services (pollination, clean water, fisheries, coastal protection), lower resilience to shocks, and lost genetic resources for crops and medicines.
 
-Ecosystems supply food, fuel, timber, water and space, and demand rises with population and economic development. People are not only a threat: traditional fire use and grazing have shaped many ecosystems for centuries. Sustainability means using ecosystems while keeping their functions intact.
+Ecosystems supply food, fuel, timber, water and space, and demand rises with population and economic development. Yet traditional fire use and grazing have shaped many ecosystems for centuries. Sustainability means using ecosystems while keeping their functions intact.
 
 ## Ecosystem structure, energy and nutrients (3.3.2.2)
 
@@ -86,17 +86,17 @@ The four seres in the specification are the **lithosere** (bare rock), **haloser
 
 ### Example: a psammosere at Studland, Dorset
 
-Studland and Godlingston Heath, on the Isle of Purbeck in Dorset, is a National Nature Reserve owned and managed by the National Trust (631 hectares). It contains sand dunes, lowland heath, wetland and a freshwater lagoon, Little Sea.
+Studland and Godlingston Heath, on the Isle of Purbeck in Dorset, is a 631-hectare National Nature Reserve owned and managed by the National Trust. It contains sand dunes, lowland heath, wetland and a freshwater lagoon, Little Sea.
 
 A psammosere runs inland from the beach:
 
-1. **Embryo dunes**: salt-tolerant pioneers trap sand. Soil is alkaline from shell fragments, dry and nutrient-poor.
+1. **Embryo dunes**: salt-tolerant pioneers trap sand. The sand is dry and nutrient-poor, and slightly alkaline where shell fragments are present.
 2. **Fore dunes and yellow dunes**: marram grass dominates. It grows up through fresh sand, has rolled leaves that cut water loss and long roots.
 3. **Grey dunes**: more humus darkens the surface. More species arrive, including mosses, lichens and flowering plants. pH falls as calcium carbonate is leached.
 4. **Dune slacks**: damp hollows where the water table is near the surface.
 5. **Heath and scrub**: acidic soils carry heather and gorse, then birch and pine.
 
-In lowland Britain the climatic climax would be deciduous woodland dominated by oak. At Studland much of the land is open heath. Heath is usually treated as a **plagioclimax**, kept open by grazing, cutting and scrub removal. Without that, birch and pine would invade. The heath supports all six native British reptiles, including the sand lizard and smooth snake. Studland is also prone to summer fires, which can reset succession.
+In lowland Britain the climatic climax would be deciduous woodland dominated by oak. At Studland much of the land is open heath. Heath is usually treated as a **plagioclimax**, kept open by management. The National Trust grazes it with Red Devon cattle; without grazing, birch and pine would invade. The heath supports all six native British reptiles, including the sand lizard and smooth snake. Studland is also prone to summer fires, which can reset succession.
 
 **Evaluation.** The sequence is a space-for-time substitution: we assume sites further inland are older. Blowouts, trampling and fire can skip or reverse stages.
 
@@ -104,7 +104,7 @@ In lowland Britain the climatic climax would be deciduous woodland dominated by 
 
 *Question: "Explain how human activity can produce a plagioclimax."*
 
-At Studland, the heath behind the dunes would, if left alone, succeed to birch and pine scrub and then towards oak woodland, the climatic climax for lowland Britain (knowledge). The National Trust keeps it open by cutting and clearing invading trees, so the community is held at heath (application). This means the vegetation reflects management, not climate, which is the defining feature of a plagioclimax (analysis). However, fires at Studland also hold back succession, so heath is partly maintained by a mix of human and natural disturbance (evaluation).
+At Studland, the heath behind the dunes would, if left alone, succeed to birch and pine scrub and then towards oak woodland, the climatic climax for lowland Britain (knowledge). The National Trust keeps it open by grazing it with Red Devon cattle, so the community is held at heath (application). This means the vegetation reflects management, not climate, which is the defining feature of a plagioclimax (analysis). However, fires at Studland also hold back succession, so heath is partly maintained by a mix of human and natural disturbance (evaluation).
 
 ## Biomes (3.3.2.3)
 
@@ -144,11 +144,11 @@ The Great Barrier Reef, off Queensland, is over 2,300 km long. It has over 2,900
 - **Water temperature**: marine heatwaves cause bleaching, where corals expel their algae. Mass bleaching occurred in 1998 and 2002 and repeatedly from 2016, including 2016, 2017, 2020, 2022 and 2024.
 - **Acidity**: rising carbon dioxide lowers ocean pH, which makes it harder for corals to build skeletons.
 - **Salinity**: floodwater after cyclones and heavy rain lowers salinity near the coast.
-- **Algal blooms**: nutrient-rich water feeds algae and the larvae of crown-of-thorns starfish, which eat coral.
+- **Algal blooms**: nutrient-rich water feeds blooms of phytoplankton (microscopic algae). Crown-of-thorns starfish larvae feed on phytoplankton, so more survive, and the adult starfish eat coral.
 
 **Human activity**
 
-- **Major drainage basin schemes, onshore development and pollution**: large dams such as the Burdekin Falls Dam alter the freshwater and sediment reaching the coast. Catchments such as the Burdekin and Fitzroy drain grazing land and cropland. Over 90% of the pollution reaching the reef is from farm runoff, carrying sediment, fertiliser and pesticide. Port development has required dredging, and plans to dump dredged seabed near Abbot Point drew strong opposition.
+- **Major drainage basin schemes, onshore development and pollution**: large dams such as the Burdekin Falls Dam alter the freshwater and sediment reaching the coast. Catchments such as the Burdekin and Fitzroy drain grazing land and cropland. Over 90% of the pollution reaching the reef is from farm runoff, carrying sediment, fertiliser and pesticide. Plans to dump dredged seabed near Abbot Point drew strong opposition.
 - **Desalination**: minor here; it matters more on arid coasts such as the Gulf, where brine raises salinity.
 - **Tourism**: around two million visitors a year bring income, but also anchor damage and trampling.
 - **Fishing**: removes predators and grazers.
@@ -177,7 +177,7 @@ Rondônia, in the western Brazilian Amazon, once held over 200,000 km² of rainf
 
 **How the community reflects its ecological setting.** The economy rests on cattle (over 14 million head by 2017) and soybeans. Land conflict is a political issue: Indigenous territories such as the Uru-Eu-Wau-Wau Indigenous Territory (over 1.8 million hectares) sit beside ranches.
 
-**Responses.** Brazil's Forest Code requires Amazon landowners to keep a share of their land under native vegetation. Satellite monitoring (PRODES and DETER) tracks clearance. Across the Brazilian Amazon, deforestation peaked in 2004 at 27,423 km² a year and then fell sharply.
+**Responses.** Brazil's Forest Code requires Amazon landowners to keep a share of their land under native vegetation. Satellite monitoring (PRODES and DETER) tracks clearance. Across the Brazilian Amazon, annual deforestation was over 27,000 km² in 2004 and then fell sharply.
 
 **Evaluation.** Enforcement has varied with national politics, and monitoring shows clearance but does not stop it.
 
@@ -191,7 +191,6 @@ Use Studland or Sungei Buloh above. Cover the ecosystem's properties, human impa
 - Mixing up sub-climax (natural halt) and plagioclimax (human halt).
 - Saying energy is "recycled". Nutrients cycle; energy flows through and leaves as heat.
 - Describing coral bleaching as coral death. Bleached coral can recover if conditions improve quickly.
-- Naming the Great Barrier Reef but writing only general points.
 - Giving rainforest adaptations without linking them to climate, soil or the soil moisture budget.
 
 ## Where to go next

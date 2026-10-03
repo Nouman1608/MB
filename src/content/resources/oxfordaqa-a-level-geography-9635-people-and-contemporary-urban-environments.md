@@ -31,17 +31,15 @@ Use it with the [revision notes](/resources/oxfordaqa-a-level-geography-9635-peo
 
 | Syllabus reference | What you must know or be able to do (from the specification) | Where assessed |
 |---|---|---|
-| 3.4.2.1 Urbanisation | Global patterns since 1945; megacities and world cities; processes of urban growth; change in the more developed and developing world | Unit 4, Section B |
-| 3.4.2.2 Urban forms | Megacity and world city characteristics; land use, inequality, segregation and diversity; new urban landscapes; the post-modern city | Unit 4, Section B |
+| 3.4.2.1 Urbanisation | Importance of urbanisation; global patterns since 1945; megacities and world cities and their economic role; processes of urban growth; change in the more developed and developing world | Unit 4, Section B |
+| 3.4.2.2 Urban forms | Megacity and world city characteristics; physical and human factors in urban form; land use, inequality, segregation and diversity; new urban landscapes; the post-modern city | Unit 4, Section B |
 | 3.4.2.3 Social and economic issues | Issues of inequality, segregation and cultural diversity; strategies to manage them | Unit 4, Section B |
-| 3.4.2.4 Urban climate | Heat island, precipitation, fog and thunderstorms, wind, air quality; pollution reduction policies | Unit 4, Section B |
+| 3.4.2.4 Urban climate | Impact of urban forms on local climate: heat island, precipitation, fog and thunderstorms, wind, air quality; pollution reduction policies | Unit 4, Section B |
 | 3.4.2.5 Urban waste | Sources and waste streams; impacts of disposal methods; incineration versus landfill in a specified urban area | Unit 4, Section B |
-| 3.4.2.6 Health and wellbeing | Patterns of health; environment and disease; malaria; one named non-communicable disease | Unit 4, Section B |
+| 3.4.2.6 Health and wellbeing | Patterns of health, mortality and morbidity; environment, air and water quality, urban stress and disease; malaria; one named non-communicable disease | Unit 4, Section B |
 | 3.4.2.7 Other environmental issues | Atmospheric and water pollution, drainage, dereliction; management strategies | Unit 4, Section B |
-| 3.4.2.8 Sustainable urban development | Ecological footprint; dimensions of sustainability; liveability; strategies | Unit 4, Section B |
+| 3.4.2.8 Sustainable urban development | Local and global impacts; ecological footprint; dimensions of sustainability; features of sustainable cities; liveability; opportunities, challenges and strategies | Unit 4, Section B |
 | 3.4.2.9 Case studies | Two contrasting urban areas: economic and social wellbeing, physical environmental conditions | Unit 4, Section B |
-
-The specification says this section develops mapping, data and statistical skills, so expect data in questions.
 
 ## 3.4.2.1 Urbanisation
 
@@ -74,9 +72,9 @@ Urban form is shaped by **physical factors** (relief, coasts, rivers, flood risk
 
 **The post-modern city** is fragmented rather than organised around one centre. It has many centres, sharp contrasts between rich enclaves and poor districts, private and surveilled spaces, and buildings designed for image and consumption.
 
-**Example: Eko Atlantic, Lagos.** This private city is being built on about 9 km² of land reclaimed from the sea in front of Bar Beach, beside Victoria Island. An 8.5 km sea barrier protects it. It shows fortress and post-modern traits: a protected high-income enclave in a city where many live in informal housing. Nearby residents have linked the works to coastal erosion and ocean surges, and the state has been criticised for not involving local people.
+**Example: Eko Atlantic, Lagos.** This private city is being built on about 9 km² of land reclaimed from the sea in front of Bar Beach, beside Victoria Island. An 8.5 km sea barrier protects it. It shows fortress and post-modern traits: a protected high-income enclave in a city where many live in informal housing. Nearby residents link the works to coastal erosion and surges; the state was criticised for not involving local people.
 
-*Evaluation:* the post-modern model describes fragmentation well but explains less. Older models still capture land-value gradients in many cities.
+*Evaluation:* the post-modern model describes fragmentation well but explains less.
 
 ## 3.4.2.3 Social and economic issues
 
@@ -98,7 +96,7 @@ Urban form is shaped by **physical factors** (relief, coasts, rivers, flood risk
 - **Wind:** rough surfaces cut average wind speed, but **canyon effects** funnel and accelerate wind between tall blocks, and tall buildings cause gusts and eddies.
 - **Air quality:** **particulates** (PM10, PM2.5) from traffic, industry, generators and burning; **photochemical smog** forms when sunlight acts on nitrogen oxides and hydrocarbons to produce ground-level ozone.
 
-**Pollution reduction policies.** Singapore introduced **Electronic Road Pricing** on 1 April 1998, charging vehicles to use busy roads at busy times. London's **Ultra Low Emission Zone** began in 2019 and covered all London boroughs from August 2023. Lagos opened its bus rapid transit corridor in 2008 and its first light-rail line, the Blue Line, in 2023.
+**Pollution reduction policies.** Singapore introduced **Electronic Road Pricing** on 1 April 1998, charging vehicles to use busy roads at busy times. London's **Ultra Low Emission Zone** began in 2019 and covered all London boroughs from August 2023. Lagos opened bus rapid transit in 2008 and its Blue Line urban railway to passengers in 2023.
 
 *Evaluation:* charges shift behaviour but hit lower-income drivers hardest, and need good public transport.
 
@@ -108,7 +106,7 @@ Urban form is shaped by **physical factors** (relief, coasts, rivers, flood risk
 
 **Disposal approaches and environmental impacts:** unregulated dumping (leachate, open burning, disease vectors); recycling (saves materials but needs sorting and markets); recovery (energy from waste, composting); incineration (cuts volume, risks air pollution and toxic ash); burial in landfill (methane, leachate, land take); submergence (dumping at sea); and trade (export of waste, often to poorer countries).
 
-**Comparison in a specified urban area (Singapore and Lagos).** Singapore has very little land. Its National Environment Agency states that incineration reduces waste by up to 90% and recovers energy that meets up to 3% of the island's electricity needs. Ash and non-incinerable waste go by covered barge to **Semakau Landfill**, an offshore site created by a 7 km rock bund enclosing sea between two islands. It began operating in 1999. Its space is finite, which drives recycling and ash-reuse policy.
+**Comparison in a specified urban area (Singapore and Lagos).** Singapore has very little land. Its National Environment Agency states that incineration reduces waste by up to 90% and recovers energy that meets up to 3% of the island's electricity needs. Ash and non-incinerable waste go by covered barge to **Semakau Landfill**, an offshore site created by a 7 km rock bund enclosing sea between two islands. It began operating in 1999. Its space is finite, driving recycling policy.
 
 Lagos relies on landfill. **Olusosun**, about 40 hectares, receives up to 10,000 tonnes a day. Once on the city's edge, it is now surrounded by homes and businesses. Waste burning there pollutes the air, and leachate contaminates groundwater.
 
@@ -128,7 +126,7 @@ Health, mortality and morbidity vary within cities. They tend to be worse in poo
 
 - **Atmospheric pollution:** see 3.4.2.4.
 - **Water pollution:** untreated sewage, industrial discharge and surface run-off. In Makoko, homes sit over a lagoon with little formal sanitation.
-- **Urban drainage:** impermeable surfaces shorten lag time and raise peak discharge. Low-lying Lagos is prone to flooding when drains are blocked by waste. Strategies include **sustainable urban drainage systems (SuDS)**: permeable paving, swales, retention ponds and green roofs.
+- **Urban drainage:** impermeable surfaces shorten lag time and raise peak discharge. Low-lying Lagos floods often, linked to unplanned growth and too few, poorly maintained drains. Strategies include **sustainable urban drainage systems (SuDS)**: permeable paving, swales, retention ponds and green roofs.
 - **Dereliction:** abandoned land and buildings after deindustrialisation. Strategies include brownfield regeneration and temporary green space.
 
 ## 3.4.2.8 Sustainable urban developments
@@ -150,7 +148,7 @@ The specification requires **two contrasting urban areas**. They must cover patt
 | Wellbeing | Large informal sector; wealth in Victoria Island and Eko Atlantic beside Makoko | Most residents in public housing; ethnic quotas since 1989 |
 | Physical conditions | Low-lying lagoon and coast; flooding and erosion | Tropical island with very little land; heat |
 | Waste | Landfill at Olusosun | Incineration and offshore Semakau Landfill |
-| Health | Malaria endemic | Malaria-free since 1982 |
+| Health | Malaria still transmitted (high risk across Nigeria) | Malaria-free since 1982 |
 | Experience and attitudes | Residents contest evictions and coastal works | Broad acceptance of state planning, with debate over quotas |
 
 Your teacher may choose different case studies; the specification does not name them.

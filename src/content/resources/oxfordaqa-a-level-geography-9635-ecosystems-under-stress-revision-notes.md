@@ -84,16 +84,16 @@ Practise with the [practice questions](/resources/oxfordaqa-a-level-geography-96
 
 | Case study | What | Key facts | One evaluation point |
 |---|---|---|---|
-| Studland, Dorset (psammosere, 3.3.2.4) | Dune-to-heath succession on the Isle of Purbeck; National Trust, 631 ha | Embryo, yellow (marram), grey dunes, slacks, heath; pH falls inland; heath kept open by management; all six native British reptiles | Space-for-time substitution assumes inland sites are older; fire and trampling can reset stages |
+| Studland, Dorset (psammosere, 3.3.2.4) | Dune-to-heath succession on the Isle of Purbeck; National Trust, 631 ha | Embryo, yellow (marram), grey dunes, slacks, heath; pH falls inland; heath kept open by cattle grazing; all six native British reptiles | Space-for-time substitution assumes inland sites are older; fire and trampling can reset stages |
 | Great Barrier Reef, Australia (3.3.2.5) | Named, located reef off Queensland | Over 2,300 km; over 2,900 reefs; Marine Park Act 1975; World Heritage 1981; mass bleaching 1998, 2002, 2016, 2017, 2020, 2022, 2024; over 90% of pollution from farm runoff; 2004 zoning raised highly protected area from 4.5% to over 33%; Reef 2050 Plan (2015) | Local management can improve water quality but cannot prevent marine heatwaves |
 | Sungei Buloh, Singapore (3.3.2.6) | Mangrove and wetland reserve, 130 ha, National Parks Board | Nature park 1993; nature reserve 2002; ASEAN Heritage Park 2003; stopover on the East Asian-Australasian Flyway | Strong protection inside a small boundary; depends on the wider coast and overseas sites |
-| Rondônia, Brazil (3.3.2.7 region) | Amazon frontier region | BR-364 paved in the 1980s; population about 117,000 (1970) to over 1.1 million (1991); about 70,000 km² cleared by 2003; "fishbone" clearance; cattle and soy economy; Uru-Eu-Wau-Wau Indigenous Territory | Forest Code and satellite monitoring helped cut Amazon clearance after the 2004 peak, but enforcement varies with politics |
+| Rondônia, Brazil (3.3.2.7 region) | Amazon frontier region | BR-364 paved in the 1980s; population about 117,000 (1970) to over 1.1 million (1991); about 70,000 km² cleared by 2003; "fishbone" clearance; cattle and soy economy; Uru-Eu-Wau-Wau Indigenous Territory | Forest Code and satellite monitoring helped cut Amazon clearance after 2004, but enforcement varies with politics |
 
 Biodiversity trend data: the WWF Living Planet Report 2024 found an average 73% decline in monitored wildlife populations between 1970 and 2020; the 2019 IPBES assessment estimated around one million species threatened with extinction.
 
 ## Must-know distinctions
 
-- **Sub-climax vs plagioclimax**: natural halt vs human halt. Heath at Studland is a plagioclimax because cutting and scrub removal stop trees taking over.
+- **Sub-climax vs plagioclimax**: natural halt vs human halt. Heath at Studland is a plagioclimax because cattle grazing stops scrub and trees taking over.
 - **Energy vs nutrients**: energy flows and is lost; nutrients cycle and are reused.
 - **Biomass vs NPP**: biomass is a store (how much); NPP is a rate (how fast new matter is made).
 - **Bleaching vs death**: bleached coral can recover if stress ends soon.

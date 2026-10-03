@@ -32,7 +32,7 @@ Use it with the [condensed revision notes](/resources/oxfordaqa-a-level-geograph
 | Syllabus reference | What you must know or be able to do (from the document) | Where assessed |
 |---|---|---|
 | 3.4.1.1 | The concept of place and its importance in human life; insider and outsider perspectives; near and far places; directly experienced and media-experienced places; endogenous and exogenous factors in place character | Unit 4, Section A |
-| 3.4.1.2 | How relationships and connections affect continuity and change in places, at scales from local to global: demographic and cultural change, economic change and social inequalities, flows of people, goods, capital and ideas, external forces (government policies, multinational corporations), past and present connections | Unit 4, Section A |
+| 3.4.1.2 | How relationships and connections affect continuity and change in places, at scales from local to global: demographic and cultural change, economic change and social inequalities, flows of people, goods, capital and ideas, external forces (government policies, multinational corporations), past and present connections; how your own life and others' lives are affected by continuity and change | Unit 4, Section A |
 | 3.4.1.3 | How people perceive and attach meaning to places; how governments, corporations and community groups try to create place-meanings; formal versus informal representations; how past and present development is implicit in present meanings | Unit 4, Section A |
 | 3.4.1.4 | Quantitative data, including geospatial data, to investigate place; particular weight on qualitative approaches and on critical analysis of media | Unit 4, Section A |
 | 3.4.1.5 | A local place study and a contrasting, distant place study, each on lived experience past and present and on changing demographic, cultural and economic characteristics | Unit 4, Section A |
@@ -49,7 +49,7 @@ A useful framework comes from John Agnew (*Place and Politics*, 1987). He saw pl
 - **Locale** -- the material setting for social life: streets, homes, markets, schools.
 - **Sense of place** -- the feelings and meanings people attach to it.
 
-The specification does not name these writers. They are tools that help you write precisely, not required content.
+The specification does not name these writers; treat them as optional tools.
 
 **Why place matters.** Places shape identity, belonging, health, opportunity and safety. Losing a familiar place, through demolition, displacement or rapid change, can cause real distress. That is why the specification asks how your own life and the lives of others are affected by continuity and change.
 
@@ -85,7 +85,7 @@ The specification asks how relationships and connections change people and place
 
 **Key terms.** *Continuity*: features that persist through change. *Gentrification*: arrival of higher-income residents and businesses, often raising costs and displacing existing residents. *Regeneration*: deliberate improvement of a declining area. *Globalisation*: growing interconnection through flows (covered in depth in the [globalisation revision notes](/resources/oxfordaqa-a-level-geography-globalisation-revision-notes/)).
 
-**Worked paragraph.** *External forces can transform a place quickly [knowledge]. In Stratford, the decision to hold the 2012 Olympic Games in east London brought state-led investment in a 560-acre park, and Westfield Stratford City opened in September 2011 next to the site [application]. These decisions came from national government, the Mayor of London and a property company rather than residents, so the direction of change was set from outside [analysis]. However, Stratford had been shaped by external forces before, notably the Great Eastern Railway's works founded in 1847, so the Olympics continued a long pattern rather than starting one [evaluation].*
+**Worked paragraph.** *External forces can transform a place quickly [knowledge]. In Stratford, the decision to hold the 2012 Olympic Games in east London brought state-led investment in a 560-acre park, and Westfield Stratford City opened in September 2011 next to the site [application]. These decisions came from national government, the Mayor of London and a property company rather than residents, so the direction of change was set from outside [analysis]. However, Stratford had been shaped by external forces before, notably the railway works established there in 1847, so the Olympics continued a long pattern rather than starting one [evaluation].*
 
 ## 3.4.1.3 Meaning and representation
 
@@ -130,17 +130,17 @@ Both must focus on people's lived experience of the place in the past and at pre
 ### Illustrative study: the Walled City of Lahore, Pakistan
 
 - **Setting.** Old city of about 256 hectares with a population of about 200,000. Its historic gates include Delhi, Bhati, Lohari, Kashmiri, Roshnai and Shairanwala.
-- **Past.** Mughal-era buildings include the Wazir Khan Mosque (1634 to 1641) and the Shahi Hammam (1635). Lahore Fort was inscribed as a UNESCO World Heritage Site in 1981. Partition in 1947 changed the population sharply as Hindu and Sikh residents left and Muslim refugees arrived.
+- **Past.** Mughal-era buildings include the Wazir Khan Mosque (1634 to 1641) and the Shahi Hammam (1635). Lahore Fort was inscribed as a UNESCO World Heritage Site in 1981. Partition in 1947 brought mass migration in both directions across the new border: most Hindu and Sikh residents left for India, and Muslim refugees from India settled in the city. Displacement and loss affected all communities.
 - **Change.** Before restoration, the Shahi Hammam had been used as a school, dispensary and municipal office, with shops built into its façades, showing how commerce displaced older uses.
-- **External agencies.** The Walled City of Lahore Authority (2012) runs conservation and tourism. The Shahi Guzargah (Royal Trail) project began in 2012, with a first phase completed in 2015 with support from Norway and the United States.
+- **External agencies.** The Walled City of Lahore Authority (2012) runs conservation and tourism. The Shahi Guzargah (Royal Trail) pilot conservation project ran from 2012 to 2015 with support from the governments of Norway and the United States.
 - **Lived experience.** Gather interviews on how trading, congestion and heritage tourism affect daily life.
 
 ### Illustrative study: Stratford, east London, UK
 
 - **Setting.** In the London Borough of Newham, about six miles (ten kilometres) north-east of Charing Cross.
-- **Past.** Victorian industry grew on the marshes; the Great Eastern Railway's works opened in 1847.
-- **Change.** The 2012 Olympics drove regeneration. The London Legacy Development Corporation, a mayoral development corporation, was set up in 2012. Queen Elizabeth Olympic Park opened permanently in 2014. The former athletes' village became East Village, with about 3,500 homes, half affordable. UCL and London College of Fashion opened campuses on the park in 2023.
-- **Contrast with Lahore.** Higher income country, different political and economic system, ethnically very mixed population.
+- **Past.** Victorian industry grew on the marshes; the Eastern Counties Railway moved its works to Stratford in 1847, and the Great Eastern Railway ran them from 1862.
+- **Change.** The 2012 Olympics drove regeneration. The London Legacy Development Corporation, a mayoral development corporation, was set up in 2012. Queen Elizabeth Olympic Park opened permanently in 2014. The former athletes' village became East Village, with 2,818 homes, of which 1,379 are affordable. UCL and London College of Fashion opened campuses on the park in 2023.
+- **Contrast with Lahore.** Higher-income country, much lower population density than the Walled City, ethnically very mixed population.
 - **Lived experience.** Long-standing residents may welcome transport and jobs while reporting rising rents; Focus E15 shows contested meaning.
 
 ## Common errors

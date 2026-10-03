@@ -70,8 +70,8 @@ Practise with the [Environmental risks practice questions](/resources/igcse-geog
 
 | Who or where | What | Key details | One evaluation point |
 |---|---|---|---|
-| Niger Delta, Nigeria (case study) | Oil extraction putting the environment and people at risk | Oil found at Oloibiri, 1956; oil spills, gas flaring, mangroves and fishing harmed | New spills continue and clean-up is slow, so prevention matters more than repair |
-| Ogoniland (UNEP, 2011) | United Nations assessment of oil pollution | Over 4,000 samples; benzene in one community's drinking water about 900 times the WHO guideline; up to 30 years to recover; about US$1 billion for the first five years | Strong evidence base, but recommendations depend on governments acting |
+| Niger Delta, Nigeria (case study) | Oil extraction putting the environment and people at risk | Oil found at Oloibiri, 1956; oil spills, gas flaring, mangroves and fishing harmed | Views differ on causes: oil companies stress theft and sabotage, communities stress poor maintenance, and critics say government enforcement is weak. New spills continue, so prevention matters more than repair |
+| Ogoniland (UNEP, 2011) | United Nations assessment of oil pollution | Over 4,000 samples from more than 200 sites; benzene in one community's drinking water about 900 times the WHO guideline; up to 30 years to recover; about US$1 billion for the first five years | Strong evidence base, but recommendations depend on governments acting |
 | Bodo, Ogoniland | Two Shell pipeline spills that began in 2008 | 2015 settlement of £55 million after a London court case | Compensation helps people but does not clean the creeks by itself |
 | Great Green Wall, Sahel | Response to desertification | Endorsed by the African Union in 2007; about 8,000 km; aim to restore 100 million hectares by 2030 | Progress slower than planned; needs local people to protect new trees |
 | Brundtland Report (1987) | *Our Common Future* | Gave the standard definition of sustainable development | Widely used, but does not say how to balance jobs against the environment |
@@ -100,17 +100,17 @@ Practise with the [Environmental risks practice questions](/resources/igcse-geog
 
 ## Quick self-test
 
-1. Name the four threats listed in the syllabus guidance.
-2. Name the four types of pollution the syllabus lists.
+1. State the four threats listed in the syllabus guidance.
+2. State the four types of pollution the syllabus lists.
 3. Define desertification.
 4. Give two economic activities that add greenhouse gases.
-5. How does terracing reduce soil erosion?
+5. Explain how terracing reduces soil erosion.
 6. Explain eutrophication in one sentence.
 7. Give one source and one effect of noise pollution.
 8. State the Brundtland definition of sustainable development.
-9. Why can a renewable resource still run out?
-10. In a fictional village, 26 of 40 wells tested were polluted by oil. What percentage is this?
-11. Name one threat from oil extraction in the Niger Delta that is local and one that is global.
+9. Explain why a renewable resource can still run out.
+10. In a fictional village, 26 of 40 wells tested were polluted by oil. Calculate the percentage polluted.
+11. Identify one threat from oil extraction in the Niger Delta that is local and one that is global.
 12. Give two methods of resource conservation.
 
 ### Answers

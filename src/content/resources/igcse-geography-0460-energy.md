@@ -56,7 +56,7 @@ The guidance column uses "including", so you must study every source listed but 
 
 ## 1. The importance of fossil fuels
 
-Coal, oil and natural gas still supply most of the world's energy. As of 2022, about 80% of world energy consumption came from fossil fuels. In 2024, fossil fuels still generated 56.5% of world electricity, with coal alone at 34.4%.
+Coal, oil and natural gas still supply most of the world's energy. As of 2022, about 80% of world energy consumption came from fossil fuels. In 2024, coal and natural gas together still generated about 56.5% of world electricity, with coal alone at 34.4%.
 
 **Why they matter**
 
@@ -82,7 +82,7 @@ Fuelwood is the main household fuel for many of the world's poorest people. The 
 
 Nuclear power stations heat water by splitting uranium atoms. The steam drives turbines. In 2020, nuclear supplied about 4.3% of world primary energy, but some countries depend on it heavily.
 
-**Example: France.** After the 1973 oil crisis, Prime Minister Pierre Messmer announced a large nuclear programme in March 1974. By 2018, nuclear produced about 72% of France's electricity, the highest share in the world, and France has 56 operable reactors. France exports electricity to its neighbours. Its new reactor at Flamanville has cost about three times the original estimate.
+**Example: France.** After the 1973 oil crisis, Prime Minister Pierre Messmer announced a large nuclear programme in March 1974. By 2018, nuclear produced about 72% of France's electricity, the highest share in the world, and France has more than 50 operable reactors. France exports electricity to its neighbours. Its new reactor at Flamanville has cost several times the original estimate.
 
 | Benefits | Disadvantages |
 |---|---|
@@ -97,7 +97,7 @@ Nuclear power stations heat water by splitting uranium atoms. The steam drives t
 
 ## 4. Renewable energy sources
 
-Renewables supplied about 29% of world electricity in 2024: hydro 14.4%, wind 8.1% and solar 6.9%. Each source needs particular physical conditions.
+Hydro, wind and solar together supplied about 29% of world electricity in 2024: hydro 14.4%, wind 8.1% and solar 6.9%. Other renewables, such as bioenergy and geothermal, add a little more. Each source needs particular physical conditions.
 
 | Source | How it works and where it suits | Benefits | Disadvantages |
 |---|---|---|---|
@@ -132,7 +132,7 @@ Energy use per person rises with income. In 2018, the world average was 1.2 tonn
 
 **Setting.** Iceland lies on the Mid-Atlantic Ridge, a constructive plate boundary, so it has many volcanic and geothermal areas. It also has high rainfall, glaciers and steep valleys, which give fast-flowing rivers for HEP.
 
-**Energy mix.** In 2016, about 85% of Iceland's primary energy came from domestic renewable sources: geothermal 65%, hydropower 20% and fossil fuels 15%. In 2025, almost all its electricity was renewable: 70.5% from hydropower and 29.4% from geothermal. About 90% of homes are heated by geothermal energy. Fossil fuels are still imported for cars, ships, aircraft and fishing boats.
+**Energy mix.** In 2016, about 85% of Iceland's primary energy came from domestic renewable sources: geothermal about 65% and hydropower 20%. Most of the rest was imported fossil fuel. In 2025, almost all its electricity was renewable: 70.5% from hydropower and 29.4% from geothermal. About 90% of homes are heated by geothermal energy. Fossil fuels are still imported for cars, ships, aircraft and fishing boats.
 
 **Key sites**
 
@@ -152,7 +152,7 @@ Energy use per person rises with income. In 2018, the world average was 1.2 tonn
 - Forgetting fuelwood, which the syllabus names separately.
 - Describing a source's conditions vaguely. Say "a large tidal range" or "a deep, narrow valley with high rainfall".
 - Mixing up *energy* (all uses, including transport and heating) and *electricity* (one part of it). Iceland's electricity is nearly all renewable; its total energy is not.
-- Giving only benefits or only disadvantages when the command asks you to evaluate.
+- Giving only benefits or only disadvantages when a question asks you to weigh them up, for example "To what extent ...?" or "How far do you agree ...?".
 - A case study with no figures or place names. Named plants, percentages and capacities earn the higher levels.
 
 ## Where next

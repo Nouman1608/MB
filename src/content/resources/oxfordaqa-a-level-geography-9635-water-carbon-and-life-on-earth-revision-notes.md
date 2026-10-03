@@ -89,9 +89,9 @@ The 890 figure comes from 421 ppm x 2.12 GtC per ppm. Round store sizes in exams
 |---|---|---|---|
 | Amazon rainforest | Tropical rainforest water and carbon cycles | About 5.5 million km² of forest, 60% in Brazil; about half of rainfall recycled from the forest; about 110 billion tonnes of carbon | Store sizes are estimates with wide uncertainty |
 | Amazon deforestation | Human change | 27,772 km² cleared in 2004, 4,571 km² in 2012; about 80% linked to cattle; about 20% of the forest lost by 2022 | The fall after 2004 shows policy can work, but it was not sustained |
-| Gatti and colleagues (2021) | Aircraft carbon dioxide measurements over Amazonia | The south-eastern Amazon had become a net carbon source | Based on a small number of measurement sites, not the whole forest |
+| Gatti and colleagues (2021) | Aircraft carbon dioxide measurements over Amazonia | The south-eastern Amazon had become a net carbon source | Based on aircraft profiles at four sites, not the whole forest |
 | River Eden, Cumbria | Local catchment, flooding and supply | January 2005: up to 180 mm upstream in a day, about 2,700 Carlisle homes flooded; December 2015, Storm Desmond: defences overwhelmed | Carlisle's defences were breached in 2015, so defences alone are not enough |
-| Haweswater Reservoir | Water supply in the Eden basin | About 25% of North West England's water; completed by 1935 | Storage secures supply but moves water out of the basin |
+| Haweswater Reservoir | Water supply in the Eden basin | About 25% of North West England's water; filled by 1935 | Storage secures supply but moves water out of the basin |
 | Sleipner, Norway | Carbon capture and storage | About 1 million tonnes of carbon dioxide a year into the Utsira formation since 1996 | Proven, but tiny next to global emissions |
 | Mauna Loa record | Atmospheric carbon dioxide | Annual mean 315.98 ppm (1959) to 421.08 ppm (2023) | One site, but matches global records |
 

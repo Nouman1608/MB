@@ -86,7 +86,7 @@ Remember that a pie chart or table shows proportions. A person in a high-income 
 | Few rivers or aquifers; little land to store rain | Pollution from sewage, farms and factories |
 | | Leaking pipes; no money for dams, pipes and treatment |
 
-Many places with plenty of rain still face economic scarcity. Places such as the Arabian Peninsula face physical scarcity.
+Much of sub-Saharan Africa faces economic scarcity. Arid regions such as North Africa and West Asia face physical scarcity.
 
 ## Impacts of lack of clean water
 
@@ -111,8 +111,8 @@ Name a method every time. "Use water wisely" earns nothing on its own.
 
 | Place | What | Key facts | One evaluation point |
 |---|---|---|---|
-| Singapore | Four National Taps | Two-thirds of land is catchment; 17 reservoirs; Marina Barrage 2008; Johor River imports under 1962 agreement to 2061; NEWater from 2002, up to about 40% of current demand; five desalination plants, up to about 30% | Secure and varied, but energy-hungry and costly; relies on wealth and technology |
-| Lesotho Highlands Water Project | Dams and transfer to Gauteng, South Africa | Katse Dam completed 1998, 185 m high; royalties and hydropower for Lesotho | Income for Lesotho, but people lost land and livelihoods; corruption cases |
+| Singapore | Four National Taps | Two-thirds of land is catchment; 17 reservoirs; Marina Barrage 2008; Johor River imports under 1962 agreement to 2061; NEWater from 2002, up to 40% of current needs; five desalination plants | Secure and varied, but energy-hungry and costly; relies on wealth and technology |
+| Lesotho Highlands Water Project | Dams and transfer to South Africa's Vaal River system | Katse Dam 185 m high, deliveries from 1998; royalties and hydropower for Lesotho | Income for Lesotho, but people lost land and livelihoods; corruption cases |
 
 Global facts (WHO): in 2022, 2.2 billion people lacked safely managed drinking water; 115 million used untreated surface water.
 

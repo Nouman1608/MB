@@ -52,7 +52,7 @@ They cover Topic 3.5 Energy from the Cambridge IGCSE Geography (0460) syllabus f
 
 - About **80%** of world energy consumption came from fossil fuels (2022).
 - Nuclear supplied about **4.3%** of world primary energy (2020).
-- Renewables generated about **29%** of world electricity in 2024 (hydro 14.4%, wind 8.1%, solar 6.9%).
+- Hydro, wind and solar together generated about **29%** of world electricity in 2024 (hydro 14.4%, wind 8.1%, solar 6.9%).
 - About **2.1 billion** people cook with polluting fuels such as wood, dung, crop waste, kerosene or coal (WHO).
 
 ## Sources at a glance
@@ -77,8 +77,8 @@ They cover Topic 3.5 Energy from the Cambridge IGCSE Geography (0460) syllabus f
 - **Renewable vs low-carbon.** Nuclear is low-carbon but not renewable. Biofuels are renewable but release carbon dioxide when burned.
 - **Energy vs electricity.** A country can make nearly all its electricity from renewables and still import oil for transport (Iceland).
 - **Intermittent vs controllable.** Wind and solar depend on the weather; HEP, geothermal and nuclear can run steadily.
-- **Predictable vs reliable.** Tides are predictable to the minute, but output still stops twice a day at slack water.
-- **Describe vs evaluate.** Describe importance = what it supplies, where and for whom. Evaluate = weigh benefits against disadvantages and reach a judgement.
+- **Predictable vs reliable.** Tides are predictable to the minute, but output still stops for a while at each slack water around high and low tide.
+- **Describe vs evaluate.** Describe importance = what it supplies, where and for whom. Evaluate (the syllabus wording) = weigh benefits against disadvantages and reach a judgement; in the exam this often appears as "To what extent ...?" or "How far do you agree ...?".
 
 ## Levels of development in one table
 
@@ -93,7 +93,7 @@ In 2018 the USA used 4.4 tonnes of oil equivalent per person and India 0.4, agai
 ## Case study card: Iceland
 
 - On the Mid-Atlantic Ridge (constructive boundary) -> geothermal heat; high rainfall and glaciers -> HEP.
-- 2016: 85% of primary energy from domestic renewables (geothermal 65%, hydro 20%, fossil fuels 15%).
+- 2016: about 85% of primary energy from domestic renewables (geothermal about 65%, hydro 20%); most of the rest imported fossil fuel.
 - 2025: electricity 70.5% hydro, 29.4% geothermal.
 - About 90% of homes heated by geothermal energy.
 - Hellisheiði geothermal plant: 303 MW; gases reinjected underground since 2014 to cut hydrogen sulphide.
