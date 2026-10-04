@@ -69,7 +69,7 @@ Check by substituting x = 7: 49 − 14 − 35 = 0. Correct.
 
 **No constant term.** x² = 7x becomes x² − 7x = 0, so x(x − 7) = 0, giving **x = 0 or x = 7**. Do not divide both sides by x: that loses the solution x = 0.
 
-**Difference of two squares.** 9x² − 16 = 0 factorises as (3x − 4)(3x + 4) = 0, so x = 4/3 or x = −4/3. You can also write 9x² = 16, x² = 16/9, x = ±4/3. Remember the ± -- a square root gives a positive *and* a negative answer. (On the Foundation tier the x² coefficient is 1, for example x² − 25 = 0 gives x = ±5.)
+**Difference of two squares.** x² − 25 = 0 factorises as (x − 5)(x + 5) = 0, so x = 5 or x = −5. Remember the ± -- a square root gives a positive *and* a negative answer. When the x² coefficient is not 1 (**Higher tier only**), 9x² − 16 = 0 gives (3x − 4)(3x + 4) = 0, so x = ±4/3; or write x² = 16/9 and square-root.
 
 ### When a is not 1 -- Higher tier only
 

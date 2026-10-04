@@ -177,6 +177,7 @@ Examples with state symbols:
 ```
 Zn(s) + 2HCl(aq) → ZnCl₂(aq) + H₂(g)
 MgO(s) + H₂SO₄(aq) → MgSO₄(aq) + H₂O(l)
+Ca(OH)₂(aq) + 2HCl(aq) → CaCl₂(aq) + 2H₂O(l)
 2NH₃(aq) + H₂SO₄(aq) → (NH₄)₂SO₄(aq)
 ZnCO₃(s) + 2HNO₃(aq) → Zn(NO₃)₂(aq) + H₂O(l) + CO₂(g)
 ```
@@ -228,8 +229,8 @@ Mr CuO = 63.5 + 16 = 79.5
 Mr CuSO₄·5H₂O = 63.5 + 32 + 64 + 5 × 18 = 249.5
 moles CuO = 2.00 ÷ 79.5 = 0.02516 mol
 1 mol CuO gives 1 mol CuSO₄·5H₂O
-theoretical mass = 0.02516 × 249.5 = 6.28 g
-percentage yield = 5.02 ÷ 6.28 × 100 = 80.0%
+theoretical mass = 0.02516 × 249.5 = 6.277 g
+percentage yield = 5.02 ÷ 6.277 × 100 = 80.0%
 ```
 
 Some salt stays dissolved after crystallisation, so the yield is below 100%.

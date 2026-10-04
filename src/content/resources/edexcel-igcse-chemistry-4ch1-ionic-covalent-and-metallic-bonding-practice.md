@@ -157,7 +157,7 @@ xx N (xxx •••) N ••
           H
 ```
 
-**(c)** **Two shared pairs between the carbon atoms** (a double bond) [1]; **one shared pair between each carbon and each of four hydrogens**, with no lone pairs [1]. (Left C = x, right C = o, H = •.) **[6]**
+**(c)** **Two shared pairs between the carbon atoms** (a double bond) [1]; **one shared pair between each C–H** (each carbon bonded to two hydrogens), with no lone pairs [1]. (Left C = x, right C = o, H = •.) **[6]**
 
 ```
   H              H

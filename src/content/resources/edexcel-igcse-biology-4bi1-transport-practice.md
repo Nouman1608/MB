@@ -28,7 +28,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover sub-topic (h) **Transport** (points 2.51–2.69 of Topic 2) of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3, for the June and November series examined under Issue 3. The course is untiered and a calculator may be used on both papers. Questions 5, 6, 7 and 9 test bold **B** statements and are labelled "Paper 2 only".
+These questions cover sub-topic (h) **Transport** (points 2.51–2.69 of Topic 2) of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3. The course is untiered and a calculator may be used on both papers. Questions 5, 6, 7 and 9 test bold **B** statements and are labelled "Paper 2 only".
 
 Learn the content first in the [Transport study guide](/resources/edexcel-igcse-biology-4bi1-transport/) and the [Transport revision notes](/resources/edexcel-igcse-biology-4bi1-transport-revision-notes/). For questions on cells and enzymes, use the [cell structure practice questions](/resources/edexcel-igcse-biology-cell-structure-practice/). The course hub is [Edexcel IGCSE Biology](/boards/edexcel/igcse/biology/) and the [printable checklist](/checklists/edexcel/igcse/biology/) lists every point.
 
@@ -60,7 +60,7 @@ Learn the content first in the [Transport study guide](/resources/edexcel-igcse-
 
 **(a)** Calculate the mean rate of mass loss in g per hour. **[2]**
 **(b)** Explain why there is a layer of oil on the water. **[1]**
-**(c)** The experiment is repeated with a clear plastic bag sealed over the shoot. Predict and explain the effect on the rate of mass loss. **[2]**
+**(c)** The experiment is repeated in more humid air, with all other conditions the same. Predict and explain the effect on the rate of mass loss. **[2]**
 
 **7.** (Paper 2 only) Explain how water from the soil enters a root hair cell. **[3]**
 
@@ -103,7 +103,7 @@ Learn the content first in the [Transport study guide](/resources/edexcel-igcse-
 **3. (a)** **Urea** [1]
 **(b)** **Glucose** (or amino acids / digested food) [1]
 **(c)** **Carbon dioxide** [1]
-*Examiner insight:* In (c), "oxygen" is the commonest wrong answer: oxygen travels in red blood cells and moves towards muscles, not away from them.
+*Examiner insight:* In (c), "oxygen" is a common wrong answer: oxygen travels in red blood cells and moves towards muscles, not away from them.
 
 **4.** Biconcave shape [1]; gives a large surface area to volume ratio for fast diffusion of oxygen [1]; no nucleus, so more space for haemoglobin [1]; haemoglobin combines with oxygen to form oxyhaemoglobin [1]
 *Examiner insight:* Features and explanations are marked separately, so a list of three features with no reasons scores half the marks at most.
@@ -116,7 +116,7 @@ Learn the content first in the [Transport study guide](/resources/edexcel-igcse-
 
 **6. (a)** 152.60 − 149.72 = 2.88 g lost [1]; 2.88 ÷ 8 = **0.36 g per hour** [1]
 **(b)** To stop water evaporating from the water surface, so all the loss is from the shoot [1]
-**(c)** The rate decreases [1]; humidity inside the bag rises, so the water vapour concentration gradient between leaf and air is smaller and less water vapour diffuses out [1]
+**(c)** The rate decreases [1]; the more humid air means the water vapour concentration gradient between leaf and air is smaller and less water vapour diffuses out [1]
 *Examiner insight:* "Predict and explain" carries a mark for the direction and a separate one for the reason; a reason without a stated prediction loses the first mark.
 
 **7.** Cell sap in the root hair cell is more concentrated than the soil water [1]; water moves into the cell by osmosis [1]; across the partially permeable cell membrane, from a dilute to a more concentrated solution [1]

@@ -63,7 +63,7 @@ A balanced equation has the same number of atoms of each element on both sides. 
 ```
 word:      aluminium + hydrochloric acid → aluminium chloride + hydrogen
 formulae:  Al + HCl → AlCl₃ + H₂
-Cl:        3HCl gives 3 H, which needs 1.5 H₂
+Cl, H:     3HCl balances Cl; its 3 H need 1.5 H₂
 fix:       double: 2Al + 6HCl → 2AlCl₃ + 3H₂
 check:     Al 2 = 2; H 6 = 6; Cl 6 = 6
 final:     2Al(s) + 6HCl(aq) → 2AlCl₃(aq) + 3H₂(g)

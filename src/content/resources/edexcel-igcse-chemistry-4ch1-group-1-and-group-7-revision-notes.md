@@ -208,7 +208,7 @@ Also keep apart: **halogen** (the element, Cl₂) and **halide** (the ion, Cl⁻
 3. Any one: sodium fizzes faster; sodium melts into a ball while lithium stays solid; sodium moves around faster.
 4. To stop them reacting with oxygen and water vapour in the air.
 5. It sinks (1.53 g/cm³ is greater than water's 1.00 g/cm³).
-6. No change (stays orange). Bromine is less reactive than chlorine, so it cannot displace chloride.
+6. No change (stays orange). Bromine is less reactive than chlorine, so it cannot displace chlorine from chloride ions.
 7. `Cl₂(aq) + 2Br⁻(aq) → 2Cl⁻(aq) + Br₂(aq)`
 8. The bromide ions (they lose electrons).
 9. A pale yellow gas (paler than chlorine; boiling point below chlorine's).

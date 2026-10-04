@@ -223,7 +223,7 @@ Identify X.
 
 **Step 2.** White precipitate with acidified barium chloride shows **sulfate**.
 
-**Step 3.** Combine the ions. Cu²⁺ and SO₄²⁻ have equal and opposite charges, so X is **copper(II) sulfate, CuSO₄**.
+**Step 3.** Combine the ions. Cu²⁺ and SO₄²⁻ have equal and opposite charges, so X is **copper(II) sulfate, CuSO₄**. (The blue solid is the hydrated salt, CuSO₄·5H₂O; anhydrous CuSO₄ is white.)
 
 ### Worked example 5 -- spotting the faulty method
 

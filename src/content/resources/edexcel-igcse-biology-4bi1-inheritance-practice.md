@@ -43,7 +43,7 @@ For whole-topic questions, including reproduction, see the [Topic 3 practice que
 **2.** **(Paper 2 only)** One strand of part of a gene has the base sequence TAC CTG AAG CGT.
 
 **(a)** Write the base sequence of the complementary DNA strand. **[1]**
-**(b)** This strand is used as the template in transcription. Write the mRNA sequence. **[1]**
+**(b)** The strand given above is used as the template in transcription. Write the mRNA sequence. **[1]**
 **(c)** State how many amino acids this section of mRNA codes for. **[1]**
 **(d)** Give the anticodon of the tRNA that pairs with the first codon. **[1]**
 

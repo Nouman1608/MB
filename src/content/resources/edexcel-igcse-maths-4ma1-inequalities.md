@@ -150,7 +150,7 @@ Every straight line splits the coordinate plane into two halves. An inequality i
 - y ≤ mx + c: the region **below** the line y = mx + c
 - for a line such as x + y ≤ 6, use a **test point** (the origin is easiest if it is not on the line): 0 + 0 = 0 and 0 ≤ 6, so the side containing (0, 0) is the required side.
 
-The specification notes that conventions for showing whether a boundary is included are not required. Many textbooks draw a solid line for ≤ or ≥ and a dashed line for < or >. You may use this, but what matters is drawing the right lines and shading the right region. Always follow the question's instruction about shading and labelling (for example "label the region R").
+The specification notes that conventions for showing whether a boundary is included are not required. Many textbooks use solid lines for ≤ or ≥ and dashed lines for < or >; what matters is the right lines and the right region. Always follow the question's instruction about shading and labelling (for example "label the region R").
 
 ### Worked example 6: shading a region
 
@@ -222,6 +222,8 @@ The graph is U-shaped and crosses the x-axis at −3 and 5. It is above the axis
 
 **x < −3 or x > 5**
 
+On a number line: an open circle at −3 with an arrow to the left, and an open circle at 5 with an arrow to the right.
+
 ### Worked example 10: a non-unit x² coefficient
 
 **Solve 2x² + 5x − 3 ≤ 0.**
@@ -234,6 +236,8 @@ critical values: x = 1/2 and x = −3
 "≤ 0" means on or below the axis, which is between the roots:
 
 **−3 ≤ x ≤ 1/2**
+
+On a number line: closed circles at −3 and 1/2, joined by a line.
 
 Check: x = 0 gives −3 ≤ 0, true.
 

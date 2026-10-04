@@ -132,7 +132,7 @@ x = −1:       1 is to the right of −1    → x ≥ −1
 y = −x + 6:   3 compared with 5: smaller → y ≤ −x + 6
 ```
 
-**Harder region (Higher tier only).** Lines written as ax + by = c are easiest to draw from their intercepts. For 4x + 5y = 20, put x = 0 to get (0, 5) and y = 0 to get (5, 0). Test (0, 0): 0 ≤ 20 is true, so 4x + 5y ≤ 20 is the side containing the origin. If a vertex is where two sloping lines cross, solve the two equations simultaneously rather than reading it from the grid.
+**Harder region (Higher tier only).** Lines written as ax + by = c are easiest to draw from their intercepts. For 4x + 5y = 20, put x = 0 to get (0, 4) and y = 0 to get (5, 0). Test (0, 0): 0 ≤ 20 is true, so 4x + 5y ≤ 20 is the side containing the origin. If a vertex is where two sloping lines cross, solve the two equations simultaneously rather than reading it from the grid.
 
 **Quadratic, "less than", non-unit coefficient (Higher tier only).** Solve 3x² − 7x + 2 < 0.
 

@@ -205,7 +205,7 @@ Use a fresh sample for each test. Reagents from one test would interfere with th
 
 ## Quick self-test
 
-1. Which gas puts out a lighted splint with a squeaky pop?
+1. Which gas gives a squeaky pop with a lighted splint?
 2. Describe the test for ammonia, with its result.
 3. Give the flame colour of Cu²⁺.
 4. A sample gives a red flame. Which ion from the specification list is present?
