@@ -100,7 +100,7 @@ The Appendix B summaries model this last step. Oakley's paper predates civil par
 
 Section 3.7 teaches methods in general; here you judge methods *in the context of a topic*. For research design, sampling and ethics, see the [research methods guide](/resources/aqa-gcse-sociology-research-methods/).
 
-### Official statistics in four topics
+### Official statistics in three topics
 
 **Official statistics** are numerical data collected by government bodies. They are cheap, cover large populations and show **trends**. Their usefulness differs by topic:
 

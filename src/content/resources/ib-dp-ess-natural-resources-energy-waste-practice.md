@@ -189,7 +189,7 @@ against the IB's criteria, which your teacher will share.
 
 ## Official syllabus
 
-International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems The brief lists subtopics for Topic 1 only; the subtopic numbering on this page follows the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/).
-and societies*, first assessment 2026.
+International Baccalaureate Organization, Diploma Programme Subject Brief, *Environmental systems
+and societies*, first assessment 2026. The brief lists subtopics for Topic 1 only; the subtopic numbering on this page follows the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/).
 
 The brief gives Topic 7 Natural resources 10 teaching hours at SL and 18 at HL. It does not list the subtopics or learning outcomes for this topic, so the numbered subtopics and outcomes on this page follow the syllabus numbering used in the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/), not the brief itself.

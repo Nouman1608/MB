@@ -101,7 +101,7 @@ Neither is complete on its own, and saying so is the evaluation.
 
 **Reliability** — consistency on repetition. **Validity** — measuring what it claims to measure. Quantitative methods favour the first, qualitative the second.
 
-**Ethics:** informed consent, no deception, protection from harm, right to withdraw, confidentiality, debriefing.
+**Ethics:** informed consent, deception (only where justified, with full debriefing), protection from harm, right to withdraw, confidentiality, debriefing.
 
 ## Exam traps
 

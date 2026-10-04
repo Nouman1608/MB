@@ -122,7 +122,7 @@ The syllabus requires one tourist area or resort. Venice suits every part of 13.
 
 **Growth and development.** Venice was a stop on the 18th-century Grand Tour and a fashionable resort in the 19th century. Mass tourism and cruise ships turned it into one of the world's busiest destinations: estimates range from 22 million to 30 million visitors a year, with up to 60,000 on peak days. Its city and lagoon became a UNESCO World Heritage Site in 1987.
 
-**Sustainability issues.** The historic centre's population fell from about 120,000 in 1980 to about 50,000 in 2021, as rents rose and homes became short-term lets. Large cruise ships caused wave damage and pollution; in 2019 a cruise ship collided with a river boat. Flooding and subsidence threaten buildings, and the November 2019 flood was the highest since 1966.
+**Sustainability issues.** The historic centre's population fell from about 95,000 in 1980 to about 50,000 in 2021, as rents rose and homes became short-term lets. Large cruise ships caused wave damage and pollution; in 2019 a cruise ship collided with a river boat. Flooding and subsidence threaten buildings, and the November 2019 flood was the highest since 1966.
 
 **Management:**
 - Ships over 25,000 tonnes were banned from the Giudecca Canal from August 2021.

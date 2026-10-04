@@ -31,7 +31,7 @@ Two sub-topics complete the International AS alongside Unit 1: **3.1.2 Socialisa
 | | Examples |
 |---|---|
 | Agencies of socialisation | Family, education, peer group, media, religion, workplace |
-| Formal social control | Law, criminal justice system, school disciplinary codes, workplace regulation |
+| Formal social control | Government/laws, police and other enforcement agencies, criminal justice system |
 | Informal social control | Peer disapproval, gossip, ridicule, family expectation |
 
 **Pair** a named agency with a named type of control rather than revising the two lists separately — many questions ask exactly this. Truancy, for example, is regulated by *both* routes simultaneously: fines/legal action (formal) and family/peer disapproval (informal).

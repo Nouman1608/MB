@@ -50,7 +50,7 @@ sustainability, providing access to health and education, reducing
 unemployment and crime, managing environmental issues), and an example
 of urban planning improving quality of life for the urban poor
 - 3.2.1.2 World cities — London and New York — the global distribution
-of world-city population; London and New York as examples covering
+of world-city population; London or New York as examples covering
 their national and global location, the impact of national and
 international migration on their growth and character, their importance
 in finance, business, trade, culture and politics; economic, social and
@@ -73,11 +73,12 @@ named challenges, and one named planning example), since generic,
 unnamed answers score poorly against a question that explicitly asks for
 a case study.
 
-London and New York (3.2.1.2) are best revised comparatively rather than
-as two separate profiles: for each of the shared themes (opportunities,
-challenges, migration's role in growth), note one similarity and one
-difference between the two cities, since questions may ask candidates to
-compare world cities rather than describe just one.
+For 3.2.1.2 the specification asks for London **or** New York as the
+example world city, so one well-learned city is enough: know its
+location, the role of migration in its growth, its national and global
+importance, and its opportunities and challenges. Some students learn
+both and note one similarity and one difference per theme, which is a
+useful extension, but the specification does not require a comparison.
 
 3.2.1.2 also requires **an example of a flagship urban regeneration
 project**. Prepare one named project with three things ready: why the
@@ -118,8 +119,8 @@ describing challenges in isolation.
 ## Common mistakes
 
 Describing urban growth in general terms without a named, specific case
-study when the question requires one. Treating London and New York as
-interchangeable rather than noting genuine similarities and differences.
+study when the question requires one. Writing about a world city
+in general terms instead of using specific detail from London or New York.
 Listing challenges without first explaining the causes of growth that
 produced them. Omitting an evaluation of how effective a named planning
 response actually was, when the specification explicitly asks for an
@@ -147,8 +148,8 @@ explained as separate mechanisms.
 
 - Prepare one detailed, named LIC or NEE city case study covering cause,
 opportunity, challenge and planning response.
-- Build a comparison table for London and New York across the shared
-themes, not two separate profiles.
+- Build a theme-by-theme profile of London or New York (the specification
+needs one of the two cities, not both).
 - Keep causes of urban growth and its consequences clearly distinguished.
 - Practise evaluating (not just describing) a named urban planning
 example.

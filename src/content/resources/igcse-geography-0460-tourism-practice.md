@@ -106,7 +106,7 @@ Evaluate the benefits and disadvantages that the new resort could bring to the p
 *Examiner insight:* Keep the two lists separate; a ski lift placed under physical attractions earns nothing.
 
 **3. (a)** (380 - 120) / 120 x 100 [1] = 216.7% [1] **[2]**
-**(b)** Arrivals rose overall from 120 thousand in 2000 to 410 thousand in 2024 [1]. Growth sped up, with the largest rise of 140 thousand between 2010 and 2015 [1]. Arrivals then fell sharply to 95 thousand in 2020 before recovering to above the 2015 level by 2024 [1]. **[3]**
+**(b)** Arrivals rose overall from 120 thousand in 2000 to 410 thousand in 2024 [1]. Growth sped up, with the largest pre-2020 rise of 140 thousand between 2010 and 2015 [1]. Arrivals then fell sharply to 95 thousand in 2020 before recovering to above the 2015 level by 2024 [1]. **[3]**
 **(c)** A pandemic or health scare leading to travel restrictions [1]; a natural hazard such as a tropical storm damaging resorts or the airport [1]. **[2]**
 Also credit political unrest or a global recession.
 **(d)** Rising incomes in source countries gave people more money for holidays [1]. Cheaper flights or new direct air routes made the island easier to reach [1]. New hotels and resorts increased the accommodation available [1]. Online marketing and social media made the island better known [1]. **[4]**

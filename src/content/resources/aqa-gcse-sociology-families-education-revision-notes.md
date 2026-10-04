@@ -27,7 +27,7 @@ Nuclear, extended, reconstituted (step), lone-parent, same-sex, and **beanpole**
 
 **Reasons for family diversity:** rising divorce rates, secularisation, changing attitudes, women's employment, cohabitation, and later marriage.
 
-**Reasons for the rise in divorce since the 1960s:** changes in the law (the Divorce Reform Act 1969 allowed "irretrievable breakdown", and later reforms made divorce cheaper and simpler, making it accessible rather than more common in reality); secularisation and weaker stigma; **women's economic independence**, which reduces the financial trap of an unhappy marriage; and **higher expectations of marriage** itself, so couples are less tolerant of an "empty-shell" relationship.
+**Reasons for the rise in divorce since the 1960s:** changes in the law (the Divorce Reform Act 1969 allowed "irretrievable breakdown", and later reforms made divorce cheaper and simpler, making it more accessible, not necessarily because marriages became less happy); secularisation and weaker stigma; **women's economic independence**, which reduces the financial trap of an unhappy marriage; and **higher expectations of marriage** itself, so couples are less tolerant of an "empty-shell" relationship.
 
 **Consequences for family structure:** more **lone-parent families** (mostly headed by women, associated with higher poverty risk); more **reconstituted families**, creating step-relationships as people remarry or cohabit; and more **single-person households**.
 

@@ -50,7 +50,7 @@ than a single pass through the material early in the course.
 Assessment uses a mix of question types rather than one single format:
 short-answer questions, and extended writing and essay questions, testing
 knowledge and understanding, application, and analysis and evaluation.
-Because every component draws on this same mix of question types, exam
+Because extended writing appears in every component, exam
 technique built practising one component's papers transfers directly to
 the others, even where the substantive content is entirely different.
 One distinctive AQA Sociology question type is the **"methods in

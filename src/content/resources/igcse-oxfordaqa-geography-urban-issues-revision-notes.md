@@ -59,10 +59,10 @@ A generic, unnamed answer scores poorly against a question that
 explicitly requires a case study — the named specifics are not optional
 decoration.
 
-## London and New York — compare, do not just describe
+## London or New York — one world city in detail
 
-Revise these two world cities **side by side** across shared themes,
-not as separate profiles:
+The specification (3.2.1.2) asks for London **or** New York as the
+example world city. Revise your chosen city across these themes:
 
 - Role in finance, business, trade, culture, politics.
 - Impact of national and international migration on growth and
@@ -72,8 +72,8 @@ character.
 inequality, dereliction, urban sprawl, traffic, waste/water/energy
 management.
 
-For each theme, note one genuine similarity and one genuine difference
-— comparison questions expect exactly this structure.
+If you learn both cities, noting one similarity and one difference per
+theme is a useful extension, but a comparison is not required.
 
 ## The required flagship urban regeneration example (3.2.1.2)
 
@@ -113,8 +113,8 @@ top-band case-study answer.
 - Listing urban challenges without first explaining what caused the
 growth.
 - Answering a case-study question with a generic, unnamed city.
-- Describing London and New York separately instead of comparing them
-theme by theme.
+- Writing about world cities in general instead of using specific detail
+from London or New York.
 - Describing a planning response without evaluating how effective it
 actually was.
 - Forgetting the required flagship urban regeneration example, or giving
@@ -150,8 +150,7 @@ familiarity.
 increase as causes of urban growth?
 3. Name the five fixed slots to prepare for the required LIC/NEE case
 study.
-4. Why should London and New York be revised comparatively rather than
-as separate profiles?
+4. How many example world cities does 3.2.1.2 require, and which?
 5. Define "urban sprawl" precisely.
 
 **Answers:** 1. Cause, growth, opportunity/challenge, response. 2.
@@ -160,10 +159,8 @@ conditions at home and positive conditions elsewhere; natural increase
 is population growth from a higher birth rate than death rate, with no
 movement of people involved. 3. Location and importance; cause of
 growth; two named opportunities; two named challenges; one named
-planning response with an evaluation of its effectiveness. 4. Because
-exam questions may ask candidates to compare world cities across shared
-themes, and comparative revision (one similarity, one difference per
-theme) directly matches that question format. 5. The unplanned outward
+planning response with an evaluation of its effectiveness. 4. One: London
+or New York. Learning both and comparing them is an optional extension. 5. The unplanned outward
 spread of a city into surrounding countryside.
 
 ## Related resources

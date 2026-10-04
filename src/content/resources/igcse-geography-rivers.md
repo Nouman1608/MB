@@ -60,7 +60,7 @@ explain the landforms these processes create.
 banks; it is distinct from **weathering**, the in-situ breakdown of
 rock with no movement involved (such as freeze-thaw action loosening
 rock on a valley side), which weakens material for a river to then
-erode and carry away. Four named erosion processes are required:
+erode and carry away. Four erosion processes are commonly taught:
 **hydraulic action** (the force of moving water alone, compressing
 air into cracks in the bank or bed until material breaks loose),
 **abrasion** (also called corrasion -- sediment carried by the river

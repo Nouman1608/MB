@@ -23,7 +23,7 @@ featured: false
 
 This guide covers **Component 2 – Essay**, for Cambridge International AS
 & A Level Global Perspectives & Research (9239), 2026–2028 series. Worth
-40 marks and externally marked, it is the one component of 9239 that
+40 marks and externally marked, it is the one AS component of 9239 that
 candidates complete almost entirely independently, on a question of
 their own choosing.
 

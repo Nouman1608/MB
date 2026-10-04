@@ -33,7 +33,7 @@ magma chamber. Earthquake features: **epicentre** (surface point directly above 
 **conservative** (plates slide past, no significant creation/destruction of crust). The Pacific "Ring
 of Fire" illustrates the distribution argument: countries like Japan, Indonesia and Chile sit on
 destructive boundaries, producing frequent earthquakes and a high concentration of volcanoes.
-**Required case studies: one named earthquake, one named volcano** — both hazards AND opportunities
+**Required case studies: one named earthquake, one named volcano** — for volcanoes, both hazards AND opportunities
 must be covered; a one-sided answer loses marks.
 
 ## 2.2 Rivers
@@ -99,7 +99,7 @@ value extends beyond its own Paper 1 questions into skills tested elsewhere on t
 
 ## Exam traps
 
-- Giving a one-sided hazards-only (or opportunities-only) answer for earthquakes/volcanoes, when both
+- Giving a one-sided hazards-only (or opportunities-only) answer for volcanoes, when both
   are explicitly required.
 - Confusing river erosion landforms with coastal erosion landforms — always name the correct agent
   (river, sea, wind) for the environment in the question.
@@ -117,7 +117,7 @@ value extends beyond its own Paper 1 questions into skills tested elsewhere on t
 
 **Answers:** 1. Constructive/divergent (plates move apart), destructive/convergent (plates move
 together, often with subduction), conservative (plates slide past each other) [3]. 2. A named
-earthquake and a named volcano; full marks require covering both hazards and opportunities, not one
+earthquake and a named volcano; for the volcano, cover both hazards and opportunities, not one
 alone. 3. Any four of: waterfalls, potholes, meanders, oxbow lakes, deltas, levées, flood plains.
 4. Rain gauge measures rainfall; wind vane measures wind direction. 5. Equatorial and hot desert;
 factors include latitude, pressure systems, winds, distance from the sea, altitude, or ocean currents.

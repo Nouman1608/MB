@@ -131,7 +131,7 @@ natural is in fact learned through socialisation.
 Sub-topic 2.2, how does society control us, covers formal and informal
 social control side by side: formal control operates through explicit
 rules and sanctions enforced by named agencies such as government, the
-police, schools and the workplace, while informal control operates
+police, the courts and the penal system, while informal control operates
 through unwritten norms enforced by agents such as family, peers and
 media -- disapproval, praise, gossip and exclusion rather than a
 written rule and a stated penalty. Candidates should be able to name

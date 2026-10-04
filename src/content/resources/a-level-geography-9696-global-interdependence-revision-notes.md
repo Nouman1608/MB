@@ -108,7 +108,7 @@ Use one of these links in each essay to show you understand interdependence.
 
 1. **Introduction.** Define international tourism and the three impact types. Say the answer depends on scale (local vs national), type of tourism and stage of development.
 2. **Economic benefits.** Jobs, foreign exchange, multiplier. Limit: leakage and seasonal, low-paid work.
-3. **Social impacts.** Funding for heritage vs rising rents and depopulation. Venice: historic-centre population fell from about 120,000 (1980) to about 50,000 (2021).
+3. **Social impacts.** Funding for heritage vs rising rents and depopulation. Venice: historic-centre population fell from about 95,000 (1980) to about 50,000 (2021).
 4. **Environmental impacts.** Conservation funding from entry fees vs erosion, waste and emissions. Link to carrying capacity.
 5. **Management changes the balance.** Venice's cruise ban, access fee and group limits. Note that the fee raised money but phone data suggested numbers rose on fee days in 2024.
 6. **Theory.** Butler's model: benefits dominate early, costs grow after consolidation. Evaluate the model.

@@ -96,7 +96,7 @@ Weber gives a more complex picture.
 
 **Functionalist view of class:** class positions reflect merit, and **social mobility** lets talented people rise. **Feminist view:** class schemes often placed a woman by her husband's job, hiding her own position. New Right writers accuse Marx and Weber of ignoring the mobility capitalism creates.
 
-**Worked paragraph.** *Weber argued that class depends on market situation, not only ownership (knowledge). A self-employed electrician and a hospital doctor are both non-owners, yet the doctor's scarce skills bring a much higher income (application). This shows the non-owning class is divided, which Marx's two-class model misses (analysis). However, Marxists reply that both still depend on selling their labour, so the basic owner-worker divide remains (evaluation).*
+**Worked paragraph.** *Weber argued that class depends on market situation, not only ownership (knowledge). An employed electrician and a hospital doctor are both non-owners, yet the doctor's scarce skills bring a much higher income (application). This shows the non-owning class is divided, which Marx's two-class model misses (analysis). However, Marxists reply that both still depend on selling their labour, so the basic owner-worker divide remains (evaluation).*
 
 ## 3.6.3 Life chances
 

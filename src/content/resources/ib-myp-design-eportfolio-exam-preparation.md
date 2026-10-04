@@ -45,11 +45,11 @@ the inquiry and specification process that led to the solution, not the solution
 - More than one considered design idea, with visible reasoning for why you selected your final
   direction over the alternatives -- a single idea presented as though it were the only option
   considered under-evidences this criterion.
-- Planning documentation (materials, steps, timeline) sufficient for someone else to understand how
-  you intended to build your solution.
 
 ## Stage 3: Creating the solution (Criterion C) -- what to capture as you go
 
+- Planning documentation (materials, steps, timeline) sufficient for someone else to understand how
+  you intended to build your solution.
 - Evidence that you followed your plan -- and, honestly, evidence of where you deviated from it and
   why, since real design work rarely goes exactly to plan and documenting adjustments is itself part
   of the process being assessed.

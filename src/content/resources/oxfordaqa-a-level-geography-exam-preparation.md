@@ -9,43 +9,43 @@ qualifications: ["a-level"]
 syllabusCodes: ["9635"]
 syllabusSeries: "For first teaching 2018"
 order: 3
-description: "How OxfordAQA International A-Level Geography 9635's five papers (six components, since Paper 1a/1b is an option choice) work, why Paper 3 covers fieldwork without a fieldtrip in the room, and a worked case-study routine."
+description: "How OxfordAQA International A-Level Geography 9635's five papers (six components, since Unit 1a/1b is an option choice) work, why Unit 5 covers fieldwork without a fieldtrip in the room, and a worked case-study routine."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-09
 featured: false
 ---
 
 OxfordAQA International A-Level Geography (9635) is modular, with five papers -- six components,
-because **AS Paper 1 offers a choice between two alternative options, 1a (Hot Desert Systems and
+because **AS Unit 1 offers a choice between two alternative options, 1a (Hot Desert Systems and
 Landscapes) and 1b (Coastal Systems and Landscapes)**, sat as whichever your centre has taught. You sit
-five components, each worth 20% of the full A-level. AS Paper 1a/1b and AS Paper 2 (Global Systems and
-Governance; Resource Security) are each 1 hour 30 minutes and 80 marks. A-level Paper 1 (Water, Carbon
-and Life on Earth; Ecosystems Under Stress) and A-level Paper 2 (Changing Places; People and
-Contemporary Urban Environments) are the same length and mark total. A-level Paper 3 (Fieldwork and
+five components, each worth 20% of the full A-level. AS Unit 1a/1b and AS Unit 2 (Global Systems and
+Governance; Resource Security) are each 1 hour 30 minutes and 80 marks. A-level Unit 3 (Water, Carbon
+and Life on Earth; Ecosystems Under Stress) and A-level Unit 4 (Changing Places; People and
+Contemporary Urban Environments) are the same length and mark total. A-level Unit 5 (Fieldwork and
 Geographical Skills) is also 1 hour 30 minutes but carries 60 marks, still 20% of the A-level. These
 notes complement the site's guides to
 [Physical Geography 1: Living with Hazards](/resources/a-level-oxfordaqa-geography-physical-geography-1/)
 and [Globalisation and Global Systems](/resources/a-level-oxfordaqa-geography-global-systems-and-governance/).
 
-## Know which Paper 1 option -- 1a or 1b -- your centre actually teaches
+## Know which Unit 1 option -- 1a or 1b -- your centre actually teaches
 
-Because Papers 1a and 1b are alternatives within the same paper slot, revising the untaught option is
+Because Units 1a and 1b are alternatives within the same paper slot, revising the untaught option is
 wasted effort and revising neither leaves a genuine gap. **Exam-preparation priority**: confirm with
 your teacher, at the start of revision planning, whether your centre teaches Hot Desert Systems or
 Coastal Systems, and revise only that option to full depth.
 
-## Paper 3's fieldwork content is examined without a field trip in the exam room
+## Unit 5's fieldwork content is examined without a field trip in the exam room
 
 Fieldwork and Geographical Skills tests the enquiry process -- devising a question, choosing a method,
 collecting and analysing data, evaluating limitations -- through written questions, often on unfamiliar
-data. **Exam-preparation priority**: revise fieldwork as an examinable methodology rather than a
-memory of any specific trip taken. Practise applying the enquiry process to an unfamiliar scenario
+data. **Exam-preparation priority**: revise fieldwork as an examinable methodology as well as the
+details of your own investigation, which 15 of the 60 marks assess. Practise applying the enquiry process to an unfamiliar scenario
 supplied in the question, since that is the actual skill being tested.
 
 ## Five equally weighted components means no single paper can be neglected
 
-You sit five components -- your centre's Paper 1 option (1a or 1b) plus the other four -- and every one
-of them, including Paper 3 with its lower 60-mark total in the same 1 hour 30 minutes, carries 20% of
+You sit five components -- your centre's Unit 1 option (1a or 1b) plus the other four -- and every one
+of them, including Unit 5 with its lower 60-mark total in the same 1 hour 30 minutes, carries 20% of
 the A-level, making 100% in all. **Exam-preparation priority**: distribute revision evenly across the
 five components you will actually sit, resisting the pull towards physical or human topics purely on
 personal preference, since each counts identically towards the final grade.
@@ -99,9 +99,9 @@ tied to this specific scenario reads as a generic list rather than genuine evalu
 
 ## Before/during exam checklist
 
-- **Before the exams**: confirm which Paper 1 option (1a or 1b) your centre teaches and revise only
-  that one; revise Paper 3's fieldwork content as an examinable methodology, practised on unfamiliar
-  scenarios; distribute revision evenly across the five components you sit; build case-study cards with place,
+- **Before the exams**: confirm which Unit 1 option (1a or 1b) your centre teaches and revise only
+  that one; revise Unit 5's fieldwork content as an examinable methodology, practised on unfamiliar
+  scenarios, and revise your own investigation; distribute revision evenly across the five components you sit; build case-study cards with place,
   date and specific detail for every major example.
 - **During any paper**: budget time in proportion to the paper's own marks (80 or 60).
 - **On skills and data questions**: show the calculation and follow it with an interpretive sentence.
@@ -115,11 +115,11 @@ tied to this specific scenario reads as a generic list rather than genuine evalu
 3. Why does every component deserve equal revision time?
 4. What is most often missing from an under-answered fieldwork evaluation?
 
-**Answers:** 1. Because AS Paper 1 offers a choice of two alternative options (1a Hot Desert Systems or
+**Answers:** 1. Because AS Unit 1 offers a choice of two alternative options (1a Hot Desert Systems or
 1b Coastal Systems) sat within the same paper slot, so only one of the two is actually taken.
 2. Through written questions testing the enquiry process -- devising a question, justifying a method,
 evaluating data and limitations -- often applied to an unfamiliar scenario supplied in the paper.
-3. Because every component you sit, including Paper 3 with its lower 60-mark total, carries an
+3. Because every component you sit, including Unit 5 with its lower 60-mark total, carries an
 identical 20% weighting towards the final A-level grade (five components, 100% in all). 4. A limitation tied specifically to the scenario in the question, rather than
 a generic weakness that could apply to almost any fieldwork -- genuine evaluation requires the specific
 connection.

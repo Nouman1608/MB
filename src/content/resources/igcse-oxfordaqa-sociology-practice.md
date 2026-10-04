@@ -44,7 +44,7 @@ view of the family's role in society. **[6]**
 **3.** Explain **two** ways in which family life has become more diverse in
 recent decades. **[6]**
 
-**4.** Explain **two** ways in which gender shapes the experience of family
+**4.** Explain **two** ways in which gender or age shapes the experience of family
 life, such as the division of domestic labour. **[6]**
 
 ## Section B: Education (22 marks)

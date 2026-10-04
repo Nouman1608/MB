@@ -63,7 +63,7 @@ Justify with the definition: "Bio-fuel is renewable because new crops can be gro
 
 ## The main energy resources
 
-The specification lists ten: fossil fuels (coal, oil and gas), nuclear fuel, bio-fuel, wind,
+The specification lists eleven: fossil fuels (coal, oil and gas), nuclear fuel, bio-fuel, wind,
 hydro-electricity, geothermal, the tides, the Sun and water waves.
 
 | Resource | Renewable? | What it is, in one line |

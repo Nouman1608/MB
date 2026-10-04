@@ -66,7 +66,7 @@ The distinction predicts *durability*: NSI changes behaviour only while the grou
 
 **Animal studies:** Lorenz (imprinting) and Harlow (contact comfort).
 
-**Explanations:** learning theory ("cuddle cupboard love") versus **Bowlby's monotropic theory** — social releasers, a **critical period** of about 2.5 years, and the **internal working model** that shapes later relationships.
+**Explanations:** learning theory ("cupboard love") versus **Bowlby's monotropic theory** — social releasers, a **critical period** of about 2.5 years, and the **internal working model** that shapes later relationships.
 
 **Ainsworth's Strange Situation:** secure (B), insecure-avoidant (A), insecure-resistant (C).
 

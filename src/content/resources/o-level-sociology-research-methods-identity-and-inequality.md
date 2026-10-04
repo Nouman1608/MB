@@ -24,8 +24,7 @@ Inequality**, for Cambridge O Level Sociology 2251, Version 3,
 syllabus PDF: it shares identical paper titles, structure, tariffs,
 topic numbering, assessment objectives and command words with
 Cambridge IGCSE Sociology 0495 -- the two qualifications differ in
-the grade range they award (2251 down to grade 7; 0495 down to grade
-5) and in availability (2251 is restricted by administrative zone).
+the grade range they award (2251 A* to E; 0495 A* to G) and in availability (2251 is restricted by administrative zone).
 Paper 1 is compulsory across all three
 topics — three questions, candidates answer two, with Question 1
 compulsory.
@@ -124,7 +123,7 @@ summaries.
 
 Topic 2's sub-topic 2.2, how does society control us, covers formal and informal social control
 side by side: formal control operates through explicit rules and sanctions enforced by named
-agencies such as government, the police, schools and the workplace, while informal control
+agencies such as government, the police, the courts and the penal system, while informal control
 operates through unwritten norms enforced by agents such as family, peers and media --
 disapproval, praise, gossip and exclusion rather than a written rule and a stated penalty. Name
 agencies of control on both sides and explain how each achieves conformity, rather than treating

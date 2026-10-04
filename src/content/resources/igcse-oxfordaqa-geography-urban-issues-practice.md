@@ -45,7 +45,7 @@ Related: [Urban Issues and Challenges study guide](/resources/igcse-oxfordaqa-ge
 
 ## Section C
 
-**6.** Compare London and New York in terms of their role in global finance, business and culture, giving **one** similarity and **one** difference. **[4]**
+**6.** *(Extension: the specification needs only one of London or New York; answer this if you have studied both.)* Compare London and New York in terms of their role in global finance, business and culture, giving **one** similarity and **one** difference. **[4]**
 
 **7.** Explain **two** challenges facing London or New York as a result of urban growth. **[6]**
 
@@ -82,7 +82,7 @@ Related: [Urban Issues and Challenges study guide](/resources/igcse-oxfordaqa-ge
 - Treating natural increase and migration as the same cause of urban growth.
 - Answering a case-study question with a generic, unnamed city instead of specific, named detail.
 - Describing a planning response without evaluating how effective it actually was.
-- Describing London and New York separately rather than comparing them theme by theme.
+- In Q6, describing London and New York separately rather than comparing them theme by theme.
 - Listing urban challenges without first explaining what caused the growth that produced them.
 
 ## Approaching the case-study questions

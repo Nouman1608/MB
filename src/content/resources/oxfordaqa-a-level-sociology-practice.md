@@ -96,7 +96,8 @@ family life, not just the statistical trend itself.
 ---
 **A4** [10 marks — up to 5 marks per way, using named concepts]
 
-Two from: **individualisation** (Smart) — family and personal life
+Two from: **individualisation** (qualified by Smart's concept of personal
+life, which stresses continuing connectedness) — family and personal life
 increasingly shaped by individual choice and negotiation rather than
 fixed roles; **transnational families** — members maintaining close ties
 and obligations across national borders, often sustained by migration and

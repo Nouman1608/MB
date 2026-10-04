@@ -109,7 +109,7 @@ The enhanced greenhouse effect is in the [Core Physical Geography guide](/resour
 **Issues.**
 
 - **Transmission:** wind power is in the north but much demand is in the south. The SuedLink line (about 700 km) was planned for 2022; after local protests it became an underground cable, now scheduled for 2028.
-- **Prices:** in 2013 Germany had the highest household electricity prices in Europe, partly because of the renewable surcharge.
+- **Prices:** in 2013 Germany had among the highest household electricity prices in Europe, partly because of the renewable surcharge.
 - **Security:** after Russia's invasion of Ukraine in 2022, Germany reopened coal plants to save gas.
 - **Emissions:** closing low-carbon nuclear before coal kept coal burning longer.
 

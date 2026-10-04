@@ -38,8 +38,8 @@ moving agent -- here, waves and currents. It is distinct from
 movement involved (for example, salt crystallisation or freeze-thaw
 action weakening a cliff face); weathering often prepares rock for
 erosion to then remove, and exam answers that treat the two as
-interchangeable lose marks. Four named processes of wave erosion are
-required: **hydraulic action** (the sheer force of moving water,
+interchangeable lose marks. Four processes of wave erosion are
+commonly taught: **hydraulic action** (the sheer force of moving water,
 compressing air trapped in cracks and joints in the rock until it
 weakens and breaks apart), **abrasion** (also called corrasion --
 sediment carried by waves is thrown against the coastline, wearing it

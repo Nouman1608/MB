@@ -121,7 +121,7 @@ than evaluation placed at the end.
 
 1. Name the Marxist concept for how school structure mirrors the workplace.
 2. Give one material and one cultural explanation for class-based achievement gaps.
-3. What must accompany any claim about a perspective for full marks?
+3. What should accompany any claim about a perspective to strengthen it?
 4. Which three social variables does differential achievement content require you to keep separate?
 5. What is a self-fulfilling prophecy in the labelling explanation?
 

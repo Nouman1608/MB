@@ -13,7 +13,7 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-physical-geography-1-9635"
-description: "Hot desert systems and landscapes, and coastal systems and landscapes -- the full content of Unit 1 for OxfordAQA International AS and A-Level Geography (9635)."
+description: "Living with hazards (hazard perception, tectonic and storm hazards) and the coastal systems and landscapes option -- an overview of Unit 1 for OxfordAQA International AS and A-Level Geography (9635)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false

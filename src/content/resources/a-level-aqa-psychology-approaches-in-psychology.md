@@ -21,8 +21,8 @@ featured: false
 
 This guide covers **Approaches in Psychology**, the first sub-topic of Paper 2 Psychology in Context
 for AQA A-Level Psychology (7182), first teaching September 2015. Where [Paper 1 Introductory
-Topics](/resources/aqa-a-level-psychology-introductory-topics/) covers three specific content areas
-(social influence, memory, attachment), Approaches in Psychology instead sets out the broad
+Topics](/resources/aqa-a-level-psychology-introductory-topics/) covers four specific content areas
+(social influence, memory, attachment, clinical psychology and mental health), Approaches in Psychology instead sets out the broad
 theoretical lenses that later content -- including Paper 1's own topics -- can be examined through.
 
 ## Where this fits in 7182

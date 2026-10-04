@@ -38,8 +38,8 @@ Communication and collaboration — communicate views and work with others
 component-mapping table applies **deconstruction, reconstruction and
 communication** to Component 1, but explicitly **excludes reflection
 and collaboration** — the written exam is individually assessed and
-its own AO2 (Reflection) weighting is 0%. Reflection and collaboration
-apply fully to Components 2, 3 and 4 instead. Don't memorise an
+its own AO2 (Reflection) weighting is 0%. Reflection applies to
+Components 2, 3 and 4, and collaboration to Component 3 only. Don't memorise an
 invented four-word sequence in place of this real model.
 
 Content knowledge is **not** credited for its own sake — marks come from the quality of reasoning

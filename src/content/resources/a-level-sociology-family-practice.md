@@ -31,13 +31,13 @@ Related: [Paper 2 study guide](/resources/a-level-cambridge-sociology-the-family
 
 ## Section A -- compulsory short-answer (Paper 2 style)
 
-**1.** Identify two family or household forms named in the syllabus, other than the nuclear family. **[2]**
+**1.** Give two family or household forms named in the syllabus, other than the nuclear family. **[2]**
 
 **2.** Explain what is meant by "emotion work" in the context of conjugal roles. **[3]**
 
 **3.** Explain one way in which childhood can be described as "socially constructed." **[3]**
 
-**4.** Identify the three feminist strands examined in the syllabus's treatment of gender and family life. **[3]**
+**4.** Give the three feminist strands examined in the syllabus's treatment of gender and family life. **[3]**
 
 ## Section B -- essay (choice of two, per the syllabus's format)
 
@@ -61,8 +61,8 @@ Related: [Paper 2 study guide](/resources/a-level-cambridge-sociology-the-family
 
 ## A note on Section A command words
 
-Section A questions typically use "identify" (questions 1, 4) or "explain" (questions 2, 3), and the
-mark allocations above reflect that distinction precisely: an "identify" question wants a stated fact
+Section A questions here use "give" (questions 1, 4) or "explain" (questions 2, 3), and the
+mark allocations above reflect that distinction precisely: a "give" question wants a stated fact
 with no further justification needed, so writing an extended explanation for question 1 or 4 wastes
 exam time without earning additional marks, since the mark scheme caps credit at the number of
 correctly identified items. An "explain" question, by contrast, requires the stated point to be
@@ -70,7 +70,7 @@ justified or elaborated -- question 2's three marks are not available for simply
 work is unequal effort," but require the fuller two-part explanation given above, connecting the
 concept to who typically performs it and why it is easy to overlook next to visible domestic tasks.
 Recognising which command word a Section A question uses, and calibrating how much to write
-accordingly, is a straightforward way to avoid losing time on over-written "identify" answers or
+accordingly, is a straightforward way to avoid losing time on over-written "give" answers or
 under-written "explain" answers.
 
 ## Why questions 5 and 6 stay perspective-versus-perspective

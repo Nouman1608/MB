@@ -114,8 +114,8 @@ set of named lenses plus general extension.
 
 ## Why ESS counts toward two subject groups
 
-Every other DP subject belongs to exactly one of the six subject groups. ESS is the DP's one
-genuinely interdisciplinary course, and a student can use it to satisfy either the Group 4
+Most DP subjects belong to exactly one of the six subject groups. ESS is an
+interdisciplinary course, and a student can use it to satisfy either the Group 4
 (sciences) requirement or the Group 3 (individuals and societies) requirement -- or, in some DP
 combinations, both at once, which frees up an entire additional subject slot for something else in
 the student's programme. Confirming with a school's DP coordinator exactly how ESS is being counted

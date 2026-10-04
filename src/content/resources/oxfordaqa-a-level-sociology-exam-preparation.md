@@ -24,7 +24,7 @@ The qualification is five units, all equally weighted at 20% of the full A-level
 (Families; Research Methods, 1 hour 45 minutes, 60 marks), AS Unit 2 (Socialisation and Social Control;
 Research Methods, 1 hour 45 minutes, 60 marks), A-level Unit 3 (People and Development, 1.5 hours, 50
 marks), A-level Unit 4 (People and the Environment, 1.5 hours, 50 marks), and A-level Unit 5 (People and
-Technologies, 1.5 hours, 50 marks). These notes complement the site's guides to
+Technology, 1.5 hours, 50 marks). These notes complement the site's guides to
 [Introducing Sociology](/resources/a-level-oxfordaqa-sociology-introducing-sociology/) and
 [Exploring Sociology](/resources/a-level-oxfordaqa-sociology-exploring-sociology/).
 

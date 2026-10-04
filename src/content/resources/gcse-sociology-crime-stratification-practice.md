@@ -96,7 +96,7 @@ D. Peerage
 
 **12.** Explain **two** ways gender can affect a person's life chances. **[4]**
 
-**13. Item-based question.** *Item: Two people with identical qualifications apply for the same senior role. One is offered a significantly higher starting salary than the other during negotiation, and later research finds this pattern holds consistently across many similar pairs of candidates in the same industry.*
+**13. Item-based question.** *Item: A man and a woman with identical qualifications apply for the same senior role. The man is offered a significantly higher starting salary than the woman during negotiation, and later research finds this pattern holds consistently across many similar pairs of candidates in the same industry.*
 
 Using the item and your knowledge, explain how sociologists would account for this pattern. **[4]**
 

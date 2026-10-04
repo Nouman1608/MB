@@ -115,7 +115,7 @@ Explanations for change include secularisation, changes in divorce law, women's 
 
 **Marxists** (Bowles and Gintis) argue the **hidden curriculum** reproduces class inequality through a correspondence between school and workplace — obedience, hierarchy, acceptance of extrinsic reward.
 
-**Interactionists** focus on processes inside school: **labelling**, the **self-fulfilling prophecy**, and **setting and streaming** creating pro- and anti-school subcultures — **Willis**'s study of a group of working-class boys forming a counter-school culture is the specification's named example of an anti-school subculture.
+**Interactionists** focus on processes inside school: **labelling**, the **self-fulfilling prophecy**, and **setting and streaming** creating pro- and anti-school subcultures — **Willis**'s study of a group of working-class boys forming a counter-school culture is the specification's named example of an anti-school subculture, though the specification presents Willis as writing from a Marxist perspective.
 
 ## Explaining differential achievement
 

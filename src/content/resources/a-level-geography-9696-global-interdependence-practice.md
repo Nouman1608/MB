@@ -157,7 +157,7 @@ Revise first with the [study guide for this unit](/resources/a-level-geography-9
 - Introduction: sustainable growth meets present needs without damaging the environment, society or economy for the future [1]; Venice is a historic city and lagoon, a UNESCO site since 1987 [1].
 - Growth: a Grand Tour stop in the 18th century [1], then mass tourism and cruises, with estimates of 22 to 30 million visitors a year [1].
 - Economy: tourism supports many jobs and businesses [1], but the city depends heavily on one sector and much day-tripper spending is small [1].
-- Society: the historic-centre population fell from about 120,000 in 1980 to about 50,000 in 2021 [1], as rents rose and homes became short-term lets [1]; this is the clearest sign of unsustainable growth [1].
+- Society: the historic-centre population fell from about 95,000 in 1980 to about 50,000 in 2021 [1], as rents rose and homes became short-term lets [1]; this is the clearest sign of unsustainable growth [1].
 - Environment: cruise ships caused pollution and wave damage [1]; flooding and subsidence threaten buildings [1].
 - Management: ships over 25,000 tonnes banned from the Giudecca Canal in 2021 [1]; a day-tripper access fee from 2024 and a 25-person limit on tour groups [1].
 - Evaluation of management: phone data suggested more people visited on fee days in 2024, so the fee raised money without cutting numbers [1].
