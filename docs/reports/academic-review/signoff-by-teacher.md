@@ -559,7 +559,9 @@ review.
 
 These pages have no designated reviewer whose profile covers their board(s) and subject.
 Signing them off needs a teacher profile to be updated (or a new reviewer designated)
-first, which is an owner decision.
+first, which is an owner decision. Those whose repository-side verification read an
+official source show "Checked by Marlbridge Academic Team" (specCheck, D-388); that line
+is not a review and does not change their status.
 
 | Resource | Course | Type | Verification | Also eligible |
 | --- | --- | --- | --- | --- |

@@ -11,6 +11,7 @@ timestamp: rerunning it on the same repository produces the same file.
 - **review-pending** — No accountable teacher is credited yet. Accuracy rests on the page's own citation of the official specification and the corrections process.
 - **reviewer** — The credited accountable teacher (an author profile with isReviewer: true).
 - **reviewedDate** — The date the reviewer credit was applied to the page; not the date of a review.
+- **specCheck** — D-388: the page shows "Checked by Marlbridge Academic Team" with the date and scope (official specification, or the board's public course documents where the full guide is licensed). Set on review-pending pages with no eligible teacher whose repository-side verification read an official source. Not a teacher review; the page stays review-pending.
 - **Repository-side verification** — A check of the page against its official specification recorded in docs/reports/academic-review/pending-review-*.json. Not a teacher review and not a sign-off.
 
 A build or validator pass is none of the above. "Academic review complete" is not
@@ -24,6 +25,7 @@ the human sign-off is outstanding for every review-pending resource.
 | With a repository-side verification record | 780 |
 | Corrected in the 4 Oct 2026 programme | 48 |
 | Pending with no reviewer assigned | 780 |
+| Showing "Checked by Marlbridge Academic Team" (specCheck) | 549 |
 
 **Review status (frontmatter)**
 

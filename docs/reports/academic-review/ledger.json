@@ -4,6 +4,7 @@
     "review-pending": "No accountable teacher is credited yet. Accuracy rests on the page's own citation of the official specification and the corrections process.",
     "reviewer": "The credited accountable teacher (an author profile with isReviewer: true).",
     "reviewedDate": "The date the reviewer credit was applied to the page; not the date of a review.",
+    "specCheck": "D-388: the page shows \"Checked by Marlbridge Academic Team\" with the date and scope (official specification, or the board's public course documents where the full guide is licensed). Set on review-pending pages with no eligible teacher whose repository-side verification read an official source. Not a teacher review; the page stays review-pending.",
     "repositoryVerification": "A check of the page against its official specification recorded in docs/reports/academic-review/pending-review-*.json. Not a teacher review and not a sign-off."
   },
   "totals": {
@@ -23,6 +24,7 @@
       "WARN": 369
     },
     "withVerificationRecord": 780,
+    "withSpecCheck": 549,
     "correctedInThisProgramme": 48,
     "pendingWithoutReviewer": 780
   },
@@ -47,6 +49,7 @@
     "reviewStatus",
     "reviewedDate",
     "eligibleReviewers",
+    "specCheck",
     "officialSourceUrl",
     "structuralValidation",
     "structuralIssues",

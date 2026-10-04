@@ -166,6 +166,13 @@ for (const r of ledger) {
 }
 check(eligBad === 0, `every eligible reviewer is a designated reviewer, not the author, covering every board; none listed for reviewed pages (${eligBad} violation)`);
 check(existsSync('docs/reports/academic-review/signoff-by-teacher.md'), 'per-teacher sign-off lists are generated');
+// D-388 -- "Checked by Marlbridge Academic Team" only on pending pages with no
+// eligible teacher whose verification read an official source.
+const specRows = ledger.filter((r) => r.specCheck);
+check(specRows.every((r) => r.reviewStatus !== 'reviewed' && !r.reviewer && !r.eligibleReviewers && !r.officialSourceUrl.startsWith('NOT READ')),
+  `specCheck appears only on review-pending pages with no eligible teacher and a read official source (${specRows.length} pages)`);
+const specFiles = resourceFiles.filter((f) => /^specCheck:/m.test(fmOf(readFileSync(`src/content/resources/${f}`, 'utf8')))).length;
+check(specFiles === specRows.length, `ledger specCheck column matches frontmatter (${specFiles} files)`);
 const ledgerJson = JSON.parse(readFileSync(LEDGER.json, 'utf8'));
 check(ledgerJson.rowCount === ledger.length && ledgerJson.totals.resources === ledger.length, 'ledger.json totals match ledger.csv rows');
 

@@ -207,6 +207,10 @@ for (const d of docs) {
   const reviewStatus = scalar(fm, 'reviewStatus') || 'review-pending';
   const reviewedDate = scalar(fm, 'reviewedDate');
   const publishedDate = scalar(fm, 'publishedDate');
+  // D-388 -- the "Checked by Marlbridge Academic Team" block (nested YAML).
+  const specBlock = fm.match(/^specCheck:\s*\n((?:[ \t]+\S.*\n?)+)/m)?.[1] ?? '';
+  const specSub = (k) => specBlock.match(new RegExp(`^[ \\t]+${k}:\\s*"?([\\w-]+)"?`, 'm'))?.[1] ?? '';
+  const specCheck = specBlock ? [specSub('by'), specSub('date'), specSub('scope')].join(' ') : '';
   const stage = scalar(fm, 'stage');
   const fails = [];
   const warns = [];
@@ -271,6 +275,7 @@ for (const d of docs) {
     if (!reviewedDate) fails.push('reviewed-without-date');
   }
   if (reviewStatus !== 'reviewed' && reviewedDate) fails.push('reviewed-date-without-reviewed-status');
+  if (reviewStatus === 'reviewed' && specCheck) fails.push('spec-check-on-reviewed-page');
   if (reviewedDate && publishedDate && reviewedDate < publishedDate) fails.push('reviewed-before-published');
 
   // Internal links that can be resolved from repository data.
@@ -350,6 +355,7 @@ for (const d of docs) {
     reviewStatus,
     reviewedDate,
     eligibleReviewers: reviewStatus === 'reviewed' ? [] : eligible,
+    specCheck,
     officialSourceUrl: v?.specSourceUsed || combos.map((c) => sourceByCombo.get(c)).find(Boolean) || '',
     structuralValidation: structural,
     structuralIssues: [...fails, ...warns],
@@ -386,6 +392,7 @@ const totals = {
   outcome: count((r) => r.outcome),
   structuralValidation: count((r) => r.structuralValidation),
   withVerificationRecord: rows.filter((r) => r.verificationRecord).length,
+  withSpecCheck: rows.filter((r) => r.specCheck).length,
   correctedInThisProgramme: rows.filter((r) => r.correctiveCommit.length).length,
   pendingWithoutReviewer: rows.filter((r) => r.reviewStatus !== 'reviewed' && !r.reviewer).length,
 };
@@ -394,11 +401,12 @@ const meaning = {
   'review-pending': 'No accountable teacher is credited yet. Accuracy rests on the page\'s own citation of the official specification and the corrections process.',
   reviewer: 'The credited accountable teacher (an author profile with isReviewer: true).',
   reviewedDate: 'The date the reviewer credit was applied to the page; not the date of a review.',
+  specCheck: 'D-388: the page shows "Checked by Marlbridge Academic Team" with the date and scope (official specification, or the board\'s public course documents where the full guide is licensed). Set on review-pending pages with no eligible teacher whose repository-side verification read an official source. Not a teacher review; the page stays review-pending.',
   repositoryVerification: 'A check of the page against its official specification recorded in docs/reports/academic-review/pending-review-*.json. Not a teacher review and not a sign-off.',
 };
 
 
-const COLUMNS = ['filename', 'slug', 'title', 'board', 'qualification', 'subject', 'specificationCode', 'specificationSeries', 'stage', 'tier', 'topicMappings', 'resourceType', 'author', 'reviewer', 'reviewStatus', 'reviewedDate', 'eligibleReviewers', 'officialSourceUrl', 'structuralValidation', 'structuralIssues', 'academicContent', 'questionsAnswers', 'questionsAnswersStructure', 'calculations', 'terminology', 'crossBoardIsolation', 'outcome', 'issuesFound', 'correctiveCommit', 'verificationRecord', 'remainingBlocker'];
+const COLUMNS = ['filename', 'slug', 'title', 'board', 'qualification', 'subject', 'specificationCode', 'specificationSeries', 'stage', 'tier', 'topicMappings', 'resourceType', 'author', 'reviewer', 'reviewStatus', 'reviewedDate', 'eligibleReviewers', 'specCheck', 'officialSourceUrl', 'structuralValidation', 'structuralIssues', 'academicContent', 'questionsAnswers', 'questionsAnswersStructure', 'calculations', 'terminology', 'crossBoardIsolation', 'outcome', 'issuesFound', 'correctiveCommit', 'verificationRecord', 'remainingBlocker'];
 
 // The per-resource rows live in ledger.csv (one place, ~2.4 MB); ledger.json
 // carries the meanings, totals, integrity result and column list, so the two
@@ -428,6 +436,7 @@ timestamp: rerunning it on the same repository produces the same file.
 - **review-pending** — ${meaning['review-pending']}
 - **reviewer** — ${meaning.reviewer}
 - **reviewedDate** — ${meaning.reviewedDate}
+- **specCheck** — ${meaning.specCheck}
 - **Repository-side verification** — ${meaning.repositoryVerification}
 
 A build or validator pass is none of the above. "Academic review complete" is not
@@ -441,6 +450,7 @@ the human sign-off is outstanding for every review-pending resource.
 | With a repository-side verification record | ${totals.withVerificationRecord} |
 | Corrected in the 4 Oct 2026 programme | ${totals.correctedInThisProgramme} |
 | Pending with no reviewer assigned | ${totals.pendingWithoutReviewer} |
+| Showing "Checked by Marlbridge Academic Team" (specCheck) | ${totals.withSpecCheck} |
 
 **Review status (frontmatter)**
 
@@ -547,7 +557,9 @@ ${rs.map(teacherLine).join('\n')}
 
 These pages have no designated reviewer whose profile covers their board(s) and subject.
 Signing them off needs a teacher profile to be updated (or a new reviewer designated)
-first, which is an owner decision.
+first, which is an owner decision. Those whose repository-side verification read an
+official source show "Checked by Marlbridge Academic Team" (specCheck, D-388); that line
+is not a review and does not change their status.
 
 | Resource | Course | Type | Verification | Also eligible |
 | --- | --- | --- | --- | --- |
