@@ -159,7 +159,7 @@ A **surd** is an irrational root, such as √3 or √10. √36 is not a surd.
 a^(1/n)  = nth root of a
 a^(m/n)  = (nth root of a)^m        root first
 a^(-m/n) = 1 / a^(m/n)              flip
-(a^m)^n  = a^(mn)
+(a^m)^n  = a^(mn)                   both tiers (spec 2.1)
 ```
 
 **Worked reminder.** 81^(3/4): fourth root of 81 is 3, and 3³ = **27**.

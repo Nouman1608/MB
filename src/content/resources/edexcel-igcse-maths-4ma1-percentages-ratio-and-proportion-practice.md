@@ -136,7 +136,7 @@ Learn the content first in the [study guide](/resources/edexcel-igcse-maths-4ma1
 **10. (a)** 14 000 ÷ 7 = 2000 per part [1]; Kofi = 3 × 2000 = 6000 [1]
 **(b)** 6000 × 1.035³ [1] = **£6652.31** [1]
 **(c)** Lena's value: 8000 × 1.025³ = £8615.13, so her interest is £615.13 [1]; Kofi's interest is 6652.31 − 6000 = £652.31 [1]; **Kofi earns more, by £37.18** [1]
-**(d)** Total interest = 652.31 + 615.13 = £1267.43 [1]; 1267.43/14 000 × 100 = **9.05%** [1]
+**(d)** Total interest = 652.31 + 615.13 = £1267.44 [1]; 1267.44/14 000 × 100 = **9.05%** [1]
 *Examiner insight:* On a "show that" in (a), the answer 6000 is given, so the marks are for the working: write 14 000 ÷ 7 and × 3 in full.
 
 **11.** Multipliers 1.2, 1.15 and 0.75 [1]; 1.2 × 1.15 × 0.75 = 1.035 [1]; **an increase of 3.5%** [1]
@@ -155,7 +155,7 @@ Learn the content first in the [study guide](/resources/edexcel-igcse-maths-4ma1
 - Leaving ratios with mixed units (m with cm) or not fully simplified.
 - Using simple interest (adding the same amount each year) when the question says compound.
 - Giving the final value when the question asks for the interest, or the interest when it asks for the value.
-- Rounding the value at the end of each year, so the final answer is a few cents out.
+- Rounding the value at the end of each year, so the final answer is a few pence out.
 - Leaving a map length in cm when the answer must be in km.
 - (Higher) Adding successive percentage changes instead of multiplying the multipliers.
 - (Higher) Giving only the final number of years without the values either side of the target.

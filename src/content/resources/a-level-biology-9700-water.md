@@ -132,7 +132,7 @@ Check your units first. Mass in grams must go with J g⁻¹ °C⁻¹; mass in ki
 
 ## Property 3: high latent heat of vaporisation
 
-**Latent heat of vaporisation** is the energy needed to change a liquid into a vapour (gas) without a change in temperature. For water it is very high: about 2 257 J for every gram at 100 °C.
+**Latent heat of vaporisation** is the energy needed to change a liquid into a vapour (gas) without a change in temperature. For water it is very high: about 2 257 J for every gram at 100 °C, and nearer 2 400 J g⁻¹ at body temperature.
 
 ### Why it is high
 

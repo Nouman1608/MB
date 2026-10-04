@@ -79,7 +79,7 @@ Nothing else is required for 2.4. Cohesion of water in the xylem is in Topic 7; 
 | Quantity | Value |
 |---|---|
 | Specific heat capacity of liquid water | about 4.2 kJ kg⁻¹ °C⁻¹ (4.18 J g⁻¹ °C⁻¹ at 25 °C) |
-| Latent heat of vaporisation of water | about 2 257 J g⁻¹ at 100 °C |
+| Latent heat of vaporisation of water | about 2 257 J g⁻¹ at 100 °C; about 2.4 kJ g⁻¹ at body temperature |
 | Ratio of the two | evaporating 1 g removes about 540 times the energy of cooling 1 g by 1 °C |
 
 In a calculation, always use the value printed in the question.

@@ -58,7 +58,7 @@ Two facts about listing:
 - **Order does not matter.** {2, 4, 6, 8} and {8, 6, 4, 2} are the same set.
 - **Each element is listed once.** The letters of the word LETTER form the set {L, E, T, R}, not {L, E, T, T, E, R}.
 
-A set can be finite (it has a fixed number of elements) or infinite, such as {odd numbers}. In exam questions, the sets you list are always finite because a universal set limits them.
+A set can be finite (it has a fixed number of elements) or infinite, such as {odd numbers}. In exam questions, the sets you list are finite because a universal set or a stated range limits them.
 
 ## 1.5 B and C: Notation, universal set and empty set (both tiers)
 
