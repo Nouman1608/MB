@@ -473,6 +473,15 @@ const apResources = defineCollection({
     editorialStatus: z.enum(['planned', 'drafted', 'in-review', 'reviewed', 'published']),
     reviewer: z.string().optional(),
     reviewedDate: z.coerce.date().optional(),
+    /**
+     * D-390 -- dated check by the Marlbridge Academic Team (an organisation profile, not a
+     * teacher) against the 2026-27 Course and Exam Description: content and terminology
+     * compared with the framework, every calculation re-worked, errors corrected. Shown as
+     * "Checked by Marlbridge Academic Team" (same meaning as the D-388 line on other
+     * resources, editorial policy #specification-check). Never implies a teacher review.
+     */
+    checkedBy: reference('authors').optional(),
+    checkedDate: z.coerce.date().optional(),
     author: reference('authors'),
   }),
 });

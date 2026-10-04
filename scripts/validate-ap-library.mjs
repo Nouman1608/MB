@@ -83,6 +83,14 @@ for (const r of records) {
   if (!reviewedState && (d.reviewer || d.reviewedDate)) fail(r.path, 'reviewer/reviewedDate set but editorialStatus is not reviewed/published');
   if (/reviewed by|checked by an? (AP )?teacher|teacher-reviewed/i.test(r.body)) fail(r.path, 'body must not claim a teacher review');
 
+  // D-390 -- "Checked by" line: a real author profile, a sane date, never on a reviewed page.
+  if (d.checkedBy || d.checkedDate) {
+    if (!d.checkedBy || !d.checkedDate) fail(r.path, 'checkedBy and checkedDate go together');
+    else if (!existsSync(`src/content/authors/${d.checkedBy}.md`)) fail(r.path, `checkedBy: no author profile ${d.checkedBy}`);
+    const cd = new Date(d.checkedDate);
+    if (cd < new Date(d.publishedDate) || cd > today) fail(r.path, 'checkedDate before publication or in the future');
+  }
+
   // Metadata wording (College Board guidelines: no marks in meta tags).
   if (!AP_MARK_IN_METADATA) for (const k of ['title', 'description']) if (MARKS.test(d[k] ?? '')) fail(r.path, `${k} uses a College Board mark while AP_MARK_IN_METADATA is false`);
 

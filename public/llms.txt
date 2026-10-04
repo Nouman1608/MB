@@ -123,3 +123,18 @@
 - [Sajawal Zahid](https://marlbridge.com/authors/sajawal-zahid/): Mathematics Teacher.
 - [Salman Ahmad](https://marlbridge.com/authors/salman-ahmad/): Economics, Business Studies and Commerce Teacher.
 - [Zain Ud Din Ahmed](https://marlbridge.com/authors/zain-ud-din-ahmed/): Accounting Teacher.
+
+## Advanced courses (US curriculum)
+
+- [Advanced-course study library](https://marlbridge.com/advanced-course-resources/): original study guides, revision notes, practice and checklists mapped to the 2026-27 College Board course frameworks (May 2027 exams). AP® and Advanced Placement® are trademarks registered by the College Board, which is not affiliated with, and does not endorse, this website.
+- [AP® Chemistry](https://marlbridge.com/advanced-course-resources/chemistry/): 9 units; exam 2027-05-06.
+- [AP® Biology](https://marlbridge.com/advanced-course-resources/biology/): 8 units; exam 2027-05-03.
+- [AP® Calculus AB](https://marlbridge.com/advanced-course-resources/calculus-ab/): 8 units; exam 2027-05-10.
+- [AP® Calculus BC](https://marlbridge.com/advanced-course-resources/calculus-bc/): 10 units; exam 2027-05-10.
+- [AP® Statistics](https://marlbridge.com/advanced-course-resources/statistics/): 5 units; exam 2027-05-11.
+- [AP® Physics 1: Algebra-Based](https://marlbridge.com/advanced-course-resources/physics-1/): 8 units; exam 2027-05-05.
+- [AP® Physics 2: Algebra-Based](https://marlbridge.com/advanced-course-resources/physics-2/): 7 units; exam 2027-05-06.
+- [AP® Physics C: Mechanics](https://marlbridge.com/advanced-course-resources/physics-c-mechanics/): 7 units; exam 2027-05-03.
+- [AP® Physics C: Electricity and Magnetism](https://marlbridge.com/advanced-course-resources/physics-c-electricity-and-magnetism/): 6 units; exam 2027-05-05.
+- [AP® Microeconomics](https://marlbridge.com/advanced-course-resources/microeconomics/): 6 units; exam 2027-05-04.
+- [AP® Macroeconomics](https://marlbridge.com/advanced-course-resources/macroeconomics/): 6 units; exam 2027-05-07.

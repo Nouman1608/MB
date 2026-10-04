@@ -6,6 +6,8 @@ import Container from '../../components/layout/Container.astro';
 import ResourceCard from '../../components/cards/ResourceCard.astro';
 import { getResources, getSubjects, resourceCategoryMeta } from '../../utils/content/collections';
 import { routes } from '../../utils/urls/routes';
+import { apLibraryBuilt, apUrls } from '../../utils/ap/library';
+import { AP_TRADEMARK_ATTRIBUTION } from '../../data/ap/config';
 
 const types = Object.entries(resourceCategoryMeta);
 const resources = await getResources();
@@ -132,6 +134,16 @@ const bySubjectByType = Object.fromEntries(
           <li class="flex items-baseline gap-3"><span class="font-mono text-[11px] text-gold-600">03</span><span>Topic material — <code class="font-mono text-[13.5px] text-ink-mute">/resources/atomic-structure/</code></span></li>
         </ol>
       </section>
+      {/* D-390 -- advanced-course (AP) library, shown only when it is built (src/data/ap/config.ts). */}
+      {apLibraryBuilt() && (
+        <section aria-labelledby="advanced-courses" class="mt-[clamp(40px,5vw,64px)] max-w-[72ch]">
+          <h2 id="advanced-courses" class="m-0 mb-3 text-[22px] font-semibold text-navy-800">Advanced courses (US curriculum)</h2>
+          <p class="m-0 text-[17px] leading-[1.7] text-ink-mute">
+            Study guides, revision notes, practice and checklists for eleven AP® courses in chemistry, biology, physics, calculus, statistics and economics, written to the 2026–27 course frameworks: <a href={apUrls.index} class="underline decoration-gold-500 underline-offset-2">Marlbridge guide to AP® courses</a>.
+          </p>
+          <p class="m-0 mt-3 text-[13px] leading-[1.6] text-ink-mute">{AP_TRADEMARK_ATTRIBUTION}</p>
+        </section>
+      )}
     </Container>
   </Section>
 </PageLayout>

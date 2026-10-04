@@ -15297,3 +15297,11 @@ Practice questions are labelled by criterion A–D with the "revision aid, not I
 **Why unpublished.** College Board's trademark guidelines require prior written consent for third-party use of its marks and forbid them in web addresses and meta tags; a disclaimer does not replace permission. `AP_LIBRARY_PUBLIC = false`: production builds contain no library page or link; `MB_PREVIEW_DRAFTS=1` builds a noindexed preview. Routes and metadata are neutral; visible headings use "Marlbridge guide to AP® …" with the attribution footnote.
 
 **Owner decisions outstanding.** Trademark permission or legal advice; names of the AP teachers who will review; then `AP_LIBRARY_PUBLIC = true`.
+
+## D-390 -- Advanced-course (AP) library made live; "Checked by Marlbridge Academic Team" (5 Oct 2026)
+
+**Owner's instruction (5 Oct 2026, 03:34 PKT).** "Make it live"; "at the moment write Marlbridge academic team"; "you do it".
+
+**What was done.** `AP_LIBRARY_PUBLIC = true`: the index, 11 course hubs and 44 resource pages are built in production, indexable, in the sitemap (with `lastmod` from each resource's `updatedDate`) and in `llms.txt`; the subject hubs and `/resources/` link to them. The owner chose to publish without College Board permission, knowing its guidelines (D-389); URLs and metadata stay neutral, and the (R) symbol and the attribution footnote stay on every page that uses the marks. New optional fields `checkedBy`/`checkedDate`: all 44 resources show "Checked by Marlbridge Academic Team, against the 2026-27 course framework, 5 October 2026 (what this means)", linking the editorial policy's `#specification-check` section, which now also covers these pages (last updated 5 October 2026). This is the D-388 meaning: not a teacher review; `editorialStatus` stays `drafted` and no teacher is named. Validator rule added for the new fields. Index FAQ reworded ("Who checks this material?").
+
+**Owner decision outstanding.** AP teachers to review the pages (then `reviewer`/`reviewedDate` replace the "Checked by" line).

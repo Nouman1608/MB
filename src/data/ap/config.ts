@@ -13,10 +13,11 @@
  *   - a preview build (MB_PREVIEW_DRAFTS=1) builds every page with noindex and a
  *     "not published" banner, for owner and teacher review.
  *
- * Turn this on only after the owner has (a) permission or written legal advice on the
- * College Board marks and (b) decided which pages are ready (editorialStatus).
+ * D-390 (owner, 5 Oct 2026 03:34 PKT): "make it live". The owner chose to publish before
+ * any College Board permission was obtained, knowing the guidelines above; neutral URLs and
+ * metadata, the (R) symbol and the attribution footnote stay in place.
  */
-export const AP_LIBRARY_PUBLIC = false;
+export const AP_LIBRARY_PUBLIC = true;
 
 /** Route prefix. Deliberately neutral: no College Board mark in any URL. */
 export const AP_LIBRARY_BASE = '/advanced-course-resources/';

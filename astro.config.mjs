@@ -46,6 +46,17 @@ function buildLastmodMap() {
       map.set(`${urlPrefix}${slug}/`, new Date(date).toISOString());
     }
   }
+  // D-390 -- advanced-course (AP) library pages: updatedDate from their frontmatter.
+  try {
+    const base = new URL('src/content/ap-resources/', import.meta.url);
+    for (const course of readdirSync(base)) {
+      for (const file of readdirSync(new URL(`${course}/`, base)).filter((f) => f.endsWith('.md'))) {
+        const fm = readFileSync(new URL(`${course}/${file}`, base), 'utf-8').split('---')[1] ?? '';
+        const date = fm.match(/^updatedDate:\s*(\S+)/m)?.[1];
+        if (date) map.set(`${AP_LIBRARY_BASE}${course}/${file.replace(/\.md$/, '')}/`, new Date(date).toISOString());
+      }
+    }
+  } catch { /* no AP library */ }
   return map;
 }
 
