@@ -1,0 +1,64 @@
+{
+  "meaning": {
+    "reviewed": "A named Marlbridge subject teacher (reviewer, different from the author, designated isReviewer) is credited as accountable for the page. Owner decision D-379 (1 Oct 2026): this is not a record of a dated, line-by-line check.",
+    "review-pending": "No accountable teacher is credited yet. Accuracy rests on the page's own citation of the official specification and the corrections process.",
+    "reviewer": "The credited accountable teacher (an author profile with isReviewer: true).",
+    "reviewedDate": "The date the reviewer credit was applied to the page; not the date of a review.",
+    "repositoryVerification": "A check of the page against its official specification recorded in docs/reports/academic-review/pending-review-*.json. Not a teacher review and not a sign-off."
+  },
+  "totals": {
+    "resources": 2767,
+    "reviewStatus": {
+      "review-pending": 780,
+      "reviewed": 1987
+    },
+    "outcome": {
+      "REPO_PARTIAL_UNVERIFIABLE": 153,
+      "REPO_VERIFIED": 585,
+      "REPO_VERIFIED_AFTER_CORRECTION": 42,
+      "TEACHER_CREDITED": 1987
+    },
+    "structuralValidation": {
+      "PASS": 2398,
+      "WARN": 369
+    },
+    "withVerificationRecord": 780,
+    "correctedInThisProgramme": 48,
+    "pendingWithoutReviewer": 780
+  },
+  "integrity": [],
+  "rowsFile": "docs/reports/academic-review/ledger.csv",
+  "rowCount": 2767,
+  "columns": [
+    "filename",
+    "slug",
+    "title",
+    "board",
+    "qualification",
+    "subject",
+    "specificationCode",
+    "specificationSeries",
+    "stage",
+    "tier",
+    "topicMappings",
+    "resourceType",
+    "author",
+    "reviewer",
+    "reviewStatus",
+    "reviewedDate",
+    "officialSourceUrl",
+    "structuralValidation",
+    "structuralIssues",
+    "academicContent",
+    "questionsAnswers",
+    "questionsAnswersStructure",
+    "calculations",
+    "terminology",
+    "crossBoardIsolation",
+    "outcome",
+    "issuesFound",
+    "correctiveCommit",
+    "verificationRecord",
+    "remainingBlocker"
+  ]
+}
