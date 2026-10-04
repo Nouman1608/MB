@@ -116,8 +116,8 @@ export type AssessmentComponentType =
  * alternative components (e.g. Practical Test or Alternative to Practical);
  * 'staged' = Cambridge AS & A Level route structure with no component
  * choice. validate-assessments.mjs check [15] now fails a record without
- * one. Known inconsistency left for owner review: Cambridge 9700 Biology is
- * 'component-based' although its structure matches 9701/9702 ('staged'). */
+ * one. Cambridge 9700 Biology, briefly 'component-based', was aligned to
+ * 'staged' with 9701/9702 by owner decision on 4 Oct 2026 (D-387). */
 export type AssessmentModel =
   | 'linear'
   | 'modular'
@@ -1024,7 +1024,8 @@ export const ASSESSMENTS: readonly Assessment[] = [
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/664560-2025-2027-syllabus.pdf',
     verifiedOn: '2026-08-27',
     notes: 'Structurally identical scheme to Cambridge 9701 Chemistry and 9702 Physics -- independently re-confirmed from Biology\'s own source PDF (Assessment overview, p.10): same five-paper structure, durations, marks and weighting (15.5%/23%/11.5%/38.5%/11.5% of the full A Level, summing to 100%). Papers 1-3 alone can instead be certificated as a standalone AS Level (weighted 31%/46%/23% of the AS Level in that route, not modeled as a separate record here). All five papers externally assessed.',
-    assessmentModel: 'component-based',
+    assessmentModel: 'staged',
+    internalNotes: 'assessmentModel changed from component-based to staged on 2026-10-04 by owner decision (D-387). The 2025-2027 syllabus routes table gives the same three routes as 9701 and 9702 (AS Level only; A Level staged over two years; A Level in one series) with no choice between components, so it now matches 9701, 9702 and the other Cambridge AS & A Levels with that structure.',
     asALevelRelationship: 'staged-cambridge-route',
     certificationNotes: 'AS Level (Papers 1-3) can be certificated on its own as a standalone Cambridge International AS Level, OR a candidate can continue to Papers 4-5 for the full A Level -- same staged structure as Cambridge 9701 Chemistry and 9702 Physics.',
   },
