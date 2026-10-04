@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "schizophrenia-9685"
 description: "Study guide for OxfordAQA 9685 section 3.3.2: symptoms, reliability and validity of diagnosis, genetics, dopamine, Frith's model and therapies."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

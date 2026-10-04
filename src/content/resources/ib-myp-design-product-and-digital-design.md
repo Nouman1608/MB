@@ -17,6 +17,10 @@ syllabusTopics:
     topic: "ib-myp-design-global-contexts"
 description: "IB MYP Design study guide to product, digital and combined design: the evidence each produces at every design-cycle stage, and how to prototype and test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

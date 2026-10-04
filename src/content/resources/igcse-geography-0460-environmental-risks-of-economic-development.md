@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "environmental-risks-economic-development-0460"
 description: "Study guide for Cambridge IGCSE Geography 0460 section 3.7: threats from economic activity, sustainable management, resource conservation and a case study."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

@@ -10,6 +10,10 @@ syllabusCodes: ["DP Environmental Systems and Societies"]
 order: 2
 description: "Paper-by-paper exam preparation for IB Diploma Programme Environmental Systems and Societies -- how to answer questions that combine scientific and societal strands, a worked scenario and a before/during-exam checklist."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-07
 featured: false
 ---

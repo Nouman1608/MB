@@ -21,6 +21,10 @@ syllabusTopics:
     topic: "organisational-psychology-9990"
 description: "Exam-style questions with full worked answers on applying named psychological approaches and theories to Clinical, Consumer, Health and Organisational Psychology scenarios, and connecting each option back to Research Methods, for Cambridge A Level Psychology Paper 3 (9990)."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-06
 featured: false
 ---

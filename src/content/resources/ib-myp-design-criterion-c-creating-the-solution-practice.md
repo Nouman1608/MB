@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "ib-myp-design-assessment-criteria-c-creating-the-solution"
 description: "Eleven original IB MYP Design practice questions on Criterion C -- planning, time and cost checks, build logs and justified changes -- with worked answers."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

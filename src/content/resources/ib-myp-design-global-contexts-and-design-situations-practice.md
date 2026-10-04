@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "ib-myp-design-global-contexts"
 description: "Original IB MYP Design practice questions on global contexts, problem statements from design situations and context-linked tests, with worked answers."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

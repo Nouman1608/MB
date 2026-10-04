@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "component-3-team-project-9239"
 description: "How Component 3 works within Cambridge International AS & A Level Global Perspectives & Research (9239): forming a team, researching a local problem with global relevance, and producing an individual presentation and reflective paper."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-02
 featured: false
 ---

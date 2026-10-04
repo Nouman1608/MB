@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "social-structures-processes-issues-8192"
 description: "Original practice questions with marked answers for AQA GCSE Sociology 8192 section 3.2: theories in context, extracts, statistics and debates."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

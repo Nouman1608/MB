@@ -17,6 +17,10 @@ syllabusTopics:
     topic: "ib-myp-individuals-and-societies-related-concepts"
 description: "Original IB MYP Individuals and Societies practice questions on rights and social protest, with source and data tasks, essays and worked answers."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

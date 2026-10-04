@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "earthquakes-volcanoes-0460"
 description: "Types and features of volcanoes and earthquakes, their global distribution and causes at plate boundaries, hazards and opportunities, and the required earthquake and volcano case studies, for Cambridge IGCSE Geography 0460, section 2.1."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-02
 featured: false
 ---

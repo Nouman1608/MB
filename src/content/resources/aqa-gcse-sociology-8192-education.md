@@ -27,6 +27,10 @@ syllabusTopics:
     subtopic: "processes-within-schools-8192"
 description: "Study guide to AQA GCSE Sociology 8192 Education 3.4.1-3.4.4: Durkheim, Parsons, Bowles and Gintis, Halsey, Ball and Willis, with evaluation."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

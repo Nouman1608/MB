@@ -19,6 +19,10 @@ syllabusTopics:
     topic: "ib-dp-environmental-systems-and-societies-hl-c-environmental-ethics"
 description: "Study guide to the three IB DP ESS HL lenses -- environmental law, environmental and ecological economics, and ethics -- with worked examples."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-27
 featured: false
 ---

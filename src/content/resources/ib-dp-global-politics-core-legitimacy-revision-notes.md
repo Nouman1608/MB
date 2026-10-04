@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "ib-dp-global-politics-core-topics"
 description: "Condensed IB DP Global Politics revision notes on legitimacy: key distinctions, sources, challenges, non-state actors and a quick self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

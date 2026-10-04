@@ -11,6 +11,10 @@ syllabusSeries: "2025-2027"
 order: 3
 description: "Why Cambridge O Level Sociology 2251's two papers carry equal marks but unequal time, how to use the methods content as an asset across both papers, and a worked evaluation structure."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-07
 featured: false
 ---

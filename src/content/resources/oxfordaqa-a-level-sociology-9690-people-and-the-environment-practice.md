@@ -25,6 +25,10 @@ syllabusTopics:
     subtopic: "people-and-animals-9690"
 description: "Original practice questions with marked answers for OxfordAQA 9690 Unit 4: cities, demographic transition, climate justice, green theory and animals."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

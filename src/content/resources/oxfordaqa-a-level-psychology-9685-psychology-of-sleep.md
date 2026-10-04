@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "psychology-of-sleep-9685"
 description: "Study guide for OxfordAQA 9685 section 3.3.1: biological rhythms, shift work and jet lag, REM and non-REM sleep, sleep functions, insomnia and narcolepsy."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

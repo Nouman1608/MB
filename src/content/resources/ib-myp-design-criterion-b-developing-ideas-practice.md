@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "ib-myp-design-assessment-criteria-b-developing-ideas"
 description: "Original IB MYP Design Criterion B practice questions on specifications, idea ranges, decision matrices and planning drawings, with worked answers."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

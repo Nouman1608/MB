@@ -17,6 +17,10 @@ syllabusTopics:
     topic: "ib-myp-individuals-and-societies-related-concepts"
 description: "Eleven original IB MYP Individuals and Societies questions on superpowers, empires and alliances, with criterion D source work and worked answers."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

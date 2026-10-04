@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "geographical-fieldwork-skills-9230"
 description: "Original 9230 Paper 3-style questions with marked answers: map calculations, averages, data maps, a microclimate enquiry and two extended fieldwork essays."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

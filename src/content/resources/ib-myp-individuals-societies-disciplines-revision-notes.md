@@ -16,6 +16,10 @@ syllabusTopics:
     topic: "ib-myp-individuals-and-societies-eassessment-topics"
 description: "Condensed revision notes on the discipline options IB MYP Individuals and Societies schools choose from, and the three eAssessment subjects (history, geography, integrated humanities) students can be examined in."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-03
 featured: false
 ---

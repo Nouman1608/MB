@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "urban-environments-9635"
 description: "Study guide to OxfordAQA 9635 section 3.4.2: urbanisation, urban forms, urban climate, waste, health, sustainability and two contrasting case studies."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

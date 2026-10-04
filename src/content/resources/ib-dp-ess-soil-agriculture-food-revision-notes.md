@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "ib-dp-environmental-systems-and-societies-5-2"
 description: "Condensed IB DP ESS revision notes on soil systems, texture, degradation, conservation and food production, with a 12-question self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-27
 featured: false
 ---

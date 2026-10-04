@@ -33,6 +33,10 @@ syllabusTopics:
     subtopic: "power-relationships-8192"
 description: "Study guide to AQA GCSE Sociology 8192 social stratification: Davis and Moore, Marx and Weber on class, life chances, poverty, power and Walby."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

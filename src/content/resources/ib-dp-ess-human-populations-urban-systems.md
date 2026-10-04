@@ -22,6 +22,10 @@ syllabusTopics:
     subtopic: "ib-dp-environmental-systems-and-societies-8-3"
 description: "Study guide for IB DP ESS Topic 8: population dynamics and models, urban systems and planning, and urban air pollution, with worked data examples."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-27
 featured: false
 ---

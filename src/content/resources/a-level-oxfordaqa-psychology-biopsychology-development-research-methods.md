@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "unit-2-biopsychology-development-9685"
 description: "Biopsychology, cognitive development, and research methods 1 -- the full content of Unit 2 for OxfordAQA International AS and A-Level Psychology (9685), the second and final unit of the International AS."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-02
 featured: false
 ---

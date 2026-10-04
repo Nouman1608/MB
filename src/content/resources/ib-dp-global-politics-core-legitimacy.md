@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "ib-dp-global-politics-core-topics"
 description: "Study guide to legitimacy in IB DP Global Politics: sources of state and government legitimacy, challenges to them and non-state actor legitimacy."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

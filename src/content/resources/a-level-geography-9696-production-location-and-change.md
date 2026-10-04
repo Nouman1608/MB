@@ -28,6 +28,10 @@ syllabusTopics:
     subtopic: "the-management-of-change-in-manufacturing-industry-9696"
 description: "Study guide to Cambridge 9696 Geography Topic 11: farm systems, agricultural change in India, industrial location, EPZs, the informal sector and Malaysia."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

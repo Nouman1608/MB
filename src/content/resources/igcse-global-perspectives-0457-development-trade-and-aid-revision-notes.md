@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "development-trade-and-aid-0457"
 description: "Condensed 0457 revision notes for development, trade and aid: key terms, perspectives, source-judging terms, an essay plan and a quick self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "stress-7182"
 description: "Condensed revision notes for the AQA A-level Psychology 7182 Stress option, with key terms, studies at a glance, an essay plan and a self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

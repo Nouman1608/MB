@@ -11,6 +11,10 @@ syllabusSeries: "First assessment 2019"
 order: 2
 description: "The core approaches to understanding behaviour, research methodology and four options of IB Diploma Programme Psychology, with recommended teaching hours for SL and HL, for first assessment 2019."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-02
 featured: false
 ---

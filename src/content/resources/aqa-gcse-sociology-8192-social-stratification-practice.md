@@ -33,6 +33,10 @@ syllabusTopics:
     subtopic: "power-relationships-8192"
 description: "Original AQA GCSE Sociology 8192 stratification questions with marked answers on Davis and Moore, class, poverty data, authority and patriarchy."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

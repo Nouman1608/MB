@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "paper-2-the-family-9699"
 description: "Functionalist, Marxist and feminist perspectives on the family, family diversity and social change, and gender and age within family life -- the full content of Paper 2 for Cambridge AS & A Level Sociology (9699)."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-02
 featured: false
 ---

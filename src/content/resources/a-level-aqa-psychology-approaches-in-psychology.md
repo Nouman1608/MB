@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "approaches-in-psychology-7182"
 description: "The six approaches to psychology examined on AQA A-Level Psychology (7182) Paper 2 -- learning approaches (behaviourist and social learning theory), cognitive, biological, psychodynamic, humanistic, and their comparison."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-05
 featured: false
 ---

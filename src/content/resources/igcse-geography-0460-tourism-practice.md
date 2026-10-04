@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "tourism-0460"
 description: "Original IGCSE Geography 0460 tourism questions with marked answers: data skills, leakage, the Butler model, questionnaires and extended evaluation."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

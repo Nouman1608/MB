@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "research-methods-2-9685"
 description: "Original practice questions with marked answers for OxfordAQA 9685 Research methods 2, using invented data on test choice, significance and validity."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "relationships-7182"
 description: "Condensed AQA A-level Psychology 7182 Relationships notes: key terms, studies at a glance, distinctions, an essay plan and a quick self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

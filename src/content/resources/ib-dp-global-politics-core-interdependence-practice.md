@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "ib-dp-global-politics-core-topics"
 description: "Original source-based and essay practice on interdependence for IB DP Global Politics, with marked model answers and examiner insights."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

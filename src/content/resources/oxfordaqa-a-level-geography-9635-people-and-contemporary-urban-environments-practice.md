@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "urban-environments-9635"
 description: "Original OxfordAQA 9635 urban environments practice questions on heat islands, waste, malaria, segregation and sustainable cities, with marked answers."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

@@ -25,6 +25,10 @@ syllabusTopics:
     subtopic: "ib-dp-environmental-systems-and-societies-4-4"
 description: "IB DP ESS Topic 4 study guide: the water cycle, water security, fisheries and aquaculture, and water pollution, with worked data examples."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-27
 featured: false
 ---

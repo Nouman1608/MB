@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "ib-dp-global-politics-rights-and-justice"
 description: "How rights are claimed, contested and enforced, examined through power, sovereignty, legitimacy and interdependence -- one of the three compulsory thematic studies of IB Diploma Programme Global Politics, first assessment 2026."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-06
 featured: false
 ---

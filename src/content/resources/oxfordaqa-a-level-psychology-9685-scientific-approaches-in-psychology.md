@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "approaches-in-psychology-9685"
 description: "Study guide for OxfordAQA 9685 section 3.4.1: behaviourism, social learning theory, cognitive approach, cognitive neuroscience and biological approach."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

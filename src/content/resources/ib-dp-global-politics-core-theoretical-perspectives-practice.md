@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "ib-dp-global-politics-core-topics"
 description: "Original IB DP Global Politics questions applying realism, liberalism and critical theories to sources and essays, with marked model answers."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

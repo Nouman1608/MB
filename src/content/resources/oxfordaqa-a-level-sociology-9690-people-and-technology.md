@@ -31,6 +31,10 @@ syllabusTopics:
     subtopic: "artificial-intelligence-and-cyborgs-9690"
 description: "Study guide to OxfordAQA 9690 Sociology Unit 5, People and technology: machines, media, social media, digital life, AI and cyborgs."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

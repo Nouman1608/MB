@@ -11,6 +11,10 @@ syllabusSeries: "From 2014"
 order: 2
 description: "The discipline options and four assessment criteria of IB Middle Years Programme Individuals and Societies -- knowing and understanding, investigating, communicating, thinking critically -- and the structure of its on-screen eAssessment."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-02
 featured: false
 ---

@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "memory-7182"
 description: "The multi-store model (sensory register, STM, LTM) and the working memory model (central executive, phonological loop, visuo-spatial sketchpad, episodic buffer) -- the two structural models within the Memory topic (4.1.2 in the A-level content, 3.1.2 in the AS content), AQA A-Level Psychology (7182)."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-02
 featured: false
 ---

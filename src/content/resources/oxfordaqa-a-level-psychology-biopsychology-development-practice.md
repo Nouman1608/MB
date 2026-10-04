@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "unit-2-biopsychology-development-9685"
 description: "Original exam-style practice questions with full worked answers on biopsychology, cognitive development, and research methods 1 for OxfordAQA A-Level Psychology (9685) Unit 2."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-05
 featured: false
 ---

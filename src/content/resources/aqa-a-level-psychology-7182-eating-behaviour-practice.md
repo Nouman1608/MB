@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "eating-behaviour-7182"
 description: "Original AQA 7182 eating behaviour questions on food preferences, ghrelin, anorexia and obesity, with mark-by-mark answers and examiner insights."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

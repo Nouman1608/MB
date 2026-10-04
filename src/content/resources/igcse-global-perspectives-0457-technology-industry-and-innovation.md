@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "technology-industry-and-innovation-0457"
 description: "How to use Technology, industry and innovation to practise IGCSE Global Perspectives 0457 skills: issues, perspectives, evidence and actions."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

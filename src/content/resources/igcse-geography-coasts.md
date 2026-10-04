@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "coasts-0460"
 description: "The work of the sea and wind in shaping coastal landforms, coral reef and mangrove swamp formation, coastal hazards including tropical storms, and coastal erosion management, for Cambridge IGCSE Geography 0460, section 2.3."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-02
 featured: false
 ---

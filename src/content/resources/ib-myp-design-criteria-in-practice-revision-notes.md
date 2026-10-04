@@ -13,6 +13,10 @@ syllabusTopics:
     topic: "ib-myp-design-assessment-criteria"
 description: "Condensed, criterion-by-criterion revision notes on what top-band evidence actually looks like for MYP Design's four assessment criteria -- Inquiring and analysing, Developing ideas, Creating the solution, and Evaluating -- with a worked example for each, mapped onto the design cycle."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-06
 featured: false
 ---

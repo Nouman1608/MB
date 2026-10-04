@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "component-2-essay-9239"
 description: "Exam-style questions with full worked answers on choosing an essay question, justifying source selection, evaluating globally contrasting perspectives, and referencing, for Cambridge AS & A Level Global Perspectives & Research (9239) Component 2."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-06
 featured: false
 ---

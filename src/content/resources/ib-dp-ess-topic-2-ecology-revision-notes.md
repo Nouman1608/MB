@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "ib-dp-environmental-systems-and-societies-ecology"
 description: "Condensed revision notes on IB Diploma Programme ESS Topic 2, Ecology -- the largest syllabus topic at both SL and HL -- applying the Topic 1 concepts to ecosystem structure and function."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-03
 featured: false
 ---

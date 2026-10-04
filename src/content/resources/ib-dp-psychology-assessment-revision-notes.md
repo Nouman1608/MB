@@ -10,6 +10,10 @@ syllabusSeries: "First assessment 2019"
 order: 1
 description: "Condensed recall notes on the assessment structure at SL and HL -- papers, weightings, the four options and the experimental study -- for IB Diploma Programme Psychology, first assessment 2019 (final session November 2026)."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-08-26
 featured: false
 ---

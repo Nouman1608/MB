@@ -16,6 +16,10 @@ syllabusTopics:
     topic: "component-4-cambridge-research-report-9239"
 description: "Condensed notes on the 9239 Research Report: rules, key terms, methods at a glance, log and proposal, a report plan and a quick self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "theme-1-population-settlement-0460"
 description: "Condensed recall notes on the demographic transition model, population pyramids, migration and settlement hierarchy for Cambridge IGCSE Geography 0460."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-08-22
 featured: false
 ---

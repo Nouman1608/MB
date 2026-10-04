@@ -36,6 +36,10 @@ syllabusTopics:
     subtopic: "ethical-issues-8192"
 description: "Condensed AQA GCSE Sociology 8192 research methods notes: sampling, methods, data types, ethics, an essay plan and a quick self-test with answers."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

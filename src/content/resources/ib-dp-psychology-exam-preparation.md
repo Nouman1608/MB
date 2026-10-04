@@ -11,6 +11,10 @@ syllabusSeries: "First assessment 2019"
 order: 6
 description: "Paper-by-paper exam preparation for IB DP Psychology -- a focused single-approach Paper 1 essay, preparing both HL options equally for Paper 2, HL Paper 3's methodology focus, a worked evaluation and a checklist."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-07
 featured: false
 ---

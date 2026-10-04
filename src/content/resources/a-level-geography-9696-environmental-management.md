@@ -28,6 +28,10 @@ syllabusTopics:
     subtopic: "the-management-of-a-degraded-environment-9696"
 description: "Study guide to Cambridge 9696 Geography topic 12: energy resources, Germany and Three Gorges case studies, pollution, degradation and the Aral Sea."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

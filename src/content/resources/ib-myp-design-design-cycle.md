@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "ib-myp-design-assessment-criteria"
 description: "Inquiring and analysing, developing ideas, creating the solution, evaluating -- IB Middle Years Programme Design's repeated methodology, and how its four stages map directly onto the four assessment criteria."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-06
 featured: false
 ---

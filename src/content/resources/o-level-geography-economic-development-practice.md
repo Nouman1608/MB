@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "theme-3-economic-development-2217"
 description: "Exam-style questions with full worked answers on development indicators, food production, industry, tourism, energy, water, and environmental risks, for Cambridge O Level Geography (2217) Theme 3."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-06
 featured: false
 ---

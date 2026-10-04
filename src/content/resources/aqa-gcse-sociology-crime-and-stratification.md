@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "paper-2-crime-and-stratification-8192"
 description: "Crime, deviance, social control, and the theories of social stratification -- the full content of Paper 2 for AQA GCSE Sociology (8192), covering sections 3.5 and 3.6 of the specification."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-02
 featured: false
 ---

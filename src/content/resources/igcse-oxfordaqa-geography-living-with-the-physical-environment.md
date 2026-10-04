@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "living-with-physical-environment-9230"
 description: "Natural hazards, ecosystems and physical landscapes -- the opening component of OxfordAQA International GCSE Geography (9230), a three-component, no-coursework syllabus."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-08-21
 featured: false
 ---

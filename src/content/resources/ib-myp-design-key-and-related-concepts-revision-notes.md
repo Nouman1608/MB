@@ -17,6 +17,10 @@ syllabusSeries: "From 2014"
 order: 40
 description: "Condensed IB MYP Design revision notes on key and related concepts, percentile rules, statements of inquiry and question types, with a quick self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

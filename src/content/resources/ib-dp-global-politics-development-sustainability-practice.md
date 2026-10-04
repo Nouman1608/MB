@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "ib-dp-global-politics-development-and-sustainability"
 description: "Ten original IB DP Global Politics practice questions on Development and sustainability, with sources, essay plans and marked answers."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

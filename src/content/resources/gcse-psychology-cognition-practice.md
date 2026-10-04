@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "paper-1-cognition-and-behaviour-8182"
 description: "Original exam-style practice questions with full worked answers on memory, perception, development and research methods."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-08-22
 featured: false
 ---

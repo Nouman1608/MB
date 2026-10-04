@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "ib-myp-design-related-concepts"
 description: "Original IB MYP Design practice questions on life-cycle data, materials matrices, percentiles, inclusive design and data ethics, with worked answers."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

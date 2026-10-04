@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "ib-dp-global-politics-core-topics"
 description: "Condensed revision notes on interdependence for IB DP Global Politics: key terms, UN voting rules, forms of cooperation, a self-test and common slips."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

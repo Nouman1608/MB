@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "theme-1-population-settlement-2217"
 description: "Original exam-style practice questions with full worked answers on population growth, the DTM, migration, settlement and urbanisation."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "paper-1-cognition-and-behaviour-8182"
 description: "Condensed recall notes on memory models, perception, development and research methods for GCSE Psychology."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-08-22
 featured: false
 ---

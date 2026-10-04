@@ -22,6 +22,10 @@ syllabusTopics:
     subtopic: "social-class-educational-attainment-9699"
 description: "Study guide for 9699 sections 6.1-6.2: defining intelligence, IQ tests, material and cultural factors, labelling, subcultures and compensatory education."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

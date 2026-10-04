@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "environment-pollution-and-conservation-0457"
 description: "Use environment, pollution and conservation to practise 0457 skills: issues at three levels, perspectives, evidence, courses of action and project ideas."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

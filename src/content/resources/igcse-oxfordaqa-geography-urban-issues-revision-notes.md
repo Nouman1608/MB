@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "urban-growth-and-challenges-9230"
 description: "Condensed recall notes on global urban growth, the required LIC/NEE city case study, and London and New York as world cities for OxfordAQA International GCSE Geography Section A (9230)."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-03
 featured: false
 ---

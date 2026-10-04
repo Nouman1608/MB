@@ -22,6 +22,10 @@ syllabusTopics:
     subtopic: "fieldwork-skills-9635"
 description: "Study guide to OxfordAQA 9635 Unit 5: the full skills checklist, worked Spearman's rank and chi-square tests, and every stage of the fieldwork enquiry."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

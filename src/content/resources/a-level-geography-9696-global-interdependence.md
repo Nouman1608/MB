@@ -28,6 +28,10 @@ syllabusTopics:
     subtopic: "the-management-of-a-tourist-destination-9696"
 description: "Study guide to 9696 Global interdependence: trade, the WTO, Fairtrade, debt and aid, tourism growth and impacts, Butler's model and a Venice case study."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "ib-dp-global-politics-development-and-sustainability"
 description: "Condensed IB DP Global Politics revision notes on Development and sustainability: key terms, indices, actors, pathways, debates and a self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

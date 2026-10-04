@@ -11,6 +11,10 @@ syllabusSeries: "For first teaching 2018"
 order: 3
 description: "How OxfordAQA International A-Level Geography 9635's five papers (six components, since Unit 1a/1b is an option choice) work, why Unit 5 covers fieldwork without a fieldtrip in the room, and a worked case-study routine."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-09
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "water-0460"
 description: "Original IGCSE Geography 0460 water questions with marked answers: supply methods, water-use data, reservoir records, shortages and extended case studies."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

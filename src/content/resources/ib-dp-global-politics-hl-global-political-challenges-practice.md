@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "ib-dp-global-politics-hl-extension"
 description: "Original IB DP Global Politics HL Paper 3-style questions with stimuli, model answers and essay plans for the global political challenges extension."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

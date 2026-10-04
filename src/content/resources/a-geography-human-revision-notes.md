@@ -19,6 +19,10 @@ syllabusTopics:
     topic: "settlement-dynamics-9696"
 description: "Condensed recall notes on population change, migration and settlement dynamics for Cambridge AS & A Level Geography 9696, Paper 2 Core Human Geography."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-02
 featured: false
 ---

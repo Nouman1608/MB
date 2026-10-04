@@ -28,6 +28,10 @@ syllabusTopics:
     subtopic: "sustainable-management-of-coasts-9696"
 description: "Original practice questions with marked answers for Cambridge 9696 Coastal environments: waves, erosion, spits, coral reefs and coastal management."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

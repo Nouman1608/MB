@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "poverty-and-inequality-0457"
 description: "Use poverty and inequality to practise the 0457 skills: issues at three levels, perspectives, causes, consequences, evidence and courses of action."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "memory-7182"
 description: "Condensed recall notes on the multi-store model and the working memory model -- coding, capacity, duration and each component's role -- for AQA A-Level Psychology (7182) Memory."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-03
 featured: false
 ---

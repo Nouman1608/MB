@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "approaches-in-psychology-7182"
 description: "Original exam-style practice questions with full worked answers on the six approaches to psychology -- behaviourist, social learning theory, cognitive, biological, psychodynamic, humanistic -- for AQA A-Level Psychology (7182) Paper 2."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-05
 featured: false
 ---

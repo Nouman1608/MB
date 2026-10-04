@@ -31,6 +31,10 @@ syllabusTopics:
     subtopic: "obstacles-to-progress-9690"
 description: "Condensed OxfordAQA 9690 Unit 3 notes: key terms, development theories at a glance, globalisation views, migration types and a self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

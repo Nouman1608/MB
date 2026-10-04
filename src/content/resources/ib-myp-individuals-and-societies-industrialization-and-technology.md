@@ -17,6 +17,10 @@ syllabusTopics:
     topic: "ib-myp-individuals-and-societies-related-concepts"
 description: "IB MYP Individuals and Societies study guide to the Industrial Revolution, later industrialisation, its impacts, technology today and investigation plans."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

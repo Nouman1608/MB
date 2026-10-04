@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "ib-dp-environmental-systems-and-societies-5-2"
 description: "IB DP ESS study guide to Topic 5 Land: soil as a system, texture, degradation and conservation, farming systems, food security and sustainability."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-27
 featured: false
 ---

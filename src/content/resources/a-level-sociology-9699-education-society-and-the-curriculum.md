@@ -25,6 +25,10 @@ syllabusTopics:
     subtopic: "influences-on-the-curriculum-9699"
 description: "Study guide to Cambridge 9699 Sociology 5.1-5.3: theories of education, meritocracy and social mobility, and what shapes the school curriculum."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

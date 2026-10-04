@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "paper-1-families-and-education-8192"
 description: "Condensed recall notes on family types and functions, perspectives, educational achievement and research methods for AQA GCSE Sociology 8192."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-08-22
 featured: false
 ---

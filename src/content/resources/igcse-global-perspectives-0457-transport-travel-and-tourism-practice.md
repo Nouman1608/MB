@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "transport-travel-and-tourism-0457"
 description: "Original source-based IGCSE Global Perspectives 0457 practice on Transport, travel and tourism, with planning tasks and marked model answers."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

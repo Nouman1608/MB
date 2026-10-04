@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "unit-2-biopsychology-development-9685"
 description: "Condensed recall notes on the nervous system, synaptic transmission, brain localisation, Piaget vs Vygotsky, and research methods 1 for OxfordAQA A-Level Psychology (9685) Unit 2."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-03
 featured: false
 ---

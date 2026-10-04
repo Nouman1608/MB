@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "social-identity-and-inclusion-0457"
 description: "Original source-based questions on Social identity and inclusion for IGCSE Global Perspectives 0457, with marked answers and report planning tasks."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

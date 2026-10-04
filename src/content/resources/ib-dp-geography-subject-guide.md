@@ -8,6 +8,10 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Geography"]
 description: "An overview of IB Diploma Programme Geography -- interactions between individuals, societies and physical processes across time and space."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-08-22
 featured: false
 ---

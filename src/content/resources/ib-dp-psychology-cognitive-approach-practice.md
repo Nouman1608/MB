@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-cognitive-approach"
 description: "Original practice questions with full worked answers covering mental processes, memory reliability and cross-approach comparison, for the compulsory core Cognitive approach of IB Diploma Programme Psychology."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-06
 featured: false
 ---

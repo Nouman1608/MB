@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "issues-and-debates-7182"
 description: "Study guide to AQA A-level Psychology 7182 issues and debates: gender and culture bias, determinism, nature-nurture, reductionism and social sensitivity."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

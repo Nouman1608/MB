@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "methods-in-context-7192"
 description: "How AQA A-Level Sociology's distinctive 20-mark methods-in-context question works -- applying sociological research methods to the study of education -- for Paper 1 of AQA A-Level Sociology (7192)."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-06
 featured: false
 ---

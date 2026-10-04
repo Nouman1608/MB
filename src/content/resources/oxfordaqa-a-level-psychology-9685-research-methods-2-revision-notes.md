@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "research-methods-2-9685"
 description: "Revision notes for OxfordAQA 9685 Research methods 2: key terms, test-choice grid, critical value rules, Type I and II errors and a quick self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

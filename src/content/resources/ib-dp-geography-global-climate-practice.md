@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "ib-dp-geography-global-climate"
 description: "Original practice questions with full worked answers on vulnerability, resilience, adaptation and mitigation, for the compulsory Global Climate core theme of IB Diploma Programme Geography."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-06
 featured: false
 ---

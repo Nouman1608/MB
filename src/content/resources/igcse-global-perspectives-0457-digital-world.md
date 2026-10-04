@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "digital-world-0457"
 description: "How to use the Digital world topic to practise the IGCSE Global Perspectives 0457 skills: issues, perspectives, evidence and courses of action."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

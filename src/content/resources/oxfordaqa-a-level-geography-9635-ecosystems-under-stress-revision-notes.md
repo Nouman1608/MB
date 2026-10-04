@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "ecosystems-under-stress-9635"
 description: "Condensed 9635 Ecosystems under stress notes: key terms, succession, biomes, Great Barrier Reef and Rondônia at a glance, essay plan and self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

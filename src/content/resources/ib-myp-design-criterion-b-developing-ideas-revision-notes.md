@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "ib-myp-design-assessment-criteria-b-developing-ideas"
 description: "Condensed IB MYP Design Criterion B notes: specification points, idea generation, decision matrices, planning drawings, and a quick self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

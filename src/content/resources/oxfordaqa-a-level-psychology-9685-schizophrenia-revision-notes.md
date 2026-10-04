@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "schizophrenia-9685"
 description: "Condensed OxfordAQA 9685 schizophrenia notes: key terms, studies at a glance, diagnosis issues, dopamine, Frith, therapies and a self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

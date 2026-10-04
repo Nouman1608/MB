@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "paper-3-advanced-physical-geography-options-9696"
 description: "Wave energy, sediment transport, coastal landforms and management strategies -- Coastal Environments, one of the four Advanced Physical Geography options on Paper 3, distinct from the site's existing Paper 1 and Paper 2 core-content study guides."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-09
 featured: false
 ---

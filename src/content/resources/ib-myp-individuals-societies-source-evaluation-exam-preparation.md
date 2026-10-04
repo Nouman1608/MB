@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "ib-myp-individuals-and-societies-eassessment-topics"
 description: "Exam preparation for IB Middle Years Programme Individuals and Societies's Investigating task -- how to evaluate a source's value and limitations, and compare two sources -- with a worked practice example and self-test questions."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-02
 featured: false
 ---

@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "arts-in-society-0457"
 description: "Original source-based practice on Arts in society for IGCSE Global Perspectives 0457, with marked answers plus report and project planning tasks."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

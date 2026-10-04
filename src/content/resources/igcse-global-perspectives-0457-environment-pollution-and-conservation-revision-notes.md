@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "environment-pollution-and-conservation-0457"
 description: "Condensed 0457 revision notes on using environment, pollution and conservation for the skills: key terms, perspectives, evidence checks and a self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

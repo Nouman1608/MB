@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "unit-1-introducing-sociology-9690"
 description: "Original exam-style practice questions with full worked answers on families, marriage, perspectives on the family, and research methods for OxfordAQA International A-Level Sociology (9690) Unit 1."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-08-22
 featured: false
 ---

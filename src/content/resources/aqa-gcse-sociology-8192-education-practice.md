@@ -27,6 +27,10 @@ syllabusTopics:
     subtopic: "processes-within-schools-8192"
 description: "Original AQA GCSE Sociology 8192 Education practice questions with marked answers on functions, the correspondence principle, achievement and labelling."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

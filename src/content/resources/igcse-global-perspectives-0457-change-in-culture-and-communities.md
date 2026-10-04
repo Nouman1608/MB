@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "change-in-culture-and-communities-0457"
 description: "How to use the 0457 topic Change in culture and communities to practise issues, perspectives, causes, source evaluation and courses of action."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

@@ -33,6 +33,10 @@ syllabusTopics:
     subtopic: "power-relationships-8192"
 description: "Condensed AQA GCSE Sociology 8192 stratification notes: key terms, the seven named sociologists, must-know contrasts, an essay plan and a self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

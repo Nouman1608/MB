@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "social-structures-processes-issues-8192"
 description: "Study guide to AQA GCSE Sociology 8192 section 3.2: comparing theories in context, responding to extracts, methods issues and contemporary debates."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

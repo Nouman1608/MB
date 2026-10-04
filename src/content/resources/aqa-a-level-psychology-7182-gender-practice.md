@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "gender-7182"
 description: "Original practice questions with mark-by-mark answers for the AQA A-level Psychology 7182 Gender option, from sex development to gender incongruence."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

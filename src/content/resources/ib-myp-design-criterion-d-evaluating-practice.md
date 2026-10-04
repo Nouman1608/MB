@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "ib-myp-design-assessment-criteria-d-evaluating"
 description: "Original IB MYP Design criterion D practice questions on test plans, judging data against a specification, improvements and impact, with answers."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

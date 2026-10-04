@@ -11,6 +11,10 @@ syllabusSeries: "2025-2027"
 order: 4
 description: "Condensed recall notes on the mark breakdown, word/time limits, and what the Reflective Paper and Collaboration marks actually reward for Cambridge IGCSE Global Perspectives Component 3 (0457)."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-05
 featured: false
 ---

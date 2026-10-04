@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "climate-natural-vegetation-0460"
 description: "The characteristics and causes of equatorial and hot desert climates, tropical rainforest and hot desert ecosystems, and the causes and effects of tropical rainforest deforestation, for Cambridge IGCSE Geography 0460, section 2.5."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-02
 featured: false
 ---

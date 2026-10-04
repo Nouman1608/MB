@@ -31,6 +31,10 @@ syllabusTopics:
     subtopic: "obstacles-to-progress-9690"
 description: "Study guide to OxfordAQA 9690 Sociology Unit 3: the Great Divergence, globalisation, aid, migration, diasporas and obstacles to development."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

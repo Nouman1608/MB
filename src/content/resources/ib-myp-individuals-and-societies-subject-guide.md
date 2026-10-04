@@ -8,6 +8,10 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Individuals and Societies"]
 description: "An overview of IB Middle Years Programme Individuals and Societies for ages 11-16: its aims, key and related concepts, the six global contexts, the four assessment criteria and the on-screen eAssessment."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false

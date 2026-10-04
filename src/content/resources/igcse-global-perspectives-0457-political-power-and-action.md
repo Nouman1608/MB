@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "political-power-and-action-0457"
 description: "How to use the 0457 topic Political power and action to practise perspectives, source evaluation, causes, consequences and courses of action."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

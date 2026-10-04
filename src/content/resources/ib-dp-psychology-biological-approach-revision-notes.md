@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-biological-approach"
 description: "Condensed revision notes on IB Diploma Programme Psychology's compulsory core Biological approach -- brain and behaviour, hormones and pheromones, genetics and behaviour, and (HL only) animal research -- with evaluation prompts and self-test questions."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-02
 featured: false
 ---

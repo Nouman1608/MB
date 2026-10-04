@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "urban-growth-and-challenges-9230"
 description: "Original exam-style practice questions with full worked answers on urban growth, the required LIC/NEE case study, and London and New York as world cities."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-05
 featured: false
 ---

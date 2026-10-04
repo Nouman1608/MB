@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-cognitive-approach"
 description: "Condensed revision notes on IB Diploma Programme Psychology's compulsory core Cognitive approach -- mental processes such as memory, perception and thinking -- with evaluation prompts and self-test questions."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-03
 featured: false
 ---

@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "unit-1-introductory-topics-9685"
 description: "Original exam-style practice questions with full worked answers on memory, social influence and psychopathology -- the three 30-mark sections of Unit 1 Introductory Topics in Psychology."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "ib-myp-design-assessment-criteria"
 description: "Original scenario-based practice questions with full worked answers testing understanding of the design cycle's four stages and how they map onto the four assessment criteria."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-06
 featured: false
 ---

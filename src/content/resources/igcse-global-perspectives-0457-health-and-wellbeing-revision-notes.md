@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "health-and-wellbeing-0457"
 description: "Quick-recall notes for 0457 Health and wellbeing: key terms, real examples, perspectives, evidence checks, a self-test and mark-losing traps."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

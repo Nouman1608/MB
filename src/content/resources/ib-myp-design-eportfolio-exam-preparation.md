@@ -11,6 +11,10 @@ syllabusSeries: "From 2014"
 order: 9
 description: "A stage-by-stage preparation checklist for IB Middle Years Programme Design's ePortfolio eAssessment -- what to document at each design cycle stage so criteria A-D are all genuinely evidenced, not just the finished prototype."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-02
 featured: false
 ---

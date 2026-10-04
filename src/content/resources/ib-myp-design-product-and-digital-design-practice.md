@@ -17,6 +17,10 @@ syllabusTopics:
     topic: "ib-myp-design-global-contexts"
 description: "Original IB MYP Design practice questions on product, digital and combined design, from specifications to prototype tests, with worked answers."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

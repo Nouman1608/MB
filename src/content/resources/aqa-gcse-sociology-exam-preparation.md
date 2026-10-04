@@ -11,6 +11,10 @@ syllabusSeries: "For first teaching 2017"
 order: 2
 description: "Paper-by-paper exam preparation for AQA GCSE Sociology 8192 -- why theory and methods run through both papers, applying concepts to sociological scenarios, a worked evaluate-style answer and a checklist."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-07
 featured: false
 ---

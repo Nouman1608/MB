@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-biological-approach"
 description: "The biological approach's four topics -- brain and behaviour, hormones and pheromones, genetics and behaviour, and (HL only) the role of animal research -- one of three compulsory core approaches of IB Diploma Programme Psychology, first assessment 2019, examined on Paper 1, and how to build evaluative rather than purely descriptive answers."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-06
 featured: false
 ---

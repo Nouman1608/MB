@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "paper-1-research-methods-identity-inequality-2251"
 description: "Research methods, identity (self and society), and social stratification and inequality -- the full content of Paper 1 for Cambridge O Level Sociology 2251, 2025-2027 series. Identical paper structure and content to Cambridge IGCSE Sociology 0495 (the two qualifications differ in grade range and availability)."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-08-21
 featured: false
 ---

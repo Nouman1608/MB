@@ -11,6 +11,10 @@ syllabusSeries: "First assessment 2026"
 order: 2
 description: "The core theme (understanding power and three thematic studies), engagement project and HL-only extension of IB Diploma Programme Global Politics, with recommended teaching hours for SL and HL, for first assessment 2026."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-02
 featured: false
 ---

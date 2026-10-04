@@ -21,6 +21,10 @@ syllabusTopics:
     topic: "organisational-psychology-9990"
 description: "Condensed recall notes on Clinical, Consumer, Health and Organisational Psychology, and how each connects back to Research Methods, for Cambridge A Level Psychology Paper 3 (9990)."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-05
 featured: false
 ---

@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "paper-1-introductory-topics-7182"
 description: "Social influence, memory, attachment, and clinical psychology and mental health -- the full content of Paper 1 Introductory Topics in Psychology for AQA A-Level Psychology (7182)."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-08-21
 featured: false
 ---

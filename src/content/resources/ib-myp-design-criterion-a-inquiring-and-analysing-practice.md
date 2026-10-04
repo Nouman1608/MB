@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "ib-myp-design-assessment-criteria-a-inquiring-and-analysing"
 description: "Original IB MYP Design Criterion A practice questions on justifying need, research plans, product analysis and design briefs, with worked answers."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

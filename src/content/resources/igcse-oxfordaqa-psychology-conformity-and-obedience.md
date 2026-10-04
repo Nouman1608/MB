@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "social-influences-9218"
 description: "Asch's conformity research, Milgram's obedience studies, Agency theory and Adorno's Authoritarian Personality theory -- the conformity and obedience content within Social Influence (3.2.2), OxfordAQA International GCSE Psychology (9218)."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-02
 featured: false
 ---

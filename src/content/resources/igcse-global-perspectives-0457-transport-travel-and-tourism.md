@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "transport-travel-and-tourism-0457"
 description: "Use Transport, travel and tourism to practise IGCSE Global Perspectives 0457 skills: issues, perspectives, evidence, causes and courses of action."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "unit-1-physical-geography-1-9635"
 description: "Condensed recall notes on hazards (tectonic, storm and wildfire), hazard management, the hot desert and coastal options, and the required case studies for OxfordAQA International AS and A-level Geography (9635) Unit 1."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-08-22
 featured: false
 ---

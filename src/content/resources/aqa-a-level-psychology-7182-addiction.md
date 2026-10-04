@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "addiction-7182"
 description: "Study guide to the AQA A-level Psychology 7182 Addiction option: dependence, risk factors, nicotine, gambling, therapies and Prochaska's model."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

@@ -22,6 +22,10 @@ syllabusTopics:
     subtopic: "ib-dp-environmental-systems-and-societies-1-3"
 description: "Study guide for IB DP ESS sections 1.1-1.3: value systems, storages and flows, feedback, tipping points, natural capital and footprints."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-27
 featured: false
 ---

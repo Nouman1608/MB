@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "component-1-written-exam-9239"
 description: "Original exam-style practice questions with full worked answers on Component 1 of Cambridge International AS & A Level Global Perspectives & Research (9239)."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-08-26
 featured: false
 ---

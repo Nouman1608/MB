@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "ib-dp-global-politics-rights-and-justice"
 description: "Condensed revision notes on the compulsory Rights and Justice thematic study of IB Diploma Programme Global Politics, applying the core concepts of power, sovereignty, legitimacy and interdependence."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-03
 featured: false
 ---

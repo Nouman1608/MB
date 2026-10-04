@@ -11,6 +11,10 @@ syllabusSeries: "From 2014"
 order: 2
 description: "The design cycle and four assessment criteria of IB Middle Years Programme Design -- inquiring and analysing, developing ideas, creating the solution, evaluating -- and how the ePortfolio eAssessment is structured."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-02
 featured: false
 ---

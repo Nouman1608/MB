@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "digital-world-0457"
 description: "Condensed IGCSE Global Perspectives 0457 notes on Digital world: key terms, source-judging tools, perspectives, actions and a quick self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

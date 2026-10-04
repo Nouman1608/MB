@@ -10,6 +10,10 @@ syllabusCodes: ["DP Geography"]
 order: 6
 description: "Paper-by-paper exam preparation for IB Diploma Programme Geography -- timing strategy for each paper, confirming your school's optional themes, a worked resource-based question and a before/during-exam checklist."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-07
 featured: false
 ---

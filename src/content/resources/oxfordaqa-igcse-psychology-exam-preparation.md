@@ -11,6 +11,10 @@ syllabusSeries: "First teaching 2023, first examined 2025"
 order: 3
 description: "Why OxfordAQA International GCSE Psychology 9218's components cannot be resat individually, how the two 100-mark papers divide cognition from social psychology, and a worked study-evaluation routine."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-09
 featured: false
 ---

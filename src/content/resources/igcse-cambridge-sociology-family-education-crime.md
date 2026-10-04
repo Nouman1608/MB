@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "paper-2-family-education-crime-0495"
 description: "Family structures and functions, the roles of education, and crime, deviance and social control -- the full content of Paper 2 for Cambridge IGCSE Sociology 0495, 2025-2027 series."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-02
 featured: false
 ---

@@ -14,6 +14,10 @@ syllabusTopics:
     subtopic: "methods-in-context-7192"
 description: "Condensed recall notes on how to answer AQA A Level Sociology's distinctive 'methods in context' question (7192)."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-08-26
 featured: false
 ---

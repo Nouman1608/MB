@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "issues-and-debates-9685"
 description: "Study guide for OxfordAQA 9685 section 3.4.2: free will and determinism, nature-nurture, holism and reductionism, and psychology as a science."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

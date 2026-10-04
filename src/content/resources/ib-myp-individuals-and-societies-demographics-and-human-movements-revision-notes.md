@@ -17,6 +17,10 @@ syllabusTopics:
     topic: "ib-myp-individuals-and-societies-related-concepts"
 description: "Condensed IB MYP Individuals and Societies notes on population rates, pyramids, the DTM, push-pull factors and migration impacts, with a quick self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

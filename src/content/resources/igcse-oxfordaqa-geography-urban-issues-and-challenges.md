@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "urban-growth-and-challenges-9230"
 description: "Global urban growth, megacities, and London and New York as world cities -- Section A: Urban Issues and Challenges, the opening section of Topic 2 in OxfordAQA International GCSE Geography (9230)."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-02
 featured: false
 ---

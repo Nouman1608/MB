@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "paper-2-research-methods-9990"
 description: "Condensed revision notes on the six research methods, methodological concepts, and the Paper 2 planning question for Cambridge AS & A Level Psychology (9990)."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-03
 featured: false
 ---

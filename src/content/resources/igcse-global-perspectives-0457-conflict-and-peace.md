@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "conflict-and-peace-0457"
 description: "How to use Conflict and peace to practise the 0457 skills: issues at three levels, perspectives, causes, evidence, courses of action and project ideas."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

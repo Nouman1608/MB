@@ -9,6 +9,10 @@ syllabusCodes: ["DP Geography"]
 order: 1
 description: "Condensed recall notes on the assessment structure at SL and HL -- papers, weightings, timings and the fieldwork investigation -- for IB Diploma Programme Geography."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-08-26
 featured: false
 ---

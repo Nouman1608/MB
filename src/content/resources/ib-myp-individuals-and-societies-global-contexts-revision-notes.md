@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "ib-myp-individuals-and-societies-global-contexts"
 description: "Condensed MYP Individuals and Societies revision notes on the six global contexts, statements of inquiry and research questions, with a self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-10-04
 featured: false
 ---

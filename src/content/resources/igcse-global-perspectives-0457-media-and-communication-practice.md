@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "media-and-communication-0457"
 description: "Original source-based practice for the 0457 topic Media and communication, with Individual Report and Team Project planning tasks and mark schemes."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

@@ -11,6 +11,10 @@ syllabusSeries: "2025-2027"
 order: 2
 description: "Condensed recall notes on structuring, researching and referencing the 1500-2000 word Individual Report for Cambridge IGCSE Global Perspectives (0457), 2025-2027 series."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-03
 featured: false
 ---

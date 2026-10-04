@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "changing-places-9635"
 description: "Condensed revision notes for OxfordAQA 9635 Changing places: key terms, place thinkers, two illustrative place studies, an essay plan and a self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

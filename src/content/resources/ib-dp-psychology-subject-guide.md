@@ -9,6 +9,10 @@ syllabusCodes: ["DP Psychology"]
 syllabusSeries: "First assessment 2019"
 description: "An overview of IB Diploma Programme Psychology -- the biological, cognitive and sociocultural approaches, the four options and research methodology. Describes the legacy course (first assessment 2019, final session November 2026)."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "gender-7182"
 description: "Study guide to the AQA A-level Psychology 7182 Gender option: biological sex, identities, the BSRI, explanations of gender development and incongruence."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

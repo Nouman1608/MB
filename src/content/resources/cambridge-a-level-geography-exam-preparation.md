@@ -11,6 +11,10 @@ syllabusSeries: "2025-2026"
 order: 3
 description: "How Cambridge A Level Geography 9696's four equally weighted 90-minute papers are sat in stages, why the AS papers keep counting, option-choice strategy on Papers 3 and 4, and a worked case-study routine."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-07
 featured: false
 ---

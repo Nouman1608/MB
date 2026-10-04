@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "socialisation-and-social-control-9292"
 description: "Original exam-style practice questions with full worked answers on types and agencies of socialisation and the functionalist, Marxist, feminist and social action perspectives, covering OxfordAQA International GCSE Sociology 3.2.2.2 (9292)."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-05
 featured: false
 ---

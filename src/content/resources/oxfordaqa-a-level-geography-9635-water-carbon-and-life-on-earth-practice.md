@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "water-carbon-life-earth-9635"
 description: "Original 9635 water and carbon questions with marked answers: water balance, hydrographs, carbon budget maths, field data and two long essays."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

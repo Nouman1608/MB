@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "social-influences-9218"
 description: "Original exam-style practice questions with full worked answers on conformity and obedience -- Asch, Milgram, Agency theory and the Authoritarian Personality -- for OxfordAQA International GCSE Psychology (9218)."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-04
 featured: false
 ---

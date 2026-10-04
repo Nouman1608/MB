@@ -11,6 +11,10 @@ syllabusSeries: "For first teaching 2017"
 order: 2
 description: "Paper-by-paper exam preparation for AQA GCSE Psychology 8182 -- Paper 1/Paper 2 topic split, command-word hierarchy, applying studies to scenarios, a worked evaluate-style answer and a checklist."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-07
 featured: false
 ---

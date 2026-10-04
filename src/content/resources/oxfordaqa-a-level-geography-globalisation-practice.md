@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "global-systems-governance-9635"
 description: "Original exam-style practice questions with full worked answers on the dimensions and drivers of globalisation, and global economic, political, social and environmental interdependence."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-05
 featured: false
 ---

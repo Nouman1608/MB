@@ -22,6 +22,10 @@ syllabusTopics:
     subtopic: "gender-educational-attainment-9699"
 description: "Original practice questions with marked answers for Cambridge 9699 Sociology 6.3-6.4, from racism in schools to laddish subcultures and gender gaps."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

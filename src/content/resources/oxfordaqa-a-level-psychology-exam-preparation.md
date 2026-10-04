@@ -11,6 +11,10 @@ syllabusSeries: "First assessed 2020"
 order: 3
 description: "How OxfordAQA International A-Level Psychology 9685's unlimited-resits policy changes exam strategy across all four papers, plus a worked study-evaluation routine."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-09
 featured: false
 ---

@@ -17,6 +17,10 @@ syllabusTopics:
     topic: "ib-myp-individuals-and-societies-related-concepts"
 description: "IB MYP Individuals and Societies revision notes on superpowers, empires and alliances: key terms, organisation facts, method steps and a quick self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

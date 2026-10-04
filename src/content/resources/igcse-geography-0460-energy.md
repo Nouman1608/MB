@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "energy-0460"
 description: "Cambridge IGCSE Geography 0460 Topic 3.5 Energy: fossil fuels, fuelwood, nuclear and renewables, their pros and cons, and an Iceland case study."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

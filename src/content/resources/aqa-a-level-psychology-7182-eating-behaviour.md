@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "eating-behaviour-7182"
 description: "AQA A-level Psychology 7182 eating behaviour explained: food preferences, hypothalamus, ghrelin and leptin, anorexia and obesity, with evaluation."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

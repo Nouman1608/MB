@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "applied-psychology-work-individual-9685"
 description: "Original practice questions with marked answers for OxfordAQA 9685 section 3.4.3: group processes, workplace communication, motivation and stress."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "health-7192"
 description: "Study guide to AQA A-level Sociology 7192 Health: models of health, unequal health chances, access to care, mental illness and the role of medicine."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

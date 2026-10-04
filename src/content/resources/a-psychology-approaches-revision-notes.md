@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "paper-1-approaches-issues-and-debates-9990"
 description: "Condensed recall notes on the four approaches (biological, cognitive, learning and social), the 12 compulsory core studies and the five AS Level issues and debates for Cambridge AS & A Level Psychology 9990 Paper 1."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-08-22
 featured: false
 ---

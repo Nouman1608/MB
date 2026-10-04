@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "development-trade-and-aid-0457"
 description: "How to use development, trade and aid to practise 0457 skills: perspectives, causes, consequences, evidence, courses of action and coursework ideas."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

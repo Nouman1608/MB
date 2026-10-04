@@ -28,6 +28,10 @@ syllabusTopics:
     subtopic: "sustainable-management-of-coasts-9696"
 description: "Study guide to Cambridge 9696 Coastal environments 8.1-8.4: waves, erosion, landforms, sea level change, coral reefs and a managed coast case study."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "water-food-and-agriculture-0457"
 description: "How to use water, food and agriculture to practise 0457 skills: issues at three levels, perspectives, causes, evidence and courses of action."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

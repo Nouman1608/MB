@@ -31,6 +31,10 @@ syllabusTopics:
     subtopic: "obstacles-to-progress-9690"
 description: "Original OxfordAQA 9690 Sociology Unit 3 practice questions on development, globalisation, aid and migration, with marked model answers."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

@@ -28,6 +28,10 @@ syllabusTopics:
     subtopic: "the-management-of-regional-development-9696"
 description: "Study guide to Cambridge 9696 Geography Topic 14: sectors and inequality, TNCs and the NIDL, NICs, core-periphery and regional policy in China."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

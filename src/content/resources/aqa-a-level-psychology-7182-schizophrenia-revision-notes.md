@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "schizophrenia-7182"
 description: "Condensed AQA A-level Psychology 7182 Schizophrenia notes: key terms, studies at a glance, essay plan and a self-test with answers."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

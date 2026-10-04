@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "ib-dp-global-politics-peace-and-conflict"
 description: "Original practice questions with full worked answers applying the four core concepts to the causes, dynamics and resolution of conflict, for IB Diploma Programme Global Politics's Peace and conflict thematic study."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-06
 featured: false
 ---

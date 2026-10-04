@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "the-sociological-approach-8192"
 description: "Original practice questions with marked answers for AQA GCSE Sociology 8192 section 3.1: key concepts, perspectives, Durkheim, Marx and Weber."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

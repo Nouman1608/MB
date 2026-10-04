@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "environmental-risks-economic-development-0460"
 description: "Original practice questions with marked answers for IGCSE Geography 0460 Environmental risks: pollution, soil data, sustainability and case studies."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

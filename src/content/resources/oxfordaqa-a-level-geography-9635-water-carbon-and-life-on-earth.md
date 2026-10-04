@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "water-carbon-life-earth-9635"
 description: "Study guide to OxfordAQA 9635 section 3.3.1: water and carbon stores, drainage basins, hydrographs, feedbacks, the Amazon and the River Eden."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

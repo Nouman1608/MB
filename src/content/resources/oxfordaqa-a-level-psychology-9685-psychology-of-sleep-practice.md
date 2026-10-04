@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "psychology-of-sleep-9685"
 description: "Original practice questions with model answers for OxfordAQA 9685 Psychology of sleep, from biological rhythms and jet lag to insomnia and narcolepsy."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

@@ -22,6 +22,10 @@ syllabusTopics:
     subtopic: "gender-educational-attainment-9699"
 description: "Study guide to Cambridge 9699 Sociology sections 6.3-6.4: racism in schools, cultural explanations, subcultures and gender and attainment."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

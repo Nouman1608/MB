@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "migration-and-urbanisation-0457"
 description: "Condensed 0457 notes for migration and urbanisation: source terms, perspectives, cause chains, action criteria, a self-test and where marks slip."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

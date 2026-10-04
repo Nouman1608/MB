@@ -11,6 +11,10 @@ syllabusSeries: "Version 1.0 -- for first teaching September 2026, first exams M
 order: 3
 description: "How the two equally weighted papers of the new OxfordAQA International GCSE Sociology 9292 divide their content, why research methods runs through both, and a worked concept-application routine."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-09
 featured: false
 ---

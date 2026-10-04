@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "health-7192"
 description: "Condensed revision notes for AQA A-level Sociology 7192 Health: key terms, studies at a glance, key distinctions, an essay plan and a quick self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

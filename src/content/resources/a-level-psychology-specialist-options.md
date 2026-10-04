@@ -21,6 +21,10 @@ syllabusTopics:
     topic: "organisational-psychology-9990"
 description: "Clinical, Consumer, Health and Organisational Psychology -- the four specialist options for Paper 3 of Cambridge A Level Psychology 9990, of which candidates study 2."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-01
 featured: false
 ---

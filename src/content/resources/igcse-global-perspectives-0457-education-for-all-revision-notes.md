@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "education-for-all-0457"
 description: "Condensed 0457 notes on Education for all: key terms, source-evaluation checks, an assess-actions plan, a self-test and where marks slip."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

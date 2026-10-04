@@ -10,6 +10,10 @@ syllabusCodes: ["DP Global Politics"]
 order: 4
 description: "Paper-by-paper exam preparation for IB Diploma Programme Global Politics -- covering the core topics and all three thematic studies evenly, multi-perspective evaluation strategy, HL Paper 3's global political challenges extension, a worked scenario and a before/during-exam checklist."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-07
 featured: false
 ---

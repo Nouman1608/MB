@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "paper-2-crime-and-stratification-8192"
 description: "Condensed recall notes on the four sociological perspectives applied to crime, deviance and social stratification for AQA GCSE Sociology (8192) Paper 2."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-03
 featured: false
 ---

@@ -8,6 +8,10 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Global Politics"]
 description: "An overview of IB Diploma Programme Global Politics -- power, sovereignty and contemporary political issues, built around concepts, content and context."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-08-22
 featured: false
 ---

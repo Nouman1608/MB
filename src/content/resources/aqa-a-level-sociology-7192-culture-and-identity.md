@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "culture-and-identity-7192"
 description: "Study guide to AQA A-level Sociology 7192 Culture and Identity: types of culture, socialisation, the self, identity sources and globalisation."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

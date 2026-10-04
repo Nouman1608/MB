@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "ib-myp-individuals-and-societies-key-concepts"
 description: "IB MYP Individuals and Societies study guide to the four subject key concepts, with history, geography and economics examples and statements of inquiry."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-10-04
 featured: false
 ---

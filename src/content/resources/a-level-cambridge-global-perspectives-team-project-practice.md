@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "component-3-team-project-9239"
 description: "Original exam-technique practice questions with full worked answers on Component 3's format, requirements and mark allocation for Cambridge International AS & A Level Global Perspectives & Research (9239)."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-06
 featured: false
 ---

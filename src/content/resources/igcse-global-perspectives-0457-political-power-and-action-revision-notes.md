@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "political-power-and-action-0457"
 description: "Condensed 0457 revision on Political power and action: key terms, real examples, source judgement words, an essay plan and a quick self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

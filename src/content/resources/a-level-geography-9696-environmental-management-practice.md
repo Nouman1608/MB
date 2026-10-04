@@ -28,6 +28,10 @@ syllabusTopics:
     subtopic: "the-management-of-a-degraded-environment-9696"
 description: "Original practice questions with marked answers for Cambridge 9696 Geography topic 12: energy data, water pollution, degradation and case-study essays."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

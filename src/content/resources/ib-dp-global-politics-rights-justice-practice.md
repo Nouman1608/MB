@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "ib-dp-global-politics-rights-and-justice"
 description: "Original practice questions with full worked answers applying the four core concepts to how rights are claimed, contested and enforced, for IB Diploma Programme Global Politics's Rights and justice thematic study."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-06
 featured: false
 ---

@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "paper-1-cognition-and-behaviour-9218"
 description: "Original exam-style practice questions with full worked answers on memory, perception, biopsychology, research methods and psychological explanations."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-08-22
 featured: false
 ---

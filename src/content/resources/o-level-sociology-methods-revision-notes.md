@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "paper-1-research-methods-identity-inequality-2251"
 description: "Condensed recall notes on research methods, culture and socialisation, and social class, gender and ethnic inequality for Cambridge O Level Sociology 2251."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-08-22
 featured: false
 ---

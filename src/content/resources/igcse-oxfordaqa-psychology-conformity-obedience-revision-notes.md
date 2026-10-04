@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "social-influences-9218"
 description: "Condensed recall notes on Asch, Milgram, Agency theory and the Authoritarian Personality for OxfordAQA International GCSE Psychology 3.2.2 Social Influence (9218)."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-03
 featured: false
 ---

@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "ib-myp-individuals-and-societies-global-contexts"
 description: "Study guide to the six MYP global contexts in Individuals and Societies, with history, geography and economics unit examples and Criterion B links."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-10-04
 featured: false
 ---

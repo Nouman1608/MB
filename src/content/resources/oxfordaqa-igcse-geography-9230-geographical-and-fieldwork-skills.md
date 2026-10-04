@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "geographical-fieldwork-skills-9230"
 description: "Map, graph, number and statistics skills plus the six fieldwork enquiry strands for OxfordAQA IGCSE Geography 9230, with worked examples and checked sums."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

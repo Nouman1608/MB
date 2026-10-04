@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-cognitive-approach"
 description: "Mental processes such as memory, perception and thinking, and how they shape behaviour -- one of three compulsory core approaches of IB Diploma Programme Psychology, first assessment 2019, examined on Paper 1."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-06
 featured: false
 ---

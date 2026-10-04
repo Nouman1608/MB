@@ -16,6 +16,10 @@ syllabusTopics:
     topic: "ib-myp-individuals-and-societies-eassessment-topics"
 description: "Original practice questions with full worked answers on the three eAssessment subjects, their task types, and source-evaluation and extended-writing technique, for IB MYP Individuals and Societies."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-06
 featured: false
 ---

@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "law-and-criminality-0457"
 description: "How to use Law and criminality to practise IGCSE Global Perspectives 0457 skills: issues, perspectives, crime evidence and courses of action."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

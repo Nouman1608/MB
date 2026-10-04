@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "unit-1-physical-geography-1-9635"
 description: "Original exam-style practice questions with full worked answers on living with hazards (the Park model, hazard perception, wildfires and seismic hazards), systems concepts, and the hot desert and coastal options of OxfordAQA International AS and A-level Geography (9635) Unit 1."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-08-22
 featured: false
 ---

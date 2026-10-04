@@ -36,6 +36,10 @@ syllabusTopics:
     subtopic: "ethical-issues-8192"
 description: "Study guide to AQA GCSE Sociology 8192 section 3.7: research design, sampling, methods, data types, reading tables, and practical and ethical issues."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

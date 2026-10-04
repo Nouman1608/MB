@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "change-in-culture-and-communities-0457"
 description: "Condensed 0457 notes on Change in culture and communities: key terms, perspectives, source checks, an answer plan, a self-test and common mark losses."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

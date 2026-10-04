@@ -9,6 +9,10 @@ syllabusCodes: ["MYP Individuals and Societies"]
 order: 1
 description: "Condensed recall notes on the four assessment criteria and the optional eAssessment structure for IB Middle Years Programme Individuals and Societies."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-08-26
 featured: false
 ---

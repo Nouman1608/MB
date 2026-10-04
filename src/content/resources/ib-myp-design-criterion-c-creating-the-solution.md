@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "ib-myp-design-assessment-criteria-c-creating-the-solution"
 description: "IB MYP Design study guide to Criterion C: how to write a logical plan, show technical skill, follow the plan and justify changes, with worked examples."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

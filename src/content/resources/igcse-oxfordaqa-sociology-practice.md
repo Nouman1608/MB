@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "paper-1-introducing-sociology-9292"
 description: "Original exam-style practice questions with full worked answers on families, education and research methods for OxfordAQA International GCSE Sociology (9292) Paper 1."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-08-22
 featured: false
 ---

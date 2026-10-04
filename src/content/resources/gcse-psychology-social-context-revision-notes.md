@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "paper-2-social-context-and-behaviour-8182"
 description: "Condensed recall notes on social influence, language and communication, brain and neuropsychology, and psychological problems for AQA GCSE Psychology (8182) Paper 2."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-03
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "beliefs-in-society-7192"
 description: "Condensed AQA 7192 Beliefs in society revision notes: key terms, studies at a glance, essay plan and a self-test on religion and secularisation."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

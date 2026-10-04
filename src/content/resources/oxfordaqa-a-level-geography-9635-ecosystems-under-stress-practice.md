@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "ecosystems-under-stress-9635"
 description: "Original 9635 Ecosystems under stress practice questions with marked answers: energy data, dune transect, nutrient stores, reefs and case studies."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

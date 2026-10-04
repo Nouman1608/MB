@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "technology-industry-and-innovation-0457"
 description: "Revision notes for IGCSE Global Perspectives 0457 using Technology, industry and innovation: key terms, source skills, an essay plan and a self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

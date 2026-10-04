@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "ib-dp-global-politics-hl-extension"
 description: "Study guide to the IB DP Global Politics HL extension: the eight topic areas, building case studies, and how Paper 3 is structured and marked."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

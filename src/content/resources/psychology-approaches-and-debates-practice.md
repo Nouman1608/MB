@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "paper-1-approaches-issues-and-debates-9990"
 description: "Original practice questions with worked answers on the four approaches, the 12 core studies and the AS Level issues and debates, set out in Paper 1's two sections, for Cambridge International AS & A Level Psychology 9990."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-08-22
 featured: false
 ---

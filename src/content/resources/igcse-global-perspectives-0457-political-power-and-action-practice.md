@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "political-power-and-action-0457"
 description: "Original source-based 0457 questions on political power and action, with marked answers and Individual Report and Team Project planning tasks."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "paper-2-social-context-and-behaviour-8182"
 description: "Social influence, language and communication, brain and neuropsychology, and psychological problems -- the full content of Paper 2 Social Context and Behaviour for AQA GCSE Psychology (8182)."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-02
 featured: false
 ---

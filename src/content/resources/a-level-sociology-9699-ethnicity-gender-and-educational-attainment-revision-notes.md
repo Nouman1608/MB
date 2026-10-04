@@ -22,6 +22,10 @@ syllabusTopics:
     subtopic: "gender-educational-attainment-9699"
 description: "Revision notes for Cambridge 9699 Sociology 6.3-6.4: key terms, studies at a glance, an essay plan and a self-test on ethnicity, gender and attainment."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "component-2-essay-9239"
 description: "Condensed revision notes on choosing a question, sourcing, evaluating perspectives and referencing for Cambridge AS & A Level Global Perspectives & Research Component 2 Essay (9239)."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-03
 featured: false
 ---

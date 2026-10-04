@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "tourism-0460"
 description: "Cambridge IGCSE Geography 0460 Topic 3.4 Tourism: why tourism grows, its benefits and costs, sustainable management and a Maldives case study."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "work-poverty-and-welfare-7192"
 description: "Condensed AQA 7192 Work, Poverty and Welfare revision notes: key terms, studies at a glance, essay plan, self-test and common mark losses."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

@@ -17,6 +17,10 @@ syllabusTopics:
     topic: "ib-myp-design-global-contexts"
 description: "Condensed IB MYP Design revision notes on product, digital and combined design: evidence by criterion, prototype fidelity, tests and a quick self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

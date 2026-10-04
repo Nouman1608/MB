@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "schizophrenia-7182"
 description: "Original AQA A-level Psychology 7182 Schizophrenia practice: scenarios, fictional data, a chi-squared item and essays, with marked model answers."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

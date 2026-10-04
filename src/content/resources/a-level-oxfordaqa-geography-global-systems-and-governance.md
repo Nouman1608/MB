@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "global-systems-governance-9635"
 description: "The dimensions and drivers of globalisation, and the form and consequences of global economic, political, social and environmental interdependence -- 3.2.1.1 and 3.2.1.2 of OxfordAQA International AS and A-Level Geography (9635)."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-02
 featured: false
 ---

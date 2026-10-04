@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "ib-dp-environmental-systems-and-societies-ecology"
 description: "Ecosystem structure, energy flow, nutrient cycling and ecosystem change -- IB Diploma Programme ESS Topic 2, the largest syllabus topic at both SL and HL, and how it applies Topic 1's systems concepts to real ecosystems."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-06
 featured: false
 ---

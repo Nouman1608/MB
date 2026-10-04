@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "paper-1-cognition-and-behaviour-8182"
 description: "Hypotheses, sampling, experimental design and data handling -- Section 3.1.4 Research Methods within Paper 1 (Cognition and Behaviour), distinct from the site's existing whole-paper guide, which also covers Memory, Perception and Development."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-09
 featured: false
 ---

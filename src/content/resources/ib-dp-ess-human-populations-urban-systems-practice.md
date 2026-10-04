@@ -22,6 +22,10 @@ syllabusTopics:
     subtopic: "ib-dp-environmental-systems-and-societies-8-3"
 description: "12 original IB DP ESS Topic 8 questions on populations, urban systems and air pollution, with fictional data and mark-by-mark answers."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-27
 featured: false
 ---

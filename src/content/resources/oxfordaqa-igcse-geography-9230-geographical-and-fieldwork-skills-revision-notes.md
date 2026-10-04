@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "geographical-fieldwork-skills-9230"
 description: "Condensed 9230 skills notes: grid references, gradient, graph choice, averages, percentiles, sampling and the six enquiry strands, with a quick self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "ib-myp-design-related-concepts"
 description: "Condensed IB MYP Design revision notes on life cycles, material trade-offs, percentiles, inclusive design and data ethics, with a quick self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "eating-behaviour-7182"
 description: "Condensed AQA 7182 eating behaviour notes: key terms, studies at a glance, anorexia and obesity explanations, an essay plan and a quick self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

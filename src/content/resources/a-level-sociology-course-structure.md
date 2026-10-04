@@ -9,6 +9,10 @@ syllabusCodes: ["7192"]
 order: 1
 description: "How AQA A Level Sociology (7192) is structured — its three components, the 'methods in context' question, and how to approach study."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-08-18
 featured: false
 ---

@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "ib-dp-global-politics-hl-extension"
 description: "Condensed IB DP Global Politics HL revision notes: eight topic areas, case-study rules, Paper 3 question types, markbands and a quick self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-28
 featured: false
 ---

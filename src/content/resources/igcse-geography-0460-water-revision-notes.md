@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "water-0460"
 description: "Condensed IGCSE Geography 0460 water notes: supply methods, use by development level, causes of shortage, impacts, management and a self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

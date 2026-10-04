@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "paper-1-cognition-and-behaviour-8182"
 description: "Memory, perception, development, and research methods -- the full content of Paper 1 Cognition and Behaviour for AQA GCSE Psychology (8182)."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-08-21
 featured: false
 ---

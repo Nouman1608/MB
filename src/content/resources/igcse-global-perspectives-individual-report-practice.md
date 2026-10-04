@@ -11,6 +11,10 @@ syllabusSeries: "2025-2027"
 order: 3
 description: "Exam-style questions with full worked answers on framing a research question, structuring the report to the syllabus's recommended sequence and assessment objectives, evaluating sources, and explaining contrasting perspectives, for Cambridge IGCSE Global Perspectives (0457) Component 2."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-06
 featured: false
 ---

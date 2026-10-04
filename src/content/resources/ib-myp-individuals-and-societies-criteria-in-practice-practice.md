@@ -13,6 +13,10 @@ syllabusTopics:
     topic: "ib-myp-individuals-and-societies-assessment-criteria"
 description: "Original MYP Individuals and Societies practice questions, scenario-based with full worked answers, testing whether sample coursework evidence would meet top-band standard for each of the four assessment criteria."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-06
 featured: false
 ---

@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "paper-1-socialisation-identity-methods-9699"
 description: "Condensed recall notes on socialisation, structure versus action, the main perspectives and research methods for Cambridge AS & A Level Sociology 9699."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-08-22
 featured: false
 ---

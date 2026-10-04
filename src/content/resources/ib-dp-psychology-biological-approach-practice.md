@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-biological-approach"
 description: "Original practice questions with full worked answers covering the brain and behaviour, hormones and pheromones, genetics and behaviour, and (HL only) animal research, for the compulsory core Biological approach of IB Diploma Programme Psychology."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-06
 featured: false
 ---

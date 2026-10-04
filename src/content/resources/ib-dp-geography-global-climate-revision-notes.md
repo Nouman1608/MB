@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "ib-dp-geography-global-climate"
 description: "Condensed revision notes on the compulsory Global Climate core theme of IB Diploma Programme Geography -- causes and consequences of global climate change, and responses including vulnerability, resilience, adaptation and mitigation -- with a worked case-study structure."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-03
 featured: false
 ---

@@ -16,6 +16,10 @@ syllabusTopics:
     topic: "component-4-cambridge-research-report-9239"
 description: "Original practice questions with marked answers on the 9239 Research Report: questions, proposal, log, methods, data, referencing and judgement."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

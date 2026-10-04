@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "paper-1-introductory-topics-7182"
 description: "Original exam-style practice questions with full worked answers on social influence, memory, attachment, and clinical psychology and mental health."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-08-22
 featured: false
 ---

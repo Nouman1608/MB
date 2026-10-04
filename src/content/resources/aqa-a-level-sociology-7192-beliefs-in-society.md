@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "beliefs-in-society-7192"
 description: "AQA A-level Sociology 7192 Beliefs in society guide: ideology and science, religion and change, sects and cults, social groups and secularisation."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

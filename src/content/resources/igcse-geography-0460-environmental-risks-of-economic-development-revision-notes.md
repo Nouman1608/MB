@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "environmental-risks-economic-development-0460"
 description: "Condensed revision notes for IGCSE Geography 0460 section 3.7: soil erosion, desertification, global warming, pollution, sustainability, Niger Delta."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

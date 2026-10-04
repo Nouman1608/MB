@@ -28,6 +28,10 @@ syllabusTopics:
     subtopic: "sustainable-management-in-hazardous-environments-9696"
 description: "Study guide to 9696 Hazardous environments: tectonic, mass movement and storm hazards, prediction and risk, with real case studies and model paragraphs."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "development-0460"
 description: "Original IGCSE Geography 0460 Development questions with marked answers: indicator data, employment change, regional gaps, globalisation and TNCs."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

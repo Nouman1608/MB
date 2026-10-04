@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "theme-2-natural-environment-0460"
 description: "Earthquakes and volcanoes, rivers, coasts, weather, and climate and natural vegetation -- Theme 2 of Cambridge IGCSE Geography (0460), 2025-2026 series."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-01
 featured: false
 ---

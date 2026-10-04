@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "paper-1-cognition-and-behaviour-9218"
 description: "Memory, perception, biopsychology, and research methods -- the full content of Paper 1 Cognition and Behaviour for OxfordAQA International GCSE Psychology (9218)."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-08-21
 featured: false
 ---

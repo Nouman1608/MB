@@ -28,6 +28,10 @@ syllabusTopics:
     subtopic: "sustainable-management-of-hot-arid-and-semi-arid-environments-9696"
 description: "Study guide to Cambridge 9696 Geography topic 10: causes of aridity, desert landforms, soils, vegetation, desertification and a Sahel case study."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

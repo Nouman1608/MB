@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "component-1-written-exam-9239"
 description: "Condensed recall notes on the Critical Path approach and reasoning skills for Component 1 of Cambridge International AS & A Level Global Perspectives & Research (9239)."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-08-26
 featured: false
 ---

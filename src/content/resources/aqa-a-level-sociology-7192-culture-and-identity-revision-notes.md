@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "culture-and-identity-7192"
 description: "Condensed revision notes for AQA 7192 Culture and Identity: key terms, studies at a glance, must-know distinctions, an essay plan and a self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

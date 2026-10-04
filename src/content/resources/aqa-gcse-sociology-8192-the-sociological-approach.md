@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "the-sociological-approach-8192"
 description: "Study guide to AQA GCSE Sociology 8192 section 3.1: consensus and conflict, Durkheim, Marx and Weber in context, four perspectives and key concepts."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

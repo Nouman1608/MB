@@ -28,6 +28,10 @@ syllabusTopics:
     subtopic: "the-management-of-regional-development-9696"
 description: "Original Cambridge 9696 Economic transition questions with marked answers: sector data, inequality indices, TNCs, NICs and regional policy essays."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

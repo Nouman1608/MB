@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "paper-2-social-context-and-behaviour-8182"
 description: "Original exam-style practice questions with full worked answers on social influence, language and communication, brain and neuropsychology, and psychological problems."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-04
 featured: false
 ---

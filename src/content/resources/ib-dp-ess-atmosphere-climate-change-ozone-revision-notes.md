@@ -25,6 +25,10 @@ syllabusTopics:
     subtopic: "ib-dp-environmental-systems-and-societies-6-4"
 description: "Condensed IB DP ESS revision notes on the atmosphere, climate change, mitigation, adaptation and ozone depletion, with a quick self-test."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "public-course-documents"
 publishedDate: 2026-09-27
 featured: false
 ---

@@ -28,6 +28,10 @@ syllabusTopics:
     subtopic: "sustainable-management-of-tropical-environments-9696"
 description: "Study guide for Cambridge 9696 Tropical environments: ITCZ and monsoon climates, granite and karst landforms, rainforest and savanna ecosystems."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

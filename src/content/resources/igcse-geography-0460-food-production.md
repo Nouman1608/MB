@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "food-production-0460"
 description: "Study guide to Cambridge IGCSE Geography 0460 section 3.2: farming systems, farm types, inputs, food shortages and two real case studies."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---

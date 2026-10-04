@@ -13,6 +13,10 @@ seoTitle: "IGCSE Global Perspectives 0457 Individual Report 2025–2027"
 seoDescription: "Component 2 of Cambridge IGCSE Global Perspectives 0457, for exams in 2025, 2026 and 2027: how the 1500–2000 word report is researched, structured and marked."
 description: "How the 1500-2000 word Individual Report is researched, structured and marked -- Component 2 of Cambridge IGCSE Global Perspectives (0457), 2025-2027 series."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-01
 featured: false
 ---

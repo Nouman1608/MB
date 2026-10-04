@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "stress-7182"
 description: "Study guide to the AQA A-level Psychology 7182 Stress option: physiology, illness, sources, measurement, personality, coping and social support."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-10-04
+  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
 ---
