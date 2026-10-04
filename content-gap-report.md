@@ -1,6 +1,6 @@
 # Content gap report
 
-**Generated 04 Oct 2026, 14:53 PKT** by `python3 scripts/content-gap-report.py` (content-breadth sprint).
+**Generated 04 Oct 2026, 15:19 PKT** by `python3 scripts/content-gap-report.py` (content-breadth sprint).
 
 Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series only), which is the build-validated transcription of each board's official document. A topic counts as having a study guide (SG), revision notes (RN) or practice set (PQ) only if a resource of that type maps to it. Subtopic columns count exact subtopic mappings only. Nothing here says a page has been teacher-reviewed: all resources remain `review-pending`.
 
@@ -16,9 +16,9 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 | DP Global Politics (global-politics) | First assessment 2026 | 30 | 10 / 10 / 10 | 5 / 5 | no subtopic data | complete |
 | DP Language B (language-b) | First assessment 2020 | 30 | 10 / 10 / 10 | 5 / 5 | no subtopic data | complete |
 | MYP Language Acquisition (myp-language-acquisition) | From 2020 (first eAssessment May 2023/November 2023) | 31 | 10 / 10 / 10 | 5 / 5 | no subtopic data | complete |
-| MYP Sciences (myp-sciences) | From 2014 | 31 | 10 / 10 / 10 | 3 / 5 | no subtopic data | gaps remain |
+| MYP Sciences (myp-sciences) | From 2014 | 37 | 12 / 12 / 12 | 5 / 5 | no subtopic data | complete |
 | MYP Design (myp-design) | From 2014 | 30 | 10 / 10 / 10 | 4 / 4 | 4 / 4 | complete |
-| MYP Individuals and Societies (myp-individuals-and-societies) | From 2014 | 31 | 10 / 10 / 10 | 4 / 6 | no subtopic data | gaps remain |
+| MYP Individuals and Societies (myp-individuals-and-societies) | From 2014 | 37 | 12 / 12 / 12 | 6 / 6 | no subtopic data | complete |
 | 0580 (mathematics) | 2025-2027 | 60 | 34 / 10 / 16 | 9 / 9 | 72 / 72 | complete |
 | 0620 (chemistry) | 2026-2028 | 60 | 20 / 20 / 20 | 12 / 12 | 49 / 49 | complete |
 | 0625 (physics) | For examination in 2026, 2027 and 2028 | 22 | 6 / 6 / 10 | 6 / 6 | 24 / 24 | complete |
@@ -40,8 +40,6 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 
 Topic-level gaps first, then subtopic depth. Past-paper guides (brief step 5) now exist for the Cambridge syllabuses whose examiner reports and grade-threshold tables were available (0620, 0610, 9700, 9701, 9702, 9708, 9609, 9618, 2281, 7115, 1123); 0580, 0625, 9709 and the Edexcel and AQA syllabuses still have none, because their examiner reports were not available.
 
-1. MYP Sciences: 2 of 5 topics still lack at least one of study guide / revision notes / practice set
-2. MYP Individuals and Societies: 2 of 6 topics still lack at least one of study guide / revision notes / practice set
 
 ## Detail by syllabus
 
@@ -131,9 +129,9 @@ Topic-level gaps first, then subtopic depth. Past-paper guides (brief step 5) no
 
 | # | Topic | SG | RN | PQ | Subtopics missing a type (missing types) |
 |---|---|---|---|---|---|
-| 1 | Key concepts (examples: change, relationships, systems) | 0 | 0 | 0 | topic has no subtopic data |
+| 1 | Key concepts (examples: change, relationships, systems) | 1 | 1 | 1 | topic has no subtopic data |
 | 2 | Related concepts (examples: energy, movement, transformation, models) | 8 | 8 | 8 | topic has no subtopic data |
-| 3 | Global contexts | 0 | 0 | 0 | topic has no subtopic data |
+| 3 | Global contexts | 1 | 1 | 1 | topic has no subtopic data |
 | 4 | Assessment criteria (A: Knowing and understanding; B: Inquiring and designing; C: Processing and evaluating; D: Reflecting on the impacts of science) | 1 | 1 | 1 | topic has no subtopic data |
 | 5 | MYP eAssessment structure and on-screen examination topics (examples) | 9 | 9 | 9 | topic has no subtopic data |
 
@@ -151,9 +149,9 @@ Topic-level gaps first, then subtopic depth. Past-paper guides (brief step 5) no
 | # | Topic | SG | RN | PQ | Subtopics missing a type (missing types) |
 |---|---|---|---|---|---|
 | 1 | Constituent disciplines | 1 | 1 | 1 | topic has no subtopic data |
-| 2 | Key concepts (examples) | 0 | 0 | 0 | topic has no subtopic data |
+| 2 | Key concepts (examples) | 1 | 1 | 1 | topic has no subtopic data |
 | 3 | Related concepts (examples) | 8 | 8 | 8 | topic has no subtopic data |
-| 4 | Global contexts | 0 | 0 | 0 | topic has no subtopic data |
+| 4 | Global contexts | 1 | 1 | 1 | topic has no subtopic data |
 | 5 | Assessment criteria | 1 | 1 | 1 | topic has no subtopic data |
 | 6 | MYP eAssessment topics (examples) | 9 | 9 | 9 | topic has no subtopic data |
 
