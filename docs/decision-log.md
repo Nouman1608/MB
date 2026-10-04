@@ -15273,3 +15273,17 @@ Practice questions are labelled by criterion A–D with the "revision aid, not I
 - **Cambridge 9239.** The "Component 4 does not yet have a dedicated Marlbridge resource" note on nine AS pages now links the existing Component 4 study guide, revision notes and practice questions.
 
 **Owner decision outstanding.** Which teachers review the 561 pages with no eligible reviewer: add the subjects to existing reviewers' profiles, or designate new reviewers. Profiles are public, so only real teaching subjects should be added.
+
+## D-388 -- "Checked by Marlbridge Academic Team" on review-pending pages with no eligible teacher (4 Oct 2026)
+
+**Owner's instruction (4 Oct 2026).** For the 561 review-pending pages with no eligible teacher (D-387), show that they were checked by the Marlbridge Academic Team. Asked how, the owner chose a separate "Checked by Marlbridge Academic Team" line stating the page was checked against the official specification on 4 Oct 2026, with no change to the meaning of "Reviewed by" and the pages staying review-pending for a teacher later.
+
+**What was done.**
+- New optional resource field `specCheck` (`by`, `date`, `scope`: `official-specification` or `public-course-documents`). The resource page shows "Checked by Marlbridge Academic Team, against the official specification, 4 October 2026 (what this means)" only when the page is not genuinely reviewed. No structured-data change: the page's JSON-LD names no reviewer or editor for it.
+- Editorial policy: new section `#specification-check` explains the line (content, terminology and tier/stage labels compared with the specification, calculations re-worked, errors corrected; carried out with AI assistance; not a teacher review; the page still awaits a named reviewer). Last-updated date 4 October 2026.
+- Applied to **549** of the 561 pages, all dated 2026-10-04 (the D-386 verification date): 393 Cambridge, AQA and OxfordAQA pages `official-specification`; 156 IB pages `public-course-documents`, because their checks used IB's public subject briefs and course documents, not the licensed guides.
+- **Not applied to 12 IB ESS pages**: their D-386 record says the official source (the ESS subject brief) could not be read (HTTP 403), so the line would be untrue. They stay review-pending with no line.
+- `validate-review-integrity.mjs` rule [11]: `specCheck.by` must be an existing profile, scope recognised, date not before publication or in the future, never on a page marked reviewed. Ledger gained a `specCheck` column and total; `test:reports` checks it matches the frontmatter and appears only on eligible pages.
+- `reviewStatus`, `reviewer` and `reviewedDate` unchanged on every page (780 review-pending, 1,987 reviewed).
+
+**Owner decision outstanding (unchanged from D-387).** Teacher sign-off for these pages needs a reviewer whose profile covers the subject. When a teacher signs a page off, remove its `specCheck`.

@@ -152,6 +152,13 @@ specification, and `npm run test:tools` fails until it is.
 - **Repository-side verification** — a recorded check of a page against its official
   specification (`docs/reports/academic-review/pending-review-*.json`). It is not a teacher
   review and never changes `reviewStatus`.
+- **`specCheck`** (D-388) — a dated "Checked by Marlbridge Academic Team" line, shown only on
+  review-pending pages. Set on 4 Oct 2026 for the 549 pending pages that had no eligible teacher
+  and whose repository-side verification read an official source (`scope:
+  official-specification`, or `public-course-documents` for IB, whose full guides are licensed).
+  It credits no teacher, is explained at `/legal/editorial-policy/#specification-check`, never
+  changes `reviewStatus`, and is checked by rule [11] of `validate-review-integrity.mjs`.
+  Remove it when a teacher signs the page off.
 - A build or validator pass is none of the above.
 
 **Recording a genuine review.** The reviewer reads the page against the official specification
