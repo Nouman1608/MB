@@ -1,0 +1,136 @@
+---
+/**
+ * One advanced-course (AP) library resource. Built only when the library is built
+ * (src/data/ap/config.ts). Every metadata field in the panel comes straight from the
+ * resource's validated frontmatter (scripts/validate-ap-library.mjs).
+ */
+import { getEntry, render } from 'astro:content';
+import PageLayout from '../../../layouts/PageLayout.astro';
+import Section from '../../../components/layout/Section.astro';
+import Container from '../../../components/layout/Container.astro';
+import FAQ from '../../../components/ui/FAQ.astro';
+import ApDraftBanner from '../../../components/ap/ApDraftBanner.astro';
+import ApTrademarkNote from '../../../components/ap/ApTrademarkNote.astro';
+import { apTopic, apUnit } from '../../../data/ap/frameworks';
+import { apSourceById } from '../../../data/ap/sources';
+import { AP_MARK_IN_METADATA } from '../../../data/ap/config';
+import { routes } from '../../../utils/urls/routes';
+import { faqNode } from '../../../utils/schema/faq';
+import { absoluteUrl } from '../../../utils/seo/meta';
+import {
+  getApResources, apUrls, apCourse, apVisibleName, apNoindex, apTypeLabel, apDifficultyLabel, apCalculatorLabel, apStatusLabel,
+  apResourceSlug, apLearningResourceNode, formatDay, type ApEntry,
+} from '../../../utils/ap/library';
+
+export async function getStaticPaths() {
+  const all = await getApResources();
+  return all.map((entry) => ({ params: { course: entry.data.course, resource: apResourceSlug(entry) }, props: { entry, all } }));
+}
+
+interface Props { entry: ApEntry; all: ApEntry[] }
+const { entry, all } = Astro.props;
+const d = entry.data;
+const { Content } = await render(entry);
+const c = apCourse(d.course);
+const path = apUrls.resource(entry);
+const unit = apUnit(c, d.unit);
+const topics = d.topics.map((n) => apTopic(c, n)).filter((t): t is NonNullable<typeof t> => Boolean(t));
+const byId = (id: string) => all.find((e) => e.data.resourceId === id);
+const related = d.related.map(byId).filter((e): e is ApEntry => Boolean(e));
+const prereqResources = d.prerequisiteResources.map(byId).filter((e): e is ApEntry => Boolean(e));
+const next = d.next ? byId(d.next) : undefined;
+const sameTopic = all.filter((e) => e.id !== entry.id && e.data.course === d.course && e.data.topics.some((t) => d.topics.includes(t)) && !d.related.includes(e.data.resourceId));
+const author = await getEntry(d.author);
+const skills = d.skills.map((n) => c.practices.find((p) => p.number === n)).filter((p): p is NonNullable<typeof p> => Boolean(p));
+const sources = d.sources.map(apSourceById).filter((s): s is NonNullable<typeof s> => Boolean(s));
+const visible = apVisibleName(c);
+const topicLabel = topics.map((t) => `${t.number} ${t.title}`).join('; ');
+const reviewed = d.editorialStatus === 'reviewed' || d.editorialStatus === 'published';
+const faq = AP_MARK_IN_METADATA ? faqNode(d.faqs) : (d.faqs.length && !d.faqs.some((f) => /\bAP\b|Advanced Placement|College Board/.test(f.question + f.answer)) ? faqNode(d.faqs) : null);
+const correctionHref = `${routes.reportCorrection}#page=${encodeURIComponent(`https://marlbridge.com${path}`)}`;
+const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800';
+---
+<PageLayout
+  title={d.title}
+  description={d.description}
+  path={path}
+  type="article"
+  publishedDate={d.publishedDate}
+  updatedDate={d.updatedDate}
+  eyebrow={`${visible} · Unit ${d.unit}${topics.length ? ` · Topic ${topics.map((t) => t.number).join(', ')}` : ''}`}
+  heading={d.title}
+  lead={d.description}
+  headingFont="sans"
+  breadcrumbs={[
+    { label: 'Home', href: routes.home },
+    { label: 'Advanced courses', href: apUrls.index },
+    { label: visible, href: apUrls.course(c.slug) },
+    { label: apTypeLabel[d.resourceType], href: path },
+  ]}
+  jsonLd={[apLearningResourceNode(entry, path, absoluteUrl), ...(faq ? [faq] : [])]}
+  noindex={apNoindex()}
+>
+  <Section surface="white">
+    <Container>
+      <ApDraftBanner />
+      <div class="grid items-start gap-[clamp(28px,4vw,64px)] lg:grid-cols-[minmax(0,68ch)_minmax(240px,320px)]">
+        <article class="min-w-0">
+          <aside aria-label="Key points" class="mb-8 rounded-sm border-s-4 border-gold-500 bg-ivory p-[clamp(16px,2vw,24px)]">
+            <p class="m-0 mb-2 text-[13px] font-medium uppercase tracking-[0.12em] text-gold-600">In short</p>
+            <ul class="m-0 list-disc space-y-1.5 ps-5 text-[16px] leading-[1.6]">
+              {d.keyPoints.map((k) => <li>{k}</li>)}
+            </ul>
+          </aside>
+          <div class="ap-body text-[17px] leading-[1.75] [&_h2]:mt-12 [&_h2]:text-[24px] [&_h2]:font-semibold [&_h2]:text-navy-800 [&_h3]:mt-8 [&_h3]:text-[19px] [&_h3]:font-semibold [&_h3]:text-navy-800 [&_p]:mt-4 [&_ul]:mt-4 [&_ul]:list-disc [&_ul]:ps-6 [&_ol]:mt-4 [&_ol]:list-decimal [&_ol]:ps-6 [&_li]:mt-1 [&_a]:underline [&_a]:decoration-gold-500 [&_a]:underline-offset-2 [&_table]:mt-5 [&_table]:w-full [&_table]:border-collapse [&_table]:text-[15px] [&_th]:border-b [&_th]:border-rule [&_th]:py-2 [&_th]:pe-3 [&_th]:text-left [&_td]:border-b [&_td]:border-rule [&_td]:py-2 [&_td]:pe-3 [&_td]:align-top [&_blockquote]:mt-5 [&_blockquote]:border-s-4 [&_blockquote]:border-rule [&_blockquote]:ps-4 [&_blockquote]:text-ink-mute [&_figure]:my-8 [&_figure_svg]:h-auto [&_figure_svg]:w-full [&_figure_svg]:max-w-[640px] [&_figcaption]:mt-2 [&_figcaption]:text-[14px] [&_figcaption]:text-ink-mute [&_details]:mt-4 [&_details]:rounded-sm [&_details]:border [&_details]:border-rule [&_details]:p-4 [&_summary]:cursor-pointer [&_summary]:font-semibold [&_summary]:text-navy-800 [&_code]:font-mono [&_code]:text-[0.92em]">
+            <Content />
+          </div>
+
+          {d.faqs.length > 0 && (
+            <section aria-labelledby="resource-faqs" class="mt-14">
+              <h2 id="resource-faqs" class={h2}>Quick questions</h2>
+              <FAQ items={d.faqs} id="resource-faq-list" />
+            </section>
+          )}
+
+          <nav aria-label="Next steps" class="mt-14 rounded-sm border border-rule p-[clamp(18px,2.2vw,28px)]">
+            <h2 class="m-0 mb-3 text-[20px] font-semibold text-navy-800">Next steps</h2>
+            <ul class="m-0 list-none space-y-2 p-0 text-[15.5px]">
+              {next && <li><span class="text-ink-mute">Next:</span> <a href={apUrls.resource(next)} class="font-medium underline decoration-gold-500 underline-offset-2">{next.data.title}</a></li>}
+              {[...related, ...sameTopic].slice(0, 6).map((r) => <li><span class="text-ink-mute">{apTypeLabel[r.data.resourceType]}:</span> <a href={apUrls.resource(r)} class="underline decoration-gold-500 underline-offset-2">{r.data.title}</a></li>)}
+              <li><span class="text-ink-mute">Course:</span> <a href={`${apUrls.course(c.slug)}#roadmap`} class="underline decoration-gold-500 underline-offset-2">{visible} unit roadmap</a></li>
+            </ul>
+          </nav>
+        </article>
+
+        <aside aria-label="About this resource" class="rounded-sm border border-rule bg-white p-[clamp(18px,2vw,24px)] text-[14.5px] leading-[1.55] lg:sticky lg:top-6">
+          <dl class="m-0 space-y-3">
+            <div><dt class="font-semibold text-navy-800">Course</dt><dd class="m-0">{visible}</dd></div>
+            <div><dt class="font-semibold text-navy-800">Unit</dt><dd class="m-0">Unit {d.unit}: {unit?.title}</dd></div>
+            {topics.length > 0 && <div><dt class="font-semibold text-navy-800">Topic</dt><dd class="m-0">{topicLabel}</dd></div>}
+            {d.calculusScope && <div><dt class="font-semibold text-navy-800">Calculus scope</dt><dd class="m-0">{d.calculusScope === 'bc-only' ? 'BC only' : 'Shared by AB and BC'}</dd></div>}
+            <div><dt class="font-semibold text-navy-800">Resource type</dt><dd class="m-0">{apTypeLabel[d.resourceType]}</dd></div>
+            <div><dt class="font-semibold text-navy-800">Study time</dt><dd class="m-0">About {d.studyMinutes} minutes</dd></div>
+            <div><dt class="font-semibold text-navy-800">Difficulty</dt><dd class="m-0">{apDifficultyLabel[d.difficulty]}</dd></div>
+            {d.calculator && <div><dt class="font-semibold text-navy-800">Calculator</dt><dd class="m-0">{apCalculatorLabel[d.calculator]}{d.calculatorNote ? `. ${d.calculatorNote}` : ''}</dd></div>}
+            {(d.prerequisites.length > 0 || prereqResources.length > 0) && (
+              <div><dt class="font-semibold text-navy-800">Before this</dt><dd class="m-0"><ul class="m-0 list-disc ps-5">
+                {d.prerequisites.map((p) => <li>{p}</li>)}
+                {prereqResources.map((r) => <li><a href={apUrls.resource(r)} class="underline decoration-gold-500 underline-offset-2">{r.data.title}</a></li>)}
+              </ul></dd></div>
+            )}
+            <div><dt class="font-semibold text-navy-800">You will be able to</dt><dd class="m-0"><ul class="m-0 list-disc ps-5">{d.learningObjectives.map((o) => <li>{o}</li>)}</ul></dd></div>
+            {skills.length > 0 && <div><dt class="font-semibold text-navy-800">Skills practised</dt><dd class="m-0">{skills.map((s) => `${s.number}. ${s.name}`).join('; ')}</dd></div>}
+            <div><dt class="font-semibold text-navy-800">Framework</dt><dd class="m-0">{d.framework.schoolYear} school year, {d.framework.examSeries} exam</dd></div>
+            <div><dt class="font-semibold text-navy-800">Written by</dt><dd class="m-0">{author?.data.name ?? 'Marlbridge Academic Team'}</dd></div>
+            <div><dt class="font-semibold text-navy-800">Status</dt><dd class="m-0">{apStatusLabel[d.editorialStatus]}{reviewed && d.reviewer && d.reviewedDate ? ` by ${d.reviewer}, ${formatDay(d.reviewedDate)}` : ''}</dd></div>
+            <div><dt class="font-semibold text-navy-800">Version</dt><dd class="m-0">{d.version}, updated {formatDay(d.updatedDate)}</dd></div>
+            <div><dt class="font-semibold text-navy-800">Reference</dt><dd class="m-0 font-mono text-[12.5px]">{d.resourceId}</dd></div>
+          </dl>
+          <p class="m-0 mt-4 border-t border-rule pt-4 text-[13.5px] text-ink-mute">Checked against: {sources.map((s, i) => <>{i > 0 && '; '}<a href={s.url} rel="noopener" class="underline decoration-rule underline-offset-2">{s.title}</a></>)}.</p>
+          <p class="m-0 mt-3 text-[13.5px]"><a href={correctionHref} class="underline decoration-gold-500 underline-offset-2">Report a mistake on this page</a></p>
+        </aside>
+      </div>
+    </Container>
+  </Section>
+  <ApTrademarkNote />
+</PageLayout>

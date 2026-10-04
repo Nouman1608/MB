@@ -1,0 +1,9 @@
+---
+/** Shown on every library page while the library is not public (src/data/ap/config.ts). */
+import { AP_LIBRARY_PUBLIC } from '../../data/ap/config';
+---
+{!AP_LIBRARY_PUBLIC && (
+  <p class="m-0 mb-6 rounded-sm bg-[#fff4d6] p-3 text-[14px] font-medium text-[#6b4b00]" data-pagefind-ignore="all">
+    PREVIEW — not published. The advanced-course library is only built for owner and teacher review (MB_PREVIEW_DRAFTS=1), is not indexed and is not linked from the live site.
+  </p>
+)}

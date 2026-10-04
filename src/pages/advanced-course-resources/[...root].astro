@@ -1,0 +1,120 @@
+---
+/**
+ * /advanced-course-resources/ -- central index of the advanced-course (College Board AP)
+ * learning library. A rest route so that it is generated only when the library is built
+ * (public, or MB_PREVIEW_DRAFTS=1); see src/data/ap/config.ts.
+ */
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import FAQ from '../../components/ui/FAQ.astro';
+import ApDraftBanner from '../../components/ap/ApDraftBanner.astro';
+import ApTrademarkNote from '../../components/ap/ApTrademarkNote.astro';
+import { AP_COURSES } from '../../data/ap/frameworks';
+import { AP_MARK_IN_METADATA } from '../../data/ap/config';
+import { routes } from '../../utils/urls/routes';
+import { faqNode } from '../../utils/schema/faq';
+import { absoluteUrl } from '../../utils/seo/meta';
+import {
+  apLibraryBuilt, apNoindex, apUrls, apVisibleName, apMetaName, apFamilyLabel, formatExamDate, getApResources, apTypeLabel,
+} from '../../utils/ap/library';
+
+export async function getStaticPaths() {
+  return apLibraryBuilt() ? [{ params: { root: undefined } }] : [];
+}
+
+const path = apUrls.index;
+const resources = await getApResources();
+const families = (['chemistry', 'biology', 'physics', 'maths', 'economics'] as const).map((f) => ({
+  family: f,
+  courses: AP_COURSES.filter((c) => c.family === f),
+}));
+const countFor = (slug: string) => resources.filter((r) => r.data.course === slug || (slug.startsWith('calculus') && r.data.course.startsWith('calculus') && r.data.calculusScope === 'ab-and-bc')).length;
+
+const faqs = [
+  {
+    question: 'Which school year and exam do these resources follow?',
+    answer: 'Every course page is mapped to the College Board course frameworks for the 2026–27 school year and the May 2027 exams. Unit numbers and titles were checked against each official Course and Exam Description on 5 October 2026.',
+  },
+  {
+    question: 'Are these official past papers or College Board questions?',
+    answer: 'No. Every explanation and question is written by Marlbridge and labelled as Marlbridge practice. Official past free-response questions are free on College Board’s own website; Marlbridge does not copy or rehost them.',
+  },
+  {
+    question: 'Can these resources predict my exam score?',
+    answer: 'No. The diagnostics and practice sets show which topics need more work. They are not calibrated against real exam results, so Marlbridge does not convert them into predicted scores.',
+  },
+  {
+    question: 'Has an AP teacher checked this material?',
+    answer: 'Each page shows its own editorial status. Pages marked “Drafted, awaiting AP-teacher review” were written and checked by the Marlbridge Academic Team but have not yet been reviewed by an AP teacher. A teacher’s name appears only once that review has actually happened.',
+  },
+  {
+    question: 'Do these pages meet the lab requirement of an AP science course?',
+    answer: 'No. The AP science courses require hands-on laboratory work in school. Reading these pages, or doing simulations, does not replace it.',
+  },
+];
+// FAQ answers name College Board marks, so FAQPage JSON-LD is emitted only when metadata may carry them.
+const faq = AP_MARK_IN_METADATA ? faqNode(faqs) : null;
+const itemList = {
+  '@type': 'ItemList',
+  name: 'Advanced-course learning library',
+  itemListElement: AP_COURSES.map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: apMetaName(c), url: absoluteUrl(apUrls.course(c.slug)) })),
+};
+---
+<PageLayout
+  title="Advanced Course Study Library: Science, Maths and Economics"
+  description="Free, original study guides, revision notes and practice for 11 US advanced courses in chemistry, biology, physics, calculus, statistics and economics, mapped to the 2026–27 frameworks."
+  path={path}
+  eyebrow="Free study library"
+  heading="Marlbridge guide to AP® courses"
+  lead="Original study guides, revision notes, practice questions and checklists for eleven AP® courses, written to the 2026–27 College Board course frameworks for the May 2027 exams."
+  breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Advanced courses', href: path }]}
+  jsonLd={[itemList, ...(faq ? [faq] : [])]}
+  noindex={apNoindex()}
+>
+  <Section surface="white">
+    <Container>
+      <ApDraftBanner />
+      <div class="max-w-[72ch] text-[17px] leading-[1.7]">
+        <p class="m-0"><strong class="text-navy-800">How to use this library.</strong> Pick your exact course below. Each course page shows the official unit roadmap with exam weightings, the May 2027 exam format, and every Marlbridge resource available for each topic. Start a topic with the study guide, check yourself with the practice questions, then use the revision notes and “I can…” checklist before tests.</p>
+        <p class="m-0 mt-4">Physics 1 and Physics 2 are algebra-based; Physics C: Mechanics and Physics C: Electricity and Magnetism use calculus. They are separate courses and exams, so pick the one you are entered for. Calculus BC includes all of Calculus AB plus extra topics, which are labelled “BC only”.</p>
+      </div>
+
+      {families.map(({ family, courses }) => (
+        <section aria-labelledby={`fam-${family}`} class="mt-[clamp(40px,5vw,64px)]">
+          <h2 id={`fam-${family}`} class="m-0 mb-5 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{apFamilyLabel[family]}</h2>
+          <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
+            {courses.map((c) => (
+              <li class="m-0">
+                <a href={apUrls.course(c.slug)} class="flex h-full flex-col gap-2 rounded-sm border border-rule bg-white p-[clamp(22px,2.2vw,30px)] transition-colors duration-150 hover:border-gold-500 focus-visible:border-gold-500">
+                  <span class="text-[18px] font-semibold tracking-[-0.01em] text-navy-800">{apVisibleName(c)}</span>
+                  <span class="text-[14.5px] leading-[1.55] text-ink-mute">{c.units.length} units{c.unitNumbering ? ` (${c.unitNumbering.split(' (')[0]})` : ''} · exam {formatExamDate(c.examDate)}</span>
+                  <span class="mt-auto pt-2 font-mono text-[12px] text-ink-mute">{countFor(c.slug)} Marlbridge resources so far</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))}
+    </Container>
+  </Section>
+
+  <Section surface="ivory" border>
+    <Container>
+      <h2 class="m-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">What each resource type is for</h2>
+      <dl class="m-0 grid max-w-[900px] gap-x-8 gap-y-5 sm:grid-cols-2">
+        {[
+          ['study-guide', 'Builds the idea from first principles, with diagrams, two worked examples and the misconceptions that cost marks.'],
+          ['revision-notes', 'A one-page recap of the key relationships, assumptions and mistakes to avoid. Links back to the full guide.'],
+          ['practice-questions', 'Original multiple-choice and free-response questions at different difficulties, each with a full worked solution and suggested Marlbridge mark points.'],
+          ['topic-checklist', '“I can…” statements you can test yourself against, each linked to where it is taught.'],
+        ].map(([t, d]) => (
+          <div><dt class="m-0 text-[16.5px] font-semibold text-navy-800">{apTypeLabel[t]}</dt><dd class="m-0 mt-1 text-[15px] leading-[1.6] text-ink-mute">{d}</dd></div>
+        ))}
+      </dl>
+      <h2 class="m-0 mb-6 mt-[clamp(40px,5vw,64px)] text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Questions</h2>
+      <div class="max-w-[80ch]"><FAQ items={faqs} /></div>
+    </Container>
+  </Section>
+  <ApTrademarkNote />
+</PageLayout>

@@ -1,0 +1,168 @@
+---
+/**
+ * Course hub for one advanced (College Board AP) course: verified framework summary,
+ * May 2027 exam format, the full unit-by-unit roadmap with the status of every topic,
+ * and links to every Marlbridge resource for the course. Built only when the library is
+ * built (src/data/ap/config.ts).
+ */
+import PageLayout from '../../../layouts/PageLayout.astro';
+import Section from '../../../components/layout/Section.astro';
+import Container from '../../../components/layout/Container.astro';
+import FAQ from '../../../components/ui/FAQ.astro';
+import ApDraftBanner from '../../../components/ap/ApDraftBanner.astro';
+import ApTrademarkNote from '../../../components/ap/ApTrademarkNote.astro';
+import { AP_COURSES, type ApCourse } from '../../../data/ap/frameworks';
+import { AP_SOURCES } from '../../../data/ap/sources';
+import { AP_MARK_IN_METADATA } from '../../../data/ap/config';
+import { routes } from '../../../utils/urls/routes';
+import { faqNode } from '../../../utils/schema/faq';
+import { absoluteUrl } from '../../../utils/seo/meta';
+import {
+  apLibraryBuilt, apNoindex, apUrls, apVisibleName, apMetaName, apResourcesForCourse, apTypeLabel, formatExamDate, type ApEntry,
+} from '../../../utils/ap/library';
+
+export async function getStaticPaths() {
+  if (!apLibraryBuilt()) return [];
+  return AP_COURSES.map((c) => ({ params: { course: c.slug }, props: { course: c } }));
+}
+
+interface Props { course: ApCourse }
+const { course: c } = Astro.props;
+const path = apUrls.course(c.slug);
+// Calculus AB and BC share Units 1-8: shared (ab-and-bc) material is written once and listed on both hubs.
+const otherCalculus = c.slug === 'calculus-ab' ? 'calculus-bc' : c.slug === 'calculus-bc' ? 'calculus-ab' : undefined;
+const resources = [
+  ...(await apResourcesForCourse(c.slug)),
+  ...(otherCalculus ? (await apResourcesForCourse(otherCalculus)).filter((r) => r.data.calculusScope === 'ab-and-bc') : []),
+];
+const forTopic = (n: string): ApEntry[] => resources.filter((r) => r.data.topics.includes(n));
+const unitLevel = (u: number): ApEntry[] => resources.filter((r) => r.data.unit === u && r.data.topics.length === 0);
+const visible = apVisibleName(c);
+const topicCount = c.units.reduce((n, u) => n + u.topics.length, 0);
+const coveredTopics = new Set(resources.flatMap((r) => r.data.topics)).size;
+const bcOnlyCount = c.units.flatMap((u) => u.topics).filter((t) => t.bcOnly).length;
+const sources = AP_SOURCES.filter((s) => s.url === c.cedUrl || s.url === c.coursePageUrl || s.url === c.examPageUrl
+  || (s.id.startsWith('clar-') && (s.id === `clar-${c.slug}` || (c.slug.startsWith('calculus') && s.id === 'clar-calculus-ab-bc')))
+  || (c.slug === 'statistics' && s.id === 'cb-statistics-revisions'));
+const mcq = c.sections[0];
+const frq = c.sections[1];
+
+const faqs = [
+  { question: `What is on the ${visible} exam in May 2027?`, answer: `${mcq.name.replace('Section I: ', '')}: ${mcq.questions} questions in ${mcq.time} (${mcq.weight} of the score). ${frq.name.replace('Section II: ', '')}: ${frq.questions} questions in ${frq.time} (${frq.weight}). The exam is on ${formatExamDate(c.examDate)}.` },
+  { question: `How many units does ${visible} have?`, answer: `${c.units.length} units${c.unitNumbering ? `, numbered ${c.unitNumbering}` : ''}, split into ${topicCount} topics in the 2026–27 framework.` },
+  ...(c.may2027Change ? [{ question: `What changed for 2026–27 and May 2027?`, answer: c.may2027Change }] : [{ question: 'Did anything change for 2026–27?', answer: c.clarifications }]),
+  { question: 'What should I know before starting?', answer: c.prerequisiteNote },
+  { question: 'Which calculator can I use?', answer: c.calculator },
+];
+const faq = AP_MARK_IN_METADATA ? faqNode(faqs) : null;
+const itemList = resources.length ? {
+  '@type': 'ItemList',
+  name: `Marlbridge resources: ${apMetaName(c)}`,
+  itemListElement: resources.map((r, i) => ({ '@type': 'ListItem', position: i + 1, name: r.data.title, url: absoluteUrl(apUrls.resource(r)) })),
+} : null;
+const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800';
+---
+<PageLayout
+  title={`${apMetaName(c)}: Unit Roadmap and Study Guides`}
+  description={`Free unit-by-unit roadmap for ${apMetaName(c)} (2026–27 framework, May 2027 exam): exam format, unit weightings and original study guides, notes and practice.`}
+  path={path}
+  eyebrow="Advanced course · 2026–27 framework"
+  heading={`Marlbridge guide to ${visible}`}
+  lead={`The official unit roadmap for ${visible} with exam weightings, the May 2027 exam format, and every Marlbridge study guide, practice set and checklist written for it so far.`}
+  breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Advanced courses', href: apUrls.index }, { label: visible, href: path }]}
+  jsonLd={[...(itemList ? [itemList] : []), ...(faq ? [faq] : [])]}
+  noindex={apNoindex()}
+>
+  <Section surface="white">
+    <Container>
+      <ApDraftBanner />
+      <section aria-labelledby="at-a-glance" class="grid gap-8 lg:grid-cols-[1.1fr_1fr]">
+        <div>
+          <h2 id="at-a-glance" class={h2}>May 2027 exam at a glance</h2>
+          <p class="m-0 text-[16px] leading-[1.65] text-ink-mute"><strong class="text-navy-800">Exam date:</strong> {formatExamDate(c.examDate)}. {c.examMode}</p>
+          <div class="mt-5 overflow-x-auto">
+            <table class="w-full border-collapse text-left text-[15px]">
+              <caption class="sr-only">{visible} exam sections, May 2027</caption>
+              <thead><tr class="border-b border-rule"><th scope="col" class="py-2 pe-4 font-semibold text-navy-800">Section</th><th scope="col" class="py-2 pe-4 font-semibold text-navy-800">Questions</th><th scope="col" class="py-2 pe-4 font-semibold text-navy-800">Time</th><th scope="col" class="py-2 font-semibold text-navy-800">Weight</th></tr></thead>
+              <tbody>
+                {c.sections.map((s) => (
+                  <tr class="border-b border-rule align-top">
+                    <th scope="row" class="py-3 pe-4 font-medium text-navy-800">{s.name}
+                      {s.detail && <ul class="m-0 mt-2 list-disc ps-5 text-[13.5px] font-normal leading-[1.5] text-ink-mute">{s.detail.map((d) => <li>{d}</li>)}</ul>}
+                    </th>
+                    <td class="py-3 pe-4">{s.questions}</td><td class="py-3 pe-4">{s.time}</td><td class="py-3">{s.weight}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+          <p class="m-0 mt-4 text-[15px] leading-[1.6] text-ink-mute"><strong class="text-navy-800">Calculator:</strong> {c.calculator}</p>
+        </div>
+        <div class="rounded-sm border border-rule bg-ivory p-[clamp(20px,2.4vw,32px)] text-[15.5px] leading-[1.65]">
+          {c.may2027Change && <p class="m-0 mb-4"><strong class="text-navy-800">What changed:</strong> {c.may2027Change}</p>}
+          <p class="m-0 mb-4"><strong class="text-navy-800">Framework clarifications:</strong> {c.clarifications}</p>
+          <p class="m-0 mb-4"><strong class="text-navy-800">Before you start:</strong> {c.prerequisiteNote}</p>
+          {c.labRequirement && <p class="m-0"><strong class="text-navy-800">Laboratory work:</strong> {c.labRequirement} These pages support that work; they do not replace it.</p>}
+        </div>
+      </section>
+
+      <section aria-labelledby="roadmap" class="mt-[clamp(48px,6vw,80px)]">
+        <h2 id="roadmap" class={h2}>Unit roadmap</h2>
+        <p class="m-0 mb-6 max-w-[72ch] text-[16px] leading-[1.65] text-ink-mute">
+          Units and topics exactly as numbered in the 2026–27 Course and Exam Description{c.unitNumbering ? ` (${c.unitNumbering})` : ''}. Weightings are the official multiple-choice ranges. Marlbridge has written resources for {coveredTopics} of {topicCount} topics so far; the rest are planned and marked as such.
+          {bcOnlyCount > 0 && ` ${bcOnlyCount} topics are BC only.`}
+        </p>
+        <ol class="m-0 list-none space-y-4 p-0">
+          {c.units.map((u) => (
+            <li class="m-0 rounded-sm border border-rule bg-white">
+              <details open={u.topics.some((t) => forTopic(t.number).length > 0)} class="group">
+                <summary class="flex cursor-pointer list-none flex-wrap items-baseline justify-between gap-x-4 gap-y-1 p-[clamp(16px,2vw,24px)] marker:hidden">
+                  <span class="text-[18px] font-semibold text-navy-800">Unit {u.number}: {u.title}{u.bcOnly && <span class="ms-2 rounded-sm bg-navy-800 px-2 py-0.5 align-middle text-[11px] font-medium uppercase tracking-[0.08em] text-ivory">BC only</span>}</span>
+                  <span class="font-mono text-[12.5px] text-ink-mute">{u.weighting} of multiple choice · {u.topics.length} topics</span>
+                </summary>
+                <ul class="m-0 list-none border-t border-rule p-0">
+                  {u.topics.map((t) => {
+                    const rs = forTopic(t.number);
+                    return (
+                      <li class="m-0 flex flex-wrap items-baseline justify-between gap-x-4 gap-y-2 border-b border-rule px-[clamp(16px,2vw,24px)] py-3 last:border-b-0">
+                        <span class="text-[15.5px]"><span class="font-mono text-[13px] text-ink-mute">{t.number}</span> {t.title}{t.bcOnly && c.slug === 'calculus-bc' && <span class="ms-2 text-[12px] font-medium uppercase tracking-[0.06em] text-gold-600">BC only</span>}</span>
+                        {rs.length > 0
+                          ? <span class="flex flex-wrap gap-2">{rs.map((r) => <a href={apUrls.resource(r)} class="rounded-sm border border-gold-500 px-2 py-0.5 text-[13px] text-navy-800 hover:bg-ivory">{apTypeLabel[r.data.resourceType]}</a>)}</span>
+                          : <span class="text-[13px] text-ink-mute">Planned</span>}
+                      </li>
+                    );
+                  })}
+                  {unitLevel(u.number).map((r) => (
+                    <li class="m-0 px-[clamp(16px,2vw,24px)] py-3"><a href={apUrls.resource(r)} class="text-[15px] underline decoration-gold-500 underline-offset-2">{r.data.title}</a></li>
+                  ))}
+                </ul>
+              </details>
+            </li>
+          ))}
+        </ol>
+      </section>
+
+      <section aria-labelledby="practices" class="mt-[clamp(48px,6vw,80px)]">
+        <h2 id="practices" class={h2}>{c.family === 'economics' ? 'Course skills' : c.family === 'maths' && c.slug !== 'statistics' ? 'Mathematical practices' : c.slug === 'statistics' ? 'Statistical practices' : 'Science practices'}</h2>
+        <dl class="m-0 grid max-w-[960px] gap-x-8 gap-y-4 sm:grid-cols-2">
+          {c.practices.map((p) => (
+            <div class="border-b border-rule pb-4"><dt class="m-0 text-[16px] font-semibold text-navy-800">{p.number}. {p.name}</dt><dd class="m-0 mt-1 text-[14.5px] leading-[1.6] text-ink-mute">{p.description}</dd></div>
+          ))}
+        </dl>
+      </section>
+    </Container>
+  </Section>
+
+  <Section surface="ivory" border>
+    <Container>
+      <h2 class={h2}>Questions</h2>
+      <div class="max-w-[80ch]"><FAQ items={faqs} /></div>
+      <h2 class={`${h2} mt-[clamp(40px,5vw,64px)]`}>Official sources</h2>
+      <p class="m-0 mb-3 max-w-[72ch] text-[15px] leading-[1.6] text-ink-mute">Everything on this page about the course structure and exam was checked against these College Board documents on {c.checkedOn.split('-').reverse().join('/')}. Always check them for later changes.</p>
+      <ul class="m-0 list-disc space-y-1 ps-5 text-[15px]">
+        {sources.map((s) => <li><a href={s.url} rel="noopener" class="underline decoration-gold-500 underline-offset-2">{s.title}</a></li>)}
+      </ul>
+    </Container>
+  </Section>
+  <ApTrademarkNote />
+</PageLayout>

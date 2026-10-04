@@ -16,6 +16,7 @@ import { faqNode } from '../../utils/schema/faq';
 import { offeringsForSubject, academicHubPath, offersClasses } from '../../utils/academic';
 import { syllabusFor } from '../../data/academic/syllabuses';
 import { routes } from '../../utils/urls/routes';
+import ApCourseLinks from '../../components/ap/ApCourseLinks.astro';
 
 export async function getStaticPaths() {
   const subjects = await getSubjects();
@@ -96,6 +97,9 @@ const teachingSentence =
           </ul>
         </section>
       )}
+
+      {/* Advanced-course (AP) library links -- render nothing until the library is built (src/data/ap/config.ts). */}
+      <ApCourseLinks subjectId={subject.id} />
 
       {programs.length > 0 && (
         <RelatedGrid id="subject-programs" title="Programs offering this subject" columns={4}>

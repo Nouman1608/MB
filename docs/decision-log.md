@@ -15287,3 +15287,13 @@ Practice questions are labelled by criterion A–D with the "revision aid, not I
 - `reviewStatus`, `reviewer` and `reviewedDate` unchanged on every page (780 review-pending, 1,987 reviewed).
 
 **Owner decision outstanding (unchanged from D-387).** Teacher sign-off for these pages needs a reviewer whose profile covers the subject. When a teacher signs a page off, remove its `specCheck`.
+
+## D-389 -- Advanced-course (College Board AP) learning library: Phase 1 blueprint and starter batch, unpublished (5 Oct 2026)
+
+**Instruction (owner, 5 Oct 2026).** Build an original AP learning library for 11 courses (Chemistry, Biology, Calculus AB and BC, Statistics, Physics 1, Physics 2, Physics C: Mechanics, Physics C: E&M, Microeconomics, Macroeconomics), verified against the current College Board documents for 2026-27 / May 2027; save all official documents to the OneDrive "Papers 2025" folder; attend to SEO, AEO, GEO, AIO and SXO.
+
+**What was done.** Official documents (477 PDFs) saved to Papers 2025 (Syllabus/Guides/Thresholds `\AP`). Verified framework map `src/data/ap/frameworks.ts` (units/topics from CED bookmarks, weightings and exam formats from AP Central, May 2027 changes from the 2026-27 clarifications) and source register `src/data/ap/sources.ts`. New `apResources` collection, `/advanced-course-resources/` index, 11 course hubs with full roadmaps, resource pages with `LearningResource` JSON-LD, subject-hub links, `scripts/validate-ap-library.mjs` (in `validate:academic`) and `scripts/ap-library-inventory.mjs`. 44 resources (one starter topic pack per course), all `drafted`, awaiting AP-teacher review. Docs in `docs/ap-library/`.
+
+**Why unpublished.** College Board's trademark guidelines require prior written consent for third-party use of its marks and forbid them in web addresses and meta tags; a disclaimer does not replace permission. `AP_LIBRARY_PUBLIC = false`: production builds contain no library page or link; `MB_PREVIEW_DRAFTS=1` builds a noindexed preview. Routes and metadata are neutral; visible headings use "Marlbridge guide to AP® …" with the attribution footnote.
+
+**Owner decisions outstanding.** Trademark permission or legal advice; names of the AP teachers who will review; then `AP_LIBRARY_PUBLIC = true`.

@@ -1,0 +1,29 @@
+---
+/**
+ * Advanced-course (AP) links for a subject hub. Renders nothing unless the library is
+ * built in this build (public, or a preview build) -- see src/data/ap/config.ts.
+ */
+import { AP_TRADEMARK_ATTRIBUTION } from '../../data/ap/config';
+import { apCoursesForSubject, apLibraryBuilt, apUrls, apVisibleName } from '../../utils/ap/library';
+interface Props { subjectId: string }
+const { subjectId } = Astro.props;
+const courses = apLibraryBuilt() ? apCoursesForSubject(subjectId) : [];
+---
+{courses.length > 0 && (
+  <section aria-labelledby="subject-ap-courses" class="mt-[clamp(48px,6vw,80px)]">
+    <h2 id="subject-ap-courses" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Advanced courses (US curriculum)</h2>
+    <p class="m-0 mb-6 max-w-[68ch] text-[16.5px] leading-[1.65] text-ink-mute">Free Marlbridge study material written to the 2026–27 College Board course frameworks, for the May 2027 exams.</p>
+    <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
+      {courses.map((c) => (
+        <li class="m-0">
+          <a href={apUrls.course(c.slug)} class="flex h-full flex-col gap-2 rounded-sm border border-rule bg-white p-[clamp(22px,2.2vw,30px)] transition-colors duration-150 hover:border-gold-500">
+            <span class="font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600">College Board framework</span>
+            <span class="text-[18px] font-semibold tracking-[-0.01em] text-navy-800">{apVisibleName(c)}</span>
+            <span class="mt-auto pt-2 font-mono text-[12px] text-ink-mute">{c.units.length} units · exam {c.examSeries}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+    <p class="m-0 mt-4 max-w-[90ch] text-[13px] leading-[1.6] text-ink-mute">{AP_TRADEMARK_ATTRIBUTION}</p>
+  </section>
+)}

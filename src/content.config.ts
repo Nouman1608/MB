@@ -409,4 +409,72 @@ const workshops = defineCollection({
   }),
 });
 
-export const collections = { programs, subjects, resources, articles, authors, pages, videos, workshops };
+/**
+ * Advanced-course (College Board AP) learning library -- one file per resource, in a
+ * folder per course: src/content/ap-resources/<course-slug>/<resource>.md. Kept apart
+ * from `resources` because AP is not an exam board in the academic matrix, and because
+ * the library is unpublished until the trademark question is settled (src/data/ap/config.ts).
+ * Every record is checked by scripts/validate-ap-library.mjs against
+ * src/data/ap/frameworks.ts (unit/topic numbers) and src/data/ap/sources.ts.
+ * Metadata schema: docs/ap-library/metadata-schema.md.
+ */
+const apResourceType = z.enum([
+  'study-guide', 'revision-notes', 'practice-questions', 'worked-solutions',
+  'topic-checklist', 'unit-diagnostic', 'unit-review', 'exam-skills',
+]);
+const apResources = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/ap-resources' }),
+  schema: z.object({
+    /** Permanent unique identifier, e.g. "mb-ap-chem-1.1-study-guide". Never reused. */
+    resourceId: z.string().regex(/^mb-ap-[a-z0-9.-]+$/),
+    title: z.string().max(110),
+    /** One or two sentences; also the visible summary. */
+    description: z.string().min(70).max(220),
+    /** Course slug from src/data/ap/frameworks.ts. */
+    course: z.enum([
+      'chemistry', 'biology', 'calculus-ab', 'calculus-bc', 'statistics', 'physics-1', 'physics-2',
+      'physics-c-mechanics', 'physics-c-electricity-and-magnetism', 'microeconomics', 'macroeconomics',
+    ]),
+    unit: z.number().int().min(1).max(15),
+    /** Official topic numbers covered, e.g. ['1.1']. Empty only for unit/course-level resources. */
+    topics: z.array(z.string().regex(/^\d+\.\d+$/)).default([]),
+    resourceType: apResourceType,
+    /** What the student should already know (plain statements). */
+    prerequisites: z.array(z.string()).default([]),
+    /** resourceIds of earlier Marlbridge resources to read first. */
+    prerequisiteResources: z.array(z.string()).default([]),
+    learningObjectives: z.array(z.string()).min(1),
+    /** Course practice/skill numbers practised (from frameworks.ts), e.g. ['5', '6']. */
+    skills: z.array(z.string()).default([]),
+    studyMinutes: z.number().int().min(5).max(240),
+    difficulty: z.enum(['foundation', 'core', 'stretch', 'mixed']),
+    calculator: z.enum(['none-needed', 'not-permitted', 'four-function', 'scientific', 'graphing', 'mixed']).optional(),
+    calculatorNote: z.string().optional(),
+    /** Calculus only: whether the material is shared by AB and BC or is BC-only. */
+    calculusScope: z.enum(['ab-and-bc', 'bc-only']).optional(),
+    /** resourceIds of related Marlbridge resources (validated to exist). */
+    related: z.array(z.string()).default([]),
+    /** resourceId of the next resource in the suggested sequence, if it exists yet. */
+    next: z.string().optional(),
+    framework: z.object({ schoolYear: z.literal('2026-27'), examSeries: z.literal('May 2027') }),
+    /** Source-register ids (src/data/ap/sources.ts). */
+    sources: z.array(z.string()).min(1),
+    /** Short answer-first takeaways shown at the top of the page. */
+    keyPoints: z.array(z.string()).min(2).max(6),
+    faqs: z.array(z.object({ question: z.string(), answer: z.string() })).default([]),
+    version: z.string().regex(/^\d+\.\d+$/),
+    publishedDate: z.coerce.date(),
+    updatedDate: z.coerce.date(),
+    /**
+     * Editorial workflow. 'drafted' = written by Marlbridge (AI-assisted, academic-team
+     * checked), awaiting AP-teacher review. 'reviewed' REQUIRES reviewer + reviewedDate,
+     * and those may only be filled in with a real teacher's name and date as supplied.
+     */
+    editorialStatus: z.enum(['planned', 'drafted', 'in-review', 'reviewed', 'published']),
+    reviewer: z.string().optional(),
+    reviewedDate: z.coerce.date().optional(),
+    author: reference('authors'),
+  }),
+});
+
+export const collections = { programs, subjects, resources, articles, authors, pages, videos, workshops, apResources };

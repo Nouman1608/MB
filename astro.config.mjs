@@ -9,6 +9,7 @@ import { activeOnly, academicHubPath, LEVEL_FOR_QUALIFICATION } from './src/util
 import { subjectBySlug } from './src/data/academic/subjects.ts';
 import { topicsFor } from './src/data/academic/syllabus-topics.ts';
 import { isIndexableAcademicPage } from './src/utils/seo/indexability.ts';
+import { AP_LIBRARY_PUBLIC, AP_LIBRARY_BASE } from './src/data/ap/config.ts';
 
 /**
  * lastmod lookup for the sitemap (Phase 6 — technical SEO / crawlability).
@@ -242,6 +243,8 @@ export default defineConfig({
         if (archivedContentPaths.has(path)) return false;
         // D-286: confirmation/unsubscribe/error pages are noindexed utility pages.
         if (path.startsWith('/subscribe/')) return false;
+        // Advanced-course (AP) library: noindexed preview until AP_LIBRARY_PUBLIC (src/data/ap/config.ts).
+        if (path.startsWith(AP_LIBRARY_BASE)) return AP_LIBRARY_PUBLIC;
         if (path === '/workshops/') return publishedWorkshopPaths.size > 0;
         if (path.startsWith('/workshops/')) return publishedWorkshopPaths.has(path);
         return true;

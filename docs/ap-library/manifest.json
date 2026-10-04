@@ -1,0 +1,2527 @@
+{
+  "generated": "2026-10-04T22:15:45.596Z",
+  "libraryPublic": false,
+  "framework": {
+    "schoolYear": "2026-27",
+    "examSeries": "May 2027"
+  },
+  "resourceCount": 44,
+  "resources": [
+    {
+      "resourceId": "mb-ap-bio-1.1-checklist",
+      "title": "Water and Hydrogen Bonding: Topic Checklist (Biology 1.1)",
+      "description": "Specific “I can…” statements for water's polarity and hydrogen bonding, each linked to the guide section and practice question that shows whether you can really do it.",
+      "course": "biology",
+      "unit": 1,
+      "topics": [
+        "1.1"
+      ],
+      "resourceType": "topic-checklist",
+      "learningObjectives": [
+        "Judge which parts of Topic 1.1 are secure and which need more practice"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "studyMinutes": 10,
+      "difficulty": "foundation",
+      "related": [
+        "mb-ap-bio-1.1-study-guide",
+        "mb-ap-bio-1.1-practice",
+        "mb-ap-bio-1.1-revision-notes"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-biology"
+      ],
+      "keyPoints": [
+        "Tick a statement only when you can do it without notes.",
+        "Each statement names the guide section or practice question that tests it."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/biology/1-1-water-and-hydrogen-bonding-checklist/",
+      "words": 338,
+      "sourceFile": "src/content/ap-resources/biology/1-1-water-and-hydrogen-bonding-checklist.md"
+    },
+    {
+      "resourceId": "mb-ap-bio-1.1-practice",
+      "title": "Water and Hydrogen Bonding: Practice Questions (Biology 1.1)",
+      "description": "Seven original Marlbridge practice questions on polarity, hydrogen bonds, specific heat, transpiration experiments and correlation versus causation, with worked solutions and suggested mark points.",
+      "course": "biology",
+      "unit": 1,
+      "topics": [
+        "1.1"
+      ],
+      "resourceType": "practice-questions",
+      "prerequisites": [
+        "The polarity of water and what a hydrogen bond is"
+      ],
+      "prerequisiteResources": [
+        "mb-ap-bio-1.1-study-guide"
+      ],
+      "learningObjectives": [
+        "Link polarity and hydrogen bonding to solvent action, floating ice and evaporative cooling",
+        "Calculate energy and temperature change with q = mcΔT",
+        "Read a heating graph and infer relative specific heats",
+        "Design a controlled experiment and evaluate a claim based on correlational data"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "studyMinutes": 45,
+      "difficulty": "mixed",
+      "calculator": "scientific",
+      "calculatorNote": "c(liquid water) = 4.18 J g⁻¹ °C⁻¹. Any other constants are given in the question. Give answers to 2 or 3 significant figures, matching the data",
+      "related": [
+        "mb-ap-bio-1.1-study-guide",
+        "mb-ap-bio-1.1-revision-notes",
+        "mb-ap-bio-1.1-checklist"
+      ],
+      "next": "mb-ap-bio-1.1-checklist",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-biology",
+        "page-biology",
+        "exam-biology"
+      ],
+      "keyPoints": [
+        "Questions 1–3 are multiple choice; 4–7 need written working or reasoning.",
+        "Always connect the molecular mechanism (hydrogen bonds) to the biological outcome.",
+        "Each answer explains why the wrong options are wrong."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/biology/1-1-water-and-hydrogen-bonding-practice/",
+      "words": 2378,
+      "sourceFile": "src/content/ap-resources/biology/1-1-water-and-hydrogen-bonding-practice.md"
+    },
+    {
+      "resourceId": "mb-ap-bio-1.1-revision-notes",
+      "title": "Water and Hydrogen Bonding: Revision Notes (Biology 1.1)",
+      "description": "One-page recap of water's polarity, hydrogen bonds and the properties they cause, with the key relationships, assumptions and mistakes that cost marks.",
+      "course": "biology",
+      "unit": 1,
+      "topics": [
+        "1.1"
+      ],
+      "resourceType": "revision-notes",
+      "prerequisiteResources": [
+        "mb-ap-bio-1.1-study-guide"
+      ],
+      "learningObjectives": [
+        "Recall how polarity leads to hydrogen bonding and each property of water",
+        "Recall q = mcΔT and use it to compare temperature changes"
+      ],
+      "skills": [
+        "1",
+        "5"
+      ],
+      "studyMinutes": 10,
+      "difficulty": "foundation",
+      "calculator": "scientific",
+      "related": [
+        "mb-ap-bio-1.1-study-guide",
+        "mb-ap-bio-1.1-practice",
+        "mb-ap-bio-1.1-checklist"
+      ],
+      "next": "mb-ap-bio-1.1-practice",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-biology"
+      ],
+      "keyPoints": [
+        "Polar O–H bonds give water δ⁻ and δ⁺ ends; these attract neighbouring molecules through hydrogen bonds.",
+        "Mechanism first, outcome second: always say which hydrogen-bond effect causes which biological result.",
+        "q = mcΔT, with c(water) = 4.18 J g⁻¹ °C⁻¹."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/biology/1-1-water-and-hydrogen-bonding-revision-notes/",
+      "words": 510,
+      "sourceFile": "src/content/ap-resources/biology/1-1-water-and-hydrogen-bonding-revision-notes.md"
+    },
+    {
+      "resourceId": "mb-ap-bio-1.1-study-guide",
+      "title": "Water and Hydrogen Bonding: Study Guide (Biology 1.1)",
+      "description": "Learn how water's polarity and hydrogen bonds lead to cohesion, adhesion, high specific heat, evaporative cooling, floating ice and solvent power, and why these matter to living things.",
+      "course": "biology",
+      "unit": 1,
+      "topics": [
+        "1.1"
+      ],
+      "resourceType": "study-guide",
+      "prerequisites": [
+        "Atoms, electrons and covalent bonds",
+        "Basic idea of temperature and energy (joules)"
+      ],
+      "learningObjectives": [
+        "Explain why the O–H bonds in water are polar and why water molecules form hydrogen bonds with each other",
+        "Link cohesion, adhesion and surface tension to water transport in plants",
+        "Use q = mcΔT to show how water's high specific heat buffers temperature",
+        "Explain evaporative cooling, floating ice and water's solvent properties in terms of hydrogen bonding",
+        "Identify variables and controls in an experiment on water movement, and separate correlation from causation"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3",
+        "5",
+        "6"
+      ],
+      "studyMinutes": 40,
+      "difficulty": "foundation",
+      "calculator": "scientific",
+      "calculatorNote": "Specific heat capacity of liquid water: 4.18 J g⁻¹ °C⁻¹. Other specific heats are given where they are used",
+      "related": [
+        "mb-ap-bio-1.1-revision-notes",
+        "mb-ap-bio-1.1-practice",
+        "mb-ap-bio-1.1-checklist"
+      ],
+      "next": "mb-ap-bio-1.1-practice",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-biology",
+        "page-biology"
+      ],
+      "keyPoints": [
+        "Oxygen pulls shared electrons harder than hydrogen, so each O–H bond is polar: O is partly negative (δ⁻), each H is partly positive (δ⁺).",
+        "A hydrogen bond is a weak attraction between a δ⁺ hydrogen of one molecule and a δ⁻ atom (here O) of another. Each one is weak; millions together are strong.",
+        "Hydrogen bonds explain cohesion, adhesion and surface tension, a high specific heat, a high heat of vaporization, floating ice and water's power as a solvent.",
+        "Energy for warming: q = mcΔT, with c = 4.18 J g⁻¹ °C⁻¹ for water. Large c means small temperature change for a given energy."
+      ],
+      "faqs": [
+        {
+          "question": "Is a hydrogen bond a real chemical bond?",
+          "answer": "It is an attraction between molecules (or between parts of one large molecule), not a shared pair of electrons. It is much weaker than the covalent O–H bond inside a water molecule, which is why water can boil without its molecules falling apart."
+        },
+        {
+          "question": "Do hydrogen bonds only matter for water?",
+          "answer": "No. Hydrogen bonds also hold the two strands of DNA together and help proteins fold into their shapes. Water is simply the most important example in this topic."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/biology/1-1-water-and-hydrogen-bonding-study-guide/",
+      "words": 2640,
+      "sourceFile": "src/content/ap-resources/biology/1-1-water-and-hydrogen-bonding-study-guide.md"
+    },
+    {
+      "resourceId": "mb-ap-calcab-1.6-checklist",
+      "title": "Determining Limits Using Algebraic Manipulation: Topic Checklist (Calculus AB 1.6)",
+      "description": "Specific “I can…” statements for 0/0 limits and algebraic rewriting, each linked to the guide section and practice question that shows whether you can do it.",
+      "course": "calculus-ab",
+      "unit": 1,
+      "topics": [
+        "1.6"
+      ],
+      "resourceType": "topic-checklist",
+      "calculusScope": "ab-and-bc",
+      "learningObjectives": [
+        "Judge which parts of Topic 1.6 are secure and which need more practice"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "studyMinutes": 10,
+      "difficulty": "core",
+      "related": [
+        "mb-ap-calcab-1.6-study-guide",
+        "mb-ap-calcab-1.6-practice",
+        "mb-ap-calcab-1.6-revision-notes"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-calculus-ab-bc"
+      ],
+      "keyPoints": [
+        "Tick a statement only when you can do it without notes or a calculator.",
+        "Each statement names the practice question that tests it.",
+        "Shared checklist for Calculus AB and Calculus BC students."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/calculus-ab/1-6-limits-by-algebraic-manipulation-checklist/",
+      "words": 378,
+      "sourceFile": "src/content/ap-resources/calculus-ab/1-6-limits-by-algebraic-manipulation-checklist.md"
+    },
+    {
+      "resourceId": "mb-ap-calcab-1.6-practice",
+      "title": "Determining Limits Using Algebraic Manipulation: Practice Questions (Calculus AB 1.6)",
+      "description": "Seven original Marlbridge practice questions on 0/0 limits using factoring, conjugates, combined fractions and trig identities, with full solutions and suggested rubrics.",
+      "course": "calculus-ab",
+      "unit": 1,
+      "topics": [
+        "1.6"
+      ],
+      "resourceType": "practice-questions",
+      "calculusScope": "ab-and-bc",
+      "prerequisites": [
+        "Factoring quadratics and differences of squares"
+      ],
+      "prerequisiteResources": [
+        "mb-ap-calcab-1.6-study-guide"
+      ],
+      "learningObjectives": [
+        "Evaluate 0/0 limits by choosing and applying an appropriate rewriting technique",
+        "Distinguish 0/0 from a nonzero number over 0",
+        "Justify why cancellation leaves the limit unchanged",
+        "Connect an algebraic limit to a graph with a hole"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "studyMinutes": 45,
+      "difficulty": "mixed",
+      "calculator": "not-permitted",
+      "calculatorNote": "No calculator for any question. Give exact answers (fractions, not decimals) unless a question asks for a numerical check.",
+      "related": [
+        "mb-ap-calcab-1.6-study-guide",
+        "mb-ap-calcab-1.6-revision-notes",
+        "mb-ap-calcab-1.6-checklist"
+      ],
+      "next": "mb-ap-calcab-1.6-checklist",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-calculus-ab-bc",
+        "page-calculus-ab",
+        "page-calculus-bc"
+      ],
+      "keyPoints": [
+        "Questions 1–4 are multiple choice; 5–7 need written reasoning.",
+        "Shared practice for Calculus AB and Calculus BC students.",
+        "Each answer explains why the wrong options are wrong."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/calculus-ab/1-6-limits-by-algebraic-manipulation-practice/",
+      "words": 1695,
+      "sourceFile": "src/content/ap-resources/calculus-ab/1-6-limits-by-algebraic-manipulation-practice.md"
+    },
+    {
+      "resourceId": "mb-ap-calcab-1.6-revision-notes",
+      "title": "Determining Limits Using Algebraic Manipulation: Revision Notes (Calculus AB 1.6)",
+      "description": "One-page recap of 0/0 limits: why cancelling is valid, the four rewriting techniques with their conditions, and the mistakes that cost marks.",
+      "course": "calculus-ab",
+      "unit": 1,
+      "topics": [
+        "1.6"
+      ],
+      "resourceType": "revision-notes",
+      "calculusScope": "ab-and-bc",
+      "prerequisiteResources": [
+        "mb-ap-calcab-1.6-study-guide"
+      ],
+      "learningObjectives": [
+        "Recall the four rewriting techniques and the condition for each",
+        "Spot the common errors in 0/0 limits before making them"
+      ],
+      "skills": [
+        "1",
+        "3"
+      ],
+      "studyMinutes": 10,
+      "difficulty": "core",
+      "calculator": "not-permitted",
+      "related": [
+        "mb-ap-calcab-1.6-study-guide",
+        "mb-ap-calcab-1.6-practice",
+        "mb-ap-calcab-1.6-checklist"
+      ],
+      "next": "mb-ap-calcab-1.6-practice",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-calculus-ab-bc"
+      ],
+      "keyPoints": [
+        "0/0 is indeterminate: rewrite, then substitute again.",
+        "Functions that agree near a (except at a) have the same limit at a.",
+        "Shared content for Calculus AB and Calculus BC."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/calculus-ab/1-6-limits-by-algebraic-manipulation-revision-notes/",
+      "words": 507,
+      "sourceFile": "src/content/ap-resources/calculus-ab/1-6-limits-by-algebraic-manipulation-revision-notes.md"
+    },
+    {
+      "resourceId": "mb-ap-calcab-1.6-study-guide",
+      "title": "Determining Limits Using Algebraic Manipulation: Study Guide (Calculus AB 1.6)",
+      "description": "Learn why 0/0 is a signal rather than an answer, and how factoring, conjugates, combining fractions and trig identities turn it into a limit you can evaluate.",
+      "course": "calculus-ab",
+      "unit": 1,
+      "topics": [
+        "1.6"
+      ],
+      "resourceType": "study-guide",
+      "calculusScope": "ab-and-bc",
+      "prerequisites": [
+        "Limit notation and the idea of a limit (Topics 1.2 to 1.4)",
+        "Properties of limits and direct substitution (Topic 1.5)",
+        "Factoring quadratics, difference of squares and difference of cubes",
+        "The Pythagorean identity sin²x + cos²x = 1 and the double-angle identity sin 2x = 2 sin x cos x"
+      ],
+      "learningObjectives": [
+        "Recognise 0/0 as an indeterminate form that does not decide the limit",
+        "Explain why replacing a function by one that agrees with it near x = a (but not at a) keeps the limit the same",
+        "Find limits by factoring and cancelling, by multiplying by a conjugate, by combining fractions and by using trigonometric identities",
+        "State the condition under which each technique applies"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "studyMinutes": 40,
+      "difficulty": "core",
+      "calculator": "not-permitted",
+      "calculatorNote": "Practise every limit here without a calculator. A table of values is a check, not a method.",
+      "related": [
+        "mb-ap-calcab-1.6-revision-notes",
+        "mb-ap-calcab-1.6-practice",
+        "mb-ap-calcab-1.6-checklist"
+      ],
+      "next": "mb-ap-calcab-1.6-practice",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-calculus-ab-bc",
+        "page-calculus-ab",
+        "page-calculus-bc"
+      ],
+      "keyPoints": [
+        "If direct substitution gives 0/0, the limit is not yet decided. Rewrite the expression and try again.",
+        "If f(x) = g(x) for every x near a except possibly x = a, then the limit as x → a of f(x) equals the limit as x → a of g(x).",
+        "Polynomial 0/0 at x = a: factor out (x − a). Square roots: multiply by the conjugate. Stacked fractions: combine over a common denominator. Trig: use an identity.",
+        "This topic is shared by Calculus AB and Calculus BC students."
+      ],
+      "faqs": [
+        {
+          "question": "Is this page for Calculus AB or Calculus BC?",
+          "answer": "Both. Topic 1.6 is common content, so the same page serves AB and BC students. BC students should know it just as well, because the same algebra reappears in derivatives from first principles and in series."
+        },
+        {
+          "question": "If I cancel a factor, have I changed the function?",
+          "answer": "Yes, slightly: the new expression is also defined at x = a, while the original was not. But a limit only looks at x values near a, never at a itself, so the two expressions have the same limit."
+        },
+        {
+          "question": "Can I just use a table of values?",
+          "answer": "A table suggests a value; it does not prove it. Algebra gives the exact value and a justification. Use a table only to check."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/calculus-ab/1-6-limits-by-algebraic-manipulation-study-guide/",
+      "words": 2173,
+      "sourceFile": "src/content/ap-resources/calculus-ab/1-6-limits-by-algebraic-manipulation-study-guide.md"
+    },
+    {
+      "resourceId": "mb-ap-calcbc-6.11-checklist",
+      "title": "Integrating Using Integration by Parts: Topic Checklist (Calculus BC 6.11)",
+      "description": "Specific “I can…” statements for integration by parts, each linked to the guide section and practice question that shows whether you can really do it.",
+      "course": "calculus-bc",
+      "unit": 6,
+      "topics": [
+        "6.11"
+      ],
+      "resourceType": "topic-checklist",
+      "calculusScope": "bc-only",
+      "learningObjectives": [
+        "Judge which parts of Topic 6.11 are secure and which need more practice"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "studyMinutes": 10,
+      "difficulty": "stretch",
+      "related": [
+        "mb-ap-calcbc-6.11-study-guide",
+        "mb-ap-calcbc-6.11-practice",
+        "mb-ap-calcbc-6.11-revision-notes"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-calculus-ab-bc"
+      ],
+      "keyPoints": [
+        "BC-only checklist.",
+        "Tick a statement only when you can do it without notes.",
+        "Each statement names the practice question that tests it."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/calculus-bc/6-11-integration-by-parts-checklist/",
+      "words": 355,
+      "sourceFile": "src/content/ap-resources/calculus-bc/6-11-integration-by-parts-checklist.md"
+    },
+    {
+      "resourceId": "mb-ap-calcbc-6.11-practice",
+      "title": "Integrating Using Integration by Parts: Practice Questions (Calculus BC 6.11)",
+      "description": "Seven original Marlbridge practice questions on integration by parts: choosing u, definite, repeated and self-returning integrals, and an accumulation context, with rubrics.",
+      "course": "calculus-bc",
+      "unit": 6,
+      "topics": [
+        "6.11"
+      ],
+      "resourceType": "practice-questions",
+      "calculusScope": "bc-only",
+      "prerequisites": [
+        "Product rule (Topic 2.8), basic antiderivatives (Topic 6.8) and substitution (Topic 6.9)"
+      ],
+      "prerequisiteResources": [
+        "mb-ap-calcbc-6.11-study-guide"
+      ],
+      "learningObjectives": [
+        "Find indefinite integrals by parts, including repeated and self-returning cases",
+        "Evaluate definite integrals by parts exactly",
+        "Choose u and dv and justify the choice",
+        "Apply integration by parts to an accumulation problem with units"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "studyMinutes": 50,
+      "difficulty": "mixed",
+      "calculator": "mixed",
+      "calculatorNote": "Questions 1–6: no calculator. Question 7: calculator allowed for the decimal values only; the antiderivative must be found by hand.",
+      "related": [
+        "mb-ap-calcbc-6.11-study-guide",
+        "mb-ap-calcbc-6.11-revision-notes",
+        "mb-ap-calcbc-6.11-checklist"
+      ],
+      "next": "mb-ap-calcbc-6.11-checklist",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-calculus-ab-bc",
+        "page-calculus-bc",
+        "exam-calculus-bc"
+      ],
+      "keyPoints": [
+        "BC-only practice.",
+        "Questions 1–4 are multiple choice; 5–7 need written working.",
+        "Each answer explains why the wrong options are wrong."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/calculus-bc/6-11-integration-by-parts-practice/",
+      "words": 1904,
+      "sourceFile": "src/content/ap-resources/calculus-bc/6-11-integration-by-parts-practice.md"
+    },
+    {
+      "resourceId": "mb-ap-calcbc-6.11-revision-notes",
+      "title": "Integrating Using Integration by Parts: Revision Notes (Calculus BC 6.11)",
+      "description": "One-page recap of integration by parts: the formula and where it comes from, choosing u, definite, repeated and self-returning integrals, and the mistakes that cost marks.",
+      "course": "calculus-bc",
+      "unit": 6,
+      "topics": [
+        "6.11"
+      ],
+      "resourceType": "revision-notes",
+      "calculusScope": "bc-only",
+      "prerequisiteResources": [
+        "mb-ap-calcbc-6.11-study-guide"
+      ],
+      "learningObjectives": [
+        "Recall the integration by parts formula in indefinite and definite form",
+        "Spot the common errors in integration by parts before making them"
+      ],
+      "skills": [
+        "1"
+      ],
+      "studyMinutes": 10,
+      "difficulty": "stretch",
+      "calculator": "mixed",
+      "calculatorNote": "Antiderivatives by hand; a calculator may only check a definite value where one is allowed.",
+      "related": [
+        "mb-ap-calcbc-6.11-study-guide",
+        "mb-ap-calcbc-6.11-practice",
+        "mb-ap-calcbc-6.11-checklist"
+      ],
+      "next": "mb-ap-calcbc-6.11-practice",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-calculus-ab-bc"
+      ],
+      "keyPoints": [
+        "BC only.",
+        "∫u dv = uv − ∫v du.",
+        "Check every answer by differentiating it."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/calculus-bc/6-11-integration-by-parts-revision-notes/",
+      "words": 455,
+      "sourceFile": "src/content/ap-resources/calculus-bc/6-11-integration-by-parts-revision-notes.md"
+    },
+    {
+      "resourceId": "mb-ap-calcbc-6.11-study-guide",
+      "title": "Integrating Using Integration by Parts: Study Guide (Calculus BC 6.11)",
+      "description": "Derive integration by parts from the product rule, learn how to choose u, and use it for repeated, self-returning and definite integrals, including an accumulation problem.",
+      "course": "calculus-bc",
+      "unit": 6,
+      "topics": [
+        "6.11"
+      ],
+      "resourceType": "study-guide",
+      "calculusScope": "bc-only",
+      "prerequisites": [
+        "The product rule for derivatives (Topic 2.8)",
+        "The Fundamental Theorem of Calculus and evaluating definite integrals (Topic 6.7)",
+        "Antiderivatives of basic functions: powers, eˣ, sin x, cos x, 1/x (Topic 6.8)",
+        "Integration by substitution (Topic 6.9)"
+      ],
+      "learningObjectives": [
+        "Derive the integration by parts formula from the product rule",
+        "Choose u and dv so that the new integral is simpler, and explain why a choice works or fails",
+        "Find indefinite integrals by parts, including repeated use and integrals that return to themselves",
+        "Evaluate definite integrals by parts, applying the limits to both the uv term and the new integral",
+        "Verify an antiderivative by differentiating it"
+      ],
+      "skills": [
+        "1",
+        "3"
+      ],
+      "studyMinutes": 50,
+      "difficulty": "stretch",
+      "calculator": "mixed",
+      "calculatorNote": "Find antiderivatives by hand: this is a no-calculator skill. Where a calculator is allowed, you may use it to check a definite integral numerically or to give a decimal answer, but show the exact working.",
+      "related": [
+        "mb-ap-calcbc-6.11-revision-notes",
+        "mb-ap-calcbc-6.11-practice",
+        "mb-ap-calcbc-6.11-checklist"
+      ],
+      "next": "mb-ap-calcbc-6.11-practice",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-calculus-ab-bc",
+        "page-calculus-bc"
+      ],
+      "keyPoints": [
+        "BC only: this topic is not part of Calculus AB.",
+        "∫u dv = uv − ∫v du is the product rule, integrated and rearranged.",
+        "Choose u so that du is simpler, and dv so that you can integrate it. LIATE is a guide, not a rule.",
+        "For a definite integral: ∫ from a to b of u dv = [uv] from a to b − ∫ from a to b of v du.",
+        "Always check by differentiating your answer: you should get back the integrand."
+      ],
+      "faqs": [
+        {
+          "question": "Do Calculus AB students need this?",
+          "answer": "No. Integration by parts is BC-only content. AB students can skip this page; BC students need it for indefinite and definite integrals."
+        },
+        {
+          "question": "Why don't I add + C when I find v?",
+          "answer": "Any constant you add to v cancels out in uv − ∫v du, so it is safe to leave it out. Add a single + C at the very end of an indefinite integral."
+        },
+        {
+          "question": "Is the tabular method required?",
+          "answer": "No. It is an optional shortcut for repeated integration by parts when one factor differentiates to zero. The ordinary formula always works."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/calculus-bc/6-11-integration-by-parts-study-guide/",
+      "words": 2514,
+      "sourceFile": "src/content/ap-resources/calculus-bc/6-11-integration-by-parts-study-guide.md"
+    },
+    {
+      "resourceId": "mb-ap-chem-1.1-checklist",
+      "title": "Moles and Molar Mass: Topic Checklist (Chemistry 1.1)",
+      "description": "Specific “I can…” statements for moles and molar mass, each linked to the guide section and practice question that shows whether you can really do it.",
+      "course": "chemistry",
+      "unit": 1,
+      "topics": [
+        "1.1"
+      ],
+      "resourceType": "topic-checklist",
+      "learningObjectives": [
+        "Judge which parts of Topic 1.1 are secure and which need more practice"
+      ],
+      "skills": [
+        "1",
+        "5",
+        "6"
+      ],
+      "studyMinutes": 10,
+      "difficulty": "foundation",
+      "related": [
+        "mb-ap-chem-1.1-study-guide",
+        "mb-ap-chem-1.1-practice",
+        "mb-ap-chem-1.1-revision-notes"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-chemistry"
+      ],
+      "keyPoints": [
+        "Tick a statement only when you can do it without notes.",
+        "Each statement names the practice question that tests it."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/chemistry/1-1-moles-and-molar-mass-checklist/",
+      "words": 302,
+      "sourceFile": "src/content/ap-resources/chemistry/1-1-moles-and-molar-mass-checklist.md"
+    },
+    {
+      "resourceId": "mb-ap-chem-1.1-practice",
+      "title": "Moles and Molar Mass: Practice Questions (Chemistry 1.1)",
+      "description": "Seven original Marlbridge practice questions on molar mass, mole conversions and particle counting, with full worked solutions and suggested mark points.",
+      "course": "chemistry",
+      "unit": 1,
+      "topics": [
+        "1.1"
+      ],
+      "resourceType": "practice-questions",
+      "prerequisites": [
+        "Calculating molar mass from a formula"
+      ],
+      "prerequisiteResources": [
+        "mb-ap-chem-1.1-study-guide"
+      ],
+      "learningObjectives": [
+        "Calculate molar masses for formulas with brackets",
+        "Convert between mass, moles and particles, keeping significant figures correct",
+        "Compare numbers of particles in samples of different substances",
+        "Justify a claim about particle numbers with a calculation"
+      ],
+      "skills": [
+        "1",
+        "5",
+        "6"
+      ],
+      "studyMinutes": 40,
+      "difficulty": "mixed",
+      "calculator": "scientific",
+      "calculatorNote": "Molar masses: H 1.008, C 12.01, N 14.01, O 16.00, Na 22.99, Cl 35.45, K 39.10, Ca 40.08, Al 26.98, S 32.06 g mol⁻¹. N_A = 6.022 × 10²³ mol⁻¹",
+      "related": [
+        "mb-ap-chem-1.1-study-guide",
+        "mb-ap-chem-1.1-revision-notes",
+        "mb-ap-chem-1.1-checklist"
+      ],
+      "next": "mb-ap-chem-1.1-checklist",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-chemistry",
+        "page-chemistry",
+        "exam-chemistry"
+      ],
+      "keyPoints": [
+        "Questions 1–3 are multiple choice; 4–7 need written working.",
+        "Write units on every line and round only at the end.",
+        "Each answer explains why the wrong options are wrong."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/chemistry/1-1-moles-and-molar-mass-practice/",
+      "words": 1268,
+      "sourceFile": "src/content/ap-resources/chemistry/1-1-moles-and-molar-mass-practice.md"
+    },
+    {
+      "resourceId": "mb-ap-chem-1.1-revision-notes",
+      "title": "Moles and Molar Mass: Revision Notes (Chemistry 1.1)",
+      "description": "One-page recap of the mole, Avogadro's number, molar mass and the mass–moles–particles conversions, with the assumptions and mistakes that cost marks.",
+      "course": "chemistry",
+      "unit": 1,
+      "topics": [
+        "1.1"
+      ],
+      "resourceType": "revision-notes",
+      "prerequisiteResources": [
+        "mb-ap-chem-1.1-study-guide"
+      ],
+      "learningObjectives": [
+        "Recall the key relationships n = m / M and N = n × N_A",
+        "Spot the common errors in mole calculations before making them"
+      ],
+      "skills": [
+        "5"
+      ],
+      "studyMinutes": 10,
+      "difficulty": "foundation",
+      "calculator": "scientific",
+      "related": [
+        "mb-ap-chem-1.1-study-guide",
+        "mb-ap-chem-1.1-practice",
+        "mb-ap-chem-1.1-checklist"
+      ],
+      "next": "mb-ap-chem-1.1-practice",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-chemistry"
+      ],
+      "keyPoints": [
+        "1 mol = 6.022 × 10²³ particles.",
+        "Molar mass in g mol⁻¹ = average particle mass in amu.",
+        "Always go through moles: grams → moles → particles."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/chemistry/1-1-moles-and-molar-mass-revision-notes/",
+      "words": 373,
+      "sourceFile": "src/content/ap-resources/chemistry/1-1-moles-and-molar-mass-revision-notes.md"
+    },
+    {
+      "resourceId": "mb-ap-chem-1.1-study-guide",
+      "title": "Moles and Molar Mass: Study Guide (Chemistry 1.1)",
+      "description": "Learn why chemists count particles in moles, how molar mass links grams to particles, and how to convert between mass, moles and particles with dimensional analysis.",
+      "course": "chemistry",
+      "unit": 1,
+      "topics": [
+        "1.1"
+      ],
+      "resourceType": "study-guide",
+      "prerequisites": [
+        "Scientific notation and significant figures",
+        "Reading a chemical formula, including brackets such as Ca(NO₃)₂"
+      ],
+      "learningObjectives": [
+        "Explain why chemists need the mole to connect lab-scale masses to numbers of particles",
+        "Calculate molar mass from a formula using average atomic masses",
+        "Convert between mass, amount in moles and number of particles using dimensional analysis",
+        "Count atoms of one element inside a given amount of a compound"
+      ],
+      "skills": [
+        "1",
+        "5"
+      ],
+      "studyMinutes": 35,
+      "difficulty": "foundation",
+      "calculator": "scientific",
+      "calculatorNote": "Use the molar masses from the periodic table you are given; keep unrounded values until the final step",
+      "related": [
+        "mb-ap-chem-1.1-revision-notes",
+        "mb-ap-chem-1.1-practice",
+        "mb-ap-chem-1.1-checklist"
+      ],
+      "next": "mb-ap-chem-1.1-practice",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-chemistry",
+        "page-chemistry"
+      ],
+      "keyPoints": [
+        "A mole is 6.022 × 10²³ particles (Avogadro's number, N_A). It lets you count particles by weighing them.",
+        "Molar mass M (g mol⁻¹) is numerically equal to the average mass of one particle in atomic mass units.",
+        "n = m / M converts grams to moles; N = n × N_A converts moles to particles.",
+        "Always write units on every step: if the units cancel to the answer's unit, the setup is right."
+      ],
+      "faqs": [
+        {
+          "question": "Is molar mass the same as relative formula mass?",
+          "answer": "They have the same number. Relative formula mass has no unit; molar mass is the mass of one mole and has the unit g mol⁻¹. For water both are 18.02, but only molar mass is 18.02 g mol⁻¹."
+        },
+        {
+          "question": "Why are particle numbers so large?",
+          "answer": "Atoms are tiny: one carbon atom has a mass of about 2 × 10⁻²³ g. Any sample you can weigh therefore holds roughly 10²² particles or more."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/chemistry/1-1-moles-and-molar-mass-study-guide/",
+      "words": 1230,
+      "sourceFile": "src/content/ap-resources/chemistry/1-1-moles-and-molar-mass-study-guide.md"
+    },
+    {
+      "resourceId": "mb-ap-macro-2.4-checklist",
+      "title": "Price Indices and Inflation: Topic Checklist (Macroeconomics 2.4)",
+      "description": "Specific “I can…” statements for price indices and inflation, each linked to the guide section and practice question that shows whether you can really do it.",
+      "course": "macroeconomics",
+      "unit": 2,
+      "topics": [
+        "2.4"
+      ],
+      "resourceType": "topic-checklist",
+      "learningObjectives": [
+        "Judge which parts of Topic 2.4 are secure and which need more practice"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "studyMinutes": 10,
+      "difficulty": "foundation",
+      "related": [
+        "mb-ap-macro-2.4-study-guide",
+        "mb-ap-macro-2.4-practice",
+        "mb-ap-macro-2.4-revision-notes"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-macroeconomics"
+      ],
+      "keyPoints": [
+        "Tick a statement only when you can do it without notes.",
+        "Each statement names the guide section or practice question that tests it."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/macroeconomics/2-4-price-indices-and-inflation-checklist/",
+      "words": 292,
+      "sourceFile": "src/content/ap-resources/macroeconomics/2-4-price-indices-and-inflation-checklist.md"
+    },
+    {
+      "resourceId": "mb-ap-macro-2.4-practice",
+      "title": "Price Indices and Inflation: Practice Questions (Macroeconomics 2.4)",
+      "description": "Seven original Marlbridge practice questions on building a CPI, calculating inflation rates and real values, and explaining CPI bias, with worked solutions and suggested rubrics.",
+      "course": "macroeconomics",
+      "unit": 2,
+      "topics": [
+        "2.4"
+      ],
+      "resourceType": "practice-questions",
+      "prerequisites": [
+        "Calculating a percentage change"
+      ],
+      "prerequisiteResources": [
+        "mb-ap-macro-2.4-study-guide"
+      ],
+      "learningObjectives": [
+        "Calculate a CPI from basket costs and an inflation rate from index numbers",
+        "Convert nominal values into real values and compare them across years",
+        "Distinguish inflation, deflation and disinflation",
+        "Explain why the CPI may overstate inflation"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "studyMinutes": 40,
+      "difficulty": "mixed",
+      "calculator": "four-function",
+      "calculatorNote": "Round percentages to 2 decimal places and money to the nearest 0.01 valda unless told otherwise.",
+      "related": [
+        "mb-ap-macro-2.4-study-guide",
+        "mb-ap-macro-2.4-revision-notes",
+        "mb-ap-macro-2.4-checklist"
+      ],
+      "next": "mb-ap-macro-2.4-checklist",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-macroeconomics",
+        "page-macroeconomics",
+        "exam-macroeconomics"
+      ],
+      "keyPoints": [
+        "Questions 1–4 are multiple choice; 5–7 need written working.",
+        "Divide by the earlier index when calculating an inflation rate.",
+        "Each answer explains why the wrong options are wrong."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/macroeconomics/2-4-price-indices-and-inflation-practice/",
+      "words": 1722,
+      "sourceFile": "src/content/ap-resources/macroeconomics/2-4-price-indices-and-inflation-practice.md"
+    },
+    {
+      "resourceId": "mb-ap-macro-2.4-revision-notes",
+      "title": "Price Indices and Inflation: Revision Notes (Macroeconomics 2.4)",
+      "description": "One-page recap of the CPI, market baskets, base years, inflation, deflation and disinflation, real values and CPI bias, with the calculation mistakes that cost marks.",
+      "course": "macroeconomics",
+      "unit": 2,
+      "topics": [
+        "2.4"
+      ],
+      "resourceType": "revision-notes",
+      "prerequisiteResources": [
+        "mb-ap-macro-2.4-study-guide"
+      ],
+      "learningObjectives": [
+        "Recall the formulas for the CPI, the inflation rate and real values",
+        "Spot the common errors in index-number calculations before making them"
+      ],
+      "skills": [
+        "1",
+        "3"
+      ],
+      "studyMinutes": 10,
+      "difficulty": "foundation",
+      "calculator": "four-function",
+      "related": [
+        "mb-ap-macro-2.4-study-guide",
+        "mb-ap-macro-2.4-practice",
+        "mb-ap-macro-2.4-checklist"
+      ],
+      "next": "mb-ap-macro-2.4-practice",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-macroeconomics"
+      ],
+      "keyPoints": [
+        "Fixed basket, fixed quantities; only prices change.",
+        "Base year CPI = 100.",
+        "Divide by the earlier index when finding an inflation rate."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/macroeconomics/2-4-price-indices-and-inflation-revision-notes/",
+      "words": 409,
+      "sourceFile": "src/content/ap-resources/macroeconomics/2-4-price-indices-and-inflation-revision-notes.md"
+    },
+    {
+      "resourceId": "mb-ap-macro-2.4-study-guide",
+      "title": "Price Indices and Inflation: Study Guide (Macroeconomics 2.4)",
+      "description": "Learn how a consumer price index is built from a fixed market basket, how to calculate inflation rates and real values from index numbers, and why the CPI can overstate inflation.",
+      "course": "macroeconomics",
+      "unit": 2,
+      "topics": [
+        "2.4"
+      ],
+      "resourceType": "study-guide",
+      "prerequisites": [
+        "Calculating a percentage change",
+        "What GDP measures (Topic 2.1)"
+      ],
+      "learningObjectives": [
+        "Define the consumer price index (CPI), inflation, deflation, disinflation, the inflation rate and real variables",
+        "Calculate the CPI from the cost of a fixed market basket in a given year and in the base year",
+        "Calculate the inflation rate as the percentage change in a price index",
+        "Use a price index to convert nominal values, such as wages, into real values and compare them across years",
+        "Explain why the CPI may overstate the true rate of inflation"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "studyMinutes": 35,
+      "difficulty": "foundation",
+      "calculator": "four-function",
+      "calculatorNote": "All the arithmetic works on a four-function calculator. Keep unrounded index values until the final step.",
+      "related": [
+        "mb-ap-macro-2.4-revision-notes",
+        "mb-ap-macro-2.4-practice",
+        "mb-ap-macro-2.4-checklist"
+      ],
+      "next": "mb-ap-macro-2.4-practice",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-macroeconomics",
+        "page-macroeconomics",
+        "clar-macroeconomics"
+      ],
+      "keyPoints": [
+        "CPI = (cost of the fixed basket in the given year ÷ cost of the same basket in the base year) × 100.",
+        "The base year always has an index of 100.",
+        "Inflation rate = (new index − old index) ÷ old index × 100.",
+        "Real value = nominal value ÷ price index × 100 (in base-year money).",
+        "The CPI tends to overstate inflation, mainly because of substitution bias."
+      ],
+      "faqs": [
+        {
+          "question": "Is the CPI the same thing as the inflation rate?",
+          "answer": "No. The CPI is an index level: a CPI of 113 means the basket costs 13% more than in the base year. The inflation rate is the percentage change in the index from one period to the next."
+        },
+        {
+          "question": "Do I need to calculate the GDP deflator in this topic?",
+          "answer": "No. The inflation rate can be calculated from any price index, including the GDP deflator, using the same percentage-change formula. Calculating the GDP deflator itself belongs to Topic 2.6, Real v. Nominal GDP."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/macroeconomics/2-4-price-indices-and-inflation-study-guide/",
+      "words": 1919,
+      "sourceFile": "src/content/ap-resources/macroeconomics/2-4-price-indices-and-inflation-study-guide.md"
+    },
+    {
+      "resourceId": "mb-ap-micro-1.3-checklist",
+      "title": "Production Possibilities Curve: Topic Checklist (Microeconomics 1.3)",
+      "description": "Specific “I can…” statements for the production possibilities curve, each linked to the guide section and practice question that shows whether you can really do it.",
+      "course": "microeconomics",
+      "unit": 1,
+      "topics": [
+        "1.3"
+      ],
+      "resourceType": "topic-checklist",
+      "learningObjectives": [
+        "Judge which parts of Topic 1.3 are secure and which need more practice"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "studyMinutes": 10,
+      "difficulty": "foundation",
+      "related": [
+        "mb-ap-micro-1.3-study-guide",
+        "mb-ap-micro-1.3-practice",
+        "mb-ap-micro-1.3-revision-notes"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-microeconomics"
+      ],
+      "keyPoints": [
+        "Tick a statement only when you can do it without notes.",
+        "Each statement names the guide section or practice question that tests it."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/microeconomics/1-3-production-possibilities-curve-checklist/",
+      "words": 341,
+      "sourceFile": "src/content/ap-resources/microeconomics/1-3-production-possibilities-curve-checklist.md"
+    },
+    {
+      "resourceId": "mb-ap-micro-1.3-practice",
+      "title": "Production Possibilities Curve: Practice Questions (Microeconomics 1.3)",
+      "description": "Seven original Marlbridge practice questions on the production possibilities curve, opportunity cost, efficiency and shifts versus movements, with worked solutions and suggested mark points.",
+      "course": "microeconomics",
+      "unit": 1,
+      "topics": [
+        "1.3"
+      ],
+      "resourceType": "practice-questions",
+      "prerequisites": [
+        "Reading a PPC and calculating opportunity cost"
+      ],
+      "prerequisiteResources": [
+        "mb-ap-micro-1.3-study-guide"
+      ],
+      "learningObjectives": [
+        "Calculate opportunity cost from a PPC table for constant and increasing opportunity cost",
+        "Classify points as efficient, inefficient or unattainable",
+        "Draw a correctly labelled PPC and show a shift or pivot",
+        "Explain the difference between a shift of the PPC and a movement towards or along it"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "studyMinutes": 40,
+      "difficulty": "mixed",
+      "calculator": "four-function",
+      "calculatorNote": "All data are fictional. Use changes between points, not levels, for opportunity cost",
+      "related": [
+        "mb-ap-micro-1.3-study-guide",
+        "mb-ap-micro-1.3-revision-notes",
+        "mb-ap-micro-1.3-checklist"
+      ],
+      "next": "mb-ap-micro-1.3-checklist",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-microeconomics",
+        "page-microeconomics",
+        "exam-microeconomics"
+      ],
+      "keyPoints": [
+        "Questions 1–3 are multiple choice; 4–7 need written working or a graph.",
+        "Label every graph: both axes with goods and units, the curve, and every point.",
+        "Each answer explains why the wrong options are wrong."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/microeconomics/1-3-production-possibilities-curve-practice/",
+      "words": 2013,
+      "sourceFile": "src/content/ap-resources/microeconomics/1-3-production-possibilities-curve-practice.md"
+    },
+    {
+      "resourceId": "mb-ap-micro-1.3-revision-notes",
+      "title": "Production Possibilities Curve: Revision Notes (Microeconomics 1.3)",
+      "description": "One-page recap of the production possibilities curve: assumptions, efficiency, opportunity cost calculations, curve shapes and shifts versus movements, with the mistakes that cost marks.",
+      "course": "microeconomics",
+      "unit": 1,
+      "topics": [
+        "1.3"
+      ],
+      "resourceType": "revision-notes",
+      "prerequisiteResources": [
+        "mb-ap-micro-1.3-study-guide"
+      ],
+      "learningObjectives": [
+        "Recall what each region of a PPC shows and how to calculate opportunity cost",
+        "Recall what shifts a PPC and what only moves a point"
+      ],
+      "skills": [
+        "1",
+        "3"
+      ],
+      "studyMinutes": 10,
+      "difficulty": "foundation",
+      "calculator": "four-function",
+      "related": [
+        "mb-ap-micro-1.3-study-guide",
+        "mb-ap-micro-1.3-practice",
+        "mb-ap-micro-1.3-checklist"
+      ],
+      "next": "mb-ap-micro-1.3-practice",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-microeconomics"
+      ],
+      "keyPoints": [
+        "On = efficient; inside = inefficient; outside = unattainable.",
+        "Opportunity cost = amount of the other good given up ÷ amount gained.",
+        "Shift = change in resources or technology. Movement = change in choice or in employment of existing resources."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/microeconomics/1-3-production-possibilities-curve-revision-notes/",
+      "words": 467,
+      "sourceFile": "src/content/ap-resources/microeconomics/1-3-production-possibilities-curve-revision-notes.md"
+    },
+    {
+      "resourceId": "mb-ap-micro-1.3-study-guide",
+      "title": "Production Possibilities Curve: Study Guide (Microeconomics 1.3)",
+      "description": "Learn how a production possibilities curve shows scarcity, trade-offs and opportunity cost, why it bows outward, and how to tell a shift of the curve from a movement along it.",
+      "course": "microeconomics",
+      "unit": 1,
+      "topics": [
+        "1.3"
+      ],
+      "resourceType": "study-guide",
+      "prerequisites": [
+        "Scarcity and the idea of opportunity cost (Topic 1.1)",
+        "The factors of production: land, labour, capital and entrepreneurship"
+      ],
+      "learningObjectives": [
+        "Define the production possibilities curve (PPC) and state the assumptions behind it",
+        "Use a PPC to identify efficient, inefficient and unattainable combinations",
+        "Calculate opportunity cost from a PPC table or graph, for constant and increasing opportunity cost",
+        "Explain why a PPC is linear or bowed outward",
+        "Distinguish a shift of the PPC from a movement along or towards it, and explain what causes each"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "studyMinutes": 40,
+      "difficulty": "foundation",
+      "calculator": "four-function",
+      "calculatorNote": "All calculations use subtraction and division only",
+      "related": [
+        "mb-ap-micro-1.3-revision-notes",
+        "mb-ap-micro-1.3-practice",
+        "mb-ap-micro-1.3-checklist"
+      ],
+      "next": "mb-ap-micro-1.3-practice",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-microeconomics",
+        "page-microeconomics"
+      ],
+      "keyPoints": [
+        "A PPC shows every maximum combination of two goods an economy can make with fixed resources and technology, using them fully and efficiently.",
+        "On the curve = efficient; inside = inefficient (unused or misused resources); outside = unattainable for now.",
+        "Opportunity cost of one more unit of X = units of Y given up ÷ extra units of X gained.",
+        "A straight PPC means constant opportunity cost; a PPC bowed outward means increasing opportunity cost.",
+        "More or better resources, or better technology, shift the PPC outward (growth). Re-employing idle resources only moves a point towards the curve."
+      ],
+      "faqs": [
+        {
+          "question": "Is a point inside the PPC impossible?",
+          "answer": "No. A point inside is easy to reach; it is simply wasteful. The economy could have more of at least one good without giving up any of the other."
+        },
+        {
+          "question": "Why do we only use two goods?",
+          "answer": "Two goods let us draw the trade-off on a flat graph. The second good can stand for 'everything else', so the model still says something about a real economy."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/microeconomics/1-3-production-possibilities-curve-study-guide/",
+      "words": 3148,
+      "sourceFile": "src/content/ap-resources/microeconomics/1-3-production-possibilities-curve-study-guide.md"
+    },
+    {
+      "resourceId": "mb-ap-phys1-1.2-checklist",
+      "title": "Displacement, Velocity, and Acceleration: Topic Checklist (Physics 1 1.2)",
+      "description": "Specific “I can…” statements for displacement, velocity and acceleration in the algebra-based course, each linked to the guide section and practice question that tests it.",
+      "course": "physics-1",
+      "unit": 1,
+      "topics": [
+        "1.2"
+      ],
+      "resourceType": "topic-checklist",
+      "learningObjectives": [
+        "Judge which parts of Topic 1.2 are secure and which need more practice"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "studyMinutes": 10,
+      "difficulty": "foundation",
+      "related": [
+        "mb-ap-phys1-1.2-study-guide",
+        "mb-ap-phys1-1.2-practice",
+        "mb-ap-phys1-1.2-revision-notes"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-physics-1"
+      ],
+      "keyPoints": [
+        "Tick a statement only when you can do it without notes.",
+        "Each statement names the practice question that tests it."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/physics-1/1-2-displacement-velocity-acceleration-checklist/",
+      "words": 362,
+      "sourceFile": "src/content/ap-resources/physics-1/1-2-displacement-velocity-acceleration-checklist.md"
+    },
+    {
+      "resourceId": "mb-ap-phys1-1.2-practice",
+      "title": "Displacement, Velocity, and Acceleration: Practice Questions (Physics 1 1.2)",
+      "description": "Seven original Marlbridge practice questions on displacement, average and instantaneous velocity, acceleration signs and motion-detector data, with worked solutions and suggested mark points.",
+      "course": "physics-1",
+      "unit": 1,
+      "topics": [
+        "1.2"
+      ],
+      "resourceType": "practice-questions",
+      "prerequisites": [
+        "Using + and − signs for direction along one axis"
+      ],
+      "prerequisiteResources": [
+        "mb-ap-phys1-1.2-study-guide"
+      ],
+      "learningObjectives": [
+        "Calculate displacement, average velocity, average speed and average acceleration with correct signs",
+        "Estimate an instantaneous velocity from shrinking time intervals",
+        "Use the signs of velocity and acceleration to decide whether an object speeds up or slows down",
+        "Process motion-detector data into a straight-line graph and interpret its slope",
+        "Justify a claim about acceleration at an instant of zero velocity"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "studyMinutes": 45,
+      "difficulty": "mixed",
+      "calculator": "scientific",
+      "calculatorNote": "Algebra only, no calculus. g = 9.8 m/s². Give answers to 2 significant figures unless told otherwise; keep unrounded values until the last step",
+      "related": [
+        "mb-ap-phys1-1.2-study-guide",
+        "mb-ap-phys1-1.2-revision-notes",
+        "mb-ap-phys1-1.2-checklist"
+      ],
+      "next": "mb-ap-phys1-1.2-checklist",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-physics-1",
+        "page-physics-1",
+        "exam-physics-1"
+      ],
+      "keyPoints": [
+        "Questions 1–3 are multiple choice; 4–7 need written working.",
+        "Every question states its axis. Use it for every sign.",
+        "Each answer explains why the wrong options are wrong."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/physics-1/1-2-displacement-velocity-acceleration-practice/",
+      "words": 2005,
+      "sourceFile": "src/content/ap-resources/physics-1/1-2-displacement-velocity-acceleration-practice.md"
+    },
+    {
+      "resourceId": "mb-ap-phys1-1.2-revision-notes",
+      "title": "Displacement, Velocity, and Acceleration: Revision Notes (Physics 1 1.2)",
+      "description": "One-page recap of displacement, average and instantaneous velocity, and acceleration for the algebra-based course, with sign rules, assumptions and the mistakes that cost marks.",
+      "course": "physics-1",
+      "unit": 1,
+      "topics": [
+        "1.2"
+      ],
+      "resourceType": "revision-notes",
+      "prerequisiteResources": [
+        "mb-ap-phys1-1.2-study-guide"
+      ],
+      "learningObjectives": [
+        "Recall Δx = x − x₀, v_avg = Δx / Δt and a_avg = Δv_x / Δt and use them with signs",
+        "Spot the common sign and averaging errors before making them"
+      ],
+      "skills": [
+        "2"
+      ],
+      "studyMinutes": 10,
+      "difficulty": "foundation",
+      "calculator": "scientific",
+      "related": [
+        "mb-ap-phys1-1.2-study-guide",
+        "mb-ap-phys1-1.2-practice",
+        "mb-ap-phys1-1.2-checklist"
+      ],
+      "next": "mb-ap-phys1-1.2-practice",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-physics-1"
+      ],
+      "keyPoints": [
+        "State the axis first, e.g. +x to the right.",
+        "Same signs of v_x and a_x: speeding up. Opposite signs: slowing down.",
+        "Instantaneous = average over a very short interval = tangent slope."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/physics-1/1-2-displacement-velocity-acceleration-revision-notes/",
+      "words": 504,
+      "sourceFile": "src/content/ap-resources/physics-1/1-2-displacement-velocity-acceleration-revision-notes.md"
+    },
+    {
+      "resourceId": "mb-ap-phys1-1.2-study-guide",
+      "title": "Displacement, Velocity, and Acceleration: Study Guide (Physics 1 1.2)",
+      "description": "Build displacement, average and instantaneous velocity, and acceleration from first principles with algebra and graphs only, including signs, tangent slopes and limiting cases.",
+      "course": "physics-1",
+      "unit": 1,
+      "topics": [
+        "1.2"
+      ],
+      "resourceType": "study-guide",
+      "prerequisites": [
+        "Choosing an axis and using + and − signs for direction in one dimension (Topic 1.1)",
+        "Finding the slope of a straight line from two points"
+      ],
+      "learningObjectives": [
+        "Describe a change in position as a displacement Δx = x − x₀ and tell it apart from distance travelled",
+        "Calculate average velocity and average acceleration from initial and final values over a time interval",
+        "Estimate an instantaneous velocity from shrinking time intervals or from the slope of a tangent line on a position–time graph",
+        "Decide whether an object is speeding up or slowing down from the signs of v_x and a_x"
+      ],
+      "skills": [
+        "1",
+        "2"
+      ],
+      "studyMinutes": 40,
+      "difficulty": "foundation",
+      "calculator": "scientific",
+      "calculatorNote": "Algebra only; no calculus is used anywhere in this course. Where gravity appears we use g = 9.8 m/s², the value on the course equation table",
+      "related": [
+        "mb-ap-phys1-1.2-revision-notes",
+        "mb-ap-phys1-1.2-practice",
+        "mb-ap-phys1-1.2-checklist"
+      ],
+      "next": "mb-ap-phys1-1.2-practice",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-physics-1",
+        "page-physics-1"
+      ],
+      "keyPoints": [
+        "Displacement is the change in position, Δx = x − x₀. It has a sign; distance travelled does not.",
+        "Average velocity is v_avg = Δx / Δt. Average acceleration is a_avg = Δv_x / Δt.",
+        "Instantaneous velocity is the average velocity over a very short interval: the slope of the tangent line on a position–time graph.",
+        "Same signs for v_x and a_x means speeding up; opposite signs means slowing down. A negative a_x does not by itself mean slowing down.",
+        "Always state your axis first, for example \"+x to the right\". Every sign in the answer depends on it."
+      ],
+      "faqs": [
+        {
+          "question": "Is speed the same as velocity?",
+          "answer": "No. In one dimension, velocity v_x has a sign that shows direction; speed is its size, |v_x|, and is never negative. Average speed (distance ÷ time) can differ a lot from the size of the average velocity (displacement ÷ time)."
+        },
+        {
+          "question": "Does this course use calculus for instantaneous velocity?",
+          "answer": "No. This is the algebra-based course. You find instantaneous velocity by taking average velocities over smaller and smaller intervals, or by drawing a tangent line on a graph and measuring its slope."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/physics-1/1-2-displacement-velocity-acceleration-study-guide/",
+      "words": 2539,
+      "sourceFile": "src/content/ap-resources/physics-1/1-2-displacement-velocity-acceleration-study-guide.md"
+    },
+    {
+      "resourceId": "mb-ap-phys2-9.4-checklist",
+      "title": "The First Law of Thermodynamics: Topic Checklist (Physics 2 9.4)",
+      "description": "Specific “I can…” statements for the first law of thermodynamics, each linked to the guide section and practice question that shows whether you can really do it.",
+      "course": "physics-2",
+      "unit": 9,
+      "topics": [
+        "9.4"
+      ],
+      "resourceType": "topic-checklist",
+      "learningObjectives": [
+        "Judge which parts of Topic 9.4 are secure and which need more practice"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "studyMinutes": 10,
+      "difficulty": "core",
+      "related": [
+        "mb-ap-phys2-9.4-study-guide",
+        "mb-ap-phys2-9.4-practice",
+        "mb-ap-phys2-9.4-revision-notes"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-physics-2"
+      ],
+      "keyPoints": [
+        "Tick a statement only when you can do it without notes.",
+        "Each statement names the practice question that tests it."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/physics-2/9-4-first-law-of-thermodynamics-checklist/",
+      "words": 357,
+      "sourceFile": "src/content/ap-resources/physics-2/9-4-first-law-of-thermodynamics-checklist.md"
+    },
+    {
+      "resourceId": "mb-ap-phys2-9.4-practice",
+      "title": "The First Law of Thermodynamics: Practice Questions (Physics 2 9.4)",
+      "description": "Seven original Marlbridge practice questions on ΔU = Q + W, work from PV graphs, special processes and cycles, with full solutions and suggested mark points.",
+      "course": "physics-2",
+      "unit": 9,
+      "topics": [
+        "9.4"
+      ],
+      "resourceType": "practice-questions",
+      "prerequisites": [
+        "Using ΔU = Q + W with W as the work done on the gas"
+      ],
+      "prerequisiteResources": [
+        "mb-ap-phys2-9.4-study-guide"
+      ],
+      "learningObjectives": [
+        "Apply the first law with the course sign convention",
+        "Find the work done on a gas from a PV graph, including its sign",
+        "Compare isothermal and adiabatic processes using PV diagrams",
+        "Analyse each step of a cycle and the cycle as a whole"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "studyMinutes": 45,
+      "difficulty": "mixed",
+      "calculator": "scientific",
+      "calculatorNote": "R = 8.31 J/(mol·K). All gases are ideal and monatomic. Give answers to 3 significant figures unless the data justify fewer",
+      "related": [
+        "mb-ap-phys2-9.4-study-guide",
+        "mb-ap-phys2-9.4-revision-notes",
+        "mb-ap-phys2-9.4-checklist"
+      ],
+      "next": "mb-ap-phys2-9.4-checklist",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-physics-2",
+        "clar-physics-2",
+        "page-physics-2",
+        "exam-physics-2"
+      ],
+      "keyPoints": [
+        "Questions 1–4 are multiple choice; 5–7 need written working.",
+        "W always means the work done ON the gas.",
+        "Each answer explains why the wrong options are wrong."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/physics-2/9-4-first-law-of-thermodynamics-practice/",
+      "words": 2036,
+      "sourceFile": "src/content/ap-resources/physics-2/9-4-first-law-of-thermodynamics-practice.md"
+    },
+    {
+      "resourceId": "mb-ap-phys2-9.4-revision-notes",
+      "title": "The First Law of Thermodynamics: Revision Notes (Physics 2 9.4)",
+      "description": "One-page recap of internal energy, the first law ΔU = Q + W with work done on the gas, PV diagram signs, the four special processes and cycles.",
+      "course": "physics-2",
+      "unit": 9,
+      "topics": [
+        "9.4"
+      ],
+      "resourceType": "revision-notes",
+      "prerequisiteResources": [
+        "mb-ap-phys2-9.4-study-guide"
+      ],
+      "learningObjectives": [
+        "Recall ΔU = Q + W, W = −PΔV and U = (3/2)nRT with the course sign convention",
+        "Spot sign and process errors before making them"
+      ],
+      "skills": [
+        "1",
+        "2"
+      ],
+      "studyMinutes": 10,
+      "difficulty": "core",
+      "calculator": "scientific",
+      "related": [
+        "mb-ap-phys2-9.4-study-guide",
+        "mb-ap-phys2-9.4-practice",
+        "mb-ap-phys2-9.4-checklist"
+      ],
+      "next": "mb-ap-phys2-9.4-practice",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-physics-2",
+        "clar-physics-2"
+      ],
+      "keyPoints": [
+        "ΔU = Q + W, where W is the work done ON the gas.",
+        "Expansion: W < 0. Compression: W > 0. Constant volume: W = 0.",
+        "Ideal monatomic gas: U = (3/2)nRT = (3/2)PV."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/physics-2/9-4-first-law-of-thermodynamics-revision-notes/",
+      "words": 509,
+      "sourceFile": "src/content/ap-resources/physics-2/9-4-first-law-of-thermodynamics-revision-notes.md"
+    },
+    {
+      "resourceId": "mb-ap-phys2-9.4-study-guide",
+      "title": "The First Law of Thermodynamics: Study Guide (Physics 2 9.4)",
+      "description": "Build the first law from energy conservation: internal energy of an ideal gas, heating versus work, PV diagrams, the four special processes and a full cycle.",
+      "course": "physics-2",
+      "unit": 9,
+      "topics": [
+        "9.4"
+      ],
+      "resourceType": "study-guide",
+      "prerequisites": [
+        "The ideal gas law PV = nRT (Topic 9.2)",
+        "Temperature as a measure of average molecular kinetic energy (Topic 9.1)",
+        "Work as force × displacement, and conservation of energy"
+      ],
+      "learningObjectives": [
+        "Describe the internal energy of a system and of an ideal monatomic gas",
+        "Apply ΔU = Q + W with W as the work done on the gas, using the correct signs",
+        "Find the work done on a gas from the area under a PV graph and the direction of the process",
+        "Describe isochoric, isobaric, isothermal and adiabatic processes as limiting cases of the first law",
+        "Analyse a closed cycle on a PV diagram"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "studyMinutes": 45,
+      "difficulty": "core",
+      "calculator": "scientific",
+      "calculatorNote": "R = 8.31 J/(mol·K). Keep unrounded values until the final step",
+      "related": [
+        "mb-ap-phys2-9.4-revision-notes",
+        "mb-ap-phys2-9.4-practice",
+        "mb-ap-phys2-9.4-checklist"
+      ],
+      "next": "mb-ap-phys2-9.4-practice",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-physics-2",
+        "clar-physics-2",
+        "page-physics-2"
+      ],
+      "keyPoints": [
+        "The first law is energy conservation for a gas: ΔU = Q + W.",
+        "In this course W is the work done ON the gas, so W = −PΔV. Expansion gives W < 0; compression gives W > 0.",
+        "For an ideal monatomic gas U = (3/2)nRT, so U changes only when T changes.",
+        "On a PV diagram the area under the path gives |W|; the direction of the path gives the sign.",
+        "Around a closed cycle ΔU = 0, so the net Q equals minus the net W."
+      ],
+      "faqs": [
+        {
+          "question": "Some textbooks write ΔU = Q − W. Which is right?",
+          "answer": "Both are correct with their own definition of W. Those books use W for the work done BY the gas. This course defines W as the work done ON the gas, which gives ΔU = Q + W. Use the course convention on the exam and say which W you mean."
+        },
+        {
+          "question": "Does a gas have internal energy if it is not moving?",
+          "answer": "Yes. Internal energy is the kinetic energy of the particles moving randomly inside the gas, plus any potential energy between them. A gas in a stationary container still has U > 0 because its atoms move."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/physics-2/9-4-first-law-of-thermodynamics-study-guide/",
+      "words": 2350,
+      "sourceFile": "src/content/ap-resources/physics-2/9-4-first-law-of-thermodynamics-study-guide.md"
+    },
+    {
+      "resourceId": "mb-ap-physcem-8.6-checklist",
+      "title": "Gauss's Law: Topic Checklist (Physics C: E&M 8.6)",
+      "description": "Specific “I can…” statements for Gauss's law in the calculus-based course, each linked to the guide section and practice question that tests it.",
+      "course": "physics-c-electricity-and-magnetism",
+      "unit": 8,
+      "topics": [
+        "8.6"
+      ],
+      "resourceType": "topic-checklist",
+      "learningObjectives": [
+        "Judge which parts of Topic 8.6 are secure and which need more practice"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "studyMinutes": 10,
+      "difficulty": "core",
+      "related": [
+        "mb-ap-physcem-8.6-study-guide",
+        "mb-ap-physcem-8.6-practice",
+        "mb-ap-physcem-8.6-revision-notes"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-physics-c-electricity-and-magnetism"
+      ],
+      "keyPoints": [
+        "Tick a statement only when you can do it without notes.",
+        "Each statement names the practice question that tests it."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/8-6-gauss-law-checklist/",
+      "words": 332,
+      "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/8-6-gauss-law-checklist.md"
+    },
+    {
+      "resourceId": "mb-ap-physcem-8.6-practice",
+      "title": "Gauss's Law: Practice Questions (Physics C: E&M 8.6)",
+      "description": "Seven original Marlbridge practice questions on Gauss's law: flux, spheres, lines, sheets and integrated non-uniform densities, with full solutions and suggested mark points.",
+      "course": "physics-c-electricity-and-magnetism",
+      "unit": 8,
+      "topics": [
+        "8.6"
+      ],
+      "resourceType": "practice-questions",
+      "prerequisites": [
+        "Choosing a Gaussian surface by symmetry"
+      ],
+      "prerequisiteResources": [
+        "mb-ap-physcem-8.6-study-guide"
+      ],
+      "learningObjectives": [
+        "Use Gauss's law to find flux and enclosed charge",
+        "Derive E for spherical, cylindrical and planar charge distributions",
+        "Integrate a non-uniform charge density to find q_enc and E(r)",
+        "Check results using continuity and large-r limits"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "studyMinutes": 50,
+      "difficulty": "mixed",
+      "calculator": "scientific",
+      "calculatorNote": "ε₀ = 8.85 × 10⁻¹² C²/(N·m²); 1/(4πε₀) = 8.99 × 10⁹ N·m²/C². Give numerical answers to 2 or 3 significant figures",
+      "related": [
+        "mb-ap-physcem-8.6-study-guide",
+        "mb-ap-physcem-8.6-revision-notes",
+        "mb-ap-physcem-8.6-checklist"
+      ],
+      "next": "mb-ap-physcem-8.6-checklist",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-physics-c-electricity-and-magnetism",
+        "page-physics-c-electricity-and-magnetism",
+        "exam-physics-c-electricity-and-magnetism"
+      ],
+      "keyPoints": [
+        "Questions 1–3 are multiple choice; 4–7 need written working.",
+        "Questions 6 and 7 need calculus: set up the integral before you evaluate it.",
+        "Each answer explains why the wrong options are wrong."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/8-6-gauss-law-practice/",
+      "words": 1738,
+      "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/8-6-gauss-law-practice.md"
+    },
+    {
+      "resourceId": "mb-ap-physcem-8.6-revision-notes",
+      "title": "Gauss's Law: Revision Notes (Physics C: E&M 8.6)",
+      "description": "One-page recap of Gauss's law for the calculus-based course: Gaussian surfaces, standard field results, integrating non-uniform densities and the limit checks.",
+      "course": "physics-c-electricity-and-magnetism",
+      "unit": 8,
+      "topics": [
+        "8.6"
+      ],
+      "resourceType": "revision-notes",
+      "prerequisiteResources": [
+        "mb-ap-physcem-8.6-study-guide"
+      ],
+      "learningObjectives": [
+        "Recall Gauss's law and the standard fields for spheres, lines and sheets",
+        "Spot enclosed-charge and symmetry errors before making them"
+      ],
+      "skills": [
+        "2"
+      ],
+      "studyMinutes": 10,
+      "difficulty": "core",
+      "calculator": "scientific",
+      "related": [
+        "mb-ap-physcem-8.6-study-guide",
+        "mb-ap-physcem-8.6-practice",
+        "mb-ap-physcem-8.6-checklist"
+      ],
+      "next": "mb-ap-physcem-8.6-practice",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-physics-c-electricity-and-magnetism"
+      ],
+      "keyPoints": [
+        "Φ_E = ∮E·dA = q_enc/ε₀ for any closed surface.",
+        "Symmetry first: sphere, coaxial cylinder or pillbox.",
+        "Non-uniform ρ: q_enc = ∫ρ dV."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/8-6-gauss-law-revision-notes/",
+      "words": 432,
+      "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/8-6-gauss-law-revision-notes.md"
+    },
+    {
+      "resourceId": "mb-ap-physcem-8.6-study-guide",
+      "title": "Gauss's Law: Study Guide (Physics C: E&M 8.6)",
+      "description": "Calculus-based guide to Gauss's law: flux through closed surfaces, choosing Gaussian surfaces by symmetry, spheres, lines, sheets and non-uniform charge densities.",
+      "course": "physics-c-electricity-and-magnetism",
+      "unit": 8,
+      "topics": [
+        "8.6"
+      ],
+      "resourceType": "study-guide",
+      "prerequisites": [
+        "Electric flux Φ_E = ∫E·dA and the outward area vector (Topic 8.5)",
+        "Coulomb's law and the field of a point charge (Topics 8.1 and 8.3)",
+        "Integrating a function of r, and the volume elements 4πr² dr and 2πrL dr"
+      ],
+      "learningObjectives": [
+        "State Gauss's law and explain why the net flux depends only on the enclosed charge",
+        "Choose a spherical, cylindrical or planar Gaussian surface that makes the flux integral simple",
+        "Derive E(r) inside and outside a uniformly charged sphere, and for an infinite line and an infinite sheet",
+        "Integrate a non-uniform charge density to find the enclosed charge and the field",
+        "Check results with limiting cases: continuity at the surface and point-charge behaviour at large r"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "studyMinutes": 55,
+      "difficulty": "core",
+      "calculator": "scientific",
+      "calculatorNote": "ε₀ = 8.85 × 10⁻¹² C²/(N·m²), so 1/(4πε₀) = 8.99 × 10⁹ N·m²/C². Keep unrounded values until the final step",
+      "related": [
+        "mb-ap-physcem-8.6-revision-notes",
+        "mb-ap-physcem-8.6-practice",
+        "mb-ap-physcem-8.6-checklist"
+      ],
+      "next": "mb-ap-physcem-8.6-practice",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-physics-c-electricity-and-magnetism",
+        "clar-physics-c-electricity-and-magnetism",
+        "page-physics-c-electricity-and-magnetism"
+      ],
+      "keyPoints": [
+        "Gauss's law: Φ_E = ∮E·dA = q_enc/ε₀ for any closed surface.",
+        "The law is always true, but it gives E easily only when symmetry makes E constant and perpendicular (or parallel) on each part of the surface.",
+        "Use spheres for spherical symmetry, coaxial cylinders for line symmetry and pillboxes for planes.",
+        "For a non-uniform density, find q_enc by integrating ρ dV, for example dV = 4πr² dr.",
+        "Always check: E is continuous at the surface of a volume charge, and E → q/(4πε₀r²) far away."
+      ],
+      "faqs": [
+        {
+          "question": "Is Gauss's law part of Physics 2?",
+          "answer": "No. Gauss's law is in the calculus-based Physics C: Electricity and Magnetism course (Topic 8.6). The algebra-based Physics 2 course covers electric fields without Gauss's law."
+        },
+        {
+          "question": "If the net flux is zero, is the field zero on the surface?",
+          "answer": "Not necessarily. Zero net flux means zero enclosed charge. A charge outside the surface still creates a field on it; its field lines enter and leave, so their contributions to the flux cancel."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/8-6-gauss-law-study-guide/",
+      "words": 1958,
+      "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/8-6-gauss-law-study-guide.md"
+    },
+    {
+      "resourceId": "mb-ap-physcm-1.2-checklist",
+      "title": "Displacement, Velocity, and Acceleration: Topic Checklist (Physics C: Mechanics 1.2)",
+      "description": "Specific “I can…” statements for calculus-based displacement, velocity and acceleration, each linked to the guide section and practice question that tests it.",
+      "course": "physics-c-mechanics",
+      "unit": 1,
+      "topics": [
+        "1.2"
+      ],
+      "resourceType": "topic-checklist",
+      "learningObjectives": [
+        "Judge which parts of Topic 1.2 are secure and which need more practice"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "studyMinutes": 10,
+      "difficulty": "core",
+      "related": [
+        "mb-ap-physcm-1.2-study-guide",
+        "mb-ap-physcm-1.2-practice",
+        "mb-ap-physcm-1.2-revision-notes"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-physics-c-mechanics"
+      ],
+      "keyPoints": [
+        "Tick a statement only when you can do it without notes.",
+        "Each statement names the practice question that tests it."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/physics-c-mechanics/1-2-displacement-velocity-acceleration-checklist/",
+      "words": 312,
+      "sourceFile": "src/content/ap-resources/physics-c-mechanics/1-2-displacement-velocity-acceleration-checklist.md"
+    },
+    {
+      "resourceId": "mb-ap-physcm-1.2-practice",
+      "title": "Displacement, Velocity, and Acceleration: Practice Questions (Physics C: Mechanics 1.2)",
+      "description": "Seven original Marlbridge calculus-based practice questions on velocity and acceleration as derivatives, integration with initial conditions, derivations and sensor data.",
+      "course": "physics-c-mechanics",
+      "unit": 1,
+      "topics": [
+        "1.2"
+      ],
+      "resourceType": "practice-questions",
+      "prerequisites": [
+        "Differentiating and integrating polynomials"
+      ],
+      "prerequisiteResources": [
+        "mb-ap-physcm-1.2-study-guide"
+      ],
+      "learningObjectives": [
+        "Differentiate x(t) to find v_x(t) and a_x(t), and integrate a_x(t) with initial conditions",
+        "Find displacement and distance travelled from v_x(t)",
+        "Use the signs of v_x and a_x to decide whether an object speeds up or slows down",
+        "Derive the constant-acceleration equations and state their condition",
+        "Linearise sensor data for a time-dependent acceleration and extract a constant"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "studyMinutes": 50,
+      "difficulty": "mixed",
+      "calculator": "scientific",
+      "calculatorNote": "Calculus by hand; calculator for arithmetic only. g = 9.8 m/s² if needed. Give answers to 2 significant figures unless told otherwise",
+      "related": [
+        "mb-ap-physcm-1.2-study-guide",
+        "mb-ap-physcm-1.2-revision-notes",
+        "mb-ap-physcm-1.2-checklist"
+      ],
+      "next": "mb-ap-physcm-1.2-checklist",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-physics-c-mechanics",
+        "page-physics-c-mechanics",
+        "exam-physics-c-mechanics"
+      ],
+      "keyPoints": [
+        "Questions 1–3 are multiple choice; 4–7 need written working.",
+        "Every question states its axis. Polynomial coefficients carry units.",
+        "Each answer explains why the wrong options are wrong."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/physics-c-mechanics/1-2-displacement-velocity-acceleration-practice/",
+      "words": 1959,
+      "sourceFile": "src/content/ap-resources/physics-c-mechanics/1-2-displacement-velocity-acceleration-practice.md"
+    },
+    {
+      "resourceId": "mb-ap-physcm-1.2-revision-notes",
+      "title": "Displacement, Velocity, and Acceleration: Revision Notes (Physics C: Mechanics 1.2)",
+      "description": "One-page calculus recap of displacement, velocity and acceleration: derivatives, integrals with initial conditions, signed areas, and when the constant-acceleration equations apply.",
+      "course": "physics-c-mechanics",
+      "unit": 1,
+      "topics": [
+        "1.2"
+      ],
+      "resourceType": "revision-notes",
+      "prerequisiteResources": [
+        "mb-ap-physcm-1.2-study-guide"
+      ],
+      "learningObjectives": [
+        "Recall v_x = dx/dt, a_x = dv_x/dt and the integral forms with initial conditions",
+        "Spot the common calculus and sign errors in kinematics before making them"
+      ],
+      "skills": [
+        "2"
+      ],
+      "studyMinutes": 10,
+      "difficulty": "core",
+      "calculator": "scientific",
+      "related": [
+        "mb-ap-physcm-1.2-study-guide",
+        "mb-ap-physcm-1.2-practice",
+        "mb-ap-physcm-1.2-checklist"
+      ],
+      "next": "mb-ap-physcm-1.2-practice",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-physics-c-mechanics"
+      ],
+      "keyPoints": [
+        "Differentiate down: x → v_x → a_x. Integrate up, adding initial conditions.",
+        "Constant-acceleration equations only when a_x is constant.",
+        "Displacement = ∫v_x dt; distance = ∫|v_x| dt."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/physics-c-mechanics/1-2-displacement-velocity-acceleration-revision-notes/",
+      "words": 442,
+      "sourceFile": "src/content/ap-resources/physics-c-mechanics/1-2-displacement-velocity-acceleration-revision-notes.md"
+    },
+    {
+      "resourceId": "mb-ap-physcm-1.2-study-guide",
+      "title": "Displacement, Velocity, and Acceleration: Study Guide (Physics C: Mechanics 1.2)",
+      "description": "Calculus-based kinematics in one dimension: velocity and acceleration as derivatives, position and velocity by integration, non-constant acceleration, and the constant-acceleration equations derived.",
+      "course": "physics-c-mechanics",
+      "unit": 1,
+      "topics": [
+        "1.2"
+      ],
+      "resourceType": "study-guide",
+      "prerequisites": [
+        "Choosing an axis and using + and − signs for direction (Topic 1.1)",
+        "Differentiating and integrating polynomials (calculus taken before or alongside the course)"
+      ],
+      "learningObjectives": [
+        "Describe displacement, average velocity and average acceleration from initial and final states",
+        "Define instantaneous velocity and acceleration as limits of averages, v_x = dx/dt and a_x = dv_x/dt",
+        "Find v_x(t) and x(t) from a non-constant a_x(t) by integration, using initial conditions",
+        "Derive the constant-acceleration equations by integration and state when they apply",
+        "Interpret tangent slopes and signed areas on position–time and velocity–time graphs"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "studyMinutes": 45,
+      "difficulty": "core",
+      "calculator": "scientific",
+      "calculatorNote": "Exact calculus by hand; a calculator only for arithmetic. Where gravity appears we use g = 9.8 m/s², the value on the course equation table",
+      "related": [
+        "mb-ap-physcm-1.2-revision-notes",
+        "mb-ap-physcm-1.2-practice",
+        "mb-ap-physcm-1.2-checklist"
+      ],
+      "next": "mb-ap-physcm-1.2-practice",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-physics-c-mechanics",
+        "page-physics-c-mechanics"
+      ],
+      "keyPoints": [
+        "Instantaneous velocity is the limit of Δx/Δt as Δt → 0: v_x = dx/dt. Acceleration is a_x = dv_x/dt.",
+        "Going backwards needs integrals and initial conditions: v_x(t) = v_x0 + ∫a_x dt and x(t) = x₀ + ∫v_x dt.",
+        "The three constant-acceleration equations are a special case. Never use them when a_x depends on time.",
+        "Same signs of v_x and a_x: speeding up. Opposite signs: slowing down.",
+        "Displacement is ∫v_x dt; distance travelled is ∫|v_x| dt."
+      ],
+      "faqs": [
+        {
+          "question": "How is this different from the Physics 1 version of Topic 1.2?",
+          "answer": "They are separate courses. Physics 1 is algebra-based: it finds instantaneous values by shrinking intervals and drawing tangents, and does not calculate with changing acceleration. Physics C: Mechanics is calculus-based: it uses derivatives and integrals and expects you to handle acceleration that changes with time."
+        },
+        {
+          "question": "Can I always use v_x² = v_x0² + 2a_x(x − x₀)?",
+          "answer": "Only when a_x is constant. The derivation below integrates a constant a_x; if a_x changes, the result is not valid."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/physics-c-mechanics/1-2-displacement-velocity-acceleration-study-guide/",
+      "words": 2220,
+      "sourceFile": "src/content/ap-resources/physics-c-mechanics/1-2-displacement-velocity-acceleration-study-guide.md"
+    },
+    {
+      "resourceId": "mb-ap-stats-1.7-checklist",
+      "title": "Summary Statistics for One Quantitative Variable: Topic Checklist (Statistics 1.7)",
+      "description": "Specific “I can…” statements for summary statistics of one quantitative variable, each linked to the guide section and practice question that shows whether you can do it.",
+      "course": "statistics",
+      "unit": 1,
+      "topics": [
+        "1.7"
+      ],
+      "resourceType": "topic-checklist",
+      "learningObjectives": [
+        "Judge which parts of Topic 1.7 are secure and which need more practice"
+      ],
+      "skills": [
+        "3",
+        "4"
+      ],
+      "studyMinutes": 10,
+      "difficulty": "foundation",
+      "related": [
+        "mb-ap-stats-1.7-study-guide",
+        "mb-ap-stats-1.7-practice",
+        "mb-ap-stats-1.7-revision-notes"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-statistics"
+      ],
+      "keyPoints": [
+        "Tick a statement only when you can do it without notes.",
+        "Each statement names the guide section or practice question that tests it."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/statistics/1-7-summary-statistics-one-quantitative-variable-checklist/",
+      "words": 339,
+      "sourceFile": "src/content/ap-resources/statistics/1-7-summary-statistics-one-quantitative-variable-checklist.md"
+    },
+    {
+      "resourceId": "mb-ap-stats-1.7-practice",
+      "title": "Summary Statistics for One Quantitative Variable: Practice Questions (Statistics 1.7)",
+      "description": "Seven original Marlbridge practice questions on mean, median, quartiles, IQR, standard deviation, outliers, resistance and unit changes, with worked solutions and suggested rubrics.",
+      "course": "statistics",
+      "unit": 1,
+      "topics": [
+        "1.7"
+      ],
+      "resourceType": "practice-questions",
+      "prerequisites": [
+        "Ordering data and finding a median"
+      ],
+      "prerequisiteResources": [
+        "mb-ap-stats-1.7-study-guide"
+      ],
+      "learningObjectives": [
+        "Calculate quartiles, IQR, mean and sample standard deviation correctly",
+        "Apply the 1.5 × IQR and 2-standard-deviation outlier rules",
+        "Predict how outliers and unit changes affect summary statistics",
+        "Compare two distributions and justify a choice of summary statistic in context"
+      ],
+      "skills": [
+        "3",
+        "4"
+      ],
+      "studyMinutes": 45,
+      "difficulty": "mixed",
+      "calculator": "graphing",
+      "calculatorNote": "Use one-variable statistics to check your work. Use Sx (n − 1) for the standard deviation. Round final answers to 2 decimal places unless told otherwise.",
+      "related": [
+        "mb-ap-stats-1.7-study-guide",
+        "mb-ap-stats-1.7-revision-notes",
+        "mb-ap-stats-1.7-checklist"
+      ],
+      "next": "mb-ap-stats-1.7-checklist",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-statistics",
+        "page-statistics",
+        "exam-statistics"
+      ],
+      "keyPoints": [
+        "Questions 1–3 are multiple choice; 4–7 need written working.",
+        "Every interpretation must be in context, with units.",
+        "Each answer explains why the wrong options are wrong."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/statistics/1-7-summary-statistics-one-quantitative-variable-practice/",
+      "words": 2082,
+      "sourceFile": "src/content/ap-resources/statistics/1-7-summary-statistics-one-quantitative-variable-practice.md"
+    },
+    {
+      "resourceId": "mb-ap-stats-1.7-revision-notes",
+      "title": "Summary Statistics for One Quantitative Variable: Revision Notes (Statistics 1.7)",
+      "description": "One-page recap of mean, median, quartiles, percentiles, range, IQR, standard deviation, the two outlier rules, resistance and unit changes, with the mistakes that cost marks.",
+      "course": "statistics",
+      "unit": 1,
+      "topics": [
+        "1.7"
+      ],
+      "resourceType": "revision-notes",
+      "prerequisiteResources": [
+        "mb-ap-stats-1.7-study-guide"
+      ],
+      "learningObjectives": [
+        "Recall the formulas and definitions for measures of centre, position and variability",
+        "Spot the common errors in summary-statistic questions before making them"
+      ],
+      "skills": [
+        "3",
+        "4"
+      ],
+      "studyMinutes": 10,
+      "difficulty": "foundation",
+      "calculator": "graphing",
+      "calculatorNote": "Report Sx (divides by n − 1), not σx.",
+      "related": [
+        "mb-ap-stats-1.7-study-guide",
+        "mb-ap-stats-1.7-practice",
+        "mb-ap-stats-1.7-checklist"
+      ],
+      "next": "mb-ap-stats-1.7-practice",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-statistics"
+      ],
+      "keyPoints": [
+        "Order the data first.",
+        "Resistant: median and IQR. Non-resistant: mean, range and s.",
+        "Interpret every statistic in context, with units."
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/statistics/1-7-summary-statistics-one-quantitative-variable-revision-notes/",
+      "words": 528,
+      "sourceFile": "src/content/ap-resources/statistics/1-7-summary-statistics-one-quantitative-variable-revision-notes.md"
+    },
+    {
+      "resourceId": "mb-ap-stats-1.7-study-guide",
+      "title": "Summary Statistics for One Quantitative Variable: Study Guide (Statistics 1.7)",
+      "description": "Learn to calculate and interpret the mean, median, quartiles, percentiles, range, IQR and standard deviation, check for outliers two ways, and choose resistant statistics.",
+      "course": "statistics",
+      "unit": 1,
+      "topics": [
+        "1.7"
+      ],
+      "resourceType": "study-guide",
+      "prerequisites": [
+        "Ordering numbers and finding a middle value",
+        "Describing the shape, centre and variability of a dot plot or histogram (Topics 1.5 and 1.6)"
+      ],
+      "learningObjectives": [
+        "Calculate the mean, median, quartiles and percentiles of a quantitative data set, by hand and with technology",
+        "Calculate the range, interquartile range and sample standard deviation, and interpret each in context with units",
+        "Identify potential outliers with the 1.5 × IQR rule and the 2-standard-deviation rule",
+        "Explain how changing the unit of measurement changes summary statistics",
+        "Justify the choice of a resistant or non-resistant summary statistic for a given distribution"
+      ],
+      "skills": [
+        "3",
+        "4"
+      ],
+      "studyMinutes": 40,
+      "difficulty": "foundation",
+      "calculator": "graphing",
+      "calculatorNote": "Use the one-variable statistics function on a graphing calculator to check hand calculations. Report Sx (the n − 1 version), not σx.",
+      "related": [
+        "mb-ap-stats-1.7-revision-notes",
+        "mb-ap-stats-1.7-practice",
+        "mb-ap-stats-1.7-checklist"
+      ],
+      "next": "mb-ap-stats-1.7-practice",
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-statistics",
+        "page-statistics",
+        "cb-statistics-revisions"
+      ],
+      "keyPoints": [
+        "Centre: the mean x̄ = Σxᵢ / n uses every value; the median is the middle of the ordered data.",
+        "Variability: range = max − min; IQR = Q3 − Q1; the sample standard deviation s divides by n − 1.",
+        "The median and IQR are resistant to outliers; the mean, range and standard deviation are not.",
+        "Flag a potential outlier if it is more than 1.5 × IQR beyond a quartile, or more than 2 standard deviations from the mean.",
+        "Every interpretation names the variable, the context and the units."
+      ],
+      "faqs": [
+        {
+          "question": "Why does the sample standard deviation divide by n − 1 and not n?",
+          "answer": "The deviations are measured from x̄, which is itself calculated from the same data, so they are slightly too small on average. Dividing by n − 1 corrects for this. The course uses s with n − 1 throughout; on a calculator this is Sx."
+        },
+        {
+          "question": "My calculator gives a different Q1 from my textbook. Which is right?",
+          "answer": "Several quartile methods exist. This guide uses the method most graphing calculators use: split the ordered data at the median and, when n is odd, leave the median out of both halves. Show your method and the answer will be clear."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/statistics/1-7-summary-statistics-one-quantitative-variable-study-guide/",
+      "words": 2279,
+      "sourceFile": "src/content/ap-resources/statistics/1-7-summary-statistics-one-quantitative-variable-study-guide.md"
+    }
+  ]
+}

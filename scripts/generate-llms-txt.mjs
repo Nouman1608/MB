@@ -173,6 +173,16 @@ for (const file of (await readdir(authorsDir)).filter((f) => f.endsWith('.md')).
   teacherLines.push(`- [${name}](${SITE_URL}/authors/${file.replace(/\.md$/, '')}/)${role ? `: ${role}.` : ''}`);
 }
 
+// D-389 -- advanced-course (AP) library: listed only once AP_LIBRARY_PUBLIC is true
+// (src/data/ap/config.ts). Neutral wording plus the College Board attribution.
+const apConfig = await import('../src/data/ap/config.ts').catch((e) => { console.warn(`llms.txt: AP library config not read (${e.message}); AP section omitted.`); return null; });
+const apLines = [];
+if (apConfig?.AP_LIBRARY_PUBLIC) {
+  const { AP_COURSES } = await import('../src/data/ap/frameworks.ts');
+  apLines.push('', '## Advanced courses (US curriculum)', '', `- [Advanced-course study library](${SITE_URL}${apConfig.AP_LIBRARY_BASE}): original study guides, revision notes, practice and checklists mapped to the 2026-27 College Board course frameworks (May 2027 exams). ${apConfig.AP_TRADEMARK_ATTRIBUTION}`);
+  for (const c of AP_COURSES) apLines.push(`- [${c.officialName.replace(/^AP /, 'AP® ')}](${SITE_URL}${apConfig.AP_LIBRARY_BASE}${c.slug}/): ${c.units.length} units; exam ${c.examDate}.`);
+}
+
 const lines = [
   `# ${SITE_NAME}`,
   '',
@@ -216,6 +226,7 @@ const lines = [
   '## Teachers',
   '',
   ...teacherLines,
+  ...apLines,
   '',
 ];
 
