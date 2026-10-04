@@ -99,7 +99,7 @@ Is the manager correct? Show your working. **[6]**
 **(b)** 9/40 = 225/1000 = **0.225** [1]
 *Examiner insight:* "Simplest form" means fully cancelled; 35/100 on its own would not earn the mark in (a).
 
-**2.** Converts to decimals with the same places: 0.680, 0.700, 0.690, 0.695, 0.6875 [1]. Order: **17/25, 11/16, 69%, 0.695, 0.7** [1]
+**2.** Converts to decimals with the same places: 0.6800, 0.7000, 0.6900, 0.6950, 0.6875 [1]. Order: **17/25, 11/16, 69%, 0.695, 0.7** [1]
 *Examiner insight:* One mark is usually given for correct conversions even if the order slips, but the final mark needs the original values in the right order, not your decimals.
 
 **3. (a)** 72 ÷ 8 × 3 = **27** [1]

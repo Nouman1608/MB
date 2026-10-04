@@ -173,7 +173,7 @@ Tables and sample-space grids work the same way.
 
 ## Powers and roots (N6)
 
-Know the squares up to 15 × 15 (1, 4, 9, … 196, 225), the cubes 1, 8, 27, 64, 125 and 1000 = 10³, and 1 million = 10⁶. Recognise powers of 2 (2, 4, 8, 16, 32, 64, …), 3 (3, 9, 27, 81, 243), 4 (4, 16, 64, 256) and 5 (5, 25, 125, 625). Square roots have a positive and a negative value: x² = 49 gives x = 7 or x = −7.
+Know the squares up to 15 × 15 (1, 4, 9, … 196, 225), the cubes 1, 8, 27, 64, 125 and 1000 = 10³, and 1 million = 10⁶. Recognise powers of 2 (2, 4, 8, 16, 32, 64, …), 3 (3, 9, 27, 81, 243), 4 (4, 16, 64, 256) and 5 (5, 25, 125, 625). Square roots have a positive and a negative value: x² = 49 gives x = 7 or x = −7. Higher roots work the same way: the cube root of −27 is −3, the fourth root of 81 is 3 (3⁴ = 81) and the fifth root of 32 is 2 (2⁵ = 32).
 
 **Higher tier only.** Estimate a root by trapping it between known powers.
 

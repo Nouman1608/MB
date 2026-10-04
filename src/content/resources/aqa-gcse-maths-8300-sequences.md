@@ -264,7 +264,7 @@ The [Algebra revision notes](/resources/aqa-gcse-mathematics-algebra-revision-no
 - **Getting the sign of a decreasing sequence wrong.** A sequence that goes down has a negative coefficient of n.
 - **Writing n + 2 for "add 2 each time".** The term-to-term rule "+2" gives 2n + something, not n + 2.
 - **Calling 32.5 a position.** If solving gives a decimal n, the number is not in the sequence. Say so in words.
-- **Using a instead of the second difference ÷ 2.** In worked example 9 the second difference is 6, so the n² coefficient is 3, not 6.
+- **Using the whole second difference as a.** In worked example 9 the second difference is 6, so the n² coefficient is 3, not 6.
 - **Finding a geometric ratio the wrong way round.** Divide a term by the term before it, not the term after it.
 - **Turning surds into decimals too early.** 6√3 is exact; 10.39... loses marks if an exact answer is asked for.
 

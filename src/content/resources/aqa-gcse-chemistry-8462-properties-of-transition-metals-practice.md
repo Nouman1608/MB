@@ -44,9 +44,9 @@ Learn the content first in the [transition metals study guide](/resources/aqa-gc
 | Metal | Melting point / °C | Density / g/cm³ |
 |---|---|---|
 | sodium | 98 | 0.97 |
-| potassium | 63 | 0.89 |
+| potassium | 64 | 0.89 |
 | iron | 1538 | 7.87 |
-| nickel | 1455 | 8.91 |
+| nickel | 1455 | 8.90 |
 
 **(a)** Water has a density of 1.00 g/cm³. Which metals in the table would float on water? **[1]**
 **(b)** Calculate how many times as dense as sodium nickel is. Give your answer to 2 significant figures. **[2]**
@@ -122,8 +122,8 @@ Learn the content first in the [transition metals study guide](/resources/aqa-gc
 *Examiner insight:* Physical properties such as "high melting point" are 4.1.3.1 comparisons, not the 4.1.3.2 typical properties, so they score nothing here.
 
 **3. (a)** Sodium and potassium [1] (both needed).
-**(b)** 8.91 ÷ 0.97 [1] = 9.19, so **9.2** [1].
-**(c)** 1455 − 63 = **1392 °C** [1]. **[4]**
+**(b)** 8.90 ÷ 0.97 [1] = 9.18, so **9.2** [1].
+**(c)** 1455 − 64 = **1391 °C** [1]. **[4]**
 *Examiner insight:* A correct final answer usually earns full marks, but a wrong answer with the division shown can still earn the method mark, so write the calculation down.
 
 **4. (a)** **CuCl₂** [1]. **(b)** **FeO** [1]. **(c)** **Cr₂(SO₄)₃** [1]. **(d)** **Iron(II) chloride** [1]. **[4]**
@@ -135,7 +135,7 @@ Learn the content first in the [transition metals study guide](/resources/aqa-gc
 
 **6. (a)** Copper(II) sulfate: blue [1]. Iron(II) sulfate: (pale) green [1]. Potassium manganate(VII): purple [1].
 **(b)** Sodium is in Group 1, not a transition metal, so its compounds are not coloured [1]. **[4]**
-*Examiner insight:* For potassium manganate(VII), "pink" or "red" is not accepted; "purple" is the expected colour.
+*Examiner insight:* Give one colour per solution: an answer such as "blue/green" for iron(II) sulfate contradicts itself and does not score.
 
 **7. (a)** Green [1].
 **(b)** Correct formulae of products Fe(OH)₂ and Na₂SO₄ [1]; balanced: **FeSO₄ + 2NaOH → Fe(OH)₂ + Na₂SO₄** [1].

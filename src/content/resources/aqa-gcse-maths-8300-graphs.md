@@ -151,7 +151,7 @@ y = f(-x):     x changes sign -> (-2, 4)
 
 ## Graphs in real contexts and graphical solutions (A14)
 
-**Distance-time graphs:** the gradient is the speed, and a horizontal section means the object is stationary. A runner whose graph is a straight line from (0, 0) to (40 s, 200 m) runs at 200 ÷ 40 = 5 m/s. Real-context graphs can also be non-standard curves (water depth in a filling vase, temperature over a day) and, at Foundation, reciprocal graphs such as time against speed for a fixed journey. Exponential graphs in contexts such as growth are Higher tier only.
+**Distance-time graphs:** the gradient is the speed, and a horizontal section means the object is stationary. A runner whose graph is a straight line from (0, 0) to (40 s, 200 m) runs at 200 ÷ 40 = 5 m/s. Real-context graphs can also be non-standard curves (water depth in a filling vase, temperature over a day) and, on both tiers, reciprocal graphs such as time against speed for a fixed journey. Exponential graphs in contexts such as growth are Higher tier only.
 
 **Graphical solutions.** To solve an equation from a graph you already have, rearrange so one side is the plotted function, then draw the other side as a line.
 

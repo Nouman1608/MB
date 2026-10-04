@@ -28,7 +28,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover subsection 3.2.3, **Solving equations and inequalities** (A17 to A22), of the AQA GCSE Mathematics (8300) specification, for teaching from September 2015 with exams from May/June 2017 (version 1.0). Questions 1 to 6 use content for both tiers. Questions 7 to 12 are marked "(Higher)" because they use Higher tier only content: the quadratic formula, completing the square, linear/quadratic simultaneous equations, iteration, quadratic inequalities and regions. Each question says whether it is non-calculator (Paper 1 style) or calculator (Papers 2 and 3 style).
+These questions cover subsection 3.2.3, **Solving equations and inequalities** (A17 to A22), of the AQA GCSE Mathematics (8300) specification, for teaching from September 2015 with exams from May/June 2017 (version 1.0). Questions 1 to 6 and 12 use content for both tiers. Questions 7 to 11 are marked "(Higher)" because they use Higher tier only content: the quadratic formula, completing the square, linear/quadratic simultaneous equations, iteration, quadratic inequalities and regions. Each question says whether it is non-calculator (Paper 1 style) or calculator (Papers 2 and 3 style).
 
 They are different from the questions in the [Algebra practice questions](/resources/aqa-gcse-mathematics-algebra-practice/), so you can use both. Learn the content first in the [study guide](/resources/aqa-gcse-maths-8300-solving-equations-and-inequalities/) and the [revision notes](/resources/aqa-gcse-maths-8300-solving-equations-and-inequalities-revision-notes/). The course hub is [AQA GCSE Mathematics](/boards/aqa/gcse/mathematics/) and the [printable checklist](/checklists/aqa/gcse/mathematics/) lists every statement.
 
@@ -85,7 +85,7 @@ y = x² − 3x + 5 **[5]**
 (i) Which boundary line should be drawn dashed? **[1]**
 (ii) Does the point (5, 4) lie in R? Give a reason. **[1]**
 
-**12.** (calculator) (Higher) A right-angled triangle has sides of length x cm, (x + 7) cm and (x + 8) cm. The longest side is the hypotenuse.
+**12.** (calculator) A right-angled triangle has sides of length x cm, (x + 7) cm and (x + 8) cm. The longest side is the hypotenuse.
 
 **(a)** Show that x² − 2x − 15 = 0. **[3]**
 **(b)** Solve the equation and work out the perimeter of the triangle. **[3]**

@@ -166,13 +166,13 @@ For the rectangle: to 1 s.f. both bounds round to 20; to 2 s.f. they are 21 and 
 
 1. Convert 4.5 cm² to mm².
 2. Convert 3750 cm³ to litres.
-3. Write 2 hours 48 minutes in hours, as a decimal.
-4. Round 0.07049 to 2 significant figures.
-5. Round 349 500 to 2 significant figures.
+3. Write 3 hours 36 minutes in hours, as a decimal.
+4. Round 0.30219 to 2 significant figures.
+5. Round 64 970 to 2 significant figures.
 6. Estimate 397 × 0.512 ÷ 19.6.
-7. Write the error interval for y = 14.7, rounded to 1 decimal place.
-8. w = 9.2, truncated to 1 decimal place. Write the error interval.
-9. n = 5000 to the nearest 100. Write the error interval.
+7. Write the error interval for y = 23.6, rounded to 1 decimal place.
+8. w = 4.7, truncated to 1 decimal place. Write the error interval.
+9. n = 2800 to the nearest 100. Write the error interval.
 10. A rope is 12 m to the nearest metre. A hook can hold a rope up to 12.4 m long. Can you be sure the rope is short enough?
 11. (Higher) a = 7.4 and b = 2.6, both to 1 d.p. Find the upper bound of a − b.
 12. (Higher) Using the same a and b, find the upper bound of a ÷ b to 3 s.f.
@@ -181,13 +181,13 @@ For the rectangle: to 1 s.f. both bounds round to 20; to 2 s.f. they are 21 and 
 
 1. 4.5 × 100 = **450 mm²**
 2. 3750 ÷ 1000 = **3.75 litres**
-3. 48 ÷ 60 = 0.8, so **2.8 hours**
-4. **0.070**
-5. **350 000**
+3. 36 ÷ 60 = 0.6, so **3.6 hours**
+4. **0.30**
+5. **65 000**
 6. 400 × 0.5 ÷ 20 = **10** (the exact value is 10.37...)
-7. **14.65 ≤ y < 14.75**
-8. **9.2 ≤ w < 9.3**
-9. **4950 ≤ n < 5050**
+7. **23.55 ≤ y < 23.65**
+8. **4.7 ≤ w < 4.8**
+9. **2750 ≤ n < 2850**
 10. 11.5 ≤ length < 12.5. The rope could be longer than 12.4 m (for example 12.45 m), so **no, you cannot be sure**.
 11. 7.45 − 2.55 = **4.9**
 12. 7.45 ÷ 2.55 = 2.9215... = **2.92**

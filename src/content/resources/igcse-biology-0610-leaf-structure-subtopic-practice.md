@@ -28,7 +28,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 6.2, Leaf structure, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. They test outcomes 6.2.1 (leaf shape), 6.2.2 (identifying leaf tissues) and 6.2.3 (how each tissue adapts the leaf for photosynthesis). All of 6.2 is Core, so every candidate needs it. One part, marked **(Extended)**, uses the Supplement skill of converting millimetres to micrometres from section 2.3.
+These questions cover section 6.2, Leaf structure, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. They test outcomes 6.2.1 (leaf shape), 6.2.2 (identifying leaf tissues) and 6.2.3 (how each tissue adapts the leaf for photosynthesis). All of 6.2 is Core, so every candidate needs it. One part, marked **(Extended)**, uses the Supplement skill of converting millimetres to micrometres from section 2.2.
 
 The topic-level [plant nutrition practice questions](/resources/igcse-biology-plant-nutrition-practice/) cover photosynthesis itself. For the teaching, use the [plant nutrition study guide](/resources/igcse-biology-0610-plant-nutrition/) and the [plant nutrition revision notes](/resources/igcse-biology-0610-plant-nutrition-revision-notes/). Course pages: [Cambridge IGCSE Biology hub](/boards/cambridge/igcse/biology/) and [Biology checklist](/checklists/cambridge/igcse/biology/). Whole-course check: [Core diagnostic](/practice/0610/diagnostic/core/) or [Extended diagnostic](/practice/0610/diagnostic/extended/).
 
@@ -208,4 +208,4 @@ Other correct structure-plus-function points are also credited.
 
 ## Official syllabus
 
-Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028, published by Cambridge Assessment International Education (Cambridge University Press & Assessment). Topic 6, Plant nutrition, section 6.2, Leaf structure (Core outcomes 1 to 3). The unit conversion in question 8(b) is Supplement outcome 2.3.3.
+Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028, published by Cambridge Assessment International Education (Cambridge University Press & Assessment). Topic 6, Plant nutrition, section 6.2, Leaf structure (Core outcomes 1 to 3). The unit conversion in question 8(b) is Supplement outcome 2.2.3.

@@ -163,7 +163,7 @@ Learn the content first in the [Graphs study guide](/resources/aqa-gcse-maths-83
 **10. (a)** 6 km in 20 minutes [1]; 6 × 3 = **18 km/h** [1]
 **(b)** 6 km in 30 minutes (09:45 to 10:15) [1]; 6 × 2 = **12 km/h** [1]
 **(c)** A **horizontal line**: she is **stationary** at the park [1]
-*Examiner insight:* Dividing 6 by 20 and giving 0.3 earns the method mark only when km/h is asked; the time must be converted to hours.
+*Examiner insight:* Dividing 6 by 20 and giving 0.3 (km per minute) earns only the method mark when km/h is asked; the time must be converted to hours.
 
 **11. (a)** Strip width 5 [1]; area = (5/2) × [0 + 2(5.25 + 9 + 11.25) + 12] [1] = 2.5 × 63 = **157.5 m** [1]
 **(b)** **Underestimate**: the curve bends downwards, so the tops of the trapezia lie below the curve [1]

@@ -55,7 +55,7 @@ Useful data (given in questions, not to memorise):
 
 | | Li | Na | K | Cr | Fe | Cu |
 |---|---|---|---|---|---|---|
-| Melting point / °C | 181 | 98 | 63 | 1907 | 1538 | 1085 |
+| Melting point / °C | 181 | 98 | 64 | 1907 | 1538 | 1085 |
 | Density / g/cm³ | 0.53 | 0.97 | 0.89 | 7.15 | 7.87 | 8.96 |
 
 ### Equations to have ready
@@ -73,7 +73,7 @@ Useful data (given in questions, not to memorise):
 3. If data are given, quote a figure for each metal or work out a difference or ratio.
 4. Move to the next property. Do not repeat the same property in different words.
 
-**Small reminder.** "Compare chromium and potassium (melting point)." Chromium's melting point is far higher: 1907 − 63 = 1844 °C higher. That is one property, compared and backed by data.
+**Small reminder.** "Compare chromium and potassium (melting point)." Chromium's melting point is far higher: 1907 − 64 = 1843 °C higher. That is one property, compared and backed by data.
 
 ## 4.1.3.2 Typical properties
 
@@ -115,7 +115,7 @@ Many transition elements:
 | potassium dichromate | orange |
 | potassium manganate(VII) | purple |
 | hydrated cobalt(II) chloride | pink |
-| nickel(II) sulfate | green |
+| nickel(II) sulfate | blue-green |
 
 Link to chemical analysis (4.8.3.2): with sodium hydroxide solution, copper(II) gives a **blue** precipitate, iron(II) **green**, iron(III) **brown**. The colour tells you the charge on the iron ion. More in the [Chemical analysis revision notes](/resources/aqa-gcse-chemistry-8462-chemical-analysis-revision-notes/).
 
@@ -178,7 +178,7 @@ Exam questions often give a use and ask which property explains it. Match the us
 8. **Iron(III)**, Fe³⁺.
 9. **2Fe + 3Br₂ → 2FeBr₃**.
 10. **Iron**.
-11. Copper does not react with water; potassium reacts vigorously with water. Copper has a high melting point and is strong; potassium is soft and melts at 63 °C.
+11. Copper does not react with water; potassium reacts vigorously with water. Copper has a high melting point and is strong; potassium is soft and melts at 64 °C.
 12. **False**: the specification says **many** transition elements have these properties, not all.
 
 ## Where marks are usually lost

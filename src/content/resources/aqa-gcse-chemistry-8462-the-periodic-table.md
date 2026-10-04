@@ -102,8 +102,8 @@ eka-silicon, below silicon. Germanium was later found to fill that gap.
 | Oxide | a dioxide | GeO₂, a dioxide |
 
 ```
-Mass:    (72.6 - 72) / 72.6 x 100 = 0.9% difference
-Density: (5.5 - 5.32) / 5.32 x 100 = 3.3% difference
+Mass:    (72.6 - 72) / 72.6 x 100 = 0.8% difference
+Density: (5.5 - 5.32) / 5.32 x 100 = 3.4% difference
 ```
 
 The predictions are close and the oxide formula matches. A prediction made before a discovery that turns out

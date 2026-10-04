@@ -161,7 +161,7 @@ Learn the content first in the [study guide](/resources/aqa-gcse-maths-8300-stru
 *Examiner insight:* 24 × 10⁻⁵ is correct in value but not in standard form, so it earns the method mark only.
 
 **11. (a)** **0.00456** [1]
-**(b)** 9.38 × 10¹¹ ÷ 6.7 × 10⁷ = 14 000 [1] = **£1.4 × 10⁴** [1]
+**(b)** (9.38 × 10¹¹) ÷ (6.7 × 10⁷) = 14 000 [1] = **£1.4 × 10⁴** [1]
 **(c)** 3 cm = 0.03 m (or 3 × 10⁻² m) [1]; 0.03 ÷ (1.2 × 10⁻⁷) [1] = **2.5 × 10⁵** [1]
 *Examiner insight:* In (c) the units must match before dividing; using 3 instead of 0.03 gives 2.5 × 10⁷ and keeps only the division method mark.
 

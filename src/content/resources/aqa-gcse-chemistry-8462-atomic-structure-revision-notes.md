@@ -172,7 +172,7 @@ Worked reminder: ²⁴₁₂Mg²⁺ has 12 protons, 24 - 12 = 12 neutrons and 12
 | Neutrons in an isotope | mass number - atomic number |
 
 Ar is an **average** that takes account of the abundance of each isotope, so it is usually not a whole number and
-always lies between the lightest and heaviest isotope masses, nearest the most abundant one.
+always lies between the lightest and heaviest isotope masses; with two isotopes it is nearer the more abundant one.
 
 **Worked reminder with three isotopes.** Silicon is 92% silicon-28, 5% silicon-29 and 3% silicon-30.
 

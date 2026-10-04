@@ -91,12 +91,15 @@ For explanations, read the [coordination and response study guide](/resources/ig
 **(c)** A layer of cells filled with lipid, below the deeper layer of the skin. **[1]**
 **(d)** Nerve endings that detect a rise or fall in temperature. **[1]**
 **(e)** Cells that carry impulses from these nerve endings to the central nervous system. **[1]**
+**(f)** Strands growing out of the skin that can be raised. **[1]**
+**(g)** Tubes that widen or narrow to change blood flow near the surface. **[1]**
 
 **9.** *(Extended)* A cyclist rides hard for 1.5 hours on a hot day. Her body mass falls by 1.35 kg, almost all of it as sweat.
 
 **(a)** Calculate her mean rate of mass loss in grams per minute. Show your working. **[2]**
 **(b)** Explain how sweating, and the arterioles supplying her skin surface capillaries, help to stop her body temperature rising. **[4]**
 **(c)** Later, in a cold wind, her core temperature starts to fall. Describe three ways her body responds. **[3]**
+**(d)** Describe the role of the brain in this control. **[2]**
 
 **10.** A student placed five bean seedlings in a box lit through a slit on one side. After three days every shoot had bent towards the slit, by these angles from vertical: 34°, 29°, 38°, 31° and 28°.
 
@@ -111,7 +114,7 @@ For explanations, read the [coordination and response study guide](/resources/ig
 **(a)** Explain how auxin causes the shoot to bend towards the light. **[4]**
 **(b)** In an investigation, 63% of the auxin collected below a shoot tip lit from one side came from the shaded side and 37% from the lit side. Calculate the ratio of auxin on the shaded side to auxin on the lit side. Give your answer to 2 significant figures. **[1]**
 **(c)** The shoot tip of a second seedling is cut off before it is lit from one side. Predict what happens to this shoot, and explain your prediction. **[2]**
-**(d)** Phototropism and gravitropism of a shoot are described as examples of the chemical control of plant growth. State why. **[1]**
+**(d)** Explain why phototropism and gravitropism of a shoot are examples of the chemical control of plant growth. **[2]**
 
 ## Answers
 
@@ -173,13 +176,17 @@ For explanations, read the [coordination and response study guide](/resources/ig
 
 **(e)** **Sensory neurones** [1].
 
+**(f)** **Hairs** [1]. **(g)** **Blood vessels** (arterioles) [1].
+
 *Examiner insight:* Use the syllabus names; "nerve" for (e) is not specific enough when the question asks which cells carry impulses to the central nervous system.
 
 **9. (a)** 1.35 kg = 1350 g; 1.5 hours = 90 minutes [1]. 1350 ÷ 90 = **15 g per minute** [1].
 
 **(b)** Sweat glands release sweat onto the skin [1]; evaporation of sweat removes heat [1]. Arterioles supplying skin surface capillaries widen (vasodilation) [1], so more blood flows near the surface and more heat is lost [1].
 
-**(c)** Any three of: vasoconstriction of arterioles, so less blood flows near the skin surface; shivering, as muscle contractions release heat from respiration; hair erector muscles contract so hairs trap insulating air; fatty tissue insulates. One mark each [1] [1] [1].
+**(c)** Any three of: vasoconstriction of arterioles, so less blood flows near the skin surface; shivering, as muscle contractions release heat from respiration; hair erector muscles contract so hairs trap insulating air; less sweat is secreted. One mark each [1] [1] [1].
+
+**(d)** The brain receives impulses from temperature receptors and compares body temperature with the set point [1]; it sends impulses to effectors such as sweat glands, muscles and arterioles [1].
 
 *Examiner insight:* Capillaries that "dilate" or "move nearer the surface" earn nothing; the marks are for arterioles widening or narrowing.
 
@@ -201,7 +208,7 @@ For explanations, read the [coordination and response study guide](/resources/ig
 
 **(c)** The shoot does not bend (and grows very little) [1], because auxin is made in the shoot tip, so none is produced [1].
 
-**(d)** The growth response is controlled by a chemical, auxin [1].
+**(d)** The growth response is controlled by a chemical, auxin [1], which is unequally distributed in response to light or gravity, causing unequal cell elongation [1].
 
 *Examiner insight:* In (a), "light destroys auxin" is not credited; the safe wording is that more auxin is found on the shaded side.
 
@@ -209,16 +216,10 @@ For explanations, read the [coordination and response study guide](/resources/ig
 
 - Describing a hormone without all three parts: made by a gland, carried by the blood, acting on target organs.
 - Comparing nervous and hormonal control on anything other than speed of action and duration of effect.
-- Mixing up glucose, glycogen and glucagon, or saying a hormone does the converting instead of the liver.
-- Explaining negative feedback with no mention of a set point.
-- Writing that capillaries dilate, constrict or move, instead of arterioles widening or narrowing.
-- Not converting hours to minutes or kilograms to grams.
-- Saying auxin moves towards the light; it collects on the shaded side.
+- Confusing glucagon with glycogen.
 
 ## Next steps
 
-- Recap with the [coordination and response revision notes](/resources/igcse-biology-0610-coordination-and-response-revision-notes/).
-- Re-read the [coordination and response study guide](/resources/igcse-biology-0610-coordination-and-response/).
 - Practise nerves, reflexes and the eye with the [14.1 and 14.2 practice questions](/resources/igcse-biology-coordination-response-practice/).
 - Take the [0610 Core diagnostic](/practice/0610/diagnostic/core/) or [0610 Extended diagnostic](/practice/0610/diagnostic/extended/).
 - Browse the [Cambridge IGCSE Biology hub](/boards/cambridge/igcse/biology/) and tick off the [printable checklist](/checklists/cambridge/igcse/biology/).

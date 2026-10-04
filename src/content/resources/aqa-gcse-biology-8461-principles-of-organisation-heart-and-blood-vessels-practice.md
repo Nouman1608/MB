@@ -125,7 +125,7 @@ oxygen to a muscle cell in the arm. **[5]**
 **3. (a)** **Left atrium** [1]
 **(b)** **Pulmonary artery** [1]
 **(c)** **Coronary arteries** [1]
-*Examiner insight:* Each answer must name the side; "atrium" alone, or "pulmonary vein" for (b), scores zero.
+*Examiner insight:* In (a) the side must be named, so "atrium" alone scores zero; in (b) "pulmonary vein" or a bare "artery" scores zero.
 
 **4.** The left ventricle pumps blood around the whole body [1]; the right ventricle pumps blood only to the lungs, so the left side needs more muscle to pump at higher pressure [1]
 *Examiner insight:* "Because it pumps harder" is too vague for credit; link the thicker wall to the greater distance (whole body) or higher pressure.

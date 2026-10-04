@@ -15186,3 +15186,26 @@ Validation:
 - The branch is pushed only. The owner merges, as with D-381 unless told otherwise.
 - `reviewStatus` and `reviewer` are untouched on every new page.
 - The "Marlbridge unfinished drafts - 0457 Global Perspectives" folder in OneDrive Papers 2025 could not be deleted: the connected folder on desktop-dbja8vd was not reachable (path not found). The owner can delete it directly.
+
+## D-383 -- Subtopic-depth gaps closed for 8462, 8300, 0610 and 8461 (branch `subtopic-depth-gaps`, 4 Oct 2026, 14:39 PKT)
+
+**Request.** The owner asked (4 Oct, 14:22 PKT) to fill the subtopic coverage gaps in AQA GCSE Chemistry 8462, AQA GCSE Maths 8300, Cambridge IGCSE Biology 0610 and AQA GCSE Biology 8461 first.
+
+**What was added (51 new pages, 19 units).** Each unit has a study guide, revision notes and a practice set, except 0610, which only needed practice sets.
+- **8462:** 4.1.1 atomic structure, 4.1.2 the periodic table, 4.1.3 transition metals, 4.2.1.1+4.2.1.3 chemical bonds and ionic compounds, 4.2.1.4+4.2.1.5 covalent and metallic bonding. (HT only) content is labelled "Higher tier only".
+- **8300:** 3.1.1 structure and calculation, 3.1.2 fractions, decimals and percentages, 3.1.3 measures and accuracy, 3.2.1 notation, vocabulary and manipulation, 3.2.2 graphs, 3.2.3 solving equations and inequalities, 3.2.4 sequences. Content from the spec's "Higher content only" column is labelled "Higher tier only"/"(Higher)". Every practice question is labelled (non-calculator) or (calculator).
+- **0610 (practice sets only):** 6.2 leaf structure, 14.3–14.5 hormones, homeostasis and tropic responses, 16.5–16.6 sex hormones and STIs. Supplement content is labelled "(Extended)".
+- **8461:** 4.1.1 cell structure (required practicals 1 and 2), 4.1.2 cell division, 4.1.3 transport in cells (required practical 3), 4.2.1+4.2.2.2 principles of organisation and the heart and blood vessels.
+
+**Process.** Same as D-382: one writer per unit (`/home/claude/gaps/jobs2/`), then an independent verifier per unit (`/home/claude/gaps/VERIFY_GAPS.md`) that re-derived every number, mapped every learning outcome and checked tier labels, marks and originality. Six verifiers passed the unit unchanged; thirteen made fixes, including:
+- **Facts and numbers:** K melting point 63.5 °C (rounds to 64), Mn/Co/Ni densities aligned to the RSC table, nickel(II) sulfate "blue-green"; germanium prediction percentages (0.8%, 3.4%); Ar "nearest the most abundant isotope" limited to two-isotope cases; an unconfirmed "10–100 μm" cell-size figure replaced with a sourced comparison; the 0610 leaf page's syllabus reference corrected to 2.2.3.
+- **Labels and maths wording:** an 8300 practice question wrongly labelled (Higher); reciprocal graphs are on both tiers; brackets added to a standard-form division; decimals padded consistently.
+- **Coverage and originality:** 0610 14.4/14.5 outcomes that had no question (role of the brain, hairs and blood vessels in skin, auxin and gravity) were added; a familiar "consecutive odd squares" proof was replaced; self-test items that repeated worked numbers were changed.
+- **Existing page fix:** `aqa-gcse-biology-cell-biology-revision-notes` said stem-cell "uses include treating diabetes and paralysis"; it now follows the spec ("may in future help treat").
+
+**Validation (4 Oct 2026, 14:39 PKT).** `validate:academic` PASS; `check:duplicate-scope` PASS; `npm run build` OK; `audit:all` PASS; `validate-review-integrity` PASS; `check_new.py` OK on all 51 new files. `content-gap-report.md` regenerated: 8462 (8/8), 8300 (7/7), 0610 (61/61) and 8461 (6/6) subtopics now have every type. The remaining gaps are MYP Sciences and MYP I&S (framework topics), then 0620 (3 subtopics), 9709 (2) and 8463 (1).
+
+**Not done / owner decisions.**
+- The branch is pushed only. The owner merges D-382 and D-383 together.
+- `reviewStatus` and `reviewer` are untouched on every new page.
+- A verifier noted that the existing `igcse-biology-plant-nutrition-practice` page names the June 2024 Paper 42 and paraphrases its examiner report with a source link. That came from the earlier examiner-report work and was left unchanged; the owner can decide whether it stays.

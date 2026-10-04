@@ -285,13 +285,14 @@ Sum = 3n + 3 = 3(n + 1)
 
 A proof must work for **every** case, so testing examples never counts. Useful forms: an even number is 2n, an odd number is 2n + 1, and consecutive odd numbers are 2n − 1 and 2n + 1.
 
-**Worked example.** Prove that the difference between the squares of two consecutive odd numbers is a multiple of 8.
+**Worked example.** Prove that the difference between the squares of two odd numbers that differ by 4 is a multiple of 8.
 
 ```
-(2n + 1)² − (2n − 1)²
-= (4n² + 4n + 1) − (4n² − 4n + 1)
-= 8n
-8n = 8 × n, and n is an integer, so the difference is a multiple of 8.
+Let the odd numbers be 2n − 1 and 2n + 3
+(2n + 3)² − (2n − 1)²
+= (4n² + 12n + 9) − (4n² − 4n + 1)
+= 16n + 8 = 8(2n + 1)
+2n + 1 is an integer, so the difference is a multiple of 8.
 ```
 
 The final sentence, linking the algebra to the claim, is part of the proof.

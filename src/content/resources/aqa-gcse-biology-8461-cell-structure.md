@@ -58,7 +58,7 @@ You need the prefixes centi, milli, micro and nano.
 
 Each step from mm to μm to nm is a factor of 1000: multiply going to the smaller unit, divide going to the larger.
 
-Most bacteria are a few micrometres across or less; plant and animal cells are typically 10 to 100 μm.
+Most bacteria are a few micrometres across or less; a plant or animal cell can be up to about 100 times wider than a typical bacterium.
 
 An **order of magnitude** is a factor of 10. Two sizes that differ by a factor of 100 (10²) differ by two orders of magnitude.
 

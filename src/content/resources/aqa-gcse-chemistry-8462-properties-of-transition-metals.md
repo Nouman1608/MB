@@ -48,18 +48,18 @@ The six named elements are the ones to learn: **chromium (Cr), manganese (Mn), i
 | Strength | Weak | Strong |
 | Hardness | Soft; can be cut with a knife | Hard |
 
-Data for the named elements (melting points rounded to the nearest degree, densities to 2 decimal places):
+Data for the named elements (values from the Royal Society of Chemistry periodic table, melting points rounded to the nearest degree):
 
 | Element | Melting point / °C | Density / g/cm³ |
 |---|---|---|
 | Lithium (Li) | 181 | 0.53 |
 | Sodium (Na) | 98 | 0.97 |
-| Potassium (K) | 63 | 0.89 |
+| Potassium (K) | 64 | 0.89 |
 | Chromium (Cr) | 1907 | 7.15 |
-| Manganese (Mn) | 1246 | 7.21 |
+| Manganese (Mn) | 1246 | 7.3 |
 | Iron (Fe) | 1538 | 7.87 |
-| Cobalt (Co) | 1495 | 8.90 |
-| Nickel (Ni) | 1455 | 8.91 |
+| Cobalt (Co) | 1495 | 8.86 |
+| Nickel (Ni) | 1455 | 8.90 |
 | Copper (Cu) | 1085 | 8.96 |
 
 You will not be asked to recall these numbers, but you may be given data like this to describe or compare. Strength and hardness are why iron (as steel) is used for structures and tools; sodium is soft enough to cut with a knife and reacts with water, so it could never be used that way.
@@ -161,7 +161,7 @@ Compounds of Group 1 metals are white solids that dissolve to give colourless so
 | Chromium | potassium dichromate | orange |
 | Manganese | potassium manganate(VII) | purple |
 | Cobalt | hydrated cobalt(II) chloride | pink |
-| Nickel | nickel(II) sulfate | green |
+| Nickel | nickel(II) sulfate | blue-green |
 
 The colour often depends on the ion's charge. Iron(II) and iron(III) compounds are different colours. This is used in chemical analysis (section 4.8.3.2): adding sodium hydroxide solution gives a **blue** precipitate with copper(II) ions, a **green** precipitate with iron(II) ions and a **brown** precipitate with iron(III) ions. For example:
 

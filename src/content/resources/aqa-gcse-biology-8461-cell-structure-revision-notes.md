@@ -30,7 +30,7 @@ When you are ready, test yourself with the [Cell structure practice questions](/
 
 | | Eukaryotic (plant, animal) | Prokaryotic (bacteria) |
 |---|---|---|
-| Size | Larger, typically 10 to 100 μm | Much smaller, a few μm or less |
+| Size | Larger; can be up to about 100 times wider | Much smaller, a few μm or less |
 | Genetic material | Enclosed in a **nucleus** | **Single DNA loop**, not in a nucleus |
 | Plasmids | No | May have one or more small rings of DNA |
 | Cell membrane and cytoplasm | Yes | Yes |
