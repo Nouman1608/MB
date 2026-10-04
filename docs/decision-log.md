@@ -15129,3 +15129,98 @@ Validation:
 **Not done / owner decisions.**
 - Branch pushed only; the owner merges.
 - `reviewStatus` and `reviewer` are untouched on every new page; only the owner assigns them.
+
+## D-382 -- Subtopic-depth gaps closed for 0580, 9700, 4MA1, 4CH1 and 4BI1 (branch `subtopic-depth-gaps`, 4 Oct 2026, 11:43 PKT)
+
+**Context.** On 4 Oct the owner said to merge the D-381 sprint (done: main fast-forwarded to b227f617) and to "fill the older gaps": the five largest subtopic-depth gaps in `content-gap-report.md`. Before this sprint, these subtopics had no study guide, revision notes or practice set mapped to them exactly; they were covered only by topic-level pages.
+
+| Syllabus | Subtopics fully covered, before | After |
+|---|---|---|
+| 0580 | 29 / 72 | 72 / 72 |
+| 9700 | 18 / 44 | 44 / 44 |
+| 4MA1 | 17 / 36 | 36 / 36 |
+| 4CH1 | 1 / 17 | 17 / 17 |
+| 4BI1 | 1 / 12 | 12 / 12 |
+
+**What was added.** 73 units, 152 pages. Only the missing types were written for each subtopic; existing pages were read, linked and not repeated. Each unit's pages are tagged at topic level plus exact subtopic level.
+- **0580:**
+  - 25 subtopic study guides, covering 1.2–1.7, 1.9, 1.12, 1.14–1.18, 2.1–2.4, 2.8–2.11, 2.13, 3.1–3.2, 4.1–4.3, 4.5, 4.8, 5.1–5.2, 5.4, 6.1, 6.3–6.4, 7.2–7.3, 8.1–8.2, 9.1–9.2, 9.4 and 9.6.
+  - Practice sets for 1.3/1.7, 2.9 and 2.10/2.11.
+  - Revision notes for 1.9/1.14.
+  - Core/Extended and non-calculator/calculator labels are taken from the C/E columns.
+- **9700:**
+  - Full units for 1.1, 1.2, 2.1, 2.2, 2.3, 2.4, 3.1 and 3.2.
+  - Subtopic practice sets for topics 4, 8, 10, 11, 12, 14, 15 and 16, written as new questions beside the existing topic-level sets.
+  - Stage AS for topics 1–11 and A for 12–16.
+- **4MA1:** 12 full units across 1.1–1.11 and 2.1–2.8. "Higher tier only" is used only where the content appears only in the Higher tier list.
+- **4CH1:**
+  - Full units for 1a/1b, 1c/1d, 1f–1h, 1i and 2e.
+  - Study guides and revision notes for 1e, 2a/2b, 2c, 2f/2g and 2h; practice sets already existed for these.
+  - "Paper 2 only" on bold C statements.
+- **4BI1:**
+  - Full units for 2a/2c, 2d, 2e, 2f, 2g, 2h, 2i, 2j, 3a and 3b.
+  - "Paper 2 only" on bold B statements.
+
+**Process.**
+- Writers followed `/home/claude/sprint/BRIEF.md` and `BRIEF_CORE.md` with sprint overrides: 1,500–2,100 words per page, every number checked in Python, original questions, author `marlbridge-academic-team`, no reviewer fields and no resource counts.
+- Every unit was then checked by a separate verifier against `/home/claude/gaps/VERIFY_GAPS.md`. The verifier:
+  - re-derived every number independently;
+  - mapped each learning outcome of the subtopic to where it is taught;
+  - checked tier and paper labels against the official text;
+  - checked mark sums and originality.
+- About 40 verifiers made fixes. Examples:
+  - **Corrections:** 0580 functions (a wrong expansion), 0580 trigonometric functions (method for a negative calculator angle), 0580 symmetry (cube and tetrahedron exceptions), 0580 graphs (a range that excluded an answer), 4MA1 inequalities (an intercept), 4CH1 acids (79.9% shown as 80.0%), 9700 heart ("apex upwards"), 9700 χ² (critical value standardised to 7.82).
+  - **Added material:** questions for outcomes that had none (9700 immunity, respiration, homeostasis, control and coordination, membranes, inheritance, infectious diseases (malaria transmission), transport in mammals).
+  - **Wording:** one named exam series removed (4BI1 transport), and descriptions that could read as counts were reworded.
+
+**Validation (4 Oct 2026, 11:43 PKT).**
+- `npm run validate:academic` PASS.
+- `npm run check:duplicate-scope` PASS.
+- `npm run build` OK.
+- `npm run audit:all` PASS.
+- `validate-review-integrity` PASS.
+- `check_new.py` OK on all 152 new files, and all 73 writer number scripts run cleanly.
+- `content-gap-report.md` regenerated: all five syllabuses now report full subtopic coverage. The largest remaining gaps are MYP Sciences and MYP I&S (framework topics), then 8462, 8300, 0610, 8461, 0620, 9709 and 8463 subtopic depth.
+
+**Not done / owner decisions.**
+- The branch is pushed only. The owner merges, as with D-381 unless told otherwise.
+- `reviewStatus` and `reviewer` are untouched on every new page.
+- The "Marlbridge unfinished drafts - 0457 Global Perspectives" folder in OneDrive Papers 2025 could not be deleted: the connected folder on desktop-dbja8vd was not reachable (path not found). The owner can delete it directly.
+
+## D-383 -- Subtopic-depth gaps closed for 8462, 8300, 0610 and 8461 (branch `subtopic-depth-gaps`, 4 Oct 2026, 14:39 PKT)
+
+**Request.** The owner asked (4 Oct, 14:22 PKT) to fill the subtopic coverage gaps in AQA GCSE Chemistry 8462, AQA GCSE Maths 8300, Cambridge IGCSE Biology 0610 and AQA GCSE Biology 8461 first.
+
+**What was added (51 new pages, 19 units).** Each unit has a study guide, revision notes and a practice set, except 0610, which only needed practice sets.
+- **8462:** 4.1.1 atomic structure, 4.1.2 the periodic table, 4.1.3 transition metals, 4.2.1.1+4.2.1.3 chemical bonds and ionic compounds, 4.2.1.4+4.2.1.5 covalent and metallic bonding. (HT only) content is labelled "Higher tier only".
+- **8300:** 3.1.1 structure and calculation, 3.1.2 fractions, decimals and percentages, 3.1.3 measures and accuracy, 3.2.1 notation, vocabulary and manipulation, 3.2.2 graphs, 3.2.3 solving equations and inequalities, 3.2.4 sequences. Content from the spec's "Higher content only" column is labelled "Higher tier only"/"(Higher)". Every practice question is labelled (non-calculator) or (calculator).
+- **0610 (practice sets only):** 6.2 leaf structure, 14.3–14.5 hormones, homeostasis and tropic responses, 16.5–16.6 sex hormones and STIs. Supplement content is labelled "(Extended)".
+- **8461:** 4.1.1 cell structure (required practicals 1 and 2), 4.1.2 cell division, 4.1.3 transport in cells (required practical 3), 4.2.1+4.2.2.2 principles of organisation and the heart and blood vessels.
+
+**Process.** Same as D-382: one writer per unit (`/home/claude/gaps/jobs2/`), then an independent verifier per unit (`/home/claude/gaps/VERIFY_GAPS.md`) that re-derived every number, mapped every learning outcome and checked tier labels, marks and originality. Six verifiers passed the unit unchanged; thirteen made fixes, including:
+- **Facts and numbers:** K melting point 63.5 °C (rounds to 64), Mn/Co/Ni densities aligned to the RSC table, nickel(II) sulfate "blue-green"; germanium prediction percentages (0.8%, 3.4%); Ar "nearest the most abundant isotope" limited to two-isotope cases; an unconfirmed "10–100 μm" cell-size figure replaced with a sourced comparison; the 0610 leaf page's syllabus reference corrected to 2.2.3.
+- **Labels and maths wording:** an 8300 practice question wrongly labelled (Higher); reciprocal graphs are on both tiers; brackets added to a standard-form division; decimals padded consistently.
+- **Coverage and originality:** 0610 14.4/14.5 outcomes that had no question (role of the brain, hairs and blood vessels in skin, auxin and gravity) were added; a familiar "consecutive odd squares" proof was replaced; self-test items that repeated worked numbers were changed.
+- **Existing page fix:** `aqa-gcse-biology-cell-biology-revision-notes` said stem-cell "uses include treating diabetes and paralysis"; it now follows the spec ("may in future help treat").
+
+**Validation (4 Oct 2026, 14:39 PKT).** `validate:academic` PASS; `check:duplicate-scope` PASS; `npm run build` OK; `audit:all` PASS; `validate-review-integrity` PASS; `check_new.py` OK on all 51 new files. `content-gap-report.md` regenerated: 8462 (8/8), 8300 (7/7), 0610 (61/61) and 8461 (6/6) subtopics now have every type. The remaining gaps are MYP Sciences and MYP I&S (framework topics), then 0620 (3 subtopics), 9709 (2) and 8463 (1).
+
+**Not done / owner decisions.**
+- The branch is pushed only. The owner merges D-382 and D-383 together.
+- `reviewStatus` and `reviewer` are untouched on every new page.
+- A verifier noted that the existing `igcse-biology-plant-nutrition-practice` page names the June 2024 Paper 42 and paraphrases its examiner report with a source link. That came from the earlier examiner-report work and was left unchanged; the owner can decide whether it stays.
+
+## D-384 -- Last Cambridge/AQA subtopic gaps closed: 0620, 9709, 8463 (branch `subtopic-depth-gaps`, 4 Oct 2026, 14:54 PKT)
+
+**Request.** The owner asked (4 Oct, 14:43 PKT) to fill the remaining subtopic gaps next: 0620 (3), 9709 (2) and 8463 (1).
+
+**What was added (4 pages).**
+- **0620:** one study guide, `igcse-chemistry-0620-elements-atomic-structure-and-isotopes`, mapped to 2.1, 2.2 and 2.3 (the same scope as the existing `atomic-structure` revision notes and practice set). 2.3.3–2.3.4 are labelled "Extended only". Written against the 0620 syllabus for 2026, 2027 and 2028, version 2 (August 2026), downloaded from the Cambridge site for this work and saved to OneDrive Papers 2025/Syllabus with its update notice.
+- **9709:** study guide `a-level-maths-9709-quadratics` (1.1) and practice set `a-level-maths-9709-representation-of-data-practice` (5.1).
+- **8463:** revision notes `aqa-gcse-physics-8463-national-and-global-energy-resources-revision-notes` (4.1.3), pairing the existing study guide and practice set.
+
+**Process.** One writer and one independent verifier per page (`/home/claude/gaps/jobs3/`, `VERIFY_GAPS.md`). 9709 quadratics and 8463 passed unchanged. Fixes: 0620 common-error wording on the electron's mass (very small, not zero); 9709 data practice Q2 now states the quartile convention so the answer is unambiguous. Verifiers confirmed isotope abundances (B, Mg), the Ratcliffe-on-Soar closure (30 Sep 2024) and the environmental impacts with WebFetch.
+
+**Validation (4 Oct 2026, 14:54 PKT).** validate:academic PASS; check:duplicate-scope PASS; build OK; audit:all PASS; validate-review-integrity PASS; check_new.py OK on all 4 pages. content-gap-report.md regenerated: every syllabus with subtopic data now has full subtopic coverage. The only remaining gaps are MYP Sciences (2 of 5 topics) and MYP Individuals and Societies (2 of 6 topics).
+
+**Not done / owner decisions.** Branch pushed only; the owner merges D-382, D-383 and D-384 together. reviewStatus/reviewer untouched.

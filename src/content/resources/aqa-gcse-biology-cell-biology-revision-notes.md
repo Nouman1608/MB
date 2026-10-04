@@ -81,7 +81,7 @@ An undifferentiated cell that can divide to produce cells of many different type
 | **Adult (bone marrow)** | Limited range — mainly blood cells |
 | **Plant meristem** | Any plant cell, throughout life |
 
-**Therapeutic cloning** takes an embryo with the same genes as the patient, so the cells are not rejected. Uses include treating diabetes and paralysis.
+**Therapeutic cloning** takes an embryo with the same genes as the patient, so the cells are not rejected. It may in future help treat conditions such as diabetes and paralysis.
 
 Arguments against: destruction of embryos, risk of viral transmission, ethical and religious objections. Arguments for: relief of serious suffering, and unused embryos from fertility clinics would be destroyed anyway. A good exam answer gives **both sides**, then a conclusion.
 
