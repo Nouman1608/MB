@@ -7,7 +7,7 @@ topic: "Unit 2 – Exploring Sociology"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9690"]
-syllabusSeries: "Version 1.0 (new qualification)"
+syllabusSeries: "Version 1.1 (new qualification)"
 stage: "AS"
 order: 2
 syllabusTopics:
@@ -184,9 +184,9 @@ assessment, since both are examined at the end of that stage.
 ## Official syllabus
 
 OxfordAQA International AS and A-level Sociology (9690) specification,
-Version 1.0 —
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-a-level-sociology-specification.pdf),
-verified 2026-09-02. Unit 2 timing and marks: 1 hour 45 minutes, 60
+Version 1.1 —
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/09/oxfordaqa-international-a-level-sociology-specification.pdf),
+verified 2026-10-04. Unit 2 timing and marks: 1 hour 45 minutes, 60
 marks (Section A Socialisation and social control 40 marks; Section B
 Research methods and theory 20 marks). A specimen question paper and
 mark scheme for Unit 1 are already published on the same qualification

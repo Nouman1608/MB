@@ -8,7 +8,7 @@ topic: "Unit 5 -- People and technology"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9690"]
-syllabusSeries: "Version 1.0"
+syllabusSeries: "Version 1.1"
 stage: "A"
 order: 118
 syllabusTopics:

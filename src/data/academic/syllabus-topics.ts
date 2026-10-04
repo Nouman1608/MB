@@ -4174,12 +4174,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
   },
   {
     boardSlug: 'oxfordaqa', qualificationSlug: 'a-level', subjectSlug: 'sociology',
-    syllabusCode: '9690', syllabusSeries: 'Version 1.0',
+    syllabusCode: '9690', syllabusSeries: 'Version 1.1',
     effectiveFrom: '2026', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
-    source: 'OxfordAQA — official specification PDF (International AS/A level Sociology 9690, Version 1.0)',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-a-level-sociology-specification.pdf', verifiedDate: '2026-09-17',
-    notes: 'New qualification: for teaching from September 2026, International AS exams May/June 2027 onwards, International A-level exams May/June 2028 onwards. Read from the specification PDF itself (Version 1.0). International AS content is 3.1.1 Families, 3.1.2 Socialisation and social control and 3.1.3 Research methods and theory: Unit 1 Introducing Sociology assesses 3.1.1 (Section A, 40 marks) and 3.1.3 (Section B Research methods, 20 marks); Unit 2 Exploring Sociology assesses 3.1.2 (Section A, 40 marks) and 3.1.3 (Section B Research methods and theory, 20 marks, an extended response question). A2 adds 3.2.1 People and development (Unit 3), 3.2.2 People and the environment (Unit 4) and 3.2.3 People and technology (Unit 5). Subtopic numbers are the specification\'s own.',
+    source: 'OxfordAQA — official specification PDF (International AS/A level Sociology 9690, Version 1.1)',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/09/oxfordaqa-international-a-level-sociology-specification.pdf', verifiedDate: '2026-10-04',
+    notes: 'New qualification: for teaching from September 2026, International AS exams May/June 2027 onwards, International A-level exams May/June 2028 onwards. Read from the specification PDF itself (Version 1.0); re-checked against Version 1.1 on 2026-10-04 (D-387), which renames 3.2.1.1 from "The great divide" to "The Great Divergence" and rewrites its content (why Europe industrialised: modernisation theory, Weber, dependency theory); every other topic and subtopic name is unchanged. The slug the-great-divide-9690 is kept so existing resource mappings stay valid. International AS content is 3.1.1 Families, 3.1.2 Socialisation and social control and 3.1.3 Research methods and theory: Unit 1 Introducing Sociology assesses 3.1.1 (Section A, 40 marks) and 3.1.3 (Section B Research methods, 20 marks); Unit 2 Exploring Sociology assesses 3.1.2 (Section A, 40 marks) and 3.1.3 (Section B Research methods and theory, 20 marks, an extended response question). A2 adds 3.2.1 People and development (Unit 3), 3.2.2 People and the environment (Unit 4) and 3.2.3 People and technology (Unit 5). Subtopic numbers are the specification\'s own.',
     topics: [
       { number: 1, name: 'Unit 1 – Introducing Sociology', slug: 'unit-1-introducing-sociology-9690', stage: 'AS', subtopics: [
         { number: '3.1.1.1', name: 'Families, marriage and kinship', slug: 'families-marriage-kinship-9690' },
@@ -4197,7 +4197,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '3.1.3', name: 'Research methods and theory (Section B – Research methods and theory)', slug: 'research-methods-and-theory-9690' },
       ] },
       { number: 3, name: 'Unit 3 – People and Development', slug: 'unit-3-people-and-development-9690', stage: 'A', subtopics: [
-        { number: '3.2.1.1', name: 'The great divide', slug: 'the-great-divide-9690' },
+        { number: '3.2.1.1', name: 'The Great Divergence', slug: 'the-great-divide-9690' },
         { number: '3.2.1.2', name: 'What is meant by globalisation?', slug: 'what-is-meant-by-globalisation-9690' },
         { number: '3.2.1.3', name: 'Who is involved in globalisation?', slug: 'who-is-involved-in-globalisation-9690' },
         { number: '3.2.1.4', name: 'Demographic changes - migration and diasporas', slug: 'migration-and-diasporas-9690' },

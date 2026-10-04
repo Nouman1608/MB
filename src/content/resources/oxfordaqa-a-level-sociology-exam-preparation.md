@@ -7,7 +7,7 @@ topic: "Exam preparation -- AS Units 1-2 and A-level Units 3-5"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9690"]
-syllabusSeries: "Version 1.0 -- new specification: first teaching September 2026, first AS exams May/June 2027, first A-level exams May/June 2028"
+syllabusSeries: "Version 1.1 -- new specification: first teaching September 2026, first AS exams May/June 2027, first A-level exams May/June 2028"
 order: 3
 description: "How to prepare for OxfordAQA International A-Level Sociology 9690's five equally-weighted units from the specification and the Unit 1 specimen question paper and mark scheme, plus a worked evaluation-paragraph routine."
 author: "marlbridge-academic-team"

@@ -7,7 +7,7 @@ topic: "Unit 2 – Exploring Sociology"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9690"]
-syllabusSeries: "Version 1.0 (new qualification)"
+syllabusSeries: "Version 1.1 (new qualification)"
 order: 4
 stage: "AS"
 syllabusTopics:

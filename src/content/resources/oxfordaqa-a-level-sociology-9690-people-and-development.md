@@ -8,7 +8,7 @@ topic: "Unit 3 -- People and development"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9690"]
-syllabusSeries: "Version 1.0"
+syllabusSeries: "Version 1.1"
 stage: "A"
 order: 116
 syllabusTopics:

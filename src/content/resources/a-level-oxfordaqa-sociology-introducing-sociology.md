@@ -7,7 +7,7 @@ topic: "Unit 1 – Introducing Sociology"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9690"]
-syllabusSeries: "Version 1.0 (new qualification)"
+syllabusSeries: "Version 1.1 (new qualification)"
 stage: "AS"
 order: 1
 syllabusTopics:
@@ -185,8 +185,8 @@ engaging with the demographic and social explanations behind it.
 ## Official syllabus
 
 OxfordAQA International AS and A-level Sociology (9690) specification,
-Version 1.0 —
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-a-level-sociology-specification.pdf).
+Version 1.1 —
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/09/oxfordaqa-international-a-level-sociology-specification.pdf).
 Unit 1 timing and marks: 1 hour 45 minutes, 60 marks (Section A
 Families 40 marks; Section B Research methods 20 marks). A specimen
 question paper and mark scheme for this unit are published on the
