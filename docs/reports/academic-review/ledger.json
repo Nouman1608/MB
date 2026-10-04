@@ -46,6 +46,7 @@
     "reviewer",
     "reviewStatus",
     "reviewedDate",
+    "eligibleReviewers",
     "officialSourceUrl",
     "structuralValidation",
     "structuralIssues",

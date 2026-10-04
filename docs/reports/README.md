@@ -5,7 +5,7 @@
 | Report | Files | Command |
 | --- | --- | --- |
 | Academic coverage, one row per active board × qualification × subject combination | [`academic-coverage-current.md`](academic-coverage-current.md), [`.json`](academic-coverage-current.json), [`.csv`](academic-coverage-current.csv) | `npm run coverage:academic-v2` (`-- --check` fails if the committed files are out of date) |
-| Academic-review ledger, one row per resource | [`academic-review/ledger-summary.md`](academic-review/ledger-summary.md), [`ledger.csv`](academic-review/ledger.csv), [`ledger.json`](academic-review/ledger.json) (totals), [`signoff-queue.md`](academic-review/signoff-queue.md) | `npm run report:review-ledger` (`npm run check:review-ledger` fails if out of date) |
+| Academic-review ledger, one row per resource | [`academic-review/ledger-summary.md`](academic-review/ledger-summary.md), [`ledger.csv`](academic-review/ledger.csv), [`ledger.json`](academic-review/ledger.json) (totals), [`signoff-queue.md`](academic-review/signoff-queue.md), [`signoff-by-teacher.md`](academic-review/signoff-by-teacher.md) | `npm run report:review-ledger` (`npm run check:review-ledger` fails if out of date) |
 
 Both generators write no wall-clock timestamp: running them twice on an unchanged
 repository produces identical files. The coverage report states `dataAsOf`, the latest

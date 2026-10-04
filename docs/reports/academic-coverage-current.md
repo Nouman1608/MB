@@ -323,7 +323,7 @@ Overall: the largest outstanding item is human sign-off: 780 review-pending reso
 | AQA | GCSE | English Literature | 8702 | 8 | 8 / 0 | VERIFIED_COMPLETE (linear) | 1 | Write resources for unmapped topics (1). |
 | AQA | A Level | English Literature | 7712 / 7717 | 9 | 9 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Cambridge | A Level | Accounting | 9706 | 8 | 8 / 0 | VERIFIED_COMPLETE (staged) | 3 | Write resources for unmapped topics (3). |
-| Cambridge | A Level | Biology | 9700 | 90 | 58 / 32 | VERIFIED_COMPLETE (component-based) | 0 | Named-reviewer sign-off of review-pending resources. |
+| Cambridge | A Level | Biology | 9700 | 90 | 58 / 32 | VERIFIED_COMPLETE (staged) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Cambridge | A Level | Business | 9609 | 15 | 15 / 0 | VERIFIED_COMPLETE (staged) | 2 | Write resources for unmapped topics (2). |
 | Cambridge | A Level | Computer Science | 9618 | 15 | 15 / 0 | VERIFIED_COMPLETE (staged) | 12 | Write resources for unmapped topics (12). |
 | Cambridge | A Level | Economics | 9708 | 15 | 15 / 0 | VERIFIED_COMPLETE (staged) | 3 | Write resources for unmapped topics (3). |

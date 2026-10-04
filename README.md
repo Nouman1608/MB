@@ -204,7 +204,9 @@ coverage:academic-v2 -- --check` fails if the committed files are out of date.
 
 `npm run report:review-ledger` writes the academic-review ledger: one row per resource in
 `docs/reports/academic-review/ledger.csv`, with totals in `ledger.json`, a summary in
-`ledger-summary.md` and the named-reviewer sign-off queue in `signoff-queue.md`
+`ledger-summary.md`, the named-reviewer sign-off queue in `signoff-queue.md` and, in
+`signoff-by-teacher.md`, the teachers who are eligible to sign off each pending page under the
+reviewer rules the build enforces (eligibility only; nobody is assigned)
 (`npm run check:review-ledger` fails if they are out of date or a structural check fails).
 
 Regenerate both after any change to resources, academic data or review metadata and commit

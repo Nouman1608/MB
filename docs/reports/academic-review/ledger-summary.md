@@ -70,4 +70,5 @@ Every resource appears exactly once; every verification record matches an existi
 
 780 resources are review-pending and need a named, authorised Marlbridge
 reviewer to accept them under the editorial policy. The queue, grouped by course, is
-in [`signoff-queue.md`](signoff-queue.md). No reviewer has been assigned or inferred.
+in [`signoff-queue.md`](signoff-queue.md), and by eligible teacher in
+[`signoff-by-teacher.md`](signoff-by-teacher.md). No reviewer has been assigned or inferred.

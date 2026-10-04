@@ -7,6 +7,7 @@
  *   docs/reports/academic-review/ledger.csv
  *   docs/reports/academic-review/ledger-summary.md
  *   docs/reports/academic-review/signoff-queue.md
+ *   docs/reports/academic-review/signoff-by-teacher.md
  *
  * Three different things are kept apart on purpose, and never merged:
  *   1. Automated structural checks, run here on every resource, every time.
@@ -39,6 +40,7 @@ import { SYLLABUSES } from '../src/data/academic/syllabuses.ts';
 import { SYLLABUS_TOPICS } from '../src/data/academic/syllabus-topics.ts';
 import { SUBJECTS } from '../src/data/academic/subjects.ts';
 import { ASSESSMENTS } from '../src/data/academic/assessments.ts';
+import { subjectCovered } from '../src/utils/content/subject-match.mjs';
 
 const RES_DIR = 'src/content/resources';
 const AUTH_DIR = 'src/content/authors';
@@ -132,7 +134,13 @@ const tieredCombos = new Set(SYLLABUS_TOPICS.filter((s) => s.tiered).map((s) => 
 const authors = new Map();
 for (const f of readdirSync(AUTH_DIR).filter((x) => x.endsWith('.md'))) {
   const fm = readFileSync(join(AUTH_DIR, f), 'utf8').split('---')[1] ?? '';
-  authors.set(f.replace(/\.md$/, ''), { isReviewer: /^isReviewer:\s*true/m.test(fm) });
+  const listOf = (k) => { try { return JSON.parse(fm.match(new RegExp(`^${k}:\\s*(\\[.*\\])`, 'm'))?.[1] ?? '[]'); } catch { return []; } };
+  authors.set(f.replace(/\.md$/, ''), {
+    isReviewer: /^isReviewer:\s*true/m.test(fm),
+    name: (fm.match(/^name:\s*"?([^"\n]+)"?/m) || [])[1] ?? f.replace(/\.md$/, ''),
+    subjects: listOf('subjectsTaught'),
+    boards: listOf('boardsTaught'),
+  });
 }
 
 // Repository-side verification results (dated files; the newest record per slug wins).
@@ -295,6 +303,12 @@ for (const d of docs) {
   if (nearDup.has(d.slug)) warns.push(`near-duplicate-of:${nearDup.get(d.slug).join('; ')}`);
 
   const structural = fails.length ? 'FAIL' : warns.length ? 'WARN' : 'PASS';
+  // Teachers who COULD be named as reviewer under the rules the build enforces
+  // (validate-review-integrity.mjs [3], [8], [9], [10]): designated reviewer,
+  // not the author, profile lists every board and covers the subject. This is
+  // eligibility only -- nobody is assigned; the teacher must accept the page.
+  const eligible = [...authors].filter(([slug, a]) => a.isReviewer && slug !== author
+    && boards.every((b) => a.boards.includes(b)) && subject && subjectCovered(a.subjects, subject)).map(([slug]) => slug).sort();
   const v = verification.get(d.slug);
   const isReviewed = reviewStatus === 'reviewed';
 
@@ -335,6 +349,7 @@ for (const d of docs) {
     reviewer,
     reviewStatus,
     reviewedDate,
+    eligibleReviewers: reviewStatus === 'reviewed' ? [] : eligible,
     officialSourceUrl: v?.specSourceUsed || combos.map((c) => sourceByCombo.get(c)).find(Boolean) || '',
     structuralValidation: structural,
     structuralIssues: [...fails, ...warns],
@@ -383,7 +398,7 @@ const meaning = {
 };
 
 
-const COLUMNS = ['filename', 'slug', 'title', 'board', 'qualification', 'subject', 'specificationCode', 'specificationSeries', 'stage', 'tier', 'topicMappings', 'resourceType', 'author', 'reviewer', 'reviewStatus', 'reviewedDate', 'officialSourceUrl', 'structuralValidation', 'structuralIssues', 'academicContent', 'questionsAnswers', 'questionsAnswersStructure', 'calculations', 'terminology', 'crossBoardIsolation', 'outcome', 'issuesFound', 'correctiveCommit', 'verificationRecord', 'remainingBlocker'];
+const COLUMNS = ['filename', 'slug', 'title', 'board', 'qualification', 'subject', 'specificationCode', 'specificationSeries', 'stage', 'tier', 'topicMappings', 'resourceType', 'author', 'reviewer', 'reviewStatus', 'reviewedDate', 'eligibleReviewers', 'officialSourceUrl', 'structuralValidation', 'structuralIssues', 'academicContent', 'questionsAnswers', 'questionsAnswersStructure', 'calculations', 'terminology', 'crossBoardIsolation', 'outcome', 'issuesFound', 'correctiveCommit', 'verificationRecord', 'remainingBlocker'];
 
 // The per-resource rows live in ledger.csv (one place, ~2.4 MB); ledger.json
 // carries the meanings, totals, integrity result and column list, so the two
@@ -467,7 +482,8 @@ ${integrity.length ? integrity.map((i) => `- ${i}`).join('\n') : 'Every resource
 
 ${pending.length} resources are review-pending and need a named, authorised Marlbridge
 reviewer to accept them under the editorial policy. The queue, grouped by course, is
-in [\`signoff-queue.md\`](signoff-queue.md). No reviewer has been assigned or inferred.
+in [\`signoff-queue.md\`](signoff-queue.md), and by eligible teacher in
+[\`signoff-by-teacher.md\`](signoff-by-teacher.md). No reviewer has been assigned or inferred.
 `;
 
 const queue = `# Named-reviewer sign-off queue
@@ -489,11 +505,61 @@ ${[...queueGroups.entries()].sort().map(([k, rs]) => `## ${k} — ${rs.length}
 ${rs.map((r) => `| \`${r.slug}\` | ${r.resourceType} | ${r.outcome} |`).join('\n')}
 `).join('\n')}`;
 
+const byTeacher = new Map();
+const noEligible = [];
+for (const r of pending) {
+  if (!r.eligibleReviewers.length) noEligible.push(r);
+  for (const t of r.eligibleReviewers) { if (!byTeacher.has(t)) byTeacher.set(t, []); byTeacher.get(t).push(r); }
+}
+const teacherLine = (r) => `| \`${r.slug}\` | ${r.board.join('/')} ${r.qualification.join('/')} ${r.subject} (${r.specificationCode.join('/') || 'no code'}) | ${r.resourceType} | ${r.outcome.replace('REPO_', '')} | ${r.eligibleReviewers.length > 1 ? r.eligibleReviewers.length - 1 : 0} |`;
+const byTeacherMd = `# Sign-off lists by teacher
+
+Generated by \`npm run report:review-ledger\`; no generation timestamp. For every
+review-pending resource, the Marlbridge teachers who **could** be named as its reviewer
+under the rules the build enforces: a designated reviewer (\`isReviewer: true\`), not
+the page's author, whose profile lists every exam board on the page and a subject that
+covers it (the same checks as \`scripts/validate-review-integrity.mjs\`).
+
+**Nobody is assigned here.** A page becomes \`reviewed\` only when one of these teachers
+reads it against the official specification it cites and accepts it; then the page's
+frontmatter gets their \`reviewer\`, \`reviewStatus: "reviewed"\` and the real
+\`reviewedDate\`, in a commit that names them. A page eligible for several teachers needs
+only one of them. "Also eligible" counts the other teachers who could take it.
+The repository-side verification outcome is shown to help the reviewer; it is not a
+review.
+
+## Summary
+
+| Teacher | Profile slug | Pages eligible |
+| --- | --- | --- |
+${[...byTeacher.entries()].sort((a, b) => b[1].length - a[1].length || (a[0] < b[0] ? -1 : 1)).map(([t, rs]) => `| ${authors.get(t).name} | \`${t}\` | ${rs.length} |`).join('\n')}
+| *No eligible teacher* | — | ${noEligible.length} |
+
+${pending.length} review-pending pages in total; a page can appear under more than one teacher.
+
+${[...byTeacher.entries()].sort((a, b) => b[1].length - a[1].length || (a[0] < b[0] ? -1 : 1)).map(([t, rs]) => `## ${authors.get(t).name} (\`${t}\`) — ${rs.length}
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+${rs.map(teacherLine).join('\n')}
+`).join('\n')}
+## No eligible teacher — ${noEligible.length}
+
+These pages have no designated reviewer whose profile covers their board(s) and subject.
+Signing them off needs a teacher profile to be updated (or a new reviewer designated)
+first, which is an owner decision.
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+${noEligible.map(teacherLine).join('\n')}
+`;
+
 const outputs = {
   [`${OUT_DIR}/ledger.json`]: json,
   [`${OUT_DIR}/ledger.csv`]: csv,
   [`${OUT_DIR}/ledger-summary.md`]: md,
   [`${OUT_DIR}/signoff-queue.md`]: queue,
+  [`${OUT_DIR}/signoff-by-teacher.md`]: byTeacherMd,
 };
 
 let problems = 0;

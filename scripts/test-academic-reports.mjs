@@ -40,7 +40,7 @@ const run = (cmd) => {
 const sha = (p) => createHash('sha256').update(readFileSync(p)).digest('hex');
 
 const COV = { md: 'docs/reports/academic-coverage-current.md', json: 'docs/reports/academic-coverage-current.json', csv: 'docs/reports/academic-coverage-current.csv' };
-const LEDGER = { csv: 'docs/reports/academic-review/ledger.csv', json: 'docs/reports/academic-review/ledger.json', md: 'docs/reports/academic-review/ledger-summary.md', queue: 'docs/reports/academic-review/signoff-queue.md' };
+const LEDGER = { csv: 'docs/reports/academic-review/ledger.csv', json: 'docs/reports/academic-review/ledger.json', md: 'docs/reports/academic-review/ledger-summary.md', queue: 'docs/reports/academic-review/signoff-queue.md', byTeacher: 'docs/reports/academic-review/signoff-by-teacher.md' };
 const COV_CMD = 'node scripts/academic-coverage-report-v2.mjs';
 const LEDGER_CMD = 'node --experimental-strip-types --no-warnings scripts/academic-review-ledger.mjs';
 const RES = 'src/content/resources';
@@ -149,6 +149,23 @@ const pendingRows = ledger.filter((r) => r.reviewStatus !== 'reviewed');
 check(pendingRows.every((r) => r.verificationRecord && r.outcome.startsWith('REPO_')), 'every review-pending resource has a repository-side verification result');
 check(ledger.filter((r) => r.reviewStatus === 'reviewed').every((r) => r.outcome === 'TEACHER_CREDITED'), 'every reviewed resource is reported as a teacher credit, not as a line-by-line review');
 check(pendingRows.every((r) => !r.reviewer && !r.reviewedDate), 'no review-pending resource carries a reviewer or a review date');
+// Eligible reviewers obey the rules validate-review-integrity.mjs enforces.
+const authorProfiles = new Map(readdirSync('src/content/authors').filter((f) => f.endsWith('.md')).map((f) => {
+  const fm = fmOf(readFileSync(`src/content/authors/${f}`, 'utf8'));
+  const lst = (k) => { try { return JSON.parse(fm.match(new RegExp(`^${k}:\\s*(\\[.*\\])`, 'm'))?.[1] ?? '[]'); } catch { return []; } };
+  return [f.replace(/\.md$/, ''), { isReviewer: /^isReviewer:\s*true/m.test(fm), boards: lst('boardsTaught') }];
+}));
+let eligBad = 0;
+for (const r of ledger) {
+  const el = r.eligibleReviewers ? r.eligibleReviewers.split(' | ') : [];
+  if (r.reviewStatus === 'reviewed' && el.length) eligBad++;
+  for (const t of el) {
+    const p = authorProfiles.get(t);
+    if (!p || !p.isReviewer || t === r.author || !r.board.split(' | ').every((b) => p.boards.includes(b))) eligBad++;
+  }
+}
+check(eligBad === 0, `every eligible reviewer is a designated reviewer, not the author, covering every board; none listed for reviewed pages (${eligBad} violation)`);
+check(existsSync('docs/reports/academic-review/signoff-by-teacher.md'), 'per-teacher sign-off lists are generated');
 const ledgerJson = JSON.parse(readFileSync(LEDGER.json, 'utf8'));
 check(ledgerJson.rowCount === ledger.length && ledgerJson.totals.resources === ledger.length, 'ledger.json totals match ledger.csv rows');
 
