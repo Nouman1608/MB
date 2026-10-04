@@ -104,7 +104,20 @@ export type AssessmentComponentType =
  * record rather than retrofitted by inference; those 14 records were
  * sourced before this field existed and inferring "linear" vs
  * "component-based" from paper counts alone would not be a verified fact,
- * it would be a guess -- exactly what this programme's brief prohibits. */
+ * it would be a guess -- exactly what this programme's brief prohibits.
+ *
+ * Status 4 Oct 2026 (D-386): every record now carries a model. The last 20
+ * were set only after re-reading each record's own official PDF for an
+ * explicit structural statement (who takes which components, any choice
+ * between components, AS/A Level routes), recorded in each record's
+ * internalNotes. Values follow the usage already established in this file:
+ * 'linear' = every candidate takes the same compulsory components;
+ * 'component-based' = the graded result depends on a choice between
+ * alternative components (e.g. Practical Test or Alternative to Practical);
+ * 'staged' = Cambridge AS & A Level route structure with no component
+ * choice. validate-assessments.mjs check [15] now fails a record without
+ * one. Known inconsistency left for owner review: Cambridge 9700 Biology is
+ * 'component-based' although its structure matches 9701/9702 ('staged'). */
 export type AssessmentModel =
   | 'linear'
   | 'modular'
@@ -396,8 +409,10 @@ export const ASSESSMENTS: readonly Assessment[] = [
       { paperCode: 'Paper 4', title: 'Calculator (Extended)', durationMinutes: 120, marks: 100, weightingPercent: 50, assessmentType: 'written-exam', tier: 'extended' },
     ],
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/662466-2025-2027-syllabus.pdf',
-    verifiedOn: '2026-08-26',
+    verifiedOn: '2026-10-04',
     notes: 'Core candidates (Papers 1&3) are eligible for grades C-G; Extended candidates (Papers 2&4) for A*-E. Directly confirmed against the official PDF: Paper 1/3 each 1h30, 80 marks, 50%; Paper 2/4 each 2h, 100 marks, 50%. Cambridge states only the examination-year window (2025-2027), not a separate first-teaching date.',
+    assessmentModel: 'linear',
+    internalNotes: 'assessmentModel set 2026-10-04 (post-audit remediation, D-386), re-read from the officialSourceUrl PDF (Assessment overview, p.9): All candidates take two components: Core candidates Papers 1 and 3, Extended candidates Papers 2 and 4; no component choice within a tier. Components, durations, marks and weightings re-checked against the same PDF on the same date and unchanged, so verifiedOn moved from 2026-08-26 to 2026-10-04. Vocabulary as already used across this file: \'linear\' = every candidate takes the same compulsory, externally assessed components (cf. 0478, 2251, 2210).',
   },
   {
     boardSlug: 'cambridge',
@@ -416,8 +431,10 @@ export const ASSESSMENTS: readonly Assessment[] = [
       { paperCode: 'Paper 6', title: 'Alternative to Practical', durationMinutes: 60, marks: 40, weightingPercent: 20, assessmentType: 'written-exam', alternativeGroup: 'practical' },
     ],
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/697205-2026-2028-syllabus.pdf',
-    verifiedOn: '2026-08-26',
+    verifiedOn: '2026-10-04',
     notes: 'A candidate of either tier sits ONE of Paper 5 (Practical Test) or Paper 6 (Alternative to Practical), not both -- both worth 20%, so only one of the two counts towards the total. No explicit first-teaching date is published by Cambridge for this syllabus.',
+    assessmentModel: 'component-based',
+    internalNotes: 'assessmentModel set 2026-10-04 (post-audit remediation, D-386), re-read from the officialSourceUrl PDF (Assessment overview, p.9): All candidates take three components: the tier papers plus ONE practical paper chosen from Paper 5 (Practical Test) or Paper 6 (Alternative to Practical). Components, durations, marks and weightings re-checked against the same PDF on the same date and unchanged, so verifiedOn moved from 2026-08-26 to 2026-10-04. Vocabulary as already used across this file: \'component-based\' = the graded result depends on a choice between alternative components (cf. 0625 and 5090, same practical-choice structure).',
   },
   {
     boardSlug: 'cambridge',
@@ -436,8 +453,10 @@ export const ASSESSMENTS: readonly Assessment[] = [
       { paperCode: 'Paper 6', title: 'Alternative to Practical', durationMinutes: 60, marks: 40, weightingPercent: 20, assessmentType: 'written-exam', alternativeGroup: 'practical' },
     ],
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/697203-2026-2028-syllabus.pdf',
-    verifiedOn: '2026-08-26',
+    verifiedOn: '2026-10-04',
     notes: 'Same structure as IGCSE Chemistry 0620: Paper 5 or 6 is a single alternative choice common to both tiers. No explicit first-teaching date is published by Cambridge for this syllabus.',
+    assessmentModel: 'component-based',
+    internalNotes: 'assessmentModel set 2026-10-04 (post-audit remediation, D-386), re-read from the officialSourceUrl PDF (Assessment overview, p.9): All candidates take three components: the tier papers plus ONE practical paper chosen from Paper 5 (Practical Test) or Paper 6 (Alternative to Practical). Components, durations, marks and weightings re-checked against the same PDF on the same date and unchanged, so verifiedOn moved from 2026-08-26 to 2026-10-04. Vocabulary as already used across this file: \'component-based\' = the graded result depends on a choice between alternative components (cf. 0625 and 5090, same practical-choice structure).',
   },
   {
     boardSlug: 'cambridge',
@@ -455,8 +474,10 @@ export const ASSESSMENTS: readonly Assessment[] = [
       { paperCode: 'Paper 5', title: 'Planning, Analysis and Evaluation', durationMinutes: 75, marks: 30, weightingPercent: 11.5, assessmentType: 'written-exam' },
     ],
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/664563-2025-2027-syllabus.pdf',
-    verifiedOn: '2026-08-26',
+    verifiedOn: '2026-10-04',
     notes: 'Weightings shown are % of the full A Level (Papers 1-5, sum 100%). Papers 1-3 alone can instead be certificated as a standalone AS Level (weighted 31%/46%/23% of the AS Level in that route, not modeled as a separate record here). A newer 2028-2030 syllabus edition has also been published for future cohorts, not modeled here.',
+    assessmentModel: 'staged',
+    internalNotes: 'assessmentModel set 2026-10-04 (post-audit remediation, D-386), re-read from the officialSourceUrl PDF (Syllabus overview, routes table, p.12): Three official routes: AS Level only (Papers 1-3), A Level staged over two years (AS then Papers 4-5), or A Level in one series; no component choice. Components, durations, marks and weightings re-checked against the same PDF on the same date and unchanged, so verifiedOn moved from 2026-08-26 to 2026-10-04. Vocabulary as already used across this file: \'staged\' = Cambridge AS & A Level with the AS-only / staged / single-series route structure and no component choice (cf. 9706, 9609, 9618).',
     asALevelRelationship: 'staged-cambridge-route',
     certificationNotes: 'AS Level (Papers 1-3) can be certificated on its own as a standalone Cambridge International AS Level, OR a candidate can continue to Papers 4-5 for the full A Level -- both routes officially recognised, per the syllabus\'s own staged-assessment structure.',
   },
@@ -476,8 +497,10 @@ export const ASSESSMENTS: readonly Assessment[] = [
       { paperCode: 'Paper 5', title: 'Planning, Analysis and Evaluation', durationMinutes: 75, marks: 30, weightingPercent: 11.5, assessmentType: 'written-exam' },
     ],
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/664565-2025-2027-syllabus.pdf',
-    verifiedOn: '2026-08-26',
+    verifiedOn: '2026-10-04',
     notes: 'Structurally identical scheme to Chemistry 9701 -- weightings are % of the full A Level; the AS-only standalone route weights Papers 1-3 at 31%/46%/23% of the AS Level instead (not modeled as a separate record here).',
+    assessmentModel: 'staged',
+    internalNotes: 'assessmentModel set 2026-10-04 (post-audit remediation, D-386), re-read from the officialSourceUrl PDF (Syllabus overview, routes table, p.12): Three official routes: AS Level only (Papers 1-3), A Level staged over two years (AS then Papers 4-5), or A Level in one series; no component choice. Components, durations, marks and weightings re-checked against the same PDF on the same date and unchanged, so verifiedOn moved from 2026-08-26 to 2026-10-04. Vocabulary as already used across this file: \'staged\' = Cambridge AS & A Level with the AS-only / staged / single-series route structure and no component choice (cf. 9706, 9609, 9618).',
     asALevelRelationship: 'staged-cambridge-route',
     certificationNotes: 'AS Level (Papers 1-3) can be certificated on its own, OR a candidate can continue to Papers 4-5 for the full A Level -- same staged structure as Cambridge 9701 Chemistry.',
   },
@@ -496,8 +519,10 @@ export const ASSESSMENTS: readonly Assessment[] = [
       { paperCode: 'Paper 4', title: 'A Level Data Response and Essays', durationMinutes: 120, marks: 60, weightingPercent: 33, assessmentType: 'written-exam' },
     ],
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/697423-2026-2028-syllabus.pdf',
-    verifiedOn: '2026-08-26',
+    verifiedOn: '2026-10-04',
     notes: 'Weightings are % of the full A Level (Papers 1-4, sum 100%). Papers 1-2 alone certificate as a standalone AS Level, weighted 33%/67% of the AS Level instead (not modeled as a separate record here).',
+    assessmentModel: 'staged',
+    internalNotes: 'assessmentModel set 2026-10-04 (post-audit remediation, D-386), re-read from the officialSourceUrl PDF (Syllabus overview, routes table, p.12): Three official routes: AS Level only (Papers 1-2), A Level staged over two years (AS then Papers 3-4), or A Level in one series; no component choice. Components, durations, marks and weightings re-checked against the same PDF on the same date and unchanged, so verifiedOn moved from 2026-08-26 to 2026-10-04. Vocabulary as already used across this file: \'staged\' = Cambridge AS & A Level with the AS-only / staged / single-series route structure and no component choice (cf. 9706, 9609, 9618).',
     asALevelRelationship: 'staged-cambridge-route',
     certificationNotes: 'AS Level (Papers 1-2) can be certificated on its own, OR a candidate can continue to Papers 3-4 for the full A Level.',
   },
@@ -516,8 +541,10 @@ export const ASSESSMENTS: readonly Assessment[] = [
       { paperCode: 'Paper 4', title: 'Pre- and Post-1900 Poetry and Prose', durationMinutes: 120, marks: 50, weightingPercent: 25, assessmentType: 'written-exam' },
     ],
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/636097-2024-2026-syllabus.pdf',
-    verifiedOn: '2026-08-26',
+    verifiedOn: '2026-10-04',
     notes: 'Weightings are % of the full A Level (Papers 1-4, sum 100%). Papers 1-2 alone certificate as a standalone AS Level, each weighted 50% of the AS Level instead (not modeled as a separate record here). A newer 2027-2028 edition has also been published for future cohorts, not modeled here.',
+    assessmentModel: 'staged',
+    internalNotes: 'assessmentModel set 2026-10-04 (post-audit remediation, D-386), re-read from the officialSourceUrl PDF (Syllabus overview, routes table, p.11): Three official routes: AS Level only (Papers 1-2), A Level staged over two years (AS then Papers 3-4), or A Level in one series; no component choice (question choice only within papers). Components, durations, marks and weightings re-checked against the same PDF on the same date and unchanged, so verifiedOn moved from 2026-08-26 to 2026-10-04. Vocabulary as already used across this file: \'staged\' = Cambridge AS & A Level with the AS-only / staged / single-series route structure and no component choice (cf. 9706, 9609, 9618).',
     asALevelRelationship: 'staged-cambridge-route',
     certificationNotes: 'AS Level (Papers 1-2) can be certificated on its own, OR a candidate can continue to Papers 3-4 for the full A Level.',
   },
@@ -534,8 +561,10 @@ export const ASSESSMENTS: readonly Assessment[] = [
       { paperCode: 'Paper 2', title: 'Paper 2', durationMinutes: 90, marks: 50, weightingPercent: 50, assessmentType: 'written-exam' },
     ],
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/697174-2026-2027-syllabus.pdf',
-    verifiedOn: '2026-08-26',
+    verifiedOn: '2026-10-04',
     notes: "Both papers compulsory (grades A*-G), 1h30 each, 50 marks each. The syllabus does not print an explicit % weighting per paper; the 50/50 split is a direct arithmetic consequence of two compulsory papers each carrying an equal 50 of 100 total marks, not an estimate. The syllabus labels the papers only 'Paper 1' (the Qur'an, the Prophet Muhammad (pbuh) and the first Islamic community) and 'Paper 2' (the Hadiths, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam). Answers given in English.",
+    assessmentModel: 'linear',
+    internalNotes: 'assessmentModel set 2026-10-04 (post-audit remediation, D-386), re-read from the officialSourceUrl PDF (Syllabus overview, section 3): All candidates take two written papers; both papers must be taken for a grade to be awarded. Components, durations, marks and weightings re-checked against the same PDF on the same date and unchanged, so verifiedOn moved from 2026-08-26 to 2026-10-04. Vocabulary as already used across this file: \'linear\' = every candidate takes the same compulsory, externally assessed components (cf. 0478, 2251, 2210).',
   },
   {
     boardSlug: 'cambridge',
@@ -551,8 +580,11 @@ export const ASSESSMENTS: readonly Assessment[] = [
       { paperCode: 'Component 5', title: 'Speaking (optional, separately endorsed)', durationMinutes: 11, durationLabel: 'approx. 10–12m', marks: 60, weightingPercent: 0, assessmentType: 'oral', tier: 'second-language' },
     ],
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/664633-2025-2027-syllabus.pdf',
-    verifiedOn: '2026-08-26',
+    verifiedOn: '2026-10-04',
     notes: 'Cambridge IGCSE Urdu as a Second Language. Component 5 Speaking is OPTIONAL and internally-assessed/externally-moderated -- it does NOT contribute to the overall IGCSE grade (separately endorsed 1-5), so it is shown with a weighting of 0% rather than left out. Its duration is "approximately 10–12 minutes" and Paper 2\'s is "approximately 35–45 minutes" (syllabus Version 2, pp.9, 15 and 16); both are shown as those ranges.',
+    assessmentModel: 'linear',
+    internalNotes: 'assessmentModel set 2026-10-04 (post-audit remediation, D-386), re-read from the officialSourceUrl PDF (Assessment overview, p.9): All candidates take two components (Paper 1 Reading and Writing, Paper 2 Listening). Component 5 Speaking is optional and separately endorsed; its marks do not contribute to the grade, so the graded qualification has no component choice. Components, durations, marks and weightings re-checked against the same PDF on the same date and unchanged, so verifiedOn moved from 2026-08-26 to 2026-10-04. Vocabulary as already used across this file: \'linear\' = every candidate takes the same compulsory, externally assessed components (cf. 0478, 2251, 2210).',
+    certificationNotes: 'Component 5 Speaking is optional and separately endorsed: a separate Speaking grade from 1 (high) to 5 (low) is recorded on the certificate, and its marks do not count towards the IGCSE grade.',
   },
   {
     boardSlug: 'cambridge',
@@ -567,8 +599,10 @@ export const ASSESSMENTS: readonly Assessment[] = [
       { paperCode: 'Paper 2', title: 'Texts', durationMinutes: 120, marks: 50, weightingPercent: 50, assessmentType: 'written-exam', tier: 'first-language' },
     ],
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/721463-2027-syllabus.pdf',
-    verifiedOn: '2026-09-16',
+    verifiedOn: '2026-10-04',
     notes: 'Cambridge O Level Urdu -- First Language, for candidates with Urdu as their mother tongue; grades A*-E only (no G). All questions answered in Urdu. June series only. Source is the syllabus for exams in 2027 (721463, Version 1, September 2024, read to its address block): Paper 1 Reading and Writing 1h30, 50 marks, 50%; Paper 2 Texts 2h, 50 marks, 50%; grades A* to E; no significant changes which affect teaching. The syllabus for 2025 and 2026 (664479) has the same papers.',
+    assessmentModel: 'linear',
+    internalNotes: 'assessmentModel set 2026-10-04 (post-audit remediation, D-386), re-read from the officialSourceUrl PDF (Assessment overview, p.8): All candidates take two components (Paper 1 Reading and Writing, Paper 2 Texts); no component choice. Components, durations, marks and weightings re-checked against the same PDF on the same date and unchanged, so verifiedOn moved from 2026-09-16 to 2026-10-04. Vocabulary as already used across this file: \'linear\' = every candidate takes the same compulsory, externally assessed components (cf. 0478, 2251, 2210).',
   },
   {
     boardSlug: 'cambridge',
@@ -583,8 +617,10 @@ export const ASSESSMENTS: readonly Assessment[] = [
       { paperCode: 'Paper 2', title: 'Grammar, Writing and Translation', durationMinutes: 90, marks: 50, weightingPercent: 50, assessmentType: 'written-exam', tier: 'second-language' },
     ],
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/721465-2027-2029-syllabus.pdf',
-    verifiedOn: '2026-09-16',
+    verifiedOn: '2026-10-04',
     notes: 'Cambridge O Level Urdu -- Second Language, for learners with Urdu as an additional language; grades A*-E. All answers given in Urdu; dictionaries not permitted. Coexists with 3247 (First Language, tier "first-language") under the same board+qualification+subject -- these are two genuinely distinct, simultaneously current specifications distinguished by tier, not a legacy/current pair. Source moved to the 2027-2029 syllabus (Version 1); Paper 1 1h45/50 marks and Paper 2 1h30/50 marks confirmed unchanged from 2024-2026, whose final series is November 2026.',
+    assessmentModel: 'linear',
+    internalNotes: 'assessmentModel set 2026-10-04 (post-audit remediation, D-386), re-read from the officialSourceUrl PDF (Assessment overview, p.9): All candidates take two components (Paper 1 Reading and Writing, Paper 2 Grammar, Writing and Translation); no component choice. Components, durations, marks and weightings re-checked against the same PDF on the same date and unchanged, so verifiedOn moved from 2026-09-16 to 2026-10-04. Vocabulary as already used across this file: \'linear\' = every candidate takes the same compulsory, externally assessed components (cf. 0478, 2251, 2210).',
   },
   {
     boardSlug: 'oxfordaqa',
@@ -599,8 +635,10 @@ export const ASSESSMENTS: readonly Assessment[] = [
       { paperCode: 'Paper 2', title: 'The Human and Physical Geography of Pakistan', durationMinutes: 90, marks: 77, weightingPercent: 50, assessmentType: 'written-exam' },
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-pakistan-studies-specification.pdf',
-    verifiedOn: '2026-08-26',
+    verifiedOn: '2026-10-04',
     notes: 'Specification (Version 1.9), for International GCSE exams May/June 2026 onwards -- no separate first-teaching date is stated in the document. Each paper: written exam, 1h30, 77 marks, 50% of GCSE, with three sections (two compulsory topics + one choice of two optional topics) worth 28/28/21 raw marks.',
+    assessmentModel: 'linear',
+    internalNotes: 'assessmentModel set 2026-10-04 (post-audit remediation, D-386), re-read from the officialSourceUrl PDF (sections 1 and 4, Scheme of assessment): The specification states that this qualification is linear: students sit all their exams at the end of the course. Optional topics are chosen within each paper, not between components. Components, durations, marks and weightings re-checked against the same PDF on the same date and unchanged, so verifiedOn moved from 2026-08-26 to 2026-10-04. Vocabulary as already used across this file: \'linear\' = every candidate takes the same compulsory, externally assessed components (cf. 0478, 2251, 2210).',
   },
   {
     boardSlug: 'ocr',
@@ -619,8 +657,10 @@ export const ASSESSMENTS: readonly Assessment[] = [
       { paperCode: 'H431/03', title: 'The Global Business Environment', durationMinutes: 120, marks: 80, weightingPercent: 33.34, assessmentType: 'written-exam' },
     ],
     officialSourceUrl: 'https://www.ocr.org.uk/Images/170837-specification-accredited-a-level-gce-business-h431.pdf',
-    verifiedOn: '2026-08-26',
+    verifiedOn: '2026-10-04',
     notes: 'Being withdrawn: OCR confirms H431 has its final first teach in September 2025 and its final assessment opportunity is Summer 2027; resits after that move to H436. Each component: 2h written paper, 80 marks. The spec\'s own "at a glance" table prints each component as "33.33% of total" (all three, not summing to exactly 100 on paper); the third component here is recorded as 33.34% so the typed record sums to exactly 100%, consistent with the spec\'s own detailed weighting-grid page which prints 25%/25%/25%/25% = 100% against the assessment objectives. The specification states that each component includes synoptic assessment.',
+    assessmentModel: 'linear',
+    internalNotes: 'assessmentModel set 2026-10-04 (post-audit remediation, D-386), re-read from the officialSourceUrl PDF (sections 1c and 3, Assessment availability): The specification states that the three examinations must all be taken in a single year at the end of the course; no coursework and no component choice. Components, durations, marks and weightings re-checked against the same PDF on the same date and unchanged, so verifiedOn moved from 2026-08-26 to 2026-10-04. Vocabulary as already used across this file: \'linear\' = every candidate takes the same compulsory, externally assessed components (cf. 0478, 2251, 2210).',
   },
   {
     boardSlug: 'ocr',
@@ -638,8 +678,10 @@ export const ASSESSMENTS: readonly Assessment[] = [
       { paperCode: 'H436/03', title: 'Strategy, Risk and Managing Change', durationMinutes: 120, marks: 90, weightingPercent: 33.34, assessmentType: 'written-exam' },
     ],
     officialSourceUrl: 'https://www.ocr.org.uk/Images/716172-specification-accredited-a-level-gce-business-h436.pdf',
-    verifiedOn: '2026-08-26',
+    verifiedOn: '2026-10-04',
     notes: 'Replaces H431. Specification states "for first teaching in 2026" and "for first assessment in 2028". Each component weighted "33.3%"/"33⅓%" per the spec\'s own rounded figures -- recorded here as 33.33/33.33/33.34 so the typed total is exactly 100%, not an invented split. All three components include assessment of quality of extended response (two such questions in each of Components 01 and 02, one in Component 03); Component 03 also includes synoptic assessment.',
+    assessmentModel: 'linear',
+    internalNotes: 'assessmentModel set 2026-10-04 (post-audit remediation, D-386), re-read from the officialSourceUrl PDF (section 5.1.6, Assessment availability): The specification states that all examined question papers must be taken in the same examination series at the end of the course; no component choice. Components, durations, marks and weightings re-checked against the same PDF on the same date and unchanged, so verifiedOn moved from 2026-08-26 to 2026-10-04. Vocabulary as already used across this file: \'linear\' = every candidate takes the same compulsory, externally assessed components (cf. 0478, 2251, 2210).',
   },
   // -- v2.0 MEGA PROGRAMME WS4: Cambridge International, batch 1 of N. --
   {
@@ -657,8 +699,10 @@ export const ASSESSMENTS: readonly Assessment[] = [
       { paperCode: 'Paper 4', title: 'Alternative to Practical', durationMinutes: 60, marks: 40, weightingPercent: 20, assessmentType: 'alternative-to-practical', alternativeGroup: 'practical', externallyAssessed: true },
     ],
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/697326-2026-2028-syllabus.pdf',
-    verifiedOn: '2026-08-27',
+    verifiedOn: '2026-10-04',
     notes: 'Directly confirmed against the official PDF (Assessment overview, p.9): Paper 1 Multiple Choice 1h/40 marks/30%; Paper 2 Theory 1h45/80 marks/50%; all candidates also take one practical component, a choice of Paper 3 Practical Test (1h30/40 marks/20%) OR Paper 4 Alternative to Practical (1h/40 marks/20%), both externally assessed. Cambridge states only the examination-series window (2026-2028, June and November series), not a separate first-teaching date.',
+    assessmentModel: 'component-based',
+    internalNotes: 'assessmentModel set 2026-10-04 (post-audit remediation, D-386), re-read from the officialSourceUrl PDF (Assessment overview, p.9): All candidates take three components: Papers 1 and 2 plus ONE practical paper chosen from Paper 3 (Practical Test) or Paper 4 (Alternative to Practical). Components, durations, marks and weightings re-checked against the same PDF on the same date and unchanged, so verifiedOn moved from 2026-08-27 to 2026-10-04. Vocabulary as already used across this file: \'component-based\' = the graded result depends on a choice between alternative components (cf. 0625 and 5090, same practical-choice structure).',
   },
   {
     boardSlug: 'cambridge',
@@ -675,8 +719,10 @@ export const ASSESSMENTS: readonly Assessment[] = [
       { paperCode: 'Paper 4', title: 'Alternative to Practical', durationMinutes: 60, marks: 40, weightingPercent: 20, assessmentType: 'alternative-to-practical', alternativeGroup: 'practical', externallyAssessed: true },
     ],
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/697324-2026-2028-syllabus.pdf',
-    verifiedOn: '2026-08-27',
+    verifiedOn: '2026-10-04',
     notes: 'Same structure as O Level Chemistry 5070, directly confirmed against the official PDF (Assessment overview, p.9): Paper 1 Multiple Choice 1h/40 marks/30%; Paper 2 Theory 1h45/80 marks/50%; practical component is a choice of Paper 3 Practical Test (1h30/40 marks/20%) OR Paper 4 Alternative to Practical (1h/40 marks/20%), both externally assessed. Examination-series window 2026-2028 (June and November series); no separate first-teaching date published.',
+    assessmentModel: 'component-based',
+    internalNotes: 'assessmentModel set 2026-10-04 (post-audit remediation, D-386), re-read from the officialSourceUrl PDF (Assessment overview, p.9): All candidates take three components: Papers 1 and 2 plus ONE practical paper chosen from Paper 3 (Practical Test) or Paper 4 (Alternative to Practical). Components, durations, marks and weightings re-checked against the same PDF on the same date and unchanged, so verifiedOn moved from 2026-08-27 to 2026-10-04. Vocabulary as already used across this file: \'component-based\' = the graded result depends on a choice between alternative components (cf. 0625 and 5090, same practical-choice structure).',
   },
   {
     boardSlug: 'cambridge',
@@ -691,8 +737,10 @@ export const ASSESSMENTS: readonly Assessment[] = [
       { paperCode: 'Paper 2', title: 'Calculator', durationMinutes: 120, marks: 100, weightingPercent: 50, assessmentType: 'written-exam', externallyAssessed: true, calculatorAllowed: true },
     ],
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/662480-2025-2027-syllabus.pdf',
-    verifiedOn: '2026-08-27',
+    verifiedOn: '2026-10-04',
     notes: 'Directly confirmed against the official PDF (Assessment overview, p.9): Paper 1 Non-calculator, 2h/100 marks/50%, use of a calculator not allowed; Paper 2 Calculator, 2h/100 marks/50%, a scientific calculator is required. Both externally assessed, not tiered. Examination-series window 2025-2027 (June and November series); no separate first-teaching date published.',
+    assessmentModel: 'linear',
+    internalNotes: 'assessmentModel set 2026-10-04 (post-audit remediation, D-386), re-read from the officialSourceUrl PDF (Assessment overview, p.9): All candidates take two components (Paper 1 Non-calculator, Paper 2 Calculator); no component choice. Components, durations, marks and weightings re-checked against the same PDF on the same date and unchanged, so verifiedOn moved from 2026-08-27 to 2026-10-04. Vocabulary as already used across this file: \'linear\' = every candidate takes the same compulsory, externally assessed components (cf. 0478, 2251, 2210).',
   },
   {
     boardSlug: 'cambridge',
@@ -730,8 +778,10 @@ export const ASSESSMENTS: readonly Assessment[] = [
       { paperCode: 'Paper 2', title: 'Paper 2', durationMinutes: 90, marks: 50, weightingPercent: 50, assessmentType: 'written-exam', externallyAssessed: true },
     ],
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/697279-2026-2027-syllabus.pdf',
-    verifiedOn: '2026-08-27',
+    verifiedOn: '2026-10-04',
     notes: 'Directly confirmed against the official PDF (Syllabus overview, p.8-9), which labels the papers only \'Paper 1\' (the Qur\'an, the Prophet Muhammad (pbuh) and the first Islamic community) and \'Paper 2\' (the Hadiths, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam): candidates must take Paper 1 and Paper 2, each 1.5 hours / 50 marks (five questions, Question 1 and Question 2 compulsory plus two more chosen), no explicit percentage stated by the board but the two equal-mark papers are therefore 50%/50% of the total. Both externally assessed, not tiered, answered in English. The syllabus PDF previously cited (635787, window 2024-2025) had lapsed; this record and the matching syllabus record were both corrected to the current 2026-2027 edition (697279) in the same update. Examination-series window 2026-2027 (June and November series); no separate first-teaching date published.',
+    assessmentModel: 'linear',
+    internalNotes: 'assessmentModel set 2026-10-04 (post-audit remediation, D-386), re-read from the officialSourceUrl PDF (Syllabus overview, section 3): All candidates take two written papers; both papers must be taken for a grade to be awarded. Components, durations, marks and weightings re-checked against the same PDF on the same date and unchanged, so verifiedOn moved from 2026-08-27 to 2026-10-04. Vocabulary as already used across this file: \'linear\' = every candidate takes the same compulsory, externally assessed components (cf. 0478, 2251, 2210).',
   },
   {
     boardSlug: 'cambridge',
@@ -746,8 +796,10 @@ export const ASSESSMENTS: readonly Assessment[] = [
       { paperCode: 'Paper 2', title: 'The environment of Pakistan', durationMinutes: 90, marks: 75, weightingPercent: 50, assessmentType: 'written-exam', externallyAssessed: true },
     ],
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/697282-2026-syllabus.pdf',
-    verifiedOn: '2026-08-27',
+    verifiedOn: '2026-10-04',
     notes: 'Directly confirmed against the official PDF (Assessment at a glance, p.9-10): Paper 1 (Section A 25 marks compulsory source-based question, Section B 50 marks -- two of four essay-style questions) and Paper 2 (three of five questions, 25 marks each), each 1h30/75 marks/50%, both externally assessed, all answers in English. Same structure (paper titles, timing, mark split) as Cambridge IGCSE Pakistan Studies 0448, independently confirmed from this record\'s own source PDF rather than assumed. This subject is published as a single-year syllabus edition (2026); Cambridge has also published later single-year (2027) and bundled (2028-2030) editions, not modeled here. Examination-series window 2026 (June and November series); no separate first-teaching date published.',
+    assessmentModel: 'linear',
+    internalNotes: 'assessmentModel set 2026-10-04 (post-audit remediation, D-386), re-read from the officialSourceUrl PDF (Assessment at a glance, section 4): Candidates take two compulsory components, Paper 1 and Paper 2. The 2027 syllabus (732849) keeps the same two-paper structure. Components, durations, marks and weightings re-checked against the same PDF on the same date and unchanged, so verifiedOn moved from 2026-08-27 to 2026-10-04. Vocabulary as already used across this file: \'linear\' = every candidate takes the same compulsory, externally assessed components (cf. 0478, 2251, 2210).',
   },
   {
     boardSlug: 'cambridge',
@@ -762,8 +814,10 @@ export const ASSESSMENTS: readonly Assessment[] = [
       { paperCode: 'Paper 2', title: 'The environment of Pakistan', durationMinutes: 90, marks: 75, weightingPercent: 50, assessmentType: 'written-exam', externallyAssessed: true },
     ],
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/697142-2026-syllabus.pdf',
-    verifiedOn: '2026-08-27',
+    verifiedOn: '2026-10-04',
     notes: 'Directly confirmed against the official PDF: Paper 1 The history and culture of Pakistan (Section A 25 marks compulsory source-based question, Section B 50 marks) and Paper 2 The environment of Pakistan (three of five questions, 25 marks each), each 1h30/75 marks/50%, both externally assessed. Identical structure to Cambridge O Level Pakistan Studies 2059, independently confirmed from this record\'s own source PDF. This syllabus is examined in the June series only (no November series for this IGCSE variant). Examination-series window 2026; no separate first-teaching date published.',
+    assessmentModel: 'linear',
+    internalNotes: 'assessmentModel set 2026-10-04 (post-audit remediation, D-386), re-read from the officialSourceUrl PDF (Assessment at a glance, section 4): Candidates take two compulsory components, Paper 1 and Paper 2. The 2027 syllabus (732847) keeps the same two-paper structure. Components, durations, marks and weightings re-checked against the same PDF on the same date and unchanged, so verifiedOn moved from 2026-08-27 to 2026-10-04. Vocabulary as already used across this file: \'linear\' = every candidate takes the same compulsory, externally assessed components (cf. 0478, 2251, 2210).',
   },
   {
     boardSlug: 'cambridge',

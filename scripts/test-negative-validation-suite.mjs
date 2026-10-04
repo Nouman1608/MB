@@ -481,8 +481,8 @@ withMutation(
   (text) => text
     .replace("relatedCode: 'H436',\n    tiers: ['not-tiered'],\n    firstTeaching: '2015-09',", "tiers: ['not-tiered'],\n    firstTeaching: '2015-09',")
     .replace(
-      "officialSourceUrl: 'https://www.ocr.org.uk/Images/170837-specification-accredited-a-level-gce-business-h431.pdf',\n    verifiedOn: '2026-08-26',\n    notes: 'Being withdrawn: OCR confirms H431 has its final first teach in September 2025 and its final assessment opportunity is Summer 2027; resits after that move to H436. Each component: 2h written paper, 80 marks. The spec\\'s own \"at a glance\" table prints each component as \"33.33% of total\" (all three, not summing to exactly 100 on paper); the third component here is recorded as 33.34% so the typed record sums to exactly 100%, consistent with the spec\\'s own detailed weighting-grid page which prints 25%/25%/25%/25% = 100% against the assessment objectives. The specification states that each component includes synoptic assessment.',",
-      "officialSourceUrl: 'https://www.ocr.org.uk/Images/170837-specification-accredited-a-level-gce-business-h431.pdf',\n    verifiedOn: '2026-08-26',",
+      "officialSourceUrl: 'https://www.ocr.org.uk/Images/170837-specification-accredited-a-level-gce-business-h431.pdf',\n    verifiedOn: '2026-10-04',\n    notes: 'Being withdrawn: OCR confirms H431 has its final first teach in September 2025 and its final assessment opportunity is Summer 2027; resits after that move to H436. Each component: 2h written paper, 80 marks. The spec\\'s own \"at a glance\" table prints each component as \"33.33% of total\" (all three, not summing to exactly 100 on paper); the third component here is recorded as 33.34% so the typed record sums to exactly 100%, consistent with the spec\\'s own detailed weighting-grid page which prints 25%/25%/25%/25% = 100% against the assessment objectives. The specification states that each component includes synoptic assessment.',",
+      "officialSourceUrl: 'https://www.ocr.org.uk/Images/170837-specification-accredited-a-level-gce-business-h431.pdf',\n    verifiedOn: '2026-10-04',",
     ),
   {
     validatorCmd: 'node --experimental-strip-types scripts/validate-assessments.mjs',
@@ -847,6 +847,32 @@ withMutation(
     validatorCmd: 'node --experimental-strip-types scripts/validate-assessments.mjs',
     expectSubstring: 'cites "ibo.org" but ib\'s official domain is "www.ibo.org"',
     label: "DP Global Politics's officialSourceUrl changed from www.ibo.org to the bare ibo.org host is rejected",
+  },
+);
+
+// D-386 (4 Oct 2026): every assessment record now states an assessmentModel
+// (check [15]); a removed or misspelt one must fail the build.
+const MODEL_9236 = "    assessmentModel: 'linear',\n    internalNotes: 'assessmentModel set 2026-10-04 (post-audit remediation, D-386), re-read from the officialSourceUrl PDF (sections 1 and 4, Scheme of assessment)";
+
+console.log('\n[AL] D-386 -- Assessment validator rejects a record with no assessmentModel');
+withMutation(
+  'src/data/academic/assessments.ts',
+  (text) => text.replace(MODEL_9236, MODEL_9236.replace("    assessmentModel: 'linear',\n", '')),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-assessments.mjs',
+    expectSubstring: 'missing assessmentModel',
+    label: "OxfordAQA 9236's assessmentModel removed is rejected",
+  },
+);
+
+console.log('\n[AM] D-386 -- Assessment validator rejects an assessmentModel outside the closed vocabulary');
+withMutation(
+  'src/data/academic/assessments.ts',
+  (text) => text.replace(MODEL_9236, MODEL_9236.replace("assessmentModel: 'linear',", "assessmentModel: 'terminal',")),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-assessments.mjs',
+    expectSubstring: 'invalid assessmentModel "terminal"',
+    label: "OxfordAQA 9236's assessmentModel set to an invented value is rejected",
   },
 );
 

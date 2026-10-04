@@ -48,6 +48,8 @@
  *        'official-host'); sourceConfidence 'authentic-mirror-corroborated'
  *        requires corroboratingSourceUrl; sourceConfidence without a
  *        mirrorSourceUrl must be 'official-host' or absent.
+ *   [15] D-386 addition (4 Oct 2026) -- every record states an
+ *        assessmentModel; a missing one fails the build.
  *   [3c] v2.0 addition — components sharing a routeGroup (the broader
  *        "choose a whole multi-component route" case, e.g. Cambridge
  *        IGCSE Literature in English 0475's Paper 2 vs Paper 3+4 vs
@@ -411,6 +413,18 @@ if (ASSESSMENTS.length === 0) {
     if (!VALID_SPEC_STATUSES.has(a.specStatus)) { fail(`${idOf(a)}: invalid specStatus "${a.specStatus}"`); p9++; }
   }
   if (!p9) ok('every component type and every v2.0 vocabulary field used is valid');
+
+  // [15] Post-audit remediation (4 Oct 2026, D-386) -- every record now
+  // carries an assessmentModel verified against its official source (the
+  // last 20 were completed that day), so a missing one is a regression,
+  // not a known gap. A new record must state its model from its own
+  // specification; it is never inferred from paper counts.
+  console.log('\n[15] Every record states an assessmentModel');
+  let p15 = 0;
+  for (const a of ASSESSMENTS) {
+    if (!a.assessmentModel) { fail(`${idOf(a)}: missing assessmentModel (state it from the official specification; never infer it)`); p15++; }
+  }
+  if (!p15) ok(`all ${ASSESSMENTS.length} records state an assessmentModel`);
 
   // [10] v2.0 — impossible date ordering. firstTeaching (if set) must not
   // be after firstAssessment; firstAssessment must not be after
