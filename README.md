@@ -122,8 +122,47 @@ claim a topic that syllabus data doesn't recognise). `resourceType` is one of `s
 with sibling **revision-notes** (condensed recall) and **practice-questions** (original
 questions, never reproduced past-paper text, full worked answers) on the same verified topic —
 `docs/decision-log.md` D-053 documents bringing every previously single-resource combination up
-to this standard, and the genuine IB source-access limitation (full syllabi are not publicly
-available) that keeps 19 IB combinations at 2 resources rather than 3+.
+to this standard, and the genuine IB source-access limitation (full IB subject guides are
+licensed, not public). Current resource counts per combination are in the canonical coverage
+report (see **Reports** below), not in this README.
+
+### Sourcing academic content
+
+Every syllabus fact, topic, tier label, assessment figure and command word comes from the
+awarding body's own current specification or qualification page (cambridgeinternational.org,
+aqa.org.uk, ocr.org.uk, oxfordaqa.com, qualifications.pearson.com, ibo.org) — never a tutoring
+site, Wikipedia, a search snippet or memory. Record the official URL and the date it was checked
+(`sourceUrl`/`verifiedDate` in `syllabus-topics.ts`, `officialSourceUrl`/`verifiedOn` in
+`assessments.ts`). Where the official source cannot be read (IB's licensed subject guides), say
+so on the page and keep to what the public IB subject brief states. Practice questions are
+original: never reproduce past-paper questions or mark-scheme text. Tier labels follow
+`src/utils/practice/question-tier.ts`; a new practice file on a Foundation/Higher syllabus is
+added to `HIGHER_LABELS_CHECKED` only after every question has been checked against the
+specification, and `npm run test:tools` fails until it is.
+
+### Academic review: what the fields mean
+
+- **`reviewStatus: "reviewed"`** — a named Marlbridge subject teacher (`reviewer`, an author
+  profile with `isReviewer: true`, never the page's author) is credited as accountable for the
+  page and the page shows "Reviewed by [name]". Since the owner's decision D-379 (1 Oct 2026)
+  this is **not** a claim that a dated, line-by-line check took place.
+- **`review-pending`** (the default) — no accountable teacher is credited yet.
+- **`reviewer`** — the credited accountable teacher.
+- **`reviewedDate`** — the date the reviewer credit was applied; not the date of a review.
+- **Repository-side verification** — a recorded check of a page against its official
+  specification (`docs/reports/academic-review/pending-review-*.json`). It is not a teacher
+  review and never changes `reviewStatus`.
+- A build or validator pass is none of the above.
+
+**Recording a genuine review.** The reviewer reads the page against the official specification
+it cites (its ledger row shows the repository-side verification result, any corrections and
+open minor issues), fixes or asks for fixes, and then — in one commit that names them —
+sets `reviewer`, `reviewStatus: "reviewed"` and `reviewedDate` (the real date) in the page's
+frontmatter. Never assign a reviewer on someone's behalf, copy one from another page because
+the subject matches, use the author as reviewer, back-date a review or bulk-change statuses.
+`validate-review-integrity.mjs` enforces the structural rules (real designated reviewer, not
+the author, subject and board covered by their profile, date not before publication or in the
+future). Then regenerate the reports.
 
 ## Academic data (`src/data/academic/`)
 
@@ -136,21 +175,44 @@ resources, pricing, assessment structure) is validated against:
 - `syllabus-topics.ts` — per-combination, per-series topic/component lists with `source`,
   `sourceUrl`, `verifiedDate`, `status` (`published` / `being-verified`). Nothing here is
   guessed; unverifiable content is marked as such, never invented.
-- `assessments.ts` — paper/component structure, weightings, tiers and lifecycle status
-  (`current` / `legacy-teach-out` / `future` / `withdrawn`, with `relatedCode` linking a
-  transition pair) for the combinations that have a sourced assessment record (141/160 as of the
-  v2.0 MEGA PROGRAMME WS-IB — a disclosed, tracked gap, not silently absent; the remaining 19 are
-  all IB (2 of the original 21 IB combinations, Economics DP and Physics DP, are now fully modeled
-  under Marlbridge's IB license; the other 19 stay unmodeled because their only legal source, IB's
-  public subject-brief PDFs, does not publish raw marks totals), see D-050 and D-061. Every record cites `officialSourceUrl` and `verifiedOn`; run
+- `assessments.ts` — paper/component structure, weightings, tiers, assessment model and
+  lifecycle status (`current` / `legacy-teach-out` / `future` / `withdrawn`, with `relatedCode`
+  linking a transition pair). Every active combination has an assessment record, and every
+  record states its `assessmentModel` (`linear`, `component-based`, `staged`, `modular`,
+  `mixed`, `criterion-referenced`, …) taken from an explicit statement in its own official
+  specification, never inferred from paper counts; `validate-assessments.mjs` check [15] fails
+  the build if a record has none. The current completeness figure (every record with a source,
+  a verification date, components with marks and a model = `VERIFIED_COMPLETE`) is in the
+  canonical coverage report below rather than written here, because it changes with the data
+  (160/160 complete on 4 Oct 2026, D-386). Every record cites `officialSourceUrl` and `verifiedOn`; run
   `npm run review:assessments` for a per-board checklist of every record's source and how long
   ago it was verified, useful for prioritising a re-check pass. The public "Assessment structure"
   section on each academic hub page, and the FAQPage schema generated alongside it, are both
   built directly from this file (`assessmentsFor()` in the same module).
 
-`node scripts/academic-coverage-report-v2.mjs` (npm: `coverage:academic-v2`) produces a full
-machine-readable coverage report (`docs/reports/academic-coverage-report-v1.2.{json,csv}`) —
-source-verification status, resource counts and word counts per combination.
+### Reports
+
+`npm run coverage:academic-v2` is the one canonical coverage report. A single run writes
+`docs/reports/academic-coverage-current.md`, `.json` and `.csv` from the same dataset: one row
+per active combination with its official source, topic map, assessment completeness and model,
+resources by type, authors and reviewers (derived from frontmatter), review-status counts, the
+latest real `reviewedDate`, topic-map gaps, depth thresholds, stale verifications, risks and a
+recommended next action. Demand is `NO_DATA`: no analytics, Search Console, CRM or enrolment
+source is read. No wall-clock timestamp is written (each file states `dataAsOf`, the latest
+date in the data), so an unchanged repository regenerates identical files; `npm run
+coverage:academic-v2 -- --check` fails if the committed files are out of date.
+
+`npm run report:review-ledger` writes the academic-review ledger: one row per resource in
+`docs/reports/academic-review/ledger.csv`, with totals in `ledger.json`, a summary in
+`ledger-summary.md` and the named-reviewer sign-off queue in `signoff-queue.md`
+(`npm run check:review-ledger` fails if they are out of date or a structural check fails).
+
+Regenerate both after any change to resources, academic data or review metadata and commit
+the output with the change. `docs/reports/README.md` lists which reports are canonical and
+current and which are dated historical evidence: historical reports (for example
+`academic-coverage-report-v1.1.md`, `-v1.2.md`, `-v1.2.json`, `-v1.2.csv`) are kept unchanged
+under a "superseded" banner and are never regenerated. Quote counts from the current reports,
+not from this README or from historical files.
 
 ## Pricing
 
@@ -217,39 +279,51 @@ redirects to it with a single 301.
 
 ## Validation and audit scripts
 
-Run before every push; all are wired into `npm run validate:academic` and `npm run audit:all`
-(see `package.json` for the exact commands each one runs):
+`package.json` is the source of truth for what each command runs. Summary:
 
-- **`validate:academic`** — matrix integrity, resource/topic cross-references, commercial-claims
-  wording, cross-board consistency, pricing/FX consistency, review-state integrity, duplicate
-  resource scope, assessment-structure integrity, pinned-teacher slugs (D-151), and Worker
-  binding/config agreement (D-152 — every `env.X` the Worker reads must be a declared binding or
-  a listed secret, so a fail-open binding can never again be missing in production while the
-  source reads as though it exists).
-- **`audit:all`** — metadata (duplicate titles/descriptions), structured data, redirects,
-  internal-link graph (broken links, orphans, generic anchor text), content-integrity
-  (indexability/metadata-honesty/self-canonical), font-binary integrity, sitemap/noindex
-  agreement, i18n route completeness.
-- `scripts/test-negative-validation-suite.mjs` — proves each validator actually rejects the fault
-  it claims to catch: mutates a real file, asserts the expected failure message, restores the
-  file byte-for-byte. 22 lettered categories, each with its own rationale documented inline.
-- `scripts/validate-assessments.mjs` (npm: `validate:assessments`, part of `validate:academic`) —
-  13 build-failing checks specific to `assessments.ts`: source-URL domain match, syllabus-code
-  cross-reference, weighting totals (whole-record and per-`alternativeGroup`/`routeGroup`),
-  duplicate paper/tier pairs, exactly-one-`current`-record-per-group, lifecycle date ordering,
-  and more — see the file's own header comment for the full numbered list.
-- `scripts/academic-coverage-dashboard.mjs` (npm: `coverage:academic`) and
-  `scripts/academic-coverage-report-v2.mjs` (npm: `coverage:academic-v2`) — reporting only, not
-  build-failing: resource/topic coverage and assessment-record coverage (`VERIFIED_COMPLETE` /
-  `VERIFIED_PARTIAL` / `NO_ASSESSMENT_RECORD`) per combination, the latter written to
-  `docs/reports/academic-coverage-report-v1.2.{json,csv}`.
-- `scripts/assessment-review-checklist.mjs` (npm: `review:assessments`) — reporting only: every
-  `assessments.ts` record's board, code, specStatus, source URL and verification age in one
-  place, flagging anything unverified for over 180 days as due for a re-check.
+- **`npm run validate:academic`** — runs, in order: `validate-academic-matrix`,
+  `validate-academic-content` (taxonomy, topic and stage references), `validate-commercial-claims`,
+  `validate-cross-board-integrity`, `validate-pricing-consistency`, `validate-review-integrity`,
+  `validate-pinned-teachers`, `validate-worker-bindings` (D-152), `validate-as-level-display`,
+  `validate-fx-policy`, `validate-assessments`, `validate-grade-thresholds`,
+  `validate-practice-bank`, `validate-practice-question-schema` and `validate-diagnostics`. It is
+  part of every `dev` and `build` run, so a build cannot start unless it passes.
+- **`npm run audit:all`** — decision-log encoding, metadata, structured data, redirects,
+  internal-link graph, content integrity, fonts, sitemap/noindex agreement
+  (`test-sitemap-noindex`), i18n routes (`test-i18n-routes`), rendered academic labels, tiered FAQ
+  routes, review coverage, accessibility and trial-link sources. Needs a built `dist/`.
+- **Standalone (not part of either chain):** `npm run check:duplicate-scope` (resources sharing
+  an identical official scope must be reviewed and allow-listed),
+  `node scripts/test-negative-validation-suite.mjs` (proves each validator rejects the fault it
+  claims to catch: mutates a real file, asserts the expected failure, restores it byte-for-byte),
+  `node scripts/test-cross-board-regression.mjs`, `npm run test:practice-analytics`,
+  `npm run test:reports` (report and ledger regression tests, below) and the report generators
+  above.
+- **Tests:** `npm run test:tools` runs the unit tests for the revision planner engine, pricing
+  calculator, syllabus points, course subject names, next steps, practice topic filter, practice
+  question tiers (Foundation/Higher and Core/Extended labels, including the reviewed-file guard),
+  and the signup and enquiry-validation endpoints. `npm run test:api` runs every test under
+  `functions/api/__tests__/`, `functions/_lib/__tests__/` and `src/worker/__tests__/`.
+- **`npm run test:reports`** — checks that the coverage report's Markdown, JSON and CSV agree
+  with each other and with the repository, that reviewer and review-date fields match an
+  independent derivation from frontmatter, that the ledger has exactly one row per resource,
+  that both reports are current, and (with temporary fixtures, restored byte-for-byte) that a
+  missing resource, a "reviewed" page without a reviewer and an orphan verification record are
+  all caught.
+- **Dependency audit:** run `npm audit`; it must report no moderate, high or critical
+  vulnerability. Fix transitive issues with the smallest lockfile update inside the parents'
+  existing ranges; never `npm audit fix --force`.
+
+**CI** (`.github/workflows/deploy.yml`, on every push to `main`): `npm ci`, `npm run build`
+(which includes `validate:academic`), `npm run audit:all`, the negative-fixture suite, the
+cross-board regression check and `npm run test:api`. `test:tools`, `test:reports`,
+`check:duplicate-scope`, `test:practice-analytics` and `npm audit` are not in CI; run them before
+pushing. Production deploys come from Cloudflare's own Git integration, not from this workflow
+(D-103).
 
 A change that touches academic content, pricing, or translated routes is not done until both
-chains pass clean and, where relevant, a fresh `npm run coverage:academic-v2` run confirms the
-expected effect.
+chains pass clean, the standalone checks above pass, and the canonical reports have been
+regenerated and committed.
 
 ## Client JavaScript
 
@@ -261,8 +335,8 @@ finder, the revision planner (`planner-engine.ts` is pure and unit tested; `plan
 page), the diagnostics and the workshop helpers. They store only in the visitor's browser.
 Everything else is static HTML.
 
-Tests for the tools: `npm run test:tools` (planner engine, enquiry validation, subscription and
-workshop endpoints).
+Tests for the tools: `npm run test:tools` (see **Validation and audit scripts** for the full
+list).
 
 ## Decision log
 
@@ -276,8 +350,6 @@ Check it before assuming a gap is an oversight.
 Translated collection-item detail pages (programs/subjects/authors/resources/articles by slug)
 and the two academic hub matrices remain English-only (disclosed, D-051; reconfirmed for the
 newly-expanded Assessment structure/FAQ content in D-059, which also documents what full
-hub-page translation would require). Assessment-structure data (`assessments.ts`) covers 141/160
-active combinations; the remaining 19 are all International Baccalaureate (2 of the original 21 —
-Economics DP and Physics DP — are now fully modeled under Marlbridge's IB license; the other 19
-remain a disclosed, licensing-driven gap since their only legal source lacks raw marks totals),
-see D-050 and D-061. Location pages and program × subject cross-listing pages are not built.
+hub-page translation would require). Location pages and program × subject cross-listing pages
+are not built. Every review-pending resource still needs a named, authorised reviewer's
+sign-off (see **Academic review** above and `docs/reports/academic-review/signoff-queue.md`).
