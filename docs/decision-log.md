@@ -15209,3 +15209,18 @@ Validation:
 - The branch is pushed only. The owner merges D-382 and D-383 together.
 - `reviewStatus` and `reviewer` are untouched on every new page.
 - A verifier noted that the existing `igcse-biology-plant-nutrition-practice` page names the June 2024 Paper 42 and paraphrases its examiner report with a source link. That came from the earlier examiner-report work and was left unchanged; the owner can decide whether it stays.
+
+## D-384 -- Last Cambridge/AQA subtopic gaps closed: 0620, 9709, 8463 (branch `subtopic-depth-gaps`, 4 Oct 2026, 14:54 PKT)
+
+**Request.** The owner asked (4 Oct, 14:43 PKT) to fill the remaining subtopic gaps next: 0620 (3), 9709 (2) and 8463 (1).
+
+**What was added (4 pages).**
+- **0620:** one study guide, `igcse-chemistry-0620-elements-atomic-structure-and-isotopes`, mapped to 2.1, 2.2 and 2.3 (the same scope as the existing `atomic-structure` revision notes and practice set). 2.3.3–2.3.4 are labelled "Extended only". Written against the 0620 syllabus for 2026, 2027 and 2028, version 2 (August 2026), downloaded from the Cambridge site for this work and saved to OneDrive Papers 2025/Syllabus with its update notice.
+- **9709:** study guide `a-level-maths-9709-quadratics` (1.1) and practice set `a-level-maths-9709-representation-of-data-practice` (5.1).
+- **8463:** revision notes `aqa-gcse-physics-8463-national-and-global-energy-resources-revision-notes` (4.1.3), pairing the existing study guide and practice set.
+
+**Process.** One writer and one independent verifier per page (`/home/claude/gaps/jobs3/`, `VERIFY_GAPS.md`). 9709 quadratics and 8463 passed unchanged. Fixes: 0620 common-error wording on the electron's mass (very small, not zero); 9709 data practice Q2 now states the quartile convention so the answer is unambiguous. Verifiers confirmed isotope abundances (B, Mg), the Ratcliffe-on-Soar closure (30 Sep 2024) and the environmental impacts with WebFetch.
+
+**Validation (4 Oct 2026, 14:54 PKT).** validate:academic PASS; check:duplicate-scope PASS; build OK; audit:all PASS; validate-review-integrity PASS; check_new.py OK on all 4 pages. content-gap-report.md regenerated: every syllabus with subtopic data now has full subtopic coverage. The only remaining gaps are MYP Sciences (2 of 5 topics) and MYP Individuals and Societies (2 of 6 topics).
+
+**Not done / owner decisions.** Branch pushed only; the owner merges D-382, D-383 and D-384 together. reviewStatus/reviewer untouched.
