@@ -1,6 +1,6 @@
 # Content gap report
 
-**Generated 29 Sep 2026, 16:43 PKT** by `python3 scripts/content-gap-report.py` (content-breadth sprint).
+**Generated 04 Oct 2026, 11:42 PKT** by `python3 scripts/content-gap-report.py` (content-breadth sprint).
 
 Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series only), which is the build-validated transcription of each board's official document. A topic counts as having a study guide (SG), revision notes (RN) or practice set (PQ) only if a resource of that type maps to it. Subtopic columns count exact subtopic mappings only. Nothing here says a page has been teacher-reviewed: all resources remain `review-pending`.
 
@@ -19,18 +19,18 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 | MYP Sciences (myp-sciences) | From 2014 | 31 | 10 / 10 / 10 | 3 / 5 | no subtopic data | gaps remain |
 | MYP Design (myp-design) | From 2014 | 30 | 10 / 10 / 10 | 4 / 4 | 4 / 4 | complete |
 | MYP Individuals and Societies (myp-individuals-and-societies) | From 2014 | 31 | 10 / 10 / 10 | 4 / 6 | no subtopic data | gaps remain |
-| 0580 (mathematics) | 2025-2027 | 31 | 9 / 9 / 13 | 9 / 9 | 29 / 72 | complete |
+| 0580 (mathematics) | 2025-2027 | 60 | 34 / 10 / 16 | 9 / 9 | 72 / 72 | complete |
 | 0620 (chemistry) | 2026-2028 | 59 | 19 / 20 / 20 | 12 / 12 | 46 / 49 | complete |
 | 0625 (physics) | For examination in 2026, 2027 and 2028 | 22 | 6 / 6 / 10 | 6 / 6 | 24 / 24 | complete |
 | 0610 (biology) | For examination in 2026, 2027 and 2028 | 63 | 21 / 21 / 21 | 21 / 21 | 55 / 61 | complete |
 | 9701 (chemistry) | 2025-2027 | 129 | 43 / 43 / 43 | 37 / 37 | 90 / 90 | complete |
 | 9702 (physics) | 2025-2027 | 75 | 25 / 25 / 25 | 25 / 25 | 76 / 76 | complete |
-| 9700 (biology) | For examination in 2025, 2026 and 2027 | 57 | 19 / 19 / 19 | 19 / 19 | 18 / 44 | complete |
+| 9700 (biology) | For examination in 2025, 2026 and 2027 | 89 | 27 / 27 / 35 | 19 / 19 | 44 / 44 | complete |
 | 9709 (mathematics) | 2026-2027 | 59 | 19 / 19 / 21 | 6 / 6 | 36 / 38 | complete |
-| 4MA1 (mathematics) | Specification Issue 2, November 2017 | 18 | 6 / 6 / 6 | 6 / 6 | 17 / 36 | complete |
-| 4CH1 (chemistry) | Issue 3, September 2024 | 14 | 4 / 4 / 6 | 4 / 4 | 1 / 17 | complete |
+| 4MA1 (mathematics) | Specification Issue 2, November 2017 | 54 | 18 / 18 / 18 | 6 / 6 | 36 / 36 | complete |
+| 4CH1 (chemistry) | Issue 3, September 2024 | 39 | 14 / 14 / 11 | 4 / 4 | 17 / 17 | complete |
 | 4PH1 (physics) | Issue 4 | 24 | 8 / 8 / 8 | 8 / 8 | 30 / 30 | complete |
-| 4BI1 (biology) | Issue 3 | 15 | 5 / 5 / 5 | 5 / 5 | 1 / 12 | complete |
+| 4BI1 (biology) | Issue 3 | 45 | 15 / 15 / 15 | 5 / 5 | 12 / 12 | complete |
 | 8461 (biology) | For first teaching 2016 | 24 | 8 / 8 / 8 | 8 / 8 | 1 / 6 | complete |
 | 8462 (chemistry) | For teaching from September 2016 | 33 | 11 / 11 / 11 | 11 / 11 | 1 / 8 | complete |
 | 8463 (physics) | For first teaching 2016 | 29 | 10 / 9 / 10 | 8 / 8 | 29 / 30 | complete |
@@ -42,14 +42,13 @@ Topic-level gaps first, then subtopic depth. Past-paper guides (brief step 5) no
 
 1. MYP Sciences: 2 of 5 topics still lack at least one of study guide / revision notes / practice set
 2. MYP Individuals and Societies: 2 of 6 topics still lack at least one of study guide / revision notes / practice set
-3. 0580: 43 of 72 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
-4. 9700: 26 of 44 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
-5. 4MA1: 19 of 36 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
-6. 4CH1: 16 of 17 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
-7. 4BI1: 11 of 12 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
-8. 8462: 7 of 8 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
-9. 8300: 7 of 7 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
-10. 0610: 6 of 61 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
+3. 8462: 7 of 8 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
+4. 8300: 7 of 7 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
+5. 0610: 6 of 61 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
+6. 8461: 5 of 6 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
+7. 0620: 3 of 49 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
+8. 9709: 2 of 38 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
+9. 8463: 1 of 30 official subtopics have no exact-subtopic page of every type (covered only by topic-level pages)
 
 ## Detail by syllabus
 
@@ -169,15 +168,15 @@ Topic-level gaps first, then subtopic depth. Past-paper guides (brief step 5) no
 
 | # | Topic | SG | RN | PQ | Subtopics missing a type (missing types) |
 |---|---|---|---|---|---|
-| 1 | Number | 1 | 1 | 2 | 1.2 (SG), 1.3 (SG), 1.4 (SG), 1.5 (SG), 1.6 (SG), 1.7 (SG/PQ), 1.9 (SG/RN), 1.12 (SG), 1.14 (SG), 1.15 (SG), 1.16 (SG), 1.17 (SG), 1.18 (SG) |
-| 2 | Algebra and graphs | 1 | 1 | 2 | 2.1 (SG), 2.2 (SG), 2.3 (SG), 2.4 (SG), 2.8 (SG), 2.9 (SG/PQ), 2.10 (SG/PQ), 2.11 (SG), 2.13 (SG) |
-| 3 | Coordinate geometry | 1 | 1 | 1 | 3.1 (SG), 3.2 (SG) |
-| 4 | Geometry | 1 | 1 | 2 | 4.1 (SG), 4.2 (SG), 4.3 (SG), 4.5 (SG), 4.8 (SG) |
-| 5 | Mensuration | 1 | 1 | 1 | 5.1 (SG), 5.2 (SG), 5.4 (SG) |
-| 6 | Trigonometry | 1 | 1 | 2 | 6.1 (SG), 6.3 (SG), 6.4 (SG) |
-| 7 | Transformations and vectors | 1 | 1 | 1 | 7.2 (SG), 7.3 (SG) |
-| 8 | Probability | 1 | 1 | 2 | 8.1 (SG), 8.2 (SG) |
-| 9 | Statistics | 1 | 1 | 2 | 9.1 (SG), 9.2 (SG), 9.4 (SG), 9.6 (SG) |
+| 1 | Number | 7 | 2 | 3 | -- |
+| 2 | Algebra and graphs | 7 | 1 | 4 | -- |
+| 3 | Coordinate geometry | 2 | 1 | 1 | -- |
+| 4 | Geometry | 4 | 1 | 2 | -- |
+| 5 | Mensuration | 3 | 1 | 1 | -- |
+| 6 | Trigonometry | 3 | 1 | 2 | -- |
+| 7 | Transformations and vectors | 2 | 1 | 1 | -- |
+| 8 | Probability | 2 | 1 | 2 | -- |
+| 9 | Statistics | 4 | 1 | 2 | -- |
 
 ### 0620 -- chemistry (cambridge igcse, 2026-2028)
 
@@ -309,22 +308,22 @@ Topic-level gaps first, then subtopic depth. Past-paper guides (brief step 5) no
 
 | # | Topic | SG | RN | PQ | Subtopics missing a type (missing types) |
 |---|---|---|---|---|---|
-| 1 | Cell structure | 1 | 1 | 1 | 1.1 (SG/RN/PQ), 1.2 (SG/RN/PQ) |
-| 2 | Biological molecules | 1 | 1 | 1 | 2.1 (SG/RN/PQ), 2.2 (SG/RN/PQ), 2.3 (SG/RN/PQ), 2.4 (SG/RN/PQ) |
-| 3 | Enzymes | 1 | 1 | 1 | 3.1 (SG/RN/PQ), 3.2 (SG/RN/PQ) |
-| 4 | Cell membranes and transport | 1 | 1 | 1 | 4.1 (PQ), 4.2 (PQ) |
+| 1 | Cell structure | 3 | 3 | 3 | -- |
+| 2 | Biological molecules | 5 | 5 | 5 | -- |
+| 3 | Enzymes | 3 | 3 | 3 | -- |
+| 4 | Cell membranes and transport | 1 | 1 | 2 | -- |
 | 5 | The mitotic cell cycle | 1 | 1 | 1 | -- |
 | 6 | Nucleic acids and protein synthesis | 1 | 1 | 1 | -- |
 | 7 | Transport in plants | 1 | 1 | 1 | -- |
-| 8 | Transport in mammals | 1 | 1 | 1 | 8.1 (PQ), 8.2 (PQ), 8.3 (PQ) |
+| 8 | Transport in mammals | 1 | 1 | 2 | -- |
 | 9 | Gas exchange | 1 | 1 | 1 | -- |
-| 10 | Infectious diseases | 1 | 1 | 1 | 10.1 (PQ), 10.2 (PQ) |
-| 11 | Immunity | 1 | 1 | 1 | 11.1 (PQ), 11.2 (PQ) |
-| 12 | Energy and respiration | 1 | 1 | 1 | 12.1 (PQ), 12.2 (PQ) |
+| 10 | Infectious diseases | 1 | 1 | 2 | -- |
+| 11 | Immunity | 1 | 1 | 2 | -- |
+| 12 | Energy and respiration | 1 | 1 | 2 | -- |
 | 13 | Photosynthesis | 1 | 1 | 1 | -- |
-| 14 | Homeostasis | 1 | 1 | 1 | 14.1 (PQ), 14.2 (PQ) |
-| 15 | Control and coordination | 1 | 1 | 1 | 15.1 (PQ), 15.2 (PQ) |
-| 16 | Inheritance | 1 | 1 | 1 | 16.1 (PQ), 16.2 (PQ), 16.3 (PQ) |
+| 14 | Homeostasis | 1 | 1 | 2 | -- |
+| 15 | Control and coordination | 1 | 1 | 2 | -- |
+| 16 | Inheritance | 1 | 1 | 2 | -- |
 | 17 | Selection and evolution | 1 | 1 | 1 | -- |
 | 18 | Classification, biodiversity and conservation | 1 | 1 | 1 | -- |
 | 19 | Genetic technology | 1 | 1 | 1 | -- |
@@ -344,8 +343,8 @@ Topic-level gaps first, then subtopic depth. Past-paper guides (brief step 5) no
 
 | # | Topic | SG | RN | PQ | Subtopics missing a type (missing types) |
 |---|---|---|---|---|---|
-| 1 | Numbers and the number system | 1 | 1 | 1 | 1.1 (SG/RN/PQ), 1.2 (SG/RN/PQ), 1.3 (SG/RN/PQ), 1.4 (SG/RN/PQ), 1.5 (SG/RN/PQ), 1.6 (SG/RN/PQ), 1.7 (SG/RN/PQ), 1.8 (SG/RN/PQ), 1.9 (SG/RN/PQ), 1.10 (SG/RN/PQ), 1.11 (SG/RN/PQ) |
-| 2 | Equations, formulae and identities | 1 | 1 | 1 | 2.1 (SG/RN/PQ), 2.2 (SG/RN/PQ), 2.3 (SG/RN/PQ), 2.4 (SG/RN/PQ), 2.5 (SG/RN/PQ), 2.6 (SG/RN/PQ), 2.7 (SG/RN/PQ), 2.8 (SG/RN/PQ) |
+| 1 | Numbers and the number system | 7 | 7 | 7 | -- |
+| 2 | Equations, formulae and identities | 7 | 7 | 7 | -- |
 | 3 | Sequences, functions and graphs | 1 | 1 | 1 | -- |
 | 4 | Geometry and trigonometry | 1 | 1 | 1 | -- |
 | 5 | Vectors and transformation geometry | 1 | 1 | 1 | -- |
@@ -355,8 +354,8 @@ Topic-level gaps first, then subtopic depth. Past-paper guides (brief step 5) no
 
 | # | Topic | SG | RN | PQ | Subtopics missing a type (missing types) |
 |---|---|---|---|---|---|
-| 1 | Principles of chemistry | 1 | 1 | 2 | 1a (SG/RN/PQ), 1b (SG/RN/PQ), 1c (SG/RN/PQ), 1d (SG/RN/PQ), 1e (SG/RN), 1f (SG/RN/PQ), 1g (SG/RN/PQ), 1h (SG/RN/PQ), 1i (SG/RN/PQ) |
-| 2 | Inorganic chemistry | 1 | 1 | 2 | a (SG/RN), b (SG/RN), c (SG/RN), e (SG/RN/PQ), f (SG/RN), g (SG/RN), h (SG/RN) |
+| 1 | Principles of chemistry | 6 | 6 | 6 | -- |
+| 2 | Inorganic chemistry | 6 | 6 | 3 | -- |
 | 3 | Physical chemistry | 1 | 1 | 1 | topic has no subtopic data |
 | 4 | Organic chemistry | 1 | 1 | 1 | topic has no subtopic data |
 
@@ -378,8 +377,8 @@ Topic-level gaps first, then subtopic depth. Past-paper guides (brief step 5) no
 | # | Topic | SG | RN | PQ | Subtopics missing a type (missing types) |
 |---|---|---|---|---|---|
 | 1 | The nature and variety of living organisms | 1 | 1 | 1 | topic has no subtopic data |
-| 2 | Structures and functions in living organisms | 1 | 1 | 1 | a (SG/RN/PQ), c (SG/RN/PQ), d (SG/RN/PQ), e (SG/RN/PQ), f (SG/RN/PQ), g (SG/RN/PQ), h (SG/RN/PQ), i (SG/RN/PQ), j (SG/RN/PQ) |
-| 3 | Reproduction and inheritance | 1 | 1 | 1 | a (SG/RN/PQ), b (SG/RN/PQ) |
+| 2 | Structures and functions in living organisms | 9 | 9 | 9 | -- |
+| 3 | Reproduction and inheritance | 3 | 3 | 3 | -- |
 | 4 | Ecology and the environment | 1 | 1 | 1 | topic has no subtopic data |
 | 5 | Use of biological resources | 1 | 1 | 1 | topic has no subtopic data |
 

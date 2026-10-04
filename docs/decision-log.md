@@ -15129,3 +15129,60 @@ Validation:
 **Not done / owner decisions.**
 - Branch pushed only; the owner merges.
 - `reviewStatus` and `reviewer` are untouched on every new page; only the owner assigns them.
+
+## D-382 -- Subtopic-depth gaps closed for 0580, 9700, 4MA1, 4CH1 and 4BI1 (branch `subtopic-depth-gaps`, 4 Oct 2026, 11:43 PKT)
+
+**Context.** On 4 Oct the owner said to merge the D-381 sprint (done: main fast-forwarded to b227f617) and to "fill the older gaps": the five largest subtopic-depth gaps in `content-gap-report.md`. Before this sprint, these subtopics had no study guide, revision notes or practice set mapped to them exactly; they were covered only by topic-level pages.
+
+| Syllabus | Subtopics fully covered, before | After |
+|---|---|---|
+| 0580 | 29 / 72 | 72 / 72 |
+| 9700 | 18 / 44 | 44 / 44 |
+| 4MA1 | 17 / 36 | 36 / 36 |
+| 4CH1 | 1 / 17 | 17 / 17 |
+| 4BI1 | 1 / 12 | 12 / 12 |
+
+**What was added.** 73 units, 152 pages. Only the missing types were written for each subtopic; existing pages were read, linked and not repeated. Each unit's pages are tagged at topic level plus exact subtopic level.
+- **0580:**
+  - 25 subtopic study guides, covering 1.2–1.7, 1.9, 1.12, 1.14–1.18, 2.1–2.4, 2.8–2.11, 2.13, 3.1–3.2, 4.1–4.3, 4.5, 4.8, 5.1–5.2, 5.4, 6.1, 6.3–6.4, 7.2–7.3, 8.1–8.2, 9.1–9.2, 9.4 and 9.6.
+  - Practice sets for 1.3/1.7, 2.9 and 2.10/2.11.
+  - Revision notes for 1.9/1.14.
+  - Core/Extended and non-calculator/calculator labels are taken from the C/E columns.
+- **9700:**
+  - Full units for 1.1, 1.2, 2.1, 2.2, 2.3, 2.4, 3.1 and 3.2.
+  - Subtopic practice sets for topics 4, 8, 10, 11, 12, 14, 15 and 16, written as new questions beside the existing topic-level sets.
+  - Stage AS for topics 1–11 and A for 12–16.
+- **4MA1:** 12 full units across 1.1–1.11 and 2.1–2.8. "Higher tier only" is used only where the content appears only in the Higher tier list.
+- **4CH1:**
+  - Full units for 1a/1b, 1c/1d, 1f–1h, 1i and 2e.
+  - Study guides and revision notes for 1e, 2a/2b, 2c, 2f/2g and 2h; practice sets already existed for these.
+  - "Paper 2 only" on bold C statements.
+- **4BI1:**
+  - Full units for 2a/2c, 2d, 2e, 2f, 2g, 2h, 2i, 2j, 3a and 3b.
+  - "Paper 2 only" on bold B statements.
+
+**Process.**
+- Writers followed `/home/claude/sprint/BRIEF.md` and `BRIEF_CORE.md` with sprint overrides: 1,500–2,100 words per page, every number checked in Python, original questions, author `marlbridge-academic-team`, no reviewer fields and no resource counts.
+- Every unit was then checked by a separate verifier against `/home/claude/gaps/VERIFY_GAPS.md`. The verifier:
+  - re-derived every number independently;
+  - mapped each learning outcome of the subtopic to where it is taught;
+  - checked tier and paper labels against the official text;
+  - checked mark sums and originality.
+- About 40 verifiers made fixes. Examples:
+  - **Corrections:** 0580 functions (a wrong expansion), 0580 trigonometric functions (method for a negative calculator angle), 0580 symmetry (cube and tetrahedron exceptions), 0580 graphs (a range that excluded an answer), 4MA1 inequalities (an intercept), 4CH1 acids (79.9% shown as 80.0%), 9700 heart ("apex upwards"), 9700 χ² (critical value standardised to 7.82).
+  - **Added material:** questions for outcomes that had none (9700 immunity, respiration, homeostasis, control and coordination, membranes, inheritance, infectious diseases (malaria transmission), transport in mammals).
+  - **Wording:** one named exam series removed (4BI1 transport), and descriptions that could read as counts were reworded.
+
+**Validation (4 Oct 2026, 11:43 PKT).**
+- `npm run validate:academic` PASS.
+- `npm run check:duplicate-scope` PASS.
+- `npm run build` OK.
+- `npm run audit:all` PASS.
+- `validate-review-integrity` PASS.
+- `check_new.py` OK on all 152 new files, and all 73 writer number scripts run cleanly.
+- `content-gap-report.md` regenerated: all five syllabuses now report full subtopic coverage. The largest remaining gaps are MYP Sciences and MYP I&S (framework topics), then 8462, 8300, 0610, 8461, 0620, 9709 and 8463 subtopic depth.
+
+**Not done / owner decisions.**
+- The branch is pushed only. The owner merges, as with D-381 unless told otherwise.
+- `reviewStatus` and `reviewer` are untouched on every new page.
+- The "Marlbridge unfinished drafts - 0457 Global Perspectives" folder in OneDrive Papers 2025 could not be deleted: the connected folder on desktop-dbja8vd was not reachable (path not found). The owner can delete it directly.
