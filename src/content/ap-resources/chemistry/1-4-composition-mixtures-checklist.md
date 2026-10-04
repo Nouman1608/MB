@@ -40,7 +40,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can calculate the purity of a sample when the impurity contains none of the analysed element. *(Guide: Worked example 1; Practice Q3, Q4a, Q6c)*
 - I can find the amount of each component in a two-component mixture when both contain the analysed element. *(Guide: Worked example 2; Practice Q5b)*
 - I can find the total mass of an element that comes from two different components. *(Practice Q4b)*
-- I can convert analysis masses to moles to find the ratio of atoms in a sample. *(Guide: Worked example 2; Practice Q7)*
+- I can convert analysis masses to moles to find the ratio of atoms in a sample. *(Guide: Worked example 2 step 5; Guide: "Is the sample pure?")*
 
 ## Reasoning
 

@@ -35,7 +35,7 @@ faqs:
   - question: "Why is the x-axis labelled m/z and not just mass?"
     answer: "The instrument separates ions by mass divided by charge (m/z). In this course every ion has a charge of +1, so m/z has the same number as the isotope's mass in amu."
   - question: "Why does no atom have the average atomic mass?"
-    answer: "Each atom is one particular isotope. The average is a property of a large natural sample, so it usually falls between the isotope masses and matches none of them."
+    answer: "For an element with two or more isotopes, each atom is one particular isotope. The average is a property of a large natural sample, so it usually falls between the isotope masses and matches none of them."
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
@@ -49,7 +49,7 @@ Every atom of an element has the same number of protons. That number (the atomic
 
 - The **mass number** is protons + neutrons. It is a whole number, written as a left superscript: ²⁴Mg, ²⁵Mg, ²⁶Mg.
 - The **isotopic mass** is the measured mass of one atom of that isotope in atomic mass units (amu). It is close to the mass number but not exactly equal: ²⁴Mg has a mass of 23.985 amu.
-- Isotopes of one element have the same chemistry, because chemistry depends on electrons, and isotopes have the same number of electrons.
+- Isotopes of one element have essentially the same chemistry, because chemistry depends on electrons, and isotopes have the same number of electrons.
 
 Most elements in nature are a mixture of isotopes. The periodic table cannot show the mass of "a magnesium atom", because magnesium atoms do not all have the same mass. It shows an **average atomic mass** instead, and a mass spectrum is how that average is measured.
 

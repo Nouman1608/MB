@@ -142,7 +142,7 @@ The **empirical formula** lists the elements in a compound with the **lowest who
 Notice two things:
 
 - For a molecular substance, the **molecular formula** gives the actual number of atoms in one molecule. The empirical formula is the molecular formula with all subscripts divided by their highest common factor. Sometimes the two are the same (water).
-- For a substance described by a formula unit, such as NaCl or SiO₂, the formula is already the lowest ratio. It is an empirical formula.
+- For a substance described by a formula unit, such as NaCl or SiO₂, the formula is normally written as the lowest ratio, so it is an empirical formula. (A few exceptions keep a group of atoms together: sodium peroxide is written Na₂O₂ because it contains O₂²⁻ ions, but its empirical formula is NaO.)
 
 The key link for this topic: **the elemental composition by mass fixes the empirical formula**. Glucose (C₆H₁₂O₆) and methanal (CH₂O) have exactly the same percentage composition (40.00% C, 6.71% H, 53.29% O) because they share the empirical formula CH₂O. Mass data alone cannot tell them apart. To get the molecular formula you also need the molar mass. That extra step is background here; it is not part of the Topic 1.3 objective.
 

@@ -30,9 +30,9 @@ Work through the list without notes. If you cannot do a statement, follow its li
 ## Understanding
 
 - I can explain what isotopes are and why isotopes of one element have the same chemistry. *(Guide: "Isotopes")*
-- I can describe the main stages of a mass spectrometer and explain why m/z equals the isotope mass for a +1 ion. *(Guide: "What a mass spectrometer does"; Practice Q7)*
+- I can describe the main stages of a mass spectrometer (background) and explain why m/z equals the isotope mass for a +1 ion. *(Guide: "What a mass spectrometer does"; Practice Q7)*
 - I can say what the number, position and height of the peaks in a one-element spectrum tell me. *(Guide: "Reading a mass spectrum"; Practice Q1)*
-- I can explain why no single atom has the average atomic mass. *(Guide: "Common misconceptions"; Practice Q6)*
+- I can explain why, for an element with several isotopes, no single atom has the average atomic mass. *(Guide: "Common misconceptions"; Practice Q6)*
 - I can state which kinds of spectra are outside this topic's assessment (mixtures, molecules, ions that are not +1). *(Guide: "What you will and will not be asked")*
 
 ## Calculation

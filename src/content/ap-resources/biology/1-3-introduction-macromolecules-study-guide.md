@@ -73,6 +73,8 @@ To join two monomers, a cell makes a new covalent bond between them. The reactio
 3. The H and the –OH combine to form a **water molecule (H₂O)**, which is released.
 4. The two monomers are now joined by a **covalent bond** where the H and –OH used to be.
 
+Some texts, including the course description, call the H that is removed (or added in hydrolysis) a hydrogen ion. For this topic, treat "H" and "hydrogen ion" as the same thing: it is the part that combines with –OH to make water.
+
 "Dehydration" means losing water. "Synthesis" means making something. So **dehydration synthesis** means "making a bigger molecule by removing water". Many books call it a **condensation reaction**.
 
 <figure>

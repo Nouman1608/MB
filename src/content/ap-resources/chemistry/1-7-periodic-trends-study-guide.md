@@ -51,7 +51,7 @@ If you list the elements in order of atomic number, similar properties come back
 The reason is electronic structure:
 
 - Elements in the same **group** have the same pattern of **valence electrons**. Lithium is [He] 2s¹, sodium is [Ne] 3s¹ and potassium is [Ar] 4s¹. The outer electron is the one that takes part in reactions, so the three metals react in similar ways.
-- Each **period** fills one new outer shell. A period ends at a noble gas, where the shell's s and p subshells are completely filled.
+- Each **period** fills one new outer shell. A period ends at a noble gas, where the shell's s and p subshells are completely filled (for helium, just the 1s subshell).
 - The **blocks** of the table match the subshell being filled: s-block (groups 1–2), p-block (groups 13–18), d-block (transition metals).
 
 So the table's shape is not arbitrary. Moving along a row adds one proton and one electron at a time. Moving down a column adds one whole shell. Filled shells (noble gases) and the start of a new subshell show up as sudden changes in the data, as you will see in Figure 2.

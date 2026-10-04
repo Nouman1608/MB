@@ -131,7 +131,7 @@ Check: Cu₂S is 79.86% copper by mass; the sample is 0.500 ÷ 0.626 × 100 = 79
 
 Suggested mark points (3): 1 for the sulfur mass by subtraction; 1 for both mole values; 1 for the 2 : 1 ratio and the formula Cu₂S.
 
-Common errors: using 0.626 g as the sulfur mass; dividing by the larger number of moles, which gives Cu : S = 1 : 0.5 and leads some students to write CuS.
+Common errors: using 0.626 g as the sulfur mass; dividing by the larger number of moles, which gives Cu : S = 1 : 0.4995, and then rounding 0.4995 up to 1 to write CuS. A ratio of 1 : 0.5 means multiply by 2, giving Cu₂S.
 </details>
 
 ## Question 6 (constructed response · core)

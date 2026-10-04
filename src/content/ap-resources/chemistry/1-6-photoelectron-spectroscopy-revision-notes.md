@@ -56,7 +56,7 @@ Units: 1 MJ mol⁻¹ = 1000 kJ mol⁻¹.
 
 - Heights are only *ideally* proportional to electron numbers, so round the ratio to the nearest whole number of electrons.
 - The sample is a single element (or ion) in the gas phase, in its ground state.
-- Subshells fill in Aufbau order; elements that break this rule are not tested.
+- Subshells fill in Aufbau order; you will not be asked to write configurations for the elements that break this rule.
 
 ## Mistakes to avoid
 

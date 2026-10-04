@@ -222,7 +222,7 @@ In a fictional strain of mice, a mutation lowers the activity of the enzyme that
 
 **(b)** Normal: 1300 ÷ 13 = **100 chains**. Mutant: 1300 ÷ 40 = **32.5**, about 33 chains. Ratio of chains: 100 ÷ 32.5 = **3.1**. Ratio of rates: 8.4 ÷ 2.9 = **2.9**. The two ratios are similar, which supports the idea that the number of chain ends sets the release rate.
 
-**(c)** During running, muscles take up glucose from the blood, and the liver normally replaces it by hydrolysing glycogen. In mutant mice, glycogen has fewer branches, so fewer chain ends. Enzymes can remove glucose from fewer places at once, so the liver releases glucose more slowly. **Prediction:** blood glucose would fall more, or fall sooner, in the mutant mice than in normal mice.
+**(c)** During running, muscles take up glucose from the blood, and the liver normally replaces it by breaking down glycogen. In mutant mice, glycogen has fewer branches, so fewer chain ends. Enzymes can remove glucose from fewer places at once, so the liver releases glucose more slowly. **Prediction:** blood glucose would fall more, or fall sooner, in the mutant mice than in normal mice.
 
 | Point | What earns it |
 |---|---|
@@ -230,7 +230,7 @@ In a fictional strain of mice, a mutation lowers the activity of the enzyme that
 | 1 | 100 and 32.5 (or 33) chains |
 | 1 | Both ratios and a comparison linking chain number to rate |
 | 1 | Prediction: blood glucose falls more or sooner in mutants |
-| 1 | Justification: fewer branches → fewer ends → slower hydrolysis of glycogen in the liver |
+| 1 | Justification: fewer branches → fewer ends → slower breakdown of glycogen in the liver |
 
 Accept "the mutants tire sooner" if linked to slower glucose release. Do not award the last point for "the mutant has less glucose stored": the data compare equal masses of glycogen.
 </details>

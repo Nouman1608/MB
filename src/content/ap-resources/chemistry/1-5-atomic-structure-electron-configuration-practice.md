@@ -52,7 +52,7 @@ Which is the ground-state electron configuration of an arsenic atom, As?
 
 - (A) skips the d block. It holds only 23 electrons, which is vanadium's count, not arsenic's.
 - (C) has 31 electrons. That is gallium, the first p-block element in period 4.
-- (D) has the right count (33) but leaves 4s empty and overfills 4p. In the ground state 4s fills before 3d and 4p.
+- (D) has the right count (33) but leaves 4s empty and puts five electrons in 4p instead of three. In the ground state 4s fills before 3d and 4p.
 </details>
 
 ## Question 2 (multiple choice · core)
@@ -197,7 +197,7 @@ Use Coulomb's law to explain each observation.
 | 1 | (b) Same subshell, so similar distance and the same shielding by 1s² |
 | 1 | (b) Be has more protons, so a larger effective nuclear charge and a stronger attraction |
 
-Accept "effective nuclear charge" or "core charge". Answers that mention only "more protons" without addressing distance or shielding earn at most 1 point in each part.
+Accept "effective nuclear charge" or "core charge". In (a), an answer that gives only one factor (distance or shielding) earns at most 1 point. In (b), an answer that says only "Be has more protons", without noting the similar distance and equal shielding, earns at most 1 point.
 </details>
 
 ## How did you do?

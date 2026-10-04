@@ -231,65 +231,65 @@ The monomers in a polysaccharide can be joined in a single unbranched chain (**l
 <line x1="545" y1="175" x2="565" y2="175" stroke="#1d2b44" stroke-width="3"/>
 <line x1="565" y1="175" x2="585" y2="175" stroke="#1d2b44" stroke-width="3"/>
 <line x1="585" y1="175" x2="605" y2="175" stroke="#1d2b44" stroke-width="3"/>
-<circle cx="445" cy="175" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="465" cy="175" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="485" cy="175" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="505" cy="175" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="525" cy="175" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="545" cy="175" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="565" cy="175" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="585" cy="175" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="605" cy="175" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="445" cy="175" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="465" cy="175" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="485" cy="175" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="505" cy="175" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="525" cy="175" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="545" cy="175" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="565" cy="175" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="585" cy="175" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="605" cy="175" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <line x1="465" y1="175" x2="477" y2="159" stroke="#1d2b44" stroke-width="3"/>
 <line x1="477" y1="159" x2="489" y2="143" stroke="#1d2b44" stroke-width="3"/>
 <line x1="489" y1="143" x2="501" y2="127" stroke="#1d2b44" stroke-width="3"/>
-<circle cx="465" cy="175" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="477" cy="159" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="489" cy="143" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="501" cy="127" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="465" cy="175" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="477" cy="159" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="489" cy="143" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="501" cy="127" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <line x1="525" y1="175" x2="537" y2="159" stroke="#1d2b44" stroke-width="3"/>
 <line x1="537" y1="159" x2="549" y2="143" stroke="#1d2b44" stroke-width="3"/>
 <line x1="549" y1="143" x2="561" y2="127" stroke="#1d2b44" stroke-width="3"/>
-<circle cx="525" cy="175" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="537" cy="159" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="549" cy="143" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="561" cy="127" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="525" cy="175" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="537" cy="159" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="549" cy="143" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="561" cy="127" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <line x1="585" y1="175" x2="597" y2="159" stroke="#1d2b44" stroke-width="3"/>
 <line x1="597" y1="159" x2="609" y2="143" stroke="#1d2b44" stroke-width="3"/>
 <line x1="609" y1="143" x2="621" y2="127" stroke="#1d2b44" stroke-width="3"/>
-<circle cx="585" cy="175" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="597" cy="159" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="609" cy="143" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="621" cy="127" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="585" cy="175" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="597" cy="159" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="609" cy="143" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="621" cy="127" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <line x1="505" y1="175" x2="517" y2="191" stroke="#1d2b44" stroke-width="3"/>
 <line x1="517" y1="191" x2="529" y2="207" stroke="#1d2b44" stroke-width="3"/>
 <line x1="529" y1="207" x2="541" y2="223" stroke="#1d2b44" stroke-width="3"/>
-<circle cx="505" cy="175" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="517" cy="191" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="529" cy="207" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="541" cy="223" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="505" cy="175" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="517" cy="191" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="529" cy="207" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="541" cy="223" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <line x1="565" y1="175" x2="577" y2="191" stroke="#1d2b44" stroke-width="3"/>
 <line x1="577" y1="191" x2="589" y2="207" stroke="#1d2b44" stroke-width="3"/>
 <line x1="589" y1="207" x2="601" y2="223" stroke="#1d2b44" stroke-width="3"/>
-<circle cx="565" cy="175" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="577" cy="191" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="589" cy="207" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="601" cy="223" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="565" cy="175" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="577" cy="191" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="589" cy="207" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="601" cy="223" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <line x1="489" y1="143" x2="477" y2="127" stroke="#1d2b44" stroke-width="3"/>
 <line x1="477" y1="127" x2="465" y2="111" stroke="#1d2b44" stroke-width="3"/>
-<circle cx="489" cy="143" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="477" cy="127" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="465" cy="111" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="489" cy="143" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="477" cy="127" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="465" cy="111" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <line x1="549" y1="143" x2="537" y2="127" stroke="#1d2b44" stroke-width="3"/>
 <line x1="537" y1="127" x2="525" y2="111" stroke="#1d2b44" stroke-width="3"/>
-<circle cx="549" cy="143" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="537" cy="127" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="525" cy="111" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="549" cy="143" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="537" cy="127" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="525" cy="111" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <line x1="529" y1="207" x2="517" y2="223" stroke="#1d2b44" stroke-width="3"/>
 <line x1="517" y1="223" x2="505" y2="239" stroke="#1d2b44" stroke-width="3"/>
-<circle cx="529" cy="207" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="517" cy="223" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="505" cy="239" r="7" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="529" cy="207" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="517" cy="223" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="505" cy="239" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <circle cx="40" cy="292" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <text x="54" y="297" text-anchor="start" font-size="13" fill="#1d2b44">= one glucose unit</text>
 <line x1="200" y1="292" x2="240" y2="292" stroke="#1d2b44" stroke-width="3"/>
@@ -308,7 +308,7 @@ The monomers in a polysaccharide can be joined in a single unbranched chain (**l
 
 ### Storage polysaccharides: starch and glycogen
 
-Why store glucose as a polymer at all? A single large polysaccharide molecule takes the place of thousands of separate glucose molecules. It does not dissolve the way free glucose does, so it does not upset the water balance of the cell, and it stays where it is put. When energy is needed, hydrolysis frees the glucose again.
+Why store glucose as a polymer at all? A single large polysaccharide molecule takes the place of thousands of separate glucose molecules. Starch is insoluble, and glycogen is packed into granules. Neither behaves like thousands of dissolved glucose molecules, so storage does not upset the water balance of the cell, and the store stays where it is put. When energy is needed, enzymes break the links and free the glucose again.
 
 Animals often need energy fast: to run from a predator, or to keep muscles working. Glycogen's many branches mean many chain ends. Enzymes that release glucose work at these ends, so more ends means more glucose released per second. Plants are less active, and starch, with fewer branches, suits their slower needs.
 
@@ -368,7 +368,7 @@ Another structural polysaccharide, **chitin**, forms the cell walls of fungi and
 - **"A chain of n sugars releases n waters."** It releases n − 1, one per link.
 - **"The links between sugars are hydrogen bonds."** The links that hold a chain together are covalent bonds. Hydrogen bonds are the weaker attractions *between* cellulose chains.
 - **"Branched means bigger."** Branching changes the shape and the number of chain ends, not the number of monomers. A branched and a linear molecule can hold the same number of glucose units.
-- **"Sugar molecules are stored as free glucose so they are ready to use."** Cells store glucose as insoluble polymers; large amounts of dissolved glucose would draw water into the cell.
+- **"Sugar molecules are stored as free glucose so they are ready to use."** Cells store glucose as large polymers; large amounts of dissolved glucose would draw water into the cell.
 - **"Humans cannot digest cellulose because it is not made of glucose."** It is made of glucose. Our enzymes do not fit its links.
 
 ## Where this leads

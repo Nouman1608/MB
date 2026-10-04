@@ -31,7 +31,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can state the number of valence electrons of any main-group element from its group number. *(Guide: "Why valence electrons control chemistry")*
 - I can explain how the attraction between nuclei and valence electrons decides whether two elements form an ionic bond, share electrons or do not bond. *(Guide; Practice Q7)*
 - I can explain why elements in the same group form analogous compounds. *(Guide: "Same group, same kind of compound"; Practice Q2)*
-- I can explain, without saying "atoms want a full shell", why Mg forms Mg²⁺ and not Mg⁺ or Mg³⁺. *(Guide: Figure 2 and Worked example 2)*
+- I can explain, without saying "atoms want a full shell", why Mg forms Mg²⁺ and not Mg³⁺. *(Guide: Figure 2 and Worked example 2)*
 
 ## Skills
 

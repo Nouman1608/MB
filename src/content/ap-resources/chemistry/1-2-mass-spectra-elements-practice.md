@@ -89,7 +89,7 @@ The mass spectrum of a pure element shows exactly two peaks, at m/z 79 and m/z 8
 
 **Answer: (B).** Two isotopes of almost equal abundance give an average close to the midpoint: (79 + 81) ÷ 2 = 80. Bromine's average atomic mass, 79.90 amu, fits. It is just below 80, so the lighter isotope is very slightly more common.
 
-- (A) 78.97 is below 79. An average can never be lower than the lightest isotope present.
+- (A) 78.97 is at the lighter peak, not between the two. An average that close to 79 would need almost every atom to be the lighter isotope, but the two peaks are almost equally tall.
 - (C) and (D) are above 81. An average can never be higher than the heaviest isotope present.
 </details>
 

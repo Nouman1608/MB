@@ -30,7 +30,7 @@ keyPoints:
   - "A pure compound has a fixed mass percent of each element. A mixture's mass percent depends on how much of each component it holds."
   - "If an impurity contains none of the analysed element, purity = (measured mass of element ÷ mass fraction of element in the pure compound) ÷ sample mass."
   - "For a two-component mixture, write one equation for total mass and one for the analysed element, then solve, usually in moles."
-  - "A non-whole-number atom ratio, or a mass percent that changes from sample to sample, is evidence of a mixture."
+  - "An atom ratio that does not match the expected formula, or a mass percent that changes from sample to sample, is evidence of a mixture."
 faqs:
   - question: "Can a mixture have a chemical formula?"
     answer: "No. A formula describes one type of particle in fixed proportions. A mixture can only be described by its components and how much of each it contains, for example 38% NaCl and 62% KCl by mass."
@@ -188,9 +188,9 @@ Now the chlorine comes from **both** salts, so one division is not enough. You n
    58.44(0.059238 − b) + 74.55b = 4.00
    3.4619 + 16.11b = 4.00, so b = 0.033402 mol and a = 0.025836 mol.
 4. **Masses.** m(NaCl) = 0.025836 × 58.44 = 1.510 g; m(KCl) = 0.033402 × 74.55 = 2.490 g. These add to 4.00 g, which checks the algebra.
-5. **Atom ratio.** Each NaCl holds one Na atom (as Na⁺) and each KCl one K atom, so Na : K = 0.025836 : 0.033402 = 0.774 : 1.
+5. **Atom ratio.** Each NaCl holds one Na atom (as Na⁺) and each KCl one K atom, so Na : K = 0.025836 : 0.033402 = 0.773 : 1.
 
-**Answer.** (a) **1.51 g NaCl and 2.49 g KCl** (37.7% and 62.3% by mass). (b) Na : K = **0.774 : 1** (or about 1 : 1.29).
+**Answer.** (a) **1.51 g NaCl and 2.49 g KCl** (37.7% and 62.3% by mass). (b) Na : K = **0.773 : 1** (or about 1 : 1.29).
 
 **Interpretation.** The chlorine mass percent is 2.10 ÷ 4.00 × 100 = 52.5%, which sits between 47.55% and 60.66% (Figure 2). It is closer to the KCl value, so it makes sense that KCl is the larger part. The ratio of metal atoms is not a whole-number ratio, which is normal for a mixture: you could have made it with any proportions.
 

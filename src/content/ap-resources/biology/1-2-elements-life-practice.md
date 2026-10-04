@@ -263,7 +263,7 @@ Clover grows in a field. A rabbit eats the clover. Months later, a nitrogen atom
 
 **(a)** The clover root absorbed the nitrate ion from soil water. The clover used the nitrogen to make amino acids, and then proteins (or nucleotides and nucleic acids). The rabbit ate the clover and digested its proteins and nucleic acids into small units, which it absorbed. The rabbit's cells used the nitrogen to build new nucleotides, and these were joined into DNA.
 
-**(b)** Animals cannot use nitrogen gas (N₂) directly to make amino acids or nucleotides. Only some prokaryotes can convert N₂ into usable compounds. So the rabbit must obtain nitrogen already built into molecules in its food.
+**(b)** Animals cannot use nitrogen gas (N₂) directly to make amino acids or nucleotides. Among living things, only some prokaryotes can convert N₂ into usable compounds. So the rabbit must obtain nitrogen already built into molecules in its food.
 
 **(c)** Carbon dioxide (CO₂), taken in by the clover and fixed into sugars by **photosynthesis**.
 

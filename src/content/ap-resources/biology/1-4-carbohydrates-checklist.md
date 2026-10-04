@@ -34,7 +34,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can name the monomers of maltose, sucrose and lactose. *(Guide: "Joining sugars")*
 - I can tell a linear polysaccharide from a branched one in a diagram. *(Guide: Figure 2; Practice Q4)*
 - I can state where starch, glycogen and cellulose are found, whether each is linear or branched, and what each does. *(Guide: "Linear or branched"; Practice Q1)*
-- I can explain why storing glucose as an insoluble polymer is better than storing free glucose. *(Guide: "Storage polysaccharides")*
+- I can explain why storing glucose as a large polymer is better than storing free glucose. *(Guide: "Storage polysaccharides")*
 
 ## Calculation and skills
 

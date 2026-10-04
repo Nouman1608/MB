@@ -49,7 +49,7 @@ Short on time? This page is the recap. For explanations, figures and worked exam
 | many C–H bonds, little oxygen | about 37 kJ g⁻¹, against about 17 kJ g⁻¹ for carbohydrate | light, compact energy store |
 | fat layer conducts heat poorly | slows heat loss | blubber insulates whales and seals |
 | hydrophilic head + hydrophobic tails | heads face water, tails hide inside | bilayer of plasma and cell membranes |
-| four fused rings, hydrophobic | small signal molecule | steroid hormones; cholesterol in animal membranes |
+| four fused rings, hydrophobic | small molecule that suits a signal or a membrane | steroid hormones as signals; cholesterol stabilises animal membranes |
 
 | Equation | Use |
 |---|---|

@@ -181,7 +181,7 @@ Figure 2 shows where the "extra" elements sit in two building blocks: the amino 
 <figcaption>Figure 2. Left: cysteine. Its amino group contains nitrogen, as in every amino acid, and its side chain contains sulfur. Right: a DNA nucleotide. Phosphorus is in the phosphate group; nitrogen is in the base. The sugar contains only C, H and O.</figcaption>
 </figure>
 
-**Reading the figure.** Notice that the sugar in a nucleotide is made of the same three elements as glucose. The elements that make a nucleotide different from a carbohydrate are in the phosphate (P) and the base (N). In cysteine, the sulfur is in the side chain, not in the part shared by all amino acids. That is why most, but not every, amino acid lacks sulfur, while every amino acid has nitrogen.
+**Reading the figure.** Notice that the sugar in a nucleotide is made of the same three elements as glucose. The elements that make a nucleotide different from a carbohydrate are in the phosphate (P) and the base (N). In cysteine, the sulfur is in the side chain, not in the part shared by all amino acids. That is why only two of the common amino acids contain sulfur, while every amino acid has nitrogen.
 
 ## How organisms obtain these elements
 
@@ -197,7 +197,7 @@ Matter cycles through ecosystems. Organisms take elements in, use them, and even
 
 Animals break down the large molecules in their food into small units (by hydrolysis, Topic 1.3), absorb them, then rebuild them into their own proteins, nucleic acids and lipids.
 
-Nitrogen gas (N₂) makes up most of the air, but plants and animals cannot use it directly. Only some prokaryotes can convert N₂ into compounds that other organisms can use. This is why a shortage of nitrate in soil slows plant growth: without nitrogen, a plant cannot make enough amino acids or nucleotides to build new proteins and DNA. A shortage of phosphate does the same for nucleic acids and membranes.
+Nitrogen gas (N₂) makes up most of the air, but plants and animals cannot use it directly. Among living things, only some prokaryotes can convert N₂ into compounds that other organisms can use. This is why a shortage of nitrate in soil slows plant growth: without nitrogen, a plant cannot make enough amino acids or nucleotides to build new proteins and DNA. A shortage of phosphate does the same for nucleic acids and membranes.
 
 ## Using elements as labels: tracer experiments
 

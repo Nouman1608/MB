@@ -53,7 +53,7 @@ Which list puts the atoms in order of **increasing** atomic radius?
 
 - (B) is the decreasing order, the right trend read backwards.
 - (C) assumes that more electrons make a bigger atom across a period. Across a period, radius decreases.
-- (D) puts F as the largest atom, which ignores both trends.
+- (D) gets Li < Na right but puts F as the largest atom, which ignores the decrease in radius across period 2.
 </details>
 
 ## Question 2 (multiple choice · core)
@@ -109,7 +109,7 @@ The first four ionization energies of an element in period 3 are 580, 1820, 2750
 **Answer: (C).** The increases are 1240, 930 and 8850 kJ mol⁻¹. The huge jump is between the third and fourth ionization energies, so the fourth electron must come from an inner shell (n = 2). The element has three valence electrons (it is in group 13), so it forms X³⁺.
 
 - (A) would need the big jump after the first ionization energy (group 1).
-- (B) would need the big jump after the second (group 2). The rise from 580 to 1820 is the largest ratio among the first three steps, but it is small compared with the 8850 kJ mol⁻¹ jump that marks a new shell.
+- (B) would need the big jump after the second (group 2). The rise from 580 to 1820 (1240) is larger than the next rise (930), but it is small compared with the 8850 kJ mol⁻¹ jump that marks a new shell.
 - (D) would need four valence electrons, but removing the fourth electron costs about four times as much energy as the third, which shows it comes from the core.
 </details>
 
@@ -151,7 +151,7 @@ The first ionization energies of potassium and caesium are 419 and 376 kJ mol⁻
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Rubidium's value should lie between the two. Mean: (419 + 376) ÷ 2 = 397.5, so about **398 kJ mol⁻¹**. Any value between about 380 and 415 kJ mol⁻¹ is a reasonable estimate. (The measured value is 403 kJ mol⁻¹, so the mean is within about 1%.)
+**(a)** Rubidium's value should lie between the two. Mean: (419 + 376) ÷ 2 = 397.5, so about **398 kJ mol⁻¹**. Any value between about 380 and 415 kJ mol⁻¹ is a reasonable estimate. (The measured value is 403 kJ mol⁻¹, so the mean is within about 1.5%.)
 
 **(b)** Each atom loses one ns¹ electron, and the effective nuclear charge acting on it is roughly the same (about +1 by the simple estimate). Going down the group the outer electron is in a higher shell: 4s for K, 5s for Rb, 6s for Cs. It is farther from the nucleus, so by Coulomb's law the attraction is weaker and less energy is needed to remove it.
 
