@@ -15224,3 +15224,22 @@ Validation:
 **Validation (4 Oct 2026, 14:54 PKT).** validate:academic PASS; check:duplicate-scope PASS; build OK; audit:all PASS; validate-review-integrity PASS; check_new.py OK on all 4 pages. content-gap-report.md regenerated: every syllabus with subtopic data now has full subtopic coverage. The only remaining gaps are MYP Sciences (2 of 5 topics) and MYP Individuals and Societies (2 of 6 topics).
 
 **Not done / owner decisions.** Branch pushed only; the owner merges D-382, D-383 and D-384 together. reviewStatus/reviewer untouched.
+
+## D-385 -- MYP framework topics completed: Sciences and Individuals and Societies (branch `myp-framework-gaps`, 4 Oct 2026, 15:20 PKT)
+
+**Request.** After D-384 went live, the owner asked (4 Oct, 15:04 PKT) to "complete the gaps". The remaining gaps were four MYP framework topics with no pages: MYP Sciences topic 1 (key concepts) and 3 (global contexts), and MYP Individuals and Societies topic 2 (key concepts) and 4 (global contexts).
+
+**Source.** The owner's own copies of the full IB subject guides in OneDrive Papers 2025\Guides\IB Exam Archive\MYP Subject Guides: the *MYP Sciences guide* (for use from September 2014/January 2015, updated May 2019) and the *MYP Individuals and societies guide* (same series, updated April 2021), plus the public subject briefs. Pages state as IB fact only what the guide or brief prints, paraphrase throughout and do not link or reproduce the guides. A 13-word overlap scan against each guide found no shared runs other than the list of the six global-context names.
+
+**What was added (12 pages).** Study guide, revision notes and practice set for each of:
+- `ib-myp-sciences-key-concepts` (change, relationships, systems; other key concepts; statements of inquiry and inquiry questions)
+- `ib-myp-sciences-global-contexts` (all six contexts with the guide's example units paraphrased; link to Criterion D)
+- `ib-myp-individuals-and-societies-key-concepts` (change, global interactions, systems, time, place and space; other key concepts)
+- `ib-myp-individuals-and-societies-global-contexts` (all six contexts with history, geography and economics units; link to Criterion B)
+Practice questions are labelled by criterion A–D with the "revision aid, not IB marks" note.
+
+**Process.** One writer and one independent verifier per unit (`/home/claude/gaps/jobs4/`, `/home/claude/gaps/VERIFY_MYP.md`). All four verifiers made fixes: our own interpretations (the statement-of-inquiry "transfer" test, "one key concept per unit") are now labelled as Marlbridge aids; a brief claim tying question types to on-screen exams was removed; Black Death mortality, Gutenberg dating and the SI second wording were corrected; examples that repeated other MYP pages or each other (Black Death, Gutenberg, Aral Sea, Columbian exchange, cactus, snowshoe, insulation investigation) were replaced with WebFetch-checked alternatives.
+
+**Validation (4 Oct 2026, 15:20 PKT).** validate:academic PASS; check:duplicate-scope PASS; build OK; audit:all PASS; validate-review-integrity PASS; check_new.py OK on all 12 pages. content-gap-report.md regenerated: all 27 syllabuses report "complete"; no topic or subtopic gaps remain.
+
+**Not done / owner decisions.** Branch pushed only; the owner merges. reviewStatus/reviewer untouched.
