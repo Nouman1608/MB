@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "biological-molecules-cambridge-alevel-biology"
     subtopic: "proteins-cambridge-alevel-biology"
-description: "Eleven original 9700 questions on amino acids, protein structure, haemoglobin and collagen, with mark-by-mark answers and examiner insights."
+description: "Eleven original questions for Cambridge 9700 Biology on amino acids, protein structure, haemoglobin and collagen, with mark-by-mark answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-04
 featured: false
@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 2.3 Proteins, part of Topic 2 Biological molecules, in the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027: learning outcomes 1 to 8. It is AS Level content, examined on Papers 1 and 2, and Paper 4 can draw on it. Calculators are allowed in 9700 examinations.
+These questions cover section 2.3 Proteins, part of Topic 2 Biological molecules, in the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027: learning outcomes 1 to 8. It is AS Level content, examined on Papers 1 and 2, and Paper 4 can draw on it. Calculators are allowed in Cambridge 9700 Biology examinations.
 
 Learn it first: [Proteins study guide](/resources/a-level-biology-9700-proteins/) · Recall: [Proteins revision notes](/resources/a-level-biology-9700-proteins-revision-notes/) · Course hub: [Cambridge A Level Biology](/boards/cambridge/a-level/biology/) · Checklist: [9700 checklist](/checklists/cambridge/a-level/biology/) · More Topic 2 questions: [Biological molecules practice](/resources/a-level-biology-biological-molecules-practice/)
 

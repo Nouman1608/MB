@@ -45,6 +45,7 @@ These questions differ from the [topic-level practice set](/resources/a-level-bi
 
 **(a)** Explain what is meant by *closed* and by *double*. **[2]**
 **(b)** A red blood cell enters the right atrium from the vena cava. List, in order, the heart chambers and named blood vessels it passes through until it leaves in the aorta. **[2]**
+**(c)** State the function of the pulmonary artery, pulmonary vein, aorta and vena cava. **[2]**
 
 **2.** Four cells, P to S, are seen on a stained blood smear.
 
@@ -58,15 +59,16 @@ These questions differ from the [topic-level practice set](/resources/a-level-bi
 
 **3.** **(a)** A student's plan diagram of a transverse section (TS) of an artery shows individual smooth muscle cells, and draws the middle layer as thick as the outer layer, though in the photomicrograph it is three times as thick. State two improvements. **[2]**
 **(b)** A longitudinal section (LS) of another vessel shows thin flaps projecting into a wide lumen. Identify the vessel and explain the function of the flaps. **[2]**
+**(c)** An electron micrograph shows a vessel whose wall is a single flattened cell and whose lumen is about one red blood cell wide. Identify the vessel and relate its structure to its function. **[2]**
 
 **4.** The aorta is an elastic artery; the arteries supplying leg muscles are muscular arteries. Explain how the wall structure of each is related to its function. **[4]**
 
 **5.** Water is the main component of blood and tissue fluid. Relate two properties of water to its role in transport in mammals. **[2]**
 
-**6.** **(a)** State two functions of tissue fluid. **[2]**
+**6.** **(a)** State one function of tissue fluid and describe how it forms at the arterial end of a capillary network. **[3]**
 **(b)** A person with liver disease has a low concentration of protein in their blood plasma. Suggest and explain the effect on the volume of tissue fluid around their cells. **[3]**
 
-**7.** **(a)** Describe how a red blood cell in a respiring muscle helps to transport carbon dioxide. Refer to carbonic anhydrase, haemoglobinic acid and carbaminohaemoglobin. **[4]**
+**7.** **(a)** Describe how a red blood cell in a respiring muscle helps to transport carbon dioxide. Refer to carbonic anhydrase, haemoglobinic acid, carbaminohaemoglobin and the plasma. **[4]**
 **(b)** Describe the chloride shift and explain its importance. **[2]**
 
 **8.** The table shows the percentage saturation of adult haemoglobin at different partial pressures of oxygen (pO₂).
@@ -108,8 +110,9 @@ These questions differ from the [topic-level practice set](/resources/a-level-bi
 
 ## Answers
 
-**1. (a)** Closed: blood **stays inside vessels** [1]. Double: blood passes **through the heart twice per complete circuit** (pulmonary and systemic) [1].
+**1. (a)** Closed: blood **stays inside vessels** (arteries → arterioles → capillaries → venules → veins) [1]. Double: blood passes **through the heart twice per complete circuit** (pulmonary and systemic) [1].
 **(b)** **Right ventricle → pulmonary artery** [1] → **pulmonary vein → left atrium → left ventricle** → aorta [1].
+**(c)** **Pulmonary artery** takes deoxygenated blood from the right ventricle to the lungs; **pulmonary vein** returns oxygenated blood to the left atrium [1]. **Aorta** takes oxygenated blood from the left ventricle to the body; **vena cava** returns deoxygenated blood to the right atrium [1].
 *Examiner insight:* Naming two circulations without "twice through the heart per circuit" usually misses the double mark.
 
 **2. (a)** P **red blood cell** [1]; Q **neutrophil** [1]; R **monocyte** [1]; S **lymphocyte** [1].
@@ -118,6 +121,7 @@ These questions differ from the [topic-level practice set](/resources/a-level-bi
 
 **3. (a)** Draw **no cells**, only tissue-layer outlines [1]. Draw layers in the **correct proportions** (middle layer three times the outer) [1].
 **(b)** **Vein**; the flaps are **valves** [1] that **close if blood flows backwards**, so low-pressure blood moves only towards the heart [1].
+**(c)** **Capillary** [1]; wall **one endothelial cell thick, giving a short diffusion distance** between blood and tissue cells [1].
 *Examiner insight:* Plan diagrams lose marks for drawn cells, shading, broken lines and wrong proportions.
 
 **4.** Elastic artery: **many elastic fibres** [1] **stretch** as blood surges in and **recoil** between beats, smoothing pressure [1]. Muscular artery: **thick smooth muscle** [1] **contracts or relaxes to narrow or widen the lumen**, controlling flow to tissues [1].
@@ -126,11 +130,11 @@ These questions differ from the [topic-level practice set](/resources/a-level-bi
 **5.** **Solvent action**: glucose, ions and urea dissolve, so are carried in plasma [1]. **High specific heat capacity**: blood temperature stays stable while it carries heat around the body [1].
 *Examiner insight:* "Water is a good transport medium" names no property and scores nothing.
 
-**6. (a)** **Supplies cells with oxygen and nutrients** [1]; **removes carbon dioxide and waste** [1] (or: stable environment for cells).
+**6. (a)** **Supplies cells with oxygen and nutrients** or removes waste [1]. **High hydrostatic (blood) pressure** at the arterial end [1] **forces plasma out through gaps between endothelial cells**; large plasma proteins and cells stay in the blood [1].
 **(b)** Blood water potential at the venous end is **higher (less negative) than normal** [1], so **less water returns by osmosis** [1] and **tissue fluid volume increases** [1].
 *Examiner insight:* "Suggest" still needs water potential and the direction of osmosis; "less pressure" alone earns at most the last mark.
 
-**7. (a)** **Carbonic anhydrase catalyses CO₂ + H₂O → H₂CO₃** [1]. H₂CO₃ **dissociates to H⁺ and HCO₃⁻**; HCO₃⁻ diffuses into the plasma, which carries it in solution [1]. **H⁺ binds haemoglobin, forming haemoglobinic acid**, so oxyhaemoglobin releases O₂ and pH is buffered [1]. Some CO₂ **binds haemoglobin as carbaminohaemoglobin** [1].
+**7. (a)** **Carbonic anhydrase catalyses CO₂ + H₂O → H₂CO₃** [1]. H₂CO₃ **dissociates to H⁺ and HCO₃⁻**; HCO₃⁻ diffuses into the plasma, which carries it (and some dissolved CO₂) in solution [1]. **H⁺ binds haemoglobin, forming haemoglobinic acid**, so oxyhaemoglobin releases O₂ and pH is buffered [1]. Some CO₂ **binds haemoglobin as carbaminohaemoglobin** [1].
 **(b)** **Cl⁻ moves into the red blood cell** as HCO₃⁻ moves out [1], **balancing charge**, so HCO₃⁻ can keep leaving and more CO₂ is converted [1].
 *Examiner insight:* Say the enzyme catalyses the reaction, and keep haemoglobinic acid (H⁺) separate from carbaminohaemoglobin (CO₂).
 
@@ -153,7 +157,7 @@ These questions differ from the [topic-level practice set](/resources/a-level-bi
 **11. (a)** **Semilunar (pulmonary) valve** [1]: ventricle (3.2 kPa) is **above pulmonary artery** (3.0 kPa); tricuspid stays shut as ventricle exceeds atrium (0.3 kPa) [1].
 **(b)** Ventricle (1.2) **above atrium** (0.5), so **tricuspid closed** [1]; **below pulmonary artery** (1.4), so **semilunar valve closed** [1].
 **(c)** 60 ÷ 0.80 = **75 beats per minute** [1].
-**(d)** **SAN starts each wave of excitation**, spreading across the atria so they contract [1]. **AVN passes it on after a delay** [1], so **atria empty before ventricles contract** [1]. **Purkyne tissue conducts it down the septum and up the ventricle walls**, so ventricles contract from the base upwards [1].
+**(d)** **SAN starts each wave of excitation**, spreading across the atria so they contract [1]. **AVN passes it on after a delay** [1], so **atria empty before ventricles contract** [1]. **Purkyne tissue conducts it down the septum and up the ventricle walls**, so ventricles contract from the apex upwards [1].
 *Examiner insight:* Valve answers need two named pressures compared with values; the reason for the AVN delay is a separate mark.
 
 ## Where marks are usually lost

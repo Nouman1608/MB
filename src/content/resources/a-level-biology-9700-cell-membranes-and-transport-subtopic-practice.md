@@ -45,6 +45,7 @@ These questions differ from the [cell membranes practice questions](/resources/a
 
 **(a)** Describe the arrangement of cholesterol, glycolipids and glycoproteins in a cell surface membrane. **[3]**
 **(b)** Explain how cholesterol affects membrane fluidity and permeability. **[2]**
+**(c)** Explain the roles of glycolipids and glycoproteins in membrane stability and cell recognition. **[2]**
 
 **3.** (4.1.3) Compare channel proteins and carrier proteins. **[3]**
 
@@ -106,11 +107,12 @@ These questions differ from the [cell membranes practice questions](/resources/a
 
 ## Answers
 
-**1.** A phospholipid bilayer in which molecules move sideways (fluid), with proteins scattered through it (mosaic) [1]. Hydrophilic phosphate heads interact with water, so they face the cytoplasm and tissue fluid [1]. Hydrophobic fatty acid tails are repelled by water, so they point inwards, forming a hydrophobic core [1]. A spanning protein has hydrophobic R groups where it meets the tails and hydrophilic R groups where it meets water [1].
+**1.** A phospholipid bilayer in which molecules move sideways (fluid), with proteins scattered through it (mosaic) [1]. Hydrophilic phosphate heads interact with water, so they face the cytoplasm and tissue fluid [1]. Hydrophobic fatty acid tails are repelled by water, so they point inwards, forming a hydrophobic core that ions and polar molecules cannot easily cross [1]. A spanning protein has hydrophobic R groups where it meets the tails and hydrophilic R groups where it meets water [1].
 *Examiner insight:* Each property needs its consequence; "heads are hydrophilic" without where they face does not score.
 
 **2. (a)** Cholesterol lies between phospholipids, in both layers [1]. Glycolipids are in the outer layer, carbohydrate chain outside the cell [1]. Glycoproteins carry carbohydrate chains on the outer surface only [1].
 **(b)** It regulates fluidity: less fluid when warm, less rigid when cold [1]. It reduces permeability to ions and polar molecules [1].
+**(c)** Their carbohydrate chains form hydrogen bonds with water outside the cell, stabilising the membrane [1]. The chains act as cell surface antigens, recognised by other cells such as lymphocytes [1].
 *Examiner insight:* "Cholesterol makes the membrane more fluid" with no condition is marked wrong.
 
 **3.** A channel is a water-filled pore; a carrier binds the substance and changes shape [1]. Channels allow only facilitated diffusion; carriers work in facilitated diffusion and active transport [1]. Both span the membrane and are specific [1].
@@ -131,7 +133,7 @@ These questions differ from the [cell membranes practice questions](/resources/a
 
 **7. (a)** 30 ÷ 10 = **3.0 mm min⁻¹** [1]; (52 − 30) ÷ 10 = **2.2 mm min⁻¹** [1].
 **(b)** V = πr²h = π × 0.5² × 52 [1] = **40.8 mm³** [1].
-**(c)** The sucrose solution has a lower water potential than the water [1]. Water enters by osmosis through the partially permeable tubing; sucrose is too large to leave [1].
+**(c)** The sucrose solution has a lower water potential than the water [1]. Water enters by osmosis through the partially permeable tubing; sucrose crosses far more slowly, if at all [1].
 **(d)** Entering water dilutes the sucrose, so the water potential gradient falls [1].
 *Examiner insight:* Using the diameter in πr² gives four times the volume; with no method shown, both marks are lost.
 

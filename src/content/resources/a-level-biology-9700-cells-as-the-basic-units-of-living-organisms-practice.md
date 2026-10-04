@@ -104,7 +104,7 @@ Learn it first: [1.2 study guide](/resources/a-level-biology-9700-cells-as-the-b
 - a large curved stack of membrane sacs, with many vesicles near it and near the cell surface
 - many oval organelles with two membranes, the inner one folded
 - on one surface, a row of small finger-like folds of the membrane with no microtubules inside
-- no cell wall.
+- no cell wall, no chloroplasts and no large vacuole.
 
 **(a)** Calculate the actual diameter of the nucleus in µm. **[2]**
 **(b)** Identify the finger-like folds and state their function. **[2]**
@@ -158,7 +158,7 @@ Nucleus with nuclear envelope: ✗ ✓ ✓ [1]
 Circular DNA: ✓ ✓ ✓ (in mitochondria, and in chloroplasts for the palisade cell) [1]
 Chloroplasts: ✗ ✗ ✓ [1]
 **(b)** Eukaryotic cells also contain **70S ribosomes inside mitochondria and chloroplasts** [1], so the cell is only prokaryotic if it also has **no nucleus and no double-membrane organelles** [1].
-*Examiner insight:* The circular DNA row is the one most often marked wrong: the syllabus states that mitochondria and chloroplasts contain small circular DNA, so all three cells get a tick.
+*Examiner insight:* The circular DNA row needs care: the syllabus states that mitochondria and chloroplasts contain small circular DNA, so all three cells get a tick.
 
 **11. (a)** 84 mm = 84 000 µm; 84 000 ÷ 12 000 [1] = **7 µm** [1]
 **(b)** **Microvilli** [1]; they **increase the surface area for absorption** [1].

@@ -169,7 +169,7 @@ The last row only works if volumes and heating are the same in both tests.
 - Not stating that Benedict's must be heated, or giving no temperature (water bath near boiling).
 - Writing "goes red" or "changes colour" instead of naming the start and end colours.
 - Calling the emulsion "a white precipitate", or adding water before ethanol.
-- Writing "biuret test turns blue-black" (iodine result) or "violet-blue".
+- Writing "biuret test turns blue-black" (the iodine result).
 - Missing the neutralisation step, or neutralising with an acid.
 - Saying sucrose gives a brick-red result with Benedict's without hydrolysis.
 - Forgetting that a shorter time to colour change means a higher concentration.

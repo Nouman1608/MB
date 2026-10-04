@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "enzymes-cambridge-alevel-biology"
     subtopic: "factors-that-affect-enzyme-action-cambridge-alevel"
-description: "Condensed 9700 revision notes on factors affecting enzyme rate: graph shapes, Km from Vmax, inhibitor types and immobilised enzymes, with a self-test."
+description: "Condensed notes for Cambridge Biology 9700 on enzyme rate factors: graph shapes, Km from Vmax, inhibitor types and immobilised enzymes, with a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-04
 featured: false

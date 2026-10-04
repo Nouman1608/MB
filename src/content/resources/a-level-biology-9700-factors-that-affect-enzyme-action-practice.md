@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "enzymes-cambridge-alevel-biology"
     subtopic: "factors-that-affect-enzyme-action-cambridge-alevel"
-description: "Original 9700 data and planning questions on enzyme rate factors, Km, competitive and non-competitive inhibition and immobilised enzymes, fully marked."
+description: "Original data and planning questions for Cambridge Biology 9700 on enzyme rate factors, Km, both reversible inhibitor types and immobilised enzymes."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-04
 featured: false

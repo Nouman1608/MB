@@ -32,7 +32,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover topic 10 of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, outcome by outcome: sub-topic 10.1 (Infectious diseases) and sub-topic 10.2 (Antibiotics). This is AS Level content, the basis of Paper 1 and Paper 2 and required knowledge for Paper 4. Calculators are allowed. Each question is tagged with the outcome it tests, and none repeats the topic-level practice set linked under Next steps.
+These questions cover topic 10 of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027: sub-topic 10.1 (Infectious diseases) and sub-topic 10.2 (Antibiotics). This is AS Level content, the basis of Paper 1 and Paper 2 and required knowledge for Paper 4. Calculators are allowed. Each question is tagged with the outcome it tests.
 
 Course links: [Cambridge A Level Biology hub](/boards/cambridge/a-level/biology/), [printable 9700 checklist](/checklists/cambridge/a-level/biology/) and the free [9700 AS diagnostic](/practice/9700/diagnostic/as/).
 
@@ -62,6 +62,7 @@ Course links: [Cambridge A Level Biology hub](/boards/cambridge/a-level/biology/
 **(a)** Calculate the percentage of mosquitoes that survived in each village. **[2]**
 **(b)** Explain why a higher percentage survived in village Q. **[3]**
 **(c)** Discuss two other measures to reduce malaria in village Q, giving one factor that could limit each. **[4]**
+**(d)** Explain how a female *Anopheles* mosquito passes *Plasmodium* from one person to another. **[3]**
 
 **6.** (10.1.4) After an earthquake, several thousand people move into a temporary camp. Discuss the biological, social and economic factors that health workers need to consider to prevent a cholera outbreak in the camp. **[6]**
 
@@ -105,7 +106,7 @@ Course links: [Cambridge A Level Biology hub](/boards/cambridge/a-level/biology/
 **2.** (i) Malaria is caused by the **protoctist** *Plasmodium vivax* [1]. (ii) TB is caused by **two** species: *M. tuberculosis* **and *M. bovis*** [1]. (iii) **HIV** is the virus; **AIDS is the disease/syndrome** it causes [1]. (iv) Cholera is caused by the **bacterium** *Vibrio cholerae* [1].
 *Examiner insight:* Each mark needs the wrong word replaced; write the genus with a capital, the species in lower case, and underline both by hand.
 
-**3. (a)** Cholera is spread by the **faecal–oral route**: *V. cholerae* from faeces contaminates **drinking water** [1]. Boiling **kills the bacteria** in the water, so they are not swallowed [1]. TB caused by *M. tuberculosis* spreads in **airborne droplets** from coughs and sneezes, so it is **not transmitted in water** and boiling does not break its route [1].
+**3. (a)** Cholera is spread by the **faecal–oral route**: *V. cholerae* from faeces contaminates **drinking water** [1]. Boiling **kills the bacteria** in the water, so they are not swallowed [1]. TB caused by *M. tuberculosis* spreads in **airborne droplets** from coughs and sneezes, **not in water**, so boiling does not break its route [1].
 **(b)** **Unpasteurised milk** (accept undercooked meat from infected cattle) [1].
 *Examiner insight:* The TB mark needs the route stated (droplets in air); "TB is not in water" alone does not explain anything.
 
@@ -116,6 +117,7 @@ Course links: [Cambridge A Level Biology hub](/boards/cambridge/a-level/biology/
 **5. (a)** P: 24 ÷ 160 × 100 = **15.0%** [1]; Q: 99 ÷ 220 × 100 = **45.0%** [1].
 **(b)** Some mosquitoes already had a **mutation giving resistance** [1]. The insecticide was a **selection pressure**: susceptible mosquitoes died, resistant ones survived and **reproduced** [1]. The allele **passed to offspring**; longer net use in Q meant more generations of selection [1].
 **(c)** Drain or cover **standing water** where larvae develop [1]; but mosquitoes breed in **any small pool** (biological) [1]. Treat cases quickly with **antimalarial drugs** [1]; but ***Plasmodium* can be drug-resistant**, or drugs cost money (economic) [1].
+**(d)** Feeding on an infected person's blood, she **takes in *Plasmodium*** [1]; the parasite **develops in the mosquito and reaches its salivary glands** [1]; when she **bites another person**, saliva containing *Plasmodium* **enters their blood** [1].
 *Examiner insight:* In (c) each measure needs a limiting factor; four measures with no factors earn at most two marks.
 
 **6.** Biological: **latrines must be kept away from water supplies**, as faeces carry *V. cholerae* [1]; **symptomless carriers** still shed bacteria [1]; patients need **oral rehydration therapy** quickly because the toxin causes severe watery diarrhoea [1]. Social: **overcrowding** makes contamination of shared water and food more likely [1]; **hand-washing and food-hygiene education** is needed [1]. Economic: **chlorinated water**, soap and sanitation cost money that may not be available quickly [1].
@@ -139,7 +141,7 @@ Course links: [Cambridge A Level Biology hub](/boards/cambridge/a-level/biology/
 
 **11. (a)** 655 − 430 = 225 [1]; 225 ÷ 655 × 100 = **34.4%** [1].
 **(b)** Resistant bacteria were **still present** and had already spread [1]; less antibiotic lowers the selection pressure but **does not kill resistant bacteria**, so they decline only slowly [1].
-**(c)** Infections **take longer to treat** or cannot be treated with usual drugs [1]; **more deaths** from once-curable infections [1]; **surgery and cancer treatment become riskier**, and stays in hospital are longer [1].
+**(c)** Infections **take longer to treat** or cannot be treated with usual drugs [1]; **more deaths** from once-curable infections [1]; **surgery and cancer treatment become riskier** [1].
 **(d)** **Hand-washing and isolating** infected patients so resistant bacteria spread less [1]; **testing the bacterium** before prescribing and using a **narrow-spectrum** antibiotic [1]; **rotating** the antibiotics used, or making sure patients **finish the full course** [1].
 *Examiner insight:* In (a) the divisor must be the original value (655); dividing 225 by 430 gives 52.3% and earns only the subtraction mark.
 
@@ -149,10 +151,7 @@ Course links: [Cambridge A Level Biology hub](/boards/cambridge/a-level/biology/
 - Writing "AIDS virus": HIV is the virus, AIDS is the condition.
 - Forgetting *M. bovis* when asked for both TB pathogens.
 - Linking cholera to the air or TB to water.
-- Naming a control measure with no factor attached when the command word is "discuss".
 - Saying insecticide or antibiotic "causes" the resistance mutation.
-- Writing "water concentration" instead of water potential in osmotic lysis answers.
-- Dividing by the new value, not the original, in percentage change.
 
 ## Next steps
 

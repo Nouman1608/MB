@@ -32,9 +32,9 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions work through Topic 12, Energy and respiration, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, by learning outcome: subtopics 12.1 (Energy) and 12.2 (Respiration). This is A Level content, examined in Paper 4; the practical questions also suit Paper 5. Calculators are allowed.
+These questions work through syllabus 9700 subtopics 12.1 (Energy) and 12.2 (Respiration), learning outcome by outcome. This is A Level content, examined in Paper 4; the practical questions also suit Paper 5. Calculators are allowed.
 
-They do not repeat the [topic-level respiration practice set](/resources/a-level-biology-respiration-practice/). Revise with the [study guide](/resources/a-level-biology-9700-energy-and-respiration/) and [revision notes](/resources/a-level-biology-9700-energy-and-respiration-revision-notes/). Course pages: [Cambridge A Level Biology hub](/boards/cambridge/a-level/biology/) and [printable checklist](/checklists/cambridge/a-level/biology/).
+They do not repeat the [topic-level respiration practice set](/resources/a-level-biology-respiration-practice/); revise first with the [revision notes](/resources/a-level-biology-9700-energy-and-respiration-revision-notes/).
 
 ## Questions
 
@@ -67,6 +67,7 @@ They do not repeat the [topic-level respiration practice set](/resources/a-level
 
 **(a)** Outline glycolysis, naming the 6C and 3C intermediates. **[4]**
 **(b)** When oxygen is available, pyruvate enters the mitochondrion. Describe the link reaction, including the role of coenzyme A. **[3]**
+**(c)** State where each of the four stages of aerobic respiration occurs. **[2]**
 
 **6.** (12.2.5–6) A simplified Krebs cycle has five steps.
 
@@ -85,15 +86,13 @@ They do not repeat the [topic-level respiration practice set](/resources/a-level
 **(a)** Mitochondria in insect flight muscle have many closely packed cristae. Explain the advantage. **[2]**
 **(b)** The pH of the intermembrane space is lower than the pH of the matrix. Explain why. **[2]**
 **(c)** A cell contains only a small amount of NAD. Explain why respiration can continue for long periods. **[2]**
+**(d)** Explain the roles of ATP synthase and oxygen in oxidative phosphorylation. **[3]**
 
 **8.** (12.2.10–11)
 
 **(a)** Outline lactate fermentation in mammalian muscle. **[2]**
 **(b)** State two differences between lactate fermentation and ethanol fermentation. **[2]**
-**(c)** Two flasks held equal yeast suspensions with 5.0 g of glucose, one bubbled with air and one with nitrogen. After 24 hours yeast dry mass had increased by 2.0 g in air and 0.40 g in nitrogen.
-
-**(i)** Calculate how many times greater the increase was in air. **[1]**
-**(ii)** Explain the difference. **[3]**
+**(c)** Two flasks held equal yeast suspensions with 5.0 g of glucose, one bubbled with air and one with nitrogen. After 24 hours yeast dry mass had increased by 2.0 g in air but only 0.40 g in nitrogen. Explain the difference. **[3]**
 
 **9.** (12.2.12) Rice is grown in paddy fields where the roots are under water.
 
@@ -121,23 +120,24 @@ They do not repeat the [topic-level respiration practice set](/resources/a-level
 **(b)** Calculate the rate, as 1000/t, at 2% glucose. **[1]**
 **(c)** Describe and explain the trend from 1% to 8%. **[3]**
 **(d)** Explain why the tubes must not be shaken. **[1]**
+**(e)** Describe how to adapt the method, using DCPIP, to find the effect of temperature. **[2]**
 
 ## Answers
 
 **1. (a)** Nitrate uptake is **active transport** against a concentration gradient by carrier proteins [1]. DNA replication is an **anabolic reaction**: energy joins nucleotides into a new strand [1].
-**(b)** Any two: hydrolysis is **one quick step**; energy released in **small amounts**; **small and soluble**; **quickly regenerated**; **used in all cells** [2].
+**(b)** Any two: hydrolysis is **one quick step**; energy released in **small amounts**; **small and soluble**; **quickly regenerated** [2].
 **(c)** **Substrate-linked phosphorylation**, in the **cytoplasm** (glycolysis) [1]. **Chemiosmosis**, on the **inner mitochondrial membrane** or **thylakoid membranes** [1].
-*Examiner insight:* In (a), name the type of work; repeating "it needs energy" from the question earns nothing.
+*Examiner insight:* In (a), name the type of work, not just "needs energy".
 
 **2. (a)** Glucose: 12 ÷ 180 = **0.067 mol g⁻¹** [1]. Palmitic acid: 32 ÷ 256 = **0.125 mol g⁻¹** [1].
-**(b)** Most ATP comes from **oxidative phosphorylation**, using hydrogen carried by **reduced NAD and FAD** [1]. Palmitic acid has about **1.9 times** as much hydrogen per gram [1], so more electrons and protons pass through the chain, giving **more ATP per gram** [1].
+**(b)** Most ATP comes from **oxidative phosphorylation**, using hydrogen carried by **reduced NAD and FAD** [1]. Palmitic acid has about **1.9 times** as much hydrogen per gram [1], so more hydrogen passes through the chain, giving **more ATP per gram** [1].
 **(c)** Proteins contain **more hydrogen atoms per gram** than carbohydrates [1].
-*Examiner insight:* "More energy in their bonds" scores nothing; link hydrogen to reduced NAD and the electron transport chain.
+*Examiner insight:* "More energy in their bonds" scores nothing; link hydrogen to the electron transport chain.
 
 **3. (a)** The ratio of the **number of molecules of carbon dioxide produced** to the **number of molecules of oxygen taken in** during respiration [1].
 **(b)** Oxygen atoms on the right = 114 + 52 = 166, so *x* = (166 − 6) ÷ 2 = **80** [1]. RQ = 57 ÷ 80 [1] = **0.71** [1].
 **(c)** RQ = 12 ÷ 15 = **0.80** [1].
-*Examiner insight:* Dividing O₂ by CO₂ (80 ÷ 57) loses both RQ marks, though *x* = 80 still scores.
+*Examiner insight:* Dividing O₂ by CO₂ loses both RQ marks, though *x* = 80 still scores.
 
 **4. (a)** The larvae **take in oxygen** for respiration [1]. The **carbon dioxide** released is **absorbed by the potassium hydroxide**, so the gas volume in the tube falls [1].
 **(b)** Radius = 0.40 mm; volume = π × 0.40² × 33 = 16.6 mm³ [1]. Per minute: 16.6 ÷ 10 = 1.66 mm³ min⁻¹ [1]. Per gram: 1.66 ÷ 1.25 = **1.33 mm³ g⁻¹ min⁻¹** [1].
@@ -147,6 +147,7 @@ They do not repeat the [topic-level respiration practice set](/resources/a-level
 
 **5. (a)** Glucose is **phosphorylated** using **two ATP** [1], forming **fructose 1,6-bisphosphate (6C)** [1]. This splits into **two triose phosphate (3C)** molecules [1]. Each is **oxidised to pyruvate (3C)**, reducing **NAD** and giving a **net gain of two ATP** [1].
 **(b)** Pyruvate is **decarboxylated**: CO₂ is removed [1]. It is **dehydrogenated**: hydrogen reduces **NAD** [1]. **Coenzyme A** carries the **acetyl (2C) group** to the Krebs cycle [1].
+**(c)** Glycolysis: **cytoplasm**; oxidative phosphorylation: **inner mitochondrial membrane** [1]. Link reaction and Krebs cycle: **mitochondrial matrix** [1].
 *Examiner insight:* Calling coenzyme A an enzyme can cost the third mark.
 
 **6. (a)** (i) **B and C** [1]; (ii) **B, C, D and E** [1]; (iii) **C** [1].
@@ -157,37 +158,38 @@ They do not repeat the [topic-level respiration practice set](/resources/a-level
 **7. (a)** Cristae give a **large inner-membrane surface area** for **electron transport chains and ATP synthase** [1], so **more ATP** is made for **muscle contraction** [1].
 **(b)** **Energy released by electrons** in the chain **transfers protons from the matrix into the intermembrane space** [1]. The **inner membrane is impermeable to protons** except through ATP synthase, so the gradient is kept [1].
 **(c)** NAD is **reduced** when it accepts hydrogen in dehydrogenation [1]. It is **oxidised** when it passes hydrogen to carriers in the **inner membrane**, so it is **regenerated and reused** [1].
+**(d)** Hydrogen atoms split into **protons and energetic electrons** [1]. Protons return to the matrix by **facilitated diffusion through ATP synthase**, providing energy for ATP synthesis [1]. **Oxygen** is the **final electron acceptor**, forming **water** [1].
 *Examiner insight:* In (b), the second mark needs the impermeable inner membrane, not just "protons are pumped".
 
 **8. (a)** Pyruvate is **reduced to lactate** by **reduced NAD** [1], so **NAD is regenerated** and glycolysis continues [1].
-**(b)** Ethanol fermentation **releases CO₂**; lactate fermentation does not [1]. Ethanol fermentation has **two steps (via ethanal)**; lactate fermentation has **one** [1].
-**(c)(i)** 2.0 ÷ 0.40 = **5.0 times** [1].
-**(ii)** In air, reduced NAD and FAD from the **link reaction and Krebs cycle** drive **oxidative phosphorylation** [1]. In nitrogen, ATP comes **only from glycolysis** [1]. Much energy stays in **ethanol**, so less ATP is available for **growth** [1].
+**(b)** Only ethanol fermentation **releases CO₂** [1] and has **two steps (via ethanal)** [1].
+**(c)** In air, reduced NAD and FAD from the **link reaction and Krebs cycle** drive **oxidative phosphorylation** [1]. In nitrogen, ATP comes **only from glycolysis** [1]. Much energy stays in **ethanol**, so less ATP is available for **growth** [1].
 *Examiner insight:* No ATP total is expected; credit goes to the reasons.
 
-**9. (a)** Aerenchyma has **large air spaces** [1], so **oxygen diffuses** from the parts above water down to the root cells for **aerobic respiration** [1].
+**9. (a)** Aerenchyma has **large air spaces** [1], so **oxygen diffuses** from the shoots to the root cells for **aerobic respiration** [1].
 **(b)** Root cells can carry out **ethanol fermentation**, regenerating NAD so **glycolysis still makes ATP** without oxygen [1]. They **tolerate higher ethanol concentrations** than most plants [1].
 **(c)** Stems keep the **leaves above the water**, so gas exchange (and photosynthesis) continues [1].
-*Examiner insight:* Extra adaptations beyond these three earn nothing.
+*Examiner insight:* Other adaptations earn nothing.
 
 **10. (a)** Volume = π × 0.50² × 25 = 19.6 mm³ [1]; rate = 19.6 ÷ 5 = **3.9 mm³ min⁻¹** [1].
-**(b)** Respiratory enzymes and substrates have **more kinetic energy** [1], so there are **more frequent successful collisions** and enzyme–substrate complexes form faster [1].
+**(b)** Respiratory enzymes and substrates have **more kinetic energy** [1], so **successful collisions** forming enzyme–substrate complexes are more frequent [1].
 **(c)** Respiratory enzymes start to **denature** (active site changes shape) [1].
-*Examiner insight:* "Molecules move faster" without enzyme–substrate collisions earns one mark at most in (b).
+*Examiner insight:* "Molecules move faster" alone earns one mark at most in (b).
 
 **11. (a)** **Dehydrogenase** enzymes remove **hydrogen** from glucose (respiratory substrates) [1]. The hydrogen **reduces methylene blue**, which is **colourless** when reduced [1].
 **(b)** 1000 ÷ 260 = **3.8 s⁻¹** [1].
 **(c)** Rate **increases** from 2.1 to 6.7 s⁻¹ between 1% and 4%, then **levels off** (7.1 s⁻¹ at 8%) [1]. More glucose means **more enzyme–substrate complexes** form per unit time [1]. Above 4%, **enzyme concentration** (number of yeast cells) becomes the **limiting factor** [1].
 **(d)** **Oxygen** from the air would **re-oxidise** the methylene blue, turning it blue again [1].
+**(e)** Keep glucose concentration and volumes **constant**; use **water baths** at a range of temperatures [1]. Time **DCPIP** turning from blue to **colourless**; rate = 1000/t [1].
 *Examiner insight:* In (c), quote rates with units to earn the description mark.
 
 ## Where marks are usually lost
 
 - Using the bore diameter as the radius in πr².
-- Saying lipids hold "more energy" instead of more hydrogen per gram.
-- Forgetting FAD dehydrogenation, or that the cycle turns twice per glucose.
+- Saying lipids hold "more energy", not more hydrogen per gram.
+- Forgetting FAD, or the two turns per glucose.
 - Calling coenzyme A an enzyme.
-- Saying fermentation makes ATP: glycolysis does; fermentation regenerates NAD.
+- Saying fermentation makes ATP; it regenerates NAD.
 - Shaking methylene blue tubes.
 
 ## Next steps

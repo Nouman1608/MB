@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 3.1, **Mode of action of enzymes**, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. This is AS Level content, examined in Papers 1 and 2, and Questions 5 to 9 and 11 practise the practical skills tested in Paper 3. Calculators are allowed in all 9700 papers. Give calculated answers to the same number of significant figures as the data, or one more.
+These questions cover section 3.1, **Mode of action of enzymes**, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. This is AS Level content, examined in Papers 1 and 2. Questions 5 to 9 practise the practical skills tested in Paper 3, and Question 11 practises the planning skills tested in Paper 5 at A Level. Calculators are allowed in all 9700 papers. Give calculated answers to the same number of significant figures as the data, or one more.
 
 Read the [3.1 study guide](/resources/a-level-biology-9700-mode-of-action-of-enzymes/) or the [3.1 revision notes](/resources/a-level-biology-9700-mode-of-action-of-enzymes-revision-notes/) first. These questions are different from those in the topic-wide [Enzymes practice questions](/resources/a-level-biology-enzymes-practice/). Course pages: [Cambridge A Level Biology hub](/boards/cambridge/a-level/biology/) and [printable checklist](/checklists/cambridge/a-level/biology/).
 

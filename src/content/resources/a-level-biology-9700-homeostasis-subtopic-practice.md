@@ -40,7 +40,7 @@ This set differs from the topic-level [homeostasis practice questions](/resource
 
 **1.** (14.1.1, 14.1.2) A woman walks from a warm house into air at 2 °C.
 
-**(a)** Define homeostasis. **[2]**
+**(a)** Define homeostasis and explain why it matters in mammals. **[3]**
 **(b)** For her response to the cold, name the type of stimulus (internal or external), one type of receptor, the coordination system and one effector. **[4]**
 
 **2.** (14.1.3) A man eats a meal very rich in protein. Explain why the concentration of urea in his blood rises over the next few hours. **[3]**
@@ -90,7 +90,7 @@ This set differs from the topic-level [homeostasis practice questions](/resource
 
 **(a)** Explain why the biosensor gives a reading for glucose but not for fructose. **[2]**
 **(b)** Current is directly proportional to glucose concentration. A standard of 5.0 mmol dm⁻³ gives 0.80 µA. A blood sample gives 1.36 µA. Calculate its glucose concentration. **[2]**
-**(c)** State one advantage of the biosensor over a urine test strip. **[1]**
+**(c)** Name the second enzyme on a glucose test strip and state what it produces. **[2]**
 
 **11.** (14.2.1, 14.2.2) A plant had 12 hours of light and 12 of dark, then 24 hours of continuous light. In both periods, mean stomatal aperture rose from 2.4 µm at 04:00 to 9.6 µm at 10:00 and fell in the late afternoon.
 
@@ -102,11 +102,11 @@ This set differs from the topic-level [homeostasis practice questions](/resource
 
 **(a)** Describe the mechanism by which guard cells open a stoma in the light. **[4]**
 **(b)** Explain how the structure of the guard cell wall causes the stoma to open when the cells become turgid. **[2]**
-**(c)** A substance that stops calcium ions entering the cytoplasm is applied to guard cells, then abscisic acid (ABA) is added. Predict and explain the effect on the stomata. **[3]**
+**(c)** A substance that stops calcium ions entering the cytoplasm is applied to guard cells of open stomata, then abscisic acid (ABA) is added. Predict and explain the effect on the stomata. **[3]**
 
 ## Answers
 
-**1. (a)** Keeping the internal environment (such as core temperature) constant [1], within narrow limits, despite changes inside or outside the body [1]. **[2]**
+**1. (a)** Keeping the internal environment (such as core temperature) constant [1], within narrow limits, despite changes inside or outside the body [1]; so enzymes and cells work efficiently near their optimum [1]. **[3]**
 **(b)** **External** stimulus [1]; **thermoreceptors** in the skin [1]; **nervous system** (the hypothalamus) [1]; **skeletal muscles** (shivering), or arterioles in the skin [1]. **[4]**
 
 *Examiner insight:* Each part of (b) is a separate mark; "the brain" or plain "muscles" may cost a mark each.
@@ -122,7 +122,7 @@ This set differs from the topic-level [homeostasis practice questions](/resource
 **(e)** **Proximal convoluted tubule** [1]
 **(f)** **Collecting duct** [1] **[6]**
 
-*Examiner insight:* "Pelvis" alone or "ureter" for (c) is not credited; the ureter carries urine away from the kidney.
+*Examiner insight:* "Ureter" for (c) is not credited; the ureter carries urine away from the kidney.
 
 **4. (a)** 12 mm = 12 000 µm; 12 000 ÷ 40 000 = 0.3 µm [1] = **300 nm** [1]. **[2]**
 **(b)** Afferent arteriole **wider than efferent**, giving **high hydrostatic pressure** in the glomerulus [1]; capillary endothelium has **pores** and the **basement membrane** acts as the filter, holding back proteins and cells [1]; **podocytes** leave **filtration slits**, so filtrate passes easily into the capsule [1]. **[3]**
@@ -156,9 +156,9 @@ This set differs from the topic-level [homeostasis practice questions](/resource
 
 **10. (a)** Glucose oxidase is **specific**: its **active site is complementary only to glucose** [1]; fructose cannot bind, so no current is produced [1]. **[2]**
 **(b)** 0.80 ÷ 5.0 = 0.16 µA per mmol dm⁻³ [1]; 1.36 ÷ 0.16 = **8.5 mmol dm⁻³** [1]. **[2]**
-**(c)** It gives a **numerical reading of blood glucose at that moment** [1]. **[1]**
+**(c)** **Peroxidase** [1]; it uses the hydrogen peroxide to oxidise a colourless chromogen to a **coloured product** [1]. **[2]**
 
-*Examiner insight:* "More accurate" alone is too vague; say what the biosensor measures that the strip cannot.
+*Examiner insight:* In (c), naming glucose oxidase again earns nothing; peroxidase is the second enzyme.
 
 **11. (a)** (9.6 − 2.4) ÷ 2.4 × 100 = **300%** [1]. **[1]**
 **(b)** The **24-hour cycle continued without darkness** [1], so the rhythm is **controlled inside the plant**, not only by light [1]. **[2]**
@@ -174,10 +174,7 @@ This set differs from the topic-level [homeostasis practice questions](/resource
 
 ## Where marks are usually lost
 
-- Writing that proteins become urea, with no deamination or liver.
 - Saying glucose is actively pumped into PCT cells; it enters by co-transport.
-- Subtracting a concentration from a rate.
-- Not converting mm to nm before dividing by magnification.
 - Leaving the G-protein or adenylyl cyclase out of the glucagon chain.
 - Saying glucagon acts on muscle cells.
 - Calling ABA, not Ca²⁺, the second messenger.

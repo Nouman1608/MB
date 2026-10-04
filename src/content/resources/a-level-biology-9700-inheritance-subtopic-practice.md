@@ -37,9 +37,9 @@ featured: false
 
 This set works through topic 16, Inheritance, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, one subtopic at a time: 16.1 Passage of information from parents to offspring (questions 1–2), 16.2 The roles of genes in determining the phenotype (questions 3–9) and 16.3 Gene control (question 10). It is A Level content, examined on Paper 4; chi-squared can also appear on Paper 5.
 
-These differ from the [topic-level inheritance practice questions](/resources/a-level-biology-inheritance-practice/). For explanations, use the [inheritance study guide](/resources/a-level-biology-9700-inheritance/) and [revision notes](/resources/a-level-biology-9700-inheritance-revision-notes/). Also: [course hub](/boards/cambridge/a-level/biology/) · [printable checklist](/checklists/cambridge/a-level/biology/) · [A Level diagnostic](/practice/9700/diagnostic/a-level/)
+These differ from the [topic-level inheritance practice questions](/resources/a-level-biology-inheritance-practice/). For explanations, use the [inheritance study guide](/resources/a-level-biology-9700-inheritance/) and [revision notes](/resources/a-level-biology-9700-inheritance-revision-notes/).
 
-Critical value of χ² at p = 0.05 with 3 degrees of freedom: 7.81.
+Critical value of χ² at p = 0.05 with 3 degrees of freedom: 7.82.
 
 ## Questions
 
@@ -60,6 +60,7 @@ Critical value of χ² at p = 0.05 with 3 degrees of freedom: 7.81.
 
 **(a)** Name the stage shown by each cell. **[4]**
 **(b)** Describe what happens to the nuclear envelope and spindle between stages R and S. **[2]**
+**(c)** State how stage R would differ in a plant cell. **[1]**
 
 **3.** In peas, the allele Le (tall) is dominant to le (dwarf).
 
@@ -70,7 +71,7 @@ Critical value of χ² at p = 0.05 with 3 degrees of freedom: 7.81.
 **4.** The HBB gene has two codominant alleles, Hbᴬ and Hbˢ.
 
 **(a)** Explain how the Hbˢ allele leads to sickle cell anaemia. **[4]**
-**(b)** A man with genotype HbᴬHbˢ and a woman with sickle cell anaemia plan children. Draw a genetic diagram and calculate the probability that their first two children both have sickle cell anaemia. **[3]**
+**(b)** The ABO gene has alleles Iᴬ and Iᴮ (codominant) and Iᴼ (recessive). A group AB man and a group O woman plan children. Draw a genetic diagram and calculate the probability that their first two children are both group A. **[3]**
 
 **5.** Haemophilia A is caused by a recessive allele of the F8 gene, on the X chromosome. A woman without haemophilia, whose father had haemophilia, has children with a man who has haemophilia.
 
@@ -78,7 +79,10 @@ Critical value of χ² at p = 0.05 with 3 degrees of freedom: 7.81.
 **(b)** Draw a genetic diagram and state the probability that a daughter of this couple has haemophilia. **[3]**
 **(c)** Explain how the recessive F8 allele causes haemophilia. **[2]**
 
-**6.** Huntington's disease is caused by a dominant allele of the HTT gene. Explain how this allele leads to the disease, and why one copy is enough. **[4]**
+**6.** Explain how each allele affects the phenotype.
+
+**(a)** The recessive TYR allele, which causes albinism. **[2]**
+**(b)** The dominant HTT allele, which causes Huntington's disease; explain why one copy is enough. **[4]**
 
 **7.** In fruit flies, normal wings (N) are dominant to vestigial wings (n), on an autosome. Red eyes (Xᴿ) are dominant to white eyes (Xʳ). A true-breeding red-eyed, normal-winged female was crossed with a white-eyed, vestigial-winged male.
 
@@ -117,6 +121,7 @@ Critical value of χ² at p = 0.05 with 3 degrees of freedom: 7.81.
 
 **2. (a)** P **metaphase I** [1]; Q **anaphase II** [1]; R **telophase I** [1]; S **metaphase II** [1].
 **(b)** In prophase II the **nuclear envelopes break down** [1]; **new spindles form** and fibres attach to the centromeres [1].
+**(c)** A **cell plate** forms instead of the membrane pinching in [1].
 *Examiner insight:* Paired chromosomes on the equator always means metaphase I; single chromatids moving means anaphase II.
 
 **3. (a)** Locus: the **position of a gene on a chromosome** [1]. Test cross: crossing an individual of dominant phenotype with a **homozygous recessive** one to find its genotype [1].
@@ -125,15 +130,16 @@ Critical value of χ² at p = 0.05 with 3 degrees of freedom: 7.81.
 *Examiner insight:* In (b), a diagram without the conclusion linking each ratio to a genotype loses the final mark.
 
 **4. (a)** HBB codes for the **β-globin polypeptide** of haemoglobin [1]. In Hbˢ a **base substitution** changes **glutamic acid to valine** [1]. At low oxygen concentration haemoglobin S **forms fibres**, so red cells become **sickle-shaped** [1], carry less oxygen and **block capillaries** [1].
-**(b)** HbᴬHbˢ × HbˢHbˢ gives **1 HbᴬHbˢ (sickle cell trait) : 1 HbˢHbˢ (sickle cell anaemia)** [1]. P(one child) = ½ [1]; P(both) = ½ × ½ = **¼** [1].
-*Examiner insight:* Write codominant alleles as a gene letter with superscripts; S and s imply dominance and can cost the genotype mark.
+**(b)** IᴬIᴮ × IᴼIᴼ gives **1 IᴬIᴼ (group A) : 1 IᴮIᴼ (group B)** [1]. P(one child group A) = ½ [1]; P(both) = ½ × ½ = **¼** [1].
+*Examiner insight:* Write codominant and multiple alleles as a gene letter with superscripts; plain A, B and O can cost the genotype mark.
 
 **5. (a)** Her father gave her his only X, **Xʰ**, and she has no haemophilia, so she is **XᴴXʰ** [1].
 **(b)** XᴴXʰ × XʰY; gametes Xᴴ, Xʰ and Xʰ, Y [1]; offspring XᴴXʰ carrier female, XʰXʰ female with haemophilia, XᴴY unaffected male, XʰY male with haemophilia [1]; probability a daughter has haemophilia = **½** [1].
 **(c)** The allele codes for **non-functional factor VIII** [1], a **blood-clotting** protein, so blood clots slowly [1].
 *Examiner insight:* "A daughter has haemophilia" (½) differs from "a child is a daughter with haemophilia" (¼).
 
-**6.** HTT codes for the protein **huntingtin** [1]. The disease allele has an **expanded CAG repeat**, giving the protein an **extra-long glutamine chain** [1]. This **damages neurones in the brain** [1]. One copy is enough because the abnormal protein causes damage **even when normal huntingtin is also made** [1].
+**6. (a)** The allele codes for **non-functional tyrosinase** [1], so tyrosine is not converted to **melanin**, giving pale skin, hair and eyes [1].
+**(b)** HTT codes for the protein **huntingtin** [1]. The disease allele has an **expanded CAG repeat**, giving the protein an **extra-long glutamine chain** [1]. This **damages neurones in the brain** [1]. One copy is enough because the abnormal protein causes damage **even when normal huntingtin is also made** [1].
 *Examiner insight:* Name the gene, the protein and its effect separately; never call the gene "huntingtin".
 
 **7. (a)** Females **NnXᴿXʳ** [1]; males **NnXᴿY** [1].
@@ -151,8 +157,8 @@ Correct genotypes [1]. Females **3 normal red : 1 vestigial red** [1]. Males **3
 
 **8. (a)** 360 ÷ 4 = **90** per class [1].
 **(b)** (O − E)² = 2809, 2209, 2304, 2704 [1]; (O − E)²/E = 31.21 + 24.54 + 25.60 + 30.04 [1]; χ² = **111.4** [1].
-**(c)** 4 − 1 = **3** degrees of freedom [1]; 111.4 > 7.81, so the difference is **significant** [1].
-**(d)** The genes are **linked**; the parent is **TP/tp** [1]. Tall purple and dwarf white are **parental classes** from gametes TP and tp [1]. Tall white and dwarf purple are **recombinants** from gametes Tp and tP [1], made by **crossing over between the two loci** in prophase I, which is infrequent, so these classes are small [1].
+**(c)** 4 − 1 = **3** degrees of freedom [1]; 111.4 > 7.82, so the difference is **significant** [1].
+**(d)** The genes are **linked**; the parent is **TP/tp** [1]. Tall purple and dwarf white are **parental classes** from gametes TP and tp [1]. Tall white and dwarf purple are **recombinants** from gametes Tp and tP [1], made by **crossing over between the two loci** in prophase I, so these classes are small [1].
 *Examiner insight:* "Linked" alone is not enough; explain the small classes by crossing over.
 
 **9. (a)** **IiCc, white** [1]: the I allele makes the inhibitor, so no purple pigment forms [1].
@@ -178,8 +184,6 @@ Correct genotypes [1]. Females **3 normal red : 1 vestigial red** [1]. Males **3
 
 ## Next steps
 
-- [Inheritance revision notes](/resources/a-level-biology-9700-inheritance-revision-notes/) and [study guide](/resources/a-level-biology-9700-inheritance/)
-- [Topic-level inheritance practice questions](/resources/a-level-biology-inheritance-practice/)
 - [A Level diagnostic](/practice/9700/diagnostic/a-level/)
 - [Course hub](/boards/cambridge/a-level/biology/) and [printable checklist](/checklists/cambridge/a-level/biology/)
 - [Book a free trial class](/trial/)

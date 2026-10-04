@@ -34,7 +34,7 @@ featured: false
 
 These questions cover topic 11, Immunity, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, outcome by outcome: sub-topic 11.1 The immune system (outcomes 1–4) and sub-topic 11.2 Antibodies and vaccination (outcomes 1–6). It is AS Level content, examined on Papers 1 and 2, and Paper 4 can assume it. Calculators are allowed in all 9700 papers.
 
-Revise first with the [immunity study guide](/resources/a-level-biology-9700-immunity/) and [revision notes](/resources/a-level-biology-9700-immunity-revision-notes/). The [topic-level immunity practice questions](/resources/a-level-biology-immunity-practice/) are a separate set. See the [9700 course hub](/boards/cambridge/a-level/biology/), the [printable checklist](/checklists/cambridge/a-level/biology/) and the free [9700 AS diagnostic](/practice/9700/diagnostic/as/).
+Revise first with the [immunity study guide](/resources/a-level-biology-9700-immunity/) and [revision notes](/resources/a-level-biology-9700-immunity-revision-notes/). The [topic-level immunity practice questions](/resources/a-level-biology-immunity-practice/) are a separate set.
 
 ## Questions
 
@@ -93,7 +93,10 @@ Revise first with the [immunity study guide](/resources/a-level-biology-9700-imm
 **(b)** Some cancer cells carry very large numbers of one receptor protein. A monoclonal antibody against this receptor is used as a treatment. Suggest why it harms healthy cells less than a drug that kills all dividing cells. **[2]**
 **(c)** Suggest why repeated doses of a mouse monoclonal antibody become less effective. **[2]**
 
-**9.** (11.2.4) A person with a deep, dirty wound has never been vaccinated against tetanus. A doctor injects antibodies against tetanus toxin **and** gives a first dose of tetanus vaccine at the same visit. Name the type of immunity each injection gives, and explain why both are given. **[4]**
+**9.** (11.2.4) A person with a deep, dirty wound has never been vaccinated against tetanus. A doctor injects antibodies against tetanus toxin **and** gives a first dose of tetanus vaccine at the same visit.
+
+**(a)** Name the type of immunity each injection gives, and explain why both are given. **[4]**
+**(b)** Name the type of immunity gained by recovering from an infection, and state how it differs from the immunity the vaccine gives. **[2]**
 
 **10.** (11.2.5) A vaccine contains one purified protein from the surface of a virus, and no viral genetic material.
 
@@ -149,7 +152,8 @@ Revise first with the [immunity study guide](/resources/a-level-biology-9700-imm
 **(c)** Mouse antibodies are **non-self antigens** in humans [1]; the patient makes **antibodies against the mouse antibody**, which remove later doses [1].
 *Examiner insight:* Without "binds only to this antigen", (a) does not state the principle.
 
-**9.** The antibody injection gives **artificial passive** immunity [1]; the vaccine gives **artificial active** immunity [1]. The antibodies act **at once** on the toxin; the vaccine's primary response takes days [1]. Injected antibodies are **broken down** and **no memory cells** form, so the vaccine is needed for **long-term** protection [1].
+**9. (a)** The antibody injection gives **artificial passive** immunity [1]; the vaccine gives **artificial active** immunity [1]. The antibodies act **at once** on the toxin; the vaccine's primary response takes days [1]. Injected antibodies are **broken down** and **no memory cells** form, so the vaccine is needed for **long-term** protection [1].
+**(b)** **Natural active** immunity [1]; the antigen enters by infection, not by **deliberate** medical injection (both make memory cells) [1].
 *Examiner insight:* Each type needs both words; "passive" alone does not score.
 
 **10. (a)** The protein is a **non-self antigen** [1]; it activates **matching T-helper cells and B-lymphocytes** (clonal selection) [1]; this **primary response** produces plasma cells and **memory cells** [1]; if the virus enters later, memory cells give a **fast secondary response** that destroys it **before symptoms** develop [1].
@@ -165,9 +169,6 @@ Revise first with the [immunity study guide](/resources/a-level-biology-9700-imm
 
 - Defining an antigen as just "a foreign molecule".
 - Saying T-killer cells kill viruses, or that T-helper cells make antibodies.
-- Forgetting that memory cells are **specific**.
-- Comparing data without paired figures from both rows.
-- Using 8 × 2 instead of 2⁸ for repeated division.
 - Leaving out **myeloma** cells, or the selection step, from the hybridoma method.
 - Writing "passive" without "artificial" or "natural".
 

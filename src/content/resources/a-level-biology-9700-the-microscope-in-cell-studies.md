@@ -71,7 +71,7 @@ Both need:
 
 - A **sharp pencil**, with clear, **continuous, unbroken lines** and **no shading**.
 - Use **most of the space** provided.
-- **Ruled label lines** that touch the structure and do not cross.
+- **Ruled label lines** that touch the structure and do not cross (a standard marking convention).
 
 The same rules apply when drawing from a photomicrograph.
 

@@ -32,20 +32,20 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions work through Topic 15, Control and coordination, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, one subtopic at a time: section 15.1 (Control and coordination in mammals, outcomes 1–12) and section 15.2 (Control and coordination in plants, outcomes 1–3). This is A Level content, examined in Paper 4, where AS knowledge is also needed. Calculators are allowed in all 9700 papers.
+These questions work through Topic 15, Control and coordination, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, one subtopic at a time: section 15.1 (Control and coordination in mammals, outcomes 1–12) and section 15.2 (Control and coordination in plants, outcomes 1–3). This is A Level content, examined in Paper 4, where AS knowledge is also needed. Calculators are allowed.
 
-The questions differ from those in the topic-level practice set, so do both; all related pages are linked under Next steps.
+They differ from the topic-level practice set; related pages are under Next steps.
 
 ## Questions
 
 **1.** *(15.1, outcomes 1 and 2)* After a long run without drinking, a person's blood becomes more concentrated and ADH is released.
 
-**(a)** Use ADH as an example to describe three features of the endocrine system. **[3]**
+**(a)** Using ADH, insulin and glucagon as examples, describe three features of the endocrine system. **[3]**
 **(b)** Compare the nervous system and the endocrine system. **[3]**
 
 **2.** *(15.1, outcomes 3–5)* Taste-bud chemoreceptor cells detect sodium ions in salty food.
 
-**(a)** State two differences in structure between the sensory neurone that carries this information and a motor neurone. **[2]**
+**(a)** State two differences in structure and one difference in function between the sensory neurone that carries this information and a motor neurone. **[3]**
 **(b)** State the role of intermediate neurones. **[1]**
 **(c)** Outline the role of a sensory receptor cell. **[2]**
 **(d)** Describe the events that lead from the arrival of sodium ions to an action potential in the sensory neurone. **[5]**
@@ -90,11 +90,11 @@ The questions differ from those in the topic-level practice set, so do both; all
 
 ## Answers
 
-**1. (a)** ADH is a **hormone secreted into the blood** by a ductless gland (posterior pituitary) [1]; it is **carried in the blood** around the body [1]; it acts only on **target cells with specific receptors**, in the collecting ducts [1].
+**1. (a)** Hormones are **secreted into the blood** by ductless glands: ADH by the posterior pituitary, insulin and glucagon by the islets of Langerhans [1]; they are **carried in the blood** around the body [1]; each acts only on **target cells with specific receptors**: ADH on collecting duct cells, insulin and glucagon on liver cells [1].
 **(b)** Nervous: **electrical impulses** along neurones; endocrine: **hormones** carried in the blood [1]. Nervous responses are **faster** and usually **short-lived**; hormonal responses are **slower** and often **longer-lasting** [1]. Nervous signals reach **specific effectors**; hormones can affect **widespread target cells** [1].
 *Examiner insight:* "Compare" needs both systems in each point; "the nervous system is fast" alone is not credited.
 
-**2. (a)** The sensory neurone's **cell body is outside the CNS**, part-way along; the motor neurone's **cell body is inside the CNS**, at one end [1]. The sensory neurone has a **long dendron** to its cell body; the motor neurone has **many short dendrites** [1].
+**2. (a)** The sensory neurone's **cell body is outside the CNS**, part-way along; the motor neurone's **cell body is inside the CNS**, at one end [1]. The sensory neurone has a **long dendron** to its cell body; the motor neurone has **many short dendrites** [1]. The sensory neurone carries impulses **from a receptor to the CNS**; the motor neurone carries them **from the CNS to an effector** [1].
 **(b)** They **connect sensory neurones to motor neurones** in the CNS [1].
 **(c)** It **detects a stimulus** and converts it into a **receptor potential** (a change in membrane potential) [1]; if this reaches **threshold** it **stimulates an action potential** in the sensory neurone [1].
 **(d)** **Na⁺ diffuse into the chemoreceptor cell** through sodium ion channels [1]; the cell **depolarises** [1]; **voltage-gated calcium ion channels open** and Ca²⁺ diffuse in [1]; Ca²⁺ cause **vesicles to release neurotransmitter** onto the sensory neurone [1]; the neurone depolarises and, if **threshold** is reached, an **action potential** passes to the brain [1].
@@ -123,14 +123,14 @@ The questions differ from those in the topic-level practice set, so do both; all
 **8. (a)** A sarcomere runs **from one Z line to the next** [1]; the **A band is dark**, the length of the thick (myosin) filaments [1]; the **I band is light**, either side of a Z line, with thin (actin) filaments only [1].
 **(b)** The sarcomere shortens by 2.6 − 2.2 = 0.4 µm, and the H zone by the same amount [1]; 0.6 − 0.4 = **0.2 µm** [1].
 **(c)** Half the I band = (2.6 − 1.6) ÷ 2 = 0.5 µm; overlap each side = (1.6 − 0.6) ÷ 2 = 0.5 µm [1]; thin filament = **1.0 µm** [1].
-*Examiner insight:* Show each subtraction so a method mark survives an error; give units (µm).
+*Examiner insight:* Show each subtraction so a method mark survives an error; give units.
 
 **9. (a)** At rest **tropomyosin covers the myosin-binding sites** on actin [1]; **Ca²⁺ bind to troponin**, which changes shape and **moves tropomyosin** aside [1]; **myosin heads bind to actin**, forming **cross-bridges** [1]; the heads tilt (**power stroke**), releasing ADP and Pi and **pulling actin towards the M line** [1]; **ATP binds** to the myosin head, which **detaches** [1]; the head **hydrolyses ATP** and returns upright, ready to bind again [1].
 **(b)** Myosin heads **cannot detach** from actin [1], so **cross-bridges stay attached** [1].
 *Examiner insight:* ATP binding and ATP hydrolysis earn separate marks; "ATP provides energy" earns neither.
 
 **10. (a)** Bending a hair opens **ion channels** in its cells, giving a **receptor potential** [1]; a **second stimulation within a short time** is needed [1]; then an **action potential spreads across the lobes** [1].
-**(b)** Cells in the **outer layers of the lobes and midrib pump H⁺ into their cell walls**, loosening them [1]; **water enters by osmosis** and these cells expand rapidly [1]; the lobes **flip from convex to concave**, shutting the trap in a fraction of a second [1].
+**(b)** Cells in the **outer layers of the lobes and midrib pump H⁺ into their cell walls**, loosening them [1]; **water enters by osmosis** and these cells expand rapidly [1]; the lobes **flip from convex to concave**, shutting the trap [1].
 *Examiner insight:* Repeating the action potential in (b) earns nothing.
 
 **11. (a)** Auxin binds to **receptors** in cells of the elongation zone [1]; it stimulates **proton pumps** to **pump H⁺ into the cell wall**, lowering its pH [1]; at low pH **expansins loosen the links between cellulose microfibrils** [1]; water enters by **osmosis** and **turgor stretches the loosened wall**, so the cell elongates [1].
@@ -139,10 +139,8 @@ The questions differ from those in the topic-level practice set, so do both; all
 
 ## Where marks are usually lost
 
-- Giving one side only in a "compare" answer.
 - Saying the inside of the axon becomes "negative" during an action potential, instead of positive at the peak.
 - Leaving out voltage-gated calcium ion channels in the taste-bud cell or the presynaptic knob.
-- Writing "membrane" without presynaptic, postsynaptic or sarcolemma.
 - Saying the A band or the filaments shorten.
 - Giving ATP only an "energy" role instead of detachment and re-cocking.
 

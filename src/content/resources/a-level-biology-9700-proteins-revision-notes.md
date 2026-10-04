@@ -17,7 +17,7 @@ syllabusCodes: ["9700"]
 syllabusSeries: "For examination in 2025, 2026 and 2027"
 stage: "AS"
 order: 2
-description: "Condensed 9700 notes on proteins: amino acids, peptide bonds, protein structure, bonding, haemoglobin and collagen, with a quick self-test and answers."
+description: "Condensed notes on proteins for Cambridge 9700 Biology: amino acids, peptide bonds, protein structure, bonding, haemoglobin and collagen, plus a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-04
 featured: false

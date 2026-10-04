@@ -35,7 +35,7 @@ Use it with the [9700 course hub](/boards/cambridge/a-level/biology/) and the [p
 | 2.1.2 | Describe and carry out a semi-quantitative Benedict's test: standardise the test and use the time to first colour change, or comparison with colour standards, to estimate the concentration of a reducing sugar |
 | 2.1.3 | Describe and carry out a test for non-reducing sugars, using acid hydrolysis and Benedict's solution |
 
-"Describe and carry out" means two things. In a written paper you must give the method in a logical order, with the reagent, any heating, and the positive and negative results as named colours.
+"Describe and carry out" means you must do each test at the bench and, in a written paper, give the method in a logical order, with the reagent, any heating, and both results as named colours.
 
 ## 2.1.1 The four standard tests
 
@@ -211,7 +211,7 @@ When the first test is already positive, you detect a non-reducing sugar only by
 - Calling sucrose a reducing sugar, or listing maltose as non-reducing.
 - Leaving out neutralisation after acid hydrolysis, or neutralising with more acid.
 - In the emulsion test, adding water before ethanol, or describing the positive result as "a white precipitate".
-- Saying the biuret test turns "violet-blue" or "blue-black" (that is iodine).
+- Saying the biuret test turns "blue-black" (that is iodine).
 - Claiming the semi-quantitative test gives an exact concentration.
 - Forgetting that a shorter time means a higher concentration.
 - Estimating an unknown outside the range of the standards.
