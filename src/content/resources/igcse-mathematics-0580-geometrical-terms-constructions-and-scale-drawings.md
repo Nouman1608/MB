@@ -142,7 +142,7 @@ Use only a ruler and compasses, and show the construction arcs.
 5. Leave both arcs showing.
 ```
 
-Check: angle BAC should measure about 41°, angle ABC about 56° and angle ACB about 83°. If one side is as long as the other two together, the arcs never cross and no triangle exists.
+Check: angle BAC should measure about 41°, angle ABC about 56° and angle ACB about 83°. If one side is as long as the other two together, or longer, the arcs do not cross and no triangle exists.
 
 ### Constructing a rhombus from two triangles
 

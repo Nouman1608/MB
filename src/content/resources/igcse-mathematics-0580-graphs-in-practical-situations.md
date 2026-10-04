@@ -36,7 +36,7 @@ For the whole of Topic 2, see the [Algebra and graphs study guide](/resources/ig
 | E2.9 (3) | Apply rate of change to simple kinematics: distance–time and speed–time graphs, acceleration and deceleration | Extended only |
 | E2.9 (4) | Calculate distance travelled as the area under a speed–time graph (linear sections only) | Extended only |
 
-None of the formulas on this page (speed, gradient, trapezium area) appears on the 0580 list of formulas printed on the papers, so learn them.
+The speed, gradient and trapezium area formulas are not on the 0580 list of formulas printed on the papers (only the triangle area formula is), so learn them.
 
 ## Gradient as a rate of change
 

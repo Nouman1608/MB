@@ -127,7 +127,7 @@ Estimate the value of (812 + 197) ÷ 0.48.
 (800 + 200) / 0.5 = 1000 / 0.5 = 2000
 ```
 
-Dividing by 0.5 is the same as multiplying by 2. Dividing by a number less than 1 makes the answer **bigger**, which is a quick check on your working.
+Dividing by 0.5 is the same as multiplying by 2. Dividing a positive number by a number between 0 and 1 makes the answer **bigger**, which is a quick check on your working.
 
 ### Worked example 6 (non-calculator)
 

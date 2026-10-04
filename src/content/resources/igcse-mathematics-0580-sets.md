@@ -179,7 +179,7 @@ Writing 31 in the "M only" region is the classic slip. The 31 is the **whole** c
 
 ∈ links an **element** to a set; ⊆ links a **set** to a set. Write ∅ for the empty set, not {0} (that set has one element).
 
-To show A ⊈ B, give **one element** that is in A but not in B. To show A ⊆ B, check every element of A. On a Venn diagram, A ⊆ B is drawn with circle A entirely inside circle B.
+To show A ⊈ B, give **one element** that is in A but not in B. To show A ⊆ B, check every element of A. On a Venn diagram, A ⊆ B is drawn with circle A entirely inside circle B, and two sets with A ∩ B = ∅ are drawn as circles that do not overlap.
 
 **Worked example 5 (Extended).** ℰ = {x: x is an integer, 1 ⩽ x ⩽ 20}, E = {even numbers}, T = {multiples of 4} and S = {square numbers}. Decide whether each statement is true or false, giving a reason.
 

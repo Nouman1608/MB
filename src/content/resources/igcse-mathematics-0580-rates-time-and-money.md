@@ -164,9 +164,13 @@ Time is not decimal: there are 60 minutes in an hour, not 100.
 
 (c) A calculation gives 2.35 hours. 0.35 × 60 = 21 minutes, so this is **2 hours 21 minutes**, not 2 hours 35 minutes.
 
+(d) 18 months = **1.5 years**, and 2 years = 2 × 365 = **730 days**.
+
 ### The 24-hour and 12-hour clock
 
 The syllabus writes 24-hour times with four digits, such as 03 15 for 3.15 a.m. and 15 15 for 3.15 p.m. From 1 p.m. onwards, add 12 to the hour. Midnight is 00 00 and noon is 12 00.
+
+**Reading a clock face.** The short hand shows the hour, the long hand the minutes; each small mark is 1 minute. Long hand on 9, short hand between 3 and 4 in the afternoon: 3.45 p.m., or 15 45.
 
 ```
 11.05 p.m.  -> 23 05         00 45 -> 12.45 a.m.
@@ -199,7 +203,7 @@ Park Gate    07 55   08 40   09 25   10 10
 
 (a) Harbour to Park Gate: 06 50 to 07 55 is **1 hour 5 minutes**.
 
-(b) Leo must be at Park Gate by 09 00. The 08 42 from Old Town arrives at 09 25, too late, so the latest tram he can catch is the **07 57**, which arrives at 08 40.
+(b) Leo boards at Old Town and must be at Park Gate by 09 00. The 08 42 from Old Town arrives at 09 25, too late, so the latest tram he can catch is the **07 57**, which arrives at 08 40.
 
 (c) Mia reaches University at 08 05. The next tram leaves at 08 16, so she waits **11 minutes**.
 

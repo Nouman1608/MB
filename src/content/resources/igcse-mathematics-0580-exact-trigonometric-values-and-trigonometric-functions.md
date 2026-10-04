@@ -199,7 +199,7 @@ cos x = k:  x and 360° − x
 tan x = k:  x and x + 180°
 ```
 
-If your calculator gives a negative angle, it is outside the range. Add 360° to bring it into range, then apply the rule again.
+A negative calculator angle is outside the range. Apply the rule to the calculator's value, then add 360° (or 180° for tan) to any angle that is still negative. For sin x = −0.4: sin⁻¹(−0.4) = −23.6°, so x = 180° − (−23.6°) = 203.6° and x = −23.6° + 360° = 336.4°.
 
 ### Worked example 5: non-calculator equation with a sine
 

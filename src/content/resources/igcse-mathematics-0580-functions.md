@@ -249,7 +249,7 @@ gf(x) = (2x + 3)² - 1
             x = 1/2  or       x = -7/2
 ```
 
-Taking the square root of both sides needs **both** signs. Expanding to 4x² + 12x − 8 = 0 and factorising also works, but the square-root route is quicker on a non-calculator paper.
+Taking the square root of both sides needs **both** signs. Expanding to 4x² + 12x − 7 = 0 and factorising also works, but the square-root route is quicker on a non-calculator paper.
 
 ### Worked example 9: inverse and function together
 
@@ -268,7 +268,7 @@ f⁻¹(x) = (x - 3)/2
 
 ## Doing this on Paper 2 and Paper 4
 
-Paper 2 does not allow a calculator, so every function value, inverse and composite must be worked out by hand. Keep fractions as fractions (x = −7/2, not −3.5 unless asked). On Paper 4 a calculator is required, but it only helps with arithmetic: the algebra in an inverse or composite still has to be written out. If an answer is not exact on Paper 4, give it to 3 significant figures, as the syllabus requires for non-exact answers.
+Paper 2 does not allow a calculator, so every function value, inverse and composite must be worked out by hand. Keep answers exact (x = −7/2 or −3.5), never rounded. On Paper 4 a calculator is required, but it only helps with arithmetic: the algebra in an inverse or composite still has to be written out. If an answer is not exact on Paper 4, give it to 3 significant figures, as the syllabus requires for non-exact answers.
 
 ## Common errors
 

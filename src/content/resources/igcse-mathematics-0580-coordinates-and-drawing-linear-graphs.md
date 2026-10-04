@@ -225,7 +225,7 @@ Plot (–1, –7.5), (0, –5), (2, 0) and (4, 5), and rule the line across –1
 
 ## Common errors
 
-- **Swapping the coordinates.** Plotting (y, x) instead of (x, y), for example putting (3, –5) at 3 down and 5 left.
+- **Swapping the coordinates.** Plotting (y, x) instead of (x, y), for example putting (3, –5) at 5 left and 3 up, which is (–5, 3).
 - **Sign slips with negative x.** Working out –3 × –2 as –6 instead of 6. Put negative numbers in brackets when you substitute.
 - **Misreading the scale.** Assuming each small square is 1 unit when it is 0.2 or 0.5. Work out the scale on both axes before plotting.
 - **Stopping the line short.** Drawing only between the plotted points instead of across the full range given in the question.

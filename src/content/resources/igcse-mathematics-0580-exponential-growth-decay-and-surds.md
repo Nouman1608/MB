@@ -256,7 +256,7 @@ The answer is **(5 + 4√2)/7**. Check whether anything cancels. Here 5, 4 and 7
 
 ### Surds in other topics
 
-Surds turn up whenever a question asks for an exact answer. For example, solving x² − 6x + 4 = 0 with the quadratic formula gives x = (6 ± √20)/2. Simplify √20 = 2√5, then divide each term by 2 to get **x = 3 ± √5**. The diagonal of a square of side 6 cm is √72 = **6√2** cm by Pythagoras. On Paper 2 there is no calculator, so all surd work there must be done by hand, with every step shown.
+Surds turn up whenever a question asks for an exact answer. For example, solving x² − 6x + 4 = 0 with the quadratic formula gives x = (6 ± √20)/2. Simplify √20 = 2√5, then divide each term by 2 to get **x = 3 ± √5**. The diagonal of a square of side 4 cm is √32 = **4√2** cm by Pythagoras. On Paper 2 there is no calculator, so all surd work there must be done by hand, with every step shown.
 
 ## Common errors
 

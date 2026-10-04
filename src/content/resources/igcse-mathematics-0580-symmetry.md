@@ -39,7 +39,7 @@ Use it with the [0580 course hub](/boards/cambridge/igcse/mathematics/) and the 
 
 A **line of symmetry** (mirror line) splits a shape into two halves that are mirror images: fold along it and one half fits exactly on the other. To test a line, go from each vertex straight across the line at 90° and the same distance beyond it. If there is a matching vertex there every time, it is a line of symmetry.
 
-A diagonal is *not* automatically a line of symmetry. A rectangle's diagonal cuts it into two congruent triangles, but folding along it does not make them fit on top of each other.
+A diagonal is *not* automatically a line of symmetry. A rectangle's diagonal cuts it into two congruent triangles, but folding along it does not make them fit.
 
 ## Rotational symmetry
 
@@ -47,7 +47,7 @@ A shape has **rotational symmetry** if it looks exactly the same after a turn of
 
 - Every shape fits onto itself after a full 360° turn, so the smallest order is 1. Order 1 means **no rotational symmetry**.
 - If the order is n, the smallest turn that maps the shape onto itself is 360° ÷ n.
-- With tracing paper: trace the shape, turn the tracing once round about the centre, and count how many times it fits.
+- Tracing paper helps: turn a tracing once round the centre and count the fits.
 
 ### A useful link between the two
 
@@ -55,7 +55,7 @@ If a flat shape has **at least one** line of symmetry, its order of rotational s
 
 ## Symmetry of triangles and quadrilaterals
 
-The syllabus notes include the properties of triangles, quadrilaterals and polygons that follow directly from their symmetries. Learn the counts and *why* the properties follow.
+Learn these counts and *why* the properties below follow from them.
 
 | Shape | Lines of symmetry | Order of rotational symmetry |
 |---|---|---|
@@ -134,7 +134,7 @@ Interior angle = 180° − 24° = 156°
 
 You may be asked to draw a line of symmetry on a grid, write its equation, or add points so a shape has a given symmetry.
 
-### Worked example 4: the equation of a line of symmetry
+### Worked example 4 (Extended): the equation of a line of symmetry
 
 Triangle PQR has vertices P(1, 4), Q(4, 1) and R(5, 5). Show that the triangle is isosceles and find the equation of its line of symmetry.
 
@@ -168,7 +168,7 @@ This hexagon has order 2 but **no** lines of symmetry, like a parallelogram. Rot
 
 ## Symmetry of solids (Extended only)
 
-The syllabus example for E4.5 part 2 is to identify **planes** and **axes** of symmetry.
+The syllabus example for E4.5 part 2 is identifying **planes** and **axes** of symmetry.
 
 - A **plane of symmetry** cuts a solid into two halves that are mirror images. It is the 3D version of a line of symmetry.
 - An **axis of symmetry** is a line through the solid about which it can be turned and look the same in more than one position in a full turn. The order counts those positions.
@@ -191,11 +191,11 @@ For a right prism, look at the cross-section first.
 | Regular hexagonal prism | 7 | order 6 |
 | Cylinder | infinitely many | any angle of turn |
 
-A cuboid with all edges different has three axes of symmetry, each of order 2, through the centres of pairs of opposite faces. A cylinder's planes are every plane containing its central axis, plus the plane halfway up.
+A cube is the exception to the cross-section rule: it is a prism in three directions, so it has 3 + 6 = 9 planes. A cuboid with all edges different has three axes of symmetry, each of order 2, through the centres of pairs of opposite faces. A cylinder's planes are every plane containing its central axis, plus the plane halfway up.
 
 ### Right pyramids and cones
 
-In a **right pyramid** the apex is directly above the centre of the base. Every plane of symmetry contains the vertical axis through the apex. So:
+In a **right pyramid** the apex is directly above the centre of the base. Every plane of symmetry contains the vertical axis through the apex (a regular tetrahedron is an exception). So:
 
 - planes of symmetry = lines of symmetry of the base
 - order about the vertical axis = order of rotational symmetry of the base

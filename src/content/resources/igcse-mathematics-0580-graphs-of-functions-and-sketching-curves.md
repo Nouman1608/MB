@@ -62,11 +62,11 @@ Check any point that breaks the pattern. A quadratic table is symmetrical about 
 
 ### Worked example 1 (Core): drawing a quadratic and solving equations
 
-Draw y = x² − 2x − 3 for −2 ≤ x ≤ 4. Use it to solve (a) x² − 2x − 3 = 0 and (b) x² − 4x − 1 = 0.
+Draw y = x² − 2x − 3 for −2 ≤ x ≤ 5. Use it to solve (a) x² − 2x − 3 = 0 and (b) x² − 4x − 1 = 0.
 
 ```
-x    -2   -1    0    1    2    3    4
-y     5    0   -3   -4   -3    0    5
+x    -2   -1    0    1    2    3    4    5
+y     5    0   -3   -4   -3    0    5   12
 ```
 
 Plot the points and draw a smooth U-shaped curve. The values are symmetrical about x = 1.
