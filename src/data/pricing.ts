@@ -173,7 +173,8 @@ export const ONE_TO_ONE_ONLY_PRICING = {
   symbol: 'Rs',
   perClass: 6000,
   unit: 'per class',
-  courses: 'OCR courses, and OxfordAQA Islamiyat and Pakistan Studies',
+  // D-391 -- owner, 5 Oct 2026: "only one to one classes will be offered with Rs 6000 per class" for AP.
+  courses: 'AP courses, OCR courses, and OxfordAQA Islamiyat and Pakistan Studies',
   deliveryMode: 'One-to-one only. There is no group option for these courses, and the multi-subject and sibling discounts do not apply.',
   verifiedDate: '2026-09-25',
 } as const;

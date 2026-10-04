@@ -27,7 +27,7 @@ const marlbridgeTeaches = z.enum(['teaching', 'planned', 'not-teaching', 'not-co
 /** Kept in step with src/data/academic/. Validated against the matrix at build time. */
 const boardSlug = z.enum(['cambridge', 'edexcel', 'aqa', 'ocr', 'oxfordaqa', 'ib']);
 const qualificationSlug = z.enum(['igcse', 'o-level', 'gcse', 'as-level', 'a-level', 'ib-myp', 'ib-dp']);
-const level = z.enum(['igcse', 'o-levels', 'a-levels', 'gcse', 'ib', 'sat', 'ielts', 'foundation']);
+const level = z.enum(['igcse', 'o-levels', 'a-levels', 'gcse', 'ib', 'ap', 'sat', 'ielts', 'foundation']);
 const country = z.enum(['PK', 'AE', 'SA', 'IN', 'GB', 'EU', 'WW']);
 /**
  * `countryAvailability` was found (Flagship Dominance/Trust programme,

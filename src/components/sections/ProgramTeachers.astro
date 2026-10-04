@@ -39,7 +39,13 @@ const tokens = (label: string): string[] => {
   return [...out];
 };
 
-const matrixSubjects = new Set(
+/**
+ * D-391 -- AP is not in the exam-board matrix. The owner confirmed (5 Oct 2026) that the
+ * same subject teachers teach the AP courses, so AP matches teachers by the subjects of
+ * the eleven AP courses (src/data/ap/frameworks.ts subjectHubs).
+ */
+const AP_SUBJECT_TOKENS = ['chemistry', 'biology', 'physics', 'mathematics', 'statistics', 'economics'];
+const matrixSubjects = level === 'ap' ? new Set(AP_SUBJECT_TOKENS) : new Set(
   taughtOnly()
     .filter((c) => LEVEL_FOR_QUALIFICATION[c.qualificationSlug] === level)
     // B15 -- a course can carry its own subject name (9626 "Information

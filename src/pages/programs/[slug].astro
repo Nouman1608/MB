@@ -114,7 +114,10 @@ const PROGRAM_LEVEL_TO_QUALIFICATION: Record<string, string> = {
 };
 const hasGroupTuition = Boolean(QUALIFICATION_TIER[PROGRAM_LEVEL_TO_QUALIFICATION[d.level] ?? '']);
 const isIb = d.level === 'ib';
-const feeOnEnquiry = !hasGroupTuition && !isIb;
+// D-391 -- owner, 5 Oct 2026: AP is one-to-one only at Rs 6,000 per class (ONE_TO_ONE_ONLY_PRICING).
+const isAp = d.level === 'ap';
+const feeOnEnquiry = !hasGroupTuition && !isIb && !isAp;
+const apFeeLine = `${ONE_TO_ONE_ONLY_PRICING.symbol} ${ONE_TO_ONE_ONLY_PRICING.perClass.toLocaleString('en-US')} per class in ${ONE_TO_ONE_ONLY_PRICING.region}`;
 
 const programTuitionFaqs = hasGroupTuition
   ? TUITION_FAQS
@@ -126,15 +129,19 @@ const programTuitionFaqs = hasGroupTuition
           // fee on this page, so neither may say "the fee shown above".
           return [{ question: f.question, answer: feeOnEnquiry
             ? `${PRICING_TERMS.billing} There is no separate registration or enrolment fee; the fee is confirmed on enquiry, before anything is booked.`
+            : isAp
+            ? `${PRICING_TERMS.billing} There is no separate registration or enrolment fee. AP tuition is charged per one-to-one class: ${apFeeLine}. The pricing page shows indicative conversions for other currencies, and the exact fee is confirmed in writing before anything is booked.`
             : `${PRICING_TERMS.billing} There is no separate registration or enrolment fee. IB tuition is charged per 1-hour class: ${IB_PRICING.perClass.toLocaleString('en-US')} ${IB_PRICING.currency} in ${IB_PRICING.region}. The pricing page shows indicative conversions for other currencies, and the exact fee is confirmed in writing before anything is booked.` }];
         }
         if (f.question !== 'Is the trial one-to-one or in a group?') return [f];
-        return isIb
-          ? [{ question: 'Is the trial one-to-one or in a group?', answer: 'IB tuition is one-to-one only, so the free trial is an individual class with the teacher.' }]
+        return isIb || isAp
+          ? [{ question: 'Is the trial one-to-one or in a group?', answer: `${isAp ? 'AP' : 'IB'} tuition is one-to-one only, so the free trial is an individual class with the teacher.` }]
           : [];
       })
       .concat(feeOnEnquiry
         ? [{ question: `How much does ${d.title} tuition cost?`, answer: `There is no fixed fee for ${d.title} on the pricing page. Send an enquiry and Marlbridge will confirm the fee before anything is booked.` }]
+        : isAp
+        ? [{ question: 'How is AP tuition charged?', answer: `AP tuition is one-to-one only and charged per class, not per subject per month: ${apFeeLine}. The multi-subject and sibling discounts do not apply. The pricing page shows indicative conversions for other currencies.` }]
         : [{ question: 'How is IB tuition charged?', answer: `IB tuition is one-to-one only and charged per class, not per subject per month. The multi-subject and sibling discounts do not apply. The pricing page gives the rate for ${IB_PRICING.region}; for other regions Marlbridge confirms the fee on enquiry.` }]);
 
 const visibleFaqs = d.marlbridgeTeaches === 'teaching'
@@ -176,6 +183,9 @@ const jsonLd = [
     {d.marlbridgeTeaches === 'teaching' && isIb && (
       <span class="text-[14px] text-ink-mute">One-to-one only &middot; {IB_PRICING.perClass.toLocaleString('en-US')} {IB_PRICING.currency} per 1-hour class in {IB_PRICING.region}</span>
     )}
+    {d.marlbridgeTeaches === 'teaching' && isAp && (
+      <span class="text-[14px] text-ink-mute">One-to-one only &middot; {apFeeLine} (<a href="/pricing/#one-to-one-only" class="underline decoration-gold-500 underline-offset-2">other currencies</a>)</span>
+    )}
     {d.marlbridgeTeaches === 'teaching' && feeOnEnquiry && (
       <span class="text-[14px] text-ink-mute">Fee confirmed on enquiry</span>
     )}
@@ -185,7 +195,7 @@ const jsonLd = [
     <Container>
       <div class="grid items-start gap-8 lg:grid-cols-[minmax(280px,0.8fr)_1.6fr] lg:gap-[clamp(32px,5vw,88px)]">
         <h2 class="m-0 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Program overview</h2>
-        <div class="max-w-[68ch] text-[17.5px] leading-[1.7] [&>h2]:mt-8 [&>h2]:text-[22px] [&>h2]:font-semibold [&>h2]:text-navy-800 [&>p]:mt-5">
+        <div class="max-w-[68ch] text-[17.5px] leading-[1.7] [&>h2]:mt-8 [&>h2]:text-[22px] [&>h2]:font-semibold [&>h2]:text-navy-800 [&>p]:mt-5 [&>ul]:mt-5 [&>ul]:list-disc [&>ul]:ps-5 [&_a]:underline [&_a]:decoration-gold-500 [&_a]:underline-offset-2">
           <p class="m-0 mb-5 border-s-2 border-gold-500 ps-4 text-[17px] text-ink-mute">{availabilityCopy}</p>
           <Content />
         </div>
@@ -207,10 +217,10 @@ const jsonLd = [
         <section aria-labelledby="program-trial" class="mt-[clamp(48px,6vw,80px)] border-t border-rule pt-10">
           <h2 id="program-trial" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Try {programArticle} {d.title} class first</h2>
           <p class="m-0 mb-6 max-w-[62ch] text-[17px] leading-relaxed text-ink-mute">
-            {PRICING_TERMS.freeTrial} {hasGroupTuition ? PRICING_TERMS.trialFormat.summary : isIb ? 'IB tuition is one-to-one only, so the trial is an individual class with the teacher.' : ''} {PRICING_TERMS.enquiryResponse.summary}
+            {PRICING_TERMS.freeTrial} {hasGroupTuition ? PRICING_TERMS.trialFormat.summary : isIb || isAp ? `${isAp ? 'AP' : 'IB'} tuition is one-to-one only, so the trial is an individual class with the teacher.` : ''} {PRICING_TERMS.enquiryResponse.summary}
           </p>
           <div class="flex flex-wrap items-center gap-4">
-            <Button href={`${routes.trial}?program=${program.id}&source=program`} variant="primary" size="lg" data-cta="program-trial">Request a free trial</Button>
+            <Button href={`${routes.trial}?program=${program.id}${isAp ? '&format=one-to-one' : ''}&source=program`} variant="primary" size="lg" data-cta="program-trial">Request a free trial</Button>
             {feeOnEnquiry
               ? <Button href={routes.contact} variant="secondary">Ask about fees</Button>
               : <Button href={routes.pricing} variant="secondary">See tuition fees</Button>}

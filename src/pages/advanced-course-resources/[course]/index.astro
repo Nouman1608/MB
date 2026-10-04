@@ -14,6 +14,7 @@ import ApTrademarkNote from '../../../components/ap/ApTrademarkNote.astro';
 import { AP_COURSES, type ApCourse } from '../../../data/ap/frameworks';
 import { AP_SOURCES } from '../../../data/ap/sources';
 import { AP_MARK_IN_METADATA } from '../../../data/ap/config';
+import { ONE_TO_ONE_ONLY_PRICING } from '../../../data/pricing';
 import { routes } from '../../../utils/urls/routes';
 import { faqNode } from '../../../utils/schema/faq';
 import { absoluteUrl } from '../../../utils/seo/meta';
@@ -105,6 +106,11 @@ const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] t
           {c.labRequirement && <p class="m-0"><strong class="text-navy-800">Laboratory work:</strong> {c.labRequirement} These pages support that work; they do not replace it.</p>}
         </div>
       </section>
+
+      <p class="m-0 mt-8 max-w-[72ch] rounded-sm border border-gold-500 bg-ivory px-5 py-4 text-[15.5px] leading-[1.6]">
+        <strong class="text-navy-800">Want a teacher?</strong> Marlbridge teaches {visible} one-to-one online, {ONE_TO_ONE_ONLY_PRICING.symbol} {ONE_TO_ONE_ONLY_PRICING.perClass.toLocaleString('en-US')} per class in {ONE_TO_ONE_ONLY_PRICING.region}, and the first class is free.
+        <a href="/programs/ap/" class="underline decoration-gold-500 underline-offset-2">About AP tuition</a> · <a href="/trial/?program=ap&amp;format=one-to-one&amp;source=resource" class="underline decoration-gold-500 underline-offset-2">Request a free trial</a>
+      </p>
 
       <section aria-labelledby="roadmap" class="mt-[clamp(48px,6vw,80px)]">
         <h2 id="roadmap" class={h2}>Unit roadmap</h2>

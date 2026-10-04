@@ -22,7 +22,7 @@
  *   ?course=board/qualification/subject  fills the subject text and the board,
  *                                        and sends the course id and its
  *                                        qualification as hidden values
- *   ?program=igcse|o-levels|a-levels|gcse|ib|ielts  sends the qualification
+ *   ?program=igcse|o-levels|a-levels|gcse|ib|ap|ielts  sends the qualification
  *   ?teacher=<author slug>  ?format=group|one-to-one  ?source=<allowed value>
  * No personal data is ever read from or written to a URL.
  *
@@ -47,9 +47,10 @@ const BOARDS = [
   { value: 'oxfordaqa', label: 'OxfordAQA' },
   { value: 'ocr', label: 'OCR' },
   { value: 'ib', label: 'International Baccalaureate' },
+  { value: 'college-board', label: 'College Board (AP)' },
 ];
 const PROGRAM_TO_QUAL: Record<string, string> = {
-  igcse: 'igcse', 'o-levels': 'o-level', 'a-levels': 'a-level', gcse: 'gcse', ib: 'ib-dp', ielts: 'ielts',
+  igcse: 'igcse', 'o-levels': 'o-level', 'a-levels': 'a-level', gcse: 'gcse', ib: 'ib-dp', ap: 'ap', ielts: 'ielts',
 };
 
 // Taught courses only, used to pre-fill the typed subject from a link.

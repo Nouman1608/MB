@@ -95,8 +95,8 @@ const FIELDS_BY_KIND: Record<EnquiryKind, { required: string[]; optional: string
 };
 
 /** D-286 -- allowed values for the structured trial fields. */
-export const TRIAL_QUALIFICATIONS = ['igcse', 'o-level', 'gcse', 'as-level', 'a-level', 'ib-myp', 'ib-dp', 'ielts', 'sat', 'not-sure'] as const;
-export const TRIAL_BOARDS = ['cambridge', 'edexcel', 'aqa', 'ocr', 'oxfordaqa', 'ib', 'not-sure'] as const;
+export const TRIAL_QUALIFICATIONS = ['igcse', 'o-level', 'gcse', 'as-level', 'a-level', 'ib-myp', 'ib-dp', 'ap', 'ielts', 'sat', 'not-sure'] as const;
+export const TRIAL_BOARDS = ['cambridge', 'edexcel', 'aqa', 'ocr', 'oxfordaqa', 'ib', 'college-board', 'not-sure'] as const;
 export const TRIAL_FORMATS = ['group', 'one-to-one', 'help-me-decide'] as const;
 export const TRIAL_AVAILABILITY = [
   'weekday-morning', 'weekday-afternoon', 'weekday-evening',
@@ -261,8 +261,8 @@ const FIELD_LABEL: Record<string, string> = {
 /** Plain-text email body. Every value was already sanitized by validateEnquiry. */
 /** D-286 -- readable values for the structured trial fields in the owner's email. */
 const VALUE_LABEL: Record<string, Record<string, string>> = {
-  qualification: { igcse: 'IGCSE', 'o-level': 'O Level', gcse: 'GCSE', 'as-level': 'AS Level', 'a-level': 'A Level', 'ib-myp': 'IB MYP', 'ib-dp': 'IB Diploma', ielts: 'IELTS', sat: 'SAT', 'not-sure': 'Not sure' },
-  board: { cambridge: 'Cambridge', edexcel: 'Pearson Edexcel', aqa: 'AQA', ocr: 'OCR', oxfordaqa: 'OxfordAQA', ib: 'IB', 'not-sure': 'Not sure' },
+  qualification: { igcse: 'IGCSE', 'o-level': 'O Level', gcse: 'GCSE', 'as-level': 'AS Level', 'a-level': 'A Level', 'ib-myp': 'IB MYP', 'ib-dp': 'IB Diploma', ap: 'AP (Advanced Placement)', ielts: 'IELTS', sat: 'SAT', 'not-sure': 'Not sure' },
+  board: { cambridge: 'Cambridge', edexcel: 'Pearson Edexcel', aqa: 'AQA', ocr: 'OCR', oxfordaqa: 'OxfordAQA', ib: 'IB', 'college-board': 'College Board (AP)', 'not-sure': 'Not sure' },
   format: { group: 'Group classes', 'one-to-one': 'One-to-one', 'help-me-decide': 'Help me decide' },
 };
 export const readable = (field: string, value: string): string => {
