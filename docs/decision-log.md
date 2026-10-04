@@ -15243,3 +15243,20 @@ Practice questions are labelled by criterion A–D with the "revision aid, not I
 **Validation (4 Oct 2026, 15:20 PKT).** validate:academic PASS; check:duplicate-scope PASS; build OK; audit:all PASS; validate-review-integrity PASS; check_new.py OK on all 12 pages. content-gap-report.md regenerated: all 27 syllabuses report "complete"; no topic or subtopic gaps remain.
 
 **Not done / owner decisions.** Branch pushed only; the owner merges. reviewStatus/reviewer untouched.
+
+## D-386 -- Post-audit remediation: practice tests, dependencies, assessment models, academic review, reports, README (4 Oct 2026)
+
+**Request.** The owner asked for a tightly scoped remediation of six items from the post-audit list: the two failing practice-tool tests, the dependency vulnerabilities, the stale reports, the README, the 18 partial assessment models, and the outstanding academic review "as far as repository evidence and genuine reviewer authority permit". Baseline: `c9f012d`, clean tree.
+
+**What was done.**
+- **Practice tests (108/110 → 115/115).** The 4MA1 failure was the first of 28 practice files from D-382 to D-384 that sat in Foundation/Higher banks without the item-by-item tier check `HIGHER_LABELS_CHECKED` requires. All 329 questions were checked against the official 4MA1 Issue 2 and AQA 8300/8461/8462 specifications; 7 labels were moved from whole questions to the Higher-only parts; the tier reader now reads "(Higher, non-calculator)" and "(non-calculator) (Higher)" (15 AQA 8300 questions, all confirmed Higher-only). Record: `docs/reports/academic-review/tier-label-review-2026-10-04.md`.
+- **Dependencies.** `npm audit` 2 high + 1 moderate → 0. Lockfile-only: http-cache-semantics 4.3.0, undici 8.10.2, fast-uri 3.1.8, each inside its parent's existing range.
+- **Assessment models (142 → 160/160 VERIFIED_COMPLETE).** 20 records re-read from their own official PDFs; values follow the file's established usage; `verifiedOn` moved to 2026-10-04 where components were re-checked. New check [15] fails a record without a model. Owner decision outstanding: Cambridge 9700 Biology is `component-based` although structurally identical to 9701/9702 (`staged`).
+- **Academic review.** Every one of the 780 review-pending resources was checked individually against its official specification, with all calculations recomputed: 585 verified, 42 verified after correction, 153 partial (claims needing licensed IB guides or blocked board pages), 0 open errors. 53 corrections in 42 files (commit `c507e12`). This is repository-side verification only. No `reviewStatus`, `reviewer` or `reviewedDate` was changed; all 780 remain review-pending and are listed in `docs/reports/academic-review/signoff-queue.md`. "reviewed" keeps its D-379 meaning (accountable teacher credit).
+- **Reports.** `npm run coverage:academic-v2` now writes the canonical `docs/reports/academic-coverage-current.{md,json,csv}` from one dataset, with derived reviewers and real review dates, no wall-clock timestamp. New `npm run report:review-ledger` (one row per resource). Historical v1.1/v1.2 reports kept under a "superseded" banner; index in `docs/reports/README.md`. New `npm run test:reports`.
+- **README** aligned with the commands, CI and review meaning.
+
+**Owner decisions / not done.**
+- Human sign-off of the 780 review-pending resources needs a named, authorised Marlbridge reviewer per page; none was assigned or inferred.
+- 9700 assessment-model consistency (above).
+- 242 minor reviewer notes (style or judgement points) are recorded per resource in the verification file and ledger, not edited. Examples worth the owner's attention: IB DP Global Politics pages give Paper 2 as 1h45 while the public 2023 brief says 1.5 h (the licensed guide may differ); OxfordAQA 9690 pages cite spec Version 1.0 and link a dead 2026/07 URL (current is Version 1.1); several AS Global Perspectives pages still say Component 4 has no Marlbridge resource.
