@@ -187,6 +187,21 @@ const resources = defineCollection({
      * and never to be in the future.
      */
     reviewedDate: z.coerce.date().optional(),
+    /**
+     * D-388 -- a dated specification check by the Marlbridge Academic Team
+     * (an organisation profile, not a teacher). Records that the page was
+     * checked against its official specification (or, where the full guide is
+     * licensed, the board's public course documents) on `date`. It is NOT a
+     * teacher review: it never sets or implies `reviewStatus: reviewed`, and
+     * the page stays awaiting a "Reviewed by" teacher. Rendered as a separate
+     * "Checked by" line only when the page is not genuinely reviewed.
+     * Rules in scripts/validate-review-integrity.mjs [11].
+     */
+    specCheck: z.object({
+      by: reference('authors'),
+      date: z.coerce.date(),
+      scope: z.enum(['official-specification', 'public-course-documents']),
+    }).optional(),
     publishedDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
     order: z.number().optional(),

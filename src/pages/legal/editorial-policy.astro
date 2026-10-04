@@ -5,7 +5,7 @@ import Container from '../../components/layout/Container.astro';
 import { FALLBACK_EMAIL } from '../../utils/forms/submit';
 import { getResources, getArticles } from '../../utils/content/collections';
 const mailto = 'mailto:' + FALLBACK_EMAIL;
-const lastUpdated = '17 September 2026';
+const lastUpdated = '4 October 2026';
 
 /**
  * Round 42 (E938 (10)): the authorship and review statements below are
@@ -79,6 +79,19 @@ const reviewedSummary = reviewedResources === 0 && reviewedArticles === 0
           resource without this line names no accountable teacher; its accuracy rests on
           its own citation of the official syllabus and on the corrections
           process below, which is how errors are caught and fixed on any resource, credited reviewer or not.
+        </p>
+
+        <h3 id="specification-check">"Checked by Marlbridge Academic Team"</h3>
+        <p>
+          Some resources that are still awaiting a "Reviewed by" teacher carry a separate line,
+          "Checked by Marlbridge Academic Team", with a date. It means that on that date the page was checked
+          against its official specification: its content, terminology and tier or stage labels were compared
+          with the awarding body's published specification, every calculation and worked answer was re-worked,
+          and any errors found were corrected. Where the board's full subject guide is licensed rather than
+          public (some IB subjects), the line says the check was made against the board's public course
+          documents instead. The check was carried out by our academic team with AI assistance, as described
+          under <a href="#responsible-ai-disclosure">Responsible use of AI</a>. It is not a teacher review: no
+          individual teacher is credited, and the page remains recorded as awaiting a named reviewer.
         </p>
 
         <h2 id="syllabus-verification-policy">Syllabus verification policy</h2>

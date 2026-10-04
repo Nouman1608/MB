@@ -46,6 +46,13 @@
  *       Studies" covers `business`). The site links each "Reviewed by" name
  *       to that profile, so a reader could otherwise see the contradiction.
  *
+ *  [11] D-388 -- `specCheck` (the "Checked by Marlbridge Academic Team"
+ *       line), if set, must name an existing author profile in `by`, carry a
+ *       recognised `scope`, have a `date` neither before publishedDate nor in
+ *       the future, and must not appear on a page claiming reviewStatus
+ *       "reviewed" (a spec check is never a teacher review, and the template
+ *       would hide it there anyway).
+ *
  * Exits 1 on any problem found, matching the other validate-*.mjs
  * scripts in this repo.
  */
@@ -68,6 +75,12 @@ function parseFrontmatter(raw) {
     resourceType: get(/^resourceType:\s*"?([\w-]+)"?/m),
     subject: get(/^subject:\s*"?([\w-]+)"?/m),
     boards: JSON.parse(get(/^boards:\s*(\[.*\])/m) ?? '[]'),
+    specCheck: (() => {
+      const block = fm.match(/^specCheck:\s*\n((?:[ \t]+\S.*\n?)+)/m)?.[1];
+      if (!block && !/^specCheck:/m.test(fm)) return undefined;
+      const sub = (k) => block?.match(new RegExp(`^[ \\t]+${k}:\\s*"?([\\w-]+)"?`, 'm'))?.[1];
+      return { by: sub('by'), date: sub('date'), scope: sub('scope') };
+    })(),
   };
 }
 
@@ -118,6 +131,29 @@ function checkCollection(dir, label, authors, problems) {
       }
       if (fm.subject && !subjectCovered(fm.subject, prof.subjects)) {
         problems.push(`[10] ${id} names reviewer "${fm.reviewer}", whose profile subjects (${prof.subjects.join('; ') || 'none'}) do not cover "${fm.subject}".`);
+      }
+    }
+
+    if (fm.specCheck) {
+      const sc = fm.specCheck;
+      if (!sc.by || !authors.has(sc.by)) {
+        problems.push(`[11] ${id} has specCheck.by "${sc.by}", which does not exist in src/content/authors/.`);
+      }
+      if (!['official-specification', 'public-course-documents'].includes(sc.scope)) {
+        problems.push(`[11] ${id} has specCheck.scope "${sc.scope}", which is not recognised.`);
+      }
+      if (!sc.date || Number.isNaN(new Date(sc.date).getTime())) {
+        problems.push(`[11] ${id} has specCheck with no valid date.`);
+      } else {
+        if (fm.publishedDate && new Date(sc.date) < new Date(fm.publishedDate)) {
+          problems.push(`[11] ${id} has specCheck.date (${sc.date}) before publishedDate (${fm.publishedDate}).`);
+        }
+        if (new Date(sc.date) > TODAY) {
+          problems.push(`[11] ${id} has specCheck.date (${sc.date}) in the future.`);
+        }
+      }
+      if (fm.reviewStatus === 'reviewed') {
+        problems.push(`[11] ${id} has specCheck but reviewStatus "reviewed" -- a specification check is not a teacher review.`);
       }
     }
 
