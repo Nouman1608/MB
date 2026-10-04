@@ -24,6 +24,7 @@
     "coverage:academic-v2": "node scripts/academic-coverage-report-v2.mjs",
     "report:review-ledger": "node --experimental-strip-types scripts/academic-review-ledger.mjs",
     "check:review-ledger": "node --experimental-strip-types scripts/academic-review-ledger.mjs --check",
+    "test:reports": "node scripts/test-academic-reports.mjs",
     "report:practice-gaps": "node --experimental-strip-types scripts/practice-gap-report.mjs",
     "review:assessments": "node --experimental-strip-types scripts/assessment-review-checklist.mjs",
     "review:diagnostics": "node --experimental-strip-types scripts/diagnostic-review-pack.mjs",
