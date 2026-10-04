@@ -38,9 +38,11 @@ are three routes through the qualification: AS Level only (Components
 Year 1, Component 4 in Year 2), or the full A Level completed in a
 single series (all four components together).
 
-**Coverage note:** this guide, and Marlbridge's other resources for 9239
-published so far, cover Components 1-3 (the AS Level) only. Component
-4 does not yet have a dedicated Marlbridge resource.
+**Coverage note:** this guide covers Components 1-3 (the AS Level). Component 4, the
+Cambridge Research Report (85 marks, A Level only), has its own pages:
+[study guide](/resources/a-level-global-perspectives-9239-component-4-cambridge-research-report/),
+[revision notes](/resources/a-level-global-perspectives-9239-component-4-cambridge-research-report-revision-notes/) and
+[practice questions](/resources/a-level-global-perspectives-9239-component-4-cambridge-research-report-practice/).
 
 ## Syllabus coverage
 

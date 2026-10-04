@@ -24,10 +24,11 @@ featured: false
 > are not taken from any past paper and are not endorsed by Cambridge
 > International.
 >
-> **Coverage note:** this resource, and Marlbridge's other resources for 9239
-> published so far, cover Components 1-3 (the AS Level) only. Component 4,
-> the Cambridge Research Report (85 marks, A-Level-only), does not yet have a
-> dedicated Marlbridge resource.
+> **Coverage note:** this resource covers Components 1-3 (the AS Level). Component 4, the
+> Cambridge Research Report (85 marks, A Level only), has its own pages:
+> [study guide](/resources/a-level-global-perspectives-9239-component-4-cambridge-research-report/),
+> [revision notes](/resources/a-level-global-perspectives-9239-component-4-cambridge-research-report-revision-notes/) and
+> [practice questions](/resources/a-level-global-perspectives-9239-component-4-cambridge-research-report-practice/).
 
 Use these questions alongside the [Component 2 – Essay study
 guide](/resources/a-level-cambridge-global-perspectives-essay/) and
