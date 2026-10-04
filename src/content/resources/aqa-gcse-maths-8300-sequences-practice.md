@@ -87,13 +87,13 @@ Learn the content first in the [Sequences study guide](/resources/aqa-gcse-maths
 **(d)** One pattern has 140 grey tiles. Work out the number of white tiles in this pattern. **[2]**
 **(e)** (Higher) Show that no pattern has the same number of white tiles as grey tiles. **[2]**
 
-**12.** (non-calculator, Higher) A sequence has first term 2. Each term after that is found using the rule
+**12.** (non-calculator) A sequence has first term 2. Each term after that is found using the rule
 
 next term = 1 ÷ (1 − previous term)
 
 **(a)** Work out the 2nd, 3rd and 4th terms. **[2]**
-**(b)** Work out the 50th term. Explain how you know. **[2]**
-**(c)** Work out the sum of the first 50 terms. **[3]**
+**(b)** (Higher) Work out the 50th term. Explain how you know. **[2]**
+**(c)** (Higher) Work out the sum of the first 50 terms. **[3]**
 
 ## Answers
 

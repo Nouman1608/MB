@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { explicitTierFromLabel, combineTier, explicitHigherTierFromLabel, foundationHigherTier, tierSchemeFor, TIER_NAMES, HIGHER_LABELS_CHECKED, HIGHER_LABEL } from '../question-tier.ts';
+import { explicitTierFromLabel, combineTier, explicitHigherTierFromLabel, foundationHigherTier, tierSchemeFor, TIER_NAMES, HIGHER_LABELS_CHECKED, HIGHER_LABEL, uncheckedTieredFiles } from '../question-tier.ts';
 
 test('a label at the start of the question makes it Extended-only', () => {
   assert.equal(explicitTierFromLabel('**4.** *(0620 Extended, 5070 required)* Define an acid. **[2]**', '0620'), 'supplement');
@@ -81,6 +81,59 @@ test('text that is not a Higher label is ignored', () => {
   assert.equal(explicitTierFromLabel('**5.** (Higher tier only) A light meter ...', '8461'), undefined, 'and the Extended reader ignores Higher labels');
 });
 
+// Post-audit remediation (4 Oct 2026, D-386): the calculator tag may sit after the
+// tier word, or as a separate tag before the label. Both mean the whole question.
+test('calculator tags on either side of a Higher label are read', () => {
+  for (const md of [
+    '**8.** (Higher, non-calculator)\n\n**(a)** Write 7/12 as a recurring decimal. **[2]**',
+    '**9.** (Higher, non-calculator) Write 0.40̇9̇ as a fraction. **[3]**',
+    '**4.** (Higher, calculator) Work out the area.',
+    '**7.** (non-calculator) (Higher) f(x) = x² − 6x + 2.',
+    '**9.** (calculator) (Higher) Sketch y = 2ˣ.',
+    '**10.** **(Higher)** (calculator) A field is 86 m long.',
+    '**3.** (Higher)', '**3.** (Higher tier) Explain ...', '**3.** (HT only) Explain ...',
+  ]) assert.equal(explicitHigherTierFromLabel(md), 'supplement', md);
+});
+
+test('a Higher label only on a subpart, after a leading calculator tag, is still a part label', () => {
+  for (const md of [
+    '**4.** (non-calculator)\n\n**(a)** Point A(2, 5) is translated. **[1]**\n**(b)** (Higher) Triangle T. **[2]**',
+    '**12.** (non-calculator) A sequence has first term 2.\n\n**(a)** Work out ... **[2]**\n**(b)** (Higher) Work out the 50th term. **[2]**',
+    '**10.** (calculator) A field.\n\n**(a)** **(Higher)** Work out the upper bound. **[2]**',
+  ]) assert.equal(explicitHigherTierFromLabel(md), 'both', md);
+});
+
+test('ordinary prose and malformed calculator wording are not Higher labels', () => {
+  assert.equal(explicitHigherTierFromLabel('**1.** (non-calculator) Explain why a higher temperature speeds up the reaction.'), undefined);
+  assert.equal(explicitHigherTierFromLabel('**1.** The higher of the two values is 12.'), undefined);
+  assert.equal(explicitHigherTierFromLabel('**1.** (Higher extends to circles) ...'), undefined);
+  assert.equal(explicitHigherTierFromLabel('**1.** (Higher, with a calculator) ...'), undefined, 'only the exact calculator wordings are accepted');
+  assert.equal(explicitHigherTierFromLabel('**1.** (non-calculator)'), undefined, 'a calculator tag alone is not a tier label');
+  assert.equal(explicitHigherTierFromLabel('**2.** (calculator) Name the gas.'), undefined);
+  assert.equal(unreadHigherMentions('**5.** (Higher, with calculator) Explain ...').length, 1, 'and the mention check still catches it');
+});
+
+test('guard: a tiered bank with a file not in HIGHER_LABELS_CHECKED is reported', () => {
+  const qs = [
+    { resourceSlug: 'aqa-gcse-chemistry-8462-chemical-analysis-practice' },
+    { resourceSlug: 'aqa-gcse-chemistry-8462-chemical-analysis-practice' },
+    { resourceSlug: 'aqa-gcse-chemistry-8462-brand-new-unreviewed-practice' },
+  ];
+  assert.deepEqual(uncheckedTieredFiles(qs), ['aqa-gcse-chemistry-8462-brand-new-unreviewed-practice']);
+  assert.deepEqual(uncheckedTieredFiles(qs.slice(0, 2)), []);
+  assert.deepEqual(uncheckedTieredFiles(qs, new Set()), ['aqa-gcse-chemistry-8462-brand-new-unreviewed-practice', 'aqa-gcse-chemistry-8462-chemical-analysis-practice']);
+});
+
+test('reviewed banks: the 4 Oct 2026 files are checked, and their reviewed tier calls hold', () => {
+  for (const slug of ['edexcel-igcse-maths-4ma1-applying-number-and-calculators-practice', 'aqa-gcse-maths-8300-fractions-decimals-and-percentages-practice']) {
+    assert.ok(HIGHER_LABELS_CHECKED.has(slug), slug);
+  }
+  // 4MA1 applying number: every question is Foundation content (1.10, 1.11), so unlabelled → both tiers.
+  assert.equal(foundationHigherTier('**1.** Convert 3.6 km to metres.', 'edexcel-igcse-maths-4ma1-applying-number-and-calculators-practice'), 'both');
+  // 8300 N10: recurring decimals ↔ fractions is "Higher content only".
+  assert.equal(foundationHigherTier('**9.** (Higher, non-calculator) Write 0.40̇9̇ as a fraction in its simplest form. **[3]**', 'aqa-gcse-maths-8300-fractions-decimals-and-percentages-practice'), 'supplement');
+});
+
 test('an unlabelled question is both tiers only in a checked file, never Foundation-only', () => {
   assert.equal(foundationHigherTier('**1.** Name the gas.', 'aqa-gcse-chemistry-8462-chemical-analysis-practice'), 'both');
   assert.equal(foundationHigherTier('**1.** Name the gas.', 'some-new-unchecked-practice'), undefined);
@@ -98,6 +151,7 @@ test('real banks: every checked file is a practice file in a Foundation/Higher b
     if (!topicsFor(spec.boardSlug, spec.qualificationSlug, spec.subjectSlug)?.tiered) continue;
     if (tierSchemeFor(spec.boardSlug, spec.qualificationSlug) !== 'foundation-higher') continue;
     const qs = buildClientQuestions(spec);
+    assert.deepEqual(uncheckedTieredFiles(qs), [], `${spec.code}: practice files not in HIGHER_LABELS_CHECKED (check them against the specification before adding)`);
     for (const q of qs) {
       seen.add(q.resourceSlug);
       assert.ok(HIGHER_LABELS_CHECKED.has(q.resourceSlug), `${spec.code}: ${q.resourceSlug} is not in HIGHER_LABELS_CHECKED (check it against the specification before adding)`);
@@ -108,13 +162,15 @@ test('real banks: every checked file is a practice file in a Foundation/Higher b
     totals[spec.code] = qs.length;
   }
   for (const slug of HIGHER_LABELS_CHECKED) assert.ok(seen.has(slug), `${slug} is listed but is not in any Foundation/Higher bank`);
-  // Higher-only questions per bank after the 28 Sep 2026 check (whole-question labels).
-  assert.deepEqual(counts, { '4MA1': 29, '8461': 8, '8462': 11, '8463': 12, '8300': 16 });
+  // Higher-only questions per bank (whole-question labels). First pinned after the
+  // 28 Sep 2026 check; re-pinned 4 Oct 2026 (D-386) after the 28 files added by
+  // D-382 to D-384 were checked against the specifications and added above.
+  assert.deepEqual(counts, { '4MA1': 81, '8461': 8, '8462': 12, '8463': 12, '8300': 34 });
   // Review fix (28 Sep 2026): total questions per bank, pinned. Every file in these
   // banks is in HIGHER_LABELS_CHECKED, so a new question without a Higher label would
   // silently count as 'both'. A changed total fails here until the new or removed
   // questions are checked against the specification and these numbers updated.
-  assert.deepEqual(totals, { '4MA1': 60, '8461': 87, '8462': 122, '8463': 108, '8300': 64 });
+  assert.deepEqual(totals, { '4MA1': 202, '8461': 133, '8462': 180, '8463': 108, '8300': 147 });
 });
 
 /**

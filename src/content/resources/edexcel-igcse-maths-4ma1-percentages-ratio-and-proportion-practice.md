@@ -31,7 +31,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover sections 1.6 (Percentages) and 1.7 (Ratio and proportion) of topic 1, Numbers and the number system, in the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on it. Questions 1–10 are for both tiers. Questions 11 and 12 are **(Higher)**: they use repeated percentage change and compound interest problem-solving, which the specification lists for the Higher tier only. A calculator may be used on every 4MA1 paper, but show your working: most marks are for method.
+These questions cover sections 1.6 (Percentages) and 1.7 (Ratio and proportion) of topic 1, Numbers and the number system, in the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on it. Questions 1–10 are for both tiers, except part 7(a), which is marked **(Higher)** because writing a proportion formula (statement 2.5A) is Higher tier only. Questions 11 and 12 are **(Higher)**: they use repeated percentage change and compound interest problem-solving, which the specification lists for the Higher tier only. A calculator may be used on every 4MA1 paper, but show your working: most marks are for method.
 
 Learn the content first in the [study guide](/resources/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion/) and the [revision notes](/resources/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion-revision-notes/). These questions are different from the ones in the [topic 1 practice questions](/resources/edexcel-igcse-mathematics-number-practice/), so try both. The course hub is [Edexcel IGCSE Mathematics](/boards/edexcel/igcse/mathematics/) and the [printable checklist](/checklists/edexcel/igcse/mathematics/) lists every statement.
 
@@ -62,9 +62,9 @@ Learn the content first in the [study guide](/resources/edexcel-igcse-maths-4ma1
 **(a)** In a sale, all prices are reduced by 15%. A jacket costs £57.80 in the sale. Calculate the price of the jacket before the sale. **[3]**
 **(b)** A restaurant bill is £81 after a 12.5% service charge has been added. Calculate the service charge. **[3]**
 
-**7.** (Both tiers) w varies directly as d. When d = 6, w = 16.8.
+**7.** w varies directly as d. When d = 6, w = 16.8.
 
-**(a)** Find a formula for w in terms of d. **[2]**
+**(a)** (Higher) Find a formula for w in terms of d. **[2]**
 **(b)** Complete the table. **[2]**
 
 | d | 6 | 15 | ? |

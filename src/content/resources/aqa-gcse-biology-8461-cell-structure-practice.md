@@ -28,7 +28,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section **4.1.1 Cell structure** (4.1.1.1 to 4.1.1.6) of the AQA GCSE Biology (8461) specification, for first teaching 2016 with exams from 2018 (version 1.0), including required practical activities 1 and 2. Cell biology is examined on Paper 1, set at Foundation and Higher Tier. The question that needs standard form for bacterial numbers is marked **(Higher)**; all others suit both tiers. A calculator is allowed.
+These questions cover section **4.1.1 Cell structure** (4.1.1.1 to 4.1.1.6) of the AQA GCSE Biology (8461) specification, for first teaching 2016 with exams from 2018 (version 1.0), including required practical activities 1 and 2. Cell biology is examined on Paper 1, set at Foundation and Higher Tier. The part that needs standard form for bacterial numbers is marked **(Higher)**, because the specification makes giving that answer in standard form Higher tier only; all other questions and parts suit both tiers. A calculator is allowed.
 
 Learn the content first with the [Cell structure study guide](/resources/aqa-gcse-biology-8461-cell-structure/) and the [Cell structure revision notes](/resources/aqa-gcse-biology-8461-cell-structure-revision-notes/). These questions are different from the topic-level [Cell biology practice questions](/resources/aqa-gcse-biology-cell-biology-practice/), which also test division and transport. The course hub is [AQA GCSE Biology](/boards/aqa/gcse/biology/) and the [printable checklist](/checklists/aqa/gcse/biology/) lists every topic.
 
@@ -96,9 +96,9 @@ Use this information to explain how these cells are adapted to their function. *
 **(e)** State what the control disc should have been soaked in, and why it is used. **[1]**
 **(f)** Give **two** variables the student should have kept the same. **[2]**
 
-**12.** (Higher) A bacterium has a mean division time of 20 minutes. A culture starts with 250 bacteria.
+**12.** A bacterium has a mean division time of 20 minutes. A culture starts with 250 bacteria.
 
-**(a)** Calculate the number of bacteria after 4 hours. Give your answer in standard form. **[3]**
+**(a)** (Higher) Calculate the number of bacteria after 4 hours. Give your answer in standard form. **[3]**
 **(b)** Suggest **one** reason the real number may be lower than your answer. **[1]**
 
 ## Answers

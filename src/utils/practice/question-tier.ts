@@ -98,11 +98,26 @@ export function tierSchemeFor(boardSlug: string, qualificationSlug: string): Tie
  * (a), means the question mixes tiers ('both'). Anything else ("(Both
  * tiers; (b) and (c) Higher tier only)", "(Higher extends to circles)") is
  * not a label.
+ *
+ * Post-audit remediation (4 Oct 2026): the calculator tag may also come
+ * AFTER the tier word inside the same brackets ("(Higher, non-calculator)",
+ * "(Higher, calculator)"), and a separate calculator tag may come BEFORE the
+ * label ("(non-calculator) (Higher)"). Both forms appear in the D-383 AQA
+ * 8300 pages and both mean the whole question is Higher-only; before this fix
+ * the first was not read at all and the second was read as a part label
+ * ('both'). Only the exact calculator wordings below are accepted, so prose
+ * such as "(Higher extends to circles)" is still not a label.
  */
-export const HIGHER_LABEL = /\((?:(?:non-calculator|calculator allowed|calculator-free), )?(?:Higher(?: [Tt]ier)?(?: only)?|HT only)(?:, [A-Z]\d+[a-z]?)?\)|(?<![\w(])Higher tier only\.(?=\s)/g;
+const CALC_TAG = '(?:non-calculator|calculator(?: allowed)?|calculator-free)';
+export const HIGHER_LABEL = new RegExp(
+  `\\((?:${CALC_TAG}, )?(?:Higher(?: [Tt]ier)?(?: only)?|HT only)(?:, [A-Z]\\d+[a-z]?)?(?:, ${CALC_TAG})?\\)|(?<![\\w(])Higher tier only\\.(?=\\s)`,
+  'g',
+);
+/** A standalone calculator tag at the very start of a question, e.g. "(non-calculator)". */
+const LEADING_CALC_TAG = new RegExp(`^\\(${CALC_TAG}\\)[ \\t]*`);
 
 export function explicitHigherTierFromLabel(questionMarkdown: string): ExplicitTier {
-  const md = questionMarkdown.replace(/\*/g, '').replace(/^\s*\d+\.\s*/, '');
+  const md = questionMarkdown.replace(/\*/g, '').replace(/^\s*\d+\.\s*/, '').replace(LEADING_CALC_TAG, '');
   HIGHER_LABEL.lastIndex = 0;
   let sawAny = false;
   for (const m of md.matchAll(HIGHER_LABEL)) {
@@ -123,6 +138,18 @@ export function explicitHigherTierFromLabel(questionMarkdown: string): ExplicitT
  * keeps undefined for unlabelled questions ("not yet tagged"), so a new
  * practice file is not assumed checked. A file must be re-checked before it
  * is added.
+ *
+ * Entries marked 2026-10-04 (post-audit remediation, decision log D-386):
+ * the 28 practice files added by D-382 to D-384 were checked question by
+ * question against the same official specifications (Pearson 4MA1 Issue 2;
+ * AQA 8300 v1.0, 8461 and 8462 from filestore.aqa.org.uk), downloaded on
+ * 4 Oct 2026. Eight questions had their label moved from the whole question
+ * to the Higher-only parts (4MA1 simultaneous equations Q9 and Q12, use of
+ * symbols Q11, percentages Q7; 8300 measures Q10, sequences Q12; 8461 cell
+ * structure Q12), and the reader above was fixed for the "(Higher,
+ * non-calculator)" and "(non-calculator) (Higher)" forms. Every other label
+ * matched the specification. The per-question review is recorded in
+ * docs/reports/academic-review/tier-label-review-2026-10-04.md.
  */
 export const HIGHER_LABELS_CHECKED: ReadonlySet<string> = new Set([
   // 4MA1
@@ -132,6 +159,18 @@ export const HIGHER_LABELS_CHECKED: ReadonlySet<string> = new Set([
   'edexcel-igcse-maths-4ma1-sequences-functions-and-graphs-practice',
   'edexcel-igcse-maths-4ma1-statistics-and-probability-practice',
   'edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry-practice',
+  'edexcel-igcse-maths-4ma1-applying-number-and-calculators-practice',  // 2026-10-04
+  'edexcel-igcse-maths-4ma1-degree-of-accuracy-and-standard-form-practice',  // 2026-10-04
+  'edexcel-igcse-maths-4ma1-expressions-formulae-and-linear-equations-practice',  // 2026-10-04
+  'edexcel-igcse-maths-4ma1-fractions-and-decimals-practice',  // 2026-10-04
+  'edexcel-igcse-maths-4ma1-inequalities-practice',  // 2026-10-04
+  'edexcel-igcse-maths-4ma1-integers-powers-and-roots-practice',  // 2026-10-04
+  'edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion-practice',  // 2026-10-04
+  'edexcel-igcse-maths-4ma1-proportion-practice',  // 2026-10-04
+  'edexcel-igcse-maths-4ma1-quadratic-equations-practice',  // 2026-10-04
+  'edexcel-igcse-maths-4ma1-set-language-and-notation-practice',  // 2026-10-04
+  'edexcel-igcse-maths-4ma1-simultaneous-linear-equations-practice',  // 2026-10-04
+  'edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation-practice',  // 2026-10-04
   // 8300
   'aqa-gcse-mathematics-algebra-practice',
   'aqa-gcse-mathematics-number-practice',
@@ -139,6 +178,13 @@ export const HIGHER_LABELS_CHECKED: ReadonlySet<string> = new Set([
   'aqa-gcse-maths-8300-probability-practice',
   'aqa-gcse-maths-8300-ratio-proportion-and-rates-of-change-practice',
   'aqa-gcse-maths-8300-statistics-practice',
+  'aqa-gcse-maths-8300-fractions-decimals-and-percentages-practice',  // 2026-10-04
+  'aqa-gcse-maths-8300-graphs-practice',  // 2026-10-04
+  'aqa-gcse-maths-8300-measures-and-accuracy-practice',  // 2026-10-04
+  'aqa-gcse-maths-8300-notation-vocabulary-and-manipulation-practice',  // 2026-10-04
+  'aqa-gcse-maths-8300-sequences-practice',  // 2026-10-04
+  'aqa-gcse-maths-8300-solving-equations-and-inequalities-practice',  // 2026-10-04
+  'aqa-gcse-maths-8300-structure-and-calculation-practice',  // 2026-10-04
   // 8461
   'aqa-gcse-biology-8461-bioenergetics-practice',
   'aqa-gcse-biology-8461-ecology-practice',
@@ -148,6 +194,10 @@ export const HIGHER_LABELS_CHECKED: ReadonlySet<string> = new Set([
   'aqa-gcse-biology-8461-key-ideas-practice',
   'aqa-gcse-biology-cell-biology-practice',
   'aqa-gcse-biology-enzymes-digestive-practice',
+  'aqa-gcse-biology-8461-cell-division-practice',  // 2026-10-04
+  'aqa-gcse-biology-8461-cell-structure-practice',  // 2026-10-04
+  'aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels-practice',  // 2026-10-04
+  'aqa-gcse-biology-8461-transport-in-cells-practice',  // 2026-10-04
   // 8462
   'aqa-gcse-chemistry-8462-chemical-analysis-practice',
   'aqa-gcse-chemistry-8462-chemical-changes-practice',
@@ -160,6 +210,11 @@ export const HIGHER_LABELS_CHECKED: ReadonlySet<string> = new Set([
   'aqa-gcse-chemistry-8462-using-resources-practice',
   'aqa-gcse-chemistry-atomic-structure-practice',
   'aqa-gcse-chemistry-ionic-bonding-practice',
+  'aqa-gcse-chemistry-8462-atomic-structure-practice',  // 2026-10-04
+  'aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds-practice',  // 2026-10-04
+  'aqa-gcse-chemistry-8462-covalent-and-metallic-bonding-practice',  // 2026-10-04
+  'aqa-gcse-chemistry-8462-properties-of-transition-metals-practice',  // 2026-10-04
+  'aqa-gcse-chemistry-8462-the-periodic-table-practice',  // 2026-10-04
   // 8463
   'aqa-gcse-physics-8463-atomic-structure-practice',
   'aqa-gcse-physics-8463-electricity-practice',
@@ -172,6 +227,19 @@ export const HIGHER_LABELS_CHECKED: ReadonlySet<string> = new Set([
   'aqa-gcse-physics-energy-practice',
   'aqa-gcse-physics-national-and-global-energy-resources-practice',
 ]);
+
+/**
+ * Files in a Foundation/Higher bank that are NOT in HIGHER_LABELS_CHECKED.
+ * Any result is a build-blocking gap: an unchecked file's unlabelled
+ * questions would otherwise show as "not yet tagged". Pure, so the guard
+ * itself is unit tested with synthetic input (question-tier.test.mjs).
+ */
+export function uncheckedTieredFiles(
+  questions: ReadonlyArray<{ resourceSlug: string }>,
+  checked: ReadonlySet<string> = HIGHER_LABELS_CHECKED,
+): string[] {
+  return [...new Set(questions.map((q) => q.resourceSlug))].filter((slug) => !checked.has(slug)).sort();
+}
 
 /** Tier of a question on a Foundation/Higher syllabus: its Higher label, else 'both' in a checked file, else undefined. */
 export function foundationHigherTier(questionMarkdown: string, resourceSlug: string): ExplicitTier {

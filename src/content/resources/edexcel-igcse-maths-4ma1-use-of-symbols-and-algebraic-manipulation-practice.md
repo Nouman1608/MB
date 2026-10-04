@@ -31,7 +31,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover sections **2.1 Use of symbols** and **2.2 Algebraic manipulation** of Topic 2, Equations, formulae and identities, in the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on it. Questions 1–4 use content on both tiers. Questions 5–12 are **Higher tier only** and are marked (Higher). A calculator may be used on every 4MA1 paper, but no calculator will do the algebra for you, so show every line: most marks here are for method.
+These questions cover sections **2.1 Use of symbols** and **2.2 Algebraic manipulation** of Topic 2, Equations, formulae and identities, in the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on it. Questions 1–4 use content on both tiers. Questions 5–10 and 12, and part 11(c), are **Higher tier only** and are marked (Higher); the rest of question 11 uses content on both tiers. A calculator may be used on every 4MA1 paper, but no calculator will do the algebra for you, so show every line: most marks here are for method.
 
 Learn the content first in the [study guide](/resources/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation/) and the [revision notes](/resources/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation-revision-notes/). The course hub is [Edexcel IGCSE Mathematics](/boards/edexcel/igcse/mathematics/) and the [printable checklist](/checklists/edexcel/igcse/mathematics/) lists every statement. For more questions on the same content, the earlier topic-level [practice set](/resources/edexcel-igcse-mathematics-algebraic-manipulation-practice/) uses different expressions.
 
@@ -89,11 +89,11 @@ Learn the content first in the [study guide](/resources/edexcel-igcse-maths-4ma1
 
 **10.** (Higher) Prove that the sum of the squares of any two consecutive integers is always odd. **[3]**
 
-**11.** (Higher) A rectangle has length (2x + 3) cm and width (x − 1) cm. A square has sides of length (x + 2) cm.
+**11.** A rectangle has length (2x + 3) cm and width (x − 1) cm. A square has sides of length (x + 2) cm.
 
 **(a)** Show that the area of the rectangle is (2x² + x − 3) cm². **[2]**
 **(b)** Show that the area of the rectangle minus the area of the square is (x² − 3x − 7) cm². **[2]**
-**(c)** Write x² − 3x − 7 in the form (x + p)² + q. **[2]**
+**(c)** (Higher) Write x² − 3x − 7 in the form (x + p)² + q. **[2]**
 **(d)** Explain why x must be greater than 1. **[1]**
 
 **12.** (Higher)

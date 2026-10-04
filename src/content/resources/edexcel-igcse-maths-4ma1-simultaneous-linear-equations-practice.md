@@ -28,7 +28,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section **2.6 Simultaneous linear equations** in Topic 2 of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on it. Questions marked (Both tiers) test statement 2.6A, which is on Foundation and Higher papers. Questions marked (Higher) test statement 2.6B, interpreting the equations as lines, which is **Higher tier only**. A calculator may be used on every 4MA1 paper, but show your working: most of the marks here are for method.
+These questions cover section **2.6 Simultaneous linear equations** in Topic 2 of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on it. Questions marked (Both tiers) test statement 2.6A, which is on Foundation and Higher papers. Questions and parts marked (Higher) test statement 2.6B, interpreting the equations as lines, which is **Higher tier only**. A calculator may be used on every 4MA1 paper, but show your working: most of the marks here are for method.
 
 Learn the content first in the [study guide](/resources/edexcel-igcse-maths-4ma1-simultaneous-linear-equations/) and the [revision notes](/resources/edexcel-igcse-maths-4ma1-simultaneous-linear-equations-revision-notes/). The course hub is [Edexcel IGCSE Mathematics](/boards/edexcel/igcse/mathematics/) and the [printable checklist](/checklists/edexcel/igcse/mathematics/) lists every statement.
 
@@ -53,11 +53,11 @@ Learn the content first in the [study guide](/resources/edexcel-igcse-maths-4ma1
 
 **8.** (Both tiers) Solve the simultaneous equations x/2 + y/3 = 4 and 3x − y = 6. **[4]**
 
-**9.** (Higher)
+**9.**
 
 **(a)** Solve the simultaneous equations y = 3x − 4 and 2x + y = 11. **[3]**
-**(b)** The lines y = 3x − 4 and 2x + y = 11 are drawn on the same grid. Write down the coordinates of the point where they cross. **[1]**
-**(c)** Explain why the simultaneous equations y = 3x − 4 and 6x − 2y = 5 have no solution. **[2]**
+**(b)** (Higher) The lines y = 3x − 4 and 2x + y = 11 are drawn on the same grid. Write down the coordinates of the point where they cross. **[1]**
+**(c)** (Higher) Explain why the simultaneous equations y = 3x − 4 and 6x − 2y = 5 have no solution. **[2]**
 
 **10.** (Both tiers) The sides of a rectangle, in centimetres, are labelled as follows: top (5x − y), bottom (3x + 7), left (2y − 1) and right (x + 3).
 
@@ -73,10 +73,10 @@ Learn the content first in the [study guide](/resources/edexcel-igcse-maths-4ma1
 **(c)** Calculate the cost of a journey of 20 km. **[1]**
 **(d)** The cost, £C, of a journey of d km is C = F + rd. The graph of C against d is a straight line. State what the gradient and the C-intercept of this line represent. **[2]**
 
-**12.** (Higher) Here are two equations: kx + 3y = 7 and 2x − y = 7, where k is a constant.
+**12.** Here are two equations: kx + 3y = 7 and 2x − y = 7, where k is a constant.
 
 **(a)** When k = 4, solve the equations. Give your answers as exact values. **[3]**
-**(b)** Find the value of k for which the equations have no solution. Explain your answer by referring to the lines the equations represent. **[3]**
+**(b)** (Higher) Find the value of k for which the equations have no solution. Explain your answer by referring to the lines the equations represent. **[3]**
 
 ## Answers
 

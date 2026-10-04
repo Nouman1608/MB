@@ -28,7 +28,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 3.1.3, **Measures and accuracy** (N13 to N16), of the AQA GCSE Mathematics (8300) specification, for teaching from September 2015 with exams from May/June 2017 onwards (version 1.0). Questions 1 to 7 and 11 use content assessed at both Foundation and Higher tier. Questions 8, 9 and 10 use upper and lower bounds, which are **Higher tier only**, and are labelled **(Higher)**. Each question says whether it is non-calculator (like Paper 1) or calculator (like Papers 2 and 3).
+These questions cover section 3.1.3, **Measures and accuracy** (N13 to N16), of the AQA GCSE Mathematics (8300) specification, for teaching from September 2015 with exams from May/June 2017 onwards (version 1.0). Questions 1 to 7 and 11 use content assessed at both Foundation and Higher tier. Questions 8 and 9, and parts 10(a) and 10(b), use upper and lower bounds, which are **Higher tier only**, and are labelled **(Higher)**; part 10(c) is a unit conversion for both tiers. Each question says whether it is non-calculator (like Paper 1) or calculator (like Papers 2 and 3).
 
 These questions are different from the ones in the topic-level [Number practice questions](/resources/aqa-gcse-mathematics-number-practice/), so you can use both. Learn the methods first in the [Measures and accuracy study guide](/resources/aqa-gcse-maths-8300-measures-and-accuracy/) and the [Measures and accuracy revision notes](/resources/aqa-gcse-maths-8300-measures-and-accuracy-revision-notes/). The course hub is [AQA GCSE Mathematics](/boards/aqa/gcse/mathematics/) and the [printable checklist](/checklists/aqa/gcse/mathematics/) lists every statement.
 
@@ -75,10 +75,10 @@ These questions are different from the ones in the topic-level [Number practice 
 
 **9.** **(Higher)** (calculator) A pipe is 3.6 m long, to the nearest 0.1 m. A piece 1.25 m long, to the nearest centimetre, is cut from it. Work out the least possible length of pipe left. **[3]**
 
-**10.** **(Higher)** (calculator) A rectangular field is 86 m long and 54 m wide, each to the nearest metre. Jess runs 5 laps of the edge of the field in 9 minutes 20 seconds, to the nearest second.
+**10.** (calculator) A rectangular field is 86 m long and 54 m wide, each to the nearest metre. Jess runs 5 laps of the edge of the field in 9 minutes 20 seconds, to the nearest second.
 
-**(a)** Work out the upper bound of the perimeter of the field. **[2]**
-**(b)** Work out the lower bound of Jess's average speed in m/s. Give your answer to 3 significant figures. **[4]**
+**(a)** **(Higher)** Work out the upper bound of the perimeter of the field. **[2]**
+**(b)** **(Higher)** Work out the lower bound of Jess's average speed in m/s. Give your answer to 3 significant figures. **[4]**
 **(c)** The upper bound of her average speed is 1410 ÷ 559.5 m/s. Convert this to km/h, giving your answer to 3 significant figures. **[2]**
 
 **11.** (calculator) A garden pond is a cuboid, 2.4 m long, 1.6 m wide and 45 cm deep.
