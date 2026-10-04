@@ -1,3 +1,9 @@
+> **Historical — superseded on 4 October 2026.** This summary was written by hand on
+> 26 August 2026 and was not regenerated afterwards, so its figures describe the repository
+> at that time, not today. The canonical current report is
+> [`academic-coverage-current.md`](academic-coverage-current.md), generated with its JSON and
+> CSV by `npm run coverage:academic-v2`. The text below is kept unchanged as dated evidence.
+
 # Academic Coverage Report v1.2
 
 Generated: 2026-08-26T13:26:09.534Z

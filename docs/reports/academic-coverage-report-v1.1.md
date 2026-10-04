@@ -1,3 +1,7 @@
+> **Historical — superseded.** Generated on 18 August 2026 for a 139-combination matrix. The
+> canonical current report is [`academic-coverage-current.md`](academic-coverage-current.md).
+> The text below is kept unchanged as dated evidence.
+
 # Marlbridge Academic Content Coverage Report — v1.1
 
 Generated 2026-08-18 from the working tree by `scripts/academic-coverage-report.mjs`. Reflects the full 139-combination ACTIVE matrix after the v1.1 OxfordAQA syllabus-prose completion and a v1.1 WS4 tagging fix (21 resources that were written specifically for Cambridge but carried no `boards:` tag, which would otherwise have counted as false coverage for other boards on the same subject/level).
