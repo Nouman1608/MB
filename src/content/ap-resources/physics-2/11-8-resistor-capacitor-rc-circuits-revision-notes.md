@@ -50,7 +50,7 @@ Short on time? This page is the recap. For explanations, Figures 1–3 and the w
 | ℰ = IR + Q/C | loop rule at any instant | link current and charge while charging |
 | Q = CΔV, U = ½QΔV = ½C(ΔV)² | from Topic 10.6 | final charge and stored energy |
 
-| Moment | Uncharged capacitor behaves like | Current in its branch |
+| Moment | Capacitor (uncharged at the start) behaves like | Current in its branch |
 |---|---|---|
 | Just after the switch closes | a wire (ΔV_C = 0) | largest |
 | After a long time (many τ) | a break | zero |

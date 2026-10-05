@@ -183,7 +183,7 @@ When there is a current, part of the emf is lost across r inside the battery. Th
 Real meters are not ideal, and they change the circuit they measure:
 
 - A real ammeter has a small resistance. In series, it adds to the resistance of the loop, so the current it reads is a little **smaller** than the current before it was connected.
-- A real voltmeter has a very large but finite resistance. In parallel with an element, it forms a new branch, which lowers the resistance of that part of the circuit. The potential difference across the element drops a little, so the reading is a little **smaller** than the true value without the meter.
+- A real voltmeter has a very large but finite resistance. In parallel with an element, it forms a new branch, which lowers the resistance of that part of the circuit. When the element shares the potential difference with other resistance in series, its share drops a little, so the reading is a little **smaller** than the true value without the meter. (Across an element connected directly to an ideal battery, the reading would not change.)
 
 In this course you only need to reason about these effects qualitatively. Unless a question says otherwise, treat all batteries, wires and meters as ideal. Circuits in which batteries with **different** emfs are connected in parallel are not assessed.
 
@@ -244,7 +244,7 @@ In this course you only need to reason about these effects qualitatively. Unless
 
 **Answer.** (a) 2.0 A, 5.0 V. (b) Terminal voltage 4.3 V; each lamp carries 1.7 A.
 
-**Interpretation.** Adding the second lamp increased the total current, so more of the emf was lost across r. The first lamp's current fell from 2.0 A to 1.7 A, so it got **dimmer** (its power fell from 10 W to about 7.3 W). With an **ideal** battery, the terminal voltage would stay at 6.0 V and each lamp would carry 6.0 V ÷ 2.5 Ω = 2.4 A whatever the number of lamps. Internal resistance is why lights in a car can dim when a high-current device starts.
+**Interpretation.** Adding the second lamp increased the total current, so more of the emf was lost across r. The first lamp's current fell from 2.0 A to 1.7 A, so it got **dimmer** (its power fell from 10 W to about 7.3 W). With an **ideal** battery, the terminal voltage would stay at 6.0 V and each lamp would carry 6.0 V ÷ 2.5 Ω = 2.4 A whatever the number of lamps. This is one reason a lamp can dim when a high-current device is switched on from the same battery.
 
 ## Worked example 3: a real voltmeter
 

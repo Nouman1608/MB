@@ -183,8 +183,8 @@ This is the reverse of the rule for charges, so learn it carefully. By Newton's 
 
 1. **Choose the axes.** B = (μ₀I/2π)(1/r) has the form y = mx. So plot B on the vertical axis against 1/r on the horizontal axis. If the model is right, the points lie on a straight line through the origin.
 2. **Plot and fit.** Figure 2 shows the points and a best-fit line through the origin. The points lie close to it, which supports B ∝ 1/r. A graph of B against r would be a curve, which is much harder to test by eye.
-3. **Slope.** The best-fit line passes through about (50 m⁻¹, 119 μT), so the slope is 119 × 10⁻⁶ T ÷ 50 m⁻¹ ≈ 2.37 × 10⁻⁶ T·m.
-4. **Current.** Slope = μ₀I/(2π), so I = 2.37 × 10⁻⁶ ÷ (2 × 10⁻⁷) ≈ **12 A** (11.9 A from this line).
+3. **Slope.** The best-fit line passes through about (50 m⁻¹, 119 μT), so the slope is 119 × 10⁻⁶ T ÷ 50 m⁻¹ ≈ 2.38 × 10⁻⁶ T·m.
+4. **Current.** Slope = μ₀I/(2π), so I = 2.38 × 10⁻⁶ ÷ (2 × 10⁻⁷) ≈ **12 A** (11.9 A from this line).
 
 <figure>
 <svg viewBox="0 0 560 400" role="img" aria-labelledby="b-invr-title b-invr-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -216,7 +216,7 @@ This is the reverse of the rule for charges, so learn it carefully. By Newton's 
 <circle cx="153.3" cy="292" r="5"/><circle cx="171.7" cy="280" r="5"/><circle cx="226.7" cy="246" r="5"/><circle cx="263.3" cy="218" r="5"/><circle cx="446.7" cy="104" r="5"/>
 </g>
 <text x="400" y="190" font-size="12" fill="#1d2b44" text-anchor="middle">best-fit line through origin</text>
-<text x="400" y="206" font-size="12" fill="#1d2b44" text-anchor="middle">slope ≈ 2.37 × 10⁻⁶ T·m</text>
+<text x="400" y="206" font-size="12" fill="#1d2b44" text-anchor="middle">slope ≈ 2.38 × 10⁻⁶ T·m</text>
 </svg>
 <figcaption>Figure 2. The data from Worked example 3 (open circles) plotted as B against 1/r. The dashed best-fit line passes through the origin, as B = (μ₀I/2π)(1/r) predicts. Its slope gives the current.</figcaption>
 </figure>

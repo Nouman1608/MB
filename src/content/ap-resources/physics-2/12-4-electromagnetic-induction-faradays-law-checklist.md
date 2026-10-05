@@ -45,7 +45,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 ## Reasoning
 
-- I can predict how the emf changes when N, the area, the field change or the time changes. *(Practice Q3)*
+- I can predict how the emf changes when N, the area, the change in field or the time interval changes. *(Practice Q3)*
 - I can explain why a rod falling on rails reaches a terminal speed and predict how it depends on R. *(Practice Q7)*
 - I can justify a direction with a full chain of reasoning, not just "by Lenz's law". *(Practice Q6c)*
 

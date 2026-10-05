@@ -120,7 +120,7 @@ Neither rule is wrong. They answer different questions. Always ask "what is the 
 <text x="290" y="140" transform="rotate(-90 290 140)">Power P</text>
 </g>
 <g font-size="12" fill="#1d2b44">
-<text x="478" y="226">fixed ΔV: P = ΔV²/R</text>
+<text x="545" y="230" text-anchor="end">fixed ΔV: P = ΔV²/R</text>
 <text x="440" y="132">fixed I: P = I²R</text>
 </g>
 </svg>

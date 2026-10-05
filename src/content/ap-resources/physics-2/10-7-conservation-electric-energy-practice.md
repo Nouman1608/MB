@@ -40,57 +40,57 @@ These are **original Marlbridge practice questions**, not past exam questions. T
 
 A particle with charge −3.0 μC moves from a point where the potential is +20 V to a point where the potential is −40 V. What is the change in the electric potential energy of the system?
 
-- (A) +1.8 × 10⁻⁴ J
-- (B) −1.8 × 10⁻⁴ J
-- (C) +6.0 × 10⁻⁵ J
+- (A) −1.8 × 10⁻⁴ J
+- (B) +6.0 × 10⁻⁵ J
+- (C) +1.8 × 10⁻⁴ J
 - (D) +1.2 × 10⁻⁴ J
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** ΔV = V_f − V_i = −40 V − (+20 V) = −60 V. Then ΔU_E = qΔV = (−3.0 × 10⁻⁶ C)(−60 V) = +1.8 × 10⁻⁴ J. A negative charge moving to lower potential gains potential energy.
+**Answer: (C).** ΔV = V_f − V_i = −40 V − (+20 V) = −60 V. Then ΔU_E = qΔV = (−3.0 × 10⁻⁶ C)(−60 V) = +1.8 × 10⁻⁴ J. A negative charge moving to lower potential gains potential energy.
 
-- (B) has the right size but drops the sign of the charge. That is the result for a **positive** charge.
-- (C) adds the two potentials (−40 V + 20 V = −20 V) instead of subtracting them.
+- (A) has the right size but drops the sign of the charge. That is the result for a **positive** charge.
+- (B) adds the two potentials (−40 V + 20 V = −20 V) instead of subtracting them.
 - (D) uses only the final potential, qV_f, which is the final potential energy, not the change.
 </details>
 
 ## Question 2 (multiple choice · core)
 
-Particle X has charge +q and mass m. Particle Y has charge +2q and mass 4m. Each starts from rest and is accelerated through the same potential difference. Which statement compares Y with X correctly?
+Particle X has charge +q and mass m. Particle Y has charge +2q and mass 8m. Each starts from rest and is accelerated through the same potential difference. Which statement compares Y with X correctly?
 
-- (A) Y has twice the kinetic energy and about 0.71 times the speed.
-- (B) Y has the same kinetic energy and half the speed.
-- (C) Y has twice the kinetic energy and the same speed.
-- (D) Y has half the kinetic energy and half the speed.
+- (A) Y has the same kinetic energy and about 0.35 times the speed.
+- (B) Y has twice the kinetic energy and half the speed.
+- (C) Y has twice the kinetic energy and about 1.4 times the speed.
+- (D) Y has twice the kinetic energy and one quarter of the speed.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The kinetic energy gained is |q||ΔV|, so doubling the charge doubles K. The speed is v = √(2|q||ΔV|/m), so v_Y/v_X = √[(2q/4m) ÷ (q/m)] = √(1/2) ≈ 0.707.
+**Answer: (B).** The kinetic energy gained is |q||ΔV|, so doubling the charge doubles K. Mass does not affect the energy gained. The speed is v = √(2|q||ΔV|/m), so v_Y/v_X = √[(2q/8m) ÷ (q/m)] = √(1/4) = 0.5.
 
-- (B) assumes every particle gains the same energy. That is only true for equal charges.
-- (C) gets K right, then forgets that the mass is four times larger.
-- (D) assumes the heavier particle gains less energy. Mass does not affect the energy gained, only the speed.
+- (A) assumes every particle gains the same energy, giving √(1/8) ≈ 0.35. Equal energy is only true for equal charges.
+- (C) gets K right, then forgets that Y's mass is eight times larger: √2 ≈ 1.4.
+- (D) forgets the square root: it uses v ∝ q/m, giving 2/8 = 1/4.
 </details>
 
 ## Question 3 (multiple choice · core)
 
 An electron is released from rest next to the negative plate of a pair of parallel plates and moves across the uniform field to the positive plate. Which graph best describes its kinetic energy K against the distance x it has travelled?
 
-- (A) A straight line through the origin with positive slope.
-- (B) A curve through the origin that rises steeply at first and then flattens (like y = √x).
-- (C) A curve through the origin that starts flat and gets steeper (like y = x²).
-- (D) A straight line that starts high and falls to zero.
+- (A) A curve through the origin that rises steeply at first and then flattens (like y = √x).
+- (B) A curve through the origin that starts flat and gets steeper (like y = x²).
+- (C) A straight line that starts high and falls to zero.
+- (D) A straight line through the origin with positive slope.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** In a uniform field V changes linearly with x, so ΔU_E = qΔV is proportional to x. With only the electric force acting, K = −ΔU_E, so K is proportional to x: a straight line through the origin.
+**Answer: (D).** In a uniform field V changes linearly with x, so ΔU_E = qΔV is proportional to x. With only the electric force acting, K = −ΔU_E, so K is proportional to x: a straight line through the origin.
 
-- (B) is the shape of **speed** against x, because v ∝ √K ∝ √x.
-- (C) is the shape of K against **time**. The particle covers more distance each second, so K rises faster and faster in time.
-- (D) is the shape of the electric potential energy (measured from its final value), not K.
+- (A) is the shape of **speed** against x, because v ∝ √K ∝ √x.
+- (B) is the shape of K against **time**. The particle covers more distance each second, so K rises faster and faster in time.
+- (C) is the shape of the electric potential energy (measured from its final value), not K.
 </details>
 
 ## Question 4 (multiple choice · core)
@@ -127,7 +127,7 @@ An electron passes through a small hole in plate A, which is at 0 V, moving at 4
 2. (b) Initial kinetic energy: K_A = ½(9.11 × 10⁻³¹ kg)(4.0 × 10⁶ m/s)² = 7.288 × 10⁻¹⁸ J.
 3. Energy conservation: K_B = K_A − ΔU_E = 7.288 × 10⁻¹⁸ J − 4.80 × 10⁻¹⁸ J = 2.488 × 10⁻¹⁸ J.
 4. v_B = √(2K_B/m) = √[2(2.488 × 10⁻¹⁸ J) ÷ (9.11 × 10⁻³¹ kg)] = **2.34 × 10⁶ m/s**.
-5. (c) The electron just reaches B if all of K_A becomes U_E: e|ΔV| = K_A, so |ΔV| = 7.288 × 10⁻¹⁸ J ÷ 1.60 × 10⁻¹⁹ C = 45.6 V. Plate B can be at most **45.6 V below** plate A, that is at **−45.6 V**.
+5. (c) The electron just reaches B if all of K_A becomes U_E: e|ΔV| = K_A, so |ΔV| = 7.288 × 10⁻¹⁸ J ÷ 1.60 × 10⁻¹⁹ C = 45.55 V. Plate B can be at most about **45.6 V below** plate A, that is at about **−45.6 V** (more exactly −45.55 V).
 
 Suggested mark points (4): 1 for ΔU_E = +4.80 × 10⁻¹⁸ J with the correct sign; 1 for K_A = 7.29 × 10⁻¹⁸ J; 1 for v_B = 2.34 × 10⁶ m/s; 1 for −45.6 V (accept "45.6 V lower than A").
 

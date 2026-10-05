@@ -116,7 +116,7 @@ In this course every circuit you solve this way has one battery, or batteries in
 
 ## Worked example 1: unknown currents at two junctions
 
-**Question.** Part of a circuit has two junctions, X and Y, joined by wire b. At X, a current of 3.0 A arrives along one wire and 1.8 A leaves along wire a. At Y, wire d carries 0.50 A away from Y. Wire c, the only other wire at Y, carries an unknown current I₂; assume it flows **into** Y. Find the current I₁ in wire b (assumed from X to Y) and I₂. How much charge passes along wire b in 30 s?
+**Question.** Part of a circuit has two junctions, X and Y, joined by wire b. At X, a current of 3.0 A arrives along one wire and 1.8 A leaves along wire a; wire b is the only other wire at X. At Y, wire d carries 0.50 A away from Y. Wire c, the only other wire at Y, carries an unknown current I₂; assume it flows **into** Y. Find the current I₁ in wire b (assumed from X to Y) and I₂. How much charge passes along wire b in 30 s?
 
 1. Junction X: in = out, so 3.0 A = 1.8 A + I₁. I₁ = **1.2 A**, positive, so it flows from X to Y as assumed.
 2. Junction Y: in = I₁ + I₂; out = 0.50 A. So 1.2 A + I₂ = 0.50 A, giving I₂ = **−0.70 A**.
@@ -160,7 +160,7 @@ In this course every circuit you solve this way has one battery, or batteries in
 1. Three unknown currents need three independent equations.
 2. Junction J₁: **I₁ = I₂ + I₃**. (J₂ gives the same equation.)
 3. Loop through the battery, R₁ and R₂, going clockwise: 9.0 V − (2.0 Ω)I₁ − (3.0 Ω)I₂ = 0.
-4. Loop through R₂ and R₃ only (no battery): going down R₂ and up R₃, (3.0 Ω)I₂ − (6.0 Ω)I₃ = 0, so I₃ = I₂/2.
+4. Loop through R₂ and R₃ only (no battery): going down R₂ (with I₂) and up R₃ (against I₃), −(3.0 Ω)I₂ + (6.0 Ω)I₃ = 0, so I₃ = I₂/2.
 5. Substitute into the junction equation: I₁ = I₂ + I₂/2 = 1.5 I₂.
 6. Substitute into the first loop: 9.0 = 2.0(1.5 I₂) + 3.0 I₂ = 6.0 I₂, so I₂ = **1.5 A**.
 7. Then I₃ = **0.75 A** and I₁ = **2.25 A** (2.3 A to 2 significant figures).

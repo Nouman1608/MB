@@ -146,7 +146,7 @@ A student models Earth's magnetic field as the field of a dipole inside Earth.
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Lines leave Earth from the southern hemisphere, curve round outside Earth and enter the ground in the northern hemisphere. The magnetic pole in the northern hemisphere is a **magnetic south pole**. (A sketch with the dipole slightly tilted from the rotation axis is a bonus, not required.)
+**(a)** Lines leave Earth from the southern hemisphere, curve round outside Earth and enter the ground in the northern hemisphere. The magnetic pole in the northern hemisphere is a **magnetic south pole**. (A sketch with the dipole slightly tilted from the rotation axis is fine but not required.)
 
 **(b)** Unlike poles attract. The magnetic pole near geographic north is a south pole, so it attracts the **north** end of the needle. Equivalently, the needle lines up with Earth's field, which points towards that pole.
 
@@ -176,7 +176,7 @@ A student holds a small magnet on a line along its axis and measures the magnet'
 (a) Use two pairs of readings to find the factor by which B changes when r doubles.
 (b) The student claims "B is inversely proportional to r". Evaluate this claim using the data.
 (c) Assuming the same pattern continues, predict B at r = 12.0 cm.
-(d) Earth's field at the student's location is about 50 μT. At r = 12.0 cm, would a compass on the axis line up mainly with the magnet's field or with Earth's? Justify.
+(d) The magnet lies flat on a table. At the student's location the horizontal part of Earth's field is about 35 μT. At r = 12.0 cm, would a flat compass on the axis line up mainly with the magnet's field or with Earth's? Justify.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
@@ -187,7 +187,7 @@ A student holds a small magnet on a line along its axis and measures the magnet'
 
 **(c)** From 4.0 cm to 12.0 cm, r triples, so B falls by 3³ = 27: 500 μT ÷ 27 = **18.5 μT**.
 
-**(d)** At 12.0 cm the magnet's field (about 18.5 μT) is less than Earth's (about 50 μT). The compass lines up with the vector sum, which is dominated by **Earth's field**. The needle would be pulled partly towards the magnet's direction but would point mainly along Earth's field.
+**(d)** At 12.0 cm the magnet's field (about 18.5 μT, horizontal) is about half the horizontal part of Earth's field (about 35 μT). A flat compass responds only to the horizontal field. The compass lines up with the vector sum, which is dominated by **Earth's field**. The needle would be pulled partly towards the magnet's direction but would point mainly along Earth's field.
 
 | Point | What earns it |
 |---|---|
@@ -196,7 +196,7 @@ A student holds a small magnet on a line along its axis and measures the magnet'
 | 1 | (b) Shows that 1/r predicts 250 μT (or a factor of 2) and compares with the data |
 | 1 | (b) Clear conclusion: claim rejected; B falls faster (consistent with 1/r³) |
 | 1 | (c) 18.5 μT (accept 18–19 μT) with a method based on the factor of change |
-| 1 | (d) Compares 18.5 μT with 50 μT and concludes Earth's field dominates the vector sum |
+| 1 | (d) Compares 18.5 μT with the 35 μT horizontal part of Earth's field and concludes Earth's field dominates the vector sum |
 
 You do not need to memorise the 1/r³ pattern; this question tests reading it from data. Carry forward an error in (c) into (d) once.
 </details>

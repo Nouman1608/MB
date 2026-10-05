@@ -205,9 +205,9 @@ A useful way to compare is the ratio μ/μ₀ (often called the relative permeab
 2. **W.** μ is just above μ₀, so W's dipoles line up slightly with the field and strengthen it a little. Nothing remains when the coil is off. W is **paramagnetic**.
 3. **X.** μ is just below μ₀, so X's response is a weak alignment opposite to the field. X is **diamagnetic**.
 4. **Y.** μ = 400μ₀ = 400 × 4π × 10⁻⁷ T·m/A = 5.03 × 10⁻⁴ T·m/A. The field inside is hundreds of times bigger than the coil's own field, and some magnetism remains after the coil is off. Y is **ferromagnetic**: its domains lined up and many stayed lined up.
-5. **Doubling the field.** Not necessarily. The permeability of a material is not a constant: for a ferromagnet it depends strongly on the external field. Once most domains in Y are already aligned, there is little extra alignment left to gain. So the field inside Y will increase, but by less than a factor of 2.
+5. **Doubling the field.** Not necessarily. The permeability of a material is not a constant: for a ferromagnet it depends strongly on the external field. At 1.60 T a ferromagnet like Y already has most of its domains aligned, so there is little extra alignment left to gain. The field inside Y will increase, but most likely by less than a factor of 2.
 
-**Answer.** (a) W 1.00002, X 0.99999, Y 400. (b) W paramagnetic, X diamagnetic, Y ferromagnetic. (c) No: Y's μ changes with field strength, so its field rises by less than double.
+**Answer.** (a) W 1.00002, X 0.99999, Y 400. (b) W paramagnetic, X diamagnetic, Y ferromagnetic. (c) Not necessarily: Y's μ changes with field strength. With most domains already aligned, the field most likely rises by less than double.
 
 **Interpretation.** The changes for W and X are tiny: 0.08 μT up and 0.04 μT down in a 4 mT field. That is why para- and diamagnetism are hard to notice in everyday life. The leftover field near Y is the sign of permanent magnetism.
 

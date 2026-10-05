@@ -156,7 +156,7 @@ The **magnification** compares the size of the image with the size of the object
 
 **|M| = |hᵢ/hₒ| = |sᵢ/sₒ|**
 
-The course writes this relationship as M = hᵢ/hₒ = sᵢ/sₒ and uses it for sizes, so work with magnitudes. |M| > 1 means enlarged, |M| < 1 reduced, |M| = 1 same size. Decide the orientation from the type of image: for a single mirror, a **real image is inverted** and a **virtual image is upright**. (Some textbooks write M = −sᵢ/sₒ so that a negative M signals an inverted image. That gives the same description.)
+This is the form the course uses, with absolute-value bars on every part. It gives the size ratio only, so it never carries a sign. |M| > 1 means enlarged, |M| < 1 reduced, |M| = 1 same size. Decide the orientation from the type of image: for a single mirror, a **real image is inverted** and a **virtual image is upright**. (Some textbooks drop the bars and write M = −sᵢ/sₒ, so that a negative M signals an inverted image. That gives the same description, but in this course quote the magnitude and state the orientation in words.)
 
 A full description of an image states four things: **location**, **type** (real or virtual), **orientation** (upright or inverted) and **size** (enlarged, reduced or same size).
 
@@ -179,7 +179,7 @@ Do not memorise the table blindly: each row comes from a quick ray diagram or fr
 1. Focal length: f = R/2 = 24 cm ÷ 2 = 12 cm, positive because the mirror is concave.
 2. Mirror equation: 1/sᵢ = 1/f − 1/sₒ = 1/12 − 1/30 = 5/60 − 2/60 = 3/60, so **sᵢ = +20 cm**.
 3. sᵢ is positive, so the image is **real** and 20 cm in front of the mirror. It is between F (12 cm) and C (24 cm), as the table predicts.
-4. Magnification: |M| = sᵢ/sₒ = 20/30 = 0.667. Image height hᵢ = 0.667 × 4.0 cm = **2.7 cm**.
+4. Magnification: |M| = |sᵢ/sₒ| = 20/30 = 0.667. Image height hᵢ = 0.667 × 4.0 cm = **2.7 cm**.
 
 **Answer.** Real, inverted, reduced image, 2.7 cm tall, 20 cm in front of the mirror.
 
@@ -192,7 +192,7 @@ Do not memorise the table blindly: each row comes from a quick ray diagram or fr
 1. Convex mirror, so f = −0.40 m.
 2. 1/sᵢ = 1/f − 1/sₒ = 1/(−0.40) − 1/6.0 = −2.5 − 0.1667 = −2.667 m⁻¹, so **sᵢ = −0.375 m**.
 3. sᵢ is negative: the image is **virtual**, 0.375 m behind the mirror, and therefore upright.
-4. |M| = 0.375/6.0 = 0.0625, so hᵢ = 0.0625 × 1.5 m = **0.094 m** (9.4 cm).
+4. |M| = |sᵢ/sₒ| = 0.375/6.0 = 0.0625, so hᵢ = 0.0625 × 1.5 m = **0.094 m** (9.4 cm).
 
 **Answer.** Virtual, upright image 0.375 m (about 0.38 m) behind the mirror, 9.4 cm tall.
 

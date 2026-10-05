@@ -95,21 +95,21 @@ An electron and a proton are held a distance r apart. An external force slowly m
 
 ## Question 4 (multiple choice · core)
 
-Four equal charges +q sit at the corners of a square of side a. What is the total electric potential energy of the system?
+Four charges sit at the corners of a square of side a. The two top corners each hold +q and the two bottom corners each hold −q. What is the total electric potential energy of the system?
 
-- (A) 4kq²/a
-- (B) (4 + √2)kq²/a
-- (C) (4 + 2√2)kq²/a
-- (D) (8 + 2√2)kq²/a
+- (A) −√2 kq²/a
+- (B) 0
+- (C) −2√2 kq²/a
+- (D) (4 + √2)kq²/a
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** Four charges make 6 pairs: 4 along the sides (distance a) and 2 across the diagonals (distance √2 a). Total = 4 × kq²/a + 2 × kq²/(√2 a) = (4 + 2/√2)kq²/a = (4 + √2)kq²/a ≈ 5.41kq²/a.
+**Answer: (A).** Four charges make 6 pairs. Sides (distance a): the top pair (+q, +q) gives +kq²/a, the bottom pair (−q, −q) gives +kq²/a, and the two vertical sides (+q, −q) give −kq²/a each. These four add to zero. Diagonals (distance √2 a): both join a +q to a −q, so each gives −kq²/(√2 a). Total = 2 × (−kq²/(√2 a)) = −(2/√2)kq²/a = −√2 kq²/a ≈ −1.41kq²/a.
 
-- (A) leaves out the two diagonal pairs.
-- (C) uses a/√2 instead of √2 a for the diagonal length, which makes each diagonal term too large.
-- (D) counts each pair twice (once from each end), doubling the answer.
+- (B) leaves out the two diagonal pairs, so only the four side pairs are counted and they cancel.
+- (C) either uses a/√2 instead of √2 a for the diagonal length, or counts each pair twice (once from each end). Both errors double the answer.
+- (D) drops the signs of the charges, treating every pair as repelling.
 </details>
 
 ## Question 5 (calculation · core)

@@ -114,7 +114,7 @@ The flux through a loop rises steadily from 0 to 6 mWb between t = 0 and t = 3 s
 
 ## Question 5 (calculation · core)
 
-A square coil of 50 turns, side 8.0 cm, lies in the plane of the page. A uniform field into the page decreases steadily from 0.30 T to 0.05 T in 0.25 s. The coil's resistance is 2.0 Ω.
+A square coil of 50 turns, side 8.0 cm, lies in the plane of the page. A uniform field into the page decreases steadily from 0.30 T to 0.050 T in 0.25 s. The coil's resistance is 2.0 Ω.
 
 (a) Calculate the size of the average induced emf.
 (b) Calculate the induced current.
@@ -124,7 +124,7 @@ A square coil of 50 turns, side 8.0 cm, lies in the plane of the page. A uniform
 <details>
 <summary>Worked solution</summary>
 
-1. A = (0.080 m)² = 6.4 × 10⁻³ m². ΔB = 0.05 − 0.30 = −0.25 T, so the flux through each turn changes by ΔΦ = (−0.25 T)(6.4 × 10⁻³ m²) = −1.6 × 10⁻³ Wb.
+1. A = (0.080 m)² = 6.4 × 10⁻³ m². ΔB = 0.050 − 0.30 = −0.25 T, so the flux through each turn changes by ΔΦ = (−0.25 T)(6.4 × 10⁻³ m²) = −1.6 × 10⁻³ Wb.
 2. (a) |ε| = N|ΔΦ|/Δt = 50 × 1.6 × 10⁻³ Wb ÷ 0.25 s = **0.32 V**.
 3. (b) I = ε/R = 0.32 V ÷ 2.0 Ω = **0.16 A**.
 4. (c) The external field is into the page and the flux is decreasing. The induced field opposes the decrease, so it points **into** the page inside the coil. Thumb into the page: the current is **clockwise**.

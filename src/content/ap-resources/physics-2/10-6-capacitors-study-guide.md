@@ -105,8 +105,8 @@ The equipotentials between the plates are flat surfaces parallel to the plates, 
 <text x="150" y="282">−</text><text x="210" y="282">−</text><text x="270" y="282">−</text><text x="330" y="282">−</text><text x="390" y="282">−</text>
 </g>
 <g stroke="#1d2b44" stroke-width="1.5" marker-end="url(#cap-arr)">
-<line x1="160" y1="88" x2="160" y2="242"/><line x1="216" y1="88" x2="216" y2="242"/><line x1="272" y1="88" x2="272" y2="242"/>
-<line x1="328" y1="88" x2="328" y2="242"/><line x1="384" y1="88" x2="384" y2="242"/><line x1="430" y1="88" x2="430" y2="242"/>
+<line x1="140" y1="88" x2="140" y2="242"/><line x1="196" y1="88" x2="196" y2="242"/><line x1="252" y1="88" x2="252" y2="242"/>
+<line x1="308" y1="88" x2="308" y2="242"/><line x1="364" y1="88" x2="364" y2="242"/><line x1="420" y1="88" x2="420" y2="242"/>
 </g>
 <line x1="60" y1="165" x2="500" y2="165" stroke="#1d2b44" stroke-width="1" stroke-dasharray="4 4"/>
 <path d="M60 165 L120 165 Q 280 165 440 115 L 500 96" fill="none" stroke="#1d2b44" stroke-width="3"/>
@@ -201,7 +201,7 @@ So before any "what changes?" question, decide which quantity is held fixed:
 4. Field: E = ΔV/d = 12 V ÷ 1.5 × 10⁻³ m = **8.0 × 10³ V/m**, from the + plate to the − plate.
 5. Energy: U_C = ½C(ΔV)² = 0.5 × (1.77 × 10⁻¹⁰)(12)² = **1.27 × 10⁻⁸ J**.
 
-**Check.** The field from the charge gives the same result: E = Q/(ε₀A) = 2.124 × 10⁻⁹ ÷ (8.85 × 10⁻¹² × 0.030) = 8000 V/m. And ½QΔV = 0.5 × 2.124 × 10⁻⁹ × 12 = 1.27 × 10⁻⁸ J, which agrees. A capacitor the size of a sheet of paper holds only a couple of nanocoulombs at 12 V, which is why practical capacitors use very thin dielectric layers rolled or stacked into a small volume.
+**Check.** The field from the charge gives the same result: E = Q/(ε₀A) = 2.124 × 10⁻⁹ ÷ (8.85 × 10⁻¹² × 0.030) = 8000 V/m. And ½QΔV = 0.5 × 2.124 × 10⁻⁹ × 12 = 1.27 × 10⁻⁸ J, which agrees. A capacitor with plates about half the size of a sheet of printer paper holds only a couple of nanocoulombs at 12 V, which is why practical capacitors use very thin dielectric layers rolled or stacked into a small volume.
 
 ## Worked example 2: isolated or connected?
 

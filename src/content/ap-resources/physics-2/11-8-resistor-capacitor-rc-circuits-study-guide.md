@@ -143,13 +143,13 @@ Units: Ω × F = (V/A) × (C/V) = C/A = s. So τ is a time.
 <text x="265" y="220">t</text><text x="525" y="220">t</text>
 <text x="60" y="26">Q</text><text x="320" y="26">I</text>
 <text x="200" y="52">Q_max = Cℰ</text>
-<text x="40" y="115" text-anchor="end">0.63</text><text x="40" y="128" text-anchor="end">Q_max</text>
+<text x="54" y="115" text-anchor="end">0.63</text><text x="54" y="128" text-anchor="end">Q_max</text>
 <text x="300" y="64" text-anchor="end">ℰ/R</text>
 <text x="300" y="146" text-anchor="end">0.37</text><text x="300" y="159" text-anchor="end">ℰ/R</text>
 <text x="160" y="245">Charging: charge</text><text x="420" y="245">Charging: current</text>
 </g>
 </svg>
-<figcaption>Figure 2. Sketch graphs for a capacitor charging through a resistor. The charge (and ΔV_C) rises towards Cℰ; the current falls from ℰ/R towards zero. The dashed guides mark one time constant τ. A discharging capacitor's charge, ΔV_C and current all look like the right-hand graph.</figcaption>
+<figcaption>Figure 2. Sketch graphs for a capacitor charging through a resistor. The charge (and ΔV_C) rises towards Cℰ; the current falls from ℰ/R towards zero. The dashed guides mark one time constant τ. A discharging capacitor's charge, ΔV_C and current (in size) all have the shape of the right-hand graph.</figcaption>
 </figure>
 
 Why RC? A larger R means a smaller current for the same potential difference, so charge moves more slowly. A larger C means more charge must move to reach the same potential difference. Either way the process takes longer. The emf does **not** change τ: a bigger emf means more charge to move, but also a proportionally bigger current.

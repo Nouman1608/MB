@@ -31,8 +31,8 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 - I can explain, using charge conservation, why capacitors in series carry the same charge. *(Guide: "Capacitors in combination", Figure 1; Practice Q2)*
 - I can explain why the equivalent capacitance of a series group is smaller than its smallest capacitor. *(Guide: "Capacitors in combination"; Practice Q1)*
-- I can describe how charge, ΔV_C, current and stored energy change while a capacitor charges and while it discharges. *(Guide: "Charging a capacitor through a resistor", "Discharging a capacitor")*
-- I can explain why an uncharged capacitor acts like a wire at first and a charged one like a break after a long time. *(Guide; Practice Q3)*
+- I can describe how charge, ΔV_C, current and stored energy change while a capacitor charges and while it discharges. *(Guide: "Charging a capacitor through a resistor", "Discharging a capacitor"; Practice Q6b, Q7c)*
+- I can explain why an uncharged capacitor acts like a wire at first and a charged one like a break after a long time. *(Guide: "Charging a capacitor through a resistor"; Practice Q3, Q7b)*
 - I can explain what τ = RC means using the 63% and 37% benchmarks, and why the emf does not affect it. *(Guide: "The time constant τ = RC"; Practice Q4)*
 
 ## Calculation and skills
@@ -40,7 +40,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can find the equivalent capacitance of a series-parallel network and the charge and ΔV on each capacitor. *(Guide: Worked example 1; Practice Q5)*
 - I can calculate τ and check that Ω × F gives seconds. *(Practice Q4, Q6a)*
 - I can sketch ΔV_C–t and I–t graphs for charging and discharging, with the start, τ and long-time values marked. *(Guide: Figure 2; Practice Q6b)*
-- I can find τ from a graph of discharge data and use it to find R or C. *(Guide: Worked example 3)*
+- I can find τ from a graph of discharge data and use it to find R or C. *(Guide: Worked example 3; Practice Q6d)*
 - I can plan a measurement of τ with a voltmeter and a timer. *(Practice Q6d)*
 
 ## Reasoning

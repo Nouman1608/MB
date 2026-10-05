@@ -96,7 +96,7 @@ A battery has an emf of 9.0 V. When it is connected to a resistor, the current i
 
 ## Question 4 (multiple choice · core)
 
-A student wants to measure the current in resistor R and the potential difference across it. She has an ammeter with a small resistance and a voltmeter with a large, but not infinite, resistance. Which describes the correct connections and the effect of the real voltmeter?
+Resistor R is connected in series with a second resistor across a battery. A student wants to measure the current in R and the potential difference across it. She has an ammeter with a small resistance and a voltmeter with a large, but not infinite, resistance. Which describes the correct connections and the effect of the real voltmeter?
 
 - (A) Ammeter in series with R; voltmeter in parallel with R. The voltmeter reading is slightly less than the potential difference across R without the voltmeter.
 - (B) Ammeter in series with R; voltmeter in parallel with R. The voltmeter reading is slightly greater than the potential difference across R without the voltmeter.

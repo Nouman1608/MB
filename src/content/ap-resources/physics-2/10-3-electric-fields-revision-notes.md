@@ -35,7 +35,7 @@ Short on time? This page is the recap. For explanations, Figure 1 and the three 
 
 - A charged object sets up an **electric field** around it. Another charge placed in the field feels a force.
 - The field at a point is the force per unit charge on a **test charge**: a charge small enough not to disturb the field.
-- E is a **vector**. It points away from isolated positive charges and toward isolated negative charges.
+- E is a **vector**. Near a lone positive charge it points outward; near a lone negative charge it points inward.
 - The net field is the **vector sum** of the fields from each nearby charge.
 - **Vector field maps** draw arrows (direction and size). **Field lines** are a simpler model: tangent gives direction, closer lines mean a stronger field, lines never cross.
 - **Conductor in equilibrium:** E = 0 inside, excess charge on the surface, E perpendicular to the surface.
@@ -49,7 +49,7 @@ Short on time? This page is the recap. For explanations, Figure 1 and the three 
 | F_E = qE | keep the sign of q | get the direction of the force (opposite to E if q < 0) |
 | E = k\|q\| / r² | k = 9.0 × 10⁹ N·m²/C², r in m | find the field of a point charge |
 | E_net = E₁ + E₂ + … (vectors) | add x- and y-components | combine fields of up to four charges |
-| E outside a charged sphere = kQ/r² | r from the centre, r ≥ R | treat a symmetric sphere as a point charge |
+| E outside a charged sphere = k\|Q\|/r² | r from the centre, r ≥ R | treat a symmetric sphere as a point charge |
 
 ## Assumptions behind the numbers
 

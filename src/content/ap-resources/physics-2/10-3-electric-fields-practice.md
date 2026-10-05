@@ -182,7 +182,7 @@ Two spheres each have radius 0.050 m and carry +3.0 nC. Sphere A is solid metal.
 
 **(b)** At r = 0.050 m: E = (9.0 × 10⁹)(3.0 × 10⁻⁹) ÷ (0.050)² = **1.08 × 10⁴ N/C**, directed outward, **perpendicular to the surface**. (Check: 3 times closer, 9 times stronger: 9 × 1200 = 10 800.)
 
-**(c)** Sphere A: the point is inside the metal, so E = 0. Free electrons would move if there were any field there, so in equilibrium the field is zero. Sphere B: the charge cannot move in plastic and stays spread through the volume, including the region nearer the centre than the point. Nothing cancels its field, so E inside B is **not zero** and points outward. So the field is larger at the point in B.
+**(c)** Sphere A: the point is inside the metal, so E = 0. Free electrons would move if there were any field there, so in equilibrium the field is zero. Sphere B: the charge cannot move in plastic and stays spread through the volume, so some of it lies nearer the centre than the point. That enclosed charge makes a field at the point, so E inside B is **not zero** and points outward. So the field is larger at the point in B.
 
 **(d)** The student is right that like charges repel, but wrong about the result. In the metal the charges are free to move, so they push each other as far apart as possible: onto the **outer surface**. In the plastic the charges cannot move, so they stay where they were put. The difference comes from conductor versus insulator, not from the repulsion.
 

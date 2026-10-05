@@ -71,7 +71,7 @@ An object is placed 15 cm in front of a concave mirror whose radius of curvature
 
 - (B) has the right distance but drops the minus sign, turning a virtual image into a real one.
 - (C) uses R = 50 cm as the focal length.
-- (D) adds 1/15 to 1/25 instead of subtracting, as if the mirror were convex. A reduced image is impossible for an object inside F of a concave mirror.
+- (D) uses f = −25 cm, as if the mirror were convex: 1/sᵢ = −1/25 − 1/15 = −8/75, so sᵢ = −9.4 cm. A reduced image is impossible for an object inside F of a concave mirror.
 </details>
 
 ## Question 3 (multiple choice · core)
@@ -126,7 +126,7 @@ A 2.0 cm tall object stands on the principal axis, 12.0 cm in front of a concave
 
 **(b)** 1/sᵢ = 1/f − 1/sₒ = 1/8.0 − 1/12.0 = 3/24 − 2/24 = 1/24, so **sᵢ = +24.0 cm** (real, in front of the mirror).
 
-**(c)** |M| = sᵢ/sₒ = 24.0/12.0 = 2.00, so hᵢ = 2.00 × 2.0 cm = **4.0 cm**. The image is **real, inverted and enlarged**, 24.0 cm in front of the mirror (beyond C).
+**(c)** |M| = |sᵢ/sₒ| = 24.0/12.0 = 2.00, so hᵢ = 2.00 × 2.0 cm = **4.0 cm**. The image is **real, inverted and enlarged**, 24.0 cm in front of the mirror (beyond C).
 
 | Point | What earns it |
 |---|---|

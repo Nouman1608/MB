@@ -174,7 +174,7 @@ Diffuse reflection is why you can see most objects at all. A page of a book refl
 **Question.** A laser beam strikes a plane mirror. The beam makes an angle of 28° with the mirror surface.
 (a) Find the angle of incidence and the angle of reflection.
 (b) Find the angle between the incident and reflected beams.
-(c) The mirror is turned through 8.0° so that the angle of incidence becomes smaller. The laser does not move. The reflected beam originally hit a wall 2.50 m from the mirror, meeting the wall at right angles. How far does the spot on the wall move?
+(c) The mirror is turned through 8.0°, about the point where the beam strikes it, so that the angle of incidence becomes smaller. The laser does not move. The reflected beam originally hit a wall 2.50 m from the mirror, meeting the wall at right angles. How far does the spot on the wall move?
 
 1. **(a)** The normal is at 90° to the surface. The beam is 28° from the surface, so it is 90° − 28° = **62°** from the normal. θᵢ = 62°, and by the law of reflection θᵣ = **62°**.
 2. **(b)** The two beams are on opposite sides of the normal, so the angle between them is θᵢ + θᵣ = 62° + 62° = **124°**. (The beam's direction of travel changes by 180° − 124° = 56°, which is twice the 28° angle with the surface.)

@@ -90,7 +90,7 @@ A battery, bulb X, an open switch and bulb Y are connected one after the other i
 **Answer: (A).** The open switch breaks the only loop, so this is an open circuit. With no closed loop, there is no current anywhere in it, on either side of the switch.
 
 - (B) pictures current travelling up to the gap and stopping. There is no steady flow in any part of an open loop.
-- (C) is wrong: an open switch is a gap that ideal charges cannot cross.
+- (C) is wrong: an ideal open switch is a gap that charges cannot cross.
 - (D) uses the direction of electron flow, and still wrongly lets one side of an open loop carry a current.
 </details>
 

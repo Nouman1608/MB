@@ -60,9 +60,9 @@ A circuit is made of one or more **electrical loops**. A loop is a path that sta
 
 Charge can flow continuously only around a **closed loop**: a complete path with no gap. Three words describe what is possible.
 
-- **Closed circuit.** There is a complete loop that includes the source, so charges would be able to flow. A closed switch is part of a closed circuit.
+- **Closed circuit.** There is a complete loop that includes the source, so charges would be able to flow. Any switches in that loop must be closed.
 - **Open circuit.** There is a break somewhere in the loop, for example an open switch, a loose connection or a broken filament. Charges cannot flow around it. Every element in that loop then has zero current, wherever the break is. The current does not "reach the gap and stop": with no complete loop, there is no flow anywhere in that loop.
-- **Short circuit.** There is a path along which charges can flow **with no change in potential**, usually a plain wire connected across an element or across the source. The two ends of the shorted element are joined by an ideal wire, so they are at the same potential. With no potential difference across it, the shorted element carries no current. Charges take the wire path instead.
+- **Short circuit.** There is a path along which charges can flow **with no change in potential**, usually a plain wire connected across an element such as a bulb or resistor. The two ends of the shorted bulb or resistor are joined by an ideal wire, so they are at the same potential. With no potential difference across it, it carries no current. Charges take the wire path instead.
 
 A wire connected straight across a battery is a dangerous short circuit. Almost nothing limits the current, so the battery and wire can become very hot. You will see why in Topic 11.3.
 
@@ -183,7 +183,7 @@ Same parts, different behaviour. That is why a schematic must show the connectio
 
 **Answer.** Only A carries current. B and C go out.
 
-**Check.** It is tempting to say "B and C now share the current with the wire". They cannot: an element only carries current if there is a potential difference across it, and the wire has removed it. (In Topic 11.3 you will see that the current through A also increases, because the loop has less resistance.)
+**Check.** It is tempting to say "B and C now share the current with the wire". They cannot: a bulb only carries current if there is a potential difference across it, and the wire has removed it. (In Topic 11.3 you will see that the current through A also increases, because the loop has less resistance.)
 
 ## Worked example 3: from a description to a schematic
 
@@ -214,7 +214,7 @@ Same parts, different behaviour. That is why a schematic must show the connectio
 </g>
 <g font-size="12" fill="#1d2b44" text-anchor="middle">
 <text x="169" y="44">switch (closed)</text><text x="280" y="102">dimmer</text><text x="260" y="214">bulb</text>
-<text x="478" y="154">ammeter</text><text x="345" y="305" text-anchor="start">voltmeter</text>
+<text x="462" y="154" text-anchor="start">ammeter</text><text x="345" y="305" text-anchor="start">voltmeter</text>
 </g>
 </svg>
 <figcaption>Figure 3. One possible schematic for the lamp. The ammeter is in the loop, so the bulb's current passes through it. The voltmeter is connected across the bulb, between the two dotted junctions, and does not break the loop.</figcaption>

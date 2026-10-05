@@ -20,7 +20,7 @@ framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-physics-2", "clar-physics-2"]
 keyPoints:
   - "Charge flows only around a closed loop that includes a source."
-  - "A short circuit is a path with no change in potential, so the bypassed element carries no current."
+  - "A short circuit is a path with no change in potential, so a bypassed bulb or resistor carries no current."
   - "Ammeter in the loop; voltmeter across the element."
 version: "1.0"
 publishedDate: 2026-10-05
@@ -46,7 +46,7 @@ Short on time? This page is the recap. For explanations, Figures 1–3 and the w
 |---|---|---|
 | Closed circuit | complete loop with a source | charges could flow |
 | Open circuit | a break anywhere in the loop | no current anywhere in that loop |
-| Short circuit | path with no change in potential across an element or source | the bypassed element has zero potential difference and carries no current |
+| Short circuit | path with no change in potential, connected across an element | a bypassed bulb or resistor has zero potential difference and carries no current |
 | Variable element | normal symbol with a diagonal arrow through it | its value can be adjusted (for example a dimmer) |
 
 | Meter | How it is connected | Ideal behaviour |

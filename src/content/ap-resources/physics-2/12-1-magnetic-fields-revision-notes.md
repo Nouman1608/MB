@@ -48,7 +48,7 @@ Short on time? This page is the recap. For explanations, Figure 1 and the worked
 |---|---|
 | Field-line rules | direction = tangent and arrow; closer lines = stronger B; lines never cross; every line is a closed loop |
 | Bar magnet | outside: away from N, into S; inside: S to N |
-| Adding fields | B_total is the vector sum; for perpendicular parts, B = √(B₁² + B₂²), angle = tan⁻¹(B₁/B₂) |
+| Adding fields | B_total is the vector sum; for perpendicular parts, B = √(B₁² + B₂²), angle from B₂ = tan⁻¹(B₁/B₂) |
 | Vacuum permeability | μ₀ = 4π × 10⁻⁷ T·m/A ≈ 1.26 × 10⁻⁶ T·m/A (a constant) |
 | Materials | ferromagnetic μ ≫ μ₀; paramagnetic μ slightly > μ₀; diamagnetic μ slightly < μ₀ |
 

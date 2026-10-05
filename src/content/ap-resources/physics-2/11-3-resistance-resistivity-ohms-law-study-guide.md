@@ -130,7 +130,7 @@ The best way to test whether an element is ohmic is to measure I for several val
 <text x="22" y="180" font-size="13" fill="#1d2b44" text-anchor="middle" transform="rotate(-90 22 180)">Current I (A)</text>
 <line x1="80" y1="320" x2="500" y2="75" stroke="#1d2b44" stroke-width="2.5"/>
 <polyline points="80,320 140,236 200,187 260,152 320,124 380,99.5 440,78.5" fill="none" stroke="#1d2b44" stroke-width="2" stroke-dasharray="7 4"/>
-<text x="470" y="62" font-size="12" fill="#1d2b44" text-anchor="middle">ohmic resistor, 20 Ω</text>
+<text x="490" y="135" font-size="12" fill="#1d2b44" text-anchor="middle">ohmic resistor, 20 Ω</text>
 <text x="170" y="180" font-size="12" fill="#1d2b44" text-anchor="middle">filament bulb</text>
 </svg>
 <figcaption>Figure 1. The ohmic resistor (solid line) has a constant slope of 0.050 A/V, so R = 1 ÷ 0.050 = 20 Ω at every current. The filament bulb (dashed curve) bends towards the ΔV axis: its resistance, ΔV/I, rises from about 8 Ω at 1.0 V to about 17 Ω at 6.0 V as the filament heats up.</figcaption>
@@ -230,7 +230,7 @@ To find the **resistivity** of a material, use a wire of that material with a kn
 - **Treating mm² like mm.** 1 mm² = 10⁻⁶ m², not 10⁻³ m².
 - **"Resistivity and resistance are the same thing."** Resistivity belongs to the material; resistance belongs to the object.
 - **"The slope of an I–ΔV graph is the resistance."** It is 1/R. A steeper line means less resistance.
-- **"Ohm's law works for everything."** I = ΔV/R holds for every element at any instant, but only ohmic elements have a constant R. A filament bulb does not.
+- **"Every element obeys Ohm's law."** You can always work out R = ΔV/I at one moment, but only ohmic elements keep that R constant, so only they have I ∝ ΔV. A filament bulb does not.
 - **"Current is used up in a resistor."** The same current enters and leaves it. What the resistor takes is energy, which becomes thermal energy.
 
 ## Where this leads

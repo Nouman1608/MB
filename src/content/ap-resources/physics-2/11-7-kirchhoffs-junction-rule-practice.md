@@ -135,7 +135,7 @@ Figure 1 shows part of a circuit with two junctions, P and Q, joined by wire 3. 
 </g>
 <g font-size="13" fill="#1d2b44">
 <text x="60" y="100">wire 1: 1.6 A</text>
-<text x="206" y="62">wire 2: 0.70 A</text>
+<text x="212" y="62">wire 2: 0.70 A</text>
 <text x="232" y="100">wire 3: I_a</text>
 <text x="386" y="196">wire 4: 0.40 A</text>
 <text x="404" y="100">wire 5: I_b</text>

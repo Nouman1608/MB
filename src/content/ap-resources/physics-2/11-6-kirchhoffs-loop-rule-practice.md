@@ -120,7 +120,7 @@ Two branches are connected in parallel between junctions J and K. Branch 1 is a 
 
 ## Question 5 (calculation · core)
 
-A battery of emf 12 V and internal resistance 0.40 Ω is used to charge a battery of emf 6.0 V and internal resistance 0.60 Ω. The positive terminal of the 12 V battery is connected through a 4.0 Ω resistor to the positive terminal of the 6.0 V battery, and the two negative terminals are joined by a wire. This makes a single loop in which the two emfs oppose each other. Calculate (a) the current, (b) the terminal voltage of each battery and (c) show that the rates of energy transfer balance.
+A battery of emf 12 V and internal resistance 0.40 Ω is used to charge a battery of emf 6.0 V and internal resistance 0.60 Ω. The positive terminal of the 12 V battery is connected through a 4.0 Ω resistor to the positive terminal of the 6.0 V battery, and the two negative terminals are joined by a wire. This makes a single series loop in which the two emfs oppose each other (the batteries are not connected directly in parallel). Calculate (a) the current, (b) the terminal voltage of each battery and (c) show that the rates of energy transfer balance.
 
 <details>
 <summary>Worked solution</summary>

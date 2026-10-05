@@ -75,7 +75,7 @@ Short on time? This page is the recap. For explanations, the graphs and the work
 
 ## Quick self-check
 
-1. A wire is replaced by one of the same metal with twice the length and twice the diameter. By what factor does R change? *(× 1/2)*
+1. A wire is replaced by one of the same metal with three times the length and twice the diameter. By what factor does R change? *(× 3/4)*
 2. A resistor carries 0.30 A with 9.0 V across it. What is its resistance? *(30 Ω)*
 3. An I–ΔV line through the origin has a slope of 0.050 A/V. What is R? *(20 Ω)*
 4. Why does a lamp filament's resistance rise as it glows? *(Its temperature rises, so the resistivity of the metal rises.)*

@@ -70,7 +70,7 @@ A capacitor is charged and then disconnected from the battery. One plate is then
 **Answer: (A).** The capacitor is isolated, so Q is fixed. Halving the effective area halves C = ε₀A/d, so ΔV = Q/C doubles. With d unchanged, E = ΔV/d doubles too. (Equivalently, E = Q/(ε₀A): the same charge is crowded onto half the area.)
 
 - (B) is the result for doubling the **separation** of an isolated capacitor. Here d is unchanged, so a doubled ΔV means a doubled E.
-- (C) gets the direction of the change in C wrong: less area means less capacitance, not more.
+- (C) gets the direction of the change in C wrong: less area means less capacitance, not more. It is also inconsistent: with d unchanged, E = ΔV/d must change whenever ΔV does.
 - (D) treats the capacitor as still connected to the battery, which would hold ΔV fixed.
 </details>
 
@@ -171,7 +171,7 @@ For (d), also accept a full recalculation. Do not award (d) for "it hits because
 A student wants to test whether the capacitance of two parallel plates is inversely proportional to their separation. She has two square aluminium plates 0.20 m × 0.20 m, sets of thin insulating spacers, a ruler, a micrometer and a capacitance meter.
 
 (a) Describe a procedure. Say what she varies, what she measures and what she keeps constant.
-(b) Her results are below. State what she should plot to get a straight line if C ∝ 1/d, and complete a column of the values to plot.
+(b) Her results are below. State what she should plot to get a straight line if C ∝ 1/d, and add a row of the values to plot.
 
 | d (mm) | 1.0 | 2.0 | 3.0 | 4.0 | 5.0 |
 |---|---|---|---|---|---|
