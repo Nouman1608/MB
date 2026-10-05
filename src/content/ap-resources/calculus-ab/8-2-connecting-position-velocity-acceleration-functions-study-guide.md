@@ -40,7 +40,7 @@ faqs:
   - question: "Why do I need a starting position?"
     answer: "Velocity tells you how position changes, not where the object is. The integral gives the change in position; you add it to a known position to get a new one."
   - question: "When are displacement and distance equal?"
-    answer: "When the velocity never changes sign on the interval: the object moves in one direction only. Then distance is the absolute value of displacement."
+    answer: "Distance equals the absolute value of displacement when the velocity never changes sign on the interval, so the object moves in one direction only. If that direction is positive, the two are equal; if it is negative, the displacement is the negative of the distance."
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05

@@ -40,7 +40,7 @@ Notation: **∫ (a to b) f(x) dx** means the definite integral of f(x) from x = 
 - It comes from averaging many equally spaced samples of f: the sample average is a Riemann sum divided by b − a.
 - **Picture:** the average value is the height of the rectangle on [a, b] with the same signed area as the region under f.
 - If f is continuous, f reaches its average value at least once in [a, b] (Intermediate Value Theorem). That c need not be the midpoint, and need not be unique.
-- The average value can be negative. It is usually **not** the middle of the range, (f(a) + f(b))/2, unless f is linear.
+- The average value can be negative. It is usually **not** the average of the end values, (f(a) + f(b))/2. That shortcut is guaranteed only when f is linear.
 
 ## Key relationships
 

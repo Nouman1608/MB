@@ -99,14 +99,14 @@ Another way to see it: the solid is the big solid you would get by revolving the
 <g font-size="12" fill="#1d2b44" text-anchor="end">
 <text x="143" y="224">1</text><text x="143" y="174">2</text><text x="143" y="116">3</text><text x="143" y="66">4</text><text x="143" y="34">y</text>
 </g>
-<line x1="196" y1="270" x2="196" y2="83" stroke="#1d2b44" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="180" y1="270" x2="180" y2="85" stroke="#1d2b44" stroke-width="1.2" stroke-dasharray="3 3"/>
 <line x1="168" y1="270" x2="168" y2="122" stroke="#1d2b44" stroke-width="1.2" stroke-dasharray="3 3"/>
 <text x="200" y="200" font-size="12" fill="#1d2b44">R = 4 − x²</text>
 <text x="100" y="200" font-size="12" fill="#1d2b44">r = 3</text>
 <text x="205" y="62" font-size="12" fill="#1d2b44">y = 4 − x² (solid)</text>
 <text x="215" y="138" font-size="12" fill="#1d2b44">y = 3 (dashed)</text>
 <line x1="305" y1="20" x2="305" y2="300" stroke="#1d2b44" stroke-width="0.8"/>
-<path d="M 440 64 a 94 94 0 1 0 0.01 0 Z M 440 95 a 75 75 0 1 1 -0.01 0 Z" fill="#dfe7f3" fill-rule="evenodd" stroke="#1d2b44" stroke-width="2"/>
+<path d="M 440 76 a 94 94 0 1 0 0.01 0 Z M 440 95 a 75 75 0 1 1 -0.01 0 Z" fill="#dfe7f3" fill-rule="evenodd" stroke="#1d2b44" stroke-width="2"/>
 <circle cx="440" cy="170" r="3" fill="#1d2b44"/>
 <line x1="440" y1="170" x2="534" y2="170" stroke="#1d2b44" stroke-width="1.5"/>
 <line x1="440" y1="170" x2="387" y2="223" stroke="#1d2b44" stroke-width="1.5"/>
@@ -156,7 +156,7 @@ A test point settles which curve is which. Pick a value strictly between the lim
 
 **Check.** The solid lies inside a cylinder of radius 4 and length 2 with a cylinder of radius 3 and length 2 removed. That shell has volume π(16 − 9)(2) = 14π ≈ 43.98. The answer, 28.48, is smaller, as it must be, because the parabola is below height 4 except at x = 0.
 
-**The trap.** Writing π ∫ (−1 to 1) [(4 − x²) − 3]² dx gives 16π/15, about one-ninth of the right answer. At x = 0.5 the correct face area is π(3.75² − 3²) = 81π/16, while (3.75 − 3)² π is only 9π/16.
+**The trap.** Writing π ∫ (−1 to 1) [(4 − x²) − 3]² dx gives 16π/15, less than one-eighth of the right answer. At x = 0.5 the correct face area is π(3.75² − 3²) = 81π/16, while (3.75 − 3)² π is only 9π/16.
 
 ## Worked example 2: around the y-axis (no calculator)
 

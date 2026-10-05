@@ -190,7 +190,7 @@ For W < (8/0.6)² ≈ 177.8 L, 8 − 0.6√W > 0, so d²W/dt² < 0. The water st
 | 1 | Correct d²W/dt² **and** "overestimate" justified by its negative sign |
 | 1 | "Smaller", with the reason that a smaller step usually moves the estimate towards the true value, which lies below it |
 
-Total: 5 points. Rounding at each step (for example to 1 decimal place) can give 105.8 or 105.9; accept answers within 0.002 of 105.823 when working is shown.
+Total: 5 points. For the third point, accept answers within 0.002 of 105.823 when working is shown. Rounding at each step (for example to 1 decimal place, which gives 105.8) does not earn the third point.
 </details>
 
 ## Question 7 (constructed response · stretch, calculator allowed)

@@ -14,7 +14,7 @@ prerequisites:
   - "Displacement and distance from velocity (Topic 8.2)"
 prerequisiteResources: ["mb-ap-calcab-8.2-study-guide"]
 learningObjectives:
-  - "Explain why integrating the rate of change of a quantity over an interval gives the net change in that quantity"
+  - "Explain why integrating a quantity's rate of change across an interval gives the net change in the quantity"
   - "Write an amount at time x as a starting value plus an accumulation function of the rate, and interpret its derivative"
   - "Combine a rate in and a rate out into a net rate, and decide when an amount increases or decreases"
   - "Find the greatest or least amount using the sign of the rate and the candidates test"

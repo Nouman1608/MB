@@ -35,7 +35,7 @@ keyPoints:
   - "This topic is shared by Calculus AB and Calculus BC students."
 faqs:
   - question: "Is this page for Calculus AB or Calculus BC?"
-    answer: "Both. Topic 8.12 is common content, so the same page serves AB and BC students. It is the last topic of the Calculus AB course; Calculus BC continues with arc length and further Unit 8 topics."
+    answer: "Both. Topic 8.12 is common content, so the same page serves AB and BC students. It is the last topic of the Calculus AB course; Calculus BC continues with arc length (Topic 8.13) and then Units 9 and 10."
   - question: "Do I add or subtract k when the axis is y = k?"
     answer: "Neither rule works on its own. Write the distance as the larger y-value minus the smaller y-value. For the axis y = −1 and a curve above it, that is f(x) − (−1) = f(x) + 1."
   - question: "Why is the lower curve sometimes the outer radius?"
@@ -72,7 +72,7 @@ What changes is **how you measure the radii**. A radius is the distance from the
 | x = h, right of the region | horizontal, dy | x = g(y) | h − g(y) |
 | x = h, left of the region | horizontal, dy | x = g(y) | g(y) − h |
 
-**Which boundary is the outer one?** The one **farther from the axis**. If the axis is above the region, the lower curve is farther away, so the lower curve gives R. This surprises many students, and it is the most common error in this topic.
+**Which boundary is the outer one?** The one **farther from the axis**. If the axis is above the region, the lower curve is farther away, so the lower curve gives R. This surprises many students, and it is a common error in this topic.
 
 <figure>
 <svg viewBox="0 0 520 330" role="img" aria-labelledby="axis5-title axis5-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -96,7 +96,7 @@ What changes is **how you measure the radii**. A radius is the distance from the
 <g font-size="12" fill="#1d2b44" text-anchor="end">
 <text x="194" y="259">1</text><text x="194" y="116">4</text><text x="194" y="71">5</text><text x="194" y="34">y</text>
 </g>
-<line x1="268" y1="77" x2="268" y2="253" stroke="#1d2b44" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="250" y1="77" x2="250" y2="253" stroke="#1d2b44" stroke-width="1.2" stroke-dasharray="3 3"/>
 <line x1="236" y1="77" x2="236" y2="118" stroke="#1d2b44" stroke-width="1.2" stroke-dasharray="3 3"/>
 <text x="274" y="230" font-size="12" fill="#1d2b44">R = 5 − x²</text>
 <text x="204" y="102" font-size="12" fill="#1d2b44">r = 1</text>

@@ -145,7 +145,7 @@ The radius can come to you in several forms. The skill is to turn each one into 
 
 **Answer.** V = **π/6 cubic units** (about 0.524).
 
-**Check.** The largest radius is 1 (at x = 0). A cylinder of radius 1 and length 1 has volume π ≈ 3.142. The solid is a sharp spike that is thin almost everywhere, so a sixth of the cylinder is believable.
+**Check.** The largest radius is 1 (at x = 0). A cylinder of radius 1 and length 1 has volume π ≈ 3.142. The radius falls quickly, from 1 at x = 0 to 0.5 at x = 0.25 and to 0 at x = 1, so the solid is a narrowing horn and a sixth of the cylinder is believable.
 
 **Two wrong radii to avoid.** Using √x (the distance to the x-axis) gives π/2: that is the Topic 8.9 solid formed by spinning the region *under* the curve about the x-axis, not this one. Using 1 − x (as if √x were x) gives π/3. Neither is the volume of this solid.
 

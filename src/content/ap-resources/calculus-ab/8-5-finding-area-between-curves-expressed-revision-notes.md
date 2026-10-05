@@ -71,7 +71,7 @@ Notation: **∫ (c to d) [R(y) − L(y)] dy** means the definite integral of R(y
 ## Quick self-check
 
 1. Find the area enclosed by x = y² and x = 4. *(Limits y = −2 and 2; ∫ (−2 to 2) (4 − y²) dy = 32/3)*
-2. The curves x = 6 − y² and x = 2 meet where? *(6 − y² = 2, so y = ±2. The area is again 32/3: it is the same shape moved.)*
+2. The curves x = 6 − y² and x = 2 meet where? *(6 − y² = 2, so y = ±2. The area is again 32/3: it is the same shape, reflected and moved.)*
 3. Your dy integral gives −9. What went wrong? *(You subtracted left − right. The area is 9.)*
 
 Next: [practice questions](/advanced-course-resources/calculus-ab/8-5-finding-area-between-curves-expressed-practice/).

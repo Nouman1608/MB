@@ -49,7 +49,7 @@ Notation: **∫ (a to b) |f(x) − g(x)| dx** means the definite integral of the
 | f on top on [a, c], g on top on [c, b] | Area = ∫ (a to c) [f − g] dx + ∫ (c to b) [g − f] dx |
 | Any number of crossings, calculator allowed | Area = ∫ (a to b) \|f − g\| dx |
 | Net (signed) value | ∫ (a to b) [f − g] dx = (pieces with f on top) − (pieces with g on top) |
-| Sign of ∫ over a piece where the curves do not cross | Positive: f on top. Negative: g on top. |
+| Sign of ∫ [f − g] dx over a piece where the curves do not cross | Positive: f on top. Negative: g on top. |
 
 ## Assumptions behind the method
 

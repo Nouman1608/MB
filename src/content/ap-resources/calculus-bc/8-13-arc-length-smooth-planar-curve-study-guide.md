@@ -117,8 +117,8 @@ As n → ∞ the chords hug the curve and the sum becomes a definite integral.
 <text x="420" y="230" text-anchor="middle">Δx</text>
 <text x="478" y="136">Δy</text>
 <text x="388" y="118" text-anchor="end">Δs (chord)</text>
-<text x="210" y="300" text-anchor="end">curve (solid)</text>
-<text x="300" y="370">chords (dashed)</text>
+<text x="210" y="300" text-anchor="end">chords (dashed)</text>
+<text x="300" y="370">curve (solid)</text>
 </g>
 <rect x="88" y="44" width="230" height="56" fill="#ffffff" stroke="#1d2b44" stroke-width="1"/>
 <text x="203" y="66" font-size="12" fill="#1d2b44" text-anchor="middle">3 chords: total ≈ 4.647</text>
@@ -167,7 +167,7 @@ Compare three kinds of "distance" you meet in calculus:
 |---|---|---|
 | Motion along a straight line with velocity v(t) | ∫ from t₁ to t₂ of \|v(t)\| dt | 8.2 |
 | Moving along a curve y = f(x) from x = a to x = b | ∫ from a to b of √(1 + (f′(x))²) dx | 8.13 (this topic) |
-| Motion in the plane given as x(t), y(t) | ∫ of the speed √((x′(t))² + (y′(t))²) dt | 9.3 (later) |
+| Motion in the plane given as x(t), y(t) | ∫ of the speed √((x′(t))² + (y′(t))²) dt | 9.3 and 9.6 (later) |
 
 Two other quantities are easy to confuse with distance traveled. The **straight-line distance** between the end points is the chord length, and it is the shortest possible. The **vertical change** f(b) − f(a) ignores horizontal movement completely.
 
@@ -254,6 +254,6 @@ Write the integral before you press any buttons. On a free-response question, th
 
 ## Where this leads
 
-This is the last topic of Unit 8. Unit 9 (BC only) starts with [Topic 9.1, defining and differentiating parametric equations](/advanced-course-resources/calculus-bc/9-1-defining-differentiating-parametric-equations-study-guide/). In Topic 9.3 the same idea of adding short chord lengths gives the length of a parametric curve, using √((dx/dt)² + (dy/dt)²) dt, and the distance traveled by a particle moving in the plane. The previous topic was [Topic 8.12, the washer method around other axes](/advanced-course-resources/calculus-ab/8-12-volume-washer-method-revolving-around-study-guide/). Use the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap) to see the order.
+This is the last topic of Unit 8. Unit 9 (BC only) starts with [Topic 9.1, defining and differentiating parametric equations](/advanced-course-resources/calculus-bc/9-1-defining-differentiating-parametric-equations-study-guide/). In Topic 9.3 the same idea of adding short chord lengths gives the length of a parametric curve, using √((dx/dt)² + (dy/dt)²) dt, and in Topic 9.6 the integral of speed gives the distance traveled by a particle moving in the plane. The previous topic was [Topic 8.12, the washer method around other axes](/advanced-course-resources/calculus-ab/8-12-volume-washer-method-revolving-around-study-guide/). Use the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap) to see the order.
 
 Try the [practice questions](/advanced-course-resources/calculus-bc/8-13-arc-length-smooth-planar-curve-practice/) now, then use the [revision notes](/advanced-course-resources/calculus-bc/8-13-arc-length-smooth-planar-curve-revision-notes/) and the [checklist](/advanced-course-resources/calculus-bc/8-13-arc-length-smooth-planar-curve-checklist/) to consolidate.

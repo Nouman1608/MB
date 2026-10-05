@@ -96,7 +96,7 @@ and the volume is the integral of that area. Nothing new is happening: the disc 
 <text x="30" y="316" font-size="12" fill="#1d2b44">ellipse at x = 1: the disc swept out by one strip</text>
 <path d="M 440 150 A 12 22 0 1 1 440 190" fill="none" stroke="#1d2b44" stroke-width="1.5"/>
 <polygon points="440,190 448,184 436,182" fill="#1d2b44"/>
-<text x="402" y="128" font-size="12" fill="#1d2b44">spin about the x-axis</text>
+<text x="372" y="128" font-size="12" fill="#1d2b44">spin about the x-axis</text>
 </svg>
 <figcaption>Figure 1. The shaded region under y = 3x − x² (0 ≤ x ≤ 3) is spun once about the x-axis. The strip at x = 1 has length f(1) = 2, so it sweeps out a disc of radius 2 (drawn as an ellipse because the disc is seen at an angle). The dashed curve is the mirror image of the arch: together with the solid curve it outlines the football-shaped solid. Axes are unitless.</figcaption>
 </figure>

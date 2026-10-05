@@ -146,7 +146,7 @@ A response that splits at x = 2 and still reaches 64/3 earns (c) but not (d).
 
 ## Question 6 (constructed response · calculator · core)
 
-An engineer models the cross-section of a flood channel dug across flat farmland. Measured across the channel, x metres from a marker post, the ground surface is at height G(x) = 4 + sin(x/5) metres and the bottom of the channel is at height C(x) = 0.06(x − 9)² + 1 metres, both above a fixed reference level. The channel is the region between the two graphs where G(x) ≥ C(x).
+An engineer models the cross-section of a flood channel dug across gently rolling farmland. Measured across the channel, x metres from a marker post, the ground surface is at height G(x) = 4 + sin(x/5) metres and the bottom of the channel is at height C(x) = 0.06(x − 9)² + 1 metres, both above a fixed reference level. The channel is the region between the two graphs where G(x) ≥ C(x).
 
 (a) Find the x-coordinates where the channel bottom meets the ground surface.
 (b) Write an integral expression for the area of the cross-section, and find its value.

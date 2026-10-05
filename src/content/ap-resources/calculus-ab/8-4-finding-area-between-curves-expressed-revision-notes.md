@@ -72,6 +72,6 @@ Notation: **∫ (a to b) [f(x) − g(x)] dx** means the definite integral of f(x
 
 1. Find the area enclosed by y = x² and y = x. *(They meet at x = 0 and x = 1; x is on top; ∫ (0 to 1) (x − x²) dx = 1/6)*
 2. Find the area between y = 4 − x² and the x-axis. *(Limits −2 and 2; ∫ (−2 to 2) (4 − x²) dx = 32/3)*
-3. Your area integral gives −5. What went wrong? *(You subtracted bottom − top. The area is 5.)*
+3. Your area integral gives −5. What went wrong? *(With one curve on top throughout, you subtracted bottom − top. The area is 5.)*
 
 Next: [practice questions](/advanced-course-resources/calculus-ab/8-4-finding-area-between-curves-expressed-practice/).

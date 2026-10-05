@@ -112,7 +112,7 @@ The number of steps is (target x − starting x) ÷ h. To get from x = 0 to x = 
 
 So **f(1) ≈ 0.375**.
 
-**Check against the exact solution.** In Topics 7.6 and later you learn to solve some equations exactly. For this one, the solution is y = x² − 2x + 2 − e^(−x). You can confirm it with Topic 7.2: y′ = 2x − 2 + e^(−x), and x² − y = x² − x² + 2x − 2 + e^(−x) = 2x − 2 + e^(−x). ✓ Also y(0) = 2 − 1 = 1. ✓ So f(1) = 1 − e⁻¹ ≈ 0.632.
+**Check against the exact solution.** In Topics 7.6 and later you learn to solve some equations exactly. This one cannot be solved by separating the variables, so the solution is simply given here: y = x² − 2x + 2 − e^(−x). You can confirm it with Topic 7.2: y′ = 2x − 2 + e^(−x), and x² − y = x² − x² + 2x − 2 + e^(−x) = 2x − 2 + e^(−x). ✓ Also y(0) = 2 − 1 = 1. ✓ So f(1) = 1 − e⁻¹ ≈ 0.632.
 
 Both estimates are too low, but two steps did much better than one. Figure 1 shows why.
 

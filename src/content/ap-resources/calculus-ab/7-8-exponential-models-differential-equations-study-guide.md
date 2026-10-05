@@ -62,7 +62,7 @@ On paper, write e^(kt) with kt as a raised exponent.
 
 Many quantities change at a rate that depends on how much of them there is. A large population has more parents, so it gains more new members per day. A large dose of a drug is cleared faster than a small one. The common sentence is:
 
-> **The rate of change of a quantity is proportional to the size of the quantity.**
+> **A quantity changes at a rate proportional to its current size.**
 
 "Proportional to" means "equals a constant times". So if y is the quantity and t is time, the sentence becomes
 

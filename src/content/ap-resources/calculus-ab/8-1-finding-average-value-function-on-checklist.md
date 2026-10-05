@@ -49,6 +49,6 @@ Work through the list without notes. Use a calculator only where a statement say
 
 - I can tell average value apart from average rate of change, by formula, units and picture. *(Guide: comparison table, Figure 2; Practice Q6(c))*
 - I can explain why the average value of f′ equals the average rate of change of f. *(Guide: "The link"; Practice Q7(a))*
-- I can explain why (f(a) + f(b))/2 is not the average value unless f is linear. *(Guide: Worked example 1; Practice Q1, Q7(c))*
+- I can explain why (f(a) + f(b))/2 is not, in general, the average value; it is guaranteed to equal it only when f is linear. *(Guide: Worked example 1; Practice Q1, Q7(c))*
 
 All ticked? Move on to [Topic 8.2, Connecting Position, Velocity, and Acceleration of Functions Using Integrals](/advanced-course-resources/calculus-ab/8-2-connecting-position-velocity-acceleration-functions-study-guide/), or return to the [Calculus AB roadmap](/advanced-course-resources/calculus-ab/#roadmap) or the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

@@ -121,25 +121,25 @@ A function f has a continuous derivative on [0, 3], with f(0) = 1 and f(3) = 5. 
 
 ## Question 5 (calculation · core)
 
-Let f(x) = x²/2 − (1/4) ln x.
+Let f(x) = x² − (1/8) ln x.
 
-(a) Show that 1 + (f′(x))² = (x + 1/(4x))².
-(b) Find the exact length of the graph of f from x = 2 to x = 4.
+(a) Show that 1 + (f′(x))² = (2x + 1/(8x))².
+(b) Find the exact length of the graph of f from x = 1 to x = 3.
 
 <details>
 <summary>Worked solution</summary>
 
-**(a)** f′(x) = x − 1/(4x). Then (f′(x))² = x² − 2 · x · 1/(4x) + 1/(16x²) = x² − 1/2 + 1/(16x²).
-So 1 + (f′(x))² = x² + 1/2 + 1/(16x²) = (x + 1/(4x))², because (x + 1/(4x))² = x² + 1/2 + 1/(16x²). ✓
+**(a)** f′(x) = 2x − 1/(8x). Then (f′(x))² = 4x² − 2 · 2x · 1/(8x) + 1/(64x²) = 4x² − 1/2 + 1/(64x²).
+So 1 + (f′(x))² = 4x² + 1/2 + 1/(64x²) = (2x + 1/(8x))², because (2x + 1/(8x))² = 4x² + 1/2 + 1/(64x²). ✓
 
-**(b)** On [2, 4], x + 1/(4x) > 0, so √((x + 1/(4x))²) = x + 1/(4x) (no absolute value needed). f′ is continuous on [2, 4].
-L = ∫ from 2 to 4 of (x + 1/(4x)) dx = [x²/2 + (1/4) ln x] from 2 to 4 = (8 + (1/4) ln 4) − (2 + (1/4) ln 2) = **6 + (1/4) ln 2** (about 6.173).
+**(b)** On [1, 3], 2x + 1/(8x) > 0, so √((2x + 1/(8x))²) = 2x + 1/(8x) (no absolute value needed). f′ is continuous on [1, 3].
+L = ∫ from 1 to 3 of (2x + 1/(8x)) dx = [x² + (1/8) ln x] from 1 to 3 = (9 + (1/8) ln 3) − (1 + 0) = **8 + (1/8) ln 3** (about 8.137).
 
-**Check.** The end points are (2, f(2)) and (4, f(4)), with f(4) − f(2) = 6 − (1/4) ln 2 ≈ 5.827. The chord is √(2² + 5.827²) ≈ 6.160, slightly less than 6.173. ✓ The curve is close to straight here, so the two are close.
+**Check.** The end points are (1, f(1)) and (3, f(3)), with f(3) − f(1) = 8 − (1/8) ln 3 ≈ 7.863. The chord is √(2² + 7.863²) ≈ 8.113, slightly less than 8.137. ✓ The curve is close to straight here, so the two are close.
 
-Suggested mark points (3): 1 for f′(x) = x − 1/(4x); 1 for expanding (f′)² correctly and showing the perfect square; 1 for the exact length 6 + (1/4) ln 2 with both limits used.
+Suggested mark points (3): 1 for f′(x) = 2x − 1/(8x); 1 for expanding (f′)² correctly and showing the perfect square; 1 for the exact length 8 + (1/8) ln 3 with both limits used.
 
-Common error: writing 1 + (f′)² = x² + 1/(16x²) + 1, forgetting the middle term −1/2 of the square.
+Common error: writing 1 + (f′)² = 4x² + 1/(64x²) + 1, forgetting the middle term −1/2 of the square.
 </details>
 
 ## Question 6 (constructed response · core · calculator)

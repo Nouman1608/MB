@@ -110,7 +110,7 @@ Read the question carefully for the height of a rectangle. "Height equal to half
 <text x="390" y="64" font-size="12" fill="#1d2b44">(2, 4)</text>
 <text x="200" y="120" font-size="13" fill="#1d2b44">top: y = 2x (dashed)</text>
 <text x="300" y="250" font-size="13" fill="#1d2b44">bottom: y = x² (solid)</text>
-<line x1="165" y1="262" x2="190" y2="262" stroke="#1d2b44" stroke-width="1"/>
+<line x1="296" y1="242" x2="252" y2="224" stroke="#1d2b44" stroke-width="1"/>
 <text x="100" y="200" font-size="12" fill="#1d2b44">s(x) = 2x − x²</text>
 <line x1="140" y1="205" x2="154" y2="238" stroke="#1d2b44" stroke-width="1"/>
 <text x="148" y="334" font-size="12" fill="#1d2b44">Δx</text>

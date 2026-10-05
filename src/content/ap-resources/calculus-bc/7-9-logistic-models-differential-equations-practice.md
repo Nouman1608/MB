@@ -58,21 +58,21 @@ A quantity y satisfies dy/dt = 0.002y(350 − y), with y(0) = 40. What is lim y(
 
 ## Question 2 (multiple choice · core)
 
-A population P satisfies dP/dt = 0.3P − 0.0006P², with P(0) = 50. For what value of P is the population growing fastest?
+A population P satisfies dP/dt = 0.24P − 0.0004P², with P(0) = 60. For what value of P is the population growing fastest?
 
-- (A) 50
-- (B) 250
-- (C) 500
-- (D) 37.5
+- (A) 60
+- (B) 300
+- (C) 600
+- (D) 36
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** Factor: 0.3P − 0.0006P² = 0.0006P(500 − P). So a = 500 and growth is fastest at P = a/2 = 250. Since 50 < 250, the population does pass through 250.
+**Answer: (B).** Factor: 0.24P − 0.0004P² = 0.0004P(600 − P). So a = 600 and growth is fastest at P = a/2 = 300. Since 60 < 300, the population does pass through 300.
 
-- (A) assumes growth is fastest at the start. At P = 50 the curve is still concave up, so the rate is still increasing.
+- (A) assumes growth is fastest at the start. At P = 60 the curve is still concave up, so the rate is still increasing.
 - (C) is the carrying capacity, where the rate is 0.
-- (D) is the greatest **rate**, 0.0006 × 250 × 250 = 37.5 per unit time, not the value of P.
+- (D) is the greatest **rate**, 0.0004 × 300 × 300 = 36 per unit time, not the value of P.
 </details>
 
 ## Question 3 (multiple choice · core)

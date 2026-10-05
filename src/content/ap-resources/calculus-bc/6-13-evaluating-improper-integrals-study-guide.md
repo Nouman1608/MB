@@ -132,7 +132,7 @@ In each case, you replace the problem point with a letter, integrate normally, a
 
 ## Benchmarks: the p-integrals
 
-Integrals of 1/xᵖ (with p > 0) are worth knowing, because many other integrals are compared with them later in the course.
+Integrals of 1/xᵖ (with p > 0) are worth knowing, because they are quick to recognise and they return as the p-series in Unit 10.
 
 - **On [1, ∞):** ∫ from 1 to ∞ of 1/xᵖ dx converges when p > 1, with value 1/(p − 1). It diverges when p ≤ 1.
 - **On (0, 1]:** ∫ from 0 to 1 of 1/xᵖ dx converges when p < 1, with value 1/(1 − p). It diverges when p ≥ 1.

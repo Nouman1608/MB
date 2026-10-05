@@ -37,7 +37,7 @@ faqs:
   - question: "Is this page for Calculus AB or Calculus BC?"
     answer: "Both. Topic 8.4 is common content, so the same page serves AB and BC students."
   - question: "What if my answer comes out negative?"
-    answer: "You subtracted in the wrong order (bottom minus top). Check which curve is higher with a test point between the limits. The area is the positive value."
+    answer: "If one curve stays on top between your limits, you subtracted in the wrong order (bottom minus top). Check which curve is higher with a test point between the limits; the area is the positive value. If the curves cross between your limits, split the integral there (Topic 8.6)."
   - question: "Do I need to split the integral where a curve crosses the x-axis?"
     answer: "No. For the area between two curves only the difference top − bottom matters. You split only where the curves cross each other or where a boundary changes formula."
 version: "1.0"

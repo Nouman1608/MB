@@ -52,7 +52,7 @@ What is the average value of f(x) = 4x³ + 1 on the interval [0, 2]?
 **Answer: (A).** f_avg = (1/2) ∫ (0 to 2) (4x³ + 1) dx. An antiderivative is x⁴ + x, so the integral is (16 + 2) − 0 = 18. Divide by the length 2: 18/2 = 9.
 
 - (B) is the average rate of change, (f(2) − f(0))/2 = (33 − 1)/2 = 16. That uses only the end values.
-- (C) is the middle of the range, (f(0) + f(2))/2 = (1 + 33)/2 = 17. That works only for linear functions.
+- (C) is the middle of the range, (f(0) + f(2))/2 = (1 + 33)/2 = 17. That shortcut is guaranteed to work only for linear functions.
 - (D) is the integral itself. It forgets to divide by b − a = 2.
 </details>
 
@@ -192,7 +192,7 @@ A function h is differentiable, and h′ is continuous. You are told that h(2) =
 
 **(b)** Average value of h = (1/8) ∫ (2 to 10) h(x) dx = 20/8 = **5/2**.
 
-**(c)** The average of the two end values uses only two points. The average value depends on every value of h on [2, 10], through the integral. The two agree only when h is linear, and nothing says h is linear. Here the integral gives 5/2, not 3.
+**(c)** The average of the two end values uses only two points. The average value depends on every value of h on [2, 10], through the integral. The two are guaranteed to agree only when h is linear, and nothing says h is linear. Here the integral gives 5/2, not 3.
 
 **(d)** Yes. h is differentiable, so it is continuous on [2, 10]. Since h(10) = −3 < 5/2 < 9 = h(2), the Intermediate Value Theorem gives a c in (2, 10) with h(c) = 5/2.
 
@@ -200,7 +200,7 @@ A function h is differentiable, and h′ is continuous. You are told that h(2) =
 |---|---|
 | 1 | Uses ∫ (2 to 10) h′(x) dx = h(10) − h(2) to get −3/2 |
 | 1 | Average value of h is 20/8 = 5/2 |
-| 1 | Explains that the end-value average ignores the values in between (true only for linear h) |
+| 1 | Explains that the end-value average ignores the values in between (guaranteed to agree only for linear h) |
 | 1 | Continuity of h, 5/2 between h(10) and h(2), and the Intermediate Value Theorem named |
 
 Note that (a) is the average rate of change of h. Parts (a) and (b) show again that averaging h′ and averaging h are different questions.

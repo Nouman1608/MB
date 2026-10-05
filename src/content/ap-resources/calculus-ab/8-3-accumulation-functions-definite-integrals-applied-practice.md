@@ -107,7 +107,7 @@ In a harbour model, the depth of water changes at a rate D′(t) = 1.2 cos(πt/6
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (D).** Total change is ∫ (0 to 8) |D′(t)| dt ≈ 6.568 m. D′ is positive on 0 < t < 3 (the level rises about 2.292 m) and negative on 3 < t < 8 (it falls about 4.277 m). Total = 2.292 + 4.277 ≈ 6.568.
+**Answer: (D).** Total change is ∫ (0 to 8) |D′(t)| dt ≈ 6.568 m. D′ is positive on 0 < t < 3 (the level rises about 2.292 m) and negative on 3 < t < 8 (it falls about 4.277 m). Total ≈ 2.292 + 4.277 ≈ 6.568 (add the stored, unrounded values; the rounded parts sum to 6.569).
 
 - (A) is the size of the net change, |∫ (0 to 8) D′(t) dt| ≈ |−1.985|. The rise and the fall partly cancel there.
 - (B) counts only the rise from t = 0 to t = 3.

@@ -132,7 +132,7 @@ R is the region enclosed by the curves x = y² − 4y and x = 2y − y².
 
 **(c)** The integrand simplifies to 6y − 2y². ∫ (0 to 3) (6y − 2y²) dy = [3y² − 2y³/3] from 0 to 3 = 27 − 18 = **9**.
 
-**(d)** Both curves are parabolas opening sideways. The left one, x = y² − 4y, has its leftmost point at (−4, 2), and the right one, x = 2y − y², has its rightmost point at (1, 1). A vertical line meets each sideways parabola twice, so as you move across the region the top and bottom boundaries change from one branch to another. Written as functions of x, each branch needs a ± square root, and the dx area needs several pieces. Every horizontal line, by contrast, meets the left curve once and the right curve once, so one dy integral is enough.
+**(d)** Both curves are parabolas opening sideways. The left one, x = y² − 4y, has its leftmost point at (−4, 2), and the right one, x = 2y − y², has its rightmost point at (1, 1). A vertical line can meet a sideways parabola twice, so the top and bottom boundaries change as you move across the region: near x = −3.5 both come from the left curve, near x = −1 the bottom is the left curve and the top is the right curve, and near x = 0.5 both come from the right curve. Written as functions of x, each branch needs a ± square root, and the dx area needs several pieces. Every horizontal line, by contrast, meets the left curve once and the right curve once, so one dy integral is enough.
 
 | Point | What earns it |
 |---|---|

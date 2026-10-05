@@ -255,7 +255,7 @@ Some average values have no antiderivative you can write down. For example, the 
 
 - **Forgetting to divide by b − a.** ∫ (a to b) f(x) dx is the total, not the average.
 - **Mixing up average value and average rate of change.** Ask which function is being averaged. The average value of f′ is the average rate of change of f, not the average value of f.
-- **"The average value is (f(a) + f(b))/2."** That is true only for linear functions. Worked example 1 and Figure 1 both show it failing.
+- **"The average value is (f(a) + f(b))/2."** That shortcut is guaranteed only for linear functions; for other functions it can match only by coincidence. Worked example 1 and Figure 1 both show it failing.
 - **Averaging table entries.** Adding the listed values and dividing by how many there are ignores unequal gaps. Use a sum that weights each value by its width.
 - **Wrong units.** The average value has the units of f, not units of f times units of x.
 - **Using total (unsigned) area.** Regions below the axis count as negative, so the average value can be negative.
