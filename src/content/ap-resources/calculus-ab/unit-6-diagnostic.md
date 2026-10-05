@@ -37,7 +37,7 @@ author: "marlbridge-academic-team"
 
 **What this is for.** Use this diagnostic to find which topics of Unit 6, Integration and Accumulation of Change, to revisit: one question per topic. These are **original Marlbridge practice questions**, not past exam questions, with invented data. They are not calibrated, and your result is not a predicted score.
 
-**Rules.** No calculator; about 30 minutes. Answer everything before opening any answer. The unit is shared by Calculus AB and Calculus BC. **Questions 11, 12 and 13 are BC only** (Topics 6.11 to 6.13); Calculus AB students skip them.
+**Rules.** No calculator; about 30 minutes. Answer everything before opening the answers. The unit is shared by Calculus AB and Calculus BC. **Questions 11, 12 and 13 are BC only** (Topics 6.11 to 6.13); Calculus AB students skip them.
 
 ## Question 1 (multiple choice · 6.1)
 
@@ -91,18 +91,18 @@ Which is true of the right Riemann sum for ∫ (0 to 8) R(t) dt with the table's
 
 What is the value of lim (n → ∞) Σ (i = 1 to n) (2/n) · 1/(1 + 2i/n)²?
 
-- (A) 2/3
-- (B) 4/3
-- (C) −2/3
+- (A) 4/3
+- (B) −2/3
+- (C) 2/3
 - (D) ln 3
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Δx = 2/n and xᵢ = 1 + 2i/n runs from 1 to 3, so the limit is ∫ (1 to 3) 1/x² dx = [−1/x] (1 to 3) = 2/3.
+**Answer: (C).** Δx = 2/n and xᵢ = 1 + 2i/n runs from 1 to 3, so the limit is ∫ (1 to 3) 1/x² dx = [−1/x] (1 to 3) = 2/3.
 
-- (B) counts the width 2/n twice.
-- (C) has a sign slip in the antiderivative.
+- (A) counts the width 2/n twice.
+- (B) has a sign slip in the antiderivative.
 - (D) integrates 1/x, not 1/x².
 
 **If you missed this:** [Guide 6.3](/advanced-course-resources/calculus-ab/6-3-riemann-sums-summation-notation-definite-study-guide/).
@@ -112,19 +112,19 @@ What is the value of lim (n → ∞) Σ (i = 1 to n) (2/n) · 1/(1 + 2i/n)²?
 
 Let G(x) = ∫ (1 to x²) √(t² + 9) dt. What is G′(2)?
 
-- (A) 20
-- (B) 5
-- (C) 4√13
-- (D) 20 − √10
+- (A) 5
+- (B) 4√13
+- (C) 20 − √10
+- (D) 20
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** By the Fundamental Theorem and the chain rule, G′(x) = √(x⁴ + 9) · 2x, so G′(2) = 5 × 4 = 20.
+**Answer: (D).** By the Fundamental Theorem and the chain rule, G′(x) = √(x⁴ + 9) · 2x, so G′(2) = 5 × 4 = 20.
 
-- (B) leaves out the chain factor 2x.
-- (C) puts x, not x², into the integrand.
-- (D) subtracts the integrand at the constant lower limit.
+- (A) leaves out the chain factor 2x.
+- (B) puts x, not x², into the integrand.
+- (C) subtracts the integrand at the constant lower limit.
 
 **If you missed this:** [Guide 6.4](/advanced-course-resources/calculus-ab/6-4-fundamental-theorem-calculus-accumulation-functions-study-guide/).
 </details>
@@ -153,17 +153,17 @@ The graph of a continuous function f, for 0 ≤ t ≤ 6, is made of straight seg
 
 f is continuous, ∫ (0 to 5) f(x) dx = 7 and ∫ (2 to 5) f(x) dx = 10. What is ∫ (2 to 0) [f(x) + 4] dx?
 
-- (A) −5
-- (B) 5
+- (A) 5
+- (B) −5
 - (C) −1
 - (D) −25
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** ∫ (0 to 2) f(x) dx = 7 − 10 = −3, so ∫ (0 to 2) [f(x) + 4] dx = −3 + 8 = 5. Reversing the limits gives −5.
+**Answer: (B).** ∫ (0 to 2) f(x) dx = 7 − 10 = −3, so ∫ (0 to 2) [f(x) + 4] dx = −3 + 8 = 5. Reversing the limits gives −5.
 
-- (B) forgets to reverse the sign.
+- (A) forgets to reverse the sign.
 - (C) adds 4, not 4 × 2.
 - (D) adds the given integrals.
 
@@ -174,19 +174,19 @@ f is continuous, ∫ (0 to 5) f(x) dx = 7 and ∫ (2 to 5) f(x) dx = 10. What is
 
 A pump removes water from a cellar at r(t) = 12 − 3√t litres per minute, t minutes after it starts. How much water does it remove from t = 1 to t = 4?
 
-- (A) 22 litres
-- (B) 32 litres
-- (C) 50 litres
-- (D) −3 litres
+- (A) 32 litres
+- (B) −3 litres
+- (C) 22 litres
+- (D) 50 litres
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** An antiderivative is F(t) = 12t − 2t^(3/2). F(4) − F(1) = (48 − 16) − (12 − 2) = 32 − 10 = 22 litres.
+**Answer: (C).** An antiderivative is F(t) = 12t − 2t^(3/2). F(4) − F(1) = (48 − 16) − (12 − 2) = 32 − 10 = 22 litres.
 
-- (B) is F(4) only; it leaves out F(1).
-- (C) adds 36 + 14 instead of subtracting.
-- (D) is r(4) − r(1), the change in the rate.
+- (A) is F(4) only; it leaves out F(1).
+- (B) is r(4) − r(1), the change in the rate.
+- (D) uses +2t^(3/2) in the antiderivative, so it gets 36 + 14 instead of 36 − 14.
 
 **If you missed this:** [Guide 6.7](/advanced-course-resources/calculus-ab/6-7-fundamental-theorem-calculus-definite-integrals-study-guide/).
 </details>
@@ -195,19 +195,19 @@ A pump removes water from a cellar at r(t) = 12 − 3√t litres per minute, t m
 
 What is ∫ (4/√(1 − x²) − 2ˣ) dx?
 
-- (A) 4 arcsin x − 2ˣ/ln 2 + C
-- (B) 4 arcsin x − 2ˣ ln 2 + C
-- (C) 4 arctan x − 2ˣ/ln 2 + C
-- (D) 4 arcsin x − 2^(x + 1)/(x + 1) + C
+- (A) 4 arcsin x − 2ˣ ln 2 + C
+- (B) 4 arctan x − 2ˣ/ln 2 + C
+- (C) 4 arcsin x − 2^(x + 1)/(x + 1) + C
+- (D) 4 arcsin x − 2ˣ/ln 2 + C
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** d/dx arcsin x = 1/√(1 − x²) and d/dx (2ˣ/ln 2) = 2ˣ.
+**Answer: (D).** d/dx arcsin x = 1/√(1 − x²) and d/dx (2ˣ/ln 2) = 2ˣ.
 
-- (B) uses the derivative rule for 2ˣ.
-- (C) mixes up arcsin and arctan.
-- (D) uses the power rule on 2ˣ.
+- (A) uses the derivative rule for 2ˣ.
+- (B) mixes up arcsin and arctan.
+- (C) uses the power rule on 2ˣ.
 
 **If you missed this:** [Guide 6.8](/advanced-course-resources/calculus-ab/6-8-finding-antiderivatives-indefinite-integrals-basic-study-guide/).
 </details>
@@ -231,17 +231,17 @@ What is ∫ (4/√(1 − x²) − 2ˣ) dx?
 
 What is ∫ (x² + 7)/(x² + 4) dx?
 
-- (A) x + (3/2) arctan(x/2) + C
-- (B) x + 3 arctan(x/2) + C
+- (A) x + 3 arctan(x/2) + C
+- (B) x + (3/2) arctan(x/2) + C
 - (C) x + (7/2) arctan(x/2) + C
 - (D) x + (3/2) ln(x² + 4) + C
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Equal degrees, so divide first: (x² + 7)/(x² + 4) = 1 + 3/(x² + 4), and ∫ 3/(x² + 4) dx = (3/2) arctan(x/2).
+**Answer: (B).** Equal degrees, so divide first: (x² + 7)/(x² + 4) = 1 + 3/(x² + 4), and ∫ 3/(x² + 4) dx = (3/2) arctan(x/2).
 
-- (B) forgets the factor 1/2 from x² + 2².
+- (A) forgets the factor 1/2 from x² + 2².
 - (C) uses 7 as the remainder.
 - (D) uses ln, but 3 is not a multiple of 2x.
 
@@ -250,20 +250,20 @@ What is ∫ (x² + 7)/(x² + 4) dx?
 
 ## Question 11 (multiple choice · 6.11) (BC only)
 
-What is ∫ (1 to e) x ln x dx?
+What is ∫ (1 to e) x² ln x dx?
 
-- (A) (e² + 1)/4
-- (B) (e² − 1)/4
-- (C) e²/2
-- (D) e²/4
+- (A) (2e³ − 1)/9
+- (B) e³/3
+- (C) (2e³ + 1)/9
+- (D) 2e³/9
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Take u = ln x and dv = x dx. Then ∫ x ln x dx = (x²/2) ln x − ∫ x/2 dx = (x²/2) ln x − x²/4. From 1 to e: (e²/2 − e²/4) − (0 − 1/4) = (e² + 1)/4.
+**Answer: (C).** Take u = ln x and dv = x² dx, so du = (1/x) dx and v = x³/3. Then ∫ x² ln x dx = (x³/3) ln x − ∫ x²/3 dx = (x³/3) ln x − x³/9. From 1 to e: (e³/3 − e³/9) − (0 − 1/9) = (2e³ + 1)/9.
 
-- (B) has a sign slip at the lower limit.
-- (C) stops after the uv term.
+- (A) has a sign slip at the lower limit.
+- (B) stops after the uv term.
 - (D) forgets the value at the lower limit.
 
 **If you missed this:** [Guide 6.11](/advanced-course-resources/calculus-bc/6-11-integration-by-parts-study-guide/).
@@ -273,19 +273,19 @@ What is ∫ (1 to e) x ln x dx?
 
 What is ∫ (x + 7)/(x² − x − 6) dx?
 
-- (A) 2 ln|x − 3| − ln|x + 2| + C
-- (B) 2 ln|x + 2| − ln|x − 3| + C
-- (C) 2 ln|x − 3| + ln|x + 2| + C
-- (D) ln|x² − x − 6| + C
+- (A) 2 ln|x + 2| − ln|x − 3| + C
+- (B) 2 ln|x − 3| + ln|x + 2| + C
+- (C) ln|x² − x − 6| + C
+- (D) 2 ln|x − 3| − ln|x + 2| + C
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** x² − x − 6 = (x − 3)(x + 2). From x + 7 = A(x + 2) + B(x − 3): x = 3 gives A = 2, and x = −2 gives B = −1.
+**Answer: (D).** x² − x − 6 = (x − 3)(x + 2). From x + 7 = A(x + 2) + B(x − 3): x = 3 gives A = 2, and x = −2 gives B = −1.
 
-- (B) swaps the constants.
-- (C) has a sign slip in B.
-- (D) would need the top to be 2x − 1.
+- (A) swaps the constants.
+- (B) has a sign slip in B.
+- (C) would need the top to be 2x − 1.
 
 **If you missed this:** [Guide 6.12](/advanced-course-resources/calculus-bc/6-12-integrating-linear-partial-fractions-study-guide/).
 </details>
@@ -315,16 +315,16 @@ What is ∫ (e to ∞) 1/(x (ln x)²) dx?
 
 For each integral, name the technique you will use and find the integral.
 
-(a) ∫ x/(x² + 9) dx  (b) ∫ 1/(x² + 9) dx  (c) ∫ (x² + 2x)/(x² + 9) dx
+(a) ∫ 6x/(x² + 25) dx  (b) ∫ 6/(x² + 25) dx  (c) ∫ (2x² + 6x)/(x² + 25) dx
 
 <details>
 <summary>Worked answer</summary>
 
-**(a)** The top is a multiple of the bottom's derivative: **substitution**, u = x² + 9. **(1/2) ln(x² + 9) + C** (no absolute value needed, as x² + 9 > 0).
+**(a)** The top is a multiple of the bottom's derivative, 2x: **substitution**, u = x² + 25, so 6x dx = 3 du. **3 ln(x² + 25) + C** (no absolute value needed, as x² + 25 > 0).
 
-**(b)** A constant over x² + 3²: **the arctan pattern**. **(1/3) arctan(x/3) + C**.
+**(b)** A constant over x² + 5²: **the arctan pattern**. **(6/5) arctan(x/5) + C**.
 
-**(c)** Equal degrees: **long division first**, giving 1 + (2x − 9)/(x² + 9). Split the fraction: 2x/(x² + 9) by substitution, −9/(x² + 9) by arctan. **x + ln(x² + 9) − 3 arctan(x/3) + C**.
+**(c)** Equal degrees: **long division first**, giving 2 + (6x − 50)/(x² + 25). Split the fraction: 6x/(x² + 25) by substitution, −50/(x² + 25) by arctan. **2x + 3 ln(x² + 25) − 10 arctan(x/5) + C**.
 
 **If you missed this:** [Guide 6.14](/advanced-course-resources/calculus-ab/6-14-selecting-techniques-antidifferentiation-study-guide/).
 </details>
@@ -351,7 +351,7 @@ For each integral, name the technique you will use and find the integral.
 ## How to use your result
 
 - **Mark each topic** secure, shaky (unsure or a slip) or gap (wrong).
-- **Fix Topics 6.1 and 6.4 first.** Reading a rate graph as accumulated change and differentiating an accumulation function sit under most of the unit.
+- **Fix Topics 6.1 and 6.4 first.** Most of the unit builds on them.
 - **Then fix techniques in order:** 6.8, 6.9, 6.10. Topic 6.14 needs them all.
 - **Check your reasons** in Questions 5, 9 and 14, not just the values.
-- **For a gap**, read the guide, then do the topic's practice set. Then try the [Unit 6 mixed review](/advanced-course-resources/calculus-ab/unit-6-review/), where each question combines topics.
+- **For a gap**, read the guide and do the topic's practice set, then try the [Unit 6 mixed review](/advanced-course-resources/calculus-ab/unit-6-review/), where each question combines topics.

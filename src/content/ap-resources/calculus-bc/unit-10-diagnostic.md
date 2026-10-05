@@ -37,26 +37,26 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-**What this is for.** Use this diagnostic to find which topics of Unit 10, Infinite Sequences and Series, to revisit. The unit is **BC only**: it is not part of Calculus AB. There is one question per topic, and two for Topic 10.13. These are **original Marlbridge practice questions**, not past exam questions. The questions are not calibrated, and your result is not a predicted score.
+**What this is for.** This diagnostic shows which topics of Unit 10, Infinite Sequences and Series, to revisit. The unit is **BC only**: it is not part of Calculus AB. There is one question per topic, and two for Topic 10.13. These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated, and your result is not a predicted score.
 
-**Rules.** No calculator; about 30 minutes. Answer everything before opening any answer. In short answers, name each test and show its conditions hold.
+**Rules.** No calculator; about 30 minutes. Answer everything before opening any answer, and in short answers name each test and check its conditions.
 
 ## Question 1 (multiple choice · 10.1)
 
-The nth partial sum of a series Σ from n = 1 to ∞ of aₙ is Sₙ = 2 − 3/(n + 1). What is a₃, and what does the series do?
+The series Σ aₙ (n ≥ 1) has nth partial sum Sₙ = 2 − 3/(n + 1). Find a₃ and describe the series.
 
-- (A) a₃ = 1/4, and the series converges to 2.
-- (B) a₃ = 5/4, and the series converges to 2.
-- (C) a₃ = 1/4, and the series converges to 0.
-- (D) a₃ = 1/4, and the series diverges because Sₙ increases.
+- (A) a₃ = 5/4; the series converges to 2.
+- (B) a₃ = 1/4; the series converges to 0.
+- (C) a₃ = 1/4; the series converges to 2.
+- (D) a₃ = 1/4; the series diverges because Sₙ increases.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** a₃ = S₃ − S₂ = 5/4 − 1 = 1/4. The sum is lim Sₙ = 2 − 0 = 2.
+**Answer: (C).** a₃ = S₃ − S₂ = 5/4 − 1 = 1/4, and lim Sₙ = 2.
 
-- (B) gives S₃, not the third term.
-- (C) uses lim aₙ = 0, not lim Sₙ.
+- (A) gives S₃, not the third term.
+- (B) uses lim aₙ = 0, not lim Sₙ.
 - (D) Increasing partial sums can still have a limit.
 
 **If you missed this:** [Topic 10.1 study guide](/advanced-course-resources/calculus-bc/10-1-defining-convergent-divergent-infinite-series-study-guide/).
@@ -66,19 +66,19 @@ The nth partial sum of a series Σ from n = 1 to ∞ of aₙ is Sₙ = 2 − 3/(
 
 What is Σ from n = 2 to ∞ of 3(−2/5)ⁿ?
 
-- (A) 12/35
-- (B) 15/7
-- (C) −6/7
-- (D) 4/5
+- (A) 15/7
+- (B) −6/7
+- (C) 4/5
+- (D) 12/35
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** r = −2/5 and the first term (n = 2) is 3(4/25) = 12/25. Sum = (12/25)/(1 + 2/5) = 12/35.
+**Answer: (D).** r = −2/5 and the first term (n = 2) is 3(4/25) = 12/25. Sum = (12/25)/(1 + 2/5) = 12/35.
 
-- (B) starts at n = 0, so the first term is 3.
-- (C) starts at n = 1.
-- (D) uses r = +2/5 in the denominator.
+- (A) starts at n = 0.
+- (B) starts at n = 1.
+- (C) uses r = +2/5 in the denominator.
 
 **If you missed this:** [Topic 10.2 study guide](/advanced-course-resources/calculus-bc/10-2-working-geometric-series-study-guide/).
 </details>
@@ -97,7 +97,7 @@ For which series does the nth term test **prove** divergence?
 
 **Answer: (B).** arctan n → π/2 ≠ 0, so Σ arctan n diverges.
 
-- (A) and (D) diverge, but their terms tend to 0, so this test gives no conclusion.
+- (A) and (D) diverge, but their terms tend to 0, so this test is silent.
 - (C) converges; its terms also tend to 0.
 
 **If you missed this:** [Topic 10.3 study guide](/advanced-course-resources/calculus-bc/10-3-nth-term-test-divergence-study-guide/).
@@ -105,7 +105,7 @@ For which series does the nth term test **prove** divergence?
 
 ## Question 4 (multiple choice · 10.4)
 
-f(x) = 1/(x(ln x)²) is positive, continuous and decreasing for x ≥ 2, and ∫ from 2 to ∞ of f(x) dx = 1/ln 2. Which statement about Σ from n = 2 to ∞ of 1/(n(ln n)²) is true?
+For x ≥ 2, f(x) = 1/(x(ln x)²) is positive, continuous and decreasing, and ∫ from 2 to ∞ of f(x) dx = 1/ln 2. What is true of Σ from n = 2 to ∞ of f(n)?
 
 - (A) The series converges.
 - (B) The series converges, and its sum is 1/ln 2.
@@ -117,7 +117,7 @@ f(x) = 1/(x(ln x)²) is positive, continuous and decreasing for x ≥ 2, and ∫
 
 **Answer: (A).** The conditions hold and the integral converges, so the series converges.
 
-- (B) The test does not give the sum; the first 10⁵ terms already exceed 2.
+- (B) The test does not give the sum; the first three terms already exceed 1/ln 2.
 - (C) The integral only has to converge, not be 0.
 - (D) Only f has to decrease, and it does.
 
@@ -149,19 +149,19 @@ Which series converges?
 
 For the limit comparison test on Σ (n + 1)/√(n⁵ + 2), which is correct?
 
-- (A) bₙ = 1/n^(3/2); the limit is 1, so the series converges.
-- (B) bₙ = 1/n; the limit is 0, so the series diverges.
-- (C) bₙ = 1/n^(3/2); the limit is 1, so the series diverges.
-- (D) bₙ = 1/n^(5/2); the limit is ∞, so the series converges.
+- (A) bₙ = 1/n; limit 0; the series diverges.
+- (B) bₙ = 1/n^(3/2); limit 1; the series diverges.
+- (C) bₙ = 1/n^(5/2); limit ∞; the series converges.
+- (D) bₙ = 1/n^(3/2); limit 1; the series converges.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The terms behave like n/n^(5/2) = 1/n^(3/2). lim aₙ/bₙ = 1, finite and positive, and Σ 1/n^(3/2) converges.
+**Answer: (D).** The terms behave like n/n^(5/2) = 1/n^(3/2). lim aₙ/bₙ = 1, finite and positive, and Σ 1/n^(3/2) converges.
 
-- (B) A limit of 0 with a divergent benchmark decides nothing.
-- (C) Σ 1/n^(3/2) converges, so the series does too.
-- (D) A limit of ∞ with a convergent benchmark decides nothing.
+- (A) A limit of 0 with a divergent benchmark decides nothing.
+- (B) Σ 1/n^(3/2) converges, so the series does too.
+- (C) A limit of ∞ with a convergent benchmark decides nothing.
 
 **If you missed this:** [Topic 10.6 study guide](/advanced-course-resources/calculus-bc/10-6-comparison-tests-convergence-study-guide/).
 </details>
@@ -170,17 +170,17 @@ For the limit comparison test on Σ (n + 1)/√(n⁵ + 2), which is correct?
 
 Which statement about Σ from n = 2 to ∞ of (−1)ⁿ/ln n is true?
 
-- (A) It converges by the alternating series test.
-- (B) It diverges, because Σ 1/ln n diverges.
+- (A) It diverges, because Σ 1/ln n diverges.
+- (B) It converges by the alternating series test.
 - (C) The alternating series test cannot be used, because 1/ln n decreases too slowly.
 - (D) It converges absolutely, by comparison with Σ 1/n.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** 1/ln n is positive, decreasing and tends to 0, and the signs alternate.
+**Answer: (B).** 1/ln n is positive, decreasing and tends to 0, and the signs alternate.
 
-- (B) Σ |aₙ| diverging does not make the series diverge.
+- (A) Σ |aₙ| diverging does not make the series diverge.
 - (C) The test has no speed condition.
 - (D) 1/ln n > 1/n, so Σ |aₙ| diverges by direct comparison.
 
@@ -189,7 +189,7 @@ Which statement about Σ from n = 2 to ∞ of (−1)ⁿ/ln n is true?
 
 ## Question 8 (multiple choice · 10.8)
 
-The ratio test is applied to Σ 3ⁿ n!/nⁿ. Which statement is correct?
+The ratio test is applied to Σ 3ⁿ n!/(n + 1)ⁿ. Which statement is correct?
 
 - (A) L = 3/e, so the series diverges.
 - (B) L = 3/e, so the series converges.
@@ -199,11 +199,11 @@ The ratio test is applied to Σ 3ⁿ n!/nⁿ. Which statement is correct?
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** aₙ₊₁/aₙ = 3(n + 1) · nⁿ/(n + 1)ⁿ⁺¹ = 3(n/(n + 1))ⁿ. Since (n/(n + 1))ⁿ = 1/(1 + 1/n)ⁿ → 1/e, L = 3/e. As e < 3, L > 1.
+**Answer: (A).** aₙ₊₁/aₙ = 3(n + 1)(n + 1)ⁿ/(n + 2)ⁿ⁺¹ = 3((n + 1)/(n + 2))ⁿ⁺¹. With m = n + 1, this is 3/(1 + 1/m)ᵐ → 3/e. As e < 3, L > 1.
 
 - (B) treats 3/e as less than 1.
-- (C) loses the factor (n/(n + 1))ⁿ.
-- (D) treats the 1^∞ form (n/(n + 1))ⁿ as 1.
+- (C) loses the factor ((n + 1)/(n + 2))ⁿ⁺¹.
+- (D) treats that 1^∞ form as 1.
 
 **If you missed this:** [Topic 10.8 study guide](/advanced-course-resources/calculus-bc/10-8-ratio-test-convergence-study-guide/).
 </details>
@@ -215,7 +215,7 @@ Classify Σ from n = 1 to ∞ of (−1)ⁿ⁺¹ n/(n² + 9) as absolutely conver
 <details>
 <summary>Worked answer</summary>
 
-**Absolute values.** Compare Σ n/(n² + 9) with Σ 1/n: lim [n/(n² + 9)] ÷ (1/n) = lim n²/(n² + 9) = 1. Σ 1/n diverges, so by the limit comparison test **Σ |aₙ| diverges**.
+**Absolute values.** lim [n/(n² + 9)] ÷ (1/n) = lim n²/(n² + 9) = 1, and Σ 1/n diverges, so by limit comparison **Σ |aₙ| diverges**.
 
 **The series itself.** aₙ = n/(n² + 9) > 0 and aₙ → 0. With f(x) = x/(x² + 9), f′(x) = (9 − x²)/(x² + 9)² < 0 for x > 3, so the terms decrease for n ≥ 3. By the alternating series test, the series converges.
 
@@ -226,20 +226,20 @@ So the series is **conditionally convergent**.
 
 ## Question 10 (multiple choice · 10.10)
 
-S = Σ from n = 1 to ∞ of (−1)ⁿ⁺¹/n! = 1 − 1/2 + 1/6 − 1/24 + …, and S₄ = 0.625. Which interval must contain S?
+S = 1 − 1/2 + 1/6 − 1/24 + … = Σ (−1)ⁿ⁺¹/n! (n ≥ 1), and S₄ = 0.625. Which interval for S does the alternating series error bound give?
 
-- (A) 0.625 < S < 0.625 + 1/120
-- (B) 0.625 − 1/120 < S < 0.625
-- (C) 0.625 − 1/24 < S < 0.625
+- (A) 0.625 − 1/120 < S < 0.625
+- (B) 0.625 − 1/24 < S < 0.625
+- (C) 0.625 < S < 0.625 + 1/120
 - (D) 0.625 < S < 0.625 + 1/24
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The test conditions hold, so |S − S₄| < a₅ = 1/120. The first omitted term, +1/120, is positive, so S₄ is an underestimate.
+**Answer: (C).** The test conditions hold, so |S − S₄| < a₅ = 1/120. The first omitted term, +1/120, is positive, so S₄ is an underestimate.
 
-- (B) gets the direction wrong.
-- (C) and (D) use the last term kept, not the first term left out.
+- (A) gets the direction wrong.
+- (B) and (D) use the last term kept, not the first term left out. (D) is true, but it is not the bound.
 
 **If you missed this:** [Topic 10.10 study guide](/advanced-course-resources/calculus-bc/10-10-alternating-series-error-bound-study-guide/).
 </details>
@@ -248,19 +248,19 @@ S = Σ from n = 1 to ∞ of (−1)ⁿ⁺¹/n! = 1 − 1/2 + 1/6 − 1/24 + …, 
 
 What is the second-degree Taylor polynomial for f(x) = x ln x about x = 1?
 
-- (A) (x − 1) + ½(x − 1)²
-- (B) (x − 1) + (x − 1)²
-- (C) (x − 1) − ½(x − 1)²
-- (D) x + ½x²
+- (A) (x − 1) + (x − 1)²
+- (B) (x − 1) − ½(x − 1)²
+- (C) x + ½x²
+- (D) (x − 1) + ½(x − 1)²
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** f(1) = 0, f′(x) = ln x + 1 gives f′(1) = 1, and f″(x) = 1/x gives f″(1) = 1; divide by 2!.
+**Answer: (D).** f(1) = 0, f′(x) = ln x + 1 gives f′(1) = 1, and f″(x) = 1/x gives f″(1) = 1; divide by 2!.
 
-- (B) forgets to divide by 2!.
-- (C) has a sign error in f″.
-- (D) is centred at 0, not 1.
+- (A) forgets to divide by 2!.
+- (B) has a sign error in f″.
+- (C) is centred at 0, not 1.
 
 **If you missed this:** [Topic 10.11 study guide](/advanced-course-resources/calculus-bc/10-11-finding-taylor-polynomial-approximations-functions-study-guide/).
 </details>
@@ -287,19 +287,19 @@ Let f(x) = e^(−x).
 
 ## Question 13 (multiple choice · 10.13)
 
-What is the interval of convergence of Σ from n = 1 to ∞ of (x + 2)ⁿ/(n · 3ⁿ)?
+Find the interval of convergence of Σ (x + 2)ⁿ/(n · 3ⁿ), n ≥ 1.
 
-- (A) [−5, 1)
-- (B) (−5, 1]
+- (A) (−5, 1]
+- (B) [−5, 1)
 - (C) [−1, 5)
 - (D) (−5, 1)
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The ratio test gives |x + 2|/3 < 1: centre −2, R = 3. At x = 1 the series is Σ 1/n (diverges); at x = −5 it is Σ (−1)ⁿ/n (converges).
+**Answer: (B).** The ratio test gives |x + 2|/3 < 1: centre −2, R = 3. At x = 1 the series is Σ 1/n (diverges); at x = −5 it is Σ (−1)ⁿ/n (converges).
 
-- (B) swaps the endpoint results.
+- (A) swaps the endpoint results.
 - (C) uses centre +2.
 - (D) never tests the endpoints.
 
@@ -308,23 +308,23 @@ What is the interval of convergence of Σ from n = 1 to ∞ of (x + 2)ⁿ/(n · 
 
 ## Question 14 (multiple choice · 10.13)
 
-f(x) = Σ from n = 1 to ∞ of (x − 1)ⁿ/(n · 2ⁿ) has interval of convergence [−1, 3). What is the interval of convergence of the series for f′(x), found term by term?
+f(x) = Σ (x − 1)ⁿ/(n · 2ⁿ) (n ≥ 1) converges on [−1, 3). On what interval does the term-by-term series for f′(x) converge?
 
-- (A) [−1, 3)
-- (B) (−1, 3)
+- (A) (−1, 3)
+- (B) [−1, 3)
 - (C) [−1, 3]
 - (D) (−2, 2)
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** f′(x) = Σ (x − 1)ⁿ⁻¹/2ⁿ. R stays 2. At x = 3 and x = −1 the terms are ±1/2, so both endpoints fail the nth term test.
+**Answer: (A).** f′(x) = Σ (x − 1)ⁿ⁻¹/2ⁿ. R stays 2. At x = 3 and x = −1 the terms are ±1/2, so both endpoints fail the nth term test.
 
-- (A) assumes the endpoints never change.
+- (B) assumes the endpoints never change.
 - (C) gains an endpoint.
 - (D) centres the interval at 0.
 
-**If you missed this:** term-by-term calculus in the [Topic 10.13 study guide](/advanced-course-resources/calculus-bc/10-13-radius-interval-convergence-power-series-study-guide/).
+**If you missed this:** [Topic 10.13 study guide](/advanced-course-resources/calculus-bc/10-13-radius-interval-convergence-power-series-study-guide/).
 </details>
 
 ## Question 15 (multiple choice · 10.14)
@@ -353,17 +353,14 @@ What is Σ from n = 1 to ∞ of 2ⁿ/n!?
 Let f(x) = x e^(−x²).
 
 (a) Write the first four nonzero terms and the general term of the Maclaurin series for f.
-(b) Find f⁽⁵⁾(0).
-(c) Write ∫ from 0 to 1 of f(x) dx as a series. Use three terms to estimate it, and bound the error.
+(b) Write ∫ from 0 to 1 of f(x) dx as a series. Use three terms to estimate it, and bound the error.
 
 <details>
 <summary>Worked answer</summary>
 
 **(a)** Put u = −x² into eᵘ, then multiply by x: **f(x) = x − x³ + x⁵/2 − x⁷/6 + … + (−1)ⁿx²ⁿ⁺¹/n! + …**, for all x.
 
-**(b)** The coefficient of x⁵ is 1/2 = f⁽⁵⁾(0)/5!, so **f⁽⁵⁾(0) = 60**.
-
-**(c)** ∫ from 0 to 1 = Σ (−1)ⁿ/(n!(2n + 2)) = 1/2 − 1/4 + 1/12 − 1/48 + … . Three terms give **1/3**. The terms alternate, decrease and tend to 0, so the error is less than **1/48**. (The exact value is (1 − e⁻¹)/2.)
+**(b)** ∫ from 0 to 1 = Σ (−1)ⁿ/(n!(2n + 2)) = 1/2 − 1/4 + 1/12 − 1/48 + … . Three terms give **1/3**. The terms alternate, decrease and tend to 0, so the error is less than **1/48**.
 
 **If you missed this:** [Topic 10.15 study guide](/advanced-course-resources/calculus-bc/10-15-representing-functions-as-power-series-study-guide/).
 </details>
@@ -372,26 +369,26 @@ Let f(x) = x e^(−x²).
 
 | Topic | Question(s) | If you missed it, read |
 |---|---|---|
-| 10.1 Convergence | 1 | [Guide 10.1](/advanced-course-resources/calculus-bc/10-1-defining-convergent-divergent-infinite-series-study-guide/) |
-| 10.2 Geometric series | 2 | [Guide 10.2](/advanced-course-resources/calculus-bc/10-2-working-geometric-series-study-guide/) |
-| 10.3 nth term test | 3 | [Guide 10.3](/advanced-course-resources/calculus-bc/10-3-nth-term-test-divergence-study-guide/) |
-| 10.4 Integral test | 4 | [Guide 10.4](/advanced-course-resources/calculus-bc/10-4-integral-test-convergence-study-guide/) |
-| 10.5 p-series | 5 | [Guide 10.5](/advanced-course-resources/calculus-bc/10-5-harmonic-series-p-series-study-guide/) |
-| 10.6 Comparison tests | 6 | [Guide 10.6](/advanced-course-resources/calculus-bc/10-6-comparison-tests-convergence-study-guide/) |
-| 10.7 Alternating test | 7 | [Guide 10.7](/advanced-course-resources/calculus-bc/10-7-alternating-series-test-convergence-study-guide/) |
-| 10.8 Ratio test | 8 | [Guide 10.8](/advanced-course-resources/calculus-bc/10-8-ratio-test-convergence-study-guide/) |
-| 10.9 Absolute or conditional | 9 | [Guide 10.9](/advanced-course-resources/calculus-bc/10-9-determining-absolute-conditional-convergence-study-guide/) |
-| 10.10 Alternating error bound | 10 | [Guide 10.10](/advanced-course-resources/calculus-bc/10-10-alternating-series-error-bound-study-guide/) |
-| 10.11 Taylor polynomials | 11 | [Guide 10.11](/advanced-course-resources/calculus-bc/10-11-finding-taylor-polynomial-approximations-functions-study-guide/) |
-| 10.12 Lagrange error bound | 12 | [Guide 10.12](/advanced-course-resources/calculus-bc/10-12-lagrange-error-bound-study-guide/) |
-| 10.13 Interval of convergence | 13, 14 | [Guide 10.13](/advanced-course-resources/calculus-bc/10-13-radius-interval-convergence-power-series-study-guide/) |
-| 10.14 Taylor series | 15 | [Guide 10.14](/advanced-course-resources/calculus-bc/10-14-finding-taylor-maclaurin-series-function-study-guide/) |
-| 10.15 Building power series | 16 | [Guide 10.15](/advanced-course-resources/calculus-bc/10-15-representing-functions-as-power-series-study-guide/) |
+| 10.1 Convergence | 1 | [Guide](/advanced-course-resources/calculus-bc/10-1-defining-convergent-divergent-infinite-series-study-guide/) |
+| 10.2 Geometric series | 2 | [Guide](/advanced-course-resources/calculus-bc/10-2-working-geometric-series-study-guide/) |
+| 10.3 nth term test | 3 | [Guide](/advanced-course-resources/calculus-bc/10-3-nth-term-test-divergence-study-guide/) |
+| 10.4 Integral test | 4 | [Guide](/advanced-course-resources/calculus-bc/10-4-integral-test-convergence-study-guide/) |
+| 10.5 p-series | 5 | [Guide](/advanced-course-resources/calculus-bc/10-5-harmonic-series-p-series-study-guide/) |
+| 10.6 Comparison tests | 6 | [Guide](/advanced-course-resources/calculus-bc/10-6-comparison-tests-convergence-study-guide/) |
+| 10.7 Alternating test | 7 | [Guide](/advanced-course-resources/calculus-bc/10-7-alternating-series-test-convergence-study-guide/) |
+| 10.8 Ratio test | 8 | [Guide](/advanced-course-resources/calculus-bc/10-8-ratio-test-convergence-study-guide/) |
+| 10.9 Absolute or conditional | 9 | [Guide](/advanced-course-resources/calculus-bc/10-9-determining-absolute-conditional-convergence-study-guide/) |
+| 10.10 Alternating error bound | 10 | [Guide](/advanced-course-resources/calculus-bc/10-10-alternating-series-error-bound-study-guide/) |
+| 10.11 Taylor polynomials | 11 | [Guide](/advanced-course-resources/calculus-bc/10-11-finding-taylor-polynomial-approximations-functions-study-guide/) |
+| 10.12 Lagrange error bound | 12 | [Guide](/advanced-course-resources/calculus-bc/10-12-lagrange-error-bound-study-guide/) |
+| 10.13 Interval of convergence | 13, 14 | [Guide](/advanced-course-resources/calculus-bc/10-13-radius-interval-convergence-power-series-study-guide/) |
+| 10.14 Taylor series | 15 | [Guide](/advanced-course-resources/calculus-bc/10-14-finding-taylor-maclaurin-series-function-study-guide/) |
+| 10.15 Building power series | 16 | [Guide](/advanced-course-resources/calculus-bc/10-15-representing-functions-as-power-series-study-guide/) |
 
 ## How to use your result
 
-- **Mark each topic** secure, shaky (unsure or a slip) or gap (wrong).
-- **Fix gaps in Topics 10.1, 10.2 and 10.11 first.** Convergence, geometric series and the coefficient f⁽ⁿ⁾(a)/n! sit under every later topic.
-- **Check your reasoning** in Questions 9, 12 and 16: did you name each test and show its conditions?
+- **Mark each topic** secure, shaky (a slip) or gap (wrong).
+- **Fix gaps in Topics 10.1, 10.2 and 10.11 first**: later topics build on them.
+- **In Questions 9, 12 and 16**, check that you named each test and showed its conditions.
 - **For a gap**, read the guide, then do the topic's practice set.
-- **Then try the [Unit 10 mixed review](/advanced-course-resources/calculus-bc/unit-10-review/)**, where each question combines topics.
+- **Then try the [Unit 10 mixed review](/advanced-course-resources/calculus-bc/unit-10-review/)**.

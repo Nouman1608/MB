@@ -140,7 +140,7 @@ The circumference of a circular oil slick is increasing at 4π metres per minute
 - (B) differentiates πr² as πr.
 - (D) uses 4π as dr/dt instead of dC/dt.
 
-**If you missed this:** the chain rule table in the [Topic 4.4 study guide](/advanced-course-resources/calculus-ab/4-4-introduction-related-rates-study-guide/).
+**If you missed this:** the reference table for differentiating with respect to t in the [Topic 4.4 study guide](/advanced-course-resources/calculus-ab/4-4-introduction-related-rates-study-guide/).
 </details>
 
 ## Question 6 (multiple choice · 4.5)

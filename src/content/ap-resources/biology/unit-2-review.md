@@ -35,10 +35,6 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-## Before you start
-
-Do the [unit diagnostic](/advanced-course-resources/biology/unit-2-diagnostic/) first and close its gaps. Then try these questions without looking at the answers.
-
 ## Big ideas of the unit
 
 - **Organelles divide the work.** Ribosomes make proteins; the ER, Golgi and vesicles modify and ship them; lysosomes digest; mitochondria and chloroplasts handle energy ([Topic 2.1](/advanced-course-resources/biology/2-1-cell-structure-function-study-guide/)).
@@ -48,22 +44,22 @@ Do the [unit diagnostic](/advanced-course-resources/biology/unit-2-diagnostic/) 
 - **Direction decides cost.** Down a gradient is passive; against it needs a protein and ATP; bulk transport needs energy whichever way ([Topic 2.5](/advanced-course-resources/biology/2-5-membrane-transport-study-guide/)).
 - **Proteins open passive routes.** Channels, carriers and aquaporins speed movement down a gradient but cannot reverse it ([Topic 2.6](/advanced-course-resources/biology/2-6-facilitated-diffusion-study-guide/)).
 - **Water follows water potential.** Water moves from higher to lower Ψ; solutes lower Ψ, pressure raises it ([Topic 2.7](/advanced-course-resources/biology/2-7-tonicity-osmoregulation-study-guide/)).
-- **Pumps build the gradients that everything else runs down.** The Na⁺/K⁺ pump moves 3 Na⁺ out and 2 K⁺ in per ATP ([Topic 2.8](/advanced-course-resources/biology/2-8-mechanisms-transport-study-guide/)).
+- **Pumps build gradients.** The Na⁺/K⁺ pump moves 3 Na⁺ out and 2 K⁺ in per ATP ([Topic 2.8](/advanced-course-resources/biology/2-8-mechanisms-transport-study-guide/)).
 - **Compartments separate and multiply.** Internal membranes keep competing reactions apart and add working area ([Topic 2.9](/advanced-course-resources/biology/2-9-cell-compartmentalization-study-guide/)); mitochondria and chloroplasts began as engulfed prokaryotes ([Topic 2.10](/advanced-course-resources/biology/2-10-origins-cell-compartmentalization-study-guide/)).
 
 ## Key relationships and methods
 
-| Idea | Rule or method | Where it appears |
-|---|---|---|
-| SA/V | cube 6/s, sphere 3/r; folds add area, not volume | cell size, microvilli, cristae, thylakoids |
-| Route across a membrane | small nonpolar → bilayer; water → bilayer slowly, aquaporins fast; ions and large polar → channel or carrier | permeability, facilitated diffusion |
-| Energy | down gradient: none; against gradient: ATP and a protein; vesicles: energy | transport, pumps |
-| Carrier limit | maximum rate = number of carriers × rate per carrier | saturation curves |
-| Water potential | Ψ = Ψp + Ψs; Ψs = −iCRT; water moves to lower Ψ | tonicity, plant cells, osmoregulation |
-| Pump ratio | 3 Na⁺ : 2 K⁺ : 1 ATP, one net positive charge out | membrane potential |
-| Origin evidence | two membranes, own circular DNA, bacteria-like ribosomes, division, sequences | endosymbiosis |
+| Idea | Rule or method |
+|---|---|
+| SA/V | cube 6/s, sphere 3/r; folds add area, not volume |
+| Route across a membrane | small nonpolar → bilayer; water → bilayer slowly, aquaporins fast; ions and large polar → proteins |
+| Energy | down gradient: none; against gradient: ATP and a protein; vesicles: energy |
+| Carrier limit | maximum rate = number of carriers × rate per carrier |
+| Water potential | Ψ = Ψp + Ψs; Ψs = −iCRT; water moves to lower Ψ |
+| Pump ratio | 3 Na⁺ : 2 K⁺ : 1 ATP, one net positive charge out |
+| Origin evidence | two membranes, own circular DNA, bacteria-like ribosomes, division, sequences |
 
-These are **original Marlbridge practice questions**, not past exam questions. The rubrics are a **suggested Marlbridge rubric** to help you check your work; they are not official scoring guidelines. All data sets, drugs and organisms are fictional.
+These are **original Marlbridge practice questions**, not past exam questions. The rubrics are a **suggested Marlbridge rubric**, not official scoring guidelines. All data sets, drugs and organisms are fictional.
 
 ## Question 1 (multiple choice · mixed)
 
@@ -88,38 +84,38 @@ A glycoprotein is made on the rough ER, gets its sugar chains in the ER and Golg
 
 Cube-shaped cells with sides of 1 µm and 4 µm have the same cytoplasm and aquaporin density. Both are placed in the same hypotonic solution. Which statement is correct?
 
-- (A) The small cell's volume rises by a larger percentage per second at first, because it has 4 times as much membrane per µm³ (SA/V 6 against 1.5 µm⁻¹).
-- (B) The large cell's volume rises by a larger percentage per second, because it has 16 times the membrane area.
-- (C) Both change at the same percentage rate, because aquaporin density is the same.
-- (D) The small cell swells faster because it spends less ATP pumping water.
+- (A) The large cell's volume rises by a larger percentage per second, because it has 16 times the membrane area.
+- (B) Both change at the same percentage rate, because aquaporin density is the same.
+- (C) The small cell swells faster because it spends less ATP pumping water.
+- (D) The small cell's volume rises by a larger percentage per second at first, because it has 4 times as much membrane per µm³.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Small cell: SA = 6 µm², V = 1 µm³, SA/V = 6 µm⁻¹. Large cell: SA = 96 µm², V = 64 µm³, SA/V = 1.5 µm⁻¹. Each µm³ of the small cell is served by 4 times as much membrane.
+**Answer: (D).** Small cell: SA = 6 µm², V = 1 µm³, SA/V = 6 µm⁻¹. Large cell: SA = 96 µm², V = 64 µm³, SA/V = 1.5 µm⁻¹. Each µm³ of the small cell is served by 4 times as much membrane.
 
-- (B) is tempting: the large cell does take in more water in total, but it has 64 times the volume to fill.
-- (C) ignores how much volume the membrane must serve.
-- (D) is wrong because osmosis through aquaporins is passive.
+- (A) is tempting: the large cell does take in more water in total, but it has 64 times the volume to fill.
+- (B) ignores how much volume the membrane must serve.
+- (C) is wrong because osmosis through aquaporins is passive.
 </details>
 
 ## Question 3 (multiple choice · mixed)
 
-Cells are placed in 0.5 mmol L⁻¹ of an uncharged nutrient. After 30 minutes the inside concentration is 6.0 mmol L⁻¹. At higher outside concentrations, the rate of uptake levels off. With an inhibitor of ATP production, uptake falls to 3% of the control rate. Which conclusion is best supported?
+Fictional animal cells have cytoplasm equivalent to 0.30 M of solutes that cannot cross the membrane. Glycerol is small, polar and uncharged: it crosses the bilayer slowly and is not pumped. The cells are placed in a large volume of 0.30 M glycerol. Which prediction is best?
 
-- (A) Simple diffusion through the bilayer
-- (B) Facilitated diffusion through a carrier, because the rate levels off
-- (C) Active transport by a membrane protein that uses ATP
-- (D) Endocytosis, because uptake needs energy
+- (A) No net water movement ever, because both sides have the same molarity.
+- (B) Little change at first; then the cells swell and may burst as glycerol diffuses in and water follows.
+- (C) The cells shrink and stay small, because the glycerol outside draws water out of them.
+- (D) The cells swell at once, because they pump glycerol in using ATP.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** The inside reaches 12 times the outside concentration (6.0 ÷ 0.5), which passive transport cannot do, and uptake depends on ATP. Levelling off shows a limited number of proteins.
+**Answer: (B).** At first both sides hold 0.30 M of solute, so little water moves. But glycerol crosses, and none is inside, so it diffuses in down its gradient. The inside now holds its own solutes plus glycerol, so its water potential falls below the outside and water enters by osmosis. With no wall, the cell keeps swelling.
 
-- (A) would not saturate or build up above the outside level.
-- (B) is tempting because carriers saturate, but facilitated diffusion stops when inside equals outside.
-- (D) needs energy too, but small solutes are moved by proteins, not vesicles.
+- (A) is tempting, but tonicity depends on solutes that **cannot** cross; glycerol can.
+- (C) would need a solute outside that cannot enter.
+- (D) contradicts the stem: entry is passive.
 </details>
 
 ## Question 4 (constructed response · mixed)
@@ -169,13 +165,13 @@ A fictional salt-marsh plant grows in soil water equivalent to 0.20 M NaCl at 20
 
 **(a)** T = 293 K. Ψ = Ψs = −2 × 0.20 × 0.0831 × 293 = **−9.74 bar** (Ψp = 0 in open soil water).
 
-**(b)** Ψs = −2 × 0.40 × 0.0831 × 293 = −19.48 bar. Ψ = +3.0 + (−19.48) = **−16.5 bar**. This is lower than −9.74 bar, so **water moves from the soil into the cell**. (Any Ψs below −12.74 bar would still allow uptake.)
+**(b)** Ψs = −2 × 0.40 × 0.0831 × 293 = −19.48 bar. Ψ = +3.0 + (−19.48) = **−16.5 bar**. This is lower than −9.74 bar, so **water moves from the soil into the cell**.
 
 **(c)** Water entering the vacuole pushes the cell against its **wall**, which resists expansion, so pressure builds. The wall prevents osmotic lysis.
 
 **(d)** (1) High Na⁺ would interfere with cytosolic enzymes; a separate compartment keeps it away from them. (2) The stored salt **lowers the vacuole's water potential**, so the cell still draws water from salty soil.
 
-**(e)** Pumping Na⁺ **against** its gradient is active transport, so it stops. Na⁺ leaks out of the vacuole, so vacuole Ψs rises (less negative) and cytosolic Na⁺ rises. As the cell's Ψ approaches −9.74 bar, water uptake slows and may reverse.
+**(e)** Pumping Na⁺ **against** its gradient is active transport, so it stops. Na⁺ leaks back into the cytosol, so vacuole Ψs rises (less negative). As the cell's Ψ nears −9.74 bar, water uptake slows and may reverse.
 
 | Point | What earns it |
 |---|---|
@@ -192,19 +188,19 @@ Total: 7 points.
 
 ## Question 6 (constructed response · mixed)
 
-Eggs of a fictional fish have very few water channels. A researcher injects eggs with mRNA coding for a membrane protein, W, or with water (control). Days later she moves them into a hypotonic solution and measures the initial rate of volume increase (% per minute). A third group with W is first treated with compound B.
+Eggs of a fictional fish have very few water channels. A researcher injects eggs with mRNA coding for a membrane protein, W, or with water (control). Days later she moves them into a hypotonic solution and measures the initial rate of volume increase (% per minute). A third group with W is first treated with compound T, which binds to W.
 
 | Group | Egg 1 | Egg 2 | Egg 3 | Egg 4 | Egg 5 |
 |---|---|---|---|---|---|
 | Control | 0.8 | 1.1 | 0.9 | 1.2 | 1.0 |
 | W | 7.9 | 9.4 | 8.6 | 8.1 | 9.0 |
-| W + compound B | 1.4 | 1.1 | 1.6 | 1.2 | 1.2 |
+| W + compound T | 1.4 | 1.1 | 1.6 | 1.2 | 1.2 |
 
 (a) Calculate the mean and mean ± 2 SE for the control and W groups.
 (b) State a null hypothesis for these two groups and decide whether to reject it.
 (c) W is made on ribosomes from the mRNA. Describe its route to the plasma membrane, and where its nonpolar R groups sit once there.
 (d) Explain why control eggs swell slowly and W eggs swell fast.
-(e) Explain what the compound B group adds, and propose an experiment to test whether water movement through W needs ATP.
+(e) Explain what the compound T group adds, and propose an experiment to test whether water movement through W needs ATP.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
@@ -217,7 +213,7 @@ Eggs of a fictional fish have very few water channels. A researcher injects eggs
 
 **(d)** The solution has a higher water potential, so water enters by osmosis in both groups. Without channels, water crosses the bilayer only in small amounts. W behaves as an **aquaporin**: its pore lets many water molecules through, still down the gradient.
 
-**(e)** Compound B cuts the rate by about 85% (mean 1.30, close to the control), linking the fast swelling to W itself. **Test:** treat W eggs with an inhibitor of ATP production, keeping temperature, solution and egg batch the same, and measure the initial rate. If the route is passive, it stays near 8.6.
+**(e)** Compound T cuts the rate by about 85% (mean 1.30, close to the control), linking the fast swelling to W itself. **Test:** treat W eggs with an inhibitor of ATP production, keeping temperature, solution and egg batch the same, and measure the initial rate. If the route is passive, it stays near 8.6.
 
 | Point | What earns it |
 |---|---|
@@ -226,7 +222,7 @@ Eggs of a fictional fish have very few water channels. A researcher injects eggs
 | 1 | Route: rough ER → Golgi → vesicle fusing with the plasma membrane |
 | 1 | Nonpolar R groups against the fatty acid tails |
 | 1 | Slow bilayer crossing versus fast passage through a water channel, both down the gradient |
-| 1 | Compound B as evidence that W causes the effect |
+| 1 | Compound T as evidence that W causes the effect |
 | 1 | ATP-inhibitor test with a controlled variable and the predicted result |
 
 Total: 7 points.
@@ -237,8 +233,8 @@ Total: 7 points.
 A fictional spherical bacterium takes up a sugar only by facilitated diffusion. Its membrane has 150 carriers per µm², and each carrier moves at most 400 sugar molecules per second. Each µm³ of cytoplasm uses 1.5 × 10⁵ sugar molecules per second.
 
 (a) For cells of radius 1.0 µm and 2.0 µm, calculate the maximum supply and the demand. State which cell can meet its demand.
-(b) Show that the largest radius that can just meet demand is 1.2 µm.
-(c) A student says the 2.0 µm cell could meet demand by spending more ATP on its carriers. Evaluate this, and suggest two changes that would work.
+(b) Calculate the carrier density the 2.0 µm cell would need to meet its demand.
+(c) A student says the 2.0 µm cell could meet demand by spending more ATP on its carriers. Evaluate this, and suggest two other changes that would work.
 (d) Explain why real uptake is usually below the maximum supply, and why the carriers can never make the inside more concentrated than the outside.
 
 <details>
@@ -249,9 +245,9 @@ A fictional spherical bacterium takes up a sugar only by facilitated diffusion. 
 - r = 1.0 µm: SA = 12.57 µm², V = 4.19 µm³. Supply = **7.54 × 10⁵**; demand = **6.28 × 10⁵**. Supply is larger: **meets demand**.
 - r = 2.0 µm: SA = 50.27 µm², V = 33.51 µm³. Supply = **3.02 × 10⁶**; demand = **5.03 × 10⁶**. **Cannot meet demand.**
 
-**(b)** Supply = demand when SA × 6.0 × 10⁴ = V × 1.5 × 10⁵, so SA/V = 2.5 µm⁻¹. For a sphere SA/V = 3/r, so r = 3 ÷ 2.5 = **1.2 µm**.
+**(b)** Needed supply per µm² = demand ÷ SA = 5.03 × 10⁶ ÷ 50.27 = 1.0 × 10⁵ molecules s⁻¹, so carriers = 1.0 × 10⁵ ÷ 400 = **250 per µm²**, two-thirds more than now.
 
-**(c)** **Wrong.** Facilitated diffusion is passive: the carriers use no ATP. Changes: more carriers (250 per µm² would be needed); a shape with a higher SA/V, such as a thin rod; or membrane folds.
+**(c)** **Wrong.** Facilitated diffusion is passive: the carriers use no ATP. Changes (any two): a smaller cell (r ≤ 1.2 µm gives the needed SA/V of 2.5 µm⁻¹); a thin rod shape; membrane folds.
 
 **(d)** The maximum assumes every carrier is always busy, which needs a high outside concentration. Carriers only give the sugar a path, so net movement stops when inside equals outside; going higher needs active transport.
 
@@ -259,7 +255,7 @@ A fictional spherical bacterium takes up a sugar only by facilitated diffusion. 
 |---|---|
 | 1 | Supply and demand for r = 1.0 µm with the correct decision |
 | 1 | Supply and demand for r = 2.0 µm with the correct decision |
-| 1 | SA/V = 2.5 µm⁻¹ and r = 1.2 µm |
+| 1 | 250 carriers per µm² |
 | 1 | ATP rejected: facilitated diffusion is passive |
 | 1 | Two valid changes linked to supply or SA/V |
 | 1 | Saturation and the equal-concentration limit explained |
@@ -272,8 +268,8 @@ Total: 6 points.
 Add up your points (3 multiple choice, 26 constructed response). Compare only with your own next attempt; the total does not predict an exam score.
 
 - **SA/V (Questions 2, 4, 7):** rework [Topic 2.2](/advanced-course-resources/biology/2-2-cell-size-study-guide/).
-- **Water potential (Questions 5, 6):** check i, kelvin and signs in [Topic 2.7](/advanced-course-resources/biology/2-7-tonicity-osmoregulation-study-guide/).
-- **Passive or active (Questions 3, 5(e), 7(c)):** reread [Topic 2.5](/advanced-course-resources/biology/2-5-membrane-transport-study-guide/) and [Topic 2.8](/advanced-course-resources/biology/2-8-mechanisms-transport-study-guide/).
+- **Water potential and tonicity (Questions 3, 5, 6):** check i, kelvin, signs and which solutes can cross in [Topic 2.7](/advanced-course-resources/biology/2-7-tonicity-osmoregulation-study-guide/).
+- **Passive or active (Questions 5(e), 6(e), 7(c)):** reread [Topic 2.5](/advanced-course-resources/biology/2-5-membrane-transport-study-guide/) and [Topic 2.8](/advanced-course-resources/biology/2-8-mechanisms-transport-study-guide/).
 - **Quick recheck:** retake the [unit diagnostic](/advanced-course-resources/biology/unit-2-diagnostic/).
 
 Then tick off each topic checklist:

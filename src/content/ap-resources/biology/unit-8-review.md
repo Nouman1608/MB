@@ -37,17 +37,17 @@ author: "marlbridge-academic-team"
 
 ## Before you start
 
-Do the [unit diagnostic](/advanced-course-resources/biology/unit-8-diagnostic/) first and close its gaps. Then try these questions without looking at the answers.
+Do the [unit diagnostic](/advanced-course-resources/biology/unit-8-diagnostic/) first, then try these questions before opening any answer.
 
 ## Big ideas of the unit
 
-- **Responses are shaped by fitness.** Selection favours behavioural and physiological responses, and signals, that raise survival and reproduction ([Topic 8.1](/advanced-course-resources/biology/8-1-responses-environment-study-guide/)).
+- **Responses are shaped by fitness.** Selection favours responses and signals that raise survival and reproduction ([Topic 8.1](/advanced-course-resources/biology/8-1-responses-environment-study-guide/)).
 - **Energy flows; matter cycles.** About 10% of energy passes to each next level; the rest leaves as heat. Carbon, nitrogen, phosphorus and water cycle ([Topic 8.2](/advanced-course-resources/biology/8-2-energy-flow-through-ecosystems-study-guide/)).
 - **Energy budgets become births and deaths.** A net gain funds growth and reproduction; a net loss cuts births and raises deaths. Ectotherms need far less food than endotherms.
 - **Growth depends on rates and size together.** dN/dt = B − D = rN. With unlimited resources, r stays at rₘₐₓ and growth is exponential ([Topic 8.3](/advanced-course-resources/biology/8-3-population-ecology-study-guide/)).
 - **Resources set a ceiling.** The limiting resource sets K. Density-dependent factors lower the per capita rate as N rises (logistic growth); density-independent factors remove a fixed fraction ([Topic 8.4](/advanced-course-resources/biology/8-4-effect-density-on-populations-study-guide/)).
-- **Populations change each other.** Interactions move energy and matter between populations, and a change at one level can cascade down a food chain ([Topic 8.5](/advanced-course-resources/biology/8-5-community-ecology-study-guide/)).
-- **Diversity buys resilience.** More species and genetic variety give back-ups when conditions change; keystone species have effects far beyond their abundance ([Topic 8.6](/advanced-course-resources/biology/8-6-biodiversity-study-guide/)).
+- **Populations change each other.** Interactions move energy and matter, and a change at one level can cascade down a food chain ([Topic 8.5](/advanced-course-resources/biology/8-5-community-ecology-study-guide/)).
+- **Diversity buys resilience.** More species and genetic variety give back-ups; keystone species have effects far beyond their abundance ([Topic 8.6](/advanced-course-resources/biology/8-6-biodiversity-study-guide/)).
 - **Disruptions filter existing variation.** Invasions, pollution, climate change and natural events change which variants and species do well ([Topic 8.7](/advanced-course-resources/biology/8-7-disruptions-ecosystems-study-guide/)).
 
 ## Key relationships and methods
@@ -63,7 +63,7 @@ Do the [unit diagnostic](/advanced-course-resources/biology/unit-8-diagnostic/) 
 | Significance | χ² with df = categories − 1, or compare error bars | choice chambers, field surveys |
 | Prediction chain | change → first population affected → what depends on it → community later | keystones, cascades, invasions |
 
-These are **original Marlbridge practice questions**, not past exam questions. The rubrics are a **suggested Marlbridge rubric** to help you check your work; they are not official scoring guidelines. All organisms and data sets are fictional.
+These are **original Marlbridge practice questions**, not past exam questions. The rubrics are a **suggested Marlbridge rubric**, not official scoring guidelines. All organisms and data sets are fictional.
 
 ## Question 1 (multiple choice · mixed)
 
@@ -81,25 +81,25 @@ A fictional beetle has rₘₐₓ = 0.4 per year and, alone on an island, K = 50
 
 - (B) assumes only rₘₐₓ matters. The brake (K − N)/K changes when K changes.
 - (C) ignores the brake entirely: 0.4 × 200 = 80 is exponential growth.
-- (D) uses N/K (200 ÷ 300) instead of (K − N)/K. Being closer to K slows growth.
+- (D) uses N/K (200 ÷ 300) instead of (K − N)/K.
 </details>
 
 ## Question 2 (multiple choice · mixed)
 
-Phosphate limits algal growth in a fictional lake. Which event is most likely to cause the lowest dissolved oxygen in the deep water a few weeks later?
+Phosphate limits algal growth in a fictional lake. Which event is most likely to cause the lowest deep-water oxygen a few weeks later?
 
-- (A) Runoff carries phosphate fertiliser into the lake, so algae bloom, die and are broken down by aerobic decomposers.
-- (B) Extra nitrate enters the lake, so algae grow faster.
-- (C) A dry summer slows rock weathering, so less phosphate enters the lake.
+- (A) A dry summer slows rock weathering, so less phosphate enters the lake.
+- (B) Rain carries extra nitrate, but no extra phosphate, into the lake.
+- (C) Runoff carries phosphate fertiliser into the lake, so algae bloom, die and are broken down by aerobic decomposers.
 - (D) A fish that eats zooplankton is removed, so zooplankton increase and graze more algae.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Adding the limiting nutrient releases algal growth. When the bloom dies, decomposers respire and use up the oxygen: eutrophication (Topic 8.7) driven by the phosphorus cycle (Topic 8.2).
+**Answer: (C).** Adding the limiting nutrient releases algal growth. When the bloom dies, decomposers respire and use up the oxygen: eutrophication (Topic 8.7) driven by the phosphorus cycle (Topic 8.2).
 
+- (A) would **reduce** algal growth.
 - (B) adds a nutrient that is not limiting, so it has little effect.
-- (C) would **reduce** algal growth.
 - (D) is a trophic cascade (Topic 8.5) that lowers algae, so less dead matter reaches decomposers.
 </details>
 
@@ -107,19 +107,19 @@ Phosphate limits algal growth in a fictional lake. Which event is most likely to
 
 A fictional songbird starts laying when spring day length passes a set value, and feeds its chicks on caterpillars. After a run of warm springs, the caterpillar peak comes 12 days earlier, but the birds still lay on the same date. Which prediction is best supported?
 
-- (A) Chicks hatch after the food peak, so fewer fledge and dN/dt falls; females that happen to lay earlier will be favoured.
+- (A) dN/dt will rise, because there will be more caterpillars in total.
 - (B) The birds will start laying earlier within one season because they need to.
 - (C) The bird population will be unaffected, because adults can still eat caterpillars.
-- (D) dN/dt will rise, because there will be more caterpillars in total.
+- (D) Chicks hatch after the food peak, so fewer fledge and dN/dt falls; females that happen to lay earlier will be favoured.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The response to day length (Topic 8.1) no longer matches the food supply. Less energy reaches the chicks (Topic 8.2), so fewer survive, B falls and dN/dt falls (Topic 8.3). If laying date varies heritably, selection favours early layers (Topic 8.7).
+**Answer: (D).** The response to day length (Topic 8.1) no longer matches the food supply. Less energy reaches the chicks (Topic 8.2), so fewer survive, B falls and dN/dt falls (Topic 8.3). If laying date varies heritably, selection favours early layers (Topic 8.7).
 
+- (A) confuses the timing of the peak with its size.
 - (B) assumes change happens because it is needed. Selection acts on existing variation.
 - (C) ignores the chicks, which need the most energy.
-- (D) confuses the timing of the peak with its size.
 </details>
 
 ## Question 4 (constructed response · mixed)
@@ -128,8 +128,8 @@ In a fictional pond, phytoplankton make 60 000 kJ of net production a year. Zoop
 
 (a) Use the 10% rule to calculate the zooplankton production and the fish's carrying capacity.
 (b) Calculate dN/dt and the per capita growth rate when there are 120 fish.
-(c) Volcanic ash cuts phytoplankton production by 40%. Calculate the new K and the new dN/dt at 120 fish.
-(d) Use a calculation to describe what would happen to 240 fish after the ash fall.
+(c) A storm washes silt into the pond. The cloudy water cuts phytoplankton production by 40% for a year. Calculate the new K and the new dN/dt at 120 fish.
+(d) Use a calculation to describe what would happen to 240 fish after the storm.
 (e) Explain, in terms of energy, why K fell, and name the type of factor that slows the fish population.
 
 <details>
@@ -143,7 +143,7 @@ In a fictional pond, phytoplankton make 60 000 kJ of net production a year. Zoop
 
 **(d)** dN/dt = 0.5 × 240 × (180 − 240) ÷ 180 = **−40 fish per year**. Above K, deaths exceed births, so N falls towards 180.
 
-**(e)** Less light means less photosynthesis, so less energy enters the chain; with 10% passed on, zooplankton fall by the same proportion, so fewer fish can each get 20 kJ. Food competition among the fish is **density-dependent**: the more fish, the less each one gets.
+**(e)** Cloudy water means less light and photosynthesis, so less energy enters the chain; with 10% passed on, zooplankton fall by the same proportion, so fewer fish can each get 20 kJ. Food competition among the fish is **density-dependent**: the more fish, the less each one gets.
 
 | Point | What earns it |
 |---|---|
@@ -182,9 +182,9 @@ Insects eat 35% of X's leaf area in its native range. In the meadow they eat 4% 
 
 **(b)** X escaped from its enemies: insects eat 35% of its leaves at home but only 4% here, against 22% of native leaves. With more leaf area for photosynthesis, X gains more energy, grows faster and outcompetes the natives for light and space.
 
-**(c)** **Before.** Six fairly even species with different drought responses meant tolerant species could keep production going (functional redundancy). Now 70% of plants are one species: if X is drought-sensitive, most cover is lost at once, with few back-ups.
+**(c)** **Before.** Six fairly even species with different drought responses meant tolerant ones could keep production going (functional redundancy). Now 70% of plants are X: if X is drought-sensitive, most cover is lost at once.
 
-**(d)** Remove X from half of several similar plots, chosen at random; disturb the soil of the controls in the same way. After a few years, compare richness and Simpson's index as means ± 2 SE. Support: higher values in removal plots, with non-overlapping error bars.
+**(d)** Remove X from randomly chosen plots; disturb the soil of similar control plots in the same way. After a few years, compare richness and Simpson's index as means ± 2 SE. Support: higher values in removal plots, with non-overlapping error bars.
 
 | Point | What earns it |
 |---|---|
@@ -224,11 +224,11 @@ In a separate trial, 33 of 60 tadpoles survived 3 days with the native predator,
 - Native: χ² = (48 − 30)² ÷ 30 + (12 − 30)² ÷ 30 = 10.8 + 10.8 = **21.6**. 21.6 > 3.84: **reject** the null. The tadpoles hide.
 - Introduced: χ² = (35 − 30)² ÷ 30 + (25 − 30)² ÷ 30 = **1.67**. 1.67 < 3.84: **fail to reject**. No evidence that they respond.
 
-**(b)** It is the control: it tests for a preference unrelated to predators (χ² = 0.6, none found).
+**(b)** It is the control: it tests for a side preference unrelated to predators (χ² = 0.6, none found).
 
-**(c)** Hiding lowers the chance of being eaten, so more tadpoles survive to reproduce. If the response is heritable, selection favours it.
+**(c)** Hiding lowers the chance of being eaten, so more tadpoles survive to reproduce.
 
-**(d)** Tadpoles do not respond to the introduced predator's chemicals, so they stay in the open. Survival is 20% against 55%. More deaths (higher D) lower dN/dt. Prey that do not recognise a new predator help an introduced species harm natives.
+**(d)** Tadpoles do not respond to the introduced predator's chemicals, so they stay in the open. Survival is 20% against 55%. More deaths (higher D) lower dN/dt.
 
 | Point | What earns it |
 |---|---|
@@ -260,11 +260,11 @@ A fictional lizard must bask before it is warm enough to forage. In a cool year,
 
 **(a)** **Cool:** dN/dt = 120 − 140 = **−20 lizards per year**; r = −20 ÷ 400 = **−0.05 per year**. **Warm:** dN/dt = 220 − 100 = **+120 lizards per year**; r = 120 ÷ 400 = **0.30 per year**.
 
-**(b)** A lizard's body temperature follows its surroundings, so it can only hunt when warm. In the warm year it foraged 75% longer and had a net energy gain, which went into eggs, so births rose. Fewer starved, so deaths fell.
+**(b)** A lizard's body temperature follows its surroundings, so it hunts only when warm. In the warm year it foraged 75% longer and had a net energy gain, which went into eggs, so births rose.
 
-**(c)** The vole is an endotherm: its metabolism keeps it warm, so it can forage in cool air. Making that heat costs a lot of energy, so it needs much more food, especially in the cold.
+**(c)** The vole is an endotherm: its metabolism keeps it warm, so it can forage in cool air. Making that heat costs a lot of energy, so it needs much more food.
 
-**(d)** Foraging falls by about 57% from the warm year, so less energy means fewer births and more deaths: dN/dt is likely to turn negative. Lizards that shelter at midday and forage in the cooler morning and evening keep more foraging time. If this behaviour or heat tolerance varies heritably, selection favours it.
+**(d)** Foraging falls by about 57% from the warm year, so less energy means fewer births and more deaths: dN/dt is likely to turn negative. Lizards that shelter at midday and forage in cooler mornings and evenings keep more foraging time. If this behaviour or heat tolerance varies heritably, selection favours it.
 
 | Point | What earns it |
 |---|---|
@@ -280,11 +280,11 @@ Total: 6 points.
 
 ## How did you do?
 
-Add up your points: 3 for multiple choice and 24 for constructed response. Use the total only to compare with your next attempt; it does not predict an exam score.
+Add up your points: 3 for multiple choice and 24 for constructed response. Use the total only to compare attempts; it does not predict an exam score.
 
 - **Lost points on growth equations (Questions 1, 4, 7(a)):** rework the worked examples of [Topic 8.3](/advanced-course-resources/biology/8-3-population-ecology-study-guide/) and [Topic 8.4](/advanced-course-resources/biology/8-4-effect-density-on-populations-study-guide/).
 - **Lost points on energy (Questions 4(e), 7(b)–(c)):** reread [Topic 8.2](/advanced-course-resources/biology/8-2-energy-flow-through-ecosystems-study-guide/).
-- **Lost points on communities and invasions (Questions 2, 5, 6):** reread [Topic 8.5](/advanced-course-resources/biology/8-5-community-ecology-study-guide/), [Topic 8.6](/advanced-course-resources/biology/8-6-biodiversity-study-guide/) and [Topic 8.7](/advanced-course-resources/biology/8-7-disruptions-ecosystems-study-guide/).
+- **Lost points on communities and invasions (Questions 2, 5, 6):** read [Topic 8.5](/advanced-course-resources/biology/8-5-community-ecology-study-guide/), [Topic 8.6](/advanced-course-resources/biology/8-6-biodiversity-study-guide/) and [Topic 8.7](/advanced-course-resources/biology/8-7-disruptions-ecosystems-study-guide/).
 - **Quick recheck:** retake the [unit diagnostic](/advanced-course-resources/biology/unit-8-diagnostic/).
 
 Then tick off each topic checklist:

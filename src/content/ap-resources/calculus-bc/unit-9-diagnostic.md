@@ -36,7 +36,7 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-**BC only.** Unit 9, Parametric Equations, Polar Coordinates, and Vector-Valued Functions, is part of Calculus BC only. Calculus AB students do not need this page.
+**BC only.** Unit 9 is part of Calculus BC only. Calculus AB students do not need this page.
 
 **What this is for.** Use this diagnostic to find which Unit 9 topics to revisit. There is one question per topic, and two for Topics 9.6 and 9.9. These are **original Marlbridge practice questions**, not past exam questions. The questions are not calibrated, and your result is not a predicted score.
 
@@ -67,18 +67,18 @@ A curve is given by x = 3t − t³ and y = 2t² + 1 for t > 0. At which point do
 
 A curve is given by x = t³ and y = t² for t > 0. Which gives d²y/dx² at t = 1 and the concavity there?
 
-- (A) −2/9; concave down
-- (B) −2/3; concave down
-- (C) 1/3; concave up
+- (A) −2/3; concave down
+- (B) 1/3; concave up
+- (C) −2/9; concave down
 - (D) 2/9; concave up
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** dy/dx = 2t/(3t²) = 2/(3t). Differentiate with respect to t: −2/(3t²). Then divide by dx/dt = 3t²: d²y/dx² = −2/(9t⁴), which is −2/9 at t = 1. Negative, so concave down. (Check: y = x^(2/3), and its second derivative at x = 1 is −2/9.)
+**Answer: (C).** dy/dx = 2t/(3t²) = 2/(3t). Differentiate with respect to t: −2/(3t²). Then divide by dx/dt = 3t²: d²y/dx² = −2/(9t⁴), which is −2/9 at t = 1. Negative, so concave down. (Check: y = x^(2/3), and its second derivative at x = 1 is −2/9.)
 
-- (B) stops after differentiating dy/dx with respect to t and forgets to divide by dx/dt.
-- (C) divides y″(t) by x″(t), which is not the method.
+- (A) stops after differentiating dy/dx with respect to t and forgets to divide by dx/dt.
+- (B) divides y″(t) by x″(t), which is not the method.
 - (D) loses the minus sign from differentiating 2/(3t).
 
 **If you missed this:** "Deriving the correct method" in the [Topic 9.2 study guide](/advanced-course-resources/calculus-bc/9-2-second-derivatives-parametric-equations-study-guide/).
@@ -88,19 +88,19 @@ A curve is given by x = t³ and y = t² for t > 0. Which gives d²y/dx² at t = 
 
 What is the length of the curve x = t², y = (2/3)t³ for 0 ≤ t ≤ √3?
 
-- (A) 14/3
-- (B) 16/3
-- (C) 7/3
-- (D) √21
+- (A) 16/3
+- (B) 7/3
+- (C) √21
+- (D) 14/3
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** (dx/dt)² + (dy/dt)² = 4t² + 4t⁴ = 4t²(1 + t²), so the integrand is 2t√(1 + t²) for t ≥ 0. With u = 1 + t², the length is (2/3)(1 + t²)^(3/2) from 0 to √3, which is (2/3)(8 − 1) = 14/3, about 4.67.
+**Answer: (D).** (dx/dt)² + (dy/dt)² = 4t² + 4t⁴ = 4t²(1 + t²), so the integrand is 2t√(1 + t²) for t ≥ 0. With u = 1 + t², the length is (2/3)(1 + t²)^(3/2) from 0 to √3, which is (2/3)(8 − 1) = 14/3.
 
-- (B) forgets to subtract the value at the lower limit.
-- (C) loses the factor 2 when taking the square root of 4t².
-- (D) is the straight-line distance from (0, 0) to (3, 2√3). The curve is longer than the chord.
+- (A) forgets to subtract the value at the lower limit.
+- (B) loses the factor 2 when taking the square root of 4t².
+- (C) is the straight-line distance from (0, 0) to (3, 2√3). The curve is longer than the chord.
 
 **If you missed this:** Worked example 1 in the [Topic 9.3 study guide](/advanced-course-resources/calculus-bc/9-3-finding-arc-lengths-curves-given-study-guide/).
 </details>
@@ -130,18 +130,18 @@ A point moves with position r(t) = ⟨t e^(−t), t² − 4t⟩. At t = 3, which
 
 A particle has velocity v(t) = ⟨2t, π cos(πt/2)⟩. At t = 1 it is at ⟨4, −2⟩. Where is it at t = 2?
 
-- (A) ⟨7, −4⟩
-- (B) ⟨8, −2⟩
-- (C) ⟨3, −2⟩
+- (A) ⟨8, −2⟩
+- (B) ⟨3, −2⟩
+- (C) ⟨7, −4⟩
 - (D) ⟨7, −2 − π⟩
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Use r(2) = r(1) + ∫ from 1 to 2 of v(t) dt, one component at a time. x: 4 + [t²] from 1 to 2 = 4 + 3 = 7. y: −2 + [2 sin(πt/2)] from 1 to 2 = −2 + (0 − 2) = −4.
+**Answer: (C).** Use r(2) = r(1) + ∫ from 1 to 2 of v(t) dt, one component at a time. x: 4 + [t²] from 1 to 2 = 4 + 3 = 7. y: −2 + [2 sin(πt/2)] from 1 to 2 = −2 + (0 − 2) = −4.
 
-- (B) treats ⟨4, −2⟩ as the position at t = 0.
-- (C) is the displacement from t = 1 to t = 2, not the position.
+- (A) treats ⟨4, −2⟩ as the position at t = 0.
+- (B) is the displacement from t = 1 to t = 2, not the position.
 - (D) drops the chain-rule factor: the antiderivative of π cos(πt/2) is 2 sin(πt/2), not π sin(πt/2).
 
 **If you missed this:** Worked example 1 in the [Topic 9.5 study guide](/advanced-course-resources/calculus-bc/9-5-integrating-vector-valued-functions-study-guide/).
@@ -151,17 +151,17 @@ A particle has velocity v(t) = ⟨2t, π cos(πt/2)⟩. At t = 1 it is at ⟨4, 
 
 A particle has velocity v(t) = ⟨4 − t², 2t⟩. What is its speed at t = 1, and is the speed increasing or decreasing then?
 
-- (A) √13; decreasing
-- (B) √13; increasing
+- (A) √13; increasing
+- (B) √13; decreasing
 - (C) 5; increasing
 - (D) 13; decreasing
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** v(1) = ⟨3, 2⟩, so the speed is √(9 + 4) = √13. a(t) = ⟨−2t, 2⟩, so a(1) = ⟨−2, 2⟩. The product v · a = 3(−2) + 2(2) = −2 < 0, so the speed is decreasing. (Check: speed² = t⁴ − 4t² + 16 has derivative 4t³ − 8t = −4 at t = 1.)
+**Answer: (B).** v(1) = ⟨3, 2⟩, so the speed is √(9 + 4) = √13. a(t) = ⟨−2t, 2⟩, so a(1) = ⟨−2, 2⟩. The product v · a = 3(−2) + 2(2) = −2 < 0, so the speed is decreasing.
 
-- (B) assumes the speed rises because both velocity components are positive.
+- (A) assumes the speed rises because both velocity components are positive.
 - (C) adds the components instead of using Pythagoras.
 - (D) is the square of the speed.
 
@@ -192,59 +192,59 @@ A particle moves in the plane for 0 ≤ t ≤ 4 with velocity v(t) = ⟨t² − 
 
 What is the slope of the tangent line to the spiral r = θ at θ = π/2?
 
-- (A) −2/π
-- (B) 1
-- (C) −π/2
-- (D) Undefined, because the ray θ = π/2 is vertical
+- (A) 1
+- (B) −π/2
+- (C) Undefined, because the ray θ = π/2 is vertical
+- (D) −2/π
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Write x = θ cos θ and y = θ sin θ. By the product rule, dx/dθ = cos θ − θ sin θ = −π/2 and dy/dθ = sin θ + θ cos θ = 1 at θ = π/2. So dy/dx = 1/(−π/2) = −2/π.
+**Answer: (D).** Write x = θ cos θ and y = θ sin θ. By the product rule, dx/dθ = cos θ − θ sin θ = −π/2 and dy/dθ = sin θ + θ cos θ = 1 at θ = π/2. So dy/dx = 1/(−π/2) = −2/π.
 
-- (B) is dr/dθ, the rate of change of the distance from the pole, not the slope.
-- (C) divides dx/dθ by dy/dθ.
-- (D) confuses the direction of the ray with the direction of the curve.
+- (A) is dr/dθ, the rate of change of the distance from the pole, not the slope.
+- (B) divides dx/dθ by dy/dθ.
+- (C) confuses the direction of the ray with the direction of the curve.
 
 **If you missed this:** "Three derivatives, three meanings" in the [Topic 9.7 study guide](/advanced-course-resources/calculus-bc/9-7-defining-polar-coordinates-differentiating-polar-study-guide/).
 </details>
 
 ## Question 9 (multiple choice · 9.8)
 
-The rose r = 2 cos 3θ has three petals. What is the area of one petal?
+The polar curve r = 2 cos θ + 2 sin θ is a circle through the pole. What area does it enclose?
 
-- (A) π/3
-- (B) 2/3
-- (C) π
-- (D) 2π
+- (A) 2π
+- (B) 4π
+- (C) 2√2
+- (D) π + 2
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** r = 0 at θ = ±π/6, so the petal on the positive x-axis is traced once for −π/6 ≤ θ ≤ π/6. Area = ½ ∫ from −π/6 to π/6 of 4 cos² 3θ dθ = ∫ from −π/6 to π/6 of (1 + cos 6θ) dθ = π/3.
+**Answer: (A).** r = 0 when tan θ = −1, at θ = −π/4 and θ = 3π/4, and r > 0 between them. So the circle is traced once for −π/4 ≤ θ ≤ 3π/4. Since r² = 4(1 + sin 2θ), Area = ½ ∫ from −π/4 to 3π/4 of 4(1 + sin 2θ) dθ = 2[θ − ½ cos 2θ] from −π/4 to 3π/4 = 2π. (Check: x² + y² = 2x + 2y is a circle of radius √2.)
 
-- (B) forgets to square r.
-- (C) is the area of all three petals.
-- (D) integrates from 0 to 2π. This rose is traced twice on that interval, so every petal is counted twice.
+- (B) integrates from 0 to 2π. The circle is traced twice on that interval.
+- (C) forgets to square r.
+- (D) integrates from 0 to π/2 only, which misses part of the circle.
 
 **If you missed this:** "Choosing the limits: trace the region once" in the [Topic 9.8 study guide](/advanced-course-resources/calculus-bc/9-8-finding-area-polar-region-area-study-guide/).
 </details>
 
 ## Question 10 (multiple choice · 9.9)
 
-What is the area of the region inside the circle r = 3 cos θ and outside the cardioid r = 1 + cos θ?
+What is the area of the region inside the circle r = 5 sin θ and outside the limaçon r = 2 + sin θ?
 
-- (A) π
-- (B) π/2
-- (C) 2π
-- (D) π − 3√3/2
+- (A) 4π/3 + √3/2
+- (B) 8π/3 + √3
+- (C) 16π/3 + 2√3
+- (D) 4π − 6√3
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The curves meet where 3 cos θ = 1 + cos θ, so cos θ = 1/2 and θ = ±π/3. At θ = 0 the circle (r = 3) is outside the cardioid (r = 2). Area = ½ ∫ from −π/3 to π/3 of [9 cos²θ − (1 + cos θ)²] dθ = ½ ∫ from −π/3 to π/3 of (3 + 4 cos 2θ − 2 cos θ) dθ = ½(2π) = π.
+**Answer: (B).** The curves meet where 5 sin θ = 2 + sin θ, so sin θ = ½ and θ = π/6 or 5π/6. At θ = π/2 the circle (r = 5) is outside the limaçon (r = 3). Area = ½ ∫ from π/6 to 5π/6 of [25 sin²θ − (2 + sin θ)²] dθ = ½ ∫ from π/6 to 5π/6 of (8 − 12 cos 2θ − 4 sin θ) dθ = ½(16π/3 + 6√3 − 4√3) = 8π/3 + √3.
 
-- (B) uses only 0 to π/3, which is half the region.
+- (A) uses only π/6 to π/2, which is half the region.
 - (C) leaves out the ½.
 - (D) squares the difference of the radii, (R − r)², instead of using R² − r².
 
@@ -253,7 +253,7 @@ What is the area of the region inside the circle r = 3 cos θ and outside the ca
 
 ## Question 11 (short answer · 9.9)
 
-Let R be the region inside the circle r = 3 and outside the cardioid r = 3 − 3 cos θ.
+Let R be the region inside the circle r = 3 and outside the cardioid r = 2 − 2 cos θ.
 
 (a) Find the values of θ, for −π ≤ θ ≤ π, where the curves meet.
 (b) Show which curve is farther from the pole between these angles.
@@ -262,11 +262,11 @@ Let R be the region inside the circle r = 3 and outside the cardioid r = 3 − 3
 <details>
 <summary>Worked answer</summary>
 
-**(a)** 3 = 3 − 3 cos θ gives cos θ = 0, so **θ = −π/2 and θ = π/2**, the points (0, −3) and (0, 3).
+**(a)** 2 − 2 cos θ = 3 gives cos θ = −½, so **θ = −2π/3 and θ = 2π/3**, the points (−3/2, ±3√3/2).
 
-**(b)** Test θ = 0: the circle has r = 3 and the cardioid has r = 0. So the **circle is outer** for −π/2 < θ < π/2. (For other θ, cos θ < 0 and the cardioid is outside the circle, so R has no points there.)
+**(b)** Test θ = 0: the circle has r = 3 and the cardioid has r = 0. So the **circle is outer** for −2π/3 < θ < 2π/3. (For other θ the cardioid has r > 3, so R has no points there.)
 
-**(c)** Area = ½ ∫ from −π/2 to π/2 of [9 − (3 − 3 cos θ)²] dθ = (9/2) ∫ from −π/2 to π/2 of (2 cos θ − cos²θ) dθ = (9/2)(4 − π/2) = **18 − 9π/4** (about 10.93).
+**(c)** Area = ½ ∫ from −2π/3 to 2π/3 of [9 − (2 − 2 cos θ)²] dθ = ½ ∫ from −2π/3 to 2π/3 of (3 + 8 cos θ − 2 cos 2θ) dθ = ½(4π + 8√3 + √3) = **2π + 9√3/2** (about 14.08).
 
 **If you missed this:** Steps 1–3 and Worked example 1 in the [Topic 9.9 study guide](/advanced-course-resources/calculus-bc/9-9-finding-area-region-bounded-two-study-guide/).
 </details>

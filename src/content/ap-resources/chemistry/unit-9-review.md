@@ -37,7 +37,7 @@ author: "marlbridge-academic-team"
 
 ## How to use this review
 
-Use this page after the [Unit 9 diagnostic](/advanced-course-resources/chemistry/unit-9-diagnostic/) and the topics it flagged. Answer all seven questions on paper before opening any answer; each combines two or more topics.
+Use this page after the [Unit 9 diagnostic](/advanced-course-resources/chemistry/unit-9-diagnostic/) and the topics it flagged. Answer all seven on paper before opening any answer; each combines two or more topics.
 
 These are **original Marlbridge practice questions**, not past exam questions. Anything labelled "invented" is fictional. Each rubric is a **suggested Marlbridge rubric**, not official scoring, and your total gives no predicted score.
 
@@ -53,7 +53,7 @@ These are **original Marlbridge practice questions**, not past exam questions. A
 - **Dissolving is a ΔG° question too.** Three particle-level factors partly cancel, so K_sp is hard to predict ([Topic 9.6](/advanced-course-resources/chemistry/9-6-free-energy-dissolution-study-guide/)).
 - **Unfavourable changes need a push:** outside energy, or a coupled reaction sharing a common intermediate ([Topic 9.7](/advanced-course-resources/chemistry/9-7-coupled-reactions-study-guide/)).
 - **Cells turn ΔG° into a voltage.** Galvanic cells run favoured reactions; electrolytic cells need a power supply; ΔG° = −nFE° ([Topics 9.8](/advanced-course-resources/chemistry/9-8-galvanic-voltaic-electrolytic-cells-study-guide/) and [9.9](/advanced-course-resources/chemistry/9-9-cell-potential-free-energy-study-guide/)).
-- **E tracks distance from equilibrium** and is zero at Q = K; charge counts the electrons, and so the amounts that react ([Topics 9.10](/advanced-course-resources/chemistry/9-10-cell-potential-under-nonstandard-conditions-study-guide/) and [9.11](/advanced-course-resources/chemistry/9-11-electrolysis-faradays-law-study-guide/)).
+- **E tracks distance from equilibrium** (E = 0 at Q = K); charge counts electrons, so amounts reacting ([Topics 9.10](/advanced-course-resources/chemistry/9-10-cell-potential-under-nonstandard-conditions-study-guide/) and [9.11](/advanced-course-resources/chemistry/9-11-electrolysis-faradays-law-study-guide/)).
 
 ## Key relationships and methods
 
@@ -75,55 +75,55 @@ These are **original Marlbridge practice questions**, not past exam questions. A
 
 For an invented reaction, ΔH° = +32.0 kJ mol⁻¹ and ΔS° = +95.0 J K⁻¹ mol⁻¹. Assume both are constant. What is K at 350 K?
 
-- (A) 1.54
+- (A) 0.226
 - (B) 0.651
-- (C) 0.226
+- (C) 1.54
 - (D) 1.00
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** ΔG° = 32.0 − 350(0.0950) = −1.25 kJ mol⁻¹, so K = e^(−ΔG°/RT) = e^(1250 ÷ (8.314 × 350)) = e^0.430 = **1.54**. ΔG° is small next to RT, so K is near 1.
+**Answer: (C).** ΔG° = 32.0 − 350(0.0950) = −1.25 kJ mol⁻¹, so K = e^(−ΔG°/RT) = e^(1250 ÷ (8.314 × 350)) = e^0.430 = **1.54**. ΔG° is small next to RT, so K is near 1.
 
+- (A) uses 298 K.
 - (B) drops the minus sign in the exponent.
-- (C) uses 298 K.
 - (D) K = 1 only at the changeover, 32 000 ÷ 95.0 = 337 K.
 </details>
 
 ## Question 2 (multiple choice · mixed)
 
-A galvanic cell has a nickel strip in 1 M Ni(NO₃)₂ and a copper strip in 1 M Cu(NO₃)₂. It delivers a steady 0.200 A for 2.00 hours. Which row is correct?
+A galvanic cell has a nickel strip in 1 M Ni(NO₃)₂ and a copper strip in 1 M Cu(NO₃)₂. It delivers a steady 0.200 A for 2.00 hours. Which row is correct for the copper strip?
 
-- (A) Copper strip gains 0.474 g; ΔG° = −114 kJ mol⁻¹
-- (B) Copper strip gains 0.948 g; ΔG° = −114 kJ mol⁻¹
-- (C) Copper strip loses 0.474 g; ΔG° = +114 kJ mol⁻¹
-- (D) Copper strip gains 0.474 g; ΔG° = −56.9 kJ mol⁻¹
+- (A) Gains 0.474 g; ΔG° = −56.9 kJ mol⁻¹
+- (B) Gains 0.948 g; ΔG° = −114 kJ mol⁻¹
+- (C) Loses 0.474 g; ΔG° = +114 kJ mol⁻¹
+- (D) Gains 0.474 g; ΔG° = −114 kJ mol⁻¹
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Cu²⁺/Cu is higher, so copper is the cathode. E° = 0.34 − (−0.25) = 0.59 V and ΔG° = −(2)(96,485)(0.59) = −114 kJ mol⁻¹. Faraday: q = 0.200 × 7200 = 1440 C, n(e⁻) = 0.01492 mol, n(Cu) = 0.007462 mol, mass gained = 0.474 g.
+**Answer: (D).** Cu²⁺/Cu is higher, so copper is the cathode. E° = 0.34 − (−0.25) = 0.59 V and ΔG° = −(2)(96,485)(0.59) = −114 kJ mol⁻¹. Faraday: q = 0.200 × 7200 = 1440 C, n(e⁻) = 0.01492 mol, n(Cu) = 0.007462 mol, mass gained = 0.474 g.
 
+- (A) uses n = 1 in ΔG° = −nFE°.
 - (B) uses one electron per Cu.
-- (C) makes copper the anode; a galvanic cell runs its favoured reaction (ΔG° < 0).
-- (D) uses n = 1 in ΔG° = −nFE°.
+- (C) makes copper the anode; a galvanic cell runs its favoured reaction.
 </details>
 
 ## Question 3 (multiple choice · mixed)
 
 An invented galvanic cell has E° = +0.020 V and n = 2 at 298 K. It is set up with Q = 10. Which statement is correct?
 
-- (A) K is about 4.7. Because Q > K, E is negative and the net reaction runs in reverse.
-- (B) K is about 4.7. Because Q > 1, E is positive but a little smaller than E°.
+- (A) K is about 4.7. Because Q > 1, E is positive but a little smaller than E°.
+- (B) K is about 4.7. Because Q > K, E is negative and the net reaction runs in reverse.
 - (C) K is about 2.2, and E is positive because E° is positive.
 - (D) K equals 1, because E° is so close to zero, so E = 0.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** E° = (RT/nF) ln K, so ln K = 2(0.020) ÷ 0.0257 = 1.56 and K = 4.7. Q = 10 is past equilibrium, so the cell runs backwards: E = 0.020 − (0.0257/2) ln 10 = −0.0096 V.
+**Answer: (B).** E° = (RT/nF) ln K, so ln K = 2(0.020) ÷ 0.0257 = 1.56 and K = 4.7. Q = 10 is past equilibrium, so the cell runs backwards: E = 0.020 − (0.0257/2) ln 10 = −0.0096 V.
 
-- (B) compares Q only with 1; once Q passes K, E changes sign.
+- (A) compares Q only with 1; once Q passes K, E changes sign.
 - (C) uses n = 1 and ignores Q.
 - (D) A small E° gives K close to 1, not equal to 1.
 </details>
@@ -150,13 +150,13 @@ S° at 298 K (J K⁻¹ mol⁻¹): D·2H₂O(s) 180.0; D(s) 95.0; H₂O(g) 188.8.
 
 **(b)** ΔS° = 95.0 + 2(188.8) − 180.0 = **+292.6 J K⁻¹ mol⁻¹**.
 
-**(c)** ΔG° = 110.0 − 298(0.2926) = **+22.8 kJ mol⁻¹**. K = e^(−22 810 ÷ 2477.6) = e^(−9.21) = **1.0 × 10⁻⁴**: far below 1, so the hydrate is strongly favoured and very little water vapour forms at 298 K.
+**(c)** ΔG° = 110.0 − 298(0.2926) = **+22.8 kJ mol⁻¹**. K = e^(−22 810 ÷ 2477.6) = e^(−9.21) = **1.0 × 10⁻⁴**: far below 1 (reactant-favoured): very little water vapour forms at 298 K.
 
 **(d)** Both terms are positive, so it is favoured at high T: T = 110 000 ÷ 292.6 = **376 K** (about 103 °C).
 
 **(e)** **Wrong.** Kinetic control means a favoured process (ΔG° < 0) that is too slow to see. Here ΔG° > 0: the hydrate is stable for thermodynamic reasons, and a catalyst would not make it lose water.
 
-**(f)** Add the dehydration to **twice** the drying reaction. The 2H₂O(g) made in the first is used in the second, so **water vapour is the common intermediate**:
+**(f)** Add the dehydration to **twice** the drying reaction. The 2H₂O(g) made is used up, so **water vapour is the common intermediate**:
 D·2H₂O(s) + 2Z(s) → D(s) + 2Z·H₂O(s)
 ΔG° = +22.8 + 2(−30.0) = **−37.2 kJ mol⁻¹** < 0, so favoured.
 
@@ -209,12 +209,12 @@ Cobalt: 0.004198 ÷ 2 = 0.002099 mol × 58.93 = **0.124 g lost**.
 | 1 | (c) 0.124 g lost by cobalt, using 2 electrons per Co |
 | 1 | (d) E > E°, because Q < 1 puts the cell further from equilibrium |
 
-**Total: 7 points.** In (d), a Le Châtelier argument does not earn the point: a working cell is not at equilibrium.
+**Total: 7 points.** No point in (d) for a Le Châtelier argument: a working cell is not at equilibrium.
 </details>
 
 ## Question 6 (constructed response · mixed)
 
-An invented 1 : 1 salt MY dissolves endothermically: MY(s) ⇌ M⁺(aq) + Y⁻(aq). K_sp = 5.09 × 10⁻³ at 298 K and 2.17 × 10⁻² at 348 K.
+An invented 1:1 salt MY dissolves endothermically: MY(s) ⇌ M⁺(aq) + Y⁻(aq). K_sp = 5.09 × 10⁻³ at 298 K and 2.17 × 10⁻² at 348 K.
 
 (a) Calculate ΔG° of dissolution at each temperature.
 (b) Assume ΔH° and ΔS° are constant. Calculate both. Predict whether MY is more or less soluble at 5 °C.
@@ -233,7 +233,7 @@ An invented 1 : 1 salt MY dissolves endothermically: MY(s) ⇌ M⁺(aq) + Y⁻(a
 Subtract: 2.0 = 50ΔS°, so ΔS° = 0.040 kJ K⁻¹ mol⁻¹ = **+40 J K⁻¹ mol⁻¹**. Then ΔH° = 13.1 + 298(0.040) = **+25.0 kJ mol⁻¹**.
 At 278 K (5 °C), ΔG° = 25.0 − 278(0.040) = +13.9 kJ mol⁻¹, larger than at 298 K, so K_sp is smaller (about 2.5 × 10⁻³): MY is **less soluble**.
 
-**(c)** **ΔH° > 0:** separating the ions and breaking some water–water attractions needs more energy than the new ion–water attractions release. **ΔS° > 0 but modest:** ions leaving the lattice gain entropy, partly cancelled by water molecules being ordered around the ions.
+**(c)** **ΔH° > 0:** separating the ions and breaking some water–water attractions needs more energy than the new ion–water attractions release. **ΔS° > 0 but modest:** ions leaving the lattice gain entropy, partly cancelled by water ordering around the ions.
 
 **(d)** **Only partly right.** ΔG° > 0 means K_sp < 1: the ions cannot reach 1 M. But K_sp is not zero: [M⁺] = [Y⁻] = √(5.09 × 10⁻³) = **0.071 M** at equilibrium. MY is slightly soluble, not insoluble.
 
@@ -252,11 +252,11 @@ At 278 K (5 °C), ΔG° = 25.0 − 278(0.040) = +13.9 kJ mol⁻¹, larger than a
 
 ## Question 7 (constructed response · mixed)
 
-A key is nickel-plated from NiSO₄(aq) with an **inert** platinum anode. Nickel deposits on the key and oxygen forms at the platinum; assume all the current goes to these two reactions.
+A steel hinge is nickel-plated from NiSO₄(aq) with an **inert** platinum anode. Nickel deposits on the hinge and oxygen forms at the platinum; assume all the current goes to these two reactions.
 
 (a) Write the half-reaction at each electrode and the overall equation. Explain why the cell needs a power supply.
 (b) Calculate E° and ΔG° for the overall reaction. State the smallest voltage the supply must provide under standard conditions.
-(c) A current of 2.50 A flows for 30.0 minutes. Calculate the mass of nickel deposited and the volume of oxygen at 298 K and 1.00 atm.
+(c) A current of 2.50 A flows for 25.0 minutes. Calculate the mass of nickel deposited and the volume of oxygen at 298 K and 1.00 atm.
 (d) The platinum anode is replaced by a nickel bar. Predict, with a reason, how the smallest voltage needed changes, and what happens to the bar's mass.
 
 <details>
@@ -264,15 +264,15 @@ A key is nickel-plated from NiSO₄(aq) with an **inert** platinum anode. Nickel
 
 **(a)** Cathode: Ni²⁺(aq) + 2e⁻ → Ni(s). Anode: 2H₂O(l) → O₂(g) + 4H⁺(aq) + 4e⁻.
 Overall (4 electrons): **2Ni²⁺(aq) + 2H₂O(l) → 2Ni(s) + O₂(g) + 4H⁺(aq)**.
-The reverse reaction (nickel with oxygen and acid) is the favoured one, so this direction is unfavoured: electrical energy from the supply drives it.
+This direction is unfavoured (the reverse is favoured), so electrical energy from the supply must drive it.
 
 **(b)** E° = −0.25 − 1.23 = **−1.48 V**. ΔG° = −(4)(96,485)(−1.48) = **+571 kJ mol⁻¹**. The supply must provide **more than 1.48 V**.
 
-**(c)** q = 2.50 × 1800 = 4500 C; n(e⁻) = 0.04664 mol.
-Ni: 0.04664 ÷ 2 = 0.02332 mol × 58.69 = **1.37 g**.
-O₂: 0.04664 ÷ 4 = 0.01166 mol; V = nRT/P = 0.01166 × 0.08206 × 298 ÷ 1.00 = **0.285 L** (285 mL).
+**(c)** q = 2.50 × 1500 = 3750 C; n(e⁻) = 0.03887 mol.
+Ni: 0.03887 ÷ 2 = 0.01943 mol × 58.69 = **1.14 g**.
+O₂: 0.03887 ÷ 4 = 0.009717 mol; V = nRT/P = 0.009717 × 0.08206 × 298 ÷ 1.00 = **0.238 L** (238 mL).
 
-**(d)** Now nickel is oxidised at the anode, Ni(s) → Ni²⁺(aq) + 2e⁻. The overall change just moves nickel from bar to key, so E° = 0 and **almost no voltage** is needed (a little drives the current). The anode **loses mass**: 1.37 g for the same charge, equal to the mass gained by the key.
+**(d)** Now nickel is oxidised at the anode, Ni(s) → Ni²⁺(aq) + 2e⁻. The overall change just moves nickel from bar to hinge, so E° = 0 and **almost no voltage** is needed (a little drives the current). The anode **loses mass**: 1.14 g, the mass the hinge gains.
 
 | Point | What earns it |
 |---|---|
@@ -280,34 +280,22 @@ O₂: 0.04664 ÷ 4 = 0.01166 mol; V = nRT/P = 0.01166 × 0.08206 × 298 ÷ 1.00 
 | 1 | (a) Unfavoured reaction driven by electrical energy |
 | 1 | (b) −1.48 V with E°(cathode) − E°(anode) |
 | 1 | (b) +571 kJ mol⁻¹ with n = 4, and a minimum of 1.48 V |
-| 1 | (c) 1.37 g of nickel |
-| 1 | (c) 0.285 L of O₂, using 4 electrons per O₂ |
+| 1 | (c) 1.14 g of nickel |
+| 1 | (c) 0.238 L of O₂, using 4 electrons per O₂ |
 | 1 | (d) Nickel oxidised at the anode, so E° = 0 and almost no voltage is needed |
-| 1 | (d) Anode loses 1.37 g, matching the key's gain |
+| 1 | (d) Anode loses 1.14 g, matching the hinge's gain |
 
 **Total: 8 points.**
 </details>
 
 ## How did you do?
 
-Total: 33 points (3 multiple choice, 30 constructed response). Where you lost points matters more.
+Total: 33 points (3 multiple choice, 30 constructed response). Where you lost points matters most.
 
 - **ΔS° (4(a)–(b), 6(c)):** revisit Topics 9.1 and 9.2.
 - **ΔG°, K and temperature (1, 4(c)–(d), 6(a)–(b)):** revisit Topics 9.3 and 9.5.
 - **Kinetic control (4(e)), dissolving (6) or coupling (4(f), 7(a)):** revisit Topics 9.4, 9.6 and 9.7.
-- **Cells, E° and Faraday's law (2, 3, 5, 7):** revisit Topics 9.8 to 9.11.
+- **Cells, E° and Faraday's law (2, 3, 5, 7):** revisit Topics 9.8–9.11.
 - **Explanations marked down:** name the quantity (ΔH°, ΔS°, ΔG°, Q or E), its sign and which way it pushes.
 
-If several topics were weak, return to the [Unit 9 diagnostic](/advanced-course-resources/chemistry/unit-9-diagnostic/), then tick off each topic checklist:
-
-- [Topic 9.1 checklist](/advanced-course-resources/chemistry/9-1-introduction-entropy-checklist/)
-- [Topic 9.2 checklist](/advanced-course-resources/chemistry/9-2-absolute-entropy-entropy-change-checklist/)
-- [Topic 9.3 checklist](/advanced-course-resources/chemistry/9-3-gibbs-free-energy-thermodynamic-favorability-checklist/)
-- [Topic 9.4 checklist](/advanced-course-resources/chemistry/9-4-thermodynamic-kinetic-control-checklist/)
-- [Topic 9.5 checklist](/advanced-course-resources/chemistry/9-5-free-energy-equilibrium-checklist/)
-- [Topic 9.6 checklist](/advanced-course-resources/chemistry/9-6-free-energy-dissolution-checklist/)
-- [Topic 9.7 checklist](/advanced-course-resources/chemistry/9-7-coupled-reactions-checklist/)
-- [Topic 9.8 checklist](/advanced-course-resources/chemistry/9-8-galvanic-voltaic-electrolytic-cells-checklist/)
-- [Topic 9.9 checklist](/advanced-course-resources/chemistry/9-9-cell-potential-free-energy-checklist/)
-- [Topic 9.10 checklist](/advanced-course-resources/chemistry/9-10-cell-potential-under-nonstandard-conditions-checklist/)
-- [Topic 9.11 checklist](/advanced-course-resources/chemistry/9-11-electrolysis-faradays-law-checklist/)
+If several topics were weak, return to the [Unit 9 diagnostic](/advanced-course-resources/chemistry/unit-9-diagnostic/), then tick off each topic checklist: [9.1](/advanced-course-resources/chemistry/9-1-introduction-entropy-checklist/), [9.2](/advanced-course-resources/chemistry/9-2-absolute-entropy-entropy-change-checklist/), [9.3](/advanced-course-resources/chemistry/9-3-gibbs-free-energy-thermodynamic-favorability-checklist/), [9.4](/advanced-course-resources/chemistry/9-4-thermodynamic-kinetic-control-checklist/), [9.5](/advanced-course-resources/chemistry/9-5-free-energy-equilibrium-checklist/), [9.6](/advanced-course-resources/chemistry/9-6-free-energy-dissolution-checklist/), [9.7](/advanced-course-resources/chemistry/9-7-coupled-reactions-checklist/), [9.8](/advanced-course-resources/chemistry/9-8-galvanic-voltaic-electrolytic-cells-checklist/), [9.9](/advanced-course-resources/chemistry/9-9-cell-potential-free-energy-checklist/), [9.10](/advanced-course-resources/chemistry/9-10-cell-potential-under-nonstandard-conditions-checklist/), [9.11](/advanced-course-resources/chemistry/9-11-electrolysis-faradays-law-checklist/).

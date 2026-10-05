@@ -69,19 +69,19 @@ These are **original Marlbridge practice questions**, not past exam questions. T
 
 A plant is heterozygous (Aa) for one gene. There is no crossing over between gene A and the centromere. At which stage of meiosis are allele A and allele a first pulled to opposite poles of the cell?
 
-- (A) Prophase I
-- (B) Anaphase I
-- (C) Anaphase II
-- (D) S phase, before meiosis begins
+- (A) S phase, before meiosis begins
+- (B) Prophase I
+- (C) Anaphase I
+- (D) Anaphase II
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** A and a sit on the two homologues of one pair. With no crossover near the gene, both chromatids of one homologue carry A and both of the other carry a. Homologues separate in anaphase I: that is Mendel's segregation.
+**Answer: (C).** A and a sit on the two homologues of one pair. With no crossover near the gene, both chromatids of one homologue carry A and both of the other carry a. Homologues separate in anaphase I: that is Mendel's segregation.
 
-- (A) is when homologues pair up and may cross over; they are still together.
-- (C) separates sister chromatids, which carry the **same** allele here (unless a crossover had swapped them).
-- (D) copies each allele; it does not separate A from a.
+- (A) copies each allele; it does not separate A from a.
+- (B) is when homologues pair up and may cross over; they are still together.
+- (D) separates sister chromatids, which carry the **same** allele here.
 </details>
 
 ## Question 2 (multiple choice · mixed)
@@ -98,28 +98,28 @@ In a hypothetical flower, colour alleles Cᴿ (red) and Cᵂ (white) show incomp
 
 **Answer: (B).** Colour: CᴿCᵂ × CᴿCᵂ gives 1/4 red, 1/2 pink, 1/4 white. Height: Tt × Tt gives 1/4 dwarf. The genes are unlinked, so multiply: 1/2 × 1/4 = 1/8.
 
-- (A) treats pink as 1/4, as if it were a homozygous class.
+- (A) uses 1/4 for pink, as for a homozygous class.
 - (C) uses 3/4 for pink, as if the colour alleles showed complete dominance.
 - (D) is pink and **tall** (1/2 × 3/4).
 </details>
 
 ## Question 3 (multiple choice · mixed)
 
-In a hypothetical mammal, XXY individuals develop as males. An X-linked recessive allele Xᵈ gives pale eyes. A dark-eyed carrier female (XᴰXᵈ) and a dark-eyed male (XᴰY) have a pale-eyed son with the chromosomes XᵈXᵈY. Assume no crossing over between the gene and the centromere. Which explanation fits?
+In a hypothetical mammal, XXY individuals develop as males. An X-linked recessive allele Xᵈ gives pale eyes. A pale-eyed female (XᵈXᵈ) and a dark-eyed male (XᴰY) have a dark-eyed son with the chromosomes XᴰXᵈY. Which explanation fits?
 
-- (A) Nondisjunction of the X and Y in the father at meiosis I
-- (B) Nondisjunction of sister chromatids in the mother at meiosis II
-- (C) Nondisjunction of the two X chromosomes in the mother at meiosis I
-- (D) Crossing over between the X and the Y in the father
+- (A) Crossing over between the X and the Y in the father
+- (B) Nondisjunction of the two X chromosomes in the mother at meiosis I
+- (C) Nondisjunction of sister chromatids in the father at meiosis II
+- (D) Nondisjunction of the X and Y in the father at meiosis I
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** The son has no Xᴰ, so the father gave only his Y. Both Xs came from the mother and both carry Xᵈ. Her two homologues differ, so the two Xᵈ copies must be sister chromatids that failed to separate in meiosis II.
+**Answer: (D).** The mother has no Xᴰ, so the son's Xᴰ came from the father, and so did his Y. One sperm carrying both X and Y means the father's X and Y, which pair as homologues, went to the same pole in anaphase I. The egg was a normal Xᵈ.
 
-- (A) would give a sperm with Xᴰ and Y, and the son would have dark eyes.
-- (C) would put both her homologues, XᴰXᵈ, in the egg, so the son would have dark eyes.
-- (D) does not change the number of chromosomes, and the father has no Xᵈ to pass on.
+- (A) does not change chromosome number, so it cannot add a chromosome.
+- (B) would give an XᵈXᵈ egg; with a Y sperm the son would be XᵈXᵈY and pale-eyed.
+- (C) separates sister chromatids, so it gives XᴰXᴰ or YY sperm, never one with both X and Y.
 </details>
 
 ## Question 4 (constructed response · mixed)
@@ -142,7 +142,7 @@ A fictional insect has 2n = 4. Gene D is on chromosome pair 1 and gene E is on c
 | End of meiosis I | 2 | 4 | 2.4 |
 | End of meiosis II | 2 | 2 | 1.2 |
 
-**(b)** **DE, De, dE and de**, each 1/4. At metaphase I each pair can face either way, independently of the other pair, and both orientations are equally likely.
+**(b)** **DE, De, dE and de**, each 1/4. At metaphase I each pair faces either way with equal chance, independently of the other pair.
 
 **(c)** Dd × Dd: P(dominant D) = 3/4. Ee × Ee: P(ee) = 1/4. Product rule: 3/4 × 1/4 = **3/16**.
 
@@ -213,11 +213,11 @@ In a hypothetical plant, purple flowers (P) are dominant to white (p). P codes f
 
 **(a)** Expected: 400 × 3/4 = 300 purple, 100 white. χ² = (289 − 300)² ÷ 300 + (111 − 100)² ÷ 100 = 0.403 + 1.210 = **1.61**. Degrees of freedom = 1; critical value 3.84. Since 1.61 < 3.84, **fail to reject**: the data fit one gene with P dominant.
 
-**(b)** Same cross, so the same genotypes: **100 PP, 200 Pp, 100 pp**. Yet every plant is white. A likely explanation: the P enzyme is inactive at 32 °C (for example, it denatures), so no pigment is made whatever the genotype. The environment changed the phenotype, not the alleles.
+**(b)** Same cross, so the same genotypes: **100 PP, 200 Pp, 100 pp**. Yet every plant is white. Likely explanation: the P enzyme is inactive at 32 °C (for example, it denatures), so no pigment forms in any genotype. The environment changed the phenotype, not the alleles.
 
 **(c)** **3/4**. Moving plants does not change genotypes. PP and Pp plants make working enzyme at 20 °C, so their new flowers are purple; pp plants stay white.
 
-**(d)** Cross the plant with pp and grow the offspring at **20 °C**. All purple → **PP**; about half white → **Pp**. At 32 °C every offspring would be white, so the test would show nothing.
+**(d)** Cross the plant with pp and grow the offspring at **20 °C**. All purple → **PP**; about half white → **Pp**. At 32 °C every offspring would be white, hiding the genotypes.
 
 | Point | What earns it |
 |---|---|
@@ -247,7 +247,7 @@ In a fictional mammal, a muscle weakness is caused by a mitochondrial DNA mutati
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Mean = (15 + 30 + 42 + 55 + 70 + 38 + 22 + 48) ÷ 8 = 320 ÷ 8 = **40%**. Range **15% to 70%**. Two offspring (55% and 70%) are above 50%: 2 ÷ 8 × 100 = **25%** show weakness.
+**(a)** Mean = (15 + 30 + 42 + 55 + 70 + 38 + 22 + 48) ÷ 8 = 320 ÷ 8 = **40%**. Range = 70 − 15 = **55** percentage points. Two offspring (55% and 70%) are above 50%: 2 ÷ 8 × 100 = **25%** show weakness.
 
 **(b)** Mitochondria are shared out **at random** when cells divide, including the divisions that make eggs. Different eggs get different proportions of faulty mitochondria: the mean matches the mother's 40%, but individuals vary.
 
@@ -255,11 +255,11 @@ In a fictional mammal, a muscle weakness is caused by a mitochondrial DNA mutati
 
 **(d)** **Not supported.** A father gives his X to **every** daughter, so with an X-linked dominant allele all 3 daughters in Family 1 would be affected. None is.
 
-**(e)** Mendelian ratios need two alleles per gene, one from each parent, that segregate in meiosis. Mitochondrial genes come from the mother only, in many copies, and are not sorted by segregation, so there is no fixed ratio.
+**(e)** Mendelian ratios need two alleles per gene, one from each parent, that segregate in meiosis. Mitochondrial genes come only from the mother, in many randomly shared copies, so there is no fixed ratio.
 
 | Point | What earns it |
 |---|---|
-| 1 | Mean 40%, range 15–70% and 25% affected |
+| 1 | Mean 40%, range 55 percentage points and 25% affected |
 | 1 | Random sharing of mitochondria into eggs explains the variation |
 | 1 | Mitochondria come from the egg, not the sperm |
 | 1 | X-linked dominant rejected because the daughters of an affected father are unaffected |

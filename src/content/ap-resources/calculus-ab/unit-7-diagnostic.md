@@ -139,7 +139,7 @@ Let y = f(x) be the solution of dy/dx = x + 2y with f(1) = 0. Using Euler's meth
 
 - (A) is one step of size 1, the tangent line at x = 1.
 - (B) works out the second slope at (1.5, 0), using the old y-value instead of the new one.
-- (D) adds the slopes without multiplying each by the step size 0.5.
+- (D) forgets to multiply each slope by the step size 0.5: 0 + 1 = 1, then 1 + 3.5 = 4.5.
 
 **If you missed this:** "The procedure" in the [Topic 7.5 study guide](/advanced-course-resources/calculus-bc/7-5-approximating-solutions-eulers-method-study-guide/).
 </details>

@@ -35,9 +35,9 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-**BC only.** Unit 9, Parametric Equations, Polar Coordinates, and Vector-Valued Functions, is part of Calculus BC only; Calculus AB students do not need this page.
+**BC only.** Unit 9 is part of Calculus BC only; Calculus AB students do not need this page.
 
-Use this page after Unit 9 or the [Unit 9 diagnostic](/advanced-course-resources/calculus-bc/unit-9-diagnostic/). These are **original Marlbridge practice questions**, not past exam questions, with invented contexts and data. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not official scoring. A calculator is allowed for Question 5 only. Angles are in radians.
+Use this page after Unit 9 or the [Unit 9 diagnostic](/advanced-course-resources/calculus-bc/unit-9-diagnostic/). These are **original Marlbridge practice questions**, not past exam questions. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not official scoring. A calculator is allowed for Question 5 only. Angles are in radians.
 
 ## Big ideas of the unit
 
@@ -90,21 +90,21 @@ Topics: 9.1, 9.2.
 
 ## Question 2 (multiple choice · mixed)
 
-A particle moves with position r(t) = ⟨eᵗ cos t, eᵗ sin t⟩ for 0 ≤ t ≤ π/2. Which gives the distance it travels and the length of its displacement vector?
+A particle moves with position r(t) = ⟨½e^(2t) − t, 2eᵗ⟩ for 0 ≤ t ≤ ln 3. Which gives the distance it travels and the length of its displacement vector?
 
-- (A) Distance √2(e^(π/2) − 1); displacement length √(1 + e^π)
-- (B) Distance √2 e^(π/2); displacement length √(1 + e^π)
-- (C) Distance e^(π/2) − 1; displacement length √(1 + e^π)
-- (D) Distance √(1 + e^π); displacement length √2(e^(π/2) − 1)
+- (A) Distance 9/2 + ln 3; displacement length √((4 − ln 3)² + 16)
+- (B) Distance √((4 − ln 3)² + 16); displacement length 4 + ln 3
+- (C) Distance 8 − ln 3; displacement length √((4 − ln 3)² + 16)
+- (D) Distance 4 + ln 3; displacement length √((4 − ln 3)² + 16)
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** x′ = eᵗ(cos t − sin t) and y′ = eᵗ(sin t + cos t). Squaring and adding gives 2e^(2t), so the speed is √2 eᵗ and the distance is √2(e^(π/2) − 1), about 5.389. The particle starts at (1, 0) and ends at (0, e^(π/2)), so the displacement has length √(1 + e^π), about 4.913.
+**Answer: (D).** x′ = e^(2t) − 1 and y′ = 2eᵗ. Squaring and adding gives e^(4t) + 2e^(2t) + 1 = (e^(2t) + 1)², so the speed is e^(2t) + 1. The distance is [½e^(2t) + t] from 0 to ln 3 = (9/2 + ln 3) − ½ = 4 + ln 3, about 5.099. The particle starts at (½, 2) and ends at (9/2 − ln 3, 6), so the displacement is ⟨4 − ln 3, 4⟩, with length about 4.941.
 
-- (B) forgets the lower limit.
-- (C) integrates x′ + y′ instead of the speed. It is even shorter than the displacement, which is impossible.
-- (D) swaps the two answers.
+- (A) forgets to subtract the value at the lower limit.
+- (B) swaps the two answers. The distance can never be less than the length of the displacement.
+- (C) integrates x′ + y′ instead of the speed, which just adds the changes in x and y.
 
 Topics: 9.3, 9.4, 9.6.
 </details>
@@ -113,18 +113,18 @@ Topics: 9.3, 9.4, 9.6.
 
 A polar curve r = f(θ) has f(π/3) = 2 and f′(π/3) = −1. Let A(β) = ½ ∫ from 0 to β of (f(θ))² dθ. Which describes dA/dβ at β = π/3, and the motion of the point (f(θ), θ) as θ increases through π/3?
 
-- (A) dA/dβ = 2; moving towards the pole
-- (B) dA/dβ = 2; moving away from the pole
-- (C) dA/dβ = −1; moving towards the pole
+- (A) dA/dβ = 2; moving away from the pole
+- (B) dA/dβ = −1; moving towards the pole
+- (C) dA/dβ = 2; moving towards the pole
 - (D) dA/dβ = 4; moving towards the pole
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** By the Fundamental Theorem of Calculus, dA/dβ = ½(f(β))² = ½(4) = 2: the swept area grows at 2 square units per radian. r = 2 > 0 and dr/dθ = −1 < 0, so the distance from the pole is decreasing.
+**Answer: (C).** By the Fundamental Theorem of Calculus, dA/dβ = ½(f(β))² = ½(4) = 2: the swept area grows at 2 square units per radian. r = 2 > 0 and dr/dθ = −1 < 0, so the distance from the pole is decreasing.
 
-- (B) reverses the meaning of dr/dθ < 0 when r > 0.
-- (C) uses f′ instead of ½f².
+- (A) reverses the meaning of dr/dθ < 0 when r > 0.
+- (B) uses f′ instead of ½f².
 - (D) leaves out the ½.
 
 Topics: 9.7, 9.8.
@@ -189,7 +189,7 @@ At t = 0 the cart is at (5, 2).
 
 **(c)** x(6) = 5 + ∫ from 0 to 6 of x′(t) dt ≈ 18.406 and y(6) = 2 + ∫ from 0 to 6 of y′(t) dt ≈ −0.753. Position **(18.406, −0.753)**.
 
-**(d)** v(4) ≈ ⟨1.346, −2.048⟩, so the speed is **≈ 2.451 m/s**. Differentiating each component, a(4) ≈ ⟨1.514, −1.564⟩. v · a ≈ 2.037 + 3.204 ≈ 5.242 > 0, so the speed is **increasing**.
+**(d)** v(4) ≈ ⟨1.346, −2.048⟩, so the speed is **≈ 2.451 m/s**. Differentiating each component, a(4) ≈ ⟨1.514, −1.564⟩. v · a ≈ 2.038 + 3.204 ≈ 5.242 > 0, so the speed is **increasing**.
 
 **(e)** Distance = ∫ from 0 to 6 of √((x′)² + (y′)²) dt ≈ **19.323 m**.
 
@@ -208,69 +208,69 @@ Total: 7 points. Topics: 9.3, 9.4, 9.5, 9.6.
 
 ## Question 6 (constructed response · mixed)
 
-The circles r = 2√3 sin θ and r = 2 cos θ are drawn on the same polar axes.
+The circle r = 3 cos θ and the limaçon r = 2 − cos θ are drawn on the same polar axes. Both are symmetric about the x-axis.
 
-(a) For r = 2√3 sin θ, find dr/dθ at θ = π/6. Is the point moving towards or away from the pole? Give a reason.
-(b) Find the slope of r = 2 cos θ at θ = π/6.
-(c) Find the angle, other than at the pole, where the circles meet. For 0 < θ < π/6 and π/6 < θ < π/2, state which circle is nearer the pole, with a test value in each.
-(d) Find the exact area of the region inside both circles.
-(e) Find the exact area inside r = 2 cos θ but outside r = 2√3 sin θ.
+(a) For r = 2 − cos θ, find dr/dθ at θ = π/3. Is the point moving towards or away from the pole? Give a reason.
+(b) Find the slope of r = 3 cos θ at θ = π/3.
+(c) Find where the curves meet, for −π/2 ≤ θ ≤ π/2. For 0 < θ < π/3 and π/3 < θ < π/2, state which curve is nearer the pole, with a test value in each.
+(d) Find the exact area of the region inside both curves.
+(e) Find the exact area inside r = 3 cos θ but outside r = 2 − cos θ.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** dr/dθ = 2√3 cos θ = **3** at π/6. r = √3 > 0 and dr/dθ > 0, so the point is moving **away from the pole**.
+**(a)** dr/dθ = sin θ = **√3/2** at π/3. r = 3/2 > 0 and dr/dθ > 0, so the point is moving **away from the pole**.
 
-**(b)** On r = 2 cos θ: x = 2 cos²θ and y = 2 sin θ cos θ = sin 2θ. dx/dθ = −2 sin 2θ = −√3 and dy/dθ = 2 cos 2θ = 1 at π/6. **Slope = −1/√3.**
+**(b)** On r = 3 cos θ: x = 3 cos²θ and y = 3 sin θ cos θ = (3/2) sin 2θ. dx/dθ = −3 sin 2θ = −3√3/2 and dy/dθ = 3 cos 2θ = −3/2 at π/3. **Slope = 1/√3.**
 
-**(c)** 2√3 sin θ = 2 cos θ gives tan θ = 1/√3, so **θ = π/6** (both r = √3). At θ = π/12: 2√3 sin θ ≈ 0.897 and 2 cos θ ≈ 1.932, so **r = 2√3 sin θ is nearer** on (0, π/6). At θ = π/3: 3 and 1, so **r = 2 cos θ is nearer** on (π/6, π/2).
+**(c)** 3 cos θ = 2 − cos θ gives cos θ = ½, so **θ = ±π/3** (both r = 3/2). The limaçon has r ≥ 1, so the pole is not shared. At θ = π/6: 3 cos θ ≈ 2.598 and 2 − cos θ ≈ 1.134, so **the limaçon is nearer** on (0, π/3). At θ = 5π/12: 0.776 and 1.741, so **the circle is nearer** on (π/3, π/2).
 
-**(d)** The region inside both is bounded by the nearer curve:
-Area = ½ ∫ from 0 to π/6 of 12 sin²θ dθ + ½ ∫ from π/6 to π/2 of 4 cos²θ dθ = (π/2 − 3√3/4) + (π/3 − √3/4) = **5π/6 − √3** (about 0.886).
+**(d)** The region inside both is bounded by the nearer curve. Double the upper half:
+Area = 2[½ ∫ from 0 to π/3 of (2 − cos θ)² dθ + ½ ∫ from π/3 to π/2 of 9 cos²θ dθ] = (3π/2 − 15√3/8) + (3π/4 − 9√3/8) = **9π/4 − 3√3** (about 1.872).
 
-**(e)** The circle r = 2 cos θ has radius 1, so its area is π. Subtract (d): π − (5π/6 − √3) = **π/6 + √3** (about 2.256).
+**(e)** The circle r = 3 cos θ has radius 3/2, so its area is 9π/4. Subtract (d): 9π/4 − (9π/4 − 3√3) = **3√3** (about 5.196).
 
 | Point | What earns it |
 |---|---|
-| 1 | dr/dθ = 3 and "away", using r > 0 |
+| 1 | dr/dθ = √3/2 and "away", using r > 0 |
 | 1 | dx/dθ and dy/dθ from x = r cos θ, y = r sin θ |
-| 1 | Slope −1/√3 |
-| 1 | θ = π/6 and the nearer curve on each interval, with test values |
-| 1 | Correct sum of two integrals with limits 0, π/6, π/2 |
-| 1 | 5π/6 − √3 |
-| 1 | π/6 + √3 |
+| 1 | Slope 1/√3 |
+| 1 | θ = ±π/3 and the nearer curve on each interval, with test values |
+| 1 | Correct integrals with limits 0, π/3, π/2, doubled |
+| 1 | 9π/4 − 3√3 |
+| 1 | 3√3 |
 
 Total: 7 points. Topics: 9.7, 9.8, 9.9.
 </details>
 
 ## Question 7 (constructed response · mixed)
 
-The end of a tight thread unwinding from a spool traces the curve x = 2 cos t + 2t sin t, y = 2 sin t − 2t cos t, for 0 ≤ t ≤ π, in centimetres.
+A curve is given by x = 4t − ½t² and y = (8/3)t^(3/2), for 0 ≤ t ≤ 6.
 
-(a) Show that dx/dt = 2t cos t and dy/dt = 2t sin t. Hence find dy/dx.
-(b) Find the points where the curve has a vertical tangent and a horizontal tangent, for 0 < t ≤ π.
+(a) Find dx/dt and dy/dt, and hence dy/dx.
+(b) Find the point where the curve has a vertical tangent. Explain why it has no horizontal tangent for 0 < t ≤ 6.
 (c) Find d²y/dx² in terms of t, and the interval of t on which the curve is concave up.
-(d) Find the exact length of the curve for 0 ≤ t ≤ π.
+(d) Show that (dx/dt)² + (dy/dt)² = (4 + t)², and find the exact length of the curve.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** dx/dt = −2 sin t + (2 sin t + 2t cos t) = 2t cos t, by the product rule. dy/dt = 2 cos t − (2 cos t − 2t sin t) = 2t sin t. So **dy/dx = tan t**, for t ≠ π/2.
+**(a)** dx/dt = 4 − t and dy/dt = 4√t. So **dy/dx = 4√t/(4 − t)**, for t ≠ 4.
 
-**(b)** Vertical: dx/dt = 0 at t = π/2, where dy/dt = π ≠ 0. Point **(π, 2)**. Horizontal: dy/dt = 0 at t = π, where dx/dt = −2π ≠ 0. Point **(−2, 2π)**. (At t = 0 both derivatives are 0, so the formula says nothing there.)
+**(b)** Vertical: dx/dt = 0 at t = 4, where dy/dt = 8 ≠ 0. Point **(8, 64/3)**. Horizontal would need dy/dt = 0, but 4√t > 0 for t > 0.
 
-**(c)** d/dt (tan t) = sec²t; divide by dx/dt = 2t cos t: **d²y/dx² = 1/(2t cos³t)**. This is positive when cos t > 0: **concave up for 0 < t < π/2**.
+**(c)** By the quotient rule, d/dt (dy/dx) = [(2/√t)(4 − t) + 4√t] ÷ (4 − t)² = 2(4 + t)/(√t (4 − t)²). Divide by dx/dt = 4 − t: **d²y/dx² = 2(4 + t)/(√t (4 − t)³)**. The sign is the sign of 4 − t: **concave up for 0 < t < 4**.
 
-**(d)** (dx/dt)² + (dy/dt)² = 4t²(cos²t + sin²t) = 4t², so the speed is 2t for t ≥ 0. The speed is positive for t > 0, so the curve is traced once and its length is ∫ from 0 to π of 2t dt = **π² cm** (about 9.870).
+**(d)** (4 − t)² + 16t = 16 + 8t + t² = (4 + t)², so the speed is 4 + t > 0 and the curve is traced once. Length = ∫ from 0 to 6 of (4 + t) dt = 24 + 18 = **42**.
 
 | Point | What earns it |
 |---|---|
-| 1 | Both derivatives with the product rule, and dy/dx = tan t |
-| 1 | Vertical tangent at (π, 2), checking dy/dt ≠ 0 |
-| 1 | Horizontal tangent at (−2, 2π), checking dx/dt ≠ 0 |
-| 1 | d²y/dx² = 1/(2t cos³t), dividing by dx/dt |
-| 1 | Concave up for 0 < t < π/2 |
-| 1 | Integrand simplified to 2t, and length π² |
+| 1 | Both derivatives, and dy/dx = 4√t/(4 − t) |
+| 1 | Vertical tangent at (8, 64/3), checking dy/dt ≠ 0 |
+| 1 | No horizontal tangent, because dy/dt > 0 for t > 0 |
+| 1 | d²y/dx² = 2(4 + t)/(√t (4 − t)³), dividing by dx/dt |
+| 1 | Concave up for 0 < t < 4 |
+| 1 | Integrand simplified to 4 + t, and length 42 |
 
 Total: 6 points. Topics: 9.1, 9.2, 9.3.
 </details>

@@ -35,7 +35,7 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-**What this is for.** Use this diagnostic to find which topics of Unit 3, Differentiation: Composite, Implicit, and Inverse Functions, to revisit. There is at least one question per topic, and two each for Topics 3.1, 3.2 and 3.5. These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated, and your result is not a predicted score.
+**What this is for.** Use this diagnostic to find which topics of Unit 3, Differentiation: Composite, Implicit, and Inverse Functions, to revisit. There is at least one question per topic, and two each for Topics 3.1, 3.2, 3.5 and 3.6. These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated, and your result is not a predicted score.
 
 **Rules.** No calculator; about 30 minutes. Angles are in radians, and every answer is exact. Answer everything before opening any answer. f⁻¹ means the inverse function, not 1/f. The unit is shared by Calculus AB and Calculus BC, and **no question here is BC only**: all six topics are examined in both courses.
 

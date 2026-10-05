@@ -199,7 +199,7 @@ Waiting times at fictional theme-park Ride A are normal with mean 32 and standar
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** x̄A − x̄B is normal (both populations are normal) with mean 5 and standard deviation √(81/9 + 36/16) = 3.3541 minutes. P(x̄A − x̄B < 0) = P(z < −1.49) = 0.0680.
+**Answer: (A).** x̄A − x̄B is normal (both populations are normal) with mean 5 and standard deviation √(81/9 + 36/16) = 3.3541 minutes. P(x̄A − x̄B < 0) = P(z < −1.4907) = 0.0680.
 
 - (B) adds standard deviations (3 + 1.5), not variances.
 - (C) forgets to divide each variance by its n.

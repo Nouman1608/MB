@@ -108,18 +108,18 @@ During replication of one DNA molecule, DNA polymerase places a T opposite a G i
 
 A test for a fictional virus with a single-stranded RNA genome uses PCR. Before PCR, each sample is treated with reverse transcriptase. Why?
 
-- (A) The DNA polymerase used in PCR builds DNA on a DNA template, so the viral RNA must first be copied into DNA.
-- (B) Reverse transcriptase cuts the RNA into fragments small enough to move through the gel.
-- (C) Reverse transcriptase makes the RNA double-stranded so that primers can bind.
+- (A) Reverse transcriptase cuts the RNA into fragments small enough to move through the gel.
+- (B) Reverse transcriptase makes the RNA double-stranded so that primers can bind.
+- (C) The DNA polymerase used in PCR builds DNA on a DNA template, so the viral RNA must first be copied into DNA.
 - (D) Reverse transcriptase translates the RNA into protein, which PCR then detects.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Retroviruses use reverse transcriptase to copy RNA into DNA. The test borrows it: once a DNA copy exists, PCR can amplify it.
+**Answer: (C).** Retroviruses use reverse transcriptase to copy RNA into DNA. The test borrows it: once a DNA copy exists, PCR can amplify it.
 
-- (B) describes a restriction enzyme's kind of job, not reverse transcriptase.
-- (C) is tempting because primers need a partner strand, but the product is DNA, not double-stranded RNA.
+- (A) describes a restriction enzyme's kind of job, not reverse transcriptase.
+- (B) is tempting because primers need a partner strand, but the product is DNA, not double-stranded RNA.
 - (D) confuses reverse transcription with translation. PCR copies nucleic acids, not proteins.
 </details>
 
@@ -141,7 +141,7 @@ A student designs PCR primers to copy a 480 bp region of a fictional gene. The t
 
 **(c)** DNA polymerase cannot start a strand; it can only extend one. The cell makes short **RNA** primers with an enzyme as replication goes on. PCR uses short **DNA** primers made in advance and chosen to flank one region, so only that region is copied. (Heat separating the strands, in place of helicase, is also an acceptable difference.)
 
-**(d)** No 480 bp product builds up. The faulty primer has the same sequence as the top strand, so it cannot pair with it. It can pair with the bottom strand, but there its 3′ end points away from the target. Only the forward primer copies the region, so each cycle adds just one new copy per template strand instead of doubling the copies.
+**(d)** No 480 bp product builds up. The faulty primer has the same sequence as the top strand, so it cannot pair with it. It can pair with the bottom strand, but there its 3′ end points away from the target. Only the forward primer copies the region, so each cycle adds just one new copy per original bottom strand instead of doubling the copies.
 
 | Point | What earns it |
 |---|---|

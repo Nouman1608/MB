@@ -191,7 +191,7 @@ The base of a solid is the region R enclosed by y = 3x − x² and y = x.
 
 (a) Find the limits of integration and the length s(x) of a vertical segment across R.
 (b) Cross sections perpendicular to the x-axis are semicircles with diameters in R. Find the volume.
-(c) Cross sections perpendicular to the x-axis are equilateral triangles instead. Find the volume.
+(c) Cross sections perpendicular to the x-axis are instead isosceles right triangles, each with its hypotenuse in R. Find the volume.
 
 <details>
 <summary>Worked answer</summary>
@@ -200,7 +200,7 @@ The base of a solid is the region R enclosed by y = 3x − x² and y = x.
 
 **(b)** A semicircle with diameter s has area (1/2)π(s/2)² = (π/8)s². ∫ (0 to 2) (2x − x²)² dx = 16/15, so V = (π/8)(16/15) = **2π/15**.
 
-**(c)** Area (√3/4)s², so V = (√3/4)(16/15) = **4√3/15**.
+**(c)** Each leg is s/√2, so the area is s²/4 and V = (1/4)(16/15) = **4/15**.
 
 Using s as the radius gives 8π/15, four times too big.
 
@@ -272,7 +272,7 @@ The region enclosed by y = x and y = √x is revolved around the y-axis. What is
 
 ## Question 12 (short answer · 8.12)
 
-The region enclosed by y = x and y = x² is revolved around the line x = 2.
+The region enclosed by y = 2x and y = x² is revolved around the line x = 3.
 
 (a) Write each boundary as x in terms of y, and say which is on the left.
 (b) Find R(y) and r(y), with a reason.
@@ -281,13 +281,13 @@ The region enclosed by y = x and y = x² is revolved around the line x = 2.
 <details>
 <summary>Worked answer</summary>
 
-**(a)** x = y and x = √y, for 0 ≤ y ≤ 1. At y = 1/4 these give 1/4 and 1/2, so **x = y is on the left**.
+**(a)** x = y/2 and x = √y, for 0 ≤ y ≤ 4. At y = 1 these give 1/2 and 1, so **x = y/2 is on the left**.
 
-**(b)** The axis x = 2 is to the right, so the left curve is farther away: **R(y) = 2 − y** and **r(y) = 2 − √y**.
+**(b)** The axis x = 3 is to the right, so the left curve is farther away: **R(y) = 3 − y/2** and **r(y) = 3 − √y**.
 
-**(c)** V = π ∫ (0 to 1) [(2 − y)² − (2 − √y)²] dy = π ∫ (0 to 1) (4√y − 5y + y²) dy = π(8/3 − 5/2 + 1/3) = **π/2**.
+**(c)** V = π ∫ (0 to 4) [(3 − y/2)² − (3 − √y)²] dy = π ∫ (0 to 4) (6√y − 4y + y²/4) dy = π(32 − 32 + 16/3) = **16π/3**.
 
-If you got −π/2, you swapped R and r.
+If you got −16π/3, you swapped R and r.
 
 **If you missed this:** [Topic 8.12 study guide](/advanced-course-resources/calculus-ab/8-12-volume-washer-method-revolving-around-study-guide/).
 </details>

@@ -35,7 +35,7 @@ author: "marlbridge-academic-team"
 
 ## What this diagnostic is for
 
-Use this page before you revise Unit 3, or right after you finish it. There is at least one short question per topic, more for the largest. Each answer names the study guide to read if you got it wrong.
+Use this page before you revise Unit 3, or right after you finish it. There is at least one short question per topic, more for the largest, and each answer names the study guide to read.
 
 These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated against real exam results, so your score does **not** predict an exam score. Treat it as a map of what to revisit.
 
@@ -68,19 +68,19 @@ A fictional enzyme, renase, makes a reaction run about 10 000 times faster. Tube
 
 A fictional enzyme's substrate is positively charged. A negatively charged R group in the active site holds it in place. At pH 3, this R group picks up H⁺ and loses its charge. What is the most likely effect?
 
-- (A) The rate falls, because the substrate is no longer attracted to the active site.
-- (B) The rate rises, because the extra H⁺ ions collide with the substrate more often.
-- (C) The rate falls, because the acid breaks the peptide bonds of the enzyme.
-- (D) The rate is unchanged, because the shape of the active site is unchanged.
+- (A) The rate rises, because the extra H⁺ ions collide with the substrate more often.
+- (B) The rate falls, because the acid breaks the peptide bonds of the enzyme.
+- (C) The rate is unchanged, because the shape of the active site is unchanged.
+- (D) The rate falls, because the substrate is no longer attracted to the active site.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Binding needs a match of shape **and** charge. With no negative charge left in the active site, the positive substrate is not held, so fewer complexes form each second.
+**Answer: (D).** Binding needs a match of shape **and** charge. With no negative charge left in the active site, the positive substrate is not held, so fewer complexes form each second.
 
-- (B) treats H⁺ as a reactant. H⁺ changes the enzyme; it does not join the reaction.
-- (C) overstates the damage. Denaturation disrupts weak interactions; peptide bonds stay intact.
-- (D) forgets that charge matters as much as shape.
+- (A) treats H⁺ as a reactant. H⁺ changes the enzyme; it does not join the reaction.
+- (B) overstates the damage. Denaturation disrupts weak interactions; peptide bonds stay intact.
+- (C) forgets that charge matters as much as shape.
 
 **If you missed this:** read "pH: changing the charges" in the [environmental impacts study guide](/advanced-course-resources/biology/3-2-environmental-impacts-on-enzyme-function-study-guide/).
 </details>
@@ -110,18 +110,18 @@ Drug P is shaped like an enzyme's substrate and binds reversibly to the active s
 
 A fictional poison stops all ATP production in an animal cell. What is the most likely result over the next few minutes?
 
-- (A) Membrane pumps stop, so ion concentration gradients run down and the cell loses order.
-- (B) Nothing changes, because energy cannot be destroyed.
-- (C) The cell becomes more ordered, because it is no longer releasing heat.
+- (A) Nothing changes, because energy cannot be destroyed.
+- (B) The cell becomes more ordered, because it is no longer releasing heat.
+- (C) Membrane pumps stop, so ion concentration gradients run down and the cell loses order.
 - (D) The cell turns the heat it releases back into ATP.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Order needs a constant energy input. Pumps use ATP to hold ion gradients across the membrane. Without ATP, ions diffuse down their gradients and order is lost; a large loss means death.
+**Answer: (C).** Order needs a constant energy input. Pumps use ATP to hold ion gradients across the membrane. Without ATP, ions diffuse down their gradients and order is lost; a large loss means death.
 
-- (B) misuses the first law. Energy is not destroyed, but it spreads out as heat the cell cannot use.
-- (C) reverses the second law: order is kept only while energy flows through the cell.
+- (A) misuses the first law. Energy is not destroyed, but it spreads out as heat the cell cannot use.
+- (B) reverses the second law: order is kept only while energy flows through the cell.
 - (D) is impossible for a cell: heat cannot be used to make ATP.
 
 **If you missed this:** read "Order, energy and the laws of thermodynamics" in the [cellular energy study guide](/advanced-course-resources/biology/3-3-cellular-energy-study-guide/).
@@ -143,7 +143,7 @@ Thylakoids are separated from their chloroplasts, leaving no stroma, and placed 
 
 - (B) forgets that the Calvin cycle needs the stroma.
 - (C) repeats a common error: the O₂ comes from water.
-- (D) is tempting because the stages depend on each other, but only once ADP and NADP⁺ run out.
+- (D) is tempting because the stages depend on each other, but the light reactions stop only when the ADP and NADP⁺ run out.
 
 **If you missed this:** read "Inside the chloroplast" in the [photosynthesis study guide](/advanced-course-resources/biology/3-4-photosynthesis-study-guide/).
 </details>
@@ -152,19 +152,19 @@ Thylakoids are separated from their chloroplasts, leaving no stroma, and placed 
 
 Which sequence correctly traces the electrons that reduce NADP⁺ in the light reactions?
 
-- (A) water → photosystem II → electron transport chain → photosystem I → NADP⁺
-- (B) water → photosystem I → electron transport chain → photosystem II → NADP⁺
-- (C) CO₂ → photosystem II → electron transport chain → photosystem I → NADP⁺
-- (D) ATP → photosystem I → photosystem II → NADP⁺
+- (A) water → photosystem I → electron transport chain → photosystem II → NADP⁺
+- (B) CO₂ → photosystem II → electron transport chain → photosystem I → NADP⁺
+- (C) ATP → photosystem I → photosystem II → NADP⁺
+- (D) water → photosystem II → electron transport chain → photosystem I → NADP⁺
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Light boosts electrons out of photosystem II; water is split to replace them. They pass along the chain to photosystem I, are boosted again and reduce NADP⁺ to NADPH.
+**Answer: (D).** Light boosts electrons out of photosystem II; water is split to replace them. They pass along the chain to photosystem I, are boosted again and reduce NADP⁺ to NADPH.
 
-- (B) swaps the photosystems. Photosystem II comes first in the path, even though its number is higher.
-- (C) names the wrong source. CO₂ is used in the Calvin cycle.
-- (D) treats ATP as an electron source. ATP is a product of the light reactions.
+- (A) swaps the photosystems. Photosystem II comes first in the path, even though its number is higher.
+- (B) names the wrong source. CO₂ is used in the Calvin cycle.
+- (C) treats ATP as an electron source. ATP is a product of the light reactions.
 
 **If you missed this:** read "The light reactions" in the [photosynthesis study guide](/advanced-course-resources/biology/3-4-photosynthesis-study-guide/).
 </details>
@@ -193,18 +193,18 @@ Animal cells are given glucose in which every carbon atom is labelled. Where in 
 
 In an aerobic cell, the electron transport chain is stopped. Soon after, the Krebs cycle stops too, even though it uses no oxygen directly. Why?
 
-- (A) NAD⁺ and FAD are no longer regenerated from NADH and FADH₂, so the Krebs cycle has no electron acceptors.
-- (B) The Krebs cycle needs ATP from the electron transport chain as its only fuel.
-- (C) The Krebs cycle needs the CO₂ made by the electron transport chain.
+- (A) The Krebs cycle needs ATP from the electron transport chain as its only fuel.
+- (B) The Krebs cycle needs the CO₂ made by the electron transport chain.
+- (C) NAD⁺ and FAD are no longer regenerated from NADH and FADH₂, so the Krebs cycle has no electron acceptors.
 - (D) The proton gradient is needed to carry pyruvate through the Krebs cycle.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Each stage's products are the next stage's inputs. The Krebs cycle passes electrons to NAD⁺ and FAD. If the ETC cannot take electrons from NADH and FADH₂, NAD⁺ and FAD run out and the cycle stalls.
+**Answer: (C).** Each stage's products are the next stage's inputs. The Krebs cycle passes electrons to NAD⁺ and FAD. If the ETC cannot take electrons from NADH and FADH₂, NAD⁺ and FAD run out and the cycle stalls.
 
-- (B) is tempting because the ETC powers most ATP synthesis, but the Krebs cycle runs on carbon from pyruvate.
-- (C) reverses the flow: the Krebs cycle **releases** CO₂.
+- (A) is tempting because the ETC powers most ATP synthesis, but the Krebs cycle runs on carbon from pyruvate.
+- (B) reverses the flow: the Krebs cycle **releases** CO₂.
 - (D) misuses the gradient, which drives ATP synthase.
 
 **If you missed this:** read "Stage 4: electron transport and oxidative phosphorylation" in the [cellular respiration study guide](/advanced-course-resources/biology/3-5-cellular-respiration-study-guide/).
@@ -259,7 +259,7 @@ Mitochondria from the flight muscle and from the fat tissue of a fictional insec
 
 **(a)** Flight muscle: 6.3 ÷ 42 = **0.15** units per µm². Fat tissue: 2.0 ÷ 14 = **0.14** units per µm² (0.143).
 
-**(b)** ATP synthesis per µm² is almost the same, so the difference comes from the **amount** of inner membrane (3.0 times as much, for about 3.2 times the ATP). The ETC and ATP synthase sit in the inner membrane, so more membrane holds more of them, and more protons flow through ATP synthase each second.
+**(b)** ATP synthesis per µm² is almost the same, so the difference comes from the **amount** of inner membrane (3.0 times as much, for about 3.2 times the ATP). The ETC and ATP synthase sit in the inner membrane, so more membrane holds more of them.
 
 **(c)** The **cristae** (folds of the inner membrane).
 
@@ -268,7 +268,7 @@ Mitochondria from the flight muscle and from the fat tissue of a fictional insec
 
 ## Your next step
 
-Mark each question, then use this table. A short answer missed in one part counts as missed.
+A short answer missed in any part counts as missed.
 
 | Topic | Question(s) | If you missed it, read |
 |---|---|---|
@@ -283,4 +283,4 @@ Mark each question, then use this table. A short answer missed in one part count
 - **Wrong answers first.** Read the named section, then do that topic's practice questions.
 - **Lucky guesses count as misses** if your reason did not match the explanation.
 - **No misses?** Go to the [mixed unit review](/advanced-course-resources/biology/unit-3-review/), which joins the topics in exam-style questions.
-- **Come back in a week** and check whether your reasons are now complete.
+- **Retry in a week** to check that your reasons are complete.

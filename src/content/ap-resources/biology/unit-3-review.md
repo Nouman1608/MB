@@ -68,54 +68,54 @@ These are **original Marlbridge practice questions**, not past exam questions. T
 
 ATP synthase works the same way in chloroplasts and mitochondria. Which row correctly gives the direction in which protons flow **through** ATP synthase in each?
 
-- (A) Chloroplast: thylakoid space → stroma. Mitochondrion: intermembrane space → matrix.
-- (B) Chloroplast: stroma → thylakoid space. Mitochondrion: matrix → intermembrane space.
-- (C) Chloroplast: thylakoid space → stroma. Mitochondrion: matrix → intermembrane space.
-- (D) Chloroplast: stroma → thylakoid space. Mitochondrion: intermembrane space → matrix.
+- (A) Chloroplast: stroma → thylakoid space. Mitochondrion: matrix → intermembrane space.
+- (B) Chloroplast: stroma → thylakoid space. Mitochondrion: intermembrane space → matrix.
+- (C) Chloroplast: thylakoid space → stroma. Mitochondrion: intermembrane space → matrix.
+- (D) Chloroplast: thylakoid space → stroma. Mitochondrion: matrix → intermembrane space.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** In both, the ETC pumps protons into a small compartment (thylakoid space, intermembrane space). Protons flow back down the gradient through ATP synthase, into the stroma or matrix, where ATP is made.
+**Answer: (C).** In both, the ETC pumps protons into a small compartment (thylakoid space, intermembrane space). Protons flow back down the gradient through ATP synthase, into the stroma or matrix, where ATP is made.
 
-- (B) gives the direction of **pumping**, not of flow through ATP synthase.
-- (C) and (D) mix the two. The gradient points the same way in both organelles: from the space the ETC fills towards the fluid where ATP is used.
+- (A) gives the direction of **pumping**, not of flow through ATP synthase.
+- (B) and (D) mix the two. The gradient points the same way in both organelles: from the space the ETC fills towards the fluid where ATP is used.
 </details>
 
 ## Question 2 (multiple choice · mixed)
 
 A cell must run a reaction that requires +45 kJ per mole, 100 times. ATP hydrolysis releases 30 kJ per mole. How many glucose molecules must the cell use if it gets its ATP only by fermentation, and only by aerobic respiration?
 
-- (A) 100 by fermentation; 7 by aerobic respiration
-- (B) 50 by fermentation; 4 by aerobic respiration
-- (C) 75 by fermentation; 5 by aerobic respiration
-- (D) 100 by both, because both routes start with glycolysis
+- (A) 50 by fermentation; 4 by aerobic respiration
+- (B) 75 by fermentation; 5 by aerobic respiration
+- (C) 100 by both, because both routes start with glycolysis
+- (D) 100 by fermentation; 7 by aerobic respiration
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** One ATP is not enough (+45 − 30 = +15 kJ mol⁻¹), so each reaction needs 2 ATP (+45 − 60 = −15 kJ mol⁻¹). 100 reactions need 200 ATP. Fermentation: 200 ÷ 2 = 100 glucose. Aerobic: 200 ÷ 30 = 6.7, so 7 glucose.
+**Answer: (D).** One ATP is not enough (+45 − 30 = +15 kJ mol⁻¹), so each reaction needs 2 ATP (+45 − 60 = −15 kJ mol⁻¹). 100 reactions need 200 ATP. Fermentation: 200 ÷ 2 = 100 glucose. Aerobic: 200 ÷ 30 = 6.7, so 7 glucose.
 
-- (B) uses one ATP per reaction; the coupled reaction would still require energy.
-- (C) uses 1.5 ATP per reaction; a cell cannot hydrolyse half an ATP.
-- (D) forgets that aerobic respiration makes far more ATP after glycolysis.
+- (A) uses one ATP per reaction; the coupled reaction would still require energy.
+- (B) uses 1.5 ATP per reaction; a cell cannot hydrolyse half an ATP.
+- (C) forgets that aerobic respiration makes far more ATP after glycolysis.
 </details>
 
 ## Question 3 (multiple choice · mixed)
 
 In a fictional alga, the stroma is at pH 7.0 in the dark and pH 8.0 in bright light. A Calvin cycle enzyme works five times faster at pH 8.0 than at pH 7.0. Which statement best explains why it works faster in the light?
 
-- (A) The light reactions pump H⁺ out of the stroma into the thylakoid space, so the stroma's H⁺ concentration falls tenfold. The charges on R groups in the enzyme change towards those of its working shape.
-- (B) Light energy lowers the activation energy of the Calvin cycle reactions directly.
+- (A) Light energy lowers the activation energy of the Calvin cycle reactions directly.
+- (B) The light reactions pump H⁺ out of the stroma into the thylakoid space, so the stroma's H⁺ concentration falls tenfold. The charges on R groups in the enzyme change towards those of its working shape.
 - (C) The light reactions release H⁺ into the stroma, lowering its pH towards the enzyme's optimum.
 - (D) Light raises the temperature of the stroma above the enzyme's optimum.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Moving H⁺ into the thylakoids lowers H⁺ in the stroma (pH 7.0 → 8.0 is a tenfold fall). pH sets which R groups carry a charge, and the right charges hold the active site in its working shape.
+**Answer: (B).** Moving H⁺ into the thylakoids lowers H⁺ in the stroma (pH 7.0 → 8.0 is a tenfold fall). pH sets which R groups carry a charge, and the right charges hold the active site in its working shape.
 
-- (B) is wrong: light is absorbed by chlorophyll, not by Calvin cycle enzymes.
+- (A) is wrong: light is absorbed by chlorophyll, not by Calvin cycle enzymes.
 - (C) reverses the direction of pumping, and pH 8.0 is higher, not lower.
 - (D) would slow the enzyme, not speed it up.
 </details>
@@ -202,12 +202,12 @@ Compound V blocks the proton channel of ATP synthase. Isolated chloroplasts are 
 | Measurement | Control | With V |
 |---|---|---|
 | CO₂ fixed / µmol h⁻¹ | 30.0 | 3.0 |
-| O₂ released / µmol h⁻¹ | 30.0 | 4.5 |
+| O₂ released / µmol h⁻¹ | 30.0 | 3.0 |
 | pH in thylakoid space | 5.0 | 4.6 |
 | pH in stroma | 8.0 | 8.0 |
 
 (a) Calculate the percentage fall in CO₂ fixation.
-(b) Calculate how many times more concentrated H⁺ is in the thylakoid space than in the stroma, with and without V.
+(b) Use the pH values to find the ratio of H⁺ concentration (thylakoid space : stroma) in the control and with V.
 (c) Explain why the gradient becomes steeper with V.
 (d) Explain why CO₂ fixation falls.
 (e) V does not act on photosystem II, yet O₂ release falls. Explain why.
@@ -218,7 +218,7 @@ Compound V blocks the proton channel of ATP synthase. Isolated chloroplasts are 
 
 **(a)** (30.0 − 3.0) ÷ 30.0 × 100 = **90%**.
 
-**(b)** Control: 8.0 − 5.0 = 3.0 units, so 10^3.0 = **1000 times**. With V: 8.0 − 4.6 = 3.4 units, so 10^3.4 ≈ **2500 times**.
+**(b)** Each pH unit is a tenfold change in H⁺. Control: 8.0 − 5.0 = 3.0 units, so the ratio is 10^3.0 = **1000 : 1**. With V: 8.0 − 4.6 = 3.4 units, so 10^3.4 ≈ **2500 : 1**.
 
 **(c)** Water splitting and the ETC keep adding H⁺ to the thylakoid space, but H⁺ cannot flow out through ATP synthase. It accumulates.
 
@@ -231,7 +231,7 @@ Compound V blocks the proton channel of ATP synthase. Isolated chloroplasts are 
 | Point | What earns it |
 |---|---|
 | 1 | 90% fall |
-| 1 | About 1000 and 2500 times |
+| 1 | Ratios of 1000 : 1 and about 2500 : 1 |
 | 1 | H⁺ still added but cannot leave through ATP synthase |
 | 1 | No ATP, so the Calvin cycle cannot fix CO₂ |
 | 1 | O₂ falls because electron flow backs up (steep gradient or no NADP⁺) |

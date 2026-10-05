@@ -36,13 +36,13 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-Use this page after you have studied the topics of Unit 2, Differentiation: Definition and Fundamental Properties, or after the [Unit 2 diagnostic](/advanced-course-resources/calculus-ab/unit-2-diagnostic/). The unit is shared by Calculus AB and Calculus BC, and no question here is BC only. The questions below are **original Marlbridge practice questions**, not past exam questions. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not official scoring. No calculator for any question.
+Use this page after studying the Unit 2 topics or after the [Unit 2 diagnostic](/advanced-course-resources/calculus-ab/unit-2-diagnostic/). The unit is shared by Calculus AB and Calculus BC; no question here is BC only. These are **original Marlbridge practice questions**, not past exam questions. The rubrics are a suggested Marlbridge rubric, not official scoring. No calculator.
 
 ## Big ideas of the unit
 
 - **A derivative is a limit of average rates.** The difference quotient (f(a + h) − f(a))/h is an average rate over a small interval; its limit as h → 0 is f′(a), the rate at an instant ([Topic 2.1](/advanced-course-resources/calculus-ab/2-1-defining-average-instantaneous-rates-change-study-guide/)).
 - **The derivative is also a function.** Letting x vary gives f′(x), written dy/dx, f′(x) or y′. Its value at a is the slope of the tangent line at (a, f(a)) ([Topic 2.2](/advanced-course-resources/calculus-ab/2-2-defining-derivative-function-derivative-notation-study-guide/)).
-- **Without a formula, you estimate.** From a table, use the closest points on an interval that contains a; from a graph, use the slope of the tangent line; with technology, use the numerical derivative ([Topic 2.3](/advanced-course-resources/calculus-ab/2-3-estimating-derivatives-function-point-study-guide/)).
+- **Without a formula, you estimate.** From a table, use the closest points around a; from a graph, the tangent slope; with technology, the numerical derivative ([Topic 2.3](/advanced-course-resources/calculus-ab/2-3-estimating-derivatives-function-point-study-guide/)).
 - **Differentiable implies continuous, not the other way round.** A break rules out a derivative. Corners, cusps and vertical tangents are continuous points with no derivative ([Topic 2.4](/advanced-course-resources/calculus-ab/2-4-connecting-differentiability-continuity-determining-when-study-guide/)).
 - **Rules replace the limit.** The power rule handles xʳ for any real r once you rewrite roots and fractions as powers ([Topic 2.5](/advanced-course-resources/calculus-ab/2-5-applying-power-rule-study-guide/)). Constants, sums and constant multiples then give every polynomial ([Topic 2.6](/advanced-course-resources/calculus-ab/2-6-derivative-rules-constant-sum-difference-study-guide/)).
 - **Four special derivatives:** sin x → cos x, cos x → −sin x, eˣ → eˣ, ln x → 1/x. Seeing a difference quotient as one of these lets you find a limit fast ([Topic 2.7](/advanced-course-resources/calculus-ab/2-7-derivatives-cos-x-sin-x-study-guide/)).
@@ -70,19 +70,19 @@ Use this page after you have studied the topics of Unit 2, Differentiation: Defi
 
 What is lim (h → 0) ((2 + h)e^(2 + h) − 2e²)/h?
 
-- (A) 3e²
-- (B) e²
-- (C) 2e²
+- (A) e²
+- (B) 2e²
+- (C) 3e²
 - (D) It does not exist, because substitution gives 0/0.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The limit is the h-form of f′(2) for f(x) = xeˣ, since f(2) = 2e². By the product rule, f′(x) = 1·eˣ + x·eˣ = (x + 1)eˣ, so f′(2) = 3e².
+**Answer: (C).** The limit is the h-form of f′(2) for f(x) = xeˣ, since f(2) = 2e². By the product rule, f′(x) = 1·eˣ + x·eˣ = (x + 1)eˣ, so f′(2) = 3e².
 
-- (B) differentiates only the eˣ factor.
-- (C) is f(2), the value, not the slope.
-- (D) 0/0 is expected for every derivative written as a limit; it is the reason to recognise a derivative, not a reason the limit fails.
+- (A) keeps only the first product-rule term, 1·eˣ.
+- (B) is f(2), the value, not the slope (it is also the second product-rule term on its own).
+- (D) 0/0 is normal for a derivative written as a limit; it does not mean the limit fails.
 
 Topics: 2.1, 2.7, 2.8.
 </details>
@@ -91,17 +91,17 @@ Topics: 2.1, 2.7, 2.8.
 
 Let k(x) = ∛x · (x − 4), defined for all real x. Which statement is true?
 
-- (A) k has a horizontal tangent at x = 1, and k′(0) does not exist because the graph has a vertical tangent at x = 0.
-- (B) k has horizontal tangents at both x = 0 and x = 1.
+- (A) k has horizontal tangents at both x = 0 and x = 1.
+- (B) k has a horizontal tangent at x = 1, and k′(0) does not exist because the graph has a vertical tangent at x = 0.
 - (C) k′(0) does not exist because k is not continuous at x = 0.
 - (D) k′(x) = (1/3)x^(−2/3), which is never 0, so k has no horizontal tangent.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Expand: k(x) = x^(4/3) − 4x^(1/3). By the power and sum rules, k′(x) = (4/3)x^(1/3) − (4/3)x^(−2/3) = 4(x − 1)/(3x^(2/3)) for x ≠ 0. This is 0 at x = 1. At x = 0, k is continuous (k(0) = 0), but the difference quotient k(h)/h = (h − 4)/h^(2/3) tends to −∞ from both sides: a vertical tangent, so k′(0) does not exist.
+**Answer: (B).** Expand: k(x) = x^(4/3) − 4x^(1/3). By the power and sum rules, k′(x) = (4/3)x^(1/3) − (4/3)x^(−2/3) = 4(x − 1)/(3x^(2/3)) for x ≠ 0. This is 0 at x = 1. At x = 0, k is continuous (k(0) = 0), but the difference quotient k(h)/h = (h − 4)/h^(2/3) tends to −∞ from both sides: a vertical tangent, so k′(0) does not exist.
 
-- (B) At x = 0 the derivative is undefined, not 0.
+- (A) At x = 0 the derivative is undefined, not 0.
 - (C) k is a product of continuous functions, so it is continuous at 0.
 - (D) multiplies the derivatives of the two factors, (1/3)x^(−2/3) × 1.
 
@@ -112,23 +112,23 @@ Topics: 2.4, 2.5, 2.6, 2.8.
 
 Which is an equation of the line tangent to y = cos x/(1 + sin x) at x = 0?
 
-- (A) y = 1 − x
-- (B) y = 1 + x
-- (C) y = −x
-- (D) y = 1
+- (A) y = 1 + x
+- (B) y = −x
+- (C) y = 1
+- (D) y = 1 − x
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Quotient rule:
+**Answer: (D).** Quotient rule:
 
 dy/dx = [(1 + sin x)(−sin x) − cos x · cos x]/(1 + sin x)² = −(sin x + sin²x + cos²x)/(1 + sin x)² = −(1 + sin x)/(1 + sin x)² = −1/(1 + sin x).
 
 At x = 0: y = 1/1 = 1 and dy/dx = −1. So y − 1 = −1(x − 0), which is y = 1 − x.
 
-- (B) reverses the top of the quotient rule, giving slope +1.
-- (C) uses the slope but the point (0, 0) instead of (0, 1).
-- (D) divides the derivatives, −sin x / cos x, which is 0 at x = 0.
+- (A) reverses the top of the quotient rule, giving slope +1.
+- (B) uses the slope but the point (0, 0) instead of (0, 1).
+- (C) divides the derivatives, −sin x / cos x, which is 0 at x = 0.
 
 Topics: 2.2, 2.7, 2.9, 2.10.
 </details>
@@ -143,7 +143,7 @@ A function f is differentiable for all x. Selected values are shown (invented da
 
 (a) Find the average rate of change of f over [0, 6].
 (b) Use the table to estimate f′(4). Show the difference quotient you use.
-(c) Let g(x) = x² · f(x). Find g′(3).
+(c) Let g(x) = f(x) · ln x for x > 0. Find g′(3).
 (d) Let q(x) = f(x)/(x + 1). Find q′(3).
 (e) Write an equation of the line tangent to the graph of q at x = 3.
 
@@ -154,7 +154,7 @@ A function f is differentiable for all x. Selected values are shown (invented da
 
 **(b)** The shortest interval in the table containing 4 is [3, 5]: f′(4) ≈ (f(5) − f(3))/(5 − 3) = (10 − 6)/2 = **2**.
 
-**(c)** Product rule: g′(x) = 2x · f(x) + x² · f′(x). At x = 3: g′(3) = 2(3)(6) + 9(2) = 36 + 18 = **54**.
+**(c)** Product rule: g′(x) = f′(x) · ln x + f(x) · (1/x). At x = 3: g′(3) = 2 ln 3 + 6/3 = **2 + 2 ln 3**.
 
 **(d)** Quotient rule, with bottom x + 1 and its derivative 1:
 q′(3) = [(3 + 1) f′(3) − f(3) · 1]/(3 + 1)² = (4 × 2 − 6)/16 = 2/16 = **1/8**.
@@ -166,11 +166,11 @@ q′(3) = [(3 + 1) f′(3) − f(3) · 1]/(3 + 1)² = (4 × 2 − 6)/16 = 2/16 =
 | 1 | (a): 5/2, from f(6) and f(0) |
 | 1 | (b): an interval containing 4, with the quotient shown (2) |
 | 1 | (c): product rule set up with f(3) and f′(3) in the right places |
-| 1 | (c): g′(3) = 54 |
+| 1 | (c): d/dx ln x = 1/x used, and g′(3) = 2 + 2 ln 3 |
 | 1 | (d): q′(3) = 1/8, with the quotient rule numerator in the correct order |
 | 1 | (e): tangent line through (3, 3/2) with slope 1/8 |
 
-Total: 6 points. Topics: 2.1, 2.2, 2.3, 2.8, 2.9.
+Total: 6 points. Topics: 2.1, 2.2, 2.3, 2.7, 2.8, 2.9.
 </details>
 
 ## Question 5 (constructed response · mixed)
@@ -197,7 +197,7 @@ For constants a and b, a function f is defined by
 
 **(d)** f(4) = 4 × 2 = 8 and f′(4) = 1. Tangent line: **y − 8 = 1(x − 4)**, or y = x + 4.
 
-**(e)** **No.** f(4) = 8 but the right-hand limit is 2 + 5 = 7, so f is not continuous at 4. A function that is not continuous at a point cannot be differentiable there, even though the one-sided slopes still match.
+**(e)** **No.** f(4) = 8 but the right-hand limit is 2 + 5 = 7, so f is not continuous at 4, and so not differentiable there, even though the one-sided slopes match.
 
 | Point | What earns it |
 |---|---|
@@ -229,7 +229,7 @@ In a fictional model, the power output of a small test generator t hours after s
 **(a)** Top 50t², derivative 100t. Bottom eᵗ, derivative eᵗ.
 P′(t) = [eᵗ · 100t − 50t² · eᵗ]/(eᵗ)² = eᵗ(100t − 50t²)/e^(2t) = **50t(2 − t)/eᵗ**.
 
-**(b)** P′(1) = 50(1)(1)/e = **50/e kilowatts per hour** (about 18.4). One hour after start-up, the power output is increasing at a rate of 50/e kilowatts per hour.
+**(b)** P′(1) = 50(1)(1)/e = **50/e kilowatts per hour** (about 18.4). One hour after start-up, the power output is increasing at 50/e kilowatts per hour.
 
 **(c)** eᵗ is never 0, so P′(t) = 0 only when t = 0 or t = 2. In 0 < t < 6 that is **t = 2**, when P(2) = 200/e² kilowatts. P′(3) = 50(3)(−1)/e³ = −150/e³ < 0, so **at t = 3 the power output is decreasing**.
 
@@ -290,7 +290,7 @@ Total: 6 points. Topics: 2.1, 2.4, 2.7, 2.10.
 
 ## How did you do?
 
-Add up your points from Questions 4–7 (25 in total) and your correct answers to Questions 1–3. The total is only a guide to how secure you are across the unit; it is not a predicted exam score. More useful is to look at **which topics** your lost points came from (each answer lists them), then tick off those topic checklists:
+Add your points from Questions 4–7 (25 in total) and your correct answers to Questions 1–3. The total is only a rough guide, not a predicted exam score. More useful: note **which topics** your lost points came from (each answer lists them), then work through those topic checklists:
 
 [2.1](/advanced-course-resources/calculus-ab/2-1-defining-average-instantaneous-rates-change-checklist/) ·
 [2.2](/advanced-course-resources/calculus-ab/2-2-defining-derivative-function-derivative-notation-checklist/) ·
@@ -303,4 +303,4 @@ Add up your points from Questions 4–7 (25 in total) and your correct answers t
 [2.9](/advanced-course-resources/calculus-ab/2-9-quotient-rule-checklist/) ·
 [2.10](/advanced-course-resources/calculus-ab/2-10-finding-derivatives-tangent-cotangent-secant-checklist/)
 
-If many topics need work, go back to the [Unit 2 diagnostic](/advanced-course-resources/calculus-ab/unit-2-diagnostic/) and use its "Your next step" table to choose where to start.
+If many topics need work, start from the "Your next step" table in the [Unit 2 diagnostic](/advanced-course-resources/calculus-ab/unit-2-diagnostic/).

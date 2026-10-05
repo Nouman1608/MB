@@ -48,7 +48,7 @@ This review joins the twelve topics of Unit 7. Do the [unit diagnostic](/advance
 - **Hardy–Weinberg is the "nothing is happening" model.** Count alleles, predict p², 2pq and q², and read any clear mismatch as a broken condition ([Topic 7.5](/advanced-course-resources/biology/7-5-hardy-weinberg-equilibrium-study-guide/)).
 - **Independent evidence agrees.** Dated rocks, fossils, homologous and vestigial structures, biogeography and sequences point the same way ([Topic 7.6](/advanced-course-resources/biology/7-6-evidence-evolution-study-guide/)), including to one ancestor of all eukaryotes ([Topic 7.7](/advanced-course-resources/biology/7-7-common-ancestry-study-guide/)).
 - **Evolution is still happening.** Resistance to drugs and pesticides and new pathogens are selection we can watch ([Topic 7.8](/advanced-course-resources/biology/7-8-continuing-evolution-study-guide/)), and genetic diversity decides who withstands it ([Topic 7.11](/advanced-course-resources/biology/7-11-variations-populations-study-guide/)).
-- **Trees and species are the long-term result.** Trees are testable hypotheses ([Topic 7.9](/advanced-course-resources/biology/7-9-phylogeny-study-guide/)); without gene flow, populations diverge into species ([Topic 7.10](/advanced-course-resources/biology/7-10-speciation-study-guide/)); the story starts with an RNA world between 3.9 and 3.5 bya ([Topic 7.12](/advanced-course-resources/biology/7-12-origins-life-on-earth-study-guide/)).
+- **Trees and species are the long-term result.** Trees are testable hypotheses ([Topic 7.9](/advanced-course-resources/biology/7-9-phylogeny-study-guide/)); without gene flow, populations diverge into species ([Topic 7.10](/advanced-course-resources/biology/7-10-speciation-study-guide/)); life arose between about 3.9 and 3.5 billion years ago, perhaps in an RNA world ([Topic 7.12](/advanced-course-resources/biology/7-12-origins-life-on-earth-study-guide/)).
 
 ## Key relationships and methods
 
@@ -237,7 +237,7 @@ Total: 4 points.
 
 ## Question 7 (constructed response · mixed)
 
-Two farms grow the same crop and spray the same insecticide. Resistance comes from a recessive allele r: only rr insects survive spraying. Farm B leaves 20% of its field unsprayed as a refuge. The table shows the frequency of r.
+Two farms grow the same crop and spray the same insecticide. Resistance comes from a recessive allele r: at the dose used, most rr insects survive spraying, but most RR and Rr insects die. Insects also fly in from the land around both farms. Farm B leaves 20% of its field unsprayed as a refuge. The table shows the frequency of r.
 
 | Year | 0 | 2 | 4 | 6 | 8 |
 |---|---|---|---|---|---|
@@ -255,11 +255,11 @@ Two farms grow the same crop and spray the same insecticide. Resistance comes fr
 
 **(a)** Both start at 0.01. Farm A rises slowly, then fast: +0.03, +0.11, +0.27, +0.36 per two years, reaching **0.78**. Farm B rises slowly and steadily to **0.11**, about one-seventh of farm A.
 
-**(b)** Mutation is random and occurs without the insecticide, so a few r alleles were already present. Spraying kills susceptible insects; rr survivors breed and pass on r, so its frequency rises. The rise speeds up as more r alleles meet in rr insects.
+**(b)** Mutation is random and occurs without the insecticide, so a few r alleles were already present. Spraying kills most susceptible insects; rr survivors breed and pass on r, so its frequency rises. The rise speeds up as more r alleles meet in rr insects.
 
 **(c)** Farm A: 0.78² = **60.8%** rr. Farm B: 0.11² = **1.2%** rr. On farm B, heterozygotes (2 × 0.11 × 0.89 = 19.6% of insects) carry 0.89, about **89%**, of all r alleles.
 
-**(d)** The refuge keeps many susceptible insects carrying R. They mate with survivors from the sprayed area (gene flow), so most r alleles sit in heterozygotes, which die when sprayed. Few rr insects form, so r rises slowly.
+**(d)** The refuge keeps many susceptible insects carrying R. They mate with survivors from the sprayed area (gene flow), so most r alleles sit in heterozygotes, which mostly die when sprayed. Few rr insects form, so r rises slowly.
 
 **(e)** Independent variable: refuge size, for example 0%, 10%, 20% and 40% of a plot. Dependent variable: r frequency, or survival of a test dose, each generation. Control the starting r frequency, insect number, insecticide dose, crop and number of generations. Use at least three replicate plots per refuge size.
 

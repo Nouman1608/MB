@@ -38,7 +38,7 @@ author: "marlbridge-academic-team"
 
 **What this is for.** Use this diagnostic to find which topics of Unit 2, Differentiation: Definition and Fundamental Properties, to revisit. There is one question per topic, and two for Topics 2.2, 2.4 and 2.7. These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated, and your result is not a predicted score.
 
-**Rules.** No calculator; about 30 minutes. Angles are in radians. Answer everything before opening any answer. f′(a) means the derivative of f at x = a. The unit is shared by Calculus AB and Calculus BC, and every topic in it is common content, so **no question here is BC only**.
+**Rules.** No calculator; about 30 minutes. Angles are in radians. Answer everything before opening any answer. The unit is shared by Calculus AB and Calculus BC, so **no question here is BC only**.
 
 ## Question 1 (multiple choice · 2.1)
 
@@ -65,18 +65,18 @@ Let f(x) = x² + 3x. For h ≠ 0, the difference quotient (f(1 + h) − f(1))/h 
 
 The line tangent to the graph of g at x = −2 is y = 3x + 7. Which statement must be true?
 
-- (A) g(−2) = 1 and g′(−2) = 3
-- (B) g(−2) = 7 and g′(−2) = 3
-- (C) g(−2) = 3 and g′(−2) = 1
+- (A) g(−2) = 7 and g′(−2) = 3
+- (B) g(−2) = 3 and g′(−2) = 1
+- (C) g(−2) = 1 and g′(−2) = 3
 - (D) g′(x) = 3 for every x
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The tangent line touches the graph at x = −2, so g(−2) = 3(−2) + 7 = 1. Its slope is the derivative there: g′(−2) = 3.
+**Answer: (C).** The tangent line touches the graph at x = −2, so g(−2) = 3(−2) + 7 = 1. Its slope is the derivative there: g′(−2) = 3.
 
-- (B) uses the y-intercept, the line's height at x = 0.
-- (C) swaps the value and the slope.
+- (A) uses the y-intercept, the line's height at x = 0.
+- (B) swaps the value and the slope.
 - (D) The tangent line gives the slope at one point only.
 
 **If you missed this:** [Topic 2.2 study guide](/advanced-course-resources/calculus-ab/2-2-defining-derivative-function-derivative-notation-study-guide/).
@@ -113,17 +113,17 @@ The height H(t) of a fictional sunflower, in centimetres, is measured t days aft
 
 What is the best estimate of H′(10) from the table?
 
-- (A) 1.5 cm per day
-- (B) 1.55 cm per day
+- (A) 1.55 cm per day
+- (B) 1.5 cm per day
 - (C) 3 cm per day
 - (D) 6 cm per day
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Use the shortest interval in the table that contains t = 10, which is [8, 12]: (H(12) − H(8))/(12 − 8) = (77 − 71)/4 = 1.5 cm per day.
+**Answer: (B).** Use the shortest interval in the table that contains t = 10, which is [8, 12]: (H(12) − H(8))/(12 − 8) = (77 − 71)/4 = 1.5 cm per day.
 
-- (B) uses [0, 20], which is far too wide.
+- (A) uses [0, 20], which is far too wide.
 - (C) uses [5, 8], which does not contain t = 10.
 - (D) is the change in height, 6 cm, not divided by the 4 days.
 
@@ -134,18 +134,18 @@ What is the best estimate of H′(10) from the table?
 
 A function f is **not** continuous at x = 5. Which statement must be true?
 
-- (A) f′(5) does not exist.
-- (B) f(5) is undefined.
-- (C) lim (x → 5) f(x) does not exist.
-- (D) The graph of f has a vertical asymptote at x = 5.
+- (A) f(5) is undefined.
+- (B) lim (x → 5) f(x) does not exist.
+- (C) The graph of f has a vertical asymptote at x = 5.
+- (D) f′(5) does not exist.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Differentiable at 5 would mean continuous at 5. f is not continuous there, so it is not differentiable there.
+**Answer: (D).** Differentiable at 5 would mean continuous at 5. f is not continuous there, so it is not differentiable there.
 
-- (B) and (C) can cause a discontinuity, but neither must happen: at a removable discontinuity, f(5) and the limit can both exist and differ.
-- (D) A jump or a hole is also a discontinuity.
+- (A) and (B) can cause a discontinuity, but neither must happen: f(5) and the limit can both exist and differ.
+- (C) A jump or a hole is also a discontinuity.
 
 **If you missed this:** [Topic 2.4 study guide](/advanced-course-resources/calculus-ab/2-4-connecting-differentiability-continuity-determining-when-study-guide/).
 </details>
@@ -176,18 +176,18 @@ Both one-sided limits equal 2, so **f is differentiable at x = 1, with f′(1) =
 
 Let f(x) = 3/∛x for x > 0. What is f′(8)?
 
-- (A) −1/16
-- (B) −1/4
-- (C) −1/2
+- (A) −1/4
+- (B) −1/2
+- (C) −1/16
 - (D) 36
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Rewrite f(x) = 3x^(−1/3). Then f′(x) = 3 × (−1/3)x^(−4/3) = −x^(−4/3). Since 8^(1/3) = 2, 8^(4/3) = 16, so f′(8) = −1/16.
+**Answer: (C).** Rewrite f(x) = 3x^(−1/3). Then f′(x) = 3 × (−1/3)x^(−4/3) = −x^(−4/3). Since 8^(1/3) = 2, 8^(4/3) = 16, so f′(8) = −1/16.
 
-- (B) subtracts 1/3 instead of 1 from the exponent, giving −x^(−2/3).
-- (C) brings the power down but forgets to subtract 1.
+- (A) subtracts 1/3 instead of 1 from the exponent, giving −x^(−2/3).
+- (B) brings the power down but forgets to subtract 1.
 - (D) applies the power rule to the denominator alone, as if the derivative of 3/u were 3/u′.
 
 **If you missed this:** [Topic 2.5 study guide](/advanced-course-resources/calculus-ab/2-5-applying-power-rule-study-guide/).
@@ -197,17 +197,17 @@ Let f(x) = 3/∛x for x > 0. What is f′(8)?
 
 The line tangent to y = x³ − 2x² + kx at x = 2 is parallel to the line y = 7x. What is the constant k?
 
-- (A) 3
-- (B) −1
+- (A) −1
+- (B) 3
 - (C) 7/2
 - (D) 7
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Parallel lines have equal slopes, so dy/dx = 7 at x = 2. Term by term, dy/dx = 3x² − 4x + k. At x = 2: 12 − 8 + k = 7, so k = 3.
+**Answer: (B).** Parallel lines have equal slopes, so dy/dx = 7 at x = 2. Term by term, dy/dx = 3x² − 4x + k. At x = 2: 12 − 8 + k = 7, so k = 3.
 
-- (B) differentiates −2x² as −2x.
+- (A) differentiates −2x² as −2x.
 - (C) sets the y-value, 8 − 8 + 2k, equal to 7 instead of the slope.
 - (D) assumes the slope of kx alone must be 7.
 
@@ -218,38 +218,38 @@ The line tangent to y = x³ − 2x² + kx at x = 2 is parallel to the line y = 7
 
 Let f(x) = 4 ln x − x² for x > 0. At which x does the graph of f have a horizontal tangent line?
 
-- (A) x = √2
-- (B) x = −√2 and x = √2
-- (C) x = 2
-- (D) x = e
+- (A) x = −√2 and x = √2
+- (B) x = 2
+- (C) x = e
+- (D) x = √2
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** f′(x) = 4/x − 2x. Set it equal to 0: 4/x = 2x, so x² = 2. Only x = √2 is in the domain x > 0.
+**Answer: (D).** f′(x) = 4/x − 2x. Set it equal to 0: 4/x = 2x, so x² = 2. Only x = √2 is in the domain x > 0.
 
-- (B) forgets that ln x needs x > 0.
-- (C) solves 4/x = 2 instead of 4/x = 2x.
-- (D) is a guess; it does not solve f′(x) = 0.
+- (A) forgets that ln x needs x > 0.
+- (B) solves 4/x = 2 instead of 4/x = 2x.
+- (C) does not solve f′(x) = 0.
 
 **If you missed this:** [Topic 2.7 study guide](/advanced-course-resources/calculus-ab/2-7-derivatives-cos-x-sin-x-study-guide/).
 </details>
 
 ## Question 10 (multiple choice · 2.7)
 
-What is lim (x → 2) (eˣ − e²)/(x − 2)?
+What is lim (x → 4) (ln x − ln 4)/(x − 4)?
 
-- (A) e²
-- (B) 2e
+- (A) 1/4
+- (B) ln 4
 - (C) 0
 - (D) It does not exist, because substitution gives 0/0.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** This is the x-form of the definition, lim (x → a) (f(x) − f(a))/(x − a), with f(x) = eˣ and a = 2. Since d/dx eˣ = eˣ, the limit is f′(2) = e².
+**Answer: (A).** This is the x-form of the definition, lim (x → a) (f(x) − f(a))/(x − a), with f(x) = ln x and a = 4. Since d/dx ln x = 1/x, the limit is f′(4) = 1/4.
 
-- (B) treats eˣ like a power function, as if its derivative were x·e^(x − 1).
+- (B) is f(4), the value, not the slope.
 - (C) assumes the top tending to 0 makes the whole fraction 0.
 - (D) 0/0 means "find another method", here recognising a derivative.
 
@@ -260,18 +260,18 @@ What is lim (x → 2) (eˣ − e²)/(x − 2)?
 
 Let y = √x · eˣ. What is dy/dx at x = 1?
 
-- (A) 3e/2
-- (B) e/2
-- (C) e
+- (A) e/2
+- (B) e
+- (C) 3e/2
 - (D) 2e
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Product rule: dy/dx = (1/(2√x))eˣ + √x·eˣ. At x = 1: e/2 + e = 3e/2.
+**Answer: (C).** Product rule: dy/dx = (1/(2√x))eˣ + √x·eˣ. At x = 1: e/2 + e = 3e/2.
 
-- (B) multiplies the two derivatives, (1/2) × e.
-- (C) keeps only the second term of the product rule.
+- (A) multiplies the two derivatives, (1/2) × e.
+- (B) keeps only the second term of the product rule.
 - (D) uses x^(−1/2) as the derivative of √x, dropping the factor 1/2.
 
 **If you missed this:** [Topic 2.8 study guide](/advanced-course-resources/calculus-ab/2-8-product-rule-study-guide/).
@@ -279,21 +279,21 @@ Let y = √x · eˣ. What is dy/dx at x = 1?
 
 ## Question 12 (multiple choice · 2.9)
 
-Let f(x) = (sin x)/x for x ≠ 0. What is f′(π)?
+Let f(x) = (cos x)/x for x ≠ 0. What is f′(π/2)?
 
-- (A) −1/π
-- (B) 1/π
+- (A) 2/π
+- (B) −2/π
 - (C) −1
-- (D) −π
+- (D) −π/2
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Quotient rule: f′(x) = (x cos x − sin x · 1)/x². At x = π: (π(−1) − 0)/π² = −1/π.
+**Answer: (B).** Quotient rule: f′(x) = (x(−sin x) − cos x · 1)/x². At x = π/2: (−π/2 − 0)/(π²/4) = −2/π.
 
-- (B) reverses the order of the top: sin x · 1 − x cos x.
-- (C) divides the derivatives, cos x / 1.
-- (D) forgets to divide by x² = π².
+- (A) reverses the order of the top: cos x · 1 − x(−sin x).
+- (C) divides the derivatives, −sin x / 1.
+- (D) forgets to divide by x² = π²/4.
 
 **If you missed this:** [Topic 2.9 study guide](/advanced-course-resources/calculus-ab/2-9-quotient-rule-study-guide/).
 </details>
@@ -337,5 +337,5 @@ Let f(x) = sec x + tan x for −π/2 < x < π/2.
 
 - **Mark each topic** secure, shaky (unsure or a slip) or gap (wrong).
 - **Fix gaps in Topics 2.1, 2.2 and 2.5 first**; every later rule builds on them.
-- **For a gap**, read the guide, then do the topic's practice set.
+- **For a gap**, read the guide, then the practice set.
 - **Then try the [Unit 2 mixed review](/advanced-course-resources/calculus-ab/unit-2-review/)**, where each question combines topics.

@@ -43,18 +43,18 @@ author: "marlbridge-academic-team"
 
 A function f is differentiable for all real x, with f(2) = 7 and f(6) = −1. Which statement **must** be true?
 
-- (A) f′(c) = −2 for some c in (2, 6).
-- (B) f′(c) = 0 for some c in (2, 6).
-- (C) f′(4) = −2.
+- (A) f′(c) = 0 for some c in (2, 6).
+- (B) f′(4) = −2.
+- (C) f′(c) = −2 for some c in (2, 6).
 - (D) f′(c) = 3 for some c in (2, 6).
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** f is differentiable, so both conditions hold on [2, 6]. The average rate is (−1 − 7)/(6 − 2) = −2, so by the Mean Value Theorem f′(c) = −2 for some c in (2, 6).
+**Answer: (C).** f is differentiable, so both conditions hold on [2, 6]. The average rate is (−1 − 7)/(6 − 2) = −2, so by the Mean Value Theorem f′(c) = −2 for some c in (2, 6).
 
-- (B) would need f(2) = f(6).
-- (C) assumes c is the midpoint.
+- (A) would need f(2) = f(6).
+- (B) assumes c is the midpoint.
 - (D) averages the two outputs instead of finding the secant slope.
 
 **If you missed this:** [Topic 5.1 study guide](/advanced-course-resources/calculus-ab/5-1-mean-value-theorem-study-guide/).
@@ -84,18 +84,18 @@ Which is the complete list of critical points of f(x) = x² − 8 ln x?
 
 Let f(x) = ln(x² + 1) − x. Which statement is true?
 
-- (A) f is decreasing on (−∞, ∞).
-- (B) f is increasing on (−∞, 1) and decreasing on (1, ∞).
-- (C) f is decreasing on (−∞, 1) and increasing on (1, ∞).
-- (D) f is increasing on (0, 1) only.
+- (A) f is increasing on (−∞, 1) and decreasing on (1, ∞).
+- (B) f is decreasing on (−∞, 1) and increasing on (1, ∞).
+- (C) f is increasing on (0, ∞).
+- (D) f is decreasing on (−∞, ∞).
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** f′(x) = 2x/(x² + 1) − 1 = −(x − 1)²/(x² + 1), which is negative for every x except x = 1. A single zero with the same sign on both sides does not end an interval of decrease.
+**Answer: (D).** f′(x) = 2x/(x² + 1) − 1 = −(x − 1)²/(x² + 1), which is negative for every x except x = 1. A single zero with the same sign on both sides does not end an interval of decrease.
 
-- (B) and (C) assume f′ changes sign at x = 1. A squared factor does not.
-- (D) forgets the − 1.
+- (A) and (B) assume f′ changes sign at x = 1. A squared factor does not.
+- (C) forgets the − 1: 2x/(x² + 1) alone is positive for x > 0.
 
 **If you missed this:** [Topic 5.3 study guide](/advanced-course-resources/calculus-ab/5-3-determining-intervals-on-which-function-study-guide/).
 </details>
@@ -124,17 +124,17 @@ Let f(x) = x − 4 arctan x.
 
 What are the absolute maximum and absolute minimum values of f(x) = x − 2√x on [0, 9]?
 
-- (A) Maximum 3, at x = 9; minimum −1, at x = 1
-- (B) Maximum 3, at x = 9; minimum 0, at x = 0
+- (A) Maximum 3, at x = 9; minimum 0, at x = 0
+- (B) Maximum 3, at x = 9; minimum −1, at x = 1
 - (C) Maximum 0, at x = 0; minimum −1, at x = 1
 - (D) There is no absolute maximum, because f′(0) does not exist.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** f is continuous on [0, 9], so the Candidates Test applies. f′(x) = 1 − 1/√x = 0 at x = 1. Candidates: f(0) = 0, f(1) = −1, f(9) = 3.
+**Answer: (B).** f is continuous on [0, 9], so the Candidates Test applies. f′(x) = 1 − 1/√x = 0 at x = 1. Candidates: f(0) = 0, f(1) = −1, f(9) = 3.
 
-- (B) misses x = 1.
+- (A) misses x = 1.
 - (C) misses the right endpoint.
 - (D) The Extreme Value Theorem needs continuity, not differentiability.
 
@@ -145,18 +145,18 @@ What are the absolute maximum and absolute minimum values of f(x) = x − 2√x 
 
 Let f(x) = xeˣ. Which statement about the graph of f is true?
 
-- (A) Concave up on (−2, ∞); point of inflection at x = −2
-- (B) Concave up on (−1, ∞); point of inflection at x = −1
-- (C) Concave up for all x, because eˣ > 0
+- (A) Concave up on (−1, ∞); point of inflection at x = −1
+- (B) Concave up for all x, because eˣ > 0
+- (C) Concave up on (−2, ∞); point of inflection at x = −2
 - (D) Concave down on (−2, ∞); point of inflection at x = −2
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** f′(x) = (x + 1)eˣ and f″(x) = (x + 2)eˣ, which has the sign of x + 2. f″ changes from negative to positive at x = −2.
+**Answer: (C).** f′(x) = (x + 1)eˣ and f″(x) = (x + 2)eˣ, which has the sign of x + 2. f″ changes from negative to positive at x = −2.
 
-- (B) uses the zero of f′, a critical point.
-- (C) ignores the factor x + 2.
+- (A) uses the zero of f′, a critical point.
+- (B) ignores the factor x + 2.
 - (D) reverses the sign of f″.
 
 **If you missed this:** [Topic 5.6 study guide](/advanced-course-resources/calculus-ab/5-6-determining-concavity-functions-over-their-study-guide/).
@@ -166,19 +166,19 @@ Let f(x) = xeˣ. Which statement about the graph of f is true?
 
 Let f(x) = eˣ − 2x for all real x. Which statement is true?
 
-- (A) The absolute minimum value of f is 2 − 2 ln 2, at x = ln 2.
-- (B) f has a relative maximum at x = ln 2, because f′(ln 2) = 0.
-- (C) f has a relative minimum at x = ln 2, but with no closed interval there is no absolute minimum.
-- (D) The absolute minimum value of f is e² − 4, at x = 2.
+- (A) f has a relative maximum at x = ln 2, because f′(ln 2) = 0.
+- (B) f has a relative minimum at x = ln 2, but with no closed interval there is no absolute minimum.
+- (C) The absolute minimum value of f is e² − 4, at x = 2.
+- (D) The absolute minimum value of f is 2 − 2 ln 2, at x = ln 2.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** f′(x) = eˣ − 2 = 0 only at x = ln 2, and f″(ln 2) = 2 > 0: a relative minimum. It is the only critical point of a continuous function, so it is the absolute minimum.
+**Answer: (D).** f′(x) = eˣ − 2 = 0 only at x = ln 2, and f″(ln 2) = 2 > 0: a relative minimum. It is the only critical point of a continuous function, so it is the absolute minimum.
 
-- (B) f′ = 0 only marks a candidate; the sign of f″ decides.
-- (C) The one-critical-point rule works on open intervals too.
-- (D) solves eˣ = 2 as x = 2.
+- (A) f′ = 0 only marks a candidate; the sign of f″ decides.
+- (B) The one-critical-point rule works on open intervals too.
+- (C) solves eˣ = 2 as x = 2.
 
 **If you missed this:** [Topic 5.7 study guide](/advanced-course-resources/calculus-ab/5-7-second-derivative-test-determine-extrema-study-guide/).
 </details>
@@ -187,17 +187,17 @@ Let f(x) = eˣ − 2x for all real x. Which statement is true?
 
 You are sketching f(x) = x⁴ − 6x². Which gives the x-coordinates of every relative extremum and point of inflection?
 
-- (A) Minimums at ±√3; maximum at 0; inflection at ±1
-- (B) Minimums at ±√3; maximum at 0; inflection at 0 only
+- (A) Minimums at ±√3; maximum at 0; inflection at 0 only
+- (B) Minimums at ±√3; maximum at 0; inflection at ±1
 - (C) Minimums at ±1; maximum at 0; inflection at ±√3
 - (D) Minimums at ±√3; no maximum; inflection at ±1
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** f′(x) = 4x(x² − 3) has signs −, +, −, + across −√3, 0, √3: minimums at ±√3 (value −9), maximum at 0 (value 0). f″(x) = 12(x² − 1) changes sign at ±1 (value −5).
+**Answer: (B).** f′(x) = 4x(x² − 3) has signs −, +, −, + across −√3, 0, √3: minimums at ±√3 (value −9), maximum at 0 (value 0). f″(x) = 12(x² − 1) changes sign at ±1 (value −5).
 
-- (B) guesses the centre of symmetry; f″(0) = −12.
+- (A) guesses the centre of symmetry; f″(0) = −12.
 - (C) swaps the zeros of f′ and f″.
 - (D) misses the sign change of f′ at 0.
 
@@ -229,18 +229,18 @@ f is twice differentiable on (0, 6). The graph of f′ rises on (0, 2), falls on
 
 At a ticket price of p dollars, a fictional concert hall sells N(p) = 900 − 30p tickets, for 10 ≤ p ≤ 30. Which price gives the greatest revenue?
 
-- (A) $15
-- (B) $30
-- (C) $10
+- (A) $30
+- (B) $10
+- (C) $15
 - (D) $6,750
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** R(p) = p(900 − 30p), so R′(p) = 900 − 60p = 0 at p = 15. Candidates: R(10) = 6,000, R(15) = 6,750, R(30) = 0.
+**Answer: (C).** R(p) = p(900 − 30p), so R′(p) = 900 − 60p = 0 at p = 15. Candidates: R(10) = 6,000, R(15) = 6,750, R(30) = 0.
 
-- (B) solves N(p) = 0 instead of R′(p) = 0.
-- (C) gives the most tickets, not the most revenue.
+- (A) solves N(p) = 0 instead of R′(p) = 0.
+- (B) gives the most tickets, not the most revenue.
 - (D) is the greatest revenue, not the price.
 
 **If you missed this:** [Topic 5.10 study guide](/advanced-course-resources/calculus-ab/5-10-introduction-optimization-problems-study-guide/).
@@ -270,17 +270,17 @@ A fictional print studio can make between 1 and 200 figurines a day. Making x fi
 
 The curve eʸ + y = x² − 2x + 2 passes through (1, 0) and defines y as a differentiable function of x. Which statement is true at (1, 0)?
 
-- (A) dy/dx = 0 and d²y/dx² = 1, so y has a relative minimum at x = 1.
-- (B) dy/dx = 0 and d²y/dx² = −1, so y has a relative maximum at x = 1.
+- (A) dy/dx = 0 and d²y/dx² = −1, so y has a relative maximum at x = 1.
+- (B) dy/dx = 0 and d²y/dx² = 1, so y has a relative minimum at x = 1.
 - (C) dy/dx = 0 and d²y/dx² = 2, so y has a relative minimum at x = 1.
 - (D) dy/dx does not exist, so (1, 0) is not a critical point.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** (eʸ + 1)y′ = 2x − 2, so y′ = 0 at (1, 0). Differentiate again: eʸ(y′)² + (eʸ + 1)y″ = 2. At (1, 0): 2y″ = 2, so y″ = 1 > 0.
+**Answer: (B).** (eʸ + 1)y′ = 2x − 2, so y′ = 0 at (1, 0). Differentiate again: eʸ(y′)² + (eʸ + 1)y″ = 2. At (1, 0): 2y″ = 2, so y″ = 1 > 0.
 
-- (B) gets the sign of y″ wrong, which reverses the conclusion.
+- (A) gets the sign of y″ wrong, which reverses the conclusion.
 - (C) forgets to divide by eʸ + 1 = 2.
 - (D) eʸ + 1 is never 0, so dy/dx always exists.
 

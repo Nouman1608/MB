@@ -36,19 +36,19 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-Use this page after studying Unit 10, Infinite Sequences and Series, or after the [Unit 10 diagnostic](/advanced-course-resources/calculus-bc/unit-10-diagnostic/). The unit is **BC only**: it is not part of Calculus AB. These are **original Marlbridge practice questions**, not past exam questions, with invented functions and data. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not official scoring. No calculator for any question.
+Use this page after studying Unit 10, Infinite Sequences and Series, or after the [Unit 10 diagnostic](/advanced-course-resources/calculus-bc/unit-10-diagnostic/). The unit is **BC only**: it is not part of Calculus AB. These are **original Marlbridge practice questions**, not past exam questions. The rubrics are a suggested Marlbridge rubric, not official scoring. No calculator for any question.
 
 ## Big ideas of the unit
 
-- **A sum of infinitely many terms is a limit.** A series converges to S when its partial sums Sₙ approach S. Terms, partial sums and the sum are three different objects ([Topic 10.1](/advanced-course-resources/calculus-bc/10-1-defining-convergent-divergent-infinite-series-study-guide/)).
-- **Geometric series are the family you can always sum.** Σ arⁿ converges to (first term)/(1 − r) exactly when |r| < 1. Many power series grow out of this fact ([Topic 10.2](/advanced-course-resources/calculus-bc/10-2-working-geometric-series-study-guide/)).
-- **Terms tending to 0 is necessary, never enough.** If lim aₙ ≠ 0, the series diverges. If the limit is 0, you still need another test; the harmonic series is the warning ([Topic 10.3](/advanced-course-resources/calculus-bc/10-3-nth-term-test-divergence-study-guide/), [Topic 10.5](/advanced-course-resources/calculus-bc/10-5-harmonic-series-p-series-study-guide/)).
-- **Positive series are compared with something you know**: an area (integral test), or a p-series or geometric series (comparison tests). State each test's conditions ([Topic 10.4](/advanced-course-resources/calculus-bc/10-4-integral-test-convergence-study-guide/), [Topic 10.6](/advanced-course-resources/calculus-bc/10-6-comparison-tests-convergence-study-guide/)).
-- **Signs matter.** An alternating series whose terms decrease to 0 converges, even when Σ |aₙ| does not (conditional convergence). Absolute convergence, of Σ |aₙ|, implies convergence ([Topic 10.7](/advanced-course-resources/calculus-bc/10-7-alternating-series-test-convergence-study-guide/), [Topic 10.9](/advanced-course-resources/calculus-bc/10-9-determining-absolute-conditional-convergence-study-guide/)).
-- **The ratio test compares a series with a geometric one.** It is the natural test for factorials and powers, and it is how you find a radius of convergence. When L = 1 it says nothing ([Topic 10.8](/advanced-course-resources/calculus-bc/10-8-ratio-test-convergence-study-guide/), [Topic 10.13](/advanced-course-resources/calculus-bc/10-13-radius-interval-convergence-power-series-study-guide/)).
+- **A sum of infinitely many terms is a limit.** A series converges to S when its partial sums Sₙ approach S ([Topic 10.1](/advanced-course-resources/calculus-bc/10-1-defining-convergent-divergent-infinite-series-study-guide/)).
+- **Geometric series are the family you can always sum.** Σ arⁿ converges to (first term)/(1 − r) exactly when |r| < 1 ([Topic 10.2](/advanced-course-resources/calculus-bc/10-2-working-geometric-series-study-guide/)).
+- **Terms tending to 0 is necessary, never enough.** If lim aₙ ≠ 0, the series diverges. If the limit is 0, you need another test (think of the harmonic series) ([Topic 10.3](/advanced-course-resources/calculus-bc/10-3-nth-term-test-divergence-study-guide/), [Topic 10.5](/advanced-course-resources/calculus-bc/10-5-harmonic-series-p-series-study-guide/)).
+- **Positive series are compared with something you know**: an area (integral test), or a p-series or geometric series (comparison tests) ([Topic 10.4](/advanced-course-resources/calculus-bc/10-4-integral-test-convergence-study-guide/), [Topic 10.6](/advanced-course-resources/calculus-bc/10-6-comparison-tests-convergence-study-guide/)).
+- **Signs matter.** An alternating series whose terms decrease to 0 converges, even when Σ |aₙ| diverges (conditional convergence). Absolute convergence implies convergence ([Topic 10.7](/advanced-course-resources/calculus-bc/10-7-alternating-series-test-convergence-study-guide/), [Topic 10.9](/advanced-course-resources/calculus-bc/10-9-determining-absolute-conditional-convergence-study-guide/)).
+- **The ratio test compares a series with a geometric one.** It suits factorials and powers, and it finds a radius of convergence. When L = 1 it says nothing ([Topic 10.8](/advanced-course-resources/calculus-bc/10-8-ratio-test-convergence-study-guide/), [Topic 10.13](/advanced-course-resources/calculus-bc/10-13-radius-interval-convergence-power-series-study-guide/)).
 - **Every estimate needs an error bound.** For an alternating series, the error is less than the first term left out. For a Taylor polynomial, the Lagrange bound uses the next derivative ([Topic 10.10](/advanced-course-resources/calculus-bc/10-10-alternating-series-error-bound-study-guide/), [Topic 10.12](/advanced-course-resources/calculus-bc/10-12-lagrange-error-bound-study-guide/)).
-- **Taylor polynomials are partial sums of Taylor series.** The coefficient of (x − a)ⁿ is f⁽ⁿ⁾(a)/n!, in both directions: from derivatives to coefficients, and from coefficients back to derivatives ([Topic 10.11](/advanced-course-resources/calculus-bc/10-11-finding-taylor-polynomial-approximations-functions-study-guide/), [Topic 10.14](/advanced-course-resources/calculus-bc/10-14-finding-taylor-maclaurin-series-function-study-guide/)).
-- **New series come from old ones.** Substitute, multiply by a power of x, differentiate or integrate term by term. The radius stays the same, but each endpoint must be tested again ([Topic 10.15](/advanced-course-resources/calculus-bc/10-15-representing-functions-as-power-series-study-guide/)).
+- **Taylor polynomials are partial sums of Taylor series.** The coefficient of (x − a)ⁿ is f⁽ⁿ⁾(a)/n!; use it both ways, from derivatives to coefficients and back ([Topic 10.11](/advanced-course-resources/calculus-bc/10-11-finding-taylor-polynomial-approximations-functions-study-guide/), [Topic 10.14](/advanced-course-resources/calculus-bc/10-14-finding-taylor-maclaurin-series-function-study-guide/)).
+- **New series come from old ones.** Substitute, multiply by a power of x, differentiate or integrate term by term. The radius stays the same; retest each endpoint ([Topic 10.15](/advanced-course-resources/calculus-bc/10-15-representing-functions-as-power-series-study-guide/)).
 
 ## Key relationships and methods
 
@@ -70,21 +70,21 @@ Use this page after studying Unit 10, Infinite Sequences and Series, or after th
 
 ## Question 1 (multiple choice · mixed)
 
-What is the value of Σ from n = 1 to ∞ of n/2ⁿ⁺¹?
+What is the value of Σ from n = 1 to ∞ of (−1)ⁿ⁺¹ n/3ⁿ?
 
-- (A) 1
-- (B) 2
-- (C) 1/2
+- (A) 3/4
+- (B) 3/16
+- (C) 1/4
 - (D) The series diverges, because the numerators grow without bound.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** For |x| < 4, Σ from n = 0 of (x/4)ⁿ = 4/(4 − x). Differentiate term by term: Σ from n = 1 of n xⁿ⁻¹/4ⁿ = 4/(4 − x)². At x = 2, each term is n · 2ⁿ⁻¹/4ⁿ = n/2ⁿ⁺¹, and the sum is 4/2² = 1. (The ratio test gives L = 1/2, so the series does converge.)
+**Answer: (B).** For |x| < 1, differentiating Σ xⁿ = 1/(1 − x) term by term gives Σ n xⁿ⁻¹ = 1/(1 − x)², so Σ n xⁿ = x/(1 − x)². At x = −1/3 this is (−1/3)/(4/3)² = −3/16. Each given term is −n(−1/3)ⁿ, so the sum is **3/16**. (The ratio test gives L = 1/3, so the series converges absolutely.)
 
-- (B) is Σ n/2ⁿ, which is twice the given series.
-- (C) halves the answer a second time.
-- (D) 2ⁿ⁺¹ grows much faster than n; the ratio test gives convergence.
+- (A) ignores the signs: it is Σ n/3ⁿ.
+- (C) drops the factor n: it is Σ (−1)ⁿ⁺¹/3ⁿ.
+- (D) 3ⁿ grows much faster than n; the ratio test gives convergence.
 
 Topics: 10.2, 10.8, 10.15.
 </details>
@@ -93,19 +93,19 @@ Topics: 10.2, 10.8, 10.15.
 
 The Maclaurin series for sin x is used to estimate sin(0.2) by 0.2 − 0.2³/6. Which statement is true?
 
-- (A) The estimate is too low, by less than 0.2⁵/120.
-- (B) The estimate is too high, by less than 0.2⁵/120.
-- (C) The estimate is too low, by less than 0.2³/6.
-- (D) The estimate is too high, by less than 0.2⁴/24.
+- (A) The estimate is too high, by less than 0.2⁵/120.
+- (B) The estimate is too low, by less than 0.2³/6.
+- (C) The estimate is too high, by less than 0.2⁴/24.
+- (D) The estimate is too low, by less than 0.2⁵/120.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** At x = 0.2 the series 0.2 − 0.2³/3! + 0.2⁵/5! − … alternates, with terms decreasing to 0. The error is less than the first term left out, 0.2⁵/120 (about 2.7 × 10⁻⁶), and that term is positive, so the estimate is too low.
+**Answer: (D).** At x = 0.2 the series 0.2 − 0.2³/3! + 0.2⁵/5! − … alternates, with terms decreasing to 0. The error is less than the first term left out, 0.2⁵/120, and that term is positive, so the estimate is too low.
 
-- (B) gets the direction wrong: the next term is added.
-- (C) uses the last term kept.
-- (D) sin x has no x⁴ term, and the direction is wrong.
+- (A) gets the direction wrong: the next term is added.
+- (B) uses the last term kept.
+- (C) sin x has no x⁴ term, and the direction is wrong.
 
 Topics: 10.10, 10.12, 10.14.
 </details>
@@ -125,7 +125,7 @@ Which statement about Σ from n = 1 to ∞ of (x − 2)ⁿ/√(n³ + 1) is true?
 **Answer: (C).** The ratio test gives L = |x − 2|, so R = 1. At x = 3 the series is Σ 1/√(n³ + 1); limit comparison with Σ 1/n^(3/2) gives a limit of 1, and p = 3/2 > 1, so it converges. At x = 1 the terms are (−1)ⁿ/√(n³ + 1), whose absolute values form that same convergent series: absolute convergence.
 
 - (A) never tests the endpoints.
-- (B) and (D) treat x = 1 as if the absolute values gave a divergent series. They do not.
+- (B) and (D) wrongly treat x = 1 as conditional convergence.
 
 Topics: 10.6, 10.9, 10.13.
 </details>
@@ -146,7 +146,7 @@ A function f has derivatives of all orders. It satisfies f′(x) = 1 + x f(x) fo
 
 **(b)** P₃(x) = 2 + x + (2/2!)x² + (2/3!)x³ = **2 + x + x² + x³/3**. So f(0.5) ≈ 2 + 0.5 + 0.25 + 1/24 = **67/24** (about 2.792).
 
-**(c)** The Lagrange bound is 16 × 0.5⁴/4! = 16 × (1/16)/24 = **1/24**. So f(0.5) ≤ 67/24 + 1/24 = 68/24 = 17/6 (about 2.833), which is less than 3. In fact f(0.5) lies between 11/4 and 17/6.
+**(c)** The Lagrange bound is 16 × 0.5⁴/4! = 16 × (1/16)/24 = **1/24**. So f(0.5) ≤ 67/24 + 1/24 = 68/24 = 17/6 (about 2.833), which is less than 3.
 
 **(d)** Differentiate once more: f⁽⁴⁾(x) = 3f″(x) + x f‴(x), so **f⁽⁴⁾(0) = 6**. The coefficient of x⁴ is 6/4! = **1/4**.
 
@@ -244,34 +244,34 @@ Total: 7 points. Topics: 10.4, 10.6, 10.8, 10.9.
 
 ## Question 7 (constructed response · mixed)
 
-Let aₙ = 4/3ⁿ + 2/(n(n + 2)) for n ≥ 1.
+Let aₙ = 4/3ⁿ + 6/(n(n + 3)) for n ≥ 1.
 
 (a) Show that Σ from n = 1 to ∞ of 4/3ⁿ converges, and find its sum.
-(b) Show that 2/(n(n + 2)) = 1/n − 1/(n + 2). Use it to show that the nth partial sum of Σ 2/(n(n + 2)) is Tₙ = 3/2 − 1/(n + 1) − 1/(n + 2).
+(b) Show that 6/(n(n + 3)) = 2/n − 2/(n + 3). Use it to show that the nth partial sum of Σ 6/(n(n + 3)) is Tₙ = 11/3 − 2/(n + 1) − 2/(n + 2) − 2/(n + 3).
 (c) Find Σ from n = 1 to ∞ of aₙ.
-(d) A student says: "The terms of Σ (4/3ⁿ + 2/n) tend to 0, so this series also converges." Explain whether the student is right.
+(d) A student says: "The terms of Σ (4/3ⁿ + 6/n) tend to 0, so this series also converges." Explain whether the student is right.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** It is geometric with first term 4/3 and ratio 1/3. |1/3| < 1, so it converges to (4/3)/(1 − 1/3) = **2**.
+**(a)** Geometric, first term 4/3, ratio 1/3 < 1, so it converges to (4/3)/(1 − 1/3) = **2**.
 
-**(b)** 1/n − 1/(n + 2) = (n + 2 − n)/(n(n + 2)) = 2/(n(n + 2)). In the partial sum, each −1/k cancels the +1/k two terms later:
-Tₙ = (1 − 1/3) + (1/2 − 1/4) + (1/3 − 1/5) + … + (1/n − 1/(n + 2)).
-Only 1 + 1/2 at the start and −1/(n + 1) − 1/(n + 2) at the end survive, so **Tₙ = 3/2 − 1/(n + 1) − 1/(n + 2)**. (Check: T₁ = 3/2 − 1/2 − 1/3 = 2/3 = 2/(1 · 3).)
+**(b)** 2/n − 2/(n + 3) = 2(n + 3 − n)/(n(n + 3)) = 6/(n(n + 3)). In the partial sum, each −2/k cancels the +2/k three terms later:
+Tₙ = (2 − 2/4) + (2/2 − 2/5) + (2/3 − 2/6) + (2/4 − 2/7) + … + (2/n − 2/(n + 3)).
+Only 2 + 1 + 2/3 at the start and the last three negative terms survive, so **Tₙ = 11/3 − 2/(n + 1) − 2/(n + 2) − 2/(n + 3)**. (Check: T₁ = 11/3 − 1 − 2/3 − 1/2 = 3/2 = 6/(1 · 4).)
 
-**(c)** lim Tₙ = 3/2, so Σ 2/(n(n + 2)) = 3/2. The sum of two convergent series is the sum of their sums: **Σ aₙ = 2 + 3/2 = 7/2**.
+**(c)** lim Tₙ = 11/3, so Σ 6/(n(n + 3)) = 11/3. Two convergent series add: **Σ aₙ = 2 + 11/3 = 17/3**.
 
-**(d)** The student is **wrong**. Terms tending to 0 is necessary but not enough; the nth term test gives no conclusion. Σ 2/n is twice the harmonic series (p = 1), so it diverges. If Σ (4/3ⁿ + 2/n) converged, subtracting the convergent Σ 4/3ⁿ would make Σ 2/n converge. So **Σ (4/3ⁿ + 2/n) diverges**.
+**(d)** The student is **wrong**. Terms tending to 0 is not enough; the nth term test gives no conclusion. Σ 6/n is six times the harmonic series (p = 1), so it diverges. If Σ (4/3ⁿ + 6/n) converged, subtracting the convergent Σ 4/3ⁿ would make Σ 6/n converge. So **Σ (4/3ⁿ + 6/n) diverges**.
 
 | Point | What earns it |
 |---|---|
 | 1 | Geometric with \|r\| = 1/3 < 1, and sum 2 |
 | 1 | Partial fractions verified |
 | 1 | Telescoping shown, giving the formula for Tₙ |
-| 1 | lim Tₙ = 3/2, by the definition of the sum |
-| 1 | Total 7/2 |
-| 1 | (d): nth term test inconclusive, and Σ 2/n diverges (p = 1) |
+| 1 | lim Tₙ = 11/3, by the definition of the sum |
+| 1 | Total 17/3 |
+| 1 | (d): nth term test inconclusive, and Σ 6/n diverges (p = 1) |
 | 1 | (d): convergent + divergent diverges, so the student is wrong |
 
 Total: 7 points. Topics: 10.1, 10.2, 10.3, 10.5.
@@ -279,7 +279,7 @@ Total: 7 points. Topics: 10.1, 10.2, 10.3, 10.5.
 
 ## How did you do?
 
-Add up your points from Questions 4–7 (30 in total) and your correct answers to Questions 1–3. The total is only a guide, not a predicted exam score. More useful: note **which topics** your lost points came from (each answer lists them), then tick off those topic checklists:
+Add up your points from Questions 4–7 (30 in total) and your correct answers to Questions 1–3. The total is only a guide, not a predicted exam score. Then note **which topics** your lost points came from (each answer lists them), then tick off those topic checklists:
 
 [10.1](/advanced-course-resources/calculus-bc/10-1-defining-convergent-divergent-infinite-series-checklist/) ·
 [10.2](/advanced-course-resources/calculus-bc/10-2-working-geometric-series-checklist/) ·
@@ -297,4 +297,4 @@ Add up your points from Questions 4–7 (30 in total) and your correct answers t
 [10.14](/advanced-course-resources/calculus-bc/10-14-finding-taylor-maclaurin-series-function-checklist/) ·
 [10.15](/advanced-course-resources/calculus-bc/10-15-representing-functions-as-power-series-checklist/)
 
-If many topics need work, go back to the [Unit 10 diagnostic](/advanced-course-resources/calculus-bc/unit-10-diagnostic/) and use its "Your next step" table to choose where to start.
+If many topics need work, start from the "Your next step" table in the [Unit 10 diagnostic](/advanced-course-resources/calculus-bc/unit-10-diagnostic/).

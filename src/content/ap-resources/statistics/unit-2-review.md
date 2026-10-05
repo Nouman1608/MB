@@ -36,7 +36,7 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-Read the big ideas and the method table, then try the seven questions without notes. Each question combines two or more Unit 2 topics.
+Read the big ideas and the method table, then try the seven questions without notes.
 
 These are **original Marlbridge practice questions**, not past exam questions, with fictional data. The rubrics are a **suggested Marlbridge rubric**, not official scoring.
 
@@ -98,18 +98,18 @@ Topics: 2.2 (conditional relative frequencies), 2.6, 2.7.
 
 At a fictional bike shop, a customer buys a helmet with probability 0.30 and lights with probability 0.50. What is P(helmet or lights) if the events were **mutually exclusive**, and what is it if they were **independent**?
 
-- (A) Mutually exclusive: 0.80; independent: 0.65
-- (B) Mutually exclusive: 0.65; independent: 0.80
-- (C) 0.80 in both cases
+- (A) Mutually exclusive: 0.65; independent: 0.80
+- (B) 0.80 in both cases
+- (C) Mutually exclusive: 0.80; independent: 0.65
 - (D) Mutually exclusive: 0.80; independent: 0.15
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Mutually exclusive: P(H ∩ L) = 0, so P(H ∪ L) = 0.30 + 0.50 = 0.80. Independent: P(H ∩ L) = 0.30 × 0.50 = 0.15, so P(H ∪ L) = 0.80 − 0.15 = 0.65.
+**Answer: (C).** Mutually exclusive: P(H ∩ L) = 0, so P(H ∪ L) = 0.30 + 0.50 = 0.80. Independent: P(H ∩ L) = 0.30 × 0.50 = 0.15, so P(H ∪ L) = 0.80 − 0.15 = 0.65.
 
-- (B) swaps the two cases.
-- (C) forgets that independent events with non-zero probabilities overlap.
+- (A) swaps the two cases.
+- (B) forgets that independent events with non-zero probabilities overlap.
 - (D) gives P(H ∩ L), not the union.
 
 Topics: 2.5, 2.7.
@@ -127,7 +127,7 @@ A fictional shop's mosaic plot of purchases has two columns: Online (width 0.30)
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (D).** Each area is a joint probability: online and returned 0.30 × 0.20 = 0.06; in-store and returned 0.70 × 0.05 = 0.035. P(returned) = 0.095, so P(online | returned) = 0.06 ÷ 0.095 ≈ 0.6316. In 2,000 purchases, 120 of the 190 returns would be online.
+**Answer: (D).** Each area is a joint probability: online and returned 0.30 × 0.20 = 0.06; in-store and returned 0.70 × 0.05 = 0.035. P(returned) = 0.095, so P(online | returned) = 0.06 ÷ 0.095 ≈ 0.6316.
 
 - (A) is the joint probability P(online ∩ returned).
 - (B) is P(returned | online), the condition reversed.
@@ -148,17 +148,17 @@ At the fictional Lockstep Escape Rooms, a team must open three locks in order an
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Use the general multiplication rule along the sequence of locks.
+**(a)** Multiply along the sequence of locks.
 
 | x | 0 | 1 | 2 | 3 |
 |---|---|---|---|---|
-| P(X = x) | 0.20 | 0.8 × 0.4 = 0.32 | 0.8 × 0.6 × 0.5 = 0.24 | 0.8 × 0.6 × 0.5 = 0.24 |
+| P(X = x) | 0.20 | 0.8 × 0.4 = 0.32 | 0.8 × 0.6 × (1 − 0.5) = 0.24 | 0.8 × 0.6 × 0.5 = 0.24 |
 
 Every probability is between 0 and 1, and 0.20 + 0.32 + 0.24 + 0.24 = 1.
 
 **(b)** P(X ≤ x): 0.20, 0.52, 0.76, 1.00. P(X ≥ 2) = 1 − P(X ≤ 1) = 1 − 0.52 = **0.48**.
 
-**(c)** μ = 0(0.20) + 1(0.32) + 2(0.24) + 3(0.24) = **1.52 locks**. Squared deviations weighted by probability: 0.4621 + 0.0865 + 0.0553 + 0.5257 = 1.1296, so σ = √1.1296 ≈ **1.06 locks**. Over a very large number of teams, the mean is about 1.52 locks opened per team, and a team's number of locks typically differs from 1.52 by about 1.06 locks.
+**(c)** μ = 0(0.20) + 1(0.32) + 2(0.24) + 3(0.24) = **1.52 locks**. Squared deviations weighted by probability: 0.4621 + 0.0865 + 0.0553 + 0.5257 = 1.1296, so σ = √1.1296 ≈ **1.06 locks**. Over very many teams, the mean is about 1.52 locks per team, and a team's count typically differs from 1.52 by about 1.06 locks.
 
 **(d)** The number of trials is not fixed (a team stops at its first failure), and the probability of success changes from lock to lock (0.8, 0.6, 0.5), so the trials do not share one p and are not independent.
 
@@ -210,7 +210,7 @@ Bottles from the fictional Clearbrook Water plant are labelled 500 ml. The volum
 
 (a) Find the probability that a randomly chosen bottle holds less than 500 ml.
 (b) A pack holds 6 bottles. Assuming bottles are independent, find the probability that at least one bottle in a pack holds less than 500 ml.
-(c) An inspector takes a random sample of 10 bottles each hour and records the sample mean x̄. A computer simulated 1,000 such samples from N(503, 2.5). The 1,000 values of x̄ formed a roughly symmetric, bell-shaped distribution with mean 502.97 ml and standard deviation 0.82 ml; 16 of them were 501.2 ml or less. Describe the sampling distribution of x̄ and compare its spread with that of single bottles.
+(c) An inspector takes a random sample of 10 bottles each hour and records the sample mean x̄. A computer simulated 1,000 such samples from N(503, 2.5). The 1,000 values of x̄ formed a roughly symmetric, bell-shaped distribution with mean 502.97 ml and standard deviation 0.79 ml; 12 of them were 501.2 ml or less. Describe the sampling distribution of x̄ and compare its spread with that of single bottles.
 (d) One hour, x̄ = 501.2 ml. Find the probability that a **single** bottle holds 501.2 ml or less. Is the hour's sample mean, or a single bottle of 501.2 ml, more surprising if the machine is working as stated? Explain.
 
 <details>
@@ -220,9 +220,9 @@ Bottles from the fictional Clearbrook Water plant are labelled 500 ml. The volum
 
 **(b)** The number of under-filled bottles in a pack is B(6, 0.1151). P(at least one) = 1 − (1 − 0.1151)⁶ = 1 − 0.4802 ≈ **0.5198**.
 
-**(c)** The simulated sampling distribution of x̄ is approximately normal, centred near 503 ml (mean 502.97 ml), with standard deviation about 0.82 ml. Sample means vary much less than single bottles (0.82 ml against 2.5 ml), because averaging 10 bottles cancels out much of their individual variation.
+**(c)** The simulated sampling distribution of x̄ is approximately normal, centred near 503 ml (mean 502.97 ml), with standard deviation about 0.79 ml. Sample means vary much less than single bottles (0.79 ml against 2.5 ml), because averaging cancels out much of the bottle-to-bottle variation.
 
-**(d)** Single bottle: z = (501.2 − 503) ÷ 2.5 = −0.72, so P(V ≤ 501.2) ≈ **0.2358**; about 1 bottle in 4 is this low, which is ordinary. Sample mean: only 16 of 1,000 simulated means (0.016) were this low. The **sample mean** is far more surprising, so this hour's result is evidence that the machine is now filling below 503 ml on average.
+**(d)** Single bottle: z = (501.2 − 503) ÷ 2.5 = −0.72, so P(V ≤ 501.2) ≈ **0.2358**; about 1 bottle in 4 is this low, which is ordinary. Sample mean: only 12 of 1,000 simulated means (0.012) were this low. The **sample mean** is far more surprising, so this hour's result is evidence that the machine is now filling below 503 ml on average.
 
 | Point | What earns it |
 |---|---|
@@ -230,7 +230,7 @@ Bottles from the fictional Clearbrook Water plant are labelled 500 ml. The volum
 | 1 | (b) 0.5198 using the complement and independence |
 | 1 | (c) Shape, centre and variability of x̄ in context |
 | 1 | (c) Sample means vary less than single bottles, with both values |
-| 1 | (d) 0.2358 for one bottle **and** 0.016 for the mean, with the conclusion about the machine |
+| 1 | (d) 0.2358 for one bottle **and** 0.012 for the mean, with the conclusion about the machine |
 
 **Total: 5 points.** Topics: 2.10, 2.11, 2.12.
 </details>
@@ -259,7 +259,7 @@ Attended: 17 ÷ 20 = 0.85 for text against 11 ÷ 20 = 0.55 for email. The condit
 
 **(b)** P(attended | text) = 0.85 but P(attended) = 28 ÷ 40 = 0.70. Since 0.85 ≠ 0.70, the events are **not independent**. P(text ∪ attended) = 20/40 + 28/40 − 17/40 = 31/40 = **0.775**.
 
-**(c)** Write "attended" on 28 cards and "missed" on 12. Shuffle and deal 20 to "text" and 20 to "email". Record (proportion attended in "text") − (proportion attended in "email"). This keeps every patient's outcome and only moves the labels, as if reminder type made no difference.
+**(c)** Write "attended" on 28 cards and "missed" on 12. Shuffle and deal 20 to "text" and 20 to "email". Record (proportion attended in "text") − (proportion attended in "email"). This keeps every outcome and moves only the labels.
 
 **(d)** Only 48 of 1,000 reallocations (0.048) gave a difference of 0.30 or more, so a difference this large would be unusual if reminder type made no difference. Because reminders were **randomly assigned**, this is evidence that text reminders **cause** higher attendance. The patients were volunteers, so the conclusion applies to patients like them.
 
@@ -276,6 +276,6 @@ Attended: 17 ÷ 20 = 0.85 for text against 11 ÷ 20 = 0.55 for email. The condit
 
 ## How did you do?
 
-Mark your answers with the rubrics and note the topics listed under each question you missed. Re-read those study guides, then tick off each checklist. If many topics went wrong, use the [Unit 2 diagnostic](/advanced-course-resources/statistics/unit-2-diagnostic/) to find the gaps.
+Mark your answers with the rubrics and note the topics under each question you missed. Re-read those study guides, then tick off each checklist. If many topics went wrong, use the [Unit 2 diagnostic](/advanced-course-resources/statistics/unit-2-diagnostic/) to find the gaps.
 
 Topic checklists: [2.1](/advanced-course-resources/statistics/2-1-tabular-graphical-representations-distributions-two-checklist/) · [2.2](/advanced-course-resources/statistics/2-2-summary-statistics-two-categorical-variables-checklist/) · [2.3](/advanced-course-resources/statistics/2-3-estimating-probabilities-simulation-checklist/) · [2.4](/advanced-course-resources/statistics/2-4-introduction-probability-checklist/) · [2.5](/advanced-course-resources/statistics/2-5-mutually-exclusive-events-checklist/) · [2.6](/advanced-course-resources/statistics/2-6-conditional-probability-checklist/) · [2.7](/advanced-course-resources/statistics/2-7-independent-events-unions-events-checklist/) · [2.8](/advanced-course-resources/statistics/2-8-introduction-random-variables-probability-distributions-checklist/) · [2.9](/advanced-course-resources/statistics/2-9-parameters-random-variables-checklist/) · [2.10](/advanced-course-resources/statistics/2-10-binomial-distribution-checklist/) · [2.11](/advanced-course-resources/statistics/2-11-normal-distribution-checklist/) · [2.12](/advanced-course-resources/statistics/2-12-sampling-distributions-central-limit-theorem-checklist/)

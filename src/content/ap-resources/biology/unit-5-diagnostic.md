@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-u5-diagnostic"
 title: "Heredity: Unit Diagnostic (Biology Unit 5)"
-description: "Ten short original questions, one or two per topic, to find which parts of the heredity unit to revisit before moving on, with explanations and links."
+description: "Ten short original questions, at least one per topic, to find which parts of the heredity unit to revisit before moving on, with explanations and links."
 course: "biology"
 unit: 5
 topics: []

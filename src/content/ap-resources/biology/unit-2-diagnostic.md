@@ -36,13 +36,13 @@ author: "marlbridge-academic-team"
 
 ## What this diagnostic is for
 
-Use this page before you revise Unit 2, or right after it, to find which topics to revisit. There is one question per topic and a second for the two largest (cell structure and tonicity).
+Use this page before or right after revising Unit 2 to find which topics to revisit. There is one question per topic, and two for the largest (cell structure and tonicity).
 
 These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated, so your number right does **not** predict an exam score.
 
 **Calculator and data.** A calculator is allowed on both exam sections; a scientific one is enough. For solute potential use Ψs = −iCRT with R = 0.0831 L bar mol⁻¹ K⁻¹ and T in kelvin (°C + 273). All data, drugs and cells are fictional.
 
-**How to work.** Answer everything before opening any answer, and write a reason for each choice.
+**How to work.** Answer everything first, writing a reason for each choice.
 
 ## Question 1 (multiple choice · 2.1)
 
@@ -60,7 +60,7 @@ The Golgi complex normally adds sugar chains to a membrane protein. In a mutant 
 
 - (B) is ruled out: the protein is still made.
 - (C) confuses a label with a fuel.
-- (D) invents a new route; nothing suggests the Golgi is skipped.
+- (D) invents a route that skips the Golgi.
 
 **If you missed this:** read "Golgi complex: finishing and dispatch" in the [cell structure and function study guide](/advanced-course-resources/biology/2-1-cell-structure-function-study-guide/).
 </details>
@@ -111,18 +111,18 @@ A cell is modelled as a cube with sides of 10 µm. Microvilli on its top face do
 A transmembrane protein forms a water-filled pore that lets ions cross. Which description of its R groups is most likely?
 
 - (A) Nonpolar R groups line the pore; charged R groups face the fatty acid tails.
-- (B) Polar and charged R groups line the pore; nonpolar R groups face the fatty acid tails.
-- (C) Charged R groups line the pore and face the tails.
-- (D) Nonpolar R groups line the pore and face the tails.
+- (B) Charged R groups line the pore and face the tails.
+- (C) Nonpolar R groups line the pore and face the tails.
+- (D) Polar and charged R groups line the pore; nonpolar R groups face the fatty acid tails.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** Hydrophilic regions sit inside the protein (the pore) or in the fluid on each side; hydrophobic regions touch the tails.
+**Answer: (D).** Hydrophilic regions sit inside the protein (the pore) or in the fluid on each side; hydrophobic regions touch the tails.
 
 - (A) swaps the regions.
-- (C) puts charges among the nonpolar tails, which is unstable.
-- (D) would anchor the protein but block hydrated ions.
+- (B) puts charges among the nonpolar tails, which is unstable.
+- (C) would anchor the protein but block hydrated ions.
 
 **If you missed this:** read "Membrane proteins: R groups decide where each part sits" in the [plasma membrane study guide](/advanced-course-resources/biology/2-3-plasma-membrane-study-guide/).
 </details>
@@ -151,18 +151,18 @@ Vesicles of pure phospholipid are placed in a solution of ammonia (NH₃: small,
 
 A white blood cell takes in a whole bacterium. Which description is correct?
 
-- (A) Exocytosis, with no energy needed
-- (B) Endocytosis: the membrane folds around the bacterium and pinches off a vesicle, using energy
-- (C) Facilitated diffusion through a large channel protein
-- (D) Passive transport down the bacterium's concentration gradient
+- (A) Exocytosis: vesicles fuse with the membrane, with no energy needed
+- (B) Facilitated diffusion: it passes through a large channel protein
+- (C) Passive transport: it moves down its own concentration gradient
+- (D) Endocytosis: the membrane encloses it in a new vesicle, using energy
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** A whole cell is far too large for any membrane protein. The membrane encloses it in a new vesicle, which needs energy.
+**Answer: (D).** A whole cell is far too large for any membrane protein, so the membrane encloses it in a vesicle, using energy.
 
 - (A) names the reverse process, which moves material out.
-- (C) and (D) describe real routes for small solutes, not for particles.
+- (B) and (C) describe real routes for small solutes, not for particles.
 
 **If you missed this:** read "Bulk transport: endocytosis and exocytosis" in the [membrane transport study guide](/advanced-course-resources/biology/2-5-membrane-transport-study-guide/).
 </details>
@@ -252,13 +252,13 @@ A eukaryotic cell builds compound F in one membrane-bound compartment and breaks
 
 ## Question 11 (short answer · 2.10)
 
-(a) A prokaryote has no membrane-bound organelles. Name **two** regions or structures inside it that have specialized jobs, with each job.
+(a) A prokaryote has no membrane-bound organelles. Name **two** regions or structures in it that have specialized jobs, with each job.
 (b) Give **two** observations that support the claim that mitochondria evolved from once free-living prokaryotes, and explain each.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**(a)** Any two: the **nucleoid**, where the main DNA is gathered without a membrane; **ribosomes**, which make proteins; the **plasma membrane**, which carries the proteins of aerobic respiration; **thylakoid membranes** in cyanobacteria, where light is captured.
+**(a)** Any two: the **nucleoid**, holding the main DNA without a membrane; **ribosomes**, which make proteins; the **plasma membrane**, which carries the proteins of aerobic respiration; **thylakoid membranes** in cyanobacteria, where light is captured.
 
 **(b)** Any two, each with its reason: **two membranes** (a prokaryote enclosed by a host membrane); **own circular DNA** (like a bacterial chromosome); **bacteria-like ribosomes** (leftover machinery of the ancestor); **division by splitting** (a cell cannot build one from scratch); **DNA sequences closest to one bacterial group** (shared ancestry).
 
@@ -278,18 +278,18 @@ A fictional animal cell at 37 °C has cytoplasm with the same solute potential a
 
 **(a)** T = 310 K. Cell: −2 × 0.15 × 0.0831 × 310 = **−7.73 bar**. X: −1 × 0.30 × 0.0831 × 310 = **−7.73 bar**. Y: −2 × 0.10 × 0.0831 × 310 = **−5.15 bar**.
 
-**(b)** **X is isotonic** (i × C = 0.30 for both): no net water movement. **Y is hypotonic** (higher Ψ): net movement of water into the cell by osmosis, so the cell swells and may burst.
+**(b)** **X is isotonic** (i × C = 0.30 for both): no net water movement. **Y is hypotonic** (higher Ψ): water moves into the cell by osmosis, so it swells and may burst.
 
 **(c)** The cell presses on its **wall**, which resists. Pressure potential rises until the cell's Ψ reaches −5.15 bar, and net entry stops: the cell is turgid.
 
 **Watch for:** i = 1 for NaCl gives −3.86 bar for the cell and makes X look hypertonic.
 
-**If you missed this:** read "Tonicity: always a comparison" and "Water potential: one number that predicts the direction" in the [tonicity and osmoregulation study guide](/advanced-course-resources/biology/2-7-tonicity-osmoregulation-study-guide/).
+**If you missed this:** read "Water potential: one number that predicts the direction" in the [tonicity and osmoregulation study guide](/advanced-course-resources/biology/2-7-tonicity-osmoregulation-study-guide/).
 </details>
 
 ## Your next step
 
-Mark each question; a short answer missed in one part still counts.
+A short answer missed in one part counts as a miss.
 
 | Topic | Question(s) | If you missed it, read |
 |---|---|---|

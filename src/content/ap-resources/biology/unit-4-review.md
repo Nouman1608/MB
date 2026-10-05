@@ -37,7 +37,7 @@ author: "marlbridge-academic-team"
 
 ## Before you start
 
-Do the [unit diagnostic](/advanced-course-resources/biology/unit-4-diagnostic/) first and close its gaps. Then try each question before opening the answer.
+Do the [unit diagnostic](/advanced-course-resources/biology/unit-4-diagnostic/) first. Try each question before opening the answer.
 
 ## Big ideas of the unit
 
@@ -63,24 +63,24 @@ Do the [unit diagnostic](/advanced-course-resources/biology/unit-4-diagnostic/) 
 | Chromosome count | count centromeres; DNA doubles in S, chromosome number does not | 4.5 |
 | CDK activity | follows cyclin concentration, not CDK amount | 4.6 |
 
-These are **original Marlbridge practice questions**, not past exam questions. The rubrics are a **suggested Marlbridge rubric** to help you check your work; they are not official scoring guidelines. All data sets, hormones, toxins and organisms are fictional.
+These are **original Marlbridge practice questions**, not past exam questions. The rubrics are a **suggested Marlbridge rubric** to help you check your work; they are not official scoring guidelines. All data, hormones and organisms are fictional.
 
 ## Question 1 (multiple choice · mixed)
 
 Two fictional hormones act on the same cells. Hormone P raises the activity of an enzyme within 30 seconds, even when transcription is blocked. Hormone S raises the **amount** of the same enzyme after 3 hours, and has no effect when transcription is blocked. Which pairing is most consistent with the data?
 
-- (A) P: a surface receptor and phosphorylation of existing enzyme. S: an intracellular receptor that acts as a transcription factor.
-- (B) P: an intracellular receptor that acts as a transcription factor. S: a surface receptor and phosphorylation of existing enzyme.
-- (C) Both: surface receptors; S is slower only because it travels further in the blood.
+- (A) P: an intracellular receptor that acts as a transcription factor. S: a surface receptor and phosphorylation of existing enzyme.
+- (B) Both: surface receptors; S is slower only because it travels further in the blood.
+- (C) P: a surface receptor and phosphorylation of existing enzyme. S: an intracellular receptor that acts as a transcription factor.
 - (D) Both: intracellular receptors; P is faster because it is a smaller molecule.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** P works in seconds without transcription, so it changes existing enzyme, as a kinase cascade from a surface receptor does. S needs transcription and hours, so it changes gene expression, as an intracellular receptor that binds DNA does.
+**Answer: (C).** P works in seconds without transcription, so it changes existing enzyme, as a kinase cascade from a surface receptor does. S needs transcription and hours, so it changes gene expression, as an intracellular receptor that binds DNA does.
 
-- (B) swaps the two mechanisms.
-- (C) ignores the result that S needs transcription.
+- (A) swaps the two mechanisms.
+- (B) ignores the result that S needs transcription.
 - (D) cannot explain why P works with transcription blocked.
 </details>
 
@@ -88,36 +88,36 @@ Two fictional hormones act on the same cells. Hormone P raises the activity of a
 
 Glucagon raises cAMP in liver cells. A drug slows the enzyme that breaks down cAMP. A person takes the drug, then fasts. Compared with fasting without the drug, which set of changes is most likely?
 
-- (A) cAMP stays high for longer, the liver releases more glucose, and the α cells then release less glucagon.
-- (B) cAMP falls, the liver releases less glucose, and the α cells release more glucagon.
-- (C) cAMP stays high for longer, but glucose release does not change, because cAMP acts only on the receptor.
-- (D) cAMP stays high, the liver releases more glucose, and the α cells release more glucagon, because the loop is positive feedback.
+- (A) cAMP falls, the liver releases less glucose, and the α cells release more glucagon.
+- (B) cAMP stays high for longer, but glucose release does not change, because cAMP acts only on the receptor.
+- (C) cAMP stays high, the liver releases more glucose, and the α cells release more glucagon, because the loop is positive feedback.
+- (D) cAMP stays high for longer, the liver releases more glucose, and the α cells then release less glucagon.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Slower removal keeps the second messenger high, so glycogen breakdown stays on longer and blood glucose rises. Through negative feedback, higher glucose reduces the stimulus to the α cells, so they release less glucagon.
+**Answer: (D).** Slower removal keeps the second messenger high, so glycogen breakdown stays on longer and blood glucose rises. Through negative feedback, higher glucose reduces the stimulus to the α cells, so they release less glucagon.
 
-- (B) reverses the effect of slowing cAMP breakdown.
-- (C) misplaces cAMP: it acts on protein kinase A, not the receptor.
-- (D) gets the cell response right but the loop wrong: a response that removes its own stimulus is negative feedback.
+- (A) reverses the effect of slowing cAMP breakdown.
+- (B) misplaces cAMP: it acts on protein kinase A, not the receptor.
+- (C) gets the cell response right but the loop wrong: a response that removes its own stimulus is negative feedback.
 </details>
 
 ## Question 3 (multiple choice · mixed)
 
 In a fictional cell, a growth factor binds a receptor. A relay protein activates a kinase cascade that ends with a transcription factor switching on a G1 cyclin gene. A mutation leaves the relay protein stuck in its active state. Which prediction is best supported?
 
-- (A) The cyclin is made without the growth factor, its CDK becomes active, and the cell passes the G1 checkpoint and divides without a signal.
-- (B) The CDK gene is transcribed more, so more CDK is made and the cell divides faster only when the growth factor is present.
+- (A) The CDK gene is transcribed more, so more CDK is made and the cell divides faster only when the growth factor is present.
+- (B) The cyclin is made without the growth factor, its CDK becomes active, and the cell passes the G1 checkpoint and divides without a signal.
 - (C) The cell cannot divide, because the receptor no longer binds the growth factor.
 - (D) The extra cyclin triggers apoptosis, so the mutation protects against cancer.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** A relay protein stuck on switches on everything downstream, ending with the cyclin gene. The cyclin activates its CDK, which drives the cell past the G1 checkpoint with no growth factor.
+**Answer: (B).** A relay protein stuck on switches on everything downstream, ending with the cyclin gene. The cyclin activates its CDK, which drives the cell past the G1 checkpoint with no growth factor.
 
-- (B) confuses cyclin with CDK. CDK amount stays roughly constant; the pathway controls the cyclin.
+- (A) confuses cyclin with CDK. CDK amount stays roughly constant; the pathway controls the cyclin.
 - (C) treats a change downstream as if it affected the receptor, which is upstream.
 - (D) is not supported: nothing described leads to apoptosis, and uncontrolled division points towards cancer.
 </details>
@@ -131,7 +131,7 @@ In a fictional mammal, gland cells sense blood solute Z (set point 2.50 mmol L�
 | Z / mmol L⁻¹ | 2.00 | 2.15 | 2.32 | 2.44 | 2.49 |
 | H / pmol L⁻¹ | 60 | 48 | 30 | 15 | 10 |
 
-(a) H reaches every organ in the blood, but only kidney cells respond. Explain.
+(a) H is a peptide. Explain where its receptor is, and why liver cells exposed to H ignore it.
 (b) Classify each of these as reception, transduction or response: H binding the receptor; cAMP rising; the kidney returning Z to the blood.
 (c) Calculate the percentage of the fall in Z that is reversed by 60 min, and use the data to show that this loop is negative feedback.
 (d) A mutant's kidney receptor binds H normally, but its intracellular domain cannot activate the G protein. Predict Z and H in the mutant after a fall in Z, and explain.
@@ -139,7 +139,7 @@ In a fictional mammal, gland cells sense blood solute Z (set point 2.50 mmol L�
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Cells respond only if they have a receptor that H fits. Kidney cells have it; other cells do not, so they ignore H however much reaches them.
+**(a)** H is large and polar, so it cannot cross the membrane: its receptor is on the cell surface. Liver cells lack the receptor, so they ignore H.
 
 **(b)** Binding: **reception**. cAMP rising: **transduction** (cAMP is a second messenger). Returning Z: **response**.
 
@@ -149,7 +149,7 @@ In a fictional mammal, gland cells sense blood solute Z (set point 2.50 mmol L�
 
 | Point | What earns it |
 |---|---|
-| 1 | Only cells with the matching receptor respond |
+| 1 | Surface receptor (polar H); liver cells lack the receptor |
 | 1 | All three stages classified correctly |
 | 1 | 88% |
 | 1 | H falls as Z rises, linked to the response removing the stimulus |
@@ -177,7 +177,7 @@ Onion root tips are treated for 4 hours with a fictional chemical that stops spi
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** They are the **control**: they show the normal distribution of stages, so any difference can be linked to the chemical.
+**(a)** They are the **control**: they show the normal spread of stages, so any difference can be linked to the chemical.
 
 **(b)** Untreated: 30 + 15 + 10 + 5 = 60; 60 ÷ 500 × 100 = **12.0%**. Treated: 28 + 88 + 2 + 2 = 120; **24.0%**. In metaphase: untreated 15 ÷ 60 = **25.0%**; treated 88 ÷ 120 = **73.3%**.
 
@@ -269,7 +269,7 @@ Total: 5 points.
 
 ## How did you do?
 
-Add up your points: 3 for multiple choice and 23 for the constructed responses. Compare the total only with your own next attempt; it does not predict an exam score.
+Add up your points: 3 for multiple choice and 23 for the constructed responses. Compare it only with your next attempt; it does not predict an exam score.
 
 - **Lost points on receptors and pathway steps (Questions 1, 4(a)–(b), 6(a)):** reread [Topic 4.1](/advanced-course-resources/biology/4-1-cell-communication-study-guide/) and [Topic 4.2](/advanced-course-resources/biology/4-2-introduction-signal-transduction-study-guide/).
 - **Lost points on predictions (Questions 2, 3, 4(d), 6(d), 7(d)):** practise "more or less active at this step, so every later step…" from [Topic 4.3](/advanced-course-resources/biology/4-3-signal-transduction-pathways-study-guide/).

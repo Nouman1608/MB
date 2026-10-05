@@ -35,7 +35,7 @@ author: "marlbridge-academic-team"
 
 ## What this diagnostic is for
 
-Use this page before you revise Unit 8, or right after you finish it. It has one short question per topic and a second for the three largest topics (energy flow, community ecology and disruptions). Each answer names the study guide to read if you got it wrong.
+Use this page before you revise Unit 8 or right after finishing it. It has one short question per topic and a second for the three largest topics. Each answer names the study guide to read if you got it wrong.
 
 These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated against real exam results, so your total does **not** predict an exam score. Treat it as a map of what to revisit.
 
@@ -57,7 +57,7 @@ Farmland pigeons fly off when a person comes within about 10 m. Young pigeons of
 
 **Answer: (A).** The response changes with experience, so it is learned: ignoring a harmless, repeated stimulus is habituation. Needless take-offs cost energy and feeding time, so the change can raise fitness.
 
-- (B) is tempting, but the young park birds started with the long escape distance.
+- (B) is tempting, but the young park birds started with the long distance.
 - (C) misuses kinesis, a change in speed or turning with stimulus strength. Here the bird simply stops fleeing.
 - (D) mixes up individuals and populations. Individuals learn; populations evolve.
 
@@ -203,12 +203,12 @@ A student counts flowering plants in two fictional meadows.
 
 ## Question 8 (multiple choice · 8.6)
 
-A heat wave hits two fictional ponds. In pond X, algal production falls by 20% and takes 6 weeks to return to normal. In pond Y, it falls by 50% and is back to normal after 2 weeks. Which statement is correct?
+A flood scours two fictional streams. In stream X, the number of insect larvae falls by 20% and takes 6 weeks to return to normal. In stream Y, it falls by 50% and is back to normal after 2 weeks. Which statement is correct?
 
-- (A) Pond X is more resistant; pond Y is more resilient.
-- (B) Pond X is more resilient; pond Y is more resistant.
-- (C) Pond X is both more resistant and more resilient, because it changed less.
-- (D) The ponds cannot be compared, because they recovered at different times.
+- (A) Stream X is more resistant; stream Y is more resilient.
+- (B) Stream X is more resilient; stream Y is more resistant.
+- (C) Stream X is both more resistant and more resilient, because it changed less.
+- (D) The streams cannot be compared, because they recovered at different times.
 
 <details>
 <summary>Answer and explanation</summary>
@@ -217,7 +217,7 @@ A heat wave hits two fictional ponds. In pond X, algal production falls by 20% a
 
 - (B) swaps the two definitions.
 - (C) assumes a small change also means fast recovery. The two measures can disagree.
-- (D) is wrong: recovery time is what measures resilience.
+- (D) is wrong: recovery time is how resilience is measured.
 
 **If you missed this:** read "Diversity and resilience" in the [biodiversity study guide](/advanced-course-resources/biology/8-6-biodiversity-study-guide/).
 </details>
@@ -237,7 +237,7 @@ Fertiliser washes into a lake. Which sequence of events is in the correct order?
 **Answer: (A).** Extra nutrients remove the limit on algal growth. When the algae die, aerobic decomposers break them down, and their respiration uses up the oxygen.
 
 - (B) is the most common error. Photosynthesis **releases** oxygen.
-- (C) blames the fertiliser itself. The harm comes through the chain of events.
+- (C) blames the fertiliser itself. The harm comes through the chain.
 - (D) puts decomposers first and has oxygen rising.
 
 **If you missed this:** read "Eutrophication" and Figure 2 in the [disruptions study guide](/advanced-course-resources/biology/8-7-disruptions-ecosystems-study-guide/).

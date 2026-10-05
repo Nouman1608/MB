@@ -68,17 +68,17 @@ Use this page after studying Unit 5, Analytical Applications of Differentiation,
 
 A function g is twice differentiable on [0, 8]. Its only critical point in (0, 8) is x = 3, and g″(3) = −4. Also g(0) = 1, g(3) = 10 and g(8) = −2. Which statement is true?
 
-- (A) The absolute maximum value is 10 and the absolute minimum value is −2.
-- (B) The absolute maximum value is 10; the minimum needs more values of g.
+- (A) The absolute maximum value is 10; the minimum needs more values of g.
+- (B) The absolute maximum value is 10 and the absolute minimum value is −2.
 - (C) g has a relative minimum at x = 3, because g″(3) < 0.
 - (D) The absolute maximum value is 10 and the absolute minimum value is 1.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** g is continuous on [0, 8], so both extrema exist (Extreme Value Theorem), and they are among the candidates g(0) = 1, g(3) = 10 and g(8) = −2: largest 10, smallest −2.
+**Answer: (B).** g is continuous on [0, 8], so both extrema exist (Extreme Value Theorem), and they are among the candidates g(0) = 1, g(3) = 10 and g(8) = −2: largest 10, smallest −2.
 
-- (B) There are no other candidates.
+- (A) There are no other candidates.
 - (C) reverses the second derivative test.
 - (D) forgets the right endpoint.
 
@@ -89,19 +89,19 @@ Topics: 5.2, 5.5, 5.7.
 
 The derivative of a function f is f′(x) = x²e⁻ˣ. Which statement is true?
 
-- (A) No relative extrema; points of inflection at x = 0 and x = 2
-- (B) A relative minimum at x = 0; a point of inflection at x = 2 only
-- (C) A relative minimum at x = 0 and a relative maximum at x = 2
-- (D) No relative extrema; a point of inflection at x = 2 only
+- (A) A relative minimum at x = 0; a point of inflection at x = 2 only
+- (B) A relative minimum at x = 0 and a relative maximum at x = 2
+- (C) No relative extrema; a point of inflection at x = 2 only
+- (D) No relative extrema; points of inflection at x = 0 and x = 2
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** f′ ≥ 0 everywhere and never changes sign, so f has no relative extrema. f″(x) = x(2 − x)e⁻ˣ is negative, then positive on (0, 2), then negative: concavity changes at x = 0 and x = 2.
+**Answer: (D).** f′ ≥ 0 everywhere and never changes sign, so f has no relative extrema. f″(x) = x(2 − x)e⁻ˣ is negative, then positive on (0, 2), then negative: concavity changes at x = 0 and x = 2.
 
-- (B) treats the zero of f′ at x = 0 as a minimum. f′ does not change sign there.
-- (C) reads the turning points of f′ as extrema of f.
-- (D) misses x = 0, where f″ also changes sign.
+- (A) treats the zero of f′ at x = 0 as a minimum. f′ does not change sign there.
+- (B) reads the turning points of f′ as extrema of f.
+- (C) misses x = 0, where f″ also changes sign.
 
 Topics: 5.4, 5.6, 5.9.
 </details>
@@ -110,18 +110,18 @@ Topics: 5.4, 5.6, 5.9.
 
 A rectangle has two sides on the positive x- and y-axes and its fourth corner on the curve y = e^(−x/2), where x > 0. What is the greatest possible area of the rectangle?
 
-- (A) 2/e
-- (B) 2
-- (C) 1/√e
+- (A) 2
+- (B) 1/√e
+- (C) 2/e
 - (D) There is no greatest area, because the domain x > 0 is not a closed interval.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** A(x) = xe^(−x/2). A′(x) = e^(−x/2)(1 − x/2), which is 0 only at x = 2 and changes from positive to negative there. x = 2 is the only critical point on x > 0 and gives a relative maximum, so it gives the absolute maximum: A(2) = 2e⁻¹ = 2/e.
+**Answer: (C).** A(x) = xe^(−x/2). A′(x) = e^(−x/2)(1 − x/2), which is 0 only at x = 2 and changes from positive to negative there. x = 2 is the only critical point on x > 0 and gives a relative maximum, so it gives the absolute maximum: A(2) = 2e⁻¹ = 2/e.
 
-- (B) is the width x = 2, not the area.
-- (C) comes from differentiating e^(−x/2) as −e^(−x/2), which gives x = 1.
+- (A) is the width x = 2, not the area.
+- (B) comes from differentiating e^(−x/2) as −e^(−x/2), which gives x = 1.
 - (D) The one-critical-point rule works on open intervals.
 
 Topics: 5.4, 5.7, 5.10, 5.11.
@@ -132,7 +132,7 @@ Topics: 5.4, 5.7, 5.10, 5.11.
 The function f is continuous on [−2, 6] with f(0) = 3. The graph of its derivative f′ is made of three straight segments joining (−2, −2), (0, 2), (4, −2) and (6, 2). It crosses the x-axis at x = −1, x = 2 and x = 5. You are also told that f(−2) = 3, f(−1) = 2, f(2) = 5, f(5) = 2 and f(6) = 3.
 
 (a) Find the x-coordinates of all relative extrema of f on (−2, 6). Classify each and justify.
-(b) Find the open intervals on which the graph of f is concave down, and the x-coordinates of the points of inflection. Justify. Find f″(3).
+(b) Find the open interval(s) on which f is both increasing and concave down. Justify.
 (c) Find the absolute maximum and absolute minimum values of f on [−2, 6]. Justify.
 
 <details>
@@ -140,7 +140,7 @@ The function f is continuous on [−2, 6] with f(0) = 3. The graph of its deriva
 
 **(a)** f′ changes from negative to positive at x = −1 and x = 5: **relative minimums**. f′ changes from positive to negative at x = 2: **relative maximum**.
 
-**(b)** f′ is decreasing on (0, 4), so f is **concave down on (0, 4)**. f′ changes direction at x = 0 and x = 4, so there are **points of inflection at x = 0 and x = 4**. f″(3) is the slope of the middle segment: (−2 − 2)/4 = **−1**.
+**(b)** f is increasing where f′ > 0: on (−1, 2) and (5, 6). f is concave down where f′ is decreasing: on (0, 4), where f″ is the slope of the middle segment, (−2 − 2)/4 = −1. Both hold only on **(0, 2)**.
 
 **(c)** f is continuous on the closed interval, so compare the candidates:
 
@@ -154,13 +154,13 @@ The **absolute maximum value is 5, at x = 2**. The **absolute minimum value is 2
 |---|---|
 | 1 | Minimums at −1 and 5, maximum at 2 |
 | 1 | Each justified by a sign change of f′ |
+| 1 | Increasing on (−1, 2) and (5, 6), because f′ > 0 |
 | 1 | Concave down on (0, 4), because f′ decreases |
-| 1 | Inflection at x = 0 and x = 4, with a reason |
-| 1 | f″(3) = −1 |
+| 1 | Both on (0, 2) only |
 | 1 | All five candidates compared |
 | 1 | Maximum 5 at x = 2; minimum 2 at x = −1 and x = 5 |
 
-Total: 7 points. Topics: 5.4, 5.5, 5.6, 5.9.
+Total: 7 points. Topics: 5.3, 5.4, 5.5, 5.6, 5.9.
 </details>
 
 ## Question 5 (constructed response · mixed)

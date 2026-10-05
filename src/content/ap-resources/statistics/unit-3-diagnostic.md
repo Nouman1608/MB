@@ -36,13 +36,13 @@ author: "marlbridge-academic-team"
 
 Use this diagnostic to find **which Unit 3 topics to revisit**: one question per topic.
 
-These are **original Marlbridge practice questions**, not past exam questions, with fictional data. The diagnostic is not calibrated and gives **no predicted score**.
+These are **original Marlbridge practice questions** with fictional data, not past exam questions. It is not calibrated and gives **no predicted score**.
 
-**How to take it.** Allow 30 minutes; answer everything before opening any answer. Graphing calculator allowed; z* is 1.645 (90%), 1.960 (95%), 2.576 (99%).
+**How to take it.** Allow 30 minutes; answer everything before opening the answers. Graphing calculator allowed; z* is 1.645 (90%), 1.960 (95%), 2.576 (99%).
 
 ## Question 1 (multiple choice · 3.1)
 
-For a population with p = 0.40, 1,000 simulated random samples give estimator P mean 0.400, standard deviation 0.07, and estimator Q mean 0.430, standard deviation 0.03. Which is correct?
+For p = 0.40, 1,000 simulated random samples give estimator P mean 0.400, standard deviation 0.07, and estimator Q mean 0.430, standard deviation 0.03. Which is correct?
 
 - (A) P appears unbiased; Q appears biased but less variable.
 - (B) Q is unbiased, because its values cluster.
@@ -105,7 +105,7 @@ In a random sample of 640 passengers on a fictional tram network, 208 had a mont
 
 ## Question 4 (multiple choice · 3.4)
 
-A 95% interval for the proportion of a fictional town's residents supporting a new market is (0.47, 0.55). A councillor says exactly half support it. Which is best?
+A 95% interval for the proportion of a fictional town's residents supporting a new market is (0.47, 0.55). A councillor says exactly half do. Which is best?
 
 - (A) The interval proves the claim: 0.50 is inside it.
 - (B) 0.50 is plausible, so the claim is not contradicted, but it is not proved.
@@ -160,8 +160,8 @@ Random samples X (n = 100) and Y (n = 400) both give p̂ = 0.56 for H₀: p = 0.
 **Answer: (A).** For X, z = 0.06 ÷ 0.05 = 1.20 (p-value 0.1151); for Y, z = 0.06 ÷ 0.025 = 2.40 (p-value 0.0082).
 
 - (B) ignores n.
-- (C) is backwards: more variability makes 0.56 **less** surprising.
-- (D) is wrong: α is only for the decision.
+- (C) More variability makes 0.56 **less** surprising.
+- (D) α only matters for the decision.
 
 **If you missed this:** [3.6 study guide](/advanced-course-resources/statistics/3-6-p-values-study-guide/).
 </details>
@@ -177,11 +177,11 @@ A fictional council says 30% of residents use its leisure centre. A random sampl
 <details>
 <summary>Answer and explanation</summary>
 
-**(a)** p = the true proportion of the council's residents who use the centre. H₀: p = 0.30; Hₐ: p ≠ 0.30.
+**(a)** p = the true proportion of all residents who use the centre. H₀: p = 0.30; Hₐ: p ≠ 0.30.
 
 **(b)** p̂ = 0.35. z = (0.35 − 0.30) ÷ √(0.30 × 0.70 ÷ 400) = **2.18**. p-value = 2 × P(Z ≥ 2.18) = **0.0291**.
 
-**(c)** 0.0291 < 0.05, so reject H₀. There is convincing statistical evidence that the true proportion of residents who use the centre is not 0.30.
+**(c)** 0.0291 < 0.05, so reject H₀. There is convincing statistical evidence that the true proportion of residents using the centre differs from 0.30.
 
 **If you missed this:** [3.7 study guide](/advanced-course-resources/statistics/3-7-carrying-out-test-population-proportion-study-guide/).
 </details>
@@ -209,7 +209,7 @@ A test of H₀: p = 0.50 against Hₐ: p > 0.50 uses n = 150 and α = 0.05. Its 
 
 ## Question 9 (multiple choice · 3.9)
 
-Independent random samples of 300 from population A (pA = 0.62) and 250 from B (pB = 0.48) are taken. The sampling distribution of p̂A − p̂B has
+For independent random samples of 300 from A (pA = 0.62) and 250 from B (pB = 0.48), the sampling distribution of p̂A − p̂B has
 
 - (A) mean 0.14, standard deviation larger than σp̂A and σp̂B
 - (B) mean 0.14, standard deviation σp̂A − σp̂B
@@ -223,7 +223,7 @@ Independent random samples of 300 from population A (pA = 0.62) and 250 from B (
 
 - (B) subtracts standard deviations.
 - (C) confuses independence with equal proportions.
-- (D) is the reverse: variability adds.
+- (D) Variability adds, not shrinks.
 
 **If you missed this:** [3.9 study guide](/advanced-course-resources/statistics/3-9-sampling-distributions-difference-between-sample-study-guide/).
 </details>
@@ -232,18 +232,18 @@ Independent random samples of 300 from population A (pA = 0.62) and 250 from B (
 
 Independent random samples show 168 of 280 drivers in fictional Town P and 130 of 260 in Town Q use winter tyres. Which is the 90% confidence interval for pP − pQ?
 
-- (A) (0.030, 0.170)
-- (B) (0.016, 0.184)
-- (C) (0.001, 0.199)
+- (A) (0.016, 0.184)
+- (B) (0.001, 0.199)
+- (C) (0.030, 0.170)
 - (D) (−0.170, −0.030)
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** SE = √(0.60 × 0.40 ÷ 280 + 0.50 × 0.50 ÷ 260) = 0.04265; 0.10 ± 1.645 × 0.04265.
+**Answer: (C).** SE = √(0.60 × 0.40 ÷ 280 + 0.50 × 0.50 ÷ 260) = 0.04265; 0.10 ± 1.645 × 0.04265.
 
-- (B) uses 1.960.
-- (C) adds standard errors, not variances.
+- (A) uses 1.960.
+- (B) adds standard errors, not variances.
 - (D) estimates pQ − pP.
 
 **If you missed this:** [3.10 study guide](/advanced-course-resources/statistics/3-10-constructing-confidence-interval-difference-between-study-guide/).
@@ -253,18 +253,18 @@ Independent random samples show 168 of 280 drivers in fictional Town P and 130 o
 
 For the proportions of students who cycle at fictional East and West colleges, a 95% interval for pE − pW is (−0.21, −0.04). A report says pW exceeds pE by more than 0.05. Which is best?
 
-- (A) Convincing evidence that pW > pE, but not of the report's claim
-- (B) Convincing evidence for the report
+- (A) Convincing evidence for the report
+- (B) Convincing evidence that pW > pE, but not of the report's claim
 - (C) No convincing evidence of a difference, because the interval is negative
 - (D) Convincing evidence that pE > pW
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** All plausible values are negative, so pW > pE; but a difference of 0.04 is plausible.
+**Answer: (B).** All plausible values are negative, so pW > pE; but a difference of 0.04 is plausible.
 
-- (B) ignores differences from 0.04 to 0.05.
-- (C) misreads the interval: 0 is not in it.
+- (A) ignores differences from 0.04 to 0.05.
+- (C) 0 is not in the interval.
 - (D) reverses the direction.
 
 **If you missed this:** [3.11 study guide](/advanced-course-resources/statistics/3-11-justifying-claim-based-on-confidence-study-guide/).
@@ -274,26 +274,26 @@ For the proportions of students who cycle at fictional East and West colleges, a
 
 A fictional nursery randomly assigns 120 seedlings to feed A and 160 to feed B; 78 and 88 flower. Which correctly checks the conditions for a two-sample z-test?
 
-- (A) Random assignment; p̂c ≈ 0.593 gives 71.1, 48.9, 94.9, 65.1, all at least 10.
-- (B) Both groups exceed 30, so normality is met.
-- (C) Not met: the seedlings are not a random sample.
-- (D) p̂c = (0.65 + 0.55) ÷ 2 = 0.60; 120 is under 10% of all seedlings.
+- (A) Both groups exceed 30, so normality is met.
+- (B) Not met: the seedlings are not a random sample.
+- (C) p̂c = (0.65 + 0.55) ÷ 2 = 0.60; 120 is under 10% of all seedlings.
+- (D) Random assignment; p̂c ≈ 0.593 gives 71.1, 48.9, 94.9, 65.1, all at least 10.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** p̂c = 166 ÷ 280. A test assumes H₀, so normality uses the pooled proportion.
+**Answer: (D).** p̂c = 166 ÷ 280. A test assumes H₀, so normality uses the pooled proportion.
 
-- (B) is a rule for means.
-- (C) forgets that random assignment is enough.
-- (D) averages unequal groups; experiments need no 10% check.
+- (A) is a rule for means.
+- (B) forgets that random assignment is enough.
+- (C) averages unequal groups; experiments need no 10% check.
 
 **If you missed this:** [3.12 study guide](/advanced-course-resources/statistics/3-12-setting-up-test-difference-between-study-guide/).
 </details>
 
 ## Question 13 (short answer · 3.13)
 
-A fictional charity randomly assigns 500 learner cyclists, 250 each, to an on-road course (R) or a classroom course (C). Within three months, 30 R and 45 C cyclists have an accident. Does course R reduce accidents? Conditions are met; α = 0.05.
+A fictional charity randomly assigns 250 learner cyclists to an on-road course (R) and 250 to a classroom course (C). Within three months, 30 R and 45 C learners have an accident. Does R reduce accidents? Conditions are met; α = 0.05.
 
 (a) State the hypotheses, defining the parameters.
 (b) Find p̂c, z and the p-value.
@@ -302,31 +302,31 @@ A fictional charity randomly assigns 500 learner cyclists, 250 each, to an on-ro
 <details>
 <summary>Answer and explanation</summary>
 
-**(a)** pR, pC = the true proportions of learners like these who would have an accident within three months after each course. H₀: pR = pC; Hₐ: pR < pC.
+**(a)** pR, pC = the true three-month accident proportions for learners like these after each course. H₀: pR = pC; Hₐ: pR < pC.
 
 **(b)** p̂c = 75 ÷ 500 = **0.15**. z = (0.12 − 0.18) ÷ √[0.15 × 0.85 × (1/250 + 1/250)] = **−1.88**. p-value = P(Z ≤ −1.88) = **0.0301**.
 
-**(c)** 0.0301 < 0.05, so reject H₀: convincing statistical evidence that course R reduces the accident proportion. Random **assignment** justifies cause and effect, for learners like these.
+**(c)** 0.0301 < 0.05, so reject H₀: convincing statistical evidence that course R reduces accidents. Random **assignment** justifies cause and effect, for learners like these.
 
 **If you missed this:** [3.13 study guide](/advanced-course-resources/statistics/3-13-carrying-out-test-difference-between-study-guide/).
 </details>
 
 ## Question 14 (multiple choice · 3.14)
 
-A random sample of 600 adults in a fictional region records age group and main transport (car, bus, bike, walk). Which null hypothesis is correct?
+A random sample of 600 adults in a fictional region records age group and main transport. Which null hypothesis is correct?
 
-- (A) No association between age group and main transport among the region's adults
-- (B) An association between age group and main transport among the region's adults
-- (C) Each type of transport used by 25% of the region's adults
-- (D) Age group and main transport independent in the sample
+- (A) Age group and transport are associated among the region's adults
+- (B) Each type of transport is used by 25% of the region's adults
+- (C) Age group and transport are independent among the region's adults
+- (D) Age group and transport are independent in the sample
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** One sample, two categorical variables: a chi-square test for independence.
+**Answer: (C).** One sample, two categorical variables: a chi-square test for independence.
 
-- (B) is Hₐ.
-- (C) is about one variable.
+- (A) is Hₐ.
+- (B) is about one variable.
 - (D) is about the sample.
 
 **If you missed this:** [3.14 study guide](/advanced-course-resources/statistics/3-14-setting-up-chi-square-test-study-guide/).
@@ -342,15 +342,15 @@ A random sample of 300 visitors to a fictional park records trip type and main a
 | Overnight | 48 | 42 | 30 | 120 |
 | Total | 150 | 90 | 60 | 300 |
 
-(a) Name the test and find the expected counts. Is the expected counts condition met?
+(a) Name the test, find the expected counts and check the condition.
 (b) Find χ², df and the p-value; conclude at α = 0.01.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**(a)** Chi-square test for independence (one sample, two variables). Expected = row total × column total ÷ 300: Day trip 90, 54, 36; Overnight 60, 36, 24. All exceed 5.
+**(a)** Chi-square test for independence (one sample). Expected = row total × column total ÷ 300: Day trip 90, 54, 36; Overnight 60, 36, 24. All exceed 5.
 
-**(b)** χ² = 1.60 + 0.67 + 1.00 + 2.40 + 1.00 + 1.50 = **8.17**; df = (2 − 1)(3 − 1) = **2**; p-value = **0.0169**. 0.0169 > 0.01, so fail to reject H₀. There is not convincing statistical evidence of an association between trip type and main activity among the park's visitors. (At α = 0.05 the decision would change.)
+**(b)** χ² = 1.60 + 0.67 + 1.00 + 2.40 + 1.00 + 1.50 = **8.17**; df = (2 − 1)(3 − 1) = **2**; p-value = **0.0169**. 0.0169 > 0.01, so fail to reject H₀. There is not convincing statistical evidence of an association between trip type and main activity among park visitors.
 
 **If you missed this:** [3.15 study guide](/advanced-course-resources/statistics/3-15-carrying-out-chi-square-test-study-guide/).
 </details>
@@ -367,9 +367,9 @@ A random sample of 300 visitors to a fictional park records trip type and main a
 | 3.6 | 6 | [p-values](/advanced-course-resources/statistics/3-6-p-values-study-guide/) |
 | 3.7 | 7 | [One-sample test](/advanced-course-resources/statistics/3-7-carrying-out-test-population-proportion-study-guide/) |
 | 3.8 | 8 | [Errors and power](/advanced-course-resources/statistics/3-8-potential-errors-when-performing-tests-study-guide/) |
-| 3.9 | 9 | [Distribution of p̂1 − p̂2](/advanced-course-resources/statistics/3-9-sampling-distributions-difference-between-sample-study-guide/) |
-| 3.10 | 10 | [Interval for p1 − p2](/advanced-course-resources/statistics/3-10-constructing-confidence-interval-difference-between-study-guide/) |
-| 3.11 | 11 | [Two-sample interval claims](/advanced-course-resources/statistics/3-11-justifying-claim-based-on-confidence-study-guide/) |
+| 3.9 | 9 | [Difference of p̂s](/advanced-course-resources/statistics/3-9-sampling-distributions-difference-between-sample-study-guide/) |
+| 3.10 | 10 | [Two-sample interval](/advanced-course-resources/statistics/3-10-constructing-confidence-interval-difference-between-study-guide/) |
+| 3.11 | 11 | [Two-sample claims](/advanced-course-resources/statistics/3-11-justifying-claim-based-on-confidence-study-guide/) |
 | 3.12 | 12 | [Two-sample test set-up](/advanced-course-resources/statistics/3-12-setting-up-test-difference-between-study-guide/) |
 | 3.13 | 13 | [Two-sample test](/advanced-course-resources/statistics/3-13-carrying-out-test-difference-between-study-guide/) |
 | 3.14 | 14 | [Chi-square set-up](/advanced-course-resources/statistics/3-14-setting-up-chi-square-test-study-guide/) |
@@ -379,4 +379,4 @@ A random sample of 300 visitors to a fictional park records trip type and main a
 
 - **Mark each answer right, partly right or wrong.** A conclusion without context is only partly right.
 - **Fix weak topics in order**: tests (3.5 to 3.7) build on 3.2; two-sample work repeats one-sample steps.
-- **Read the study guide and do its practice set, then try the [Unit 3 mixed review](/advanced-course-resources/statistics/unit-3-review/)**, which combines topics.
+- **Read the guide, do its practice set, then try the [Unit 3 mixed review](/advanced-course-resources/statistics/unit-3-review/)**, which combines topics.

@@ -36,18 +36,18 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-Use this page after studying Unit 7, Differential Equations, or after the [Unit 7 diagnostic](/advanced-course-resources/calculus-ab/unit-7-diagnostic/). The unit is shared by Calculus AB and Calculus BC. **Question 7 is BC only** (Euler's method and logistic growth); Calculus AB students skip it. These are **original Marlbridge practice questions**, not past exam questions; contexts and data are invented. The rubrics are a suggested Marlbridge rubric, not official scoring. No calculator.
+Use this page after studying Unit 7, Differential Equations, or after the [Unit 7 diagnostic](/advanced-course-resources/calculus-ab/unit-7-diagnostic/). The unit is shared by Calculus AB and BC. **Question 7 is BC only** (Euler's method and logistic growth); AB students skip it. These are **original Marlbridge practice questions**, not past exam questions; data are invented. The rubrics are a suggested Marlbridge rubric, not official scoring. No calculator.
 
 ## Big ideas of the unit
 
-- **A differential equation is a statement about rates.** "Proportional to" and "the difference between" turn into a rate equation; the sign shows increase or decrease ([Topic 7.1](/advanced-course-resources/calculus-ab/7-1-modeling-situations-differential-equations-study-guide/)).
-- **Checking a solution is differentiation.** Both sides must agree on a whole interval, not at one point ([Topic 7.2](/advanced-course-resources/calculus-ab/7-2-verifying-solutions-differential-equations-study-guide/)).
+- **A differential equation is a statement about rates.** Words become a rate equation; the sign shows increase or decrease ([Topic 7.1](/advanced-course-resources/calculus-ab/7-1-modeling-situations-differential-equations-study-guide/)).
+- **Checking a solution is differentiation.** Both sides must agree on an interval ([Topic 7.2](/advanced-course-resources/calculus-ab/7-2-verifying-solutions-differential-equations-study-guide/)).
 - **A slope field draws the equation.** Each segment has the slope the equation gives at that point ([Topic 7.3](/advanced-course-resources/calculus-ab/7-3-sketching-slope-fields-study-guide/)).
-- **You can reason without solving.** The signs of dy/dx and d²y/dx² give direction and bending, and a constant solution is a level a curve cannot cross ([Topic 7.4](/advanced-course-resources/calculus-ab/7-4-reasoning-slope-fields-study-guide/)).
+- **You can reason without solving.** The signs of dy/dx and d²y/dx² give direction and bending; a constant solution cannot be crossed ([Topic 7.4](/advanced-course-resources/calculus-ab/7-4-reasoning-slope-fields-study-guide/)).
 - **Euler's method follows the field in steps (BC only).** Each step moves along a tangent line, so concavity says whether the estimate is too high or too low ([Topic 7.5](/advanced-course-resources/calculus-bc/7-5-approximating-solutions-eulers-method-study-guide/)).
-- **Separation of variables turns the equation into two antiderivatives**, with one constant ([Topic 7.6](/advanced-course-resources/calculus-ab/7-6-finding-general-solutions-separation-variables-study-guide/)).
-- **An initial condition picks one curve, and that curve has a domain.** Find C at once, choose the sign of any root, and state where it is valid ([Topic 7.7](/advanced-course-resources/calculus-ab/7-7-finding-particular-solutions-initial-conditions-study-guide/)).
-- **"Rate proportional to amount" means exponential.** dy/dt = ky gives y = y₀e^(kt). Other rate laws give other shapes, so read the model first ([Topic 7.8](/advanced-course-resources/calculus-ab/7-8-exponential-models-differential-equations-study-guide/)).
+- **Separation of variables gives two antiderivatives** and one constant ([Topic 7.6](/advanced-course-resources/calculus-ab/7-6-finding-general-solutions-separation-variables-study-guide/)).
+- **An initial condition picks one curve, with a domain.** Find C at once, choose the sign of any root, state where it is valid ([Topic 7.7](/advanced-course-resources/calculus-ab/7-7-finding-particular-solutions-initial-conditions-study-guide/)).
+- **"Rate proportional to amount" means exponential.** dy/dt = ky gives y = y₀e^(kt); other rate laws give other shapes ([Topic 7.8](/advanced-course-resources/calculus-ab/7-8-exponential-models-differential-equations-study-guide/)).
 - **Logistic growth levels off (BC only).** With y₀ > 0, y approaches a, and grows fastest at y = a/2 ([Topic 7.9](/advanced-course-resources/calculus-bc/7-9-logistic-models-differential-equations-study-guide/)).
 
 ## Key relationships and methods
@@ -79,29 +79,29 @@ A bacterial colony grows at a rate proportional to the number of cells N present
 **Answer: (A).** dN/dt = kN with 60 = k(400) gives k = 0.15 per hour. N = N₀e^(0.15t) doubles when e^(0.15t) = 2, so t = (ln 2)/0.15 = (20/3) ln 2 hours (about 4.6).
 
 - (B) multiplies by k instead of dividing.
-- (C) assumes a steady 60 cells per hour. The rate rises as N grows.
-- (D) uses the rate 60 as if it were k. k is the rate per cell, 60/400.
+- (C) assumes a steady 60 cells per hour, but the rate rises as N grows.
+- (D) uses 60 as k. k is the rate per cell, 60/400.
 
 Topics: 7.1, 7.8.
 </details>
 
 ## Question 2 (multiple choice · mixed)
 
-Let y = f(x) be the particular solution of dy/dx = x/y with f(0) = −2. Which statement is true?
+Let y = f(x) be the particular solution of dy/dx = 9x/y with f(0) = −3. Which statement is true?
 
-- (A) f(x) = −√(x² + 4), and f has a relative maximum at x = 0.
-- (B) f(x) = −√(x² + 4), and f has a relative minimum at x = 0.
-- (C) f(x) = √(x² + 4), and f has a relative minimum at x = 0.
-- (D) f(x) = −√(x² + 2), and f has a relative maximum at x = 0.
+- (A) f(x) = −3√(x² + 1), and f has a relative minimum at x = 0.
+- (B) f(x) = −3√(x² + 1), and f has a relative maximum at x = 0.
+- (C) f(x) = 3√(x² + 1), and f has a relative minimum at x = 0.
+- (D) f(x) = −√(9x² + 9/2), and f has a relative maximum at x = 0.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Separate: y dy = x dx, so y²/2 = x²/2 + C. At (0, −2), C = 2, so y² = x² + 4. f(0) < 0, so take the negative root: f(x) = −√(x² + 4). Since y < 0, dy/dx = x/y is positive for x < 0 and negative for x > 0, so f has a relative maximum at x = 0.
+**Answer: (B).** Separate: y dy = 9x dx, so y²/2 = 9x²/2 + C. At (0, −3), C = 9/2, so y² = 9x² + 9. f(0) < 0, so take the negative root: f(x) = −3√(x² + 1). Since y < 0, dy/dx = 9x/y is positive for x < 0 and negative for x > 0, so f has a relative maximum at x = 0.
 
-- (B) has the right formula but pictures the graph of x² + 4, not its negative.
-- (C) takes the positive root, which does not pass through (0, −2).
-- (D) forgets to double C when clearing the halves. Then f(0) = −√2, not −2.
+- (A) has the right formula but pictures 3√(x² + 1), not its negative.
+- (C) takes the positive root, which does not pass through (0, −3).
+- (D) forgets to double C when clearing the halves. Then f(0) = −√(9/2), not −3.
 
 Topics: 7.4, 7.6, 7.7.
 </details>
@@ -110,19 +110,19 @@ Topics: 7.4, 7.6, 7.7.
 
 Let y = F(x) be the particular solution of dy/dx = e^(−x²) with F(1) = 3. Which statement is true?
 
-- (A) F(0) = 3 − ∫ (0 to 1) e^(−t²) dt, so 2 < F(0) < 3.
-- (B) F(0) = 3 + ∫ (0 to 1) e^(−t²) dt, so 3 < F(0) < 4.
-- (C) F(0) = ∫ (1 to 0) e^(−t²) dt, so F(0) < 0.
-- (D) F(0) = 3 − 1/e exactly.
+- (A) F(0) = 3 + ∫ (0 to 1) e^(−t²) dt, so 3 < F(0) < 4.
+- (B) F(0) = ∫ (1 to 0) e^(−t²) dt, so F(0) < 0.
+- (C) F(0) = 3 − 1/e exactly.
+- (D) F(0) = 3 − ∫ (0 to 1) e^(−t²) dt, so 2 < F(0) < 3.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** There is no elementary antiderivative, so use the integral form: F(x) = 3 + ∫ (1 to x) e^(−t²) dt. Then F(0) = 3 + ∫ (1 to 0) e^(−t²) dt = 3 − ∫ (0 to 1) e^(−t²) dt. On [0, 1], 0 < e^(−t²) ≤ 1, so the integral is between 0 and 1, and 2 < F(0) < 3. (Every slope is positive, so F(0) < F(1) fits.)
+**Answer: (D).** There is no elementary antiderivative, so use the integral form: F(x) = 3 + ∫ (1 to x) e^(−t²) dt. Then F(0) = 3 − ∫ (0 to 1) e^(−t²) dt. On [0, 1], 0 < e^(−t²) ≤ 1, so the integral is between 0 and 1, and 2 < F(0) < 3. (Every slope is positive, so F(0) < F(1) fits.)
 
-- (B) forgets that the integral from 1 to 0 is negative.
-- (C) drops the initial value 3.
-- (D) is the tangent line estimate, not the exact value. (F(0) is about 2.25.)
+- (A) forgets that the integral from 1 to 0 is negative.
+- (B) drops the initial value 3.
+- (C) is the tangent line estimate, not the exact value. (F(0) is about 2.25.)
 
 Topics: 7.4, 7.7.
 </details>
@@ -141,9 +141,9 @@ In an invented model, the charge Q (per cent) of a phone battery increases at a 
 
 **(a)** dQ/dt = k(100 − Q), and 4 = k(80), so **k = 1/20 = 0.05 per minute**.
 
-**(b)** d²Q/dt² = −0.05 · dQ/dt = **−0.0025(100 − Q)**. For Q < 100 this is negative, so the charging rate keeps falling: the battery charges more slowly as it fills.
+**(b)** d²Q/dt² = −0.05 · dQ/dt = **−0.0025(100 − Q)**. This is negative for Q < 100: the battery charges more slowly as it fills.
 
-**(c)** Q(2) ≈ 20 + 4(2) = **28 per cent**. d²Q/dt² < 0, so the graph of Q is concave down and the tangent line lies above it: 28 is an **overestimate**. (The model gives about 27.6.)
+**(c)** Q(2) ≈ 20 + 4(2) = **28 per cent**. d²Q/dt² < 0, so Q is concave down and the tangent line lies above it: 28 is an **overestimate** (the model gives about 27.6).
 
 **(d)** For Q < 100, separate: dQ/(100 − Q) = 0.05 dt. Antidifferentiate: −ln(100 − Q) = 0.05t + C. At t = 0, −ln 80 = C. So ln(100 − Q) = ln 80 − 0.05t, giving 100 − Q = 80e^(−0.05t) and **Q(t) = 100 − 80e^(−t/20)**. Then 80e^(−t/20) = 40 gives **t = 20 ln 2 minutes** (about 13.9).
 
@@ -172,15 +172,15 @@ Consider the differential equation dy/dx = (2 − y)/(x² + 1).
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** If y = 2, the left side is 0 and the right side is (2 − 2)/(x² + 1) = 0 for every x, so **y = 2 is a solution**. x² + 1 > 0, so the slope is **positive wherever y < 2**.
+**(a)** If y = 2, the left side is 0 and the right side is (2 − 2)/(x² + 1) = 0 for every x, so **y = 2 is a solution**. x² + 1 > 0, so slopes are **positive wherever y < 2**.
 
-**(b)** The slopes are 2/1 = **2**, 2/2 = **1** and 2/5 = **0.4**. The segments get **flatter** further from the y-axis, on both sides.
+**(b)** The slopes are 2/1 = **2**, 2/2 = **1** and 2/5 = **0.4**. The segments get **flatter** away from the y-axis, on both sides.
 
 **(c)** Using the quotient rule and dy/dx: d²y/dx² = [−(dy/dx)(x² + 1) − (2 − y)(2x)]/(x² + 1)². At (0, 0), dy/dx = 2, so d²y/dx² = (−2 − 0)/1 = **−2 < 0: concave down**.
 
 **(d)** For y < 2, separate: dy/(2 − y) = dx/(x² + 1). Antidifferentiate: −ln(2 − y) = arctan x + C. At (0, 0), −ln 2 = C. So ln(2 − y) = ln 2 − arctan x and 2 − y = 2e^(−arctan x). **f(x) = 2 − 2e^(−arctan x)**.
 
-**(e)** As x → ∞, arctan x → π/2, so **f(x) → 2 − 2e^(−π/2)** (about 1.58). f does increase, but the slopes shrink like 1/x², so it levels off below y = 2. A slope field shows directions, not limits.
+**(e)** As x → ∞, arctan x → π/2, so **f(x) → 2 − 2e^(−π/2)** (about 1.58). f increases, but the slopes shrink so fast that it levels off below 2. A slope field shows directions, not limits.
 
 | Point | What earns it |
 |---|---|
@@ -197,12 +197,12 @@ Total: 7 points. Topics: 7.2, 7.3, 7.4, 7.6, 7.7.
 
 ## Question 6 (constructed response · mixed)
 
-A boat cuts its engine at t = 0 seconds, with velocity 4 m/s, at position x = 0 m. Two invented models describe how it slows:
+A boat cuts its engine at t = 0 seconds, with velocity 4 m/s, at x = 0 m. Two invented models describe how it slows:
 
 - **Model 1:** the boat's velocity v decreases at a rate proportional to the square of v.
 - **Model 2:** v decreases at a rate proportional to v.
 
-In both, the acceleration at t = 0 is −2 m/s².
+In both, the acceleration at t = 0 is −1 m/s².
 
 (a) Write a differential equation for each model and find each constant of proportionality.
 (b) Solve Model 1 to find v(t), and verify your answer.
@@ -212,32 +212,32 @@ In both, the acceleration at t = 0 is −2 m/s².
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Model 1: dv/dt = −kv². At t = 0: −2 = −k(16), so **k = 1/8**. Model 2: dv/dt = −kv. At t = 0: −2 = −k(4), so **k = 1/2**.
+**(a)** Model 1: dv/dt = −kv². At t = 0: −1 = −k(16), so **k = 1/16**. Model 2: dv/dt = −kv. At t = 0: −1 = −k(4), so **k = 1/4**.
 
-**(b)** Separate: v^(−2) dv = −(1/8) dt. Antidifferentiate: −1/v = −t/8 + C. At t = 0, −1/4 = C. So 1/v = t/8 + 1/4 = (t + 2)/8, and **v(t) = 8/(t + 2)**. Verify: dv/dt = −8/(t + 2)² = −(1/8)v², and v(0) = 4.
+**(b)** Separate: v^(−2) dv = −(1/16) dt. Antidifferentiate: −1/v = −t/16 + C. At t = 0, −1/4 = C. So 1/v = t/16 + 1/4 = (t + 4)/16, and **v(t) = 16/(t + 4)**. Verify: dv/dt = −16/(t + 4)² = −(1/16)v², and v(0) = 4.
 
-**(c)** Model 2 is exponential decay: **v(t) = 4e^(−t/2)**. Position is accumulated velocity from x(0) = 0.
-Model 1: x(t) = ∫ (0 to t) 8/(s + 2) ds = **8 ln((t + 2)/2)**.
-Model 2: x(t) = ∫ (0 to t) 4e^(−s/2) ds = **8 − 8e^(−t/2)**.
+**(c)** Model 2 is exponential decay: **v(t) = 4e^(−t/4)**. Position is accumulated velocity from x(0) = 0.
+Model 1: x(t) = ∫ (0 to t) 16/(s + 4) ds = **16 ln((t + 4)/4)**.
+Model 2: x(t) = ∫ (0 to t) 4e^(−s/4) ds = **16 − 16e^(−t/4)**.
 
-**(d)** Model 1: 8 ln((t + 2)/2) = 20 gives (t + 2)/2 = e^(2.5), so the boat **reaches the buoy at t = 2e^(2.5) − 2 seconds** (about 22.4). Model 2: x(t) = 8 − 8e^(−t/2) < 8 for every t, so the boat **never reaches the buoy**.
+**(d)** Model 1: 16 ln((t + 4)/4) = 20 gives (t + 4)/4 = e^(1.25), so the boat **reaches the buoy at t = 4e^(1.25) − 4 seconds** (about 10.0). Model 2: x(t) < 16 for every t, so the boat **never reaches the buoy**.
 
 | Point | What earns it |
 |---|---|
 | 1 | Both differential equations with minus signs |
-| 1 | k = 1/8 and k = 1/2 |
+| 1 | k = 1/16 and k = 1/4 |
 | 1 | Correct separation and antiderivative for Model 1 |
-| 1 | v(t) = 8/(t + 2), verified in the equation and at t = 0 |
-| 1 | v(t) = 4e^(−t/2) and both position functions |
-| 1 | Model 1 time 2e^(2.5) − 2 seconds |
-| 1 | Model 2 never reaches 20 m, justified by x(t) < 8 |
+| 1 | v(t) = 16/(t + 4), verified in the equation and at t = 0 |
+| 1 | v(t) = 4e^(−t/4) and both position functions |
+| 1 | Model 1 time 4e^(1.25) − 4 seconds |
+| 1 | Model 2 never reaches 20 m, justified by x(t) < 16 |
 
 Total: 7 points. Topics: 7.1, 7.2, 7.6, 7.7, 7.8.
 </details>
 
 ## Question 7 (constructed response · mixed) (BC only)
 
-An invasive plant spreads over a 600 m² pond. The area A (m²) it covers grows at a rate jointly proportional to A and to the uncovered area. Time t is in weeks. At t = 0, A = 100 and the plant is spreading at 25 m² per week.
+A plant spreads over a 600 m² pond. The area A (m²) it covers grows at a rate jointly proportional to A and to the uncovered area, with t in weeks. At t = 0, A = 100 and the plant is spreading at 25 m² per week.
 
 (a) Write a differential equation for A and find the constant of proportionality.
 (b) Use Euler's method with two steps of 2 weeks to approximate A(4).
@@ -252,11 +252,11 @@ An invasive plant spreads over a 600 m² pond. The area A (m²) it covers grows 
 
 **(b)** Step 1: the slope at A = 100 is 25, so A(2) ≈ 100 + 2(25) = 150. Step 2: the slope at A = 150 is 0.0005(150)(450) = 33.75, so **A(4) ≈ 150 + 2(33.75) = 217.5 m²**.
 
-**(c)** d²A/dt² = 0.0005(600 − 2A) · dA/dt = **0.0005²(600 − 2A) · A(600 − A)**. For 100 ≤ A < 300 this is positive, so the solution is concave up over these steps. Tangent lines lie below a concave up curve, so 217.5 is an **underestimate**.
+**(c)** d²A/dt² = 0.0005(600 − 2A) · dA/dt = **0.0005²(600 − 2A) · A(600 − A)**. This is positive for 0 < A < 300. A rises by at most 45 m² per week (see (d)), so A(4) ≤ 280 and the solution is concave up on 0 ≤ t ≤ 4. Tangent lines lie below a concave up curve, so 217.5 is an **underestimate**.
 
-**(d)** A(0) = 100 is below the carrying capacity, so A increases towards it: **lim A(t) = 600 m²**. The rate kA(600 − A) is greatest at **A = 300 m²**, half the carrying capacity, where dA/dt = 0.0005(300)(300) = **45 m² per week**.
+**(d)** 0 < A(0) < 600, so A increases towards the carrying capacity: **lim A(t) = 600 m²**. The rate is greatest at **A = 300 m²**, half of 600, where dA/dt = 0.0005(300)(300) = **45 m² per week**.
 
-**(e)** With A = 0, dA/dt = 0, and A = 0 is a constant solution. The model predicts the plant **never appears** there: it can only spread from plant already present.
+**(e)** With A = 0, dA/dt = 0, so A = 0 is a constant solution: the plant **never appears**. It can only spread from plant already present.
 
 | Point | What earns it |
 |---|---|
@@ -274,7 +274,7 @@ Total: 8 points. Topics: 7.1, 7.4, 7.5, 7.9.
 
 ## How did you do?
 
-Add up your points from Questions 4–6 (20 in total) and your correct answers to Questions 1–3; BC students add Question 7 (8 points). The total is only a guide, not a predicted exam score. More useful: note **which topics** your lost points came from (each answer lists them), then tick off those topic checklists:
+Add your points from Questions 4–6 (20 in total) to your correct answers in Questions 1–3; BC students add Question 7 (8 points). This is a guide, not a predicted score. Note **which topics** your lost points came from (each answer lists them), then use those topic checklists:
 
 [7.1](/advanced-course-resources/calculus-ab/7-1-modeling-situations-differential-equations-checklist/) ·
 [7.2](/advanced-course-resources/calculus-ab/7-2-verifying-solutions-differential-equations-checklist/) ·
@@ -286,4 +286,4 @@ Add up your points from Questions 4–6 (20 in total) and your correct answers t
 [7.8](/advanced-course-resources/calculus-ab/7-8-exponential-models-differential-equations-checklist/) ·
 [7.9 (BC only)](/advanced-course-resources/calculus-bc/7-9-logistic-models-differential-equations-checklist/)
 
-If many topics need work, go back to the [Unit 7 diagnostic](/advanced-course-resources/calculus-ab/unit-7-diagnostic/) and use its "Your next step" table to choose where to start.
+If many topics need work, use the "Your next step" table in the [Unit 7 diagnostic](/advanced-course-resources/calculus-ab/unit-7-diagnostic/).

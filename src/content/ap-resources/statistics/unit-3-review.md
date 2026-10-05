@@ -36,7 +36,7 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-Read the big ideas and the method table, then try the seven questions without notes. Each combines two or more Unit 3 topics.
+Read the big ideas and method table, then try the seven questions without notes; each combines two or more topics.
 
 These are **original Marlbridge practice questions**, not past exam questions, with fictional data. The rubrics are a **suggested Marlbridge rubric**, not official scoring.
 
@@ -65,7 +65,7 @@ These are **original Marlbridge practice questions**, not past exam questions, w
 
 ## Question 1 (multiple choice · mixed)
 
-In a random sample of 600 adults in a fictional county, 342 recycle food waste. The 95% confidence interval for p, the proportion of all the county's adults who do, is (0.530, 0.610). The same data are used to test H₀: p = 0.50 against Hₐ: p ≠ 0.50 at α = 0.05. Which is correct?
+In a random sample of 600 adults in a fictional county, 342 recycle food waste. The 95% confidence interval for p, the proportion of all the county's adults who do, is (0.530, 0.610). The same data test H₀: p = 0.50 against Hₐ: p ≠ 0.50 at α = 0.05. Which is correct?
 
 - (A) Reject H₀: 0.50 is not a plausible value, and the p-value is below 0.05.
 - (B) Fail to reject H₀, because 0.57 is close to 0.50.
@@ -75,18 +75,18 @@ In a random sample of 600 adults in a fictional county, 342 recycle food waste. 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** z = (0.57 − 0.50) ÷ √(0.50 × 0.50 ÷ 600) = 3.43, and the two-sided p-value is about 0.0006. This agrees with the interval, which lies entirely above 0.50. (The two methods almost always agree; their standard errors differ slightly, so a value right at an endpoint could disagree.)
+**Answer: (A).** z = (0.57 − 0.50) ÷ √(0.50 × 0.50 ÷ 600) = 3.43, and the two-sided p-value is about 0.0006. This agrees with the interval, which lies entirely above 0.50. (Near an endpoint they can rarely disagree, as their standard errors differ.)
 
 - (B) judges "close" by eye, not by standard errors.
 - (C) treats p̂ as p.
-- (D) is wrong: they are two views of the same evidence.
+- (D) They are two views of the same evidence.
 
 Topics: 3.3, 3.4, 3.7.
 </details>
 
 ## Question 2 (multiple choice · mixed)
 
-A fictional orchard randomly assigns 200 young trees, 100 each, to two pruning methods. It tests H₀: p1 = p2 against Hₐ: p1 ≠ p2 at α = 0.05, where p1 and p2 are the proportions of trees like these that would fruit in their second year. The p-value is 0.18. Which is correct?
+A fictional orchard randomly assigns 100 young trees to each of two pruning methods. It tests H₀: p1 = p2 against Hₐ: p1 ≠ p2 at α = 0.05, where p1 and p2 are the proportions of trees like these that would fruit in their second year. The p-value is 0.18. Which is correct?
 
 - (A) A Type II error may have been made; a larger experiment would make that error less likely.
 - (B) A Type I error may have been made; lowering α would make it less likely.
@@ -96,7 +96,7 @@ A fictional orchard randomly assigns 200 young trees, 100 each, to two pruning m
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** 0.18 > 0.05, so the orchard fails to reject H₀. If the methods really differ, that is a Type II error. More trees per group raise the power, so a real difference is more likely to be detected.
+**Answer: (A).** 0.18 > 0.05, so the orchard fails to reject H₀. If the methods really differ, that is a Type II error. More trees per group raise the power.
 
 - (B) A Type I error needs H₀ to be rejected.
 - (C) Lowering α makes rejecting harder, so the Type II error probability **rises**.
@@ -117,7 +117,7 @@ A fictional council wants to know whether the proportion of households that comp
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** There are three populations and one categorical variable with two categories: a 3 × 2 table and a test of whether the distribution is the same in every district, with df = (3 − 1)(2 − 1) = 2.
+**Answer: (C).** Three populations, one categorical variable with two categories: a 3 × 2 table testing whether the distribution is the same in every district, df = (3 − 1)(2 − 1) = 2.
 
 - (A) compares only two groups.
 - (B) gives no single test, and several procedures raise the chance of a false alarm.
@@ -142,9 +142,9 @@ The fictional Ravelin water company says it fixes 85% of reported leaks within 4
 
 **(b)** p̂ = 128 ÷ 160 = 0.80. z = (0.80 − 0.85) ÷ 0.0282 = −1.77. P(p̂ ≤ 0.80) = P(Z ≤ −1.77) = **0.0383**.
 
-**(c)** p = the true proportion of all last year's Ravelin leak reports that were fixed within 48 hours. H₀: p = 0.85; Hₐ: p < 0.85. The p-value is the probability, assuming H₀, of a result at least as extreme as the observed one in the direction of Hₐ, which is what (b) found. Interpretation: assuming 85% of the reported leaks were fixed within 48 hours, there is a 0.0383 probability of getting a sample proportion of 0.80 or lower in a random sample of 160 reports, by chance alone.
+**(c)** p = the true proportion of all last year's Ravelin leak reports that were fixed within 48 hours. H₀: p = 0.85; Hₐ: p < 0.85. The p-value is the probability, assuming H₀, of a result at least as extreme as the observed one in the direction of Hₐ: exactly what (b) found. Interpretation: assuming 85% of the reported leaks were fixed within 48 hours, there is a 0.0383 probability of getting a sample proportion of 0.80 or lower in a random sample of 160 reports.
 
-**(d)** 0.0383 < 0.05, so reject H₀. There is convincing statistical evidence that the true proportion of Ravelin's leak reports fixed within 48 hours is less than 0.85. Because H₀ was rejected, a **Type I error** is possible: concluding that fewer than 85% of leaks are fixed within 48 hours when 85% really are. The company might then pay for extra repair crews it does not need.
+**(d)** 0.0383 < 0.05, so reject H₀. There is convincing statistical evidence that the true proportion of Ravelin's leak reports fixed within 48 hours is less than 0.85. Because H₀ was rejected, a **Type I error** is possible: concluding that fewer than 85% of leaks are fixed within 48 hours when 85% really are.
 
 | Point | What earns it |
 |---|---|
@@ -174,9 +174,9 @@ The fictional district of Kelmore has 24,000 households. The council selects a r
 
 **(b)** One-sample z-interval for p. Conditions: random sample; 500 ≤ 10% of 24,000 = 2,400; 185 successes and 315 failures, both at least 10. SE = √(0.37 × 0.63 ÷ 500) = 0.02159. Margin of error = 1.960 × 0.02159 = 0.0423. Interval: **(0.328, 0.412)**.
 
-**(c)** We are 95% confident that the interval from 0.328 to 0.412 captures the proportion of all Kelmore households with a rainwater tank. "Fewer than 40%": 0.40 is inside the interval, so it is plausible that 40% or more have a tank; the interval does **not** give convincing evidence for this claim. "More than a quarter": every plausible value is above 0.25, so the interval **does** give convincing evidence for this claim.
+**(c)** We are 95% confident that the interval from 0.328 to 0.412 captures the proportion of all Kelmore households with a rainwater tank. "Fewer than 40%": 0.40 is inside the interval, so 40% or more is plausible: **not** convincing evidence. "More than a quarter": every plausible value is above 0.25: convincing evidence.
 
-**(d)** n ≥ (1.960 ÷ 0.03)² × 0.37 × 0.63 = 994.97, so **995 households** (round up). The margin of error falls only with √n, so cutting it from 0.0423 to 0.03 needs about (0.0423 ÷ 0.03)² ≈ 2 times as many households. 995 is still at most 10% of 24,000.
+**(d)** n ≥ (1.960 ÷ 0.03)² × 0.37 × 0.63 = 994.97, so **995 households** (round up). 995 is still at most 10% of 24,000.
 
 | Point | What earns it |
 |---|---|
@@ -208,7 +208,7 @@ A fictional animal shelter randomly assigns 240 adoption listings: 120 include a
 
 **(c)** p̂V = 0.55, p̂P = 0.40. SE = √(0.55 × 0.45 ÷ 120 + 0.40 × 0.60 ÷ 120) = 0.06374. 0.15 ± 1.960 × 0.06374 = 0.15 ± 0.1249, so **(0.025, 0.275)**.
 
-**(d)** We are 95% confident that the interval from 0.025 to 0.275 captures the true difference in two-week adoption proportions (video − photo only) for listings like these. Every plausible value is positive, so there is convincing evidence that a video increases the adoption rate. Because listings were **randomly assigned**, the shelter may conclude the video **caused** the increase, for animals and listings like these. The "at least 20 points" claim is not supported: values from 0.025 to 0.20 are also plausible.
+**(d)** We are 95% confident that the interval from 0.025 to 0.275 captures the true difference in two-week adoption proportions (video − photo only) for listings like these. Every plausible value is positive, so there is convincing evidence that a video increases the adoption rate. Because listings were **randomly assigned**, the shelter may conclude the video **caused** the increase, for listings like these. The "at least 20 points" claim is not supported: values from 0.025 to 0.20 are also plausible.
 
 | Point | What earns it |
 |---|---|
@@ -235,7 +235,7 @@ Ashgrove (12,000 students) and Bellmont (8,000 students) are fictional universit
 (a) Name the appropriate chi-square test and state the hypotheses.
 (b) Find the expected counts and check all the conditions.
 (c) Find χ², the degrees of freedom and the p-value. State a conclusion at α = 0.05.
-(d) Before collecting the data, the bookshop also planned to test whether the proportion buying **new** textbooks differs between the universities. Carry out this test at α = 0.05: give the hypotheses, the normality check, z, the p-value and a conclusion.
+(d) Before collecting data, the bookshop also planned to test whether the proportion buying **new** textbooks differs between the universities. Carry out this test at α = 0.05.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
@@ -262,6 +262,6 @@ Ashgrove (12,000 students) and Bellmont (8,000 students) are fictional universit
 
 ## How did you do?
 
-Mark your answers with the rubrics and note the topics under each question you missed. Re-read those study guides, then tick off the checklists. If many topics went wrong, use the [Unit 3 diagnostic](/advanced-course-resources/statistics/unit-3-diagnostic/) to find the gaps.
+Mark your answers with the rubrics; note the topics of each question you missed. Re-read those study guides, then tick off the checklists. If many topics went wrong, use the [Unit 3 diagnostic](/advanced-course-resources/statistics/unit-3-diagnostic/) to find the gaps.
 
 Topic checklists: [3.1](/advanced-course-resources/statistics/3-1-estimators-checklist/) · [3.2](/advanced-course-resources/statistics/3-2-sampling-distributions-sample-proportions-checklist/) · [3.3](/advanced-course-resources/statistics/3-3-constructing-confidence-interval-population-proportion-checklist/) · [3.4](/advanced-course-resources/statistics/3-4-justifying-claim-based-on-confidence-checklist/) · [3.5](/advanced-course-resources/statistics/3-5-setting-up-test-population-proportion-checklist/) · [3.6](/advanced-course-resources/statistics/3-6-p-values-checklist/) · [3.7](/advanced-course-resources/statistics/3-7-carrying-out-test-population-proportion-checklist/) · [3.8](/advanced-course-resources/statistics/3-8-potential-errors-when-performing-tests-checklist/) · [3.9](/advanced-course-resources/statistics/3-9-sampling-distributions-difference-between-sample-checklist/) · [3.10](/advanced-course-resources/statistics/3-10-constructing-confidence-interval-difference-between-checklist/) · [3.11](/advanced-course-resources/statistics/3-11-justifying-claim-based-on-confidence-checklist/) · [3.12](/advanced-course-resources/statistics/3-12-setting-up-test-difference-between-checklist/) · [3.13](/advanced-course-resources/statistics/3-13-carrying-out-test-difference-between-checklist/) · [3.14](/advanced-course-resources/statistics/3-14-setting-up-chi-square-test-checklist/) · [3.15](/advanced-course-resources/statistics/3-15-carrying-out-chi-square-test-checklist/)

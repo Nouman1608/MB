@@ -91,18 +91,18 @@ Topics: 8.1, 8.2.
 
 The base of a solid is the region between the graphs of y = sin x and y = cos x for 0 ≤ x ≤ π. Cross sections perpendicular to the x-axis are squares. What is the volume?
 
-- (A) π
+- (A) 2
 - (B) 8
-- (C) 2
+- (C) π
 - (D) 0
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The side is |sin x − cos x|. The curves cross at x = π/4, but squaring removes the sign, so no split is needed: s² = (sin x − cos x)² = 1 − 2 sin x cos x = 1 − sin 2x. V = ∫ (0 to π) (1 − sin 2x) dx = π − 0 = π.
+**Answer: (C).** The side is |sin x − cos x|. The curves cross at x = π/4, but squaring removes the sign, so no split is needed: s² = (sin x − cos x)² = 1 − 2 sin x cos x = 1 − sin 2x. V = ∫ (0 to π) (1 − sin 2x) dx = π − 0 = π.
 
+- (A) is ∫ (0 to π) (sin x − cos x) dx, with no square.
 - (B) squares the total base area, (2√2)², instead of each slice.
-- (C) is ∫ (0 to π) (sin x − cos x) dx, with no square.
 - (D) squares each curve separately: ∫ (sin²x − cos²x) dx.
 
 Topics: 8.6, 8.7.
@@ -112,19 +112,19 @@ Topics: 8.6, 8.7.
 
 The region bounded by y = 4 − x² and the x-axis is revolved around the line y = −1. What is the volume?
 
-- (A) 832π/15
-- (B) 892π/15
-- (C) 512π/15
-- (D) 452π/15
+- (A) 512π/15
+- (B) 452π/15
+- (C) 892π/15
+- (D) 832π/15
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** There is a gap between the axis and the region, so use washers. Measured from y = −1: R(x) = 4 − x² + 1 = 5 − x² and r(x) = 0 + 1 = 1, for −2 ≤ x ≤ 2. V = π ∫ (−2 to 2) [(5 − x²)² − 1] dx = π(96 − 160/3 + 64/5) = 832π/15.
+**Answer: (D).** There is a gap between the axis and the region, so use washers. Measured from y = −1: R(x) = 4 − x² + 1 = 5 − x² and r(x) = 0 + 1 = 1, for −2 ≤ x ≤ 2. V = π ∫ (−2 to 2) [(5 − x²)² − 1] dx = π(96 − 160/3 + 64/5) = 832π/15.
 
-- (B) uses discs of radius 5 − x² and forgets the hole.
-- (C) revolves around the x-axis.
-- (D) subtracts the hole but does not shift the outer radius.
+- (A) revolves around the x-axis.
+- (B) subtracts the hole but does not shift the outer radius.
+- (C) uses discs of radius 5 − x² and forgets the hole.
 
 Topics: 8.9, 8.10, 8.12.
 </details>

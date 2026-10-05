@@ -36,7 +36,7 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-Use this page after studying Unit 6, Integration and Accumulation of Change, or the [Unit 6 diagnostic](/advanced-course-resources/calculus-ab/unit-6-diagnostic/). The unit is shared by Calculus AB and Calculus BC. **Questions 3 and 7 are BC only** (Topics 6.11 to 6.13); Calculus AB students skip them. These are **original Marlbridge practice questions**, not past exam questions, with invented contexts and data. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not official scoring. No calculator for any question.
+Use this page after studying Unit 6, Integration and Accumulation of Change, or the [Unit 6 diagnostic](/advanced-course-resources/calculus-ab/unit-6-diagnostic/). The unit is shared by Calculus AB and Calculus BC. **Questions 3 and 7 are BC only** (Topics 6.11 to 6.13); Calculus AB students skip them. These are **original Marlbridge practice questions**, not past exam questions, with invented contexts and data. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not official scoring.
 
 ## Big ideas of the unit
 
@@ -72,18 +72,18 @@ Use this page after studying Unit 6, Integration and Accumulation of Change, or 
 
 Let g(x) = ∫ (0 to x) t/(t² + 1) dt for all real x. Which statement is true?
 
-- (A) g(2) = (1/2) ln 5, and g has a relative minimum at x = 0.
-- (B) g(2) = ln 5, and g has a relative minimum at x = 0.
-- (C) g(2) = (1/2) ln 5, and g has a relative maximum at x = 0.
+- (A) g(2) = ln 5, and g has a relative minimum at x = 0.
+- (B) g(2) = (1/2) ln 5, and g has a relative maximum at x = 0.
+- (C) g(2) = (1/2) ln 5, and g has a relative minimum at x = 0.
 - (D) g(2) = 2/5, and g has no relative extremum.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** With u = t² + 1, g(2) = (1/2)[ln(t² + 1)] (0 to 2) = (1/2) ln 5. By the Fundamental Theorem, g′(x) = x/(x² + 1), which changes from negative to positive at x = 0: a relative minimum.
+**Answer: (C).** With u = t² + 1, g(2) = (1/2)[ln(t² + 1)] (0 to 2) = (1/2) ln 5. By the Fundamental Theorem, g′(x) = x/(x² + 1), which changes from negative to positive at x = 0: a relative minimum.
 
-- (B) misses the factor 1/2 from du = 2t dt.
-- (C) reverses the sign test.
+- (A) misses the factor 1/2 from du = 2t dt.
+- (B) reverses the sign test.
 - (D) gives g′(2), not g(2).
 
 Topics: 6.4, 6.5, 6.7, 6.9.
@@ -93,40 +93,40 @@ Topics: 6.4, 6.5, 6.7, 6.9.
 
 Let R₄ be the right Riemann sum for f(x) = x³ on [0, 2] with four equal subintervals, and let S = lim (n → ∞) Σ (i = 1 to n) (2/n)(2i/n)³. Which statement is true?
 
-- (A) R₄ = 25/4 and S = 4, so R₄ is too high by 9/4.
-- (B) R₄ = 9/4 and S = 4, so R₄ is too low by 7/4.
-- (C) R₄ = 25/4 and S = 8, so R₄ is too low by 7/4.
-- (D) R₄ = 25/2 and S = 4, so R₄ is too high by 17/2.
+- (A) R₄ = 9/4 and S = 4, so R₄ is too low by 7/4.
+- (B) R₄ = 25/4 and S = 8, so R₄ is too low by 7/4.
+- (C) R₄ = 25/2 and S = 4, so R₄ is too high by 17/2.
+- (D) R₄ = 25/4 and S = 4, so R₄ is too high by 9/4.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** R₄ = (1/2)(1/8 + 1 + 27/8 + 8) = 25/4. S is the limit of right sums for the same function and interval, so S = ∫ (0 to 2) x³ dx = 4. f is increasing, so R₄ is too high, by 9/4.
+**Answer: (D).** R₄ = (1/2)(1/8 + 1 + 27/8 + 8) = 25/4. S is the limit of right sums for the same function and interval, so S = ∫ (0 to 2) x³ dx = 4. f is increasing, so R₄ is too high, by 9/4.
 
-- (B) is the left sum, 9/4.
-- (C) uses x⁴/2 as the antiderivative.
-- (D) leaves out the width 1/2.
+- (A) is the left sum, 9/4.
+- (B) uses x⁴/2 as the antiderivative.
+- (C) leaves out the width 1/2.
 
 Topics: 6.2, 6.3, 6.7.
 </details>
 
 ## Question 3 (multiple choice · mixed) (BC only)
 
-What is ∫ (0 to ∞) e^(−x) sin x dx?
+What is ∫ (0 to ∞) (2x + 1) e^(−x/2) dx?
 
-- (A) 1/2
-- (B) 1
-- (C) −1/2
-- (D) It diverges, because sin x keeps oscillating.
+- (A) 1
+- (B) 10
+- (C) 2
+- (D) It diverges, because 2x + 1 grows without bound.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Parts twice on I = ∫ e^(−x) sin x dx gives I = −e^(−x) sin x − e^(−x) cos x − I, so I = −(1/2) e^(−x)(sin x + cos x) + C. As b → ∞, |sin b + cos b| ≤ 2 and e^(−b) → 0, so this tends to 0. The integral is 0 − (−1/2) = 1/2.
+**Answer: (B).** Use parts with u = 2x + 1 and dv = e^(−x/2) dx, so du = 2 dx and v = −2e^(−x/2). Then ∫ (2x + 1) e^(−x/2) dx = −2(2x + 1) e^(−x/2) + ∫ 4e^(−x/2) dx = −(4x + 10) e^(−x/2) + C. So the integral is lim (b → ∞) [−(4x + 10) e^(−x/2)] (0 to b) = lim (b → ∞) [−(4b + 10) e^(−b/2)] + 10. By L'Hospital's rule the limit term is 0 and the integral is 10.
 
-- (B) forgets to divide by 2 when solving for I.
-- (C) subtracts in the wrong order.
-- (D) ignores that e^(−x) shrinks the oscillation to 0.
+- (A) uses −(1/2) e^(−x/2) as the antiderivative of e^(−x/2).
+- (C) stops after the uv term, −2(2x + 1) e^(−x/2).
+- (D) ignores that e^(−x/2) shrinks faster than 2x + 1 grows.
 
 Topics: 6.11, 6.13.
 </details>
@@ -225,7 +225,7 @@ A particle moves along the x-axis with velocity v(t) = (2t² − 2t + 8)/(t + 1)
 
 **(d)** t + 1 > 0, and 2t² − 2t + 8 has discriminant 4 − 64 < 0 and positive leading coefficient, so it is always positive. So v(t) > 0: the particle never turns back, and the distance is x(3) − x(0) = **24 ln 2 − 3 metres** (about 13.6 m).
 
-**(e)** The student integrated the top and bottom separately; there is no quotient rule for antiderivatives, and differentiating the answer does not give v(t). Divide first, as in (a).
+**(e)** The student integrated the top and bottom separately. There is no quotient rule for antiderivatives: differentiating the answer does not give v(t). Divide first, as in (a).
 
 | Point | What earns it |
 |---|---|
@@ -241,34 +241,34 @@ Total: 6 points. Topics: 6.1, 6.7, 6.8, 6.10, 6.14.
 
 ## Question 7 (constructed response · mixed) (BC only)
 
-Each integrand has denominator x² + 3x + 2 = (x + 1)(x + 2).
+Each integrand has denominator x² + 5x + 4 = (x + 1)(x + 4).
 
-(a) Find ∫ (2x + 3)/(x² + 3x + 2) dx, and name the technique.
-(b) Find ∫ 1/(x² + 3x + 2) dx, and name the technique.
-(c) Find ∫ x/(x² + 3x + 2) dx.
-(d) Show that ∫ (0 to ∞) 1/(x² + 3x + 2) dx converges, and find its value. Use limit notation.
-(e) Determine whether ∫ (0 to ∞) x/(x² + 3x + 2) dx converges. Justify.
+(a) Find ∫ (2x + 5)/(x² + 5x + 4) dx, and name the technique.
+(b) Find ∫ 3/(x² + 5x + 4) dx, and name the technique.
+(c) Find ∫ x/(x² + 5x + 4) dx.
+(d) Show that ∫ (0 to ∞) 3/(x² + 5x + 4) dx converges, and find its value. Use limit notation.
+(e) Determine whether ∫ (0 to ∞) x/(x² + 5x + 4) dx converges. Justify.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** The top is the derivative of the bottom: **substitution**, u = x² + 3x + 2. **ln|x² + 3x + 2| + C**.
+**(a)** The top is the derivative of the bottom: **substitution**, u = x² + 5x + 4. **ln|x² + 5x + 4| + C**.
 
-**(b)** The top is not a multiple of 2x + 3, and the bottom has distinct linear factors: **partial fractions**. 1/((x + 1)(x + 2)) = 1/(x + 1) − 1/(x + 2), giving **ln|(x + 1)/(x + 2)| + C**.
+**(b)** The top is not a multiple of 2x + 5, and the bottom has distinct linear factors: **partial fractions**. 3/((x + 1)(x + 4)) = 1/(x + 1) − 1/(x + 4), giving **ln|(x + 1)/(x + 4)| + C**.
 
-**(c)** x = A(x + 2) + B(x + 1): x = −1 gives A = −1, and x = −2 gives B = 2. **−ln|x + 1| + 2 ln|x + 2| + C**.
+**(c)** x = A(x + 4) + B(x + 1): x = −1 gives −1 = 3A, so A = −1/3; x = −4 gives −4 = −3B, so B = 4/3. **−(1/3) ln|x + 1| + (4/3) ln|x + 4| + C**.
 
-**(d)** ∫ (0 to ∞) 1/(x² + 3x + 2) dx = lim (b → ∞) [ln((x + 1)/(x + 2))] (0 to b) = lim (b → ∞) ln((b + 1)/(b + 2)) − ln(1/2). Since (b + 1)/(b + 2) → 1, the first term tends to 0, and the integral **converges to ln 2**.
+**(d)** ∫ (0 to ∞) 3/(x² + 5x + 4) dx = lim (b → ∞) [ln((x + 1)/(x + 4))] (0 to b) = lim (b → ∞) ln((b + 1)/(b + 4)) − ln(1/4). Since (b + 1)/(b + 4) → 1, the first term tends to 0, and the integral **converges to ln 4**.
 
-**(e)** ∫ (0 to b) x/(x² + 3x + 2) dx = 2 ln(b + 2) − ln(b + 1) − 2 ln 2 = ln((b + 2)²/(b + 1)) − 2 ln 2. As b → ∞, (b + 2)²/(b + 1) → ∞, so the integral **diverges**. For large x the integrand behaves like 1/x.
+**(e)** ∫ (0 to b) x/(x² + 5x + 4) dx = (4/3) ln(b + 4) − (1/3) ln(b + 1) − (4/3) ln 4 = (1/3) ln((b + 4)⁴/(b + 1)) − (4/3) ln 4. As b → ∞, (b + 4)⁴/(b + 1) → ∞, so the integral **diverges**.
 
 | Point | What earns it |
 |---|---|
 | 1 | (a) substitution named and correct answer |
 | 1 | (b) partial fractions named, correct answer |
-| 1 | (c) A = −1, B = 2 and correct answer |
+| 1 | (c) A = −1/3, B = 4/3 and correct answer |
 | 1 | (d) written as a limit of a definite integral |
-| 1 | (d) ln 2, with the first term's limit shown as 0 |
+| 1 | (d) ln 4, with the first term's limit shown as 0 |
 | 1 | (e) diverges, limit shown infinite |
 
 Total: 6 points. Topics: 6.9, 6.12, 6.13, 6.14.
@@ -276,7 +276,7 @@ Total: 6 points. Topics: 6.9, 6.12, 6.13, 6.14.
 
 ## How did you do?
 
-Calculus AB: add your points from Questions 4–6 (18 in total) and your correct answers to Questions 1 and 2. Calculus BC: include Questions 3 and 7 (24 points in total). The total is only a guide, not a predicted exam score. More useful: note **which topics** your lost points came from (each answer lists them), then tick off those topic checklists:
+Calculus AB: add your points from Questions 4–6 (18 in total) and your correct answers to Questions 1 and 2. Calculus BC: include Questions 3 and 7 (24 points in total). The total is only a guide, not a predicted score. Note **which topics** your lost points came from (each answer lists them), then use those topic checklists:
 
 [6.1](/advanced-course-resources/calculus-ab/6-1-exploring-accumulations-change-checklist/) ·
 [6.2](/advanced-course-resources/calculus-ab/6-2-approximating-areas-riemann-sums-checklist/) ·

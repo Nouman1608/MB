@@ -47,17 +47,17 @@ These are **original Marlbridge practice questions**, not past exam questions. T
 
 A mouse population produces far more young than its habitat's seeds can feed. Tooth shape varies and is inherited. What does Darwin's theory predict?
 
-- (A) Mice whose inherited tooth shape helps them gather seeds breed more, so that shape spreads over generations.
-- (B) Each mouse reshapes its teeth by gnawing, and its young inherit the new shape.
+- (A) Each mouse reshapes its teeth by gnawing, and its young inherit the new shape.
+- (B) Mice whose inherited tooth shape helps them gather seeds breed more, so that shape spreads over generations.
 - (C) Seeds are shared equally, so every mouse breeds equally.
 - (D) The mice produce fewer young because the population needs to fit the food supply.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Limited food means competition; mice with a heritable advantage leave more offspring.
+**Answer: (B).** Limited food means competition; mice with a heritable advantage leave more offspring.
 
-- (B) is inheritance of acquired traits: wear does not change genes.
+- (A) is inheritance of acquired traits: wear does not change genes.
 - (C) leaves out competition, the start of Darwin's argument.
 - (D) gives evolution a goal.
 
@@ -68,18 +68,18 @@ A mouse population produces far more young than its habitat's seeds can feed. To
 
 A vole has two forms of hemoglobin. Form H loads oxygen well in thin air; form L releases oxygen to muscles more easily. H is commoner high on the mountain, L in the valley. Which is best supported?
 
-- (A) Variation in one molecule affects fitness, and which form is favoured depends on the environment.
-- (B) High altitude causes voles to switch from making L to making H.
-- (C) H is better overall and will soon replace L everywhere.
+- (A) High altitude causes voles to switch from making L to making H.
+- (B) H is better overall and will soon replace L everywhere.
+- (C) Variation in one molecule affects fitness, and which form is favoured depends on the environment.
 - (D) Both forms carry oxygen, so the difference cannot affect fitness.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Each form helps in one setting, so the same variation gives different fitness in different places.
+**Answer: (C).** Each form helps in one setting, so the same variation gives different fitness in different places.
 
-- (B) treats an inherited difference as a response.
-- (C) forgets the valley, where L is favoured.
+- (A) treats an inherited difference as a response.
+- (B) forgets the valley, where L is favoured.
 - (D) ignores how a molecule's function affects fitness.
 
 **If you missed this:** "Variation in molecules affects fitness", [Topic 7.2 study guide](/advanced-course-resources/biology/7-2-natural-selection-study-guide/).
@@ -173,17 +173,17 @@ A sample of 1000 grass plants gives AA 200, Aa 700 and aa 100.
 
 Species on a volcanic island chain resemble species on the nearest mainland more than species in similar habitats on distant islands. What does this best support?
 
-- (A) The island species descend from mainland colonists and changed after arriving.
-- (B) Similar habitats always produce identical species.
+- (A) Similar habitats always produce identical species.
+- (B) The island species descend from mainland colonists and changed after arriving.
 - (C) The island and distant-island species share the most recent common ancestor.
 - (D) Each island animal changed during its life to match the mainland species.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Biogeography: where species live reflects where their ancestors came from.
+**Answer: (B).** Biogeography: where species live reflects where their ancestors came from.
 
-- (B) is contradicted: similar distant habitats hold different species.
+- (A) is contradicted: similar distant habitats hold different species.
 - (C) reverses the evidence.
 - (D) describes individuals, not populations.
 
@@ -194,19 +194,19 @@ Species on a volcanic island chain resemble species on the nearest mainland more
 
 Membrane-bound organelles, linear chromosomes and genes with introns occur in plants, animals and fungi, but not bacteria. Why is this evidence of common ancestry of eukaryotes?
 
-- (A) Each is complex and unlikely to arise twice in the same form, so one shared ancestor best explains them.
-- (B) All living things need these features.
-- (C) It shows animals evolved from plants, and fungi from animals.
-- (D) Similar environments produced them separately in each group.
+- (A) All living things need these features.
+- (B) It shows animals evolved from plants, and fungi from animals.
+- (C) Similar environments produced them separately in each group.
+- (D) Each is complex and unlikely to arise twice in the same form, so one shared ancestor best explains them.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Complex features shared by all eukaryotes, and absent from prokaryotes, point to one ancestor.
+**Answer: (D).** Complex features shared by all eukaryotes, and absent from prokaryotes, point to one ancestor.
 
-- (B) is false: bacteria lack them.
-- (C) treats ancestry as a ladder; living groups share an ancestor.
-- (D) is convergence, which cannot explain identical detailed structures everywhere.
+- (A) is false: bacteria lack them.
+- (B) treats ancestry as a ladder; living groups share an ancestor.
+- (C) is convergence, which cannot explain identical detailed structures everywhere.
 
 **If you missed this:** "Why shared features point to one ancestor", [Topic 7.7 study guide](/advanced-course-resources/biology/7-7-common-ancestry-study-guide/).
 </details>
@@ -215,17 +215,17 @@ Membrane-bound organelles, linear chromosomes and genes with introns occur in pl
 
 Which observation is the strongest evidence that a crop pest is evolving now?
 
-- (A) Over 10 years, a resistance allele rose from 0.05 to 0.40 in sprayed fields but stayed near 0.05 in unsprayed fields.
-- (B) The pest looks like fossils of its relatives.
-- (C) After a wet summer, adults were larger than usual.
+- (A) The pest looks like fossils of its relatives.
+- (B) After a wet summer, adults were larger than usual.
+- (C) Over 10 years, a resistance allele rose from 0.05 to 0.40 in sprayed fields but stayed near 0.05 in unsprayed fields.
 - (D) The pest population doubled in one year.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Evolution is a change in allele frequencies; the unsprayed fields are a comparison.
+**Answer: (C).** Evolution is a change in allele frequencies; the unsprayed fields are a comparison.
 
-- (B) concerns past ancestry. (C) may be a response to food. (D) is a change in numbers, not alleles.
+- (A) concerns past ancestry. (B) may be a response to food. (D) is a change in numbers, not alleles.
 
 **If you missed this:** "Evidence 3: resistance to the chemicals we use", [Topic 7.8 study guide](/advanced-course-resources/biology/7-8-continuing-evolution-study-guide/).
 </details>
@@ -275,17 +275,17 @@ Rising mountains split a salamander population into northern (N) and southern (S
 
 Reef A was replanted from fragments of a few coral colonies. Reef B grew from larvae of many parents. A heatwave strikes both. Which reef is more likely to keep living coral?
 
-- (A) Reef B, because it more likely contains colonies with heat-tolerant alleles.
-- (B) Reef A, because its identical colonies are equally well adapted.
+- (A) Reef A, because its identical colonies are equally well adapted.
+- (B) Reef B, because it more likely contains colonies with heat-tolerant alleles.
 - (C) Neither, because heat is abiotic and affects all coral alike.
 - (D) Reef B, because its corals will develop heat tolerance when they need it.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** More genetic diversity means a greater chance that some individuals withstand a new pressure.
+**Answer: (B).** More genetic diversity means a greater chance that some individuals withstand a new pressure.
 
-- (B) is the risk of low diversity: if one colony is susceptible, so are its copies.
+- (A) is the risk of low diversity: if one colony is susceptible, so are its copies.
 - (C) ignores diversity. (D) has the right reef for the wrong reason: tolerance is not a response to need.
 
 **If you missed this:** "High diversity: a resilient population", [Topic 7.11 study guide](/advanced-course-resources/biology/7-11-variations-populations-study-guide/).
@@ -295,18 +295,18 @@ Reef A was replanted from fragments of a few coral colonies. Reef B grew from la
 
 Which result would most **weaken** the RNA world hypothesis?
 
-- (A) After a long search, no RNA can copy even a short RNA template unless a protein is added.
-- (B) RNA is less chemically stable than DNA.
-- (C) The ribosome's site that joins amino acids is made of RNA.
-- (D) Modern cells store genetic information in DNA.
+- (A) RNA is less chemically stable than DNA.
+- (B) The ribosome's site that joins amino acids is made of RNA.
+- (C) Modern cells store genetic information in DNA.
+- (D) After a long search, no RNA can copy even a short RNA template unless a protein is added.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The hypothesis assumes genetically encoded proteins were not needed as catalysts; this result challenges that.
+**Answer: (D).** The hypothesis assumes genetically encoded proteins were not needed as catalysts; this result challenges that.
 
-- (B) fits the hypothesis: it explains why DNA later took over.
-- (C) supports it. (D) is expected; the hypothesis concerns the earliest genetic material.
+- (A) fits the hypothesis: it explains why DNA later took over.
+- (B) supports it. (C) is expected; the hypothesis concerns the earliest genetic material.
 
 **If you missed this:** "The RNA world hypothesis", [Topic 7.12 study guide](/advanced-course-resources/biology/7-12-origins-life-on-earth-study-guide/).
 </details>

@@ -35,13 +35,13 @@ author: "marlbridge-academic-team"
 
 ## What this diagnostic is for
 
-Use this page before you revise Unit 4, or right after you finish it. It has one short question per topic, and a second for the three largest topics (4.2, 4.3 and 4.5). Each answer names the study guide to read if you got it wrong.
+Use this page before you revise Unit 4, or just after finishing it. It has one short question per topic, and a second for the three largest topics (4.2, 4.3 and 4.5). Each answer names the study guide to read if you got it wrong.
 
 These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated against real exam results, so your total does **not** predict an exam score. Treat it as a map of what to revisit.
 
 **Calculator and data.** A calculator is allowed on both sections of the Biology exam; here a basic one is enough. All data, cell lines and patients are fictional.
 
-**How to work.** Answer everything before opening any answer, and note a reason for each choice.
+**How to work.** Answer everything before opening any answer, noting a reason for each choice.
 
 ## Question 1 (multiple choice · 4.1)
 
@@ -59,7 +59,7 @@ Which example is matched with the correct way that cells communicate?
 
 - (A) is quorum sensing: the signal acts locally in the surrounding fluid, not through blood.
 - (C) is tempting, but the signal is held **on the surface** of the presenting cell: direct contact.
-- (D) gets the distance wrong. Insulin travels in the blood to target cells all over the body.
+- (D) is wrong: insulin travels in the blood to target cells all over the body.
 
 **If you missed this:** read "Communication over short distances: local regulators" and "Comparing the routes" in the [cell communication study guide](/advanced-course-resources/biology/4-1-cell-communication-study-guide/).
 </details>
@@ -87,18 +87,18 @@ Liver cells are treated with a chemical that stops their G proteins from exchang
 
 In a fictional pathway, kinase 1 phosphorylates kinase 2, which switches kinase 2 on. A drug blocks the protein phosphatase that removes this phosphate group. The signal is applied for 5 minutes and then washed away. Compared with untreated cells, what is the most likely result?
 
-- (A) The response continues for longer after the signal is removed.
-- (B) There is no response, because kinase 2 cannot be phosphorylated while the phosphatase is blocked.
-- (C) The response stops sooner, because phosphate groups build up and block kinase 2.
+- (A) There is no response, because kinase 2 cannot be phosphorylated while the phosphatase is blocked.
+- (B) The response stops sooner, because phosphate groups build up and block kinase 2.
+- (C) The response continues for longer after the signal is removed.
 - (D) There is no difference, because phosphatases act only on the receptor.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Kinases switch proteins on by adding phosphate; phosphatases switch them off by removing it. With the phosphatase blocked, kinase 2 stays on after the signal has gone.
+**Answer: (C).** Kinases switch proteins on by adding phosphate; phosphatases switch them off by removing it. With the phosphatase blocked, kinase 2 stays on after the signal has gone.
 
-- (B) mixes up the two enzymes: kinase 1, not the phosphatase, adds the phosphate.
-- (C) invents a mechanism. The phosphate is what keeps kinase 2 active.
+- (A) mixes up the two enzymes: kinase 1, not the phosphatase, adds the phosphate.
+- (B) invents a mechanism. The phosphate is what keeps kinase 2 active.
 - (D) is wrong: phosphatases reverse phosphorylation anywhere in a cascade.
 
 **If you missed this:** read "Protein phosphorylation" in the [introduction to signal transduction study guide](/advanced-course-resources/biology/4-2-introduction-signal-transduction-study-guide/).
@@ -108,19 +108,19 @@ In a fictional pathway, kinase 1 phosphorylates kinase 2, which switches kinase 
 
 Liver cells are treated with a drug that blocks transcription. Epinephrine is added, and within 30 seconds the cells release glucose from glycogen, just as untreated cells do. Which statement best explains this?
 
-- (A) The pathway switches on an enzyme the cell already has, by phosphorylation, so no new protein is needed.
-- (B) Epinephrine enters the nucleus and acts as a transcription factor that the drug cannot block.
-- (C) Epinephrine is itself an enzyme that breaks glycogen down.
-- (D) The response is a change in gene expression, which does not need transcription.
+- (A) Epinephrine enters the nucleus and acts as a transcription factor that the drug cannot block.
+- (B) Epinephrine is itself an enzyme that breaks glycogen down.
+- (C) The response is a change in gene expression, which does not need transcription.
+- (D) The pathway switches on an enzyme the cell already has, by phosphorylation, so no new protein is needed.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The pathway activates the glycogen-breaking enzyme already in the cell. The speed is a clue: making new proteins takes far longer.
+**Answer: (D).** The pathway activates the glycogen-breaking enzyme already in the cell. The speed is a clue: making new proteins takes far longer.
 
-- (B) describes a steroid hormone, and a transcription factor would be useless while transcription is blocked.
-- (C) confuses the signal with the response. The cell's own enzyme does the work.
-- (D) assumes every response involves genes; gene expression starts with transcription.
+- (A) describes a steroid hormone, and a transcription factor would be useless while transcription is blocked.
+- (B) confuses the signal with the response. The cell's own enzyme does the work.
+- (C) assumes every response involves genes; gene expression starts with transcription.
 
 **If you missed this:** read "Changing what proteins already do" in the [signal transduction pathways study guide](/advanced-course-resources/biology/4-3-signal-transduction-pathways-study-guide/).
 </details>
@@ -129,19 +129,19 @@ Liver cells are treated with a drug that blocks transcription. Epinephrine is ad
 
 In a fictional gland cell, ligand L binds receptor R, and R activates relay protein P. P activates two kinases: K1 leads to secretion of a stored hormone within minutes; K2 switches on genes for making more hormone over hours. A loss-of-function mutation stops K2 from being activated. What happens when L is added?
 
-- (A) The stored hormone is secreted normally, but the genes are not switched on.
-- (B) Neither response happens, because the mutation is in the pathway.
-- (C) Both responses happen even without L.
-- (D) The genes are switched on, but the stored hormone is not secreted.
+- (A) Neither response happens, because the mutation is in the pathway.
+- (B) The genes are switched on, but the stored hormone is not secreted.
+- (C) The stored hormone is secreted normally, but the genes are not switched on.
+- (D) Both responses happen even without L.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** A mutation affects only the steps **downstream** of it. K2 is on one branch, so only the gene response is lost.
+**Answer: (C).** A mutation affects only the steps **downstream** of it. K2 is on one branch, so only the gene response is lost.
 
-- (B) treats the mutation as if it were before the branch point.
-- (C) describes a gain-of-function mutation; this one is loss of function.
-- (D) reverses the two branches.
+- (A) treats the mutation as if it were before the branch point.
+- (B) reverses the two branches.
+- (D) describes a gain-of-function mutation; this one is loss of function.
 
 **If you missed this:** read "When part of the pathway changes: mutations" in the [signal transduction pathways study guide](/advanced-course-resources/biology/4-3-signal-transduction-pathways-study-guide/).
 </details>
@@ -150,17 +150,17 @@ In a fictional gland cell, ligand L binds receptor R, and R activates relay prot
 
 In a fictional patient, a small group of β cells releases insulin at a high rate all the time, whatever the blood glucose concentration. The rest of the loop works normally. Which outcome is most likely between meals?
 
-- (A) Blood glucose falls below the set point and stays low, because insulin release no longer falls when glucose falls.
-- (B) Blood glucose rises, because high insulin makes the liver release glucose.
+- (A) Blood glucose rises, because high insulin makes the liver release glucose.
+- (B) Blood glucose falls below the set point and stays low, because insulin release no longer falls when glucose falls.
 - (C) Blood glucose stays at the set point, because the β cells detect the fall and stop releasing insulin.
 - (D) Blood glucose rises above the set point, because positive feedback takes over.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Normally, falling glucose shrinks the stimulus, so insulin release falls. Here insulin ignores glucose, so cells keep taking glucose up. Glucagon may partly oppose the fall, but cannot cancel a signal that never stops.
+**Answer: (B).** Normally, falling glucose shrinks the stimulus, so insulin release falls. Here insulin ignores glucose, so cells keep taking glucose up. Glucagon may partly oppose the fall, but cannot cancel a signal that never stops.
 
-- (B) gives insulin the job of glucagon.
+- (A) gives insulin the job of glucagon.
 - (C) describes the normal loop; these cells ignore glucose.
 - (D) misuses "positive feedback": nothing here strengthens the original change.
 
@@ -171,19 +171,19 @@ In a fictional patient, a small group of β cells releases insulin at a high rat
 
 Dividing animal cells are treated with a chemical that stops spindle microtubules from forming. DNA replication is not affected. After several hours, most of the dividing cells contain:
 
-- (A) condensed chromosomes, each of two sister chromatids, that cannot be lined up at the equator or pulled apart.
-- (B) loose chromatin in G1, because DNA cannot be replicated without a spindle.
-- (C) separated chromatids at opposite poles, but no new nuclear envelope.
-- (D) no chromosomes, after a cleavage furrow has divided the cell.
+- (A) loose chromatin in G1, because DNA cannot be replicated without a spindle.
+- (B) separated chromatids at opposite poles, but no new nuclear envelope.
+- (C) no chromosomes, after a cleavage furrow has divided the cell.
+- (D) condensed chromosomes, each of two sister chromatids, that cannot be lined up at the equator or pulled apart.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The cells replicate their DNA and condense their chromosomes as normal. With no spindle fibres, nothing attaches at the centromeres, so chromosomes cannot be aligned or separated.
+**Answer: (D).** The cells replicate their DNA and condense their chromosomes as normal. With no spindle fibres, nothing attaches at the centromeres, so chromosomes cannot be aligned or separated.
 
-- (B) puts the spindle in the wrong phase: replication does not use it.
-- (C) needs anaphase, and anaphase needs spindle fibres to pull the chromatids.
-- (D) is impossible: chromosomes cannot vanish.
+- (A) puts the spindle in the wrong phase: replication does not use it.
+- (B) needs anaphase, and anaphase needs spindle fibres to pull the chromatids.
+- (C) is impossible: chromosomes cannot vanish.
 
 **If you missed this:** read "Mitosis: sharing the copies out" in the [cell cycle study guide](/advanced-course-resources/biology/4-5-cell-cycle-study-guide/).
 </details>
@@ -218,21 +218,21 @@ Under a microscope, 40 of the 1000 cells are in mitosis.
 
 ## Question 9 (short answer · 4.6)
 
-Two fictional cell lines are grown for 48 hours with or without a growth signal. Mutant line C makes a G1 cyclin at a high level all the time.
+Two fictional cell lines are grown with no growth signal. Mutant line C makes a G1 cyclin at a high level all the time. No cells die.
 
-| Cell line | In S phase, no growth signal / % | In S phase, with growth signal / % |
-|---|---|---|
-| Normal | 3 | 30 |
-| Mutant C | 27 | 31 |
+| Day | 0 | 1 | 2 | 3 |
+|---|---|---|---|---|
+| Normal / 10⁵ cells | 2.0 | 2.1 | 2.1 | 2.2 |
+| Mutant C / 10⁵ cells | 2.0 | 4.0 | 8.0 | 16.0 |
 
-(a) Without the growth signal, how many times more mutant cells than normal cells are in S phase?
+(a) Calculate how many times the mutant population grew in 3 days, and its mean cycle length if every cell divides.
 (b) Explain the result for mutant C in terms of cyclins, CDKs and the G1 checkpoint.
 (c) Explain why this mutation is a step towards cancer, and name the process that could still remove the cell if its DNA became badly damaged.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**(a)** 27 ÷ 3 = **9 times** as many.
+**(a)** 16.0 ÷ 2.0 = **8 times** = 2³, so 3 divisions in 72 h: about **24 h** per cycle. Normal cells barely divide.
 
 **(b)** A CDK is active only when bound to cyclin. Normally the G1 cyclin builds up only when conditions, including growth signals, favour division, so most cells stop at the G1 checkpoint. In mutant C the cyclin is always there, so the cyclin-CDK complex is always active, phosphorylates the proteins that start replication, and cells pass the checkpoint without a signal.
 
@@ -245,7 +245,7 @@ Two fictional cell lines are grown for 48 hours with or without a growth signal.
 
 ## Your next step
 
-Mark each question right or wrong, then use this table. A short answer missed in one part counts as missed.
+Mark each question, then use this table. A short answer missed in one part counts as missed.
 
 | Topic | Question(s) | If you missed it, read |
 |---|---|---|

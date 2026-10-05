@@ -140,7 +140,7 @@ A fictional drone company made 8,000 delivery flights last year. It claims fligh
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Mean μx̄ = **42 minutes**. Standard deviation σx̄ = 5/√40 = **0.7906 minutes** (random sample; 40 ≤ 800 ✓). Shape **approximately normal**: the population is skewed, but n = 40 ≥ 30. z = (40.5 − 42)/0.7906 = −1.90, so P(x̄ ≤ 40.5) = **0.0289**.
+**(a)** Mean μx̄ = **42 minutes**. Standard deviation σx̄ = 5/√40 = **0.7906 minutes** (random sample; 40 ≤ 800 ✓). Shape **approximately normal**: the population is skewed, but n = 40 ≥ 30. z = (40.5 − 42)/0.7906 = −1.897, so P(x̄ ≤ 40.5) = **0.0289**.
 
 **(b)** One-sample t-interval for μ = the true mean flight time of all 8,000 flights. Conditions: random ✓; 40 ≤ 800 ✓; n = 40 ≥ 30 ✓. df = 39, t* = 2.023. SE = 5.6/√40 = 0.8854. MOE = 2.023 × 0.8854 = 1.7910. Interval: **(38.31, 41.89) minutes**.
 
