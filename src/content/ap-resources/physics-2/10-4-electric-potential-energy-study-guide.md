@@ -182,7 +182,7 @@ If nothing holds the charges back, the change in U_E becomes kinetic energy inst
 <figure>
 <svg viewBox="0 0 460 380" role="img" aria-labelledby="ue-tri-title ue-tri-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="ue-tri-title">Three point charges at the corners of a right triangle</title>
-<desc id="ue-tri-desc">A right triangle with the right angle at A. Charge q1 equals plus 2.0 microcoulombs at A, bottom left. Charge q2 equals plus 3.0 microcoulombs at B, 0.30 metres to the right of A. Charge q3 equals minus 5.0 microcoulombs at C, 0.40 metres above A. The hypotenuse BC is 0.50 metres. Each side is labelled with the pair it represents: U12 on AB, U13 on AC and U23 on BC.</desc>
+<desc id="ue-tri-desc">A right triangle with the right angle at A. Charge q1 equals plus 2.0 microcoulombs at A, bottom left. Charge q2 equals plus 3.0 microcoulombs at B, 0.30 metres to the right of A. Charge q3 equals minus 5.0 microcoulombs at C, 0.40 metres above A. The hypotenuse BC is 0.50 metres. Each side is labelled with the pair it represents: U₁₂ on AB, U₁₃ on AC and U₂₃ on BC.</desc>
 <polygon points="100,330 310,330 100,50" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
 <polyline points="100,314 116,314 116,330" fill="none" stroke="#1d2b44" stroke-width="1"/>
 <circle cx="100" cy="330" r="14" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/><text x="100" y="335" font-size="15" font-weight="700" fill="#1d2b44" text-anchor="middle">+</text>

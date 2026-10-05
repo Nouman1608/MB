@@ -74,7 +74,7 @@ For example, the conjugate base of NH₄⁺ is NH₃, and the conjugate acid of 
 <title id="cp-title">Conjugate acid-base pairs in the reaction of nitrous acid with water</title>
 <desc id="cp-desc">The equation HNO2 plus H2O forms H3O+ plus NO2 minus. A curved arrow labelled H+ shows a proton moving from HNO2 to H2O. Under the equation, HNO2 is labelled acid, H2O base, H3O+ conjugate acid and NO2 minus conjugate base. A solid bracket joins H2O and H3O+ as one conjugate pair. A dashed bracket joins HNO2 and NO2 minus as the other conjugate pair.</desc>
 <defs><marker id="cp-a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#1d2b44"/></marker></defs>
-<path d="M85 82 Q155 30 222 82" fill="none" stroke="#1d2b44" stroke-width="2" marker-end="url(#cp-a)"/>
+<path d="M85 82 Q 155 30 222 82" fill="none" stroke="#1d2b44" stroke-width="2" marker-end="url(#cp-a)"/>
 <text x="155" y="45" text-anchor="middle" font-size="15" font-weight="600" fill="#1d2b44">H⁺</text>
 <text x="80" y="112" text-anchor="middle" font-size="22" fill="#1d2b44">HNO₂</text>
 <text x="155" y="112" text-anchor="middle" font-size="22" fill="#1d2b44">+</text>

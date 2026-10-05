@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-micro-2.2-checklist"
 title: "Supply: Topic Checklist (Microeconomics 2.2)"
-description: "Specific “I can…” statements for supply, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can…” statements for supply in microeconomics: the law of supply, shifts versus movements and the supply curve, each linked to the guide section and practice question that tests it."
 course: "microeconomics"
 unit: 2
 topics: ["2.2"]

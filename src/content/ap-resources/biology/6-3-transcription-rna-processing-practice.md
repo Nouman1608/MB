@@ -105,9 +105,9 @@ The diagram shows transcription of part of a gene. The RNA is drawn as a dashed 
 <desc id="q4-desc">Two DNA strands run left to right. Strand 1, the top, thin line, is labelled 3 prime at the left and 5 prime at the right. Strand 2, the bottom, thick line, is labelled 5 prime at the left and 3 prime at the right. A large rounded shape labelled RNA polymerase holds the strands apart in a bubble. A dashed line, the RNA, lies alongside strand 2 inside the bubble, with short pairing lines between them. The end of the RNA inside the bubble, at the left, is labelled Y. The RNA leaves the enzyme at the lower right and ends in a free end labelled X.</desc>
 <rect x="0" y="0" width="680" height="310" fill="#ffffff"/>
 <rect x="210" y="34" width="260" height="170" rx="40" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<path d="M30,100 L200,100 Q240,100 262,62 L418,62 Q440,100 480,100 L650,100" fill="none" stroke="#1d2b44" stroke-width="2"/>
-<path d="M30,122 L200,122 Q240,122 262,160 L418,160 Q440,122 480,122 L650,122" fill="none" stroke="#1d2b44" stroke-width="5"/>
-<path d="M268,147 L380,147 Q418,147 444,222 L560,262" fill="none" stroke="#1d2b44" stroke-width="4" stroke-dasharray="9 5"/>
+<path d="M30,100 L200,100 Q 240,100 262,62 L418,62 Q 440,100 480,100 L650,100" fill="none" stroke="#1d2b44" stroke-width="2"/>
+<path d="M30,122 L200,122 Q 240,122 262,160 L418,160 Q 440,122 480,122 L650,122" fill="none" stroke="#1d2b44" stroke-width="5"/>
+<path d="M268,147 L380,147 Q 418,147 444,222 L560,262" fill="none" stroke="#1d2b44" stroke-width="4" stroke-dasharray="9 5"/>
 <line x1="272" y1="150" x2="272" y2="157" stroke="#1d2b44" stroke-width="1.5"/>
 <line x1="290" y1="150" x2="290" y2="157" stroke="#1d2b44" stroke-width="1.5"/>
 <line x1="310" y1="150" x2="310" y2="157" stroke="#1d2b44" stroke-width="1.5"/>

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-micro-4.4-practice"
 title: "Monopolistic Competition: Practice Questions (Microeconomics 4.4)"
-description: "Seven original Marlbridge practice questions on monopolistic competition: short-run profit and loss, long-run entry and exit, excess capacity, deadweight loss and advertising, with worked solutions and suggested mark points."
+description: "Seven original Marlbridge practice questions on monopolistic competition: short-run profit, long-run entry and exit, excess capacity, deadweight loss and advertising, with worked solutions and suggested mark points."
 course: "microeconomics"
 unit: 4
 topics: ["4.4"]

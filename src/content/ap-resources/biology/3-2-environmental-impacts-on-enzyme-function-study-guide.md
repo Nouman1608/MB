@@ -196,16 +196,16 @@ An **inhibitor** is a molecule that binds to an enzyme and reduces its activity.
 <title id="ib32-title">How competitive and noncompetitive inhibitors bind</title>
 <desc id="ib32-desc">Three enzyme drawings. Left, normal: the substrate, a wedge labelled S, fits the wedge-shaped active site. Middle, competitive inhibitor: a molecule labelled I with a similar wedge shape sits in the active site, so the substrate, shown above, cannot enter. Right, noncompetitive inhibitor: a small molecule labelled I is bound in a separate notch on the side of the enzyme, the allosteric site. The active site has become narrower and shallower, so the substrate shown above no longer fits.</desc>
 <rect x="0" y="0" width="680" height="320" fill="#ffffff"/>
-<path d="M10,130 Q10,120 20,120 L60,120 L70,160 L110,160 L120,120 L160,120 Q170,120 170,130 L170,170 L170,220 Q170,230 160,230 L20,230 Q10,230 10,220 Z" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/><text x="90" y="215" text-anchor="middle" font-size="16" font-weight="700" fill="#1d2b44">E</text>
+<path d="M10,130 Q 10,120 20,120 L60,120 L70,160 L110,160 L120,120 L160,120 Q 170,120 170,130 L170,170 L170,220 Q 170,230 160,230 L20,230 Q 10,230 10,220 Z" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/><text x="90" y="215" text-anchor="middle" font-size="16" font-weight="700" fill="#1d2b44">E</text>
 <polygon points="60,120 120,120 110,160 70,160" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <text x="90" y="146" text-anchor="middle" font-size="14" font-weight="700" fill="#1d2b44">S</text>
-<path d="M245,130 Q245,120 255,120 L295,120 L305,160 L345,160 L355,120 L395,120 Q405,120 405,130 L405,170 L405,220 Q405,230 395,230 L255,230 Q245,230 245,220 Z" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/><text x="325" y="215" text-anchor="middle" font-size="16" font-weight="700" fill="#1d2b44">E</text>
+<path d="M245,130 Q 245,120 255,120 L295,120 L305,160 L345,160 L355,120 L395,120 Q 405,120 405,130 L405,170 L405,220 Q 405,230 395,230 L255,230 Q 245,230 245,220 Z" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/><text x="325" y="215" text-anchor="middle" font-size="16" font-weight="700" fill="#1d2b44">E</text>
 <polygon points="295,120 355,120 345,160 305,160" fill="#1d2b44" stroke="#1d2b44" stroke-width="2"/>
 <text x="325" y="146" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">I</text>
 <polygon points="295,40 355,40 345,80 305,80" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <text x="325" y="66" text-anchor="middle" font-size="14" font-weight="700" fill="#1d2b44">S</text>
 <text x="325" y="102" text-anchor="middle" font-size="12" fill="#1d2b44">blocked: site occupied</text>
-<path d="M480,130 Q480,120 490,120 L542,120 L550,145 L570,145 L578,120 L630,120 Q640,120 640,130 L640,170 L640,170 L615,180 L640,190 L640,220 Q640,230 630,230 L490,230 Q480,230 480,220 Z" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/><text x="560" y="215" text-anchor="middle" font-size="16" font-weight="700" fill="#1d2b44">E</text>
+<path d="M480,130 Q 480,120 490,120 L542,120 L550,145 L570,145 L578,120 L630,120 Q 640,120 640,130 L640,170 L640,170 L615,180 L640,190 L640,220 Q 640,230 630,230 L490,230 Q 480,230 480,220 Z" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/><text x="560" y="215" text-anchor="middle" font-size="16" font-weight="700" fill="#1d2b44">E</text>
 <polygon points="616,180 640,171 640,189" fill="#1d2b44" stroke="#1d2b44" stroke-width="2"/>
 <text x="652" y="185" font-size="13" font-weight="700" fill="#1d2b44">I</text>
 <text x="620" y="252" text-anchor="middle" font-size="11" fill="#1d2b44">allosteric site</text>

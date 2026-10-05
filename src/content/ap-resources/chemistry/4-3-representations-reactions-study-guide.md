@@ -140,7 +140,7 @@ This is why the three forms of equation from Topic 4.2 all match one particle di
 <svg viewBox="0 0 640 275" role="img" aria-labelledby="ppt-title ppt-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="ppt-title">Particle diagram after mixing calcium chloride and sodium phosphate solutions</title>
 <desc id="ppt-desc">A beaker. Spread through the liquid are nine separate sodium ions labelled Na plus, six separate chloride ions labelled Cl minus with dashed outlines, and one separate phosphate ion labelled PO4 3 minus. At the bottom is a packed row of five ions labelled precipitate: three calcium ions, dark circles labelled Ca 2 plus, alternating with two phosphate ions. A key on the right names each ion and notes that water molecules are not drawn.</desc>
-<path d="M60 20 V250 Q60 262 72 262 H368 Q380 262 380 250 V20" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
+<path d="M60 20 V250 Q 60 262 72 262 H368 Q 380 262 380 250 V20" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
 <circle cx="90" cy="45" r="12" fill="#ffffff" stroke="#1d2b44" stroke-width="1.5"/><text x="90" y="49" text-anchor="middle" font-size="10" font-weight="600" fill="#1d2b44">Na⁺</text>
 <circle cx="190" cy="40" r="12" fill="#ffffff" stroke="#1d2b44" stroke-width="1.5"/><text x="190" y="44" text-anchor="middle" font-size="10" font-weight="600" fill="#1d2b44">Na⁺</text>
 <circle cx="300" cy="48" r="12" fill="#ffffff" stroke="#1d2b44" stroke-width="1.5"/><text x="300" y="52" text-anchor="middle" font-size="10" font-weight="600" fill="#1d2b44">Na⁺</text>

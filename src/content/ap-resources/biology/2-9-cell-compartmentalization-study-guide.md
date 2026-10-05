@@ -63,17 +63,17 @@ A house solves a similar problem with rooms: you cook in the kitchen and sleep i
 <circle cx="140" cy="190" r="64" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2.5"/>
 <text x="140" y="186" text-anchor="middle" font-size="15" font-weight="700" fill="#1d2b44">Nucleus</text>
 <text x="140" y="204" text-anchor="middle" font-size="12" fill="#1d2b44">(double envelope)</text>
-<path d="M228 110 Q258 190 228 270" fill="none" stroke="#1d2b44" stroke-width="2.5"/>
-<path d="M246 104 Q278 190 246 276" fill="none" stroke="#1d2b44" stroke-width="2.5"/>
+<path d="M228 110 Q 258 190 228 270" fill="none" stroke="#1d2b44" stroke-width="2.5"/>
+<path d="M246 104 Q 278 190 246 276" fill="none" stroke="#1d2b44" stroke-width="2.5"/>
 <circle cx="258" cy="121" r="3" fill="#1d2b44"/>
 <circle cx="265" cy="156" r="3" fill="#1d2b44"/>
 <circle cx="268" cy="190" r="3" fill="#1d2b44"/>
 <circle cx="265" cy="224" r="3" fill="#1d2b44"/>
 <circle cx="258" cy="259" r="3" fill="#1d2b44"/>
-<path d="M310 150 Q330 190 310 230" fill="none" stroke="#1d2b44" stroke-width="4"/>
-<path d="M322 145 Q344 190 322 235" fill="none" stroke="#1d2b44" stroke-width="4"/>
-<path d="M334 150 Q356 190 334 230" fill="none" stroke="#1d2b44" stroke-width="4"/>
-<path d="M346 155 Q366 190 346 225" fill="none" stroke="#1d2b44" stroke-width="4"/>
+<path d="M310 150 Q 330 190 310 230" fill="none" stroke="#1d2b44" stroke-width="4"/>
+<path d="M322 145 Q 344 190 322 235" fill="none" stroke="#1d2b44" stroke-width="4"/>
+<path d="M334 150 Q 356 190 334 230" fill="none" stroke="#1d2b44" stroke-width="4"/>
+<path d="M346 155 Q 366 190 346 225" fill="none" stroke="#1d2b44" stroke-width="4"/>
 <circle cx="378" cy="150" r="6" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <circle cx="400" cy="190" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <circle cx="384" cy="232" r="6" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
@@ -134,18 +134,18 @@ Folding solves this. The inner membrane of a mitochondrion folds into **cristae*
 <rect x="0" y="0" width="680" height="270" fill="#ffffff"/>
 <rect x="40" y="50" width="440" height="170" rx="80" fill="#ffffff" stroke="#1d2b44" stroke-width="3"/>
 <rect x="54" y="64" width="412" height="142" rx="68" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2.5"/>
-<path d="M110 64 L110 145 Q116 153 122 145 L122 64" fill="#ffffff" stroke="#1d2b44" stroke-width="2.5"/>
-<path d="M190 64 L190 145 Q196 153 202 145 L202 64" fill="#ffffff" stroke="#1d2b44" stroke-width="2.5"/>
-<path d="M270 64 L270 145 Q276 153 282 145 L282 64" fill="#ffffff" stroke="#1d2b44" stroke-width="2.5"/>
-<path d="M350 64 L350 145 Q356 153 362 145 L362 64" fill="#ffffff" stroke="#1d2b44" stroke-width="2.5"/>
+<path d="M110 64 L110 145 Q 116 153 122 145 L122 64" fill="#ffffff" stroke="#1d2b44" stroke-width="2.5"/>
+<path d="M190 64 L190 145 Q 196 153 202 145 L202 64" fill="#ffffff" stroke="#1d2b44" stroke-width="2.5"/>
+<path d="M270 64 L270 145 Q 276 153 282 145 L282 64" fill="#ffffff" stroke="#1d2b44" stroke-width="2.5"/>
+<path d="M350 64 L350 145 Q 356 153 362 145 L362 64" fill="#ffffff" stroke="#1d2b44" stroke-width="2.5"/>
 <line x1="111.5" y1="64" x2="120.5" y2="64" stroke="#ffffff" stroke-width="4"/>
 <line x1="191.5" y1="64" x2="200.5" y2="64" stroke="#ffffff" stroke-width="4"/>
 <line x1="271.5" y1="64" x2="280.5" y2="64" stroke="#ffffff" stroke-width="4"/>
 <line x1="351.5" y1="64" x2="360.5" y2="64" stroke="#ffffff" stroke-width="4"/>
-<path d="M150 206 L150 125 Q156 117 162 125 L162 206" fill="#ffffff" stroke="#1d2b44" stroke-width="2.5"/>
-<path d="M230 206 L230 125 Q236 117 242 125 L242 206" fill="#ffffff" stroke="#1d2b44" stroke-width="2.5"/>
-<path d="M310 206 L310 125 Q316 117 322 125 L322 206" fill="#ffffff" stroke="#1d2b44" stroke-width="2.5"/>
-<path d="M390 206 L390 125 Q396 117 402 125 L402 206" fill="#ffffff" stroke="#1d2b44" stroke-width="2.5"/>
+<path d="M150 206 L150 125 Q 156 117 162 125 L162 206" fill="#ffffff" stroke="#1d2b44" stroke-width="2.5"/>
+<path d="M230 206 L230 125 Q 236 117 242 125 L242 206" fill="#ffffff" stroke="#1d2b44" stroke-width="2.5"/>
+<path d="M310 206 L310 125 Q 316 117 322 125 L322 206" fill="#ffffff" stroke="#1d2b44" stroke-width="2.5"/>
+<path d="M390 206 L390 125 Q 396 117 402 125 L402 206" fill="#ffffff" stroke="#1d2b44" stroke-width="2.5"/>
 <line x1="151.5" y1="206" x2="160.5" y2="206" stroke="#ffffff" stroke-width="4"/>
 <line x1="231.5" y1="206" x2="240.5" y2="206" stroke="#ffffff" stroke-width="4"/>
 <line x1="311.5" y1="206" x2="320.5" y2="206" stroke="#ffffff" stroke-width="4"/>

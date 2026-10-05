@@ -101,9 +101,9 @@ Nucleic acid strands have two different ends, 5′ and 3′ (Topic 1.6). RNA pol
 <desc id="tx-desc">Two DNA strands run left to right. The top strand, a thin line, is the coding strand, labelled 5 prime at the left and 3 prime at the right. The bottom strand, a thick line, is the template strand, labelled 3 prime at the left and 5 prime at the right. In the middle, a large rounded shape labelled RNA polymerase holds the strands apart in a bubble. Inside the bubble a dashed line, the RNA, lies alongside the template strand with short pairing lines between them. The RNA's growing 3 prime end is at the right of the bubble. The RNA leaves the enzyme at the lower left, ending in a free 5 prime end. An arrow above the enzyme points right, labelled direction of transcription.</desc>
 <rect x="0" y="0" width="680" height="300" fill="#ffffff"/>
 <rect x="210" y="34" width="260" height="170" rx="40" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<path d="M30,100 L200,100 Q240,100 262,62 L418,62 Q440,100 480,100 L650,100" fill="none" stroke="#1d2b44" stroke-width="2"/>
-<path d="M30,122 L200,122 Q240,122 262,160 L418,160 Q440,122 480,122 L650,122" fill="none" stroke="#1d2b44" stroke-width="5"/>
-<path d="M412,147 L300,147 Q262,147 236,222 L120,262" fill="none" stroke="#1d2b44" stroke-width="4" stroke-dasharray="9 5"/>
+<path d="M30,100 L200,100 Q 240,100 262,62 L418,62 Q 440,100 480,100 L650,100" fill="none" stroke="#1d2b44" stroke-width="2"/>
+<path d="M30,122 L200,122 Q 240,122 262,160 L418,160 Q 440,122 480,122 L650,122" fill="none" stroke="#1d2b44" stroke-width="5"/>
+<path d="M412,147 L300,147 Q 262,147 236,222 L120,262" fill="none" stroke="#1d2b44" stroke-width="4" stroke-dasharray="9 5"/>
 <line x1="310" y1="150" x2="310" y2="157" stroke="#1d2b44" stroke-width="1.5"/>
 <line x1="330" y1="150" x2="330" y2="157" stroke="#1d2b44" stroke-width="1.5"/>
 <line x1="350" y1="150" x2="350" y2="157" stroke="#1d2b44" stroke-width="1.5"/>

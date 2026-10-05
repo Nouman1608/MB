@@ -178,7 +178,7 @@ That is why every radioactive isotope has a fixed half-life. For example, carbon
 | 300 | 0.125 | −2.079 | 8.00 |
 | 400 | 0.100 | −2.303 | 10.00 |
 
-- [X] changes by −0.250, −0.083, −0.042, −0.025: not constant, so not zero order.
+- The concentration [X] changes by −0.250, −0.083, −0.042, −0.025: not constant, so not zero order.
 - ln[X] changes by −0.693, −0.404, −0.289, −0.224: not constant, so not first order.
 - 1/[X] changes by +2.00, +1.99, +2.01, +2.00: constant within the rounding of the data (0.167 M is 1/6 M rounded). **The reaction is second order in X.**
 

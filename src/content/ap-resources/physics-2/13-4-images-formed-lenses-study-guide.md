@@ -106,7 +106,7 @@ To find an image, draw any two of these rays from the top of the object, then ch
 <desc id="div-desc">A diverging lens, thinner in the middle, sits on a horizontal principal axis with focal points 15 centimetres on each side. A 6 centimetre object stands 30 centimetres to the left. The parallel ray leaves the lens bending upward, and its dashed backward extension passes through the left focal point. The central ray passes straight through. The ray aimed at the right focal point leaves parallel to the axis; its dashed backward extension is horizontal. The backward extensions meet 10 centimetres left of the lens, 2 centimetres above the axis, forming a virtual, upright, one-third-size image.</desc>
 <defs><marker id="dv-arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#1d2b44"/></marker></defs>
 <line x1="20" y1="170" x2="540" y2="170" stroke="#1d2b44" stroke-width="1.2"/>
-<path d="M288 90 Q300 170 288 250 L312 250 Q300 170 312 90 Z" fill="#eef3fa" stroke="#1d2b44" stroke-width="2"/>
+<path d="M288 90 Q 300 170 288 250 L312 250 Q 300 170 312 90 Z" fill="#eef3fa" stroke="#1d2b44" stroke-width="2"/>
 <g fill="#1d2b44" font-size="12" text-anchor="middle">
 <circle cx="180" cy="170" r="3"/><text x="180" y="190">F</text>
 <circle cx="420" cy="170" r="3"/><text x="420" y="190">F</text>

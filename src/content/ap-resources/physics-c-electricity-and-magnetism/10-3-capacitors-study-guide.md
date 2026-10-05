@@ -97,8 +97,8 @@ You can reach the same result in one step. Take a Gaussian pillbox with one end 
 <line x1="188" y1="150" x2="370" y2="150"/>
 <line x1="188" y1="190" x2="370" y2="190"/>
 </g>
-<path d="M180 42 Q280 8 380 42" fill="none" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="6 4"/>
-<path d="M180 218 Q280 252 380 218" fill="none" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="6 4"/>
+<path d="M180 42 Q 280 8 380 42" fill="none" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="6 4"/>
+<path d="M180 218 Q 280 252 380 218" fill="none" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="6 4"/>
 <g font-size="13" fill="#1d2b44" text-anchor="middle">
 <text x="80" y="135">outside:</text><text x="80" y="153">E ≈ 0</text>
 <text x="480" y="135">outside:</text><text x="480" y="153">E ≈ 0</text>
