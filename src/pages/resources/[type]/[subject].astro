@@ -13,6 +13,10 @@ import Container from '../../../components/layout/Container.astro';
 import ResourceCard from '../../../components/cards/ResourceCard.astro';
 import { getResources, getSubjects, resourceCategoryMeta, type ResourceCategory } from '../../../utils/content/collections';
 import { routes } from '../../../utils/urls/routes';
+import { activeOnly, academicHubPath } from '../../../utils/academic';
+import { combinationIndex, hubSlugFor } from '../../../utils/academic/combination-resources';
+import { syllabusFor } from '../../../data/academic/syllabuses';
+import { QUALIFICATIONS } from '../../../data/academic/qualifications';
 
 export async function getStaticPaths() {
   const resources = await getResources();
@@ -35,6 +39,28 @@ const meta = resourceCategoryMeta[type as ResourceCategory];
 const subjectTitle = subject.data.title;
 const path = routes.resourceBrowse(type, subject.id);
 const title = `${subjectTitle} ${meta.title.toLowerCase()}`;
+
+/**
+ * Navigation round (6 Oct 2026) -- grouped by course. This page used to be
+ * one grid mixing every board and qualification (e.g. Cambridge, Edexcel,
+ * AQA and IB chemistry study guides in alphabetical order). Each course now
+ * has its own heading with its syllabus code; a resource shared by two
+ * courses (e.g. Cambridge 0620 and 5070) is listed under both. Membership is
+ * the same rule as the course pages (resourcesForCombination).
+ */
+const index = combinationIndex(activeOnly(), await getResources());
+const QUAL_ORDER = QUALIFICATIONS.map((q) => q.slug as string);
+const courses = activeOnly()
+  .filter((c) => hubSlugFor(c) === subject.id)
+  .sort((a, b) => QUAL_ORDER.indexOf(a.qualificationSlug) - QUAL_ORDER.indexOf(b.qualificationSlug) || a.board.localeCompare(b.board));
+const courseGroups = courses
+  .map((c) => {
+    const code = syllabusFor(c.boardSlug, c.qualificationSlug, c.subjectSlug)?.code;
+    const label = `${c.boardSlug === 'ib' ? c.qualification : `${c.board} ${c.qualification}`} ${c.subject}`;
+    return { c, code: c.boardSlug === 'ib' ? undefined : code, label, items: entries.filter((e) => (index.byResource.get(e.id) ?? []).some((x) => x.boardSlug === c.boardSlug && x.qualificationSlug === c.qualificationSlug && x.subjectSlug === c.subjectSlug)) };
+  })
+  .filter((g) => g.items.length > 0);
+const general = entries.filter((e) => (index.byResource.get(e.id) ?? []).length === 0);
 ---
 <PageLayout
   title={title}
@@ -42,24 +68,43 @@ const title = `${subjectTitle} ${meta.title.toLowerCase()}`;
   path={path}
   eyebrow="Resources"
   heading={title}
-  lead={`${entries.length} published, listed by title. ${meta.description}`}
+  lead={`${entries.length} published, grouped by course. ${meta.description}`}
   breadcrumbs={[
     { label: 'Home', href: routes.home },
-    { label: 'Resources', href: routes.resources },
+    { label: 'Study resources', href: routes.resources },
     { label: meta.title, href: routes.resourceTypeAnchor(type) },
     { label: subjectTitle, href: path },
   ]}
 >
   <Section surface="white">
     <Container>
-      <h2 class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">All {entries.length}, by title</h2>
-      <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
-        {entries.map((entry) => (
-          <li class="m-0"><ResourceCard entry={entry} subjectTitle={subjectTitle} /></li>
-        ))}
-      </ul>
+      {courseGroups.map((g) => (
+        <section aria-labelledby={`course-${g.c.boardSlug}-${g.c.qualificationSlug}`} class="mb-[clamp(40px,5vw,64px)]">
+          <div class="mb-5 flex flex-wrap items-baseline justify-between gap-x-6 gap-y-2 border-b-2 border-navy-800 pb-2.5">
+            <h2 id={`course-${g.c.boardSlug}-${g.c.qualificationSlug}`} class="m-0 text-[22px] font-semibold tracking-[-0.01em] text-navy-800">
+              {g.label}{g.code && <span class="ms-2 font-mono text-[14px] font-normal text-ink-mute">{g.code}</span>}
+            </h2>
+            <a href={`${academicHubPath(g.c)}#topics`} class="text-[14.5px] font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">All topics for this course</a>
+          </div>
+          <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
+            {g.items.map((entry) => (
+              <li class="m-0"><ResourceCard entry={entry} subjectTitle={subjectTitle} /></li>
+            ))}
+          </ul>
+        </section>
+      ))}
+      {general.length > 0 && (
+        <section aria-labelledby="course-general" class="mb-[clamp(40px,5vw,64px)]">
+          <h2 id="course-general" class="m-0 mb-5 border-b-2 border-navy-800 pb-2.5 text-[22px] font-semibold tracking-[-0.01em] text-navy-800">Not tied to one course</h2>
+          <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
+            {general.map((entry) => (
+              <li class="m-0"><ResourceCard entry={entry} subjectTitle={subjectTitle} /></li>
+            ))}
+          </ul>
+        </section>
+      )}
       <p class="m-0 mt-10 text-[15px] text-ink-mute">
-        <a href={routes.resourceTypeAnchor(type)} class="underline decoration-gold-500 underline-offset-2">All {meta.title.toLowerCase()} by subject</a>
+        <a href={routes.resourceTypeAnchor(type)} class="underline decoration-gold-500 underline-offset-2">All subjects and resource types</a>
         {' · '}
         <a href={routes.subject(subject.id)} class="underline decoration-gold-500 underline-offset-2">{subjectTitle} subject page</a>
       </p>

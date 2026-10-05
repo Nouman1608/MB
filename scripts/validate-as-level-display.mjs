@@ -44,7 +44,8 @@ if (!fnMatch) {
 // --- 2. Every call site must pass all 3 arguments --------------------------
 const callSiteGlobs = [
   'src/components/cards/ResourceCard.astro',
-  'src/components/sections/ResourcesSection.astro',
+  // Navigation round (6 Oct 2026): ResourcesSection.astro (homepage
+  // "Recently published") was removed with the type-first homepage band.
   'src/pages/resources/[slug].astro',
 ];
 for (const path of callSiteGlobs) {

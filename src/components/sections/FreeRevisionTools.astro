@@ -2,27 +2,32 @@
 /**
  * D-286 -- "Start revising for free", directly under the homepage hero.
  *
- * Three actions, each pointing at a tool that works today:
- *   Test my knowledge        -> /diagnostics/ (D-325; was /practice/)
- *   Make my revision plan    -> /revision-planner/
- *   Find notes for my syllabus -> the finder below (qualification -> board
- *                                -> subject), falling back to /boards/.
+ * Navigation round (6 Oct 2026): led by "Find study resources" -- the same
+ * CourseFinder as /resources/ (qualification -> exam board -> subject), so
+ * the homepage and the library start the same journey. The old third card
+ * ("Find notes for my syllabus") only scrolled to the finder and is gone;
+ * the two tools that are not resource lists stay beside it. The subject
+ * list that used to sit lower on the homepage (SubjectsSection) and the
+ * type-first resources band (ResourcesSection) are replaced by one line of
+ * subject links here, for students who know their subject but not yet their
+ * exam board.
  *
- * The diagnostic subjects named in the first card are read from
- * src/data/diagnostics.ts, so the sentence cannot claim a subject that has
- * no diagnostic. The tuition trial stays one click away for families who
- * are ready to enquire; the hero above already leads with it.
+ * The diagnostic count is read from src/data/diagnostics.ts, so the sentence
+ * cannot claim a subject that has no diagnostic. The tuition trial stays one
+ * click away; the hero above already leads with it.
  */
 import Section from '../layout/Section.astro';
 import Container from '../layout/Container.astro';
-import SyllabusFinder from '../tools/SyllabusFinder.astro';
+import CourseFinder from '../tools/CourseFinder.astro';
 import { DIAGNOSTIC_SETS } from '../../data/diagnostics';
+import { getSubjects } from '../../utils/content/collections';
+import { resourcesForSubject } from '../../utils/content/related';
 import { routes } from '../../utils/urls/routes';
 
-// D-325: with 31 sets the subject list no longer fits a sentence; the card
-// states the real counts and links to the /diagnostics/ hub instead.
 const diagCount = DIAGNOSTIC_SETS.length;
 const diagSyllabuses = new Set(DIAGNOSTIC_SETS.map((d) => d.code)).size;
+const subjects = await getSubjects();
+const withResources = (await Promise.all(subjects.map(async (s) => ((await resourcesForSubject(s.id)).length > 0 ? s : null)))).filter((s): s is NonNullable<typeof s> => !!s);
 
 const actions = [
   {
@@ -37,37 +42,35 @@ const actions = [
     body: 'Enter your subjects, exam dates and free time. Get a weekly plan that puts weak topics first.',
     kind: 'plan',
   },
-  {
-    href: '#syllabus-finder',
-    title: 'Find notes for my syllabus',
-    body: 'Pick your qualification, board and subject to see its syllabus code, notes and checklist.',
-    kind: 'notes',
-  },
 ];
 ---
 <Section surface="white" spacing="md" labelledby="free-tools-heading">
   <Container>
-    <div class="mb-8 flex flex-wrap items-end justify-between gap-4">
-      <div class="max-w-[60ch]">
-        <p class="m-0 mb-3 text-xs font-medium uppercase tracking-[0.2em] text-gold-600">Free, no sign-up</p>
-        <h2 id="free-tools-heading" class="m-0 font-display text-[clamp(1.75rem,1.35rem+1.5vw,2.5rem)] font-normal leading-[1.12] tracking-[-0.02em] text-navy-800">Start revising for free</h2>
-      </div>
-      <p class="m-0 text-[15px] text-ink-mute">
-        Ready for a teacher? <a href={`${routes.trial}?source=home`} data-cta="free-tools-trial" class="font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">Request a free trial class</a>
-      </p>
+    <div class="mb-8 max-w-[60ch]">
+      <p class="m-0 mb-3 text-xs font-medium uppercase tracking-[0.2em] text-gold-600">Free, no sign-up</p>
+      <h2 id="free-tools-heading" class="m-0 font-display text-[clamp(1.75rem,1.35rem+1.5vw,2.5rem)] font-normal leading-[1.12] tracking-[-0.02em] text-navy-800">Find study resources</h2>
     </div>
-    <ul class="m-0 grid list-none gap-4 p-0 md:grid-cols-3">
-      {actions.map((a) => (
-        <li class="m-0">
-          <a href={a.href} data-free-tool={a.kind} class="flex h-full flex-col gap-2 rounded-sm border border-rule bg-ivory p-[clamp(20px,2.2vw,28px)] transition-colors duration-150 hover:border-gold-500">
-            <span class="text-[19px] font-semibold tracking-[-0.01em] text-navy-800">{a.title} <span aria-hidden="true" class="text-gold-600">→</span></span>
-            <span class="text-[15px] leading-[1.6] text-ink-mute">{a.body}</span>
-          </a>
-        </li>
-      ))}
-    </ul>
-    <div class="mt-6">
-      <SyllabusFinder source="home" heading="Choose your course" />
+    <div class="grid items-start gap-6 lg:grid-cols-[1.7fr_1fr]">
+      <CourseFinder id="home-course-finder" source="home" mode="compact" heading="Choose your course" level={3} />
+      <ul class="m-0 grid list-none gap-4 p-0">
+        {actions.map((a) => (
+          <li class="m-0">
+            <a href={a.href} data-free-tool={a.kind} class="flex h-full flex-col gap-2 rounded-sm border border-rule bg-ivory p-[clamp(20px,2.2vw,28px)] transition-colors duration-150 hover:border-gold-500">
+              <span class="text-[19px] font-semibold tracking-[-0.01em] text-navy-800">{a.title} <span aria-hidden="true" class="text-gold-600">→</span></span>
+              <span class="text-[15px] leading-[1.6] text-ink-mute">{a.body}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
     </div>
+    <nav aria-labelledby="home-subjects-label" class="mt-8 border-t border-rule pt-6">
+      <p id="home-subjects-label" class="m-0 mb-3 text-[15px] text-ink">Know your subject but not your exam board? Start with the subject:</p>
+      <ul class="m-0 flex list-none flex-wrap gap-x-4 gap-y-2 p-0 text-[15px]">
+        {withResources.map((s) => (
+          <li class="m-0"><a href={routes.subject(s.id)} class="inline-flex min-h-11 items-center text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600 sm:min-h-0">{s.data.title}</a></li>
+        ))}
+      </ul>
+      <p class="m-0 mt-4 text-[15px]"><a href={routes.resources} class="font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">All study resources</a></p>
+    </nav>
   </Container>
 </Section>

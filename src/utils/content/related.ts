@@ -1,4 +1,5 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
+import { sameCourse } from '../academic/combination-resources';
 
 /**
  * QIGT programme -- every place in this file that lists, links to, or
@@ -32,10 +33,22 @@ const isPublishedArticle = (a: CollectionEntry<'articles'>) => !a.data.draft && 
  * behaviour -- sharesBoard() is vacuously true for everyone.
  */
 export async function relatedResources(
-  opts: { subject?: string; level?: string; topic?: string; boards?: readonly string[]; picked?: readonly { id: string }[]; excludeId?: string; limit?: number },
+  opts: {
+    subject?: string; level?: string; topic?: string; boards?: readonly string[]; picked?: readonly { id: string }[]; excludeId?: string; limit?: number;
+    /**
+     * Navigation round (6 Oct 2026) -- when set (a resource page passes
+     * itself), derived picks are limited to resources of the same course
+     * (sameCourse(): subject, board, qualification and declared syllabus
+     * codes overlap), so "Related resources" never sends a student to
+     * another board's or qualification's material. Hand-picked relations
+     * are still honoured.
+     */
+    sameCourseAs?: CollectionEntry<'resources'>;
+  },
 ): Promise<CollectionEntry<'resources'>[]> {
-  const { subject, level, topic, boards, picked = [], excludeId, limit = 3 } = opts;
+  const { subject, level, topic, boards, picked = [], excludeId, limit = 3, sameCourseAs } = opts;
   const published = (await getCollection('resources')).filter(isPublishedResource);
+  const eligible = sameCourseAs ? published.filter((r) => sameCourse(sameCourseAs, r)) : published;
   const byId = new Map(published.map((r) => [r.id, r]));
   /**
    * D-322 -- spread related links evenly. Each tier used to be walked in
@@ -49,7 +62,7 @@ export async function relatedResources(
    * link to each other in a ring and every resource is linked by its
    * nearest siblings. Callers without excludeId keep the old order.
    */
-  const sortedIds = excludeId ? [...published].sort((a, b) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0)) : published;
+  const sortedIds = excludeId ? [...eligible].sort((a, b) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0)) : eligible;
   const start = excludeId ? sortedIds.findIndex((r) => r.id === excludeId) : -1;
   const all = start >= 0 ? [...sortedIds.slice(start + 1), ...sortedIds.slice(0, start + 1)] : sortedIds;
 
@@ -105,11 +118,16 @@ export async function resourcesForSubject(subjectId: string, resourceType?: stri
     .sort((a, b) => (a.data.order ?? 999) - (b.data.order ?? 999));
 }
 
-/** Previous / next within the same topic, by `order`. */
+/**
+ * Previous / next within the same topic, by `order`.
+ * Navigation round (6 Oct 2026): and within the same course. Topic names are
+ * shared across boards ("Organic chemistry", "Waves", "Number"), so matching
+ * on the name alone chained AQA, Edexcel and Cambridge pages together.
+ */
 export async function topicSiblings(entry: CollectionEntry<'resources'>) {
   if (!entry.data.topic) return { prev: null, next: null };
   const siblings = (await getCollection('resources'))
-    .filter((r) => isPublishedResource(r) && r.data.topic === entry.data.topic)
+    .filter((r) => isPublishedResource(r) && r.data.topic === entry.data.topic && sameCourse(entry, r))
     .sort((a, b) => (a.data.order ?? 999) - (b.data.order ?? 999));
   const i = siblings.findIndex((r) => r.id === entry.id);
   return {

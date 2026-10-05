@@ -36,8 +36,34 @@ export function resourcesForCombination(
     (r) =>
       r.data.subject.id === hubSlug &&
       r.data.level.includes(levelKey as never) &&
-      (r.data.boards.length === 0 || r.data.boards.includes(c.boardSlug as never)),
+      (r.data.boards.length === 0 || r.data.boards.includes(c.boardSlug as never)) &&
+      // Navigation round (6 Oct 2026): a resource that names its
+      // qualification(s) belongs only to those. The level key alone cannot
+      // tell AS Level from A Level (both are 'a-levels'), so AQA AS Business
+      // (7131/7137) pages were listed on the A-level Business (7132) hub and
+      // the reverse. Resources with no qualifications tagged are unaffected.
+      (r.data.qualifications.length === 0 || r.data.qualifications.includes(c.qualificationSlug as never)),
   );
+}
+
+/**
+ * Navigation round (6 Oct 2026) -- do two resources belong to the same
+ * course? Used for the "Previous / Next" topic sequence and the "Related
+ * resources" list on a resource page, which used to match on the topic NAME
+ * alone, so e.g. "Organic chemistry" linked AQA GCSE, Edexcel IGCSE and
+ * Cambridge pages together. Same subject; boards overlap (or either is
+ * board-agnostic); qualifications overlap (or either is untagged).
+ */
+export function sameCourse(a: CollectionEntry<'resources'>, b: CollectionEntry<'resources'>): boolean {
+  if (a.data.subject.id !== b.data.subject.id) return false;
+  const overlap = (x: readonly string[], y: readonly string[]) => x.length === 0 || y.length === 0 || x.some((v) => y.includes(v));
+  return overlap(a.data.boards, b.data.boards)
+    && overlap(a.data.qualifications, b.data.qualifications)
+    && a.data.level.some((l) => b.data.level.includes(l))
+    // Two syllabuses can share board, qualification and subject (Cambridge
+    // O Level Urdu First Language 3247 / Second Language 3248), so declared
+    // codes must overlap too.
+    && overlap(a.data.syllabusCodes, b.data.syllabusCodes);
 }
 
 /** How a revision tool uses a resource type: learn it, practise it, or revise it. */

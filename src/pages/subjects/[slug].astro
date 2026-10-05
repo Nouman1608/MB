@@ -5,7 +5,6 @@ import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import CTA from '../../components/ui/CTA.astro';
 import Card from '../../components/cards/Card.astro';
-import ResourceCard from '../../components/cards/ResourceCard.astro';
 import ArticleCard from '../../components/cards/ArticleCard.astro';
 import RelatedGrid from '../../components/layout/RelatedGrid.astro';
 import FAQ from '../../components/ui/FAQ.astro';
@@ -13,10 +12,14 @@ import Badge from '../../components/ui/Badge.astro';
 import { getSubjects, availabilityLabel, availabilityTone } from '../../utils/content/collections';
 import { resourcesForSubject, relatedArticles } from '../../utils/content/related';
 import { faqNode } from '../../utils/schema/faq';
-import { offeringsForSubject, academicHubPath, offersClasses } from '../../utils/academic';
+import { activeOnly, academicHubPath, offersClasses } from '../../utils/academic';
 import { syllabusFor } from '../../data/academic/syllabuses';
 import { routes } from '../../utils/urls/routes';
 import ApCourseLinks from '../../components/ap/ApCourseLinks.astro';
+import { getResources } from '../../utils/content/collections';
+import { resourcesForCombination, hubSlugFor, STUDY_KIND } from '../../utils/academic/combination-resources';
+import { KIND_ORDER, KIND_LABEL } from '../../utils/academic/course-topics';
+import { QUALIFICATIONS } from '../../data/academic/qualifications';
 
 export async function getStaticPaths() {
   const subjects = await getSubjects();
@@ -31,12 +34,41 @@ const path = routes.subject(subject.id);
 
 const programs = (await Promise.all(d.relatedPrograms.map((ref) => getEntry(ref)))).filter(Boolean);
 const all = await resourcesForSubject(subject.id);
-const study = all.filter((r) => ['study-guides', 'revision-notes', 'subject-guides'].includes(r.data.resourceType));
-const practice = all.filter((r) => ['practice-questions', 'past-papers', 'exam-preparation'].includes(r.data.resourceType));
+/**
+ * Navigation round (6 Oct 2026) -- this page used to list every resource in
+ * the subject in two card grids ("Study resources", "Practice resources")
+ * mixing every board and qualification: /subjects/chemistry/ showed 222
+ * study cards from Cambridge, Edexcel, AQA, OxfordAQA, OCR and IB in one
+ * run. Students now choose their course first (the cards at the top); every
+ * resource is still linked below, but grouped by course, each group folded
+ * away until opened, using the same membership rule as the course pages.
+ */
+const allResources = await getResources();
+const QUAL_ORDER = QUALIFICATIONS.map((q) => q.slug as string);
+// Review fix: courses are matched to this page by the subject registry's
+// hubId (as resources are), not the matrix subject slug, so e.g. English
+// Language courses (subjectSlug english-language, hubId english) appear on
+// /subjects/english/.
+const courseGroups = activeOnly().filter((c) => hubSlugFor(c) === subject.id)
+  .slice()
+  .sort((a, b) => QUAL_ORDER.indexOf(a.qualificationSlug) - QUAL_ORDER.indexOf(b.qualificationSlug) || a.board.localeCompare(b.board))
+  .map((o) => {
+    const rs = resourcesForCombination(o, allResources).sort((a, b) => a.data.title.localeCompare(b.data.title));
+    const code = o.boardSlug === 'ib' ? undefined : syllabusFor(o.boardSlug, o.qualificationSlug, o.subjectSlug)?.code;
+    return {
+      o,
+      code,
+      label: `${o.boardSlug === 'ib' ? o.qualification : `${o.board} ${o.qualification}`} ${o.subject}`,
+      count: rs.length,
+      byKind: Object.fromEntries(KIND_ORDER.map((k) => [k, rs.filter((r) => STUDY_KIND[r.data.resourceType] === k)])) as Record<(typeof KIND_ORDER)[number], typeof rs>,
+    };
+  });
+const inSomeCourse = new Set(courseGroups.flatMap((g) => KIND_ORDER.flatMap((k) => g.byKind[k].map((r) => r.id))));
+const notTied = all.filter((r) => !inSomeCourse.has(r.id)).sort((a, b) => a.data.title.localeCompare(b.data.title));
 const articles = await relatedArticles({ subject: subject.id, limit: 3 });
 const faq = faqNode(d.faqs);
 /** Approved board x qualification hubs for this subject. Empty unless approved. */
-const offerings = offeringsForSubject(subject.id);
+const offerings = courseGroups.map((g) => g.o);
 /** D-296 -- say "taught" only for combinations with classes (D-270/D-272). */
 const taughtCount = offerings.filter(offersClasses).length;
 const teachingSentence =
@@ -55,6 +87,7 @@ const teachingSentence =
   lead={d.description}
   breadcrumbs={[
     { label: 'Home', href: routes.home },
+    { label: 'Study resources', href: routes.resources },
     { label: 'Subjects', href: routes.subjects },
     { label: d.title, href: path },
   ]}
@@ -68,28 +101,27 @@ const teachingSentence =
 
   <Section surface="white">
     <Container>
-      <div class="grid items-start gap-8 lg:grid-cols-[minmax(280px,0.8fr)_1.6fr] lg:gap-[clamp(32px,5vw,88px)]">
-        <h2 class="m-0 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Subject overview</h2>
-        <div class="max-w-[68ch] text-[17.5px] leading-[1.7] [&>p]:mt-5"><Content /></div>
-      </div>
 
       {offerings.length > 0 && (
-        <section aria-labelledby="subject-qualifications" class="mt-[clamp(48px,6vw,80px)]">
+        <section aria-labelledby="subject-qualifications">
           <h2 id="subject-qualifications" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">
-            Choose your board and qualification
+            Choose your course
           </h2>
           <p class="m-0 mb-6 max-w-[68ch] text-[16.5px] leading-[1.65] text-ink-mute">
             <strong class="text-navy-800">{teachingSentence.strong}</strong>{teachingSentence.rest}
           </p>
           <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
-            {offerings.map((o) => {
+            {courseGroups.map(({ o }) => {
               const syl = syllabusFor(o.boardSlug, o.qualificationSlug, o.subjectSlug);
               return (
                 <li class="m-0">
                   <a href={academicHubPath(o)} class="flex h-full flex-col gap-2 rounded-sm border border-rule bg-white p-[clamp(22px,2.2vw,30px)] transition-colors duration-150 hover:border-gold-500">
                     <span class="font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600">{o.board}</span>
                     <span class="text-[18px] font-semibold tracking-[-0.01em] text-navy-800">{o.qualification} {o.subject}</span>
-                    {syl && <span class="mt-auto pt-2 font-mono text-[12px] text-ink-mute">Syllabus {syl.code}</span>}
+                    <span class="mt-auto flex flex-wrap justify-between gap-x-4 pt-2 font-mono text-[12px] text-ink-mute">
+                      {syl && <span>Syllabus {syl.code}</span>}
+                      <span>{courseGroups.find((g) => g.o === o)?.count ?? 0} resources</span>
+                    </span>
                   </a>
                 </li>
               );
@@ -101,8 +133,58 @@ const teachingSentence =
       {/* Advanced-course (AP) library links -- render nothing until the library is built (src/data/ap/config.ts). */}
       <ApCourseLinks subjectId={subject.id} />
 
+      {(courseGroups.some((g) => g.count > 0) || notTied.length > 0) && (
+        <section aria-labelledby="subject-by-course" class="mt-[clamp(48px,6vw,80px)]">
+          <h2 id="subject-by-course" class="m-0 mb-2 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Every {d.title} resource, by course</h2>
+          <p class="m-0 mb-5 max-w-[68ch] text-[16px] leading-[1.6] text-ink-mute">Open your course to see its resources here, or go to the course page to see them under each syllabus topic.</p>
+          <div class="border-t border-rule">
+            {courseGroups.filter((g) => g.count > 0).map((g) => (
+              <details class="group border-b border-rule">
+                <summary class="flex min-h-11 cursor-pointer list-none flex-wrap items-baseline justify-between gap-x-6 gap-y-1 py-3.5 marker:hidden">
+                  <span class="text-[17px] font-semibold text-navy-800"><span aria-hidden="true" class="me-2 inline-block text-gold-600 transition-transform group-open:rotate-90">›</span>{g.label}{g.code && <span class="ms-2 font-mono text-[13px] font-normal text-ink-mute">{g.code}</span>}</span>
+                  <span class="font-mono text-[12px] text-ink-mute">{g.count} {g.count === 1 ? 'resource' : 'resources'}</span>
+                </summary>
+                <div class="pb-6">
+                  <p class="m-0 mb-3 text-[15px]"><a href={`${academicHubPath(g.o)}#topics`} class="font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">Open the course page, by topic</a></p>
+                  <div class="grid gap-x-8 gap-y-4 md:grid-cols-3">
+                    {KIND_ORDER.map((k) => (
+                      <div>
+                        <h3 class="m-0 font-mono text-[11px] font-normal uppercase tracking-[0.1em] text-gold-600">{KIND_LABEL[k]}</h3>
+                        {g.byKind[k].length > 0 ? (
+                          <ul class="m-0 mt-1 list-none p-0">
+                            {g.byKind[k].map((r) => <li class="m-0 py-1"><a href={routes.resource(r.id)} class="text-[15px] leading-snug text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{r.data.title}</a></li>)}
+                          </ul>
+                        ) : <p class="m-0 mt-1 py-1 text-[14px] text-ink-mute">None yet</p>}
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              </details>
+            ))}
+            {notTied.length > 0 && (
+              <details class="group border-b border-rule">
+                <summary class="flex min-h-11 cursor-pointer list-none flex-wrap items-baseline justify-between gap-x-6 gap-y-1 py-3.5 marker:hidden">
+                  <span class="text-[17px] font-semibold text-navy-800"><span aria-hidden="true" class="me-2 inline-block text-gold-600 transition-transform group-open:rotate-90">›</span>Not tied to one course</span>
+                  <span class="font-mono text-[12px] text-ink-mute">{notTied.length} {notTied.length === 1 ? 'resource' : 'resources'}</span>
+                </summary>
+                <ul class="m-0 list-none pb-6 ps-0">
+                  {notTied.map((r) => <li class="m-0 py-1"><a href={routes.resource(r.id)} class="text-[15px] text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{r.data.title}</a></li>)}
+                </ul>
+              </details>
+            )}
+          </div>
+        </section>
+      )}
+
+      <div class="mt-[clamp(48px,6vw,80px)]">
+      <div class="grid items-start gap-8 lg:grid-cols-[minmax(280px,0.8fr)_1.6fr] lg:gap-[clamp(32px,5vw,88px)]">
+          <h2 class="m-0 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Subject overview</h2>
+          <div class="max-w-[68ch] text-[17.5px] leading-[1.7] [&>p]:mt-5"><Content /></div>
+        </div>
+      </div>
+
       {programs.length > 0 && (
-        <RelatedGrid id="subject-programs" title="Programs offering this subject" columns={4}>
+        <RelatedGrid id="subject-programs" title={`Tuition programmes that include ${d.title}`} columns={4}>
           {programs.map((program) => (
             <li class="m-0"><Card href={routes.program(program!.id)} title={program!.data.title} description={program!.data.shortDescription} /></li>
           ))}
@@ -120,17 +202,6 @@ const teachingSentence =
         </section>
       )}
 
-      {study.length > 0 && (
-        <RelatedGrid id="subject-study" title="Study resources">
-          {study.map((resource) => <li class="m-0"><ResourceCard entry={resource} subjectTitle={d.title} /></li>)}
-        </RelatedGrid>
-      )}
-
-      {practice.length > 0 && (
-        <RelatedGrid id="subject-practice" title="Practice resources">
-          {practice.map((resource) => <li class="m-0"><ResourceCard entry={resource} subjectTitle={d.title} /></li>)}
-        </RelatedGrid>
-      )}
 
       {articles.length > 0 && (
         <RelatedGrid id="subject-articles" title="Related articles">

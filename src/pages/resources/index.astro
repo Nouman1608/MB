@@ -1,139 +1,133 @@
 ---
-import { getEntry } from 'astro:content';
+/**
+ * Navigation round (6 Oct 2026) -- /resources/ is now "Find study
+ * resources": the one starting point for a student looking for material.
+ *
+ * Before: the page led with resource TYPES ("Browse by type"), then repeated
+ * the subject list once per type (six lists of up to 34 subjects), and every
+ * subject link led to a page mixing every board and qualification. A
+ * first-time student had to know which type they wanted before saying which
+ * course they take.
+ *
+ * Now: qualification -> exam board -> subject (CourseFinder), which lands on
+ * the course page with its topics and resources at the top. The type x
+ * subject pages (/resources/<type>/<subject>/) are unchanged URLs and stay
+ * linked from one compact table at the foot, so nothing becomes unreachable;
+ * the "#study-guides"-style anchors used by footers and old links still
+ * resolve to that table's column headings.
+ */
 import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
-import ResourceCard from '../../components/cards/ResourceCard.astro';
-import { getResources, getSubjects, resourceCategoryMeta } from '../../utils/content/collections';
+import CourseFinder from '../../components/tools/CourseFinder.astro';
+import { getResources, getSubjects, resourceCategoryMeta, type ResourceCategory } from '../../utils/content/collections';
 import { routes } from '../../utils/urls/routes';
 import { apLibraryBuilt, apUrls } from '../../utils/ap/library';
 import { AP_TRADEMARK_ATTRIBUTION } from '../../data/ap/config';
 
-const types = Object.entries(resourceCategoryMeta);
 const resources = await getResources();
 const subjects = await getSubjects();
-const byType = Object.fromEntries(
-  types.map(([slug]) => [slug, resources.filter((r) => r.data.resourceType === slug)]),
-);
-const recent = resources.slice(0, 6);
-const subjectTitles = Object.fromEntries(
-  await Promise.all(resources.map(async (r) => [r.id, (await getEntry(r.data.subject))?.data.title ?? ''])),
-);
-
-/**
- * v1.x CLOSURE follow-up -- a single type section used to be one flat grid
- * sorted only by publish date (up to 257 study guides in undifferentiated
- * date order, with the built page reaching ~600KB). Grouping by subject --
- * in the site's canonical subject order, the same order used on
- * /subjects/, so the two pages read consistently -- turns each section
- * into a real, browsable reference index instead of a feed. Within a
- * subject group, resources sort alphabetically by title rather than by
- * date: this is a reference library, not a "recently published" list
- * (that distinct use case is already served by the "Recently published"
- * section above, which is untouched by this change).
- */
-type ResourceEntry = (typeof resources)[number];
-const bySubjectByType = Object.fromEntries(
-  types.map(([slug]) => {
-    const bySubject = new Map<string, ResourceEntry[]>();
-    for (const entry of byType[slug]) {
-      const key = entry.data.subject.id;
-      const list = bySubject.get(key) ?? [];
-      list.push(entry);
-      bySubject.set(key, list);
-    }
-    for (const list of bySubject.values()) {
-      list.sort((a, b) => a.data.title.localeCompare(b.data.title));
-    }
-    const ordered = subjects
-      .filter((s) => bySubject.has(s.id))
-      .map((s) => ({ subject: s, entries: bySubject.get(s.id)! }));
-    return [slug, ordered];
-  }),
-);
-
+const types = (Object.keys(resourceCategoryMeta) as ResourceCategory[]);
+const count = (type: ResourceCategory, subjectId: string) =>
+  resources.filter((r) => r.data.resourceType === type && r.data.subject.id === subjectId).length;
+const typeTotals = Object.fromEntries(types.map((t) => [t, resources.filter((r) => r.data.resourceType === t).length])) as Record<ResourceCategory, number>;
+const shownTypes = types.filter((t) => typeTotals[t] > 0);
+const emptyTypes = types.filter((t) => typeTotals[t] === 0);
+const rows = subjects
+  .map((s) => ({ subject: s, counts: Object.fromEntries(shownTypes.map((t) => [t, count(t, s.id)])) as Record<ResourceCategory, number> }))
+  .filter((row) => shownTypes.some((t) => row.counts[t] > 0));
 ---
 <PageLayout
   translationKey="resources"
   title="Learning resources"
   description="Study guides and revision notes written by the Marlbridge Academic Team. Free to read, organised by subject, level and topic, with new resource types published as they are written."
   path={routes.resources}
-  eyebrow="Resources"
-  heading="Learning resources, openly available"
-  lead="Study material written by the Marlbridge Academic Team, organised by subject, level and topic. Free to read, and added topic by topic rather than published as empty pages."
-  breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Resources', href: routes.resources }]}
+  eyebrow="Study resources"
+  heading="Find study resources"
+  lead={`Free study guides, revision notes and practice questions for IGCSE, O Level, AS and A Level, GCSE and IB courses, organised by course and by syllabus topic. ${resources.length.toLocaleString('en-GB')} published so far, free to read with no sign-up.`}
+  breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Study resources', href: routes.resources }]}
 >
-  <Section surface="white">
+  <Section surface="white" spacing="md">
     <Container>
-      <h2 class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Browse by type</h2>
-      <ul class="m-0 mb-4 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-4">
-        {types.map(([slug, meta]) => (
-          <li class="m-0">
-            <a href={`#${slug}`} class="flex h-full flex-col gap-2 rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)] transition-colors duration-150 hover:border-gold-500">
-              <span class="text-[17px] font-semibold tracking-[-0.01em] text-navy-800">{meta.title}</span>
-              <span class="text-[14.5px] leading-relaxed text-ink-mute">{meta.description}</span>
-              <span class="mt-auto pt-2 font-mono text-[11px] uppercase tracking-[0.1em] text-ink-mute">{byType[slug].length} published</span>
-            </a>
-          </li>
-        ))}
-      </ul>
+      <CourseFinder source="resources" mode="full" heading="Choose your course" />
+    </Container>
+  </Section>
 
-      {recent.length > 0 && (
-        <section aria-labelledby="recent-resources" class="mt-[clamp(48px,6vw,80px)]">
-          <h2 id="recent-resources" class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Recently published</h2>
-          <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
-            {recent.map((resource) => (
-              <li class="m-0"><ResourceCard entry={resource} subjectTitle={subjectTitles[resource.id]} /></li>
+  <Section surface="ivory" spacing="md" border labelledby="other-ways">
+    <Container>
+      <h2 id="other-ways" class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Other ways to find material</h2>
+      <div class="grid gap-[clamp(28px,4vw,56px)] lg:grid-cols-2">
+        <div>
+          <form action="/search/" method="get" role="search" class="max-w-[520px]">
+            <label for="library-search" class="mb-1.5 block text-[15px] font-semibold text-navy-800">Search the whole library</label>
+            <p id="library-search-hint" class="m-0 mb-2.5 text-[14px] text-ink-mute">Searches every course. To search one course only, choose it above and use the search box on its page.</p>
+            <div class="flex gap-2">
+              <input id="library-search" name="q" type="search" autocomplete="off" aria-describedby="library-search-hint" placeholder="e.g. electrolysis, 9709, supply and demand" class="min-h-11 w-full rounded-sm border border-rule bg-white px-3 text-[15.5px] text-ink placeholder:text-ink-mute" />
+              <button type="submit" class="min-h-11 shrink-0 rounded-sm bg-navy-800 px-5 text-[14.5px] font-semibold text-white hover:bg-navy-700">Search</button>
+            </div>
+          </form>
+        </div>
+        <ul class="m-0 grid list-none gap-3 p-0 sm:grid-cols-2">
+          <li class="m-0"><a href="/diagnostics/" class="flex h-full flex-col gap-1 rounded-sm border border-rule bg-white px-4 py-3 hover:border-gold-500"><span class="text-[15.5px] font-semibold text-navy-800">10-minute diagnostics</span><span class="text-[13.5px] text-ink-mute">Find your weakest topics first</span></a></li>
+          <li class="m-0"><a href="/practice/" class="flex h-full flex-col gap-1 rounded-sm border border-rule bg-white px-4 py-3 hover:border-gold-500"><span class="text-[15.5px] font-semibold text-navy-800">Self-check practice</span><span class="text-[13.5px] text-ink-mute">Questions with worked answers</span></a></li>
+          <li class="m-0"><a href="/revision-planner/" class="flex h-full flex-col gap-1 rounded-sm border border-rule bg-white px-4 py-3 hover:border-gold-500"><span class="text-[15.5px] font-semibold text-navy-800">Revision planner</span><span class="text-[13.5px] text-ink-mute">A weekly plan that fits your time</span></a></li>
+          <li class="m-0"><a href={routes.checklists} class="flex h-full flex-col gap-1 rounded-sm border border-rule bg-white px-4 py-3 hover:border-gold-500"><span class="text-[15.5px] font-semibold text-navy-800">Printable checklists</span><span class="text-[13.5px] text-ink-mute">Every syllabus topic, ready to tick off</span></a></li>
+        </ul>
+      </div>
+    </Container>
+  </Section>
+
+  <Section surface="white" spacing="md" border labelledby="by-type">
+    <Container>
+      <h2 id="by-type" class="m-0 mb-2 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Browse by subject and resource type</h2>
+      <p class="m-0 mb-6 max-w-[68ch] text-[15.5px] leading-[1.6] text-ink-mute">
+        Each number links to every resource of that type in that subject, grouped by course. If you know your course, choosing it above is quicker.
+      </p>
+      <div class="overflow-x-auto rounded-sm border border-rule" tabindex="0" role="region" aria-labelledby="by-type">
+        <table class="w-full min-w-[640px] border-collapse text-[14.5px]">
+          <caption class="sr-only">Published resources by subject and type</caption>
+          <thead class="bg-ivory">
+            <tr>
+              <th scope="col" class="border-b border-rule px-3 py-2.5 text-start font-semibold text-navy-800">Subject</th>
+              {shownTypes.map((t) => (
+                <th scope="col" id={t} class="scroll-mt-24 border-b border-rule px-3 py-2.5 text-end font-semibold text-navy-800">
+                  {resourceCategoryMeta[t].title}
+                  <span class="block font-mono text-[10.5px] font-normal text-ink-mute">{typeTotals[t]}</span>
+                </th>
+              ))}
+            </tr>
+          </thead>
+          <tbody>
+            {rows.map(({ subject, counts }) => (
+              <tr class="border-b border-rule last:border-b-0">
+                <th scope="row" class="px-3 py-2 text-start font-medium"><a href={routes.subject(subject.id)} class="text-navy-800 underline decoration-rule underline-offset-2 hover:text-gold-600">{subject.data.title}</a></th>
+                {shownTypes.map((t) => (
+                  <td class="px-3 py-2 text-end font-mono text-[13px]">
+                    {counts[t] > 0
+                      ? <a href={routes.resourceBrowse(t, subject.id)} aria-label={`${counts[t]} ${subject.data.title} ${resourceCategoryMeta[t].title.toLowerCase()}`} class="inline-flex min-h-8 min-w-8 items-center justify-end text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{counts[t]}</a>
+                      : <span class="text-ink-mute"><span aria-hidden="true">–</span><span class="sr-only">none</span></span>}
+                  </td>
+                ))}
+              </tr>
             ))}
-          </ul>
-        </section>
+          </tbody>
+        </table>
+      </div>
+      {emptyTypes.length > 0 && (
+        <p class="m-0 mt-4 text-[14px] text-ink-mute">
+          {emptyTypes.map((t, i) => <><span id={t} class="scroll-mt-24">{resourceCategoryMeta[t].title}</span>{i < emptyTypes.length - 1 ? ', ' : ''}</>)}: none published yet. Marlbridge is writing these; nothing is published as a placeholder.
+        </p>
       )}
 
-      {/* v1.x CLOSURE WS6 -- every type gets a real section with a real id,
-          even at zero resources, so the "Browse by type" card above never
-          links to a fragment that doesn't exist on the page. A zero-count
-          type gets a truthful "in development" state instead of vanishing,
-          per the approved resource-category rule: visible, but never
-          implying material exists that doesn't. */}
-      {types.map(([slug, meta]) => (
-        <section id={slug} aria-labelledby={`${slug}-heading`} class="mt-[clamp(48px,6vw,80px)] scroll-mt-24 border-t border-rule pt-8">
-          <h2 id={`${slug}-heading`} class="m-0 mb-2 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{meta.title}</h2>
-          <p class="m-0 mb-6 max-w-[60ch] text-[16px] leading-[1.6] text-ink-mute">{meta.description}</p>
-          {byType[slug].length > 0 ? (
-            /* D-349 (audit R-07) -- a subject index, not every card: each
-               subject links to its own page listing every resource of this
-               type in that subject (/resources/<type>/<subject>/). */
-            <ul class="m-0 grid list-none gap-3 p-0 sm:grid-cols-2 lg:grid-cols-3">
-              {bySubjectByType[slug].map(({ subject, entries }) => (
-                <li class="m-0">
-                  <a href={routes.resourceBrowse(slug, subject.id)} class="flex h-full items-baseline justify-between gap-3 rounded-sm border border-rule bg-white px-4 py-3 transition-colors duration-150 hover:border-gold-500">
-                    <span class="text-[16px] font-semibold text-navy-800">{subject.data.title}</span>
-                    <span class="font-mono text-[12px] text-ink-mute">{entries.length}</span>
-                  </a>
-                </li>
-              ))}
-            </ul>
-          ) : (
-            <div class="max-w-[56ch] border border-rule bg-ivory p-[clamp(24px,3vw,40px)]">
-              <p class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">In development</p>
-              <h3 class="m-0 mt-2 text-[19px] font-semibold text-navy-800">No {meta.title.toLowerCase()} published yet</h3>
-              <p class="m-0 mt-3 text-[15.5px] leading-[1.65] text-ink-mute">Marlbridge is actively writing this category. None are published for this type yet -- nothing here is a placeholder standing in for real material.</p>
-            </div>
-          )}
-        </section>
-      ))}
-
-      <section aria-labelledby="library-shape" class="mt-[clamp(48px,6vw,80px)] max-w-[68ch] border-t border-rule pt-8">
-        <h2 id="library-shape" class="m-0 mb-4 text-[22px] font-semibold text-navy-800">How the library is organised</h2>
-        <p class="m-0 mb-5 text-[17px] leading-[1.7] text-ink-mute">
-          Every piece of material has one home, so it can be found the same way twice: by subject, then by level within a program, then by topic.
-        </p>
-        <ol class="m-0 flex list-none flex-col gap-2.5 p-0 text-[15.5px]">
-          <li class="flex items-baseline gap-3"><span class="font-mono text-[11px] text-gold-600">01</span><span>Subject hub — <code class="font-mono text-[13.5px] text-ink-mute">/subjects/chemistry/</code></span></li>
-          <li class="flex items-baseline gap-3"><span class="font-mono text-[11px] text-gold-600">02</span><span>Level within a program — <code class="font-mono text-[13.5px] text-ink-mute">/programs/igcse/</code></span></li>
-          <li class="flex items-baseline gap-3"><span class="font-mono text-[11px] text-gold-600">03</span><span>Topic material — <code class="font-mono text-[13.5px] text-ink-mute">/resources/atomic-structure/</code></span></li>
-        </ol>
+      <section aria-labelledby="site-guide" class="mt-[clamp(40px,5vw,64px)] max-w-[72ch] border-t border-rule pt-8">
+        <h2 id="site-guide" class="m-0 mb-4 text-[22px] font-semibold text-navy-800">Study resources, subjects and tuition: what's the difference?</h2>
+        <dl class="m-0 grid gap-4 text-[16px] leading-[1.65]">
+          <div><dt class="font-semibold text-navy-800">Study resources (this page)</dt><dd class="m-0 text-ink-mute">Free notes, guides and practice for one exact course, such as Cambridge IGCSE Chemistry 0620. Choose your course and you only see material for it.</dd></div>
+          <div><dt class="font-semibold text-navy-800"><a href={routes.subjects} class="underline decoration-gold-500 underline-offset-2">Subjects</a></dt><dd class="m-0 text-ink-mute">One page per subject, listing every course Marlbridge publishes in it. Useful if you know your subject but not your exam board.</dd></div>
+          <div><dt class="font-semibold text-navy-800"><a href={routes.tutoring} class="underline decoration-gold-500 underline-offset-2">Tuition</a></dt><dd class="m-0 text-ink-mute">Paid online classes with Marlbridge teachers, one-to-one or in small groups, by qualification. The study resources stay free whether or not you take classes.</dd></div>
+        </dl>
       </section>
+
       {/* D-390 -- advanced-course (AP) library, shown only when it is built (src/data/ap/config.ts). */}
       {apLibraryBuilt() && (
         <section aria-labelledby="advanced-courses" class="mt-[clamp(40px,5vw,64px)] max-w-[72ch]">

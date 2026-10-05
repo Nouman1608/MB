@@ -12,7 +12,7 @@ import Container from '../../../components/layout/Container.astro';
 import FAQ from '../../../components/ui/FAQ.astro';
 import CTA from '../../../components/ui/CTA.astro';
 import {
-  levelPath, levelsPath, combinationsForQualification,
+  levelPath, combinationsForQualification,
   qualificationsWithCombinations, academicHubPath, offersClasses,
 } from '../../../utils/academic';
 import { qualificationBySlug } from '../../../data/academic/qualifications';
@@ -72,10 +72,12 @@ const faq = faqNode(faqs);
   path={path}
   eyebrow="Qualification"
   heading={qualification.name}
-  lead={`Every board and subject Marlbridge publishes ${qualification.name} for, grouped by board.`}
+  lead={`Every exam board and subject Marlbridge publishes ${qualification.name} study resources for. Choose your board, then your subject, to see its topics, notes and practice questions.`}
   breadcrumbs={[
     { label: 'Home', href: routes.home },
-    { label: 'Qualifications', href: levelsPath() },
+    // Navigation round (6 Oct 2026): a qualification is the first step of
+    // "Find study resources", so it sits under Study resources.
+    { label: 'Study resources', href: routes.resources },
     { label: qualification.name, href: path },
   ]}
   jsonLd={faq ? [faq] : []}
@@ -85,7 +87,7 @@ const faq = faqNode(faqs);
       <p class="m-0 mb-[clamp(32px,4vw,56px)] max-w-[68ch] text-[17px] leading-[1.7] text-ink-mute">{qualification.about}</p>
       {groups.map((g) => (
         <div class="mb-[clamp(32px,4vw,56px)] last:mb-0">
-          <h2 class="m-0 mb-4 border-b-2 border-navy-800 pb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{g.board}</h2>
+          <h2 id={g.boardSlug} class="m-0 mb-4 scroll-mt-24 border-b-2 border-navy-800 pb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{g.board}</h2>
           <ul class="m-0 grid list-none gap-px border border-rule bg-rule p-0 sm:grid-cols-2 lg:grid-cols-3">
             {g.items.map((c) => (
               <li class="m-0 bg-white">

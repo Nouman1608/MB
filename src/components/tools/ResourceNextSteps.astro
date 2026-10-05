@@ -20,8 +20,14 @@ interface Props {
   resource: CollectionEntry<'resources'>;
   /** B8 -- the plan the page already computed for its "On this topic" line; computed here when absent. */
   plan?: ResourceNextStepsPlan;
+  /**
+   * Navigation round (6 Oct 2026) -- when the resource serves more than one
+   * course, the steps for each course. The first is shown; the page's course
+   * script shows the one matching the student's chosen course instead.
+   */
+  options?: { id: string; steps: ResourceNextStepsPlan['steps'] }[];
 }
-const { resource, plan: given } = Astro.props;
+const { resource, plan: given, options } = Astro.props;
 // B8 (2026-09-27): the step rules now live in src/utils/content/next-steps.ts
 // (resolved by resource-next-steps.ts), shared with the "On this topic" line.
 const { course, steps } = given ?? await resourceNextSteps(resource);
@@ -29,16 +35,18 @@ const { course, steps } = given ?? await resourceNextSteps(resource);
 <div class="mt-12 border-t border-rule pt-8">
 <nav aria-labelledby="next-steps-heading" data-next-steps>
   <h2 id="next-steps-heading" class="m-0 mb-4 text-[20px] font-semibold tracking-[-0.01em] text-navy-800">Next steps</h2>
-  <ul class="m-0 grid list-none gap-3 p-0 sm:grid-cols-2">
-    {steps.map((s) => (
-      <li class="m-0">
-        <a href={s.href} data-next-step={s.kind} class="flex h-full flex-col gap-0.5 rounded-sm border border-rule bg-white px-4 py-3 transition-colors hover:border-gold-500">
-          <span class="text-[15px] font-semibold text-navy-800">{s.label}</span>
-          <span class="text-[13.5px] text-ink-mute">{s.detail}</span>
-        </a>
-      </li>
-    ))}
-  </ul>
+  {(options && options.length > 0 ? options : [{ id: '', steps }]).map((o, i) => (
+    <ul class="m-0 grid list-none gap-3 p-0 sm:grid-cols-2" data-course-option={o.id || undefined} hidden={i > 0}>
+      {o.steps.map((s) => (
+        <li class="m-0">
+          <a href={s.href} data-next-step={s.kind} class="flex h-full flex-col gap-0.5 rounded-sm border border-rule bg-white px-4 py-3 transition-colors hover:border-gold-500">
+            <span class="text-[15px] font-semibold text-navy-800">{s.label}</span>
+            <span class="text-[13.5px] text-ink-mute">{s.detail}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  ))}
 </nav>
   <div class="mt-8">
     <SubscribeBox source="resource" preset={course ? { qualification: course.qualificationSlug, courseId: `${course.boardSlug}/${course.qualificationSlug}/${course.subjectSlug}` } : undefined} />
