@@ -81,7 +81,7 @@ At any stretch s, the net force is F_net,y = ks − mg = **k(s − s₀)**.
 - The **spring force** always points towards the relaxed length. While the spring is stretched at all, it pulls **up**.
 - The **net force** points towards the **new equilibrium** at s₀, with size k times the distance from it.
 
-So between the relaxed length and the equilibrium position, the spring still pulls up, but the net force points **down**. Keep the two ideas separate.
+So between the relaxed length and the equilibrium position, the spring still pulls up, but the net force points **down**. Keep the two ideas separate. When a statement says a spring force points "towards equilibrium", apply it to the spring's own relaxed position, as for the horizontal spring above; with gravity also acting, it is the **net** force that points to the new equilibrium at s₀.
 
 ## Graphs: k as a slope
 

@@ -213,7 +213,7 @@ The work done by a force uses the displacement of the **point where the force ac
 - **"A large force always does a lot of work."** No displacement of the point of application, no work.
 - **"Work has a direction."** It is a scalar. Its sign shows whether energy goes in or out.
 - **Using F × d for a varying force.** Integrate, or find the area under the F‖–x graph (Worked example 1).
-- **"The normal force always does no work."** It does none when it is perpendicular to the displacement, as on a fixed ramp. A floor pushing up on you in an accelerating lift does work on you.
+- **"The normal force always does no work."** It does none when it is perpendicular to the displacement, as on a fixed ramp. The floor of a lift that is moving upward pushes up on you through a displacement, so it does positive work on you.
 - **"Centripetal force does work because it acts all the way round."** It is perpendicular to the velocity at every instant, so W = 0.
 - **"Friction's work only depends on start and end points."** It depends on the path length (Worked example 3).
 - **Applying W_net = ΔK to only one force.** The theorem uses the work done by **all** forces.

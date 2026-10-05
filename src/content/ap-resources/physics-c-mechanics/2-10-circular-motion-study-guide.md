@@ -73,7 +73,7 @@ The minus sign means the acceleration points opposite to the position vector: **
 
 For uniform circular motion (constant speed):
 
-- **Period T**: the time for one full revolution, in s.
+- **Period T**: the time for one full revolution, in s. (The same word is used for one full rotation, and for one full cycle of an oscillation in Unit 7.)
 - **Frequency f**: revolutions per second, in Hz (s⁻¹). **T = 1/f**.
 - One revolution covers 2πr, so **T = 2πr/v**.
 
@@ -104,9 +104,9 @@ If you know the distance travelled along the circle, s(t), then v = ds/dt and a_
 <text x="190" y="334" font-size="12" fill="#1d2b44" text-anchor="middle">direction of travel: anticlockwise</text>
 <path d="M219 175 H315 M219 145 H315 M219 145 V175" stroke="#1d2b44" stroke-width="1" stroke-dasharray="2 3" fill="none"/>
 <line x1="327" y1="175" x2="327" y2="75" stroke="#1d2b44" stroke-width="2" stroke-dasharray="8 5" marker-end="url(#pcm210-arr)"/>
-<line x1="315" y1="175" x2="223" y2="175" stroke="#1d2b44" stroke-width="3.5" marker-end="url(#pcm210-arr)"/>
-<line x1="315" y1="175" x2="315" y2="149" stroke="#1d2b44" stroke-width="3.5" marker-end="url(#pcm210-arr)"/>
-<line x1="315" y1="175" x2="223" y2="146" stroke="#1d2b44" stroke-width="3.5" marker-end="url(#pcm210-arr)"/>
+<line x1="315" y1="175" x2="219" y2="175" stroke="#1d2b44" stroke-width="3.5" marker-end="url(#pcm210-arr)"/>
+<line x1="315" y1="175" x2="315" y2="145" stroke="#1d2b44" stroke-width="3.5" marker-end="url(#pcm210-arr)"/>
+<line x1="315" y1="175" x2="219" y2="145" stroke="#1d2b44" stroke-width="3.5" marker-end="url(#pcm210-arr)"/>
 <circle cx="315" cy="175" r="6" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
 <text x="322" y="196" font-size="13" fill="#1d2b44" font-weight="600">P</text>
 <text x="252" y="192" font-size="13" fill="#1d2b44">a_c</text>
@@ -116,10 +116,10 @@ If you know the distance travelled along the circle, s(t), then v = ds/dt and a_
 <path d="M270 175 A 45 45 0 0 1 272 162" fill="none" stroke="#1d2b44" stroke-width="1.2"/>
 <text x="276" y="170" font-size="12" fill="#1d2b44">φ</text>
 <g font-size="12" fill="#1d2b44">
-<text x="370" y="150">a_c = v²/r, toward the centre</text>
-<text x="370" y="170">a_t = dv/dt, along v (speeding up)</text>
-<text x="370" y="190">|a| = √(a_c² + a_t²)</text>
-<text x="370" y="210">tan φ = a_t / a_c</text>
+<text x="345" y="150">a_c = v²/r, toward the centre</text>
+<text x="345" y="170">a_t = dv/dt, along v (speeding up)</text>
+<text x="345" y="190">|a| = √(a_c² + a_t²)</text>
+<text x="345" y="210">tan φ = a_t / a_c</text>
 </g>
 </svg>
 <figcaption>Figure 1. An object speeding up anticlockwise around a circle. a_c points to the centre, a_t points along the velocity, and the net acceleration is their vector sum, tilted forward by φ. If the object slowed down, a_t would point backward instead and the net acceleration would tilt behind the radius.</figcaption>
@@ -165,14 +165,14 @@ A road banked at angle θ tilts the normal force toward the centre. Take +x **ho
 <text x="96" y="242" font-size="13" fill="#1d2b44">θ</text>
 <line x1="260" y1="285" x2="60" y2="285" stroke="#1d2b44" stroke-width="1.5" marker-end="url(#pcm210-arr2)"/>
 <text x="90" y="305" font-size="12" fill="#1d2b44">toward the centre of the curve</text>
-<line x1="430" y1="170" x2="430" y2="60" stroke="#1d2b44" stroke-width="1" stroke-dasharray="3 3"/>
-<line x1="430" y1="170" x2="393" y2="67" stroke="#1d2b44" stroke-width="3" marker-end="url(#pcm210-arr2)"/>
+<line x1="430" y1="170" x2="430" y2="45" stroke="#1d2b44" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="430" y1="170" x2="387" y2="53" stroke="#1d2b44" stroke-width="3" marker-end="url(#pcm210-arr2)"/>
 <line x1="430" y1="170" x2="430" y2="270" stroke="#1d2b44" stroke-width="3" marker-end="url(#pcm210-arr2)"/>
-<line x1="430" y1="170" x2="367" y2="193" stroke="#1d2b44" stroke-width="3" marker-end="url(#pcm210-arr2)"/>
+<line x1="430" y1="170" x2="383" y2="187" stroke="#1d2b44" stroke-width="3" marker-end="url(#pcm210-arr2)"/>
 <circle cx="430" cy="170" r="5" fill="#1d2b44"/>
 <path d="M430 120 A 50 50 0 0 0 413 123" fill="none" stroke="#1d2b44" stroke-width="1.2"/>
 <text x="416" y="112" font-size="12" fill="#1d2b44">θ</text>
-<text x="372" y="62" font-size="13" fill="#1d2b44">N</text>
+<text x="370" y="52" font-size="13" fill="#1d2b44">N</text>
 <text x="438" y="268" font-size="13" fill="#1d2b44">mg</text>
 <text x="330" y="212" font-size="13" fill="#1d2b44">f (down slope)</text>
 <line x1="520" y1="300" x2="480" y2="300" stroke="#1d2b44" stroke-width="1.5" marker-end="url(#pcm210-arr2)"/>
@@ -180,7 +180,7 @@ A road banked at angle θ tilts the normal force toward the centre. Take +x **ho
 <text x="470" y="316" font-size="11" fill="#1d2b44">+x</text>
 <text x="526" y="268" font-size="11" fill="#1d2b44">+y</text>
 </svg>
-<figcaption>Figure 2. A banked curve (angle exaggerated) and the free-body diagram for a car at the greatest safe speed. N is tilted θ from the vertical toward the centre; friction acts down the slope. At the least speed, friction would point up the slope instead.</figcaption>
+<figcaption>Figure 2. A banked curve (angle exaggerated) and the free-body diagram for a car at the greatest safe speed. N is tilted θ from the vertical toward the centre; friction acts down the slope. The arrows are drawn so their vertical components balance, leaving a horizontal net force toward the centre. At the least speed, friction would point up the slope instead.</figcaption>
 </figure>
 
 **At the greatest speed**, the car tends to slide up and out, so static friction points **down the slope**, at its maximum f = μ_s N:

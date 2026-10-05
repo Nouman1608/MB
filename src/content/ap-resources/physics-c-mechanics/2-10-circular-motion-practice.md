@@ -129,7 +129,7 @@ A ring road has an icy bend of radius 60 m, banked at 20°. The coefficient of s
 (a) A car moves round the bend at the lowest speed at which it does not slide. Draw its free-body diagram and state the direction of friction.
 (b) Derive an expression for this lowest speed in terms of r, g, θ and μ_s.
 (c) Calculate the lowest speed, and the speed that needs no friction.
-(d) Describe what happens to a car moving more slowly than your answer to (c).
+(d) Describe what happens to a car moving more slowly than the lowest speed you found in (c).
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>

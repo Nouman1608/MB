@@ -115,7 +115,7 @@ When a constant force (such as gravity) and a resistive force act in **opposite 
 
 ΣF = 0, so mg − kv_T = 0, giving **v_T = mg/k**.
 
-This is the **terminal velocity**: the greatest speed reached under these forces. The acceleration is then zero, so the velocity stops changing.
+This is the **terminal velocity**: the greatest speed an object reaches under these forces when it starts from rest (or from any speed below v_T). The acceleration is then zero, so the velocity stops changing.
 
 If an object starts **faster** than v_T (thrown down hard, say), the resistive force is bigger than mg. The net force points up, against the motion, and the object **slows down** towards v_T. The same equation, solved with v(0) = v₀, gives:
 

@@ -118,7 +118,7 @@ To show a pair, draw **separate** free-body diagrams for the two objects. Put on
 <text x="445" y="252" font-size="12" fill="#1d2b44">F_A on B</text>
 <text x="420" y="180" font-size="12" fill="#1d2b44">F_N (floor on B)</text>
 <text x="420" y="290" font-size="12" fill="#1d2b44">F_g (Earth on B)</text>
-<text x="280" y="345" font-size="12" fill="#1d2b44" text-anchor="middle">Double tick marks: F_B on A and F_A on B are a third-law pair (equal length, opposite direction)</text>
+<text x="280" y="345" font-size="12" fill="#1d2b44" text-anchor="middle">Double ticks: F_B on A and F_A on B form a third-law pair</text>
 </svg>
 <figcaption>Figure 1. Separate free-body diagrams for blocks A and B. The contact forces between the blocks, each marked with two ticks, form a third-law pair: same size, opposite directions, one on each block. The hand’s push appears only on A, because the hand touches only A.</figcaption>
 </figure>
@@ -150,7 +150,7 @@ T(y + dy) − T(y) = λg dy, so **dT/dy = λg**
 Two models follow from this one result.
 
 - **Ideal string:** negligible mass (λ → 0) and it does not stretch. Then dT/dy = 0: the tension is the **same at every point**. "Does not stretch" means everything tied to it moves together along the string.
-- **String with mass:** λ > 0, so tension **changes** along the string. For a hanging string it grows towards the top, because each point supports everything below it. Integrating gives T(y) = T(0) + ∫₀ʸ λg dy.
+- **String with mass:** λ > 0, so tension **changes** along the string. For a hanging string it grows towards the top, because each point supports everything below it. Integrating gives T(y) = T(0) + ∫₀ʸ λg dy′.
 
 An **ideal pulley** has negligible mass and turns on a frictionless axle through its centre of mass. An ideal string passing over it has the **same tension on both sides**. The pulley changes the direction of the pull, not its size.
 
@@ -173,7 +173,7 @@ An **ideal pulley** has negligible mass and turns on a frictionless axle through
 | Road on car’s tyres (friction) | −x | Car’s tyres on road: +x |
 
 2. **(b)** The rope is ideal, so its tension is 1500 N at both ends. The rope pulls the truck with **1500 N in the −x direction**. Its partner is the truck’s pull on the rope, 1500 N in +x.
-3. **(c)** The truck’s driven tyres push backwards on the road. By the third law, the **road pushes forwards on the tyres** with a friction force of equal size. That forward force is on the truck; the rope’s backward pull is also on the truck. Comparing these two decides whether the truck speeds up (Topics 2.4 and 2.5).
+3. **(c)** The truck’s driven tyres push backwards on the road. By the third law, the **road pushes forwards on the tyres** with a friction force of equal size. That forward force is on the truck; the rope’s backward pull is also on the truck. Comparing these horizontal forces (with any drag) decides whether the truck speeds up (Topics 2.4 and 2.5).
 4. **(d)** No. The car and truck interact only **through the rope**. The rope transmits the pull, which is why its tension appears on both diagrams.
 
 **Check.** Every partner in the table involves the same two objects as its force, with the names swapped, and the same type of force. None of the partners appears on the car’s own diagram.
@@ -217,8 +217,8 @@ An **ideal pulley** has negligible mass and turns on a frictionless axle through
 <text x="80" y="160" font-size="12" fill="#1d2b44">bottom: 39 N (lamp only)</text>
 <text x="250" y="86" font-size="12" fill="#1d2b44">middle: 48 N</text>
 <text x="400" y="52" font-size="12" fill="#1d2b44">top: 57 N</text>
-<text x="300" y="155" font-size="12" fill="#1d2b44">dashed: ideal-string model, 39 N everywhere</text>
-<text x="300" y="190" font-size="12" fill="#1d2b44">solid: real chain, slope λg = 11.76 N/m</text>
+<text x="240" y="160" font-size="12" fill="#1d2b44">dashed: ideal-string model, 39 N everywhere</text>
+<text x="240" y="190" font-size="12" fill="#1d2b44">solid: real chain, slope λg = 11.76 N/m</text>
 </svg>
 <figcaption>Figure 2. Tension along the chain in Worked example 2. The solid line is the real chain; the dashed line is the ideal-string prediction. The difference at any height is the weight of chain below that point.</figcaption>
 </figure>

@@ -58,7 +58,7 @@ A hockey puck has left the stick and slides to the right across smooth, level ic
 
 ## Question 2 (multiple choice · core)
 
-A child sits in a toy cart on a smooth, level floor. She pulls hard on a rope tied to the front of the cart. Take the **system to be the child and the cart together**. Which statement is correct?
+A child sits in a toy cart on a smooth, level floor. She pulls hard on a rope tied to the front of the cart. Take the **system to be the child, the rope and the cart together**. Which statement is correct?
 
 - (A) The rope pulls the cart forward, so the system moves forward.
 - (B) The rope's forces are internal to the system, so they give no net force on it and cannot set the system moving.
@@ -70,7 +70,7 @@ A child sits in a toy cart on a smooth, level floor. She pulls hard on a rope ti
 
 **Answer: (B).** The rope, the child and the cart are all inside the boundary. The rope pulls the cart forward and pulls the child's hands backward, and these internal forces cancel. A system cannot exert a net force on itself.
 
-- (A) looks at the cart alone. For the cart–child system, the backward pull on the child cancels it.
+- (A) looks at the cart alone. For the child–rope–cart system, the backward pull on the child cancels it.
 - (C) Forces between two objects are always equal in size (Topic 2.3); the claim is false.
 - (D) A system's free-body diagram shows only forces from the environment. The rope is part of the system.
 </details>

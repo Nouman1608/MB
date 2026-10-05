@@ -91,7 +91,7 @@ A brick slides on a level floor resting on its largest face. It is then turned o
 **Answer: (C).** F_f,k = μ_k F_N. The normal force doubles because the floor now supports two bricks. μ_k depends only on the materials, and friction does not depend on contact area, so friction doubles.
 
 - (A) multiplies the factor 2 by the area factor 1/3. Area does not enter the friction model.
-- (B) assumes the extra brick has no effect, or that a smaller area exactly cancels the extra load.
+- (B) assumes the extra brick has no effect, or that the smaller area somehow offsets the extra load. Neither is true in this model.
 - (D) divides by the area factor, treating friction as if it depended on pressure.
 </details>
 

@@ -69,7 +69,7 @@ That explains some everyday puzzles:
 
 ## Forces as vectors
 
-Because forces are vectors, you add them by components. Take **+x to the right and +y up**. A 15 kg crate is held by two ropes and pulled down by gravity:
+Because forces are vectors, you add them by components. Take **+x to the right and +y up**. A 15 kg crate is pulled by two ropes and by gravity:
 
 - F₁ = (120 i + 50 j) N, rope 1 on crate
 - F₂ = (−40 i + 90 j) N, rope 2 on crate
@@ -103,7 +103,7 @@ Leave off anything that is not a force on the system: velocity, acceleration, "m
 
 ## Choosing axes
 
-The diagram is a picture; the equations need components. Choose a coordinate system with **one axis parallel to the acceleration** (or the direction of motion). Then most forces lie along an axis, and only a few need splitting.
+The diagram is a picture; the equations need components. Choose a coordinate system with **one axis parallel to the acceleration**. If the object moves in a straight line, that is the line of motion, so the axis also works when the velocity is constant. Then most forces lie along an axis, and only a few need splitting.
 
 On a slope, the object moves along the surface, so tilt your axes: **+x along the slope, +y perpendicular to it**. The normal force then lies along +y, friction along ±x, and only gravity (and any rope at an angle) needs components. For gravity on a slope of angle θ, the component along the slope is mg sin θ and the component into the slope is mg cos θ.
 

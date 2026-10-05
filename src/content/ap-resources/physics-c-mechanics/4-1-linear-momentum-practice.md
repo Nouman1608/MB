@@ -26,7 +26,7 @@ framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-physics-c-mechanics", "page-physics-c-mechanics"]
 keyPoints:
   - "Questions 1–3 are multiple choice; 4–7 need written working."
-  - "Every question states its axes. Polynomial coefficients carry units."
+  - "Every question that needs a sign convention states its axes. Polynomial coefficients carry units."
   - "Each answer explains why the wrong options are wrong."
 version: "1.0"
 publishedDate: 2026-10-05
@@ -89,7 +89,7 @@ For which interaction is the **collision model** least appropriate?
 
 **Answer: (C).** The collision model needs the forces between the objects to be much larger than the net external force during the interaction. The crate's contact with the foam is slow and gentle, and floor friction acts on the crate the whole time with a comparable size. Friction cannot be ignored over 1.5 s.
 
-- (A) The hammer's force on the nail during a 2 ms impact is far larger than the nail's weight or the wood's grip over that brief time. The collision model fits.
+- (A) The hammer exerts a very large force on the nail for only 2 ms, far larger than the nail's weight. Compared with the slow crate in (C), external forces have very little time to act, so the collision model fits far better.
 - (B) Steel bearings interact briefly with large forces. Gravity is balanced by the table and rolling friction is tiny over the contact time.
 - (D) The club's force on the ball is thousands of times its weight during a very short contact. This is a typical collision.
 </details>

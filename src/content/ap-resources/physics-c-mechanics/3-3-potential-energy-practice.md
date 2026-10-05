@@ -110,7 +110,7 @@ Take **+x in the direction of stretch**, with x = 0 at the relaxed length. A sti
 2. **(b)** U(0.10) = 0.60 + 0.10 = 0.70 J. U(0.20) = 2.4 + 1.6 = 4.0 J. ΔU = **+3.3 J**.
 3. **(c)** W_spring = −ΔU = **−3.3 J**. The spring force points to −x while the end moves to +x, so its work is negative. An ideal spring gives ΔU = ½(120)(0.040 − 0.010) = **1.8 J**, so the stiffening term nearly doubles the energy stored over this range.
 
-Suggested mark points (4): 1 for integrating with the minus sign and the chosen zero; 1 for each value of U; 1 for ΔU = 3.3 J; 1 for W = −3.3 J with the sign explained.
+Suggested mark points (4): 1 for integrating with the minus sign and the chosen zero; 1 for both values of U; 1 for ΔU = 3.3 J; 1 for W = −3.3 J with the sign explained.
 
 Common error: using ½k(Δx)² with Δx = 0.10 m. That treats the spring as ideal and also ignores that energy depends on x², not on the change in x.
 </details>

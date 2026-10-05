@@ -32,7 +32,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can describe the gravitational force between two masses: attractive, along the line of centers, acting at each center of mass, and equal in size on both. *(Guide: "Newton's law of universal gravitation"; Practice Q4(b))*
 - I can explain what a gravitational field is and why, with gravity as the only force, the acceleration equals g. *(Guide: "The gravitational field"; Practice Q6(a))*
 - I can explain apparent weight as the normal force, and say when a system appears weightless. *(Guide: "Apparent weight and weightlessness"; Practice Q2, Q7(b))*
-- I can state the equivalence principle and the difference between inertial and gravitational mass. *(Guide: "Inertial mass and gravitational mass"; Practice Q7(c))*
+- I can state the equivalence principle and the difference between inertial and gravitational mass. *(Guide: "Apparent weight and weightlessness" and "Inertial mass and gravitational mass"; Practice Q7(c))*
 
 ## Calculation
 

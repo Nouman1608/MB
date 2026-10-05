@@ -39,7 +39,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can find the total momentum and the center-of-mass velocity of a system, using signed velocities. *(Guide: "Total momentum and the center of mass"; Practice Q1)*
 - I can use conservation of momentum in one dimension to find an unknown velocity after an explosion or recoil. *(Guide: Worked example 1; Practice Q3)*
 - I can conserve the x- and y-components separately to find a velocity in two dimensions, with its size and direction. *(Guide: Worked example 2; Practice Q4)*
-- I can find the impulse on each part of a system and the external impulse on the whole system from changes in momentum. *(Guide: Worked example 1; Practice Q6)*
+- I can find the impulse on each part of a system and the external impulse on the whole system from changes in momentum. *(Guide: Worked example 1; Practice Q5(e))*
 
 ## Reasoning and skills
 

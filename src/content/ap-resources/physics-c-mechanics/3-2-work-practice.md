@@ -53,7 +53,7 @@ Take **+x east and +y north**, on a level floor. A constant force **F** = (5.0, 
 
 **Answer: (A).** W = F_xd_x + F_yd_y = (5.0)(3.0) + (−2.0)(4.0) = 15 − 8.0 = 7.0 J.
 
-- (B) uses only the x-components. The y-component of the force also lies partly along the displacement, and here it does −8.0 J.
+- (B) uses only the x-components. The y-components also contribute: F_yd_y = (−2.0)(4.0) = −8.0 J.
 - (C) adds the sizes of the products, ignoring the sign of F_y. The force has a component opposite to the y-displacement, so that term is negative.
 - (D) multiplies the magnitudes, |F||d| = 5.39 × 5.0. That assumes the force is parallel to the displacement, which it is not.
 </details>

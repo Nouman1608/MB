@@ -216,9 +216,9 @@ On a **power–time graph**, the work done is the **area under the curve**. Area
 <circle cx="470" cy="74" r="4" fill="#1d2b44"/>
 <g font-size="12" fill="#1d2b44">
 <text x="380" y="68">(2.0 s, 36 W)</text>
-<text x="390" y="270" font-weight="600">area = W = 18 J</text>
+<text x="360" y="270" font-weight="600">area = W = 18 J</text>
 <text x="80" y="228">dashed: P_avg = 9.0 W (same 18 J area)</text>
-<text x="180" y="120">P = 4.5t³</text>
+<text x="290" y="195">P = 4.5t³</text>
 </g>
 </svg>
 <figcaption>Figure 2. Power–time graph for Worked example 3. The shaded area under the curve is the work done, 18 J. The dashed line at the average power, 9.0 W, encloses a rectangle with the same area.</figcaption>
@@ -232,7 +232,7 @@ On a **power–time graph**, the work done is the **area under the curve**. Area
 - **"Constant power means constant force."** At constant power, F = P/v falls as speed rises (Worked example 2).
 - **"Average power = average force × average velocity."** This fails when both change (Worked example 3). Use W/Δt or ∫P dt.
 - **"More power means more work."** More power means work is done **faster**. A small motor can do the same work as a large one if it runs for longer.
-- **"Zero net power means the object is at rest."** It means the speed is not changing at that instant. A car at steady speed has engine and resistive forces whose powers cancel.
+- **"Zero net power means the object is at rest."** It means the speed is not changing at that instant. A crate dragged at steady speed across a rough floor has a rope delivering positive power and friction delivering an equal negative power.
 
 ## Where this leads
 

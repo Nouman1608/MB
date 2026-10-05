@@ -78,7 +78,7 @@ Take **+y upward**. A lift is moving **downward** and **slowing down**. A passen
 
 ## Question 3 (multiple choice · core)
 
-Brevan is a planet of uniform density and radius R. A probe of mass m weighs W on its surface. A narrow shaft is drilled to the center. What is the gravitational force on the probe at the bottom of a shaft that reaches r = R/2?
+Brevan is a planet of uniform density and radius R. A probe of mass m weighs W on its surface. A narrow shaft is drilled straight toward the center and stops halfway. What is the gravitational force on the probe at the bottom of the shaft, at r = R/2?
 
 - (A) W/8
 - (B) W/4

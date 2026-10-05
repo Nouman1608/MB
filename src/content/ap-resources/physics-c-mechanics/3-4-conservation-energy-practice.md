@@ -89,7 +89,7 @@ A probe is launched straight up from the surface of an airless planet of mass M 
 
 **Answer: (B).** Energy: ½mv² = GMm/R − GMm/(2R) = GMm/(2R), so v² = GM/R. Escape needs v_esc² = 2GM/R. So v = v_esc/√2 = 0.71 v_esc.
 
-- (A) assumes the speed scales with the fraction of the "distance to infinity". Energy, not speed, is what you compare, and it goes as 1/r.
+- (A) sees that the probe needs half the escape energy (1/R − 1/(2R) is half of 1/R) but then halves the speed. Kinetic energy goes as v², so half the energy means v_esc/√2, not v_esc/2.
 - (C) uses 1/r² (as for force) instead of 1/r for energy: v² ∝ 1/R² − 1/(4R²) gives √(3/4) = 0.87.
 - (D) is the escape speed itself, which takes the probe to infinite separation.
 </details>
@@ -175,7 +175,7 @@ Students test whether a cart's mechanical energy is conserved as it rolls down a
 | 1 | (c) Slope 17 m/s² (accept 16.5–18.0) and fraction about 0.88 |
 | 1 | (d) A dissipative mechanism and a matching test |
 
-**Alternative for (c).** Calculating gh and ½v² for each row and averaging their ratio (0.86–0.89) earns the point.
+**Alternative for (c).** Calculating gh and ½v² for each row and averaging their ratio (each row gives 0.87–0.89; mean 0.88) earns the point.
 </details>
 
 ## Question 7 (explanation · stretch)

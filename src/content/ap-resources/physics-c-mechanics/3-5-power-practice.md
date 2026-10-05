@@ -97,7 +97,7 @@ Two carts, of mass m and 4m, start from rest on level, frictionless tracks. Each
 
 ## Question 4 (calculation · core)
 
-A rope tow pulls a 70 kg skier up a straight slope at a constant 2.5 m/s. The slope is at 12° to the horizontal, the rope is parallel to the slope, and the coefficient of kinetic friction between skis and snow is 0.10. Take **+x up the slope**. Give answers to 3 significant figures.
+A rope tow pulls a 65 kg skier up a straight slope at a constant 2.5 m/s. The slope is at 12° to the horizontal, the rope is parallel to the slope, and the coefficient of kinetic friction between skis and snow is 0.10. Take **+x up the slope**. Give answers to 3 significant figures.
 
 (a) Find the rope tension.
 (b) Find the power the rope delivers to the skier.
@@ -107,10 +107,10 @@ A rope tow pulls a 70 kg skier up a straight slope at a constant 2.5 m/s. The sl
 <details>
 <summary>Worked solution</summary>
 
-1. **(a)** Constant velocity, so the net force is zero. Along the slope: T = mg sin θ + μ_k mg cos θ = 70 × 9.8 × sin 12° + 0.10 × 70 × 9.8 × cos 12° = 142.6 + 67.1 ≈ **210 N** (209.7 N).
-2. **(b)** The rope is parallel to v: P = Tv = 209.7 × 2.5 ≈ **524 W**.
-3. **(c)** Gravitational potential energy: (mg sin θ)v = 142.6 × 2.5 ≈ **357 W**. Internal energy: (μ_k mg cos θ)v = 67.1 × 2.5 ≈ **168 W**. These add to 524 W (within rounding): the rope **transfers** energy into the system, where it becomes potential energy or is **converted** by friction to internal energy. Kinetic energy is constant.
-4. **(d)** 20 × 524 W ≈ **10.5 kW**, the least power, assuming no losses in the motor and cable.
+1. **(a)** Constant velocity, so the net force is zero. Along the slope: T = mg sin θ + μ_k mg cos θ = 65 × 9.8 × sin 12° + 0.10 × 65 × 9.8 × cos 12° = 132.4 + 62.3 ≈ **195 N** (194.7 N).
+2. **(b)** The rope is parallel to v: P = Tv = 194.7 × 2.5 ≈ **487 W**.
+3. **(c)** Gravitational potential energy: (mg sin θ)v = 132.4 × 2.5 ≈ **331 W**. Internal energy: (μ_k mg cos θ)v = 62.3 × 2.5 ≈ **156 W**. These add to 487 W: the rope **transfers** energy into the system, where it becomes potential energy or is **converted** by friction to internal energy. Kinetic energy is constant.
+4. **(d)** 20 × 487 W ≈ **9.74 kW**, the least power, assuming no losses in the motor and cable.
 
 Suggested mark points (4): 1 for T with both gravity and friction components; 1 for P = Tv; 1 for the two rates in (c) that add to the rope's power; 1 for (d).
 

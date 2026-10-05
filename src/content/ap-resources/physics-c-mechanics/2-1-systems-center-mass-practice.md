@@ -81,7 +81,7 @@ For which question **must** you model the internal structure of the system, rath
 - (A) How long a sealed sack of flour takes to fall 1.5 m from a shelf.
 - (B) How far a delivery van travels in 10 s at constant speed.
 - (C) Whether a tall stack of loose boxes on a trolley topples when the trolley stops suddenly.
-- (D) The horizontal distance travelled by the center of a thrown water bottle.
+- (D) The horizontal distance travelled by the center of mass of a thrown, half-full water bottle.
 
 <details>
 <summary>Answer and explanation</summary>
@@ -90,7 +90,7 @@ For which question **must** you model the internal structure of the system, rath
 
 - (A) The packing of the flour does not affect when the sack lands; a point at its center of mass is enough.
 - (B) Only the van's motion as a whole is asked for.
-- (D) The question asks about the center of the bottle's motion. The water may slosh inside, but the center of mass follows the motion you need.
+- (D) The question asks only about the center of mass. The water may slosh inside, but with air resistance ignored the center of mass follows a projectile path whatever the water does, so a single object at that point is enough.
 </details>
 
 ## Question 4 (calculation · core)
@@ -142,7 +142,7 @@ A thin rod lies along the x-axis from x = 0 to x = L. Its linear mass density is
 | 1 | (b) Integrates λ dx over 0 to L to reach 2λ₀L |
 | 1 | (c) Sets up ∫x λ dx correctly and integrates it |
 | 1 | (c) Divides by M to reach 7L/12 |
-| 1 | (d) Compares with at least one limiting case (uniform rod, L/2) and argues the direction of the shift |
+| 1 | (d) Compares with both limiting cases (uniform rod, L/2; λ ∝ x, 2L/3) and shows 7L/12 lies between them |
 | 1 | (e) Both numerical answers with units (carry forward from (b) and (c)) |
 
 **Alternative method.** Split the rod into a uniform rod of density λ₀ (mass λ₀L at L/2) plus a rod with density 2λ₀x/L (mass λ₀L at 2L/3). Combining the two as particles gives (L/2 + 2L/3)/2 = 7L/12 and earns the (c) points.

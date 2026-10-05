@@ -107,7 +107,7 @@ Velocity depends on who is measuring it (Topic 1.4). So "constant velocity" need
 Test a frame by watching an object with no net horizontal force. Picture a ball resting on the smooth floor of a train carriage. When the train brakes:
 
 - A **platform** observer sees the ball keep moving forwards at the same velocity, because no horizontal force acts on it. The carriage slows down underneath it. The first law holds: this frame is inertial (to a very good approximation).
-- A **passenger** sees the ball start to roll forwards from rest, even though nothing pushes it forwards. The first law fails in the braking carriage’s frame: that frame is **not inertial**.
+- A **passenger** sees the ball start to move forwards from rest, even though nothing pushes it forwards. The first law fails in the braking carriage’s frame: that frame is **not inertial**.
 
 Any frame moving at **constant velocity** relative to an inertial frame is also inertial. Any frame that **accelerates** (speeds up, slows down or turns) relative to an inertial frame is not. In this course, the ground is treated as an inertial frame unless a question says otherwise.
 
@@ -138,8 +138,8 @@ Any frame moving at **constant velocity** relative to an inertial frame is also 
 <path d="M305.4 148.8 L380 59.9" stroke="#1d2b44" stroke-width="2.5" stroke-dasharray="7 4" marker-end="url(#pcm24-ah)"/>
 <text x="390" y="135" font-size="12" fill="#1d2b44">F_g</text>
 <text x="330" y="196" font-size="12" fill="#1d2b44">T₁</text>
-<text x="300" y="100" font-size="12" fill="#1d2b44">T₂ (dashed)</text>
-<text x="420" y="250" font-size="12" fill="#1d2b44" text-anchor="middle">The arrows close: no gap, so the net force is zero</text>
+<text x="336" y="100" font-size="12" fill="#1d2b44" text-anchor="end">T₂ (dashed)</text>
+<text x="400" y="250" font-size="12" fill="#1d2b44" text-anchor="middle">Arrows close: net force is zero</text>
 </svg>
 <figcaption>Figure 1. Left: the free-body diagram, with each force drawn as a single arrow from the dot, as the course expects (no components drawn on the diagram). Right: the same forces tip to tail form a closed triangle, which is what ΣF = 0 looks like.</figcaption>
 </figure>
@@ -187,7 +187,7 @@ We did not need to know the separate forces (rotor thrust, weight, air resistanc
 <path d="M70 290 L280 170 H490" stroke="#1d2b44" stroke-width="2.5" stroke-dasharray="9 5" fill="none"/>
 <text x="400" y="100" font-size="12" fill="#1d2b44">v_x = 3.0 m/s (solid)</text>
 <text x="400" y="160" font-size="12" fill="#1d2b44">v_y = 2.0 m/s (dashed)</text>
-<text x="150" y="240" font-size="12" fill="#1d2b44">v_y = 0.50t (dashed)</text>
+<text x="145" y="272" font-size="12" fill="#1d2b44">v_y = 0.50t (dashed)</text>
 <text x="80" y="70" font-size="12" fill="#1d2b44">0–4 s: ΣF_y ≠ 0, net force up</text>
 <text x="290" y="70" font-size="12" fill="#1d2b44">4–8 s: ΣF = 0, equilibrium</text>
 </svg>

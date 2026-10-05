@@ -89,7 +89,7 @@ Check the limits. Equal masses: v₁ = 0 and v₂ = u₁, so the objects swap ve
 
 In an **inelastic** collision the total kinetic energy **decreases**. During contact, **nonconservative forces** act between the objects: forces that permanently bend metal, crush foam, rub surfaces or make them vibrate. These forces transform some of the kinetic energy into other forms: internal (thermal) energy of the objects, sound, and the energy stored in permanent deformation. That energy does not come back as kinetic energy when the objects separate.
 
-In a **perfectly inelastic** collision the objects **stick together** and move off with one common velocity. Momentum conservation fixes it:
+When the objects **stick together**, the collision is **perfectly inelastic**: they leave with one shared velocity. Momentum conservation fixes it:
 
 **v = (m₁u₁ + m₂u₂) / (m₁ + m₂) = v_cm**
 

@@ -47,7 +47,7 @@ Short on time? This page is the recap for the **calculus-based** course. For dia
 | Third law | F_B on A = −F_A on B | names swapped, same type, same instant |
 | System of particles | ΣF (all parts) = ΣF_ext | internal pairs add to zero |
 | Hanging string at rest | dT/dy = λg | y measured up from the bottom; λ in kg/m |
-| Tension along a hanging string | T(y) = T(0) + ∫₀ʸ λg dy | largest at the top |
+| Tension along a hanging string | T(y) = T(0) + ∫₀ʸ λg dy′ | largest at the top |
 | Ideal string | λ → 0, so T is the same everywhere | also does not stretch |
 | Ideal pulley | same T on both sides | massless, frictionless axle |
 

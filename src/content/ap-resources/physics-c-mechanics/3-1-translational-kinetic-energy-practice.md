@@ -138,7 +138,7 @@ Two identical 0.20 kg blocks start with speed 10 m/s at t = 0.
 
 **(a)** Both graphs are U-shaped parabolas in t, symmetric about their minima. P's is narrow and shallow (10 J → 7.5 J → 10 J over about 1.0 s). Q's is wide and touches the t-axis (10 J → 0 → 10 J over about 4.1 s).
 
-**(b)** For P, the acceleration is vertical. At the top it is perpendicular to the horizontal velocity, so dK/dt = m**v** · **a** = 0 while the speed is still 8.66 m/s. Only the vertical component of velocity is lost. For Q, the acceleration is along the ramp, parallel to the velocity, so it can reduce the speed all the way to zero.
+**(b)** For P, the acceleration is vertical. At the top it is perpendicular to the horizontal velocity, so dK/dt = m**v** · **a** = 0 while the speed is still 8.66 m/s. Only the vertical component of velocity is lost. For Q, the acceleration is along the ramp, on the same line as the velocity (opposite to it on the way up), so it can reduce the speed all the way to zero.
 
 | Point | What earns it |
 |---|---|
@@ -146,7 +146,7 @@ Two identical 0.20 kg blocks start with speed 10 m/s at t = 0.
 | 1 | P has a non-zero minimum of 7.5 J near 0.51 s |
 | 1 | Q reaches K = 0 near 2.0 s and returns near 4.1 s |
 | 1 | Curves drawn as smooth U-shapes with zero slope at the minimum (not V-shapes) |
-| 1 | (b) Links P's non-zero minimum to acceleration perpendicular to velocity at the top, and Q's zero to acceleration parallel to velocity |
+| 1 | (b) Links P's non-zero minimum to acceleration perpendicular to velocity at the top, and Q's zero to acceleration along the line of the velocity |
 </details>
 
 ## Question 6 (experimental analysis · stretch)
@@ -175,7 +175,7 @@ A spring launcher pushes carts of different mass along a level track. A student 
 |---|---|---|---|---|---|
 | v² (m²/s²) | 14.5 | 7.13 | 4.84 | 3.57 | 2.89 |
 
-The best-fit line through the origin has gradient ≈ 3.6 J/kg (3.62). So 2K ≈ 3.6 J and **K ≈ 1.8 J**. As a check, ½mv² for each cart gives 1.82, 1.78, 1.82, 1.79 and 1.81 J.
+The best-fit line through the origin has gradient ≈ 3.6 J/kg (3.62). So 2K ≈ 3.6 J and **K ≈ 1.8 J**. As a check, ½mv² for each cart gives 1.81, 1.78, 1.82, 1.79 and 1.81 J.
 
 **(d)** **Yes.** The points lie close to a straight line through the origin, and the separate K values agree to within about 2%, which is within the scatter you would expect from timing. Over this range of masses, the launcher gives each cart about 1.8 J.
 

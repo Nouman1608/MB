@@ -42,7 +42,7 @@ Short on time? This page is the recap. For the derivations, figures and three wo
 
 | Relationship | Condition or meaning |
 |---|---|
-| a_c = v²/r = 4π²r/T² | toward the centre, any circular path |
+| a_c = v²/r = 4π²r/T² | toward the centre; v²/r holds on any circular path, the T form only at constant speed |
 | a_t = dv/dt = d²s/dt² | along the velocity; zero for uniform circular motion |
 | \|a\| = √(a_c² + a_t²) | net acceleration |
 | T = 1/f; T = 2πr/v | uniform circular motion |

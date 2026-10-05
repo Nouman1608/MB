@@ -38,7 +38,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 - I can draw separate free-body diagrams for two interacting objects and mark the third-law pair between them. *(Guide: Figure 1; Practice Q5)*
 - I can find the size and direction of the force an ideal string exerts on an ideal pulley. *(Practice Q4)*
-- I can derive dT/dy = λg for a hanging string at rest from the forces on a small segment. *(Guide: Worked example 2; Practice Q6(a))*
+- I can derive dT/dy = λg for a hanging string at rest from the forces on a small segment. *(Guide: "Tension: a chain of third-law pairs"; Practice Q6(a))*
 - I can integrate dT/dy = λg, with the tension at the lower end as the starting value, to find tension anywhere in a hanging string, including one with varying λ. *(Practice Q3, Q6)*
 
 ## Reasoning

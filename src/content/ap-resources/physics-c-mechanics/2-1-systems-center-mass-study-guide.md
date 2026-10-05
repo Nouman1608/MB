@@ -137,7 +137,7 @@ The same idea works in two and three dimensions. With an **area density** σ (kg
 
 Once you have the center of mass, you can replace the whole system by a single particle of mass M placed there. This is the model behind every free-body diagram in the rest of the unit (Topic 2.2): the dot you draw stands for the center of mass.
 
-The model has limits. It tells you about the motion of the system **as a whole**. It does not tell you how the parts move relative to each other. A thrown spanner spins as it flies, and any point on its handle traces a looping path, but its center of mass follows a smooth parabola, like the projectiles of Topic 1.5. Why that happens is shown in Unit 4 with momentum; here, just notice that the parts and the whole behave differently.
+The model has limits. It tells you about the motion of the system **as a whole**. It does not tell you how the parts move relative to each other. A thrown spanner spins as it flies, and any point on its handle traces a looping path, but, with air resistance ignored, its center of mass follows a smooth parabola, like the projectiles of Topic 1.5. Why that happens is shown in Unit 4 with momentum; here, just notice that the parts and the whole behave differently.
 
 ## Worked example 1: an L-shaped bracket
 

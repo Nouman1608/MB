@@ -53,7 +53,7 @@ Take **+x to the right**. A spring with k = 250 N/m is fixed to a wall on its le
 **Answer: (C).** With the origin at the relaxed position, x = −0.040 m. F_s,x = −kx = −250 × (−0.040) = +10 N. A compressed spring pushes the block away from the wall, back towards the relaxed position.
 
 - (A) has the right size but the wrong direction. It points the force the way the block was pushed, not back towards the relaxed length.
-- (B) uses ½kx, which is not a force. (That kind of expression appears in Unit 3, in energy.)
+- (B) halves the force, as if mixing Hooke's law up with the spring energy expression ½kx² met in Unit 3. Hooke's law has no factor of ½.
 - (D) uses 4.0 instead of 0.040 m. With k in N/m, the compression must be in metres.
 </details>
 

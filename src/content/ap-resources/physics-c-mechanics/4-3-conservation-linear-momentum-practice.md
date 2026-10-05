@@ -140,7 +140,7 @@ Take **+x along a level track**. Cart A (0.50 kg) rolls towards cart B (0.75 kg)
 
 **(d)** Extend each line to t = 0.50 s. Before: 0.400 − 0.025 × 0.50 ≈ 0.388 kg·m/s. After: 0.384 + 0.0375 × 0.10 ≈ 0.388 kg·m/s. They agree, so **momentum is conserved across the collision**; the slow fall is due to friction, not the collision.
 
-**(e)** External impulse during contact ≈ 0.038 N × 0.020 s ≈ 7.5 × 10⁻⁴ N·s. That is about 0.2% of the 0.39 kg·m/s total, well below the precision of the data.
+**(e)** External impulse during contact ≈ 0.038 N × 0.020 s ≈ 7.5 × 10⁻⁴ N·s. That is only about 0.2% of the 0.39 kg·m/s total, and no bigger than one step in the last recorded digit of P (0.75 kg × 0.001 m/s ≈ 7.5 × 10⁻⁴ kg·m/s). So it is negligible.
 
 | Point | What earns it |
 |---|---|

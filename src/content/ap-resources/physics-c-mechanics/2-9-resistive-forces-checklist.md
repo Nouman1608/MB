@@ -38,7 +38,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can find the terminal velocity and the time constant τ = m/k from the forces. *(Guide: Worked example 2; Practice Q1)*
 - I can write Newton's second law as a differential equation, with signs that match my axis, for coasting, falling and rising objects. *(Guide: "Newton's second law becomes a differential equation"; Practice Q4(a))*
 - I can separate variables and integrate between matching limits to find v(t). *(Guide: "Separation of variables"; Practice Q4(b), Q5(b))*
-- I can find a(t) by differentiating v(t), and x(t) by integrating with the initial position, including the finite coasting distance mv₀/k. *(Guide: Worked example 1; Practice Q5(c))*
+- I can find a(t) by differentiating v(t), and x(t) by integrating with the initial position, including the finite coasting distance mv₀/k. *(Guide: Worked example 1; Practice Q5(c), Q6(d))*
 - I can find the time to reach a given speed using logarithms, such as the halving time τ ln 2. *(Guide: Worked example 1(c); Practice Q4(c))*
 
 ## Reasoning
