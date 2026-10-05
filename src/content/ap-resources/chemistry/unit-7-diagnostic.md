@@ -35,11 +35,11 @@ author: "marlbridge-academic-team"
 
 ## What this diagnostic is for
 
-Use this page to find **which Unit 7 topics to revisit**. There is one question per topic, and two for Topic 7.7. Answer every question before you open any answer, then use the table at the end.
+Use this page to find **which Unit 7 topics to revisit**. Answer every question before opening any answer, then use the table at the end.
 
-These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated, so your total gives no predicted score. Treat each wrong answer as a pointer to a topic.
+These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated, so your total gives no predicted score.
 
-**Calculator and data.** A scientific calculator is allowed. Concentrations are in M, partial pressures in atm; Q and K have no units. Every K value and lettered substance is invented. Systems are closed and at constant temperature unless stated.
+**Calculator and data.** A scientific calculator is allowed. Concentrations are in M, partial pressures in atm; Q and K have no units. Every K value and lettered substance is invented. Temperature is constant unless stated.
 
 ## Question 1 (multiple choice · 7.1)
 
@@ -53,11 +53,11 @@ A rigid, sealed flask starts with colourless gas A, which forms brown gas B: A(g
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** At equilibrium amounts stop changing; they need not be equal. One reading cannot show that nothing is changing.
+**Answer: (C).** Equilibrium amounts are constant, not equal. One reading cannot show that nothing is changing.
 
-- (A) A constant colour means a constant amount of B: evidence of equilibrium.
-- (B) Each A gives two B, so the total pressure changes until there is no net reaction.
-- (D) A partial pressure that stays constant is the direct sign of equilibrium.
+- (A) A constant colour means a constant amount of B.
+- (B) Each A gives two B, so a constant total pressure means no net reaction.
+- (D) A constant partial pressure is direct evidence.
 
 **If you missed this:** read the [Topic 7.1 study guide](/advanced-course-resources/chemistry/7-1-introduction-equilibrium-study-guide/).
 </details>
@@ -74,11 +74,11 @@ A sealed flask starts with only C, the product of the reversible reaction A + B 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The forward rate starts at zero and the reverse rate at its largest. As C is used up the reverse rate falls and the forward rate rises, until they meet.
+**Answer: (A).** The forward rate starts at zero. As C is used up, the reverse rate falls and the forward rate rises until they meet.
 
-- (B) Direction depends on which rate is larger.
-- (C) Equal rates **is** equilibrium, so concentrations stop changing.
-- (D) The reverse rate depends on [C], which is falling.
+- (B) The larger rate sets the direction.
+- (C) Equal rates **is** equilibrium.
+- (D) [C] is falling, so the reverse rate falls.
 
 **If you missed this:** read the [Topic 7.2 study guide](/advanced-course-resources/chemistry/7-2-direction-reversible-reactions-study-guide/).
 </details>
@@ -102,7 +102,7 @@ Which is the expression for Kc?
 **Answer: (A).** Products over reactants, each raised to its coefficient. The solids Zn and Ag are left out.
 
 - (B) includes the solids.
-- (C) multiplies by the coefficient instead of using it as a power.
+- (C) multiplies by the coefficient instead of raising to it.
 - (D) is the expression for the reverse reaction.
 
 **If you missed this:** read the [Topic 7.3 study guide](/advanced-course-resources/chemistry/7-3-reaction-quotient-equilibrium-constant-study-guide/).
@@ -129,7 +129,7 @@ P_G = 0.600 − 0.200 = **0.400 atm**; P_H = 0.900 − 0.400 = **0.500 atm**; P_
 
 **(b)** Kp = P_GH₂ / (P_G × P_H²) = 0.200 ÷ (0.400 × 0.500²) = 0.200 ÷ 0.100 = **2.00**.
 
-**(c)** **No.** K depends only on temperature. The new pressures will still give Kp = 2.00.
+**(c)** **No.** K depends only on temperature, so the new pressures still give Kp = 2.00.
 
 Common slip: not squaring P_H (gives 1.00).
 
@@ -150,9 +150,9 @@ For X(g) ⇌ Y(g), K = 5 × 10¹² at a fixed temperature. A flask starts with *
 
 **Answer: (B).** At equilibrium [X]/[Y] = 1/K = 2 × 10⁻¹³, whichever side you start from.
 
-- (A) The starting side sets the direction of change, not the final position.
+- (A) The starting side sets the direction, not the final position.
 - (C) Even a huge K never makes a concentration exactly zero.
-- (D) Equilibrium means constant, not equal, amounts.
+- (D) Equal amounts would need K = 1.
 
 **If you missed this:** read the [Topic 7.5 study guide](/advanced-course-resources/chemistry/7-5-magnitude-equilibrium-constant-study-guide/).
 </details>
@@ -216,9 +216,9 @@ For the fictional reaction R₂(g) ⇌ 2R(g), Kp = 2.0 × 10⁻⁶. A flask hold
 
 **(a)** Qp = (0.010)² ÷ 0.50 = **2.0 × 10⁻⁴**. Q > K, so the net reaction goes **in reverse**: R atoms combine to form R₂.
 
-**(b)** K is tiny, so nearly all the R recombines: P_R₂ ≈ 0.50 + 0.010 ÷ 2 = 0.505 atm (a 1% change, so the approximation holds).
+**(b)** K is tiny, so nearly all R recombines: P_R₂ ≈ 0.50 + 0.010 ÷ 2 = 0.505 atm (a 1% change, so the approximation is valid).
 
-P_R² = 2.0 × 10⁻⁶ × 0.505, so **P_R ≈ 1.0 × 10⁻³ atm**. The exact solution agrees.
+P_R² = 2.0 × 10⁻⁶ × 0.505, so **P_R ≈ 1.0 × 10⁻³ atm**.
 
 **If you missed this:** read Worked example 2 in the [Topic 7.7 study guide](/advanced-course-resources/chemistry/7-7-calculating-equilibrium-concentrations-study-guide/).
 </details>
@@ -235,11 +235,11 @@ For A₂(g) + B₂(g) ⇌ 2AB(g), an equilibrium box holds 1 A₂, 1 B₂ and 4 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** Two particles each side, so counts can replace concentrations. Box 1: K = 4² ÷ (1 × 1) = 16. Box 2: (AB)² = 16 × 1 × 4 = 64, so AB = 8.
+**Answer: (C).** Two particles each side, so counts can be used. Box 1: K = 4² ÷ (1 × 1) = 16. Box 2: (AB)² = 16 × 1 × 4 = 64, so AB = 8.
 
 - (A) gives Q = 1, far below K.
 - (B) copies box 1, ignoring the extra B₂.
-- (D) forgets to square the AB count.
+- (D) forgets to square AB in both boxes (K = 4, then AB = 4 × 1 × 4 = 16).
 
 **If you missed this:** read the [Topic 7.8 study guide](/advanced-course-resources/chemistry/7-8-representations-equilibrium-study-guide/).
 </details>
@@ -260,10 +260,10 @@ A few drops of NaOH solution are added to an orange sample. What is observed, an
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** OH⁻ removes H⁺ as water. Removing a reactant shifts the system left: more yellow chromate.
+**Answer: (A).** OH⁻ removes H⁺ as water. Removing a reactant shifts the system left, giving more yellow chromate.
 
 - (B) Water is the solvent, so it is not a stress.
-- (C) OH⁻ is not in the equation, but it removes H⁺, which is.
+- (C) OH⁻ is not in the equation, but it removes H⁺.
 - (D) Only temperature changes K.
 
 **If you missed this:** read the [Topic 7.9 study guide](/advanced-course-resources/chemistry/7-9-introduction-le-ch-teliers-principle-study-guide/).
@@ -333,26 +333,25 @@ The fictional 1:1 salt MX has K_sp = 4.0 × 10⁻¹⁰.
 
 ## Your next step
 
-Tick each question you got wrong or half right (a short answer counts as missed if any part was wrong).
+Tick each question you missed (any wrong part of a short answer counts).
 
 | Topic | Question(s) | If you missed it |
 |---|---|---|
 | 7.1 Introduction to Equilibrium | 1 | [Study guide](/advanced-course-resources/chemistry/7-1-introduction-equilibrium-study-guide/) |
 | 7.2 Direction of Reversible Reactions | 2 | [Study guide](/advanced-course-resources/chemistry/7-2-direction-reversible-reactions-study-guide/) |
-| 7.3 Reaction Quotient and Equilibrium Constant | 3 | [Study guide](/advanced-course-resources/chemistry/7-3-reaction-quotient-equilibrium-constant-study-guide/) |
+| 7.3 Q and K | 3 | [Study guide](/advanced-course-resources/chemistry/7-3-reaction-quotient-equilibrium-constant-study-guide/) |
 | 7.4 Calculating the Equilibrium Constant | 4 | [Study guide](/advanced-course-resources/chemistry/7-4-calculating-equilibrium-constant-study-guide/) |
 | 7.5 Magnitude of the Equilibrium Constant | 5 | [Study guide](/advanced-course-resources/chemistry/7-5-magnitude-equilibrium-constant-study-guide/) |
 | 7.6 Properties of the Equilibrium Constant | 6 | [Study guide](/advanced-course-resources/chemistry/7-6-properties-equilibrium-constant-study-guide/) |
 | 7.7 Calculating Equilibrium Concentrations | 7, 8 | [Study guide](/advanced-course-resources/chemistry/7-7-calculating-equilibrium-concentrations-study-guide/) |
 | 7.8 Representations of Equilibrium | 9 | [Study guide](/advanced-course-resources/chemistry/7-8-representations-equilibrium-study-guide/) |
-| 7.9 Introduction to Le Châtelier's Principle | 10 | [Study guide](/advanced-course-resources/chemistry/7-9-introduction-le-ch-teliers-principle-study-guide/) |
-| 7.10 Reaction Quotient and Le Châtelier's Principle | 11 | [Study guide](/advanced-course-resources/chemistry/7-10-reaction-quotient-le-ch-teliers-study-guide/) |
-| 7.11 Introduction to Solubility Equilibria | 12 | [Study guide](/advanced-course-resources/chemistry/7-11-introduction-solubility-equilibria-study-guide/) |
+| 7.9 Le Châtelier's Principle | 10 | [Study guide](/advanced-course-resources/chemistry/7-9-introduction-le-ch-teliers-principle-study-guide/) |
+| 7.10 Q and Le Châtelier's Principle | 11 | [Study guide](/advanced-course-resources/chemistry/7-10-reaction-quotient-le-ch-teliers-study-guide/) |
+| 7.11 Solubility Equilibria | 12 | [Study guide](/advanced-course-resources/chemistry/7-11-introduction-solubility-equilibria-study-guide/) |
 | 7.12 Common-Ion Effect | 13 | [Study guide](/advanced-course-resources/chemistry/7-12-common-ion-effect-study-guide/) |
 
 ## How to use your result
 
-- **Look at topics, not the total.**
-- **Read the explanation even when you were right.** If you guessed, count the question as missed.
-- **Fix gaps in order.** Topics 7.1 to 7.3 are the base; 7.4 to 7.8 build the calculations; 7.9 to 7.12 apply them to stresses and salts. Start with the earliest topic you missed.
-- **Then practise.** Try each topic's practice questions, then the [Unit 7 mixed review](/advanced-course-resources/chemistry/unit-7-review/), where questions combine topics.
+- **Look at topics, not the total.** Count a guess as a miss.
+- **Fix gaps in order**, starting with the earliest topic you missed: 7.1 to 7.3 are the base, 7.4 to 7.8 the calculations, 7.9 to 7.12 the applications.
+- **Then practise** each topic's questions, then try the [Unit 7 mixed review](/advanced-course-resources/chemistry/unit-7-review/).

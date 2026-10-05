@@ -35,9 +35,9 @@ author: "marlbridge-academic-team"
 
 ## What this diagnostic is for
 
-Use this page to find **which Unit 3 topics to revisit**. There is one question per topic, and two for Topic 3.1 (intermolecular forces), which most of the unit builds on. Answer every question before opening any answer.
+Use this page to find **which Unit 3 topics to revisit**. There is one question per topic, and two for Topic 3.1, which the rest of the unit builds on. Answer every question before opening any answer.
 
-These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated and give no predicted score: each wrong answer points to a topic, not a grade.
+These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated and give no predicted score: a wrong answer points to a topic, not a grade.
 
 **Calculator and data.** A scientific calculator is allowed. R = 0.08206 L atm mol⁻¹ K⁻¹; K = °C + 273.15; h = 6.626 × 10⁻³⁴ J s; c = 2.998 × 10⁸ m s⁻¹; N_A = 6.022 × 10²³ mol⁻¹. Molar masses: H 1.008, He 4.003, C 12.01 g mol⁻¹. Treat gases as ideal.
 
@@ -53,7 +53,7 @@ Between the molecules of which substance do **only** London dispersion forces ac
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** CO₂ is linear, so its two C=O bond dipoles cancel. The molecule is nonpolar: dispersion forces only.
+**Answer: (B).** CO₂ is linear, so its two C=O bond dipoles cancel: nonpolar, dispersion only.
 
 - (A) In CH₂Cl₂ the C–Cl and C–H dipoles do not cancel.
 - (C) H₂S is bent, so polar.
@@ -77,7 +77,7 @@ Which hydrogen halide has the highest boiling point?
 **Answer: (D).** Only HF molecules hydrogen bond (H on F). Boiling points: HF about 20 °C, HCl −85 °C, HBr −67 °C, HI −35 °C.
 
 - (A) is the "most electrons" trap. Dispersion explains HCl < HBr < HI, but hydrogen bonding in HF outweighs it.
-- (B) and (C) are polar, but have fewer electrons than HI and no hydrogen bonding.
+- (B) and (C) have fewer electrons than HI and no hydrogen bonding.
 
 **If you missed this:** read "Hydrogen bonding" in the [Topic 3.1 study guide](/advanced-course-resources/chemistry/3-1-intermolecular-interparticle-forces-study-guide/).
 </details>
@@ -94,7 +94,7 @@ Why does a crystal of an ionic solid shatter when struck with a hammer?
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** Each ion is surrounded by opposite charges. A small shift brings like charges face to face, and the repulsion splits the crystal.
+**Answer: (C).** Each ion is surrounded by opposite charges. A small shift brings like charges face to face, and they repel.
 
 - (A) An ionic solid has no molecules; it is held by ion–ion attractions.
 - (B) Ionic attractions are strong, which is why melting points are high.
@@ -105,7 +105,7 @@ Why does a crystal of an ionic solid shatter when struck with a hammer?
 
 ## Question 4 (multiple choice · 3.3)
 
-A gas can be squeezed into a much smaller volume, but a liquid hardly at all. Why?
+A gas can be squeezed into a much smaller volume, a liquid hardly at all. Why?
 
 - (A) Gas particles are far apart with empty space between them; liquid particles already touch.
 - (B) Gas particles are smaller than liquid particles of the same substance.
@@ -115,9 +115,9 @@ A gas can be squeezed into a much smaller volume, but a liquid hardly at all. Wh
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Compressing a gas removes empty space; touching liquid particles leave almost none.
+**Answer: (A).** Compressing a gas removes empty space; a liquid has almost none.
 
-- (B) They are the same molecules in both phases.
+- (B) The molecules are the same in both phases.
 - (C) Liquid molecules are held by intermolecular forces, not bonds between molecules.
 - (D) Speed does not set compressibility.
 
@@ -181,8 +181,7 @@ At very high pressure, a gas occupies a larger volume than the ideal gas law pre
 
 **Answer: (B).** Closely packed particles fill a real share of the space, so the sample needs more than the ideal volume.
 
-- (A) and (D) still hold well at high pressure.
-- (C) does not explain an oversized volume.
+- (A), (C) and (D) do not explain an oversized volume.
 
 **If you missed this:** read "Effect 2: particle volume raises the volume (or pressure)" in the [Topic 3.6 study guide](/advanced-course-resources/chemistry/3-6-deviation-ideal-gas-law-study-guide/).
 </details>
@@ -241,7 +240,7 @@ Propan-1-ol, CH₃CH₂CH₂OH, and its isomer methoxyethane, CH₃OCH₂CH₃, 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Propan-1-ol hydrogen bonds (O–H); methoxyethane has no H on O. Weaker attractions let more molecules escape, so the vapor is richer in methoxyethane.
+**Answer: (A).** Propan-1-ol hydrogen bonds (O–H); methoxyethane has no H on O. Its weaker attractions let more molecules escape, so the vapor is rich in it.
 
 - (B) Distillation separates whole molecules; no covalent bonds break.
 - (C) and (D) Both have 34 electrons and similar dispersion forces; hydrogen bonding makes the difference.
@@ -261,7 +260,7 @@ Ammonia, NH₃, and methane, CH₄, both have 10 electrons. Ammonia is very solu
 
 **(a)** (i) **Hydrogen bonding**: NH₃ donates (N–H) and accepts (lone pair on N). (ii) **Dipole–induced dipole**, since CH₄ is nonpolar.
 
-**(b)** Dissolving breaks some water–water hydrogen bonds. NH₃ replaces them with similar hydrogen bonds to water; CH₄ offers only much weaker attractions, so very little dissolves.
+**(b)** Dissolving breaks some water–water hydrogen bonds. NH₃ replaces them with similar hydrogen bonds to water; CH₄ offers only much weaker attractions, so little dissolves.
 
 **If you missed this:** read "Dissolving at the particle level" in the [Topic 3.10 study guide](/advanced-course-resources/chemistry/3-10-solubility-study-guide/).
 </details>
@@ -319,7 +318,7 @@ A student makes calibration standards from a dye stock solution that had partly 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** Each standard is plotted at its label but absorbs for its true, higher concentration, so the slope (εb) is too large and c = A ÷ slope is too low.
+**Answer: (C).** Each standard is plotted at its label but absorbs for its true, higher concentration, so the slope (εb) is too large and c = A ÷ slope too low.
 
 - (A) A calibration curve is only as good as its standards.
 - (B) gets the direction wrong.
@@ -332,22 +331,22 @@ A student makes calibration standards from a dye stock solution that had partly 
 
 | Topic | Question(s) | If you missed it, read |
 |---|---|---|
-| 3.1 Intermolecular and Interparticle Forces | 1, 2 | [3.1 study guide](/advanced-course-resources/chemistry/3-1-intermolecular-interparticle-forces-study-guide/) |
+| 3.1 Intermolecular forces | 1, 2 | [3.1 study guide](/advanced-course-resources/chemistry/3-1-intermolecular-interparticle-forces-study-guide/) |
 | 3.2 Properties of Solids | 3 | [3.2 study guide](/advanced-course-resources/chemistry/3-2-properties-solids-study-guide/) |
-| 3.3 Solids, Liquids, and Gases | 4 | [3.3 study guide](/advanced-course-resources/chemistry/3-3-solids-liquids-gases-study-guide/) |
+| 3.3 Solids, liquids, gases | 4 | [3.3 study guide](/advanced-course-resources/chemistry/3-3-solids-liquids-gases-study-guide/) |
 | 3.4 Ideal Gas Law | 5 | [3.4 study guide](/advanced-course-resources/chemistry/3-4-ideal-gas-law-study-guide/) |
 | 3.5 Kinetic Molecular Theory | 6 | [3.5 study guide](/advanced-course-resources/chemistry/3-5-kinetic-molecular-theory-study-guide/) |
-| 3.6 Deviation from Ideal Gas Law | 7 | [3.6 study guide](/advanced-course-resources/chemistry/3-6-deviation-ideal-gas-law-study-guide/) |
+| 3.6 Non-ideal gases | 7 | [3.6 study guide](/advanced-course-resources/chemistry/3-6-deviation-ideal-gas-law-study-guide/) |
 | 3.7 Solutions and Mixtures | 8 | [3.7 study guide](/advanced-course-resources/chemistry/3-7-solutions-mixtures-study-guide/) |
-| 3.8 Representations of Solutions | 9 | [3.8 study guide](/advanced-course-resources/chemistry/3-8-representations-solutions-study-guide/) |
-| 3.9 Separation of Solutions and Mixtures | 10 | [3.9 study guide](/advanced-course-resources/chemistry/3-9-separation-solutions-mixtures-study-guide/) |
+| 3.8 Representing solutions | 9 | [3.8 study guide](/advanced-course-resources/chemistry/3-8-representations-solutions-study-guide/) |
+| 3.9 Separation | 10 | [3.9 study guide](/advanced-course-resources/chemistry/3-9-separation-solutions-mixtures-study-guide/) |
 | 3.10 Solubility | 11 | [3.10 study guide](/advanced-course-resources/chemistry/3-10-solubility-study-guide/) |
-| 3.11 Spectroscopy and the Electromagnetic Spectrum | 12 | [3.11 study guide](/advanced-course-resources/chemistry/3-11-spectroscopy-electromagnetic-spectrum-study-guide/) |
-| 3.12 Properties of Photons | 13 | [3.12 study guide](/advanced-course-resources/chemistry/3-12-properties-photons-study-guide/) |
+| 3.11 Spectroscopy | 12 | [3.11 study guide](/advanced-course-resources/chemistry/3-11-spectroscopy-electromagnetic-spectrum-study-guide/) |
+| 3.12 Photons | 13 | [3.12 study guide](/advanced-course-resources/chemistry/3-12-properties-photons-study-guide/) |
 | 3.13 Beer-Lambert Law | 14 | [3.13 study guide](/advanced-course-resources/chemistry/3-13-beer-lambert-law-study-guide/) |
 
 ## How to use your result
 
 - **Look at topics, not the total.** Count a guess as a miss.
-- **Fix gaps in order.** Topic 3.1 feeds 3.2, 3.9 and 3.10; 3.4 feeds 3.5 and 3.6; 3.7 feeds 3.8 and 3.13; 3.11 feeds 3.12. Start with the earliest topic you missed in each chain.
-- **Then practise.** After each study guide, try that topic's practice questions, then the [Unit 3 mixed review](/advanced-course-resources/chemistry/unit-3-review/), where every question combines topics.
+- **Fix gaps in order.** Topic 3.1 feeds 3.2, 3.9 and 3.10; 3.4 feeds 3.5 and 3.6; 3.7 feeds 3.8 and 3.13; 3.11 feeds 3.12. Start with the earliest topic you missed.
+- **Then practise.** Try that topic's practice questions, then the [Unit 3 mixed review](/advanced-course-resources/chemistry/unit-3-review/), where every question combines topics.

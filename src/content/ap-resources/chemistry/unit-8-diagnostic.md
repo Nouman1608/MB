@@ -35,9 +35,9 @@ author: "marlbridge-academic-team"
 
 ## What this diagnostic is for
 
-Use this page to find **which Unit 8 topics to revisit**: one question per topic, two for the larger Topics 8.3 and 8.5. Answer all of them before opening any answer, then use the table at the end.
+Use this page to find **which Unit 8 topics to revisit**. Answer every question before opening any answer, then use the table at the end.
 
-These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated, so your total gives no predicted score. Treat a wrong answer as a pointer to a topic, not a grade.
+These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated, so your total gives no predicted score.
 
 **Calculator and data.** Scientific calculator allowed. Data are at 25 °C (K_w = 1.0 × 10⁻¹⁴, pH + pOH = 14.00) unless a question says otherwise. Lettered acids and bases are fictional and monoprotic. Volumes add on mixing.
 
@@ -55,7 +55,7 @@ At a temperature where pK_w = 13.60, a solution has pH 6.95. Which statement is 
 
 **Answer: (C).** Neutral means [H₃O⁺] = [OH⁻], so here neutral pH = pK_w ÷ 2 = 6.80. pOH = 6.65, so [OH⁻] = 2.2 × 10⁻⁷ M exceeds [H₃O⁺] = 1.1 × 10⁻⁷ M.
 
-- (A) pH 7 is the dividing line only when pK_w = 14.00.
+- (A) pH 7 divides only when pK_w = 14.00.
 - (B) Neutral means equal ion concentrations, not "close to 7".
 - (D) pK_w and pH already give [OH⁻].
 
@@ -76,8 +76,8 @@ Which solution has the **highest** pH?
 
 **Answer: (D).** Each is a strong base; a group 2 hydroxide gives two OH⁻ per formula unit. [OH⁻]: (A) 0.010 M, (B) 0.0080 M, (C) 0.012 M, (D) 0.014 M, giving pH 12.00, 11.90, 12.08 and 12.15.
 
-- (A) and (B) give the least OH⁻.
-- (C) has the largest **formula** concentration, but only one OH⁻ per unit.
+- (A), (B) give less OH⁻.
+- (C) has the largest **formula** concentration, but one OH⁻ per unit.
 
 **If you missed this:** read "Strong bases" in the [Topic 8.2 study guide](/advanced-course-resources/chemistry/8-2-ph-poh-strong-acids-bases-study-guide/).
 </details>
@@ -134,7 +134,7 @@ The weak base D has pK_b = 4.30.
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** React first: 2.00 × 10⁻³ mol HK and 2.50 × 10⁻³ mol OH⁻ leave 5.0 × 10⁻⁴ mol OH⁻ in 45.0 mL. [OH⁻] = 0.0111 M, pOH = 1.95, pH = 12.05. 
+**Answer: (C).** React first: 2.00 × 10⁻³ mol HK and 2.50 × 10⁻³ mol OH⁻ leave 5.0 × 10⁻⁴ mol OH⁻ in 45.0 mL. [OH⁻] = 0.0111 M, pOH = 1.95, pH = 12.05.
 
 - (A) assumes a buffer, but no HK is left.
 - (B) ignores the excess OH⁻ and uses K⁻ alone.
@@ -166,7 +166,7 @@ The weak base D has pK_b = 4.30.
 
 ## Question 7 (short answer · 8.5)
 
-Two 20.00 mL samples of the weak acid HE (pK_a = 5.00) are titrated: sample 1 is 0.100 M HE with 0.100 M NaOH; sample 2 is 0.0100 M HE with 0.0100 M NaOH.
+Two 20.00 mL samples of the weak acid HE (pK_a = 5.20) are titrated: sample 1 is 0.100 M HE with 0.100 M NaOH; sample 2 is 0.0100 M HE with 0.0100 M NaOH.
 
 (a) Compare the equivalence volumes and the pH values at the half-equivalence points.
 (b) Calculate the pH at each equivalence point and explain the difference.
@@ -174,14 +174,14 @@ Two 20.00 mL samples of the weak acid HE (pK_a = 5.00) are titrated: sample 1 is
 <details>
 <summary>Worked answer</summary>
 
-**(a)** Both need **20.00 mL**: base and acid have equal concentrations. Both half-equivalence points (10.00 mL) have **pH 5.00**, because pH = pK_a whenever [HE] = [E⁻], at any concentration.
+**(a)** Both need **20.00 mL**: base and acid have equal concentrations. Both half-equivalence points (10.00 mL) have **pH 5.20**, because pH = pK_a whenever [HE] = [E⁻], at any concentration.
 
-**(b)** Only E⁻ is left, in 40.00 mL. K_b = K_w ÷ K_a = 1.0 × 10⁻⁹.
+**(b)** Only E⁻ is left, in 40.00 mL. K_b = K_w ÷ K_a = 1.6 × 10⁻⁹.
 
-- Sample 1: [E⁻] = 0.0500 M; [OH⁻] = √(1.0 × 10⁻⁹ × 0.0500) = 7.1 × 10⁻⁶ M; **pH = 8.85**.
-- Sample 2: [E⁻] = 0.00500 M; [OH⁻] = 2.2 × 10⁻⁶ M; **pH = 8.35**.
+- Sample 1: [E⁻] = 0.0500 M; [OH⁻] = √(1.6 × 10⁻⁹ × 0.0500) = 8.9 × 10⁻⁶ M; **pH = 8.95**.
+- Sample 2: [E⁻] = 0.00500 M; [OH⁻] = 2.8 × 10⁻⁶ M; **pH = 8.45**.
 
-E⁻ takes protons from water, so both are basic; sample 2's E⁻ is ten times more dilute, so it makes less OH⁻.
+E⁻ takes protons from water, so both are basic; sample 2's E⁻ is ten times more dilute, so makes less OH⁻.
 
 **If you missed this:** read "What sets the pH at the equivalence point" in the [Topic 8.5 study guide](/advanced-course-resources/chemistry/8-5-acid-base-titrations-study-guide/).
 </details>
@@ -221,7 +221,7 @@ The weak acid HD (pK_a = 4.4) is added in small amounts to a solution held at pH
 
 **Answer: (A).** [D⁻]/[HD] = 10^(pH − pK_a): 10⁻³ at pH 1.4, 10³ at pH 7.4.
 
-- (B) "Mostly un-ionized" is true of a weak acid on its own; here other substances hold the pH.
+- (B) "Mostly un-ionized" applies to a weak acid alone, not at a fixed pH.
 - (C) reverses the rule: pH < pK_a favours the protonated form.
 - (D) The forms are equal at pH = pK_a (4.4), not pH 7.
 
@@ -241,7 +241,7 @@ A buffer contains 0.080 mol NaHCO₃ and 0.050 mol Na₂CO₃.
 
 **(a)** The pair is HCO₃⁻ / CO₃²⁻: **HCO₃⁻ is the acid member** (it has the extra proton) and **CO₃²⁻ the base member**. Na⁺ is a spectator.
 
-**(b)** **CO₃²⁻(aq) + H₃O⁺(aq) → HCO₃⁻(aq) + H₂O(l)**. Afterwards: CO₃²⁻ **0.030 mol**, HCO₃⁻ **0.100 mol**. Both remain, so the pH falls only slightly.
+**(b)** **CO₃²⁻(aq) + H₃O⁺(aq) → HCO₃⁻(aq) + H₂O(l)**. Afterwards: CO₃²⁻ **0.030 mol**, HCO₃⁻ **0.100 mol**. Both remain, so pH falls only slightly.
 
 **(c)** **HCO₃⁻(aq) + OH⁻(aq) → CO₃²⁻(aq) + H₂O(l)**
 
@@ -285,7 +285,7 @@ A buffer made from the weak acid HL (pK_a = 5.10) and its salt NaL has pH 5.40. 
 
 - (B) pH above pK_a means more of the **base** form.
 - (C) Total concentration sets overall capacity; the ratio sets which direction is stronger.
-- (D) Volume scales both directions equally.
+- (D) Volume scales both directions alike.
 
 **If you missed this:** read "Unequal amounts: capacity is lopsided" in the [Topic 8.10 study guide](/advanced-course-resources/chemistry/8-10-buffer-capacity-study-guide/).
 </details>
@@ -312,7 +312,7 @@ Calcium oxalate, CaC₂O₄, is slightly soluble; oxalic acid is a weak acid. Wh
 
 ## Your next step
 
-Tick the questions you got wrong or half right (a short answer counts as missed if any part was wrong).
+A short answer counts as missed if any part was wrong.
 
 | Topic | Question(s) | If you missed it, read |
 |---|---|---|
@@ -330,6 +330,6 @@ Tick the questions you got wrong or half right (a short answer counts as missed 
 
 ## How to use your result
 
-- **Look at topics, not the total.** If you guessed, count the question as missed.
-- **Fix gaps in order.** Topics 8.1 to 8.3 (pH, K_w, K_a, K_b) support everything else. Topics 8.4 and 8.5 add "react first, then equilibrium". Topics 8.7 to 8.11 use pH against pK_a. Start with the earliest topic you missed.
+- **Look at topics, not the total.** Count a guess as missed.
+- **Fix gaps in order.** Topics 8.1 to 8.3 support everything else; Topics 8.4 and 8.5 add "react first, then equilibrium"; Topics 8.7 to 8.11 compare pH with pK_a. Start with the earliest topic you missed.
 - **Then practise.** After each study guide, try that topic's practice questions, then the [Unit 8 mixed review](/advanced-course-resources/chemistry/unit-8-review/), where each question combines topics.

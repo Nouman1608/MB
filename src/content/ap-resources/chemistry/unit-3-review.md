@@ -37,7 +37,7 @@ author: "marlbridge-academic-team"
 
 ## How to use this review
 
-Use this page after the [Unit 3 diagnostic](/advanced-course-resources/chemistry/unit-3-diagnostic/) and any topics it flagged. Answer all seven questions on paper before opening any answer. Each combines two or more topics.
+Use this page after the [Unit 3 diagnostic](/advanced-course-resources/chemistry/unit-3-diagnostic/) and any topics it flagged. Answer all seven questions, each combining two or more topics, before opening any answer.
 
 These are **original Marlbridge practice questions**, not past exam questions. Liquid L and the salt Na₂J are fictional, with invented data. Each rubric is a **suggested Marlbridge rubric**, not official scoring, and your total gives no predicted score.
 
@@ -46,10 +46,10 @@ These are **original Marlbridge practice questions**, not past exam questions. L
 ## Big ideas of the unit
 
 - **Forces between particles are not bonds.** Dispersion, dipole–dipole, hydrogen bonding and ion–dipole forces are Coulombic attractions between particles ([Topic 3.1](/advanced-course-resources/chemistry/3-1-intermolecular-interparticle-forces-study-guide/)).
-- **Properties follow from the particles and their forces.** Boiling overcomes the forces fully, so boiling point and vapor pressure track force strength; the four kinds of solid differ because their particles differ ([Topic 3.2](/advanced-course-resources/chemistry/3-2-properties-solids-study-guide/)).
+- **Properties follow from the particles and their forces.** Boiling point and vapor pressure track force strength; the four kinds of solid differ because their particles differ ([Topic 3.2](/advanced-course-resources/chemistry/3-2-properties-solids-study-guide/)).
 - **Phases differ in spacing and motion, not in the particles.** Solids and liquids touch, so their molar volumes are similar; gas particles are far apart ([Topic 3.3](/advanced-course-resources/chemistry/3-3-solids-liquids-gases-study-guide/)).
 - **An ideal gas obeys PV = nRT, and each gas in a mixture acts alone.** Partial pressure is proportional to mole fraction ([Topic 3.4](/advanced-course-resources/chemistry/3-4-ideal-gas-law-study-guide/)).
-- **Kelvin temperature measures average kinetic energy.** Same temperature means same average KE, so lighter particles move faster; pressure comes from collisions ([Topic 3.5](/advanced-course-resources/chemistry/3-5-kinetic-molecular-theory-study-guide/)).
+- **Kelvin temperature measures average kinetic energy.** At the same temperature lighter particles move faster; pressure comes from collisions ([Topic 3.5](/advanced-course-resources/chemistry/3-5-kinetic-molecular-theory-study-guide/)).
 - **Real gases fail the model where Topic 3.1 matters.** Attractions lower PV/nRT near condensation; particle volume raises it at very high pressure ([Topic 3.6](/advanced-course-resources/chemistry/3-6-deviation-ideal-gas-law-study-guide/)).
 - **Solutions are counted in moles per litre of solution.** Ions are counted separately, and dilution conserves moles ([Topic 3.7](/advanced-course-resources/chemistry/3-7-solutions-mixtures-study-guide/)), which a correct particle diagram shows ([Topic 3.8](/advanced-course-resources/chemistry/3-8-representations-solutions-study-guide/)).
 - **Separation and solubility both compare attractions.** Chromatography and distillation exploit differences in forces ([Topic 3.9](/advanced-course-resources/chemistry/3-9-separation-solutions-mixtures-study-guide/)); a solute dissolves when the new attractions can replace the ones broken ([Topic 3.10](/advanced-course-resources/chemistry/3-10-solubility-study-guide/)).
@@ -59,7 +59,7 @@ These are **original Marlbridge practice questions**, not past exam questions. L
 
 | Idea | Relationship or method | Topic |
 |---|---|---|
-| Comparing forces | Name every force for each species; more electrons → stronger dispersion; H on N, O or F → hydrogen bonding | 3.1 |
+| Comparing forces | more electrons → stronger dispersion; H on N, O or F → hydrogen bonding | 3.1 |
 | Boiling and vapor pressure | stronger forces → higher boiling point, lower vapor pressure | 3.2 |
 | Molar volume | V_m = M ÷ density; solid ≈ liquid ≪ gas | 3.3 |
 | Ideal gas | PV = nRT (T in K); P_A = X_A × P_total; P_total = P_A + P_B + … | 3.4 |
@@ -82,9 +82,9 @@ Two identical rigid flasks are at 300 K. One holds 1.00 mol of helium; the other
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** Same Kelvin temperature means same average KE (Topic 3.5), so the lighter He atoms move faster. PV = nRT predicts equal pressures (Topic 3.4), but polar, electron-rich SO₂ molecules attract each other, softening their wall collisions and lowering the pressure a little (Topic 3.6).
+**Answer: (B).** Same Kelvin temperature means same average KE (Topic 3.5), so the lighter He atoms move faster. PV = nRT predicts equal pressures (Topic 3.4), but polar SO₂ molecules attract each other, softening their wall collisions and lowering the pressure a little (Topic 3.6).
 
-- (A) forgets that equal KE with different masses means different speeds, and that SO₂ deviates more.
+- (A) ignores the mass difference and SO₂'s non-ideal behaviour.
 - (C) Average KE depends only on temperature.
 - (D) PV = nRT already accounts for speed; helium is nearly ideal.
 </details>
@@ -103,8 +103,8 @@ A blue complex ion has an electronic energy gap of 3.31 × 10⁻¹⁹ J, and ε 
 
 **Answer: (D).** The absorbed photon's energy equals the gap (Topics 3.11, 3.12): λ = hc/E = (6.626 × 10⁻³⁴ × 2.998 × 10⁸) ÷ 3.31 × 10⁻¹⁹ = 6.00 × 10⁻⁷ m = 600 nm, visible, as an electronic transition should be. Then c = A ÷ (εb) = 0.450 ÷ 5.00 × 10³ = 9.00 × 10⁻⁵ M (Topic 3.13).
 
-- (A) is the wavelength of the blue colour you see. A blue solution looks blue because it absorbs orange light; the absorbed wavelength is the one that matches the gap.
-- (B) inverts the rearrangement (ε ÷ A); the result is not even in M.
+- (A) is the blue colour you see. A blue solution absorbs orange light; the absorbed wavelength matches the gap.
+- (B) inverts the rearrangement (ε ÷ A).
 - (C) doubles the energy; 300 nm photons do not match this gap.
 </details>
 
@@ -124,7 +124,7 @@ Which liquid is miscible with water **and** has a lower vapor pressure than wate
 
 - (A) Nonpolar hexane does not mix with water, and its weak forces give a high vapor pressure.
 - (B) Ethanol mixes, but its vapor pressure is higher than water's.
-- (D) Octane's large electron cloud does give a lower vapor pressure, but it is nonpolar and does not mix.
+- (D) Octane does have a lower vapor pressure, but it is nonpolar and does not mix.
 </details>
 
 ## Question 4 (constructed response · mixed)
@@ -146,9 +146,9 @@ A student finds the molar mass of a volatile liquid L (invented data), which boi
 
 **(c)** (61.85 − 60.10) ÷ 60.10 × 100 = **2.9% too high**.
 
-**(d)** At only 8 °C above its boiling point, the vapor is close to condensing. The molecules move relatively slowly, so attractions between them soften their wall collisions. To reach 1.00 atm the flask must hold **more** molecules than PV/RT predicts (truly 0.505 ÷ 60.10 = 8.40 × 10⁻³ mol). Their mass is all weighed, but it is divided by the smaller ideal amount, so M is too high.
+**(d)** Only 8 °C above its boiling point, the vapor is close to condensing, and attractions between the slow molecules soften their wall collisions. To reach 1.00 atm the flask must hold **more** molecules than PV/RT predicts (truly 0.505 ÷ 60.10 = 8.40 × 10⁻³ mol). Their whole mass is divided by the smaller ideal amount, so M is too high.
 
-**(e)** **Closer.** Faster molecules (greater average KE) are less affected by brief attractions, so the vapor behaves more ideally and PV/RT gives nearly the true amount.
+**(e)** **Closer.** Faster molecules (greater average KE) are less affected by brief attractions, so the vapor behaves more ideally.
 
 | Point | What earns it |
 |---|---|
@@ -159,7 +159,7 @@ A student finds the molar mass of a volatile liquid L (invented data), which boi
 | 1 | (d) More molecules (more mass) than PV/RT predicts, so M too high |
 | 1 | (e) Closer, because greater average KE makes attractions matter less |
 
-**Total: 6 points.** Using 100.0 instead of 373.15 K gives 16.6 g mol⁻¹: always check that an answer is sensible.
+**Total: 6 points.** Using 100.0 instead of 373.15 K gives an absurd 16.6 g mol⁻¹.
 </details>
 
 ## Question 5 (constructed response · mixed)
@@ -187,7 +187,7 @@ Find ε for J²⁻, and the concentration of an unknown with A = 0.410.
 
 **(c)** A ÷ c is nearly constant (1577 to 1585), so **ε = 1.58 × 10³ M⁻¹ cm⁻¹**. Unknown: c = 0.410 ÷ 1.58 × 10³ = **2.59 × 10⁻⁴ M**.
 
-**(d)** Dilution adds only water: still **4 J²⁻ and 8 Na⁺**, spread through a larger volume. Water points its **O atoms** (δ−) towards Na⁺ and its **H atoms** (δ+) towards J²⁻. The ions are drawn separately.
+**(d)** Dilution adds only water: still **4 J²⁻ and 8 Na⁺**, spread through a larger volume. Water points its **O atoms** (δ−) towards Na⁺ and its **H atoms** (δ+) towards J²⁻.
 
 **(e)** **Too high.** Every standard is more dilute than its label, so each reads low, the slope (εb) is too small, and c = A ÷ slope is too large.
 
@@ -257,16 +257,16 @@ A rigid 1.00 L quartz flask holds chlorine, Cl₂, at 25.0 °C and 0.500 atm. It
 
 **(b)** E = hc/λ = (6.626 × 10⁻³⁴ × 2.998 × 10⁸) ÷ 3.30 × 10⁻⁷ = **6.02 × 10⁻¹⁹ J**; × N_A = **363 kJ mol⁻¹**. UV causes an **electronic transition**; here the excited molecule falls apart.
 
-**(c)** One bond: 242 000 ÷ 6.022 × 10²³ = 4.02 × 10⁻¹⁹ J, so λ = hc/E = **494 nm**. Longer wavelengths carry too little energy per photon, however bright the light.
+**(c)** One bond: 242 000 ÷ 6.022 × 10²³ = 4.02 × 10⁻¹⁹ J, so λ = hc/E = **494 nm**. Longer wavelengths carry too little energy per photon, however bright.
 
 **(d)** For each 1 mol of Cl₂: 0.900 mol remains and 0.200 mol Cl forms, 1.100 mol in all. At constant V and T, P ∝ n: **P = 0.550 atm**. P(Cl) = (0.200 ÷ 1.100) × 0.550 = **0.100 atm**.
 
-**(e)** At the same temperature the average KE per particle is unchanged, but there are more particles, so more wall collisions each second and a higher pressure. Equal KE with half the mass makes Cl atoms faster by **√2 ≈ 1.41**.
+**(e)** At the same temperature the average KE per particle is unchanged, but more particles make more wall collisions each second. Equal KE with half the mass makes Cl atoms faster by **√2 ≈ 1.41**.
 
 | Point | What earns it |
 |---|---|
 | 1 | (a) 0.0204 mol |
-| 1 | (b) 6.02 × 10⁻¹⁹ J and 363 kJ mol⁻¹ |
+| 1 | (b) 6.02 × 10⁻¹⁹ J and 363 kJ mol⁻¹ (accept 362) |
 | 1 | (b) Electronic transition |
 | 1 | (c) 494 nm, from the energy of one bond |
 | 1 | (d) 0.550 atm |
@@ -278,26 +278,12 @@ A rigid 1.00 L quartz flask holds chlorine, Cl₂, at 25.0 °C and 0.500 atm. It
 
 ## How did you do?
 
-Total: 30 points (3 multiple choice, 27 constructed response). Where you lost points matters more.
+Total: 30 points (3 multiple choice, 27 constructed response). Where you lost points matters more than the total.
 
 - **Naming or comparing forces (Questions 3, 6):** revisit Topics 3.1, 3.2, 3.9 and 3.10.
 - **Gas calculations and the particle model (Questions 1, 4, 7):** revisit Topics 3.3 to 3.6.
 - **Solutions and diagrams (Question 5):** revisit Topics 3.7 and 3.8.
 - **Light and absorbance (Questions 2, 5, 7):** revisit Topics 3.11 to 3.13.
-- **Explanations marked down:** name the particles, the specific force and which way it pushes the result.
+- **Explanations marked down:** name the particles, the force and which way it pushes the result.
 
-If several topics were weak, return to the [Unit 3 diagnostic](/advanced-course-resources/chemistry/unit-3-diagnostic/). Then tick off each topic checklist:
-
-- [Topic 3.1 checklist](/advanced-course-resources/chemistry/3-1-intermolecular-interparticle-forces-checklist/)
-- [Topic 3.2 checklist](/advanced-course-resources/chemistry/3-2-properties-solids-checklist/)
-- [Topic 3.3 checklist](/advanced-course-resources/chemistry/3-3-solids-liquids-gases-checklist/)
-- [Topic 3.4 checklist](/advanced-course-resources/chemistry/3-4-ideal-gas-law-checklist/)
-- [Topic 3.5 checklist](/advanced-course-resources/chemistry/3-5-kinetic-molecular-theory-checklist/)
-- [Topic 3.6 checklist](/advanced-course-resources/chemistry/3-6-deviation-ideal-gas-law-checklist/)
-- [Topic 3.7 checklist](/advanced-course-resources/chemistry/3-7-solutions-mixtures-checklist/)
-- [Topic 3.8 checklist](/advanced-course-resources/chemistry/3-8-representations-solutions-checklist/)
-- [Topic 3.9 checklist](/advanced-course-resources/chemistry/3-9-separation-solutions-mixtures-checklist/)
-- [Topic 3.10 checklist](/advanced-course-resources/chemistry/3-10-solubility-checklist/)
-- [Topic 3.11 checklist](/advanced-course-resources/chemistry/3-11-spectroscopy-electromagnetic-spectrum-checklist/)
-- [Topic 3.12 checklist](/advanced-course-resources/chemistry/3-12-properties-photons-checklist/)
-- [Topic 3.13 checklist](/advanced-course-resources/chemistry/3-13-beer-lambert-law-checklist/)
+If several topics were weak, return to the [Unit 3 diagnostic](/advanced-course-resources/chemistry/unit-3-diagnostic/). Then tick off each topic checklist: [3.1](/advanced-course-resources/chemistry/3-1-intermolecular-interparticle-forces-checklist/), [3.2](/advanced-course-resources/chemistry/3-2-properties-solids-checklist/), [3.3](/advanced-course-resources/chemistry/3-3-solids-liquids-gases-checklist/), [3.4](/advanced-course-resources/chemistry/3-4-ideal-gas-law-checklist/), [3.5](/advanced-course-resources/chemistry/3-5-kinetic-molecular-theory-checklist/), [3.6](/advanced-course-resources/chemistry/3-6-deviation-ideal-gas-law-checklist/), [3.7](/advanced-course-resources/chemistry/3-7-solutions-mixtures-checklist/), [3.8](/advanced-course-resources/chemistry/3-8-representations-solutions-checklist/), [3.9](/advanced-course-resources/chemistry/3-9-separation-solutions-mixtures-checklist/), [3.10](/advanced-course-resources/chemistry/3-10-solubility-checklist/), [3.11](/advanced-course-resources/chemistry/3-11-spectroscopy-electromagnetic-spectrum-checklist/), [3.12](/advanced-course-resources/chemistry/3-12-properties-photons-checklist/), [3.13](/advanced-course-resources/chemistry/3-13-beer-lambert-law-checklist/).

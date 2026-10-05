@@ -35,9 +35,9 @@ author: "marlbridge-academic-team"
 
 ## What this diagnostic is for
 
-Use this page to find **which Unit 2 topics to revisit**. There is one question per topic, and two for Topics 2.5 and 2.7. Answer every question before opening any answer, then use the table at the end.
+Use this page to find **which Unit 2 topics to revisit**: one question per topic, two for Topics 2.5 and 2.7. Answer every question before opening any answer, then use the table at the end.
 
-These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated, so your total gives no predicted score. Treat each wrong answer as a pointer to a topic, not as a grade.
+These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated, so your total gives no predicted score. Each wrong answer points to a topic; it is not a grade.
 
 **Calculator and data.** No calculator is needed. Pauling electronegativities (no unit): H 2.20, C 2.55, N 3.04, O 3.44, Si 1.90, S 2.58. Ionic radii: Na⁺ 102 pm, O²⁻ 140 pm. Use a periodic table for valence electrons.
 
@@ -55,8 +55,7 @@ In which bond does the **hydrogen** atom carry the partial negative charge (δ�
 
 **Answer: (A).** The more electronegative atom in a bond carries δ−. Silicon (1.90) is **less** electronegative than hydrogen (2.20), so the shared pair is pulled slightly towards hydrogen: Si(δ+)–H(δ−).
 
-- (B) Carbon (2.55) is slightly more electronegative than hydrogen, so carbon is very slightly δ− (C–H is treated as effectively nonpolar).
-- (C) Sulfur (2.58) is also more electronegative than hydrogen, so H is δ+.
+- (B) and (C) Carbon (2.55) and sulfur (2.58) are both more electronegative than hydrogen, so H is δ+ (C–H is usually treated as nonpolar).
 - (D) N–H is the most polar of the four, but N is δ−. The question asks about direction, not size.
 
 **If you missed this:** read "Electronegativity and its trends" and "Polar covalent bonds" in the [Topic 2.1 study guide](/advanced-course-resources/chemistry/2-1-types-chemical-bonds-study-guide/).
@@ -74,11 +73,11 @@ The potential energy curve for the H–Cl bond has its minimum at a certain dist
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Bromine is one period below chlorine, so it has one more occupied shell and a larger core. The two nuclei cannot get as close, so the bond is longer: the minimum moves **right**. The shared pair is further from the bromine nucleus and better shielded, so it is held less strongly. Less energy is needed to break the bond, so the well is **shallower**.
+**Answer: (A).** Bromine is one period below chlorine, so it has a larger core. The nuclei cannot get as close, so the bond is longer: the minimum moves **right**. The shared pair is further from the bromine nucleus and better shielded, so it is held less strongly: the well is **shallower**.
 
-- (B) assumes a bigger atom forms a stronger bond. Larger atoms usually form longer, weaker bonds.
+- (B) Larger atoms usually form longer, **weaker** bonds.
 - (C) reverses both effects.
-- (D) Equal bond order does not mean equal length; atom size still matters.
+- (D) Equal bond order does not mean equal length.
 
 **If you missed this:** read "Factor 1: the size of the atoms' cores" and Worked example 2 in the [Topic 2.2 study guide](/advanced-course-resources/chemistry/2-2-intramolecular-force-potential-energy-study-guide/).
 </details>
@@ -95,10 +94,10 @@ A student draws a two-dimensional section of solid sodium oxide, Na₂O, using 1
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The formula gives 2 Na⁺ for every O²⁻, so 12 ions means 8 Na⁺ and 4 O²⁻. Charge check: 8(+1) + 4(−2) = 0. Opposite charges touch, and O²⁻ (140 pm) is larger than Na⁺ (102 pm).
+**Answer: (A).** 2 Na⁺ for every O²⁻, so 12 ions means 8 Na⁺ and 4 O²⁻: 8(+1) + 4(−2) = 0. Opposite charges touch, and O²⁻ (140 pm) is larger than Na⁺ (102 pm).
 
-- (B) is a 1 : 1 ratio. Its total charge is 6(+1) + 6(−2) = −6, so the drawing is not neutral.
-- (C) has the right ratio but reverses the sizes. Na⁺ has lost its outer shell, so it is the smaller ion.
+- (B) is 1 : 1, with total charge 6(+1) + 6(−2) = −6.
+- (C) reverses the sizes. Na⁺ has lost its outer shell, so it is smaller.
 - (D) shows molecules. An ionic solid is an extended array.
 
 **If you missed this:** read "Drawing a particulate model of an ionic solid" in the [Topic 2.3 study guide](/advanced-course-resources/chemistry/2-3-structure-ionic-solids-study-guide/).
@@ -116,11 +115,11 @@ A particulate model of an alloy shows 20 lattice positions in a regular array. S
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** Where an added atom goes depends on its size compared with the host atom. Chromium is about the same size as iron, so it takes the place of iron atoms at normal lattice positions (substitutional). Carbon is much smaller, so it fits in the gaps (interstitial). One alloy can show both.
+**Answer: (C).** Size decides where an added atom goes. Chromium is about the same size as iron, so it replaces iron atoms at lattice positions (substitutional). Carbon is much smaller, so it fits in the gaps (interstitial). One alloy can show both.
 
-- (A) The carbon atoms are in the gaps; all 20 lattice positions hold metal atoms.
+- (A) All 20 lattice positions hold metal atoms; carbon is in the gaps.
 - (B) Atoms of similar size cannot fit into the gaps.
-- (D) An alloy is a metal mixed with one or more other elements, which can be small nonmetal atoms; steel contains carbon.
+- (D) An alloy can contain nonmetal atoms; steel contains carbon.
 
 **If you missed this:** read "Alloys: adding a second element" and Worked example 1 in the [Topic 2.4 study guide](/advanced-course-resources/chemistry/2-4-structure-metals-alloys-study-guide/).
 </details>
@@ -137,10 +136,10 @@ Nitrosyl chloride, ONCl, has nitrogen as the central atom. Which describes its b
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Total: 6 + 5 + 7 = **18 electrons**. Two single bonds use 4; three lone pairs on each outer atom use 12; the last 2 go on N as a lone pair. Nitrogen now has only 6, so one oxygen lone pair becomes a bond: N=O. Recount: bonds 6 + lone pairs (O 4, Cl 6, N 2) = 18.
+**Answer: (A).** Total: 6 + 5 + 7 = **18 electrons**. Two single bonds (4) and three lone pairs on each outer atom (12) leave 2 for a lone pair on N. Nitrogen has only 6, so an oxygen lone pair becomes a bond: N=O. Recount: 6 + 4 + 6 + 2 = 18.
 
-- (B) contains 20 electrons, two more than the molecule has. With the correct 18, an all-single-bond diagram leaves N with only 6 electrons.
-- (C) has 18 electrons, but outer halogens keep one single bond and three lone pairs; oxygen forms the double bond.
+- (B) contains 20 electrons, two more than the molecule has.
+- (C) has 18 electrons, but an outer halogen keeps one single bond; oxygen forms the double bond.
 - (D) contains only 16 electrons. A triple bond is not needed.
 
 **If you missed this:** read "A step-by-step method" and Worked example 1 in the [Topic 2.5 study guide](/advanced-course-resources/chemistry/2-5-lewis-diagrams-study-guide/).
@@ -159,15 +158,15 @@ The sulfite ion, SO₃²⁻, and sulfur trioxide, SO₃, both have sulfur bonded
 
 **(a)** SO₃²⁻: 6 + 3(6) + 2 = **26**. SO₃: 6 + 3(6) = **24**. The 2− charge adds two electrons.
 
-**(b)** Three S–O single bonds (6 electrons) and three lone pairs on each O (18) use 24. The last **2 electrons go on sulfur as one lone pair**. Sulfur has 3 bonds + 1 lone pair = 8. Draw square brackets around the diagram and write **2−** outside the top right. Recount: 6 + 18 + 2 = 26.
+**(b)** Three S–O single bonds (6) and three lone pairs on each O (18) use 24. The last **2 go on sulfur as a lone pair**, giving it 8. Draw square brackets around the diagram with **2−** outside the top right. Recount: 6 + 18 + 2 = 26.
 
 **(c)** Needed for four octets: 4 × 8 = 32.
 - SO₃²⁻: 32 − 26 = 6 shared electrons = **3 bonds**, exactly the three single bonds of the skeleton.
 - SO₃: 32 − 24 = 8 shared electrons = **4 bonds**. The skeleton has only 3 lines, so one must be a double bond (S=O).
 
-Common slips: subtracting the 2− charge (22 electrons); forgetting the lone pair on sulfur in SO₃²⁻.
+Common slips: subtracting the charge (22); forgetting the lone pair on sulfur.
 
-**If you missed this:** read "A quick check for multiple bonds" and Worked example 3 in the [Topic 2.5 study guide](/advanced-course-resources/chemistry/2-5-lewis-diagrams-study-guide/).
+**If you missed this:** read "A quick check for multiple bonds" and Worked example 2 in the [Topic 2.5 study guide](/advanced-course-resources/chemistry/2-5-lewis-diagrams-study-guide/).
 </details>
 
 ## Question 7 (multiple choice · 2.6)
@@ -182,11 +181,11 @@ In the hydrogen carbonate ion, HCO₃⁻, carbon is bonded to three oxygen atoms
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** Total: 1 + 4 + 3(6) + 1 = **24 electrons**. Carbon needs one double bond. It can go to either oxygen **not** bonded to hydrogen, giving two equivalent resonance structures: 3 bonds over 2 positions, bond order 1.5. A double bond to the OH oxygen would give that oxygen +1 and both others −1, so that structure contributes very little.
+**Answer: (B).** Total: 1 + 4 + 3(6) + 1 = **24 electrons**. Carbon needs one double bond, to either oxygen **not** bonded to hydrogen: two equivalent resonance structures, 3 bonds over 2 positions, bond order 1.5. A double bond to the OH oxygen gives that oxygen +1 and both others −1, so that structure contributes very little.
 
-- (A) treats all three oxygens as equivalent. The hydrogen makes one oxygen different, so 4 ÷ 3 = 1.33 applies to carbonate, not here.
-- (C) Hydrogen does not stop resonance. Two positions are equivalent, so one diagram alone gives a wrong prediction.
-- (D) A resonance hybrid is one structure all the time. It does not flip between diagrams.
+- (A) The hydrogen makes one oxygen different, so 4 ÷ 3 = 1.33 applies to carbonate, not here.
+- (C) Hydrogen does not stop resonance; two positions are equivalent.
+- (D) A resonance hybrid is one structure all the time; it does not flip.
 
 **If you missed this:** read "The resonance hybrid" and "Average bond order" in the [Topic 2.6 study guide](/advanced-course-resources/chemistry/2-6-resonance-formal-charge-study-guide/).
 </details>
@@ -203,9 +202,9 @@ Which species has a **square pyramidal** molecular geometry?
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** ClF₅: 7 + 5(7) = 42 electrons. Five bonds use 10 and the fluorine lone pairs use 30, leaving 2: **one lone pair** on Cl. Five bonded atoms + 1 lone pair = 6 domains (octahedral). With one position taken by the lone pair, the atoms form a square pyramid.
+**Answer: (B).** ClF₅: 7 + 5(7) = 42 electrons. Bonds use 10 and fluorine lone pairs 30, leaving **one lone pair** on Cl. Five bonded atoms + 1 lone pair = 6 domains; with one position taken by the lone pair, the atoms form a square pyramid.
 
-- (A) AsF₅: 40 electrons, no lone pair on As. 5 domains: trigonal bipyramidal.
+- (A) AsF₅: 40 electrons, no lone pair on As: trigonal bipyramidal.
 - (C) SeF₄: 34 electrons, one lone pair on Se. 5 domains with the lone pair equatorial: seesaw.
 - (D) BrF₄⁻: 36 electrons, two lone pairs on Br. 6 domains with the lone pairs opposite each other: square planar.
 
@@ -229,20 +228,20 @@ Ketene has the structure H₂C=C=O: the first carbon is bonded to two H atoms, a
 
 **(b)** Each bond has one σ bond: two C–H, C=C and C=O give **4 σ**. Each double bond adds one π bond: **2 π**.
 
-**(c)** CH₂ carbon: 3 domains (two H, one C), **sp²**. Middle carbon: 2 domains (C and O), **sp**. Oxygen: 1 bonded atom + 2 lone pairs = 3 domains, **sp²**.
+**(c)** CH₂ carbon: 3 domains, **sp²**. Middle carbon: 2 domains, **sp**. Oxygen: 1 bonded atom + 2 lone pairs = 3 domains, **sp²**.
 
-**(d)** H–C–H: about **120°** (sp² carbon). C–C–O: **180°** (sp carbon with no lone pair), so the C, C and O atoms lie in a straight line.
+**(d)** H–C–H: about **120°** (sp² carbon). C–C–O: **180°** (sp carbon, no lone pair): the C, C and O atoms lie in a line.
 
-**(e)** **Yes.** The C=O bond is polar (O 3.44 against C 2.55) and the C–H bonds are close to nonpolar, so nothing balances the C=O bond dipole.
+**(e)** **Yes.** The C=O bond is polar (O 3.44, C 2.55) and the C–H bonds are close to nonpolar, so nothing balances the C=O dipole.
 
-Common slips: counting a double bond as two domains (which makes the middle carbon sp²); calling oxygen "sp" because it has one bonded atom.
+Common slips: counting a double bond as two domains; calling oxygen "sp" because it has one bonded atom.
 
 **If you missed this:** read "Hybridization: naming the atom", "Sigma and pi bonds" and Worked example 3 in the [Topic 2.7 study guide](/advanced-course-resources/chemistry/2-7-vsepr-hybridization-study-guide/).
 </details>
 
 ## Your next step
 
-Tick the questions you got wrong or only half right. For a short-answer question, count it as missed if any part was wrong.
+Tick each question you got wrong. Count a short-answer question as missed if any part was wrong.
 
 | Topic | Question(s) | If you missed it, read |
 |---|---|---|
@@ -256,7 +255,6 @@ Tick the questions you got wrong or only half right. For a short-answer question
 
 ## How to use your result
 
-- **Look at topics, not the total.** The table tells you what to read; the total tells you little.
-- **If you guessed, count the question as missed.**
+- **Look at topics, not the total.** If you guessed, count the question as missed.
 - **Fix gaps in order.** Topics 2.5 to 2.7 build on each other: a wrong electron count (2.5) spoils formal charges (2.6) and shapes (2.7). Start with the earliest topic you missed.
-- **Then practise.** After each study guide, try that topic's practice questions. Then try the [Unit 2 mixed review](/advanced-course-resources/chemistry/unit-2-review/), where each question combines topics.
+- **Then practise.** After each study guide, try that topic's practice questions, then the [Unit 2 mixed review](/advanced-course-resources/chemistry/unit-2-review/), where each question combines topics.

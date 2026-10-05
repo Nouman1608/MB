@@ -37,7 +37,7 @@ author: "marlbridge-academic-team"
 
 ## How to use this review
 
-Use this page after the [Unit 7 diagnostic](/advanced-course-resources/chemistry/unit-7-diagnostic/), once you have revisited the topics it flagged. Answer all six questions on paper before you open any answer. Each one combines two or more topics.
+Use this page after the [Unit 7 diagnostic](/advanced-course-resources/chemistry/unit-7-diagnostic/) and the topics it flagged. Answer all six questions on paper before opening any answer.
 
 These are **original Marlbridge practice questions**, not past exam questions. Every K value, rate constant and lettered substance is invented. Each rubric is a **suggested Marlbridge rubric**, not official scoring, and your total gives no predicted score.
 
@@ -80,16 +80,16 @@ Two particle diagrams show equilibrium mixtures for A₂(g) ⇌ 2A(g) in boxes o
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Both boxes hold 10 A atoms, so they show the same system (Topic 7.8). With counts in equal volumes, K = 2² ÷ 4 = 1 at 300 K and 6² ÷ 2 = 18 at 500 K. Heating raised K, and heating favours the endothermic direction (Topics 7.9 and 7.10), so the forward reaction is endothermic. Breaking a bond needs energy, which fits.
+**Answer: (A).** Both boxes hold 10 A atoms, so they show the same system (Topic 7.8). With counts in equal volumes, K = 2² ÷ 4 = 1 at 300 K and 6² ÷ 2 = 18 at 500 K. Heating raised K, and heating favours the endothermic direction (Topics 7.9 and 7.10), so the forward reaction is endothermic.
 
 - (B) Heating favours the endothermic direction, not the exothermic one.
 - (C) Temperature is the one stress that changes K.
-- (D) ignores the squared term.
+- (D) Fewer A₂ and more A means a larger K, not a smaller one.
 </details>
 
 ## Question 2 (multiple choice · mixed)
 
-The fictional salt MY₂ has K_sp = 4.0 × 10⁻¹². Equal volumes of a M(NO₃)₂ solution and a NaY solution are mixed. Which pair of starting concentrations gives a precipitate?
+The fictional salt MY₂ has K_sp = 4.0 × 10⁻¹². Equal volumes of an M(NO₃)₂ solution and a NaY solution are mixed. Which pair of starting concentrations gives a precipitate?
 
 - (A) 2.0 × 10⁻³ M M(NO₃)₂ and 2.0 × 10⁻⁴ M NaY
 - (B) 2.0 × 10⁻⁴ M M(NO₃)₂ and 2.0 × 10⁻⁴ M NaY
@@ -157,7 +157,7 @@ The fictional gases D and E combine: D(g) + E(g) ⇌ DE(g), Kp = 2.0. A cylinder
 (a) Show that the mixture is at equilibrium.
 (b) The volume is halved at constant temperature. Calculate Qp just after the change and predict the direction of the net reaction. Show that Le Châtelier's principle agrees.
 (c) Calculate the partial pressures at the new equilibrium.
-(d) The forward reaction is exothermic. The temperature is now raised at constant volume. State what happens to Kp and to P_DE, and explain using Q and K.
+(d) The forward reaction is exothermic. The temperature is now raised at constant volume. State what happens to Kp and to the amount of DE, and explain using Q and K.
 (e) Calculate Kp at the original temperature for 2DE(g) ⇌ 2D(g) + 2E(g).
 
 <details>
@@ -165,7 +165,7 @@ The fictional gases D and E combine: D(g) + E(g) ⇌ DE(g), Kp = 2.0. A cylinder
 
 **(a)** Qp = 0.90 ÷ (0.50 × 0.90) = 2.0 = Kp ✓.
 
-**(b)** Every partial pressure doubles: 1.00, 1.80 and 1.80 atm. Qp = 1.80 ÷ (1.00 × 1.80) = **1.0** = ½Kp. Q < K, so the net reaction goes **forward**. Le Châtelier: 2 gas molecules on the left, 1 on the right, and a smaller volume favours fewer gas molecules ✓.
+**(b)** Every partial pressure doubles: 1.00, 1.80 and 1.80 atm. Qp = 1.80 ÷ (1.00 × 1.80) = **1.0** = ½Kp. Q < K, so the net reaction goes **forward**. Le Châtelier agrees: a smaller volume favours the side with fewer gas molecules (1 rather than 2) ✓.
 
 **(c)** Let x atm of D react: 2.0 = (1.80 + x) ÷ ((1.00 − x)(1.80 − x)).
 
@@ -173,7 +173,7 @@ The fictional gases D and E combine: D(g) + E(g) ⇌ DE(g), Kp = 2.0. A cylinder
 2. x = (3.30 − 2.70) ÷ 2 = 0.30. (The other root, 3.0, is larger than P_D.)
 3. **P_D = 0.70 atm, P_E = 1.50 atm, P_DE = 2.10 atm.** Check: 2.10 ÷ (0.70 × 1.50) = 2.0 ✓.
 
-**(d)** **Kp decreases and P_DE decreases.** Raising the temperature favours the endothermic (reverse) direction, so K falls. The amounts have not changed yet, so Q is now greater than the new K, and the net reaction runs in reverse until Q falls to K.
+**(d)** **Kp decreases and the amount of DE decreases.** Heating favours the endothermic (reverse) direction, so K falls. Heating at constant volume does not change the concentrations, so Qc is unchanged and now greater than the smaller Kc. The net reaction runs in reverse until Q falls to K.
 
 **(e)** Reversed (invert) and doubled (square): Kp = (1 ÷ 2.0)² = **0.25**.
 
@@ -185,7 +185,7 @@ The fictional gases D and E combine: D(g) + E(g) ⇌ DE(g), Kp = 2.0. A cylinder
 | 1 | (c) Correct expression and quadratic |
 | 1 | (c) 0.70, 1.50 and 2.10 atm |
 | 1 | (d) K decreases because the forward reaction is exothermic |
-| 1 | (d) Q > new K, so net reverse and P_DE falls |
+| 1 | (d) Q > new K, so net reverse and less DE |
 | 1 | (e) 0.25 |
 
 **Total: 8 points.**
@@ -211,9 +211,9 @@ The fictional hydroxide Z(OH)₂ is only slightly soluble: Z(OH)₂(s) ⇌ Z²�
 
 **(c)** s = K_sp ÷ (0.050)² = **2.2 × 10⁻⁵ M**. The salt adds 2s = 4.4 × 10⁻⁵ M OH⁻, under 0.1% of 0.050 M, so the approximation holds.
 
-**(d)** OH⁻ is a common ion. It pushes the dissolving equilibrium to the left, so Q reaches K_sp after far less solid has dissolved (about 100 times less). K_sp does not change.
+**(d)** The common ion OH⁻ shifts the dissolving equilibrium left, so Q reaches K_sp after about 100 times less solid has dissolved. K_sp does not change.
 
-**(e)** **Too high.** The solid also reacts with HCl, so the titre is too large. Too much OH⁻ is calculated, so s and K_sp come out too large.
+**(e)** **Too high.** The solid also reacts with HCl, so the titre, [OH⁻], s and K_sp all come out too large.
 
 **(f)** **Wrong.** For WOH, s = √(4.0 × 10⁻⁶) = 2.0 × 10⁻³ M, less than 2.40 × 10⁻³ M for Z(OH)₂. K_sp expressions differ in form, so compare molar solubilities, not K_sp values.
 
@@ -232,7 +232,7 @@ The fictional hydroxide Z(OH)₂ is only slightly soluble: Z(OH)₂(s) ⇌ Z²�
 
 ## Question 6 (constructed response · mixed)
 
-A fictional reaction X₂(g) + 2Y(g) ⇌ 2XY(g) is thought to happen in two elementary steps:
+A fictional reaction X₂(g) + 2Y(g) ⇌ 2XY(g) happens in two elementary steps:
 
 - Step 1: X₂(g) ⇌ 2X(g); forward rate = k₁[X₂], reverse rate = k₋₁[X]², with k₁ = 4.0 × 10⁻² s⁻¹ and k₋₁ = 8.0 × 10³ M⁻¹ s⁻¹.
 - Step 2: X(g) + Y(g) ⇌ XY(g), K₂ = 2.0 × 10³.
@@ -280,7 +280,7 @@ Total: 32 points (2 multiple choice, 30 constructed response). Where you lost po
 - **Stresses and temperature (1, 4(b), 4(d)):** revisit Topics 7.9 and 7.10.
 - **Particle pictures or the size of K (1, 6(e)):** revisit Topics 7.5 and 7.8.
 - **Solubility and common ions (2, 5):** revisit Topics 7.11 and 7.12.
-- **Explanations marked down:** say whether Q or K changed, how they compare, and which way the system moves.
+- **Explanations marked down:** say whether Q or K changed, how they compare and which way the system moves.
 
 If several topics were weak, return to the [Unit 7 diagnostic](/advanced-course-resources/chemistry/unit-7-diagnostic/). Then tick off each topic checklist:
 

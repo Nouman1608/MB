@@ -35,7 +35,7 @@ author: "marlbridge-academic-team"
 
 ## What this diagnostic is for
 
-Use this page to find **which Unit 4 topics to revisit**: one question per topic, two for the larger Topics 4.5 and 4.7. Answer every question before opening any answer, then use the table at the end.
+Use this page to find **which Unit 4 topics to revisit**: one question per topic, two for the larger Topics 4.5 and 4.7. Answer every question before opening any answer, then use the table below.
 
 These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated, so your total gives no predicted score. A wrong answer points to a topic; it is not a grade.
 
@@ -53,7 +53,7 @@ Which of these is a **physical** change?
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** Stirring two solids together makes a mixture. Each keeps its own properties: a magnet could still pull the iron out. No new substance forms.
+**Answer: (C).** Stirring two solids together makes a mixture; a magnet could still pull the iron out. No new substance forms.
 
 - (A) A new green solid forms on the copper: a new substance.
 - (B) Souring makes new substances, which is why the taste and texture change.
@@ -85,21 +85,21 @@ Magnesium hydroxide, Mg(OH)₂, is insoluble in water. Solid magnesium hydroxide
 
 ## Question 3 (multiple choice · 4.3)
 
-Nitrogen and hydrogen react: N₂(g) + 3H₂(g) → 2NH₃(g). A "before" box holds 3 N₂ molecules and 6 H₂ molecules. The reaction goes to completion. Which "after" box is consistent with the equation?
+Nitrogen and hydrogen react: N₂(g) + 3H₂(g) → 2NH₃(g). A "before" box holds 5 N₂ molecules and 9 H₂ molecules. The reaction goes to completion. Which "after" box is consistent with the equation?
 
-- (A) 4 NH₃ molecules and 1 N₂ molecule
-- (B) 6 NH₃ molecules
-- (C) 4 NH₃ molecules only
-- (D) 4 NH₃ molecules and 2 H₂ molecules
+- (A) 6 NH₃ molecules and 2 N₂ molecules
+- (B) 10 NH₃ molecules
+- (C) 6 NH₃ molecules only
+- (D) 6 NH₃ molecules and 2 H₂ molecules
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The 6 H₂ react with 2 N₂ (ratio 3 : 1) to make 4 NH₃. One N₂ is left over, unchanged. Atom check: before, 6 N and 12 H; after, 4 + 2 = 6 N and 12 H.
+**Answer: (A).** The 9 H₂ react with 3 N₂ (ratio 3 : 1) to make 6 NH₃. Two N₂ are left over, unchanged. Atom check: before, 10 N and 18 H; after, 6 + 4 = 10 N and 18 H.
 
-- (B) assumes all 3 N₂ react: 18 H atoms after, from 12 before.
-- (C) loses the leftover N₂: only 4 N atoms after, from 6 before.
-- (D) swaps the excess reactant: 16 H atoms but only 4 N atoms after.
+- (B) assumes all 5 N₂ react: 30 H atoms after, from 18 before.
+- (C) loses the leftover N₂: only 6 N atoms after, from 10 before.
+- (D) swaps the excess reactant: 22 H atoms but only 6 N atoms after.
 
 **If you missed this:** read "The rules a consistent diagram follows" and Worked example 1 in the [Topic 4.3 study guide](/advanced-course-resources/chemistry/4-3-representations-reactions-study-guide/).
 </details>
@@ -119,7 +119,7 @@ Solid sodium chloride can be melted (a physical change). The molten salt can the
 **Answer: (A).** Liquid NaCl still contains Na⁺ and Cl⁻ in a 1 : 1 ratio: still sodium chloride. Electrolysis makes Na (metallic bonding) and Cl₂ (a covalent bond): new substances.
 
 - (B) Melting does overcome some ionic attractions, so the ions can move.
-- (C) Energy size is a clue, not the test. The test is whether new substances form.
+- (C) Energy size is a clue; the test is whether new substances form.
 - (D) Reversibility is not the test either; many reactions can be reversed.
 
 **If you missed this:** read "Two kinds of attraction, two kinds of change" and "When the line is blurred" in the [Topic 4.4 study guide](/advanced-course-resources/chemistry/4-4-physical-chemical-changes-study-guide/).
@@ -259,7 +259,7 @@ Which two species form a **conjugate acid-base pair**?
 
 - (A) Both are acids, from different pairs.
 - (C) Both are bases.
-- (D) These are the acid and base that react, not a conjugate pair.
+- (D) These are the reacting acid and base, not a pair.
 
 **If you missed this:** read "Conjugate acid-base pairs" and Worked example 1 in the [Topic 4.8 study guide](/advanced-course-resources/chemistry/4-8-introduction-acid-base-reactions-study-guide/).
 </details>
@@ -293,7 +293,7 @@ Common slips: electrons left in the final equation; using 5 electrons (2 + 3) in
 
 ## Your next step
 
-Tick each question you got wrong or half right. A short answer counts as missed if any part was wrong.
+Tick each question you got wrong. A short answer counts as missed if any part was wrong.
 
 | Topic | Question(s) | If you missed it, read |
 |---|---|---|
@@ -311,5 +311,5 @@ Tick each question you got wrong or half right. A short answer counts as missed 
 
 - **Look at topics, not the total.**
 - **Read every explanation.** If you guessed, count the question as missed.
-- **Fix gaps in order.** Topics 4.1 to 4.4 cover what counts as a reaction and how to write it; 4.5 and 4.6 count moles with equations; 4.7 to 4.9 sort reactions by what is transferred. Start with the earliest topic you missed in each group.
+- **Fix gaps in order.** Topics 4.1 to 4.4 cover what a reaction is and how to write it; 4.5 and 4.6 count moles; 4.7 to 4.9 sort reactions by what is transferred. Start with the earliest topic you missed in each group.
 - **Then practise** with each topic's practice questions, then the [Unit 4 mixed review](/advanced-course-resources/chemistry/unit-4-review/), where questions combine topics.

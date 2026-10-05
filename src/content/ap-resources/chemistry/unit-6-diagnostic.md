@@ -35,9 +35,9 @@ author: "marlbridge-academic-team"
 
 ## What this diagnostic is for
 
-Use this page to find **which Unit 6 topics to revisit**. There is one question per topic, and two for Topics 6.4 and 6.9. Answer every question before opening any answer, then use the table at the end.
+Use this page to find **which Unit 6 topics to revisit**. There is one question per topic (two for 6.4 and 6.9). Answer every question before opening any answer, then use the table at the end.
 
-These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated, so your total gives no predicted score. Treat each wrong answer as a pointer to a topic, not as a grade.
+These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated, so your total gives no predicted score.
 
 **Calculator and data.** A scientific calculator is allowed. Water and dilute solutions: c = 4.18 J g⁻¹ °C⁻¹; water ΔH_fus = 6.01 kJ mol⁻¹. Molar masses: H 1.008, O 16.00, Mg 24.31 g mol⁻¹. Other data are given in the questions. Substances named with letters are fictional.
 
@@ -55,9 +55,9 @@ For which process is the change **endothermic** for the substance named in brack
 
 **Answer: (C).** The spoon gains energy from the soup. Heating is endothermic for the substance heated.
 
-- (A) Freezing forms attractions between particles, releasing energy: exothermic for the wax.
+- (A) Freezing forms attractions, releasing energy: exothermic for the wax.
 - (B) The tea loses energy to the air and desk. Cooling is exothermic for the tea.
-- (D) Condensing is exothermic for the steam; it releases energy into the mirror.
+- (D) Condensing is exothermic for the steam; it warms the mirror.
 
 **If you missed this:** read "Three kinds of process" in the [Topic 6.1 study guide](/advanced-course-resources/chemistry/6-1-endothermic-exothermic-processes-study-guide/).
 </details>
@@ -95,11 +95,11 @@ A 2.00 kg iron block at 30 °C touches a 10.0 g copper bead at 60 °C on an insu
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** The bead is warmer, so its atoms have the greater average kinetic energy. In collisions at the contact surface, energy passes on average from the bead's atoms to the block's.
+**Answer: (C).** The bead is warmer, so its atoms have the greater average kinetic energy. In collisions at the surface, energy passes on average from bead to block.
 
 - (A) The direction is set by temperature, not by total energy.
-- (B) Size does not cancel a temperature difference. Net transfer stops only when the temperatures are equal.
-- (D) Transfer stops when the **temperatures** are equal; the block still has far more total energy.
+- (B) Size does not cancel a temperature difference.
+- (D) Transfer stops at equal **temperatures**; the block still has far more total energy.
 
 **If you missed this:** read "How collisions move energy" in the [Topic 6.3 study guide](/advanced-course-resources/chemistry/6-3-heat-transfer-thermal-equilibrium-study-guide/).
 </details>
@@ -136,7 +136,7 @@ A student dissolves 3.20 g of a fictional salt LQ (M = 64.0 g mol⁻¹) in 60.0 
 <details>
 <summary>Worked answer</summary>
 
-**(a)** **Endothermic.** The mixture's temperature fell, so the solution and calorimeter lost energy to the dissolving process.
+**(a)** **Endothermic.** The temperature fell, so the solution and calorimeter lost energy to the dissolving process.
 
 **(b)**
 
@@ -166,7 +166,7 @@ What is the energy change when 27.0 g of liquid water at 0 °C freezes completel
 
 **Answer: (B).** n = 27.0 ÷ 18.016 = 1.499 mol. Freezing is the reverse of melting: q = 1.499 × (−6.01) = −9.01 kJ, so 9.01 kJ is released.
 
-- (A) has the wrong direction. Freezing forms attractions, so it is exothermic.
+- (A) has the wrong direction: freezing forms attractions, so it is exothermic.
 - (C) uses ΔH_vap (40.7 kJ mol⁻¹); freezing needs ΔH_fus.
 - (D) multiplies grams by ΔH_fus, skipping the conversion to moles.
 
@@ -255,9 +255,9 @@ Which expression gives ΔH for P(s) + 5/2 R₂(g) → PR₅(g)?
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The target needs 1 P(s): ½ × (1) gives P(s) + 3/2 R₂(g) → PR₃(g). Add (2): PR₃ cancels and R₂ totals 5/2. So ΔH = ½ΔH₁ + ΔH₂.
+**Answer: (A).** The target has 1 P(s): ½ × (1) gives P(s) + 3/2 R₂(g) → PR₃(g). Add (2): PR₃ cancels and R₂ totals 5/2. So ΔH = ½ΔH₁ + ΔH₂.
 
-- (B) uses all of (1), which would need 2 P(s) and make 2 PR₃.
+- (B) uses all of (1), which needs 2 P(s).
 - (C) reverses (2), which would put PR₅ on the left.
 - (D) scales the whole sum to 2 mol of P, not the 1 mol in the target.
 
@@ -284,7 +284,7 @@ A fictional element Q forms two compounds with a fictional gas Z₂:
 
 **(b)** This is the target reversed (sign flips) and doubled: −2 × (−365) = **+730 kJ mol⁻¹**.
 
-**(c)** Both routes have the same start and end. Energy is conserved, so the total energy the two steps transfer must equal what the one-step route transfers. Otherwise, running one route forwards and the other backwards would make energy from nothing.
+**(c)** Both routes have the same start and end. Energy is conserved, so the two steps together must transfer the same energy as the one-step route. Otherwise, running one route forwards and the other backwards would create energy.
 
 Common slips: −580 kJ mol⁻¹ (not halving (1)); +365 kJ mol⁻¹ in (b) (not doubling).
 
@@ -293,7 +293,7 @@ Common slips: −580 kJ mol⁻¹ (not halving (1)); +365 kJ mol⁻¹ in (b) (not
 
 ## Your next step
 
-Tick the questions you got wrong or only half right. For a short-answer question, count it as missed if any part was wrong.
+Tick each question you got wrong; a short-answer question counts as missed if any part was wrong.
 
 | Topic | Question(s) | If you missed it, read |
 |---|---|---|
@@ -310,7 +310,7 @@ Tick the questions you got wrong or only half right. For a short-answer question
 ## How to use your result
 
 - **Look at topics, not the total.** The table tells you what to read.
-- **Read the explanation even when you were right.** If you guessed, count it as missed.
-- **Fix gaps in order.** Topics 6.1 to 6.3 give the direction of energy transfer, 6.4 to 6.6 put numbers on it, and 6.7 to 6.9 find ΔH without an experiment. Start with the earliest topic you missed.
+- **Read every explanation.** If you guessed, count it as missed.
+- **Fix gaps in order.** Topics 6.1 to 6.3 give the direction of energy transfer, 6.4 to 6.6 put numbers on it, and 6.7 to 6.9 find ΔH without an experiment. Start with the earliest gap.
 - **Watch for sign errors.** Right size, wrong sign? Revisit Topics 6.1 and 6.4: q(process) = −q(solution).
-- **Then practise.** After each study guide, try that topic's practice questions. Then try the [Unit 6 mixed review](/advanced-course-resources/chemistry/unit-6-review/), where each question combines topics.
+- **Then practise.** After each study guide, try that topic's practice questions, then the [Unit 6 mixed review](/advanced-course-resources/chemistry/unit-6-review/).

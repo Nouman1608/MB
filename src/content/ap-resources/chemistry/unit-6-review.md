@@ -37,21 +37,21 @@ author: "marlbridge-academic-team"
 
 ## How to use this review
 
-Use this page after the [Unit 6 diagnostic](/advanced-course-resources/chemistry/unit-6-diagnostic/), once you have revisited the topics it flagged. Answer all seven questions on paper before opening any answer. Each combines two or more topics.
+Use this page after the [Unit 6 diagnostic](/advanced-course-resources/chemistry/unit-6-diagnostic/) and any topics it flagged. Answer all seven questions before opening any answer.
 
-These are **original Marlbridge practice questions**, not past exam questions. Substances named with letters are fictional, and so is all experimental data. Each rubric is a **suggested Marlbridge rubric**, not official scoring, and your total gives no predicted score.
+These are **original Marlbridge practice questions**, not past exam questions. Substances named with letters, and all experimental data, are fictional. Each rubric is a **suggested Marlbridge rubric**, not official scoring, and your total gives no predicted score.
 
 ## Big ideas of the unit
 
-- **Name the system first.** Exothermic: the system loses energy to the surroundings; endothermic: it gains energy from them, as heat or work ([Topic 6.1](/advanced-course-resources/chemistry/6-1-endothermic-exothermic-processes-study-guide/)).
+- **Name the system first.** Exothermic: the system loses energy to the surroundings; endothermic: it gains energy from them ([Topic 6.1](/advanced-course-resources/chemistry/6-1-endothermic-exothermic-processes-study-guide/)).
 - **An energy diagram shows the system only.** ΔH = final level − starting level; the hump is the activation energy, not ΔH ([Topic 6.2](/advanced-course-resources/chemistry/6-2-energy-diagrams-study-guide/)).
-- **Temperature is average kinetic energy.** Collisions pass energy from the warmer body to the cooler one until the temperatures are equal ([Topic 6.3](/advanced-course-resources/chemistry/6-3-heat-transfer-thermal-equilibrium-study-guide/)).
-- **The thermometer reads the surroundings.** So q(process) = −q(surroundings), and equal energy gives different ΔT in different substances ([Topic 6.4](/advanced-course-resources/chemistry/6-4-heat-capacity-calorimetry-study-guide/)).
+- **Temperature is average kinetic energy.** Collisions pass energy from warmer to cooler until the temperatures are equal ([Topic 6.3](/advanced-course-resources/chemistry/6-3-heat-transfer-thermal-equilibrium-study-guide/)).
+- **The thermometer reads the surroundings.** So q(process) = −q(surroundings) ([Topic 6.4](/advanced-course-resources/chemistry/6-4-heat-capacity-calorimetry-study-guide/)).
 - **Phase changes move energy at constant temperature.** The energy goes into or comes out of attractions: q = n × ΔH ([Topic 6.5](/advanced-course-resources/chemistry/6-5-energy-phase-changes-study-guide/)).
-- **ΔH is per mole of reaction as written.** Use the limiting reactant and its coefficient; lost potential energy becomes kinetic energy, then heat ([Topic 6.6](/advanced-course-resources/chemistry/6-6-introduction-enthalpy-reaction-study-guide/)).
+- **ΔH is per mole of reaction as written.** Use the limiting reactant and its coefficient ([Topic 6.6](/advanced-course-resources/chemistry/6-6-introduction-enthalpy-reaction-study-guide/)).
 - **Bonds explain the sign.** Breaking needs energy, forming releases it; average values give an estimate for gases ([Topic 6.7](/advanced-course-resources/chemistry/6-7-bond-enthalpies-study-guide/)).
 - **Formation enthalpies give accurate values.** Products minus reactants, with every state symbol and coefficient ([Topic 6.8](/advanced-course-resources/chemistry/6-8-enthalpy-formation-study-guide/)).
-- **Any route gives the same ΔH.** Energy is conserved, so the steps' ΔH values sum to the overall change ([Topic 6.9](/advanced-course-resources/chemistry/6-9-hesss-law-study-guide/)).
+- **Any route gives the same ΔH.** Energy is conserved, so the steps' ΔH values add up ([Topic 6.9](/advanced-course-resources/chemistry/6-9-hesss-law-study-guide/)).
 
 ## Key relationships and methods
 
@@ -99,7 +99,7 @@ A 100.0 g block of aluminium at 90.0 °C is placed in 100.0 g of water at 20.0 �
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** Energy lost by the aluminium = energy gained by the water (Topic 6.4). Heat capacities: aluminium 89.7 J °C⁻¹, water 418.0 J °C⁻¹. T = (89.7 × 90.0 + 418.0 × 20.0) ÷ 507.7 = 32.4 °C. The aluminium falls 57.6 °C but the water rises only 12.4 °C for the same 5.17 kJ.
+**Answer: (B).** Energy lost by aluminium = energy gained by water (Topic 6.4). Heat capacities: aluminium 89.7 J °C⁻¹, water 418.0 J °C⁻¹. T = (89.7 × 90.0 + 418.0 × 20.0) ÷ 507.7 = 32.4 °C. The aluminium falls 57.6 °C but the water rises only 12.4 °C for the same 5.17 kJ.
 
 - (A) assumes equal heat capacities; equal masses are not enough.
 - (C) swaps the two specific heat capacities.
@@ -146,9 +146,9 @@ Steam at 100.0 °C is bubbled into 200.0 g of water at 18.0 °C in an insulated 
 
 Total 2484.8 J g⁻¹. Energy lost = energy gained: m = 23 408 ÷ 2484.8 = **9.42 g**. Leaving out step 2 gives 10.4 g.
 
-**(c)** The condensed steam's molecules have a greater **average kinetic energy** than the cooler water's. In collisions, energy passes on average from faster to slower molecules. The net transfer stops at **thermal equilibrium** (46.0 °C), when the average kinetic energies are equal; collisions continue (Topic 6.3).
+**(c)** The condensed steam's molecules have a greater **average kinetic energy** than the cooler water's, so in collisions energy passes on average from faster to slower molecules. The net transfer stops at **thermal equilibrium** (46.0 °C), when the average kinetic energies are equal; collisions continue (Topic 6.3).
 
-**(d)** m = 23 408 ÷ 225.7 = **104 g**, about 11 times the mass of steam. Condensing releases 2259 J g⁻¹ at constant temperature as attractions form, ten times the 226 J g⁻¹ released by cooling.
+**(d)** m = 23 408 ÷ 225.7 = **104 g**, about 11 times the mass of steam. Condensing releases 2259 J g⁻¹ at constant temperature as attractions form: ten times the 226 J g⁻¹ from cooling.
 
 | Point | What earns it |
 |---|---|
@@ -164,56 +164,56 @@ Total 2484.8 J g⁻¹. Energy lost = energy gained: m = 23 408 ÷ 2484.8 = **9.4
 
 ## Question 5 (constructed response · mixed)
 
-Ethene burns: C₂H₄(g) + 3O₂(g) → 2CO₂(g) + 2H₂O. Ethene is H₂C=CH₂.
+Propene burns: C₃H₆(g) + 9/2 O₂(g) → 3CO₂(g) + 3H₂O. Propene is H₂C=CH–CH₃.
 
-Average bond enthalpies (kJ mol⁻¹): C–H 413, C=C 614, O=O 495, C=O (in CO₂) 799, O–H 467.
-ΔH°f (kJ mol⁻¹): C₂H₄(g) +52.5, CO₂(g) −393.5, H₂O(g) −241.8, H₂O(l) −285.8.
+Average bond enthalpies (kJ mol⁻¹): C–H 413, C–C 347, C=C 614, O=O 495, C=O (in CO₂) 799, O–H 467.
+ΔH°f (kJ mol⁻¹): C₃H₆(g) +20.4, CO₂(g) −393.5, H₂O(g) −241.8, H₂O(l) −285.8.
 
 (a) Use bond enthalpies to estimate ΔH when the water forms as a gas.
 (b) Use enthalpies of formation to calculate ΔH° when the water forms as a gas. Comment on the agreement with (a).
 (c) Calculate ΔH° when the water forms as a liquid. Use Hess's law to explain the difference from (b).
 (d) Describe an energy diagram, with the reactants at 0, that shows your answers to (b) and (c).
-(e) Calculate the heat released when 7.00 g of ethene burns, with the water formed as a liquid.
+(e) Calculate the heat released when 7.00 g of propene burns, with the water formed as a liquid.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Broken: 1 C=C + 4 C–H + 3 O=O = 614 + 1652 + 1485 = 3751 kJ. Formed: 4 C=O + 4 O–H = 3196 + 1868 = 5064 kJ. ΔH ≈ 3751 − 5064 = **−1313 kJ mol⁻¹**.
+**(a)** Broken: 1 C=C + 1 C–C + 6 C–H + 9/2 O=O = 614 + 347 + 2478 + 2227.5 = 5666.5 kJ. Formed: 6 C=O + 6 O–H = 4794 + 2802 = 7596 kJ. ΔH ≈ 5666.5 − 7596 = **−1929.5 kJ mol⁻¹**.
 
-**(b)** Products: 2(−393.5) + 2(−241.8) = −1270.6 kJ. Reactants: +52.5 + 3(0) = +52.5 kJ. ΔH° = −1270.6 − 52.5 = **−1323.1 kJ mol⁻¹**. The estimate is about 10 kJ (under 1%) away, because bond enthalpies are averages over many molecules (Topic 6.7).
+**(b)** Products: 3(−393.5) + 3(−241.8) = −1905.9 kJ. Reactants: +20.4 + 0 = +20.4 kJ. ΔH° = −1905.9 − 20.4 = **−1926.3 kJ mol⁻¹**. Close agreement (about 3 kJ); (a) is only an estimate because bond enthalpies are averages (Topic 6.7).
 
-**(c)** Products: 2(−393.5) + 2(−285.8) = −1358.6 kJ. ΔH° = −1358.6 − 52.5 = **−1411.1 kJ mol⁻¹**. By Hess's law, split the route: burn to H₂O(g), then condense 2 mol of water, 2 × [(−285.8) − (−241.8)] = −88.0 kJ. −1323.1 + (−88.0) = −1411.1: the extra 88.0 kJ is released as attractions form between water molecules.
+**(c)** Products: 3(−393.5) + 3(−285.8) = −2037.9 kJ. ΔH° = −2037.9 − 20.4 = **−2058.3 kJ mol⁻¹**. By Hess's law, split the route: burn to H₂O(g), then condense 3 mol of water, 3 × [(−285.8) − (−241.8)] = −132.0 kJ. −1926.3 + (−132.0) = −2058.3: the extra 132.0 kJ is released as attractions form between water molecules.
 
-**(d)** Axis "Energy (kJ mol⁻¹)". Reactants at **0**; 2CO₂(g) + 2H₂O(g) at **−1323.1**; 2CO₂(g) + 2H₂O(l) at **−1411.1**. Downward arrows from the reactants to each product level, and a short downward arrow (condensing) between them.
+**(d)** Axis "Energy (kJ mol⁻¹)". Reactants at **0**; 3CO₂(g) + 3H₂O(g) at **−1926.3**; 3CO₂(g) + 3H₂O(l) at **−2058.3**. Downward arrows from the reactants to each product level, and a short downward arrow (condensing) between them.
 
-**(e)** M(C₂H₄) = 28.052 g mol⁻¹; n = 7.00 ÷ 28.052 = 0.2495 mol (coefficient 1). q = 0.2495 × (−1411.1) = −352 kJ: **352 kJ released**.
+**(e)** M(C₃H₆) = 42.078 g mol⁻¹; n = 7.00 ÷ 42.078 = 0.1664 mol (coefficient 1). q = 0.1664 × (−2058.3) = −342 kJ: **342 kJ released**.
 
 | Point | What earns it |
 |---|---|
-| 1 | (a) Correct bonds, including 3 O=O and 4 C=O |
-| 1 | (a) −1313 kJ mol⁻¹ as broken − formed |
-| 1 | (b) −1323.1 kJ mol⁻¹ as products − reactants, with C₂H₄ at +52.5 |
-| 1 | (b) Close agreement; difference due to average bond enthalpies |
-| 1 | (c) −1411.1 kJ mol⁻¹, with 88.0 kJ as a Hess's law condensation step |
+| 1 | (a) Correct bonds, including 9/2 O=O and 6 C=O |
+| 1 | (a) −1929.5 kJ mol⁻¹ as broken − formed |
+| 1 | (b) −1926.3 kJ mol⁻¹ as products − reactants, with C₃H₆ at +20.4 |
+| 1 | (b) Close agreement; bond enthalpies are averages, so (a) is an estimate |
+| 1 | (c) −2058.3 kJ mol⁻¹, with 132.0 kJ as a Hess's law condensation step |
 | 1 | (d) Three levels correct, liquid products lowest |
-| 1 | (e) 352 kJ, with moles of ethene shown |
+| 1 | (e) 342 kJ, with moles of propene shown |
 
 **Total: 7 points.** Carry forward from (c) into (e).
 </details>
 
 ## Question 6 (constructed response · mixed)
 
-A fictional salt RX (M = 95.0 g mol⁻¹) is tested for a cold pack: ΔH_soln = +18.0 kJ mol⁻¹. Take c = 4.18 J g⁻¹ °C⁻¹ for every solution and assume no energy is exchanged with the container or air.
+A fictional salt RX (M = 95.0 g mol⁻¹) is tested for a cold pack: ΔH_soln = +18.0 kJ mol⁻¹. Take c = 4.18 J g⁻¹ °C⁻¹ for every solution and ignore energy exchange with the container or air.
 
 (a) Explain, in terms of the attractions broken and formed, why dissolving RX is endothermic.
 (b) A student dissolves 9.50 g of RX in 90.5 g of water at 22.0 °C. Predict the final temperature.
 (c) The pack must cool its contents, 150.0 g of solution in total, from 25.0 °C to 5.0 °C. Calculate the mass of RX needed.
-(d) Describe an energy diagram for dissolving RX. Then explain, with the direction of energy transfer, why a hand holding the activated pack feels cold.
+(d) Describe an energy diagram for dissolving RX. Then explain, with the direction of energy transfer, why a hand holding the pack feels cold.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Separating the ions, and some water molecules, needs energy; forming ion–water attractions releases energy. ΔH is positive, so the attractions formed are **weaker overall** than those broken (Topic 6.1).
+**(a)** Separating the ions, and some water molecules, needs energy; forming ion–water attractions releases it. ΔH is positive, so the attractions formed are **weaker overall** than those broken (Topic 6.1).
 
 **(b)** n = 9.50 ÷ 95.0 = 0.100 mol, so q(dissolving) = 0.100 × 18.0 = +1.80 kJ (Topic 6.6). The solution supplies it: q(solution) = −1800 J. Mass of solution = 100.0 g. ΔT = −1800 ÷ (100.0 × 4.18) = −4.31 °C. Final temperature = **17.7 °C**.
 
@@ -243,7 +243,7 @@ A student burns ethanol, C₂H₅OH(l), in a spirit burner under a copper can th
 (b) Calculate the energy absorbed by the water and the can.
 (c) Calculate the experimental enthalpy of combustion in kJ mol⁻¹.
 (d) What percentage of the expected energy reached the water and the can?
-(e) The student says: "The difference shows the formation data are wrong." Evaluate the claim. Your answer should use the value of ΔH for the reaction when the water forms as H₂O(g).
+(e) The student says: "The difference shows the formation data are wrong." Evaluate the claim, using ΔH for the reaction with H₂O(g) as the product.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
@@ -256,7 +256,7 @@ A student burns ethanol, C₂H₅OH(l), in a spirit burner under a copper can th
 
 **(d)** 943.9 ÷ 1366.8 × 100 = **69.1%**.
 
-**(e)** The claim is **not justified**. Even with all the water leaving as vapour, ΔH = 2(−393.5) + 3(−241.8) − (−277.6) = −1234.8 kJ mol⁻¹, still far more negative than −944. So the state of the water cannot explain the gap. Most of the missing 8.4 kJ was lost to the air around the can; incomplete combustion (soot) and ethanol evaporating from the wick also lower the result. The open apparatus, not the data table, is the problem.
+**(e)** The claim is **not justified**. Even with all the water leaving as vapour, ΔH = 2(−393.5) + 3(−241.8) − (−277.6) = −1234.8 kJ mol⁻¹, still far more negative than −944. So the state of the water cannot explain the gap. Most of the missing 8.4 kJ was lost to the air; incomplete combustion (soot) and ethanol evaporating from the wick also lower the result.
 
 | Point | What earns it |
 |---|---|
@@ -273,15 +273,15 @@ A student burns ethanol, C₂H₅OH(l), in a spirit burner under a copper can th
 
 ## How did you do?
 
-Total: 29 points (3 multiple choice, 26 constructed response). Where you lost points matters more than the total.
+Total: 29 points (3 multiple choice, 26 constructed response). Where you lost points matters more.
 
 - **Direction and sign errors (Questions 1, 3, 6):** revisit Topics 6.1, 6.2 and 6.4.
-- **Calorimetry set-ups (Questions 2, 4, 6, 7):** revisit Topics 6.4 and 6.5; write q(lost) + q(gained) = 0 first.
+- **Calorimetry set-ups (Questions 2, 4, 6, 7):** revisit Topics 6.4 and 6.5.
 - **Moles of reaction (Questions 1, 5(e), 7(c)):** revisit Topic 6.6.
-- **Finding ΔH (Questions 3, 5, 7(a)):** revisit Topics 6.7 to 6.9, checking states and coefficients.
-- **Particle explanations (4(c), 6(a), 6(d)):** say "average kinetic energy", name the attractions and give the direction of transfer.
+- **Finding ΔH (Questions 3, 5, 7(a)):** revisit Topics 6.7 to 6.9.
+- **Particle explanations (4(c), 6(a), 6(d)):** name the attractions, say "average kinetic energy" and give the direction.
 
-If several topics were weak, return to the [Unit 6 diagnostic](/advanced-course-resources/chemistry/unit-6-diagnostic/). Then tick off each topic checklist:
+If several topics were weak, return to the [Unit 6 diagnostic](/advanced-course-resources/chemistry/unit-6-diagnostic/), then tick off each topic checklist:
 
 - [Topic 6.1 checklist](/advanced-course-resources/chemistry/6-1-endothermic-exothermic-processes-checklist/)
 - [Topic 6.2 checklist](/advanced-course-resources/chemistry/6-2-energy-diagrams-checklist/)
