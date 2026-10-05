@@ -21,7 +21,7 @@ skills: ["1", "2", "3", "4"]
 studyMinutes: 45
 difficulty: "foundation"
 calculator: "four-function"
-calculatorNote: "Only addition and subtraction are needed. All farms, prices and quantities are fictional"
+calculatorNote: "Only addition, subtraction and multiplication are needed. All farms, prices and quantities are fictional"
 related: ["mb-ap-micro-2.2-revision-notes", "mb-ap-micro-2.2-practice", "mb-ap-micro-2.2-checklist"]
 next: "mb-ap-micro-2.2-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
@@ -74,11 +74,13 @@ On a graph with price on the vertical axis and quantity on the horizontal axis, 
 
 **Marginal cost (MC)** is the extra cost of producing one more unit. For most producers, MC **rises** as output rises. You met the reason in Topic 1.3: resources are not equally suited to every task. Hillside first picks the easy, sunny rows with its own family workers. To grow more, it must use shadier rows, pay overtime and hire pickers who are less experienced. Each extra crate costs more than the one before.
 
-Hillside grows strawberries in blocks of 20 crates. The marginal cost per crate for each block is:
+Each farm grows strawberries in blocks of 20 crates a week. The marginal cost per crate of each block is:
 
-| Block of 20 crates | 1st | 2nd | 3rd | 4th | 5th | 6th |
-|---|---|---|---|---|---|---|
-| Hillside's MC ($ per crate) | 8 | 13 | 18 | 23 | 28 | 33 |
+| Block of 20 crates | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th |
+|---|---|---|---|---|---|---|---|
+| Hillside's MC ($ per crate) | 8 | 13 | 18 | 23 | 28 | 33 | 38 |
+| Riverside's MC ($ per crate) | 12 | 17 | 22 | 27 | 32 | 37 | 42 |
+| Orchard End's MC ($ per crate) | 6 | 10 | 15 | 20 | 25 | 30 | 35 |
 
 A seller produces an extra block when the price **covers its marginal cost** (price ≥ MC), because then the extra block adds at least as much to revenue as to cost. So:
 
@@ -88,7 +90,7 @@ A seller produces an extra block when the price **covers its marginal cost** (pr
 
 A higher price makes higher-cost output worth producing. That is the **profit incentive** behind the law of supply, and it is why the supply curve slopes upward. You can read a supply curve the other way too: its height at a quantity is the **lowest price** sellers would accept for that last unit, which is its marginal cost. You will study this link in detail in Unit 3.
 
-Doing the same for every farm gives the **individual supply schedules** (crates per week):
+Doing the same for every farm, using its own row of the table, gives the **individual supply schedules** (crates per week):
 
 | Price per crate | Hillside | Riverside | Orchard End |
 |---|---|---|---|
@@ -202,7 +204,7 @@ These are the influences, other than own price, that shift supply. Most of them 
 (b) Pickers' wages rise, raising every farm's marginal cost of every block by $5 per crate. Find the new schedule S₃.
 (c) Compare quantity supplied at $20 on S₁, S₂ and S₃, and the price sellers need for 180 crates on each curve.
 
-**(a)** With MC $5 lower, each farm now supplies at any price what it used to supply at a price $5 **higher**. For example, Hillside's blocks now cost $3, $8, $13, $18…, so at $20 it produces 4 blocks (80 crates) instead of 3. Adding the farms:
+**(a)** With MC $5 lower, each farm now supplies at any price what it used to supply at a price $5 **higher**. For example, Hillside's blocks now cost $3, $8, $13, $18…, so at $20 it produces 4 blocks (80 crates) instead of 3. Adding the farms gives the S₂ column. (At $30, S₂ equals S₁ at $35: Hillside 120 + Riverside 100 + Orchard End 140 = 360 crates.)
 
 | Price | S₁ | S₂ (new machine) | S₃ (higher wages) |
 |---|---|---|---|

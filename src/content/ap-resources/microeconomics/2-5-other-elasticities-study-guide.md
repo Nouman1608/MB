@@ -111,13 +111,13 @@ When incomes fall, the shifts go the other way.
 <figure>
 <svg viewBox="0 0 560 330" role="img" aria-labelledby="oe1-title oe1-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="oe1-title">Effect of higher incomes on demand for a normal good and an inferior good</title>
-<desc id="oe1-desc">Two side-by-side graphs, each with price on the vertical axis and quantity on the horizontal axis. Left graph, restaurant meals, a normal good with income elasticity 1.8: the original demand curve D1 is solid and the new demand curve D2 is dashed and lies to the right, with an arrow pointing right. Right graph, instant noodles, an inferior good with income elasticity minus 1.0: the original demand curve D1 is solid and the new demand curve D2 is dashed and lies to the left, with an arrow pointing left.</desc>
+<desc id="oe1-desc">Two side-by-side graphs, each with price on the vertical axis and quantity on the horizontal axis. Left graph, theatre tickets, a normal good with income elasticity 1.8: the original demand curve D1 is solid and the new demand curve D2 is dashed and lies to the right, with an arrow pointing right. Right graph, tinned soup, an inferior good with income elasticity minus 1.0: the original demand curve D1 is solid and the new demand curve D2 is dashed and lies to the left, with an arrow pointing left.</desc>
 <rect x="0" y="0" width="560" height="330" fill="#ffffff"/>
 <line x1="40" y1="290" x2="250" y2="290" stroke="#1d2b44" stroke-width="2"/>
 <line x1="40" y1="290" x2="40" y2="60" stroke="#1d2b44" stroke-width="2"/>
 <text x="32" y="170" text-anchor="middle" font-size="13" fill="#1d2b44" transform="rotate(-90 32 170)">Price</text>
-<text x="145" y="310" text-anchor="middle" font-size="13" fill="#1d2b44">Meals per month</text>
-<text x="145" y="30" text-anchor="middle" font-size="14" font-weight="600" fill="#1d2b44">Restaurant meals (normal)</text>
+<text x="145" y="310" text-anchor="middle" font-size="13" fill="#1d2b44">Tickets per month</text>
+<text x="145" y="30" text-anchor="middle" font-size="14" font-weight="600" fill="#1d2b44">Theatre tickets (normal)</text>
 <line x1="60" y1="90" x2="190" y2="270" stroke="#1d2b44" stroke-width="3"/>
 <line x1="110" y1="90" x2="240" y2="270" stroke="#1d2b44" stroke-width="3" stroke-dasharray="9 6"/>
 <text x="194" y="266" font-size="13" font-weight="600" fill="#1d2b44">D₁</text>
@@ -126,8 +126,8 @@ When incomes fall, the shifts go the other way.
 <line x1="320" y1="290" x2="530" y2="290" stroke="#1d2b44" stroke-width="2"/>
 <line x1="320" y1="290" x2="320" y2="60" stroke="#1d2b44" stroke-width="2"/>
 <text x="312" y="170" text-anchor="middle" font-size="13" fill="#1d2b44" transform="rotate(-90 312 170)">Price</text>
-<text x="425" y="310" text-anchor="middle" font-size="13" fill="#1d2b44">Packs per month</text>
-<text x="425" y="30" text-anchor="middle" font-size="14" font-weight="600" fill="#1d2b44">Instant noodles (inferior)</text>
+<text x="425" y="310" text-anchor="middle" font-size="13" fill="#1d2b44">Cans per month</text>
+<text x="425" y="30" text-anchor="middle" font-size="14" font-weight="600" fill="#1d2b44">Tinned soup (inferior)</text>
 <line x1="390" y1="90" x2="520" y2="270" stroke="#1d2b44" stroke-width="3"/>
 <line x1="340" y1="90" x2="470" y2="270" stroke="#1d2b44" stroke-width="3" stroke-dasharray="9 6"/>
 <text x="524" y="266" font-size="13" font-weight="600" fill="#1d2b44">D₁</text>
@@ -201,14 +201,14 @@ A change in Y's price shifts the demand curve for X:
 
 | Good | Quantity before (per month) | Quantity after (per month) |
 |---|---|---|
-| Restaurant meals | 4 | 6 |
-| Instant noodles (packs) | 30 | 24 |
+| Theatre tickets | 4 | 6 |
+| Tinned soup (cans) | 30 | 24 |
 | Milk (litres) | 20 | 21 |
 | Table salt (kg) | 1 | 1 |
 
 (a) Calculate the YED of each good using the midpoint method.
 (b) Classify each good.
-(c) Next year, incomes are expected to rise by a further 5%. Predict the percentage change in the quantity demanded of restaurant meals and of instant noodles at current prices.
+(c) Next year, incomes are expected to rise by a further 5%. Predict the percentage change in the quantity demanded of theatre tickets and of tinned soup at current prices.
 
 **(a)** The income change is the same for every good:
 
@@ -219,24 +219,24 @@ Now each good:
 
 | Good | Change in Q | Average Q | % change in Q | YED |
 |---|---|---|---|---|
-| Restaurant meals | +2 | 5 | +40.00% | 40 ÷ 22.22 = **+1.80** |
-| Instant noodles | −6 | 27 | −22.22% | −22.22 ÷ 22.22 = **−1.00** |
+| Theatre tickets | +2 | 5 | +40.00% | 40 ÷ 22.22 = **+1.80** |
+| Tinned soup | −6 | 27 | −22.22% | −22.22 ÷ 22.22 = **−1.00** |
 | Milk | +1 | 20.5 | +4.88% | 4.88 ÷ 22.22 = **+0.22** |
 | Table salt | 0 | 1 | 0% | **0** |
 
 **(b)**
 
-- **Restaurant meals: normal** (YED positive). It is also large: quantity rises by a bigger percentage than income.
-- **Instant noodles: inferior** (YED negative). As households get richer, they swap noodles for foods they prefer.
+- **Theatre tickets: normal** (YED positive). It is also large: quantity rises by a bigger percentage than income.
+- **Tinned soup: inferior** (YED negative). As households get richer, they swap tinned soup for fresh food they prefer.
 - **Milk: normal** (YED positive), but the response is small: households already buy most of the milk they want.
 - **Table salt:** YED = 0, so demand is **unrelated to income** over this range.
 
 **(c)** Rearrange the formula: % change in quantity = YED × % change in income.
 
-- Restaurant meals: 1.8 × 5 = **+9%**.
-- Instant noodles: −1.0 × 5 = **−5%**.
+- Theatre tickets: 1.8 × 5 = **+9%**.
+- Tinned soup: −1.0 × 5 = **−5%**.
 
-**Check.** If you divide by starting values instead of averages, noodles give (−6 ÷ 30) ÷ (200 ÷ 800) = −0.20 ÷ 0.25 = −0.80. The sign is the same, so the classification is the same, but the number is not the midpoint answer. Use the midpoint method whenever you have two values of each.
+**Check.** If you divide by starting values instead of averages, tinned soup gives (−6 ÷ 30) ÷ (200 ÷ 800) = −0.20 ÷ 0.25 = −0.80. The sign is the same, so the classification is the same, but the number is not the midpoint answer. Use the midpoint method whenever you have two values of each.
 
 **Interpretation.** The prediction in (c) is "at current prices". Higher incomes shift the demand curves; they do not tell you the new market price. That needs supply as well, which comes in Topics 2.6 and 2.7.
 

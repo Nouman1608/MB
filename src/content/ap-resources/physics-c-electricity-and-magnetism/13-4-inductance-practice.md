@@ -147,7 +147,7 @@ A long air-cored solenoid has 800 turns over a length of 0.40 m and a radius of 
 
 **(d)** |ℰ| = L dI/dt = (0.2132)(40) = **8.5 V**, acting against the current because the current is increasing.
 
-**(e)** A straight wire's field circles round it and links almost none of its own length the way stacked turns do, so its flux linkage per ampere is tiny compared with the coil's. Modelling it as zero inductance puts all the inductance in the solenoid.
+**(e)** A straight wire's field circles round the wire. There are no stacked turns for that field to pass through again and again, so the wire's flux linkage per ampere is tiny compared with the coil's, where N turns each link the strong field inside. Modelling it as zero inductance puts all the inductance in the solenoid.
 
 | Point | What earns it |
 |---|---|

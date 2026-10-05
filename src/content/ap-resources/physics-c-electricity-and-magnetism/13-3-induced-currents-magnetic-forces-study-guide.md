@@ -234,7 +234,7 @@ The same forces can make a loop rotate. Picture a coil spun in a uniform field, 
 ## Common misconceptions
 
 - **"The field pulls the loop in."** The force on an induced current always opposes the relative motion, whether the loop is entering or leaving.
-- **"Every edge of the loop feels a force."** Only segments inside the field feel one. A loop half in the field has a net force; a loop wholly inside a uniform field has none.
+- **"Every edge of the loop feels a force."** Only segments inside the field feel one. A loop moving while half in the field has a net force; a loop wholly inside a uniform field has none.
 - **"A strong field means a big force."** No change in flux means no current and no force, however strong the field.
 - **Forgetting that the force depends on speed.** F = B²L²v/R changes as the rod slows, so the acceleration is not constant. Do not use constant-acceleration equations.
 - **"Bigger resistance gives a bigger braking force."** It is the opposite: less resistance lets more current flow, so the braking is stronger.

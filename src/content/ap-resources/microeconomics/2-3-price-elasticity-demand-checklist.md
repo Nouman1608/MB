@@ -31,7 +31,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 - I can define price elasticity of demand and explain why it uses percentage changes rather than raw changes. *(Guide: "What elasticity measures")*
 - I can classify demand as elastic, inelastic or unit elastic from the size of |PED|, and explain that the label applies to a price range. *(Guide: "Elastic, inelastic and unit elastic"; Practice Q4)*
-- I can describe and draw perfectly elastic and perfectly inelastic demand curves. *(Guide: Figure 1; Practice Q7)*
+- I can describe and draw perfectly elastic and perfectly inelastic demand curves. *(Guide: Figure 1; Practice Q7(c) for the perfectly inelastic case)*
 - I can explain how substitutes, necessity, share of income, time and market definition affect PED. *(Guide: "What makes demand more or less elastic"; Practice Q2, Q6)*
 
 ## Calculation and graphing

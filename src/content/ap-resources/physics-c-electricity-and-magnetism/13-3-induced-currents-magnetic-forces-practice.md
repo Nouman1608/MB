@@ -76,7 +76,7 @@ A metal rod is pulled at constant speed along rails connected by a resistor in a
 
 ## Question 3 (multiple choice · core)
 
-A square loop is dropped from rest above a region of horizontal uniform field. The region is taller than the loop. The loop stays vertical and falls straight down through the region. Compare the magnitudes of its acceleration while it is entering the field (a_in), while it is wholly inside (a_mid) and while it is leaving (a_out).
+A square loop is dropped from rest above a region of uniform horizontal field that is perpendicular to the plane of the loop. The region is taller than the loop. The loop stays vertical and falls straight down through the region. Compare its downward acceleration while it is entering the field (a_in), while it is wholly inside (a_mid) and while it is leaving (a_out).
 
 - (A) a_in < g, a_mid = g, a_out < g
 - (B) a_in < g, a_mid = g, a_out > g
@@ -127,7 +127,7 @@ A square loop of side 0.10 m, mass 0.020 kg and resistance 0.050 Ω slides on a 
 
 Suggested mark points (4): 1 for the current; 1 for the acceleration with direction; 1 for the change of variable to dx and integrating over the length L; 1 for 1.34 m/s.
 
-Common error: using constant-acceleration equations with a = 2.4 m/s². The acceleration falls as the loop slows, so that method gives the wrong speed.
+Common error: using constant-acceleration equations with a = 2.4 m/s². The deceleration falls as the loop slows, so that method is not valid. Here it happens to give 1.33 m/s, close to the right answer only because the speed changes little; for larger speed changes the error is large.
 </details>
 
 ## Question 6 (constructed response · core)

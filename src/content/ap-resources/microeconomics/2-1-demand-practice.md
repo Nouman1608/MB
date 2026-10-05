@@ -34,7 +34,7 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. All places, people, prices and quantities are fictional. Only addition, subtraction and simple multiplication are needed, so a four-function calculator is enough.
+These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. All places, people, prices and quantities are fictional. Only addition, subtraction, multiplication and division are needed, so a four-function calculator is enough.
 
 Questions 1, 2 and 5 use the weekly demand for climbing-wall sessions at the leisure centre in **Brennock**, a fictional town. The centre has three groups of customers:
 

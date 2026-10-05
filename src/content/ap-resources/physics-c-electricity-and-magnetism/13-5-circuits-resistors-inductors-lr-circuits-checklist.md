@@ -32,11 +32,11 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can explain why the current in an inductor cannot change instantly, using ℰ = −L dI/dt. *(Guide: "What an inductor does in a circuit"; Practice Q2)*
 - I can explain why an inductor acts as a wire with zero resistance after a long time. *(Guide: "What an inductor does in a circuit"; Practice Q5(a))*
 - I can give the three meanings of τ: the initial-rate time, 63% of the final current when growing, and 37% of the starting current when decaying. *(Guide: Figure 1; Practice Q3, Q5)*
-- I can explain where the inductor's stored energy goes when the current dies away. *(Guide: "Energy in an LR circuit")*
+- I can explain where the inductor's stored energy goes when the current dies away. *(Guide: "Energy in an LR circuit"; Practice Q6(d))*
 
 ## Calculation and skills
 
-- I can apply the loop rule to a series LR circuit to get ℰ = IR + L dI/dt and solve it by separating variables. *(Guide: "The loop rule and the differential equation")*
+- I can apply the loop rule to a series LR circuit to get ℰ = IR + L dI/dt and solve it by separating variables. *(Guide: "The loop rule and the differential equation"; Practice Q7)*
 - I can calculate τ, the final current, I(t), V_L(t) and the time to reach a given current. *(Guide: Worked example 1; Practice Q1, Q4)*
 - I can find the currents in every branch just after and long after a switch moves. *(Guide: Worked example 2; Practice Q6)*
 - I can check energy conservation using ℰI = I²R + LI dI/dt. *(Practice Q4)*

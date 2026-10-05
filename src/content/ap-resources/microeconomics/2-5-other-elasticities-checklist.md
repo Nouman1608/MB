@@ -33,7 +33,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can define income elasticity of demand and say what a positive, negative or zero value means. *(Guide: "Income elasticity of demand")*
 - I can define cross-price elasticity of demand and say what a positive, negative or zero value means. *(Guide: "Cross-price elasticity of demand"; Practice Q2)*
 - I can explain why the sign must be kept for income and cross-price elasticity. *(Guide: "The midpoint method again"; Practice Q7)*
-- I can explain what the size of an XED says about how closely two goods are linked. *(Guide: "Cross-price elasticity of demand"; Practice Q4)*
+- I can explain what the size of an XED says about how closely two goods are linked. *(Guide: "Cross-price elasticity of demand"; Practice Q2)*
 
 ## Calculation and graphing
 

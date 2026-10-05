@@ -50,7 +50,7 @@ A 50 mH inductor is connected across a charged 2.0 μF capacitor. What is the fr
 
 **Answer: (B).** ω = 1/√(LC) = 1/√(0.050 × 2.0 × 10⁻⁶) = 1/√(1.0 × 10⁻⁷) = 3.16 × 10³ rad/s. Then f = ω/(2π) = 503 Hz.
 
-- (A) uses √(L/C) in place of 1/√(LC). √(L/C) is in ohms, not seconds, so it cannot give a frequency.
+- (A) uses √(L/C) ≈ 158 in place of 1/√(LC), then divides by 2π. √(L/C) is in ohms, not seconds, so it cannot give a frequency.
 - (C) is ω, the **angular** frequency, quoted in hertz. You must divide by 2π.
 - (D) multiplies ω by 2π instead of dividing.
 </details>

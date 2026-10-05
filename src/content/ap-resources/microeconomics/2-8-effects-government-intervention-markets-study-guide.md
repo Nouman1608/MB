@@ -51,6 +51,8 @@ In Topic 2.7 a shortage or surplus disappeared because the price was free to mov
 
 The benchmark is a **perfectly competitive market with no market failures**. In Topic 2.6 you saw that its equilibrium **maximises total surplus**: every unit worth more to a buyer than it costs to produce is traded, and no other unit is. So in such a market, any policy that changes the quantity traded can only **lower** total surplus. The surplus that disappears, and that nobody receives, is called **deadweight loss (DWL)**. It is the loss to buyers and sellers from trades that no longer happen (or, with a subsidy, from units that cost more to make than they are worth).
 
+Price controls, quantity limits, taxes and subsidies change incentives in every type of market, not only competitive ones. This topic uses a competitive market; you will meet the same policies in other market structures later in the course (Topic 6.4).
+
 Throughout this guide we use the monthly market for refills of cooking-gas cylinders on **Brisa**, a fictional island. P is dollars per cylinder and Q is thousands of cylinders per month.
 
 - Demand: **Qd = 160 − 4P**
@@ -122,7 +124,7 @@ A **price ceiling** is a legal **maximum** price. Rent controls and caps on fuel
 <figcaption>Figure 1. A binding price ceiling of $25 on Brisa (fictional data). Sellers supply 30 thousand cylinders but buyers want 60 thousand: a shortage of 30 thousand. Only 30 thousand are traded, so the hatched triangle between 30 and 40 thousand is deadweight loss. The open circle E ($30, 40 thousand) is the equilibrium without the ceiling.</figcaption>
 </figure>
 
-Because the price cannot rise to ration the good, something else does: queues, waiting lists, favouritism, or sales on an illegal market above the ceiling. Sellers may also cut quality, because they cannot charge more. Some buyers gain (those who get the good at a lower price), but others go without.
+Because the price cannot rise to ration the good, something else does: queues, waiting lists, favouritism, or sales on an illegal market above the ceiling. Sellers may also cut quality, because they cannot charge more. Some buyers gain (those who get the good at a lower price), but others go without. A shortage under a ceiling often grows over time, because supply (and often demand) becomes more elastic in the long run: sellers find other uses for their resources, so quantity supplied keeps falling.
 
 ## Price floors
 
@@ -302,7 +304,7 @@ All five create deadweight loss when applied to an efficient competitive market.
 - **"A price ceiling is set above equilibrium."** To have any effect, a ceiling must be **below** equilibrium. A floor must be **above** it.
 - **"A ceiling shifts the demand or supply curve."** Price controls do not shift curves. They hold the price away from equilibrium, causing movements **along** both curves.
 - **"Under a ceiling, quantity sold is quantity demanded."** It is quantity **supplied**, the smaller amount. Under a floor, it is quantity demanded.
-- **"Sellers pay a tax collected from sellers."** Who pays depends on elasticities, not on who hands the money to the government.
+- **"If the tax is collected from sellers, sellers bear all of it."** Who really pays depends on elasticities, not on who hands the money to the government.
 - **"Tax revenue is part of the deadweight loss."** Revenue is transferred to the government, not lost. DWL is the surplus nobody receives.
 - **"A subsidy has no deadweight loss because everyone gains."** Buyers and sellers gain less than the subsidy costs taxpayers.
 - **"A price floor always helps producers."** Those who sell gain, but fewer units are sold, and producer surplus can fall.

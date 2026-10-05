@@ -16,7 +16,7 @@ framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-physics-c-electricity-and-magnetism"]
 keyPoints:
   - "Tick a statement only when you can do it without notes."
-  - "Each statement names the practice question that tests it."
+  - "Most statements name the practice question that tests it."
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
@@ -28,7 +28,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 ## Understanding
 
-- I can describe one cycle of an LC circuit in terms of where the energy is stored at each quarter-period. *(Guide: "The idea: energy passed back and forth")*
+- I can describe one cycle of an LC circuit in terms of where the energy is stored at each quarter-period. *(Guide: "The idea: energy passed back and forth"; Practice Q6(d))*
 - I can explain why the current keeps flowing after the capacitor is empty. *(Guide: "The idea: energy passed back and forth")*
 - I can explain why the charge and current are a quarter-cycle out of step, and what that means for the inductor voltage at maximum current. *(Guide: Figure 1; Practice Q2)*
 - I can state the mass–spring analogy: q with x, I with v, L with m and 1/C with k. *(Guide: "The loop rule gives simple harmonic motion")*

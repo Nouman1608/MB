@@ -21,7 +21,7 @@ skills: ["1", "2", "3", "4"]
 studyMinutes: 45
 difficulty: "foundation"
 calculator: "four-function"
-calculatorNote: "Only addition and subtraction are needed. All people, prices and quantities are fictional"
+calculatorNote: "Only addition, subtraction and multiplication are needed. All people, prices and quantities are fictional"
 related: ["mb-ap-micro-2.1-revision-notes", "mb-ap-micro-2.1-practice", "mb-ap-micro-2.1-checklist"]
 next: "mb-ap-micro-2.1-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
@@ -183,7 +183,7 @@ Only the own price changed. Incomes, tastes and the prices of other drinks did n
 
 **(c)** At $2, Dina buys every cup with MB of at least $2: her 1st to 6th cups. At $4, the 5th cup (MB $3) and 6th cup (MB $2) are no longer worth the price, so she drops them. She now buys 4 cups.
 
-**Check.** The market schedule falls by 3 cups for every $1 rise, so it is a straight line, quantity demanded = 24 − 3 × price. At $4 this gives 24 − 12 = 12. It reaches the price axis at $8, the highest MB of any buyer (Hana's 1st cup).
+**Check.** Over the prices in the table, the market schedule falls by 3 cups for every $1 rise, so the points lie on a straight line, quantity demanded = 24 − 3 × price. At $4 this gives 24 − 12 = 12. The line is only a summary of the steps: at $8, Hana still buys her 1st cup (MB $8), and only above $8, the highest MB of any buyer, does nobody buy.
 
 ## Change in quantity demanded versus change in demand
 
