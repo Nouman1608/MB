@@ -14,7 +14,7 @@ difficulty: "core"
 related: ["mb-ap-physcm-5.2-study-guide", "mb-ap-physcm-5.2-practice", "mb-ap-physcm-5.2-revision-notes"]
 next: "mb-ap-physcm-5.3-study-guide"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-physics-c-mechanics"]
+sources: ["ced-physics-c-mechanics", "page-physics-c-mechanics"]
 keyPoints:
   - "Tick a statement only when you can do it without notes."
   - "Each statement names the practice question that tests it."

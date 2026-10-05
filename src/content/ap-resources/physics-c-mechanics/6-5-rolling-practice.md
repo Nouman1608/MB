@@ -107,7 +107,7 @@ Take **+x to the right** and **clockwise positive**. A uniform solid cylinder of
 <summary>Worked solution</summary>
 
 1. Translation: F − f = Ma_cm (friction assumed to the left). Rotation about the axle: fr = ½Mr² α = ½Mr a_cm, so f = ½Ma_cm.
-2. **(a)** F = Ma_cm(1 + ½), so a_cm = 24 ÷ (8.0 × 1.5) = **2.0 m/s²**, and f = ½ × 8.0 × 2.0 = **8.0 N, to the left** (positive, so the assumed direction was right).
+2. **(a)** F = Ma_cm(1 + ½), so a_cm = 24 ÷ (8.0 × 1.5) = **2.0 m/s²**, and f = ½ × 8.0 × 2.0 = **8.0 N, to the left** (positive, so the assumed direction was correct).
 3. **(b)** μ_s ≥ f ÷ (Mg) = 8.0 ÷ 78.4 = **0.10**.
 4. **(c)** v = a_cm t = **6.0 m/s**. The centre moves ½ × 2.0 × 3.0² = 9.0 m, so W_F = 24 × 9.0 = 216 J. K = ½M(1 + β)v² = ½ × 8.0 × 1.5 × 36 = 216 J. ✓ Friction does no net work.
 

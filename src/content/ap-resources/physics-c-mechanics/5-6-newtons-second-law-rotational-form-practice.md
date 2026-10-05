@@ -73,7 +73,7 @@ Take **counterclockwise as positive**. A wheel with I = 0.50 kg·m² is spinning
 
 - (A) assumes the torque speeds the wheel up in its direction of turning. α follows the net torque, not the motion.
 - (B) adds the torque straight onto ω (−6.0 + 1.5), forgetting to divide by I. Torque and angular velocity have different units.
-- (D) has the right size of change but reverses the final sense. The wheel needs 2.0 s to stop, so after 1.0 s it is still turning clockwise.
+- (D) has the right size but the wrong sign. The wheel needs 2.0 s to stop, so after 1.0 s it is still turning clockwise.
 </details>
 
 ## Question 3 (multiple choice · core)
@@ -139,7 +139,7 @@ m₁gR − m₁R²α − m₂gr − m₂r²α = Iα, so **α = (m₁R − m₂r)
 
 **(b)** Numerator: (0.20 − 0.15)(9.8) = 0.49 N·m. Denominator: 0.040 + 0.040 + 0.015 = 0.095 kg·m². α = **5.2 rad/s²**, clockwise. a₁ = 0.20 × 5.16 = **1.0 m/s² down**; a₂ = 0.10 × 5.16 = **0.52 m/s² up**. T₁ = 1.0(9.8 − 1.03) = **8.8 N**; T₂ = 1.5(9.8 + 0.52) = **15 N** (15.5 N).
 
-Check: T₁R − T₂r = 1.75 − 1.55 = 0.206 N·m, and Iα = 0.040 × 5.16 = 0.206 N·m.
+Check: T₁R − T₂r = 1.754 − 1.547 = 0.206 N·m, and Iα = 0.040 × 5.16 = 0.206 N·m.
 
 **(c)** α = 0 when m₁R = m₂r, so m₁ = m₂r/R = **0.75 kg**. Then T₁ = m₁g and T₂ = m₂g, and the two string torques are equal and opposite: Στ = 0, rotational equilibrium. Starting from rest, the pulley stays at rest.
 

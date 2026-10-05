@@ -46,6 +46,6 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can read turning points, K and U from an energy–position graph. *(Guide: Figure 1; Practice Q4)*
 - I can sketch K, U and E against time on the same axes. *(Guide: Figure 2; Practice Q5(c))*
 - I can linearise speed–position data to find k and E. *(Practice Q6)*
-- I can predict how E, v_max and T change when A, m or k changes, including in a collision. *(Guide: "Changing the amplitude, mass or spring"; Practice Q3, Q7)*
+- I can predict how E, v_max and T change when A, m or k changes, including after a sudden push. *(Guide: "Changing the amplitude, mass or spring"; Practice Q3, Q7)*
 
 All ticked? Move on to [Topic 7.5, Simple and Physical Pendulums](/advanced-course-resources/physics-c-mechanics/7-5-simple-physical-pendulums-study-guide/), or return to the [course roadmap](/advanced-course-resources/physics-c-mechanics/#roadmap).

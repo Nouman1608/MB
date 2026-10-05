@@ -38,7 +38,7 @@ faqs:
   - question: "How is this different from the Physics 1 version of Topic 6.6?"
     answer: "They are separate courses. Physics 1 uses the energy and angular momentum results with algebra. Physics C: Mechanics derives U = −GMm/r by integrating the force, derives K = −½U from Newton's second law, and combines both conservation laws to solve for unknown distances and speeds in elliptical orbits."
   - question: "Do I need Kepler's laws for elliptical orbits?"
-    answer: "Not as separate laws. Everything this topic asks about elliptical orbits follows from conservation of energy and of angular momentum. Kepler's third law for circular orbits belongs to Topic 2.10."
+    answer: "No. The course does not expect Kepler's first or second laws. Everything this topic asks about elliptical orbits follows from conservation of energy and of angular momentum. Kepler's third law for circular orbits belongs to Topic 2.10."
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
@@ -56,7 +56,7 @@ The momenta of the two bodies are equal and opposite in the centre-of-mass frame
 
 **v_M ÷ v_m = m ÷ M**
 
-When m ≪ M, the central body's speed is tiny and the centre of mass sits almost exactly at the central body's centre. So we treat the central body as **fixed** and study only the satellite. In Worked example 1, the planet's speed works out at about 10⁻¹⁸ m/s.
+When m ≪ M, the central body's speed is tiny and the centre of mass sits almost exactly at the central body's centre. So we treat the central body as **fixed** and study only the satellite. In Worked example 1, the planet's speed works out at about 2 × 10⁻¹⁸ m/s.
 
 ## Gravitational potential energy with the zero at infinity
 
@@ -129,13 +129,13 @@ Each result has a meaning you can check:
 <g font-size="12" fill="#1d2b44" text-anchor="end">
 <text x="62" y="74">+1</text><text x="62" y="154">0</text><text x="62" y="234">−1</text><text x="62" y="314">−2</text>
 </g>
-<text x="22" y="190" font-size="13" fill="#1d2b44" text-anchor="middle" transform="rotate(-90 22 190)">energy (units of GMm/2r₀)</text>
+<text x="22" y="190" font-size="13" fill="#1d2b44" text-anchor="middle" transform="rotate(-90 22 190)">energy (units of GMm/(2r₀))</text>
 <polyline fill="none" stroke="#1d2b44" stroke-width="2.5" points="170.0,70.0 180.0,77.3 190.0,83.3 200.0,88.5 210.0,92.9 220.0,96.7 230.0,100.0 240.0,102.9 250.0,105.6 260.0,107.9 270.0,110.0 280.0,111.9 290.0,113.6 300.0,115.2 310.0,116.7 320.0,118.0 330.0,119.2 340.0,120.4 350.0,121.4 360.0,122.4 370.0,123.3 380.0,124.2 390.0,125.0 400.0,125.8 410.0,126.5 420.0,127.1 430.0,127.8 440.0,128.4 450.0,128.9 460.0,129.5 470.0,130.0 480.0,130.5 490.0,131.0"/>
 <polyline fill="none" stroke="#1d2b44" stroke-width="2.5" stroke-dasharray="9 6" points="170.0,310.0 180.0,295.5 190.0,283.3 200.0,273.1 210.0,264.3 220.0,256.7 230.0,250.0 240.0,244.1 250.0,238.9 260.0,234.2 270.0,230.0 280.0,226.2 290.0,222.7 300.0,219.6 310.0,216.7 320.0,214.0 330.0,211.5 340.0,209.3 350.0,207.1 360.0,205.2 370.0,203.3 380.0,201.6 390.0,200.0 400.0,198.5 410.0,197.1 420.0,195.7 430.0,194.4 440.0,193.2 450.0,192.1 460.0,191.0 470.0,190.0 480.0,189.0 490.0,188.1"/>
 <polyline fill="none" stroke="#1d2b44" stroke-width="2.5" stroke-dasharray="2 4" points="170.0,230.0 180.0,222.7 190.0,216.7 200.0,211.5 210.0,207.1 220.0,203.3 230.0,200.0 240.0,197.1 250.0,194.4 260.0,192.1 270.0,190.0 280.0,188.1 290.0,186.4 300.0,184.8 310.0,183.3 320.0,182.0 330.0,180.8 340.0,179.6 350.0,178.6 360.0,177.6 370.0,176.7 380.0,175.8 390.0,175.0 400.0,174.2 410.0,173.5 420.0,172.9 430.0,172.2 440.0,171.6 450.0,171.1 460.0,170.5 470.0,170.0 480.0,169.5 490.0,169.0"/>
 <g font-size="12" fill="#1d2b44">
-<text x="350" y="112">K = GMm/2r (solid)</text>
-<text x="350" y="166">E = −GMm/2r (dotted)</text>
+<text x="350" y="112">K = GMm/(2r) (solid)</text>
+<text x="350" y="166">E = −GMm/(2r) (dotted)</text>
 <text x="350" y="224">U = −GMm/r (dashed)</text>
 </g>
 </svg>
@@ -171,7 +171,7 @@ For a circle, r_p = r_a = r, and E = −GMm/(2r) as before. ✓
 <path d="M358 170 H428" stroke="#1d2b44" stroke-width="1.5"/>
 <g fill="#1d2b44"><circle cx="428" cy="170" r="5"/><circle cx="92" cy="170" r="5"/></g>
 <g stroke="#1d2b44" stroke-width="2.5" fill="none" marker-end="url(#pcm-66-arr)">
-<path d="M428 170 V111"/><path d="M92 170 V190"/>
+<path d="M428 170 V110"/><path d="M92 170 V190"/>
 </g>
 <path d="M330 37 A168 145.5 0 0 0 220 28" fill="none" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="5 4" marker-end="url(#pcm-66-arr)"/>
 <g font-size="12" fill="#1d2b44">
@@ -234,11 +234,11 @@ Energy: ½v_p² − GM/r_p = ½(v_p/3)² − GM/r_a (m cancels). Rearranging:
 
 ½(1 − 1/9)v_p² = (4/9)v_p² = GM(1/r_p − 1/r_a) = 2.00 × 10¹⁴ × (1/7.0 × 10⁶ − 1/2.1 × 10⁷) = 1.91 × 10⁷ m²/s²
 
-So **v_p = 6.5 × 10³ m/s** (6548 m/s) and **v_a = 2.2 × 10³ m/s** (2183 m/s).
+So **v_p = 6.5 × 10³ m/s** (6547 m/s) and **v_a = 2.2 × 10³ m/s** (2182 m/s).
 
-**(b)** E = ½ × 600 × 6548² − (2.00 × 10¹⁴ × 600) ÷ 7.0 × 10⁶ = 1.29 × 10¹⁰ − 1.72 × 10¹⁰ = **−4.3 × 10⁹ J**. Check at apoapsis: 1.43 × 10⁹ − 5.72 × 10⁹ = −4.3 × 10⁹ J ✓, and −GMm/(r_p + r_a) = −4.3 × 10⁹ J ✓.
+**(b)** E = ½ × 600 × 6547² − (2.00 × 10¹⁴ × 600) ÷ 7.0 × 10⁶ = 1.286 × 10¹⁰ − 1.714 × 10¹⁰ = **−4.3 × 10⁹ J**. Check at apoapsis: 1.43 × 10⁹ − 5.71 × 10⁹ = −4.3 × 10⁹ J ✓, and −GMm/(r_p + r_a) = −4.3 × 10⁹ J ✓.
 
-**(c)** From periapsis to apoapsis, U rises from −1.72 × 10¹⁰ J to −5.7 × 10⁹ J, and K falls by the same 1.14 × 10¹⁰ J, from 1.29 × 10¹⁰ J to 1.4 × 10⁹ J. K at periapsis is 9 times K at apoapsis, because the speed is 3 times larger. Then the process reverses on the way back in.
+**(c)** From periapsis to apoapsis, U rises from −1.71 × 10¹⁰ J to −5.7 × 10⁹ J, and K falls by the same 1.14 × 10¹⁰ J, from 1.29 × 10¹⁰ J to 1.4 × 10⁹ J. K at periapsis is 9 times K at apoapsis, because the speed is 3 times larger. Then the process reverses on the way back in.
 
 **Checks.** At r_p, the circular-orbit speed would be √(GM/r_p) = 5.3 × 10³ m/s and the escape speed 7.6 × 10³ m/s. The probe's 6.5 × 10³ m/s lies between them: faster than circular, so it swings out, but not fast enough to escape, consistent with E < 0.
 

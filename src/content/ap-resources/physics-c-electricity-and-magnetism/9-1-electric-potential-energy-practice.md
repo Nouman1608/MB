@@ -70,7 +70,7 @@ Two small charged spheres, +2.0 nC and +6.0 nC, are 0.30 m apart; the system's p
 **Answer: (B).** U ∝ q₁q₂/r. Doubling one charge doubles U; tripling r divides U by 3. The factor is 2 × (1/3) = 2/3. With numbers: U₀ = (8.99 × 10⁹)(2.0 × 10⁻⁹)(6.0 × 10⁻⁹) ÷ 0.30 = 3.60 × 10⁻⁷ J, and the new value is 2.40 × 10⁻⁷ J.
 
 - (A) divides by 3² = 9, as if U ∝ 1/r². That is the force rule, not the energy rule.
-- (C) inverts the factor: it multiplies by r and divides by the charge.
+- (C) inverts the factor: it multiplies by the separation factor (3) and divides by the charge factor (2).
 - (D) multiplies by 3 for the separation instead of dividing.
 </details>
 

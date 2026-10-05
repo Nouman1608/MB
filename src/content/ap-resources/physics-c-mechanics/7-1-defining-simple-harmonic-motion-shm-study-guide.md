@@ -14,7 +14,7 @@ prerequisiteResources: ["mb-ap-physcm-6.6-study-guide"]
 learningObjectives:
   - "Explain how simple harmonic motion differs from other periodic motion"
   - "Locate an equilibrium position by setting the net force to zero, and measure displacement from it"
-  - "Test a force law, a data set or a potential energy function for the SHM condition F_net = −kx"
+  - "Test a force law, a data set or a potential energy function for the SHM condition m a_x = −kΔx"
   - "Use Newton's second law to write the SHM equation d²x/dt² = −(k/m)x, including for a vertical spring"
   - "Find the effective spring constant for small oscillations about a stable equilibrium from d²U/dx²"
 skills: ["1", "2", "3"]
@@ -29,7 +29,7 @@ sources: ["ced-physics-c-mechanics", "page-physics-c-mechanics"]
 keyPoints:
   - "Simple harmonic motion (SHM) is one special kind of periodic motion."
   - "The equilibrium position is where the net force is zero. Measure the displacement x from there."
-  - "SHM happens when the net force is a restoring force whose size is proportional to displacement: F_net = −kx."
+  - "SHM happens when the net force is a restoring force whose size is proportional to displacement: m a_x = −kΔx, with Δx measured from equilibrium."
   - "Newton's second law then gives d²x/dt² = −(k/m)x. Any system whose equation has this form is in SHM."
   - "Near a minimum of U(x), small oscillations are close to SHM with an effective spring constant k = d²U/dx² at the minimum."
 faqs:
@@ -95,13 +95,13 @@ A **restoring force** points **opposite to the displacement**: back toward equil
 
 ## The condition for SHM
 
-An object moves in SHM when the net force on it is a restoring force whose **size is proportional to the displacement** from equilibrium:
+An object moves in SHM when the net force on it is a restoring force whose **size is proportional to the displacement** from equilibrium. Put that force into Newton's second law along x, and you get the equation for this topic:
 
-**F_net,x = −kx**
+**m a_x = −kΔx**
 
-Here k is a positive constant (in N/m). The minus sign makes the force restoring. The proportionality means doubling the displacement doubles the force. For an ideal spring on a level, smooth surface, k is the spring constant from Topic 2.8. For other systems, k is an **effective** spring constant.
+The left side is the net force, F_net,x = m a_x. Δx is the displacement **from the equilibrium position**, and k is a positive constant (in N/m). The minus sign makes the force restoring. The proportionality means doubling the displacement doubles the force. For an ideal spring on a level, smooth surface, k is the spring constant from Topic 2.8. For other systems, k is an **effective** spring constant.
 
-Now apply Newton's second law along x, with a_x = d²x/dt²:
+If you put the origin at equilibrium, Δx is simply x, so F_net,x = −kx. Now write a_x = d²x/dt²:
 
 **m d²x/dt² = −kx, so d²x/dt² = −(k/m)x**
 
@@ -109,7 +109,7 @@ This is a second-order differential equation. It says the acceleration is propor
 
 Three equivalent tests for SHM:
 
-1. **Force law.** F_net,x = −kx about some equilibrium position, with k constant.
+1. **Force law.** m a_x = F_net,x = −kΔx about some equilibrium position, with k constant.
 2. **Graph.** A plot of net force (or acceleration) against displacement is a straight line through the equilibrium point with a **negative** slope.
 3. **Potential energy.** U(x) is a parabola, U = ½kx² + constant, about its minimum, since F_x = −dU/dx = −kx.
 
@@ -119,7 +119,7 @@ Suppose F_net,x = F₀ − kx, where F₀ is constant. Set F_net = 0: equilibriu
 
 ## Small oscillations about any stable equilibrium
 
-Many systems have a force that is not exactly linear. Near a **stable** equilibrium at x₀ (a minimum of U, Topic 3.3), expand U to second order:
+This section is an extension: it combines Topic 7.1 with the stability ideas of Topic 3.3, and uses a second derivative that the Topic 7.1 statements do not ask for directly. Many systems have a force that is not exactly linear. Near a **stable** equilibrium at x₀ (a minimum of U, Topic 3.3), expand U to second order:
 
 U(x) ≈ U(x₀) + ½U″(x₀)(x − x₀)²
 
@@ -198,7 +198,7 @@ This is **not** exactly the SHM equation, because sin θ is not proportional to 
 
 ## Common misconceptions
 
-- **"Any repeating motion is SHM."** Periodic is not enough; the net force must be −kx (Worked example 1(b)).
+- **"Any repeating motion is SHM."** Periodic is not enough; the net force must be −kΔx (Worked example 1(b)).
 - **"Restoring force means spring force."** In a vertical spring, the restoring force is the net of spring force and weight (Worked example 2).
 - **"Gravity spoils SHM."** A constant force only shifts the equilibrium.
 - **Measuring x from the wrong point.** x must be measured from equilibrium, not from the relaxed spring length, when a constant force acts.

@@ -83,8 +83,8 @@ You must also choose a **positive sense**. Usually counterclockwise is positive 
 <text x="326" y="174" font-size="12" fill="#1d2b44">reference line, θ = 0</text>
 <path d="M156.6 37.0 A135 135 0 0 0 53.1 123.8" fill="none" stroke="#1d2b44" stroke-width="2"/>
 <polygon points="49.7,133.2 58.5,123.6 49.1,120.2" fill="#1d2b44"/>
-<text x="12" y="30" font-size="12" fill="#1d2b44">counterclockwise</text>
-<text x="12" y="46" font-size="12" fill="#1d2b44">is positive (seen from the front)</text>
+<text x="12" y="17" font-size="12" fill="#1d2b44">counterclockwise is positive</text>
+<text x="12" y="32" font-size="12" fill="#1d2b44">(seen from the front)</text>
 <text x="186" y="200" font-size="12" fill="#1d2b44">fixed axis</text>
 <text x="318" y="236" font-size="12" fill="#1d2b44">P and Q share one radius line,</text>
 <text x="318" y="252" font-size="12" fill="#1d2b44">so they have the same θ, ω and α,</text>

@@ -31,7 +31,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 - I can define period, frequency and angular frequency, give their units, and convert between them. *(Guide: "Period, frequency and angular frequency")*
 - I can explain why the period of a spring oscillator depends on m and k but not on g or the amplitude. *(Guide: "The object–spring oscillator"; Practice Q3)*
-- I can explain why the mass cancels for a simple pendulum, and why its formula needs small angles in radians. *(Guide: "The simple pendulum"; Practice Q5(d))*
+- I can explain why the mass cancels for a simple pendulum, and why its formula needs small angles in radians. *(Guide: "The simple pendulum"; Practice Q5(c) and (d))*
 
 ## Calculation
 

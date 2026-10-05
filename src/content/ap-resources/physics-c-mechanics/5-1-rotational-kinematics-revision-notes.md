@@ -17,7 +17,7 @@ calculator: "scientific"
 related: ["mb-ap-physcm-5.1-study-guide", "mb-ap-physcm-5.1-practice", "mb-ap-physcm-5.1-checklist"]
 next: "mb-ap-physcm-5.1-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-physics-c-mechanics"]
+sources: ["ced-physics-c-mechanics", "page-physics-c-mechanics"]
 keyPoints:
   - "Differentiate down: θ → ω → α. Integrate up, adding initial conditions."
   - "Constant-α equations only when α is constant."

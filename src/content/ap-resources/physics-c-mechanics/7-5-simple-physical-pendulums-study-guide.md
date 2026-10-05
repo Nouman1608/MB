@@ -183,8 +183,8 @@ Two differences from a gravity pendulum:
 <path d="M280 210 L280 250" stroke="#1d2b44" stroke-width="2" stroke-dasharray="5 4"/>
 <path d="M280 210 L360.3 242.8" stroke="#1d2b44" stroke-width="2.5"/>
 <path d="M280 234 A84 24 0 0 0 328.2 229.7" fill="none" stroke="#1d2b44" stroke-width="1.5"/>
-<path d="M258 120 A22 7 0 0 0 300 121.5" fill="none" stroke="#1d2b44" stroke-width="2"/>
-<polygon points="304,118 296,121 303,126" fill="#1d2b44"/>
+<path d="M301.7 121.2 A22 7 0 0 1 258.7 121.8" fill="none" stroke="#1d2b44" stroke-width="2"/>
+<polygon points="254.9,117.2 263.1,120.8 257.0,125.9" fill="#1d2b44"/>
 <g font-size="13" fill="#1d2b44">
 <text x="290" y="80">wire, torsion constant κ</text>
 <text x="312" y="128">restoring torque τ = −κθ</text>

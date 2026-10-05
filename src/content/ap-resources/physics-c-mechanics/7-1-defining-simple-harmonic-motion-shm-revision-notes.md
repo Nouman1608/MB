@@ -19,7 +19,7 @@ next: "mb-ap-physcm-7.1-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-physics-c-mechanics", "page-physics-c-mechanics"]
 keyPoints:
-  - "SHM: net force F = −kx, measured from equilibrium, with k constant."
+  - "SHM: m a_x = −kΔx, with Δx measured from equilibrium and k constant."
   - "Newton's second law gives d²x/dt² = −(k/m)x, the signature of SHM."
   - "Near a stable minimum of U(x), k_eff = d²U/dx²."
 version: "1.0"
@@ -36,7 +36,7 @@ Short on time? This page is the recap for the **calculus-based** course (separat
 - **Periodic motion** repeats in equal time intervals. **SHM** is a special case of it.
 - The **equilibrium position** is where the net force is zero. Measure displacement x from there.
 - A **restoring force** points opposite to the displacement, back toward equilibrium.
-- **SHM** happens when the restoring (net) force is **proportional** to the displacement: F_net = −kx.
+- **SHM** happens when the restoring (net) force is **proportional** to the displacement: m a_x = −kΔx, with Δx measured from equilibrium (F_net = −kx when x = 0 is at equilibrium).
 - A **constant** extra force (such as gravity on a vertical spring) only shifts the equilibrium; the motion is still SHM with the same k.
 - Near a **stable** equilibrium of any smooth U(x), small oscillations are approximately SHM.
 
@@ -44,7 +44,8 @@ Short on time? This page is the recap for the **calculus-based** course (separat
 
 | Relationship | Meaning |
 |---|---|
-| F_net,x = −kx | SHM condition (x from equilibrium, k > 0 and constant) |
+| m a_x = −kΔx | SHM condition: Newton's second law with a restoring force (Δx from equilibrium, k > 0 and constant) |
+| F_net,x = −kx | the same condition with the origin at equilibrium |
 | d²x/dt² = −(k/m)x | Newton's second law for SHM; any variable obeying this form is in SHM |
 | F₀ − kx = −k(x − F₀/k) | constant force F₀ shifts equilibrium to x_e = F₀/k |
 | d = mg/k | static stretch of a vertical spring; net force about equilibrium is −ky |

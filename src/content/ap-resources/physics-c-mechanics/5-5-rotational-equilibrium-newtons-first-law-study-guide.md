@@ -174,7 +174,7 @@ Notice that g cancels. Any can lighter than this leaves N_A > 0 and the beam sta
 <path d="M360 65 V257 M352 65 H368 M352 257 H368" stroke="#1d2b44" stroke-width="1.2"/>
 <text x="374" y="165" font-size="13" fill="#1d2b44">h = 1.6 m</text>
 <path d="M200 155 H254 M200 149 V161 M254 149 V161" stroke="#1d2b44" stroke-width="1.2"/>
-<text x="227" y="146" font-size="12" fill="#1d2b44" text-anchor="middle">w/2</text>
+<text x="227" y="146" font-size="12" fill="#1d2b44" text-anchor="middle">w/2 = 0.45 m</text>
 <text x="390" y="40" font-size="12" fill="#1d2b44">+x away from wall</text>
 <path d="M390 50 H440" stroke="#1d2b44" stroke-width="1.5" marker-end="url(#pcm55-arr2)"/>
 </svg>

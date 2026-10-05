@@ -61,7 +61,7 @@ V is the **electric potential** at P: the potential energy per unit charge. It d
 - **Scalar:** V has a sign but no direction.
 - **Reference:** for charges of finite size, V = 0 infinitely far away.
 
-The **potential difference** between points A and B is the change in potential energy per unit charge when a test charge moves from A to B:
+The **potential difference** between points A and B tells you how much the potential energy changes, per coulomb, as a test charge goes from A to B:
 
 **ΔV = V_B − V_A = ΔU/q**, so **ΔU = qΔV**
 
@@ -102,7 +102,7 @@ Where these come from:
 - **Ring.** Every piece is the same distance √(R² + x²) from P, so that factor comes out of the integral and ∫dq = Q.
 - **Arc.** Every piece is the distance R from the centre, so V = kQ/R **whatever the angle of the arc**. Compare the field: for a full ring E = 0 at the centre, but V = kQ/R.
 - **Rod on its bisector.** Put the rod from s = −L/2 to s = +L/2. Then V = ∫ kλ ds/√(s² + y²) = kλ [ln(s + √(s² + y²))] evaluated from −L/2 to L/2, which gives the table entry.
-- **Infinite line.** Integrating kλ ds/r along an infinite line diverges, so there is no "V at infinity = 0" reference. Use the field instead; see Worked example 3.
+- **Infinite line.** Integrating kλ ds/r along an infinite line diverges, so there is no "V at infinity = 0" reference. Use the field instead; see Worked example 3. The same method works inside a uniformly charged solid cylinder, using the inside field from Gauss's law (practice Question 7).
 
 ## From field to potential, and back
 
@@ -169,7 +169,7 @@ An **equipotential** (or **isoline**) joins points at the same potential. In 3D 
 <text x="60" y="385" text-anchor="middle">0.10 m</text>
 </g>
 </svg>
-<figcaption>Figure 1. A positive point charge with kq = 30 V·m (q ≈ 3.3 nC). The dashed equipotentials at 300, 200, 150 and 100 V lie at r = 0.10, 0.15, 0.20 and 0.30 m, because V = kq/r. Field lines (solid arrows) cross every equipotential at right angles and point towards lower V. Near the charge a 100 V drop happens over 0.05 m (about 2000 V/m); further out a 50 V drop takes 0.10 m (about 500 V/m), so the field is weaker where the lines are further apart.</figcaption>
+<figcaption>Figure 1. A positive point charge with kq = 30 V·m (q ≈ 3.3 nC). The dashed equipotentials at 300, 200, 150 and 100 V lie at r = 0.10, 0.15, 0.20 and 0.30 m, because V = kq/r. Field lines (solid arrows) cross every equipotential at right angles and point towards lower V. Near the charge a 100 V drop happens over 0.05 m (about 2000 V/m); further out a 50 V drop takes 0.10 m (about 500 V/m), so the field is weaker where the equipotentials are further apart.</figcaption>
 </figure>
 
 ## Batteries: potential difference from chemistry

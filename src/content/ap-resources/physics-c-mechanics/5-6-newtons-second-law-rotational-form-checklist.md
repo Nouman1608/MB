@@ -44,6 +44,6 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 - I can correct a hanging-mass tension for acceleration and include a friction torque when measuring I from a graph. *(Guide: "Measuring rotational inertia in the lab"; Practice Q6)*
 - I can model a torque that depends on ω by separating variables, and explain why constant-α reasoning fails for it. *(Practice Q7)*
-- I can check a result with limiting cases, such as an axle at the center of mass giving α = 0. *(Guide: Worked example 1; Practice Q5(c))*
+- I can check a result with special cases, such as an axle at the center of mass or a balanced stepped pulley giving α = 0. *(Guide: Worked example 1; Practice Q5(c))*
 
 All ticked? Move on to [Topic 6.1, Rotational Kinetic Energy](/advanced-course-resources/physics-c-mechanics/6-1-rotational-kinetic-energy-study-guide/), or return to the [course roadmap](/advanced-course-resources/physics-c-mechanics/#roadmap).

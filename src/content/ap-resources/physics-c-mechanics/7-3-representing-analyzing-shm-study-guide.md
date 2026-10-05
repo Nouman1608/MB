@@ -172,7 +172,7 @@ Driving at other frequencies gives a smaller amplitude, because the pushes are o
 <figure>
 <svg viewBox="0 0 560 320" role="img" aria-labelledby="pcm73-res-title pcm73-res-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="pcm73-res-title">Sketch of amplitude against driving frequency for a lightly damped oscillator</title>
-<desc id="pcm73-res-desc">A qualitative graph with no numbers on the vertical axis. The horizontal axis is driving frequency from zero to twice the natural frequency f₀. The amplitude starts at a small value at low driving frequency, rises slowly, then rises steeply to a sharp peak exactly at the natural frequency f₀, then falls steeply and continues to fall towards zero at high driving frequency. A dashed vertical line marks f₀.</desc>
+<desc id="pcm73-res-desc">A qualitative graph with no numbers on the vertical axis. The horizontal axis is driving frequency from zero to twice the natural frequency f₀. The amplitude starts at a small value at low driving frequency, rises slowly, then rises steeply to a sharp peak at the natural frequency f₀ (for light damping the peak is very close to f₀), then falls steeply and continues to fall towards zero at high driving frequency. A dashed vertical line marks f₀.</desc>
 <rect x="0" y="0" width="560" height="320" fill="#ffffff"/>
 <path d="M80 270 H500 M80 270 V40" stroke="#1d2b44" stroke-width="2" fill="none"/>
 <path d="M280 270 V50" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="6 5"/>

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-7.4-practice"
 title: "Energy of Simple Harmonic Oscillators: Practice Questions (Physics C: Mechanics 7.4)"
-description: "Seven original Marlbridge calculus-based practice questions on oscillator energy: energy sharing, E = ½kA², energy graphs, a constancy proof, sensor data and a collision."
+description: "Seven original Marlbridge calculus-based practice questions on oscillator energy: energy sharing, E = ½kA², energy graphs, a constancy proof, sensor data and a sudden push."
 course: "physics-c-mechanics"
 unit: 7
 topics: ["7.4"]
@@ -190,31 +190,31 @@ Take **+x to the right** of equilibrium. A 0.40 kg glider on a spring oscillates
 
 ## Question 7 (explanation · stretch)
 
-Take **+x to the right**. A 0.50 kg block on a frictionless surface oscillates on a spring with k = 72 N/m and amplitude 0.10 m. A 0.50 kg lump of putty is dropped straight down onto the block and sticks. Consider two cases: in case 1 the putty lands as the block passes through equilibrium; in case 2 it lands as the block is at x = +0.10 m.
+Take **+x to the right**. A 0.50 kg glider on a level, frictionless track oscillates on a spring with k = 72 N/m and amplitude 0.10 m. A small launcher can give the glider one very short push in the +x direction, with impulse 0.15 N·s. The push is so brief that the glider does not move noticeably while it acts. Consider two cases: in case 1 the push happens as the glider passes through equilibrium moving in +x; in case 2 it happens when the glider is momentarily at rest at x = +0.10 m. Give answers to (b) and (c) to 3 significant figures.
 
-(a) Find the total energy, maximum speed and period before the putty lands.
-(b) For case 1, find the new total energy and amplitude. Explain where the missing energy went.
+(a) Find the total energy, maximum speed and period before the push.
+(b) For case 1, find the speed just after the push, the new total energy and the new amplitude.
 (c) For case 2, find the new total energy, amplitude and maximum speed.
-(d) A student says: "Adding mass always takes energy out of an oscillator." Use your answers to evaluate this claim. State what happens to the period in both cases.
+(d) A student says: "The same push always adds the same energy, so both cases end with the same amplitude." Use your answers to evaluate this claim. State what happens to the period in each case.
 
 <details>
 <summary>Model answer and suggested Marlbridge rubric</summary>
 
 **(a)** E = ½ × 72 × 0.10² = **0.36 J**. ω = √(72/0.50) = 12 rad/s, so v_max = Aω = **1.2 m/s** and T = 2π/12 = **0.52 s**.
 
-**(b)** The putty has no horizontal momentum, so horizontal momentum is conserved in the sticking collision: 0.50 × 1.2 = 1.0 × v, so v = 0.60 m/s. New E = ½ × 1.0 × 0.60² = **0.18 J**, so A = √(2 × 0.18/72) = **0.071 m**. The collision is perfectly inelastic: half of the kinetic energy became internal (thermal) energy as the putty deformed.
+**(b)** The impulse changes the velocity by J/m = 0.15/0.50 = 0.30 m/s, so the glider leaves equilibrium at **1.50 m/s**. At x = 0 all the energy is kinetic: E = ½ × 0.50 × 1.50² = **0.563 J** (0.5625 J). Then A = √(2E/k) = √(1.125/72) = **0.125 m**.
 
-**(c)** The block is at rest at the turning point, so there is no collision speed to share and no kinetic energy lost. E stays **0.36 J**, so A stays **0.10 m**. The new ω = √(72/1.0) = 8.5 rad/s, so v_max = **0.85 m/s**.
+**(c)** The glider gains 0.30 m/s from rest, so it gains K = ½ × 0.50 × 0.30² = 0.0225 J while U stays 0.36 J. E = **0.383 J** (0.3825 J), so A = √(2 × 0.3825/72) = **0.103 m** and v_max = √(2E/m) = **1.24 m/s**.
 
-**(d)** The claim is false as a general rule. Case 1 loses half the energy because the putty lands while the block is moving. Case 2 loses none, because the putty lands when the block is momentarily at rest. In both cases the period rises to 2π√(1.0/72) = **0.74 s**, because the period depends on the mass, not on the energy.
+**(d)** The claim is false. Case 1 adds 0.5625 − 0.36 = 0.20 J; case 2 adds only 0.023 J, one-ninth as much. The same impulse does more work on a glider that is already moving, because the glider covers more distance while the force acts (equivalently, ΔK = ½m(v_f² − v_i²) is larger when v_i is larger). So the amplitudes differ: 0.125 m against 0.103 m. In both cases the period stays **0.52 s**, because m and k are unchanged: a bigger amplitude means more energy, not a longer period.
 
 | Point | What earns it |
 |---|---|
 | 1 | (a) E, v_max and T |
-| 1 | (b) Momentum conservation gives 0.60 m/s |
-| 1 | (b) New E = 0.18 J and A = 0.071 m, with energy lost to internal energy in the inelastic collision |
-| 1 | (c) E and A unchanged; v_max = 0.85 m/s |
-| 1 | (d) Rejects the claim with reference to when the putty lands, and gives T = 0.74 s in both cases |
+| 1 | (b) Δv = J/m, giving 1.50 m/s at equilibrium |
+| 1 | (b) E = 0.563 J and A = 0.125 m |
+| 1 | (c) Adds the new kinetic energy to the unchanged potential energy: E = 0.383 J, A = 0.103 m, v_max = 1.24 m/s |
+| 1 | (d) Rejects the claim, explaining that the energy added depends on the speed at the push, and states T = 0.52 s in both cases |
 </details>
 
 ## How did you do?

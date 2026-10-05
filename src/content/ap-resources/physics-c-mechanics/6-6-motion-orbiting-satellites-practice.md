@@ -158,7 +158,7 @@ A 1500 kg satellite orbits the fictional planet Teshun (mass 8.0 × 10²⁴ kg).
 
 GM = 6.67 × 10⁻¹¹ × 8.0 × 10²⁴ = 5.34 × 10¹⁴ N·m²/kg.
 
-**(a)** Circular speed at r_p: √(GM/r_p) = √(5.34 × 10¹⁴ ÷ 9.0 × 10⁶) = 7.70 × 10³ m/s. Escape speed there: √2 × 7.70 × 10³ = 10.9 × 10³ m/s. The satellite's 8.5 × 10³ m/s is greater than the circular speed (so it swings outward: not circular) but less than the escape speed (so E < 0: bound).
+**(a)** Circular speed at r_p: √(GM/r_p) = √(5.34 × 10¹⁴ ÷ 9.0 × 10⁶) = 7.70 × 10³ m/s. Escape speed there: √2 × 7.70 × 10³ = 1.09 × 10⁴ m/s. The satellite's 8.5 × 10³ m/s is greater than the circular speed (so it swings outward: not circular) but less than the escape speed (so E < 0: bound).
 
 **(b)** Angular momentum (v ⟂ r at both ends): v_a = v_p r_p/r_a. Energy: ½v_p² − GM/r_p = ½v_p² r_p²/r_a² − GM/r_a. This is a quadratic in 1/r_a. One root is r_a = r_p (the closest point itself); the other is
 
@@ -204,7 +204,7 @@ A student writes: "Gravity always acts at right angles to a satellite's velocity
 | 1 | Writes P in terms of the radial velocity and says it is zero for a circular orbit |
 | 1 | Explains that on an ellipse gravity has a component along v, so K changes |
 | 1 | P < 0 moving outward, with the speed decreasing |
-| 1 | Explains the planet's motion by momentum conservation and estimates about 10⁻¹⁸ m/s |
+| 1 | Explains the planet's motion by momentum conservation and estimates a speed of order 10⁻¹⁸ m/s |
 </details>
 
 ## How did you do?

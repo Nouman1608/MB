@@ -203,7 +203,7 @@ When a question asks you to compare two scenarios, write K = ½Iω² for each, c
 
 **(c) The graph.** K_trans = ½M(5.0 − 9.8t)² is a parabola that falls to zero at 0.51 s and rises back to 5.0 J when the baton returns to the release height at 1.02 s. K_rot is a horizontal line at 1.84 J. The total is the parabola shifted up by 1.84 J (Figure 2). The loss of total kinetic energy on the way up goes into gravitational potential energy of the baton–Earth system.
 
-**Why not use the tip speed?** When the baton is horizontal, one tip moves at 5.0 + 0.35 × 15 = 10.25 m/s and the other at 5.0 − 5.25 = −0.25 m/s (slightly downward). No single point's speed gives the kinetic energy; the split formula does it correctly.
+**Why not use the tip speed?** If the baton is horizontal at release, one tip moves at 5.0 + 0.35 × 15 = 10.25 m/s and the other at 5.0 − 5.25 = −0.25 m/s (slightly downward). No single point's speed gives the kinetic energy; the split formula does it correctly.
 
 <figure>
 <svg viewBox="0 0 560 340" role="img" aria-labelledby="pcm-61-kt-title pcm-61-kt-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">

@@ -101,11 +101,11 @@ Notice the different dependences: a_T depends on α, but a_c depends on ω². Ea
 <circle cx="150" cy="75" r="5" fill="#1d2b44"/>
 <path d="M150 132.5 H111" stroke="#1d2b44" stroke-width="2.5"/>
 <polygon points="103,132.5 113,127.5 113,137.5" fill="#1d2b44"/>
-<path d="M150 75 H68" stroke="#1d2b44" stroke-width="2.5"/>
-<polygon points="60,75 70,70 70,80" fill="#1d2b44"/>
+<path d="M150 75 H64" stroke="#1d2b44" stroke-width="2.5"/>
+<polygon points="56,75 66,70 66,80" fill="#1d2b44"/>
 <text x="158" y="137" font-size="12" fill="#1d2b44" font-weight="600">P (distance r)</text>
 <text x="158" y="80" font-size="12" fill="#1d2b44" font-weight="600">Q (distance 2r)</text>
-<text x="96" y="124" font-size="12" fill="#1d2b44" text-anchor="end">v_P = rω</text>
+<text x="118" y="152" font-size="12" fill="#1d2b44" text-anchor="middle">v_P = rω</text>
 <text x="56" y="62" font-size="12" fill="#1d2b44">v_Q = 2rω</text>
 <path d="M121.8 200.3 A30 30 0 0 0 178.2 200.3" fill="none" stroke="#1d2b44" stroke-width="1.8"/>
 <polygon points="181.6,190.9 182.9,202.0 173.5,198.6" fill="#1d2b44"/>

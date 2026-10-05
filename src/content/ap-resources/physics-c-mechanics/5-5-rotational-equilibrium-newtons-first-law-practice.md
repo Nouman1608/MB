@@ -106,7 +106,7 @@ Take **+x to the right and +y upward**, origin at the hinge. A uniform drawbridg
 2. **Torques about the hinge** (the hinge force drops out). The weight’s lever arm is the horizontal distance to the midpoint: (L/2) cos 30° = 4.0 × 0.866 = 3.46 m, clockwise: −8820 × 3.46 = −3.06 × 10⁴ N·m. The horizontal cable’s lever arm is the height of the upper end: L sin 30° = 4.0 m; pulling left above the hinge, it gives +4.0T.
 3. **(a)** 4.0T − 3.06 × 10⁴ = 0, so T = **7.6 × 10³ N** (7640 N). In symbols, T = Mg/(2 tan 30°).
 4. **(b)** ΣF_x = 0: H − T = 0, so H = 7640 N to the right. ΣF_y = 0: V − 8820 = 0, so V = 8820 N upward.
-5. Size: √(7640² + 8820²) = **1.2 × 10⁴ N**, at tan⁻¹(8820/7640) = **49° above the horizontal**, pointing to the right (into the bridge).
+5. Size: √(7640² + 8820²) = **1.2 × 10⁴ N**, at tan⁻¹(8820/7640) = **49° above the horizontal**, pointing up and to the right. Note that this is steeper than the bridge itself (30°): the hinge force does not act along the bridge.
 
 Suggested mark points (4): 1 for both lever arms; 1 for the torque equation and T; 1 for the two force components from ΣF = 0; 1 for the size and direction of the hinge force.
 

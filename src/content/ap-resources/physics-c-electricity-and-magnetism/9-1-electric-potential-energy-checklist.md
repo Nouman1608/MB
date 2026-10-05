@@ -36,7 +36,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 ## Calculation and skills
 
-- I can derive U = kq₁q₂/r by integrating the external force from infinity. *(Guide: "Deriving U from the work done"; Practice Q7)*
+- I can derive U = kq₁q₂/r by integrating the external force from infinity. *(Guide: "Deriving U from the work done" and Worked example 2)*
 - I can calculate U for a pair of charges, keeping the signs, including charges given as multiples of e. *(Practice Q4)*
 - I can find the total U of three or more charges by adding each pair once. *(Guide: Worked example 1; Practice Q3, Q5)*
 - I can find the work done by an external agent and by the electric forces when a system is rearranged. *(Practice Q5, Q7)*

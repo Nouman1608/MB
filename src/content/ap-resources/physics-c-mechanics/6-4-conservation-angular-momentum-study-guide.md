@@ -85,7 +85,7 @@ Angular momentum is conserved in **every** interaction: it is only ever moved fr
 |---|---|---|---|
 | Two disks on one frictionless shaft, coupled by a clutch | both disks | none (clutch torque is internal) | constant |
 | Same, but you look at one disk only | disk A | clutch torque from disk B | changes |
-| Clay hits a rod pivoted at one end | clay + rod, about the pivot | pivot force passes through the axis: zero torque | constant about the pivot |
+| Clay hits a rod pivoted at one end | clay + rod, about the pivot | pivot force passes through the axis: zero torque (gravity's angular impulse is negligible during the brief impact) | constant about the pivot |
 | A motor on a fixed stand spins up a fan | fan alone | motor torque | increases |
 | Same | fan + motor + stand + Earth | none | constant (the Earth gains the opposite L) |
 | A wheel slowing on a rubbing axle | wheel alone | friction torque | decreases: L passes to the mount and Earth |
@@ -174,7 +174,7 @@ At constant L, K is inversely proportional to I. Reducing I to one third makes �
 **(c) Shape of the graph.**
 
 1. dω/dr = −2Lmr/(I_r + mr²)². It is negative for every r > 0: ω falls continuously as the bead moves out.
-2. Near r = 0.10 m the slope is small, because the bead adds little to I there. Further out the mr² term grows, and ω falls faster (Figure 2).
+2. Near r = 0.10 m the slope is small, because the bead adds little to I there. Further out the mr² term grows, and ω falls faster. The slope is steepest at r = √(I_r/(3m)) ≈ 0.37 m, then eases very slightly as I itself becomes large (Figure 2).
 
 **(d) Energy.**
 
@@ -186,7 +186,7 @@ At constant L, K is inversely proportional to I. Reducing I to one third makes �
 <figure>
 <svg viewBox="0 0 560 320" role="img" aria-labelledby="pcm-64-wr-title pcm-64-wr-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="pcm-64-wr-title">Angular velocity against bead distance for the spinning rod</title>
-<desc id="pcm-64-wr-desc">Angular velocity in radians per second, from 0 to 12, against the bead's distance from the axle in metres, from 0 to 0.6. A solid curve starts at 10 rad/s at r = 0.10 m, falls slowly at first and then more steeply, reaching 6.3 rad/s at r = 0.50 m. Both end points are marked with circles. A note states that L stays at 0.41 kilogram metres squared per second along the whole curve.</desc>
+<desc id="pcm-64-wr-desc">Angular velocity in radians per second, from 0 to 12, against the bead's distance from the axle in metres, from 0 to 0.6. A solid curve starts at 10 rad/s at r = 0.10 m, falls slowly at first and then more steeply, with the steepest part near r = 0.37 m, reaching 6.3 rad/s at r = 0.50 m. Both end points are marked with circles. A note states that L stays at 0.41 kilogram metres squared per second along the whole curve.</desc>
 <rect x="0" y="0" width="560" height="320" fill="#ffffff"/>
 <g stroke="#1d2b44" stroke-width="0.5" stroke-dasharray="2 4" opacity="0.5">
 <path d="M70 190 H500 M70 110 H500 M70 30 H500"/>
@@ -210,7 +210,7 @@ At constant L, K is inversely proportional to I. Reducing I to one third makes �
 <text x="160" y="220">L = (I_r + mr²)ω = 0.41 kg·m²/s throughout</text>
 </g>
 </svg>
-<figcaption>Figure 2. Worked example 2. As the bead slides out, I = I_r + mr² grows and ω = L/I falls, slowly at first and then faster, because the bead's contribution grows as r².</figcaption>
+<figcaption>Figure 2. Worked example 2. As the bead slides out, I = I_r + mr² grows and ω = L/I falls, slowly at first and then faster, because the bead's contribution grows as r². The curve is steepest near r = 0.37 m.</figcaption>
 </figure>
 
 ## Common misconceptions

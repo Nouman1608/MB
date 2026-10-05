@@ -170,7 +170,7 @@ Take the rotor's direction of spin as positive.
 
 **(d)** At **t = 1.5 s**. dL/dt equals the net torque, and the motor torque is largest there (0.160 N·m). Friction is small and roughly constant, so the net torque is still largest at 1.5 s.
 
-**(e)** L starts at 0 with a gentle slope, rises most steeply around 1.5 s, then flattens as the torque falls, reaching about 0.34 kg·m²/s at 3.0 s. It never decreases, because the motor torque is never negative.
+**(e)** L starts at 0 with zero slope (the motor torque is zero at t = 0), rises most steeply around 1.5 s, then flattens as the torque falls, reaching about 0.34 kg·m²/s at 3.0 s. It never decreases, because the motor torque is never negative.
 
 | Point | What earns it |
 |---|---|

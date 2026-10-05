@@ -48,7 +48,7 @@ author: "marlbridge-academic-team"
 
 ## A torque transfers energy only through an angle
 
-In Topic 3.2, a force does work on an object only if the point where it acts moves along the line of the force. The rotational version is similar: **a torque transfers energy into or out of a rigid body only if the body turns through an angle while the torque acts.**
+In Topic 3.2, a force does work on an object only if the point where it acts has a displacement with a component along the force. The rotational version is similar: **a torque transfers energy into or out of a rigid body only if the body turns through an angle while the torque acts.**
 
 - A mechanic leans on a spanner but the rusted nut does not move. There is a large torque, but Δθ = 0, so **no work** is done and no energy is transferred to the nut.
 - An electric drill turns a bit through many revolutions while exerting a torque in the direction of rotation. Energy flows from the motor into the bit: **positive work**.
@@ -87,7 +87,7 @@ If the torque is constant, it comes outside the integral: **W = τΔθ**.
 <path d="M295.3 135 L307.3 37" stroke="#1d2b44" stroke-width="3" marker-end="url(#pcm-62-arr)"/>
 <path d="M295.3 135 L255.3 65.7" stroke="#1d2b44" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pcm-62-arr)"/>
 <path d="M295.3 135 L347.3 105" stroke="#1d2b44" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pcm-62-arr)"/>
-<path d="M120 300 A115 115 0 0 1 90 230" fill="none" stroke="#1d2b44" stroke-width="1.5" marker-end="url(#pcm-62-arr)"/>
+<path d="M90 230 A115 115 0 0 0 120 300" fill="none" stroke="#1d2b44" stroke-width="1.5" marker-end="url(#pcm-62-arr)"/>
 <g font-size="12" fill="#1d2b44">
 <text x="180" y="212">O (axis)</text>
 <text x="240" y="178">r</text>
@@ -165,7 +165,7 @@ Since W = ∫τ dθ, the work done by a torque between two angles is the **signe
 <figure>
 <svg viewBox="0 0 560 330" role="img" aria-labelledby="pcm-62-tt-title pcm-62-tt-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="pcm-62-tt-title">Torque against angle for the grinding wheel</title>
-<desc id="pcm-62-tt-desc">Torque in newton metres from −2 to 13 against angular position in radians from 0 to 8. The motor torque is a solid straight line falling from 12 N·m at 0 rad to 0 at 8 rad; the triangle under it is shaded and labelled +48 J. The friction torque is a dashed horizontal line at −1 N·m from 0 to 8 rad; the strip between it and the axis is hatched and labelled −8 J. A marker at 7.33 rad, where the motor torque equals 1 N·m, is labelled net torque zero, greatest angular velocity.</desc>
+<desc id="pcm-62-tt-desc">Torque in newton metres, labelled from −2 to 12, against angular position in radians from 0 to 8. The motor torque is a solid straight line falling from 12 N·m at 0 rad to 0 at 8 rad; the triangle under it is shaded and labelled +48 J. The friction torque is a dashed horizontal line at −1 N·m from 0 to 8 rad; the strip between it and the axis is hatched and labelled −8 J. A marker at 7.33 rad, where the motor torque equals 1 N·m, is labelled net torque zero, greatest angular velocity.</desc>
 <defs><pattern id="pcm-62-hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><path d="M0 0 V6" stroke="#1d2b44" stroke-width="1"/></pattern></defs>
 <rect x="0" y="0" width="560" height="330" fill="#ffffff"/>
 <g stroke="#1d2b44" stroke-width="0.5" stroke-dasharray="2 4" opacity="0.5">

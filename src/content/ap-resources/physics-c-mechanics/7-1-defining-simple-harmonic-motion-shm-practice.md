@@ -89,7 +89,7 @@ Take **+x to the right**. An object moves along x in a system with U(x) = 3.0x²
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** F_x = −dU/dx = −6.0x − 2.0. F = 0 at x = −1/3 m ≈ −0.33 m. d²U/dx² = 6.0 J/m² > 0, so this is a stable minimum with k = 6.0 N/m. Since U is exactly a parabola, the force is exactly −6.0(x + 0.33): SHM.
+**Answer: (B).** F_x = −dU/dx = −6.0x − 2.0. F = 0 at x = −1/3 m ≈ −0.33 m. d²U/dx² = 6.0 J/m² > 0, so this is a stable minimum with k = 6.0 N/m. Since U is exactly a parabola, the force is exactly −6.0(x + 1/3): SHM.
 
 - (A) takes the coefficient of x² as k and ignores the shift. U = ½kx² means k is **twice** that coefficient, and the linear term moves the minimum.
 - (C) finds the right equilibrium but again uses the x² coefficient instead of d²U/dx².

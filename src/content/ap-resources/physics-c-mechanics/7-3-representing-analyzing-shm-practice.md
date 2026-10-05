@@ -91,7 +91,7 @@ A 0.25 kg object is attached to a horizontal spring with k = 100 N/m. A small mo
 **Answer: (B).** Resonance happens when the driving frequency equals the natural frequency. ω = √(k/m) = √(100/0.25) = 20 rad/s, so f₀ = ω/2π = 3.2 Hz.
 
 - (A) is the natural period, 1/f₀ = 0.31 s, written as a frequency.
-- (C) is 2f₀. Pushing twice per cycle means every second push opposes the motion, so energy is not added steadily.
+- (C) is 2f₀. A force at this frequency is out of step with the motion, so it cannot add energy every cycle.
 - (D) is ω in rad/s used as if it were a frequency in Hz.
 </details>
 

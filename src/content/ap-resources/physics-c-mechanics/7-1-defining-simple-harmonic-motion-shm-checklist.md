@@ -31,7 +31,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 - I can explain why SHM is a special case of periodic motion, and give a periodic motion that is not SHM. *(Guide: "Periodic motion and SHM"; Practice Q7)*
 - I can define an equilibrium position as a place of zero net force, and a restoring force as one opposite to the displacement. *(Guide: Figure 1)*
-- I can state the SHM condition F_net = −kx and explain what both the minus sign and the proportionality mean. *(Guide: "The condition for SHM"; Practice Q1)*
+- I can state the SHM condition m a_x = −kΔx (or F_net = −kx with x measured from equilibrium) and explain what both the minus sign and the proportionality mean. *(Guide: "The condition for SHM"; Practice Q1)*
 - I can explain why a constant force such as gravity shifts the equilibrium but does not stop the motion being SHM. *(Guide: Worked example 2; Practice Q5(d))*
 
 ## Skills

@@ -36,7 +36,7 @@ faqs:
   - question: "How is this different from the Physics 1 version of Topic 5.4?"
     answer: "They are separate courses with the same topic title. Physics 1 uses I = Σmr², given formulas and the parallel axis theorem. Physics C: Mechanics adds calculus: you derive I = ∫r² dm for rods (including nonuniform ones), shells, disks and annular rings."
   - question: "Do I need to derive the rotational inertia of a solid sphere?"
-    answer: "No. The derivations expected are for thin rods about a perpendicular axis, and for thin cylindrical shells, disks and other shapes built from coaxial rings or shells about their central axis. If a sphere appears, its I will be given."
+    answer: "No. The derivations expected are for thin rods about a perpendicular axis, and for thin cylindrical shells, disks and other shapes built from coaxial rings or shells about their central axis. If a sphere appears, expect its I to be given, or to be asked only to reason about it qualitatively."
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
@@ -175,7 +175,7 @@ Check the limits: R₁ → 0 gives the disk, ½MR₂². R₁ → R₂ gives the 
 <figcaption>Figure 2. For an annular ring of fixed mass and outer radius, I = ½M(R₁² + R₂²) rises from ½MR₂² (solid disk) to MR₂² (hoop) as the hole grows and the mass moves outwards.</figcaption>
 </figure>
 
-**What you derive and what is given.** In this course, calculus derivations are expected for thin rods (uniform or not) about any axis perpendicular to the rod, and for thin cylindrical shells, disks and other shapes built from **coaxial rings or shells**, about their central axis. For other shapes, such as a solid sphere, the rotational inertia will be given; you only need to reason about it qualitatively.
+**What you derive and what is given.** In this course, calculus derivations are expected for thin rods (uniform or not) about any axis perpendicular to the rod, and for thin cylindrical shells, disks and other shapes built from **coaxial rings or shells**, about their central axis. For other shapes, such as a solid sphere, expect the rotational inertia to be given; you only need to reason about it qualitatively.
 
 ## The parallel axis theorem
 

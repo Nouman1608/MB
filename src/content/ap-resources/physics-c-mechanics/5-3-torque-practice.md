@@ -140,7 +140,7 @@ A uniform square plate has side 0.60 m and mass 2.0 kg. It hangs in a vertical p
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** A square outline with O marked at the top-left corner. Arrows: weight W = 2.0 × 9.8 = 19.6 N straight down from the centre (0.30 m, −0.30 m); 15 N to the right from the bottom-left corner; 12 N upwards from the top-right corner; the axle force drawn at O (direction unknown, so any labelled arrow at O is fine).
+**(a)** A square outline with O marked at the top-left corner. Arrows, with lengths roughly in proportion to the forces: weight W = 2.0 × 9.8 = 19.6 N straight down from the centre (0.30 m, −0.30 m); 15 N to the right from the bottom-left corner; 12 N upwards from the top-right corner; the axle force drawn at O (direction unknown, so any labelled arrow at O is fine).
 
 **(b)** Use τ_z = xF_y − yF_x:
 
@@ -157,7 +157,7 @@ A uniform square plate has side 0.60 m and mass 2.0 kg. It hangs in a vertical p
 
 | Point | What earns it |
 |---|---|
-| 1 | (a) Every force starts at its correct point of application, including weight at the centre |
+| 1 | (a) Every force starts at its correct point of application, including weight at the centre, with arrow lengths roughly in proportion (weight longest) |
 | 1 | (b) Weight torque −5.9 N·m with sign (lever arm 0.30 m) |
 | 1 | (b) Both pull torques +9.0 N·m and +7.2 N·m with signs |
 | 1 | (c) Net +10 N·m, counterclockwise (carry forward errors from (b)) |
@@ -214,7 +214,7 @@ A tap wrench is a bar with a handle at each end. You push on the two handles wit
 
 **(a)** τ_net = (a)(18) + (a + 0.50)(−18) = 18a − 18a − 9.0 = **−9.0 N·m**. The a cancels: the net torque is 9.0 N·m clockwise **about every axis** along the bar. A pair like this, equal and opposite forces on different lines of action, is called a **couple**.
 
-**(b)** One 18 N force at x = 0.50 m gives 9.0 N·m about the origin and zero about x = 0.50 m. In Worked example 3, the net torque was 0 about the left end and −30 N·m about the midpoint. So the claim fails in general.
+**(b)** One force of +18ĵ N at x = 0.50 m gives +9.0 N·m about the origin and zero about x = 0.50 m. In Worked example 3, the net torque was 0 about the left end and −30 N·m about the midpoint. So the claim fails in general.
 
 **(c)** Move the axis to a point at position **s**. Each r becomes r − s, so the new net torque is Σ(r_i − s) × F_i = Σ(r_i × F_i) − s × (ΣF_i). The change is −s × F_net. If **F_net = 0**, the change is zero for every s, so the net torque is the same about every axis. The claim is true **only when the net force is zero**.
 
