@@ -130,6 +130,12 @@ for (const r of records) {
     const n = (r.body.match(/I can /g) ?? []).length;
     if (n < 6) fail(r.path, `checklist has ${n} "I can" statements (minimum 6)`);
   }
+  if (d.resourceType === 'exam-skills') {
+    if (d.topics.length) fail(r.path, 'exam-skills guides are course-wide: topics must be empty');
+    if (d.unit !== c.units[0].number) fail(r.path, `exam-skills guides use the course's first unit (${c.units[0].number}) as a course-wide marker`);
+    if (words < 1500) fail(r.path, `exam-skills guide is only ${words} words`);
+    if (!/original Marlbridge/i.test(r.body)) fail(r.path, 'exam-skills guide must say its examples are original Marlbridge practice');
+  }
   if (d.resourceType === 'revision-notes' && !/\]\(\/advanced-course-resources\/[^)]*study-guide\/\)/.test(r.body)) fail(r.path, 'revision notes must link back to the full study guide');
 }
 

@@ -1,5 +1,7 @@
 # Facts kept without an online check -- AP library Phase 2 (5 Oct 2026)
 
+**Status (5 Oct 2026, 22:00 PKT): checked online.** Every item below was checked with WebFetch by an independent checker; 287 confirmed across both lists, none wrong, 8 not reachable online (standard statements). Results line by line: `facts-online-check-results-2026-10-05.md`.
+
 WebFetch permission requests timed out while the owner was away, so writers and verifiers could not check these online. Each was kept only because it is a standard reference value or well-established fact; the coordinator re-checked every line against standard data and found no error. Check them online (NIST, Wikipedia, CRC tables) when convenient; nothing here is invented or estimated.
 
 ## mb-ap-bio-1.2-study-guide

@@ -15351,3 +15351,19 @@ Practice questions are labelled by criterion A–D with the "revision aid, not I
 **Validation (19:20 PKT).** `validate-ap-library` 2,368/2,368; `validate:academic`, `check:duplicate-scope`, `validate-review-integrity` PASS; `npm run build` OK; `audit:all` PASS after fixing two duplicate checklist descriptions, nine SVG paths whose `Q` commands looked like audit IDs, a `U12` label, a line that rendered as a task-list checkbox (Chemistry 5.3), three Calculus 7.7 titles over 110 characters and one description over 220.
 
 **Owner decisions.** Merge to main (merging publishes); AP teacher review; online check of the Phase 2 and Phase 3 facts lists.
+
+## D-394 -- AP library: exam-skills guides for every course, online check of the kept-facts lists, handover refresh (branch `ap-exam-skills`, 5 Oct 2026, 22:20 PKT)
+
+**Request.** After Phase 3 the owner asked for the three open items Claude could do: exam-skills guides, the online facts check and the handover refresh (5 Oct, 21:06 PKT).
+
+**Exam-skills guides (20 resources; library now 2,388).** Two course-wide guides per course (Calculus written once as `ab-and-bc`, listed on both hubs): "Task Verbs and Free-Response Technique" for every course, plus Chemistry "Explanations, Calculations and Representations", Biology "Experimental Design and Data Analysis", Calculus "Notation, Justification and Communication" (BC-only notes labelled), Statistics "Communicating Statistics: Context, Conditions and Conclusions", Physics 1, 2, C: Mechanics and C: E&M "Representations, Derivations and Experimental Design", Micro and Macro "Drawing Graphs and Writing Cause-and-Effect Explanations". Each paraphrases the CED task-verb list (12-word overlap with the CED: 0 for all 20), states exam format only from `frameworks.ts`/the CED, and has at least three weak-versus-strong worked examples from different units with a suggested Marlbridge rubric, common mistakes, original practice tasks with model answers, and links into the course. One writer and one independent verifier each (`/home/claude/ap/BRIEF_SKILLS.md`, `VERIFY_SKILLS.md`). Verifiers replaced more than 40 examples that repeated the library's own topic or unit questions or resembled released or textbook questions (e.g. a well-known charged-sphere textbook problem in E&M, a tea-cooling set-up close to a released Calculus question), and corrected a Physics 2 PV diagram drawn off scale, a Microeconomics ATC below its stated minimum, a Statistics definition of "complete" wider than the CED's, and an over-claim that graphs appear only in free response. Credit line added after verification.
+
+**Site changes.** Course hubs list exam-skills guides in a new "Exam skills" section (not under a unit); their pages show "Whole course" scope. Exam-skills guides use the course's first unit number as a marker (1; Physics 2: 9; E&M: 8). `validate-ap-library` checks this, empty topics, at least 1,500 words and the "original Marlbridge" line.
+
+**Facts check.** Six independent checkers re-checked every item in `facts-pending-online-check-2026-10-05.md` and `facts-phase3-2026-10-05.md` online with WebFetch: 287 confirmed, 0 wrong, 8 standard statements not reachable (rate limits or refused fetches). Results: `docs/ap-library/facts-online-check-results-2026-10-05.md`; both registers now carry a status line.
+
+**Handover.** `docs/ap-library/handover-2026-10-05.md` rewritten to describe the complete library, how it fits together, known audit traps, open owner decisions and next work; README status updated.
+
+**Validation (22:05 PKT).** `validate-ap-library` 2,388/2,388; `validate:academic`, `check:duplicate-scope`, `validate-review-integrity` PASS; `npm run build` OK; `audit:all` PASS after making two identical task-verb descriptions distinct. Hub section and a guide checked at 390 px (no horizontal scroll).
+
+**Owner decisions.** Merge to main (publishes); AP teacher review; Search Console indexing of the new pages.
