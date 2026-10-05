@@ -12,12 +12,13 @@ skills: ["1", "2", "3"]
 studyMinutes: 10
 difficulty: "core"
 related: ["mb-ap-phys2-9.4-study-guide", "mb-ap-phys2-9.4-practice", "mb-ap-phys2-9.4-revision-notes"]
+next: "mb-ap-phys2-9.5-study-guide"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-physics-2"]
 keyPoints:
   - "Tick a statement only when you can do it without notes."
   - "Each statement names the practice question that tests it."
-version: "1.0"
+version: "1.1"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
 editorialStatus: "drafted"

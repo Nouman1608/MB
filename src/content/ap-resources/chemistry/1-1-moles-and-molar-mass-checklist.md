@@ -12,12 +12,13 @@ skills: ["1", "5", "6"]
 studyMinutes: 10
 difficulty: "foundation"
 related: ["mb-ap-chem-1.1-study-guide", "mb-ap-chem-1.1-practice", "mb-ap-chem-1.1-revision-notes"]
+next: "mb-ap-chem-1.2-study-guide"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-chemistry"]
 keyPoints:
   - "Tick a statement only when you can do it without notes."
   - "Each statement names the practice question that tests it."
-version: "1.0"
+version: "1.1"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
 editorialStatus: "drafted"

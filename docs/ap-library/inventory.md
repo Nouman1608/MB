@@ -1,6 +1,6 @@
 # Advanced-course (AP) library -- resource inventory
 
-Generated 2026-10-04T22:42:09.073Z by `scripts/ap-library-inventory.mjs`. Library public: **yes**.
+Generated 2026-10-05T00:53:34.893Z by `scripts/ap-library-inventory.mjs`. Library public: **yes**.
 
 Status per topic: **planned** = no resource yet; **drafted** = written and checked by the Marlbridge Academic Team, awaiting AP-teacher review; **reviewed** = every resource reviewed by a named teacher; **published** = live. Shared Calculus AB/BC material (`calculusScope: ab-and-bc`) counts for both courses.
 
@@ -8,19 +8,19 @@ Status per topic: **planned** = no resource yet; **drafted** = written and check
 
 | Course | Units | Topics | Planned | Drafted | Reviewed | Published | Resources |
 |---|---|---|---|---|---|---|---|
-| AP Chemistry | 9 | 91 | 90 | 1 | 0 | 0 | 4 |
-| AP Biology | 8 | 60 | 59 | 1 | 0 | 0 | 4 |
-| AP Calculus AB | 8 | 81 | 80 | 1 | 0 | 0 | 4 |
-| AP Calculus BC | 10 | 111 | 109 | 2 | 0 | 0 | 4 |
-| AP Statistics | 5 | 55 | 54 | 1 | 0 | 0 | 4 |
-| AP Physics 1: Algebra-Based | 8 | 43 | 42 | 1 | 0 | 0 | 4 |
-| AP Physics 2: Algebra-Based | 7 | 46 | 45 | 1 | 0 | 0 | 4 |
-| AP Physics C: Mechanics | 7 | 41 | 40 | 1 | 0 | 0 | 4 |
-| AP Physics C: Electricity and Magnetism | 6 | 31 | 30 | 1 | 0 | 0 | 4 |
-| AP Microeconomics | 6 | 36 | 35 | 1 | 0 | 0 | 4 |
-| AP Macroeconomics | 6 | 42 | 41 | 1 | 0 | 0 | 4 |
+| AP Chemistry | 9 | 91 | 83 | 8 | 0 | 0 | 34 |
+| AP Biology | 8 | 60 | 53 | 7 | 0 | 0 | 30 |
+| AP Calculus AB | 8 | 81 | 65 | 16 | 0 | 0 | 66 |
+| AP Calculus BC | 10 | 111 | 94 | 17 | 0 | 0 | 4 |
+| AP Statistics | 5 | 55 | 42 | 13 | 0 | 0 | 54 |
+| AP Physics 1: Algebra-Based | 8 | 43 | 38 | 5 | 0 | 0 | 22 |
+| AP Physics 2: Algebra-Based | 7 | 46 | 40 | 6 | 0 | 0 | 26 |
+| AP Physics C: Mechanics | 7 | 41 | 36 | 5 | 0 | 0 | 22 |
+| AP Physics C: Electricity and Magnetism | 6 | 31 | 25 | 6 | 0 | 0 | 26 |
+| AP Microeconomics | 6 | 36 | 30 | 6 | 0 | 0 | 26 |
+| AP Macroeconomics | 6 | 42 | 35 | 7 | 0 | 0 | 30 |
 
-Total topics: planned 625, drafted 12, reviewed 0, published 0. Resource records: 44.
+Total topics: planned 541, drafted 96, reviewed 0, published 0. Resource records: 340.
 
 Unit diagnostics, mixed unit reviews and exam-skills guides: **none yet (planned for Phase 2)**.
 
@@ -29,13 +29,13 @@ Unit diagnostics, mixed unit reviews and exam-skills guides: **none yet (planned
 | Topic | Title | Status | Resources |
 |---|---|---|---|
 | 1.1 | Moles and Molar Mass | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 1.2 | Mass Spectra of Elements | planned | -- |
-| 1.3 | Elemental Composition of Pure Substances | planned | -- |
-| 1.4 | Composition of Mixtures | planned | -- |
-| 1.5 | Atomic Structure and Electron Configuration | planned | -- |
-| 1.6 | Photoelectron Spectroscopy | planned | -- |
-| 1.7 | Periodic Trends | planned | -- |
-| 1.8 | Valence Electrons and Ionic Compounds | planned | -- |
+| 1.2 | Mass Spectra of Elements | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.3 | Elemental Composition of Pure Substances | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.4 | Composition of Mixtures | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.5 | Atomic Structure and Electron Configuration | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.6 | Photoelectron Spectroscopy | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.7 | Periodic Trends | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.8 | Valence Electrons and Ionic Compounds | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
 | 2.1 | Types of Chemical Bonds | planned | -- |
 | 2.2 | Intramolecular Force and Potential Energy | planned | -- |
 | 2.3 | Structure of Ionic Solids | planned | -- |
@@ -125,12 +125,12 @@ Unit diagnostics, mixed unit reviews and exam-skills guides: **none yet (planned
 | Topic | Title | Status | Resources |
 |---|---|---|---|
 | 1.1 | Structure of Water and Hydrogen Bonding | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 1.2 | Elements of Life | planned | -- |
-| 1.3 | Introduction to Macromolecules | planned | -- |
-| 1.4 | Carbohydrates | planned | -- |
-| 1.5 | Lipids | planned | -- |
-| 1.6 | Nucleic Acids | planned | -- |
-| 1.7 | Proteins | planned | -- |
+| 1.2 | Elements of Life | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.3 | Introduction to Macromolecules | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.4 | Carbohydrates | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.5 | Lipids | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.6 | Nucleic Acids | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.7 | Proteins | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
 | 2.1 | Cell Structure and Function | planned | -- |
 | 2.2 | Cell Size | planned | -- |
 | 2.3 | Plasma Membrane | planned | -- |
@@ -189,22 +189,22 @@ Unit diagnostics, mixed unit reviews and exam-skills guides: **none yet (planned
 
 | Topic | Title | Status | Resources |
 |---|---|---|---|
-| 1.1 | Introducing Calculus: Can Change Occur at an Instant? | planned | -- |
-| 1.2 | Defining Limits and Using Limit Notation | planned | -- |
-| 1.3 | Estimating Limit Values from Graphs | planned | -- |
-| 1.4 | Estimating Limit Values from Tables | planned | -- |
-| 1.5 | Determining Limits Using Algebraic Properties of Limits | planned | -- |
+| 1.1 | Introducing Calculus: Can Change Occur at an Instant? | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.2 | Defining Limits and Using Limit Notation | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.3 | Estimating Limit Values from Graphs | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.4 | Estimating Limit Values from Tables | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.5 | Determining Limits Using Algebraic Properties of Limits | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
 | 1.6 | Determining Limits Using Algebraic Manipulation | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 1.7 | Selecting Procedures for Determining Limits | planned | -- |
-| 1.8 | Determining Limits Using the Squeeze Theorem | planned | -- |
-| 1.9 | Connecting Multiple Representations of Limits | planned | -- |
-| 1.10 | Exploring Types of Discontinuities | planned | -- |
-| 1.11 | Defining Continuity at a Point | planned | -- |
-| 1.12 | Confirming Continuity over an Interval | planned | -- |
-| 1.13 | Removing Discontinuities | planned | -- |
-| 1.14 | Connecting Infinite Limits and Vertical Asymptotes | planned | -- |
-| 1.15 | Connecting Limits at Infinity and Horizontal Asymptotes | planned | -- |
-| 1.16 | Working with the Intermediate Value Theorem (IVT) | planned | -- |
+| 1.7 | Selecting Procedures for Determining Limits | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.8 | Determining Limits Using the Squeeze Theorem | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.9 | Connecting Multiple Representations of Limits | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.10 | Exploring Types of Discontinuities | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.11 | Defining Continuity at a Point | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.12 | Confirming Continuity over an Interval | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.13 | Removing Discontinuities | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.14 | Connecting Infinite Limits and Vertical Asymptotes | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.15 | Connecting Limits at Infinity and Horizontal Asymptotes | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.16 | Working with the Intermediate Value Theorem (IVT) | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
 | 2.1 | Defining Average and Instantaneous Rates of Change at a Point | planned | -- |
 | 2.2 | Defining the Derivative of a Function and Using Derivative Notation | planned | -- |
 | 2.3 | Estimating Derivatives of a Function at a Point | planned | -- |
@@ -275,22 +275,22 @@ Unit diagnostics, mixed unit reviews and exam-skills guides: **none yet (planned
 
 | Topic | Title | Status | Resources |
 |---|---|---|---|
-| 1.1 | Introducing Calculus: Can Change Occur at an Instant? | planned | -- |
-| 1.2 | Defining Limits and Using Limit Notation | planned | -- |
-| 1.3 | Estimating Limit Values from Graphs | planned | -- |
-| 1.4 | Estimating Limit Values from Tables | planned | -- |
-| 1.5 | Determining Limits Using Algebraic Properties of Limits | planned | -- |
+| 1.1 | Introducing Calculus: Can Change Occur at an Instant? | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.2 | Defining Limits and Using Limit Notation | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.3 | Estimating Limit Values from Graphs | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.4 | Estimating Limit Values from Tables | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.5 | Determining Limits Using Algebraic Properties of Limits | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
 | 1.6 | Determining Limits Using Algebraic Manipulation | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 1.7 | Selecting Procedures for Determining Limits | planned | -- |
-| 1.8 | Determining Limits Using the Squeeze Theorem | planned | -- |
-| 1.9 | Connecting Multiple Representations of Limits | planned | -- |
-| 1.10 | Exploring Types of Discontinuities | planned | -- |
-| 1.11 | Defining Continuity at a Point | planned | -- |
-| 1.12 | Confirming Continuity over an Interval | planned | -- |
-| 1.13 | Removing Discontinuities | planned | -- |
-| 1.14 | Connecting Infinite Limits and Vertical Asymptotes | planned | -- |
-| 1.15 | Connecting Limits at Infinity and Horizontal Asymptotes | planned | -- |
-| 1.16 | Working with the Intermediate Value Theorem (IVT) | planned | -- |
+| 1.7 | Selecting Procedures for Determining Limits | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.8 | Determining Limits Using the Squeeze Theorem | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.9 | Connecting Multiple Representations of Limits | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.10 | Exploring Types of Discontinuities | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.11 | Defining Continuity at a Point | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.12 | Confirming Continuity over an Interval | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.13 | Removing Discontinuities | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.14 | Connecting Infinite Limits and Vertical Asymptotes | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.15 | Connecting Limits at Infinity and Horizontal Asymptotes | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.16 | Working with the Intermediate Value Theorem (IVT) | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
 | 2.1 | Defining Average and Instantaneous Rates of Change at a Point | planned | -- |
 | 2.2 | Defining the Derivative of a Function and Using Derivative Notation | planned | -- |
 | 2.3 | Estimating Derivatives of a Function at a Point | planned | -- |
@@ -391,19 +391,19 @@ Unit diagnostics, mixed unit reviews and exam-skills guides: **none yet (planned
 
 | Topic | Title | Status | Resources |
 |---|---|---|---|
-| 1.1 | Introducing Statistics: What Can We Learn from Data? | planned | -- |
-| 1.2 | Variables | planned | -- |
-| 1.3 | Tabular Representation and Summary Statistics for One Categorical Variable | planned | -- |
-| 1.4 | Graphical Representations for One Categorical Variable | planned | -- |
-| 1.5 | Graphical Representations for One Quantitative Variable | planned | -- |
-| 1.6 | Descriptions for One Quantitative Variable Distributions | planned | -- |
+| 1.1 | Introducing Statistics: What Can We Learn from Data? | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.2 | Variables | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.3 | Tabular Representation and Summary Statistics for One Categorical Variable | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.4 | Graphical Representations for One Categorical Variable | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.5 | Graphical Representations for One Quantitative Variable | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.6 | Descriptions for One Quantitative Variable Distributions | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
 | 1.7 | Summary Statistics for One Quantitative Variable | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 1.8 | Graphical Representations of Summary Statistics for One Quantitative Variable | planned | -- |
-| 1.9 | Comparisons of the Distributions for One Quantitative Variable | planned | -- |
-| 1.10 | The Investigative Question Revisited and Data Collection | planned | -- |
-| 1.11 | Random Sampling | planned | -- |
-| 1.12 | Potential Problems with Sampling | planned | -- |
-| 1.13 | Experimental Design | planned | -- |
+| 1.8 | Graphical Representations of Summary Statistics for One Quantitative Variable | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.9 | Comparisons of the Distributions for One Quantitative Variable | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.10 | The Investigative Question Revisited and Data Collection | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.11 | Random Sampling | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.12 | Potential Problems with Sampling | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.13 | Experimental Design | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
 | 2.1 | Tabular and Graphical Representations for the Distributions of Two Categorical Variables | planned | -- |
 | 2.2 | Summary Statistics for Two Categorical Variables | planned | -- |
 | 2.3 | Estimating Probabilities Using Simulation | planned | -- |
@@ -451,11 +451,11 @@ Unit diagnostics, mixed unit reviews and exam-skills guides: **none yet (planned
 
 | Topic | Title | Status | Resources |
 |---|---|---|---|
-| 1.1 | Scalars and Vectors in One Dimension | planned | -- |
+| 1.1 | Scalars and Vectors in One Dimension | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
 | 1.2 | Displacement, Velocity, and Acceleration | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 1.3 | Representing Motion | planned | -- |
-| 1.4 | Reference Frames and Relative Motion | planned | -- |
-| 1.5 | Vectors and Motion in Two Dimensions | planned | -- |
+| 1.3 | Representing Motion | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.4 | Reference Frames and Relative Motion | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.5 | Vectors and Motion in Two Dimensions | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
 | 2.1 | Systems and Center of Mass | planned | -- |
 | 2.2 | Forces and Free-Body Diagrams | planned | -- |
 | 2.3 | Newton’s Third Law | planned | -- |
@@ -499,12 +499,12 @@ Unit diagnostics, mixed unit reviews and exam-skills guides: **none yet (planned
 
 | Topic | Title | Status | Resources |
 |---|---|---|---|
-| 9.1 | Kinetic Theory of Temperature and Pressure | planned | -- |
-| 9.2 | The Ideal Gas Law | planned | -- |
-| 9.3 | Thermal Energy Transfer and Equilibrium | planned | -- |
+| 9.1 | Kinetic Theory of Temperature and Pressure | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 9.2 | The Ideal Gas Law | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 9.3 | Thermal Energy Transfer and Equilibrium | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
 | 9.4 | The First Law of Thermodynamics | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 9.5 | Specific Heat and Thermal Conductivity | planned | -- |
-| 9.6 | Entropy and the Second Law of Thermodynamics | planned | -- |
+| 9.5 | Specific Heat and Thermal Conductivity | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 9.6 | Entropy and the Second Law of Thermodynamics | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
 | 10.1 | Electric Charge and Electric Force | planned | -- |
 | 10.2 | Conservation of Electric Charge and the Process of Charging | planned | -- |
 | 10.3 | Electric Fields | planned | -- |
@@ -550,11 +550,11 @@ Unit diagnostics, mixed unit reviews and exam-skills guides: **none yet (planned
 
 | Topic | Title | Status | Resources |
 |---|---|---|---|
-| 1.1 | Scalars and Vectors | planned | -- |
+| 1.1 | Scalars and Vectors | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
 | 1.2 | Displacement, Velocity, and Acceleration | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 1.3 | Representing Motion | planned | -- |
-| 1.4 | Reference Frames and Relative Motion | planned | -- |
-| 1.5 | Motion in Two or Three Dimensions | planned | -- |
+| 1.3 | Representing Motion | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.4 | Reference Frames and Relative Motion | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.5 | Motion in Two or Three Dimensions | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
 | 2.1 | Systems and Center of Mass | planned | -- |
 | 2.2 | Forces and Free-Body Diagrams | planned | -- |
 | 2.3 | Newton’s Third Law | planned | -- |
@@ -596,11 +596,11 @@ Unit diagnostics, mixed unit reviews and exam-skills guides: **none yet (planned
 
 | Topic | Title | Status | Resources |
 |---|---|---|---|
-| 8.1 | Electric Charge and Electric Force | planned | -- |
-| 8.2 | Conservation of Electric Charge and the Process of Charging | planned | -- |
-| 8.3 | Electric Fields | planned | -- |
-| 8.4 | Electric Fields of Charge Distributions | planned | -- |
-| 8.5 | Electric Flux | planned | -- |
+| 8.1 | Electric Charge and Electric Force | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 8.2 | Conservation of Electric Charge and the Process of Charging | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 8.3 | Electric Fields | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 8.4 | Electric Fields of Charge Distributions | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 8.5 | Electric Flux | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
 | 8.6 | Gauss’s Law | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
 | 9.1 | Electric Potential Energy | planned | -- |
 | 9.2 | Electric Potential | planned | -- |
@@ -632,12 +632,12 @@ Unit diagnostics, mixed unit reviews and exam-skills guides: **none yet (planned
 
 | Topic | Title | Status | Resources |
 |---|---|---|---|
-| 1.1 | Scarcity | planned | -- |
-| 1.2 | Resource Allocation and Economic Systems | planned | -- |
+| 1.1 | Scarcity | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.2 | Resource Allocation and Economic Systems | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
 | 1.3 | Production Possibilities Curve | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 1.4 | Comparative Advantage and Trade | planned | -- |
-| 1.5 | Cost-Benefit Analysis | planned | -- |
-| 1.6 | Marginal Analysis and Consumer Choice | planned | -- |
+| 1.4 | Comparative Advantage and Trade | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.5 | Cost-Benefit Analysis | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.6 | Marginal Analysis and Consumer Choice | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
 | 2.1 | Demand | planned | -- |
 | 2.2 | Supply | planned | -- |
 | 2.3 | Price Elasticity of Demand | planned | -- |
@@ -673,12 +673,12 @@ Unit diagnostics, mixed unit reviews and exam-skills guides: **none yet (planned
 
 | Topic | Title | Status | Resources |
 |---|---|---|---|
-| 1.1 | Scarcity | planned | -- |
-| 1.2 | Opportunity Cost and the Production Possibilities Curve (PPC) | planned | -- |
-| 1.3 | Comparative Advantage and Gains from Trade | planned | -- |
-| 1.4 | Demand | planned | -- |
-| 1.5 | Supply | planned | -- |
-| 1.6 | Market Equilibrium, Disequilibrium, and Changes in Equilibrium | planned | -- |
+| 1.1 | Scarcity | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.2 | Opportunity Cost and the Production Possibilities Curve (PPC) | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.3 | Comparative Advantage and Gains from Trade | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.4 | Demand | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.5 | Supply | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.6 | Market Equilibrium, Disequilibrium, and Changes in Equilibrium | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
 | 2.1 | The Circular Flow and GDP | planned | -- |
 | 2.2 | Limitations of GDP | planned | -- |
 | 2.3 | Unemployment | planned | -- |

@@ -15311,3 +15311,22 @@ Practice questions are labelled by criterion A–D with the "revision aid, not I
 **Owner's instructions (5 Oct 2026, 03:51-03:53 PKT).** AP was missing from Programs; "same teachers will be teaching AP courses"; "only one to one classes will be offered with Rs 6000 per class".
 
 **What was done.** New programme `/programs/ap/` (level `ap`, teaching), listing the 11 courses with links to their library hubs, subjects Chemistry, Biology, Physics, Mathematics, Statistics, Economics. AP added to `ONE_TO_ONE_ONLY_PRICING` (Rs 6,000 per class, same indicative conversions as OCR and OxfordAQA Islamiyat/Pakistan Studies); the pricing page's one-to-one-only section now names AP and carries the College Board attribution. Programme page shows "One-to-one only · Rs 6,000 per class in Pakistan", AP-specific fee/trial FAQs, and a trial link with `program=ap&format=one-to-one`. "Who teaches AP" lists the existing teachers whose profiles teach those six subjects (ProgramTeachers `ap` rule). Trial form and enquiry API accept qualification `ap` and board `college-board`. Each library course hub now invites a free trial. Programme page body links are underlined and lists bulleted (all programmes).
+
+## D-392 -- AP library Phase 2: Unit 1 of every course, unit diagnostics and mixed reviews (branch `ap-phase2`, 5 Oct 2026, 05:55 PKT)
+
+**Request.** The owner said "start phase 2" (5 Oct, 04:01 PKT), the documented next batch in `docs/ap-library/handover-2026-10-05.md`.
+
+**What was added (296 resources; library now 340).**
+- **69 topic packs** (study guide, revision notes, practice questions, checklist each), completing the first unit of every course: Chemistry 1.2-1.8; Biology 1.2-1.7; Calculus 1.1-1.16 (shared AB/BC, `calculusScope: ab-and-bc`); Statistics 1.1-1.13 (revised framework); Physics 1 and Physics C: Mechanics 1.1, 1.3-1.5; Physics 2 9.1-9.3, 9.5-9.6; Physics C: E&M 8.1-8.5; Microeconomics 1.1, 1.2, 1.4-1.6; Macroeconomics 1.1-1.6.
+- **10 unit diagnostics and 10 mixed unit reviews** (one pair per course; Calculus shared): one question per topic with "if you missed this" links, no predicted scores; reviews combine topics with worked solutions and suggested Marlbridge rubrics.
+- Phase 1 checklists now point `next` to the following topic (version 1.1).
+
+**Process.** Every topic and unit pair had a separate writer and an independent verifier (`/home/claude/ap/BRIEF_AP.md`, `BRIEF_UNIT.md`, `VERIFY_AP.md`, `VERIFY_UNIT.md`). Writers worked from the Course and Exam Descriptions staged from Papers 2025\Syllabus\AP; every number was recomputed in Python by the writer and again by the verifier's own script; a 12-word overlap check against each CED. Verifiers fixed about 150 issues, e.g. a missing quotient/difference limit rule (Calc 1.9), a textbook salt-tank problem and a Halliday semicircle problem replaced (Calc 1.15, E&M 8.4), helium atom mass 6.64 -> 6.65 x 10^-27 kg (Phys 2 9.1), electrons per nC 6.24 -> 6.25 x 10^9 (E&M 8.2), Statistics 1.12 figure understating sampling variability, an invalid SVG path (Calc 1.3), several distractor explanations and figure labels, CED sentences paraphrased, and repeats between topic files and unit reviews replaced.
+
+**Credit line.** All new resources carry `checkedBy: marlbridge-academic-team` / `checkedDate: 2026-10-05` (D-390 meaning: checked against the 2026-27 framework, not a teacher review); `editorialStatus: drafted`; no reviewer.
+
+**Not checked online.** WebFetch needed owner approval and timed out; 86 standard reference values (ionization energies, isotope data, constants, material properties, dates such as Ricardo 1817) were kept as certain and are listed in `docs/ap-library/facts-pending-online-check-2026-10-05.md`; the coordinator found no error in them.
+
+**Validation (05:53 PKT).** `validate-ap-library` 340/340; `validate:academic`, `check:duplicate-scope`, `validate-review-integrity` PASS; `npm run build` OK; `audit:all` PASS (fixed three false "internal note" hits from SVG `Q` path commands and a table). `report:ap-library`: 96 topics drafted of 637.
+
+**Owner decisions.** Merge to main (the library is live, so merging publishes); AP teacher review; online check of the facts list.

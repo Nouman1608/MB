@@ -13,13 +13,14 @@ skills: ["1", "2", "3"]
 studyMinutes: 10
 difficulty: "core"
 related: ["mb-ap-calcab-1.6-study-guide", "mb-ap-calcab-1.6-practice", "mb-ap-calcab-1.6-revision-notes"]
+next: "mb-ap-calcab-1.7-study-guide"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-calculus-ab-bc"]
 keyPoints:
   - "Tick a statement only when you can do it without notes or a calculator."
   - "Each statement names the practice question that tests it."
   - "Shared checklist for Calculus AB and Calculus BC students."
-version: "1.0"
+version: "1.1"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
 editorialStatus: "drafted"
