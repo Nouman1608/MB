@@ -35,18 +35,18 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-This review joins the six topics of Unit 13; each question uses at least two. These are **original Marlbridge practice questions**, not past exam questions, and the mark tables are a **suggested Marlbridge rubric**, not an official scoring guideline. All data are invented for practice. Inductors and wires have no resistance unless stated. If you have not taken it yet, start with the [Unit 13 diagnostic](/advanced-course-resources/physics-c-electricity-and-magnetism/unit-13-diagnostic/).
+This review joins the six topics of Unit 13; each question uses at least two. These are **original Marlbridge practice questions**, not past exam questions, and the mark tables are a **suggested Marlbridge rubric**, not an official scoring guideline. All data are invented; inductors and wires have no resistance unless stated.
 
 ## Big ideas of the unit
 
 - **Flux counts the field through a surface.** Φ_B = ∫B·dA, with a sign set by the area vector. Through any closed surface it is zero ([13.1](/advanced-course-resources/physics-c-electricity-and-magnetism/13-1-magnetic-flux-study-guide/)).
 - **Only change induces.** Change B, the area or the angle, and ℰ = −N dΦ_B/dt. A large steady flux induces nothing ([13.2](/advanced-course-resources/physics-c-electricity-and-magnetism/13-2-electromagnetic-induction-study-guide/)).
 - **Lenz's law is energy conservation.** The induced current opposes the **change** in flux, not the field itself.
-- **A changing B makes an electric field.** It circles the changing region, exists even where B is zero, and is non-conservative.
-- **The field pushes on the current it induces.** Only segments inside the field feel a force, and that force opposes the motion: magnetic braking ([13.3](/advanced-course-resources/physics-c-electricity-and-magnetism/13-3-induced-currents-magnetic-forces-study-guide/)).
+- **A changing B makes an electric field.** It circles the changing region, exists even where B is zero and is non-conservative.
+- **The field pushes on the current it induces.** Only segments inside the field feel a force, which opposes the motion: magnetic braking ([13.3](/advanced-course-resources/physics-c-electricity-and-magnetism/13-3-induced-currents-magnetic-forces-study-guide/)).
 - **Braking forces grow with speed.** F = B²L²v/R, so motion decays exponentially or reaches a terminal speed.
 - **A coil induces an emf in itself.** L = NΦ_B/I depends only on the coil, and ℰ = −L dI/dt ([13.4](/advanced-course-resources/physics-c-electricity-and-magnetism/13-4-inductance-study-guide/)).
-- **Inductor current cannot jump.** Just after switching it keeps its old value; long after, an ideal inductor is a plain wire ([13.5](/advanced-course-resources/physics-c-electricity-and-magnetism/13-5-circuits-resistors-inductors-lr-circuits-study-guide/)).
+- **Inductor current cannot jump.** Just after switching it keeps its old value; long after, an ideal inductor acts as a wire ([13.5](/advanced-course-resources/physics-c-electricity-and-magnetism/13-5-circuits-resistors-inductors-lr-circuits-study-guide/)).
 - **Stored energy ½LI² goes somewhere.** A resistor turns it into thermal energy; a capacitor takes it and gives it back, so the circuit oscillates ([13.6](/advanced-course-resources/physics-c-electricity-and-magnetism/13-6-circuits-capacitors-inductors-lc-circuits-study-guide/)).
 
 ## Key relationships and methods
@@ -66,7 +66,7 @@ This review joins the six topics of Unit 13; each question uses at least two. Th
 
 ## Question 1 (multiple choice · mixed)
 
-A hand-turned generator has a flat coil spinning at constant angular speed ω in a uniform field. It is connected to a fixed resistor. Ignore friction and the coil's inductance. If ω is doubled, by what factor does the **average torque** needed to turn the coil change?
+A hand-turned generator has a flat coil spinning at constant angular speed ω in a uniform field and is connected to a fixed resistor. Ignore friction and the coil's inductance. If ω is doubled, by what factor does the **average torque** needed to turn the coil change?
 
 - (A) 2
 - (B) 1
@@ -76,7 +76,7 @@ A hand-turned generator has a flat coil spinning at constant angular speed ω in
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The peak emf NBAω doubles, so the average power ℰ²/R, which is (NBAω)²/(2R), rises by 4. The turning power is torque × ω, so the average torque is P/ω = (NBA)²ω/(2R): a factor of 2.
+**Answer: (A).** The peak emf NBAω doubles, so the average power, (NBAω)²/(2R), rises by 4. The turning power is torque × ω, so the average torque is P/ω = (NBA)²ω/(2R): a factor of 2.
 
 - (B) forgets that the current, and so the force on the coil sides, grows with ω.
 - (C) is the factor for the power, not the torque.
@@ -138,11 +138,11 @@ Two horizontal rails 0.25 m apart are joined at one end by a 0.50 Ω resistor. A
 
 **(b)** A is fixed, so |ℰ| = A dB/dt = (0.20)(0.15) = **0.030 V** and I = 0.030 ÷ 0.50 = **0.060 A**. Upward flux is increasing, so the induced field inside points down: **clockwise** viewed from above.
 
-**(c)** F = IℓB = (0.060)(0.25)(0.50) = **7.5 × 10⁻³ N**, towards the resistor. Moving that way would shrink the area and reduce the growing flux, so the force opposes the change.
+**(c)** F = IℓB = (0.060)(0.25)(0.50) = **7.5 × 10⁻³ N**, towards the resistor. Moving that way would shrink the area and the growing flux, so the force opposes the change.
 
-**(d)** Need BLv = 0.030 V: v = 0.030 ÷ (0.50 × 0.25) = **0.24 m/s, away from the resistor**, so that upward flux still increases. The force on the rod, 7.5 × 10⁻³ N towards the resistor, now opposes its motion.
+**(d)** Need BLv = 0.030 V: v = 0.030 ÷ (0.50 × 0.25) = **0.24 m/s, away from the resistor**, so the upward flux still increases. The 7.5 × 10⁻³ N force towards the resistor now opposes the motion.
 
-**(e)** I²R = (0.060)²(0.50) = **1.8 × 10⁻³ W** in both cases. With the rod held still, the energy comes from the supply driving the changing field. With the rod moving, it comes from the agent: Fv = (7.5 × 10⁻³)(0.24) = 1.8 × 10⁻³ W.
+**(e)** I²R = (0.060)²(0.50) = **1.8 × 10⁻³ W** in both cases. Rod still: the energy comes from the supply driving the changing field. Rod moving: it comes from the agent, Fv = (7.5 × 10⁻³)(0.24) = 1.8 × 10⁻³ W.
 
 | Point | What earns it |
 |---|---|
@@ -158,7 +158,7 @@ Total: 6 points.
 
 ## Question 5 (constructed response · mixed)
 
-A long air-cored solenoid has 1200 turns over 0.60 m and radius 0.025 m. It is in series with a 4.0 Ω resistor, a 6.0 V battery and a switch. A small 40-turn search coil of radius 0.010 m sits inside, coaxial with the solenoid, and is connected to a high-resistance voltmeter. The switch is closed at t = 0.
+A long air-cored solenoid has 1200 turns over 0.60 m and radius 0.025 m. It is in series with a 4.0 Ω resistor, a 6.0 V battery and a switch. A coaxial 40-turn search coil of radius 0.010 m inside it is connected to a high-resistance voltmeter. The switch is closed at t = 0.
 
 (a) Starting from B = μ₀NI/ℓ, derive the solenoid's inductance and evaluate it. Find the time constant.
 (b) Write I(t) for the solenoid and give its final value and its initial rate of change.
@@ -209,7 +209,7 @@ A rectangular loop, 0.30 m long in the direction of motion and 0.15 m high, has 
 
 **(b)** Entering: ℰ = Bhv = (0.80)(0.15)(2.0) = **0.24 V**, I = **0.60 A**, anticlockwise (inward flux increasing). Middle stage: flux steady, so **ℰ = 0**. Leaving: 0.24 V and 0.60 A, **clockwise**.
 
-**(c)** In each active stage, one vertical side is in the field, with F = IhB = (0.60)(0.15)(0.80) = **0.072 N** opposing the motion. The forces on the parts of the top and bottom sides in the field cancel. So the agent pushes with **0.072 N** while entering and leaving, and **zero** in the middle stage.
+**(c)** In each active stage, one vertical side is in the field, with F = IhB = (0.60)(0.15)(0.80) = **0.072 N** opposing the motion. The forces on the parts of the top and bottom sides in the field cancel. The agent pushes with **0.072 N** while entering and leaving, and **zero** in between.
 
 **(d)** Work = F × distance = 0.072 × (0.12 + 0.12) = **1.7 × 10⁻² J**. Check: each active stage lasts 0.12 ÷ 2.0 = 0.060 s, and I²Rt = (0.36)(0.40)(0.060) × 2 = 1.7 × 10⁻² J.
 
@@ -246,7 +246,7 @@ A 40 μF capacitor is charged to 25 V and connected across a 0.10 H inductor at 
 
 **(c)** The inductor current cannot jump, so it starts at 0.50 A and decays with τ = L/R = **2.0 ms**: I = **0.50e^(−t′/2.0 ms) A**. The resistor's potential difference starts at (0.50)(50) = **25 V**.
 
-**(d)** All of ½LI_max² = **1.25 × 10⁻² J** becomes thermal energy, equal to the capacitor's starting energy: the ideal LC stage loses none.
+**(d)** All of ½LI_max² = **1.25 × 10⁻² J**, the capacitor's starting energy, becomes thermal energy: the ideal LC stage loses none.
 
 **(e)** At T/8, I = I_max sin(π/4) = 0.354 A, so the resistor gets ½(0.10)(0.354)² = **6.3 × 10⁻³ J**, half the total. The other half stays on the isolated capacitor, with q = Q₀/√2 = 0.71 mC (17.7 V).
 
@@ -273,4 +273,4 @@ Questions 1–3 are worth 1 point each, and Questions 4–7 are worth 6, 7, 6 an
 - **LR switching and time constants (Q2, Q5(b) and (d), Q7(c)):** use the [13.5 checklist](/advanced-course-resources/physics-c-electricity-and-magnetism/13-5-circuits-resistors-inductors-lr-circuits-checklist/).
 - **LC oscillations (Q3, Q7(a), (b) and (e)):** use the [13.6 checklist](/advanced-course-resources/physics-c-electricity-and-magnetism/13-6-circuits-capacitors-inductors-lc-circuits-checklist/).
 
-If you have not done it yet, the [Unit 13 diagnostic](/advanced-course-resources/physics-c-electricity-and-magnetism/unit-13-diagnostic/) gives a quick topic-by-topic check.
+For a quick topic-by-topic check, take the [Unit 13 diagnostic](/advanced-course-resources/physics-c-electricity-and-magnetism/unit-13-diagnostic/).

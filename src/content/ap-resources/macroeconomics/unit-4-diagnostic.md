@@ -33,13 +33,13 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-This diagnostic helps you find **which Unit 4 topics to revisit**: one or two short questions on each topic, 4.1 to 4.7. Answer every question before opening any answer; allow about 30 minutes.
+This diagnostic helps you find **which Unit 4 topics to revisit**: one or two short questions on each topic, 4.1 to 4.7. Answer every question before opening any answers (about 30 minutes).
 
 These are **original Marlbridge practice questions**, not past exam questions. The set is not calibrated, so it gives **no predicted score**. **Valdoria** is a fictional country; its currency is the **valda (VD)** and its central bank is the **Central Bank of Valdoria (CBV)**. All data are fictional. A four-function calculator is enough. Unless stated, checking accounts pay no interest, banks lend all excess reserves and the public holds no extra cash. Only the stated change happens.
 
 ## Question 1 (multiple choice · 4.1)
 
-A previously issued Valdorian bond pays a fixed **VD 45** of interest a year. Market interest rates on new bonds fall, and the bond's price rises from **VD 900** to **VD 1,000**. What happens to the rate of return a new buyer earns on it?
+A previously issued Valdorian bond pays a fixed **VD 45** of interest a year. Market interest rates on new bonds fall, and the bond's price rises from **VD 900** to **VD 1,000**. Taking the return as yearly interest ÷ price, what happens to the return a new buyer earns?
 
 - (A) It rises from 4.5% to 5%.
 - (B) It stays the same, because the interest payment is fixed.
@@ -123,17 +123,17 @@ A Valdorian bank makes a new loan of **VD 50 million** by adding it to the borro
 
 ## Question 5 (multiple choice · 4.4)
 
-A Valdorian bank has demand deposits of **VD 400 million** and reserves of **VD 60 million**. The required reserve ratio is **10%**, and every other bank is fully loaned up. If the bank lends all its excess reserves, what is the **maximum** increase in the money supply for the whole banking system?
+A Valdorian bank has demand deposits of **VD 500 million** and reserves of **VD 130 million**. The required reserve ratio is **20%**, and every other bank is fully loaned up. If the bank lends all its excess reserves, what is the **maximum** increase in the money supply for the whole banking system?
 
-- (A) VD 20 million
-- (B) VD 200 million
-- (C) VD 400 million
-- (D) VD 600 million
+- (A) VD 30 million
+- (B) VD 150 million
+- (C) VD 500 million
+- (D) VD 650 million
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** Required reserves = 0.1 × 400 = 40. Excess reserves = 60 − 40 = **20**. Multiplier = 1 ÷ 0.1 = 10. Maximum increase = 20 × 10 = **VD 200 million**.
+**Answer: (B).** Required reserves = 0.2 × 500 = 100. Excess reserves = 130 − 100 = **30**. Multiplier = 1 ÷ 0.2 = 5. Maximum increase = 30 × 5 = **VD 150 million**.
 
 - (A) is the most this one bank can lend, not the total for the system.
 - (C) multiplies the **required** reserves, which the bank must keep.
@@ -156,7 +156,7 @@ A new payment app lets Valdorians keep their wealth in an interest-earning fund 
 
 **Answer: (D).** People hold less money at every rate, so MD shifts left. The surplus of money is used to buy bonds, so bond prices rise and the rate falls.
 
-- (A) gets the rate right but not bond prices. They move opposite to interest rates.
+- (A) gets the rate right but not bond prices, which move opposite to rates.
 - (B) The quantity of money has not changed; only how much people want to hold.
 - (C) has the shift the wrong way round.
 
@@ -248,20 +248,20 @@ A Valdorian lender and borrower agree a one-year loan at a nominal rate of **9%*
 
 ## Question 11 (short answer · 4.5)
 
-Valdoria's money demand is Qd = 620 − 30i, where Qd is in VD billion and i is the nominal interest rate in per cent. The money supply is **VD 470 billion**.
+Valdoria's money demand is Qd = 560 − 20i, where Qd is in VD billion and i is the nominal interest rate in per cent. The money supply is **VD 480 billion**.
 
 (a) Calculate the equilibrium nominal interest rate.
-(b) At 3%, calculate the shortage or surplus of money and explain how the rate adjusts.
-(c) The CBV wants a rate of 4%. By how much must it change the money supply?
+(b) At 6%, calculate the shortage or surplus of money and explain how the rate adjusts.
+(c) The CBV wants a rate of 3%. By how much must it change the money supply?
 
 <details>
 <summary>Worked answer</summary>
 
-**(a)** 620 − 30i = 470, so 30i = 150 and **i = 5%**.
+**(a)** 560 − 20i = 480, so 20i = 80 and **i = 4%**.
 
-**(b)** At 3%, Qd = 620 − 90 = 530: a **shortage of VD 60 billion**. People sell bonds, bond prices fall and the rate rises to 5%.
+**(b)** At 6%, Qd = 560 − 120 = 440: a **surplus of VD 40 billion**. People buy bonds, bond prices rise and the rate falls to 4%.
 
-**(c)** At 4%, Qd = 620 − 120 = 500. The money supply must **rise by VD 30 billion**, from 470 to 500.
+**(c)** At 3%, Qd = 560 − 60 = 500. The money supply must **rise by VD 20 billion**, from 480 to 500.
 
 **If you missed this:** read Worked example 1 in the [Topic 4.5 study guide](/advanced-course-resources/macroeconomics/4-5-money-market-study-guide/).
 </details>
@@ -303,4 +303,4 @@ In one year Valdoria has Y = 800, C = 520, T = 170 and G = 150 (VD billion).
 - **Mixed up nominal and real rates:** revisit Topics 4.2, 4.5 and 4.7 together.
 - **Mixed up the monetary base and the money supply:** revisit Topics 4.3, 4.4 and 4.6.
 
-Then try the [mixed unit review](/advanced-course-resources/macroeconomics/unit-4-review/), whose questions combine several topics.
+Then try the [mixed unit review](/advanced-course-resources/macroeconomics/unit-4-review/).

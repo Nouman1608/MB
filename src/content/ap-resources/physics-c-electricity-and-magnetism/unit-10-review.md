@@ -35,17 +35,16 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-This review joins the four topics of Unit 10. Each question uses at least two topics. These are **original Marlbridge practice questions**, not past exam questions, and the mark tables are a **suggested Marlbridge rubric**, not an official scoring guideline. All data are invented for practice, and edge effects can be ignored. If you have not taken it yet, start with the [Unit 10 diagnostic](/advanced-course-resources/physics-c-electricity-and-magnetism/unit-10-diagnostic/).
+Each question uses at least two Unit 10 topics. These are **original Marlbridge practice questions**, not past exam questions, and the mark tables are a **suggested Marlbridge rubric**, not an official scoring guideline. All data are invented; ignore edge effects.
 
 ## Big ideas of the unit
 
-- **Equilibrium comes first.** Free charges move, effectively at once, until E = 0 inside the metal. A Gaussian surface in the metal then encloses no charge, so excess charge sits on surfaces ([10.1](/advanced-course-resources/physics-c-electricity-and-magnetism/10-1-electrostatics-conductors-study-guide/)).
+- **Equilibrium comes first.** Free charges move until E = 0 inside the metal, so a Gaussian surface there encloses no charge and excess charge sits on surfaces ([10.1](/advanced-course-resources/physics-c-electricity-and-magnetism/10-1-electrostatics-conductors-study-guide/)).
 - **One conductor, one potential.** E just outside is perpendicular to the surface, with size σ/ε₀. Sharp points have the largest σ.
-- **Shielding works one way unless grounded.** A closed shell keeps outside fields out of its cavity, but a charge inside still puts charge on the outer surface.
-- **Contact equalises potential, not charge.** Charge is conserved and shared until V is the same; for distant spheres, q ∝ R ([10.2](/advanced-course-resources/physics-c-electricity-and-magnetism/10-2-redistribution-charge-between-conductors-study-guide/)).
-- **Ground is a reference and a reservoir.** It sets V = 0 and can give or take any charge.
+- **Shielding works one way unless grounded.** A closed shell keeps outside fields out of its cavity, but a charge inside still charges the outer surface.
+- **Contact equalises potential, not charge.** Charge is conserved and shared until V is the same; for distant spheres, q ∝ R. Ground sets V = 0 and can give or take any charge ([10.2](/advanced-course-resources/physics-c-electricity-and-magnetism/10-2-redistribution-charge-between-conductors-study-guide/)).
 - **A capacitor is two conductors with ±Q.** Gauss's law gives E, integrating gives ΔV, and C = Q/ΔV depends only on geometry and material ([10.3](/advanced-course-resources/physics-c-electricity-and-magnetism/10-3-capacitors-study-guide/)).
-- **Stored energy is work done separating charge.** U = ½QΔV. Charge sharing between conductors loses some of it.
+- **Stored energy is work done separating charge.** U = ½QΔV; charge sharing loses some of it.
 - **Dielectrics reduce the field, never cancel it.** Bound charge σ(1 − 1/κ) opposes the applied field, so C rises by κ ([10.4](/advanced-course-resources/physics-c-electricity-and-magnetism/10-4-dielectrics-study-guide/)).
 - **Ask what is fixed.** Isolated means Q is fixed; connected to a battery means ΔV is fixed.
 
@@ -58,9 +57,8 @@ This review joins the four topics of Unit 10. Each question uses at least two to
 | Isolated sphere | V = kQ/R, so C = 4πε₀R | Charge sharing |
 | Spheres joined by a wire | q₁/R₁ = q₂/R₂; σ₁/σ₂ = R₂/R₁ | Distant spheres, thin wire |
 | Capacitance | C = Q/ΔV | Every capacitor |
-| Parallel plates | E = σ/ε₀; C = κε₀A/d | Gap much smaller than the plates |
-| Concentric spheres | C = 4πε₀ab/(b − a) | Multiply by κ if the gap is filled |
-| Coaxial cylinders | C = 2πε₀L/ln(b/a) | Multiply by κ if the gap is filled |
+| Parallel plates | E = σ/ε₀ in air; C = κε₀A/d | Gap much smaller than the plates |
+| Concentric spheres; coaxial cylinders | C = 4πε₀ab/(b − a); C = 2πε₀L/ln(b/a) | Multiply by κ if the gap is filled |
 | Stored energy | U = ½QΔV = Q²/(2C) = ½C(ΔV)² | Use Q²/(2C) if Q fixed, ½C(ΔV)² if ΔV fixed |
 | Dielectric | E = E₀/κ (Q fixed); σᵢ = σ(1 − 1/κ) | Isolated or connected: decide first |
 
@@ -85,7 +83,7 @@ An isolated parallel-plate capacitor has capacitance C and plate separation d. A
 
 ## Question 2 (multiple choice · mixed)
 
-A parallel-plate capacitor carries +Q and −Q, and the potential difference between its plates is 50 V. Both plates are insulated. The negative plate is then connected to ground. What happens?
+An insulated parallel-plate capacitor carries +Q and −Q, with 50 V between its plates. Its negative plate is then connected to ground. What happens?
 
 - (A) Essentially no charge flows; the negative plate is now at 0 V and the positive plate at +50 V.
 - (B) The −Q flows to ground and the capacitor discharges.
@@ -95,7 +93,7 @@ A parallel-plate capacitor carries +Q and −Q, and the potential difference bet
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The −Q is held by the attraction of +Q, and the field outside the plates is essentially zero, so nothing drives charge to ground. Grounding only fixes the reference; Q and C are unchanged, so ΔV is still 50 V.
+**Answer: (A).** The −Q is held by the +Q, and the field outside the plates is essentially zero, so nothing drives charge to ground. Grounding only sets the reference; Q, C and ΔV = 50 V are unchanged.
 
 - (B) To discharge, the + plate would need a path to ground too.
 - (C) Q sets ΔV, and Q has not changed.
@@ -116,19 +114,19 @@ An air-filled capacitor is charged by a battery, then disconnected; it now store
 
 **Answer: (A).** Isolated, Q is fixed and C triples, so U = Q²/(2C) falls to 2.0 μJ. Reconnected, the battery restores ΔV₀ with C still 3C₀, so U = ½(3C₀)(ΔV₀)² = 18 μJ.
 
-- (B) stops after step 1, before the battery is reconnected.
+- (B) stops before the battery is reconnected.
 - (C) forgets that C is still three times larger.
 - (D) multiplies by κ². At fixed ΔV, U = ½C(ΔV)² is proportional to C.
 </details>
 
 ## Question 4 (constructed response · mixed)
 
-A metal sphere of radius a = 0.040 m sits at the centre of a thin, concentric metal shell of radius b = 0.080 m. The shell is grounded. The sphere is connected, through a small insulated hole, to the +300 V terminal of a supply whose other terminal is grounded.
+A thin metal shell of radius b = 0.080 m is grounded. At its centre is a metal sphere of radius a = 0.040 m, connected by an insulated wire, through a small hole, to the +300 V terminal of a supply whose other terminal is grounded.
 
 (a) Derive the capacitance of the sphere–shell pair and evaluate it.
 (b) Find the charge on the sphere and on the inner and outer surfaces of the shell.
 (c) Find the field just outside the sphere. Check your answer with E = σ/ε₀.
-(d) Both the supply and the ground wire are now removed, so the sphere and the shell are each isolated. A +5.0 nC point charge is then held 0.30 m from the centre, outside the shell. State whether the potential difference between the sphere and the shell changes, and find the new potential of each.
+(d) The supply and ground wire are now removed, leaving the sphere and shell each isolated. A +5.0 nC point charge is then held outside the shell, 0.30 m from the centre. State whether the potential difference between the sphere and the shell changes, and find the new potential of each.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
@@ -139,7 +137,7 @@ A metal sphere of radius a = 0.040 m sits at the centre of a thin, concentric me
 
 **(c)** E(a) = kQ/a² = (8.99 × 10⁹)(2.67 × 10⁻⁹) ÷ 0.040² = **1.5 × 10⁴ V/m**, outward. Check: σ = Q/(4πa²) = 1.33 × 10⁻⁷ C/m², and σ/ε₀ = 1.5 × 10⁴ V/m.
 
-**(d)** **ΔV does not change.** The point charge induces charges on the shell's **outer** surface only, and these cancel its field inside the outer surface, so the gap field and ΔV = 300 V are unchanged. Together they add a constant potential inside, equal to their value at the centre: k(5.0 × 10⁻⁹)/0.30 = 150 V (the induced charge has zero net value, all at distance b). So the shell is at **+150 V** and the sphere at **+450 V**.
+**(d)** **ΔV does not change.** The point charge induces charge only on the shell's **outer** surface, and together they give no field inside it, so the gap field and ΔV = 300 V are unchanged. They add a constant potential inside, equal to their value at the centre: k(5.0 × 10⁻⁹)/0.30 = 150 V (the induced charge is net zero, all at distance b). The shell is at **+150 V** and the sphere at **+450 V**.
 
 | Point | What earns it |
 |---|---|
@@ -155,7 +153,7 @@ Total: 6 points. Carry forward an error in C into (b) and (c) once.
 
 ## Question 5 (constructed response · mixed)
 
-A small metal sphere A of radius 0.020 m is charged until its potential is 6.0 kV. Far away is a neutral metal sphere B of radius 0.060 m. The two are then joined by a long thin wire.
+Metal sphere A, of radius 0.020 m, is charged to 6.0 kV. A long thin wire then joins it to a far-away neutral metal sphere B of radius 0.060 m.
 
 (a) Treating an isolated sphere as a capacitor whose other conductor is at infinity, show that C = 4πε₀R. Find A's starting charge.
 (b) Find the final charge on each sphere and their common potential.
@@ -169,7 +167,7 @@ A small metal sphere A of radius 0.020 m is charged until its potential is 6.0 k
 
 **(b)** Equal potentials give q ∝ R, so A keeps 0.020/0.080 = ¼ of the charge: q_A = **3.3 nC** and q_B = **10 nC**. Common potential: kq_A/R_A = **1.5 kV** (check: kq_B/R_B = 1.5 kV).
 
-**(c)** Before: U = ½QV = ½(1.335 × 10⁻⁸)(6000) = **4.0 × 10⁻⁵ J**. After: U = ½Q(1.5 × 10³) = **1.0 × 10⁻⁵ J**. Three quarters, **3.0 × 10⁻⁵ J**, becomes internal energy in the wire as charge flows.
+**(c)** Before: U = ½QV = ½(1.335 × 10⁻⁸)(6000) = **4.0 × 10⁻⁵ J**. After: U = ½Q(1.5 × 10³) = **1.0 × 10⁻⁵ J**. Three quarters, **3.0 × 10⁻⁵ J**, becomes internal energy in the wire.
 
 **(d)** For a sphere, E = σ/ε₀ = V/R: E_A = **7.5 × 10⁴ V/m** and E_B = **2.5 × 10⁴ V/m**. The smaller sphere has the stronger field, because σ ∝ 1/R.
 
@@ -194,7 +192,7 @@ Two square plates, each 0.20 m by 0.20 m, are 1.0 mm apart and stay connected to
 | C (pF) | 355 | 572 | 799 | 1015 | 1240 |
 
 (a) Explain why the field between the plates has the same value, ΔV/d, in the air region and in the plastic region.
-(b) Find the free charge density on the plates in the air region and in the plastic region, in terms of κ. Hence explain why the plastic region holds more charge.
+(b) Find the free charge density on the plates in each region (use κ for the plastic). Hence explain why the plastic region holds more charge.
 (c) Show that C = (ε₀W/d)[L + (κ − 1)x], where W and L are the width and length of the plates.
 (d) Plot C against x, find the gradient of the best-fit line, and use it to find κ.
 (e) Find the bound charge density on the plastic's surface when it is fully inserted.
@@ -202,7 +200,7 @@ Two square plates, each 0.20 m by 0.20 m, are 1.0 mm apart and stay connected to
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Each plate is a conductor, so each is one equipotential. ΔV is 12 V and the gap 1.0 mm everywhere, so E = ΔV/d = **1.2 × 10⁴ V/m** in both regions.
+**(a)** Each plate is one equipotential, so ΔV = 12 V across the same 1.0 mm gap everywhere, and E = ΔV/d = **1.2 × 10⁴ V/m** in both regions.
 
 **(b)** Air region: σ = ε₀E = (8.85 × 10⁻¹²)(1.2 × 10⁴) = **1.06 × 10⁻⁷ C/m²**. Plastic region: bound charge cuts the free charge's field by κ, so the same E needs κ times the free charge, σ = κε₀E, supplied by the battery.
 
@@ -243,7 +241,7 @@ Two large horizontal metal plates, each of area 0.025 m², are 8.0 mm apart in a
 
 **(c)** ½mv² = eΔV, so v = √(2eΔV/m) = √[2(1.60 × 10⁻¹⁹)(400) ÷ (1.67 × 10⁻²⁷)] = **2.8 × 10⁵ m/s**. Gravity is negligible: mg = 1.6 × 10⁻²⁶ N against eE = 8.0 × 10⁻¹⁵ N.
 
-**(d)** Both plates are now joined through ground, so both go to 0 V. The +Q and −Q cancel through the ground connection, and the field disappears. The stored energy, ½C(ΔV)² = **2.2 × 10⁻⁶ J**, becomes internal energy in the wires.
+**(d)** Both plates are now grounded, so the +Q and −Q cancel through ground and the field disappears. The stored energy, ½C(ΔV)² = **2.2 × 10⁻⁶ J**, becomes internal energy in the wires.
 
 | Point | What earns it |
 |---|---|
@@ -259,11 +257,11 @@ Total: 6 points.
 
 ## How did you do?
 
-Questions 1–3 are worth 1 point each, and Questions 4–7 are worth 6, 6, 7 and 6 points, 28 in all. Look at **where** you lost points.
+Questions 1–3 score 1 point each and Questions 4–7 score 6, 6, 7 and 6: 28 in all. Look at **where** you lost points.
 
 - **Field inside conductors, cavities, shielding or E = σ/ε₀ (Q1, Q4(c)–(d), Q6(a), Q7(b)):** use the [10.1 checklist](/advanced-course-resources/physics-c-electricity-and-magnetism/10-1-electrostatics-conductors-checklist/).
 - **Charge sharing or grounding (Q2, Q4(b), Q5(b), Q7(d)):** use the [10.2 checklist](/advanced-course-resources/physics-c-electricity-and-magnetism/10-2-redistribution-charge-between-conductors-checklist/).
 - **Capacitance, energy or particle motion between plates (Q3, Q4(a), Q5(a) and (c), Q7(c)):** use the [10.3 checklist](/advanced-course-resources/physics-c-electricity-and-magnetism/10-3-capacitors-checklist/).
 - **Dielectrics, bound charge or finding κ from a graph (Q3, Q6):** use the [10.4 checklist](/advanced-course-resources/physics-c-electricity-and-magnetism/10-4-dielectrics-checklist/).
 
-If you have not done it yet, the [Unit 10 diagnostic](/advanced-course-resources/physics-c-electricity-and-magnetism/unit-10-diagnostic/) gives a quick topic-by-topic check.
+For a quick topic-by-topic check, take the [Unit 10 diagnostic](/advanced-course-resources/physics-c-electricity-and-magnetism/unit-10-diagnostic/).

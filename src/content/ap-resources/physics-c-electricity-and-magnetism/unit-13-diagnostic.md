@@ -35,11 +35,11 @@ author: "marlbridge-academic-team"
 
 **What this is for.** This diagnostic shows which Unit 13 topics to revisit, with at least one short question per topic. These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated against real exam results, and your result is **not** a predicted score.
 
-**How to take it.** Work without notes for about 30 minutes, writing each answer before opening the explanation. A scientific calculator is assumed. Data: μ₀ = 4π × 10⁻⁷ T·m/A. Inductors and wires have no resistance unless stated, and all data are invented.
+**How to take it.** Work without notes for about 30 minutes, answering before opening each explanation. A scientific calculator is assumed. Data: μ₀ = 4π × 10⁻⁷ T·m/A. Inductors and wires have no resistance unless stated, and all data are invented.
 
 ## Question 1 (multiple choice · 13.1)
 
-A hemispherical plastic bowl of radius 0.12 m sits with its rim in a horizontal plane. A uniform magnetic field of 0.50 T points vertically upward. What is the size of the magnetic flux through the curved surface of the bowl?
+A hemispherical plastic bowl of radius 0.12 m sits with its rim horizontal in a uniform vertical field of 0.50 T. What is the size of the flux through the bowl's curved surface?
 
 - (A) 4.5 × 10⁻² Wb
 - (B) 0
@@ -49,7 +49,7 @@ A hemispherical plastic bowl of radius 0.12 m sits with its rim in a horizontal 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** The bowl and the flat disc across its rim form a closed surface with zero net flux, so the bowl carries the disc's flux: BπR² = (0.50)π(0.12)² = **2.3 × 10⁻² Wb**.
+**Answer: (C).** The bowl and the flat disc across its rim form a closed surface (zero net flux), so the bowl carries the disc's flux: BπR² = (0.50)π(0.12)² = **2.3 × 10⁻² Wb**.
 
 - (A) multiplies B by the curved area, 2πR², ignoring the tilt.
 - (B) applies ∮B·dA = 0 to the bowl, an open surface.
@@ -60,7 +60,7 @@ A hemispherical plastic bowl of radius 0.12 m sits with its rim in a horizontal 
 
 ## Question 2 (multiple choice · 13.2)
 
-A long straight wire on the page carries a steady current up the page. A square conducting loop lies on the page to the right of the wire. The loop is moved steadily to the right, away from the wire. As seen on the page, what is the induced current in the loop?
+A long straight wire on the page carries a steady current up the page. A square conducting loop lies on the page to the right of the wire. The loop moves steadily to the right, away from the wire. As seen on the page, what is the induced current?
 
 - (A) Clockwise
 - (B) Anticlockwise
@@ -81,7 +81,7 @@ A long straight wire on the page carries a steady current up the page. A square 
 
 ## Question 3 (multiple choice · 13.2)
 
-A long solenoid of radius 0.040 m has a uniform field along its axis that is increasing steadily. At 0.020 m from the axis, the induced electric field has size E₁. At what distance from the axis, outside the solenoid, is the induced electric field also E₁?
+The uniform axial field inside a long solenoid of radius 0.040 m is increasing steadily. At 0.020 m from the axis, the induced electric field has size E₁. At what distance from the axis, outside the solenoid, is the induced field also E₁?
 
 - (A) 0.060 m
 - (B) 0.080 m
@@ -127,7 +127,7 @@ Check yourself: 1 mark each for the integral with Φ_B(t), the emf and current, 
 
 ## Question 5 (multiple choice · 13.3)
 
-A metal rod on frictionless horizontal rails, joined by a resistor, is given a speed v₀ in a uniform vertical field and then left to coast. It travels a total distance D. The field is doubled, and the rod is replaced by one of the same length and twice the mass. It is again given speed v₀. What total distance does it now travel?
+A metal rod on frictionless horizontal rails, joined by a resistor, is given a speed v₀ in a uniform vertical field and then left to coast. It travels a total distance D. The field is doubled and the rod replaced by one of the same length and twice the mass, again given speed v₀. What total distance does it now travel?
 
 - (A) D
 - (B) D/4
@@ -185,7 +185,7 @@ A battery, a 60 Ω resistor and a 0.30 H inductor are in series with a switch, w
 - (B) assumes the voltages change linearly, crossing at τ/2.
 - (D) is τ ln 2 ÷ 2, the halving time of something that goes as e^(−2t/τ).
 
-**If you missed this:** read "The loop rule and the differential equation" and "The time constant τ = L/R" in the [13.5 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/13-5-circuits-resistors-inductors-lr-circuits-study-guide/).
+**If you missed this:** read "The time constant τ = L/R" in the [13.5 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/13-5-circuits-resistors-inductors-lr-circuits-study-guide/).
 </details>
 
 ## Question 8 (short answer · 13.4 and 13.5)
@@ -199,7 +199,7 @@ An 18 V battery and a switch are in series with R₁ = 6.0 Ω, leading to juncti
 <details>
 <summary>Answer and explanation</summary>
 
-**(a)** The inductor's current cannot jump from zero, so its branch acts as open. R₁ and R₂ are in series: I = 18 ÷ 36 = **0.50 A** in both. V_PQ = (0.50)(30) = 15 V. R₃ carries no current, so the whole 15 V is across the inductor: **V_L = 15 V**, and dI_L/dt = 15 ÷ 0.25 = **60 A/s**.
+**(a)** The inductor current cannot jump from zero, so that branch is open. R₁ and R₂ are in series: I = 18 ÷ 36 = **0.50 A** in both. V_PQ = (0.50)(30) = 15 V. R₃ carries no current, so the whole 15 V is across the inductor: **V_L = 15 V**, and dI_L/dt = 15 ÷ 0.25 = **60 A/s**.
 
 **(b)** The inductor acts as a wire. R₂ ∥ R₃ = 12 Ω, so the battery current is 18 ÷ 18 = **1.0 A** in R₁. V_PQ = 12 V, giving **0.40 A** in R₂ and **0.60 A** in the inductor branch.
 
@@ -212,7 +212,7 @@ Check yourself: 1 mark each for the currents just after closing, V_L with dI/dt,
 
 ## Question 9 (multiple choice · 13.6)
 
-In an ideal LC circuit, the capacitor C starts with charge Q₀ and the current is zero. At a later instant the charge on the capacitor is Q₀/2. What is the size of the potential difference across the inductor at that instant?
+In an ideal LC circuit, capacitor C starts with charge Q₀ and zero current. Later, the charge is Q₀/2. What is the size of the potential difference across the inductor then?
 
 - (A) Zero
 - (B) Q₀/C

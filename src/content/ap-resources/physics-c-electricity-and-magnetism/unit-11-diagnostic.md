@@ -39,7 +39,7 @@ author: "marlbridge-academic-team"
 
 ## Question 1 (multiple choice · 11.1)
 
-In a wire of radius R, the current density points along the wire and grows from zero on the axis: J(r) = J₀r/R. What is the total current?
+A wire of radius R carries a current whose density is directed along the wire and rises linearly from zero at the centre: J(r) = J₀r/R. What is the total current?
 
 - (A) 2πJ₀R²/3
 - (B) πJ₀R²
@@ -123,21 +123,21 @@ A heating wire connected to a fixed supply dissipates power P. The wire is cut i
 
 ## Question 5 (multiple choice · 11.5)
 
-Two 10 kΩ resistors are in series across an ideal 12 V battery. A voltmeter with resistance 10 kΩ is connected across one of them. What does it read?
+A 10 kΩ resistor and a 30 kΩ resistor are in series across an ideal 12 V battery. A voltmeter with resistance 60 kΩ is connected across the 30 kΩ resistor. What does it read?
 
-- (A) 4.0 V
-- (B) 6.0 V
-- (C) 8.0 V
+- (A) 8.0 V
+- (B) 9.0 V
+- (C) 4.0 V
 - (D) 3.0 V
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The meter and the resistor it measures form a 5.0 kΩ parallel pair, in series with the other 10 kΩ. The 12 V divides in the ratio 5 : 10, so the meter reads 12 × 5/15 = **4.0 V**.
+**Answer: (A).** The meter and the 30 kΩ resistor form a 20 kΩ parallel pair, in series with the 10 kΩ. The 12 V divides in the ratio 20 : 10, so the meter reads 12 × 20/30 = **8.0 V**.
 
 - (B) is the reading an **ideal** voltmeter would give. This meter draws current.
 - (C) is the potential difference across the **other** resistor.
-- (D) halves the ideal reading, as if the meter took half of it.
+- (D) is the ideal potential difference across the 10 kΩ resistor.
 
 **If you missed this:** read "Measuring current and potential difference" in the [11.5 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/11-5-compound-direct-current-circuits-study-guide/).
 </details>
@@ -229,7 +229,7 @@ Uncharged 2.0 μF and 8.0 μF capacitors are connected in series across a 10 V b
 
 ## Question 10 (short answer · 11.8)
 
-A 12 V battery, a switch and R₁ = 4.0 kΩ are in series with a parallel pair: R₂ = 2.0 kΩ and an uncharged 50 μF capacitor. The switch closes at t = 0.
+A 9.0 V battery, a switch and R₁ = 6.0 kΩ are in series with a parallel pair: R₂ = 12 kΩ and an uncharged 25 μF capacitor. The switch closes at t = 0.
 
 (a) Find the current in R₁ and in R₂ just after the switch closes.
 (b) Find the current in R₂ and the charge on the capacitor a long time later.
@@ -239,15 +239,15 @@ A 12 V battery, a switch and R₁ = 4.0 kΩ are in series with a parallel pair: 
 <details>
 <summary>Answer and explanation</summary>
 
-**(a)** An uncharged capacitor acts like a wire, so ΔV across R₂ is zero: I₂ = **0**. All the current, 12 V ÷ 4.0 kΩ = **3.0 mA**, flows through R₁ and into the capacitor.
+**(a)** An uncharged capacitor acts like a wire, so ΔV across R₂ is zero: I₂ = **0**. All the current, 9.0 V ÷ 6.0 kΩ = **1.5 mA**, flows through R₁ and into the capacitor.
 
-**(b)** No current flows in the capacitor's branch, so R₁ and R₂ are in series: I = 12 ÷ 6.0 kΩ = **2.0 mA**. The capacitor has the same ΔV as R₂, (2.0 mA)(2.0 kΩ) = 4.0 V, so Q = CΔV = **200 μC**.
+**(b)** No current flows in the capacitor's branch, so R₁ and R₂ are in series: I = 9.0 ÷ 18 kΩ = **0.50 mA**. The capacitor has the same ΔV as R₂, (0.50 mA)(12 kΩ) = 6.0 V, so Q = CΔV = **150 μC**.
 
-**(c)** τ = R₂C = (2.0 × 10³)(50 × 10⁻⁶) = **0.10 s**. The current is I₀e^(−t/τ), so e^(−t/τ) = 0.25 gives t = τ ln 4 = **0.14 s** (0.139 s).
+**(c)** τ = R₂C = (12 × 10³)(25 × 10⁻⁶) = **0.30 s**. The current is I₀e^(−t/τ), so e^(−t/τ) = 0.25 gives t = τ ln 4 = **0.42 s** (0.416 s).
 
-**(d)** All the stored energy is dissipated: ½C(ΔV)² = ½(50 × 10⁻⁶)(4.0)² = **4.0 × 10⁻⁴ J**.
+**(d)** All the stored energy is dissipated: ½C(ΔV)² = ½(25 × 10⁻⁶)(6.0)² = **4.5 × 10⁻⁴ J**.
 
-Check yourself: 1 mark each for (a), (b), τ with the time, and the energy (4 in total). Putting all 12 V across the capacitor in (b) is the common slip: R₁ takes 8.0 V.
+Check yourself: 1 mark each for (a), (b), τ with the time, and the energy (4 in total). Putting all 9.0 V across the capacitor in (b) is the common slip: R₁ takes 3.0 V.
 
 **If you missed this:** read "Just after and long after", "Discharging" and "Energy in an RC circuit" in the [11.8 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/11-8-resistor-capacitor-rc-circuits-study-guide/).
 </details>

@@ -173,7 +173,7 @@ Tallis Gas (fictional) is a natural monopoly. Demand is P = 80 − Q, so MR = 80
 
 **(b)** P = ATC at **Q = 40**: P = $40 and ATC = 20 + 20 = $40, so economic profit is zero. DWL = ½ × (60 − 40) × (40 − 20) = **$200 thousand**.
 
-**(c)** **Q = 60**, P = $20. ATC ≈ $33.33, so the loss = (33.33 − 20) × 60 = **$800 thousand**, the whole fixed cost. The government must pay a **lump-sum** subsidy of $800 thousand; a per-unit subsidy would lower MC and push output past 60.
+**(c)** **Q = 60**, P = $20. Loss = total cost − revenue = (20 × 60 + 800) − 20 × 60 = **$800 thousand**, the whole fixed cost. The government must pay a **lump-sum** subsidy of $800 thousand; a per-unit subsidy would lower MC and push output past 60.
 
 **(d)** Moving from fair return to P = MC removes **$200 thousand** of DWL, but raising $800 thousand costs 0.30 × 800 = **$240 thousand**. Net change = **−$40 thousand**, so the **fair-return price** is better here.
 

@@ -197,7 +197,7 @@ Total: 6 points. Accept U(x) without the constant term if it is said that only c
 
 ## Question 6 (constructed response · mixed)
 
-An insulating sphere of radius R = 0.050 m carries Q = +8.0 nC spread uniformly through its volume. A narrow tunnel along a diameter does not change the field. Gauss's law gives E = kQ/r² outside and E = kQr/R³ inside, both radially outward.
+An insulating sphere of radius R = 0.050 m carries Q = +8.0 nC spread uniformly through its volume. A narrow tunnel along a diameter does not change the field. Gauss's law gives E = kQ/r² outside and E = kQr/R³ inside, both radially outward. The course does not list a sphere for potential integrals, so treat this as stretch practice.
 
 (a) Use ΔV = −∫E·dl with V(∞) = 0 to find V(R).
 (b) Show that V(0) − V(R) = kQ/(2R), and find V(0).
@@ -216,7 +216,7 @@ An insulating sphere of radius R = 0.050 m carries Q = +8.0 nC spread uniformly 
 
 **(d)** Inside, V = kQ(3R² − r²)/(2R³): a downward parabola, flat at r = 0 (E = 0) at 2.16 × 10³ V. It joins kQ/r smoothly at 1.44 × 10³ V (E is continuous), passes 719 V at 2R and falls towards zero.
 
-**(e)** It speeds up all the way to the centre, then slows and leaves on the far side: it oscillates through the tunnel. At the centre K = e(2158 V), so v = √(2 × 2158 × 1.60 × 10⁻¹⁹ ÷ 9.11 × 10⁻³¹) = **2.8 × 10⁷ m/s**, about 9% of the speed of light, so ½mv² is still a fair model.
+**(e)** It speeds up all the way to the centre, then slows on the far side. With zero total energy it just escapes and never returns. At the centre K = e(2158 V), so v = √(2 × 2158 × 1.60 × 10⁻¹⁹ ÷ 9.11 × 10⁻³¹) = **2.8 × 10⁷ m/s**, about 9% of the speed of light, so ½mv² is still a fair model.
 
 | Point | What earns it |
 |---|---|
@@ -224,7 +224,7 @@ An insulating sphere of radius R = 0.050 m carries Q = +8.0 nC spread uniformly 
 | 1 | Inside integral giving kQ/(2R) and V(0) ≈ 2.16 × 10³ V |
 | 1 | Both proton speeds |
 | 1 | Sketch: flat top at r = 0, smooth join at R, 1/r outside, three labels |
-| 1 | Electron oscillates through the tunnel, fastest at the centre |
+| 1 | Electron fastest at the centre, then slows and just escapes (zero total energy) |
 | 1 | v ≈ 2.8 × 10⁷ m/s |
 
 Total: 6 points.
@@ -275,7 +275,7 @@ Total: 7 points.
 Questions 1–3 score 1 point each, 4–6 score 6 each and 7 scores 7: 28 in all. Look at **where** you lost points.
 
 - **Pair energies, work and F = −dU/dr (Q3, Q5(a)–(b)):** use the [9.1 checklist](/advanced-course-resources/physics-c-electricity-and-magnetism/9-1-electric-potential-energy-checklist/).
-- **Superposition, integrals for V, E = −dV/dx or equipotentials (Q1, Q4(a)–(c), Q5(c), Q6(a)–(b), Q7(a)–(d)):** use the [9.2 checklist](/advanced-course-resources/physics-c-electricity-and-magnetism/9-2-electric-potential-checklist/).
+- **Superposition, integrals for V, E = −dV/dx or equipotentials (Q1, Q4(a)–(c) and (e), Q5(c), Q6(a)–(b) and (d), Q7(a)–(d)):** use the [9.2 checklist](/advanced-course-resources/physics-c-electricity-and-magnetism/9-2-electric-potential-checklist/).
 - **Speeds, turning points and signs of ΔK (Q2, Q4(d), Q5(d)–(e), Q6(c) and (e), Q7(e)):** use the [9.3 checklist](/advanced-course-resources/physics-c-electricity-and-magnetism/9-3-conservation-electric-energy-checklist/).
 
 If you have not done it yet, the [Unit 9 diagnostic](/advanced-course-resources/physics-c-electricity-and-magnetism/unit-9-diagnostic/) gives a quick topic-by-topic check.

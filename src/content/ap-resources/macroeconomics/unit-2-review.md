@@ -35,12 +35,12 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-Use this review after the [Unit 2 diagnostic](/advanced-course-resources/macroeconomics/unit-2-diagnostic/). It links the seven topics, then gives six questions that each combine several topics.
+Use this review after the [Unit 2 diagnostic](/advanced-course-resources/macroeconomics/unit-2-diagnostic/). Each of its six questions combines several topics.
 
 ## Big ideas of the unit
 
 - **Three indicators, one economy.** GDP measures output, the unemployment rate idle labour, and a price index inflation. Most questions need two at once.
-- **GDP is new final output.** Spending, income and value added all give the same total, because one person's spending is another's income. See [Topic 2.1](/advanced-course-resources/macroeconomics/2-1-circular-flow-gdp-study-guide/).
+- **GDP is new final output.** Spending, income and value added all give the same total. See [Topic 2.1](/advanced-course-resources/macroeconomics/2-1-circular-flow-gdp-study-guide/).
 - **GDP is not well-being.** It misses home production, the informal economy, leisure and environmental damage, and ignores who gets the income. See [Topic 2.2](/advanced-course-resources/macroeconomics/2-2-limitations-gdp-study-guide/).
 - **Unemployment depends on who is looking.** The rate divides by the labor force, so discouraged workers lower it while joblessness stays high. See [Topic 2.3](/advanced-course-resources/macroeconomics/2-3-unemployment-study-guide/).
 - **One method converts every nominal value.** Divide by a price index (CPI for wages and prices, the deflator for GDP) and multiply by 100. See [Topic 2.4](/advanced-course-resources/macroeconomics/2-4-price-indices-and-inflation-study-guide/) and [Topic 2.6](/advanced-course-resources/macroeconomics/2-6-real-v-nominal-gdp-study-guide/).
@@ -67,7 +67,7 @@ These are **original Marlbridge practice questions**, not past exam questions. T
 
 ## Question 1 (multiple choice · mixed)
 
-Valdoria's inflation rate has been 6% a year for some time, and lenders and borrowers expect it to continue. Banks make one-year fixed-rate loans on that basis. During the year inflation unexpectedly falls to 2%. Which statement is correct?
+Valdoria's inflation rate has been 7% a year for some time, and lenders and borrowers expect it to continue. Banks make one-year fixed-rate loans on that basis. During the year inflation unexpectedly falls to 3%. Which statement is correct?
 
 - (A) Prices still rise, and lenders on these loans gain at borrowers' expense.
 - (B) Valdoria has deflation, so borrowers gain because prices fall.
@@ -77,10 +77,10 @@ Valdoria's inflation rate has been 6% a year for some time, and lenders and borr
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** A fall from 6% to 2% is **disinflation**: prices still rise, but more slowly. The loans were priced for 6%, so each valda repaid buys more than planned. Lenders gain; borrowers lose.
+**Answer: (A).** A fall from 7% to 3% is **disinflation**: prices still rise, but more slowly. The loans were priced for 7%, so each valda repaid buys more than planned. Lenders gain; borrowers lose.
 
-- (B) Deflation needs a negative inflation rate. Even with deflation, borrowers would lose, not gain.
-- (C) Valdas do buy less, but by less than expected. Compare with the expected rate, not with zero.
+- (B) Deflation needs negative inflation, and it would hurt borrowers, not help them.
+- (C) Valdas buy less, but by less than expected; compare with the expected rate, not zero.
 - (D) What matters is the surprise (4 percentage points), not the sign of inflation.
 </details>
 
@@ -96,7 +96,7 @@ Over one year, Valdoria's nominal GDP rises by **8%**, its GDP deflator rises by
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** Real GDP grows by 1.08 ÷ 1.05 = 1.0286 (2.86%). Per person: 1.0286 ÷ 1.03 = 0.9986, a **fall of 0.14%**. Output grew a little more slowly than the population.
+**Answer: (C).** Real GDP grows by 1.08 ÷ 1.05 = 1.0286 (2.86%). Per person: 1.0286 ÷ 1.03 = 0.9986, a **fall of 0.14%**.
 
 - (A) adjusts for neither prices nor population.
 - (B) is real GDP growth; it forgets the population.
@@ -114,7 +114,7 @@ Valdoria's figures for 2026 (VD billion, current prices). The base year is 2025,
 | Business spending on new machinery and buildings | 150 |
 | New homes built | 70 |
 | Increase in firms' inventories | 10 |
-| Government purchases (including 30 to rebuild roads after a flood) | 300 |
+| Government purchases (including 30 to clean up a chemical spill in a river) | 300 |
 | Pensions and unemployment benefits | 110 |
 | Households buying government bonds | 60 |
 | Exports | 260 |
@@ -122,7 +122,7 @@ Valdoria's figures for 2026 (VD billion, current prices). The base year is 2025,
 
 (a) Calculate C, I, G and net exports, and Valdoria's 2026 GDP. Explain why two of the excluded items are left out.
 (b) The 2026 GDP deflator is 110. Calculate real GDP in 2026 and the growth rate of real GDP. Compare it with nominal growth.
-(c) In 2026 many families also stopped caring for elderly relatives at home and paid care homes instead. Using this and the table, explain **two** reasons why real growth may overstate the rise in Valdorians' well-being.
+(c) In 2026 the average working week in Valdoria also rose from 40 to 45 hours. Using this and the table, explain **two** reasons why real growth may overstate the rise in Valdorians' well-being.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
@@ -131,7 +131,7 @@ Valdoria's figures for 2026 (VD billion, current prices). The base year is 2025,
 
 **(b)** Real GDP = 1,320 ÷ 110 × 100 = **VD 1,200 billion**. 2025 is the base year, so its real GDP is VD 1,150 billion. Real growth = (1,200 − 1,150) ÷ 1,150 × 100 = **4.35%**, against nominal growth of (1,320 − 1,150) ÷ 1,150 × 100 = **14.78%**. Most of the rise was higher prices.
 
-**(c)** First, the VD 30 billion of flood repairs counts as output but only restores what Valdorians had before; the damage is not subtracted. Second, care given at home was nonmarket work, missing from GDP. Paid care now counts, so measured GDP rises although much of the care was already given.
+**(c)** First, the VD 30 billion clean-up counts as output but only repairs the river; the damage is never subtracted. Second, some extra output came from longer hours, and GDP gives no value to the leisure lost.
 
 | Point | What earns it |
 |---|---|
@@ -140,8 +140,8 @@ Valdoria's figures for 2026 (VD billion, current prices). The base year is 2025,
 | 1 | Two exclusions correctly explained |
 | 1 | Real GDP = VD 1,200 billion |
 | 1 | Real growth 4.35%, compared with nominal growth 14.78% |
-| 1 | Flood repair adds to GDP without raising well-being |
-| 1 | Home care moving into the market raises measured GDP more than actual output |
+| 1 | The clean-up adds to GDP but only repairs damage |
+| 1 | Longer hours raise output, but GDP ignores the leisure given up |
 
 **Total: 7 points.** Accept values carried forward. Counting the bonds or benefits in (a) loses the first two points.
 </details>
@@ -209,18 +209,18 @@ Valdoria's quarterly spending (VD billion, constant prices). Fixed investment is
 
 **(b)** GDP measures **production**. Firms kept producing, and unsold goods were added to inventories (+12), which counts as investment. Net exports also rose slightly.
 
-**(c)** Peak: **Quarter 2** (464). Trough: **Quarter 3** (441). Quarter 3 is in **recession** (real GDP fell as firms cut output and ran down stocks). Quarter 4 is in **expansion** (real GDP rose to 448), even though output is still below potential.
+**(c)** Peak: **Quarter 2** (464). Trough: **Quarter 3** (441). Quarter 3 is in **recession** (real GDP fell). Quarter 4 is in **expansion** (real GDP rose to 448), even though output is still below potential.
 
 **(d)** 441 − 464 = **−VD 23 billion**, or −23 ÷ 464 × 100 = **−4.96%**: a recessionary gap.
 
-**(e)** **Cyclical** unemployment: 7.4% − 5.0% = **2.4 percentage points**. The natural rate is frictional plus structural unemployment. These workers' skills still match the jobs, which return when spending recovers, so the natural rate is unchanged.
+**(e)** **Cyclical** unemployment: 7.4% − 5.0% = **2.4 percentage points**. The natural rate counts only frictional and structural unemployment. These workers' skills still match jobs that return when spending recovers, so it is unchanged.
 
 | Point | What earns it |
 |---|---|
 | 1 | All four GDP values correct |
-| 1 | Unsold output counted as inventory investment, so production, not sales, is measured |
+| 1 | Unsold output counts as inventory investment (production, not sales) |
 | 1 | Peak Quarter 2 and trough Quarter 3 |
-| 1 | Quarter 3 recession and Quarter 4 expansion, with reasons from the direction of real GDP |
+| 1 | Quarter 3 recession and Quarter 4 expansion, judged by the direction of real GDP |
 | 1 | Gap −VD 23 billion and −4.96% of potential |
 | 1 | Cyclical unemployment of 2.4 percentage points |
 | 1 | Natural rate unchanged because it excludes cyclical unemployment |
@@ -251,9 +251,9 @@ Valdoria's annual data. The base year is 2024; the adult population is 40.0 mill
 
 **(b)** Labor force = employed + unemployed: 25.0, 25.3 and 24.8 million. Unemployment rates: 1.25 ÷ 25.0 = **5.00%**, 1.00 ÷ 25.3 = **3.95%**, 1.60 ÷ 24.8 = **6.45%**. Participation rates (÷ 40.0): **62.50%**, **63.25%**, **62.00%**.
 
-**(c)** In 2024 real GDP equals potential (gap zero). At potential output, unemployment equals the natural rate, so the natural rate is **5.0%**.
+**(c)** In 2024 real GDP equals potential, where unemployment equals the natural rate: **5.0%**.
 
-**(d)** 2025: gap 816 − 810 = **+VD 6 billion** (+0.74%); cyclical 3.95 − 5.0 = **−1.05 points**. 2026: gap 780 − 820 = **−VD 40 billion** (−4.88%); cyclical 6.45 − 5.0 = **+1.45 points**. Above potential, firms hire more workers and unemployment falls below the natural rate; below potential, they need fewer and it rises above.
+**(d)** 2025: gap 816 − 810 = **+VD 6 billion** (+0.74%); cyclical 3.95 − 5.0 = **−1.05 points**. 2026: gap 780 − 820 = **−VD 40 billion** (−4.88%); cyclical 6.45 − 5.0 = **+1.45 points**. Above potential, firms hire more and unemployment falls below the natural rate; below potential, the reverse happens.
 
 **(e)** (1.6 + 0.3) ÷ (24.8 + 0.3) × 100 = **7.57%**, against the official 6.45%. Leaving out discouraged workers makes the official rate **understate** joblessness; falling participation is the clue.
 
@@ -272,11 +272,13 @@ Valdoria's annual data. The base year is 2024; the adult population is 40.0 mill
 
 ## How did you do?
 
-- **Q3 lost marks:** GDP, its components and its limits. Use the [Topic 2.1 checklist](/advanced-course-resources/macroeconomics/2-1-circular-flow-gdp-checklist/) and the [Topic 2.2 checklist](/advanced-course-resources/macroeconomics/2-2-limitations-gdp-checklist/).
-- **Q5(e) or Q6(b)–(e) lost marks:** labour market rates and the natural rate. Use the [Topic 2.3 checklist](/advanced-course-resources/macroeconomics/2-3-unemployment-checklist/).
-- **Q4(a), (d) lost marks:** building and judging a price index. Use the [Topic 2.4 checklist](/advanced-course-resources/macroeconomics/2-4-price-indices-and-inflation-checklist/).
-- **Q1 or Q4(b)–(c) lost marks:** who gains from surprises. Use the [Topic 2.5 checklist](/advanced-course-resources/macroeconomics/2-5-costs-inflation-checklist/).
-- **Q2, Q3(b) or Q6(a) lost marks:** real values. Use the [Topic 2.6 checklist](/advanced-course-resources/macroeconomics/2-6-real-v-nominal-gdp-checklist/).
-- **Q5(c)–(d) or Q6(d) lost marks:** phases and the output gap. Use the [Topic 2.7 checklist](/advanced-course-resources/macroeconomics/2-7-business-cycles-checklist/).
+If you lost marks on:
 
-If several topics feel shaky, return to the [Unit 2 diagnostic](/advanced-course-resources/macroeconomics/unit-2-diagnostic/) and its "Your next step" table.
+- **Q3:** GDP and its limits. Use the [Topic 2.1 checklist](/advanced-course-resources/macroeconomics/2-1-circular-flow-gdp-checklist/) and the [Topic 2.2 checklist](/advanced-course-resources/macroeconomics/2-2-limitations-gdp-checklist/).
+- **Q5(e) or Q6(b)–(e):** labor market rates and the natural rate. Use the [Topic 2.3 checklist](/advanced-course-resources/macroeconomics/2-3-unemployment-checklist/).
+- **Q4(a) or (d):** building and judging a price index. Use the [Topic 2.4 checklist](/advanced-course-resources/macroeconomics/2-4-price-indices-and-inflation-checklist/).
+- **Q1 or Q4(b)–(c):** who gains from surprises. Use the [Topic 2.5 checklist](/advanced-course-resources/macroeconomics/2-5-costs-inflation-checklist/).
+- **Q2, Q3(b) or Q6(a):** real values. Use the [Topic 2.6 checklist](/advanced-course-resources/macroeconomics/2-6-real-v-nominal-gdp-checklist/).
+- **Q5(c)–(d) or Q6(d):** phases and the output gap. Use the [Topic 2.7 checklist](/advanced-course-resources/macroeconomics/2-7-business-cycles-checklist/).
+
+If several topics feel shaky, return to the [Unit 2 diagnostic](/advanced-course-resources/macroeconomics/unit-2-diagnostic/).

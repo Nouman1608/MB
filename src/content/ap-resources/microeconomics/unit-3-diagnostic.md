@@ -34,11 +34,11 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-This diagnostic helps you find **which Unit 3 topics to revisit**. Each question is tied to one topic, so a wrong answer points to the study guide you need.
+This diagnostic helps you find **which Unit 3 topics to revisit**. Each question tests one topic, so a wrong answer points to the study guide you need.
 
 These are **original Marlbridge practice questions**, not past exam questions. The diagnostic is not calibrated against real exam results and gives **no predicted score**.
 
-Allow about 30 minutes, work without notes, and write down every answer before opening any answer box. A four-function calculator is enough. All firms and data are fictional.
+Allow about 30 minutes and write down every answer before opening any answer box. A four-function calculator is enough. All firms and data are fictional.
 
 ## Question 1 (multiple choice · 3.1)
 
@@ -50,18 +50,18 @@ Quarry Lane Pottery has one kiln (fixed) and hires potters:
 
 The pottery hires its 5th potter. Which statement is correct?
 
-- (A) Diminishing marginal returns begin with the 5th potter, yet total product and average product both still rise.
+- (A) Total product falls, because marginal product has fallen.
 - (B) Diminishing marginal returns begin with the 5th potter, so average product falls.
-- (C) Total product falls, because marginal product has fallen.
+- (C) Diminishing marginal returns begin with the 5th potter, yet total product and average product both still rise.
 - (D) Diminishing marginal returns have not begun, because total product is still rising.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** MPs are 4, 6, 8, 10 and 8, so MP first falls with the 5th potter. MP is still positive, so TP rises. The 5th potter's MP of 8 is **above** the average of 7, so AP rises to 7.2.
+**Answer: (C).** MPs are 4, 6, 8, 10 and 8, so MP first falls with the 5th potter. MP is still positive, so TP rises. The 5th potter's MP of 8 is **above** the average of 7, so AP rises to 7.2.
 
+- (A) TP falls only when MP is negative.
 - (B) AP falls only when MP is below AP, not whenever MP falls.
-- (C) TP falls only when MP is negative.
 - (D) Diminishing returns are about the **extra** output, not the total.
 
 **If you missed this:** read "How marginal product changes: three stages" in the [Topic 3.1 study guide](/advanced-course-resources/microeconomics/3-1-production-function-study-guide/).
@@ -71,19 +71,19 @@ The pottery hires its 5th potter. Which statement is correct?
 
 A bakery pays each worker $96 a day; labour is its only variable input. Hiring a 3rd worker raises output from 50 to 74 loaves a day. What is the marginal cost of each loaf the 3rd worker adds?
 
-- (A) $4.00
-- (B) $1.30
+- (A) $1.30
+- (B) $4.00
 - (C) $3.89
 - (D) $0.25
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** MP = 74 − 50 = 24 loaves. MC = wage ÷ MP = 96 ÷ 24 = **$4.00**.
+**Answer: (B).** MP = 74 − 50 = 24 loaves. MC = wage ÷ MP = 96 ÷ 24 = **$4.00**.
 
-- (B) divides the wage by total product.
+- (A) divides the wage by total product.
 - (C) is AVC with 3 workers: (3 × 96) ÷ 74.
-- (D) divides MP by the wage, which flips the ratio.
+- (D) flips the ratio: MP ÷ wage.
 
 **If you missed this:** read "Why the cost curves have their shapes" (MC = w ÷ MP) in the [Topic 3.2 study guide](/advanced-course-resources/microeconomics/3-2-short-run-production-costs-study-guide/).
 </details>
@@ -94,7 +94,7 @@ Tamsin Textiles pays $120 a day for its loom lease (fixed). Its total variable c
 
 | Output (rolls per day) | 1 | 2 | 3 | 4 | 5 | 6 |
 |---|---|---|---|---|---|---|
-| TVC ($) | 40 | 70 | 96 | 128 | 170 | 240 |
+| TVC ($) | 45 | 80 | 105 | 136 | 180 | 245 |
 
 (a) Calculate the MC of the 5th roll, and AVC and ATC at 5 rolls.
 (b) At what output is AVC lowest, and at what output is ATC lowest? Explain why ATC's lowest point is at the larger output.
@@ -103,11 +103,11 @@ Tamsin Textiles pays $120 a day for its loom lease (fixed). Its total variable c
 <details>
 <summary>Answer and explanation</summary>
 
-**(a)** MC = 170 − 128 = **$42**. AVC = 170 ÷ 5 = **$34.00**. ATC = (120 + 170) ÷ 5 = **$58.00**.
+**(a)** MC = 180 − 136 = **$44**. AVC = 180 ÷ 5 = **$36.00**. ATC = (120 + 180) ÷ 5 = **$60.00**.
 
-**(b)** AVC is lowest at **3 and 4 rolls** ($32.00); ATC at **5 rolls** ($58.00). AFC is still falling (40, 30, 24), so ATC keeps falling while MC is below it: the 5th roll's MC ($42) is below $62, but the 6th roll's ($70) is above $58.
+**(b)** AVC is lowest at **4 rolls** ($34.00); ATC at **5 rolls** ($60.00). AFC is still falling (40, 30, 24), so ATC keeps falling while MC is below it: the 5th roll's MC ($44) is below $64, but the 6th roll's ($65) is above $60.
 
-**(c)** Insurance is a **fixed** cost. MC is **unchanged at $42**. ATC rises to (150 + 170) ÷ 5 = **$64.00**.
+**(c)** Insurance is a **fixed** cost. MC is **unchanged at $44**. ATC rises to (150 + 180) ÷ 5 = **$66.00**.
 
 **If you missed this:** read "The seven cost measures" and "What shifts the cost curves" in the [Topic 3.2 study guide](/advanced-course-resources/microeconomics/3-2-short-run-production-costs-study-guide/).
 </details>
@@ -116,21 +116,21 @@ Tamsin Textiles pays $120 a day for its loom lease (fixed). Its total variable c
 
 A furniture maker doubles every input it uses. Input prices do not change, so its long-run total cost doubles. Its output rises by 150%. What happens to its long-run average total cost?
 
-- (A) It falls by 20%: increasing returns to scale, so economies of scale.
+- (A) It stays the same: constant returns to scale, because all inputs doubled.
 - (B) It rises, because total cost doubled: diseconomies of scale.
 - (C) It rises by about 33%: decreasing returns to scale.
-- (D) It stays the same: constant returns to scale, because all inputs doubled.
+- (D) It falls by 20%: increasing returns to scale, so economies of scale.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Output is now 2.5 times as large, so new LRATC = 2 ÷ 2.5 = 0.8 of the old level: a 20% fall.
+**Answer: (D).** Output is now 2.5 times as large, so new LRATC = 2 ÷ 2.5 = 0.8 of the old level: a 20% fall.
 
+- (A) Equal input growth is the test; the answer depends on output.
 - (B) looks at total cost, not cost per unit.
 - (C) reads "rises by 150%" as "1.5 times": 2 ÷ 1.5 ≈ 1.33.
-- (D) Equal input growth is the test; the answer depends on output.
 
-**If you missed this:** read "Returns to scale" and "From returns to scale to long-run costs" in the [Topic 3.3 study guide](/advanced-course-resources/microeconomics/3-3-long-run-production-costs-study-guide/).
+**If you missed this:** read "Returns to scale: when every input grows" and "From returns to scale to long-run costs" in the [Topic 3.3 study guide](/advanced-course-resources/microeconomics/3-3-long-run-production-costs-study-guide/).
 </details>
 
 ## Question 5 (multiple choice · 3.4)
@@ -164,17 +164,17 @@ A firm sells at a market price of $17 and cannot change it.
 
 Which output maximizes profit, and what is the profit?
 
-- (A) 5 units; $9
-- (B) 4 units; $8
+- (A) 4 units; $8
+- (B) 5 units; $9
 - (C) 2 units; −$6
 - (D) 6 units; $4
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** MC is $10, $6, $8, $12, $16 and $22. Units 1 to 5 have MC below MR = $17; the 6th costs $22. Profit = 85 − 76 = **$9**.
+**Answer: (B).** MC is $10, $6, $8, $12, $16 and $22. Units 1 to 5 have MC below MR = $17; the 6th costs $22. Profit = 85 − 76 = **$9**.
 
-- (B) maximizes **profit per unit** ($2); the 5th unit still adds $1.
+- (A) maximizes **profit per unit** ($2); the 5th unit still adds $1.
 - (C) stops where MC is lowest.
 - (D) maximizes revenue; the 6th unit costs $5 more than it earns.
 
@@ -185,18 +185,18 @@ Which output maximizes profit, and what is the profit?
 
 At its best output, a firm makes an economic loss of $500 a week. Its total fixed cost is $800 a week. Which conclusion is correct?
 
-- (A) Keep producing in the short run: revenue covers variable cost and $300 of fixed cost.
+- (A) Stay in the market in the long run: the loss is smaller than the fixed cost.
 - (B) Shut down in the short run: any loss means the price is too low.
 - (C) Shut down in the short run: the price must be below average total cost.
-- (D) Stay in the market in the long run: the loss is smaller than the fixed cost.
+- (D) Keep producing in the short run: revenue covers variable cost and $300 of fixed cost.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Shutting down would lose the full $800. Producing loses $500, so TR − TVC = $300 pays part of the fixed cost (P > AVC).
+**Answer: (D).** Shutting down would lose the full $800. Producing loses $500, so TR − TVC = $300 pays part of the fixed cost (P > AVC).
 
+- (A) mixes up time periods: in the long run nothing is fixed, so an expected loss means exit.
 - (B) and (C) use the wrong test. P below ATC means a loss, not a shutdown; the short-run test is P against AVC.
-- (D) mixes up the time periods. In the long run nothing is fixed, so an expected economic loss is a reason to exit.
 
 **If you missed this:** read "The short-run decision: produce or shut down" in the [Topic 3.6 study guide](/advanced-course-resources/microeconomics/3-6-firms-short-run-decisions-produce-study-guide/).
 </details>
@@ -228,20 +228,20 @@ Winterpeak Ski Hire pays $6,000 a month in fixed lease and insurance costs until
 
 ## Question 9 (multiple choice · 3.7)
 
-A perfectly competitive, constant-cost industry is in long-run equilibrium. Demand for its product then rises. Before any new firm can enter, which statement is correct?
+A constant-cost, perfectly competitive industry starts in long-run equilibrium. Then market demand increases. Before any new firm can enter, which statement is correct?
 
-- (A) The price rises; each firm raises output along MC, earns economic profit and produces beyond minimum ATC.
+- (A) The price stays at minimum ATC, because the industry has constant costs.
 - (B) The price rises and firms earn economic profit, but each firm's output is unchanged because it is a price taker.
-- (C) The price stays at minimum ATC, because the industry has constant costs.
+- (C) The price rises; each firm raises output along MC, earns economic profit and produces beyond minimum ATC.
 - (D) Each firm's demand curve now slopes downward, so MR is below price.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Each firm's P = MR line moves up and meets MC at a larger output, where P is above ATC and beyond the efficient scale.
+**Answer: (C).** Each firm's P = MR line moves up and meets MC at a larger output, where P is above ATC and beyond the efficient scale.
 
-- (B) A price taker cannot set the price, but it chooses output where MC = P.
-- (C) describes the **long run**, after entry.
+- (A) describes the **long run**, after entry.
+- (B) A price taker still chooses output where MC = P.
 - (D) Each firm's demand stays horizontal, at the new price.
 
 **If you missed this:** read "From short run to long run: entry and exit" in the [Topic 3.7 study guide](/advanced-course-resources/microeconomics/3-7-perfect-competition-study-guide/).
@@ -283,7 +283,7 @@ Count a short-answer question as wrong if any part was wrong.
 
 ## How to use your result
 
-- **Start with the topics you missed.** Read the sections named in the answer, then do that topic's practice questions. One question is a small sample: treat a miss as a signal.
+- **Start with the topics you missed.** Read the sections named in the answer, then do that topic's practice questions. One question is a small sample.
 - **Look for patterns.** Questions 1 to 3 link production and cost: if you missed two, revise Topic 3.1 before 3.2. Questions 3, 7 and 8 turn on fixed costs, which never change MC or the shutdown decision. Questions 5 and 8 need implicit costs.
 - **All correct?** Go on to the [mixed unit review](/advanced-course-resources/microeconomics/unit-3-review/), whose longer questions combine topics.
 - **Retake it** after a week of revision.

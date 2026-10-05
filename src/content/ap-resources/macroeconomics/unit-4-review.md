@@ -71,7 +71,7 @@ These are **original Marlbridge practice questions**, not past exam questions. T
 
 ## Question 1 (multiple choice · mixed)
 
-Valdoria has limited reserves. The CBV sells government bonds on the open market. Which row shows the short-run effects?
+Valdoria has limited reserves. The CBV sells government bonds on the open market. Which row correctly describes the short-run effects?
 
 - (A) Money supply falls; nominal interest rate rises; prices of existing bonds rise; the opportunity cost of holding money falls
 - (B) Money supply falls; nominal interest rate rises; prices of existing bonds fall; the opportunity cost of holding money rises
@@ -90,26 +90,26 @@ Valdoria has limited reserves. The CBV sells government bonds on the open market
 
 ## Question 2 (multiple choice · mixed)
 
-Valdoria's loanable funds market is in equilibrium at a real interest rate of **3%**. Savers and borrowers both come to expect inflation of **5%** instead of 2%. Nothing else changes. Which is correct for **new** one-year loans?
+Valdoria's loanable funds market is in equilibrium at a real interest rate of **4%**. Savers and borrowers both come to expect inflation of **3.5%** instead of 1%. Nothing else changes. Which is correct for **new** one-year loans?
 
-- (A) The nominal rate stays at 5%; the real rate falls to 0%.
-- (B) The nominal rate rises from 5% to 8%; the real rate rises to 6%.
-- (C) The nominal rate stays at 3%, because the loanable funds market sets it.
-- (D) The nominal rate rises from 5% to 8%; the equilibrium real rate stays at 3%.
+- (A) The nominal rate stays at 5%; the real rate falls to 1.5%.
+- (B) The nominal rate rises from 5% to 7.5%; the real rate rises to 6.5%.
+- (C) The nominal rate stays at 4%, because the loanable funds market sets it.
+- (D) The nominal rate rises from 5% to 7.5%; the equilibrium real rate stays at 4%.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (D).** Both sides decide in real terms, so the loanable funds curves do not move and the real rate stays at 3%. Expected inflation is built into the contract: 3 + 2 = 5% before, 3 + 5 = 8% after.
+**Answer: (D).** Both sides decide in real terms, so the loanable funds curves do not move and the real rate stays at 4%. Expected inflation is built into the contract: 4 + 1 = 5% before, 4 + 3.5 = 7.5% after.
 
 - (A) describes an **old** contract when inflation rises unexpectedly. New contracts include the new expectation.
-- (B) adds the 3-point rise in expected inflation to the real rate as well as to the nominal rate.
+- (B) adds the 2.5-point rise in expected inflation to the real rate as well as to the nominal rate.
 - (C) The loanable funds market sets the **real** rate, not the nominal rate.
 </details>
 
 ## Question 3 (constructed response · mixed)
 
-Valdoria has limited reserves and a required reserve ratio of **20%**; no bank holds excess reserves. The CBV **buys VD 12 billion** of government bonds from **households**, who deposit the payment in their checking accounts.
+Valdoria has limited reserves and a required reserve ratio of **10%**; no bank holds excess reserves. The CBV **buys VD 12 billion** of government bonds from **households**, who deposit the payment in their checking accounts.
 
 (a) Calculate the immediate change in M1 and in the monetary base. Explain each.
 (b) Calculate the change in banks' required and excess reserves.
@@ -122,9 +122,9 @@ Valdoria has limited reserves and a required reserve ratio of **20%**; no bank h
 
 **(a)** M1 **+12**: households swapped bonds, which are not money, for checking deposits. The monetary base **+12**: the CBV pays by adding to banks' reserves.
 
-**(b)** Required reserves rise by 0.2 × 12 = **2.4**. Reserves rose by 12, so excess reserves rise by 12 − 2.4 = **9.6**.
+**(b)** Required reserves rise by 0.1 × 12 = **1.2**. Reserves rose by 12, so excess reserves rise by 12 − 1.2 = **10.8**.
 
-**(c)** Multiplier = 1 ÷ 0.2 = 5. Lending can add up to 9.6 × 5 = 48. Total = 12 + 48 = **VD 60 billion** (the same as 12 × 5).
+**(c)** Multiplier = 1 ÷ 0.1 = 10. Lending can add up to 10.8 × 10 = 108. Total = 12 + 108 = **VD 120 billion** (the same as 12 × 10).
 
 **(d)** Axes "Nominal interest rate" and "Quantity of money". Downward-sloping MD; vertical MS₁ shifts **right** to MS₂; the rate falls from i₁ to i₂.
 
@@ -134,49 +134,49 @@ Valdoria has limited reserves and a required reserve ratio of **20%**; no bank h
 |---|---|
 | 1 | M1 +12, because bonds are not money but deposits are |
 | 1 | Monetary base +12, because reserves rise |
-| 1 | Required +2.4 and excess +9.6 |
-| 1 | Total of VD 60 billion |
+| 1 | Required +1.2 and excess +10.8 |
+| 1 | Total of VD 120 billion |
 | 1 | Correct axes, vertical MS, downward MD |
 | 1 | MS shifts right and i₂ below i₁ |
 | 1 | Valid reason the expansion is smaller |
 
-**Total: 7 points.** An answer of 48 in (c) misses that the first 12 of deposits is already new money.
+**Total: 7 points.** An answer of 108 in (c) misses that the first 12 of deposits is already new money.
 </details>
 
 ## Question 4 (constructed response · mixed)
 
-Valdoria's real GDP is **VD 1,050 billion** and potential output is **VD 1,000 billion**. Money demand is Qd = 1,000 − 50i (VD billion; i is the nominal rate in per cent). The money supply is **VD 750 billion**. The banking system has limited reserves and a required reserve ratio of **10%**.
+Valdoria's real GDP is **VD 1,060 billion** and potential output is **VD 1,000 billion**. Money demand is Qd = 1,100 − 60i (VD billion; i is the nominal rate in per cent). The money supply is **VD 860 billion**. The banking system has limited reserves and a required reserve ratio of **25%**.
 
 (a) Identify the output gap and calculate its size.
 (b) Calculate the equilibrium nominal interest rate.
-(c) The CBV wants a nominal rate of 7%. Calculate the change in the money supply needed, and the open market operation with commercial banks that could achieve it.
-(d) A previously issued bond pays a fixed VD 70 a year. Treating its return as yearly interest ÷ price, calculate its price at the old and new rates.
-(e) Explain the effect of the policy on investment, AD, real output and the price level.
+(c) The CBV wants a nominal rate of 6%. Calculate the change in the money supply needed, and the open market operation with commercial banks that could achieve it.
+(d) A previously issued bond pays a fixed VD 54 a year. Treating its return as yearly interest ÷ price, calculate its price at the old and new rates.
+(e) Explain how the policy affects investment, and then AD, real output and the price level in the short run.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** An **inflationary (positive) output gap** of 1,050 − 1,000 = **VD 50 billion** (5% of potential).
+**(a)** An **inflationary (positive) output gap** of 1,060 − 1,000 = **VD 60 billion** (6% of potential).
 
-**(b)** 1,000 − 50i = 750, so 50i = 250 and **i = 5%**.
+**(b)** 1,100 − 60i = 860, so 60i = 240 and **i = 4%**.
 
-**(c)** At 7%, Qd = 1,000 − 350 = 650, so the money supply must **fall by VD 100 billion**. With a multiplier of 1 ÷ 0.1 = 10, the CBV should **sell VD 10 billion** of bonds to banks: reserves fall by 10, and deposits must shrink by up to 10 × 10 = 100.
+**(c)** At 6%, Qd = 1,100 − 360 = 740, so the money supply must **fall by VD 120 billion**. With a multiplier of 1 ÷ 0.25 = 4, the CBV should **sell VD 30 billion** of bonds to banks: reserves fall by 30, and deposits must shrink by up to 30 × 4 = 120.
 
-**(d)** At 5%: 70 ÷ 0.05 = **VD 1,400**. At 7%: 70 ÷ 0.07 = **VD 1,000**. The price falls by VD 400 as the rate rises.
+**(d)** At 4%: 54 ÷ 0.04 = **VD 1,350**. At 6%: 54 ÷ 0.06 = **VD 900**. The price falls by VD 450 as the rate rises.
 
-**(e)** Higher interest rates make borrowing dearer, so **investment** and interest-sensitive consumption **fall**. **AD shifts left**, so **real output falls** towards VD 1,000 billion and the **price level falls** (or rises more slowly).
+**(e)** Firms compare each project's expected return with a higher cost of borrowing, so fewer projects go ahead: **investment falls**, and so do purchases made on credit, such as cars. **AD shifts left**: **real output falls** back towards VD 1,000 billion and the **price level falls** (or inflation slows).
 
 | Point | What earns it |
 |---|---|
-| 1 | Inflationary gap of VD 50 billion |
-| 1 | i = 5% |
-| 1 | Money supply falls by VD 100 billion |
-| 1 | Sell VD 10 billion of bonds |
-| 1 | Bond prices VD 1,400 and VD 1,000 |
-| 1 | Investment falls, so AD shifts left |
-| 1 | Real output falls and the price level falls |
+| 1 | Inflationary gap of VD 60 billion |
+| 1 | i = 4% |
+| 1 | Money supply falls by VD 120 billion |
+| 1 | Sell VD 30 billion of bonds |
+| 1 | Bond prices VD 1,350 and VD 900 |
+| 1 | Higher borrowing cost cuts investment, so AD shifts left |
+| 1 | Real output falls towards potential and the price level falls |
 
-**Total: 7 points.** "Sell bonds" without the amount earns the fourth point only if (c) shows the 100 ÷ 10 reasoning.
+**Total: 7 points.** "Sell bonds" without the amount earns the fourth point only if (c) shows the 120 ÷ 4 reasoning.
 </details>
 
 ## Question 5 (constructed response · mixed)
@@ -185,39 +185,39 @@ Valdoria's loanable funds market (VD billion per year):
 
 | Real interest rate | 2% | 3% | 4% | 5% | 6% | 7% |
 |---|---|---|---|---|---|---|
-| Quantity demanded (private) | 150 | 140 | 130 | 120 | 110 | 100 |
-| Quantity supplied | 60 | 80 | 100 | 120 | 140 | 160 |
+| Quantity demanded (private) | 160 | 150 | 140 | 130 | 120 | 110 |
+| Quantity supplied | 100 | 120 | 140 | 160 | 180 | 200 |
 
 (a) Identify the equilibrium real interest rate and quantity.
-(b) The government borrows an extra VD 30 billion at every real rate to finance a deficit. Draw a correctly labelled graph showing the change, and find the new equilibrium.
+(b) The government borrows an extra VD 60 billion at every real rate to finance a deficit. Draw a correctly labelled graph showing the change, and find the new equilibrium.
 (c) Calculate the change in private investment, and explain why it changes.
-(d) Everyone expects inflation of 2.5%. Calculate the nominal rate on new loans before and after the change in (b).
-(e) A firm borrows at the new nominal rate, but actual inflation turns out to be 4%. Calculate the real rate in hindsight and state who gains.
+(d) Everyone expects inflation of 3%. Calculate the nominal rate on new loans before and after the change in (b).
+(e) A firm borrows at the new nominal rate, but actual inflation turns out to be 5%. Calculate the real rate in hindsight and state who gains.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** **5%** and **VD 120 billion**.
+**(a)** **4%** and **VD 140 billion**.
 
-**(b)** Axes "Real interest rate" and "Quantity of loanable funds". Demand shifts **right** from D₁ to D₂ (180, 170, 160, 150, 140, 130). D₂ meets supply at **6%** and **VD 140 billion**.
+**(b)** Axes "Real interest rate" and "Quantity of loanable funds". Demand shifts **right** from D₁ to D₂ (220, 210, 200, 190, 180, 170). D₂ meets supply at **6%** and **VD 180 billion**.
 
-**(c)** The government takes 30 of the 140, leaving **110** for private borrowers (the original demand at 6%). Private investment **falls by VD 10 billion**: the higher real rate means fewer projects earn more than the cost of borrowing.
+**(c)** The government takes 60 of the 180, leaving **120** for private borrowers (the original demand at 6%). Private investment **falls by VD 20 billion**, from 140: the higher real rate means fewer projects earn more than the cost of borrowing.
 
-**(d)** Before: 5 + 2.5 = **7.5%**. After: 6 + 2.5 = **8.5%**.
+**(d)** Before: 4 + 3 = **7%**. After: 6 + 3 = **9%**.
 
-**(e)** 8.5 − 4 = **4.5%**, below the 6% expected. The **firm (the borrower)** gains, because it repays in valdas that buy less than planned.
+**(e)** 9 − 5 = **4%**, below the 6% expected. The **firm (the borrower)** gains, because it repays in valdas that buy less than planned.
 
 | Point | What earns it |
 |---|---|
-| 1 | 5% and VD 120 billion |
+| 1 | 4% and VD 140 billion |
 | 1 | Graph: real interest rate and quantity of loanable funds on the axes, demand shifted right |
-| 1 | New equilibrium 6% and VD 140 billion |
-| 1 | Private investment falls by VD 10 billion |
+| 1 | New equilibrium 6% and VD 180 billion |
+| 1 | Private investment falls by VD 20 billion |
 | 1 | Explains the fall through the higher real rate |
-| 1 | Nominal rates 7.5% and 8.5% |
-| 1 | Real rate 4.5%, with the borrower gaining because inflation was higher than expected |
+| 1 | Nominal rates 7% and 9% |
+| 1 | Real rate 4%, with the borrower gaining because inflation was higher than expected |
 
-**Total: 7 points.** A supply-side answer (supply shifts left by 30) is acceptable if the curves are labelled and private investment is still 110. "Nominal interest rate" on the vertical axis does not earn the graph point.
+**Total: 7 points.** A supply-side answer (supply shifts left by 60) is acceptable if the curves are labelled and private investment is still 120. "Nominal interest rate" on the vertical axis does not earn the graph point.
 </details>
 
 ## Question 6 (constructed response · mixed)
@@ -228,7 +228,7 @@ Nadia runs a bakery in Valdoria. She keeps **VD 30,000** in a checking account t
 (b) She moves VD 18,000 into a small time deposit. State the effect on M1 and on M2.
 (c) The bond rate rises to 8%. Calculate the opportunity cost of the VD 12,000 left in her checking account, and explain how her likely response is shown in the money market.
 (d) Give one reason, using the attributes of financial assets, why she keeps some money in checking instead of buying bonds.
-(e) Her bank has a required reserve ratio of 10% and no excess reserves. She withdraws VD 2,000 in cash from checking. State the effect on M1, and calculate the change in her bank's excess reserves.
+(e) Her bank has a required reserve ratio of 15% and no excess reserves. She deposits VD 2,000 of cash takings into her checking account. State the effect on M1, and calculate the change in her bank's excess reserves.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
@@ -241,7 +241,7 @@ Nadia runs a bakery in Valdoria. She keeps **VD 30,000** in a checking account t
 
 **(d)** **Liquidity:** she must pay suppliers at once, and bonds must be sold first. Or **risk:** if rates rise again, a bond's price falls and she could sell at a loss.
 
-**(e)** M1 is **unchanged**: checking deposits fall by 2,000 and currency rises by 2,000. Reserves fall by 2,000 but required reserves fall by only 0.1 × 2,000 = 200, so excess reserves fall by **VD 1,800**: the bank is VD 1,800 short and must cut lending.
+**(e)** M1 is **unchanged**: currency falls by 2,000 and checking deposits rise by 2,000. Reserves rise by 2,000 but required reserves rise by only 0.15 × 2,000 = 300, so excess reserves rise by **VD 1,700**, which the bank can now lend.
 
 | Point | What earns it |
 |---|---|
@@ -250,8 +250,8 @@ Nadia runs a bakery in Valdoria. She keeps **VD 30,000** in a checking account t
 | 1 | VD 960 |
 | 1 | Higher rate → less money held, shown as a movement along MD |
 | 1 | Liquidity or risk reason, linked to her need to pay or to bond price falls |
-| 1 | M1 unchanged, with currency up and deposits down |
-| 1 | Excess reserves fall by VD 1,800 |
+| 1 | M1 unchanged, with currency down and deposits up |
+| 1 | Excess reserves rise by VD 1,700 |
 
 **Total: 7 points.** In (c), "money demand shifts left" earns no point: the interest rate is on the axis.
 </details>

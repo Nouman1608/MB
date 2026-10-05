@@ -33,7 +33,7 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-This diagnostic helps you find **which Unit 5 topics to revisit**. It has one or two short questions on each topic, 5.1 to 5.7. Answer every question before opening any answer; allow about 30 minutes.
+This diagnostic helps you find **which Unit 5 topics to revisit**. It has one or two questions on each topic, 5.1 to 5.7. Answer them all before opening any answer; allow about 30 minutes.
 
 These are **original Marlbridge practice questions**, not past exam questions. The set is not calibrated, so it gives **no predicted score**. **Valdoria** and **Kestria** are fictional countries using the **valda (VD)**; all data are fictional. A four-function calculator is enough. Only the stated change happens.
 
@@ -49,7 +49,7 @@ Valdoria has a recessionary gap, and its central bank works with **ample reserve
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** A recessionary gap needs both policies to be **expansionary**. Higher transfers raise consumption. With ample reserves, the central bank lowers its policy rate mainly by lowering administered rates such as the rate paid on reserves.
+**Answer: (A).** Both policies must be **expansionary**. Higher transfers raise consumption; with ample reserves, the central bank cuts rates by lowering administered rates such as the rate paid on reserves.
 
 - (B) A higher rate on reserves is contractionary.
 - (C) A bond sale is a contractionary, limited-reserves tool.
@@ -60,7 +60,7 @@ Valdoria has a recessionary gap, and its central bank works with **ample reserve
 
 ## Question 2 (multiple choice · 5.2)
 
-Valdoria's natural rate of unemployment is 4.5%. Its short-run Phillips curve (SRPC) passes through (unemployment 4.5%, inflation 3%) and (5.5%, 1%). A fall in AD has moved the economy to **5.5% and 1%**. With no policy action, what happens in the long run?
+Valdoria's natural rate of unemployment is 4.5%. A fall in AD has moved the economy along its short-run Phillips curve (SRPC) from (unemployment 4.5%, inflation 3%) to **(5.5%, 1%)**. With no policy action, what happens in the long run?
 
 - (A) The SRPC shifts left; unemployment returns to 4.5% with inflation below 3%.
 - (B) The SRPC shifts right; unemployment returns to 4.5% with inflation above 3%.
@@ -70,10 +70,10 @@ Valdoria's natural rate of unemployment is 4.5%. Its short-run Phillips curve (S
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The point is **right** of the LRPC: a recessionary gap. Nominal wages and expected inflation fall, so SRAS shifts right and the **SRPC shifts left**. Unemployment returns to the natural rate at lower inflation.
+**Answer: (A).** The point is **right** of the LRPC: a recessionary gap. Nominal wages and expected inflation fall, so SRAS shifts right and the **SRPC shifts left**.
 
 - (B) describes adjustment from an **inflationary** gap.
-- (C) Moving back up the same SRPC needs AD to rise again, which is not self-adjustment.
+- (C) Moving back up the same SRPC needs a new rise in AD.
 - (D) A fall in AD does not change the natural rate.
 
 **If you missed this:** read "Equilibrium and gaps on the graph" and Worked example 1(d) in the [Topic 5.2 study guide](/advanced-course-resources/macroeconomics/5-2-phillips-curve-study-guide/).
@@ -81,28 +81,28 @@ Valdoria's natural rate of unemployment is 4.5%. Its short-run Phillips curve (S
 
 ## Question 3 (multiple choice · 5.2)
 
-Which event would shift Valdoria's **long-run** Phillips curve to the **left**?
+Kestria's natural rate of unemployment is 5%, and its SRPC crosses its LRPC at 4% inflation. The economy is on that SRPC at 6% unemployment and 2.5% inflation. Which statement is correct?
 
-- (A) The central bank lowers its policy rate.
-- (B) A programme retrains workers whose skills became obsolete, cutting structural unemployment for good.
-- (C) The world price of oil falls sharply for a year.
-- (D) Workers and firms come to expect higher inflation.
+- (A) People expect inflation of about 4%, and there is a recessionary gap.
+- (B) People expect inflation of about 2.5%, and there is an inflationary gap.
+- (C) The natural rate is now 6%, because the economy is on its SRPC.
+- (D) People expect inflation of about 4%, and there is an inflationary gap.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** Less structural unemployment lowers the **natural rate**, where the LRPC stands. LRAS shifts right too.
+**Answer: (A).** Where the SRPC meets the LRPC, actual inflation equals expected inflation, so people expect about **4%**. At 6% the economy is **right** of the LRPC: a recessionary gap, with inflation below what people expected.
 
-- (A) is a demand change: a movement along the SRPC.
-- (C) A temporary supply shock shifts the **SRPC** left, not the LRPC.
-- (D) Higher expected inflation shifts the **SRPC** right.
+- (B) treats today's inflation as expected inflation, and reverses the gap.
+- (C) The LRPC still stands at the natural rate, 5%.
+- (D) Right of the LRPC means a recessionary gap.
 
-**If you missed this:** read "What shifts the LRPC" in the [Topic 5.2 study guide](/advanced-course-resources/macroeconomics/5-2-phillips-curve-study-guide/).
+**If you missed this:** read "Equilibrium and gaps on the graph" and Worked example 1(d) in the [Topic 5.2 study guide](/advanced-course-resources/macroeconomics/5-2-phillips-curve-study-guide/).
 </details>
 
 ## Question 4 (multiple choice · 5.3)
 
-Over several years Valdoria's money supply grows by **6%** a year, the velocity of money **falls by 1%** a year and full-employment real GDP grows by **3%** a year. Which is the best estimate of the inflation rate?
+For several years Valdoria's money supply grows **6%** a year, velocity **falls 1%** a year and full-employment real GDP grows **3%** a year. What is the best estimate of inflation?
 
 - (A) 2%
 - (B) 3%
@@ -133,9 +133,9 @@ Kestria starts the year with a **balanced budget** and a debt of **VD 500 billio
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The balance moves from 0 to 0 − 12 − 8 = **−20**. The deficit is borrowed, so the debt rises to 500 + 20 = **VD 520 billion**. These are automatic stabilizers at work.
+**Answer: (A).** The balance moves from 0 to 0 − 12 − 8 = **−20**. The deficit is borrowed, so the debt rises to 500 + 20 = **VD 520 billion**. These are automatic stabilizers.
 
-- (B) leaves out benefits. Transfers are not in G, but they are budget spending.
+- (B) leaves out benefits, which are budget spending though not part of G.
 - (C) nets the two changes, but both push towards deficit.
 - (D) Any deficit, planned or not, adds to the debt.
 
@@ -233,15 +233,15 @@ Valdoria's real GDP is VD 780 billion and full-employment output is VD 810 billi
 Valdoria's money supply is VD 150 billion and nominal GDP is VD 900 billion. Real GDP is at full employment, VD 750 billion.
 
 (a) Calculate velocity and the price level.
-(b) The money supply rises to VD 165 billion; velocity is constant. State the short-run effect on real output, then calculate the long-run price level and the percentage changes in M and P.
-(c) Next year full-employment output grows 4% and velocity is unchanged. What money supply keeps the price level at its value in (b)?
+(b) M rises to VD 165 billion; V is constant. State the short-run effect on real output, then calculate the long-run price level and the percentage changes in M and P.
+(c) Next year full-employment output grows 4%, with V unchanged. What money supply keeps P at its value in (b)?
 
 <details>
 <summary>Worked answer</summary>
 
 **(a)** V = 900 ÷ 150 = **6**. P = 900 ÷ 750 = **1.20** (index 120).
 
-**(b)** In the short run AD rises, so output can rise above VD 750 billion; in the long run wages adjust and it returns to 750. P = (165 × 6) ÷ 750 = **1.32**. M and P both rose **10%**: money is neutral in the long run.
+**(b)** Output rises above VD 750 billion in the short run, then returns to 750 as wages adjust. P = (165 × 6) ÷ 750 = **1.32**. M and P both rose **10%**: money is neutral in the long run.
 
 **(c)** Y = 750 × 1.04 = 780. M = (1.32 × 780) ÷ 6 = **VD 171.6 billion**: **4%** growth, matching real growth.
 
@@ -265,34 +265,31 @@ Data for Kestria; capital and technology do not change.
 <details>
 <summary>Worked answer</summary>
 
-**(a)** Real GDP: (249.6 − 240) ÷ 240 × 100 = **4.00%**. Per capita: VD 240 billion ÷ 10.0 million and VD 249.6 billion ÷ 10.4 million both give VD 24,000, so growth = **0.00%**.
+**(a)** Real GDP: (249.6 − 240) ÷ 240 × 100 = **4.00%**. Per capita: 240 billion ÷ 10.0 million = 249.6 billion ÷ 10.4 million = VD 24,000, so growth = **0.00%**.
 
 **(b)** Year 1: 240 billion ÷ 6.0 million = **VD 40,000** per worker. Year 2: 249.6 billion ÷ 6.4 million = **VD 39,000**, a fall of 2.5%.
 
-**(c)** More workers produced more output, but with the same capital, **capital per worker fell** (by 6.25%), so each worker produced less. Living standards did **not** rise: real GDP per capita is unchanged.
+**(c)** Output rose, but with the same capital, **capital per worker fell** (by 6.25%), so each worker produced less. Living standards did **not** rise: real GDP per capita is unchanged.
 
 **If you missed this:** read "Labour productivity" and Worked example 2 in the [Topic 5.6 study guide](/advanced-course-resources/macroeconomics/5-6-economic-growth-study-guide/).
 </details>
 
 ## Your next step
 
-Circle each question you got wrong or guessed.
-
 | Topic | Question(s) | If you missed it, read |
 |---|---|---|
-| 5.1 Fiscal and monetary policy actions in the short run | 1, 9 | [Policy actions study guide](/advanced-course-resources/macroeconomics/5-1-fiscal-monetary-policy-actions-short-study-guide/) |
-| 5.2 The Phillips curve | 2, 3 | [Phillips curve study guide](/advanced-course-resources/macroeconomics/5-2-phillips-curve-study-guide/) |
-| 5.3 Money growth and inflation | 4, 10 | [Money growth and inflation study guide](/advanced-course-resources/macroeconomics/5-3-money-growth-inflation-study-guide/) |
-| 5.4 Government deficits and the national debt | 5 | [Deficits and debt study guide](/advanced-course-resources/macroeconomics/5-4-government-deficits-national-debt-study-guide/) |
-| 5.5 Crowding out | 6 | [Crowding out study guide](/advanced-course-resources/macroeconomics/5-5-crowding-out-study-guide/) |
-| 5.6 Economic growth | 7, 11 | [Economic growth study guide](/advanced-course-resources/macroeconomics/5-6-economic-growth-study-guide/) |
-| 5.7 Public policy and economic growth | 8 | [Public policy and growth study guide](/advanced-course-resources/macroeconomics/5-7-public-policy-economic-growth-study-guide/) |
+| 5.1 Policy actions in the short run | 1, 9 | [5.1 study guide](/advanced-course-resources/macroeconomics/5-1-fiscal-monetary-policy-actions-short-study-guide/) |
+| 5.2 The Phillips curve | 2, 3 | [5.2 study guide](/advanced-course-resources/macroeconomics/5-2-phillips-curve-study-guide/) |
+| 5.3 Money growth and inflation | 4, 10 | [5.3 study guide](/advanced-course-resources/macroeconomics/5-3-money-growth-inflation-study-guide/) |
+| 5.4 Deficits and the national debt | 5 | [5.4 study guide](/advanced-course-resources/macroeconomics/5-4-government-deficits-national-debt-study-guide/) |
+| 5.5 Crowding out | 6 | [5.5 study guide](/advanced-course-resources/macroeconomics/5-5-crowding-out-study-guide/) |
+| 5.6 Economic growth | 7, 11 | [5.6 study guide](/advanced-course-resources/macroeconomics/5-6-economic-growth-study-guide/) |
+| 5.7 Public policy and economic growth | 8 | [5.7 study guide](/advanced-course-resources/macroeconomics/5-7-public-policy-economic-growth-study-guide/) |
 
 ## How to use your result
 
-- **No mistakes in a topic:** tick it off, but try its practice set once before the exam.
+- **No mistakes in a topic:** tick it off; try its practice set before the exam.
 - **One mistake:** read the section named in the answer, then redo the question without looking.
-- **Two or more mistakes, or a guess:** work through that topic's study guide and practice set.
-- **Several short-run v. long-run mistakes:** revisit Topics 5.2, 5.3 and 5.6 together.
+- **Two or more mistakes, or a guess:** work through that topic's study guide and practice set. If most slips mix up the short and long run, revisit 5.2, 5.3 and 5.6 together.
 
-Then try the [mixed unit review](/advanced-course-resources/macroeconomics/unit-5-review/), whose questions combine several topics.
+Then try the [mixed unit review](/advanced-course-resources/macroeconomics/unit-5-review/), whose questions combine topics.

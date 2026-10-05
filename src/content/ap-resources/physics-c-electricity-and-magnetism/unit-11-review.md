@@ -157,32 +157,32 @@ Total: 6 points.
 
 ## Question 5 (constructed response · mixed)
 
-A battery of emf 12.0 V and internal resistance 1.0 Ω has its positive terminal connected through R₁ = 3.0 Ω to junction X. Between X and junction Y are two branches: R₂ = 6.0 Ω, and R₃ = 2.0 Ω in series with R₄ = 10.0 Ω, with point Z between R₃ and R₄. Y is connected to the negative terminal.
+A battery of emf 12.0 V and internal resistance 1.0 Ω has its positive terminal connected through R₁ = 1.0 Ω to junction X. Between X and junction Y are two branches: R₂ = 10.0 Ω, and R₃ = 6.0 Ω in series with R₄ = 9.0 Ω, with point Z between R₃ and R₄. Y is connected to the negative terminal.
 
 (a) Find the equivalent resistance of the external circuit, the battery current and the terminal voltage.
 (b) Write a junction equation and two loop equations for I₁ (battery), I₂ (R₂) and I₃ (R₃ and R₄). Solve them and check with your answer to (a).
 (c) Taking the negative terminal as 0 V, find the potentials at the positive terminal, X and Z.
-(d) An ammeter of resistance 0.50 Ω is placed in series with R₂. Find its reading and the percentage by which it is below the value in (b).
+(d) An ammeter of resistance 0.40 Ω is placed in series with R₂. Find its reading and the percentage by which it is below the value in (b).
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** The branches are 6.0 Ω and 12.0 Ω in parallel: 4.0 Ω. External R = 3.0 + 4.0 = **7.0 Ω**. I = 12.0 ÷ (7.0 + 1.0) = **1.5 A**. Terminal voltage = 12.0 − (1.5)(1.0) = **10.5 V**.
+**(a)** The branches are 10.0 Ω and 15.0 Ω in parallel: 6.0 Ω. External R = 1.0 + 6.0 = **7.0 Ω**. I = 12.0 ÷ (7.0 + 1.0) = **1.5 A**. Terminal voltage = 12.0 − (1.5)(1.0) = **10.5 V**.
 
-**(b)** Junction X: I₁ = I₂ + I₃. Outer loop through R₂: 12.0 − 1.0I₁ − 3.0I₁ − 6.0I₂ = 0. Inner loop through both branches: 6.0I₂ − 12.0I₃ = 0. Solving: **I₁ = 1.5 A, I₂ = 1.0 A, I₃ = 0.50 A**. I₁ agrees with (a).
+**(b)** Junction X: I₁ = I₂ + I₃. Outer loop through R₂: 12.0 − 1.0I₁ − 1.0I₁ − 10.0I₂ = 0. Inner loop through both branches: 10.0I₂ − 15.0I₃ = 0. Solving: **I₁ = 1.5 A, I₂ = 0.90 A, I₃ = 0.60 A**. I₁ agrees with (a).
 
-**(c)** V₊ = **10.5 V**. Through R₁ with the current: V_X = 10.5 − (1.5)(3.0) = **6.0 V**. Through R₃: V_Z = 6.0 − (0.50)(2.0) = **5.0 V**. Check: R₄ then drops (0.50)(10.0) = 5.0 V, reaching Y at 0 V.
+**(c)** V₊ = **10.5 V**. Through R₁ with the current: V_X = 10.5 − (1.5)(1.0) = **9.0 V**. Through R₃: V_Z = 9.0 − (0.60)(6.0) = **5.4 V**. Check: R₄ then drops (0.60)(9.0) = 5.4 V, reaching Y at 0 V.
 
-**(d)** The branch becomes 6.5 Ω. In parallel with 12.0 Ω: 4.22 Ω. I₁ = 12.0 ÷ (1.0 + 3.0 + 4.22) = 1.46 A, so V_XY = (1.46)(4.22) = 6.16 V. The ammeter reads 6.16 ÷ 6.5 = **0.95 A**, about **5.3% low**.
+**(d)** The branch becomes 10.4 Ω. In parallel with 15.0 Ω: 6.14 Ω. I₁ = 12.0 ÷ (1.0 + 1.0 + 6.14) = 1.474 A, so V_XY = (1.474)(6.142) = 9.05 V. The ammeter reads 9.05 ÷ 10.4 = **0.87 A**, about **3.3% low**.
 
 | Point | What earns it |
 |---|---|
 | 1 | R = 7.0 Ω, I = 1.5 A and terminal voltage 10.5 V |
 | 1 | Correct junction equation and two loop equations, with consistent signs |
-| 1 | I₂ = 1.0 A and I₃ = 0.50 A |
+| 1 | I₂ = 0.90 A and I₃ = 0.60 A |
 | 1 | V₊ and V_X |
 | 1 | V_Z, with a check that the loop returns to 0 V |
-| 1 | Ammeter reading 0.95 A and 5.3% |
+| 1 | Ammeter reading 0.87 A and 3.3% |
 
 Total: 6 points.
 </details>

@@ -35,7 +35,7 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-Use this review after the [Unit 5 diagnostic](/advanced-course-resources/macroeconomics/unit-5-diagnostic/). It shows how the seven topics fit together, then gives six questions that each combine two or more topics.
+Use this review after the [Unit 5 diagnostic](/advanced-course-resources/macroeconomics/unit-5-diagnostic/). It shows how the seven topics fit together, then gives six questions that each combine topics.
 
 ## Big ideas of the unit
 
@@ -69,21 +69,21 @@ These are **original Marlbridge practice questions**, not past exam questions. T
 
 ## Question 1 (multiple choice · mixed)
 
-Valdoria has an inflationary gap. The government raises income taxes and, in the same month, the central bank raises its policy rate. Which describes the short-run effects on the Phillips curve graph and on the nominal interest rate?
+Valdoria is in long-run equilibrium with a balanced budget. A long strike at its only oil refinery raises firms' fuel costs for several months. No new policy is passed. Which describes the short-run effects?
 
-- (A) A movement down along the SRPC towards the LRPC; the effect on the nominal interest rate is uncertain.
-- (B) The SRPC shifts right; the nominal interest rate rises.
-- (C) A movement down along the SRPC towards the LRPC; the nominal interest rate must rise.
-- (D) The LRPC shifts right; the effect on the nominal interest rate is uncertain.
+- (A) The SRPC shifts right; unemployment benefits rise automatically, pushing the budget towards deficit.
+- (B) A movement down and to the right along the SRPC; unemployment benefits rise automatically, pushing the budget towards deficit.
+- (C) The SRPC shifts right; the budget stays balanced because no new policy was passed.
+- (D) The SRPC shifts left; unemployment benefits fall, pushing the budget towards surplus.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Both actions reduce AD, so the economy moves **along** the SRPC: unemployment rises towards the natural rate and inflation falls. The central bank pushes the rate up, but lower income reduces money demand, so the net effect is uncertain.
+**Answer: (A).** Higher costs shift SRAS left, so unemployment and inflation both rise: the **SRPC shifts right**. More people claim benefits and real incomes fall, so the budget moves towards deficit with no new law. These are **automatic stabilizers**.
 
-- (B) Only supply shocks or changing expectations shift the SRPC.
-- (C) This is the same-direction case, so the rate is uncertain, not certain.
-- (D) Policy aimed at AD does not change the natural rate.
+- (B) A supply shock shifts the SRPC; only demand shocks move the economy along it.
+- (C) Automatic stabilizers change the budget without any new decision.
+- (D) SRAS shifting left moves the SRPC right, and unemployment rises.
 </details>
 
 ## Question 2 (multiple choice · mixed)
@@ -100,7 +100,7 @@ For many years Valdoria's central bank lets the money supply grow by **10%** a y
 
 **Answer: (A).** Inflation ≈ 10 − 4 = **6%** (exactly 1.10 ÷ 1.04 − 1 = 5.77%). Real growth comes from real resources, so it stays about 4%. The LRPC is vertical: unemployment returns to the natural rate whatever the inflation rate.
 
-- (B) ignores real growth, and no inflation rate keeps unemployment below the natural rate for ever.
+- (B) ignores real growth, and no inflation rate holds unemployment below the natural rate for ever.
 - (C) Money is neutral in the long run; it cannot raise real growth.
 - (D) adds real growth instead of subtracting it, and money growth does not change the natural rate.
 </details>
@@ -119,9 +119,9 @@ Kestria starts the year with a debt of **VD 900 billion**. It collects VD 400 bi
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Spending = 330 + 76 + 36 = 442. Balance = 400 − 442 = **−42**, a **deficit of VD 42 billion**. Before interest: 400 − 406 = **−6**. Most of the deficit is interest.
+**(a)** Spending = 330 + 76 + 36 = 442. Balance = 400 − 442 = **−42**, a **deficit of VD 42 billion**. Before interest: 400 − 406 = **−6**.
 
-**(b)** Debt = 900 + 42 = **VD 942 billion**. Interest is 36 ÷ 400 × 100 = **9.00%** of revenue that cannot go to schools, roads or tax cuts.
+**(b)** Debt = 900 + 42 = **VD 942 billion**. Interest is 36 ÷ 400 × 100 = **9.00%** of revenue, money that cannot fund other uses.
 
 **(c)** Before: 500 − 25r = 150 + 45r, so 350 = 70r and **r = 5%** (Q = 375). After: 542 − 25r = 150 + 45r, so 392 = 70r and **r = 5.6%** (Q = 402).
 
@@ -152,7 +152,7 @@ Valdoria's real GDP is VD 870 billion and full-employment output is VD 900 billi
 (b) The government raises purchases by VD 2 billion. Calculate the shift in AD, and the minimum rise in investment the central bank's action must cause to close the gap. State the monetary action in a limited-reserves system.
 (c) Draw a correctly labelled Phillips curve graph showing the starting point A and the effect of the policy mix, labelled B.
 (d) Explain why the effect of the mix on the nominal interest rate is uncertain.
-(e) Instead, the government acts alone and borrows to finance a rise in purchases of VD 3 billion. Using the loanable funds market, explain why this may not close the gap.
+(e) Instead, the government acts alone, borrowing to raise purchases by VD 3 billion. Using the loanable funds market, explain why this may not close the gap.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
@@ -201,7 +201,7 @@ Valdoria is in long-run equilibrium. Its money supply is VD 250 billion, velocit
 
 **(d)** Inflation ≈ 8 − 2 = **6%**. Exactly: 1.08 ÷ 1.02 − 1 = **5.88%**.
 
-**(e)** Lower unemployment lasted only until wages caught up. In the long run unemployment is at the natural rate at **any** inflation rate: the LRPC is vertical, like LRAS.
+**(e)** Lower unemployment lasted only until wages caught up. In the long run unemployment is at the natural rate at **any** inflation rate: the LRPC is vertical.
 
 | Point | What earns it |
 |---|---|
@@ -224,7 +224,7 @@ Valdoria has 50 million people, 24 million employed workers and output per worke
 (b) Calculate real GDP per capita after the package and its growth rate. Name the channel each policy works through.
 (c) Draw a correctly labelled AD–AS graph showing the long-run effect, and state the matching change on a PPC.
 (d) Explain why the effect of the package on the price level is ambiguous.
-(e) Borrowing crowds out some private investment, so output per worker rises only 3%. Calculate the new growth rate and explain the difference.
+(e) Borrowing crowds out some private investment, so output per worker rises only 2%. Calculate the new growth rate and explain the difference.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
@@ -237,7 +237,7 @@ Valdoria has 50 million people, 24 million employed workers and output per worke
 
 **(d)** In the short run the package shifts **AD right**, pushing the price level up. As capacity grows, SRAS and LRAS shift right, pushing it down. The net effect depends on the sizes.
 
-**(e)** Output per worker = 46,350; real GDP = VD 1,140.21 billion; per capita = VD 22,804.20; growth = **5.58%**. A higher real interest rate cut private investment, so capital per worker and productivity grew less.
+**(e)** Output per worker = 45,900; real GDP = VD 1,129.14 billion; per capita = VD 22,582.80; growth = **4.55%**. A higher real interest rate cut private investment, so capital per worker and productivity grew less.
 
 | Point | What earns it |
 |---|---|
@@ -246,7 +246,7 @@ Valdoria has 50 million people, 24 million employed workers and output per worke
 | 1 | Channels: productivity (tax credit) and participation (childcare) |
 | 1 | LRAS right on labelled axes, PPC outward |
 | 1 | Price level ambiguous because AD and AS both shift right |
-| 1 | 5.58% |
+| 1 | 4.55% |
 | 1 | Crowding out lowers investment, so capital per worker and productivity grow less |
 
 **Total: 7 points.** Accept values carried forward. In (c), shifting only AD earns no point.
@@ -254,12 +254,12 @@ Valdoria has 50 million people, 24 million employed workers and output per worke
 
 ## How did you do?
 
-- **Q1 or Q4(b), (d):** policy mixes. Tick off the [Topic 5.1 checklist](/advanced-course-resources/macroeconomics/5-1-fiscal-monetary-policy-actions-short-checklist/).
+- **Q4(b), (d):** policy mixes. Tick off the [Topic 5.1 checklist](/advanced-course-resources/macroeconomics/5-1-fiscal-monetary-policy-actions-short-checklist/).
 - **Q1, Q4(c) or Q5(b)–(c), (e):** Phillips curves. Use the [Topic 5.2 checklist](/advanced-course-resources/macroeconomics/5-2-phillips-curve-checklist/).
 - **Q2 or Q5(a), (d):** money and inflation. Use the [Topic 5.3 checklist](/advanced-course-resources/macroeconomics/5-3-money-growth-inflation-checklist/).
-- **Q3(a)–(b):** budget and debt. Use the [Topic 5.4 checklist](/advanced-course-resources/macroeconomics/5-4-government-deficits-national-debt-checklist/).
+- **Q1 or Q3(a)–(b):** budget and debt. Use the [Topic 5.4 checklist](/advanced-course-resources/macroeconomics/5-4-government-deficits-national-debt-checklist/).
 - **Q3(c)–(f), Q4(e) or Q6(e):** crowding out. Use the [Topic 5.5 checklist](/advanced-course-resources/macroeconomics/5-5-crowding-out-checklist/).
 - **Q6(a)–(c):** measuring growth. Use the [Topic 5.6 checklist](/advanced-course-resources/macroeconomics/5-6-economic-growth-checklist/).
 - **Q6(b), (d):** growth policy. Use the [Topic 5.7 checklist](/advanced-course-resources/macroeconomics/5-7-public-policy-economic-growth-checklist/).
 
-If several topics still feel shaky, go back to the [Unit 5 diagnostic](/advanced-course-resources/macroeconomics/unit-5-diagnostic/) and follow its "Your next step" table.
+If several topics feel shaky, return to the [Unit 5 diagnostic](/advanced-course-resources/macroeconomics/unit-5-diagnostic/) and its "Your next step" table.

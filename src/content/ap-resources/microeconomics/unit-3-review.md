@@ -69,57 +69,57 @@ These are **original Marlbridge practice questions**, not past exam questions. T
 
 A firm's only variable input is labour, at a constant wage. It produces where the **average product of labour** is at its maximum. Which statement is correct at this output?
 
-- (A) Average variable cost is at its minimum, and marginal cost equals average variable cost.
-- (B) Marginal cost is at its minimum.
+- (A) Marginal cost is at its minimum.
+- (B) Average variable cost is at its minimum, and marginal cost equals average variable cost.
 - (C) Average total cost is at its minimum.
 - (D) Total product is at its maximum.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** AVC = wage ÷ AP, so the highest AP gives the lowest AVC. MP = AP at AP's peak, so MC (= wage ÷ MP) = AVC there.
+**Answer: (B).** AVC = wage ÷ AP, so the highest AP gives the lowest AVC. MP = AP at AP's peak, so MC (= wage ÷ MP) = AVC there.
 
-- (B) MC is lowest where **MP** is highest, at a smaller output.
-- (C) ATC's minimum is at a larger output, because AFC is still falling.
+- (A) MC is lowest where **MP** is highest, at a smaller output.
+- (C) AFC is still falling there, so ATC's minimum comes later.
 - (D) TP is highest where MP = 0, well past AP's peak.
 </details>
 
 ## Question 2 (multiple choice · mixed)
 
-In the fictional country of Saltoria, the minimum efficient scale for railway carriages is 400 a year. At a price equal to the lowest LRATC, buyers want 900 a year. Which conclusion is most likely?
+In the fictional country of Saltoria, the minimum efficient scale for railway carriages is 300 a year. If the price equals the lowest LRATC, Saltoria's buyers would purchase 1,000 carriages a year. Which conclusion is most likely?
 
-- (A) At most two firms can reach the lowest cost, so the market is likely to be concentrated, not perfectly competitive.
+- (A) A firm making 150 carriages would have lower average cost, avoiding diseconomies of scale.
 - (B) Entry will continue until hundreds of firms earn zero economic profit.
 - (C) Each firm faces a horizontal demand curve, because carriages are produced at the lowest LRATC.
-- (D) A firm making 200 carriages would have lower average cost, avoiding diseconomies of scale.
+- (D) At most three firms can reach the lowest cost, so the market is likely to be concentrated, not perfectly competitive.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** 900 ÷ 400 = 2.25, so only two firms can reach the MES. Perfect competition needs many small firms.
+**Answer: (D).** 1,000 ÷ 300 ≈ 3.33, so only three firms can reach the MES. Perfect competition needs many small firms.
 
-- (B) A small entrant would be below the MES, with a higher LRATC than its rivals.
+- (A) 150 carriages is in the range of economies of scale, where LRATC is higher.
+- (B) A small entrant below the MES would have higher LRATC than its rivals.
 - (C) Horizontal demand comes from many sellers of an identical product, not low costs.
-- (D) 200 carriages is in the range of economies of scale, where LRATC is higher.
 </details>
 
 ## Question 3 (multiple choice · mixed)
 
 A price-taking firm makes a loss but is above its shutdown price. The government introduces either (I) a $2 tax on every unit sold or (II) a yearly licence fee that does not depend on output. Which is correct in the short run?
 
-- (A) Tax I lowers the firm's profit-maximizing output and raises its shutdown price; tax II changes neither.
+- (A) Tax II raises the shutdown price, because it raises average total cost.
 - (B) Both taxes lower output, because both raise total cost.
-- (C) Tax II raises the shutdown price, because it raises average total cost.
+- (C) Tax I lowers the firm's profit-maximizing output and raises its shutdown price; tax II changes neither.
 - (D) Neither tax changes output, because a price taker cannot pass a tax on to buyers.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** A per-unit tax is variable: MC and AVC shift up, so MC meets P at a lower output and minimum AVC rises. A fixed fee shifts only AFC and ATC.
+**Answer: (C).** A per-unit tax is variable: MC and AVC shift up, so MC meets P at a lower output and minimum AVC rises. A fixed fee shifts only AFC and ATC.
 
+- (A) The shutdown price is minimum **AVC**; a fixed fee raises the break-even price instead.
 - (B) Only costs that change MC change the MR = MC output.
-- (C) The shutdown price is minimum **AVC**; a fixed fee raises the break-even price instead.
-- (D) The price is unchanged, but the per-unit tax still changes MC and output.
+- (D) The price is unchanged, but the tax still raises MC, so output falls.
 </details>
 
 ## Question 4 (constructed response · mixed)
@@ -173,7 +173,7 @@ Bellmere Orchard is one of 300 identical firms in a perfectly competitive, const
 
 (a) Calculate accounting profit and economic profit.
 (b) Calculate ATC and AVC at 2,000 crates. Should Bellmere produce this season or shut down? Give the result of each choice.
-(c) Explain the long-run adjustment, and find the long-run price, each firm's output and the number of firms.
+(c) Explain what happens in the long run. Find the long-run price, output per firm and number of firms.
 (d) Explain why the new long-run equilibrium is efficient.
 
 <details>
@@ -202,7 +202,7 @@ Total: 7 points.
 
 ## Question 6 (constructed response · mixed)
 
-Every paving-stone firm in the fictional country of Dunmara has these long-run total costs:
+Every paving-stone firm in the fictional country of Dunmara has these long-run total costs. Input prices do not change as a firm grows.
 
 | Output (tonnes per week) | 100 | 200 | 300 | 400 | 500 |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@ Total: 7 points.
 
 A perfectly competitive market for printed tote bags is in short-run equilibrium at $9 a bag. A typical firm produces 500 bags a week, where ATC is $7. Minimum ATC is $6, at 400 bags.
 
-(a) Draw correctly labelled side-by-side graphs for the market and the typical firm. Show the price, the firm's output and the firm's economic profit.
+(a) Draw labelled side-by-side graphs of the market and the typical firm. Show the price, the firm's output and the firm's economic profit.
 (b) Calculate the economic profit. Explain why accounting profit must be larger.
 (c) The industry has constant costs. Explain the long-run adjustment, state the long-run price and each firm's output, and show them on your graphs.
 (d) Suppose instead that industry growth raises the price of printing ink, so minimum ATC rises to $7. State the long-run price and the shape of the long-run supply curve.

@@ -68,24 +68,24 @@ Windle Pottery hires potters at a market wage. Its daily data are:
 
 | Potters | 0 | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|---|
-| Mugs per day | 0 | 24 | 44 | 60 | 72 | 80 |
-| Total revenue ($) | 0 | 120 | 220 | 300 | 360 | 400 |
-| Total cost ($) | 180 | 250 | 320 | 390 | 460 | 530 |
+| Mugs per day | 0 | 25 | 45 | 60 | 70 | 75 |
+| Total revenue ($) | 0 | 150 | 270 | 360 | 420 | 450 |
+| Total cost ($) | 210 | 285 | 360 | 435 | 510 | 585 |
 
 (a) Calculate the marginal revenue product (MRP) of each potter.
-(b) Calculate the marginal resource cost (MRC) of each potter. What wage does Windle pay, and why does the $180 not affect MRC?
+(b) Calculate the marginal resource cost (MRC) of each potter. What wage does Windle pay, and why does the $210 not affect MRC?
 (c) Use the data to show that Windle sells its mugs in a perfectly competitive market.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**(a)** MRP = change in total revenue: **$120, $100, $80, $60, $40**.
+**(a)** MRP = change in total revenue: **$150, $120, $90, $60, $30**.
 
-**(b)** MRC = change in total cost: **$70 for every potter**, so the wage is **$70 a day**. The $180 is a fixed cost: it is paid with zero potters and does not change when one more is hired.
+**(b)** MRC = change in total cost: **$75 for every potter**, so the wage is **$75 a day**. The $210 is a fixed cost: it is paid with zero potters and does not change when one more is hired.
 
-**(c)** Price = TR ÷ Q = **$5** at every output (120 ÷ 24, 220 ÷ 44, …), and MR = ΔTR ÷ ΔQ = **$5** too (120 ÷ 24, 100 ÷ 20, …). MR = P, so Windle is a price taker and MRP = MP × P (3rd potter: 16 × $5 = $80).
+**(c)** Price = TR ÷ Q = **$6** at every output (150 ÷ 25, 270 ÷ 45, …), and MR = ΔTR ÷ ΔQ = **$6** too (150 ÷ 25, 120 ÷ 20, …). MR = P, so Windle is a price taker and MRP = MP × P (3rd potter: 15 × $6 = $90).
 
-A common slip in (b) is 390 ÷ 3 = $130, an average that includes the fixed cost.
+A common slip in (b) is 435 ÷ 3 = $145, an average that includes the fixed cost.
 
 **If you missed this:** read "Marginal revenue product", "Marginal resource cost" and Worked example 1 in the [Topic 5.1 study guide](/advanced-course-resources/microeconomics/5-1-introduction-factor-markets-study-guide/).
 </details>
@@ -138,8 +138,8 @@ Ravelle Ice Cream is the only ice-cream maker on an island, so it must lower its
 
 | Workers | 0 | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|---|
-| Tubs per day | 0 | 16 | 28 | 36 | 40 |
-| Price per tub ($) | 20 | 16 | 13 | 11 | 10 |
+| Tubs per day | 0 | 12 | 20 | 24 | 26 |
+| Price per tub ($) | 30 | 24 | 20 | 18 | 17 |
 
 How many workers maximise Ravelle's profit?
 
@@ -151,11 +151,11 @@ How many workers maximise Ravelle's profit?
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** Total revenue is $256, $364, $396 and $400, so MRP = ΔTR = **$256, $108, $32, $4**. As a wage taker, Ravelle has MRC = $60. The 2nd worker's MRP is above $60; the 3rd's is below.
+**Answer: (B).** Total revenue is $288, $400, $432 and $442, so MRP = ΔTR = **$288, $112, $32, $10**. As a wage taker, Ravelle has MRC = $60. The 2nd worker's MRP is above $60; the 3rd's is below.
 
-- (A) stops too early: the 2nd worker still adds $48 to profit.
-- (C) uses the value of the marginal product. The 3rd worker's VMP is 8 × $11 = $88, but selling 8 more tubs means cutting the price by $2 on the first 28, a loss of $56. MRP is only $32.
-- (D) maximises total revenue, not profit: the 4th worker adds $4 but costs $60.
+- (A) stops too early: the 2nd worker still adds $52 to profit.
+- (C) uses the value of the marginal product. The 3rd worker's VMP is 4 × $18 = $72, but selling 4 more tubs means cutting the price by $2 on the first 20, a loss of $40. MRP is only $32.
+- (D) maximises total revenue, not profit: the 4th worker adds $10 but costs $60.
 
 **If you missed this:** read "MRP and VMP: when the output market matters" and Worked example 2 in the [Topic 5.3 study guide](/advanced-course-resources/microeconomics/5-3-profit-maximizing-behavior-perfectly-competitive-study-guide/).
 </details>

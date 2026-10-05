@@ -249,6 +249,6 @@ Count a short answer as missed if you lost more than one mark.
 ## How to use your result
 
 - **Missed nothing?** Go straight to the [mixed unit review](/advanced-course-resources/physics-c-electricity-and-magnetism/unit-10-review/), which joins the topics together.
-- **Missed one topic?** Read that study guide, then do its practice set before the review.
+- **Missed one or two topics?** Read each of those study guides, then do the matching practice sets before the review.
 - **Missed three or more topics?** Work through 10.1 to 10.4 in order.
 - **Guessed correctly?** Treat it as missed.

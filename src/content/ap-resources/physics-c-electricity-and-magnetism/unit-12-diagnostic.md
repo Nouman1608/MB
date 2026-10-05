@@ -81,21 +81,21 @@ A bar magnet lies on a table with its north pole pointing east. A small compass 
 
 ## Question 3 (multiple choice · 12.2)
 
-A positively charged particle passes through the origin moving in the +x direction. At that instant, consider three points: A at (0, 2d, 0), B at (2d, 0, 0) and C at (d, d, 0). Which ranks the sizes of the magnetic field the particle produces at these points?
+A positively charged particle passes through the origin moving in the +y direction. At that instant, consider three points: P at (0, 0, 3d), Q at (2d, d, 0) and R at (0, −3d, 0). Which ranks the sizes of the magnetic field the particle produces at these points?
 
-- (A) A > C > B, with B zero
-- (B) A = C > B, with B zero
-- (C) B > C > A
-- (D) C > A > B, with B zero
+- (A) P > Q > R, with R zero
+- (B) R > Q > P
+- (C) Q > P = R
+- (D) Q > P > R, with R zero
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (D).** B ∝ sin θ/r², where θ is the angle between v and the line to the point. A: sin 90°/(2d)² = 0.25/d². C: sin 45°/(√2 d)² = 0.354/d². B lies on the line of motion, so sin θ = 0 and the field is zero.
+**Answer: (D).** B ∝ sin θ/r², where θ is the angle between v and the line to the point. P: sin 90°/(3d)² = 0.111/d². Q: r = √5 d and sin θ = 2/√5, so 0.179/d². R is on the line of motion, behind the charge, so sin θ = 0 and B = 0.
 
-- (A) assumes the perpendicular point always wins. C is closer, which outweighs its smaller sin θ.
-- (B) treats A and C as equally far away; A is 2d away, C only √2 d.
-- (C) puts the largest field ahead of the charge, where it is zero.
+- (A) assumes the perpendicular point always wins. Q is closer, which outweighs its smaller sin θ.
+- (B) puts the largest field on the line of motion, where it is zero.
+- (C) uses 1/r² but drops sin θ, so R looks the same as P.
 
 **If you missed this:** read "A moving charge makes a magnetic field" in the [12.2 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/12-2-magnetism-moving-charges-study-guide/).
 </details>
@@ -230,7 +230,7 @@ A long thin wire along the axis of a long, thin-walled metal pipe of radius R ca
 
 ## Question 10 (short answer · 12.4)
 
-A long cylindrical conductor of radius R carries current along its axis with current density J = J₀(1 − r/R), largest on the axis and zero at the surface.
+A long solid cylinder of radius R carries a current parallel to its axis. The current density is J = J₀(1 − r/R): largest on the axis, zero at the surface.
 
 (a) Show that the total current is I = πJ₀R²/3.
 (b) Use Ampère's law to find B inside the conductor (r ≤ R).

@@ -36,7 +36,7 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-Use this review after the [Unit 6 diagnostic](/advanced-course-resources/macroeconomics/unit-6-diagnostic/). It shows how the six topics fit together, then gives six questions that each combine two or more topics.
+Use this review after the [Unit 6 diagnostic](/advanced-course-resources/macroeconomics/unit-6-diagnostic/). It links the six topics, then gives six questions that each combine two or more of them.
 
 ## Big ideas of the unit
 
@@ -101,8 +101,8 @@ Valdoria places a tariff on goods imported from Kestria. Nothing else changes. W
 **Answer: (D).** Valdorians buy fewer Kestrian goods, so they need fewer kestas: the **supply of valdas decreases** and the valda appreciates. Valdorian goods now cost Kestrians more kestas, so Valdoria's exports fall.
 
 - (A) gets the direction of the currency wrong.
-- (B) The appreciation makes imports cheaper but the tariff makes them dearer, so the change in imports is uncertain.
-- (C) The tariff shifts **supply** of valdas, not demand, and with exports falling and imports uncertain, net exports are not certain to rise.
+- (B) The appreciation only partly offsets the tariff, so imports do not rise.
+- (C) The tariff shifts **supply** of valdas, not demand. Exports and imports both fall, so net exports need not rise.
 </details>
 
 ## Question 3 (constructed response · mixed)
@@ -219,7 +219,7 @@ Valdoria is in a recession. Its central bank buys government bonds on the open m
 | 1 | Fiscal case: higher real rate, inflow, appreciation |
 | 1 | NX fall offsets fiscal policy; under monetary policy both channels raise AD |
 
-**Total: 7 points.** In (e), "crowding out" with no chain through the exchange rate earns only the first fiscal point.
+**Total: 7 points.** In (e), "crowding out" with no exchange-rate chain earns no point.
 </details>
 
 ## Question 6 (constructed response · mixed)
@@ -272,4 +272,4 @@ Find the parts where you lost marks:
 - **Q4(e), Q5(c)–(d) or Q6(e):** net exports and AD. Use the [Topic 6.5 checklist](/advanced-course-resources/macroeconomics/6-5-changes-foreign-exchange-market-net-checklist/).
 - **Q3(c)–(d), Q5(e) or Q6(a)–(c), (f):** real rates, capital flows and loanable funds. Use the [Topic 6.6 checklist](/advanced-course-resources/macroeconomics/6-6-real-interest-rates-international-capital-checklist/).
 
-If several topics still feel shaky, return to the [Unit 6 diagnostic](/advanced-course-resources/macroeconomics/unit-6-diagnostic/) and its "Your next step" table.
+If several topics feel shaky, return to the [Unit 6 diagnostic](/advanced-course-resources/macroeconomics/unit-6-diagnostic/).

@@ -229,7 +229,7 @@ A competitive market has an equilibrium price of $35 and an equilibrium quantity
 
 ## Question 10 (short answer · 2.8)
 
-A city's weekly iced-tea market is Qd = 100 − 2P and Qs = 3P − 50, with P in dollars per crate and Q in thousand crates. Without intervention the equilibrium is $30 and 40 thousand crates. The government then taxes sellers $5 per crate.
+A city's weekly iced-tea market is Qd = 135 − 3P and Qs = 2P − 15, with P in dollars per crate and Q in thousand crates. Without intervention the equilibrium is $30 and 45 thousand crates. The government then taxes sellers $10 per crate.
 
 (a) Find the price buyers pay, the price sellers keep and the new quantity.
 (b) What share of the tax do buyers bear? Explain using elasticity.
@@ -238,11 +238,11 @@ A city's weekly iced-tea market is Qd = 100 − 2P and Qs = 3P − 50, with P in
 <details>
 <summary>Answer and explanation</summary>
 
-**(a)** New supply: Qs = 3(P − 5) − 50 = 3P − 65. Then 100 − 2P = 3P − 65 gives buyers' price **$33**. Sellers keep 33 − 5 = **$28**. Q = 100 − 66 = **34 thousand crates**.
+**(a)** New supply: Qs = 2(P − 10) − 15 = 2P − 35. Then 135 − 3P = 2P − 35 gives buyers' price **$34**. Sellers keep 34 − 10 = **$24**. Q = 135 − 102 = **33 thousand crates**.
 
-**(b)** Buyers pay $3 more: **three-fifths** of the tax. At the start, demand elasticity is 2 × 30 ÷ 40 = 1.5 and supply elasticity 3 × 30 ÷ 40 = 2.25. Demand is less elastic, so buyers bear more.
+**(b)** Buyers pay $4 more: **two-fifths** of the tax; sellers bear $6. At the start, demand elasticity is 3 × 30 ÷ 45 = 2.0 and supply elasticity 2 × 30 ÷ 45 = 1.33. Supply is less elastic, so sellers bear more.
 
-**(c)** Revenue = 5 × 34 = **$170 thousand**. DWL = ½ × 5 × (40 − 34) = **$15 thousand**.
+**(c)** Revenue = 10 × 33 = **$330 thousand**. DWL = ½ × 10 × (45 − 33) = **$60 thousand**.
 
 **If you missed this:** read "Who bears a tax? Elasticity decides" in the [Topic 2.8 study guide](/advanced-course-resources/microeconomics/2-8-effects-government-intervention-markets-study-guide/).
 </details>
