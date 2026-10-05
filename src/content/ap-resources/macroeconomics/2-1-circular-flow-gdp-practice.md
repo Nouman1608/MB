@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-macro-2.1-practice"
 title: "The Circular Flow and GDP: Practice Questions (Macroeconomics 2.1)"
-description: "Seven original Marlbridge practice questions on the circular flow model, what counts in GDP, and the expenditure, income and value-added approaches, with worked solutions."
+description: "Seven original Marlbridge practice questions on the circular flow model, what counts in GDP, nominal GDP, and the expenditure, income and value-added approaches, with worked solutions."
 course: "macroeconomics"
 unit: 2
 topics: ["2.1"]
@@ -12,6 +12,7 @@ prerequisiteResources: ["mb-ap-macro-2.1-study-guide"]
 learningObjectives:
   - "Decide whether a transaction is counted in GDP and explain why"
   - "Calculate GDP using the expenditure, income and value-added approaches"
+  - "Calculate nominal GDP from the prices and quantities of final goods and services"
   - "Describe the money and real flows in the circular flow model"
   - "Explain why spending, income and output are equal"
 skills: ["1", "2", "3", "4"]
@@ -57,21 +58,30 @@ Which of the following transactions is counted in Valdoria's GDP for 2025?
 
 ## Question 2 (multiple choice · core)
 
-In one year Valdoria has consumption of VD 450 billion, investment of VD 120 billion, government purchases of VD 200 billion, transfer payments of VD 60 billion, exports of VD 80 billion and imports of VD 110 billion. What is Valdoria's GDP?
+Suppose that in 2026 Valdoria produces only the items below, all sold within the year at the prices shown. The fertiliser is made in Valdoria and used up by rice farmers in 2026.
 
-- (A) VD 740 billion
-- (B) VD 800 billion
-- (C) VD 850 billion
-- (D) VD 960 billion
+| Item | Quantity | Price |
+|---|---|---|
+| Rice sold to households (tonnes) | 500 | VD 400 per tonne |
+| Bicycles sold to households | 300 | VD 250 each |
+| Haircuts | 2,000 | VD 12 each |
+| Fertiliser sold to rice farmers (tonnes) | 40 | VD 500 per tonne |
+
+What is Valdoria's nominal GDP for 2026?
+
+- (A) VD 275,000
+- (B) VD 279,000
+- (C) VD 299,000
+- (D) VD 319,000
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** GDP = C + I + G + (X − M) = 450 + 120 + 200 + (80 − 110) = 770 − 30 = VD 740 billion. Transfer payments are left out.
+**Answer: (C).** Add price × quantity for the final goods and services only: 500 × 400 + 300 × 250 + 2,000 × 12 = 200,000 + 75,000 + 24,000 = VD 299,000. The fertiliser is an intermediate good, so it is left out.
 
-- (B) adds the transfer payments: 740 + 60 = 800. Transfers are not purchases of goods and services.
-- (C) adds exports but ignores imports: 450 + 120 + 200 + 80 = 850. Imports must be subtracted.
-- (D) adds imports instead of subtracting them: 450 + 120 + 200 + 80 + 110 = 960.
+- (A) leaves out the haircuts (200,000 + 75,000). Services are part of GDP.
+- (B) subtracts the fertiliser (299,000 − 20,000). The fertiliser's value is already inside the price of the rice, and it is new Valdorian production, so it belongs in GDP once. Subtracting it leaves it out altogether.
+- (D) adds the fertiliser (299,000 + 40 × 500). That counts it twice: once on its own and once inside the price of the rice.
 </details>
 
 ## Question 3 (multiple choice · foundation)
@@ -140,7 +150,7 @@ Here are Valdoria's figures for 2026, in VD billion.
 
 **(b)** GDP = 700 + 180 + 280 + (−30) = **VD 1,130 billion**.
 
-**(c)** Some goods sold in 2026 were taken from stock produced in earlier years. That spending is inside C, but the goods were not produced in 2026. Subtracting the fall in inventories removes them, so GDP measures only 2026 production. (Adding the 10 instead would give VD 1,150 billion, which is wrong.)
+**(c)** Some goods sold in 2026 were taken from stock produced in earlier years. That spending is already counted in C (or another component), but the goods were not produced in 2026. Subtracting the fall in inventories removes them, so GDP measures only 2026 production. (Adding the 10 instead would give VD 1,150 billion, which is wrong.)
 
 Suggested mark points (3): 1 for correct C, I, G and Xn with the three excluded items left out; 1 for GDP of VD 1,130 billion (accept a value carried forward from an error in (a)); 1 for explaining that the fall in inventories removes goods produced in an earlier year.
 </details>
@@ -210,7 +220,8 @@ Accept "change in inventories" or "inventory investment" in (c). Calling the uns
 ## How did you do?
 
 - **Q1 or Q5 exclusions wrong:** re-read "What is not counted, and why" in the [study guide](/advanced-course-resources/macroeconomics/2-1-circular-flow-gdp-study-guide/).
-- **Q2 or Q5(a)–(b) wrong:** redo Worked example 1, the expenditure approach.
+- **Q2 wrong:** redo Worked example 3, calculating nominal GDP.
+- **Q5(a)–(b) wrong:** redo Worked example 1, the expenditure approach.
 - **Q3 or Q6 wrong:** revisit "The circular flow model" and Figure 1.
 - **Q4 or Q7 wrong:** redo Worked example 2, the value-added approach, and its link to the income approach.
 

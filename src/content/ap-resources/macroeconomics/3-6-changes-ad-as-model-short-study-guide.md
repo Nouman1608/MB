@@ -191,7 +191,7 @@ AD₁ = SRAS₂ = VD 820 billion at a price level of **108**. E₂ is at PL₂ =
 </g>
 <g stroke="#1d2b44" stroke-width="1"><line x1="200" y1="270" x2="200" y2="275"/><line x1="240" y1="270" x2="240" y2="275"/><line x1="360" y1="270" x2="360" y2="275"/><line x1="440" y1="270" x2="440" y2="275"/><line x1="520" y1="270" x2="520" y2="275"/></g>
 <text x="280" y="288" text-anchor="middle" font-size="13" font-weight="bold" fill="#1d2b44">Yf = 840</text>
-<text x="236" y="302" text-anchor="middle" font-size="12" fill="#1d2b44">820</text>
+<text x="240" y="302" text-anchor="middle" font-size="12" fill="#1d2b44">820</text>
 <text x="345" y="314" text-anchor="middle" font-size="14" fill="#1d2b44">Real GDP (VD billion)</text>
 <text x="24" y="145" text-anchor="middle" font-size="14" fill="#1d2b44" transform="rotate(-90 24 145)">Price level (index)</text>
 <line x1="280" y1="40" x2="280" y2="270" stroke="#1d2b44" stroke-width="2.5"/>
@@ -209,7 +209,7 @@ AD₁ = SRAS₂ = VD 820 billion at a price level of **108**. E₂ is at PL₂ =
 <circle cx="280" cy="150" r="5" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
 <rect x="235" y="105" width="10" height="10" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
 <text x="288" y="132" font-size="14" font-style="italic" fill="#1d2b44">E₁</text>
-<text x="212" y="104" font-size="14" font-style="italic" fill="#1d2b44">E₂</text>
+<text x="196" y="104" font-size="14" font-style="italic" fill="#1d2b44">E₂</text>
 </svg>
 <figcaption>Figure 2. Negative supply shock (fictional data). Both axes start above zero. SRAS shifts left by VD 60 billion (dashed SRAS₂). The economy moves from E₁ (circle: PL 104, VD 840 billion) to E₂ (square: PL 108, VD 820 billion): a higher price level with lower output, which is stagflation.</figcaption>
 </figure>
@@ -238,7 +238,7 @@ The pattern to remember:
 - **"All inflation is demand-pull."** Inflation can also come from rising costs (cost-push). Check whether output rose or fell.
 - **"After an AD shock, output rises by the full shift."** With an upward-sloping SRAS, part of the shift shows up as a higher price level, so output rises by less than the horizontal shift.
 - **"A negative supply shock lowers the price level, because output falls."** It **raises** the price level while output falls: stagflation.
-- **"Unemployment and the price level always move in opposite directions."** True for AD shocks; for a negative SRAS shock both rise together.
+- **"Unemployment and the price level always move in opposite directions."** True for AD shocks, but not for SRAS shocks: after a negative SRAS shock both rise together, and after a positive one both fall.
 - **Shifting LRAS for a temporary cost shock.** A short-lived rise in input prices shifts SRAS only.
 - **Showing only the final position.** Graphs need both curves (old and new), both equilibria and the new price level and output labelled.
 

@@ -189,7 +189,7 @@ Shifting AD instead of SRAS earns no graph point for (b). Shifting LRAS as well 
 |---|---|---|---|
 | 1 | 100 → 103 | 600 → 612 | 5.0% → 4.4% |
 | 2 | 103 → 106 | 612 → 600 | 4.4% → 5.0% |
-| 3 | 106 → 104 | 600 → 609 | 5.0% → 4.7% |
+| 3 | 106 → 104 | 600 → 606 | 5.0% → 4.7% |
 
 (a) For each episode, identify the shift (which curve, which direction) and suggest one possible cause.
 

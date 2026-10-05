@@ -246,7 +246,7 @@ GDP = 620 + 180 + 240 + (−40) = **VD 1,000 billion**
 
 **Answer.** The table adds **VD 300** to GDP, which equals the price the household pays for the final good.
 
-**Why not add the sales?** The sales add up to 40 + 90 + 210 + 300 = VD 640. That counts the timber four times, the planks three times and the unfinished table twice. The extra VD 340 is exactly the value of the intermediate goods (40 + 90 + 210).
+**Why not add the sales?** The sales add up to 40 + 90 + 210 + 300 = VD 640. That counts the forester's value added four times, the sawmill's three times and the furniture maker's twice. The extra VD 340 is exactly the value of the intermediate goods (40 + 90 + 210).
 
 **Link to the income approach.** Each firm's value added is paid out as income. For example, the furniture maker's VD 120 of value added is paid as wages VD 80, rent VD 10 and interest VD 5, and the VD 25 left over is the owner's profit: 80 + 10 + 5 + 25 = VD 120. Adding the value added of every firm and adding every income give the same answer.
 
@@ -259,9 +259,9 @@ GDP = 620 + 180 + 240 + (−40) = **VD 1,000 billion**
 | Fish sold to households (kg) | 4,000 | VD 6 | VD 7 |
 | Boat trips sold to tourists | 1,500 | VD 20 | VD 22 |
 | Woven baskets sold to households | 800 | VD 15 | VD 15 |
-| Fishing nets sold to the island's fishers | 200 | VD 25 | VD 25 |
+| Bait sold to the island's fishers (kg) | 200 | VD 25 | VD 25 |
 
-**Step 1: identify the final goods.** The fishing nets are used up in catching fish, so they are intermediate goods. Leave them out.
+**Step 1: identify the final goods.** The bait is used up in catching the fish, so it is an intermediate good. Leave it out.
 
 **Step 2: price × quantity for each final good, then add.**
 
@@ -270,7 +270,7 @@ GDP = 620 + 180 + 240 + (−40) = **VD 1,000 billion**
 
 **Step 3: comment.** Nominal GDP rose by (73,000 − 66,000) ÷ 66,000 × 100 = **10.61%**, yet the island produced exactly the same quantities. The rise came only from higher prices. This is why economists also need **real** GDP (Topic 2.6).
 
-**Check.** Including the nets would give VD 71,000 for 2025. The nets' value is already part of the price of the fish, so that answer double counts.
+**Check.** Including the bait would give VD 71,000 for 2025. The bait's value is already part of the price of the fish, so that answer double counts.
 
 ## Common misconceptions
 

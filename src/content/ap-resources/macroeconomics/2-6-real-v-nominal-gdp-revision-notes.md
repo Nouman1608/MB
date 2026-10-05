@@ -63,7 +63,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 3. **Inverting the deflator ratio:** nominal goes on top.
 4. **Using current prices** when calculating real GDP.
 5. **Reading a deflator level as an inflation rate.** 112 means 12% above the base year, not 112% inflation.
-6. **Assuming real GDP is always below nominal GDP.** Not before the base year or after deflation.
+6. **Assuming real GDP is always below nominal GDP.** It is above nominal GDP whenever the deflator is below 100 (for example, before the base year if prices have been rising).
 
 ## Quick self-check
 

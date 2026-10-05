@@ -37,10 +37,10 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 ## Calculation
 
-- I can sort transactions into C, I, G and net exports and calculate GDP with the expenditure approach. *(Guide: Worked example 1; Practice Q2, Q5)*
+- I can sort transactions into C, I, G and net exports and calculate GDP with the expenditure approach. *(Guide: Worked example 1; Practice Q5)*
 - I can calculate GDP with the income approach by adding wages, rent, interest and profit. *(Guide: Worked example 1 check; Practice Q7(b))*
 - I can calculate value added at each stage of production and show that the total equals the price of the final good. *(Guide: Worked example 2; Practice Q4, Q7(a))*
-- I can calculate nominal GDP from the prices and quantities of final goods. *(Guide: Worked example 3)*
+- I can calculate nominal GDP from the prices and quantities of final goods. *(Guide: Worked example 3; Practice Q2)*
 
 ## Reasoning
 

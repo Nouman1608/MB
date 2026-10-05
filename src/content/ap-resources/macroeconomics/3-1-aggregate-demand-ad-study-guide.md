@@ -13,7 +13,7 @@ prerequisites:
 prerequisiteResources: ["mb-ap-macro-2.7-study-guide"]
 learningObjectives:
   - "Define aggregate demand and draw a correctly labelled AD curve with the price level and real GDP on the axes"
-  - "Explain the downward slope of the AD curve using the real wealth effect, the interest rate effect and the exchange rate effect"
+  - "Explain why the AD curve slopes downward, using the real wealth, interest rate and exchange rate effects"
   - "Tell apart a movement along the AD curve (caused by a change in the price level) from a shift of the curve"
   - "Identify which component of spending (C, I, G or NX) a given event changes, and the direction AD shifts"
 skills: ["1", "2", "4"]
@@ -28,7 +28,7 @@ sources: ["ced-macroeconomics", "page-macroeconomics", "clar-macroeconomics"]
 keyPoints:
   - "Aggregate demand (AD) shows the quantity of real GDP that households, firms, the government and foreign buyers want to buy at each price level."
   - "Label the axes Price level (PL) and Real GDP (Y), never Price and Quantity."
-  - "AD slopes downward because of the real wealth effect, the interest rate effect and the exchange rate effect."
+  - "AD slopes downward because of three effects: the real wealth, interest rate and exchange rate effects."
   - "A change in the price level moves the economy along the AD curve; it never shifts it."
   - "Any change in C, I, G or NX that is not caused by the price level shifts AD: right for an increase, left for a decrease."
 faqs:
@@ -99,10 +99,10 @@ Notice that government spending (G) does not respond to the price level in this 
 <text x="528" y="262" font-size="15" font-weight="bold" fill="#1d2b44">AD</text>
 <g stroke="#1d2b44" stroke-width="1" stroke-dasharray="5 4">
 <line x1="80" y1="96.2" x2="220" y2="96.2"/><line x1="220" y1="96.2" x2="220" y2="280"/>
-<line x1="80" y1="198.8" x2="420" y2="198.8"/><line x1="420" y1="198.8" x2="420" y2="280"/>
+<line x1="80" y1="198.7" x2="420" y2="198.7"/><line x1="420" y1="198.7" x2="420" y2="280"/>
 </g>
 <g fill="#fdf6e3" stroke="#1d2b44" stroke-width="2">
-<circle cx="220" cy="96.2" r="5"/><circle cx="420" cy="198.8" r="5"/>
+<circle cx="220" cy="96.2" r="5"/><circle cx="420" cy="198.7" r="5"/>
 </g>
 <g font-size="13" font-weight="bold" fill="#1d2b44" text-anchor="middle">
 <text x="232" y="86">A</text><text x="432" y="188">B</text>

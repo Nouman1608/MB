@@ -70,7 +70,7 @@ Kestria starts in long-run equilibrium. Household confidence rises sharply and A
 **Answer: (A).** In the short run, output rises above Yf. Then nominal wages rise, SRAS shifts left, and output returns to Yf with unemployment at the natural rate. The price level rises in both stages, so it ends higher.
 
 - (B) describes the **short-run** effect of the AD increase, not the long run.
-- (C) would need LRAS to shift right. A rise in confidence changes spending, not capacity.
+- (C) describes a lasting gain in output and jobs with no rise in prices. Once wages adjust, output returns to Yf and unemployment to the natural rate, and the price level ends higher. A rise in confidence changes spending, not capacity, so it cannot raise Yf.
 - (D) has the price level moving the wrong way. A lower long-run price level follows a **fall** in AD.
 </details>
 
@@ -86,7 +86,7 @@ A one-year drought cuts Valdoria's harvest and raises food costs for firms, so S
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** The drought is a temporary negative supply shock. Unemployment above the natural rate pushes wages down, and the return of normal harvests lowers input costs, so SRAS shifts back to its original position. AD has not changed, so the economy returns to its original price level and Yf.
+**Answer: (C).** The drought is a temporary negative supply shock. Unemployment above the natural rate puts downward pressure on wages, and the return of normal harvests lowers food costs, so SRAS shifts back to the right. AD and LRAS have not moved, so the long-run equilibrium is again where AD crosses LRAS: the original price level and Yf.
 
 - (A) is the **short-run** result of the drought (stagflation).
 - (B) is the long-run result of an **AD increase**, not of a temporary SRAS decrease.

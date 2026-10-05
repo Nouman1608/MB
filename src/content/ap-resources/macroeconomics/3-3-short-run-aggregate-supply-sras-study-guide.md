@@ -117,7 +117,7 @@ Each rise of 4 points in the price level adds VD 40 billion of real output and 0
 <text x="450" y="128" font-size="14" font-style="italic" fill="#1d2b44">b</text>
 <defs><marker id="sras1-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1d2b44"/></marker></defs>
 <line x1="285" y1="160" x2="425" y2="97" stroke="#1d2b44" stroke-width="2" marker-end="url(#sras1-arrow)"/>
-<text x="120" y="150" font-size="12" fill="#1d2b44">movement along SRAS</text>
+<text x="215" y="126" font-size="12" fill="#1d2b44">movement along SRAS</text>
 </svg>
 <figcaption>Figure 1. Valdoria's SRAS curve (fictional data). Both axes start above zero (real GDP at 700, price level at 90) so the change is easy to see. A rise in the price level from 100 to 108 moves the economy from a to b along the same curve.</figcaption>
 </figure>

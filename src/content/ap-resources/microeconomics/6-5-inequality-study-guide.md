@@ -20,7 +20,7 @@ skills: ["1", "2", "4"]
 studyMinutes: 40
 difficulty: "core"
 calculator: "four-function"
-calculatorNote: "All data are fictional. Calculations use multiplication and division only; give percentages to 2 decimal places where needed"
+calculatorNote: "All data are fictional. Calculations need only the four basic operations; give percentages to 2 decimal places where needed"
 related: ["mb-ap-micro-6.5-revision-notes", "mb-ap-micro-6.5-practice", "mb-ap-micro-6.5-checklist"]
 next: "mb-ap-micro-6.5-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }

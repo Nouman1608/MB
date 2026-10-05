@@ -36,7 +36,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 ## Calculation
 
-- I can calculate the automatic change in tax revenue and in transfer payments from data. *(Guide: Worked examples 1 and 2; Practice Q5(a), Q6(c))*
+- I can calculate the automatic change in tax revenue and in transfer payments from data. *(Guide: Worked examples 1 and 2; Practice Q5(a), Q6(c)–(d))*
 - I can calculate the change in disposable income and the first-round change in consumption, and compare it with an economy without stabilizers. *(Guide: Worked example 1; Practice Q3, Q5(c), Q6(d))*
 - I can compare the revenue from a proportional tax and a fixed tax when income changes. *(Practice Q7(a)–(c))*
 

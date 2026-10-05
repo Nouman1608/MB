@@ -34,7 +34,7 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. All countries, firms, people and data are fictional. Only multiplication, division and subtraction are needed, so a four-function calculator is enough. You are not asked to draw a Lorenz curve or calculate a Gini coefficient; those are outside the course.
+These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. All countries, firms, people and data are fictional. Only basic arithmetic (add, subtract, multiply, divide) is needed, so a four-function calculator is enough. You are not asked to draw a Lorenz curve or calculate a Gini coefficient; those are outside the course.
 
 Question 1 uses points on the Lorenz curves of two fictional countries, **Pellam** and **Rudd**:
 
@@ -85,7 +85,7 @@ Households in a fictional country earn $10,000, $40,000 and $100,000 a year. Whi
 
 Over ten years, a fictional country's Gini coefficient for income rises from 0.31 to 0.38. Which statement **must** be true?
 
-- (A) Income became more unequally distributed, and the Lorenz curve moved farther from the line of equality.
+- (A) Income became more unequally distributed, and the gap between the Lorenz curve and the line of equality grew.
 - (B) Average income in the country fell.
 - (C) The poverty rate rose.
 - (D) Households in the poorest 20% received fewer dollars of income than ten years earlier.

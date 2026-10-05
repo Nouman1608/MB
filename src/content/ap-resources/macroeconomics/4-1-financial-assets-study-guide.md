@@ -7,7 +7,7 @@ unit: 4
 topics: ["4.1"]
 resourceType: "study-guide"
 prerequisites:
-  - "Opportunity cost (Topic 1.1)"
+  - "Opportunity cost (Topic 1.2)"
   - "Calculating a percentage of an amount"
 prerequisiteResources: ["mb-ap-macro-3.9-study-guide"]
 learningObjectives:
@@ -81,7 +81,7 @@ Money is the most liquid asset, but cash earns nothing, and demand deposits earn
 
 **The opportunity cost of holding money is the interest you could have earned by holding other financial assets, such as bonds.**
 
-This links back to opportunity cost in Topic 1.1: the cost of a choice is the value of the best alternative given up. Here, the cost of keeping wealth liquid is the interest forgone. So **when interest rates rise, holding money becomes more costly**, and people try to hold less of it. You will use this idea in Topic 4.5 to explain why the demand for money slopes downward.
+This links back to opportunity cost in Topic 1.2: the cost of a choice is the value of the best alternative given up. Here, the cost of keeping wealth liquid is the interest forgone. So **when interest rates rise, holding money becomes more costly**, and people try to hold less of it. You will use this idea in Topic 4.5 to explain why the demand for money slopes downward.
 
 ## Bond prices and interest rates
 

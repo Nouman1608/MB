@@ -55,7 +55,7 @@ Unemployment matters for two reasons. First, unemployed people lose income, and 
 Statistics offices survey households and place every person in the **adult population** into exactly one of three groups. (In the United States, official figures cover people aged 16 and over who are not in the armed forces or living in institutions such as prisons.)
 
 - **Employed:** has a paid job, full-time or part-time. A person who works only a few hours a week still counts as employed.
-- **Unemployed:** does not have a job, is available for work and has **actively looked** for work recently (in the United States survey, within the past four weeks).
+- **Unemployed:** does not have a job, is available for work and has **actively looked** for work recently (in the United States survey, within the past four weeks). The survey makes one exception: a worker temporarily laid off and expecting to be recalled counts as unemployed without searching.
 - **Not in the labor force:** neither employed nor unemployed. Examples: retirees, full-time students who are not looking for work, people caring for family at home who are not looking for work, and **discouraged workers**.
 
 The **labor force** is everyone who is working or actively trying to work:

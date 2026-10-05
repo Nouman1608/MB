@@ -166,7 +166,7 @@ Answers that say "shares are better" or "bonds are better" with no attribute nam
 
 ## Question 7 (constructed response · stretch)
 
-A Valdorian bank bought a one-year bond for **VD 5,000** when the market interest rate was 6%. The bond pays **VD 5,300** at maturity. Before the bank can resell it, the market interest rate on similar one-year bonds rises to **8%**.
+A Valdorian bank bought a one-year bond for **VD 5,000** when the market interest rate was 6%. The bond pays **VD 5,300** at maturity. Before the bank can resell it, the market interest rate on similar one-year bonds rises to **8%**. The rate changes in this question happen so soon after the purchase that you should treat the bond as still having one full year to maturity.
 
 (a) Calculate the price the bank can now get for the bond.
 (b) Calculate the bank's capital loss if it sells at that price.

@@ -174,7 +174,7 @@ Kestria is in short-run equilibrium with an unemployment rate of 3.5%. Its natur
 | 1 | Positive (inflationary) gap identified from unemployment below the natural rate |
 | 1 | Explains that output above Yf is unsustainable because resources are over-used and wages come under upward pressure |
 
-A graph with the crossing point on or left of LRAS earns neither of the last two graph points. "Price" and "quantity" as axis labels do not earn the first point.
+A graph with the crossing point on or to the left of LRAS does not earn the third point. "Price" and "quantity" as axis labels do not earn the first point.
 </details>
 
 ## Question 7 (constructed response · stretch)

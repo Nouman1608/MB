@@ -182,21 +182,21 @@ The model shows AD moving at once. In reality, discretionary fiscal policy takes
 <desc id="fp2-desc">A timeline of four boxes joined by arrows, running left to right. Box 1, recognition: data reveal the gap only after some months. Box 2, decision: the government and legislature debate and agree a budget. Box 3, implementation: projects are started and tax rules are changed. Box 4, impact: the multiplier rounds spread through aggregate demand. An arrow below the boxes is labelled time. A note says the economy may have changed by the time the policy takes effect.</desc>
 <rect x="0" y="0" width="640" height="230" fill="#ffffff"/>
 <g fill="#fdf6e3" stroke="#1d2b44" stroke-width="2">
-<rect x="20" y="30" width="130" height="100" rx="6"/><rect x="170" y="30" width="130" height="100" rx="6"/><rect x="320" y="30" width="130" height="100" rx="6"/><rect x="470" y="30" width="150" height="100" rx="6"/>
+<rect x="15" y="30" width="135" height="100" rx="6"/><rect x="165" y="30" width="135" height="100" rx="6"/><rect x="315" y="30" width="155" height="100" rx="6"/><rect x="485" y="30" width="140" height="100" rx="6"/>
 </g>
 <g font-size="14" font-weight="bold" fill="#1d2b44" text-anchor="middle">
-<text x="85" y="55">1. Recognition</text><text x="235" y="55">2. Decision</text><text x="385" y="55">3. Implementation</text><text x="545" y="55">4. Impact</text>
+<text x="82.5" y="55">1. Recognition</text><text x="232.5" y="55">2. Decision</text><text x="392.5" y="55">3. Implementation</text><text x="555" y="55">4. Impact</text>
 </g>
 <g font-size="12" fill="#1d2b44" text-anchor="middle">
-<text x="85" y="80">data reveal the</text><text x="85" y="96">gap only after</text><text x="85" y="112">some months</text>
-<text x="235" y="80">government and</text><text x="235" y="96">legislature debate</text><text x="235" y="112">and agree a budget</text>
-<text x="385" y="80">projects start;</text><text x="385" y="96">tax rules and</text><text x="385" y="112">payments change</text>
-<text x="545" y="80">multiplier rounds</text><text x="545" y="96">spread through AD</text><text x="545" y="112">over time</text>
+<text x="82.5" y="80">data reveal the</text><text x="82.5" y="96">gap only after</text><text x="82.5" y="112">some months</text>
+<text x="232.5" y="80">government and</text><text x="232.5" y="96">legislature debate</text><text x="232.5" y="112">and agree a budget</text>
+<text x="392.5" y="80">projects start;</text><text x="392.5" y="96">tax rules and</text><text x="392.5" y="112">payments change</text>
+<text x="555" y="80">multiplier rounds</text><text x="555" y="96">spread through AD</text><text x="555" y="112">over time</text>
 </g>
 <g stroke="#1d2b44" stroke-width="1.5" fill="none">
-<path d="M150,80 L168,80"/><path d="M162,75 L168,80 L162,85"/>
-<path d="M300,80 L318,80"/><path d="M312,75 L318,80 L312,85"/>
-<path d="M450,80 L468,80"/><path d="M462,75 L468,80 L462,85"/>
+<path d="M150,80 L163,80"/><path d="M157,75 L163,80 L157,85"/>
+<path d="M300,80 L313,80"/><path d="M307,75 L313,80 L307,85"/>
+<path d="M470,80 L483,80"/><path d="M477,75 L483,80 L477,85"/>
 <path d="M20,160 L615,160"/><path d="M607,154 L615,160 L607,166"/>
 </g>
 <text x="320" y="180" text-anchor="middle" font-size="13" fill="#1d2b44">Time</text>

@@ -193,7 +193,7 @@ Compared with before the shock: a **higher price level**, the **same real output
 
 A **negative supply shock**, such as a sudden jump in imported energy prices or a drought, shifts SRAS left. In the short run the price level rises while real GDP falls and unemployment rises: **stagflation** (Topic 3.6).
 
-With no government policy, the high unemployment puts downward pressure on nominal wages. As wages fall, SRAS shifts back to the **right**. If the shock was temporary (for example, energy prices fall back), SRAS returns to its original position. The economy ends where it started: **original price level, Yf, natural rate**.
+With no government policy, the high unemployment puts downward pressure on nominal wages. As wages fall, SRAS shifts back to the **right**. If the shock was temporary (for example, energy prices fall back), SRAS returns to its original position. The economy ends where it started: **original price level, Yf, natural rate**. The reason is that AD and LRAS have not moved, and the long-run equilibrium is always where AD crosses LRAS. (A shock that permanently destroys capacity is different: it shifts LRAS left, as described below.)
 
 A **positive supply shock** (SRAS right) works in reverse: output above Yf and a lower price level in the short run; then wages and input prices rise, SRAS shifts back left, and the economy returns to its starting point.
 

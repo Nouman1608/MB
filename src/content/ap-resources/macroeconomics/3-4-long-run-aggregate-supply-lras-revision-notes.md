@@ -46,7 +46,7 @@ Short on time? This page is the recap. For explanations, graphs and worked examp
 |---|---|---|
 | Full employment | On the curve | Real GDP = Yf, on LRAS |
 | Unemployed resources | Inside the curve | Real GDP < Yf, left of LRAS |
-| Resources over-used for a time | Not sustainable | Real GDP > Yf, right of LRAS |
+| Resources over-used for a time | Beyond the curve: not sustainable | Real GDP > Yf, right of LRAS |
 | More resources or better technology | Shifts out | LRAS shifts right (Topic 3.7) |
 
 | Curve | Slope | Reason |

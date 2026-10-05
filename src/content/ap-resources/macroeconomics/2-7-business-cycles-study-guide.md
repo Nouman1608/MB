@@ -126,7 +126,7 @@ Valdoria (fictional country, currency the valda, VD) publishes quarterly real GD
 <line x1="60" y1="250" x2="640" y2="250" stroke="#1d2b44" stroke-width="2"/>
 <line x1="60" y1="10" x2="60" y2="250" stroke="#1d2b44" stroke-width="2"/>
 <g font-size="13" fill="#1d2b44" text-anchor="end">
-<text x="52" y="254">96</text><text x="52" y="194">100</text><text x="52" y="134">104</text><text x="52" y="74">108</text><text x="52" y="22">112</text>
+<text x="52" y="254">96</text><text x="52" y="194">100</text><text x="52" y="134">104</text><text x="52" y="74">108</text><text x="52" y="14">112</text>
 </g>
 <g stroke="#1d2b44" stroke-width="1"><line x1="55" y1="190" x2="60" y2="190"/><line x1="55" y1="130" x2="60" y2="130"/><line x1="55" y1="70" x2="60" y2="70"/><line x1="55" y1="10" x2="60" y2="10"/></g>
 <g font-size="12" fill="#1d2b44" text-anchor="middle">
@@ -171,7 +171,7 @@ Valdoria's natural rate of unemployment is **5.0%**. Its unemployment rate was *
 
 **(b)** At the **peak**, output is **above** potential (positive gap). Firms are producing more than the full-employment level, so they hire extra workers, and unemployment falls **below** the natural rate. Negative cyclical unemployment simply means unemployment is lower than its natural level.
 
-At the **trough**, output is **below** potential (negative gap of VD 5 billion). Firms need fewer workers, so unemployment rises **above** the natural rate. The 2.5 points of cyclical unemployment are workers who lost jobs because of the recession.
+At the **trough**, output is **below** potential (negative gap of VD 5 billion). Firms need fewer workers, so unemployment rises **above** the natural rate. The extra 2.5 percentage points of unemployment are cyclical: people out of work because of the recession, not because of normal job search or changes in the structure of the economy.
 
 In **2026 Q1** the gap is zero: output equals potential and unemployment equals the natural rate. This matches the definition of potential output as full-employment output.
 

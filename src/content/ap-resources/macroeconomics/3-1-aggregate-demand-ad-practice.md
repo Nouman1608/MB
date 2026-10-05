@@ -108,7 +108,7 @@ Which sequence correctly describes the exchange rate effect when Valdoria's pric
 **Answer: (A).** A higher price level raises the demand for money and so interest rates. Higher returns attract foreign savers, who must buy valdas; the valda appreciates. Valdorian goods become dearer for foreigners and imports become cheaper, so net exports fall: a movement up along AD.
 
 - (B) reverses the interest rate change. A higher price level raises interest rates.
-- (C) mixes the wealth effect with net exports and gets the wrong overall result: the price-level rise lowers the quantity of real GDP demanded, it does not raise net exports.
+- (C) does not involve the exchange rate at all, so it cannot describe the exchange rate effect. Its result is also wrong: through this channel a higher price level lowers net exports, it does not raise them.
 - (D) is internally inconsistent: a depreciation makes Valdorian goods **cheaper** abroad, not dearer.
 </details>
 

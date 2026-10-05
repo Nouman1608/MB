@@ -138,7 +138,7 @@ The same logic applies to any payment fixed in money terms.
 | Workers on multi-year fixed wage contracts | lose | the wage was set before prices rose |
 | Employers paying those fixed wages | gain | they pay less in real terms while their own prices rise |
 
-With **unexpected deflation**, every arrow reverses: borrowers lose, lenders gain, and fixed incomes buy more. But a firm or household with debt now finds the debt **harder** to repay, because its income tends to fall with prices while the debt stays the same.
+With **unexpected deflation**, every gain and loss in the table reverses: borrowers lose, lenders gain, and fixed incomes buy more. But a firm or household with debt now finds the debt **harder** to repay, because its income tends to fall with prices while the debt stays the same.
 
 ## Worked example 2: a pension and some savings
 

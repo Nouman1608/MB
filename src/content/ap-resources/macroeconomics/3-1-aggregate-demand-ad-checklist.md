@@ -41,7 +41,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 ## Reasoning
 
-- I can explain the real wealth effect, the interest rate effect and the exchange rate effect, linking each to the right component. *(Guide: "Why the AD curve slopes downward"; Practice Q1, Q4, Q6(d))*
+- I can explain the real wealth, interest rate and exchange rate effects, linking each to the right component. *(Guide: "Why the AD curve slopes downward"; Practice Q1, Q4, Q6(d))*
 - I can decide whether an event causes a movement along AD or a shift of AD. *(Guide: Worked example 1; Practice Q2, Q3)*
 - I can name the component a news event affects and state whether AD shifts right or left. *(Guide: "What shifts the AD curve"; Practice Q2, Q6(c))*
 - I can explain why a policy change in interest rates shifts AD but a price-level-driven change does not. *(Guide: "What shifts the AD curve"; Practice Q7(a))*

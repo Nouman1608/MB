@@ -89,7 +89,7 @@ Which event would most likely **increase** Valdoria's measured GDP while **reduc
 
 - (B) has no effect on GDP (volunteering is a nonmarket activity) and probably raises well-being.
 - (C) probably lowers GDP (fewer hours worked), while the extra leisure may raise well-being. It is the opposite combination.
-- (D) lowers measured GDP (fewer market sales), even though the vegetables are still produced.
+- (D) lowers measured GDP (fewer market sales), even though the vegetables are still produced, and it does not make people worse off. It is not the combination asked for.
 </details>
 
 ## Question 4 (multiple choice · core)

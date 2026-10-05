@@ -51,7 +51,7 @@ In Topic 3.8 you met **discretionary fiscal policy**: the government deliberatel
 
 Some parts of fiscal policy do not need anyone to decide anything. They are already written into the tax and benefit rules. When real GDP changes, they change too.
 
-**Automatic stabilizers** are features of the tax and transfer system that, without any new government action, raise disposable income when the economy weakens and lower it when the economy strengthens. They support the economy in recessions and help stop it overheating in expansions.
+**Automatic stabilizers** are features of the tax and transfer system that, without any new government action, cushion disposable income when the economy weakens and hold it back when the economy strengthens. They support the economy in recessions and help stop it overheating in expansions.
 
 The key words are:
 

@@ -157,10 +157,12 @@ Why the names? A **negative** gap means idle workers and machines: the economy i
 <figure>
 <svg viewBox="0 0 640 320" role="img" aria-labelledby="gap-title gap-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="gap-title">A negative (recessionary) output gap and a positive (inflationary) output gap</title>
-<desc id="gap-desc">Two panels, each with the price level on the vertical axis and real GDP on the horizontal axis, and each with an upward-sloping SRAS, a downward-sloping AD and a vertical LRAS at Yf. In the left panel, AD and SRAS cross at point E1 at output Y1, to the left of Yf; a bracket between Y1 and Yf is labelled negative, recessionary, gap. In the right panel, AD and SRAS cross at point E1 at output Y1, to the right of Yf; a bracket between Yf and Y1 is labelled positive, inflationary, gap. In both panels a dotted line runs from E1 to the price-level axis, marked PL1.</desc>
+<desc id="gap-desc">Two panels, each with the price level on the vertical axis and real GDP on the horizontal axis, and each with an upward-sloping SRAS, a downward-sloping AD and a vertical LRAS at Yf. In the left panel, AD and SRAS cross at point E1 at output Y1, to the left of Yf; a bracket between Y1 and Yf is labelled negative, recessionary, gap. In the right panel, AD and SRAS cross at point E1 at output Y1, to the right of Yf; a bracket between Yf and Y1 is labelled positive, inflationary, gap. In both panels dotted lines run from E1 to the price-level axis, marked PL1, and down to the real GDP axis, marked Y1. Each panel has its vertical axis labelled price level and its horizontal axis labelled real GDP.</desc>
 <rect x="0" y="0" width="640" height="320" fill="#ffffff"/>
 <line x1="50" y1="250" x2="300" y2="250" stroke="#1d2b44" stroke-width="2"/>
 <line x1="50" y1="25" x2="50" y2="250" stroke="#1d2b44" stroke-width="2"/>
+<text x="22" y="140" text-anchor="middle" font-size="12" fill="#1d2b44" transform="rotate(-90 22 140)">Price level</text>
+<text x="300" y="243" text-anchor="end" font-size="12" fill="#1d2b44">Real GDP</text>
 <line x1="200" y1="40" x2="200" y2="250" stroke="#1d2b44" stroke-width="2.5"/>
 <text x="206" y="48" font-size="14" font-weight="bold" fill="#1d2b44">LRAS</text>
 <line x1="70" y1="235" x2="290" y2="55" stroke="#1d2b44" stroke-width="2.5"/>
@@ -178,6 +180,8 @@ Why the names? A **negative** gap means idle workers and machines: the economy i
 <text x="175" y="310" text-anchor="middle" font-size="12" fill="#1d2b44">Y₁ &lt; Yf</text>
 <line x1="370" y1="250" x2="625" y2="250" stroke="#1d2b44" stroke-width="2"/>
 <line x1="370" y1="25" x2="370" y2="250" stroke="#1d2b44" stroke-width="2"/>
+<text x="342" y="170" text-anchor="middle" font-size="12" fill="#1d2b44" transform="rotate(-90 342 170)">Price level</text>
+<text x="625" y="243" text-anchor="end" font-size="12" fill="#1d2b44">Real GDP</text>
 <line x1="520" y1="40" x2="520" y2="250" stroke="#1d2b44" stroke-width="2.5"/>
 <text x="470" y="48" font-size="14" font-weight="bold" fill="#1d2b44">LRAS</text>
 <line x1="390" y1="235" x2="610" y2="55" stroke="#1d2b44" stroke-width="2.5"/>

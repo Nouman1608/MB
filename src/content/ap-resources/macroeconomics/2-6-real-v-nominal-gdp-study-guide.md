@@ -34,7 +34,7 @@ keyPoints:
   - "Base-year prices can overstate real growth, so statistical agencies use other (chain-weighted) methods."
 faqs:
   - question: "Is real GDP always smaller than nominal GDP?"
-    answer: "No. In the base year they are equal. In later years real GDP is smaller only if the price level has risen since the base year. In years before the base year, or after a period of deflation, real GDP is larger than nominal GDP."
+    answer: "No. In the base year they are equal. Real GDP is smaller than nominal GDP only when the price level is above its base-year level (deflator above 100). When the price level is below its base-year level (deflator below 100), real GDP is larger. That is usual for years before the base year if prices have been rising, and it can also happen after enough deflation."
   - question: "Do I need to calculate chain-weighted real GDP?"
     answer: "No. You need to calculate real GDP using base-year prices and explain why that method can overstate growth. The chain-weighting method agencies use instead is background only."
 version: "1.0"
@@ -118,7 +118,7 @@ Valdoria (the fictional country from Topic 2.4, currency the valda, VD) has a st
 | Real GDP growth | (7,630 − 7,000) ÷ 7,000 × 100 = 9.00% | (8,620 − 7,630) ÷ 7,630 × 100 = 12.98% |
 | Inflation (deflator) | (102.80 − 100) ÷ 100 × 100 = 2.80% | (104.11 − 102.80) ÷ 102.80 × 100 = 1.27% |
 
-**Interpretation.** Spending on output grew by 12.06% in 2024, but only 9.00% of that was more output; the rest was higher prices. Notice that phones became cheaper, yet the deflator still rose, because rice and bicycles became dearer.
+**Interpretation.** Spending on output grew by 12.06% in 2024, but output itself grew by only 9.00%; the rest of the rise in spending came from higher prices. Notice that phones became cheaper, yet the deflator still rose, because rice and bicycles became dearer.
 
 **Check.** Nominal growth is roughly real growth plus inflation: 9.00% + 2.80% = 11.80%, close to 12.06%. The shortcut is only approximate; the exact figures come from the real GDP values.
 
@@ -205,7 +205,7 @@ For this reason statistical agencies do **not** simply use one fixed base year. 
 ## Common misconceptions
 
 - **"Nominal GDP rose, so the economy produced more."** Not necessarily. In Worked example 2, nominal GDP rose in 2025 while output fell. Use real GDP to judge production.
-- **"Real GDP is always smaller than nominal GDP."** Only after the base year and only if prices have risen. Before the base year, or after deflation, real GDP can be larger.
+- **"Real GDP is always smaller than nominal GDP."** Only when the deflator is above 100. When the price level is below its base-year level (for example, before the base year if prices have been rising, or after deflation), real GDP is larger.
 - **Multiplying instead of dividing.** Real GDP = nominal ÷ deflator × 100. Multiplying by the deflator makes the number bigger, which removes nothing.
 - **Inverting the deflator.** The deflator is nominal ÷ real, not real ÷ nominal.
 - **Using current prices for real GDP.** Real GDP always uses the base year's prices, whatever year's quantities you are valuing.

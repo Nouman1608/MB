@@ -134,7 +134,7 @@ Farah owns a bakery and borrows **VD 24,000** for one year from a credit union t
 <rect x="390" y="227" width="150" height="33" fill="#dbe7f5" stroke="#1d2b44" stroke-width="2"/>
 <rect x="390" y="84" width="150" height="143" fill="url(#real-hatch)" stroke="#1d2b44" stroke-width="2"/>
 <g fill="#ffffff" stroke="#1d2b44" stroke-width="1">
-<rect x="172" y="122" width="126" height="22"/><rect x="402" y="144" width="126" height="22"/>
+<rect x="163" y="122" width="144" height="22"/><rect x="393" y="144" width="144" height="22"/>
 </g>
 <g font-size="13" fill="#1d2b44" text-anchor="middle">
 <text x="235" y="138">exp. inflation 4.5%</text>

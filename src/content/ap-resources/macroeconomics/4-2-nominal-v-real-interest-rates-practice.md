@@ -97,7 +97,7 @@ Kofi took out a one-year loan from a Valdorian bank at a nominal interest rate o
 
 In Valdoria, the expected real interest rate stays at 3%, but expected inflation rises from 2% to 6%. What happens to the nominal interest rate on new loans?
 
-- (A) It falls from 5% to 1%.
+- (A) It falls from 1% to −3%.
 - (B) It stays at 3%, because the real rate has not changed.
 - (C) It rises from 5% to 9%.
 - (D) It rises from 3% to 6%.
@@ -107,9 +107,9 @@ In Valdoria, the expected real interest rate stays at 3%, but expected inflation
 
 **Answer: (C).** Before: 3% + 2% = 5%. After: 3% + 6% = 9%. A 4-point rise in expected inflation raises the nominal rate by 4 points when the expected real rate is unchanged.
 
-- (A) subtracts expected inflation from the real rate. Lenders add expected inflation to protect their real return.
+- (A) subtracts expected inflation from the real rate (3 − 2 and 3 − 6). Lenders add expected inflation to protect their real return.
 - (B) confuses the nominal and real rates. Only the real rate stays the same.
-- (D) treats the nominal rate as equal to expected inflation (or the real rate) instead of their sum.
+- (D) starts from the real rate (3%) and ends at the new expected inflation rate (6%). The nominal rate is the sum of the two, both before and after.
 </details>
 
 ## Question 5 (calculation · core)
