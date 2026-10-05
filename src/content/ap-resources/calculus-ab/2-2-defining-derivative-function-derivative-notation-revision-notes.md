@@ -66,6 +66,6 @@ Notation: **lim (h → 0) g(h)** means "the limit as h approaches 0 of g(h)". **
 
 1. Use the definition to find g′(x) for g(x) = x² + 4x. *(2x + 4: the quotient is 2x + 4 + h for h ≠ 0)*
 2. Find the tangent line to y = x² + 4x at x = 1. *(Point (1, 5), slope 6: y − 5 = 6(x − 1), or y = 6x − 1)*
-3. If P(t) is a population and t is in years, what are the units of dP/dt? *(People per year)*
+3. If P(t) is a population and t is in years, what are the units of dP/dt? *(Individuals, such as people, per year)*
 
 Next: [practice questions](/advanced-course-resources/calculus-ab/2-2-defining-derivative-function-derivative-notation-practice/).

@@ -73,7 +73,7 @@ Let f(x) = arccos(2x). What is f′(1/4)?
 
 - (B) drops the minus sign. arccos is decreasing, so its derivative is negative.
 - (C) forgets the chain-rule factor 2: −1/(√3/2) = −2/√3.
-- (D) squares only the x: −2/√(1 − x²) at x = 1/4 is −2/√(15/16) = −8/√15.
+- (D) keeps the factor 2 on top but puts x instead of 2x under the root: −2/√(1 − x²) at x = 1/4 is −2/√(15/16) = −8/√15.
 </details>
 
 ## Question 3 (multiple choice · core)

@@ -33,7 +33,7 @@ Work through the list without notes or a calculator. If you cannot do a statemen
 
 - I can rewrite tan x, cot x, sec x and csc x in terms of sin x and cos x, and state where each is defined. *(Guide: "The idea: rewrite, then use a rule you know"; Practice Q5(b))*
 - I can explain why these derivatives are valid only with x in radians. *(Guide: "A note on notation")*
-- I can explain why tan x is always increasing, using sec²x ≥ 1. *(Guide: "Reading the derivative on a graph", Figure 1; Practice Q6(c))*
+- I can explain why tan x is increasing on each interval of its domain, using sec²x ≥ 1. *(Guide: "Reading the derivative on a graph", Figure 1; Practice Q6(c))*
 
 ## Skills
 

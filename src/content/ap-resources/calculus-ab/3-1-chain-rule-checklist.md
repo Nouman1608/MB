@@ -47,6 +47,6 @@ Work through the list without notes or a calculator. If you cannot do a statemen
 
 - I can decide which rule is the outer structure by asking which operation is done last. *(Guide: Worked example 3, "Order of operations")*
 - I can find and correct a missing or wrong factor in someone else's chain-rule answer. *(Guide: "Common misconceptions"; Practice Q5(b))*
-- I can tell sin²x apart from sin(x²), and [g(x)]² apart from g(x²), and differentiate each correctly. *(Revision notes: "Mistakes to avoid"; Practice Q6)*
+- I can tell sin²x apart from sin(x²), and a power of a function such as [f(x)]³ apart from a function of a power such as g(x²), and differentiate each correctly. *(Revision notes: "Mistakes to avoid"; Practice Q6(a), Q6(b))*
 
 All ticked? Move on to Topic 3.2, [Implicit Differentiation](/advanced-course-resources/calculus-ab/3-2-implicit-differentiation-study-guide/), or return to the [Calculus AB roadmap](/advanced-course-resources/calculus-ab/#roadmap) or the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

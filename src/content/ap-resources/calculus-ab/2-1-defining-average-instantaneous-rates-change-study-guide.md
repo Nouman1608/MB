@@ -193,7 +193,7 @@ Four points to hold on to:
 
 **Answer.** (a) 0.25 m/s. (b) r′(4) = **1/3 m/s**, about 0.333 m/s.
 
-**Check.** √9.02 ≈ 3.003331, so (r(4.01) − 3)/0.01 ≈ 0.3331. That is close to 1/3.
+**Check (with a calculator, not part of the method).** √9.02 ≈ 3.003331, so (r(4.01) − 3)/0.01 ≈ 0.3331. That is close to 1/3.
 
 **Interpretation.** At t = 4 seconds, the ripple's radius is growing at 1/3 metre per second. Over the longer interval [4, 12] it grew more slowly on average (0.25 m/s), because the growth slows down as time passes.
 

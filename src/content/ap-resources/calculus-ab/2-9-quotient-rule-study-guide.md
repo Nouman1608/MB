@@ -9,7 +9,7 @@ resourceType: "study-guide"
 calculusScope: "ab-and-bc"
 prerequisites:
   - "The power rule, constant multiple, sum and difference rules (Topics 2.5 and 2.6)"
-  - "Derivatives of sin x, cos x, eˣ and ln x (Topics 2.6 and 2.7)"
+  - "Derivatives of sin x, cos x, eˣ and ln x (Topic 2.7)"
   - "The product rule (Topic 2.8)"
   - "Simplifying algebraic fractions and negative exponents"
 prerequisiteResources: ["mb-ap-calcab-2.8-study-guide"]
@@ -131,7 +131,7 @@ Now the power rule gives
 
 So k′(4) = 8 + 2/8 = 8 + 1/4 = **33/4**. The quotient rule gives the same answer, but with more algebra to simplify.
 
-**Trig, exponential and log quotients** need the quotient rule. For example,
+**Trig, exponential and log quotients** usually call for the quotient rule. For example,
 
 **d/dx [(sin x)/x] = [x cos x − sin x] / x²**, for x ≠ 0.
 

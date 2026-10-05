@@ -111,7 +111,7 @@ At which x-values does the graph of y = x³ have a tangent line with slope 12?
 
 - (A) forgets the negative square root. 3(−2)² = 12 as well.
 - (C) sets the function, x³, equal to 12 instead of the derivative.
-- (D) uses 3x as the derivative (bringing the 3 down but not keeping x²), then solves 3x = 12.
+- (D) uses 3x as the derivative (bringing the 3 down but lowering the exponent by 2 instead of 1), then solves 3x = 12.
 </details>
 
 ## Question 5 (constructed response · core)

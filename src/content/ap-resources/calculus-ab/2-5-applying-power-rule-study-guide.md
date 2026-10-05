@@ -195,8 +195,8 @@ dy/dx = **4x³**, for x ≠ 0.
 <line x1="153.3" y1="290" x2="480" y2="38" stroke="#1d2b44" stroke-width="2" stroke-dasharray="8 5"/>
 <circle cx="340" cy="146" r="5.5" fill="#1d2b44"/>
 <text x="352" y="170" font-size="13" fill="#1d2b44">(4, 8): slope = f′(4) = 3</text>
-<text x="300" y="60" font-size="13" fill="#1d2b44">solid curve: y = x^(3/2)</text>
-<text x="300" y="78" font-size="13" fill="#1d2b44">dashed line: y = 3x − 4</text>
+<text x="78" y="40" font-size="13" fill="#1d2b44">solid curve: y = x^(3/2)</text>
+<text x="78" y="58" font-size="13" fill="#1d2b44">dashed line: y = 3x − 4</text>
 </svg>
 <figcaption>Figure 1. The solid curve is y = x^(3/2). The dashed tangent line at (4, 8) has slope f′(4) = 3, found with the power rule. The tangent stays just below the curve on both sides of the point of contact. Axes are unitless.</figcaption>
 </figure>

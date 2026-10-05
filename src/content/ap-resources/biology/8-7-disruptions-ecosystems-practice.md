@@ -120,7 +120,7 @@ What is the expected concentration in the seal?
 
 - (A) adds the factors instead of multiplying: 0.05 × 8 × 3 = 1.2.
 - (B) uses only two steps (0.05 × 8² = 3.2): this is the large fish.
-- (D) uses four steps (0.05 × 8⁴ = 204.8), counting the zooplankton as a step.
+- (D) multiplies by 8 four times (0.05 × 8⁴ = 204.8). It counts the four organisms as four steps, but there are only three steps between them.
 </details>
 
 ## Question 5 (data analysis · core)

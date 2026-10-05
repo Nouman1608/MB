@@ -231,7 +231,7 @@ Calculate mean ± 2 SE for each group and decide whether removing Y changed the 
 - **"A community is all the living and non-living things in an area."** That is an *ecosystem*. A community is only the interacting populations of different species.
 - **"More species always means a higher diversity index."** Evenness matters too. Five species with one dominant can score lower than three species in equal numbers.
 - **"Simpson's index: 1 − Σ(n/N), without squaring."** Without squaring, Σ(n/N) is always 1, so the index would always be 0.
-- **"Predators keep prey numbers low all the time."** Predator and prey numbers rise and fall together in a cycle, with the predator peak lagging behind the prey peak.
+- **"Predators keep prey numbers low all the time."** Prey numbers rise and fall in a repeating cycle, and predator numbers follow the same cycle, with the predator peak lagging behind the prey peak.
 - **"Commensalism and mutualism are the same."** In mutualism both species gain (+/+). In commensalism only one gains; the other is unaffected (+/0).
 - **"Parasites always kill their host."** Most parasites feed on a living host for a long time; killing it quickly would end their food supply.
 - **"Competition only happens between different species."** Members of the same species compete too (that was density dependence in Topic 8.4). This topic focuses on competition between species.

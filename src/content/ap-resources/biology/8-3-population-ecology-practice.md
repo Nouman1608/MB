@@ -51,7 +51,7 @@ Which of the following is a population?
 **Answer: (A).** A population is one species in one area at one time, whose members can interact and breed with each other. The trout in one lake meet all three conditions.
 
 - (B) contains many species. That is part of a community, not a population.
-- (C) is one species, but spread over a continent. Trout in separate rivers cannot interact or interbreed, so this is a set of many populations.
+- (C) is one species, but spread over a continent. Trout in rivers and lakes far apart rarely or never meet or interbreed, so this is a set of many populations.
 - (D) includes two species, linked by feeding. That is a feeding relationship within a community.
 </details>
 

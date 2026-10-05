@@ -131,7 +131,7 @@ A second useful graph plots the **growth rate** against **population size**. For
 <figure>
 <svg viewBox="0 0 520 330" role="img" aria-labelledby="rate-title rate-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="rate-title">Population growth rate against population size</title>
-<desc id="rate-desc">Graph of dN/dt in individuals per year, from minus 40 to 160, against population size N from 0 to 600. A dotted horizontal line marks dN/dt equals zero. A dashed straight line labelled exponential rises from the origin to 150 at N equals 250. A solid hump-shaped curve labelled logistic rises from 0 at N equals 0 to a peak of 75 at N equals 250, falls to 0 at N equals 500, and goes below zero, reaching minus 33 at N equals 550. Circles mark the points at N equals 50, 250, 450 and 550 used in Worked example 1.</desc>
+<desc id="rate-desc">Graph of dN/dt in individuals per year, from minus 40 to 160, against population size N from 0 to 600. A dotted horizontal line marks dN/dt equals zero. A dashed straight line labelled exponential rises from the origin to 150 at N equals 250. A solid hump-shaped curve labelled logistic rises from 0 at N equals 0 to a peak of 75 at N equals 250, falls to 0 at N equals 500, and goes below zero, passing minus 33 at N equals 550 and continuing downward. Circles mark the points at N equals 50, 250, 450 and 550 used in Worked example 1.</desc>
 <rect x="0" y="0" width="520" height="330" fill="#ffffff"/>
 <line x1="70" y1="290" x2="440" y2="290" stroke="#1d2b44" stroke-width="2"/>
 <line x1="70" y1="290" x2="70" y2="20" stroke="#1d2b44" stroke-width="2"/>

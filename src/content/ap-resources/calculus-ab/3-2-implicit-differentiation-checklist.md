@@ -37,7 +37,7 @@ Work through the list without notes or a calculator. If you cannot do a statemen
 
 ## Skills
 
-- I can differentiate y terms such as yⁿ, sin y, e^y and ln y with respect to x. *(Guide: rewriting table; Practice Q1, Q4)*
+- I can differentiate y terms such as yⁿ, sin y, e^y and ln y with respect to x. *(Guide: table in "The key idea"; Practice Q1, Q4)*
 - I can use the product rule on terms such as xy and x²y, keeping both terms. *(Guide: Worked example 1; Practice Q2, Q5)*
 - I can collect the dy/dx terms, factor and divide to make dy/dx the subject. *(Guide: "The method in five steps"; Practice Q5(b), Q6(a))*
 - I can check a point is on the curve, evaluate dy/dx with both coordinates and write the tangent line. *(Guide: Worked examples 1 and 3; Practice Q5(c), Q7(b))*
@@ -45,7 +45,7 @@ Work through the list without notes or a calculator. If you cannot do a statemen
 
 ## Reasoning
 
-- I can reject a candidate point that is not on the curve, or where both parts of dy/dx are 0. *(Guide: "Horizontal and vertical tangent lines"; Practice Q3)*
+- I can reject a candidate point that is not on the curve, or one where the denominator of dy/dx is 0 instead of the numerator. *(Guide: "Horizontal and vertical tangent lines"; Practice Q3)*
 - I can argue from the sign of each term that a denominator is never 0, so there is no vertical tangent. *(Practice Q7(c))*
 - I can spot a missing dy/dx, a missing product-rule term or a constant wrongly differentiated in someone else's work. *(Guide: "Common misconceptions"; Practice Q2)*
 

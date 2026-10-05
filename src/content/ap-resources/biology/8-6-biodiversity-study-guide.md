@@ -92,7 +92,7 @@ Ecosystems with **few component parts**, and with **little diversity among those
 <text x="20" y="175" text-anchor="middle" font-size="14" fill="#1d2b44" transform="rotate(-90 20 175)">Plant biomass / g m⁻²</text>
 <polyline points="120,100 260,225 400,170" fill="none" stroke="#1d2b44" stroke-width="3"/>
 <polyline points="120,90 260,170 400,100" fill="none" stroke="#1d2b44" stroke-width="3" stroke-dasharray="9 6"/>
-<polyline points="120,75 260,130 400,72" fill="none" stroke="#1d2b44" stroke-width="3" stroke-dasharray="2 5"/>
+<polyline points="120,75 260,130 400,72.5" fill="none" stroke="#1d2b44" stroke-width="3" stroke-dasharray="2 5"/>
 <circle cx="120" cy="100" r="5" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <circle cx="260" cy="225" r="5" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <circle cx="400" cy="170" r="5" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
@@ -101,7 +101,7 @@ Ecosystems with **few component parts**, and with **little diversity among those
 <rect x="395" y="95" width="10" height="10" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
 <polygon points="120,68 126,79 114,79" fill="#1d2b44"/>
 <polygon points="260,123 266,134 254,134" fill="#1d2b44"/>
-<polygon points="400,65 406,76 394,76" fill="#1d2b44"/>
+<polygon points="400,65.5 406,76.5 394,76.5" fill="#1d2b44"/>
 <text x="412" y="174" font-size="12" fill="#1d2b44">1 species (solid, ○)</text>
 <text x="412" y="108" font-size="12" fill="#1d2b44">4 species (dashed, □)</text>
 <text x="412" y="70" font-size="12" fill="#1d2b44">16 species (dotted, ▲)</text>

@@ -139,10 +139,10 @@ Adding a constant shifts a graph up or down. A shift moves every point by the sa
 <circle cx="330" cy="212" r="4.5" fill="#1d2b44"/>
 <text x="336" y="250" font-size="12" fill="#1d2b44">+3</text>
 <text x="388" y="266" font-size="12" fill="#1d2b44">slope 2</text>
-<text x="388" y="200" font-size="12" fill="#1d2b44">slope 2</text>
+<text x="318" y="196" font-size="12" fill="#1d2b44" text-anchor="end">slope 2</text>
 <text x="275" y="44" font-size="12" fill="#1d2b44">solid curve: y = x²</text>
 <text x="275" y="62" font-size="12" fill="#1d2b44">long dashes: y = x² + 3</text>
-<text x="275" y="80" font-size="12" fill="#1d2b44">dotted lines: tangents at x = 1</text>
+<text x="275" y="80" font-size="12" fill="#1d2b44">dotted: tangents at x = 1</text>
 </svg>
 <figcaption>Figure 1. Adding 3 lifts the whole parabola by 3 units. At x = 1 the points (1, 1) and (1, 4) have parallel tangent lines, both with slope 2. The same is true at every x, so y = x² and y = x² + 3 have the same derivative, 2x. Axes are unitless.</figcaption>
 </figure>

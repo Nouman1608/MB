@@ -151,7 +151,7 @@ Population data are usually counts at different times, so the natural choice is 
 <figure>
 <svg viewBox="0 0 640 330" role="img" aria-labelledby="yeast-title yeast-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="yeast-title">The same yeast growth data on a linear scale and on a log scale</title>
-<desc id="yeast-desc">Two graphs side by side, both with time in hours from 0 to 10 on the horizontal axis. Panel A, linear scale: cell density from 0 to 35 thousand-tens of cells per millilitre. Points at 1.0, 2.1, 4.0, 8.2, 15.9 and 32.3 lie on a curve that is almost flat at first and then rises steeply, a J shape. Panel B, log scale: cell density from 1 to 100 with marks at 1, 2, 5, 10, 20, 50, 100. The same points lie close to a straight line. Small vertical error bars show the range of three replicate flasks at each time.</desc>
+<desc id="yeast-desc">Two graphs side by side, both with time in hours from 0 to 10 on the horizontal axis. Panel A, linear scale: cell density from 0 to 35, in units of 10 to the power 4 cells per millilitre. Points at 1.0, 2.1, 4.0, 8.2, 15.9 and 32.3 lie on a curve that is almost flat at first and then rises steeply, a J shape. Panel B, log scale: cell density from 1 to 100 with marks at 1, 2, 5, 10, 20, 50, 100. The same points, drawn as squares, lie close to a dashed straight line. In panel B, small vertical error bars show the range of three replicate flasks at each time.</desc>
 <rect x="0" y="0" width="640" height="330" fill="#ffffff"/>
 <text x="170" y="30" text-anchor="middle" font-size="14" font-weight="600" fill="#1d2b44">A. Linear scale (J-shaped)</text>
 <line x1="60" y1="270" x2="290" y2="270" stroke="#1d2b44" stroke-width="2"/>
@@ -206,7 +206,7 @@ Population data are usually counts at different times, so the natural choice is 
 <rect x="595.5" y="114.6" width="9" height="9" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
 <text x="320" y="318" text-anchor="middle" font-size="14" fill="#1d2b44">Time / h (both graphs)</text>
 <text x="18" y="160" text-anchor="middle" font-size="13" fill="#1d2b44" transform="rotate(-90 18 160)">Cell density / 10⁴ cells mL⁻¹</text>
-<text x="338" y="165" text-anchor="middle" font-size="13" fill="#1d2b44" transform="rotate(-90 338 165)">Cell density (log scale)</text>
+<text x="338" y="165" text-anchor="middle" font-size="13" fill="#1d2b44" transform="rotate(-90 338 165)">Cell density / 10⁴ cells mL⁻¹ (log)</text>
 </svg>
 <figcaption>Figure 2. Fictional yeast data from Worked example 2. Panel A (circles, solid line) shows the J shape on a linear axis. Panel B (squares, dashed trend line) shows the same means on a log axis, where steady doubling gives a straight line. Vertical bars show the range of three flasks.</figcaption>
 </figure>

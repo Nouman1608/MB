@@ -148,6 +148,8 @@ dy/dx = e^(cos 2x) · (−sin 2x) · 2 = **−2 sin(2x) e^(cos 2x)**
 | 1 | Names the missing factor: the derivative of the innermost function 2x, which is 2 |
 | 1 | Correct derivative −2 sin(2x) e^(cos 2x) (any equivalent form) |
 | 1 | dy/dx = −2 at x = π/4, with cos(π/2) = 0 and sin(π/2) = 1 shown |
+
+Part (a) supports part (b) and is not scored separately.
 </details>
 
 ## Question 6 (constructed response · core)

@@ -52,7 +52,7 @@ Let f(x) = x⁵ + 4x − 1, and let g be the inverse of f. What is g′(4)?
 **Answer: (C).** First find the matching input: f(1) = 1 + 4 − 1 = 4, so g(4) = 1. Then f′(x) = 5x⁴ + 4, so f′(1) = 9. The rule gives g′(4) = 1/f′(1) = 1/9.
 
 - (A) is 1/f′(4) = 1/(5 · 256 + 4). It evaluates f′ at the output 4 instead of the matching input 1.
-- (B) squares the slope, as if differentiating 1/f′. The inverse rule is a plain reciprocal.
+- (B) is 1/[f′(1)]² = 1/81. It squares the slope; the inverse rule needs only the plain reciprocal 1/f′(1).
 - (D) is f′(1) itself. It forgets to take the reciprocal.
 </details>
 

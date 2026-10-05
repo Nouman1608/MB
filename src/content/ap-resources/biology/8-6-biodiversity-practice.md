@@ -196,7 +196,7 @@ On a large island with no large predators, a deer-like herbivore had grazed so h
 <details>
 <summary>Model answer and suggested Marlbridge rubric</summary>
 
-**(a)** Herbivores: (22 − 40) ÷ 40 × 100 = **−45%**. Saplings: (1900 − 150) ÷ 150 × 100 = **+1170%** (about 12.7 times as many). Plant species: (23 − 12) ÷ 12 × 100 = **+91.7%** (about +92%).
+**(a)** Herbivores: (22 − 40) ÷ 40 × 100 = **−45%**. Saplings: (1900 − 150) ÷ 150 × 100 = **+1167%** (about 12.7 times as many). Plant species: (23 − 12) ÷ 12 × 100 = **+91.7%** (about +92%).
 
 **(b)** The predator eats herbivores, so herbivore numbers fall. Fewer herbivores eat fewer saplings and small plants, so more survive and grow. More kinds of plant can establish, so plant diversity rises. The predator affects the plants indirectly, through the herbivores.
 

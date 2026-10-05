@@ -121,7 +121,7 @@ because cos x · sec x = 1 and sin x · sec x = tan x. Getting the same answer t
 
 ## Reading the derivative on a graph
 
-The derivative of tan x is sec²x = 1/cos²x. Since 0 < cos²x ≤ 1 wherever tan x is defined, **sec²x ≥ 1**. So the graph of y = tan x always rises, and its slope is never less than 1. The slope is exactly 1 at x = 0, where cos²x = 1, and grows without bound near the asymptotes.
+The derivative of tan x is sec²x = 1/cos²x. Since 0 < cos²x ≤ 1 wherever tan x is defined, **sec²x ≥ 1**. So the graph of y = tan x rises on every interval where it is defined, such as (−π/2, π/2), and its slope is never less than 1. The slope is exactly 1 at x = 0, where cos²x = 1, and grows without bound near the asymptotes.
 
 <figure>
 <svg viewBox="0 0 520 320" role="img" aria-labelledby="tan-title tan-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -148,14 +148,14 @@ The derivative of tan x is sec²x = 1/cos²x. Since 0 < cos²x ≤ 1 wherever ta
 <line x1="102.8" y1="198.9" x2="417.2" y2="111.1" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="2 4"/>
 <line x1="203.8" y1="205.6" x2="450" y2="68.2" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="8 4 2 4"/>
 <circle cx="355" cy="121.3" r="5" fill="#1d2b44"/>
-<circle cx="260" cy="155" r="4" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="260" cy="155" r="4" fill="#1d2b44"/>
 <text x="300" y="185" font-size="12" fill="#1d2b44">dotted: slope 1 at x = 0</text>
 <text x="368" y="138" font-size="12" fill="#1d2b44">(π/4, 1)</text>
 <text x="300" y="62" font-size="12" fill="#1d2b44">dash-dot: slope 2</text>
 <text x="80" y="40" font-size="12" fill="#1d2b44">x = −π/2</text>
 <text x="380" y="300" font-size="12" fill="#1d2b44">x = π/2</text>
 </svg>
-<figcaption>Figure 1. y = tan x on (−π/2, π/2). At x = 0 the slope is sec²0 = 1 (dotted line, y = x). At x = π/4 the slope is sec²(π/4) = (√2)² = 2 (dash-dot line through the solid dot). The slope is never below 1 and grows near the dashed asymptotes. Axes are unitless; x is in radians.</figcaption>
+<figcaption>Figure 1. y = tan x on (−π/2, π/2). At x = 0 the slope is sec²0 = 1 (dotted line, y = x). At x = π/4 the slope is sec²(π/4) = (√2)² = 2 (dash-dot line through the dot at (π/4, 1)). The slope is never below 1 and grows near the dashed asymptotes. Axes are unitless; x is in radians.</figcaption>
 </figure>
 
 ## Worked example 1: deriving d/dx cot x and using it
@@ -177,7 +177,7 @@ The derivative of tan x is sec²x = 1/cos²x. Since 0 < cos²x ≤ 1 wherever ta
 2. **Find the slope.** csc(π/6) = 1/sin(π/6) = 2, so the slope is −csc²(π/6) = −4.
 3. **Write the line.** **y = √3 − 4(x − π/6)**.
 
-**Check.** The slope is negative. That fits: −csc²x < 0 everywhere cot x is defined, so cot x is always falling.
+**Check.** The slope is negative. That fits: −csc²x < 0 everywhere cot x is defined, so cot x falls on every interval where it is defined.
 
 ## Worked example 2: a product with tan x
 

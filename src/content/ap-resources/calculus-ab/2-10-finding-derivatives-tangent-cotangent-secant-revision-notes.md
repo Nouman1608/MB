@@ -40,7 +40,7 @@ Notation: sec²x means (sec x)². Angles are in radians.
 - The Pythagorean identity sin²x + cos²x = 1 tidies the numerator for tan and cot.
 - The "co" functions (cot, csc) get a minus sign, just as cos x does.
 - Each derivative exists exactly where the original function is defined.
-- sec²x ≥ 1, so tan x is always increasing, with slope at least 1. −csc²x ≤ −1, so cot x is always decreasing.
+- sec²x ≥ 1, so tan x is increasing on each interval of its domain, with slope at least 1. −csc²x ≤ −1, so cot x is decreasing on each interval of its domain.
 
 ## Key relationships
 

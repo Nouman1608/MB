@@ -219,7 +219,7 @@ The f(a) terms cancel, leaving the symmetric quotient.
 
 Average of 0.8 and 0.2 is 0.5, as (a) predicts.
 
-**(c)** The student's interval [0, 2] is four times as wide. Over it, the gradient of k changes a great deal: the secant gradients on the four half-unit intervals are 1.6, 0.8, 0.2 and −0.4. A wide interval averages these very different rates, so it can be far from the rate at the single point x = 1. The closest data either side of 1 give the better estimate.
+**(c)** The student's interval [0, 2] has width 2: twice the width of [0.5, 1.5] used in (b), and four times the step of 0.5. Over it, the gradient of k changes a great deal: the secant gradients on the four half-unit intervals are 1.6, 0.8, 0.2 and −0.4. A wide interval averages these very different rates, so it can be far from the rate at the single point x = 1. The closest data either side of 1 give the better estimate.
 
 **(d)** k′(1.75) ≈ (k(2.0) − k(1.5))/(2.0 − 1.5) = (4.1 − 4.3)/0.5 = **−0.4**. The negative sign suggests k is decreasing near x = 1.75.
 

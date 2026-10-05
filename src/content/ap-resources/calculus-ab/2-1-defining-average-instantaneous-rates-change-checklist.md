@@ -32,13 +32,13 @@ Work through the list without notes or a calculator. If you cannot do a statemen
 ## Understanding
 
 - I can explain the difference between an average rate of change over an interval and an instantaneous rate of change at a point. *(Guide: "Representations"; Practice Q4, Q6(d))*
-- I can explain why (f(a + h) − f(a))/h and (f(x) − f(a))/(x − a) give the same number when x = a + h. *(Guide: "Two difference quotients" and Figure 1)*
+- I can explain why (f(a + h) − f(a))/h and (f(x) − f(a))/(x − a) give the same number when x = a + h. *(Guide: "Average rate of change: two difference quotients" and Figure 1)*
 - I can state the definition of f′(a) in both limit forms, including "provided the limit exists". *(Guide: "The derivative at a point")*
 - I can explain the difference between f(a) and f′(a). *(Guide: "Common misconceptions"; Practice Q2, Q4)*
 
 ## Skills
 
-- I can evaluate an average rate of change with either difference quotient, including on an interval to the left of a. *(Guide: Worked example 1; Practice Q5(a), Q6(a))*
+- I can evaluate an average rate of change with either difference quotient, including with a negative h (an interval to the left of a). *(Guide: Worked example 1; Practice Q5(a), Q6(a), Q7(b))*
 - I can write f(a + h) correctly for a polynomial or a rational function and simplify the difference quotient. *(Guide: Worked example 1; Practice Q1, Q5(b))*
 - I can find f′(a) exactly from the h-form, cancelling h only after noting h ≠ 0. *(Guide: Worked example 1; Practice Q5(c), Q6(b))*
 - I can find f′(a) from the x-form by factoring or by using a conjugate. *(Guide: Worked example 2; Practice Q5(d))*

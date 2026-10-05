@@ -209,7 +209,7 @@ Two checks: the **whole** inner function is squared (not just x), and the deriva
 ## Common misconceptions
 
 - **Reading sin⁻¹ x as 1/sin x.** That is csc x, whose derivative is −csc x cot x. arcsin is a different function.
-- **Mixing up the formulas.** arcsin and arccos have a square root; arctan does not. Ask: "Is there a square root in this one?" Only the sine and cosine versions have one.
+- **Mixing up the formulas.** arcsin and arccos have a square root; arctan does not. Ask: "Is there a square root in this one?" Of these three, only the sine and cosine versions have one.
 - **Forgetting the minus sign for arccos.** arccos decreases, so its derivative is negative.
 - **Dropping the chain rule.** d/dx arctan(5x) is 5/(1 + 25x²), not 1/(1 + 25x²).
 - **Squaring only part of the inner function.** For arcsin(2x), the denominator is √(1 − 4x²), not √(1 − 2x²).
