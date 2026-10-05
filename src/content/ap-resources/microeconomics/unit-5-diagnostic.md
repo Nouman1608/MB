@@ -45,19 +45,19 @@ Allow about 30 minutes and work without notes. Write down every answer before yo
 
 Which statement about factor markets is correct?
 
-- (A) Households sell the services of labour, capital and land, and the payment for the use of capital is interest.
-- (B) Firms sell labour services to households, and households pay firms wages.
-- (C) The quantity of labour demanded rises as the wage rises, because better-paid workers are more productive.
-- (D) A firm's demand for workers depends on how productive they are, but not on the price of the output they make.
+- (A) Firms sell labour services to households, and households pay firms wages.
+- (B) The quantity of labour demanded rises as the wage rises, because better-paid workers are more productive.
+- (C) A firm's demand for workers depends on how productive they are, but not on the price of the output they make.
+- (D) Households sell the services of labour, capital and land, and the payment for the use of capital is interest.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Households sell factor services and firms buy them. Labour earns wages, capital interest and land rent.
+**Answer: (D).** Households sell factor services and firms buy them. Labour earns wages, capital interest and land rent.
 
-- (B) uses product-market roles. In a factor market the roles are reversed.
-- (C) gets the slope wrong. Quantity demanded **falls** as the wage rises, because MRP falls as more workers are hired.
-- (D) forgets derived demand. The output price turns each worker's extra output into revenue, so it matters as much as productivity.
+- (A) uses product-market roles. In a factor market the roles are reversed.
+- (B) gets the slope wrong. Quantity demanded **falls** as the wage rises, because MRP falls as more workers are hired.
+- (C) forgets derived demand. The output price turns each worker's extra output into revenue, so it matters as much as productivity.
 
 **If you missed this:** read "Two kinds of market", "Factors and their prices" and "Derived demand" in the [Topic 5.1 study guide](/advanced-course-resources/microeconomics/5-1-introduction-factor-markets-study-guide/).
 </details>
@@ -185,19 +185,19 @@ A firm hires workers at **$20 a day** and rents machines at **$50 a day**, both 
 
 Which labour market is a monopsony, and how does the employer's marginal resource cost (MRC) compare with the wage?
 
-- (A) A remote mining town where one company employs almost every worker and moving away is costly; MRC is above the wage.
-- (B) A remote mining town where one company employs almost every worker and moving away is costly; MRC equals the wage.
-- (C) A town with one electricity company that sells to every household; MRC is above the wage.
-- (D) A city with hundreds of cafés hiring baristas at the going wage; MRC equals the wage.
+- (A) A city with hundreds of cafés hiring baristas at the going wage; MRC equals the wage.
+- (B) A town with one electricity company that sells to every household; MRC is above the wage.
+- (C) A remote mining town where one company employs almost every worker and moving away is costly; MRC equals the wage.
+- (D) A remote mining town where one company employs almost every worker and moving away is costly; MRC is above the wage.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** A monopsony is a single (or dominant) **buyer** of labour whose workers have few alternatives. To hire one more worker it must raise everyone's wage, so MRC is above the wage.
+**Answer: (D).** A monopsony is a single (or dominant) **buyer** of labour whose workers have few alternatives. To hire one more worker it must raise everyone's wage, so MRC is above the wage.
 
-- (B) names the right market but gives the wage taker's MRC.
-- (C) describes a single **seller**: a monopoly in an output market.
-- (D) is a perfectly competitive labour market, not a monopsony.
+- (A) is a perfectly competitive labour market, not a monopsony.
+- (B) describes a single **seller**: a monopoly in an output market.
+- (C) names the right market but gives the wage taker's MRC.
 
 **If you missed this:** read "What a monopsony is" and "Why MRC is above the wage" in the [Topic 5.4 study guide](/advanced-course-resources/microeconomics/5-4-monopsonistic-markets-study-guide/).
 </details>

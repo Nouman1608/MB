@@ -36,13 +36,13 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-Use this review after studying all five topics or taking the [Unit 6 diagnostic](/advanced-course-resources/microeconomics/unit-6-diagnostic/). Try the seven questions without notes.
+Use this review after studying all five topics or taking the [Unit 6 diagnostic](/advanced-course-resources/microeconomics/unit-6-diagnostic/).
 
 ## Big ideas of the unit
 
 - **The benchmark is MSB = MSC**, where total surplus is largest. A competitive market reaches it only when buyers and sellers bear all the benefits and costs. ([Topic 6.1](/advanced-course-resources/microeconomics/6-1-socially-efficient-inefficient-market-outcomes-study-guide/))
 - **Rational choices can still be inefficient.** Market power stops output where P > MC, and people weigh private, not social, benefits and costs.
-- **Too much and too little both cost surplus.** Deadweight loss is the triangle between MSB and MSC, pointing to where they meet.
+- **Too much and too little both cost surplus.** Deadweight loss is the triangle between MSB and MSC.
 - **Externalities split private and social curves.** They arise when property rights are unclear or bargaining is too costly. ([Topic 6.2](/advanced-course-resources/microeconomics/6-2-externalities-study-guide/))
 - **Excludability decides whether people can free ride.** Public goods are underprovided; open-access resources are overused. ([Topic 6.3](/advanced-course-resources/microeconomics/6-3-public-private-goods-study-guide/))
 - **Ask what a policy does to MC or MR.** Per-unit taxes and subsidies move output; lump-sum ones change only profit. A ceiling can raise a monopoly's output, and a minimum wage a monopsony's employment. ([Topic 6.4](/advanced-course-resources/microeconomics/6-4-effects-government-intervention-different-market-study-guide/))
@@ -69,36 +69,36 @@ These are **original Marlbridge practice questions**, not past exam questions. T
 
 Which policy is correctly matched with the market failure it corrects?
 
-- (A) A natural monopoly regulated at P = MC: a lump-sum subsidy equal to its loss
+- (A) A monopoly that restricts output: a binding price floor above its current price
 - (B) An underprovided public good: a per-unit tax on each person who uses it
 - (C) An overused open-access fishery: a per-unit subsidy on each tonne of fish caught
-- (D) A monopoly that restricts output: a binding price floor above its current price
+- (D) A natural monopoly regulated at P = MC: a lump-sum subsidy equal to its loss
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** At P = MC the price is below ATC, so the firm makes a loss. A lump-sum subsidy covers it without changing MC, so output stays efficient.
+**Answer: (D).** At P = MC the price is below ATC, so the firm makes a loss. A lump-sum subsidy covers it without changing MC, so output stays efficient.
 
+- (A) Buyers take fewer units at a higher price, so output falls further below the efficient quantity.
 - (B) Use of a non-excludable good cannot be charged, and a tax on use would cut use further. Provision funded by general taxes fixes free riding.
 - (C) A subsidy makes fishing cheaper, so overuse gets worse. A fee or quota makes users face the cost they impose on others.
-- (D) Buyers take fewer units at a higher price, so output falls further below the efficient quantity.
 </details>
 
 ## Question 2 (multiple choice · mixed)
 
 In a fictional economy, every market produces where MSB = MSC, and the Gini coefficient for income is 0.45. Which statement is correct?
 
-- (A) The economy has no deadweight loss, but income can still be shared unequally, because efficiency concerns the size of total surplus, not its distribution.
-- (B) A Gini coefficient of 0.45 proves that some markets have deadweight loss.
+- (A) A Gini coefficient of 0.45 proves that some markets have deadweight loss.
+- (B) The economy has no deadweight loss, but income can still be shared unequally, because efficiency concerns the size of total surplus, not its distribution.
 - (C) If every market is efficient, the Lorenz curve must lie on the line of equality.
 - (D) If factors are paid the value of their marginal product, every household earns the same income.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Efficiency and equity are separate questions. An efficient economy can still have a Lorenz curve far below the line of equality.
+**Answer: (B).** Efficiency and equity are separate questions. An efficient economy can still have a Lorenz curve far below the line of equality.
 
-- (B) and (C) treat inequality as a sign of inefficiency. The Gini coefficient describes shares, not wasted surplus.
+- (A) and (C) treat inequality as a sign of inefficiency. The Gini coefficient describes shares, not wasted surplus.
 - (D) Marginal products differ, and people own different amounts of capital and land, so paying each factor its value creates income differences.
 </details>
 
@@ -106,18 +106,18 @@ In a fictional economy, every market produces where MSB = MSC, and the Gini coef
 
 Kestrel Hills is a free, unfenced park (fictional). On summer weekends each extra walker crowds the trails and wears the paths. A charity wants to fund, from voluntary donations, a wildfire watchtower that would protect every village around the park. Which statement is correct?
 
-- (A) The crowded trails act as an open-access resource and are overused; the watchtower is a public good, and donations are likely to fall short because villagers can free ride.
+- (A) The trails are a public good and are underused; the watchtower is an open-access resource and will be overbuilt.
 - (B) Both are public goods, so both are underprovided because of free riding.
-- (C) The trails are a public good and are underused; the watchtower is an open-access resource and will be overbuilt.
+- (C) The crowded trails act as an open-access resource and are overused; the watchtower is a public good, and donations are likely to fall short because villagers can free ride.
 - (D) The trails are a private good because the government owns the park; the watchtower is a private good because donors pay for it.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** At busy times the trails are rival and non-excludable, so each walker ignores the cost imposed on others. The watchtower's protection is non-rival and non-excludable, so each village hopes others will pay.
+**Answer: (C).** At busy times the trails are rival and non-excludable, so each walker ignores the cost imposed on others. The watchtower's protection is non-rival and non-excludable, so each village hopes others will pay.
 
+- (A) swaps the two goods.
 - (B) misses that crowded trails are **rival**, which turns underprovision into overuse.
-- (C) swaps the two goods.
 - (D) classifies by owner or payer, not by rivalry and excludability.
 </details>
 
@@ -144,7 +144,7 @@ Demand: P = 120 − 2Q (no external benefit). Supply: MPC = 20 + 2Q.
 
 **(d)** Sellers face 40 + 2Q, so **Q = 20 thousand**. Buyers pay **$80**; sellers keep **$60**. Revenue = 20 × 20 = **$400 thousand**. Buyers pay $10 more and sellers keep $10 less: the burden is **shared equally**.
 
-**(e)** Sellers face 50 + 2Q, so **Q = 17.5 thousand**, below the optimum. There MSB = 85 and MSC = 75, so DWL = ½ × 2.5 × 10 = **$12.5 thousand**. The lost tonnes were worth more than their full social cost, so the bigger tax overcorrects.
+**(e)** Sellers face 50 + 2Q, so **Q = 17.5 thousand**, below the optimum. There MSB = 85 and MSC = 75, so DWL = ½ × 2.5 × 10 = **$12.5 thousand**: the bigger tax overcorrects.
 
 | Point | What earns it |
 |---|---|
@@ -175,7 +175,7 @@ Tallis Gas (fictional) is a natural monopoly. Demand is P = 80 − Q, so MR = 80
 
 **(c)** **Q = 60**, P = $20. ATC ≈ $33.33, so the loss = (33.33 − 20) × 60 = **$800 thousand**, the whole fixed cost. The government must pay a **lump-sum** subsidy of $800 thousand; a per-unit subsidy would lower MC and push output past 60.
 
-**(d)** Moving from fair return to P = MC removes **$200 thousand** of DWL, but raising $800 thousand costs 0.30 × 800 = **$240 thousand**. Net change = **−$40 thousand**, so the **fair-return price** is better here. Removing all the DWL is not always worth its cost.
+**(d)** Moving from fair return to P = MC removes **$200 thousand** of DWL, but raising $800 thousand costs 0.30 × 800 = **$240 thousand**. Net change = **−$40 thousand**, so the **fair-return price** is better here.
 
 | Point | What earns it |
 |---|---|
@@ -252,7 +252,7 @@ Rowan Quarry (fictional) is the only employer in a remote town. L is hundreds of
 
 **(c)** At $14, MRC is flat at $14 up to the 16 hundred willing to work, and MRP = 14 at L = 16. Employment = **16 hundred**: wage and employment both rise. At $16, the quarry hires until MRP = 16: **L = 14 hundred**. But 20 hundred want work at $16, so **6 hundred** cannot get it.
 
-**(d)** **Bargaining power**: with one employer, workers have nowhere else to go, so the quarry pays $12 although the last worker adds $18. **Mobility**: in a remote town, workers cannot easily move to better-paid jobs. A **union** bargains for all workers at once, so it can set a wage floor that, like the $14 minimum, raises both pay and employment.
+**(d)** **Bargaining power**: with one employer, workers have nowhere else to go, so the quarry pays $12 although the last worker adds $18. **Mobility**: remote workers cannot easily move to better-paid jobs. A **union** bargains for all workers at once, so it can set a wage floor that, like the $14 minimum, raises both pay and employment.
 
 | Point | What earns it |
 |---|---|
@@ -269,7 +269,7 @@ Total: 7 points.
 
 ## How did you do?
 
-Questions 1 to 3 are worth 1 point each and Questions 4 to 7 are worth 5, 6, 6 and 7: 27 in all. Check **which ideas** cost you points.
+Questions 1 to 3 are worth 1 point each and Questions 4 to 7 are worth 5, 6, 6 and 7: 27 in all.
 
 - **MSB = MSC, deadweight loss and cost-benefit tests (Q2, Q4, Q5):** the [Topic 6.1 checklist](/advanced-course-resources/microeconomics/6-1-socially-efficient-inefficient-market-outcomes-checklist/).
 - **Externalities and corrective taxes (Q4):** the [Topic 6.2 checklist](/advanced-course-resources/microeconomics/6-2-externalities-checklist/).
@@ -277,4 +277,4 @@ Questions 1 to 3 are worth 1 point each and Questions 4 to 7 are worth 5, 6, 6 a
 - **Policy in different market structures (Q1, Q4, Q5, Q7):** the [Topic 6.4 checklist](/advanced-course-resources/microeconomics/6-4-effects-government-intervention-different-market-checklist/).
 - **Efficiency against equity, and sources of inequality (Q2, Q6, Q7):** the [Topic 6.5 checklist](/advanced-course-resources/microeconomics/6-5-inequality-checklist/).
 
-Not taken the [Unit 6 diagnostic](/advanced-course-resources/microeconomics/unit-6-diagnostic/) yet? It shows which single topic to revisit first.
+Not taken the [Unit 6 diagnostic](/advanced-course-resources/microeconomics/unit-6-diagnostic/) yet? It shows which topic to revisit first.

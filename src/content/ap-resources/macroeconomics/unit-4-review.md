@@ -73,17 +73,17 @@ These are **original Marlbridge practice questions**, not past exam questions. T
 
 Valdoria has limited reserves. The CBV sells government bonds on the open market. Which row shows the short-run effects?
 
-- (A) Money supply falls; nominal interest rate rises; prices of existing bonds fall; the opportunity cost of holding money rises
-- (B) Money supply falls; nominal interest rate rises; prices of existing bonds rise; the opportunity cost of holding money falls
+- (A) Money supply falls; nominal interest rate rises; prices of existing bonds rise; the opportunity cost of holding money falls
+- (B) Money supply falls; nominal interest rate rises; prices of existing bonds fall; the opportunity cost of holding money rises
 - (C) Money supply rises; nominal interest rate falls; prices of existing bonds rise; the opportunity cost of holding money falls
 - (D) Money demand falls; nominal interest rate falls; prices of existing bonds rise; the opportunity cost of holding money rises
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** A sale drains reserves, so MS shifts left and the nominal rate rises. Existing bonds with fixed payments must fall in price to match the higher rate. The rate is the interest given up by holding money, so that cost rises.
+**Answer: (B).** A sale drains reserves, so MS shifts left and the nominal rate rises. Existing bonds with fixed payments must fall in price to match the higher rate. The rate is the interest given up by holding money, so that cost rises.
 
-- (B) Bond prices move opposite to interest rates.
+- (A) Bond prices move opposite to interest rates, and a higher rate makes holding money more costly.
 - (C) describes an open market **purchase**.
 - (D) A bond sale changes the quantity of money, not how much people want to hold.
 </details>
@@ -92,19 +92,19 @@ Valdoria has limited reserves. The CBV sells government bonds on the open market
 
 Valdoria's loanable funds market is in equilibrium at a real interest rate of **3%**. Savers and borrowers both come to expect inflation of **5%** instead of 2%. Nothing else changes. Which is correct for **new** one-year loans?
 
-- (A) The nominal rate rises from 5% to 8%; the equilibrium real rate stays at 3%.
-- (B) The nominal rate stays at 5%; the real rate falls to 0%.
-- (C) The nominal rate rises from 5% to 8%; the real rate rises to 6%.
-- (D) The nominal rate stays at 3%, because the loanable funds market sets it.
+- (A) The nominal rate stays at 5%; the real rate falls to 0%.
+- (B) The nominal rate rises from 5% to 8%; the real rate rises to 6%.
+- (C) The nominal rate stays at 3%, because the loanable funds market sets it.
+- (D) The nominal rate rises from 5% to 8%; the equilibrium real rate stays at 3%.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Both sides decide in real terms, so the loanable funds curves do not move and the real rate stays at 3%. Expected inflation is built into the contract: 3 + 2 = 5% before, 3 + 5 = 8% after.
+**Answer: (D).** Both sides decide in real terms, so the loanable funds curves do not move and the real rate stays at 3%. Expected inflation is built into the contract: 3 + 2 = 5% before, 3 + 5 = 8% after.
 
-- (B) describes an **old** contract when inflation rises unexpectedly. New contracts include the new expectation.
-- (C) adds the 3-point rise in expected inflation to the real rate as well as to the nominal rate.
-- (D) The loanable funds market sets the **real** rate, not the nominal rate.
+- (A) describes an **old** contract when inflation rises unexpectedly. New contracts include the new expectation.
+- (B) adds the 3-point rise in expected inflation to the real rate as well as to the nominal rate.
+- (C) The loanable funds market sets the **real** rate, not the nominal rate.
 </details>
 
 ## Question 3 (constructed response · mixed)

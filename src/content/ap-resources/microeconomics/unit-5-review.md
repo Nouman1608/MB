@@ -66,17 +66,17 @@ These are **original Marlbridge practice questions**, not past exam questions. T
 
 The world price of copper rises. Copper mines sell copper and hire miners in perfectly competitive markets. Which sequence is correct?
 
-- (A) Each mine's MRP curve shifts right, market demand for miners increases, the market wage rises, and each mine hires where its new MRP equals the new wage.
-- (B) Each mine's MRC rises because copper is worth more, so each mine hires fewer miners.
+- (A) Each mine's MRC rises because copper is worth more, so each mine hires fewer miners.
+- (B) Each mine's MRP curve shifts right, market demand for miners increases, the market wage rises, and each mine hires where its new MRP equals the new wage.
 - (C) The supply of miners increases because miners want a share of the higher price, so the market wage falls.
 - (D) Each mine can now set its own wage, because the higher price gives it market power in the labour market.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** A higher copper price raises MRP = MP × P at every quantity (derived demand), so market demand for miners rises and so does the wage. Each mine, still a wage taker, hires where its new MRP meets the new wage.
+**Answer: (B).** A higher copper price raises MRP = MP × P at every quantity (derived demand), so market demand for miners rises and so does the wage. Each mine, still a wage taker, hires where its new MRP meets the new wage.
 
-- (B) confuses revenue with cost: the output price changes MRP, not MRC.
+- (A) confuses revenue with cost: the output price changes MRP, not MRC.
 - (C) puts the change on supply. Miners' willingness to work at each wage has not changed.
 - (D) There are still many employers, so each mine is still a wage taker.
 </details>
@@ -85,19 +85,19 @@ The world price of copper rises. Copper mines sell copper and hire miners in per
 
 Fernvale Dairy is the only employer in an isolated valley. The price of milk rises; nothing else changes. What happens?
 
-- (A) It hires more workers and pays a higher wage, read from the supply curve at the new quantity.
-- (B) It hires more workers at the same wage, because a monopsony sets its own wage.
-- (C) Its MRC curve shifts right, so it hires more workers at a lower wage.
-- (D) Labour supply increases because workers expect higher pay, so the wage falls.
+- (A) It hires more workers at the same wage, because a monopsony sets its own wage.
+- (B) Its MRC curve shifts right, so it hires more workers at a lower wage.
+- (C) Labour supply increases because workers expect higher pay, so the wage falls.
+- (D) It hires more workers and pays a higher wage, read from the supply curve at the new quantity.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** MRP shifts right and meets the unchanged MRC at a larger quantity. More workers along the upward-sloping supply curve need a higher wage.
+**Answer: (D).** MRP shifts right and meets the unchanged MRC at a larger quantity. More workers along the upward-sloping supply curve need a higher wage.
 
-- (B) A monopsony must choose a point **on** the supply curve.
-- (C) The milk price does not change the cost of hiring, so MRC does not move.
-- (D) Workers' willingness to work at each wage has not changed.
+- (A) A monopsony must choose a point **on** the supply curve.
+- (B) The milk price does not change the cost of hiring, so MRC does not move.
+- (C) Workers' willingness to work at each wage has not changed.
 </details>
 
 ## Question 3 (multiple choice · mixed)

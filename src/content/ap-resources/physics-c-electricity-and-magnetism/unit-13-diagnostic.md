@@ -41,18 +41,18 @@ author: "marlbridge-academic-team"
 
 A hemispherical plastic bowl of radius 0.12 m sits with its rim in a horizontal plane. A uniform magnetic field of 0.50 T points vertically upward. What is the size of the magnetic flux through the curved surface of the bowl?
 
-- (A) 2.3 × 10⁻² Wb
-- (B) 4.5 × 10⁻² Wb
-- (C) 0
+- (A) 4.5 × 10⁻² Wb
+- (B) 0
+- (C) 2.3 × 10⁻² Wb
 - (D) 1.1 × 10⁻² Wb
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The bowl and the flat disc across its rim form a closed surface with zero net flux, so the bowl carries the disc's flux: BπR² = (0.50)π(0.12)² = **2.3 × 10⁻² Wb**.
+**Answer: (C).** The bowl and the flat disc across its rim form a closed surface with zero net flux, so the bowl carries the disc's flux: BπR² = (0.50)π(0.12)² = **2.3 × 10⁻² Wb**.
 
-- (B) multiplies B by the curved area, 2πR², ignoring the tilt.
-- (C) applies ∮B·dA = 0 to the bowl, an open surface.
+- (A) multiplies B by the curved area, 2πR², ignoring the tilt.
+- (B) applies ∮B·dA = 0 to the bowl, an open surface.
 - (D) halves the answer, as if the bowl's tilt cost half the flux.
 
 **If you missed this:** read "Closed surfaces: zero net magnetic flux" in the [13.1 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/13-1-magnetic-flux-study-guide/).
@@ -81,21 +81,21 @@ A long straight wire on the page carries a steady current up the page. A square 
 
 ## Question 3 (multiple choice · 13.2)
 
-A long solenoid of radius 0.040 m has a uniform field along its axis that is increasing at 0.60 T/s. Which row gives the size of the induced electric field at 0.020 m and at 0.080 m from the axis?
+A long solenoid of radius 0.040 m has a uniform field along its axis that is increasing steadily. At 0.020 m from the axis, the induced electric field has size E₁. At what distance from the axis, outside the solenoid, is the induced electric field also E₁?
 
-- (A) 6.0 × 10⁻³ V/m at both distances
-- (B) 6.0 × 10⁻³ V/m and zero
-- (C) 6.0 × 10⁻³ V/m and 2.4 × 10⁻² V/m
-- (D) 1.2 × 10⁻² V/m and 6.0 × 10⁻³ V/m
+- (A) 0.060 m
+- (B) 0.080 m
+- (C) Nowhere, because there is no induced field outside
+- (D) 0.057 m
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Apply ∮E·dl = −dΦ_B/dt to a circle of radius r. Inside, E = (r/2) dB/dt = (0.010)(0.60) = 6.0 × 10⁻³ V/m. Outside, only the solenoid's cross-section has flux, so E = (R²/2r) dB/dt = (0.0016 ÷ 0.16)(0.60) = 6.0 × 10⁻³ V/m.
+**Answer: (B).** Apply ∮E·dl = −dΦ_B/dt to a circle of radius r. Inside, E = (r/2) dB/dt, growing with r. Outside, only the solenoid's cross-section has flux, so E = (R²/2r) dB/dt, falling as 1/r. Setting R²/(2r) = (0.020 m)/2 gives r = 0.0016 ÷ 0.020 = **0.080 m**.
 
-- (B) There is an induced E outside, although B is nearly zero there.
-- (C) uses the inside formula, (r/2) dB/dt, at a point outside.
-- (D) treats E as uniform inside, at its surface value (R/2) dB/dt.
+- (A) assumes E falls outside as fast as it rose inside.
+- (C) There is an induced E outside, although B is nearly zero there: the circle still encloses changing flux.
+- (D) makes E fall as 1/r² outside, like the field of a point charge.
 
 **If you missed this:** read "Induced electric fields" and Worked example 3 in the [13.2 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/13-2-electromagnetic-induction-study-guide/).
 </details>
@@ -129,19 +129,19 @@ Check yourself: 1 mark each for the integral with Φ_B(t), the emf and current, 
 
 A metal rod on frictionless horizontal rails, joined by a resistor, is given a speed v₀ in a uniform vertical field and then left to coast. It travels a total distance D. The field is doubled, and the rod is replaced by one of the same length and twice the mass. It is again given speed v₀. What total distance does it now travel?
 
-- (A) D/2
-- (B) D
-- (C) D/4
-- (D) 2D
+- (A) D
+- (B) D/4
+- (C) 2D
+- (D) D/2
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** v = v₀e^(−t/τ) with τ = mR/(B²L²), so the distance is v₀τ. Doubling m doubles τ; doubling B quarters it.
+**Answer: (D).** v = v₀e^(−t/τ) with τ = mR/(B²L²), so the distance is v₀τ. Doubling m doubles τ; doubling B quarters it.
 
-- (B) assumes the two changes cancel. The braking force grows with B², not B.
-- (C) forgets the extra mass.
-- (D) ignores the stronger braking.
+- (A) assumes the two changes cancel. The braking force grows with B², not B.
+- (B) forgets the extra mass.
+- (C) ignores the stronger braking.
 
 **If you missed this:** read "Newton's second law for a moving conductor" and Worked example 2 in the [13.3 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/13-3-induced-currents-magnetic-forces-study-guide/).
 </details>
@@ -150,17 +150,17 @@ A metal rod on frictionless horizontal rails, joined by a resistor, is given a s
 
 An air-cored solenoid stores energy U when its current is I. A core of permeability 4μ₀ is slid in to fill it, and the current is adjusted until the stored energy is again U. What is the new current?
 
-- (A) I/2
-- (B) I/4
+- (A) I/4
+- (B) I/2
 - (C) I
 - (D) 2I
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The core multiplies L = μ_core N²A/ℓ by 4. With U = ½LI² fixed, I² falls by 4.
+**Answer: (B).** The core multiplies L = μ_core N²A/ℓ by 4. With U = ½LI² fixed, I² falls by 4.
 
-- (B) treats the energy as proportional to LI rather than LI².
+- (A) treats the energy as proportional to LI rather than LI².
 - (C) assumes the stored energy depends only on the current.
 - (D) assumes the core "opposes" the current. Inductance opposes changes in current.
 
@@ -171,18 +171,18 @@ An air-cored solenoid stores energy U when its current is I. A core of permeabil
 
 A battery, a 60 Ω resistor and a 0.30 H inductor are in series with a switch, which is closed at t = 0. When is the potential difference across the inductor equal to the potential difference across the resistor?
 
-- (A) 3.5 ms
-- (B) 5.0 ms
-- (C) 2.5 ms
+- (A) 5.0 ms
+- (B) 2.5 ms
+- (C) 3.5 ms
 - (D) 1.7 ms
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** τ = L/R = 5.0 ms. V_L = ℰe^(−t/τ) and V_R = ℰ(1 − e^(−t/τ)). They are equal when e^(−t/τ) = ½, so t = τ ln 2 = **3.5 ms**.
+**Answer: (C).** τ = L/R = 5.0 ms. V_L = ℰe^(−t/τ) and V_R = ℰ(1 − e^(−t/τ)). They are equal when e^(−t/τ) = ½, so t = τ ln 2 = **3.5 ms**.
 
-- (B) is τ, when V_L is only 37% of ℰ.
-- (C) assumes the voltages change linearly, crossing at τ/2.
+- (A) is τ, when V_L is only 37% of ℰ.
+- (B) assumes the voltages change linearly, crossing at τ/2.
 - (D) is τ ln 2 ÷ 2, the halving time of something that goes as e^(−2t/τ).
 
 **If you missed this:** read "The loop rule and the differential equation" and "The time constant τ = L/R" in the [13.5 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/13-5-circuits-resistors-inductors-lr-circuits-study-guide/).
@@ -214,19 +214,19 @@ Check yourself: 1 mark each for the currents just after closing, V_L with dI/dt,
 
 In an ideal LC circuit, the capacitor C starts with charge Q₀ and the current is zero. At a later instant the charge on the capacitor is Q₀/2. What is the size of the potential difference across the inductor at that instant?
 
-- (A) Q₀/(2C)
-- (B) Zero
-- (C) Q₀/C
-- (D) √3Q₀/(2C)
+- (A) Zero
+- (B) Q₀/C
+- (C) √3Q₀/(2C)
+- (D) Q₀/(2C)
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The loop rule, q/C + L dI/dt = 0, makes |V_L| equal to |V_C| at every instant: (Q₀/2)/C.
+**Answer: (D).** The loop rule, q/C + L dI/dt = 0, makes |V_L| equal to |V_C| at every instant: (Q₀/2)/C.
 
-- (B) The current is still changing, so V_L ≠ 0. V_L is zero only when q = 0.
-- (C) is the value at the start, when the charge is Q₀.
-- (D) is the current's fraction: when q = Q₀/2, |I| = (√3/2)I_max.
+- (A) The current is still changing, so V_L ≠ 0. V_L is zero only when q = 0.
+- (B) is the value at the start, when the charge is Q₀.
+- (C) is the current's fraction: when q = Q₀/2, |I| = (√3/2)I_max.
 
 **If you missed this:** read "The loop rule gives simple harmonic motion" in the [13.6 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/13-6-circuits-capacitors-inductors-lc-circuits-study-guide/).
 </details>

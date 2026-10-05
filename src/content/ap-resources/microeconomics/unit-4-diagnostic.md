@@ -115,14 +115,14 @@ Common slips: reading the price from MC ($28) or from MR; using MC at the effici
 Which of the following is an example of price discrimination?
 
 - (A) A courier charges $40 to take a parcel to an offshore island and $12 to take the same parcel across the city, because the island trip costs it $28 more.
-- (B) The only museum in a city charges $5 to visitors who show a student card and $15 to other visitors for the same entry.
+- (B) The only ice rink in a city charges $5 to skaters who show a student card and $15 to other skaters for the same session.
 - (C) A wheat farmer in a perfectly competitive market charges a large bakery $1 a tonne above the market price, because the bakery buys every week.
 - (D) A hotel charges $180 a night for a sea-view suite and $90 for a standard room.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** It is the same product sold at different prices, and the difference is not due to cost. The museum has market power, it can tell the groups apart (the card), and the ticket cannot be resold to a non-student at the door.
+**Answer: (B).** It is the same product sold at different prices, and the difference is not due to cost. The rink has market power, it can tell the groups apart (the card), and the ticket cannot be resold to a non-student at the door.
 
 - (A) The price gap matches the cost gap, so it simply passes on a higher cost.
 - (C) A price taker cannot do this: the bakery would buy from another farm at the market price.

@@ -41,18 +41,18 @@ These are **original Marlbridge practice questions**, not past exam questions. T
 
 A previously issued Valdorian bond pays a fixed **VD 45** of interest a year. Market interest rates on new bonds fall, and the bond's price rises from **VD 900** to **VD 1,000**. What happens to the rate of return a new buyer earns on it?
 
-- (A) It falls from 5% to 4.5%.
-- (B) It rises from 4.5% to 5%.
-- (C) It stays the same, because the interest payment is fixed.
+- (A) It rises from 4.5% to 5%.
+- (B) It stays the same, because the interest payment is fixed.
+- (C) It falls from 5% to 4.5%.
 - (D) It rises, because the bond is now worth more.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** 45 ÷ 900 = **5%**; 45 ÷ 1,000 = **4.5%**. A higher price for the same fixed payment means a lower return.
+**Answer: (C).** 45 ÷ 900 = **5%**; 45 ÷ 1,000 = **4.5%**. A higher price for the same fixed payment means a lower return.
 
-- (B) reverses the move.
-- (C) The payment is fixed, so the **price** adjusts, and with it the return to a new buyer.
+- (A) reverses the move.
+- (B) The payment is fixed, so the **price** adjusts, and with it the return to a new buyer.
 - (D) A higher price is a gain for the current owner; a new buyer gets a lower return.
 
 **If you missed this:** read "Bond prices and interest rates" in the [Topic 4.1 study guide](/advanced-course-resources/macroeconomics/4-1-financial-assets-study-guide/).
@@ -83,18 +83,18 @@ A Valdorian savings deposit pays a nominal interest rate of **1%**. Over the yea
 
 Which transaction **increases M1** but leaves **M2 unchanged**?
 
-- (A) A household moves VD 500 from its savings deposit into its checking account.
-- (B) A household deposits VD 500 of banknotes into its checking account.
+- (A) A household deposits VD 500 of banknotes into its checking account.
+- (B) A household moves VD 500 from its savings deposit into its checking account.
 - (C) A household moves VD 500 from its checking account into a small time deposit.
 - (D) A household buys a VD 500 phone with a credit card.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Savings deposits are in M2 only; checking deposits are in M1 and M2. The money enters M1 but stays inside M2.
+**Answer: (B).** Savings deposits are in M2 only; checking deposits are in M1 and M2. The money enters M1 but stays inside M2.
 
-- (B) Currency falls and deposits rise by the same amount, so M1 does not change.
-- (C) is the reverse of (A): M1 **falls**.
+- (A) Currency falls and deposits rise by the same amount, so M1 does not change.
+- (C) is the reverse of (B): M1 **falls**.
 - (D) A credit card is a loan, not money.
 
 **If you missed this:** read Worked example 2 in the [Topic 4.3 study guide](/advanced-course-resources/macroeconomics/4-3-definition-measurement-functions-money-study-guide/).
@@ -146,19 +146,19 @@ A Valdorian bank has demand deposits of **VD 400 million** and reserves of **VD 
 
 A new payment app lets Valdorians keep their wealth in an interest-earning fund until the moment they pay. The CBV takes no action. What happens?
 
-- (A) Money demand shifts left; the nominal interest rate falls; prices of existing bonds rise.
-- (B) Money demand shifts left; the nominal interest rate falls; prices of existing bonds fall.
-- (C) Money supply shifts right; the nominal interest rate falls; prices of existing bonds rise.
-- (D) Money demand shifts right; the nominal interest rate rises; prices of existing bonds fall.
+- (A) Money demand shifts left; the nominal interest rate falls; prices of existing bonds fall.
+- (B) Money supply shifts right; the nominal interest rate falls; prices of existing bonds rise.
+- (C) Money demand shifts right; the nominal interest rate rises; prices of existing bonds fall.
+- (D) Money demand shifts left; the nominal interest rate falls; prices of existing bonds rise.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** People hold less money at every rate, so MD shifts left. The surplus of money is used to buy bonds, so bond prices rise and the rate falls.
+**Answer: (D).** People hold less money at every rate, so MD shifts left. The surplus of money is used to buy bonds, so bond prices rise and the rate falls.
 
-- (B) gets the rate right but not bond prices. They move opposite to interest rates.
-- (C) The quantity of money has not changed; only how much people want to hold.
-- (D) has the shift the wrong way round.
+- (A) gets the rate right but not bond prices. They move opposite to interest rates.
+- (B) The quantity of money has not changed; only how much people want to hold.
+- (C) has the shift the wrong way round.
 
 **If you missed this:** read "What shifts the curves" in the [Topic 4.5 study guide](/advanced-course-resources/macroeconomics/4-5-money-market-study-guide/).
 </details>
@@ -167,18 +167,18 @@ A new payment app lets Valdorians keep their wealth in an interest-earning fund 
 
 Valdoria has **limited reserves** and a recessionary output gap. Which set of actions is **all expansionary**?
 
-- (A) Buy government bonds, lower the required reserve ratio, lower the discount rate
-- (B) Buy government bonds, raise the required reserve ratio, lower the discount rate
-- (C) Sell government bonds, lower the required reserve ratio, lower the discount rate
+- (A) Buy government bonds, raise the required reserve ratio, lower the discount rate
+- (B) Sell government bonds, lower the required reserve ratio, lower the discount rate
+- (C) Buy government bonds, lower the required reserve ratio, lower the discount rate
 - (D) Buy government bonds, lower the required reserve ratio, raise the interest on reserves
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Each action adds excess reserves or makes reserves cheaper, so interest rates fall.
+**Answer: (C).** Each action adds excess reserves or makes reserves cheaper, so interest rates fall.
 
-- (B) A higher reserve ratio cuts excess reserves: contractionary.
-- (C) Selling bonds removes reserves: contractionary.
+- (A) A higher reserve ratio cuts excess reserves: contractionary.
+- (B) Selling bonds removes reserves: contractionary.
 - (D) Higher interest on reserves raises the policy rate: contractionary.
 
 **If you missed this:** read "The tools" in the [Topic 4.6 study guide](/advanced-course-resources/macroeconomics/4-6-monetary-policy-study-guide/).

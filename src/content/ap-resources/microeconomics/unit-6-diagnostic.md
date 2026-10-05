@@ -35,7 +35,7 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-This diagnostic helps you find **which Unit 6 topics to revisit**. Each of its seven questions is tied to one topic, so a wrong answer points you to the study guide you need.
+This diagnostic helps you find **which Unit 6 topics to revisit**. Each question is tied to one topic, so a wrong answer points you to the study guide you need.
 
 These are **original Marlbridge practice questions**, not past exam questions. The diagnostic is not calibrated against real exam results and gives **no predicted score**.
 
@@ -45,17 +45,17 @@ Allow about 30 minutes and work without notes. Write down every answer before yo
 
 Corvel Ferries is the only ferry operator between two fictional islands. Nobody outside the market is affected by the crossings. At the number of tickets it chooses, each ticket sells for $30, and the marginal cost of carrying one more passenger is $18. Which statement is correct?
 
-- (A) The next ticket is worth more to a buyer than it costs to provide, so output is below the efficient quantity and there is deadweight loss.
-- (B) Output is efficient, because the firm is maximizing its profit and acting rationally.
+- (A) Output is efficient, because the firm is maximizing its profit and acting rationally.
+- (B) The next ticket is worth more to a buyer than it costs to provide, so output is below the efficient quantity and there is deadweight loss.
 - (C) Output is too high, because the price is above marginal cost.
 - (D) The deadweight loss equals $12 times the number of tickets sold.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** With no external effects, the price measures marginal social benefit and MC measures marginal social cost. MSB ($30) > MSC ($18), so more crossings would add surplus. The firm stops because, to sell more, it must cut its price on all tickets: MR is below P.
+**Answer: (B).** With no external effects, the price measures marginal social benefit and MC measures marginal social cost. MSB ($30) > MSC ($18), so more crossings would add surplus. The firm stops because, to sell more, it must cut its price on all tickets: MR is below P.
 
-- (B) mixes up private and social outcomes. Choosing MR = MC is rational for the firm, but society's rule is MSB = MSC.
+- (A) mixes up private and social outcomes. Choosing MR = MC is rational for the firm, but society's rule is MSB = MSC.
 - (C) gets the direction backwards. P > MC means units worth more than they cost are **not** made.
 - (D) is a rectangle over every ticket sold, partly a transfer from buyers to the firm. Deadweight loss is only the triangle between the actual and efficient quantities.
 
@@ -66,19 +66,19 @@ Corvel Ferries is the only ferry operator between two fictional islands. Nobody 
 
 In the fictional town of Penwick, many households heat their homes with wood stoves. The smoke harms the health of about 5,000 neighbouring households, who receive nothing for it. Which statement best explains the market outcome?
 
-- (A) Each household weighs only its own fuel cost and benefit, so too much wood is burned; with thousands of people affected, the cost of bargaining over the smoke is too high to fix it privately.
+- (A) Firewood is sold in a competitive market, so the equilibrium quantity is socially optimal.
 - (B) The price of firewood is too high, so too little wood is burned compared with the socially optimal quantity.
 - (C) The households are acting irrationally; once told about the harm, they would cut smoke to zero, which is the efficient level.
-- (D) Firewood is sold in a competitive market, so the equilibrium quantity is socially optimal.
+- (D) Each household weighs only its own fuel cost and benefit, so too much wood is burned; with thousands of people affected, the cost of bargaining over the smoke is too high to fix it privately.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The cost falls on third parties: a negative externality. Rational agents respond to private costs. No one owns the clean air, and bargaining among thousands of people is costly.
+**Answer: (D).** The cost falls on third parties: a negative externality. Rational agents respond to private costs. No one owns the clean air, and bargaining among thousands of people is costly.
 
+- (A) Competition gives efficiency only when all costs are internalized. Here they are not.
 - (B) reverses the direction. The price leaves out the harm, so it is too **low** and too much is burned.
 - (C) Ignoring a cost you do not pay is rational, not irrational. Zero smoke is also rarely optimal: the efficient quantity is where MSB = MSC.
-- (D) Competition gives efficiency only when all costs are internalized. Here they are not.
 
 **If you missed this:** read "Why markets ignore external effects" in the [Topic 6.2 study guide](/advanced-course-resources/microeconomics/6-2-externalities-study-guide/).
 </details>
@@ -114,18 +114,18 @@ A common slip is to add the $6 to MPC. That treats the effect as a cost and give
 
 The government of the fictional country of Veyra broadcasts a satellite navigation signal. Anyone with a receiver can use it free of charge, and one more user does not weaken the signal for anyone else. Receivers are sold in shops. Which statement is correct?
 
-- (A) The signal is a public good, because it is non-rival and non-excludable; private firms would have little incentive to provide it, because users could free ride.
+- (A) The signal is a private good, because receivers are bought in shops.
 - (B) The signal is an open-access resource, because it is free to use.
-- (C) The signal is a private good, because receivers are bought in shops.
+- (C) The signal is a public good, because it is non-rival and non-excludable; private firms would have little incentive to provide it, because users could free ride.
 - (D) The signal is a public good, because the government provides it.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** One more user takes nothing from others (non-rival), and users who do not pay cannot be kept out (non-excludable). That makes it a public good, and free riding means a private firm could not collect enough revenue.
+**Answer: (C).** One more user takes nothing from others (non-rival), and users who do not pay cannot be kept out (non-excludable). That makes it a public good, and free riding means a private firm could not collect enough revenue.
 
+- (A) classifies the receiver, not the signal. The receiver is a private good; the signal is not.
 - (B) confuses "free" with the type of good. An open-access resource is **rival**, so it gets overused; this signal is non-rival.
-- (C) classifies the receiver, not the signal. The receiver is a private good; the signal is not.
 - (D) gives the right label for the wrong reason. The type depends on rivalry and excludability, not on who provides it.
 
 **If you missed this:** read "Two questions about any good" and "Public goods and the free rider problem" in the [Topic 6.3 study guide](/advanced-course-resources/microeconomics/6-3-public-private-goods-study-guide/).
@@ -206,7 +206,7 @@ A common slip in (a) is to read 50% or 58% as the richest group's share. Those a
 
 ## Your next step
 
-Count a short-answer question as wrong if any part was wrong. Then find your misses below.
+Count a short-answer question as wrong if any part was wrong.
 
 | Topic | Question(s) | If you missed it, read |
 |---|---|---|
@@ -221,4 +221,3 @@ Count a short-answer question as wrong if any part was wrong. Then find your mis
 - **Start with the topics you missed.** Read the sections named in the answer, then do that topic's practice questions. One question is a small sample: treat a miss as a signal to check.
 - **Look for patterns.** Questions 1, 3, 5 and 6 all use deadweight loss: if you missed two or more, revise Topic 6.1 before Topics 6.2 and 6.4. Questions 2 and 4 both turn on costs or benefits nobody pays for: revise external effects and free riding together.
 - **All correct?** Go on to the [mixed unit review](/advanced-course-resources/microeconomics/unit-6-review/), whose longer questions combine topics.
-- **Retake it** after a week of revision.

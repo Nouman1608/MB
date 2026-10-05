@@ -71,17 +71,17 @@ These are **original Marlbridge practice questions**, not past exam questions. T
 
 Valdoria's central bank uses expansionary monetary policy, and expected inflation does not change. Which row correctly describes the effects in Valdoria?
 
-- (A) Real interest rate falls; net capital inflow falls; the current account moves towards surplus.
-- (B) Real interest rate falls; net capital inflow falls; the current account moves towards deficit.
+- (A) Real interest rate falls; net capital inflow falls; the current account moves towards deficit.
+- (B) Real interest rate falls; net capital inflow falls; the current account moves towards surplus.
 - (C) Real interest rate falls; net capital inflow rises; the current account moves towards deficit.
 - (D) Real interest rate rises; net capital inflow rises; the current account moves towards deficit.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** With expected inflation unchanged, the real rate falls. Valdorian assets become less attractive, so net capital inflow falls and the CFA moves towards deficit. Because CA + CFA = 0, the CA moves towards surplus; on the trade side, the valda depreciates and net exports rise.
+**Answer: (B).** With expected inflation unchanged, the real rate falls. Valdorian assets become less attractive, so net capital inflow falls and the CFA moves towards deficit. Because CA + CFA = 0, the CA moves towards surplus; on the trade side, the valda depreciates and net exports rise.
 
-- (B) forgets that the two accounts must move in opposite directions.
+- (A) forgets that the two accounts must move in opposite directions.
 - (C) sends funds towards the **lower** real rate.
 - (D) describes contractionary policy.
 </details>
@@ -90,19 +90,19 @@ Valdoria's central bank uses expansionary monetary policy, and expected inflatio
 
 Valdoria places a tariff on goods imported from Kestria. Nothing else changes. Which statement **must** be true?
 
-- (A) The valda appreciates, and Valdoria's exports to Kestria fall.
-- (B) The valda depreciates, and Valdoria's exports to Kestria rise.
-- (C) The valda appreciates, so Valdoria's imports from Kestria certainly rise.
-- (D) Demand for valdas increases, so Valdoria's net exports certainly rise.
+- (A) The valda depreciates, and Valdoria's exports to Kestria rise.
+- (B) The valda appreciates, so Valdoria's imports from Kestria certainly rise.
+- (C) Demand for valdas increases, so Valdoria's net exports certainly rise.
+- (D) The valda appreciates, and Valdoria's exports to Kestria fall.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Valdorians buy fewer Kestrian goods, so they need fewer kestas: the **supply of valdas decreases** and the valda appreciates. Valdorian goods now cost Kestrians more kestas, so Valdoria's exports fall.
+**Answer: (D).** Valdorians buy fewer Kestrian goods, so they need fewer kestas: the **supply of valdas decreases** and the valda appreciates. Valdorian goods now cost Kestrians more kestas, so Valdoria's exports fall.
 
-- (B) gets the direction of the currency wrong.
-- (C) The appreciation makes imports cheaper but the tariff makes them dearer, so the change in imports is uncertain.
-- (D) The tariff shifts **supply** of valdas, not demand, and with exports falling and imports uncertain, net exports are not certain to rise.
+- (A) gets the direction of the currency wrong.
+- (B) The appreciation makes imports cheaper but the tariff makes them dearer, so the change in imports is uncertain.
+- (C) The tariff shifts **supply** of valdas, not demand, and with exports falling and imports uncertain, net exports are not certain to rise.
 </details>
 
 ## Question 3 (constructed response · mixed)
@@ -194,7 +194,7 @@ Valdoria is in a recession. Its central bank buys government bonds on the open m
 (b) Draw a correctly labelled graph of the market for valdas showing your answer to (a).
 (c) Explain the effect on Valdoria's net exports.
 (d) Net exports rise by VD 4 bn and the MPC is 0.6. Calculate the shift in AD from this change in net exports, and state the short-run effects on real GDP, the price level and unemployment.
-(e) Suppose instead the government had raised spending, financed by borrowing. Explain why the exchange-rate effect would **weaken** that policy but **strengthens** the policy in (a)–(d).
+(e) Suppose instead the government had raised spending, financed by borrowing. Explain why the exchange-rate effect would **weaken** that policy but **strengthen** the policy in (a)–(d).
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>

@@ -35,46 +35,46 @@ author: "marlbridge-academic-team"
 
 **What this is for.** This diagnostic shows which Unit 10 topics to revisit, with at least one short question per topic. These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated against real exam results, and your result is **not** a predicted score.
 
-**How to take it.** Work without notes for about 30 minutes, writing each answer before opening the explanation. A scientific calculator is assumed. Data for every question: k = 1/(4πε₀) = 8.99 × 10⁹ N·m²/C², ε₀ = 8.85 × 10⁻¹² C²/(N·m²) and e = 1.60 × 10⁻¹⁹ C. Take V = 0 far away and at ground. All conductors are in electrostatic equilibrium, and all data are invented for practice.
+**How to take it.** Work without notes for about 30 minutes, and write each answer before opening the explanation. A scientific calculator is assumed. Data for every question: k = 1/(4πε₀) = 8.99 × 10⁹ N·m²/C², ε₀ = 8.85 × 10⁻¹² C²/(N·m²) and e = 1.60 × 10⁻¹⁹ C. Take V = 0 far away and at ground. All conductors are in electrostatic equilibrium, and all data are invented for practice.
 
 ## Question 1 (multiple choice · 10.1)
 
 A thin, hollow metal sphere of radius 0.20 m carries +4.0 nC and is far from other charges. Point P is inside the empty sphere, 0.10 m from its centre. Which row gives the field and the potential at P?
 
-- (A) E = 0 and V = 180 V
-- (B) E = 0 and V = 0
-- (C) E = 3.6 × 10³ N/C and V = 360 V
+- (A) E = 0 and V = 0
+- (B) E = 3.6 × 10³ N/C and V = 360 V
+- (C) E = 0 and V = 180 V
 - (D) E = 0 and V = 360 V
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The empty cavity of a conductor has no field. E = 0 means V does not change from point to point, so V at P equals the potential of the sphere: kQ/R = (8.99 × 10⁹)(4.0 × 10⁻⁹) ÷ 0.20 = **180 V**.
+**Answer: (C).** The empty cavity of a conductor has no field. E = 0 means V is constant, so V at P equals the sphere's potential: kQ/R = (8.99 × 10⁹)(4.0 × 10⁻⁹) ÷ 0.20 = **180 V**.
 
-- (B) Zero field means constant V, not zero V.
-- (C) uses the point-charge formulas at r = 0.10 m, as if all the charge sat at the centre. That model works only for points **outside** the sphere.
-- (D) has the right field but uses kQ/r with r = 0.10 m for the potential.
+- (A) Zero field means constant V, not zero V.
+- (B) uses the point-charge formulas at r = 0.10 m. That model works only **outside** the sphere.
+- (D) has the right field but uses kQ/r with r = 0.10 m.
 
-**If you missed this:** read "Four results for a conductor in equilibrium" and the misconceptions in the [10.1 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/10-1-electrostatics-conductors-study-guide/).
+**If you missed this:** read "Four results for a conductor in equilibrium" in the [10.1 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/10-1-electrostatics-conductors-study-guide/).
 </details>
 
 ## Question 2 (multiple choice · 10.1)
 
 A hollow metal object of irregular shape carries a net charge of +5.0 nC. A −2.0 nC point charge hangs inside its cavity on an insulating thread. A +3.0 nC charge is then brought close to the outside of the object. Which statement is correct?
 
-- (A) The cavity wall carries +2.0 nC and the outer surface +3.0 nC, spread unevenly; the field in the cavity is not changed by the outside charge.
-- (B) The cavity wall carries no charge and the outer surface carries all +5.0 nC.
-- (C) The cavity wall carries +2.0 nC and the outer surface +7.0 nC.
-- (D) The cavity wall carries less than +2.0 nC, because the outside charge pulls some of it to the outer surface.
+- (A) The cavity wall carries no charge and the outer surface carries all +5.0 nC.
+- (B) The cavity wall carries +2.0 nC and the outer surface +7.0 nC.
+- (C) The cavity wall carries less than +2.0 nC, because the outside charge pulls some of it to the outer surface.
+- (D) The cavity wall carries +2.0 nC and the outer surface +3.0 nC, spread unevenly; the field in the cavity is not changed by the outside charge.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** A Gaussian surface inside the metal encloses no net charge, so the wall carries +2.0 nC. The rest, 5.0 − 2.0 = +3.0 nC, sits on the outer surface. The outside charge rearranges that outer charge, but the metal shields the cavity.
+**Answer: (D).** A Gaussian surface inside the metal encloses no net charge, so the wall carries +2.0 nC. The rest, 5.0 − 2.0 = +3.0 nC, sits on the outer surface. The outside charge rearranges only the outer charge; the metal shields the cavity.
 
-- (B) forgets the induced charge on the wall. Without it, there would be a field in the metal.
-- (C) adds 2.0 nC instead of subtracting it; the total must stay +5.0 nC.
-- (D) Gauss's law in the metal fixes the wall charge at +2.0 nC whatever happens outside.
+- (A) forgets the induced wall charge. Without it, there would be a field in the metal.
+- (B) adds 2.0 nC instead of subtracting it; the total must stay +5.0 nC.
+- (C) Gauss's law in the metal fixes the wall charge at +2.0 nC whatever happens outside.
 
 **If you missed this:** read "Cavities and electrostatic shielding" in the [10.1 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/10-1-electrostatics-conductors-study-guide/).
 </details>
@@ -83,17 +83,17 @@ A hollow metal object of irregular shape carries a net charge of +5.0 nC. A −2
 
 Metal sphere A, of radius R, is charged until its potential is V₀. It is then joined by a long thin wire to a distant, neutral metal sphere B of radius 2R. What is the final potential of the two spheres?
 
-- (A) V₀/3
-- (B) V₀/2
+- (A) V₀/2
+- (B) V₀/3
 - (C) V₀
 - (D) 2V₀/3
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The spheres end at equal potential, so q ∝ R: A keeps one third of the charge and B takes two thirds. A's potential is k(Q/3)/R = V₀/3. Check with B: k(2Q/3)/(2R) = V₀/3.
+**Answer: (B).** The spheres end at equal potential, so q ∝ R: A keeps one third of the charge and B takes two thirds. A's potential is k(Q/3)/R = V₀/3. Check with B: k(2Q/3)/(2R) = V₀/3.
 
-- (B) shares the charge equally. B would then be at only V₀/4, so charge would still flow.
+- (A) shares the charge equally. B would then be at only V₀/4, so charge would still flow.
 - (C) Charge left A, so its potential fell.
 - (D) divides B's charge, 2Q/3, by A's radius.
 
@@ -112,11 +112,11 @@ A neutral metal sphere stands on an insulating base. A positively charged rod is
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** While the rod is near, electrons flow up from ground and the sphere becomes negative. But when the rod is removed with the ground still connected, the sphere must return to V = 0 with no charge nearby, so Q = 0: the electrons flow back.
+**Answer: (A).** While the rod is near, electrons flow up from ground. But when the rod is removed with the ground still connected, the sphere must return to V = 0 with no charge nearby, so Q = 0: the electrons flow back.
 
-- (B) is the result for the correct order: break the ground connection **first**, then remove the rod.
-- (C) The rod never touched the sphere, so no charge moved between them.
-- (D) Once the rod has gone, nothing holds any induced charge on a grounded sphere.
+- (B) needs the other order: break the ground connection **first**, then remove the rod.
+- (C) The rod never touched the sphere.
+- (D) Once the rod has gone, nothing holds induced charge on a grounded sphere.
 
 **If you missed this:** read "Charging by grounding" in the [10.2 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/10-2-redistribution-charge-between-conductors-study-guide/).
 </details>
@@ -134,32 +134,32 @@ An isolated metal sphere of radius 0.15 m is far from other charges. A field pro
 
 **(a)** Just outside a conductor, E = σ/ε₀. The field points inward, so σ is negative: σ = −ε₀E = −(8.85 × 10⁻¹²)(2.4 × 10⁴) = **−2.1 × 10⁻⁷ C/m²** (−2.12 × 10⁻⁷). Q = σ(4πR²) = (−2.124 × 10⁻⁷)(4π × 0.15²) = **−6.0 × 10⁻⁸ C** (−60 nC).
 
-**(b)** V = kQ/R = (8.99 × 10⁹)(−6.0 × 10⁻⁸) ÷ 0.15 = **−3.6 × 10³ V**. (Check: |V| = ER = 3600 V.)
+**(b)** V = kQ/R = (8.99 × 10⁹)(−6.0 × 10⁻⁸) ÷ 0.15 = **−3.6 × 10³ V**. (Check: |V| = ER.)
 
 **(c)** Grounding with nothing nearby makes V = 0, so **Q = 0**. The excess electrons leave: (6.0 × 10⁻⁸) ÷ (1.60 × 10⁻¹⁹) = **3.8 × 10¹¹ electrons, from the sphere to ground**.
 
-Check yourself: 1 mark each for σ with its sign, Q, V, and the electron count with direction (4 in total). Using σ/(2ε₀) doubles Q to −120 nC: that is the thin-sheet formula, not the conductor result.
+Check yourself: 1 mark each for σ with its sign, Q, V, and the electron count with direction (4 in total). Using σ/(2ε₀) doubles Q: that is the thin-sheet formula, not the conductor result.
 
-**If you missed this:** for (a), read "The field just outside: E = σ/ε₀" in the [10.1 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/10-1-electrostatics-conductors-study-guide/); for (c), "Ground: the ideal reference" in the [10.2 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/10-2-redistribution-charge-between-conductors-study-guide/).
+**If you missed this:** for (a)–(b), read the [10.1 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/10-1-electrostatics-conductors-study-guide/); for (c), "Ground: the ideal reference" in the [10.2 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/10-2-redistribution-charge-between-conductors-study-guide/).
 </details>
 
 ## Question 6 (multiple choice · 10.3)
 
 A coaxial cable 10 m long has an inner wire of radius 0.50 mm and an outer conducting tube of radius 2.0 mm. Its capacitance is C. A second cable of the same length has radii 1.0 mm and 4.0 mm. What is its capacitance?
 
-- (A) C
-- (B) 2C
-- (C) 4C
-- (D) C/2
+- (A) 2C
+- (B) 4C
+- (C) C/2
+- (D) C
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** C = 2πε₀L/ln(b/a). Both cables have b/a = 4 and the same L, so the same capacitance (about 401 pF).
+**Answer: (D).** C = 2πε₀L/ln(b/a). Both cables have b/a = 4 and the same L, so the same capacitance (about 401 pF).
 
-- (B) assumes C grows with size, as for an isolated sphere. Here the gap grows too.
-- (C) assumes the surface area grows as the square of the radius. For a cylinder of fixed length, area grows only as r.
-- (D) looks only at the gap, which doubles, and forgets the larger surfaces.
+- (A) assumes C grows with size, like an isolated sphere's; but the gap grows too.
+- (B) assumes area grows as the square of the radius. For a cylinder of fixed length, area grows only as r.
+- (C) looks only at the gap, which doubles, and forgets the larger surfaces.
 
 **If you missed this:** read "A method for any capacitor" and Worked example 2 in the [10.3 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/10-3-capacitors-study-guide/).
 </details>
@@ -182,7 +182,7 @@ A parallel-plate capacitor in air has plates of area 0.040 m², 2.0 mm apart. A 
 
 **(c)** U = ½QΔV = ½(5.31 × 10⁻⁹)(30) = **8.0 × 10⁻⁸ J**.
 
-**(d)** C is fixed, so U = Q²/(2C) and doubling Q makes U **four times** larger. The graph of U against Q is a parabola through the origin, curving upward.
+**(d)** C is fixed, so U = Q²/(2C): doubling Q makes U **four times** larger. The U–Q graph is a parabola through the origin, curving upward.
 
 Check yourself: 1 mark each for σ and Q, ΔV and C, U, and the factor 4 with a parabola (4 in total).
 
@@ -193,17 +193,17 @@ Check yourself: 1 mark each for σ and Q, ΔV and C, U, and the factor 4 with a 
 
 An air-filled parallel-plate capacitor stays connected to a battery. The free charge density on its positive plate is σ₀. A slab with κ = 4 is then slid in to fill the gap. What is the size of the bound charge density on the face of the slab next to the positive plate?
 
-- (A) 3σ₀
-- (B) 3σ₀/4
+- (A) 3σ₀/4
+- (B) 3σ₀
 - (C) 4σ₀
 - (D) σ₀/4
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** ΔV is fixed and C rises by κ, so the free charge rises to 4σ₀. Then σᵢ = σ(1 − 1/κ) = 4σ₀ × ¾ = 3σ₀. Check: the net field, (4σ₀ − 3σ₀)/ε₀, is unchanged, as it must be with ΔV and d fixed.
+**Answer: (B).** ΔV is fixed and C rises by κ, so the free charge rises to 4σ₀. Then σᵢ = σ(1 − 1/κ) = 4σ₀ × ¾ = 3σ₀. Check: the net field, (4σ₀ − 3σ₀)/ε₀, is unchanged, as it must be with ΔV and d fixed.
 
-- (B) uses the old free charge σ₀. That is right for an **isolated** capacitor, not a connected one.
+- (A) uses the old free charge σ₀. That is right for an **isolated** capacitor, not a connected one.
 - (C) is the new free charge on the plate, not the bound charge on the slab.
 - (D) is the part of the free charge left uncancelled, σ/κ, in the isolated case.
 
@@ -226,13 +226,13 @@ A spherical capacitor has an inner sphere of radius 0.050 m and a thin outer she
 
 **(b)** Q = CΔV = (8.34 × 10⁻¹¹)(200) = **1.7 × 10⁻⁸ C** (16.7 nC).
 
-**(c)** In the oil, E = kQ/(κr²). At r = a: E = (8.99 × 10⁹)(1.67 × 10⁻⁸) ÷ (2.5 × 0.050²) = **2.4 × 10⁴ V/m**, pointing outward. (Leaving out κ gives 6.0 × 10⁴ V/m, the field the free charge alone would make.)
+**(c)** In the oil, E = kQ/(κr²). At r = a: E = (8.99 × 10⁹)(1.67 × 10⁻⁸) ÷ (2.5 × 0.050²) = **2.4 × 10⁴ V/m**, pointing outward. Leaving out κ gives 6.0 × 10⁴ V/m.
 
 **(d)** The bound charge cancels the fraction (1 − 1/κ) of the free charge: −Q(1 − 1/2.5) = **−1.0 × 10⁻⁸ C**. It is negative because it faces the positive inner sphere.
 
 Check yourself: 1 mark each for C with the factor κ, Q, E with κ, and the bound charge with its sign (4 in total).
 
-**If you missed this:** for (a) and (b), read "A method for any capacitor" in the [10.3 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/10-3-capacitors-study-guide/); for (c) and (d), "Capacitance with a dielectric" in the [10.4 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/10-4-dielectrics-study-guide/).
+**If you missed this:** for (a)–(b), read the [10.3 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/10-3-capacitors-study-guide/); for (c)–(d), "Capacitance with a dielectric" in the [10.4 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/10-4-dielectrics-study-guide/).
 </details>
 
 ## Your next step
@@ -248,7 +248,7 @@ Count a short answer as missed if you lost more than one mark.
 
 ## How to use your result
 
-- **Missed nothing in a topic?** Skip its study guide for now and go straight to the [mixed unit review](/advanced-course-resources/physics-c-electricity-and-magnetism/unit-10-review/), which joins the topics together.
+- **Missed nothing?** Go straight to the [mixed unit review](/advanced-course-resources/physics-c-electricity-and-magnetism/unit-10-review/), which joins the topics together.
 - **Missed one topic?** Read that study guide, then do its practice set before the review.
-- **Missed three or more topics?** Work through 10.1 to 10.4 in order; each builds on the one before.
-- **Got it right but guessed?** Treat it as missed.
+- **Missed three or more topics?** Work through 10.1 to 10.4 in order.
+- **Guessed correctly?** Treat it as missed.

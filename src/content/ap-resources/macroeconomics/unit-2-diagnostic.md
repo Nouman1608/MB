@@ -35,13 +35,13 @@ author: "marlbridge-academic-team"
 
 This diagnostic helps you find **which Unit 2 topics to revisit**. It has one or two short questions on each topic, 2.1 to 2.7. Answer every question before opening any answer; allow about 30 minutes.
 
-These are **original Marlbridge practice questions**, not past exam questions. The set is not calibrated, so it gives **no predicted score**. **Valdoria** is a fictional country whose currency is the **valda (VD)**; all data are fictional. A four-function calculator is enough. Round percentages to 2 decimal places at the last step. Only the stated change happens in each question.
+These are **original Marlbridge practice questions**, not past exam questions. The set is not calibrated, so it gives **no predicted score**. **Valdoria** is a fictional country whose currency is the **valda (VD)**; all data are fictional. A four-function calculator is enough. Round percentages to 2 decimal places at the last step.
 
 ## Question 1 (multiple choice · 2.1)
 
 Which of these is counted as **investment (I)** in Valdoria's GDP?
 
-- (A) A household buys VD 5,000 of shares in a Valdorian furniture company.
+- (A) A household buys VD 5,000 of shares in a furniture company.
 - (B) A furniture maker's stock of unsold tables rises by VD 2 million during the year.
 - (C) The Valdorian government buys 40 new buses for the capital city.
 - (D) A family buys a new car to drive to work.
@@ -62,19 +62,19 @@ Which of these is counted as **investment (I)** in Valdoria's GDP?
 
 Valdoria's real GDP per person rose by 4% last year. Which extra fact most suggests that a **typical** Valdorian household is **not** better off?
 
-- (A) Almost all of the extra income went to the richest 5% of households.
-- (B) Valdoria's population grew by 1% during the year.
-- (C) Exports grew faster than imports.
+- (A) Valdoria's population grew by 1% during the year.
+- (B) Exports grew faster than imports.
+- (C) Almost all of the extra income went to the richest 5% of households.
 - (D) All of the extra output was sold in markets.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** GDP per person is an average. It says nothing about how income is shared, so most households may have gained little or nothing.
+**Answer: (C).** GDP per person is an average. It ignores how income is shared, so most households may have gained little.
 
-- (B) is tempting, but GDP **per person** already allows for population growth.
-- (C) Faster export growth says nothing about how the gains are shared.
-- (D) Market output is what GDP measures well, so this makes the 4% more reliable, not less.
+- (A) is tempting, but GDP **per person** already allows for population growth.
+- (B) Export growth says nothing about how the gains are shared.
+- (D) GDP measures market output well, so this makes the 4% more reliable, not less.
 
 **If you missed this:** read "6. How income is shared" in the [Topic 2.2 study guide](/advanced-course-resources/macroeconomics/2-2-limitations-gdp-study-guide/).
 </details>
@@ -83,19 +83,19 @@ Valdoria's real GDP per person rose by 4% last year. Which extra fact most sugge
 
 A Valdorian who was caring for her children at home, and **not** looking for work, takes a paid job straight away. The adult population does not change. What happens?
 
-- (A) The unemployment rate falls and the labor force participation rate rises.
-- (B) The unemployment rate is unchanged and the participation rate rises.
-- (C) Both rates are unchanged, because she was never unemployed.
-- (D) The unemployment rate falls and the participation rate is unchanged.
+- (A) The unemployment rate is unchanged and the participation rate rises.
+- (B) Both rates are unchanged, because she was never unemployed.
+- (C) The unemployment rate falls and the participation rate is unchanged.
+- (D) The unemployment rate falls and the labor force participation rate rises.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** She moves from "not in the labor force" to "employed". The labor force grows, so participation rises. The same number unemployed is divided by a larger labor force, so the unemployment rate falls slightly.
+**Answer: (D).** She moves from "not in the labor force" to "employed". The labor force grows, so participation rises. The same number unemployed is divided by a larger labor force, so the unemployment rate falls slightly.
 
-- (B) The count of unemployed is unchanged, but the **rate** has a bigger denominator.
-- (C) She has joined the labor force.
-- (D) Joining the labor force always raises participation when the adult population is fixed.
+- (A) The count of unemployed is unchanged, but the **rate** has a bigger denominator.
+- (B) She has joined the labor force.
+- (C) Joining the labor force raises participation when the adult population is fixed.
 
 **If you missed this:** read "How changes in the labor market move the rates" in the [Topic 2.3 study guide](/advanced-course-resources/macroeconomics/2-3-unemployment-study-guide/).
 </details>
@@ -104,19 +104,19 @@ A Valdorian who was caring for her children at home, and **not** looking for wor
 
 Valdoria's actual unemployment rate is **6.5%**. Frictional unemployment is **2.0%** and cyclical unemployment is **1.5%** of the labor force. What are structural unemployment and the natural rate?
 
-- (A) Structural 3.0%; natural rate 5.0%
-- (B) Structural 4.5%; natural rate 6.5%
+- (A) Structural 4.5%; natural rate 6.5%
+- (B) Structural 3.0%; natural rate 5.0%
 - (C) Structural 3.0%; natural rate 6.5%
 - (D) Structural 3.0%; natural rate 3.5%
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Natural rate = actual − cyclical = 6.5 − 1.5 = **5.0%**. Natural rate = frictional + structural, so structural = 5.0 − 2.0 = **3.0%**.
+**Answer: (B).** Natural rate = actual − cyclical = 6.5 − 1.5 = **5.0%**. Natural rate = frictional + structural, so structural = 5.0 − 2.0 = **3.0%**.
 
-- (B) treats the actual rate as the natural rate.
+- (A) treats the actual rate as the natural rate.
 - (C) has the right structural rate but forgets that the natural rate excludes cyclical unemployment.
-- (D) adds frictional and **cyclical** to get the natural rate. It should be frictional + structural.
+- (D) adds frictional and **cyclical** unemployment; the natural rate is frictional + structural.
 
 **If you missed this:** read "The natural rate of unemployment" in the [Topic 2.3 study guide](/advanced-course-resources/macroeconomics/2-3-unemployment-study-guide/).
 </details>
@@ -125,18 +125,18 @@ Valdoria's actual unemployment rate is **6.5%**. Frictional unemployment is **2.
 
 Valdoria's market basket cost **VD 250** in the base year. This year the CPI is **112**. What does the same basket cost this year?
 
-- (A) VD 280.00
-- (B) VD 223.21
-- (C) VD 262.00
+- (A) VD 223.21
+- (B) VD 262.00
+- (C) VD 280.00
 - (D) VD 362.00
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** CPI = cost this year ÷ base-year cost × 100, so cost this year = 250 × 112 ÷ 100 = **VD 280**.
+**Answer: (C).** CPI = cost this year ÷ base-year cost × 100, so cost this year = 250 × 112 ÷ 100 = **VD 280**.
 
-- (B) divides by 1.12 instead of multiplying: the CPI ratio is upside down.
-- (C) adds 12 valdas instead of 12%.
+- (A) divides by 1.12 instead of multiplying.
+- (B) adds 12 valdas instead of 12%.
 - (D) adds the index number itself to the cost.
 
 **If you missed this:** read "The consumer price index (CPI)" in the [Topic 2.4 study guide](/advanced-course-resources/macroeconomics/2-4-price-indices-and-inflation-study-guide/).
@@ -146,19 +146,19 @@ Valdoria's market basket cost **VD 250** in the base year. This year the CPI is 
 
 A union and an employer agree a three-year contract with wage rises of 6% a year. Both expect inflation of 4% a year. In fact inflation is only 1% a year. Which statement is correct?
 
-- (A) The workers gain and the employer loses, because each wage rise buys more than both sides planned.
-- (B) The employer gains, because it pays wages that are worth less than planned.
-- (C) Neither side gains, because inflation was still positive.
-- (D) The workers lose, because lower inflation means their wages rise more slowly.
+- (A) The employer gains, because it pays wages that are worth less than planned.
+- (B) Neither side gains, because inflation was still positive.
+- (C) The workers lose, because lower inflation means their wages rise more slowly.
+- (D) The workers gain and the employer loses, because each wage rise buys more than both sides planned.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The 6% rises are fixed in valdas. With 1% inflation instead of 4%, real wages rise by about 5% a year, not the planned 2%. The surprise moves purchasing power from the employer to the workers.
+**Answer: (D).** The 6% rises are fixed in valdas. With 1% inflation instead of 4%, real wages rise by about 5% a year, not the planned 2%. The surprise moves purchasing power from the employer to the workers.
 
-- (B) describes inflation that is **higher** than expected.
-- (C) What matters is the gap between actual and expected inflation.
-- (D) The contract fixes the nominal rises at 6%.
+- (A) describes inflation that is **higher** than expected.
+- (B) What matters is the gap between actual and expected inflation.
+- (C) The contract fixes the nominal rises at 6%.
 
 **If you missed this:** read "Other winners and losers" in the [Topic 2.5 study guide](/advanced-course-resources/macroeconomics/2-5-costs-inflation-study-guide/).
 </details>
@@ -200,7 +200,7 @@ Valdoria's real GDP has risen for three quarters in a row, but it is still below
 
 - (B) A recession needs real GDP to **fall**.
 - (C) A positive gap needs output **above** potential.
-- (D) A trough is a single turning point, and real GDP has already risen for three quarters.
+- (D) A trough is a single turning point; real GDP has already risen for three quarters.
 
 **If you missed this:** read "Potential output and the output gap" in the [Topic 2.7 study guide](/advanced-course-resources/macroeconomics/2-7-business-cycles-study-guide/).
 </details>
@@ -220,7 +220,7 @@ A student in Valdoria paid monthly rent of **VD 400** in 2023, when the CPI was 
 
 **(b)** Real rent has **risen**: (460 − 450) ÷ 450 × 100 = **2.22%**. Prices rose by 12.5% and the rent by 15%, a little faster.
 
-**(c)** The CPI prices a **fixed basket**. When rent rises faster than other prices, students switch to cheaper shared flats. The fixed basket ignores the switch, so it overstates the extra spending they need: **substitution bias**.
+**(c)** The CPI prices a **fixed basket**. As rent rises faster than other prices, students switch to cheaper shared flats. The fixed basket ignores the switch, so it overstates their extra spending: **substitution bias**.
 
 **If you missed this:** read "Using an index to compare values across years" and "Why the CPI may overstate inflation" in the [Topic 2.4 study guide](/advanced-course-resources/macroeconomics/2-4-price-indices-and-inflation-study-guide/).
 </details>
@@ -242,7 +242,7 @@ A toy Valdorian economy has the data below. Quantities are in millions and price
 <details>
 <summary>Worked answer</summary>
 
-**(a)** The tea leaves are an **intermediate good** (their value is inside the price of the packets), so leave them out.
+**(a)** The tea leaves are an **intermediate good** (their value is inside the packet price), so leave them out.
 2025: 50 × 8 + 4 × 250 = 400 + 1,000 = **VD 1,400 million**.
 2026: 55 × 9 + 4.2 × 270 = 495 + 1,134 = **VD 1,629 million**.
 
@@ -269,7 +269,7 @@ Valdoria's real GDP and potential real GDP (VD billion, constant prices) over si
 <details>
 <summary>Worked answer</summary>
 
-**(a)** Peak: **Quarter 2** (205, highest before the fall). Trough: **Quarter 5** (197, lowest before the rise).
+**(a)** Peak: **Quarter 2** (205). Trough: **Quarter 5** (197).
 
 **(b)** 197 − 204 = **−VD 7 billion**, or −7 ÷ 204 × 100 = **−3.43%** of potential: a recessionary gap. (Divide by potential, not by actual output.)
 
@@ -279,8 +279,6 @@ Valdoria's real GDP and potential real GDP (VD billion, constant prices) over si
 </details>
 
 ## Your next step
-
-Circle each question you got wrong or guessed.
 
 | Topic | Question(s) | If you missed it, read |
 |---|---|---|
@@ -294,9 +292,9 @@ Circle each question you got wrong or guessed.
 
 ## How to use your result
 
-- **No mistakes in a topic:** tick it off, but try its practice set once before the exam.
+- **No mistakes in a topic:** tick it off, but try its practice set once.
 - **One mistake:** read the section named in the answer, then redo the question without looking.
-- **Two or more mistakes, or a guess:** work through that topic's study guide and practice set first.
+- **Two or more mistakes, or a guess:** work through that topic's study guide and practice set.
 - **Several formula slips** (Questions 5, 7, 9 or 11(b)): revisit Topics 2.4 and 2.6 together.
 
 Then try the [mixed unit review](/advanced-course-resources/macroeconomics/unit-2-review/), whose questions combine several topics.

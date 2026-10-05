@@ -35,24 +35,24 @@ author: "marlbridge-academic-team"
 
 **What this is for.** This diagnostic shows which Unit 12 topics to revisit, with at least one short question per topic. These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated against real exam results, and your result is **not** a predicted score.
 
-**How to take it.** Work without notes for about 30 minutes, answering before you open each explanation. A scientific calculator is assumed. Data for every question: μ₀ = 4π × 10⁻⁷ T·m/A (so μ₀/(2π) = 2 × 10⁻⁷ T·m/A), e = 1.60 × 10⁻¹⁹ C and proton mass 1.67 × 10⁻²⁷ kg. Use right-handed axes (î × ĵ = k̂). "Long" wires are much longer than the distances involved. All data are invented for practice.
+**How to take it.** Work without notes for about 30 minutes, answering before opening each explanation. A scientific calculator is assumed. Data for every question: μ₀ = 4π × 10⁻⁷ T·m/A (so μ₀/(2π) = 2 × 10⁻⁷ T·m/A), e = 1.60 × 10⁻¹⁹ C and proton mass 1.67 × 10⁻²⁷ kg. Use right-handed axes (î × ĵ = k̂). "Long" wires are much longer than the distances involved. All data are invented for practice.
 
 ## Question 1 (multiple choice · 12.1)
 
 A closed cardboard box sits near a strong magnet. A probe gives the magnetic flux through five of its six faces, with outward area vectors: top +3.0 × 10⁻⁴ Wb, bottom −1.2 × 10⁻⁴ Wb, east +0.5 × 10⁻⁴ Wb, west +0.5 × 10⁻⁴ Wb, north −0.8 × 10⁻⁴ Wb. What is the flux through the south face?
 
-- (A) −2.0 × 10⁻⁴ Wb
-- (B) +2.0 × 10⁻⁴ Wb
-- (C) 0
+- (A) +2.0 × 10⁻⁴ Wb
+- (B) 0
+- (C) −2.0 × 10⁻⁴ Wb
 - (D) −6.0 × 10⁻⁴ Wb
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Gauss's law for magnetism, ∮B·dA = 0, holds for every closed surface. The five known faces add to +2.0 × 10⁻⁴ Wb, so the south face must carry −2.0 × 10⁻⁴ Wb: that much flux enters there.
+**Answer: (C).** Gauss's law for magnetism, ∮B·dA = 0, holds for every closed surface. The five known faces add to +2.0 × 10⁻⁴ Wb, so the south face must carry −2.0 × 10⁻⁴ Wb.
 
-- (B) has the wrong sign; the total must be zero.
-- (C) assumes no field crosses the south face. A net flux would need a magnetic monopole inside.
+- (A) has the wrong sign; the total must be zero.
+- (B) assumes no field crosses the south face. A net flux would need a monopole inside.
 - (D) adds the sizes of the five fluxes and ignores their signs.
 
 **If you missed this:** read "No monopoles: Gauss's law for magnetism" in the [12.1 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/12-1-magnetic-fields-study-guide/).
@@ -62,19 +62,19 @@ A closed cardboard box sits near a strong magnet. A probe gives the magnetic flu
 
 A bar magnet lies on a table with its north pole pointing east. A small compass is placed on the table 10 cm north of the magnet's centre, level with the middle of the magnet. Which way does the north end of the compass needle point? (Ignore Earth's field.)
 
-- (A) West
-- (B) East
+- (A) East
+- (B) West
 - (C) South, towards the magnet
 - (D) North, away from the magnet
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Outside a magnet, field lines run from the N end round to the S end. Beside the middle they run parallel to the magnet, from N (east) towards S (west). A compass lines up with the field, so its N end points **west**.
+**Answer: (B).** Outside a magnet, field lines run from the N end round to the S end. Beside the middle they run parallel to the magnet, from N (east) towards S (west). A compass lines up with the field, so its N end points **west**.
 
-- (B) uses the direction of the field **inside** the magnet, from S to N.
-- (C) assumes a compass points at the magnet, not along the local field.
-- (D) treats the side of the magnet as a pole pushing the needle away.
+- (A) uses the direction of the field **inside** the magnet, from S to N.
+- (C) assumes a compass points at the magnet, not along the field.
+- (D) treats the side of the magnet as a pole.
 
 **If you missed this:** read "Field-line maps and dipoles" and the misconceptions in the [12.1 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/12-1-magnetic-fields-study-guide/).
 </details>
@@ -83,19 +83,19 @@ A bar magnet lies on a table with its north pole pointing east. A small compass 
 
 A positively charged particle passes through the origin moving in the +x direction. At that instant, consider three points: A at (0, 2d, 0), B at (2d, 0, 0) and C at (d, d, 0). Which ranks the sizes of the magnetic field the particle produces at these points?
 
-- (A) C > A > B, with B zero
-- (B) A > C > B, with B zero
-- (C) A = C > B, with B zero
-- (D) B > C > A
+- (A) A > C > B, with B zero
+- (B) A = C > B, with B zero
+- (C) B > C > A
+- (D) C > A > B, with B zero
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** B ∝ sin θ/r², where θ is the angle between v and the line to the point. A: sin 90°/(2d)² = 0.25/d². C: sin 45°/(√2 d)² = 0.354/d². B lies on the line of motion, so sin θ = 0 and the field is zero.
+**Answer: (D).** B ∝ sin θ/r², where θ is the angle between v and the line to the point. A: sin 90°/(2d)² = 0.25/d². C: sin 45°/(√2 d)² = 0.354/d². B lies on the line of motion, so sin θ = 0 and the field is zero.
 
-- (B) assumes the perpendicular point always wins. C is closer, which outweighs its smaller sin θ.
-- (C) treats A and C as equally far away; A is 2d away, C only √2 d.
-- (D) puts the largest field ahead of the charge, where it is zero.
+- (A) assumes the perpendicular point always wins. C is closer, which outweighs its smaller sin θ.
+- (B) treats A and C as equally far away; A is 2d away, C only √2 d.
+- (C) puts the largest field ahead of the charge, where it is zero.
 
 **If you missed this:** read "A moving charge makes a magnetic field" in the [12.2 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/12-2-magnetism-moving-charges-study-guide/).
 </details>
@@ -134,9 +134,9 @@ A proton moves in a circle of radius 0.15 m in a uniform 0.40 T magnetic field t
 
 **(a)** evB = mv²/r, so v = eBr/m = (1.60 × 10⁻¹⁹)(0.40)(0.15) ÷ (1.67 × 10⁻²⁷) = **5.7 × 10⁶ m/s**. T = 2πm/(eB) = **1.6 × 10⁻⁷ s** (1.64 × 10⁻⁷ s).
 
-**(b)** **Zero.** The magnetic force is always perpendicular to the velocity, so F·v = 0 and the speed stays constant.
+**(b)** **Zero.** The magnetic force is always perpendicular to v, so F·v = 0 and the speed is constant.
 
-**(c)** The forces must balance: eE = evB, so E = vB = (5.75 × 10⁶)(0.40) = **2.3 × 10⁶ V/m**. E must be perpendicular to both v and B, pointing **opposite** to the magnetic force. At that moment, that is away from the centre of the old circle.
+**(c)** The forces must balance: eE = evB, so E = vB = (5.75 × 10⁶)(0.40) = **2.3 × 10⁶ V/m**. E must be perpendicular to both v and B, **opposite** to the magnetic force: away from the centre of the old circle.
 
 Check yourself: 1 mark each for v, T, zero work with the perpendicular-force reason, and E with its direction (4 in total).
 
@@ -147,18 +147,18 @@ Check yourself: 1 mark each for v, T, zero work with the perpendicular-force rea
 
 A wire carrying current I runs in along a radius to a circle of radius R, goes three quarters of the way round the circle, then leaves along another radius. What is the size of the field at the centre of the circle?
 
-- (A) 3μ₀I/(8R)
-- (B) μ₀I/(2R)
-- (C) 3μ₀I/(4R)
+- (A) μ₀I/(2R)
+- (B) 3μ₀I/(4R)
+- (C) 3μ₀I/(8R)
 - (D) 3μ₀I/(8R) + μ₀I/(2πR)
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** For an arc, B = μ₀Iφ/(4πR) with φ in radians. Three quarters of a turn is φ = 3π/2, so B = 3μ₀I/(8R). The straight leads point at the centre, so dℓ × r̂ = 0 along them.
+**Answer: (C).** For an arc, B = μ₀Iφ/(4πR) with φ in radians. Three quarters of a turn is φ = 3π/2, so B = 3μ₀I/(8R). The straight leads point at the centre, so dℓ × r̂ = 0 along them.
 
-- (B) is the field of a complete loop.
-- (C) uses μ₀Iφ/(2πR), which gives twice the correct value for every arc.
+- (A) is the field of a complete loop.
+- (B) uses μ₀Iφ/(2πR), which doubles every arc's field.
 - (D) adds a long-wire term for the leads. A piece aimed straight at the point contributes nothing.
 
 **If you missed this:** read "Loops and arcs" in the [12.3 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/12-3-magnetic-fields-current-carrying-wires-study-guide/).
@@ -168,17 +168,17 @@ A wire carrying current I runs in along a radius to a circle of radius R, goes t
 
 Two long parallel wires are 3.0 cm apart. One carries 6.0 A and the other 9.0 A, in opposite directions. What is the magnetic force on a 0.50 m length of either wire?
 
-- (A) 1.8 × 10⁻⁴ N, pushing the wires apart
-- (B) 1.8 × 10⁻⁴ N, pulling the wires together
+- (A) 1.8 × 10⁻⁴ N, pulling the wires together
+- (B) 1.8 × 10⁻⁴ N, pushing the wires apart
 - (C) 3.6 × 10⁻⁴ N, pushing the wires apart
 - (D) 1.1 × 10⁻³ N, pushing the wires apart
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** F/ℓ = μ₀I₁I₂/(2πd) = (2 × 10⁻⁷)(6.0)(9.0) ÷ 0.030 = 3.6 × 10⁻⁴ N/m, so the force on 0.50 m is 1.8 × 10⁻⁴ N. Opposite currents repel.
+**Answer: (B).** F/ℓ = μ₀I₁I₂/(2πd) = (2 × 10⁻⁷)(6.0)(9.0) ÷ 0.030 = 3.6 × 10⁻⁴ N/m, so the force on 0.50 m is 1.8 × 10⁻⁴ N. Opposite currents repel.
 
-- (B) For currents, same directions attract and opposite directions repel.
+- (A) For currents, same directions attract; opposite directions repel.
 - (C) is the force per metre, not the force on 0.50 m.
 - (D) uses μ₀ in place of μ₀/(2π).
 
@@ -198,7 +198,7 @@ A wire carries 4.0 A from the origin 0.30 m along the +x axis, then turns and ru
 
 **(a)** F = Iℓ × B. First section: (4.0)(0.30)(0.25)(î × k̂) = **−0.30ĵ N**. Second section: (4.0)(0.40)(0.25)(ĵ × k̂) = **+0.40î N**.
 
-**(b)** Net F = (0.40î − 0.30ĵ) N, of size **0.50 N** (37° below the +x axis). Check: the ends are 0.50 m apart and the joining line is perpendicular to B, so F = IℓB = (4.0)(0.50)(0.25) = 0.50 N. (Adding the sizes, 0.70 N, ignores the directions.)
+**(b)** Net F = (0.40î − 0.30ĵ) N, of size **0.50 N** (37° below the +x axis). Check: the ends are 0.50 m apart and the joining line is perpendicular to B, so F = IℓB = (4.0)(0.50)(0.25) = 0.50 N.
 
 **(c)** By the Biot-Savart law, dB ∝ dℓ × r̂. On the x-axis, r̂ is parallel to dℓ for every piece of the first section, so every contribution is zero.
 
@@ -211,19 +211,19 @@ Check yourself: 1 mark each for the two force vectors, the 0.50 N total with its
 
 A long thin wire along the axis of a long, thin-walled metal pipe of radius R carries current I. The pipe carries current I in the **same** direction. What is the ratio of the field size at r = R/2 to the field size at r = 2R?
 
-- (A) 2
-- (B) 4
-- (C) 1
-- (D) 1/2
+- (A) 4
+- (B) 1
+- (C) 1/2
+- (D) 2
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Use coaxial circles. At R/2 only the wire is enclosed: B = μ₀I/(2π × R/2) = μ₀I/(πR). At 2R both currents are enclosed: B = μ₀(2I)/(2π × 2R) = μ₀I/(2πR). The ratio is 2.
+**Answer: (D).** Use coaxial circles. At R/2 only the wire is enclosed: B = μ₀I/(2π × R/2) = μ₀I/(πR). At 2R both currents are enclosed: B = μ₀(2I)/(2π × 2R) = μ₀I/(2πR). The ratio is 2.
 
-- (B) leaves out the pipe's current at 2R, or counts it at R/2.
-- (C) models the whole thing as a solid rod carrying 2I evenly, with B ∝ r inside. The pipe's current is all at radius R.
-- (D) is the ratio the wrong way up.
+- (A) leaves out the pipe's current at 2R, or counts it at R/2.
+- (B) models it as a solid rod carrying 2I evenly, with B ∝ r inside. The pipe's current is all at radius R.
+- (C) is the ratio the wrong way up.
 
 **If you missed this:** read "Wires and cylinders" in the [12.4 study guide](/advanced-course-resources/physics-c-electricity-and-magnetism/12-4-amp-res-law-study-guide/).
 </details>
@@ -263,7 +263,7 @@ Count a short answer as missed if you lost more than one mark.
 
 ## How to use your result
 
-- **Missed nothing in a topic?** Skip its study guide for now and go straight to the [mixed unit review](/advanced-course-resources/physics-c-electricity-and-magnetism/unit-12-review/), which joins the topics together.
+- **Missed nothing in a topic?** Go straight to the [mixed unit review](/advanced-course-resources/physics-c-electricity-and-magnetism/unit-12-review/).
 - **Missed one topic?** Read that study guide, then do its practice set before the review.
 - **Missed three or more topics?** Work through 12.1 to 12.4 in order; each builds on the one before.
 - **Got it right but guessed?** Treat it as missed.

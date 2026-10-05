@@ -195,7 +195,7 @@ Total: 5 points.
 
 ## Question 6 (constructed response · mixed)
 
-Only two firms, **Kestrel** (row) and **Lomond** (column), sell road salt in a fictional region. Market demand is Q = 100 − 2P (Q in thousand tonnes per week, P in $ per tonne). Each firm's MC = ATC = $10. Each firm chooses a high price ($30) or a low price ($24). The cheaper firm wins every buyer; at equal prices the firms split sales equally.
+Only two firms, **Kestrel** (row) and **Lomond** (column), sell builders' sand in a fictional region. Market demand is Q = 100 − 2P (Q in thousand tonnes per week, P in $ per tonne). Each firm's MC = ATC = $10. Each firm chooses a high price ($30) or a low price ($24). The cheaper firm wins every buyer; at equal prices the firms split sales equally.
 
 (a) Show that $30 is the monopoly price. (MR = 50 − Q.)
 (b) Calculate the weekly profits ($ thousand) and build the payoff matrix.
@@ -286,9 +286,9 @@ Total: 5 points.
 Questions 1 to 3 are worth 1 point each and Questions 4 to 7 are worth 6, 5, 7 and 5: 26 in all.
 
 - **MR below demand and P > MC (Q1, Q4, Q6):** the [Topic 4.1 checklist](/advanced-course-resources/microeconomics/4-1-introduction-imperfectly-competitive-markets-checklist/).
-- **Monopoly output, profit and surplus areas (Q4, Q5, Q6):** the [Topic 4.2 checklist](/advanced-course-resources/microeconomics/4-2-monopoly-checklist/).
+- **Monopoly output, profit and surplus areas (Q1, Q2, Q4, Q5, Q6):** the [Topic 4.2 checklist](/advanced-course-resources/microeconomics/4-2-monopoly-checklist/).
 - **Price discrimination (Q2, Q4, Q7):** the [Topic 4.3 checklist](/advanced-course-resources/microeconomics/4-3-price-discrimination-checklist/).
-- **Entry, tangency and excess capacity (Q3, Q5, Q7):** the [Topic 4.4 checklist](/advanced-course-resources/microeconomics/4-4-monopolistic-competition-checklist/).
+- **Entry, tangency and excess capacity (Q1, Q3, Q5, Q7):** the [Topic 4.4 checklist](/advanced-course-resources/microeconomics/4-4-monopolistic-competition-checklist/).
 - **Payoff matrices and incentives (Q6):** the [Topic 4.5 checklist](/advanced-course-resources/microeconomics/4-5-oligopoly-game-theory-checklist/).
 
 Not taken the [Unit 4 diagnostic](/advanced-course-resources/microeconomics/unit-4-diagnostic/) yet? It shows which single topic to revisit first.
