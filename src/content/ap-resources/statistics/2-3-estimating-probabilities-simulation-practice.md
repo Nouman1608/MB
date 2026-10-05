@@ -34,7 +34,7 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-These are **original Marlbridge practice questions**, not past exam questions. All contexts and data are fictional, and the random digits and simulation results were produced by a computer for this page. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Assumptions for every question: read random digits from left to right and ignore the spaces; trials are independent unless the question says otherwise; give estimated probabilities to 3 decimal places unless stated.
+These are **original Marlbridge practice questions**, not past exam questions. All contexts and data are fictional, and the lines of random digits and the simulation results were created for this page. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Assumptions for every question: read random digits from left to right and ignore the spaces; trials are independent unless the question says otherwise; give estimated probabilities to 3 decimal places unless stated.
 
 ## Question 1 (multiple choice · foundation)
 

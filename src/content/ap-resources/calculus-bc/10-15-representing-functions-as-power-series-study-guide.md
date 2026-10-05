@@ -23,7 +23,7 @@ skills: ["2", "3"]
 studyMinutes: 55
 difficulty: "stretch"
 calculator: "mixed"
-calculatorNote: "Building series is a no-calculator skill. Where a calculator is allowed, you may use it to compare a partial sum with the function value; give decimals to 3 decimal places unless told otherwise."
+calculatorNote: "Building series is a no-calculator skill. Where a calculator is allowed, you may use it to compare a partial sum with the function value; give decimals to at least 3 decimal places, and more when an error bound needs them."
 related: ["mb-ap-calcbc-10.15-revision-notes", "mb-ap-calcbc-10.15-practice", "mb-ap-calcbc-10.15-checklist"]
 next: "mb-ap-calcbc-10.15-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
@@ -151,7 +151,7 @@ If f(x) = Σ aₙ xⁿ for |x| < R, then
 - **f′(x) = Σ from n = 1 to ∞ of n aₙ xⁿ⁻¹** (the constant term differentiates to 0, so the sum starts at n = 1), and
 - **∫ from 0 to x of f(t) dt = Σ aₙ xⁿ⁺¹/(n + 1)**.
 
-**The radius of convergence R does not change.** The endpoints can. Integrating divides each term by (n + 1), which can make a divergent endpoint converge. Differentiating multiplies by n, which can make a convergent endpoint diverge. So **test both endpoints again** every time.
+**The radius of convergence R does not change.** In the ratio test, the new factor n (or 1/(n + 1)) changes each ratio only by a factor like (n + 1)/n, which tends to 1, so the limit and R stay the same. The endpoints can change. Integrating divides each term by (n + 1), which can make a divergent endpoint converge. Differentiating multiplies by n, which can make a convergent endpoint diverge. So **test both endpoints again** every time.
 
 **Example: differentiating to sum a series.** Differentiate 1/(1 − x) = Σ xⁿ:
 
@@ -190,7 +190,7 @@ The series is alternating with terms decreasing to 0, so the error is less than 
 <figure>
 <svg viewBox="0 0 540 345" role="img" aria-labelledby="lnps-title lnps-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="lnps-title">The graph of y = ln(4 + x) with two partial sums of its Maclaurin series</title>
-<desc id="lnps-desc">Axes from x = −6 to 6 and y = −2 to 3. A thick solid curve shows y = ln(4 + x), which falls steeply towards x = −4 and rises slowly to about 2.3 at x = 6. A dashed curve shows the partial sum up to x³. A dotted curve shows the partial sum up to x¹⁰. Between x = −3 and x = 3 the dotted curve lies almost on top of the solid curve, closer than the dashed one. Beyond x = 4 the dotted curve turns sharply down and leaves the graph near x = 6, and to the left of x = −4 both partial sums continue where the function does not exist. A bar under the x-axis marks the interval of convergence from −4, an open circle, to 4, a filled circle.</desc>
+<desc id="lnps-desc">Axes from x = −6 to 6 and y = −2 to 3. A thick solid curve shows y = ln(4 + x), which falls steeply towards x = −4 and rises slowly to about 2.3 at x = 6. A dashed curve shows the partial sum up to x³. A dotted curve shows the partial sum up to x¹⁰. Between x = −3 and x = 3 the dotted curve lies almost on top of the solid curve, closer than the dashed one. Beyond x = 4 the dotted curve turns sharply down, reaching about −1 at x = 6, and to the left of x = −4 both partial sums continue where the function does not exist. A bar under the x-axis marks the interval of convergence from −4, an open circle, to 4, a filled circle.</desc>
 <rect x="0" y="0" width="540" height="345" fill="#ffffff"/>
 <g stroke="#c9ced8" stroke-width="1">
 <line x1="60" y1="40" x2="520" y2="40"/><line x1="60" y1="90" x2="520" y2="90"/><line x1="60" y1="140" x2="520" y2="140"/><line x1="60" y1="240" x2="520" y2="240"/><line x1="60" y1="290" x2="520" y2="290"/>

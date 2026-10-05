@@ -46,6 +46,6 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 - I can decide whether outcomes are equally likely before I count them, and explain why counting fails when they are not. *(Guide: Worked example 1(d); Practice Q3, Q5(d), Q7(a))*
 - I can describe the complement of an event in words, such as "at most 1" for "at least 2". *(Guide: complement table; Practice Q7(b))*
-- I can use the 0-to-1 rule to spot an impossible answer and explain the error. *(Practice Q4(c), Q7(c))*
+- I can use the 0-to-1 rule and the fact that P(S) = 1 to spot an impossible answer and explain the error. *(Practice Q4(c), Q7(c))*
 
 All ticked? Move on to [Topic 2.5: Mutually Exclusive Events](/advanced-course-resources/statistics/2-5-mutually-exclusive-events-study-guide/), or return to the [course roadmap](/advanced-course-resources/statistics/#roadmap).

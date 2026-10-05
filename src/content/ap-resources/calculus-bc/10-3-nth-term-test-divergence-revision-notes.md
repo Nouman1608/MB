@@ -56,6 +56,7 @@ Short on time? This page is the recap. For the proof, the graph and worked examp
 
 - Rational terms: compare the highest powers (equal powers → ratio of leading coefficients).
 - 1^∞, ∞ · 0, 0/0 forms: rewrite with a continuous x and use logarithms or L'Hospital's Rule. Example: (1 + 2/n)ⁿ → e².
+- Terms with a factor (−1)ⁿ: check the size first. If the size approaches a non-zero number, the terms swing and the limit does not exist.
 - The starting index and the first few terms never affect the limit.
 
 ## Mistakes to avoid

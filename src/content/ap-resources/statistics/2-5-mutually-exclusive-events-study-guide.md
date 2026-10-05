@@ -84,7 +84,7 @@ If two events cannot happen together, the probability that they both happen is z
 
 **A and B are mutually exclusive ⇔ P(A ∩ B) = 0**
 
-This gives you a test you can calculate.
+This gives you a test you can calculate. (It works in the settings of this course, where you list outcomes or count individuals and every outcome you list has a probability above 0.)
 
 | What you find | Conclusion |
 |---|---|
@@ -102,7 +102,7 @@ A **Venn diagram** draws the sample space as a rectangle and each event as a clo
 <figure>
 <svg viewBox="0 0 640 280" role="img" aria-labelledby="venn25-title venn25-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="venn25-title">Two Venn diagrams: overlapping events and mutually exclusive events</title>
-<desc id="venn25-desc">Left panel: a rectangle labelled sample space contains two overlapping circles labelled A and B. The region where they overlap is filled with diagonal hatching and labelled A intersect B, both happen, P of A intersect B is greater than 0. Right panel: a rectangle labelled sample space contains two circles labelled A and B that do not touch, with a gap between them labelled no overlap, P of A intersect B equals 0, mutually exclusive.</desc>
+<desc id="venn25-desc">Left panel: a rectangle labelled sample space contains two overlapping circles labelled A and B. The region where they overlap is filled with diagonal hatching. The caption below reads: hatched overlap equals A intersect B, both happen; P of A intersect B is greater than 0, not mutually exclusive. Right panel: a rectangle labelled sample space contains two circles labelled A and B that do not touch, with a gap between them. The caption below reads: no overlap, P of A intersect B equals 0; A and B are mutually exclusive (disjoint). In both panels A has a solid outline and B a dashed outline.</desc>
 <defs>
 <pattern id="hatch25" patternUnits="userSpaceOnUse" width="8" height="8" patternTransform="rotate(45)">
 <line x1="0" y1="0" x2="0" y2="8" stroke="#1d2b44" stroke-width="2"/>

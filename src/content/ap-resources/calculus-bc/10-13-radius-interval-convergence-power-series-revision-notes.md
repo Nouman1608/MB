@@ -69,7 +69,7 @@ Short on time? This page is the recap. For the number-line diagram and worked ex
 
 1. Calling the interval length the radius (length is 2R).
 2. Reading R from |2x − 5| < 1 without factoring.
-3. Wrong centre sign: (x + 2)ⁿ is centred at −2.
+3. Wrong centre sign: (x + 1)ⁿ is centred at −1.
 4. Skipping the endpoints, or testing them with the ratio test.
 5. Leaving out a conditionally convergent endpoint.
 6. Assuming a differentiated series keeps the same endpoints.

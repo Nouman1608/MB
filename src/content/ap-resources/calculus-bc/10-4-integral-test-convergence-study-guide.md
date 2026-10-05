@@ -195,7 +195,7 @@ For Worked example 1: 0.184 ≤ sum ≤ 0.368 + 0.184 = 0.552. The true sum, abo
 
 - **Terms that change sign**, such as (−1)ⁿ/n or (sin n)/n². f is not positive. Use the tests of Topics 10.7 and 10.9.
 - **Terms that wobble**, such as (2 + cos n)/n². These are positive but not decreasing. A comparison test (Topic 10.6) is the right tool.
-- **No usable antiderivative**, for example 1/n! or e^(−n²). The test may be valid, but you cannot evaluate the integral. Choose another test.
+- **No usable f or antiderivative**, for example 1/n! (n! has no simple formula for non-whole x) or e^(−n²) (e^(−x²) has no elementary antiderivative). Even where the conditions hold, you cannot evaluate the integral. Choose another test.
 
 ## Common misconceptions
 

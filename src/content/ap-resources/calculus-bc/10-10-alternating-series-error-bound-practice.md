@@ -177,34 +177,39 @@ Total: 4 points. Common error: answering n = 6, the index of the bounding term, 
 
 ## Question 7 (constructed response · stretch)
 
-Let S = Σ (−1)ⁿ⁺¹ aₙ with aₙ = n/(n² + 10).
+Let S = Σ (−1)ⁿ⁺¹ aₙ with aₙ = n²/(n³ + 30).
 
-(a) Find a₁, a₂, a₃ and a₄. Are the terms decreasing from the start?
-(b) Using f(x) = x/(x² + 10), show that the terms decrease for n ≥ 3, and explain why the series converges.
-(c) Explain why the alternating series error bound can still be used for Sₙ when n ≥ 2.
-(d) Find the smallest n for which the alternating series error bound guarantees |S − Sₙ| < 0.05.
+(a) Find a₁, a₂, a₃, a₄ and a₅. Are the terms decreasing from the start?
+(b) Using f(x) = x²/(x³ + 30), show that the terms decrease for n ≥ 4, and explain why the series converges.
+(c) Explain why the alternating series error bound can still be used for Sₙ when n ≥ 3.
+(d) Find the smallest n ≥ 3 for which the alternating series error bound guarantees |S − Sₙ| < 0.04.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** a₁ = 1/11 ≈ 0.0909, a₂ = 2/14 = 1/7 ≈ 0.1429, a₃ = 3/19 ≈ 0.1579, a₄ = 4/26 = 2/13 ≈ 0.1538. **No:** the terms increase from a₁ to a₃ and only then start to decrease.
+**(a)** a₁ = 1/31 ≈ 0.0323, a₂ = 4/38 = 2/19 ≈ 0.1053, a₃ = 9/57 = 3/19 ≈ 0.1579, a₄ = 16/94 = 8/47 ≈ 0.1702, a₅ = 25/155 = 5/31 ≈ 0.1613. **No:** the terms increase from a₁ to a₄ and only then start to decrease.
 
-**(b)** f′(x) = (10 − x²)/(x² + 10)². This is negative when x² > 10, that is x > √10 ≈ 3.162. So f is decreasing for x ≥ √10, giving a₄ > a₅ > a₆ > …, and from (a) a₃ > a₄ too. So the terms decrease for n ≥ 3. Also aₙ → 0 (degree 1 over degree 2). The alternating series test applied to the terms from n = 3 onwards shows that this part of the series converges; adding the first two terms (a finite amount) does not change convergence. So the series converges.
+**(b)** By the quotient rule, f′(x) = [2x(x³ + 30) − 3x⁴]/(x³ + 30)² = x(60 − x³)/(x³ + 30)². For x > 0 this is negative when x³ > 60, that is x > ∛60 ≈ 3.915. So f is decreasing for x ≥ 4, giving a₄ > a₅ > a₆ > … . Also aₙ → 0 (degree 2 over degree 3). The alternating series test applied to the terms from n = 4 onwards shows that this part of the series converges; adding the first three terms (a finite amount) does not change convergence. So the series converges.
 
-**(c)** S − Sₙ is the tail ±(aₙ₊₁ − aₙ₊₂ + …). When n ≥ 2, the tail starts at index 3 or later, so its terms are decreasing and approach 0. The zigzag argument then applies to the tail, giving |S − Sₙ| ≤ aₙ₊₁.
+**(c)** S − Sₙ is the tail ±(aₙ₊₁ − aₙ₊₂ + …). When n ≥ 3, the tail starts at index 4 or later, so its terms are decreasing and approach 0. The zigzag argument then applies to the tail, giving |S − Sₙ| ≤ aₙ₊₁. (For n = 1 or 2 the tail begins with terms that are still increasing, so the bound is not justified.)
 
-**(d)** Let m = n + 1. Solve m/(m² + 10) < 0.05: m < 0.05m² + 0.5, so m² − 20m + 10 > 0. The roots are m = 10 ± √90 ≈ 0.513 and 19.487, so (for m ≥ 3) you need m > 19.487, giving m = 20 and **n = 19**.
-Check: a₂₀ = 20/410 ≈ 0.04878 < 0.05, but a₁₉ = 19/371 ≈ 0.05121 > 0.05, so n = 18 is not enough.
+**(d)** Let m = n + 1, so m ≥ 4. You need m²/(m³ + 30) < 0.04, that is 25m² < m³ + 30, or **m²(m − 25) + 30 > 0**.
+- m = 25: 0 + 30 > 0, so the inequality holds.
+- 6 ≤ m ≤ 24: m − 25 ≤ −1, so m²(m − 25) + 30 ≤ −m² + 30 < 0 (because m² ≥ 36). The inequality fails.
+- m = 4 and m = 5: a₄ ≈ 0.1702 and a₅ ≈ 0.1613, both above 0.04.
+
+So m = 25, giving **n = 24**.
+Check: a₂₅ = 625/15655 = 125/3131 ≈ 0.039923 < 0.04, but a₂₄ = 576/13854 = 96/2309 ≈ 0.041576 > 0.04, so n = 23 is not enough. (Note that a₁ ≈ 0.0323 is below 0.04, but that is irrelevant: the bound is only valid once n ≥ 3.)
 
 | Point | What earns it |
 |---|---|
-| 1 | Correct a₁ to a₄ and the conclusion that the terms are not decreasing at first |
-| 1 | f′(x) correct, with the sign argument giving decreasing terms for n ≥ 3 |
-| 1 | Convergence justified: alternating series test on the tail from n = 3, with aₙ → 0 |
+| 1 | Correct a₁ to a₅ and the conclusion that the terms are not decreasing at first |
+| 1 | f′(x) correct, with the sign argument giving decreasing terms for n ≥ 4 |
+| 1 | Convergence justified: alternating series test on the tail from n = 4, with aₙ → 0 |
 | 1 | (c) explains that the bound needs only the omitted terms to satisfy the conditions |
-| 1 | n = 19, with the check of a₁₉ and a₂₀ |
+| 1 | n = 24, with the check of a₂₄ and a₂₅ |
 
-Total: 5 points. Acceptable alternative for (d): testing values of aₘ near 0.05 with a calculator, provided both a₁₉ and a₂₀ are shown.
+Total: 5 points. Acceptable alternative for (d): testing values of aₘ near 0.04 with a calculator, provided both a₂₄ and a₂₅ are shown.
 </details>
 
 ## How did you do?

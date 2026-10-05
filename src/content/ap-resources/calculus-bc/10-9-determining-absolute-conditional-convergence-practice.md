@@ -148,7 +148,7 @@ So **Σ (−1)ⁿ/(n ln n) converges**.
 | 1 | Alternating series test with **both** conditions shown: bₙ decreasing and bₙ → 0 |
 | 1 | Classification "conditionally convergent", supported by (a) and (b) |
 
-Total: 4 points. Note for (a): direct comparison with the harmonic series does not work here, because 1/(n ln n) is smaller than 1/n, and being smaller than a divergent series proves nothing. An answer that only says "smaller than 1/n, so diverges" earns no credit for (a).
+Total: 4 points. Note for (a): direct comparison with the harmonic series does not work here, because 1/(n ln n) is smaller than 1/n (for n ≥ 3, where ln n > 1), and being smaller than a divergent series proves nothing. An answer that only says "smaller than 1/n, so diverges" earns no credit for (a).
 </details>
 
 ## Question 6 (constructed response · core)

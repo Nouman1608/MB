@@ -71,5 +71,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 1. P(E) = 0.27. Find P(Eᶜ). *(1 − 0.27 = 0.73)*
 2. A fair spinner has 5 equal sectors numbered 1 to 5. Find P(even number). *(2 of 5 outcomes: 2/5 = 0.4)*
 3. What is the complement of "at least one of the three days is sunny"? *(None of the three days is sunny.)*
+4. Two fair coins are tossed. Find P(at least one head). *(S = {HH, HT, TH, TT}, four equally likely outcomes. P(no heads) = 1/4, so P(at least one head) = 1 − 1/4 = 3/4 = 0.75.)*
+5. A model gives P(red) = 0.45, P(blue) = 0.35 and P(green) = 0.3 for the only three outcomes. What is wrong? *(The probabilities add to 1.1, not 1.)*
 
 Next: [practice questions](/advanced-course-resources/statistics/2-4-introduction-probability-practice/).

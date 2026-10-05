@@ -141,7 +141,7 @@ Common error: writing the general term with (−1)ⁿ, which gives +1 as the fir
 
 ## Question 6 (constructed response · core)
 
-A function f has derivatives of all orders at x = 2, with f⁽ⁿ⁾(2) = (−1)ⁿ n! / ((n + 1) 5ⁿ) for n = 0, 1, 2, … .
+A function f has derivatives of all orders at x = 2, with f⁽ⁿ⁾(2) = n! / ((n² + 1) 5ⁿ) for n = 0, 1, 2, … .
 
 (a) Write the first four terms and the general term of the Taylor series for f about x = 2.
 (b) Find the interval of convergence of this series. Justify each endpoint.
@@ -151,28 +151,28 @@ A function f has derivatives of all orders at x = 2, with f⁽ⁿ⁾(2) = (−1)
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** aₙ = f⁽ⁿ⁾(2)/n! = (−1)ⁿ/((n + 1)5ⁿ). So a₀ = 1, a₁ = −1/10, a₂ = 1/75, a₃ = −1/500.
+**(a)** aₙ = f⁽ⁿ⁾(2)/n! = 1/((n² + 1)5ⁿ). So a₀ = 1, a₁ = 1/10, a₂ = 1/125, a₃ = 1/1250.
 
-**Taylor series: 1 − (x − 2)/10 + (x − 2)²/75 − (x − 2)³/500 + … = Σ from n = 0 to ∞ of (−1)ⁿ(x − 2)ⁿ/((n + 1)5ⁿ)**
+**Taylor series: 1 + (x − 2)/10 + (x − 2)²/125 + (x − 2)³/1250 + … = Σ from n = 0 to ∞ of (x − 2)ⁿ/((n² + 1)5ⁿ)**
 
-**(b)** Ratio: |uₙ₊₁/uₙ| = (|x − 2|/5) · (n + 1)/(n + 2) → |x − 2|/5. So |x − 2| < 5, R = 5, open interval (−3, 7).
-- x = 7: x − 2 = 5, so the series is Σ (−1)ⁿ/(n + 1) = 1 − ½ + ⅓ − … . Alternating, 1/(n + 1) decreases to 0: **converges**.
-- x = −3: x − 2 = −5, so (−1)ⁿ(−5)ⁿ = 5ⁿ and the series is Σ 1/(n + 1), the harmonic series: **diverges**.
+**(b)** Ratio: |uₙ₊₁/uₙ| = (|x − 2|/5) · (n² + 1)/((n + 1)² + 1) → |x − 2|/5. So |x − 2| < 5, R = 5, open interval (−3, 7).
+- x = 7: x − 2 = 5, so the series is Σ 1/(n² + 1). For n ≥ 1, 0 < 1/(n² + 1) < 1/n², and Σ 1/n² is a convergent p-series (p = 2). By the direct comparison test it **converges**.
+- x = −3: x − 2 = −5, so the series is Σ (−1)ⁿ/(n² + 1). Its absolute values form the convergent series from x = 7, so it **converges absolutely**.
 
-Interval of convergence: **(−3, 7]**.
+Interval of convergence: **[−3, 7]**.
 
-**(c)** P₂(x) = 1 − (x − 2)/10 + (x − 2)²/75. With x − 2 = 0.5: P₂(2.5) = 1 − 0.05 + 0.25/75 = **143/150 ≈ 0.953**.
+**(c)** P₂(x) = 1 + (x − 2)/10 + (x − 2)²/125. With x − 2 = 0.5: P₂(2.5) = 1 + 0.05 + 0.25/125 = **1.052** (= 263/250).
 
-**(d)** f′(2) = a₁ · 1! = −1/10 < 0, so f is **decreasing** at x = 2.
+**(d)** f′(2) = a₁ · 1! = 1/10 > 0, so f is **increasing** at x = 2.
 
 | Point | What earns it |
 |---|---|
 | 1 | Four correct terms with (x − 2) powers |
-| 1 | Correct general term (−1)ⁿ(x − 2)ⁿ/((n + 1)5ⁿ) |
+| 1 | Correct general term (x − 2)ⁿ/((n² + 1)5ⁿ) |
 | 1 | Radius 5 from a correct ratio test |
-| 1 | Both endpoints decided with named tests, giving (−3, 7] |
-| 1 | P₂(2.5) = 143/150 ≈ 0.953 |
-| 1 | Decreasing, because f′(2) = −1/10 < 0 |
+| 1 | Both endpoints decided with named tests, giving [−3, 7] |
+| 1 | P₂(2.5) = 1.052 |
+| 1 | Increasing, because f′(2) = 1/10 > 0 |
 
 Total: 6 points. In (a), forgetting to divide by n! (writing f⁽ⁿ⁾(2) as the coefficient) loses both (a) points, but later parts can earn credit if they follow correctly from the student's series.
 </details>

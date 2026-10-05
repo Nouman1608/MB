@@ -190,7 +190,7 @@ Total: 7 points. The error-bound point needs a reason (alternating, decreasing t
 Let h(x) = ∫ from 0 to x of 1/(1 + t⁴) dt.
 
 (a) Write the first four nonzero terms and the general term of the Maclaurin series for 1/(1 + t⁴). For which t does it converge?
-(b) Write the first four nonzero terms and the general term of the Maclaurin series for h(x).
+(b) Find the Maclaurin series for h(x): give its first four nonzero terms and its general term.
 (c) Find the interval of convergence of the series in (b). Justify your answer at each endpoint.
 (d) Find h⁽⁹⁾(0).
 (e) Use the first two nonzero terms of (b) to approximate h(1/2), and give a bound on the error.

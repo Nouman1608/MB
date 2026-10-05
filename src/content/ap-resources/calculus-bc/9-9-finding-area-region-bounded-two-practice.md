@@ -81,21 +81,21 @@ How many distinct points do the curves r = 2 sin θ and r = 2 − 2 sin θ have 
 
 ## Question 3 (multiple choice · core)
 
-Which expression gives the area of the region inside both r = 3 cos θ and r = √3 sin θ?
+The circle r = 4 sin θ and the circle r = 2√2 overlap. Which expression gives the area of the part of the region inside both circles that lies in the first quadrant?
 
-- (A) ½ ∫ from 0 to π/3 of 3 sin²θ dθ + ½ ∫ from π/3 to π/2 of 9 cos²θ dθ
-- (B) ½ ∫ from 0 to π/3 of 9 cos²θ dθ + ½ ∫ from π/3 to π/2 of 3 sin²θ dθ
-- (C) ½ ∫ from 0 to π/3 of (9 cos²θ − 3 sin²θ) dθ
-- (D) ½ ∫ from 0 to π/2 of (9 cos²θ − 3 sin²θ) dθ
+- (A) ½ ∫ from 0 to π/4 of 16 sin²θ dθ + ½ ∫ from π/4 to π/2 of 8 dθ
+- (B) ½ ∫ from 0 to π/4 of 8 dθ + ½ ∫ from π/4 to π/2 of 16 sin²θ dθ
+- (C) ½ ∫ from π/4 to π/2 of (16 sin²θ − 8) dθ
+- (D) ½ ∫ from 0 to π/2 of (8 − 16 sin²θ) dθ
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The curves meet where 3 cos θ = √3 sin θ, so tan θ = √3 and θ = π/3 (r = 3/2). They also share the pole. Test θ = π/6: r = √3 sin θ ≈ 0.866 and r = 3 cos θ ≈ 2.598, so the circle r = √3 sin θ is nearer the pole on [0, π/3]. Past π/3 the circle r = 3 cos θ is nearer (at θ = π/2 it is 0). For a region inside both, use the nearer curve on each piece. The value is 5π/8 − 3√3/4 ≈ 0.665.
+**Answer: (A).** The curves meet where 4 sin θ = 2√2, so sin θ = √2/2 and θ = π/4 in the first quadrant. They do not share the pole, because r = 2√2 never reaches it. Test θ = π/6: r = 4 sin θ = 2 and r = 2√2 ≈ 2.828, so the circle r = 4 sin θ is nearer the pole on [0, π/4]. At θ = π/2 it has r = 4, so on [π/4, π/2] the circle r = 2√2 is nearer (r² = 8). For a region inside both, use the nearer curve on each piece. The value is 2π − 2 ≈ 4.283.
 
-- (B) uses the **farther** curve on each piece. Its value, 7π/8 + 3√3/4 ≈ 4.048, is larger than the whole smaller circle (area 3π/4 ≈ 2.356), which is impossible.
-- (C) is the area inside r = 3 cos θ and outside r = √3 sin θ for 0 ≤ θ ≤ π/3. That is a different region.
-- (D) subtracts all the way to π/2, but past π/3 the "outer" curve is the inner one. It gives the difference of two separate areas, not the shared region.
+- (B) uses the **farther** curve on each piece. Its value, 2π + 2 ≈ 8.283, is larger than a quarter of the disc r ≤ 2√2 (area 2π ≈ 6.283), which is impossible.
+- (C) is the area inside r = 4 sin θ and outside r = 2√2 in the first quadrant (it equals 2). That is a different region.
+- (D) subtracts over the whole quadrant, but the "outer" curve changes at π/4. The positive and negative parts cancel and the integral equals 0, which cannot be the area.
 </details>
 
 ## Question 4 (multiple choice · stretch · calculator)
@@ -140,7 +140,7 @@ Let R be the region inside the rose r = 2 sin 2θ and outside the circle r = 1.
 [θ − ½ sin 4θ] from π/12 to 5π/12 = (5π/12 − ½ sin(5π/3)) − (π/12 − ½ sin(π/3)) = (5π/12 + √3/4) − (π/12 − √3/4) = π/3 + √3/2.
 So **A₁ = ½(π/3 + √3/2) = π/6 + √3/4 ≈ 0.957**.
 
-**(d)** Each petal reaches r = 2, beyond the circle, in the same way, so R has four congruent pieces: **Area = 4A₁ = 2π/3 + √3 ≈ 3.826**.
+**(d)** Each petal reaches r = 2, beyond the circle, in the same way, so R has four congruent pieces: **Area = 4A₁ = 2π/3 + √3 ≈ 3.826**. Two petals are traced with r < 0 (for example, π/2 < θ < π draws the fourth-quadrant petal), but r² is the same, so each piece still has area A₁. Each petal is swept once for 0 ≤ θ ≤ 2π, so do not double count.
 
 Suggested mark points (4): 1 for both angles π/12 and 5π/12; 1 for the integral with ½, the squares and correct limits; 1 for the exact value π/6 + √3/4; 1 for multiplying by 4 with a reason.
 

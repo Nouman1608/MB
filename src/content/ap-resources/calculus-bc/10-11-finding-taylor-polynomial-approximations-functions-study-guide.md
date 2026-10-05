@@ -187,7 +187,7 @@ Two lessons:
 **Checks.**
 - *Matching:* P₃(2) = ln 2 and P₃′(2) = ½, as required.
 - *Calculator comparison (where allowed):* ln 2.2 ≈ 0.788457, so the estimate is off by about 0.000023. The tangent line alone gives ln 2 + 0.1 ≈ 0.793147, off by about 0.0047. The extra terms improved the estimate by a factor of about 200.
-- *Common slip:* forgetting the factorials gives ln 2 + 0.1 − 0.01 + 0.002 ≈ 0.790897, which is worse than the correct P₃.
+- *Common slip:* forgetting the factorials gives ln 2 + 0.1 − 0.01 + 0.002 ≈ 0.785147, which is off by about 0.0033, far worse than the correct P₃.
 
 ## Worked example 2: a polynomial from a table (no formula for f)
 

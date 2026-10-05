@@ -102,7 +102,7 @@ So the set of x where a power series converges is never scattered. It is a singl
 <figure>
 <svg viewBox="0 0 560 280" role="img" aria-labelledby="roc-title roc-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="roc-title">Where a power series converges: the general picture and one example</title>
-<desc id="roc-desc">Two number lines. The top line shows the general case. The centre c is in the middle. A thick segment runs from c minus R to c plus R and is labelled converges absolutely. Beyond these points the line is dashed and labelled diverges. Each endpoint has a question mark and the note test separately. A double arrow from c to c plus R is labelled R. The bottom line shows the example series sum of (x + 2) to the n over n times 3 to the n, with x from minus 7 to 3. The thick segment runs from minus 5 to 1 around the centre minus 2. There is a filled dot at minus 5, labelled converges, and an open dot at 1, labelled diverges, so the interval of convergence is from minus 5 included to 1 excluded.</desc>
+<desc id="roc-desc">Two number lines. The top line shows the general case. The centre c is in the middle. A thick segment runs from c minus R to c plus R and is labelled converges absolutely. Beyond these points the line is dashed and labelled diverges. Each endpoint has a question mark and the note test separately. A double arrow from c to c plus R is labelled R. The bottom line shows the example series sum of (x + 1) to the n over n times 4 to the n, with x from minus 6 to 4. The thick segment runs from minus 5 to 3 around the centre minus 1. There is a filled dot at minus 5, labelled converges, and an open dot at 3, labelled diverges, so the interval of convergence is from minus 5 included to 3 excluded.</desc>
 <rect x="0" y="0" width="560" height="280" fill="#ffffff"/>
 <text x="20" y="22" font-size="13" fill="#1d2b44" font-weight="bold">General case: centre c, radius R</text>
 <line x1="30" y1="80" x2="140" y2="80" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="6 4"/>
@@ -119,16 +119,16 @@ So the set of x where a power series converges is never scattered. It is a singl
 <line x1="286" y1="138" x2="414" y2="138" stroke="#1d2b44" stroke-width="1.2"/>
 <polygon points="280,138 290,134 290,142" fill="#1d2b44"/><polygon points="420,138 410,134 410,142" fill="#1d2b44"/>
 <text x="350" y="134" font-size="12" fill="#1d2b44" text-anchor="middle">R</text>
-<text x="20" y="172" font-size="13" fill="#1d2b44" font-weight="bold">Example: Σ (x + 2)ⁿ / (n · 3ⁿ), interval [−5, 1)</text>
+<text x="20" y="172" font-size="13" fill="#1d2b44" font-weight="bold">Example: Σ (x + 1)ⁿ / (n · 4ⁿ), interval [−5, 3)</text>
 <line x1="30" y1="225" x2="530" y2="225" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="6 4"/>
-<line x1="130" y1="225" x2="430" y2="225" stroke="#1d2b44" stroke-width="6"/>
-<g stroke="#1d2b44" stroke-width="1"><line x1="30" y1="219" x2="30" y2="231"/><line x1="80" y1="219" x2="80" y2="231"/><line x1="180" y1="219" x2="180" y2="231"/><line x1="230" y1="219" x2="230" y2="231"/><line x1="280" y1="219" x2="280" y2="231"/><line x1="330" y1="219" x2="330" y2="231"/><line x1="380" y1="219" x2="380" y2="231"/><line x1="480" y1="219" x2="480" y2="231"/><line x1="530" y1="219" x2="530" y2="231"/></g>
-<circle cx="130" cy="225" r="7" fill="#1d2b44" stroke="#1d2b44" stroke-width="2"/>
-<circle cx="430" cy="225" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<line x1="80" y1="225" x2="480" y2="225" stroke="#1d2b44" stroke-width="6"/>
+<g stroke="#1d2b44" stroke-width="1"><line x1="30" y1="219" x2="30" y2="231"/><line x1="130" y1="219" x2="130" y2="231"/><line x1="180" y1="219" x2="180" y2="231"/><line x1="230" y1="219" x2="230" y2="231"/><line x1="280" y1="219" x2="280" y2="231"/><line x1="330" y1="219" x2="330" y2="231"/><line x1="380" y1="219" x2="380" y2="231"/><line x1="430" y1="219" x2="430" y2="231"/><line x1="530" y1="219" x2="530" y2="231"/></g>
+<circle cx="80" cy="225" r="7" fill="#1d2b44" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="480" cy="225" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <g font-size="12" fill="#1d2b44" text-anchor="middle">
-<text x="30" y="250">−7</text><text x="80" y="250">−6</text><text x="130" y="250">−5</text><text x="180" y="250">−4</text><text x="230" y="250">−3</text><text x="280" y="250">−2</text><text x="330" y="250">−1</text><text x="380" y="250">0</text><text x="430" y="250">1</text><text x="480" y="250">2</text><text x="530" y="250">3</text>
-<text x="130" y="203">filled dot: converges</text><text x="430" y="203">open dot: diverges</text>
-<text x="280" y="270">centre −2, radius 3</text>
+<text x="30" y="250">−6</text><text x="80" y="250">−5</text><text x="130" y="250">−4</text><text x="180" y="250">−3</text><text x="230" y="250">−2</text><text x="280" y="250">−1</text><text x="330" y="250">0</text><text x="380" y="250">1</text><text x="430" y="250">2</text><text x="480" y="250">3</text><text x="530" y="250">4</text>
+<text x="80" y="203">filled dot: converges</text><text x="480" y="203">open dot: diverges</text>
+<text x="280" y="270">centre −1, radius 4</text>
 </g>
 </svg>
 <figcaption>Figure 1. Top: inside the radius the series converges absolutely, outside it diverges, and each endpoint needs its own test. Bottom: the result of Worked example 1, where the left endpoint is included (filled dot) and the right endpoint is not (open dot).</figcaption>
@@ -155,22 +155,22 @@ The three cases match the three outcomes above:
 
 ## Worked example 1: a radius, then the endpoints
 
-**Question.** Find the radius and the interval of convergence of **Σ from n = 1 to ∞ of (x + 2)ⁿ / (n · 3ⁿ)**.
+**Question.** Find the radius and the interval of convergence of **Σ from n = 1 to ∞ of (x + 1)ⁿ / (n · 4ⁿ)**.
 
-1. **Identify the centre.** x + 2 = x − (−2), so c = −2.
+1. **Identify the centre.** x + 1 = x − (−1), so c = −1.
 2. **Ratio of consecutive terms.**
-   |uₙ₊₁ / uₙ| = |(x + 2)ⁿ⁺¹ / ((n + 1) · 3ⁿ⁺¹)| · |(n · 3ⁿ) / (x + 2)ⁿ| = (|x + 2| / 3) · n/(n + 1).
-3. **Limit.** n/(n + 1) → 1, so L = |x + 2| / 3.
-4. **Solve L < 1.** |x + 2| < 3, so **R = 3**. The series converges on −5 < x < 1 and diverges when |x + 2| > 3.
-5. **Right endpoint, x = 1.** Then x + 2 = 3 and the series is Σ 3ⁿ/(n · 3ⁿ) = **Σ 1/n**, the harmonic series. It **diverges**.
-6. **Left endpoint, x = −5.** Then x + 2 = −3 and the series is Σ (−3)ⁿ/(n · 3ⁿ) = **Σ (−1)ⁿ/n**. The terms alternate in sign, 1/n decreases and 1/n → 0, so by the alternating series test it **converges**. (Only conditionally: the absolute values give the harmonic series.)
+   |uₙ₊₁ / uₙ| = |(x + 1)ⁿ⁺¹ / ((n + 1) · 4ⁿ⁺¹)| · |(n · 4ⁿ) / (x + 1)ⁿ| = (|x + 1| / 4) · n/(n + 1).
+3. **Limit.** n/(n + 1) → 1, so L = |x + 1| / 4.
+4. **Solve L < 1.** |x + 1| < 4, so **R = 4**. The series converges on −5 < x < 3 and diverges when |x + 1| > 4.
+5. **Right endpoint, x = 3.** Then x + 1 = 4 and the series is Σ 4ⁿ/(n · 4ⁿ) = **Σ 1/n**, the harmonic series. It **diverges**.
+6. **Left endpoint, x = −5.** Then x + 1 = −4 and the series is Σ (−4)ⁿ/(n · 4ⁿ) = **Σ (−1)ⁿ/n**. The terms alternate in sign, 1/n decreases and 1/n → 0, so by the alternating series test it **converges**. (Only conditionally: the absolute values give the harmonic series.)
 
-**Answer.** Radius **3**. Interval of convergence **[−5, 1)**.
+**Answer.** Radius **4**. Interval of convergence **[−5, 3)**.
 
 **Checks.**
-- *Centre and symmetry:* −5 and 1 are both 3 units from −2. ✓
-- *A point inside:* at x = 0 the series is Σ (2/3)ⁿ/n. Its terms are smaller than those of the convergent geometric series Σ (2/3)ⁿ, so it converges, as expected for a point inside.
-- *Notation:* a square bracket at −5 (included), a round bracket at 1 (excluded).
+- *Centre and symmetry:* −5 and 3 are both 4 units from −1. ✓
+- *A point inside:* at x = 0 the series is Σ (1/4)ⁿ/n. Its terms are smaller than those of the convergent geometric series Σ (1/4)ⁿ, so it converges, as expected for a point inside.
+- *Notation:* a square bracket at −5 (included), a round bracket at 3 (excluded).
 
 ## Worked example 2: when x has a coefficient
 
@@ -242,7 +242,7 @@ Each derivative multiplies the coefficient by n, which makes the endpoint series
 - **Reading R straight from |2x − 5| < 1.** Factor first: |x − 5/2| < 1/2 gives R = 1/2, not 1.
 - **Using the ratio test at the endpoints.** The limit is 1 there, so the test is inconclusive. Use a different test.
 - **Forgetting to test the endpoints at all.** The radius only gives the open interval. The course expects both endpoints decided, with a reason.
-- **Getting the centre's sign wrong.** (x + 2)ⁿ is centred at −2, not 2.
+- **Getting the centre's sign wrong.** (x + 1)ⁿ is centred at −1, not 1.
 - **Leaving x out of the ratio.** If you take the limit of |aₙ₊₁/aₙ| on the coefficients alone, the result is 1/R, not R. Working with the whole term avoids this.
 - **"Conditional convergence means divergence."** Σ (−1)ⁿ/n converges, so x = −5 belongs in the interval in Worked example 1.
 - **Assuming the endpoints carry over after differentiating or integrating.** Only the radius is guaranteed to stay the same.

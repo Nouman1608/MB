@@ -106,7 +106,7 @@ For which values of the constant k > 0 does ∑ n/(n² + 1)ᵏ converge?
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** Let f(x) = x(x² + 1)^(−k). Then f′(x) = (x² + 1)^(−k−1)(1 + (1 − 2k)x²), which is negative for x ≥ 1 when k > 1, so the integral test applies there.
+**Answer: (B).** Let f(x) = x(x² + 1)^(−k). Then f′(x) = (x² + 1)^(−k−1)(1 + (1 − 2k)x²), which is negative for x > 1 when k ≥ 1 (the bracket equals 2 − 2k ≤ 0 at x = 1 and decreases after that), so the integral test applies for every k ≥ 1.
 
 - For k ≠ 1: ∫ x(x² + 1)^(−k) dx = (x² + 1)^(1−k)/(2(1 − k)). As x → ∞ this has a finite limit only when 1 − k < 0, that is, k > 1. (For k = 2, the integral from 1 to ∞ is 1/4.)
 - For k = 1: ∫ x/(x² + 1) dx = ½ ln(x² + 1) → ∞. Diverges.

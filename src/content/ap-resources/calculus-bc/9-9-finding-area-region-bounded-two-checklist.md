@@ -47,7 +47,7 @@ author: "marlbridge-academic-team"
 ## Reasoning
 
 - I can justify which curve is outer (or nearer the pole) on an interval with a test angle. *(Guide: "Step 2"; Practice Q6(b), Q7(b))*
-- I can choose limits so that each part of a region is swept exactly once, including when r would be negative. *(Guide: "A note on negative r"; Practice Q3)*
+- I can choose limits so that each part of a region is swept exactly once, including when r would be negative. *(Guide: "A note on negative r"; Practice Q5(d))*
 - I can use polar areas to answer a question in context, with units and a clear conclusion. *(Practice Q7)*
 
 All ticked? Unit 9 is complete. Move on to Unit 10 with [Topic 10.1, Defining Convergent and Divergent Infinite Series](/advanced-course-resources/calculus-bc/10-1-defining-convergent-divergent-infinite-series-study-guide/), or return to the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

@@ -198,7 +198,7 @@ Notice that a digit can appear again in a **later** trial (2 appears in trials 1
 
 Estimated P(at least one gold) = (476 + 71) ÷ 1,000 = 547 ÷ 1,000 = **0.547**. The table also estimates other events: P(both gold) ≈ 71 ÷ 1,000 = 0.071. The exact probability of at least one gold tile is 8/15 ≈ 0.533, so both estimates are close, and the 1,000-trial estimate is the one to trust.
 
-**Interpretation.** If many players each drew 2 tiles from a full bag, about 55% of them would get at least one gold tile.
+**Interpretation.** Based on the 1,000-trial simulation, if many players each drew 2 tiles from a full bag, about 55% of them would get at least one gold tile.
 
 ## Common misconceptions
 

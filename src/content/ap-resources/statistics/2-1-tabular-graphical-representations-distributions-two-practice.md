@@ -213,7 +213,7 @@ A fictional museum recorded the visit length of 800 visitors. The mosaic plot ha
 
 (a) How many visitors were members? How many non-members stayed over 2 hours?
 (b) Are membership and visit length associated? Justify your answer.
-(c) A student looks at the plot and says: "The Over 2 hours segment is much taller for members, so more members than non-members stayed over 2 hours. But the counts are close." Explain how the mosaic plot shows both parts of this statement.
+(c) A student looks at the plot and says: "The Over 2 hours segment is much taller for members, so members were much more likely to stay over 2 hours. But the counts are close." Explain how the mosaic plot shows both parts of this statement.
 
 <details>
 <summary>Model answer and suggested Marlbridge rubric</summary>

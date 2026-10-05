@@ -199,6 +199,7 @@ Check by counting: every outcome except BBB has an S, which is 7 outcomes.
 - **"There are three outcomes, so each has probability 1/3."** Only if they are equally likely. A football match can end in a win, loss or draw, but these need not be equally likely.
 - **Counting values that are not equally likely.** In Worked example 1, the scores 2 to 7 are not equally likely. Count the equally likely pairs.
 - **Missing or double-counting outcomes.** Use a grid or a systematic list. BBS and SBB are different outcomes.
+- **Forgetting that order matters in two stages.** For two rolls of a die, (1, 4) and (4, 1) are different outcomes. Listing only one of them undercounts the event and gives a probability that is too small.
 - **Probabilities outside 0 to 1.** An answer such as 1.15 or −0.09 is always wrong. Use this as a check.
 - **The wrong complement.** The complement of "at least 2" is "at most 1", not "none" and not "at most 2".
 - **"P(not E) = P(E)".** The two must add to 1. If P(E) = 0.3, then P(Eᶜ) = 0.7.
