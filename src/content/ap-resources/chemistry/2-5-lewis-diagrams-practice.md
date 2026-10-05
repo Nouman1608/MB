@@ -128,7 +128,7 @@ Common error: drawing N₂H₂ with a single N–N bond and two lone pairs on on
 
 ## Question 5 (constructed response · core)
 
-The hydronium ion, H₃O⁺, and the amide ion, NH₂⁻, both have oxygen or nitrogen as the central atom.
+In the hydronium ion, H₃O⁺, the central atom is oxygen. In the amide ion, NH₂⁻, the central atom is nitrogen.
 
 (a) Calculate the number of valence electrons in each ion.
 (b) Draw (or describe) the Lewis diagram of each ion, showing how the charge is indicated.

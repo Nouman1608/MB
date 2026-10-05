@@ -88,7 +88,7 @@ Most second-period atoms (C, N, O, F) end up with 8 electrons around them: the *
 Lewis diagrams follow a fixed set of principles. This method works for nearly every molecule and ion in the course.
 
 1. **Count the total valence electrons.** Add the valence electrons of every atom (group number for groups 1 and 2; group number minus 10 for groups 13 to 18). For a negative ion, add one electron per unit of negative charge. For a positive ion, subtract one per unit of positive charge.
-2. **Choose the skeleton.** Put the **least electronegative** atom in the centre (usually the atom there is only one of, such as C in CCl₄ or S in SO₃). **Hydrogen is always on the outside** because it forms only one bond. Fluorine is also always on the outside. If the formula is written to show connectivity, such as CH₃OH, follow it.
+2. **Choose the skeleton.** Put the **least electronegative** atom in the centre (usually the atom there is only one of, such as C in CCl₄ or S in SO₃). **Hydrogen is always on the outside** because it forms only one bond. Fluorine is also always on the outside: it needs only one more electron, so it forms one bond, and it is the most electronegative element. If the formula is written to show connectivity, such as CH₃OH, follow it.
 3. **Join the atoms with single bonds.** Each bond uses 2 electrons. Subtract them from the total.
 4. **Complete the octets of the outer atoms** with lone pairs (hydrogen needs none). Subtract these electrons.
 5. **Put any electrons that are left on the central atom** as lone pairs.

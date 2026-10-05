@@ -200,7 +200,7 @@ Many molecules have both a polar part and a nonpolar part. The straight-chain al
 
 ## Worked example 2: why chain length matters
 
-**Question.** Use Figure 2. (a) Describe the trend in solubility in water as the chain gets longer. (b) Explain the trend at the particle level. (c) Predict how the solubility in water of 1-octanol (8 carbon atoms) compares with that of 1-hexanol, and which of 1-butanol and 1-hexanol dissolves better in hexane.
+**Question.** Use Figure 2. (a) Describe the trend in solubility in water as the chain gets longer. (b) Explain the trend at the particle level. (c) Predict how the solubility in water of 1-octanol (8 carbon atoms) compares with that of 1-hexanol, and which of 1-butanol and 1-hexanol has the stronger attractions to hexane molecules.
 
 **(a)** The first three alcohols are miscible with water. From 1-butanol on, solubility falls steeply: 73 g/L, then 22 g/L, then 5.9 g/L. Each extra CH₂ group cuts the solubility by a factor of roughly 3 to 4.
 
@@ -209,7 +209,7 @@ Many molecules have both a polar part and a nonpolar part. The straight-chain al
 2. The hydrocarbon chain interacts with water only through weak dispersion attractions. Water molecules next to the chain lose hydrogen bonds with each other and gain little in return.
 3. As the chain grows, the nonpolar part becomes a larger share of the molecule while the single O–H group stays the same. The molecule becomes less "like" water, so less of it dissolves.
 
-**(c)** 1-Octanol has an even longer nonpolar chain, so it should be **less** soluble in water than 1-hexanol (below 5.9 g/L). In hexane the trend reverses: a longer chain gives stronger dispersion attractions with hexane and a smaller polar fraction, so **1-hexanol** dissolves better in hexane than 1-butanol does.
+**(c)** 1-Octanol has an even longer nonpolar chain, so it should be **less** soluble in water than 1-hexanol (below 5.9 g/L). In hexane the trend reverses: a longer chain gives stronger dispersion attractions with hexane and a smaller polar fraction, so **1-hexanol** has the stronger attractions to hexane and is the more "like" hexane of the two. This is why longer-chain molecules of this kind become more soluble in nonpolar solvents.
 
 ## Worked example 3: how good is "like dissolves like"?
 

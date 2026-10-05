@@ -53,7 +53,7 @@ Short on time? This page is the recap. For explanations, figures and worked exam
 - Particle volume is tiny compared with the container volume.
 - There are no forces between particles except during collisions.
 - Collisions are elastic: total kinetic energy is conserved.
-- Temperatures are in **kelvin**.
+- Average kinetic energy is proportional to the **Kelvin** temperature, so always work in kelvin.
 
 ## Mistakes to avoid
 

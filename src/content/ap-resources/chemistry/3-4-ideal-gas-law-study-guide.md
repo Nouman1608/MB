@@ -34,7 +34,7 @@ keyPoints:
   - "A gas's molar mass follows from its density: M = dRT / P."
 faqs:
   - question: "Why must temperature be in kelvin?"
-    answer: "The gas laws are proportional to absolute temperature, which is zero at −273.15 °C. Doubling a Celsius temperature does not double the kinetic energy of the particles; doubling a kelvin temperature does."
+    answer: "The gas laws are proportional to absolute temperature, which is zero at −273.15 °C. Doubling a Celsius temperature does not double the average kinetic energy of the particles; doubling a kelvin temperature does."
   - question: "Which value of R should I use?"
     answer: "Match R to your units. With pressure in atm and volume in L, use 0.08206 L atm mol⁻¹ K⁻¹. With torr, use 62.36 L torr mol⁻¹ K⁻¹. In energy calculations, use 8.314 J mol⁻¹ K⁻¹."
   - question: "Does a heavier gas exert a larger partial pressure?"
@@ -73,7 +73,7 @@ Three habits prevent most mistakes:
 2. **Match R to your units.** 1 atm = 760 torr. If the pressure is in torr, either convert it to atm or use 62.36.
 3. **Volume in litres.** 1 L = 1000 mL = 1000 cm³.
 
-An ideal gas is a model: its particles have no volume of their own and do not attract each other. Real gases behave almost ideally at moderate temperatures and low pressures. Topic 3.6 looks at when the model fails.
+An ideal gas is a model: its particles have no volume of their own and do not attract each other. Real gases behave almost ideally at high temperatures and low pressures. Topic 3.6 looks at when the model fails.
 
 ## Reading PV = nRT as relationships
 
@@ -86,7 +86,7 @@ You often do not need a full calculation. Hold two variables fixed and look at h
 | n and V | P ∝ T | Double the kelvin temperature, double the pressure |
 | P and T | V ∝ n | Double the amount, double the volume |
 
-Each line has a particle explanation. Squeezing the same particles into half the space means twice as many wall collisions each second, so pressure doubles. Heating makes particles move faster, so they hit the walls more often and harder; at fixed volume the pressure rises, and if the pressure is fixed the gas must expand.
+Each line has a particle explanation. Squeezing the same particles into half the space means twice as many collisions with each square centimetre of wall each second, so pressure doubles. Heating makes particles move faster, so they hit the walls more often and harder; at fixed volume the pressure rises, and if the pressure is fixed the gas must expand.
 
 When conditions change for a fixed amount of gas, rearrange PV = nRT so that the constants are on one side:
 
@@ -194,14 +194,14 @@ For example, a gas with density 0.716 g L⁻¹ at 0 °C and 1.00 atm has M = 0.7
 3. Mole fractions: X(N₂) = 0.150 ÷ 0.210 = 0.714; X(O₂) = 0.0500 ÷ 0.210 = 0.238; X(CO₂) = 0.0100 ÷ 0.210 = 0.0476.
 4. Partial pressures, P = X × P_total: N₂ 0.739 atm; O₂ 0.246 atm; CO₂ 0.0492 atm.
 
-**Check.** 0.739 + 0.246 + 0.0492 = 1.034 atm, equal to the total. The mole fractions add up to 1.000. You can also check one value directly: P(N₂) = 0.150 × 0.08206 × 300. ÷ 5.00 = 0.739 atm.
+**Check.** 0.739 + 0.246 + 0.0492 = 1.034 atm, equal to the total. The unrounded mole fractions add up to exactly 1 (the rounded values give 0.9996). You can also check one value directly: P(N₂) = 0.150 × 0.08206 × 300. ÷ 5.00 = 0.739 atm.
 
 **Answer.** P_total = 1.03 atm; partial pressures N₂ 0.739 atm, O₂ 0.246 atm, CO₂ 0.0492 atm.
 
 ## Common misconceptions
 
 - **Using Celsius in PV = nRT.** Always convert to kelvin. Warming a gas from 10 °C to 20 °C does not double its volume; it raises it by a factor of 293.15 ÷ 283.15 = 1.035, about 3.5 per cent.
-- **Mixing units.** Pressure in torr with R = 0.08206 gives an answer 760 times too large. Check that the units of R cancel.
+- **Mixing units.** Pressure in torr with R = 0.08206 gives an answer that is wrong by a factor of 760. Check that the units of R cancel.
 - **"A heavier gas exerts more pressure."** At the same n, V and T, every ideal gas exerts the same pressure. Partial pressure depends on moles, not mass.
 - **Mole fraction from masses.** X uses moles. Convert grams to moles first.
 - **Reading a curve as a straight line.** P against V at constant T is a curve. Only P against 1/V is linear.

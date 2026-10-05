@@ -36,7 +36,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 ## Calculation
 
-- I can calculate molarity from a mass of solute and a volume of solution, converting mL to L. *(Guide: Worked example 1; Practice Q4)*
+- I can calculate molarity from a mass of solute and a volume of solution, converting mL to L. *(Guide: "Molarity"; Practice Q4)*
 - I can calculate the mass of solute needed to make a given volume of a solution of known molarity. *(Practice Q6(a))*
 - I can find the concentration and number of moles of each ion produced by an ionic solute. *(Practice Q2, Q3)*
 - I can count the number of solute particles in a given volume of solution. *(Guide: Worked example 1; Practice Q4(b))*

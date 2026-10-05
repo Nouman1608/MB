@@ -47,7 +47,7 @@ Short on time? This page is the recap. For explanations, diagrams and worked exa
 | London dispersion | any particles | more electrons, larger cloud, π bonds, more contact area (less branching) |
 | Dipole–induced dipole | polar + nonpolar | bigger dipole; more polarizable partner |
 | Dipole–dipole | polar + polar | bigger dipoles; head-to-tail orientation |
-| Hydrogen bonding | H–N, H–O or H–F donor; N, O or F lone pair acceptor | more donor H atoms and acceptor lone pairs |
+| Hydrogen bonding | H–N, H–O or H–F donor; N, O or F lone pair acceptor | more hydrogen bonds per molecule (more donor H atoms and acceptor lone pairs) |
 | Ion–dipole | ion + polar molecule | larger ion charge; bigger dipole |
 
 ## Assumptions behind a ranking

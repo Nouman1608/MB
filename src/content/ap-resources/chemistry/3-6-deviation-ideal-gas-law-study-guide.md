@@ -169,7 +169,7 @@ How to read Figure 2:
 
 To compare two gases at the **same temperature and moderate pressure**, compare their intermolecular forces, then link them to the pressure.
 
-Take methane, CH₄, and chloromethane, CH₃Cl, both at 25 °C and 10 atm.
+Take methane, CH₄, and chloromethane, CH₃Cl, both at 25 °C and 3 atm.
 
 1. **Name the forces.** CH₄ is nonpolar with 10 electrons: only London dispersion forces. CH₃Cl is polar with 26 electrons: dipole–dipole forces **and** stronger dispersion forces, because its larger electron cloud is more polarisable.
 2. **Compare the attractions.** CH₃Cl molecules attract each other more strongly. Its much higher boiling point (−24 °C, against −161.5 °C for CH₄) confirms this.

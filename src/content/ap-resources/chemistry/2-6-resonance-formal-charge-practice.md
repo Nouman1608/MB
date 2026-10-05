@@ -90,7 +90,7 @@ Using Lewis diagrams, including resonance where needed, which list puts the carb
 
 - (B) is the order from longest to shortest.
 - (C) treats CO as a single bond.
-- (D) treats CO as a double bond, between CO₂ and carbonate.
+- (D) puts CO after CO₂, as if CO had a lower bond order than CO₂. This happens if you draw C=O and leave carbon with only 6 electrons; the octet diagram of CO has a triple bond.
 </details>
 
 ## Question 4 (constructed response · core)

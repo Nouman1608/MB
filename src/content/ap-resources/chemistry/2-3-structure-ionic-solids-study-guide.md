@@ -64,7 +64,7 @@ Why does this arrangement form? Think of it as an energy argument. Every time a 
 Exam questions often ask you to draw or choose a particulate diagram. A model that is "consistent with Coulomb's law and the properties of the ions" follows four rules.
 
 1. **Alternate the charges.** Each ion should touch only ions of the opposite charge. Two cations or two anions should never be drawn touching.
-2. **Show sensible relative sizes.** A cation is smaller than its parent atom (it has lost its outer shell or some electrons), and an anion is larger than its parent atom. In most common ionic compounds the cation is drawn smaller than the anion.
+2. **Show sensible relative sizes.** A cation is smaller than its parent atom (it has lost its outer shell or some electrons), and an anion is larger than its parent atom. In most common ionic compounds the cation is drawn smaller than the anion. If radii are given, follow them: in KF, for example, K⁺ (138 pm) is slightly larger than F⁻ (133 pm).
 3. **Keep the ratio from the formula.** In CaF₂ there must be twice as many F⁻ ions as Ca²⁺ ions in the region you draw. Check that the total charge in your drawing is zero (or close to zero for a small, cut-off section).
 4. **Label the charges.** Use + and − signs (or the ion symbols) on every ion or in a key. Do not rely on colour alone.
 
@@ -166,7 +166,7 @@ Two rules come out of the table:
 - **Charge has the biggest effect.** Doubling both charges multiplies the product q₊q₋ by 4. That is why MgO melts more than 1,800 °C higher than NaF, even though the ions are only a little closer together.
 - **For equal charges, smaller ions win.** NaF > NaCl > KCl, because the ion centres get further apart from left to right in that list.
 
-The relative measure does not predict melting points exactly (MgO's value is about 5 times NaCl's, but its melting point in °C is not 5 times larger). Melting also depends on how the ions rearrange, which you meet in Topic 3.2. Use the measure for **ranking**, not for calculating a melting point.
+The relative measure does not predict melting points exactly (MgO's value is about 5 times NaCl's, but its melting point in °C is not 5 times larger). Melting points also depend on other factors, such as the exact arrangement of the ions in each crystal. Use the measure for **ranking**, not for calculating a melting point.
 
 ## From the model to the properties
 

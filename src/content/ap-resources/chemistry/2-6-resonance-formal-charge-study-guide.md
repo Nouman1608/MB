@@ -29,7 +29,7 @@ keyPoints:
   - "When two or more equivalent Lewis diagrams can be drawn, the real structure is a resonance hybrid: a blend of them, not a switch between them."
   - "Resonance makes the bonds involved identical. Their bond order is the average, such as 1.5 in the formate ion."
   - "Formal charge = valence electrons − nonbonding electrons − ½ × bonding electrons. The formal charges add up to the overall charge."
-  - "The best diagram gives period 2 atoms an octet, keeps formal charges near zero, and puts any negative formal charge on the most electronegative atom."
+  - "The best diagram gives C, N, O and F an octet, keeps formal charges near zero, and puts any negative formal charge on the most electronegative atom."
   - "Species with an odd number of valence electrons, such as NO₂, cannot give every atom an octet: a limitation of the Lewis model."
 faqs:
   - question: "Does a molecule with resonance flip between its structures?"

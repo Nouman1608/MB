@@ -82,7 +82,7 @@ You need all eleven molecular geometry names in this table. Two names appear twi
 
 ### Lone pairs push harder
 
-A lone pair is held by only one nucleus, so it spreads out closer to the central atom than a bonding pair does. It repels neighbouring domains more strongly. The order of repulsion is:
+A lone pair is held by only one nucleus, so it stays closer to the central atom and spreads out more widely than a bonding pair does. It repels neighbouring domains more strongly. The order of repulsion is:
 
 **lone pair–lone pair > lone pair–bonding pair > bonding pair–bonding pair**
 
@@ -202,7 +202,7 @@ A covalent bond forms where orbitals on two atoms **overlap**. There are two kin
 <figure>
 <svg viewBox="0 0 640 210" role="img" aria-labelledby="sp-title sp-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="sp-title">Head-on overlap in a sigma bond and side-on overlap in a pi bond</title>
-<desc id="sp-desc">Left: two nuclei on a horizontal dashed line with two orbital lobes meeting directly on the line between them; the overlap region is hatched and lies on the line; labelled sigma bond, head-on overlap on the internuclear axis. Right: two nuclei on a horizontal dashed line, each with a vertical dumbbell-shaped orbital; the lobes touch side by side above the line and below the line, with the overlap regions hatched; labelled pi bond, side-on overlap above and below the axis, weaker, stops rotation.</desc>
+<desc id="sp-desc">Left: two nuclei on a horizontal dashed line with two orbital lobes meeting directly on the line between them; the overlap region is hatched and lies on the line; labelled sigma bond, head-on overlap on the line between the nuclei, stronger. Right: two nuclei on a horizontal dashed line, each with a vertical dumbbell-shaped orbital; the lobes touch side by side above the line and below the line, with the overlap regions hatched; labelled pi bond, side-on overlap above and below the line, weaker.</desc>
 <defs><pattern id="sp-hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><path d="M0 0 V6" stroke="#1d2b44" stroke-width="1.5"/></pattern></defs>
 <path d="M20 95 H290 M350 95 H620" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="6 4"/>
 <g fill="none" stroke="#1d2b44" stroke-width="2">
@@ -254,7 +254,7 @@ Two factors decide how long and how strong a bond is:
 - **Bond order.** More shared pairs between the same two atoms pull the nuclei closer and hold them more tightly. C≡C is shorter and stronger than C=C, which is shorter and stronger than C–C. With resonance, use the average bond order from Topic 2.6.
 - **Atomic radius.** Larger atoms have their bonding electrons further from the nucleus, so their bonds are longer and usually weaker. Down group 17, H–F < H–Cl < H–Br < H–I in length.
 
-Compare like with like: bond order is the deciding factor only when the two bonded elements are the same.
+Compare like with like: bond order alone decides only when you compare bonds between the same pair of elements, such as C–O with C=O.
 
 ## Dipole moments: polarity plus shape
 

@@ -71,7 +71,7 @@ In a solution of potassium bromide, how are the water molecules nearest to a K竅
 **Answer: (B).** K竅ｺ is positive and attracts the partially negative oxygen end of each water molecule (an ion窶電ipole attraction).
 
 - (A) is the arrangement around an anion such as Br竅ｻ. Next to K竅ｺ, the ﾎｴ+ hydrogens would be repelled.
-- (C) ignores the ion窶電ipole attraction, which is the reason ionic solids dissolve in water.
+- (C) ignores the ion窶電ipole attraction. K竅ｺ does attract water; this attraction is what holds water molecules in an ordered shell around the ion.
 - (D) The attraction is an intermolecular (ion窶電ipole) force, not a shared electron pair.
 </details>
 

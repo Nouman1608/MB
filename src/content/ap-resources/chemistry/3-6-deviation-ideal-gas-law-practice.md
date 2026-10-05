@@ -163,13 +163,13 @@ The table shows PV/nRT for 1.00 mol of gas W at two temperatures.
 
 **(b)** As the pressure increases, the particles are pushed closer together. Closer particles feel stronger attractions, which pull them back from the walls. The measured pressure (or volume) falls further below the ideal value, so the ratio drops.
 
-**(c)** At higher pressure the particles fill a growing share of the container. The free space for motion is smaller than the container volume, which raises the real volume (or pressure) relative to ideal. This particle-volume effect starts to outweigh the attractions, so the ratio rises back towards, and eventually above, 1.
+**(c)** At higher pressure the particles fill a growing share of the container. The free space for motion is smaller than the container volume, which raises the real volume (or pressure) relative to ideal. This particle-volume effect now grows faster than the effect of attractions, so the ratio rises back towards 1. Attractions still dominate at 200 K and 200 atm (0.93 is below 1), but at even higher pressures the ratio would go above 1.
 
 | Point | What earns it |
 |---|---|
 | 1 | 400 K, with the link to greater kinetic energy compared with attractions |
 | 1 | (b) closer particles → more effect of attractions → measured value below ideal |
-| 1 | (c) particle volume becomes significant and begins to outweigh attractions |
+| 1 | (c) particle volume becomes significant and its effect grows faster than that of attractions |
 
 Accept "the gas is further from condensation at 400 K" in (a) if it is linked to kinetic energy or attractions.
 </details>

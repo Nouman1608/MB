@@ -92,7 +92,7 @@ So a gas has **neither a definite shape nor a definite volume**: it spreads out 
 |---|---|---|
 | Compress the gas into a smaller volume | Smaller | More often |
 | Raise the pressure at constant temperature | Smaller | More often |
-| Raise the temperature at constant pressure | Larger (the gas expands) | Particles move faster |
+| Raise the temperature at constant pressure | Larger (the gas expands) | Slightly less often (more space to cross), but each collision is harder |
 | Raise the temperature at constant volume | Unchanged | More often, and harder |
 
 You will turn these trends into equations in Topic 3.4 (the ideal gas law) and explain them with particle speeds in Topic 3.5.
@@ -102,7 +102,7 @@ You will turn these trends into equations in Topic 3.4 (the ideal gas law) and e
 <figure>
 <svg viewBox="0 0 640 200" role="img" aria-labelledby="phases-title phases-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="phases-title">Particulate models of a crystalline solid, an amorphous solid, a liquid and a gas</title>
-<desc id="phases-desc">Four boxes of the same size, each holding identical circles that stand for the same particle. Crystalline solid: twenty-five circles touching in a regular five by five grid. Amorphous solid: twenty circles packed closely but with no repeating pattern. Liquid: nineteen circles close together in an irregular arrangement in the lower part of the box below a dashed surface line. Gas: six circles spread far apart across the whole box, each with a longer arrow showing straight-line motion.</desc>
+<desc id="phases-desc">Four boxes of the same size, each holding identical circles that stand for the same particle. Crystalline solid: twenty-five circles touching in a regular five by five grid. Amorphous solid: twenty circles packed closely but with no repeating pattern. Liquid: nineteen circles close together in an irregular arrangement in the lower part of the box below a dashed surface line. Gas: six circles spread far apart across the whole box, each with an arrow showing straight-line motion.</desc>
 <defs><marker id="m33" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#1d2b44"/></marker></defs>
 <g fill="none" stroke="#1d2b44" stroke-width="2">
 <rect x="10" y="20" width="140" height="140" rx="4"/>
@@ -158,7 +158,7 @@ A good particulate model follows a few rules. They are the ones you will be judg
 
 The **molar volume** is the volume that one mole of a substance occupies: molar volume = M / density.
 
-In a solid and in a liquid, the particles touch at all times. Melting only loosens the arrangement a little. So the molar volumes of the solid and liquid phases of one substance are close: they usually differ by less than about 15 per cent. Boiling is different: the particles separate completely, and the molar volume becomes hundreds or thousands of times larger.
+In a solid and in a liquid, the particles touch at all times. Melting only loosens the arrangement a little. So the molar volumes of the solid and liquid phases of one substance are close, and the difference is small compared with what happens on boiling. Boiling is different: the particles separate completely, and the molar volume becomes hundreds or thousands of times larger.
 
 ## Worked example 1: drawing chlorine in three phases
 

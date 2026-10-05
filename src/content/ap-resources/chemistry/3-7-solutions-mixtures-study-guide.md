@@ -140,6 +140,7 @@ Because n = M × V, molarity is a bridge to everything in Topic 1.1:
 <text x="437" y="104" text-anchor="middle" font-size="13" fill="#1d2b44">÷ N_A</text>
 <text x="292" y="114" text-anchor="end" font-size="13" fill="#1d2b44">÷ V (L)</text>
 <text x="348" y="114" text-anchor="start" font-size="13" fill="#1d2b44">× V (L)</text>
+<defs><marker id="c7a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#1d2b44"/></marker></defs>
 </svg>
 <figcaption>Figure 2. Moles are still the centre of every route. Solid arrows lead away from mass towards molarity and particles; dashed arrows go back.</figcaption>
 </figure>

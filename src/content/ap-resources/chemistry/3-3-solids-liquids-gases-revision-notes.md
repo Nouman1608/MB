@@ -45,7 +45,7 @@ Short on time? This page is the recap. For explanations, the diagram and worked 
 |---|---|---|
 | Molar volume = M ÷ density | volume of 1 mol of the substance | compare phases quantitatively |
 | V(solid) ≈ V(liquid) | particles touch in both | explain why melting changes volume only a little |
-| V(gas) ≫ V(liquid) | particles separate completely | explain why boiling changes volume hundreds of times |
+| V(gas) ≫ V(liquid) | particles separate completely | explain why boiling changes volume hundreds or thousands of times |
 | spacing ratio = ∛(volume ratio) | length scales as the cube root of volume | estimate how far apart gas particles are |
 
 ## Assumptions behind the models

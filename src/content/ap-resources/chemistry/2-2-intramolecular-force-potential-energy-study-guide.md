@@ -67,7 +67,7 @@ Plotting potential energy against internuclear distance gives a curve with a dee
 <figure>
 <svg viewBox="0 0 680 350" role="img" aria-labelledby="h2-title h2-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="h2-title">Potential energy against internuclear distance for two hydrogen atoms</title>
-<desc id="h2-desc">The vertical axis is potential energy in kilojoules per mole, from minus 500 to plus 300, with zero marked by a dashed line. The horizontal axis is internuclear distance in picometres, from 0 to 300. The curve comes down steeply from high positive energy at about 20 picometres, reaches a minimum of minus 436 kilojoules per mole at 74 picometres, then rises slowly towards zero as the distance increases, reaching about minus 11 at 300 picometres. A vertical double-headed arrow from the zero line down to the minimum is labelled bond energy, 436 kilojoules per mole. A dotted line from the minimum down to the distance axis is labelled bond length, 74 picometres. The steep left side is labelled repulsion dominates; the gentle right side is labelled attraction dominates.</desc>
+<desc id="h2-desc">The vertical axis is potential energy in kilojoules per mole, from minus 500 to plus 300, with zero marked by a dashed line. The horizontal axis is internuclear distance in picometres, from 0 to 300. The curve comes down steeply from high positive energy at about 30 picometres, reaches a minimum of minus 436 kilojoules per mole at 74 picometres, then rises slowly towards zero as the distance increases, reaching about minus 11 at 300 picometres. A vertical double-headed arrow from the zero line down to the minimum is labelled bond energy, 436 kilojoules per mole. A dotted line from the minimum down to the distance axis is labelled bond length, 74 picometres. The steep left side is labelled repulsion dominates; the gentle right side is labelled attraction dominates.</desc>
 <path d="M80 30 V290 H620" fill="none" stroke="#1d2b44" stroke-width="2"/>
 <path d="M80 127.5 H620" fill="none" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="6 4"/>
 <g stroke="#1d2b44" stroke-width="1.5">
@@ -190,7 +190,7 @@ Here q₁ and q₂ are the sizes of the ion charges and r is the distance betwee
 - **Larger charges, stronger attraction.** The strength is proportional to the charge on each ion.
 - **Smaller ions, stronger attraction.** Small ions can get closer, so r is smaller.
 
-A potential energy curve for an ion pair has the same shape as Figure 1: attraction pulls the ions together until their electron clouds overlap and repulsion takes over. Stronger attraction means a deeper well. (The potential energy itself is proportional to q₁q₂ / r; both forms give the same ranking.)
+A potential energy curve for an ion pair has the same shape as Figure 1: attraction pulls the ions together until their electron clouds overlap and repulsion takes over. Stronger attraction means a deeper well. (The potential energy itself is proportional to q₁q₂ / r. For the ion pairs compared on this page, both forms give the same ranking.)
 
 ## Worked example 1: reading the H₂ graph
 
@@ -219,7 +219,7 @@ A potential energy curve for an ion pair has the same shape as Figure 1: attract
 4. **I₂:** minimum further right (267 pm) and **shallower** (−149 kJ mol⁻¹).
 5. **Shape:** each curve rises steeply to the left of its minimum and levels off towards zero at large distance.
 
-**(b)** Iodine is three periods below chlorine, so its valence electrons are in the n = 5 shell, not n = 3. Its larger core keeps the nuclei 68 pm further apart. The shared pair is further from each nucleus and more shielded, so it is attracted less strongly. The bond is therefore longer and weaker, by 90 kJ mol⁻¹.
+**(b)** Iodine is two periods below chlorine, so its valence electrons are in the n = 5 shell, not n = 3. Its larger core keeps the nuclei 68 pm further apart. The shared pair is further from each nucleus and more shielded, so it is attracted less strongly. The bond is therefore longer and weaker, by 90 kJ mol⁻¹.
 
 ## Worked example 3: ranking ionic attractions
 

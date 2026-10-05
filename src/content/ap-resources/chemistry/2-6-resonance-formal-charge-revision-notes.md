@@ -21,7 +21,7 @@ sources: ["ced-chemistry", "page-chemistry"]
 keyPoints:
   - "Equivalent resonance structures → one hybrid with identical bonds."
   - "FC = valence − nonbonding − ½ bonding; the sum equals the overall charge."
-  - "Octets for period 2 atoms, then formal charges near zero, negative on the most electronegative atom."
+  - "Octets for C, N, O and F, then formal charges near zero, negative on the most electronegative atom."
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05

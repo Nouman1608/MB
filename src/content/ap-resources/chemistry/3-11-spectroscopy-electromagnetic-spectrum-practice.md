@@ -70,7 +70,7 @@ A gaseous molecule absorbs a photon of infrared radiation. Which statement best 
 **Answer: (B).** Infrared photons match the gaps between vibrational levels, so the bonds stretch and bend with more energy.
 
 - (A) describes an electronic transition, which needs visible or ultraviolet photons.
-- (C) needs a photon energy close to a bond energy (a few hundred kJ mol⁻¹); infrared photons carry far less.
+- (C) needs photons carrying at least the bond energy (a few hundred kJ mol⁻¹ per mole of photons); infrared photons carry far less.
 - (D) is ionization. It needs even more energy, such as the ultraviolet or X-ray photons used in photoelectron spectroscopy.
 </details>
 
@@ -203,7 +203,7 @@ Explain both observations in terms of energy levels and transitions in CO₂ mol
 | 1 | A photon is absorbed only if its energy matches a gap (quantized levels) |
 | 1 | CO₂'s electronic gaps are larger than visible photon energies (they need UV), so visible light is not absorbed and the gas is colourless |
 
-Do not award the third point for "visible light has too little energy" alone: visible photons have *more* energy than infrared photons; the point is that they match no gap.
+Do not award the third point for "visible light has too little energy" alone. Visible photons carry *more* energy than the infrared photons CO₂ does absorb, so the answer must say they match no gap: too large for the vibrational gaps and too small for the electronic gaps.
 </details>
 
 ## How did you do?

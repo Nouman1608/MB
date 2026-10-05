@@ -149,7 +149,7 @@ Propane has only dispersion forces. Dimethyl ether has the same number of electr
 <figure>
 <svg viewBox="0 0 640 250" role="img" aria-labelledby="hb-title hb-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="hb-title">Orientation of dipoles and a hydrogen bond between two water molecules</title>
-<desc id="hb-desc">Left panel, labelled "Dipole–dipole": two pairs of arrow-shaped dipoles. The top pair is arranged head to tail, delta plus end of one next to the delta minus end of the other, labelled "attract". The bottom pair is side by side with delta minus next to delta minus, labelled "repel". Right panel, labelled "Hydrogen bond": two water molecules. The left water has an O atom with two H atoms. One of its H atoms, labelled delta plus, points towards the O atom of the right water molecule, labelled delta minus, which has two lone pairs shown as pairs of dots. A dashed line from that H to the lone pair on the second O is labelled "hydrogen bond". Solid lines show the covalent O–H bonds inside each molecule.</desc>
+<desc id="hb-desc">Left panel, labelled "Dipole–dipole": two pairs of dipoles, each drawn as a rounded bar with a delta plus end and a delta minus end. The top pair is arranged head to tail, delta plus end of one next to the delta minus end of the other, labelled "attract". The bottom pair is side by side with delta minus next to delta minus, labelled "repel". Right panel, labelled "Hydrogen bond": two water molecules. The left water has an O atom with two H atoms. One of its H atoms, labelled delta plus, points towards the O atom of the right water molecule, labelled delta minus, which has two lone pairs shown as pairs of dots. A dashed line from that H to the lone pair on the second O is labelled "hydrogen bond". Solid lines show the covalent O–H bonds inside each molecule.</desc>
 <g fill="none" stroke="#1d2b44" stroke-width="2">
 <rect x="10" y="10" width="270" height="230" rx="8"/>
 <rect x="300" y="10" width="330" height="230" rx="8"/>
@@ -279,7 +279,7 @@ Proteins and nucleic acids are so large that different parts of the *same* molec
 3. **(c) Hydrogen bonding.** Water supplies the donor H (on O); acetone supplies a lone pair on its O. The O–H···O arrangement is close to a straight line.
 4. **(d) Dispersion only.** Both are nonpolar hydrocarbons. Their long chains lie side by side for maximum contact.
 
-**Check.** In (a) and (c) the extra force is the strongest one present. In (b) the induced dipole is weak, and dispersion forces between the large I₂ cloud and water are just as important.
+**Check.** In (a) and (c) the extra force is the strongest one present. In (b) the induced dipole is weak, so dispersion forces between the large I₂ cloud and water matter at least as much.
 
 ## Common misconceptions
 

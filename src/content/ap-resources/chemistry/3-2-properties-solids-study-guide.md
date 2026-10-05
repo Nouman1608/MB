@@ -60,7 +60,7 @@ An answer that names the property and the force but skips the particles usually 
 
 When a liquid **vaporizes**, its particles move far apart. The interactions between them are overcome *completely*. So the energy needed to vaporize, and the temperature at which a liquid boils, depend directly on how strong those interactions are.
 
-**Vapor pressure** is the pressure of the vapor above a liquid (or solid) in a closed container at a given temperature. At any moment, only some molecules at the surface have enough energy to escape. The weaker the forces holding them, the more molecules escape, and the higher the vapor pressure.
+**Vapor pressure** is the pressure of the vapor above a liquid (or solid) in a closed container, once the amount of vapor has stopped changing, at a given temperature. At any moment, only some molecules at the surface have enough energy to escape. The weaker the forces holding them, the more molecules escape, and the higher the vapor pressure.
 
 | Liquid at 20 °C | Forces between molecules | Vapor pressure | Boiling point |
 |---|---|---|---|
@@ -197,7 +197,7 @@ Particles: separate molecules. Inside each molecule the atoms are joined by cova
 - **Low melting points.** Melting overcomes only intermolecular forces; no covalent bonds break.
 - **No electrical conductivity.** The valence electrons are held in the covalent bonds and lone pairs of each molecule. There are no ions and no mobile electrons.
 
-Some molecular solids are made of very large molecules or polymers, such as waxes, plastics and sugars.
+Some molecular solids are made of very large molecules or polymers, such as waxes and plastics.
 
 ### Metallic solids
 

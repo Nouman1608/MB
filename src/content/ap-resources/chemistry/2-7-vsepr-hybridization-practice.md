@@ -70,7 +70,7 @@ Propyne has the structure CH₃–C≡CH. What is the hybridization of the three
 **Answer: (A).** Count domains on each carbon. The CH₃ carbon has 4 bonded atoms (3 H and 1 C): 4 domains, **sp³**. The middle carbon has 2 bonded atoms (CH₃ carbon and the end carbon): 2 domains, **sp**. The end carbon has 2 bonded atoms (C and H): 2 domains, **sp**.
 
 - (B) treats the middle carbon as if it had 3 domains, perhaps counting the triple bond as two. A triple bond is one domain.
-- (C) counts the bonds (4 per carbon) instead of the domains.
+- (C) gives the middle carbon 4 domains, as if each of its four shared pairs were a separate domain. A triple bond is one domain, so that carbon has only 2.
 - (D) mistakes the CH₃ carbon for sp²; it has four single bonds and so four domains.
 </details>
 
@@ -139,9 +139,9 @@ Dinitrogen difluoride, N₂F₂, has the skeleton F–N–N–F and exists as tw
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Total: 2(5) + 2(7) = **24 electrons**. Diagram: F–N=N–F. Each N has one lone pair; each F has three lone pairs. Count: 4 bonds (8) + 2 lone pairs on N (4) + 6 lone pairs on F (12) = 24. ✓ Each N: 1 single + 1 double + 1 lone pair = 8 electrons.
+**(a)** Total: 2(5) + 2(7) = **24 electrons**. Diagram: F–N=N–F. Each N has one lone pair; each F has three lone pairs. Count: 4 bonding pairs (8) + 2 lone pairs on N (4) + 6 lone pairs on F (12) = 24. ✓ Each N: 1 single + 1 double + 1 lone pair = 8 electrons.
 
-**(b)** Each N has 2 bonded atoms + 1 lone pair = 3 domains: **sp²**. The F–N=N angle is **about 120°**, slightly less because of the lone pair on N.
+**(b)** Each N has 2 bonded atoms + 1 lone pair = 3 domains: **sp²**. VSEPR predicts an F–N=N angle of **about 120°, a little less** because the lone pair on N pushes the bonds together. (The measured angle is smaller still: VSEPR gives the direction of the change, not its exact size.)
 
 **(c)** The N=N double bond contains a **π bond**. Its side-on overlap would be broken by twisting, so there is **no rotation** about the N=N bond. The F atoms are fixed either on the same side or on opposite sides, giving two different compounds.
 
@@ -150,7 +150,7 @@ Dinitrogen difluoride, N₂F₂, has the skeleton F–N–N–F and exists as tw
 | Point | What earns it |
 |---|---|
 | 1 | Correct diagram with 24 electrons and octets |
-| 1 | sp² for each N **and** about 120° |
+| 1 | sp² for each N **and** an angle of about 120° or a little less |
 | 1 | π bond in N=N prevents rotation |
 | 1 | *cis* and *trans* correctly described |
 | 1 | *cis* polar, *trans* not, with a reason based on whether the bond dipoles cancel |

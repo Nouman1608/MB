@@ -145,7 +145,7 @@ Before you hand in a drawing, or when you judge someone else's, run through thes
 3. **Are the interactions right?** Water's O towards cations, H towards anions; hydrogen bonds drawn between an H on O (or N) and a lone pair on O (or N) of the other molecule.
 4. **Does the amount match the concentration?** If the question gives a concentration or a comparison, check that the number of particles per volume shows it, including after any dilution or mixing.
 
-A diagram can be neat and still lose credit on any one of these. Most errors in exam answers are in steps 2 and 3.
+A diagram can be neat and still lose credit on any one of these. Steps 2 and 3 are the easiest to get wrong, so check them twice.
 
 ## Worked example 1: from a diagram to molarity
 

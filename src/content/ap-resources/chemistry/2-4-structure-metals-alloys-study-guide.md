@@ -68,8 +68,8 @@ A good particulate model of a metal has three features.
 <figure>
 <svg viewBox="0 0 640 230" role="img" aria-labelledby="sea-title sea-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="sea-title">Electron-sea model of solid sodium</title>
-<desc id="sea-desc">Eighteen large circles marked with a plus sign are arranged in three neat rows of six. They are sodium ion cores. Eighteen small dots, one for each sodium atom, are scattered in the spaces between and around the cores inside a shaded region labelled sea of delocalized electrons. No dot is attached to any particular core. A key on the right explains the symbols and notes that 18 positive cores and 18 electrons make the sample neutral overall.</desc>
-<rect x="22" y="14" width="336" height="190" rx="18" fill="#f3f6fb" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="6 4"/>
+<desc id="sea-desc">Eighteen large circles marked with a plus sign are arranged in three neat rows of six. They are sodium ion cores. Eighteen small dots, one for each sodium atom, are scattered in the spaces between and around the cores, inside a lightly shaded region with a dashed boundary that stands for the shared sea of delocalized electrons. No dot is attached to any particular core. A key on the right explains the symbols and notes that 18 positive cores and 18 electrons make the sample neutral overall.</desc>
+<rect x="22" y="14" width="352" height="190" rx="18" fill="#f3f6fb" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="6 4"/>
 <circle cx="60" cy="60" r="20" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
 <text x="60" y="66" text-anchor="middle" font-size="18" font-weight="700" fill="#1d2b44">+</text>
 <circle cx="116" cy="60" r="20" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
@@ -281,7 +281,7 @@ percent difference = |r(host) − r(added)| ÷ r(host) × 100
 <text x="512.9" y="22" text-anchor="middle" font-size="14" font-weight="600" fill="#1d2b44">Interstitial (steel)</text>
 <text x="512.9" y="40" text-anchor="middle" font-size="12" fill="#1d2b44">C fills gaps between Fe</text>
 </svg>
-<figcaption>Figure 2. Left: a pure metal has one kind of atom. Middle: in a substitutional alloy, atoms of similar size (Zn, dashed outline) take the places of some host atoms (Cu). Right: in an interstitial alloy, much smaller atoms (C, dashed outline) sit in the gaps between the host atoms (Fe). Sizes are approximate, and the electron sea is left out to keep the drawing clear.</figcaption>
+<figcaption>Figure 2. Left: a pure metal has one kind of atom. Middle: in a substitutional alloy, atoms of similar size (Zn, dashed outline) take the places of some host atoms (Cu). Right: in an interstitial alloy, much smaller atoms (C, dashed outline) sit in the gaps between the host atoms (Fe). Sizes are approximate (the carbon atoms are drawn a little smaller than scale so that they fit the flat drawing), and the electron sea is left out to keep the drawing clear.</figcaption>
 </figure>
 
 ### How alloying changes properties
@@ -292,7 +292,7 @@ percent difference = |r(host) − r(added)| ÷ r(host) × 100
 
 ## Worked example 1: classifying alloys from atomic radii
 
-**Question.** Use the radii below to decide whether each pair is more likely to form an interstitial or a substitutional alloy. Radii: Au 144 pm, Ag 144 pm, Fe 126 pm, N 71 pm.
+**Question.** Use the radii below to decide whether each pair is more likely to form an interstitial or a substitutional alloy. Radii: Au 144 pm, Ag 144 pm, Fe 126 pm (metallic radii); N 71 pm (covalent radius).
 
 (a) gold with silver (b) iron with nitrogen
 

@@ -42,7 +42,7 @@ Short on time? This page is the recap. For explanations, diagrams and worked exa
 
 | Idea | What to use | Effect |
 |---|---|---|
-| Strength of attraction | ∝ q₊ × q₋ / d, with d ≈ r₊ + r₋ | Larger charges or shorter d give stronger attraction |
+| Strength of attraction | ∝ \|q₊ × q₋\| / d, with d ≈ r₊ + r₋ | Larger charges or shorter d give stronger attraction |
 | Charge effect | 2+/2− vs 1+/1− | Product of charges is 4 times larger: the biggest effect |
 | Size effect (equal charges) | Ion radius down a group increases | Smaller ions: shorter d, stronger attraction |
 | Isoelectronic ions | Same electrons, more protons | Smaller ion (Mg²⁺ < Na⁺; F⁻ < O²⁻) |

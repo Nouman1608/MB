@@ -100,7 +100,7 @@ Because every polar bond is partly ionic, there is no sharp boundary between "co
 <figure>
 <svg viewBox="0 0 680 230" role="img" aria-labelledby="cont-title cont-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="cont-title">The bonding continuum by electronegativity difference</title>
-<desc id="cont-desc">A horizontal axis shows electronegativity difference from 0 to 3.2, with ticks at 0, 0.5, 1.0, 1.5, 2.0, 2.5 and 3.0. Eight bonds are marked along it: Cl–Cl at 0.00, C–H at 0.35, N–H at 0.84, H–Cl at 0.96, O–H at 1.24, H–F at 1.78, Na–Cl at 2.23 and K–F at 3.16. Below the axis, a wedge grows from left to right, labelled "ionic character increases". The left end of the axis is labelled mostly equal sharing, nonpolar covalent; the middle polar covalent; the right end mostly electron transfer, ionic. There are no boundary lines between the regions.</desc>
+<desc id="cont-desc">A horizontal axis shows electronegativity difference from 0 to 3.2, with ticks at 0, 0.5, 1.0, 1.5, 2.0, 2.5 and 3.0. Eight bonds are marked along it: Cl–Cl at 0.00, C–H at 0.35, N–H at 0.84, H–Cl at 0.96, O–H at 1.24, H–F at 1.78, Na–Cl at 2.23 and K–F at 3.16. Below the axis, a wedge grows from left to right, labelled "ionic character increases". Above the axis, the left end is labelled nonpolar covalent (about equal sharing), the middle polar covalent (unequal sharing) and the right end ionic (electron transfer). There are no boundary lines between the regions.</desc>
 <g font-size="12" fill="#1d2b44" text-anchor="middle">
 <text x="110" y="24" font-weight="600">nonpolar covalent</text>
 <text x="300" y="24" font-weight="600">polar covalent</text>
@@ -169,7 +169,7 @@ In a piece of metal there is no partner atom with a high electronegativity to ta
 </g>
 <g fill="#1d2b44">
 <circle cx="85" cy="104" r="3.5"/><circle cx="85" cy="116" r="3.5"/>
-<circle cx="250" cy="104" r="3.5"/><circle cx="250" cy="116" r="3.5"/>
+<circle cx="258" cy="104" r="3.5"/><circle cx="258" cy="116" r="3.5"/>
 </g>
 <g font-size="13" fill="#1d2b44" text-anchor="middle">
 <text x="50" y="115">Cl</text><text x="120" y="115">Cl</text>

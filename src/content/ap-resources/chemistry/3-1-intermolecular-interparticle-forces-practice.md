@@ -182,7 +182,7 @@ A student claims: "Hydrogen bonding is the strongest intermolecular force, so an
 <details>
 <summary>Model answer and suggested Marlbridge rubric</summary>
 
-**(a)** The claim is **not supported**. Methanol hydrogen bonds, but octane does not, yet octane boils about 61 °C higher. Octane has 66 electrons against methanol's 18, and its long chains have a large contact area. Its dispersion forces add up to more than methanol's combined dispersion, dipole–dipole and hydrogen bonding forces. Hydrogen bonding is the strongest force *per interaction* only when molecules of similar size are compared.
+**(a)** The claim is **not supported**. Methanol hydrogen bonds, but octane does not, yet octane boils about 61 °C higher. Octane has 66 electrons against methanol's 18, and its long chains have a large contact area. Its dispersion forces add up to more than methanol's combined dispersion, dipole–dipole and hydrogen bonding forces. A single hydrogen bond is stronger than a single dipole–dipole or dispersion interaction, but the total attraction also depends on how much dispersion acts over the whole molecule. The claim only works for molecules of similar size.
 
 **(b)** A water molecule has two H atoms on O and two lone pairs on O, so each molecule can take part in up to four hydrogen bonds. Methanol has only one H on O, so it forms fewer hydrogen bonds per molecule. The extra hydrogen bonding in water outweighs methanol's slightly larger dispersion forces (18 electrons against 10).
 

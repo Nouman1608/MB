@@ -29,7 +29,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 ## Understanding
 
-- I can define electronegativity and say how it differs from electron affinity. *(Guide: "Electronegativity and its trends")*
+- I can define electronegativity and say how it differs from electron affinity. *(Guide: "Electronegativity and its trends" and "Common misconceptions")*
 - I can explain why electronegativity increases across a period and decreases down a group, using shielding, distance and Coulomb's law. *(Guide; Practice Q5)*
 - I can explain why C–H bonds are treated as nonpolar even though carbon is slightly more electronegative. *(Guide: "Nonpolar covalent bonds")*
 - I can describe metallic bonding as cations surrounded by delocalized valence electrons. *(Guide: Figure 2; Practice Q3)*

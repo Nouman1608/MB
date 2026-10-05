@@ -46,7 +46,7 @@ author: "marlbridge-academic-team"
 
 ## Why a filter cannot separate a solution
 
-Filtration works like a sieve. Filter paper has tiny holes, or pores, about a few micrometres across. A solid that has **not** dissolved, such as sand in water, is made of grains far larger than the pores, so it stays on the paper while the liquid runs through.
+Filtration works like a sieve. Filter paper has tiny holes, or pores, typically a few micrometres to about 25 micrometres across. A solid that has **not** dissolved, such as sand in water, is made of grains far larger than the pores, so it stays on the paper while the liquid runs through.
 
 A solution is different. In Topic 3.7 you saw that a solution is a homogeneous mixture: the solute is spread out as single ions or molecules, each well under a nanometre across. That is thousands of times smaller than the pores. When you pour salt water through filter paper, the ions go through with the water. The filtrate is still salt water.
 

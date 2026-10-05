@@ -115,7 +115,7 @@ A copper–zinc alloy contains 1 zinc atom for every 3 copper atoms. What is the
 
 ## Question 5 (calculation · core)
 
-A steel used for car body panels contains 0.45 % carbon by mass; the rest is iron.
+A sample of steel contains 0.45 % carbon by mass; the rest is iron.
 
 (a) Calculate the number of carbon atoms for every 100 iron atoms.
 (b) A student draws a particulate model of this steel with one carbon atom in the gap beside every second iron atom. Use your answer to (a) to comment on the model.

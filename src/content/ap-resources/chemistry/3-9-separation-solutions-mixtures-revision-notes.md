@@ -62,7 +62,7 @@ Short on time? This page is the recap. For explanations, diagrams and worked exa
 3. **Inverting the ratio.** Rf can never be more than 1.
 4. **Origin line in ink, or below the solvent.** Use pencil, and keep the origin above the solvent level.
 5. **"Boiling breaks bonds."** Boiling overcomes intermolecular forces only.
-6. **Comparing molar masses instead of IMFs.** Water distils after hexane despite its smaller molar mass.
+6. **Comparing molar masses instead of IMFs.** Water (18 g mol⁻¹) boils at a higher temperature than hexane (86 g mol⁻¹) because of hydrogen bonding.
 7. **"Distillation always gives pure liquids."** Close boiling points need a fractionating column, and some mixtures (ethanol–water) cannot be fully separated.
 
 ## Quick self-check

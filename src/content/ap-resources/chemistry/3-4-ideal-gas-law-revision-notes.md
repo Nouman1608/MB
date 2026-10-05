@@ -57,7 +57,7 @@ Short on time? This page is the recap. For explanations, graphs and worked examp
 
 ## Assumptions behind the numbers
 
-- The gas is **ideal**: particles have negligible volume and no attractions. This works best at low pressure and moderate temperature.
+- The gas is **ideal**: particles have negligible volume and no attractions. This works best at low pressure and high temperature.
 - No gas leaks in or out unless the question says so.
 - In mixtures, the gases do not react with each other.
 
