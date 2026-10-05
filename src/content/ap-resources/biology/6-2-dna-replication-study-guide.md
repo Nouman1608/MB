@@ -62,7 +62,7 @@ In replication, the two strands of the parent molecule separate. Each one serves
 
 This is called **semiconservative** replication: half of each parent molecule is conserved in each daughter molecule.
 
-Before this was known, two other models were proposed (Figure 2). In the **conservative** model, the parent molecule stays intact and a completely new molecule is made. In the **dispersive** model, every strand of every new molecule is a patchwork of old and new pieces.
+Before this was known, two other models were proposed (Figure 1). In the **conservative** model, the parent molecule stays intact and a completely new molecule is made. In the **dispersive** model, every strand of every new molecule is a patchwork of old and new pieces.
 
 <figure>
 <svg viewBox="0 0 640 320" role="img" aria-labelledby="md-title md-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -134,7 +134,7 @@ Before this was known, two other models were proposed (Figure 2). In the **conse
 <line x1="330" y1="298" x2="366" y2="298" stroke="#1d2b44" stroke-width="4" stroke-dasharray="5 4"/>
 <text x="372" y="302" font-size="12" fill="#1d2b44">newly made strand</text>
 </svg>
-<figcaption>Figure 2. The three models that were tested for how DNA is copied. Only the semiconservative model matches the experimental evidence: each new molecule keeps one original strand.</figcaption>
+<figcaption>Figure 1. The three models that were tested for how DNA is copied. Only the semiconservative model matches the experimental evidence: each new molecule keeps one original strand.</figcaption>
 </figure>
 
 **The evidence.** In 1958, Matthew Meselson and Franklin Stahl grew the bacterium *E. coli* on a medium containing a heavy isotope of nitrogen (¹⁵N), so that all its DNA became "heavy". They then moved the bacteria to a medium with normal, lighter nitrogen (¹⁴N) and separated DNA by density in a centrifuge. After one round of replication, all the DNA had an intermediate density, which ruled out the conservative model. After two rounds, there were equal amounts of intermediate and light DNA, which ruled out the dispersive model. Only the semiconservative model predicts both results. Worked example 2 uses the same reasoning with new data.
@@ -150,7 +150,7 @@ The enzyme that builds new DNA is **DNA polymerase**. It reads the template stra
 
 ## At the replication fork
 
-Replication begins at a specific site called an **origin of replication**. The strands separate there, opening a "bubble" with a **replication fork** at each side. Each fork moves away from the origin as more DNA is unwound. Figure 1 shows one fork.
+Replication begins at a specific site called an **origin of replication**. The strands separate there, opening a "bubble" with a **replication fork** at each side. Each fork moves away from the origin as more DNA is unwound. Figure 2 shows one fork.
 
 <figure>
 <svg viewBox="0 0 640 350" role="img" aria-labelledby="rf-title rf-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -203,7 +203,7 @@ Replication begins at a specific site called an **origin of replication**. The s
 <line x1="380" y1="334" x2="410" y2="334" stroke="#1d2b44" stroke-width="3" stroke-dasharray="10 4"/>
 <text x="416" y="338" font-size="12" fill="#1d2b44">new DNA</text>
 </svg>
-<figcaption>Figure 1. One replication fork (simplified, not to scale). Both new strands are built 5′ → 3′. On the leading strand that direction points into the fork, so synthesis is continuous. On the lagging strand it points away from the fork, so DNA is made in short fragments, each started by an RNA primer and later joined by ligase.</figcaption>
+<figcaption>Figure 2. One replication fork (simplified, not to scale). Both new strands are built 5′ → 3′. On the leading strand that direction points into the fork, so synthesis is continuous. On the lagging strand it points away from the fork, so DNA is made in short fragments, each started by an RNA primer and later joined by ligase.</figcaption>
 </figure>
 
 | Enzyme | Job at the fork |

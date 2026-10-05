@@ -37,7 +37,7 @@ Short on time? This page is the recap. For explanations, figures and worked exam
 - **Homologous chromosomes**: one from each parent, same genes in the same order, possibly different alleles. **Sister chromatids**: identical copies made in S phase, joined at the centromere.
 - DNA replicates once (S phase before meiosis). There is no S phase between meiosis I and II.
 - **Meiosis I**: prophase I (condensing, synapsis of homologues, chiasmata may form, spindle forms, nuclear envelope breaks down); metaphase I (homologous **pairs** at the plate); anaphase I (homologues separate, sister chromatids stay joined); telophase I and cytokinesis (two haploid cells, chromosomes still duplicated).
-- **Meiosis II**: prophase II (new spindle); metaphase II (chromosomes in **single file**, each chromatid's kinetochore attached to opposite poles); anaphase II (centromere proteins break down, sister chromatids separate); telophase II and cytokinesis (four haploid cells, single-chromatid chromosomes).
+- **Meiosis II**: prophase II (new spindle); metaphase II (chromosomes in **single file**, the kinetochores of the two sister chromatids attached to microtubules from opposite poles); anaphase II (centromere proteins break down, sister chromatids separate); telophase II and cytokinesis (four haploid cells, single-chromatid chromosomes).
 
 ## Key relationships
 

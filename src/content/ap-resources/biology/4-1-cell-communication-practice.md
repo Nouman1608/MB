@@ -236,9 +236,9 @@ A simple model gives the typical time t for a small molecule to diffuse a distan
 
 **(a)** Convert to metres first: 20 nm = 2 × 10⁻⁸ m; 100 µm = 1 × 10⁻⁴ m.
 
-- (i) t = (2 × 10⁻⁸)² ÷ (2 × 1 × 10⁻⁹) = 4 × 10⁻¹⁶ ÷ 2 × 10⁻⁹ = **2 × 10⁻⁷ s** (0.2 microseconds).
-- (ii) t = (1 × 10⁻⁴)² ÷ (2 × 10⁻⁹) = 1 × 10⁻⁸ ÷ 2 × 10⁻⁹ = **5 s**.
-- (iii) t = 1² ÷ (2 × 10⁻⁹) = **5 × 10⁸ s**, which is about **16 years** (5 × 10⁸ ÷ 3.15 × 10⁷ s per year = 15.9).
+- (i) t = (2 × 10⁻⁸)² ÷ (2 × 1 × 10⁻⁹) = 4 × 10⁻¹⁶ ÷ (2 × 10⁻⁹) = **2 × 10⁻⁷ s** (0.2 microseconds).
+- (ii) t = (1 × 10⁻⁴)² ÷ (2 × 10⁻⁹) = 1 × 10⁻⁸ ÷ (2 × 10⁻⁹) = **5 s**.
+- (iii) t = 1² ÷ (2 × 10⁻⁹) = **5 × 10⁸ s**, which is about **16 years** (5 × 10⁸ ÷ (3.15 × 10⁷ s per year) = 15.9).
 
 **(b)** Diffusion is almost instant across a synapse and takes seconds across a few cells, so a local regulator acts quickly on nearby cells. Across the body it would take years, and the signal would be diluted and broken down long before arriving. Blood carries a hormone round the body in about a minute.
 

@@ -161,7 +161,7 @@ Do not award a point for an identification without a reason.
 
 ## Question 5 (data analysis · core)
 
-A researcher measures the DNA content of 800 nuclei from a sample of tissue from a mammal's testis, where cells are dividing by both mitosis and meiosis. In this species a diploid nucleus in G1 contains 3.2 pg of DNA. The fictional results:
+A researcher measures the DNA content of 800 nuclei from a sample of testis tissue of a fictional mammal, where cells are dividing by both mitosis and meiosis. In this species a diploid nucleus in G1 contains 3.2 pg of DNA. The fictional results:
 
 | DNA per nucleus / pg | 1.6 | 3.2 | 6.4 |
 |---|---|---|---|

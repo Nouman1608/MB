@@ -243,9 +243,9 @@ In a model liver-cell pathway, one ligand-bound receptor activates 15 G proteins
 
 **(a)** 15 × 200 = 3000 cAMP; 3000 ÷ 4 = 750 kinases; 750 × 100 = 75 000 enzymes; 75 000 × 10 = **7.5 × 10⁵ product s⁻¹**.
 
-**(b)** 2.0 × 10⁶ ÷ 7.5 × 10⁵ = 2.67. Receptors come in whole numbers, so at least **3**. Check: 3 give 2.25 × 10⁶ (enough); 2 give 1.5 × 10⁶ (not enough).
+**(b)** 2.0 × 10⁶ ÷ (7.5 × 10⁵) = 2.67. Receptors come in whole numbers, so at least **3**. Check: 3 give 2.25 × 10⁶ (enough); 2 give 1.5 × 10⁶ (not enough).
 
-**(c)** 2.0 × 10⁶ ÷ 10 = **200 000** bound receptors, 75 000 times as many. A cell may not have that many receptors, and the hormone would have to be far more concentrated. The cascade lets a few hormone molecules trigger a full response.
+**(c)** 2.0 × 10⁶ ÷ 10 = **200 000** bound receptors, about 67 000 times the 3 needed with the cascade (the cascade multiplies the output of each receptor 75 000-fold). A cell may not have that many receptors, and the hormone would have to be far more concentrated. The cascade lets a few hormone molecules trigger a full response.
 
 Suggested mark points (4): 1 for 7.5 × 10⁵; 1 for 3 receptors with rounding **up** justified; 1 for 200 000; 1 for a comment linking amplification to sensitivity to low hormone levels.
 

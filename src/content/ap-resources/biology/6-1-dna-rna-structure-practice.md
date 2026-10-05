@@ -232,8 +232,8 @@ One strand of a short double-stranded DNA region is 5′-AAGGAGCTGA-3′.
 
 ## How did you do?
 
-- **Q1 or Q4 wrong:** re-read "Purines and pyrimidines" in the [study guide](/advanced-course-resources/biology/6-1-dna-rna-structure-study-guide/) and look again at Figure 1.
-- **Q2 or Q5 wrong:** re-read "Organising the DNA" and "Plasmids", with Figure 2.
+- **Q1 or Q4 wrong:** re-read "Purines and pyrimidines" in the [study guide](/advanced-course-resources/biology/6-1-dna-rna-structure-study-guide/) and look again at Figure 2.
+- **Q2 or Q5 wrong:** re-read "Organising the DNA" and "Plasmids", with Figure 1.
 - **Q3, Q6 or Q7 calculations wrong:** rework Worked examples 1 and 2; check whether you are counting base pairs or nucleotides, and convert units before dividing.
 
 Then tick off the [topic checklist](/advanced-course-resources/biology/6-1-dna-rna-structure-checklist/).

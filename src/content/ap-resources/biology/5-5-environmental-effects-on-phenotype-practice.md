@@ -22,7 +22,7 @@ calculatorNote: "Standard error of the mean: SE = s ÷ √n. Give answers to the
 related: ["mb-ap-bio-5.5-study-guide", "mb-ap-bio-5.5-revision-notes", "mb-ap-bio-5.5-checklist"]
 next: "mb-ap-bio-5.5-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-biology", "page-biology", "exam-biology"]
+sources: ["ced-biology", "page-biology"]
 keyPoints:
   - "Questions 1–3 are multiple choice; 4–7 need written working or reasoning."
   - "Always say how the environment acts: on gene expression, or on how well a gene product works."

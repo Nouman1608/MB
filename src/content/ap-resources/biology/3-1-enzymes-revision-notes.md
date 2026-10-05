@@ -18,7 +18,7 @@ calculator: "scientific"
 related: ["mb-ap-bio-3.1-study-guide", "mb-ap-bio-3.1-practice", "mb-ap-bio-3.1-checklist"]
 next: "mb-ap-bio-3.1-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-biology"]
+sources: ["ced-biology", "page-biology"]
 keyPoints:
   - "Enzymes are protein catalysts: they lower the activation energy, so reactions in cells run fast enough to sustain life."
   - "Substrate must fit the active site in shape and in charge; E + S → ES → E + P, and the enzyme is reused."

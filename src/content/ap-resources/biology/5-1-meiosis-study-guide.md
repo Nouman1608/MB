@@ -78,7 +78,7 @@ Meiosis I is the **reduction division**. It halves the chromosome number by send
 Meiosis II follows without another round of DNA replication. Each of the two haploid cells divides again, in a way that looks very like mitosis.
 
 - **Prophase II.** A new spindle forms in each cell. The chromosomes, each still made of two sister chromatids joined at the centromere, attach to the spindle.
-- **Metaphase II.** The chromosomes line up **in single file** at the metaphase plate. The kinetochore of each sister chromatid is attached to a microtubule from the opposite pole.
+- **Metaphase II.** The chromosomes line up **in single file** at the metaphase plate. Each sister chromatid has its own kinetochore, and the two sisters are attached to microtubules from opposite poles.
 - **Anaphase II.** Proteins holding the sister chromatids together at the centromere break down. The sister chromatids separate and are pulled to opposite poles. From this moment each chromatid counts as a chromosome in its own right.
 - **Telophase II and cytokinesis.** The spindle breaks down, nuclear envelopes re-form, the chromosomes start to decondense and the cytoplasm divides (cleavage furrow or cell plate again). The end result is **four haploid cells**, and each chromosome in them is a single, unduplicated chromatid.
 
@@ -123,7 +123,7 @@ Meiosis II follows without another round of DNA replication. Each of the two hap
 <line x1="542" y1="128" x2="616" y2="165" stroke="#1d2b44" stroke-width="2"/><polygon points="616,165 606,164 610,157" fill="#1d2b44"/>
 <line x1="542" y1="302" x2="616" y2="262" stroke="#1d2b44" stroke-width="2"/><polygon points="616,262 610,270 606,263" fill="#1d2b44"/>
 <line x1="542" y1="318" x2="616" y2="365" stroke="#1d2b44" stroke-width="2"/><polygon points="616,365 606,363 610,357" fill="#1d2b44"/>
-<text x="395" y="160" text-anchor="middle" font-size="13" font-weight="600" fill="#1d2b44">Meiosis I</text>
+<text x="400" y="219" text-anchor="middle" font-size="13" font-weight="600" fill="#1d2b44">Meiosis I</text>
 <text x="580" y="222" text-anchor="middle" font-size="13" font-weight="600" fill="#1d2b44">Meiosis II</text>
 <text x="100" y="432" text-anchor="middle" font-size="13" font-weight="600" fill="#1d2b44">A. After S phase</text>
 <text x="100" y="449" text-anchor="middle" font-size="12" fill="#1d2b44">2n = 4, each chromosome</text>

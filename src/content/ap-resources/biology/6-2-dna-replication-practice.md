@@ -246,8 +246,8 @@ Make a claim about why the drug affects the two strands so differently. Support 
 
 ## How did you do?
 
-- **Q1, Q4 or Q5 wrong:** re-read "At the replication fork" in the [study guide](/advanced-course-resources/biology/6-2-dna-replication-study-guide/), with Figure 1 and the enzyme table.
-- **Q2 wrong:** rework Worked example 2 and look again at Figure 2; separate "molecules" from "strands".
+- **Q1, Q4 or Q5 wrong:** re-read "At the replication fork" in the [study guide](/advanced-course-resources/biology/6-2-dna-replication-study-guide/), with Figure 2 and the enzyme table.
+- **Q2 wrong:** rework Worked example 2 and look again at Figure 1; separate "molecules" from "strands".
 - **Q3 or Q4(b) wrong:** rework Worked example 1; always reverse the complement to write it 5′ to 3′.
 - **Q6 or Q7 wrong:** rework Worked example 3 and re-read "Leading and lagging strands".
 

@@ -29,10 +29,10 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 ## Understanding
 
-- I can explain what semiconservative replication means and sketch it for two rounds. *(Guide: "Semiconservative replication", Figure 2)*
+- I can explain what semiconservative replication means and sketch it for two rounds. *(Guide: "Semiconservative replication", Figure 1)*
 - I can explain why new DNA is always made 5′ → 3′ and why DNA polymerase needs an RNA primer. *(Guide: "The direction rule"; Practice Q7)*
 - I can state the job and position of helicase, topoisomerase, DNA polymerase and ligase. *(Guide: "At the replication fork"; Practice Q1, Q4)*
-- I can explain why the leading strand is continuous and the lagging strand is made in fragments. *(Guide: "Leading and lagging strands", Figure 1; Practice Q4)*
+- I can explain why the leading strand is continuous and the lagging strand is made in fragments. *(Guide: "Leading and lagging strands", Figure 2; Practice Q4)*
 - I can describe what happens to RNA primers and how the lagging strand is completed. *(Guide: "Leading and lagging strands")*
 
 ## Calculation and skills

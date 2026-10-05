@@ -97,7 +97,7 @@ The active site of an enzyme is a narrow, curved groove. Two positively charged 
 **Answer: (A).** It matches the groove in shape, its negative ends attract the positive R groups, and its nonpolar middle lies on the nonpolar floor.
 
 - (B) has the right shape, but its positive ends would be repelled by the positive R groups.
-- (C) has the right shape but no charged groups to be attracted to the positive R groups, so it is not held in place.
+- (C) has the right shape but no negative groups to be attracted to the positive R groups, so it is held only weakly and is less likely to bind than (A).
 - (D) has the right charges but the wrong shape: a large, branched molecule cannot fit a narrow groove.
 </details>
 

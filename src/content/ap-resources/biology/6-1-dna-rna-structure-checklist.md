@@ -30,7 +30,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 ## Understanding
 
 - I can state that DNA carries hereditary information in all cells and that some viruses use RNA instead. *(Guide: "The molecule that is passed on"; Worked example 3)*
-- I can compare a typical prokaryotic chromosome with typical eukaryotic chromosomes: shape, number and location. *(Guide: "Organising the DNA", Figure 2; Practice Q2)*
+- I can compare a typical prokaryotic chromosome with typical eukaryotic chromosomes: shape, number and location. *(Guide: "Organising the DNA", Figure 1; Practice Q2)*
 - I can explain how histones condense eukaryotic DNA and why DNA binds to them. *(Guide: "Organising the DNA"; Practice Q6)*
 - I can describe plasmids, say where they are found, and explain how plasmid genes can spread between cells. *(Guide: "Plasmids"; Practice Q5)*
 - I can name the purines and pyrimidines and state their ring structures. *(Guide: "Purines and pyrimidines"; Practice Q1)*
@@ -43,7 +43,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 ## Reasoning
 
-- I can explain why a purine must pair with a pyrimidine, using the width of the double helix. *(Guide: Figure 1; Practice Q4)*
+- I can explain why a purine must pair with a pyrimidine, using the width of the double helix. *(Guide: Figure 2; Practice Q4)*
 - I can use base composition data to decide whether a genome is DNA or RNA, and single- or double-stranded. *(Guide: Worked example 1)*
 - I can explain why shared pairing rules across all life are evidence of common ancestry. *(Guide: "Purines and pyrimidines"; Worked example 1)*
 - I can make a claim about which molecule is hereditary material and support it with evidence and reasoning from an experiment. *(Guide: Worked example 3; Practice Q5)*

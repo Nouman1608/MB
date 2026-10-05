@@ -65,11 +65,11 @@ This topic asks two new questions:
 The first two rows describe **where** the pathway acts. The last two describe **outcomes** that usually follow from changed gene expression. They overlap: a phenotype change nearly always rests on new proteins made after gene expression changes.
 
 <figure>
-<svg viewBox="0 0 680 400" role="img" aria-labelledby="st43-f1-title st43-f1-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
+<svg viewBox="0 0 680 424" role="img" aria-labelledby="st43-f1-title st43-f1-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="st43-f1-title">One signal, two kinds of response, four places a pathway can be changed</title>
 <desc id="st43-f1-desc">A ligand outside the cell binds the ligand-binding domain of a receptor that crosses the plasma membrane. Its intracellular domain passes the signal to relay proteins and a second messenger, then to a protein kinase cascade. The pathway then branches. Branch A, in the cytoplasm: an existing enzyme or channel is changed, giving a fast change in cell function. Branch B, inside the nucleus: a transcription factor changes gene expression, new proteins are made, and the result can be a new phenotype or apoptosis. Numbered circles mark four places a change can act: 1 the ligand-binding domain, 2 the intracellular domain, 3 the relay proteins, 4 the kinase cascade.</desc>
 <defs><marker id="st43-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1d2b44"/></marker></defs>
-<rect x="0" y="0" width="680" height="400" fill="#ffffff"/>
+<rect x="0" y="0" width="680" height="424" fill="#ffffff"/>
 <text x="20" y="22" font-size="13" fill="#1d2b44">Outside the cell</text>
 <line x1="20" y1="90" x2="660" y2="90" stroke="#1d2b44" stroke-width="2"/>
 <line x1="20" y1="106" x2="660" y2="106" stroke="#1d2b44" stroke-width="2"/>
@@ -110,7 +110,8 @@ The first two rows describe **where** the pathway acts. The last two describe **
 <circle cx="490" cy="150" r="12" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/><text x="490" y="155" text-anchor="middle" font-size="13" font-weight="700" fill="#1d2b44">4</text>
 <text x="20" y="362" font-size="12" fill="#1d2b44">1 ligand-binding domain: blocked by an antagonist drug, or mutated so the ligand cannot bind</text>
 <text x="20" y="379" font-size="12" fill="#1d2b44">2 intracellular domain: mutated so it is stuck "on" (or cannot switch on)</text>
-<text x="20" y="396" font-size="12" fill="#1d2b44">3 relay proteins: locked "on" by a toxin or mutation · 4 kinase cascade: stopped by an inhibitor drug</text>
+<text x="20" y="396" font-size="12" fill="#1d2b44">3 relay proteins: locked "on" by a toxin or mutation</text>
+<text x="20" y="413" font-size="12" fill="#1d2b44">4 kinase cascade: stopped by an inhibitor drug</text>
 </svg>
 <figcaption>Figure 1. A generalised pathway. Branch A changes proteins that already exist; branch B changes which proteins are made. The numbered circles mark places where a mutation or a chemical can change the pathway; every step after that point is affected.</figcaption>
 </figure>
@@ -169,14 +170,14 @@ The logic is always the same. Ask: **does the chemical make this component more 
 
 **Question.** A fictional marine bacterium, strain M, can glow. Researchers grew cultures to different densities and measured the light given out per cell (arbitrary units).
 
-| Cell density / 10⁷ cells mL⁻¹ | 1 | 2 | 4 | 8 | 16 | 32 |
+| Cell density / 10⁷ cells mL⁻¹ | 0.5 | 1 | 2 | 4 | 8 | 16 |
 |---|---|---|---|---|---|---|
 | Light per cell / a.u. | 1.0 | 1.1 | 1.2 | 1.5 | 38 | 41 |
 
 <figure>
 <svg viewBox="0 0 580 350" role="img" aria-labelledby="st43-f2-title st43-f2-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="st43-f2-title">Light per cell against cell density for strain M</title>
-<desc id="st43-f2-desc">Line graph. Horizontal axis: cell density, 1, 2, 4, 8, 16 and 32 times ten to the seven cells per millilitre, evenly spaced because each step doubles. Vertical axis: light per cell in arbitrary units, 0 to 40. The line stays almost flat near 1 from density 1 to 8, then jumps to 38 at density 16 and 41 at density 32.</desc>
+<desc id="st43-f2-desc">Line graph. Horizontal axis: cell density, 0.5, 1, 2, 4, 8 and 16 times ten to the seven cells per millilitre, evenly spaced because each step doubles. Vertical axis: light per cell in arbitrary units, 0 to 40. The line stays almost flat near 1 from density 0.5 to 4, then jumps to 38 at density 8 and 41 at density 16.</desc>
 <rect x="0" y="0" width="580" height="350" fill="#ffffff"/>
 <line x1="70" y1="100" x2="500" y2="100" stroke="#1d2b44" stroke-width="0.5" stroke-dasharray="2 4"/>
 <line x1="70" y1="150" x2="500" y2="150" stroke="#1d2b44" stroke-width="0.5" stroke-dasharray="2 4"/>
@@ -184,12 +185,12 @@ The logic is always the same. Ask: **does the chemical make this component more 
 <line x1="70" y1="250" x2="500" y2="250" stroke="#1d2b44" stroke-width="0.5" stroke-dasharray="2 4"/>
 <line x1="70" y1="300" x2="510" y2="300" stroke="#1d2b44" stroke-width="2"/>
 <line x1="70" y1="300" x2="70" y2="80" stroke="#1d2b44" stroke-width="2"/>
-<text x="80" y="318" text-anchor="middle" font-size="12" fill="#1d2b44">1</text>
-<text x="160" y="318" text-anchor="middle" font-size="12" fill="#1d2b44">2</text>
-<text x="240" y="318" text-anchor="middle" font-size="12" fill="#1d2b44">4</text>
-<text x="320" y="318" text-anchor="middle" font-size="12" fill="#1d2b44">8</text>
-<text x="400" y="318" text-anchor="middle" font-size="12" fill="#1d2b44">16</text>
-<text x="480" y="318" text-anchor="middle" font-size="12" fill="#1d2b44">32</text>
+<text x="80" y="318" text-anchor="middle" font-size="12" fill="#1d2b44">0.5</text>
+<text x="160" y="318" text-anchor="middle" font-size="12" fill="#1d2b44">1</text>
+<text x="240" y="318" text-anchor="middle" font-size="12" fill="#1d2b44">2</text>
+<text x="320" y="318" text-anchor="middle" font-size="12" fill="#1d2b44">4</text>
+<text x="400" y="318" text-anchor="middle" font-size="12" fill="#1d2b44">8</text>
+<text x="480" y="318" text-anchor="middle" font-size="12" fill="#1d2b44">16</text>
 <text x="62" y="304" text-anchor="end" font-size="12" fill="#1d2b44">0</text>
 <text x="62" y="254" text-anchor="end" font-size="12" fill="#1d2b44">10</text>
 <text x="62" y="204" text-anchor="end" font-size="12" fill="#1d2b44">20</text>
@@ -205,7 +206,7 @@ The logic is always the same. Ask: **does the chemical make this component more 
 <circle cx="400" cy="110" r="5" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
 <circle cx="480" cy="95" r="5" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
 <text x="250" y="230" font-size="12" fill="#1d2b44">threshold crossed</text>
-<text x="250" y="245" font-size="12" fill="#1d2b44">between 8 and 16</text>
+<text x="250" y="245" font-size="12" fill="#1d2b44">between 4 and 8</text>
 </svg>
 <figcaption>Figure 2. Fictional data for strain M. The x-axis steps are evenly spaced because each one doubles the density.</figcaption>
 </figure>
@@ -214,18 +215,18 @@ A second, fictional experiment gave these results:
 
 | Culture | Density / 10⁷ cells mL⁻¹ | Light per cell / a.u. |
 |---|---|---|
-| Normal strain M + synthetic autoinducer | 2 | 36 |
-| Mutant that cannot **make** autoinducer | 32 | 1.2 |
-| Mutant that cannot make autoinducer + synthetic autoinducer | 32 | 39 |
-| Mutant whose autoinducer **receptor** cannot bind it | 32 | 1.1 |
+| Normal strain M + synthetic autoinducer | 1 | 36 |
+| Mutant that cannot **make** autoinducer | 16 | 1.2 |
+| Mutant that cannot make autoinducer + synthetic autoinducer | 16 | 39 |
+| Mutant whose autoinducer **receptor** cannot bind it | 16 | 1.1 |
 
 (a) Describe the trend in the first table. (b) Use both experiments to justify the claim: "Light production is switched on by the autoinducer reaching a threshold, not by crowding itself." (c) Name the kind of cellular response.
 
-**(a) Trend.** From 1 to 8 × 10⁷ cells mL⁻¹ the density rises eightfold, but light per cell rises only from 1.0 to 1.5. Between 8 and 16 × 10⁷ it jumps from 1.5 to 38, about 25 times higher (38 ÷ 1.5 = 25.3). Above that it levels off (41 at 32 × 10⁷). The response is **switch-like**, with a threshold between 8 and 16 × 10⁷ cells mL⁻¹.
+**(a) Trend.** From 0.5 to 4 × 10⁷ cells mL⁻¹ the density rises eightfold, but light per cell rises only from 1.0 to 1.5. Between 4 and 8 × 10⁷ it jumps from 1.5 to 38, about 25 times higher (38 ÷ 1.5 = 25.3). Above that it levels off (41 at 16 × 10⁷). The response is **switch-like**, with a threshold between 4 and 8 × 10⁷ cells mL⁻¹.
 
 **(b) Claim, evidence, reasoning.**
 
-1. **Evidence 1:** adding synthetic autoinducer to a low-density culture (2 × 10⁷) gave strong light (36), with no crowding.
+1. **Evidence 1:** adding synthetic autoinducer to a low-density culture (1 × 10⁷) gave strong light (36), with no crowding.
 2. **Evidence 2:** cells that cannot make autoinducer stay dark even at the highest density (1.2), but glow (39) when it is added.
 3. **Evidence 3:** cells with a receptor that cannot bind autoinducer stay dark at high density (1.1).
 4. **Reasoning:** light appears whenever enough autoinducer is present, whatever the density, and never when it is missing or cannot be detected. So crowding acts only by raising the autoinducer concentration. The receptor result shows the signal must bind its receptor to act, as in any signal transduction pathway.

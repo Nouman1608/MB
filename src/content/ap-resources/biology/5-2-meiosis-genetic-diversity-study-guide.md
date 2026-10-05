@@ -132,7 +132,7 @@ During prophase I, the homologues are held tightly together in synapsis. Two **n
 <line x1="205" y1="100" x2="275" y2="100" stroke="#1d2b44" stroke-width="2"/><polygon points="275,100 266,104 266,96" fill="#1d2b44"/>
 <line x1="440" y1="100" x2="500" y2="100" stroke="#1d2b44" stroke-width="2"/><polygon points="500,100 491,104 491,96" fill="#1d2b44"/>
 </svg>
-<figcaption>Figure 1. Crossing over between gene A and gene B. Solid chromatids came from one parent and open chromatids from the other. The swap makes two recombinant chromatids (Ab and aB) that neither parent's chromosome carried. Only one crossover is shown; there are often one or more per homologous pair.</figcaption>
+<figcaption>Figure 1. Crossing over between gene A and gene B. Solid chromatids came from one parent and open chromatids from the other. The swap makes two recombinant chromatids (Ab and aB) that neither parent's chromosome carried. Only one crossover is shown; each homologous pair usually has at least one, and often more.</figcaption>
 </figure>
 
 **Reading Figure 1.** Before crossing over, one homologue carries A and B and the other carries a and b. After one crossover between the two genes, the four chromatids carry AB, Ab, aB and ab. The outer two are **parental** (unchanged). The inner two are **recombinant**: they combine alleles from both parents on a single chromatid.
@@ -186,7 +186,7 @@ At metaphase I, each homologous pair lines up at the plate with one homologue fa
 <rect x="374" y="327.0" width="8" height="46" rx="4" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/><circle cx="378" cy="350" r="3.5" fill="#fdf6e3" stroke="#1d2b44" stroke-width="1.5"/>
 <rect x="400" y="337.0" width="8" height="26" rx="4" fill="#1d2b44" stroke="#1d2b44" stroke-width="2"/><circle cx="404" cy="350" r="3.5" fill="#fdf6e3" stroke="#1d2b44" stroke-width="1.5"/>
 <text x="442" y="355" text-anchor="start" font-size="13" fill="#1d2b44">long open + short solid</text>
-<text x="320" y="400" text-anchor="middle" font-size="13" font-weight="600" fill="#1d2b44">Two ways to line up, two gamete types each: 2 × 2 = 2² = 4 gamete types</text>
+<text x="320" y="408" text-anchor="middle" font-size="13" font-weight="600" fill="#1d2b44">Two ways to line up, two gamete types each: 2 × 2 = 2² = 4 gamete types</text>
 </svg>
 <figcaption>Figure 2. Independent assortment in a cell with n = 2 (two homologous pairs). Solid chromosomes came from one parent and open chromosomes from the other. The two possible arrangements at metaphase I give four kinds of gamete. Crossing over is not shown.</figcaption>
 </figure>

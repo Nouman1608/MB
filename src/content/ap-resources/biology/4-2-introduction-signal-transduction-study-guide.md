@@ -69,7 +69,7 @@ The answer depends on whether the ligand can cross the plasma membrane.
 | Ligand | Can it cross the bilayer? | Where is the receptor? | Examples |
 |---|---|---|---|
 | Large or water-soluble (peptides, proteins, charged molecules) | No | **On the cell surface**, spanning the membrane | glucagon, insulin, growth hormone, acetylcholine |
-| Small and nonpolar (lipid-soluble) | Yes, by diffusing through the bilayer | **In the cytoplasm or nucleus** | estrogen, testosterone, thyroid hormones |
+| Small and nonpolar (lipid-soluble) | Yes, mostly by diffusing through the bilayer | **In the cytoplasm or nucleus** | estrogen, testosterone, thyroid hormones |
 
 A surface receptor has three domains: an **extracellular** ligand-binding domain, a **transmembrane** domain that crosses the bilayer, and an **intracellular** domain inside the cell. When the ligand binds outside, the whole protein changes shape, so the **intracellular domain** changes shape too. That is how a message crosses the membrane without the ligand crossing it.
 
@@ -159,7 +159,7 @@ Some receptors are channels. When the ligand binds, the channel **opens or close
 
 ### Intracellular receptors
 
-Small nonpolar hormones, such as estrogen, testosterone and thyroid hormones, diffuse through the plasma membrane. Their receptors are in the **cytoplasm** or the **nucleus**. The hormone–receptor complex binds DNA and acts as a **transcription factor**: it switches particular genes on or off. The response is a change in **gene expression**. These responses are slower, taking hours, but can last a long time.
+Small nonpolar hormones, such as estrogen and testosterone, diffuse through the plasma membrane. Their receptors are in the **cytoplasm** or the **nucleus**. Thyroid hormones also have receptors in the nucleus, although transport proteins help them across the membrane. The hormone–receptor complex binds DNA and acts as a **transcription factor**: it switches particular genes on or off. The response is a change in **gene expression**. These responses are slower, taking hours, but can last a long time.
 
 Background: another family of surface receptors, the receptor tyrosine kinases (the insulin receptor is one), have their own kinase activity in the intracellular domain. You do not need their details for this topic.
 
@@ -193,7 +193,7 @@ Signalling cascades end by changing what the cell does. Responses include:
 - changes in **enzyme activity**, as when glycogen breakdown is switched on in the liver;
 - **opening or closing of ion channels**.
 
-Hormones carried in the blood are a common source of the signal, but the same machinery handles local signals too. Topic 4.3 looks at these responses in more detail and at what happens when a pathway is changed.
+Hormones are a common source of the signal: they can travel long distances in the bloodstream before they bind their receptors. The same machinery handles local signals too. Topic 4.3 looks at these responses in more detail and at what happens when a pathway is changed.
 
 ## Worked example 1: how big is the amplification?
 

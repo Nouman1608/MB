@@ -130,6 +130,8 @@ In humans and other mammals, females are XX and males are XY. The X chromosome c
 - A father passes his X to **all his daughters** and his Y to **all his sons**. So an affected father never passes an X-linked trait to his sons.
 - **Y-linked genes** pass from a father to **all** his sons, and never to daughters.
 
+**Pedigree clues for X-linked recessive traits:** affected individuals are mostly male; affected sons usually have unaffected (carrier) mothers; there is no father-to-son transmission; and every daughter of an affected father is at least a carrier.
+
 Write X-linked genotypes with the allele as a superscript: Xᴮ for normal colour vision, Xᵇ for colour blindness, and Y with no allele.
 
 <figure>
@@ -180,7 +182,7 @@ Because all these effects come from one gene, they are **inherited together**. T
 Mitochondria and chloroplasts contain their own small circular DNA. Their genes follow different rules.
 
 - When a cell divides, its mitochondria and chloroplasts are shared out **at random** between daughter cells and gametes. So their traits do not follow Mendel's ratios. In some plants with variegated (patchy green and white) leaves, cells with mixed chloroplasts divide, and some cell lines end up with mostly faulty chloroplasts, giving white patches.
-- In animals, the egg supplies the zygote's mitochondria; sperm usually contribute none. Traits coded by mitochondrial DNA are therefore **typically maternally inherited**: an affected mother passes the trait to all her children, and an affected father passes it to none.
+- In animals, the egg supplies the zygote's mitochondria; sperm usually contribute none. Traits coded by mitochondrial DNA are therefore **typically maternally inherited**: an affected mother can pass the trait to any of her children, while an affected father usually passes it to none. (How severely each child is affected can vary, because mitochondria are shared out at random.)
 - In plants, mitochondria and chloroplasts are usually passed on in the ovule, not the pollen, so their traits are also typically maternally inherited.
 
 **Reciprocal crosses** reveal this. Cross a female with trait X and a male without it, then the reverse. Nuclear genes (not sex-linked) give the same result both ways. Organelle genes follow the mother.
@@ -199,10 +201,10 @@ Mitochondria and chloroplasts contain their own small circular DNA. Their genes 
 | red | 52 | 60 | 64 | 1.067 |
 | pink | 131 | 120 | 121 | 1.008 |
 | white | 57 | 60 | 9 | 0.150 |
-| **Total** | 240 | 240 | | **χ² = 2.23** |
+| **Total** | 240 | 240 | | **χ² = 2.225** |
 
 5. **Degrees of freedom** = 3 − 1 = 2. Critical value at p = 0.05 = 5.99.
-6. **Conclusion.** 2.23 < 5.99, so **fail to reject** the null hypothesis. The data are consistent with incomplete dominance.
+6. **Conclusion.** 2.225 < 5.99, so **fail to reject** the null hypothesis. The data are consistent with incomplete dominance.
 
 **Interpretation.** The pink F₁ shows that neither allele masks the other. If red were completely dominant, the F₁ would be red and the F₂ would show 3 red : 1 white. Notice that the pink heterozygote is a blend: this is incomplete dominance, not codominance. A codominant heterozygote would show red **and** white, for example in separate patches.
 

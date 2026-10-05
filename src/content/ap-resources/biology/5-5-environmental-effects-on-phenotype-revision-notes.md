@@ -17,7 +17,7 @@ calculator: "scientific"
 related: ["mb-ap-bio-5.5-study-guide", "mb-ap-bio-5.5-practice", "mb-ap-bio-5.5-checklist"]
 next: "mb-ap-bio-5.5-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-biology"]
+sources: ["ced-biology", "page-biology"]
 keyPoints:
   - "Phenotype = genotype acting in an environment."
   - "The environment changes gene expression or the activity of gene products, not the DNA sequence."

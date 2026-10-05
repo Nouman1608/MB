@@ -33,7 +33,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can explain both parts of a temperature–rate curve: more collisions below the optimum, broken hydrogen bonds above it. *(Guide: Figure 1; Practice Q1)*
 - I can explain how a change in pH alters R-group charges, the fold and the active site. *(Guide: "pH: changing the charges"; Practice Q4)*
 - I can state when denaturation may be reversible and why cold usually does not denature an enzyme. *(Guide: "Can denaturation be reversed?")*
-- I can describe competitive and noncompetitive inhibitors, including where each binds. *(Guide: Figure 4; Practice Q3)*
+- I can describe competitive and noncompetitive inhibitors, including where each binds. *(Guide: Figure 3; Practice Q3)*
 
 ## Calculation and skills
 

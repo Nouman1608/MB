@@ -145,7 +145,7 @@ Not every cell keeps dividing. A cell can leave the cycle from G1 and enter a no
 <figcaption>Figure 2. One chromosome through the cycle. A real cell does this for every chromosome at the same time.</figcaption>
 </figure>
 
-**Mitosis** divides the nucleus so that each new nucleus receives one copy of every chromosome. It passes a complete genome from a parent cell to two genetically identical daughter cells. Mitosis runs as a continuous process, but it is described in four steps.
+**Mitosis** divides the nucleus so that each new nucleus receives one copy of every chromosome. It gives each of the two daughter cells a full copy of the parent cell's genome, so the daughters are genetically identical. Mitosis runs as a continuous process, but it is described in four steps.
 
 | Step | What you would see | Why it matters |
 |---|---|---|

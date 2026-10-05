@@ -204,7 +204,7 @@ A fictional mammal has 2n = 8. In one parent, the sister chromatids of chromosom
 
 **(c)** 4 + 4 = **8** (normal), 8 (normal), 5 + 4 = **9** (2n + 1, trisomy of chromosome 2), 3 + 4 = **7** (2n − 1, monosomy of chromosome 2).
 
-**(d)** In meiosis I, the two **homologues** fail to separate, so the faulty gamete carries **both different** versions of the marker. In meiosis II, two **sister chromatids** fail to separate, so the gamete carries **two identical** copies of one version. If the offspring's two copies from that parent differ, the error was in meiosis I; if they are the same, it was in meiosis II. Choosing a marker near the centromere matters because crossing over farther along the arm could make sister chromatids differ there.
+**(d)** In meiosis I, the two **homologues** fail to separate, so the faulty gamete carries **both different** versions of the marker. In meiosis II, two **sister chromatids** fail to separate, so the gamete carries **two identical** copies of one version. Compare with the other parent's marker to find which two copies came from the parent with the error. If those two copies differ, the error was in meiosis I; if they are the same, it was in meiosis II. Choosing a marker near the centromere matters because crossing over farther along the arm could make sister chromatids differ there.
 
 | Point | What earns it |
 |---|---|

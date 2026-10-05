@@ -215,7 +215,7 @@ This also explains why one hormone can cause **different responses in different 
 <figure>
 <svg viewBox="0 0 560 360" role="img" aria-labelledby="mg-title mg-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="mg-title">Model morphogen gradients for a normal and a doubled source</title>
-<desc id="mg-desc">Line graph. Horizontal axis: distance from source in micrometres, 0 to 80. Vertical axis: morphogen concentration in arbitrary units, 0 to 200. A solid curve starts at 100 and halves every 20 micrometres, reaching 6.2 at 80. A dashed curve starts at 200 and halves every 20 micrometres, reaching 12.5 at 80. Two dotted horizontal lines mark the thresholds at 60 and 30 units. The solid curve crosses 60 at about 14.7 micrometres and 30 at about 34.7 micrometres. The dashed curve crosses 60 at about 34.7 and 30 at about 54.7 micrometres.</desc>
+<desc id="mg-desc">Line graph. Horizontal axis: distance from source in micrometres, 0 to 80. Vertical axis: morphogen concentration in arbitrary units, 0 to 200. A solid curve starts at 100 and halves every 20 micrometres, reaching 6.25 at 80. A dashed curve starts at 200 and halves every 20 micrometres, reaching 12.5 at 80. Two dotted horizontal lines mark the thresholds at 60 and 30 units. The solid curve crosses 60 at about 14.7 micrometres and 30 at about 34.7 micrometres. The dashed curve crosses 60 at about 34.7 and 30 at about 54.7 micrometres.</desc>
 <rect x="0" y="0" width="560" height="360" fill="#ffffff"/>
 <line x1="80" y1="300" x2="490" y2="300" stroke="#1d2b44" stroke-width="2"/>
 <line x1="80" y1="300" x2="80" y2="50" stroke="#1d2b44" stroke-width="2"/>
@@ -249,7 +249,7 @@ This also explains why one hormone can cause **different responses in different 
 
 | Distance / µm | 0 | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 |
 |---|---|---|---|---|---|---|---|---|---|
-| M (normal) | 100 | 70.7 | 50.0 | 35.4 | 25.0 | 17.7 | 12.5 | 8.8 | 6.2 |
+| M (normal) | 100 | 70.7 | 50.0 | 35.4 | 25.0 | 17.7 | 12.5 | 8.8 | 6.3 |
 | Fate | A | A | B | B | C | C | C | C | C |
 
 The curve crosses 60 units at about **14.7 µm** and 30 units at about **34.7 µm**. Cells at 0 and 10 µm become A; at 20 and 30 µm, B; at 40 µm and beyond, C.

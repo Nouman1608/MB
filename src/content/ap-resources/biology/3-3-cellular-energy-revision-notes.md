@@ -39,7 +39,7 @@ Short on time? This page is the recap. For explanations, figures and worked exam
 - Organisms are **open systems**: they gain order by releasing heat, CO₂ and H₂O, which disorder the surroundings more.
 - **Energy coupling:** energy-releasing (exergonic) processes drive energy-requiring (endergonic) ones, usually through ATP + H₂O → ADP + Pᵢ.
 - **Pathways are sequential:** the product of one step is the reactant of the next, so energy comes out in small, controllable amounts.
-- **Glycolysis and ATP synthesis by a membrane ATP synthase** are found in Bacteria, Archaea and Eukarya: evidence of common ancestry.
+- **Glycolysis and ATP synthesis by a membrane ATP synthase** (as in oxidative phosphorylation) are found in Bacteria, Archaea and Eukarya: evidence of common ancestry.
 - The Gibbs free energy equation is not needed.
 
 ## Key relationships

@@ -124,7 +124,7 @@ Each enzyme has an **optimum pH**, which usually matches the place where it work
 <figure>
 <svg viewBox="0 0 620 360" role="img" aria-labelledby="ph32-title ph32-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="ph32-title">Model curves of enzyme activity against pH for two enzymes</title>
-<desc id="ph32-desc">Line graph. Horizontal axis: pH from 0 to 12. Vertical axis: rate as a percentage of each enzyme's maximum, 0 to 100. Solid curve: a stomach protease, a narrow peak with its maximum at pH 2, falling to near zero by pH 5. Dashed curve: an enzyme from the small intestine, a peak at pH 8, near zero below pH 5 and above pH 11.</desc>
+<desc id="ph32-desc">Line graph. Horizontal axis: pH from 0 to 12. Vertical axis: rate as a percentage of each enzyme's maximum, 0 to 100. Solid curve: a stomach protease, a narrow peak with its maximum at pH 2, falling to near zero by about pH 6. Dashed curve: an enzyme from the small intestine, a peak at pH 8, near zero below about pH 4 and above about pH 12.</desc>
 <rect x="0" y="0" width="620" height="360" fill="#ffffff"/>
 <line x1="80" y1="248.0" x2="470" y2="248.0" stroke="#1d2b44" stroke-width="0.5" stroke-dasharray="2 4"/>
 <line x1="80" y1="196.0" x2="470" y2="196.0" stroke="#1d2b44" stroke-width="0.5" stroke-dasharray="2 4"/>
@@ -175,7 +175,7 @@ The only way to know which case applies is to **test**: expose the enzyme to the
 
 The cellular environment also includes the molecules the enzyme acts on and produces.
 
-**Substrate concentration.** When there is little substrate, many active sites are empty, so adding substrate increases the rate. As substrate concentration rises, more active sites are occupied at any moment. Eventually almost every active site is busy all the time: the enzyme is **saturated**, and adding more substrate barely raises the rate. The curve levels off (look at the solid line in Figure 3). At this point only **more enzyme** (more active sites) would raise the rate further.
+**Substrate concentration.** When there is little substrate, many active sites are empty, so adding substrate increases the rate. As substrate concentration rises, more active sites are occupied at any moment. Eventually almost every active site is busy all the time: the enzyme is **saturated**, and adding more substrate barely raises the rate. The curve levels off (look at the solid line in Figure 4). At this point only **more enzyme** (more active sites) would raise the rate further.
 
 **Product concentration.** Many enzyme reactions can run in either direction. The **relative concentrations** of substrate and product decide which way the overall (net) reaction goes and how quickly:
 
@@ -218,7 +218,7 @@ An **inhibitor** is a molecule that binds to an enzyme and reduces its activity.
 <text x="560" y="282" text-anchor="middle" font-size="12" font-weight="600" fill="#1d2b44">3. Noncompetitive inhibitor</text>
 <text x="560" y="298" text-anchor="middle" font-size="12" fill="#1d2b44">binds an allosteric site</text>
 </svg>
-<figcaption>Figure 4. Substrates (S, white) and inhibitors (I, dark and labelled). A competitive inhibitor resembles the substrate and occupies the active site. A noncompetitive inhibitor binds elsewhere and changes the shape of the active site. Both bind reversibly.</figcaption>
+<figcaption>Figure 3. Substrates (S, white) and inhibitors (I, dark and labelled). A competitive inhibitor resembles the substrate and occupies the active site. A noncompetitive inhibitor binds elsewhere and changes the shape of the active site. Both bind reversibly.</figcaption>
 </figure>
 
 **Competitive inhibitors**
@@ -272,7 +272,7 @@ She then does two extra tests. Sample P is held at 60 °C for 10 minutes, then c
 
 ## Worked example 2: identifying the type of inhibitor
 
-**Question.** An enzyme's initial rate is measured at six substrate concentrations, with no inhibitor, with inhibitor X and with inhibitor Y. Both inhibitors are used at the same concentration. The fictional results are in the table and in Figure 3.
+**Question.** An enzyme's initial rate is measured at six substrate concentrations, with no inhibitor, with inhibitor X and with inhibitor Y. Both inhibitors are used at the same concentration. The fictional results are in the table and in Figure 4.
 
 | Substrate / mmol L⁻¹ | 0.5 | 1 | 2 | 5 | 10 | 20 |
 |---|---|---|---|---|---|---|
@@ -336,7 +336,7 @@ She then does two extra tests. Sample P is held at 60 °C for 10 minutes, then c
 <text x="498" y="172" font-size="13" font-weight="600" fill="#1d2b44">Inhibitor Y</text>
 <text x="498" y="188" font-size="12" fill="#1d2b44">(dotted, ▲)</text>
 </svg>
-<figcaption>Figure 3. Fictional data for Worked example 2. Both inhibitors were used at the same concentration.</figcaption>
+<figcaption>Figure 4. Fictional data for Worked example 2. Both inhibitors were used at the same concentration. Each line starts at the origin because there is no reaction without substrate.</figcaption>
 </figure>
 
 (a) For each inhibitor, calculate the rate as a percentage of the uninhibited rate at 0.5 and at 20 mmol L⁻¹.

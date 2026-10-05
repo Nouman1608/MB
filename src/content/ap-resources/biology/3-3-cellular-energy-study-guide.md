@@ -98,7 +98,7 @@ ATP is then rebuilt from ADP and Pᵢ, using energy from energy-releasing proces
 <figure>
 <svg viewBox="0 0 640 300" role="img" aria-labelledby="atp-title atp-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="atp-title">The ATP cycle couples energy-releasing and energy-requiring processes</title>
-<desc id="atp-desc">Two labels in the centre: ATP at the top and ADP plus inorganic phosphate at the bottom. On the left, a box labelled energy-releasing processes, for example breakdown of glucose, sends an arrow into the upward arrow that turns ADP plus phosphate into ATP. On the right, the downward arrow turns ATP back into ADP plus phosphate and sends an arrow to a box labelled energy-requiring processes, for example active transport, building proteins and movement. Dashed wavy arrows at the top and bottom are labelled some energy lost as heat at each transfer.</desc>
+<desc id="atp-desc">Two labels in the centre: ATP at the top and ADP plus inorganic phosphate at the bottom. On the left, a box labelled energy-releasing processes, for example breakdown of glucose, sends an arrow into the upward arrow that turns ADP plus phosphate into ATP. On the right, the downward arrow turns ATP back into ADP plus phosphate and sends an arrow to a box labelled energy-requiring processes, for example active transport, building proteins and movement. Dashed wavy lines at the top and bottom are labelled some energy lost as heat at each transfer.</desc>
 <rect x="0" y="0" width="640" height="300" fill="#ffffff"/>
 <defs><marker id="atp-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1d2b44"/></marker></defs>
 <rect x="20" y="105" width="170" height="90" rx="8" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
@@ -190,7 +190,7 @@ The total energy released from A to E is the same as in the one-step reaction (t
 All known life falls into three **domains**: Bacteria, Archaea and Eukarya. Their members look very different. Yet at the level of energy metabolism, they share a great deal.
 
 - **ATP** is the main energy carrier in cells of all three domains.
-- **Glycolysis**, the pathway that splits glucose (Topic 3.5), is found in all three domains. Some archaea use slightly different versions of a few enzymes, but the core pathway is the same.
+- **Glycolysis**, the pathway that splits glucose (Topic 3.5), is found in all three domains. Many archaea run a modified version in which some steps use different enzymes, but the overall route from glucose to pyruvate is shared.
 - **ATP synthase**, an enzyme in a membrane that makes ATP as protons flow through it, is found in all three domains. In bacteria and archaea it sits in the plasma membrane; in eukaryotes it sits in mitochondria (and chloroplasts). Making ATP this way, using a proton gradient set up by electron transport, is called **oxidative phosphorylation** in respiration.
 
 Why would such different organisms share the same detailed machinery? The simplest explanation is **common ancestry**: these pathways were present in an early common ancestor and were passed down to all its descendants. Because the pathways are so central, mutations that wrecked them were usually harmful, so they have been **conserved** with relatively little change. Shared, conserved features like these are among the strongest evidence that all living things are related.

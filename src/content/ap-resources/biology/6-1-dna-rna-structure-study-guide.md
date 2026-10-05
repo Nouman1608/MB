@@ -132,7 +132,7 @@ Because they are small and easy to move between cells, plasmids are also importa
 <text x="555" y="362" text-anchor="middle" font-size="12" fill="#1d2b44">one nucleosome</text>
 <line x1="555" y1="350" x2="535" y2="334" stroke="#1d2b44" stroke-width="1"/>
 </svg>
-<figcaption>Figure 2. Not to scale. Prokaryotic DNA is typically one circular chromosome plus any plasmids. Eukaryotic DNA is split into several linear chromosomes inside the nucleus, each condensed by winding around histone proteins.</figcaption>
+<figcaption>Figure 1. Not to scale. Prokaryotic DNA is typically one circular chromosome plus any plasmids. Eukaryotic DNA is split into several linear chromosomes inside the nucleus, each condensed by winding around histone proteins.</figcaption>
 </figure>
 
 ## What makes DNA a good hereditary molecule?
@@ -195,7 +195,7 @@ Every base pair contains **one purine and one pyrimidine**:
 <text x="360" y="304" font-size="13" fill="#1d2b44">2 rings: too narrow, pinches the helix</text>
 <text x="237" y="352" text-anchor="middle" font-size="12" fill="#1d2b44">thick lines = backbones; dashed = hydrogen bonds</text>
 </svg>
-<figcaption>Figure 1. A simplified model. Two joined hexagons stand for a double-ring purine and one hexagon for a single-ring pyrimidine. Only a purine–pyrimidine pair spans the gap between the backbones exactly, so the helix keeps the same width (about 2 nm) all along its length.</figcaption>
+<figcaption>Figure 2. A simplified model. Two joined hexagons stand for a double-ring purine and one hexagon for a single-ring pyrimidine. Only a purine–pyrimidine pair spans the gap between the backbones exactly, so the helix keeps the same width (about 2 nm) all along its length.</figcaption>
 </figure>
 
 **Why this pairing matters.**
@@ -229,7 +229,7 @@ A useful consequence: in any **double-stranded** molecule, the number of purines
 
 **Check.** Each row adds up to 100.0%.
 
-**(b)** The (A + T) ÷ (G + C) ratio differs widely, from 0.55 to 1.65, so the three species have very different sequences. Yet in all three, purines and pyrimidines are equal within 0.3%, which is within measurement error. This fits the model that every base pair is a purine plus a pyrimidine. The same rule holds in a bacterium, a plant and an animal, which supports the idea that pairing is conserved through evolution.
+**(b)** The (A + T) ÷ (G + C) ratio differs widely, from 0.55 to 1.65, so the three species have very different sequences. Yet in all three, purines are within 0.3 percentage points of 50%, so purines and pyrimidines are equal within measurement error. This fits the model that every base pair is a purine plus a pyrimidine. The same rule holds in a bacterium, a plant and an animal, which supports the idea that pairing is conserved through evolution.
 
 **(c)** Virus V contains **uracil and no thymine**, so its genetic material is **RNA**. Purines = 30.6 + 28.3 = 58.9%, pyrimidines = 17.9 + 23.2 = 41.1%. These are not equal, and A (30.6%) does not equal U (17.9%). So most bases are **not paired**: the genome is most likely **single-stranded RNA**.
 
@@ -297,4 +297,4 @@ A useful consequence: in any **double-stranded** molecule, the number of purines
 
 ## Where this leads
 
-The complementary, antiparallel structure you studied here is exactly what lets DNA be copied. Continue with [Topic 6.2, DNA Replication](/advanced-course-resources/biology/6-2-dna-replication-study-guide/). Before you move on, try the [practice questions](/advanced-course-resources/biology/6-1-dna-rna-structure-practice/), then use the [revision notes](/advanced-course-resources/biology/6-1-dna-rna-structure-revision-notes/) and the [checklist](/advanced-course-resources/biology/6-1-dna-rna-structure-checklist/). The previous topic is [Topic 5.5, Environmental Effects on Phenotype](/advanced-course-resources/biology/5-5-environmental-effects-on-phenotype-study-guide/).
+Complementary base pairing, together with the antiparallel strands you met in Topic 1.6, is exactly what lets DNA be copied. Continue with [Topic 6.2, DNA Replication](/advanced-course-resources/biology/6-2-dna-replication-study-guide/). Before you move on, try the [practice questions](/advanced-course-resources/biology/6-1-dna-rna-structure-practice/), then use the [revision notes](/advanced-course-resources/biology/6-1-dna-rna-structure-revision-notes/) and the [checklist](/advanced-course-resources/biology/6-1-dna-rna-structure-checklist/). The previous topic is [Topic 5.5, Environmental Effects on Phenotype](/advanced-course-resources/biology/5-5-environmental-effects-on-phenotype-study-guide/).

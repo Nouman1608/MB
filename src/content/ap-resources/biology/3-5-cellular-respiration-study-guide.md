@@ -106,7 +106,7 @@ Think of NADH and FADH₂ as charged batteries. They carry electrons from the ea
 <text x="265" y="157" text-anchor="middle" font-size="12" fill="#1d2b44">NADH</text>
 <text x="430" y="140" text-anchor="middle" font-size="12" fill="#1d2b44">out: CO₂, NADH,</text>
 <text x="430" y="157" text-anchor="middle" font-size="12" fill="#1d2b44">FADH₂, a little ATP</text>
-<text x="597" y="140" text-anchor="middle" font-size="12" fill="#1d2b44">in: O₂ (final e⁻ acceptor)</text>
+<text x="597" y="140" text-anchor="middle" font-size="12" fill="#1d2b44">in: O₂ (final acceptor)</text>
 <text x="597" y="157" text-anchor="middle" font-size="12" fill="#1d2b44">out: H₂O, most ATP</text>
 <polyline points="95,185 95,215 597,215 597,175" fill="none" stroke="#1d2b44" stroke-width="2" stroke-dasharray="8 5"/>
 <line x1="265" y1="165" x2="265" y2="215" stroke="#1d2b44" stroke-width="2" stroke-dasharray="8 5"/>
@@ -162,8 +162,8 @@ This is where most ATP is made. Figure 2 shows how.
 <line x1="405" y1="128" x2="405" y2="78" stroke="#1d2b44" stroke-width="3"/>
 <polygon points="405,68 399,80 411,80" fill="#1d2b44"/>
 <text x="420" y="88" font-size="14" font-weight="700" fill="#1d2b44">H⁺</text>
-<polyline points="95,275 165,240 285,240 405,240 470,275" fill="none" stroke="#1d2b44" stroke-width="2.5" stroke-dasharray="8 5"/>
-<polygon points="476,279 464,277 470,268" fill="#1d2b44"/>
+<polyline points="95,275 165,200 285,200 405,200 470,275" fill="none" stroke="#1d2b44" stroke-width="2.5" stroke-dasharray="8 5"/>
+<polygon points="474,280 463.7,275.7 471.2,269.2" fill="#1d2b44"/>
 <text x="95" y="295" text-anchor="middle" font-size="13" fill="#1d2b44">NADH, FADH₂</text>
 <text x="95" y="312" text-anchor="middle" font-size="12" fill="#1d2b44">give up e⁻</text>
 <text x="285" y="262" text-anchor="middle" font-size="12" fill="#1d2b44">e⁻ path (dashed)</text>
@@ -192,7 +192,7 @@ This is where most ATP is made. Figure 2 shows how.
 
 ### Uncoupling: making heat instead of ATP
 
-Normally electron transport and ATP synthesis are **coupled**: the ETC can only run as fast as protons flow back through ATP synthase. If protons leak back across the inner membrane by another route, the gradient is used up without making ATP. The ETC then runs fast, oxygen use rises, and the energy is released as **heat**. This is called **uncoupling**.
+Normally electron transport and ATP synthesis are **coupled**: the ETC can only run as fast as protons flow back through ATP synthase. If protons leak back across the inner membrane by another route, the gradient is used up without making ATP. The ETC then runs fast, oxygen use rises, and the energy is released as **heat**. This is called **uncoupling** (or decoupling) of oxidative phosphorylation from electron transport.
 
 Some endotherms use this on purpose. **Brown adipose tissue** (brown fat) in newborn humans and in many small and hibernating mammals contains an uncoupling protein that lets protons back into the matrix. The heat helps keep body temperature up in the cold.
 

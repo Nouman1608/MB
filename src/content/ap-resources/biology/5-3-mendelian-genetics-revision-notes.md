@@ -62,7 +62,7 @@ Short on time? This page is the recap. For explanations, figures and worked exam
 |---|---|
 | two unaffected parents with an affected child | recessive |
 | two affected parents with an unaffected child | dominant |
-| affected daughter with an unaffected father | not X-linked recessive, so autosomal |
+| recessive trait in a daughter whose father is unaffected | autosomal, not X-linked |
 
 ## Assumptions behind the numbers
 

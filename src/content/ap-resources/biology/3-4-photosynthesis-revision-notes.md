@@ -34,7 +34,7 @@ Short on time? This page is the recap. For explanations, figures and worked exam
 ## Recap
 
 - **Equation:** 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂, driven by light energy. Sugars are used at once or stored (e.g. as starch).
-- **Origins:** photosynthesis first evolved in prokaryotes. Cyanobacteria produced the oxygen in the atmosphere (sharp rise about 2.4 billion years ago). Chloroplasts descend from cyanobacteria, so eukaryotic photosynthesis is built on the prokaryotic pathway.
+- **Origins:** photosynthesis first evolved in prokaryotes. Cyanobacteria first oxygenated the atmosphere (sharp rise about 2.4 billion years ago). Chloroplasts descend from cyanobacteria, so eukaryotic photosynthesis is built on the prokaryotic pathway.
 - **Light reactions** (thylakoid membranes, grana): light boosts electrons in photosystems II and I; water is split to replace PSII's electrons and O₂ is released; electrons pass PSII → ETC → PSI → NADP⁺, forming NADPH.
 - **Proton gradient:** ETC redox reactions pump H⁺ into the thylakoid space. High H⁺ inside, low H⁺ in the stroma. H⁺ flows back through **ATP synthase**, making ATP: chemiosmosis, here called **photophosphorylation**.
 - **Calvin cycle** (stroma): ATP and NADPH power the building of carbohydrate from CO₂. ADP, Pᵢ and NADP⁺ return to the light reactions.

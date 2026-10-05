@@ -214,7 +214,7 @@ Tests show that Q's insulin level is **higher** than P's at every time point.
 
 **(b) Recovery.** P falls from 140 to 90: 50 of the 52 mg dL⁻¹ rise is reversed (about 96%), and P ends only 2 mg dL⁻¹ (2.3%) above the start. Q falls only from 214 to 182: 32 of the 96 mg dL⁻¹ rise (about 33%). At 120 min Q is still 64 mg dL⁻¹, or 54%, above the starting value.
 
-**(c) Broken link.** In Q, negative feedback is weak: glucose is not brought back towards the set point. The β cells are working, because insulin is high. So the signal is being sent but the **target cells respond weakly to insulin**: the fault is at the receptor or in the pathway inside the target cells. This pattern matches insulin resistance (type 2 diabetes). The high insulin is the knock-on effect: glucose stays high, so the stimulus to the β cells never goes away.
+**(c) Broken link.** In Q, negative feedback is weak: glucose is not brought back towards the set point. The β cells are working, because insulin is high. So the signal is being sent but the **target cells respond weakly to insulin**: the fault is at the receptor or in the pathway inside the target cells. This pattern matches insulin resistance, the main fault in type 2 diabetes. The high insulin is the knock-on effect: glucose stays high, so the stimulus to the β cells never goes away.
 
 **(d) Prediction.** With fewer working β cells, less insulin would be released. Target cells that already respond weakly would receive even less signal, so glucose would rise higher after a drink and stay high for longer, and fasting glucose would rise too.
 

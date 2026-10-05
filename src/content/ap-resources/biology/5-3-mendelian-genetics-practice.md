@@ -191,7 +191,7 @@ The pedigree shows a fictional family with a rare trait.
 
 - II-4 and II-5 are both affected but have an unaffected daughter (III-3). If the trait were recessive, both parents would be aa and could only have aa (affected) children. So the allele is dominant.
 - I-1 (affected father) has an affected son (II-4). A father gives his son a Y chromosome, not an X, so an X-linked allele could not pass from I-1 to II-4. II-4's mother, I-2, is unaffected, so for a dominant trait she cannot carry it. The gene must be autosomal.
-- Also acceptable: every affected person in the family has an affected parent; the trait appears in every generation.
+- Also acceptable as supporting evidence: every affected child shown has at least one affected parent; the trait appears in every generation.
 
 **(b)** Both are **Aa**. Each is affected, so has at least one A. Their daughter III-3 is aa, so each parent must have given her an a.
 

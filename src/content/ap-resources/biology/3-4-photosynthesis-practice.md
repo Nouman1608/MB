@@ -56,21 +56,26 @@ A chloroplast is in bright light. In which region is the concentration of H⁺ i
 
 ## Question 2 (multiple choice · core)
 
-A researcher supplies an aquatic plant with water containing a heavy isotope of oxygen, ¹⁸O, and with ordinary CO₂. Where will the ¹⁸O first appear in the products of photosynthesis?
+In ordinary water and ordinary CO₂, about 0.20% of oxygen atoms are the heavy isotope ¹⁸O. A researcher grows a fictional alga in two sealed flasks in bright light.
 
-- (A) In the O₂ released by the plant
-- (B) In the glucose made in the Calvin cycle
-- (C) In the ATP made by ATP synthase
-- (D) In the CO₂ fixed by the plant
+- **Flask 1:** water enriched to 1.50% ¹⁸O; ordinary CO₂.
+- **Flask 2:** CO₂ enriched to 1.50% ¹⁸O; ordinary water.
+
+After 20 minutes, the O₂ released contains 1.49% ¹⁸O in flask 1 and 0.21% ¹⁸O in flask 2. Which conclusion do these data best support?
+
+- (A) The O₂ released by photosynthesis comes from water.
+- (B) The O₂ released by photosynthesis comes from CO₂.
+- (C) About half of the O₂ comes from water and half from CO₂.
+- (D) The O₂ is released when glucose made in the Calvin cycle is broken down.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Water is split at photosystem II to replace lost electrons, and its oxygen atoms are released as O₂.
+**Answer: (A).** The ¹⁸O in the O₂ matches the water: almost 1.50% when the water is labelled, and only the ordinary 0.20% when the CO₂ is labelled. This fits water being split at photosystem II, with its oxygen atoms released as O₂.
 
-- (B) The oxygen atoms in the sugar come from CO₂, not from water.
-- (C) ATP is made from ADP and inorganic phosphate; water's oxygen is not added to it in this process.
-- (D) CO₂ is a reactant taken in from outside, not a product.
+- (B) If the O₂ came from CO₂, flask 2 would give O₂ with about 1.50% ¹⁸O and flask 1 would give about 0.20%. The data show the opposite.
+- (C) Half from each source would give about (1.50 + 0.20) ÷ 2 = 0.85% ¹⁸O in both flasks.
+- (D) The oxygen atoms in the sugar come from CO₂, so this would put the label in the O₂ of flask 2, not flask 1. Breaking down glucose also uses O₂ rather than releasing it.
 </details>
 
 ## Question 3 (multiple choice · core)
@@ -130,7 +135,7 @@ The rate of O₂ production by a fictional water plant was measured at different
 <figure>
 <svg viewBox="0 0 520 330" role="img" aria-labelledby="q5-title q5-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="q5-title">Rate of oxygen production against light intensity</title>
-<desc id="q5-desc">Line graph. Horizontal axis: relative light intensity from 0 to 6. Vertical axis: oxygen production in micromoles per hour from 0 to 16. Points: 0 at 0, 4.2 at 1, 8.3 at 2, 12.1 at 3, 14.0 at 4, 14.4 at 5 and 14.5 at 6. The line rises steeply and almost straight up to intensity 3, then levels off at about 14.5.</desc>
+<desc id="q5-desc">Line graph with circular data points. Horizontal axis: relative light intensity from 0 to 6. Vertical axis: oxygen production in micromoles per hour from 0 to 16. Points: 0 at 0, 4.2 at 1, 8.3 at 2, 12.1 at 3, 14.0 at 4, 14.4 at 5 and 14.5 at 6. The line rises steeply and almost linearly up to intensity 3, then levels off at about 14.5.</desc>
 <rect x="0" y="0" width="520" height="330" fill="#ffffff"/>
 <line x1="70" y1="280" x2="440" y2="280" stroke="#1d2b44" stroke-width="2"/>
 <line x1="70" y1="280" x2="70" y2="50" stroke="#1d2b44" stroke-width="2"/>
@@ -196,7 +201,7 @@ A student claims: "Photosynthesis first evolved in prokaryotes, and prokaryotic 
 <details>
 <summary>Model answer and suggested Marlbridge rubric</summary>
 
-**(a)** Statement 1 shows when O₂ appeared. Statement 2 shows that eukaryotes were not yet present (or not yet common) at that time, so they cannot have produced the O₂. Statement 3 shows that cyanobacteria have the machinery to split water and release O₂. So prokaryotes, most likely cyanobacteria, are the best explanation for the oxygen.
+**(a)** Statement 1 shows when O₂ appeared. Statement 2 shows that eukaryotes were not yet present (or not yet common) at that time, so they are very unlikely to have produced the O₂. Statement 3 shows that cyanobacteria have the machinery to split water and release O₂. So prokaryotes, most likely cyanobacteria, are the best explanation for the oxygen.
 
 **(b)** Statement 4 shows that chloroplasts are descended from cyanobacteria that were taken into an early eukaryotic cell. So eukaryotic photosynthesis did not evolve separately: it was inherited from prokaryotes, and the prokaryotic pathway, with its two photosystems, became the foundation of photosynthesis in algae and plants.
 

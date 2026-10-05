@@ -45,7 +45,7 @@ author: "marlbridge-academic-team"
 
 ## From chromosomes to traits
 
-In Topics 5.1 and 5.2 you followed chromosomes through meiosis. This topic follows the **genes** they carry. Gregor Mendel worked out the basic rules in the 1860s by crossing pea plants and counting the offspring, long before anyone had seen a chromosome. Today we can explain his rules with meiosis.
+In Topics 5.1 and 5.2 you followed chromosomes through meiosis. This topic follows the **genes** they carry. Gregor Mendel worked out the basic rules in the 1850s and 1860s by crossing pea plants and counting the offspring, long before anyone had seen a chromosome. Today we can explain his rules with meiosis.
 
 Start with the vocabulary. You will use it in every answer.
 
@@ -78,7 +78,7 @@ Now follow two genes. If they are on **different chromosomes**, the way one homo
 <figure>
 <svg viewBox="0 0 640 320" role="img" aria-labelledby="ia-title ia-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="ia-title">Independent assortment of two homologous pairs at metaphase I</title>
-<desc id="ia-desc">Two rows, each showing a cell at metaphase I with a long homologous pair carrying alleles P and p, and a short homologous pair carrying alleles R and r, lined up on either side of a dashed metaphase plate. In arrangement 1, P and R are on the left and p and r on the right, giving gametes P R and p r. In arrangement 2, P and r are on the left and p and R on the right, giving gametes P r and p R. Each arrangement is equally likely, so a PpRr cell type produces four kinds of gamete in equal proportions.</desc>
+<desc id="ia-desc">Two rows, each showing a cell at metaphase I with a long homologous pair carrying alleles P and p, and a short homologous pair carrying alleles R and r, lined up on either side of a dashed metaphase plate. In arrangement 1, P and R are on the left and p and r on the right, giving gametes P R and p r. In arrangement 2, P and r are on the left and p and R on the right, giving gametes P r and p R. Each arrangement is equally likely, so a PpRr individual produces four kinds of gamete in equal proportions.</desc>
 <rect x="0" y="0" width="640" height="320" fill="#ffffff"/>
 <text x="210" y="20" text-anchor="middle" font-size="14" font-weight="600" fill="#1d2b44">Arrangement 1: P and R face the same pole</text>
 <ellipse cx="210" cy="85" rx="95" ry="58" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
@@ -181,7 +181,7 @@ Each child is a new, independent event. If a couple's first child has the recess
 | Cross | Typical use | Expected offspring |
 |---|---|---|
 | **Monohybrid** Aa × Aa | show which allele is dominant | genotypes 1 : 2 : 1; phenotypes 3 : 1 |
-| **Dihybrid** AaBb × AaBb | test independent assortment of two genes | phenotypes 9 : 3 : 3 : 1 |
+| **Dihybrid** AaBb × AaBb | show dominance for two traits at once, and test independent assortment | phenotypes 9 : 3 : 3 : 1 |
 | **Test cross** (unknown × homozygous recessive) | find the genotype of an individual with the dominant phenotype | all dominant if the unknown is AA; 1 : 1 if Aa |
 | **Dihybrid test cross** AaBb × aabb | test independent assortment directly | phenotypes 1 : 1 : 1 : 1 |
 
@@ -328,7 +328,7 @@ The phenotypic ratio is **3 : 3 : 1 : 1**. It is not 9 : 3 : 3 : 1, because only
 - **"Independent assortment applies to all genes."** It applies to genes on different chromosomes. Linked genes do not assort independently.
 - **"Degrees of freedom = number of offspring − 1."** It is the number of categories minus one.
 - **"Fail to reject means the hypothesis is proved."** It means the data are consistent with it. Rejecting means the difference is unlikely to be chance.
-- **"Use percentages in chi-square."** χ² must use actual counts. Percentages give a misleadingly small value.
+- **"Use percentages in chi-square."** χ² must use actual counts. Percentages give the wrong value (too small whenever there are more than 100 offspring).
 - **"Recessive alleles disappear."** A recessive allele can be hidden in carriers for many generations and reappear.
 
 ## Where this leads

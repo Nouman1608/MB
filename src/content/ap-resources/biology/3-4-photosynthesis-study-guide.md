@@ -68,7 +68,7 @@ The equation is a summary. It hides two linked sets of reactions:
 Photosynthesis **first evolved in prokaryotes**, long before plants existed.
 
 - Rock layers show that free oxygen in Earth's atmosphere rose sharply about **2.4 billion years ago**. This is known as the Great Oxidation Event.
-- The evidence points to **cyanobacteria**, prokaryotes that release O₂ in photosynthesis, as the cause. The oldest fossils that most scientists accept as eukaryotes are much younger than this rise in oxygen, so eukaryotes cannot have produced it.
+- The evidence points to **cyanobacteria**, prokaryotes that release O₂ in photosynthesis, as the cause. The oldest fossils that most scientists accept as eukaryotes are much younger than this rise in oxygen, so eukaryotes are very unlikely to have produced it.
 - Eukaryotic photosynthesis was **built on the prokaryotic pathway**. A chloroplast is descended from a cyanobacterium that was taken in by an early eukaryotic cell (endosymbiosis, Unit 2). Chloroplasts still have a double membrane, their own circular DNA and bacteria-like ribosomes, and they use two photosystems, just as cyanobacteria do.
 
 So the chemistry happening in a leaf today is a version of the chemistry that changed the planet's atmosphere.
@@ -80,7 +80,7 @@ The structure of the chloroplast matches its two jobs.
 <figure>
 <svg viewBox="0 0 640 330" role="img" aria-labelledby="chl-title chl-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="chl-title">Structure of a chloroplast</title>
-<desc id="chl-desc">A cut-open oval chloroplast drawn with two outlines, labelled outer membrane and inner membrane. The space inside the inner membrane is labelled stroma, fluid, site of the Calvin cycle. Inside are three stacks of flat discs. One disc is labelled thylakoid, and its membrane is labelled thylakoid membrane, containing photosystems, electron transport chain and ATP synthase, site of the light reactions. One stack is labelled granum, a stack of thylakoids. The inside of a disc is labelled thylakoid space. Thin lines join neighbouring stacks.</desc>
+<desc id="chl-desc">A cut-open oval chloroplast drawn with two outlines, labelled outer membrane and inner membrane. The space inside the inner membrane is labelled stroma, fluid, site of the Calvin cycle. Inside are three stacks of flat discs called thylakoids. The edge of one disc is labelled thylakoid membrane, site of the light reactions. One stack is labelled granum, a stack of thylakoids. The inside of a disc is labelled thylakoid space, inside each disc. Thin lines join neighbouring stacks.</desc>
 <rect x="0" y="0" width="640" height="330" fill="#ffffff"/>
 <ellipse cx="300" cy="165" rx="250" ry="120" fill="#ffffff" stroke="#1d2b44" stroke-width="3"/>
 <ellipse cx="300" cy="165" rx="238" ry="108" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
@@ -121,7 +121,7 @@ The light reactions are a chain of coordinated steps across the thylakoid membra
 <figure>
 <svg viewBox="0 0 680 360" role="img" aria-labelledby="lr-title lr-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="lr-title">The light reactions in the thylakoid membrane</title>
-<desc id="lr-desc">A horizontal band represents the thylakoid membrane. Above it is the stroma, labelled low hydrogen ion concentration. Below it is the thylakoid space, labelled high hydrogen ion concentration. In the membrane, from left to right: photosystem II, the electron transport chain, photosystem I and ATP synthase. Wavy arrows labelled light point into photosystem II and photosystem I. Below photosystem II, water is split into hydrogen ions and oxygen, and electrons pass to photosystem II. A dashed electron path runs from photosystem II through the electron transport chain to photosystem I and then up into the stroma, where NADP plus and a hydrogen ion become NADPH. A solid arrow shows hydrogen ions pumped by the electron transport chain from the stroma into the thylakoid space. Another solid arrow shows hydrogen ions flowing from the thylakoid space through ATP synthase into the stroma, where ADP and inorganic phosphate become ATP.</desc>
+<desc id="lr-desc">A horizontal band represents the thylakoid membrane. Above it is the stroma, labelled low hydrogen ion concentration. Below it is the thylakoid space, labelled high hydrogen ion concentration. In the membrane, from left to right: photosystem II, the electron transport chain, photosystem I and ATP synthase. Wavy arrows labelled light point into photosystem II and photosystem I. Below photosystem II, water is split into hydrogen ions, electrons and oxygen, and the electrons pass to photosystem II. A dashed electron path runs from photosystem II through the electron transport chain to photosystem I and then up into the stroma, where NADP plus and a hydrogen ion become NADPH. A solid arrow shows hydrogen ions pumped by the electron transport chain from the stroma into the thylakoid space. Another solid arrow shows hydrogen ions flowing from the thylakoid space through ATP synthase into the stroma, where ADP and inorganic phosphate become ATP.</desc>
 <rect x="0" y="0" width="680" height="360" fill="#ffffff"/>
 <defs><marker id="lr-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1d2b44"/></marker></defs>
 <text x="20" y="24" font-size="13" font-weight="700" fill="#1d2b44">Stroma: low [H⁺]</text>
@@ -143,7 +143,7 @@ The light reactions are a chain of coordinated steps across the thylakoid membra
 <path d="M360,50 q6,-8 12,0 t12,0 t12,0 t12,0" fill="none" stroke="#1d2b44" stroke-width="2"/>
 <line x1="408" y1="56" x2="395" y2="135" stroke="#1d2b44" stroke-width="2" marker-end="url(#lr-arrow)"/>
 <text x="360" y="40" font-size="12" fill="#1d2b44">light</text>
-<text x="100" y="268" text-anchor="middle" font-size="13" fill="#1d2b44">2H₂O → 4H⁺ + O₂</text>
+<text x="100" y="268" text-anchor="middle" font-size="13" fill="#1d2b44">2H₂O → 4H⁺ + 4e⁻ + O₂</text>
 <text x="100" y="286" text-anchor="middle" font-size="12" fill="#1d2b44">(water split; e⁻ to PS II)</text>
 <line x1="100" y1="252" x2="100" y2="225" stroke="#1d2b44" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#lr-arrow)"/>
 <line x1="140" y1="180" x2="207" y2="180" stroke="#1d2b44" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#lr-arrow)"/>

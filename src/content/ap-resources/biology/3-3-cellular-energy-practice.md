@@ -207,7 +207,7 @@ A fictional four-step pathway converts compound J into compound N. The energy ch
 
 **(b)** Steps **J → K (+14)** and **L → M (+9)** require energy. Coupled to one ATP, J → K becomes +14 − 30 = **−16 kJ mol⁻¹**, so it can proceed. (L → M coupled to one ATP would be +9 − 30 = −21 kJ mol⁻¹.)
 
-**(c)** First law: the energy is not destroyed. Part of it may be captured, for example in ATP or electron carriers in the energy-releasing steps, and part is converted. Second law: no transfer is perfect, so some of the released energy becomes heat that spreads into the surroundings and increases their disorder.
+**(c)** First law: the 30 kJ mol⁻¹ released is not destroyed; it is converted. Part of it may be captured, for example in ATP or electron carriers in the energy-releasing steps. Second law: no transfer is perfect, so some of the released energy becomes heat that spreads into the surroundings and increases their disorder.
 
 **(d)** Any one: energy is released in smaller amounts that can be captured rather than lost all at once as heat; each step has its own enzyme, so the rate can be regulated at one step; the intermediates K, L and M can be used by other pathways.
 

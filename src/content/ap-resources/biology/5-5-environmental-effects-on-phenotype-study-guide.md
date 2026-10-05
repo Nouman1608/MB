@@ -209,7 +209,7 @@ The mechanism is a change in gene expression. Temperature alters which genes are
 <text x="282" y="230" font-size="12" fill="#1d2b44">≈ 28.6 °C</text>
 <text x="100" y="172" font-size="12" fill="#1d2b44">50% female</text>
 </svg>
-<figcaption>Figure 2. Fictional data from Worked example 2. Below about 27 °C almost all hatchlings are male; above 30 °C almost all are female. The change happens over only about 2 °C.</figcaption>
+<figcaption>Figure 2. Fictional data from Worked example 2. Below about 27 °C almost all hatchlings are male; above 30 °C almost all are female. Most of the switch happens between 27 °C and 30 °C, a range of only 3 °C.</figcaption>
 </figure>
 
 **(b) Pivotal temperature.** 50% lies between 28 °C (25%) and 29 °C (65%). Assume a straight line between these two points (linear interpolation):
