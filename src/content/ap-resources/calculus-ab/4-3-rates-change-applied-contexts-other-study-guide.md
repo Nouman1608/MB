@@ -10,7 +10,7 @@ calculusScope: "ab-and-bc"
 prerequisites:
   - "The derivative as an instantaneous rate of change and the meaning of f′(a) in context (Topic 4.1)"
   - "Differentiation rules for polynomials, products, quotients and composite functions (Units 2 and 3)"
-  - "Estimating a derivative from a table with a difference quotient (Topics 2.1 and 2.2)"
+  - "Estimating a derivative from a table with a difference quotient (Topics 2.1 and 2.3)"
   - "Velocity and acceleration as first and second derivatives of position (Topic 4.2)"
 learningObjectives:
   - "Interpret f′(a) in a non-motion context, naming the instant, the quantity, the direction of change and the rate with units"
@@ -143,7 +143,7 @@ where t is measured in minutes. (Invented model.)
 <figure>
 <svg viewBox="0 0 520 340" role="img" aria-labelledby="tank-title tank-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="tank-title">Graph of the tank volume V(t) with the tangent line at t = 10 minutes</title>
-<desc id="tank-desc">The horizontal axis is time t in minutes from 0 to 30. The vertical axis is volume V in litres from 0 to 2000. A solid curve starts at 2000 litres at t = 0 and falls, levelling off to 650 litres at t = 30; it gets less steep as time passes. A dashed straight line touches the curve at the marked point (10, 1250). A small right-angled triangle under the dashed line runs 5 minutes across and 300 litres down, showing a slope of −300 ÷ 5 = −60 litres per minute.</desc>
+<desc id="tank-desc">The horizontal axis is time t in minutes from 0 to 30. The vertical axis is volume V in litres from 0 to 2000. A solid curve starts at 2000 litres at t = 0 and falls, levelling off to 650 litres at t = 30; it gets less steep as time passes. A dashed straight line touches the curve at the marked point (10, 1250). A small right-angled triangle whose sloping side lies along the dashed line runs 5 minutes across and 300 litres down, showing a slope of −300 ÷ 5 = −60 litres per minute.</desc>
 <rect x="0" y="0" width="520" height="340" fill="#ffffff"/>
 <line x1="70" y1="290" x2="505" y2="290" stroke="#1d2b44" stroke-width="1.5"/>
 <line x1="70" y1="300" x2="70" y2="15" stroke="#1d2b44" stroke-width="1.5"/>

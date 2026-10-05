@@ -47,6 +47,6 @@ Work through the list without notes or a calculator. If you cannot do a statemen
 - I can use the sign of f″ between a and x to justify whether an estimate is too high or too low. *(Guide: Worked example 3; Practice Q5(c), Q6(c))*
 - I can handle a point of tangency where f″ changes sign, treating each side separately. *(Practice Q7(b))*
 - I can explain in context why an estimate gets less reliable further from a. *(Guide: error table and Worked example 2(d); Practice Q6(d))*
-- I can state an estimate with "≈" and units, and say how it relates to the actual value. *(Guide: Worked example 2; Practice Q7(c))*
+- I can state an estimate with "≈" and units, and say how it relates to the actual value. *(Guide: Worked example 2; Practice Q5(d), Q6(b), Q7(c))*
 
 All ticked? Move on to [Topic 4.7, Using L'Hospital's Rule for Determining Limits of Indeterminate Forms](/advanced-course-resources/calculus-ab/4-7-lhospitals-rule-determining-limits-indeterminate-study-guide/), or return to the [Calculus AB roadmap](/advanced-course-resources/calculus-ab/#roadmap) or the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

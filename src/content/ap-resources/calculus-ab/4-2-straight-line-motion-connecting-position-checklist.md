@@ -33,7 +33,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 - I can explain velocity as the rate of change of position and acceleration as the rate of change of velocity, with units. *(Guide: "Position, velocity and acceleration"; Practice Q6(a))*
 - I can explain the difference between velocity and speed. *(Guide: "Direction of motion"; Practice Q6(c))*
-- I can explain why v = 0 does not always mean a change of direction. *(Guide: "Direction of motion"; Practice Q1, Q7(b))*
+- I can explain why v = 0 does not always mean a change of direction. *(Guide: "Direction of motion"; Practice Q7(b))*
 - I can explain the difference between displacement and total distance travelled. *(Guide: "Displacement and total distance"; Practice Q4)*
 
 ## Skills

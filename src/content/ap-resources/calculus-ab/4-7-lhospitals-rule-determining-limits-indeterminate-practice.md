@@ -201,7 +201,7 @@ Let F(x) = (e^(2x) − 1 − kx)/x² for x ≠ 0, where k is a constant, and let
 
 **(a)** As x → 0, the top tends to e⁰ − 1 − 0 = 0 for any k, and the bottom x² → 0. So the form is 0/0.
 
-**(b)** The rule gives lim (x → 0) (2e^(2x) − k)/(2x). The bottom tends to 0, and the top tends to 2 − k. If k ≠ 2, this is a nonzero number over 0, so the expression is unbounded and the limit is not finite. (For example, with k = 3 the limit is −∞ from the right and +∞ from the left.) So a finite limit needs 2 − k = 0, that is, k = 2.
+**(b)** The rule gives lim (x → 0) (2e^(2x) − k)/(2x). The bottom tends to 0, and the top tends to 2 − k. If k ≠ 2, this is a nonzero number over 0, so (2e^(2x) − k)/(2x) tends to +∞ or −∞ on each side of 0. Applying the rule to each one-sided limit, F(x) also tends to +∞ or −∞ on each side, so lim (x → 0) F(x) is not finite. (For example, with k = 3 the limit is −∞ from the right and +∞ from the left.) So a finite limit needs 2 − k = 0, that is, k = 2.
 
 **(c)** With k = 2, lim (x → 0) (2e^(2x) − 2)/(2x) has the form 0/0 (top → 0, bottom → 0), so use the rule again: lim (x → 0) 4e^(2x)/2 = 4/2 = **2**. For continuity at 0, F(0) must equal the limit, so **c = 2**.
 

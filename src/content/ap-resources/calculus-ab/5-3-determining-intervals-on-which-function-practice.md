@@ -59,11 +59,11 @@ Let f(x) = x⁴ − 8x². On which intervals is f decreasing?
 
 ## Question 2 (multiple choice · core)
 
-The derivative of a function f is f′(x) = (x − 1)²(x + 3). On which interval is f increasing?
+The derivative of a function f is f′(x) = (x − 1)²(x + 3). What is the largest interval on which f is increasing?
 
-- (A) (−3, 1) only
+- (A) (−3, 1)
 - (B) (−3, ∞)
-- (C) (1, ∞) only
+- (C) (1, ∞)
 - (D) (−∞, −3)
 
 <details>
@@ -71,8 +71,8 @@ The derivative of a function f is f′(x) = (x − 1)²(x + 3). On which interva
 
 **Answer: (B).** f′ = 0 at x = −3 and x = 1. Test values: f′(−4) = −25 < 0, f′(0) = 3 > 0, f′(2) = 5 > 0. The squared factor (x − 1)² is never negative, so f′ does **not** change sign at x = 1. f′ > 0 on (−3, ∞) except at the single point x = 1, so f is increasing on (−3, ∞).
 
-- (A) assumes the sign must change at every zero of f′, so it stops at x = 1.
-- (C) also assumes a sign change at x = 1, then picks the wrong side.
+- (A) assumes the sign must change at every zero of f′, so it stops at x = 1. f is increasing on (−3, 1), but that is not the largest interval.
+- (C) also treats x = 1 as the end of the interval of increase and keeps only the part to the right of it.
 - (D) is where f′ < 0, so f is **decreasing** there.
 </details>
 
@@ -158,7 +158,7 @@ First locate the zeros of f′. The segment from (−3, 2) to (−1, −2) cross
 
 **(c)** f′ is increasing on (−1, 2) (the segment going up). f is decreasing on (−2, 1). Both are true on **(−1, 1)**. On this interval f is still falling, but less and less steeply.
 
-**(d)** f(3) > f(1). f is increasing on (1, 4) because f′(x) > 0 there, and 1 < 3 are both in [1, 4], where f is continuous. So f(3) > f(1).
+**(d)** f(3) > f(1). f is increasing on (1, 4) because f′(x) > 0 there, and 1 and 3 both lie in [1, 4], where f is continuous. So f(3) > f(1).
 
 | Point | What earns it |
 |---|---|

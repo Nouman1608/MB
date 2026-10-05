@@ -144,30 +144,30 @@ Let f(x) = 1/x.
 
 ## Question 6 (constructed response · core)
 
-H(t) is the height, in metres, of a young tree t years after it was planted. At t = 9 the tree is 6 m tall, and for t > 0 its growth rate is H′(t) = 1.2/√t metres per year.
+H(t) is the height, in metres, of a young tree t years after it was planted. At t = 9 the tree is 8 m tall, and for t > 0 its growth rate is H′(t) = 1.2/√t metres per year.
 
 (a) Find H′(9) and explain its meaning in context.
 (b) Use the tangent line at t = 9 to estimate the height of the tree at t = 9.5.
 (c) Is the estimate in (b) too high or too low? Justify your answer.
-(d) A student uses the same line to estimate the height at t = 15 and gets 8.4 m. Explain why this estimate is less reliable than the one in (b), and say whether it is too high or too low.
+(d) A student uses the same line to estimate the height at t = 15 and gets 10.4 m. Explain why this estimate is less reliable than the one in (b), and say whether it is too high or too low.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
 **(a)** H′(9) = 1.2/√9 = 1.2/3 = **0.4 m per year**. At 9 years after planting, the tree's height is increasing at 0.4 metres per year.
 
-**(b)** L(t) = 6 + 0.4(t − 9). H(9.5) ≈ 6 + 0.4(0.5) = **6.2 m**. About nine and a half years after planting, the tree is approximately 6.2 m tall.
+**(b)** L(t) = 8 + 0.4(t − 9). H(9.5) ≈ 8 + 0.4(0.5) = **8.2 m**. About nine and a half years after planting, the tree is approximately 8.2 m tall.
 
-**(c)** H″(t) = −0.6/t^(3/2), which is negative for all t > 0. The growth rate is decreasing, so the graph of H bends downward and the tangent line lies above it. The estimate of 6.2 m is **too high** (an overestimate).
+**(c)** H″(t) = −0.6/t^(3/2), which is negative for all t > 0. The growth rate is decreasing, so the graph of H bends downward and the tangent line lies above it. The estimate of 8.2 m is **too high** (an overestimate).
 
-**(d)** 15 is 6 years from 9, while 9.5 is only half a year away. Over 6 years the growth rate falls a lot (from 0.4 m per year to 1.2/√15, about 0.31 m per year), but the line assumes it stays at 0.4. So the error is much bigger. Since H″ < 0 on the whole interval, 8.4 m is still an **overestimate**, and by more than in (b).
+**(d)** 15 is 6 years from 9, while 9.5 is only half a year away. Over 6 years the growth rate falls a lot (from 0.4 m per year to 1.2/√15, about 0.31 m per year), but the line assumes it stays at 0.4. So the error is much bigger. Since H″ < 0 on the whole interval, 10.4 m is still an **overestimate**, and by more than in (b).
 
 | Point | What earns it |
 |---|---|
 | 1 | H′(9) = 0.4 with units and a correct interpretation (rate of change of height at t = 9) |
-| 1 | Estimate 6.2 m from a correct linearization |
+| 1 | Estimate 8.2 m from a correct linearization |
 | 1 | Overestimate, justified by H″ < 0 (or by H′ decreasing) |
-| 1 | Explains that the step is much larger, so the rate changes more over the interval, and states that 8.4 m is an overestimate |
+| 1 | Explains that the step is much larger, so the rate changes more over the interval, and states that 10.4 m is an overestimate |
 </details>
 
 ## Question 7 (constructed response · stretch)

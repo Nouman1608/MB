@@ -39,9 +39,9 @@ These are **original Marlbridge practice questions**, not past exam questions. T
 
 ## Question 1 (multiple choice · foundation)
 
-On which interval is the graph of f(x) = x³ + 3x² − 5 concave down?
+On which of these intervals is the graph of f(x) = x³ + 3x² − 5 concave down on the whole interval?
 
-- (A) (−∞, −2)
+- (A) (0, ∞)
 - (B) (−∞, −1)
 - (C) (−2, 0)
 - (D) (−1, ∞)
@@ -51,8 +51,8 @@ On which interval is the graph of f(x) = x³ + 3x² − 5 concave down?
 
 **Answer: (B).** f′(x) = 3x² + 6x and f″(x) = 6x + 6 = 6(x + 1). f″ < 0 when x < −1, so the graph is concave down on (−∞, −1).
 
-- (A) is an interval where f′ = 3x(x + 2) > 0, so f is increasing there. That is not concavity.
-- (C) is where f′ < 0, so f is decreasing there. Again, the sign of f′ does not decide concavity.
+- (A) is an interval where f′ = 3x(x + 2) > 0, so f is increasing there. That is not concavity: in fact f″ > 0 there, so the graph is concave up.
+- (C) is where f′ < 0, so f is decreasing there. Again, the sign of f′ does not decide concavity: the graph is concave down only on (−2, −1) and concave up on (−1, 0).
 - (D) is where f″ > 0: concave **up**.
 </details>
 
@@ -108,7 +108,7 @@ The derivative of a function f is f′(x) = (x − 1)²(x + 2). At which x-value
 
 - (A) gives the zeros of f′, which are critical points.
 - (C) rejects x = 1 because f′(1) = 0. A critical point can also be an inflection point: here f′ has a local minimum of 0 at x = 1.
-- (D) misses x = −1, perhaps by not expanding f″ fully.
+- (D) misses x = −1. It is not a zero of f′, so it only appears once you find and factor f″.
 </details>
 
 ## Question 5 (graph · core)

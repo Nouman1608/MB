@@ -49,6 +49,6 @@ Work through the list without notes or a calculator. If you cannot do a statemen
 - I can justify the existence of a maximum or minimum value using the Extreme Value Theorem, naming the condition. *(Practice Q6(a), Q7(b))*
 - I can explain why a table of values does not locate a maximum exactly. *(Practice Q6(b))*
 - I can argue that an interior global extremum of a differentiable function has f′(c) = 0. *(Practice Q6(d))*
-- I can argue that a function with no critical points on an interval has its extrema at the endpoints. *(Practice Q7(c))*
+- I can argue that a function continuous on [a, b] with no critical points inside (a, b) has its maximum and minimum at the endpoints. *(Practice Q7(c))*
 
 All ticked? Move on to [Topic 5.3, Determining Intervals on Which a Function Is Increasing or Decreasing](/advanced-course-resources/calculus-ab/5-3-determining-intervals-on-which-function-study-guide/), or return to the [Calculus AB roadmap](/advanced-course-resources/calculus-ab/#roadmap) or the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

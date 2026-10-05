@@ -104,7 +104,7 @@ Which statement is true?
 
 - (A) forgets the endpoint x = 5, which ties for the maximum.
 - (C) confuses "f′ does not exist" with "f is not continuous". A point where f′ does not exist is a candidate, not a reason the test fails.
-- (D) picks the lower of the two f′ = 0 points but ignores x = −1, where f is lower still.
+- (D) uses the value at x = 3, a point where f′ = 0, but ignores x = −1, where f is lower still.
 </details>
 
 ## Question 4 (multiple choice · core)
@@ -128,39 +128,39 @@ For which function and interval does the Candidates Test **not** guarantee the a
 
 ## Question 5 (constructed response · core)
 
-Let f(x) = x√(4 − x²).
+Let f(x) = x√(9 − x²).
 
-(a) Show that f′(x) = (4 − 2x²)/√(4 − x²).
-(b) Find all critical points of f in the open interval (−1, 2).
-(c) Find the absolute maximum and minimum values of f on [−1, 2]. Justify your answer.
+(a) Show that f′(x) = (9 − 2x²)/√(9 − x²).
+(b) Find all critical points of f in the open interval (−2, 3).
+(c) Find the absolute maximum and minimum values of f on [−2, 3]. Justify your answer.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
 **(a)** Product rule with the chain rule:
 
-f′(x) = 1 · √(4 − x²) + x · (−2x)/(2√(4 − x²)) = √(4 − x²) − x²/√(4 − x²).
+f′(x) = 1 · √(9 − x²) + x · (−2x)/(2√(9 − x²)) = √(9 − x²) − x²/√(9 − x²).
 
-Write over a common denominator: f′(x) = ((4 − x²) − x²)/√(4 − x²) = **(4 − 2x²)/√(4 − x²)**.
+Write over a common denominator: f′(x) = ((9 − x²) − x²)/√(9 − x²) = **(9 − 2x²)/√(9 − x²)**.
 
-**(b)** f′(x) = 0 when 4 − 2x² = 0, so x² = 2 and x = ±√2. Only **x = √2** is in (−1, 2). f′ does not exist at x = ±2, but those are not inside (−1, 2). So x = √2 is the only critical point.
+**(b)** f′(x) = 0 when 9 − 2x² = 0, so x² = 9/2 and x = ±3/√2 = ±3√2/2 (about ±2.12). Only **x = 3√2/2** is in (−2, 3). f′ does not exist at x = ±3, but those are not inside (−2, 3). So x = 3√2/2 is the only critical point.
 
-**(c)** f is continuous on [−1, 2], since 4 − x² ≥ 0 there. Candidates:
+**(c)** f is continuous on [−2, 3], since 9 − x² ≥ 0 there. Candidates:
 
-| x | −1 | √2 | 2 |
+| x | −2 | 3√2/2 | 3 |
 |---|---|---|---|
-| f(x) | −1 · √3 = −√3 | √2 · √2 = 2 | 2 · 0 = 0 |
+| f(x) | −2 · √5 = −2√5 | (3/√2) · (3/√2) = 9/2 | 3 · 0 = 0 |
 
-The absolute maximum value is **2**, at x = √2. The absolute minimum value is **−√3**, at x = −1.
+The absolute maximum value is **9/2**, at x = 3√2/2. The absolute minimum value is **−2√5**, at x = −2.
 
 | Point | What earns it |
 |---|---|
 | 1 | Correct product and chain rule, simplified to the given form |
-| 1 | Solves 4 − 2x² = 0 and keeps only x = √2 (rejects −√2 as outside the interval) |
-| 1 | Evaluates f at x = −1, √2 and 2 |
+| 1 | Solves 9 − 2x² = 0 and keeps only x = 3√2/2 (rejects −3√2/2 as outside the interval) |
+| 1 | Evaluates f at x = −2, 3√2/2 and 3 |
 | 1 | States both answers as values with their x-locations, with a reason that names continuity on the closed interval or the candidates |
 
-Note: x = −√2 gives f = −2, which is lower than −√3, but it is outside [−1, 2]. Using it loses the third and fourth points.
+Note: x = −3√2/2 gives f = −9/2 = −4.5, which is lower than −2√5 ≈ −4.472, but it is outside [−2, 3]. Using it loses the third and fourth points.
 </details>
 
 ## Question 6 (constructed response · calculator · core)

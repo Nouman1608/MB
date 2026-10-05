@@ -107,7 +107,7 @@ After the first rule, every piece it produces is a smaller expression. Ask the s
 <figure>
 <svg viewBox="0 0 540 330" role="img" aria-labelledby="tree-title tree-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="tree-title">Structure tree for g(x) = x³ cos(4x), showing which rule to use at each level</title>
-<desc id="tree-desc">A tree diagram with three levels. The top box reads "x³ · cos(4x)" with the label "last operation: multiply, so product rule". Two lines lead down to two boxes. The left box reads "x³" with the label "power rule gives 3x²". The right box reads "cos(4x)" with the label "function of a function, so chain rule". Two lines lead down from the right box to two more boxes. One reads "outer: cos u, derivative −sin u". The other reads "inner: u = 4x, derivative 4". The diagram shows that the rule is chosen from the top down, one level at a time.</desc>
+<desc id="tree-desc">A tree diagram with three levels. The top box reads "x³ · cos(4x)" with the label "last step: multiply" and an arrow note "product rule". Two lines lead down to two boxes. The left box reads "x³" with the label "power rule: 3x²". The right box, drawn with a dashed border, reads "cos(4x)" with the label "function of a function" and an arrow note "chain rule". Two lines lead down from the right box to two more boxes. One reads "outer: cos u, derivative −sin u". The other reads "inner: u = 4x, derivative 4". The diagram shows that the rule is chosen from the top down, one level at a time.</desc>
 <rect x="0" y="0" width="540" height="330" fill="#ffffff"/>
 <line x1="270" y1="70" x2="130" y2="140" stroke="#1d2b44" stroke-width="1.5"/>
 <line x1="270" y1="70" x2="390" y2="140" stroke="#1d2b44" stroke-width="1.5"/>
@@ -147,7 +147,7 @@ Some questions do not give you y = (formula in x). The form of the question then
 
 **An inverse function at a point.** If f(x) = x³ + x and you need the derivative of f⁻¹ at 2, do not try to find a formula for f⁻¹. Find the a with f(a) = 2: here a = 1, since 1 + 1 = 2. Then f′(x) = 3x² + 1, so f′(1) = 4, and (f⁻¹)′(2) = 1/f′(1) = **1/4**. The rule needs f′(a) ≠ 0.
 
-**Inverse trig functions.** Use the formulas with the chain rule. d/dx [arctan(5x)] = 5/(1 + 25x²). The 5 on top is the derivative of the inside.
+**Inverse trig functions.** Use the formulas with the chain rule. d/dx [arctan(7x)] = 7/(1 + 49x²). The 7 on top is the derivative of the inside.
 
 **Values in a table or a graph.** The rules work the same way with numbers. Write the rule with letters first, then substitute values from the table. Worked example 2 shows this.
 

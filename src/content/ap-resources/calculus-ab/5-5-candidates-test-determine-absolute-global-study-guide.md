@@ -188,7 +188,7 @@ Two things stand out in the picture. The local maximum at (0, 3) is **not** the 
 The guarantee needs both conditions. Look at what goes wrong without them.
 
 - **Open interval.** On (−1, 2), the function x² takes values close to 4 as x approaches 2, but x = 2 is not in the interval, so it never reaches 4. There is no absolute maximum. (The absolute minimum, 0 at x = 0, does exist.)
-- **A break in the graph.** 1/x on [−1, 1] is not continuous at x = 0. It grows without bound near 0, so there is no absolute maximum or minimum.
+- **A break in the graph.** 1/x on [−1, 1] is not defined, so not continuous, at x = 0. It grows without bound near 0, so there is no absolute maximum or minimum.
 
 In both cases a list of "candidates" would give you numbers, but they would not be the answer. Always check the conditions first. Later, in optimisation problems, you will learn other ways to argue about extrema on open intervals.
 

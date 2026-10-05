@@ -141,7 +141,7 @@ A rate's sign also carries information. A quantity that is getting smaller has a
 <figure>
 <svg viewBox="0 0 520 300" role="img" aria-labelledby="rect-title rect-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="rect-title">A rectangle whose width is growing and whose height is shrinking</title>
-<desc id="rect-desc">A solid rectangle labelled width w = 40 cm and height h = 25 cm. An arrow on the right side points outward, labelled "w increasing, dw/dt = +3 cm/s". An arrow above the top edge points down into the rectangle, labelled "h decreasing, dh/dt = −2 cm/s". A dashed rectangle shows the shape one second later: slightly wider and slightly shorter, sharing the same bottom-left corner.</desc>
+<desc id="rect-desc">A solid rectangle labelled width w = 40 cm and height h = 25 cm. An arrow on the right side points outward, labelled "w increasing, dw/dt = +3 cm/s". An arrow above the rectangle points down at the top edge, labelled "h decreasing, dh/dt = −2 cm/s". A dashed rectangle shows the shape one second later: slightly wider and slightly shorter, sharing the same bottom-left corner.</desc>
 <rect x="0" y="0" width="520" height="300" fill="#ffffff"/>
 <rect x="60" y="102" width="258" height="138" fill="none" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="6 4"/>
 <rect x="60" y="90" width="240" height="150" fill="#eef2f8" stroke="#1d2b44" stroke-width="2.5"/>
@@ -197,7 +197,7 @@ The diagonal is getting longer even though the area is shrinking. Different quan
 - **Forgetting the rate factor.** d/dt(s³) is 3s² · ds/dt, not 3s². Without ds/dt the units are wrong.
 - **Multiplying rates instead of using the product rule.** d/dt(wh) ≠ (dw/dt)(dh/dt).
 - **Ignoring signs.** "Decreasing at 2 cm/s" means dh/dt = −2. Using +2 gives the wrong answer and often the wrong direction.
-- **Treating an instant value as a constant.** The value at the instant (s = 5) is not a constant for all time. A true constant (such as a fixed radius) has rate 0; an instant value does not.
+- **Treating an instant value as a constant.** The value at the instant (s = 5) is not a constant for all time. A true constant (such as a fixed radius) has rate 0; a quantity that only takes a value at one instant keeps its own rate, which is usually not 0.
 - **Differentiating with respect to different variables.** All terms must be differentiated with respect to the same variable, t.
 - **Mixing units.** If one length is in metres and another in centimetres, convert before substituting.
 - **Leaving out units or direction.** A rate is incomplete without units, and the sign should be explained in words.

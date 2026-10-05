@@ -89,7 +89,7 @@ Which statement **must** be true?
 - (A) f′(c) = 2 for some c in (3, 6)
 - (B) f′(c) = −2 for some c in (3, 6)
 - (C) f(c) = 0 for some c in (1, 8)
-- (D) f′(c) = 2/7 for some c in (3, 8)
+- (D) f′(c) = 2/7 for some c in (6, 8)
 
 <details>
 <summary>Answer and explanation</summary>
@@ -98,7 +98,7 @@ Which statement **must** be true?
 
 - (A) uses the wrong sub-interval. The average rate is 2 on [1, 3] and on [6, 8], so f′ = 2 is guaranteed in (1, 3) and in (6, 8), not in (3, 6).
 - (C) needs a sign change for the Intermediate Value Theorem. Every table value is positive, so nothing guarantees a zero.
-- (D) 2/7 is the average rate on [1, 8], which guarantees a c in (1, 8). On [3, 8] the average rate is (7 − 9)/5 = −2/5, so nothing guarantees 2/7 in (3, 8).
+- (D) 2/7 is the average rate on [1, 8], which guarantees a c somewhere in (1, 8), not in a particular part of it. On [6, 8] the average rate is (7 − 3)/2 = 2. f could have gradient exactly 2 all the way from x = 6 to x = 8, so nothing guarantees 2/7 in (6, 8).
 </details>
 
 ## Question 4 (multiple choice · core)
@@ -202,7 +202,7 @@ A fictional cyclist rides along a straight road. Her distance from the start is 
 
 d is twice differentiable, so v = d′ is differentiable and therefore continuous. On [t₁, t₂], v is continuous, v(t₁) = 0.4 and v(t₂) = 0.5, and 0.4 < 0.45 < 0.5. By the Intermediate Value Theorem, v(t) = 0.45 for some t in (t₁, t₂), which lies inside (10, 45).
 
-**(c)** Not correct. The Mean Value Theorem gives values the velocity must **take**; it never gives an upper bound. In fact part (b) shows the velocity equals 0.5 at some time, and nothing in the table stops it from being higher at other times.
+**(c)** Not correct: the conclusion does not follow. The Mean Value Theorem gives values the velocity must **take**; an average rate is never an upper bound. Part (b) already shows the velocity reaches 0.5, well above the 0.41 average, and nothing in the table stops it from being higher than 0.5 at other times.
 
 | Point | What earns it |
 |---|---|

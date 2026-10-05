@@ -126,39 +126,39 @@ Let f(x) = x³ + 2x + 1, and let g be the inverse function of f. What is g′(4)
 
 ## Question 5 (constructed response · core)
 
-A curve is given by x² + 3xy + y² = 11.
+A curve is given by 2x² − xy + y² = 8.
 
-(a) Show that the point (1, 2) lies on the curve.
+(a) Show that the point (2, 2) lies on the curve.
 (b) Find dy/dx in terms of x and y.
-(c) Find the equation of the tangent line to the curve at (1, 2).
+(c) Find the equation of the tangent line to the curve at (2, 2).
 (d) A student says: "I will solve for y first and then differentiate." Explain why implicit differentiation is the better procedure here.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** 1² + 3(1)(2) + 2² = 1 + 6 + 4 = 11. So (1, 2) is on the curve.
+**(a)** 2(2²) − (2)(2) + 2² = 8 − 4 + 4 = 8. So (2, 2) is on the curve.
 
-**(b)** Differentiate every term with respect to x. The term 3xy is a product, and y² needs the chain rule:
+**(b)** Differentiate every term with respect to x. The term xy is a product, and y² needs the chain rule:
 
-2x + 3(y + x · dy/dx) + 2y · dy/dx = 0
+4x − (y + x · dy/dx) + 2y · dy/dx = 0
 
-Collect the dy/dx terms: (3x + 2y) dy/dx = −(2x + 3y). So
+Collect the dy/dx terms: (2y − x) dy/dx = y − 4x. So
 
-**dy/dx = −(2x + 3y)/(3x + 2y)**, where 3x + 2y ≠ 0.
+**dy/dx = (y − 4x)/(2y − x)**, where 2y − x ≠ 0.
 
-**(c)** At (1, 2): dy/dx = −(2 + 6)/(3 + 4) = **−8/7**. Tangent line: **y − 2 = −(8/7)(x − 1)**, which is y = −(8/7)x + 22/7.
+**(c)** At (2, 2): dy/dx = (2 − 8)/(4 − 2) = **−3**. Tangent line: **y − 2 = −3(x − 2)**, which is y = −3x + 8.
 
-**(d)** The equation is quadratic in y. Solving gives y = [−3x ± √(5x² + 44)]/2, which has two branches and a square root. Differentiating that needs the chain rule on the root, and you must pick the correct branch (the + branch gives y = 2 at x = 1). Implicit differentiation avoids both steps and gives one formula for every point. (The explicit route does give the same slope, −8/7, at (1, 2).)
+**(d)** The equation is quadratic in y. Solving gives y = [x ± √(32 − 7x²)]/2, which has two branches and a square root. Differentiating that needs the chain rule on the root, and you must pick the correct branch (the + branch gives y = 2 at x = 2). Implicit differentiation avoids both steps and gives one formula for every point. (The explicit route does give the same slope, −3, at (2, 2).)
 
 | Point | What earns it |
 |---|---|
-| 1 | Substitutes (1, 2) and shows the left side equals 11 |
-| 1 | Differentiates implicitly, with the product rule on 3xy **and** the chain rule on y² |
+| 1 | Substitutes (2, 2) and shows the left side equals 8 |
+| 1 | Differentiates implicitly, with the product rule on xy **and** the chain rule on y² |
 | 1 | Solves for dy/dx correctly |
-| 1 | Slope −8/7 and a correct tangent line equation at (1, 2) |
+| 1 | Slope −3 and a correct tangent line equation at (2, 2) |
 | 1 | Gives a valid reason in (d): y is hard to isolate (quadratic in y, two branches, a root) |
 
-Acceptable alternative for (c): substitute x = 1, y = 2 into the differentiated equation before solving: 2 + 3(2 + dy/dx) + 4 dy/dx = 0, so 7 dy/dx = −8.
+Acceptable alternative for (c): substitute x = 2, y = 2 into the differentiated equation before solving: 8 − (2 + 2 dy/dx) + 4 dy/dx = 0, so 2 dy/dx = −6.
 </details>
 
 ## Question 6 (constructed response · core)

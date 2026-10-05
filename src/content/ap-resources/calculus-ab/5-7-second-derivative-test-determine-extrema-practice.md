@@ -51,7 +51,7 @@ A function f satisfies f′(4) = 0 and f″(4) = −3. Which statement must be t
 **Answer: (A).** f′(4) = 0 gives a horizontal tangent, and f″(4) < 0 means the graph is concave down there. By the second derivative test, f has a relative maximum at x = 4.
 
 - (B) swaps the cases. Negative f″ means concave down, a cap, so a maximum.
-- (C) confuses the test with inflection points. An inflection point needs the concavity to change; here f″(4) is negative, not zero, and nothing suggests a sign change.
+- (C) confuses the test with inflection points. An inflection point needs the concavity to change. Here f″(4) = −3 exists and is not zero, so x = 4 is not even a candidate for a point of inflection: the graph is concave down there.
 - (D) would be right if f″(4) were 0. Since f″(4) is nonzero, the test is conclusive.
 </details>
 

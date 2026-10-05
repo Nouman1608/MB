@@ -46,7 +46,7 @@ Work through the list without notes or a calculator. If you cannot do a statemen
 ## Reasoning
 
 - I can justify an extremum or inflection point with a sentence that names f′ or f″ and says how it changes. *(Guide: "Justifying a conclusion"; Practice Q5(b), Q6(a))*
-- I can explain why a zero of f″, or a point where f″ does not exist, is not automatically an inflection point. *(Guide: Worked example 1(d); Practice Q4, Q6(e))*
+- I can explain why a zero of f″, or a point where f″ does not exist, is not automatically an inflection point. *(Guide: "Common misconceptions"; Practice Q4, Q6(e))*
 - I can use sign facts about f″ and a few values of f′ to work out where f is increasing or decreasing. *(Practice Q7)*
 
 All ticked? Move on to [Topic 5.10, Introduction to Optimization Problems](/advanced-course-resources/calculus-ab/5-10-introduction-optimization-problems-study-guide/), or return to the [Calculus AB roadmap](/advanced-course-resources/calculus-ab/#roadmap) or the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

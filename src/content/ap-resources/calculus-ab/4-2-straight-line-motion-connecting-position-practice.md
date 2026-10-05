@@ -177,7 +177,7 @@ In a model, a ball is thrown straight up from a balcony. Its height above the gr
 | 1 | Ground time ≈ 2.116 s and speed ≈ 10.934 m/s (positive) |
 | 1 | Both conclusions in (d), each justified by comparing signs of v and a |
 
-Accept 2.115 or 2.116 for the time and 10.93 or 10.934 for the speed. Giving the velocity −10.934 as the speed loses the point in (c).
+Accept 2.116 (or the truncated 2.115) for the time and 10.934 for the speed. Giving the velocity −10.934 as the speed loses the point in (c).
 </details>
 
 ## Question 7 (constructed response · stretch)

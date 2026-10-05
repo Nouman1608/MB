@@ -34,7 +34,7 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-These are **original Marlbridge practice questions**, not past exam questions. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Assumptions for every question: **no calculator**, angles in radians, and every function is twice differentiable on its domain unless the question says otherwise. This set is for both Calculus AB and Calculus BC students.
+These are **original Marlbridge practice questions**, not past exam questions. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Assumptions for every question: **no calculator**, angles in radians, and every function in Questions 1–6 is twice differentiable on its domain unless the question says otherwise. Question 7 deliberately includes a point where the derivative does not exist. This set is for both Calculus AB and Calculus BC students.
 
 ## Question 1 (multiple choice · foundation)
 

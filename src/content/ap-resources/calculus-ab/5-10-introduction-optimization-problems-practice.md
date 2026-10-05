@@ -109,7 +109,7 @@ A function k is differentiable on the open interval (0, 10). Its only critical p
 **Answer: (A).** The sign change of k′ from positive to negative makes x = 4 a relative maximum. k is continuous (it is differentiable), and x = 4 is its only critical point on the interval, so k increases all the way up to x = 4 and decreases all the way after it. The relative maximum is therefore the absolute maximum on (0, 10).
 
 - (B) reverses the first derivative test.
-- (C) is the step this topic adds. On an open interval with a single critical point, no endpoint values are needed.
+- (C) is too cautious. On an open interval with a single critical point, the sign change of k′ already proves an absolute maximum; no endpoint values are needed.
 - (D) confuses k′(4) = 0 with k(4) = 0.
 </details>
 
@@ -130,11 +130,11 @@ Let h(x) = x + 2 cos x on the closed interval [0, π]. You may use π ≈ 3.14 a
 | x | 0 | π/6 | 5π/6 | π |
 |---|---|---|---|---|
 | h(x), exact | 2 | π/6 + √3 | 5π/6 − √3 | π − 2 |
-| h(x), approximately | 2 | 0.52 + 1.73 ≈ 2.25 | 2.62 − 1.73 ≈ 0.89 | 1.14 |
+| h(x), approximately | 2 | ≈ 2.26 | ≈ 0.89 | ≈ 1.14 |
 
 Working: cos(π/6) = √3/2, so h(π/6) = π/6 + 2(√3/2) = π/6 + √3. cos(5π/6) = −√3/2, so h(5π/6) = 5π/6 − √3. cos π = −1, so h(π) = π − 2.
 
-**Absolute maximum π/6 + √3 (about 2.25), at x = π/6. Absolute minimum 5π/6 − √3 (about 0.89), at x = 5π/6.**
+**Absolute maximum π/6 + √3 (about 2.26), at x = π/6. Absolute minimum 5π/6 − √3 (about 0.89), at x = 5π/6.**
 
 | Point | What earns it |
 |---|---|

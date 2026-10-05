@@ -74,6 +74,6 @@ Notation: f′(x), dy/dx and df/dx all name the same derivative. dV/dt is the ra
 
 1. h(t) is the height of a plant in centimetres, t in days, and h′(10) = 0.8. Interpret, then give the rate in millimetres per day. *(On day 10 the plant is growing at 0.8 cm per day; that is 8 mm per day.)*
 2. P(x) is profit in dollars from selling x items. What are the units of P′(x)? Of P″(x)? *(Dollars per item; dollars per item per item.)*
-3. A tank holds 500 litres at t = 4 hours and W′(4) = −20. Is the tank empty soon after t = 4? *(No. It is losing water at 20 litres per hour at that instant, but it still holds about 500 litres.)*
+3. W(t) is the water in a tank in litres, t in hours. The tank holds 500 litres at t = 4 and W′(4) = −20. Is the tank empty soon after t = 4? *(No. It is losing water at 20 litres per hour at that instant, but it still holds about 500 litres.)*
 
 Next: [practice questions](/advanced-course-resources/calculus-ab/4-1-interpreting-meaning-derivative-context-practice/).

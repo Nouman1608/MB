@@ -138,14 +138,14 @@ A model for the number of visitors inside a museum t hours after it opens at 9 a
 
 **(b)** At 3 p.m. (t = 6 hours), the number of visitors inside is decreasing at a rate of 120 visitors per hour.
 
-**(c)** N(1.5) = 360 − 67.5 = 292.5 and N(2.5) = 600 − 187.5 = 412.5. The actual change is 120, not 150. N′(1.5) is the rate at one instant. Because N′(t) = 240 − 60t falls as t increases, visitors arrive more slowly during that hour than at t = 1.5, so the rate overestimates the change.
+**(c)** N(1.5) = 360 − 67.5 = 292.5 and N(2.5) = 600 − 187.5 = 412.5. The actual change is 120, not 150. N′(1.5) is the rate at one instant. Because N′(t) = 240 − 60t falls as t increases, the number of visitors inside grows more slowly during that hour than it does at t = 1.5. The rate at t = 1.5 therefore overestimates the change.
 
 **(d)** N′(t) = 0 when 240 − 60t = 0, so t = 4, which is **1 p.m.** Then N(4) = 960 − 480 = **480 visitors**.
 
 | Point | What earns it |
 |---|---|
 | 1 | N′(1.5) = 150 with units of visitors per hour |
-| 1 | Interpretation in (a) or (b) naming the quantity, the time, the direction and the rate with units (both must be correct for this point) |
+| 1 | Interpretations in (a) and (b), each naming the quantity, the time, the direction and the rate with units (both must be correct for this point) |
 | 1 | Computes N(2.5) − N(1.5) = 120 and explains that a derivative is an instantaneous rate, not an exact change over an hour |
 | 1 | t = 4 from N′(t) = 0, stated as 1 p.m., with 480 visitors |
 

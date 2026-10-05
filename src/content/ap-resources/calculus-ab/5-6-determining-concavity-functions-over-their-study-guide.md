@@ -121,7 +121,7 @@ Because concavity changes when f″ changes sign, the **candidates** are the x-v
 
 The title of this topic says "over their domains" for this reason. For 1/x, the graph is concave down on (−∞, 0) and concave up on (0, ∞). The concavity is different on the two pieces, but no point of the graph sits where the change happens.
 
-**Justification sentence.** "The graph of f has a point of inflection at x = c because f″ changes sign at x = c" (and f(c) is defined). A sentence that only says "f″(c) = 0" earns nothing, because x⁴ shows it is not enough.
+**Justification sentence.** "The graph of f has a point of inflection at x = c because f″ changes sign at x = c" (and f(c) is defined). A sentence that only says "f″(c) = 0" is not a valid reason, because x⁴ shows it is not enough.
 
 ## Worked example 1: concavity from a formula
 

@@ -20,7 +20,7 @@ next: "mb-ap-calcab-5.6-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-calculus-ab-bc"]
 keyPoints:
-  - "Concave up ⇔ f′ increasing (f″ > 0). Concave down ⇔ f′ decreasing (f″ < 0)."
+  - "f′ increasing (for example, f″ > 0) means concave up. f′ decreasing (for example, f″ < 0) means concave down."
   - "Inflection point: f defined there and f″ changes sign."
   - "Shared content for Calculus AB and Calculus BC."
 version: "1.0"

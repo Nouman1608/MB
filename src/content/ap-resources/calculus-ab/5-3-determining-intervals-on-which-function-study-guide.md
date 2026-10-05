@@ -157,7 +157,7 @@ On the exam you are often given a graph of the **derivative** f′, not of f. Re
 <g font-size="13" fill="#1d2b44" text-anchor="middle">
 <text x="30" y="258" text-anchor="start" font-size="11">f′</text>
 <text x="100" y="257">−</text><text x="220" y="257">+</text><text x="340" y="257">+</text><text x="420" y="257">−</text>
-<text x="100" y="285">f decreasing</text><text x="220" y="285">f increasing</text><text x="340" y="285">f increasing</text><text x="420" y="285">f decreasing</text>
+<g font-size="11"><text x="100" y="285">f decreasing</text><text x="220" y="285">f increasing</text><text x="340" y="285">f increasing</text><text x="420" y="285">f decreasing</text></g>
 </g>
 </svg>
 <figcaption>Figure 1. A graph of f′, not of f. The sign row records whether the graph of f′ is above (+) or below (−) the x-axis. That sign, not the direction the f′ graph is moving, decides whether f is increasing or decreasing. At x = 2 the graph of f′ touches the axis without crossing it.</figcaption>

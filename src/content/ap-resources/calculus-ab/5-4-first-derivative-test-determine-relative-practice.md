@@ -111,7 +111,7 @@ A differentiable function f has f′(2) = 0. Which statement is a correct justif
 **Answer: (B).** This is exactly the condition in the First Derivative Test, and f is continuous at 2 because it is differentiable.
 
 - (A) only shows that x = 2 is a critical point. It could be a maximum, a minimum or neither.
-- (C) is about the graph of f′, not f. In fact, if f′ has a maximum value of 0 at x = 2, then f′ ≤ 0 on both sides, so f′ does not change sign and f has **neither** a maximum nor a minimum at x = 2.
+- (C) is about the graph of f′, not f. In fact, if f′ has a maximum value of 0 at x = 2, then f′ ≤ 0 on both sides, so f′ cannot change from positive to negative at x = 2. Usually f is decreasing through x = 2 and has **neither** a maximum nor a minimum there.
 - (D) compares f(2) with one other value. A relative maximum needs f(2) ≥ f(x) for all x near 2.
 </details>
 

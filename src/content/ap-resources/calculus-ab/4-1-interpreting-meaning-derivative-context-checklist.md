@@ -47,7 +47,7 @@ Work through the list without notes or a calculator. If you cannot do a statemen
 ## Reasoning
 
 - I can write a four-part interpretation sentence: quantity, input value, direction, rate with units. *(Guide: "Writing an interpretation sentence"; Practice Q5, Q6(b), Q7(a))*
-- I can interpret a second derivative in context, including when the first derivative is negative. *(Guide: Worked example 3; Practice Q4, Q6(d))*
+- I can interpret a second derivative in context as the rate at which a rate is changing, including when the first derivative is negative. *(Guide: Worked example 3; Practice Q4, Q6(d) for the positive case)*
 - I can use units to check that a combined rate makes sense. *(Practice Q7(d))*
 
 All ticked? Move on to Topic 4.2, [Straight-Line Motion: Connecting Position, Velocity, and Acceleration](/advanced-course-resources/calculus-ab/4-2-straight-line-motion-connecting-position-study-guide/), or return to the [Calculus AB roadmap](/advanced-course-resources/calculus-ab/#roadmap) or the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

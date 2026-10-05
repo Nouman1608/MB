@@ -150,7 +150,7 @@ A table confirms the picture for f(x) = e^(4x) − 1 and g(x) = sin 2x:
 |---|---|---|---|
 | f(x)/g(x) (to 3 s.f.) | 2.48 | 2.04 | 2.00 |
 
-The ratio heads to 2, the ratio of the slopes 4 and 2. This argument covers the simplest 0/0 case. The full rule, including ∞/∞, is proved later with a version of the Mean Value Theorem; you do not need that proof.
+The ratio heads to 2, the ratio of the slopes 4 and 2. This argument covers the simplest 0/0 case. The full rule, including ∞/∞, can be proved with an extended version of the Mean Value Theorem (Topic 5.1 introduces the basic version); you do not need that proof.
 
 ## Using the rule: four steps
 
@@ -208,21 +208,21 @@ In Topic 1.15 you used this as a fact about growth rates: logarithms grow more s
 
 ## Worked example 3: using the rule more than once
 
-**Question.** Find lim (x → 0) (x − sin x)/x³.
+**Question.** Find lim (x → 0) (2x − sin 2x)/x³.
 
-1. **Check the form.** lim (x → 0) (x − sin x) = 0 − 0 = 0 and lim (x → 0) x³ = 0. Form 0/0, so the rule applies:
-   **lim (x → 0) (x − sin x)/x³ = lim (x → 0) (1 − cos x)/(3x²)**
-2. **Check again.** lim (x → 0) (1 − cos x) = 1 − 1 = 0 and lim (x → 0) 3x² = 0. Still 0/0, so apply the rule again:
-   **= lim (x → 0) (sin x)/(6x)**
-3. **Check again.** lim (x → 0) sin x = 0 and lim (x → 0) 6x = 0. Still 0/0. Apply the rule a third time:
-   **= lim (x → 0) (cos x)/6**
-4. **Evaluate.** The bottom is 6, not 0. Substitute: cos 0/6 = **1/6**.
+1. **Check the form.** lim (x → 0) (2x − sin 2x) = 0 − 0 = 0 and lim (x → 0) x³ = 0. Form 0/0, so the rule applies:
+   **lim (x → 0) (2x − sin 2x)/x³ = lim (x → 0) (2 − 2 cos 2x)/(3x²)**
+2. **Check again.** lim (x → 0) (2 − 2 cos 2x) = 2 − 2 = 0 and lim (x → 0) 3x² = 0. Still 0/0, so apply the rule again:
+   **= lim (x → 0) (4 sin 2x)/(6x)**
+3. **Check again.** lim (x → 0) 4 sin 2x = 0 and lim (x → 0) 6x = 0. Still 0/0. Apply the rule a third time:
+   **= lim (x → 0) (8 cos 2x)/6**
+4. **Evaluate.** The bottom is 6, not 0. Substitute: 8 cos 0/6 = 8/6 = **4/3**.
 
-**Answer.** The limit is **1/6**.
+**Answer.** The limit is **4/3**.
 
-**Check.** At x = 0.1, (0.1 − sin 0.1)/0.001 ≈ 0.16658, and 1/6 ≈ 0.16667.
+**Check.** At x = 0.1, (0.2 − sin 0.2)/0.001 ≈ 1.3307, and 4/3 ≈ 1.3333.
 
-**Shortcut.** At step 3 you could stop early, because lim (x → 0) (sin x)/x = 1 from Topic 1.8. Then (sin x)/(6x) → 1/6 at once. Either route earns the answer.
+**Shortcut.** At step 3 you could stop early. Write (4 sin 2x)/(6x) = (4/3) · (sin 2x)/(2x), and use lim (θ → 0) (sin θ)/θ = 1 from Topic 1.8 with θ = 2x. Then the limit is 4/3 at once. Either route earns the answer.
 
 ## When not to use the rule
 
