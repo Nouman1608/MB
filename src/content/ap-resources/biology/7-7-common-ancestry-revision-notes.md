@@ -57,7 +57,7 @@ Short on time? This page is the recap. For explanations, figures and worked exam
 
 - Introns can be **lost or gained**, so a missing intron does not rule out common ancestry. Compare many genes.
 - A few eukaryotes have lost mitochondria or kept only remnants. Loss is change within a lineage.
-- Percent-of-control calculations assume all cultures started at the same density and differ only in the treatment.
+- Percent-of-control calculations assume each treated culture started at the same density as its own control and differs only in the treatment.
 
 ## Mistakes to avoid
 

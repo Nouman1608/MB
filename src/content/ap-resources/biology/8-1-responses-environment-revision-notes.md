@@ -74,7 +74,7 @@ Short on time? This page is the recap. For explanations, figures and worked exam
 
 ## Quick self-check
 
-1. Woodlice slow down and turn more in damp air. Taxis or kinesis? *(Kinesis: the change is in speed and turning, not direction.)*
+1. A fictional soil insect moves more slowly and turns more often in damp air than in dry air, with no consistent direction. Taxis or kinesis? *(Kinesis: the change is in speed and turning, not direction.)*
 2. 50 insects in a two-sided chamber: 33 on one side, 17 on the other. Reject "no preference"? *(Expected 25 each; χ² = 64/25 + 64/25 = 5.12; df = 1; 5.12 > 3.84, so reject.)*
 3. Why can a risky alarm call be favoured? *(If listeners are relatives, the caller's shared alleles survive in them: kin selection.)*
 

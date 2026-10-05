@@ -113,7 +113,7 @@ Speciation is classified by where the diverging populations live.
 <line x1="170" y1="217" x2="193" y2="217" stroke="#1d2b44" stroke-width="2" marker-end="url(#s1-arrow)"/>
 <line x1="345" y1="217" x2="368" y2="217" stroke="#1d2b44" stroke-width="2" marker-end="url(#s1-arrow)"/>
 <line x1="520" y1="217" x2="543" y2="217" stroke="#1d2b44" stroke-width="2" marker-end="url(#s1-arrow)"/>
-<text x="20" y="283" font-size="12" fill="#1d2b44">The dashed box marks the step where a physical barrier separates the populations; sympatric speciation has no such step.</text>
+<text x="20" y="283" font-size="12" fill="#1d2b44">Dashed box: a physical barrier separates the populations. Sympatric speciation has no such step.</text>
 </svg>
 <figcaption>Figure 1. The two routes differ in how gene flow is first cut: by geography (top) or by a genetic or behavioural change within one area (bottom). Both end with reproductive isolation.</figcaption>
 </figure>
@@ -170,7 +170,7 @@ Both patterns occur. Which one you see depends on the group and its conditions. 
 
 **Divergent evolution and adaptive radiation.** When related populations adapt to different habitats, their phenotypes spread apart: this is **divergent evolution**. It is fastest during an **adaptive radiation**, when one ancestral lineage quickly gives rise to many species, each suited to a different way of life. Radiations happen when many new habitats or niches open up with few competitors, for example on new volcanic islands or after a mass extinction removes other groups. The Hawaiian islands, for instance, hold hundreds of species of *Drosophila* fruit flies found nowhere else.
 
-**Convergent evolution** is the opposite pattern. Similar selection pressures produce **similar phenotypes** in lineages that are not closely related. On each of the four large Caribbean islands (Cuba, Hispaniola, Jamaica and Puerto Rico), *Anolis* lizards have evolved the same set of body types, called ecomorphs, matched to where they live: for example, forms suited to tree trunks, to the canopy and to thin twigs. DNA comparisons show that the similar forms on different islands mostly arose independently, each from lizards already on that island. Convergent traits are analogous, which is why they can mislead a tree built only from body form (Topic 7.9).
+**Convergent evolution** is the opposite pattern. Similar selection pressures produce **similar phenotypes** in lineages that are not closely related. On each of the four large Caribbean islands (Cuba, Hispaniola, Jamaica and Puerto Rico), *Anolis* lizards have evolved much the same set of body types, called ecomorphs, matched to where they live: for example, forms suited to tree trunks, to the canopy and to thin twigs. DNA comparisons show that the similar forms on different islands mostly arose independently, each from lizards already on that island. Convergent traits are analogous, which is why they can mislead a tree built only from body form (Topic 7.9).
 
 ## Worked example 1: speciation by polyploidy
 

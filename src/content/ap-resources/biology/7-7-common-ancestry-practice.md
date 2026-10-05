@@ -107,7 +107,7 @@ Researchers examined 200 protein-coding genes in each of five organisms and coun
 | S | bacterium | 200 | 0 |
 | T | archaeon | 200 | 0 |
 
-In R, 7 of the 9 introns sit at exactly the same positions as introns in the matching genes of P and Q.
+Each of R's 9 intron-containing genes has a single intron, and 7 of these 9 introns sit at exactly the same positions as introns in the matching genes of P and Q.
 
 (a) Calculate the percentage of genes with introns for P, Q and R.
 (b) Describe the overall pattern in the data.
@@ -149,7 +149,7 @@ A student claims: "Membrane-bound organelles evolved separately in animals, plan
 **(b)** Any two:
 
 - The nucleus in all three groups has a double membrane with pores, and the pore proteins are related (homologous) in yeast, plants and animals.
-- Mitochondria in all three groups have a double membrane, their own small circular DNA and bacteria-like ribosomes, consistent with a single endosymbiosis in a shared ancestor.
+- Mitochondria in all three groups have a double membrane, their own DNA and bacteria-like ribosomes, consistent with a single endosymbiosis in a shared ancestor.
 - The endomembrane system (endoplasmic reticulum, Golgi, vesicles) works in the same way and uses related proteins in all three groups.
 
 **(c)** Nothing about having organelles requires a cell to have linear chromosomes or introns. When several unrelated features appear together in exactly the same organisms, the simplest explanation is that one ancestor had the whole package and passed it on. Separate origins would need each feature to arise again, in each group, in the same detailed form.

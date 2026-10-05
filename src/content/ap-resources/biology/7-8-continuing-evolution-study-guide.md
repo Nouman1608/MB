@@ -45,7 +45,7 @@ author: "marlbridge-academic-team"
 
 ## Evolution has not stopped
 
-It is easy to picture evolution as something that happened in the past: dinosaurs, early humans, the first eukaryotes from Topic 7.7. But evolution is a change in the genetic make-up of a population over generations, and that is happening now, in every species. You can measure it in genomes, see it in fossil sequences, and watch it in hospitals and farms when drugs or pesticides stop working.
+It is easy to picture evolution as something that happened in the past: dinosaurs, early humans, the first eukaryotes from Topic 7.7. But evolution means a population's genetic make-up shifting from one generation to the next, and that is happening now, in every species. You can measure it in genomes, see it in fossil sequences, and watch it in hospitals and farms when drugs or pesticides stop working.
 
 ## Why evolution keeps going
 

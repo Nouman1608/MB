@@ -217,7 +217,7 @@ Species on oceanic islands tend to resemble species on the nearest mainland, not
 
 1. **Specific data points:** P and Q differ at only 2 of 24 positions (92% identical). S differs from P and from Q at 8 positions (67% identical).
 2. **Pattern:** R is equally different from P and Q (5 each). S is the most different from every other species (7 or 8).
-3. **Relationship:** P and Q share the most recent common ancestor. R shares a more distant common ancestor with them. S branched off earliest of the four.
+3. **Relationship:** P and Q share the most recent common ancestor. R shares a more distant common ancestor with them. S shares the most distant common ancestor with the other three.
 
 **(c)** The two differences are in the third base of a codon: GTT and GTC both code for valine, and TGC and TGT both code for cysteine. These are silent differences, so the protein sequence is the same. This is why DNA comparisons can separate very closely related species that protein comparisons cannot.
 

@@ -32,7 +32,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can explain why a change in allele frequencies across generations is evidence that a population has evolved. *(Guide: "What 'evolution' means in a population")*
 - I can explain why mutation is random, why it is the source of new alleles, and why on its own it changes frequencies slowly. *(Guide: "Mutation"; Practice Q7)*
 - I can explain genetic drift as chance sampling, and why it is stronger in small populations. *(Guide: Figure 1; Practice Q1, Q4)*
-- I can distinguish the bottleneck effect from the founder effect and give an example of each. *(Guide: Figure 2, "The founder effect"; Practice Q5)*
+- I can distinguish the bottleneck effect from the founder effect and give an example of each. *(Guide: Figure 2, "The founder effect"; Practice Q5, Q6)*
 - I can explain how gene flow adds or removes alleles and why it stops connected populations diverging into separate species. *(Guide: "Gene flow"; Practice Q3)*
 
 ## Calculation and skills

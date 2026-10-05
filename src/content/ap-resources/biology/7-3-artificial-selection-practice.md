@@ -95,7 +95,7 @@ Which statement is best supported by the data?
 
 **Answer: (A).** Egg number: (296 − 180) ÷ 180 × 100 = 64.4%. Alleles: (2.6 − 4.8) ÷ 4.8 × 100 = −45.8%. The rise per generation was 5.2 eggs (generations 0–10), then 3.9 (10–20), then 2.5 (20–30), so it slowed.
 
-- (B) uses only the middle interval. The rate fell from 5.2 to 2.5 eggs per generation, so it was not constant.
+- (B) 3.9 is the overall average (116 ÷ 30) and the middle interval's rate. The rate fell from 5.2 to 2.5, so it was not constant.
 - (C) mistakes a correlation for a cause. Both changes are effects of the same selection; losing alleles does not by itself raise egg number.
 - (D) divides final by start (296 ÷ 180 = 1.64) and reads the ratio as a percentage increase. The increase is 64%, not 164%.
 </details>

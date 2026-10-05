@@ -21,7 +21,7 @@ skills: ["1", "2", "4", "5", "6"]
 studyMinutes: 45
 difficulty: "core"
 calculator: "scientific"
-calculatorNote: "You need fractions, percentages and relative fitness. Keep full calculator values until the last step, then round to 3 significant figures"
+calculatorNote: "You need fractions, percentages and relative fitness. Keep full calculator values until the last step, then round to 2 or 3 significant figures"
 related: ["mb-ap-bio-7.2-revision-notes", "mb-ap-bio-7.2-practice", "mb-ap-bio-7.2-checklist"]
 next: "mb-ap-bio-7.2-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }

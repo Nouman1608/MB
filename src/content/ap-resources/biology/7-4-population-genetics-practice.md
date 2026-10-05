@@ -100,7 +100,7 @@ A class sets up 12 small vials, each started with 10 fruit flies, and 12 large c
 | Population | Marker allele frequencies after 20 generations |
 |---|---|
 | 12 small vials (10 flies) | 0.00, 0.15, 1.00, 0.35, 0.00, 0.80, 0.55, 1.00, 0.00, 0.25, 0.90, 0.65 |
-| 12 large cages (500 flies) | 0.49, 0.53, 0.46, 0.51, 0.55, 0.48, 0.50, 0.52, 0.47, 0.54, 0.49, 0.51 |
+| 12 large cages (500 flies) | 0.43, 0.58, 0.47, 0.52, 0.61, 0.41, 0.50, 0.55, 0.45, 0.63, 0.49, 0.54 |
 
 (a) State a null hypothesis for the effect of population size on change in allele frequency.
 (b) Before the results, predict what drift would do in each group.
@@ -114,7 +114,7 @@ A class sets up 12 small vials, each started with 10 fruit flies, and 12 large c
 
 **(b)** Small populations: frequencies wander widely in random directions; some reach 0 or 1. Large populations: frequencies stay close to 0.50. The average across replicates should stay near 0.50 in both groups, because drift has no preferred direction.
 
-**(c)** Small vials ranged from 0.00 to 1.00 (range 1.00): the allele was lost in 3 vials and fixed in 2. Large cages ranged only from 0.46 to 0.55 (range 0.09), with none fixed or lost. The means were similar (about 0.47 and 0.50). The results reject the null hypothesis: the spread is far larger in small populations.
+**(c)** Small vials ranged from 0.00 to 1.00 (range 1.00): the allele was lost in 3 vials and fixed in 2. Large cages ranged only from 0.41 to 0.63 (range 0.22), with none fixed or lost. The means were similar (about 0.47 and 0.52). The results reject the null hypothesis: the spread is far larger in small populations.
 
 **(d)** With a neutral allele, selection cannot explain any change, so differences can be put down to chance (drift). A marker affecting survival would mix selection with drift.
 

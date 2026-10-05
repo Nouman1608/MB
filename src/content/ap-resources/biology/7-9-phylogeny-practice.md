@@ -143,7 +143,7 @@ Four fictional species of desert beetle (F, G, H and I) are compared with outgro
 | 5. Forewings fused together | 0 | 0 | 0 | 0 | 1 |
 
 (a) Explain why V is used as the outgroup and what its character states tell you.
-(b) Identify the two characters that do not help to group the beetles, and explain why each does not help.
+(b) Identify the two characters that cannot be used to define any clade on this cladogram, and explain why each does not help.
 (c) Describe or draw the cladogram, marking where characters 2, 3 and 4 appear.
 (d) A student says "I is the most evolved species because it has the most derived characters." Evaluate this claim.
 
@@ -194,9 +194,7 @@ The amino acid sequence of the same 120-residue protein was compared in three fi
 
 - It lies far beyond the calibrated split (50 against 20 million years), so any error in the rate is magnified.
 - Over long times a position can change twice, or change back, so the count **underestimates** the changes and the date may be too young.
-- The rate may differ between lineages or eras.
-- One fossil date, a minimum age, sets the calibration.
-
+- The rate may differ between lineages or eras, and the older the split, the more time there is for such differences to add up.
 | Point | What earns it |
 |---|---|
 | 1 | Rate 0.50 per million years with units |

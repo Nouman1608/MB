@@ -43,7 +43,7 @@ Short on time? This page is the recap. For the full code table, Figure 1 and wor
 
 | Stage | What happens |
 |---|---|
-| Initiation | rRNA in the ribosome interacts with mRNA at **AUG**; tRNA carrying Met pairs with it; ribosome assembles; reading frame set |
+| Initiation | ribosomal rRNA lines up the mRNA at the start codon **AUG**; tRNA carrying Met pairs with it; ribosome assembles; reading frame set |
 | Elongation | tRNA with matching anticodon brings its amino acid; chain transferred to it (peptide bond); ribosome moves one codon towards 3′ |
 | Termination | stop codon reached; no tRNA pairs; polypeptide released |
 

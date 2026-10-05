@@ -46,7 +46,7 @@ Short on time? This page is the recap. For explanations, figures and worked exam
 | Substitution → **silent** | kept | same amino acid |
 | Substitution → **missense** | kept | one different amino acid |
 | Substitution → **nonsense** | kept | early stop: shortened chain |
-| Insert/delete 1, 2, 4, 5… bases | **shifted** | all later amino acids change; stop moves |
+| Insert/delete 1, 2, 4, 5… bases | **shifted** | most later amino acids change; stop usually moves |
 | Insert/delete 3, 6, 9… bases | kept | whole amino acids gained or lost |
 
 | Nondisjunction in… | Gametes from one meiosis |
@@ -72,7 +72,7 @@ Short on time? This page is the recap. For explanations, figures and worked exam
 ## Quick self-check
 
 1. mRNA codon UGG (Trp) becomes UGA. Type? *(Nonsense: UGA is a stop codon.)*
-2. Six adjacent bases are deleted from a coding sequence. Is the frame shifted? *(No: 6 is a multiple of 3. Two amino acids are lost.)*
+2. Six adjacent bases are deleted from a coding sequence. Is the frame shifted? *(No: 6 is a multiple of 3. Two amino acids are lost; if the gap spans codon boundaries, one amino acid at the join may also change.)*
 3. Why can a mutation that helps in one place harm in another? *(Its effect on survival and reproduction depends on the environment, for example a coat colour that hides on dark rock but stands out on pale sand.)*
 
 Next: [practice questions](/advanced-course-resources/biology/6-7-mutations-practice/).

@@ -156,7 +156,7 @@ Allele and genotype frequencies stay constant only if all five conditions hold. 
 | **Random mating** | mate choice and inbreeding | genotype frequencies move away from p², 2pq, q² |
 | **No natural selection** | differences in survival and reproduction | alleles linked to higher fitness rise in frequency |
 
-Note the special case of mating. If relatives mate, or a plant fertilises itself, heterozygotes become rarer and both homozygotes become more common. Allele frequencies do not change from that alone: the same alleles are just packaged into different genotypes. But when mates are chosen for a trait, some genotypes leave more offspring than others, and that is sexual selection, which does change allele frequencies.
+Note the special case of mating. If relatives mate, or a plant fertilises itself, heterozygotes become rarer and both homozygotes become more common. Allele frequencies do not change from that alone: the same alleles are just packaged into different genotypes. But if mate choice means some genotypes get more mates and leave more offspring than others, that is sexual selection, which does change allele frequencies.
 
 **The conditions are never all met in nature.** Every real population is finite, and mutations always occur. So why is the model useful? Because it is a **null hypothesis**: a precise statement of what you expect if no evolutionary force is acting at a gene. If the observed frequencies differ from that expectation by more than chance would explain, at least one condition is being broken, and you can investigate which. If they match, you have no evidence that the population is evolving at that gene. You have not proved it is not.
 
@@ -191,7 +191,7 @@ Note the special case of mating. If relatives mate, or a plant fertilises itself
 | BY (tan) | 180 | 240 |
 | YY (yellow) | 110 | 80 |
 
-There are **fewer heterozygotes** than expected (frequency 0.36 instead of 0.48) and more of both homozygotes. This is the pattern of **non-random mating**: perhaps snails tend to mate with snails of their own colour, or the "pond" really holds two groups that rarely meet. Notice that a deficit of heterozygotes does not tell you the allele frequencies are changing. You would need data from more than one generation, or a test of the cause, to say that. A chi-square test would tell you whether a gap this size is likely to be chance (see Worked example 3).
+There are **fewer heterozygotes** than expected (frequency 0.36 instead of 0.48) and more of both homozygotes. This pattern is most simply explained by **non-random mating**: perhaps snails tend to mate with snails of their own colour, or the "pond" really holds two groups that rarely meet. Notice that a deficit of heterozygotes does not tell you the allele frequencies are changing. You would need data from more than one generation, or a test of the cause, to say that. A chi-square test would tell you whether a gap this size is likely to be chance (see Worked example 3).
 
 ## Worked example 2: a recessive trait, then selection
 

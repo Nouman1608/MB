@@ -245,10 +245,10 @@ The full-length construct gives 25 units in liver cells.
 
 Make a claim about how miR-X affects protein P, and support it with evidence and reasoning.
 
-1. **Claim.** miR-X reduces the amount of protein P by base-pairing with P mRNA, mainly by blocking its translation, and partly by causing the mRNA to be broken down.
+1. **Claim.** miR-X reduces the amount of protein P by base-pairing with P mRNA. It does this in two ways, to a similar extent: it blocks translation and it causes the mRNA to be broken down.
 2. **Evidence that miR-X is responsible.** Blocking miR-X raises P protein 4.2-fold. The unrelated control RNA has almost no effect (1.05), so the rise is not just a result of adding RNA to the cells.
 3. **Evidence that it acts on the mRNA itself.** Removing the binding site from P mRNA gives almost the same rise (4.0-fold) as blocking miR-X. miR-X needs to pair with that site to work.
-4. **Evidence for two effects.** P mRNA roughly doubles (1.9 and 2.0), so miR-X normally speeds up mRNA breakdown. But protein rises about **twice as much** as mRNA: protein per mRNA goes from 1.0 to 2.2 (4.2 ÷ 1.9) and 2.0 (4.0 ÷ 2.0). Each mRNA is translated about twice as often when miR-X cannot bind, so miR-X also blocks translation.
+4. **Evidence for two effects.** P mRNA roughly doubles (1.9 and 2.0), so miR-X normally speeds up mRNA breakdown. But protein rises about **twice as much** as mRNA: protein per mRNA goes from 1.0 to 2.2 (4.2 ÷ 1.9) and 2.0 (4.0 ÷ 2.0). Each mRNA is translated about twice as often when miR-X cannot bind, so miR-X also blocks translation. The two effects are about equal (about 2-fold each), and together they multiply: 1.9 × 2.2 ≈ 4.2.
 5. **Reasoning.** Base-pairing between a small RNA and its target mRNA lowers gene expression after transcription. Muscle cells that make miR-X will therefore have less protein P than cells that do not, which is one way cell types differ even when both transcribe the same gene.
 
 ## Common misconceptions

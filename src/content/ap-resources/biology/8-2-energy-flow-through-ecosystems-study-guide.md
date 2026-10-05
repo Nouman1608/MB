@@ -70,7 +70,7 @@ Think of an organism's energy like a bank account:
 
 Reproduction is expensive, so many organisms time it to energy supply. Many animals and plants breed in the season when food is plentiful. A biennial plant stores energy in its first year and flowers and sets seed only in its second. Some animals pause reproduction when food is short (reproductive diapause).
 
-Some organisms **switch between asexual and sexual reproduction** in response to energy availability. Water fleas (*Daphnia*) and aphids reproduce **asexually** when food is plentiful, producing many offspring quickly. When food runs short or conditions worsen, they switch to **sexual** reproduction. In *Daphnia* this produces tough resting eggs that can survive until conditions improve, and the offspring are genetically varied.
+Some organisms **switch between asexual and sexual reproduction** in response to energy availability. Water fleas (*Daphnia*) and aphids reproduce **asexually** when food is plentiful, producing many offspring quickly. When food runs short or other conditions worsen (crowding in *Daphnia*; shorter, colder autumn days in aphids), they switch to **sexual** reproduction. In *Daphnia* this produces tough resting eggs that can survive until conditions improve, and the offspring are genetically varied.
 
 ## Levels of organisation
 
@@ -253,7 +253,7 @@ Energy supply sets the size of every level above it.
 4. **(b) Lizard:** 0.5 × 17 = 8.5 kJ taken in, 1.92 kJ used: a net gain of about **6.6 kJ per day**, available for storage, growth and reproduction.
 5. **Mouse:** 1.5 × 17 = 25.5 kJ taken in, 34.56 kJ used: a net loss of about **9.1 kJ per day**. It will use fat stores, lose mass and, if this continues, stop breeding and eventually die.
 
-**Check.** Units: (mL g⁻¹ h⁻¹) × g × h = mL; mL × J mL⁻¹ = J. **Interpretation.** At lower air temperatures the mouse's oxygen use would rise further (more heat needed), while the lizard's would fall; at higher temperatures the reverse. That is why ectotherms can thrive where food is scarce, and why endotherms can stay active in the cold.
+**Check.** Units: (mL g⁻¹ h⁻¹) × g × h = mL; mL × J mL⁻¹ = J. **Interpretation.** At lower air temperatures the mouse's oxygen use would rise further (more heat needed), while the lizard's would fall; at warmer temperatures, up to a point, the reverse. That is why ectotherms can thrive where food is scarce, and why endotherms can stay active in the cold.
 
 ## Common misconceptions
 

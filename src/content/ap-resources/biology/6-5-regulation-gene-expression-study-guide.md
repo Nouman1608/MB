@@ -228,13 +228,13 @@ The phenotype of a cell, or of a whole organism, is set by **which genes are exp
 2. Without a working repressor, nothing blocks the operator, so the operon is on all the time: **constitutive**.
 3. Strain O gives the same pattern (322 ÷ 305 = 1.06-fold). A working repressor is still made, but the changed operator sequence means it cannot bind. The repressor and the operator must match for regulation to work.
 
-**(c) Strain P.** Activity stays near zero (2 with xylose, 0.62% of the wild-type induced level). If RNA polymerase cannot bind the promoter, the genes are not transcribed whether or not the repressor is bound.
+**(c) Strain P.** Activity stays near zero (2 with xylose, about 0.6% of the wild-type induced level: 2 ÷ 320 × 100 = 0.625). If RNA polymerase cannot bind the promoter, the genes are not transcribed whether or not the repressor is bound.
 
 **Reasoning check.** The data fit a negative, inducible control: repressor bound to the operator when xylose is absent; inducer removes the repressor. The results for R and O together show that the repressor acts **at the operator**, which lies between the promoter and the genes.
 
 ## Worked example 2: evidence for epigenetic silencing
 
-**Question.** Gene G is silent in a fictional mouse cell line. Researchers treat the cells for 48 hours with drug M, which blocks the enzyme that adds methyl groups to DNA, and with drug H, which blocks the enzyme that removes acetyl groups from histones. They measure methylation of the gene's promoter and the amount of G mRNA (relative to untreated cells).
+**Question.** Gene G is silent in a fictional mouse cell line. Researchers treat the cells for 48 hours with drug M, which blocks the enzyme that adds methyl groups to DNA, and with drug H, which blocks the enzyme that removes acetyl groups from histones. Neither drug changes the DNA base sequence. They measure methylation of the gene's promoter and the amount of G mRNA (relative to untreated cells).
 
 | Treatment | Promoter methylation / % | G mRNA (relative) |
 |---|---|---|
@@ -248,12 +248,12 @@ Make a claim about how gene G is silenced and support it.
 
 1. **Effect of M.** Methylation falls from 92% to 35%, a relative fall of (92 − 35) ÷ 92 × 100 = **62%**. G mRNA rises **14-fold**. Lower methylation goes with higher expression.
 2. **Effect of H.** Methylation barely changes (90%), but mRNA rises **3-fold**. Keeping histones acetylated loosens the DNA a little, even while methylation stays high.
-3. **Both drugs.** mRNA rises **41-fold**, more than either drug alone (2.93 times M alone) and more than the sum of their separate effects (14 + 3 = 17). The two mechanisms reinforce each other.
+3. **Both drugs.** mRNA rises **41-fold**, more than either drug alone (2.93 times M alone). Fold changes multiply, so if the two marks act independently you expect about 14 × 3 = 42-fold. The measured 41 is close to that: each mark adds its own layer of silencing, and removing both releases the gene most.
 4. **Reversibility.** Ten days after M is removed, methylation is back to 80% and mRNA has fallen from 14 to 2.5, an **82% drop**. The silencing returns.
 
 **Claim.** Gene G is silenced epigenetically, mainly by methylation of its promoter, helped by tightly packed (deacetylated) histones.
 
-**Reasoning.** The DNA sequence was not changed by either drug, yet expression changed, so the control must be through chemical marks. The return of methylation after the drug was removed shows the marks are reversible and are actively re-established by the cell. A mutation would not reverse in ten days.
+**Reasoning.** Neither drug changes the DNA sequence, yet expression changed, so the control must be through chemical marks. The return of methylation after the drug was removed shows the marks are reversible and are actively re-established by the cell. A mutation would not reverse in ten days.
 
 **Limits.** These are one cell line and one time point. The drugs act on every gene in the cell, so some of the effect on G could be indirect, through other genes that were also switched on.
 

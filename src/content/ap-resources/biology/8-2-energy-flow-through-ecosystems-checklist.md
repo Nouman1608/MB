@@ -33,7 +33,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can describe what happens to an organism with a net energy gain and with a net energy loss. *(Guide: "Energy budgets"; Practice Q5)*
 - I can explain why some organisms switch between asexual and sexual reproduction as energy supply changes. *(Guide: "Reproductive strategies and energy"; Practice Q7)*
 - I can put population, community, ecosystem and biome in order and define each. *(Guide: "Levels of organisation")*
-- I can name the reservoirs and processes of the water, carbon, nitrogen and phosphorus cycles, and the five nitrogen-cycle steps in order. *(Guide: Figure 2; Practice Q1, Q6)*
+- I can name the reservoirs and processes of the water, carbon, nitrogen and phosphorus cycles, and what each of the five nitrogen-cycle steps converts. *(Guide: Figure 2; Practice Q1, Q6)*
 - I can explain how photosynthetic and chemosynthetic autotrophs capture energy and how heterotrophs obtain it. *(Guide: "Autotrophs" and "Heterotrophs"; Practice Q3)*
 
 ## Calculation and skills

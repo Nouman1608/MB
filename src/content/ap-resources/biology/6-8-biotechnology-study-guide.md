@@ -65,14 +65,14 @@ A gel is a slab of a jelly-like material (usually **agarose**) with a mesh of ti
 - A **ladder** (a mixture of fragments of known sizes) is run in one lane. Comparing a band's distance with the ladder gives an estimate of its size, measured in **base pairs (bp)**.
 - After the run, the DNA is stained so that the bands can be seen. Each band is many copies of fragments of the same length.
 
-Fragment size and distance are not in direct proportion. Distance is roughly proportional to the **logarithm** of size, so the ladder bands get closer together toward the top of the gel. When estimating, always compare a band with the ladder bands just above and just below it.
+Fragment size and distance are not in direct proportion. Distance falls roughly in a straight line as the **logarithm** of size rises, so the ladder bands get closer together toward the top of the gel. When estimating, always compare a band with the ladder bands just above and just below it.
 
 **Background: cutting DNA first.** Before running a gel, DNA is often cut with **restriction enzymes**, which cut at specific short base sequences. If two people's DNA differs at a cut site, the enzyme makes different fragments, so the band pattern differs. You will not be asked about specific enzymes.
 
 <figure>
 <svg viewBox="0 0 640 390" role="img" aria-labelledby="gel-title gel-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="gel-title">Model gel used to identify the species of a fish fillet</title>
-<desc id="gel-desc">A gel with five lanes. The negative electrode is at the top near the wells and the positive electrode is at the bottom. A millimetre scale runs down the left. Lane 1, ladder: bands at 17 mm (5000 base pairs), 24 mm (3000), 30 mm (2000), 40 mm (1000) and 50 mm (500). Lane 2, fillet: bands at 27 mm and 44 mm. Lane 3, species X reference: bands at 22 mm and 47 mm. Lane 4, species Y reference: bands at 27 mm and 44 mm, the same as the fillet. Lane 5, no-DNA control: no bands.</desc>
+<desc id="gel-desc">A gel with five lanes. The negative electrode is at the top near the wells and the positive electrode is at the bottom. Labels on the left give each ladder band's size and its distance from the wells. Lane 1, ladder: bands at 17 mm (5000 base pairs), 24 mm (3000), 30 mm (2000), 40 mm (1000) and 50 mm (500). Lane 2, fillet: bands at 27 mm and 44 mm. Lane 3, species X reference: bands at 22 mm and 47 mm. Lane 4, species Y reference: bands at 27 mm and 44 mm, the same as the fillet. Lane 5, no-DNA control: no bands.</desc>
 <rect x="0" y="0" width="640" height="390" fill="#ffffff"/>
 <rect x="80" y="30" width="500" height="290" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
 <text x="600" y="48" font-size="20" font-weight="700" fill="#1d2b44">−</text>
@@ -171,7 +171,7 @@ In **transformation**, bacterial cells take up foreign DNA (you met natural tran
 
 Only a small fraction of cells take up the plasmid. To find them, the cells are spread on a plate containing the antibiotic. Cells **without** the plasmid die; cells **with** it grow into colonies. Each colony comes from one transformed cell.
 
-When transformed bacteria divide, they copy the plasmid too. This is **gene cloning**: making many copies of a DNA fragment. Because the genetic code is shared by almost all organisms, bacteria can also transcribe and translate a gene from another species and make its protein. Human insulin for treating diabetes, for example, is made this way. Organisms that carry genes from another species are **transgenic**, one kind of **genetically modified organism (GMO)**.
+When transformed bacteria divide, they copy the plasmid too. This is **gene cloning**: making many copies of a DNA fragment. Because the genetic code is shared by almost all organisms, bacteria can also transcribe and translate a gene from another species and make its protein (eukaryotic genes are supplied without their introns, which bacteria cannot remove). Human insulin for treating diabetes, for example, is made this way. Organisms that carry genes from another species are **transgenic**, one kind of **genetically modified organism (GMO)**.
 
 **Transformation efficiency** measures how well it worked:
 

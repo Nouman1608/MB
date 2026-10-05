@@ -114,7 +114,7 @@ Researchers measured the body temperature of two fictional animals, P and Q, at 
 
 **(b)** **P** is the endotherm. Its body temperature stays almost constant (within 0.6 °C) while the air changes by 30 °C, so it must use heat from its own metabolism to keep its temperature steady. Q's temperature follows the air.
 
-**(c)** Q probably moved into shade (or a burrow) to avoid overheating. At lower air temperatures it was slightly warmer than the air (for example 1.0–2.0 °C above), perhaps by basking. This shows that an ectotherm can regulate its temperature **by behaviour**.
+**(c)** Q probably moved into shade or a cool burrow, where its surroundings were cooler than the open air, to avoid overheating. At lower air temperatures it was slightly warmer than the air (for example 1.0–2.0 °C above), perhaps by basking. This shows that an ectotherm can regulate its temperature **by behaviour**.
 
 **(d)** **P.** At 5 °C, P must raise its metabolic rate to make enough heat to stay near 38 °C, which uses a lot of energy from food. Q's body cools with the air, its metabolic rate falls, and it needs little food.
 

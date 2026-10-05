@@ -194,7 +194,7 @@ Molecular data are not perfect, so the best trees combine both kinds of evidence
 1. a defines the ingroup (P–T), separating it from O.
 2. b defines the clade P + Q; c defines the clade R + S + T.
 3. Inside R + S + T, d defines the clade S + T, so S and T are sister species.
-4. The result is shown in Figure 2. Every character changes only once on this tree. Any other arrangement, for example pairing R with S, would need pigment loss to happen twice.
+4. The result is shown in Figure 2. Every character changes only once on this tree. Any other arrangement needs at least one extra change. For example, pairing R with S would mean pigment was lost twice (in S and in T), or lost once and then regained in R.
 
 <figure>
 <svg viewBox="0 0 680 430" role="img" aria-labelledby="t2-title t2-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">

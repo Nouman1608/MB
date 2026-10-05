@@ -74,7 +74,7 @@ Which change near the start of a coding sequence keeps the reading frame **after
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** Removing three nucleotides removes exactly one codon's worth of bases, so later codons are grouped exactly as before. The protein loses one amino acid (or one amino acid is changed where the deletion spans two codons), but the rest of the sequence is normal.
+**Answer: (C).** Removing three nucleotides removes exactly one codon's worth of bases, so later codons are grouped exactly as before. The protein loses one amino acid (and, if the deletion spans two codons, the amino acid at the join may also change), but the rest of the sequence is normal.
 
 - (A) and (B) change the number of bases by 1 or 2, so every later codon is regrouped.
 - (D) Four is not a multiple of three: four bases shift the frame by one, just like a single insertion.

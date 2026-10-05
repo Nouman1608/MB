@@ -31,14 +31,14 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 - I can explain why every species, including humans, is still evolving, and why populations evolve but individuals do not. *(Guide: "Why evolution keeps going")*
 - I can describe how a long-term laboratory population shows genome change over time. *(Guide: "Evidence 1"; Practice Q7)*
-- I can explain resistance to antibiotics, pesticides, herbicides and chemotherapy drugs as selection on variation that already exists. *(Guide: "Evidence 3", Figure 2; Practice Q1, Q3, Q4)*
+- I can explain resistance to antibiotics, pesticides, herbicides and chemotherapy drugs as selection on variation that already exists. *(Guide: "Evidence 3", Figure 2; Practice Q3, Q4, Q5)*
 - I can explain how pathogens evolve to jump hosts, escape immunity and cause emergent diseases. *(Guide: "Evidence 4"; Practice Q6)*
 
 ## Calculation and skills
 
 - I can calculate expected mutants or new mutations from a population size and a mutation rate, in standard form. *(Guide: "Evidence 1"; Practice Q2, Q7)*
 - I can follow how the frequency of resistant cells changes under repeated selection. *(Guide: Worked example 1)*
-- I can read fossil or survival data, describe the trend with values and calculate a rate of change. *(Guide: Figure 1; Practice Q4, Q7)*
+- I can read fossil or survival data, describe the trend with values and calculate a rate of change. *(Guide: Figure 1; Practice Q1, Q4, Q7)*
 
 ## Reasoning
 

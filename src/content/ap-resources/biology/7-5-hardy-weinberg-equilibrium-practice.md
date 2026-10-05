@@ -95,7 +95,7 @@ In a fictional snapdragon population, flower colour shows incomplete dominance. 
 
 ## Question 4 (graph · core)
 
-The graph shows the frequency of allele A, a gene with two alleles, in three fictional populations of the same beetle species over 10 generations.
+The graph shows the frequency of allele A of a gene with two alleles in three fictional populations of the same beetle species over 10 generations.
 
 | Generation | 0 | 2 | 4 | 6 | 8 | 10 |
 |---|---|---|---|---|---|---|

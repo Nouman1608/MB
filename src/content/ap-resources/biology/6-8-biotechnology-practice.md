@@ -157,7 +157,7 @@ DNA from a mother, her child and two men was cut with restriction enzymes and ru
 
 ## Question 6 (experimental design · core)
 
-A student transforms bacteria with plasmid pQ, which carries a kanamycin-resistance gene and a gene for a blue pigment. Bacteria without the plasmid are white and killed by kanamycin. She spreads equal volumes on four plates:
+A student transforms bacteria with plasmid pQ, which carries a kanamycin-resistance gene and a gene for a blue pigment protein. Bacteria without the plasmid are white and killed by kanamycin. She spreads equal volumes on four plates:
 
 | Plate | Bacteria | Medium |
 |---|---|---|

@@ -70,7 +70,7 @@ Real cases show the pattern:
 - **Rusts and blights of crops.** Modern farms often plant huge areas with one variety. If a new strain of a fungal pathogen, such as a corn rust, can infect that variety, it can spread through field after field, because there are no resistant plants in the way.
 - **California condors.** By 1987 only 27 birds were left, and the last wild ones were taken into captivity for breeding. Every condor alive today descends from that small group. Inbreeding may be behind cases of a lethal inherited form of dwarfism in condor chicks.
 - **Black-footed ferrets.** Only 18 ferrets were caught for a captive breeding programme in the 1980s, and just 7 of them have living descendants. The whole species now carries the alleles of those few founders. Disease, such as sylvatic plague, is a major threat to it.
-- **Prairie chickens.** In Illinois, greater prairie chickens fell from millions in the 1800s to a few dozen birds by the late 1990s. In the isolated, inbred population, fewer young survived. Conservationists brought in birds from larger populations in other states. This **genetic rescue** adds new alleles through gene flow.
+- **Prairie chickens.** In Illinois, greater prairie chickens fell from millions in the 1800s to a few dozen birds by the late 1990s. In the isolated, inbred population, fewer eggs hatched. Conservationists brought in birds from larger populations in other states. This **genetic rescue** adds new alleles through gene flow.
 
 Notice the common thread: fewer individuals → fewer alleles → fewer ways to cope with the next change. A small population also tends to lose still more diversity, so the risk can grow over time.
 

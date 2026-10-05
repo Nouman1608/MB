@@ -44,7 +44,7 @@ Short on time? This page is the recap. For explanations, figures and worked exam
 |---|---|
 | **N = N₀ × 2ⁿ** | maximum copies after n PCR cycles from N₀ starting copies |
 | efficiency = colonies ÷ µg DNA spread | transformation efficiency (transformants per µg) |
-| distance ∝ log(size), roughly | ladder bands crowd together near the wells |
+| distance falls roughly linearly as log(size) rises | ladder bands crowd together near the wells |
 | every band in a child is in the mother or the biological father | basis of a kinship test |
 | fewer sequence differences → more closely related | basis of molecular phylogenetics |
 

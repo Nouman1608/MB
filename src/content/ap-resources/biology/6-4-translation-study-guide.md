@@ -154,7 +154,7 @@ If each group of organisms had evolved its own code separately, we would expect 
 
 ## Three stages of translation
 
-**1. Initiation.** The small ribosomal subunit binds the mRNA. The rRNA in the ribosome interacts with the mRNA at the **start codon, AUG**. A tRNA carrying methionine pairs with AUG, and the large subunit joins to complete the ribosome. Because the reading begins at AUG, the start codon also fixes the **reading frame**: how the rest of the mRNA is divided into triplets.
+**1. Initiation.** The small ribosomal subunit binds the mRNA. Its rRNA lines the mRNA up so that translation begins at the **start codon, AUG**. A tRNA carrying methionine pairs with AUG, and the large subunit joins to complete the ribosome. Because the reading begins at AUG, the start codon also fixes the **reading frame**: how the rest of the mRNA is divided into triplets.
 
 **2. Elongation.** This cycle repeats for each codon:
 

@@ -217,7 +217,7 @@ Two fictional fish species live in the same lake. Males of species B are blue; m
 
 **(c)** More females would mate with males of the other species. Because hybrids are viable and fertile, alleles would flow between the gene pools. Over generations, B and R could merge into a single, more variable hybrid population, and the two species would be lost.
 
-**(d)** The conclusion is not justified. In the clear lake, B and R did not exchange genes in nature, because mate choice kept them apart. That meets the biological species concept, which is about interbreeding **in nature**. The laboratory hybrids show that their isolation depended on a single pre-zygotic barrier, which makes them vulnerable, but not that they were never separate. It does show that speciation can be reversed if isolation breaks down.
+**(d)** The conclusion is not justified. In the clear lake, mate choice kept B and R almost completely apart (96.7% of choices were for the female's own species), so very little gene flow happened in nature. That meets the biological species concept, which is about interbreeding **in nature**. The laboratory hybrids show that their isolation depended on a single pre-zygotic barrier, which makes them vulnerable, but not that they were never separate. The murky-water result does show that isolation can break down, so speciation can be reversed.
 
 | Point | What earns it |
 |---|---|

@@ -52,7 +52,7 @@ A liver cell and a nerve cell from the same person make very different proteins.
 
 - (A) is the most common error: cells keep the genes they do not use and switch them off.
 - (C) is wrong: the genetic code is the same in every cell.
-- (D) is wrong: body cells of one person have the same chromosome number; the difference is in expression, not chromosomes.
+- (D) is wrong: chromosome number does not decide which proteins a cell makes. Both cells carry the same genes; the difference is in which genes are expressed.
 </details>
 
 ## Question 2 (multiple choice · core)

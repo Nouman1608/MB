@@ -258,11 +258,11 @@ Two strains of a fictional bacterium, C and D, grow together in a culture. Bacte
 
 **(b)** Generation 2 (per 1000): 148 C and 852 D. Offspring: C = 148 × 0.70 = 103.6; D = 852 × 1.0 = 852. Fraction C = 103.6 ÷ 955.6 = 0.108, so **10.8%**.
 
-**(c)** At 15 °C, strain C rose by about 2–3 percentage points per generation: selection pushed the population towards C. At 30 °C, the direction reversed and C fell by 4 percentage points in one generation, because the fitness difference was larger (0.70 against 0.80) and the population moved faster. If temperature keeps changing, neither strain takes over, and the population swings back and forth. The rate depends on the size of the fitness difference; the direction depends on which strain the current environment favours.
+**(c)** At 15 °C, strain C rose by about 2–3 percentage points per generation: selection pushed the population towards C. At 30 °C, the direction reversed and C fell by 4 percentage points in one generation, because the fitness difference was larger (w = 0.70, not 0.80) and the population moved faster. If temperature keeps changing, neither strain takes over, and the population swings back and forth. The rate depends on the size of the fitness difference; the direction depends on which strain the current environment favours.
 
 Suggested mark points (4): 1 for 12.2%; 1 for 14.8%; 1 for 10.8%; 1 for linking the reversal to the change in temperature **and** the faster change to the larger fitness difference.
 
-Common errors: dividing by 1000 instead of by the total number of offspring gives 10.0% then 12.2%; multiplying C by the fitness instead of D at 15 °C reverses the direction.
+Common errors: dividing by 1000 instead of by the total number of offspring leaves C stuck at 10.0%; multiplying C by the fitness instead of D at 15 °C reverses the direction.
 </details>
 
 ## How did you do?

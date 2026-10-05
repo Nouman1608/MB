@@ -152,7 +152,7 @@ A cliff at a fictional site shows these layers, listed from the **top** down. Th
 
 **(c)** T is at least 0.9 million years old. That is about 160 half-lives of carbon-14 (900,000 ÷ 5,700 ≈ 158), so essentially no carbon-14 would remain. Carbon-14 only works for remains up to about 50,000 years old.
 
-**(d)** The tortoise lived at the second site after 1.5 million years ago. If the species lived over a short period, fossil U is likely to be close in age, so its range narrows to between 0.9 and about 1.5 million years, and probably near 1.5. Assumption (any one): the tortoise species lived for only a short time, so its fossils mark a narrow time band; the layers at the second site are also undisturbed; the shell has not been moved from an older layer.
+**(d)** The species was alive at the second site just after 1.5 million years ago. If the species existed for only a short period, fossil U is likely to be close to that age, so near the older end of its 0.9–1.6 million-year range. Assumption (any one): the tortoise species lived for only a short time, so its fossils mark a narrow time band; the layers at the second site are also undisturbed; the shell has not been moved from an older layer.
 
 | Point | What earns it |
 |---|---|

@@ -236,7 +236,7 @@ Common error in (a): 2⁴ = 16 treats exons 4 and 5 as independent.
 | Base paired with adenine on the template | | |
 | How much of the DNA is copied | | |
 
-(b) A fictional drug, compound R, blocks RNA polymerase in human cells. In treated cells, mRNA X has a half-life of 2 hours and mRNA Y a half-life of 10 hours. Calculate the percentage of each mRNA left 6 hours after the drug is added.
+(b) A fictional drug, compound R, blocks RNA polymerase in human cells. In treated cells, mRNA X has a half-life of 2 hours and mRNA Y a half-life of 6 hours. Calculate the percentage of each mRNA left 6 hours after the drug is added.
 (c) Predict how the amounts of protein X and protein Y in the cells will change over the next few hours, and justify your prediction.
 
 <details>
@@ -254,14 +254,14 @@ Common error in (a): 2⁴ = 16 treats exons 4 and 5 as independent.
 
 Both build 5′ → 3′ and read the template 3′ → 5′.
 
-**(b)** For X, 6 h is 3 half-lives: 100% → 50% → 25% → **12.5%**. For Y, 6 h is 0.6 of a half-life: 0.5^0.6 ≈ 0.66, so about **66%** (accept "about two-thirds").
+**(b)** For X, 6 h is 3 half-lives: 100% → 50% → 25% → **12.5%**. For Y, 6 h is exactly 1 half-life, so **50%** is left: four times as much as X.
 
 **(c)** No new mRNA is made, and existing mRNA is broken down. mRNA X disappears quickly, so little protein X is made and its amount falls as existing molecules are broken down. Protein Y falls more slowly, because mRNA Y is still translated for hours. The drug does not destroy proteins already made, so protein levels lag behind mRNA levels.
 
 | Point | What earns it |
 |---|---|
 | 1 | At least four table rows correct |
-| 1 | 12.5% for X **and** about 66% for Y |
+| 1 | 12.5% for X **and** 50% for Y |
 | 1 | No new mRNA is made and existing mRNA is broken down |
 | 1 | Protein X falls sooner or faster than protein Y, linked to the mRNA half-lives |
 | 1 | Recognises that proteins already made persist for a while, so protein lags behind mRNA |

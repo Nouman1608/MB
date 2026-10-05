@@ -236,7 +236,7 @@ A real example comes from the long-term study of medium ground finches on the Ga
 
 **(b) Calculations.**
 
-1. Survival at 8 mm = 4 ÷ 40 × 100 = **10%**. Survival at 12 mm = 29 ÷ 50 × 100 = **58%**. Birds with the deepest beaks were 5.8 times as likely to survive.
+1. Survival at 8 mm = 4 ÷ 40 × 100 = **10%**. Survival at 12 mm = 29 ÷ 50 × 100 = **58%**. Birds with the deepest beaks were 5.8 times as likely to survive as those with the shallowest.
 2. Mean before = (8×40 + 9×120 + 10×180 + 11×110 + 12×50) ÷ 500 = 5010 ÷ 500 = **10.02 mm**.
 3. Mean of survivors = (8×4 + 9×18 + 10×45 + 11×44 + 12×29) ÷ 140 = 1476 ÷ 140 = **10.54 mm**.
 4. Shift = 10.54 − 10.02 = about **0.52 mm** towards deeper beaks.

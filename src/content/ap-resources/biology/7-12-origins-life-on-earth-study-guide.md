@@ -96,7 +96,8 @@ Three dates frame the story. Learn them as the course states them.
 <text x="320" y="196" text-anchor="middle" font-size="14" fill="#1d2b44">Time / billion years ago (bya)</text>
 <text x="60" y="50" font-size="13" font-weight="600" fill="#1d2b44">Earth forms (4.6)</text>
 <line x1="64" y1="56" x2="64" y2="118" stroke="#1d2b44" stroke-width="1"/>
-<text x="76" y="92" font-size="12" fill="#1d2b44">Dotted: too hostile</text>
+<text x="72" y="92" font-size="12" fill="#1d2b44">Dotted:</text>
+<text x="72" y="106" font-size="12" fill="#1d2b44">too hostile</text>
 <text x="139" y="230" font-size="13" font-weight="600" fill="#1d2b44">Hatched: plausible window, 3.9 to 3.5</text>
 <line x1="160" y1="214" x2="160" y2="142" stroke="#1d2b44" stroke-width="1"/>
 <text x="200" y="76" font-size="13" font-weight="600" fill="#1d2b44">Earliest fossil evidence (3.5): stromatolites</text>
@@ -115,13 +116,13 @@ Taken together, they give a **plausible range** of dates, roughly 3.9 to 3.5 bya
 
 ## Background (beyond the required content): from simple molecules to building blocks
 
-Before any genetic system, the building blocks of life had to form without living cells. In 1953 Stanley Miller and Harold Urey sealed water, methane, ammonia and hydrogen in glass apparatus and passed electric sparks (a model of lightning) through the gases. Within days, amino acids such as glycine and alanine had formed. Today most scientists think the early atmosphere was different, with more carbon dioxide and nitrogen, but later experiments show that organic building blocks can still form under a range of early-Earth conditions. The required content for this topic starts at the next step: how a genetic system could begin.
+Before any genetic system, the building blocks of life had to form without living cells. In an experiment published in 1953, Stanley Miller, working in Harold Urey's laboratory, sealed water, methane, ammonia and hydrogen in glass apparatus and passed electric sparks (a model of lightning) through the gases. Within a week, amino acids such as glycine and alanine had formed. Today most scientists think the early atmosphere was different, with more carbon dioxide and nitrogen, but later experiments show that organic building blocks can still form under a range of early-Earth conditions. The required content for this topic starts at the next step: how a genetic system could begin.
 
 ## The RNA world hypothesis
 
 Modern cells have a "chicken and egg" problem. DNA stores genetic information, but copying DNA needs protein enzymes. Proteins catalyse reactions, but making a protein needs the information in DNA (through RNA). So which came first?
 
-The **RNA world hypothesis** proposes that **RNA could have been the earliest genetic material**. RNA can do both jobs:
+The **RNA world hypothesis** suggests that the first molecule to carry genes from one generation to the next was **RNA**, not DNA. RNA can do both jobs:
 
 - **It stores information.** The sequence of bases (A, U, G, C) along an RNA strand is a code, just like DNA's.
 - **It can be copied by base pairing.** A pairs with U and G pairs with C, so one strand acts as a template for a complementary strand.
@@ -156,8 +157,8 @@ The **RNA world hypothesis** proposes that **RNA could have been the earliest ge
 <line x1="267" y1="204" x2="267" y2="112" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="4 4"/>
 <text x="290" y="226" font-size="12" fill="#1d2b44">next nucleotide</text>
 <text x="290" y="242" font-size="12" fill="#1d2b44">pairs with A</text>
-<text x="40" y="58" font-size="12" fill="#1d2b44">Template strand (shaded)</text>
-<text x="40" y="198" font-size="12" fill="#1d2b44">New strand (white)</text>
+<text x="40" y="58" font-size="12" fill="#1d2b44">Template strand (top row)</text>
+<text x="40" y="198" font-size="12" fill="#1d2b44">New strand (bottom row)</text>
 <text x="40" y="276" font-size="12" fill="#1d2b44">Pairs: A–U and G–C</text>
 <line x1="380" y1="20" x2="380" y2="285" stroke="#1d2b44" stroke-width="1" stroke-dasharray="2 4"/>
 <text x="510" y="30" text-anchor="middle" font-size="15" font-weight="700" fill="#1d2b44">Catalysis: folded RNA</text>

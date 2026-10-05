@@ -52,7 +52,7 @@ A **mutation** is a change in the sequence of nucleotides in DNA. In Topics 6.3 
 
 A mutation can change:
 
-- the **type** of protein made (a different amino acid sequence, a shorter chain, or a chain that is nonsense after a certain point); or
+- the **type** of protein made (a different amino acid sequence, a shorter chain, or a chain whose sequence is different after a certain point); or
 - the **amount** of protein made (for example, a change in a promoter or other regulatory sequence from Topic 6.5 can make transcription faster or slower); or
 - **nothing at all** that the cell or organism can detect.
 
@@ -202,7 +202,7 @@ During meiosis, homologous chromosomes (meiosis I) or sister chromatids (meiosis
 
 Changes in chromosome number change the **dose** of hundreds of genes at once, so they often cause disorders with limits on growth and development. You do not need to name specific disorders.
 
-Errors in **mitosis** can also give cells with the wrong chromosome number. These cells are not passed to offspring, but they can change the phenotype of the tissue they form.
+Errors in **mitosis** can also give cells with the wrong chromosome number. In animals these body cells are not passed to offspring, but they can change the phenotype of the tissue they form.
 
 ### Changes in chromosome structure
 

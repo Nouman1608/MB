@@ -36,7 +36,7 @@ Short on time? This page is the recap. For explanations, figures and worked exam
 
 - **Endotherms** heat themselves with metabolic heat and need much more food. **Ectotherms** follow the surroundings but regulate by behaviour (basking, shade, clustering).
 - Energy budget: net gain → stored, growth, more offspring; net loss → mass loss, fewer offspring, eventually death.
-- Some organisms (*Daphnia*, aphids) reproduce asexually when food is plentiful and switch to sexual reproduction when it is scarce.
+- Some organisms (*Daphnia*, aphids) reproduce asexually when food is plentiful and switch to sexual reproduction when it becomes scarce or conditions worsen.
 - Levels of organisation: population → community → ecosystem → biome.
 - Trophic levels: producers; primary, secondary, tertiary, quaternary consumers; decomposers.
 - **Autotrophs**: photosynthetic (light) or chemosynthetic (small inorganic molecules, even without oxygen). **Heterotrophs** (herbivores, carnivores, omnivores, scavengers, decomposers) break down carbohydrates, lipids and proteins from autotroph-derived matter.

@@ -197,7 +197,7 @@ A **bottleneck** happens when a population is cut to a small number of individua
 
 The **founder effect** happens when a few individuals leave a population and start a new, separate one, for example by colonising an island. The new gene pool contains only the founders' alleles, at the founders' frequencies. A rare allele can become common in the new population simply because one founder happened to carry it.
 
-Human examples exist: some genetic conditions are much more common in small, long-isolated communities descended from few founders. Polydactyly (extra fingers or toes), for instance, is more common in some Amish communities in the United States than in the wider population.
+Human examples exist: some genetic conditions are much more common in small, long-isolated communities descended from few founders. For instance, Ellis–van Creveld syndrome, a rare inherited condition that includes extra fingers (polydactyly), is far more common among the Old Order Amish of Lancaster County, Pennsylvania, than in most other populations.
 
 **Bottleneck or founder effect?** In a bottleneck, the original population itself shrinks. In a founder event, a small group splits off and the original population may continue unchanged. Both are drift: the new gene pool is a chance sample.
 
@@ -205,7 +205,7 @@ Human examples exist: some genetic conditions are much more common in small, lon
 
 **Gene flow** is the movement of alleles between populations, when individuals migrate and breed (or when pollen or seeds are carried). It can **add** alleles to a population, including new ones, and it **removes** alleles from the population that the migrants leave.
 
-Gene flow makes connected populations **more similar**. Each exchange pulls their allele frequencies toward each other. This is why gene flow between two populations **prevents them from diverging** into separate species. Cut off gene flow (a new dam, road or rising sea) and drift, mutation and selection can act on each population separately, so they drift apart.
+Gene flow makes connected populations **more similar**. Each exchange pulls their allele frequencies toward each other. This is why continued gene flow **stops two populations from splitting** into separate species. Cut off gene flow (a new dam, road or rising sea) and drift, mutation and selection can act on each population separately, so they drift apart.
 
 Gene flow can also help a population that has lost variation. Bringing in individuals from a larger population restores alleles, a process conservation biologists call **genetic rescue**.
 
@@ -237,7 +237,7 @@ Gene flow can also help a population that has lost variation. Bringing in indivi
 
 **(b)** The frequency of A fell by 0.267 (from 0.60 to 0.333). If the descendants keep these frequencies, the population has evolved: its allele frequencies have changed between generations. Strictly, you confirm evolution by measuring the next generation.
 
-**(c)** Null hypothesis: **"Survival in the storm was independent of genotype at this gene."** If survival were random, 12 survivors drawn from the original proportions would include about 4.3 AA, 5.8 Aa and 1.9 aa on average. The observed 2, 4 and 6 differ, but with only 12 survivors a difference this large can arise by chance. To test the null hypothesis you would need more evidence: for example, repeat observations from several storms or islands, or a mechanism by which wing colour could affect survival. If aa beetles did better every time, selection is likely; if the direction varies, drift is the better explanation.
+**(c)** Null hypothesis: **"Survival in the storm was independent of genotype at this gene."** If survival were random, 12 survivors drawn from the original proportions would include about 4.3 AA, 5.8 Aa and 1.9 aa on average. The observed 2, 4 and 6 differ, most clearly the 6 aa beetles against about 1.9 expected. A difference this large would arise by chance only rarely (roughly 2 times in 100), so it hints at selection, but one storm and 12 beetles is a single small sample. To test the null hypothesis you would need more evidence: for example, repeat observations from several storms or islands, or a mechanism by which wing colour could affect survival. If aa beetles did better every time, selection is likely; if the direction varies, drift is the better explanation.
 
 A second gene shows drift's other effect. Allele B2 had a frequency of 0.02 before the storm (20 of 1000 copies). The chance that none of the 24 surviving alleles is B2 is 0.98²⁴ ≈ **0.62**, so B2 is more likely than not to be lost, regardless of what it does.
 

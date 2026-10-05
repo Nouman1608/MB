@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-7.8-practice"
 title: "Continuing Evolution: Practice Questions (Biology 7.8)"
-description: "Seven original Marlbridge practice questions on resistance, mutation supply, emergent diseases and ongoing genome change, including evaluating studies and proposing new investigations."
+description: "Seven original Marlbridge practice questions on fossil change, resistance, mutation supply, emergent diseases and ongoing genome change, including evaluating studies and proposing new investigations."
 course: "biology"
 unit: 7
 topics: ["7.8"]
@@ -10,6 +10,7 @@ prerequisites:
   - "How natural selection acts on existing variation"
 prerequisiteResources: ["mb-ap-bio-7.8-study-guide"]
 learningObjectives:
+  - "Interpret fossil data as evidence of continuous change in a lineage"
   - "Explain resistance to drugs and herbicides as selection on existing variation"
   - "Calculate expected numbers of mutants and new mutations from rates and population sizes"
   - "Explain how pathogen evolution leads to emergent diseases"
@@ -38,21 +39,27 @@ These are **original Marlbridge practice questions**, not past exam questions. T
 
 ## Question 1 (multiple choice · foundation)
 
-A farm gives the same antibiotic to its animals for several years. Bacteria from the animals are now mostly resistant to it. Which statement best explains this change?
+Palaeontologists measure the mean length of one molar tooth in fossils of a single lineage of small grazing mammals, from five successive rock layers with no long gaps between them.
 
-- (A) A few bacteria already carried resistance; the antibiotic killed susceptible bacteria, and the resistant ones multiplied and passed on resistance.
-- (B) The antibiotic caused mutations in the bacteria that made them resistant.
-- (C) Each bacterium gradually became used to the antibiotic during its life.
-- (D) The animals' immune systems evolved to protect the bacteria from the antibiotic.
+| Age of layer / millions of years ago | 4.0 | 3.5 | 3.0 | 2.5 | 2.0 |
+|---|---|---|---|---|---|
+| Mean molar length / mm | 3.20 | 3.31 | 3.40 | 3.52 | 3.61 |
+
+Which conclusion is best supported by these data alone?
+
+- (A) The trait changed continuously, by roughly 0.1 mm every half million years, so the lineage kept evolving over this time.
+- (B) Individual animals grew longer teeth during their lives by chewing tough food, and passed the longer teeth on to their offspring.
+- (C) The lineage stopped evolving after 3.0 million years ago.
+- (D) The longer teeth were caused by a change to a diet of tougher grasses.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Resistance arises by random mutation (or arrives by gene transfer) independently of the drug. The antibiotic is the selective agent: it removes susceptible cells, so resistant cells leave most of the offspring and their frequency rises.
+**Answer: (A).** Mean length rose at every step (by 0.11, 0.09, 0.12 and 0.09 mm), a total of 0.41 mm over 2 million years. Steady, step-by-step change through successive layers is the kind of continuous change in the fossil record that shows a lineage evolving over time.
 
-- (B) reverses cause and effect. Mutations are random; the drug selects among variants, it does not create the useful one.
-- (C) describes change within an individual. Evolution is a change in the population's allele frequencies across generations.
-- (D) The animals are not the population evolving here, and nothing about their immune systems protects bacteria from a drug.
+- (B) describes change within individuals being inherited. Evolution is a change in the population across generations; a trait gained during life is not passed on in DNA.
+- (C) is contradicted by the data: the mean kept rising after 3.0 million years ago (3.40 to 3.52 to 3.61 mm).
+- (D) may be a reasonable hypothesis, but the table shows only the trend, not its cause. Other evidence from the same layers, such as fossil plants, would be needed to test it.
 </details>
 
 ## Question 2 (multiple choice · core)
@@ -199,7 +206,7 @@ The genome has 4.6 × 10⁶ base pairs, the mutation rate is 1 × 10⁻¹⁰ per
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** 0 to 2000: (1.18 − 1.00) ÷ 2000 × 1000 = **0.09 per 1000 generations**. 20 000 to 40 000: (1.64 − 1.53) ÷ 20 000 × 1000 = 0.0055, about **0.006 per 1000 generations**.
+**(a)** 0 to 2000: (1.18 − 1.00) ÷ 2000 × 1000 = **0.09 per 1000 generations**. 20 000 to 40 000: (1.64 − 1.53) ÷ 20 000 × 1000 = **0.0055 per 1000 generations**.
 
 **(b)** The claim is not supported. Fitness kept rising after generation 10 000, from 1.42 to 1.53 and then to 1.64. The rate of gain slowed, about sixteen times slower at the end than at the start (0.09 ÷ 0.0055 ≈ 16), but it did not stop.
 
@@ -217,7 +224,8 @@ The genome has 4.6 × 10⁶ base pairs, the mutation rate is 1 × 10⁻¹⁰ per
 
 ## How did you do?
 
-- **Q1 or Q3 wrong:** re-read "Evidence 3: resistance to the chemicals we use" and Figure 2 in the [study guide](/advanced-course-resources/biology/7-8-continuing-evolution-study-guide/).
+- **Q1 wrong:** re-read "Evidence 2: continuous change in the fossil record" and Figure 1 in the [study guide](/advanced-course-resources/biology/7-8-continuing-evolution-study-guide/).
+- **Q3 wrong:** re-read "Evidence 3: resistance to the chemicals we use" and Figure 2.
 - **Q2 or Q7(c) wrong:** rework "Evidence 1: genomes change over time" and Worked example 1; check you multiplied population by rate.
 - **Q4 wrong:** re-read Worked example 1 on how frequencies change under selection.
 - **Q5 wrong:** rework Worked example 2, especially the proposed investigation.

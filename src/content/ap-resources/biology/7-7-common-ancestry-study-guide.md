@@ -55,7 +55,7 @@ Before looking at eukaryotes, notice what every living cell shares. This is back
 - DNA stores the genetic information, and RNA carries it to the ribosomes.
 - The genetic code is almost the same in every organism: the same codon means the same amino acid.
 - Ribosomes build proteins in every cell.
-- Every cell has a plasma membrane made of a phospholipid bilayer and uses ATP to carry energy.
+- Every cell has a plasma membrane built mainly from phospholipids and uses ATP to carry energy.
 
 These features link all three domains. The features in the next section are different. They appear in eukaryotes, and are missing from most bacteria and archaea. So they mark a **later** common ancestor: the ancestor of all eukaryotes.
 
@@ -69,7 +69,7 @@ Every eukaryotic cell divides its interior into compartments with membranes arou
 - The **endomembrane system** (endoplasmic reticulum, Golgi complex, vesicles, lysosomes or vacuoles) folds, sorts and ships proteins and lipids.
 - **Mitochondria** are found in nearly all eukaryotes. A very few have lost them or kept only reduced remnants. Plants and algae also have **chloroplasts**.
 
-Topic 2.10 showed that mitochondria and chloroplasts came from bacteria taken in by an ancestral cell (endosymbiosis). Mitochondria in fungi, plants and animals have the same double membrane, their own small circular DNA and their own bacteria-like ribosomes. The simplest explanation is that the endosymbiosis happened **once**, in an ancestor of all of them, rather than separately in each group.
+Topic 2.10 showed that mitochondria and chloroplasts came from bacteria taken in by an ancestral cell (endosymbiosis). Mitochondria in fungi, plants and animals have the same double membrane, their own DNA (often a circular molecule, like a bacterial chromosome) and their own bacteria-like ribosomes. The simplest explanation is that the endosymbiosis happened **once**, in an ancestor of all of them, rather than separately in each group.
 
 Bacteria and archaea have no nucleus and no membrane-bound organelles. Their DNA sits in a region of the cytoplasm called the nucleoid.
 
@@ -81,14 +81,14 @@ Most bacteria and archaea have a single **circular** chromosome, with no ends, s
 
 ### 3. Genes that contain introns
 
-Most eukaryotic protein-coding genes are **split genes**. Coding stretches (**exons**) are interrupted by non-coding stretches (**introns**). After transcription, a large RNA-and-protein machine called the **spliceosome** cuts out the introns and joins the exons (Topic 6.3).
+In animals and plants, most protein-coding genes are **split genes**, and nearly every eukaryote studied has at least some. Coding stretches (**exons**) are interrupted by non-coding stretches (**introns**). After transcription, a large RNA-and-protein machine called the **spliceosome** cuts out the introns and joins the exons (Topic 6.3).
 
 The spliceosome is built from the same kinds of small RNAs and proteins in fungi, plants, animals and protists. Its parts are **homologous**: their sequences are clearly related. Introns are rare in bacteria and archaea, and the few they have are of other kinds, removed without a spliceosome. Prokaryotes have no spliceosome.
 
 <figure>
 <svg viewBox="0 0 640 340" role="img" aria-labelledby="ca-title ca-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="ca-title">Prokaryotic and eukaryotic cells and genes compared</title>
-<desc id="ca-desc">Left panel, labelled bacteria and archaea: a rounded cell with a single circular chromosome loose in the cytoplasm and no nucleus. Below it, a gene drawn as one continuous filled bar, labelled one continuous coding sequence. Right panel, labelled eukaryotes: a cell containing a nucleus drawn with a double outline, three straight linear chromosomes inside it with short black end caps labelled telomeres, and an oval mitochondrion labelled membrane-bound organelle. Below it, a gene drawn as three filled exon blocks separated by two thin lines labelled introns.</desc>
+<desc id="ca-desc">Left panel, labelled bacteria and archaea: a rounded cell with a single circular chromosome loose in the cytoplasm and no nucleus. Below it, a gene drawn as one continuous filled bar, labelled one continuous coding sequence. Right panel, labelled eukaryotes: a cell containing a nucleus drawn with a double outline, three straight linear chromosomes inside it with short black end caps labelled telomeres, and an oval membrane-bound organelle labelled mitochondrion. Below it, a gene drawn as three filled exon blocks separated by two thin lines labelled introns.</desc>
 <rect x="0" y="0" width="640" height="340" fill="#ffffff"/>
 <text x="160" y="24" text-anchor="middle" font-size="15" font-weight="700" fill="#1d2b44">Bacteria and archaea</text>
 <text x="480" y="24" text-anchor="middle" font-size="15" font-weight="700" fill="#1d2b44">Eukaryotes</text>
@@ -205,7 +205,7 @@ If two species inherited a split gene from a common ancestor, some of their intr
 
 ## Worked example 2: predicting the effect of blocking splicing
 
-**Question.** A fictional drug, compound S, binds to a protein found in the spliceosome. Researchers grew five kinds of cell with and without compound S for 24 hours, starting at the same density. Results (cell density, millions of cells per mL):
+**Question.** A fictional drug, compound S, binds to a protein found in the spliceosome. Researchers grew five kinds of cell with and without compound S for 24 hours. For each kind of cell, the control and treated cultures started at the same density. Results (cell density, millions of cells per mL):
 
 | Cells | Control | With compound S |
 |---|---|---|
