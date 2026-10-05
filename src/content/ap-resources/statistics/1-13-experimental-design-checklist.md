@@ -12,12 +12,13 @@ skills: ["2"]
 studyMinutes: 10
 difficulty: "foundation"
 related: ["mb-ap-stats-1.13-study-guide", "mb-ap-stats-1.13-practice", "mb-ap-stats-1.13-revision-notes"]
+next: "mb-ap-stats-2.1-study-guide"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-statistics", "page-statistics", "cb-statistics-revisions"]
 keyPoints:
   - "Tick a statement only when you can do it without notes."
   - "Each statement names the guide section or practice question that tests it."
-version: "1.0"
+version: "1.1"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
 editorialStatus: "drafted"
@@ -50,4 +51,4 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can justify whether a cause-and-effect conclusion is appropriate, using random assignment. *(Guide: "What can you conclude?"; Practice Q7)*
 - I can state to which population a conclusion applies, including when the units are volunteers. *(Guide: Worked example 1; Practice Q7)*
 
-All ticked? You have finished Unit 1. Move on to Unit 2, Probability, Random Variables, and Probability Distributions, or return to the [course roadmap](/advanced-course-resources/statistics/#roadmap).
+All ticked? You have finished this unit. Move on to Unit 2, Probability, Random Variables, and Probability Distributions, starting with [Topic 2.1, Tabular and Graphical Representations for Two Categorical Variables](/advanced-course-resources/statistics/2-1-tabular-graphical-representations-distributions-two-study-guide/), or return to the [course roadmap](/advanced-course-resources/statistics/#roadmap).

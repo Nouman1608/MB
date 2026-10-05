@@ -12,12 +12,13 @@ skills: ["4", "5", "6"]
 studyMinutes: 10
 difficulty: "core"
 related: ["mb-ap-chem-1.8-study-guide", "mb-ap-chem-1.8-practice", "mb-ap-chem-1.8-revision-notes"]
+next: "mb-ap-chem-2.1-study-guide"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-chemistry", "page-chemistry"]
 keyPoints:
   - "Tick a statement only when you can do it without notes."
   - "Each statement names the guide section or practice question that tests it."
-version: "1.0"
+version: "1.1"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
 editorialStatus: "drafted"
@@ -51,4 +52,4 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can correct the claim that more protons means stronger attraction for valence electrons. *(Practice Q6(c))*
 - I can link an observation, such as how violently a metal reacts with water, to a particle-level model. *(Guide: Worked example 3)*
 
-All ticked? You have finished Unit 1. Move on to Unit 2, Compound Structure and Properties, starting with Topic 2.1, Types of Chemical Bonds, or return to the [course roadmap](/advanced-course-resources/chemistry/#roadmap).
+All ticked? You have finished this unit. Move on to Unit 2, Compound Structure and Properties, starting with [Topic 2.1, Types of Chemical Bonds](/advanced-course-resources/chemistry/2-1-types-chemical-bonds-study-guide/), or return to the [course roadmap](/advanced-course-resources/chemistry/#roadmap).

@@ -12,12 +12,13 @@ skills: ["1", "2", "3"]
 studyMinutes: 10
 difficulty: "core"
 related: ["mb-ap-physcem-8.6-study-guide", "mb-ap-physcem-8.6-practice", "mb-ap-physcem-8.6-revision-notes"]
+next: "mb-ap-physcem-9.1-study-guide"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-physics-c-electricity-and-magnetism"]
 keyPoints:
   - "Tick a statement only when you can do it without notes."
   - "Each statement names the practice question that tests it."
-version: "1.0"
+version: "1.1"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
 editorialStatus: "drafted"
@@ -50,4 +51,4 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can predict a factor of change in E, such as E(R/2)/E(R), from the functional dependence. *(Practice Q3)*
 - I can find where the field is greatest by setting dE/dr = 0. *(Practice Q7)*
 
-All ticked? Move on to Unit 9, Electric Potential, or return to the [course roadmap](/advanced-course-resources/physics-c-electricity-and-magnetism/#roadmap).
+All ticked? You have finished this unit. Move on to Unit 9, Electric Potential, starting with [Topic 9.1, Electric Potential Energy](/advanced-course-resources/physics-c-electricity-and-magnetism/9-1-electric-potential-energy-study-guide/), or return to the [course roadmap](/advanced-course-resources/physics-c-electricity-and-magnetism/#roadmap).

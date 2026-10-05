@@ -12,12 +12,13 @@ skills: ["1", "2", "3"]
 studyMinutes: 10
 difficulty: "core"
 related: ["mb-ap-phys2-9.6-study-guide", "mb-ap-phys2-9.6-practice", "mb-ap-phys2-9.6-revision-notes"]
+next: "mb-ap-phys2-10.1-study-guide"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-physics-2"]
 keyPoints:
   - "Tick a statement only when you can do it without notes."
   - "Each statement names the practice question that tests it."
-version: "1.0"
+version: "1.1"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
 editorialStatus: "drafted"
@@ -50,4 +51,4 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can use the second law to explain why a process that conserves energy still never happens in reverse. *(Practice Q5d)*
 - Stretch (background): I can explain why no engine can turn all of the energy it takes in by heating into work. *(Guide: background note on engines; Practice Q7d)*
 
-All ticked? You have finished Unit 9. Move on to Unit 10, Electric Force, Field, and Potential, from the [course roadmap](/advanced-course-resources/physics-2/#roadmap).
+All ticked? You have finished this unit. Move on to Unit 10, Electric Force, Field, and Potential, starting with [Topic 10.1, Electric Charge and Electric Force](/advanced-course-resources/physics-2/10-1-electric-charge-electric-force-study-guide/), or return to the [course roadmap](/advanced-course-resources/physics-2/#roadmap).

@@ -1,6 +1,6 @@
 # Official source register
 
-Generated 2026-10-05T00:53:34.893Z from `src/data/ap/sources.ts`. Every official fact in the library traces to one of these. Re-check each before the next school year.
+Generated 2026-10-05T14:27:04.094Z from `src/data/ap/sources.ts`. Every official fact in the library traces to one of these. Re-check each before the next school year.
 
 | Id | Source | School year | Checked | Verifies |
 |---|---|---|---|---|

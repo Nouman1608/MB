@@ -13,13 +13,14 @@ skills: ["2", "3"]
 studyMinutes: 10
 difficulty: "core"
 related: ["mb-ap-calcab-1.16-study-guide", "mb-ap-calcab-1.16-practice", "mb-ap-calcab-1.16-revision-notes"]
+next: "mb-ap-calcab-2.1-study-guide"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-calculus-ab-bc", "page-calculus-ab", "page-calculus-bc"]
 keyPoints:
   - "Tick a statement only when you can do it without notes or a calculator."
   - "Each statement names the practice question that tests it."
   - "Shared checklist for Calculus AB and Calculus BC students."
-version: "1.0"
+version: "1.1"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
 editorialStatus: "drafted"
@@ -51,4 +52,4 @@ Work through the list without notes or a calculator. If you cannot do a statemen
 - I can explain why a value outside the range of the end values is not guaranteed. *(Guide: Worked example 2(c); Practice Q5(c))*
 - I can combine the theorem with another fact, such as the degree of a polynomial, to show there are exactly n solutions. *(Guide: Worked example 1)*
 
-All ticked? You have finished Unit 1. Return to the [Calculus AB roadmap](/advanced-course-resources/calculus-ab/#roadmap) or the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap) and move on to Unit 2, Differentiation: Definition and Fundamental Properties.
+All ticked? You have finished this unit. Move on to Unit 2, Differentiation: Definition and Fundamental Properties, starting with [Topic 2.1, Defining Average and Instantaneous Rates of Change at a Point](/advanced-course-resources/calculus-ab/2-1-defining-average-instantaneous-rates-change-study-guide/), or return to the [Calculus AB roadmap](/advanced-course-resources/calculus-ab/#roadmap).

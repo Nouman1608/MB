@@ -15330,3 +15330,24 @@ Practice questions are labelled by criterion A–D with the "revision aid, not I
 **Validation (05:53 PKT).** `validate-ap-library` 340/340; `validate:academic`, `check:duplicate-scope`, `validate-review-integrity` PASS; `npm run build` OK; `audit:all` PASS (fixed three false "internal note" hits from SVG `Q` path commands and a table). `report:ap-library`: 96 topics drafted of 637.
 
 **Owner decisions.** Merge to main (the library is live, so merging publishes); AP teacher review; online check of the facts list.
+
+## D-393 -- AP library Phase 3: every remaining topic, unit diagnostics and reviews for every unit (branch `ap-phase3`, 5 Oct 2026, 19:30 PKT)
+
+**Request.** The owner said "complete all the batches in 1 go" (5 Oct, 08:23 PKT) and "continue" after each usage-limit pause (12:46 and 18:58 PKT).
+
+**What was added (2,028 resources; library now 2,368).**
+- **476 topic packs** (study guide, revision notes, practice questions, checklist each): every remaining topic of the 2026-27 frameworks. Chemistry Units 2-9; Biology Units 2-8; Calculus Units 2-8 (shared AB/BC) and BC-only topics in Units 6-10; Statistics Units 2-5 (revised framework); Physics 1 Units 2-8; Physics 2 Units 10-15; Physics C: Mechanics Units 2-7; Physics C: E&M Units 9-13; Microeconomics Units 2-6; Macroeconomics Units 2-6. `report:ap-library`: 637 of 637 framework topics drafted.
+- **62 unit diagnostics and 62 mixed unit reviews**, one pair for every unit after Unit 1 (Calculus BC Units 9-10 marked `bc-only`; shared Calculus units say which questions are BC only).
+- Unit 1 checklists (and Physics 2 9.6, E&M 8.6, Macroeconomics 2.4, Calculus BC 6.11) now point `next` to the following topic (version 1.1).
+
+**Process.** As D-392: a separate writer and an independent verifier for every topic pack and every unit pair (`/home/claude/ap/BRIEF_AP.md`, `BRIEF_UNIT.md`, `VERIFY_AP.md`, `VERIFY_UNIT.md`; job files in `/home/claude/ap/jobs3/` and `jobs3u/`), up to 20 agents at a time, a commit after each wave. Writers worked from the Course and Exam Descriptions staged from Papers 2025\Syllabus\AP; verifiers rendered PDF pages where the text extract lost equations. Every number was recomputed by the writer's script and again by the verifier's own script (`/home/claude/ap/checks/`, `/home/claude/ap/verify/`); a 12-word overlap check ran against each CED and against the unit's own topic files.
+
+**What the verifiers caught (examples).** Questions too close to existing material, all replaced with original ones: a reworded released free-response question (Calculus 10.14), textbook problems (Calculus 4.7, 6.7, 8.13, 9.9, 10.13; Physics 2 10.4, 14.9; Physics 1 2.6), questions mirroring CED sample questions (Microeconomics 4.5, Physics 2 15.4), a copied topic question (Calculus 3.5 from 3.2), and many unit-review questions that reused topic worked examples. Physics corrections (an electron that escapes rather than oscillates, E&M Unit 9 review; magnification stated in the official |M| = |hᵢ/hₒ| = |sᵢ/sₒ| form, Physics 2 13.2-13.4), economics wording (a Gini rise described as a wider gap between the Lorenz curve and the line of equality, automatic stabilizers "cushion" disposable income, real GDP below nominal only when the deflator is under 100), answer keys rebalanced where every answer was (A), figure labels and axis titles, CED sentences paraphrased, word counts and titles brought within limits.
+
+**Credit line.** All 2,028 new resources carry `checkedBy: marlbridge-academic-team` / `checkedDate: 2026-10-05`, added only after verification (D-390 meaning: checked against the 2026-27 framework, not a teacher review); `editorialStatus: drafted`; no reviewer.
+
+**Facts.** Five real-world statements were checked centrally online (BEA chained dollars, NBER dating committee, Fed savings deposits in M1 since 2020 -- page corrected from "since May 2020" -- and reserve requirements at 0% from 26 March 2020, Biology calculator policy from the CED). 225 standard textbook or reference facts that writers kept without an online fetch are listed in `docs/ap-library/facts-phase3-2026-10-05.md`; the coordinator found no error in them.
+
+**Validation (19:20 PKT).** `validate-ap-library` 2,368/2,368; `validate:academic`, `check:duplicate-scope`, `validate-review-integrity` PASS; `npm run build` OK; `audit:all` PASS after fixing two duplicate checklist descriptions, nine SVG paths whose `Q` commands looked like audit IDs, a `U12` label, a line that rendered as a task-list checkbox (Chemistry 5.3), three Calculus 7.7 titles over 110 characters and one description over 220.
+
+**Owner decisions.** Merge to main (merging publishes); AP teacher review; online check of the Phase 2 and Phase 3 facts lists.

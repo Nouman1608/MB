@@ -12,12 +12,13 @@ skills: ["1", "2", "3"]
 studyMinutes: 10
 difficulty: "foundation"
 related: ["mb-ap-phys1-1.5-study-guide", "mb-ap-phys1-1.5-practice", "mb-ap-phys1-1.5-revision-notes"]
+next: "mb-ap-phys1-2.1-study-guide"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-physics-1", "page-physics-1"]
 keyPoints:
   - "Tick a statement only when you can do it without notes."
   - "Each statement names the guide section or practice question that tests it."
-version: "1.0"
+version: "1.1"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
 editorialStatus: "drafted"
@@ -50,4 +51,4 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can explain why a projectile at the top of its path has non-zero velocity and non-zero acceleration. *(Guide: Worked example 3; Practice Q2)*
 - I can derive the range on level ground in symbols and use it to explain why complementary angles give the same range. *(Practice Q7)*
 
-All ticked? That completes Unit 1, Kinematics. Look back at [Topic 1.4](/advanced-course-resources/physics-1/1-4-reference-frames-relative-motion-study-guide/) if relative motion still feels shaky, or return to the [course roadmap](/advanced-course-resources/physics-1/#roadmap).
+All ticked? You have finished this unit. Move on to Unit 2, Force and Translational Dynamics, starting with [Topic 2.1, Systems and Center of Mass](/advanced-course-resources/physics-1/2-1-systems-center-mass-study-guide/), or return to the [course roadmap](/advanced-course-resources/physics-1/#roadmap).

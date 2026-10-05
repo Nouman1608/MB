@@ -12,12 +12,13 @@ skills: ["1", "2", "3", "4"]
 studyMinutes: 10
 difficulty: "foundation"
 related: ["mb-ap-micro-1.6-study-guide", "mb-ap-micro-1.6-practice", "mb-ap-micro-1.6-revision-notes"]
+next: "mb-ap-micro-2.1-study-guide"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-microeconomics", "page-microeconomics"]
 keyPoints:
   - "Tick a statement only when you can do it without notes."
   - "Each statement names the guide section or practice question that tests it."
-version: "1.0"
+version: "1.1"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
 editorialStatus: "drafted"
@@ -48,4 +49,4 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can show that a combination is not optimal because money is left over or the MU-per-dollar ratios differ, and say which way spending should move. *(Practice Q6(d), Q7(b))*
 - I can explain how a fall in a good's price changes the utility-maximizing combination. *(Practice Q7)*
 
-All ticked? You have finished Unit 1. Move on to Unit 2, Supply and Demand, or return to the [course roadmap](/advanced-course-resources/microeconomics/#roadmap).
+All ticked? You have finished this unit. Move on to Unit 2, Supply and Demand, starting with [Topic 2.1, Demand](/advanced-course-resources/microeconomics/2-1-demand-study-guide/), or return to the [course roadmap](/advanced-course-resources/microeconomics/#roadmap).
