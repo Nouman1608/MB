@@ -207,7 +207,7 @@ By symmetry, E is tangent to circles centred on the axis and has the same size a
 2. (b) Outside (r > R): only the solenoid's cross-section has flux, πR²B. E(2πr) = πR² dB/dt, so E = (R²/2r) dB/dt = (0.025)² ÷ (2 × 0.050) × 0.40 = **2.5 × 10⁻³ V/m**.
 3. (c) ℰ = πR² dB/dt = π(0.025)²(0.40) = **7.85 × 10⁻⁴ V**. Check: E(2πr) = (2.5 × 10⁻³)(2π × 0.050) gives the same value.
 
-**Interpretation.** There is an electric field **outside** the solenoid, where B is almost zero. E rises linearly inside, peaks at r = R (5.0 × 10⁻³ V/m) and falls as 1/r outside. Looking along the field (the field pointing towards you), E circulates clockwise, by Lenz's law. A wire loop placed anywhere around the solenoid would carry an induced current.
+**Interpretation.** There is an electric field **outside** the solenoid, where B is almost zero. E rises linearly inside, peaks at r = R (5.0 × 10⁻³ V/m) and falls as 1/r outside. Viewed from the end where the field points towards you, E circulates clockwise, by Lenz's law. A wire loop placed anywhere around the solenoid would carry an induced current.
 
 ## Maxwell's equations and light
 

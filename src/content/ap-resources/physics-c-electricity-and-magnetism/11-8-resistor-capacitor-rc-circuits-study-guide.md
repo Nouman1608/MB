@@ -107,7 +107,7 @@ The rules are "swapped" compared with resistors. Capacitance is Q/ΔV, while res
 4. **C₁.** ΔV₁ = Q/C₁ = 24 μC ÷ 6.0 μF = **4.0 V**.
 5. **Pair.** ΔV₂₃ = 24 μC ÷ 3.0 μF = **8.0 V** across both C₂ and C₃. Then **Q₂ = 16 μC** and **Q₃ = 8.0 μC**.
 
-**Check.** Loop: 4.0 V + 8.0 V = 12.0 V. Junction P: the 24 μC on C₁'s right plate is matched by 16 μC + 8.0 μC on the top plates of C₂ and C₃. The total stored energy, ½C_eqΔV² = 144 μJ, equals 48 + 64 + 32 μJ from the three capacitors.
+**Check.** Loop: 4.0 V + 8.0 V = 12.0 V. Charge at P: the −24 μC on C₁'s right plate and the +16 μC and +8.0 μC on the top plates of C₂ and C₃ add to zero, so the isolated conductor round P stays neutral. The total stored energy, ½C_eqΔV² = 144 μJ, equals 48 + 64 + 32 μJ from the three capacitors.
 
 ## Charging a capacitor through a resistor
 

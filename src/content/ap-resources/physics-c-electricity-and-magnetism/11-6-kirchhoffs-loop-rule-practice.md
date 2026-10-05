@@ -171,7 +171,7 @@ Figure 1 is a graph of electric potential against position round a single loop, 
 <line x1="70" y1="290" x2="545" y2="290" stroke="#1d2b44" stroke-width="2" marker-end="url(#q7-ax)"/>
 <line x1="70" y1="290" x2="70" y2="30" stroke="#1d2b44" stroke-width="2" marker-end="url(#q7-ax)"/>
 <g stroke="#1d2b44" stroke-width="1" stroke-dasharray="2 4">
-<line x1="70" y1="70" x2="150" y2="70"/><line x1="70" y1="190" x2="290" y2="190"/><line x1="70" y1="260" x2="360" y2="260"/><line x1="70" y1="200" x2="290" y2="200"/>
+<line x1="70" y1="70" x2="150" y2="70"/><line x1="70" y1="190" x2="290" y2="190"/><line x1="70" y1="260" x2="360" y2="260"/><line x1="70" y1="200" x2="315" y2="200"/>
 </g>
 <g font-size="12" fill="#1d2b44" text-anchor="end">
 <text x="62" y="294">0</text><text x="62" y="264">1.5</text><text x="62" y="204">4.5</text><text x="62" y="186">5.0</text><text x="62" y="74">11.0</text><text x="62" y="54">12.0</text>

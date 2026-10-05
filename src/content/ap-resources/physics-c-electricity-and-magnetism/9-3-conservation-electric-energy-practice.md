@@ -171,7 +171,7 @@ In a region along the x-axis, the electric potential is V(x) = V₀[(x/a)² − 
 | 1 | v_max ≈ 1.96 × 10⁵ m/s |
 | 1 | Sketch: upward parabola, horizontal total-energy line at U = 0, both points labelled correctly |
 
-Accept answers for (c) found from the sketch or from E_x changing sign at x = a, if the reasoning is stated.
+Accept (c) from the sketch, or from E_x changing sign at x = a, if the reasoning is stated.
 </details>
 
 ## Question 7 (constructed response · stretch)
@@ -196,7 +196,7 @@ Two small charged spheres sit on a frictionless, horizontal, insulating surface.
 
 **(c)** K = p²/(2m) and both spheres always have the same magnitude of momentum, so K_A/K_B = m_B/m_A = 3. A always has three times the kinetic energy of B (here 2.70 × 10⁻⁴ J and 0.90 × 10⁻⁴ J at the end).
 
-**(d)** One possible plan: use two light, charged gliders on a level air track. Measure each glider's mass with a balance and each charge with a charge sensor (electrometer). Release them from rest at a measured separation. Film the motion with a ruler in view, or use motion sensors, and find each speed once the separation is large (for example 10 times the starting value, where about 90% of U₀ has been converted). Compare the speeds and their ratio with the predictions (ratio m_B/m_A). Repeat for several starting separations and check that the total final kinetic energy is close to kq_Aq_B(1/r₀ − 1/r_f). Do it in dry air to limit charge leakage.
+**(d)** One possible plan: use two light, charged gliders on a level air track. Measure each mass with a balance and each charge with an electrometer. Release them from rest at a measured separation. Use video or motion sensors to find each speed once the separation is large (say 10 times the start, where about 90% of U₀ has been converted). Compare the speed ratio with m_B/m_A. Repeat for several starting separations and check that the total kinetic energy is close to kq_Aq_B(1/r₀ − 1/r_f). Work in dry air to limit charge leakage.
 
 | Point | What earns it |
 |---|---|

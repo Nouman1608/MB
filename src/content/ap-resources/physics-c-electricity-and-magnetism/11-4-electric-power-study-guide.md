@@ -45,13 +45,13 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-**Course note.** This guide is for the **calculus-based** Physics C: Electricity and Magnetism course, Topic 11.4. The course expects you to analyse how energy moves between electrical and mechanical forms. You should also know that resistors dissipate electrical energy as thermal energy, and be able to calculate the rate. You will integrate power over time when it is not constant.
+**Course note.** This guide is for the **calculus-based** Physics C: Electricity and Magnetism course, Topic 11.4. The course's energy analysis centres on transfers between electrical and mechanical energy. You should also be aware that resistors dissipate electrical energy as thermal energy; the power formulas below give the rate. You will integrate power over time when it is not constant.
 
 Value used throughout: **g = 9.8 m/s²**. Resistors and bulbs are treated as ohmic (Topic 11.3) unless a question says otherwise.
 
 ## Where electric power comes from
 
-From Unit 9, the potential difference ΔV between two points is the change in electric potential energy per unit charge. So when a small charge dq moves through an element with potential difference ΔV across it, the energy transferred is
+From Unit 9, the potential difference ΔV across an element tells you how much electric potential energy each coulomb of charge loses (or gains) as it crosses. So when a small charge dq moves through an element with potential difference ΔV across it, the energy transferred is
 
 dU = ΔV dq
 
@@ -120,7 +120,7 @@ The brightness of a light bulb increases with the power it receives. So to compa
 <text x="400" y="26">X</text><text x="480" y="26">Y</text>
 </g>
 <g font-size="12" fill="#1d2b44" text-anchor="middle">
-<text x="22" y="134">6.0 V</text><text x="362" y="175">6.0 V</text>
+<text x="22" y="162">6.0 V</text><text x="362" y="175">6.0 V</text>
 <text x="180" y="146">6.0 Ω</text><text x="268" y="146">12 Ω</text>
 <text x="400" y="84">6.0 Ω</text><text x="480" y="84">12 Ω</text>
 <text x="145" y="245">(a) parallel: same ΔV for X and Y</text>

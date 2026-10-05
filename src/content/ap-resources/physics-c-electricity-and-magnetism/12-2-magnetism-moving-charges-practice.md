@@ -185,9 +185,9 @@ A student wants to find the number density n of charge carriers in a thin semico
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Clamp the strip in the gap of the electromagnet with its flat face perpendicular to B. Keep the current at 20 mA throughout. Connect the voltmeter across the **width**, at points exactly opposite each other, so it reads no potential difference with B = 0 (check this first and note any offset). Set B to several values, for example 0.10 T to 0.50 T, measuring B with the field probe each time, and record ΔV_H. Repeat each reading, and reverse B to check that ΔV_H reverses.
+**(a)** Clamp the strip in the gap of the electromagnet with its flat face perpendicular to B. Keep the current at 20 mA throughout. Connect the voltmeter across the **width**, at points exactly opposite each other, so it reads no potential difference with B = 0 (check this first and note any offset). Set B to several values, for example 0.10 T to 0.50 T, measuring B each time, and record ΔV_H. Repeat each reading, and reverse B to check that ΔV_H reverses.
 
-**(b)** Plot B (T) on the horizontal axis from 0 to 0.50 and ΔV_H (mV) on the vertical axis from 0 to 70. The points lie close to a straight line through the origin. Gradient ≈ 62.3 − 12.4 mV over 0.40 T, or by least squares, **0.125 V/T** (125 mV/T).
+**(b)** Plot B (T) on the horizontal axis from 0 to 0.50 and ΔV_H (mV) on the vertical axis from 0 to 70. The points lie close to a straight line through the origin. Draw the best-fit line and read its gradient from two well-separated points on the line (least squares gives the same): **0.125 V/T** (125 mV/T).
 
 **(c)** Balance: qE_H = qv_dB, so ΔV_H = v_dBw. Current: I = nqv_d(wt), so v_d = I/(nqwt). Substituting, ΔV_H = IB/(nqt). The gradient is I/(nqt), so n = I/(qt × gradient) = 0.020 ÷ (1.60 × 10⁻¹⁹ × 2.0 × 10⁻⁴ × 0.125) = **5.0 × 10²¹ m⁻³**.
 

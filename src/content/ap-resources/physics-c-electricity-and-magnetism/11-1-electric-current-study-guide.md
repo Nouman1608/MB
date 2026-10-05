@@ -81,7 +81,7 @@ Model a wire with cross-sectional area A. It contains n charge carriers per unit
 <figure>
 <svg viewBox="0 0 560 300" role="img" aria-labelledby="cur-wire-title cur-wire-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="cur-wire-title">Charge carriers drifting through a section of wire</title>
-<desc id="cur-wire-desc">A horizontal wire drawn as a long cylinder. A dashed oval across the wire near the right marks a cross-section of area A. To its left, a hatched slice of the wire of length v_d times delta t is marked. Small circles with minus signs, the free electrons, are spread through the wire. An arrow above the wire labelled E points right. An arrow below labelled conventional current I points right. A short arrow labelled electron drift v_d points left.</desc>
+<desc id="cur-wire-desc">A horizontal wire drawn as a long cylinder. A dashed oval across the wire marks a cross-section of area A. Just to its right, a hatched slice of the wire of length v_d times delta t is marked. Small circles with minus signs, the free electrons, are spread through the wire. An arrow above the wire labelled E points right. An arrow below labelled conventional current I points right. A short arrow labelled electron drift v_d points left.</desc>
 <defs>
 <marker id="cw-arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#1d2b44"/></marker>
 <pattern id="cw-hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#1d2b44" stroke-width="1.2"/></pattern>
@@ -91,8 +91,8 @@ Model a wire with cross-sectional area A. It contains n charge carriers per unit
 <line x1="60" y1="195" x2="500" y2="195" stroke="#1d2b44" stroke-width="2"/>
 <ellipse cx="60" cy="145" rx="16" ry="50" fill="none" stroke="#1d2b44" stroke-width="2"/>
 <path d="M500 95 A16 50 0 0 1 500 195" fill="none" stroke="#1d2b44" stroke-width="2"/>
-<ellipse cx="340" cy="145" rx="16" ry="50" fill="none" stroke="#1d2b44" stroke-width="2" stroke-dasharray="6 4"/>
-<ellipse cx="230" cy="145" rx="16" ry="50" fill="none" stroke="#1d2b44" stroke-width="1" stroke-dasharray="2 4"/>
+<ellipse cx="340" cy="145" rx="16" ry="50" fill="none" stroke="#1d2b44" stroke-width="1" stroke-dasharray="2 4"/>
+<ellipse cx="230" cy="145" rx="16" ry="50" fill="none" stroke="#1d2b44" stroke-width="2" stroke-dasharray="6 4"/>
 <g fill="#ffffff" stroke="#1d2b44" stroke-width="1.5">
 <circle cx="100" cy="120" r="7"/><circle cx="140" cy="170" r="7"/><circle cx="185" cy="130" r="7"/>
 <circle cx="250" cy="115" r="7"/><circle cx="280" cy="165" r="7"/><circle cx="315" cy="130" r="7"/>
@@ -112,14 +112,14 @@ Model a wire with cross-sectional area A. It contains n charge carriers per unit
 <line x1="230" y1="205" x2="340" y2="205" stroke="#1d2b44" stroke-width="1"/>
 <line x1="230" y1="200" x2="230" y2="210" stroke="#1d2b44"/><line x1="340" y1="200" x2="340" y2="210" stroke="#1d2b44"/>
 <text x="285" y="222" font-size="12" fill="#1d2b44" text-anchor="middle">v_d Δt</text>
-<text x="370" y="88" font-size="12" fill="#1d2b44">area A</text>
+<text x="222" y="88" font-size="12" fill="#1d2b44" text-anchor="end">area A</text>
 <text x="20" y="290" font-size="12" fill="#1d2b44">Hatched slice: every carrier in it crosses the dashed section in time Δt.</text>
 </svg>
-<figcaption>Figure 1. A wire with cross-sectional area A. In time Δt, every carrier in the hatched slice of length v_d Δt crosses the dashed cross-section. For electrons (negative carriers), the drift is opposite to E and opposite to the conventional current.</figcaption>
+<figcaption>Figure 1. A wire with cross-sectional area A. The electrons drift to the left, so in time Δt every electron in the hatched slice of length v_d Δt (just upstream of the dashed cross-section, on its right) crosses it. For electrons (negative carriers), the drift is opposite to E and opposite to the conventional current.</figcaption>
 </figure>
 
 1. In a time Δt, each carrier moves a distance v_d Δt along the wire.
-2. So every carrier within a slice of length v_d Δt behind the cross-section crosses it (the hatched slice in Figure 1).
+2. So every carrier within a slice of length v_d Δt just upstream of the cross-section (on the side the carriers come from) crosses it (the hatched slice in Figure 1).
 3. The slice has volume A v_d Δt, so it holds n A v_d Δt carriers, with total charge Δq = nqA v_d Δt.
 4. Divide by Δt: **I = Δq/Δt = nqv_dA**.
 

@@ -169,15 +169,15 @@ A solenoid is a long coil with n turns per unit length (n = N/L) carrying curren
 <line x1="70" y1="150" x2="150" y2="150"/><line x1="390" y1="150" x2="470" y2="150"/>
 </g>
 <text x="160" y="220" font-size="14" fill="#1d2b44">B</text>
-<rect x="230" y="40" width="120" height="140" fill="none" stroke="#1d2b44" stroke-width="2" stroke-dasharray="7 4"/>
+<rect x="240" y="40" width="120" height="140" fill="none" stroke="#1d2b44" stroke-width="2" stroke-dasharray="7 4"/>
 <g stroke="#1d2b44" stroke-width="2" marker-end="url(#sol-arr)">
-<line x1="270" y1="180" x2="310" y2="180"/><line x1="350" y1="160" x2="350" y2="130"/><line x1="310" y1="40" x2="270" y2="40"/><line x1="230" y1="70" x2="230" y2="100"/>
+<line x1="280" y1="180" x2="320" y2="180"/><line x1="360" y1="160" x2="360" y2="130"/><line x1="320" y1="40" x2="280" y2="40"/><line x1="240" y1="70" x2="240" y2="100"/>
 </g>
 <g font-size="13" fill="#1d2b44">
-<text x="270" y="200">1 (length ℓ)</text>
-<text x="358" y="70">2</text>
+<text x="268" y="200">1 (length ℓ)</text>
+<text x="368" y="70">2</text>
 <text x="282" y="30">3 (outside)</text>
-<text x="210" y="70">4</text>
+<text x="222" y="70">4</text>
 <text x="20" y="300">top row ⊙ out of page; bottom row ⊗ into page</text>
 </g>
 </svg>

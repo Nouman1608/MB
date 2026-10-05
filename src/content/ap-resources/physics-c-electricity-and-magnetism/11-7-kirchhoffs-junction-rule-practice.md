@@ -50,7 +50,7 @@ Four wires meet at a junction. A current of 1.6 A flows into the junction along 
 
 **Answer: (B).** Total in = 1.6 + 0.9 = 2.5 A. Out so far = 0.7 A. Charge cannot build up at the junction, so wire 4 must carry 2.5 − 0.7 = 1.8 A **out**.
 
-- (A) treats wire 2's current as leaving: 1.6 − 0.9 + 0.7 = 1.4 A.
+- (A) swaps the directions of wires 2 and 3 (wire 2 out, wire 3 in): 1.6 + 0.7 − 0.9 = 1.4 A.
 - (C) has the right size but the wrong direction: 4.3 A would enter and only 0.7 A leave.
 - (D) adds all three sizes and ignores direction.
 </details>

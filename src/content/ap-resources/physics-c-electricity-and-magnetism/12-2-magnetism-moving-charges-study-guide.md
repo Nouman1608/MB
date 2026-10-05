@@ -122,7 +122,7 @@ The period is T = 2πr/v = **2πm/(|q|B)**. It does **not** depend on the speed:
 
 If v has a part along B, that part feels no force and stays the same. The perpendicular part makes the circle. Together they give a **helix**, with radius m v⊥/(|q|B) and **pitch** (distance moved along B per turn) v∥T.
 
-This is why large particle accelerators are rings: a magnetic field bends the beam round a closed path, and electric fields add energy on each lap.
+This is why many large particle accelerators are rings: a magnetic field bends the beam round a closed path, and electric fields add energy on each lap.
 
 ## Electric and magnetic fields together
 

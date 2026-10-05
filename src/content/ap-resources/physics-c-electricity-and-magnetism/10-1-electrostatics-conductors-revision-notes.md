@@ -72,5 +72,6 @@ Short on time? This page is the recap. For the reasoning, Figure 1 and the worke
 1. Just outside a conductor, σ = 4.0 × 10⁻⁸ C/m². What is E? *(4.5 × 10³ N/C, perpendicular to the surface)*
 2. +2.0 nC is placed in the cavity of a neutral metal shell. What are the charges on the inner and outer surfaces? *(−2.0 nC and +2.0 nC)*
 3. A metal sphere is at 500 V. What is the potential at its centre? *(500 V)*
+4. A closed, neutral metal box stands in a uniform external field of 5.0 × 10³ N/C. What is E in the empty space inside? *(Zero: charges induced on the outer surface cancel the outside field everywhere within it)*
 
 Next: [practice questions](/advanced-course-resources/physics-c-electricity-and-magnetism/10-1-electrostatics-conductors-practice/).

@@ -140,7 +140,7 @@ A student wants to find the dielectric constant of a new plastic film. She has t
 
 | n (sheets) | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|
-| C (nF) | 11.5 | 5.9 | 3.9 | 2.9 | 2.4 |
+| C (nF) | 11.4 | 5.7 | 3.8 | 2.8 | 2.3 |
 
 (a) Describe the procedure, naming the independent and dependent variables and two quantities to keep constant.
 (b) Show that a graph of C against 1/n should be a straight line, and state what its gradient represents.
@@ -155,7 +155,7 @@ A student wants to find the dielectric constant of a new plastic film. She has t
 
 **(b)** With the gap filled, C = κε₀A/d = κε₀A/(nt) = (κε₀A/t) × (1/n). This has the form y = mx with x = 1/n, so C against 1/n is a straight line through the origin with **gradient κε₀A/t**.
 
-**(c)** The values of 1/n are 1, 0.50, 0.33, 0.25 and 0.20. The points lie close to a straight line. A least-squares line gives a gradient of about **11.4 nF** (any careful best-fit line between 11.2 and 11.6 nF is fine), with an intercept close to zero (about 0.1 nF).
+**(c)** The values of 1/n are 1, 0.50, 0.33, 0.25 and 0.20. The points lie close to a straight line. A least-squares line gives a gradient of about **11.4 nF** (any careful best-fit line between 11.2 and 11.6 nF is fine), with an intercept very close to zero.
 
 **(d)** κ = gradient × t/(ε₀A) = (11.4 × 10⁻⁹ F)(0.10 × 10⁻³ m) ÷ [(8.85 × 10⁻¹²)(0.040)] = **3.2**. (Accept 3.1 to 3.3.)
 
@@ -171,7 +171,7 @@ A student wants to find the dielectric constant of a new plastic film. She has t
 | 1 | κ ≈ 3.2 with correct use of t and A in SI units |
 | 1 | A systematic error with the correct direction of its effect |
 
-Also accept a graph of 1/C against n (gradient t/(κε₀A)), with κ worked out correctly from it.
+Also accept a graph of 1/C against n (gradient t/(κε₀A), about 0.088 nF⁻¹ with these data), with κ worked out correctly from it.
 </details>
 
 ## Question 7 (constructed response · stretch)

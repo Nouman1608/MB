@@ -81,13 +81,13 @@ You can reach the same result in one step. Take a Gaussian pillbox with one end 
 <figure>
 <svg viewBox="0 0 560 390" role="img" aria-labelledby="cap-pp-title cap-pp-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="cap-pp-title">Field of a parallel-plate capacitor by superposition</title>
-<desc id="cap-pp-desc">Top: a plus plate on the left and a minus plate on the right, with four equal straight arrows from plus to minus between them and dashed fringing curves at the edges; outside, E is approximately zero. Bottom: the plus plate alone gives arrows pointing away from it on both sides; the minus plate alone gives arrows pointing towards it. Between the plates both point right and add; outside they point opposite ways and cancel.</desc>
+<desc id="cap-pp-desc">Top: a plate on the left with plus charges on its inner face and a plate on the right with minus charges on its inner face, with four equal straight arrows from plus to minus between them and dashed fringing curves at the edges; outside, E is approximately zero. Bottom: the plus plate alone gives arrows pointing away from it on both sides; the minus plate alone gives arrows pointing towards it. Between the plates both point right and add; outside they point opposite ways and cancel.</desc>
 <defs><marker id="cpp-arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#1d2b44"/></marker></defs>
 <rect x="170" y="40" width="10" height="180" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <rect x="380" y="40" width="10" height="180" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <g font-size="15" fill="#1d2b44" text-anchor="middle" font-weight="bold">
-<text x="160" y="65">+</text><text x="160" y="115">+</text><text x="160" y="165">+</text><text x="160" y="215">+</text>
-<text x="400" y="65">−</text><text x="400" y="115">−</text><text x="400" y="165">−</text><text x="400" y="215">−</text>
+<text x="191" y="56">+</text><text x="191" y="94">+</text><text x="191" y="134">+</text><text x="191" y="174">+</text><text x="191" y="212">+</text>
+<text x="370" y="56">−</text><text x="370" y="94">−</text><text x="370" y="134">−</text><text x="370" y="174">−</text><text x="370" y="212">−</text>
 </g>
 <g stroke="#1d2b44" stroke-width="2" marker-end="url(#cpp-arr)">
 <line x1="188" y1="70" x2="370" y2="70"/>

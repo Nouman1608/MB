@@ -47,6 +47,6 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 - I can explain why surface charge density and field strength are greatest at sharp points and edges. *(Guide: "Where the surface charge gathers"; Practice Q2)*
 - I can sketch and explain the induced charges and field lines for a neutral conductor in an external field. *(Guide: Figure 1; Practice Q6)*
-- I can explain electrostatic shielding, including why it does not hide a charge inside an ungrounded shell. *(Guide: "Cavities and electrostatic shielding"; Practice Q3)*
+- I can explain electrostatic shielding, including why it does not hide a charge inside an ungrounded shell. *(Guide: "Cavities and electrostatic shielding"; Practice Q3; revision notes self-check 4)*
 
 All ticked? Move on to [Topic 10.2, Redistribution of Charge Between Conductors](/advanced-course-resources/physics-c-electricity-and-magnetism/10-2-redistribution-charge-between-conductors-study-guide/), or return to the [course roadmap](/advanced-course-resources/physics-c-electricity-and-magnetism/#roadmap).

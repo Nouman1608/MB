@@ -128,7 +128,7 @@ Use a rectangle of length ℓ along y, placed symmetrically about the mid-plane,
 
 Suggested mark points (4): 1 for a symmetric rectangle with ∮B·dℓ = 2Bℓ; 1 for 6.3 × 10⁻⁴ T inside; 1 for 1.26 × 10⁻³ T outside with the statement that it does not depend on distance; 1 for the direction −y above.
 
-Common error: using a rectangle with only one long side in the field region and writing Bℓ = μ₀I_enc, which doubles the answers.
+Common error: using the symmetric rectangle but writing ∮B·dℓ = Bℓ, counting only one long side. Both long sides lie in the field, so this doubles the answers.
 </details>
 
 ## Question 6 (constructed response · core)

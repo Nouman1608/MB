@@ -203,7 +203,7 @@ A student finds the capacitance of an unlabelled capacitor. She charges it, then
 | 1 | τ ≈ 10 s and C ≈ 100 μF with units |
 | 1 | Voltmeter effect explained using the parallel resistance |
 
-Accept finding τ from the time for ΔV_C to fall to 0.37 × 8.00 = 2.94 V (about 10 s) as a check, but the graph method uses all the data and earns full credit.
+Accept finding τ from the time for ΔV_C to fall to e⁻¹ × 8.00 ≈ 0.368 × 8.00 = 2.94 V (about 10 s) as a check, but the graph method uses all the data and earns full credit.
 </details>
 
 ## How did you do?

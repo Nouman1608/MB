@@ -58,7 +58,7 @@ Short on time? This page is the recap. For the derivations, the figures and the 
 | Moment | Capacitor behaves like | Current in its branch | ΔV_C |
 |---|---|---|---|
 | Just after closing, uncharged | a wire | largest (set by the resistors) | 0 |
-| Just after, already charged | a battery of its present ΔV | jumps to ΔV/R | unchanged |
+| Just after, already charged | a battery of its present ΔV | jumps at once (ΔV/R if it discharges through a single resistor R) | unchanged |
 | Long after (t ≫ τ) | a break | 0 | its steady-state value |
 
 ## Assumptions

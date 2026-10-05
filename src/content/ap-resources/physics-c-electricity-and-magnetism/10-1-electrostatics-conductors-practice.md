@@ -76,7 +76,7 @@ An isolated metal object is shaped like a teardrop: one end is a broad, gently c
 
 ## Question 3 (multiple choice · core)
 
-A point charge of +4.0 nC is placed at the centre of the spherical cavity in a thick, **neutral** metal shell. It is then moved off-centre, still inside the cavity and not touching the wall. Which statement describes the change?
+A point charge of +4.0 nC is placed at the centre of the spherical cavity in a thick, **neutral**, spherical metal shell that is far from other charges. It is then moved off-centre, still inside the cavity and not touching the wall. Which statement describes the change?
 
 - (A) The charge on the inner surface becomes less than 4.0 nC in size, because part of it moves to the outer surface.
 - (B) The outer surface charge, +4.0 nC, gathers on the side nearest the point charge.

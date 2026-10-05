@@ -119,7 +119,7 @@ Three facts about dipoles that you must be able to use:
 
 An electric field can start on a positive charge and end on a negative charge. Nobody has ever found a **magnetic monopole**, an isolated N or S "magnetic charge". Every magnetic field is produced by dipoles, or by combinations of dipoles. If you cut a bar magnet in half, you get two shorter magnets, each with its own N and S pole.
 
-The mathematical statement is **Gauss's law for magnetism**, Maxwell's second equation:
+The mathematical statement is **Gauss's law for magnetism**. **Maxwell's equations** are a set of four equations that together describe all of electromagnetism; Gauss's law for electric fields (Topic 8.6) is the first, and this law is the second:
 
 **Φ_B = ∮ B·dA = 0**
 

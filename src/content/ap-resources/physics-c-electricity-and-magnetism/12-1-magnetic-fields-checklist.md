@@ -45,7 +45,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 ## Reasoning
 
-- I can predict which way a compass points by combining the fields of several poles, or of a magnet and Earth. *(Practice Q6)*
+- I can predict which way a compass points by combining the fields of several poles. *(Practice Q6)*
 - I can describe Earth's field as a dipole field and explain why the pole near the geographic North Pole is a magnetic south pole. *(Guide: "Earth as a magnet")*
 - I can explain why an unmagnetised iron object is attracted to either pole of a magnet. *(Practice Q5)*
 

@@ -84,7 +84,7 @@ Some values: κ = 1 for a vacuum (by definition), about 1.0006 for air, about 2.
 <figure>
 <svg viewBox="0 0 560 330" role="img" aria-labelledby="diel-pol-title diel-pol-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="diel-pol-title">A polarized dielectric between capacitor plates</title>
-<desc id="diel-pol-desc">A positive plate on the left and a negative plate on the right. A hatched slab of dielectric fills most of the gap. Inside it, small oval dipoles each have a minus end on the left and a plus end on the right. Along the slab's left face is a column of small minus signs, and along its right face a column of small plus signs: the induced surface charges. Below, three arrows: a long arrow pointing right labelled E nought from the free charge on the plates; a shorter arrow pointing left labelled E induced from the bound charge; and a short arrow pointing right labelled net field E equals E nought over kappa.</desc>
+<desc id="diel-pol-desc">A positive plate on the left and a negative plate on the right, each with its free charge on the face towards the gap. A hatched slab of dielectric fills most of the gap. Inside it, small oval dipoles each have a minus end on the left and a plus end on the right. Along the slab's left face is a column of small minus signs, and along its right face a column of small plus signs: the induced surface charges. Below, three arrows: a long arrow pointing right labelled E nought from the free charge on the plates; a shorter arrow pointing left labelled E induced from the bound charge; and a short arrow pointing right labelled net field E equals E nought over kappa.</desc>
 <defs>
 <marker id="dp-arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#1d2b44"/></marker>
 <pattern id="dp-hatch" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="12" stroke="#1d2b44" stroke-width="0.6" stroke-opacity="0.45"/></pattern>
@@ -92,8 +92,8 @@ Some values: κ = 1 for a vacuum (by definition), about 1.0006 for air, about 2.
 <rect x="110" y="30" width="10" height="190" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <rect x="440" y="30" width="10" height="190" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <g font-size="15" fill="#1d2b44" text-anchor="middle" font-weight="bold">
-<text x="98" y="60">+</text><text x="98" y="110">+</text><text x="98" y="160">+</text><text x="98" y="210">+</text>
-<text x="462" y="60">−</text><text x="462" y="110">−</text><text x="462" y="160">−</text><text x="462" y="210">−</text>
+<text x="130" y="60">+</text><text x="130" y="110">+</text><text x="130" y="160">+</text><text x="130" y="210">+</text>
+<text x="430" y="60">−</text><text x="430" y="110">−</text><text x="430" y="160">−</text><text x="430" y="210">−</text>
 </g>
 <rect x="140" y="40" width="280" height="170" fill="url(#dp-hatch)" stroke="#1d2b44" stroke-width="1.5"/>
 <g font-size="13" fill="#1d2b44" text-anchor="middle">

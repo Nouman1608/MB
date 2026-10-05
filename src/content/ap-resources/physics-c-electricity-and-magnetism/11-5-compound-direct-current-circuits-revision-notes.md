@@ -55,7 +55,7 @@ Short on time? This page is the recap. For the derivations, figures and worked e
 | Meter | Connected | Ideal resistance | A real one… |
 |---|---|---|---|
 | Ammeter | in series | zero | adds resistance, so current falls slightly |
-| Voltmeter | in parallel | infinite | adds a parallel path, so the reading is low |
+| Voltmeter | in parallel | infinite | adds a parallel path, which usually lowers the reading |
 
 ## Mistakes to avoid
 

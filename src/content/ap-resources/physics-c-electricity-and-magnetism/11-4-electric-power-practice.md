@@ -111,7 +111,7 @@ In a classroom demonstration, a 2.0 kg mass hangs from a cord wound round the ax
 3. (c) The remaining 2.6 W is dissipated as **thermal energy**, in the generator's coils (as I²r) and through friction at the axle.
 4. (d) Time to fall 1.5 m at 0.50 m/s: 3.0 s. Energy to the lamp = 7.2 W × 3.0 s = **22 J** (21.6 J), out of mgh = 29.4 J lost by the mass.
 
-Suggested mark points (4): 1 for mgv = 9.8 W; 1 for 7.2 W **and** the efficiency; 1 for identifying the missing 2.6 W as thermal energy; 1 for 22 J using the time (or for the fraction 0.73 × 29.4 J).
+Suggested mark points (4): 1 for mgv = 9.8 W; 1 for 7.2 W **and** the efficiency; 1 for identifying the missing 2.6 W as thermal energy; 1 for 22 J using the time (or for (7.2 ÷ 9.8) × 29.4 J).
 
 Common error: treating the lamp's power as the mechanical input, which ignores the generator's losses and gives 100% efficiency.
 </details>
