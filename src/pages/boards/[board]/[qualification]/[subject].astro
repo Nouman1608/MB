@@ -1,6 +1,5 @@
 ---
 import { teachingMonthLabel } from '../../../../utils/academic/teaching-month';
-import { recordRtlLang, nameRtlLang } from '../../../../utils/academic/rtl-names';
 /**
  * Academic hub — /boards/{board}/{qualification}/{subject}/
  *
@@ -20,12 +19,12 @@ import { getEntry } from 'astro:content';
 import PageLayout from '../../../../layouts/PageLayout.astro';
 import Section from '../../../../components/layout/Section.astro';
 import Container from '../../../../components/layout/Container.astro';
-import ResourceCard from '../../../../components/cards/ResourceCard.astro';
 import ArticleCard from '../../../../components/cards/ArticleCard.astro';
 import RelatedGrid from '../../../../components/layout/RelatedGrid.astro';
-import EmptyState from '../../../../components/ui/EmptyState.astro';
 import CTA from '../../../../components/ui/CTA.astro';
-import { activeOnly, offersClasses, offeringsForSubject, academicHubPath, boardPath, levelPath, LEVEL_FOR_QUALIFICATION, isFlagshipCode, type Combination } from '../../../../utils/academic';
+import CourseTopicResources from '../../../../components/academic/CourseTopicResources.astro';
+import { courseTopics } from '../../../../utils/academic/course-topics';
+import { activeOnly, offersClasses, offeringsForSubject, academicHubPath, boardPath, levelPath, isFlagshipCode, type Combination } from '../../../../utils/academic';
 import { subjectBySlug } from '../../../../data/academic/subjects';
 import { courseSubjectNameOverride } from '../../../../data/academic/matrix';
 import { syllabusFor } from '../../../../data/academic/syllabuses';
@@ -193,9 +192,10 @@ const allResources = await getResources();
 // revision tools and this hub cannot disagree about a combination's resources.
 const resources = resourcesForCombination(c, allResources);
 
-const study = resources.filter((r) => ['study-guides', 'revision-notes', 'subject-guides'].includes(r.data.resourceType));
-const revision = resources.filter((r) => r.data.resourceType === 'revision-notes');
-const examPrep = resources.filter((r) => ['past-papers', 'practice-questions', 'exam-preparation'].includes(r.data.resourceType));
+// Navigation round (6 Oct 2026): the course's resources by official topic,
+// grouped as study guides / revision notes / practice questions. Replaces
+// the three card grids that used to sit below the topic list.
+const topicData = courseTopics(c, allResources);
 const articles = await relatedArticles({ subject: hubSlug, limit: 3 });
 
 /**
@@ -204,14 +204,12 @@ const articles = await relatedArticles({ subject: hubSlug, limit: 3 });
  * plainly which topics we have material for — and which we do not.
  */
 const syllabusTopics = topicsFor(c.boardSlug, c.qualificationSlug, c.subjectSlug);
-const topicsRtlLang = recordRtlLang(syllabusTopics?.topics ?? []);
 const coverage = (syllabusTopics?.topics ?? []).map((t) => ({
   topic: t,
   resources: resources.filter((r) =>
     r.data.syllabusTopics.some((m) => m.qualification === c.qualificationSlug && m.topic === t.slug),
   ),
 }));
-const covered = coverage.filter((x) => x.resources.length > 0).length;
 const staged = syllabusTopics ? hasStages(syllabusTopics) : false;
 /**
  * A staged syllabus is presented as clearly separated stages, never one flat
@@ -260,6 +258,7 @@ const groups: { label: string; note: string; items: typeof coverage }[] = staged
         note: `${topicRange(stageItems(undefined).map((x) => x.topic.number))}. Marlbridge's topic record does not assign ${stageItems(undefined).length === 1 ? 'this topic' : 'these topics'} to the AS or the A-level-only content; check the specification.` },
     ].filter((g) => g.items.length > 0)
   : [{ label: '', note: '', items: coverage }];
+const topicGroups = groups.map((g) => ({ label: g.label, note: g.note, slugs: g.items.map((x) => x.topic.slug) }));
 
 /** The other approved qualifications for this subject — the sibling hubs. */
 const siblings = offeringsForSubject(c.subjectSlug).filter((o) => o.qualificationSlug !== c.qualificationSlug);
@@ -569,12 +568,16 @@ const jsonLd = [
     ? `${syllabus.officialTitle}${editionYears ? ` — the ${c.board} ${docWord.toLowerCase()} for exams in ${editionYears}` : ''}. What it covers, how it is assessed, a link to the official ${docWord.toLowerCase()}, and the free study material Marlbridge publishes for it.`
     : `${c.subject} for ${boardQualPhrase} — what the qualification covers, and the study material Marlbridge publishes for it.`}
   breadcrumbs={[
+    // Navigation round (6 Oct 2026): Study resources > qualification > board
+    // > this course, the order a student chooses them in. The qualification
+    // page (/levels/<q>/) lists every board and subject for it, and has an
+    // anchor per board. The subject page stays linked from "About this course".
     { label: 'Home', href: routes.home },
-    { label: 'Subjects', href: routes.subjects },
-    // B15 -- a renamed course (9626) names its parent subject page by that
-    // page's own title ("ICT") and itself in full ("... Information Technology").
-    { label: courseRenamed ? (subjectEntry?.data.title ?? c.subject) : c.subject, href: routes.subject(hubSlug) },
-    { label: courseRenamed ? heading : boardQualPhrase, href: path },
+    { label: 'Study resources', href: routes.resources },
+    { label: c.qualification, href: levelPath(c.qualificationSlug) },
+    ...(c.boardSlug === 'ib' ? [] : [{ label: c.board, href: `${levelPath(c.qualificationSlug)}#${c.boardSlug}` }]),
+    // B15 -- a renamed course (9626) is named in full.
+    { label: `${courseRenamed ? heading : c.subject}${syllabus && hasRealCode ? ` (${syllabus.code})` : ''}`, href: path },
   ]}
   jsonLd={jsonLd}
 >
@@ -584,7 +587,21 @@ const jsonLd = [
     )}
     <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Board </dt><dd class="m-0 inline text-ink-mute"><a href={boardPath(c.boardSlug)} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{c.board}</a></dd></div>
     <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Qualification </dt><dd class="m-0 inline text-ink-mute"><a href={levelPath(c.qualificationSlug)} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{c.qualification}</a></dd></div>
+    <div class="m-0"><dt class="sr-only">Not your course? </dt><dd class="m-0 inline"><a href={routes.resources} data-change-course class="inline-flex min-h-11 items-center font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600 lg:min-h-0">Change course</a></dd></div>
   </dl>
+
+  {/* Navigation round (6 Oct 2026): tuition stays one click away without
+      sitting between the student and the topics. */}
+  {classesOffered && (
+    <p slot="hero-extra" class="m-0 mt-4 text-[15px]">
+      {tuitionPage
+        ? <a href="#tuition" class="inline-flex min-h-11 items-center text-ink-mute underline decoration-gold-500 underline-offset-2 hover:text-gold-600">Online tuition for this course: teachers, fees and a free trial</a>
+        : <a href={hubTrialHref} data-cta="hub-trial-hero" class="inline-flex min-h-11 items-center text-ink-mute underline decoration-gold-500 underline-offset-2 hover:text-gold-600">Want a teacher? Request a free trial class</a>}
+    </p>
+  )}
+
+  {/* Remember this course for the student's next pages (scripts/course-context.ts). */}
+  <div slot="hero-extra" hidden data-course-context={JSON.stringify({ id: `${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`, label: `${heading}${syllabus && hasRealCode ? ` (${syllabus.code})` : ''}`, hub: path, ...(syllabus && hasRealCode ? { code: syllabus.code } : {}) })}></div>
 
   {/* D-301 -- Pagefind filters, so a filtered search keeps the hubs:
       same Board/Qualification/Subject values the resource pages use. */}
@@ -594,6 +611,27 @@ const jsonLd = [
     <span data-pagefind-filter={`Qualification:${c.qualification}`}></span>
     {subjectEntry && <span data-pagefind-filter={`Subject:${subjectEntry.data.title}`}></span>}
   </div>
+
+  <Section surface="white" spacing="md">
+    <Container>
+      <CourseTopicResources
+        data={topicData}
+        record={syllabusTopics}
+        courseLabel={`${heading}${syllabus && hasRealCode ? ` (${syllabus.code})` : ''}`}
+        searchLabel={syllabus && hasRealCode ? `${courseRenamed ? heading : c.subject} (${syllabus.code})` : heading}
+        groups={topicGroups}
+        tools={[
+          ...hubDiagnostics.map((d) => ({ href: diagnosticPath(d), label: 'Test yourself in 10 minutes', detail: d.scopeLabel, cta: 'hub-tool-diagnostic' })),
+          ...(practiceCount > 0 ? [{ href: `/practice/${syllabus!.code}/`, label: 'Self-check practice', detail: `${practiceCount} questions with worked answers`, cta: 'hub-tool-practice' }] : []),
+          ...(checklistHref ? [{ href: checklistHref, label: 'Printable topic checklist', detail: 'Tick off each topic as you revise', cta: 'hub-tool-checklist' }] : []),
+        ]}
+        board={c.board}
+        officialTitle={syllabus?.officialTitle ?? `${boardQualPhrase} ${c.subject}`}
+        isMyp={c.qualificationSlug === 'ib-myp'}
+      />
+    </Container>
+  </Section>
+
 
   {/*
     v1.2 WS10 — a concise, answer-first "at a glance" box near the top of
@@ -606,7 +644,7 @@ const jsonLd = [
   */}
   <Section surface="ivory" labelledby="at-a-glance-heading" spacing="md" border>
     <Container>
-      <h2 id="at-a-glance-heading" class="sr-only">At a glance</h2>
+      <h2 id="at-a-glance-heading" class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">About this course</h2>
       <dl class="m-0 grid gap-x-8 gap-y-4 text-[15px] sm:grid-cols-2 lg:grid-cols-3">
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Qualification</dt><dd class="m-0 mt-1 text-ink">{boardQualPhrase} {c.subject}</dd></div>
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Spec code</dt><dd class="m-0 mt-1 text-ink">{syllabus?.code ?? 'Being verified'}</dd></div>
@@ -641,20 +679,6 @@ const jsonLd = [
     </Container>
   </Section>
 
-  {tuitionPage && (
-    <TuitionPanel
-      c={c}
-      page={tuitionPage}
-      courseLabel={`${heading}${syllabus ? ` (${syllabus.code})` : ''}`}
-      code={syllabus?.code}
-      subjectEntry={subjectEntry}
-      hubSlug={hubSlug}
-      sampleResources={sampleResources}
-      faqs={tuitionFaqList}
-      practiceHref={practiceCount > 0 ? `/practice/${syllabus!.code}/` : undefined}
-      checklistHref={syllabusTopics ? `${routes.checklists}${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}/` : undefined}
-    />
-  )}
 
   <Section surface="white">
     <Container>
@@ -832,145 +856,20 @@ const jsonLd = [
     </Container>
   </Section>
 
-  <Section surface="ivory" labelledby="topics-heading" border>
-    <Container>
-      <h2 id="topics-heading" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Syllabus topics</h2>
-      {syllabusTopics ? (
-        <>
-          {c.qualificationSlug === 'ib-myp' ? (
-            <p class="m-0 mb-2 max-w-[70ch] text-[16.5px] leading-[1.65] text-ink-mute">
-              MYP subjects have no numbered content syllabus: schools design their own units. The {syllabusTopics.topics.length} headings below
-              are Marlbridge's own summary of the IB's published
-              <a href={syllabusTopics.sourceUrl} rel="nofollow noopener" class="underline decoration-gold-500 underline-offset-2"> subject brief</a> for
-              <strong class="font-semibold text-navy-800"> {syllabus?.officialTitle ?? `${boardQualPhrase} ${c.subject}`}</strong>,
-              not official subject content.
-            </p>
-          ) : (
-            <p class="m-0 mb-2 max-w-[70ch] text-[16.5px] leading-[1.65] text-ink-mute">
-              The {syllabusTopics.topics.length} topics below are taken from the
-              <a href={syllabusTopics.sourceUrl} rel="nofollow noopener" class="underline decoration-gold-500 underline-offset-2"> official {c.board} document</a> for
-              <strong class="font-semibold text-navy-800"> {syllabus?.officialTitle ?? `${boardQualPhrase} ${c.subject}`}</strong>,
-              {/^\d/.test(syllabusTopics.syllabusSeries) ? `for the ${syllabusTopics.syllabusSeries} examination series` : syllabusTopics.syllabusSeries.replace(/^(For|First|From)\b/, (w) => w.toLowerCase())}, and follow that document's own headings. Where a syllabus
-              lists its papers or components rather than content topics, those are shown instead.
-              {syllabusTopics.subtopicsComplete
-                ? ' Every subtopic the document lists is shown.'
-                : ' Subtopics are shown where Marlbridge has entered them from the document; a topic shown with few or no subtopics may have more in the official document.'}
-            </p>
-          )}
-          {syllabusTopics.subtopicsCaveat && (
-            <p class="m-0 mb-2 max-w-[70ch] rounded-sm border-l-2 border-gold-500 pl-3 text-[15.5px] leading-[1.6] text-ink-mute" data-subtopics-caveat>{syllabusTopics.subtopicsCaveat}</p>
-          )}
-          <p class="m-0 mb-[clamp(24px,3vw,40px)] max-w-[70ch] text-[15.5px] leading-[1.6] text-ink-mute">
-            A topic listed here is part of the syllabus. It does <strong class="font-semibold text-navy-800">not</strong> mean
-            Marlbridge has published material for it — topics with resources are marked.
-            Marlbridge currently has resources for {covered} of {syllabusTopics.topics.length} topics.
-          </p>
-
-          {groups.map((g) => (
-            <section class={g.label ? 'mt-[clamp(32px,4vw,48px)] first:mt-0' : ''} aria-label={g.label || undefined}>
-              {g.label && (
-                <div class="mb-4 border-t-2 border-navy-800 pt-4">
-                  <h3 class="m-0 text-[19px] font-semibold tracking-[-0.01em] text-navy-800">{g.label}</h3>
-                  <p class="m-0 mt-1 text-[15px] text-ink-mute">{g.note}</p>
-                </div>
-              )}
-              <ol class="m-0 list-none border-t border-rule p-0">
-                {g.items.map(({ topic, resources: got }) => (
-                  <li class="m-0 border-b border-rule py-4">
-                    <div class="flex flex-wrap items-baseline justify-between gap-x-6 gap-y-2">
-                      <p class="m-0 flex items-baseline gap-3 text-[17px] text-ink">
-                        <span class="font-mono text-[12px] text-gold-600">
-                          {topic.stage ? `${topic.stage} ` : ''}{topic.number}
-                        </span>
-                        <span>{nameRtlLang(topic.name, topicsRtlLang) ? <bdi dir="rtl" lang={nameRtlLang(topic.name, topicsRtlLang)}>{topic.name}</bdi> : topic.name}</span>
-                      </p>
-                      {got.length > 0 ? (
-                        <span class="shrink-0 rounded-sm border border-[#B7D8C6] bg-[#EEF7F1] px-2 py-0.5 font-mono text-[10.5px] uppercase tracking-[0.08em] text-success">
-                          {got.length} Marlbridge {got.length === 1 ? 'resource' : 'resources'}
-                        </span>
-                      ) : (
-                        <span class="shrink-0 font-mono text-[10.5px] uppercase tracking-[0.08em] text-ink-mute">
-                          Syllabus topic · no resource yet
-                        </span>
-                      )}
-                    </div>
-                    {got.length > 0 && (
-                      <ul class="m-0 mt-2.5 list-none p-0 ps-[calc(1.5rem+12px)]">
-                        {got.map((r) => (
-                          <li class="m-0">
-                            <a href={`/resources/${r.id}/`} class="text-[15.5px] underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{r.data.title}</a>
-                          </li>
-                        ))}
-                      </ul>
-                    )}
-                    {topic.subtopics.length > 0 && (
-                      <p class="m-0 mt-2 ps-[calc(1.5rem+12px)] text-[14px] leading-relaxed text-ink-mute">
-                        {topic.subtopics.map((st: { name: string }, i: number) => (
-                          <>
-                            {i > 0 && ' · '}
-                            {nameRtlLang(st.name, topicsRtlLang) ? <bdi dir="rtl" lang={nameRtlLang(st.name, topicsRtlLang)}>{st.name}</bdi> : st.name}
-                          </>
-                        ))}
-                      </p>
-                    )}
-                  </li>
-                ))}
-              </ol>
-            </section>
-          ))}
-
-          <p class="m-0 mt-6 text-[14px] text-ink-mute">
-            Source: {syllabusTopics.source} — {/^\d/.test(syllabusTopics.syllabusSeries) ? `${syllabusTopics.syllabusSeries} series` : syllabusTopics.syllabusSeries}. Verified {syllabusTopics.verifiedDate}.
-            {syllabusTopics.tiered ? ' This syllabus is tiered -- see the qualification summary above for the exact tier structure.' : ''}
-            Always check the current syllabus for your examination year.
-          </p>
-        </>
-      ) : (
-        <EmptyState
-          heading="Syllabus topics are being verified"
-          body="Topics are published here once confirmed against the awarding body's syllabus document."
-          primary={{ label: 'Browse all resources', href: routes.resources }}
-        />
-      )}
-    </Container>
-  </Section>
-
-  <Section surface="white">
-    <Container>
-      <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Study resources</h2>
-      {study.length > 0 ? (
-        <ul class="m-0 mt-6 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
-          {study.map((r) => <li class="m-0"><ResourceCard entry={r} subjectTitle={c.subject} /></li>)}
-        </ul>
-      ) : (
-        <div class="mt-6"><EmptyState heading="No study guides yet for this qualification" body="Study guides are published as they are written." primary={{ label: 'All resources', href: routes.resources }} /></div>
-      )}
-
-      <h2 class="m-0 mb-3 mt-[clamp(48px,6vw,80px)] text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Revision material</h2>
-      {revision.length > 0 ? (
-        <ul class="m-0 mt-6 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
-          {revision.map((r) => <li class="m-0"><ResourceCard entry={r} subjectTitle={c.subject} /></li>)}
-        </ul>
-      ) : (
-        <div class="mt-6"><EmptyState heading="No revision notes yet for this qualification" body="Condensed revision notes are added ahead of each examination series." primary={{ label: 'All resources', href: routes.resources }} /></div>
-      )}
-
-      <h2 class="m-0 mb-3 mt-[clamp(48px,6vw,80px)] text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Exam preparation</h2>
-      {examPrep.length > 0 ? (
-        <ul class="m-0 mt-6 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
-          {examPrep.map((r) => <li class="m-0"><ResourceCard entry={r} subjectTitle={c.subject} /></li>)}
-        </ul>
-      ) : (
-        <div class="mt-6">
-          <EmptyState
-            heading="Past papers and practice questions are not published yet"
-            body={`Past papers for ${syllabus?.code ?? 'this syllabus'} are available from ${c.board} directly. Marlbridge practice material for this qualification is being written.`}
-            primary={{ label: 'All resources', href: routes.resources }}
-          />
-        </div>
-      )}
-    </Container>
-  </Section>
+  {tuitionPage && (
+    <TuitionPanel
+      c={c}
+      page={tuitionPage}
+      courseLabel={`${heading}${syllabus ? ` (${syllabus.code})` : ''}`}
+      code={syllabus?.code}
+      subjectEntry={subjectEntry}
+      hubSlug={hubSlug}
+      sampleResources={sampleResources}
+      faqs={tuitionFaqList}
+      practiceHref={practiceCount > 0 ? `/practice/${syllabus!.code}/` : undefined}
+      checklistHref={syllabusTopics ? `${routes.checklists}${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}/` : undefined}
+    />
+  )}
 
   {!tuitionPage && courseVideos.length > 0 && (
     <Section surface="white" spacing="md">
@@ -1034,3 +933,13 @@ const jsonLd = [
     />
   )}
 </PageLayout>
+
+<script>
+  // Navigation round (6 Oct 2026): visiting a course page makes it the
+  // student's current course (scripts/course-context.ts).
+  import { setCourse } from '../../../../scripts/course-context';
+  const el = document.querySelector<HTMLElement>('[data-course-context]');
+  if (el?.dataset.courseContext) {
+    try { setCourse(JSON.parse(el.dataset.courseContext)); } catch { /* ignore */ }
+  }
+</script>

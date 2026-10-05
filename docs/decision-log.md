@@ -15367,3 +15367,41 @@ Practice questions are labelled by criterion A–D with the "revision aid, not I
 **Validation (22:05 PKT).** `validate-ap-library` 2,388/2,388; `validate:academic`, `check:duplicate-scope`, `validate-review-integrity` PASS; `npm run build` OK; `audit:all` PASS after making two identical task-verb descriptions distinct. Hub section and a guide checked at 390 px (no horizontal scroll).
 
 **Owner decisions.** Merge to main (publishes); AP teacher review; Search Console indexing of the new pages.
+
+## D-395 - Navigation: one study-resource journey, Qualification > Exam board > Subject > Topic (2026-10-06)
+
+**Owner brief (6 Oct 2026, 00:51 PKT):** simplify navigation and resource discovery so a first-time student quickly finds the right material for their qualification, exam board, subject and topic. Use the existing architecture, no second resource system, keep URLs, content, syllabus distinctions and SEO metadata.
+
+**What was checked first (local build of main, 6 Oct):** all four suspected problems were real.
+- Five overlapping starting points in the menu (Programs, Subjects, Resources, Tutoring, Search), plus Boards and Qualifications in the footer.
+- /resources/ led with resource types and repeated the subject list once per type (six lists, up to 34 links each).
+- Subject pages mixed every course: /subjects/chemistry/ showed 222 study cards from six boards in one grid.
+- Course pages put tuition first: on the 0620 page the topic list started about 5,400px down (7,800px on a phone), and revision notes were listed twice.
+
+Three more problems turned up:
+- "Previous / Next" on resource pages matched on the topic name only, so 478 links crossed courses (e.g. "Organic chemistry" chained AQA, Edexcel and Cambridge pages).
+- AQA AS Business (7131/7137) and A-level Business (7132) listed each other's resources.
+- Shared 0620/5070 pages always sent O Level readers to IGCSE next steps.
+
+**Changes:**
+- **Menu:** Study resources, Tuition, Pricing, For Schools, About, Search. Programs and Subjects leave the main menu but stay linked: Tuition lists the programme pages, /resources/ links Subjects, and the footer keeps both. The current section is marked.
+- **/resources/ is "Find study resources":** qualification, then exam board, then subject, as labelled radio buttons, ending in a list of course links with syllabus codes and resource counts (`CourseFinder.astro`, built from the existing `catalogueIndex()`; it replaces `SyllabusFinder`). Without JavaScript the full directory shows. Below it: whole-library search, free tools, one subject-by-type table (keeps every /resources/<type>/<subject>/ link and the #study-guides-style anchors), and a plain-language note on study resources vs subjects vs tuition.
+- **Homepage:** the hero's second button is "Find study resources"; the band under the hero is the same finder plus the diagnostic and planner. The type-first resources band and the long subject band are replaced by one line of subject links.
+- **Course pages:** "Topics and resources" comes first. Each official topic lists its study guides, revision notes and practice questions side by side (`CourseTopicResources.astro`, `course-topics.ts`), with a search box that only searches that course and an empty state that suggests next steps. Tuition is one link in the header area; the tuition section now follows the course facts. The three duplicate card grids are gone; every resource is still linked.
+- **Course memory:** visiting a course page, or choosing one in the finder, stores it in this browser (`mb-course`, listed on the cookie page). Resource pages name their course and topic, link back to the topic, and offer "Change course". A page shared by two courses (0620/5070) shows the links for the student's course. Resource pages never choose a course themselves.
+- **Breadcrumbs:** Home > Study resources > qualification > exam board > course on course pages; Home > Study resources > course > topic > page on resource pages. Crumbs that are in-page anchors are left out of the BreadcrumbList data.
+- **Subject and type pages:** resources grouped by course (with codes) instead of one mixed grid. Subject pages now match courses by the subject registry's hubId, so English Language courses appear on /subjects/english/.
+- **Course rules:** `resourcesForCombination()` also requires a tagged qualification to match (fixes AQA AS/A-level Business). New `sameCourse()` limits "Previous / Next" and "Related resources" to the page's own course.
+- **Accessibility:** controls on phones are at least 44px tall; the finder and the course search announce their results; the focus outline is navy on light backgrounds (gold, at about 2.4:1, was below the 3:1 minimum) and stays gold on navy.
+
+**URLs and SEO:** no page added or removed (5,948 HTML files before and after); sitemap, `_redirects`, `_headers` and robots.txt are byte-identical; every title, canonical and robots tag is unchanged. Only 2 meta descriptions changed: the AQA Business resource counts, now correct (10 to 6 on 7132). No redirects were needed.
+
+**Tests:**
+- New `scripts/audit-course-isolation.mjs` (added to `audit:all`) reads the built HTML and checks that nothing shown inside a course belongs to another course, and that subject pages still link every resource. It passes on 160 course pages, 2,767 resource pages and 5,603 grouped links. On the old build it finds 478 cross-course Previous/Next links.
+- New `scripts/e2e-navigation-journeys.mjs` (Playwright, run by hand against a local build): 11 of 11 journeys pass. They include 0620 atomic-structure notes to practice questions on desktop and on a 390px phone; every qualification and board choice showing only that course family; keyboard-only selection; and the site with JavaScript off.
+- An independent review found one blocker (/subjects/english/ had lost its 61 resource links) and several smaller issues; all except the newsletter preset (below) were fixed.
+
+**Not done:**
+- The newsletter box on a shared 0620/5070 page is still preset to the primary course.
+- `resourcesForCombination()` does not compare syllabus codes. No two published courses share board, qualification and subject today, so nothing leaks, but adding it would need care for Pearson IAL unit codes.
+- Playwright is not a project dependency, so the journey script is not in CI.

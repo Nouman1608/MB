@@ -30,8 +30,6 @@ import HowTuitionWorks from '../components/sections/HowTuitionWorks.astro';
 import StudentOutcomes from '../components/sections/StudentOutcomes.astro';
 import AcademyResults from '../components/sections/AcademyResults.astro';
 import TuitionOptions from '../components/sections/TuitionOptions.astro';
-import SubjectsSection from '../components/sections/SubjectsSection.astro';
-import ResourcesSection from '../components/sections/ResourcesSection.astro';
 import HomeFaq from '../components/sections/HomeFaq.astro';
 import FinalCta from '../components/sections/FinalCta.astro';
 import EditorialBand from '../components/sections/EditorialBand.astro';
@@ -58,7 +56,8 @@ const faq = faqNode(TUITION_FAQS);
   {/* 1-2. What is taught, for whom, by whom, and the primary action. */}
   <HomeHero />
 
-  {/* D-286: the free revision tools, one scroll below the trial CTA. */}
+  {/* D-286: the free revision tools, one scroll below the trial CTA.
+      Navigation round (6 Oct 2026): led by "Find study resources". */}
   <FreeRevisionTools />
 
   {/* 3. Priority programmes. */}
@@ -79,9 +78,9 @@ const faq = faqNode(TUITION_FAQS);
   {/* 7. Group vs one-to-one, and the entry point to real fees. */}
   <TuitionOptions />
 
-  {/* 8-9. Subject selection and the free resource library. */}
-  <SubjectsSection />
-  <ResourcesSection />
+  {/* 8-9. Navigation round (6 Oct 2026): subject selection and the resource
+      library now live in "Find study resources" (FreeRevisionTools), one
+      scroll below the hero, instead of two more bands here. */}
 
   {/* 10. Practical questions, then the closing trial invitation. */}
   <HomeFaq />

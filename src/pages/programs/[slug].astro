@@ -43,6 +43,9 @@ const path = routes.program(program.id);
 
 const subjects = (await Promise.all(d.subjects.map((ref) => getEntry(ref)))).filter(Boolean);
 const resources = await relatedResources({ level: d.level, limit: 3 });
+/** Navigation round (6 Oct 2026): where this programme's free study resources start. */
+const QUALIFICATION_FOR_PROGRAM: Record<string, string> = { igcse: 'igcse', 'o-levels': 'o-level', 'a-levels': 'a-level', gcse: 'gcse' };
+const resourcesStart = QUALIFICATION_FOR_PROGRAM[program.id] ? `/levels/${QUALIFICATION_FOR_PROGRAM[program.id]}/` : routes.resources;
 
 const availabilityCopy = {
   'teaching': 'This program is taught by Marlbridge today.',
@@ -210,6 +213,9 @@ const jsonLd = [
           ))}
         </RelatedGrid>
       )}
+      <p class="m-0 mt-5 text-[15.5px] text-ink-mute">
+        Free study resources: <a href={resourcesStart} class="font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">choose your exam board and subject</a> to see each course's topics, notes and practice questions.
+      </p>
 
       {d.marlbridgeTeaches === 'teaching' && <ProgramTeachers level={d.level} programTitle={d.title} />}
 

@@ -69,7 +69,11 @@
   h1, h2, h3 { text-wrap: balance; }
   a { color: var(--color-navy-800); text-decoration: none; }
   a:hover { color: var(--color-gold-600); }
-  :focus-visible { outline: 2px solid var(--color-gold-500); outline-offset: 3px; }
+  /* Navigation round (6 Oct 2026): gold on white/ivory is about 2.4:1, below
+     the 3:1 needed for a focus indicator, so light surfaces use navy; the
+     navy header, footer and bands keep the gold ring. */
+  :focus-visible { outline: 2px solid var(--color-navy-800); outline-offset: 3px; }
+  :is(header, footer, .bg-navy-800, .bg-navy-900) :focus-visible { outline-color: var(--color-gold-500); }
   ::selection { background: var(--color-navy-800); color: var(--color-ivory); }
   img { max-width: 100%; height: auto; }
 }

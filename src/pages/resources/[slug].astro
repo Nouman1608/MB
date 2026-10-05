@@ -20,7 +20,8 @@ import { matrixSlugsFor } from '../../utils/content/status';
 import { courseSubjectNameOverride } from '../../data/academic/matrix';
 import { teachersForSubjectTitle } from '../../utils/content/subject-teachers';
 import ResourceNextSteps from '../../components/tools/ResourceNextSteps.astro';
-import { resourceNextSteps } from '../../utils/content/resource-next-steps';
+import { resourceNextSteps, resourceCoursePlans } from '../../utils/content/resource-next-steps';
+import { topicAnchor } from '../../utils/academic/course-topics';
 import { onThisTopicLinks } from '../../utils/content/next-steps';
 import VideoSection from '../../components/media/VideoSection.astro';
 import { videosForResource } from '../../utils/content/media';
@@ -237,11 +238,25 @@ const pageNoindex = d.noindex || d.reviewStatus === 'archived';
  * scroll to 90%, where Next steps sits). The line is omitted when there is
  * no same-topic link. See src/utils/content/next-steps.ts.
  */
-const nextStepsPlan = await resourceNextSteps(resource);
+/**
+ * Navigation round (6 Oct 2026) -- the course(s) this resource belongs to,
+ * primary first. The page names the course near the top, puts it in the
+ * breadcrumb (Study resources > course > topic), and renders the "On this
+ * topic" and "Next steps" links for each course; a small script shows the
+ * set for the student's chosen course (scripts/course-context.ts).
+ */
+const coursePlans = await resourceCoursePlans(resource);
+const primaryPlan = coursePlans[0];
+const nextStepsPlan = primaryPlan ? { course: primaryPlan.course, steps: primaryPlan.steps } : await resourceNextSteps(resource);
 const onThisTopic = onThisTopicLinks(nextStepsPlan.steps, routes.resource(resource.id));
+const onThisTopicOptions = coursePlans.map((p) => ({ id: p.id, links: onThisTopicLinks(p.steps, routes.resource(resource.id)) }));
+const crumbFor = (p: (typeof coursePlans)[number]) => ({
+  course: { label: p.label, href: p.hubHref },
+  topic: p.topic ? { label: p.topic.name, href: `${p.hubHref}#${topicAnchor(p.topic.slug)}` } : { label: 'All topics', href: `${p.hubHref}#topics` },
+});
 
 const siblings = await topicSiblings(resource);
-const alsoResources = await relatedResources({ subject: d.subject.id, topic: d.topic, boards: d.boards, excludeId: resource.id, picked: d.relatedResources, limit: 3 });
+const alsoResources = await relatedResources({ subject: d.subject.id, topic: d.topic, boards: d.boards, excludeId: resource.id, picked: d.relatedResources, limit: 3, sameCourseAs: resource });
 const alsoArticles = await relatedArticles({ subject: d.subject.id, picked: d.relatedArticles, limit: 2 });
 
 const jsonLd = [articleNode({
@@ -266,15 +281,75 @@ const jsonLd = [articleNode({
   publishedDate={d.publishedDate}
   updatedDate={d.updatedDate}
   author={author?.data.name}
-  breadcrumbs={[
+  breadcrumbs={primaryPlan ? [
     { label: 'Home', href: routes.home },
-    { label: 'Resources', href: routes.resources },
+    { label: 'Study resources', href: routes.resources },
+    crumbFor(primaryPlan).course,
+    crumbFor(primaryPlan).topic,
+    { label: d.title, href: path },
+  ] : [
+    { label: 'Home', href: routes.home },
+    { label: 'Study resources', href: routes.resources },
     { label: meta.title, href: routes.resourceTypeAnchor(d.resourceType) },
     { label: d.title, href: path },
   ]}
   jsonLd={jsonLd}
   noindex={pageNoindex}
 >
+  {coursePlans.length > 0 && (
+    <nav slot="hero-extra" aria-label="Course" data-course-bar class="mt-6 max-w-[72ch] rounded-sm border border-rule bg-white px-4 py-3 text-[14.5px]">
+      {coursePlans.map((p, i) => (
+        <div data-course-option={p.id} hidden={i > 0}
+          data-course-label={p.label} data-course-hub={p.hubHref} data-course-code={p.code}
+          data-crumb-course-label={crumbFor(p).course.label} data-crumb-course-href={crumbFor(p).course.href}
+          data-crumb-topic-label={crumbFor(p).topic.label} data-crumb-topic-href={crumbFor(p).topic.href}
+          class="grid gap-1">
+          <p class="m-0 flex flex-wrap items-baseline gap-x-3">
+            <span class="font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Course</span>
+            <a href={p.hubHref} class="inline-flex min-h-11 items-center font-semibold sm:min-h-0 text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{p.label}</a>
+          </p>
+          <p class="m-0 flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1">
+            {p.topic
+              ? <a href={`${p.hubHref}#${topicAnchor(p.topic.slug)}`} class="inline-flex min-h-11 items-center text-navy-800 underline decoration-gold-500 sm:min-h-0 underline-offset-2 hover:text-gold-600">Topic {p.topic.number}: {p.topic.name}</a>
+              : <span class="text-ink-mute">Covers more than one topic</span>}
+            <span class="flex gap-x-3">
+              <a href={`${p.hubHref}#topics`} class="inline-flex min-h-11 items-center text-ink-mute underline decoration-gold-500 sm:min-h-0 underline-offset-2 hover:text-gold-600">All topics</a>
+              <a href={routes.resources} data-change-course class="inline-flex min-h-11 items-center text-ink-mute underline decoration-gold-500 sm:min-h-0 underline-offset-2 hover:text-gold-600">Change course</a>
+            </span>
+          </p>
+        </div>
+      ))}
+      {coursePlans.length > 1 && (
+        <p class="m-0 mt-1.5 text-[13.5px] text-ink-mute" data-course-also>
+          Also written for:{' '}
+          {coursePlans.map((p, i) => (
+            <a href={p.hubHref} data-course-also-link={p.id} hidden={i === 0} class="me-2 underline decoration-rule underline-offset-2 hover:text-gold-600">{p.label}</a>
+          ))}
+        </p>
+      )}
+    </nav>
+  )}
+
+  {(coursePlans.length > 0 ? onThisTopicOptions : [{ id: '', links: onThisTopic }]).some((o) => o.links.length > 0) && (
+    <div slot="hero-extra" data-testid="on-this-topic" class="mt-4">
+      {(coursePlans.length > 0 ? onThisTopicOptions : [{ id: '', links: onThisTopic }]).map((o, i) => (
+        <nav aria-labelledby={`on-this-topic-label-${i}`} data-course-option={o.id || undefined} hidden={i > 0} class="flex flex-wrap items-center gap-x-3 gap-y-1 text-[14.5px]">
+          <span id={`on-this-topic-label-${i}`} class="font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">On this topic:</span>
+          {o.links.length > 0 ? (
+            <ul class="m-0 flex list-none flex-wrap items-center gap-x-2 gap-y-1 p-0">
+              {o.links.map((l, j) => (
+                <li class="m-0 flex items-center gap-x-2">
+                  {j > 0 && <span aria-hidden="true" class="text-ink-mute">·</span>}
+                  <a href={l.href} data-on-this-topic={l.kind} title={l.title} class="inline-flex min-h-11 items-center font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600 sm:min-h-6">{l.label}</a>
+                </li>
+              ))}
+            </ul>
+          ) : <span class="text-ink-mute">no other page on this topic yet</span>}
+        </nav>
+      ))}
+    </div>
+  )}
+
   <dl slot="hero-extra" class="m-0 mt-7 flex flex-wrap gap-x-8 gap-y-3 text-[14px]">
     <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Subject </dt><dd class="m-0 inline"><a href={routes.subject(d.subject.id)} data-pagefind-filter="Subject" class="underline decoration-rule underline-offset-2">{subject?.data.title}</a></dd></div>
     <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Level </dt><dd class="m-0 inline text-ink-mute" data-pagefind-filter="Level">{levels}</dd></div>
@@ -290,19 +365,6 @@ const jsonLd = [articleNode({
     )}
   </dl>
 
-  {onThisTopic.length > 0 && (
-    <nav slot="hero-extra" aria-labelledby="on-this-topic-label" data-testid="on-this-topic" class="mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-[14.5px]">
-      <span id="on-this-topic-label" class="font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">On this topic:</span>
-      <ul class="m-0 flex list-none flex-wrap items-center gap-x-2 gap-y-1 p-0">
-        {onThisTopic.map((l, i) => (
-          <li class="m-0 flex items-center gap-x-2">
-            {i > 0 && <span aria-hidden="true" class="text-ink-mute">·</span>}
-            <a href={l.href} data-on-this-topic={l.kind} title={l.title} class="inline-flex min-h-6 items-center font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{l.label}</a>
-          </li>
-        ))}
-      </ul>
-    </nav>
-  )}
 
   {/* Provenance and a correction path -- syllabus alignment plus a link to the
       official specification and a way to report an error. The universal,
@@ -402,7 +464,7 @@ const jsonLd = [articleNode({
         </nav>
       )}
 
-      <ResourceNextSteps resource={resource} plan={nextStepsPlan} />
+      <ResourceNextSteps resource={resource} plan={nextStepsPlan} options={coursePlans.length > 1 ? coursePlans.map((p) => ({ id: p.id, steps: p.steps })) : undefined} />
 
       {alsoResources.length > 0 && (
         <RelatedGrid id="also-resources" title="Related resources">
@@ -496,4 +558,39 @@ const jsonLd = [articleNode({
       } catch { /* never block navigation */ }
     });
   });
+</script>
+
+<script>
+  /**
+   * Navigation round (6 Oct 2026) -- keep the student's course. If this page
+   * also serves the course they chose (e.g. it covers both IGCSE 0620 and
+   * O Level 5070), show that course's links and breadcrumb instead of the
+   * primary one. A page that does not belong to their course is left as it
+   * is: it names its own course, so nothing from another course is passed
+   * off as theirs.
+   */
+  import { getCourse } from '../../scripts/course-context';
+  const bar = document.querySelector<HTMLElement>('[data-course-bar]');
+  const options = bar ? [...bar.querySelectorAll<HTMLElement>(':scope > [data-course-option]')] : [];
+  if (bar && options.length) {
+    const stored = getCourse();
+    const match = stored ? options.find((o) => o.dataset.courseOption === stored.id) : undefined;
+    const active = match ?? options[0];
+    // Review fix: a resource page never chooses a course for the student
+    // (an O Level student landing on a shared 0620/5070 page from search
+    // would otherwise become "IGCSE"). Only course pages and the finder do.
+    if (active !== options[0]) {
+      const id = active.dataset.courseOption!;
+      document.querySelectorAll<HTMLElement>('[data-course-option]').forEach((el) => { el.hidden = el.dataset.courseOption !== id; });
+      document.querySelectorAll<HTMLElement>('[data-course-also-link]').forEach((el) => { el.hidden = el.dataset.courseAlsoLink === id; });
+      // Breadcrumb: Home / Study resources / course / topic / page.
+      const crumbs = document.querySelectorAll<HTMLElement>('nav[aria-label="Breadcrumb"] li');
+      const set = (li: HTMLElement | undefined, label?: string, href?: string) => {
+        const a = li?.querySelector('a');
+        if (a && label && href) { a.textContent = label; a.setAttribute('href', href); }
+      };
+      set(crumbs[2], active.dataset.crumbCourseLabel, active.dataset.crumbCourseHref);
+      set(crumbs[3], active.dataset.crumbTopicLabel, active.dataset.crumbTopicHref);
+    }
+  }
 </script>

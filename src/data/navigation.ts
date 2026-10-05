@@ -3,25 +3,40 @@ export interface NavItem {
   readonly href: string;
 }
 
+/**
+ * Navigation round (6 Oct 2026) -- five overlapping starting points
+ * (Programs, Subjects, Resources, Tutoring, Search) became two plain ones:
+ *   - "Study resources": free material, found by qualification > exam board
+ *     > subject > topic (/resources/). Subject pages are reached from there.
+ *   - "Tuition": paid classes (/tutoring/), which links to the programme
+ *     pages by qualification (/programs/, still in the footer too).
+ * /resources/ explains the difference in plain words. No URL changed.
+ */
 export const primaryNav: readonly NavItem[] = [
-  { label: 'Programs', href: '/programs/' },
-  { label: 'Subjects', href: '/subjects/' },
-  { label: 'Resources', href: '/resources/' },
-  { label: 'Tutoring', href: '/tutoring/' },
+  { label: 'Study resources', href: '/resources/' },
+  { label: 'Tuition', href: '/tutoring/' },
   { label: 'Pricing', href: '/pricing/' },
   { label: 'For Schools', href: '/schools/' },
   { label: 'About', href: '/about/' },
   { label: 'Search', href: '/search/' },
 ];
 
+/** Navigation round (6 Oct 2026): which primary item a page belongs to. */
+const SECTION_PREFIXES: Record<string, readonly string[]> = {
+  '/resources/': ['/resources/', '/boards/', '/levels/', '/subjects/', '/practice/', '/diagnostics/', '/checklists/', '/revision-planner/'],
+  '/tutoring/': ['/tutoring/', '/programs/', '/trial/'],
+};
+export const isCurrentSection = (href: string, pathname: string): boolean =>
+  (SECTION_PREFIXES[href] ?? [href]).some((p) => pathname.startsWith(p));
+
 export const footerNav = {
   explore: [
-    { label: 'Programs', href: '/programs/' },
+    { label: 'Study resources', href: '/resources/' },
     { label: 'Subjects', href: '/subjects/' },
-    { label: 'Boards', href: '/boards/' },
+    { label: 'Exam boards', href: '/boards/' },
     { label: 'Qualifications', href: '/levels/' },
-    { label: 'Resources', href: '/resources/' },
-    { label: 'Tutoring', href: '/tutoring/' },
+    { label: 'Tuition', href: '/tutoring/' },
+    { label: 'Tuition programmes', href: '/programs/' },
     { label: 'Pricing', href: '/pricing/' },
     { label: 'For Schools', href: '/schools/' },
     // D-302: one sitewide entry for the international hub, which links to
@@ -39,9 +54,10 @@ export const footerNav = {
   // per the brief's own "no filler" instruction. Re-add here once either
   // category has published resources.
   resources: [
-    { label: 'Study Guides', href: '/resources/#study-guides' },
-    { label: 'Revision Notes', href: '/resources/#revision-notes' },
-    { label: 'Practice Questions', href: '/resources/#practice-questions' },
+    // Navigation round (6 Oct 2026): the three type links (Study Guides,
+    // Revision Notes, Practice Questions) are gone: "Study resources" (left
+    // column) starts the course-first journey. The /resources/#<type>
+    // anchors still resolve, to the subject x type table.
     { label: '10-Minute Diagnostics', href: '/diagnostics/' },
     { label: 'Practice (Self-Check)', href: '/practice/' },
     { label: 'Syllabus Changes', href: '/syllabus-updates/' },

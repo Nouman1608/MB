@@ -1,10 +1,11 @@
 ---
-import { primaryNav } from '../../data/navigation';
+import { primaryNav, isCurrentSection } from '../../data/navigation';
+const here = Astro.url.pathname;
 ---
 <div id="mobile-menu" hidden class="border-b border-navy-rule bg-navy-800 lg:hidden">
   <nav aria-label="Mobile" class="flex flex-col px-[var(--spacing-gutter)] pb-8 pt-2">
-    {primaryNav.map((item) => (
-      <a href={item.href} class="border-b border-navy-rule py-3.5 font-display text-2xl text-ivory">{item.label}</a>
+    {primaryNav.map((item, i) => (
+      <a href={item.href} aria-current={isCurrentSection(item.href, here) ? 'true' : undefined} class={`border-b border-navy-rule py-3.5 font-display text-2xl text-ivory ${i === 0 ? 'text-white' : ''}`}>{item.label}{i === 0 && <span aria-hidden="true" class="ms-2 align-middle font-sans text-[13px] text-on-navy-mute">free, by course</span>}</a>
     ))}
     {/* Conversion & trust round (2026-09-07, D-150) -- "Explore Programs"
         removed here too, matching the header. Programs is the first link in

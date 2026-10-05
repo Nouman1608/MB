@@ -75,7 +75,9 @@ const proof = [
     </p>
     <div class="mt-[clamp(28px,4vh,40px)] flex flex-wrap gap-3.5">
       <Button href={`${routes.trial}?source=home`} variant="onDark" size="lg" data-cta="hero-trial">Request a free trial</Button>
-      <Button href={routes.tutoring} variant="onDarkGhost" size="lg">Meet the teachers</Button>
+      {/* Navigation round (6 Oct 2026): the second hero action is the free
+          library ("Meet the teachers" is the band two sections down). */}
+      <Button href={routes.resources} variant="onDarkGhost" size="lg" data-cta="hero-resources">Find study resources</Button>
     </div>
     <ul class="m-0 mt-[clamp(28px,4vh,40px)] flex max-w-[74ch] list-none flex-wrap gap-x-7 gap-y-2 border-t border-navy-rule p-0 pt-6 text-[14.5px] text-on-navy-mute">
       {proof.map((item) => (
