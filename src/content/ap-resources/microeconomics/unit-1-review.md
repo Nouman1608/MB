@@ -254,7 +254,7 @@ Total: 6 points.
 
 ## Question 7 (constructed response · mixed)
 
-In the fictional mixed economy of Ardane, a city council can build one sports hall, giving residents benefits worth $5.0 million. Materials and contractors cost $3.2 million. The council would also use its own construction crew for a year; a private developer has offered to hire that crew for the year for $1.4 million.
+In the fictional mixed economy of Ardane, a city council can build one sports hall, giving residents benefits worth $5.0 million. Materials and contractors cost $3.2 million. The council would also use its own construction crew for a year; a private developer has offered to hire that crew for the year for $1.4 million. It has already paid a non-refundable $0.3 million for the hall's design.
 
 (a) Calculate the total economic cost and the net benefit, and state whether the council should build the hall.
 (b) Explain why this decision must be judged by totals rather than at the margin.
@@ -264,9 +264,9 @@ In the fictional mixed economy of Ardane, a city council can build one sports ha
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Explicit $3.2 million + implicit $1.4 million (the developer's payment given up) = **$4.6 million**. Net benefit = 5.0 − 4.6 = **+$0.4 million**: **build**.
+**(a)** Explicit $3.2 million + implicit $1.4 million (the developer's payment given up) = **$4.6 million**; the sunk $0.3 million design fee is left out. Net benefit = 5.0 − 4.6 = **+$0.4 million**: **build**.
 
-**(b)** Half a hall gives no benefit. The choice is **all or nothing**, so total benefit must be compared with total cost.
+**(b)** A hall cannot be added in small steps: the choice is **all or nothing**, so total benefit must be compared with total cost.
 
 **(c)** Evenings can be added one at a time. Compare each extra evening's MB (value to residents) with its MC (staff, power): open while MB > MC, stop where MB = MC. The building cost is **sunk**, the same for any number of evenings, so it changes no MB or MC.
 
@@ -274,7 +274,7 @@ In the fictional mixed economy of Ardane, a city council can build one sports ha
 
 | Point | What earns it |
 |---|---|
-| 1 | Crew's forgone earnings counted: total economic cost $4.6 million |
+| 1 | Crew's forgone earnings counted, sunk design fee excluded: total economic cost $4.6 million |
 | 1 | +$0.4 million and the decision to build |
 | 1 | All-or-nothing, so compare totals |
 | 1 | Evenings where MB = MC, adding while MB > MC |

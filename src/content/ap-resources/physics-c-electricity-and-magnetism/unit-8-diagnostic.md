@@ -81,7 +81,7 @@ A plastic rod and a wool cloth start neutral. After rubbing, the rod carries −
 
 ## Question 3 (multiple choice · 8.3)
 
-In a field-line diagram of two point charges, X and Y, eighteen lines leave X. Six of them end on Y, and the other twelve run off the edge of the picture. No lines start on Y. Which statement is correct?
+In a field-line diagram of two point charges, X and Y, eighteen lines leave X. Six of them end on Y, and the other twelve run off the edge of the picture. No other lines start or end on Y. Which statement is correct?
 
 - (A) X is positive, Y is negative, and |q_X| = 3|q_Y|.
 - (B) X is positive, Y is negative, and |q_X| = 2|q_Y|.

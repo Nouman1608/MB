@@ -68,21 +68,21 @@ These are **original Marlbridge practice questions**, not past exam questions. T
 
 ## Question 1 (multiple choice · mixed)
 
-Take **+x forward**. Car A moves along a straight road at a constant 25 m/s. As it passes, car B starts from rest beside it and speeds up with a constant acceleration of 2.5 m/s² relative to the road. Measured by the driver of A, how far ahead of B is car A at the instant B's velocity **relative to A** becomes zero?
+Take **+x forward**. A delivery van moves along a straight road at a constant 25 m/s. As it passes a motorbike travelling the same way at 5.0 m/s, the motorbike starts to speed up with a constant acceleration of 2.0 m/s² relative to the road. Measured by the van driver, how far ahead of the motorbike is the van at the instant the motorbike's velocity **relative to the van** becomes zero?
 
 - (A) 0 m
-- (B) 125 m
+- (B) 100 m
 - (C) 250 m
-- (D) 375 m
+- (D) 400 m
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** In A's frame, v_BA = 2.5t − 25: it starts at −25 m/s, keeps the slope 2.5 m/s² (A is inertial) and reaches zero at t = 10 s. The area under that line is ½ × 10 × (−25) = −125 m, so B is 125 m behind A. Ground check: 25 × 10 − ½ × 2.5 × 10² = 250 − 125 = 125 m.
+**Answer: (B).** In the van's frame, v_MV = (5.0 + 2.0t) − 25 = 2.0t − 20: it starts at −20 m/s, keeps the slope 2.0 m/s² (the van is inertial) and reaches zero at t = 10 s. The area under that line is ½ × 10 × (−20) = −100 m, so the motorbike is 100 m behind the van. Road check: 25 × 10 − (5.0 × 10 + ½ × 2.0 × 10²) = 250 − 150 = 100 m.
 
-- (A) assumes equal velocities means B has caught up. Matching velocity is when the gap is **largest**.
-- (C) is A's displacement in the road's frame. It ignores B's motion.
-- (D) adds the two road-frame displacements instead of subtracting them.
+- (A) assumes equal velocities means the motorbike has caught up. Matching velocity is when the gap is **largest**.
+- (C) is the van's displacement in the road's frame. It ignores the motorbike's motion.
+- (D) adds the two road-frame displacements (250 m + 150 m) instead of subtracting them.
 </details>
 
 ## Question 2 (multiple choice · mixed)

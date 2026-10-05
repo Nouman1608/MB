@@ -79,7 +79,7 @@ Over which interval is the **size** of the scooter's average acceleration greate
 **Answer: (A).** Average acceleration is Δv_x ÷ Δt. The four values are (+3.0) ÷ 1.0 = +3.0 m/s², (−8.0) ÷ 4.0 = −2.0 m/s², 0 ÷ 1.0 = 0 and (−4.0) ÷ 2.0 = −2.0 m/s². The largest size is 3.0 m/s².
 
 - (B) has the largest change in velocity (8.0 m/s), and the scooter reverses. But that change is spread over 4.0 s, so the rate is smaller.
-- (C) has the most negative velocity at its start, but the velocity does not change, so the acceleration is zero.
+- (C) is where the scooter moves backward, but its velocity does not change (−3.0 m/s throughout), so the acceleration is zero.
 - (D) is where the speed reaches its largest value, 7.0 m/s. A large speed is not a large acceleration.
 
 **If you missed this:** read "Average acceleration" in the [Topic 1.2 study guide](/advanced-course-resources/physics-1/1-2-displacement-velocity-acceleration-study-guide/).

@@ -139,7 +139,7 @@ A straight wire 2.0 m long carries +6.0 nC spread uniformly. Point P is 0.050 m 
 
 **(b)** Near the ends of a finite wire, E is not perpendicular to the wire and its size varies along the cylinder, so E cannot come out of the flux integral. But P is 0.050 m from a 2.0 m wire, so from P the wire looks infinite.
 
-**(c)** λ = 6.0 × 10⁻⁹ ÷ 2.0 = 3.0 × 10⁻⁹ C/m. Exact: E = (8.99 × 10⁹)(6.0 × 10⁻⁹) ÷ [0.050 × √(0.050² + 1.0²)] = **1.08 × 10³ N/C** (1077 N/C). Infinite line: E = (3.0 × 10⁻⁹) ÷ (2π × 8.85 × 10⁻¹² × 0.050) = **1.08 × 10³ N/C** (1079 N/C). They differ by about 0.1%.
+**(c)** λ = 6.0 × 10⁻⁹ ÷ 2.0 = 3.0 × 10⁻⁹ C/m. Exact: E = (8.99 × 10⁹)(6.0 × 10⁻⁹) ÷ [0.050 × √(0.050² + 1.0²)] = **1.08 × 10³ N/C** (1077 N/C). Infinite line: E = (3.0 × 10⁻⁹) ÷ (2π × 8.85 × 10⁻¹² × 0.050) = **1.08 × 10³ N/C** (1079 N/C). They differ by about 0.15%.
 
 **(d)** a = eE/m = (1.60 × 10⁻¹⁹)(1077) ÷ (9.11 × 10⁻³¹) = **1.9 × 10¹⁴ m/s²**, directed **towards the wire**, opposite to E, because the electron is negative.
 
@@ -199,7 +199,7 @@ Two identical small conducting balls, each of mass 0.20 g, hang from insulating 
 (a) Draw a free-body diagram for one ball at rest.
 (b) Find the charge on each ball, and the charge A had at the start.
 (c) Which way did electrons move when the balls touched, and how many moved?
-(d) For small angles, show that d³ = 2kLq_Aq_B/(mg), where L is the thread length. Then B is touched by an identical neutral ball, which is taken away. Predict the new separation.
+(d) Ball B is then touched by an identical neutral ball, which is taken away. State the new charge on each of A and B. Explain whether the two threads still make equal angles with the vertical, and whether the balls settle closer together or further apart than before.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
@@ -210,7 +210,7 @@ Two identical small conducting balls, each of mass 0.20 g, hang from insulating 
 
 **(c)** A had excess electrons; half of them moved **from A to B**: N = (1.06 × 10⁻⁸) ÷ (1.60 × 10⁻¹⁹) = **6.6 × 10¹⁰ electrons**.
 
-**(d)** For small θ, tan θ ≈ sin θ = d/(2L), so kq_Aq_B/d² = mg d/(2L) and **d³ = 2kLq_Aq_B/(mg)**. Touching B to a neutral ball halves q_B, so the product q_Aq_B halves and d is multiplied by (1/2)^(1/3) = 0.794: **d ≈ 0.064 m**. The threads still hang at equal angles: the forces on A and B are a third-law pair, equal even though the charges differ.
+**(d)** Touching B to an identical neutral ball shares B's charge equally, so **B now carries −5.3 nC** and **A keeps −10.6 nC** (about −11 nC). The threads **still hang at equal angles**: the electric forces on A and B are a third-law pair, equal in size even though the charges differ, and the balls have equal weights and equal threads. At any separation the repulsion depends on the product q_Aq_B, which has halved, so the old separation no longer gives balance. The balls swing inwards until the smaller sideways pull of the tilted threads matches the weaker repulsion: they settle **closer together** than 0.080 m.
 
 | Point | What earns it |
 |---|---|
@@ -218,10 +218,10 @@ Two identical small conducting balls, each of mass 0.20 g, hang from insulating 
 | 1 | F = mg tan θ ≈ 1.6 × 10⁻⁴ N |
 | 1 | q ≈ −11 nC each and −21 nC at the start, by conservation |
 | 1 | Electrons from A to B, about 6.6 × 10¹⁰ |
-| 1 | Small-angle derivation of d³ = 2kLq_Aq_B/(mg) |
-| 1 | New separation about 0.064 m, from the cube-root dependence |
+| 1 | (d) New charges: A about −11 nC, B about −5.3 nC |
+| 1 | (d) Equal angles from the third-law pair, and a smaller separation because the repulsion is weaker at every distance |
 
-Total: 6 points. Do not award the last point for halving d.
+Total: 6 points.
 </details>
 
 ## Question 7 (constructed response · mixed)

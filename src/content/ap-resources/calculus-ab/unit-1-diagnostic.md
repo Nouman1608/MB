@@ -292,7 +292,7 @@ Use Figure 1. How are the discontinuities at x = −1 and x = 1 classified?
 
 ## Question 12 (multiple choice · 1.11)
 
-g(3) = 4 and lim (x → 3⁻) g(x) = 4. What else must you know to conclude that g is continuous at x = 3?
+g(3) = 4 and lim (x → 3⁻) g(x) = 4. What is the least extra fact you need to conclude that g is continuous at x = 3?
 
 - (A) Nothing more
 - (B) That lim (x → 3⁺) g(x) = 4
@@ -349,17 +349,17 @@ Let f(x) = ln(x)/(x² − 4). On which interval is f continuous?
 
 ## Question 15 (multiple choice · 1.13)
 
-Let f(x) = sin(3x)/(2x) for x ≠ 0. Which value of f(0) makes f continuous at x = 0?
+Let f(x) = sin(2x)/(x² + 5x) for x ≠ 0 and x ≠ −5. Which value of f(0) makes f continuous at x = 0?
 
 - (A) 0
-- (B) 2/3
-- (C) 3/2
+- (B) 5/2
+- (C) 2/5
 - (D) No value: the discontinuity cannot be removed.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** sin(3x)/(2x) = (3/2) × sin(3x)/(3x) → 3/2. The limit exists, so f(0) = 3/2 removes the break.
+**Answer: (C).** sin(2x)/(x(x + 5)) = [sin(2x)/(2x)] × 2/(x + 5) → 1 × 2/5 = 2/5. The limit exists, so f(0) = 2/5 removes the break.
 
 - (A) treats 0/0 as 0. (B) inverts the ratio.
 - (D) It can be removed because the limit exists.

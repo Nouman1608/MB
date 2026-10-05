@@ -238,17 +238,17 @@ A boxplot of 48 students' scores on a fictional 15-point test has five-number su
 
 ## Question 10 (multiple choice · 1.9)
 
-All 900 entrants in a fictional crossword championship had completion times with μ = 64 minutes and σ = 8 minutes. Leena's time had a z-score of −1.5. What was her time?
+All 900 entrants in a fictional crossword championship had completion times with μ = 64 minutes and σ = 8 minutes. Leena's time had a z-score of −1.25. What was her time?
 
-- (A) 52 minutes
-- (B) 76 minutes
-- (C) 62.5 minutes
+- (A) 54 minutes
+- (B) 74 minutes
+- (C) 62.75 minutes
 - (D) 56 minutes
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** x = μ + zσ = 64 + (−1.5)(8) = 52 minutes.
+**Answer: (A).** x = μ + zσ = 64 + (−1.25)(8) = 54 minutes.
 
 - (B) adds; negative z means below the mean.
 - (C) forgets to multiply by σ.
@@ -279,20 +279,20 @@ A fictional company has 6,000 workers. A random number generator selects 300 of 
 
 ## Question 12 (multiple choice · 1.11)
 
-A fictional school has 540 day students and 360 boarders. It wants a stratified random sample of 50, in proportion to stratum size. How many from each stratum?
+A fictional hospital has 1,260 day-shift nurses and 540 night-shift nurses. It wants a stratified random sample of 60 nurses, in proportion to stratum size. How many from each stratum?
 
-- (A) 25 day students and 25 boarders
-- (B) 30 day students and 20 boarders
-- (C) 54 day students and 36 boarders
-- (D) 20 day students and 30 boarders
+- (A) 30 day-shift and 30 night-shift
+- (B) 42 day-shift and 18 night-shift
+- (C) 126 day-shift and 54 night-shift
+- (D) 18 day-shift and 42 night-shift
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** Day students are 540 ÷ 900 = 0.60 of the school, and 0.60 × 50 = 30; boarders get 0.40 × 50 = 20.
+**Answer: (B).** Day-shift nurses are 1,260 ÷ 1,800 = 0.70 of the staff, and 0.70 × 60 = 42; night-shift nurses get 0.30 × 60 = 18.
 
 - (A) ignores the stratum sizes.
-- (C) takes 10% of each stratum: 90 students, not 50.
+- (C) takes 10% of each stratum: 180 nurses, not 60.
 - (D) swaps the strata.
 
 **If you missed this:** [Topic 1.11 study guide](/advanced-course-resources/statistics/1-11-random-sampling-study-guide/).

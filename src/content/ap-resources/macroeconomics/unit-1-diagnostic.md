@@ -41,17 +41,17 @@ These are **original Marlbridge practice questions**, not past exam questions. T
 
 Which list gives one example of **land**, **labour** and **capital**, in that order?
 
-- (A) A copper deposit; the work of a hospital nurse; an ambulance
-- (B) A copper deposit; a hospital building; the work of a hospital nurse
-- (C) A bank loan; the work of a hospital nurse; an ambulance
+- (A) A copper deposit; the work of a mining engineer; a drilling rig
+- (B) A copper deposit; a mine office building; the work of a mining engineer
+- (C) A bank loan; the work of a mining engineer; a drilling rig
 - (D) A forest; a founder who risks her savings to open a sawmill; a delivery van
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Copper in the ground is land, a nurse's work is labour, and an ambulance is human-made and used in production (capital).
+**Answer: (A).** Copper in the ground is land, an engineer's work is labour, and a drilling rig is human-made and used in production (capital).
 
-- (B) has the wrong order: a building is capital and the nurse is labour.
+- (B) has the wrong order: a building is capital and the engineer is labour.
 - (C) A loan is money. It can buy resources but is not one of the four.
 - (D) Organising a business and bearing the risk of loss is entrepreneurship, not labour.
 

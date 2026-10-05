@@ -37,7 +37,7 @@ author: "marlbridge-academic-team"
 
 ## How to use this review
 
-Use this page after the [Unit 1 diagnostic](/advanced-course-resources/chemistry/unit-1-diagnostic/), once you have revisited the topics it flagged. Read the big ideas and the table, then answer all seven questions on paper before you open any answer. Every question combines two or more topics.
+Use this page after the [Unit 1 diagnostic](/advanced-course-resources/chemistry/unit-1-diagnostic/), once you have revisited the topics it flagged. Answer all seven questions on paper before you open any answer. Each one combines two or more topics.
 
 These are **original Marlbridge practice questions**, not past exam questions. The elements in Questions 1 and 4 are fictional, and photoelectron binding energies are illustrative values, not measured data. Each rubric is a **suggested Marlbridge rubric**, not official scoring, and your total gives no predicted score.
 
@@ -144,7 +144,7 @@ A fictional element Zq gives a mass spectrum with three peaks. The tallest peak 
 
 **(a)** The heights add up to 100 + 60 + 40 = 200, so the fractions are 0.500, 0.300 and 0.200.
 Average = (88.0 × 0.500) + (90.0 × 0.300) + (91.0 × 0.200) = 44.0 + 27.0 + 18.2 = **89.20 amu**.
-Check: it lies between the isotope masses, nearest 88.0. (Dividing by 100 instead gives 178.40, which is impossible.)
+(Dividing by 100 instead gives 178.40, which is impossible.)
 
 **(b)** Oxygen: 3.173 − 2.500 = 0.673 g. Moles: Zq 2.500 ÷ 89.20 = 0.02803 mol; O 0.673 ÷ 16.00 = 0.04206 mol. O : Zq = 1.50, so multiply by 2: **Zq₂O₃**.
 
@@ -182,7 +182,7 @@ An element gives this illustrative photoelectron spectrum (peaks from highest to
 
 (a) Write the electron configuration of the element and identify it.
 (b) Which peak gives an estimate of the first ionization energy? Give the estimate in kJ mol⁻¹.
-(c) Describe the spectrum of the element's 1+ ion. Is its 1s peak at a higher or lower binding energy than argon's 1s peak? Explain.
+(c) Describe the spectrum of the element's 1+ ion. A student predicts that the ion's 1s peak will be far from peak 1 "because the ion has lost an electron". Evaluate the prediction.
 (d) For the next element in the periodic table, the lowest-energy peak is at a higher binding energy than peak 6. Give one other difference in that peak, and explain the higher energy.
 (e) Explain why the 1+ ion is smaller than the atom.
 
@@ -193,7 +193,7 @@ An element gives this illustrative photoelectron spectrum (peaks from highest to
 
 **(b)** **Peak 6**, the most loosely held electron: 0.42 MJ mol⁻¹ = **420 kJ mol⁻¹**.
 
-**(c)** K⁺ is 1s²2s²2p⁶3s²3p⁶: **five peaks, heights 2, 2, 6, 2, 6**, no 4s peak. K⁺ has argon's configuration but 19 protons against 18, so its 1s electrons are attracted more strongly and its 1s peak is at a **higher** binding energy.
+**(c)** K⁺ is 1s²2s²2p⁶3s²3p⁶: **five peaks, heights 2, 2, 6, 2, 6**, no 4s peak. The prediction is **not supported**. K⁺ keeps all 19 protons, and the removed 4s electron, in the outermost shell, did almost nothing to shield the innermost 1s electrons. Their attraction to the nucleus hardly changes, so the 1s peak stays almost where it was (at most slightly higher).
 
 **(d)** Calcium, [Ar]4s², has a 4s peak **twice as tall** (2 electrons). Both atoms have 18 core electrons shielding the 4s electrons, but calcium has 20 protons against 19, so the core charge is about +2 rather than +1. At a similar distance, Coulomb's law gives a stronger attraction.
 
@@ -204,12 +204,12 @@ An element gives this illustrative photoelectron spectrum (peaks from highest to
 | 1 | (a) Correct configuration and potassium |
 | 1 | (b) Peak 6 and 420 kJ mol⁻¹ |
 | 1 | (c) Five peaks, heights 2, 2, 6, 2, 6, no 4s peak |
-| 1 | (c) Higher than argon, because of more protons (19 vs 18) with the same configuration |
+| 1 | (c) Rejects the prediction: same 19 protons, and the removed outer 4s electron hardly shielded the 1s electrons |
 | 1 | (d) Peak twice as tall (two 4s electrons) |
 | 1 | (d) More protons, same core shielding, so larger effective charge at similar distance |
 | 1 | (e) Loss of the n = 4 shell, so the outer electrons are closer to the nucleus |
 
-**Total: 7 points.** "K⁺ has lost an electron" does not earn the (c) explanation point: K⁺ and Ar have equal electron counts.
+**Total: 7 points.** In (c), agreeing that the 1s peak moves a long way does not earn the point: only an outer electron was removed, and the nuclear charge is unchanged.
 </details>
 
 ## Question 6 (constructed response · mixed)
@@ -237,7 +237,7 @@ MgCl₂: M = 24.31 + 70.90 = 95.21 g mol⁻¹, so 70.90 ÷ 95.21 × 100 = **74.4
 3. Substitute b = 0.02883 − a: 2.745 + 15.77a = 3.000, so a = 0.01618 mol and b = 0.01265 mol.
 4. Masses: CaCl₂ 0.01618 × 110.98 = **1.80 g**; MgCl₂ 0.01265 × 95.21 = **1.20 g** (total 3.00 g).
 
-**(c)** Ca : Mg = 0.01618 : 0.01265 = **1.28 : 1**. Not a problem: a mixture can have any proportions, so its atom ratios need not be whole numbers. Only for a pure compound would this signal an error.
+**(c)** Ca : Mg = 0.01618 : 0.01265 = **1.28 : 1**. Not a problem: a mixture can have any proportions, so its atom ratios need not be whole numbers.
 
 **(d)** 0.05766 mol × 6.022 × 10²³ mol⁻¹ = **3.47 × 10²² chloride ions**.
 
@@ -274,7 +274,7 @@ Selenium, Se (Z = 34), is below sulfur in group 16.
 
 **(c)** **S²⁻ < Br⁻ < Se²⁻.** S²⁻ has 18 electrons in three shells; Se²⁻ and Br⁻ have 36, with an occupied fourth shell, so S²⁻ is smallest. Se²⁻ and Br⁻ are isoelectronic, and Br⁻ has one more proton (35 against 34), so it pulls the same electron cloud in more tightly.
 
-**(d)** Selenium's valence electrons are in n = 4: farther out than sulfur's (n = 3), closer than tellurium's (n = 5), with similar effective nuclear charge. So the value lies between: (1000 + 869) ÷ 2 ≈ **934 kJ mol⁻¹**. (The measured value is 941 kJ mol⁻¹.)
+**(d)** Selenium's valence electrons are in n = 4: farther out than sulfur's (n = 3), closer than tellurium's (n = 5), with similar effective nuclear charge. So the value lies between: (1000 + 869) ÷ 2 = 934.5, about **935 kJ mol⁻¹**. (The measured value is 941 kJ mol⁻¹.)
 
 | Point | What earns it |
 |---|---|
@@ -290,7 +290,7 @@ Selenium, Se (Z = 34), is below sulfur in group 16.
 
 ## How did you do?
 
-Total: 30 points (3 multiple choice, 27 constructed response). Where you lost points matters more than the total.
+Total: 30 points (3 multiple choice, 27 constructed response). Where you lost points matters more.
 
 - **Moles, spectra or formulas (Questions 1, 3, 4, 6):** revisit Topics 1.1 to 1.4.
 - **Configurations, PES or trends (Questions 2, 5, 7):** revisit Topics 1.5 to 1.7.

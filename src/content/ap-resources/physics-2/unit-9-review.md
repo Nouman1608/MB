@@ -176,7 +176,7 @@ Total: 7 points. "Heat flows from hot to cold" alone earns no (c) points.
 
 ## Question 5 (constructed response · mixed)
 
-*Topics 9.1, 9.2, 9.4, 9.5.* A rigid glass flask of volume 2.5 × 10⁻³ m³ holds 0.10 mol of gas at 300 K. It is lowered into a warm bath. The glass wall has total area 0.020 m², thickness 4.0 mm and thermal conductivity 0.80 W/(m·K). In a simple model, the temperature difference across the glass stays at 0.25 K for 60 s. Ignore the energy needed to warm the glass.
+*Topics 9.1, 9.2, 9.4, 9.5.* A rigid glass flask of volume 2.5 × 10⁻³ m³ holds 0.10 mol of gas at 300 K. It is lowered into a warm bath. The glass wall has total area 0.020 m², thickness 5.0 mm and thermal conductivity 1.0 W/(m·K). In a simple model, the temperature difference across the glass stays at 0.25 K for 60 s. Ignore the energy needed to warm the glass.
 
 (a) Calculate the rate of energy conduction through the glass.
 (b) State W and calculate Q and ΔU for the gas over the 60 s.
@@ -186,7 +186,7 @@ Total: 7 points. "Heat flows from hot to cold" alone earns no (c) points.
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Q/Δt = kAΔT/L = (0.80)(0.020)(0.25) ÷ (4.0 × 10⁻³) = **1.0 W**.
+**(a)** Q/Δt = kAΔT/L = (1.0)(0.020)(0.25) ÷ (5.0 × 10⁻³) = **1.0 W**.
 
 **(b)** The flask is rigid, so **W = 0**. Q = (1.0 W)(60 s) = **60 J**, so ΔU = **+60 J**.
 

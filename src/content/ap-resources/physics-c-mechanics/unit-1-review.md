@@ -51,7 +51,7 @@ This review pulls the five topics of Unit 1 (Kinematics) together. Read the big 
 ## Key relationships and methods
 
 | Idea | Relationship or method |
- |
+|---|---|
 | Magnitude and unit vector | \|A\| = √(A_x² + A_y² + A_z²); Â = A / \|A\| |
 | Resultant | add x-, y- and z-components separately |
 | Instantaneous values | v_x = dx/dt; a_x = dv_x/dt |
@@ -103,21 +103,21 @@ Take **+y upward**. A lift rises at a constant 3.0 m/s relative to the building.
 
 ## Question 3 (multiple choice · mixed)
 
-Take **+x horizontal and +y up**. A drone flies in a vertical plane. Its v_x stays at 3.0 m/s. Its v_y–t graph is a straight line from +4.0 m/s at t = 0 to −4.0 m/s at t = 4.0 s. What is the magnitude of its displacement from t = 0 to t = 2.0 s?
+Take **+x horizontal and +y up**. A drone flies in a vertical plane. Its v_x stays at 4.5 m/s. Its v_y–t graph is a straight line from +6.0 m/s at t = 0 to −6.0 m/s at t = 4.0 s. What is the magnitude of its displacement from t = 0 to t = 2.0 s?
 
-- (A) 4.0 m
-- (B) 6.0 m
-- (C) 7.2 m
-- (D) 10 m
+- (A) 6.0 m
+- (B) 9.0 m
+- (C) 11 m
+- (D) 15 m
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** Work each component on its own. Δx = 3.0 × 2.0 = 6.0 m. Δy is the area under the v_y–t graph from 0 to 2.0 s, a triangle: ½ × 2.0 × 4.0 = 4.0 m. Then |Δr| = √(6.0² + 4.0²) = 7.2 m.
+**Answer: (C).** Work each component on its own. Δx = 4.5 × 2.0 = 9.0 m. Δy is the area under the v_y–t graph from 0 to 2.0 s, a triangle: ½ × 2.0 × 6.0 = 6.0 m. Then |Δr| = √(9.0² + 6.0²) = 11 m (10.8 m).
 
 - (A) is only the vertical part.
 - (B) is only the horizontal part.
-- (D) adds the components as numbers, or multiplies the initial speed, 5.0 m/s, by 2.0 s. Components combine by Pythagoras, and the speed changes.
+- (D) adds the components as numbers, or multiplies the initial speed, 7.5 m/s, by 2.0 s. Components combine by Pythagoras, and the speed changes.
 </details>
 
 ## Question 4 (constructed response · mixed)

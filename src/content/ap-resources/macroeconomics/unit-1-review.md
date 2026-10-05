@@ -88,21 +88,21 @@ Valdoria's straight-line PPC runs from **50 thousand phones** to **200 thousand 
 
 ## Question 2 (multiple choice · mixed)
 
-In Valdoria, tea and coffee are substitutes for buyers. A drought destroys much of the **tea** harvest. Nothing else changes. What happens in the market for **coffee**?
+In Valdoria, mangoes and papayas are substitutes for buyers. A plant disease that attacks only mango trees destroys much of the **mango** harvest. Nothing else changes. What happens in the market for **papayas**?
 
-- (A) Demand for coffee increases, so the equilibrium price and quantity of coffee both rise.
-- (B) Supply of coffee decreases, so the price of coffee rises and the quantity falls.
-- (C) Demand for coffee decreases, so the price and quantity of coffee both fall.
-- (D) The quantity of coffee demanded rises along an unchanged demand curve, with no change in the price of coffee.
+- (A) Demand for papayas increases, so the equilibrium price and quantity of papayas both rise.
+- (B) Supply of papayas decreases, so the price of papayas rises and the quantity falls.
+- (C) Demand for papayas decreases, so the price and quantity of papayas both fall.
+- (D) The quantity of papayas demanded rises along an unchanged demand curve, with no change in the price of papayas.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The drought decreases the **supply of tea**, so tea's price rises. Buyers switch to the substitute: demand for coffee increases, raising both its equilibrium price and quantity.
+**Answer: (A).** The disease decreases the **supply of mangoes**, so the price of mangoes rises. Buyers switch to the substitute: demand for papayas increases, raising both its equilibrium price and quantity.
 
-- (B) shifts the wrong curve: the drought hit tea, not coffee producers.
-- (C) treats tea and coffee as complements.
-- (D) A related good's price shifts the coffee demand curve; only coffee's own price moves buyers along it.
+- (B) shifts the wrong curve: the disease hit mango trees, not papaya growers.
+- (C) treats mangoes and papayas as complements.
+- (D) A related good's price shifts the papaya demand curve; only the papaya's own price moves buyers along it.
 </details>
 
 ## Question 3 (constructed response · mixed)
@@ -116,8 +116,8 @@ Farmland in northern Valdoria can grow wheat or soybeans. The table shows points
 (a) Calculate the opportunity cost of one tonne of soybeans for each step of 10 thousand tonnes.
 (b) Describe the shape of the PPC and explain why it has this shape.
 (c) Use (a) to explain why farmers supply more soybeans only at a higher price.
-(d) The price of soybeans rises sharply. Explain the effect on the **supply of wheat**, and state what happens to the equilibrium price and quantity in the wheat market.
-(e) A classmate says the rise in the soybean price shifts the soybean supply curve to the right. Explain the error.
+(d) A new seed variety raises soybean yields on every field; wheat yields do not change. Explain the effect on the region's PPC and on the **supply of soybeans**.
+(e) Later, the price of soybeans rises. A classmate says this shifts the soybean supply curve to the right. Explain the error.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
@@ -128,7 +128,7 @@ Farmland in northern Valdoria can grow wheat or soybeans. The table shows points
 
 **(c)** Each extra tonne costs more wheat than the last (0.5 rising to 3.6 tonnes). Farmers grow more only if the soybean price covers that higher cost, so the supply curve slopes upward.
 
-**(d)** Wheat and soybeans are **alternative products** using the same land. Farmers switch land to the more rewarding soybeans, so the **supply of wheat decreases** (left). The equilibrium price of wheat **rises** and the quantity **falls**.
+**(d)** The PPC **pivots outward** along the soybean axis: the soybean intercept rises above 50 thousand tonnes, while the wheat intercept stays at 90 thousand tonnes. Each field now gives more soybeans for the same wheat given up, so the cost of a tonne of soybeans falls. Farmers offer more soybeans at every price: the **supply of soybeans increases** (shifts right).
 
 **(e)** A good's **own price** causes a **movement along** its supply curve: quantity supplied rises. Only a determinant shifts it.
 
@@ -138,11 +138,11 @@ Farmland in northern Valdoria can grow wheat or soybeans. The table shows points
 | 1 | Bowed outward, linked to increasing opportunity cost |
 | 1 | Reason: land is not equally suited to both crops |
 | 1 | Rising cost of extra output means a higher price is needed, so supply slopes upward |
-| 1 | Wheat supply decreases because farmers switch land to the more rewarding crop |
-| 1 | Wheat price rises and quantity falls |
+| 1 | PPC pivots outward along the soybean axis, with the wheat intercept unchanged |
+| 1 | Soybean supply increases (right), because better technology lowers the cost of each tonne |
 | 1 | Own-price change is a movement along the soybean supply curve, not a shift |
 
-**Total: 7 points.** Accept values carried forward from (a). In (d), "supply decreases" with no reason does not earn the supply point.
+**Total: 7 points.** Accept values carried forward from (a). In (d), "supply increases" with no reason does not earn the supply point.
 </details>
 
 ## Question 4 (constructed response · mixed)
@@ -194,7 +194,7 @@ The weekly market for boxes of floor tiles in a Valdorian city is Qd = 200 − 1
 
 (a) Calculate the equilibrium price and quantity.
 (b) Calculate the shortage or surplus at VD 6, and explain how the price adjusts.
-(c) A new housing estate brings many new buyers, and demand becomes Qd = 260 − 10P. Calculate the shortage at the original equilibrium price, and the new equilibrium.
+(c) A building boom brings many new buyers, and demand becomes Qd = 260 − 10P. Calculate the shortage at the original equilibrium price, and the new equilibrium.
 (d) Draw a correctly labelled graph showing the change in (c), with P₁, Q₁, P₂ and Q₂ on the axes.
 (e) A newspaper writes: "The supply of tiles increased this year, because sales rose from 12,000 to 16,000 boxes a week." Explain the error.
 
@@ -226,11 +226,11 @@ The weekly market for boxes of floor tiles in a Valdorian city is Qd = 200 − 1
 
 ## Question 6 (constructed response · mixed)
 
-An earthquake in Kestria destroys many factories, roads and a large cement plant. Kestria produces capital goods and consumer goods.
+A cyclone hits Kestria's coast and wrecks many ports, warehouses, bridges and a large cement plant. Kestria produces capital goods and consumer goods.
 
 (a) Identify the economic resource destroyed, and explain why Kestria's insurance money is not this resource.
-(b) Draw a correctly labelled PPC for Kestria and show the effect of the earthquake. On the same graph, label a point R to show output if many workers are also left unemployed for a time.
-(c) In Kestria's cement market, the earthquake decreases supply and rebuilding increases demand. Explain the effect on equilibrium price and quantity.
+(b) Draw a correctly labelled PPC for Kestria and show the effect of the cyclone. On the same graph, label a point R to show output if many workers are also left unemployed for a time.
+(c) In Kestria's cement market, the cyclone decreases supply and rebuilding increases demand. Explain the effect on equilibrium price and quantity.
 (d) At the old price, shops run out of cement. A minister says this proves cement is scarce. Explain what is happening, and why the minister is wrong.
 
 <details>
@@ -242,7 +242,7 @@ An earthquake in Kestria destroys many factories, roads and a large cement plant
 
 **(c)** Both shifts push the price up, so the **equilibrium price rises**. Lower supply cuts quantity and higher demand raises it, so the change in quantity is **indeterminate** without the sizes of the shifts.
 
-**(d)** At the old price Qd > Qs: a **shortage**, which ends as the price rises to equilibrium. Cement was **scarce** before the earthquake and will stay scarce after the price adjusts, because making it uses limited resources. The shortage shows only that the price is below equilibrium.
+**(d)** At the old price Qd > Qs: a **shortage**, which ends as the price rises to equilibrium. Cement was **scarce** before the cyclone and will stay scarce after the price adjusts, because making it uses limited resources. The shortage shows only that the price is below equilibrium.
 
 | Point | What earns it |
 |---|---|

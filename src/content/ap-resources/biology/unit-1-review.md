@@ -128,7 +128,7 @@ A student is given four purified samples. Her results:
 
 | Sample | Elements detected | In water | Products of complete hydrolysis |
 |---|---|---|---|
-| P | C, H, O | dissolves easily | cannot be hydrolysed further |
+| P | C, H, O | dissolves easily | cannot be hydrolysed further; identical to the only product of S |
 | Q | C, H, O | does not dissolve; forms oily droplets | glycerol and fatty acids in the ratio 1 : 3 |
 | R | C, H, O, N, P | forms sheets two molecules thick | glycerol, two fatty acids and a phosphate-containing group |
 | S | C, H, O | forms insoluble granules | glucose only; one molecule gives 2000 glucose |
@@ -141,7 +141,7 @@ A student is given four purified samples. Her results:
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** **P:** a monosaccharide such as glucose: only C, H and O, soluble, and cannot be split further. **Q:** a fat (triglyceride): glycerol to fatty acids 1 : 3, and hydrophobic. **R:** a phospholipid: contains phosphorus, and gives glycerol, **two** fatty acids and a phosphate group. **S:** a storage polysaccharide (glycogen or starch): a polymer that gives only glucose.
+**(a)** **P:** a monosaccharide (glucose): only C, H and O, soluble, cannot be split further, and the same molecule as the monomer of S. **Q:** a fat (triglyceride): glycerol to fatty acids 1 : 3, and hydrophobic. **R:** a phospholipid: contains phosphorus, and gives glycerol, **two** fatty acids and a phosphate group. **S:** a storage polysaccharide (glycogen or starch): a polymer that gives only glucose.
 
 **(b)** P has many polar –OH groups that form hydrogen bonds with water, so it dissolves. Q is mostly nonpolar C–H bonds. Water molecules stay hydrogen-bonded to each other instead, so Q is pushed into droplets.
 
@@ -233,7 +233,7 @@ Total: 5 points. Accept (b) carried forward from an error in (a).
 
 ## Question 7 (constructed response · mixed)
 
-A student heats two samples to 95 °C for 5 minutes, then cools them slowly to 25 °C. Sample 1 is a solution of a double-stranded DNA fragment. Sample 2 is a solution of a fictional enzyme. A third sample, a variant of the enzyme with two extra disulfide bridges, is treated the same way.
+A student heats three samples to 95 °C for 5 minutes, then cools them slowly to 25 °C. Sample 1 is a solution of a double-stranded DNA fragment. Sample 2 is a solution of a fictional enzyme. Sample 3 is a variant of the same enzyme with two extra disulfide bridges.
 
 | Sample | Before heating | At 95 °C | After cooling |
 |---|---|---|---|
