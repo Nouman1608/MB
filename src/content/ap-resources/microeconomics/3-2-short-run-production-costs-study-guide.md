@@ -175,10 +175,10 @@ The cost table holds input prices and technology constant. If they change, the c
 |---|---|---|---|
 | Wage or raw-material price **rises** (variable input) | no change | shift **up** | shift **up** |
 | Rent, insurance or a yearly licence fee **rises** (fixed input) | shift **up** | **no change** | shift **up** |
-| **Productivity rises** (better technology, training, a better machine) so MP and AP rise | no change in TFC | shift **down** | shift **down** |
+| **Productivity rises** (better technology or training, at no extra fixed cost) so MP and AP rise | no change in TFC | shift **down** | shift **down** |
 | A fall in a variable input's price | no change | shift **down** | shift **down** |
 
-The middle row is a favourite exam trap. A rise in a **fixed** cost does **not** change marginal cost, because it does not change the cost of producing one more unit.
+The second row is a favourite exam trap. A rise in a **fixed** cost does **not** change marginal cost, because it does not change the cost of producing one more unit.
 
 ## Worked example 1: reading a short-run cost table
 

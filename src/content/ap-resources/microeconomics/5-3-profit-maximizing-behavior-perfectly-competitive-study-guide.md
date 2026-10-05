@@ -148,7 +148,7 @@ Notice two things in Figure 1. The firm's horizontal supply line is not the mark
 The **value of the marginal product (VMP)** of labour is **MP × P**: the extra output multiplied by the price at which it sells.
 
 - If the firm sells its output in a **perfectly competitive** market, it is a price taker, so **MR = P** for every unit. Then **MRP = MP × MR = MP × P = VMP**.
-- If the firm has **market power** in its output market (monopoly, oligopoly or monopolistic competition), it must lower its price to sell more, so **MR < P**. Then **MRP < VMP** from the second worker on, and the MRP curve falls faster.
+- If the firm has **market power** in its output market (monopoly, oligopoly or monopolistic competition), it must lower its price to sell more, so **MR < P**. Then **MRP < VMP** (in a table, from the second worker on, once some output is already being sold), and the MRP curve falls faster.
 
 Always use **MRP**, not VMP, for the hiring decision. MRP is the revenue the firm really gains. A firm with output market power therefore hires **fewer** workers at a given wage than VMP would suggest (see Worked example 2).
 

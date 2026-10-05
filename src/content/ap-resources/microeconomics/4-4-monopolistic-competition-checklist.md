@@ -40,7 +40,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can decide whether a loss-making firm should stay open in the short run by comparing price with AVC. *(Guide: Worked example 2(b); Practice Q6)*
 - I can draw a labelled short-run graph showing an economic profit or loss. *(Guide: Figure 1)*
 - I can draw the long-run equilibrium graph with demand tangent to ATC to the left of minimum ATC. *(Guide: Figure 2; Practice Q5)*
-- I can calculate excess capacity and the deadweight loss in long-run equilibrium. *(Guide: "Why the long run is inefficient"; Practice Q5)*
+- I can calculate excess capacity, consumer surplus and the deadweight loss in long-run equilibrium. *(Guide: "Why the long run is inefficient"; Practice Q5)*
 
 ## Reasoning
 

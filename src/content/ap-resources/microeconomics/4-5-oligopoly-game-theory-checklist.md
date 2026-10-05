@@ -8,7 +8,7 @@ topics: ["4.5"]
 resourceType: "topic-checklist"
 learningObjectives:
   - "Judge which parts of Topic 4.5 are secure and which need more practice"
-skills: ["1", "2"]
+skills: ["1", "2", "3"]
 studyMinutes: 10
 difficulty: "core"
 related: ["mb-ap-micro-4.5-study-guide", "mb-ap-micro-4.5-practice", "mb-ap-micro-4.5-revision-notes"]

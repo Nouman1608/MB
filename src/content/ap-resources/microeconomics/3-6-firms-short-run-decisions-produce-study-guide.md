@@ -125,7 +125,8 @@ For a firm that takes the market price, MR = P. It finds its best output where M
 |---|---|---|
 | **P > ATC** (P₁) | economic profit | produce |
 | **P = ATC** (at B) | zero economic profit (normal profit) | produce |
-| **AVC ≤ P < ATC** (P₂) | economic loss, smaller than TFC | **produce**: minimizes the loss |
+| **AVC < P < ATC** (P₂) | economic loss, smaller than TFC | **produce**: minimizes the loss |
+| **P = AVC** (at S) | loss equal to TFC either way | indifferent |
 | **P < AVC** (P₃) | producing would lose more than TFC | **shut down**: loss = TFC |
 
 Two prices have names:
@@ -133,7 +134,7 @@ Two prices have names:
 - **Break-even price = minimum ATC** (point B). Below it, the firm makes an economic loss.
 - **Shutdown price = minimum AVC** (point S). Below it, the firm shuts down.
 
-Point S is always below and to the left of point B, because ATC = AVC + AFC and AFC is always positive.
+Point S is always below and to the left of point B. ATC = AVC + AFC and AFC is always positive, so ATC is above AVC at every output. At S, MC equals AVC but is still below ATC, so ATC is still falling there and reaches its minimum at a larger output.
 
 ## Worked example 1: one firm, four prices
 

@@ -209,7 +209,7 @@ Use Calloway Honey from Question 4 (price $14, fixed cost $20, profit-maximizing
 
 (a) Explain, using marginal reasoning, why a firm producing where MC is greater than MR can raise its profit by producing less.
 (b) The city adds a fee of $2 on every jar sold, paid by the firm. Find the new profit-maximizing output and the profit or loss.
-(c) Instead of (b), the city charges a yearly licence that costs the firm $30 per day. Find the profit-maximizing output and the profit or loss.
+(c) Instead of (b), the city charges a yearly licence fee that works out at $30 per day, whatever the output. Find the profit-maximizing output and the profit or loss.
 (d) Explain why the two policies have different effects on output.
 
 <details>

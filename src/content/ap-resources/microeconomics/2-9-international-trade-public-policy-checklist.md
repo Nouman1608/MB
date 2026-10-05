@@ -41,7 +41,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can draw a labelled tariff graph with the world price, the price with the tariff, and the new imports. *(Guide: Figure 2; Practice Q5)*
 - I can calculate tariff revenue, the deadweight loss and the changes in consumer and producer surplus from a tariff. *(Guide: Worked example 2; Practice Q5)*
 - I can find the smallest tariff that stops all imports. *(Guide: Worked example 2(d); Practice Q5(d))*
-- I can find the domestic price at which a quota binds, using a schedule or the demand and supply equations. *(Guide: "Quotas: effects without a graph"; Practice Q6)*
+- I can find the domestic price under a binding import quota, using a schedule or the demand and supply equations. *(Guide: "Quotas: effects without a graph"; Practice Q6)*
 
 ## Reasoning
 

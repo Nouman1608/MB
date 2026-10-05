@@ -30,7 +30,7 @@ sources: ["ced-microeconomics", "page-microeconomics"]
 keyPoints:
   - "Imperfectly competitive product markets are monopoly, oligopoly and monopolistic competition; monopsony is the factor-market case."
   - "These firms face a downward-sloping demand curve, so to sell one more unit they must cut the price on every unit. Marginal revenue is therefore below price."
-  - "On a graph, the MR curve lies below the demand curve for every imperfectly competitive seller."
+  - "On a graph, the MR curve lies below the demand curve for every imperfectly competitive seller that charges one price to all buyers."
   - "At the quantity these firms choose, price is above marginal cost. Some units that buyers value above their cost are never made, so the outcome is inefficient."
   - "Barriers to entry (high start-up costs, legal barriers, control of a key resource) stop new firms from competing profits away."
 faqs:

@@ -36,7 +36,7 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. All firms and data are fictional. Only addition, subtraction, multiplication and division are needed, so a four-function calculator is enough. Unless a question says otherwise, each firm sells at a market price it cannot change, and it has already chosen its output where MR = MC.
+These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. All firms and data are fictional. A four-function calculator is enough. Unless a question says otherwise, each firm sells at a market price it cannot change, and it has already chosen its output where MR = MC.
 
 ## Question 1 (multiple choice · foundation)
 
@@ -54,7 +54,7 @@ A firm sells its product at a market price of $9. At the output where MR = MC, i
 
 - (A) ignores variable cost. Revenue only helps with fixed cost after it has covered variable cost, and here it does not.
 - (C) has the right action but the wrong test. A price below ATC means a loss, but a firm with P between AVC and ATC should keep producing.
-- (D) is true about fixed cost but draws the wrong conclusion. Because fixed cost is paid either way, the decision depends only on P versus AVC.
+- (D) is true about fixed cost but draws the wrong conclusion: because it is paid either way, only P versus AVC matters.
 </details>
 
 ## Question 2 (multiple choice · core)
@@ -91,13 +91,13 @@ In a market with no barriers to entry or exit, the typical firm earns a positive
 **Answer: (A).** An economic loss means the owners could earn more by using their resources elsewhere. In the long run all costs can be avoided, so some firms exit.
 
 - (B) uses accounting profit. Firms respond to economic profit, which includes the implicit cost of the owners' time and money.
-- (C) confuses the short run with the long run. Fixed costs cannot be avoided in the short run, but in the long run leases end and equipment can be sold.
-- (D) has it backwards. The long run is exactly when firms can respond fully, by leaving.
+- (C) confuses the short run with the long run. In the long run leases end and equipment can be sold.
+- (D) has it backwards: the long run is when firms can leave.
 </details>
 
 ## Question 4 (calculation · core)
 
-Selby Brickworks, a fictional firm, sells pallets of bricks at the market price. Its fixed cost is $120 per day.
+Selby Brickworks, a fictional firm, sells pallets of bricks at the market price. Its fixed cost is $120 per day, and its kilns can make at most 7 pallets per day.
 
 | Pallets per day (Q) | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |---|---|---|---|---|---|---|---|---|
@@ -126,7 +126,7 @@ Selby Brickworks, a fictional firm, sells pallets of bricks at the market price.
 
 **(d)** $35 is below the minimum AVC ($40), so TR < TVC at every output (for example, 3 pallets: TR = $105, TVC = $120). **Shut down**; result = **−$120**.
 
-**(e)** MC is at or below $75 up to the 7th pallet ($70). Best output = **7 pallets**. TR = $525; TC = $460. **Profit = $65.**
+**(e)** MC is at or below $75 up to the 7th pallet ($70), the most Selby can make. Best output = **7 pallets**. TR = $525; TC = $460. **Profit = $65.**
 
 Suggested mark points (5): 1 for the MC, AVC and ATC rows; 1 for both prices; 1 for 5 pallets and −$55 with the decision to produce; 1 for shutting down at $35 with a loss of $120; 1 for 7 pallets and a profit of $65.
 </details>
@@ -147,7 +147,7 @@ A price-taking firm faces a market price that is above its minimum average varia
 
 **(b)** Shade the rectangle with width Qf and height from P up to ATC at Qf. Its area = (ATC − P) × Qf, the economic loss.
 
-**(c)** **Produce.** At Qf the price is above AVC, so TR > TVC. Revenue covers all variable costs and part of the fixed cost, so the loss is smaller than TFC, which the firm would lose if it shut down.
+**(c)** **Produce.** At Qf the price is above AVC, so TR > TVC. Revenue covers all variable costs and part of the fixed cost, so the loss is smaller than TFC, the loss from shutting down.
 
 **(d)** In the long run all costs are avoidable. The price is below ATC, so the firm makes an economic loss, and its owners can earn more elsewhere. If the price is expected to stay there, the firm will **exit** the market.
 
@@ -183,7 +183,7 @@ Brightwater Laundrette, a fictional business, has one year left on the lease for
 
 **(b)** **Operate.** TR ($210,000) > TVC ($150,000). Operating gives a result of −$8,000. Shutting down would still leave the lease, loan repayments and tied-up money, a result of −($36,000 + $32,000) = **−$68,000**. Operating is $60,000 better, which equals TR − TVC.
 
-**(c)** When the lease ends, all costs become avoidable. TR ($210,000) is below total economic cost ($218,000), so the owner can do better by selling the machines and using her money elsewhere. She should **exit**, even though the accounting profit is positive.
+**(c)** When the lease ends, all costs become avoidable. TR ($210,000) is below total economic cost ($218,000), so the owner does better by selling the machines and investing elsewhere. She should **exit**, even though the accounting profit is positive.
 
 **(d)** Economic profit means resources earn more in laundrettes than in their next-best use. With no barriers, **new laundrettes enter** that town.
 
@@ -210,11 +210,11 @@ Use Selby Brickworks from Question 4.
 
 **(a)** In the short run the fixed cost must be paid whether the firm produces or not. It is the same under both choices, so it cancels out of the comparison. Only revenue and variable cost differ between the choices.
 
-**(b)** **The shutdown price does not change.** AVC depends only on variable cost, so minimum AVC is still $40. **The break-even price rises.** ATC rises at every output; at 6 pallets ATC = ($240 + $270) ÷ 6 = **$85**, up from $65. The firm now needs a higher price to cover all its costs.
+**(b)** **The shutdown price does not change.** AVC depends only on variable cost, so minimum AVC is still $40. **The break-even price rises.** ATC rises at every output; at 6 pallets ATC = ($240 + $270) ÷ 6 = **$85**, up from $65. The firm now needs a higher price to cover all its costs. (Minimum ATC is now at 7 pallets, $580 ÷ 7 ≈ $82.86, so that is the new break-even price, not $85.)
 
 **(c)** MC is unchanged, so the best output at $55 is still **5 pallets**. TR = $275; TC = $240 + $210 = $450. Result = **−$175**. TR ($275) > TVC ($210), so **produce**: −$175 is better than shutting down, which loses $240.
 
-**(d)** Shutting down is a short-run choice to produce zero while still renting the works and paying $240 a day. Exiting is a long-run choice, made when the lease can end, to leave the market and stop paying all costs. At $55, Selby expects an economic loss, so it should plan to exit if the price does not rise.
+**(d)** Shutting down is a short-run choice to produce zero while still paying $240 a day in rent. Exiting is a long-run choice, made when the lease ends, to leave the market and stop paying all costs. At $55, Selby expects an economic loss, so it should plan to exit if the price does not rise.
 
 | Point | What earns it |
 |---|---|

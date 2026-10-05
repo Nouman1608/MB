@@ -212,7 +212,7 @@ Quellmoor's apple market: Qd = 90 − 10P and Qs = 10P − 10, with P in dollars
 - PS: ½ × 40 × (5 − 1) = 80 → ½ × 60 × (7 − 1) = 180: change **+100**.
 - Total surplus: 160 → 200: change **+40** ($ thousand). Check: ½ × 40 × (7 − 5) = 40.
 
-**(d)** The claim is **partly right**. Families do pay more and their surplus falls by 60. But apple growers gain 100, and 60 of that is simply surplus moved from buyers to sellers inside Quellmoor. The extra 40 is a real gain from selling to foreign buyers who value apples at $7. So the country as a whole is better off; the trade creates winners and losers rather than harming the country. A fair conclusion names both groups and the net gain.
+**(d)** The claim is **partly right**. Families do pay more and their surplus falls by 60. But apple growers gain 100, and 60 of that is simply surplus moved from buyers to sellers inside Quellmoor. The extra 40 is a real gain: Quellmoor now sells abroad, at $7 a box, apples that cost its growers less than $7 to produce, and the boxes its own families stop buying were valued by them at less than $7. So the country as a whole is better off; the trade creates winners and losers rather than harming the country. A fair conclusion names both groups and the net gain.
 
 | Point | What earns it |
 |---|---|

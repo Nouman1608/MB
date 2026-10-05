@@ -57,7 +57,7 @@ There are two ways to find that output:
 1. **The total approach.** Work out TR − TC at every output and pick the largest.
 2. **The marginal approach.** Compare what the **next unit** adds to revenue with what it adds to cost.
 
-Both give the same answer. The marginal approach is the one the course tests most, because it explains **why** the answer is right, and it works on a graph.
+Both give the same answer. The marginal approach is the one you will use most, because it explains **why** the answer is right, and it works on a graph.
 
 ## Marginal revenue and marginal cost
 

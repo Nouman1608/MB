@@ -58,7 +58,7 @@ For every unit of a good, society gains a benefit and pays a cost:
 
 A unit is worth making if its MSB is greater than its MSC: society gains more than it gives up. So the best quantity is found by making every unit with MSB > MSC and stopping where the two are equal.
 
-**The socially efficient (or socially optimal) quantity is where MSB = MSC for the last unit produced.** At that quantity **total economic surplus** (total benefit minus total cost, or consumer surplus plus producer surplus plus any benefit or cost to others) is at its maximum. This is also called **allocative efficiency**: resources go to the goods society values most.
+**The socially efficient (or socially optimal) quantity is where MSB = MSC for the last unit produced.** At that quantity **total economic surplus** (total benefit minus total cost, or consumer surplus plus producer surplus, plus any benefits to others and minus any costs to others) is at its maximum. This is also called **allocative efficiency**: resources go to the goods society values most.
 
 Notice that efficiency is about the **size** of total surplus, not how it is shared. A market can be efficient and still leave some people much better off than others.
 
@@ -67,7 +67,7 @@ Notice that efficiency is about the **size** of total surplus, not how it is sha
 In Topic 2.6 you saw that a competitive market's equilibrium maximises total surplus. Here is why, in Unit 6 language.
 
 - The **demand curve** shows buyers' **marginal private benefit (MPB)**: the most they will pay for each extra unit.
-- The **supply curve** shows sellers' **marginal private cost (MPC)**: under perfect competition, supply is the firms' marginal cost curve above average variable cost.
+- The **supply curve** shows sellers' **marginal private cost (MPC)**: under perfect competition, market supply is the sum of the firms' marginal cost curves (above average variable cost).
 
 If nobody outside the market is affected, private and social values are the same: **MPB = MSB** and **MPC = MSC**. Economists say that all the benefits and costs are **internalised**: the people making the choice bear them all.
 
@@ -286,7 +286,7 @@ Maximum total surplus = 200 + 150 + 100 + 50 + 0 = **$500 per week**.
 
 - **"Efficient means fair."** Efficiency is about the total size of surplus, not its distribution.
 - **"The efficient quantity is the largest quantity possible."** Producing more than Q\* creates a DWL, just as producing less does.
-- **"Every market equilibrium is efficient."** Only a competitive market in which buyers and sellers bear all the benefits and costs reaches Q\*.
+- **"Every market equilibrium is efficient."** As a rule, only a competitive market in which buyers and sellers bear all the benefits and costs reaches Q\*. (A monopoly that can perfectly price discriminate, Topic 4.3, is a special exception.)
 - **"A monopoly underproduces because it is greedy or careless."** It is acting rationally on private incentives. The problem is the incentive, not the motive.
 - **"DWL is the monopoly's extra profit."** Profit taken from buyers is a transfer. DWL is surplus nobody gets.
 - **"DWL is the gap between MSB and MSC at one quantity."** That gap is the loss on the last unit only. DWL adds up the losses on all the units between Q and Q\*, so it is an area (½ × base × height for straight lines).

@@ -178,9 +178,9 @@ Common error: comparing one household's valuation ($50) with the whole cost. For
 
 Farms in the Tarrow Valley (fictional) pump water from one shared underground aquifer. Any farm may sink a pump, and there is no limit. Each pump costs $12 thousand per year to run. More pumps lower the water table, so each pump yields less. The table gives the total value of crops grown with the water.
 
-| Pumps | 5 | 6 | 7 | 8 | 9 | 10 | 12 | 14 |
-|---|---|---|---|---|---|---|---|---|
-| Total crop value ($ thousand per year) | 150 | 168 | 182 | 192 | 198 | 200 | 192 | 168 |
+| Pumps | 5 | 6 | 7 | 8 | 9 | 10 | 12 | 14 | 15 |
+|---|---|---|---|---|---|---|---|---|---|
+| Total crop value ($ thousand per year) | 150 | 168 | 182 | 192 | 198 | 200 | 192 | 168 | 150 |
 
 (a) Explain why the aquifer is an open-access resource.
 (b) Each farm sinks a pump if the crop value per pump at least covers its cost. How many pumps are sunk?
@@ -193,7 +193,7 @@ Farms in the Tarrow Valley (fictional) pump water from one shared underground aq
 
 **(a)** Water one farm pumps cannot be used by another (**rival**), and no farm can be stopped from sinking a pump (**non-excludable**).
 
-**(b)** Value per pump = total ÷ pumps. At 14 pumps: 168 ÷ 14 = $12 thousand, which just covers the cost. So **14 pumps** are sunk.
+**(b)** Value per pump = total ÷ pumps. At 14 pumps: 168 ÷ 14 = $12 thousand, which just covers the cost. A 15th pump would yield only 150 ÷ 15 = $10 thousand. So **14 pumps** are sunk.
 
 **(c)** Extra value of each pump: 6th: 168 − 150 = 18; 7th: 182 − 168 = 14; 8th: 192 − 182 = 10 (all $ thousand). Add pumps while the extra value is at least $12 thousand: the 7th adds 14, the 8th only 10. The efficient number is **7 pumps**.
 

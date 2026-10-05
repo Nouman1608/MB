@@ -105,7 +105,7 @@ Tamber Instruments (fictional) holds a patent on a digital tuning fork. Quantity
 (a) Calculate TR and MR, and find Tamber's profit-maximising quantity and price.
 (b) Calculate Tamber's maximum profit and its ATC at that quantity.
 (c) At what quantity is total revenue largest? Is Tamber producing on the elastic or inelastic part of its demand curve? Explain.
-(d) Tamber's fixed cost rises by $100 thousand per month. What happens to its quantity, price and profit?
+(d) Tamber's fixed cost rises by $150 thousand per month. What happens to its quantity, price and profit? Should it keep producing in the short run?
 
 <details>
 <summary>Worked solution</summary>
@@ -123,7 +123,7 @@ MR ≥ MC up to Q = 4 (35 > 32); at Q = 5, MR = 15 < MC = 45. So **Q = 4 thousan
 
 **(c)** TR is largest ($275 thousand) at **Q = 5**. At Q = 4, MR is positive ($35), so a price cut would raise TR: demand is **elastic** there.
 
-**(d)** Fixed cost does not change MR or MC, so **Q stays 4 thousand and P stays $65**. Profit falls by 100 to **$15 thousand**.
+**(d)** Fixed cost does not change MR or MC, so **Q stays 4 thousand and P stays $65**. Profit falls by 150 to 115 − 150 = **−$35 thousand**, a loss. It should keep producing in the short run: TR ($260 thousand) covers variable cost (15 + 20 + 28 + 32 = $95 thousand), so P ($65) is above AVC ($23.75). Shutting down would mean losing the whole $200 thousand fixed cost. If the loss lasts, it leaves the market in the long run.
 
 Suggested mark points (4): 1 for Q = 4 using MR and MC; 1 for P = $65 from demand; 1 for profit $115 thousand with working; 1 for (c) and (d) both correct with reasons.
 

@@ -32,7 +32,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can define marginal social benefit, marginal social cost and the socially efficient quantity. *(Guide: "What 'socially efficient' means"; Practice Q1)*
 - I can explain why efficiency is about the size of total surplus, not how it is shared. *(Guide: "What 'socially efficient' means")*
 - I can explain why a perfectly competitive market with all benefits and costs internalised produces where MSB = MSC. *(Guide: Figure 1; Practice Q2)*
-- I can name six sources of inefficiency and say whether each causes too much or too little output. *(Guide: "How private incentives lead to inefficient outcomes"; Practice Q6)*
+- I can name the sources of inefficiency (market power, negative and positive externalities, asymmetric information, public goods) and say whether each causes too much or too little output. *(Guide: "How private incentives lead to inefficient outcomes"; Practice Q6)*
 
 ## Calculation and graphing
 

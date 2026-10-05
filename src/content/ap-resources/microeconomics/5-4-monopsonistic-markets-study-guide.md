@@ -9,7 +9,7 @@ resourceType: "study-guide"
 prerequisites:
   - "Marginal revenue product and the hiring rule MRP = MRC (Topic 5.3)"
   - "Labour supply slopes upward: more workers offer to work at higher wages (Topic 5.1)"
-  - "Deadweight loss as lost surplus (Topic 2.6)"
+  - "Deadweight loss as lost surplus (Topic 2.8)"
 prerequisiteResources: ["mb-ap-micro-5.3-study-guide"]
 learningObjectives:
   - "Describe a monopsonistic labour market and explain why the firm is a wage setter facing the upward-sloping market supply of labour"
@@ -58,7 +58,7 @@ Compare this with Topic 5.3. A wage taker faces a horizontal supply line: it can
 
 ## Why MRC is above the wage
 
-The **marginal resource cost (MRC)** is the extra cost of hiring one more worker: change in total labour cost ÷ change in labour.
+The **marginal resource cost (MRC)**, also called marginal factor cost, is the extra cost of hiring one more worker: change in total labour cost ÷ change in labour.
 
 Suppose 3 workers will work for $70 a day each, but a 4th worker will only come for $80. Because everyone gets the same wage, the firm must also raise the 3 existing workers from $70 to $80. Hiring the 4th worker adds:
 
@@ -105,7 +105,6 @@ A common error is to read the wage at the MRC = MRP point. That point is **above
 <text x="422" y="358" text-anchor="middle" font-size="12" fill="#1d2b44">25</text>
 <text x="485" y="358" text-anchor="middle" font-size="12" fill="#1d2b44">30</text>
 <text x="102" y="284" text-anchor="end" font-size="12" fill="#1d2b44">5</text>
-<text x="102" y="224" text-anchor="end" font-size="12" fill="#1d2b44">10</text>
 <text x="102" y="164" text-anchor="end" font-size="12" fill="#1d2b44">15</text>
 <text x="102" y="104" text-anchor="end" font-size="12" fill="#1d2b44">20</text>
 <text x="102" y="44" text-anchor="end" font-size="12" fill="#1d2b44">25</text>

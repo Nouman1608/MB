@@ -154,7 +154,7 @@ A **natural monopoly** exists when **long-run economies of scale continue over t
 On the graph, the difference from a licence or patent monopoly is the cost curves:
 
 - ATC slopes **down** across the whole demand curve;
-- MC lies **below** ATC everywhere (an average falls when the marginal value is below it).
+- MC lies **below** ATC across the whole demand curve (an average falls when the marginal value is below it).
 
 The profit-maximising rule is unchanged: MR = MC, price from demand.
 

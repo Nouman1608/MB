@@ -18,7 +18,7 @@ learningObjectives:
   - "Find each player's dominant strategy (if any) and every Nash equilibrium in a two-player, two-action game"
   - "Link the prisoner's dilemma to oligopoly behaviour and to non-market situations"
   - "Calculate the smallest change in payoffs that would alter a player's dominant strategy"
-skills: ["1", "2"]
+skills: ["1", "2", "3"]
 studyMinutes: 45
 difficulty: "core"
 calculator: "four-function"
@@ -56,7 +56,7 @@ An **oligopoly** is a market with **a few large firms** that together sell most 
 2. **Interdependence.** Because each firm is large, its choices change its rivals' sales and profits. So each firm must think about how rivals will react before it sets a price, an output level or an advertising budget. This is the key difference from perfect competition, monopolistic competition and monopoly, where a firm can ignore individual rivals.
 3. **Products may be identical or differentiated.** Cement or steel is much the same from any seller; cars and phones are differentiated. Both can be oligopolies.
 
-An oligopoly is an **inefficient** market structure. Firms have market power, so price is usually above marginal cost (allocative inefficiency, with a deadweight loss), and barriers to entry let economic profit last in the long run.
+An oligopoly is an **inefficient** market structure. Firms have market power, so price is usually above marginal cost (allocative inefficiency, with a deadweight loss), and barriers to entry can let economic profit last in the long run.
 
 ## Collusion and cartels
 

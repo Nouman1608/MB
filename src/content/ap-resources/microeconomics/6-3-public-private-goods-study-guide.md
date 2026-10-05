@@ -34,7 +34,7 @@ keyPoints:
   - "Who provides a good does not decide its type: free state schooling is still a private good."
 faqs:
   - question: "Is a public good the same as a good the government provides?"
-    answer: "No. The type of good depends only on rivalry and excludability. Governments also provide private goods, such as school places, and some public goods are provided privately."
+    answer: "No. The type of good depends only on rivalry and excludability. Governments also provide private goods, such as school places, free of charge. Those goods stay private goods."
   - question: "Why can't a firm just sell a public good?"
     answer: "It cannot stop people who do not pay from enjoying the good, so most people will wait for others to pay. The firm cannot collect enough revenue to cover its costs."
 version: "1.0"
@@ -119,7 +119,7 @@ Governments provide it free because they judge the benefits to society to be lar
 
 ### Open-access resources and overuse
 
-Some natural resources are **rival and non-excludable by nature**: fish in a lake that anyone may fish, groundwater under many farms, or a free city road at rush hour. Each fish caught is one fewer for everyone else (rival), yet nobody can be kept out (non-excludable).
+Some natural resources are **rival and non-excludable by nature**: fish in a lake that anyone may fish, or groundwater under many farms. A free city road at rush hour behaves the same way, although it is not a natural resource. Each fish caught is one fewer for everyone else (rival), yet nobody can be kept out (non-excludable).
 
 Each user compares their **own** benefit with their **own** cost. They ignore the cost they impose on other users, such as a smaller catch, a lower water table or a slower journey. This ignored cost acts like a negative externality (Topic 6.2). Private individuals therefore **overconsume** the resource: the quantity used is greater than the socially optimal quantity.
 
@@ -182,11 +182,11 @@ Governments limit overuse with the tools from Topic 6.2: **quotas or licences** 
 
 **Question.** Anyone may fish Lake Vessa (fictional). More boats deplete the stock, so each boat catches less. Each boat costs $8,000 per season to run, and fish sell for $1,000 per tonne at a price set in a much wider market. A boat enters if its own catch at least covers its cost.
 
-| Boats | 5 | 6 | 7 | 8 | 10 | 12 |
-|---|---|---|---|---|---|---|
-| Total catch (tonnes per season) | 75 | 84 | 91 | 96 | 100 | 96 |
-| Catch per boat (tonnes) | 15 | 14 | 13 | 12 | 10 | 8 |
-| Extra catch from the last boat (tonnes) | 11 | 9 | 7 | 5 | 1 | −3 |
+| Boats | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+|---|---|---|---|---|---|---|---|---|
+| Total catch (tonnes per season) | 75 | 84 | 91 | 96 | 99 | 100 | 99 | 96 |
+| Catch per boat (tonnes) | 15 | 14 | 13 | 12 | 11 | 10 | 9 | 8 |
+| Extra catch from the last boat (tonnes) | 11 | 9 | 7 | 5 | 3 | 1 | −1 | −3 |
 
 (a) How many boats fish under open access? (b) What number is efficient? (c) Compare the net value of the fishery and explain the difference. (d) Find a licence fee per boat that would lead to the efficient number.
 

@@ -83,7 +83,7 @@ The firm still produces where MR = MC. Because MR is the demand curve, that mean
 | Output | where MR = MC; less than the competitive quantity | where P = MC; **equal to the competitive quantity** |
 | Price | one price, above MC | a different price for each buyer; the last buyer pays MC |
 | Consumer surplus | positive | **zero**: every buyer pays their maximum |
-| Profit / producer surplus | the rectangle between price and MC | **all of the surplus** under demand and above MC |
+| Profit / producer surplus | the rectangle between price and MC (constant MC, no fixed costs) | **all of the surplus** under demand and above MC |
 | Deadweight loss | positive | **zero** |
 | Allocative efficiency | no (P > MC) | **yes**: the last unit has P = MC |
 
@@ -200,7 +200,7 @@ Notice the trade-off. Perfect price discrimination is **efficient**: total surpl
 <figcaption>Figure 2. With perfect price discrimination, demand is also the MR curve. Skylark sells 50 rides, the last at $20 (= MC). The firm keeps the whole shaded triangle as profit; consumer surplus and deadweight loss are both zero.</figcaption>
 </figure>
 
-**Check and interpretation.** Under a single price, total surplus was 1,250 + 625 = $1,875, and $625 was lost. Under perfect price discrimination total surplus is $2,500: the full amount, with nothing lost. So the $2,500 profit is made of three parts: the old profit ($1,250), the old consumer surplus ($625) and the old deadweight loss ($625), which is now created and kept by the firm. Riders 26 to 50 are better off in one sense: they get a ride they would not have bought at $70, even though they pay their maximum for it.
+**Check and interpretation.** Under a single price, total surplus was 1,250 + 625 = $1,875, and $625 was lost. Under perfect price discrimination total surplus is $2,500: the full amount, with nothing lost. So the $2,500 profit is made of three parts: the old profit ($1,250), the old consumer surplus ($625) and the old deadweight loss ($625), which is now created and kept by the firm. Riders 26 to 50 now get a ride they would not have bought at $70, but because each pays their maximum, they gain no consumer surplus from it.
 
 ## Worked example 2: two groups, two prices
 
@@ -249,4 +249,4 @@ Students have the **more elastic** demand at the chosen prices, so a high price 
 
 ## Where this leads
 
-Price discrimination shows that the deadweight loss of monopoly comes from charging one price, not from monopoly power as such. Next, [Topic 4.4: Monopolistic Competition](/advanced-course-resources/microeconomics/4-4-monopolistic-competition-study-guide/) looks at many firms that each have a little market power. Test yourself with the [practice questions](/advanced-course-resources/microeconomics/4-3-price-discrimination-practice/), then use the [revision notes](/advanced-course-resources/microeconomics/4-3-price-discrimination-revision-notes/) and the [checklist](/advanced-course-resources/microeconomics/4-3-price-discrimination-checklist/) to consolidate.
+Perfect price discrimination shows that the deadweight loss of a single-price monopoly comes from having to charge every buyer the same price: remove that limit and the lost units are produced. Next, [Topic 4.4: Monopolistic Competition](/advanced-course-resources/microeconomics/4-4-monopolistic-competition-study-guide/) looks at many firms that each have a little market power. Test yourself with the [practice questions](/advanced-course-resources/microeconomics/4-3-price-discrimination-practice/), then use the [revision notes](/advanced-course-resources/microeconomics/4-3-price-discrimination-revision-notes/) and the [checklist](/advanced-course-resources/microeconomics/4-3-price-discrimination-checklist/) to consolidate.

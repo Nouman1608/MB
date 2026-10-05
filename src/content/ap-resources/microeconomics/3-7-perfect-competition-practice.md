@@ -181,7 +181,7 @@ The perfectly competitive market for plain school notebooks in a fictional count
 
 **(c)** The old $2 price is now above each firm's ATC, so firms earn **economic profits**: a signal that buyers value notebooks more than they now cost to make. New firms **enter**, supply shifts right and the price falls. The lower price tells buyers notebooks are cheaper to produce, so they buy more. Entry stops when the price equals the **new, lower minimum ATC**.
 
-**(d)** **No, not necessarily.** Before entry is complete, the price is above the new minimum ATC, and each firm expands output beyond its efficient scale, where ATC is above its minimum. (Each firm still sets P = MC, so allocative efficiency holds.)
+**(d)** **No.** Before entry is complete, the price is above the new minimum ATC. Each firm produces where P = MC, which is beyond its efficient scale, so its ATC is above its minimum. (Each firm still sets P = MC, so allocative efficiency holds.)
 
 | Point | What earns it |
 |---|---|

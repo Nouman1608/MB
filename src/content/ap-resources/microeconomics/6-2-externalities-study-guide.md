@@ -193,7 +193,7 @@ When the MEC or MEB is the same for every unit, the right tax or subsidy is just
 2. Buyers pay **$70**; sellers keep 70 − 20 = **$50** per tonne.
 3. Tax revenue = 20 × 30 = **$600 thousand per year**.
 
-**(e)** Before: 20 × 40 = $800 thousand. After: 20 × 30 = $600 thousand. The tax cuts the damage, but not to zero. The remaining 30 thousand tonnes are each worth more to buyers than their full social cost, so producing them is efficient.
+**(e)** Before: 20 × 40 = $800 thousand. After: 20 × 30 = $600 thousand. The tax cuts the damage, but not to zero. Each of the remaining 30 thousand tonnes is worth at least its full social cost to buyers, so producing them is efficient.
 
 **Check.** The tax works because it makes sellers pay the external cost: it **internalises** the externality.
 

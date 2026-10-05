@@ -226,7 +226,7 @@ The table and curves assume **fixed technology and fixed amounts of the other in
 
 - **More of the fixed input** (a third oven): every number of bakers can now make more bread, so TP shifts **up**, and MP is higher at most levels of labour. Adding capital is a long-run change, after which the firm has a new short run.
 - **Better technology or better-trained workers** (a faster mixer, a training course): TP and usually MP and AP shift **up**. Productivity has risen.
-- **Losing some of the fixed input** (an oven breaks down): TP shifts **down**, and diminishing marginal returns set in after fewer workers.
+- **Losing some of the fixed input** (an oven breaks down): TP shifts **down**, and diminishing marginal returns usually set in after fewer workers.
 
 ## Worked example 1: calculating marginal and average product
 

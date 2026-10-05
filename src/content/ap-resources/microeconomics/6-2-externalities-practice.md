@@ -70,7 +70,7 @@ A competitive market has a negative production externality and no government act
 **Answer: (A).** Sellers ignore the external cost, so supply (MPC) lies below MSC. The market meets demand at a larger quantity and a lower price than where MSC meets demand.
 
 - (B) gets the quantity right but the price wrong. A lower cost curve meets the downward-sloping demand curve at a lower price.
-- (C) describes a monopoly or a positive externality, not a negative externality in a competitive market.
+- (C) describes a monopoly (or a positive production externality), not a negative externality in a competitive market.
 - (D) Harm alone does not make a quantity optimal or not. The market quantity is too large because units with MSC > MSB are produced.
 </details>
 
@@ -174,7 +174,7 @@ A fictional dye factory upstream releases waste into a river. It could install a
 | 1 | (a) Not efficient: $40 thousand cost > $25 thousand damage avoided |
 | 1 | (b) Factory pays compensation (or buys permission), no filter |
 | 1 | (c) Fish farm pays the factory between $40 thousand and $60 thousand; filter installed |
-| 1 | Efficient outcome reached in both cases regardless of who holds the right |
+| 1 | States that bargaining reaches the efficient outcome in both (b) and (c); with low transaction costs, who holds the right only decides who pays whom |
 | 1 | (d) High transaction costs **and/or** free riding prevent bargaining |
 </details>
 

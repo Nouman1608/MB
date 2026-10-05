@@ -188,7 +188,7 @@ For example, from 1 to 2 bundles, inputs double but output rises from 400 to 1,0
 <figure>
 <svg viewBox="0 0 560 400" role="img" aria-labelledby="lr1-title lr1-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="lr1-title">Tallis Tiles' long-run average total cost curve</title>
-<desc id="lr1-desc">Graph with output in boxes of tiles per day on the horizontal axis, 0 to 4,000, and cost per box in dollars on the vertical axis, 0 to 3.50. The LRATC curve passes through seven marked points: 400 boxes at 3.00 dollars, 1,000 at 2.40, 1,800 at 2.00, 2,400 at 2.00, 3,000 at 2.00, 3,200 at 2.25 and 3,360 at 2.50. It falls from 400 to 1,800 boxes, is flat at 2.00 dollars from 1,800 to 3,000 boxes and rises after 3,000. A dashed vertical line at 1,800 boxes is labelled minimum efficient scale. Labels along the bottom name the three regions: economies of scale, constant returns to scale and diseconomies of scale.</desc>
+<desc id="lr1-desc">Graph with output in boxes of tiles per day on the horizontal axis, 0 to 4,000, and cost per box in dollars on the vertical axis, 0 to 3.50. The LRATC curve passes through seven marked points: 400 boxes at 3.00 dollars, 1,000 at 2.40, 1,800 at 2.00, 2,400 at 2.00, 3,000 at 2.00, 3,200 at 2.25 and 3,360 at 2.50. It falls from 400 to 1,800 boxes, is flat at 2.00 dollars from 1,800 to 3,000 boxes and rises after 3,000. A dashed vertical line at 1,800 boxes is labelled minimum efficient scale, and a dotted vertical line at 3,000 boxes marks the end of the flat range. Labels along the bottom name the three regions: economies of scale, constant returns to scale and diseconomies of scale.</desc>
 <rect x="0" y="0" width="560" height="400" fill="#ffffff"/>
 <line x1="70" y1="330" x2="500" y2="330" stroke="#1d2b44" stroke-width="2"/>
 <line x1="70" y1="330" x2="70" y2="30" stroke="#1d2b44" stroke-width="2"/>
@@ -208,7 +208,7 @@ For example, from 1 to 2 bundles, inputs double but output rises from 400 to 1,0
 <line x1="259" y1="330" x2="259" y2="62" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="6 5"/>
 <line x1="385" y1="330" x2="385" y2="190" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="2 4"/>
 <text x="263" y="58" font-size="12" fill="#1d2b44">MES = 1,800 boxes</text>
-<polyline points="112.0,90.0 120.4,97.7 128.8,105.1 137.2,112.2 145.6,118.9 154.0,125.1 162.4,130.7 170.8,135.7 179.2,140.2 187.6,144.6 196.0,149.1 204.4,153.4 212.8,157.5 221.2,161.2 229.6,164.4 238.0,167.0 246.4,168.9 254.8,169.9 263.2,170.0 271.6,170.0 280.0,170.0 288.4,170.0 296.8,170.0 305.2,170.0 313.6,170.0 322.0,170.0 330.4,170.0 338.8,170.0 347.2,170.0 355.6,170.0 364.0,170.0 372.4,170.0 380.8,170.0 389.2,168.6 397.6,160.3 406.0,150.0 414.4,140.5 422.8,130.0" fill="none" stroke="#1d2b44" stroke-width="3"/>
+<polyline points="112.0,90.0 120.4,97.7 128.8,105.1 137.2,112.2 145.6,118.9 154.0,125.1 162.4,130.7 170.8,135.7 179.2,140.2 187.6,144.6 196.0,149.1 204.4,153.4 212.8,157.5 221.2,161.2 229.6,164.4 238.0,167.0 246.4,168.9 254.8,169.9 263.2,170.0 271.6,170.0 280.0,170.0 288.4,170.0 296.8,170.0 305.2,170.0 313.6,170.0 322.0,170.0 330.4,170.0 338.8,170.0 347.2,170.0 355.6,170.0 364.0,170.0 372.4,170.0 380.8,170.0 385.0,170.0 389.2,168.6 397.6,160.3 406.0,150.0 414.4,140.5 422.8,130.0" fill="none" stroke="#1d2b44" stroke-width="3"/>
 <circle cx="112" cy="90" r="4.5" fill="#1d2b44"/>
 <circle cx="175" cy="138" r="4.5" fill="#1d2b44"/>
 <circle cx="259" cy="170" r="4.5" fill="#1d2b44"/>
@@ -230,12 +230,12 @@ For example, from 1 to 2 bundles, inputs double but output rises from 400 to 1,0
 ## Worked example 2: how many firms can a market hold?
 
 **Question.** (a) At a price of $2.00 per box, buyers in the fictional country of Ellaran want 90,000 boxes of tiles per day. Every tile firm has costs like Tallis Tiles. How many firms can each produce at the MES or more?
-(b) In Ellaran's cement industry, the MES is 400,000 tonnes per year. At a price equal to the lowest LRATC, buyers want 1,000,000 tonnes per year. How many cement firms can each reach the lowest cost?
+(b) In Ellaran's cement industry, the MES is 400,000 tonnes per year, and LRATC stays at its lowest level up to 600,000 tonnes. At a price equal to the lowest LRATC, buyers want 1,000,000 tonnes per year. How many cement firms can each reach the lowest cost?
 (c) Compare the likely structure of the two industries.
 
 **(a)** 90,000 ÷ 1,800 = **50 firms**. Because the flat part of LRATC runs to 3,000 boxes, firms of different sizes between 1,800 and 3,000 can all reach $2.00, so between 30 and 50 low-cost firms could share the market (90,000 ÷ 3,000 = 30).
 
-**(b)** 1,000,000 ÷ 400,000 = **2.5**. Firms cannot come in halves. Two firms, each producing 500,000 tonnes, can both reach the lowest cost. With three firms sharing the market equally, each would produce about 333,333 tonnes, below the MES, so all three would have higher costs.
+**(b)** 1,000,000 ÷ 400,000 = **2.5**. Firms cannot come in halves. Two firms, each producing 500,000 tonnes (inside the flat range), can both reach the lowest cost. With three firms sharing the market equally, each would produce about 333,333 tonnes, below the MES, so all three would have higher costs.
 
 **(c)** The tile industry can support **many** firms, so it is likely to be competitive with low concentration. The cement industry can support only **two** firms at the lowest cost, so it is likely to be **highly concentrated**, with a few large firms. A new small cement firm would have a higher average cost than its large rivals, which makes entry hard.
 

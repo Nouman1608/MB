@@ -146,7 +146,7 @@ Notice that working conditions are **non-wage** features of the job. A better wa
 <text x="300.2" y="182.5" text-anchor="middle" font-size="13" font-weight="600" fill="#1d2b44">E₁</text>
 <circle cx="271.0" cy="173.6" r="5" fill="#1d2b44" stroke="#1d2b44" stroke-width="2"/>
 <text x="271.0" y="161.6" text-anchor="middle" font-size="13" font-weight="600" fill="#1d2b44">E₂</text>
-<line x1="397.6" y1="150.0" x2="330.4" y2="150.0" stroke="#1d2b44" stroke-width="2" marker-end="url(#fcah2)"/>
+<line x1="374.0" y1="150.0" x2="313.0" y2="150.0" stroke="#1d2b44" stroke-width="2" marker-end="url(#fcah2)"/>
 <text x="473.2" y="84.0" text-anchor="end" font-size="13" font-weight="600" fill="#1d2b44">S₁ (solid)</text>
 <text x="389.2" y="72.0" text-anchor="end" font-size="13" font-weight="600" fill="#1d2b44">S₂ (dashed)</text>
 <text x="452.2" y="294.0" text-anchor="start" font-size="13" font-weight="600" fill="#1d2b44">D<tspan font-size="10" dy="4">L</tspan></text>
@@ -193,7 +193,7 @@ Over five years, two things happen. Velmora's population ages, so people buy mor
 (c) Find the result of each shift on its own. Use this to explain why, without numbers, the effect on the wage is indeterminate.
 (d) How large would the supply increase have needed to be to leave the wage at its original level?
 
-**(a)** The ageing population raises demand for health care, and demand for nurses is **derived** from it: **labour demand increases**. Immigration of trained nurses means more people able and willing to work as nurses at every wage: **labour supply increases**.
+**(a)** The ageing population raises demand for health care, and demand for nurses is **derived** from it: **labour demand increases**. Immigration of trained nurses means more people able and willing to work as nurses at every wage: **labour supply increases**. (Age distribution is also a supply determinant: if many nurses retired, supply would fall. Here we assume the nursing workforce itself is unchanged, so ageing acts only through demand.)
 
 **(b)** Before: 120 − 2W = 3W − 30, so 150 = 5W, **W = $30**, Q = 120 − 60 = **60 thousand**.
 After: demand Q<sub>d</sub> = 140 − 2W; supply Q<sub>s</sub> = 3W. So 140 − 2W = 3W, 140 = 5W, **W = $28**, Q = 3 × 28 = **84 thousand**.
@@ -266,7 +266,7 @@ Both shifts **raise employment**, so employment must rise. But the demand shift 
 
 ## Beyond labour
 
-The same logic applies to other factor markets. If the price of rice rises, each hectare of rice land has a higher MRP, so demand for farmland rises and land rents rise. If a new machine makes delivery vans more productive, firms' demand for vans (capital) rises. In each case the factor's demand is derived from the demand for what it helps to produce.
+The same logic applies to other factor markets. If the price of rice rises, each hectare of rice land has a higher MRP, so demand for farmland rises and land rents rise. If new route-planning software lets each delivery van make more drops a day, firms' demand for vans (capital) rises. In each case the factor's demand is derived from the demand for what it helps to produce.
 
 ## Common misconceptions
 

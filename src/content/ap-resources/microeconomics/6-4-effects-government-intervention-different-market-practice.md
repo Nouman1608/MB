@@ -166,7 +166,7 @@ Kelvedon Power (fictional) is a natural monopoly. Demand is P = 70 − Q, so MR 
 
 **(c)** P = ATC at Q = **50**: P = 70 − 50 = **$20**; ATC = 10 + 500 ÷ 50 = $20. P = ATC, so economic profit = **$0**.
 
-**(d)** P = MC: 70 − Q = 10, so Q = **60**, P = $10. ATC = 10 + 500 ÷ 60 ≈ $18.33. Loss = (18.33 − 10) × 60 = **$500 thousand**, the whole fixed cost. The government must pay a **lump-sum subsidy** of $500 thousand. A per-unit subsidy would lower MC and change output away from 60; a lump-sum payment covers the loss without changing MC.
+**(d)** P = MC: 70 − Q = 10, so Q = **60**, P = $10. ATC = 10 + 500 ÷ 60 ≈ $18.33. Loss = total cost − revenue = (10 × 60 + 500) − 10 × 60 = **$500 thousand**, the whole fixed cost. The government must pay a **lump-sum subsidy** of $500 thousand. A per-unit subsidy would lower MC and change output away from 60; a lump-sum payment covers the loss without changing MC.
 
 **(e)** Each firm would pay the fixed cost. Serving 25 thousand households, each firm's ATC = 10 + 500 ÷ 25 = **$30**, against $20 for one firm serving 50 thousand. Splitting a natural monopoly throws away economies of scale.
 

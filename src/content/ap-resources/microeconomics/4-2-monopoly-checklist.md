@@ -36,7 +36,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 ## Calculation and graphing
 
 - I can find the profit-maximising quantity from a table or from equations using MR = MC, and read the price from demand. *(Guide: Worked examples 1 and 2; Practice Q1, Q4, Q6)*
-- I can calculate profit as (P − ATC) × Q, and explain why fixed cost changes profit but not the quantity or price. *(Practice Q1, Q4)*
+- I can calculate profit or loss as (P − ATC) × Q, and explain why fixed cost changes profit but not the quantity or price. *(Practice Q1, Q4)*
 - I can calculate consumer surplus, producer surplus and deadweight loss for a monopoly, and check them against total surplus under competition. *(Guide: Worked example 2; Practice Q6)*
 - I can draw a correctly labelled monopoly graph and shade profit, consumer surplus and deadweight loss. *(Guide: Figure 1; Practice Q5)*
 - I can draw a natural monopoly graph with ATC falling across all of demand and MC below ATC. *(Guide: Figure 2)*

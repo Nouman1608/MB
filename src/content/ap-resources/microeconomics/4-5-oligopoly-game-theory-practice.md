@@ -14,7 +14,7 @@ learningObjectives:
   - "Find dominant strategies and Nash equilibria in two-player, two-action games"
   - "Explain the prisoner's dilemma in market and non-market settings"
   - "Calculate the incentive needed to change a player's dominant strategy"
-skills: ["1", "2"]
+skills: ["1", "2", "3"]
 studyMinutes: 45
 difficulty: "mixed"
 calculator: "four-function"
@@ -66,19 +66,19 @@ Two delivery apps, **Pellow** (row) and **Zante** (column), each decide whether 
 
 Which statement is correct?
 
-- (A) Both firms have the dominant strategy "keep fee".
-- (B) Pellow's dominant strategy is "raise fee", because (Raise, Raise) gives the highest total profit.
-- (C) Neither firm has a dominant strategy, because each firm's profit depends on the other's choice.
-- (D) Zante's dominant strategy is "raise fee", because it earns 11 at (Raise, Raise) but only 9 at (Keep, Keep).
+- (A) Pellow's dominant strategy is "raise fee", because (Raise, Raise) gives the highest total profit.
+- (B) Neither firm has a dominant strategy, because each firm's profit depends on the other's choice.
+- (C) Zante's dominant strategy is "raise fee", because it earns 11 at (Raise, Raise) but only 9 at (Keep, Keep).
+- (D) Both firms have the dominant strategy "keep fee".
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Pellow: if Zante raises, keep 15 > raise 13; if Zante keeps, keep 9 > raise 6. Zante: if Pellow raises, keep 14 > raise 11; if Pellow keeps, keep 9 > raise 7. "Keep fee" wins every comparison for both firms.
+**Answer: (D).** Pellow: if Zante raises, keep 15 > raise 13; if Zante keeps, keep 9 > raise 6. Zante: if Pellow raises, keep 14 > raise 11; if Pellow keeps, keep 9 > raise 7. "Keep fee" wins every comparison for both firms.
 
-- (B) uses the total payoff (24). A dominant strategy compares one player's own payoffs, given each action of the other player.
-- (C) confuses interdependence of **payoffs** with interdependence of the **best choice**. Profits depend on the rival's choice, but the best action does not.
-- (D) compares across the diagonal, changing Pellow's action as well. Zante must compare its payoffs with Pellow's action held fixed.
+- (A) uses the total payoff (24). A dominant strategy compares one player's own payoffs, given each action of the other player.
+- (B) confuses interdependence of **payoffs** with interdependence of the **best choice**. Profits depend on the rival's choice, but the best action does not.
+- (C) compares across the diagonal, changing Pellow's action as well. Zante must compare its payoffs with Pellow's action held fixed.
 </details>
 
 ## Question 3 (multiple choice · core)
@@ -87,23 +87,23 @@ Two bookshops, **Arden** (row) and **Bexley** (column), each decide whether to o
 
 | Arden ↓ / Bexley → | Open | Closed |
 |---|---|---|
-| **Open** | (30, 18) | (34, 15) |
-| **Closed** | (28, 24) | (36, 20) |
+| **Open** | (32, 14) | (40, 18) |
+| **Closed** | (26, 25) | (38, 21) |
 
 What is the Nash equilibrium?
 
 - (A) Arden opens, Bexley opens
 - (B) Arden closes, Bexley closes
-- (C) Arden closes, Bexley opens
-- (D) There is none, because Arden has no dominant strategy
+- (C) Arden opens, Bexley closes
+- (D) There is none, because Bexley has no dominant strategy
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Bexley's dominant strategy is to open (18 > 15 and 24 > 20). Arden's best response to Bexley opening is to open (30 > 28). At (Open, Open), neither shop can gain by changing alone.
+**Answer: (C).** Arden's dominant strategy is to open (32 > 26 and 40 > 38). Bexley has no dominant strategy, but its best response to Arden opening is to close (18 > 14). At (Open, Closed), neither shop can gain by changing alone: Arden would earn 38 instead of 40 by closing, and Bexley 14 instead of 18 by opening.
 
-- (B) is the cell with the highest total (56), but Bexley would switch to opening (24 > 20).
-- (C) assumes Arden aims for its single highest payoff (36) without considering Bexley's choice; if Bexley opens, Arden earns more by opening (30 > 28).
+- (A) correctly uses Arden's dominant strategy but assumes Bexley copies it. Given that Arden opens, Bexley earns more by closing (18 > 14).
+- (B) is the cell with the highest total (59), but Arden would switch to opening (40 > 38) and so would Bexley (25 > 21).
 - (D) is wrong because a Nash equilibrium does not need both players to have a dominant strategy.
 </details>
 
@@ -111,17 +111,17 @@ What is the Nash equilibrium?
 
 Which statement about oligopoly is correct?
 
-- (A) Prices are usually higher and output lower than in perfect competition, even though cartels often break down.
-- (B) Oligopolies always reach the monopoly outcome, because a small number of firms can easily agree.
+- (A) Oligopolies always reach the monopoly outcome, because a small number of firms can easily agree.
+- (B) Prices are usually higher and output lower than in perfect competition, even though cartels often break down.
 - (C) In the long run, new firms enter until oligopolists earn zero economic profit.
 - (D) Oligopoly is allocatively efficient because firms watch each other closely.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Firms in oligopoly have market power, so even without a working cartel the price stays above marginal cost and output stays below the competitive level.
+**Answer: (B).** Firms in oligopoly have market power, so even without a working cartel the price stays above marginal cost and output stays below the competitive level.
 
-- (B) ignores the incentive to cheat: each cartel member gains by producing more, so the monopoly outcome is hard to sustain.
+- (A) ignores the incentive to cheat: each cartel member gains by producing more, so the monopoly outcome is hard to sustain.
 - (C) describes markets with low barriers to entry. High barriers let oligopoly profit last.
 - (D) confuses interdependence with efficiency. Allocative efficiency needs P = MC, which oligopoly does not usually reach.
 </details>

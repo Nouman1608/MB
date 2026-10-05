@@ -38,7 +38,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 - I can find the market and socially optimal quantities from equations, using MSC = MPC + MEC or MSB = MPB + MEB. *(Guide: Worked examples 1 and 2; Practice Q4, Q7)*
 - I can calculate the DWL of a negative or positive externality. *(Guide: Worked examples 1 and 2; Practice Q4, Q7)*
-- I can draw labelled graphs of all four types of externality and shade the DWL on the correct side. *(Guide: Figures 1 and 2; Practice Q5)*
+- I can draw labelled graphs of all four types of externality and shade the DWL on the correct side. *(Guide: types table and Figures 1 and 2; Practice Q4, Q5)*
 - I can calculate a corrective tax or subsidy, its effect on prices and its revenue or cost. *(Guide: Worked examples 1(d) and 2(c); Practice Q3, Q4)*
 
 ## Reasoning

@@ -173,7 +173,7 @@ Oakvale Car Wash is a fictional business. It rents its site for **$300 per day**
 (a) Calculate the marginal cost per car of the cars washed by each worker.
 (b) Explain why marginal cost falls and then rises, using production concepts.
 (c) Calculate AVC and ATC at 50 and at 70 cars.
-(d) A new pressure washer raises the third worker's marginal product by 25%. Calculate the new marginal cost per car for that worker, and state what happens to the MC, AVC and ATC curves.
+(d) A free upgrade to the wash equipment raises every worker's marginal product by 25%. Calculate the new marginal cost per car for the cars washed by the third worker, and state what happens to the MC, AVC and ATC curves.
 
 <details>
 <summary>Model answer and suggested Marlbridge rubric</summary>
@@ -184,7 +184,7 @@ Oakvale Car Wash is a fictional business. It rents its site for **$300 per day**
 
 **(c)** At 50 cars: AVC = 200 ÷ 50 = **$4.00**; ATC = 500 ÷ 50 = **$10.00**. At 70 cars: AVC = 300 ÷ 70 = **$4.29**; ATC = 600 ÷ 70 = **$8.57**.
 
-**(d)** New MP = 20 × 1.25 = 25 cars, so MC = 100 ÷ 25 = **$4.00** (down from $5.00). Higher productivity lowers the cost of each car: the MC, AVC and ATC curves shift **down**. TFC and AFC do not change.
+**(d)** New MP = 20 × 1.25 = 25 cars, so MC = 100 ÷ 25 = **$4.00** (down from $5.00). Higher productivity lowers the cost of each car: the MC, AVC and ATC curves shift **down**. TFC and AFC do not change, because the upgrade adds nothing to fixed cost.
 
 | Point | What earns it |
 |---|---|

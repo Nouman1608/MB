@@ -81,7 +81,7 @@ In the short run the number of firms is fixed. Each firm uses the same rule as a
    - P < ATC: **economic loss** = (ATC − P) × Q;
    - P = ATC: **zero economic profit** (a normal profit).
 
-A firm making a loss keeps producing in the short run if price covers average variable cost (P ≥ AVC), because it then loses less than its fixed cost. If P < AVC at every output, it shuts down in the short run.
+A firm making a loss keeps producing in the short run if price covers average variable cost (P ≥ AVC), because it then loses no more than its fixed cost (which it would lose anyway by shutting down). If P < AVC at every output, it shuts down in the short run.
 
 The short-run graph looks just like the monopoly graph from Topic 4.2. The difference shows up in the long run.
 
@@ -213,6 +213,8 @@ The tangency must happen on the **downward-sloping part of ATC**, because the de
 **2. Allocative inefficiency.** **Price is greater than marginal cost**: $3.50 > $2.00. Some buyers value an extra cup at more than the $2.00 it costs to make, but they do not get it. Kettle & Fern's demand curve is above its MC curve from 100 cups until they meet at 160 cups ($2.60). The **deadweight loss** is the triangle between them:
 
 DWL = ½ × (160 − 100) × (3.50 − 2.00) = ½ × 60 × 1.50 = **$45 per day**.
+
+You can find the other areas in the same way. **Consumer surplus** is the triangle above the price and below demand: ½ × 100 × (5.00 − 3.50) = **$75 per day**. **Producer surplus** is revenue minus variable cost: 3.50 × 100 − (1 × 100 + 0.005 × 100²) = 350 − 150 = **$200 per day**. That is exactly the $200 fixed cost, which is another way to see that economic profit is zero.
 
 There is a balancing point. Excess capacity and a price above minimum ATC can be seen as the **cost of variety**. Buyers get many slightly different cafés, menus and locations to choose from, which they may value.
 

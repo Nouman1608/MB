@@ -162,7 +162,7 @@ Do not award the third point for a movement along LRATC₁: a change in input pr
 
 ## Question 6 (constructed response · core)
 
-In the fictional country of Brenmoor, two industries are studied. Each figure below is the yearly quantity buyers want at a price equal to the lowest LRATC.
+In the fictional country of Brenmoor, two industries are studied. All figures are per year. The market quantity is the quantity buyers want at a price equal to the lowest LRATC.
 
 | Industry | MES | Market quantity |
 |---|---|---|

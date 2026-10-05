@@ -29,14 +29,14 @@ sources: ["ced-microeconomics", "page-microeconomics"]
 keyPoints:
   - "First ask: does the policy change marginal cost (or the price the firm can charge), or only fixed cost?"
   - "Per-unit taxes and subsidies shift MC, so they change price and output in every market structure. Lump-sum taxes and subsidies change only fixed cost, so price and output stay the same."
-  - "A binding price ceiling always cuts output in perfect competition, but a ceiling set between a monopoly's MC and its price raises the monopoly's output. A ceiling where demand meets MC gives the efficient quantity."
+  - "A binding price ceiling always cuts output in perfect competition, but a ceiling set between a monopoly's MC at its unregulated output and its price raises the monopoly's output. A ceiling where demand meets MC gives the efficient quantity."
   - "A natural monopoly priced at MC makes a loss and needs a lump-sum subsidy; a fair-return price (P = ATC) gives zero economic profit but some deadweight loss."
   - "Intervention increases efficiency only when it corrects the incentive that caused the inefficiency."
 faqs:
   - question: "Why does a lump-sum tax not change a monopoly's price?"
     answer: "The tax is the same whatever the firm produces, so it does not change marginal cost or marginal revenue. MR = MC at the same quantity as before, so price and output stay put; only profit falls."
   - question: "Can a price ceiling ever increase output?"
-    answer: "Yes, for a firm with market power. A ceiling below the monopoly price makes extra units no longer push the price down, so the firm produces more, up to where the ceiling meets MC or demand."
+    answer: "Yes, for a firm with market power. A ceiling below the monopoly price, but above MC at the monopoly's output, means extra units no longer push the price down, so the firm produces more, up to where the ceiling meets MC or demand."
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
@@ -81,6 +81,8 @@ A binding **price ceiling** (a maximum price below the current price) and a bind
 - A ceiling between the monopoly's MC (at its unregulated output) and its unregulated price still **raises** output, but if it is below the price where demand meets MC it also causes a shortage.
 - A ceiling **below MC at the unregulated output** makes the firm produce **less** than before.
 
+A binding **price floor** above the monopoly price works the other way: buyers take fewer units at the higher price, so output falls further below the efficient quantity and deadweight loss grows, just as in perfect competition.
+
 <figure>
 <svg viewBox="0 0 560 400" role="img" aria-labelledby="g64a-title g64a-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="g64a-title">A price ceiling on Ashgrove Biotech's monopoly</title>
@@ -105,7 +107,7 @@ A binding **price ceiling** (a maximum price below the current price) and a bind
 <text x="20" y="180" text-anchor="middle" font-size="14" fill="#1d2b44" transform="rotate(-90 20 180)">Price and cost ($ per inhaler)</text>
 <line x1="70" y1="30" x2="490" y2="330" stroke="#1d2b44" stroke-width="3"/>
 <line x1="70" y1="30" x2="280" y2="330" stroke="#1d2b44" stroke-width="2"/>
-<line x1="70" y1="330" x2="460" y2="51" stroke="#1d2b44" stroke-width="3"/>
+<line x1="70" y1="330" x2="455" y2="55" stroke="#1d2b44" stroke-width="3"/>
 <line x1="70" y1="180" x2="490" y2="180" stroke="#1d2b44" stroke-width="2" stroke-dasharray="9 6"/>
 <line x1="210" y1="130" x2="210" y2="330" stroke="#1d2b44" stroke-width="1" stroke-dasharray="4 4"/>
 <line x1="70" y1="130" x2="210" y2="130" stroke="#1d2b44" stroke-width="1" stroke-dasharray="4 4"/>
