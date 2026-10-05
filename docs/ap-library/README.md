@@ -28,6 +28,8 @@ The site's academic system (boards × qualifications × subjects, syllabus topic
 
 **Live.** `AP_LIBRARY_PUBLIC = true` on the owner's instruction. Every resource shows "Checked by Marlbridge Academic Team" (D-388 meaning, not a teacher review).
 
+**Complete for 2026-27 (D-393, D-394, 5 Oct 2026).** Every framework topic has a study guide, revision notes, practice set and checklist; every unit has a diagnostic and a mixed review; every course has two exam-skills guides. Current state, open decisions and next work: `handover-2026-10-05.md`.
+
 ## Preview and publish (history)
 
 - Normal build (`npm run build`, what Cloudflare runs): **no library page is built**, the subject hubs show no AP links, the sitemap is unchanged. Verified: production build and `audit:all` pass with 0 problems.

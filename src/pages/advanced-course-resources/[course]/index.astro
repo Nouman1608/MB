@@ -37,7 +37,8 @@ const resources = [
   ...(otherCalculus ? (await apResourcesForCourse(otherCalculus)).filter((r) => r.data.calculusScope === 'ab-and-bc') : []),
 ];
 const forTopic = (n: string): ApEntry[] => resources.filter((r) => r.data.topics.includes(n));
-const unitLevel = (u: number): ApEntry[] => resources.filter((r) => r.data.unit === u && r.data.topics.length === 0);
+const unitLevel = (u: number): ApEntry[] => resources.filter((r) => r.data.unit === u && r.data.topics.length === 0 && r.data.resourceType !== 'exam-skills');
+const examSkills = resources.filter((r) => r.data.resourceType === 'exam-skills');
 const visible = apVisibleName(c);
 const topicCount = c.units.reduce((n, u) => n + u.topics.length, 0);
 const coveredTopics = new Set(resources.flatMap((r) => r.data.topics)).size;
@@ -147,6 +148,21 @@ const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] t
           ))}
         </ol>
       </section>
+
+      {examSkills.length > 0 && (
+        <section aria-labelledby="exam-skills" class="mt-[clamp(48px,6vw,80px)]">
+          <h2 id="exam-skills" class={h2}>Exam skills</h2>
+          <p class="m-0 mb-5 max-w-[72ch] text-[16px] leading-[1.65] text-ink-mute">Guides that apply across every unit: what each task verb asks you to do, and how to set out answers so every step of your reasoning is visible.</p>
+          <ul class="m-0 list-none space-y-3 p-0">
+            {examSkills.map((r) => (
+              <li class="m-0 rounded-sm border border-rule bg-white px-[clamp(16px,2vw,24px)] py-4">
+                <a href={apUrls.resource(r)} class="text-[16.5px] font-medium text-navy-800 underline decoration-gold-500 underline-offset-2">{r.data.title}</a>
+                <p class="m-0 mt-1 text-[14.5px] leading-[1.55] text-ink-mute">{r.data.description}</p>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
 
       <section aria-labelledby="practices" class="mt-[clamp(48px,6vw,80px)]">
         <h2 id="practices" class={h2}>{c.family === 'economics' ? 'Course skills' : c.family === 'maths' && c.slug !== 'statistics' ? 'Mathematical practices' : c.slug === 'statistics' ? 'Statistical practices' : 'Science practices'}</h2>

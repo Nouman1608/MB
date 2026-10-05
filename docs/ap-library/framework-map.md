@@ -1,6 +1,6 @@
 # Verified framework map -- 2026-27 school year, May 2027 exams
 
-Generated 2026-10-05T14:27:04.094Z from `src/data/ap/frameworks.ts` (checked against the official College Board documents in source-register.md on 2026-10-05). Unit and topic titles come from each Course and Exam Description's own bookmarks; weightings are the official multiple-choice ranges from each course page; exam formats are from each course's exam page and the 2026-27 clarifications.
+Generated 2026-10-05T16:57:56.120Z from `src/data/ap/frameworks.ts` (checked against the official College Board documents in source-register.md on 2026-10-05). Unit and topic titles come from each Course and Exam Description's own bookmarks; weightings are the official multiple-choice ranges from each course page; exam formats are from each course's exam page and the 2026-27 clarifications.
 
 ## AP Chemistry
 

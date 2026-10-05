@@ -34,6 +34,8 @@ const { Content } = await render(entry);
 const c = apCourse(d.course);
 const path = apUrls.resource(entry);
 const unit = apUnit(c, d.unit);
+// Exam-skills guides cover the whole course, not one unit.
+const courseWide = d.resourceType === 'exam-skills';
 const topics = d.topics.map((n) => apTopic(c, n)).filter((t): t is NonNullable<typeof t> => Boolean(t));
 const byId = (id: string) => all.find((e) => e.data.resourceId === id);
 const related = d.related.map(byId).filter((e): e is ApEntry => Boolean(e));
@@ -58,7 +60,7 @@ const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] t
   type="article"
   publishedDate={d.publishedDate}
   updatedDate={d.updatedDate}
-  eyebrow={`${visible} · Unit ${d.unit}${topics.length ? ` · Topic ${topics.map((t) => t.number).join(', ')}` : ''}`}
+  eyebrow={courseWide ? `${visible} · Whole course` : `${visible} · Unit ${d.unit}${topics.length ? ` · Topic ${topics.map((t) => t.number).join(', ')}` : ''}`}
   heading={d.title}
   lead={d.description}
   headingFont="sans"
@@ -106,7 +108,7 @@ const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] t
         <aside aria-label="About this resource" class="rounded-sm border border-rule bg-white p-[clamp(18px,2vw,24px)] text-[14.5px] leading-[1.55] lg:sticky lg:top-6">
           <dl class="m-0 space-y-3">
             <div><dt class="font-semibold text-navy-800">Course</dt><dd class="m-0">{visible}</dd></div>
-            <div><dt class="font-semibold text-navy-800">Unit</dt><dd class="m-0">Unit {d.unit}: {unit?.title}</dd></div>
+            <div><dt class="font-semibold text-navy-800">{courseWide ? 'Scope' : 'Unit'}</dt><dd class="m-0">{courseWide ? 'Whole course (all units)' : `Unit ${d.unit}: ${unit?.title}`}</dd></div>
             {topics.length > 0 && <div><dt class="font-semibold text-navy-800">Topic</dt><dd class="m-0">{topicLabel}</dd></div>}
             {d.calculusScope && <div><dt class="font-semibold text-navy-800">Calculus scope</dt><dd class="m-0">{d.calculusScope === 'bc-only' ? 'BC only' : 'Shared by AB and BC'}</dd></div>}
             <div><dt class="font-semibold text-navy-800">Resource type</dt><dd class="m-0">{apTypeLabel[d.resourceType]}</dd></div>

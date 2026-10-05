@@ -1,6 +1,6 @@
 # Advanced-course (AP) library -- resource inventory
 
-Generated 2026-10-05T14:27:04.094Z by `scripts/ap-library-inventory.mjs`. Library public: **yes**.
+Generated 2026-10-05T16:57:56.120Z by `scripts/ap-library-inventory.mjs`. Library public: **yes**.
 
 Status per topic: **planned** = no resource yet; **drafted** = written and checked by the Marlbridge Academic Team, awaiting AP-teacher review; **reviewed** = every resource reviewed by a named teacher; **published** = live. Shared Calculus AB/BC material (`calculusScope: ab-and-bc`) counts for both courses.
 
@@ -8,19 +8,19 @@ Status per topic: **planned** = no resource yet; **drafted** = written and check
 
 | Course | Units | Topics | Planned | Drafted | Reviewed | Published | Resources |
 |---|---|---|---|---|---|---|---|
-| AP Chemistry | 9 | 91 | 0 | 91 | 0 | 0 | 382 |
-| AP Biology | 8 | 60 | 0 | 60 | 0 | 0 | 256 |
-| AP Calculus AB | 8 | 81 | 0 | 81 | 0 | 0 | 340 |
+| AP Chemistry | 9 | 91 | 0 | 91 | 0 | 0 | 384 |
+| AP Biology | 8 | 60 | 0 | 60 | 0 | 0 | 258 |
+| AP Calculus AB | 8 | 81 | 0 | 81 | 0 | 0 | 342 |
 | AP Calculus BC | 10 | 111 | 0 | 111 | 0 | 0 | 124 |
-| AP Statistics | 5 | 55 | 0 | 55 | 0 | 0 | 230 |
-| AP Physics 1: Algebra-Based | 8 | 43 | 0 | 43 | 0 | 0 | 188 |
-| AP Physics 2: Algebra-Based | 7 | 46 | 0 | 46 | 0 | 0 | 198 |
-| AP Physics C: Mechanics | 7 | 41 | 0 | 41 | 0 | 0 | 178 |
-| AP Physics C: Electricity and Magnetism | 6 | 31 | 0 | 31 | 0 | 0 | 136 |
-| AP Microeconomics | 6 | 36 | 0 | 36 | 0 | 0 | 156 |
-| AP Macroeconomics | 6 | 42 | 0 | 42 | 0 | 0 | 180 |
+| AP Statistics | 5 | 55 | 0 | 55 | 0 | 0 | 232 |
+| AP Physics 1: Algebra-Based | 8 | 43 | 0 | 43 | 0 | 0 | 190 |
+| AP Physics 2: Algebra-Based | 7 | 46 | 0 | 46 | 0 | 0 | 200 |
+| AP Physics C: Mechanics | 7 | 41 | 0 | 41 | 0 | 0 | 180 |
+| AP Physics C: Electricity and Magnetism | 6 | 31 | 0 | 31 | 0 | 0 | 138 |
+| AP Microeconomics | 6 | 36 | 0 | 36 | 0 | 0 | 158 |
+| AP Macroeconomics | 6 | 42 | 0 | 42 | 0 | 0 | 182 |
 
-Total topics: planned 0, drafted 637, reviewed 0, published 0. Resource records: 2368.
+Total topics: planned 0, drafted 637, reviewed 0, published 0. Resource records: 2388.
 
 Unit diagnostics, mixed unit reviews and exam-skills guides: **none yet (planned for Phase 2)**.
 

@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-05T14:27:04.094Z",
+  "generated": "2026-10-05T16:57:56.120Z",
   "libraryPublic": true,
   "framework": {
     "schoolYear": "2026-27",
     "examSeries": "May 2027"
   },
-  "resourceCount": 2368,
+  "resourceCount": 2388,
   "resources": [
     {
       "resourceId": "mb-ap-bio-1.1-checklist",
@@ -14712,6 +14712,162 @@
       "url": "/advanced-course-resources/biology/8-7-disruptions-ecosystems-study-guide/",
       "words": 3114,
       "sourceFile": "src/content/ap-resources/biology/8-7-disruptions-ecosystems-study-guide.md"
+    },
+    {
+      "resourceId": "mb-ap-bio-exam-skills-experimental-design-data",
+      "title": "Experimental Design and Data Analysis: Exam Skills Guide (Biology)",
+      "description": "How to name variables and controls, state a null hypothesis, choose and draw the right graph, do the course calculations and write a claim backed by evidence and reasoning.",
+      "course": "biology",
+      "unit": 1,
+      "topics": [],
+      "resourceType": "exam-skills",
+      "prerequisites": [
+        "You have studied at least the first three units of the course",
+        "You can calculate a mean and a percentage with a calculator"
+      ],
+      "learningObjectives": [
+        "Identify the independent, dependent and controlled variables, a suitable control and a testable null hypothesis for an experiment",
+        "Choose the right type of graph for a data set and draw it with labelled axes, units, even scales and error bars",
+        "Carry out the course calculations: rates, percent change, mean, standard deviation, standard error, chi-square, Hardy–Weinberg and water potential",
+        "Use error bars or a chi-square result to decide whether to reject or fail to reject a null hypothesis",
+        "Write a claim supported by numerical evidence and biological reasoning, and justify a prediction"
+      ],
+      "skills": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "studyMinutes": 55,
+      "difficulty": "mixed",
+      "calculator": "scientific",
+      "calculatorNote": "SE = s ÷ √n with s the sample standard deviation; error bars are mean ± 2 SE. χ² = Σ (o − e)² ÷ e; critical values at p = 0.05: 3.84 (1 df), 5.99 (2 df), 7.81 (3 df). Ψs = −iCRT with R = 0.0831 L bar mol⁻¹ K⁻¹ and T = °C + 273",
+      "related": [
+        "mb-ap-bio-3.2-study-guide",
+        "mb-ap-bio-2.7-study-guide",
+        "mb-ap-bio-5.3-study-guide",
+        "mb-ap-bio-2.4-study-guide",
+        "mb-ap-bio-7.5-study-guide",
+        "mb-ap-bio-exam-skills-task-verbs"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-biology",
+        "page-biology"
+      ],
+      "keyPoints": [
+        "Every experiment question rests on four labels: the independent variable you change, the dependent variable you measure, the variables you keep the same, and the control you compare against.",
+        "A null hypothesis says the independent variable has no effect. Data let you reject it or fail to reject it; data never prove a hypothesis.",
+        "Graph points come from the right graph type, labelled axes with units, even scales and correctly plotted points with error bars when the table gives them.",
+        "Show every calculation: the formula, the numbers substituted, the answer with units and sensible rounding.",
+        "A strong argument has a claim, numbers from the data as evidence, and a biological reason that links the two."
+      ],
+      "faqs": [
+        {
+          "question": "Do I need to memorise the chi-square table and the formulas?",
+          "answer": "No. A formula sheet with the chi-square table, standard error, Hardy–Weinberg and water potential equations is provided. You do need to know when to use each one and how to set it out."
+        },
+        {
+          "question": "Is it ever right to say the data prove my hypothesis?",
+          "answer": "No. Say the data support the claim, or that you reject or fail to reject the null hypothesis. One experiment with a small sample can never prove a general rule."
+        },
+        {
+          "question": "How many decimal places should my answer have?",
+          "answer": "Match the precision of the data, usually 2 or 3 significant figures, and keep full calculator values until the final step."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "checkedBy": "marlbridge-academic-team",
+      "checkedDate": "2026-10-05",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/biology/exam-skills-experimental-design-data/",
+      "words": 2922,
+      "sourceFile": "src/content/ap-resources/biology/exam-skills-experimental-design-data.md"
+    },
+    {
+      "resourceId": "mb-ap-bio-exam-skills-task-verbs",
+      "title": "Task Verbs and Free-Response Technique: Exam Skills Guide (Biology)",
+      "description": "What each free-response task verb asks for and how much to write, how to read multi-part questions, plan your time and set out calculations, with three worked answers shown weak and strong.",
+      "course": "biology",
+      "unit": 1,
+      "topics": [],
+      "resourceType": "exam-skills",
+      "prerequisites": [
+        "You have studied at least half of the course content",
+        "You can read a data table and a line or bar graph"
+      ],
+      "learningObjectives": [
+        "Say what each free-response task verb requires and match the length of your answer to it",
+        "Break a multi-part question into its parts and give each part the number of separate points it is worth",
+        "Plan your time across the six free-response questions",
+        "Set out calculations, chi-square tests and error-bar comparisons so that every step can be followed",
+        "Turn a weak answer into one that makes a claim, uses the data and gives reasoning"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "studyMinutes": 55,
+      "difficulty": "mixed",
+      "calculator": "scientific",
+      "calculatorNote": "χ² = Σ (o − e)² ÷ e, critical value 3.84 at p = 0.05 with 1 degree of freedom; Ψs = −iCRT with R = 0.0831 L bar mol⁻¹ K⁻¹ and T = °C + 273; p + q = 1 and p² + 2pq + q² = 1. Keep full calculator values until the last step",
+      "related": [
+        "mb-ap-bio-3.5-study-guide",
+        "mb-ap-bio-5.3-study-guide",
+        "mb-ap-bio-2.4-study-guide",
+        "mb-ap-bio-8.5-study-guide",
+        "mb-ap-bio-7.5-study-guide",
+        "mb-ap-bio-exam-skills-experimental-design-data"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-biology",
+        "page-biology"
+      ],
+      "keyPoints": [
+        "The verb decides the answer. Identify and describe need no reason; explain and justify need a because-link; predict needs a direction.",
+        "Count the points before you write. A 3-point part needs three separate correct ideas, not one long sentence.",
+        "The six questions carry 34 points in 90 minutes, about 2.6 minutes a point: roughly 22–24 minutes for each long question and 10 for each short one.",
+        "Show every calculation as formula, substitution with units, then answer with units. In chi-square, divide by the expected value.",
+        "Use the scenario's own numbers and terms. An answer that could fit any experiment rarely earns the point."
+      ],
+      "faqs": [
+        {
+          "question": "Do I lose marks for writing too much?",
+          "answer": "Extra correct material usually earns nothing, and it costs time. Extra material that contradicts your answer can cost the point. Answer the verb, then stop."
+        },
+        {
+          "question": "Do I need full sentences?",
+          "answer": "Yes. Outlines, bullet lists or a diagram on its own are not scored, unless a part asks you to draw or graph."
+        },
+        {
+          "question": "What if I cannot finish an early part that a later part depends on?",
+          "answer": "Make a sensible assumption, say what it is in one line, and answer the later part. A blank part earns nothing."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "checkedBy": "marlbridge-academic-team",
+      "checkedDate": "2026-10-05",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/biology/exam-skills-task-verbs/",
+      "words": 2999,
+      "sourceFile": "src/content/ap-resources/biology/exam-skills-task-verbs.md"
     },
     {
       "resourceId": "mb-ap-bio-u1-diagnostic",
@@ -36021,6 +36177,162 @@
       "url": "/advanced-course-resources/calculus-ab/8-9-volume-disc-method-revolving-around-study-guide/",
       "words": 2419,
       "sourceFile": "src/content/ap-resources/calculus-ab/8-9-volume-disc-method-revolving-around-study-guide.md"
+    },
+    {
+      "resourceId": "mb-ap-calcab-exam-skills-notation-justification",
+      "title": "Notation, Justification and Communication: Exam Skills Guide (Calculus AB and BC)",
+      "description": "How to write calculus answers that earn credit: clear notation, theorem conditions, sign-chart justifications, units in context, and calculator set-ups.",
+      "course": "calculus-ab",
+      "unit": 1,
+      "topics": [],
+      "resourceType": "exam-skills",
+      "calculusScope": "ab-and-bc",
+      "prerequisites": [
+        "You have studied most of the course, or at least Units 1 to 5",
+        "You can find derivatives and definite integrals with and without a graphing calculator"
+      ],
+      "learningObjectives": [
+        "Write limits, derivatives, integrals and their units in notation a marker can follow line by line",
+        "Check and state the conditions of the Intermediate Value, Mean Value and Extreme Value Theorems before using them",
+        "Turn a sign chart or a second-derivative value into a written justification that names the function and the reason",
+        "Interpret a derivative, an integral or an approximation in context, with the time, the units and the direction of change",
+        "Show the set-up a calculator-active answer needs and the steps a calculator-free answer needs"
+      ],
+      "skills": [
+        "2",
+        "3",
+        "4"
+      ],
+      "studyMinutes": 55,
+      "difficulty": "mixed",
+      "calculator": "mixed",
+      "calculatorNote": "Worked example 4 needs a graphing calculator; everything else is calculator-free. Store unrounded values and give calculator answers to three decimal places unless a question says otherwise.",
+      "related": [
+        "mb-ap-calcab-1.16-study-guide",
+        "mb-ap-calcab-4.6-study-guide",
+        "mb-ap-calcab-5.4-study-guide",
+        "mb-ap-calcab-5.1-study-guide",
+        "mb-ap-calcab-8.3-study-guide",
+        "mb-ap-calcab-exam-skills-task-verbs"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-calculus-ab-bc",
+        "page-calculus-ab",
+        "page-calculus-bc"
+      ],
+      "keyPoints": [
+        "A correct number with no supporting work can lose credit: write the expression, then the value.",
+        "Before you use a theorem, name it and state that its conditions hold for this function on this interval.",
+        "A sign chart is evidence, not a justification. Write a sentence: name the function, the x-value and the sign change.",
+        "In context, say what is changing, at what time, in which direction, and in which units.",
+        "Shared guide for Calculus AB and Calculus BC students; one short section is BC only and is labelled."
+      ],
+      "faqs": [
+        {
+          "question": "Is this guide for Calculus AB or Calculus BC?",
+          "answer": "Both. Everything is shared content except one short section on series, parametric and polar notation, which is labelled BC only."
+        },
+        {
+          "question": "Will I lose credit for writing dy/dx instead of f′(x)?",
+          "answer": "Either notation is fine if it is correct and clear. What costs credit is notation that is wrong, such as dropping the limit symbol or the differential, or writing an equals sign between things that are not equal."
+        },
+        {
+          "question": "How many decimal places should I give?",
+          "answer": "Unless the question says otherwise, give calculator answers correct to three decimal places, and keep full accuracy in the calculator until the final step."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "checkedBy": "marlbridge-academic-team",
+      "checkedDate": "2026-10-05",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/calculus-ab/exam-skills-notation-justification/",
+      "words": 3005,
+      "sourceFile": "src/content/ap-resources/calculus-ab/exam-skills-notation-justification.md"
+    },
+    {
+      "resourceId": "mb-ap-calcab-exam-skills-task-verbs",
+      "title": "Task Verbs and Free-Response Technique: Exam Skills Guide (Calculus AB and BC)",
+      "description": "What each free-response task verb asks you to do, how much to write, how to plan your time and show work, and what earns or loses credit, with original worked examples.",
+      "course": "calculus-ab",
+      "unit": 1,
+      "topics": [],
+      "resourceType": "exam-skills",
+      "calculusScope": "ab-and-bc",
+      "prerequisites": [
+        "You have studied most of the course, at least Units 1 to 6",
+        "You can use a graphing calculator to evaluate a definite integral and a derivative at a point"
+      ],
+      "learningObjectives": [
+        "Say what each task verb in a free-response question requires and how much to write for it",
+        "Break a multi-part question into its stem, shared information and separate tasks",
+        "Show the set-up for every calculation, including calculator results, and round to three decimal places",
+        "Write justifications that name a definition, theorem or test, check its conditions and draw the conclusion",
+        "Plan your time across the calculator and no-calculator parts of the free-response section"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "studyMinutes": 55,
+      "difficulty": "mixed",
+      "calculator": "mixed",
+      "calculatorNote": "Worked example 2 is a calculator question; everything else is done by hand. Calculator answers are given to three decimal places, and angles are in radians.",
+      "related": [
+        "mb-ap-calcab-exam-skills-notation-justification",
+        "mb-ap-calcab-5.1-study-guide",
+        "mb-ap-calcab-8.3-study-guide",
+        "mb-ap-calcab-7.7-study-guide",
+        "mb-ap-calcab-4.1-study-guide"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-calculus-ab-bc",
+        "page-calculus-ab",
+        "page-calculus-bc"
+      ],
+      "keyPoints": [
+        "The task verb tells you what to hand in: a value, an expression, a reason, a sentence in context, or a picture.",
+        "Every calculation needs its set-up on the page. A bare calculator number can lose the point even when it is right.",
+        "A justification names the theorem or test, checks that it applies, and states the conclusion about the function in the question.",
+        "Give decimal answers to three places, and store unrounded values in your calculator.",
+        "Calculus AB and Calculus BC use the same verbs; BC adds series, parametric, polar and vector content to the same habits."
+      ],
+      "faqs": [
+        {
+          "question": "Is this page for Calculus AB or Calculus BC?",
+          "answer": "Both. The free-response section has the same structure and the same task verbs in both courses. Where the BC exam differs, this page says so."
+        },
+        {
+          "question": "Do I lose credit for writing more than the question asks?",
+          "answer": "Extra correct work does not hurt, but extra wrong statements can. If you add a reason that is false, a marker may not be able to award the point. Write what the verb asks for, clearly, and stop."
+        },
+        {
+          "question": "What if I cannot answer part (a) but need its value in part (b)?",
+          "answer": "Write down a value you will use, say it is your value from part (a) or an assumed value, and carry on. A marker can only credit a method they can see."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "checkedBy": "marlbridge-academic-team",
+      "checkedDate": "2026-10-05",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/calculus-ab/exam-skills-task-verbs/",
+      "words": 2908,
+      "sourceFile": "src/content/ap-resources/calculus-ab/exam-skills-task-verbs.md"
     },
     {
       "resourceId": "mb-ap-calcab-u1-diagnostic",
@@ -66462,6 +66774,159 @@
       "sourceFile": "src/content/ap-resources/chemistry/9-9-cell-potential-free-energy-study-guide.md"
     },
     {
+      "resourceId": "mb-ap-chem-exam-skills-explanations-calculations",
+      "title": "Explanations, Calculations and Representations: Exam Skills Guide (Chemistry)",
+      "description": "Write particle-level explanations that name a cause, set out multi-step calculations with units and significant figures, read and draw particulate diagrams, and back every claim with data.",
+      "course": "chemistry",
+      "unit": 1,
+      "topics": [],
+      "resourceType": "exam-skills",
+      "prerequisites": [
+        "You have studied most of the nine units of the course, or are revising them",
+        "You can convert between mass, moles, volume and concentration and balance an equation"
+      ],
+      "learningObjectives": [
+        "Write explanations that link an observation to a named particle-level cause: Coulombic attraction, intermolecular forces, collisions or a shift in equilibrium",
+        "Set out a multi-step calculation with an equation, substituted values, units, sensible significant figures and any assumption stated",
+        "Draw particulate diagrams that conserve atoms and show correct ratios, charges and orientations, and read graphs and data tables accurately",
+        "Justify a claim by quoting specific data and stating the principle that connects the data to the claim"
+      ],
+      "skills": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "studyMinutes": 55,
+      "difficulty": "mixed",
+      "calculator": "scientific",
+      "calculatorNote": "Ionic radii (pm): Rb⁺ 152, Sr²⁺ 118, F⁻ 133, O²⁻ 140. Standard reduction potentials: Ag⁺/Ag +0.80 V, Cr³⁺/Cr −0.74 V. F = 96 485 C mol⁻¹. Reactants P and Q, species A and A₂ and the boiling liquid are fictional",
+      "related": [
+        "mb-ap-chem-2.3-study-guide",
+        "mb-ap-chem-4.6-study-guide",
+        "mb-ap-chem-5.2-study-guide",
+        "mb-ap-chem-8.6-study-guide",
+        "mb-ap-chem-7.10-study-guide",
+        "mb-ap-chem-exam-skills-task-verbs"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-chemistry",
+        "page-chemistry"
+      ],
+      "keyPoints": [
+        "A strong explanation names the particle-level cause (Coulombic attraction, intermolecular forces, collisions or Q compared with K) and links it to what is observed.",
+        "A calculation earns credit when the reader can follow it: equation, numbers with units, answer with unit and sensible significant figures, and any assumption stated.",
+        "A particulate diagram must conserve atoms, show the right ratio and charges, and orient polar molecules correctly; a graph or table is evidence only when you quote values from it.",
+        "Justify means claim, then evidence (specific numbers), then the reasoning that connects them."
+      ],
+      "faqs": [
+        {
+          "question": "How many significant figures should a final answer have?",
+          "answer": "Match the least precise measurement used in multiplication or division. For a difference such as a temperature change, count decimal places first, then significant figures. Keep extra digits during the working and round once at the end."
+        },
+        {
+          "question": "Do I have to write units on every line?",
+          "answer": "Write units on the substituted values and on every answer you give. Units on each line make mistakes easy to spot and show the reader how the quantities combine."
+        },
+        {
+          "question": "Can I draw a particulate diagram roughly?",
+          "answer": "Yes, as long as it is clear. Use a key, keep the particle counts and ratios correct, show charges on ions and point the right end of each water molecule at each ion."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "checkedBy": "marlbridge-academic-team",
+      "checkedDate": "2026-10-05",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/chemistry/exam-skills-explanations-calculations/",
+      "words": 2995,
+      "sourceFile": "src/content/ap-resources/chemistry/exam-skills-explanations-calculations.md"
+    },
+    {
+      "resourceId": "mb-ap-chem-exam-skills-task-verbs",
+      "title": "Task Verbs and Free-Response Technique: Exam Skills Guide (Chemistry)",
+      "description": "Learn what each free-response task verb in chemistry asks for, how much to write, how to plan the section's time and how to set out calculations, with original worked examples.",
+      "course": "chemistry",
+      "unit": 1,
+      "topics": [],
+      "resourceType": "exam-skills",
+      "prerequisites": [
+        "You have studied most of the nine units of the course",
+        "You can do mole, gas, calorimetry and equilibrium calculations with a calculator"
+      ],
+      "learningObjectives": [
+        "Recognise every free-response task verb and say what a complete answer to each one must contain",
+        "Match the length and form of an answer to its verb and to the points a part is likely worth",
+        "Read a multi-part question so that each part uses the right data and earlier results",
+        "Set out calculations with an equation, substituted values, units, sign and sensible significant figures",
+        "Plan time across the three long and four short questions of the free-response section"
+      ],
+      "skills": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "studyMinutes": 50,
+      "difficulty": "mixed",
+      "calculator": "scientific",
+      "calculatorNote": "Specific heat capacity of dilute solutions taken as 4.18 J g⁻¹ °C⁻¹ and density 1.00 g mL⁻¹. Molar masses: C 12.01, H 1.008, O 16.00 g mol⁻¹. Weak acid HA, reaction 2X + Y ⇌ 2Z and the rate data are fictional",
+      "related": [
+        "mb-ap-chem-3.1-study-guide",
+        "mb-ap-chem-6.4-study-guide",
+        "mb-ap-chem-7.10-study-guide",
+        "mb-ap-chem-5.2-study-guide",
+        "mb-ap-chem-4.2-study-guide",
+        "mb-ap-chem-exam-skills-explanations-calculations"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-chemistry",
+        "page-chemistry"
+      ],
+      "keyPoints": [
+        "The verb sets the job: Identify needs only the answer, Calculate needs visible working, Justify needs evidence linked to the claim.",
+        "Free response is 7 questions in 105 minutes: 3 long (10 points each) and 4 short (4 points each).",
+        "A sensible plan is about 20 minutes per long question and 9 per short one, leaving about 9 minutes to check.",
+        "A calculation answer should show the equation, the substituted numbers, a unit, the sign where it matters and sensible significant figures.",
+        "Most lost credit comes from a claim with no reason, a reason with no link to the claim, or a number with no working."
+      ],
+      "faqs": [
+        {
+          "question": "Do I need full sentences for every part?",
+          "answer": "No. Identify, Calculate and Write an equation parts need no sentences. Explain, Justify and Describe parts read best as one to three short, complete sentences that name the evidence."
+        },
+        {
+          "question": "What if I cannot do an early part that a later part needs?",
+          "answer": "Write a clearly labelled assumed value and carry on. Your method in the later part can then be checked against that value, and you avoid leaving several parts blank."
+        },
+        {
+          "question": "Should I round at each step of a calculation?",
+          "answer": "No. Keep extra digits in your calculator and round only the final answer. Rounding early can change the last figure of your answer."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "checkedBy": "marlbridge-academic-team",
+      "checkedDate": "2026-10-05",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/chemistry/exam-skills-task-verbs/",
+      "words": 2797,
+      "sourceFile": "src/content/ap-resources/chemistry/exam-skills-task-verbs.md"
+    },
+    {
       "resourceId": "mb-ap-chem-u1-diagnostic",
       "title": "Atomic Structure and Properties: Unit Diagnostic (Chemistry Unit 1)",
       "description": "Ten short original questions, one or two per topic, to find which parts of atomic structure, composition and periodic trends you should revisit before the unit review.",
@@ -77844,6 +78309,162 @@
       "sourceFile": "src/content/ap-resources/macroeconomics/6-6-real-interest-rates-international-capital-study-guide.md"
     },
     {
+      "resourceId": "mb-ap-macro-exam-skills-graphs-explanations",
+      "title": "Drawing Graphs and Writing Cause-and-Effect Explanations: Exam Skills Guide (Macroeconomics)",
+      "description": "Draw correctly labelled AD-AS, money market, loanable funds, Phillips curve and foreign exchange graphs, link two graphs in one answer, write complete cause-and-effect chains and set out calculations.",
+      "course": "macroeconomics",
+      "unit": 1,
+      "topics": [],
+      "resourceType": "exam-skills",
+      "prerequisites": [
+        "You have studied most of the six units of the course, or are revising them",
+        "You can draw a supply and demand graph and show a shift of one curve"
+      ],
+      "learningObjectives": [
+        "Draw the five main graphs of the course with correct axis labels and curve labels, and show a shift with a new curve, an arrow and a labelled new equilibrium",
+        "Link two graphs in one answer so that the result of the first graph becomes the cause on the second",
+        "Write cause-and-effect chains that name the direction of every variable from the starting change to the final outcome",
+        "Set out multiplier, money creation and real-value calculations with a formula, substituted numbers and a labelled answer",
+        "Tell identify, explain and calculate questions apart and give each the kind of answer it asks for"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "studyMinutes": 55,
+      "difficulty": "mixed",
+      "calculator": "four-function",
+      "calculatorNote": "A four-function calculator is enough. All data are fictional, in billions of valdas (VD bn) for Valdoria; the kesta (KS) is the currency of Kestria. Rates are in per cent.",
+      "related": [
+        "mb-ap-macro-3.2-study-guide",
+        "mb-ap-macro-3.6-study-guide",
+        "mb-ap-macro-4.4-study-guide",
+        "mb-ap-macro-5.2-study-guide",
+        "mb-ap-macro-6.6-study-guide",
+        "mb-ap-macro-exam-skills-task-verbs"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-macroeconomics",
+        "page-macroeconomics",
+        "clar-macroeconomics"
+      ],
+      "keyPoints": [
+        "A graph earns credit only when both axes and every curve are labelled, the shift is shown with a new labelled curve, and the new equilibrium values are marked on the axes.",
+        "When an answer needs two graphs, the variable that changes on the first graph is the cause on the second: the nominal interest rate links the money market to AD-AS.",
+        "A cause-and-effect chain states the direction of every link, for example: interest rate falls, investment rises, AD increases, real GDP and the price level rise.",
+        "Calculations need a formula, the numbers substituted and an answer with units; the multiplier you use must match the change (spending, tax or money).",
+        "Identify asks for a short answer, explain asks how or why, and calculate asks for working."
+      ],
+      "faqs": [
+        {
+          "question": "Do I need to put numbers on my graphs?",
+          "answer": "Only when the question gives numbers or asks you to show a value. Otherwise use labels such as PL₁, PL₂, Y₁ and Y₂ on the axes, with dashed lines from each equilibrium to the axes."
+        },
+        {
+          "question": "Can a graph replace a written explanation?",
+          "answer": "A graph can support an explanation, but when the question says explain, write the chain in words as well. The graph shows the result; the words show the reason."
+        },
+        {
+          "question": "How long should a cause-and-effect chain be?",
+          "answer": "Long enough to reach the variable the question asks about, with no gaps. Most chains have three to five links. Stop when you reach the outcome asked for."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "checkedBy": "marlbridge-academic-team",
+      "checkedDate": "2026-10-05",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/macroeconomics/exam-skills-graphs-explanations/",
+      "words": 2989,
+      "sourceFile": "src/content/ap-resources/macroeconomics/exam-skills-graphs-explanations.md"
+    },
+    {
+      "resourceId": "mb-ap-macro-exam-skills-task-verbs",
+      "title": "Task Verbs and Free-Response Technique: Exam Skills Guide (Macroeconomics)",
+      "description": "What each free-response task verb asks you to do, how much to write, how to read a multi-part question, plan your time and show work, with original worked examples.",
+      "course": "macroeconomics",
+      "unit": 1,
+      "topics": [],
+      "resourceType": "exam-skills",
+      "prerequisites": [
+        "You have studied at least the first three units of the course",
+        "You can draw the basic course graphs: AD–AS, the money market, loanable funds and the foreign exchange market"
+      ],
+      "learningObjectives": [
+        "Say what each free-response task verb requires and how much to write for it",
+        "Read a multi-part question so that each part uses the right information and your earlier answers",
+        "Plan the 60 minutes of the free-response section across one long and two short questions",
+        "Show calculation work so a reader can follow every step from formula to answer",
+        "Spot the habits that earn credit and the habits that lose it"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "studyMinutes": 50,
+      "difficulty": "mixed",
+      "calculator": "four-function",
+      "calculatorNote": "A four-function calculator is enough for every example. Write the formula before the numbers, keep unrounded values until the last step, and round money to VD 0.01 and percentages to 2 decimal places.",
+      "related": [
+        "mb-ap-macro-3.2-study-guide",
+        "mb-ap-macro-4.5-study-guide",
+        "mb-ap-macro-4.6-study-guide",
+        "mb-ap-macro-6.5-study-guide",
+        "mb-ap-macro-2.3-study-guide",
+        "mb-ap-macro-exam-skills-graphs-explanations"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-macroeconomics",
+        "page-macroeconomics",
+        "clar-macroeconomics"
+      ],
+      "keyPoints": [
+        "The task verb tells you the kind of answer: a short claim, a reason, a number with work, a graph, or a change shown on a graph.",
+        "Identify and question words (what, which, will) need a short answer; explain needs the cause, the link and the result.",
+        "Read every part before you write: later parts often build on your earlier answers and graphs.",
+        "For a calculation, write the formula, substitute the numbers, then give the answer with units.",
+        "Most lost credit comes from mislabelled graphs, missing steps in a chain of reasoning and bare numbers with no work."
+      ],
+      "faqs": [
+        {
+          "question": "How long should an answer be?",
+          "answer": "As long as the verb needs. For identify, a word or a short phrase is enough. For explain, write the cause, the link and the result, usually one to three sentences. Extra writing can add a wrong statement that cancels a right one."
+        },
+        {
+          "question": "What if I get an early part wrong?",
+          "answer": "Keep going and stay consistent. Use your own earlier answer in later parts and say so, for example 'using my answer to part (B)'. A later part can still show correct economics even if the earlier value was wrong."
+        },
+        {
+          "question": "Can I use arrows instead of sentences when I explain?",
+          "answer": "Yes, graphs and symbols can be part of an explanation. Each link must still be clear: name what changes and in which direction, for example 'money supply rises, so the nominal interest rate falls, so investment rises'."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "checkedBy": "marlbridge-academic-team",
+      "checkedDate": "2026-10-05",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/macroeconomics/exam-skills-task-verbs/",
+      "words": 3000,
+      "sourceFile": "src/content/ap-resources/macroeconomics/exam-skills-task-verbs.md"
+    },
+    {
       "resourceId": "mb-ap-macro-u1-diagnostic",
       "title": "Basic Economic Concepts: Unit Diagnostic (Macroeconomics Unit 1)",
       "description": "A 30-minute check on scarcity, opportunity cost and the PPC, comparative advantage, demand, supply and market equilibrium, with explanations and a link to revisit for each topic.",
@@ -87338,6 +87959,160 @@
       "url": "/advanced-course-resources/microeconomics/6-5-inequality-study-guide/",
       "words": 2594,
       "sourceFile": "src/content/ap-resources/microeconomics/6-5-inequality-study-guide.md"
+    },
+    {
+      "resourceId": "mb-ap-micro-exam-skills-graphs-explanations",
+      "title": "Drawing Graphs and Writing Cause-and-Effect Explanations: Exam Skills Guide (Microeconomics)",
+      "description": "Draw fully labelled graphs with shifts, arrows and shaded areas, pair firm and market graphs, write cause-and-effect chains that state every direction, and show the steps in every calculation.",
+      "course": "microeconomics",
+      "unit": 1,
+      "topics": [],
+      "resourceType": "exam-skills",
+      "prerequisites": [
+        "You have studied most of the six units of the course, or are revising them",
+        "You can draw supply and demand, cost curves and the profit-maximising rule MR = MC"
+      ],
+      "learningObjectives": [
+        "Draw graphs that earn every label point: axes, curves, equilibrium values, shifts with arrows and correctly shaded areas",
+        "Draw side-by-side market and firm graphs (or labour market and firm graphs) with the price or wage carried across",
+        "Write cause-and-effect chains that name each link and state the direction of every change",
+        "Set out elasticity, surplus, profit and marginal calculations so a reader can follow every step",
+        "Tell identify, explain and calculate questions apart and give each the answer it asks for"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "studyMinutes": 55,
+      "difficulty": "mixed",
+      "calculator": "four-function",
+      "calculatorNote": "All countries, firms, markets and data are fictional. Only addition, subtraction, multiplication and division are needed",
+      "related": [
+        "mb-ap-micro-2.8-study-guide",
+        "mb-ap-micro-3.7-study-guide",
+        "mb-ap-micro-4.2-study-guide",
+        "mb-ap-micro-2.3-study-guide",
+        "mb-ap-micro-6.2-study-guide",
+        "mb-ap-micro-exam-skills-task-verbs"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-microeconomics",
+        "page-microeconomics"
+      ],
+      "keyPoints": [
+        "A graph earns credit through its labels: both axes, every curve, the equilibrium price and quantity, an arrow for each shift and a clear label on any shaded area.",
+        "For a price-taking firm, draw the market and the firm side by side and carry the market price across as P = MR = d.",
+        "A strong explanation is a chain of links, and every link states a direction: rises, falls, shifts left, shifts right.",
+        "Show calculation steps: the rule, the numbers put into it and the answer with its unit.",
+        "Identify wants a short answer, explain wants the reason why, and calculate wants the working as well as the result."
+      ],
+      "faqs": [
+        {
+          "question": "Do my graphs need to be drawn to scale?",
+          "answer": "No. They need to be clear and correctly labelled, with curves sloping the right way and points in the right order. Mark the values the question gives on the axes, and use dashed lines to link each point to its price and quantity."
+        },
+        {
+          "question": "If I draw a correct graph, do I still need to write an explanation?",
+          "answer": "Yes, if the question says explain. A graph can support an explanation, but write the reasoning in words as well. A graph alone often shows what happens without saying why."
+        },
+        {
+          "question": "How much working should I show in a calculation?",
+          "answer": "Enough for a reader to follow you: the formula or rule, the numbers you put into it and the final answer with its unit. A correct number with no working may not earn the point."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "checkedBy": "marlbridge-academic-team",
+      "checkedDate": "2026-10-05",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/microeconomics/exam-skills-graphs-explanations/",
+      "words": 2999,
+      "sourceFile": "src/content/ap-resources/microeconomics/exam-skills-graphs-explanations.md"
+    },
+    {
+      "resourceId": "mb-ap-micro-exam-skills-task-verbs",
+      "title": "Task Verbs and Free-Response Technique: Exam Skills Guide (Microeconomics)",
+      "description": "Learn what each free-response task verb in microeconomics asks for, how much to write, how to plan the section's time and how to set out calculations, with original worked examples.",
+      "course": "microeconomics",
+      "unit": 1,
+      "topics": [],
+      "resourceType": "exam-skills",
+      "prerequisites": [
+        "You have studied most of the six units of the course",
+        "You can draw the main market, cost and firm graphs and do simple calculations with a four-function calculator"
+      ],
+      "learningObjectives": [
+        "Recognise every free-response task verb and say what a complete answer to each one must contain",
+        "Match the length and form of an answer to its verb and to the points a part is likely worth",
+        "Read a multi-part question so that each part uses the right graph, data and earlier results",
+        "Set out calculations with a formula, substituted values, a unit and a clear final answer",
+        "Plan time across the one long and two short questions of the free-response section"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "studyMinutes": 50,
+      "difficulty": "mixed",
+      "calculator": "four-function",
+      "calculatorNote": "All places, firms and data are fictional. Only addition, subtraction, multiplication and division are needed",
+      "related": [
+        "mb-ap-micro-2.8-study-guide",
+        "mb-ap-micro-4.2-study-guide",
+        "mb-ap-micro-5.3-study-guide",
+        "mb-ap-micro-3.6-study-guide",
+        "mb-ap-micro-6.2-study-guide",
+        "mb-ap-micro-exam-skills-graphs-explanations"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-microeconomics",
+        "page-microeconomics"
+      ],
+      "keyPoints": [
+        "The verb sets the job: Identify needs only the answer, Explain needs a reason linked to the answer, Calculate needs visible working.",
+        "Free response is 3 questions in 60 minutes, including a 10-minute reading period: 1 long question (10 points) and 2 short questions (5 points each).",
+        "Graphing tasks carry 30-50% of free-response points, so every graph needs labelled axes, labelled curves and labelled equilibrium values.",
+        "A sensible plan for the 50 writing minutes is about 25 minutes on the long question, 11 on each short one and 3 to check.",
+        "Most lost credit comes from a direction with no reason, a reason that skips a step, an unlabelled graph or a number with no working."
+      ],
+      "faqs": [
+        {
+          "question": "Do I need full sentences for every part?",
+          "answer": "No. Identify and Calculate parts need a word, a value or a short line of working. Explain parts read best as one to three short sentences that link cause to effect."
+        },
+        {
+          "question": "Can a graph count as part of an explanation?",
+          "answer": "Yes, the course allows graphs and symbols in an explanation. Still add a sentence in words, because a reader needs to see which curve moved and why."
+        },
+        {
+          "question": "What if I cannot do an early part that a later part needs?",
+          "answer": "Write a clearly labelled assumption, such as an assumed price or quantity, and carry on. Later parts can then be checked against your own value instead of being left blank."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "checkedBy": "marlbridge-academic-team",
+      "checkedDate": "2026-10-05",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/microeconomics/exam-skills-task-verbs/",
+      "words": 3413,
+      "sourceFile": "src/content/ap-resources/microeconomics/exam-skills-task-verbs.md"
     },
     {
       "resourceId": "mb-ap-micro-u1-diagnostic",
@@ -98445,6 +99220,157 @@
       "url": "/advanced-course-resources/physics-1/8-4-fluids-conservation-laws-study-guide/",
       "words": 2544,
       "sourceFile": "src/content/ap-resources/physics-1/8-4-fluids-conservation-laws-study-guide.md"
+    },
+    {
+      "resourceId": "mb-ap-phys1-exam-skills-representations-derivations",
+      "title": "Representations, Derivations and Experimental Design: Exam Skills Guide (Physics 1)",
+      "description": "Draw free-body diagrams, motion graphs and energy bar charts that score, derive and check symbolic answers, write paragraph arguments and design experiments with linearised graphs.",
+      "course": "physics-1",
+      "unit": 1,
+      "topics": [],
+      "resourceType": "exam-skills",
+      "prerequisites": [
+        "You have studied at least Units 1 to 3 of the course, so you know Newton's laws and conservation of energy",
+        "You can rearrange an equation and find the gradient of a straight line"
+      ],
+      "learningObjectives": [
+        "Draw free-body diagrams, motion graphs and energy bar charts that match a situation and lead to equations",
+        "Derive a symbolic answer from a law or diagram, then test it with units and limiting cases",
+        "Check that a diagram, a graph and an equation for the same situation agree, and explain any mismatch",
+        "Write a short paragraph argument that links a claim to a law through a chain of physical steps",
+        "Plan a single-variable experiment and linearise data so the gradient gives a wanted quantity"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "studyMinutes": 55,
+      "difficulty": "mixed",
+      "calculator": "scientific",
+      "calculatorNote": "Algebra and trigonometry only; no calculus. Set your calculator to degrees. We use g = 9.8 m/s². Give answers to 2 or 3 significant figures and keep unrounded values until the last step",
+      "related": [
+        "mb-ap-phys1-2.2-study-guide",
+        "mb-ap-phys1-3.4-study-guide",
+        "mb-ap-phys1-8.4-study-guide",
+        "mb-ap-phys1-1.3-study-guide",
+        "mb-ap-phys1-5.5-study-guide",
+        "mb-ap-phys1-exam-skills-task-verbs"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-physics-1",
+        "page-physics-1"
+      ],
+      "keyPoints": [
+        "A representation earns marks only when it is complete and consistent: every force named, every graph feature matching the motion, every energy store on the bar chart.",
+        "Start every derivation from a law or a reference-sheet equation, keep it in symbols to the end, then test it with units and with one or two limiting cases.",
+        "A paragraph argument needs a claim, the law that governs the situation, and a chain of steps linking the two with no gaps.",
+        "In experiment design, change one variable, measure one response, repeat, and plot a straight-line graph whose gradient or intercept gives the quantity you want."
+      ],
+      "faqs": [
+        {
+          "question": "How do I know which quantity to put on each axis when I linearise?",
+          "answer": "Rearrange the relationship into the form y = (constant) × x. Whatever you measure and change goes on the horizontal axis, possibly squared or inverted, and the gradient is the constant. Then solve that constant for the quantity you want."
+        },
+        {
+          "question": "Do I need numbers to check a derivation with limiting cases?",
+          "answer": "No. Choose a value that makes the situation simple, such as an angle of zero or a friction coefficient of zero, and see whether your expression gives the result you already know for that simple case."
+        },
+        {
+          "question": "Does a free-body diagram earn marks in every question?",
+          "answer": "Only when the question asks for one. In other questions it still helps you, but the marks come from the equations and reasoning that follow from it."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "checkedBy": "marlbridge-academic-team",
+      "checkedDate": "2026-10-05",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/physics-1/exam-skills-representations-derivations/",
+      "words": 3051,
+      "sourceFile": "src/content/ap-resources/physics-1/exam-skills-representations-derivations.md"
+    },
+    {
+      "resourceId": "mb-ap-phys1-exam-skills-task-verbs",
+      "title": "Task Verbs and Free-Response Technique: Exam Skills Guide (Physics 1)",
+      "description": "What each free-response task verb asks you to write, how much to write, how to read a multi-part question, plan the 95 minutes and show calculation work.",
+      "course": "physics-1",
+      "unit": 1,
+      "topics": [],
+      "resourceType": "exam-skills",
+      "prerequisites": [
+        "You have studied at least three units of the algebra-based Physics 1 course",
+        "You can use Newton's laws, energy and momentum in simple one-step problems"
+      ],
+      "learningObjectives": [
+        "Explain what each free-response task verb asks for and how long the answer should be",
+        "Read a multi-part question and plan how its parts connect before writing",
+        "Set out a calculation or derivation so every step can be followed and credited",
+        "Write a justification that links a claim to a named law and to the situation",
+        "Plan your time across the four free-response questions"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "studyMinutes": 50,
+      "difficulty": "mixed",
+      "calculator": "scientific",
+      "calculatorNote": "Algebra only, no calculus. We use g = 9.8 m/s². The course framework says exam questions use g = 10 m/s², and 9.8 m/s² is also accepted. Give answers to 2 or 3 significant figures; keep unrounded values until the last step",
+      "related": [
+        "mb-ap-phys1-3.4-study-guide",
+        "mb-ap-phys1-5.5-study-guide",
+        "mb-ap-phys1-4.4-study-guide",
+        "mb-ap-phys1-7.2-study-guide",
+        "mb-ap-phys1-8.4-study-guide",
+        "mb-ap-phys1-exam-skills-representations-derivations"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-physics-1",
+        "page-physics-1"
+      ],
+      "keyPoints": [
+        "The task verb tells you what earns credit: a number, an expression, a picture, an order, or a reason.",
+        "Calculate means equation, substitution, answer and unit. Derive means start from a law and keep symbols to the end.",
+        "Justify means a reason in words that names the physics and links it to this situation. A restated claim is not a reason.",
+        "Read every part before you write. Later parts usually build on earlier ones, so plan the chain first.",
+        "The four questions carry 10, 12, 10 and 8 points in 95 minutes: roughly 2.4 minutes per point."
+      ],
+      "faqs": [
+        {
+          "question": "Do I lose credit if I give more than the question asks for?",
+          "answer": "Extra correct physics does no harm, but it costs time. Extra wrong physics can cost credit, because a marker cannot tell which of two statements you mean. Answer what the verb asks, then stop."
+        },
+        {
+          "question": "What if I cannot get an earlier part?",
+          "answer": "Do not leave the later parts blank. Use a sensible value or symbol for the missing answer, say so in one line, and carry on. In the suggested Marlbridge rubric, a later part that correctly uses an earlier wrong value still earns its points."
+        },
+        {
+          "question": "Should I write in full sentences?",
+          "answer": "For justify, describe and compare, yes: short, complete sentences are clearest. For indicate, label and rank, a single word, letter or list is enough."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "checkedBy": "marlbridge-academic-team",
+      "checkedDate": "2026-10-05",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/physics-1/exam-skills-task-verbs/",
+      "words": 2996,
+      "sourceFile": "src/content/ap-resources/physics-1/exam-skills-task-verbs.md"
     },
     {
       "resourceId": "mb-ap-phys1-u1-diagnostic",
@@ -110621,6 +111547,160 @@
       "sourceFile": "src/content/ap-resources/physics-2/9-6-entropy-second-law-thermodynamics-study-guide.md"
     },
     {
+      "resourceId": "mb-ap-phys2-exam-skills-representations-derivations",
+      "title": "Representations, Derivations and Experimental Design: Exam Skills Guide (Physics 2)",
+      "description": "How to draw field, circuit, ray and PV diagrams that earn credit, derive and check expressions, translate between representations and linearise lab data.",
+      "course": "physics-2",
+      "unit": 9,
+      "topics": [],
+      "resourceType": "exam-skills",
+      "prerequisites": [
+        "You have studied most of Units 9 to 15, or are revising them",
+        "You can rearrange equations, work with units and draw a straight-line graph by hand"
+      ],
+      "learningObjectives": [
+        "Draw field and equipotential maps, circuit schematics, ray diagrams and PV diagrams that show the features a marker looks for",
+        "Derive an expression from a named law and test it with units and limiting cases",
+        "Translate a relationship between words, an equation, a graph shape and a diagram, in either direction",
+        "Design a procedure that changes one variable, measures one response and controls the rest",
+        "Linearise data, draw a best-fit line and find a physical quantity from its gradient"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "studyMinutes": 55,
+      "difficulty": "mixed",
+      "calculator": "scientific",
+      "calculatorNote": "μ₀ = 4π × 10⁻⁷ T·m/A; h = 4.14 × 10⁻¹⁵ eV·s. Gases are ideal and monatomic, and W is the work done on the gas. All data are invented. Round only at the end",
+      "related": [
+        "mb-ap-phys2-exam-skills-task-verbs",
+        "mb-ap-phys2-9.4-study-guide",
+        "mb-ap-phys2-10.5-study-guide",
+        "mb-ap-phys2-12.3-study-guide",
+        "mb-ap-phys2-13.4-study-guide",
+        "mb-ap-phys2-15.5-study-guide"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-physics-2",
+        "clar-physics-2",
+        "page-physics-2"
+      ],
+      "keyPoints": [
+        "A diagram earns credit only for the features it shows: directions, labels, perpendicular crossings, arrows on paths and consistent spacing.",
+        "Derive from a named law, keep symbols to the end, then test the result with units and at least one limiting case.",
+        "In a translation question, your diagram, equation, graph and words must agree; say explicitly why they agree.",
+        "A sound procedure changes one variable, measures one response, controls the rest and says how the data will be analysed.",
+        "To linearise, rearrange the model into y = mx + c, plot the chosen y against the chosen x and read the physics from the gradient."
+      ],
+      "faqs": [
+        {
+          "question": "Do I lose credit if my derivation is right but I skip the starting law?",
+          "answer": "Often, yes. A derivation should start from a fundamental law or definition and show each step. An answer that jumps straight to a final expression gives the marker nothing to award if one step goes wrong."
+        },
+        {
+          "question": "Should I draw the best-fit line through the origin?",
+          "answer": "Only if the model says the line passes through the origin and the data agree. Draw the line that best fits your plotted points. A small intercept is normal experimental scatter; a large one may point to a systematic error worth mentioning."
+        },
+        {
+          "question": "How many limiting cases should I check?",
+          "answer": "One clear case is usually enough to show the habit; two is better for an expression with several variables. Pick a value that makes the physics obvious, such as a resistance going to zero or a distance becoming very large."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "checkedBy": "marlbridge-academic-team",
+      "checkedDate": "2026-10-05",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/physics-2/exam-skills-representations-derivations/",
+      "words": 2984,
+      "sourceFile": "src/content/ap-resources/physics-2/exam-skills-representations-derivations.md"
+    },
+    {
+      "resourceId": "mb-ap-phys2-exam-skills-task-verbs",
+      "title": "Task Verbs and Free-Response Technique: Exam Skills Guide (Physics 2)",
+      "description": "What each free-response task verb asks you to do, how much to write, how to plan the 95-minute section and show working, with weak and strong answers compared.",
+      "course": "physics-2",
+      "unit": 9,
+      "topics": [],
+      "resourceType": "exam-skills",
+      "prerequisites": [
+        "You have studied at least two units of the course and can use the equation and constant tables",
+        "You have tried some written practice questions and want to turn what you know into credit"
+      ],
+      "learningObjectives": [
+        "Explain in your own words what each of the fourteen free-response task verbs asks for",
+        "Match the length and form of an answer to its task verb, from one word to a full derivation",
+        "Break a multi-part question into steps and use earlier parts in later ones",
+        "Plan your time across the four question types of the free-response section",
+        "Set out calculations and justifications so that every step can earn credit"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "studyMinutes": 55,
+      "difficulty": "mixed",
+      "calculator": "scientific",
+      "calculatorNote": "h = 6.63 × 10⁻³⁴ J·s, c = 3.00 × 10⁸ m/s, e = 1.60 × 10⁻¹⁹ C. Batteries and wires are ideal unless stated. Round only at the end",
+      "related": [
+        "mb-ap-phys2-9.2-study-guide",
+        "mb-ap-phys2-11.4-study-guide",
+        "mb-ap-phys2-12.2-study-guide",
+        "mb-ap-phys2-14.6-study-guide",
+        "mb-ap-phys2-10.7-study-guide",
+        "mb-ap-phys2-exam-skills-representations-derivations"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-physics-2",
+        "clar-physics-2",
+        "page-physics-2"
+      ],
+      "keyPoints": [
+        "The task verb tells you what kind of answer earns credit: Indicate wants the answer only, Justify wants reasoning in words, Derive wants algebra from a starting law.",
+        "Free response is 4 questions in 95 minutes for 50% of the exam: about 2.4 minutes per point.",
+        "Read every part before you write; later parts often ask you to use or check your earlier answers.",
+        "For calculations, write the equation, substitute with units, and give the answer with a unit and sensible significant figures.",
+        "A justification must link a physics principle to the specific situation; an equation on its own is not a justification."
+      ],
+      "faqs": [
+        {
+          "question": "If a question says Indicate, will I lose credit for explaining?",
+          "answer": "Usually not, but extra writing costs time, and a wrong extra statement can contradict a correct answer. Give the answer clearly and move on unless the question also says Justify."
+        },
+        {
+          "question": "What should I do if I cannot finish an early part?",
+          "answer": "Keep going. Later parts are often marked on their own, and many can be done with a value or expression you name yourself. Write, for example, 'using my value of v from part (a)' so that your method can still be followed."
+        },
+        {
+          "question": "Is a correct number with no working enough for Calculate?",
+          "answer": "No. Calculate asks for the steps: the equation, the substitution and the answer with a unit. A bare number gives a reader nothing to credit if it is slightly wrong."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "checkedBy": "marlbridge-academic-team",
+      "checkedDate": "2026-10-05",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/physics-2/exam-skills-task-verbs/",
+      "words": 2992,
+      "sourceFile": "src/content/ap-resources/physics-2/exam-skills-task-verbs.md"
+    },
+    {
       "resourceId": "mb-ap-phys2-u10-diagnostic",
       "title": "Electric Force, Field, and Potential: Unit Diagnostic (Physics 2 Unit 10)",
       "description": "Eleven short original questions across all seven topics to find which electrostatics ideas to revisit: charge and force, charging, fields, potential energy, potential, capacitors and energy.",
@@ -118961,6 +120041,161 @@
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/9-3-conservation-electric-energy-study-guide/",
       "words": 2213,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/9-3-conservation-electric-energy-study-guide.md"
+    },
+    {
+      "resourceId": "mb-ap-physcem-exam-skills-representations-derivations",
+      "title": "Representations, Derivations and Experimental Design: Exam Skills Guide (Physics C: E&M)",
+      "description": "How to draw field, equipotential and circuit diagrams, choose Gaussian surfaces and Amperian loops, set out calculus derivations, check results and linearise lab data.",
+      "course": "physics-c-electricity-and-magnetism",
+      "unit": 8,
+      "topics": [],
+      "resourceType": "exam-skills",
+      "prerequisites": [
+        "You have studied most of Units 8 to 13 and are revising for the free-response section",
+        "Integrating with limits, differentiating, and separating variables in a first-order differential equation"
+      ],
+      "learningObjectives": [
+        "Draw field-line, equipotential, magnetic-field and circuit diagrams that follow the conventions markers expect",
+        "Choose a Gaussian surface or Amperian loop that matches the symmetry, and say in words why it works",
+        "Set out a derivation from a fundamental principle, including a charge-distribution integral, a circuit differential equation and an enclosed-current integral",
+        "Check a symbolic result with units, limiting cases, continuity and known bounds",
+        "Design a workable electrical experiment and linearise data so that a slope or intercept gives the quantity you want"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "studyMinutes": 55,
+      "difficulty": "mixed",
+      "calculator": "scientific",
+      "calculatorNote": "Calculus by hand; a calculator for arithmetic, exponentials and best-fit slopes. k = 8.99 × 10⁹ N·m²/C², μ₀ = 4π × 10⁻⁷ T·m/A, e⁻¹ ≈ 0.368. Give answers to 2 significant figures unless told otherwise",
+      "related": [
+        "mb-ap-physcem-8.4-study-guide",
+        "mb-ap-physcem-9.2-study-guide",
+        "mb-ap-physcem-11.8-study-guide",
+        "mb-ap-physcem-12.4-study-guide",
+        "mb-ap-physcem-13.5-study-guide",
+        "mb-ap-physcem-exam-skills-task-verbs"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-physics-c-electricity-and-magnetism",
+        "clar-physics-c-electricity-and-magnetism",
+        "page-physics-c-electricity-and-magnetism"
+      ],
+      "keyPoints": [
+        "Field lines start on positive charge and end on negative charge, never cross, and meet conductors at right angles. Equipotentials are always perpendicular to them.",
+        "Pick a Gaussian surface or Amperian loop on which the field is constant and perpendicular, or parallel, on every piece, and say so in words.",
+        "A derivation starts from a fundamental principle in general form (dE = k dq/r², Gauss's law, Ampère's law, the loop rule, Faraday's law), then substitutes and solves.",
+        "Check every result: units, a limiting case (far away, t = 0, t → ∞), continuity at a boundary and a known bound.",
+        "In a lab question, change one variable, measure one, and rearrange the theory into a straight line whose slope or intercept gives the quantity you want."
+      ],
+      "faqs": [
+        {
+          "question": "Do I have to draw a Gaussian surface if the question does not ask for one?",
+          "answer": "It is not always marked, but a quick sketch or one sentence naming the surface (for example, a coaxial cylinder of radius r and length ℓ) makes your flux step clear and protects the derivation marks."
+        },
+        {
+          "question": "Which way should I go round the loop when I write the loop rule?",
+          "answer": "Either way. Mark a current direction on the diagram first, then keep the same direction for every term. If a current comes out negative, it simply flows the other way."
+        },
+        {
+          "question": "How do I measure a time constant of a few milliseconds?",
+          "answer": "Use a voltage or current sensor with a data logger, or an oscilloscope. A stopwatch is fine only when RC or L/R is several seconds or more."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "checkedBy": "marlbridge-academic-team",
+      "checkedDate": "2026-10-05",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/exam-skills-representations-derivations/",
+      "words": 2995,
+      "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/exam-skills-representations-derivations.md"
+    },
+    {
+      "resourceId": "mb-ap-physcem-exam-skills-task-verbs",
+      "title": "Task Verbs and Free-Response Technique: Exam Skills Guide (Physics C: E&M)",
+      "description": "What each free-response task verb asks for in calculus-based electricity and magnetism, how much to write, how to plan the section and set out working, with original examples, rubrics and practice.",
+      "course": "physics-c-electricity-and-magnetism",
+      "unit": 8,
+      "topics": [],
+      "resourceType": "exam-skills",
+      "prerequisites": [
+        "You have studied most of the course, Units 8 to 13",
+        "You can integrate simple powers and solve a first-order differential equation by separating variables"
+      ],
+      "learningObjectives": [
+        "Say in your own words what each free-response task verb asks you to produce",
+        "Decide how much to write for a part from its verb and the symbols it allows",
+        "Plan your time across the four free-response questions",
+        "Lay out a derivation or calculation so that each step can earn credit",
+        "Recognise answers that lose credit and rewrite them as strong answers"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "studyMinutes": 55,
+      "difficulty": "mixed",
+      "calculator": "scientific",
+      "calculatorNote": "Calculus by hand; a calculator for arithmetic, logs and exponentials. k = 8.99 × 10⁹ N·m²/C²; ε₀ = 8.85 × 10⁻¹² C²/(N·m²); μ₀ = 4π × 10⁻⁷ T·m/A; e = 1.60 × 10⁻¹⁹ C; electron mass 9.11 × 10⁻³¹ kg. Give answers to 2 or 3 significant figures",
+      "calculusScope": "ab-and-bc",
+      "related": [
+        "mb-ap-physcem-8.6-study-guide",
+        "mb-ap-physcem-10.3-study-guide",
+        "mb-ap-physcem-12.3-study-guide",
+        "mb-ap-physcem-11.8-study-guide",
+        "mb-ap-physcem-13.3-study-guide",
+        "mb-ap-physcem-exam-skills-representations-derivations"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-physics-c-electricity-and-magnetism",
+        "clar-physics-c-electricity-and-magnetism",
+        "page-physics-c-electricity-and-magnetism"
+      ],
+      "keyPoints": [
+        "The verb sets the kind of answer: a bare result (indicate, rank), working (calculate, derive, determine, estimate), a picture (draw, sketch, plot, label) or sentences of physics reasoning (justify, describe, compare, verify).",
+        "A derivation begins at a basic law, such as Gauss's law, the loop rule or Faraday's law, and ends in the symbols the question allows.",
+        "A calculation shows the equation, the substituted values and a final answer with units. An estimate needs no steps.",
+        "Justify means sentences that connect a named law to this situation. An equation on its own does not justify.",
+        "Give each question time in line with its points, and never leave a later part blank because an earlier one went wrong."
+      ],
+      "faqs": [
+        {
+          "question": "Can extra statements cost me credit?",
+          "answer": "Yes, if they contradict what you said first. A marker cannot tell which of two explanations you mean. Give one clear line of reasoning and cross out anything you reject."
+        },
+        {
+          "question": "Should my answer be in words or in symbols?",
+          "answer": "Let the verb decide. Derive and calculate want symbols and numbers. Justify, describe and compare want sentences, which an equation may support but cannot replace."
+        },
+        {
+          "question": "What should I do if I cannot finish an early part?",
+          "answer": "Write a named symbol or a clearly marked trial value in its place and keep going. Later parts are usually judged on whether your method is right for the value you used."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "checkedBy": "marlbridge-academic-team",
+      "checkedDate": "2026-10-05",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/exam-skills-task-verbs/",
+      "words": 2983,
+      "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/exam-skills-task-verbs.md"
     },
     {
       "resourceId": "mb-ap-physcem-u10-diagnostic",
@@ -129583,6 +130818,159 @@
       "url": "/advanced-course-resources/physics-c-mechanics/7-5-simple-physical-pendulums-study-guide/",
       "words": 2500,
       "sourceFile": "src/content/ap-resources/physics-c-mechanics/7-5-simple-physical-pendulums-study-guide.md"
+    },
+    {
+      "resourceId": "mb-ap-physcm-exam-skills-representations-derivations",
+      "title": "Representations, Derivations and Experimental Design: Exam Skills Guide (Physics C: Mechanics)",
+      "description": "How to draw free-body diagrams, motion graphs and energy charts, set out calculus derivations, check results with units and limits, and design and linearise experiments.",
+      "course": "physics-c-mechanics",
+      "unit": 1,
+      "topics": [],
+      "resourceType": "exam-skills",
+      "prerequisites": [
+        "You have studied most of Units 1 to 7 and are revising for the free-response section",
+        "Differentiating, integrating with limits and separating variables"
+      ],
+      "learningObjectives": [
+        "Draw free-body diagrams, motion graphs and energy representations that follow the conventions markers expect",
+        "Set out a derivation from a fundamental principle, including a differential equation, a variable-force integral and a rotational inertia integral",
+        "Check a symbolic result with units, limiting cases and known bounds",
+        "Explain whether a diagram, an equation and a graph of one scenario agree",
+        "Design a sound experiment and linearise data so that a slope gives the quantity you want"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "studyMinutes": 55,
+      "difficulty": "mixed",
+      "calculator": "scientific",
+      "calculatorNote": "Calculus by hand; a calculator for arithmetic, powers, roots and best-fit slopes. Use g = 9.8 m/s². Give answers to 2 significant figures unless told otherwise",
+      "related": [
+        "mb-ap-physcm-2.9-study-guide",
+        "mb-ap-physcm-3.2-study-guide",
+        "mb-ap-physcm-5.4-study-guide",
+        "mb-ap-physcm-2.7-study-guide",
+        "mb-ap-physcm-7.3-study-guide",
+        "mb-ap-physcm-exam-skills-task-verbs"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-physics-c-mechanics",
+        "page-physics-c-mechanics"
+      ],
+      "keyPoints": [
+        "A free-body diagram shows only real forces on the object, one labelled arrow each, starting on the object. No components, no net-force arrow, no velocity.",
+        "A derivation starts from a fundamental principle written in general form, then substitutes, then solves for the requested quantity in the allowed symbols only.",
+        "If a force depends on position, velocity or time, integrate or solve a differential equation. Constant-acceleration equations do not apply.",
+        "Check every symbolic answer: units, a limiting case (set something to zero or make it very large) and a known bound.",
+        "In an experiment, change one variable, measure one, and rearrange the theory into a straight line whose slope contains the quantity you want."
+      ],
+      "faqs": [
+        {
+          "question": "Do I lose marks if my free-body diagram has components on it?",
+          "answer": "Often, yes. Draw each force once, as a single arrow. If components help you, draw them on a separate sketch or show them clearly as dashed lines next to the diagram, never as extra forces."
+        },
+        {
+          "question": "What counts as a fundamental principle to start a derivation?",
+          "answer": "A general law or definition such as ΣF = ma, the work-energy theorem, conservation of energy or momentum, τ = Iα, or I = ∫r² dm, or an equation from the reference sheet. Write it first, in general form, before you substitute anything."
+        },
+        {
+          "question": "Should I force my best-fit line through the origin?",
+          "answer": "No. Draw the line that best fits the points. If the theory predicts a zero intercept and your line misses it, mention the intercept and suggest a reason, but use the slope as measured."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "checkedBy": "marlbridge-academic-team",
+      "checkedDate": "2026-10-05",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/physics-c-mechanics/exam-skills-representations-derivations/",
+      "words": 3067,
+      "sourceFile": "src/content/ap-resources/physics-c-mechanics/exam-skills-representations-derivations.md"
+    },
+    {
+      "resourceId": "mb-ap-physcm-exam-skills-task-verbs",
+      "title": "Task Verbs and Free-Response Technique: Exam Skills Guide (Physics C: Mechanics)",
+      "description": "What each free-response task verb asks for in calculus-based mechanics, how much to write, how to plan the section and show working, with original worked examples, rubrics and practice.",
+      "course": "physics-c-mechanics",
+      "unit": 1,
+      "topics": [],
+      "resourceType": "exam-skills",
+      "prerequisites": [
+        "You have studied most of the course, Units 1 to 7",
+        "You can differentiate and integrate simple functions of time and position"
+      ],
+      "learningObjectives": [
+        "Explain in your own words what each free-response task verb asks you to produce",
+        "Judge how much to write for a part from its verb and the quantities it names",
+        "Plan your time across the four free-response questions",
+        "Set out a derivation or calculation so that every step can earn credit",
+        "Spot answers that lose credit and rewrite them as strong answers"
+      ],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "studyMinutes": 55,
+      "difficulty": "mixed",
+      "calculator": "scientific",
+      "calculatorNote": "Calculus by hand; a calculator for arithmetic, square roots and trigonometry (degrees). Use g = 9.8 m/s² and give answers to 2 or 3 significant figures",
+      "calculusScope": "ab-and-bc",
+      "related": [
+        "mb-ap-physcm-3.2-study-guide",
+        "mb-ap-physcm-6.4-study-guide",
+        "mb-ap-physcm-7.2-study-guide",
+        "mb-ap-physcm-2.10-study-guide",
+        "mb-ap-physcm-4.2-study-guide",
+        "mb-ap-physcm-exam-skills-representations-derivations"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-physics-c-mechanics",
+        "page-physics-c-mechanics"
+      ],
+      "keyPoints": [
+        "The verb tells you what to produce: a bare answer (indicate, rank), working (calculate, derive, determine), a picture (draw, sketch, plot, label) or reasoning in words (justify, describe, compare, verify).",
+        "A derivation starts from a fundamental law, not from a memorised result, and ends in the symbols the question lists.",
+        "A calculation shows the equation, the substitution and a final answer with units. An estimate needs no steps.",
+        "Justify means physics reasons in sentences that link a law to this situation. An equation alone is not a justification.",
+        "Spend minutes in proportion to points, and never leave a later part blank because an earlier part went wrong."
+      ],
+      "faqs": [
+        {
+          "question": "Do I lose marks for extra, wrong statements?",
+          "answer": "They can cost you. If you add a second explanation that contradicts the first, a marker cannot tell which one you mean. Give one clear line of reasoning."
+        },
+        {
+          "question": "Should I write answers in words or symbols?",
+          "answer": "Follow the verb. Derive and calculate want symbols and numbers. Justify, describe and compare want sentences, though an equation can support the words."
+        },
+        {
+          "question": "What if I cannot finish part (a)?",
+          "answer": "Use a clearly labelled symbol or a guessed value for the missing result and carry on. Your later parts can then still show a correct method, while a blank part shows nothing."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "checkedBy": "marlbridge-academic-team",
+      "checkedDate": "2026-10-05",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/physics-c-mechanics/exam-skills-task-verbs/",
+      "words": 2997,
+      "sourceFile": "src/content/ap-resources/physics-c-mechanics/exam-skills-task-verbs.md"
     },
     {
       "resourceId": "mb-ap-physcm-u1-diagnostic",
@@ -143723,6 +145111,160 @@
       "url": "/advanced-course-resources/statistics/5-5-least-squares-regression-study-guide/",
       "words": 2531,
       "sourceFile": "src/content/ap-resources/statistics/5-5-least-squares-regression-study-guide.md"
+    },
+    {
+      "resourceId": "mb-ap-stats-exam-skills-communicating-conclusions",
+      "title": "Communicating Statistics: Context, Conditions and Conclusions: Exam Skills Guide (Statistics)",
+      "description": "How to describe data in context, name and check conditions, set out inference in four steps and write conclusions about intervals, tests and regression without overclaiming.",
+      "course": "statistics",
+      "unit": 1,
+      "topics": [],
+      "resourceType": "exam-skills",
+      "prerequisites": [
+        "You have studied most of the course, including at least one confidence interval and one significance test",
+        "You can find a regression line, r and r² with technology"
+      ],
+      "learningObjectives": [
+        "Describe and compare distributions in context, covering shape, centre, variability and unusual features",
+        "Name the right inference procedure and check each of its conditions with numbers from the question",
+        "Set out a confidence interval or significance test in four clear steps",
+        "Write conclusions that link a p-value or interval to the claim, in context, without overclaiming",
+        "Interpret slope, intercept, r, r² and a confidence level, and decide when cause-and-effect language is justified"
+      ],
+      "skills": [
+        "2",
+        "3",
+        "4"
+      ],
+      "studyMinutes": 55,
+      "difficulty": "mixed",
+      "calculator": "graphing",
+      "calculatorNote": "Use technology for intervals, test statistics, p-values and regression output, but write the procedure name, the formula with values substituted and the result. Round test statistics to 2 or 3 decimal places and p-values to 4.",
+      "related": [
+        "mb-ap-stats-1.6-study-guide",
+        "mb-ap-stats-1.13-study-guide",
+        "mb-ap-stats-3.4-study-guide",
+        "mb-ap-stats-4.5-study-guide",
+        "mb-ap-stats-5.5-study-guide",
+        "mb-ap-stats-exam-skills-task-verbs"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-statistics",
+        "page-statistics",
+        "cb-statistics-revisions"
+      ],
+      "keyPoints": [
+        "Context is not decoration: name the variable, its units and the population in every description, condition and conclusion.",
+        "Describe a distribution with all four features (shape, centre, variability, unusual features) and give numbers.",
+        "Name the procedure, then check each condition with a number or a fact from the question, not a label such as 'SRS'.",
+        "A conclusion links the p-value to α (or the interval to the claimed value), states the decision and talks about the parameter, never proving H₀.",
+        "Random assignment supports cause and effect; random selection supports generalising. Observational data support association only."
+      ],
+      "faqs": [
+        {
+          "question": "Do I lose credit for writing too much?",
+          "answer": "Extra correct writing rarely costs you, but a wrong or contradictory statement can. If you write 'we accept H₀' after a correct decision, the contradiction can lower your score. Write the four required parts clearly and stop."
+        },
+        {
+          "question": "Is it enough to say 'conditions are met'?",
+          "answer": "No. Each condition needs evidence: the random sample or random assignment in the question, the actual 10% comparison with numbers, and the counts or sample-size check for normality."
+        },
+        {
+          "question": "Should I use the word 'prove'?",
+          "answer": "No. Data give evidence, not proof. Use phrases such as 'convincing statistical evidence that' or 'not convincing statistical evidence that'."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "checkedBy": "marlbridge-academic-team",
+      "checkedDate": "2026-10-05",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/statistics/exam-skills-communicating-conclusions/",
+      "words": 2984,
+      "sourceFile": "src/content/ap-resources/statistics/exam-skills-communicating-conclusions.md"
+    },
+    {
+      "resourceId": "mb-ap-stats-exam-skills-task-verbs",
+      "title": "Task Verbs and Free-Response Technique: Exam Skills Guide (Statistics)",
+      "description": "What each free-response task verb asks you to do, how much to write, how to read a multi-part question, plan your time and show work, with original worked examples.",
+      "course": "statistics",
+      "unit": 1,
+      "topics": [],
+      "resourceType": "exam-skills",
+      "prerequisites": [
+        "You have studied at least the first three units of the course",
+        "You can use a graphing calculator for summary statistics, probability distributions and inference"
+      ],
+      "learningObjectives": [
+        "Say what each free-response task verb requires and how much to write for it",
+        "Read a multi-part question so that each answer uses the right information and earlier results",
+        "Plan the 90 minutes of the free-response section across four questions",
+        "Show calculation work so a reader can follow every step from formula to answer",
+        "Spot the habits that earn credit and the habits that lose it"
+      ],
+      "skills": [
+        "2",
+        "3",
+        "4"
+      ],
+      "studyMinutes": 50,
+      "difficulty": "mixed",
+      "calculator": "graphing",
+      "calculatorNote": "Examples use a graphing calculator for quartiles, binomial and normal probabilities and t critical values. Write the formula or name the distribution and its parameters before giving the calculator result. Probabilities are given to 4 decimal places.",
+      "related": [
+        "mb-ap-stats-1.9-study-guide",
+        "mb-ap-stats-3.7-study-guide",
+        "mb-ap-stats-5.5-study-guide",
+        "mb-ap-stats-2.10-study-guide",
+        "mb-ap-stats-4.3-study-guide",
+        "mb-ap-stats-exam-skills-communicating-conclusions"
+      ],
+      "framework": {
+        "schoolYear": "2026-27",
+        "examSeries": "May 2027"
+      },
+      "sources": [
+        "ced-statistics",
+        "page-statistics",
+        "cb-statistics-revisions"
+      ],
+      "keyPoints": [
+        "The task verb tells you the kind of answer: a name, a number, a description, a reason or a full procedure.",
+        "Identify and classify need a short answer; explain, justify and interpret need a sentence that links evidence to the context.",
+        "Read every part before you write, and use earlier answers where a later part asks for them.",
+        "Show the formula or the named distribution with its parameters, then the numbers, then the answer with units.",
+        "Most lost credit comes from missing context, bare calculator output and conclusions that say too much."
+      ],
+      "faqs": [
+        {
+          "question": "How long should an answer be?",
+          "answer": "As long as the verb needs and no longer. One phrase is enough for identify. Explain and justify need a claim, the evidence and the link between them, usually two or three sentences. Extra writing can add a wrong statement that cancels a correct one."
+        },
+        {
+          "question": "What if I cannot answer an early part that a later part depends on?",
+          "answer": "Write down a sensible value, say clearly that you are assuming it, and carry on. The later part can still show a correct method."
+        },
+        {
+          "question": "Do I need to write calculator commands?",
+          "answer": "Calculator syntax on its own is not enough. Name the procedure or distribution, give its parameters and the boundary you used, then give the result. Labelled values are clearer than key presses."
+        }
+      ],
+      "version": "1.0",
+      "publishedDate": "2026-10-05",
+      "updatedDate": "2026-10-05",
+      "editorialStatus": "drafted",
+      "checkedBy": "marlbridge-academic-team",
+      "checkedDate": "2026-10-05",
+      "author": "marlbridge-academic-team",
+      "url": "/advanced-course-resources/statistics/exam-skills-task-verbs/",
+      "words": 2994,
+      "sourceFile": "src/content/ap-resources/statistics/exam-skills-task-verbs.md"
     },
     {
       "resourceId": "mb-ap-stats-u1-diagnostic",
