@@ -63,7 +63,7 @@ If there is no friction or air resistance and nothing outside the system does wo
 Follow a spring–object system through one swing:
 
 - **At a turning point (x = ±A):** the object is momentarily at rest, so K = 0. This is the **smallest possible kinetic energy**. The spring is stretched or compressed the most, so U is at its **largest**: U = ½kA².
-- **At equilibrium (x = 0):** the spring is relaxed, so U = 0, its **smallest** value. All the energy is kinetic, so K is at its **largest**.
+- **At equilibrium (x = 0):** on a level surface the spring is relaxed there, so U = 0, its **smallest** value. All the energy is kinetic, so K is at its **largest**.
 - **In between:** some of each. K + U is the same everywhere.
 
 Because the total energy equals the potential energy at a turning point:
@@ -108,8 +108,8 @@ This last line is the most useful one. It links speed and position without needi
 <text x="396" y="250">U = 0.13 J</text>
 <text x="396" y="120">K = 0.23 J</text>
 <text x="300" y="56">total E = 0.36 J (dotted)</text>
-<text x="120" y="240">U (solid)</text>
-<text x="190" y="102">K (dashed)</text>
+<path d="M110 20 H140" stroke="#1d2b44" stroke-width="2.5"/><text x="146" y="24">U (solid)</text>
+<path d="M220 20 H250" stroke="#1d2b44" stroke-width="2.5" stroke-dasharray="8 4"/><text x="256" y="24">K (dashed)</text>
 </g>
 </svg>
 <figcaption>Figure 1. Energy against displacement for the puck in Worked example 1 (k = 32 N/m, A = 0.15 m). The solid curve is U = ½kx²; the dashed curve is K = E − U. At any x, the gap from the axis to the solid curve is U and the gap from the solid curve to the dotted line is K. At x = +0.090 m: U = 0.13 J, K = 0.23 J.</figcaption>

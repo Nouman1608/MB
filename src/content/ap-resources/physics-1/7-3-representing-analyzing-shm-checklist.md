@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-7.3-checklist"
 title: "Representing and Analyzing SHM: Topic Checklist (Physics 1 7.3)"
-description: "Specific “I can…” statements for describing and graphing simple harmonic motion in the algebra-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can…” statements for describing and graphing simple harmonic motion in the algebra-based course, each linked to the guide section or practice question that covers it."
 course: "physics-1"
 unit: 7
 topics: ["7.3"]
@@ -14,10 +14,10 @@ difficulty: "core"
 related: ["mb-ap-phys1-7.3-study-guide", "mb-ap-phys1-7.3-practice", "mb-ap-phys1-7.3-revision-notes"]
 next: "mb-ap-phys1-7.4-study-guide"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-physics-1"]
+sources: ["ced-physics-1", "page-physics-1"]
 keyPoints:
   - "Tick a statement only when you can do it without notes."
-  - "Each statement names the practice question that tests it."
+  - "Each statement links to the guide section or practice question that covers it."
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05

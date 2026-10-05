@@ -157,8 +157,8 @@ Look at a ball rolling down a ramp (Figure 2). Three forces act: gravity, the no
 <path d="M20 100 V260" stroke="#1d2b44" stroke-width="1" marker-start="url(#p1-65-arr2)" marker-end="url(#p1-65-arr2)"/>
 <g font-size="12" fill="#1d2b44">
 <text x="268" y="236">Mg</text>
-<text x="276" y="126">F_N</text>
-<text x="150" y="146">f_s (static)</text>
+<text x="278" y="102">F_N</text>
+<text x="130" y="125">f_s (static)</text>
 <text x="366" y="90">v_cm</text>
 <text x="24" y="190" transform="rotate(-90 24 190)" text-anchor="middle">h = 0.70 m</text>
 <text x="300" y="214" transform="rotate(18.4 300 214)">2.0 m along the slope</text>
@@ -264,7 +264,7 @@ Rolling friction, the small loss from tyres or floors squashing, is also outside
 - **"A heavier ball rolls down faster."** Mass cancels. So does radius. Only the shape factor β matters.
 - **"The bottom of a rolling wheel moves backwards at v."** Relative to the ground it is momentarily at rest. The top moves at 2v_cm (Figure 1).
 - **"Use v = rω whenever something spins and moves."** Only when it rolls without slipping. A skidding wheel has v_cm ≠ rω.
-- **"Friction on a rolling ball always points backwards."** On a ramp it points up the slope; on a wheel spinning too fast it points forwards. Static friction takes whatever direction stops the contact point sliding.
+- **"Friction on a rolling ball always points backwards."** A ball rolling **up** a ramp also feels static friction up the slope, which is forwards along its motion. A wheel spinning too fast feels kinetic friction forwards. On level ground at constant speed, ideal rolling needs no friction at all. Friction acts in whatever direction stops (or opposes) sliding of the contact point.
 - **Forgetting the rotational kinetic energy.** Writing Mgh = ½Mv² for a ball gives the sliding-block speed, which is too high.
 - **"Conservation of energy" as a full justification.** Say why: which energy goes into rotation, why that leaves less for translation, and why friction does no work.
 

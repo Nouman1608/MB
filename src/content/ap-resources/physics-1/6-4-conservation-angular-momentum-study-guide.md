@@ -108,7 +108,7 @@ Move mass inwards: I falls, so ω **rises**. Move mass outwards: I rises, so ω 
 <g stroke="#1d2b44" stroke-width="3"><path d="M30 140 H250"/><path d="M310 140 H530"/></g>
 <g fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"><circle cx="140" cy="140" r="12"/><circle cx="420" cy="140" r="12"/></g>
 <g fill="#1d2b44"><circle cx="140" cy="140" r="3"/><circle cx="420" cy="140" r="3"/></g>
-<g fill="#1d2b44"><rect x="36" y="130" width="20" height="20"/><rect x="224" y="130" width="20" height="20"/><rect x="386" y="130" width="12" height="20"/><rect x="442" y="130" width="12" height="20"/></g>
+<g fill="#1d2b44"><rect x="36" y="130" width="20" height="20"/><rect x="224" y="130" width="20" height="20"/><rect x="390.5" y="130" width="12" height="20"/><rect x="437.5" y="130" width="12" height="20"/></g>
 <path d="M140 75 A65 65 0 0 0 82 112" stroke="#1d2b44" stroke-width="2" fill="none" marker-end="url(#p1-64-arr)"/>
 <path d="M420 95 A45 45 0 0 0 378 122" stroke="#1d2b44" stroke-width="2" fill="none" marker-end="url(#p1-64-arr)"/>
 <path d="M420 82 A58 58 0 0 0 366 118" stroke="#1d2b44" stroke-width="2" fill="none" marker-end="url(#p1-64-arr)"/>

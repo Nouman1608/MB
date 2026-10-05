@@ -119,7 +119,7 @@ This is just like torque, where you multiply a force by its lever arm. Here you 
 <text x="172" y="168">r = 1.0 m</text>
 <text x="370" y="168">r = 1.0 m</text>
 <text x="288" y="155">d = 0.50 m</text>
-<text x="160" y="96">v = 3.0 m/s</text>
+<text x="122" y="90">v = 3.0 m/s</text>
 </g>
 <circle cx="280" cy="200" r="5" fill="#1d2b44"/>
 <text x="290" y="218" font-size="13" fill="#1d2b44" font-weight="600">A (reference point)</text>
@@ -193,7 +193,7 @@ Plotted against time, these points lie on a straight line. Its slope is (0.60 �
 <figure>
 <svg viewBox="0 0 560 320" role="img" aria-labelledby="p1-63-tt-title p1-63-tt-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="p1-63-tt-title">Torque–time graph for a motor turning a potter's wheel</title>
-<desc id="p1-63-tt-desc">Torque in newton metres from 0 to 3.5 against time in seconds from 0 to 4. The torque rises in a straight line from 0 at t = 0 to 3.0 N·m at t = 2.0 s, stays at 3.0 N·m until t = 4.0 s, then drops to zero. The triangle under the first part is hatched and labelled area 3.0 N·m·s. The rectangle under the second part is shaded and labelled area 6.0 N·m·s. The total area, 9.0 N·m·s, is the angular impulse.</desc>
+<desc id="p1-63-tt-desc">Torque in newton metres from 0 to 3 against time in seconds from 0 to 4. The torque rises in a straight line from 0 at t = 0 to 3.0 N·m at t = 2.0 s, stays at 3.0 N·m until t = 4.0 s, then drops to zero. The triangle under the first part is hatched and labelled area 3.0 N·m·s. The rectangle under the second part is shaded and labelled area 6.0 N·m·s. The total area, 9.0 N·m·s, is the angular impulse.</desc>
 <defs><pattern id="p1-63-hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><path d="M0 0 V8" stroke="#1d2b44" stroke-width="1"/></pattern></defs>
 <rect x="0" y="0" width="560" height="320" fill="#ffffff"/>
 <g stroke="#1d2b44" stroke-width="0.5" stroke-dasharray="2 4" opacity="0.5">

@@ -85,12 +85,14 @@ This is the key relationship for this topic. Read it in words:
 - At equilibrium (x = 0) the acceleration is **zero**. At the ends of the motion, where the displacement is largest, the acceleration is largest.
 - A larger k/m means a larger acceleration for the same displacement. Topic 7.2 shows this makes the oscillation faster.
 
+You may also see this written as a = −ω²x, with ω² = k/m. It is the same relationship; Topic 7.2 links ω to the frequency.
+
 A graph of a against x (or F_net against x) for SHM is a **straight line through the origin with a negative slope**. That is the easiest test for SHM from data.
 
 <figure>
 <svg viewBox="0 0 560 300" role="img" aria-labelledby="p1-shm-title p1-shm-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="p1-shm-title">Net force against displacement for three oscillating systems</title>
-<desc id="p1-shm-desc">Three small graphs side by side, each with net force F_net on the vertical axis and displacement x from equilibrium on the horizontal axis, crossing at the origin. Graph (a), labelled SHM: a straight line through the origin sloping down from upper left to lower right, so force is proportional to displacement and opposite to it. Graph (b), labelled not SHM: the force has a constant positive size for every negative x and a constant negative size of the same magnitude for every positive x, with a jump at the origin, like a ball in a V-shaped trough. Graph (c), labelled SHM only for small x: a curve through the origin that is close to a straight line near the origin but bends more steeply at large displacements.</desc>
+<desc id="p1-shm-desc">Three small graphs side by side, each with net force F_net on the vertical axis and displacement x from equilibrium on the horizontal axis, crossing at the origin. Graph (a), labelled SHM: a straight line through the origin sloping down from upper left to lower right, so force is proportional to displacement and opposite to it. Graph (b), labelled not SHM: the force has a constant positive size for every negative x and a constant negative size of the same magnitude for every positive x, with a jump at the origin, like a block sliding in a frictionless V-shaped trough. Graph (c), labelled SHM only for small x: a curve through the origin that is close to a straight line near the origin but bends more steeply at large displacements.</desc>
 <rect x="0" y="0" width="560" height="300" fill="#ffffff"/>
 <g stroke="#1d2b44" stroke-width="1.5" fill="none">
 <path d="M30 150 H185 M105 55 V245"/>
@@ -126,7 +128,7 @@ Each system below is periodic. Check the force before calling it SHM.
 | Block on an ideal horizontal spring, no friction | F = −kx | Yes, for any displacement the spring can take |
 | Block on a vertical spring | −k × (displacement from the new equilibrium) | Yes (Worked example 2) |
 | Pendulum, small angle | about proportional to angle | Approximately (see below) |
-| Ball rolling in a V-shaped trough | constant size, mg sin θ along each side | No |
+| Block sliding in a frictionless V-shaped trough | constant size, mg sin θ along each side | No |
 | Ball bouncing on a hard floor | constant weight mg in the air; a large brief push at the floor | No |
 | Puck sliding between two walls | zero except at the walls | No |
 
@@ -188,7 +190,7 @@ which is proportional to θ. So a pendulum with a **small angular displacement**
 3. **(a)** The force is opposite to the displacement and proportional to it, F_net ≈ −(25 N/m)x. The data **support** the SHM claim, at least over ±6 cm.
 4. **(b)** a = −(k/m)x = −(25 ÷ 0.40) × 0.040 = −62.5 × 0.040 = **−2.5 m/s²** (2.5 m/s² to the left, toward equilibrium).
 
-**Contrast.** A 0.050 kg steel ball rolls in a V-shaped trough whose sides slope at 10°. On either side, the force along the slope has size mg sin 10° = 0.050 × 9.8 × 0.174 ≈ 0.085 N, whatever the distance from the bottom. The force is a restoring force, but its size does not grow with displacement (Figure 1b). The ball's motion is periodic, but **not** SHM.
+**Contrast.** A 0.050 kg block slides without friction in a V-shaped trough whose sides slope at 10°. On either side, the net force along the slope has size mg sin 10° = 0.050 × 9.8 × 0.174 ≈ 0.085 N, whatever the distance from the bottom. The force is a restoring force, but its size does not grow with displacement (Figure 1b). The block's motion is periodic, but **not** SHM.
 
 ## Worked example 2: a vertical spring
 
@@ -215,7 +217,7 @@ which is proportional to θ. So a pendulum with a **small angular displacement**
 | 30° | 0.5236 | 0.5000 | 0.784 | 0.821 | 4.7% |
 | 45° | 0.7854 | 0.7071 | 1.109 | 1.232 | 11% |
 
-3. **Conclusion.** Up to about 15° the restoring torque is proportional to θ to within about 1%, so SHM is a good model. At 45° it is not: the real torque grows more slowly than θ, like the curve in Figure 1c.
+3. **Conclusion.** Up to about 15° the restoring torque is proportional to θ to within about 1%, so SHM is a good model. At 45° it is not: the real torque grows more slowly than θ, so a graph of torque against θ bends away from the straight line at large angles. (Figure 1c bends the other way, more steeply, but the lesson is the same: only the part near zero is close to a straight line.)
 
 **Check.** The angle must be in **radians** for sin θ ≈ θ. In degrees, "θ = 5" and "sin θ = 0.087" are nowhere near each other.
 

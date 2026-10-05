@@ -30,7 +30,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 ## Understanding
 
 - I can explain the shape, volume and compressibility of solids, liquids and gases using how strongly their particles interact and how far apart they are. *(Guide: "Why solids, liquids and gases behave differently", Figure 1; Practice Q4)*
-- I can say what makes a substance a fluid and explain why air counts as one. *(Guide: "What counts as a fluid"; Practice Q2)*
+- I can say what makes a substance a fluid and explain why air counts as one. *(Guide: "What counts as a fluid"; Practice Q2, Q7)*
 - I can use the words mass, volume, weight and density correctly, each with its unit. *(Guide: vocabulary table; Practice Q5)*
 - I can explain why cutting a uniform object does not change its density. *(Guide: "Density: mass per unit volume"; Practice Q3)*
 - I can state the two properties of an ideal fluid and say when water, honey or air fails to fit the model. *(Guide: "The ideal-fluid model"; Practice Q7)*

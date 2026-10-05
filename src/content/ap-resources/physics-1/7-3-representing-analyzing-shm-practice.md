@@ -179,7 +179,7 @@ A 0.50 kg object hangs on a spring. A student claims: "If I pull it further down
 | Point | What earns it |
 |---|---|
 | 1 | Repeating cycles reduces the effect of reaction time on each period |
-| 1 | Periods calculated (divide by 10) and mean 0.63 s |
+| 1 | Periods calculated (divide by 10) and mean 0.628 s |
 | 1 | Claim refuted **because** the periods show no trend and differ by much less than any expected effect |
 | 1 | Larger displacement → proportionally larger force and acceleration → same time for a longer path |
 | 1 | k = 50 N/m with working |

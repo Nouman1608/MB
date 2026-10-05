@@ -135,7 +135,7 @@ A computer simulation places a 500 kg satellite in circular orbits of different 
 | E (× 10⁹ J) | −15.0 | −10.0 | −7.50 | −5.00 | −3.75 |
 
 (a) State what to plot to get a straight line, and give the expected slope in terms of G, M and m.
-(b) Make the plot's values, find the slope and use it to find M.
+(b) Calculate the values to plot, find the slope and use it to find M.
 (c) On the same axes, the student also plots K and U_g for each orbit. Describe the two lines, giving their slopes.
 
 <details>
@@ -211,7 +211,7 @@ A probe is launched from the surface of an airless fictional planet of mass M an
 
 **(a)** Gravity is the only force, so ½mv² − GMm/R = ½mv_∞² − GMm/r_∞. Just escaping means reaching r → ∞ (U_g → 0) with speed → 0, so the total energy is zero: ½mv_esc² − GMm/R = 0, giving **v_esc = √(2GM/R)**.
 
-**(b)** The claim is **incorrect**. The planet does pull ten times harder on the heavier probe, but the heavier probe also has ten times the kinetic energy at the same speed. Both ½mv² and GMm/R are proportional to m, so m cancels and the escape speed is the same. The heavier probe needs ten times more **energy**, not more speed.
+**(b)** The claim is **incorrect**. The planet does pull ten times harder on the heavier probe, but the heavier probe also has ten times the kinetic energy at the same speed. Both ½mv² and GMm/R are proportional to m, so m cancels and the escape speed is the same. The heavier probe needs ten times as much **energy**, not more speed.
 
 **(c)** Launch speed v = 0.70v_esc, so ½v² = 0.49 × GM/R. Energy per kilogram: ½v² − GM/R = −GM/r_max, so 0.49GM/R − GM/R = −GM/r_max, which gives **r_max = R / (1 − 0.49) = R / 0.51 ≈ 1.96R**.
 r_max = 2.5 × 10⁶ ÷ 0.51 = **4.9 × 10⁶ m**, about 2.4 × 10⁶ m above the surface. (For reference, v_esc = 5.2 × 10³ m/s, so the launch speed is 3.6 × 10³ m/s.)

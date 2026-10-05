@@ -177,7 +177,7 @@ A pendulum has a 0.30 kg bob on a string of length 1.2 m.
 | 1 | Links SHM to "torque proportional to θ", which holds only when sin θ ≈ θ |
 | 1 | Concludes small angles only, with the numbers as evidence |
 
-**Alternative.** Working with force along the arc: at 0.10 rad, mg sin θ = 0.294 N and s = ℓθ = 0.12 m, so F/s = 2.45 N/m, which equals mg/ℓ. A constant ratio of force to displacement is the same argument and earns the fourth point.
+**Alternative.** Working with force along the arc: at 0.10 rad, mg sin θ = 0.294 N and s = ℓθ = 0.12 m, so F/s ≈ 2.45 N/m, which matches mg/ℓ = 2.45 N/m. A constant ratio of force to displacement is the same argument and earns the fourth point.
 </details>
 
 ## Question 7 (constructed response · stretch)
@@ -194,7 +194,7 @@ Take **+y upward**. A rubber ball is dropped onto a hard floor and bounces back 
 
 **(b)** The claim is **incorrect**. The motion is periodic, but SHM also needs a net force proportional to the displacement from an equilibrium position and opposite to it. While the ball is in the air, the net force is its weight, mg downward, and it is the **same at every height**. So the force does not grow as the ball moves further from any reference point. The only other force is a large, brief push from the floor. No point exists about which F_net = −ky.
 
-Extra evidence: if the ball were dropped from 2.0 m instead, each cycle would take 2 × √(2 × 2.0 ÷ 9.8) ≈ 1.3 s. Topic 7.3 shows that an SHM period does not change with amplitude, so this is a second sign the motion is not SHM.
+Extra evidence: if the ball were dropped from 2.0 m instead, each cycle would take 2 × √(2 × 2.0 ÷ 9.8) ≈ 1.3 s. Topic 7.2 shows that an SHM period does not change with amplitude, so this is a second sign the motion is not SHM.
 
 | Point | What earns it |
 |---|---|

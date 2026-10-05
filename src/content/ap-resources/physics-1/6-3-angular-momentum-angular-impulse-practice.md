@@ -197,7 +197,7 @@ Check: deceleration = 0.080 ÷ 0.16 = 0.50 m/s², so after 2.0 s, v = 2.5 − 1.
 | 1 | Friction torque about P found with lever arm 0.40 m, and ΔL = −0.064 N·m·s |
 | 1 | 0.096 kg·m²/s, confirmed by the new speed |
 
-An answer to (b) that says only "L is conserved" without explaining why r sin θ stays the same earns the third point but not the second.
+An answer to (b) that links zero net torque to constant L, but does not explain why r sin θ stays the same, earns the third point but not the second.
 </details>
 
 ## How did you do?

@@ -157,7 +157,7 @@ An elliptical orbit brings the satellite closer to the planet and then farther a
 <text x="470" y="215">v = 2.89 km/s</text>
 <text x="300" y="160">r = 2.4 × 10⁷ m</text>
 <text x="18" y="322">At both marked points v is perpendicular to r, so L = mvr.</text>
-<text x="18" y="338" font-size="11">Closest point: K largest, U lowest. Farthest point: K smallest, U highest. E the same everywhere.</text>
+<text x="18" y="338" font-size="11">Closest: K largest, U lowest. Farthest: K smallest, U highest. E constant.</text>
 </g>
 </svg>
 <figcaption>Figure 2. The elliptical orbit in Worked example 2. The arrow lengths are drawn to scale: the speed at the closest point is three times the speed at the farthest point, because the distance there is three times smaller.</figcaption>
@@ -167,7 +167,7 @@ At the closest and farthest points, the velocity is perpendicular to the radius 
 
 **v_near r_near = v_far r_far**
 
-The satellite moves **fastest at its closest point** and slowest at its farthest point. Energy tells the same story: as the satellite moves away, gravity has a component opposite to its velocity, does negative work, and turns kinetic energy into potential energy. On the way back in, the transfer reverses. (The rule that a closer satellite moves faster is also known as Kepler's second law. You do not need it by name; argue from angular momentum or energy.)
+The satellite moves **fastest at its closest point** and slowest at its farthest point. Energy tells the same story: as the satellite moves away, gravity has a component opposite to its velocity, does negative work, and turns kinetic energy into potential energy. On the way back in, the transfer reverses. (This faster-when-closer behaviour is what Kepler's second law describes. The course does not ask you to know that law; argue from angular momentum or energy.)
 
 ## Zero at infinity: bound and unbound
 
@@ -200,11 +200,11 @@ Three things to notice:
 **Question.** An 800 kg satellite moves in a circular orbit of radius 1.0 × 10⁷ m around a fictional planet of mass 6.0 × 10²⁴ kg. (a) Find its speed, K, U_g, E and L. (b) It is moved to a circular orbit of radius 2.0 × 10⁷ m. Find the change in each energy.
 
 1. GM = 6.67 × 10⁻¹¹ × 6.0 × 10²⁴ = 4.00 × 10¹⁴ N·m²/kg.
-2. **(a)** v = √(GM/r) = √(4.00 × 10⁷) = **6.33 × 10³ m/s**.
+2. **(a)** v = √(GM/r) = √(4.00 × 10⁷) = **6.32 × 10³ m/s**.
 3. K = ½mv² = ½ × 800 × 4.00 × 10⁷ = **1.60 × 10¹⁰ J**.
 4. U_g = −GMm/r = −4.00 × 10¹⁴ × 800 ÷ 1.0 × 10⁷ = **−3.20 × 10¹⁰ J**.
 5. E = K + U_g = **−1.60 × 10¹⁰ J**. Check: E = −K. ✓
-6. L = mvr = 800 × 6.33 × 10³ × 1.0 × 10⁷ = **5.06 × 10¹³ kg·m²/s**.
+6. L = mvr = 800 × 6.32 × 10³ × 1.0 × 10⁷ = **5.06 × 10¹³ kg·m²/s**.
 7. **(b)** Doubling r halves each energy: K = 8.0 × 10⁹ J, U_g = −1.60 × 10¹⁰ J, E = −8.0 × 10⁹ J.
 8. Changes: ΔK = **−8.0 × 10⁹ J**, ΔU_g = **+1.60 × 10¹⁰ J**, ΔE = **+8.0 × 10⁹ J**.
 
@@ -215,9 +215,9 @@ Three things to notice:
 **Question.** A 500 kg probe orbits the same planet (GM = 4.00 × 10¹⁴ N·m²/kg) on the ellipse in Figure 2. At its closest point, r = 8.0 × 10⁶ m and v = 8.66 × 10³ m/s. Its farthest point is at r = 2.4 × 10⁷ m. (a) Find its speed at the farthest point. (b) Show that the mechanical energy is the same at both points.
 
 1. **(a)** Gravity exerts no torque about the planet's centre, so L is constant. At both points v ⟂ r: v_far = v_near r_near / r_far = 8.66 × 10³ × (8.0 × 10⁶ ÷ 2.4 × 10⁷) = **2.89 × 10³ m/s**.
-2. **(b)** Closest point: K = ½ × 500 × (8.66 × 10³)² = 1.875 × 10¹⁰ J; U_g = −4.00 × 10¹⁴ × 500 ÷ 8.0 × 10⁶ = −2.50 × 10¹⁰ J; E = **−6.26 × 10⁹ J**.
-3. Farthest point: K = ½ × 500 × (2.89 × 10³)² = 0.208 × 10¹⁰ J; U_g = −4.00 × 10¹⁴ × 500 ÷ 2.4 × 10⁷ = −0.834 × 10¹⁰ J; E = **−6.25 × 10⁹ J**.
-4. The two totals agree to within rounding of the given speed.
+2. **(b)** Closest point: K = ½ × 500 × (8.66 × 10³)² = 1.875 × 10¹⁰ J; U_g = −4.00 × 10¹⁴ × 500 ÷ 8.0 × 10⁶ = −2.50 × 10¹⁰ J; E = **−6.25 × 10⁹ J**.
+3. Farthest point: K = ½ × 500 × (2.887 × 10³)² = 0.208 × 10¹⁰ J; U_g = −4.00 × 10¹⁴ × 500 ÷ 2.4 × 10⁷ = −0.833 × 10¹⁰ J; E = **−6.25 × 10⁹ J**.
+4. The two totals agree, to the precision of the given speed.
 
 **Interpretation.** Between the two points, K falls by about 1.67 × 10¹⁰ J and U_g rises by the same amount. E < 0, so the probe is bound. Its closest-point speed (8.66 km/s) is more than the circular speed there (7.07 km/s) but less than the escape speed there (10.0 km/s), which is why it swings out on an ellipse and comes back.
 

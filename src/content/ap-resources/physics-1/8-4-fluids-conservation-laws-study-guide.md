@@ -116,7 +116,7 @@ This is **Bernoulli's equation**. Every term has units of Pa, which is the same 
 
 **Two checks that it makes sense:**
 
-- **Fluid at rest** (v₁ = v₂ = 0): P₁ − P₂ = ρg(y₂ − y₁). Point 1 is lower, so its pressure is higher by ρgh. That is the depth rule from Topic 8.2.
+- **Fluid at rest** (v₁ = v₂ = 0): P₁ − P₂ = ρg(y₂ − y₁). If point 1 is a distance h lower, its pressure is higher by ρgh. That is the depth rule from Topic 8.2.
 - **Level pipe** (y₁ = y₂): P₁ − P₂ = ½ρ(v₂² − v₁²). If v₂ > v₁, then P₂ < P₁. **Faster fluid, lower pressure.** This matches Topic 8.3: to speed up, the fluid must be pushed from a higher-pressure region into a lower-pressure one.
 
 ## Torricelli's result: fluid leaving an opening
@@ -165,7 +165,8 @@ This is **Torricelli's result**. It is exactly the speed an object reaches after
 <text x="307" y="272">2: in tank, hole level</text>
 <text x="457" y="272">3: jet outside hole</text>
 </g>
-<text x="300" y="300" font-size="12" fill="#1d2b44" text-anchor="middle">Key: P (gauge) dotted · ρgy hatched · ½ρv² solid. Total 7840 J/m³ at 1, 2 and 3.</text>
+<text x="300" y="294" font-size="12" fill="#1d2b44" text-anchor="middle">Key: P (gauge) dotted · ρgy hatched · ½ρv² solid.</text>
+<text x="300" y="312" font-size="12" fill="#1d2b44" text-anchor="middle">Total 7840 J/m³ at points 1, 2 and 3.</text>
 </svg>
 <figcaption>Figure 2. Bar charts for a tank whose surface is 0.80 m above a small hole (y = 0 at the hole, gauge pressures, ρ = 1000 kg/m³). Energy per volume moves from height (1) to pressure (2) to motion (3). The total stays 1000 × 9.8 × 0.80 = 7840 J/m³, so ½ρv² = 7840 J/m³ in the jet and v = 4.0 m/s.</figcaption>
 </figure>
@@ -213,7 +214,7 @@ To test Torricelli's result in a lab:
 4. Repeat for several values of h.
 5. Plot **v² against h**. Torricelli predicts a straight line through the origin with slope 2g = 19.6 m/s². (Plotting R² against h also works; its predicted slope is 4H.)
 
-Real water has some viscosity, and the jet narrows just outside the hole, so measured speeds are usually a little below the ideal value. A slope slightly under 2g is what you should expect.
+Real water has some viscosity, so a little mechanical energy is lost as it squeezes through the hole, and air resistance acts on the jet. Measured speeds are usually a little below the ideal value. A slope slightly under 2g is what you should expect.
 
 ## Common misconceptions
 

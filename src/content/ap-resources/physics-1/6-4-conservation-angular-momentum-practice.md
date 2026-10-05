@@ -166,7 +166,7 @@ Design an experiment to test whether angular momentum is conserved when the non-
 <details>
 <summary>Model answer and suggested Marlbridge rubric</summary>
 
-**(a)** Measure the ring's mass with the balance and its inner and outer radii with the ruler. Use these to calculate its rotational inertia about the centre (or measure it separately). Spin the turntable and record its angular speed ω₁ just before the drop. Hold the ring centred just above the turntable, not rotating, and release it. Record the common angular speed ω₂ once the ring stops sliding. Repeat for several different starting speeds, and repeat each run at least three times.
+**(a)** Measure the ring's mass with the balance and its inner and outer radii with the ruler. Use them to estimate its rotational inertia about the centre (for a thin ring, I ≈ MR² with R the mean radius). Spin the turntable and record its angular speed ω₁ just before the drop. Hold the ring centred just above the turntable, not rotating, and release it. Record the common angular speed ω₂ once the ring stops sliding. Repeat for several different starting speeds, and repeat each run at least three times.
 
 **(b)** Calculate L₁ = I_T ω₁ and L₂ = (I_T + I_R) ω₂ for each run. If angular momentum is conserved, L₁ = L₂ within the uncertainty. Better: plot L₂ against L₁ for all runs. Conservation predicts a straight line through the origin with slope 1. For example, with I_T = 0.0050 kg·m², I_R = 0.0030 kg·m² and ω₁ = 16 rad/s, the prediction is ω₂ = (0.0050 × 16) ÷ 0.0080 = 10 rad/s.
 
@@ -198,7 +198,7 @@ Take counterclockwise (seen from above) as +. A turntable (I_T = 0.50 kg·m²) c
 
 **(b)** The flywheel gains L = 0.020 × 50 = 1.0 kg·m²/s. Time = ΔL ÷ τ = 1.0 ÷ 0.40 = **2.5 s**. By Newton's third law, the flywheel exerts an equal and opposite torque on the motor and so on the turntable: angular impulse = −0.40 × 2.5 = **−1.0 N·m·s**, which matches the turntable's L of 0.50 × (−2.0) = −1.0 kg·m²/s.
 
-**(c)** The claim is **incorrect**. If the system is the turntable alone, the flywheel is outside it and pushes back on the motor that is fixed to the turntable. That is an external torque on the turntable, so its angular momentum changes. If the system is turntable + flywheel, there is no external torque and the total angular momentum stays zero; the turntable must therefore turn the opposite way to the flywheel.
+**(c)** The claim is **incorrect**. If the system is the turntable alone, the flywheel is outside it and pushes back on the motor that is fixed to the turntable. That is an external torque on the turntable, so its angular momentum changes. If the system is turntable + motor + flywheel, there is no external torque and the total angular momentum stays zero; the turntable must therefore turn the opposite way to the flywheel.
 
 | Point | What earns it |
 |---|---|

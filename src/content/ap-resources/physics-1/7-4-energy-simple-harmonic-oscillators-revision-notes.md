@@ -17,7 +17,7 @@ calculator: "scientific"
 related: ["mb-ap-phys1-7.4-study-guide", "mb-ap-phys1-7.4-practice", "mb-ap-phys1-7.4-checklist"]
 next: "mb-ap-phys1-7.4-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-physics-1"]
+sources: ["ced-physics-1", "page-physics-1"]
 keyPoints:
   - "E = K + U stays constant with no friction."
   - "Turning points: K = 0, U largest. Equilibrium: U smallest, K largest."

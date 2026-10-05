@@ -81,7 +81,7 @@ A charge +q is fixed at x = 0 and a charge −q is fixed at x = d. A small posit
 - (A) In the −x direction, because the attraction to −q is stronger than the repulsion from +q
 - (B) In the +x direction, because the repulsion from +q is stronger than the attraction to −q
 - (C) There is no net force, because +q and −q have equal magnitudes
-- (D) In the −x direction, because both forces point toward the origin
+- (D) In the +x direction, because both forces point away from the origin
 
 <details>
 <summary>Answer and explanation</summary>
@@ -90,7 +90,7 @@ A charge +q is fixed at x = 0 and a charge −q is fixed at x = d. A small posit
 
 - (B) gets the directions right but forgets that the nearer charge gives the larger force.
 - (C) would be true only if the test charge were the same distance from both charges, which no point on this line beyond the charges is.
-- (D) has the right answer for the wrong reason: the repulsion from +q points away from the origin.
+- (D) gets the force from −q wrong. The positive test charge is attracted toward −q, which is in the −x direction, so only the repulsion from +q points away from the origin.
 </details>
 
 ## Question 4 (multiple choice · core)
@@ -175,7 +175,7 @@ Cancel k, Q and |q|: 4/x² = 1/(d − x)². Both sides are positive, so take squ
 | 1 | (c) Independent of q, because |q| cancels from both sides |
 | 1 | (d) 0.40 m from the +4Q charge |
 
-Reasonableness check that also earns credit in (b): the zero-force point must be nearer the **smaller** charge, and 2d/3 from +4Q is nearer +Q.
+Reasonableness check for (b) (no extra mark): the zero-force point must be nearer the **smaller** charge, and 2d/3 from +4Q is nearer +Q.
 </details>
 
 ## Question 7 (constructed response · stretch)

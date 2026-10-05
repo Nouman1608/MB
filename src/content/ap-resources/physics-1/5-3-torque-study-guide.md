@@ -147,7 +147,7 @@ Once the diagram is drawn, go through the forces one by one and ask: *what is r,
 <figure>
 <svg viewBox="0 0 560 330" role="img" aria-labelledby="p1t-fd-title p1t-fd-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="p1t-fd-title">Force diagram for a hinged rod holding a lamp</title>
-<desc id="p1t-fd-desc">A horizontal uniform rod 2.0 m long is hinged to a wall at its left end, which is the axis. Four forces are drawn where they act. At the hinge, a short dashed arrow labelled hinge force, with lever arm zero. At 1.0 m, the rod's weight, 49 N, points down. At 1.5 m, the pull of the lamp, 29 N, points down. At 2.0 m, the cable tension, 93 N, points up and to the left at 30 degrees above the rod. The cable's line of action is extended as a dashed line; a solid line from the hinge meets it at a right angle, marking a lever arm of 1.0 m.</desc>
+<desc id="p1t-fd-desc">A horizontal uniform rod 2.0 m long is hinged to a wall at its left end, which is the axis. Four forces are drawn where they act. At the hinge, a short dashed line (no arrowhead, since its direction is not needed) labelled hinge force, with torque zero. At 1.0 m, the rod's weight, 49 N, points down. At 1.5 m, the pull of the lamp, 29 N, points down. At 2.0 m, the cable tension, 93 N, points up and to the left at 30 degrees above the rod. The cable's line of action is extended as a dashed line; a solid line from the hinge meets it at a right angle, marking a lever arm of 1.0 m.</desc>
 <rect x="0" y="0" width="560" height="330" fill="#ffffff"/>
 <path d="M60 40 V300" stroke="#1d2b44" stroke-width="4"/>
 <g stroke="#1d2b44" stroke-width="1"><path d="M60 60 L48 72 M60 100 L48 112 M60 140 L48 152 M60 180 L48 192 M60 220 L48 232 M60 260 L48 272"/></g>

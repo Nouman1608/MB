@@ -38,7 +38,7 @@ Short on time? This page is the recap. For explanations, the graph and worked ex
 - One object has a **different I for every axis**. Always state the axis.
 - You calculate I for up to five small objects in a flat layout. For rods, disks, hoops and spheres, the value is given.
 - For any family of parallel axes, I is **smallest through the centre of mass**.
-- A **hoop** has more rotational inertia than a **solid disk** of the same mass and radius, because all its mass is at the rim.
+- Compare a **hoop** with a **solid disk** of equal mass and radius: the hoop's I is larger, because all its mass is at the rim.
 
 ## Key relationships
 

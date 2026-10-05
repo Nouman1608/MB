@@ -7,7 +7,7 @@ unit: 6
 topics: ["6.2"]
 resourceType: "study-guide"
 prerequisites:
-  - "Work done by a constant force, W = Fd cos θ, and the work–energy theorem (Topics 3.2 and 3.3)"
+  - "Work done by a constant force, W = Fd cos θ, and the work–energy theorem (Topic 3.2)"
   - "Torque, τ = rF sin θ = rF⊥, and angular displacement in radians (Topics 5.1 and 5.3)"
   - "Rotational kinetic energy, K = ½Iω² (Topic 6.1)"
 prerequisiteResources: ["mb-ap-phys1-6.1-study-guide"]
@@ -219,7 +219,7 @@ Repeat runs and use a low-friction axle, or measure the friction torque separate
 - **"Friction torque does positive work because it is a torque."** It opposes the rotation, so its work is negative.
 - **Multiplying the largest torque by the whole angle when the torque changes.** Use the area under the torque–angle graph (Worked example 2).
 - **"The wheel slows down when the torque starts to fall."** It keeps speeding up while the net torque is in the direction of rotation.
-- **Using the whole force instead of its perpendicular part.** Only F⊥ = F sin θ contributes to the torque and the work.
+- **Using the whole force instead of its perpendicular part.** Only F⊥ = F sin θ, where θ is the angle between the radius and the force, contributes to the torque and the work.
 
 ## Where this leads
 

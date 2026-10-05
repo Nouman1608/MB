@@ -36,7 +36,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 ## Calculation
 
-- I can calculate rotational kinetic energy for up to five point objects, or for an object with a given rotational inertia. *(Guide: Worked example 1; Practice Q4)*
+- I can calculate rotational kinetic energy for a few point objects, or for an object with a given rotational inertia. *(Guide: Worked example 1; Practice Q4)*
 - I can convert rev/min to rad/s before using K = ½Iω². *(Guide: "Units: always rad/s"; Practice Q5)*
 - I can find the total kinetic energy of an object that moves and spins as ½Mv_cm² + ½I_cm ω², and show it on an energy bar chart. *(Guide: Worked example 2, Figure 2)*
 - I can predict the factor by which K changes when ω or I changes, including hoop against disc. *(Guide: factors-of-change table; Practice Q1, Q2, Q5)*

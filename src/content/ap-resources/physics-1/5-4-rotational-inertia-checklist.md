@@ -32,7 +32,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can explain rotational inertia as resistance to changes in rotation, and compare it with inertial mass. *(Guide: "Resistance to changes in rotation")*
 - I can explain why the distance of mass from the axis matters more than the amount of mass. *(Guide: "One small object: I = mr²"; Practice Q1)*
 - I can explain why one object has a different rotational inertia for each axis. *(Guide: Worked example 1; Practice Q4)*
-- I can explain why a hoop has more rotational inertia than a solid disk of the same mass and radius. *(Guide: "Extended objects"; Practice Q2)*
+- I can explain why a hoop's rotational inertia is larger than that of a solid disk with equal mass and radius. *(Guide: "Extended objects"; Practice Q2)*
 
 ## Skills
 

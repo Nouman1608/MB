@@ -83,7 +83,7 @@ Take the cosine case (released from x = +A, with +x to the right) and step throu
 Two rules sum up the table:
 
 - **At a turning point (x = ±A):** the object stops for an instant, so v_x = 0. The restoring force is largest there, so the size of a_x is largest, pointing back towards equilibrium.
-- **At equilibrium (x = 0):** the net force is zero, so a_x = 0. The object has been speeded up all the way in, so its speed is largest here.
+- **At equilibrium (x = 0):** the restoring force is zero, so a_x = 0. The object has been speeded up all the way in, so its speed is largest here.
 
 ### Where the velocity graph comes from
 

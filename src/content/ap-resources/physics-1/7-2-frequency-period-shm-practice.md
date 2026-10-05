@@ -139,14 +139,14 @@ A student hangs different masses on one spring. For each, she times 10 full osci
 | T (s) | 0.50 | 0.70 | 0.86 | 0.99 | 1.11 |
 | T² (s²) | 0.25 | 0.49 | 0.74 | 0.98 | 1.23 |
 
-The points lie close to a straight line through the origin. Two points on the best-fit line: (0.10 kg, 0.25 s²) and (0.50 kg, 1.23 s²). Slope = (1.23 − 0.25) ÷ (0.50 − 0.10) = 0.98 ÷ 0.40 ≈ 2.45 s²/kg. k = 4π² ÷ slope = 39.48 ÷ 2.45 ≈ **16 N/m**.
+The points lie close to a straight line through the origin. Read two points on the best-fit line (not data points), far apart: (0.05 kg, 0.12 s²) and (0.45 kg, 1.11 s²). Slope = (1.11 − 0.12) ÷ (0.45 − 0.05) = 0.99 ÷ 0.40 ≈ 2.5 s²/kg. k = 4π² ÷ slope = 39.48 ÷ 2.475 ≈ **16 N/m**.
 
 | Point | What earns it |
 |---|---|
 | 1 | Chooses T² against m |
 | 1 | Justifies it by squaring the period equation, slope = 4π²/k |
 | 1 | Correct T values (time ÷ 10) and T² values |
-| 1 | Slope from two points on the line, about 2.45 s²/kg |
+| 1 | Slope from two points on the best-fit line, about 2.4 to 2.5 s²/kg |
 | 1 | k ≈ 16 N/m, with unit |
 
 A graph of T against m is a curve; using the slope of that curve earns no credit for the k value.

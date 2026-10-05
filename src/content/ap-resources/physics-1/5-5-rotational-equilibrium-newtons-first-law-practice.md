@@ -154,9 +154,9 @@ Tx − mg(L/2) = 0, so **T = mgL / (2x)**.
 
 A student balances a light metre rule at its centre. She hangs a fixed 0.200 kg mass 0.150 m to the left of the pivot. She then hangs different masses m on the right and moves each until the rule balances, recording its distance d from the pivot. The data below are invented for practice.
 
-| m (kg) | 0.050 | 0.100 | 0.150 | 0.200 | 0.250 |
+| m (kg) | 0.075 | 0.100 | 0.150 | 0.200 | 0.250 |
 |---|---|---|---|---|---|
-| d (m) | 0.602 | 0.298 | 0.201 | 0.150 | 0.121 |
+| d (m) | 0.401 | 0.298 | 0.201 | 0.150 | 0.121 |
 
 (a) Use Στ = 0 to predict a relationship between m and d.
 (b) Explain what to plot to get a straight line, and give the predicted slope.
@@ -172,13 +172,13 @@ A student balances a light metre rule at its centre. She hangs a fixed 0.200 kg 
 
 **(c)**
 
-| m (kg) | 0.050 | 0.100 | 0.150 | 0.200 | 0.250 |
+| m (kg) | 0.075 | 0.100 | 0.150 | 0.200 | 0.250 |
 |---|---|---|---|---|---|
-| 1/d (m⁻¹) | 1.66 | 3.36 | 4.98 | 6.67 | 8.26 |
+| 1/d (m⁻¹) | 2.49 | 3.36 | 4.98 | 6.67 | 8.26 |
 
-Slope from the first and last points: (0.250 − 0.050) ÷ (8.26 − 1.66) = 0.200 ÷ 6.60 = **0.0303 kg·m**. A best-fit line gives the same value to 3 significant figures.
+Slope from the first and last points: (0.250 − 0.075) ÷ (8.26 − 2.49) = 0.175 ÷ 5.77 = **0.0303 kg·m**. A best-fit line gives the same value to 3 significant figures.
 
-**(d)** The data **support** the model. The points lie close to a straight line through the origin, and the slope (0.0303 kg·m) is within about 1% of the predicted 0.030 kg·m. Each product m·d is between 0.0298 and 0.0303 kg·m.
+**(d)** The data **support** the model. The points lie close to a straight line through the origin, and the slope (0.0303 kg·m) is within 1% of the predicted 0.030 kg·m. Each product m·d is between 0.0298 and 0.0303 kg·m.
 
 | Point | What earns it |
 |---|---|

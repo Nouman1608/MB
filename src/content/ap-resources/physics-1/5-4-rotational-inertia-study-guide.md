@@ -31,7 +31,7 @@ keyPoints:
   - "For a small object a distance r from the axis, I = mr². Units: kg·m². Doubling r makes I four times as large."
   - "For a collection of objects, add the inertias: I = Σmᵢrᵢ², every r measured from the same axis."
   - "For a family of parallel axes, I is smallest for the one through the centre of mass. The parallel axis theorem gives I = I_cm + Md²."
-  - "A hoop has more rotational inertia than a solid disk of the same mass and radius, because all of its mass is at the rim."
+  - "Give a hoop and a solid disk equal mass and radius: the hoop's I is larger, because all of its mass sits at the rim."
 faqs:
   - question: "Do I need to memorise the rotational inertia of a rod, disk or sphere?"
     answer: "No. The exam provides those values when they are needed. You do need to understand why, for example, a hoop's value is larger than a disk's, and be able to use a given value."
@@ -96,7 +96,7 @@ The values are symmetric about the centre: an axis at 0.40 m gives 0.40 kg·m² 
 <figure>
 <svg viewBox="0 0 560 340" role="img" aria-labelledby="p1ri-g-title p1ri-g-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="p1ri-g-title">Rotational inertia of a dumbbell against the position of the axis</title>
-<desc id="p1ri-g-desc">Rotational inertia I in kilogram metres squared, from 0 to 0.8, against the position of a perpendicular axis along a 0.60 m light rod with a 2.0 kg mass at each end, from 0 to 0.60 m. The curve is a U shape: 0.72 at both ends, falling to a minimum of 0.36 at 0.30 m, the centre of mass. Points marked at 0.10 m (0.52) and 0.20 m (0.40). A small sketch below the axis shows the rod with a filled circle at each end and a cross marking the centre of mass.</desc>
+<desc id="p1ri-g-desc">Rotational inertia I in kilogram metres squared, from 0 to 0.8, against the position of a perpendicular axis along a 0.60 m light rod with a 2.0 kg mass at each end, from 0 to 0.60 m. The curve is a U shape: 0.72 at both ends, falling to a minimum of 0.36 at 0.30 m, the centre of mass. Points marked at 0.10 m (0.52) and 0.20 m (0.40). A small sketch along the bottom of the plot, just above the horizontal axis, shows the rod with a filled circle at each end and a cross marking the centre of mass.</desc>
 <rect x="0" y="0" width="560" height="340" fill="#ffffff"/>
 <g stroke="#1d2b44" stroke-width="0.5" stroke-dasharray="2 4" opacity="0.5">
 <path d="M70 230 H500 M70 170 H500 M70 110 H500 M70 50 H500"/>
@@ -161,7 +161,7 @@ Compare the hoop and the disk. They have the same mass and radius, but **every**
 
 ## Worked example 1: four masses on a square frame
 
-**Question.** A light square frame has side 0.40 m. Two 1.0 kg masses sit at the two bottom corners and two 2.0 kg masses at the two top corners. Find I about (a) an axis perpendicular to the frame through its geometric centre, (b) an axis along the top side, and (c) an axis along the bottom side. (d) Where is the parallel axis that gives the smallest I compared with (b) and (c), and what is its value?
+**Question.** A light square frame has side 0.40 m. Two 1.0 kg masses sit at the two bottom corners and two 2.0 kg masses at the two top corners. Find I about (a) an axis perpendicular to the frame through its geometric centre, (b) an axis along the top side, and (c) an axis along the bottom side. (d) Of all the axes parallel to those in (b) and (c), which one gives the smallest I, and what is its value?
 
 **(a)** Every corner is half a diagonal from the centre: r = 0.40 m ÷ √2 = 0.283 m, so r² = 0.080 m². I = (1.0 + 1.0 + 2.0 + 2.0) kg × 0.080 m² = **0.48 kg·m²**.
 

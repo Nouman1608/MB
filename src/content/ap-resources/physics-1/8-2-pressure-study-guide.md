@@ -134,7 +134,7 @@ Why does pressure increase as you go deeper? Picture an imaginary vertical colum
 <figure>
 <svg viewBox="0 0 560 320" role="img" aria-labelledby="p1-82-col-title p1-82-col-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="p1-82-col-title">Forces on an imaginary column of liquid at rest</title>
-<desc id="p1-82-col-desc">A tank of liquid with its surface marked near the top. Inside it, a dashed rectangle marks an imaginary column of liquid of height h and cross-sectional area A, with its top at the surface. Three vertical arrows act on the column: one pushing down on the top labelled P₀A, one from the middle pointing down labelled weight ρAhg, and a longer one pushing up on the bottom labelled P_bottom A. Pairs of short horizontal arrows on the left and right sides point inward and are labelled side forces cancel.</desc>
+<desc id="p1-82-col-desc">A tank of liquid with its surface marked near the top. Inside it, a dashed rectangle marks an imaginary column of liquid of height h and cross-sectional area A, with its top at the surface. Three vertical arrows act on the column: a short one pushing down on the top labelled P₀A, a short one from the middle pointing down labelled weight ρAhg, and one pushing up on the bottom labelled P_bottom A that is as long as the other two together. Pairs of short horizontal arrows on the left and right sides point inward and are labelled side forces cancel.</desc>
 <defs><marker id="p1-82-ah2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#1d2b44"/></marker></defs>
 <rect x="0" y="0" width="560" height="320" fill="#ffffff"/>
 <path d="M120 40 V290 H440 V40" fill="none" stroke="#1d2b44" stroke-width="3"/>
@@ -142,9 +142,9 @@ Why does pressure increase as you go deeper? Picture an imaginary vertical colum
 <path d="M123 80 H437" stroke="#1d2b44" stroke-width="1.5"/>
 <text x="380" y="72" font-size="12" fill="#1d2b44">surface</text>
 <rect x="240" y="80" width="80" height="150" fill="none" stroke="#1d2b44" stroke-width="2" stroke-dasharray="6 4"/>
-<path d="M280 30 L280 76" stroke="#1d2b44" stroke-width="2.5" marker-end="url(#p1-82-ah2)"/>
-<path d="M280 140 L280 186" stroke="#1d2b44" stroke-width="2.5" marker-end="url(#p1-82-ah2)"/>
-<path d="M280 282 L280 234" stroke="#1d2b44" stroke-width="2.5" marker-end="url(#p1-82-ah2)"/>
+<path d="M280 50 L280 76" stroke="#1d2b44" stroke-width="2.5" marker-end="url(#p1-82-ah2)"/>
+<path d="M280 150 L280 176" stroke="#1d2b44" stroke-width="2.5" marker-end="url(#p1-82-ah2)"/>
+<path d="M280 286 L280 234" stroke="#1d2b44" stroke-width="2.5" marker-end="url(#p1-82-ah2)"/>
 <path d="M205 120 L236 120 M205 190 L236 190" stroke="#1d2b44" stroke-width="1.5" marker-end="url(#p1-82-ah2)"/>
 <path d="M355 120 L324 120 M355 190 L324 190" stroke="#1d2b44" stroke-width="1.5" marker-end="url(#p1-82-ah2)"/>
 <path d="M395 80 V230" stroke="#1d2b44" stroke-width="1"/>
@@ -189,7 +189,7 @@ For an incompressible liquid, P = P₀ + ρgh is a straight line when P is plott
 <figure>
 <svg viewBox="0 0 560 340" role="img" aria-labelledby="p1-82-graph-title p1-82-graph-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="p1-82-graph-title">Pressure against depth for water and for a denser liquid</title>
-<desc id="p1-82-graph-desc">Pressure in units of 10 to the 5 pascals, from 0 to 2.4, against depth in metres from 0 to 10. A solid line for the absolute pressure in water starts at 1.0 at zero depth and rises in a straight line to 1.98 at 10 m. A dash-dot line for the absolute pressure in a denser liquid of density 1200 kilograms per cubic metre also starts at 1.0 but is steeper, reaching 2.18 at 10 m. A dashed line for the gauge pressure in water starts at 0 and rises parallel to the solid water line, reaching 0.98 at 10 m.</desc>
+<desc id="p1-82-graph-desc">Pressure in units of 10 to the 5 pascals, marked from 0 to 2.0, against depth in metres from 0 to 10. A solid line for the absolute pressure in water starts at 1.0 at zero depth and rises in a straight line to 1.98 at 10 m. A dash-dot line for the absolute pressure in a denser liquid of density 1200 kilograms per cubic metre also starts at 1.0 but is steeper, reaching 2.18 at 10 m. A dashed line for the gauge pressure in water starts at 0 and rises parallel to the solid water line, reaching 0.98 at 10 m.</desc>
 <rect x="0" y="0" width="560" height="340" fill="#ffffff"/>
 <g stroke="#1d2b44" stroke-width="0.5" stroke-dasharray="2 4" opacity="0.5">
 <path d="M158 290 V50 M246 290 V50 M334 290 V50 M422 290 V50 M510 290 V50"/>
@@ -217,7 +217,7 @@ For an incompressible liquid, P = P₀ + ρgh is a straight line when P is plott
 <figcaption>Figure 3. For an incompressible liquid, pressure rises linearly with depth. Both absolute-pressure lines start at atmospheric pressure; the denser liquid (1200 kg/m³) has the steeper slope ρg. The gauge-pressure line for water is the solid line shifted down by 1.0 × 10⁵ Pa.</figcaption>
 </figure>
 
-**Background: air is different.** Air is compressible, so it is denser near the ground and thinner higher up. A graph of air pressure against height above the ground still falls as you climb, but it curves: it gets less steep with height because each metre of thinner air weighs less. You may be asked to sketch this shape, but not to calculate it.
+**Background: air is different.** Air is compressible, so it is denser near the ground and thinner higher up. A graph of air pressure against height above the ground still falls as you climb, but it curves: it gets less steep with height because each metre of thinner air weighs less. You do not need a formula for this curve. Over a small height change the air density is nearly constant, so the steepness of the graph at a point is about ρg for the air there.
 
 ## Worked example 2: a viewing window in the floor of a tank
 

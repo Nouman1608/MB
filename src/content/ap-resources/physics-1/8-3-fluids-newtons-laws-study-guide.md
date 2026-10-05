@@ -113,13 +113,13 @@ That leftover net upward force is the **buoyant force**, F_b. It is not a new ki
 <text x="180" y="320" font-size="12" fill="#1d2b44" text-anchor="middle">(a) pressure forces on each face</text>
 <circle cx="450" cy="210" r="6" fill="#1d2b44"/>
 <path d="M450 204 V110" stroke="#1d2b44" stroke-width="3" marker-end="url(#p1-83-ah)"/>
-<text x="462" y="140" font-size="12" fill="#1d2b44">F_b = 29.4 N − 19.6 N</text>
-<text x="462" y="156" font-size="12" fill="#1d2b44">= 9.8 N (upward)</text>
+<text x="450" y="84" font-size="12" fill="#1d2b44" text-anchor="middle">F_b = 29.4 N − 19.6 N</text>
+<text x="450" y="100" font-size="12" fill="#1d2b44" text-anchor="middle">= 9.8 N (upward)</text>
 <text x="450" y="250" font-size="12" fill="#1d2b44" text-anchor="middle">same as the weight of</text>
 <text x="450" y="266" font-size="12" fill="#1d2b44" text-anchor="middle">0.0010 m³ of water</text>
 <text x="450" y="320" font-size="12" fill="#1d2b44" text-anchor="middle">(b) their sum: the buoyant force</text>
 </svg>
-<figcaption>Figure 1. A 0.10 m cube held in water, top face 0.20 m below the surface (gauge pressures, g = 9.8 m/s²). The top face feels 1960 Pa × 0.010 m² = 19.6 N down; the bottom face feels 2940 Pa × 0.010 m² = 29.4 N up. The side forces cancel. The net 9.8 N upward is the buoyant force. Panel (b) replaces all the arrows in panel (a); it is not an extra force.</figcaption>
+<figcaption>Figure 1. A 0.10 m cube held in water, top face 0.20 m below the surface (sketch, not to scale; gauge pressures, g = 9.8 m/s²). The top face feels 1960 Pa × 0.010 m² = 19.6 N down; the bottom face feels 2940 Pa × 0.010 m² = 29.4 N up. The side forces cancel. The net 9.8 N upward is the buoyant force. Panel (b) replaces all the arrows in panel (a); it is not an extra force.</figcaption>
 </figure>
 
 ### Deriving F_b = ρVg
@@ -161,7 +161,7 @@ Every buoyancy problem is a Newton's-laws problem. Draw the object, list the for
 <text x="232" y="84" font-size="13" fill="#1d2b44">T</text>
 <text x="300" y="98" font-size="13" fill="#1d2b44">F_b (dashed)</text>
 <text x="288" y="236" font-size="13" fill="#1d2b44">mg</text>
-<text x="280" y="268" font-size="12" fill="#1d2b44" text-anchor="middle">(b) on a spring scale, under water</text>
+<text x="280" y="268" font-size="12" fill="#1d2b44" text-anchor="middle">(b) spring scale, under water</text>
 <text x="280" y="286" font-size="12" fill="#1d2b44" text-anchor="middle">T + F_b = mg</text>
 <rect x="440" y="120" width="50" height="40" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
 <path d="M465 120 V40" stroke="#1d2b44" stroke-width="2.5" marker-end="url(#p1-83-ah2)"/>

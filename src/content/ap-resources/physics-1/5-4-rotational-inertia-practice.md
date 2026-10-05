@@ -202,7 +202,7 @@ You are given two cylinders that look identical. They have the same mass and the
 
 **(a)** Mount the first cylinder centred on the axle. Wind the string round the axle (or a spool of fixed radius on it), pass it over the pulley and attach the hanging mass. Release from rest and time how long the mass takes to fall a measured height, for example 0.80 m. Repeat several times and average. Then replace the cylinder with the other one and repeat with **the same** hanging mass, spool radius, string, drop height and release method. The same hanging mass on the same spool exerts (nearly) the same torque each time.
 
-**(b)** The cylinder that gives the **longer** fall time is the hollow one. Its mass is all near the outer radius, far from the axis, so it has the larger rotational inertia. With about the same torque, a larger rotational inertia gives a smaller angular acceleration, so the system turns up more slowly and the mass takes longer to fall.
+**(b)** The cylinder that gives the **longer** fall time is the hollow one. Its mass is all near the outer radius, far from the axis, so it has the larger rotational inertia. With about the same torque, a larger rotational inertia gives a smaller angular acceleration, so the system speeds up more slowly and the mass takes longer to fall.
 
 | Point | What earns it |
 |---|---|

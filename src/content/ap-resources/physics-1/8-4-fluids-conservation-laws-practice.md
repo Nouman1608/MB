@@ -175,7 +175,7 @@ A student tests Torricelli's result. A small hole in the side of a wide containe
 
 The points lie on a straight line through the origin. Slope ≈ (0.377 − 0.0751) ÷ (0.50 − 0.10) = **0.75 m** (a best-fit line gives 0.754 m).
 
-**(d)** Predicted slope = 4H = 4 × 0.20 = 0.80 m. The measured slope is about 6% lower, so the measured speeds are about 3% below √(2gh). The **straight line through the origin supports** the form of Torricelli's result. The smaller slope is reasonable for a real fluid: water has some viscosity, so a little mechanical energy becomes thermal energy, and the jet narrows just outside the hole. (A slope well **above** 0.80 m would suggest a measurement error, since an ideal fluid sets the upper limit.)
+**(d)** Predicted slope = 4H = 4 × 0.20 = 0.80 m. The measured slope is about 6% lower, so the measured speeds are about 3% below √(2gh). The **straight line through the origin supports** the form of Torricelli's result. The smaller slope is reasonable for a real fluid: water has some viscosity, so a little mechanical energy becomes thermal energy as it passes through the hole, and air resistance slows the jet slightly. (A slope well **above** 0.80 m would suggest a measurement error, since an ideal fluid sets the upper limit.)
 
 | Point | What earns it |
 |---|---|
@@ -183,7 +183,7 @@ The points lie on a straight line through the origin. Slope ≈ (0.377 − 0.075
 | 1 | Correct fall time √(2H/g) combined with v = √(2gh) |
 | 1 | R² = 4Hh shown clearly |
 | 1 | Plots R² against h (or v² against h with v = R ÷ t) and finds slope ≈ 0.75 m |
-| 1 | Compares with 0.80 m and gives a valid physical reason (viscosity, jet narrowing) |
+| 1 | Compares with 0.80 m and gives a valid physical reason (viscosity at the hole, air resistance on the jet) |
 
 **Alternative.** Converting each R to a speed with t = √(2H/g) = 0.202 s and plotting v² against h gives a slope of about 18 m/s², compared with the predicted 2g = 19.6 m/s². This earns full credit.
 </details>

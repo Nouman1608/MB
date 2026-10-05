@@ -17,7 +17,7 @@ calculator: "scientific"
 related: ["mb-ap-phys1-7.3-study-guide", "mb-ap-phys1-7.3-practice", "mb-ap-phys1-7.3-checklist"]
 next: "mb-ap-phys1-7.3-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-physics-1"]
+sources: ["ced-physics-1", "page-physics-1"]
 keyPoints:
   - "Turning points: v = 0, |a| largest. Equilibrium: speed largest, a = 0."
   - "a = −(k/m)x: acceleration always points towards equilibrium."
