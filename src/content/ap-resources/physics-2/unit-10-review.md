@@ -67,18 +67,18 @@ The questions in this review are **original Marlbridge practice questions**, not
 
 *Topics 10.5, 10.7.* A proton is released from rest on the 80 V equipotential line of a map. Only electric forces act. Which is correct when it reaches the 30 V line?
 
-- (A) It has moved toward lower potential and has speed 9.8 × 10⁴ m/s.
-- (B) It has moved toward higher potential and has speed 9.8 × 10⁴ m/s.
-- (C) It has moved toward lower potential and has speed 1.2 × 10⁵ m/s.
+- (A) It has moved toward higher potential and has speed 9.8 × 10⁴ m/s.
+- (B) It has moved toward lower potential and has speed 1.2 × 10⁵ m/s.
+- (C) It has moved toward lower potential and has speed 9.8 × 10⁴ m/s.
 - (D) It has moved toward lower potential and has speed 4.2 × 10⁶ m/s.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** A positive charge is pushed along the field, toward lower potential. ΔK = −qΔV = −(1.60 × 10⁻¹⁹)(30 − 80) = 8.0 × 10⁻¹⁸ J, so v = √(2K/mₚ) = 9.8 × 10⁴ m/s.
+**Answer: (C).** A positive charge is pushed along the field, toward lower potential. ΔK = −qΔV = −(1.60 × 10⁻¹⁹)(30 − 80) = 8.0 × 10⁻¹⁸ J, so v = √(2K/mₚ) = 9.8 × 10⁴ m/s.
 
-- (B) uses the rule for a negative charge.
-- (C) uses 80 V instead of the 50 V difference.
+- (A) uses the rule for a negative charge.
+- (B) uses 80 V instead of the 50 V difference.
 - (D) uses the electron mass.
 </details>
 
@@ -86,17 +86,17 @@ The questions in this review are **original Marlbridge practice questions**, not
 
 *Topics 10.1, 10.2, 10.6.* A charged capacitor is disconnected from its battery. A slab of plastic is then slid in to fill the gap, and the potential difference between the plates falls. Which explanation is correct?
 
-- (A) The plates' field shifts the electrons in each plastic molecule toward the positive plate. This induced separation makes a field opposite to the plates' field, so E and ΔV = Ed fall.
-- (B) The plastic conducts a little charge from one plate to the other, so Q falls and ΔV = Q/C falls.
+- (A) The plastic conducts a little charge from one plate to the other, so Q falls and ΔV = Q/C falls.
+- (B) The plates' field shifts the electrons in each plastic molecule toward the positive plate. This induced separation makes a field opposite to the plates' field, so E and ΔV = Ed fall.
 - (C) Free electrons flow through the plastic to the positive plate and cancel part of its charge.
 - (D) The plastic pushes the plates farther apart, so the field weakens.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Plastic is an insulator: its charges cannot flow, but they shift within each molecule. Its induced field partly cancels the plates' field. Q is unchanged, so C = Q/ΔV rises by the factor κ.
+**Answer: (B).** Plastic is an insulator: its charges cannot flow, but they shift within each molecule. Its induced field partly cancels the plates' field. Q is unchanged, so C = Q/ΔV rises by the factor κ.
 
-- (B) and (C) treat the plastic as a conductor.
+- (A) and (C) treat the plastic as a conductor.
 - (D) The slab does not move the plates.
 </details>
 

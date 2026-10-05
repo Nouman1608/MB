@@ -36,9 +36,9 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-**What this is for.** This diagnostic shows which Unit 5 (Torque and Rotational Dynamics) topics to revisit. It covers every topic. These are **original Marlbridge practice questions**, not past exam questions. It is not calibrated against exam results, so it **gives no predicted score**. Treat each wrong answer as a pointer to a topic, not a grade.
+**What this is for.** This diagnostic shows which Unit 5 (Torque and Rotational Dynamics) topics to revisit. These are **original Marlbridge practice questions**, not past exam questions. It is not calibrated against exam results, so it **gives no predicted score**.
 
-**How to sit it.** Allow about 30 minutes. Close your notes. Use a calculator for arithmetic and trigonometry, but do the calculus by hand. Use g = 9.8 m/s². Each question states its positive sense of rotation. θ is in rad, ω in rad/s, α in rad/s² and t in s, so each coefficient carries the unit that makes its term correct. Strings do not slip or stretch.
+**How to sit it.** Allow about 30 minutes. Close your notes. Use a calculator for arithmetic and trigonometry, but do the calculus by hand. Use g = 9.8 m/s². Each question states its positive sense of rotation. θ is in rad, ω in rad/s, α in rad/s² and t in s; coefficients carry the units that make each term correct. Strings do not slip or stretch.
 
 ## Question 1 (multiple choice · 5.1)
 
@@ -56,7 +56,7 @@ Take **counterclockwise as positive**. A rotor has ω₀ = −9.0 rad/s (clockwi
 
 - (A) writes ω = ω₀ + α(t)·t = −9.0 + 2.0t². That formula needs a constant α.
 - (C) treats α as a constant 2.0 rad/s². It grows with time.
-- (D) forgets to compare signs. ω and α have opposite signs, so the rotor slows down.
+- (D) ignores the signs: ω and α are opposite, so the rotor slows.
 
 **If you missed this:** read "Angular velocity and angular acceleration as derivatives" and Worked example 2 in the [Topic 5.1 study guide](/advanced-course-resources/physics-c-mechanics/5-1-rotational-kinematics-study-guide/).
 </details>
@@ -76,7 +76,7 @@ A motor turns a small pulley of radius 0.10 m at 60 rad/s. A belt that does not 
 **Answer: (B).** Both rims move with the belt: v = 0.10 × 60 = 6.0 m/s. For the large pulley, ω = v/R = 6.0 ÷ 0.30 = 20 rad/s.
 
 - (A) is the belt speed in m/s, labelled as an angular velocity.
-- (C) assumes the pulleys share ω. Only points on **one** rigid system do; two pulleys share the belt speed.
+- (C) assumes the pulleys share ω. They share the belt speed, not ω.
 - (D) multiplies by the radius ratio instead of dividing.
 
 **If you missed this:** read "Strings, hoses and belts that do not slip" in the [Topic 5.2 study guide](/advanced-course-resources/physics-c-mechanics/5-2-connecting-linear-rotational-motion-study-guide/).
@@ -170,19 +170,19 @@ A uniform metre stick of mass 0.15 kg rests on a pivot at the 40 cm mark. Where 
 
 A 2.0 kg block hangs from a light string wound round a uniform disk pulley of mass 4.0 kg and radius 0.10 m, which turns on a frictionless axle (I = ½MR²). The block is released. What is the angular acceleration of the pulley?
 
-- (A) 4.9 rad/s²
-- (B) 33 rad/s²
-- (C) 49 rad/s²
-- (D) 98 rad/s²
+- (A) 0.49 rad/s²
+- (B) 4.9 rad/s²
+- (C) 33 rad/s²
+- (D) 49 rad/s²
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** I = ½(4.0)(0.10)² = 0.020 kg·m². Block: mg − T = ma. Pulley: TR = Iα, with a = Rα. Combining, a = mg ÷ (m + I/R²) = 19.6 ÷ (2.0 + 2.0) = 4.9 m/s², so α = a/R = 49 rad/s².
+**Answer: (D).** I = ½(4.0)(0.10)² = 0.020 kg·m². Block: mg − T = ma. Pulley: TR = Iα, with a = Rα. Combining, a = mg ÷ (m + I/R²) = 19.6 ÷ (2.0 + 2.0) = 4.9 m/s², so α = a/R = 49 rad/s².
 
-- (A) is the block's linear acceleration, in m/s², not α.
-- (B) treats the pulley as a hoop, a = mg ÷ (m + M).
-- (D) sets T = mg, which would leave the block in equilibrium.
+- (A) multiplies a by R instead of dividing: α = a/R, not aR.
+- (B) is the block's linear acceleration, in m/s², not α.
+- (C) treats the pulley as a hoop, a = mg ÷ (m + M).
 
 **If you missed this:** read "Linear and rotational analyses are separate" in the [Topic 5.6 study guide](/advanced-course-resources/physics-c-mechanics/5-6-newtons-second-law-rotational-form-study-guide/).
 </details>
@@ -202,7 +202,7 @@ Take **counterclockwise as positive** for the drum. A winch drum of radius 0.15 
 
 **(b)** θ = ∫₀³ 0.80t² dt = 0.80 × 27 ÷ 3 = 7.2 rad. The bucket rises s = Rθ = 0.15 × 7.2 = **1.1 m** (1.08 m).
 
-**(c)** a_T = 0.72 m/s² and a_c = ω²R = 7.2² × 0.15 = 7.8 m/s², so |a| = √(0.72² + 7.78²) = **7.8 m/s²**. The rim point moves in a circle, so it also has a centripetal acceleration; the straight rope and bucket do not.
+**(c)** a_T = 0.72 m/s² and a_c = ω²R = 7.2² × 0.15 = 7.8 m/s², so |a| = √(0.72² + 7.78²) = **7.8 m/s²**. The rim point moves in a circle, so it also has centripetal acceleration; the bucket does not.
 
 **If you missed this:** read "Deriving v = rω and a_T = rα" and Worked example 2 in the [Topic 5.2 study guide](/advanced-course-resources/physics-c-mechanics/5-2-connecting-linear-rotational-motion-study-guide/).
 </details>
@@ -269,6 +269,6 @@ Mark each question. Count a short answer as missed if any part went wrong.
 - **Missed one question in a topic?** Read the named section, then try its practice set.
 - **Missed two or more in a topic?** Work through its whole study guide, practice set and checklist.
 - **Missed questions across several topics?** Start with Topic 5.3. Torque feeds Topics 5.5 and 5.6, which also use I from Topic 5.4.
-- **All right?** Go straight to the [mixed unit review](/advanced-course-resources/physics-c-mechanics/unit-5-review/), where each question combines two or more topics.
+- **All right?** Go straight to the [mixed unit review](/advanced-course-resources/physics-c-mechanics/unit-5-review/).
 
 Your result here is a guide to what to study next. It does not predict an exam score.

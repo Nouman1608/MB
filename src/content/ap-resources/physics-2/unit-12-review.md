@@ -41,14 +41,13 @@ The questions in this review are **original Marlbridge practice questions**, not
 
 ## Big ideas of the unit
 
-- **A magnetic field is a vector field made by moving charge.** Its lines form closed loops because there are no monopoles ([Topic 12.1](/advanced-course-resources/physics-2/12-1-magnetic-fields-study-guide/)).
-- **Magnets are organised moving charge.** Electrons act as tiny dipoles; a magnet is many of them lined up. Permeability measures a material's response and is not constant.
+- **A magnetic field is a vector field made by moving charge.** Its lines are closed loops (no monopoles), and a magnet is many electron dipoles lined up ([Topic 12.1](/advanced-course-resources/physics-2/12-1-magnetic-fields-study-guide/)).
 - **One force law for moving charge.** F = |q|vB sin θ, at right angles to v and B. It does no work, so it bends paths into circles ([Topic 12.2](/advanced-course-resources/physics-2/12-2-magnetism-moving-charges-study-guide/)).
 - **Electric and magnetic forces act independently.** Balancing them gives v = E/B and the Hall potential difference ΔV_H = vBw.
 - **A wire is many moving charges.** Adding up their fields gives circles with B = μ₀I/(2πr); adding up their forces gives F = IℓB sin θ ([Topic 12.3](/advanced-course-resources/physics-2/12-3-magnetism-current-carrying-wires-study-guide/)).
-- **Fields superpose.** Fields from wires, magnets and Earth add as vectors; a compass or sensor responds to the total.
+- **Fields superpose.** Fields from wires, magnets and Earth add as vectors; a sensor reads the total.
 - **A changing flux induces an emf.** Φ = BA cos θ; |ε| = N|ΔΦ|/Δt; a moving rod gives ε = Bℓv ([Topic 12.4](/advanced-course-resources/physics-2/12-4-electromagnetic-induction-faradays-law-study-guide/)).
-- **Lenz's law ties it together.** The induced current's field (12.3 rules) opposes the change, and the force on it opposes the motion. Work done against it becomes electrical energy.
+- **Lenz's law ties it together.** The induced current's field opposes the change, and the force on it opposes the motion.
 
 ## Key relationships and methods
 
@@ -68,18 +67,18 @@ The questions in this review are **original Marlbridge practice questions**, not
 
 *Topics 12.1, 12.2.* Model Earth's field as a dipole. Protons arrive from space moving vertically **downward**, all at the same speed. Where is the magnetic force on such a proton largest, just above the ground?
 
-- (A) Near the magnetic equator, because there the field is roughly horizontal, at right angles to the proton's velocity
-- (B) Near the magnetic poles, because the field is strongest there
-- (C) Everywhere the same, because the protons all have the same speed
+- (A) Near the magnetic poles, because the field is strongest there
+- (B) Everywhere the same, because the protons all have the same speed
+- (C) Near the magnetic equator, because there the field is roughly horizontal, at right angles to the proton's velocity
 - (D) Nowhere: the force is zero everywhere, because Earth's field does no work on the protons
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** F = qvB sin θ. In the dipole model the field near the magnetic equator is nearly horizontal, so θ ≈ 90°. Near the poles it is nearly vertical, almost parallel to v, so sin θ ≈ 0.
+**Answer: (C).** F = qvB sin θ. In the dipole model the field near the magnetic equator is nearly horizontal, so θ ≈ 90°. Near the poles it is nearly vertical, almost parallel to v, so sin θ ≈ 0.
 
-- (B) The field is stronger near the poles, but sin θ is small there.
-- (C) ignores the angle.
+- (A) The field is stronger near the poles, but sin θ is small there.
+- (B) ignores the angle.
 - (D) confuses "no work" with "no force". The force changes the direction, not the speed.
 </details>
 
@@ -87,17 +86,17 @@ The questions in this review are **original Marlbridge practice questions**, not
 
 *Topics 12.1, 12.3, 12.4.* A bar magnet is dropped, north pole down, through a horizontal copper ring. Which statement is correct?
 
-- (A) The ring pushes up on the magnet both as it approaches and as it leaves; the current in the ring reverses between the two stages.
-- (B) The ring pushes up on the magnet as it approaches and pulls it down as it leaves.
+- (A) The ring pushes up on the magnet as it approaches and pulls it down as it leaves.
+- (B) The ring pushes up on the magnet both as it approaches and as it leaves; the current in the ring reverses between the two stages.
 - (C) There is no force, because copper is not ferromagnetic.
 - (D) The ring pushes up on the magnet both times, and the current flows the same way both times.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The magnet's field points down through the ring throughout. On approach the downward flux increases, so the induced field points up (anticlockwise from above): the ring's top face acts as N and repels the falling N pole. As the magnet leaves, the flux decreases, so the induced field points down (clockwise): the ring's lower face acts as N and pulls the magnet's S pole up. Both forces oppose the motion.
+**Answer: (B).** The magnet's field points down through the ring throughout. On approach the downward flux increases, so the induced field points up (anticlockwise from above): the ring's top face acts as N and repels the falling N pole. As the magnet leaves, the flux decreases, so the induced field points down (clockwise): the ring's lower face acts as N and pulls the magnet's S pole up. Both forces oppose the motion.
 
-- (B) gets the current reversal but not the force. A force helping the fall would create energy from nothing.
+- (A) is right on approach but not as the magnet leaves. A force helping the fall would create energy from nothing.
 - (C) The force comes from the induced current.
 - (D) misses that increasing and decreasing flux need opposite induced fields.
 </details>
@@ -114,20 +113,20 @@ The questions in this review are **original Marlbridge practice questions**, not
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** At M (5.0 cm from each): B_P = (2 × 10⁻⁷)(12) ÷ 0.050 = 4.8 × 10⁻⁵ T and B_Q = (2 × 10⁻⁷)(4.0) ÷ 0.050 = 1.6 × 10⁻⁵ T. P's current is out of the page, so its field circles anticlockwise; M is to its right, where the circle runs **up**. Q's current is into the page (clockwise); M is to its left, where the circle also runs **up**. Total: **6.4 × 10⁻⁵ T, up the page**.
+**(a)** At M (5.0 cm from each): B_P = (2 × 10⁻⁷)(12) ÷ 0.050 = 4.8 × 10⁻⁵ T and B_Q = (2 × 10⁻⁷)(4.0) ÷ 0.050 = 1.6 × 10⁻⁵ T. P's current is out of the page (anticlockwise circles) and M is to its right, where the circle runs **up**. Q's current is into the page (clockwise) and M is to its left, where the circle also runs **up**. Total: **6.4 × 10⁻⁵ T, up the page**.
 
 **(b)** F/ℓ = μ₀I₁I₂/(2πd) = (2 × 10⁻⁷)(12)(4.0) ÷ 0.10 = **9.6 × 10⁻⁵ N/m** on each wire (a Newton's third law pair). Opposite currents **repel**.
 
-**(c)** Between the wires the fields add. Left of P, P's field is always larger. Right of Q the fields oppose (P's up, Q's down) and the weaker current is closer. At x beyond Q: 12/(0.10 + x) = 4.0/x, so x = 0.050 m. The field is zero **5.0 cm to the right of Q** (check: 1.6 × 10⁻⁵ T from each).
+**(c)** Between the wires the fields add. Left of P, P's field is always larger. Right of Q the fields oppose and the weaker current is closer. At x beyond Q: 12/(0.10 + x) = 4.0/x, so x = 0.050 m. The field is zero **5.0 cm to the right of Q** (check: 1.6 × 10⁻⁵ T from each).
 
 **(d)** F = evB = (1.60 × 10⁻¹⁹)(3.0 × 10⁵)(6.4 × 10⁻⁵) = **3.1 × 10⁻¹⁸ N**. Fingers out of the page (v), curl up the page (B): the thumb points **left, towards P**. Like a parallel current, it is attracted to P.
 
 | Point | What earns it |
 |---|---|
 | 1 | B_P = 4.8 × 10⁻⁵ T and B_Q = 1.6 × 10⁻⁵ T |
-| 1 | Both fields up at M, with reasons from each wire's circle; total 6.4 × 10⁻⁵ T |
+| 1 | Both fields up at M, with reasons; total 6.4 × 10⁻⁵ T |
 | 1 | 9.6 × 10⁻⁵ N/m on each wire, repulsion |
-| 1 | Zero point must be outside the pair, on Q's side, with a reason |
+| 1 | Zero point outside the pair, on Q's side, with a reason |
 | 1 | 5.0 cm to the right of Q |
 | 1 | Proton force 3.1 × 10⁻¹⁸ N |
 | 1 | Direction towards P, with the right-hand rule stated in words |
@@ -140,7 +139,7 @@ Total: 7 points. Carry forward an error in (a) into (d) once.
 *Topics 12.1, 12.2, 12.3.* A long straight wire lies flat on a horizontal bench (the page) and carries 15 A **up** the page. A Hall sensor strip lies flat on the bench 3.0 cm to the right of the wire. The sensor's own current flows to the right, carried by **positive** charge carriers drifting at 12 m/s. The strip is 4.0 mm wide (measured up the page).
 
 (a) Calculate the wire's field at the sensor and state its direction.
-(b) State which edge (top or bottom) is at the higher potential, with a reason, and calculate the Hall potential difference.
+(b) State which edge (top or bottom) is at the higher potential, with a reason. Calculate the Hall potential difference.
 (c) The sensor is moved to 6.0 cm from the wire and the current is raised to 45 A. Predict the new Hall potential difference.
 (d) The sensor responds to the total field at right angles to the bench. Explain why Earth's field affects the readings, and describe how the student can remove its effect.
 
@@ -149,11 +148,11 @@ Total: 7 points. Carry forward an error in (a) into (d) once.
 
 **(a)** B = (2 × 10⁻⁷)(15) ÷ 0.030 = **1.0 × 10⁻⁴ T**. Thumb up the page: on the right of the wire the field points **into** the page.
 
-**(b)** Positive carriers move right; with B into the page the force on them points **up** the page (fingers right, curl into the page, thumb up). They collect on the top edge, so the **top edge** is at the higher potential. ΔV_H = vBw = (12)(1.0 × 10⁻⁴)(4.0 × 10⁻³) = **4.8 × 10⁻⁶ V** (4.8 μV).
+**(b)** Positive carriers move right; with B into the page the force on them points **up** the page (fingers right, curl into the page, thumb up), so they collect on the **top edge**, which is at the higher potential. ΔV_H = vBw = (12)(1.0 × 10⁻⁴)(4.0 × 10⁻³) = **4.8 × 10⁻⁶ V** (4.8 μV).
 
 **(c)** B ∝ I/r: the current is ×3 and the distance ×2, so B is ×1.5. ΔV_H ∝ B, so ΔV_H = **7.2 μV**.
 
-**(d)** Fields add as vectors. At most places Earth's field has a vertical part of tens of microtesla, the same order as the wire's 100 μT. Method: read the sensor with the wire's current off and subtract that value from each reading.
+**(d)** At most places Earth's field has a vertical part of tens of microtesla, the same order as the wire's 100 μT. Read the sensor with the wire's current off and subtract that value from each reading.
 
 | Point | What earns it |
 |---|---|
@@ -172,20 +171,20 @@ Total: 6 points.
 *Topics 12.3, 12.4.* A wire in the plane of the page carries a steady 30 A **up** the page. A rectangular loop lies flat on the page to the right of the wire. Its two vertical sides are 0.10 m long. At one instant the near side is 2.0 cm from the wire and the far side is 6.0 cm from it. The loop is moving directly **away** from the wire at 0.50 m/s. Its resistance is 0.020 Ω.
 
 (a) State the direction of the wire's field through the loop, and the direction of the induced current. Justify with Lenz's law.
-(b) Each vertical side acts like a rod moving across a field. Calculate the emf in each vertical side, and hence the net emf and the current in the loop at this instant.
+(b) Treating each vertical side as a rod moving across a field, calculate the emf in each, then the net emf and the current at this instant.
 (c) Calculate the net magnetic force on the loop and state its direction.
 (d) The loop instead moves **parallel** to the wire. Is a current induced? Explain.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** To the right of an upward current, the field points **into** the page. The field falls with distance (B ∝ 1/r), so as the loop moves away the flux into the page **decreases**. The induced field opposes the decrease, so it points into the page inside the loop: the current is **clockwise**.
+**(a)** To the right of an upward current, the field points **into** the page. B ∝ 1/r, so as the loop moves away the flux into the page **decreases**. The induced field opposes the decrease, so it points into the page inside the loop: the current is **clockwise**.
 
 **(b)** Field at the near side: (2 × 10⁻⁷)(30) ÷ 0.020 = 3.0 × 10⁻⁴ T. At the far side: (2 × 10⁻⁷)(30) ÷ 0.060 = 1.0 × 10⁻⁴ T. emfs: Bℓv = (3.0 × 10⁻⁴)(0.10)(0.50) = 1.5 × 10⁻⁵ V and (1.0 × 10⁻⁴)(0.10)(0.50) = 5.0 × 10⁻⁶ V. Both push positive charge **up** their side, so around the loop they oppose. Net emf = **1.0 × 10⁻⁵ V**, the near side winning (clockwise, as in (a)). I = ε/R = 1.0 × 10⁻⁵ ÷ 0.020 = **5.0 × 10⁻⁴ A**.
 
-**(c)** Near side: current up, field into the page, so F = IℓB = (5.0 × 10⁻⁴)(0.10)(3.0 × 10⁻⁴) = 1.5 × 10⁻⁸ N to the **left**. Far side: current down, so 5.0 × 10⁻⁹ N to the **right**. Forces on the top and bottom sides cancel. Net: **1.0 × 10⁻⁸ N towards the wire**, opposing the motion.
+**(c)** Near side: current up, field into the page, so F = IℓB = (5.0 × 10⁻⁴)(0.10)(3.0 × 10⁻⁴) = 1.5 × 10⁻⁸ N to the **left**. Far side: current down, 5.0 × 10⁻⁹ N to the **right**. The top and bottom forces cancel. Net: **1.0 × 10⁻⁸ N towards the wire**, opposing the motion.
 
-**(d)** **No.** Each side stays at the same distance from the wire, so the flux does not change.
+**(d)** **No.** The loop stays the same distance from the wire, so the flux is constant.
 
 | Point | What earns it |
 |---|---|
@@ -194,7 +193,7 @@ Total: 6 points.
 | 1 | Fields 3.0 × 10⁻⁴ T and 1.0 × 10⁻⁴ T at the two sides |
 | 1 | Net emf 1.0 × 10⁻⁵ V, recognising that the two side emfs oppose |
 | 1 | I = 5.0 × 10⁻⁴ A |
-| 1 | Net force 1.0 × 10⁻⁸ N towards the wire, with top and bottom forces cancelling |
+| 1 | Net force 1.0 × 10⁻⁸ N towards the wire |
 | 1 | (d) No emf, because the flux is unchanged |
 
 Total: 7 points. Accept ε = ℓv(B_near − B_far) from Faraday's law directly.
@@ -213,15 +212,15 @@ Total: 7 points. Accept ε = ℓv(B_near − B_far) from Faraday's law directly.
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Curl your right fingers anticlockwise as seen from the right-hand end: the thumb points towards that end. The field points **to the right** along the axis.
+**(a)** Right fingers curled anticlockwise as seen from the right-hand end put the thumb towards that end: the field points **to the right**.
 
-**(b)** Φ per turn = BA = (2.0 × 10⁻³)(1.5 × 10⁻⁴) = 3.0 × 10⁻⁷ Wb, falling to zero. |ε| = N|ΔΦ|/Δt = 100 × 3.0 × 10⁻⁷ ÷ 0.030 = **1.0 × 10⁻³ V**. The flux to the right decreases, so the induced field points to the right: the induced current is **anticlockwise** seen from the right-hand end.
+**(b)** Φ per turn = BA = (2.0 × 10⁻³)(1.5 × 10⁻⁴) = 3.0 × 10⁻⁷ Wb, falling to zero. |ε| = N|ΔΦ|/Δt = 100 × 3.0 × 10⁻⁷ ÷ 0.030 = **1.0 × 10⁻³ V**. The flux to the right decreases, so the induced field also points right: the current is **anticlockwise** seen from the right-hand end.
 
 **(c)** μ/μ₀ = 0.50 T ÷ 2.0 × 10⁻³ T = **250**.
 
 **(d)** |ε| = 100 × (0.50 − 0.020)(1.5 × 10⁻⁴) ÷ 0.030 = **0.24 V**. Iron is ferromagnetic: many domains stay lined up after the external field is removed.
 
-**(e)** The prediction assumes μ is constant, but a material's permeability changes with field strength. At 0.50 T many domains are already aligned, so the rod's field, and the emf, will most likely rise by **less** than double.
+**(e)** The prediction assumes μ is constant, but permeability changes with field strength. With many domains already aligned at 0.50 T, the rod's field and the emf will most likely rise by **less** than double.
 
 | Point | What earns it |
 |---|---|
@@ -229,7 +228,7 @@ Total: 7 points. Accept ε = ℓv(B_near − B_far) from Faraday's law directly.
 | 1 | emf 1.0 mV |
 | 1 | Induced current anticlockwise, with Lenz reasoning |
 | 1 | μ/μ₀ = 250 |
-| 1 | emf 0.24 V using a flux change based on 0.48 T |
+| 1 | emf 0.24 V from a 0.48 T change |
 | 1 | Field remains because ferromagnetic domains stay partly aligned |
 | 1 | Rejects the prediction because μ depends on field strength |
 
@@ -238,7 +237,7 @@ Total: 7 points.
 
 ## How did you do?
 
-Questions 1–2 are worth 1 point each and Questions 3–6 are worth 27 in total. There is no pass mark: use the checklist matching the points you lost.
+Questions 1–2 are worth 1 point each; Questions 3–6 are worth 27 in total. There is no pass mark: use the checklist matching the points you lost.
 
 - **field lines, materials, permeability, Earth's field** (Q1, Q2, 4(d), 6(c)–(e)): [Topic 12.1 checklist](/advanced-course-resources/physics-2/12-1-magnetic-fields-checklist/)
 - **force on a moving charge, Hall effect** (Q1, 3(d), 4(b)): [Topic 12.2 checklist](/advanced-course-resources/physics-2/12-2-magnetism-moving-charges-checklist/)

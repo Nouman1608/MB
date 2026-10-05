@@ -68,17 +68,17 @@ The questions in this review are **original Marlbridge practice questions**, not
 
 *Topics 11.2, 11.4, 11.8.* Identical bulbs L₁ and L₂ and an uncharged capacitor are connected to an ideal battery. L₁ is in series with a parallel pair made of L₂ and the capacitor. The switch is closed at t = 0. Which describes the bulbs?
 
-- (A) L₂ is off at first and then lights; L₁ is brightest at first and then dims.
-- (B) L₂ lights at once and goes off later; L₁ stays equally bright.
+- (A) L₂ lights at once and goes off later; L₁ stays equally bright.
+- (B) L₂ is off at first and then lights; L₁ is brightest at first and then dims.
 - (C) L₂ is off at first and then lights; L₁ stays equally bright throughout.
 - (D) Both bulbs light equally at once and stay that way, because no charge crosses a capacitor.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** At first the uncharged capacitor acts like a wire and short-circuits L₂, so L₂ has no potential difference across it. L₁ then has the whole emf: current ℰ/R, power ℰ²/R. After a long time the capacitor acts like a break, so L₁ and L₂ share the emf in series: each has current ℰ/(2R) and one quarter of L₁'s first power.
+**Answer: (B).** At first the uncharged capacitor acts like a wire and short-circuits L₂, so L₂ has no potential difference across it. L₁ then has the whole emf: current ℰ/R, power ℰ²/R. After a long time the capacitor acts like a break, so L₁ and L₂ share the emf in series: each has current ℰ/(2R) and one quarter of L₁'s first power.
 
-- (B) reverses the capacitor's behaviour.
+- (A) reverses the capacitor's behaviour.
 - (C) forgets that the circuit's resistance rises from R to 2R, so L₁'s current falls.
 - (D) forgets that charge flows onto and off the plates while the capacitor charges, even though none crosses the gap.
 </details>
@@ -87,19 +87,19 @@ The questions in this review are **original Marlbridge practice questions**, not
 
 *Topics 11.1, 11.3, 11.6.* Wires X and Y are made of the same metal and have the same length. Y has half the cross-sectional area of X. They are joined end to end across an ideal 9.0 V battery. Which row is correct?
 
-- (A) Same current in both; ΔV_X = 3.0 V and ΔV_Y = 6.0 V
-- (B) More current in X; ΔV_X = ΔV_Y = 4.5 V
-- (C) Same current in both; ΔV_X = 6.0 V and ΔV_Y = 3.0 V
-- (D) Same current in both; ΔV_X = ΔV_Y = 4.5 V
+- (A) More current in X; ΔV_X = ΔV_Y = 4.5 V
+- (B) Same current in both; ΔV_X = 6.0 V and ΔV_Y = 3.0 V
+- (C) Same current in both; ΔV_X = ΔV_Y = 4.5 V
+- (D) Same current in both; ΔV_X = 3.0 V and ΔV_Y = 6.0 V
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The wires are in series, so charge has one path and the current is the same. R = ρL/A, so R_Y = 2R_X. The loop rule gives ΔV_X + ΔV_Y = 9.0 V, and with equal currents ΔV ∝ R: 3.0 V and 6.0 V.
+**Answer: (D).** The wires are in series, so charge has one path and the current is the same. R = ρL/A, so R_Y = 2R_X. The loop rule gives ΔV_X + ΔV_Y = 9.0 V, and with equal currents ΔV ∝ R: 3.0 V and 6.0 V.
 
-- (B) gives the thicker wire more current. That happens in parallel, not in series.
-- (C) gives the larger share to the wire with less resistance.
-- (D) ignores the difference in resistance.
+- (A) gives the thicker wire more current. That happens in parallel, not in series.
+- (B) gives the larger share to the wire with less resistance.
+- (C) ignores the difference in resistance.
 </details>
 
 ## Question 3 (constructed response · mixed)

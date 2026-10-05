@@ -36,13 +36,13 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-This review is for the **algebra-based Physics 1 course**, Unit 3 (Work, Energy, and Power). It connects the topics and gives you mixed practice. Do the [unit diagnostic](/advanced-course-resources/physics-1/unit-3-diagnostic/) first if you have not yet done it.
+This review is for the **algebra-based Physics 1 course**, Unit 3 (Work, Energy, and Power). Do the [unit diagnostic](/advanced-course-resources/physics-1/unit-3-diagnostic/) first if you have not yet done it.
 
 ## Big ideas of the unit
 
 - **Kinetic energy is a scalar that goes as v².** It is never negative and depends on the frame ([Topic 3.1](/advanced-course-resources/physics-1/3-1-translational-kinetic-energy-study-guide/)).
 - **Work is energy crossing the system boundary.** Only the force component along the motion counts, and the point where the force acts must move ([Topic 3.2](/advanced-course-resources/physics-1/3-2-work-study-guide/)).
-- **Net work equals the change in kinetic energy.** Use it when you know forces and distances but not the time ([Topic 3.2](/advanced-course-resources/physics-1/3-2-work-study-guide/)).
+- **Net work equals the change in kinetic energy.** Use it when you know forces and distances, not times ([Topic 3.2](/advanced-course-resources/physics-1/3-2-work-study-guide/)).
 - **Conservative forces have potential energy; friction does not.** Their work depends only on the end points; friction's depends on the path length ([Topics 3.2](/advanced-course-resources/physics-1/3-2-work-study-guide/) and [3.3](/advanced-course-resources/physics-1/3-3-potential-energy-study-guide/)).
 - **Potential energy belongs to pairs of interacting objects.** You choose the zero; only changes matter. Near a surface ΔU_g = mgΔy; far from it, use −Gm₁m₂/r ([Topic 3.3](/advanced-course-resources/physics-1/3-3-potential-energy-study-guide/)).
 - **Pick the system to make the bookkeeping easy.** With Earth inside, gravity's work becomes ΔU_g; with the rough surface inside, friction's effect becomes thermal energy ([Topic 3.4](/advanced-course-resources/physics-1/3-4-conservation-energy-study-guide/)).
@@ -80,9 +80,9 @@ Two carts start from rest on a level, frictionless track. Cart X has mass m and 
 
 **Answer: (A).** Each cart receives the same work, Fd, so each gains the same kinetic energy. ½mv_X² = ½(4m)v_Y² gives v_X² = 4v_Y², so v_X = 2v_Y.
 
-- (B) assumes equal speeds. Equal work gives equal K, not equal speed.
+- (B) Equal work gives equal K, not equal speed.
 - (C) forgets the square root: K ∝ v², so a factor of 4 in mass needs a factor of 2 in speed.
-- (D) Y does take longer, but work depends on distance, and the distances are equal.
+- (D) Y does take longer, but work depends on distance, not time.
 </details>
 
 ## Question 2 (multiple choice · mixed)
@@ -97,10 +97,10 @@ A 0.40 kg ball is dropped from rest 0.50 m above the top of a vertical spring wi
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (D).** System: ball + spring + Earth, with U_g = 0 at the lowest point. The ball falls 0.50 m **plus** the compression x, and it is at rest at both ends: mg(0.50 + x) = ½kx². So 100x² − 3.92x − 1.96 = 0, giving x = 0.16 m. Check: 3.92 × 0.661 = 2.59 J and ½ × 200 × 0.161² = 2.59 J.
+**Answer: (D).** System: ball + spring + Earth, with U_g = 0 at the lowest point. The ball falls 0.50 m **plus** the compression x, and it is at rest at both ends: mg(0.50 + x) = ½kx². So 100x² − 3.92x − 1.96 = 0, giving x = 0.16 m.
 
-- (A) is mg ÷ k, where the ball would hang at rest. The moving ball goes well past that point.
-- (B) takes the wrong sign of the square root term.
+- (A) is mg ÷ k, where the ball would hang at rest; the moving ball overshoots it.
+- (B) writes the fall as 0.50 − x instead of 0.50 + x.
 - (C) uses only the 0.50 m drop and forgets the extra fall while the spring compresses.
 </details>
 
@@ -109,18 +109,18 @@ A 0.40 kg ball is dropped from rest 0.50 m above the top of a vertical spring wi
 Take **+y up**. A lift car of mass 800 kg is moving upward at 2.0 m/s and speeding up at 1.0 m/s². At this instant, at what rate does the cable transfer energy to the car?
 
 - (A) 1.6 kW
-- (B) 14 kW
-- (C) 16 kW
-- (D) 17 kW
+- (B) 17 kW
+- (C) 14 kW
+- (D) 16 kW
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (D).** On the car, T − mg = ma, so T = 800 × (9.8 + 1.0) = 8640 N, upward. The tension is along the velocity, so P = Tv = 8640 × 2.0 = 17 280 W ≈ 17 kW.
+**Answer: (B).** On the car, T − mg = ma, so T = 800 × (9.8 + 1.0) = 8640 N, upward. The tension is along the velocity, so P = Tv = 8640 × 2.0 = 17 280 W ≈ 17 kW.
 
 - (A) uses only the net force, ma = 800 N. That is the rate of gain of kinetic energy, not the cable's power.
-- (B) uses T = m(g − a), the tension for a car slowing down on the way up.
-- (C) uses T = mg, the tension at constant speed.
+- (C) uses T = m(g − a), the tension for a car slowing down on the way up.
+- (D) uses T = mg, the tension at constant speed.
 </details>
 
 ## Question 4 (constructed response · mixed)
@@ -140,7 +140,7 @@ A child and sled have a combined mass of 25 kg. They start from rest at the top 
 
 **(b)** ΔK = W_net = 1508 − 414 = 1094 J. So ½ × 25 × v² = 1094 and v = **9.4 m/s**.
 
-**(c)** Top: U_g = 1508 J, K = 0, thermal = 0. Bottom: U_g = 0, K = 1094 J, ΔE_thermal = 414 J. The totals are equal (1508 J), because no outside force does work on this system.
+**(c)** Top: U_g = 1508 J, K = 0, thermal = 0. Bottom: U_g = 0, K = 1094 J, ΔE_thermal = 414 J. Both totals are 1508 J: no outside force does work on this system.
 
 **(d)** On level snow F_N = mg, so friction = 0.10 × 25 × 9.8 = 24.5 N. 24.5 × d = 1094, so d = **45 m**.
 
@@ -172,14 +172,14 @@ The fictional airless moon Varda has mass 4.0 × 10²² kg and radius 1.2 × 10�
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Probe + Varda. Gravity is then an internal, conservative interaction. With no air, no outside force does work and nothing inside is nonconservative.
+**(a)** Probe + Varda. Gravity is then internal and conservative. With no air, no outside force does work.
 
 **(b)** At the top, K = 0. ½mv₀² − GMm/R = −GMm/r. The probe's mass cancels:
 **1/r = 1/R − v₀² ÷ (2GM)**.
 
 **(c)** GM = 2.67 × 10¹² N·m²/kg. 1/r = 8.33 × 10⁻⁷ − 4.22 × 10⁻⁷ = 4.12 × 10⁻⁷ m⁻¹, so **r = 2.4 × 10⁶ m**. The height is r − R = **1.2 × 10⁶ m**, about one moon radius.
 
-**(d)** g = GM ÷ R² = 1.85 N/kg, so h = v₀² ÷ 2g = **6.1 × 10⁵ m**, about half the true value. mgΔy assumes the field keeps its surface value. In fact it weakens as 1/r² (to 0.45 N/kg at the top), so less energy is needed per metre, and the probe climbs higher.
+**(d)** g = GM ÷ R² = 1.85 N/kg, so h = v₀² ÷ 2g = **6.1 × 10⁵ m**, about half the true value. mgΔy assumes the surface field everywhere. The real field weakens as 1/r² (to 0.45 N/kg at the top), so the probe climbs higher.
 
 **(e)** Never falling back means reaching very large r with K ≥ 0. With U_g = 0 there: ½mv₀² = GMm/R, so v₀ = √(2GM/R) = **2.1 × 10³ m/s**.
 
@@ -211,7 +211,7 @@ A ski tow pulls skiers up a straight slope 300 m long, inclined at 15°, at a co
 
 **(b)** The rope force is along the velocity: P = Fv = 210.7 × 2.5 = **5.3 × 10² W** (527 W) per skier, and 8 × 527 = **4.2 kW** for all eight.
 
-**(c)** Rate of gain of U_g = 177.5 × 2.5 = **4.4 × 10² W** (444 W). Rate of conversion by friction = 33.1 × 2.5 = **83 W**. 444 + 83 = 527 W. The speed is constant, so ΔK = 0 and every joule from the rope goes to these two places.
+**(c)** Rate of gain of U_g = 177.5 × 2.5 = **4.4 × 10² W** (444 W). Rate of conversion by friction = 33.1 × 2.5 = **83 W**. 444 + 83 = 527 W. With ΔK = 0, every joule from the rope goes to these two places.
 
 **(d)** **Incorrect.** The forces on a skier do not depend on speed, and the distance is still 300 m, so the work per skier is the same: 210.7 × 300 = 6.3 × 10⁴ J. What doubles is the **power** per skier (to about 1.1 kW), because the same energy is delivered in half the time (60 s instead of 120 s).
 
@@ -245,7 +245,7 @@ Take **+x towards the bumper**. A 0.50 kg cart moves at 4.0 m/s on a level, fric
 
 **(b)** Moving out, force and motion are both in −x, so the work is positive: ½ × (0.10 − 0.030) × 80 = **+2.8 J**. K = 2.8 J, so v = √(2 × 2.8 ÷ 0.50) = **3.3 m/s**.
 
-**(c)** W_net = −4.0 + 2.8 = **−1.2 J**. The cart ends up back where it first touched the bumper, yet the bumper's total work on it is not zero. A conservative force does zero work around a closed path, so this force is **nonconservative**. (An ideal spring would retrace the going-in line and return all 4.0 J.)
+**(c)** W_net = −4.0 + 2.8 = **−1.2 J**. The cart returns to where it first touched the bumper, yet the bumper's total work on it is not zero. A conservative force does zero work around a closed path, so this force is **nonconservative**. (An ideal spring would retrace the going-in line and return all 4.0 J.)
 
 **(d)** The 1.2 J becomes thermal energy in the rubber, and a little sound. For the system cart + bumper, with the track and its fixed support doing no work, total energy is constant: 4.0 J = 2.8 J + 1.2 J.
 
@@ -262,7 +262,7 @@ Take **+x towards the bumper**. A 0.50 kg cart moves at 4.0 m/s on a level, fric
 
 ## How did you do?
 
-Question 4 is worth 7 points, Question 5 is worth 6, and Questions 6 and 7 are worth 5 each on the suggested Marlbridge rubric. Use the points you lost, not the total, to choose what to study.
+Questions 4–7 are worth 7, 6, 5 and 5 points on the suggested Marlbridge rubric. Use the points you lost, not the total, to choose what to study.
 
 - **Questions 1 or 4 (kinetic energy, factors of change):** [Topic 3.1 checklist](/advanced-course-resources/physics-1/3-1-translational-kinetic-energy-checklist/).
 - **Questions 1, 4 or 7 (work, work-energy theorem, graphs):** [Topic 3.2 checklist](/advanced-course-resources/physics-1/3-2-work-checklist/).

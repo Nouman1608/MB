@@ -36,7 +36,7 @@ author: "marlbridge-academic-team"
 
 ## What this diagnostic is for
 
-Use this short check to find which topics in Unit 12 (Magnetism and Electromagnetism) you should revisit. It has eight multiple-choice and three short-answer questions. These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated against real exam results, and your total does not predict an exam score. What matters is **which** questions you miss.
+Use this short check to find which topics in Unit 12 (Magnetism and Electromagnetism) you should revisit. These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated against real exam results, and your total does not predict an exam score. What matters is **which** questions you miss.
 
 How to take it:
 
@@ -48,18 +48,18 @@ How to take it:
 
 A bar magnet lies across the page with its north pole at the right-hand end. Point X is **inside** the magnet, at its centre. What is the direction of the magnetic field at X?
 
-- (A) To the right, towards the north pole
-- (B) To the left, towards the south pole
+- (A) To the left, towards the south pole
+- (B) To the right, towards the north pole
 - (C) There is no field at X, because the fields of the two poles cancel
 - (D) Up the page, at right angles to the magnet
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Magnetic field lines are closed loops. Outside the magnet they run from N round to S, so inside they run from S back to N, to the right.
+**Answer: (B).** Magnetic field lines are closed loops. Outside the magnet they run from N round to S, so inside they run from S back to N, to the right.
 
-- (B) copies the outside rule to the inside, as if lines started and stopped at the poles.
-- (C) treats the poles like separate charges. The field inside a magnet is strong.
+- (A) copies the outside rule to the inside, as if lines started and stopped at the poles.
+- (C) treats the poles like separate charges.
 - (D) Inside a bar magnet the field runs along its length.
 
 **If you missed this:** read "Dipoles, poles and field lines" in the [Topic 12.1 study guide](/advanced-course-resources/physics-2/12-1-magnetic-fields-study-guide/).
@@ -69,19 +69,19 @@ A bar magnet lies across the page with its north pole at the right-hand end. Poi
 
 An unmagnetised iron nail is placed near the **south** pole of a magnet. End A of the nail is closest to the magnet. Which statement is correct?
 
-- (A) End A becomes a north pole and the nail is attracted, because the nail's dipoles line up with the magnet's field.
-- (B) End A becomes a south pole and the nail is repelled.
-- (C) Nothing happens, because the nail is not a magnet.
-- (D) The nail is attracted because the magnet gives it a net electric charge.
+- (A) End A becomes a south pole and the nail is repelled.
+- (B) Nothing happens, because the nail is not a magnet.
+- (C) The nail is attracted because the magnet gives it a net electric charge.
+- (D) End A becomes a north pole and the nail is attracted.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Iron is ferromagnetic. The field lines its domains up, so the nail becomes an induced magnet with N nearest the S pole. Unlike poles attract.
+**Answer: (D).** Iron is ferromagnetic. The field lines its domains up, so the nail becomes an induced magnet with N nearest the S pole. Unlike poles attract.
 
-- (B) In iron the induced pole facing the magnet is always the opposite one. That is why both poles attract iron.
-- (C) ignores induced magnetism.
-- (D) mixes up magnetic and electric effects.
+- (A) In iron the induced pole facing the magnet is always the opposite one, so both poles attract iron.
+- (B) ignores induced magnetism.
+- (C) mixes up magnetic and electric effects.
 
 **If you missed this:** read "Permanent and induced magnetism" in the [Topic 12.1 study guide](/advanced-course-resources/physics-2/12-1-magnetic-fields-study-guide/).
 </details>
@@ -110,18 +110,18 @@ An electron moves **into** the page through a uniform magnetic field that points
 
 A proton moves in a circle at right angles to a uniform magnetic field. Its speed is doubled; the field is unchanged. What happens to the radius and to the time for one orbit?
 
-- (A) The radius doubles; the time is unchanged.
-- (B) The radius doubles; the time doubles.
-- (C) The radius is multiplied by 4; the time doubles.
+- (A) The radius doubles; the time doubles.
+- (B) The radius is multiplied by 4; the time doubles.
+- (C) The radius doubles; the time is unchanged.
 - (D) The radius is unchanged; the time halves.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** qvB = mv²/r gives r = mv/(qB), so r ∝ v. The time for one orbit is 2πr/v = 2πm/(qB): twice the distance at twice the speed takes the same time.
+**Answer: (C).** qvB = mv²/r gives r = mv/(qB), so r ∝ v. The time for one orbit is 2πr/v = 2πm/(qB): twice the distance at twice the speed takes the same time.
 
-- (B) forgets that the proton also travels twice as fast.
-- (C) treats r as proportional to v².
+- (A) forgets that the proton also travels twice as fast.
+- (B) treats r as proportional to v².
 - (D) assumes the field alone fixes the size of the circle.
 
 **If you missed this:** read "Circular motion" in the [Topic 12.2 study guide](/advanced-course-resources/physics-2/12-2-magnetism-moving-charges-study-guide/).
@@ -131,17 +131,17 @@ A proton moves in a circle at right angles to a uniform magnetic field. Its spee
 
 Two long parallel wires are 6.0 cm apart, at right angles to the page. One carries 3.0 A out of the page; the other carries 6.0 A into the page. What is the size of the field midway between them?
 
-- (A) 6.0 × 10⁻⁵ T
-- (B) 2.0 × 10⁻⁵ T
+- (A) 2.0 × 10⁻⁵ T
+- (B) 6.0 × 10⁻⁵ T
 - (C) 3.0 × 10⁻⁵ T
 - (D) 4.0 × 10⁻⁵ T
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Each wire is 3.0 cm from the midpoint. B = μ₀I/(2πr) gives 2.0 × 10⁻⁵ T (3.0 A wire) and 4.0 × 10⁻⁵ T (6.0 A wire). With the currents in **opposite** directions, the right-hand rule gives both fields the same direction between the wires, so they add.
+**Answer: (B).** Each wire is 3.0 cm from the midpoint. B = μ₀I/(2πr) gives 2.0 × 10⁻⁵ T (3.0 A wire) and 4.0 × 10⁻⁵ T (6.0 A wire). With the currents in **opposite** directions, the right-hand rule gives both fields the same direction between the wires, so they add.
 
-- (B) subtracts. Fields oppose between the wires only when the currents are in the **same** direction.
+- (A) subtracts. Fields oppose between the wires only when the currents are in the **same** direction.
 - (C) uses the 6.0 cm separation as r for both wires.
 - (D) includes only the larger current.
 
@@ -152,19 +152,19 @@ Two long parallel wires are 6.0 cm apart, at right angles to the page. One carri
 
 A 0.15 m length of wire in the plane of the page carries 4.0 A to the right. It is in a uniform 0.050 T field pointing **out of** the page. What is the magnetic force on it?
 
-- (A) 0.030 N, down the page
-- (B) 0.030 N, up the page
-- (C) 0.030 N, out of the page
-- (D) 0 N, because the field is at right angles to the wire
+- (A) 0.030 N, up the page
+- (B) 0.030 N, out of the page
+- (C) 0 N, because the field is at right angles to the wire
+- (D) 0.030 N, down the page
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The current is at right angles to B, so F = IℓB = (4.0 A)(0.15 m)(0.050 T) = 0.030 N. Fingers right along the current, curl out of the page towards B: the thumb points **down**.
+**Answer: (D).** The current is at right angles to B, so F = IℓB = (4.0 A)(0.15 m)(0.050 T) = 0.030 N. Fingers right along the current, curl out of the page towards B: the thumb points **down**.
 
-- (B) reverses the rule, often by using the left hand.
-- (C) puts the force along B. It is at right angles to both the wire and the field.
-- (D) has the angle rule backwards. The force is **largest** at 90°.
+- (A) reverses the rule, often by using the left hand.
+- (B) puts the force along B; it is at right angles to both.
+- (C) has the angle rule backwards. The force is **largest** at 90°.
 
 **If you missed this:** read "The force on a current-carrying wire" in the [Topic 12.3 study guide](/advanced-course-resources/physics-2/12-3-magnetism-current-carrying-wires-study-guide/).
 </details>
@@ -173,18 +173,18 @@ A 0.15 m length of wire in the plane of the page carries 4.0 A to the right. It 
 
 A long straight wire in the plane of the page carries a current **up** the page. A small square loop lies flat on the page to the right of the wire. The wire's current is **increasing**. Which statement is correct?
 
-- (A) An anticlockwise current is induced in the loop while the wire's current increases.
-- (B) A clockwise current is induced in the loop while the wire's current increases.
-- (C) No current is induced, because the wire does not touch the loop.
+- (A) A clockwise current is induced in the loop while the wire's current increases.
+- (B) No current is induced, because the wire does not touch the loop.
+- (C) An anticlockwise current is induced in the loop while the wire's current increases.
 - (D) An anticlockwise current is induced, and it keeps flowing after the wire's current becomes steady.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** (1) To the right of an upward current, the wire's field points **into** the page. (2) The flux into the page increases. (3) The induced field opposes the increase, so it points **out of** the page. (4) Thumb out of the page: the current is **anticlockwise**.
+**Answer: (C).** (1) To the right of an upward current, the wire's field points **into** the page. (2) The flux into the page increases. (3) The induced field opposes the increase, so it points **out of** the page. (4) Thumb out of the page: the current is **anticlockwise**.
 
-- (B) is right only for a **decreasing** flux.
-- (C) Induction needs only a changing flux, not contact.
+- (A) is right only for a **decreasing** flux.
+- (B) Induction needs only a changing flux, not contact.
 - (D) misses that a steady flux induces nothing.
 
 **If you missed this:** read "Lenz's law: which way does the current go?" in the [Topic 12.4 study guide](/advanced-course-resources/physics-2/12-4-electromagnetic-induction-faradays-law-study-guide/).
@@ -222,7 +222,7 @@ An electron moves at 4.0 × 10⁶ m/s at right angles to a uniform magnetic fiel
 <details>
 <summary>Worked answer</summary>
 
-1. (a) Try B **into** the page with the electron moving right. A positive charge would be pushed up, so the electron is pushed **down**: the centre is below it. Moving right at the top of a circle is clockwise, as observed. B points **into** the page.
+1. (a) Try B **into** the page with the electron moving right. A positive charge would be pushed up, so the electron is pushed **down**, towards a centre below it. Moving right at the top of a circle is clockwise, as observed, so B points **into** the page.
 2. (b) evB = mv²/r, so B = mv/(er) = (9.11 × 10⁻³¹)(4.0 × 10⁶) ÷ [(1.60 × 10⁻¹⁹)(2.5 × 10⁻³)] = **9.1 × 10⁻³ T**.
 3. (c) **Zero.** The force is always at right angles to the velocity, so it does no work and the speed stays 4.0 × 10⁶ m/s.
 
@@ -256,7 +256,7 @@ A student pushes the north pole of a magnet quickly into a coil whose ends are j
 <details>
 <summary>Worked answer</summary>
 
-1. (a) With the ends joined, a current is induced. Its field opposes the increasing flux, so the end facing the magnet acts as a north pole and **repels** it: she must push **harder**. With the ends cut, no current flows and there is no opposing magnetic force.
+1. (a) With the ends joined, the induced current's field opposes the increasing flux: the end facing the magnet acts as a north pole and **repels** it, so she must push **harder**. With the ends cut, no current flows and there is no opposing force.
 2. (b) **Yes.** The flux still changes, so an emf is induced; there is just no complete path for a current.
 3. (c) It becomes **thermal energy** in the coil's resistance. Lenz's law is energy conservation.
 
@@ -279,4 +279,3 @@ Count a short answer as wrong if any part is missing, and any answer as wrong if
 - **Start with the topic where you missed the most.** Read its study guide, then do that topic's practice questions.
 - **Look at why.** If most misses were directions (Questions 3, 6, 7, 9(a), 10(a)), practise the right-hand rules across all four topics before re-reading whole guides.
 - **Missed nothing?** Go straight to the [Unit 12 mixed review](/advanced-course-resources/physics-2/unit-12-review/).
-- **Come back to this check** after a week of revision, and answer again before opening the explanations.

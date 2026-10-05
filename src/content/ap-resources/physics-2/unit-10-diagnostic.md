@@ -16,7 +16,7 @@ skills: ["1", "2", "3"]
 studyMinutes: 30
 difficulty: "mixed"
 calculator: "scientific"
-calculatorNote: "k = 1/(4πε₀) = 9.0 × 10⁹ N·m²/C², e = 1.60 × 10⁻¹⁹ C, mₑ = 9.11 × 10⁻³¹ kg. Potential is zero far away. Round only at the end"
+calculatorNote: "k = 1/(4πε₀) = 9.0 × 10⁹ N·m²/C², e = 1.60 × 10⁻¹⁹ C, mₚ = 1.67 × 10⁻²⁷ kg. Potential is zero far away. Round only at the end"
 related: ["mb-ap-phys2-u10-review", "mb-ap-phys2-10.3-study-guide", "mb-ap-phys2-10.5-study-guide", "mb-ap-phys2-10.6-study-guide", "mb-ap-phys2-10.7-study-guide"]
 next: "mb-ap-phys2-u10-review"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
@@ -35,30 +35,30 @@ author: "marlbridge-academic-team"
 
 ## What this diagnostic is for
 
-Use this short check to find which topics in Unit 10 (Electric Force, Field, and Potential) you should revisit. It has eight multiple-choice and three short-answer questions. These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated against real exam results, and your total does not predict a score. What matters is **which** questions you miss.
+Use this check to find which Unit 10 topics you should revisit. It has eight multiple-choice and three short-answer questions. These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated against exam results, and your total does not predict a score. What matters is **which** questions you miss.
 
 How to take it:
 
-- Work without notes, in about 30 minutes. Write a reason for each answer.
-- A scientific calculator is allowed. Data: k = 9.0 × 10⁹ N·m²/C²; e = 1.60 × 10⁻¹⁹ C; mₑ = 9.11 × 10⁻³¹ kg. Potential is zero very far from all charges. Treat small spheres as point charges.
-- Open each answer only after you have committed to your own.
+- Work without notes, in about 30 minutes, and give a reason for each answer.
+- A scientific calculator is allowed. Data: k = 9.0 × 10⁹ N·m²/C²; e = 1.60 × 10⁻¹⁹ C; mₚ = 1.67 × 10⁻²⁷ kg. Potential is zero very far from all charges. Treat small spheres as point charges.
+- Open each answer only after committing to your own.
 
 ## Question 1 (multiple choice · 10.1)
 
 Small sphere A carries +6.0 nC and small sphere B carries +2.0 nC. The electric force exerted on B by A is 0.012 N, directed east. What is the electric force exerted on A by B?
 
-- (A) 0.012 N west
-- (B) 0.036 N west
-- (C) 0.0040 N west
+- (A) 0.036 N west
+- (B) 0.0040 N west
+- (C) 0.012 N west
 - (D) 0.012 N east
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The forces form an interaction pair: one magnitude, k|q_A q_B|/r², acts on both. Like charges repel, so A is pushed west.
+**Answer: (C).** The forces form an interaction pair: one magnitude, k|q_A q_B|/r², acts on both. Like charges repel, so A is pushed west.
 
-- (B) scales the force by the charge ratio.
-- (C) makes the same mistake the other way.
+- (A) scales the force by the charge ratio.
+- (B) makes the same mistake the other way.
 - (D) has the wrong direction.
 
 **If you missed this:** read "Coulomb's law" in the [Topic 10.1 study guide](/advanced-course-resources/physics-2/10-1-electric-charge-electric-force-study-guide/).
@@ -66,19 +66,19 @@ Small sphere A carries +6.0 nC and small sphere B carries +2.0 nC. The electric 
 
 ## Question 2 (multiple choice · 10.2)
 
-A neutral electroscope has a metal plate joined by a metal rod to two thin metal leaves. A negatively charged rod is brought near the plate without touching it, and the leaves spread apart. Which statement is correct?
+A neutral electroscope has a metal plate joined by a metal rod to two thin leaves. A negative rod is brought near the plate without touching it, and the leaves spread apart. Which statement is correct?
 
-- (A) The electroscope is still neutral. Electrons are pushed down to the leaves, so both leaves are negative and repel.
-- (B) Electrons jump from the rod to the electroscope, so it is now negative overall.
+- (A) Electrons jump from the rod to the electroscope, so it is now negative overall.
+- (B) The electroscope is still neutral. Electrons are pushed down to the leaves, so both leaves are negative and repel.
 - (C) Protons move up toward the rod, leaving the leaves negative.
 - (D) The rod pulls electrons up to the plate, so both leaves are positive and repel.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** This is induced charge separation. The rod repels free electrons down to the leaves, leaving the plate positive. No charge enters or leaves, so the net charge stays zero.
+**Answer: (B).** The rod repels free electrons down to the leaves, leaving the plate positive. No charge enters or leaves, so the net charge stays zero.
 
-- (B) needs contact or a spark. Nothing touched.
+- (A) needs contact or a spark. Nothing touched.
 - (C) In a metal only electrons move.
 - (D) gets the direction wrong. A negative rod repels electrons.
 
@@ -89,19 +89,19 @@ A neutral electroscope has a metal plate joined by a metal rod to two thin metal
 
 What is the electric field 0.20 m from a small sphere carrying −5.0 nC?
 
-- (A) 1125 N/C, pointing toward the sphere
+- (A) 225 N/C, pointing toward the sphere
 - (B) 1125 N/C, pointing away from the sphere
-- (C) 225 N/C, pointing toward the sphere
-- (D) 225 N/C, pointing away from the sphere
+- (C) 225 N/C, pointing away from the sphere
+- (D) 1125 N/C, pointing toward the sphere
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** E = k|q|/r² = (9.0 × 10⁹)(5.0 × 10⁻⁹) ÷ (0.20)² = 1125 N/C. A positive test charge would be attracted, so the field points toward the sphere.
+**Answer: (D).** E = k|q|/r² = (9.0 × 10⁹)(5.0 × 10⁻⁹) ÷ (0.20)² = 1125 N/C. A positive test charge would be attracted, so the field points toward the sphere.
 
+- (A) divides by r, not r².
 - (B) uses the "away" rule for a positive charge.
-- (C) divides by r, not r².
-- (D) makes both mistakes.
+- (C) makes both mistakes.
 
 **If you missed this:** read "Field of a point charge" in the [Topic 10.3 study guide](/advanced-course-resources/physics-2/10-3-electric-fields-study-guide/).
 </details>
@@ -113,12 +113,12 @@ A neutral solid metal sphere is placed in a uniform electric field that points t
 - (A) The field inside the metal is zero. The left surface is negative and the right surface is positive.
 - (B) The field inside the metal is the same as the outside field, because the sphere is neutral.
 - (C) The field inside the metal is zero. The left surface is positive and the right surface is negative.
-- (D) Induced charge spreads evenly through the volume, so the field inside is smaller but not zero.
+- (D) Induced charge spreads through the volume, so the field inside is smaller but not zero.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Free electrons move against the field, to the left, leaving the right surface positive. They stop only when their field cancels the outside field everywhere inside the metal.
+**Answer: (A).** Free electrons move against the field, to the left, leaving the right surface positive. They stop when their field cancels the outside field inside the metal.
 
 - (B) A neutral conductor can still separate charge.
 - (C) reverses the sides. Electrons move opposite to the field.
@@ -129,19 +129,19 @@ A neutral solid metal sphere is placed in a uniform electric field that points t
 
 ## Question 5 (multiple choice · 10.4)
 
-A +2.0 μC charge is fixed at x = 0 and a −1.0 μC charge is fixed at x = 0.20 m. An external force slowly brings a +1.0 μC charge from very far away to x = 0.10 m. How much work does the external force do?
+A +2.0 μC charge is fixed at x = 0 and a −1.0 μC charge is fixed at x = 0.20 m. An external force slowly brings a +1.0 μC charge from far away to x = 0.10 m. How much work does it do?
 
-- (A) 0.090 J
-- (B) 0.27 J
+- (A) 0.27 J
+- (B) 0.090 J
 - (C) 0.045 J
 - (D) 0 J
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The work equals the change in U_E, which comes from the two new pairs: W = k(1.0 × 10⁻⁶)[(2.0 × 10⁻⁶) + (−1.0 × 10⁻⁶)] ÷ 0.10 = 0.090 J.
+**Answer: (B).** The work equals the change in U_E, which comes from the two new pairs: W = k(1.0 × 10⁻⁶)[(2.0 × 10⁻⁶) + (−1.0 × 10⁻⁶)] ÷ 0.10 = 0.090 J.
 
-- (B) drops the sign of the −1.0 μC charge.
+- (A) drops the sign of the −1.0 μC charge.
 - (C) uses 0.20 m. The new charge is 0.10 m from each.
 - (D) is the **total** final U_E (−0.090 J + 0.090 J), not the change.
 
@@ -150,49 +150,49 @@ A +2.0 μC charge is fixed at x = 0 and a −1.0 μC charge is fixed at x = 0.20
 
 ## Question 6 (multiple choice · 10.5)
 
-Two equal charges +Q are fixed a distance d apart. M is the midpoint. Which statement about M is correct?
+A charge +Q is fixed at x = 0 and a charge +9Q is fixed at x = 4d. Point P is on the x-axis at x = d. Which statement about the net field E and the potential V at P is correct?
 
-- (A) E = 0 and V = 4kQ/d
-- (B) E = 0 and V = 0
-- (C) E = 8kQ/d² and V = 4kQ/d
-- (D) E = 0 and V = 2kQ/d
+- (A) E = 0 and V = 0
+- (B) E = 2kQ/d² and V = 4kQ/d
+- (C) E = 0 and V = 4kQ/d
+- (D) E = 0 and V = 10kQ/d
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The fields at M are equal and opposite. Potential is a scalar: each charge adds kQ/(d/2) = 2kQ/d.
+**Answer: (C).** The +Q charge gives kQ/d² at P, pointing in +x. The +9Q charge is 3d away, so it gives 9kQ/(3d)² = kQ/d², pointing in −x. The fields cancel. Potential is a scalar: V = kQ/d + 9kQ/(3d) = 4kQ/d.
 
-- (B) Two positive potentials cannot cancel.
-- (C) adds the field sizes without directions.
-- (D) uses d instead of d/2 for each distance.
+- (A) The fields cancel, but two positive potentials cannot.
+- (B) adds the field sizes without directions.
+- (D) uses d instead of 3d for the +9Q charge.
 
 **If you missed this:** read "Potential of point charges" in the [Topic 10.5 study guide](/advanced-course-resources/physics-2/10-5-electric-potential-study-guide/).
 </details>
 
 ## Question 7 (multiple choice · 10.6)
 
-A parallel-plate capacitor stays connected to a battery. It is replaced by one with plates of twice the area and the same separation. Compared with the first capacitor, which row is correct?
+A parallel-plate capacitor on a battery is swapped, on the same battery, for one with twice the plate area and the same separation. Compared with the first, which is correct?
 
-- (A) Q doubles, E between the plates is unchanged, U_C doubles.
-- (B) Q doubles, E doubles, U_C quadruples.
-- (C) Q is unchanged, E halves, U_C halves.
-- (D) Q doubles, E is unchanged, U_C quadruples.
+- (A) Q doubles, E doubles, U_C quadruples.
+- (B) Q is unchanged, E halves, U_C halves.
+- (C) Q doubles, E is unchanged, U_C quadruples.
+- (D) Q doubles, E between the plates is unchanged, U_C doubles.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** C = κε₀A/d doubles. The battery fixes ΔV, so Q = CΔV doubles. E = ΔV/d is unchanged. U_C = ½C(ΔV)² doubles.
+**Answer: (D).** C = κε₀A/d doubles. The battery fixes ΔV, so Q = CΔV doubles. E = ΔV/d is unchanged. U_C = ½C(ΔV)² doubles.
 
-- (B) forgets that the extra charge is spread over twice the area.
-- (C) holds Q fixed, as for an isolated capacitor.
-- (D) uses U_C ∝ Q² but forgets that C also doubles: Q²/(2C) doubles.
+- (A) forgets that the extra charge is spread over twice the area.
+- (B) holds Q fixed, as for an isolated capacitor.
+- (C) uses U_C ∝ Q² but forgets that C also doubles: Q²/(2C) doubles.
 
 **If you missed this:** read "What sets the capacitance" in the [Topic 10.6 study guide](/advanced-course-resources/physics-2/10-6-capacitors-study-guide/).
 </details>
 
 ## Question 8 (multiple choice · 10.7)
 
-An electron is released from rest at point P, where the potential is 0 V. Point X, to one side, is at +50 V and point Y, on the other side, is at −50 V. Only electric forces act. Which statement is correct?
+An electron is released from rest at point P, where V = 0. Point X, on one side, is at +50 V and point Y, on the other side, is at −50 V. Only electric forces act. Which statement is correct?
 
 - (A) It moves toward X. U_E decreases and K increases.
 - (B) It moves toward Y. U_E decreases and K increases.
@@ -224,7 +224,7 @@ Identical metal spheres P and Q sit on insulating stands. P has −4.8 nC and Q 
 
 1. (a) First contact: identical spheres share equally, −2.4 nC each. Grounding takes Q to 0. Second contact: (−2.4 nC + 0) ÷ 2 = **−1.2 nC each**.
 2. (b) Q lost 2.4 × 10⁻⁹ C: 2.4 × 10⁻⁹ ÷ 1.60 × 10⁻¹⁹ = **1.5 × 10¹⁰ electrons**, from Q to the ground.
-3. (c) During grounding, charge left P and Q and entered the Earth. The total for P, Q and the Earth is unchanged.
+3. (c) During grounding, charge passed from Q into the Earth. The total for P, Q and the Earth is unchanged.
 
 **If you missed this:** read "Grounding" and "Charging by contact" in the [Topic 10.2 study guide](/advanced-course-resources/physics-2/10-2-conservation-electric-charge-process-charging-study-guide/).
 </details>
@@ -235,53 +235,59 @@ A +5.0 nC charge is fixed at x = 0 and a −3.0 nC charge is fixed at x = 0.50 m
 
 (a) Calculate the potential at x = 0.10 m and at x = 0.30 m.
 (b) Calculate the work an external force does to move a +2.0 nC charge slowly from x = 0.10 m to x = 0.30 m.
-(c) Estimate the average electric field between these two points and give its direction.
+(c) Estimate the average field between these points, with its direction.
 
 <details>
 <summary>Worked answer</summary>
 
-1. (a) Add the potentials as signed scalars. At x = 0.10 m: 450 V + (−67.5 V) = **382.5 V**. At x = 0.30 m: 150 V + (−135 V) = **15 V**.
-2. (b) W = qΔV = (2.0 × 10⁻⁹ C)(15 − 382.5) V = **−7.35 × 10⁻⁷ J**. Negative: the field pushes the charge that way.
+1. (a) Add signed scalars. At x = 0.10 m: 450 V + (−67.5 V) = **382.5 V**. At x = 0.30 m: 150 V + (−135 V) = **15 V**.
+2. (b) W = qΔV = (2.0 × 10⁻⁹ C)(15 − 382.5) V = **−7.35 × 10⁻⁷ J**. Negative: the field pushes it that way.
 3. (c) E = −ΔV/Δx = 367.5 V ÷ 0.20 m = **1.84 × 10³ V/m**, in the **+x direction**, toward lower potential.
 
-**If you missed this:** read "Potential difference" and "Potential and field" in the [Topic 10.5 study guide](/advanced-course-resources/physics-2/10-5-electric-potential-study-guide/).
+**If you missed this:** read "Potential and field" in the [Topic 10.5 study guide](/advanced-course-resources/physics-2/10-5-electric-potential-study-guide/).
 </details>
 
 ## Question 11 (short answer · 10.7)
 
-An electron leaves a hot wire at 0 V with negligible speed. It is accelerated to an anode at +1500 V and passes through a hole in it. Beyond the anode, it travels straight toward a metal plate at +600 V.
+A proton moves along the x-axis under electric forces only. The table gives the potential at five points (invented data).
 
-(a) Calculate the kinetic energy and speed of the electron at the anode.
-(b) Calculate its speed when it reaches the plate.
-(c) What is the lowest potential the plate could have and the electron still reach it?
+| x (m) | 0 | 0.10 | 0.20 | 0.30 | 0.40 |
+|---|---|---|---|---|---|
+| V (V) | 0 | −40 | −100 | −60 | +20 |
+
+The proton is released from rest at x = 0.
+
+(a) Which way does it start to move? Explain.
+(b) Calculate its kinetic energy and speed at x = 0.20 m.
+(c) Does it reach x = 0.40 m? Describe its later motion.
 
 <details>
 <summary>Worked answer</summary>
 
-1. (a) ΔK = −qΔV = −(−1.60 × 10⁻¹⁹ C)(1500 V) = **2.40 × 10⁻¹⁶ J**. v = √(2K/mₑ) = √(2 × 2.40 × 10⁻¹⁶ ÷ 9.11 × 10⁻³¹) = **2.30 × 10⁷ m/s**.
-2. (b) From the start (0 V, K = 0) to the plate: K = e(600 V) = 9.60 × 10⁻¹⁷ J, so v = **1.45 × 10⁷ m/s**.
-3. (c) **0 V.** K = e(V − 0) is zero or positive only where V ≥ 0.
+1. (a) **+x.** V falls in that direction, so the field points that way, and a positive charge is pushed along the field.
+2. (b) ΔK = −qΔV = −(1.60 × 10⁻¹⁹ C)(−100 V) = **1.60 × 10⁻¹⁷ J**, so v = √(2K/mₚ) = **1.38 × 10⁵ m/s**.
+3. (c) **No.** K = e(0 − V) is never negative, so the proton can reach only points where V ≤ 0. V passes 0 V between x = 0.30 m and 0.40 m. The proton stops there, turns back, and moves back and forth between x = 0 and that point.
 
 **If you missed this:** read "Energy conservation for a moving charge" in the [Topic 10.7 study guide](/advanced-course-resources/physics-2/10-7-conservation-electric-energy-study-guide/).
 </details>
 
 ## Your next step
 
-Mark each question. Count a short answer as wrong if any part is missing, and any answer as wrong if it was a guess.
+Count a short answer as wrong if any part is missing, and any guess as wrong.
 
 | Topic | Question(s) | If you missed it, read |
 |---|---|---|
-| 10.1 Electric charge and electric force | 1 | [Topic 10.1 study guide](/advanced-course-resources/physics-2/10-1-electric-charge-electric-force-study-guide/) |
-| 10.2 Conservation of charge and charging | 2, 9 | [Topic 10.2 study guide](/advanced-course-resources/physics-2/10-2-conservation-electric-charge-process-charging-study-guide/) |
-| 10.3 Electric fields | 3, 4 | [Topic 10.3 study guide](/advanced-course-resources/physics-2/10-3-electric-fields-study-guide/) |
-| 10.4 Electric potential energy | 5 | [Topic 10.4 study guide](/advanced-course-resources/physics-2/10-4-electric-potential-energy-study-guide/) |
-| 10.5 Electric potential | 6, 10 | [Topic 10.5 study guide](/advanced-course-resources/physics-2/10-5-electric-potential-study-guide/) |
-| 10.6 Capacitors | 7 | [Topic 10.6 study guide](/advanced-course-resources/physics-2/10-6-capacitors-study-guide/) |
-| 10.7 Conservation of electric energy | 8, 11 | [Topic 10.7 study guide](/advanced-course-resources/physics-2/10-7-conservation-electric-energy-study-guide/) |
+| 10.1 Electric charge and electric force | 1 | [10.1 study guide](/advanced-course-resources/physics-2/10-1-electric-charge-electric-force-study-guide/) |
+| 10.2 Conservation of charge and charging | 2, 9 | [10.2 study guide](/advanced-course-resources/physics-2/10-2-conservation-electric-charge-process-charging-study-guide/) |
+| 10.3 Electric fields | 3, 4 | [10.3 study guide](/advanced-course-resources/physics-2/10-3-electric-fields-study-guide/) |
+| 10.4 Electric potential energy | 5 | [10.4 study guide](/advanced-course-resources/physics-2/10-4-electric-potential-energy-study-guide/) |
+| 10.5 Electric potential | 6, 10 | [10.5 study guide](/advanced-course-resources/physics-2/10-5-electric-potential-study-guide/) |
+| 10.6 Capacitors | 7 | [10.6 study guide](/advanced-course-resources/physics-2/10-6-capacitors-study-guide/) |
+| 10.7 Conservation of electric energy | 8, 11 | [10.7 study guide](/advanced-course-resources/physics-2/10-7-conservation-electric-energy-study-guide/) |
 
 ## How to use your result
 
-- **Start with the topic where you missed the most.** Read its study guide, then do that topic's practice questions.
-- **Look at why you missed it.** A sign or unit slip (the sign of a charge, r instead of r²) needs a habit, not a full re-read.
-- **Missed nothing?** Go straight to the [Unit 10 mixed review](/advanced-course-resources/physics-2/unit-10-review/). Its questions combine topics, which is harder.
-- **Come back to this check** after a week of revision, and answer again before opening the explanations.
+- **Start with the topic where you missed the most.** Read its study guide, then do its practice questions.
+- **Look at why you missed it.** A sign slip or r instead of r² needs a habit, not a full re-read.
+- **Missed nothing?** Go to the [Unit 10 mixed review](/advanced-course-resources/physics-2/unit-10-review/), where questions combine topics.
+- **Retake this check** after a week of revision.

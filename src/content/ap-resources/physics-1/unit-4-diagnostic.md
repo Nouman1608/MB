@@ -41,18 +41,18 @@ These are **original Marlbridge practice questions**, not past exam questions. T
 
 Object A has 3 times the mass of object B. The two objects have momenta of the same size. What is the ratio of their kinetic energies, K_A : K_B?
 
-- (A) 1 : 3
-- (B) 3 : 1
-- (C) 1 : 9
+- (A) 3 : 1
+- (B) 1 : 9
+- (C) 1 : 3
 - (D) 1 : 1
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Substitute v = p ÷ m into K = ½mv² to get K = p² ÷ (2m). With the same p, kinetic energy is inversely proportional to mass, so the heavier object has one third of the kinetic energy.
+**Answer: (C).** Substitute v = p ÷ m into K = ½mv² to get K = p² ÷ (2m). With the same p, kinetic energy is inversely proportional to mass, so the heavier object has one third of the kinetic energy.
 
-- (B) assumes that more mass always means more kinetic energy. Here B is 3 times faster.
-- (C) squares the mass ratio. In K = p² ÷ (2m) the mass is not squared.
+- (A) assumes that more mass always means more kinetic energy. Here B is 3 times faster.
+- (B) squares the mass ratio. In K = p² ÷ (2m) the mass is not squared.
 - (D) treats momentum and kinetic energy as the same quantity. Momentum scales with v; kinetic energy with v².
 
 **If you missed this:** read Worked example 2 in the [Topic 4.1 study guide](/advanced-course-resources/physics-1/4-1-linear-momentum-study-guide/).
@@ -62,17 +62,17 @@ Object A has 3 times the mass of object B. The two objects have momenta of the s
 
 Take **+y up**. A ball is thrown straight up, rises to its highest point and falls back to the thrower's hand. Which describes the graph of the ball's momentum p_y against time for the whole flight?
 
-- (A) A straight line with a constant negative slope, crossing zero at the highest point
-- (B) A line falling to zero at the highest point, then rising again, like a V
+- (A) A line falling to zero at the highest point, then rising again, like a V
+- (B) A straight line with a constant negative slope, crossing zero at the highest point
 - (C) A horizontal line, because momentum is conserved during the flight
 - (D) A curve that falls more and more steeply, because the ball speeds up on the way down
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** p_y = m v_y, so the momentum–time graph has the same shape as the velocity–time graph, scaled by m. The velocity falls steadily from positive to negative, so p_y does too. It is zero at the top. The slope is −mg, the only force on the ball.
+**Answer: (B).** p_y = m v_y, so the momentum–time graph has the same shape as the velocity–time graph, scaled by m. The velocity falls steadily from positive to negative, so p_y does too. It is zero at the top. The slope is −mg, the only force on the ball.
 
-- (B) graphs the **size** of the momentum. Signed p_y keeps falling below zero after the top.
+- (A) graphs the **size** of the momentum. Signed p_y keeps falling below zero after the top.
 - (C) forgets that gravity is an external force on the ball.
 - (D) confuses a steady change with a speeding-up change. The ball's acceleration is constant, so the line is straight.
 
@@ -125,17 +125,17 @@ Looking down on a smooth, level air table, a puck slides towards a straight, fri
 
 Take **+x forward**. A 50 kg skater holding a 5.0 kg ball glides forward at 2.0 m/s on smooth ice. She throws the ball forward. Just after the throw, the ball moves at +8.0 m/s relative to the ice. What is the skater's velocity just after the throw?
 
-- (A) +1.4 m/s
-- (B) −0.80 m/s
+- (A) −0.80 m/s
+- (B) +1.4 m/s
 - (C) +1.3 m/s
 - (D) +3.0 m/s
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** System: skater + ball. The throw is internal, and the smooth ice gives no horizontal external force. Before: (55 kg)(+2.0 m/s) = +110 kg·m/s. After: (5.0)(+8.0) + (50)v = 110, so v = 70 ÷ 50 = +1.4 m/s.
+**Answer: (B).** System: skater + ball. The throw is internal, and the smooth ice gives no horizontal external force. Before: (55 kg)(+2.0 m/s) = +110 kg·m/s. After: (5.0)(+8.0) + (50)v = 110, so v = 70 ÷ 50 = +1.4 m/s.
 
-- (B) leaves out the 110 kg·m/s the system had before the throw.
+- (A) leaves out the 110 kg·m/s the system had before the throw.
 - (C) divides by 55 kg. After the throw, only the skater's 50 kg moves at v.
 - (D) adds the ball's momentum instead of subtracting it. Pushing the ball forward pushes her backward.
 
@@ -146,18 +146,18 @@ Take **+x forward**. A 50 kg skater holding a 5.0 kg ball glides forward at 2.0 
 
 Take **+x east and +y north**. On smooth ice, a 1.0 kg puck moving east hits a 2.0 kg puck at rest. Afterwards the 1.0 kg puck moves at 40° north of east and the 2.0 kg puck at 40° south of east. Which statement is correct?
 
-- (A) The 1.0 kg puck moves twice as fast as the 2.0 kg puck.
-- (B) The pucks move at equal speeds, because their angles are equal.
-- (C) The 2.0 kg puck moves twice as fast as the 1.0 kg puck.
+- (A) The pucks move at equal speeds, because their angles are equal.
+- (B) The 2.0 kg puck moves twice as fast as the 1.0 kg puck.
+- (C) The 1.0 kg puck moves twice as fast as the 2.0 kg puck.
 - (D) No comparison is possible without the first puck's starting speed.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The total y-momentum is zero before, so it is zero after: (1.0)v₁ sin 40° = (2.0)v₂ sin 40°. The sines cancel, leaving v₁ = 2v₂.
+**Answer: (C).** The total y-momentum is zero before, so it is zero after: (1.0)v₁ sin 40° = (2.0)v₂ sin 40°. The sines cancel, leaving v₁ = 2v₂.
 
-- (B) treats equal angles as meaning equal momenta. Equal angles with unequal masses need unequal speeds.
-- (C) inverts the mass ratio. The lighter puck needs the larger speed for the same size of y-momentum.
+- (A) treats equal angles as meaning equal momenta. Equal angles with unequal masses need unequal speeds.
+- (B) inverts the mass ratio. The lighter puck needs the larger speed for the same size of y-momentum.
 - (D) The starting speed sets the actual speeds, but the ratio comes from the y-equation alone.
 
 **If you missed this:** read "Momentum in two dimensions" in the [Topic 4.3 study guide](/advanced-course-resources/physics-1/4-3-conservation-linear-momentum-study-guide/).

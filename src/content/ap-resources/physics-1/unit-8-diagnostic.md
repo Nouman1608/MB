@@ -63,18 +63,18 @@ A flask holds 150 cm³ of water (1.00 g/cm³) with 100 cm³ of oil (0.80 g/cm³)
 A student models honey running slowly off a spoon as an ideal fluid. Which part of that model fits honey worst?
 
 - (A) Incompressible, because honey shrinks a lot when squeezed
-- (B) No viscosity, because honey has a lot of internal friction as its layers slide
-- (C) Being a fluid at all, because honey keeps a fixed shape
-- (D) Having a density, because a thick liquid has no definite mass per volume
+- (B) Being a fluid at all, because honey keeps a fixed shape
+- (C) Having a density, because a thick liquid has no definite mass per volume
+- (D) No viscosity, because honey has a lot of internal friction as its layers slide
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** An ideal fluid is incompressible and has no viscosity. Honey flows slowly because its layers drag on each other: high viscosity. It is still very hard to compress, so the first part of the model is fine.
+**Answer: (D).** An ideal fluid is incompressible and has no viscosity. Honey flows slowly because its layers drag on each other: high viscosity. It is still very hard to compress.
 
 - (A) is false. Liquid particles are already close together, so honey barely compresses.
-- (C) is false. Honey takes the shape of its container, so it is a fluid.
-- (D) is false. Any sample of honey has a mass and a volume, so it has a density.
+- (B) is false. Honey takes the shape of its container, so it is a fluid.
+- (C) is false. Any sample of honey has a mass and a volume, so it has a density.
 
 **If you missed this:** read "The ideal-fluid model" in the [Topic 8.1 study guide](/advanced-course-resources/physics-1/8-1-internal-structure-density-study-guide/).
 </details>
@@ -84,17 +84,17 @@ A student models honey running slowly off a spoon as an ideal fluid. Which part 
 A straight tube, closed at its lower end, slopes down at 30° below the horizontal. It is full of water and open to the air at its top. Point X is 1.2 m **along the tube** from the water surface. What is the gauge pressure at X?
 
 - (A) 1.2 × 10⁴ Pa
-- (B) 5.9 × 10³ Pa
-- (C) 1.0 × 10⁴ Pa
+- (B) 1.0 × 10⁴ Pa
+- (C) 5.9 × 10³ Pa
 - (D) 1.1 × 10⁵ Pa
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** Only the vertical depth counts: h = 1.2 sin 30° = 0.60 m. P_gauge = ρgh = 1000 × 9.8 × 0.60 = 5880 Pa ≈ 5.9 × 10³ Pa.
+**Answer: (C).** Only the vertical depth counts: h = 1.2 sin 30° = 0.60 m. P_gauge = ρgh = 1000 × 9.8 × 0.60 = 5880 Pa ≈ 5.9 × 10³ Pa.
 
 - (A) uses the 1.2 m measured along the tube as the depth.
-- (C) uses 1.2 cos 30° = 1.04 m, the horizontal distance, not the vertical one.
+- (B) uses 1.2 cos 30° = 1.04 m, the horizontal distance.
 - (D) is the absolute pressure (5880 Pa + 1.0 × 10⁵ Pa). The question asks for gauge pressure.
 
 **If you missed this:** read "Pressure under a column of fluid" in the [Topic 8.2 study guide](/advanced-course-resources/physics-1/8-2-pressure-study-guide/).
@@ -125,18 +125,18 @@ A solid concrete block measures 0.10 m × 0.20 m × 0.30 m and has density 2500 
 
 A flat-bottomed barge floats in fresh water. Its horizontal cross-section at the waterline is 40 m², and its sides are vertical. A 6000 kg load is lowered onto it. How much deeper does the barge sit once it floats at rest again?
 
-- (A) 0.15 m
+- (A) 6.0 m
 - (B) 1.5 m
-- (C) 6.0 m
+- (C) 0.15 m
 - (D) 0, because a floating object already has F_b = mg
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Floating again, F_b = mg, so the extra buoyant force equals the load's weight. Extra displaced volume = 6000 kg ÷ 1000 kg/m³ = 6.0 m³. Spread over 40 m², that is 6.0 ÷ 40 = 0.15 m deeper.
+**Answer: (C).** Floating again, F_b = mg, so the extra buoyant force equals the load's weight. Extra displaced volume = 6000 kg ÷ 1000 kg/m³ = 6.0 m³. Spread over 40 m², that is 6.0 ÷ 40 = 0.15 m deeper.
 
+- (A) treats the extra volume, 6.0 m³, as a depth.
 - (B) multiplies by g as well. The g in F_b = ρVg and in mg cancels.
-- (C) treats the extra volume, 6.0 m³, as a depth.
 - (D) is right that F_b = mg, but mg has grown, so F_b must grow too.
 
 **If you missed this:** read "Floating" and Worked example 2 in the [Topic 8.3 study guide](/advanced-course-resources/physics-1/8-3-fluids-newtons-laws-study-guide/).
@@ -146,19 +146,19 @@ A flat-bottomed barge floats in fresh water. Its horizontal cross-section at the
 
 Take **+y up**. An ice cube (density 920 kg/m³) is held at the bottom of a glass of water by a finger, then released. What is its acceleration just after release?
 
-- (A) +0.85 m/s²
-- (B) +0.78 m/s²
-- (C) +9.8 m/s²
-- (D) −9.0 m/s²
+- (A) −9.8 m/s²
+- (B) +11 m/s²
+- (C) +0.78 m/s²
+- (D) +0.85 m/s²
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** ma_y = F_b − mg = (ρ_water − ρ_ice)Vg, and m = ρ_ice V. So a_y = g(ρ_water / ρ_ice − 1) = 9.8 × (1000/920 − 1) = +0.85 m/s².
+**Answer: (D).** ma_y = F_b − mg = (ρ_water − ρ_ice)Vg, and m = ρ_ice V. So a_y = g(ρ_water / ρ_ice − 1) = 9.8 × (1000/920 − 1) = +0.85 m/s².
 
-- (B) divides the net force by the mass of the displaced water (ρ_water V). The net force acts on the ice, so divide by the ice's own mass (ρ_ice V).
-- (C) treats the buoyant force as if gravity were absent.
-- (D) ignores the buoyant force and also gets the direction wrong.
+- (A) ignores the buoyant force, as if the ice were falling in air.
+- (B) uses only the buoyant force and leaves out the weight: F_b / m = 9.8 × 1000/920.
+- (C) divides the net force by the mass of the displaced water (ρ_water V), not the ice's own mass (ρ_ice V).
 
 **If you missed this:** read "Sinking and rising: Newton's second law" in the [Topic 8.3 study guide](/advanced-course-resources/physics-1/8-3-fluids-newtons-laws-study-guide/).
 </details>
@@ -167,19 +167,19 @@ Take **+y up**. An ice cube (density 920 kg/m³) is held at the bottom of a glas
 
 Water moves at 2.4 m/s through a main pipe of area A₀. The pipe splits into three identical branches, each of area A₀/2. What is the speed in each branch?
 
-- (A) 1.6 m/s
-- (B) 4.8 m/s
-- (C) 0.80 m/s
-- (D) 2.4 m/s
+- (A) 0.80 m/s
+- (B) 1.6 m/s
+- (C) 2.4 m/s
+- (D) 4.8 m/s
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Mass conservation: the flow rate in equals the total flow rate out. A₀ × 2.4 = 3 × (A₀/2) × v, so v = 2.4 ÷ 1.5 = 1.6 m/s. The branches together have more area than the main pipe.
+**Answer: (B).** Mass conservation: the flow rate in equals the total flow rate out. A₀ × 2.4 = 3 × (A₀/2) × v, so v = 2.4 ÷ 1.5 = 1.6 m/s. The branches together have more area than the main pipe.
 
-- (B) uses only one branch, as if all the water went through it.
-- (C) divides the speed by three but ignores each branch's area.
-- (D) confuses equal flow rate with equal speed.
+- (A) divides the speed by three but ignores each branch's area.
+- (C) confuses equal flow rate with equal speed.
+- (D) uses only one branch, as if all the water went through it.
 
 **If you missed this:** read "The continuity equation" in the [Topic 8.4 study guide](/advanced-course-resources/physics-1/8-4-fluids-conservation-laws-study-guide/).
 </details>
@@ -246,7 +246,7 @@ A full siphon tube carries water out of a wide tank, open to the air, into a buc
 
 Check yourself: 1 point each for 2.4 m/s from the 0.30 m drop, 14 s from Av, the same speed at the top, and −4.9 × 10³ Pa with its meaning.
 
-**If you missed this:** read "Torricelli's result" and Worked example 2 in the [Topic 8.4 study guide](/advanced-course-resources/physics-1/8-4-fluids-conservation-laws-study-guide/).
+**If you missed this:** read "Conservation of energy: Bernoulli's equation" and "Torricelli's result" in the [Topic 8.4 study guide](/advanced-course-resources/physics-1/8-4-fluids-conservation-laws-study-guide/).
 </details>
 
 ## Your next step
@@ -263,7 +263,7 @@ Mark each question right or wrong. Count Questions 9 and 10 as right only if you
 ## How to use your result
 
 - **Missed one question in a topic?** Re-read the section named in that answer, then try the topic's practice set.
-- **Missed two or more questions in a topic?** Start again with that study guide, including its worked examples, before doing any mixed practice.
+- **Missed two or more questions in a topic?** Work through that study guide again, including its worked examples, before mixed practice.
 - **Guessed?** Treat the question as missed.
 - **Look for patterns.** Errors in Questions 3, 4 and 8 often mean a depth, area or height was taken from the wrong length. Errors in Questions 5, 6 and 9 usually mean a missing free-body diagram.
-- **All correct?** Move straight to the [mixed unit review](/advanced-course-resources/physics-1/unit-8-review/), which combines the topics in longer exam-style questions.
+- **All correct?** Move on to the [mixed unit review](/advanced-course-resources/physics-1/unit-8-review/), which combines the topics.

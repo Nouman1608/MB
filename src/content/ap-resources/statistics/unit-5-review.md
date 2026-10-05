@@ -50,6 +50,7 @@ These are **original Marlbridge practice questions**, not past exam questions, w
 - **Residuals measure each miss.** Residual = y − ŷ: positive means the model underpredicted, negative means it overpredicted ([5.4](/advanced-course-resources/statistics/5-4-residuals-study-guide/)).
 - **The residual plot is the linearity check.** Random scatter supports a linear model; a curve in the residuals says the line misses the form, whatever r says ([5.4](/advanced-course-resources/statistics/5-4-residuals-study-guide/)).
 - **Least squares picks one line.** It minimises the sum of squared residuals, passes through (x̄, ȳ), and its residuals add to 0. The slope, intercept, r and r² come from technology and are sample statistics ([5.5](/advanced-course-resources/statistics/5-5-least-squares-regression-study-guide/)).
+
 ## Key relationships and methods
 
 | If the question asks you to… | Use… | Watch out for… |
@@ -68,18 +69,18 @@ These are **original Marlbridge practice questions**, not past exam questions, w
 
 A fictional river authority predicts the rise in a river's level (cm) from rainfall in the previous 24 hours (mm). The least-squares slope is 2.4 cm per mm and r = 0.87. The analyst re-expresses every river rise in **metres** and refits the line. What are the new slope and r?
 
-- (A) Slope 0.024 m per mm; r = 0.87
-- (B) Slope 240 m per mm; r = 0.87
-- (C) Slope 0.024 m per mm; r = 0.0087
+- (A) Slope 240 m per mm; r = 0.87
+- (B) Slope 0.024 m per mm; r = 0.0087
+- (C) Slope 0.024 m per mm; r = 0.87
 - (D) Slope 2.4 m per mm; r = 0.87
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Every y-value is divided by 100, so the predicted rise per mm of rain is divided by 100: 2.4 cm = 0.024 m. r has no units, so the pattern, and r, do not change.
+**Answer: (C).** Every y-value is divided by 100, so the predicted rise per mm of rain is divided by 100: 2.4 cm = 0.024 m. r has no units, so the pattern, and r, do not change.
 
-- (B) multiplies by 100 instead of dividing.
-- (C) wrongly gives r units.
+- (A) multiplies by 100 instead of dividing.
+- (B) wrongly gives r units.
 - (D) treats the slope as unit-free; the slope has units of y per unit of x.
 
 Topics: 5.2 (r has no units), 5.5 (meaning of the slope).
@@ -89,17 +90,17 @@ Topics: 5.2 (r has no units), 5.5 (meaning of the slope).
 
 A fictional hotel fits the least-squares line ŷ = 4.1 + 0.6x to predict rooms cleaned (y) from hours worked (x) for 10 cleaning shifts. The mean shift length was x̄ = 15 hours. The residuals for nine of the shifts add to −2.4 rooms. What is the residual for the tenth shift, and what is ȳ?
 
-- (A) +2.4 rooms; ȳ = 13.1 rooms
-- (B) −2.4 rooms; ȳ = 13.1 rooms
+- (A) −2.4 rooms; ȳ = 13.1 rooms
+- (B) +2.4 rooms; ȳ = 13.1 rooms
 - (C) +2.4 rooms; ȳ = 15 rooms
 - (D) 0 rooms; ȳ = 13.1 rooms
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Least-squares residuals add to 0, so the tenth is +2.4. The line passes through (x̄, ȳ): ȳ = 4.1 + 0.6(15) = 13.1 rooms.
+**Answer: (B).** Least-squares residuals add to 0, so the tenth is +2.4. The line passes through (x̄, ȳ): ȳ = 4.1 + 0.6(15) = 13.1 rooms.
 
-- (B) copies the sign of the sum instead of balancing it.
+- (A) copies the sign of the sum instead of balancing it.
 - (C) assumes ȳ equals x̄.
 - (D) confuses "the residuals add to 0" with "each residual is 0".
 
@@ -110,19 +111,19 @@ Topics: 5.4 (residuals), 5.5 (properties of the least-squares line).
 
 A researcher has the least-squares line for predicting a child's height from age. She now wants to predict a child's **age** from **height**. Which is correct?
 
-- (A) r is the same, but she must fit a new least-squares line with height as x; rearranging the first equation gives a different, non-least-squares line.
-- (B) She can rearrange the first equation to make age the subject, because the data are the same.
-- (C) r changes sign, because the variables have swapped axes.
-- (D) She cannot predict age, because age must always be the explanatory variable.
+- (A) She can rearrange the first equation to make age the subject, because the data are the same.
+- (B) r changes sign, because the variables have swapped axes.
+- (C) She cannot predict age, because age must always be the explanatory variable.
+- (D) r is the same, but she must fit a new least-squares line with height as x; rearranging the first equation gives a different, non-least-squares line.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** r treats the two variables the same way, but the least-squares line minimises vertical misses in the **response**. Swapping roles changes which misses are squared, so the line changes. (With the van data in Question 4, rearranging gives slope 0.7069, but the fitted line for age from cost has slope 0.6972.)
+**Answer: (D).** r treats the two variables the same way, but the least-squares line minimises vertical misses in the **response**. Swapping roles changes which misses are squared, so the line changes. (With the van data in Question 4, rearranging gives slope 0.7069, but the fitted line for age from cost has slope 0.6972.)
 
-- (B) gives a line that is not least squares for predicting age.
-- (C) is wrong: swapping x and y leaves r unchanged.
-- (D) is wrong: the explanatory variable is whichever one you predict **from**.
+- (A) gives a line that is not least squares for predicting age.
+- (B) is wrong: swapping x and y leaves r unchanged.
+- (C) is wrong: the explanatory variable is whichever one you predict **from**.
 
 Topics: 5.1 (explanatory and response), 5.2 (r), 5.5 (the LSRL depends on which variable is y).
 </details>

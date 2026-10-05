@@ -35,27 +35,27 @@ author: "marlbridge-academic-team"
 
 ## What this diagnostic is for
 
-Use this check to find which Unit 14 topics (Waves, Sound, and Physical Optics) to revisit. It has ten multiple-choice and two short-answer questions. These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated against real results and give no predicted score. What matters is **which** questions you miss.
+Use this check to find which Unit 14 topics (Waves, Sound, and Physical Optics) to revisit. These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated against real results and give no predicted score. What matters is **which** questions you miss.
 
-- Work without notes, in about 30 minutes, and commit to an answer before opening each explanation.
+- Work without notes, in about 30 minutes, and answer before opening each explanation.
 - A scientific calculator is allowed. c = 3.00 × 10⁸ m/s; on a string v = √(F_T/μ); filters are ideal; light meets thin films at normal incidence. All data are invented.
 
 ## Question 1 (multiple choice · 14.1)
 
 A pulse takes 0.20 s to travel the length of a stretched string. The tension is made 9 times larger; the string is unchanged. How long does a pulse now take?
 
-- (A) 0.067 s
-- (B) 0.022 s
-- (C) 0.60 s
+- (A) 0.022 s
+- (B) 0.60 s
+- (C) 0.067 s
 - (D) 0.20 s
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** v = √(F_T/μ), so 9 times the tension gives √9 = 3 times the speed, and one third of the time: 0.20 s ÷ 3 = 0.067 s.
+**Answer: (C).** v = √(F_T/μ), so 9 times the tension gives √9 = 3 times the speed, and one third of the time: 0.20 s ÷ 3 = 0.067 s.
 
-- (B) divides by 9. It forgets the square root.
-- (C) multiplies by 3, as if more tension slowed the pulse.
+- (A) divides by 9. It forgets the square root.
+- (B) multiplies by 3, as if more tension slowed the pulse.
 - (D) ignores the tension, which helps set the speed.
 
 **If you missed this:** read the [Topic 14.1 study guide](/advanced-course-resources/physics-2/14-1-properties-wave-pulses-waves-study-guide/).
@@ -65,17 +65,17 @@ A pulse takes 0.20 s to travel the length of a stretched string. The tension is 
 
 A displacement–time graph shows that one point on a string takes 4.0 ms to move from its highest to its lowest position. The wave speed is 50 m/s. What is the wavelength?
 
-- (A) 0.40 m
-- (B) 0.20 m
+- (A) 0.20 m
+- (B) 0.40 m
 - (C) 2.5 m
 - (D) 6250 m
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Highest to lowest is half a cycle, so T = 8.0 ms and f = 125 Hz. λ = v/f = 50 ÷ 125 = 0.40 m.
+**Answer: (B).** Highest to lowest is half a cycle, so T = 8.0 ms and f = 125 Hz. λ = v/f = 50 ÷ 125 = 0.40 m.
 
-- (B) uses 4.0 ms as the full period.
+- (A) uses 4.0 ms as the full period.
 - (C) divides f by v; (D) divides v by T. Neither has the unit of a length.
 
 **If you missed this:** read the [Topic 14.2 study guide](/advanced-course-resources/physics-2/14-2-periodic-waves-study-guide/).
@@ -85,19 +85,19 @@ A displacement–time graph shows that one point on a string takes 4.0 ms to mov
 
 A wave passes from string A into string B across a knot. On B its wavelength is 1.5 times its wavelength on A. Which row is correct?
 
-- (A) f unchanged; v on B is 1.5 × v on A; a pulse reflected at the knot is upright
-- (B) f on B is 1.5 × f on A; v unchanged; a pulse reflected at the knot is upright
-- (C) f unchanged; v on B is 1.5 × v on A; a pulse reflected at the knot is inverted
-- (D) f unchanged; v on B is 1.5 × v on A; a pulse transmitted into B is inverted
+- (A) f on B is 1.5 × f on A; v unchanged; a pulse reflected at the knot is upright
+- (B) f unchanged; v on B is 1.5 × v on A; a pulse reflected at the knot is inverted
+- (C) f unchanged; v on B is 1.5 × v on A; a pulse transmitted into B is inverted
+- (D) f unchanged; v on B is 1.5 × v on A; a pulse reflected at the knot is upright
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The knot moves both strings at the same rate, so f is unchanged and λ ∝ v. The wave is 1.5 times faster on B. Going into a faster medium, the reflection is upright.
+**Answer: (D).** The knot moves both strings at the same rate, so f is unchanged and λ ∝ v. The wave is 1.5 times faster on B. Going into a faster medium, the reflection is upright.
 
-- (B) changes f. The source sets f; the medium sets v.
-- (C) uses the rule for a slower medium.
-- (D) inverts the transmitted pulse, which is always upright.
+- (A) changes f. The source sets f; the medium sets v.
+- (B) uses the rule for a slower medium.
+- (C) inverts the transmitted pulse, which is always upright.
 
 **If you missed this:** read the [Topic 14.3 study guide](/advanced-course-resources/physics-2/14-3-boundary-behavior-waves-polarization-study-guide/).
 </details>
@@ -127,18 +127,18 @@ Which statement about microwaves and ultraviolet radiation in a vacuum is correc
 
 An ambulance sounds its siren (rest frequency f₀) while driving along a straight road at 20 m/s. A cyclist follows it at 8 m/s. A pedestrian stands still on the road behind both. What does the cyclist hear?
 
-- (A) Lower than f₀, but not as low as the pedestrian hears
-- (B) Lower than f₀, and lower than the pedestrian hears
-- (C) Exactly f₀, because both move in the same direction
+- (A) Lower than f₀, and lower than the pedestrian hears
+- (B) Exactly f₀, because both move in the same direction
+- (C) Lower than f₀, but not as low as the pedestrian hears
 - (D) Higher than f₀, because the cyclist moves toward the ambulance
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The cyclist's separation from the ambulance grows at 12 m/s, so f < f₀. The pedestrian's grows at 20 m/s, a greater relative speed, so the pedestrian's shift is greater.
+**Answer: (C).** The cyclist's separation from the ambulance grows at 12 m/s, so f < f₀. The pedestrian's grows at 20 m/s, a greater relative speed, so the pedestrian's shift is greater.
 
-- (B) reverses the size rule.
-- (C) Only equal velocities keep the separation constant.
+- (A) reverses the size rule.
+- (B) Only equal velocities keep the separation constant.
 - (D) looks at the cyclist alone; the separation still grows.
 
 **If you missed this:** read the [Topic 14.5 study guide](/advanced-course-resources/physics-2/14-5-doppler-effect-study-guide/).
@@ -148,19 +148,19 @@ An ambulance sounds its siren (rest frequency f₀) while driving along a straig
 
 Two tuning forks sound together. The loudness peaks once every 0.20 s. One fork is marked 512 Hz. What could the other fork's frequency be?
 
-- (A) 507 Hz or 517 Hz
-- (B) 511.8 Hz or 512.2 Hz
-- (C) 517 Hz only
-- (D) 509.5 Hz or 514.5 Hz
+- (A) 511.8 Hz or 512.2 Hz
+- (B) 517 Hz only
+- (C) 509.5 Hz or 514.5 Hz
+- (D) 507 Hz or 517 Hz
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** f_beat = 1/0.20 s = 5 Hz, and f_beat = |f₁ − f₂|, so the other fork is 5 Hz above or below 512 Hz.
+**Answer: (D).** f_beat = 1/0.20 s = 5 Hz, and f_beat = |f₁ − f₂|, so the other fork is 5 Hz above or below 512 Hz.
 
-- (B) uses 0.20 as the beat frequency. It is a time, so take its reciprocal.
-- (C) assumes the second fork is higher; the difference has no sign.
-- (D) halves the beat frequency; each loud moment is one beat.
+- (A) uses 0.20 as the beat frequency. It is a time: take its reciprocal.
+- (B) assumes the second fork is higher; the difference has no sign.
+- (C) halves the beat frequency; each loud moment is one beat.
 
 **If you missed this:** read the [Topic 14.6 study guide](/advanced-course-resources/physics-2/14-6-wave-interference-standing-waves-study-guide/).
 </details>
@@ -169,17 +169,17 @@ Two tuning forks sound together. The loudness peaks once every 0.20 s. One fork 
 
 A pipe 0.85 m long is open at both ends (sound speed 340 m/s). One end is then closed. Which frequency makes a standing wave in the closed pipe but **not** the open one?
 
-- (A) 300 Hz
-- (B) 400 Hz
+- (A) 400 Hz
+- (B) 300 Hz
 - (C) 200 Hz
 - (D) 600 Hz
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Open at both ends: fₙ = nv/(2L) = 200, 400, 600 … Hz. Closed at one end: odd n only in fₙ = nv/(4L), so 100, 300, 500 … Hz. Only 300 Hz is in the second list alone.
+**Answer: (B).** Open at both ends: fₙ = nv/(2L) = 200, 400, 600 … Hz. Closed at one end: odd n only in fₙ = nv/(4L), so 100, 300, 500 … Hz. Only 300 Hz is in the second list alone.
 
-- (B) is an even multiple of 100 Hz: impossible when closed.
+- (A) is an even multiple of 100 Hz: impossible when closed.
 - (C) is the open fundamental. Closing an end halves it to 100 Hz.
 - (D) is the open pipe's third harmonic; the closed pipe's is 300 Hz.
 
@@ -211,17 +211,17 @@ Light of wavelength 600 nm passes through a single slit onto a screen 2.0 m away
 
 Each slit in a double-slit experiment is made narrower. Their separation, the light and the screen are unchanged. Which describes the new pattern?
 
-- (A) Same fringe spacing; more bright fringes inside the central band of the envelope
-- (B) Larger fringe spacing; the same number inside the central band
-- (C) Smaller fringe spacing; fewer inside the central band
+- (A) Larger fringe spacing; the same number inside the central band
+- (B) Smaller fringe spacing; fewer inside the central band
+- (C) Same fringe spacing; more bright fringes inside the central band
 - (D) Same fringe spacing; fewer bright fringes inside the central band
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The fringe spacing λL/d depends on the separation d, which is unchanged. The envelope's central band, 2λL/a, widens as the slit width a shrinks, so more fringes fit inside it.
+**Answer: (C).** The fringe spacing λL/d depends on the separation d, which is unchanged. The envelope's central band, 2λL/a, widens as the slit width a shrinks, so more fringes fit inside it.
 
-- (B) and (C) let the slit width change the spacing; only d sets it.
+- (A) and (B) let the slit width change the spacing; only d sets it.
 - (D) reverses the envelope rule: a narrower slit spreads light more.
 
 **If you missed this:** read the [Topic 14.8 study guide](/advanced-course-resources/physics-2/14-8-double-slit-interference-diffraction-gratings-study-guide/).
@@ -231,17 +231,17 @@ Each slit in a double-slit experiment is made narrower. Their separation, the li
 
 A glass window (n = 1.52) is covered by a layer of water (n = 1.33) 250 nm thick. White light falls straight onto it. Which visible wavelength is reflected most strongly?
 
-- (A) 665 nm
-- (B) 443 nm
+- (A) 443 nm
+- (B) 665 nm
 - (C) 500 nm
 - (D) 376 nm
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Air → water and water → glass are both reflections into a higher index: two 180° phase changes, which cancel. Bright needs 2nt = mλ. 2nt = 2 × 1.33 × 250 nm = 665 nm, so m = 1 gives 665 nm (m = 2 gives 333 nm, not visible).
+**Answer: (B).** Air → water and water → glass are both reflections into a higher index: two 180° phase changes, which cancel. Bright needs 2nt = mλ. 2nt = 2 × 1.33 × 250 nm = 665 nm, so m = 1 gives 665 nm (m = 2 gives 333 nm, not visible).
 
-- (B) counts one phase change. That condition gives the weakest reflection.
+- (A) counts one phase change. That condition gives the weakest reflection.
 - (C) uses 2t = λ, the wavelength in air.
 - (D) divides 2t by n instead of multiplying.
 
@@ -250,18 +250,20 @@ A glass window (n = 1.52) is covered by a layer of water (n = 1.33) 250 nm thick
 
 ## Question 11 (short answer · 14.3)
 
-Unpolarized light of intensity 60 W/m² falls evenly on 2.0 × 10⁻⁴ m² of filter A (axis vertical). Filter B is behind A.
+One ideal polarizing filter is turned slowly through 360° in each of two light beams, P and Q, in front of a light meter. P reads a steady 12 W/m² at every angle. Q falls smoothly from 30 W/m² to 0 and back, twice per turn.
 
-(a) Find the intensity and power of the light leaving A, and describe its polarization.
-(b) State the intensity leaving B when B's axis is horizontal, and when it is vertical.
-(c) With a loudspeaker and a board with a narrow slot, turning the slot changes nothing. Explain what the two experiments show.
+(a) Which beam was already polarized? Explain.
+(b) State the intensity of each beam before the filter.
+(c) The meter's sensor has an area of 2.0 × 10⁻⁴ m². Find the greatest power it receives from beam Q.
+(d) The student says: "Any wave that gives a steady reading like P's must be longitudinal." Evaluate this claim.
 
 <details>
 <summary>Worked answer</summary>
 
-1. (a) One filter passes half of unpolarized light: **30 W/m²**. Power = IA = (30 W/m²)(2.0 × 10⁻⁴ m²) = **6.0 × 10⁻³ W**. The light is polarized vertically: its electric field oscillates vertically.
-2. (b) Horizontal (crossed): **0 W/m²**. Vertical (parallel): **30 W/m²**.
-3. (c) Light depends on the filter angle, so it can be polarized, so it is **transverse**. Sound ignores the slot's angle, which fits a **longitudinal** wave: there is no sideways direction to select.
+1. (a) **Q.** Its reading depends on the angle: all of it passes when the axis lines up with its electric field, none at 90°. P is **unpolarized**: every angle passes half.
+2. (b) P: 12 W/m² is half, so **24 W/m²**. Q: the maximum passes all of it, so **30 W/m²**.
+3. (c) P = IA = (30 W/m²)(2.0 × 10⁻⁴ m²) = **6.0 × 10⁻³ W**.
+4. (d) **Wrong.** Unpolarized light is transverse yet reads steadily. Only a change with angle is evidence, and it shows a **transverse** wave: longitudinal waves cannot be polarized.
 
 **If you missed this:** read the [Topic 14.3 study guide](/advanced-course-resources/physics-2/14-3-boundary-behavior-waves-polarization-study-guide/).
 </details>
@@ -278,7 +280,7 @@ A laser beam falls straight onto a grating with 400 lines/mm. The first-order sp
 <summary>Worked answer</summary>
 
 1. (a) d = (1/400) mm = 2.50 × 10⁻⁶ m. λ = d sin θ = (2.50 × 10⁻⁶ m)(sin 15.1°) = **6.51 × 10⁻⁷ m** (651 nm).
-2. (b) sin θ₂ = 2λ/d = 0.521, so **θ₂ = 31.4°**. Orders need m < d/λ = 3.84, so the highest is **m = 3** (51.4°). These angles are far above 10°: no small-angle form.
+2. (b) sin θ₂ = 2λ/d = 0.521, so **θ₂ = 31.4°**. Orders need m < d/λ = 3.84, so the highest is **m = 3** (51.4°). These angles are too large for the small-angle form.
 3. (c) The centre is **white** (zero path difference for every λ). The first order is a **spectrum**, red farthest out, because sin θ = λ/d grows with λ.
 
 **If you missed this:** read the [Topic 14.8 study guide](/advanced-course-resources/physics-2/14-8-double-slit-interference-diffraction-gratings-study-guide/).
@@ -286,7 +288,7 @@ A laser beam falls straight onto a grating with 400 lines/mm. The first-order sp
 
 ## Your next step
 
-Count an answer as wrong if it was a guess or if any part is missing.
+Count a guess or a part-answer as wrong.
 
 | Topic | Question(s) | If you missed it, read |
 |---|---|---|
@@ -303,6 +305,6 @@ Count an answer as wrong if it was a guess or if any part is missing.
 ## How to use your result
 
 - **Start with the topic where you missed most.** Read its study guide, then do its practice questions.
-- **Look at why you missed it.** A slip with units, a square root or a factor of 2 needs a habit, not a full re-read.
-- **Missed nothing?** Go to the [Unit 14 mixed review](/advanced-course-resources/physics-2/unit-14-review/), where questions combine topics.
-- **Retake this check** after a week of revision.
+- **Look at why you missed it.** A slip with units or a factor of 2 needs a habit, not a re-read.
+- **Missed nothing?** Try the [Unit 14 mixed review](/advanced-course-resources/physics-2/unit-14-review/).
+- **Retake this check** a week later.

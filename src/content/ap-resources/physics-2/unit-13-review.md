@@ -41,7 +41,7 @@ The questions in this review are **original Marlbridge practice questions**, not
 
 ## Big ideas of the unit
 
-- **A ray is a model.** It is a line perpendicular to the wavefronts, pointing the way the light travels. It works when the wave nature of light can be ignored ([Topic 13.1](/advanced-course-resources/physics-2/13-1-reflection-study-guide/)).
+- **A ray is a model.** It is a line perpendicular to the wavefronts, in the direction light travels, and works when wave effects can be ignored ([Topic 13.1](/advanced-course-resources/physics-2/13-1-reflection-study-guide/)).
 - **The normal is the reference line.** Reflection and Snell's law both measure angles from it. On a curved surface the normal changes from point to point, which is why curved surfaces focus light.
 - **Smooth or rough decides the beam.** Specular reflection keeps parallel rays parallel; diffuse reflection scatters them because the normal varies. The law of reflection holds in both.
 - **Curved mirrors focus by reflection.** Concave mirrors bring parallel rays to a real focal point; convex mirrors spread them from a virtual one; f ≈ R/2 ([Topic 13.2](/advanced-course-resources/physics-2/13-2-images-formed-mirrors-study-guide/)).
@@ -69,18 +69,18 @@ The questions in this review are **original Marlbridge practice questions**, not
 
 *Topics 13.1, 13.3.* A ray in air strikes a flat water surface with an angle of incidence of 50°. Part of the light reflects and part refracts into the water. What is the angle between the reflected ray and the refracted ray?
 
-- (A) 94.8°
+- (A) 80.0°
 - (B) 85.2°
-- (C) 80.0°
+- (C) 94.8°
 - (D) 14.8°
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The reflected ray is 50° from the normal, above the surface. Snell's law: sin θ₂ = sin 50° ÷ 1.33 = 0.576, so θ₂ = 35.2° below. The angle between the rays is 180° − 50° − 35.2° = 94.8°.
+**Answer: (C).** The reflected ray is 50° from the normal, above the surface. Snell's law: sin θ₂ = sin 50° ÷ 1.33 = 0.576, so θ₂ = 35.2° below. The angle between the rays is 180° − 50° − 35.2° = 94.8°.
 
+- (A) is 180° − 2 × 50°, how far reflection turns the ray.
 - (B) adds the two angles from the normal, as if both rays were on the same side of the surface.
-- (C) is the angle between the incident and reflected rays.
 - (D) is the difference between the angles of incidence and refraction.
 </details>
 
@@ -88,17 +88,17 @@ The questions in this review are **original Marlbridge practice questions**, not
 
 *Topics 13.2, 13.4.* A concave mirror and a converging lens have the same focal length f. An object is placed 1.5f in front of each. Which statement is correct?
 
-- (A) Both images are real, inverted and twice the object's size, 3f away. The mirror's image is on the object's side; the lens's image is on the far side.
-- (B) Both images are real and 3f away, and both are on the far side of the device from the object.
+- (A) Both images are real and 3f away, and both are on the far side of the device from the object.
+- (B) Both images are real, inverted and twice the object's size, 3f away. The mirror's image is on the object's side; the lens's image is on the far side.
 - (C) The mirror's image is virtual and upright; the lens's image is real and inverted.
 - (D) Both images are real, 3f away and on the object's side, because sᵢ is positive in both cases.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** 1/sᵢ = 1/f − 1/(1.5f) = 1/(3f), so sᵢ = +3f and |M| = 2: real and inverted for both. A mirror sends light back, so its real image is in front; a lens lets light through, so its real image is on the far side.
+**Answer: (B).** 1/sᵢ = 1/f − 1/(1.5f) = 1/(3f), so sᵢ = +3f and |M| = 2: real and inverted for both. A mirror sends light back, so its real image is in front; a lens lets light through, so its real image is on the far side.
 
-- (B) forgets that a mirror reflects light back to the object's side.
+- (A) forgets that a mirror reflects light back to the object's side.
 - (C) The object is outside f, so the mirror's image is real too.
 - (D) Positive sᵢ means the side where the light actually goes.
 </details>
@@ -107,19 +107,19 @@ The questions in this review are **original Marlbridge practice questions**, not
 
 *Topics 13.3, 13.4.* A thin glass converging lens (n = 1.50) is used in air. It is then placed in water (n = 1.33). How does its focal length change?
 
-- (A) It increases, because the light bends less at each surface when the difference in n is smaller.
+- (A) The lens becomes diverging, because water has a higher index than air.
 - (B) It decreases, because water slows light down, so the lens bends it more.
 - (C) It stays the same, because the shape of the lens has not changed.
-- (D) The lens becomes diverging, because water has a higher index than air.
+- (D) It increases, because the light bends less at each surface when the difference in n is smaller.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Bending at a surface depends on n₂/n₁. Glass to water (1.50/1.33) is much closer to 1 than glass to air, so rays bend less and meet farther away: f increases. Glass still has the higher n, so the lens still converges.
+**Answer: (D).** Bending at a surface depends on n₂/n₁. Glass to water (1.50/1.33) is much closer to 1 than glass to air, so rays bend less and meet farther away: f increases. Glass still has the higher n, so the lens still converges.
 
+- (A) Water's n is still lower than the glass's, so the lens still converges.
 - (B) Slower light outside means a smaller speed change at the surface, not a larger one.
 - (C) Shape matters, but so does the surrounding medium.
-- (D) That needs a medium with a **higher** n than the glass.
 </details>
 
 ## Question 4 (constructed response · mixed)
@@ -160,8 +160,8 @@ Total: 6 points.
 
 (a) Calculate the speed of light in the glass. Explain why the ray does not bend as it enters.
 (b) Find the angle of incidence at the long face. Show that, in air, all the light reflects there, and find the total angle the ray turns through.
-(c) The prism is put in water. Show that some light now escapes through the long face, and find its angle of refraction.
-(d) A silver coating on the long face would make the prism work in water. Explain why, and find the smallest n of glass that would make it work in water without the coating.
+(c) The prism is placed in a coolant liquid (n = 1.25, invented). Show that some light now escapes through the long face, and find its angle of refraction.
+(d) A silver coating on the long face would make the prism work in the coolant. Explain why, and find the smallest n of glass that would make it work in the coolant without the coating.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
@@ -170,21 +170,21 @@ Total: 6 points.
 
 **(b)** The long face is at 45° to the short face, so the ray meets it at **45°** to its normal. In air, sin θc = 1.00/1.50, so θc = 41.8°. 45° > 41.8°, so there is **total internal reflection**. It turns through 180° − 2 × 45° = **90°** and leaves the other short face along its normal.
 
-**(c)** In water, sin θc = 1.33/1.50, so θc = 62.5°. Now 45° < 62.5°, so light refracts out: 1.50 sin 45° = 1.33 sin θ₂ gives sin θ₂ = 0.798, so θ₂ = **52.9°**.
+**(c)** In the coolant, sin θc = 1.25/1.50, so θc = 56.4°. Now 45° < 56.4°, so light refracts out: 1.50 sin 45° = 1.25 sin θ₂ gives sin θ₂ = 0.849, so θ₂ = **58.1°**.
 
-**(d)** A coating reflects by the law of reflection, whatever the outside medium: θᵣ = θᵢ = 45° still gives a 90° turn. Without a coating, TIR at 45° in water needs n sin 45° ≥ 1.33, so n ≥ **1.88**.
+**(d)** A coating reflects by the law of reflection, whatever the outside medium: θᵣ = θᵢ = 45° still gives a 90° turn. Without a coating, TIR at 45° in the coolant needs n sin 45° ≥ 1.25, so n ≥ **1.77**.
 
 | Point | What earns it |
 |---|---|
 | 1 | v = 2.00 × 10⁸ m/s and no bending along the normal |
 | 1 | Angle of incidence 45° at the long face |
 | 1 | θc = 41.8° in air, so TIR, and a 90° turn |
-| 1 | θc = 62.5° in water, so light escapes |
-| 1 | Refraction angle 52.9° |
+| 1 | θc = 56.4° in the coolant, so light escapes |
+| 1 | Refraction angle 58.1° |
 | 1 | Coating: law of reflection holds whatever the outside medium |
-| 1 | Minimum n = 1.88 |
+| 1 | Minimum n = 1.77 |
 
-Total: 7 points. Using sin θc = 1/n in water earns no point for (c).
+Total: 7 points. Using sin θc = 1/n in the coolant earns no point for (c).
 </details>
 
 ## Question 6 (constructed response · mixed)
@@ -199,7 +199,7 @@ Total: 7 points. Using sin θc = 1/n in water earns no point for (c).
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Entering glass, a ray bends toward the normal; leaving, away from it. Away from the centre the faces tilt toward each other, so both bends turn the ray toward the axis. Rays farther out meet more steeply tilted faces and bend more, so all meet near F.
+**(a)** Entering glass, a ray bends toward the normal; leaving, away from it. Away from the centre the faces tilt toward each other, so both bends turn the ray toward the axis. Rays farther out bend more, so all meet near F.
 
 **(b)** sᵢ = +300 cm. 1/sₒ = 1/5.0 − 1/300, so **sₒ = 5.08 cm**. |M| = 300/5.085 = **59**, so hᵢ = 59 × 2.4 cm = **142 cm**. The image is real, so it is inverted; inserting the slide upside down makes the picture upright.
 
@@ -234,7 +234,7 @@ Total: 7 points. Carry forward an error in sₒ once.
 
 **(a)** 1/sᵢ = 1/20 − 1/30 = 1/60, so **sᵢ = +60 cm**, right of the lens. |M₁| = 60/30 = 2.0, so the image is **2.4 cm**, real and **inverted**.
 
-**(b)** The image is 80 − 60 = 20 cm in front of the mirror, so the mirror's image is **20 cm behind it**, 100 cm from the lens, same size and orientation. Reflected rays travel back to the lens as if from that point, so it is an object 100 cm from the lens.
+**(b)** The image is 80 − 60 = 20 cm in front of the mirror, so the mirror's image is **20 cm behind it**, 100 cm from the lens, same size and orientation. Reflected rays reach the lens as if from that point, so it is the lens's object, 100 cm away.
 
 **(c)** 1/sᵢ = 1/20 − 1/100 = 4/100, so **sᵢ = +25 cm**. The light now travels left, so the real image is **25 cm left of the lens**, 5 cm from the original object. |M₂| = 25/100 = 0.25. Total |M| = 2.0 × 1 × 0.25 = 0.50, so the height is **0.60 cm**.
 

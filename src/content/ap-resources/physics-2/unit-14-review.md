@@ -70,18 +70,18 @@ The questions in this review are **original Marlbridge practice questions**, not
 
 *Topics 14.5, 14.6.* Two identical loudspeakers emit the same steady note. A listener stands still in front of both. Speaker P is fixed. Speaker Q is carried steadily toward the listener, and the listener hears beats. Which statement is correct?
 
-- (A) Q's sound arrives above the rest frequency; carrying Q faster makes the beats faster.
-- (B) No beats are possible, because both speakers vibrate at the same frequency.
-- (C) Q's sound arrives above the rest frequency; carrying Q faster makes the beats slower.
+- (A) No beats are possible, because both speakers vibrate at the same frequency.
+- (B) Q's sound arrives above the rest frequency; carrying Q faster makes the beats slower.
+- (C) Q's sound arrives above the rest frequency; carrying Q faster makes the beats faster.
 - (D) The beats happen because Q's sound travels faster through the air than P's.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Q approaches, so the listener receives it above f₀, while P arrives at f₀. Two slightly different received frequencies give beats at f_beat = |f_Q − f_P|. A faster approach gives a bigger shift, so a bigger difference and faster beats.
+**Answer: (C).** Q approaches, so the listener receives it above f₀, while P arrives at f₀. Two slightly different received frequencies give beats at f_beat = |f_Q − f_P|. A faster approach gives a bigger shift, so a bigger difference and faster beats.
 
-- (B) uses the rest frequencies. Beats depend on the frequencies the listener **receives**.
-- (C) reverses the size rule.
+- (A) uses the rest frequencies. Beats depend on the frequencies the listener **receives**.
+- (B) reverses the size rule.
 - (D) The speed of sound is set by the air, not by the motion of the source.
 </details>
 
@@ -89,48 +89,48 @@ The questions in this review are **original Marlbridge practice questions**, not
 
 *Topics 14.4, 14.7, 14.8.* A double slit has slits 0.30 mm apart, each 0.060 mm wide. It is lit first with green light, then with red light. The screen does not move. Compared with green, which is correct for red?
 
-- (A) Wider fringe spacing; wider envelope; the same number of bright fringes inside the envelope's central band
-- (B) Wider fringe spacing; same envelope; fewer bright fringes inside the central band
+- (A) Wider fringe spacing; same envelope; fewer bright fringes inside the central band
+- (B) Wider fringe spacing; wider envelope; the same number of bright fringes inside the envelope's central band
 - (C) Narrower fringe spacing; narrower envelope; the same number inside the central band
 - (D) Wider fringe spacing; wider envelope; more bright fringes inside the central band
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Red has the longer wavelength. The fringe spacing λL/d and the envelope width 2λL/a both grow by the same factor. The count inside the central band depends only on d/a = 5: the fifth-order fringes are missing, leaving 9 bright fringes for either colour.
+**Answer: (B).** Red has the longer wavelength. The fringe spacing λL/d and the envelope width 2λL/a both grow by the same factor. The count inside the central band depends only on d/a = 5: the fifth-order fringes are missing, leaving 9 bright fringes for either colour.
 
-- (B) forgets that the envelope also depends on λ.
+- (A) forgets that the envelope also depends on λ.
 - (C) reverses the spectrum order: red is longer than green.
 - (D) changes the count. Both widths scale together, so the ratio is fixed.
 </details>
 
 ## Question 3 (constructed response · mixed)
 
-*Topics 14.1, 14.2, 14.3, 14.6.* String 1 (μ = 0.0050 kg/m) is tied to string 2 (μ = 0.020 kg/m). Both are under a tension of 50 N.
+*Topics 14.1, 14.2, 14.3, 14.6.* A light string (μ = 0.0040 kg/m) is joined to a heavy string (μ = 0.016 kg/m). Both are under a tension of 40 N.
 
 (a) Calculate the wave speed on each string.
-(b) An upright pulse 0.30 m wide travels along string 1 to the knot. Describe the reflected and transmitted pulses: orientation, width and size compared with the incident pulse.
-(c) The far end of string 1 is now shaken at 125 Hz. Calculate the period and the wavelength on each string.
-(d) String 2 is removed. String 1 is clamped at two points 1.20 m apart, at the same tension, and driven at 125 Hz. Show that a standing wave forms. State its harmonic number, the number of nodes and the node spacing.
+(b) A vibrator on the light string sends a steady 125 Hz wave towards the join. Calculate the period and the wavelength on each side of the join.
+(c) The vibrator is replaced by a single upright pulse. A student predicts: "The reflected pulse will be upright, and the pulse that enters the heavy string will be twice as wide." Evaluate both parts of the prediction.
+(d) The heavy string is removed. The light string is clamped at two points 1.20 m apart, at the same tension, and driven at 125 Hz. Show that a standing wave forms. State its harmonic number, the number of nodes and the node spacing.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** v₁ = √(50 ÷ 0.0050) = **100 m/s**; v₂ = √(50 ÷ 0.020) = **50 m/s**.
+**(a)** v₁ = √(40 ÷ 0.0040) = **100 m/s**; v₂ = √(40 ÷ 0.016) = **50 m/s**.
 
-**(b)** The wave slows down at the knot, so the reflected pulse is **inverted**. It stays on string 1, so it keeps the 100 m/s speed and the **0.30 m** width. The transmitted pulse is **upright**. The incident pulse takes 0.30 ÷ 100 = 3.0 ms to pass the knot, so the transmitted pulse is (50 m/s)(3.0 ms) = **0.15 m** wide. The incident energy is shared, so both pulses have smaller amplitudes than the incident pulse.
+**(b)** f does not change at the join, so T = 1/125 Hz = **8.0 ms** on both strings. λ₁ = 100 ÷ 125 = **0.80 m**; λ₂ = 50 ÷ 125 = **0.40 m**.
 
-**(c)** T = 1/125 Hz = **8.0 ms** on both strings, because f does not change at the boundary. λ₁ = 100 ÷ 125 = **0.80 m**; λ₂ = 50 ÷ 125 = **0.40 m**.
+**(c)** Both parts are **wrong**. The wave slows down at the join, so the reflected pulse is **inverted**. The transmitted pulse takes the same time to pass the join as the incident pulse, but moves at half the speed, so it is **half as wide**, not twice as wide.
 
-**(d)** Fixed at both ends: f₁ = v/(2L) = 100 ÷ 2.40 = 41.7 Hz. 125 Hz = 3 × 41.7 Hz, a whole number, so a standing wave forms: the **third harmonic**. Check: 1.20 m ÷ 0.40 m = 3 half-wavelengths. Three loops need **4 nodes** (including the ends), **0.40 m** apart.
+**(d)** Fixed at both ends: f₁ = v/(2L) = 100 ÷ 2.40 = 41.7 Hz. 125 Hz = 3 × 41.7 Hz, a whole number, so a standing wave forms: the **third harmonic**. Check: λ/2 = 0.40 m, and 1.20 m ÷ 0.40 m = 3 half-wavelengths. Three loops need **4 nodes** (including the ends), **0.40 m** apart.
 
 | Point | What earns it |
 |---|---|
 | 1 | Both speeds |
-| 1 | Reflected pulse inverted, linked to the slower second string, width unchanged |
-| 1 | Transmitted pulse upright and 0.15 m wide, using equal passing time |
-| 1 | Both pulses smaller, because the energy is shared |
-| 1 | T = 8.0 ms with f unchanged, and λ₁ = 0.80 m, λ₂ = 0.40 m |
+| 1 | T = 8.0 ms on both sides, because f is unchanged |
+| 1 | λ₁ = 0.80 m and λ₂ = 0.40 m |
+| 1 | Reflected pulse inverted, linked to the slower heavy string |
+| 1 | Transmitted pulse half as wide, using equal passing time |
 | 1 | f₁ = 41.7 Hz and 125 Hz = 3f₁ (or 3 half-wavelengths fit) |
 | 1 | 4 nodes, 0.40 m apart |
 
@@ -246,8 +246,8 @@ Total: 7 points. Accept 2nt = mλ for (c).
 
 Questions 1–2 are worth 1 point each and Questions 3–6 are worth 28 in total. There is no pass mark: use the checklist that matches the points you lost.
 
-- **wave speed and energy** (Q3(a)–(b), 4(b)): [Topic 14.1 checklist](/advanced-course-resources/physics-2/14-1-properties-wave-pulses-waves-checklist/)
-- **v = fλ and period** (Q3(c), 4(a)): [Topic 14.2 checklist](/advanced-course-resources/physics-2/14-2-periodic-waves-checklist/)
+- **wave speed** (Q3(a), 4(b)): [Topic 14.1 checklist](/advanced-course-resources/physics-2/14-1-properties-wave-pulses-waves-checklist/)
+- **v = fλ and period** (Q3(b), 4(a)): [Topic 14.2 checklist](/advanced-course-resources/physics-2/14-2-periodic-waves-checklist/)
 - **boundaries and polarization** (Q3(b)–(c), 6(a), 6(d)): [Topic 14.3 checklist](/advanced-course-resources/physics-2/14-3-boundary-behavior-waves-polarization-checklist/)
 - **EM waves and the spectrum** (Q2, 6(b)): [Topic 14.4 checklist](/advanced-course-resources/physics-2/14-4-electromagnetic-waves-checklist/)
 - **Doppler effect** (Q1, 4(e)): [Topic 14.5 checklist](/advanced-course-resources/physics-2/14-5-doppler-effect-checklist/)

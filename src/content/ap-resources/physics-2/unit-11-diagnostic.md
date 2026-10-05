@@ -47,18 +47,18 @@ How to take it:
 
 In 20 s, 6.0 × 10¹⁹ electrons pass a point in a wire, moving to the **left**. What is the current in the wire?
 
-- (A) 0.48 A, directed to the right
-- (B) 0.48 A, directed to the left
-- (C) 9.6 A, directed to the right
+- (A) 0.48 A, directed to the left
+- (B) 9.6 A, directed to the right
+- (C) 0.48 A, directed to the right
 - (D) 3.0 × 10¹⁸ A, directed to the left
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The charge is ΔQ = Ne = (6.0 × 10¹⁹)(1.60 × 10⁻¹⁹ C) = 9.6 C, so I = ΔQ/Δt = 9.6 C ÷ 20 s = 0.48 A. Electrons are negative, so conventional current points opposite to their motion: to the right.
+**Answer: (C).** The charge is ΔQ = Ne = (6.0 × 10¹⁹)(1.60 × 10⁻¹⁹ C) = 9.6 C, so I = ΔQ/Δt = 9.6 C ÷ 20 s = 0.48 A. Electrons are negative, so conventional current points opposite to their motion: to the right.
 
-- (B) has the right size but follows the electrons.
-- (C) is the charge, not the charge per second.
+- (A) has the right size but follows the electrons.
+- (B) is the charge, not the charge per second.
 - (D) counts electrons per second without multiplying by e, and follows the electrons.
 
 **If you missed this:** read "What current measures" and "Which way is the current?" in the [Topic 11.1 study guide](/advanced-course-resources/physics-2/11-1-electric-current-study-guide/).
@@ -89,19 +89,19 @@ A battery is connected to bulb X. After X the wire splits into two branches that
 
 A uniform metal wire has a resistance of 12 Ω. It is stretched evenly until it is three times as long. Its volume and resistivity do not change. What is its new resistance?
 
-- (A) 108 Ω
-- (B) 36 Ω
-- (C) 12 Ω
-- (D) 324 Ω
+- (A) 36 Ω
+- (B) 12 Ω
+- (C) 324 Ω
+- (D) 108 Ω
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** R = ρL/A. The volume LA is fixed, so tripling L makes A one-third as large. Both changes raise R by a factor of 3: R = 12 Ω × 3 × 3 = 108 Ω.
+**Answer: (D).** R = ρL/A. The volume LA is fixed, so tripling L makes A one-third as large. Both changes raise R by a factor of 3: R = 12 Ω × 3 × 3 = 108 Ω.
 
-- (B) changes the length but forgets that the wire also gets thinner.
-- (C) confuses resistance with resistivity, which depends only on the material.
-- (D) divides the area by 9, as if the diameter fell by a factor of 3. It is the area that falls by 3.
+- (A) changes the length but forgets that the wire also gets thinner.
+- (B) confuses resistance with resistivity, which depends only on the material.
+- (C) divides the area by 9, as if the diameter fell by a factor of 3. It is the area that falls by 3.
 
 **If you missed this:** read "Resistance from shape and material" in the [Topic 11.3 study guide](/advanced-course-resources/physics-2/11-3-resistance-resistivity-ohms-law-study-guide/).
 </details>
@@ -110,17 +110,17 @@ A uniform metal wire has a resistance of 12 Ω. It is stretched evenly until it 
 
 A small motor is connected to an ideal 9.0 V battery. The current in the motor is 0.20 A. How much energy does the battery transfer to the motor in 5.0 minutes?
 
-- (A) 540 J
-- (B) 9.0 J
+- (A) 9.0 J
+- (B) 540 J
 - (C) 1.8 J
 - (D) 2.7 × 10³ J
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** P = IΔV works for any circuit element, including a motor: P = (0.20 A)(9.0 V) = 1.8 W. Then ΔE = PΔt = (1.8 W)(300 s) = 540 J. You do not need the motor's resistance.
+**Answer: (B).** P = IΔV works for any circuit element, including a motor: P = (0.20 A)(9.0 V) = 1.8 W. Then ΔE = PΔt = (1.8 W)(300 s) = 540 J. You do not need the motor's resistance.
 
-- (B) uses 5.0 instead of 300 s.
+- (A) uses 5.0 instead of 300 s.
 - (C) is the power, a rate, not the energy.
 - (D) multiplies ΔV by time and leaves out the current.
 
@@ -131,18 +131,18 @@ A small motor is connected to an ideal 9.0 V battery. The current in the motor i
 
 Resistors R₁ and R₂ are in series across an ideal battery. A third resistor, R₃, is then connected in parallel with R₂. What happens to the current from the battery and to the potential difference across R₁?
 
-- (A) The current increases; the potential difference across R₁ increases.
-- (B) The current increases; the potential difference across R₁ stays the same.
-- (C) The current decreases; the potential difference across R₁ decreases.
+- (A) The current increases; the potential difference across R₁ stays the same.
+- (B) The current decreases; the potential difference across R₁ decreases.
+- (C) The current increases; the potential difference across R₁ increases.
 - (D) Both stay the same, because the battery is ideal.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Adding a parallel path lowers the resistance of that part, so the equivalent resistance of the circuit falls. With a fixed emf the battery current rises. All of it passes through R₁, so ΔV₁ = IR₁ rises, and the potential difference across the R₂–R₃ pair falls.
+**Answer: (C).** Adding a parallel path lowers the resistance of that part, so the equivalent resistance of the circuit falls. With a fixed emf the battery current rises. All of it passes through R₁, so ΔV₁ = IR₁ rises, and the potential difference across the R₂–R₃ pair falls.
 
-- (B) forgets that ΔV₁ = IR₁ follows the current.
-- (C) assumes more resistors always mean more resistance. That is true in series, not in parallel.
+- (A) forgets that ΔV₁ = IR₁ follows the current.
+- (B) assumes more resistors always mean more resistance. That is true in series, not in parallel.
 - (D) confuses a fixed emf with a fixed current.
 
 **If you missed this:** read "Equivalent resistance in parallel" and "Reducing a compound network" in the [Topic 11.5 study guide](/advanced-course-resources/physics-2/11-5-compound-direct-current-dc-circuits-study-guide/).
@@ -173,19 +173,19 @@ Two branches are connected in parallel across an ideal 12 V battery. Branch 1 ha
 
 Three wires meet at a junction in a circuit with steady currents. Wire 1 carries 0.75 A into the junction. Each minute, 27 C of charge leaves the junction along wire 2. What is the current in wire 3?
 
-- (A) 0.30 A out of the junction
-- (B) 1.2 A out of the junction
-- (C) 0.30 A into the junction
-- (D) 26 A into the junction
+- (A) 1.2 A out of the junction
+- (B) 0.30 A into the junction
+- (C) 26 A into the junction
+- (D) 0.30 A out of the junction
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** First convert wire 2 to a current: 27 C ÷ 60 s = 0.45 A out. Charge cannot build up at the junction, so current in = current out: 0.75 A = 0.45 A + I₃, giving I₃ = 0.30 A out.
+**Answer: (D).** First convert wire 2 to a current: 27 C ÷ 60 s = 0.45 A out. Charge cannot build up at the junction, so current in = current out: 0.75 A = 0.45 A + I₃, giving I₃ = 0.30 A out.
 
-- (B) adds the two currents instead of balancing them.
-- (C) has the wrong direction: more arrives than leaves along wire 2.
-- (D) mixes coulombs per minute with amperes.
+- (A) adds the two currents instead of balancing them.
+- (B) has the wrong direction: more arrives than leaves along wire 2.
+- (C) mixes coulombs per minute with amperes.
 
 **If you missed this:** read "The junction rule" in the [Topic 11.7 study guide](/advanced-course-resources/physics-2/11-7-kirchhoffs-junction-rule-study-guide/).
 </details>
@@ -194,17 +194,17 @@ Three wires meet at a junction in a circuit with steady currents. Wire 1 carries
 
 Three identical capacitors each have capacitance C. Two are connected in parallel, and that pair is connected in series with the third. What is the equivalent capacitance?
 
-- (A) 2C/3
-- (B) 3C
+- (A) 3C
+- (B) 2C/3
 - (C) C/3
 - (D) 3C/2
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The parallel pair adds: 2C. In series with C: 1/C_eq = 1/(2C) + 1/C = 3/(2C), so C_eq = 2C/3. It is less than C, as a series combination must be.
+**Answer: (B).** The parallel pair adds: 2C. In series with C: 1/C_eq = 1/(2C) + 1/C = 3/(2C), so C_eq = 2C/3. It is less than C, as a series combination must be.
 
-- (B) puts all three in parallel.
+- (A) puts all three in parallel.
 - (C) puts all three in series.
 - (D) is a series pair (C/2) in parallel with the third, the other arrangement.
 
@@ -233,25 +233,25 @@ A common slip in (b) is r = 1.50 V ÷ 0.30 A = 5.0 Ω, which is the whole circui
 
 ## Question 10 (short answer · 11.8)
 
-An uncharged 250 μF capacitor, a 20 kΩ resistor, a switch and an ideal 12 V battery are in series. The switch is closed at t = 0.
+An uncharged capacitor, a 20 kΩ resistor, a switch and an ideal 12 V battery are in series. The switch is closed at t = 0. After a long time the capacitor holds 3.0 mC.
 
-(a) Calculate the time constant, the current just after the switch is closed, and the final charge on the capacitor.
-(b) Estimate the potential difference across the capacitor at t = 5.0 s.
+(a) Find the capacitance, the time constant and the starting current.
+(b) Estimate the potential differences across the capacitor and the resistor at t = 5.0 s.
 (c) The experiment is repeated with a 24 V battery. A student says: "The capacitor will charge twice as fast." Evaluate the claim.
 
 <details>
 <summary>Worked answer</summary>
 
-1. (a) τ = RC = (20 × 10³ Ω)(250 × 10⁻⁶ F) = **5.0 s**. Just after closing, the capacitor acts like a wire, so I₀ = ℰ/R = 12 V ÷ 20 × 10³ Ω = **0.60 mA**. After a long time, ΔV_C = ℰ, so Q = Cℰ = (250 × 10⁻⁶ F)(12 V) = **3.0 mC**.
-2. (b) 5.0 s is one time constant, so the capacitor has reached about 63% of its final value: 0.63 × 12 V ≈ **7.6 V**.
-3. (c) The claim is wrong. τ = RC does not contain the emf, so the capacitor still takes 5.0 s to reach 63% of its final charge. The final charge (6.0 mC) and initial current (1.2 mA) both double: twice the charge moves at twice the rate.
+1. (a) After a long time there is no current, so ΔV_C = ℰ and C = Q/ℰ = 3.0 × 10⁻³ C ÷ 12 V = **250 μF**. τ = RC = (20 × 10³ Ω)(250 × 10⁻⁶ F) = **5.0 s**. At first the capacitor acts like a wire: I₀ = ℰ/R = **0.60 mA**.
+2. (b) 5.0 s is one time constant: ΔV_C ≈ 0.63 × 12 V ≈ **7.6 V**. The loop rule leaves 12 V − 7.6 V ≈ **4.4 V** across the resistor.
+3. (c) The claim is wrong. τ = RC does not contain the emf, so the capacitor still takes 5.0 s to reach 63% of its final charge. The final charge (6.0 mC) and starting current (1.2 mA) both double.
 
 **If you missed this:** read "Charging a capacitor through a resistor" and "The time constant τ = RC" in the [Topic 11.8 study guide](/advanced-course-resources/physics-2/11-8-resistor-capacitor-rc-circuits-study-guide/).
 </details>
 
 ## Your next step
 
-Mark each question. Count a short answer as wrong if any part is missing, and any answer as wrong if it was a guess.
+Mark each question. Count a short answer as wrong if any part is missing, and a guess as wrong.
 
 | Topic | Question(s) | If you missed it, read |
 |---|---|---|

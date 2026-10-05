@@ -36,9 +36,9 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-**What this is for.** This diagnostic helps you decide which Unit 3 (Work, Energy, and Power) topics to revisit. It has at least one question per topic, more for Topics 3.2 to 3.4, and three short written questions. These are **original Marlbridge practice questions**, not past exam questions. The set is not calibrated against real exam results, so it **does not give a predicted score**. Treat each wrong answer as a pointer to one topic, not as a grade.
+**What this is for.** This diagnostic helps you decide which Unit 3 (Work, Energy, and Power) topics to revisit. It covers every topic, with extra questions on Topics 3.2 to 3.4. These are **original Marlbridge practice questions**, not past exam questions. The set is not calibrated against real exam results, so it **does not give a predicted score**. Treat each wrong answer as a pointer to one topic, not as a grade.
 
-**How to sit it.** Allow about 30 minutes without notes. Use a calculator for arithmetic, roots and exponentials, but do the calculus by hand. Use g = 9.8 m/s². Positions are in m, forces in N, energies in J and speeds in m/s; each coefficient carries the unit that makes its term correct.
+**How to sit it.** Allow about 30 minutes without notes. Use a calculator for arithmetic, roots and exponentials, but do the calculus by hand. Use g = 9.8 m/s². Quantities are in SI units; each coefficient carries the unit that makes its term correct.
 
 ## Question 1 (multiple choice · 3.1)
 
@@ -63,23 +63,23 @@ Take **+x forward**. A 60 kg traveller walks forward at 1.5 m/s **relative to a 
 
 ## Question 2 (multiple choice · 3.2)
 
-Take **+x along a level track**. A force F_x = 9.0 − 1.0x² acts on a cart as it moves from x = 0 to x = 3.0 m. How much work does this force do?
+Take **+x along a level floor**. A cable pulls a crate with a horizontal force F_x = 2.0 + 3.0x² as the crate moves from x = 0 to x = 2.0 m. How much work does the cable do?
 
-- (A) 0
-- (B) 14 J
-- (C) 18 J
-- (D) 27 J
+- (A) 4.0 J
+- (B) 10 J
+- (C) 12 J
+- (D) 16 J
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** Integrate: W = ∫₀³ (9.0 − 1.0x²) dx = [9.0x − x³/3]₀³ = 27 − 9.0 = 18 J.
+**Answer: (C).** Integrate: W = ∫₀² (2.0 + 3.0x²) dx = [2.0x + x³]₀² = 4.0 + 8.0 = 12 J.
 
-- (A) uses the final force, 0, for the whole distance.
-- (B) multiplies the mean of the end forces, 4.5 N, by 3.0 m. That works only for a **linear** F(x).
-- (D) uses the starting force for the whole distance, overestimating the area under the F–x graph.
+- (A) uses the starting force, 2.0 N, for the whole distance.
+- (B) uses the midpoint force, 5.0 N. That works only for a **linear** F(x).
+- (D) uses the mean of the end forces, 8.0 N. Also linear-only; this graph curves upward.
 
-**If you missed this:** read "Variable forces: integrate along the path" and Worked example 1 in the [Topic 3.2 study guide](/advanced-course-resources/physics-c-mechanics/3-2-work-study-guide/).
+**If you missed this:** read "Variable forces: integrate along the path" in the [Topic 3.2 study guide](/advanced-course-resources/physics-c-mechanics/3-2-work-study-guide/).
 </details>
 
 ## Question 3 (multiple choice · 3.2)
@@ -94,9 +94,9 @@ A crate sits on the flat bed of a truck. The truck speeds up along a level road,
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** The crate speeds up, so the net work on it is positive. The only horizontal force is static friction, pointing forward, and in the road's frame its point of application moves forward: W = F‖d > 0.
+**Answer: (B).** The crate speeds up, so the net work on it is positive. The only horizontal force is static friction, forward, and in the road's frame its point of application moves forward: W > 0.
 
-- (A) confuses "no sliding" with "no displacement". The surfaces do not slide **relative to each other**, but both move relative to the road.
+- (A) "No sliding" is not "no displacement". Crate and truck move together relative to the road.
 - (C) The normal force is perpendicular to the displacement.
 - (D) uses the truck's frame. Work, like kinetic energy, depends on the frame.
 
@@ -136,7 +136,7 @@ A planet has mass M and radius R. A probe of mass m is moved from the surface to
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** With U_g = −GMm/r: ΔU_g = −GMm/(3R) − (−GMm/R) = GMm(1 − ⅓)/R = +2GMm/(3R). It is positive: the probe moves away against the attraction.
+**Answer: (B).** With U_g = −GMm/r: ΔU_g = −GMm/(3R) − (−GMm/R) = GMm(1 − ⅓)/R = +2GMm/(3R). Positive: the probe moves away against the attraction.
 
 - (A) has the sign reversed. U_g rises towards zero as r grows.
 - (C) uses 1/r², as for force. Potential energy goes as 1/r.
@@ -170,17 +170,17 @@ A vertical toy launcher has an ideal spring with k = 500 N/m. A 0.20 kg ball sit
 
 A constant net force speeds a 2.0 kg cart up from rest to 6.0 m/s in 3.0 s. What is the power of the net force at t = 3.0 s, and the average power over the 3.0 s?
 
-- (A) 24 W at 3.0 s; 24 W average
-- (B) 24 W at 3.0 s; 12 W average
+- (A) 24 W at 3.0 s; 12 W average
+- (B) 24 W at 3.0 s; 24 W average
 - (C) 12 W at 3.0 s; 12 W average
 - (D) 12 W at 3.0 s; 24 W average
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** a = 6.0 ÷ 3.0 = 2.0 m/s², so F = 4.0 N. At 3.0 s, P = Fv = 4.0 × 6.0 = 24 W. Average: P_avg = ΔK/Δt = ½(2.0)(6.0)² ÷ 3.0 = 36 ÷ 3.0 = 12 W. With a constant force from rest, P rises linearly, so the average is half the final value.
+**Answer: (A).** a = 6.0 ÷ 3.0 = 2.0 m/s², so F = 4.0 N. At 3.0 s, P = Fv = 4.0 × 6.0 = 24 W. Average: P_avg = ΔK/Δt = ½(2.0)(6.0)² ÷ 3.0 = 36 ÷ 3.0 = 12 W. With a constant force from rest, P rises linearly, so the average is half the final value.
 
-- (A) treats the final power as the average, but Fv grows during the push.
+- (B) treats the final power as the average, but Fv grows during the push.
 - (C) uses the average for the instant too.
 - (D) swaps the two values.
 
@@ -202,17 +202,17 @@ Take **+x along a level, frictionless track**. A 0.60 kg cart passes x = 0 at +1
 
 **(b)** Only the push does work, so W = ΔK. K₀ = 0.30 J, so K = 5.49 J and v = √(2 × 5.49 ÷ 0.60) = **4.3 m/s**.
 
-**(c)** F × d needs a **constant** force. This force falls from 3.0 N, so the work is the area under the F–x curve, much less than the 3.0 N × 4.0 m rectangle.
+**(c)** F × d needs a **constant** force. This force fades, so the work is the area under the F–x curve, far below the 12 J rectangle.
 
 **If you missed this:** work through Worked example 1 in the [Topic 3.2 study guide](/advanced-course-resources/physics-c-mechanics/3-2-work-study-guide/).
 </details>
 
 ## Question 9 (short answer · 3.4)
 
-Take **+x to the right**, x > 0. A 0.25 kg bead slides without friction on a wire. Its system has U(x) = 0.50x² + 8.0/x.
+Take **+x to the right**, x > 0. A 0.25 kg glider moves without friction on an air track. Its system has U(x) = 0.50x² + 8.0/x.
 
 (a) Find the equilibrium position and show whether it is stable.
-(b) The bead is released from rest at x = 1.0 m. Find the force on it there.
+(b) The glider is released from rest at x = 1.0 m. Find the force on it there.
 (c) Find its speed as it passes the equilibrium position.
 (d) Find the other turning point.
 
@@ -227,7 +227,7 @@ Take **+x to the right**, x > 0. A 0.25 kg bead slides without friction on a wir
 
 **(d)** Set U = E: 0.50x² + 8.0/x = 8.5, so x³ − 17x + 16 = 0. x = 1.0 (the release point) is one root; the other factor, x² + x − 16 = 0, gives **x = 3.5 m** (3.53 m).
 
-**If you missed this:** for (c) and (d), read Worked example 1 in the [Topic 3.4 study guide](/advanced-course-resources/physics-c-mechanics/3-4-conservation-energy-study-guide/); for (a) and (b), "Equilibrium and stability" in the [Topic 3.3 study guide](/advanced-course-resources/physics-c-mechanics/3-3-potential-energy-study-guide/).
+**If you missed this:** for (c) and (d), read Worked example 1 in the [Topic 3.4 study guide](/advanced-course-resources/physics-c-mechanics/3-4-conservation-energy-study-guide/); for (a) and (b), "Equilibrium and stability on a U(x) graph" in the [Topic 3.3 study guide](/advanced-course-resources/physics-c-mechanics/3-3-potential-energy-study-guide/).
 </details>
 
 ## Question 10 (short answer · 3.5)
@@ -247,7 +247,7 @@ An e-bike and rider have a total mass of 90 kg on a level road. Model the total 
 
 **(c)** Driving force P/v = 83 N; resistive force 0.30 × 6.0² = 10.8 N. a = (83.3 − 10.8) ÷ 90 = **0.81 m/s²**.
 
-**If you missed this:** read "Instantaneous power: P = dW/dt = F·v" and Worked example 2 in the [Topic 3.5 study guide](/advanced-course-resources/physics-c-mechanics/3-5-power-study-guide/).
+**If you missed this:** read "Instantaneous power: P = dW/dt = F·v" and "Net power and kinetic energy" in the [Topic 3.5 study guide](/advanced-course-resources/physics-c-mechanics/3-5-power-study-guide/).
 </details>
 
 ## Your next step
@@ -264,10 +264,10 @@ Mark each question. Count a short answer as missed if any part went wrong.
 
 ## How to use your result
 
-- **Read every explanation, even for questions you got right.** A right answer for a wrong reason is still a gap.
+- **Read every explanation, even for questions you got right.** A lucky guess is still a gap.
 - **Missed one question in a topic?** Read the named section, then try that topic's practice set.
 - **Missed two or more in a topic?** Work through that topic's whole study guide, then its practice set and checklist.
-- **Missed questions across several topics?** Start with Topic 3.2. Work integrals and the work–energy theorem feed every other topic.
+- **Missed questions across several topics?** Start with Topic 3.2; work integrals feed every other topic.
 - **Got everything right?** Go to the [mixed unit review](/advanced-course-resources/physics-c-mechanics/unit-3-review/), where each question combines topics.
 
-Your result here is a guide to what to study next. It does not predict an exam score.
+Your result guides what to study next. It does not predict an exam score.

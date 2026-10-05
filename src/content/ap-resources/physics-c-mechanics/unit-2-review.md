@@ -87,38 +87,38 @@ A satellite moves in a circular orbit at a height above Earth's surface equal to
 
 A coin sits on a turntable spinning at a steady 0.75 revolutions per second. For coin and turntable, μ_s = 0.30 and μ_k = 0.20. What is the greatest distance from the axis at which the coin can ride without slipping?
 
-- (A) 0.088 m
-- (B) 0.13 m
-- (C) 0.83 m
-- (D) 5.2 m
+- (A) 5.2 m
+- (B) 0.83 m
+- (C) 0.13 m
+- (D) 0.088 m
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** Static friction is the only horizontal force, so it supplies the inward acceleration: m(2πf)²r ≤ μ_s mg. The mass cancels: r_max = μ_s g/(2πf)² = 2.94 ÷ 22.2 = **0.13 m**.
+**Answer: (C).** Static friction is the only horizontal force, so it supplies the inward acceleration: m(2πf)²r ≤ μ_s mg. The mass cancels: r_max = μ_s g/(2πf)² = 2.94 ÷ 22.2 = **0.13 m**.
 
-- (A) uses μ_k. The coin does not slide relative to the turntable, so static friction applies.
-- (C) uses 2πf² instead of (2πf)².
-- (D) leaves out 2π altogether, treating revolutions per second as rad/s.
+- (A) leaves out 2π altogether, treating revolutions per second as rad/s.
+- (B) uses 2πf² instead of (2πf)².
+- (D) uses μ_k. The coin does not slide relative to the turntable, so static friction applies.
 </details>
 
 ## Question 3 (multiple choice · mixed)
 
 A uniform rope of mass m lies straight on a smooth floor. A force F pulls its front end along the rope's line, so the rope accelerates. What is the tension at a point 0.30 of the rope's length from the **back** end?
 
-- (A) 0.30F
-- (B) 0.50F
-- (C) 0.70F
-- (D) F
+- (A) F
+- (B) 0.70F
+- (C) 0.50F
+- (D) 0.30F
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The whole rope has a = F/m. The piece behind the point has mass 0.30m, and its only horizontal force is the tension there: T = 0.30m × F/m = **0.30F**.
+**Answer: (D).** The whole rope has a = F/m. The piece behind the point has mass 0.30m, and its only horizontal force is the tension there: T = 0.30m × F/m = **0.30F**.
 
-- (B) is the tension at the midpoint.
-- (C) uses the mass in front of the point. That piece is pulled by F and held back by T.
-- (D) treats the rope as ideal. A rope with mass needs a net force on every piece to accelerate it.
+- (A) treats the rope as ideal. A rope with mass needs a net force on every piece to accelerate it.
+- (B) uses the mass in front of the point. That piece is pulled by F and held back by T.
+- (C) is the tension at the midpoint.
 </details>
 
 ## Question 4 (constructed response · mixed)

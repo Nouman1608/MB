@@ -118,7 +118,7 @@ Take **+x to the right**. On frictionless ice, a compressed spring sits between 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The spring's pushes on the two blocks are a third-law pair inside the system, so they cancel in ΣF. The only horizontal external force is 8.0 N, so a_cm = 8.0 ÷ 4.0 = 2.0 m/s².
+**Answer: (A).** The spring is inside the system. An ideal spring pushes the two blocks equally in opposite directions, so these internal forces cancel in ΣF. The only horizontal external force is 8.0 N, so a_cm = 8.0 ÷ 4.0 = 2.0 m/s².
 
 - (B) divides by one block's mass instead of the total mass.
 - (C) is right that the spring forces cancel, but forgets the external 8.0 N.

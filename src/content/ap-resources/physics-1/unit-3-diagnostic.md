@@ -84,18 +84,18 @@ A shopper pushes a loaded trolley 12 m along a level floor at **constant velocit
 A 4.0 kg parcel is slid 5.0 m along a rough, level floor from P to Q, then slid back along the same line to P. Kinetic friction is 7.0 N each way. The parcel is then lifted 0.90 m onto a shelf. What is the total work done on the parcel by friction, and by gravity, for the whole trip?
 
 - (A) friction 0 J; gravity −35 J
-- (B) friction −70 J; gravity −35 J
+- (B) friction −70 J; gravity +35 J
 - (C) friction −35 J; gravity −35 J
-- (D) friction −70 J; gravity +35 J
+- (D) friction −70 J; gravity −35 J
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** Friction is nonconservative. It opposes the motion on every metre of the 10 m path: −7.0 × 10 = −70 J. Gravity is conservative, so only the change in height counts: −mgh = −4.0 × 9.8 × 0.90 = −35 J. The sliding is level, so gravity does no work there.
+**Answer: (D).** Friction is nonconservative. It opposes the motion on every metre of the 10 m path: −7.0 × 10 = −70 J. Gravity is conservative, so only the change in height counts: −mgh = −4.0 × 9.8 × 0.90 = −35 J. The sliding is level, so gravity does no work there.
 
 - (A) uses the displacement for friction. The parcel ends where it started, but friction still acted all the way.
+- (B) gets gravity's sign wrong. The parcel rises while gravity points down.
 - (C) counts only one leg of the slide.
-- (D) gets gravity's sign wrong. The parcel rises while gravity points down.
 
 **If you missed this:** read "Conservative and nonconservative forces" and "Where friction's energy goes" in the [Topic 3.2 study guide](/advanced-course-resources/physics-1/3-2-work-study-guide/).
 </details>

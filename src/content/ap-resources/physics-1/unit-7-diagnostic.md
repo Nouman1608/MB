@@ -33,7 +33,7 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-This diagnostic is for the **algebra-based Physics 1 course**, Unit 7 (Oscillations). It shows you **which topics to revisit**. Allow about 30 minutes, then use the table at the end.
+This diagnostic is for the **algebra-based Physics 1 course**, Unit 7 (Oscillations). It shows you **which topics to revisit**. Allow about 30 minutes.
 
 These are **original Marlbridge practice questions**, not past exam questions. They have not been calibrated against real exam results, so your total does not predict an exam score. Use a scientific calculator, in **radian mode** whenever you work out sin(2πft) or cos(2πft), and g = 9.8 m/s². Springs and strings are ideal, surfaces are frictionless, pendulums swing through small angles, and air resistance is negligible unless stated.
 
@@ -70,7 +70,7 @@ A pendulum has a 0.40 kg bob on a string 0.50 m long. The string makes an angle 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (D).** The weight has lever arm ℓ sin θ about the pivot, so τ = mgℓ sin θ ≈ mgℓθ = 0.40 × 9.8 × 0.50 × 0.10 = 0.196 N·m. Because the torque is proportional to θ at small angles, the pendulum can be modelled as SHM.
+**Answer: (D).** The weight has lever arm ℓ sin θ about the pivot, so τ = mgℓ sin θ ≈ mgℓθ = 0.40 × 9.8 × 0.50 × 0.10 = 0.196 N·m. The torque is proportional to θ, so the motion is SHM.
 
 - (A) is mgℓ. It leaves out the angle, which sets the lever arm.
 - (B) is mgθ, a force. It leaves out the length of the lever arm.
@@ -94,7 +94,7 @@ A block on one spring oscillates with a period of 0.60 s. It is replaced by a bl
 **Answer: (B).** T = 2π√(m/k), so T depends on m/k. The ratio becomes 4m ÷ 2k = 2(m/k), so T is multiplied by √2: 0.60 × 1.41 = 0.85 s.
 
 - (A) uses only the mass change (× √4 = 2), or forgets the square root.
-- (C) assumes the two changes cancel. The mass rose by more than the stiffness.
+- (C) assumes the two changes cancel. The mass rose more than the stiffness.
 - (D) uses only the spring change (÷ √2).
 
 **If you missed this:** read "Factor-of-change reasoning" in the [Topic 7.2 study guide](/advanced-course-resources/physics-1/7-2-frequency-period-shm-study-guide/).
@@ -102,19 +102,19 @@ A block on one spring oscillates with a period of 0.60 s. It is replaced by a bl
 
 ## Question 4 (multiple choice · 7.2)
 
-A museum wants a pendulum that swings with a frequency of 0.50 Hz. About how long must it be?
+A museum wants a pendulum that swings with a frequency of 0.40 Hz. About how long must it be?
 
-- (A) 0.062 m
-- (B) 0.99 m
-- (C) 0.50 m
-- (D) 39 m
+- (A) 0.040 m
+- (B) 1.6 m
+- (C) 0.62 m
+- (D) 61 m
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** First the period: T = 1/f = 2.0 s. Then square T = 2π√(ℓ/g) and rearrange: ℓ = gT² ÷ 4π² = 9.8 × 4.0 ÷ 39.5 = 0.99 m.
+**Answer: (B).** First the period: T = 1/f = 2.5 s. Then square T = 2π√(ℓ/g) and rearrange: ℓ = gT² ÷ 4π² = 9.8 × 6.25 ÷ 39.5 = 1.6 m.
 
-- (A) puts the frequency, 0.50, in place of the period.
+- (A) puts the frequency, 0.40, in place of the period.
 - (C) forgets to square T.
 - (D) leaves out the 4π².
 
@@ -154,9 +154,9 @@ Two identical spring–block systems sit side by side. Block P is released from 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** The period does not depend on the amplitude, so both blocks reach x = 0 together, after T/4. Q's restoring force and acceleration are three times as large at every matching point, so it builds up three times the speed.
+**Answer: (C).** The period does not depend on the amplitude, so both blocks reach x = 0 together, after T/4. Q's force and acceleration are three times as large at every matching point, so it reaches three times the speed.
 
-- (A) and (D) assume a bigger amplitude takes longer. The larger force makes Q cover its longer path in the same time.
+- (A) and (D) assume a bigger amplitude takes longer. The larger force lets Q cover its longer path in the same time.
 - (B) gets the timing right but forgets that Q covers three times the distance in the same time.
 
 **If you missed this:** read "Amplitude does not change the period" in the [Topic 7.3 study guide](/advanced-course-resources/physics-1/7-3-representing-analyzing-shm-study-guide/).
@@ -174,7 +174,7 @@ A pendulum bob passes through its lowest point at 0.70 m/s. Taking the bob–Ear
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (D).** The total energy is constant: all kinetic at the bottom, all gravitational potential at the top. ½mv² = mgh, so h = v² ÷ 2g = 0.49 ÷ 19.6 = 0.025 m. The mass cancels, which is why it is not given.
+**Answer: (D).** All kinetic energy at the bottom becomes gravitational potential energy at the top: ½mv² = mgh, so h = v² ÷ 2g = 0.49 ÷ 19.6 = 0.025 m. The mass cancels, which is why it is not given.
 
 - (A) drops the ½ in the kinetic energy.
 - (B) uses v instead of v².
@@ -199,7 +199,7 @@ A block oscillates on a spring with amplitude A. The spring is replaced by one w
 
 - (B) gives the speed the same factor as the energy. Kinetic energy goes with v², so the speed only doubles.
 - (C) assumes the same amplitude means the same energy. The stiffer spring stores more energy at the same stretch.
-- (D) takes a square root for the energy, and has the period growing. A stiffer spring turns the block round faster, so the period gets shorter.
+- (D) takes a square root for the energy, and has the period growing. A stiffer spring gives a shorter period.
 
 **If you missed this:** read "Trading energy back and forth" and "Quick checks with extreme cases" in the [Topic 7.4 study guide](/advanced-course-resources/physics-1/7-4-energy-simple-harmonic-oscillators-study-guide/).
 </details>
@@ -242,9 +242,9 @@ Take **+x to the right** of equilibrium. A 0.60 kg cart on a level, frictionless
 
 **(b)** U = ½ × 60 × 0.060² = 0.108 J, so K = 0.30 − 0.108 = 0.192 J and v = √(2 × 0.192 ÷ 0.60) = **0.80 m/s**. a_x = −(k/m)x = −100 × (−0.060) = **+6.0 m/s²**, to the right, toward equilibrium.
 
-**(c)** T = 2π√(0.60 ÷ 60) = 0.63 s. K is largest each time the cart passes x = 0: at T/4 = **0.16 s** and 3T/4 = **0.47 s**. It peaks twice per period.
+**(c)** T = 2π√(0.60 ÷ 60) = 0.63 s. K is largest each time the cart passes x = 0: at T/4 = **0.16 s** and 3T/4 = **0.47 s**.
 
-**(d)** **Incorrect.** With no friction the **total** energy is 0.30 J everywhere. Only the share changes: all kinetic at equilibrium, all spring potential energy at the turning points.
+**(d)** **Incorrect.** With no friction the **total** energy is 0.30 J everywhere. Only the share between K and U changes.
 
 Check yourself: 1 point each for 0.30 J and 1.0 m/s, 0.80 m/s from E − U, +6.0 m/s² with direction, both times in (c), and rejecting the claim because the total is constant.
 
@@ -264,8 +264,8 @@ Mark each question right or wrong. Count Questions 9 and 10 as right only if you
 
 ## How to use your result
 
-- **Missed one question in a topic?** Re-read the section named in that answer, then try the topic's practice set.
-- **Missed two or more questions in a topic?** Start again with that study guide, including its worked examples, before doing any mixed practice.
+- **Missed one in a topic?** Re-read the section named in that answer, then try the topic's practice set.
+- **Missed two or more in a topic?** Restart that study guide, including its worked examples, before mixed practice.
 - **Guessed?** Treat the question as missed.
-- **Look for patterns.** Errors in Questions 3, 6 and 8 usually point to the square-root rule. Errors in Questions 2 and 5 often come from degree mode. Errors in Questions 1 and 10(b) are usually sign errors.
-- **All correct?** Move straight to the [mixed unit review](/advanced-course-resources/physics-1/unit-7-review/), which combines the topics in longer exam-style questions.
+- **Look for patterns.** Errors in Questions 3 and 8 usually point to the square-root rule; in 2 and 5, to degree mode; in 1 and 10(b), to signs.
+- **All correct?** Move straight to the [mixed unit review](/advanced-course-resources/physics-1/unit-7-review/).

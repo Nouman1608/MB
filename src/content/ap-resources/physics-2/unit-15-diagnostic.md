@@ -35,12 +35,12 @@ author: "marlbridge-academic-team"
 
 ## What this diagnostic is for
 
-Use this short check to find which topics in Unit 15 (Modern Physics) to revisit. It has eight multiple-choice and three short-answer questions. These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated against real exam results, and your total does not predict a score. What matters is **which** questions you miss.
+Use this check to find which topics in Unit 15 (Modern Physics) to revisit. It has eight multiple-choice and three short-answer questions. These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated against real exam results, and your total does not predict a score. What matters is **which** questions you miss.
 
 How to take it:
 
-- Work without notes, in about 30 minutes, and write a reason for each answer.
-- A scientific calculator is allowed. Data: h = 6.63 × 10⁻³⁴ J·s = 4.14 × 10⁻¹⁵ eV·s; c = 3.00 × 10⁸ m/s; hc = 1240 eV·nm; 1 eV = 1.60 × 10⁻¹⁹ J; mₑ = 9.11 × 10⁻³¹ kg; neutron mass 1.67 × 10⁻²⁷ kg; Wien's constant b = 2.898 × 10⁻³ m·K; h/(mₑc) = 2.43 pm.
+- Work without notes for about 30 minutes, and write a reason for each answer.
+- A scientific calculator is allowed. Data: hc = 1240 eV·nm; 1 eV = 1.60 × 10⁻¹⁹ J; mₑ = 9.11 × 10⁻³¹ kg; neutron mass 1.67 × 10⁻²⁷ kg; h/(mₑc) = 2.43 pm.
 - Open each answer only after you have committed to your own.
 
 ## Question 1 (multiple choice · 15.1)
@@ -55,7 +55,7 @@ A neutron and an electron have the same de Broglie wavelength. Which statement i
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** λ = h/p, so the same λ means the same momentum. With equal p, K = p²/(2m), so the lighter particle has more kinetic energy: about 1833 times more for the electron.
+**Answer: (C).** λ = h/p, so the same λ means the same momentum. With equal p, K = p²/(2m), so the electron has about 1833 times more kinetic energy.
 
 - (A) treats λ as depending on speed alone. It depends on mv.
 - (B) forgets that K depends on mass too.
@@ -66,7 +66,7 @@ A neutron and an electron have the same de Broglie wavelength. Which statement i
 
 ## Question 2 (multiple choice · 15.2)
 
-In the Bohr model of hydrogen, the electron moves from the n = 2 orbit to the n = 4 orbit. Which row is correct for the n = 4 orbit compared with the n = 2 orbit?
+In the Bohr model of hydrogen, which row compares the n = 4 orbit correctly with the n = 2 orbit?
 
 - (A) Radius × 2, speed × ½, de Broglie wavelength × 2
 - (B) Radius × 4, speed × ½, de Broglie wavelength × 2
@@ -79,7 +79,7 @@ In the Bohr model of hydrogen, the electron moves from the n = 2 orbit to the n 
 **Answer: (B).** Allowed radii are r = n²r₁, so r is multiplied by (4/2)² = 4. The force condition gives v ∝ 1/√r, so v halves. Then λ = h/(mₑv) doubles.
 
 - (A) uses r ∝ n instead of n².
-- (C) makes the electron faster further out, where the force is weaker.
+- (C) makes the electron faster where the force is weaker.
 - (D) forgets that λ = h/(mₑv) changes when v changes.
 
 **If you missed this:** read "Why only some orbits: the standing-wave picture" in the [Topic 15.2 study guide](/advanced-course-resources/physics-2/15-2-bohr-model-atomic-structure-study-guide/).
@@ -87,7 +87,7 @@ In the Bohr model of hydrogen, the electron moves from the n = 2 orbit to the n 
 
 ## Question 3 (multiple choice · 15.3)
 
-**Atom Q** (also used in Question 9) is a single-electron atom with levels n = 1: −11.0 eV; n = 2: −4.8 eV; n = 3: −2.4 eV; n = 4: −1.2 eV. White light containing every wavelength from 100 nm to 1100 nm passes through a cool gas of atom Q, with every atom in the ground state. At which wavelength is there a dark line?
+**Atom Q** (also used in Question 9) is a single-electron atom with levels n = 1: −11.0 eV; n = 2: −4.8 eV; n = 3: −2.4 eV; n = 4: −1.2 eV. Light with every wavelength from 100 nm to 1100 nm passes through a cool gas of atom Q, all in the ground state. At which wavelength is there a dark line?
 
 - (A) 1033 nm
 - (B) 517 nm
@@ -100,7 +100,7 @@ In the Bohr model of hydrogen, the electron moves from the n = 2 orbit to the n 
 **Answer: (D).** A ground-state atom absorbs only photons that take it from n = 1 to another level. The 1 → 2 gap is 6.2 eV, and 1240 ÷ 6.2 = 200 nm.
 
 - (A) is the 3 → 4 gap (1.2 eV), which does not start from the ground state.
-- (B) is the 2 → 3 gap (2.4 eV): a real emission line, but a cool gas has almost no atoms in n = 2 to absorb it.
+- (B) is the 2 → 3 gap (2.4 eV): an emission line, but a cool gas has almost no atoms in n = 2.
 - (C) is the 2 → 4 gap (3.6 eV), also from an excited state.
 
 **If you missed this:** read "Line spectra and what they tell you" in the [Topic 15.3 study guide](/advanced-course-resources/physics-2/15-3-emission-absorption-spectra-study-guide/).
@@ -129,7 +129,7 @@ A blackbody is heated. Its peak wavelength moves from 1000 nm to 800 nm. Its sur
 
 ## Question 5 (multiple choice · 15.5)
 
-Light of frequency f ejects electrons from a metal with a maximum kinetic energy of 1.0 eV. Light of frequency 2f ejects electrons from the same metal with a maximum kinetic energy of 4.0 eV. What is the work function of the metal?
+Light of frequency f ejects electrons from a metal with maximum kinetic energy 1.0 eV. Light of frequency 2f gives a maximum kinetic energy of 4.0 eV with the same metal. What is the work function of the metal?
 
 - (A) 1.0 eV
 - (B) 3.0 eV
@@ -141,7 +141,7 @@ Light of frequency f ejects electrons from a metal with a maximum kinetic energy
 
 **Answer: (C).** K_max = hf − φ. So hf − φ = 1.0 eV and 2hf − φ = 4.0 eV. Subtracting gives hf = 3.0 eV, so φ = 3.0 − 1.0 = 2.0 eV.
 
-- (A) is K_max at the lower frequency, the energy left over, not the energy used up.
+- (A) is K_max at the lower frequency, the energy left over.
 - (B) is the photon energy hf at the lower frequency, not the work function.
 - (D) is K_max at the higher frequency.
 
@@ -181,9 +181,9 @@ Two light nuclei fuse into one heavier nucleus and a neutron, and energy is rele
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (D).** Total energy, including rest energy, is conserved. The products gain kinetic energy, so their rest energy and mass are lower (E = Δmc²). Less mass for the same nucleons means a larger binding energy.
+**Answer: (D).** Total energy, including rest energy, is conserved. The products gain kinetic energy, so their rest energy and mass are lower (E = Δmc²): they are more tightly bound.
 
-- (A) is wrong because mass is not conserved in nuclear reactions. Nucleon number is.
+- (A) Mass is not conserved in nuclear reactions. Nucleon number is.
 - (B) is backwards: released energy comes from a **decrease** in mass.
 - (C) breaks conservation of nucleon number. No nucleons disappear.
 
@@ -236,7 +236,6 @@ Light of wavelength 310 nm falls on a metal plate. The stopping potential is 1.5
 (a) Calculate the work function of the metal.
 (b) Calculate the threshold wavelength.
 (c) The intensity is tripled at the same wavelength. State what happens to the stopping potential and to the current before any stopping potential is applied.
-(d) Calculate the stopping potential for light of wavelength 248 nm.
 
 <details>
 <summary>Worked answer</summary>
@@ -244,25 +243,24 @@ Light of wavelength 310 nm falls on a metal plate. The stopping potential is 1.5
 1. (a) E = 1240 ÷ 310 = 4.00 eV. K_max = eV_s = 1.50 eV. So φ = 4.00 − 1.50 = **2.50 eV**.
 2. (b) λ₀ = 1240 ÷ 2.50 = **496 nm**.
 3. (c) The stopping potential is **unchanged**: each photon still has 4.00 eV. The current **triples**: three times as many photons per second free three times as many electrons.
-4. (d) E = 1240 ÷ 248 = 5.00 eV, so K_max = 2.50 eV and V_s = **2.50 V**.
 
 **If you missed this:** read "Measuring K_max: the stopping potential" in the [Topic 15.5 study guide](/advanced-course-resources/physics-2/15-5-photoelectric-effect-study-guide/).
 </details>
 
 ## Question 11 (short answer · 15.7)
 
-An invented isotope X has a half-life of 5.0 min. A sample starts with 1.2 × 10⁸ undecayed nuclei of X.
+Invented isotopes X and Y have half-lives of 5.0 min and 10.0 min. At t = 0 a sample holds 1.2 × 10⁸ undecayed nuclei of X and 4.0 × 10⁷ of Y.
 
-(a) Calculate the decay constant, in min⁻¹ and in s⁻¹.
-(b) Calculate how long it takes until 2.0 × 10⁷ nuclei of X remain.
-(c) Isotope Y has a half-life of 10.0 min. A sample of Y also starts with 1.2 × 10⁸ nuclei. How many remain at the time you found in (b)?
+(a) Calculate the decay constant of X, in min⁻¹ and in s⁻¹.
+(b) Calculate the time at which the numbers of undecayed X and Y nuclei are equal.
+(c) Calculate how many nuclei of each remain then.
 
 <details>
 <summary>Worked answer</summary>
 
-1. (a) λ = ln 2 ÷ t½ = 0.693 ÷ 5.0 min = **0.139 min⁻¹** = 0.1386 ÷ 60 s = **2.31 × 10⁻³ s⁻¹**.
-2. (b) N = N₀e^(−λt), so t = ln(N₀/N) ÷ λ = ln 6 ÷ 0.1386 min⁻¹ = **12.9 min**. Check: 1/6 = 16.7% left lies between 2 half-lives (25%) and 3 (12.5%).
-3. (c) Y's decay constant is half of X's, so N_Y = N₀e^(−λt/2) = 1.2 × 10⁸ × 2^(−12.92/10) = **4.9 × 10⁷**.
+1. (a) λ_X = ln 2 ÷ t½ = 0.693 ÷ 5.0 min = **0.139 min⁻¹** = 0.1386 ÷ 60 s = **2.31 × 10⁻³ s⁻¹**.
+2. (b) λ_Y = 0.0693 min⁻¹. Set 1.2 × 10⁸ e^(−λ_X t) = 4.0 × 10⁷ e^(−λ_Y t), so e^((λ_X − λ_Y)t) = 3 and t = ln 3 ÷ 0.0693 min⁻¹ = **15.8 min**.
+3. (c) e^(−λ_Y t) = 1/3, so N = 4.0 × 10⁷ ÷ 3 = **1.3 × 10⁷** of each. Check: X has (1/3)² = 1/9 left, and 1.2 × 10⁸ ÷ 9 = 1.3 × 10⁷.
 
 **If you missed this:** read "Radioactive decay is random" and Worked example 2 in the [Topic 15.7 study guide](/advanced-course-resources/physics-2/15-7-fission-fusion-nuclear-decay-study-guide/).
 </details>
@@ -285,6 +283,6 @@ Count a short answer as wrong if any part is missing, and any answer as wrong if
 ## How to use your result
 
 - **Start with the topic where you missed the most.** Read its study guide, then do that topic's practice questions.
-- **Look at why you missed it.** Each explanation names the mistake behind a distractor. A unit slip (eV and joules, radian mode) needs a habit, not a full re-read.
-- **Missed nothing?** Go straight to the [Unit 15 mixed review](/advanced-course-resources/physics-2/unit-15-review/). Its questions combine topics, which is harder.
+- **Look at why you missed it.** Each explanation names the mistake behind a distractor. A unit slip (eV and joules, radian mode) needs a habit, not a re-read.
+- **Missed nothing?** Go to the [Unit 15 mixed review](/advanced-course-resources/physics-2/unit-15-review/), where questions combine topics.
 - **Come back to this check** after a week of revision and answer again before opening the explanations.

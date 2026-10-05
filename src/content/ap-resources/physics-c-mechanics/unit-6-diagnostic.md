@@ -36,9 +36,9 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-**What this is for.** This diagnostic shows which Unit 6 (Energy and Momentum of Rotating Systems) topics to revisit. It has at least one question per topic and two short written questions. These are **original Marlbridge practice questions**, not past exam questions. It is not calibrated, so it **does not give a predicted score**. Treat a wrong answer as a pointer to a topic, not a grade.
+**What this is for.** This diagnostic shows which Unit 6 (Energy and Momentum of Rotating Systems) topics to revisit. It has at least one question per topic and two short written questions. These are **original Marlbridge practice questions**, not past exam questions. It is not calibrated, so it **does not give a predicted score**.
 
-**How to sit it.** Allow about 30 minutes without notes. A calculator is fine for arithmetic (the course exam allows a four-function, scientific or graphing calculator). Use g = 9.8 m/s², radians and rad/s. You may use I = ½MR² for a uniform disc or solid cylinder.
+**How to sit it.** Allow about 30 minutes without notes. A calculator is fine for arithmetic. Use g = 9.8 m/s², radians and rad/s. You may use I = ½MR² for a uniform disc or solid cylinder.
 
 ## Question 1 (multiple choice · 6.1)
 
@@ -94,7 +94,7 @@ Take **+x to the right, +y up and +z out of the page**. A 0.40 kg puck is at r =
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** L = r × p = m(x v_y − y v_x) k̂ = 0.40 × (3.0 × 0 − 4.0 × 2.0) k̂ = −3.2 k̂ kg·m²/s. The lever arm is the perpendicular distance from O to the line of motion, 4.0 m. Seen from +z, the puck goes clockwise round O: the −z sense.
+**Answer: (B).** L = r × p = m(x v_y − y v_x) k̂ = 0.40 × (3.0 × 0 − 4.0 × 2.0) k̂ = −3.2 k̂ kg·m²/s. The lever arm is 4.0 m, the perpendicular distance from O to the line of motion. Seen from +z, the puck goes clockwise round O: the −z sense.
 
 - (A) has the wrong direction; use the right-hand rule.
 - (C) uses |r| = 5.0 m instead of the perpendicular distance.
@@ -129,18 +129,18 @@ Take **counterclockwise as positive**. A wheel with I = 0.15 kg·m² is turning 
 A merry-go-round turns freely on a frictionless axle. A child sitting at its rim holds a heavy bag, then simply **lets go**, so the bag leaves with the rim's velocity. What happens to the angular velocity of the merry-go-round and child?
 
 - (A) It increases, because the rotational inertia falls and angular momentum is conserved.
-- (B) It stays the same, because the bag carries away exactly the angular momentum it had.
-- (C) It decreases, because the bag takes angular momentum away.
-- (D) It increases, because the bag pushes back on the rim as it leaves.
+- (B) It decreases, because the bag takes angular momentum away.
+- (C) It increases, because the bag pushes back on the rim as it leaves.
+- (D) It stays the same, because the bag carries away exactly the angular momentum it had.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** Before release, the bag's angular momentum is m_bag R²ω. Just after, it moves at Rω, so it still has m_bag R²ω about the axle. No force acts between bag and rim at release, so the merry-go-round and child keep (I_mgr + I_child)ω: their ω does not change.
+**Answer: (D).** Before release, the bag's angular momentum is m_bag R²ω. Just after, it moves at Rω, so it still has m_bag R²ω about the axle. No force acts between bag and rim at release, so the merry-go-round and child keep (I_mgr + I_child)ω: their ω does not change.
 
 - (A) removes the bag's rotational inertia but not its angular momentum.
-- (C) forgets that the bag also takes its rotational inertia, in proportion.
-- (D) would need the child to **throw** the bag backward.
+- (B) forgets that the bag also takes its rotational inertia, in proportion.
+- (C) would need the child to **throw** the bag backward.
 
 **If you missed this:** read "Choosing the system" in the [Topic 6.4 study guide](/advanced-course-resources/physics-c-mechanics/6-4-conservation-angular-momentum-study-guide/).
 </details>
@@ -170,19 +170,19 @@ A uniform solid cylinder rolls without slipping at 3.0 m/s onto a rough ramp, an
 
 Take **+x to the right**. A ball spinning **clockwise** (the sense of rolling to the right) is set down on a level floor with its centre at rest. Which statement is correct while it slips?
 
-- (A) Kinetic friction points to the right; it speeds up the centre, slows the spin, and the total kinetic energy falls.
+- (A) v_cm = rω from the moment the ball touches the floor, because the floor is rough.
 - (B) Kinetic friction points to the left; it slows the spin, and the centre stays at rest until rolling begins.
 - (C) Kinetic friction points to the right; it speeds up the centre and slows the spin, but the total kinetic energy stays constant.
-- (D) v_cm = rω from the moment the ball touches the floor, because the floor is rough.
+- (D) Kinetic friction points to the right; it speeds up the centre, slows the spin, and the total kinetic energy falls.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The bottom of a ball spinning clockwise moves to the **left** relative to the floor, so kinetic friction acts to the right. It accelerates the centre to the right, and its torque about the centre opposes the spin. The contact point slides, so friction dissipates energy until v_cm = rω.
+**Answer: (D).** The bottom of a ball spinning clockwise moves to the **left** relative to the floor, so kinetic friction acts to the right. It accelerates the centre to the right, and its torque about the centre opposes the spin. The contact point slides, so friction dissipates energy until v_cm = rω.
 
+- (A) is the end state. While slipping, v_cm and ω are not linked.
 - (B) gets the direction wrong: friction opposes the sliding of the contact point, and any net force moves the centre.
 - (C) forgets that sliding friction dissipates energy.
-- (D) is the end state. While slipping, v_cm and ω are not linked.
 
 **If you missed this:** read "Rolling while slipping" in the [Topic 6.5 study guide](/advanced-course-resources/physics-c-mechanics/6-5-rolling-study-guide/).
 </details>
@@ -263,7 +263,7 @@ Mark each question. Count a short answer as missed if any part went wrong.
 
 ## How to use your result
 
-- **Read every explanation, even for questions you got right.** A right answer for a wrong reason is still a gap.
+- **Read every explanation, even for questions you got right.**
 - **Missed one question in a topic?** Read the named section, then try that topic's practice set. **Missed two or more?** Work through the whole study guide, then its practice set and checklist.
 - **Missed questions across several topics?** Start with Topics 6.1 and 6.3: every later topic uses their two tools.
 - **Got everything right?** Go to the [mixed unit review](/advanced-course-resources/physics-c-mechanics/unit-6-review/), where each question combines topics.

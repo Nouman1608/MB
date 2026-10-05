@@ -36,7 +36,7 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-This review is for the **algebra-based Physics 1 course**, Unit 4 (Linear Momentum). It connects the topics and gives you mixed practice. Do the [unit diagnostic](/advanced-course-resources/physics-1/unit-4-diagnostic/) first if you have not yet done it.
+This review is for the **algebra-based Physics 1 course**, Unit 4 (Linear Momentum). Do the [unit diagnostic](/advanced-course-resources/physics-1/unit-4-diagnostic/) first.
 
 ## Big ideas of the unit
 
@@ -46,7 +46,7 @@ This review is for the **algebra-based Physics 1 course**, Unit 4 (Linear Moment
 - **Impulse J = F_avg Δt equals Δp.** It is the area under a force–time graph; force is the slope of a momentum–time graph. The same Δp over a longer time needs a smaller force ([Topic 4.2](/advanced-course-resources/physics-1/4-2-change-momentum-impulse-study-guide/)).
 - **Internal impulses cancel by the third law,** so without a net external force p_sys and v_cm stay constant ([Topic 4.3](/advanced-course-resources/physics-1/4-3-conservation-linear-momentum-study-guide/)).
 - **Your system decides whether momentum stays inside it.** Any change in p_sys equals the external impulse ([Topic 4.3](/advanced-course-resources/physics-1/4-3-conservation-linear-momentum-study-guide/)).
-- **In two dimensions, conserve each component.** Set up both equations and reason with them ([Topic 4.3](/advanced-course-resources/physics-1/4-3-conservation-linear-momentum-study-guide/)).
+- **In two dimensions, conserve each component separately** ([Topic 4.3](/advanced-course-resources/physics-1/4-3-conservation-linear-momentum-study-guide/)).
 - **Kinetic energy sorts collisions:** unchanged (elastic), decreased (inelastic), or decreased with one shared velocity (perfectly inelastic) ([Topic 4.4](/advanced-course-resources/physics-1/4-4-elastic-inelastic-collisions-study-guide/)).
 
 ## Key relationships and methods
@@ -70,56 +70,56 @@ These are **original Marlbridge practice questions**, not past exam questions. T
 
 Two carts are at rest on a level, frictionless track, with a compressed spring between them. Cart A has mass 2m and cart B has mass m. The spring is released and the carts move apart. Which statement is correct?
 
-- (A) The impulses are equal in size, and B ends with twice A's kinetic energy.
-- (B) The impulses are equal in size, and the carts end with equal kinetic energies.
+- (A) The impulses are equal in size, and the carts end with equal kinetic energies.
+- (B) The impulses are equal in size, and B ends with twice A's kinetic energy.
 - (C) A receives the larger impulse, so the carts end with equal speeds.
 - (D) B receives the larger impulse because it ends up moving faster.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Third-law forces of equal size act for the same time, so the impulses, and the final momenta, are equal in size. K = p² ÷ (2m) then gives K_B ÷ K_A = 2.
+**Answer: (B).** Third-law forces of equal size act for the same time, so the impulses, and the final momenta, are equal in size. K = p² ÷ (2m) then gives K_B ÷ K_A = 2.
 
-- (B) gets the impulses right but assumes equal momenta mean equal kinetic energies.
+- (A) gets the impulses right but assumes equal momenta mean equal kinetic energies.
 - (C) breaks the third law; equal speeds would also give the system non-zero momentum.
 - (D) mistakes B's larger velocity change, caused by its smaller mass, for a larger impulse.
 </details>
 
 ## Question 2 (multiple choice · mixed)
 
-Take **+x to the right**. Cart A (0.40 kg) moves at +1.5 m/s towards cart B (0.60 kg), which is at rest. A force sensor on B records a symmetric triangular force–time graph: from 0 up to a peak of 12 N and back to 0, over 0.050 s in total. Which is correct just after the collision?
+Take **+x to the right**. Cart A (0.40 kg) moves at +1.5 m/s towards cart B (0.60 kg), which is at rest. A force sensor on B records a symmetric triangular force–time graph: from 0 up to a peak of 12 N and back to 0, over 0.080 s in total. Which is correct just after the collision?
 
-- (A) B moves at +0.50 m/s, and the collision is inelastic.
-- (B) B moves at +0.50 m/s, and the collision is elastic because momentum is conserved.
-- (C) B moves at +1.0 m/s, and A stops.
-- (D) B moves at +0.50 m/s, and the carts stick together.
+- (A) B moves at +0.80 m/s, and the collision is elastic because momentum is conserved.
+- (B) B moves at +1.6 m/s, and A rebounds at −0.90 m/s.
+- (C) B moves at +0.80 m/s, and the carts stick together.
+- (D) B moves at +0.80 m/s, and the collision is inelastic.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Impulse on B = triangle area = ½ × 0.050 s × 12 N = 0.30 N·s, so v_B = 0.30 ÷ 0.60 = +0.50 m/s. By the third law A receives −0.30 N·s, so p_A = 0.60 − 0.30 = 0.30 kg·m/s and v_A = +0.75 m/s. K before = ½(0.40)(1.5)² = 0.45 J. K after = 0.1125 + 0.075 = 0.19 J. The total fell, so the collision is inelastic.
+**Answer: (D).** Impulse on B = triangle area = ½ × 0.080 s × 12 N = 0.48 N·s, so v_B = 0.48 ÷ 0.60 = +0.80 m/s. By the third law A receives −0.48 N·s, so p_A = 0.60 − 0.48 = 0.12 kg·m/s and v_A = +0.30 m/s. K before = ½(0.40)(1.5)² = 0.45 J. K after = 0.018 + 0.192 = 0.21 J. The total fell, so the collision is inelastic.
 
-- (B) uses momentum to classify. Momentum is conserved in every collision; only kinetic energy decides the type.
-- (C) uses the peak force for the whole 0.050 s (0.60 N·s).
-- (D) Stuck carts would share 0.60 m/s. Here A and B move at different velocities.
+- (A) uses momentum to classify. Momentum is conserved in every collision; only kinetic energy decides the type.
+- (B) uses the peak force for the whole 0.080 s (0.96 N·s). The kinetic energy would rise to 0.93 J.
+- (C) Stuck carts would share +0.60 m/s. Here A and B move at different velocities.
 </details>
 
 ## Question 3 (multiple choice · mixed)
 
 Take **+y up**. A rubber ball falls onto a concrete floor and bounces back up. Which statement about the short time the ball is in contact with the floor is correct?
 
-- (A) The ball's momentum changes, but the momentum of the ball–Earth system is constant: Earth's momentum changes by the same amount in the opposite direction.
-- (B) The ball's momentum is constant, because a bounce is a collision.
-- (C) The momentum of the ball–Earth system changes, because the floor exerts a very large force on the ball.
+- (A) The ball's momentum is constant, because a bounce is a collision.
+- (B) The momentum of the ball–Earth system changes, because the floor exerts a very large force on the ball.
+- (C) The ball's momentum changes, but the momentum of the ball–Earth system is constant: Earth's momentum changes by the same amount in the opposite direction.
 - (D) Momentum is not conserved, because the ball bounces back more slowly than it arrived.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** For the ball alone, the floor's push is external, so the ball's momentum reverses. For the ball–Earth system, that push and its third-law partner are internal, as is gravity. Earth gains an equal and opposite momentum, with an unnoticeable velocity change.
+**Answer: (C).** For the ball alone, the floor's push is external, so the ball's momentum reverses. For the ball–Earth system, that push and its third-law partner are internal, as is gravity. Earth gains an equal and opposite momentum, with an unnoticeable velocity change.
 
-- (B) misuses the collision model: momentum is constant only for **both** interacting objects together.
-- (C) The floor's force is large, but it is internal to the ball–Earth system.
+- (A) misuses the collision model: momentum is constant only for **both** interacting objects together.
+- (B) The floor's force is large, but it is internal to the ball–Earth system.
 - (D) A slower rebound shows kinetic energy being transformed, not momentum being lost.
 </details>
 
@@ -180,7 +180,7 @@ To find the mass m_A of a cart, a student places it at rest, back to back with c
 
 **(b)** m_A v_A = m_B v_B, so **v_A ÷ v_B = m_B ÷ m_A = (1 ÷ m_A) × m_B**. Plot **v_A ÷ v_B (vertical) against m_B (horizontal)**. It should be a straight line through the origin with slope 1 ÷ m_A.
 
-**(c)** Ratios: 0.52, 0.98, 1.53, 1.97, 2.49. They lie close to a straight line through the origin. A best-fit line through the origin has slope about **2.5 kg⁻¹** (2.49 kg⁻¹), so m_A = 1 ÷ 2.49 = **0.40 kg**.
+**(c)** Ratios: 0.52, 0.98, 1.53, 1.97, 2.49. A best-fit line through the origin has slope about **2.5 kg⁻¹** (2.49 kg⁻¹), so m_A = 1 ÷ 2.49 = **0.40 kg**.
 
 **(d)** Trial 3: impulse on B = m_B v_B = (0.60)(0.70) = 0.42 N·s; on A = (0.40)(1.07) = 0.43 N·s, in the opposite direction. They agree within about 2%, as the third law predicts.
 
@@ -215,9 +215,9 @@ Take **+x east and +y north**, looking down on smooth, level ice. A 0.20 kg puck
 **(c)** With v₁′ for the first puck and (v₂x, v₂y) for the second:
 x: 0.60 = (0.20)v₁′ + (0.40)v₂x
 y: 0.80 = 0 + (0.40)v₂y
-The y-equation has one unknown: **v₂y = +2.0 m/s** (north). 
+The y-equation has one unknown: **v₂y = +2.0 m/s** (north).
 
-**(d)** The second puck must still carry 0.80 kg·m/s of y-momentum. With twice the mass, its northward component **halves to 1.0 m/s**. The impulse on the first puck has y-component **−0.80 N·s** (south). It is equal and opposite to the y-impulse on the second puck.
+**(d)** The second puck must still carry 0.80 kg·m/s of y-momentum. With twice the mass, its northward component **halves to 1.0 m/s**. The impulse on the first puck has y-component **−0.80 N·s** (south).
 
 | Point | What earns it |
 |---|---|
@@ -274,7 +274,7 @@ Half the kinetic energy is transformed and the carts separate: **inelastic**, bu
 
 ## How did you do?
 
-Question 4 is worth 7 points and Questions 5–7 are worth 6 each (suggested Marlbridge rubric). Use the points you lost to choose what to study.
+Question 4 is worth 7 points; Questions 5–7 are worth 6 each. Use the points you lost to choose what to study.
 
 - **Questions 1, 6 or 7 (momentum, K = p² ÷ 2m):** [Topic 4.1 checklist](/advanced-course-resources/physics-1/4-1-linear-momentum-checklist/).
 - **Questions 2, 4, 6 or 7 (impulse, areas and slopes):** [Topic 4.2 checklist](/advanced-course-resources/physics-1/4-2-change-momentum-impulse-checklist/).

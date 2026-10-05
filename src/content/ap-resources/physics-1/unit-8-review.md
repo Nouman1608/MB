@@ -36,19 +36,19 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-This review is for the **algebra-based Physics 1 course**, Unit 8 (Fluids). It connects the topics and gives you mixed practice. Do the [unit diagnostic](/advanced-course-resources/physics-1/unit-8-diagnostic/) first if you have not yet done it.
+This review is for the **algebra-based Physics 1 course**, Unit 8 (Fluids). Do the [unit diagnostic](/advanced-course-resources/physics-1/unit-8-diagnostic/) first if you have not yet done it.
 
 ## Big ideas of the unit
 
 - **Particle interactions decide the state.** Liquids and gases have no fixed shape, so both are fluids ([Topic 8.1](/advanced-course-resources/physics-1/8-1-internal-structure-density-study-guide/)).
 - **Density describes the material, not the sample.** Average density (total mass ÷ total volume) decides whether an object floats ([Topic 8.1](/advanced-course-resources/physics-1/8-1-internal-structure-density-study-guide/)).
-- **Pressure is a scalar.** It makes a force PA perpendicular to any surface, and only the perpendicular part of a force makes pressure ([Topic 8.2](/advanced-course-resources/physics-1/8-2-pressure-study-guide/)).
+- **Pressure is a scalar.** It makes a force PA perpendicular to any surface ([Topic 8.2](/advanced-course-resources/physics-1/8-2-pressure-study-guide/)).
 - **Depth, not shape.** In a connected fluid at rest, P = P₀ + ρgh, with h the vertical depth. A liquid column in an open tube measures gauge pressure ([Topic 8.2](/advanced-course-resources/physics-1/8-2-pressure-study-guide/)).
 - **The buoyant force is the pressure difference at work.** Bottom faces are deeper than top faces, so the fluid's net push is upward and equals the weight of fluid displaced ([Topic 8.3](/advanced-course-resources/physics-1/8-3-fluids-newtons-laws-study-guide/)).
 - **Every buoyancy problem is a Newton's-laws problem.** Draw the free-body diagram, then use ΣF = 0 or ΣF = ma ([Topic 8.3](/advanced-course-resources/physics-1/8-3-fluids-newtons-laws-study-guide/)).
 - **A fluid accelerates from high to low pressure.** Equal pressures on both ends mean constant velocity, not rest ([Topic 8.3](/advanced-course-resources/physics-1/8-3-fluids-newtons-laws-study-guide/)).
 - **Mass is conserved in a full pipe:** A₁v₁ = A₂v₂, so narrow means fast ([Topic 8.4](/advanced-course-resources/physics-1/8-4-fluids-conservation-laws-study-guide/)).
-- **Energy is conserved in an ideal flow:** P + ρgy + ½ρv² is the same at every point. At rest it reduces to the depth rule; for an open hole it gives v = √(2gh) ([Topic 8.4](/advanced-course-resources/physics-1/8-4-fluids-conservation-laws-study-guide/)).
+- **Energy is conserved in an ideal flow:** P + ρgy + ½ρv² is the same at every point. At rest it gives the depth rule ([Topic 8.4](/advanced-course-resources/physics-1/8-4-fluids-conservation-laws-study-guide/)).
 
 ## Key relationships and methods
 
@@ -67,7 +67,7 @@ This review is for the **algebra-based Physics 1 course**, Unit 8 (Fluids). It c
 
 ## Practice questions
 
-These are **original Marlbridge practice questions**, not past exam questions. The rubric tables are a suggested Marlbridge rubric, not official scoring. Use g = 9.8 m/s², water density 1000 kg/m³ and 1 atm = 1.0 × 10⁵ Pa. Treat every fluid as ideal and every pipe as full, and ignore drag.
+These are **original Marlbridge practice questions**, not past exam questions. The rubric tables are a suggested Marlbridge rubric, not official scoring. Use g = 9.8 m/s², water density 1000 kg/m³ and 1 atm = 1.0 × 10⁵ Pa. Treat fluids as ideal and pipes as full; ignore drag.
 
 ## Question 1 (multiple choice · mixed)
 
@@ -81,7 +81,7 @@ A beaker holds a deep layer of oil (density 800 kg/m³) floating on water. A sol
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** Its top face is in oil and its bottom face in water, so the buoyant force equals the weight of **both** displaced liquids. At rest: (x × 1000 + (1 − x) × 800)Vg = 950Vg, so x = 150 ÷ 200 = 0.75.
+**Answer: (B).** The buoyant force equals the weight of **both** displaced liquids. At rest: (x × 1000 + (1 − x) × 800)Vg = 950Vg, so x = 150 ÷ 200 = 0.75.
 
 - (A) swaps the liquids in the algebra. The block is closer in density to water, so most of it sits in the water.
 - (C) uses ρ_block / ρ_water, as if only water pushed up. The oil above still adds pressure on the bottom face.
@@ -144,7 +144,7 @@ Take **+y up**. A hydrometer is a sealed glass tube with a flat bottom and a uni
 
 **(c)** Water: ρgh = 1000 × 9.8 × 0.15 = **1470 Pa**. Liquid: 1200 × 9.8 × 0.125 = **1470 Pa**. The side forces cancel, so the fluid's only upward push is P_gauge A on the bottom face. Newton's first law requires P_gauge A = mg = 0.294 N in any liquid, so P_gauge = 0.294 ÷ 2.0 × 10⁻⁴ = 1470 Pa every time.
 
-**(d)** **Incorrect** reasoning. The buoyant force equals mg = 0.294 N in both liquids. The hydrometer does float higher, but because a denser liquid supplies that same force with a smaller displaced volume (depth ∝ 1/ρ).
+**(d)** **Incorrect** reasoning. F_b = mg = 0.294 N in both liquids. It floats higher because a denser liquid supplies that same force with less displaced volume (depth ∝ 1/ρ).
 
 | Point | What earns it |
 |---|---|
@@ -173,7 +173,7 @@ A wide, sealed water tank has air above the water at a gauge pressure of 3.0 × 
 
 **(a)** P_gauge = 3.0 × 10⁴ + ρgh = 3.0 × 10⁴ + 1000 × 9.8 × 1.2 = **4.2 × 10⁴ Pa** (41 760 Pa).
 
-**(b)** Surface: P = 3.0 × 10⁴ Pa gauge, y = 1.2 m, v ≈ 0 (wide tank). Jet: P = 0 gauge, y = 0. Bernoulli: 3.0 × 10⁴ + 11 760 = ½(1000)v², so v = √(2 × 41 760 ÷ 1000) = **9.1 m/s**. Open tank: √(2 × 9.8 × 1.2) = 4.85 m/s. The pressurised air nearly doubles the speed.
+**(b)** Surface: P = 3.0 × 10⁴ Pa gauge, y = 1.2 m, v ≈ 0 (wide tank). Jet: P = 0 gauge, y = 0. Bernoulli: 3.0 × 10⁴ + 11 760 = ½(1000)v², so v = √(2 × 41 760 ÷ 1000) = **9.1 m/s**. Open tank: √(2 × 9.8 × 1.2) = 4.85 m/s, about half as fast.
 
 **(c)** V/t = Av = 1.0 × 10⁻⁴ × 9.14 = **9.1 × 10⁻⁴ m³/s**.
 
@@ -214,7 +214,7 @@ A syringe lies horizontally, full of water. Its barrel has area 1.5 × 10⁻⁴ 
 
 **(b)** Continuity: the barrel speed is v₁ = v₂ × (1.5 × 10⁻⁶ ÷ 1.5 × 10⁻⁴) = v₂ ÷ 100. Bernoulli (level, gauge pressures): 2.0 × 10⁴ + ½ρv₁² = 0 + ½ρv₂². Because v₁ = v₂/100, ½ρv₁² is only 1/10 000 of ½ρv₂² (about 2 Pa), so ignore it: v₂ = √(2 × 2.0 × 10⁴ ÷ 1000) = **6.3 m/s**. The plunger moves at about 6.3 cm/s.
 
-**(c)** In the barrel the water moves slowly at a nearly constant speed, so the pressure there is nearly uniform. In the narrowing nozzle, each parcel has higher pressure behind it than ahead, falling to atmospheric at the exit. That difference gives a forward net force, so the water speeds up in the taper, where the pressure falls.
+**(c)** In the barrel the water moves slowly at nearly constant speed, so the pressure there is nearly uniform. In the narrowing nozzle, each parcel has higher pressure behind it than ahead, falling to atmospheric at the exit. That gives a forward net force, so the water speeds up in the taper.
 
 **(d)** v ∝ √P and P ∝ F, so v ∝ √F. Doubling F gives v = 6.3 × √2 = **8.9 m/s**.
 
@@ -270,8 +270,8 @@ A student measures an oil's density with a U-shaped glass tube, open at both end
 
 Questions 4–7 are worth 6 points each on the suggested Marlbridge rubric. Use the points you lost to choose what to study.
 
-- **Questions 1, 4 or 7 (density, average density, measuring ρ):** [Topic 8.1 checklist](/advanced-course-resources/physics-1/8-1-internal-structure-density-checklist/).
-- **Questions 2, 4, 5, 6 or 7 (depth rule, gauge pressure, F/A):** [Topic 8.2 checklist](/advanced-course-resources/physics-1/8-2-pressure-checklist/).
+- **Questions 1, 4 or 7 (density, measuring ρ):** [Topic 8.1 checklist](/advanced-course-resources/physics-1/8-1-internal-structure-density-checklist/).
+- **Questions 2–7 (depth rule, gauge pressure, F/A):** [Topic 8.2 checklist](/advanced-course-resources/physics-1/8-2-pressure-checklist/).
 - **Questions 1, 3, 4, 6 or 7 (buoyancy, fluid acceleration):** [Topic 8.3 checklist](/advanced-course-resources/physics-1/8-3-fluids-newtons-laws-checklist/).
 - **Questions 2, 5 or 6 (continuity, Bernoulli, Torricelli):** [Topic 8.4 checklist](/advanced-course-resources/physics-1/8-4-fluids-conservation-laws-checklist/).
 - **Quick check of every topic:** retake the [unit diagnostic](/advanced-course-resources/physics-1/unit-8-diagnostic/).

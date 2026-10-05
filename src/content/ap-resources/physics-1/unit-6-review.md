@@ -36,13 +36,13 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-This review is for the **algebra-based Physics 1 course**, Unit 6 (Energy and Momentum of Rotating Systems). It connects the topics and gives you mixed practice. Do the [unit diagnostic](/advanced-course-resources/physics-1/unit-6-diagnostic/) first if you have not yet done it.
+This review is for the **algebra-based Physics 1 course**, Unit 6 (Energy and Momentum of Rotating Systems). Do the [unit diagnostic](/advanced-course-resources/physics-1/unit-6-diagnostic/) first if you have not yet done it.
 
 ## Big ideas of the unit
 
 - **Rotational kinetic energy is ordinary kinetic energy.** ½Iω² is the ½mv² of every piece added up. An object that moves and spins has ½Mv_cm² + ½I_cm ω² ([Topic 6.1](/advanced-course-resources/physics-1/6-1-rotational-kinetic-energy-study-guide/)).
 - **A torque does work only through an angle:** W = τΔθ, or the signed area under a τ–θ graph. Net work equals ΔK ([Topic 6.2](/advanced-course-resources/physics-1/6-2-torque-work-study-guide/)).
-- **A torque acting for a time gives angular impulse:** τΔt = ΔL, or the area under a τ–t graph. The slope of an L–t graph is the net torque ([Topic 6.3](/advanced-course-resources/physics-1/6-3-angular-momentum-angular-impulse-study-guide/)).
+- **A torque acting for a time gives angular impulse:** τΔt = ΔL, or the area under a τ–t graph ([Topic 6.3](/advanced-course-resources/physics-1/6-3-angular-momentum-angular-impulse-study-guide/)).
 - **Angle or time decides the tool.** Equal τΔt gives equal ΔL, but a lighter wheel turns through a larger angle, so it gains more K.
 - **No net external torque, no change in total L.** Internal torques only move L between parts. Choose the system so awkward forces are internal or act through the axis ([Topic 6.4](/advanced-course-resources/physics-1/6-4-conservation-angular-momentum-study-guide/)).
 - **Conserved L does not mean conserved K.** Sticking collisions lose K; pulling mass inwards gains it.
@@ -65,7 +65,7 @@ This review is for the **algebra-based Physics 1 course**, Unit 6 (Energy and Mo
 
 ## Practice questions
 
-These are **original Marlbridge practice questions**, not past exam questions. The rubric tables are a suggested Marlbridge rubric, not official scoring. Use g = 9.8 m/s², ignore air resistance and rolling friction, and treat strings as light and axles as frictionless unless told otherwise. All planets are fictional.
+These are **original Marlbridge practice questions**, not past exam questions. The rubric tables are a suggested Marlbridge rubric, not official scoring. Use g = 9.8 m/s². Strings are light, axles frictionless and air resistance and rolling friction negligible unless stated. All planets are fictional.
 
 ## Question 1 (multiple choice · mixed)
 
@@ -136,11 +136,11 @@ A flywheel (I = 0.020 kg·m²) is fixed to a drum of radius 0.050 m on a frictio
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** System: block + flywheel + Earth. Nothing dissipates energy, so mechanical energy is conserved, and the string links the speeds: ω = v / r.
+**(a)** System: block + flywheel + Earth. No energy is dissipated, and the string links the speeds: ω = v / r.
 mgh = ½mv² + ½I(v / r)², so **v = √(2mgh ÷ (m + I/r²))**.
 I/r² = 0.020 ÷ 0.0025 = 8.0 kg, so v = √(2 × 0.50 × 9.8 × 0.80 ÷ 8.5) = **0.96 m/s**.
 
-**(b)** ω = 0.960 ÷ 0.050 = 19.2 rad/s. Flywheel: ½ × 0.020 × 19.2² = 3.69 J of mgh = 3.92 J, so **94%**. It acts like an 8.0 kg mass on the 0.50 kg block.
+**(b)** ω = 0.960 ÷ 0.050 = 19.2 rad/s. Flywheel: ½ × 0.020 × 19.2² = 3.69 J of mgh = 3.92 J, so **94%**.
 
 **(c)** Δθ = 0.80 ÷ 0.050 = 16 rad. The string's torque alone does 3.69 J, so τ = 3.69 ÷ 16 = 0.231 N·m and T = τ / r = **4.6 N**. The block accelerates downward, so T < mg = 4.9 N.
 
@@ -166,7 +166,6 @@ A horizontal rod (I = 0.080 kg·m² alone) spins at 12 rad/s on a frictionless v
 (b) Find the final angular speed.
 (c) Find the kinetic energy before and after, and explain the difference.
 (d) A motor then brings the system back up to 12 rad/s with a constant torque of 0.50 N·m. Find the time and the angle this takes.
-(e) A student says: "Angular momentum is conserved in (b), so kinetic energy must be conserved too." Evaluate this claim.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
@@ -176,11 +175,9 @@ A horizontal rod (I = 0.080 kg·m² alone) spins at 12 rad/s on a frictionless v
 **(b)** I₁ = 0.080 + 2 × 0.10 × 0.10² = 0.082 kg·m². I₂ = 0.080 + 2 × 0.10 × 0.40² = 0.112 kg·m².
 ω₂ = 0.082 × 12 ÷ 0.112 = **8.8 rad/s** (8.79 rad/s).
 
-**(c)** K₁ = ½ × 0.082 × 12² = **5.9 J**. K₂ = ½ × 0.112 × 8.79² = **4.3 J**. About **1.6 J** (27%) is lost. The beads gain an outward velocity while sliding; hitting the stops ends it in an inelastic collision, turning that energy into thermal energy.
+**(c)** K₁ = ½ × 0.082 × 12² = **5.9 J**. K₂ = ½ × 0.112 × 8.79² = **4.3 J**. About **1.6 J** (27%) is lost. While sliding, the beads gain outward speed; the inelastic impacts at the stops turn that energy into thermal energy.
 
 **(d)** Angular impulse needed: ΔL = 0.112 × (12 − 8.79) = 0.36 kg·m²/s, so t = 0.36 ÷ 0.50 = **0.72 s**. Work needed: ½ × 0.112 × 12² − 4.32 = 3.74 J, so Δθ = 3.74 ÷ 0.50 = **7.5 rad**.
-
-**(e)** **Incorrect.** Since K = L² / (2I), keeping L fixed while I rises from 0.082 to 0.112 kg·m² must lower K. The missing energy is dissipated at the stops.
 
 | Point | What earns it |
 |---|---|
@@ -190,9 +187,8 @@ A horizontal rod (I = 0.080 kg·m² alone) spins at 12 rad/s on a frictionless v
 | 1 | Both energies, with the loss at the stops |
 | 1 | 0.72 s from ΔL ÷ τ |
 | 1 | 7.5 rad from W ÷ τ |
-| 1 | Rejects the claim using K = L² / (2I) or the energies |
 
-**Total: 7 points.**
+**Total: 6 points.**
 </details>
 
 ## Question 6 (constructed response · mixed)
@@ -230,36 +226,32 @@ A yo-yo of mass 0.20 kg has rotational inertia 1.0 × 10⁻⁴ kg·m² about its
 
 ## Question 7 (constructed response · mixed)
 
-A 1200 kg satellite moves in a circular orbit of radius 8.0 × 10⁶ m around a fictional planet of mass 3.0 × 10²⁴ kg. A short forward rocket burn raises its speed to 6.13 × 10³ m/s. It then follows an ellipse whose farthest point is 2.4 × 10⁷ m from the planet's centre.
+A 1200 kg satellite moves in a circular orbit of radius 1.0 × 10⁷ m around a fictional planet of mass 3.0 × 10²⁴ kg. A short forward rocket burn raises its speed to 5.17 × 10³ m/s. It then follows an ellipse whose farthest point is 2.0 × 10⁷ m from the planet's centre.
 
 (a) Find the satellite's speed in the circular orbit.
 (b) Find its speed at the farthest point of the ellipse. Justify the principle you use.
-(c) Show that the system's mechanical energy is the same at the closest and farthest points.
-(d) Find the energy supplied by the burn.
-(e) A student says: "Gravity exerts no torque about the planet's centre, so the satellite's angular momentum is unchanged by the burn." Evaluate this claim.
+(c) Find the energy supplied by the burn, and show that the satellite is still bound to the planet.
+(d) A student says: "Gravity exerts no torque about the planet's centre, so the satellite's angular momentum is unchanged by the burn." Evaluate this claim.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** GM = 6.67 × 10⁻¹¹ × 3.0 × 10²⁴ = 2.0 × 10¹⁴ N·m²/kg. v = √(GM / r) = **5.0 × 10³ m/s**.
+**(a)** GM = 6.67 × 10⁻¹¹ × 3.0 × 10²⁴ = 2.0 × 10¹⁴ N·m²/kg. v = √(GM / r) = **4.5 × 10³ m/s** (4.47 × 10³).
 
 **(b)** After the burn only gravity acts. It points at the planet's centre, so it exerts no torque there and L is constant. With v ⟂ r at both points, mv_near r_near = mv_far r_far:
-v_far = 6.13 × 10³ × (8.0 × 10⁶ ÷ 2.4 × 10⁷) = **2.0 × 10³ m/s** (2.04 × 10³).
+v_far = 5.17 × 10³ × (1.0 × 10⁷ ÷ 2.0 × 10⁷) = **2.6 × 10³ m/s**.
 
-**(c)** Closest: K = 2.25 × 10¹⁰ J, U_g = −GMm / r = −3.00 × 10¹⁰ J, so E = −7.5 × 10⁹ J.
-Farthest: K = 0.25 × 10¹⁰ J, U_g = −1.00 × 10¹⁰ J, so E = −7.5 × 10⁹ J. Equal, within rounding.
+**(c)** The burn is short, so r and U_g do not change during it. Energy supplied = ΔK = ½ × 1200 × (5170² − 4470²) = **4.0 × 10⁹ J**. Afterwards K = 1.60 × 10¹⁰ J and U_g = −GMm / r = −2.40 × 10¹⁰ J, so E = −8.0 × 10⁹ J. E is still negative, so the satellite stays bound.
 
-**(d)** Circular orbit: E = −GMm / (2r) = −1.5 × 10¹⁰ J. Energy supplied = −7.5 × 10⁹ − (−1.5 × 10¹⁰) ≈ **7.5 × 10⁹ J**. E is still negative, so the satellite stays bound.
-
-**(e)** **Incorrect.** During the burn the exhaust pushes the satellite along its path, perpendicular to r. That external force has lever arm r about the planet's centre, so it exerts a torque: L rises from 4.8 × 10¹³ to 5.9 × 10¹³ kg·m²/s. Gravity's zero torque keeps L constant only when gravity acts alone.
+**(d)** **Incorrect.** During the burn the exhaust pushes the satellite along its path, perpendicular to r. That external force has lever arm r about the planet's centre, so it exerts a torque: L rises from 5.4 × 10¹³ to 6.2 × 10¹³ kg·m²/s. Gravity's zero torque keeps L constant only when gravity acts alone.
 
 | Point | What earns it |
 |---|---|
-| 1 | Circular speed 5.0 × 10³ m/s from GMm/r² = mv²/r |
+| 1 | Circular speed 4.5 × 10³ m/s from GMm/r² = mv²/r |
 | 1 | L constant (no torque from gravity), with v ⟂ r at both points |
-| 1 | v_far ≈ 2.0 × 10³ m/s |
-| 1 | K and U_g at both points with correct signs, and equal totals |
-| 1 | Circular E = −1.5 × 10¹⁰ J; 7.5 × 10⁹ J supplied |
+| 1 | v_far ≈ 2.6 × 10³ m/s |
+| 1 | U_g unchanged during the short burn, so energy supplied = ΔK |
+| 1 | 4.0 × 10⁹ J, and E = −8.0 × 10⁹ J < 0, so still bound |
 | 1 | Rejects the claim: the thrust exerts an external torque |
 
 **Total: 6 points.**
@@ -267,12 +259,12 @@ Farthest: K = 0.25 × 10¹⁰ J, U_g = −1.00 × 10¹⁰ J, so E = −7.5 × 10
 
 ## How did you do?
 
-Questions 5 and 6 are worth 7 points and Questions 4 and 7 are worth 6 on the suggested Marlbridge rubric. Use the points you lost to choose what to study.
+Use the points you lost on the suggested Marlbridge rubric to choose what to study.
 
 - **Questions 1, 3 or 5(c) (kinetic energy):** [Topic 6.1 checklist](/advanced-course-resources/physics-1/6-1-rotational-kinetic-energy-checklist/).
 - **Questions 2, 4(c) or 5(d) (work by a torque):** [Topic 6.2 checklist](/advanced-course-resources/physics-1/6-2-torque-work-checklist/).
 - **Questions 2, 4(d) or 6(c) (angular impulse):** [Topic 6.3 checklist](/advanced-course-resources/physics-1/6-3-angular-momentum-angular-impulse-checklist/).
-- **Questions 1, 5 or 7(e) (conservation and choosing the system):** [Topic 6.4 checklist](/advanced-course-resources/physics-1/6-4-conservation-angular-momentum-checklist/).
+- **Questions 1, 5 or 7(d) (conservation and choosing the system):** [Topic 6.4 checklist](/advanced-course-resources/physics-1/6-4-conservation-angular-momentum-checklist/).
 - **Questions 3, 4(a) or 6 (rolling and v = rω links):** [Topic 6.5 checklist](/advanced-course-resources/physics-1/6-5-rolling-checklist/).
-- **Question 7 (orbits and escape):** [Topic 6.6 checklist](/advanced-course-resources/physics-1/6-6-motion-orbiting-satellites-checklist/).
+- **Question 7 (orbits):** [Topic 6.6 checklist](/advanced-course-resources/physics-1/6-6-motion-orbiting-satellites-checklist/).
 - **Quick check of every topic:** retake the [unit diagnostic](/advanced-course-resources/physics-1/unit-6-diagnostic/).

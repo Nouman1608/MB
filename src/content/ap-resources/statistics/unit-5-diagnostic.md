@@ -89,18 +89,18 @@ A fictional cycling club recorded the average gradient (%) and the average speed
 
 For 120 students at a fictional college, the correlation between the number of classes missed and the final mark is r = −0.91. The scatterplot is linear. Which statement is correct?
 
-- (A) There is a strong, negative, linear association: students who missed more classes tended to have lower final marks.
-- (B) Each missed class causes a student's final mark to fall.
-- (C) The association is weak, because r is negative.
+- (A) Each missed class causes a student's final mark to fall.
+- (B) The association is weak, because r is negative.
+- (C) There is a strong, negative, linear association: students who missed more classes tended to have lower final marks.
 - (D) 91% of students who missed many classes got low marks.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The sign gives the direction; |−0.91| is close to 1, so the linear association is strong.
+**Answer: (C).** The sign gives the direction; |−0.91| is close to 1, so the linear association is strong.
 
-- (B) claims cause from an observational study. Motivation, for example, could affect both attendance and marks.
-- (C) confuses direction with strength.
+- (A) claims cause from an observational study. Motivation, for example, could affect both attendance and marks.
+- (B) confuses direction with strength.
 - (D) reads r as a percentage of students. r is not a proportion of anything.
 
 **If you missed this:** [Topic 5.2 study guide](/advanced-course-resources/statistics/5-2-correlation-study-guide/).
@@ -110,19 +110,19 @@ For 120 students at a fictional college, the correlation between the number of c
 
 Eight points lie almost exactly on a rising straight line, with r = 0.9997. A ninth point is added. Its x-value is in the middle of the others, but its y-value is far below the pattern. What happens to r?
 
-- (A) r moves closer to 0, because the new point is far from the linear pattern.
-- (B) r increases, because there are more points.
-- (C) r stays the same, because r has no units.
-- (D) r becomes negative, because the new point lies below the line.
+- (A) r increases, because there are more points.
+- (B) r stays the same, because r has no units.
+- (C) r becomes negative, because the new point lies below the line.
+- (D) r moves closer to 0, because the new point is far from the linear pattern.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** r is **not resistant**. In one fictional example of this kind, r falls from 0.9997 to 0.80.
+**Answer: (D).** r is **not resistant**. In one fictional example of this kind, r falls from 0.9997 to 0.80.
 
-- (B) is wrong: extra points only strengthen r if they fit the pattern.
-- (C) mixes up two facts: r has no units, but it does depend on the data.
-- (D) is too strong: the other eight points still show a positive association.
+- (A) is wrong: extra points only strengthen r if they fit the pattern.
+- (B) mixes up two facts: r has no units, but it does depend on the data.
+- (C) is too strong: the other eight points still show a positive association.
 
 **If you missed this:** [Topic 5.2 study guide](/advanced-course-resources/statistics/5-2-correlation-study-guide/), "When r misleads (2)".
 </details>
@@ -131,17 +131,17 @@ Eight points lie almost exactly on a rising straight line, with r = 0.9997. A ni
 
 A fictional park uses ŷ = 3.2 + 0.65x to predict the height (m) of a tree from its age x (years). The trees in the data were **2 to 15 years** old. Which statement is correct?
 
-- (A) For an 8-year-old tree, the predicted height is 8.4 m, an interpolation.
-- (B) For a 20-year-old tree, the predicted height is 16.2 m, an interpolation.
+- (A) For a 20-year-old tree, the predicted height is 16.2 m, an interpolation.
+- (B) For an 8-year-old tree, the predicted height is 8.4 m, an interpolation.
 - (C) For a 15-year-old tree, the prediction of 12.95 m is an extrapolation, because 15 is the largest age.
 - (D) An 8-year-old tree will be exactly 8.4 m tall.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** ŷ = 3.2 + 0.65(8) = 8.4 m, and 8 lies inside 2 to 15.
+**Answer: (B).** ŷ = 3.2 + 0.65(8) = 8.4 m, and 8 lies inside 2 to 15.
 
-- (B) has the right arithmetic, but 20 is outside the data: an extrapolation.
+- (A) has the right arithmetic, but 20 is outside the data: an extrapolation.
 - (C) forgets that the interval includes its end points.
 - (D) treats ŷ as an exact value; real trees vary around the line.
 
@@ -152,18 +152,18 @@ A fictional park uses ŷ = 3.2 + 0.65x to predict the height (m) of a tree from 
 
 A fictional town's population is modelled by ŷ = 8.2 + 0.31x, where x is **years since 2015** and ŷ is the predicted population in thousands. The data cover 2016 to 2025. What does the model predict for 2030?
 
-- (A) 12.85 thousand; an extrapolation, 5 years beyond the data
-- (B) 12.85 thousand; an interpolation
-- (C) 637.5 thousand; an extrapolation
+- (A) 12.85 thousand; an interpolation
+- (B) 637.5 thousand; an extrapolation
+- (C) 12.85 thousand; an extrapolation, 5 years beyond the data
 - (D) 4.65 thousand; an extrapolation
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** For 2030, x = 15: ŷ = 8.2 + 0.31(15) = 12.85 thousand. The data stop at x = 10, so this is an extrapolation and less reliable.
+**Answer: (C).** For 2030, x = 15: ŷ = 8.2 + 0.31(15) = 12.85 thousand. The data stop at x = 10, so this is an extrapolation and less reliable.
 
-- (B) misclassifies a year outside 2016 to 2025.
-- (C) substitutes x = 2030 instead of x = 15.
+- (A) misclassifies a year outside 2016 to 2025.
+- (B) substitutes x = 2030 instead of x = 15.
 - (D) leaves out the intercept 8.2.
 
 **If you missed this:** [Topic 5.3 study guide](/advanced-course-resources/statistics/5-3-linear-regression-models-study-guide/), "Interpolation and extrapolation".
@@ -173,19 +173,19 @@ A fictional town's population is modelled by ŷ = 8.2 + 0.31x, where x is **year
 
 A fictional nursery predicts the price ($) of a bonsai tree from its age x (years) with ŷ = 14 + 6.2x. A 9-year-old bonsai sold for $62. Which is correct?
 
-- (A) The residual is −$7.80; the model overpredicted its price.
-- (B) The residual is +$7.80; the model underpredicted its price.
-- (C) The residual is −$7.80; the model underpredicted its price.
-- (D) The residual is $69.80.
+- (A) The residual is +$7.80; the model underpredicted its price.
+- (B) The residual is −$7.80; the model underpredicted its price.
+- (C) The residual is $69.80.
+- (D) The residual is −$7.80; the model overpredicted its price.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** ŷ = 14 + 6.2(9) = $69.80. Residual = 62 − 69.80 = −$7.80. The actual price was below the prediction, so the model predicted too high.
+**Answer: (D).** ŷ = 14 + 6.2(9) = $69.80. Residual = 62 − 69.80 = −$7.80. The actual price was below the prediction, so the model predicted too high.
 
-- (B) calculates predicted − observed.
-- (C) has the right number but the wrong word: negative means overpredicted.
-- (D) is the predicted price, not the residual.
+- (A) calculates predicted − observed.
+- (B) has the right number but the wrong word: negative means overpredicted.
+- (C) is the predicted price, not the residual.
 
 **If you missed this:** [Topic 5.4 study guide](/advanced-course-resources/statistics/5-4-residuals-study-guide/).
 </details>

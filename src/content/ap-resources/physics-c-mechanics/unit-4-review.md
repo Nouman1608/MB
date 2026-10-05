@@ -89,18 +89,18 @@ Take **+x to the right**. A 0.50 kg particle moves with x(t) = 2.0t³ − 6.0t f
 
 Two identical pucks slide on an air table at the same speed v, at 90° to each other. They collide and stick together. What are the speed of the joined pucks and the fraction of the kinetic energy that remains?
 
-- (A) 0; none
-- (B) v; all of it
-- (C) 0.71v; one-half
+- (A) 0.71v; one-half
+- (B) 0; none
+- (C) v; all of it
 - (D) 0.71v; 0.71
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** Each puck has momentum mv, at right angles, so P = √2 mv. With mass 2m, the speed is √2 mv ÷ 2m = v/√2 ≈ 0.71v. Kinetic energy: before 2 × ½mv² = mv²; after ½(2m)(v/√2)² = ½mv². Half remains.
+**Answer: (A).** Each puck has momentum mv, at right angles, so P = √2 mv. With mass 2m, the speed is √2 mv ÷ 2m = v/√2 ≈ 0.71v. Kinetic energy: before 2 × ½mv² = mv²; after ½(2m)(v/√2)² = ½mv². Half remains.
 
-- (A) treats the pucks as meeting head-on, so their momenta cancel. Perpendicular momenta add by Pythagoras.
-- (B) adds the speeds as numbers and divides by 2, ignoring direction.
+- (B) treats the pucks as meeting head-on, so their momenta cancel. Perpendicular momenta add by Pythagoras.
+- (C) adds the speeds as numbers and divides by 2, ignoring direction.
 - (D) takes the kinetic energy fraction to equal the speed factor. K depends on v², so the factor is 0.71² = 0.50.
 </details>
 

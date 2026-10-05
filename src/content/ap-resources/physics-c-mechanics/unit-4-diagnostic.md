@@ -36,9 +36,9 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-**What this is for.** This diagnostic helps you decide which Unit 4 (Linear Momentum) topics to revisit before you move on. It has one question on Topic 4.1, three on Topic 4.2, two on Topic 4.3 and three on Topic 4.4. Three of the nine need short written working. These are **original Marlbridge practice questions**, not past exam questions. The set is not calibrated against real exam results, so it **does not give a predicted score**. Treat each wrong answer as a pointer to one topic, not as a grade.
+**What this is for.** This diagnostic helps you decide which Unit 4 (Linear Momentum) topics to revisit before you move on. It has one question on Topic 4.1, three on Topic 4.2, two on Topic 4.3 and three on Topic 4.4. Three of the nine need short written working. These are **original Marlbridge practice questions**, not past exam questions. The set is not calibrated against real exam results, so it **does not give a predicted score**. Treat each wrong answer as a pointer to a topic.
 
-**How to sit it.** Allow about 30 minutes. Close your notes. Use a calculator for arithmetic and trigonometry, but do the calculus by hand. Use g = 9.8 m/s². Forces are in N, momenta in kg·m/s and t in s, so each coefficient carries the unit that makes its term correct. Tracks and floors are level and frictionless unless stated. Every question states its axes.
+**How to sit it.** Allow about 30 minutes. Close your notes. Do the calculus by hand; use a calculator for arithmetic. Use g = 9.8 m/s². Forces are in N, momenta in kg·m/s and t in s. Tracks and floors are level and frictionless unless stated. Every question states its axes.
 
 ## Question 1 (multiple choice · 4.1)
 
@@ -149,18 +149,18 @@ Take **+x to the right**. A 2.0 kg cart moving at +3.0 m/s hits a 1.0 kg cart at
 
 Take **+x to the right**. Cart A (1.0 kg) moves at +6.0 m/s towards cart B (2.0 kg), which is at rest. Which pair of velocities just after the collision is physically possible?
 
-- (A) v_A = +4.0 m/s, v_B = +1.0 m/s
+- (A) v_A = 0, v_B = +3.0 m/s
 - (B) v_A = −3.0 m/s, v_B = +4.5 m/s
-- (C) v_A = 0, v_B = +3.0 m/s
+- (C) v_A = +4.0 m/s, v_B = +1.0 m/s
 - (D) v_A = +1.0 m/s, v_B = +3.0 m/s
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** Before: P = 6.0 kg·m/s and K = 18 J. For (C), P = 0 + 6.0 = 6.0 kg·m/s and K = 9.0 J. Momentum is conserved, kinetic energy falls, and B moves ahead of A.
+**Answer: (A).** Before: P = 6.0 kg·m/s and K = 18 J. For (A), P = 0 + 6.0 = 6.0 kg·m/s and K = 9.0 J. Momentum is conserved, kinetic energy falls, and B moves ahead of A.
 
-- (A) conserves momentum and lowers K, but A is still behind B and faster. A would pass through B.
 - (B) conserves momentum, but K = 4.5 + 20.25 = 24.75 J, more than the 18 J available. A collision cannot create kinetic energy.
+- (C) conserves momentum and lowers K, but A is still behind B and faster. A would pass through B.
 - (D) gives P = 1.0 + 6.0 = 7.0 kg·m/s. Momentum is not conserved.
 
 **If you missed this:** read "Elastic collisions" and "Inelastic and perfectly inelastic collisions" in the [Topic 4.4 study guide](/advanced-course-resources/physics-c-mechanics/4-4-elastic-inelastic-collisions-study-guide/).
@@ -182,9 +182,9 @@ Take **+x perpendicular to a wall, pointing away from it**. A 0.20 kg ball hits 
 
 **(b)** p_i = 0.20 × (−12) = −2.4 kg·m/s. p_f = −2.4 + 3.50 = +1.10 kg·m/s, so **v_f = +5.5 m/s**.
 
-**(c)** F_avg = J ÷ T = 3.50 ÷ 0.0050 = **700 N**, about 360 times the weight, 1.96 N. Ignoring gravity during contact (the collision model) is safe.
+**(c)** F_avg = J ÷ T = 3.50 ÷ 0.0050 = **700 N**, about 360 times the weight, 1.96 N. So ignoring gravity during contact is safe.
 
-**(d)** p_x(t) = −2.4 + (F₀T/π)(1 − cos(πt/T)) = 0, so 1 − cos(πt/T) = 2.4 ÷ 1.75 = 1.37 and cos(πt/T) = −0.37. Then πt/T = 1.95 rad, giving **t = 3.1 ms**. This is after the force peaks, at 2.5 ms.
+**(d)** p_x(t) = −2.4 + (F₀T/π)(1 − cos(πt/T)) = 0, so 1 − cos(πt/T) = 2.4 ÷ 1.75 = 1.37 and cos(πt/T) = −0.37. Then πt/T = 1.95 rad, giving **t = 3.1 ms**. This is after the force peak at 2.5 ms.
 
 **If you missed this:** work through Worked example 1 in the [Topic 4.2 study guide](/advanced-course-resources/physics-c-mechanics/4-2-change-momentum-impulse-study-guide/).
 </details>
@@ -195,7 +195,7 @@ Take **+x horizontal and +y upward**. A 60 kg student stands on a 20 kg cart at 
 
 (a) Which component of the momentum of the student, cart and ball is conserved during the throw? Explain.
 (b) Find the velocity of the student and cart just after the throw.
-(c) Find the impulse the floor exerts on the system during the throw.
+(c) Find the impulse the floor exerts on the system during the throw, beyond the part that balances the system's weight.
 
 <details>
 <summary>Answer and explanation</summary>
@@ -204,7 +204,7 @@ Take **+x horizontal and +y upward**. A 60 kg student stands on a 20 kg cart at 
 
 **(b)** P_x = 0 before, so 0 = 4.0 × 4.0 + 80v, giving **v = −0.20 m/s** (0.20 m/s backwards).
 
-**(c)** The system's P_y goes from 0 to 4.0 × 3.0 = 12 kg·m/s, while the student and cart stay on the floor. So the net vertical external impulse, from the floor, is **12 N·s upward**.
+**(c)** The system's P_y goes from 0 to 4.0 × 3.0 = 12 kg·m/s; the student and cart stay on the floor. So the net vertical external impulse is 12 N·s, and the floor supplies it: **12 N·s upward** beyond the impulse that cancels the weight.
 
 **If you missed this:** read "Choosing the system" and the sandbag example in the [Topic 4.3 study guide](/advanced-course-resources/physics-c-mechanics/4-3-conservation-linear-momentum-study-guide/).
 </details>
@@ -231,7 +231,7 @@ Take **+x to the right**. Cart A (0.50 kg) at +0.80 m/s and cart B (0.30 kg) at 
 
 ## Your next step
 
-Mark each question. Count a short answer as missed if any part went wrong.
+Count a short answer as missed if any part went wrong.
 
 | Topic | Question(s) | If you missed it, read |
 |---|---|---|
@@ -242,10 +242,10 @@ Mark each question. Count a short answer as missed if any part went wrong.
 
 ## How to use your result
 
-- **Read the explanation for every question, including the ones you got right.** A right answer for a wrong reason is still a gap.
+- **Read every explanation, even for questions you got right.** A right answer for a wrong reason is still a gap.
 - **Missed one question in a topic?** Read the named section, then try that topic's practice set.
 - **Missed two or more in a topic, or most of a short answer?** Work through the whole study guide for that topic, then its practice set and checklist.
-- **Missed questions across several topics?** Start with Topic 4.2. The links between force, impulse and momentum feed every later topic in the unit.
+- **Missed questions across several topics?** Start with Topic 4.2. Force, impulse and momentum feed every later topic.
 - **Got everything right?** Go straight to the [mixed unit review](/advanced-course-resources/physics-c-mechanics/unit-4-review/), where each question combines two or more topics.
 
 Your result here is a guide to what to study next. It does not predict an exam score.

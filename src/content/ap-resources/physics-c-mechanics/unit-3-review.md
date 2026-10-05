@@ -37,11 +37,11 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-This review pulls together the five topics of Unit 3 (Work, Energy, and Power). Read the big ideas and the table, then try the seven questions **without notes**; each combines two or more topics. These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric, not official scoring. Use g = 9.8 m/s² and ignore air resistance unless told otherwise. If you have not yet done the [Unit 3 diagnostic](/advanced-course-resources/physics-c-mechanics/unit-3-diagnostic/), do it first.
+This review pulls together the five topics of Unit 3 (Work, Energy, and Power). Read the big ideas and table, then try the seven mixed-topic questions **without notes**. These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric, not official scoring. Use g = 9.8 m/s² and ignore air resistance unless told otherwise. If you have not yet done the [Unit 3 diagnostic](/advanced-course-resources/physics-c-mechanics/unit-3-diagnostic/), do it first.
 
 ## Big ideas of the unit
 
-- **Kinetic energy is a scalar that depends on the frame.** K = ½mv². Observers moving relative to each other measure different K, and even different ΔK ([Topic 3.1](/advanced-course-resources/physics-c-mechanics/3-1-translational-kinetic-energy-study-guide/)).
+- **Kinetic energy is a scalar that depends on the frame.** K = ½mv². Observers in relative motion measure different K, and even different ΔK ([Topic 3.1](/advanced-course-resources/physics-c-mechanics/3-1-translational-kinetic-energy-study-guide/)).
 - **Work moves energy across a system boundary.** W = ∫F·dr along the path: the signed area under an F‖–x graph. Only the component along the displacement of the point of application counts ([Topic 3.2](/advanced-course-resources/physics-c-mechanics/3-2-work-study-guide/)).
 - **Net work changes kinetic energy.** W_net = ΔK, with rate form dK/dt = F_net·v.
 - **Conservative forces have potential energy; friction does not.** Conservative work is path-independent and ΔU = −W. Friction and air resistance do path-dependent work ([Topic 3.3](/advanced-course-resources/physics-c-mechanics/3-3-potential-energy-study-guide/)).
@@ -99,24 +99,24 @@ A 0.50 kg block slides at 4.0 m/s onto a rough strip of floor 1.0 m long, with �
 
 - (A) drops the ½ in U_s = ½kx².
 - (C) ignores friction, using the full 4.0 J.
-- (D) adds the friction energy. Kinetic friction always removes mechanical energy here.
+- (D) adds the friction energy instead of subtracting it.
 </details>
 
 ## Question 3 (multiple choice · mixed)
 
-Take **+x to the right**. A small object moves without friction in a system with U(x) = 4.0x³. At the moment it passes x = 0.50 m, its velocity is +2.0 m/s. At what rate is its kinetic energy changing?
+Take **+x to the right**. A small object moves without friction in a system with U(x) = 4.0x³. As it passes x = 0.50 m, its velocity is +2.0 m/s. At what rate is its kinetic energy changing?
 
-- (A) +6.0 W
-- (B) −6.0 W
+- (A) −6.0 W
+- (B) +6.0 W
 - (C) −1.0 W
 - (D) 0, because mechanical energy is conserved
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** F_x = −dU/dx = −12x² = −3.0 N at x = 0.50 m. It is the only force doing work, so dK/dt = F_x v_x = −6.0 W. The object moves uphill on the U(x) graph and slows down, while U rises at 6.0 J/s.
+**Answer: (A).** F_x = −dU/dx = −12x² = −3.0 N at x = 0.50 m. It is the only force doing work, so dK/dt = F_x v_x = −6.0 W: the object climbs the U(x) graph and slows, while U rises at 6.0 J/s.
 
-- (A) drops the minus sign, giving the rate of change of U.
+- (B) drops the minus sign, giving the rate of change of U.
 - (C) is −U(0.50) × v. Power uses the force, not the energy.
 - (D) Only K + U is constant; K and U each change.
 </details>
@@ -175,9 +175,9 @@ Take **+y downward**, y = 0 at a jump platform, with U_g = 0 there. A 60 kg jump
 
 **(c)** K = E − U(y) with E = 0, so K is greatest where U is least: dU/dy = −mg + k(y − 15) = 0, so the stretch is mg/k = 588 ÷ 150 = 3.92 m and **y = 19 m** (18.9 m). There, K = 588(18.92) − 75(3.92)² = 9.97 × 10³ J, so **v = 18 m/s** (18.2 m/s).
 
-**(d)** At the lowest point K = 0, so U = 0: 75x² = 588(15 + x), with x the stretch, giving x = 15.5 m. The lowest point is **y = 30 m** (30.5 m). Check: the drop in U_g, 1.79 × 10⁴ J, equals ½(150)(15.45)².
+**(d)** At the lowest point K = 0, so U = 0: 75x² = 588(15 + x), with x the stretch, giving x = 15.5 m. The lowest point is **y = 30 m** (30.5 m).
 
-**(e)** Gravity: P = mgv = 588 × 18.2 = **+11 kW** (10.7 kW). Cord: its force is 150 × 3.92 = 588 N upward while the jumper moves down, so P = **−11 kW**. The net power is zero, so dK/dt = 0: the condition for the greatest K in (c).
+**(e)** Gravity: P = mgv = 588 × 18.2 = **+11 kW** (10.7 kW). Cord: 150 × 3.92 = 588 N upward while the jumper moves down, so P = **−11 kW**. The net power is zero, so dK/dt = 0: the condition for the greatest K in (c).
 
 | Point | What earns it |
 |---|---|
@@ -212,7 +212,7 @@ Take **+x along a level, frictionless track**. A 2.0 kg cart passes x = 0 at +3.
 
 **(d)** P_avg = W/Δt = 160 ÷ 5.0 = **32 W**. Tension and speed both change, and the product of two averages is not the average of the product.
 
-**(e)** In the moving frame the cart goes from 0 to 10 m/s, so ΔK′ = ½(2.0)(10)² = **100 J**. The tension is the same in both inertial frames, but in the car's frame the cart moves 15 m less during the pull, so less work is done. Check: ΔK′ = ΔK − m u Δv = 160 − (2.0)(3.0)(10) = 100 J.
+**(e)** In the moving frame the cart goes from 0 to 10 m/s, so ΔK′ = ½(2.0)(10)² = **100 J**. The tension is the same in both frames, but in the car's frame the cart moves 15 m less, so the cable does less work. Check: ΔK′ = ΔK − m u Δv = 160 − (2.0)(3.0)(10) = 100 J.
 
 | Point | What earns it |
 |---|---|
@@ -250,9 +250,9 @@ A 0.050 kg ball fired horizontally from a compression of 0.100 m leaves at 7.9 m
 
 **(c)** ½(0.050)v² = 1.79, so v = √71.6 = **8.5 m/s**.
 
-**(d)** K = ½(0.050)(7.9)² = 1.56 J, so the fraction is 1.56 ÷ 1.79 = **0.87**. About 0.23 J goes to friction in the barrel and spring, and to the kinetic energy of the spring and plunger.
+**(d)** K = ½(0.050)(7.9)² = 1.56 J, so the fraction is 1.56 ÷ 1.79 = **0.87**. The missing 0.23 J goes to friction and to the moving spring and plunger.
 
-**(e)** The spring force must be **conservative**: on release it follows the same F–x curve as during compression, so all the work done on it is stored and recoverable.
+**(e)** The spring force must be **conservative**: on release it follows the same F–x curve, so the work done on it is fully recoverable.
 
 | Point | What earns it |
 |---|---|
@@ -263,12 +263,12 @@ A 0.050 kg ball fired horizontally from a compression of 0.100 m leaves at 7.9 m
 | 1 | (d) Fraction 0.87 with a sensible place for the missing energy |
 | 1 | (e) Same curve on release (conservative force) |
 
-**Total: 6 points.** An area from a smooth curve through the points (about 1.8 J) also earns the (b) point.
+**Total: 6 points.** A smooth-curve area of about 1.8 J also earns the (b) point.
 </details>
 
 ## How did you do?
 
-Questions 1 to 3 are worth 1 point each, Questions 4, 5 and 7 are worth 6 each and Question 6 is worth 5: 26 in all. The total shows what to revisit; it does not predict an exam score.
+Questions 1 to 3 score 1 point each; Questions 4, 5 and 7 score 6; Question 6 scores 5: 26 in all. The total shows what to revisit; it does not predict an exam score.
 
 - **Q1 or Q6(e) incomplete:** revisit K from components and in other frames with the [Topic 3.1 checklist](/advanced-course-resources/physics-c-mechanics/3-1-translational-kinetic-energy-checklist/).
 - **Q2, Q4(a) or Q7(b) incomplete:** practise work integrals and F–x areas with the [Topic 3.2 checklist](/advanced-course-resources/physics-c-mechanics/3-2-work-checklist/).
@@ -276,4 +276,4 @@ Questions 1 to 3 are worth 1 point each, Questions 4, 5 and 7 are worth 6 each a
 - **Q4(b), Q4(e) or Q5(c)–(d) incomplete:** name the system before any energy equation. Use the [Topic 3.4 checklist](/advanced-course-resources/physics-c-mechanics/3-4-conservation-energy-checklist/).
 - **Q4(d), Q5(e) or Q6(a)–(d) incomplete:** link P to F·v at each instant and use W = ∫P dt, with the [Topic 3.5 checklist](/advanced-course-resources/physics-c-mechanics/3-5-power-checklist/).
 
-After revising, retake the matching part of the [Unit 3 diagnostic](/advanced-course-resources/physics-c-mechanics/unit-3-diagnostic/), then try this review again a few days later.
+After revising, retake the matching [Unit 3 diagnostic](/advanced-course-resources/physics-c-mechanics/unit-3-diagnostic/) questions, then retry this review a few days later.

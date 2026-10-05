@@ -37,7 +37,7 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-This review pulls Unit 5 (Torque and Rotational Dynamics) together. Read the big ideas and the table, then try the seven questions, each combining two or more topics, **without notes**. These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric, not official scoring. Use g = 9.8 m/s². Strings are light and do not slip or stretch. If you have not yet done the [Unit 5 diagnostic](/advanced-course-resources/physics-c-mechanics/unit-5-diagnostic/), do it first.
+This review pulls Unit 5 (Torque and Rotational Dynamics) together. Read the big ideas and the table, then try the seven questions **without notes**. These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric, not official scoring. Use g = 9.8 m/s². Strings are light and do not slip or stretch. If you have not yet done the [Unit 5 diagnostic](/advanced-course-resources/physics-c-mechanics/unit-5-diagnostic/), do it first.
 
 ## Big ideas of the unit
 
@@ -57,7 +57,7 @@ This review pulls Unit 5 (Torque and Rotational Dynamics) together. Read the big
 | Constant α only | ω = ω₀ + αt; θ = θ₀ + ω₀t + ½αt²; ω² = ω₀² + 2α(θ − θ₀) |
 | Linear links | s = rθ, v = rω, a_T = rα, a_c = ω²r; \|a\| = √(a_T² + a_c²) |
 | Torque | τ = rF sin θ = r⊥F; τ_z = xF_y − yF_x; counterclockwise + |
-| Rotational inertia | I = Σmr² or ∫r² dm; rod ML²/12 (centre), ML²/3 (end); disk ½MR²; hoop MR²; annulus ½M(R₁² + R₂²) |
+| Rotational inertia | I = Σmr² or ∫r² dm; rod ML²/12 (centre), ML²/3 (end); disk ½MR²; hoop MR² |
 | Parallel axis | I = I_cm + Md², always starting from I_cm |
 | Equilibrium | ΣF = 0 and Στ = 0; if ΣF = 0, Στ is the same about every point |
 | Second law | Στ_ext = Iα (same axis for τ and I); ΣF = Ma_cm separately |
@@ -77,8 +77,8 @@ A constant torque spins a uniform rod from rest to angular velocity ω about a p
 
 **Answer: (A).** I_end = ML²/3 = 4 × ML²/12, so α = τ/I is 4 times smaller. From rest, t = ω/α and Δθ = ω²/(2α), so both grow 4 times.
 
-- (B) and (D) take I_end as twice I_centre. The parallel axis term M(L/2)² = 3ML²/12 makes it four times.
-- (C) uses Δθ = ½αt² with only the time changed. α has also fallen by 4, so 16 ÷ 4 = 4.
+- (D) takes I_end as twice I_centre; the parallel axis term M(L/2)² makes it four times. (B) makes the same slip, then scales the angle by t² alone.
+- (C) scales the angle by t² alone, forgetting that α also fell by 4.
 </details>
 
 ## Question 2 (multiple choice · mixed)
@@ -96,7 +96,7 @@ A drum (I = 0.50 kg·m², radius 0.20 m) turns on a frictionless axle. A rope wo
 **Answer: (D).** Torque: τ = TR = 8.0 N·m, so α = τ/I = 16 rad/s², constant. Angle: θ = s/R = 3.0 ÷ 0.20 = 15 rad. Then ω² = 2αθ = 480, so ω = 22 rad/s (21.9).
 
 - (A) is the rope speed, Rω = 4.4 m/s.
-- (B) takes the 3.0 m length as the angle. Use θ = s/R.
+- (B) takes 3.0 m as the angle instead of s/R.
 - (C) drops the 2 in ω² = 2αθ.
 </details>
 
@@ -112,7 +112,7 @@ A uniform horizontal rod of mass 3.0 kg and length 1.2 m is hinged to a wall at 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** Torques about the hinge remove the hinge force. Clockwise: (3.0)(9.8)(0.60) + (5.0)(9.8)(0.90) = 17.6 + 44.1 = 61.7 N·m. The cable pulls at 30° to the rod at 1.2 m, so its torque is T(1.2) sin 30° = 0.60T. Then T = 61.7 ÷ 0.60 = 103 N.
+**Answer: (C).** Torques about the hinge, clockwise: (3.0)(9.8)(0.60) + (5.0)(9.8)(0.90) = 17.6 + 44.1 = 61.7 N·m. The cable pulls at 30° to the rod at 1.2 m, so its torque is T(1.2) sin 30° = 0.60T. Then T = 61.7 ÷ 0.60 = 103 N.
 
 - (A) uses cos 30°, the component along the rod.
 - (B) leaves out the rod's own weight.
@@ -121,9 +121,9 @@ A uniform horizontal rod of mass 3.0 kg and length 1.2 m is hinged to a wall at 
 
 ## Question 4 (constructed response · mixed)
 
-A 2.0 kg block on a table (μ_k = 0.20) is tied by a string that runs over a pulley at the edge to a hanging 1.0 kg block. The pulley is a uniform flat ring of mass 1.0 kg, inner radius 0.040 m and outer radius 0.080 m; the string runs on the outer rim. The axle is frictionless. The system starts from rest.
+A 2.0 kg block on a table (μ_k = 0.20) is tied by a string that runs over a pulley at the edge to a hanging 1.0 kg block. The pulley is a thin rim (a hoop) of mass 0.50 kg and radius 0.080 m, joined to the axle by five spokes. Each spoke is a thin uniform 0.075 kg rod from axle to rim; ignore the hub. The axle is frictionless. The system starts from rest.
 
-(a) Starting from I = ∫r² dm, derive the rotational inertia of the ring about its axle and evaluate it.
+(a) Starting from I = ∫r² dm, derive the rotational inertia of one spoke about the axle. Then find and evaluate the pulley's rotational inertia.
 (b) Write an equation for each block and the pulley, and derive the blocks' acceleration a.
 (c) Find a, both tensions and the pulley's α. Explain why the tensions differ.
 (d) Find the pulley's angular velocity after the hanging block has fallen 0.50 m, and how many turns the pulley has made.
@@ -131,7 +131,7 @@ A 2.0 kg block on a table (μ_k = 0.20) is tied by a string that runs over a pul
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Use thin rings: σ = M/[π(R₂² − R₁²)] and dm = σ(2πr dr). I = ∫ r² σ 2πr dr from R₁ to R₂ = (πσ/2)(R₂⁴ − R₁⁴) = **½M(R₁² + R₂²)**. Here I = ½(1.0)(0.0016 + 0.0064) = **4.0 × 10⁻³ kg·m²**.
+**(a)** One spoke of mass m and length R: dm = (m/R) dr at distance r from the axle, so I_spoke = ∫₀ᴿ r² (m/R) dr = **mR²/3**. The rim is a hoop, I_rim = M_rim R². Inertias about one axis add: I = M_rim R² + 5(mR²/3) = (0.50 + 0.125)(0.080)² = **4.0 × 10⁻³ kg·m²**.
 
 **(b)** Let T₁ be the tension on the table side and T₂ on the hanging side. No slipping: a = Rα with R = 0.080 m.
 - Table block: T₁ − μm₁g = m₁a
@@ -140,14 +140,14 @@ A 2.0 kg block on a table (μ_k = 0.20) is tied by a string that runs over a pul
 
 Dividing the pulley equation by R and adding all three: **a = (m₂ − μm₁)g / (m₁ + m₂ + I/R²)**.
 
-**(c)** I/R² = 0.625 kg, so a = (1.0 − 0.40)(9.8) ÷ 3.625 = **1.6 m/s²** (1.62). T₂ = 1.0(9.8 − 1.62) = **8.2 N**; T₁ = 3.92 + 2.0(1.62) = **7.2 N**; α = a/R = **20 rad/s²**. The tensions differ because their difference gives the net torque on the pulley. Check: (T₂ − T₁)R = 1.01 × 0.080 = 0.081 N·m and Iα = 0.0040 × 20.3 = 0.081 N·m.
+**(c)** I/R² = 0.625 kg, so a = (1.0 − 0.40)(9.8) ÷ 3.625 = **1.6 m/s²** (1.62). T₂ = 1.0(9.8 − 1.62) = **8.2 N**; T₁ = 3.92 + 2.0(1.62) = **7.2 N**; α = a/R = **20 rad/s²**. They differ because T₂ − T₁ gives the pulley's net torque.
 
 **(d)** a is constant: v² = 2ad = 2(1.62)(0.50), so v = 1.27 m/s and ω = v/R = **16 rad/s**. Angle: θ = s/R = 0.50 ÷ 0.080 = 6.25 rad, which is **about 1.0 turn**.
 
 | Point | What earns it |
 |---|---|
-| 1 | (a) dm = σ2πr dr, integrated to ½M(R₁² + R₂²) |
-| 1 | (a) I = 4.0 × 10⁻³ kg·m² |
+| 1 | (a) dm = (m/R) dr, integrated to mR²/3 for one spoke |
+| 1 | (a) Rim MR² plus five spokes added about one axis: I = 4.0 × 10⁻³ kg·m² |
 | 1 | (b) Three equations with consistent signs and a = Rα |
 | 1 | (b) Correct symbolic a |
 | 1 | (c) a, tensions and α, with the reason the tensions differ |
@@ -174,7 +174,7 @@ Take **+y upward** and **clockwise as positive** for rotation. A uniform rod of 
 
 **(c)** At release ω = 0, so each point has only a_T = rα. Block: a = Lα = **9g/8 = 11 m/s²** downward. Centre of mass at 3L/4: a_cm = (3L/4)(9g/8L) = **27g/32 = 8.3 m/s²** downward. Linear analysis: N − 2Mg = −2M(27g/32), so **N = 5Mg/16 = 4.6 N** upward.
 
-**(d)** The block is fixed to the rod's end. The rod's own weight adds clockwise torque, so the end accelerates faster than free fall, and the rod pushes **down** on the block with an extra Mg/8 = 1.8 N. A free object would fall at only g.
+**(d)** The rod's own weight adds clockwise torque, so the end accelerates faster than g. The rod must push **down** on the block with an extra Mg/8 = 1.8 N.
 
 | Point | What earns it |
 |---|---|
@@ -198,7 +198,7 @@ Take **counterclockwise as positive**. A flywheel is a uniform disk of mass 4.0 
 
 (a) Plot ω against t and find the angular acceleration.
 (b) Find the friction torque, with its sense.
-(c) Predict when the flywheel stops and how many revolutions it makes after the motor is switched off.
+(c) Predict when the flywheel stops and how many revolutions it makes.
 (d) What motor torque holds the flywheel at a steady 42 rad/s? Justify your answer.
 (e) A student says friction torque grows with speed. Do the data support this? Give evidence.
 
@@ -230,46 +230,42 @@ Take **counterclockwise as positive**. A flywheel is a uniform disk of mass 4.0 
 
 Take **+x east, +y north and counterclockwise (seen from above) as positive**, with the origin on the axle. A horizontal platform is a uniform disk of mass 20 kg and radius 0.50 m on a frictionless vertical axle. It starts at rest. At t = 0 a worker pushes with a horizontal force F = (−12î + 16ĵ) N at the point r = (0.40î + 0.30ĵ) m on its rim.
 
-(a) Find τ = r × F and the initial angular acceleration. Show that F is perpendicular to r.
+(a) Find τ = r × F and the initial angular acceleration.
 (b) Find the axle force at t = 0.
 (c) The worker walks with the platform, pushing along the rim, but tires, so τ(t) = 10 − 2.5t (N·m) for 0 ≤ t ≤ 4.0 s. Find ω(t), and ω and θ at t = 4.0 s.
 (d) At t = 4.0 s, find the speed of a rim point and the size of its acceleration.
-(e) A student uses α = 4.0 rad/s² throughout. What ω does she get, and why is it wrong?
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** τ_z = xF_y − yF_x = (0.40)(16) − (0.30)(−12) = 6.4 + 3.6 = **+10 N·m** (+z, upward: counterclockwise seen from above). r · F = (0.40)(−12) + (0.30)(16) = 0, so F ⊥ r. Check: rF = 0.50 × 20 = 10 N·m. I = ½(20)(0.50)² = 2.5 kg·m², so **α = 4.0 rad/s²** counterclockwise.
+**(a)** τ_z = xF_y − yF_x = (0.40)(16) − (0.30)(−12) = 6.4 + 3.6 = **+10 N·m** (+z, upward: counterclockwise seen from above). I = ½(20)(0.50)² = 2.5 kg·m², so **α = 4.0 rad/s²** counterclockwise.
 
-**(b)** The axle holds the centre still, so a_cm = 0 and ΣF = 0. The axle force is **(12î − 16ĵ) N**. It has no torque about the axle but cancels the push in the linear analysis.
+**(b)** The axle holds the centre still, so a_cm = 0 and ΣF = 0. The axle force is **(12î − 16ĵ) N**. It has no torque about the axle but balances the push.
 
 **(c)** ω = (1/I)∫₀ᵗ (10 − 2.5t) dt = (10t − 1.25t²) ÷ 2.5 = **4.0t − 0.50t²** (rad/s). At 4.0 s: **ω = 8.0 rad/s**. θ = ∫₀⁴ (4.0t − 0.50t²) dt = 32 − 10.7 = **21 rad** (3.4 turns).
 
 **(d)** v = Rω = 0.50 × 8.0 = **4.0 m/s**. The torque is now zero, so a_T = 0 and a_c = ω²R = 64 × 0.50 = **32 m/s²**, toward the axle.
 
-**(e)** ω = 4.0 × 4.0 = 16 rad/s, twice too large. α falls with the torque, so ω comes from the area under the τ–t graph divided by I.
-
 | Point | What earns it |
 |---|---|
-| 1 | (a) τ = +10 N·m by components, with r · F = 0 |
+| 1 | (a) τ = +10 N·m by components, with its sense |
 | 1 | (a) I = 2.5 kg·m² and α = 4.0 rad/s² |
 | 1 | (b) Axle force (12î − 16ĵ) N from ΣF = 0 at a fixed axle |
 | 1 | (c) ω(t) by integration; 8.0 rad/s and 21 rad |
 | 1 | (d) 4.0 m/s and 32 m/s², with a_T = 0 explained |
-| 1 | (e) 16 rad/s identified as a constant-α error |
 
-**Total: 6 points.**
+**Total: 5 points.**
 </details>
 
 ## How did you do?
 
-Questions 1 to 3 earn 1 point each, Questions 4, 5 and 7 earn 6 each and Question 6 earns 5: 26 in all. The total shows what to revisit; it does not predict an exam score. If a question went wrong:
+Questions 1 to 3 earn 1 point each, Questions 4 and 5 earn 6 each and Questions 6 and 7 earn 5 each: 25 in all. The total shows what to revisit; it does not predict an exam score. If a question went wrong:
 
-- **Q1, Q6(c) or Q7(c):** check that α is constant before using constant-α equations. Use the [Topic 5.1 checklist](/advanced-course-resources/physics-c-mechanics/5-1-rotational-kinematics-checklist/).
-- **Q2, Q4(d) or Q7(d):** practise the linear links with the [Topic 5.2 checklist](/advanced-course-resources/physics-c-mechanics/5-2-connecting-linear-rotational-motion-checklist/).
-- **Q3 or Q7(a):** practise lever arms and cross products with the [Topic 5.3 checklist](/advanced-course-resources/physics-c-mechanics/5-3-torque-checklist/).
-- **Q1, Q4(a) or Q5(b):** build I about the right axis with the [Topic 5.4 checklist](/advanced-course-resources/physics-c-mechanics/5-4-rotational-inertia-checklist/).
-- **Q3, Q5(a) or Q6(d):** revisit equilibrium with the [Topic 5.5 checklist](/advanced-course-resources/physics-c-mechanics/5-5-rotational-equilibrium-newtons-first-law-checklist/).
-- **Q4, Q5(c) or Q7(b):** write one equation per object, with ΣF = Ma_cm separate. Use the [Topic 5.6 checklist](/advanced-course-resources/physics-c-mechanics/5-6-newtons-second-law-rotational-form-checklist/).
+- **Q1, Q6(c) or Q7(c):** check α is constant before using constant-α equations: [Topic 5.1 checklist](/advanced-course-resources/physics-c-mechanics/5-1-rotational-kinematics-checklist/).
+- **Q2, Q4(d) or Q7(d):** the [Topic 5.2 checklist](/advanced-course-resources/physics-c-mechanics/5-2-connecting-linear-rotational-motion-checklist/).
+- **Q3 or Q7(a):** the [Topic 5.3 checklist](/advanced-course-resources/physics-c-mechanics/5-3-torque-checklist/).
+- **Q1, Q4(a) or Q5(b):** the [Topic 5.4 checklist](/advanced-course-resources/physics-c-mechanics/5-4-rotational-inertia-checklist/).
+- **Q3, Q5(a) or Q6(d):** the [Topic 5.5 checklist](/advanced-course-resources/physics-c-mechanics/5-5-rotational-equilibrium-newtons-first-law-checklist/).
+- **Q4, Q5(c) or Q7(b):** one equation per object, ΣF = Ma_cm separate: the [Topic 5.6 checklist](/advanced-course-resources/physics-c-mechanics/5-6-newtons-second-law-rotational-form-checklist/).
 
-After you revise, retake the matching part of the [Unit 5 diagnostic](/advanced-course-resources/physics-c-mechanics/unit-5-diagnostic/), then try this review again a few days later.
+After revising, retake the matching [Unit 5 diagnostic](/advanced-course-resources/physics-c-mechanics/unit-5-diagnostic/) questions, then retry this review later.

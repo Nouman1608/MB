@@ -148,17 +148,17 @@ A hanging mobile is a uniform rod of mass 0.30 kg and length 0.90 m. A 0.20 kg o
 
 - (A) 0.45 m
 - (B) 0.60 m
-- (C) 0.55 m
-- (D) 0.35 m
+- (C) 0.35 m
+- (D) 0.55 m
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** Take torques about the string, distance x from the left end. Counterclockwise: 0.20g·x + 0.30g(x − 0.45). Clockwise: 0.40g(0.90 − x). Setting them equal gives 0.90x = 0.495, so x = 0.55 m.
+**Answer: (D).** Take torques about the string, distance x from the left end. Counterclockwise: 0.20g·x + 0.30g(x − 0.45). Clockwise: 0.40g(0.90 − x). Setting them equal gives 0.90x = 0.495, so x = 0.55 m.
 
 - (A) is the midpoint. It ignores the unequal ornaments.
 - (B) forgets the rod's own weight, acting at its centre.
-- (D) is the right distance measured from the wrong end.
+- (C) is the right distance measured from the wrong end.
 
 **If you missed this:** read "Choosing the pivot" and Worked example 1 in the [Topic 5.5 study guide](/advanced-course-resources/physics-1/5-5-rotational-equilibrium-newtons-first-law-study-guide/).
 </details>

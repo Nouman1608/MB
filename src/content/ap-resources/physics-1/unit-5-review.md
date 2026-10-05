@@ -107,19 +107,19 @@ A light rod carries two 0.40 kg beads, each 0.10 m from a central axle. A consta
 
 A hand winch has a crank handle 0.30 m from the axle, fixed to a drum of radius 0.075 m. A rope on the drum lifts a 40 kg sack at constant speed. The worker pushes at right angles to the crank; ignore friction. Which statement is correct?
 
-- (A) The push is 98 N, and the handle moves 4 times as fast as the sack.
+- (A) The push is 392 N, because a sack lifted at constant speed needs its full weight.
 - (B) The push is 98 N, and the handle and the sack move at the same speed.
 - (C) The push is 1.6 × 10³ N, and the handle moves a quarter as fast as the sack.
-- (D) The push is 392 N, because a sack lifted at constant speed needs its full weight.
+- (D) The push is 98 N, and the handle moves 4 times as fast as the sack.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Constant ω means Στ = 0: F × 0.30 = 392 × 0.075, so F = 98 N. Handle and drum share ω, so speeds scale with radius: 0.30 ÷ 0.075 = 4.
+**Answer: (D).** Constant ω means Στ = 0: F × 0.30 = 392 × 0.075, so F = 98 N. Handle and drum share ω, so speeds scale with radius: 0.30 ÷ 0.075 = 4.
 
+- (A) balances forces on the sack, not torques on the winch. The 392 N tension acts at a smaller radius than the push.
 - (B) gives both points the same speed. They share ω, not v.
 - (C) inverts the radius ratio in both parts.
-- (D) balances forces on the sack, not torques on the winch. The 392 N tension acts at a smaller radius than the push.
 </details>
 
 ## Question 4 (constructed response · mixed)
@@ -180,7 +180,7 @@ Run 1: I = **0.022 kg·m²** (0.0219). Run 2: a = 0.0236 m/s², so I = **0.052 k
 
 **(d)** I = I_t + 2m_b d². Subtracting: 0.0298 = 2m_b(0.0375), so **m_b = 0.40 kg**. Then I_t = 0.0219 − 2(0.40)(0.050²) = **0.020 kg·m²**.
 
-**(e)** **Acceptable here, but only because a ≪ g.** T is 99.4% of mg, so τ = mgr raises I by about 0.5%, well inside the timing uncertainty. With a larger a, T falls well below mg and the shortcut overestimates I.
+**(e)** **Acceptable here, but only because a ≪ g.** T is 99.4% of mg, so τ = mgr raises I by about 0.6%, well inside the timing uncertainty. With a larger a, T falls well below mg and the shortcut overestimates I.
 
 | Point | What earns it |
 |---|---|

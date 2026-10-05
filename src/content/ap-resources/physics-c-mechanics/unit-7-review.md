@@ -37,7 +37,7 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-This review pulls the five topics of Unit 7 (Oscillations) together. Read the big ideas and the table, then try the seven questions, each combining two or more topics, **without notes**. These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric, not official scoring. Use g = 9.8 m/s² (10 m/s² is equally acceptable) and keep your calculator in radian mode. Springs are ideal unless stated. If you have not yet done the [Unit 7 diagnostic](/advanced-course-resources/physics-c-mechanics/unit-7-diagnostic/), do it first.
+This review links the five topics of Unit 7 (Oscillations). Read the big ideas and table, then try the seven mixed questions **without notes**. These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric, not official scoring. Use g = 9.8 m/s² (10 m/s² is equally acceptable) and keep your calculator in radian mode. Springs are ideal unless stated. If you have not yet done the [Unit 7 diagnostic](/advanced-course-resources/physics-c-mechanics/unit-7-diagnostic/), do it first.
 
 ## Big ideas of the unit
 
@@ -67,21 +67,21 @@ This review pulls the five topics of Unit 7 (Oscillations) together. Read the bi
 
 ## Question 1 (multiple choice · mixed)
 
-A block on a spring oscillates with period T and amplitude A. It is replaced by a block of **four times the mass** on the same spring, and the new system is given the **same total energy**. What are the new period and amplitude?
+A block on a spring oscillates with period T and greatest acceleration a. It is replaced by a block with **one quarter of the mass** on the same spring, released from the **same amplitude**. What are the new period and greatest acceleration?
 
-- (A) 2T; A
-- (B) 2T; A/2
-- (C) T; A
-- (D) 4T; A/2
+- (A) T/4; 16a
+- (B) T/2; 4a
+- (C) T/2; 2a
+- (D) 2T; a/4
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** T = 2π√(m/k), so four times the mass doubles T. E = ½kA² contains no mass: the same spring with the same energy has the same amplitude. Only v_max changes: it halves.
+**Answer: (B).** ω = √(k/m), so a quarter of the mass doubles ω and halves T. With the same A, a_max = Aω² becomes 4 times as large.
 
-- (B) halves A, which would mean a quarter of the energy.
-- (C) forgets that T depends on m.
-- (D) uses T ∝ m instead of √m, and also halves A.
+- (A) uses T ∝ m instead of √m, so ω is 4 times as large and a_max 16 times.
+- (C) halves T correctly but scales a_max like v_max = Aω, which only doubles.
+- (D) inverts both dependences: a lighter block oscillates faster.
 </details>
 
 ## Question 2 (multiple choice · mixed)
@@ -143,7 +143,7 @@ Take **+y upward**, origin at equilibrium. A platform fixed to the top of a vert
 
 **(d)** For the coin, N − m_c g = m_c a_y. At the top, a_y = −6.0 m/s²: N = 0.010(9.8 − 6.0) = **0.038 N**. At the bottom, a_y = +6.0 m/s²: N = 0.010(9.8 + 6.0) = **0.16 N**.
 
-**(e)** Contact is lost at the top if N reaches zero, that is when a_max = g. So A_max = g/ω² = 9.8 ÷ 400 = **0.0245 m**, equal to d. At that amplitude the spring just reaches its natural length at the top, so platform and coin both fall at g. Any further, the stretched spring pulls the platform down faster than g, but only gravity pulls the coin, so it lifts off.
+**(e)** Contact is lost at the top if N reaches zero, that is when a_max = g. So A_max = g/ω² = 9.8 ÷ 400 = **0.0245 m**, equal to d. At that amplitude the spring just reaches its natural length at the top, so both fall at g. Any larger, and the stretched spring pulls the platform down faster than g while only gravity acts on the coin, so it lifts off.
 
 | Point | What earns it |
 |---|---|
@@ -229,7 +229,7 @@ A student hangs uniform rods of different lengths L from a pivot through one end
 | 1 | (d) l_eq = 0.40 m |
 | 1 | (e) 1.2 s from T ∝ √L |
 
-**Total: 6 points.** Timing 20 swings, rather than one, shares the reaction-time error across 20 periods.
+**Total: 6 points.**
 </details>
 
 ## Question 7 (constructed response · mixed)
@@ -251,7 +251,7 @@ Take **counterclockwise as positive**. A uniform 2.0 kg rod of length 1.20 m swi
 
 **(c)** ΔU = mgd(1 − cos 12°) = 11.76 × 0.0219 = 0.257 J. ½IΩ² = 0.257 J gives **Ω = 0.732 rad/s**. The SHM value is larger, by only about 0.2%.
 
-**(d)** The SHM model uses ½mgdθ², slightly **larger** than mgd(1 − cos θ), so it stores slightly more energy at release and gives a larger top speed. (Equivalently, sin θ < θ, so the true torque is weaker.) At 12° the difference is tiny.
+**(d)** The SHM model uses ½mgdθ², slightly **larger** than mgd(1 − cos θ), so it stores slightly more energy at release and gives a larger top speed. (Equivalently, sin θ < θ, so the true torque is weaker.)
 
 **(e)** K is greatest each time the rod passes the vertical, twice per cycle: every **T/2 = 0.90 s**.
 
@@ -269,12 +269,12 @@ Take **counterclockwise as positive**. A uniform 2.0 kg rod of length 1.20 m swi
 
 ## How did you do?
 
-Add up your points: Questions 1 to 3 are worth 1 point each, Question 4 is worth 7 points and Questions 5 to 7 are worth 6 points each, for 28 in all. The total shows what to revisit; it does not predict an exam score.
+Questions 1 to 3 score 1 point each, Question 4 scores 7 and Questions 5 to 7 score 6 each: 28 in all. The total shows what to revisit; it does not predict an exam score.
 
 - **Q3 or Q4(a)–(b):** find equilibrium first, then the net force about it. Use the [Topic 7.1 checklist](/advanced-course-resources/physics-c-mechanics/7-1-defining-simple-harmonic-motion-shm-checklist/).
 - **Q1, Q6(e) or any period:** practise period formulas and factors of change with the [Topic 7.2 checklist](/advanced-course-resources/physics-c-mechanics/7-2-frequency-period-shm-checklist/).
-- **Q4(c)–(e) or Q5(b)–(d):** check v_max = Aω, a_max = Aω² and the quadrant of φ₀. Use the [Topic 7.3 checklist](/advanced-course-resources/physics-c-mechanics/7-3-representing-analyzing-shm-checklist/).
+- **Q1, Q4(c)–(e) or Q5(b)–(d):** check v_max = Aω, a_max = Aω² and the quadrant of φ₀. Use the [Topic 7.3 checklist](/advanced-course-resources/physics-c-mechanics/7-3-representing-analyzing-shm-checklist/).
 - **Q2, Q5 or Q7(c)–(e):** link energy to amplitude; energy repeats every T/2. Use the [Topic 7.4 checklist](/advanced-course-resources/physics-c-mechanics/7-4-energy-simple-harmonic-oscillators-checklist/).
 - **Q6 or Q7(a)–(b):** take I about the pivot and d to the centre of mass. Use the [Topic 7.5 checklist](/advanced-course-resources/physics-c-mechanics/7-5-simple-physical-pendulums-checklist/).
 
-After you revise, retake the matching part of the [Unit 7 diagnostic](/advanced-course-resources/physics-c-mechanics/unit-7-diagnostic/), then try this review again a few days later.
+After revising, retake the matching [Unit 7 diagnostic](/advanced-course-resources/physics-c-mechanics/unit-7-diagnostic/) questions, then retry this review a few days later.

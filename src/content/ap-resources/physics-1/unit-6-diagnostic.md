@@ -76,7 +76,7 @@ A wheel (I = 0.20 kg·m²) starts at rest; its direction of turning is positive.
 - (C) forgets the ½ in ½Iω².
 - (D) adds the two areas (21 J). The brake's work is negative.
 
-**If you missed this:** read "Positive, negative and zero work" and "When the torque changes: area under the graph" in the [Topic 6.2 study guide](/advanced-course-resources/physics-1/6-2-torque-work-study-guide/).
+**If you missed this:** read "When the torque changes: area under the graph" in the [Topic 6.2 study guide](/advanced-course-resources/physics-1/6-2-torque-work-study-guide/).
 </details>
 
 ## Question 3 (multiple choice · 6.3)
@@ -115,8 +115,8 @@ Take counterclockwise (seen from above) as positive. A platform (I = 400 kg·m²
 **Answer: (A).** System: student + platform. Foot–platform friction is internal, so L stays zero. The student has L = mvr = +180 kg·m²/s, so the platform needs −180 kg·m²/s: ω = −180 ÷ 400 = −0.45 rad/s.
 
 - (B) has the wrong direction: the total must stay zero.
-- (C) forgets that the student's feet push the platform backwards: for the platform alone, that is an external torque.
-- (D) gives the platform the student's angular speed, v / r. It is the angular momenta that cancel, not the angular velocities.
+- (C) forgets that the student's feet push the platform backwards.
+- (D) gives the platform the student's angular speed, v / r. Angular momenta cancel, not angular velocities.
 
 **If you missed this:** read "Choosing the system" in the [Topic 6.4 study guide](/advanced-course-resources/physics-1/6-4-conservation-angular-momentum-study-guide/).
 </details>
@@ -160,7 +160,7 @@ A uniform solid cylinder (I = ½MR²) rolls without slipping, and its total kine
 - (C) applies the hoop's factor of 2 to the cylinder's total instead of to ½Mv².
 - (D) is only the translational part.
 
-**If you missed this:** read "Kinetic energy of a rolling object" and its table in the [Topic 6.5 study guide](/advanced-course-resources/physics-1/6-5-rolling-study-guide/).
+**If you missed this:** read "Kinetic energy of a rolling object" in the [Topic 6.5 study guide](/advanced-course-resources/physics-1/6-5-rolling-study-guide/).
 </details>
 
 ## Question 7 (multiple choice · 6.6)
@@ -177,7 +177,7 @@ A satellite moves to a new circular orbit with **4 times** the radius of its old
 
 **Answer: (D).** v² = GM/r, so v ∝ 1/√r and the speed halves. L = mvr changes by ½ × 4 = 2.
 
-- (A) treats v as proportional to 1/r and assumes L is conserved. L is constant within one orbit, not between orbits: a rocket burn changes it.
+- (A) treats v as proportional to 1/r and assumes L is conserved between orbits. It is constant only within one orbit.
 - (B) forgets that r also changes in mvr.
 - (C) assumes a bigger orbit is faster. Weaker gravity farther out needs less speed.
 
@@ -199,7 +199,7 @@ A wheel (I = 0.50 kg·m²) starts at rest; its direction of spin is positive. A 
 
 **(b)** The brake must remove 6.0 kg·m²/s: Δt = ΔL ÷ τ = −6.0 ÷ (−1.5) = **4.0 s**. The wheel stops at t = 7.0 s.
 
-**(c)** A straight line rising from 0 to 6.0 kg·m²/s between 0 and 3.0 s (slope +2.0 N·m), then a straight line falling to zero at 7.0 s (slope −1.5 N·m). The slope of an L–t graph is the net torque.
+**(c)** A straight line rising from 0 to 6.0 kg·m²/s between 0 and 3.0 s (slope +2.0 N·m), then a straight line falling to zero at 7.0 s (slope −1.5 N·m). Each slope is the net torque.
 
 Check yourself: 1 point each for 6.0 kg·m²/s with 12 rad/s, 4.0 s, the shape, and slopes equal to the torques.
 
@@ -219,9 +219,9 @@ A uniform solid cylinder of mass 3.0 kg and radius 0.10 m (I = ½MR² = 0.015 kg
 
 **(a)** ω = v / R = 2.0 ÷ 0.10 = **20 rad/s**. K = ½ × 3.0 × 2.0² + ½ × 0.015 × 20² = 6.0 + 3.0 = **9.0 J**.
 
-**(b)** Both stay **constant**. No horizontal force acts, so v_cm is fixed, and no force has a torque about the centre, so ω is fixed. v_cm = Rω still holds, so nothing slides: ideal rolling on level ground needs no friction.
+**(b)** Both stay **constant**. No horizontal force acts, so v_cm is fixed, and no force has a torque about the centre, so ω is fixed. v_cm = Rω still holds: rolling on level ground needs no friction.
 
-**(c)** Gravity and the normal force act through the centre, so there is no torque and ω **stays 20 rad/s**. Only the translational 6.0 J becomes potential energy: h = v² ÷ 2g = **0.20 m**. (Rolling up a rough ramp, the spin energy would convert too, giving 0.31 m.)
+**(c)** Gravity and the normal force act through the centre, so there is no torque and ω **stays 20 rad/s**. Only the translational 6.0 J becomes potential energy: h = v² ÷ 2g = **0.20 m**. (On a rough ramp the spin energy would convert too: 0.31 m.)
 
 Check yourself: 1 point each for 20 rad/s with 9.0 J, both constant on the ice with reasons, ω unchanged on the ramp, and 0.20 m from translational energy only.
 
@@ -243,7 +243,7 @@ A 600 kg satellite moves in a circular orbit of radius 1.2 × 10⁷ m around a f
 
 **(b)** K = ½mv² = 7.5 × 10⁹ J and U_g = −GMm / r = −1.5 × 10¹⁰ J, so E = **−7.5 × 10⁹ J**.
 
-**(c)** To escape, E must rise to zero, so at least **7.5 × 10⁹ J** is needed. That equals K, because E = −K in a circular orbit. (½m(v_esc − v)² = 1.3 × 10⁹ J is wrong: subtract energies, not speeds.)
+**(c)** To escape, E must rise to zero, so at least **7.5 × 10⁹ J** is needed. That equals K, because E = −K in a circular orbit. (Do not use ½m(v_esc − v)²: subtract energies, not speeds.)
 
 Check yourself: 1 point each for both speeds, negative E, the condition E = 0, and the link to E = −K.
 
@@ -265,8 +265,8 @@ Mark each question right or wrong. Count Questions 8 to 10 as right only if you 
 
 ## How to use your result
 
-- **Missed one question in a topic?** Re-read the section named in that answer, then try the topic's practice set.
-- **Missed two or more questions in a topic?** Start again with that study guide, including its worked examples, before doing any mixed practice.
+- **Missed one question in a topic?** Re-read the section named in the answer, then try that topic's practice set.
+- **Missed two or more questions in a topic?** Start again with that study guide and its worked examples before mixed practice.
 - **Guessed?** Treat the question as missed.
-- **Look for patterns.** Errors in Questions 2, 3 and 4 usually come from signs. Errors in Questions 1, 6 and 7 usually mean a missing square or square root.
-- **All correct?** Move straight to the [mixed unit review](/advanced-course-resources/physics-1/unit-6-review/), which combines the topics in longer exam-style questions.
+- **Look for patterns.** Errors in Questions 2 to 4 often come from signs; errors in Questions 1, 6 and 7 from a missing square or square root.
+- **All correct?** Move straight to the [mixed unit review](/advanced-course-resources/physics-1/unit-6-review/).

@@ -48,17 +48,17 @@ How to take it:
 
 A ray reflects from a plane mirror. The angle between the incident ray and the reflected ray is 64°. What angle does the incident ray make with the **surface** of the mirror?
 
-- (A) 58°
-- (B) 32°
+- (A) 32°
+- (B) 58°
 - (C) 64°
 - (D) 26°
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** The rays make equal angles on opposite sides of the normal, so θᵢ = θᵣ = 64° ÷ 2 = 32° from the normal. The angle with the surface is 90° − 32° = 58°.
+**Answer: (B).** The rays make equal angles on opposite sides of the normal, so θᵢ = θᵣ = 64° ÷ 2 = 32° from the normal. The angle with the surface is 90° − 32° = 58°.
 
-- (B) is the angle of incidence, measured from the normal, not the surface.
+- (A) is the angle of incidence, measured from the normal, not the surface.
 - (C) is the angle between the two rays.
 - (D) is 90° − 64°, mixing two different angles.
 
@@ -69,19 +69,19 @@ A ray reflects from a plane mirror. The angle between the incident ray and the r
 
 Under a lamp, a matte (slightly rough) photo looks clear from every seat, but a glossy photo shows a glare spot from certain seats only. Which is the best explanation?
 
-- (A) The normal varies across the matte surface, so light reflects in many directions; on the glossy surface it is nearly constant, so light reflects one way.
+- (A) The glossy surface reflects light at a larger angle than the angle of incidence, concentrating it.
 - (B) The matte surface does not obey the law of reflection.
 - (C) The matte surface absorbs all the light; the glossy one reflects all of it.
-- (D) The glossy surface reflects light at a larger angle than the angle of incidence, concentrating it.
+- (D) The normal varies across the matte surface, so light reflects in many directions; on the glossy surface it is nearly constant, so light reflects one way.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Diffuse (matte) against specular (glossy) reflection. The law of reflection holds at every tiny patch of both; what differs is how the normal varies across the lit area.
+**Answer: (D).** Diffuse (matte) against specular (glossy) reflection. The law of reflection holds at every tiny patch of both; what differs is how the normal varies across the lit area.
 
+- (A) No surface breaks θᵢ = θᵣ. The glare is bright because the reflected rays all leave one way.
 - (B) is the common mistake: rough surfaces still obey θᵢ = θᵣ patch by patch.
 - (C) If the matte photo absorbed all the light, you could not see it at all.
-- (D) No surface breaks θᵢ = θᵣ. The glare is bright because the reflected rays all leave one way.
 
 **If you missed this:** read "Specular and diffuse reflection" in the [Topic 13.1 study guide](/advanced-course-resources/physics-2/13-1-reflection-study-guide/).
 </details>
@@ -90,18 +90,18 @@ Under a lamp, a matte (slightly rough) photo looks clear from every seat, but a 
 
 A beam of rays parallel to the principal axis strikes a convex spherical mirror whose radius of curvature is 30 cm. Which describes the reflected rays?
 
-- (A) They spread out as if they came from a point on the axis 15 cm behind the mirror.
+- (A) They spread out as if they came from a point on the axis 30 cm behind the mirror.
 - (B) They meet at a point on the axis 15 cm in front of the mirror.
-- (C) They spread out as if they came from a point on the axis 30 cm behind the mirror.
+- (C) They spread out as if they came from a point on the axis 15 cm behind the mirror.
 - (D) They stay parallel to the axis after reflection.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** A convex mirror diverges light. Parallel rays appear to come from the focal point behind it, and f ≈ R/2 = 15 cm.
+**Answer: (C).** A convex mirror diverges light. Parallel rays appear to come from the focal point behind it, and f ≈ R/2 = 15 cm.
 
+- (A) uses the radius of curvature instead of half of it.
 - (B) describes a **concave** mirror.
-- (C) uses the radius of curvature instead of half of it.
 - (D) describes a plane mirror, whose focal point is infinitely far away.
 
 **If you missed this:** read "Curved mirrors and the focal point" in the [Topic 13.2 study guide](/advanced-course-resources/physics-2/13-2-images-formed-mirrors-study-guide/).
@@ -132,18 +132,18 @@ An object 3.0 cm tall stands on the axis 25 cm in front of a concave mirror of f
 
 A ray of light passes from medium A into medium B and bends **away from** the normal. Which statement is correct?
 
-- (A) n_B < n_A, and light travels faster in B than in A.
+- (A) n_B < n_A, and light travels slower in B than in A.
 - (B) n_B > n_A, and light travels slower in B than in A.
-- (C) n_B < n_A, and light travels slower in B than in A.
+- (C) n_B < n_A, and light travels faster in B than in A.
 - (D) n_B > n_A, and light travels faster in B than in A.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Bending away from the normal means entering a lower n. Since n = c/v, lower n means faster light.
+**Answer: (C).** Bending away from the normal means entering a lower n. Since n = c/v, lower n means faster light.
 
+- (A) and (D) break n = c/v: larger n, smaller speed.
 - (B) describes bending **toward** the normal.
-- (C) and (D) break n = c/v: larger n, smaller speed.
 
 **If you missed this:** read "Why light bends" and "The index of refraction" in the [Topic 13.3 study guide](/advanced-course-resources/physics-2/13-3-refraction-study-guide/).
 </details>
@@ -152,17 +152,17 @@ A ray of light passes from medium A into medium B and bends **away from** the no
 
 A ray in air strikes the flat surface of a clear plastic (n = 1.48) with an angle of incidence of 52°. What is the angle of refraction?
 
-- (A) 32.2°
-- (B) 35.1°
+- (A) 35.1°
+- (B) 32.2°
 - (C) 24.6°
 - (D) 52°
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Snell's law: (1.00) sin 52° = 1.48 sin θ₂, so sin θ₂ = 0.788 ÷ 1.48 = 0.532 and θ₂ = 32.2°, bent toward the normal as expected.
+**Answer: (B).** Snell's law: (1.00) sin 52° = 1.48 sin θ₂, so sin θ₂ = 0.788 ÷ 1.48 = 0.532 and θ₂ = 32.2°, bent toward the normal as expected.
 
-- (B) divides the angle by n. Snell's law works with the **sines** of the angles.
+- (A) divides the angle by n. Snell's law works with the **sines** of the angles.
 - (C) uses 38°, the angle with the surface, as the angle of incidence.
 - (D) assumes no bending, true only along the normal.
 
@@ -173,19 +173,19 @@ A ray in air strikes the flat surface of a clear plastic (n = 1.48) with an angl
 
 In a ray diagram, a ray from the top of an object passes through the focal point on the object's side of a converging lens and then reaches the lens. Where does it go after the lens?
 
-- (A) It leaves parallel to the principal axis.
+- (A) It bends so that it crosses the axis at twice the focal length on the far side.
 - (B) It passes through the focal point on the far side of the lens.
 - (C) It continues in a straight line without bending.
-- (D) It bends so that it crosses the axis at twice the focal length on the far side.
+- (D) It leaves parallel to the principal axis.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** This is the parallel ray reversed. A parallel ray refracts through the far focal point, and light paths are reversible, so a ray through the near focal point leaves parallel.
+**Answer: (D).** This is the parallel ray reversed. A parallel ray refracts through the far focal point, and light paths are reversible, so a ray through the near focal point leaves parallel.
 
+- (A) is not a principal-ray rule.
 - (B) is what happens to a ray that arrives **parallel** to the axis.
 - (C) is the rule for the ray through the centre of the lens.
-- (D) is not a principal-ray rule.
 
 **If you missed this:** read "The three principal rays" in the [Topic 13.4 study guide](/advanced-course-resources/physics-2/13-4-images-formed-lenses-study-guide/).
 </details>
@@ -213,17 +213,17 @@ A thin lens forms an upright image three times the size of an object placed 4.0 
 
 ## Question 9 (short answer · 13.2)
 
-An object 2.0 cm tall stands on the axis 20 cm in front of a concave mirror of focal length 15 cm.
+An object 2.0 cm tall stands on the axis 24 cm in front of a concave mirror of focal length 16 cm.
 
 (a) Describe the paths of two principal rays from the top of the object after they reflect.
 (b) Calculate the image distance and image height, and describe the image fully.
-(c) The object is moved to 15 cm from the mirror. What happens to the image? Explain.
+(c) The object is moved to 16 cm from the mirror. What happens to the image? Explain.
 
 <details>
 <summary>Worked answer</summary>
 
 1. (a) Any two of: the parallel ray reflects **through F**; the ray through F reflects **parallel**; the ray to the vertex reflects at the **same angle** to the axis on the other side.
-2. (b) 1/sᵢ = 1/15 − 1/20 = 1/60, so **sᵢ = +60 cm**. |M| = 60/20 = 3.0, so **hᵢ = 6.0 cm**. The image is 60 cm in front of the mirror: **real, inverted, enlarged**.
+2. (b) 1/sᵢ = 1/16 − 1/24 = 1/48, so **sᵢ = +48 cm**. |M| = 48/24 = 2.0, so **hᵢ = 4.0 cm**. The image is 48 cm in front of the mirror: **real, inverted, enlarged**.
 3. (c) The object is at F: 1/sᵢ = 0. The reflected rays leave **parallel** and never meet, so **no image forms**.
 
 **If you missed this:** read "The three principal rays" and the image table under "Magnification" in the [Topic 13.2 study guide](/advanced-course-resources/physics-2/13-2-images-formed-mirrors-study-guide/).

@@ -36,9 +36,9 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-**What this is for.** This diagnostic shows which Unit 2 (Force and Translational Dynamics) topics to revisit: one question per topic, two for Topics 2.5 and 2.10. These are **original Marlbridge practice questions**, not past exam questions. The set is not calibrated against real exam results, so it **does not give a predicted score**. Each wrong answer points to one topic.
+**What this is for.** This diagnostic shows which Unit 2 (Force and Translational Dynamics) topics to revisit: one question per topic, two for Topics 2.5 and 2.10. These are **original Marlbridge practice questions**, not past exam questions. The set is not calibrated against real exam results, so it **does not give a predicted score**.
 
-**How to sit it.** Allow about 30 minutes, without notes. Use a calculator for arithmetic and trigonometry; do the calculus by hand. Use g = 9.8 m/s² (10 m/s² is equally acceptable). Strings and springs are ideal. In formulas, t is in s and v in m/s.
+**How to sit it.** Allow about 30 minutes, without notes. Do the calculus by hand; use a calculator only for arithmetic and trigonometry. Use g = 9.8 m/s² (10 m/s² is equally acceptable). Strings and springs are ideal. In formulas, t is in s and v in m/s.
 
 ## Question 1 (multiple choice · 2.1)
 
@@ -87,18 +87,18 @@ A crate sits on the flat bed of a lorry. The lorry speeds up forward and the cra
 A small ball hangs at rest from a light string tied to a ceiling. Which pair is a Newton's third-law pair?
 
 - (A) Earth on ball, and string on ball
-- (B) String on ball, and ball on string
-- (C) Earth on ball, and ceiling on string
-- (D) String on ball, and string on ceiling
+- (B) Earth on ball, and ceiling on string
+- (C) String on ball, and string on ceiling
+- (D) String on ball, and ball on string
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** Swap the names: "string on ball" becomes "ball on string". Same two objects, same type, equal and opposite.
+**Answer: (D).** Swap the names: "string on ball" becomes "ball on string". Same two objects, same type, equal and opposite.
 
-- (A) Both act on the ball and they are different types; they are equal only because the ball is at rest.
-- (C) involves three objects.
-- (D) Both are exerted **by** the string. A pair swaps who exerts and who receives.
+- (A) Both act on the ball, and they are different types.
+- (B) involves three objects.
+- (C) Both are exerted **by** the string. A pair swaps who exerts and who receives.
 
 **If you missed this:** "Testing whether two forces form a pair" in the [Topic 2.3 study guide](/advanced-course-resources/physics-c-mechanics/2-3-newtons-third-law-study-guide/).
 </details>
@@ -126,9 +126,9 @@ Take **+x east and +y north**. A puck slides east at a constant 2.0 m/s on a smo
 
 ## Question 5 (multiple choice · 2.5)
 
-Three blocks in a row on a smooth floor have masses 1.0 kg, 2.0 kg and 3.0 kg, from left to right. A hand pushes the 1.0 kg block to the right with 18 N. What force does the 2.0 kg block exert on the 3.0 kg block?
+Three blocks in a row on a smooth floor have masses 1.0 kg, 2.0 kg and 3.0 kg, from left to right. A hand pushes the 1.0 kg block to the right with 18 N. What force does the 1.0 kg block exert on the 2.0 kg block?
 
-- (A) 6.0 N
+- (A) 3.0 N
 - (B) 9.0 N
 - (C) 15 N
 - (D) 18 N
@@ -136,10 +136,10 @@ Three blocks in a row on a smooth floor have masses 1.0 kg, 2.0 kg and 3.0 kg, f
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** All three: a = 18 ÷ 6.0 = 3.0 m/s². The 3.0 kg block alone: F = 3.0 × 3.0 = **9.0 N**.
+**Answer: (C).** All three: a = 18 ÷ 6.0 = 3.0 m/s². The contact force must accelerate the 2.0 kg and 3.0 kg blocks together: F = 5.0 × 3.0 = **15 N**.
 
-- (A) uses the middle block's mass.
-- (C) is the force between the first two blocks, which accelerates 5.0 kg.
+- (A) is the net force on the 1.0 kg block alone (18 − 15), not the contact force.
+- (B) is the force between the 2.0 kg and 3.0 kg blocks, which accelerates only 3.0 kg.
 - (D) assumes the push passes unchanged through every block.
 
 **If you missed this:** Worked example 2, "choosing the system", in the [Topic 2.5 study guide](/advanced-course-resources/physics-c-mechanics/2-5-newtons-second-law-study-guide/).
@@ -147,20 +147,20 @@ Three blocks in a row on a smooth floor have masses 1.0 kg, 2.0 kg and 3.0 kg, f
 
 ## Question 6 (multiple choice · 2.6)
 
-A probe hovers at a height 2R above the surface of a uniform planet of radius R. What is the gravitational field there, as a fraction of the surface value g_s?
+A probe hovers at a height 3R above the surface of a uniform planet of radius R. What is the gravitational field there, as a fraction of the surface value g_s?
 
-- (A) g_s/3
-- (B) g_s/4
-- (C) g_s/9
-- (D) g_s/27
+- (A) g_s/4
+- (B) g_s/9
+- (C) g_s/16
+- (D) g_s/64
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** r is measured from the **center**: r = 3R, so g = g_s/3² = **g_s/9**.
+**Answer: (C).** r is measured from the **center**: r = 4R, so g = g_s/4² = **g_s/16**.
 
 - (A) uses 1/r instead of 1/r².
-- (B) uses the height, 2R, as r.
+- (B) uses the height, 3R, as r.
 - (D) cubes the ratio. The r³ belongs to the partial-mass rule inside a uniform sphere.
 
 **If you missed this:** "The gravitational field" in the [Topic 2.6 study guide](/advanced-course-resources/physics-c-mechanics/2-6-gravitational-force-study-guide/).
@@ -199,7 +199,7 @@ Ideal springs of 200 N/m and 300 N/m are joined end to end and pulled. The 200 N
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** The same force acts through both: F = 200 × 0.030 = 6.0 N. The 300 N/m spring stretches 2.0 cm, so the total is **5.0 cm** (check: k_eq = 120 N/m).
+**Answer: (B).** The same force acts through both: F = 200 × 0.030 = 6.0 N. The 300 N/m spring stretches 2.0 cm, so the total is **5.0 cm**.
 
 - (A) uses the parallel rule, k_eq = 500 N/m.
 - (C) gives both springs the same stretch, the parallel condition.
@@ -210,28 +210,28 @@ Ideal springs of 200 N/m and 300 N/m are joined end to end and pulled. The 200 N
 
 ## Question 9 (multiple choice · 2.9)
 
-Take **+y downward**. An object falls from rest with a resistive force F_r = −kv. When its speed is half its terminal speed, what is the size of its acceleration?
+Take **+y downward**. An object falls from rest with a resistive force F_r = −kv, with terminal speed v_T. At the instant its acceleration is 0.25g, what is its speed?
 
-- (A) 0
-- (B) 0.37g
-- (C) g/2
-- (D) g
+- (A) 0.25v_T
+- (B) 0.50v_T
+- (C) 0.63v_T
+- (D) 0.75v_T
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** a = g − kv/m and kv_T/m = g. At v = v_T/2 the drag is half the weight, so a = **g/2**.
+**Answer: (D).** a = g − kv/m and kv_T/m = g, so a/g = 1 − v/v_T. With a = 0.25g, v = **0.75v_T**: the drag is three quarters of the weight.
 
-- (A) applies at terminal velocity.
-- (B) is g e^(−1), the acceleration at t = τ, when v = 0.63v_T.
-- (D) applies only at release, when v = 0.
+- (A) sets v/v_T equal to a/g. In fact the two fractions add to 1.
+- (B) is the speed when a = g/2.
+- (C) is the speed at t = τ, when a = g e^(−1) ≈ 0.37g.
 
 **If you missed this:** "Terminal velocity" in the [Topic 2.9 study guide](/advanced-course-resources/physics-c-mechanics/2-9-resistive-forces-study-guide/).
 </details>
 
 ## Question 10 (multiple choice · 2.10)
 
-A 1200 kg car drives over the top of a rounded hump of radius 40 m at 12 m/s. What is the normal force on the car at the top?
+A 1200 kg car passes the lowest point of a curved dip of radius 40 m at 12 m/s. What is the normal force on the car there?
 
 - (A) 4.3 × 10³ N
 - (B) 7.4 × 10³ N
@@ -241,41 +241,41 @@ A 1200 kg car drives over the top of a rounded hump of radius 40 m at 12 m/s. Wh
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** Take + down, toward the center: mg − N = mv²/r, so N = 1200 × (9.8 − 3.6) = **7.4 × 10³ N**.
+**Answer: (D).** The center of the curve is above the car. Take + up, toward the center: N − mg = mv²/r, so N = 1200 × (9.8 + 3.6) = **1.6 × 10⁴ N**.
 
-- (A) is mv²/r, the inward net force.
+- (A) is mv²/r, the inward net force, not the normal force.
+- (B) subtracts mv²/r from mg, the rule at the top of a hump.
 - (C) is mg, which leaves no inward net force.
-- (D) adds mv²/r to mg, the rule at the bottom of a dip.
 
 **If you missed this:** "Where the inward force comes from" in the [Topic 2.10 study guide](/advanced-course-resources/physics-c-mechanics/2-10-circular-motion-study-guide/).
 </details>
 
 ## Question 11 (short answer · 2.5)
 
-Take **+x forward**. A 0.80 kg toy car on a straight track has v_x(t) = 1.5t² − 0.25t³ for 0 ≤ t ≤ 6.0 s.
+Take **+x forward**. A 2.0 kg robot cart on a straight track has v_x(t) = 0.90t² − 0.10t³ for 0 ≤ t ≤ 9.0 s.
 
 (a) Find the net force F_x(t).
 (b) Find the largest forward net force and when it acts.
 (c) Find when the net force is zero, and the velocity then.
-(d) Comment on the claim "the car is fastest when the net force is largest".
+(d) Comment on the claim "the cart is fastest when the net force is largest".
 
 <details>
 <summary>Answer and explanation</summary>
 
-**(a)** a_x = 3.0t − 0.75t², so F_x = **2.4t − 0.60t²** (N).
+**(a)** a_x = 1.8t − 0.30t², so F_x = 2.0a_x = **3.6t − 0.60t²** (N).
 
-**(b)** dF_x/dt = 2.4 − 1.2t = 0 at **t = 2.0 s**: F_x = **2.4 N**, while v_x is only 4.0 m/s.
+**(b)** dF_x/dt = 3.6 − 1.2t = 0 at **t = 3.0 s**: F_x = **5.4 N**, while v_x is only 5.4 m/s.
 
-**(c)** F_x = 0 at **t = 4.0 s**, where v_x = **8.0 m/s**, its greatest value.
+**(c)** F_x = 0 at **t = 6.0 s**, where v_x = **11 m/s** (10.8 m/s), its greatest value.
 
-**(d)** Wrong. The largest force gives the largest **acceleration**. Velocity rises while F_x > 0 and peaks when F_x = 0; afterwards the car slows, stopping at 6.0 s.
+**(d)** Wrong. The largest force gives the largest **acceleration**. Velocity rises while F_x > 0 and peaks when F_x = 0; then the cart slows, stopping at 9.0 s.
 
 **If you missed this:** "Forces that change with time" in the [Topic 2.5 study guide](/advanced-course-resources/physics-c-mechanics/2-5-newtons-second-law-study-guide/).
 </details>
 
 ## Question 12 (short answer · 2.10)
 
-A 0.20 kg ball on a light 0.50 m string is swung in a vertical circle. Its speed is 4.0 m/s at the bottom and 2.6 m/s at the top.
+A 0.20 kg ball on a light 0.50 m string is swung in a vertical circle. Its speed is 5.0 m/s at the bottom and 2.4 m/s at the top.
 
 (a) Find the tension at the bottom.
 (b) Find the tension at the top.
@@ -284,9 +284,9 @@ A 0.20 kg ball on a light 0.50 m string is swung in a vertical circle. Its speed
 <details>
 <summary>Answer and explanation</summary>
 
-**(a)** The center is above the ball. T − mg = mv²/r, so T = 0.20 × (9.8 + 32) = **8.4 N**.
+**(a)** The center is above the ball. T − mg = mv²/r, so T = 0.20 × (9.8 + 50) = **12 N**.
 
-**(b)** The center is below; both forces point down. T + mg = mv²/r, so T = 0.20 × (13.5 − 9.8) = **0.74 N**.
+**(b)** The center is below; both forces point down. T + mg = mv²/r, so T = 0.20 × (11.5 − 9.8) = **0.34 N**.
 
 **(c)** The string can only pull, so T ≥ 0. With T = 0: v_min = √(gr) = **2.2 m/s**.
 
@@ -312,7 +312,6 @@ Count a short answer as missed if any part went wrong.
 
 ## How to use your result
 
-- **Read every explanation.** A right answer for a wrong reason is still a gap.
 - **Missed one question in a topic?** Read the named section, then try that topic's practice set.
 - **Missed two, or most of a short answer?** Work through the whole study guide, then its practice set and checklist.
 - **Missed several topics?** Start with 2.2 and 2.5: a complete free-body diagram and ΣF = ma, one axis at a time, feed everything else.
