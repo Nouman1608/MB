@@ -44,6 +44,8 @@ version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
 editorialStatus: "drafted"
+checkedBy: "marlbridge-academic-team"
+checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
 ---
 
@@ -84,7 +86,7 @@ So the test is simple: **find the limit first**. If it exists as a finite number
 <g font-size="12" fill="#1d2b44" text-anchor="middle">
 <text x="100" y="196">c</text><text x="300" y="196">c</text><text x="500" y="196">c</text>
 </g>
-<path d="M20 170 Q100 140 180 60" fill="none" stroke="#1d2b44" stroke-width="2.5"/>
+<path d="M20 170 Q 100 140 180 60" fill="none" stroke="#1d2b44" stroke-width="2.5"/>
 <circle cx="100" cy="127.5" r="6" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
 <circle cx="100" cy="80" r="5" fill="#1d2b44"/>
 <text x="110" y="78" font-size="12" fill="#1d2b44">f(c)</text>
@@ -92,8 +94,8 @@ So the test is simple: **find the limit first**. If it exists as a finite number
 <circle cx="300" cy="130" r="6" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
 <circle cx="300" cy="80" r="5" fill="#1d2b44"/>
 <line x1="300" y1="80" x2="380" y2="60" stroke="#1d2b44" stroke-width="2.5"/>
-<path d="M420 165 Q490 160 495 30" fill="none" stroke="#1d2b44" stroke-width="2.5"/>
-<path d="M505 30 Q510 160 580 165" fill="none" stroke="#1d2b44" stroke-width="2.5"/>
+<path d="M420 165 Q 490 160 495 30" fill="none" stroke="#1d2b44" stroke-width="2.5"/>
+<path d="M505 30 Q 510 160 580 165" fill="none" stroke="#1d2b44" stroke-width="2.5"/>
 <g font-size="13" fill="#1d2b44" text-anchor="middle" font-weight="600">
 <text x="100" y="218">Removable (hole)</text><text x="300" y="218">Jump</text><text x="500" y="218">Vertical asymptote</text>
 </g>

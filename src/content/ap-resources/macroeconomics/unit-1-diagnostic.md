@@ -30,6 +30,8 @@ version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
 editorialStatus: "drafted"
+checkedBy: "marlbridge-academic-team"
+checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
 ---
 
@@ -293,12 +295,12 @@ Circle each question you got wrong or guessed.
 
 | Topic | Question(s) | If you missed it, read |
 |---|---|---|
-| 1.1 Scarcity | Q1 | [Scarcity study guide](/advanced-course-resources/macroeconomics/1-1-scarcity-study-guide/) |
-| 1.2 Opportunity cost and the PPC | Q2, Q3 | [Opportunity cost and the PPC study guide](/advanced-course-resources/macroeconomics/1-2-opportunity-cost-production-possibilities-curve-study-guide/) |
-| 1.3 Comparative advantage and gains from trade | Q4, Q9 | [Comparative advantage study guide](/advanced-course-resources/macroeconomics/1-3-comparative-advantage-gains-trade-study-guide/) |
-| 1.4 Demand | Q5, Q11 | [Demand study guide](/advanced-course-resources/macroeconomics/1-4-demand-study-guide/) |
-| 1.5 Supply | Q6 | [Supply study guide](/advanced-course-resources/macroeconomics/1-5-supply-study-guide/) |
-| 1.6 Market equilibrium and changes in equilibrium | Q7, Q8, Q10 | [Market equilibrium study guide](/advanced-course-resources/macroeconomics/1-6-market-equilibrium-disequilibrium-changes-equilibrium-study-guide/) |
+| 1.1 Scarcity | 1 | [Scarcity study guide](/advanced-course-resources/macroeconomics/1-1-scarcity-study-guide/) |
+| 1.2 Opportunity cost and the PPC | 2, 3 | [Opportunity cost and the PPC study guide](/advanced-course-resources/macroeconomics/1-2-opportunity-cost-production-possibilities-curve-study-guide/) |
+| 1.3 Comparative advantage and gains from trade | 4, 9 | [Comparative advantage study guide](/advanced-course-resources/macroeconomics/1-3-comparative-advantage-gains-trade-study-guide/) |
+| 1.4 Demand | 5, 11 | [Demand study guide](/advanced-course-resources/macroeconomics/1-4-demand-study-guide/) |
+| 1.5 Supply | 6 | [Supply study guide](/advanced-course-resources/macroeconomics/1-5-supply-study-guide/) |
+| 1.6 Market equilibrium and changes in equilibrium | 7, 8, 10 | [Market equilibrium study guide](/advanced-course-resources/macroeconomics/1-6-market-equilibrium-disequilibrium-changes-equilibrium-study-guide/) |
 
 ## How to use your result
 

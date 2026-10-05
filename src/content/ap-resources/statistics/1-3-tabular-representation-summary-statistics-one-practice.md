@@ -1,6 +1,6 @@
 ---
 resourceId: "mb-ap-stats-1.3-practice"
-title: "Tabular Representation and Summary Statistics for One Categorical Variable: Practice Questions (Statistics 1.3)"
+title: "Tables and Summary Statistics for One Categorical Variable: Practice Questions (Statistics 1.3)"
 description: "Seven original Marlbridge practice questions on frequency and relative frequency tables, proportions, percentages and ratios, and claims about one categorical variable, with suggested rubrics."
 course: "statistics"
 unit: 1
@@ -31,6 +31,8 @@ version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
 editorialStatus: "drafted"
+checkedBy: "marlbridge-academic-team"
+checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
 ---
 

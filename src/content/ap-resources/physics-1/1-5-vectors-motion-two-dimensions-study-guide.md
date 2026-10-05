@@ -43,6 +43,8 @@ version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
 editorialStatus: "drafted"
+checkedBy: "marlbridge-academic-team"
+checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
 ---
 
@@ -200,7 +202,7 @@ If an object is launched at speed v₀ and angle θ above the horizontal, its st
 <rect x="0" y="0" width="580" height="330" fill="#ffffff"/>
 <path d="M20 230 H560" stroke="#1d2b44" stroke-width="2"/>
 <g stroke="#1d2b44" stroke-width="0.5" stroke-dasharray="2 4" opacity="0.6"><path d="M267.9 230 V134.4"/></g>
-<path d="M40 230 Q267.9 38.8 495.8 230" fill="none" stroke="#1d2b44" stroke-width="2"/>
+<path d="M40 230 Q 267.9 38.8 495.8 230" fill="none" stroke="#1d2b44" stroke-width="2"/>
 <line x1="40.0" y1="230.0" x2="95.2" y2="230.0" stroke="#1d2b44" stroke-width="2.5" marker-end="url(#p15-ah)"/>
 <line x1="40.0" y1="230.0" x2="40.0" y2="183.7" stroke="#1d2b44" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#p15-ah)"/>
 <circle cx="40.0" cy="230.0" r="4.5" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
