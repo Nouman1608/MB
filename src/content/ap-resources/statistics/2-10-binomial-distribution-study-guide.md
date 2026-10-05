@@ -173,7 +173,7 @@ With technology: binomial cdf with n = 12, p = 0.85, x = 9 gives 0.2642.
 
 **(a)** μ = np = 12 × 0.85 = **10.2 seeds**. σ = √[12 × 0.85 × 0.15] = √1.53 = **1.24 seeds**.
 
-If many gardeners each planted 12 of these seeds, the mean number germinating would be about 10.2 seeds per gardener. The number that germinates typically differs from 10.2 by about 1.24 seeds.
+If many gardeners each planted 12 of these seeds, the mean number germinating would be about 10.2 seeds per gardener. Over many such plantings, the number that germinates typically differs from the mean of 10.2 by about 1.24 seeds.
 
 **(b)** The simulation used two-digit random numbers 00 to 99 for each seed: 01 to 85 means "germinates" and 86 to 99 or 00 means "fails", so P(germinate) = 85/100 = 0.85. Each planting used 12 numbers. Results:
 

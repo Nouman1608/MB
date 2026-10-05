@@ -1,6 +1,6 @@
 ---
 resourceId: "mb-ap-stats-3.13-checklist"
-title: "Carrying Out a Test for the Difference Between Two Population Proportions: Topic Checklist (Statistics 3.13)"
+title: "Carrying Out a Test for the Difference Between Two Proportions: Topic Checklist (Statistics 3.13)"
 description: "Specific “I can…” statements for carrying out a two-sample z-test for proportions, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 3

@@ -217,7 +217,7 @@ The smallest expected count is 13.07, so all expected counts are greater than 5.
 | 35–59 | 30.45 | 23.20 | 4.35 |
 | 60 and over | 25.20 | 19.20 | 3.60 |
 
-All three expected counts in the Print column (4.05, 4.35 and 3.60) are **not** greater than 5. **The expected counts condition is not met**, so a chi-square test for independence should not be carried out on this table.
+None of the three expected counts in the Print column (4.05, 4.35 and 3.60) is greater than 5. **The expected counts condition is not met**, so a chi-square test for independence should not be carried out on this table.
 
 **What next?** The newspaper could take a larger random sample. Alternatively, it could combine TV and Print into one category, "TV or print". The expected counts would then be 25.65, 27.55 and 22.80 for that column, all greater than 5. But the question has changed: the test would now ask about online versus traditional sources, not about all three sources.
 

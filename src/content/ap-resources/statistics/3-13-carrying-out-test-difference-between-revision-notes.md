@@ -1,6 +1,6 @@
 ---
 resourceId: "mb-ap-stats-3.13-revision-notes"
-title: "Carrying Out a Test for the Difference Between Two Population Proportions: Revision Notes (Statistics 3.13)"
+title: "Carrying Out a Test for the Difference Between Two Proportions: Revision Notes (Statistics 3.13)"
 description: "One-page recap of the pooled proportion, the two-sample z statistic, p-values, decisions and conclusions for a difference in proportions, with the mistakes that cost marks."
 course: "statistics"
 unit: 3

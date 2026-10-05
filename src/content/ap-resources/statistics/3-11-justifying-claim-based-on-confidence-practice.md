@@ -1,6 +1,6 @@
 ---
 resourceId: "mb-ap-stats-3.11-practice"
-title: "Justifying a Claim Based on a Confidence Interval for a Difference in Proportions: Practice Questions (Statistics 3.11)"
+title: "Justifying a Claim Based on a Confidence Interval for Two Proportions: Practice Questions (Statistics 3.11)"
 description: "Seven original Marlbridge practice questions on interpreting intervals and confidence levels for p₁ − p₂ and using them to justify claims, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 3

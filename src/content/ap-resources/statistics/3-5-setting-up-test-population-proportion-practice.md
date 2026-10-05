@@ -171,7 +171,7 @@ Normality: np₀ = 300 × 0.02 = 6 < 10. ✗ (n(1 − p₀) = 294 is fine.) **Bo
 
 **(c)** We need n × 0.02 ≥ 10, so n ≥ 10 ÷ 0.02 = **500**. Then np₀ = 10 and n(1 − p₀) = 490.
 
-**(d)** Normality needs n ≥ 500, but the 10% condition allows at most n = 250 from 2,500 bulbs. Both cannot be true at once. The inspector could sample from a larger population: a shipment, or a combined set of shipments, of at least 500 × 10 = 5,000 bulbs. Then a random sample of 500 would meet both conditions. (A method that does not need a normal model would be another option, but it is outside this course.)
+**(d)** Normality needs n ≥ 500, but the 10% condition allows at most n = 250 from 2,500 bulbs. Both cannot be true at once. The inspector could sample from a larger population: a shipment, or a combined set of shipments, of at least 500 × 10 = 5,000 bulbs. Then a random sample of 500 would meet both conditions, although the conclusion would then be about that larger population, not this one shipment. (A method that does not need a normal model would be another option, but it is outside this course.)
 
 | Point | What earns it |
 |---|---|

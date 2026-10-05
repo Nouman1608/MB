@@ -172,14 +172,14 @@ Interpretation: if the stated proportions are true, about 10% of pairs of random
 
 **(b)** "Thornley greater" means p̂B − p̂T < 0.
 
-1. z = (0 − 0.13) ÷ 0.05476 ≈ −2.3739.
+1. z = (0 − 0.13) ÷ 0.05476 ≈ −2.3740.
 2. P(p̂B − p̂T < 0) ≈ **0.0088**.
 
 So in fewer than 1 in 100 pairs of samples would the order of the towns be reversed. This is the small area to the left of the "no difference" line in Figure 1.
 
 **(c)** p̂B = 96 ÷ 150 = 0.64 and p̂T = 72 ÷ 180 = 0.40, so p̂B − p̂T = 0.24.
 
-1. z = (0.24 − 0.13) ÷ 0.05476 ≈ 2.0087.
+1. z = (0.24 − 0.13) ÷ 0.05476 ≈ 2.0088.
 2. P(p̂B − p̂T ≥ 0.24) ≈ **0.0223**.
 
 If the true difference were 0.13, a sample difference of 0.24 or more would happen in only about 2% of pairs of samples. That is fairly unusual, so the samples **give some reason to doubt** that the true difference is as small as 0.13. They do not prove it: unusual samples do happen. Formal tests for a difference come in Topics 3.12 and 3.13.
@@ -220,4 +220,4 @@ Suppose a fictional factory has two production lines. Line A makes 10% faulty pa
 
 ## Where this leads
 
-In Topic 3.10 the population proportions are unknown. You will use p̂1 and p̂2 in the same standard deviation formula to build a confidence interval for p1 − p2: see [Constructing a Confidence Interval for the Difference Between Two Population Proportions](/advanced-course-resources/statistics/3-10-constructing-confidence-interval-difference-between-study-guide/). First try the [practice questions](/advanced-course-resources/statistics/3-9-sampling-distributions-difference-between-sample-practice/), then use the [revision notes](/advanced-course-resources/statistics/3-9-sampling-distributions-difference-between-sample-revision-notes/) and the [checklist](/advanced-course-resources/statistics/3-9-sampling-distributions-difference-between-sample-checklist/). If one sample proportion still feels shaky, revisit [Topic 3.2](/advanced-course-resources/statistics/3-2-sampling-distributions-sample-proportions-study-guide/). For the errors that tests can make, look back at [Topic 3.8](/advanced-course-resources/statistics/3-8-potential-errors-when-performing-tests-study-guide/).
+In Topic 3.10 the population proportions are unknown. You will use p̂1 and p̂2 in the same standard deviation formula to build a confidence interval for p1 − p2: see [Constructing a Confidence Interval for a Difference in Two Proportions](/advanced-course-resources/statistics/3-10-constructing-confidence-interval-difference-between-study-guide/). First try the [practice questions](/advanced-course-resources/statistics/3-9-sampling-distributions-difference-between-sample-practice/), then use the [revision notes](/advanced-course-resources/statistics/3-9-sampling-distributions-difference-between-sample-revision-notes/) and the [checklist](/advanced-course-resources/statistics/3-9-sampling-distributions-difference-between-sample-checklist/). If one sample proportion still feels shaky, revisit [Topic 3.2](/advanced-course-resources/statistics/3-2-sampling-distributions-sample-proportions-study-guide/). For the errors that tests can make, look back at [Topic 3.8](/advanced-course-resources/statistics/3-8-potential-errors-when-performing-tests-study-guide/).

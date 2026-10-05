@@ -78,7 +78,7 @@ The interval is only trustworthy when these conditions hold. Check each one **in
 
 | Condition | What to check | Why it matters |
 |---|---|---|
-| Random | The data come from a random sample (or a randomised experiment). | Without randomness, p̂ may be biased and the interval's confidence level means nothing. |
+| Random | The data come from a random sample. | Without randomness, p̂ may be biased and the interval's confidence level means nothing. |
 | 10% | When sampling without replacement, n ≤ 10% of the population size N, that is, N ≥ 10n. | Keeps the observations close enough to independent for the standard-error formula to hold. |
 | Large counts (normality) | The observed successes np̂ and observed failures n(1 − p̂) are **both at least 10**. | Makes the sampling distribution of p̂ approximately normal, so z* is the right multiplier. |
 

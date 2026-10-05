@@ -102,8 +102,10 @@ The data below come from a fictional ferry company, Northwind Ferries. On one cr
 <text x="42" y="42" font-size="14" fill="#1d2b44">All 800 passengers</text>
 <circle cx="260" cy="160" r="105" fill="none" stroke="#1d2b44" stroke-width="2.5"/>
 <circle cx="380" cy="160" r="105" fill="none" stroke="#1d2b44" stroke-width="2.5" stroke-dasharray="8 5"/>
-<text x="200" y="72" text-anchor="middle" font-size="14" font-weight="bold" fill="#1d2b44">C: car (solid)</text>
-<text x="440" y="72" text-anchor="middle" font-size="14" font-weight="bold" fill="#1d2b44">F: food (dashed)</text>
+<text x="95" y="104" text-anchor="middle" font-size="14" font-weight="bold" fill="#1d2b44">C: car</text>
+<text x="95" y="122" text-anchor="middle" font-size="12" fill="#1d2b44">(solid outline)</text>
+<text x="545" y="104" text-anchor="middle" font-size="14" font-weight="bold" fill="#1d2b44">F: food</text>
+<text x="545" y="122" text-anchor="middle" font-size="12" fill="#1d2b44">(dashed outline)</text>
 <text x="205" y="158" text-anchor="middle" font-size="20" fill="#1d2b44">192</text>
 <text x="205" y="180" text-anchor="middle" font-size="12" fill="#1d2b44">car only</text>
 <text x="320" y="158" text-anchor="middle" font-size="20" font-weight="bold" fill="#1d2b44">128</text>

@@ -1,6 +1,6 @@
 ---
 resourceId: "mb-ap-stats-3.10-practice"
-title: "Constructing a Confidence Interval for the Difference Between Two Population Proportions: Practice Questions (Statistics 3.10)"
+title: "Constructing a Confidence Interval for a Difference in Two Proportions: Practice Questions (Statistics 3.10)"
 description: "Seven original Marlbridge practice questions on the two-sample z-interval for p1 − p2: choosing the procedure, conditions, standard error, building and reading intervals, with suggested rubrics."
 course: "statistics"
 unit: 3

@@ -7,7 +7,7 @@ unit: 3
 topics: ["3.1"]
 resourceType: "study-guide"
 prerequisites:
-  - "Parameters and statistics, and the idea of bias in a sampling method (Topics 1.11 and 1.12)"
+  - "Parameters and statistics (Topic 1.2), and the idea of bias in a sampling method (Topic 1.12)"
   - "Mean, median and sample standard deviation (Topic 1.7)"
   - "What a sampling distribution is, and how simulation approximates one (Topic 2.12)"
 prerequisiteResources: ["mb-ap-stats-2.12-study-guide"]

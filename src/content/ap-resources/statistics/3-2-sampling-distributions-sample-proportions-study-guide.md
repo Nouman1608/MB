@@ -78,7 +78,7 @@ Two consequences:
 | 10% | When sampling without replacement, n ≤ 10% of the population size N (that is, N ≥ 10n). | Observations are close enough to independent for σp̂ = √(p(1 − p)/n) to be accurate. |
 | Large counts | np ≥ 10 **and** n(1 − p) ≥ 10. | The sampling distribution of p̂ is approximately normal. |
 
-np is the **expected** number of successes and n(1 − p) is the expected number of failures. Both must be at least 10. The formulas for the mean and standard deviation do **not** need large counts; only the normal shape does.
+np is the number of successes you would **expect** in a sample, and n(1 − p) is the number of failures you would expect. Both must be at least 10. The formulas for the mean and standard deviation do **not** need large counts; only the normal shape does.
 
 Verify each condition **in context with numbers**. "Random: the 120 adults were a simple random sample of the city's adults" is better than "SRS ✓".
 
@@ -153,7 +153,7 @@ Interpretation: if 35% of Marrowby adults cycle, about 5.4% of random samples of
 
 **(c)** p̂ = 54 ÷ 120 = 0.45. z = (0.45 − 0.35) / 0.04354 ≈ 2.2967, so P(p̂ ≥ 0.45) ≈ **0.0108**. If p really were 0.35, a sample proportion as high as 0.45 would happen in only about 1 in 100 random samples of 120 adults. That is unusual, so the sample **gives reason to doubt** the 35% figure and suggests the true proportion may be higher. It does not prove the figure is wrong: unusual samples do sometimes happen.
 
-**Check.** On a calculator: normalcdf(0.42, 1, 0.35, 0.04354) ≈ 0.0540. The exact binomial probability P(X ≥ 51) is about 0.053, so the normal model is a good approximation here.
+**Check.** On a calculator: normalcdf(0.42, 1, 0.35, √(0.2275/120)) ≈ 0.0540. (Entering the rounded 0.04354 gives 0.0539; the difference is only rounding.) The exact binomial probability P(X ≥ 51) is about 0.053, so the normal model is a good approximation here.
 
 ## Worked example 3: how sample size changes the spread
 

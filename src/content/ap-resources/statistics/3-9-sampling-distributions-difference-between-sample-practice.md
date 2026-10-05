@@ -135,7 +135,7 @@ In the fictional coastal town of Saltmarsh (30,000 residents), 38% of residents 
 | 1 | Translates the event into p̂S − p̂K ≤ 0 and finds the probability 0.0365 with a normal model |
 | 1 | Interpretation names both towns and repeated sampling |
 
-Accept 0.0366 from a rounded standard deviation. Accept working in the order Kelby − Saltmarsh if the event becomes p̂K − p̂S ≥ 0 with mean −0.08.
+Accept 0.0364 to 0.0367 from rounded working (for example, z rounded to −1.79). Accept working in the order Kelby − Saltmarsh if the event becomes p̂K − p̂S ≥ 0 with mean −0.08.
 </details>
 
 ## Question 6 (constructed response · core)

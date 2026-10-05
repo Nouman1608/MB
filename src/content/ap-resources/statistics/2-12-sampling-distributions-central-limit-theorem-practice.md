@@ -78,9 +78,9 @@ The lengths of calls to a fictional broadband company's support line are strongl
 
 The time a fictional warehouse robot takes to pick an order has mean 30 seconds and standard deviation 4.7 seconds. A student simulates 500 random samples of size 5 and records each sample mean. She then simulates 500 random samples of size 50 and does the same. Which result is most likely?
 
-- (A) Both sets of means are centred near 30 s; the n = 5 means have standard deviation about 0.67 s and the n = 50 means about 2.03 s.
+- (A) Both sets of means are centred near 30 s; the n = 5 means have standard deviation about 0.66 s and the n = 50 means about 2.10 s.
 - (B) Both sets of means have standard deviation about 4.7 s, because the population standard deviation is 4.7 s.
-- (C) Both sets of means are centred near 30 s; the n = 5 means have standard deviation about 2.03 s and the n = 50 means about 0.67 s.
+- (C) Both sets of means are centred near 30 s; the n = 5 means have standard deviation about 2.10 s and the n = 50 means about 0.66 s.
 - (D) The n = 50 means are centred much closer to 30 s, while the n = 5 means are centred well away from 30 s.
 
 <details>

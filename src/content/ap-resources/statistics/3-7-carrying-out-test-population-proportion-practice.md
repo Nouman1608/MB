@@ -67,7 +67,7 @@ In a test of H₀: p = p₀ against Hₐ: p ≠ p₀, the test statistic is z = 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** The alternative is two-sided, so the p-value counts both tails: P(Z ≤ −1.70) + P(Z ≥ 1.70) = 2 × 0.0446 = 0.0891.
+**Answer: (B).** The alternative is two-sided, so the p-value counts both tails: P(Z ≤ −1.70) + P(Z ≥ 1.70) = 2 × 0.04457 ≈ 0.0891.
 
 - (A) is only the right tail, P(Z ≥ 1.70). That would be the p-value for Hₐ: p > p₀.
 - (C) is 1 − 0.0891, the area **between** −1.70 and 1.70, which is the area that is *less* extreme than z.

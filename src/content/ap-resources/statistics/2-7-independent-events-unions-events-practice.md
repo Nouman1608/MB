@@ -78,7 +78,7 @@ In which case are events A and B independent?
 
 A fictional factory makes LED bulbs. Each bulb is defective with probability 0.05, independently of other bulbs. A box holds 4 bulbs. What is the probability that the box contains at least one defective bulb?
 
-- (A) 0.0000063
+- (A) 0.00000625
 - (B) 0.1855
 - (C) 0.2000
 - (D) 0.8145
@@ -88,7 +88,7 @@ A fictional factory makes LED bulbs. Each bulb is defective with probability 0.0
 
 **Answer: (B).** P(no defective bulbs) = 0.95⁴ ≈ 0.8145, using independence. So P(at least one defective) = 1 − 0.8145 = 0.1855.
 
-- (A) is 0.05⁴ ≈ 0.0000063, the probability that **all four** are defective.
+- (A) is 0.05⁴ = 0.00000625, the probability that **all four** are defective.
 - (C) is 4 × 0.05. This counts boxes with two or more defective bulbs more than once.
 - (D) is the probability of **no** defective bulbs, the complement of the event asked for.
 </details>
@@ -163,7 +163,7 @@ A fictional online bookshop finds that, for a randomly chosen order, the probabi
 (a) Find P(D ∩ M).
 (b) Are D and M independent? Justify your answer.
 (c) Are D and M mutually exclusive? Explain.
-(d) Find the probability that an order uses neither a discount code nor has more than one item.
+(d) Find the probability that an order neither uses a discount code nor has more than one item.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>

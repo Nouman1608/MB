@@ -26,7 +26,7 @@ next: "mb-ap-stats-3.12-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-statistics", "page-statistics", "cb-statistics-revisions"]
 keyPoints:
-  - "The procedure is a two-sample z-test for the difference between two population proportions."
+  - "Procedure: two-sample z-test for the difference between two population proportions."
   - "Define p₁ and p₂ as population (or treatment) proportions, naming the response and each population in context."
   - "H₀: p₁ = p₂ (or p₁ − p₂ = 0). Hₐ: p₁ > p₂, p₁ < p₂ or p₁ ≠ p₂, chosen from the question before seeing the data."
   - "Conditions: two independent random samples or a randomized experiment; each sample ≤ 10% of its population (sampling only); n₁p̂c, n₁(1 − p̂c), n₂p̂c and n₂(1 − p̂c) all at least 10."
@@ -202,7 +202,7 @@ All three conditions are met, so the test can go ahead (Topic 3.13).
 
 **(a) Expected counts too small (fictional).** A consumer group selects random samples of 120 bulbs from each of two brands' large production runs. Within a year, 4 Brand A bulbs and 9 Brand B bulbs fail. Is the normality condition met for a test of H₀: p_A = p_B?
 
-p̂c = (4 + 9) ÷ 240 = 13 ÷ 240 ≈ 0.0542. Then n_Ap̂c = n_Bp̂c = 120 × 0.0542 = 6.5, which is **less than 10**. The normality condition fails. The sampling distribution of p̂_A − p̂_B may not be approximately normal, so a z-test is not appropriate. Say so, and do not carry on with the calculation. Larger samples would be needed.
+p̂c = (4 + 9) ÷ 240 = 13 ÷ 240 ≈ 0.0542. Then n_Ap̂c = n_Bp̂c = 120 × 13/240 = 6.5, which is **less than 10**. The normality condition fails. The sampling distribution of p̂_A − p̂_B may not be approximately normal, so a z-test is not appropriate. Say so, and do not carry on with the calculation. Larger samples would be needed.
 
 **(b) Samples not independent (fictional).** A college asks the same 150 students, before and after a careers talk, whether they plan to apply for an apprenticeship. It wants to compare the "before" and "after" proportions. The two sets of answers come from the **same** students, so they are not independent samples: a student's "after" answer is linked to their "before" answer. The randomization condition for a two-sample z-test is not met. A method for paired data would be needed, and that is beyond this topic.
 

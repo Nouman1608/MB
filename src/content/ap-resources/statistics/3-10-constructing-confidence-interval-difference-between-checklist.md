@@ -1,6 +1,6 @@
 ---
 resourceId: "mb-ap-stats-3.10-checklist"
-title: "Constructing a Confidence Interval for the Difference Between Two Population Proportions: Topic Checklist (Statistics 3.10)"
+title: "Constructing a Confidence Interval for a Difference in Two Proportions: Topic Checklist (Statistics 3.10)"
 description: "Specific “I can…” statements for building a confidence interval for a difference between two population proportions, each linked to the guide section and practice question that tests it."
 course: "statistics"
 unit: 3
@@ -14,7 +14,7 @@ difficulty: "core"
 related: ["mb-ap-stats-3.10-study-guide", "mb-ap-stats-3.10-practice", "mb-ap-stats-3.10-revision-notes"]
 next: "mb-ap-stats-3.11-study-guide"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-statistics"]
+sources: ["ced-statistics", "page-statistics", "cb-statistics-revisions"]
 keyPoints:
   - "Tick a statement only when you can do it without notes."
   - "Each statement names the guide section or practice question that tests it."
@@ -48,4 +48,4 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can explain how changing the confidence level changes the width of the interval. *(Guide: Worked example 2(c))*
 - I can find and correct errors in someone else's interval, including the parameter, the conditions, pooling and z*. *(Practice Q7)*
 
-All ticked? Move on to Topic 3.11, [Justifying a Claim Based on a Confidence Interval for the Difference Between Two Population Proportions](/advanced-course-resources/statistics/3-11-justifying-claim-based-on-confidence-study-guide/), or return to the [course roadmap](/advanced-course-resources/statistics/#roadmap).
+All ticked? Move on to Topic 3.11, [Justifying a Claim Based on a Confidence Interval for Two Proportions](/advanced-course-resources/statistics/3-11-justifying-claim-based-on-confidence-study-guide/), or return to the [course roadmap](/advanced-course-resources/statistics/#roadmap).

@@ -166,7 +166,7 @@ A fictional mobile network claims that 90% of its customers are satisfied with t
 | 1 | Chooses South **and** links the small probability to the claim being unlikely |
 | 1 | Explains why North's result is not convincing, in context |
 
-Saying "the South result proves the claim is false" loses point 3: a small probability is evidence, not proof. Using P(X = 18) = 0.0072 instead of P(X ≤ 18) earns point 1 only.
+Saying "the South result proves the claim is false" loses point 3: a small probability is evidence, not proof. Using P(X = 18) = 0.0072 instead of P(X ≤ 18) does not earn point 2.
 </details>
 
 ## Question 7 (explanation · stretch)

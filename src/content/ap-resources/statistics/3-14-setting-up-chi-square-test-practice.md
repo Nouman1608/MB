@@ -95,7 +95,7 @@ A fictional language school randomly assigns 120 volunteer learners to three voc
 
 ## Question 4 (multiple choice · core)
 
-For one two-way table, two different random samples give chi-square statistics of 1.3 and 17.8. Which is correct?
+Two random samples of the same size are each summarised in a two-way table with the same rows and columns, and a chi-square statistic is found for each. The values are 1.3 and 17.8. Which is correct?
 
 - (A) The value 1.3 gives stronger evidence against H₀, because it is closer to 0.
 - (B) The value 17.8 gives stronger evidence against H₀, because its observed counts are further from the expected counts, relative to those expected counts.

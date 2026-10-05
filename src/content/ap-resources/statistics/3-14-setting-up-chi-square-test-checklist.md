@@ -46,4 +46,4 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can explain what to do when the expected counts condition fails, and how combining categories changes the question. *(Guide: Worked example 2; Practice Q6)*
 - I can explain why the same two-way table can call for different tests under different designs. *(Practice Q7)*
 
-All ticked? Move on to Topic 3.15, Carrying Out a Chi-Square Test for Homogeneity or Independence, or return to the [course roadmap](/advanced-course-resources/statistics/#roadmap).
+All ticked? Move on to [Topic 3.15, Carrying Out a Chi-Square Test for Homogeneity or Independence](/advanced-course-resources/statistics/3-15-carrying-out-chi-square-test-study-guide/), or return to the [course roadmap](/advanced-course-resources/statistics/#roadmap).

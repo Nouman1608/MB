@@ -111,7 +111,7 @@ At the fictional Halden Café, the time the coffee machine takes to make a flat 
 
 There is about a 0.67 probability that a flat white takes between 25 and 30 seconds.
 
-**(b)** z = (33 − 28) ÷ 2.5 = 2. P(X > 33) = 1 − 0.9772 = 0.0228. Expected number = 200 × 0.0228 ≈ **4.55**, so about 4 or 5 flat whites. (The empirical rule estimate, 2.5% of 200 = 5, is close.)
+**(b)** z = (33 − 28) ÷ 2.5 = 2. P(X > 33) = 1 − 0.9772 = 0.0228 (technology: 0.02275). Expected number = 200 × 0.02275 ≈ **4.55**, so about 4 or 5 flat whites. (The empirical rule estimate, 2.5% of 200 = 5, is close.)
 
 | Point | What earns it |
 |---|---|

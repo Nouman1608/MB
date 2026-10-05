@@ -1,6 +1,6 @@
 ---
 resourceId: "mb-ap-stats-3.13-study-guide"
-title: "Carrying Out a Test for the Difference Between Two Population Proportions: Study Guide (Statistics 3.13)"
+title: "Carrying Out a Test for the Difference Between Two Proportions: Study Guide (Statistics 3.13)"
 description: "Learn to calculate the pooled proportion, the two-sample z statistic and its p-value, interpret the p-value, and write a conclusion in context about two populations."
 course: "statistics"
 unit: 3

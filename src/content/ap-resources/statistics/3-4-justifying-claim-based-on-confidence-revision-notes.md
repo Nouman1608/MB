@@ -1,6 +1,6 @@
 ---
 resourceId: "mb-ap-stats-3.4-revision-notes"
-title: "Justifying a Claim Based on a Confidence Interval for a Population Proportion: Revision Notes (Statistics 3.4)"
+title: "Justifying a Claim Based on a Confidence Interval for a Proportion: Revision Notes (Statistics 3.4)"
 description: "One-page recap of interpreting a confidence interval and confidence level, judging claims with plausible values, and how sample size and confidence level change the width."
 course: "statistics"
 unit: 3

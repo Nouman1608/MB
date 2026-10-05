@@ -1,6 +1,6 @@
 ---
 resourceId: "mb-ap-stats-3.4-practice"
-title: "Justifying a Claim Based on a Confidence Interval for a Population Proportion: Practice Questions (Statistics 3.4)"
+title: "Justifying a Claim Based on a Confidence Interval for a Proportion: Practice Questions (Statistics 3.4)"
 description: "Seven original Marlbridge practice questions on interpreting confidence intervals and levels, judging claims, and the effects of sample size and confidence level, with suggested rubrics."
 course: "statistics"
 unit: 3
@@ -142,7 +142,7 @@ Point 4 needs the link to the interval. "Yes, because 0.43 < 0.5" uses only the 
 
 ## Question 6 (constructed response · stretch)
 
-A fictional polling company asked a random sample of 665 voters whether they support a new transport tax. From the same data it reported two intervals for the proportion of all voters who support the tax: Interval A is (0.462, 0.538) and Interval B is (0.450, 0.550). One is a 95% interval and the other is a 99% interval.
+A fictional polling company asked a random sample of 664 voters whether they support a new transport tax. From the same data it reported two intervals for the proportion of all voters who support the tax: Interval A is (0.462, 0.538) and Interval B is (0.450, 0.550). One is a 95% interval and the other is a 99% interval.
 
 (a) Which interval is the 99% interval? Explain.
 (b) Find the sample proportion and each margin of error.

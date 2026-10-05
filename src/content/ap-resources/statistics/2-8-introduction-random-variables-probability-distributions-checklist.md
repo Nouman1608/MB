@@ -32,7 +32,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can explain what a random variable is, and the difference between X and x. *(Guide: "What is a random variable?")*
 - I can tell a discrete random variable from a continuous one, with an example of each. *(Guide: "What is a random variable?")*
 - I can state the two rules for a valid probability distribution. *(Guide: "The probability distribution of a discrete random variable"; Practice Q1)*
-- I can explain why the values of X need not be equally likely, even when the outcomes are. *(Guide: Worked example 1; Practice Q7(a))*
+- I can explain why the values of X need not be equally likely, even when the outcomes are. *(Guide: Worked example 3; Practice Q7(a))*
 
 ## Skills
 

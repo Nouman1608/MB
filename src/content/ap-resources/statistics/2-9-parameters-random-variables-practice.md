@@ -120,7 +120,7 @@ Calculate, showing each step, the mean and the standard deviation of X. Interpre
 
 **Interpretation.** Over a very large number of rides, the number of passengers in a ride typically differs from the mean of 1.85 by about 1.01 passengers.
 
-Suggested mark points (3): 1 for the correct mean with the weighted sum shown; 1 for weighting the squared deviations by their probabilities and taking the square root; 1 for an interpretation that names passengers per ride, the long run (or many rides) and the mean. Treating the four values as a sample (dividing the unweighted squared deviations by 3) gives 1.49 and does not earn the second point.
+Suggested mark points (3): 1 for the correct mean with the weighted sum shown; 1 for weighting the squared deviations by their probabilities and taking the square root; 1 for an interpretation that names passengers per ride, the long run (or many rides) and the mean. Ignoring the probabilities and dividing the unweighted squared deviations from 1.85 by 3, as if the four values were a sample, gives 1.49 and does not earn the second point.
 </details>
 
 ## Question 5 (constructed response · core)

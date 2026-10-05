@@ -61,10 +61,10 @@ A **statistic** is a number calculated from data, such as a sample. Different sa
 |---|---|---|
 | Describes | a probability distribution or population | a sample of data |
 | Value | fixed | changes from sample to sample |
-| Mean written as | μ or E(X) | x̄ |
-| Standard deviation written as | σ or SD(X) | s |
+| Mean written as | μ, μ_X or E(X) | x̄ |
+| Standard deviation written as | σ, σ_X or SD(X) | s |
 
-The mean and standard deviation of a random variable are **parameters**. When you collect or simulate data, the sample mean x̄ is a **statistic** that estimates μ.
+The subscript in μ_X and σ_X names the random variable, which helps when a problem has more than one. The mean and standard deviation of a random variable are **parameters**. When you collect or simulate data, the sample mean x̄ is a **statistic** that estimates μ.
 
 ## The data used in this guide
 

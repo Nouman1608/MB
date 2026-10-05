@@ -1,6 +1,6 @@
 ---
 resourceId: "mb-ap-stats-3.4-study-guide"
-title: "Justifying a Claim Based on a Confidence Interval for a Population Proportion: Study Guide (Statistics 3.4)"
+title: "Justifying a Claim Based on a Confidence Interval for a Proportion: Study Guide (Statistics 3.4)"
 description: "Learn to interpret a confidence interval and a confidence level in context, use an interval to judge a claim about a proportion, and predict how sample size and confidence level change the width."
 course: "statistics"
 unit: 3
@@ -73,7 +73,7 @@ The confidence level answers the question: "How often does this method work?"
 
 > **If we took many random samples of the same size from this population and built a C% interval from each one, about C% of those intervals would capture the true proportion.**
 
-Figure 1 shows this. A computer took 20 random samples of 150 people from a population in which p = 0.40 is known, and built a 95% interval from each.
+Figure 1 shows this with a simulation: 20 random samples of 150 people from a population in which p = 0.40 is known, with a 95% interval built from each.
 
 <figure>
 <svg viewBox="0 0 640 330" role="img" aria-labelledby="sim-title sim-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">

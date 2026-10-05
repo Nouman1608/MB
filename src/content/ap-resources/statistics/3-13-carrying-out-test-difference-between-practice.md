@@ -1,6 +1,6 @@
 ---
 resourceId: "mb-ap-stats-3.13-practice"
-title: "Carrying Out a Test for the Difference Between Two Population Proportions: Practice Questions (Statistics 3.13)"
+title: "Carrying Out a Test for the Difference Between Two Proportions: Practice Questions (Statistics 3.13)"
 description: "Seven original Marlbridge practice questions on pooled proportions, two-sample z statistics, p-values, interpretations and conclusions, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 3

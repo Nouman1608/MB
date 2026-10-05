@@ -1,6 +1,6 @@
 ---
 resourceId: "mb-ap-stats-3.4-checklist"
-title: "Justifying a Claim Based on a Confidence Interval for a Population Proportion: Topic Checklist (Statistics 3.4)"
+title: "Justifying a Claim Based on a Confidence Interval for a Proportion: Topic Checklist (Statistics 3.4)"
 description: "Specific “I can…” statements for interpreting confidence intervals and levels and judging claims about a proportion, each linked to the guide section and practice question that tests it."
 course: "statistics"
 unit: 3

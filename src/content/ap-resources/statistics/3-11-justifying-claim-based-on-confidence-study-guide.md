@@ -1,6 +1,6 @@
 ---
 resourceId: "mb-ap-stats-3.11-study-guide"
-title: "Justifying a Claim Based on a Confidence Interval for a Difference in Proportions: Study Guide (Statistics 3.11)"
+title: "Justifying a Claim Based on a Confidence Interval for Two Proportions: Study Guide (Statistics 3.11)"
 description: "Learn to interpret a confidence interval and confidence level for p₁ − p₂ in context, and use whether the interval contains 0 to justify a claim about two populations or treatments."
 course: "statistics"
 unit: 3
@@ -105,7 +105,7 @@ Finish with a sentence in context that **refers to the interval** and its confid
 <figure>
 <svg viewBox="0 0 640 280" role="img" aria-labelledby="zero-title zero-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="zero-title">Three 95% intervals for a difference in proportions compared with zero</title>
-<desc id="zero-desc">A number line from −0.20 to 0.20 with a vertical dotted line at 0 labelled "no difference". Interval A, from Worked example 1, runs from 0.058 to 0.182 and lies entirely to the right of 0; its label reads "all positive: evidence that p₁ &gt; p₂". Interval B, from Worked example 2, is drawn dashed, runs from −0.037 to 0.157 and crosses 0; its label reads "contains 0: no convincing evidence of a difference". Interval C, an illustration, runs from −0.162 to −0.048 and lies entirely to the left of 0; its label reads "all negative: evidence that p₁ &lt; p₂". An open circle on each bar marks its point estimate: 0.12, 0.06 and −0.105.</desc>
+<desc id="zero-desc">A number line from −0.20 to 0.20 with a vertical dotted line at 0 labelled "no difference". Interval A, from Worked example 1, runs from 0.058 to 0.182 and lies entirely to the right of 0; its label reads "A: all positive, evidence that p₁ &gt; p₂". Interval B, from Worked example 2, is drawn dashed, runs from −0.037 to 0.157 and crosses 0; its label reads "B: contains 0, no convincing evidence of a difference". Interval C, an illustration, runs from −0.162 to −0.048 and lies entirely to the left of 0; its label reads "C: all negative, evidence that p₁ &lt; p₂". An open circle on each bar marks its point estimate: 0.12, 0.06 and −0.105.</desc>
 <rect x="0" y="0" width="640" height="280" fill="#ffffff"/>
 <line x1="40" y1="215" x2="600" y2="215" stroke="#1d2b44" stroke-width="2"/>
 <g stroke="#1d2b44" stroke-width="1.5">

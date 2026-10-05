@@ -14,7 +14,7 @@ difficulty: "core"
 related: ["mb-ap-stats-3.9-study-guide", "mb-ap-stats-3.9-practice", "mb-ap-stats-3.9-revision-notes"]
 next: "mb-ap-stats-3.10-study-guide"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-statistics"]
+sources: ["ced-statistics", "page-statistics", "cb-statistics-revisions"]
 keyPoints:
   - "Tick a statement only when you can do it without notes."
   - "Each statement names the guide section or practice question that tests it."
@@ -49,4 +49,4 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can use a probability to judge whether an observed difference is surprising, without claiming proof. *(Guide: Worked example 2)*
 - I can find and correct errors in someone else's standard deviation calculation. *(Practice Q2, Q7)*
 
-All ticked? Move on to Topic 3.10, [Constructing a Confidence Interval for the Difference Between Two Population Proportions](/advanced-course-resources/statistics/3-10-constructing-confidence-interval-difference-between-study-guide/), or return to the [course roadmap](/advanced-course-resources/statistics/#roadmap).
+All ticked? Move on to Topic 3.10, [Constructing a Confidence Interval for a Difference in Two Proportions](/advanced-course-resources/statistics/3-10-constructing-confidence-interval-difference-between-study-guide/), or return to the [course roadmap](/advanced-course-resources/statistics/#roadmap).

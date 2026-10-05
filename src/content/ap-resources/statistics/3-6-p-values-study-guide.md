@@ -112,7 +112,7 @@ The manager uses software to simulate 200 random samples of 50 customers from a 
 <figure>
 <svg viewBox="0 0 640 300" role="img" aria-labelledby="sim36-title sim36-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="sim36-title">Simulated null distribution of the sample proportion for 200 samples of 50</title>
-<desc id="sim36-desc">A bar chart of 200 simulated sample proportions, each from a sample of 50 with p equal to 0.20. The horizontal axis runs from 0.06 to 0.38 in steps of 0.02. The frequencies are: 0.06: 3, 0.08: 3, 0.10: 7, 0.12: 9, 0.14: 15, 0.16: 19, 0.18: 29, 0.20: 40, 0.22: 20, 0.24: 17, 0.26: 13, 0.28: 12, 0.30: 7, 0.32: 3, 0.34: 1, 0.36: 1, 0.38: 1. The distribution peaks at 0.20 and is roughly symmetric. A dashed vertical line marks the observed sample proportion of 0.26. Bars at 0.26 and above are hatched; they contain 38 of the 200 simulated samples.</desc>
+<desc id="sim36-desc">A bar chart of 200 simulated sample proportions, each from a sample of 50 with p equal to 0.20. The horizontal axis runs from 0.06 to 0.38 in steps of 0.02. The frequencies are: 0.06: 3, 0.08: 3, 0.10: 7, 0.12: 9, 0.14: 15, 0.16: 19, 0.18: 29, 0.20: 32, 0.22: 28, 0.24: 17, 0.26: 13, 0.28: 12, 0.30: 7, 0.32: 3, 0.34: 1, 0.36: 1, 0.38: 1. The distribution peaks at 0.20 and is roughly symmetric. A dashed vertical line at the left edge of the 0.26 bar marks where the values at or above the observed sample proportion of 0.26 begin. Bars at 0.26 and above are hatched; they contain 38 of the 200 simulated samples.</desc>
 <defs><pattern id="sim-hatch" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#1d2b44" stroke-width="2"/></pattern></defs>
 <rect x="0" y="0" width="640" height="300" fill="#ffffff"/>
 <line x1="50" y1="230" x2="620" y2="230" stroke="#1d2b44" stroke-width="2"/>
@@ -123,8 +123,8 @@ The manager uses software to simulate 200 random samples of 50 customers from a 
 <rect x="186.1" y="166.2" width="29.5" height="63.8" fill="#c9d3e3" stroke="#1d2b44" stroke-width="1"/>
 <rect x="219.6" y="149.2" width="29.5" height="80.8" fill="#c9d3e3" stroke="#1d2b44" stroke-width="1"/>
 <rect x="253.2" y="106.8" width="29.5" height="123.2" fill="#c9d3e3" stroke="#1d2b44" stroke-width="1"/>
-<rect x="286.7" y="60.0" width="29.5" height="170.0" fill="#c9d3e3" stroke="#1d2b44" stroke-width="1"/>
-<rect x="320.2" y="145.0" width="29.5" height="85.0" fill="#c9d3e3" stroke="#1d2b44" stroke-width="1"/>
+<rect x="286.7" y="94.0" width="29.5" height="136.0" fill="#c9d3e3" stroke="#1d2b44" stroke-width="1"/>
+<rect x="320.2" y="111.0" width="29.5" height="119.0" fill="#c9d3e3" stroke="#1d2b44" stroke-width="1"/>
 <rect x="353.8" y="157.8" width="29.5" height="72.2" fill="#c9d3e3" stroke="#1d2b44" stroke-width="1"/>
 <rect x="387.3" y="174.8" width="29.5" height="55.2" fill="url(#sim-hatch)" stroke="#1d2b44" stroke-width="1"/>
 <rect x="420.8" y="179.0" width="29.5" height="51.0" fill="url(#sim-hatch)" stroke="#1d2b44" stroke-width="1"/>
@@ -133,7 +133,7 @@ The manager uses software to simulate 200 random samples of 50 customers from a 
 <rect x="521.4" y="225.8" width="29.5" height="4.2" fill="url(#sim-hatch)" stroke="#1d2b44" stroke-width="1"/>
 <rect x="554.9" y="225.8" width="29.5" height="4.2" fill="url(#sim-hatch)" stroke="#1d2b44" stroke-width="1"/>
 <rect x="588.5" y="225.8" width="29.5" height="4.2" fill="url(#sim-hatch)" stroke="#1d2b44" stroke-width="1"/>
-<g font-size="11" fill="#1d2b44" text-anchor="middle"><text x="66.8" y="213.2">3</text><text x="100.3" y="213.2">3</text><text x="133.8" y="196.2">7</text><text x="167.4" y="187.8">9</text><text x="200.9" y="162.2">15</text><text x="234.4" y="145.2">19</text><text x="267.9" y="102.8">29</text><text x="301.5" y="56.0">40</text><text x="335.0" y="141.0">20</text><text x="368.5" y="153.8">17</text><text x="402.1" y="170.8">13</text><text x="435.6" y="175.0">12</text><text x="469.1" y="196.2">7</text><text x="502.6" y="213.2">3</text><text x="536.2" y="221.8">1</text><text x="569.7" y="221.8">1</text><text x="603.2" y="221.8">1</text></g>
+<g font-size="11" fill="#1d2b44" text-anchor="middle"><text x="66.8" y="213.2">3</text><text x="100.3" y="213.2">3</text><text x="133.8" y="196.2">7</text><text x="167.4" y="187.8">9</text><text x="200.9" y="162.2">15</text><text x="234.4" y="145.2">19</text><text x="267.9" y="102.8">29</text><text x="301.5" y="90.0">32</text><text x="335.0" y="107.0">28</text><text x="368.5" y="153.8">17</text><text x="402.1" y="170.8">13</text><text x="435.6" y="175.0">12</text><text x="469.1" y="196.2">7</text><text x="502.6" y="213.2">3</text><text x="536.2" y="221.8">1</text><text x="569.7" y="221.8">1</text><text x="603.2" y="221.8">1</text></g>
 <g font-size="10" fill="#1d2b44" text-anchor="middle"><text x="66.8" y="246">0.06</text><text x="100.3" y="246">0.08</text><text x="133.8" y="246">0.10</text><text x="167.4" y="246">0.12</text><text x="200.9" y="246">0.14</text><text x="234.4" y="246">0.16</text><text x="267.9" y="246">0.18</text><text x="301.5" y="246">0.20</text><text x="335.0" y="246">0.22</text><text x="368.5" y="246">0.24</text><text x="402.1" y="246">0.26</text><text x="435.6" y="246">0.28</text><text x="469.1" y="246">0.30</text><text x="502.6" y="246">0.32</text><text x="536.2" y="246">0.34</text><text x="569.7" y="246">0.36</text><text x="603.2" y="246">0.38</text></g>
 <text x="335.0" y="270" text-anchor="middle" font-size="13" fill="#1d2b44">Simulated sample proportion p̂ (200 samples of 50, assuming p = 0.20)</text>
 <line x1="385.3" y1="40" x2="385.3" y2="230" stroke="#1d2b44" stroke-width="2" stroke-dasharray="6 4"/>
@@ -155,7 +155,7 @@ The manager uses software to simulate 200 random samples of 50 customers from a 
 
 **(c)** No. A result like this would happen in about 19% of samples even if the true proportion were 0.20. That is not unusual, so the data do **not** give convincing evidence that the proportion is greater than 0.20. This does **not** show that the proportion is exactly 0.20; it shows only that this sample cannot rule it out.
 
-**Check.** The simulated distribution is centred close to 0.20 (the mean of the 200 values is 0.1996), as it should be when H₀ is true. With a probability model, the exact chance of 13 or more buyers in 50 when p = 0.20 is about 0.186, close to the simulated 0.19.
+**Check.** The simulated distribution is centred close to 0.20 (the mean of the 200 values is 0.2004), as it should be when H₀ is true. With a probability model, the exact chance of 13 or more buyers in 50 when p = 0.20 is about 0.186, close to the simulated 0.19.
 
 ## Worked example 2: a p-value from the standard normal distribution
 
