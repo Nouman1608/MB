@@ -106,14 +106,14 @@ The y equation tells you something useful without any numbers: before the collis
 </g>
 <text x="410" y="85" font-size="12" fill="#1d2b44">scattered photon:</text>
 <text x="410" y="101" font-size="12" fill="#1d2b44">λ′ &gt; λ, p′ = h/λ′</text>
-<path d="M288 182 L430 290" stroke="#1d2b44" stroke-width="2.5" marker-end="url(#cs-arr)"/>
-<text x="400" y="318" font-size="12" fill="#1d2b44">electron: p_e, K_e</text>
+<path d="M284 188 L339 301" stroke="#1d2b44" stroke-width="2.5" marker-end="url(#cs-arr)"/>
+<text x="352" y="318" font-size="12" fill="#1d2b44">electron: p_e, K_e</text>
 <path d="M340 180 A 60 60 0 0 0 318.6 134" fill="none" stroke="#1d2b44" stroke-width="1.5"/>
 <text x="346" y="160" font-size="14" fill="#1d2b44">θ</text>
-<path d="M330 180 A 50 50 0 0 1 319.8 210.2" fill="none" stroke="#1d2b44" stroke-width="1.5"/>
-<text x="336" y="206" font-size="14" fill="#1d2b44">α</text>
+<path d="M330 180 A 50 50 0 0 1 301.9 224.9" fill="none" stroke="#1d2b44" stroke-width="1.5"/>
+<text x="334" y="220" font-size="14" fill="#1d2b44">α</text>
 </svg>
-<figcaption>Figure 1. Before: a photon of wavelength λ travels towards a free electron at rest. After: the photon leaves at angle θ above the original direction (dashed line) with a longer wavelength λ′ (wider wave spacing), and the electron recoils at angle α below it. The upward momentum of the photon is balanced by the downward momentum of the electron.</figcaption>
+<figcaption>Figure 1. Before: a photon of wavelength λ travels towards a free electron at rest. After: the photon leaves at angle θ above the original direction (dashed line) with a longer wavelength λ′ (wider wave spacing), and the electron recoils at angle α below it (drawn for θ = 50°, where α is about 64° for a 50 pm photon). The upward momentum of the photon is balanced by the downward momentum of the electron.</figcaption>
 </figure>
 
 ## The Compton shift equation
@@ -122,7 +122,7 @@ Solving the energy and momentum equations together (with the relativistic form o
 
 **Δλ = λ′ − λ = (h / m_e c)(1 − cos θ)**
 
-where m_e = 9.11 × 10⁻³¹ kg is the electron mass and θ is the angle between the photon's old and new directions. You are given this equation; you need to be able to use it and explain its features.
+where m_e = 9.11 × 10⁻³¹ kg is the electron mass and θ is the angle between the photon's old and new directions. You do not need to derive it; you need to be able to use it and explain its features.
 
 The constant h/(m_e c) has units of length. With the course values:
 

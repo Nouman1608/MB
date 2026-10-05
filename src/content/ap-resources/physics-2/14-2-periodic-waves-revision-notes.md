@@ -47,9 +47,9 @@ Short on time? This page is the recap. For explanations, Figure 1 and the worked
 |---|---|---|
 | T = 1/f | T in s, f in Hz | switch between period and frequency |
 | v = fλ = λ/T | v in m/s, λ in m | link speed, frequency and wavelength |
-| y = A cos(2πt/T) | at one location; radians | find displacement at a given time |
-| y = A cos(2πx/λ) | at one instant; radians | find displacement at a given position |
-| ω = 2πf | rad/s | read an equation written as A cos(ωt) |
+| x(t) = A cos(ωt) = A cos(2πft) | at one location; x(t) is the displacement, not a position; radians | find displacement at a given time |
+| y(x) = A cos(2πx/λ) | at one instant; x is position along the wave; radians | find displacement at a given position |
+| ω = 2πf | rad/s | switch between A cos(ωt) and A cos(2πft) |
 
 | Change (same medium unless stated) | f | λ | v |
 |---|---|---|---|
@@ -60,6 +60,7 @@ Short on time? This page is the recap. For explanations, Figure 1 and the worked
 ## Assumptions behind the numbers
 
 - The wave is sinusoidal, with constant amplitude.
+- In x(t) = A cos(2πft), x stands for displacement; in y(x) = A cos(2πx/λ), x stands for position.
 - Cosine is used when y = +A at t = 0 (or x = 0); sine when y = 0 and increasing.
 - The speed is set by the medium only, so it is the same for every frequency.
 
@@ -69,7 +70,7 @@ Short on time? This page is the recap. For explanations, Figure 1 and the worked
 2. **Crest to trough as λ.** That is λ/2.
 3. **Peak-to-peak height as A.** That is 2A.
 4. **"Higher f means faster."** Same medium, same v; λ shrinks.
-5. **Degrees mode** for cos(2πt/T).
+5. **Degrees mode** for cos(2πft) or cos(2πx/λ).
 6. **Linking pitch to amplitude.** Pitch follows frequency.
 
 ## Quick self-check

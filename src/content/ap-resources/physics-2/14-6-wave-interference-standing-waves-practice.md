@@ -154,7 +154,7 @@ A pipe of length L is open at both ends. The speed of sound in the air in the pi
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Antinodes at both open ends with one node in the middle: a half-loop pattern.
+**(a)** Antinodes at both open ends with one node in the middle (A–N–A): the pipe holds half a wavelength.
 
 **(b)** The pipe holds half a wavelength: L = λ/2, so λ = 2L and **f_open = v/(2L)**.
 

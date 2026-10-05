@@ -132,7 +132,7 @@ A laser of wavelength 405 nm and power 1.5 mW shines on a metal with a work func
 | Point | What earns it |
 |---|---|
 | 1 | Photon energy 4.91 × 10⁻¹⁹ J and 3.07 eV (or 3.06 eV) |
-| 1 | K_max = 1.07 × 10⁻¹⁹ J, subtracting φ in consistent units |
+| 1 | K_max = 1.07 × 10⁻¹⁹ J (or 1.06 × 10⁻¹⁹ J from hc = 1240 eV·nm), subtracting φ in consistent units |
 | 1 | Photon rate 3.05 × 10¹⁵ s⁻¹ from P ÷ E |
 | 1 | Photon rate doubles **and** K_max unchanged, with a reason linked to energy per photon |
 

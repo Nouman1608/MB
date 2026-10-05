@@ -44,8 +44,8 @@ Short on time? This page is the recap. For the ray diagrams, the sᵢ–sₒ ske
 | Relationship | Symbols and units | Use it to |
 |---|---|---|
 | 1/sᵢ + 1/sₒ = 1/f | all distances in the same unit, measured from the lens midline | find the image position, the object position or f |
-| M = hᵢ/hₒ; size ratio = sᵢ/sₒ ignoring signs | M has no units | find image size |
-| M = −sᵢ/sₒ (signed form) | M < 0 inverted, M > 0 upright | combine size and orientation |
+| \|M\| = \|hᵢ/hₒ\| = \|sᵢ/sₒ\| | size ratio: no units, no sign | find image height; decide enlarged or reduced |
+| single lens: real image ⇒ inverted, virtual image ⇒ upright | sᵢ > 0 real, sᵢ < 0 virtual | state the orientation in words |
 | 1/sᵢ = −1/sₒ + 1/f | graph 1/sᵢ against 1/sₒ: slope −1, intercepts 1/f | find f from data |
 
 | Lens and object | Image |
@@ -70,11 +70,12 @@ Short on time? This page is the recap. For the ray diagrams, the sᵢ–sₒ ske
 3. **Forgetting to take the reciprocal** at the end.
 4. **Calling a virtual image "imaginary" or "not there".** You can see it through the lens.
 5. **Half a lens, half an image.** The full image forms, dimmer.
+6. **Giving |M| a sign.** Quote the size ratio and say "upright" or "inverted" in words.
 
 ## Quick self-check
 
-1. f = 20 cm, sₒ = 25 cm. Where is the image, and what is M? *(sᵢ = +100 cm; M = −4.0, real and inverted)*
-2. A diverging lens has f = −10 cm and the object is 10 cm away. Find sᵢ and M. *(sᵢ = −5.0 cm; M = +0.50)*
+1. f = 20 cm, sₒ = 25 cm. Where is the image, and what is |M|? *(sᵢ = +100 cm; |M| = 4.0, real and inverted)*
+2. A diverging lens has f = −10 cm and the object is 10 cm away. Find sᵢ and |M|. *(sᵢ = −5.0 cm; |M| = 0.50, virtual and upright)*
 3. Where must an object be for a converging lens to form a same-size image? *(At 2f)*
 
 Next: [practice questions](/advanced-course-resources/physics-2/13-4-images-formed-lenses-practice/).

@@ -38,7 +38,7 @@ Short on time? This page is the recap. For explanations, the decay chart and the
 - **Positron:** same mass as an electron, charge +e.
 - **Neutrino ν and antineutrino ν̄:** no charge, negligible mass. They feel only the weak force and gravity, so they pass through matter almost untouched.
 - **Gamma** follows an alpha or beta decay that leaves the nucleus excited. The nucleus drops to a lower energy state and emits a photon.
-- In beta decay three particles share the energy, so the electrons or positrons have a range of energies. In alpha decay two particles share it, so the alpha energy is fixed.
+- In beta decay three particles share the energy, so the electrons or positrons have a range of energies. In alpha decay two particles share it, so the alpha energy is fixed for each final state of the daughter.
 
 ## Key relationships
 

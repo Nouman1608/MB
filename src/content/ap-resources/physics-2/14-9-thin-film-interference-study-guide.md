@@ -168,14 +168,14 @@ This is a **quarter-wave coating**. It works exactly for one chosen wavelength (
 
 ## Worked example 2: designing a lens coating
 
-**Question.** A lens has n = 1.60. A coating with n = 1.38 is to remove reflection of 550 nm light at normal incidence. (a) Find the minimum thickness. (b) Give the next thickness that would also work. (c) Explain why a coating with n = 1.70 at a quarter-wave thickness would make reflection worse.
+**Question.** A lens has n = 1.60. A coating with n = 1.30 is to remove reflection of 520 nm light at normal incidence. (a) Find the minimum thickness. (b) Give the next thickness that would also work. (c) Explain why a coating with n = 1.70 at a quarter-wave thickness would make reflection worse.
 
-1. (a) Phase changes: air (1.00) → coating (1.38), low to high: 180°. Coating (1.38) → lens (1.60), low to high: 180°. Two phase changes, so destructive needs 2t = (m + ½)λ_coating.
-2. λ_coating = 550 nm ÷ 1.38 = 398.6 nm. With m = 0: t = λ_coating/4 = 550 nm ÷ (4 × 1.38) = **99.6 nm**.
-3. (b) With m = 1: t = 3λ_coating/4 = 3 × 550 nm ÷ (4 × 1.38) = **299 nm**.
+1. (a) Phase changes: air (1.00) → coating (1.30), low to high: 180°. Coating (1.30) → lens (1.60), low to high: 180°. Two phase changes, so destructive needs 2t = (m + ½)λ_coating.
+2. λ_coating = 520 nm ÷ 1.30 = 400 nm. With m = 0: t = λ_coating/4 = 520 nm ÷ (4 × 1.30) = **100 nm**.
+3. (b) With m = 1: t = 3λ_coating/4 = 3 × 520 nm ÷ (4 × 1.30) = **300 nm**.
 4. (c) With n = 1.70 the coating → lens reflection goes from 1.70 to 1.60, high to low, so it has no phase change. Now there is exactly one phase change. A quarter-wave thickness gives 2t = ½λ_coating, which with one phase change is the **constructive** condition. The two reflections add, and the lens reflects more than with no coating at all.
 
-**Interpretation.** The 99.6 nm coating cannot be perfect for all colours. For 450 nm light the extra path is 0.61 of a wavelength in the coating, and for 650 nm it is 0.42, instead of exactly 0.50. Reflection at the ends of the spectrum is reduced but not removed, which is why coated lenses often show a faint coloured tint.
+**Interpretation.** The 100 nm coating cannot be perfect for all colours. For 450 nm light the extra path is 0.58 of a wavelength in the coating, and for 650 nm it is 0.40, instead of exactly 0.50. Reflection at the ends of the spectrum is reduced but not removed, which is why coated lenses often show a faint coloured tint.
 
 ## Worked example 3: bands on a draining soap film
 

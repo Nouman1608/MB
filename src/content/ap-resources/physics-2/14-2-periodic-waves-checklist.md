@@ -39,7 +39,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can use T = 1/f and v = fλ, with units, in either direction. *(Guide: Worked example 1; Practice Q1, Q6a)*
 - I can read A, λ and T from the correct type of graph, and measure λ and A from the right points. *(Guide: Figure 1; Practice Q2)*
 - I can sketch displacement–position and displacement–time graphs with numbered scales for a given wave. *(Practice Q6b)*
-- I can use y = A cos(2πt/T) and y = A cos(2πx/λ), in radians, to find a displacement. *(Guide: "Equations for a sinusoidal wave"; Practice Q5)*
+- I can use x(t) = A cos(2πft) at one location and y(x) = A cos(2πx/λ) at one instant, in radians, saying what x means in each, to find a displacement. *(Guide: "Equations for a sinusoidal wave"; Practice Q5)*
 - I can derive λ = (1/f)√(F_T/μ) for a wave on a string and use it. *(Practice Q7b)*
 
 ## Reasoning

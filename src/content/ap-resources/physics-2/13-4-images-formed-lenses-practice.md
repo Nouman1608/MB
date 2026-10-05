@@ -18,7 +18,7 @@ skills: ["1", "2", "3"]
 studyMinutes: 45
 difficulty: "mixed"
 calculator: "scientific"
-calculatorNote: "Sign convention: f > 0 converging, f < 0 diverging; sᵢ > 0 real image on the far side, sᵢ < 0 virtual image on the object's side; M = −sᵢ/sₒ. Give answers to 3 significant figures unless the data justify fewer"
+calculatorNote: "Sign convention: f > 0 converging, f < 0 diverging; sᵢ > 0 real image on the far side, sᵢ < 0 virtual image on the object's side; |M| = |hᵢ/hₒ| = |sᵢ/sₒ|, orientation stated in words. Give answers to 3 significant figures unless the data justify fewer"
 related: ["mb-ap-phys2-13.4-study-guide", "mb-ap-phys2-13.4-revision-notes", "mb-ap-phys2-13.4-checklist"]
 next: "mb-ap-phys2-13.4-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
@@ -34,7 +34,7 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data and assumptions for every question: every lens is thin and surrounded by air; 1/sᵢ + 1/sₒ = 1/f; f > 0 for a converging lens and f < 0 for a diverging lens; sᵢ > 0 is a real image on the far side, sᵢ < 0 a virtual image on the object's side; M = hᵢ/hₒ = −sᵢ/sₒ. A scientific calculator is assumed. Round only at the end.
+These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data and assumptions for every question: every lens is thin and surrounded by air; 1/sᵢ + 1/sₒ = 1/f; f > 0 for a converging lens and f < 0 for a diverging lens; sᵢ > 0 is a real image on the far side, sᵢ < 0 a virtual image on the object's side; magnification |M| = |hᵢ/hₒ| = |sᵢ/sₒ| is a size ratio, and for a single lens a real image is inverted and a virtual image is upright. A scientific calculator is assumed. Round only at the end.
 
 ## Question 1 (multiple choice · foundation)
 
@@ -67,7 +67,7 @@ An object is 20 cm from a converging lens of focal length 15 cm. What is the ima
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** 1/sᵢ = 1/15 − 1/20 = (4 − 3)/60 = 1/60 cm⁻¹, so sᵢ = +60 cm: a real image on the far side, 3 times the size of the object (M = −3.0).
+**Answer: (A).** 1/sᵢ = 1/15 − 1/20 = (4 − 3)/60 = 1/60 cm⁻¹, so sᵢ = +60 cm: a real image on the far side, inverted and 3 times the size of the object (|M| = 3.0).
 
 - (B) adds the reciprocals (1/15 + 1/20 = 7/60), giving 8.6 cm.
 - (C) has the right size but the wrong sign. With sₒ > f for a converging lens, the image is real, so sᵢ is positive.
@@ -124,11 +124,11 @@ An object 1.5 cm tall stands 30 cm in front of a diverging lens with a focal len
 <summary>Worked solution</summary>
 
 1. (a) f = −20 cm. 1/sᵢ = 1/f − 1/sₒ = −1/20 − 1/30 = −5/60 = −1/12 cm⁻¹, so sᵢ = **−12 cm**.
-2. (b) M = −sᵢ/sₒ = −(−12)/30 = **+0.40**. hᵢ = 0.40 × 1.5 cm = **0.60 cm**.
-3. (c) **Virtual** (sᵢ < 0), **upright** (M > 0), **reduced**, 12 cm from the lens on the **same side as the object**.
-4. (d) It gets **larger**, but stays smaller than the object. (At 10 cm, for example, M = +0.67.) Far away, the image shrinks and approaches F.
+2. (b) |M| = |sᵢ/sₒ| = 12/30 = **0.40**. hᵢ = 0.40 × 1.5 cm = **0.60 cm**.
+3. (c) **Virtual** (sᵢ < 0), so **upright** for a single lens; **reduced** (|M| < 1); 12 cm from the lens on the **same side as the object**.
+4. (d) It gets **larger**, but stays smaller than the object. (At 10 cm, for example, |M| = 0.67.) Far away, the image shrinks and approaches F.
 
-Suggested mark points (4): 1 for using f = −20 cm and getting sᵢ = −12 cm; 1 for M = +0.40 and hᵢ = 0.60 cm; 1 for a full description that matches the signs; 1 for "larger but still reduced" in (d).
+Suggested mark points (4): 1 for using f = −20 cm and getting sᵢ = −12 cm; 1 for |M| = 0.40 and hᵢ = 0.60 cm; 1 for a full description that matches the sign of sᵢ; 1 for "larger but still reduced" in (d).
 
 Common error: using f = +20 cm, which gives sᵢ = +60 cm and an enlarged real image. A diverging lens cannot do that.
 </details>
@@ -146,9 +146,9 @@ A converging lens has focal length f. An object starts at 4f from the lens and i
 
 **(a)** From 1/sᵢ = 1/f − 1/sₒ: at sₒ = 4f, sᵢ = 1.33f; at 2f, sᵢ = 2f; at 1.2f, sᵢ = 6f. The graph is a curve that **rises ever more steeply** as sₒ decreases toward f, and flattens toward sᵢ = f for large sₒ. It passes through (2f, 2f).
 
-**(b)** |M| = sᵢ/sₒ. As sₒ falls, sᵢ rises, so the ratio grows in both ways: |M| goes from 0.33 at 4f, to 1.0 at 2f, to 5.0 at 1.2f. The real, inverted image gets steadily **larger** (and farther from the lens).
+**(b)** |M| = |sᵢ/sₒ|. As sₒ falls, sᵢ rises, so the ratio grows in both ways: |M| goes from 0.33 at 4f, to 1.0 at 2f, to 5.0 at 1.2f. The real, inverted image gets steadily **larger** (and farther from the lens).
 
-**(c)** The claim is **wrong**. As the object reaches f, sᵢ grows without limit: the rays leave the lens parallel and no image forms. Inside f (at 0.8f), 1/sᵢ = 1/f − 1/(0.8f) < 0, so sᵢ = −4f: the image is **virtual**, on the **object's side**, upright and enlarged (M = +5). The image does not continue on the same side; it "jumps" from far on one side to the other side.
+**(c)** The claim is **wrong**. As the object reaches f, sᵢ grows without limit: the rays leave the lens parallel and no image forms. Inside f (at 0.8f), 1/sᵢ = 1/f − 1/(0.8f) < 0, so sᵢ = −4f: the image is **virtual**, on the **object's side**, upright and enlarged (|M| = 5). The image does not continue on the same side; it "jumps" from far on one side to the other side.
 
 | Point | What earns it |
 |---|---|
@@ -175,8 +175,8 @@ A lamp illuminates a slide 2.0 cm tall. A screen is fixed 90 cm from the slide. 
 **(a)** For a real image on the screen, sₒ + sᵢ = 90 cm, so sᵢ = 90 − sₒ. Then 1/sₒ + 1/(90 − sₒ) = 1/20. Multiply through by 20 sₒ (90 − sₒ): 20(90 − sₒ) + 20 sₒ = sₒ(90 − sₒ), so 1800 = 90 sₒ − sₒ², or **sₒ² − 90 sₒ + 1800 = 0**. The discriminant is 90² − 4(1800) = 900, so sₒ = (90 ± 30)/2: **sₒ = 30 cm or sₒ = 60 cm** from the slide.
 
 **(b)**
-- sₒ = 30 cm: sᵢ = 60 cm, M = −60/30 = −2.0, hᵢ = −4.0 cm. **Real, inverted, enlarged** (4.0 cm tall).
-- sₒ = 60 cm: sᵢ = 30 cm, M = −30/60 = −0.50, hᵢ = −1.0 cm. **Real, inverted, reduced** (1.0 cm tall).
+- sₒ = 30 cm: sᵢ = 60 cm, |M| = 60/30 = 2.0, hᵢ = 4.0 cm. **Real** (sᵢ > 0), so **inverted**; **enlarged** (4.0 cm tall).
+- sₒ = 60 cm: sᵢ = 30 cm, |M| = 30/60 = 0.50, hᵢ = 1.0 cm. **Real**, so **inverted**; **reduced** (1.0 cm tall).
 
 The two positions are mirror images of each other: swapping sₒ and sᵢ still satisfies the thin-lens equation.
 

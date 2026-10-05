@@ -119,7 +119,7 @@ A loudspeaker cone pushes forward and squeezes the air in front of it. Then it p
 <figure>
 <svg viewBox="0 0 560 390" role="img" aria-labelledby="sound-title sound-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="sound-title">A sound wave as layers of air and as a pressure graph</title>
-<desc id="sound-desc">Top: a row of thin vertical lines representing layers of air at one instant. The lines are crowded together near the labels C, at about one quarter and three quarters of the way across, and spread out near the labels R, at the left end, the middle and the right end. An arrow shows the wave travelling to the right. Bottom: a graph of air pressure against position for the same instant. The horizontal dashed line is the normal air pressure P zero. The curve rises to a maximum directly below each C and falls to a minimum directly below each R. The vertical distance from P zero to a maximum is marked as the amplitude.</desc>
+<desc id="sound-desc">Top: a row of thin vertical lines representing layers of air at one instant. The lines are crowded together near the labels C, at about one quarter and three quarters of the way across, and spread out near the labels R, at the left end, the middle and the right end. An arrow shows the wave travelling to the right. Bottom: a graph of air pressure against position for the same instant. The horizontal dashed line is the normal air pressure P zero. The curve rises to a maximum directly below each C and falls to a minimum directly below each R. A dotted guide line runs right from the maximum below the second C, and a vertical arrow from P zero up to this guide line is marked as the amplitude.</desc>
 <defs><marker id="sound-arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#1d2b44"/></marker></defs>
 <g stroke="#1d2b44" stroke-width="1.5">
 <line x1="70.0" y1="70" x2="70.0" y2="170"/><line x1="81.2" y1="70" x2="81.2" y2="170"/><line x1="92.2" y1="70" x2="92.2" y2="170"/><line x1="102.9" y1="70" x2="102.9" y2="170"/><line x1="113.1" y1="70" x2="113.1" y2="170"/><line x1="122.7" y1="70" x2="122.7" y2="170"/><line x1="131.7" y1="70" x2="131.7" y2="170"/><line x1="140.0" y1="70" x2="140.0" y2="170"/><line x1="147.5" y1="70" x2="147.5" y2="170"/><line x1="154.4" y1="70" x2="154.4" y2="170"/><line x1="160.6" y1="70" x2="160.6" y2="170"/><line x1="166.2" y1="70" x2="166.2" y2="170"/><line x1="171.4" y1="70" x2="171.4" y2="170"/><line x1="176.4" y1="70" x2="176.4" y2="170"/><line x1="181.2" y1="70" x2="181.2" y2="170"/><line x1="186.1" y1="70" x2="186.1" y2="170"/><line x1="191.1" y1="70" x2="191.1" y2="170"/><line x1="196.5" y1="70" x2="196.5" y2="170"/><line x1="202.4" y1="70" x2="202.4" y2="170"/><line x1="209.0" y1="70" x2="209.0" y2="170"/><line x1="216.1" y1="70" x2="216.1" y2="170"/><line x1="224.1" y1="70" x2="224.1" y2="170"/><line x1="232.7" y1="70" x2="232.7" y2="170"/><line x1="242.0" y1="70" x2="242.0" y2="170"/><line x1="252.0" y1="70" x2="252.0" y2="170"/><line x1="262.4" y1="70" x2="262.4" y2="170"/><line x1="273.3" y1="70" x2="273.3" y2="170"/><line x1="284.4" y1="70" x2="284.4" y2="170"/><line x1="295.6" y1="70" x2="295.6" y2="170"/><line x1="306.7" y1="70" x2="306.7" y2="170"/><line x1="317.6" y1="70" x2="317.6" y2="170"/><line x1="328.0" y1="70" x2="328.0" y2="170"/><line x1="338.0" y1="70" x2="338.0" y2="170"/><line x1="347.3" y1="70" x2="347.3" y2="170"/><line x1="355.9" y1="70" x2="355.9" y2="170"/><line x1="363.9" y1="70" x2="363.9" y2="170"/><line x1="371.0" y1="70" x2="371.0" y2="170"/><line x1="377.6" y1="70" x2="377.6" y2="170"/><line x1="383.5" y1="70" x2="383.5" y2="170"/><line x1="388.9" y1="70" x2="388.9" y2="170"/><line x1="393.9" y1="70" x2="393.9" y2="170"/><line x1="398.8" y1="70" x2="398.8" y2="170"/><line x1="403.6" y1="70" x2="403.6" y2="170"/><line x1="408.6" y1="70" x2="408.6" y2="170"/><line x1="413.8" y1="70" x2="413.8" y2="170"/><line x1="419.4" y1="70" x2="419.4" y2="170"/><line x1="425.6" y1="70" x2="425.6" y2="170"/><line x1="432.5" y1="70" x2="432.5" y2="170"/><line x1="440.0" y1="70" x2="440.0" y2="170"/><line x1="448.3" y1="70" x2="448.3" y2="170"/><line x1="457.3" y1="70" x2="457.3" y2="170"/><line x1="466.9" y1="70" x2="466.9" y2="170"/><line x1="477.1" y1="70" x2="477.1" y2="170"/><line x1="487.8" y1="70" x2="487.8" y2="170"/><line x1="498.8" y1="70" x2="498.8" y2="170"/><line x1="510.0" y1="70" x2="510.0" y2="170"/>
@@ -135,6 +135,7 @@ A loudspeaker cone pushes forward and squeezes the air in front of it. Then it p
 <text x="52" y="304" font-size="12" fill="#1d2b44" text-anchor="end">P₀</text>
 <text x="20" y="300" font-size="12" fill="#1d2b44" text-anchor="middle" transform="rotate(-90 20 300)">pressure</text>
 <polyline points="70.0,340.0 80.0,338.4 90.0,333.7 100.0,326.2 110.0,316.6 120.0,305.7 130.0,294.3 140.0,283.4 150.0,273.8 160.0,266.3 170.0,261.6 180.0,260.0 190.0,261.6 200.0,266.3 210.0,273.8 220.0,283.4 230.0,294.3 240.0,305.7 250.0,316.6 260.0,326.2 270.0,333.7 280.0,338.4 290.0,340.0 300.0,338.4 310.0,333.7 320.0,326.2 330.0,316.6 340.0,305.7 350.0,294.3 360.0,283.4 370.0,273.8 380.0,266.3 390.0,261.6 400.0,260.0 410.0,261.6 420.0,266.3 430.0,273.8 440.0,283.4 450.0,294.3 460.0,305.7 470.0,316.6 480.0,326.2 490.0,333.7 500.0,338.4 510.0,340.0" fill="none" stroke="#1d2b44" stroke-width="2.5"/>
+<line x1="400" y1="260" x2="470" y2="260" stroke="#1d2b44" stroke-width="1" stroke-dasharray="2 3"/>
 <path d="M455 300 V262" stroke="#1d2b44" stroke-width="1.5" marker-end="url(#sound-arr)"/>
 <text x="462" y="256" font-size="12" fill="#1d2b44">amplitude</text>
 <text x="290" y="382" font-size="13" fill="#1d2b44" text-anchor="middle">Position x (same instant)</text>
@@ -146,7 +147,7 @@ Each layer of air moves back and forth along the direction of travel, around its
 
 ## What sets the speed of a wave
 
-The speed of a wave or pulse depends on **the type of wave and the properties of the medium**. It does not depend on how hard or how far you shake the source.
+The speed of a wave or pulse is set by **what kind of wave it is and by the properties of the medium** it travels through. It does not depend on how hard or how far you shake the source.
 
 ### Pulses on a string
 
@@ -172,7 +173,7 @@ Sound travels through solids, liquids and gases, at different speeds in each. In
 
 ### Light
 
-All EM waves travel at the same speed in a vacuum, a universal constant: **c = 3.00 × 10⁸ m/s**. That is nearly 900 000 times the speed of sound in air at 20 °C.
+All EM waves travel at the same speed in a vacuum, a universal constant: **c = 3.00 × 10⁸ m/s**. That is about 875 000 times the speed of sound in air at 20 °C.
 
 ## Amplitude, energy and loudness
 
@@ -219,7 +220,7 @@ Two links to remember:
 - **"Double the tension, double the speed."** v depends on the square root of F_T. Doubling the tension multiplies the speed by √2 ≈ 1.41.
 - **Using the total mass instead of the mass per length.** μ = m/ℓ. A long string and a short string of the same material have the same μ.
 - **Taking amplitude as the distance from crest to trough.** Amplitude is measured from equilibrium to the maximum: half of that distance.
-- **"Compressions are where the air is moving fastest" or "the air is pushed to the listener."** Compressions are regions of high pressure and crowded particles. The particles in them oscillate; they do not travel with the compression.
+- **"The air in a compression is pushed all the way to the listener."** Compressions are regions of high pressure and crowded particles. The particles in them oscillate about their own positions; they do not travel with the compression.
 
 ## Where this leads
 

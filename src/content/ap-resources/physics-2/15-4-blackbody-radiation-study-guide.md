@@ -124,7 +124,7 @@ The Sun's surface is close to a blackbody at about 5800 K, with its peak near 50
 
 ## Why classical physics failed
 
-Physicists in the late 1800s tried to predict the blackbody curve using classical physics: waves in the hot cavity, sharing the thermal energy equally. The result matched the experiments well at long wavelengths. But at short wavelengths the classical prediction **kept rising without limit**. It said that a hot object should pour out huge amounts of ultraviolet radiation, and that the total power should be infinite. That is obviously wrong. The failure was later nicknamed the "ultraviolet catastrophe".
+Around 1900, physicists tried to predict the blackbody curve using classical physics: waves in the hot cavity, sharing the thermal energy equally. The result matched the experiments well at long wavelengths. But at short wavelengths the classical prediction **kept rising without limit**. It said that a hot object should pour out huge amounts of ultraviolet radiation, and that the total power should be infinite. That is obviously wrong. The failure was later nicknamed the "ultraviolet catastrophe".
 
 In 1900 Max Planck found a formula, now called **Planck's law**, that fits the measured curve at all wavelengths. To get it, he had to assume that the energy of light of frequency f is emitted in **whole-number packets**, each of energy E = hf. In other words, light energy is **quantized**.
 

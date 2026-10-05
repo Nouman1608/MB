@@ -178,9 +178,9 @@ Consequences you can read straight from this equation:
 <title id="ip-title">Single-slit pattern on a screen and its brightness graph</title>
 <desc id="ip-desc">Top: a strip showing the pattern on the screen. The middle bright band is wide and labelled central bright band, width 2 lambda L over a. On each side there are narrower, dimmer bright bands separated by dark fringes. Bottom: a graph of brightness against position on the screen, measured in units of lambda L over a, from minus 3.5 to plus 3.5. The curve has a tall central peak between minus 1 and plus 1, falling to zero at plus and minus 1, 2 and 3. Between the zeros are small side peaks, each less than one tenth of the central height. The zeros are labelled m equals plus or minus 1, 2, 3, dark fringes.</desc>
 <rect x="45" y="30" width="490" height="40" fill="#1d2b44"/>
-<rect x="232" y="30" width="116" height="40" fill="#ffffff" stroke="#1d2b44"/>
-<rect x="374" y="30" width="42" height="40" fill="#a9b1bf"/><rect x="164" y="30" width="42" height="40" fill="#a9b1bf"/>
-<rect x="444" y="30" width="42" height="40" fill="#5b6679"/><rect x="94" y="30" width="42" height="40" fill="#5b6679"/>
+<rect x="223" y="30" width="134" height="40" fill="#ffffff" stroke="#1d2b44"/>
+<rect x="363" y="30" width="64" height="40" fill="#a9b1bf"/><rect x="153" y="30" width="64" height="40" fill="#a9b1bf"/>
+<rect x="433" y="30" width="64" height="40" fill="#5b6679"/><rect x="83" y="30" width="64" height="40" fill="#5b6679"/>
 <g font-size="12" fill="#1d2b44" text-anchor="middle">
 <text x="290" y="20">central bright band, width 2λL/a</text>
 <text x="395" y="88">dimmer</text><text x="185" y="88">dimmer</text>

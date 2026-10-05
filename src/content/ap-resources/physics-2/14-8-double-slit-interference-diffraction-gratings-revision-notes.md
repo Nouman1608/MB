@@ -35,7 +35,7 @@ Short on time? This page is the recap. For Figures 1 to 3 and the worked example
 
 - A double-slit pattern needs **diffraction** (each slit spreads the light so the beams overlap) and **interference** (the overlapping waves add).
 - The same wavefront reaches both slits, so the two waves start in step. The **path difference** to a point on the screen is d sin θ.
-- Whole number of wavelengths: **bright**. Half-odd number: **dark**.
+- Whole number of wavelengths: **bright**. Odd number of half-wavelengths: **dark**.
 - Interference alone gives evenly spaced, equally bright fringes. Real slits have width, so the fringes sit inside the **single-slit envelope**; a fringe where the envelope is zero is missing.
 - **Young's experiment:** dark fringes mean light from two slits can cancel, which particles cannot do. This is evidence that light behaves as a wave.
 - **Grating:** many evenly spaced slits. Same angles as two slits, but the maxima are much **sharper and brighter**.
@@ -50,7 +50,7 @@ Short on time? This page is the recap. For Figures 1 to 3 and the worked example
 | d sin θ = (m + ½)λ | m = 0, 1, 2, … each side | locate double-slit dark fringes |
 | y_max = mλL/d; spacing λL/d | L = slit-to-screen distance (m) | small angles only (θ < about 10°) |
 | d = 1/N | N = lines per metre (convert from lines/mm) | find d for a grating |
-| highest order: m ≤ d/λ | sin θ ≤ 1 | count visible orders |
+| highest order: largest m < d/λ | sin θ < 1 for a visible order | count visible orders |
 
 ## Assumptions behind the numbers
 

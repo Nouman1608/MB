@@ -33,8 +33,8 @@ keyPoints:
   - "Magnification compares sizes: |M| = |hᵢ/hₒ| = |sᵢ/sₒ|. For a single lens, real images are inverted and virtual images are upright."
   - "A diverging lens always gives a virtual, upright, smaller image of a real object."
 faqs:
-  - question: "Why do some formula lists write M = sᵢ/sₒ and others M = −sᵢ/sₒ?"
-    answer: "The minus sign only carries orientation. With M = −sᵢ/sₒ, a negative M means an inverted image. Without it, use M for size and decide orientation from whether the image is real (inverted) or virtual (upright). Either way, say 'upright' or 'inverted' in words."
+  - question: "Why do some textbooks write M = −sᵢ/sₒ?"
+    answer: "This course writes magnification as |M| = |hᵢ/hₒ| = |sᵢ/sₒ|: a size ratio with no sign. Some textbooks drop the bars and use M = −sᵢ/sₒ, so that a negative M means an inverted image. Treat that as background only. In this course, quote |M| and state the orientation in words: for a single lens, a real image is inverted and a virtual image is upright."
   - question: "Does covering half of a lens remove half of the image?"
     answer: "No. Every part of the lens receives light from every point of the object, so the whole image still forms. It is dimmer, because less light gets through."
 version: "1.0"
@@ -141,13 +141,12 @@ sₒ and sᵢ are the distances of the object and image from the midline of the 
 | f | converging lens | diverging lens |
 | sₒ | real object (the usual case) | not needed in this course |
 | sᵢ | real image, on the transmitted side | virtual image, on the incident side |
-| hᵢ (with M = −sᵢ/sₒ) | upright image | inverted image |
 
-The **magnification** compares image size with object size:
+The **magnification** compares image size with object size. The course writes it with absolute-value bars on every part:
 
-**M = hᵢ / hₒ**, with size |M| = |sᵢ| / sₒ
+**|M| = |hᵢ/hₒ| = |sᵢ/sₒ|**
 
-If you use the signed form M = −sᵢ/sₒ, a real image (sᵢ > 0) gets M < 0, meaning inverted, and a virtual image gets M > 0, upright. |M| > 1 means enlarged, |M| < 1 reduced, |M| = 1 the same size.
+It is a size ratio, so it never carries a sign. |M| > 1 means enlarged, |M| < 1 reduced, |M| = 1 the same size. Decide the orientation from the type of image: for a single lens, a **real image is inverted** and a **virtual image is upright**. (Background only: some textbooks drop the bars and write M = −sᵢ/sₒ, so that a negative M signals an inverted image. That gives the same description, but in this course quote |M| and state the orientation in words.)
 
 ## How the image depends on the object position
 
@@ -156,13 +155,13 @@ For a converging lens with object distance sₒ:
 | Object position | sᵢ | Image |
 |---|---|---|
 | Very far away | just beyond f | real, inverted, tiny (this is how you find f quickly) |
-| Beyond 2f (e.g. 3f) | between f and 2f (1.5f) | real, inverted, reduced (M = −0.5) |
+| Beyond 2f (e.g. 3f) | between f and 2f (1.5f) | real, inverted, reduced (|M| = 0.5) |
 | At 2f | 2f | real, inverted, same size |
-| Between f and 2f (e.g. 1.5f) | beyond 2f (3f) | real, inverted, enlarged (M = −2) |
+| Between f and 2f (e.g. 1.5f) | beyond 2f (3f) | real, inverted, enlarged (|M| = 2) |
 | At f | no image: rays leave parallel | — |
-| Inside f (e.g. 0.5f) | negative (−f) | virtual, upright, enlarged (M = +2) |
+| Inside f (e.g. 0.5f) | negative (−f) | virtual, upright, enlarged (|M| = 2) |
 
-For a diverging lens, a real object **always** gives a virtual, upright, reduced image between the lens and the near focal point. At sₒ = |f| the image is at |f|/2 with M = 0.5; for a very distant object the image approaches F and shrinks.
+For a diverging lens, a real object **always** gives a virtual, upright, reduced image between the lens and the near focal point. At sₒ = |f| the image is |f|/2 from the lens with |M| = 0.5; for a very distant object the image approaches F and shrinks.
 
 Figure 3 sketches sᵢ against sₒ for a converging lens. As the object moves in from far away towards F, the real image moves out from F towards infinity and grows. Inside F the image is virtual (sᵢ < 0).
 
@@ -193,7 +192,7 @@ Figure 3 sketches sᵢ against sₒ for a converging lens. As the object moves i
 <polyline points="192.5,50.0 200.0,79.9 215.0,110.0 237.5,130.0 260.0,140.0 305.0,150.0 350.0,155.0 440.0,160.0 530.0,162.5" fill="none" stroke="#1d2b44" stroke-width="2.5"/>
 <circle cx="260" cy="140" r="4" fill="#1d2b44"/>
 <g font-size="12" fill="#1d2b44">
-<text x="268" y="132">(2f, 2f): M = −1</text>
+<text x="268" y="132">(2f, 2f): |M| = 1</text>
 <text x="200" y="300">virtual images (sᵢ &lt; 0)</text>
 <text x="330" y="100">real images (sᵢ &gt; 0)</text>
 <text x="450" y="185">sᵢ → f</text>
@@ -208,8 +207,8 @@ Figure 3 sketches sᵢ against sₒ for a converging lens. As the object moves i
 
 1. Thin-lens equation: 1/sᵢ = 1/f − 1/sₒ = 1/12.0 − 1/18.0 = (3 − 2)/36.0 = 1/36.0 cm⁻¹.
 2. sᵢ = **+36.0 cm**. Positive, so the image is real and on the far side of the lens.
-3. Magnification: M = −sᵢ/sₒ = −36.0/18.0 = **−2.0**.
-4. Image height: hᵢ = M hₒ = (−2.0)(1.5 cm) = **−3.0 cm**.
+3. Magnification: |M| = |sᵢ/sₒ| = 36.0/18.0 = **2.0**.
+4. Image height: hᵢ = |M| hₒ = 2.0 × 1.5 cm = **3.0 cm**. The image is real (sᵢ > 0), so with a single lens it is inverted.
 
 **Answer.** A real, inverted image, twice the size of the toy (3.0 cm tall), 36.0 cm from the lens on the far side. A screen placed there would show it.
 
@@ -221,10 +220,10 @@ Figure 3 sketches sᵢ against sₒ for a converging lens. As the object moves i
 
 1. 1/sᵢ = 1/8.0 − 1/5.0 = 0.125 − 0.200 = −0.075 cm⁻¹.
 2. sᵢ = −13.3 cm. Negative, so the image is **virtual**, on the same side as the beetle, 13.3 cm from the lens.
-3. M = −sᵢ/sₒ = −(−13.3)/5.0 = **+2.7** (2.67).
-4. hᵢ = 2.67 × 0.40 cm = **1.1 cm**, upright.
+3. |M| = |sᵢ/sₒ| = 13.3/5.0 = **2.7** (2.67).
+4. hᵢ = 2.67 × 0.40 cm = **1.1 cm**. The image is virtual, so it is upright.
 
-**Interpretation.** The object is inside f, so the refracted rays diverge. Your eye traces them back to a larger, upright image behind the beetle. This is how a magnifying glass works. Move the beetle out to 7.0 cm (closer to F) and the image jumps to −56 cm with M = +8: the closer the object gets to F, the larger and more distant the virtual image.
+**Interpretation.** The object is inside f, so the refracted rays diverge. Your eye traces them back to a larger, upright image behind the beetle. This is how a magnifying glass works. Move the beetle out to 7.0 cm (closer to F) and the image jumps to sᵢ = −56 cm with |M| = 8: the closer the object gets to F, the larger and more distant the virtual image.
 
 ## Worked example 3: finding f from data
 
@@ -243,7 +242,7 @@ Find the focal length using a graph.
 3. The best-fit line through these points has slope −1.00 and vertical intercept 0.0665 cm⁻¹. The horizontal intercept is also about 0.0665 cm⁻¹.
 4. f = 1 / 0.0665 cm⁻¹ = **15.0 cm**.
 
-**Interpretation.** A slope close to −1 confirms the data follow the thin-lens equation. Each single row gives f between 14.9 cm and 15.1 cm; the graph uses all rows at once and shows any point that does not fit. The main uncertainty is judging where the image is sharpest. Note that sₒ never went below 15 cm: at or inside f there is no image on the screen.
+**Interpretation.** A slope close to −1 confirms the data follow the thin-lens equation. Each single row gives f between 14.9 cm and 15.1 cm; the graph uses all rows at once and shows any point that does not fit. The main uncertainty is judging where the image is sharpest. Note that every sₒ in the table is larger than f: at or inside f there is no image on the screen.
 
 ## Lenses at work
 

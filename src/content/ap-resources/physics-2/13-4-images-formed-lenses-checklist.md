@@ -38,7 +38,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 - I can draw the three principal rays for a converging lens and for a diverging lens to locate an image. *(Guide: Figures 1 and 2)*
 - I can use 1/sᵢ + 1/sₒ = 1/f with the sign convention, including f < 0 for a diverging lens. *(Guide: Worked examples 1 and 2; Practice Q2, Q5)*
-- I can calculate magnification and image height and use the signs to say real or virtual, upright or inverted. *(Practice Q5)*
+- I can calculate |M| = |sᵢ/sₒ| and the image height, and use the sign of sᵢ to say real or virtual, and so upright or inverted. *(Practice Q5)*
 - I can find f from data by plotting 1/sᵢ against 1/sₒ and using the intercepts. *(Guide: Worked example 3)*
 - I can set up and solve a lens–screen problem with a fixed object-to-screen distance. *(Practice Q7)*
 

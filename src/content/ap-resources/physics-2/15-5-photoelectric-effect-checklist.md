@@ -32,7 +32,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can describe the photoelectric effect and define the work function as the minimum energy needed to remove an electron. *(Guide: "What the photoelectric effect is")*
 - I can explain why no electrons are emitted below the threshold frequency, however many photons arrive. *(Guide: "The photon explanation"; Practice Q4, Q7d)*
 - I can explain why brighter light of the same frequency gives more electrons per second but the same K_max. *(Guide: "The photon explanation"; Practice Q1)*
-- I can explain why the photoelectric effect is evidence that light is made of photons. *(Guide: "What the experiments show")*
+- I can explain why the photoelectric effect is evidence that light is made of photons. *(Guide: "What the experiments show" and "The photon explanation"; Practice Q1)*
 
 ## Calculation and skills
 

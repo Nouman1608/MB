@@ -135,7 +135,7 @@ In a ripple tank, a small dipper vibrates up and down while moving steadily acro
 
 **(b)** The wave speed is set by the water, so v = 24 cm/s on both sides. Ahead: f = v/λ = 24 ÷ 1.2 = **20 Hz**. Behind: f = 24 ÷ 1.8 = **13.3 Hz** (13.33 Hz).
 
-**(c)** The float ahead has the separation shrinking, so it sees f above the rest frequency; the float behind sees f below it. So 13.3 Hz < f₀ < 20 Hz. The rest spacing is the average of the two spacings: (1.2 + 1.8)/2 = 1.5 cm. So f₀ = 24 ÷ 1.5 = **16 Hz**, which does lie between 13.3 Hz and 20 Hz.
+**(c)** The float ahead has the separation shrinking, so it sees f above the rest frequency; the float behind sees f below it. So 13.3 Hz < f₀ < 20 Hz. The rest spacing is the average of the two spacings: (1.2 + 1.8)/2 = 1.5 cm. So f₀ = 24 ÷ 1.5 = **16 Hz**, which does lie between 13.3 Hz and 20 Hz. Part (c) is extra practice with v = fλ: the exam treats the Doppler effect qualitatively and will not ask you to calculate a shift.
 
 | Point | What earns it |
 |---|---|
@@ -178,7 +178,7 @@ Do not award the first point for a graph that rises as the train approaches.
 
 ## Question 7 (constructed response · stretch)
 
-A ferry moves across a calm lake at constant velocity. A buzzer is fixed at the back (stern) of the ferry, and a passenger stands at the front (bow). A light wind blows over the lake. A friend waits on a jetty straight ahead of the ferry.
+A ferry moves across a calm lake at constant velocity. A buzzer is fixed at the back (stern) of the ferry, and a passenger stands at the front (bow). A light, steady wind blows over the lake. A friend waits on a jetty straight ahead of the ferry.
 
 A student claims: "The passenger at the bow hears a lower frequency than the buzzer's rest frequency, because the sound waves have to chase the bow, which is moving away from them."
 

@@ -53,7 +53,7 @@ Atoms have internal structure. The model you need has two parts:
 - A **nucleus** at the centre. It is very small and positively charged. It contains **protons** (charge +e) and **neutrons** (no charge). Together, protons and neutrons are called nucleons.
 - One or more **electrons** (charge −e) around the nucleus.
 
-The evidence for a small, dense nucleus came from scattering experiments in Rutherford's laboratory around 1911. Positively charged alpha particles were fired at thin gold foil. Most went straight through, but a very few bounced back sharply. Only a tiny, concentrated positive charge could push them back like that.
+The evidence for a small, dense nucleus came from scattering experiments in Rutherford's laboratory, which Rutherford explained with his nuclear model in 1911. Positively charged alpha particles were fired at thin gold foil. Most went straight through, but a very few bounced back sharply. Only a tiny, concentrated positive charge could push them back like that.
 
 The sizes are very different. An atom is about 10⁻¹⁰ m across, but a nucleus is roughly 10⁻¹⁵ m to 10⁻¹⁴ m across. So most of an atom is empty space, with the electrons moving far from the nucleus.
 

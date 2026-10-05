@@ -70,7 +70,7 @@ Monochromatic light passes through a single slit. At the first dark fringe besid
 **Answer: (A).** The first dark fringe is at a sin θ = λ, and a sin θ is the edge-to-edge path difference. Pair each point in the top half of the slit with the point a/2 below it: each pair then differs by λ/2 and cancels, so the whole slit gives darkness.
 
 - (B) is the difference for each **pair** of points a/2 apart, not for the two edges. A student who thinks "dark means half a wavelength out of step" for the whole slit picks this.
-- (C) is the double-slit idea of a dark fringe at a half-odd number of wavelengths. It does not apply to the edges of one slit.
+- (C) is the double-slit idea of a dark fringe at an odd number of half-wavelengths. It does not apply to the edges of one slit.
 - (D) is the condition at the centre of the pattern, where every wavelet arrives in step and the light is brightest.
 </details>
 

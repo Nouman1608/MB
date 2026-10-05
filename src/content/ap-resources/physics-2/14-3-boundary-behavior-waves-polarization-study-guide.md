@@ -111,7 +111,7 @@ The same ideas apply to any wave. Sound passing from air into water, and light p
 
 Think about the knot in Figure 1 when a continuous wave arrives. The knot belongs to both strings. Each time the first string moves it up and down once, the second string is moved up and down once too. So both sides oscillate at the same rate:
 
-**The frequency of a wave does not change when it crosses a boundary.**
+**A wave keeps the same frequency when it crosses a boundary.**
 
 The frequency is set by the source. The speed is set by the medium. So the wavelength has to adjust. From v = fλ with f fixed:
 
@@ -176,7 +176,7 @@ Polarizing a wave usually removes part of it, so the wave that comes out carries
 
 **I = P / A**, in W/m²
 
-The energy a wave carries goes up and down during each cycle, so intensity is defined as the **average power per unit area over one period**.
+The rate at which a wave delivers energy rises and falls during each cycle, so intensity is defined as the **average power per unit area over one period**.
 
 For ideal filters (in this course you can treat filters as ideal unless told otherwise):
 
@@ -222,7 +222,7 @@ At angles in between, part of polarized light gets through: the closer the axis 
 - **"The transmitted pulse can be inverted."** Only the reflected pulse can flip. The transmitted pulse is always upright.
 - **"Heavier always means inverted" without a reason.** The real rule is about speed. For strings at the same tension, heavier means slower, so it works there. For other waves, look at the speeds.
 - **"The reflected pulse travels at a new speed."** The reflected pulse is back in the first medium, so it has the first medium's speed and its original width.
-- **"All of the wave is reflected (or all transmitted)."** At a real boundary between two media you get both. Total reflection happens only in limiting cases such as a fixed end.
+- **"All of the wave is reflected (or all transmitted)."** At a real boundary between two media you usually get both. All of the wave is reflected only in special cases, such as a fixed or free end, or total internal reflection of light (Topic 13.3).
 - **"Sound can be polarized by a slit."** Sound is longitudinal, so it cannot be polarized. A slit may change how sound spreads, but that is diffraction, not polarization.
 - **"A polarizing filter blocks light at random."** It blocks the part oscillating at right angles to its axis. Unpolarized light loses half; polarized light loses anything from none to all, depending on the angle.
 - **"Intensity is the same as power."** Intensity is power **per unit area**. The same power spread over a bigger area gives a smaller intensity.

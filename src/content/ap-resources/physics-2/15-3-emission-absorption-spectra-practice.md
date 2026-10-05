@@ -147,8 +147,8 @@ A student has three lamps, each filled with one invented gas. She records the vi
 
 She then shines white light through a cool sample of an unknown gas mixture. The spectrum shows dark lines at 420 nm, 470 nm, 515 nm and 590 nm, and no others in the visible range.
 
-(a) Which gas is certainly in the mixture? Justify.
-(b) Which gas is certainly not in the mixture? Justify.
+(a) Which gas do the data show is in the mixture? Justify.
+(b) Is there any evidence that gas B is in the mixture? Explain what you can and cannot conclude.
 (c) Another student says gas A cannot be present, because there is no dark line at 610 nm. Evaluate this claim.
 (d) Explain why the lines look dark even though the gas atoms soon re-emit the energy they absorb.
 
@@ -157,7 +157,7 @@ She then shines white light through a cool sample of an unknown gas mixture. The
 
 **(a)** Gas C. Both of its lines, 470 nm and 590 nm, appear as dark lines, and its pattern is fully matched.
 
-**(b)** Gas B. None of its lines (455, 540, 670 nm) appears. If gas B were present in any useful amount, it would absorb at least some of these wavelengths.
+**(b)** No. None of gas B's lines (455, 540, 670 nm) appears, so there is no evidence for it. This does not fully rule B out: if all three of its visible lines came from drops between excited states, a cool sample would absorb none of them (see part (c)). The absorption spectrum of a pure cool sample of B would settle it.
 
 **(c)** The claim is not justified. A cool gas has almost all its atoms in the ground state, so it absorbs only transitions that **start** at the ground state. An emission line such as 610 nm may come from a drop between two **excited** states. Cool atoms are not in that lower excited state, so they cannot absorb at 610 nm. The 420 nm and 515 nm lines of gas A are both present, which supports gas A being in the mixture. (To be sure, the student could compare with the absorption spectrum of a pure cool sample of gas A.)
 
@@ -166,7 +166,7 @@ She then shines white light through a cool sample of an unknown gas mixture. The
 | Point | What earns it |
 |---|---|
 | 1 | Gas C, because both of its lines appear |
-| 1 | Gas B is absent, because none of its lines appear |
+| 1 | No evidence for gas B, because none of its lines appear as dark lines |
 | 1 | States that a cool gas absorbs mainly from the ground state |
 | 1 | Concludes the missing 610 nm line can be explained by a transition between excited states, so the claim is not justified (supported by the 420 and 515 nm lines) |
 | 1 | Re-emission is in all directions, so less light continues along the beam at those wavelengths |

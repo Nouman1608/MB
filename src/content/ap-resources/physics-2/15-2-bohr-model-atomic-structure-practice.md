@@ -57,7 +57,7 @@ How many protons, neutrons and electrons are there in the ion ³⁷₁₇Cl⁻?
 
 ## Question 2 (multiple choice · core)
 
-X and Y stand for chemical symbols. Which pair of neutral atoms are isotopes of the same element?
+In each pair, X and Y stand for chemical symbols, which may or may not be the same. Which pair of neutral atoms are isotopes of the same element?
 
 - (A) ²⁴₁₂X and ²⁶₁₂Y
 - (B) ⁴⁰₁₈X and ⁴⁰₂₀Y

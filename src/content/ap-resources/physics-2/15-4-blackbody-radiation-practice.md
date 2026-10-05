@@ -134,30 +134,30 @@ Common error: in (c), scaling T by 300/125 = 2.4 to get about 2640 K. The power 
 
 ## Question 6 (constructed response · core)
 
-A blackbody at temperature T₀ has its peak at wavelength λ₀.
+The inside wall of a pottery kiln is modelled as a blackbody. At temperature T₁ its spectrum peaks at wavelength λ₁. The kiln is then heated until its absolute temperature is 1.5T₁.
 
-(a) On one set of axes of intensity per unit wavelength against wavelength, sketch the spectrum at T₀ and the spectrum of the same body at 2T₀. Label each curve and mark both peak wavelengths in terms of λ₀.
+(a) On one set of axes of intensity per unit wavelength against wavelength, sketch the spectrum at T₁ and the spectrum at 1.5T₁. Label each curve and mark both peak wavelengths in terms of λ₁.
 (b) Using your sketch, describe two ways the two curves differ. Justify each with a law or principle.
-(c) State the ratio of the total power at 2T₀ to the total power at T₀, and state how this ratio appears on your graph.
+(c) Calculate the ratio of the total power emitted at 1.5T₁ to the total power emitted at T₁, and state how this ratio appears on your graph.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Both curves start near zero at short wavelength, rise to a single peak and fall with a long tail. The T₀ curve peaks at λ₀. The 2T₀ curve peaks at **λ₀/2**, is much taller, and lies **above** the T₀ curve at every wavelength.
+**(a)** Both curves start near zero at short wavelength, rise to a single peak and fall with a long tail. The T₁ curve peaks at λ₁. The 1.5T₁ curve peaks at **λ₁/1.5 = 2λ₁/3** (about 0.67λ₁), is much taller, and lies **above** the T₁ curve at every wavelength.
 
-**(b)** (i) The 2T₀ peak is at half the wavelength, because λ_max = b/T is inversely proportional to T. (ii) The 2T₀ curve is higher at every wavelength, because a hotter blackbody emits more at all wavelengths; the total emitted power rises steeply with T.
+**(b)** (i) The 1.5T₁ peak is at a shorter wavelength, 2λ₁/3, because λ_max = b/T is inversely proportional to T. (ii) The 1.5T₁ curve is higher at every wavelength, because a hotter blackbody emits more at all wavelengths; the total emitted power rises steeply with T.
 
-**(c)** P ∝ T⁴, so P(2T₀)/P(T₀) = 2⁴ = **16**. On the graph, the **area under** the 2T₀ curve is 16 times the area under the T₀ curve.
+**(c)** P ∝ T⁴ for the same area, so P(1.5T₁)/P(T₁) = 1.5⁴ = **5.06** (about 5). On the graph, the **area under** the 1.5T₁ curve is about 5 times the area under the T₁ curve.
 
 | Point | What earns it |
 |---|---|
 | 1 | Correct shape for both curves: near zero at short λ, single peak, long tail at long λ |
-| 1 | 2T₀ curve above the T₀ curve at all wavelengths (no crossing) |
-| 1 | Peaks marked at λ₀ and λ₀/2, justified by Wien's law |
-| 1 | Ratio 16, from P ∝ T⁴ |
+| 1 | 1.5T₁ curve above the T₁ curve at all wavelengths (no crossing) |
+| 1 | Peaks marked at λ₁ and 2λ₁/3, justified by Wien's law |
+| 1 | Ratio 1.5⁴ ≈ 5.06, from P ∝ T⁴ |
 | 1 | Links the power ratio to the ratio of areas under the curves |
 
-Accept a peak-height ratio larger than 16 in the sketch (it is actually 32), as long as the curves do not cross and the 2T₀ curve is clearly taller. Do not award the third point for peaks in the correct order with no mention of halving.
+Accept a peak-height ratio larger than 5 in the sketch (it is actually about 7.6), as long as the curves do not cross and the 1.5T₁ curve is clearly taller. Do not award the third point for peaks in the correct order with no value in terms of λ₁.
 </details>
 
 ## Question 7 (constructed response · stretch)

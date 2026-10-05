@@ -222,7 +222,7 @@ A graph of V_s against f is the same shape, because V_s = K_max/e. Its slope is 
 
 1. **Choose the axes.** V_s = (h/e)f − φ/e. Plot V_s (vertical) against f (horizontal). The theory predicts a straight line.
 2. **Plot and draw a best-fit line.** Use scales that spread the points over most of the grid: for example f from 0 to 10 × 10¹⁴ Hz and V_s from −2.5 V to 2.0 V, so you can extend the line to the vertical axis. The points lie close to one straight line.
-3. **Slope.** Use two points on your line far apart, not two data points. A least-squares line gives slope = 4.14 × 10⁻¹⁵ V/Hz. (Reading (6.0 × 10¹⁴ Hz, 0.18 V) and (10.0 × 10¹⁴ Hz, 1.84 V) from the line gives 4.15 × 10⁻¹⁵ V/Hz.)
+3. **Slope.** Use two points on your line far apart, not two data points. A least-squares line gives slope = 4.14 × 10⁻¹⁵ V/Hz. (Reading (6.0 × 10¹⁴ Hz, 0.184 V) and (10.0 × 10¹⁴ Hz, 1.84 V) off that line gives (1.84 − 0.184) ÷ (4.0 × 10¹⁴) = 4.14 × 10⁻¹⁵ V/Hz. A hand-drawn line may give a slightly different value.)
 4. **Planck's constant.** h = e × slope = (1.60 × 10⁻¹⁹ C)(4.14 × 10⁻¹⁵ V/Hz) = 6.62 × 10⁻³⁴ J·s.
 5. **Work function.** The vertical intercept of the best-fit line is −2.30 V. So φ/e = 2.30 V and **φ = 2.30 eV**.
 6. **Threshold.** The horizontal intercept is f₀ = 2.30 ÷ (4.14 × 10⁻¹⁵) = 5.56 × 10¹⁴ Hz.

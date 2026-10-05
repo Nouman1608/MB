@@ -30,7 +30,7 @@ framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-physics-2", "clar-physics-2", "page-physics-2"]
 keyPoints:
   - "Two slits a distance d apart give a path difference of d sin θ between their waves."
-  - "Bright fringes: d sin θ = mλ (m = 0, ±1, ±2, …). Dark fringes: path difference = half-odd numbers of λ."
+  - "Bright fringes: d sin θ = mλ (m = 0, ±1, ±2, …). Dark fringes: path difference = an odd number of half-wavelengths (λ/2, 3λ/2, …)."
   - "For small angles the bright fringes are evenly spaced: y_max = mλL/d, so the spacing is λL/d."
   - "Real slits have width, so the double-slit fringes sit inside the single-slit diffraction envelope."
   - "A grating (many evenly spaced slits) gives the same maxima as d sin θ = mλ, but much sharper and brighter. With white light the centre is white and red is farthest out in each order."
@@ -69,7 +69,7 @@ Take a point on the screen at angle θ from the straight-through direction. The 
 <figure>
 <svg viewBox="0 0 560 290" role="img" aria-labelledby="ds-title ds-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="ds-title">Path length difference between two slits</title>
-<desc id="ds-desc">A barrier with two narrow slits, S1 above and S2 below, a distance d apart. A dashed horizontal line from the midpoint between the slits marks the normal. Two parallel rays leave S1 and S2 heading up and to the right at angle theta to the normal, towards the same distant point on a screen. A thin line from S1 meets the ray from S2 at a right angle. The extra length of the S2 ray before that point is shaded and labelled d sine theta, the path length difference.</desc>
+<desc id="ds-desc">A barrier with two narrow slits, S1 above and S2 below, a distance d apart. A dashed horizontal line from the midpoint between the slits marks the normal. Two parallel rays leave S1 and S2 heading up and to the right at angle theta to the normal, towards the same distant point on a screen. A short dotted line from the midpoint, parallel to the rays, shows the angle theta. A thin line from S1 meets the ray from S2 at a right angle. The extra length of the S2 ray before that point is shaded and labelled d sine theta, the path length difference.</desc>
 <defs><marker id="ds-arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#1d2b44"/></marker></defs>
 <g stroke="#1d2b44" stroke-width="6"><line x1="150" y1="20" x2="150" y2="134"/><line x1="150" y1="146" x2="150" y2="214"/><line x1="150" y1="226" x2="150" y2="275"/></g>
 <line x1="150" y1="180" x2="470" y2="180" stroke="#1d2b44" stroke-width="1" stroke-dasharray="5 4"/>
@@ -81,6 +81,7 @@ Take a point on the screen at angle θ from the straight-through direction. The 
 <line x1="150" y1="140" x2="175.7" y2="210.6" stroke="#1d2b44" stroke-width="1.5"/>
 <line x1="150" y1="220" x2="175.7" y2="210.6" stroke="#1d2b44" stroke-width="5" stroke-opacity="0.45"/>
 <path d="M170.1 212.7 L168.0 207.1 L173.7 205.0" fill="none" stroke="#1d2b44" stroke-width="1"/>
+<line x1="150" y1="180" x2="244" y2="145.8" stroke="#1d2b44" stroke-width="1" stroke-dasharray="2 3"/>
 <path d="M220 180 A70 70 0 0 0 215.8 156.1" fill="none" stroke="#1d2b44" stroke-width="1"/>
 <g font-size="13" fill="#1d2b44">
 <text x="226" y="172">θ</text>
@@ -94,12 +95,12 @@ Take a point on the screen at angle θ from the straight-through direction. The 
 <text x="20" y="60" font-size="12">light from</text><text x="20" y="76" font-size="12">the laser →</text>
 </g>
 </svg>
-<figcaption>Figure 1. Waves leaving slits S₁ and S₂ (separation d) at angle θ (angle exaggerated). The thin line from S₁ meets the S₂ ray at a right angle, so the S₂ wave travels an extra d sin θ (thick shaded segment) to reach the same distant point.</figcaption>
+<figcaption>Figure 1. Waves leaving slits S₁ and S₂ (separation d) at angle θ to the normal (angle exaggerated; the dotted line from the midpoint marks θ). The thin line from S₁ meets the S₂ ray at a right angle, so the S₂ wave travels an extra d sin θ (thick shaded segment) to reach the same distant point.</figcaption>
 </figure>
 
 - **Bright fringe (constructive):** the path difference is a whole number of wavelengths, so the waves arrive crest-on-crest.
   **d sin θ = mλ, with m = 0, ±1, ±2, …**
-- **Dark fringe (destructive):** the path difference is a half-odd number of wavelengths (λ/2, 3λ/2, 5λ/2, …), so the waves arrive crest-on-trough.
+- **Dark fringe (destructive):** the path difference is an odd number of half-wavelengths (λ/2, 3λ/2, 5λ/2, …), so the waves arrive crest-on-trough.
   **d sin θ = (m + ½)λ, with m = 0, 1, 2, …** on each side
 
 The whole number m is the **order** of the bright fringe. The central bright fringe (θ = 0, equal paths) is m = 0. The first bright fringe on either side is m = ±1, where one wave has travelled exactly one wavelength further.
@@ -121,7 +122,7 @@ So a real double-slit pattern is **interference fringes sitting inside a single-
 
 - The fringe **spacing** is set by d (λL/d).
 - The **envelope** is set by a (its central band is 2λL/a wide).
-- Because d is larger than a, the fringes are much closer together than the envelope's minima. Many fringes fit inside the central band of the envelope.
+- The slit separation d is always larger than the slit width a (usually several times larger), so the fringes are closer together than the envelope's minima. Several fringes fit inside the central band of the envelope.
 - Where a minimum of the envelope lands exactly on a bright-fringe position, that fringe is **missing**: one slit alone sends no light there, so there is nothing to interfere.
 
 <figure>
@@ -153,7 +154,7 @@ If you cover one of the two slits, the fringes disappear. What remains is the si
 
 ## Diffraction gratings
 
-A **diffraction grating** is a large number of evenly spaced, parallel slits (or lines). Gratings are usually described by lines per millimetre. A grating with N lines per millimetre has slit spacing d = (1/N) mm. For example, 500 lines/mm gives d = 0.002 mm = 2.00 × 10⁻⁶ m.
+A **diffraction grating** is a large number of evenly spaced, parallel slits (or lines). Each slit diffracts the light on its own, and the grating pattern is what you get when all those diffraction patterns overlap and interfere. Gratings are usually described by lines per millimetre. A grating with N lines per millimetre has slit spacing d = (1/N) mm. For example, 500 lines/mm gives d = 0.002 mm = 2.00 × 10⁻⁶ m.
 
 The bright maxima are at the **same angles** as for two slits with the same d:
 
@@ -164,7 +165,7 @@ But they look very different:
 - For a bright maximum, the wave from **every** slit must be in step with every other one. That only happens at angles very close to d sin θ = mλ. A tiny step away from that angle and the waves from hundreds of slits cancel each other almost completely.
 - So a grating gives **narrow, very bright** maxima separated by wide dark regions. This makes the positions easy to measure accurately, which is why gratings are used to measure wavelengths.
 - Because d is so small, the angles are **large**. Do not use the small-angle form for a grating. Use d sin θ = mλ and, if you need positions on a screen, y = L tan θ.
-- sin θ cannot exceed 1, so the highest order you can see is the largest whole number m with m ≤ d/λ.
+- sin θ cannot exceed 1, so the highest order you can see is the largest whole number m that is less than d/λ. (If d/λ were exactly a whole number, that order would be at 90°, travelling along the grating, so you would not see it.)
 
 ## White light and a grating
 
@@ -240,7 +241,7 @@ For a grating, measure the distance between the two first-order spots, halve it 
 1. d = (1/600) mm = 1.667 × 10⁻⁶ m.
 2. (a) Violet: sin θ = (400 × 10⁻⁹) ÷ (1.667 × 10⁻⁶) = 0.240, θ = **13.9°**. Red: sin θ = 0.420, θ = **24.8°**. The spectrum runs from 13.9° (violet) to 24.8° (red).
 3. (b) Second-order red: sin θ = 2 × 0.420 = 0.840, θ = 57.1°. Third-order violet: sin θ = 3 × 0.240 = 0.720, θ = 46.1°. The third order starts at 46.1°, before the second ends at 57.1°, so **yes, they overlap**.
-4. (c) The largest m with m ≤ d/λ: d/λ = 1.667 × 10⁻⁶ ÷ 7.00 × 10⁻⁷ = 2.38, so red appears only up to **m = 2**.
+4. (c) The largest m that is less than d/λ: d/λ = 1.667 × 10⁻⁶ ÷ 7.00 × 10⁻⁷ = 2.38, so red appears only up to **m = 2**.
 
 **Check.** If you had used the small-angle form for first-order red on a screen 1.00 m away, you would get y = λL/d = 0.420 m instead of the correct L tan θ = 0.463 m, an error of about 9%. Grating angles are too large for the approximation.
 

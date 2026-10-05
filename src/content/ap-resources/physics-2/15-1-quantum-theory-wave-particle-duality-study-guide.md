@@ -135,7 +135,7 @@ In 1924 Louis de Broglie suggested that the link works the other way round too: 
 
 The wavelength **increases as the momentum decreases**. A slow, light particle has a long wavelength. A fast, heavy object has an extremely short one.
 
-The evidence came in 1927, when Davisson and Germer fired electrons at a nickel crystal and found that they were scattered strongly only in certain directions. The rows of atoms acted like a diffraction grating, exactly as for X-rays. Since then, two-slit experiments like the one in Figure 1 have been done with electrons, neutrons and even large molecules. The electrons arrive one at a time as dots and still build up an interference pattern. So electrons, like photons, show both particle-like and wave-like behaviour.
+The evidence came in 1927, when Davisson and Germer fired electrons at a nickel crystal and found that they were scattered strongly only in certain directions. The rows of atoms acted like a diffraction grating, exactly as for X-rays. Since then, interference experiments like the one in Figure 1 have been done with electrons, neutrons and even large molecules. The electrons arrive one at a time as dots and still build up an interference pattern. So electrons, like photons, show both particle-like and wave-like behaviour.
 
 ### When do matter waves matter?
 
@@ -190,7 +190,7 @@ A free particle, by contrast, is not confined, so its kinetic energy can take an
 
 **Answer.** (a) 1.00 × 10⁻¹⁰ m. (b) About 1.5 × 10⁻³⁴ m, roughly 10²⁴ times smaller. (c) The wavelength halves.
 
-**Interpretation.** 1.0 × 10⁻¹⁰ m is about the spacing between atoms in a solid. So a beam of 150 eV electrons is diffracted by a crystal, just as X-rays are, which is what Davisson and Germer saw. The ball's wavelength is so small that there is no gap or obstacle on which it could ever show diffraction.
+**Interpretation.** 1.0 × 10⁻¹⁰ m is about the spacing between atoms in a solid. So a beam of 150 eV electrons is diffracted by a crystal, just as X-rays are. This is the kind of effect Davisson and Germer saw (their electrons had a lower energy, but the idea is the same). The ball's wavelength is so small that there is no gap or obstacle on which it could ever show diffraction.
 
 ## Common misconceptions
 
@@ -200,7 +200,7 @@ A free particle, by contrast, is not confined, so its kinetic energy can take an
 - **Using λ in a medium in E = hc/λ.** That formula needs the vacuum wavelength. It is safer to work with frequency.
 - **"An electron is really a particle, and the wave is just how it moves."** The electron is not travelling along a wavy path. The wave describes where it is likely to be found. Each detection is a single point; the pattern appears only from many detections.
 - **"Bigger objects have longer de Broglie wavelengths."** It is the other way round: λ = h/(mv), so a larger momentum means a shorter wavelength.
-- **"Quantum theory replaces classical physics everywhere."** For everyday objects, quantum theory and classical physics give the same answers. You only need quantum theory when the de Broglie wavelength is comparable to the size of the system.
+- **"Quantum theory replaces classical physics everywhere."** For everyday objects, quantum theory and classical physics give the same answers. You only need quantum theory when an object's de Broglie wavelength is similar to the size of the gap, obstacle or region it is in.
 - **Forgetting to convert eV to J.** In λ = h/√(2mK) or E = hf with h in J·s, the energy must be in joules.
 
 ## Where this leads

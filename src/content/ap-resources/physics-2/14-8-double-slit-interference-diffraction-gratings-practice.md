@@ -69,7 +69,7 @@ In a double-slit pattern, what is the path length difference between the two wav
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** Dark fringes need a half-odd number of wavelengths: 0.5λ, 1.5λ, 2.5λ, … The first dark fringe is at 0.5λ, so the second is at 1.5λ.
+**Answer: (B).** Dark fringes need an odd number of half-wavelengths: 0.5λ, 1.5λ, 2.5λ, … The first dark fringe is at 0.5λ, so the second is at 1.5λ.
 
 - (A) is the second **bright** fringe (m = 2), where the waves arrive in step.
 - (C) puts m = 2 into (m + ½)λ, but that formula counts from m = 0, so m = 2 is the third dark fringe.
@@ -125,7 +125,7 @@ A laser beam shines straight onto a grating with 300 lines/mm. On a screen 1.10 
 2. (a) tan θ₁ = 0.184 ÷ 1.10, so θ₁ = **9.50°**.
 3. (b) λ = d sin θ₁ = (3.333 × 10⁻⁶ m)(sin 9.50°) = **5.50 × 10⁻⁷ m** (550 nm).
 4. (c) sin θ₂ = 2λ/d = 0.330, so θ₂ = 19.3°. y₂ = L tan θ₂ = 1.10 × tan 19.27° = **0.384 m**. The small-angle form gives y₂ = 2λL/d = 0.363 m, about 6% too small, because θ₂ is well above 10°.
-5. (d) m ≤ d/λ = 3.333 × 10⁻⁶ ÷ 5.50 × 10⁻⁷ = 6.06, so the highest order is **m = 6** (at 81.8°, so it would not land on a flat screen of any practical size).
+5. (d) m must be less than d/λ = 3.333 × 10⁻⁶ ÷ 5.50 × 10⁻⁷ = 6.06, so the highest order is **m = 6** (at 81.8°, so it would not land on a flat screen of any practical size).
 
 Suggested mark points (5): 1 for d = 3.33 × 10⁻⁶ m; 1 for θ₁ = 9.50° from tan θ = y/L; 1 for λ = 550 nm; 1 for y₂ = 0.384 m with a comparison to 0.363 m; 1 for m = 6 from d/λ. For (b), accept 550–558 nm: the small-angle estimate λ = dy/(mL) gives 558 nm, about 1.4% high, because θ₁ is close to 10°.
 
@@ -154,7 +154,7 @@ A student wants to find the separation d of a pair of slits. She uses a laser of
 
 **(c)** A best-fit line gives a gradient of about 2.6 × 10⁻³ (2.63 mm per metre). Then d = 2λ ÷ gradient = 2(5.20 × 10⁻⁷ m) ÷ (2.63 × 10⁻³) = 3.95 × 10⁻⁴ m ≈ **0.40 mm**.
 
-**(d)** y₂ = gradient × L = (2.63 × 10⁻³)(3.00 m) = 7.9 × 10⁻³ m ≈ **7.9 mm**.
+**(d)** The line passes almost through the origin, so y₂ ≈ gradient × L = (2.63 × 10⁻³)(3.00 m) = 7.9 × 10⁻³ m ≈ **7.9 mm**. (Reading the best-fit line itself, which has a small intercept of −0.04 mm, gives 7.8 mm; both are fine.)
 
 | Point | What earns it |
 |---|---|
@@ -165,7 +165,7 @@ A student wants to find the separation d of a pair of slits. She uses a laser of
 | 1 | d = 0.40 mm (accept 0.39–0.42 mm), with units |
 | 1 | y₂ ≈ 7.9 mm at 3.00 m (accept 7.6–8.1 mm), from the gradient or by proportion |
 
-Do not award the gradient point for a value taken from a single data point. Accept a graph of y₂ against L with gradient λ/(d/2), if the student then finds d correctly.
+Do not award the gradient point for a value taken from a single data point. Also accept plotting the fringe spacing y₂/2 against L, with gradient λ/d, if the student then finds d correctly.
 </details>
 
 ## Question 7 (constructed response · stretch)

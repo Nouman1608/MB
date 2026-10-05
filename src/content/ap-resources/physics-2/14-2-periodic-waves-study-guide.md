@@ -21,7 +21,7 @@ skills: ["1", "2", "3"]
 studyMinutes: 45
 difficulty: "core"
 calculator: "scientific"
-calculatorNote: "Set your calculator to radians for cos(2πt/T) and cos(2πx/λ). 1 ms = 10⁻³ s. Keep unrounded values until the final step"
+calculatorNote: "Set your calculator to radians for cos(2πft) and cos(2πx/λ). 1 ms = 10⁻³ s. Keep unrounded values until the final step"
 related: ["mb-ap-phys2-14.2-revision-notes", "mb-ap-phys2-14.2-practice", "mb-ap-phys2-14.2-checklist"]
 next: "mb-ap-phys2-14.2-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
@@ -79,7 +79,7 @@ Both graphs show the amplitude as the height of a crest above the axis. The curv
 <figure>
 <svg viewBox="0 0 560 470" role="img" aria-labelledby="pw-title pw-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="pw-title">Displacement–position and displacement–time graphs of the same wave</title>
-<desc id="pw-desc">Top graph: displacement in centimetres against position in metres, at time zero, for positions 0 to 1.6 metres. A cosine curve with crests at 0, 0.80 and 1.6 metres and troughs at 0.40 and 1.2 metres, reaching plus and minus 3.0 centimetres. A double-headed arrow between the crests at 0 and 0.80 metres is labelled wavelength equals 0.80 metres, and a vertical arrow from the axis to a crest is labelled A equals 3.0 centimetres. Bottom graph: displacement in centimetres against time in seconds, at position zero, for times 0 to 0.040 seconds. The same cosine shape with crests at 0, 0.020 and 0.040 seconds. A double-headed arrow between the crests at 0 and 0.020 seconds is labelled period equals 0.020 seconds.</desc>
+<desc id="pw-desc">Top graph: displacement in centimetres against position in metres, at time zero, for positions 0 to 1.6 metres. A cosine curve with crests at 0, 0.80 and 1.6 metres and troughs at 0.40 and 1.2 metres, reaching plus and minus 3.0 centimetres. A double-headed arrow between the crests at 0 and 0.80 metres is labelled wavelength equals 0.80 metres, and a vertical arrow from the axis up to a dotted guide line level with the crest at 1.6 metres is labelled A equals 3.0 centimetres. Bottom graph: displacement in centimetres against time in seconds, at position zero, for times 0 to 0.040 seconds. The same cosine shape with crests at 0, 0.020 and 0.040 seconds. A double-headed arrow between the crests at 0 and 0.020 seconds is labelled period equals 0.020 seconds.</desc>
 <defs><marker id="pw-arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#1d2b44"/></marker></defs>
 <text x="290" y="22" font-size="13" font-weight="600" fill="#1d2b44" text-anchor="middle">Snapshot at t = 0</text>
 <line x1="70" y1="120" x2="530" y2="120" stroke="#1d2b44" stroke-width="1.5" marker-end="url(#pw-arr)"/>
@@ -99,8 +99,9 @@ Both graphs show the amplitude as the height of a crest above the axis. The curv
 <polyline points="70.0,60.0 76.9,61.2 83.8,64.6 90.6,70.1 97.5,77.6 104.4,86.7 111.2,97.0 118.1,108.3 125.0,120.0 131.9,131.7 138.8,143.0 145.6,153.3 152.5,162.4 159.4,169.9 166.2,175.4 173.1,178.8 180.0,180.0 186.9,178.8 193.8,175.4 200.6,169.9 207.5,162.4 214.4,153.3 221.2,143.0 228.1,131.7 235.0,120.0 241.9,108.3 248.8,97.0 255.6,86.7 262.5,77.6 269.4,70.1 276.2,64.6 283.1,61.2 290.0,60.0 296.9,61.2 303.8,64.6 310.6,70.1 317.5,77.6 324.4,86.7 331.2,97.0 338.1,108.3 345.0,120.0 351.9,131.7 358.8,143.0 365.6,153.3 372.5,162.4 379.4,169.9 386.3,175.4 393.1,178.8 400.0,180.0 406.9,178.8 413.8,175.4 420.6,169.9 427.5,162.4 434.4,153.3 441.2,143.0 448.1,131.7 455.0,120.0 461.9,108.3 468.8,97.0 475.6,86.7 482.5,77.6 489.4,70.1 496.2,64.6 503.1,61.2 510.0,60.0" fill="none" stroke="#1d2b44" stroke-width="2.5"/>
 <path d="M76 46 H284" stroke="#1d2b44" stroke-width="1.5" marker-start="url(#pw-arr)" marker-end="url(#pw-arr)"/>
 <text x="180" y="40" font-size="12" fill="#1d2b44" text-anchor="middle">λ = 0.80 m</text>
-<path d="M455 120 V64" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#pw-arr)"/>
-<text x="462" y="95" font-size="12" fill="#1d2b44">A = 3.0 cm</text>
+<line x1="440" y1="60" x2="510" y2="60" stroke="#1d2b44" stroke-width="1" stroke-dasharray="2 3"/>
+<path d="M455 120 V63" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#pw-arr)"/>
+<text x="448" y="80" font-size="12" fill="#1d2b44" text-anchor="end">A = 3.0 cm</text>
 <text x="290" y="252" font-size="13" font-weight="600" fill="#1d2b44" text-anchor="middle">History at x = 0</text>
 <line x1="70" y1="350" x2="530" y2="350" stroke="#1d2b44" stroke-width="1.5" marker-end="url(#pw-arr)"/>
 <line x1="70" y1="425" x2="70" y2="270" stroke="#1d2b44" stroke-width="1.5" marker-end="url(#pw-arr)"/>
@@ -129,19 +130,24 @@ The curves in Figure 1 are cosine curves. A sinusoidal wave can be written as an
 
 **At one location, as a function of time:**
 
-y = A cos(2πt/T) = A cos(2πft)
+x(t) = A cos(ωt) = A cos(2πft)
+
+Here x(t) means the **displacement** of the medium at that one location at time t, written the same way as for an oscillating object. It is not a position along the wave. ω = 2πf is the **angular frequency**, in rad/s. Because f = 1/T, the same equation can also be written A cos(2πt/T).
 
 **At one instant, as a function of position:**
 
-y = A cos(2πx/λ)
+y(x) = A cos(2πx/λ)
+
+Here x is the position along the wave and y(x) is the displacement there, at the instant of the snapshot.
+
+The two equations use x for different things, so always say what each symbol means. In this guide, from here on, we use y for displacement in both cases, so the time equation is written y = A cos(2πft).
 
 How to read them:
 
 - The number in front, A, is the **amplitude**.
-- The angle 2πt/T increases by 2π (one full cycle) each time t increases by T. So the equation repeats every period.
+- The angle 2πft increases by 2π (one full cycle) each time t increases by one period, T = 1/f. So the equation repeats every period.
 - The angle 2πx/λ increases by 2π each time x increases by λ. So the snapshot repeats every wavelength.
-- The quantity 2πf is the **angular frequency** ω, in rad/s. You may see y = A cos(ωt).
-- If the displacement is zero and increasing at the start, use sine instead: y = A sin(2πt/T). The amplitude, period and wavelength are the same.
+- Cosine fits a wave that is at +A when t = 0 (or x = 0), as in Figure 1. If the displacement is zero and increasing at the start, use sine instead: y = A sin(2πft). The amplitude, period and wavelength are the same.
 
 **Use radians** when you evaluate these on a calculator. A quick check: at t = T/4 the cosine form gives cos(π/2) = 0, and at t = T/2 it gives cos(π) = −1, so y = −A. That matches the bottom graph in Figure 1.
 
@@ -184,7 +190,7 @@ The energy carried by a wave depends on both:
 
 1. (a) From the top graph: A = 3.0 cm = 0.030 m; crest to crest is λ = 0.80 m. From the bottom graph: crest to crest is T = 0.020 s.
 2. (b) f = 1/T = 1 ÷ 0.020 s = **50 Hz**. v = fλ = 50 Hz × 0.80 m = **40 m/s**. (Check: λ/T = 0.80 m ÷ 0.020 s = 40 m/s.)
-3. (c) At x = 0 the displacement is +A at t = 0, so use cosine: **y = (0.030 m) cos(2πt/0.020 s)**. At t = 0.0025 s: 2πt/T = 2π × 0.125 = π/4 rad. y = 0.030 × cos(π/4) = **0.021 m** (2.1 cm).
+3. (c) At x = 0 the displacement is +A at t = 0, so use cosine with f = 50 Hz: **y = (0.030 m) cos(2π × 50t)**, which is the same as (0.030 m) cos(2πt/0.020 s). At t = 0.0025 s: 2πft = 2π × 50 × 0.0025 = 2π × 0.125 = π/4 rad. y = 0.030 × cos(π/4) = **0.021 m** (2.1 cm).
 4. (d) Distance = vt = 40 m/s × 0.020 s = **0.80 m**, exactly one wavelength in one period.
 
 **Interpretation and check.** At t = 0.0025 s, one eighth of a period has passed. The point has moved down from 3.0 cm but is still above zero: cos(π/4) ≈ 0.71, so it is at 71% of the amplitude, which agrees with the curve. Part (d) is the reasoning behind v = fλ.
@@ -207,9 +213,10 @@ The energy carried by a wave depends on both:
 - **"Changing the medium changes the frequency."** The source sets f. When the speed changes, λ changes.
 - **"A louder sound has a higher pitch."** Loudness depends on amplitude; pitch depends on frequency. They are independent.
 - **"Amplitude gets smaller when the frequency goes up."** Amplitude is independent of frequency and period.
+- **Reading the x in x(t) = A cos(2πft) as a position.** In that equation x is the displacement of one point of the medium. Position along the wave appears only in the snapshot equation, y(x) = A cos(2πx/λ).
 - **"The displacement–time graph is a picture of the wave."** It is a record of how one point moves. The shape of the wave at one instant is the displacement–position graph. A point on a transverse wave moves only up and down; it never travels along the curve of either graph.
 - **Forgetting that f is fixed by the source.** If a question says the same source or the same vibrator is used, keep f the same and let λ adjust.
-- **Calculator in degrees.** cos(2πt/T) needs radians. In degree mode, cos(π/4) gives the wrong value.
+- **Calculator in degrees.** cos(2πft) needs radians. In degree mode, cos(π/4) gives the wrong value.
 
 ## Where this leads
 

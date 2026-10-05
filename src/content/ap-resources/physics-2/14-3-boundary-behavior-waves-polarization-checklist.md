@@ -42,7 +42,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can find the new wavelength or pulse width after a boundary using λ₂/λ₁ = v₂/v₁. *(Practice Q2, Q5, Q7)*
 - I can calculate intensity from I = P/A and power from P = IA. *(Guide: Worked example 2; Practice Q4)*
 - I can find the intensity after one or two ideal filters, for parallel and crossed axes. *(Guide: Figure 2; Practice Q4, Q6)*
-- I can sketch the reflected and transmitted pulses at a junction, showing orientation and width. *(Guide: Figure 1; Practice Q5)*
+- I can sketch the reflected and transmitted pulses at a junction, showing orientation and width. *(Guide: Figure 1, Worked example 1; Practice Q5c, Q7a)*
 
 ## Reasoning
 
