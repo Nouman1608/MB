@@ -45,8 +45,8 @@ Short on time? This page is the recap. For the graphs and worked examples, use t
 | Situation | Valid justification |
 |---|---|
 | Closed domain [a, b] | Candidates Test: compare f at every critical point and at a and b |
-| Open domain, one critical point c | f′ changes sign at c: − to + gives the absolute minimum, + to − the absolute maximum |
-| Open domain, one critical point c | f″(c) > 0 gives the absolute minimum; f″(c) < 0 the absolute maximum |
+| Open domain, only one critical point c | f′ changes sign at c: − to + gives the absolute minimum, + to − the absolute maximum |
+| Open domain, only one critical point c | f″(c) > 0 gives the absolute minimum; f″(c) < 0 the absolute maximum |
 | Any domain | f″ > 0 on the whole domain: a critical point is the absolute minimum (f″ < 0: absolute maximum) |
 
 | The function measures… | Its maximum value means… |

@@ -183,7 +183,7 @@ A small boat moves along a straight canal. Its velocity is v(t) metres per secon
 (a) Find the boat's displacement from t = 0 to t = 12.
 (b) Find the total distance the boat travels from t = 0 to t = 12.
 (c) Find the time T when the boat is back at the jetty.
-(d) Explain why the boat is farthest from the jetty at t = 10.
+(d) Explain why, for 0 ≤ t ≤ T, the boat is farthest from the jetty at t = 10.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
@@ -196,7 +196,7 @@ A small boat moves along a straight canal. Its velocity is v(t) metres per secon
 
 2(T − 12) = 4π + 18, so T − 12 = 2π + 9, and **T = 21 + 2π ≈ 27.283 s**.
 
-**(d)** v(t) > 0 on (0, 10), so the boat moves away from the jetty throughout that time. v(t) < 0 for t > 10, so after t = 10 it moves back towards the jetty. The distance from the jetty therefore reaches its greatest value, 4π + 20 ≈ 32.566 m, at t = 10.
+**(d)** v(t) > 0 on (0, 10), so the boat moves away from the jetty throughout that time. v(t) < 0 for t > 10, so from t = 10 until it reaches the jetty at t = T it moves back towards the jetty. On 0 ≤ t ≤ T the distance from the jetty therefore reaches its greatest value, 4π + 20 ≈ 32.566 m, at t = 10. (After T the boat carries on past the jetty, which is why the question limits the interval.)
 
 | Point | What earns it |
 |---|---|

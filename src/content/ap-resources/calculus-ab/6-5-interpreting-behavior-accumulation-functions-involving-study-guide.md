@@ -243,7 +243,7 @@ You are also told that r is increasing on [0, 9] and decreasing on [9, 12]. At t
 
 **(b)** r is continuous, r(3) = −4 < 0 and r(6) = 5 > 0. By the Intermediate Value Theorem there is a time c in (3, 6) with r(c) = 0. Because r is increasing on [0, 9], it can be 0 only once there. It is positive from c to 9 and, since r(9) = 9, r(12) = 6 and r is decreasing on [9, 12], r stays at least 6 on that interval. So c is the **only** critical point. V′ = r changes from negative to positive at c, so **V has a relative minimum at t = c**. Because it is the only critical point, it is also the absolute minimum on [0, 12]: the pond holds the least water at some time between 3 and 6 minutes.
 
-**(c)** V″ = r′. r is increasing on (0, 9), so **V is concave up on (0, 9)** and concave down on (9, 12). Concavity changes at t = 9, so the graph of V has a **point of inflection at t = 9**. In context, the water level is rising fastest at 9 minutes.
+**(c)** V′ = r. r is increasing on (0, 9), so **V is concave up on (0, 9)** and concave down on (9, 12). Concavity changes at t = 9, so the graph of V has a **point of inflection at t = 9**. In context, the amount of water is increasing fastest at 9 minutes.
 
 **(d)** Each interval is 3 minutes wide. Trapezoid areas:
 

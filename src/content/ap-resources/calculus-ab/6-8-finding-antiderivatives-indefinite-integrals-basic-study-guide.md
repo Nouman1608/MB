@@ -23,7 +23,7 @@ skills: ["1", "4"]
 studyMinutes: 45
 difficulty: "core"
 calculator: "not-permitted"
-calculatorNote: "Practise everything here without a calculator. A calculator cannot give an indefinite integral on the exam."
+calculatorNote: "Practise everything here without a calculator. Indefinite integrals are found by hand, and you are expected to show the antiderivative you used."
 related: ["mb-ap-calcab-6.8-revision-notes", "mb-ap-calcab-6.8-practice", "mb-ap-calcab-6.8-checklist"]
 next: "mb-ap-calcab-6.8-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
@@ -85,8 +85,8 @@ C is called the **constant of integration**. Read ∫ 2x dx = x² + C as "the an
 <g stroke="#1d2b44" stroke-width="1.5"><line x1="296" y1="205" x2="404" y2="145"/><line x1="296" y1="255" x2="404" y2="195"/><line x1="296" y1="305" x2="404" y2="245"/></g>
 <circle cx="350" cy="175" r="4.5" fill="#1d2b44"/><circle cx="350" cy="225" r="4.5" fill="#1d2b44"/><circle cx="350" cy="275" r="4.5" fill="#1d2b44"/>
 <g font-size="12" fill="#1d2b44"><text x="446" y="104">y = x² + 2</text><text x="446" y="154">y = x²</text><text x="446" y="204">y = x² − 2</text></g>
-<text x="90" y="40" font-size="12" fill="#1d2b44">solid: C = 2 · dashed: C = 0 · dotted: C = −2</text>
-<text x="300" y="325" font-size="12" fill="#1d2b44">at x = 1, every tangent has slope 2</text>
+<text x="90" y="22" font-size="12" fill="#1d2b44">solid: C = 2 · dashed: C = 0 · dotted: C = −2</text>
+<text x="270" y="325" font-size="12" fill="#1d2b44">at x = 1, every tangent has slope 2</text>
 </svg>
 <figcaption>Figure 1. Three members of the family ∫ 2x dx = x² + C. Changing C moves the graph up or down without changing its shape. At any x, every member has the same slope, 2x, which is why they all have the same derivative. Axes are unitless.</figcaption>
 </figure>

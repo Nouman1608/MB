@@ -139,9 +139,9 @@ Two habits make the table work:
 <figcaption>Figure 1. A decision path for antiderivatives. Ask the questions in order; the first "yes" gives your first move. After a rewrite, division or substitution, the new integral often goes back to question 1. Dashed outlines mark the BC-only step.</figcaption>
 </figure>
 
-The path is a guide, not a law. Sometimes two routes work. For ∫ x(x² + 1) dx you can expand to ∫ (x³ + x) dx or substitute u = x² + 1. Both are correct. Choose the shorter one.
+The path is a guide, not a law. Sometimes two routes work. For ∫ x²(x³ + 2) dx you can expand to ∫ (x⁵ + 2x²) dx or substitute u = x³ + 2. Both are correct, and the two answers differ only by a constant. Choose the shorter route.
 
-## Lookalike integrals: one denominator, five techniques
+## Lookalike integrals: small changes, different techniques
 
 The best way to learn the signals is to compare integrals that look almost the same. Every integral below has x² ± 9 in the denominator.
 
@@ -195,24 +195,24 @@ Do not try substitution here. There is no inner function, just a quotient you ca
 
 ## Worked example 2: split first, then two different techniques
 
-**Question.** Evaluate ∫ (0 to 1) (x + 3)/(x² + 2x + 2) dx exactly, without a calculator.
+**Question.** Evaluate ∫ (0 to 2) (x + 2)/(x² − 4x + 8) dx exactly, without a calculator.
 
-1. **Classify.** The top has degree 1, the bottom degree 2, so no long division. The derivative of the bottom is 2x + 2 = 2(x + 1). The top is x + 3, which is **not** a constant multiple of x + 1. So substitution alone will not work.
-2. **Split the top** into "a multiple of the derivative" plus "a constant": x + 3 = (x + 1) + 2. So
+1. **Classify.** The top has degree 1, the bottom degree 2, so no long division. The derivative of the bottom is 2x − 4 = 2(x − 2). The top is x + 2, which is **not** a constant multiple of x − 2. So substitution alone will not work.
+2. **Split the top** into "a multiple of the derivative" plus "a constant": x + 2 = (x − 2) + 4. So
 
-   **∫ (0 to 1) (x + 3)/(x² + 2x + 2) dx = ∫ (0 to 1) (x + 1)/(x² + 2x + 2) dx + ∫ (0 to 1) 2/(x² + 2x + 2) dx**
+   **∫ (0 to 2) (x + 2)/(x² − 4x + 8) dx = ∫ (0 to 2) (x − 2)/(x² − 4x + 8) dx + ∫ (0 to 2) 4/(x² − 4x + 8) dx**
 
-3. **First piece: substitution.** Let u = x² + 2x + 2, so du = (2x + 2) dx and (x + 1) dx = ½ du. Change the limits: x = 0 gives u = 2, and x = 1 gives u = 5.
-   ∫ (2 to 5) ½ × (1/u) du = ½ [ln u] (2 to 5) = ½ (ln 5 − ln 2) = **½ ln(5/2)**.
-4. **Second piece: complete the square.** x² + 2x + 2 = (x + 1)² + 1. Let v = x + 1, so dv = dx, and v runs from 1 to 2.
-   ∫ (1 to 2) 2/(v² + 1) dv = 2 [arctan v] (1 to 2) = **2(arctan 2 − π/4)**, since arctan 1 = π/4.
+3. **First piece: substitution.** Let u = x² − 4x + 8, so du = (2x − 4) dx and (x − 2) dx = ½ du. Change the limits: x = 0 gives u = 8, and x = 2 gives u = 4. Keep them in that order, even though 8 > 4.
+   ∫ (8 to 4) ½ × (1/u) du = ½ [ln u] (8 to 4) = ½ (ln 4 − ln 8) = **−½ ln 2**.
+4. **Second piece: complete the square.** x² − 4x + 8 = (x − 2)² + 2². Let v = x − 2, so dv = dx, and v runs from −2 to 0.
+   ∫ (−2 to 0) 4/(v² + 2²) dv = 4 × ½ [arctan(v/2)] (−2 to 0) = 2(0 − (−π/4)) = **π/2**, since arctan(−1) = −π/4.
 5. **Add.**
 
-   **∫ (0 to 1) (x + 3)/(x² + 2x + 2) dx = ½ ln(5/2) + 2 arctan 2 − π/2**
+   **∫ (0 to 2) (x + 2)/(x² − 4x + 8) dx = π/2 − ½ ln 2**
 
-**Size check.** ½ ln(5/2) ≈ 0.458 and 2(arctan 2 − π/4) ≈ 0.644, so the integral is about **1.102**. The integrand falls from 1.5 at x = 0 to 0.8 at x = 1, and the interval has width 1, so a value a little above 1 is sensible.
+**Size check.** π/2 ≈ 1.571 and ½ ln 2 ≈ 0.347, so the integral is about **1.224**. The integrand rises from 0.25 at x = 0 to 1 at x = 2, and the interval has width 2, so the value must lie between 0.5 and 2. It does.
 
-**Common slip.** Writing "∫ (x + 3)/(x² + 2x + 2) dx = ½ ln(x² + 2x + 2)" pretends the top is half the derivative of the bottom. It is not, and the answer would be only about 0.458.
+**Common slip.** Writing "∫ (x + 2)/(x² − 4x + 8) dx = ½ ln(x² − 4x + 8)" pretends the top is half the derivative of the bottom. It is not, and the answer would be −½ ln 2 ≈ −0.347: negative, for a positive integrand.
 
 ## When there is no formula
 
@@ -231,7 +231,7 @@ So "no closed form" is a real possibility. But check first that you have not mis
 
 **Question.** Choose a technique for each, then integrate (x > 0 in (a) and (b)).
 
-(a) ∫ (ln x)/x dx  (b) ∫ (ln x)/x² dx  (c) ∫ 5/(x² + x − 6) dx
+(a) ∫ (ln x)/x dx  (b) ∫ (ln x)/x² dx  (c) ∫ 6/(x² + 4x − 5) dx
 
 **(a) Signal:** ln x is an inner function and 1/x, its derivative, is a factor. **Technique:** substitution. With u = ln x, du = (1/x) dx:
 ∫ u du = u²/2 + C, so **∫ (ln x)/x dx = (ln x)²/2 + C**.
@@ -239,9 +239,9 @@ So "no closed form" is a real possibility. But check first that you have not mis
 **(b) Signal:** the extra power of x means 1/x² is **not** the derivative of ln x, so substitution fails. It is a product of a logarithm and a power. **Technique:** integration by parts with u = ln x and dv = x⁻² dx, so du = (1/x) dx and v = −1/x.
 ∫ (ln x)/x² dx = −(ln x)/x − ∫ (−1/x)(1/x) dx = −(ln x)/x + ∫ x⁻² dx. So **∫ (ln x)/x² dx = −(ln x)/x − 1/x + C**.
 
-**(c) Signal:** a proper rational function, and x² + x − 6 = (x − 2)(x + 3) has two different linear factors. **Technique:** linear partial fractions.
-5/((x − 2)(x + 3)) = A/(x − 2) + B/(x + 3). Then 5 = A(x + 3) + B(x − 2). At x = 2: 5 = 5A, so A = 1. At x = −3: 5 = −5B, so B = −1.
-**∫ 5/(x² + x − 6) dx = ln|x − 2| − ln|x + 3| + C**, or ln|(x − 2)/(x + 3)| + C.
+**(c) Signal:** a proper rational function, and x² + 4x − 5 = (x − 1)(x + 5) has two different linear factors. **Technique:** linear partial fractions.
+6/((x − 1)(x + 5)) = A/(x − 1) + B/(x + 5). Then 6 = A(x + 5) + B(x − 1). At x = 1: 6 = 6A, so A = 1. At x = −5: 6 = −6B, so B = −1.
+**∫ 6/(x² + 4x − 5) dx = ln|x − 1| − ln|x + 5| + C**, or ln|(x − 1)/(x + 5)| + C.
 
 Parts (a) and (b) differ by one power of x, yet need different techniques.
 
@@ -257,7 +257,7 @@ Differentiate your answer and compare it with the integrand. This catches lost c
 - **Using ln for every fraction.** ∫ 1/(x² + 9) dx is not ln(x² + 9) + C. The ln pattern needs the derivative of the bottom on top.
 - **Completing the square when the quadratic factors.** If the discriminant is positive, the denominator has real roots, and completing the square gives (x − h)² − k², which is not an arctan form. In BC, use partial fractions.
 - **Skipping long division.** If the top's degree is at least the bottom's, divide first. Substitution or arctan on a top-heavy fraction leads nowhere.
-- **Forgetting new limits after substitution.** In a definite integral, either change the limits to u-values or switch back to x before substituting. Never mix the two.
+- **Forgetting new limits after substitution.** In a definite integral, either change the limits to u-values or switch back to x and use the original x-limits. Never mix the two.
 - **"Every integral has a formula."** Some, such as ∫ e^(−x²) dx, do not. Use technology or an accumulation function for a definite value.
 - **Dropping + C or the absolute value.** Write ln|x + 2|, not ln(x + 2), unless the expression inside is always positive.
 

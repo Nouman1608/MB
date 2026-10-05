@@ -120,7 +120,7 @@ The slope field for dy/dx = −x(y − 2)/2 is shown below.
 <figure>
 <svg viewBox="0 0 454.8 322.8" role="img" aria-labelledby="sf74q5-title sf74q5-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="sf74q5-title">Slope field for practice question 5</title>
-<desc id="sf74q5-desc">Slope field for dy/dx = −x(y − 2)/2 at x = −3 to 3 and y = 0 to 4 in steps of 0.5. The column x = 0 and the row y = 2 are flat. Above y = 2 the segments rise to the left of the y-axis and fall to the right of it. Below y = 2 they fall on the left and rise on the right. Segments get steeper further from both the y-axis and the line y = 2.</desc>
+<desc id="sf74q5-desc">Slope field for dy/dx = −x(y − 2)/2 at x = −3, −2, ..., 3 and y = 0 to 4 in steps of 0.5. The column x = 0 and the row y = 2 are flat. Above y = 2 the segments rise to the left of the y-axis and fall to the right of it. Below y = 2 they fall on the left and rise on the right. Segments get steeper further from both the y-axis and the line y = 2.</desc>
 <rect x="0" y="0" width="454.8" height="322.8" fill="#ffffff"/>
 <defs><clipPath id="sf74q5-clip"><rect x="44" y="24" width="380.8" height="268.8"/></clipPath></defs>
 <line x1="44" y1="270.4" x2="424.8" y2="270.4" stroke="#8a94a6" stroke-width="1"/>

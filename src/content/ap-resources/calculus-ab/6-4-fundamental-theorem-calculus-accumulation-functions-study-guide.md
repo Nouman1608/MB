@@ -152,7 +152,7 @@ A numerical check: take f(t) = t² + 1 and a = 1, and look at x = 1. With h = 0.
 <line x1="50" y1="150" x2="505" y2="150" stroke="#1d2b44" stroke-width="1.5"/>
 <line x1="70" y1="275" x2="70" y2="25" stroke="#1d2b44" stroke-width="1.5"/>
 <text x="508" y="146" font-size="12" fill="#1d2b44">t</text><text x="76" y="28" font-size="12" fill="#1d2b44">y</text>
-<g font-size="12" fill="#1d2b44" text-anchor="middle"><text x="140" y="166">1</text><text x="210" y="166">2</text><text x="280" y="166">3</text><text x="340" y="140">4</text><text x="420" y="140">5</text><text x="490" y="140">6</text></g>
+<g font-size="12" fill="#1d2b44" text-anchor="middle"><text x="140" y="166">1</text><text x="210" y="166">2</text><text x="280" y="166">3</text><text x="350" y="140">4</text><text x="420" y="140">5</text><text x="490" y="140">6</text></g>
 <g stroke="#1d2b44" stroke-width="1"><line x1="140" y1="146" x2="140" y2="154"/><line x1="210" y1="146" x2="210" y2="154"/><line x1="280" y1="146" x2="280" y2="154"/><line x1="350" y1="146" x2="350" y2="154"/><line x1="420" y1="146" x2="420" y2="154"/><line x1="490" y1="146" x2="490" y2="154"/><line x1="66" y1="250" x2="74" y2="250"/><line x1="66" y1="200" x2="74" y2="200"/><line x1="66" y1="100" x2="74" y2="100"/><line x1="66" y1="50" x2="74" y2="50"/></g>
 <g font-size="12" fill="#1d2b44" text-anchor="end"><text x="62" y="254">−2</text><text x="62" y="204">−1</text><text x="62" y="104">1</text><text x="62" y="54">2</text></g>
 <polyline points="70,50 210,50 350,250 490,150" fill="none" stroke="#1d2b44" stroke-width="2.5"/>

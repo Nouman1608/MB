@@ -75,6 +75,6 @@ Units: both sides match, so units of k = (units of dA/dt) ÷ (units of what k mu
 1. The mass m of a snowball shrinks at a rate proportional to its surface area S. Write the equation. *(dm/dt = −kS, k > 0)*
 2. dy/dt = −k(y − 15), k > 0, and y = 35 when dy/dt = −4. Find k. *(k = 4/20 = 0.2)*
 3. Using question 2, find dy/dt when y = 25. *(−0.2 × 10 = −2)*
-4. Put dW/dt = 2/W into words. *(W increases at a rate inversely proportional to W, constant 2.)*
+4. Put dW/dt = 2/W, with W > 0, into words. *(W increases at a rate inversely proportional to W, constant 2.)*
 
 Next: [practice questions](/advanced-course-resources/calculus-ab/7-1-modeling-situations-differential-equations-practice/).

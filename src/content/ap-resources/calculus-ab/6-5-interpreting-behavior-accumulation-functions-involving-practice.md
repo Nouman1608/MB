@@ -184,7 +184,7 @@ At t = 0 there are 120 people in the museum. Let P(x) = 120 + ∫ (0 to x) R(t) 
 
 **(b)** R is continuous with R(4) = 10 > 0 and R(6) = −40 < 0, so by the Intermediate Value Theorem R(c) = 0 for some c in **(4, 6)**. Because R is strictly decreasing, this is the only zero, R > 0 before c and R < 0 after c. So P′ = R changes from positive to negative at c, and c is the only critical point. P increases up to c and decreases after it, so **P is greatest at t = c, between 4 and 6 hours**.
 
-**(c)** P″ = R′, and R is strictly decreasing, so the graph of **P is concave down** on (0, 8). The concavity never changes, so P has **no point of inflection**.
+**(c)** P′ = R, and R is strictly decreasing, so the graph of **P is concave down** on (0, 8). P′ never switches to increasing, so P has **no point of inflection**.
 
 **(d)** Each interval is 2 hours wide:
 
@@ -196,7 +196,7 @@ So **P(8) ≈ 120 + 50 = 170 people**.
 |---|---|
 | 1 | P′(2) = 50 with a correct interpretation (rate of change of the number of people, with units and time) |
 | 1 | Interval (4, 6) from the IVT, with the change of sign of R from positive to negative |
-| 1 | Concave down because P″ = R′ < 0, and no inflection point |
+| 1 | Concave down because P′ = R is decreasing, and no inflection point |
 | 1 | Trapezoidal sum 50 and P(8) ≈ 170 |
 </details>
 

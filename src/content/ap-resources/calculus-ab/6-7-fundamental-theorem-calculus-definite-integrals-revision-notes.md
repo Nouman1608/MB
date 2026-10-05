@@ -73,7 +73,7 @@ Basic antiderivatives: xⁿ → xⁿ⁺¹/(n + 1) for n ≠ −1; 1/x → ln x (
 2. **No brackets** around F(a), so only its first term is subtracted.
 3. **Writing f(b) − f(a)**: substituting into the integrand instead of the antiderivative.
 4. **Sign slips** with trig: the antiderivative of sin x is −cos x.
-5. **Using the theorem across a discontinuity**, for example ∫ (−1 to 2) (1/x²) dx.
+5. **Using the theorem across a discontinuity**, for example ∫ (−1 to 2) (3/x⁴) dx.
 6. **Calling net change "distance".** ∫ v(t) dt is net change in position.
 
 ## Quick self-check

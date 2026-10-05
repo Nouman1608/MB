@@ -48,7 +48,7 @@ Short on time? This page is the recap. For explanations, the graphs and worked e
 | Net change | area above − area below | 13.5 − 6 = 7.5 kWh |
 | Total change (e.g. distance) | area above + area below | 2π + 18 ≈ 24.283 m |
 | Amount at the end | start + net change | 4 + 7.5 = 11.5 kWh |
-| Average rate over [a, b] | net change ÷ (b − a) | 2,450 ÷ 20 = 122.5 people/min |
+| Average rate over [a, b] | net change ÷ (b − a) | 2,450 ÷ 20 = 122.5 passengers/min |
 
 Useful areas: triangle ½bh; trapezoid ½(a + b)h; semicircle ½πr²; quarter circle ¼πr².
 

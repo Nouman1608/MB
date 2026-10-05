@@ -225,7 +225,7 @@ There is no way to isolate y using familiar functions. This **implicit** general
 
 ## Common misconceptions
 
-- **Forgetting the constant.** Without C you have found one solution, not the general solution. On free-response questions, a missing constant usually costs most of the credit for solving the equation.
+- **Forgetting the constant.** Without C you have found one solution, not the general solution. In Topic 7.7 you will also find that, without C, there is nothing to adjust to fit an initial condition, so every later step fails too.
 - **Adding C at the end.** The constant enters when you antidifferentiate, before you rearrange. Writing y = e^(−x²) + C (instead of A e^(−x²)) gives functions that are not solutions.
 - **Treating e^(G(x) + C) as e^(G(x)) + C.** By the exponent law, e^(G + C) = e^C · e^G. The constant becomes a multiplier.
 - **Answering every fraction with ln.** ∫ (1/y²) dy is −1/y, not ln(y²). Check that the top is the derivative of the bottom before writing a logarithm.

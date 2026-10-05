@@ -58,21 +58,21 @@ These are **original Marlbridge practice questions**, not past exam questions. T
 
 ## Question 2 (multiple choice · core)
 
-∫ 1/(x² + 10x + 26) dx =
+∫ 1/(x² − 8x + 17) dx =
 
-- (A) ln|x² + 10x + 26| + C
-- (B) arctan(x + 5) + C
-- (C) −1/(x + 5) + C
-- (D) (1/(2x + 10)) ln|x² + 10x + 26| + C
+- (A) ln|x² − 8x + 17| + C
+- (B) arctan(x − 4) + C
+- (C) −1/(x − 4) + C
+- (D) (1/(2x − 8)) ln|x² − 8x + 17| + C
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** The signal: a quadratic denominator with nothing on top. Its discriminant is 100 − 104 = −4 < 0, so it does not factor. Complete the square: x² + 10x + 26 = (x + 5)² + 1. With u = x + 5, du = dx, the integral is ∫ 1/(u² + 1) du = arctan u + C = arctan(x + 5) + C.
+**Answer: (B).** The signal: a quadratic denominator with nothing on top. Its discriminant is 64 − 68 = −4 < 0, so it does not factor. Complete the square: x² − 8x + 17 = (x − 4)² + 1. With u = x − 4, du = dx, the integral is ∫ 1/(u² + 1) du = arctan u + C = arctan(x − 4) + C.
 
-- (A) uses the ln pattern without the derivative of the bottom on top. Its derivative is (2x + 10)/(x² + 10x + 26), not the integrand.
-- (C) drops the + 1 and treats the bottom as (x + 5)². Its derivative is 1/(x + 5)².
-- (D) divides by du/dx = 2x + 10 to "fix" the missing factor. You cannot divide by a variable expression this way, and differentiating (D) does not give back the integrand.
+- (A) uses the ln pattern without the derivative of the bottom on top. Its derivative is (2x − 8)/(x² − 8x + 17), not the integrand.
+- (C) drops the + 1 and treats the bottom as (x − 4)². Its derivative is 1/(x − 4)².
+- (D) divides by du/dx = 2x − 8 to "fix" the missing factor. You cannot divide by a variable expression this way, and differentiating (D) does not give back the integrand.
 </details>
 
 ## Question 3 (multiple choice · core)
@@ -98,17 +98,17 @@ For which integral is the substitution u = x² + 4 the most effective first step
 
 Exactly one of these indefinite integrals **cannot** be written using powers, roots, exponentials, logarithms, trig and inverse trig functions. Which one?
 
-- (A) ∫ x cos(x²) dx
-- (B) ∫ cos(x²) dx
+- (A) ∫ x²√(x³ + 4) dx
+- (B) ∫ √(x³ + 4) dx
 - (C) ∫ cos²x sin x dx
 - (D) ∫ cos(2x) dx
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** cos(x²) has no antiderivative in familiar functions. No substitution helps, because the derivative of x², which is 2x, is not present. A definite integral of cos(x²) still exists; you would find its value with technology.
+**Answer: (B).** √(x³ + 4) has no antiderivative in familiar functions. No substitution helps, because the derivative of x³ + 4, which is 3x², is not present, and there is nothing to expand or divide. A definite integral of √(x³ + 4) still exists; you would find its value with technology.
 
-- (A) has the factor x: with u = x², x dx = ½ du, so the answer is ½ sin(x²) + C.
+- (A) has the factor x²: with u = x³ + 4, x² dx = (1/3) du, so the answer is (2/9)(x³ + 4)^(3/2) + C.
 - (C) has sin x, the derivative of cos x up to a sign: with u = cos x, the answer is −cos³x/3 + C.
 - (D) is a basic rule with a linear inside: ½ sin(2x) + C.
 </details>
@@ -183,7 +183,7 @@ Let I = ∫ (0 to 1) (2x³ + 3x² + 2x + 5)/(x² + 1) dx.
 (a) A student says, "The bottom is x² + 1, so I will substitute u = x² + 1." Explain why this is not a good first step.
 (b) Use long division to write the integrand as a polynomial plus a proper fraction.
 (c) Find the exact value of I.
-(d) **BC only.** Find ∫ (0 to 1) x³ e^(x²) dx. Name the techniques you use.
+(d) **BC only.** Find ∫ (0 to 1) 1/(x² + 7x + 12) dx. Name the technique, and say why neither substitution nor arctan applies.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
@@ -198,7 +198,7 @@ Let I = ∫ (0 to 1) (2x³ + 3x² + 2x + 5)/(x² + 1) dx.
 **(c)** Integrate each piece: ∫ (2x + 3) dx = x² + 3x, and ∫ 2/(x² + 1) dx = 2 arctan x.
 I = [x² + 3x + 2 arctan x] (0 to 1) = (1 + 3 + 2 × π/4) − 0 = **4 + π/2** (about 5.571).
 
-**(d) BC only.** First substitute w = x², so dw = 2x dx and x³ dx = x² · x dx = ½ w dw. Limits: x = 0 gives w = 0; x = 1 gives w = 1. The integral is ½ ∫ (0 to 1) w eʷ dw. Now use integration by parts with u = w, dv = eʷ dw: ∫ w eʷ dw = w eʷ − eʷ. So the integral is ½ [w eʷ − eʷ] (0 to 1) = ½ [(e − e) − (0 − 1)] = **½**.
+**(d) BC only.** There is no x on top, so substitution has nothing to work with. The discriminant is 49 − 48 = 1 > 0, so the bottom factors and the arctan form does not apply: x² + 7x + 12 = (x + 3)(x + 4). Technique: linear partial fractions. 1 = A(x + 4) + B(x + 3); x = −3 gives A = 1 and x = −4 gives B = −1. So the integral is [ln|x + 3| − ln|x + 4|] (0 to 1) = (ln 4 − ln 5) − (ln 3 − ln 4) = **ln(16/15)** (about 0.065).
 
 | Point | What earns it (AB: out of 4; BC: out of 5) |
 |---|---|
@@ -206,9 +206,9 @@ I = [x² + 3x + 2 arctan x] (0 to 1) = (1 + 3 + 2 × π/4) − 0 = **4 + π/2** 
 | 1 | (b) Correct quotient 2x + 3 and remainder 2 |
 | 1 | (c) Correct antiderivative x² + 3x + 2 arctan x |
 | 1 | (c) Correct value 4 + π/2, using arctan 1 = π/4 |
-| 1 | (d) BC only: substitution w = x² followed by parts, with value ½ |
+| 1 | (d) BC only: partial fractions 1/(x + 3) − 1/(x + 4), a reason for rejecting substitution and arctan, and the value ln(16/15) |
 
-Acceptable alternative for (d): parts directly with u = x², dv = x e^(x²) dx, v = ½ e^(x²). This gives ½ x² e^(x²) − ½ e^(x²), and the same value ½.
+Acceptable equivalent forms for (d): 2 ln 4 − ln 3 − ln 5, or ln 16 − ln 15.
 </details>
 
 ## How did you do?
@@ -217,6 +217,6 @@ Acceptable alternative for (d): parts directly with u = x², dv = x e^(x²) dx, 
 - **Q2 or Q6(b) wrong:** see Worked example 1(d) on completing the square and the arctan form.
 - **Q5 or Q7 wrong:** compare your work with the lookalike table and Worked example 2; divide or split before anything else.
 - **Q4 or Q6(c) wrong:** reread "When there is no formula".
-- **BC students, Q7(d) wrong:** see Worked example 3 and the [integration by parts guide](/advanced-course-resources/calculus-bc/6-11-integration-by-parts-study-guide/).
+- **BC students, Q7(d) wrong:** see Worked example 3 and the [linear partial fractions guide](/advanced-course-resources/calculus-bc/6-12-integrating-linear-partial-fractions-study-guide/).
 
 Then tick off the [topic checklist](/advanced-course-resources/calculus-ab/6-14-selecting-techniques-antidifferentiation-checklist/).

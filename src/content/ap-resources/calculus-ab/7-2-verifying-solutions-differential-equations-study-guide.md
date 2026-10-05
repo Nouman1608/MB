@@ -139,7 +139,7 @@ Figure 1 shows five members of the family that solves dy/dt = 0.5(4 − y), whic
 
 Two things to notice:
 
-- **The curves never cross.** Through each starting point there is one curve. That is why one extra fact, such as "y = 6 when t = 0", picks out exactly one solution (here C = 2). Using such a fact to find C is the subject of Topic 7.7.
+- **The curves never cross.** For this equation, through each starting point there is exactly one solution curve. That is why one extra fact, such as "y = 6 when t = 0", picks out exactly one solution (here C = 2). Using such a fact to find C is the subject of Topic 7.7.
 - **The shapes match the equation.** Above y = 4, the right side 0.5(4 − y) is negative, so the curves fall. Below y = 4 it is positive, so they rise. You will draw this kind of picture as a slope field in Topic 7.3.
 
 ## Second-order equations

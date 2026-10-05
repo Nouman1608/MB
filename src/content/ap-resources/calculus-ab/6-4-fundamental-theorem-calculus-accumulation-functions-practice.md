@@ -125,7 +125,7 @@ Let f(t) = 3 − t and g(x) = ∫ (1 to x) f(t) dt. What is g(4)?
 <line x1="57" y1="150" x2="509" y2="150" stroke="#1d2b44" stroke-width="1.5"/>
 <line x1="196" y1="280" x2="196" y2="15" stroke="#1d2b44" stroke-width="1.5"/>
 <text x="513" y="146" font-size="12" fill="#1d2b44">t</text><text x="202" y="20" font-size="12" fill="#1d2b44">y</text>
-<g font-size="12" fill="#1d2b44" text-anchor="middle"><text x="80" y="166">−2</text><text x="150" y="166">−1</text><text x="254" y="166">1</text><text x="312" y="166">2</text><text x="370" y="166">3</text><text x="440" y="144">4</text><text x="486" y="166">5</text></g>
+<g font-size="12" fill="#1d2b44" text-anchor="middle"><text x="80" y="166">−2</text><text x="144" y="166">−1</text><text x="254" y="166">1</text><text x="312" y="166">2</text><text x="370" y="166">3</text><text x="428" y="144">4</text><text x="486" y="166">5</text></g>
 <g font-size="12" fill="#1d2b44" text-anchor="end"><text x="190" y="254">−2</text><text x="190" y="204">−1</text><text x="190" y="104">1</text><text x="190" y="54">2</text></g>
 <polyline points="80,250 196,50 312,50 486,200" fill="none" stroke="#1d2b44" stroke-width="2.5"/>
 <circle cx="80" cy="250" r="4" fill="#1d2b44"/><circle cx="196" cy="50" r="4" fill="#1d2b44"/><circle cx="312" cy="50" r="4" fill="#1d2b44"/><circle cx="486" cy="200" r="4" fill="#1d2b44"/>

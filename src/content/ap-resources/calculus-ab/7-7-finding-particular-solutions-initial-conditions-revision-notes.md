@@ -14,7 +14,8 @@ learningObjectives:
 skills: ["1"]
 studyMinutes: 10
 difficulty: "core"
-calculator: "not-permitted"
+calculator: "mixed"
+calculatorNote: "The separation steps need no calculator. Use a calculator only to evaluate a definite integral in the integral form when no antiderivative is available."
 related: ["mb-ap-calcab-7.7-study-guide", "mb-ap-calcab-7.7-practice", "mb-ap-calcab-7.7-checklist"]
 next: "mb-ap-calcab-7.7-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }

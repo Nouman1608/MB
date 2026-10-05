@@ -39,6 +39,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 ## Skills
 
 - I can find left and right sums from a table with equal widths. *(Guide: Worked example 1; Practice Q1)*
+- I can read heights from a graph only at points where the value is certain, and use facts stated in words. *(Guide: Worked example 3; Practice Q3, Q5)*
 - I can use the correct width for each term when the subintervals are unequal. *(Guide: Worked example 2; Practice Q2, Q6(a))*
 - I can find a midpoint sum from a formula, and from a table when the midpoints are given. *(Guide: Worked example 1(d); Practice Q4, Q5(a))*
 - I can find a trapezoidal sum directly and check it with T = (L + R)/2. *(Guide: "A useful link"; Practice Q2, Q5(b), Q6(b))*

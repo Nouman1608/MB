@@ -110,7 +110,7 @@ F(x) = x ln x − x for x > 0. F is an antiderivative of which function?
 **Answer: (A).** Differentiate F. By the product rule, d/dx (x ln x) = 1 · ln x + x · (1/x) = ln x + 1. Then F′(x) = ln x + 1 − 1 = ln x. So ∫ ln x dx = x ln x − x + C.
 
 - (B) differentiates x ln x as just ln x, missing the second product-rule term x · (1/x).
-- (C) differentiates only the ln x factor.
+- (C) is the derivative of ln x, so it goes one step too far: it is F″(x), not F′(x).
 - (D) forgets to differentiate the −x term.
 
 Lesson: you may not know an antiderivative rule for ln x yet, but you can always **check** a claimed one with derivative rules.

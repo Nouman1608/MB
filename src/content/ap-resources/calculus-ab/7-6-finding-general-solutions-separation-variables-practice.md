@@ -172,7 +172,7 @@ dy = (x + y) dx, so y = x²/2 + xy + C.
 
 ## Question 7 (constructed response · stretch)
 
-Consider dy/dx = 2x/(cos y + 3y²).
+Consider dy/dx = (3x² − 1)/(eʸ + 4y³).
 
 (a) Find the general solution in implicit form.
 (b) Verify your answer to (a) by implicit differentiation.
@@ -182,20 +182,20 @@ Consider dy/dx = 2x/(cos y + 3y²).
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Separate: (cos y + 3y²) dy = 2x dx. Antidifferentiate: **sin y + y³ = x² + C**.
+**(a)** Separate: (eʸ + 4y³) dy = (3x² − 1) dx. Antidifferentiate: **eʸ + y⁴ = x³ − x + C**.
 
-**(b)** Differentiate both sides with respect to x: cos y · dy/dx + 3y² · dy/dx = 2x. Factor: (cos y + 3y²) dy/dx = 2x, so dy/dx = 2x/(cos y + 3y²). This is the original equation.
+**(b)** Differentiate both sides with respect to x: eʸ · dy/dx + 4y³ · dy/dx = 3x² − 1. Factor: (eʸ + 4y³) dy/dx = 3x² − 1, so dy/dx = (3x² − 1)/(eʸ + 4y³). This is the original equation.
 
-**(c)** There is no way to rearrange sin y + y³ = x² + C to make y the subject using familiar functions. The implicit equation still describes every solution exactly, and it can be checked, as in (b). So it is a complete general solution.
+**(c)** There is no way to rearrange eʸ + y⁴ = x³ − x + C to make y the subject using familiar functions. The implicit equation still describes every solution exactly, and it can be checked, as in (b). So it is a complete general solution.
 
-**(d)** Substitute x = 1, y = 0: sin 0 + 0 = 1 + C, so **C = −1**. (Finding constants this way is the main skill of Topic 7.7.)
+**(d)** Substitute x = 1, y = 0: e⁰ + 0 = 1 − 1 + C, so **C = 1**. (Finding constants this way is the main skill of Topic 7.7.)
 
 | Point | What earns it |
 |---|---|
 | 1 | Correct separation |
-| 1 | sin y + y³ = x² + C, with a constant |
+| 1 | eʸ + y⁴ = x³ − x + C, with a constant |
 | 1 | Correct implicit differentiation, including dy/dx on both y-terms |
-| 1 | Valid reason for implicit form **and** C = −1 |
+| 1 | Valid reason for implicit form **and** C = 1 |
 </details>
 
 ## How did you do?

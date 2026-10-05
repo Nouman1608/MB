@@ -166,7 +166,7 @@ The domain is closed, because selling 0 cups or 400 cups are both possible.
 
 ## Worked example 2: an open domain
 
-**Question.** A farmer (fictional) wants a rectangular field of area 1,800 m², split into three equal pens by two fences parallel to the short sides. Find the dimensions that use the least total length of fencing. Justify that your answer gives the absolute minimum, and interpret the minimum value.
+**Question.** A farmer (fictional) wants a rectangular field of area 1,800 m², split into three equal pens by two straight fences parallel to one pair of sides. Find the dimensions that use the least total length of fencing. Justify that your answer gives the absolute minimum, and interpret the minimum value.
 
 <figure>
 <svg viewBox="0 0 520 280" role="img" aria-labelledby="pens-title pens-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -186,7 +186,7 @@ The domain is closed, because selling 0 cups or 400 cups are both possible.
 <figcaption>Figure 2. The field in Worked example 2. Counting the fences from the picture gives the total length 4x + 2y. The two dividers are drawn dashed only to tell them apart from the boundary; they are fences of the same kind.</figcaption>
 </figure>
 
-**Model.** Total fencing L = 4x + 2y. The area constraint is xy = 1800, so y = 1800/x. Then
+**Model.** Let x be the length of the sides parallel to the dividers and y the length of the other two sides. Total fencing L = 4x + 2y. The area constraint is xy = 1800, so y = 1800/x. Then
 
 L(x) = 4x + 3600/x, for x > 0.
 

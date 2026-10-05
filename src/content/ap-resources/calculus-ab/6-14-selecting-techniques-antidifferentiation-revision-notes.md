@@ -52,12 +52,12 @@ Notation: **∫ f(x) dx** is an indefinite integral (+ C); **∫ (a to b) f(x) d
 | Complete the square | Quadratic below with no real roots, no matching x on top | x² − 6x + 13 = (x − 3)² + 4 |
 | arctan form | 1/(u² + k²) | ∫ 1/(u² + k²) du = (1/k) arctan(u/k) + C |
 | Parts (BC only) | Product of unlike types, e.g. power × log | ∫ u dv = uv − ∫ v du |
-| Partial fractions (BC only) | Proper fraction, different linear factors below | 5/((x − 2)(x + 3)) = 1/(x − 2) − 1/(x + 3) |
+| Partial fractions (BC only) | Proper fraction, different linear factors below | 6/((x − 1)(x + 5)) = 1/(x − 1) − 1/(x + 5) |
 
 ## Assumptions behind the methods
 
 - Substitution needs the derivative of the inner function present up to a **constant** factor, never a leftover variable.
-- For a definite integral by substitution, change the limits to u-values (or return to x before substituting).
+- For a definite integral by substitution, change the limits to u-values (or return to x and use the original limits).
 - ln|u| needs absolute value bars unless u is always positive, as with x² + 9.
 
 ## Mistakes to avoid

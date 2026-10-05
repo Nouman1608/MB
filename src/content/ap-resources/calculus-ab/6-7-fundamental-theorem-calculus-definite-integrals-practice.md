@@ -116,29 +116,29 @@ What is lim (n → ∞) Σ (i = 1 to n) (2/n) e^(2i/n)?
 
 ## Question 5 (constructed response · core)
 
-A student writes: ∫ (0 to π) sec²x dx = [tan x] (0 to π) = tan π − tan 0 = 0.
+A student writes: ∫ (π/4 to 3π/4) sec²x dx = [tan x] (π/4 to 3π/4) = tan(3π/4) − tan(π/4) = −1 − 1 = −2.
 
-(a) Explain why the answer 0 cannot be correct, using the sign of the integrand.
+(a) Explain why the answer −2 cannot be correct, using the sign of the integrand.
 (b) State which condition of the Fundamental Theorem of Calculus fails, and where.
-(c) Evaluate ∫ (0 to π/4) sec²x dx, and explain why the theorem does apply this time.
+(c) Evaluate ∫ (−π/4 to π/3) sec²x dx exactly, and explain why the theorem does apply this time.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** sec²x = 1/cos²x is positive wherever it is defined. A region that lies entirely above the axis has a positive signed area, so the integral cannot be 0. (In fact the region is unbounded, so no finite value is possible.)
+**(a)** sec²x = 1/cos²x is positive wherever it is defined. A region that lies entirely above the axis has a positive signed area, so the integral cannot be negative. (In fact the region is unbounded, so no finite value is possible.)
 
-**(b)** The theorem needs sec²x to be continuous on the whole of [0, π]. It is not: cos(π/2) = 0, so sec²x is undefined at x = π/2, which lies inside the interval. The subtraction tan π − tan 0 has no meaning as the value of this integral.
+**(b)** The theorem needs sec²x to be continuous on the whole of [π/4, 3π/4]. It is not: cos(π/2) = 0, so sec²x is undefined at x = π/2, which lies inside the interval. The subtraction tan(3π/4) − tan(π/4) has no meaning as the value of this integral.
 
-**(c)** On [0, π/4], cos x ≥ √2/2 > 0, so sec²x is continuous there. tan x is an antiderivative (d/dx tan x = sec²x). So
+**(c)** On [−π/4, π/3], cos x ≥ 1/2 > 0, so sec²x is continuous there. tan x is an antiderivative (d/dx tan x = sec²x). So
 
-∫ (0 to π/4) sec²x dx = [tan x] (0 to π/4) = 1 − 0 = **1**.
+∫ (−π/4 to π/3) sec²x dx = [tan x] (−π/4 to π/3) = √3 − (−1) = **√3 + 1**.
 
 | Point | What earns it |
 |---|---|
-| 1 | Integrand is positive (where defined), so the integral cannot be 0 |
-| 1 | Identifies that sec²x is not continuous on [0, π], undefined at x = π/2 |
-| 1 | Justifies continuity on [0, π/4] (cos x is not 0 there) |
-| 1 | Correct antiderivative and value 1 |
+| 1 | Integrand is positive (where defined), so the integral cannot be negative |
+| 1 | Identifies that sec²x is not continuous on [π/4, 3π/4], undefined at x = π/2 |
+| 1 | Justifies continuity on [−π/4, π/3] (cos x is not 0 there) |
+| 1 | Correct antiderivative and value √3 + 1 |
 </details>
 
 ## Question 6 (constructed response · core)

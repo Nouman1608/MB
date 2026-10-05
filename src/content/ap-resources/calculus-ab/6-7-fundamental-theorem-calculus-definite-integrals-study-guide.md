@@ -107,7 +107,7 @@ This is remarkable. The left side is a limit of Riemann sums: infinitely many th
 <figure>
 <svg viewBox="0 0 520 520" role="img" aria-labelledby="eval-title eval-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="eval-title">The area under f from 0 to 3 equals the rise of its antiderivative F from 0 to 3</title>
-<desc id="eval-desc">Two graphs share the same horizontal x-axis scale from 0 to 3.5. The top graph shows the straight line y = f(x) = x + 1. The region under it from x = 0 to x = 3 is a hatched trapezoid with parallel sides 1 and 4 and width 3, labelled area 7.5. The bottom graph shows the curve y = F(x) = x²/2 + x, which starts at the origin and curves upward. At x = 3 the curve has height 7.5. A vertical double-headed arrow at x = 3 runs from height 0 up to height 7.5 and is labelled rise F(3) − F(0) = 7.5. A dashed line joins the top of the arrow to 7.5 on the vertical axis.</desc>
+<desc id="eval-desc">Two graphs share the same horizontal x-axis scale from 0 to 3.5. The top graph shows the straight line y = f(x) = x + 1. The region under it from x = 0 to x = 3 is a hatched trapezoid with parallel sides 1 and 4 and width 3, labelled area 7.5. The bottom graph shows the curve y = F(x) = x²/2 + x, which starts at the origin and curves upward. At x = 3 the curve has height 7.5, marked with a dot. Just to the right of x = 3, a vertical double-headed arrow runs from height 0 up to height 7.5 and is labelled rise F(3) − F(0) = 7.5. A dashed line joins the top of the arrow to 7.5 on the vertical axis.</desc>
 <rect x="0" y="0" width="520" height="520" fill="#ffffff"/>
 <defs><pattern id="eval-hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#1d2b44" stroke-width="1" opacity="0.35"/></pattern></defs>
 <text x="20" y="20" font-size="13" fill="#1d2b44" font-weight="bold">Top: y = f(x) = x + 1</text>
@@ -194,11 +194,11 @@ A negative answer is allowed. It means the integrand is negative over more of th
 
 ## When the theorem does not apply
 
-The condition "f is continuous on [a, b]" is not decoration. Look at ∫ (−1 to 2) (1/x²) dx. An antiderivative of x⁻² is −1/x, so a careless calculation gives
+The condition "f is continuous on [a, b]" is not decoration. Look at ∫ (−1 to 2) (3/x⁴) dx. An antiderivative of 3x⁻⁴ is −x⁻³ = −1/x³, so a careless calculation gives
 
-[−1/x] (−1 to 2) = (−1/2) − (1) = −3/2.
+[−1/x³] (−1 to 2) = (−1/8) − (1) = −9/8.
 
-That cannot be right. The integrand 1/x² is **positive** wherever it is defined, so a signed area under it cannot be negative. The mistake is that 1/x² is not continuous on [−1, 2]: it is undefined at x = 0 and grows without bound there. The theorem's condition fails, so F(b) − F(a) means nothing here.
+That cannot be right. The integrand 3/x⁴ is **positive** wherever it is defined, so a signed area under it cannot be negative. The mistake is that 3/x⁴ is not continuous on [−1, 2]: it is undefined at x = 0 and grows without bound there. The theorem's condition fails, so F(b) − F(a) means nothing here.
 
 **Rule:** before you subtract, scan the interval for points where the integrand is undefined. If there is one, stop. (BC students meet integrals like this again as improper integrals in Topic 6.13.)
 
@@ -245,7 +245,7 @@ Without the theorem, you would need a formula for Σ i² and a long limit calcul
 - **Dropping brackets.** F(b) − F(a) must subtract every term of F(a). Put F(a) in brackets.
 - **Differentiating instead.** Writing f(b) − f(a), or f′, instead of F(b) − F(a).
 - **"I must add + C."** You can, but it cancels. It is not wrong, just unnecessary.
-- **Ignoring continuity.** Using the theorem across a point where the integrand is undefined, as in ∫ (−1 to 2) (1/x²) dx, gives nonsense.
+- **Ignoring continuity.** Using the theorem across a point where the integrand is undefined, as in ∫ (−1 to 2) (3/x⁴) dx, gives nonsense.
 - **"A definite integral is always positive."** It is a signed quantity. A negative answer is fine when more of the region is below the axis.
 - **Confusing net change with total change.** ∫ (a to b) v(t) dt is net change in position, not distance travelled.
 - **Mixing up the two forms of the theorem.** d/dx ∫ (a to x) f(t) dt = f(x) gives a function. ∫ (a to b) f(x) dx = F(b) − F(a) gives a number.

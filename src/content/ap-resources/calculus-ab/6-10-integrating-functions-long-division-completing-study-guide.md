@@ -68,7 +68,7 @@ The fix is to write the **same function in a different form** that does match th
 
 The rewriting is pure algebra. It changes how the function looks, not its values, so it changes nothing about the integral.
 
-**Where AB stops.** If the denominator factors into distinct linear factors, such as x² − 4 = (x − 2)(x + 2), the tool you need is partial fractions. That is a BC-only topic (6.12). In this topic, after division the denominator is either linear or a quadratic with no real roots.
+**Where AB stops.** If the denominator factors into distinct linear factors, such as x² − 4 = (x − 2)(x + 2), the tool you need is partial fractions. That is a BC-only topic (6.12). In this topic, after division the denominator is usually linear or a quadratic with no real roots. (A perfect square such as (x + 1)² is fine too: ∫ dx/(x + 1)² is a power-rule substitution.)
 
 ## Tool 1: long division
 

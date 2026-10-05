@@ -56,7 +56,7 @@ Short on time? This page is the recap. For explanations, the family-of-curves fi
 ## Assumptions behind the rules
 
 - Each result holds on an interval where the integrand is defined. For example, ln|x| + C works on x > 0 or on x < 0, not across 0.
-- The constant C is arbitrary. A definite integral or a known point (Topic 7.7) is needed to fix it.
+- The constant C is arbitrary. A known point on the graph (Topic 7.7) is needed to fix it. In a definite integral it cancels, so it does not matter there.
 
 ## Mistakes to avoid
 

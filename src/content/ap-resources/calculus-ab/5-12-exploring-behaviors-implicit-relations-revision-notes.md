@@ -51,7 +51,7 @@ Short on time? This page is the recap. For the figure and worked examples, use t
 | dy/dx = 0 and d²y/dx² > 0 | relative minimum of y |
 | dy/dx changes + to − (or − to +) | relative maximum (or minimum) of y |
 
-**Shortcut for y″ at a horizontal tangent:** every term containing y′ is 0. For y′ = N/D with N = 0 at the point, y″ = N′/D there.
+**Shortcut for y″ at a horizontal tangent:** every term containing y′ is 0. For y′ = N/D with N = 0 at the point, y″ = N′/D there, where N′ is the derivative of N with respect to x, evaluated with y′ = 0.
 
 ## Assumptions behind the method
 

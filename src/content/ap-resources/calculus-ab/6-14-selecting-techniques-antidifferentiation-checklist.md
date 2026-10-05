@@ -33,14 +33,14 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 - I can name the signal that points to each technique: basic rule, rewrite, substitution, long division and completing the square. *(Guide: "The toolkit and the signal for each tool"; Figure 1)*
 - I can explain why x/(x² + 9), 1/(x² + 9) and x²/(x² + 9) need three different techniques. *(Guide: "Lookalike integrals"; Practice Q3)*
-- I can explain why some integrands, such as cos(x²), have no antiderivative in familiar functions, and why their definite integrals still exist. *(Guide: "When there is no formula"; Practice Q4)*
+- I can explain why some integrands, such as e^(−x²), have no antiderivative in familiar functions, and why their definite integrals still exist. *(Guide: "When there is no formula"; Practice Q4)*
 
 ## Skills
 
 - I can rewrite an integrand by splitting a fraction or writing roots as powers, then use the power rule. *(Guide: Worked example 1(a); Practice Q5(a))*
 - I can spot an inner function with its derivative and integrate by substitution, adjusting for a constant factor. *(Guide: Worked example 1(b); Practice Q1, Q5(b))*
 - I can use long division on a top-heavy rational function before integrating. *(Guide: Worked example 1(c); Practice Q5(c), Q7(b))*
-- I can complete the square in a denominator with no real roots and integrate to an arctan. *(Guide: Worked example 1(d); Practice Q2, Q6(b))*
+- I can complete the square in a denominator with no real roots and integrate to an arctan. *(Guide: Worked example 1(d); Practice Q2; arctan form also in Q6(b))*
 - I can split a numerator into "a multiple of the derivative" plus "a constant" and use two techniques in one integral. *(Guide: Worked example 2)*
 - I can change the limits of a definite integral when I substitute. *(Guide: Worked example 2; Practice Q6(a))*
 - I can use a calculator for a definite integral that has no closed-form antiderivative. *(Practice Q6(c))*

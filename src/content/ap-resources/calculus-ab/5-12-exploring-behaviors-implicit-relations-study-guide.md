@@ -57,7 +57,7 @@ This page writes derivatives as **dy/dx** (or y′) and **d²y/dx²** (or y″).
 
 In Topics 5.4 to 5.7 you used f′ and f″ to describe the graph of y = f(x). Many curves are not written that way. A curve such as y² − 2xy + 2x² = 8 is an **implicit relation**: x and y are tied together by an equation, and for some x-values there are two y-values.
 
-The good news is that the ideas carry over. Near any point where the tangent is not vertical, a small piece of the curve is the graph of a function y(x). On that piece:
+The good news is that the ideas carry over. Near any point where implicit differentiation gives a value for dy/dx (its denominator is not 0), a small piece of the curve is the graph of a function y(x). On that piece:
 
 - dy/dx > 0 means y is increasing as x increases; dy/dx < 0 means y is decreasing;
 - a sign change of dy/dx from + to − is a relative maximum of y; from − to + a relative minimum;
@@ -79,7 +79,7 @@ Implicit differentiation usually gives dy/dx as a fraction, dy/dx = N/D, where N
 
 **Finding the points.** Setting N = 0 gives an equation such as y = 2x. That is a line, not a point. Solve it **together with** the curve's equation to find the actual points on the curve. Then check D at each point.
 
-**Vertical tangents.** These are critical points too, because dy/dx does not exist there. The curve is not the graph of a function of x near such a point (it fails the vertical-line test), so you do not classify them as a maximum or minimum of y. Often x reaches its greatest or least value on the curve there.
+**Vertical tangents.** These are critical points too, because dy/dx does not exist there. When N ≠ 0, the curve near such a point contains points just above it and just below it, so y has no relative maximum or minimum there; you do not classify them that way. Often the curve folds back at a vertical tangent (it fails the vertical-line test nearby), and then x reaches its greatest or least value there, as in Worked example 1.
 
 **When both N and D are 0.** The formula gives 0/0, which tells you nothing (just like 0/0 in a limit). For example, on the curve y³ = x², implicit differentiation gives dy/dx = 2x/(3y²), which is 0/0 at the origin. The curve has a sharp point (a cusp) there. Do not call such a point a horizontal or vertical tangent without more evidence.
 

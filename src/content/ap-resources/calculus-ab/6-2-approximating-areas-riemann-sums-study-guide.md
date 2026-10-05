@@ -112,7 +112,7 @@ Check: (L + R)/2 = (32 + 68)/2 = 50.
 **(d) Midpoint sum.** The midpoints are 1, 3 and 5:
 M = 2 × (2.5 + 6.5 + 14.5) = 2 × 23.5 = **47**
 
-**How good are they?** The exact area is 48 (you will be able to find this yourself in Topic 6.7). The left sum is 16 too small and the right sum 20 too big. The trapezoidal sum is 2 too big and the midpoint sum only 1 too small. The figures below show why.
+**How good are they?** The exact area is 48 (you will be able to find this yourself later in this unit). The left sum is 16 too small and the right sum 20 too big. The trapezoidal sum is 2 too big and the midpoint sum only 1 too small. The figures below show why.
 
 <figure>
 <svg viewBox="0 0 520 275" role="img" aria-labelledby="lr-title lr-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -232,6 +232,48 @@ Or directly: 10 × ½(12 + 18) + 5 × ½(18 + 26) + 10 × ½(26 + 30) + 15 × ½
 
 **Midpoint?** A midpoint sum on these subintervals would need S at t = 5, 12.5, 20 and 32.5. The table does not give those, so a midpoint sum is not possible here.
 
+## Worked example 3: a function given by a graph and in words
+
+**Question.** A cyclist's speed v(t), in metres per second, is shown in Figure 3 for 0 ≤ t ≤ 12 seconds. The graph passes through the marked points. You are also told, in words, that the graph of v is concave down on the whole interval.
+
+<figure>
+<svg viewBox="0 0 520 260" role="img" aria-labelledby="cyc-title cyc-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
+<title id="cyc-title">Graph of a cyclist's speed v(t) from t = 0 to t = 12 seconds</title>
+<desc id="cyc-desc">Speed v in metres per second against time t in seconds. A smooth concave-down curve rises from (0, 4) through (3, 7) to a peak at (6, 8), then falls through (9, 7) to (12, 4). These five points are marked with dots and dashed guide lines to the axes.</desc>
+<rect x="0" y="0" width="520" height="260" fill="#ffffff"/>
+<g stroke="#1d2b44" stroke-width="1" stroke-dasharray="4 4">
+<line x1="165" y1="220" x2="165" y2="80"/><line x1="270" y1="220" x2="270" y2="60"/><line x1="375" y1="220" x2="375" y2="80"/><line x1="480" y1="220" x2="480" y2="140"/>
+<line x1="60" y1="60" x2="270" y2="60"/><line x1="60" y1="80" x2="375" y2="80"/>
+</g>
+<g stroke="#1d2b44" stroke-width="1.5">
+<line x1="40" y1="220" x2="500" y2="220"/><line x1="60" y1="235" x2="60" y2="30"/>
+</g>
+<g font-size="12" fill="#1d2b44" text-anchor="middle">
+<text x="60" y="236">0</text><text x="165" y="236">3</text><text x="270" y="236">6</text><text x="375" y="236">9</text><text x="480" y="236">12</text>
+</g>
+<g font-size="12" fill="#1d2b44" text-anchor="end">
+<text x="53" y="144">4</text><text x="53" y="84">7</text><text x="53" y="64">8</text>
+</g>
+<text x="66" y="28" font-size="12" fill="#1d2b44">v (m/s)</text>
+<text x="505" y="214" font-size="12" fill="#1d2b44" text-anchor="end">t (s)</text>
+<polyline points="60.0,140.0 77.5,127.2 95.0,115.6 112.5,105.0 130.0,95.6 147.5,87.2 165.0,80.0 182.5,73.9 200.0,68.9 217.5,65.0 235.0,62.2 252.5,60.6 270.0,60.0 287.5,60.6 305.0,62.2 322.5,65.0 340.0,68.9 357.5,73.9 375.0,80.0 392.5,87.2 410.0,95.6 427.5,105.0 445.0,115.6 462.5,127.2 480.0,140.0" fill="none" stroke="#1d2b44" stroke-width="2.5"/>
+<g fill="#1d2b44"><circle cx="60" cy="140" r="4"/><circle cx="165" cy="80" r="4"/><circle cx="270" cy="60" r="4"/><circle cx="375" cy="80" r="4"/><circle cx="480" cy="140" r="4"/></g>
+</svg>
+<figcaption>Figure 3. The cyclist's speed. Read heights only at the marked points, where the values are certain.</figcaption>
+</figure>
+
+(a) Estimate the distance travelled with a midpoint sum on two subintervals of equal width.
+(b) Estimate it with a trapezoidal sum on four subintervals of equal width.
+(c) Say whether each estimate is too big or too small.
+
+**(a)** The subintervals are [0, 6] and [6, 12]. Their midpoints are t = 3 and t = 9, where the graph reads 7 and 7.
+M = 6 × 7 + 6 × 7 = **84 m**.
+
+**(b)** Width 3, with heights 4, 7, 8, 7, 4 read from the graph:
+T = 3 × [½(4) + 7 + 8 + 7 + ½(4)] = 3 × 26 = **78 m**.
+
+**(c)** The words tell you v is concave down. So T is an **underestimate** and M is an **overestimate**, and the distance lies between 78 m and 84 m. (It is in fact 80 m.) Without the sentence about concavity, the five dots alone would not settle this.
+
 ## Using technology
 
 With many subintervals, the arithmetic is long, so use a calculator list or a spreadsheet. The thinking stays the same.
@@ -240,7 +282,7 @@ With many subintervals, the arithmetic is long, so use a calculator list or a sp
 2. Decide which height each term uses.
 3. Write the sum in full (or with the first few terms and the last term) before giving its value.
 
-On a calculator-active exam question, a bare number with no set-up shows no method. Writing "10 × 18 + 5 × 26 + 10 × 30 + 15 × 34" first earns the set-up even if you then make a keying error.
+On a calculator-active exam question, a bare number with no set-up shows no method. Writing "10 × 18 + 5 × 26 + 10 × 30 + 15 × 34" first shows your method even if you then make a keying error.
 
 ## Common misconceptions
 

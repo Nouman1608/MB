@@ -38,7 +38,7 @@ Short on time? This page is the recap. For explanations, the family-of-curves gr
 - **Method:** (1) find y′ (and y″ if needed); (2) substitute into the left side and the right side separately; (3) simplify each side; (4) show they are identical.
 - Agreement at one x value **does not** prove a solution. Disagreement at one x value **does** disprove it.
 - A differential equation can have **infinitely many solutions**, often written with an arbitrary constant C (or two constants for a second-order equation).
-- A constant function y = c is a solution when the right side is 0 at y = c (its derivative is 0).
+- A constant function y = c is a solution when substituting y = c makes the right side 0 for every x (its derivative is 0).
 - A solution must be differentiable on its whole interval, so avoid points where the formula is undefined.
 
 ## Key relationships
