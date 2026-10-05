@@ -50,7 +50,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 
 ## Assumptions and conventions
 
-- Labels all have the same number of digits (001 to 250, not 1 to 250).
+- With a line of random digits, labels all have the same number of digits (001 to 250, not 1 to 250).
 - Skip numbers that are not labels, and skip repeats unless sampling with replacement.
 - Stratified and systematic samples are random samples, but they are **not** SRSs: some samples of size n cannot happen.
 - Proportional allocation in strata is common, not required.

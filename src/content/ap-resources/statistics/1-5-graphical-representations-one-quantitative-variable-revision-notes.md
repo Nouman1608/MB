@@ -46,7 +46,7 @@ Short on time? This page is the recap. For explanations, figures and worked exam
 | Dotplot | One dot per value above (or beside) a number line; stack equal or nearly equal values | Equal spacing, including values with no dots; axis label with units |
 | Stem-and-leaf plot | Stem = first digit(s); leaf = next single digit; stems in a column, leaves in order | Every stem in the range (even empty ones); a key such as 3 \| 8 = 38 kg |
 | Split stems | Each stem written twice: leaves 0–4, then 5–9 | Same key rules |
-| Histogram | Values grouped into ordered, equal-width bins; bar height = frequency or relative frequency | Touching bars; labelled axes starting at 0; a stated boundary rule (e.g. a ≤ x < b) |
+| Histogram | Values grouped into ordered, equal-width bins; bar height = frequency or relative frequency | Touching bars; labelled axes, with the vertical scale starting at 0; a stated boundary rule (e.g. a ≤ x < b) |
 | Relative frequency | frequency ÷ n | Relative frequencies add to 1 |
 
 A frequency histogram and a relative frequency histogram with the same bins have the same shape. Only the vertical scale differs.

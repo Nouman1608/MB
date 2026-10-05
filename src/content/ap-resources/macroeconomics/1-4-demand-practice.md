@@ -190,7 +190,7 @@ Electric scooters are a **normal good** in Valdoria. Bus rides are a **substitut
 
 (a) Explain the effect of **each** event on its own on the demand for scooters.
 (b) Can you be sure whether the demand for scooters increases or decreases overall? Explain.
-(c) A study finds that, at a scooter price of VD 900, the income rise alone would raise the quantity demanded by 300 scooters a year, and the fare cut alone would lower it by 120. Before both events, 1,000 scooters a year were demanded at VD 900. Calculate the new quantity demanded at VD 900 and state the overall direction of the shift.
+(c) A study finds that, at a scooter price of VD 900, the income rise alone would shift demand so that 300 more scooters a year are demanded, and the fare cut alone would shift it so that 120 fewer are demanded. Before both events, 1,000 scooters a year were demanded at VD 900. Calculate the new quantity demanded at VD 900 and state the overall direction of the shift.
 (d) A newspaper writes: "Scooter prices fell last year and sales rose, which proves that the demand for scooters increased." Explain the error in this reasoning.
 
 <details>

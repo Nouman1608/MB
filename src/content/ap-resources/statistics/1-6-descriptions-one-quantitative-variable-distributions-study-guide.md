@@ -85,7 +85,7 @@ A complete shape description can use one word from each list, for example "unimo
 <figure>
 <svg viewBox="0 0 660 360" role="img" aria-labelledby="shapes-title shapes-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="shapes-title">Six histogram shapes</title>
-<desc id="shapes-desc">Six small histograms with eight touching bars each, in two rows of three. Top row: skewed right, with the tallest bars on the left and bars that shrink slowly towards the right; approximately symmetric, with the tallest bars in the middle and matching heights on each side; skewed left, with the tallest bars on the right and bars that shrink slowly towards the left. Bottom row: bimodal, with two separate tall peaks; approximately uniform, with all bars about the same height; and a histogram with most bars on the left, two empty bins, then one short bar far to the right, labelled gap and possible outlier.</desc>
+<desc id="shapes-desc">Six small histograms with eight bins each, in two rows of three. Top row: skewed right, with the tallest bars on the left and bars that shrink slowly towards the right; approximately symmetric, with the tallest bars in the middle and matching heights on each side; skewed left, with the tallest bars on the right and bars that shrink slowly towards the left. Bottom row: bimodal, with two separate tall peaks; approximately uniform, with all bars about the same height; and a histogram with most bars on the left, two empty bins, then one short bar far to the right, labelled gap and possible outlier.</desc>
 <rect x="0" y="0" width="660" height="360" fill="#ffffff"/>
 <g aria-hidden="true">
 <rect x="30" y="100" width="22" height="30" fill="#dfe6f0" stroke="#1d2b44" stroke-width="1.5"/>

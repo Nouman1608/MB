@@ -73,31 +73,31 @@ Figure 1 below shows this with a fictional town, Brenholt, where 40% of the 2,00
 <figure>
 <svg viewBox="0 0 640 300" role="img" aria-labelledby="bias-title bias-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="bias-title">Sample proportions from two sampling methods compared with the parameter</title>
-<desc id="bias-desc">A horizontal axis shows the proportion of households that own a bicycle, from 0.30 to 0.70. A dashed vertical line marks the parameter at 0.40. The lower row shows ten circles for Method A, a simple random sample: they lie between 0.34 and 0.46, on both sides of the dashed line, with mean 0.40. The upper row shows ten squares for Method B, a convenience sample at a cycle-path café: they lie between 0.54 and 0.66, all to the right of the dashed line, with mean 0.60.</desc>
+<desc id="bias-desc">A horizontal axis shows the proportion of households that own a bicycle, from 0.20 to 0.80. A dashed vertical line marks the parameter at 0.40. The lower row shows ten circles for Method A, a simple random sample: they lie between 0.30 and 0.50, on both sides of the dashed line, with mean 0.40. The upper row shows ten squares for Method B, a convenience sample at a cycle-path café: they lie between 0.50 and 0.70, all to the right of the dashed line, with mean 0.60.</desc>
 <rect x="0" y="0" width="640" height="300" fill="#ffffff"/>
-<line x1="60" y1="240" x2="580" y2="240" stroke="#1d2b44" stroke-width="2"/>
+<line x1="50" y1="240" x2="590" y2="240" stroke="#1d2b44" stroke-width="2"/>
 <g stroke="#1d2b44" stroke-width="1.5">
-<line x1="60" y1="240" x2="60" y2="247"/><line x1="125" y1="240" x2="125" y2="247"/><line x1="190" y1="240" x2="190" y2="247"/><line x1="255" y1="240" x2="255" y2="247"/><line x1="320" y1="240" x2="320" y2="247"/><line x1="385" y1="240" x2="385" y2="247"/><line x1="450" y1="240" x2="450" y2="247"/><line x1="515" y1="240" x2="515" y2="247"/><line x1="580" y1="240" x2="580" y2="247"/>
+<line x1="50" y1="240" x2="50" y2="247"/><line x1="140" y1="240" x2="140" y2="247"/><line x1="230" y1="240" x2="230" y2="247"/><line x1="320" y1="240" x2="320" y2="247"/><line x1="410" y1="240" x2="410" y2="247"/><line x1="500" y1="240" x2="500" y2="247"/><line x1="590" y1="240" x2="590" y2="247"/>
 </g>
 <g font-size="13" fill="#1d2b44" text-anchor="middle">
-<text x="60" y="262">0.30</text><text x="125" y="262">0.35</text><text x="190" y="262">0.40</text><text x="255" y="262">0.45</text><text x="320" y="262">0.50</text><text x="385" y="262">0.55</text><text x="450" y="262">0.60</text><text x="515" y="262">0.65</text><text x="580" y="262">0.70</text>
+<text x="50" y="262">0.20</text><text x="140" y="262">0.30</text><text x="230" y="262">0.40</text><text x="320" y="262">0.50</text><text x="410" y="262">0.60</text><text x="500" y="262">0.70</text><text x="590" y="262">0.80</text>
 </g>
 <text x="320" y="288" text-anchor="middle" font-size="14" fill="#1d2b44">Sample proportion of households that own a bicycle</text>
-<line x1="190" y1="30" x2="190" y2="240" stroke="#1d2b44" stroke-width="2" stroke-dasharray="6 4"/>
-<text x="196" y="26" text-anchor="start" font-size="13" fill="#1d2b44">parameter p = 0.40</text>
+<line x1="230" y1="30" x2="230" y2="240" stroke="#1d2b44" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="236" y="26" text-anchor="start" font-size="13" fill="#1d2b44">parameter p = 0.40</text>
 <g fill="#1d2b44">
-<circle cx="112" cy="225" r="5"/><circle cx="138" cy="225" r="5"/><circle cx="164" cy="225" r="5"/><circle cx="164" cy="212" r="5"/><circle cx="190" cy="225" r="5"/><circle cx="190" cy="212" r="5"/><circle cx="216" cy="225" r="5"/><circle cx="216" cy="212" r="5"/><circle cx="242" cy="225" r="5"/><circle cx="268" cy="225" r="5"/>
+<circle cx="140" cy="225" r="5"/><circle cx="176" cy="225" r="5"/><circle cx="194" cy="225" r="5"/><circle cx="212" cy="225" r="5"/><circle cx="230" cy="225" r="5"/><circle cx="230" cy="212" r="5"/><circle cx="248" cy="225" r="5"/><circle cx="266" cy="225" r="5"/><circle cx="284" cy="225" r="5"/><circle cx="320" cy="225" r="5"/>
 </g>
-<text x="290" y="200" text-anchor="start" font-size="13" fill="#1d2b44">Method A (circles): SRS, mean 0.40</text>
+<text x="340" y="229" text-anchor="start" font-size="13" fill="#1d2b44">Method A (circles): SRS, mean 0.40</text>
 <g fill="none" stroke="#1d2b44" stroke-width="2">
-<rect x="367" y="120" width="10" height="10"/><rect x="393" y="120" width="10" height="10"/><rect x="419" y="120" width="10" height="10"/><rect x="419" y="107" width="10" height="10"/><rect x="445" y="120" width="10" height="10"/><rect x="445" y="107" width="10" height="10"/><rect x="471" y="120" width="10" height="10"/><rect x="471" y="107" width="10" height="10"/><rect x="497" y="120" width="10" height="10"/><rect x="523" y="120" width="10" height="10"/>
+<rect x="315" y="120" width="10" height="10"/><rect x="351" y="120" width="10" height="10"/><rect x="369" y="120" width="10" height="10"/><rect x="387" y="120" width="10" height="10"/><rect x="405" y="120" width="10" height="10"/><rect x="405" y="107" width="10" height="10"/><rect x="423" y="120" width="10" height="10"/><rect x="441" y="120" width="10" height="10"/><rect x="459" y="120" width="10" height="10"/><rect x="495" y="120" width="10" height="10"/>
 </g>
 <text x="300" y="85" text-anchor="start" font-size="13" fill="#1d2b44">Method B (squares): café sample, mean 0.60</text>
 </svg>
 <figcaption>Figure 1. Ten sample proportions from each method for the fictional town of Brenholt (each sample has 50 households). Method A's results scatter on both sides of the parameter: that is chance variation. Every Method B result is above the parameter: that is bias.</figcaption>
 </figure>
 
-Method A's ten results run from 0.34 to 0.46. Four are above 0.40, four are below and two are exactly 0.40. Their mean is 0.40. Method B's results run from 0.54 to 0.66. All ten are above 0.40, and their mean is 0.60. People near a cycle-path café are more likely than the average household to own a bicycle, so Method B **overestimates** every time. Taking 500 people at the café instead of 50 would not help: it would just give a more precise estimate of the wrong group.
+Method A's ten results run from 0.30 to 0.50. Four are above 0.40, four are below and two are exactly 0.40. Their mean is 0.40. Method B's results run from 0.50 to 0.70. All ten are above 0.40, and their mean is 0.60. People near a cycle-path café are more likely than the average household to own a bicycle, so Method B **overestimates** every time. Taking 500 people at the café instead of 50 would not help: it would just give a more precise estimate of the wrong group.
 
 ## Where bias can enter a study
 

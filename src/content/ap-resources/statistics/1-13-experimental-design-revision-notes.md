@@ -37,7 +37,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 - An **experiment** imposes treatments on experimental units; an observational study does not.
 - A well-designed experiment has **comparison** (at least two treatments), **random assignment**, **replication** (more than one unit per treatment) and **direct control** (fixed conditions for known extraneous variables).
 - A **control group** gives a baseline: no treatment, a **placebo** or the standard treatment.
-- **Single-blind:** participants or the researchers who meet them do not know the treatments. **Double-blind:** neither knows.
+- **Single-blind:** only one side does not know the treatments: either the participants or the researchers who meet them. **Double-blind:** neither side knows.
 - **Random assignment** spreads extraneous variables roughly evenly across groups, which reduces confounding.
 
 ## Key relationships

@@ -205,7 +205,7 @@ A fictional sunscreen company recruits 30 volunteers at a beach. Each volunteer 
 
 **(b)** The two arms may not get the same sun exposure. For example, a person might lie on one side, or hold a book that shades one arm. If P always went on the left arm, any advantage of the left arm would be confounded with sunscreen P. The coin flip makes each arm equally likely to get P, so such differences are balanced across the treatments.
 
-**(c)** **Cause and effect: yes.** The treatments were randomly assigned to the arms, which reduces confounding, so less redness can be attributed to sunscreen P. **Population: only people similar to these 30 volunteers.** They were not randomly selected (they volunteered at one beach), so the result should not be generalised to all sunscreen users.
+**(c)** **Cause and effect: yes.** The treatments were randomly assigned to the arms, which reduces confounding, so less redness can be attributed to sunscreen P (as long as the difference is too large to be just chance; a later unit shows how to test this). **Population: only people similar to these 30 volunteers.** They were not randomly selected (they volunteered at one beach), so the result should not be generalised to all sunscreen users.
 
 | Point | What earns it |
 |---|---|

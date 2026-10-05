@@ -74,7 +74,7 @@ In a **simple random sample (SRS)** of size n, **every possible sample of size n
 **How to select an SRS.**
 
 1. **List** every individual in the population.
-2. **Label** them with numbers of the same length, for example 001 to 250.
+2. **Label** them with numbers, for example 1 to 250. If you will read a line of random digits, give every label the same number of digits: 001 to 250.
 3. **Use a chance process** to choose labels:
    - a random number generator that gives whole numbers from 1 to N, or
    - numbered slips of the same size, mixed well in a box, drawn without looking.
@@ -370,7 +370,7 @@ When you justify a choice, link it to **this** population and **this** question.
 - **Mixing up strata and clusters.** Strata are similar inside, and you sample from all of them. Clusters are mixed inside, and you take all of a few of them.
 - **"In a cluster sample, take a few people from each cluster."** That describes a stratified-style plan. In a cluster sample you choose clusters at random and measure **everyone** in them.
 - **"A systematic sample does not need chance."** It needs a random starting point between 1 and k.
-- **Labels of different lengths.** Labels 1 to 250 read from a digit line as 1, 2, 3, … cause confusion. Use 001 to 250 so every label has three digits.
+- **Labels of different lengths.** If you read a line of random digits with labels 1 to 250, you cannot tell whether to read one, two or three digits at a time. Use 001 to 250 so every label has three digits.
 - **Keeping repeats when sampling people.** Unless the question says "with replacement", ignore a label that comes up twice.
 - **"Stratify by anything."** Strata help only when they are linked to the variable being measured.
 

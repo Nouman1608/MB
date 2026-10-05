@@ -35,7 +35,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 ## Recap
 
 - Statistics helps you learn from data when the answer **varies** from one individual to another.
-- A **statistical study** collects data from a sample to answer an investigative question about a larger population.
+- A **statistical study** uses data from a sample so that it can answer an investigative question about the whole population.
 - We sample because the population is too large, or too hard, costly or destructive to measure in full.
 - Each part of a study, and each number from it, matches something real. Saying what it matches is writing **in context**.
 

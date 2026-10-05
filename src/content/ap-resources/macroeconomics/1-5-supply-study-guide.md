@@ -66,7 +66,7 @@ Why do producers respond this way?
 
 1. **Higher prices make extra output worth producing.** Each extra unit costs something to make. A higher price means more units now bring in at least what they cost, so firms are willing to produce them.
 2. **Extra output usually costs more per unit.** To produce more, a firm must pull in resources that are less suited to the job, pay overtime or run machines harder. This is the increasing opportunity cost you met with the bowed-out production possibilities curve in Topic 1.2. Producers will only cover these rising costs if the price is higher.
-3. **Resources move towards the more rewarding good.** A higher price draws resources away from other uses. Existing firms expand, and in time new sellers may join the market.
+3. **Resources move towards the more rewarding good.** A higher price draws resources away from other uses, so the existing producers expand their output. (New firms joining the market is a different thing: a change in the number of sellers, which shifts the curve. See "Determinants of supply".)
 
 The exact cost reasoning behind a firm's supply curve belongs to the Microeconomics course. For this course, you need to state the law, explain the positive relationship and show it on a graph.
 
@@ -133,7 +133,7 @@ This is an **increase in quantity supplied**. On the graph it is a **movement al
 <text x="445" y="122" font-size="14" font-style="italic" fill="#1d2b44">b</text>
 <defs><marker id="sup1-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1d2b44"/></marker></defs>
 <line x1="257" y1="146" x2="413" y2="92" stroke="#1d2b44" stroke-width="2" marker-end="url(#sup1-arrow)"/>
-<text x="130" y="95" font-size="12" fill="#1d2b44">increase in quantity supplied</text>
+<text x="130" y="88" font-size="12" fill="#1d2b44">increase in quantity supplied</text>
 </svg>
 <figcaption>Figure 1. Valdoria's market supply of tomatoes (fictional data). A rise in the tomato price from VD 3 to VD 5 moves the market from point a to point b along the same curve: quantity supplied rises from 250 to 550 kg per day.</figcaption>
 </figure>
@@ -211,7 +211,7 @@ At VD 2 the farms now supply nothing: VD 2 no longer covers the cost of growing 
 <line x1="80" y1="134" x2="340" y2="134"/><line x1="340" y1="100" x2="340" y2="270"/><line x1="80" y1="100" x2="340" y2="100"/>
 </g>
 <defs><marker id="sup2-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1d2b44"/></marker></defs>
-<line x1="334" y1="146" x2="250" y2="146" stroke="#1d2b44" stroke-width="2" marker-end="url(#sup2-arrow)"/>
+<line x1="334" y1="134" x2="250" y2="134" stroke="#1d2b44" stroke-width="2" marker-end="url(#sup2-arrow)"/>
 
 <line x1="352" y1="128" x2="352" y2="104" stroke="#1d2b44" stroke-width="2" marker-end="url(#sup2-arrow)"/>
 <g font-size="12" fill="#1d2b44"><text x="372" y="215">Horizontal arrow: 150 kg less at VD 4</text><text x="372" y="235">Vertical arrow: VD 1 more for 400 kg</text></g>

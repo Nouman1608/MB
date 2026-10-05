@@ -123,7 +123,7 @@ No value is below 7.5. One value, 62 minutes, is above 51.5, so it is a potentia
 <figcaption>Figure 1. Delivery times of 15 orders from the fictional Copper Kettle café. The dot plot and the boxplot use the same scale. Box: Q1 = 24 to Q3 = 35 minutes; thick line: median, 28 minutes; triangle: mean. The upper whisker stops at 45 minutes and the outlier at 62 minutes is marked with an asterisk. The dotted fence line is drawn here only to explain the rule.</figcaption>
 </figure>
 
-Compare the two plots in Figure 1. Between each pair of neighbouring numbers in the five-number summary there are exactly 3 deliveries. For example, 18, 21 and 22 lie below Q1, and 40, 45 and 62 lie above Q3. The right section of the plot is long because the large values there are **spread out**, not because there are more of them.
+Compare the two plots in Figure 1. Apart from Q1, the median and Q3 themselves, each section holds exactly 3 deliveries: 18, 21 and 22 lie below Q1; 25, 26 and 27 lie between Q1 and the median; 30, 31 and 33 lie between the median and Q3; and 40, 45 and 62 lie above Q3. The right section of the plot is long because the large values there are **spread out**, not because there are more of them.
 
 ## Reading a boxplot
 

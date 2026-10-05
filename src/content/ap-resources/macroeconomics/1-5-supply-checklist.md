@@ -40,7 +40,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can calculate a change in quantity supplied from a schedule or a supply equation. *(Practice Q2, Q5(b), Q7(a))*
 - I can draw a supply graph with price on the vertical axis, quantity on the horizontal axis and every curve labelled. *(Guide: Figure 1; Practice Q6(a))*
 - I can show an increase or a decrease in supply on a graph with a labelled new curve and an arrow. *(Guide: Figure 2; Practice Q6(b))*
-- I can work out a new supply schedule after a per-unit tax or subsidy. *(Guide: Worked example 2; Practice Q7(b)–(d))*
+- I can work out a new supply schedule after a per-unit tax or subsidy. *(Guide: Worked example 2 uses the same method for a cost rise; Practice Q7(b)–(d))*
 
 ## Reasoning
 

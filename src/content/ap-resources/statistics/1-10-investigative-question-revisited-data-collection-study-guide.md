@@ -296,6 +296,6 @@ For the running example: the survey used a random sample of 150 students, so its
 
 ## Where this leads
 
-Topic 1.11 shows how to select a random sample (simple random, stratified, cluster and systematic sampling). Topic 1.12 looks at what goes wrong when a sample is not random, and Topic 1.13 covers how to design a good experiment. Continue with [Topic 1.11, Random Sampling](/advanced-course-resources/statistics/1-11-random-sampling-study-guide/).
+Topic 1.11 shows how to select a random sample (simple random, stratified, cluster and systematic sampling). Topic 1.12 looks at problems that can bias a sample, even a random one, and Topic 1.13 covers how to design a good experiment. Continue with [Topic 1.11, Random Sampling](/advanced-course-resources/statistics/1-11-random-sampling-study-guide/).
 
 For this topic, try the [practice questions](/advanced-course-resources/statistics/1-10-investigative-question-revisited-data-collection-practice/) now, then use the [revision notes](/advanced-course-resources/statistics/1-10-investigative-question-revisited-data-collection-revision-notes/) and the [checklist](/advanced-course-resources/statistics/1-10-investigative-question-revisited-data-collection-checklist/) to consolidate.

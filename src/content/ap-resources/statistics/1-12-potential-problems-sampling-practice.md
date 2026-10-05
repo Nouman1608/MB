@@ -233,8 +233,8 @@ The 8 sample means (days) were:
 
 - **Q1 or Q3 wrong:** re-read "Nonrandom samples: convenience and voluntary response" in the [study guide](/advanced-course-resources/statistics/1-12-potential-problems-sampling-study-guide/).
 - **Q2 wrong:** revisit "Undercoverage bias".
-- **Q4 or Q7(b) wrong:** revisit "Response bias" and Worked example 2.
-- **Q5 wrong:** revisit "Nonresponse bias" and Worked example 1.
+- **Q4 or Q7(b) wrong:** revisit "Response bias" and Worked examples 1(c) and 2.
+- **Q5 wrong:** revisit "Nonresponse bias" and Worked example 2.
 - **No directions given:** re-read "Writing about bias".
 - **Q3(A), Q6(b), Q7(c) or Q7(d) wrong:** revisit "Bias: a fault in the method, not bad luck" and Figure 1.
 

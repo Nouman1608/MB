@@ -20,7 +20,7 @@ skills: ["1", "2", "3", "4"]
 studyMinutes: 40
 difficulty: "foundation"
 calculator: "four-function"
-calculatorNote: "Only subtraction is needed for surpluses and shortages. Quantities are in thousands; keep the units in every answer."
+calculatorNote: "Only addition and subtraction are needed. Quantities are in thousands; keep the units in every answer."
 related: ["mb-ap-macro-1.6-revision-notes", "mb-ap-macro-1.6-practice", "mb-ap-macro-1.6-checklist"]
 next: "mb-ap-macro-1.6-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
@@ -211,8 +211,8 @@ A useful pattern: a **demand** shift moves price and quantity in the **same** di
 <line x1="80" y1="180" x2="437.5" y2="180"/><line x1="340" y1="180" x2="340" y2="320"/>
 <line x1="80" y1="145" x2="405" y2="145"/><line x1="405" y1="145" x2="405" y2="320"/>
 </g>
-<path d="M 262 96 L 345 96" stroke="#1d2b44" stroke-width="2" fill="none"/>
-<path d="M 345 96 L 335 90 L 335 102 Z" fill="#1d2b44"/>
+<path d="M 262 96 L 350 96" stroke="#1d2b44" stroke-width="2" fill="none"/>
+<path d="M 356 96 L 346 90 L 346 102 Z" fill="#1d2b44"/>
 <circle cx="340" cy="180" r="5" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
 <text x="298" y="174" font-size="14" font-weight="bold" fill="#1d2b44">E₁</text>
 <circle cx="405" cy="145" r="5" fill="#1d2b44" stroke="#1d2b44" stroke-width="2"/>
@@ -241,7 +241,7 @@ A useful pattern: a **demand** shift moves price and quantity in the **same** di
 
 **Step 2: quantity.** Demand shifting right pushes the quantity **up**. Supply shifting left pushes the quantity **down**. The effects conflict, so the change in quantity is **indeterminate** (it cannot be known) without the sizes of the shifts.
 
-**Step 3: see it with numbers.** New demand is Qd = 150, 130, 110, 100, 90 and 80 thousand at VD 4, 6, 8, 10, 12 and 14. Try three sizes of supply fall:
+**Step 3: see it with numbers.** New demand is Qd = 130, 120, 110, 100, 90 and 80 thousand at VD 4, 6, 8, 10, 12 and 14. Both schedules are straight lines, so extend them by one row: at VD 16, new Qd = 70 thousand and the original Qs = 160 thousand. Try three sizes of supply fall:
 
 | Supply falls by (thousand, at every price) | New equilibrium price | New equilibrium quantity | Quantity compared with 80 |
 |---|---|---|---|

@@ -90,7 +90,7 @@ Blinding is not always possible: people know whether they did an exercise progra
 
 ## Extraneous variables, confounding and random assignment
 
-An **extraneous variable** is one that is known or believed to affect the response but is not the explanatory variable you are studying. In a fertiliser study, the amount of sunlight each plant gets is extraneous.
+An **extraneous variable** is any variable, other than the explanatory variable you are studying, that you know or suspect has an effect on the response. In a fertiliser study, the amount of sunlight each plant gets is extraneous.
 
 A **confounding variable** is related to the explanatory variable in a way that makes it hard to tell which of the two is changing the response. Suppose a teacher lets students choose a new revision method. Keen students may choose it more often, and keen students may also score higher anyway. Keenness is then confounded with the method.
 

@@ -34,7 +34,7 @@ keyPoints:
   - "More or better resources, or better technology, shift the PPC outward (growth); losing resources shifts it inward (contraction)."
 faqs:
   - question: "Does unemployment shift the PPC inward?"
-    answer: "No. Unemployed workers still exist, so the economy's capacity is unchanged. Unemployment puts the economy at a point inside the PPC. The curve shifts inward only if the economy actually loses resources or productivity."
+    answer: "No. Unemployed workers still exist, so the economy's capacity is unchanged. Extra unemployment, such as in a recession, puts the economy at a point inside the PPC. The curve shifts inward only if the economy actually loses resources or productivity."
   - question: "Why is the PPC usually drawn bowed outward?"
     answer: "Because resources are not equally good at producing both goods. As an economy makes more of one good, it has to move resources that are less and less suited to it, so each extra unit costs more of the other good."
 version: "1.0"
@@ -83,6 +83,8 @@ Because resources and technology are held fixed, the PPC shows the economy's cap
 | G | 60 | 0 |
 
 At A, every resource makes rice. At G, every resource makes bicycles. Every point from A to G uses all of Valdoria's resources, so every point is efficient. Moving from one point to another is a **movement along** the curve: the economy reallocates its resources, but its capacity does not change.
+
+The curve is also a picture of **scarcity**. Valdoria cannot reach any point beyond it, and the curve slopes downward: to get more bicycles, it must give up some rice.
 
 <figure>
 <svg viewBox="0 0 640 310" role="img" aria-labelledby="ppc1-title ppc1-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">

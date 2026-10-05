@@ -188,7 +188,7 @@ Solar lamps are sold in a competitive market in Valdoria.
 | 1 | Equilibrium quantity rises, because both shifts increase quantity |
 | 1 | Price indeterminate, because the two shifts push the price in opposite directions |
 
-In (b), a graph that shifts demand instead of supply earns no point, but its answers in (c) and (d) can still earn points if they are consistent with it. In (d), "price falls" with no reference to the sizes of the shifts earns no point.
+In (b), a graph that shifts demand instead of supply earns no point; (c) can still earn its point if the answer is consistent with the graph drawn, and (d) is scored on its own. In (d), "price falls" with no reference to the sizes of the shifts earns no point.
 </details>
 
 ## Question 7 (constructed response · stretch)

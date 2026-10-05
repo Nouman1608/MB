@@ -32,7 +32,7 @@ keyPoints:
   - "A claim must match the numbers: “most common” is not the same as “a majority” (more than 50%)."
 faqs:
   - question: "Can I find the mean or median of a categorical variable?"
-    answer: "No. Categories are labels, not numbers, so you cannot add or order them in a meaningful way. Summarise a categorical variable with counts and proportions, and name the most common category."
+    answer: "No. Categories are labels, not measured numbers, so you cannot add them or average them. Even when categories have a natural order (Small, Medium, Large), the gaps between them are not measured amounts. Summarise a categorical variable with counts and proportions, and name the most common category."
   - question: "My percentages add to 99.9% or 100.1%. Have I made a mistake?"
     answer: "Probably not. Rounding each percentage separately can make the total a little off 100%. Check with the unrounded fractions, and say that the total differs because of rounding."
 version: "1.0"
@@ -162,7 +162,7 @@ A total far from 1, such as 0.85 or 1.30, is a warning sign. It means a category
 
 ## Summarising a categorical variable
 
-For a quantitative variable you used the mean, median and standard deviation (Topic 1.7). Those make no sense for categories. You cannot add "Bus" and "Walk", or put them in numerical order. Instead, summarise a categorical variable with:
+For a quantitative variable you will use the mean, median and standard deviation (Topic 1.7). Those make no sense for categories. You cannot add "Bus" and "Walk", or put them in numerical order. Instead, summarise a categorical variable with:
 
 - the **count** and **proportion** in each category (the tables above);
 - the **most common category**: here, Bus (36%);

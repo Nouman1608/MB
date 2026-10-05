@@ -113,27 +113,27 @@ Which description is best supported by the plot?
 
 A farm in the fictional village of Brenmoor weighed 15 eggs laid on one morning. The masses, in grams, are:
 
-51, 54, 55, 56, 57, 57, 58, 58, 58, 59, 59, 60, 61, 62, 65
+51, 53, 55, 56, 57, 57, 58, 58, 58, 59, 59, 60, 61, 62, 65
 
 Make a dot plot of the data (or picture one), then describe the distribution of egg masses. Include shape, centre, variability and unusual features, in context.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**Shape.** The tallest stack is at 58 g (3 eggs), with stacks of 2 at 57 g and 59 g. Each value below 58 g has a matching value the same distance above it (51 and 65, 54 and 62, and so on). The distribution is **unimodal and approximately symmetric**.
+**Shape.** The tallest stack is at 58 g (3 eggs), with stacks of 2 at 57 g and 59 g. The values below 58 g roughly mirror those above it (for example 51 and 65, 55 and 61). The distribution is **unimodal and approximately symmetric**.
 
 **Centre.** With 15 values, the median is the 8th value in order: **58 g**.
 
 **Variability.** The masses range from 51 g to 65 g, a range of 14 g. Most of the eggs (11 of 15) are between 55 g and 61 g.
 
-**Unusual features.** There are no obvious outliers or large gaps. The smallest (51 g) and largest (65 g) eggs are each only 3 g from their nearest neighbour.
+**Unusual features.** There are no obvious outliers or large gaps. The smallest (51 g) and largest (65 g) eggs are only 2 g and 3 g from their nearest neighbours.
 
 **In context:** the masses of these 15 Brenmoor eggs are unimodal and approximately symmetric, centred at about 58 g, ranging from 51 g to 65 g, with no obvious outliers or gaps.
 
 | Point | What earns it |
 |---|---|
 | 1 | Shape: unimodal **and** approximately symmetric (or "roughly symmetric, single peak") |
-| 1 | Centre: median 58 g (accept "about 58 g"; the mean is also 58 g) |
+| 1 | Centre: median 58 g (accept "about 58 g"; the mean, 57.9 g, also earns it) |
 | 1 | Variability: range 14 g, or min 51 g and max 65 g, or "most between 55 and 61 g" |
 | 1 | Unusual features: states there are no obvious outliers or gaps, **and** the whole answer is in context with units (egg masses, grams) |
 

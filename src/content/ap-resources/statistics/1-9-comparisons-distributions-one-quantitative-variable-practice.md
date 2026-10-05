@@ -48,7 +48,7 @@ A teacher at a fictional school recorded the minutes of exercise per day for 60 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** A boxplot is built from the five-number summary and any outliers. Each whisker and each half of the box covers a quarter of the data whether those values are spread out or bunched, so a gap is invisible. You would need a dot plot, stemplot or histogram.
+**Answer: (C).** A boxplot is built from the five-number summary and any outliers. Each whisker and each half of the box covers about a quarter of the data whether those values are spread out or bunched, so a gap is invisible. You would need a dot plot, stemplot or histogram.
 
 - (A) can be answered: compare the median lines.
 - (B) can be answered: compare the box widths (Q3 − Q1).

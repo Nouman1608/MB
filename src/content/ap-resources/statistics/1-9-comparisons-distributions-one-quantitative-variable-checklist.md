@@ -45,6 +45,6 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 - I can write a full comparison of two distributions with comparative words, values for both groups, units and context. *(Guide: Worked example 1; Practice Q4, Q5)*
 - I can use several representations together to justify or reject a claim in context. *(Guide: Worked example 1; Practice Q5, Q7)*
-- I can use z-scores to decide which of two values from different distributions is more unusual, taking care when a lower value is better. *(Guide: Worked example 2; Practice Q3, Q6)*
+- I can use z-scores to decide which of two values, in the same distribution or in different ones, is more unusual, taking care when a lower value is better. *(Guide: Worked examples 2 and 3; Practice Q3, Q6)*
 
 All ticked? Move on to Topic 1.10, The Investigative Question Revisited and Data Collection, in the [next study guide](/advanced-course-resources/statistics/1-10-investigative-question-revisited-data-collection-study-guide/), or return to the [course roadmap](/advanced-course-resources/statistics/#roadmap).

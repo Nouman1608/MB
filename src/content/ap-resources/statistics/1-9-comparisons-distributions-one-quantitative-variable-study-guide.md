@@ -161,7 +161,7 @@ Sometimes you want to know how unusual one **individual value** is. Being 9 cm a
 
 **z = (x − μ) / σ**
 
-Here x is the data value, μ is the population mean and σ is the population standard deviation. If you only have a sample, use the sample mean x̄ and sample standard deviation s instead: z = (x − x̄) / s.
+Here x is the value you want to place, μ is the mean of the whole population and σ is its standard deviation. If you only have a sample, use the sample mean x̄ and sample standard deviation s instead: z = (x − x̄) / s.
 
 - A **positive** z-score means the value is above the mean; a **negative** z-score means it is below.
 - z = 0 means the value equals the mean.
@@ -213,6 +213,8 @@ The data are samples, so use x̄ and s.
 2. Lamp B: z = (38 − 23.20) ÷ 10.9231 = 14.80 ÷ 10.9231 ≈ **1.35**.
 
 **Conclusion.** The 33 cm seedling is 1.87 standard deviations above its group mean, compared with 1.35 for the 38 cm seedling. So the 33 cm seedling is more unusually tall within its own group, even though it is the shorter plant. Lamp A's heights vary much less, so 33 cm stands out more there.
+
+**Within one group.** z-scores also compare values inside a single distribution. In Lamp B, the 12 cm seedling has z = (12 − 23.20) ÷ 10.9231 ≈ **−1.03**. So the 38 cm seedling (z ≈ 1.35) lies further from the Lamp B mean than the 12 cm seedling does, even though both look "extreme" on the stemplot.
 
 ## Common misconceptions
 

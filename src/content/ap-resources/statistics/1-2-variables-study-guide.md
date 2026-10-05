@@ -198,7 +198,7 @@ To decide which you have, ask: **"Does this number come from every unit in the p
 <figcaption>Figure 2. The fictional Kestrel Bay study. The solid arrow shows the sample being chosen from the population. The dashed arrow shows the statistic being used to estimate the unknown parameter.</figcaption>
 </figure>
 
-**Background (notation used later in the course).** Parameters are often written with Greek letters, for example μ for a population mean and σ for a population standard deviation. The matching statistics are x̄ and s. You will use these symbols properly from Topic 1.9 onwards; for now, the words are what matter.
+**Background (notation used later in the course).** Parameters are often written with Greek letters, for example μ for a population mean and σ for a population standard deviation. The matching statistics are x̄ and s. You will meet x̄ and s in Topic 1.7 and μ and σ in Topic 1.9; for now, the words are what matter.
 
 ## Worked example 1: a household energy survey
 

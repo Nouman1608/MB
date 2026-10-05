@@ -26,7 +26,7 @@ next: "mb-ap-stats-1.1-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-statistics", "page-statistics", "cb-statistics-revisions"]
 keyPoints:
-  - "A statistical study collects data from a sample to answer an investigative question about a larger population."
+  - "A statistical study gathers data from part of a population (a sample) so that it can answer an investigative question about the whole population."
   - "The population is every item or individual of interest (size N); the sample is the part you actually collect data from (size n)."
   - "We sample because the population is too large, or too hard, costly or destructive to measure in full."
   - "A good investigative question has a clear purpose, asks for data that can be collected and analysed, and is fixed before you look at the results."
@@ -57,7 +57,7 @@ This guide follows one fictional study from start to finish, then gives you two 
 
 ## The parts of a statistical study
 
-A **statistical study** collects data from a sample in order to answer an investigative question about a larger population. Each part has a name.
+A **statistical study** gathers data from a sample so that it can answer an investigative question about the whole population the sample comes from. Each part has a name.
 
 | Part | Meaning | Sandmere College |
 |---|---|---|
@@ -164,7 +164,7 @@ The **investigative question** drives the whole study. It decides who is in the 
 |---|---|---|
 | "How tall is Leila?" | One person; one measurement answers it | "What is the typical height of first-year students at Sandmere College?" |
 | "Is the canteen good?" | "Good" is not defined; no clear data | "What proportion of Sandmere College students buy lunch at the canteen at least three days a week?" |
-| "Do people sleep enough?" | Population and measurement unclear | "How many hours did Sandmere College students sleep on the night before a weekday?" |
+| "Do people sleep enough?" | Population and measurement unclear | "What is the typical number of hours Sandmere College students sleep on a night before a weekday?" |
 
 Topic 1.10 returns to investigative questions and breaks them into parts that guide data collection, the analysis and the conclusion. For now, focus on the three features and on fixing the question first.
 

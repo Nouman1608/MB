@@ -212,7 +212,7 @@ Valdoria's government discovers a large new natural-gas field, which greatly inc
 | 1 | Identifies the fan situation as a shortage in one market at the current price |
 | 1 | Contrasts it with scarcity as permanent and economy-wide |
 
-In (b), saying "wants are unlimited" with no link to the discovery earns only the second point.
+In (b), an answer that only says "wants are unlimited", with no link to the discovery or to the choices still needed, earns the scarcity point (row 2) but not the choices point (row 3).
 </details>
 
 ## How did you do?

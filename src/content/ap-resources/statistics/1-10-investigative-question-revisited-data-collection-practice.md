@@ -149,7 +149,7 @@ At the fictional Calder University, 45 students volunteer for a memory study. A 
 | Point | What earns it |
 |---|---|
 | 1 | (a) Says the treatments (noise conditions) are imposed or assigned by the researcher |
-| 1 | (b) Correct units, factor with all three levels, and response variable with what is counted |
+| 1 | (b) Correct units, factor with all three levels, treatments (the three levels), and response variable with what is counted |
 | 1 | (c) Cause and effect justified by random assignment **and** scope limited to students like the volunteers |
 | 1 | (d) 6 treatments, with the multiplication shown |
 

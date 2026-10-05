@@ -34,7 +34,7 @@ Short on time? This page is the recap. For explanations, graphs and worked examp
 ## Recap
 
 - **Law of supply:** other things equal, price and quantity supplied are **positively** related, so the supply curve slopes **upward**.
-- Why: a higher price covers the **rising cost** of extra output (increasing opportunity cost), and draws resources and sellers into the market.
+- Why: a higher price covers the **rising cost** of extra output (increasing opportunity cost), and draws resources into producing the good. (New sellers entering is a shift, not a movement along.)
 - **Market supply** = the sum of all producers' quantities supplied **at each price**.
 - A change in the good's **own price** → **change in quantity supplied** → movement **along** the curve.
 - A change in any **determinant** → **change in supply** → the whole curve **shifts**.

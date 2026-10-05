@@ -211,7 +211,7 @@ For point 2, a correct sentence such as "for every 2 swimmers there are 3 gym us
 
 ## Question 7 (explanation · stretch)
 
-A fictional newsletter reports the results of a residents' vote on a new park layout. It gives only percentages: **Yes 62.5%, No 25%, Unsure 12.5%**. Each resident who voted chose one option.
+A fictional newsletter reports the results of a residents' vote on a new park layout. It gives only percentages: **Yes 62.5%, No 25%, Unsure 12.5%**. Each resident who voted chose one option, and the percentages are exact (not rounded).
 
 (a) What is the smallest number of residents who could have voted? Show how you know.
 (b) The newsletter later says that 400 residents voted. How many voted Yes, No and Unsure?

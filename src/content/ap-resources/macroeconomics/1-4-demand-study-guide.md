@@ -170,7 +170,7 @@ Each determinant below shifts the market demand curve. The direction depends on 
   - **Substitutes** are used in place of each other (mango juice and orange juice). If the price of a substitute **rises**, demand for this good **increases**.
   - **Complements** are used together (printers and ink cartridges). If the price of a complement **rises**, demand for this good **decreases**.
 - **Tastes and preferences.** Advertising, fashion or new health information that makes a good more popular increases demand.
-- **Expectations.** If buyers expect the price to **rise** soon, or expect their income to rise, demand **today** increases. If they expect the price to fall soon, they wait, and demand today decreases.
+- **Expectations.** If buyers expect the price to **rise** soon, or (for a normal good) expect their income to rise, demand **today** increases. If they expect the price to fall soon, they wait, and demand today decreases.
 - **Number of buyers.** More buyers in the market (from population growth or new customers) increase market demand. Fewer buyers decrease it.
 
 | Event | Demand for good X | Curve |

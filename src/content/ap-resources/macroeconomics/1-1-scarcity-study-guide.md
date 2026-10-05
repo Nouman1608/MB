@@ -31,7 +31,7 @@ keyPoints:
   - "Money is not capital. Capital means human-made tools, machines and buildings used to produce."
 faqs:
   - question: "Is scarcity the same as a shortage?"
-    answer: "No. Scarcity is permanent and affects every economy: there are never enough resources for everything people want. A shortage is temporary and affects one market: buyers want more of a good than sellers offer at the current price."
+    answer: "No. Scarcity is permanent and affects every economy: there are never enough resources for everything people want. A shortage is usually temporary and affects one market: buyers want more of a good than sellers offer at the current price."
   - question: "Do I need to calculate opportunity cost in this topic?"
     answer: "No. This topic introduces the idea that every choice gives something up. Measuring opportunity cost and drawing the production possibilities curve belong to Topic 1.2."
 version: "1.0"
@@ -213,7 +213,7 @@ A shop that sells out of umbrellas on a rainy morning has a **shortage** of umbr
 - **"Land just means ground."** Land covers all natural resources: water, minerals, forests, fish.
 - **"A good with a price of zero is a free good."** A free school meal still uses scarce resources. A free good is one that uses no scarce resources at all, such as the air we breathe.
 - **"Entrepreneurship is the same as managing."** A manager may be paid a salary for organising work; that is labour. Entrepreneurship includes taking the risk of loss and trying new ideas.
-- **"Renewable resources are not scarce."** Fish, forests and solar panels are renewable, but at any moment there is a limited amount, and using them one way means not using them another way.
+- **"Renewable resources are not scarce."** Fish, forests and fresh water are renewable, but at any moment there is a limited amount, and using them one way means not using them another way.
 
 ## Where this leads
 
