@@ -135,7 +135,7 @@ A region inside both curves has the pole as one corner of each slice, so each pi
 <text x="480" y="214" font-size="12" fill="#1d2b44">θ = 0</text>
 <text x="76" y="90" font-size="12" fill="#1d2b44" text-anchor="end">circle r = 3</text><text x="76" y="105" font-size="12" fill="#1d2b44" text-anchor="end">(dashed)</text>
 <text x="30" y="375" font-size="12" fill="#1d2b44">cardioid r = 2 + 2 cos θ</text><text x="30" y="390" font-size="12" fill="#1d2b44">(solid)</text>
-<rect x="392" y="162" width="92" height="20" fill="#ffffff" stroke="#1d2b44" stroke-width="1"/><text x="438" y="176" font-size="12" fill="#1d2b44" text-anchor="middle">region ≈ 4.653</text>
+<rect x="440" y="118" width="92" height="20" fill="#ffffff" stroke="#1d2b44" stroke-width="1"/><text x="486" y="132" font-size="12" fill="#1d2b44" text-anchor="middle">region ≈ 4.653</text>
 <text x="12" y="20" font-size="12" fill="#1d2b44">pole at the centre of the axes</text>
 </svg>
 <figcaption>Figure 1. The hatched crescent is inside the cardioid (solid) and outside the circle (dashed). It runs from θ = −π/3 to θ = π/3, the angles where the two curves meet. On every ray in that range the cardioid is the outer curve.</figcaption>
@@ -182,12 +182,12 @@ A region inside both curves has the pole as one corner of each slice, so each pi
 <line x1="196" y1="150" x2="204" y2="150" stroke="#1d2b44"/><text x="192" y="154" font-size="12" fill="#1d2b44" text-anchor="end">3</text>
 <line x1="196" y1="90" x2="204" y2="90" stroke="#1d2b44"/><text x="192" y="94" font-size="12" fill="#1d2b44" text-anchor="end">4</text>
 <circle cx="299.7" cy="276.9" r="4" fill="#1d2b44"/><circle cx="200" cy="330" r="4" fill="#1d2b44"/>
-<text x="307.7" y="270.9" font-size="12" fill="#1d2b44">meet at θ = α ≈ 0.490, r ≈ 1.882</text>
+<text x="306" y="294" font-size="12" fill="#1d2b44">meet at θ = α ≈ 0.490, r ≈ 1.882</text>
 <text x="170" y="360" font-size="12" fill="#1d2b44" text-anchor="end">pole: the curves</text><text x="170" y="375" font-size="12" fill="#1d2b44" text-anchor="end">also meet here</text>
 <text x="278" y="114" font-size="12" fill="#1d2b44">circle r = 4 sin θ (dashed)</text>
 <text x="326" y="387" font-size="12" fill="#1d2b44">cardioid r = 1 + cos θ (solid)</text>
 <text x="383" y="225" font-size="12" fill="#1d2b44">dotted ray θ = α</text>
-<rect x="20" y="234" width="140" height="36" fill="#ffffff" stroke="#1d2b44" stroke-width="1"/><text x="90" y="249" font-size="12" fill="#1d2b44" text-anchor="middle">hatched region</text><text x="90" y="264" font-size="12" fill="#1d2b44" text-anchor="middle">inside both ≈ 1.713</text>
+<rect x="20" y="30" width="140" height="36" fill="#ffffff" stroke="#1d2b44" stroke-width="1"/><text x="90" y="45" font-size="12" fill="#1d2b44" text-anchor="middle">hatched region</text><text x="90" y="60" font-size="12" fill="#1d2b44" text-anchor="middle">inside both ≈ 1.713</text>
 </svg>
 <figcaption>Figure 2. The hatched region lies inside both curves. Below the dotted ray θ = α the circle (dashed) is the nearer curve to the pole; above it the cardioid (solid) is nearer. So the area splits into two single-curve integrals at θ = α.</figcaption>
 </figure>

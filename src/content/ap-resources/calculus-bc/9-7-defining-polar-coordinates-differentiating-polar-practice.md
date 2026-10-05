@@ -173,7 +173,7 @@ Total: 6 points. A reason in (a) that mentions only the sign of dr/dθ, without 
 An ant walks on a table along the polar curve r = θ + 2 cos θ for 0 ≤ θ ≤ π, where r is in centimetres and a sugar cube sits at the pole.
 
 (a) Find dr/dθ at θ = 2.5. Is the ant moving towards or away from the sugar cube at that moment? Give a reason.
-(b) Find dy/dx at θ = 2.5.
+(b) Find dy/dx at θ = 2.5. As θ increases through 2.5, is the ant's y-coordinate increasing or decreasing? Give a reason.
 (c) Find d²y/dx² at θ = 2.5. Is the path concave up or concave down there?
 (d) Without a calculator, find the greatest distance between the ant and the sugar cube for 0 ≤ θ ≤ π. Justify your answer.
 
@@ -182,7 +182,7 @@ An ant walks on a table along the polar curve r = θ + 2 cos θ for 0 ≤ θ ≤
 
 **(a)** dr/dθ = 1 − 2 sin θ. At θ = 2.5: dr/dθ ≈ **−0.197**. r(2.5) = 2.5 + 2 cos 2.5 ≈ 0.898 > 0. Since r > 0 and dr/dθ < 0, the ant is **moving towards** the sugar cube.
 
-**(b)** dx/dθ = r′ cos θ − r sin θ ≈ −0.379 and dy/dθ = r′ sin θ + r cos θ ≈ −0.837. So dy/dx ≈ (−0.837) ÷ (−0.379) ≈ **2.206**.
+**(b)** dx/dθ = r′ cos θ − r sin θ ≈ −0.379 and dy/dθ = r′ sin θ + r cos θ ≈ −0.837. So dy/dx ≈ (−0.837) ÷ (−0.379) ≈ **2.206**. Since dy/dθ < 0, the ant's y-coordinate is **decreasing** as θ increases through 2.5.
 
 **(c)** d²y/dx² = [d/dθ (dy/dx)] ÷ (dx/dθ) ≈ **10.155**. Positive, so the path is **concave up** at θ = 2.5.
 
@@ -202,11 +202,12 @@ The greatest distance is **π/6 + √3 cm (about 2.256 cm)**, at θ = π/6 (Cand
 | 1 | dr/dθ ≈ −0.197 |
 | 1 | "Towards", with the reason r > 0 and dr/dθ < 0 |
 | 1 | dy/dx ≈ 2.206 from (dy/dθ) ÷ (dx/dθ) |
+| 1 | y decreasing, with the reason dy/dθ ≈ −0.837 < 0 |
 | 1 | d²y/dx² ≈ 10.155 and "concave up" |
 | 1 | Critical values θ = π/6 and 5π/6 from dr/dθ = 0 |
 | 1 | Maximum π/6 + √3, justified by comparing values at the critical points and endpoints |
 
-Total: 6 points. Answers within 0.001 of these values are accepted. A common wrong answer to (b) is −0.197 (dr/dθ) or tan 2.5 ≈ −0.747 (the slope of the ray to the point); neither is the slope of the path. In (d), noting that r ≥ 0 on the interval (so distance equals r) is part of a complete justification.
+Total: 7 points. Answers within 0.001 of these values are accepted. A common wrong answer to (b) is −0.197 (dr/dθ) or tan 2.5 ≈ −0.747 (the slope of the ray to the point); neither is the slope of the path. In (d), noting that r ≥ 0 on the interval (so distance equals r) is part of a complete justification.
 </details>
 
 ## How did you do?

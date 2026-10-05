@@ -150,22 +150,22 @@ Condition 1 needs a reason, not just a few listed terms. Three common methods:
 2. **Use a derivative.** Write aₙ = f(n) for a function f defined for x ≥ 1. If f′(x) < 0 for x ≥ N, then f decreases there, so aₙ₊₁ ≤ aₙ for n ≥ N.
 3. **Use a ratio or difference.** Show aₙ₊₁/aₙ ≤ 1, or aₙ₊₁ − aₙ ≤ 0.
 
-**"From some point on" is enough.** Removing or changing finitely many terms changes the sum but not whether it converges. So if the terms rise at first and then decrease for good, the test still applies. State the value of n where the decrease begins.
+**"From some point on" is enough.** Removing or changing finitely many terms can change the sum, but not whether the series converges. So if the terms rise at first and then decrease for good, the test still applies. State the value of n where the decrease begins.
 
 ## Worked example 1: terms that decrease only eventually
 
-**Question.** Determine whether Σ from n = 1 to ∞ of (−1)ⁿ⁺¹ √n/(n + 4) converges. Justify your answer.
+**Question.** Determine whether Σ from n = 1 to ∞ of (−1)ⁿ⁺¹ √n/(n + 5) converges. Justify your answer.
 
-1. **Identify the form.** The series is alternating with aₙ = √n/(n + 4), and aₙ > 0 for every n ≥ 1.
-2. **Look at the first terms.** a₁ = 0.2, a₂ ≈ 0.236, a₃ ≈ 0.247, a₄ = 0.25, a₅ ≈ 0.249, a₆ ≈ 0.245. The terms **rise** until n = 4 and then fall. A list cannot prove the fall continues, so use a derivative.
-3. **Differentiate.** Let f(x) = √x/(x + 4) for x > 0. By the quotient rule,
-   **f′(x) = [(x + 4)/(2√x) − √x] / (x + 4)² = (4 − x) / [2√x (x + 4)²]**.
-   The denominator is positive, so f′(x) < 0 when x > 4. So f decreases on [4, ∞), and **aₙ₊₁ ≤ aₙ for all n ≥ 4**.
+1. **Identify the form.** The series is alternating with aₙ = √n/(n + 5), and aₙ > 0 for every n ≥ 1.
+2. **Look at the first terms.** a₁ ≈ 0.167, a₂ ≈ 0.202, a₃ ≈ 0.217, a₄ ≈ 0.222, a₅ ≈ 0.224, a₆ ≈ 0.223. The terms **rise** until n = 5 and then fall. A list cannot prove the fall continues, so use a derivative.
+3. **Differentiate.** Let f(x) = √x/(x + 5) for x > 0. By the quotient rule,
+   **f′(x) = [(x + 5)/(2√x) − √x] / (x + 5)² = (5 − x) / [2√x (x + 5)²]**.
+   The denominator is positive, so f′(x) < 0 when x > 5. So f decreases on [5, ∞), and **aₙ₊₁ ≤ aₙ for all n ≥ 5**.
 4. **Find the limit.** Divide the numerator and denominator by n:
-   **lim aₙ = lim (1/√n)/(1 + 4/n) = 0/1 = 0**.
-5. **Conclude.** For n ≥ 4 the terms aₙ are positive, decreasing and tend to 0. By the alternating series test, **the series converges**.
+   **lim aₙ = lim (1/√n)/(1 + 5/n) = 0/1 = 0**.
+5. **Conclude.** For n ≥ 5 the terms aₙ are positive, decreasing and tend to 0. By the alternating series test, **the series converges**.
 
-**Check the reasoning.** Without the sign factor, Σ √n/(n + 4) behaves like Σ 1/√n (a limit comparison gives a ratio limit of 1), and that p-series diverges. So the alternation is what makes this series converge. Topic 10.9 names this situation "conditional convergence".
+**Check the reasoning.** Without the sign factor, Σ √n/(n + 5) behaves like Σ 1/√n (a limit comparison gives a ratio limit of 1), and that p-series diverges. So the alternation is what makes this series converge. Topic 10.9 names this situation "conditional convergence".
 
 ## Worked example 2: when the test does and does not apply
 
@@ -202,7 +202,7 @@ Saying "the terms get smaller" with no reason, or skipping the conclusion, leave
 
 ## Common misconceptions
 
-- **"The terms go to 0, so it converges."** Both conditions matter. The series 1 − ¼ + ⅓ − 1/16 + ⅕ − 1/36 + … (aₙ = 1/n for odd n, 1/n² for even n) has terms that tend to 0 but do not decrease. It diverges: the positive terms add up like the harmonic series, while the negative terms add to a finite amount.
+- **"The terms go to 0, so it converges."** Both conditions matter. The series ½ − 1/9 + ¼ − 1/81 + 1/6 − 1/729 + … (aₙ = 1/(n + 1) for odd n, 1/3ⁿ for even n) has terms that tend to 0 but do not decrease. It diverges: the positive terms ½ + ¼ + 1/6 + … are half the harmonic series, while the negative terms add to only 1/8.
 - **"A condition failed, so the series diverges."** The alternating series test never proves divergence. Use the nth term test (or another test) to show divergence.
 - **"The terms must decrease from n = 1."** Decreasing from some point on is enough, as long as you say where it starts.
 - **"A few listed terms prove the terms decrease."** A list suggests a pattern. A derivative or an inequality proves it.

@@ -48,6 +48,6 @@ author: "marlbridge-academic-team"
 
 - I can write a conclusion that states L, compares it with 1 and names the ratio test. *(Guide: Worked examples 1 and 2; Practice Q5)*
 - I can recognise series where the ratio test will give L = 1 and choose a better test. *(Guide: "Choosing the ratio test"; Practice Q2, Q6(b), (c))*
-- I can explain why L > 1 means the terms cannot tend to 0. *(Guide: "Why each case holds"; Practice Q4)*
+- I can explain why L > 1 means the terms cannot tend to 0. *(Guide: "Why each case holds"; Practice Q7(c))*
 
 All ticked? Move on to Topic 10.9, the [absolute and conditional convergence study guide](/advanced-course-resources/calculus-bc/10-9-determining-absolute-conditional-convergence-study-guide/), or return to the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

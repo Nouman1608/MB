@@ -33,7 +33,7 @@ author: "marlbridge-academic-team"
 
 - I can explain what the polar point (r, θ) means, including when r is negative, and give two other polar names for the same point. *(Guide: "What polar coordinates are"; Practice Q1)*
 - I can explain why a polar curve r = f(θ) is a parametric curve with parameter θ. *(Guide: "A polar curve is a parametric curve")*
-- I can explain the difference between dr/dθ, dy/dθ and dy/dx, and why tan θ is not the slope of the curve. *(Guide: "Three derivatives, three meanings"; Practice Q3)*
+- I can explain the difference between dr/dθ, dy/dθ and dy/dx, and why tan θ is not the slope of the curve. *(Guide: "Three derivatives, three meanings"; Practice Q3, Q7(b))*
 
 ## Skills
 

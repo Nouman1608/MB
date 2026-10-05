@@ -40,7 +40,7 @@ author: "marlbridge-academic-team"
 - I can simplify dy/dx as a function of t before differentiating it again. *(Guide: Worked example 1; Practice Q5(a))*
 - I can find d²y/dx² in terms of t, using the quotient rule where needed. *(Practice Q2, Q5(b), Q7(b))*
 - I can evaluate d²y/dx² at a given t, including when only dx/dt and dy/dx are given. *(Practice Q1, Q3)*
-- I can find the values of t for which a parametric curve is concave up or concave down. *(Guide: Worked example 2(b); Practice Q5(c))*
+- I can find the values of t for which a parametric curve is concave up or concave down, including where dx/dt = 0. *(Guide: Worked examples 2(b) and 3(c); Practice Q5(c))*
 - I can set up d²y/dx² and evaluate it with a calculator when one is allowed. *(Practice Q6(b))*
 
 ## Reasoning

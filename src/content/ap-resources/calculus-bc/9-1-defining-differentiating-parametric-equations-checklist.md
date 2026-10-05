@@ -39,7 +39,7 @@ author: "marlbridge-academic-team"
 
 - I can find dy/dx as a function of t and evaluate it at a given t. *(Practice Q1, Q5(a), Q7(a))*
 - I can write the equation of a tangent line, taking the point and the slope from the same value of t. *(Guide: Worked example 1(b); Practice Q2, Q5(b))*
-- I can find the slope at a given point (x, y) by first finding the value of t, and rejecting values that do not fit both coordinates. *(Practice Q4, Q7(c))*
+- I can find the slope at a given point (x, y) by first finding the value of t, and rejecting values that do not fit both coordinates. *(Guide: Worked example 1(c); Practice Q4)*
 - I can find horizontal tangents (dy/dt = 0, dx/dt ≠ 0) and vertical tangents (dx/dt = 0, dy/dt ≠ 0). *(Guide: "Horizontal and vertical tangents"; Practice Q3, Q5(c), Q7(b))*
 - I can use a calculator to evaluate dy/dx or solve dy/dt = 0 when a calculator is allowed. *(Practice Q6)*
 

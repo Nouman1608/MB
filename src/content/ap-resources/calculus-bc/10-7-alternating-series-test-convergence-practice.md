@@ -77,7 +77,7 @@ Consider Σ from n = 1 to ∞ of (−1)ⁿ⁺¹ n/(n² + 10). The first terms of
 
 ## Question 3 (multiple choice · core)
 
-A series has terms 1 − 1/4 + 1/3 − 1/16 + 1/5 − 1/36 + …, so aₙ = 1/n when n is odd and aₙ = 1/n² when n is even. Which statement about the alternating series test is correct?
+A series has terms ½ − 1/8 + 1/6 − 1/64 + 1/10 − 1/216 + …, so aₙ = 1/(2n) when n is odd and aₙ = 1/n³ when n is even. Which statement about the alternating series test is correct?
 
 - (A) It shows that the series converges, because aₙ → 0.
 - (B) It shows that the series diverges, because aₙ does not decrease.
@@ -87,30 +87,30 @@ A series has terms 1 − 1/4 + 1/3 − 1/16 + 1/5 − 1/36 + …, so aₙ = 1/n 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** The terms do tend to 0, but they are not decreasing even eventually: for every even n, aₙ = 1/n² is smaller than aₙ₊₁ = 1/(n + 1). One condition fails, so the test gives no conclusion. (The series in fact diverges: the positive terms 1 + 1/3 + 1/5 + … grow without bound, while the negative terms add to a finite amount.)
+**Answer: (C).** The terms do tend to 0, but they are not decreasing even eventually: for every even n, aₙ = 1/n³ is smaller than aₙ₊₁ = 1/(2n + 2). One condition fails, so the test gives no conclusion. (The series in fact diverges: the positive terms ½(1 + ⅓ + ⅕ + …) grow without bound, while the negative terms form a convergent p-series with p = 3.)
 
 - (A) checks only the limit condition. Both conditions are needed.
 - (B) claims the test proves divergence. It never does.
-- (D) is false: 1/n → 0 and 1/n² → 0, so aₙ → 0.
+- (D) is false: 1/(2n) → 0 and 1/n³ → 0, so aₙ → 0.
 </details>
 
 ## Question 4 (multiple choice · stretch)
 
-For which real numbers p does the alternating series test show that Σ from n = 1 to ∞ of (−1)ⁿ/nᵖ converges?
+For which real numbers k does the alternating series test show that Σ from n = 1 to ∞ of (−1)ⁿ nᵏ/(n² + 1) converges?
 
-- (A) p > 1
-- (B) p ≥ 1
-- (C) p > 0
-- (D) all real p
+- (A) k < 1
+- (B) k < 2
+- (C) k ≤ 2
+- (D) all real k
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** For p > 0, aₙ = 1/nᵖ is positive, decreases (nᵖ increases with n), and tends to 0. So the test applies for every p > 0. For p = 0, aₙ = 1; for p < 0, aₙ = n^(|p|) grows. In both cases lim aₙ ≠ 0 and the series diverges by the nth term test.
+**Answer: (B).** Here aₙ = nᵏ/(n² + 1) > 0. Dividing top and bottom by n² gives aₙ = n^(k − 2)/(1 + 1/n²), which tends to 0 exactly when k < 2. For decreasing, let f(x) = xᵏ/(x² + 1). Then f′(x) = x^(k − 1)[(k − 2)x² + k]/(x² + 1)². When k < 2, the bracket (k − 2)x² + k is negative for all large x, so f decreases from some point on. Both conditions hold for every k < 2.
 
-- (A) is the condition for the p-series Σ 1/nᵖ (without signs) to converge. The alternation lets smaller p work too.
-- (B) is also a p-series idea, and it leaves out 0 < p < 1, such as p = ½.
-- (D) includes p ≤ 0, where the terms do not tend to 0.
+- (A) k < 1 is the condition for Σ nᵏ/(n² + 1) without signs to converge (limit comparison with a p-series, p = 2 − k > 1). It leaves out 1 ≤ k < 2, such as k = 1.
+- (C) includes k = 2, where aₙ = n²/(n² + 1) → 1. The series then diverges by the nth term test.
+- (D) includes k ≥ 2, where the terms do not tend to 0.
 </details>
 
 ## Question 5 (calculation · core)

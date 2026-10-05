@@ -219,7 +219,7 @@ Total: 6 points. Acceptable alternative for (c): the point written as (4/√3, 2
 
 - **Q1 or Q2 wrong:** check which derivative goes on top, and your signs for trig derivatives; see "Deriving dy/dx with the chain rule" in the [study guide](/advanced-course-resources/calculus-bc/9-1-defining-differentiating-parametric-equations-study-guide/).
 - **Q3 or Q5(c) wrong:** reread "Horizontal and vertical tangents", especially the both-zero case.
-- **Q4 or Q7(c) wrong:** practise finding t from a point first (Worked example 1, part (c)).
+- **Q4 or Q7(c) wrong:** practise finding the value of t first, from a given point or a given slope (Worked example 1, part (c)).
 - **Q6 wrong:** compare with Worked example 2, where dy/dx is interpreted separately from the direction of motion.
 
 Then tick off the [topic checklist](/advanced-course-resources/calculus-bc/9-1-defining-differentiating-parametric-equations-checklist/).

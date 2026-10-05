@@ -108,7 +108,7 @@ Write aₙ₊₁/aₙ as aₙ₊₁ × (1/aₙ), group the powers together and t
 <figure>
 <svg viewBox="0 0 560 330" role="img" aria-labelledby="ratio-title ratio-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="ratio-title">Ratios of consecutive terms of the series with terms (n² + 1)/3ⁿ approaching one third</title>
-<desc id="ratio-desc">Graph of the ratio aₙ₊₁/aₙ against n for n = 1 to 10. The ratios, drawn as filled squares, are about 0.833, 0.667, 0.567, 0.510, 0.474, 0.450, 0.433, 0.421, 0.411 and 0.403. They fall towards a dashed horizontal line at one third, labelled L. A solid horizontal line at 1 is labelled as the cut-off: below it the series converges, above it the series diverges. All ratios are below 1.</desc>
+<desc id="ratio-desc">Graph of the ratio aₙ₊₁/aₙ against n for n = 1 to 10. The ratios, drawn as filled squares, are about 0.833, 0.667, 0.567, 0.510, 0.474, 0.450, 0.433, 0.421, 0.411 and 0.403. They fall towards a dashed horizontal line at one third, labelled L. A solid horizontal line at 1 is labelled as the cut-off: a limit below it means the series converges, and a limit above it means the series diverges. All ratios shown are below 1.</desc>
 <rect x="0" y="0" width="560" height="330" fill="#ffffff"/>
 <line x1="60" y1="270" x2="545" y2="270" stroke="#1d2b44" stroke-width="1.5"/>
 <line x1="60" y1="280" x2="60" y2="30" stroke="#1d2b44" stroke-width="1.5"/>

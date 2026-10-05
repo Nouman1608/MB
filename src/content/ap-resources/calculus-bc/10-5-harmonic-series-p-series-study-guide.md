@@ -129,9 +129,9 @@ The graph shows the first 12 partial sums of three series. Look at how different
 <path d="M100 255 L105 264 L95 264 Z"/><path d="M140 228.3 L145 237.3 L135 237.3 Z"/><path d="M180 248.3 L185 257.3 L175 257.3 Z"/><path d="M220 232.3 L225 241.3 L215 241.3 Z"/><path d="M260 245.7 L265 254.7 L255 254.7 Z"/><path d="M300 234.2 L305 243.2 L295 243.2 Z"/><path d="M340 244.2 L345 253.2 L335 253.2 Z"/><path d="M380 235.3 L385 244.3 L375 244.3 Z"/><path d="M420 243.3 L425 252.3 L415 252.3 Z"/><path d="M460 236.1 L465 245.1 L455 245.1 Z"/><path d="M500 242.7 L505 251.7 L495 251.7 Z"/>
 </g>
 <circle cx="60" cy="220" r="4.5" fill="#1d2b44"/>
-<text x="330" y="60" font-size="12" fill="#1d2b44">○ harmonic ∑ 1/n: keeps rising</text>
+<text x="80" y="50" font-size="12" fill="#1d2b44">○ harmonic ∑ 1/n: keeps rising</text>
 <text x="300" y="160" font-size="12" fill="#1d2b44">■ ∑ 1/n²: levels off below π²/6 ≈ 1.645</text>
-<text x="230" y="285" font-size="12" fill="#1d2b44">▲ alternating harmonic: zigzags in on ln 2 ≈ 0.693</text>
+<text x="200" y="285" font-size="12" fill="#1d2b44">▲ alternating harmonic: zigzags in on ln 2 ≈ 0.693</text>
 </svg>
 <figcaption>Figure 1. Partial sums for n = 1 to 12. All three series start at S₁ = 1. The harmonic sums (circles) keep climbing; the sums of 1/n² (squares) level off under the dashed line at π²/6; the alternating harmonic sums (triangles, dotted line) zigzag towards the dashed line at ln 2. The two limit values are background facts, not something you need to find.</figcaption>
 </figure>

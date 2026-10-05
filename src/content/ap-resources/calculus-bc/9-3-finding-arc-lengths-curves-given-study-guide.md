@@ -128,6 +128,8 @@ Two conditions matter.
 - For 0 ≤ t ≤ 2π: ∫ from 0 to 2π of 2 dt = **4π**. That is the circumference 2π · 2. ✓
 - For 0 ≤ t ≤ 4π: the integral is **8π**, but the circle is still only 4π long. The point went round twice.
 
+**How to check "traced once".** The quickest proof is a component that is always increasing or always decreasing on the interval. That proof is enough, but it is not the only way. A curve can turn back and still be traced once, as long as the point never returns to a place it has already been. If neither component is monotonic, look at where the point is at different values of t, or sketch the curve with the values of t marked, before you call the integral a length.
+
 So read the question carefully. "Find the length of the curve" needs a parameter interval that traces it once. "Find the distance the point travels" (Topic 9.6) counts every lap.
 
 **Link to Topic 8.13.** If a curve is y = f(x), use x as the parameter: x = t, y = f(t). Then dx/dt = 1 and dy/dt = f′(t), and the formula becomes ∫ √(1 + (f′(x))²) dx. The parametric formula is the more general one.

@@ -147,7 +147,7 @@ Once you have d²y/dx², you read it exactly as for y = f(x):
 </g>
 <text x="528" y="160" font-size="14" fill="#1d2b44">x</text>
 <text x="136" y="24" font-size="14" fill="#1d2b44">y</text>
-<line x1="110" y1="135" x2="190" y2="219" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="7 4"/>
+<line x1="110" y1="135" x2="190" y2="219" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="3 4"/>
 <polyline fill="none" stroke="#1d2b44" stroke-width="2.5" stroke-dasharray="10 3" points="168.4,341.5 162.9,322.0 157.6,303.5 152.5,285.9 147.6,269.3 142.9,253.7 138.4,238.9 134.1,225.0 130.0,212.0 126.1,199.8 122.4,188.5 118.9,177.9 115.6,168.1 112.5,159.1 109.6,150.8 106.9,143.2 104.4,136.3 102.1,130.1 100.0,124.5 98.1,119.6 96.4,115.2 94.9,111.5 93.6,108.3 92.5,105.7 91.6,103.6 90.9,102.0 90.4,100.9 90.1,100.2 90.0,100.0"/>
 <polyline fill="none" stroke="#1d2b44" stroke-width="2.5" points="90.0,100.0 90.2,100.4 90.7,101.4 91.6,103.1 92.8,105.4 94.4,108.3 96.4,111.6 98.7,115.4 101.4,119.6 104.4,124.2 107.8,129.0 111.5,134.1 115.6,139.4 120.0,144.9 124.8,150.4 130.0,156.0 135.5,161.6 141.4,167.1 147.6,172.6 154.2,177.9 161.1,183.0 168.4,187.8 176.0,192.4 184.0,196.6 192.4,200.4 201.1,203.7 210.2,206.6 219.6,208.9 229.4,210.6 239.5,211.6 250.0,212.0 260.8,211.6 272.0,210.4 283.6,208.4 295.5,205.5 307.8,201.6 320.4,196.8 333.4,190.9 346.7,183.9 360.4,175.7 374.4,166.4 388.8,155.8 403.6,143.9 418.7,130.7 434.2,116.1 450.0,100.0 466.2,82.4 482.7,63.3 499.6,42.7"/>
 <line x1="122.4" y1="188.5" x2="112.5" y2="159.1" stroke="#1d2b44" stroke-width="2.5" marker-end="url(#arr92)"/>
@@ -196,6 +196,31 @@ Notice that d/dt (dy/dx) = 3/2 is positive for **all** t, yet the curve is conca
 - *Why "same part" matters:* x = 0.2 also occurs at t = −1 − √1.2 ≈ −2.095 on the concave-down part, where y ≈ −2.91. The tangent line at t = 0 says nothing about that point.
 - *Optional formula:* (x′y″ − y′x″)/(x′)³ = [2(t + 1) · 6t − 3(t² − 1) · 2] / [8(t + 1)³] = 6(t + 1)² / [8(t + 1)³] = 3/(4(t + 1)). ✓
 
+## Worked example 3: when you are given only dx/dt and dy/dt
+
+Many questions do not give x(t) and y(t) at all. They give only the two rates. That is enough, because the method never uses x or y themselves.
+
+**Question.** A curve has dx/dt = t² − 4 and dy/dt = 2t. Without a calculator:
+(a) find d²y/dx² in terms of t;
+(b) find d²y/dx² at t = 1 and state the concavity there;
+(c) find the intervals of t on which the curve is concave up and concave down.
+
+**(a) Follow the four steps.**
+
+1. dx/dt = t² − 4 and dy/dt = 2t are given.
+2. dy/dx = 2t/(t² − 4), for t ≠ ±2. Nothing cancels, so you need the quotient rule next.
+3. d/dt (dy/dx) = [2(t² − 4) − 2t · 2t] ÷ (t² − 4)² = (−2t² − 8)/(t² − 4)² = −2(t² + 4)/(t² − 4)².
+4. Divide by dx/dt = t² − 4: **d²y/dx² = −2(t² + 4)/(t² − 4)³**, for t ≠ ±2.
+
+**(b) At t = 1.** dx/dt = −3 and d/dt (dy/dx) = −2(5)/9 = −10/9. So d²y/dx² = (−10/9) ÷ (−3) = **10/27 > 0**, and the curve is **concave up** there. Notice the two negatives: dividing by a negative dx/dt flipped the sign.
+
+**(c) Sign analysis.** The numerator −2(t² + 4) is always negative. So the sign of d²y/dx² is the opposite of the sign of (t² − 4)³, which has the same sign as t² − 4.
+
+- For −2 < t < 2: t² − 4 < 0, so d²y/dx² > 0 and the curve is **concave up**.
+- For t < −2 or t > 2: t² − 4 > 0, so d²y/dx² < 0 and the curve is **concave down**.
+
+**Checks.** At t = 0, the formula gives −8/(−64) = 1/8 > 0 ✓, and at t = 3 it gives −26/125 < 0 ✓. At t = ±2, dx/dt = 0 but dy/dt = ±4 ≠ 0, so the tangent is vertical there (Topic 9.1) and d²y/dx² is not defined. The concavity changes at these points even though d²y/dx² is never zero. So when you look for changes in concavity on a parametric curve, check the values of t where dx/dt = 0 as well as where d²y/dx² = 0.
+
 ## Common misconceptions
 
 - **"d²y/dx² = (d²y/dt²) ÷ (d²x/dt²)."** This shortcut is wrong. It fails for x = 2t, y = t², and gives the wrong sign in Worked example 1.
@@ -203,7 +228,7 @@ Notice that d/dt (dy/dx) = 3/2 is positive for **all** t, yet the curve is conca
 - **Differentiating dy/dx with respect to x when it is written in t.** You cannot treat t as x. Differentiate with respect to t, then convert by dividing by dx/dt.
 - **Reading the concavity from d/dt (dy/dx).** When dx/dt < 0 its sign is the opposite of the concavity, as in Worked example 2.
 - **Not simplifying dy/dx first.** A messy quotient makes step 3 long and error-prone. Cancel common factors and use identities such as sin 2t = 2 sin t cos t.
-- **Ignoring where dx/dt = 0.** Neither dy/dx nor d²y/dx² is defined there by this method.
+- **Ignoring where dx/dt = 0.** Neither dy/dx nor d²y/dx² is defined there by this method, yet the concavity can change there, as in Worked example 3.
 - **Mixing up over and under.** Concave down means the tangent line is above the curve, so the estimate is too big.
 
 ## Where this leads

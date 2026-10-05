@@ -72,12 +72,12 @@ Every series comes with **two** sequences. Keep them apart.
 
 The series converges only if the **partial sums** settle down to a finite number. The terms settling down is a different question.
 
-Take aₙ = 3n/(4n + 1). The terms are 0.6, 0.667, 0.692, 0.706, … and they approach 3/4. So the sequence of terms converges. But each new term adds roughly 0.75 to the running total. The partial sums are 0.6, 1.267, 1.959, 2.665, …, and by n = 10 the total is already about 7.01. The totals keep climbing by about 0.75 each step, so they cannot settle down. The series diverges.
+Take aₙ = 3n/(4n + 1). The terms are 0.6, 0.667, 0.692, 0.706, … and they approach 3/4. So the sequence of terms converges. But each new term adds between 0.6 and 0.75 to the running total, and the amounts added get closer to 0.75. The partial sums are 0.6, 1.267, 1.959, 2.665, …, and by n = 10 the total is already about 7.01. The totals keep climbing by about 0.7 each step, so they cannot settle down. The series diverges.
 
 <figure>
 <svg viewBox="0 0 540 320" role="img" aria-labelledby="nterm-title nterm-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="nterm-title">Terms and partial sums of the series with aₙ = 3n/(4n + 1), for n = 1 to 10</title>
-<desc id="nterm-desc">Two sets of points plotted against n from 1 to 10, with a vertical scale from 0 to 8. The terms, drawn as open circles, stay close to the bottom of the graph: they start at 0.6 and creep up towards a dashed horizontal line at 0.75. The partial sums, drawn as filled squares joined by a line, rise steadily from 0.6 at n = 1 to about 7.01 at n = 10, climbing by roughly 0.75 at each step with no sign of levelling off.</desc>
+<desc id="nterm-desc">Two sets of points plotted against n from 1 to 10, with a vertical scale from 0 to 8. The terms, drawn as open circles, stay close to the bottom of the graph: they start at 0.6 and creep up towards a dashed horizontal line at 0.75. The partial sums, drawn as filled squares joined by a line, rise steadily from 0.6 at n = 1 to about 7.01 at n = 10, climbing by about 0.7 at each step (the steps approach 0.75) with no sign of levelling off.</desc>
 <rect x="0" y="0" width="540" height="320" fill="#ffffff"/>
 <line x1="70" y1="270" x2="525" y2="270" stroke="#1d2b44" stroke-width="1.5"/>
 <line x1="70" y1="285" x2="70" y2="40" stroke="#1d2b44" stroke-width="1.5"/>
@@ -109,7 +109,7 @@ Take aₙ = 3n/(4n + 1). The terms are 0.6, 0.667, 0.692, 0.706, … and they ap
 <circle cx="111" cy="88" r="4" fill="#ffffff" stroke="#1d2b44" stroke-width="1.5"/>
 <text x="124" y="92" font-size="12" fill="#1d2b44">terms aₙ (open circles)</text>
 </svg>
-<figcaption>Figure 1. For aₙ = 3n/(4n + 1), the terms (open circles) level off near 0.75, but the partial sums (filled squares) rise by about 0.75 each step. Terms that approach a non-zero number make the running total grow without bound. (At n = 1 the term and the partial sum are both 0.6, so only the square is visible.)</figcaption>
+<figcaption>Figure 1. For aₙ = 3n/(4n + 1), the terms (open circles) level off near 0.75, but the partial sums (filled squares) rise by about 0.7 each step, and the steps approach 0.75. Terms that approach a non-zero number make the running total grow without bound. (At n = 1 the term and the partial sum are both 0.6, so only the square is visible.)</figcaption>
 </figure>
 
 ## Why the terms of a convergent series must go to 0
@@ -161,7 +161,7 @@ A complete justification looks like this: "lim (n → ∞) of 3n/(4n + 1) = 3/4 
 
 **(b)** Look at the size first: n/(3n + 2) → 1/3. The sign factor (−1)ⁿ flips the sign every step. The terms are −1/5, 1/4, −3/11, 2/7, −5/17, 3/10, …. The odd terms approach −1/3 and the even terms approach +1/3. The terms do not approach a single number, so **lim aₙ does not exist**. In particular it is not 0, so the series **diverges** by the nth term test.
 
-**(c)** 7/(2n + 5) → 0, because the denominator grows without bound. The limit is 0, so the nth term test gives **no conclusion**. Do not write "converges". (This series does in fact diverge, but you will need the integral test from Topic 10.4 to show it.)
+**(c)** 7/(2n + 5) → 0, because the denominator grows without bound. The limit is 0, so the nth term test gives **no conclusion**. Do not write "converges". (This series does in fact diverge, but you need a different test to show it, such as the integral test in Topic 10.4.)
 
 **(d)** This is geometric with r = 1.02 > 1. The terms (1.02)ⁿ grow without bound, so lim aₙ = ∞ ≠ 0. The series **diverges** by the nth term test. (The geometric rule from Topic 10.2 gives the same answer, since |r| ≥ 1.)
 

@@ -173,7 +173,7 @@ At t = 0 its velocity is ⟨8, 9⟩ m/s and its position is (2, 1). Find v(t), r
 <figure>
 <svg viewBox="0 0 570 330" role="img" aria-labelledby="path95-title path95-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="path95-title">Path of the model car, r(t) = ⟨8t − t² + 2, t³ − 6t² + 9t + 1⟩, for 0 ≤ t ≤ 4</title>
-<desc id="path95-desc">Axes show x in metres from 0 to 20 and y in metres from 0 to 6. A solid curve starts at (2, 1) when t = 0, rises to (9, 5) at t = 1, falls through (14, 3) at t = 2 to (17, 1) at t = 3, then turns sharply upward to end at (18, 5) at t = 4. Each of these five points is marked with a filled circle and labelled with its t value. A short solid arrow at (14, 3) points down and to the right, showing the velocity direction ⟨4, −3⟩ at t = 2. A dashed arrow goes straight from the start point (2, 1) to the end point (18, 5), labelled as the net change ⟨16, 4⟩.</desc>
+<desc id="path95-desc">Axes show x in metres from 0 to 20 and y in metres from 0 to 6. A solid curve starts at (2, 1) when t = 0, rises to (9, 5) at t = 1, falls through (14, 3) at t = 2 to (17, 1) at t = 3, then turns sharply upward to end at (18, 5) at t = 4. Each of these five points is marked with a filled circle and labelled with its t value. A short solid arrow at (14, 3) points down and to the right along the curve, showing the direction of the velocity ⟨4, −3⟩ at t = 2. A dashed arrow goes straight from the start point (2, 1) to the end point (18, 5), labelled as the net change ⟨16, 4⟩.</desc>
 <rect x="0" y="0" width="570" height="330" fill="#ffffff"/>
 <line x1="60" y1="280" x2="555" y2="280" stroke="#1d2b44" stroke-width="1.5"/>
 <line x1="60" y1="290" x2="60" y2="25" stroke="#1d2b44" stroke-width="1.5"/>
@@ -189,8 +189,8 @@ At t = 0 its velocity is ⟨8, 9⟩ m/s and its position is (2, 1). Find v(t), r
 <text x="52" y="204">2</text><text x="52" y="124">4</text><text x="52" y="44">6</text>
 </g>
 <text x="20" y="160" font-size="13" fill="#1d2b44" text-anchor="middle" transform="rotate(-90 20 160)">y (metres north)</text>
-<line x1="108" y1="240" x2="484" y2="88" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="7 5"/>
-<polygon points="492,80 478,83 485,93" fill="#1d2b44"/>
+<line x1="108" y1="240" x2="483.7" y2="83.5" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="7 5"/>
+<polygon points="492,80 481.9,89.6 478.1,80.4" fill="#1d2b44"/>
 <text x="182" y="236" font-size="12" fill="#1d2b44" transform="rotate(-22 182 236)">net change ⟨16, 4⟩ (dashed)</text>
 <polyline fill="none" stroke="#1d2b44" stroke-width="2.5" points="108.0,240.0 117.5,222.6 127.0,206.4 136.3,191.3 145.4,177.3 154.5,164.4 163.4,152.5 172.3,141.7 181.0,131.8 189.5,123.0 198.0,115.0 206.3,107.9 214.6,101.8 222.7,96.4 230.6,91.9 238.5,88.1 246.2,85.1 253.9,82.8 261.4,81.2 268.7,80.3 276.0,80.0 283.1,80.3 290.2,81.2 297.1,82.6 303.8,84.5 310.5,86.9 317.0,89.7 323.5,93.0 329.8,96.6 335.9,100.7 342.0,105.0 347.9,109.6 353.8,114.6 359.5,119.7 365.0,125.1 370.5,130.6 375.8,136.3 381.1,142.1 386.2,148.0 391.1,154.0 396.0,160.0 400.7,166.0 405.4,172.0 409.9,177.9 414.2,183.7 418.5,189.4 422.6,194.9 426.7,200.3 430.6,205.4 434.3,210.4 438.0,215.0 441.5,219.3 445.0,223.4 448.3,227.0 451.4,230.3 454.5,233.1 457.4,235.5 460.3,237.4 463.0,238.8 465.5,239.7 468.0,240.0 470.3,239.7 472.6,238.8 474.7,237.2 476.6,234.9 478.5,231.9 480.2,228.1 481.9,223.6 483.4,218.2 484.7,212.1 486.0,205.0 487.1,197.0 488.2,188.2 489.1,178.3 489.8,167.5 490.5,155.6 491.0,142.7 491.5,128.7 491.8,113.6 491.9,97.4 492.0,80.0"/>
 <g fill="#1d2b44">
@@ -199,11 +199,11 @@ At t = 0 its velocity is ⟨8, 9⟩ m/s and its position is (2, 1). Find v(t), r
 <g font-size="12" fill="#1d2b44">
 <text x="96" y="262">t = 0 (2, 1)</text><text x="250" y="66">t = 1 (9, 5)</text><text x="404" y="148">t = 2 (14, 3)</text><text x="440" y="262">t = 3 (17, 1)</text><text x="486" y="66" text-anchor="end">t = 4 (18, 5)</text>
 </g>
-<line x1="396" y1="160" x2="438" y2="191.5" stroke="#1d2b44" stroke-width="2.5"/>
-<polygon points="446,197.5 432,194 438,186" fill="#1d2b44"/>
+<line x1="396" y1="160" x2="428.5" y2="200.6" stroke="#1d2b44" stroke-width="2.5"/>
+<polygon points="434.7,208.4 423.3,202.2 431.1,195.9" fill="#1d2b44"/>
 <text x="320" y="212" font-size="12" fill="#1d2b44">v(2) = ⟨4, −3⟩</text>
 </svg>
-<figcaption>Figure 1. The car's path from Worked example 2, with its position marked at each whole second. The solid curve is the actual path; the dashed arrow is the net change r(4) − r(0) = ⟨16, 4⟩, which equals ∫ from 0 to 4 of v(t) dt. The short solid arrow at t = 2 shows the direction of the velocity ⟨4, −3⟩. The two axes use different scales.</figcaption>
+<figcaption>Figure 1. The car's path from Worked example 2, with its position marked at each whole second. The solid curve is the actual path; the dashed arrow is the net change r(4) − r(0) = ⟨16, 4⟩, which equals ∫ from 0 to 4 of v(t) dt. The short solid arrow at t = 2 shows the direction of the velocity ⟨4, −3⟩; it is tangent to the path. The two axes use different scales, so the arrow looks steeper than a 4-across, 3-down slope would on square axes.</figcaption>
 </figure>
 
 **Interpretation.** Integrating velocity tells you only how far the car's coordinates change. The starting position (2, 1) fixes where the path sits on the test area. Notice in Figure 1 that the dashed net-change arrow is much shorter than the curved path: the net change is not the distance travelled. That distinction is the subject of Topic 9.6.

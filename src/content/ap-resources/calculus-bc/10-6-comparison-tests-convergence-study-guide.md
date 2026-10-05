@@ -89,7 +89,7 @@ The other two directions are useless. A series that is **smaller than a divergen
 <figure>
 <svg viewBox="0 0 560 300" role="img" aria-labelledby="dct106-title dct106-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="dct106-title">The four cases of the direct comparison test</title>
-<desc id="dct106-desc">A two by two grid. Columns: your series is smaller (0 ≤ aₙ ≤ bₙ), or your series is bigger (aₙ ≥ bₙ ≥ 0). Rows: the benchmark series converges, or the benchmark series diverges. Top left, smaller than a convergent benchmark: conclusion, the series converges. Bottom right, bigger than a divergent benchmark: conclusion, the series diverges. The other two cells, top right and bottom left, are hatched and say no conclusion, try another comparison.</desc>
+<desc id="dct106-desc">A two by two grid. Columns: your series is smaller (0 ≤ aₙ ≤ bₙ), or your series is bigger (aₙ ≥ bₙ ≥ 0). Rows: the benchmark series converges, or the benchmark series diverges. Top left, smaller than a convergent benchmark: conclusion, the series converges. Bottom right, bigger than a divergent benchmark: conclusion, the series diverges. The other two cells, top right and bottom left, are hatched and say no conclusion, try another test.</desc>
 <defs><pattern id="hatch106" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="8" fill="#fdf6e3"/><line x1="0" y1="0" x2="0" y2="8" stroke="#1d2b44" stroke-width="0.8"/></pattern></defs>
 <rect x="0" y="0" width="560" height="300" fill="#ffffff"/>
 <g font-size="13" fill="#1d2b44" text-anchor="middle">
@@ -164,7 +164,7 @@ Direct comparison needs an inequality in the right direction, and sometimes the 
 
 Then ∑ aₙ and ∑ bₙ **both converge or both diverge**.
 
-**Why it works.** If aₙ/bₙ → L > 0, then eventually aₙ/bₙ is between L/2 and 3L/2. So (L/2)·bₙ < aₙ < (3L/2)·bₙ. Each inequality gives a direct comparison: the right one shows aₙ converges if bₙ does, and the left one shows aₙ diverges if bₙ does.
+**Why it works.** If aₙ/bₙ → L > 0, then eventually aₙ/bₙ is between L/2 and 3L/2. So (L/2)·bₙ < aₙ < (3L/2)·bₙ. Each inequality gives a direct comparison: the right one shows ∑ aₙ converges if ∑ bₙ does, and the left one shows ∑ aₙ diverges if ∑ bₙ does.
 
 **Choosing bₙ.** Keep only the term that grows fastest in the numerator and the one that grows fastest in the denominator, and drop constant multiples.
 
@@ -213,7 +213,7 @@ Here direct comparison is the natural choice: the inequality points the right wa
 
 ## Writing a complete justification
 
-Exam answers in this unit are judged on whether the conditions of a test are checked. For a comparison test, write down:
+In this unit a decision without the conditions of the test checked is not a full justification. For a comparison test, write down:
 
 1. That the terms are **positive** (for every n, or from some N on).
 2. The **benchmark** series and why it converges or diverges (p-series with the value of p, or geometric with the ratio).

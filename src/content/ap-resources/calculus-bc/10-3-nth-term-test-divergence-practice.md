@@ -166,7 +166,7 @@ For a constant c, let aₙ = (c n² + 4n)/(5n² + 1).
 | 1 | States that the nth term test is inconclusive when the limit is 0, so it cannot prove convergence |
 | 1 | Limit −1 and conclusion "diverges" for c = −5 |
 
-Total: 5 points. A part (a) or (d) answer that gives only "diverges" with no limit stated earns at most 1 of the points for that part.
+Total: 5 points. An answer of "diverges" with no limit stated earns at most 1 of the 2 points in part (a), and no point in part (d).
 </details>
 
 ## Question 7 (constructed response · stretch)

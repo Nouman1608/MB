@@ -67,7 +67,7 @@ Short on time? This page is the recap. For the partial-sums graph and full worke
 1. **Checking only one condition.** You need both, stated separately.
 2. **"Diverges by the alternating series test."** Impossible: use the nth term test.
 3. **Proving "decreasing" from a short list of terms.** Give an inequality or a derivative.
-4. **Missing the early rise.** Terms such as √n/(n + 4) rise before they fall; state where the fall starts.
+4. **Missing the early rise.** Terms such as √n/(n + 5) rise before they fall; state where the fall starts.
 5. **Forgetting to conclude.** End with "converges by the alternating series test".
 
 ## Quick self-check

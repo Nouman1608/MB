@@ -41,7 +41,7 @@ author: "marlbridge-academic-team"
 - I can show that aₙ decreases by comparing aₙ₊₁ with aₙ directly. *(Guide: "Showing that the terms decrease"; Practice Q5)*
 - I can show that aₙ decreases from some n on by using the sign of a derivative. *(Guide: Worked example 1; Practice Q2, Q6(c), Q7(a))*
 - I can find lim aₙ, using L'Hospital's Rule when it is needed. *(Guide: Worked example 2(b); Practice Q6(c), Q7(b))*
-- I can find the values of p for which Σ (−1)ⁿ/nᵖ converges by the test. *(Practice Q4)*
+- I can find the values of a constant k for which the test applies, as in Σ (−1)ⁿ nᵏ/(n² + 1). *(Practice Q4)*
 
 ## Reasoning
 

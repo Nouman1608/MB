@@ -56,7 +56,7 @@ Short on time? This page is the recap. For the rectangle diagram and worked exam
 
 1. Claiming the sum equals the integral.
 2. Leaving out the conditions, or not showing *why* f is decreasing.
-3. Requiring "decreasing" from n = 1 when it only starts later; or ignoring a function that is never decreasing, such as (2 + cos x)/x².
+3. Requiring "decreasing" from n = 1 when it only starts later; or applying the test to a function that is never decreasing on any [N, ∞), such as (2 + cos x)/x².
 4. Using the test on terms that change sign.
 5. Writing an antiderivative but no limit as b → ∞.
 6. Arguing "f(x) → 0, so the integral converges".
