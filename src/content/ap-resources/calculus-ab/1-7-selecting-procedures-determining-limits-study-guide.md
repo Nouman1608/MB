@@ -116,7 +116,7 @@ For a formula with no split (or for each piece), try direct substitution. The re
 <figure>
 <svg viewBox="0 0 640 450" role="img" aria-labelledby="pick-title pick-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="pick-title">Flowchart for selecting a procedure to find a limit</title>
-<desc id="pick-desc">A flowchart. The top box asks "What are you given?". One arrow, labelled graph or table, leads to a box saying: estimate from each side, Topics 1.3 and 1.4. A second arrow, labelled formula, leads to a box asking "Split at x = a? Piecewise rule or |x − a|". From there, an arrow labelled yes leads to a box saying: find each one-sided limit, then use the steps below on each piece. An arrow labelled no leads to a box saying "Substitute x = a". From the substitute box, three arrows lead to three result boxes. Box 1: a number with a nonzero bottom, so that is the limit. Box 2: nonzero over 0, so there is no finite limit; check the sign on each side to decide between plus infinity, minus infinity or does not exist. Box 3: 0 over 0, so rewrite by factoring, conjugate, combining fractions or an identity, then substitute again. An arrow labelled "still stuck?" leads from box 3 to a final box: a bounded oscillating factor such as cos(1/x) suggests the squeeze theorem, Topic 1.8.</desc>
+<desc id="pick-desc">A flowchart. The top box asks "What are you given?". One arrow, labelled graph or table, leads to a box saying: estimate from each side, Topics 1.3 and 1.4. A second arrow, labelled formula, leads to a box asking "Split at x = a? Piecewise rule or |x − a|". From there, an arrow labelled yes leads to a box saying: find each one-sided limit, using the steps below on each piece. An arrow labelled no leads to a box saying "Substitute x = a". From the substitute box, three arrows lead to three result boxes. Box 1: a number with a nonzero bottom, so that is the limit. Box 2: nonzero over 0, so there is no finite limit; check the sign on each side to decide between plus infinity, minus infinity or does not exist. Box 3: 0 over 0, so rewrite by factoring, conjugate, combining fractions or an identity, then substitute again. An arrow labelled "still stuck?" leads from box 3 to a final box: a bounded oscillating factor such as cos(1/x) suggests the squeeze theorem, Topic 1.8.</desc>
 <defs><marker id="pick-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1d2b44"/></marker></defs>
 <rect x="0" y="0" width="640" height="450" fill="#ffffff"/>
 <g stroke="#1d2b44" stroke-width="1.5" fill="#ffffff">
@@ -129,18 +129,18 @@ For a formula with no split (or for each piece), try direct substitution. The re
 <g stroke="#1d2b44" stroke-width="1.5" fill="#fdf6e3">
 <rect x="20" y="255" width="185" height="70" rx="6"/>
 <rect x="225" y="255" width="190" height="90" rx="6"/>
-<rect x="435" y="255" width="185" height="90" rx="6"/>
+<rect x="425" y="255" width="205" height="90" rx="6"/>
 <rect x="300" y="380" width="320" height="56" rx="6" stroke-dasharray="6 4"/>
 </g>
 <g font-size="13" fill="#1d2b44" text-anchor="middle">
 <text x="320" y="35" font-weight="bold">What are you given?</text>
 <text x="115" y="108" font-weight="bold">Graph or table</text>
-<text x="115" y="127" font-size="12">Estimate from each side (1.3, 1.4)</text>
+<text x="115" y="127" font-size="12">Estimate each side (1.3, 1.4)</text>
 <text x="460" y="104" font-weight="bold">Formula: is there a split at x = a?</text>
 <text x="460" y="121" font-size="12">(piecewise rule, or |x − a|)</text>
 <text x="325" y="190" font-weight="bold">Substitute x = a</text>
 <text x="525" y="183" font-weight="bold">Find each one-sided limit</text>
-<text x="525" y="201" font-size="12">then use the steps below on each piece</text>
+<text x="525" y="201" font-size="12">using the steps below</text>
 <text x="112" y="278" font-weight="bold">1. A number</text>
 <text x="112" y="296" font-size="12">(bottom not 0)</text>
 <text x="112" y="314" font-size="12">That is the limit. Stop.</text>

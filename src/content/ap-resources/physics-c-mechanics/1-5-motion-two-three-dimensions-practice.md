@@ -54,7 +54,7 @@ Take **+x east and +y north** on a sheet of frictionless ice. A puck slides east
 
 - (B) assumes the push replaces the original motion. Nothing acts along x, so v_x never falls to zero.
 - (C) assumes the two components share a fixed speed. They are independent: v_x stays 3.0 m/s while v_y grows, so the speed rises.
-- (D) would be true only if the puck started from rest. Here v_x is constant and v_y grows, so the direction keeps changing.
+- (D) would need the velocity and the acceleration to point the same way. Here the puck starts moving east and the acceleration is north, so v_y grows while v_x stays fixed and the direction keeps turning toward north.
 </details>
 
 ## Question 2 (multiple choice · core)

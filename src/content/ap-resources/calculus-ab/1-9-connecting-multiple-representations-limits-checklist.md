@@ -41,7 +41,7 @@ Work through the list without notes or a calculator. If you cannot do a statemen
 - I can estimate a limit from a table by following the trend from each side. *(Guide: "Reading a table"; Practice Q2, Q6(a))*
 - I can find one-sided limits of a piecewise formula and choose a constant that makes the limit exist. *(Guide: Worked example 3; Practice Q5, Q7)*
 - I can translate between a sentence and limit notation, in both directions. *(Guide: "Reading a formula and reading words"; Practice Q7(c))*
-- I can find limits of sums and products when one function is a graph and the other is a table or a formula. *(Guide: Worked example 1(c); Practice Q6(b), Q6(c))*
+- I can find limits of sums, differences, products and quotients when one function is a graph and the other is a table or a formula, and I check that a bottom limit is not 0 before dividing. *(Guide: Worked example 1(c), Worked example 2(c); Practice Q6(b), Q6(c))*
 
 ## Reasoning
 

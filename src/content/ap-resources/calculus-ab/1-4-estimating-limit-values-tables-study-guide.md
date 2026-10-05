@@ -172,7 +172,7 @@ On a calculator section you may need to make your own table. A reliable recipe:
 
 **Answer.** lim (x → 2) f(x) ≈ **9.9** from the given table, or ≈ **9.89** after adding x = 1.9999 and x = 2.0001.
 
-**Interpretation.** The graph of f has a hole at x = 2, at a height of about 9.89. (Background only: in Unit 2 you will be able to show that the exact value is 9 ln 3 ≈ 9.8875. This topic only asks for estimates.)
+**Interpretation.** The graph of f has a hole at x = 2, at a height of about 9.89. (Background only: once you can differentiate exponential functions, later in the course, you will be able to show that the exact value is 9 ln 3 ≈ 9.8875. This topic only asks for estimates.)
 
 ## Worked example 2: two sides that disagree
 

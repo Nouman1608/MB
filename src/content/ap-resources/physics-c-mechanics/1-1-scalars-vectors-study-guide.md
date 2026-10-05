@@ -72,7 +72,7 @@ You can draw any vector as an **arrow**:
 
 Two vectors are **equal** if they have the same magnitude and the same direction, wherever they are drawn. So you may slide an arrow around the page, as long as you do not turn it or stretch it. That is what makes the **tip-to-tail** method work: to add B to A, draw A, then draw B starting at the tip of A. The **resultant** R = A + B runs from the tail of A to the tip of B (see Figure 1).
 
-The vector −A has the same magnitude as A and points the opposite way. Subtracting a vector means adding its negative: A − B = A + (−B). Multiplying a vector by a positive scalar changes its length but not its direction; multiplying by a negative scalar also reverses it.
+The vector −A has the same magnitude as A and points the opposite way. Subtracting a vector means adding its negative: A − B = A + (−B). Multiplying a vector by a positive scalar scales its length but keeps its direction; multiplying by a negative scalar also reverses it.
 
 ## One dimension: the sign is the direction
 
@@ -139,7 +139,7 @@ The largest resultant comes when the vectors point the same way; the smallest wh
 <figure>
 <svg viewBox="0 0 560 340" role="img" aria-labelledby="pcm11-add-title pcm11-add-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="pcm11-add-title">Tip-to-tail addition of two displacement vectors with the resultant and its components</title>
-<desc id="pcm11-add-desc">Axes with +x to the east (right) and +y to the north (up), origin at the lower left. Vector A, 120 m long, starts at the origin and points 30.0 degrees north of east. Vector B, 90.0 m long, starts at the tip of A and points 20.0 degrees west of north, measured from a dashed north line drawn at the tip of A. The thick resultant R runs from the origin to the tip of B, 162 m long at 63.2 degrees north of east. Dashed lines show the components of R: 73.1 m along x and 144.6 m along y. A scale bar shows 50 m.</desc>
+<desc id="pcm11-add-desc">Axes with +x to the east (right) and +y to the north (up), origin at the lower left. Vector A, 120 m long, starts at the origin and points 30.0 degrees north of east. Vector B, 90.0 m long, starts at the tip of A and points 20.0 degrees west of north, measured from a dashed north line drawn at the tip of A. The thick resultant R runs from the origin to the tip of B, 162 m long at 63.2 degrees north of east. A dashed vertical line shows the y-component of R, 144.6 m; the x-component of R, 73.1 m, lies along the x-axis from the origin. A scale bar shows 50 m.</desc>
 <defs>
 <marker id="pcm11-head" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#1d2b44"/></marker>
 </defs>
@@ -171,13 +171,13 @@ The largest resultant comes when the vectors point the same way; the smallest wh
 <text x="360" y="120">Key</text>
 <text x="360" y="140">thin arrows: A and B, tip to tail</text>
 <text x="360" y="158">thick arrow: resultant R = A + B</text>
-<text x="360" y="176">dashed lines: components of R</text>
+<text x="360" y="176">dashed line: R_y; R_x on x-axis</text>
 <path d="M360 210 H435" stroke="#1d2b44" stroke-width="2"/>
 <path d="M360 204 V216 M435 204 V216" stroke="#1d2b44" stroke-width="2"/>
 <text x="360" y="232">scale: 50 m</text>
 </g>
 </svg>
-<figcaption>Figure 1. Tip-to-tail addition for Worked example 1, drawn to scale with +x east and +y north. The resultant R runs from the tail of A to the tip of B. Its dashed components, 73.1 m and 144.6 m, are the sums of the components of A and B.</figcaption>
+<figcaption>Figure 1. Tip-to-tail addition for Worked example 1, drawn to scale with +x east and +y north. The resultant R runs from the tail of A to the tip of B. Its components, 73.1 m along the x-axis and 144.6 m (dashed), are the sums of the components of A and B.</figcaption>
 </figure>
 
 ## Worked example 1: adding two displacements in a plane

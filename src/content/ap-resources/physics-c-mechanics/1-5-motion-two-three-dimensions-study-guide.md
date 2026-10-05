@@ -36,7 +36,7 @@ faqs:
   - question: "How is this different from the Physics 1 version of Topic 1.5?"
     answer: "They are separate courses. Physics 1 is algebra-based and works with constant accelerations and trigonometry. Physics C: Mechanics writes motion as vector functions, uses derivatives and integrals for each component, and expects you to handle an acceleration that changes with time in one direction."
   - question: "Do I need to calculate motion in three dimensions?"
-    answer: "No. In this course the calculations stay in two dimensions. The same component method works with a third axis, z, and you should be able to say so, but numerical problems use two axes."
+    answer: "No. This course only asks you to analyse motion in two dimensions. The same component method works with a third axis, z, but treat that as background: describing three-dimensional motion belongs to the electricity and magnetism course."
   - question: "Is the speed zero at the top of a projectile's path?"
     answer: "No. Only v_y is zero there. The horizontal component is unchanged, so the speed at the top equals v_x0, and the acceleration is still g downward."
 version: "1.0"
@@ -70,7 +70,7 @@ Because the unit vectors i and j do not change, you differentiate (or integrate)
 
 To report a vector as a size and a direction, use Topic 1.1: speed **|v| = √(v_x² + v_y²)**, and the angle from tan θ = v_y / v_x, checked against a sketch so you pick the right quadrant. The velocity vector is always **tangent to the path**. The acceleration vector need not be.
 
-**Three dimensions.** Add a third axis: r = x i + y j + z k, with a third set of component equations. The method does not change. In this course you are expected to **describe** three-dimensional motion this way, but numerical work stays in **two dimensions**.
+**Three dimensions (background).** Add a third axis: r = x i + y j + z k, with a third set of component equations. The method does not change. This course only asks you to analyse motion in **two dimensions**, with numbers; describing motion in three dimensions is expected in the electricity and magnetism course, not here.
 
 ## One motion, two one-dimensional problems
 
@@ -209,9 +209,10 @@ Use this formula **only** when launch and landing heights are equal. It shows so
 <circle cx="420" cy="135" r="4" fill="#1d2b44"/>
 <circle cx="420" cy="270" r="4" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
 <g font-size="12" fill="#1d2b44">
-<text x="300" y="150">solid curve: v_x = 0.30t² (east)</text>
-<text x="90" y="222">dashed line: v_y = 2.0 − 0.40t (north)</text>
-<text x="428" y="130">7.5 m/s at 5.0 s</text>
+<text x="130" y="110">solid curve: v_x = 0.30t² (east)</text>
+<text x="78" y="206">dashed line:</text>
+<text x="78" y="221">v_y = 2.0 − 0.40t (north)</text>
+<text x="412" y="128" text-anchor="end">7.5 m/s at 5.0 s</text>
 <text x="428" y="258">v_y = 0 at 5.0 s</text>
 </g>
 </svg>

@@ -162,9 +162,9 @@ Two rules describe the structure:
 <text x="490" y="30" text-anchor="middle" font-size="14" font-weight="600" fill="#1d2b44">3′ end</text>
 <text x="490" y="406" text-anchor="middle" font-size="14" font-weight="600" fill="#1d2b44">5′ end</text>
 <line x1="95" y1="70" x2="95" y2="330" stroke="#1d2b44" stroke-width="2" marker-end="url(#ds-arrow)"/>
-<text x="80" y="200" text-anchor="middle" font-size="13" fill="#1d2b44" transform="rotate(-90 80 200)">5′ → 3′ (reads down)</text>
+<text x="76" y="200" text-anchor="middle" font-size="13" fill="#1d2b44" transform="rotate(90 76 200)">5′ → 3′ (reads down)</text>
 <line x1="545" y1="350" x2="545" y2="90" stroke="#1d2b44" stroke-width="2" marker-end="url(#ds-arrow)"/>
-<text x="562" y="220" text-anchor="middle" font-size="13" fill="#1d2b44" transform="rotate(90 562 220)">5′ → 3′ (reads up)</text>
+<text x="566" y="220" text-anchor="middle" font-size="13" fill="#1d2b44" transform="rotate(-90 566 220)">5′ → 3′ (reads up)</text>
 <text x="320" y="410" text-anchor="middle" font-size="12" fill="#1d2b44">Dashed lines: hydrogen bonds</text>
 </svg>
 <figcaption>Figure 2. Four base pairs of DNA, untwisted so you can see them. S = sugar (deoxyribose), P = phosphate. Solid lines are covalent bonds; dashed lines are hydrogen bonds (two in each A–T pair, three in each C–G pair). The arrows show that the strands run in opposite directions.</figcaption>

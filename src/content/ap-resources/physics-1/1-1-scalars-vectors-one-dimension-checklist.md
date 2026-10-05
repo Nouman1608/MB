@@ -32,7 +32,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can explain the difference between a scalar and a vector, and use the "which way?" test on a new quantity. *(Guide: "Two kinds of quantity"; Practice Q1)*
 - I can name distance and speed as scalars, and position, displacement, velocity and acceleration as vectors. *(Guide: "Two kinds of quantity"; Practice Q1)*
 - I can explain why two objects with the same speed can have different velocities. *(Guide: "Comparing vectors"; Practice Q5)*
-- I can explain what the sign of a component means, and why it has no meaning until an axis is stated. *(Guide: "Choosing an axis"; every practice question)*
+- I can explain what the sign of a component means, and why it has no meaning until an axis is stated. *(Guide: "Choosing an axis"; Practice Q2–Q7)*
 
 ## Skills
 

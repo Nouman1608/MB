@@ -169,7 +169,7 @@ Take **+x along a straight road**, with all ground-frame values measured relativ
 
 **(a)** v_RC = v_RG + v_GC = v_RG − v_CG = **1.0t − 4.0** (m/s). Its graph is a straight line with the **same slope** (1.0 m/s²) as v_RG, shifted **down by 4.0 m/s**: it runs from −4.0 m/s at t = 0 to +6.0 m/s at t = 10 s.
 
-**(b)** v_RC = 0 at **t = 4.0 s**. Relative position: ∫₀⁴ (t − 4.0) dt = 8.0 − 16 = **−8.0 m**, so the runner is **8.0 m behind**. This is the largest gap, since v_RC changes sign there.
+**(b)** v_RC = 0 at **t = 4.0 s**. Relative position: ∫₀⁴ (t − 4.0) dt = 8.0 − 16 = **−8.0 m**, so the runner is **8.0 m behind**. This is the furthest the runner falls behind, since v_RC changes sign there; by t = 10 s the runner leads by 10 m.
 
 **(c)** x_RC(t) = ∫₀ᵗ (t − 4.0) dt = 0.50t² − 4.0t = 0.50t(t − 8.0). This is zero again at **t = 8.0 s**. Check in the road frame: runner 0.50 × 8.0² = 32 m, cyclist 4.0 × 8.0 = 32 m.
 
@@ -213,7 +213,7 @@ Take **+x east and +y up**. A train moves east at a constant 12 m/s relative to 
 | 1 | (c) States the acceleration is the same in both inertial frames, with a reason |
 | 1 | (c) Explains that the path and velocity differ because of the shared horizontal velocity |
 
-A full answer does not need the non-inertial case (an accelerating train), which is outside the inertial-frame assumption.
+A full answer does not need the non-inertial case (an accelerating train).
 </details>
 
 ## How did you do?

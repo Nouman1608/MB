@@ -60,7 +60,7 @@ v_BG = (−4.0 m/s) + (+1.5 m/s) = −2.5 m/s. The boat still moves west, but th
 
 ## Question 2 (multiple choice · core)
 
-Take **+x north**. On a straight path, runner P moves at +5.0 m/s and runner Q moves at −3.0 m/s, both relative to the ground. What is the velocity of P measured by Q?
+Take **+x north**. On a straight path, runner P is south of runner Q. P moves at +5.0 m/s and Q moves at −3.0 m/s, both relative to the ground. What is the velocity of P measured by Q?
 
 - (A) +2.0 m/s
 - (B) +8.0 m/s
@@ -182,7 +182,7 @@ A student claims: "The detector on cart A is moving, so it must measure a differ
 Floor: slope = (0.90 − 0.30) m/s ÷ (1.75 − 0.25) s = 0.60 ÷ 1.50 = **0.40 m/s²**.
 A's frame: slope = (0.50 − (−0.10)) m/s ÷ 1.50 s = 0.60 ÷ 1.50 = **0.40 m/s²**.
 
-**(b)** The claim is **not supported**. Both data sets give 0.40 m/s². In both frames the velocity rises by 0.20 m/s every 0.50 s. Cart A moves at constant velocity, so it is an inertial frame, and inertial observers measure the same acceleration.
+**(b)** The claim is **not supported**. Both data sets give 0.40 m/s². Cart A moves at constant velocity, so it is an inertial frame, and inertial observers measure the same acceleration.
 
 **(c)** Each floor-frame velocity is **0.40 m/s** greater than the A-frame value. That is v_AG, the velocity of cart A relative to the floor, because v_BG = v_BA + v_AG.
 
@@ -236,10 +236,10 @@ At landing the key moves at about 4.8 m/s relative to the lift and 7.8 m/s relat
 
 ## How did you do?
 
-- **Q1 or Q2 wrong:** re-read "Relative velocity along one line" and Figure 1 in the [study guide](/advanced-course-resources/physics-1/1-4-reference-frames-relative-motion-study-guide/). Write the subscripts before the numbers.
-- **Q3 wrong:** go back to "Acceleration is the same for every inertial observer" and Figure 2.
-- **Q4 wrong:** revisit Worked example 2, especially the oncoming-vehicle limiting case.
-- **Q5 incomplete:** choose one frame (the floor) and write each velocity with its sign before dividing.
-- **Q6 or Q7 incomplete:** your reasoning needs the *why*: the observer moves at constant velocity, so the acceleration cannot change.
+- **Q1 or Q2 wrong:** re-read "Relative velocity along one line" and Figure 1 in the [study guide](/advanced-course-resources/physics-1/1-4-reference-frames-relative-motion-study-guide/). Write subscripts before numbers.
+- **Q3 wrong:** revisit Figure 2.
+- **Q4 wrong:** revisit Worked example 2 and its oncoming-vehicle case.
+- **Q5 incomplete:** work in the floor frame and sign each velocity before dividing.
+- **Q6 or Q7 incomplete:** give the *why*: a constant-velocity observer measures the same acceleration.
 
 Then tick off the [topic checklist](/advanced-course-resources/physics-1/1-4-reference-frames-relative-motion-checklist/).

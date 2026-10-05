@@ -38,7 +38,7 @@ faqs:
   - question: "Is this page for Calculus AB or Calculus BC?"
     answer: "Both. Topic 1.10 is common content, so the same page serves AB and BC students."
   - question: "If f(c) is defined, can there still be a discontinuity at c?"
-    answer: "Yes. If the limit at c exists but is different from f(c), the discontinuity is removable. If the one-sided limits differ, it is a jump, whatever f(c) is."
+    answer: "Yes. If the limit at c exists but is different from f(c), the discontinuity is removable. If the one-sided limits are finite but different, it is a jump, whatever f(c) is."
   - question: "Does a zero in the denominator always mean a vertical asymptote?"
     answer: "No. If the factor that makes the denominator zero cancels with the numerator, the graph has a hole instead. Factor first, then decide."
 version: "1.0"

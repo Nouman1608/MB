@@ -156,9 +156,10 @@ For **words**, translate one phrase at a time:
 
 Many questions give one function as a graph and another as a table or formula. The limit properties from Topic 1.5 still work, **provided each limit you use exists**:
 
-- lim [f(x) + g(x)] = lim f(x) + lim g(x)
+- lim [f(x) ± g(x)] = lim f(x) ± lim g(x)
 - lim [f(x) · g(x)] = lim f(x) · lim g(x)
-- For a composite f(g(x)): find what g(x) approaches, say L, and **from which side**. Then use the limit of f as its input approaches L from that side.
+- lim [f(x) / g(x)] = lim f(x) / lim g(x), but only when lim g(x) ≠ 0
+- For a composite f(g(x)): find what g(x) approaches, say L, and **from which side**. Then use the limit of f as its input approaches L from that side. (This assumes g(x) ≠ L for x near c. If g(x) can equal L, the value f(L) matters too.)
 
 If a two-sided limit does not exist, split into one-sided limits and work on each side.
 
@@ -204,6 +205,7 @@ Using this table and the graph of f in Figure 1, find:
 
 (a) lim (x → 0) f(g(x))
 (b) lim (x → 0) [g(x) · f(x + 1)]
+(c) lim (x → 0) [(f(x + 1) − 1) / g(x)]
 
 **Solution.**
 
@@ -222,6 +224,12 @@ Saying "f has no limit at −1, so no answer" ignores the side: the input to f o
 **lim (x → 0) [g(x) · f(x + 1)] = (−1) × 3 = −3**
 
 **Check.** At x = 0.01, g(x) = −0.99 and f(1.01) is very close to 3 (the parabola is near its top), so the product is close to −3.
+
+(c) The top has limit 3 − 1 = 2, using part (b). The bottom has limit −1, which is not 0, so the quotient property applies:
+
+**lim (x → 0) [(f(x + 1) − 1) / g(x)] = 2 / (−1) = −2**
+
+If the bottom limit had been 0, you could not divide the limits; you would need to rewrite (Topic 1.6) or check each side.
 
 ## Worked example 3: from a formula to every other representation
 

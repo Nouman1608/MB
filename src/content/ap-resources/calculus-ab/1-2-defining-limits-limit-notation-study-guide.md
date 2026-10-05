@@ -72,7 +72,7 @@ If such a number R exists, you write
 Three parts of the definition do most of the work.
 
 1. **"x close enough to c, but not equal to c."** You look at inputs on both sides of c, near c. You never use x = c itself.
-2. **"As close to R as you like."** It is not enough for f(x) to get *near* R. For any closeness you choose, however small, there must be inputs near c that keep f(x) at least that close.
+2. **"As close to R as you like."** It is not enough for f(x) to get *near* R. For any closeness you choose, however small, every input close enough to c (other than c itself) must give an f(x) at least that close to R.
 3. **"A real number R."** The limit is one number. If the outputs do not settle on one real number, the limit **does not exist**.
 
 ## Reading and writing limit notation
@@ -122,7 +122,7 @@ g(x) = ½x² + 1 for x ≠ 2, and g(2) = 5.
 <line x1="380" y1="198" x2="380" y2="300" stroke="#1d2b44" stroke-width="1" stroke-dasharray="5 4"/>
 <line x1="180" y1="192" x2="374" y2="192" stroke="#1d2b44" stroke-width="1" stroke-dasharray="5 4"/>
 <path d="M80,246.0 L105,253.9 L130,259.5 L155,262.9 L180,264.0 L205,262.9 L230,259.5 L255,253.9 L280,246.0 L305,235.9 L330,223.5 L355,208.9 L380,192.0 L405,172.9 L430,151.5 L455,127.9 L480,102.0 L505,73.9 L530,43.5" fill="none" stroke="#1d2b44" stroke-width="2.5"/>
-<circle cx="380" cy="192" r="6" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="380" cy="192" r="6" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <circle cx="380" cy="120" r="6" fill="#1d2b44"/>
 <text x="392" y="213" font-size="13" fill="#1d2b44">open circle: limit is 3</text>
 <text x="300" y="116" font-size="13" fill="#1d2b44" text-anchor="end">solid dot: g(2) = 5</text>
@@ -172,7 +172,7 @@ Demand more: within 0.003 of 7. Now you need x within 0.001 of 2, that is 1.999 
 <figure>
 <svg viewBox="0 0 520 330" role="img" aria-labelledby="band-title band-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="band-title">Zoomed graph of y = 3x + 1 near x = 2 with a target band around 7 and an input window around 2</title>
-<desc id="band-desc">A straight line rises from (1.5, 5.5) to (2.5, 8.5). Two horizontal dashed lines at y = 6.7 and y = 7.3 mark a target band of width 0.3 either side of 7. Two vertical dotted lines at x = 1.9 and x = 2.1 mark an input window of width 0.1 either side of 2. Inside the input window the line stays inside the target band. The point (2, 7) is marked with a small open circle because the definition never uses x = 2 itself.</desc>
+<desc id="band-desc">A straight line rises from (1.5, 5.5) to (2.5, 8.5). Two horizontal dashed lines at y = 6.7 and y = 7.3 mark a target band of width 0.3 either side of 7. Two vertical dotted lines at x = 1.9 and x = 2.1 mark an input window of width 0.1 either side of 2. Inside the input window the line stays inside the target band. The point (2, 7) is marked with a small filled dot. It is on the graph, but the definition never uses x = 2 itself.</desc>
 <rect x="0" y="0" width="520" height="330" fill="#ffffff"/>
 <line x1="80" y1="300" x2="500" y2="300" stroke="#1d2b44" stroke-width="1.5"/>
 <line x1="80" y1="315" x2="80" y2="20" stroke="#1d2b44" stroke-width="1.5"/>
@@ -182,7 +182,7 @@ Demand more: within 0.003 of 7. Now you need x within 0.001 of 2, that is 1.999 
 <line x1="240" y1="30" x2="240" y2="300" stroke="#1d2b44" stroke-width="1" stroke-dasharray="2 3"/>
 <line x1="320" y1="30" x2="320" y2="300" stroke="#1d2b44" stroke-width="1" stroke-dasharray="2 3"/>
 <line x1="80" y1="300" x2="480" y2="30" stroke="#1d2b44" stroke-width="2.5"/>
-<circle cx="280" cy="165" r="5" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<circle cx="280" cy="165" r="4" fill="#1d2b44"/>
 <g font-size="12" fill="#1d2b44" text-anchor="middle">
 <text x="80" y="316">1.5</text><text x="240" y="316">1.9</text><text x="280" y="316">2</text><text x="320" y="316">2.1</text><text x="480" y="316">2.5</text>
 <text x="508" y="296">x</text>
@@ -190,9 +190,9 @@ Demand more: within 0.003 of 7. Now you need x within 0.001 of 2, that is 1.999 
 <g font-size="12" fill="#1d2b44" text-anchor="end">
 <text x="74" y="142">7.3</text><text x="74" y="169">7</text><text x="74" y="196">6.7</text><text x="74" y="34">8.5</text><text x="74" y="296">5.5</text>
 </g>
-<text x="330" y="132" font-size="12" fill="#1d2b44">dashed: target band 6.7 to 7.3</text>
-<text x="330" y="60" font-size="12" fill="#1d2b44">dotted: input window 1.9 to 2.1</text>
-<text x="300" y="250" font-size="13" fill="#1d2b44">y = 3x + 1</text>
+<text x="330" y="232" font-size="11" fill="#1d2b44">dashed: target band 6.7 to 7.3</text>
+<text x="330" y="252" font-size="11" fill="#1d2b44">dotted: input window 1.9 to 2.1</text>
+<text x="455" y="40" font-size="13" fill="#1d2b44" text-anchor="end">y = 3x + 1</text>
 </svg>
 <figcaption>Figure 2. To keep f(x) within 0.3 of 7 (dashed lines), it is enough to keep x within 0.1 of 2 (dotted lines). A tighter band needs a narrower window, and one always exists. The band and window are labelled by line style and text, not by colour.</figcaption>
 </figure>

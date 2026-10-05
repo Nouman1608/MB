@@ -57,7 +57,7 @@ Short on time? This page is the recap. For explanations, diagrams and worked exa
 ## Assumptions behind the numbers
 
 - The object is a **point**; air resistance is negligible unless stated.
-- The reference frame is **inertial** (at rest relative to the ground) unless stated.
+- The reference frame is **inertial** (not accelerating; the ground counts as one) unless stated.
 - Near Earth's surface, g = 9.8 m/s² downward and constant.
 - Combining velocities between moving frames stays in one dimension in this course (Topic 1.4).
 

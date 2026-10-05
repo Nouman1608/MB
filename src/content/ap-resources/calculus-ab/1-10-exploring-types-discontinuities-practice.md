@@ -135,7 +135,7 @@ The graph of a function f is shown for −4 ≤ x ≤ 5.
 <line x1="256" y1="300" x2="264" y2="300"/><line x1="256" y1="270" x2="264" y2="270"/><line x1="256" y1="240" x2="264" y2="240"/><line x1="256" y1="180" x2="264" y2="180"/><line x1="256" y1="150" x2="264" y2="150"/><line x1="256" y1="120" x2="264" y2="120"/><line x1="256" y1="90" x2="264" y2="90"/><line x1="256" y1="60" x2="264" y2="60"/><line x1="256" y1="30" x2="264" y2="30"/>
 </g>
 <g font-size="12" fill="#1d2b44" text-anchor="middle">
-<text x="60" y="227">−4</text><text x="110" y="227">−3</text><text x="160" y="227">−2</text><text x="200" y="227">−1</text><text x="310" y="227">1</text><text x="360" y="227">2</text><text x="400" y="227">3</text><text x="460" y="227">4</text><text x="510" y="227">5</text><text x="532" y="214">x</text>
+<text x="60" y="227">−4</text><text x="110" y="227">−3</text><text x="160" y="227">−2</text><text x="210" y="227">−1</text><text x="310" y="227">1</text><text x="360" y="227">2</text><text x="400" y="227">3</text><text x="460" y="227">4</text><text x="510" y="227">5</text><text x="532" y="214">x</text>
 </g>
 <g font-size="12" fill="#1d2b44" text-anchor="end">
 <text x="252" y="304">−3</text><text x="252" y="274">−2</text><text x="252" y="244">−1</text><text x="252" y="184">1</text><text x="252" y="154">2</text><text x="252" y="124">3</text><text x="252" y="94">4</text><text x="252" y="64">5</text><text x="252" y="34">6</text><text x="252" y="16">y</text>

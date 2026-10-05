@@ -75,7 +75,7 @@ If you have the formula, check x-values where a denominator is 0 before trusting
 ## Quick self-check
 
 1. A graph has an open circle at (4, 2) and a filled dot at (4, 7). What is lim (x → 4) f(x)? *(2. The dot gives f(4) = 7, which does not affect the limit.)*
-2. Find lim (x → 0⁻) x/|x| and lim (x → 0⁺) x/|x|. Does the two-sided limit exist? *(−1 and 1. No, the one-sided limits differ.)*
+2. Find lim (x → 5⁻) 2|x − 5|/(x − 5) and lim (x → 5⁺) 2|x − 5|/(x − 5). Does the two-sided limit exist? *(−2 and 2. No, the one-sided limits differ.)*
 3. What can you say about lim (x → 1) 1/(x − 1)⁴? *(Both sides grow without bound, so you may write = ∞. The limit does not exist as a real number.)*
 4. Name the three graphical reasons a limit can fail to exist. *(Left ≠ right, unbounded, oscillating.)*
 

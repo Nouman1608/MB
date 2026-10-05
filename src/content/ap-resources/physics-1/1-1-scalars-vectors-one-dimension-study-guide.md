@@ -81,7 +81,7 @@ To make the lengths mean something, choose a **scale** and write it on the diagr
 <text x="508" y="35" font-size="13" fill="#1d2b44">+x</text>
 <g stroke="#1d2b44" stroke-width="0.5" stroke-dasharray="2 4" opacity="0.6">
 <path d="M120 55 V175 M160 55 V175 M200 55 V175 M240 55 V175 M320 55 V175 M360 55 V175 M400 55 V175 M440 55 V175"/>
-<path d="M120 55 H440 M120 115 H440 M120 175 H440"/>
+<path d="M120 55 H440 M120 95 H440 M120 135 H440 M120 175 H440"/>
 </g>
 <path d="M280 50 V180" stroke="#1d2b44" stroke-width="1.5"/>
 <path d="M280 90 H400" stroke="#1d2b44" stroke-width="3" marker-end="url(#p11-head)"/>

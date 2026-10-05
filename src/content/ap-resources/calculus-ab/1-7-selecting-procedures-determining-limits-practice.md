@@ -142,7 +142,7 @@ The one-sided behaviours differ, so lim (x → 2) g(x) **does not exist**.
 
 | Point | What earns it |
 |---|---|
-| 1 | (a) Substitution gives 0/(−2); limit 0, with no unnecessary rewriting needed |
+| 1 | (a) Substitution gives 0/(−2), a nonzero bottom, so the limit is 0 |
 | 1 | (b) Identifies 0/0 and factors to cancel (x + 1) |
 | 1 | (b) Limit −2/3 |
 | 1 | (c) Identifies nonzero/0 and states that there is no finite limit |

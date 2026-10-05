@@ -160,7 +160,7 @@ They hold when each acceleration component is constant. The **time t is the same
 A **projectile** moves only under gravity after launch, with air resistance negligible (the course assumes this unless told otherwise). Take **+y up**. Then:
 
 - **a_x = 0.** v_x stays equal to v_x0 for the whole flight: x = x₀ + v_x0 t.
-- **a_y = −g = −9.8 m/s².** The vertical motion is the vertical throw from Topic 1.2: v_y = v_y0 − g t and y = y₀ + v_y0 t − ½ g t².
+- **a_y = −g = −9.8 m/s².** The vertical motion is the free fall you met in Topics 1.2 and 1.3: v_y = v_y0 − g t and y = y₀ + v_y0 t − ½ g t².
 
 So projectile motion is a special case of two-dimensional motion: **zero acceleration in one direction and constant, non-zero acceleration in the other**. The path is a curve (a parabola), but each component is simple.
 

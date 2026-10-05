@@ -38,7 +38,7 @@ faqs:
   - question: "Is this page for Calculus AB or Calculus BC?"
     answer: "Both. Topic 1.8 is common content, so the same page serves AB and BC students. The two trig limits proved here are used again for the derivatives of sin x and cos x in Unit 2."
   - question: "Is the squeeze theorem the same as the sandwich theorem?"
-    answer: "Yes. Some books call it the sandwich theorem or the pinching theorem. The statement and the conditions are the same."
+    answer: "Yes. Some books call it the sandwich theorem. The statement and the conditions are the same."
   - question: "If the two bounding limits are different, does the limit of f not exist?"
     answer: "Not necessarily. The theorem simply gives no conclusion. The limit of f might exist or might not; you need another method to decide."
 version: "1.0"
@@ -78,7 +78,7 @@ Both limits do exist. To find them you need a different tool: trap the awkward f
 
 Think of g as a floor and h as a ceiling. Near a, the floor and the ceiling both move towards the same height L. The graph of f is stuck between them, so it has nowhere else to go.
 
-Before you use the theorem, **check three conditions**. Examiners give credit for showing each one.
+Before you use the theorem, **check three conditions**. In a written answer, show each one.
 
 1. **The inequality.** You have two functions g and h with g(x) ≤ f(x) ≤ h(x). The order matters: the lower bound must really be below f, and the upper bound must really be above it.
 2. **Where it holds.** The inequality is true for every x close to a on **both** sides. It need not hold far away from a, and it need not hold at a itself.
@@ -147,7 +147,7 @@ Then check that both bounds have the same limit. With bounds like ±x² or ±|x|
 5. **Check the conditions.** The inequality holds for all x ≠ 0, so it holds on an open interval around 0, except at 0. The bounds are polynomials, so lim (x → 0) (3 − x²) = 3 and lim (x → 0) (3 + x²) = 3. The outer limits are equal.
 6. **Conclude.** By the squeeze theorem, lim (x → 0) [3 + x² sin(4/x)] = **3**.
 
-**Check.** At x = 0.1 the function equals about 3.0075, and the bounds are 2.99 and 3.01. The value sits between them, as it must. At x = 0.01 it is about 2.99992.
+**Check.** At x = 0.1 the function equals about 3.0075, and the bounds are 2.99 and 3.01. The value sits between them, as it must. At x = 0.01 it is about 2.99991.
 
 **Interpretation.** Figure 1 shows this function. The function is not defined at x = 0, so its graph has a hole at (0, 3), yet the limit is 3.
 

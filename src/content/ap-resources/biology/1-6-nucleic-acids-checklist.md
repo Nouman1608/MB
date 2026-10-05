@@ -32,7 +32,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can name the three parts of a nucleotide and say which carbon of the sugar carries the phosphate and which carries the base. *(Guide: "The nucleotide: three parts", Figure 1; Practice Q4)*
 - I can explain why the information in a nucleic acid is carried by the order of its bases, not by the backbone. *(Guide: "Information written in a chemical alphabet")*
 - I can explain what the 5′ and 3′ ends of a strand are and why new nucleotides are added only to the 3′ end. *(Guide: "Building a strand"; Practice Q7)*
-- I can describe DNA as an antiparallel double helix, with A–T and C–G pairs held by hydrogen bonds and backbones held by covalent bonds. *(Guide: Figure 2; Practice Q6)*
+- I can describe DNA as an antiparallel double helix, with A–T and C–G pairs held by hydrogen bonds and backbones held by covalent bonds. *(Guide: Figure 2; Practice Q2, Q6)*
 - I can state three structural differences between DNA and RNA. *(Guide: "DNA and RNA compared"; Practice Q1)*
 
 ## Calculation and skills

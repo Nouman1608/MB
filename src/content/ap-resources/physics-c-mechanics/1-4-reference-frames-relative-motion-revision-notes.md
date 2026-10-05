@@ -46,10 +46,10 @@ Short on time? This page is the recap for the **calculus-based** course (separat
 | r_PA = r_PB + r_BA | positions link through frame B | always |
 | v_PA = v_PB + v_BA | inner letters match and drop out | everyday speeds |
 | v_BA = −v_AB | swapping the order flips the vector | always |
-| x′ = x − Vt, v′ = v − V | one-dimensional frame change | S′ moves at constant V along +x |
+| x′ = x − Vt, v′ = v − V | one-dimensional frame change | S′ moves at constant V along +x; origins match at t = 0 |
 | a_PA = a_PB + a_BA | derivative of the velocity link | always |
 | a_PA = a_PB | same acceleration in both frames | a_BA = 0 (both inertial) |
-| Track straight across a crosswind w at airspeed u | point into the wind at sin θ = w/u; ground speed √(u² − w²) | w < u |
+| Track straight across a crosswind w at airspeed u | point into the wind at θ from the track, sin θ = w/u; ground speed √(u² − w²) | w < u |
 
 ## Assumptions behind the numbers
 

@@ -235,7 +235,7 @@ Let f(x) = 4x − 3. You are told that lim (x → 2) f(x) = 5.
 | 1 | (a) Correct inequality and interval 1.975 < x < 2.025 |
 | 1 | (b) Correct interval 1.99975 < x < 2.00025 |
 | 1 | (c) Links smaller output tolerance to a smaller input window, and says one always exists |
-| 1 | (d) Shows a closeness to 5.01 that cannot be achieved for all x near 2 (any tolerance below 0.01 works), or argues the outputs approach 5, which differs from 5.01 |
+| 1 | (d) Shows a closeness to 5.01 that cannot be guaranteed by taking x close enough to 2 (any tolerance of 0.01 or less works), or argues the outputs approach 5, which differs from 5.01 |
 
 Acceptable alternative for (a) and (b): |f(x) − 5| = 4|x − 2|, so |f(x) − 5| < 0.1 exactly when |x − 2| < 0.025, and similarly for 0.001.
 </details>

@@ -69,11 +69,11 @@ A **motion diagram** shows the object as a dot at **equal time intervals**. Add 
 - If the **change** in spacing is the same each step, the acceleration is constant.
 
 <figure>
-<svg viewBox="0 0 560 360" role="img" aria-labelledby="pcm13-md-title pcm13-md-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
+<svg viewBox="0 0 560 390" role="img" aria-labelledby="pcm13-md-title pcm13-md-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="pcm13-md-title">Motion diagram for a ball tossed straight up at 4.9 m/s</title>
-<desc id="pcm13-md-desc">A vertical height scale runs from 0 to 1.2 metres. The left column shows the ball going up: six dots at 0.1 second intervals, starting at 0 m and ending at 1.225 m. The gaps shrink from 0.44 m to 0.10 m, and upward velocity arrows shrink from 4.9 m/s to zero. The right column shows the ball coming down from 1.225 m back to 0 m, with gaps growing and downward velocity arrows growing from zero to 4.9 m/s. A single downward arrow between the columns is labelled a_y = −9.8 m/s² at every dot, including the top.</desc>
+<desc id="pcm13-md-desc">A vertical height scale runs from 0 to 1.2 metres. The left column shows the ball going up: six dots at 0.1 second intervals, starting at 0 m and ending at 1.225 m. The gaps shrink from 0.44 m to 0.05 m, and upward velocity arrows shrink from 4.9 m/s to zero. The right column shows the ball coming down from 1.225 m back to 0 m, with gaps growing and downward velocity arrows growing from zero to 4.9 m/s. A single downward arrow between the columns is labelled a_y = −9.8 m/s² at every dot, including the top.</desc>
 <defs><marker id="pcm13-arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#1d2b44"/></marker></defs>
-<rect x="0" y="0" width="560" height="360" fill="#ffffff"/>
+<rect x="0" y="0" width="560" height="390" fill="#ffffff"/>
 <path d="M60 330 V60" stroke="#1d2b44" stroke-width="2"/>
 <g font-size="12" fill="#1d2b44" text-anchor="end">
 <text x="54" y="324">0</text><text x="54" y="224">0.5</text><text x="54" y="124">1.0</text>
@@ -90,7 +90,7 @@ A **motion diagram** shows the object as a dot at **equal time intervals**. Add 
 <circle cx="400" cy="75" r="5" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
 <g stroke="#1d2b44" stroke-width="2" marker-end="url(#pcm13-arr)">
 <path d="M175 320 V261.2"/><path d="M185 231.8 V184.8"/><path d="M195 163.2 V127.9"/><path d="M205 114.2 V90.7"/><path d="M215 84.8 V73"/>
-<path d="M425 84.8 V96.6"/><path d="M435 114.2 V137.7"/><path d="M445 163.2 V198.5"/><path d="M455 231.8 V278.8"/><path d="M465 320 V351"/>
+<path d="M425 84.8 V96.6"/><path d="M435 114.2 V137.7"/><path d="M445 163.2 V198.5"/><path d="M455 231.8 V278.8"/><path d="M465 320 V378.8"/>
 </g>
 <path d="M285 150 V235" stroke="#1d2b44" stroke-width="3" marker-end="url(#pcm13-arr)"/>
 <text x="285" y="258" font-size="12" fill="#1d2b44" text-anchor="middle">a_y = −9.8 m/s²</text>
@@ -119,7 +119,7 @@ Two more rules help when you sketch:
 - **Curvature of x–t.** Because a_x = d²x/dt², an x–t graph that curves upward (concave up) has a_x > 0. One that curves downward has a_x < 0. A straight x–t graph has a_x = 0.
 - **Matching features.** Where x–t has a peak or trough, v_x = 0. Where v_x–t crosses the axis, the object turns around. Where a_x jumps between stages, the v_x–t graph has a corner but no break, because velocity cannot change in zero time.
 
-**Areas give changes, not values.** The area under a v_x–t graph gives Δx, so you still need x₀ to find x. The area under an a_x–t graph gives Δv_x, so you still need v_x0.
+**Areas give changes, not values.** The area under a v_x–t graph gives Δx, so you still need x₀ to find x. The area under an a_x–t graph gives Δv_x, so you still need v_x0. For **distance** rather than displacement, split the v_x–t graph where it crosses the axis and add the sizes of the areas.
 
 ## The constant-acceleration equations as a toolkit
 

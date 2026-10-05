@@ -34,7 +34,7 @@ Short on time? This page is the recap. For explanations, figures and worked exam
 ## Recap
 
 - DNA and RNA are **polymers of nucleotides**. Each nucleotide has a **five-carbon sugar**, a **phosphate** (on carbon 5′) and a **nitrogenous base** (on carbon 1′).
-- Nucleotides are joined by **covalent bonds** between the phosphate of one and the **3′ –OH** of the next, forming a sugar–phosphate backbone. Hydrolysis breaks these links.
+- Nucleotides are joined by **covalent bonds** between the **3′ –OH** of one nucleotide and the phosphate of the next, forming a sugar–phosphate backbone. Hydrolysis breaks these links.
 - A strand has a **5′ end** (free phosphate) and a **3′ end** (free –OH). New nucleotides are added only to the **3′ end**.
 - DNA is a **double helix** of two **antiparallel** strands. Bases pair by **hydrogen bonds**: A–T (two) and C–G (three). In RNA, A pairs with **U**.
 - The backbone is held by strong covalent bonds; the strands are held together by weak hydrogen bonds, so they can be separated without breaking either strand.

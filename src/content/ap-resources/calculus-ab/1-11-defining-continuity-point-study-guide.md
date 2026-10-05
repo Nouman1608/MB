@@ -151,7 +151,7 @@ Read the panels with the definition in mind:
 - **C.** f(c) exists (the filled dot on the left piece). But the left side approaches one height and the right side another, so the two-sided limit does not exist. Condition 2 fails.
 - **D.** f(c) exists (the filled dot) and the limit exists (the height of the open circle). They are different numbers. Condition 3 fails.
 
-Panels B and D are both removable discontinuities, panel C is a jump, as in Topic 1.10. This topic adds the language you use to prove which case you are in.
+Panels B and D are both removable discontinuities, and panel C is a jump, as in Topic 1.10. This topic adds the language you use to prove which case you are in.
 
 ## How to write a justification
 

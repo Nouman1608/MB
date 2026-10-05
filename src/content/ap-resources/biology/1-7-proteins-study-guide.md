@@ -68,12 +68,12 @@ This is Topic 1.1 again. Water's δ⁻ and δ⁺ ends attract polar and charged 
 
 ## Peptide bonds: building the chain
 
-Amino acids join by **dehydration synthesis** (Topic 1.3). The **carboxyl group** of one amino acid reacts with the **amine group** of the next. An −OH leaves the carboxyl group and an −H leaves the amine group. Together they form one water molecule. The carbon of the first amino acid is now covalently bonded to the nitrogen of the second. This covalent bond is a **peptide bond**.
+Amino acids join by **dehydration synthesis** (Topic 1.3). The **carboxyl group** of one amino acid reacts with the **amine group** of the next. An −OH leaves the carboxyl group and an −H leaves the amine group. Together they form one water molecule. The carboxyl carbon of the first amino acid is now covalently bonded to the nitrogen of the second. This covalent bond is a **peptide bond**.
 
 <figure>
 <svg viewBox="0 0 680 330" role="img" aria-labelledby="pb-title pb-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="pb-title">Two amino acids joining by a peptide bond</title>
-<desc id="pb-desc">Top row: two amino acids. Each has a central carbon bonded to a hydrogen above, an R group below (R1 and R2), an amine group on the left and a carboxyl group, a carbon double-bonded to oxygen with an OH, on the right. A dashed box surrounds the OH of the first amino acid and one H of the amine group of the second; a note says these are removed as water. An arrow labelled dehydration synthesis points down to the bottom row: a dipeptide in which the carboxyl carbon of the first amino acid is joined to the nitrogen of the second by a thick line labelled peptide bond, plus one water molecule. The left end is labelled amine end and the right end carboxyl end.</desc>
+<desc id="pb-desc">Top row: two amino acids. Each has a central carbon bonded to a hydrogen above, an R group below (R1 and R2), an amine group on the left and a carboxyl group, a carbon double-bonded to oxygen with an OH, on the right. Dashed boxes surround the OH of the first amino acid and one H of the amine group of the second; a note says these are removed and form water. An arrow labelled dehydration synthesis points down to the bottom row: a dipeptide in which the carboxyl carbon of the first amino acid is joined to the nitrogen of the second by a thick line labelled peptide bond, plus one water molecule. The left end is labelled amine end and the right end carboxyl end.</desc>
 <rect x="0" y="0" width="680" height="330" fill="#ffffff"/>
 <text x="290" y="22" text-anchor="middle" font-size="13" fill="#1d2b44">Dashed boxes: −OH and −H are removed and form H₂O</text>
 <text x="55" y="101" text-anchor="middle" font-size="18" font-weight="700" fill="#1d2b44">H₂N</text>

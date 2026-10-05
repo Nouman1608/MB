@@ -38,7 +38,7 @@ Short on time? This page is the recap for the **calculus-based** course (separat
 - The components can have **different** velocities and accelerations, and either can change with time.
 - Changing the motion along one axis does **not** change the motion along the perpendicular axis.
 - A **projectile** has zero acceleration horizontally and a constant acceleration g downward.
-- Three dimensions add a z-component in the same way. Calculations in this course stay in two dimensions.
+- Three dimensions add a z-component in the same way (background only). This course analyses motion in two dimensions.
 
 ## Key relationships
 

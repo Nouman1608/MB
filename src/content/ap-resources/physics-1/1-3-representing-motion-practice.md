@@ -84,7 +84,7 @@ Take **+x to the right**. A drone moving along a straight line has v_x = −2.0 
 
 ## Question 3 (multiple choice · core)
 
-Take **+y upward**. From the same window, at the same instant, ball P is dropped from rest and ball Q is thrown straight down at 5.0 m/s. Which statement is correct?
+Take **+y upward**. From the same high window, at the same instant, ball P is dropped from rest and ball Q is thrown straight down at 5.0 m/s. Which statement is correct?
 
 - (A) Q has a larger acceleration than P because it was thrown.
 - (B) During the first 1.0 s, the velocity of each ball changes by −9.8 m/s.
@@ -117,7 +117,7 @@ v_x² = v_x0² + 2a_x(x − x₀) → 81 = 9.0 + 2a_x(48) → a_x = 72 ÷ 96 = *
 
 Suggested mark points (3): 1 for choosing an equation without t (or another valid route); 1 for 0.75 m/s² with unit; 1 for 8.0 s.
 
-Common error: finding the average velocity 6.0 m/s and then dividing it by a time that has not been found yet. Another valid route is t = 2Δx ÷ (v_x0 + v_x) = 96 ÷ 12 = 8.0 s first, then a_x = 6.0 ÷ 8.0.
+Common error: starting with v_x = v_x0 + a_x t, which has two unknowns (a_x and t) at this stage. Another valid route is t = 2Δx ÷ (v_x0 + v_x) = 96 ÷ 12 = 8.0 s first, then a_x = 6.0 ÷ 8.0.
 </details>
 
 ## Question 5 (graph · core)

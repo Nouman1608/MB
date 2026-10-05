@@ -49,14 +49,15 @@ Notation: **lim (x → a) f(x)** means "the limit as x approaches a of f(x)"; **
 | Table | Following the trend of outputs from each side | Copying the nearest entry; trusting too few inputs |
 | Piecewise formula | Using the piece that applies on each side | Using the rule for x = c itself |
 | Words | "Approaches … from the right" → lim (x → c⁺) | Treating "approaches" as "equals at" |
-| Sum or product | Adding or multiplying the limits, if each exists | Using the property when one limit does not exist: split into sides instead |
+| Sum, difference or product | Combining the limits, if each exists | Using the property when one limit does not exist: split into sides instead |
+| Quotient | Dividing the limits, if each exists and the bottom limit is not 0 | Dividing by a limit of 0 |
 | Composite f(g(x)) | Finding L = lim g(x) and the side; then the matching limit of f at L | Using f(L), or ignoring the side |
 
 ## Assumptions behind the method
 
 - A table is only useful if you may assume its trend continues near c. Exam questions usually say so.
-- The sum and product properties need each separate limit to exist.
-- For a composite, the side matters whenever f has different one-sided limits at L, or a value f(L) that differs from its limit.
+- The sum, difference, product and quotient properties need each separate limit to exist (and a nonzero bottom limit for a quotient).
+- For a composite, the side matters whenever f has different one-sided limits at L. If g(x) can equal L near c, the value f(L) matters too.
 
 ## Mistakes to avoid
 

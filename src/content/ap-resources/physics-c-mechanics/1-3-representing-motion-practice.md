@@ -35,7 +35,7 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. This set is for the calculus-based Physics C: Mechanics course. All data are invented for practice. Use g = 9.8 m/s² and ignore air resistance unless told otherwise; answers with g = 10 m/s² are equally acceptable. Round final answers to 2 significant figures unless told otherwise. A calculator is used only for arithmetic.
+These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. This set is for the calculus-based Physics C: Mechanics course. All data are invented for practice. Use g = 9.8 m/s² and ignore air resistance unless told otherwise; answers with g = 10 m/s² are equally acceptable. Round final answers to 2 significant figures unless told otherwise.
 
 ## Question 1 (multiple choice · foundation)
 
@@ -68,7 +68,7 @@ Take **+x to the right**, with the object at x₀ = 0 at t = 0. Its v_x–t grap
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** The slope of the v_x–t graph is a_x = −2.0 m/s², so the x–t graph bends downward. Integrating, x = 4.0t − 1.0t². Velocity is zero at t = 2.0 s, where x = 8.0 − 4.0 = 4.0 m (the maximum). At t = 4.0 s, x = 16 − 16 = 0. The positive and negative areas under the v_x–t graph cancel.
+**Answer: (B).** The slope of the v_x–t graph is a_x = −2.0 m/s², so the x–t graph bends downward. Integrating, x = 4.0t − 1.0t². Velocity is zero at t = 2.0 s, where x = 8.0 − 4.0 = 4.0 m (the maximum). At t = 4.0 s, x = 16 − 16 = 0. The areas under v_x–t cancel.
 
 - (A) copies the shape of the velocity graph. The slope of x–t, not its shape, gives v_x.
 - (C) has the wrong curvature. A negative a_x makes x–t bend downward.
@@ -91,7 +91,7 @@ Take **+y upward**. A drone hovering at rest releases a sensor package, which fa
 
 - (A) inverts the relationship. It would be right for "how does the time change if the height triples?" (t ∝ √h).
 - (B) assumes height ∝ time, which needs constant velocity; the package speeds up.
-- (D) uses a cube. A t³ dependence arises when the acceleration grows with time (Topic 1.2), not in free fall.
+- (D) uses a cube. A t³ dependence needs an acceleration that grows with time.
 </details>
 
 ## Question 4 (calculation · core)
@@ -110,7 +110,7 @@ Find (a) v_x at t = 3.0 s, 5.0 s and 7.0 s, (b) the time when the particle is mo
 1. **(a)** Use areas under the a_x–t graph: +2.0 × 3.0 = +6.0 m/s, then 0, then −1.0 × 2.0 = −2.0 m/s. So v_x(3.0) = −3.0 + 6.0 = **+3.0 m/s**, v_x(5.0) = **+3.0 m/s**, v_x(7.0) = 3.0 − 2.0 = **+1.0 m/s**.
 2. **(b)** In the first stage v_x = −3.0 + 2.0t = 0 at **t = 1.5 s**. After that v_x stays positive.
 3. **(c)** Areas under the v_x–t graph: 0 to 1.5 s is a triangle below the axis, −½ × 1.5 × 3.0 = −2.25 m; 1.5 to 3.0 s is a triangle above, +2.25 m; 3.0 to 5.0 s is a rectangle, +6.0 m; 5.0 to 7.0 s is a trapezium, ½ × (3.0 + 1.0) × 2.0 = +4.0 m. Displacement = −2.25 + 2.25 + 6.0 + 4.0 = **+10 m**.
-4. **(d)** Distance = 2.25 + 2.25 + 6.0 + 4.0 = **14.5 m** (about 15 m to 2 significant figures).
+4. **(d)** Distance = 2.25 + 2.25 + 6.0 + 4.0 = **14.5 m** (15 m to 2 s.f.).
 
 Suggested mark points (4): 1 for the three velocities, including v_x0; 1 for t = 1.5 s; 1 for the displacement from signed areas; 1 for splitting at t = 1.5 s and adding sizes for the distance.
 
@@ -215,14 +215,14 @@ A student says: "Braking takes half as long. Distance goes as time squared, so t
 | 1 | (b) Explains with equal heights of the v_x–t triangles or equal average velocities |
 | 1 | (c) Factor of 4, from total distance ∝ T² |
 
-A numerical test with chosen a and T earns the first three points if working is shown.
+A numerical test with chosen a and T can earn only the (b) ratio point.
 </details>
 
 ## How did you do?
 
-- **Q1 or Q2 wrong:** re-read "Motion diagrams" and "The graph links" in the [study guide](/advanced-course-resources/physics-c-mechanics/1-3-representing-motion-study-guide/). Check curvature against the sign of a_x.
-- **Q3 or Q7(c) wrong:** revisit "Functional dependence and factors of change". Write the proportion before you find the factor.
+- **Q1 or Q2 wrong:** re-read "Motion diagrams" and "The graph links" in the [study guide](/advanced-course-resources/physics-c-mechanics/1-3-representing-motion-study-guide/).
+- **Q3 or Q7(c) wrong:** revisit "Functional dependence and factors of change".
 - **Q4 wrong:** work through Worked example 1 and Figure 2.
-- **Q5 or Q6 incomplete:** review "Free fall near Earth" and Worked example 2. Your reasoning must point to a slope, an area or a data pattern.
+- **Q5 or Q6 incomplete:** review "Free fall near Earth" and Worked example 2. Point to a slope, an area or a data pattern.
 
 Then tick off the [topic checklist](/advanced-course-resources/physics-c-mechanics/1-3-representing-motion-checklist/).

@@ -31,7 +31,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can explain how motion in a plane splits into two one-dimensional motions that share only the time. *(Guide: "One motion, two one-dimensional problems")*
 - I can explain why a push along one axis does not change the motion along the perpendicular axis. *(Guide: "One motion, two one-dimensional problems"; Practice Q1)*
 - I can describe a projectile as having zero horizontal acceleration and constant downward acceleration g, and say what the speed and acceleration are at the top. *(Guide: Figure 1)*
-- I can describe three-dimensional motion by adding a z-component, and state that calculations in this course stay in two dimensions. *(Guide: "Position, velocity and acceleration as vectors")*
+- I can state that this course analyses motion in two dimensions only, and that a z-component would extend the same method (background, not assessed here). *(Guide: "Position, velocity and acceleration as vectors")*
 
 ## Calculation
 

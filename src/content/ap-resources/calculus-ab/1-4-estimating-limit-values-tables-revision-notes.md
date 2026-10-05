@@ -49,7 +49,7 @@ Notation: **lim (x → a) f(x)** is the limit as x approaches a; **x → a⁻** 
 |---|---|
 | Both sides approach the same number L | lim (x → c) f(x) ≈ L |
 | Left approaches L₁, right approaches L₂, with L₁ ≠ L₂ | One-sided limits differ; the limit does not exist |
-| Values grow without bound (100, 10 000, 1 000 000, …) | Unbounded; no finite limit (you may write = ∞ or −∞ if one sign) |
+| Values grow without bound (100, 10 000, 1 000 000, …) | Unbounded; no finite limit (you may write = ∞ or = −∞ when both sides share one sign) |
 | Values keep jumping between numbers however close x is | Oscillation; the limit does not exist |
 | f(c) differs from the trend | Irrelevant to the limit; the limit follows the trend |
 

@@ -179,7 +179,7 @@ Two displacements have magnitudes |A| = 4.0 m and |B| = 7.0 m. Their directions 
 | 1 | (c) θ = 91.0° (accept 91°) |
 | 1 | (d) Rejects the claim, using \|R\| = 8.06 m at 90° or θ = 91.0° as evidence |
 
-**Alternative method.** Quoting the law of cosines for (b) earns the second point only if the angle used is clearly the angle between the vectors' directions, not the angle inside the triangle.
+**Alternative method.** For (b), the law of cosines in the form |R|² = |A|² + |B|² + 2|A||B| cos θ earns both (b) points if θ is clearly the angle between the vectors' directions. Using the angle inside the triangle needs a minus sign, |R|² = |A|² + |B|² − 2|A||B| cos(180° − θ), which gives the same result.
 </details>
 
 ## Question 7 (representation and explanation · stretch)

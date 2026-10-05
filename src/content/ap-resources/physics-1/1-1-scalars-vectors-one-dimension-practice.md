@@ -26,7 +26,7 @@ framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-physics-1", "page-physics-1"]
 keyPoints:
   - "Questions 1–3 are multiple choice; 4–7 need written working."
-  - "Every question states its axis. Use it for every sign."
+  - "Where a question gives an axis, use it for every sign. Where it does not, state your own first."
   - "Each answer explains why the wrong options are wrong."
 version: "1.0"
 publishedDate: 2026-10-05
@@ -131,7 +131,7 @@ Take **+x east**. A trolley is moving **west** at 3.0 m/s. A constant accelerati
 (c) A student says: "The trolley's velocity at 4.0 s is the same as at the start, because the speed is 3.0 m/s both times." Evaluate this claim.
 
 <details>
-<summary>Worked solution</summary>
+<summary>Worked solution and suggested Marlbridge rubric</summary>
 
 **(a)** West is opposite to +x, so **v_x0 = −3.0 m/s**. The acceleration is east, so **a_x = +1.5 m/s²**.
 
@@ -186,7 +186,7 @@ An answer to (c) that says only "the minus sign is a direction", without compari
 
 ## Question 7 (data analysis · stretch)
 
-A robot vacuum moves back and forth along a straight hallway. Its app records each move as a distance and a direction relative to the front door. The charger is at the origin, and the front door is to the **east** of the charger.
+A robot vacuum moves back and forth along a straight hallway. Its app records each move as a distance and a direction relative to the front door. The charger is at the origin, and the front door is at the **east** end of the hallway, beyond every point the robot reaches.
 
 | Move | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|

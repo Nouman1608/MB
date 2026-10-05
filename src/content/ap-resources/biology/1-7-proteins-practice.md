@@ -52,7 +52,7 @@ Which statement correctly describes the formation of a peptide bond?
 
 - (B) R groups are not part of the peptide bond. They stick out from the backbone and interact later, during folding.
 - (C) describes a hydrogen bond in secondary structure, not a peptide bond. It is a weak attraction, not a covalent bond.
-- (D) describes hydrolysis backwards: adding water **breaks** a peptide bond.
+- (D) confuses synthesis with hydrolysis: adding water **breaks** a peptide bond, while forming one releases water.
 </details>
 
 ## Question 2 (multiple choice · core)
@@ -107,7 +107,7 @@ A fictional enzyme from a soil bacterium was compared with three variants, each 
 <figure>
 <svg viewBox="0 0 580 330" role="img" aria-labelledby="q4-title q4-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="q4-title">Activity of the wild-type enzyme and three variants</title>
-<desc id="q4-desc">Bar chart. Vertical axis: activity in micromoles of product per minute, 0 to 40. Four bars, each labelled with its value: wild type 42.0, V1 40.3, V2 3.8, V3 17.6.</desc>
+<desc id="q4-desc">Bar chart. Vertical axis: activity in micromoles of product per minute, marked from 0 to 40 in steps of 10. Four bars, each labelled with its value: wild type 42.0, V1 40.3, V2 3.8, V3 17.6.</desc>
 <rect x="0" y="0" width="580" height="330" fill="#ffffff"/>
 <line x1="80" y1="231.1" x2="500" y2="231.1" stroke="#1d2b44" stroke-width="0.5" stroke-dasharray="2 4"/>
 <line x1="80" y1="182.2" x2="500" y2="182.2" stroke="#1d2b44" stroke-width="0.5" stroke-dasharray="2 4"/>

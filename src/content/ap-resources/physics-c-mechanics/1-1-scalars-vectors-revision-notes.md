@@ -74,7 +74,7 @@ Short on time? This page is the recap for the **calculus-based** course, which u
 
 1. What is the magnitude of (2.0 î − 6.0 ĵ + 3.0 k̂) m? *(√(4 + 36 + 9) = 7.0 m)*
 2. A displacement is 20 m at 30° below the +x axis. Give its components. *(17.3 m and −10.0 m)*
-3. Add (4.0 î + 1.0 ĵ) m and (−6.0 î + 3.0 ĵ) m. Give the magnitude and the angle from +x. *(−2.0 î + 4.0 ĵ m; 4.47 m at 116.6°, second quadrant)*
+3. Add (4.0 î + 1.0 ĵ) m and (−6.0 î + 3.0 ĵ) m. Give the magnitude and the angle from +x. *((−2.0 î + 4.0 ĵ) m; 4.47 m at 116.6°, second quadrant)*
 4. With +x to the right, a cart moves 2.5 m/s to the left. What is v_x? *(−2.5 m/s; speed 2.5 m/s)*
 
 Next: [practice questions](/advanced-course-resources/physics-c-mechanics/1-1-scalars-vectors-practice/).

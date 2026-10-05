@@ -29,8 +29,8 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 ## Understanding
 
-- I can describe an observer's reference frame by its origin, axes and motion, and say which frame each measurement in a problem belongs to. *(Guide: "What a reference frame is")*
-- I can explain, with an example, why two observers can report different sizes and directions for the same velocity and both be right. *(Guide: "One dimension first")*
+- I can describe an observer's reference frame by its origin, axes and motion, and say which frame each measurement in a problem belongs to. *(Guide: "What a reference frame is"; Practice Q3)*
+- I can explain, with an example, why two observers can report different sizes and directions for the same velocity and both be right. *(Guide: "One dimension first"; Practice Q7(b))*
 - I can say what makes a frame inertial, and recognise when a problem's frame is not. *(Guide: "Inertial frames and the boundary"; Practice Q5(d))*
 
 ## Calculation
@@ -45,6 +45,6 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 - I can show by differentiating r_PA = r_PB + r_BA that inertial observers measure the same acceleration. *(Guide: "Converting measurements between frames"; Practice Q5(c))*
 - I can compare a motion in two frames, saying which quantities agree (acceleration, time) and which differ (velocity, displacement, path). *(Guide: Worked example 2; Practice Q7)*
-- I can draw a labelled vector triangle that shows a relative-velocity sum. *(Guide: Figure 2)*
+- I can draw a labelled vector triangle that shows a relative-velocity sum. *(Guide: Figure 2; Practice Q4, sketched before you calculate)*
 
 All ticked? Move on to Topic 1.5, [Motion in Two or Three Dimensions](/advanced-course-resources/physics-c-mechanics/1-5-motion-two-three-dimensions-study-guide/), or return to the [course roadmap](/advanced-course-resources/physics-c-mechanics/#roadmap).

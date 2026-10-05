@@ -250,7 +250,7 @@ Areas still have the same meanings. The area under a curved v_x–t graph is sti
 
 - **"The x–t graph shows the path."** No. It shows position against time. A ball thrown straight up and caught makes an arch on a y–t graph, but it travels in a vertical line.
 - **"A falling v_x–t line means moving backwards."** It means a_x is negative. The object moves backwards only when v_x itself is negative.
-- **"The highest point on a v_x–t graph is where the object turns around."** That is where it moves fastest. It turns around where v_x changes sign, which is where the v_x–t graph crosses the time axis.
+- **"The highest point on a v_x–t graph is where the object turns around."** That is where v_x is largest, so it is moving fastest in the + direction. It turns around where v_x changes sign, which is where the v_x–t graph crosses the time axis.
 - **"Use any kinematic equation whenever there is motion."** They need constant acceleration. Check this first.
 - **"At the top of a throw, a = 0."** The acceleration is −g all the way (Worked example 2).
 - **"Double the height, double the fall time."** Fall time grows with the square root of height (Worked example 3).

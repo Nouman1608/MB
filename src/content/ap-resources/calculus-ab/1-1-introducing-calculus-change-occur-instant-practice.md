@@ -13,7 +13,8 @@ prerequisiteResources: ["mb-ap-calcab-1.1-study-guide"]
 learningObjectives:
   - "Calculate average rates of change with correct units"
   - "Explain why an average rate cannot be found over an interval of length zero"
-  - "Estimate a rate at an instant from a formula, a table or a graph"
+  - "Estimate a rate at an instant from a formula or a table"
+  - "Link left and right average rates to the shape of a graph"
   - "Decide whether average rates from both sides agree on a single rate"
 skills: ["1", "2", "3"]
 studyMinutes: 40
@@ -113,7 +114,7 @@ A weather balloon's height is A(t) metres, t minutes after launch. Which express
 
 **Answer: (C).** The velocity at an instant is the value that average velocities over intervals [2, 2 + h] approach as h gets close to 0. That is exactly this limit.
 
-- (A) divides the height by the time. Even if A(0) = 0, this is the average velocity over [0, 2], not the velocity at t = 2.
+- (A) divides the height by the time. At best (when A(0) = 0) this is the average velocity over [0, 2], not the velocity at t = 2.
 - (B) is the average velocity over [2, 4]. It contains t = 2 and is an estimate, but not the exact rate at the instant.
 - (D) gives (A(2) − A(2))/0 = 0/0, which is undefined.
 </details>
@@ -192,7 +193,7 @@ Let g(x) = 3 + |x − 2|.
 (a) Find the average rate of change of g over [2, 2.1] and over [1.9, 2].
 (b) Show that the average rate over [2, 2 + h] is 1 for every h > 0, and that the average rate over [2 + h, 2] is −1 for every h < 0.
 (c) A student uses the interval [1.9, 2.1], finds an average rate of 0, and concludes that "the rate of change of g at x = 2 is 0". Explain why this conclusion is not justified.
-(d) Does g have a single rate of change at x = 2? Explain using your answers above.
+(d) Does g have a single rate of change at x = 2? Explain using your answers above, and describe what the graph of g looks like at x = 2.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
@@ -206,14 +207,14 @@ For h < 0, g(2 + h) = 3 + |h| = 3 − h, so the average over [2 + h, 2] is (g(2)
 
 **(c)** Over [1.9, 2.1], (g(2.1) − g(1.9))/0.2 = (3.1 − 3.1)/0.2 = 0. But this one interval hides what happens on each side: g falls at rate 1 to the left of 2 and rises at rate 1 to the right. The 0 is just the two sides cancelling. One average, however short the interval, does not show what the averages approach.
 
-**(d)** No. As the intervals shrink, the averages from the right stay at 1 and the averages from the left stay at −1. They do not approach one common value, so there is no single rate of change at x = 2. On the graph this is a sharp corner at (2, 3): no single tangent line fits. (Unit 2 returns to this when it discusses where a derivative exists.)
+**(d)** No. As the intervals shrink, the averages from the right stay at 1 and the averages from the left stay at −1. They do not approach one common value, so there is no single rate of change at x = 2. The graph of g is a V shape: a line of slope −1 to the left of 2 and a line of slope 1 to the right, meeting at a sharp corner at (2, 3). No single tangent line fits there. (Unit 2 returns to this when it discusses where a derivative exists.)
 
 | Point | What earns it |
 |---|---|
 | 1 | Both averages correct: 1 and −1 |
 | 1 | General result for each side, including the correct treatment of |h| = −h for h < 0 |
 | 1 | Explains that the symmetric average 0 comes from two different one-sided behaviours cancelling, so it does not show a rate at x = 2 |
-| 1 | Concludes there is no single rate at x = 2 because the left and right averages approach different values (−1 and 1) |
+| 1 | Concludes there is no single rate at x = 2 because the left and right averages approach different values (−1 and 1), and describes the graph as a V shape with a sharp corner at (2, 3) |
 </details>
 
 ## How did you do?

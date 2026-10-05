@@ -37,7 +37,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 ## Skills
 
 - I can use v_AC = v_AB + v_BC and v_BA = −v_AB with signed velocities. *(Guide: Figure 1; Practice Q1, Q2)*
-- I can convert positions and displacements from the ground frame into a moving observer's frame. *(Guide: "Converting positions and displacements"; Practice Q4)*
+- I can convert positions and displacements from the ground frame into a moving observer's frame. *(Guide: "Converting positions and displacements"; Practice Q4, Q6)*
 - I can find a meeting or overtaking time by working in the frame of one of the moving objects. *(Guide: Worked example 2; Practice Q4)*
 - I can derive a symbolic expression for a trip on a moving walkway or current, and test it with a limiting case. *(Practice Q5)*
 - I can sketch a velocity–time graph as seen from a frame moving at constant velocity by shifting the original graph. *(Guide: Figure 2; Practice Q3)*

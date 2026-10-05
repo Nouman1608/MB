@@ -136,7 +136,7 @@ Which of the following is the best estimate of lim (x → 1) f(x)?
 - (C) is f(1.1), the value furthest from x = 1 on the right.
 - (D) confuses the limit with the function value. The limit can exist even when f(1) does not, as here (substitution would give 0/0).
 
-Background only: the exact value is 5 ln 5 ≈ 8.047, which you will be able to show in Unit 2.
+Background only: the exact value is 5 ln 5 ≈ 8.047, which you will be able to show once you can differentiate exponential functions, later in the course.
 </details>
 
 ## Question 5 (constructed response · core)
@@ -152,7 +152,7 @@ Let f(x) = cos(π/x) for x ≠ 0. A student makes this table and claims that lim
 (c) Does lim (x → 0) f(x) exist? Justify your answer.
 
 <details>
-<summary>Worked solution</summary>
+<summary>Worked solution and suggested Marlbridge rubric</summary>
 
 **(a)** f(1/11) = cos(11π) = −1, because 11π is an odd multiple of π. Likewise f(1/101) = cos(101π) = **−1**.
 
@@ -162,7 +162,7 @@ Let f(x) = cos(π/x) for x ≠ 0. A student makes this table and claims that lim
 
 Lesson: a table is a sample. A pattern that looks perfect can be produced by the choice of x values.
 
-Suggested mark points (3): 1 for both values −1 in (a); 1 for explaining that every table value makes π/x an even multiple of π; 1 for "does not exist" with the oscillation reason (values 1 and −1 occur arbitrarily close to 0).
+Suggested Marlbridge rubric (3 points): 1 for both values −1 in (a); 1 for explaining that every table value makes π/x an even multiple of π; 1 for "does not exist" with the oscillation reason (values 1 and −1 occur arbitrarily close to 0).
 </details>
 
 ## Question 6 (constructed response · core)
@@ -227,7 +227,7 @@ Let h(x) = (4ˣ − 2ˣ)/x for x ≠ 0.
 | 1 | Justifies 2 decimal places: the closest left and right values agree to 2 decimal places but not 3 |
 | 1 | Explains that a table samples finitely many points and cannot rule out other behaviour near 0 |
 
-Background only: the exact value is ln 2 ≈ 0.6931, which you will be able to show in Unit 2.
+Background only: the exact value is ln 2 ≈ 0.6931, which you will be able to show once you can differentiate exponential functions, later in the course.
 </details>
 
 ## How did you do?

@@ -46,6 +46,6 @@ Work through the list without notes or a calculator. If you cannot do a statemen
 
 - I can interpret a rate in context, naming the time, the quantity, increasing or decreasing, and the units. *(Guide: Worked example 2; Practice Q5(c))*
 - I can explain why a long interval gives a poorer estimate than a short one containing the instant. *(Guide: Worked example 2, step 4; Practice Q3)*
-- I can check whether averages from the left and from the right approach the same value, and explain what it means if they do not. *(Guide: "Common misconceptions"; Practice Q7)*
+- I can check whether averages from the left and from the right approach the same value, and explain what it means for the graph if they do not. *(Guide: "Common misconceptions"; Practice Q7)*
 
 All ticked? Move on to [Topic 1.2, Defining Limits and Using Limit Notation](/advanced-course-resources/calculus-ab/1-2-defining-limits-limit-notation-study-guide/), or return to the [Calculus AB roadmap](/advanced-course-resources/calculus-ab/#roadmap) or the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

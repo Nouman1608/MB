@@ -52,7 +52,7 @@ Questions 1, 2 and 5 use Figure P1.
 <line x1="231" y1="345" x2="239" y2="345"/><line x1="231" y1="300" x2="239" y2="300"/><line x1="231" y1="210" x2="239" y2="210"/><line x1="231" y1="165" x2="239" y2="165"/><line x1="231" y1="120" x2="239" y2="120"/><line x1="231" y1="75" x2="239" y2="75"/><line x1="231" y1="30" x2="239" y2="30"/>
 </g>
 <g font-size="12" fill="#1d2b44" text-anchor="middle">
-<text x="70" y="273">−3</text><text x="125" y="273">−2</text><text x="180" y="273">−1</text><text x="290" y="273">1</text><text x="335" y="273">2</text><text x="400" y="273">3</text><text x="455" y="273">4</text><text x="510" y="273">5</text><text x="541" y="247">x</text>
+<text x="70" y="273">−3</text><text x="125" y="273">−2</text><text x="180" y="273">−1</text><text x="290" y="273">1</text><text x="345" y="273">2</text><text x="400" y="273">3</text><text x="455" y="273">4</text><text x="510" y="273">5</text><text x="541" y="247">x</text>
 </g>
 <g font-size="12" fill="#1d2b44" text-anchor="end">
 <text x="227" y="349">−2</text><text x="227" y="304">−1</text><text x="227" y="214">1</text><text x="227" y="169">2</text><text x="227" y="124">3</text><text x="227" y="79">4</text><text x="227" y="34">5</text><text x="227" y="20">y</text>
