@@ -36,7 +36,7 @@ faqs:
   - question: "Why do I not multiply the reduction potential when I double a half-reaction?"
     answer: "A potential is energy per unit of charge (1 V = 1 J per coulomb). Doubling the half-reaction doubles both the energy and the charge, so their ratio stays the same. The total energy change is handled by n in ΔG° = −nFE°."
   - question: "Is ΔG° = −nFE° on the formula sheet?"
-    answer: "The course lists it as a required equation, so expect to use it with data you are given. You still need to choose n yourself and convert between J and kJ."
+    answer: "Yes. It is on the equations and constants sheet you get in the exam, together with F = 96,485 C mol⁻¹. You still need to choose n yourself and convert between J and kJ."
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
@@ -91,7 +91,7 @@ For a zinc–copper cell, Cu²⁺ is reduced and Zn is oxidised: E°cell = (+0.3
 <figure>
 <svg viewBox="0 0 640 350" role="img" aria-labelledby="ladder-title ladder-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="ladder-title">A ladder of standard reduction potentials</title>
-<desc id="ladder-desc">A vertical scale of standard reduction potential in volts, from +1.5 at the top to −1.8 at the bottom. Marks from top to bottom: chlorine to chloride +1.36, bromine to bromide +1.07, silver ion to silver +0.80, copper(II) to copper +0.34, hydrogen ion to hydrogen 0.00, iron(II) to iron −0.44, aluminium ion to aluminium −1.66. An upward arrow on the left is labelled "more easily reduced, stronger oxidising agent". On the right a double-headed bracket spans from the iron(II) mark down to the aluminium mark and is labelled E°cell = −0.44 − (−1.66) = 1.22 V, with the iron half-reaction labelled cathode (higher) and the aluminium half-reaction labelled anode (lower).</desc>
+<desc id="ladder-desc">A vertical scale of standard reduction potential in volts, from +1.5 at the top to −1.8 at the bottom. Marks from top to bottom: chlorine to chloride +1.36, bromine to bromide +1.07, silver ion to silver +0.80, copper(II) to copper +0.34, hydrogen ion to hydrogen 0.00, iron(II) to iron −0.44, aluminium ion to aluminium −1.66. An upward arrow on the left is labelled "more easily reduced". On the right a dashed bracket spans from the iron(II) mark down to the aluminium mark and is labelled E°cell = −0.44 − (−1.66) = +1.22 V, with the iron half-reaction labelled cathode (higher) and the aluminium half-reaction labelled anode (lower).</desc>
 <line x1="250" y1="30" x2="250" y2="330" stroke="#1d2b44" stroke-width="2"/>
 <text x="250" y="22" text-anchor="middle" font-size="12" fill="#1d2b44">E° (V)</text>
 <g font-size="13" fill="#1d2b44">
@@ -128,7 +128,7 @@ This matches Topic 9.8: a galvanic cell runs a favourable reaction, and an elect
 
 ## Linking cell potential and free energy: ΔG° = −nFE°
 
-Electrical work equals charge × potential difference. When a redox reaction pushes electrons through a potential E°, the energy it can deliver is the charge it moves times E°. That energy is the free energy change:
+Electrical work equals charge × potential difference. When a redox reaction pushes n mol of electrons (charge nF) through a potential E°, the most electrical work it can do is nFE°. That maximum work equals the decrease in free energy, −ΔG°:
 
 > **ΔG° = −nFE°**
 

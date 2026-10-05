@@ -207,7 +207,7 @@ Cells need a fairly steady volume and internal solute composition. Enzymes work 
 <figure>
 <svg viewBox="0 0 560 370" role="img" aria-labelledby="carrot-title carrot-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="carrot-title">Mean percentage change in mass of carrot cylinders against sucrose concentration</title>
-<desc id="carrot-desc">Line graph. Horizontal axis: sucrose concentration in moles per litre, from 0 to 0.5. Vertical axis: mean percentage change in mass, from minus 15 to plus 20, with a horizontal line at zero. Six circle markers with vertical range bars fall in a nearly straight line from plus 18.0 at 0 molar to minus 13.9 at 0.5 molar. The line crosses zero change at about 0.28 molar, marked with a dashed vertical line.</desc>
+<desc id="carrot-desc">Line graph. Horizontal axis: sucrose concentration in moles per litre, from 0 to 0.5. Vertical axis: mean percentage change in mass, from minus 15 to plus 20, with a horizontal line at zero. Six circle markers with vertical range bars fall in a nearly straight line from plus 18.0 at 0 molar to minus 13.9 at 0.5 molar, with a straight best-fit line drawn through them. The line crosses zero change at about 0.28 molar, marked with a dashed vertical line.</desc>
 <rect x="0" y="0" width="560" height="370" fill="#ffffff"/>
 <line x1="80" y1="40" x2="480" y2="40" stroke="#1d2b44" stroke-width="0.5" stroke-dasharray="2 4"/>
 <line x1="80" y1="120" x2="480" y2="120" stroke="#1d2b44" stroke-width="0.5" stroke-dasharray="2 4"/>
@@ -227,7 +227,7 @@ Cells need a fairly steady volume and internal solute composition. Enzymes work 
 <text x="480" y="338" text-anchor="middle" font-size="12" fill="#1d2b44">0.5</text>
 <text x="280" y="362" text-anchor="middle" font-size="14" fill="#1d2b44">Sucrose concentration / M</text>
 <text x="22" y="180" text-anchor="middle" font-size="14" fill="#1d2b44" transform="rotate(-90 22 180)">Mean change in mass / %</text>
-<polyline points="80,56 160,108 240,160 320,209.6 400,260.8 480,311.2" fill="none" stroke="#1d2b44" stroke-width="2.5"/>
+<line x1="80" y1="56.8" x2="480" y2="311.6" stroke="#1d2b44" stroke-width="2.5"/>
 <line x1="80" y1="48.8" x2="80" y2="62.4" stroke="#1d2b44" stroke-width="1.5"/>
 <line x1="160" y1="101.6" x2="160" y2="112" stroke="#1d2b44" stroke-width="1.5"/>
 <line x1="240" y1="155.2" x2="240" y2="167.2" stroke="#1d2b44" stroke-width="1.5"/>
@@ -257,7 +257,7 @@ Cells need a fairly steady volume and internal solute composition. Enzymes work 
 <text x="250" y="96" font-size="12" fill="#1d2b44">gain in mass: water entered</text>
 <text x="96" y="300" font-size="12" fill="#1d2b44">loss in mass: water left</text>
 </svg>
-<figcaption>Figure 2. Fictional data. Circles are means of three cylinders; vertical bars show the range of the three trials. The point where the line crosses zero change estimates the isotonic concentration.</figcaption>
+<figcaption>Figure 2. Fictional data. Circles are means of three cylinders; vertical bars show the range of the three trials; the solid line is a straight best-fit line. The point where the line crosses zero change estimates the isotonic concentration.</figcaption>
 </figure>
 
 **(b) Isotonic point.** The tissue neither gains nor loses mass where the line crosses 0%. Between 0.2 M (+5.0%) and 0.3 M (−1.2%), the change falls by 6.2 percentage points. Zero is 5.0 ÷ 6.2 of the way along: 0.2 + (5.0 ÷ 6.2) × 0.1 = **0.28 M** (a best-fit line through all six points gives the same value to 2 s.f.).

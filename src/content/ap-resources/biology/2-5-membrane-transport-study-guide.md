@@ -78,7 +78,7 @@ There are three types, and you meet two of them in more detail soon:
 - **Facilitated diffusion** through a channel or carrier protein, for ions and large polar molecules such as glucose. A protein is involved, but the process is still passive: it only works down the gradient (Topic 2.6).
 - **Osmosis**, the passive movement of water across a membrane (Topic 2.7).
 
-Passive transport can never build up a substance above its concentration on the other side. At best it brings the two sides to equal concentration.
+For an uncharged solute, passive transport can never build up the substance above its concentration on the other side. At best it brings the two sides to equal concentration. (For ions, the charge across the membrane also matters; see Topic 2.6.)
 
 ## Active transport
 
@@ -158,7 +158,7 @@ Both processes **need energy**. The cell uses ATP to reshape the membrane and to
 
 ## Worked example 1: is uptake passive or active?
 
-**Question.** Cultured cells are placed in a large volume of medium containing an uncharged amino acid at **2.0 mmol L⁻¹**. Because the volume is large, the outside concentration stays at 2.0 mmol L⁻¹. One batch of cells is untreated. A second batch is given a metabolic inhibitor that blocks ATP production. The concentration of the amino acid inside the cells is measured over 60 minutes (fictional data).
+**Question.** Cultured cells are placed in a large volume of medium containing an amino acid with no overall charge at **2.0 mmol L⁻¹**. Because the volume is large, the outside concentration stays at 2.0 mmol L⁻¹. One batch of cells is untreated. A second batch is given a metabolic inhibitor that blocks ATP production. The concentration of the amino acid inside the cells is measured over 60 minutes (fictional data).
 
 | Time / min | 0 | 5 | 10 | 20 | 40 | 60 |
 |---|---|---|---|---|---|---|
@@ -219,7 +219,7 @@ Both processes **need energy**. The cell uses ATP to reshape the membrane and to
 - When ATP production is blocked, uptake is slower and stops when inside equals outside. That is the pattern expected for **passive transport**: net movement down the gradient until equilibrium.
 - Together, the two batches suggest the cells have both a passive route and an ATP-dependent route for this amino acid. The inhibited cells reach only 2.0 ÷ 8.8 ≈ 23% of the untreated level.
 
-**Check.** The answer uses both lines of evidence: the inside rising above the outside, **and** the effect of removing ATP. Either alone is weaker. The amino acid is uncharged, so you can compare concentrations directly; for ions, charge also matters (Topic 2.8).
+**Check.** The answer uses both lines of evidence: the inside rising above the outside, **and** the effect of removing ATP. Either alone is weaker. The amino acid has no overall charge, so you can compare concentrations directly; for ions, charge also matters (Topic 2.8).
 
 ## Worked example 2: evaluating an experiment and proposing a better one
 

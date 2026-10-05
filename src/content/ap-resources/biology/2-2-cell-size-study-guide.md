@@ -186,7 +186,7 @@ The radius tripled, so SA rose 9 times (3²) and V rose 27 times (3³), and SA/V
 
 **(c)** Added volume = 2000 × πr²h = 2000 × π × 0.05² × 1.0 = 15.7 µm³, only 0.63% more. New SA/V = 1828.3 ÷ 2515.7 = **0.73 µm⁻¹**, up from 0.48 µm⁻¹. The absorbing face alone grows from 100 µm² to 728.3 µm², about 7.3 times. Microvilli add a lot of membrane exactly where food is absorbed, for almost no extra volume to supply.
 
-**Check the units.** µm² ÷ µm³ = µm⁻¹ ✓. Common error: adding the full cylinder surface (2πrh + 2πr²) for each microvillus counts the tip and base twice.
+**Check the units.** µm² ÷ µm³ = µm⁻¹ ✓. Common error: adding the full cylinder surface (2πrh + 2πr²) for each microvillus counts each tip twice (its area is already part of the top face) and adds a base that is not exposed.
 
 ## Common misconceptions
 

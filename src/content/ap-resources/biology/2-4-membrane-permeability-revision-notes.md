@@ -81,6 +81,6 @@ Short on time? This page is the recap. For explanations, figures and worked exam
 
 1. Why does CO₂ cross a pure bilayer but Cl⁻ does not? *(CO₂ is small and nonpolar, so it passes through the tails; Cl⁻ is charged and held in its water shell.)*
 2. Values 10, 12 and 14: what is the SE? *(Mean 12, s = 2, SE = 2 ÷ √3 = 1.15; interval 12 ± 2.3.)*
-3. Why does a plant cell not burst in pure water? *(The wall resists expansion; turgor pressure builds until no more water enters.)*
+3. Why does a plant cell not burst in pure water? *(The wall resists expansion; turgor pressure builds until there is no net entry of water.)*
 
 Next: [practice questions](/advanced-course-resources/biology/2-4-membrane-permeability-practice/).

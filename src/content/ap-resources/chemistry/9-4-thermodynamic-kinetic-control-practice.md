@@ -19,14 +19,14 @@ skills: ["3", "5", "6"]
 studyMinutes: 40
 difficulty: "mixed"
 calculator: "scientific"
-calculatorNote: "ΔG°f at 298 K (kJ mol⁻¹): CO₂(g) −394.39, H₂O(l) −237.14, H₂O(g) −228.61, C₂H₅OH(l) −174.8, NO(g) +87.60"
+calculatorNote: "ΔG°f at 298 K (kJ mol⁻¹): CO₂(g) −394.39, H₂O(l) −237.14, H₂O(g) −228.58, C₂H₅OH(l) −174.8, NO(g) +86.60"
 related: ["mb-ap-chem-9.4-study-guide", "mb-ap-chem-9.4-revision-notes", "mb-ap-chem-9.4-checklist"]
 next: "mb-ap-chem-9.4-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-chemistry", "page-chemistry"]
 keyPoints:
   - "Questions 1–4 are multiple choice; 5–7 need written working."
-  - "Reaction J → L and compound Q use invented data for practice."
+  - "Reaction J → L and compound W use invented data for practice."
   - "Each answer explains why the wrong options are wrong."
 version: "1.0"
 publishedDate: 2026-10-05
@@ -35,7 +35,7 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data: ΔG°f at 298 K: CO₂(g) −394.39, H₂O(l) −237.14, H₂O(g) −228.61, C₂H₅OH(l) −174.8, NO(g) +87.60 kJ mol⁻¹; elements in their standard states 0. Reaction J → L and compound Q use invented data, made up for practice.
+These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data: ΔG°f at 298 K: CO₂(g) −394.39, H₂O(l) −237.14, H₂O(g) −228.58, C₂H₅OH(l) −174.8, NO(g) +86.60 kJ mol⁻¹; elements in their standard states 0. Reaction J → L and compound W use invented data, made up for practice.
 
 ## Question 1 (multiple choice · foundation)
 
@@ -90,7 +90,7 @@ An open dish of ethanol stands in air at 25 °C. Using the data at the top of th
 
 - (B) subtracts the wrong way round (reactants minus products).
 - (C) ignores the coefficients: −394.39 − 237.14 + 174.8 = −456.7 kJ mol⁻¹. It also invents a slow, flameless burning that is not observed.
-- (D) has the right ΔG° but the wrong conclusion. With ΔG° so negative, K is enormous; almost no CO₂ and H₂O are forming, so Q ≪ K.
+- (D) has the right ΔG° but the wrong conclusion. With ΔG° so negative, K is enormous. At equilibrium almost all the ethanol would have become CO₂ and H₂O, but the ethanol is still there, so Q ≪ K and the system is far from equilibrium.
 </details>
 
 ## Question 4 (multiple choice · core)
@@ -137,7 +137,7 @@ Suggested mark points (4): 1 for "favoured because ΔG° < 0"; 1 for 270 kJ mol�
 
 ## Question 6 (constructed response · core)
 
-Compound Q is a white solid that can decompose: Q(s) → R(s) + G(g). For this reaction ΔH° = −35.0 kJ mol⁻¹ and ΔS° = +120 J K⁻¹ mol⁻¹. A sample of Q kept in a closed jar at 25 °C for a year shows no change.
+Compound W is a white solid that can decompose: W(s) → R(s) + Y(g). For this reaction ΔH° = −35.0 kJ mol⁻¹ and ΔS° = +120 J K⁻¹ mol⁻¹. A sample of W kept in a closed jar at 25 °C for a year shows no change.
 
 (a) Calculate ΔG° at 298 K.
 (b) Explain why the decomposition is favoured at every temperature, without further calculation.
@@ -151,9 +151,9 @@ Compound Q is a white solid that can decompose: Q(s) → R(s) + G(g). For this r
 
 **(b)** ΔH° < 0 and ΔS° > 0. Both ΔH° and −TΔS° are negative, so ΔG° < 0 at every temperature.
 
-**(c)** The claim is **incorrect**. ΔG° is negative, so K is large and an equilibrium mixture would contain mainly R and G. The jar still contains Q, so Q ≪ K and the system is far from equilibrium. The decomposition must have a high activation energy, so it is under kinetic control.
+**(c)** The claim is **incorrect**. ΔG° is negative, so K is large and an equilibrium mixture would contain mainly R and Y. The jar still contains W, so Q ≪ K and the system is far from equilibrium. The decomposition must have a high activation energy, so it is under kinetic control.
 
-**(d)** Add a suitable catalyst to a sample of Q (or heat a small sample strongly). Expected result: G is given off and R forms. If the system were already at equilibrium, a catalyst would not change the amounts.
+**(d)** Add a suitable catalyst to a sample of W (or heat a small sample strongly). Expected result: gas Y is given off and R forms. If the system were already at equilibrium, a catalyst would not change the amounts.
 
 | Point | What earns it |
 |---|---|
@@ -176,8 +176,8 @@ Use ΔG° values calculated from the data at the top of the page to evaluate the
 <summary>Model answer and suggested Marlbridge rubric</summary>
 
 **Calculations.**
-N₂(g) + O₂(g) → 2NO(g): ΔG° = 2(+87.60) − 0 = **+175.2 kJ mol⁻¹**.
-2H₂(g) + O₂(g) → 2H₂O(g): ΔG° = 2(−228.61) − 0 = **−457.2 kJ mol⁻¹**.
+N₂(g) + O₂(g) → 2NO(g): ΔG° = 2(+86.60) − 0 = **+173.2 kJ mol⁻¹**.
+2H₂(g) + O₂(g) → 2H₂O(g): ΔG° = 2(−228.58) − 0 = **−457.2 kJ mol⁻¹**.
 
 **Evaluation.** The statement is **only half right**.
 - For H₂ and O₂, ΔG° < 0: water formation is favoured, yet it does not happen at a measurable rate. That is kinetic control, caused by a high activation energy. A spark or catalyst would start it.

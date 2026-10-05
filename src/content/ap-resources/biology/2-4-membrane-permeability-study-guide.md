@@ -305,7 +305,7 @@ So the **nonpolar hydrocarbon tails** are the barrier. Selective permeability is
 
 Three properties set the order: **charge** matters most (any charge blocks), then **polarity**, then **size**. A useful rule: the more a substance resembles the tails (small and nonpolar), the more easily it crosses. *Background:* larger nonpolar molecules, such as steroid hormones, can also pass through the bilayer, which is why their receptors can sit inside the cell.
 
-Because hydrophilic substances need **embedded channel and transport proteins**, the cell controls their movement by choosing which proteins it puts in its membrane. A cell with no potassium channels cannot let K⁺ out, however large the concentration difference. You will study how these proteins work, and when they use energy, in the next topics of this unit.
+Because hydrophilic substances need **embedded channel and transport proteins**, the cell controls their movement by choosing which proteins it puts in its membrane. If a membrane has no proteins that carry K⁺, almost no K⁺ crosses it, however large the concentration difference. You will study how these proteins work, and when they use energy, in the next topics of this unit.
 
 ## Cell walls: an extra layer for some cells
 
@@ -322,7 +322,7 @@ A cell wall has three jobs:
 
 1. **Structural boundary.** It is stiffer than the membrane, so it gives the cell a fixed shape and supports it. In plants, walls pushed on by the cell contents hold soft tissues upright.
 2. **Permeability barrier for some substances.** The wall is porous. Water, gases, ions and small molecules pass through it easily, but the pores hold back some large molecules. It is a coarse filter; the membrane does the fine selecting.
-3. **Protection from osmotic lysis.** When a cell sits in a more dilute solution than its cytoplasm, water moves in by osmosis (you will study this later in the unit). A cell with only a membrane swells and can burst; this bursting is **osmotic lysis**. A wall resists the swelling. The cell presses outwards against it, building up **turgor pressure**, and the wall pushes back, so no more water can enter and the cell does not burst.
+3. **Protection from osmotic lysis.** When a cell sits in a more dilute solution than its cytoplasm, water moves in by osmosis (you will study this later in the unit). A cell with only a membrane swells and can burst; this bursting is **osmotic lysis**. A wall resists the swelling. The cell presses outwards against it, building up **turgor pressure**, and the wall pushes back. Net entry of water stops before the cell can burst.
 
 This is why an animal cell, such as a red blood cell, bursts in pure water, but a plant cell in pure water becomes firm (turgid) instead. It also explains how the antibiotic **penicillin** kills growing bacteria: it stops them building peptidoglycan cross-links properly, so the wall weakens, water rushes in and the cells burst.
 

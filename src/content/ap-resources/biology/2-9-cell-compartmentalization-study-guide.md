@@ -79,7 +79,7 @@ A house solves a similar problem with rooms: you cook in the kitchen and sleep i
 <ellipse cx="250" cy="325" rx="55" ry="24" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2.5"/>
 <polyline points="205,325 215,310 225,340 235,310 245,340 255,310 265,340 275,310 285,340 295,325" fill="none" stroke="#1d2b44" stroke-width="2"/>
 <text x="100" y="345" text-anchor="middle" font-size="13" fill="#1d2b44">Cytosol (pH ≈ 7.2)</text>
-<line x1="463" y1="46" x2="440" y2="60" stroke="#1d2b44" stroke-width="1"/>
+<line x1="463" y1="46" x2="448" y2="58" stroke="#1d2b44" stroke-width="1"/>
 <text x="467" y="50" font-size="13" fill="#1d2b44">Plasma membrane</text>
 <line x1="463" y1="96" x2="262" y2="112" stroke="#1d2b44" stroke-width="1"/>
 <text x="467" y="100" font-size="13" fill="#1d2b44">Rough ER + ribosomes (dots)</text>
@@ -104,7 +104,7 @@ A house solves a similar problem with rooms: you cook in the kitchen and sleep i
 | **Vesicles** | small single-membrane sacs | cargo moving between compartments or to the plasma membrane |
 | **Lysosomes** | single membrane with proton pumps | hydrolytic (digestive) enzymes in an acidic interior |
 | **Vacuoles** | single membrane | water, ions and stored materials (one large central vacuole in plant cells) |
-| **Mitochondria** | outer membrane plus a folded inner membrane | two spaces (intermembrane space and matrix) for the stages of aerobic respiration |
+| **Mitochondria** | outer membrane plus a folded inner membrane | two spaces (intermembrane space and matrix) for the stages of aerobic respiration that follow glycolysis |
 | **Chloroplasts** | double envelope plus internal thylakoid membranes | light-capturing reactions on the thylakoids; carbon-fixing reactions in the fluid around them |
 
 The **plasma membrane** is a compartment boundary too. It separates the whole cell from its surroundings. Ribosomes are not membrane-bound, so they are not compartments, but many of them work on the surface of the rough ER.

@@ -63,7 +63,7 @@ Neither method breaks any rule of thermodynamics. The unfavourable process still
 
 In an **electrolytic cell**, a power supply pushes electrons through a reaction that would not happen by itself. Decomposing water is an example:
 
-2H₂O(l) → 2H₂(g) + O₂(g)  ΔG° = +474.3 kJ mol⁻¹ (per mole of reaction as written)
+2H₂O(l) → 2H₂(g) + O₂(g)  ΔG° = +474.2 kJ mol⁻¹ (per mole of reaction as written)
 
 This value is twice the standard free energy of formation of liquid water (−237.1 kJ mol⁻¹), with the sign reversed. So the power supply must deliver **at least 237.1 kJ of electrical energy for every mole of H₂ made** under standard conditions. In practice more is needed, because some energy is always lost as heat.
 
@@ -148,7 +148,7 @@ An engineer suggests roasting the ore in air instead, so that the sulfur burns:
 
 (2) S(s) + O₂(g) → SO₂(g)  ΔG°₂ = −300.1 kJ mol⁻¹
 
-(a) Identify the common intermediate. (b) Write the overall equation and find ΔG°(overall). (c) Find K₁, K₂ and K(overall) at 298 K and comment.
+(a) Identify the common intermediate. (b) Write the overall equation and find ΔG°(overall). (c) Find K₁, K₂ and K(overall) at 298.15 K and comment.
 
 1. **Common intermediate.** S(s) is a product of reaction (1) and a reactant in reaction (2).
 2. **Add the equations.** MS(s) + S(s) + O₂(g) → M(s) + S(s) + SO₂(g). Cancel S(s):
@@ -193,10 +193,10 @@ An engineer suggests roasting the ore in air instead, so that the sulfur burns:
 
 ## Worked example 3: the minimum light energy for photosynthesis
 
-**Question.** Photosynthesis has ΔG° ≈ +2879 kJ per mole of glucose. Chlorophyll absorbs red light of wavelength 680 nm. What is the smallest amount of 680 nm photons, in moles, that could supply this energy? (h = 6.626 × 10⁻³⁴ J s, c = 2.998 × 10⁸ m s⁻¹, N_A = 6.022 × 10²³ mol⁻¹.)
+**Question.** Photosynthesis has ΔG° ≈ +2880 kJ per mole of glucose. Chlorophyll absorbs red light of wavelength 680 nm. What is the smallest amount of 680 nm photons, in moles, that could supply this energy? (h = 6.626 × 10⁻³⁴ J s, c = 2.998 × 10⁸ m s⁻¹, N_A = 6.022 × 10²³ mol⁻¹.)
 
 1. Energy of one mole of photons: E = N_A × hc / λ = 6.022 × 10²³ × (6.626 × 10⁻³⁴ × 2.998 × 10⁸) / (680 × 10⁻⁹ m) = 1.759 × 10⁵ J mol⁻¹ = **175.9 kJ mol⁻¹**.
-2. Moles of photons needed: 2879 kJ ÷ 175.9 kJ mol⁻¹ = **16.4 mol of photons per mole of glucose** (about 9.9 × 10²⁴ photons).
+2. Moles of photons needed: 2880 kJ ÷ 175.9 kJ mol⁻¹ = **16.4 mol of photons per mole of glucose** (about 9.9 × 10²⁴ photons).
 3. Units check: kJ ÷ (kJ per mol of photons) leaves mol of photons.
 
 **Interpretation.** This is a lower limit. Real plants absorb more light than this, because no energy conversion is 100% efficient. The calculation shows that light really can supply the free energy that the unfavourable reaction needs.

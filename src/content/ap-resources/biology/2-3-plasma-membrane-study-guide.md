@@ -71,7 +71,7 @@ Proteins are set into the bilayer. A protein's surface is made of the R groups (
 
 So a protein can be hydrophilic, hydrophobic, or both. Two types are worth naming:
 
-- **Integral (transmembrane) proteins** pass right through the bilayer. They have a hydrophobic middle section and hydrophilic ends on each side. Many contain an **α-helix** of about 20 or more nonpolar amino acids that spans the hydrophobic interior.
+- **Integral (transmembrane) proteins** pass right through the bilayer. They have a hydrophobic middle section and hydrophilic ends on each side. Many contain an **α-helix** of about 20 or more mostly nonpolar amino acids that spans the hydrophobic interior.
 - **Peripheral proteins** sit on one surface only. They attach to the heads or to an integral protein, and they do not enter the hydrophobic interior. Their surface is mostly hydrophilic.
 
 Membrane proteins do many jobs: **channels and carriers** move ions and polar molecules across; **receptors** detect signals; some are **enzymes**; others **anchor** the membrane to the cytoskeleton inside or to neighbouring cells.
@@ -410,7 +410,7 @@ Before bleaching, every spot read 1000 units; just after bleaching, every spot r
 
 **(b) Protein X.** The bleached molecules did not repair themselves. Instead, unbleached tagged proteins from the surrounding membrane **moved sideways** into the dark spot, and bleached ones drifted out. Most of the brightness returned within a minute. This supports the "fluid" part of the model: membrane proteins can move laterally within the bilayer.
 
-**(c) Protein Y and the fixed cells.** Protein Y moved much less: only 20% recovered, so about 80% of it stayed put. A reasonable explanation is that much of protein Y is **anchored**, for example attached to the cytoskeleton or to a large protein complex. This is consistent with the model, which allows some components to be held in place. The fixed cells are a **control**: when movement is blocked, there is no recovery. This shows that the recovery seen for X was caused by movement, not by the label recovering on its own.
+**(c) Protein Y and the fixed cells.** Protein Y moved much less: only 20% recovered in 2 minutes, so most of it did not move into the spot in that time. A reasonable explanation is that much of protein Y is **anchored**, for example attached to the cytoskeleton or to a large protein complex. This is consistent with the model, which allows some components to be held in place. The fixed cells are a **control**: when movement is blocked, there is no recovery. This shows that the recovery seen for X was caused by movement, not by the label recovering on its own.
 
 **How confident?** Each value is from one fictional run, so repeats would be needed before drawing firm conclusions, and anchoring is only one possible explanation for Y. Testing Y in cells whose cytoskeleton has been disrupted would be a sensible next step.
 
@@ -422,7 +422,7 @@ Before bleaching, every spot read 1000 units; just after bleaching, every spot r
 - **"Proteins float on top of the membrane."** Peripheral proteins sit on a surface, but integral proteins pass right through the bilayer.
 - **"Fluid means the membrane is liquid and has no structure."** The membrane holds a stable bilayer shape. "Fluid" means its components can drift sideways within it.
 - **"Carbohydrate chains are on both faces."** In the plasma membrane they face the outside of the cell.
-- **"Cholesterol is found in every membrane."** Cholesterol is the membrane steroid of vertebrate animal cells. Other organisms use different molecules; plants, for example, use related sterols.
+- **"Cholesterol is found in every membrane."** Cholesterol is the membrane steroid of animal cells (the course names vertebrate animals). Plants and fungi use related sterols instead, and most bacteria have no sterols in their membranes at all.
 - **"The cell has to spend energy to hold the bilayer together."** The bilayer forms and stays together on its own because of how heads and tails interact with water.
 
 ## Where this leads

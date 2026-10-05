@@ -60,7 +60,7 @@ Because prokaryotes are small, their large surface area relative to volume lets 
 
 ## Inside a eukaryotic cell
 
-Eukaryotic cells keep a whole system of internal membranes that **partition** the cell into specialized regions: the nucleus, the ER, the Golgi complex, vesicles, lysosomes and vacuoles, plus mitochondria and, in plants and algae, chloroplasts. As you saw in [Topic 2.9](/advanced-course-resources/biology/2-9-cell-compartmentalization-study-guide/), these membranes keep competing reactions apart and add surface area for membrane-bound reactions.
+Eukaryotic cells keep a whole system of internal membranes that **partition** the cell into regions, each specialized for particular jobs: the nucleus, the ER, the Golgi complex, vesicles, lysosomes and vacuoles, plus mitochondria and, in plants and algae, chloroplasts. As you saw in [Topic 2.9](/advanced-course-resources/biology/2-9-cell-compartmentalization-study-guide/), these membranes keep competing reactions apart and add surface area for membrane-bound reactions.
 
 | Feature | Prokaryotic cell | Eukaryotic cell |
 |---|---|---|
@@ -76,7 +76,7 @@ Eukaryotic cells keep a whole system of internal membranes that **partition** th
 
 ## Endosymbiosis: where mitochondria and chloroplasts came from
 
-**Endosymbiosis** means one organism living inside another, to the benefit of both. The **endosymbiotic theory** states that mitochondria and chloroplasts evolved from prokaryotes that were once free-living. The American biologist Lynn Margulis set out the microbiological evidence for it in a 1967 paper, building on older ideas.
+**Endosymbiosis** means one organism living inside the cell or body of another. In the case of these organelles, the partnership came to benefit both sides. The **endosymbiotic theory** states that mitochondria and chloroplasts evolved from prokaryotes that were once free-living. The American biologist Lynn Margulis set out the microbiological evidence for it in a 1967 paper, building on older ideas.
 
 <figure>
 <svg viewBox="0 0 700 290" role="img" aria-labelledby="endo-title endo-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">

@@ -17,7 +17,7 @@ calculator: "scientific"
 related: ["mb-ap-chem-9.6-study-guide", "mb-ap-chem-9.6-practice", "mb-ap-chem-9.6-checklist"]
 next: "mb-ap-chem-9.6-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-chemistry"]
+sources: ["ced-chemistry", "page-chemistry"]
 keyPoints:
   - "Break the solid (ΔH +, ΔS +); reorganise the solvent (ΔH usually +, ΔS usually −); ion–solvent attractions (ΔH −)."
   - "ΔG°(dissolution) = ΔH° − TΔS° = −RT ln K_sp."

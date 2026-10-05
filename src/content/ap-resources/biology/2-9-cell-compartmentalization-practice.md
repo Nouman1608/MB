@@ -212,7 +212,7 @@ A model animal cell is a sphere 20 µm in diameter. Each lysosome is a sphere 0.
 
 Suggested mark points (3): 1 for both volumes; 1 for the 64,000-times ratio with the two concentrations; 1 for 0.39% **and** an advantage linked to concentration or containment.
 
-Common errors: using the diameter as the radius gives 33,500 µm³ for the cell, eight times too large; forgetting to cube the radius gives a ratio of only 1,600 (40²).
+Common errors: using the diameter as the radius gives 33,500 µm³ for the cell, eight times too large; squaring the radius instead of cubing it gives a ratio of only 1,600 (40²).
 </details>
 
 ## How did you do?

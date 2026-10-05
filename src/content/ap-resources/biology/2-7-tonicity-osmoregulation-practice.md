@@ -236,7 +236,7 @@ A plant cell with a solute potential of −9.0 bar is placed in an open beaker o
 
 **(b)** At equilibrium the cell's Ψ equals the solution's Ψ: Ψp + (−9.0) = −6.19, so Ψp = −6.19 + 9.0 = **+2.81 bar** (about +2.8 bar). The cell is turgid.
 
-**(c)** Ψ = −(2)(0.50)(0.0831)(298) = **−24.8 bar**. Even with Ψp at zero, the cell's water potential could rise no higher than −9.0 bar, which is far above −24.8 bar. Water leaves the cell, turgor is lost (Ψp falls to 0) and the cell **plasmolyses**.
+**(c)** Ψ = −(2)(0.50)(0.0831)(298) = **−24.8 bar**. Even when Ψp falls to zero, the cell's water potential can fall only to −9.0 bar, which is still far above −24.8 bar. Water leaves the cell, turgor is lost (Ψp falls to 0) and the cell **plasmolyses**.
 
 Suggested mark points (3): 1 for −6.19 bar with T in kelvin; 1 for Ψp ≈ +2.8 bar from setting the two water potentials equal; 1 for −24.8 bar with i = 2 **and** the prediction of water loss and plasmolysis.
 

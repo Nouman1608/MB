@@ -109,7 +109,7 @@ Solid sodium nitrate, NaNO₃, dissolves readily in water at 25 °C, and the tem
 
 - (A) misreads the temperature drop: an exothermic process would warm the solution.
 - (C) is false in general: many endothermic processes (such as melting ice at −10 °C) are not favoured.
-- (D) confuses speed with favourability. Speed cannot make a process with ΔG° > 0 go to a significant extent.
+- (D) confuses speed with favourability. Rate decides how quickly a process happens, not which direction is favoured; a fast rate cannot make an unfavoured process go.
 </details>
 
 ## Question 5 (calculation · core)

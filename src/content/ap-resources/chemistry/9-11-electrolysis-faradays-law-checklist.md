@@ -28,8 +28,8 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 ## Understanding
 
-- I can explain why the amount of product in a cell depends on the number of electrons that pass. *(Guide: "Counting electrons with an ammeter and a clock")*
-- I can state what the Faraday constant represents and why it works like a molar mass for charge. *(Guide: "The Faraday constant")*
+- I can explain why the amount of product in a cell depends on the number of electrons that pass. *(Guide: "Counting electrons with an ammeter and a clock"; Practice Q1)*
+- I can state what the Faraday constant represents and why it works like a molar mass for charge. *(Guide: "The Faraday constant"; Practice Q1)*
 - I can explain why cells joined in series pass the same charge, and why both electrodes of one cell share the same moles of electrons. *(Guide: Worked example 3; Practice Q2)*
 - I can say which changes alter the amount of product (current, time, ion charge) and which do not (concentration, electrode size). *(Guide: "What changes the amount of product"; Practice Q3)*
 

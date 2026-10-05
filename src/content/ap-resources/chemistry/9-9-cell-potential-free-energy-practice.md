@@ -114,7 +114,7 @@ Which reaction is thermodynamically **unfavoured** under standard conditions, so
 
 Only (C) has a negative E° (so a positive ΔG°). Copper is above hydrogen on the ladder, so H⁺ cannot oxidise it under standard conditions.
 
-- (A), (B) and (D) all have positive E° values, so they are favoured. Their reducing agents (Mg, I⁻, Zn) sit lower on the table than the species they reduce.
+- (A), (B) and (D) all have positive E° values, so they are favoured. In each, the reducing agent (Mg, I⁻, Zn) belongs to a half-reaction lower on the table than the species it reduces.
 </details>
 
 ## Question 4 (calculation · core)

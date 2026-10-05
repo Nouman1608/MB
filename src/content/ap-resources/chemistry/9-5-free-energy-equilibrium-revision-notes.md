@@ -17,7 +17,7 @@ calculator: "scientific"
 related: ["mb-ap-chem-9.5-study-guide", "mb-ap-chem-9.5-practice", "mb-ap-chem-9.5-checklist"]
 next: "mb-ap-chem-9.5-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-chemistry"]
+sources: ["ced-chemistry", "page-chemistry"]
 keyPoints:
   - "ΔG° < 0 ⇔ K > 1 ⇔ products favoured (thermodynamically favoured)."
   - "ΔG° = −RT ln K, with ΔG° in J mol⁻¹, R = 8.314 J mol⁻¹ K⁻¹, T in K."

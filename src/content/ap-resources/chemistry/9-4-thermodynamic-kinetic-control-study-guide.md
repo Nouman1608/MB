@@ -96,7 +96,7 @@ To react, particles must collide with enough energy to begin breaking bonds and 
 
 If Eₐ is large, only a tiny fraction of collisions at room temperature have enough energy to get over the barrier. The reaction is still "downhill" overall, but it is stuck behind the hill. Its rate may be so low that no change can be measured in a human lifetime.
 
-> **Background (not assessed).** From the Arrhenius idea in Topic 5.6, the fraction of collisions with enough energy is roughly proportional to e^(−Eₐ/RT). At 298 K this fraction is about 1.7 × 10⁻⁹ when Eₐ = 50 kJ mol⁻¹ and about 3.0 × 10⁻¹⁸ when Eₐ = 100 kJ mol⁻¹. Doubling the barrier makes successful collisions roughly a billion times rarer. You will not be asked to calculate this.
+> **Background (not assessed).** From the Arrhenius idea in Topic 5.6, the fraction of collisions with enough energy is roughly proportional to e^(−Eₐ/RT). At 298 K this fraction is about 1.7 × 10⁻⁹ when Eₐ = 50 kJ mol⁻¹ and about 3.0 × 10⁻¹⁸ when Eₐ = 100 kJ mol⁻¹. Doubling the barrier makes successful collisions about 6 × 10⁸ times rarer. You will not be asked to calculate this.
 
 ## Kinetic control: what the term means
 
@@ -111,7 +111,7 @@ It is tempting to say: "Nothing is changing, so the system must be at equilibriu
 - At **equilibrium**, the forward and reverse rates are **equal**, and the reaction quotient equals the equilibrium constant: Q = K.
 - Under **kinetic control**, both rates are close to **zero**, and Q is nowhere near K.
 
-Take the hydrogen and oxygen mixture. For 2H₂(g) + O₂(g) → 2H₂O(g), ΔG° = 2(−228.61) = −457.2 kJ mol⁻¹. A ΔG° this negative means K is enormous: at equilibrium almost all the reactants would have become water. (You will make that link precise in Topic 9.5.) In the container, there is essentially no water, so Q is close to zero and **Q ≪ K**. The system is a long way from equilibrium; it is simply not moving towards it at a measurable rate.
+Take the hydrogen and oxygen mixture. For 2H₂(g) + O₂(g) → 2H₂O(g), ΔG° = 2(−228.58) = −457.2 kJ mol⁻¹. A ΔG° this negative means K is enormous: at equilibrium almost all the reactants would have become water. (You will make that link precise in Topic 9.5.) In the container, there is essentially no water, so Q is close to zero and **Q ≪ K**. The system is a long way from equilibrium; it is simply not moving towards it at a measurable rate.
 
 Two observations that tell the cases apart:
 
@@ -145,13 +145,13 @@ Two observations that tell the cases apart:
 
 2H₂O₂(l) → 2H₂O(l) + O₂(g)
 
-ΔG°f at 298 K: H₂O₂(l) −120.42 kJ mol⁻¹; H₂O(l) −237.14 kJ mol⁻¹.
+ΔG°f at 298 K: H₂O₂(l) −120.35 kJ mol⁻¹; H₂O(l) −237.14 kJ mol⁻¹.
 
 (a) Calculate ΔG° for the reaction.
 (b) A student says: "In the cupboard the hydrogen peroxide is at equilibrium." Evaluate this claim.
 (c) Explain the effect of the manganese(IV) oxide, and state whether it changes ΔG°.
 
-**(a)** ΔG° = 2(−237.14) + 0 − 2(−120.42) = −474.28 + 240.84 = **−233.44 kJ mol⁻¹** of reaction (−116.7 kJ per mole of H₂O₂). O₂(g) is an element in its standard state, so its ΔG°f is 0.
+**(a)** ΔG° = 2(−237.14) + 0 − 2(−120.35) = −474.28 + 240.70 = **−233.58 kJ mol⁻¹** of reaction (−116.8 kJ per mole of H₂O₂). O₂(g) is an element in its standard state, so its ΔG°f is 0.
 
 **(b)** The claim is **incorrect**. ΔG° is large and negative, so K is very large and the equilibrium mixture would be almost all water and oxygen. The bottle still contains nearly all its hydrogen peroxide, so Q ≪ K: the system is far from equilibrium. It changes so slowly because the uncatalysed decomposition has a high activation energy. The bottle is under kinetic control, not at equilibrium.
 
@@ -185,7 +185,7 @@ Questions on this topic usually ask you to **justify a claim** that links what y
 - **"A catalyst makes ΔG° more negative."** A catalyst lowers Eₐ only. The start and end points, and so ΔG°, stay the same.
 - **"Kinetic control means the reaction is not favoured."** Kinetic control applies only to favoured processes.
 - **"A slow reaction must have a small ΔG°."** The size of ΔG° and the size of Eₐ are unrelated. Hydrogen peroxide has a large negative ΔG° and is still slow.
-- **"Heating a stable mixture changes ΔG° from positive to negative."** For hydrogen and oxygen, ΔG° is already negative; the spark supplies enough energy for some collisions to cross the barrier, and the energy released keeps the reaction going.
+- **"A spark works by changing ΔG° from positive to negative."** For hydrogen and oxygen, ΔG° is already negative; the spark supplies enough energy for some collisions to cross the barrier, and the energy released keeps the reaction going.
 
 ## Where this leads
 

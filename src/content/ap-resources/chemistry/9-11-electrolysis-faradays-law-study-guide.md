@@ -163,7 +163,7 @@ When two electrolytic cells are joined **in series** (one after the other in a s
 <figure>
 <svg viewBox="0 0 640 300" role="img" aria-labelledby="ser-title ser-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="ser-title">Two electrolytic cells joined in series</title>
-<desc id="ser-desc">A DC power supply at the top. A wire runs from the supply down to the left electrode of cell A, which holds silver nitrate solution; this electrode is labelled anode. The right electrode of cell A is labelled cathode, silver deposited. A wire joins the cathode of cell A to the left electrode of cell B, which holds a tin salt solution; this electrode is labelled anode. The right electrode of cell B is labelled cathode, tin deposited, and a wire runs from it back up to the supply. The caption notes that there is only one path, so the same charge passes through both cells.</desc>
+<desc id="ser-desc">A DC power supply at the top. A wire runs from the supply down to the left electrode of cell A, which holds silver nitrate solution; this electrode is labelled anode. The right electrode of cell A is labelled cathode, silver deposited. A wire joins the cathode of cell A to the left electrode of cell B, which holds a tin salt solution; this electrode is labelled anode. The right electrode of cell B is labelled cathode, tin deposited, and a wire runs from it back up to the supply. An arrow above the connecting wire, labelled e⁻ flow, points from the anode of cell B towards the cathode of cell A. The caption notes that there is only one path, so the same charge passes through both cells.</desc>
 <rect x="235" y="10" width="170" height="40" rx="6" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <text x="320" y="35" text-anchor="middle" font-size="13" font-weight="600" fill="#1d2b44">DC power supply</text>
 <path d="M100 120 V30 H235" fill="none" stroke="#1d2b44" stroke-width="2"/>
@@ -187,7 +187,7 @@ When two electrolytic cells are joined **in series** (one after the other in a s
 <text x="320" y="72" text-anchor="middle" font-size="12" fill="#1d2b44">e⁻ flow</text>
 <defs><marker id="s1" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#1d2b44"/></marker></defs>
 </svg>
-<figcaption>Figure 2. Two cells in series. There is only one path round the circuit, so every electron that reaches the silver cathode in cell A has also passed through cell B. The arrow shows electrons moving from the anode of cell B to the cathode of cell A along the connecting wire.</figcaption>
+<figcaption>Figure 2. Two cells in series. There is only one path round the circuit, so the charge that deposits silver in cell A is the same charge that passes through cell B. The arrow shows electrons moving from the anode of cell B to the cathode of cell A along the connecting wire.</figcaption>
 </figure>
 
 **Question.** The two cells in Figure 2 run for 20.0 minutes. The cathode in cell A gains 1.079 g of silver and the cathode in cell B gains 0.594 g of tin. (a) Find the charge on the tin ions in cell B. (b) Find the average current. (Ag = 107.87, Sn = 118.71 g mol⁻¹)
@@ -232,7 +232,7 @@ Real cells sometimes give **less** product than the calculation predicts. In wat
 - **"Both electrodes change by the same mass."** They share the same moles of **electrons**. Different metals, different ion charges and different molar masses usually give different masses.
 - **"A stronger solution plates faster."** For a fixed current and time, the amount deposited is fixed by the charge. Concentration does not appear in the calculation.
 - **"In a series circuit, the current splits between the cells."** In series there is one path, so the same charge passes through every cell. (Current splits only between branches of a parallel circuit.)
-- **"The calculated mass is what you always get."** It is the maximum. Side reactions or losses make the measured mass smaller, never larger.
+- **"The calculated mass is what you always get."** It is the maximum the charge can produce. Side reactions or losses make the measured mass smaller.
 
 ## Where this leads
 

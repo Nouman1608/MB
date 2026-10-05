@@ -194,7 +194,7 @@ A student wants to make an unfavourable reaction go. She sets up the reaction mi
 <details>
 <summary>Model answer and suggested Marlbridge rubric</summary>
 
-**(a)** The combustion and the reaction in the flask are not coupled: they share no common intermediate, so there is no chemical link through which the free energy released by combustion can be passed to the reaction. The energy from combustion is simply released as heat to the surroundings. (Warming the flask only changes the temperature; it does not supply the free energy in a form that makes the reaction's products favoured.)
+**(a)** The combustion and the reaction in the flask are not coupled: they share no common intermediate, so there is no chemical link through which the free energy released by combustion can be passed to the reaction. The energy from combustion is simply released as heat to the surroundings. (Heat from the burner can warm the flask, but that is not coupling. A temperature change alters ΔG° only through the TΔS° term, and here it has not made the products favoured.)
 
 **(b)** Any two of:
 - **Outside energy source, electrical:** an electrolytic cell or a charger supplies electrical energy, for example decomposing water into H₂ and O₂, or recharging a battery.

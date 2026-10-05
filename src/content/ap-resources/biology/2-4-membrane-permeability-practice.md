@@ -118,7 +118,7 @@ The high-sucrose medium has a solute concentration close to that of the bacteria
 
 **(b)** H₀: the sucrose concentration of the medium has no effect on the percentage of antibiotic-treated cells that lyse. The intervals (58.8–69.2% and 7.6–12.4%) do not overlap, so **reject H₀**.
 
-**(c)** In dilute medium, water enters the cells by osmosis. Without a proper wall to resist swelling, most cells burst. When the medium matches the cytoplasm, little water enters, so even cells with weak walls survive (10%, close to the 4.0% with no antibiotic). This shows the antibiotic kills mainly by allowing osmotic lysis, not by poisoning the cells directly.
+**(c)** In dilute medium, water enters the cells by osmosis. Without a proper wall to resist swelling, most cells burst. When the medium matches the cytoplasm, little water enters, so even cells with weak walls survive (10%, much nearer the 4.0% with no antibiotic than the 64% in dilute medium). This shows the antibiotic kills mainly by allowing osmotic lysis, not by poisoning the cells directly.
 
 | Point | What earns it |
 |---|---|

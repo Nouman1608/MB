@@ -65,7 +65,7 @@ A catalyst lowers Eₐ for both directions. It **never** changes ΔG°, ΔH° or
 
 ## Quick self-check
 
-1. ΔG° for 2H₂O₂(l) → 2H₂O(l) + O₂(g) is −233.4 kJ mol⁻¹. What is it per mole of H₂O₂? *(−116.7 kJ)*
+1. ΔG° for 2H₂O₂(l) → 2H₂O(l) + O₂(g) is −233.6 kJ mol⁻¹. What is it per mole of H₂O₂? *(−116.8 kJ)*
 2. A favoured reaction shows no change for a year. Is it at equilibrium? *(No: Q ≪ K; it is under kinetic control.)*
 3. A catalyst is added to a mixture at equilibrium. What happens to the amounts? *(Nothing: both rates rise equally.)*
 

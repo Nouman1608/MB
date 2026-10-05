@@ -194,7 +194,7 @@ Common error: forgetting to multiply by 60 gives only 60 µm², which is the amo
 
 ## Question 7 (constructed response · stretch)
 
-A single-celled freshwater alga is analysed. The table shows three substances (fictional data).
+A single-celled freshwater alga is analysed after being kept in the dark, so it is not photosynthesising. The table shows three substances (fictional data).
 
 | Substance | Outside the cell | Inside the cell | Other observation |
 |---|---|---|---|

@@ -37,7 +37,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 ## Calculation and skills
 
-- I can calculate percentage changes from transport data and use them to show that a rate is levelling off. *(Guide: Worked example 1; Practice Q7)*
+- I can calculate percentage changes from transport data and use them to show that a rate is levelling off. *(Guide: Worked example 1; Practice Q4, Q7)*
 - I can read a rate–concentration graph and tell simple diffusion from facilitated diffusion. *(Guide: Figure 2; Practice Q7)*
 - I can split a rate into a bilayer part and a protein part, and predict what changes when the number of proteins changes. *(Practice Q3, Q4)*
 
@@ -46,6 +46,6 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can explain why the rate of facilitated diffusion has a maximum, and what limits the rate at low and at high concentration. *(Guide: Worked example 1)*
 - I can predict the effect of blocking a channel or carrier on a cell, and follow it to the whole organism. *(Guide: Worked example 2; Practice Q6)*
 - I can explain why net ion movement can stop before concentrations are equal. *(Practice Q5)*
-- I can explain why facilitated diffusion can never raise a concentration above that on the other side. *(Practice Q6)*
+- I can explain why facilitated diffusion can never raise the concentration of an uncharged solute above that on the other side. *(Practice Q6)*
 
 All ticked? Move on to [Topic 2.7, Tonicity and Osmoregulation](/advanced-course-resources/biology/2-7-tonicity-osmoregulation-study-guide/), or return to the [course roadmap](/advanced-course-resources/biology/#roadmap).

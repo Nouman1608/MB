@@ -31,7 +31,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 - I can describe the specialized internal regions of a prokaryotic cell, such as the nucleoid and the plasma membrane's role in respiration, and explain why they are not membrane-bound organelles. *(Guide: "Inside a prokaryotic cell"; Practice Q5)*
 - I can name the structures that prokaryotic and eukaryotic cells share and those only eukaryotes have. *(Guide: comparison table; Practice Q1, Q5)*
-- I can explain that eukaryotic cells keep internal membranes that partition the cell into specialized regions. *(Guide: "Inside a eukaryotic cell")*
+- I can explain how the internal membranes of a eukaryotic cell divide it into regions with specialized jobs. *(Guide: "Inside a eukaryotic cell")*
 - I can outline the steps by which mitochondria and then chloroplasts arose by endosymbiosis, and explain why plants have both. *(Guide: Figure 1)*
 - I can explain why modern mitochondria and chloroplasts cannot live on their own. *(Guide: "Since then: dependence"; Practice Q6)*
 

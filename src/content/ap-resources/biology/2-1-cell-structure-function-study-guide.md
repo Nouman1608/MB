@@ -221,7 +221,7 @@ Cells with high energy demands, such as muscle cells, tend to have many mitochon
 
 **(d)** The protein would still be made and processed, so label would leave the rough ER and Golgi. But it would build up in **secretory vesicles**, and very little would appear **outside the cell**. This prediction follows the structure of the route: each step depends on the one before.
 
-**Check.** The rough ER loses 86 − 12 = 74 percentage points in the first 45 minutes, while the Golgi and vesicles gain. Label moves along; it does not disappear, which fits a single route.
+**Check.** The rough ER loses 86 − 12 = 74 percentage points between 5 and 45 minutes, while the Golgi and vesicles gain. Label moves along; it does not disappear, which fits a single route.
 
 ## Worked example 2: making a claim from organelle data
 
@@ -244,7 +244,7 @@ Cells with high energy demands, such as muscle cells, tend to have many mitochon
 **Step 3: evidence and reasoning.**
 
 1. **P.** Digestive enzymes are proteins made for export. Ribosomes on rough ER make such proteins and thread them into the endomembrane system for packaging and secretion. P has by far the most rough ER, so it has the most capacity for this job.
-2. **Q.** Smooth ER makes lipids and detoxifies drugs. Q has the most smooth ER, about seven times as much as P (15 ÷ 2 = 7.5).
+2. **Q.** Smooth ER makes lipids and detoxifies drugs. Q has the most smooth ER, 7.5 times as much as P (15 ÷ 2 = 7.5).
 3. **R.** Contraction uses ATP continuously. Mitochondria make most of a cell's ATP by aerobic respiration, so a cell that contracts all the time needs many of them. R has the largest share of mitochondria.
 
 **Step 4: limits.** The claim is **supported**, not proved. These are single measurements of each cell type, and volume is only one measure: two cells with the same mitochondrial volume might differ in how folded their inner membranes are. A stronger test would measure the function directly, for example the amount of enzyme each cell type secretes per hour.

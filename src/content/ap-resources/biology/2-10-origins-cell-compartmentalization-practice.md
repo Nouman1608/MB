@@ -147,7 +147,7 @@ A scientist studies a structure, called S, inside the cells of a fictional singl
 
 **(b)** Any two: eukaryotes have membrane-bound organelles and prokaryotes typically do not; eukaryotic DNA is inside a nucleus with a double envelope, prokaryotic DNA is in a nucleoid with no membrane; eukaryotes make ATP by aerobic respiration on the inner membrane of mitochondria, prokaryotes on the plasma membrane; eukaryotic cytosolic ribosomes are larger.
 
-**(c)** Prokaryotes have internal **regions** with specialized structures and functions even without membrane-bound organelles. Examples, any one: the nucleoid holds the DNA in one region; the plasma membrane carries the proteins of aerobic respiration, so ATP is made at the membrane, not throughout the cytoplasm; cyanobacteria capture light on internal thylakoid membranes; carboxysomes gather the enzyme rubisco inside a protein shell.
+**(c)** Prokaryotes have internal **regions**, each with its own structures and jobs, even without membrane-bound organelles. Examples, any one: the nucleoid holds the DNA in one region; the plasma membrane carries the proteins of aerobic respiration, so ATP is made at the membrane, not throughout the cytoplasm; cyanobacteria capture light on internal thylakoid membranes; carboxysomes gather the enzyme rubisco inside a protein shell.
 
 | Point | What earns it |
 |---|---|

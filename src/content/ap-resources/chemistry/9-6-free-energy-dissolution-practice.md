@@ -129,7 +129,7 @@ For an invented salt, separating the ions of 1 mol of solid requires an estimate
 
 **(b)** ΔG° = 10 − (298)(0.045) = 10 − 13.41 = **−3.4 kJ mol⁻¹**. K_sp = e^(3410/2477.6) = e^1.376 = **4.0**. ΔG° < 0 and K_sp > 1, so dissolving is favoured.
 
-**(c)** ΔH° is the small difference between two large terms. 1% of 690 kJ is 6.9 kJ, which is comparable to ΔH° itself. With that uncertainty, ΔH° could lie anywhere from about +3 to +17 kJ mol⁻¹, so ΔG° could range from about −10 kJ mol⁻¹ (very soluble) to about +3.5 kJ mol⁻¹ (K_sp below 1). The sign of ΔG° cannot be trusted from such estimates. This is why the CED says predicting the total free energy of dissolution is challenging.
+**(c)** ΔH° is the small difference between two large terms. 1% of 700 kJ is 7.0 kJ and 1% of 690 kJ is 6.9 kJ; each is comparable to ΔH° itself. If the two errors act in opposite directions, ΔH° could lie anywhere from about −4 to +24 kJ mol⁻¹, so ΔG° could range from about −17 kJ mol⁻¹ (K_sp about 10³, very soluble) to about +10 kJ mol⁻¹ (K_sp about 0.01, sparingly soluble). The sign of ΔG° cannot be trusted from such estimates. This is why the CED says predicting the total free energy of dissolution is challenging.
 
 | Point | What earns it |
 |---|---|

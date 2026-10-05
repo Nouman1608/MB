@@ -14,7 +14,7 @@ difficulty: "core"
 related: ["mb-ap-chem-9.6-study-guide", "mb-ap-chem-9.6-practice", "mb-ap-chem-9.6-revision-notes"]
 next: "mb-ap-chem-9.7-study-guide"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-chemistry"]
+sources: ["ced-chemistry", "page-chemistry"]
 keyPoints:
   - "Tick a statement only when you can do it without notes."
   - "Each statement names the guide section or practice question that tests it."

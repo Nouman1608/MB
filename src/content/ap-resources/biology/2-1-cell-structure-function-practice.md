@@ -249,7 +249,7 @@ Suggested mark points (4): 1 for both ratios; 1 for both counts; 1 for 145% usin
 
 - **Q1 or Q2 wrong:** re-read "Ribosomes" and "The endomembrane system" in the [study guide](/advanced-course-resources/biology/2-1-cell-structure-function-study-guide/), and trace Figure 1 again.
 - **Q3 or Q7 wrong:** re-read "Mitochondria" and look at Figure 2: folds add membrane area, not volume.
-- **Q4 calculations wrong:** divide by the starting value for a percentage change; rework Worked example 1 (b).
+- **Q4 calculations wrong:** keep the unrounded mean (72.33) and divide by the starting value for a percentage change; for rates and units, rework Worked example 1 (b).
 - **Q5 or Q6 incomplete:** re-read Worked example 2 on claim, evidence and reasoning, and Worked example 1 (d) on predicting a blocked step.
 
 Then tick off the [topic checklist](/advanced-course-resources/biology/2-1-cell-structure-function-checklist/).

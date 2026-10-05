@@ -155,7 +155,7 @@ The overall reaction, MgCl₂(l) → Mg(l) + Cl₂(g), is the reverse of the ver
 - Electrons still flow through the external circuit from the anode to the cathode; the power supply is what moves them.
 - There is no salt bridge, because both half-reactions happen in the same molten salt. The ions of the melt carry the charge: Cl⁻ moves towards the anode and Mg²⁺ towards the cathode.
 
-**About electrode signs (not assessed).** In a galvanic cell the anode is the negative electrode; in an electrolytic cell the anode is the one joined to the positive terminal of the supply. Because the signs swap, this course does not assess them. Use "oxidation at the anode" instead.
+**About electrode signs (not assessed).** In a galvanic cell the anode is the negative electrode; in an electrolytic cell the anode is the one joined to the positive terminal of the supply. The signs swap between the two kinds of cell, and this course does not assess them. Use "oxidation at the anode" instead.
 
 ## Worked example 1: reading a galvanic cell from observations
 

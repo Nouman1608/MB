@@ -184,7 +184,7 @@ At 298 K, reaction 1 has a ΔG° that is 11.4 kJ mol⁻¹ more negative than the
 **(a)** K₁ / K₂ = e^(−ΔG°₁/RT) ÷ e^(−ΔG°₂/RT) = e^(−(ΔG°₁ − ΔG°₂)/RT) = e^(11 400/2477.6) = e^4.601 = **99.6**, which is about 100.
 Quick check with the estimation rule: 11.4 ÷ 5.7 = 2.0, so a factor of 10² = 100.
 
-**(b)** K depends on ΔG° divided by RT, through an exponential. RT is the natural energy scale at a given temperature: about 2.5 kJ mol⁻¹ at 298 K. An energy of 11.4 kJ mol⁻¹ is about 4.6 times RT, so it is **not** small on this scale. Because the dependence is exponential, it changes K by a factor of about 100. For example, if K₂ = 0.45 (reactants slightly favoured), then K₁ ≈ 44 (products clearly favoured). The equilibrium mixtures are very different, so the student is wrong.
+**(b)** K depends on ΔG° divided by RT, through an exponential. RT is the natural energy scale at a given temperature: about 2.5 kJ mol⁻¹ at 298 K. An energy of 11.4 kJ mol⁻¹ is about 4.6 times RT, so it is **not** small on this scale. Because the dependence is exponential, it changes K by a factor of about 100. For example, if K₂ = 0.45 (reactants slightly favoured), then K₁ ≈ 45 (products clearly favoured). The equilibrium mixtures are very different, so the student is wrong.
 
 | Point | What earns it |
 |---|---|

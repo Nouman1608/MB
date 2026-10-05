@@ -144,7 +144,7 @@ A researcher records the membrane potential of a fictional animal cell. At time 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** In the first minute, the potential becomes less negative by 4 mV (−70 to −66 mV). Over the next 59 minutes it changes more slowly and steadily, by a further 25 mV (−66 to −41 mV), about 0.42 mV per minute.
+**(a)** In the first minute, the potential becomes less negative by 4 mV (−70 to −66 mV). Over the next 59 minutes it changes more slowly and at a fairly steady rate, by a further 25 mV (−66 to −41 mV), about 0.42 mV per minute.
 
 **(b)** Each pump cycle moves 3 Na⁺ out and 2 K⁺ in, so one net positive charge leaves the cell. While the pumps run, this keeps the inside slightly more negative. When the drug stops them, this direct charge movement stops at once, so the inside becomes a little less negative almost immediately.
 

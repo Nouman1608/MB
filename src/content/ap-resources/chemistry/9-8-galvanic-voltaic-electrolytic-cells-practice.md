@@ -124,15 +124,15 @@ Common error: a 1 : 1 ratio gives 0.405 g.
 A student builds a galvanic cell from a nickel strip in Ni(NO₃)₂(aq) and a silver strip in AgNO₃(aq), with a KNO₃ salt bridge and a voltmeter. The silver strip gains mass. Predict and explain the effect of each change on the cell.
 
 (a) The KNO₃ salt bridge is replaced by one filled with KCl(aq).
-(b) The salt bridge is replaced by a strip of copper metal dipping into both solutions.
+(b) The salt bridge is replaced by a solid glass rod dipping into both solutions.
 (c) The nickel strip is replaced by a much larger nickel strip, with all else the same.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Cl⁻ ions entering the silver half-cell react with Ag⁺ to form a solid precipitate, AgCl. This removes Ag⁺, the ion reduced at the cathode, and the solid can block the bridge, so the cell works less well (the current and voltage fall).
+**(a)** Where the bridge dips into the silver half-cell, Cl⁻ ions from the bridge meet Ag⁺ ions and form a solid precipitate, AgCl. This removes Ag⁺, the ion reduced at the cathode, and the solid can block the bridge, so the cell works less well (the current and voltage fall).
 
-**(b)** A metal strip conducts electrons, not ions. No ions can move between the half-cells to balance the charge, so charge builds up and the current through the voltmeter stops (or becomes very small). (In fact the copper strip would itself react with Ag⁺ in the silver half-cell, which is another reason this set-up fails.)
+**(b)** Solid glass contains no ions that can move. No ions can pass between the half-cells to balance the charge, so charge builds up in each beaker and the current through the wire stops almost at once. The rod looks like a bridge, but it does not complete the circuit.
 
 **(c)** The voltage reading is unchanged, because the voltage depends on which reaction takes place (and on the concentrations), not on the size of the electrode. The cell can run for longer, because more nickel is available to be oxidised.
 
@@ -140,7 +140,7 @@ A student builds a galvanic cell from a nickel strip in Ni(NO₃)₂(aq) and a s
 |---|---|
 | 1 | (a) AgCl precipitate forms, removing Ag⁺ (or blocking the bridge) |
 | 1 | (a) Consequence: cell performance (current or voltage) falls |
-| 1 | (b) A metal carries electrons, not ions, so charge balance in the half-cells fails |
+| 1 | (b) No moving ions in the glass, so charge builds up and the current stops |
 | 1 | (c) Voltage unchanged **and** cell can run longer, with a reason |
 </details>
 

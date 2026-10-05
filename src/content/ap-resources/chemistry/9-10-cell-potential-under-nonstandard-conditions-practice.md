@@ -206,7 +206,7 @@ A student builds a concentration cell from two zinc strips: one in 0.020 M Zn(NO
 
 **(c)** [Zn²⁺] in the dilute beaker **rises**; [Zn²⁺] in the concentrated beaker **falls** (Zn²⁺ is reduced to Zn there). With equal volumes, the voltmeter reads zero when both are **0.41 M** (the average of 0.020 M and 0.80 M).
 
-**(d)** E = 0 − (0.0257/2) ln(0.025) = **+0.047 V**. It is small because E° = 0: the only drive comes from the concentration difference, and the RT/nF term is small. A zinc–copper cell also has a large E° (1.10 V) from two different half-reactions.
+**(d)** E = 0 − (0.0257/2) ln(0.025) = **+0.047 V**. It is small because E° = 0: the only drive comes from the concentration difference, and the RT/nF term is small. By contrast, a zinc–copper cell has a large E° (1.10 V) from two different half-reactions, so its potential is far larger.
 
 | Point | What earns it |
 |---|---|

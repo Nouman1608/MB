@@ -30,7 +30,7 @@ sources: ["ced-chemistry", "page-chemistry"]
 keyPoints:
   - "E° is the cell potential when Q = 1 (standard conditions). Real cells usually have Q ≠ 1, so E ≠ E°."
   - "The cell potential is the drive towards equilibrium: the further the cell is from equilibrium, the larger the size of E. At equilibrium (Q = K), E = 0 and the cell is 'dead'."
-  - "Q < 1 (more reactant, less product than standard) moves the cell further from equilibrium, so E > E°. Q > 1 moves it closer, so E < E°."
+  - "For a galvanic cell (E° > 0, so K > 1), Q < 1 (more reactant, less product than standard) moves the cell further from equilibrium, so E > E°. Q > 1 moves it closer, so E < E°."
   - "Reason with Q, not Le Châtelier's principle: a working cell is not at equilibrium."
   - "In a concentration cell (same half-reaction on both sides), electrons flow so as to make the two concentrations equal: the dilute side is the anode."
 faqs:

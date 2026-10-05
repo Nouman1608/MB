@@ -70,7 +70,7 @@ Short on time? This page is the recap. For explanations, diagrams and worked exa
 
 1. In a galvanic cell, the zinc electrode gets thinner. Is zinc the anode or the cathode? *(Anode: zinc is oxidised.)*
 2. Which way do K⁺ ions in a KNO₃ salt bridge move? *(Towards the cathode half-cell.)*
-3. 0.0200 mol of electrons passes and Cu²⁺ is reduced at the cathode. What mass of copper forms? *(0.0100 mol × 63.55 g mol⁻¹ = 0.635 g)*
+3. 0.0200 mol of electrons passes and Cu²⁺ is reduced at the cathode. What mass of copper forms? *(0.0100 mol × 63.55 g mol⁻¹ = 0.636 g)*
 4. What happens to the current if the salt bridge is removed? *(It stops: charge builds up in each half-cell.)*
 
 Next: [practice questions](/advanced-course-resources/chemistry/9-8-galvanic-voltaic-electrolytic-cells-practice/).

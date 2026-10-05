@@ -90,7 +90,7 @@ A fictional membrane protein contains a run of 24 nonpolar amino acids that fold
 
 - (B) divides 24 by 3.6 (the number of amino acids in one turn of a helix) and treats the result as a length. That gives a number of turns (about 6.7), not nanometres.
 - (C) uses 1.5 nm per amino acid. The rise is 1.5 Å, which is 0.15 nm.
-- (D) divides 24 by 0.15 instead of multiplying. A 160 nm helix would be about 40 times as long as the membrane is thick.
+- (D) divides 24 by 0.15 instead of multiplying. A 160 nm helix would be at least 40 times as long as the 3 to 4 nm hydrophobic interior is thick.
 </details>
 
 ## Question 4 (diagram · core)

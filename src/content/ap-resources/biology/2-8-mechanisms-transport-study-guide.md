@@ -62,7 +62,7 @@ Two features define active transport. First, **a membrane protein is necessary**
 
 ## How a pump works
 
-A pump is a carrier protein that spans the membrane. It binds particular ions on one side, changes shape, and releases them on the other side. ATP provides the energy for the shape change. The pump is **specific**: its binding sites fit particular ions, just as an enzyme's active site fits its substrate. It is also **saturable**: when every pump is working at its top speed, adding more ions outside does not increase the rate.
+A pump is a carrier protein that spans the membrane. It binds particular ions on one side, changes shape, and releases them on the other side. ATP provides the energy for the shape change. The pump is **specific**: its binding sites fit particular ions, just as an enzyme's active site fits its substrate. It is also **saturable**: when every pump is working at its top speed, adding more of the ion it carries does not increase the rate.
 
 ### The sodium–potassium pump
 

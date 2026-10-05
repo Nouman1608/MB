@@ -95,7 +95,7 @@ A shrew and a deer are both mammals that keep a steady body temperature. Which s
 
 ## Question 4 (data analysis · core)
 
-A student made cubes of pink agar (an indicator that turns colourless in acid) with sides of 1 cm, 2 cm and 3 cm, and placed them in dilute acid. After 10 minutes she cut each cube in half. In every cube the acid had moved **0.40 cm** in from each face, leaving a pink cube-shaped core in the centre.
+A student made cubes of agar coloured pink by an indicator that turns colourless in acid, with sides of 1 cm, 2 cm and 3 cm, and placed them in dilute acid. After 10 minutes she cut each cube in half. In every cube the acid had moved **0.40 cm** in from each face, leaving a pink cube-shaped core in the centre.
 
 (a) Calculate SA, V and SA/V for each cube.
 (b) Calculate the volume of the pink core in each cube, and the percentage of each cube's volume reached by the acid.

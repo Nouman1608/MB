@@ -36,7 +36,7 @@ faqs:
   - question: "If a protein is involved, why is facilitated diffusion not active transport?"
     answer: "Because the cell supplies no energy and the substance only moves down its gradient. The protein provides a route, not a push. Active transport needs a direct energy input and can move substances from low to high concentration."
   - question: "Can water cross a membrane without aquaporins?"
-    answer: "Yes, but only slowly and in small amounts, because water is small and uncharged (Topic 2.4). Aquaporins let much more water cross much faster."
+    answer: "Yes. Water is small and uncharged, so some crosses the bilayer directly (Topic 2.4), but it is polar, so this is slow. Aquaporins let much more water cross much faster."
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
@@ -98,7 +98,7 @@ There are two kinds of protein that carry out facilitated diffusion.
 <text x="455" y="262" font-weight="600">Carrier protein</text><text x="455" y="278">binds a specific molecule, changes shape</text><text x="455" y="294">and releases it on the other side</text>
 </g>
 </svg>
-<figcaption>Figure 1. Both proteins give passive transport: the arrow in each runs from the side with more particles to the side with fewer. Circles are K⁺ ions; hexagons are glucose molecules.</figcaption>
+<figcaption>Figure 1. Both proteins give passive transport: in each, particles move from the side with more of them (outside here) to the side with fewer. Circles are K⁺ ions; hexagons are glucose molecules.</figcaption>
 </figure>
 
 ## Ions, channels and polarized membranes
@@ -188,9 +188,9 @@ Water movement through aquaporins is still passive. It is osmosis through a prot
 **(c) Prediction.** Each carrier still works in the same way, so with half as many carriers the rate at every concentration should halve:
 
 - at 4 mmol L⁻¹: 6.0 ÷ 2 = **3.0**
-- at 32 mmol L⁻¹: 10.7 ÷ 2 ≈ **5.3**, with the maximum falling from about 12 to about 6.
+- at 32 mmol L⁻¹: 10.7 ÷ 2 = **5.35** (about 5.4), with the maximum falling from about 12 to about 6.
 
-**Check.** The answer separates the two limits. At low concentration, the glucose supply limits the rate. At high concentration, the number of carriers limits it. The prediction also keeps the process passive: fewer carriers slow uptake, but glucose still only moves down its gradient.
+**Check.** The answer separates the two limits. At low concentration, the rate rises steeply as glucose is added. At high concentration, the number of carriers sets the ceiling. Halving the carriers halves the rate at both, because at any one concentration each carrier is busy for the same share of the time. The prediction also keeps the process passive: fewer carriers slow uptake, but glucose still only moves down its gradient.
 
 ## Worked example 2: predicting the effect of blocking aquaporins
 
