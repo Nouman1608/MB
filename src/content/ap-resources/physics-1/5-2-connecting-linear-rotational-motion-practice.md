@@ -20,7 +20,7 @@ skills: ["1", "2", "3"]
 studyMinutes: 45
 difficulty: "mixed"
 calculator: "scientific"
-calculatorNote: "Algebra only, no calculus. Use radians in s = rθ, v = rω and a = rα. Give answers to 2 significant figures unless told otherwise"
+calculatorNote: "Algebra only, no calculus. Use radians in s = rθ, v = rω and a_T = rα. Give answers to 2 significant figures unless told otherwise"
 related: ["mb-ap-phys1-5.2-study-guide", "mb-ap-phys1-5.2-revision-notes", "mb-ap-phys1-5.2-checklist"]
 next: "mb-ap-phys1-5.2-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }

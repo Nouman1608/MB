@@ -26,7 +26,7 @@ framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-physics-1", "page-physics-1"]
 keyPoints:
   - "Questions 1–3 are multiple choice; 4–7 need written working."
-  - "Every question states its axis. Use it for every sign."
+  - "Every question that uses signs states its axis. Use it for every sign."
   - "Each answer explains why the wrong options are wrong."
 version: "1.0"
 publishedDate: 2026-10-05

@@ -121,7 +121,7 @@ Figure 1 shows another case. A toy hovercraft glides across a smooth floor at 3.
 <path d="M70 150 H520 M70 150 V30" stroke="#1d2b44" stroke-width="2" fill="none"/>
 <path d="M70 320 H520 M70 320 V190" stroke="#1d2b44" stroke-width="2" fill="none"/>
 <g font-size="12" fill="#1d2b44" text-anchor="end">
-<text x="62" y="154">0</text><text x="62" y="98.5">2.0</text><text x="62" y="71.5">3.0</text><text x="62" y="43">4.0</text>
+<text x="62" y="154">0</text><text x="62" y="99">2.0</text><text x="62" y="71.5">3.0</text><text x="62" y="44">4.0</text>
 <text x="62" y="324">0</text><text x="62" y="294">1.0</text><text x="62" y="264">2.0</text><text x="62" y="234">3.0</text>
 </g>
 <g font-size="12" fill="#1d2b44" text-anchor="middle">
@@ -156,7 +156,7 @@ In this course, treat the ground as an inertial frame unless a question says oth
 
 ## Worked example 1: a swing held to one side
 
-**Question.** A child sits on a swing. The swing's ropes are ideal, so treat them as one rope with tension F_T. A parent holds the child and seat (total mass m) at rest with a **horizontal** pull F, so that the rope makes angle θ with the vertical. Take +x in the direction of the parent's pull and +y upward.
+**Question.** A child sits on a swing. Treat the swing's two ideal ropes as a single rope with tension F_T (the total pull of both ropes). A parent holds the child and seat (total mass m) at rest with a **horizontal** pull F, so that the rope makes angle θ with the vertical. Take +x in the direction of the parent's pull and +y upward.
 
 (a) Derive expressions for F and F_T in terms of m, g and θ.
 (b) Evaluate them for m = 30 kg and θ = 25°.
@@ -207,7 +207,7 @@ In this course, treat the ground as an inertial frame unless a question says oth
 
 1. **At rest, so equilibrium.** Take +x to the right and +y up. The lamp's weight is F_g = mg = 3.0 × 9.8 = 29.4 N.
 2. **x-direction:** F_T2 cos 20° − F_T1 cos 20° = 0, so F_T1 = F_T2. Call it F_T. (Symmetry tells you this too.)
-3. **y-direction:** 2F_T sin 20° − mg = 0, so **F_T = mg ÷ (2 sin θ)**.
+3. **y-direction:** 2F_T sin 20° − mg = 0, so **F_T = mg ÷ (2 sin θ)**, where θ = 20° is each cord's angle above the horizontal.
 4. **Numbers:** F_T = 29.4 ÷ (2 × 0.342) ≈ **43 N** in each cord.
 
 **Check.** Each cord's vertical component is 43 × sin 20° ≈ 14.7 N; two of them make 29.4 N, the weight. The horizontal components (about 40 N each) cancel each other.

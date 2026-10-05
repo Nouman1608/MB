@@ -91,7 +91,7 @@ Notice that the two forces on the book (the weight and the normal force) are **n
 <figure>
 <svg viewBox="0 0 560 360" role="img" aria-labelledby="p23-fbd-title p23-fbd-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="p23-fbd-title">Free-body diagrams of a book and the table it rests on</title>
-<desc id="p23-fbd-desc">Two free-body diagrams side by side, drawn to the same scale. Left: the book, shown as a dot, with an upward arrow labelled normal force of table on book, marked pair 1, and an equal downward arrow labelled gravitational force of Earth on book, marked pair 2. Right: the table, shown as a dot, with a long upward arrow labelled floor on table, and two downward arrows drawn side by side: Earth on table, and book on table, marked pair 1. The book-on-table arrow has the same length as the table-on-book arrow. A note says the partner of pair 2, the book pulling on Earth, acts on Earth and is not drawn.</desc>
+<desc id="p23-fbd-desc">Two free-body diagrams side by side, drawn to the same scale. Left: the book, shown as a dot, with an upward arrow labelled normal force of table on book, marked pair 1, and an equal downward arrow labelled gravitational force of Earth on book, marked pair 2. Right: the table, shown as a dot, with a long upward arrow labelled floor on table, and two downward arrows drawn side by side: Earth on table, and book on table, marked pair 1. The book-on-table arrow has the same length as the table-on-book arrow, and the floor-on-table arrow is as long as the two downward arrows together. A note says the partner of pair 2, the book pulling on Earth, acts on Earth and is not drawn.</desc>
 <defs><marker id="p23-ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#1d2b44"/></marker></defs>
 <rect x="0" y="0" width="560" height="360" fill="#ffffff"/>
 <text x="150" y="24" font-size="13" font-weight="600" fill="#1d2b44" text-anchor="middle">Free-body diagram: book</text>
@@ -101,8 +101,8 @@ Notice that the two forces on the book (the weight and the normal force) are **n
 <path d="M150 190 V130"/>
 <path d="M150 190 V250"/>
 <path d="M410 190 V40"/>
-<path d="M400 194 V280"/>
-<path d="M420 194 V250"/>
+<path d="M404 190 V280"/>
+<path d="M416 190 V250"/>
 </g>
 <circle cx="150" cy="190" r="6" fill="#1d2b44"/>
 <circle cx="410" cy="190" r="6" fill="#1d2b44"/>
@@ -216,7 +216,7 @@ A common trap: two people pull the ends of an ideal rope with 80 N each. The ten
 <figcaption>Figure 2. Horizontal forces on the tractor and the trailer, drawn to the same scale (vertical forces balance and are left out). The rope's pulls on the two vehicles are equal in size; inside the dashed system they are internal and cancel. The external forces are 3,600 N forward and 2,400 N backward.</figcaption>
 </figure>
 
-1. **(a)** The trailer's backward pull acts on the **rope** (and, through the ideal rope, on the tractor). It is not a force on the trailer. To decide how the trailer moves, add only the forces **on the trailer**: 3,000 N forward from the rope and 2,400 N backward resistance. Forward wins.
+1. **(a)** The trailer's backward pull acts on the **rope**, not on the trailer. (The ideal rope passes it on as its backward pull on the tractor.) To decide how the trailer moves, add only the forces **on the trailer**: 3,000 N forward from the rope and 2,400 N backward resistance. Forward wins.
 2. **(b)** Tractor: +3,600 − 3,000 = **+600 N**. Trailer: +3,000 − 2,400 = **+600 N**. Both are forward, so both speed up.
 3. System: the two rope forces are internal and cancel. External forces: +3,600 − 2,400 = **+1,200 N**, which equals 600 N + 600 N.
 
@@ -230,7 +230,7 @@ The third law lets you predict force sizes without any calculation:
 
 - **A bus and a scooter collide.** The force on the scooter equals the force on the bus. The scooter's velocity changes far more, because its mass is far smaller.
 - **An apple (0.15 kg) falls.** Earth pulls it with about 0.15 × 9.8 ≈ 1.5 N. The apple pulls Earth up with the same 1.5 N. Earth's mass is about 6 × 10²⁴ kg, so its acceleration is about 2.5 × 10⁻²⁵ m/s². Equal forces, wildly unequal effects.
-- **Factor of change.** If one object's mass doubles and the interaction force stays the same, the force on each object is unchanged, but the heavier object's acceleration halves.
+- **Factor of change.** If one object's mass doubles and the interaction force stays the same, the force on each object is unchanged, but the acceleration of the object whose mass doubled halves.
 
 ## Common misconceptions
 

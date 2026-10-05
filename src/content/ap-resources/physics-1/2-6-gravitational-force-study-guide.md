@@ -45,7 +45,7 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-This guide is for the **algebra-based Physics 1 course**. Everything here uses algebra, diagrams and graphs. In Physics 1, gravity is the only force between objects that do not touch.
+This guide is for the **algebra-based Physics 1 course**. Everything here uses algebra, diagrams and graphs. If you are taking the calculus-based Physics C: Mechanics course, it has its own separate guide. Gravity is the main non-contact force you will meet in Physics 1.
 
 ## Gravity is an interaction between masses
 

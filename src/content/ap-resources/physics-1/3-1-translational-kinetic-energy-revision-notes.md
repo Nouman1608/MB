@@ -53,7 +53,7 @@ Short on time? This page is the recap. For graphs and worked examples, use the [
 
 ## Assumptions behind the numbers
 
-- The object is modelled as a point at its center of mass; any spinning is ignored until Unit 5.
+- The object is modelled as a point at its center of mass; any spinning is ignored (rotational kinetic energy comes in Unit 6).
 - All speeds are measured in **one stated frame**, usually the ground.
 - g = 9.8 m/s² when gravity sets a speed.
 

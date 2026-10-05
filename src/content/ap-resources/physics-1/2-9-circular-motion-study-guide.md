@@ -97,7 +97,7 @@ The **net acceleration** is the vector sum of the two perpendicular parts. Its s
 <figure>
 <svg viewBox="0 0 560 340" role="img" aria-labelledby="p1-cm-title p1-cm-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="p1-cm-title">Velocity and acceleration vectors for circular motion</title>
-<desc id="p1-cm-desc">Left panel: an object moves counterclockwise at constant speed on a circle. At four points, a solid arrow labelled v points along the tangent and a dashed arrow labelled a_c points to the centre. Right panel: an object at the top of a circle moves to the left and is speeding up. A dashed arrow a_t points left along the tangent, a dashed arrow a_c points down to the centre, and a thick arrow a_net points down and to the left between them, completing a rectangle.</desc>
+<desc id="p1-cm-desc">Left panel: an object moves counterclockwise at constant speed on a circle. At four points, a solid arrow points along the tangent (velocity, labelled v) and a dashed arrow points to the centre (acceleration, labelled a_c); the labels appear at two of the points. Right panel: an object at the top of a circle moves to the left and is speeding up. A dashed arrow a_t points left along the tangent, a dashed arrow a_c points down to the centre, and a thick arrow a_net points down and to the left between them, completing a rectangle.</desc>
 <defs>
 <marker id="p1-cm-arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#1d2b44"/></marker>
 </defs>

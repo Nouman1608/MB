@@ -102,7 +102,7 @@ The sign of cos θ decides the sign of the work:
 | 0° (same direction) | 1 | positive, W = Fd | pushing a trolley forwards |
 | between 0° and 90° | positive | positive | pulling a sled with a rope at an angle |
 | 90° (perpendicular) | 0 | zero | gravity on a puck sliding on a level table |
-| between 90° and 180° | negative | negative | air resistance on a ball thrown at an angle |
+| between 90° and 180° | negative | negative | gravity on a ball while it rises after being thrown at an angle |
 | 180° (opposite) | −1 | negative, W = −Fd | kinetic friction on a sliding box |
 
 A force perpendicular to the motion can still **change the direction** of the motion. The tension in a string that whirls a ball in a horizontal circle (Topic 2.9) always points to the centre, at 90° to the velocity. It turns the ball but does no work, so the ball's kinetic energy stays the same.

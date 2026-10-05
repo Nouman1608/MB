@@ -69,7 +69,7 @@ With a sign for direction, along one axis:
 - **Δx** is measured from the relaxed length. Choose the axis so that Δx is positive when stretched in the +x direction.
 - The **minus sign** means the force is opposite to the change in length. Stretch the spring towards +x and it pulls towards −x. Compress it towards −x and it pushes towards +x.
 
-A spring is a **restoring** force: it always acts to bring its own length back to the relaxed length. For a block attached to a horizontal spring on a smooth surface, the relaxed position is also the **equilibrium position** of the block–spring system, so the spring force always points back toward equilibrium. It does not matter which way the block is moving at that instant.
+A spring force is a **restoring** force: it always acts to bring its own length back to the relaxed length. For a block attached to a horizontal spring on a smooth surface, the relaxed position is also the **equilibrium position** of the block–spring system, so the spring force always points back toward equilibrium. It does not matter which way the block is moving at that instant.
 
 ## Representing a spring force
 
@@ -163,7 +163,7 @@ Plot the data and find k.
 
 ### Designing the experiment well
 
-- Measure the **relaxed length** first, and calculate every Δx from it. Plotting the total length instead of Δx gives a line that does not pass through the origin (its intercept is the relaxed length).
+- Measure the **relaxed length** first, and calculate every Δx from it. Plotting the total length instead of Δx gives a line that does not pass through the origin (it meets the length axis at the relaxed length).
 - Read the ruler at eye level, at the same point on the spring each time.
 - Use a range of masses large enough to give clear stretches, but stop before the spring stays permanently stretched.
 - Let each mass come to rest before reading, so the spring force really equals mg.

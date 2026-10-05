@@ -148,7 +148,7 @@ Turn the theorem around. Since F_net = Δp / Δt, **the slope of a momentum–ti
 <polyline points="70,200 370,80 470,80" fill="none" stroke="#1d2b44" stroke-width="2.5"/>
 <text x="220" y="218" font-size="12" fill="#1d2b44" text-anchor="middle">run = 3.0 s</text>
 <text x="378" y="150" font-size="12" fill="#1d2b44">rise = 6.0 kg·m/s</text>
-<text x="110" y="120" font-size="12" fill="#1d2b44">slope = 6.0 ÷ 3.0 = 2.0 N</text>
+<text x="90" y="100" font-size="12" fill="#1d2b44">slope = 6.0 ÷ 3.0 = 2.0 N</text>
 <text x="380" y="68" font-size="12" fill="#1d2b44">slope 0: F_net = 0</text>
 </svg>
 <figcaption>Figure 2. A 2.0 kg sled on frictionless ice, +x in the direction of the pull. While the rope pulls (0 to 3.0 s), momentum rises steadily from 4.0 to 10.0 kg·m/s, so F_net = 2.0 N. After the rope goes slack the graph is flat: no net force, constant momentum.</figcaption>
@@ -162,7 +162,7 @@ If the mass of the system does not change, Δp = mΔv. Substitute into F_net = �
 
 So F_net = ma is what the impulse–momentum theorem becomes for a system of constant mass. Check it on Figure 2: the sled's velocity rises from 4.0 ÷ 2.0 = 2.0 m/s to 10.0 ÷ 2.0 = 5.0 m/s in 3.0 s, so a = 1.0 m/s² and ma = 2.0 N, the same as the slope.
 
-The momentum form is more general: it still applies when mass changes, for example a rocket expelling gas or a cart leaking sand. This course does not ask you to **calculate** with changing mass, but you may be asked to reason about it in words.
+The momentum form is the more general starting point, but it needs care when an object gains or loses mass. For a rocket expelling gas, the theorem works for a system that includes both the rocket and the gas it has thrown out, not for the rocket alone. (A cart leaking sand straight down keeps the same velocity with no net force, even though its own mass, and so its own mv, is falling.) This course does not ask you to **calculate** with systems whose mass changes with time, but you may be asked to reason about them in words.
 
 ## Worked example 1: impulse from a force–time graph
 

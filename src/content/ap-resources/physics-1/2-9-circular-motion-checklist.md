@@ -14,7 +14,7 @@ difficulty: "core"
 related: ["mb-ap-phys1-2.9-study-guide", "mb-ap-phys1-2.9-practice", "mb-ap-phys1-2.9-revision-notes"]
 next: "mb-ap-phys1-3.1-study-guide"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-physics-1"]
+sources: ["ced-physics-1", "page-physics-1"]
 keyPoints:
   - "Tick a statement only when you can do it without notes."
   - "Each statement names the guide section or practice question that tests it."

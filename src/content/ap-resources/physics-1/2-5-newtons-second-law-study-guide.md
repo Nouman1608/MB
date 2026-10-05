@@ -112,8 +112,10 @@ The new acceleration is **1.5 times** the old one. No numbers are needed.
 <path d="M70 290 L490 170" stroke="#1d2b44" stroke-width="2" stroke-dasharray="8 5"/>
 <g fill="#1d2b44"><circle cx="175" cy="230" r="5"/><circle cx="280" cy="170" r="5"/><circle cx="385" cy="110" r="5"/><circle cx="490" cy="50" r="5"/></g>
 <g fill="#ffffff" stroke="#1d2b44" stroke-width="2"><rect x="170" y="255" width="10" height="10"/><rect x="275" y="225" width="10" height="10"/><rect x="380" y="195" width="10" height="10"/><rect x="485" y="165" width="10" height="10"/></g>
-<text x="250" y="110" font-size="12" fill="#1d2b44">solid line, filled circles: m = 0.50 kg, slope 2.0 kg⁻¹</text>
-<text x="300" y="250" font-size="12" fill="#1d2b44">dashed line, open squares: m = 1.0 kg, slope 1.0 kg⁻¹</text>
+<text x="80" y="70" font-size="12" fill="#1d2b44">solid line, filled circles:</text>
+<text x="80" y="86" font-size="12" fill="#1d2b44">m = 0.50 kg, slope 2.0 kg⁻¹</text>
+<text x="300" y="262" font-size="12" fill="#1d2b44">dashed line, open squares:</text>
+<text x="300" y="278" font-size="12" fill="#1d2b44">m = 1.0 kg, slope 1.0 kg⁻¹</text>
 </svg>
 <figcaption>Figure 1. For a fixed mass, acceleration is proportional to net force: a straight line through the origin. The slope is 1/m, so the lighter cart (solid line) has the steeper line. At the same net force of 1.0 N, the 0.50 kg cart accelerates at 2.0 m/s² and the 1.0 kg cart at 1.0 m/s².</figcaption>
 </figure>
@@ -141,14 +143,14 @@ The quantity ma is the *result* of the forces, not another force. It never goes 
 <defs><marker id="p1-25-ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#1d2b44"/></marker></defs>
 <rect x="0" y="0" width="560" height="330" fill="#ffffff"/>
 <g stroke="#1d2b44" stroke-width="2.5" marker-end="url(#p1-25-ah)">
-<path d="M220 165 H300"/>
-<path d="M220 165 H190"/>
-<path d="M220 165 V45"/>
-<path d="M220 165 V285"/>
+<path d="M220 165 H280"/>
+<path d="M220 165 H197.5"/>
+<path d="M220 165 V42.5"/>
+<path d="M220 165 V287.5"/>
 </g>
 <circle cx="220" cy="165" r="6" fill="#1d2b44"/>
 <g font-size="12" fill="#1d2b44">
-<text x="306" y="160">F_rope = 120 N (rope)</text>
+<text x="288" y="160">F_rope = 120 N (rope)</text>
 <text x="70" y="158">f = 45 N (floor)</text>
 <text x="230" y="50">F_N = 245 N (floor)</text>
 <text x="230" y="290">F_g = 245 N (Earth)</text>
@@ -157,7 +159,7 @@ The quantity ma is the *result* of the forces, not another force. It never goes 
 <text x="400" y="225" font-size="12" fill="#1d2b44">a = 3.0 m/s²</text>
 <text x="400" y="265" font-size="12" fill="#1d2b44">(not a force: drawn</text>
 <text x="400" y="281" font-size="12" fill="#1d2b44">away from the dot)</text>
-<text x="40" y="318" font-size="12" fill="#1d2b44">+x to the right, +y up. Arrow lengths roughly to scale.</text>
+<text x="40" y="318" font-size="12" fill="#1d2b44">+x to the right, +y up. Arrow lengths to scale.</text>
 </svg>
 <figcaption>Figure 2. Free-body diagram for the crate. Vertical forces balance; horizontal forces do not. The acceleration is shown separately as a dashed arrow because it is the result of the forces, not one of them.</figcaption>
 </figure>

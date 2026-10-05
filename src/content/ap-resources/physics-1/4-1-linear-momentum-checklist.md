@@ -45,7 +45,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 ## Reasoning
 
 - I can compare momentum and kinetic energy for two objects and explain why they scale differently with speed. *(Guide: Worked example 2; Practice Q7)*
-- I can explain why a ball that bounces back at the same speed has a different momentum. *(Guide: "Momentum is a vector"; Practice Q4)*
+- I can explain why an object that reverses or turns at the same speed has a different momentum. *(Guide: "Momentum is a vector"; Practice Q4(c))*
 - I can justify why the object model is allowed when analysing a collision. *(Guide: "Collisions and explosions as models"; Practice Q6)*
 
 All ticked? Move on to Topic 4.2, [Change in Momentum and Impulse](/advanced-course-resources/physics-1/4-2-change-momentum-impulse-study-guide/), or return to the [course roadmap](/advanced-course-resources/physics-1/#roadmap).

@@ -36,7 +36,7 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. This is the algebra-based course, so no calculus is needed. Use G = 6.67 × 10⁻¹¹ N·m²/kg² and g = 9.8 N/kg at Earth’s surface. For Earth, use mass 5.97 × 10²⁴ kg and radius 6.37 × 10⁶ m; for the Moon, mass 7.35 × 10²² kg; Earth–Moon distance (centre to centre) 3.84 × 10⁸ m. Round final answers to 2 significant figures unless told otherwise.
+These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. This is the algebra-based course, so no calculus is needed. Use G = 6.67 × 10⁻¹¹ N·m²/kg² and g = 9.8 N/kg at Earth’s surface. For Earth, use mass 5.97 × 10²⁴ kg and radius 6.37 × 10⁶ m. Round final answers to 2 significant figures unless told otherwise.
 
 ## Question 1 (multiple choice · foundation)
 
@@ -96,25 +96,27 @@ A student stands on a scale in a lift. For a few seconds the scale reads **less*
 
 ## Question 4 (calculation · core)
 
-(a) Calculate the gravitational force that Earth exerts on the Moon.
-(b) Calculate the Moon’s acceleration due to this force.
-(c) Calculate Earth’s gravitational field strength at the Moon’s distance, and explain why it equals your answer to (b).
-(d) State the force that the Moon exerts on Earth.
+The fictional planet Orsa has mass 4.80 × 10²⁴ kg and radius 5.20 × 10⁶ m. Its moon, Pell, has mass 2.40 × 10²² kg. The centres of Orsa and Pell are 2.60 × 10⁸ m apart.
+
+(a) Calculate the gravitational force that Orsa exerts on Pell.
+(b) Calculate Pell’s acceleration due to this force.
+(c) Calculate Orsa’s gravitational field strength at Pell’s distance, and explain why it equals your answer to (b).
+(d) State the force that Pell exerts on Orsa.
 
 <details>
 <summary>Worked solution</summary>
 
-**(a)** F_g = G M_E M_M / r² = (6.67 × 10⁻¹¹)(5.97 × 10²⁴)(7.35 × 10²²) ÷ (3.84 × 10⁸)² = **2.0 × 10²⁰ N**, directed towards Earth’s centre.
+**(a)** F_g = G M_O M_P / r² = (6.67 × 10⁻¹¹)(4.80 × 10²⁴)(2.40 × 10²²) ÷ (2.60 × 10⁸)² = **1.1 × 10²⁰ N** (1.14 × 10²⁰ N), directed towards Orsa’s centre.
 
-**(b)** a = F_g / M_M = 1.98 × 10²⁰ ÷ 7.35 × 10²² = **2.7 × 10⁻³ m/s²**.
+**(b)** a = F_g / M_P = 1.14 × 10²⁰ ÷ 2.40 × 10²² = **4.7 × 10⁻³ m/s²**.
 
-**(c)** g = G M_E / r² = (6.67 × 10⁻¹¹)(5.97 × 10²⁴) ÷ (3.84 × 10⁸)² = **2.7 × 10⁻³ N/kg**. They are equal because gravity is the only force on the Moon, so its acceleration equals the field strength where it is.
+**(c)** g = G M_O / r² = (6.67 × 10⁻¹¹)(4.80 × 10²⁴) ÷ (2.60 × 10⁸)² = **4.7 × 10⁻³ N/kg**. They are equal because gravity is the only force on Pell, so its acceleration equals the field strength where it is.
 
-**(d)** **2.0 × 10²⁰ N**, towards the Moon’s centre: the third-law partner of (a).
+**(d)** **1.1 × 10²⁰ N**, towards Pell’s centre: the third-law partner of (a).
 
-Suggested mark points (5): 1 for substituting both masses and the centre-to-centre distance squared; 1 for 2.0 × 10²⁰ N; 1 for 2.7 × 10⁻³ m/s²; 1 for the field value with the "gravity is the only force" reason; 1 for equal size and opposite direction in (d).
+Suggested mark points (5): 1 for substituting both masses and the centre-to-centre distance squared; 1 for 1.1 × 10²⁰ N; 1 for 4.7 × 10⁻³ m/s²; 1 for the field value with the "gravity is the only force" reason; 1 for equal size and opposite direction in (d).
 
-Check: the field at the Moon is about 3600 times weaker than at Earth’s surface, and (3.84 × 10⁸ ÷ 6.37 × 10⁶)² ≈ 3600 too. The inverse-square law is consistent.
+Check: Orsa’s surface field is G M_O / R² = 11.8 N/kg, which is 2500 times the field at Pell. Pell is 50 planet radii from the centre, and 50² = 2500. The inverse-square law is consistent.
 </details>
 
 ## Question 5 (constructed response · core)
@@ -194,7 +196,7 @@ Plotting g against r gives a curve, not a straight line, and earns no credit for
 <details>
 <summary>Model answer and suggested Marlbridge rubric</summary>
 
-**(a)** The first half is right: the gravitational force is proportional to **gravitational mass**, so the 5 kg ball feels five times the force. But the acceleration is a = F / m, where m is the **inertial mass**, which is also five times larger. Because inertial and gravitational mass are equal (confirmed by experiment), the factors cancel: a = (5m g) ÷ (5m) = g for both. Both balls fall at 9.8 m/s². The claim is **incorrect**.
+**(a)** The first half is right: the gravitational force is proportional to **gravitational mass**, so the 5 kg ball feels five times the force. But the acceleration is a = F / m, where m is the **inertial mass**, which is also five times larger. Because inertial and gravitational mass are equal (confirmed by experiment), the factors cancel: a = F_g / m = (5 kg × 9.8 N/kg) ÷ 5 kg = 9.8 m/s², the same as (1 kg × 9.8 N/kg) ÷ 1 kg. Both balls fall at 9.8 m/s². The claim is **incorrect**.
 
 **(b)** r = 6.37 × 10⁶ + 0.30 × 10⁶ = 6.67 × 10⁶ m.
 g = (6.67 × 10⁻¹¹)(5.97 × 10²⁴) ÷ (6.67 × 10⁶)² = **9.0 N/kg** (about 91% of the surface value).

@@ -200,9 +200,9 @@ Three things to notice in Figure 1:
 2. **(a) Pull upwards.** Along y, a_y = 0: F_n + 60 N − 245 N = 0, so F_n = **185 N**. Friction: 0.20 × 185 N = **37 N**. Along x: a_x = (103.9 − 37) N ÷ 25 kg = **+2.7 m/s²**.
 3. **(b) Push downwards.** Along y: F_n − 60 N − 245 N = 0, so F_n = **305 N**. Friction: 0.20 × 305 N = **61 N**. Along x: a_x = (103.9 − 61) N ÷ 25 kg = **+1.7 m/s²**.
 
-**Interpretation.** The same 120 N force, at the same angle, gives a much smaller acceleration when it presses the sled into the snow. The difference is entirely in the normal force. Pulling slightly upwards is the smarter choice.
+**Interpretation.** The same 120 N force, at the same angle, gives a much smaller acceleration when it presses the sled into the snow. The difference is entirely in the normal force. Pulling upwards is a much better choice than pushing downwards.
 
-**Check.** If the 120 N pulled horizontally, F_n would be 245 N and friction 49 N, giving a_x = (120 − 49) ÷ 25 = 2.84 m/s². That is a little more than case (a): the upward pull reduces friction, but it also loses some forward force. Either way, the answer sits between the two extremes in a sensible way.
+**Check.** If the 120 N pulled horizontally, F_n would be 245 N and friction 49 N, giving a_x = (120 − 49) ÷ 25 = 2.84 m/s². That is a little more than case (a): the upward pull reduces friction by 12 N, but it also loses 16 N of forward force. At 30° and μ_k = 0.20 the loss wins slightly. Pushing downwards is worst, because it loses forward force **and** adds friction.
 
 ## Worked example 3: a block resting on a slope
 

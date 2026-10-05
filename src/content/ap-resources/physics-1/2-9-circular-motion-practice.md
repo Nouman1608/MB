@@ -72,7 +72,7 @@ Two small moons, X and Y, orbit the same fictional planet in circular orbits. Mo
 **Answer: (C).** For circular orbits around the same central mass, T² ∝ r³. So (T_Y / T_X)² = 4³ = 64, and T_Y / T_X = √64 = 8.
 
 - (A) uses T ∝ √r, a square root in the wrong place.
-- (B) assumes T ∝ r. That would only be true if both moons had the same speed, but the outer moon moves more slowly.
+- (B) assumes T ∝ r. That needs equal speeds, but the outer moon moves more slowly.
 - (D) uses T ∝ r², squaring instead of taking T² ∝ r³.
 
 The masses of the moons are not needed: they cancel when gravity supplies the centripetal acceleration.
@@ -94,7 +94,7 @@ A car drives counterclockwise (seen from above) round a circular test track and 
 
 - (A) would be correct only at constant speed, when the tangential part is zero.
 - (B) ignores the change in direction. A car moving on a curve always has a centripetal part.
-- (D) points partly outward. Nothing makes the acceleration point away from the centre; the "outward" feeling is the passenger's tendency to keep going straight.
+- (D) points partly outward. Neither part of the acceleration points away from the centre.
 </details>
 
 ## Question 4 (calculation · core)
@@ -118,7 +118,7 @@ v_max = √(g r) = √(9.8 × 30) = √294 = **17 m/s**.
 
 Suggested mark points (4): 1 for a correct inward equation with mg and N in opposite directions; 1 for setting N = 0 at the greatest speed; 1 for 17 m/s; 1 for 6.0 × 10³ N with direction.
 
-Common error: writing N − mg = m v²/r, as at the bottom of a dip. That gives N = 17 520 N, more than the weight, which would make the car feel heavier on the crest instead of lighter.
+Common error: writing N − mg = m v²/r, as at the bottom of a dip. That gives N = 17 520 N, more than the weight, but on a crest the net force must point down.
 </details>
 
 ## Question 5 (calculation and reasoning · core)
@@ -141,7 +141,7 @@ v = √(r g tan θ) = √(25 × 9.8 × tan 40°) = √(25 × 9.8 × 0.839) = √
 
 Suggested mark points (5): 1 for both component equations (N cos θ = mg and N sin θ = m v²/r); 1 for tan θ = v²/(rg) or the equivalent, leading to about 14 m/s; 1 for friction up the slope; 1 for the reason (needed inward force is less than N sin θ would give, so it tends to slide down); 1 for √2.
 
-The course limits banked curves with friction to descriptions like part (b). You will not be asked to calculate the friction force there.
+With friction on a bank, the course asks only for descriptions like part (b).
 </details>
 
 ## Question 6 (experimental · stretch)

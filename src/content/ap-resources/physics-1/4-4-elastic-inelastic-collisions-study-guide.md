@@ -37,7 +37,7 @@ faqs:
   - question: "If kinetic energy is lost in an inelastic collision, is energy conservation broken?"
     answer: "No. The total energy is conserved. The kinetic energy that disappears becomes other forms, mainly internal (thermal) energy of the objects, plus sound and permanent changes of shape."
   - question: "Does 'elastic' mean the objects bounce?"
-    answer: "Not exactly. Elastic means the system's kinetic energy is unchanged. Objects that bounce apart can still lose kinetic energy (an inelastic collision). Only objects that stick together are certainly inelastic."
+    answer: "Not exactly. Elastic means the system's kinetic energy is unchanged. Objects that bounce apart can still lose kinetic energy (an inelastic collision), so you must compare the totals. Objects that stick together are always inelastic."
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05

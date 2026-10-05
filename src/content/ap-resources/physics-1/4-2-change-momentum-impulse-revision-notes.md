@@ -55,7 +55,7 @@ Short on time? This page is the recap. For explanations, graphs and worked examp
 ## Assumptions behind the numbers
 
 - The **mass** of the system stays constant during the interaction.
-- The force in J = F_avg Δt is the **net external** force. When a surface pushes and gravity also acts, the surface force = net force + weight (for an upward net force).
+- In J = Δp, the impulse must come from the **net external** force. When a surface pushes and gravity also acts, the surface force = net force + weight (for an upward net force).
 - During short, hard impacts, small external forces such as gravity and friction are often negligible; say so when you ignore them.
 - Areas below the time axis on a force–time graph count as negative impulse.
 

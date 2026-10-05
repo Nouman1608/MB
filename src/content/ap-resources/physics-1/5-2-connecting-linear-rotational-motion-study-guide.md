@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-5.2-study-guide"
 title: "Connecting Linear and Rotational Motion: Study Guide (Physics 1 5.2)"
-description: "Link the angle, angular velocity and angular acceleration of a rotating rigid body to the distance, speed and tangential acceleration of each point on it, using s = rθ, v = rω and a = rα."
+description: "Link the angle, angular velocity and angular acceleration of a rotating rigid body to the distance, speed and tangential acceleration of each point on it, using s = rθ, v = rω and a_T = rα."
 course: "physics-1"
 unit: 5
 topics: ["5.2"]
@@ -20,7 +20,7 @@ skills: ["1", "2", "3"]
 studyMinutes: 40
 difficulty: "core"
 calculator: "scientific"
-calculatorNote: "Algebra only, no calculus. Angles must be in radians for s = rθ, v = rω and a = rα. Answers to 2 or 3 significant figures"
+calculatorNote: "Algebra only, no calculus. Angles must be in radians for s = rθ, v = rω and a_T = rα. Answers to 2 or 3 significant figures"
 related: ["mb-ap-phys1-5.2-revision-notes", "mb-ap-phys1-5.2-practice", "mb-ap-phys1-5.2-checklist"]
 next: "mb-ap-phys1-5.2-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
@@ -194,7 +194,7 @@ Q is three times as far from the axis, so v, a_T and a_c are all **three times**
 
 - **"Points farther out have a bigger angular velocity."** They have a bigger *linear* speed. ω is the same for the whole rigid body.
 - **"Pulleys joined by a belt turn at the same rate."** They share the belt's linear speed. The smaller pulley has the larger ω.
-- **Using degrees or rpm in v = rω.** Use rad and rad/s, or the answer is wrong by a factor of 2π or 57.3.
+- **Using degrees, revolutions or rpm in v = rω.** Use rad and rad/s. Otherwise ω is off by a factor of about 57.3 (degrees), 2π (revolutions) or 9.5 (rpm), and so is v.
 - **"a_T = rα is the acceleration of the point."** It is only the tangential part. There is also a centripetal part ω²r, even when α = 0.
 - **"Smaller radius means bigger centripetal acceleration."** Only when v is fixed. For points on one rigid body ω is fixed, so a_c = ω²r is larger farther out.
 - **Mixing up r and the length of string.** In Δs = rΔθ, r is the radius of the drum, not the length of cable wound on it.

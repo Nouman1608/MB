@@ -120,7 +120,7 @@ A box of mass m is pushed across a level floor at constant velocity. The push ha
 (a) Draw the free-body diagram of the box.
 (b) Derive expressions for f and F_N in terms of F, θ, m and g.
 (c) Evaluate f and F_N for m = 30 kg, F = 120 N and θ = 25°.
-(d) The person now **pulls** with the same force F at the same angle θ **above** the horizontal, still at constant velocity. Without new calculation, state whether F_N is larger or smaller than in (c), and by how much.
+(d) The person now **pulls** with a force of the same size F, at the same angle θ but **above** the horizontal. The box stays on the floor. Without new calculation, state whether F_N is larger or smaller than in (c), and by how much.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
@@ -133,7 +133,7 @@ y: F_N − mg − F sin θ = 0, so **F_N = mg + F sin θ**.
 
 **(c)** f = 120 × cos 25° ≈ **110 N** (108.8 N). F_N = 30 × 9.8 + 120 × sin 25° = 294 + 50.7 ≈ **340 N** (344.7 N).
 
-**(d)** Pulling upward gives F_N = mg − F sin θ = 294 − 50.7 ≈ 240 N. That is **smaller**, by 2F sin θ ≈ **100 N** (101.4 N). Topic 2.7 shows that friction usually grows with the normal force, which is why pulling at an upward angle is often easier than pushing down at the same angle.
+**(d)** The box does not move vertically, so the vertical forces still balance. The pull's vertical component now points up, so F_N = mg − F sin θ = 294 − 50.7 ≈ 240 N. That is **smaller**, by 2F sin θ ≈ **100 N** (101.4 N). Topic 2.7 shows that friction usually grows with the normal force, which is why pulling at an upward angle is often easier than pushing down at the same angle.
 
 | Point | What earns it |
 |---|---|
@@ -142,7 +142,7 @@ y: F_N − mg − F sin θ = 0, so **F_N = mg + F sin θ**.
 | 1 | f = F cos θ |
 | 1 | F_N = mg + F sin θ, with the push's vertical component **adding** to the weight |
 | 1 | Correct values in (c) with units |
-| 1 | (d) smaller, by 2F sin θ (about 100 N), with a reason |
+| 1 | (d) smaller, by 2F sin θ (about 100 N), because the pull's vertical component now points up |
 
 A common error is F_N = mg. That ignores the vertical component of the push and loses the fourth and sixth points.
 </details>
@@ -195,7 +195,7 @@ Take **+x** and **+y** as two perpendicular directions in space. A space probe, 
 Speed = √(4.0² + 1.5²) ≈ **4.3 m/s** (4.27 m/s).
 Direction: tan⁻¹(1.5 ÷ 4.0) ≈ **21°** from +x towards +y.
 
-**(d)** The claim is **incorrect**. The thrust acts only along +y, so the forces along x stay balanced (both zero). The first law applies to each axis separately: v_x stays 4.0 m/s. The probe's speed actually **increases**, from 4.0 to 4.3 m/s, because a new y-component has been added.
+**(d)** The claim is **incorrect**. The thrust acts only along +y, so no force acts along x and ΣF_x = 0. The first law applies to each axis separately: v_x stays 4.0 m/s. The probe's speed actually **increases**, from 4.0 to 4.3 m/s, because a new y-component has been added.
 
 | Point | What earns it |
 |---|---|

@@ -134,7 +134,7 @@ A 350 kg roller-coaster car passes point A, 22 m above the ground, at 3.0 m/s. T
 
 Suggested mark points (5): 1 for an energy equation with both K and U_g at A and B; 1 for 17 m/s; 1 for (b); 1 for (c); 1 for (d) with the mass-cancels reason.
 
-Common error: leaving out the 3.0 m/s at A gives √(2 × 9.8 × 14) = 16.6 m/s. That treats the car as starting from rest.
+Common error: leaving out the 3.0 m/s at A gives √(2 × 9.8 × 14) = 16.6 m/s. That treats the car as starting from rest. At 2 significant figures it still rounds to 17 m/s, so the error hides in (a), but it shows in (b): 4.8 × 10⁴ J instead of 5.0 × 10⁴ J.
 </details>
 
 ## Question 6 (constructed response · stretch)

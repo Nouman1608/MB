@@ -57,7 +57,7 @@ Short on time? This page is the recap. For explanations, bar charts and worked e
 - "Smooth" or "frictionless" means no friction; air resistance is ignored unless stated.
 - Springs are ideal and massless.
 - Normal forces on a fixed track do no work because they act perpendicular to the motion.
-- g = 9.8 m/s² at Earth's surface (10 m/s² where a question allows it).
+- g = 9.8 m/s² at Earth's surface. The course framework says exam questions use 10 m/s², and 9.8 m/s² is also accepted.
 
 ## Mistakes to avoid
 

@@ -96,7 +96,7 @@ A light spring scale is joined into the middle of an ideal rope. Two students pu
 
 ## Question 4 (multiple choice · core)
 
-Take **+x to the right**. Two carts sit at rest on a level track with a compressed spring between them. Cart A has mass 0.50 kg and cart B has mass 1.5 kg. The spring is released and pushes the carts apart. Friction is negligible. Which statement is correct while the spring is pushing?
+Take **+x to the right**. Two carts sit at rest on a level track with a compressed light spring between them. Cart A has mass 0.50 kg and cart B has mass 1.5 kg. The spring is released and pushes the carts apart. Friction is negligible. Which statement is correct while the spring is pushing?
 
 - (A) The forces on the carts are equal in size, and A's acceleration is three times B's.
 - (B) The forces on the carts are equal in size, and the accelerations are equal in size.
@@ -110,7 +110,7 @@ Take **+x to the right**. Two carts sit at rest on a level track with a compress
 
 - (B) gets the forces right but forgets that equal forces on unequal masses give unequal accelerations.
 - (C) assumes the heavier cart needs a bigger force "to keep up". The forces are fixed by the third law, not by the result.
-- (D) gets the acceleration ratio right for the wrong reason, by making the forces unequal.
+- (D) states the right acceleration ratio but makes the forces unequal. If the force on A really were three times the force on B, A's acceleration would be nine times B's.
 </details>
 
 ## Question 5 (constructed response · core)
@@ -118,7 +118,7 @@ Take **+x to the right**. Two carts sit at rest on a level track with a compress
 A student (60 kg) pushes horizontally on a heavy crate (40 kg) with a force of 160 N. Neither the student nor the crate moves. Both stand on a rough floor.
 
 (a) Draw separate free-body diagrams for the student and for the crate. Show each force as an arrow from a dot and label it "type, A on B".
-(b) Identify two third-law pairs that link your two diagrams or link them to the floor. For each, say which object the partner force acts on.
+(b) Identify two third-law pairs that include forces shown on your diagrams. For each, say which object the partner force acts on.
 (c) The student says: "The crate does not move because it pushes back on me as hard as I push on it." Evaluate this claim.
 
 <details>
@@ -143,7 +143,7 @@ Crate: gravitational force of Earth on crate (down, 392 N); normal force of floo
 | 1 | States that the crate's push acts on the student, not on the crate |
 | 1 | Uses the floor's friction on the crate to explain why the crate stays at rest |
 
-A diagram that puts "crate on student" on the crate's diagram loses the second point and usually the fourth.
+A diagram that puts "crate on student" on the crate's diagram loses the first two points (the crate gains a wrong force and the student loses one) and usually the fourth.
 </details>
 
 ## Question 6 (constructed response · core)

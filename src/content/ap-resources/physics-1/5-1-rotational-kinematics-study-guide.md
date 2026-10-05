@@ -60,7 +60,7 @@ So we use a new model, the **rigid system**:
 
 A rigid system **cannot** be modelled as an object while you care about its rotation.
 
-The object model still has a place. If the rotation does not affect the question, you can describe the motion of the system's centre of mass and treat it as a point. A cricket ball spins as it flies, but if you only want its range you can model it as one object at its centre of mass. The spin matters only if the question is about the spin itself (or about effects, such as swing, that come from it).
+The object model still has a place. If the rotation does not affect the question, you can describe the motion of the system's centre of mass and treat it as a point. A cricket ball spins as it flies, but if you only want its range you can model it as one object at its centre of mass. The spin matters only if the question is about the spin itself (or about effects that come from it, such as the curving path of a football kicked with spin).
 
 ## Angular position and angular displacement
 

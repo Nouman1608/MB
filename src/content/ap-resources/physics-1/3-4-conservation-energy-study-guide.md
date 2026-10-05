@@ -21,7 +21,7 @@ skills: ["1", "2", "3"]
 studyMinutes: 45
 difficulty: "core"
 calculator: "scientific"
-calculatorNote: "Algebra only; no calculus. g = 9.8 m/s² (9.8 N/kg), as on the course equation table; the course also accepts 10 m/s² where stated. Air resistance is ignored unless a question says otherwise"
+calculatorNote: "Algebra only; no calculus. g = 9.8 m/s² (9.8 N/kg), as on the course equation table. The course framework says exam questions use g = 10 m/s², and 9.8 m/s² is also accepted. Air resistance is ignored unless a question says otherwise"
 related: ["mb-ap-phys1-3.4-revision-notes", "mb-ap-phys1-3.4-practice", "mb-ap-phys1-3.4-checklist"]
 next: "mb-ap-phys1-3.4-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
@@ -204,9 +204,9 @@ An **energy bar chart** shows how much of each type of energy the system has at 
 
 Energy methods make some comparisons almost instant.
 
-**Three throws from a cliff.** Three identical stones are thrown from the same 15 m cliff top at 12 m/s: one straight up, one horizontally, one straight down. Ignore air resistance. With the system stone + Earth, each starts with the same K and the same U_g, and falls the same 15 m. So each lands with the **same speed**: v = √(12² + 2 × 9.8 × 15) = **21 m/s**. Their directions, paths and flight times differ, but energy does not depend on any of those.
+**Three throws from a cliff.** Three identical stones are thrown from the same 15 m cliff top at 12 m/s: one straight up, one horizontally, one straight down. Ignore air resistance. With the system stone + Earth, each starts with the same K and the same U_g, and falls the same 15 m. So each lands with the **same speed**: v = √(12² + 2 × 9.8 × 15) = **21 m/s**. Their paths and flight times differ, and the horizontal throw lands at an angle while the other two land moving straight down, but the speed does not depend on any of those.
 
-**Testing conservation with data.** If mechanical energy is conserved for a cart rolling down a ramp from rest, then ½mv² = mgh, so v² = 2gh. A graph of v² against h should be a straight line through the origin with slope 2g = 19.6 m/s². A smaller slope is evidence that some mechanical energy is being dissipated. Practice Q7 works through a data set like this.
+**Testing conservation with data.** If mechanical energy is conserved for a low-friction cart with light wheels running down a ramp from rest, then ½mv² = mgh, so v² = 2gh. A graph of v² against h should be a straight line through the origin with slope 2g = 19.6 m/s². A smaller slope is evidence that some mechanical energy is being dissipated. Practice Q7 works through a data set like this.
 
 ## Common misconceptions
 

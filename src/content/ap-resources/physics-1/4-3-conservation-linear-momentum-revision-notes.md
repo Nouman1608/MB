@@ -69,7 +69,7 @@ Short on time? This page is the recap. For diagrams and worked examples, use the
 ## Quick self-check
 
 1. With +x to the right, a 2.0 kg cart moves at +1.5 m/s and a 1.0 kg cart at −3.0 m/s. What is v_cm? *(0 m/s)*
-2. A 4.0 kg trolley at rest on a smooth floor fires a 0.20 kg beanbag it was carrying backwards at 6.0 m/s. How fast does the empty trolley move? *(0.30 m/s forwards)*
+2. A trolley at rest on a smooth floor fires a 0.20 kg beanbag it was carrying backwards at 6.0 m/s. The empty trolley has a mass of 4.0 kg. How fast does it move? *(0.30 m/s forwards)*
 3. A 3.0 N friction force acts on a box for 4.0 s while it is still sliding. By how much does the box's momentum change? *(12 kg·m/s, opposite to its motion)*
 
 Next: [practice questions](/advanced-course-resources/physics-1/4-3-conservation-linear-momentum-practice/).

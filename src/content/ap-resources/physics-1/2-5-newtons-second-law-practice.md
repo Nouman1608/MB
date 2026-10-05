@@ -19,7 +19,7 @@ skills: ["1", "2", "3"]
 studyMinutes: 50
 difficulty: "mixed"
 calculator: "scientific"
-calculatorNote: "Algebra only, no calculus. g = 9.8 m/s². Give answers to 2 significant figures unless told otherwise; keep unrounded values until the last step"
+calculatorNote: "Algebra and trigonometry only, no calculus. g = 9.8 m/s². Give answers to 2 significant figures unless told otherwise; keep unrounded values until the last step"
 related: ["mb-ap-phys1-2.5-study-guide", "mb-ap-phys1-2.5-revision-notes", "mb-ap-phys1-2.5-checklist"]
 next: "mb-ap-phys1-2.5-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
@@ -70,7 +70,7 @@ A net force acting on a cart gives it an acceleration a. The net force is then h
 
 **Answer: (A).** a_new / a_old = (½ΣF ÷ 3m) ÷ (ΣF ÷ m) = ½ × ⅓ = 1/6.
 
-- (B) divides by ½ instead of multiplying (2 ÷ 3), as if acceleration fell when the force grew. The mass part (÷ 3) is right.
+- (B) treats acceleration as inversely proportional to force, so halving the force doubles a (× 2 instead of × ½). The mass part (÷ 3) is right.
 - (C) multiplies ½ by 3, as if a larger mass gave a larger acceleration. More mass means less acceleration.
 - (D) inverts both relationships (3 ÷ ½). It is the reciprocal of the correct factor.
 </details>
@@ -175,7 +175,7 @@ Take **+x along a level, low-friction track**. A student pulls a cart with a han
 | 1 | Supports the claim **because** the line passes through the origin; friction would shift the intercept |
 | 1 | New slope 0.57 kg⁻¹, from 1/(1.25 + 0.50) |
 
-**Alternative method for (b).** Average the five values of F/a. This gives about 1.25 kg too and earns the mark, but a graph shows any intercept and is the better method.
+**Alternative method for (b).** Average the five values of F/a. This gives about 1.24 kg, which is within the accepted range and earns the mark, but a graph shows any intercept and is the better method.
 </details>
 
 ## Question 7 (constructed response · stretch)

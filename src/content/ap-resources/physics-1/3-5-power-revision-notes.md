@@ -53,7 +53,7 @@ Short on time? This page is the recap. For explanations, graphs and worked examp
 
 ## Assumptions behind the numbers
 
-- Forces are **constant** when you use P = F∥v; the course does not ask you to calculate with changing forces.
+- The force is **constant** when you use P = F∥v. If the force changes, use total energy ÷ total time for the average power.
 - Objects are treated as **point objects**; rotation is ignored.
 - Near Earth's surface, g = 9.8 m/s². Air resistance is ignored unless the question gives a resistive force.
 - "Constant speed" means the net force is zero, so a driving force equals the forces it balances.

@@ -36,7 +36,7 @@ faqs:
   - question: "What is the unit of kinetic energy?"
     answer: "The joule (J). From K = ½mv², the unit is kg × (m/s)² = kg·m²/s², and 1 J = 1 kg·m²/s². It is the same joule used for every form of energy and for work."
   - question: "Why is it called translational kinetic energy?"
-    answer: "Translational means the center of mass moves from place to place. A spinning wheel can also have rotational kinetic energy, which you meet in Unit 5. In Unit 3 we only deal with the energy of center-of-mass motion."
+    answer: "Translational means the center of mass moves from place to place. A spinning wheel can also have rotational kinetic energy, which you meet in Unit 6. In Unit 3 we only deal with the energy of center-of-mass motion."
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05

@@ -21,7 +21,7 @@ skills: ["1", "2", "3"]
 studyMinutes: 40
 difficulty: "core"
 calculator: "scientific"
-calculatorNote: "Algebra only; no calculus. g = 9.8 m/s² (9.8 N/kg) and G = 6.67 × 10⁻¹¹ N·m²/kg², as on the course equation table; the course also accepts g = 10 m/s² where stated"
+calculatorNote: "Algebra only; no calculus. g = 9.8 m/s² (9.8 N/kg) and G = 6.67 × 10⁻¹¹ N·m²/kg², as on the course equation table. The course framework says exam questions use g = 10 m/s², and 9.8 m/s² is also accepted"
 related: ["mb-ap-phys1-3.3-revision-notes", "mb-ap-phys1-3.3-practice", "mb-ap-phys1-3.3-checklist"]
 next: "mb-ap-phys1-3.3-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
@@ -167,11 +167,15 @@ Three features to be able to sketch without notes:
 
 Potential energy is shared between **pairs** of interacting objects. For three or more objects, add up the potential energy of every pair. Three objects A, B and C have three pairs: AB, BC and AC.
 
-**Example.** Three identical small moons, each of mass m, sit at the corners of an equilateral triangle of side d. Each pair has U = −Gm²/d. There are three pairs, so
+**Example.** Three small moons lie in a straight line: A (mass m), then B (mass 2m) a distance d further on, then C (mass m) a further d beyond B. The pairs are:
 
-**U_total = −3Gm²/d**
+- AB: separation d, so U = −G(m)(2m)/d = −2Gm²/d
+- BC: separation d, so U = −2Gm²/d
+- AC: separation 2d, so U = −G(m)(m)/(2d) = −0.5Gm²/d
 
-If the triangle grows to side 2d, every pair term halves, so U_total halves too: it becomes −3Gm²/(2d). That is an **increase**, because the value is less negative.
+**U_total = −4.5Gm²/d**
+
+The outer pair AC is easy to miss because B sits between them, but A and C still attract each other. If every spacing doubles, every pair term halves, so U_total halves too: −2.25Gm²/d. That is an **increase**, because the value is less negative.
 
 The same idea covers mixed systems. A block hanging on a vertical spring near Earth, with the system block + spring + Earth, has two potential energy terms: U_s for the block–spring interaction and U_g for the block–Earth interaction. (We treat the spring as massless, so it has no gravitational term of its own.)
 
@@ -211,7 +215,7 @@ Near the surface, U_g = mgy, where y is the height above the chosen zero. Here m
 3. **(b)** ΔU_g = (−1.56 × 10¹⁰ J) − (−3.13 × 10¹⁰ J) = **+1.6 × 10¹⁰ J**. Positive: the system gained potential energy as the satellite moved away.
 4. **(c)** mgΔy = 500 kg × 9.8 N/kg × 6.37 × 10⁶ m = **3.1 × 10¹⁰ J**, about **twice** the true change.
 
-**Why.** mgΔy assumes the field stays at 9.8 N/kg all the way up. In fact the field weakens as 1/r², so less energy is needed. For a 1.0 km lift the two methods agree to within about 0.02%, which is why mgΔy is fine for anything happening near the ground. Use U_g = −Gm₁m₂/r whenever the distance moved is a sizeable fraction of the planet's radius.
+**Why.** mgΔy assumes the field stays at 9.8 N/kg all the way up. In fact the field weakens as 1/r², so less energy is needed. For a 1.0 km lift, the weakening of the field changes the answer by only about 0.02% (1 km ÷ 6370 km), which is why mgΔy is fine for anything happening near the ground. Use U_g = −Gm₁m₂/r whenever the distance moved is a sizeable fraction of the planet's radius.
 
 ## Common misconceptions
 

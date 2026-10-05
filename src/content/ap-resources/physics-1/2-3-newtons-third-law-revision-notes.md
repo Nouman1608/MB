@@ -70,7 +70,7 @@ Short on time? This page is the recap. For explanations, diagrams and worked exa
 ## Quick self-check
 
 1. A hammer hits a nail. What is the third-law partner of the force of the hammer on the nail? *(The force of the nail on the hammer: same size, opposite direction, same type.)*
-2. A 0.80 kg cart and a 2.4 kg cart push apart with a spring between them. How do the forces on them compare, and which cart's velocity changes more? *(Equal forces; the 0.80 kg cart's velocity changes 3 times as much.)*
+2. A 0.80 kg cart and a 2.4 kg cart push apart with a light spring between them. How do the forces on them compare, and which cart's velocity changes more? *(Equal forces; the 0.80 kg cart's velocity changes 3 times as much.)*
 3. A heavy rope hangs from a hook. Where is the tension greatest? *(At the top: that part holds up all the rope below it.)*
 
 Next: [practice questions](/advanced-course-resources/physics-1/2-3-newtons-third-law-practice/).

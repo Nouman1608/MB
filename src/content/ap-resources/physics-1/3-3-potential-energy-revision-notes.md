@@ -57,7 +57,7 @@ Short on time? This page is the recap. For explanations, graphs and worked examp
 - The spring is **ideal**: it obeys Hooke's law and has negligible mass.
 - Planets, moons and stars are treated as **spherical**, so r is measured between centres.
 - ΔU_g = mgΔy assumes a **constant field**. It is accurate only when Δy is much smaller than the planet's radius.
-- g = 9.8 N/kg at Earth's surface; the course also accepts 10 N/kg where stated.
+- g = 9.8 N/kg at Earth's surface. The course framework says exam questions use 10 N/kg (10 m/s²), and 9.8 is also accepted.
 
 ## Mistakes to avoid
 

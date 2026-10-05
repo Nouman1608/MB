@@ -17,7 +17,7 @@ calculator: "scientific"
 related: ["mb-ap-phys1-2.9-study-guide", "mb-ap-phys1-2.9-practice", "mb-ap-phys1-2.9-checklist"]
 next: "mb-ap-phys1-2.9-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-physics-1"]
+sources: ["ced-physics-1", "page-physics-1"]
 keyPoints:
   - "Constant speed on a circle still means acceleration: v²/r towards the centre."
   - "Real forces only on the free-body diagram; their net inward part equals m v²/r."

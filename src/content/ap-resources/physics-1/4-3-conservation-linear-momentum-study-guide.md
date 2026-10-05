@@ -118,9 +118,9 @@ A **momentum bar chart** shows each object's signed momentum before and after an
 <path d="M70 30 V290" stroke="#1d2b44" stroke-width="2"/>
 <path d="M290 30 V290" stroke="#1d2b44" stroke-width="1" stroke-dasharray="5 4"/>
 <g font-size="12" fill="#1d2b44" text-anchor="end">
-<text x="62" y="54">+0.3</text><text x="62" y="134">+0.1</text><text x="62" y="174">0</text><text x="62" y="214">−0.1</text><text x="62" y="254">−0.2</text>
+<text x="62" y="54">+0.3</text><text x="62" y="94">+0.2</text><text x="62" y="134">+0.1</text><text x="62" y="174">0</text><text x="62" y="214">−0.1</text><text x="62" y="254">−0.2</text>
 </g>
-<g stroke="#1d2b44" stroke-width="1"><path d="M66 50 H74 M66 130 H74 M66 210 H74 M66 250 H74"/></g>
+<g stroke="#1d2b44" stroke-width="1"><path d="M66 50 H74 M66 90 H74 M66 130 H74 M66 210 H74 M66 250 H74"/></g>
 <text x="22" y="170" font-size="13" fill="#1d2b44" text-anchor="middle" transform="rotate(-90 22 170)">momentum, p_x (kg·m/s)</text>
 <text x="180" y="22" font-size="13" fill="#1d2b44" text-anchor="middle" font-weight="600">Before collision</text>
 <text x="410" y="22" font-size="13" fill="#1d2b44" text-anchor="middle" font-weight="600">After collision</text>

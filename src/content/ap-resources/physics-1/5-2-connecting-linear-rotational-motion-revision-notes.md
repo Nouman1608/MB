@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-5.2-revision-notes"
 title: "Connecting Linear and Rotational Motion: Revision Notes (Physics 1 5.2)"
-description: "One-page recap of s = rθ, v = rω and a = rα for points on a rotating rigid body, with belt and string links, the centripetal connection and the mistakes that cost marks."
+description: "One-page recap of s = rθ, v = rω and a_T = rα for points on a rotating rigid body, with belt and string links, the centripetal connection and the mistakes that cost marks."
 course: "physics-1"
 unit: 5
 topics: ["5.2"]
@@ -21,7 +21,7 @@ sources: ["ced-physics-1"]
 keyPoints:
   - "One rigid body: same ω and α everywhere; v and a_T proportional to r."
   - "Belt, chain or string without slipping: same linear speed, r₁ω₁ = r₂ω₂."
-  - "Radians only in s = rθ, v = rω and a = rα."
+  - "Radians only in s = rθ, v = rω and a_T = rα."
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
