@@ -62,7 +62,7 @@ A hot stone is dropped into a bucket of cool water and left until the temperatur
 - (A) The particles in the stone and the water have stopped colliding.
 - (B) The stone and the water have the same total energy.
 - (C) Energy still passes between the stone and the water in collisions, but the net transfer is zero.
-- (D) Energy continues to move from the stone to the water, but more slowly.
+- (D) There is still a net transfer of energy from the stone to the water, but it is slower.
 
 <details>
 <summary>Answer and explanation</summary>

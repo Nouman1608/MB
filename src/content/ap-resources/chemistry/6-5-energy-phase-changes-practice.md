@@ -160,7 +160,7 @@ Accept 49.7–49.8 kJ depending on rounding. Do not award the third point if 45.
 
 ## Question 6 (constructed response · core)
 
-A 0.400 mol sample of fictional substance X is heated at constant pressure. The table shows its temperature after different amounts of energy have been added.
+A 0.400 mol sample of fictional substance X is heated at constant pressure. The table shows its temperature after different amounts of energy have been added. Each phase change starts and finishes exactly at one of the readings shown.
 
 | Energy added (kJ) | 0 | 0.6 | 1.6 | 2.6 | 4.35 | 6.1 | 12.1 | 18.1 | 18.5 |
 |---|---|---|---|---|---|---|---|---|---|

@@ -146,12 +146,12 @@ For each mixture, calculate the forward and reverse rates and state the directio
 
 A particle diagram, or "snapshot", shows the particles in a small region at one instant. Snapshots are a good way to connect what particles do with what you measure. They also have limits, and the exam may ask you to say what a model does and does not show.
 
-Figure 2 shows four snapshots of a fictional gas reaction, 2M(g) ⇌ M₂(g), in a sealed container at constant temperature.
+Figure 2 shows four snapshots of a fictional gas reaction, 2Z(g) ⇌ Z₂(g), in a sealed container at constant temperature.
 
 <figure>
 <svg viewBox="0 0 640 215" role="img" aria-labelledby="eq72-s-title eq72-s-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
-<title id="eq72-s-title">Four particle snapshots of the reaction 2M forming M2</title>
-<desc id="eq72-s-desc">Four boxes in a row, each a snapshot of the same container at a later time. Single M particles are drawn as open circles; M2 molecules are drawn as two joined filled circles. Snapshot 1 at 0 seconds: 12 M and 0 M2. Snapshot 2 at 10 seconds: 6 M and 3 M2. Snapshot 3 at 20 seconds: 4 M and 4 M2. Snapshot 4 at 30 seconds: 4 M and 4 M2, but the particles are in different positions from snapshot 3.</desc>
+<title id="eq72-s-title">Four particle snapshots of the reaction 2Z forming Z2</title>
+<desc id="eq72-s-desc">Four boxes in a row, each a snapshot of the same container at a later time. Single Z particles are drawn as open circles; Z2 molecules are drawn as two joined filled circles. Snapshot 1 at 0 seconds: 12 Z and 0 Z2. Snapshot 2 at 10 seconds: 6 Z and 3 Z2. Snapshot 3 at 20 seconds: 4 Z and 4 Z2. Snapshot 4 at 30 seconds: 4 Z and 4 Z2, but the particles are in different positions from snapshot 3.</desc>
 <rect x="10" y="30" width="146" height="132" rx="6" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <circle cx="135" cy="50" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <circle cx="100" cy="143" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
@@ -166,7 +166,7 @@ Figure 2 shows four snapshots of a fictional gas reaction, 2M(g) ⇌ M₂(g), in
 <circle cx="65" cy="50" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <circle cx="30" cy="50" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <text x="83" y="182" text-anchor="middle" font-size="13" font-weight="600" fill="#1d2b44">Snapshot 1: t = 0 s</text>
-<text x="83" y="200" text-anchor="middle" font-size="12" fill="#1d2b44">12 M, 0 M₂</text>
+<text x="83" y="200" text-anchor="middle" font-size="12" fill="#1d2b44">12 Z, 0 Z₂</text>
 <rect x="168" y="30" width="146" height="132" rx="6" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <circle cx="188" cy="143" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <circle cx="223" cy="112" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
@@ -178,7 +178,7 @@ Figure 2 shows four snapshots of a fictional gas reaction, 2M(g) ⇌ M₂(g), in
 <circle cx="287" cy="112" r="7" fill="#1d2b44"/><circle cx="299" cy="112" r="7" fill="#1d2b44"/>
 <circle cx="182" cy="50" r="7" fill="#1d2b44"/><circle cx="194" cy="50" r="7" fill="#1d2b44"/>
 <text x="241" y="182" text-anchor="middle" font-size="13" font-weight="600" fill="#1d2b44">Snapshot 2: t = 10 s</text>
-<text x="241" y="200" text-anchor="middle" font-size="12" fill="#1d2b44">6 M, 3 M₂</text>
+<text x="241" y="200" text-anchor="middle" font-size="12" fill="#1d2b44">6 Z, 3 Z₂</text>
 <rect x="326" y="30" width="146" height="132" rx="6" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <circle cx="416" cy="143" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <circle cx="381" cy="81" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
@@ -189,7 +189,7 @@ Figure 2 shows four snapshots of a fictional gas reaction, 2M(g) ⇌ M₂(g), in
 <circle cx="410" cy="112" r="7" fill="#1d2b44"/><circle cx="422" cy="112" r="7" fill="#1d2b44"/>
 <circle cx="445" cy="143" r="7" fill="#1d2b44"/><circle cx="457" cy="143" r="7" fill="#1d2b44"/>
 <text x="399" y="182" text-anchor="middle" font-size="13" font-weight="600" fill="#1d2b44">Snapshot 3: t = 20 s</text>
-<text x="399" y="200" text-anchor="middle" font-size="12" fill="#1d2b44">4 M, 4 M₂</text>
+<text x="399" y="200" text-anchor="middle" font-size="12" fill="#1d2b44">4 Z, 4 Z₂</text>
 <rect x="484" y="30" width="146" height="132" rx="6" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <circle cx="574" cy="112" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <circle cx="574" cy="81" r="7" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
@@ -200,9 +200,9 @@ Figure 2 shows four snapshots of a fictional gas reaction, 2M(g) ⇌ M₂(g), in
 <circle cx="533" cy="81" r="7" fill="#1d2b44"/><circle cx="545" cy="81" r="7" fill="#1d2b44"/>
 <circle cx="603" cy="81" r="7" fill="#1d2b44"/><circle cx="615" cy="81" r="7" fill="#1d2b44"/>
 <text x="557" y="182" text-anchor="middle" font-size="13" font-weight="600" fill="#1d2b44">Snapshot 4: t = 30 s</text>
-<text x="557" y="200" text-anchor="middle" font-size="12" fill="#1d2b44">4 M, 4 M₂</text>
+<text x="557" y="200" text-anchor="middle" font-size="12" fill="#1d2b44">4 Z, 4 Z₂</text>
 </svg>
-<figcaption>Figure 2. Snapshots of 2M ⇌ M₂ in a sealed container. Open circles: M atoms. Joined pairs of filled circles: M₂ molecules. The counts are printed under each box, so the figure does not rely on shading.</figcaption>
+<figcaption>Figure 2. Snapshots of 2Z ⇌ Z₂ in a sealed container. Open circles: Z atoms. Joined pairs of filled circles: Z₂ molecules. The counts are printed under each box, so the figure does not rely on shading.</figcaption>
 </figure>
 
 ## Worked example 2: reading and judging a particle model
@@ -214,21 +214,21 @@ Figure 2 shows four snapshots of a fictional gas reaction, 2M(g) ⇌ M₂(g), in
 (c) What can you conclude from snapshots 3 and 4?
 (d) Give two things these snapshots do not show about the reaction.
 
-**(a)** Count the M units. Snapshot 1: 12. Snapshot 2: 6 + 2 × 3 = 12. Snapshots 3 and 4: 4 + 2 × 4 = 12. The total is conserved, and each M₂ uses 2 M, which matches 2M ⇌ M₂.
+**(a)** Count the Z units. Snapshot 1: 12. Snapshot 2: 6 + 2 × 3 = 12. Snapshots 3 and 4: 4 + 2 × 4 = 12. The total is conserved, and each Z₂ uses 2 Z, which matches 2Z ⇌ Z₂.
 
 **(b)**
 
-1. M falls from 12 to 6 and M₂ rises from 0 to 3. Six M have become three M₂.
+1. Z falls from 12 to 6 and Z₂ rises from 0 to 3. Six Z have become three Z₂.
 2. The net change is to the **right** (forward).
-3. So in this interval the forward rate (2M → M₂) is **greater than** the reverse rate (M₂ → 2M). At the very start, with no M₂ present, the reverse rate is zero.
+3. So in this interval the forward rate (2Z → Z₂) is **greater than** the reverse rate (Z₂ → 2Z). At the very start, with no Z₂ present, the reverse rate is zero.
 
-**(c)** The counts are the same at 20 s and 30 s (4 M, 4 M₂), while the particles are in different positions. The amounts are no longer changing, so the system has probably reached equilibrium by 20 s. At equilibrium the forward and reverse rates are equal. Note that 4 M and 4 M₂ are equal **counts** here by coincidence; equal amounts are not what defines equilibrium.
+**(c)** The counts are the same at 20 s and 30 s (4 Z, 4 Z₂), while the particles are in different positions. The amounts are no longer changing, so the system has probably reached equilibrium by 20 s. At equilibrium the forward and reverse rates are equal. Note that 4 Z and 4 Z₂ are equal **counts** here by coincidence; equal amounts are not what defines equilibrium.
 
 **(d)** Any two of:
 
 - **Rates are not shown.** A single snapshot shows how many particles there are, not how fast they react. You can only infer which rate is larger by comparing snapshots.
-- **The dynamic process is hidden.** In snapshots 3 and 4, M₂ molecules are still forming and breaking up. The diagrams cannot show which particular M₂ broke apart and re-formed between 20 s and 30 s.
-- **Too few particles.** A real sample has around 10²³ particles. With only 12 units, random variation could change the counts from one snapshot to the next even at equilibrium.
+- **The dynamic process is hidden.** In snapshots 3 and 4, Z₂ molecules are still forming and breaking up. The diagrams cannot show which particular Z₂ broke apart and re-formed between 20 s and 30 s.
+- **Too few particles.** A real sample contains an enormous number of particles. With only 12 units, random variation could change the counts from one snapshot to the next even at equilibrium.
 - **Timing.** You cannot tell exactly when equilibrium began; it could be any time between 10 s and 20 s.
 
 **Interpretation.** The model is good for showing conservation of atoms and the direction of net change. To show that equilibrium is dynamic, you would need extra information, for example arrows on individual particles, or a labelled-particle experiment like the one in Topic 7.1.

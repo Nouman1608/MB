@@ -107,6 +107,8 @@ So the full statement of energy conservation for a reaction is:
 
 In most reactions you meet, heat is by far the larger part. But work matters when gases are made or used up, and it explains why a temperature reading alone can miss part of the energy change.
 
+*Background:* you need the idea that energy can move as heat or as work. The formal difference between enthalpy and internal energy that follows from it is not assessed in this course; from Topic 6.6 on, reactions are treated at constant pressure and the heat transferred is taken as the energy change.
+
 ## Reading temperature changes
 
 You cannot see energy. You can see its effect on temperature. **Temperature changes show energy changes.**

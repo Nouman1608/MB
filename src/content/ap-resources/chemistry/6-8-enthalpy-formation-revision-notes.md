@@ -17,7 +17,7 @@ calculator: "scientific"
 related: ["mb-ap-chem-6.8-study-guide", "mb-ap-chem-6.8-practice", "mb-ap-chem-6.8-checklist"]
 next: "mb-ap-chem-6.8-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-chemistry"]
+sources: ["ced-chemistry", "page-chemistry"]
 keyPoints:
   - "ΔH°f: 1 mol of substance from its elements in their standard states."
   - "Elements in their standard states: ΔH°f = 0."

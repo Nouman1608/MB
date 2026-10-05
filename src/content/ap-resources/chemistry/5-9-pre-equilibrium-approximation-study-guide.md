@@ -175,7 +175,7 @@ Same answer from the overall rate law: 0.012 × (0.25)^½ × 0.10 = 0.012 × 0.5
 
 ## When is the approximation reasonable?
 
-The approximation works when the intermediate goes **back** to reactants much faster than it goes **on** through the slow step. In the language of rate constants, k₋₁ must be much larger than the rate at which the slow step removes the intermediate. If instead the first step were slow, you would be back in Topic 5.8: the first step's rate law would be the answer, and later fast steps would not matter.
+The approximation works when the intermediate goes **back** to reactants much faster than it goes **on** through the slow step. For the mechanism above, the reverse of step 1 (rate k₋₁[AB]) must be much faster than step 2 (rate k₂[AB][B]). Cancelling [AB], this means k₋₁ must be much larger than k₂[B]. If instead the first step were slow, you would be back in Topic 5.8: the first step's rate law would be the answer, and later fast steps would not matter.
 
 You will not be asked to prove that the approximation holds. You should be able to say why it is needed (the slow step contains an intermediate) and what it assumes (the fast first step stays at equilibrium).
 

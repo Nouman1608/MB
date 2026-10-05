@@ -191,7 +191,7 @@ For example, at 20 s: (0.160)² ÷ 0.420 = 0.0256 ÷ 0.420 = 0.0610.
 
 **(d)** Kc = **0.100**. The concentrations, and so Qc, stop changing by **40 s**. (Equilibrium may have been reached a little earlier, between 30 s and 40 s; the table cannot show exactly when.)
 
-**(e)** Qc will reach **0.100**. Kc depends only on the reaction and the temperature, not on the starting mixture. Starting with pure Y, Qc begins very large (no X in the denominator) and falls until it equals Kc.
+**(e)** Qc will reach **0.100**. Kc depends only on the reaction and the temperature, not on the starting mixture. Starting with pure Y, there is no X at first, so Qc has no finite value. As soon as a little X forms, Qc is very large, and it then falls until it equals Kc.
 
 | Point | What earns it |
 |---|---|

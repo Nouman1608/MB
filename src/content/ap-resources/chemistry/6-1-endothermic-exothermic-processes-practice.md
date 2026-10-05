@@ -147,7 +147,7 @@ Do not award the third point for "the solid absorbed cold" or for "the solution 
 
 ## Question 6 (constructed response · stretch)
 
-A reaction that produces a gas is carried out in a cylinder fitted with a light, freely moving piston. The cylinder stands in a large water bath. As the reaction happens, the piston rises steadily. A thermometer in the water bath shows **no change** in temperature (it reads to ±0.1 °C).
+A reaction that produces a gas is carried out in a cylinder fitted with a light, freely moving piston. The cylinder stands in a small, insulated water bath. As the reaction happens, the piston rises steadily. A thermometer in the water bath shows **no change** in temperature (it reads to ±0.1 °C).
 
 A student claims: "Because the water bath did not change temperature, the energy of the reacting system did not change."
 
@@ -159,7 +159,7 @@ A student claims: "Because the water bath did not change temperature, the energy
 
 **(a)** As the piston rises, the gas made by the reaction pushes the piston and the air above it through a distance. The system does **work** on the surroundings.
 
-**(b)** The claim is **not justified**. Energy can leave a system as heat or as work. The steady temperature shows that no heat transfer was large enough to detect, but the rising piston shows that the system did work on its surroundings. Energy that leaves as work is lost by the system, so the energy of the reacting system **decreased** even though the bath did not warm up. (A very small heat transfer could also be hidden inside the ±0.1 °C precision.)
+**(b)** The claim is **not justified**. Energy can leave a system as heat or as work. The steady temperature shows that no heat transfer was large enough to detect, but the rising piston shows that the system did work on its surroundings. Energy that leaves as work is lost by the system, so the evidence shows the energy of the reacting system **decreased** even though the bath did not warm up. (A very small heat transfer could also be hidden inside the ±0.1 °C precision.)
 
 | Point | What earns it |
 |---|---|
@@ -176,7 +176,7 @@ Compound Z is a fictional ionic solid used in a cold pack. When the pack is sque
 
 (a) Is dissolving Z endothermic or exothermic? Explain your answer in terms of the attractions that are broken and formed.
 (b) A person holds the activated pack. Describe the direction of energy transfer between the hand and the pack, and explain why the hand feels cold.
-(c) Z is dissolved in a different solvent in which the attractions between the ions of Z and the solvent molecules are much weaker than in water. All other attractions are about the same, and the same mass of solvent with about the same heat capacity is used. Predict whether the temperature drop would be larger or smaller than in water, and justify your prediction.
+(c) Z is dissolved in a different solvent in which the attractions between the ions of Z and the solvent molecules are much weaker than in water. All other attractions are about the same, the same amount of Z dissolves completely, and the same mass of solvent with about the same heat capacity is used. Predict whether the temperature drop would be larger or smaller than in water, and justify your prediction.
 
 <details>
 <summary>Model answer and suggested Marlbridge rubric</summary>

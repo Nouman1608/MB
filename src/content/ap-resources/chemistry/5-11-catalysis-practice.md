@@ -132,10 +132,8 @@ The reaction A + B → P is catalysed by a dissolved metal ion, Cat. Initial rat
 | 1 | All three orders, each supported by a pair of experiments |
 | 1 | Rate law rate = k[A][Cat] |
 | 1 | k = 0.15 with units M⁻¹ s⁻¹ |
-| 1 | Mechanism: Cat and A in the slow first step, Cat regenerated in a later step, B after the slow step, steps add to the overall equation |
+| 1 | Any valid mechanism: one A and one Cat in the slow first step, Cat regenerated later, B after the slow step, steps add up |
 | 1 | 1.5 × 10⁻⁴ M s⁻¹ (carry forward an incorrect k from (b)) |
-
-Accept any valid mechanism with one A and one Cat in the slow step and Cat regenerated.
 </details>
 
 ## Question 5 (constructed response · core)
@@ -183,13 +181,13 @@ Ethene reacts with hydrogen to form ethane, C₂H₄ + H₂ → C₂H₆. The re
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** H₂ molecules bind to nickel atoms on the surface, and the H–H bond breaks, leaving H atoms bonded to the surface. Ethene also binds to the surface. Surface H atoms then add to the ethene carbons in separate, low-barrier elementary steps, and ethane leaves the surface. No direct, high-barrier collision between H₂ and C₂H₄ is needed.
+**(a)** H₂ molecules bind to nickel atoms on the surface, and the H–H bond breaks, leaving H atoms bonded to the surface. Ethene also binds to the surface. Surface H atoms then add to the ethene carbons in separate, low-barrier elementary steps, and ethane leaves. No high-barrier H₂–C₂H₄ collision is needed.
 
 **(b)** Any one: H atoms bonded to the nickel surface; ethene bound to the surface; a surface-bound C₂H₅ group (ethene after one H has been added).
 
-**(c)** The **powder** reacts faster. Only nickel atoms on the surface can bind reactants. The powder exposes far more surface atoms for the same mass, so more molecules can bind and react at once.
+**(c)** The **powder** reacts faster. Only nickel atoms on the surface can bind reactants. The powder exposes far more surface atoms for the same mass, so more molecules bind and react at once.
 
-**(d)** Nickel bonds to H and ethene during the reaction, but these bonds break when ethane leaves. The nickel is left unchanged (regenerated) and can bind more reactant, so it is not in the overall equation: it is a catalyst.
+**(d)** Nickel bonds to H and ethene, but these bonds break when ethane leaves. The nickel is regenerated unchanged and binds more reactant, so it is not in the overall equation: it is a catalyst.
 
 | Point | What earns it |
 |---|---|
@@ -211,13 +209,13 @@ An enzyme, E, catalyses the conversion of a substrate into a product in a cell. 
 <details>
 <summary>Model answer and suggested Marlbridge rubric</summary>
 
-**(a)** The claim is **incorrect**. The temperature is the same, so the substrate molecules have the same spread of kinetic energies. The enzyme lowers the barrier from 84 to 50 kJ mol⁻¹, a drop of 34 kJ mol⁻¹. A much larger fraction of the same collisions now has at least the activation energy.
+**(a)** The claim is **incorrect**. At the same temperature the substrate molecules have the same spread of kinetic energies. The enzyme lowers the barrier from 84 to 50 kJ mol⁻¹ (a drop of 34 kJ mol⁻¹), so a much larger fraction of collisions has enough energy.
 
 **(b)**
 - **Orientation:** the active site holds the substrate in place, so reacting groups meet in the right orientation and more encounters are effective.
 - **Lower activation energy:** binding forms a new intermediate (the enzyme–substrate complex) and a new path whose elementary steps have lower barriers, for example because bonds in the bound substrate are strained or weakened.
 
-**(c)** The catalysed profile has at least two humps with a dip between them for the enzyme–substrate complex (a new intermediate). Its highest point is 50 kJ mol⁻¹ above the reactants, compared with a single hump at 84 kJ mol⁻¹. The reactants and products are at the same energies on both profiles, so ΔH is unchanged, and the reverse barrier is also lowered by 34 kJ mol⁻¹.
+**(c)** The catalysed profile has at least two humps with a dip between them for the enzyme–substrate complex (a new intermediate). Its highest point is 50 kJ mol⁻¹ above the reactants, compared with a single hump at 84 kJ mol⁻¹. Reactants and products are at the same energies on both, so ΔH is unchanged; the reverse barrier also drops by 34 kJ mol⁻¹.
 
 | Point | What earns it |
 |---|---|
@@ -231,9 +229,9 @@ An enzyme, E, catalyses the conversion of a substrate into a product in a cell. 
 ## How did you do?
 
 - **Q1 or Q7(a) wrong:** re-read "Why a lower barrier means a faster reaction" and Figure 2 in the [study guide](/advanced-course-resources/chemistry/5-11-catalysis-study-guide/).
-- **Q2 or Q5(a) wrong:** practise the catalyst vs intermediate table: catalyst in first, intermediate out first.
+- **Q2 or Q5(a) wrong:** catalyst in first; intermediate out first.
 - **Q3 wrong:** redo Worked example 2; measure every barrier from where that direction starts.
-- **Q4 wrong:** revisit how the slow first step sets the rate law (Topic 5.8) and Worked example 1.
-- **Q5(b), Q6 or Q7 incomplete:** give the particle-level *how*: new intermediate, new step, lower barrier or better orientation.
+- **Q4 wrong:** redo Worked example 1.
+- **Q5(b), Q6 or Q7 incomplete:** say *how*: new intermediate, new step, lower barrier or better orientation.
 
 Then tick off the [topic checklist](/advanced-course-resources/chemistry/5-11-catalysis-checklist/).

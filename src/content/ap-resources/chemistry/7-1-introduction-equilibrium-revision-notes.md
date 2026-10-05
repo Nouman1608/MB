@@ -50,7 +50,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 
 ## Assumptions behind the picture
 
-- The system is **closed**: nothing escapes or enters. An open beaker that loses a gas never settles.
+- The system is **closed**: no matter escapes or enters. An open beaker that loses a gas never settles.
 - The **temperature is constant**. A change of temperature moves the system to a new equilibrium (Topic 7.9 onwards).
 - Every reaction you meet in this unit is treated as reversible, even if the reverse is very slow.
 

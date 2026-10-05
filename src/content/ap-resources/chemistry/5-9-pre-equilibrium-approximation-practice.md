@@ -124,7 +124,7 @@ k = k₂K₁ = 5.0 × 10² × 3.0 × 10⁻³ = **1.5 M⁻² s⁻¹** (third orde
 
 Suggested mark points (4): 1 for the rate law with no intermediate; 1 for k = 1.5 with units M⁻² s⁻¹; 1 for the rate; 1 for [AB]. Allow (c) carried forward from a wrong k.
 
-Common error: dividing the wrong way gives K₁ = 333 M⁻¹ and k = 1.7 × 10⁵, which is far too large.
+Common error: dividing the wrong way (k₋₁ / k₁) gives about 333 instead of 3.0 × 10⁻³ M⁻¹, and k ≈ 1.7 × 10⁵, which is far too large.
 </details>
 
 ## Question 5 (constructed response · core)

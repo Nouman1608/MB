@@ -14,7 +14,7 @@ difficulty: "core"
 related: ["mb-ap-chem-6.8-study-guide", "mb-ap-chem-6.8-practice", "mb-ap-chem-6.8-revision-notes"]
 next: "mb-ap-chem-6.9-study-guide"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-chemistry"]
+sources: ["ced-chemistry", "page-chemistry"]
 keyPoints:
   - "Tick a statement only when you can do it without notes."
   - "Each statement names the practice question that tests it."
@@ -39,7 +39,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can calculate ΔH° as ΣnΔH°f(products) − ΣnΔH°f(reactants), with every coefficient applied. *(Guide: Worked examples 1 and 2; Practice Q3, Q4)*
 - I can choose the right value for the state shown, such as H₂O(l) or H₂O(g). *(Guide: Worked example 2; Practice Q5)*
 - I can scale ΔH° to a given mass or amount of one substance. *(Practice Q5)*
-- I can calculate ΔH° for a physical change, such as vaporising water. *(Guide: "Physical processes too")*
+- I can calculate ΔH° for a physical change, such as vaporising water or methanol. *(Guide: "Physical processes too"; Practice Q6)*
 - I can work backwards from a known ΔH° to find one unknown ΔH°f. *(Guide: Worked example 3; Practice Q6)*
 
 ## Reasoning

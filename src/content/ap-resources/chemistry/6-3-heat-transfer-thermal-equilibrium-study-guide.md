@@ -103,12 +103,15 @@ Not every single collision sends energy the same way. Sometimes a fast particle 
 <line x1="400" y1="85" x2="416" y2="75"/><line x1="480" y1="120" x2="464" y2="130"/><line x1="560" y1="90" x2="574" y2="100"/>
 <line x1="430" y1="185" x2="447" y2="180"/><line x1="520" y1="175" x2="506" y2="165"/><line x1="590" y1="200" x2="580" y2="187"/>
 </g>
+<g stroke="#1d2b44" stroke-width="2" marker-end="url(#htf1a)">
+<line x1="300" y1="130" x2="288" y2="121"/><line x1="340" y1="135" x2="378" y2="152"/>
+</g>
 <circle cx="320" cy="132" r="22" fill="none" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="4 3"/>
 <text x="320" y="245" text-anchor="middle" font-size="12" fill="#1d2b44">collisions at the boundary (circled)</text>
 <line x1="150" y1="272" x2="490" y2="272" stroke="#1d2b44" stroke-width="5" marker-end="url(#htf1a)"/>
 <text x="320" y="294" text-anchor="middle" font-size="13" font-weight="600" fill="#1d2b44">net energy transfer (heat): warmer → cooler</text>
 </svg>
-<figcaption>Figure 1. Longer arrows show faster particles. Filled particles belong to the warmer body, open particles to the cooler body. In collisions at the boundary, energy passes on average from the faster particles to the slower ones.</figcaption>
+<figcaption>Figure 1. Longer arrows show faster particles. Filled particles belong to the warmer body, open particles to the cooler body. The circled pair has just collided: the warmer body's particle has slowed (short arrow) and the cooler body's particle has sped up (long arrow). In collisions at the boundary, energy passes on average from the faster particles to the slower ones.</figcaption>
 </figure>
 
 Inside each body, the particles keep colliding with their neighbours, so the energy gained at the boundary spreads through the cooler body, and the energy lost at the boundary is shared out across the warmer body.
@@ -207,7 +210,7 @@ This is the link between the two scales: temperature, a **macroscopic** reading 
 
 **(b)** The student divided the Celsius values: 323 / 25 = 12.9. The Celsius scale has its zero at the freezing point of water, not at zero kinetic energy, so ratios of Celsius temperatures have no physical meaning. Only the Kelvin scale starts from zero average kinetic energy.
 
-**Check.** To *halve* the average kinetic energy from 25 °C, you would need 149.07 K, which is about −124 °C, not 12.5 °C.
+**Check.** To *halve* the average kinetic energy from 25 °C, you would need 298.15 ÷ 2 ≈ 149.1 K, which is about −124 °C, not 12.5 °C.
 
 ## Worked example 3: reading a heating–cooling record
 

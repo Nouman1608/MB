@@ -140,7 +140,7 @@ The fictional molecules P and Q are isomers: P(g) ⇌ Q(g). A computer model sho
 
 **(a)** P rises from 4 to 7 while Q falls from 16 to 13, so the net change is **Q → P** (to the left). In that interval the **reverse rate (Q → P) is greater than the forward rate (P → Q)**.
 
-**(b)** The claim is **not supported**. The data show a net change from Q to P, the reverse direction. Snapshot 1 started with more Q than the equilibrium amount, so the reverse rate was larger. The direction depends on which rate is larger at the time, not on which species is present in greater amount.
+**(b)** The claim is **not supported**. The data show a net change from Q to P, the reverse direction. Snapshot 1 started with more Q than the equilibrium amount, so the reverse rate was larger. The direction depends on which rate is larger at the time, not on which species is present in greater amount. The starting counts were simply chosen when the model was set up, so they say nothing about which isomer is more stable.
 
 **(c)** **Probably yes.** The counts are the same at 10 min and 15 min (8 P, 12 Q), so there is no net change, which means the forward and reverse rates are equal. (The model cannot show whether equilibrium was reached exactly at 10 min or a little before.)
 

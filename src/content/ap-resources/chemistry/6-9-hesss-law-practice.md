@@ -19,7 +19,7 @@ skills: ["3", "5", "6"]
 studyMinutes: 45
 difficulty: "mixed"
 calculator: "scientific"
-calculatorNote: "All ΔH values are in kJ mol⁻¹, per mole of reaction as written. All substances except water are fictional; their values are invented for practice."
+calculatorNote: "All ΔH values are in kJ mol⁻¹, per mole of reaction as written. All substances are fictional; their values are invented for practice."
 related: ["mb-ap-chem-6.9-study-guide", "mb-ap-chem-6.9-revision-notes", "mb-ap-chem-6.9-checklist"]
 next: "mb-ap-chem-6.9-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
@@ -35,11 +35,11 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. All ΔH values are in kJ mol⁻¹, per mole of reaction as written. The elements and compounds (A, E, G, J, L, M, R, T, X, Z and their compounds) are fictional, and their values are invented for practice.
+These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. All ΔH values are in kJ mol⁻¹, per mole of reaction as written. The elements and compounds (A, D, E, G, J, L, M, Q, R, T, X, Z and their compounds; each letter stands for one element throughout this page) are fictional, and their values are invented for practice.
 
 ## Question 1 (multiple choice · foundation)
 
-For the reaction 2A(g) + E₂(g) → 2AE(g), ΔH = −164 kJ mol⁻¹. What is ΔH for AE(g) → A(g) + ½E₂(g)?
+For the reaction 2A(g) + Q₂(g) → 2AQ(g), ΔH = −164 kJ mol⁻¹. What is ΔH for AQ(g) → A(g) + ½Q₂(g)?
 
 - (A) −164 kJ mol⁻¹
 - (B) −82 kJ mol⁻¹
@@ -52,18 +52,18 @@ For the reaction 2A(g) + E₂(g) → 2AE(g), ΔH = −164 kJ mol⁻¹. What is �
 **Answer: (C).** The new equation is the given one **reversed** (sign flips: +164) and **halved** (every coefficient × ½: +82).
 
 - (A) does neither operation.
-- (B) halves but forgets to flip the sign. Breaking AE apart must absorb the energy that forming it released.
-- (D) flips the sign but forgets to halve. The new equation involves only 1 mol AE, not 2.
+- (B) halves but forgets to flip the sign. Breaking AQ apart must absorb the energy that forming it released.
+- (D) flips the sign but forgets to halve. The new equation involves only 1 mol AQ, not 2.
 </details>
 
 ## Question 2 (multiple choice · core)
 
 Two equations are known:
 
-- (1) R(s) + 2X₂(g) → RX₄(g)  ΔH₁
-- (2) RX₂(g) + X₂(g) → RX₄(g)  ΔH₂
+- (1) D(s) + 2X₂(g) → DX₄(g)  ΔH₁
+- (2) DX₂(g) + X₂(g) → DX₄(g)  ΔH₂
 
-Which expression gives ΔH for R(s) + X₂(g) → RX₂(g)?
+Which expression gives ΔH for D(s) + X₂(g) → DX₂(g)?
 
 - (A) ΔH₁ + ΔH₂
 - (B) ΔH₁ − ΔH₂
@@ -73,13 +73,13 @@ Which expression gives ΔH for R(s) + X₂(g) → RX₂(g)?
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** R(s) is only in (1), on the left, coefficient 1: use (1) as written. RX₂ is only in (2), but on the **left**; the target needs it on the right, so reverse (2): RX₄(g) → RX₂(g) + X₂(g), ΔH = −ΔH₂.
+**Answer: (B).** D(s) is only in (1), on the left, coefficient 1: use (1) as written. DX₂ is only in (2), but on the **left**; the target needs it on the right, so reverse (2): DX₄(g) → DX₂(g) + X₂(g), ΔH = −ΔH₂.
 
-Adding: R(s) + 2X₂(g) + RX₄(g) → RX₄(g) + RX₂(g) + X₂(g). RX₄ cancels, and one X₂ cancels, leaving R(s) + X₂(g) → RX₂(g). So ΔH = ΔH₁ − ΔH₂.
+Adding: D(s) + 2X₂(g) + DX₄(g) → DX₄(g) + DX₂(g) + X₂(g). DX₄ cancels, and one X₂ cancels, leaving D(s) + X₂(g) → DX₂(g). So ΔH = ΔH₁ − ΔH₂.
 
-- (A) uses (2) without reversing it, so RX₂ would end up on the left.
-- (C) reverses (1) instead of (2), which puts R(s) on the wrong side.
-- (D) doubles (1), which would need 2 R(s) in the target.
+- (A) uses (2) without reversing it, so DX₂ would end up on the left.
+- (C) reverses (1) instead of (2), which puts D(s) on the wrong side.
+- (D) doubles (1), which would need 2 D(s) in the target.
 </details>
 
 ## Question 3 (multiple choice · core)

@@ -30,7 +30,7 @@ keyPoints:
   - "A multistep profile is the single-step profiles joined end to end: one hump (transition state) for each elementary step."
   - "Intermediates sit in the valleys between humps. For steps in a chain, the number of intermediates is one less than the number of steps."
   - "Each step's activation energy is measured from the valley where that step starts up to its own peak, not from the reactants."
-  - "In this course, the rate-limiting step is the step with the largest activation energy."
+  - "The step with the largest activation energy is normally the slowest, so it is the rate-limiting step."
   - "The overall ΔH is products minus reactants. It equals the sum of the steps' ΔH values and does not depend on how many steps there are."
 faqs:
   - question: "What is the difference between an intermediate and a transition state on a profile?"
@@ -121,6 +121,8 @@ Do not measure every barrier from the reactants. Step 2 starts at the intermedia
 
 A taller barrier means a smaller fraction of collisions have enough energy to get over it (Topic 5.5). So the step with the **largest activation energy** is the slowest, and it is the **rate-limiting step**. In Figure 1, step 2 has the larger barrier, so step 2 is rate-limiting.
 
+*Background, beyond this topic:* the "largest barrier" rule is a simplification. When an intermediate sits very high, only just below the peak before it, chemists also compare the heights of the transition states themselves. In every profile on these pages, both ways of judging pick the same step.
+
 You can also read the profile in the other direction, from a mechanism to a shape:
 
 - **First step slow, later steps fast:** the first hump is the tallest climb. The rate law comes straight from step 1 (Topic 5.8).
@@ -137,7 +139,7 @@ You can also read the profile in the other direction, from a mechanism to a shap
 4. **(d)** 73 > 62, so **step 2** has the larger barrier and is rate-limiting.
 5. **(e)** The reverse of step 2 starts at the products (−40) and climbs to TS 2 (98): 98 − (−40) = **138 kJ mol⁻¹**. Check with the rule: 73 − (−65) = 138.
 
-**Common slip.** Reading step 2's barrier as 98 kJ mol⁻¹ (from the reactants) instead of 73 kJ mol⁻¹ (from the intermediate). In this profile you still pick step 2, but in other profiles the slip gives the wrong step.
+**Common slip.** Reading step 2's barrier as 98 kJ mol⁻¹ (from the reactants) instead of 73 kJ mol⁻¹ (from the intermediate). You still pick step 2 here, but 98 kJ mol⁻¹ is not step 2's activation energy, so any question that asks for the value loses the mark (see Practice Question 2).
 
 **Link to Topic 5.9.** The intermediate's way back over TS 1 is 62 − 25 = 37 kJ mol⁻¹, much lower than its way forward over TS 2 (73 kJ mol⁻¹). So the intermediate returns to reactants far more often than it goes on, which is the situation where a pre-equilibrium approximation is reasonable.
 

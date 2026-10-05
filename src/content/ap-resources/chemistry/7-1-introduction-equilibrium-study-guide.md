@@ -62,7 +62,7 @@ A sealed bottle of fizzy drink is a good everyday example. Carbon dioxide gas si
 
 ## What you see when a system reaches equilibrium
 
-Take a reversible process in a **closed system**: nothing can get in or out, and the temperature is held constant. Start it off and watch. At first things change: a colour deepens, a pressure rises, a solid dissolves. After a while the changes stop. The system has reached **equilibrium**.
+Take a reversible process in a **closed system**: no matter can get in or out, and the temperature is held constant. Start it off and watch. At first things change: a colour deepens, a pressure rises, a solid dissolves. After a while the changes stop. The system has reached **equilibrium**.
 
 At equilibrium you observe three things:
 

@@ -23,7 +23,7 @@ calculatorNote: "Average bond enthalpies (kJ mol⁻¹): H–H 432, H–Br 363, B
 related: ["mb-ap-chem-6.7-study-guide", "mb-ap-chem-6.7-revision-notes", "mb-ap-chem-6.7-checklist"]
 next: "mb-ap-chem-6.7-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-chemistry", "page-chemistry", "exam-chemistry"]
+sources: ["ced-chemistry", "page-chemistry"]
 keyPoints:
   - "Questions 1–4 are multiple choice; 5–7 need written working."
   - "Draw the Lewis structures first and list bonds broken and formed in a table."
@@ -82,7 +82,7 @@ Estimate ΔH for H₂(g) + Br₂(g) → 2HBr(g).
 
 - (B) uses formed − broken, which reverses the sign.
 - (C) counts only one H–Br bond (625 − 363), ignoring the coefficient 2.
-- (D) adds the two totals instead of subtracting them.
+- (D) treats breaking bonds as releasing energy too, so it adds the two totals as energy released: −(625 + 726).
 </details>
 
 ## Question 3 (multiple choice · core)
@@ -160,7 +160,7 @@ Methanol vapour burns in oxygen: 2CH₃OH(g) + 3O₂(g) → 2CO₂(g) + 4H₂O(g
 | 1 | −659.5 kJ per mole of methanol (or ΔH correctly scaled in (c)) |
 | 1 | About 103 kJ released, with the moles of methanol shown |
 
-Carry forward an error from (a) or (b). Using the general C=O value 745 kJ mol⁻¹ instead of the CO₂ value gives −551.5 kJ mol⁻¹; accept only if the student states why, since the question gives the CO₂ value.
+Carry forward an error from (a) or (b). The C=O bonds formed here are in CO₂, so use 799 kJ mol⁻¹ from the table; a general C=O value (such as 745 kJ mol⁻¹) would give −551.5 kJ mol⁻¹ and does not earn the ΔH points.
 </details>
 
 ## Question 6 (constructed response · core)

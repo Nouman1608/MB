@@ -116,7 +116,7 @@ An exothermic reaction is carried out in water in an insulated cup, and the temp
 
 ## Question 5 (calculation · core)
 
-Hydrogen reacts with chlorine: H₂(g) + Cl₂(g) → 2HCl(g)  ΔH = −185 kJ mol⁻¹. A sealed vessel contains 2.00 g of H₂ and 35.5 g of Cl₂, which react completely.
+Hydrogen reacts with chlorine: H₂(g) + Cl₂(g) → 2HCl(g)  ΔH = −185 kJ mol⁻¹. A mixture of 2.00 g of H₂ and 35.5 g of Cl₂ reacts at constant pressure until the limiting reactant is used up.
 
 (a) Identify the limiting reactant. Show your working.
 (b) Calculate the heat released.

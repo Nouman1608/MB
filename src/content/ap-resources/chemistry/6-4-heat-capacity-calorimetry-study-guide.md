@@ -147,7 +147,7 @@ A simple **coffee-cup calorimeter** (Figure 2) is two nested polystyrene cups wi
 <figure>
 <svg viewBox="0 0 640 300" role="img" aria-labelledby="hc-fig2-title hc-fig2-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="hc-fig2-title">A coffee-cup calorimeter</title>
-<desc id="hc-fig2-desc">Cross-section of two nested polystyrene cups with a lid. A thermometer and a stirrer pass through holes in the lid into the liquid, which is labelled water or solution. Labels on the right identify the lid, the thermometer, the stirrer, the two nested polystyrene cups with trapped air between them, and the liquid where the process happens.</desc>
+<desc id="hc-fig2-desc">Cross-section of two nested polystyrene cups with a lid. A thermometer and a stirrer pass through holes in the lid into the liquid, which is labelled water or solution. Labels on the right identify the lid, the thermometer, the stirrer, the two nested polystyrene cups that insulate the liquid, and the liquid where the process happens.</desc>
 <path d="M170 80 L200 260 L380 260 L410 80" fill="none" stroke="#1d2b44" stroke-width="3"/>
 <path d="M185 88 L212 250 L368 250 L395 88" fill="none" stroke="#1d2b44" stroke-width="3"/>
 <path d="M196 150 L212 250 L368 250 L384 150 Z" fill="#fdf6e3" stroke="none"/>
@@ -228,7 +228,7 @@ Calorimetry calculations rely on stated assumptions. Name them when a question a
 2. **Mass of solution:** 50.0 + 5.10 = 55.10 g. ΔT = 16.9 − 22.4 = −5.5 °C.
 3. **q(solution)** = 55.10 × 4.18 × (−5.5) = **−1266.7 J** (the solution lost energy).
 4. **(b) q(dissolving)** = −q(solution) = **+1.3 × 10³ J** (1266.7 J). Positive, as expected for an endothermic process.
-5. **(c) Moles of QZ:** n = 5.10 ÷ 85.0 = 0.0600 mol. Energy per mole = 1266.7 J ÷ 0.0600 mol = 21 111 J mol⁻¹ = **+21 kJ mol⁻¹**.
+5. **(c) Moles of QZ:** n = 5.10 ÷ 85.0 = 0.0600 mol. Energy per mole = 1266.7 J ÷ 0.0600 mol = 21 112 J mol⁻¹ = **+21 kJ mol⁻¹**.
 
 **Assumptions.** No energy exchanged with the air or the cup; the solution's specific heat capacity is 4.18 J g⁻¹ °C⁻¹. If you used the mass of water only (50.0 g), you would get 19 kJ mol⁻¹; either is accepted if stated, but use the total mass unless told otherwise. In Topic 6.6 this energy per mole, measured at constant pressure, becomes the enthalpy of solution, ΔH.
 

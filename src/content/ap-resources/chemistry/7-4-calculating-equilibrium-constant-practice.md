@@ -71,7 +71,7 @@ For FeO(s) + CO(g) ⇌ Fe(s) + CO₂(g), the equilibrium partial pressures are P
 
 - (A) is upside down (0.80 ÷ 0.32).
 - (B) adds the two pressures.
-- (D) multiplies them (0.32 × 0.80 = 0.256), which would put CO on top as a product.
+- (D) multiplies the two pressures (0.32 × 0.80 = 0.256) instead of dividing, as if CO were a product.
 </details>
 
 ## Question 3 (multiple choice · core)
@@ -159,7 +159,7 @@ Common errors: forgetting the dilution gives 23.6; using the starting concentrat
 
 ## Question 6 (constructed response · stretch)
 
-Pure hydrogen sulfide is placed in a sealed, rigid container at a pressure of 1.00 atm and heated to a fixed high temperature. (Treat 1.00 atm as its pressure at that temperature before any reaction.) It partly decomposes:
+Pure hydrogen sulfide is sealed in a rigid container and heated to a fixed high temperature. At that temperature, before any reaction, its pressure would be 1.00 atm. It partly decomposes:
 
 2H₂S(g) ⇌ 2H₂(g) + S₂(g)
 
@@ -185,7 +185,7 @@ At equilibrium the total pressure is 1.15 atm.
 Total pressure = (1.00 − 2y) + 2y + y = 1.00 + y = 1.15, so y = 0.15 atm.
 P_S₂ = **0.15 atm**, P_H₂ = **0.30 atm**, P_H₂S = 1.00 − 0.30 = **0.70 atm**.
 
-**(c)** Kp = (P_H₂)² × P_S₂ / (P_H₂S)² = (0.30)² × 0.15 / (0.70)² = 0.0135 / 0.49 = **0.028** (2.76 × 10⁻² unrounded).
+**(c)** Kp = (P_H₂)² × P_S₂ / (P_H₂S)² = (0.30)² × 0.15 / (0.70)² = 0.0135 / 0.49 = **0.028** (0.02755 before rounding; two significant figures, because y = 0.15 has two).
 
 | Point | What earns it |
 |---|---|

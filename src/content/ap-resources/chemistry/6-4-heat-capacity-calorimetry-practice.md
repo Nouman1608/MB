@@ -163,7 +163,7 @@ Cool water: ΔT = 32.1 − 20.4 = +11.7 °C; q = 50.0 × 4.18 × 11.7 = **+2445.
 
 **(c)** Energy is conserved: q(warm) + q(cool) + q(calorimeter) = 0, so q(calorimeter) = 2737.9 − 2445.3 = 292.6 J.
 The calorimeter started at 20.4 °C, so its ΔT is 11.7 °C. C(calorimeter) = 292.6 J ÷ 11.7 °C = 25.01 J °C⁻¹ = **25 J °C⁻¹**.
-Two significant figures at most: the 292.6 J comes from subtracting two similar numbers. An error of just 0.1 °C in one reading changes either q by about 21 J, so the difference is uncertain by tens of joules.
+Two significant figures is appropriate: the 292.6 J comes from subtracting two similar numbers. An error of just 0.1 °C in one reading changes either q by about 21 J, so the difference is uncertain by tens of joules.
 
 **(d)** Any one: no energy is lost to the air or bench; the water's specific heat capacity is 4.18 J g⁻¹ °C⁻¹ at these temperatures; the final reading is the true equilibrium temperature of water and calorimeter together; no water evaporates.
 

@@ -164,7 +164,7 @@ Break the heating curve into its sections. The ice must first reach 0 °C before
 | 2 | Ice melts at 0.0 °C | q = n × ΔH_fus | (30.0 ÷ 18.016) mol × 6.01 kJ mol⁻¹ = 1.6652 × 6.01 | 10.008 kJ |
 | 3 | Water warms from 0.0 °C to 40.0 °C | q = mcΔT | 30.0 × 4.18 × 40.0 | 5016 J |
 
-5. **Convert to the same unit:** 0.7524 kJ + 10.008 kJ + 5.016 kJ = 15.776 kJ.
+**Add, in the same unit:** 0.7524 kJ + 10.008 kJ + 5.016 kJ = 15.776 kJ.
 
 **Answer.** **15.8 kJ** of energy must be absorbed.
 

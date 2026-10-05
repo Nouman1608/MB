@@ -59,13 +59,13 @@ The key idea is that a catalyst does not make the old path faster. It **changes 
 
 If a catalyst takes part in the reaction, how can it survive? The answer is in the mechanism. A catalyst is **consumed in one elementary step and regenerated in a later step**. When you add the steps, it appears on both sides and cancels, so it is missing from the overall equation.
 
-A real example from the upper atmosphere shows the pattern. Chlorine atoms catalyse the breakdown of ozone:
+You met this pattern in [Topic 5.7](/advanced-course-resources/chemistry/5-7-introduction-reaction-mechanisms-study-guide/) with the chlorine–ozone cycle. Here it is in general form, for a catalyst C that speeds up X + Y → XY:
 
-- Step 1: Cl + O₃ → ClO + O₂
-- Step 2: ClO + O → Cl + O₂
-- Overall: O₃ + O → 2 O₂
+- Step 1: X + C → XC
+- Step 2: XC + Y → XY + C
+- Overall: X + Y → XY
 
-Cl is used in step 1 and comes back in step 2: it is the **catalyst**. ClO is made in step 1 and used in step 2: it is an **intermediate**. One chlorine atom can go round this cycle many times, which is why a small amount of catalyst can convert a large amount of reactant.
+C is used in step 1 and comes back in step 2: it is the **catalyst**. XC is made in step 1 and used in step 2: it is an **intermediate**. One catalyst particle can go round this cycle many times, which is why a small amount of catalyst can convert a large amount of reactant.
 
 | | Catalyst | Intermediate |
 |---|---|---|

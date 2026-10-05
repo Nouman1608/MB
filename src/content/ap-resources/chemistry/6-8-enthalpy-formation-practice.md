@@ -23,7 +23,7 @@ calculatorNote: "Standard enthalpies of formation (kJ mol⁻¹, 298 K) are in th
 related: ["mb-ap-chem-6.8-study-guide", "mb-ap-chem-6.8-revision-notes", "mb-ap-chem-6.8-checklist"]
 next: "mb-ap-chem-6.8-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-chemistry", "page-chemistry", "exam-chemistry"]
+sources: ["ced-chemistry", "page-chemistry"]
 keyPoints:
   - "Questions 1–4 are multiple choice; 5–7 need written working."
   - "Set out a table of n, ΔH°f and n × ΔH°f for products and reactants."
@@ -175,6 +175,7 @@ CH₃OH(l) + 3/2 O₂(g) → CO₂(g) + 2H₂O(l).
 (a) Calculate ΔH°f of CH₃OH(l).
 (b) A student leaves O₂ out of the calculation completely. Explain why this does not change the answer.
 (c) Would you expect ΔH°f of CH₃OH(g) to be more negative or less negative than ΔH°f of CH₃OH(l)? Justify your answer.
+(d) ΔH°f of CH₃OH(g) is −201.0 kJ mol⁻¹. Use this value and your answer to (a) to calculate ΔH° for the physical change CH₃OH(l) → CH₃OH(g).
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
@@ -185,12 +186,15 @@ CH₃OH(l) + 3/2 O₂(g) → CO₂(g) + 2H₂O(l).
 
 **(c)** **Less negative.** Turning liquid methanol into gas is endothermic, because energy is needed to overcome the attractions (including hydrogen bonds) between the molecules. So the gas lies higher in energy than the liquid, and its ΔH°f is closer to zero than −238.4 kJ mol⁻¹.
 
+**(d)** ΔH° = ΔH°f(CH₃OH(g)) − ΔH°f(CH₃OH(l)) = (−201.0) − (−238.4) = **+37.4 kJ mol⁻¹**. The positive sign agrees with (c): vaporisation is endothermic.
+
 | Point | What earns it |
 |---|---|
 | 1 | Products total −965.1 kJ, with 2 × ΔH°f of H₂O(l) |
 | 1 | Correct equation with the unknown on the reactant side, and x = −238.4 kJ mol⁻¹ |
 | 1 | O₂ has ΔH°f = 0 because it is an element in its standard state |
 | 1 | Less negative, because vaporisation is endothermic (the gas is higher in energy than the liquid) |
+| 1 | +37.4 kJ mol⁻¹ for vaporisation, as products − reactants (carry forward from (a)) |
 
 A common error is to forget the 2 in front of H₂O, which gives x = +47.4 kJ mol⁻¹; a positive value for a stable liquid like methanol should make you check your working.
 </details>
