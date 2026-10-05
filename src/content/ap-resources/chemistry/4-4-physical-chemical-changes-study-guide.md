@@ -111,7 +111,7 @@ Figure 1 shows the difference for water.
 Intermolecular attractions are much weaker than chemical bonds. Water shows this clearly:
 
 - Boiling 1 mol of water at 100 °C needs about **41 kJ** (its enthalpy of vaporization). This only pulls the molecules apart.
-- Breaking both O–H bonds in 1 mol of water molecules needs about 2 × 460 ≈ **920 kJ** (using the average O–H bond enthalpy).
+- Breaking both O–H bonds in 1 mol of gaseous water molecules needs about 2 × 460 ≈ **920 kJ** (using the average O–H bond enthalpy).
 
 That is more than 20 times as much energy. This is why heating water on a stove makes steam, not hydrogen and oxygen. You will calculate energies like these in Unit 6 (Topics 6.5 and 6.7).
 
@@ -135,7 +135,7 @@ Use these steps for any process:
 1. **Write what is present before and after**, as formulas with state symbols.
 2. **Compare the formulas.** If a new formula appears (H₂O becomes H₂ and O₂), atoms have been rearranged, so chemical bonds broke and formed: a chemical process.
 3. **If the formulas are the same** and only the state or the spacing changes (H₂O(l) becomes H₂O(g)), only intermolecular attractions changed: a physical process.
-4. **If a substance breaks up into ions as it dissolves in water**, you are in the borderline case discussed below. Choose a classification and justify it.
+4. **If an ionic solid separates into the ions it already contained as it dissolves in water**, you are in the borderline case discussed below. Choose a classification and justify it. (A molecular substance that makes new ions as it dissolves, such as HCl, has a new formula afterwards, so step 2 applies.)
 5. **Back the answer with evidence**: a measured property, a test for a new substance, or a particle diagram.
 
 Separating a mixture (filtering sand from water, distilling ethanol from water, evaporating seawater) is also physical. Each substance keeps its own particles; only the mixture is pulled apart.

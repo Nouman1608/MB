@@ -41,7 +41,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can find k, with the right sign and units, from the slope of the straight-line plot. *(Practice Q1, Q3, Q5)*
 - I can use an integrated rate law to find a concentration at a given time, converting time units first. *(Practice Q4)*
 - I can use t½ = 0.693/k, and count half-lives to find the amount left. *(Guide: Worked example 2; Practice Q2)*
-- I can find the time needed to reach a given concentration for any of the three orders. *(Practice Q4, Q6)*
+- I can find the time needed to reach a given concentration for any of the three orders. *(Guide: Worked example 3; Practice Q4, Q6)*
 
 ## Reasoning
 

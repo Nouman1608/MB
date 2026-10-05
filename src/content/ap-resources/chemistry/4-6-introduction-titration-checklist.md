@@ -32,7 +32,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can describe what a titration measures and name the roles of the analyte, the titrant, the burette and the pipette. *(Guide: "What a titration does")*
 - I can explain why the titration reaction must be specific and go to completion. *(Guide: "What a titration does")*
 - I can tell the equivalence point (defined by amounts) apart from the endpoint (what I observe). *(Guide: "Equivalence point and endpoint"; Practice Q1)*
-- I can give three ways of detecting the endpoint, including a self-indicating titrant. *(Guide: Worked example 2)*
+- I can give three ways of detecting the endpoint, including a self-indicating titrant. *(Guide: "Equivalence point and endpoint"; Worked example 2)*
 
 ## Calculation
 

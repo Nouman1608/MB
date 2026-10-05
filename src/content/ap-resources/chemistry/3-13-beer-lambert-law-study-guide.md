@@ -106,7 +106,7 @@ An **absorption spectrum** plots A against wavelength for one solution. Figure 1
 <figcaption>Figure 1. Invented absorption spectrum of Dye V (5.00 × 10⁻⁵ M, 1.00 cm cuvette). The dashed line marks the wavelength of maximum absorbance, λmax.</figcaption>
 </figure>
 
-Because b and c are fixed for this one solution, the shape of the spectrum is the shape of ε against wavelength. At 560 nm, ε = 0.559 ÷ (1.00 cm × 5.00 × 10⁻⁵ M) ≈ 1.12 × 10⁴ M⁻¹ cm⁻¹. At 500 nm it is only about 3.7 × 10³ M⁻¹ cm⁻¹, roughly a third as large.
+Because b and c are fixed for this one solution, the shape of the spectrum is the shape of ε against wavelength. At 560 nm, ε = 0.559 ÷ (1.00 cm × 5.00 × 10⁻⁵ M) ≈ 1.12 × 10⁴ M⁻¹ cm⁻¹. At 500 nm (A ≈ 0.18) it is only about 3.6 × 10³ M⁻¹ cm⁻¹, roughly a third as large.
 
 Chemists set the spectrophotometer to the **wavelength of maximum absorbance, λmax**, for two reasons:
 

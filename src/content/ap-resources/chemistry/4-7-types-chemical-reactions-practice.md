@@ -149,7 +149,7 @@ A correct type with no evidence earns no point.
 
 ## Question 6 (constructed response · core)
 
-A student adds 30.0 mL of 0.150 M silver nitrate, AgNO₃(aq), to an excess of potassium chromate solution, K₂CrO₄(aq). A red-brown solid forms.
+A student adds 30.0 mL of 0.150 M silver nitrate, AgNO₃(aq), to an excess of potassium chromate solution, K₂CrO₄(aq). A brick-red solid forms.
 
 (a) Identify the solid. Justify your answer using solubility.
 (b) Write the net ionic equation for the reaction.

@@ -106,7 +106,7 @@ Classify each change as physical or chemical. Give one piece of evidence and lin
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
 **(a) Physical.** Evaporation is a change of phase; the water vapour is still H₂O.
-**(b) Chemical.** The gas is carbon dioxide (limewater test), which was not present in the tablet or the water as a gas, so a new substance has formed.
+**(b) Chemical.** The gas is carbon dioxide (limewater test), which was not present as a substance in the tablet or the water, so a new substance has formed.
 **(c) Chemical.** A precipitate forms: a solid that was not present in either solution (nickel(II) hydroxide). The colour is similar, so the solid, not the colour, is the evidence.
 **(d) Physical.** Mixing two liquids makes a solution. The small temperature rise is not enough on its own: no new substance is detected, and the ethanol can be separated by distillation.
 
@@ -192,13 +192,13 @@ Two identical flasks each hold excess dilute hydrochloric acid and some marble c
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
 **(a)** 84.76 − 85.20 = **−0.44 g** (a loss of 0.44 g).
-**(b)** M(CO₂) = 12.01 + 2(16.00) = 44.01 g mol⁻¹; n = 0.44 g ÷ 44.01 g mol⁻¹ = **0.0100 mol** (0.010 mol to 2 significant figures).
+**(b)** M(CO₂) = 12.01 + 2(16.00) = 44.01 g mol⁻¹; n = 0.44 g ÷ 44.01 g mol⁻¹ = **0.010 mol** (2 significant figures, because 0.44 g has 2).
 **(c)** The claim is **wrong**. Flask B, where the gas cannot escape, shows no change in mass, so the total mass of atoms is the same after the reaction. Flask A loses mass only because the carbon dioxide formed by the reaction escapes into the air. The atoms are rearranged into new substances, not destroyed.
 
 | Point | What earns it |
 |---|---|
 | 1 | −0.44 g (or "loss of 0.44 g") |
-| 1 | 0.0100 mol (or 0.010 mol) with molar mass shown |
+| 1 | 0.010 mol with molar mass shown |
 | 1 | Uses Flask B (no change) to show mass is conserved when nothing escapes |
 | 1 | Explains Flask A's loss as gas escaping, not atoms being destroyed |
 

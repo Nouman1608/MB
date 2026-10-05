@@ -45,7 +45,7 @@ Short on time? This page is the recap. For explanations, figures and worked exam
 |---|---|---|---|---|
 | Increase concentration | increases (in proportion) | no change | no change | increases |
 | Increase temperature | increases slightly | **increases a lot** | no change | increases a lot |
-| Larger, less symmetrical particles | — | — | smaller | slower (k smaller) |
+| Larger, less symmetrical particles | — | — | smaller | slower if Eₐ is similar (k smaller) |
 
 For an elementary step A + B → products: collision frequency ∝ [A][B], so rate = k[A][B]. The rate constant k holds the energy and orientation fractions.
 

@@ -180,7 +180,7 @@ rate = (2.5 × 10⁵ M⁻¹ s⁻¹)(4.0 × 10⁻⁴ M)(1.2 × 10⁻³ M) = **0.1
 
 new rate = 1.5 × 0.12 M s⁻¹ = **0.18 M s⁻¹**
 
-**Check.** Substitute directly: (2.5 × 10⁵)(1.2 × 10⁻³)(6.0 × 10⁻⁴) = 0.18 M s⁻¹. If the step had been 2A → products instead, doubling [A] would multiply the rate by 2² = 4.
+**Check.** Substitute directly: (2.5 × 10⁵)(1.2 × 10⁻³)(6.0 × 10⁻⁴) = 0.18 M s⁻¹. If the step had been second order in A instead (for example 2A + B → products), tripling [A] would multiply the rate by 3² = 9, not 3.
 
 ## Worked example 3: can the overall reaction be one step?
 

@@ -172,13 +172,13 @@ That is why every radioactive isotope has a fixed half-life. For example, carbon
 |---|---|---|---|
 | 0 | 0.500 | −0.693 | 2.00 |
 | 100 | 0.250 | −1.386 | 4.00 |
-| 200 | 0.167 | −1.790 | 6.00 |
+| 200 | 0.167 | −1.790 | 5.99 |
 | 300 | 0.125 | −2.079 | 8.00 |
 | 400 | 0.100 | −2.303 | 10.00 |
 
 - [X] changes by −0.250, −0.083, −0.042, −0.025: not constant, so not zero order.
 - ln[X] changes by −0.693, −0.404, −0.289, −0.224: not constant, so not first order.
-- 1/[X] changes by +2.00 every 100 s: constant. **The reaction is second order in X.**
+- 1/[X] changes by +2.00, +1.99, +2.01, +2.00: constant within the rounding of the data (0.167 M is 1/6 M rounded). **The reaction is second order in X.**
 
 **(b)** slope = (10.00 − 2.00) M⁻¹ ÷ (400 − 0) s = 0.0200 M⁻¹ s⁻¹. For second order, slope = +k.
 
@@ -226,4 +226,4 @@ mₜ = e^2.9282 = **18.7 μg**
 
 ## Where this leads
 
-This topic builds directly on [Topic 5.2, Introduction to Rate Law](/advanced-course-resources/chemistry/5-2-introduction-rate-law-study-guide/). Next, [Topic 5.4, Elementary Reactions](/advanced-course-resources/chemistry/5-4-elementary-reactions-study-guide/), asks where rate laws come from at the particle level. The link between absorbance and concentration (Beer's law, Topic 3.13) is a common way to collect concentration–time data in the lab. Try the [practice questions](/advanced-course-resources/chemistry/5-3-concentration-changes-over-time-practice/) now, then use the [revision notes](/advanced-course-resources/chemistry/5-3-concentration-changes-over-time-revision-notes/) and the [checklist](/advanced-course-resources/chemistry/5-3-concentration-changes-over-time-checklist/) to consolidate.
+This topic builds directly on [Topic 5.2, Introduction to Rate Law](/advanced-course-resources/chemistry/5-2-introduction-rate-law-study-guide/). Next, [Topic 5.4, Elementary Reactions](/advanced-course-resources/chemistry/5-4-elementary-reactions-study-guide/), asks where rate laws come from at the particle level. The link between absorbance and concentration ([Topic 3.13, Beer-Lambert Law](/advanced-course-resources/chemistry/3-13-beer-lambert-law-study-guide/)) is a common way to collect concentration–time data in the lab. Try the [practice questions](/advanced-course-resources/chemistry/5-3-concentration-changes-over-time-practice/) now, then use the [revision notes](/advanced-course-resources/chemistry/5-3-concentration-changes-over-time-revision-notes/) and the [checklist](/advanced-course-resources/chemistry/5-3-concentration-changes-over-time-checklist/) to consolidate.

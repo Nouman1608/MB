@@ -34,7 +34,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 ## Recap
 
 - The course sorts reactions by what is transferred: **electrons** (redox), **protons** (acid-base), or **ions joining into a solid** (precipitation).
-- Classify from the **net ionic equation**; spectator ions hide nothing important.
+- Classify from the **net ionic equation**; spectator ions take no part, so leaving them out shows the real change.
 - **Oxidation** = loss of electrons = oxidation number goes **up**. **Reduction** = gain of electrons = oxidation number goes **down**.
 - Electrons move **from** the species oxidised **to** the species reduced. Electrons lost = electrons gained.
 - **Combustion** is redox with O₂. Complete combustion of a hydrocarbon gives **CO₂ + H₂O** only.

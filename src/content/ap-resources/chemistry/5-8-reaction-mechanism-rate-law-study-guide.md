@@ -60,6 +60,8 @@ In Topic 5.4 you learned that for an **elementary** step, the rate law follows f
 
 > When the **first** step of a mechanism is the slow (rate-limiting) step, the rate law for the overall reaction is the rate law of that first step, written from its coefficients.
 
+The same idea holds whenever every step goes one way only (single arrows, →): the slowest step sets the rate law. In this topic the slow step is always the first step, so its rate law contains only species you put in the flask. If a fast step before the slow step is reversible (⇌), you need the approach of Topic 5.9.
+
 Three consequences follow.
 
 1. **The rate law can differ from the overall equation.** If a reactant appears only in a fast step after the slow step, its concentration does not appear in the rate law: the reaction is **zero order** in that reactant.

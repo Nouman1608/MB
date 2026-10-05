@@ -53,6 +53,7 @@ Short on time? This page is the recap. For explanations, the flow chart and work
 
 - The steps are **elementary**, so the slow step's coefficients show the particles colliding.
 - The slow step is **much** slower than the steps after it, so the later steps do not hold up the reaction.
+- The steps go **one way only** (single arrows). A fast reversible step before the slow step needs Topic 5.9.
 - The slow step is the **first** step. If it is not, use the approximation in Topic 5.9.
 
 ## Mistakes to avoid

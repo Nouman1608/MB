@@ -210,8 +210,8 @@ Read the graph as a set of cause-and-effect statements:
 ## Common misconceptions
 
 - **"The coefficients are mass ratios."** They are mole ratios. 2 g of butane does not react with 13 g of oxygen (Worked example 1).
-- **"The limiting reactant is the one with the smaller mass."** Compare moles, and divide by coefficients. In Worked example 2, HCl is limiting even though there are more moles of it than of zinc.
-- **"The limiting reactant is the one with fewer moles."** Not if the coefficients differ. Always divide by the coefficient first.
+- **"The limiting reactant is the one with the smaller mass."** Equal masses of different substances hold different numbers of particles, so grams tell you nothing until you convert them to moles and divide by the coefficients.
+- **"The limiting reactant is the one with fewer moles."** Not if the coefficients differ. In Worked example 2, HCl is limiting even though there are more moles of it than of zinc. Always divide by the coefficient first.
 - **Calculating the product from the excess reactant.** The excess reactant does not run out, so it cannot set the amount of product.
 - **Forgetting to convert units for gases and solutions.** mL must become L; °C must become K. Using 25 instead of 298.15 for T makes a gas volume about twelve times too small.
 - **Using an unbalanced equation.** Check the atoms on both sides before you take any ratio.

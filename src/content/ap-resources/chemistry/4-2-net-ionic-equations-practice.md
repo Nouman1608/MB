@@ -17,8 +17,8 @@ learningObjectives:
 skills: ["3", "5"]
 studyMinutes: 40
 difficulty: "mixed"
-calculator: "none-needed"
-calculatorNote: "Molar masses for the optional mass check in Question 5: H 1.008, C 12.01, O 16.00 g mol⁻¹"
+calculator: "four-function"
+calculatorNote: "Question 5(a) asks for a mass check with molar masses H 1.008, C 12.01, O 16.00 g mol⁻¹; a four-function calculator is enough"
 related: ["mb-ap-chem-4.2-study-guide", "mb-ap-chem-4.2-revision-notes", "mb-ap-chem-4.2-checklist"]
 next: "mb-ap-chem-4.2-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
@@ -107,7 +107,7 @@ When a complete ionic equation is written, which of these species is written as 
 
 **Answer: (B).** Nitric acid is a strong acid, so in water it is written as H⁺(aq) + NO₃⁻(aq) (or H₃O⁺(aq) + NO₃⁻(aq)).
 
-- (A) Ethanoic acid is a weak acid. It stays mostly as molecules, so it is written whole.
+- (A) Ethanoic acid (acetic acid) is a weak acid. It stays mostly as molecules, so it is written whole.
 - (C) A gas is written as one formula.
 - (D) A solid (here a precipitate) is written as one formula, even though it is ionic.
 </details>

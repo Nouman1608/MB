@@ -143,7 +143,7 @@ Read three features from the curve:
 <figure>
 <svg viewBox="0 0 640 330" role="img" aria-labelledby="mb-title mb-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="mb-title">Maxwell–Boltzmann distributions at two temperatures</title>
-<desc id="mb-desc">Graph of number of particles against kinetic energy. A solid curve for the lower temperature T1 rises steeply to a tall peak near the left, then falls with a thin tail. A dashed curve for the higher temperature T2 has a lower peak further to the right and a much thicker tail. A vertical line marks the activation energy Ea, well to the right of both peaks. The area under the T1 curve beyond Ea is small and is filled with dense cross-hatching. The extra area under the T2 curve beyond Ea, above the T1 curve, is filled with diagonal lines; together the two shaded regions show that roughly three times as many particles have at least Ea at T2.</desc>
+<desc id="mb-desc">Graph of number of particles against kinetic energy. A solid curve for the lower temperature T1 rises steeply to a tall peak near the left, then falls with a thin tail. A dashed curve for the higher temperature T2 has a lower peak further to the right and a much thicker tail. A vertical line marks the activation energy Ea, well to the right of both peaks. The area under the T1 curve beyond Ea is small and is filled with dense cross-hatching. The extra area under the T2 curve beyond Ea, above the T1 curve, is filled with diagonal lines; together the two shaded regions show that many more particles have at least Ea at T2; including the tails that continue past the edge of the graph, about three times as many.</desc>
 <defs>
 <pattern id="mbx" width="6" height="6" patternUnits="userSpaceOnUse"><path d="M0 0 L6 6 M6 0 L0 6" stroke="#1d2b44" stroke-width="1"/></pattern>
 <pattern id="mbd" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#1d2b44" stroke-width="1"/></pattern>
@@ -164,7 +164,7 @@ Read three features from the curve:
 <text x="345" y="300" text-anchor="middle" font-size="14" fill="#1d2b44">Kinetic energy</text>
 <text x="25" y="150" text-anchor="middle" font-size="14" fill="#1d2b44" transform="rotate(-90 25 150)">Number of particles</text>
 </svg>
-<figcaption>Figure 2. Maxwell–Boltzmann distributions for the same sample at two temperatures (the curves are calculated, not sketched). Cross-hatched: particles with at least Eₐ at T₁. Cross-hatched plus diagonal lines: particles with at least Eₐ at T₂, about three times as many. Both curves enclose the same total area.</figcaption>
+<figcaption>Figure 2. Maxwell–Boltzmann distributions for the same sample at two temperatures (the curves are calculated, not sketched). Cross-hatched: particles with at least Eₐ at T₁. Cross-hatched plus diagonal lines: particles with at least Eₐ at T₂, about three times as many once the part of each tail beyond the right edge of the graph is included. Both curves enclose the same total area.</figcaption>
 </figure>
 
 ## How temperature changes the curve

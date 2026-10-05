@@ -134,7 +134,7 @@ Standards of an invented complex, Complex Z, are measured at λmax in a 1.00 cm 
 <details>
 <summary>Worked solution</summary>
 
-**(a)** The points lie on a straight line through the origin. Gradient = 0.479 ÷ 4.00 × 10⁻⁴ M ≈ 1.20 × 10³ M⁻¹ (a least-squares fit of all four points gives 1.198 × 10³ M⁻¹). Gradient = εb, so ε = 1.20 × 10³ M⁻¹ ÷ 1.00 cm = **1.20 × 10³ M⁻¹ cm⁻¹**.
+**(a)** The points lie on a straight line through the origin. Gradient = 0.479 ÷ 4.00 × 10⁻⁴ M ≈ 1.20 × 10³ M⁻¹ (a least-squares fit of all four points, with or without forcing it through the origin, also gives 1.20 × 10³ M⁻¹ to 3 significant figures). Gradient = εb, so ε = 1.20 × 10³ M⁻¹ ÷ 1.00 cm = **1.20 × 10³ M⁻¹ cm⁻¹**.
 
 **(b)** c = A ÷ (εb) = 0.300 ÷ (1.20 × 10³ M⁻¹ cm⁻¹ × 1.00 cm) = **2.50 × 10⁻⁴ M**. This lies between the 2.00 and 3.00 × 10⁻⁴ M standards, so the reading is inside the calibrated range.
 

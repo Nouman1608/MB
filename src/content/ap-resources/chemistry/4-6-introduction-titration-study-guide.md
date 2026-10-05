@@ -172,7 +172,7 @@ A titration result is only as good as the volumes behind it. Common good habits 
 
 Titration errors are easier to reason about if you ask one question: **does this change the volume of titrant I record?**
 
-- **Overshooting the endpoint.** If the student in Worked example 2 had added 21.85 mL before stopping, the calculation would give 122.0 mg of iron. Too much titrant recorded means too much analyte calculated.
+- **Overshooting the endpoint.** If the student in Worked example 2 had added 21.85 mL before stopping, the calculation would give 0.122 g (122 mg) of iron instead of 0.120 g. Too much titrant recorded means too much analyte calculated.
 - **Adding distilled water to the flask.** Rinsing the walls of the conical flask with water does not change the moles of analyte, so the volume of titrant needed is unchanged. Only the moles matter, not the concentration in the flask.
 
 ## Common misconceptions

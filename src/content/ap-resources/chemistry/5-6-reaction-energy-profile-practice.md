@@ -149,11 +149,11 @@ Two elementary steps, J and K, have similar values of A. Step J has Eₐ = 35 kJ
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** **Step J.** Its transition state is lower, so a much larger fraction of collisions have enough energy to reach it. In k = A e^(−Eₐ/RT), with similar A and the same T, the smaller Eₐ gives the larger exponential term.
+**(a)** **Step J.** Its climb from reactants to transition state is smaller, so a much larger fraction of collisions have enough energy to reach it. In k = A e^(−Eₐ/RT), with similar A and the same T, the smaller Eₐ gives the larger exponential term.
 
 **(b)** **Step K.** Its Eₐ lies far out in the tail of the Maxwell–Boltzmann curve, where heating multiplies the area by a large factor. In Arrhenius terms, the larger Eₐ makes e^(−Eₐ/RT) change more steeply with T. (No calculation is needed.)
 
-**(c)** The claim is **wrong**. The activation energy is the energy gap between the reactants and the transition state, which is fixed for the reaction. Heating raises the rate because more collisions have at least Eₐ, not because Eₐ falls. Step K's peak stays 50 kJ mol⁻¹ higher than step J's at every temperature.
+**(c)** The claim is **wrong**. The activation energy is the energy gap between the reactants and the transition state, which is fixed for the reaction. Heating raises the rate because more collisions have at least Eₐ, not because Eₐ falls. Step K's activation energy stays 50 kJ mol⁻¹ larger than step J's at every temperature.
 
 | Point | What earns it |
 |---|---|
@@ -177,7 +177,7 @@ The gas-phase step X + Y₂ → XY + Y is elementary. It has Eₐ(forward) = 20 
 
 **(a)** The Y–Y bond breaks; a new X–Y bond forms.
 
-**(b)** In the transition state, X, Y and Y are in a line (X···Y···Y), with the X–Y bond partly formed and the Y–Y bond partly broken. It is the highest-energy point on the profile and cannot be isolated. Orientation: X must approach Y₂ along the line of the Y–Y bond, end on; a side-on hit, or a hit that misses the end of the molecule, cannot form the X–Y bond as the Y–Y bond breaks.
+**(b)** In the simplest picture, the transition state has X, Y and Y in a line (X···Y···Y), with the X–Y bond partly formed and the Y–Y bond partly broken. It is the highest-energy point on the profile and cannot be isolated. Orientation: X must hit one end of Y₂, ideally along the line of the Y–Y bond; a hit that misses the end of the molecule cannot form the X–Y bond as the Y–Y bond breaks.
 
 **(c)** ΔH = Eₐ(forward) − Eₐ(reverse) = 20 − 150 = **−130 kJ mol⁻¹**. The step releases energy overall, so more energy is released forming the X–Y bond than is used breaking the Y–Y bond: the X–Y bond is the **stronger** bond.
 

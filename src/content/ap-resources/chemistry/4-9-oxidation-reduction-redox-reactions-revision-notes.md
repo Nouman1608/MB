@@ -44,7 +44,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 |---|---|---|
 | Oxidation half-reaction | Zn → Zn²⁺ + 2e⁻ (e⁻ on the right) | show electrons lost |
 | Reduction half-reaction | Cu²⁺ + 2e⁻ → Cu (e⁻ on the left) | show electrons gained |
-| Balancing order (acid) | atoms ≠ O, H → H₂O for O → H⁺ for H → e⁻ for charge | balance any half-reaction in acid |
+| Balancing order (acid) | atoms other than O and H → H₂O for O → H⁺ for H → e⁻ for charge | balance any half-reaction in acid |
 | Electron count | electrons = change in oxidation number × number of atoms that change | check step 5 |
 | Combining | multiply to the lowest common multiple of the electrons, then add | cancel the electrons |
 | Basic solution (extension) | balance as in acid, then add OH⁻ to both sides for each H⁺ | turn H⁺ into H₂O |

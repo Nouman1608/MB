@@ -51,7 +51,7 @@ A balanced equation is a set of symbols. A **particulate representation** (parti
 - from an equation to a diagram, and
 - from a diagram back to an equation.
 
-The exam can give you a diagram and ask what reaction it shows, or give you an equation and ask you to draw the particles. In a free-response answer, a drawn particle model is often worth marks on its own. The diagram has to be **consistent**: it must obey the same rules as the balanced equation.
+The exam can give you a diagram and ask what reaction it shows, or give you an equation and ask you to draw the particles. A free-response question may ask you to draw the particle model itself, not just write the equation. The diagram has to be **consistent**: it must obey the same rules as the balanced equation.
 
 ### The rules a consistent diagram follows
 

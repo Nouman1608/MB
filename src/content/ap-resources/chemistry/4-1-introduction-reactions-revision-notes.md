@@ -65,7 +65,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 
 1. Is distilling sea water physical or chemical? *(Physical: it separates a mixture.)*
 2. Name a physical change that produces bubbles. *(Boiling, or gas escaping from fizzy water.)*
-3. A sealed bag containing baking soda and vinegar weighs 64.30 g before mixing. What does it weigh afterwards? *(64.30 g: no gas can escape.)*
+3. A sealed bag containing baking soda and vinegar weighs 64.30 g before mixing. What does it weigh afterwards? *(64.30 g: no gas can escape. Ignore the tiny buoyancy effect as the bag swells.)*
 4. Why is a precipitate good evidence? *(The solid is a substance that was not present in either solution.)*
 
 Next: [practice questions](/advanced-course-resources/chemistry/4-1-introduction-reactions-practice/).

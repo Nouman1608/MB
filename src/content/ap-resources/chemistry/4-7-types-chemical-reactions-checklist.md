@@ -31,7 +31,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 - I can say what is transferred in each reaction type: electrons in redox, protons in acid-base, and ions joining into a solid in precipitation. *(Guide: "Three questions that sort most reactions")*
 - I can define oxidation and reduction in terms of electrons and in terms of oxidation numbers. *(Guide: "Redox reactions"; Practice Q7)*
-- I can state that electrons move from the species oxidised to the species reduced, in equal numbers. *(Guide: Worked example 1; Practice Q4)*
+- I can state that electrons move from the species oxidised to the species reduced, in equal numbers. *(Guide: Worked example 1; Practice Q4, Q7)*
 - I can explain why combustion is a redox reaction, and name the products of complete combustion of a hydrocarbon. *(Guide: Worked example 2; Practice Q4)*
 - I can state which salts are always soluble: those of sodium, potassium, ammonium and nitrate. *(Guide: "Precipitation reactions")*
 

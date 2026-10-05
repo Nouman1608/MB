@@ -70,7 +70,7 @@ For a reaction with reactants A and B, the rate law has the form:
 
 In this course the orders are usually 0, 1 or 2. A reactant with order 0 does not appear in the rate law at all, because [A]⁰ = 1. That does not mean the reactant is unnecessary. It is still used up in the reaction; its concentration just does not affect how fast the reaction goes under these conditions.
 
-**The orders must be found by experiment.** They are not the coefficients from the balanced equation. For example, the reaction 2 NO(g) + Cl₂(g) → 2 NOCl(g) turns out to be second order in NO and first order in Cl₂, which happens to match the coefficients. But the reaction of 2-bromo-2-methylpropane, (CH₃)₃CBr, with hydroxide ions is first order in (CH₃)₃CBr and **zero** order in OH⁻, even though both have a coefficient of 1. The orders reflect the step-by-step route of the reaction (its mechanism, Topic 5.7), which the balanced equation hides.
+**The orders must be found by experiment.** They are not the coefficients from the balanced equation. Sometimes the measured orders happen to match the coefficients, but often they do not. For example, the reaction of 2-bromo-2-methylpropane, (CH₃)₃CBr, with hydroxide ions is first order in (CH₃)₃CBr and **zero** order in OH⁻, even though both have a coefficient of 1. The orders reflect the step-by-step route of the reaction (its mechanism, Topic 5.7), which the balanced equation hides.
 
 ## What each order means
 
@@ -163,9 +163,9 @@ Find the rate law and k, and predict the initial rate when [(CH₃)₃CBr] = 0.0
 
 ## Worked example 2: when two concentrations change at once
 
-**Question.** For 2 NO(g) + Cl₂(g) → 2 NOCl(g), a student measures (invented data, one temperature):
+**Question.** For an invented gas-phase reaction 2 X(g) + Y₂(g) → 2 XY(g), a student measures (invented data, one temperature):
 
-| Experiment | [NO] (M) | [Cl₂] (M) | Initial rate (M s⁻¹) |
+| Experiment | [X] (M) | [Y₂] (M) | Initial rate (M s⁻¹) |
 |---|---|---|---|
 | 1 | 0.0100 | 0.0100 | 1.80 × 10⁻⁴ |
 | 2 | 0.0100 | 0.0200 | 3.60 × 10⁻⁴ |
@@ -173,16 +173,16 @@ Find the rate law and k, and predict the initial rate when [(CH₃)₃CBr] = 0.0
 
 Find the orders, the rate law and k.
 
-1. **Order in Cl₂.** Experiments 1 and 2: [NO] is fixed; [Cl₂] doubles; the rate doubles. So the reaction is **first order in Cl₂**.
-2. **Order in NO.** No pair keeps [Cl₂] fixed, so compare experiments 2 and 3 and remove the Cl₂ effect.
+1. **Order in Y₂.** Experiments 1 and 2: [X] is fixed; [Y₂] doubles; the rate doubles. So the reaction is **first order in Y₂**.
+2. **Order in X.** No pair keeps [Y₂] fixed, so compare experiments 2 and 3 and remove the Y₂ effect.
    - Rate ratio = 2.16 × 10⁻³ ÷ 3.60 × 10⁻⁴ = 6.0.
-   - [Cl₂] rose by 0.0300 ÷ 0.0200 = 1.5. First order, so this alone multiplies the rate by 1.5.
-   - The rest of the change is due to NO: 6.0 ÷ 1.5 = 4.0. [NO] doubled and the rate rose by a factor of 4 from NO, so 2ᵐ = 4 and the reaction is **second order in NO**.
-3. **Rate law:** rate = k[NO]²[Cl₂]. Overall order 3.
+   - [Y₂] rose by 0.0300 ÷ 0.0200 = 1.5. First order, so this alone multiplies the rate by 1.5.
+   - The rest of the change is due to X: 6.0 ÷ 1.5 = 4.0. [X] doubled and the rate rose by a factor of 4 from X, so 2ᵐ = 4 and the reaction is **second order in X**.
+3. **Rate law:** rate = k[X]²[Y₂]. Overall order 3.
 4. **k** from experiment 1: k = 1.80 × 10⁻⁴ ÷ [(0.0100)² × 0.0100] = 1.80 × 10⁻⁴ ÷ 1.00 × 10⁻⁶ = **180 M⁻² s⁻¹**.
 5. **Units check:** (M⁻² s⁻¹)(M²)(M) = M s⁻¹. Experiment 3 gives 2.16 × 10⁻³ ÷ [(0.0200)² × 0.0300] = 180 M⁻² s⁻¹ too.
 
-**What this predicts.** Doubling both [NO] and [Cl₂] would multiply the rate by 2² × 2 = 8.
+**What this predicts.** Doubling both [X] and [Y₂] would multiply the rate by 2² × 2 = 8.
 
 ## Common misconceptions
 

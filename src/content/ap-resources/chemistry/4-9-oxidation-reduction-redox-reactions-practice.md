@@ -191,6 +191,8 @@ Do not award the point in (d) for "the claim is wrong" without a reason based on
 
 ## Question 7 (constructed response · stretch)
 
+*Extension question: it uses the basic-solution method from the extension section of the study guide.*
+
 In **basic** solution, permanganate ions, MnO₄⁻, oxidize sulfite ions, SO₃²⁻, to sulfate ions, SO₄²⁻. The manganese forms solid manganese(IV) oxide, MnO₂. Write the balanced net ionic equation. Show your half-reactions.
 
 <details>

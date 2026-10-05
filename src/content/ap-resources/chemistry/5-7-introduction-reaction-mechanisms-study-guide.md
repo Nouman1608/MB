@@ -124,18 +124,18 @@ An intermediate is made by one step and used by another. At the start, none has 
 <figure>
 <svg viewBox="0 0 640 290" role="img" aria-labelledby="inter-time-title inter-time-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="inter-time-title">Concentration against time for a reactant, an intermediate and a product</title>
-<desc id="inter-time-desc">A sketch graph with time on the horizontal axis and concentration on the vertical axis. The reactant line, solid, starts high and falls steadily towards a low level. The product line, long dashes, starts at zero and rises towards a high level. The intermediate line, dotted, starts at zero, rises to a small peak early in the reaction and then falls back to zero. No numbers are shown; the shapes are qualitative.</desc>
+<desc id="inter-time-desc">A sketch graph with time on the horizontal axis and concentration on the vertical axis. The reactant line, solid, starts high and falls towards zero as the reactant is used up. The product line, long dashes, starts at zero and rises towards a high level. The intermediate line, dotted, starts at zero, rises to a small peak early in the reaction and then falls back to zero as the reactant runs out. No numbers are shown; the shapes are qualitative.</desc>
 <path d="M70 30 V240 H525" fill="none" stroke="#1d2b44" stroke-width="2"/>
 <text x="300" y="275" text-anchor="middle" font-size="14" fill="#1d2b44">time</text>
 <text x="28" y="140" text-anchor="middle" font-size="14" fill="#1d2b44" transform="rotate(-90 28 140)">concentration</text>
-<path d="M72 45 C 170 140, 300 190, 520 205" fill="none" stroke="#1d2b44" stroke-width="2.5"/>
+<path d="M72 45 C 150 160, 260 225, 520 228" fill="none" stroke="#1d2b44" stroke-width="2.5"/>
 <path d="M72 238 C 170 140, 300 80, 520 62" fill="none" stroke="#1d2b44" stroke-width="2.5" stroke-dasharray="12 6"/>
 <path d="M72 238 C 100 185, 150 178, 200 198 C 260 222, 360 236, 520 238" fill="none" stroke="#1d2b44" stroke-width="2.5" stroke-dasharray="2 5"/>
 <text x="530" y="66" font-size="13" font-weight="600" fill="#1d2b44">product</text>
-<text x="530" y="209" font-size="13" font-weight="600" fill="#1d2b44">reactant</text>
-<text x="530" y="242" font-size="13" font-weight="600" fill="#1d2b44">intermediate</text>
+<text x="530" y="222" font-size="13" font-weight="600" fill="#1d2b44">reactant</text>
+<text x="530" y="250" font-size="13" font-weight="600" fill="#1d2b44">intermediate</text>
 </svg>
-<figcaption>Figure 2. A sketch, not data. Reactant: solid line. Product: dashed line. Intermediate: dotted line. The intermediate rises from zero, peaks while the reaction is fast, and falls back to zero. It is never part of the starting mixture or the final mixture.</figcaption>
+<figcaption>Figure 2. A sketch, not data. Reactant: solid line. Product: dashed line. Intermediate: dotted line. The intermediate rises from zero, peaks while the reaction is fast, and falls back to zero as the reactant runs out. It is never part of the starting mixture or the final mixture.</figcaption>
 </figure>
 
 This is why intermediates never appear in the overall equation: you do not add them at the start and you cannot collect them at the end. Many intermediates are highly reactive (atoms, radicals or unusual ions), so their concentration stays very small.
