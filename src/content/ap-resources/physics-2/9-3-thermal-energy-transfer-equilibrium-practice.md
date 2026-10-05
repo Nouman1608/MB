@@ -131,7 +131,7 @@ An atom from a hot gas (mass 3.0 × 10⁻²⁶ kg) moving at +800 m/s collides h
 
 Suggested mark points (4): 1 for both momentum totals equal at 1.4 × 10⁻²³ kg·m/s; 1 for both kinetic energy totals equal at 1.06 × 10⁻²⁰ J; 1 for 6.56 × 10⁻²¹ J with direction "hot atom to cold atom"; 1 for stating that a single collision can go either way and the rule is about the most probable outcome of many collisions.
 
-Common error: giving the change of the cold atom alone as its *final* kinetic energy (7.56 × 10⁻²¹ J). The energy transferred is the *change*, 6.56 × 10⁻²¹ J.
+Common error: giving the cold atom's *final* kinetic energy (7.56 × 10⁻²¹ J) as the energy transferred. The energy transferred is the *change* in kinetic energy, 6.56 × 10⁻²¹ J.
 </details>
 
 ## Question 6 (constructed response · core)

@@ -19,7 +19,7 @@ skills: ["1", "2"]
 studyMinutes: 35
 difficulty: "foundation"
 calculator: "four-function"
-calculatorNote: "Only multiplication, subtraction and division are needed"
+calculatorNote: "Only addition, subtraction, multiplication and division are needed"
 related: ["mb-ap-micro-1.1-revision-notes", "mb-ap-micro-1.1-practice", "mb-ap-micro-1.1-checklist"]
 next: "mb-ap-micro-1.1-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
@@ -142,14 +142,14 @@ You will use opportunity cost throughout the course. Topic 1.3 measures it on a 
 
 Most factors of production are **rival**: when one person uses a unit, nobody else can use that same unit at the same time. If one farm is using a tractor today, another farm cannot use that tractor today. If a nurse is with one patient, she is not with another.
 
-Some resources are different. **Established knowledge**, such as a well-known method, a mathematical rule or a recipe that everyone can read, is **non-rival**. One person using it does not reduce how much is left for anyone else. A thousand farmers can use the same crop-rotation rule at the same moment, and the rule is still all there for the next farmer.
+Some resources are different. The course also counts **established knowledge** as a factor of production, alongside the four types above. Established knowledge, such as a well-known method, a mathematical rule or a recipe that everyone can read, is **non-rival**. One person using it does not reduce how much is left for anyone else. A thousand farmers can use the same crop-rotation rule at the same moment, and the rule is still all there for the next farmer.
 
 Because using non-rival knowledge does not use it up, it may **not be scarce**: there is no need to choose who gets to use it.
 
 <figure>
 <svg viewBox="0 0 560 260" role="img" aria-labelledby="scar2-title scar2-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="scar2-title">A rival resource compared with a non-rival resource</title>
-<desc id="scar2-desc">Two panels separated by a vertical line. Left panel, titled Rival: a tractor. A box labelled 1 tractor has a solid arrow to Farm A, using it, and a dashed arrow to Farm B, must wait. The note under the panel says only one farm can use it at a time. Right panel, titled Non-rival: a crop-rotation rule. A box labelled 1 crop-rotation rule has solid arrows to both Farm C, using it, and Farm D, using it too. The note under the panel says both farms use it at the same time.</desc>
+<desc id="scar2-desc">Two panels separated by a vertical line. Left panel, titled Rival: a tractor. A box labelled 1 tractor has a solid arrow to Farm A, using it, and a dashed line with no arrowhead to a dashed-border box, Farm B, must wait. The note under the panel says only one farm can use it at a time. Right panel, titled Non-rival: a crop-rotation rule. A box labelled 1 crop-rotation rule has solid arrows to both Farm C, using it, and Farm D, using it too. The note under the panel says both farms use it at the same time.</desc>
 <defs><marker id="sc-ah2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#1d2b44"/></marker></defs>
 <rect x="0" y="0" width="560" height="260" fill="#ffffff"/>
 <line x1="280" y1="15" x2="280" y2="250" stroke="#1d2b44" stroke-width="1.5"/>
@@ -166,9 +166,9 @@ Because using non-rival knowledge does not use it up, it may **not be scarce**: 
 <text x="140" y="242" text-anchor="middle" font-size="11" fill="#1d2b44">Only one farm can use it at a time</text>
 <rect x="345" y="60" width="150" height="40" rx="6" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <text x="420" y="85" text-anchor="middle" font-size="13" font-weight="600" fill="#1d2b44">1 crop-rotation rule</text>
-<rect x="295" y="170" width="110" height="46" rx="6" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<rect x="290" y="170" width="120" height="46" rx="6" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <text x="350" y="198" text-anchor="middle" font-size="12" fill="#1d2b44">Farm C: using it</text>
-<rect x="425" y="170" width="110" height="46" rx="6" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
+<rect x="420" y="170" width="120" height="46" rx="6" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <text x="480" y="198" text-anchor="middle" font-size="12" fill="#1d2b44">Farm D: using it too</text>
 <line x1="390" y1="100" x2="355" y2="167" stroke="#1d2b44" stroke-width="2" marker-end="url(#sc-ah2)"/>
 <line x1="450" y1="100" x2="475" y2="167" stroke="#1d2b44" stroke-width="2" marker-end="url(#sc-ah2)"/>
@@ -200,7 +200,7 @@ A good can be scarce without being in shortage. Bread is scarce (it takes scarce
 ## Worked example 1: classifying the resources of a juice company
 
 **Question.** Pellara Juice is a fictional company. It uses the resources listed below.
-(a) Classify each as land, labour, capital or entrepreneurship, or say that it is not a factor of production.
+(a) Classify each as land, labour, capital, entrepreneurship or established knowledge, or say that it is not a factor of production.
 (b) For two of the resources, explain why they are scarce.
 (c) Which resource may not be scarce? Explain why.
 
@@ -224,7 +224,7 @@ A good can be scarce without being in shortage. Bread is scarce (it takes scarce
 | 5. Delivery vans | **Capital** | made by people, used to deliver the product |
 | 6. Loan money | **Not a factor** | money buys factors; it does not produce juice itself |
 | 7. The founder | **Entrepreneurship** | organises the other factors, makes decisions and bears risk |
-| 8. Heating method | **Established knowledge** | a known method, not a physical resource |
+| 8. Heating method | **Established knowledge** | a known method used in production, not a physical resource |
 
 **(b)** Any two, for example:
 

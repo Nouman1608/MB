@@ -163,8 +163,8 @@ It helps to think of the systems as points on a **spectrum**. The pure command e
 <text x="210" y="225" text-anchor="middle" font-size="13" fill="#1d2b44">Households</text>
 <line x1="115" y1="87" x2="75" y2="196" stroke="#1d2b44" stroke-width="2" marker-end="url(#sys2-ah)"/>
 <line x1="165" y1="87" x2="205" y2="196" stroke="#1d2b44" stroke-width="2" marker-end="url(#sys2-ah)"/>
-<text x="20" y="130" text-anchor="start" font-size="11" fill="#1d2b44">output targets</text>
-<text x="20" y="144" text-anchor="start" font-size="11" fill="#1d2b44">and inputs</text>
+<text x="10" y="130" text-anchor="start" font-size="11" fill="#1d2b44">output targets</text>
+<text x="10" y="144" text-anchor="start" font-size="11" fill="#1d2b44">and inputs</text>
 <text x="196" y="130" text-anchor="start" font-size="11" fill="#1d2b44">rations, jobs,</text>
 <text x="196" y="144" text-anchor="start" font-size="11" fill="#1d2b44">set wages</text>
 <line x1="140" y1="196" x2="140" y2="89" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="5 4" marker-end="url(#sys2-ah)"/>

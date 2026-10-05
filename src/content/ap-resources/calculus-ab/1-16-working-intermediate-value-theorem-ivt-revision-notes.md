@@ -18,7 +18,7 @@ calculator: "none-needed"
 related: ["mb-ap-calcab-1.16-study-guide", "mb-ap-calcab-1.16-practice", "mb-ap-calcab-1.16-checklist"]
 next: "mb-ap-calcab-1.16-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-calculus-ab-bc"]
+sources: ["ced-calculus-ab-bc", "page-calculus-ab", "page-calculus-bc"]
 keyPoints:
   - "Continuous on [a, b] and d between f(a) and f(b) means f(c) = d for at least one c between a and b."
   - "The theorem proves existence only: not where, not how many."

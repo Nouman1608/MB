@@ -64,7 +64,7 @@ Mei's total utility from cups of tea in one day is 12, 22, 30, 35 and 37 utils f
 **Answer: (A).** MU of the 3rd cup = TU at 3 cups − TU at 2 cups = 30 − 22 = 8 utils.
 
 - (B) is the total utility of 3 cups, not the extra utility of the 3rd.
-- (C) is the average utility, 30 ÷ 3. Average and marginal are different.
+- (C) is the average utility of 3 cups, 30 ÷ 3 (it is also the MU of the 2nd cup, 22 − 12). Neither is the extra utility of the 3rd cup.
 - (D) is the MU of the 4th cup (35 − 30).
 </details>
 

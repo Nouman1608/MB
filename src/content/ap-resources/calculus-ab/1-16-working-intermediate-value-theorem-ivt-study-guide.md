@@ -22,7 +22,7 @@ skills: ["2", "3"]
 studyMinutes: 40
 difficulty: "core"
 calculator: "none-needed"
-calculatorNote: "All arithmetic here can be done by hand. Use π ≈ 3.1416 and √3 ≈ 1.7321 where a decimal comparison is needed."
+calculatorNote: "All arithmetic here can be done by hand."
 related: ["mb-ap-calcab-1.16-revision-notes", "mb-ap-calcab-1.16-practice", "mb-ap-calcab-1.16-checklist"]
 next: "mb-ap-calcab-1.16-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
@@ -125,18 +125,18 @@ A jump does the same thing. In Figure 2 the function climbs from height 1 to hei
 <title id="ivt2-title">A function with a jump at x = 2 that never takes the value 4</title>
 <desc id="ivt2-desc">Graph for x from 0 to 4. On the left, the line y = x + 1 rises from a filled point at (0, 1) to an open circle at (2, 3). On the right, the line y = x + 3 starts at a filled point at (2, 5) and rises to a filled point at (4, 7). A dashed horizontal line at y = 4 passes through the gap between the open circle at height 3 and the filled point at height 5 without touching the graph. The label reads: y = 4 is never reached.</desc>
 <rect x="0" y="0" width="520" height="330" fill="#ffffff"/>
-<line x1="40" y1="290" x2="500" y2="290" stroke="#1d2b44" stroke-width="1.5"/>
-<line x1="80" y1="310" x2="80" y2="15" stroke="#1d2b44" stroke-width="1.5"/>
+<line x1="40" y1="285" x2="500" y2="285" stroke="#1d2b44" stroke-width="1.5"/>
+<line x1="80" y1="305" x2="80" y2="15" stroke="#1d2b44" stroke-width="1.5"/>
 <g font-size="12" fill="#1d2b44" text-anchor="middle">
-<text x="80" y="306">0</text><text x="170" y="306">1</text><text x="260" y="306">2</text><text x="350" y="306">3</text><text x="440" y="306">4</text>
-<text x="505" y="285">x</text>
+<text x="80" y="301">0</text><text x="170" y="301">1</text><text x="260" y="301">2</text><text x="350" y="301">3</text><text x="440" y="301">4</text>
+<text x="505" y="280">x</text>
 </g>
 <g font-size="12" fill="#1d2b44" text-anchor="end">
 <text x="72" y="259">1</text><text x="72" y="199">3</text><text x="72" y="169">4</text><text x="72" y="139">5</text><text x="72" y="79">7</text>
 <text x="72" y="22">y</text>
 </g>
 <g stroke="#1d2b44" stroke-width="1">
-<line x1="170" y1="286" x2="170" y2="294"/><line x1="260" y1="286" x2="260" y2="294"/><line x1="350" y1="286" x2="350" y2="294"/><line x1="440" y1="286" x2="440" y2="294"/>
+<line x1="170" y1="281" x2="170" y2="289"/><line x1="260" y1="281" x2="260" y2="289"/><line x1="350" y1="281" x2="350" y2="289"/><line x1="440" y1="281" x2="440" y2="289"/>
 <line x1="76" y1="255" x2="84" y2="255"/><line x1="76" y1="195" x2="84" y2="195"/><line x1="76" y1="165" x2="84" y2="165"/><line x1="76" y1="135" x2="84" y2="135"/><line x1="76" y1="75" x2="84" y2="75"/>
 </g>
 <line x1="80" y1="165" x2="480" y2="165" stroke="#1d2b44" stroke-width="1.2" stroke-dasharray="6 4"/>

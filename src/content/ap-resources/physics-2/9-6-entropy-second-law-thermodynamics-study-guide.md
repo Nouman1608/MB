@@ -74,7 +74,7 @@ This model goes beyond what the course asks, but it shows **why** spreading wins
 |---|---|---|---|---|---|
 | Number of arrangements | 1 | 4 | 6 | 4 | 1 |
 
-All 4 on the left happens in only 1 arrangement out of 16 (6.25% of the time). An even 2–2 split happens in 6 out of 16 (37.5%). With 10 particles, all on one side has a chance of about 0.1%. With 100 particles, it is about 8 × 10⁻³¹. A litre of air at room conditions holds about 2.5 × 10²² particles, so "all on one side" never happens. The spread-out states have overwhelmingly more arrangements, so the system ends up in them. Higher entropy means more ways to share out the energy and the particles.
+All 4 on the left happens in only 1 arrangement out of 16 (6.25% of the time). An even 2–2 split happens in 6 out of 16 (37.5%). With 10 particles, all on the left has a chance of about 0.1% (1 in 1024). With 100 particles, it is about 8 × 10⁻³¹. A litre of air at room conditions holds about 2.5 × 10²² particles, so "all on one side" never happens. The spread-out states have overwhelmingly more arrangements, so the system ends up in them. Higher entropy means more ways to share out the energy and the particles.
 
 ## Entropy is a state function
 
@@ -201,7 +201,7 @@ The 9.4 cycles showed an engine taking in energy by heating and doing work. The 
 
 **Answer.** ΔU = 0 and the same ΔS_gas > 0 for both paths. Q and W differ (+69 J and −69 J for path 1; zero for path 2). Total entropy is constant for path 1 (ideal limit) and increases for path 2.
 
-**Check.** The gas never gathers back into one chamber by itself. That would lower the entropy of an isolated system. You can push it back with a piston, but then the gas is cooled while it is compressed: its entropy falls and the surroundings' entropy rises by at least as much.
+**Check.** The gas never gathers back into one chamber by itself. That would lower the entropy of an isolated system. You can push it back with a piston, but to keep it at 300 K, energy must leave the gas by heating while it is compressed: its entropy falls and the surroundings' entropy rises by at least as much.
 
 ## Common misconceptions
 

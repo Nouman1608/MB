@@ -110,7 +110,7 @@ Three identical metal spheres start with charges A = +9.0 nC, B = −3.0 nC and 
 3. A touches C: total +3.0 + 1.5 = +4.5 nC, so A = C = +2.25 nC.
 4. Final: **A = +2.25 nC, B = +1.5 nC, C = +2.25 nC**.
 5. (b) Start: 9.0 − 3.0 + 0 = +6.0 nC. End: 2.25 + 1.5 + 2.25 = +6.0 nC. The totals match.
-6. (c) A changed from +9.0 nC to +3.0 nC, a change of −6.0 nC, so A gained electrons; they came from B. N = (6.0 × 10⁻⁹) ÷ (1.60 × 10⁻¹⁹) = **3.7 × 10¹⁰ electrons, from B to A**.
+6. (c) A changed from +9.0 nC to +3.0 nC, a change of −6.0 nC, so A gained electrons; they came from B. N = (6.0 × 10⁻⁹) ÷ (1.60 × 10⁻¹⁹) = 3.75 × 10¹⁰ ≈ **3.8 × 10¹⁰ electrons, from B to A**.
 
 Suggested mark points (4): 1 for adding charges before sharing at each step; 1 for all three final charges; 1 for the conservation check; 1 for the electron number **with** direction B → A.
 

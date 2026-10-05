@@ -52,7 +52,7 @@ Every collision obeys the rules you met in mechanics:
 
 - Momentum is conserved in a collision between two atoms. The total momentum of the pair is the same before and after.
 - When an atom hits a fixed wall, the wall exerts a force on the atom and changes its momentum. By Newton's third law the atom exerts an equal and opposite force on the wall.
-- In this model the collisions are **elastic**, so the atoms do not lose kinetic energy when they bounce.
+- In this model the collisions are **elastic**, so no kinetic energy is lost: an atom bouncing off a fixed wall keeps its speed, and the total kinetic energy of two colliding atoms is the same before and after.
 
 In this course you analyse these collisions in one or two dimensions. You will not need three-dimensional collision calculations.
 
@@ -213,6 +213,7 @@ Features to know:
 - The **area under the curve** represents the total number (or fraction) of atoms. For a fixed sample this area does not change when the temperature changes.
 - **Raise the temperature** and the whole curve shifts to higher speeds. It also spreads out. Because the area must stay the same, a wider curve has to be **lower**. So the peak moves right and down.
 - **Compare two gases at the same temperature**: the lighter gas has the curve shifted to higher speeds and spread out, like a hotter sample of the heavier gas. The average kinetic energy is the same for both.
+- The same idea can be drawn as a distribution of atomic **kinetic energies** instead of speeds. At a higher temperature it also shifts towards higher energies.
 - At any temperature there are some slow atoms and some very fast atoms. A higher temperature does not make every atom faster. It changes the **distribution**.
 
 ## Worked example 1: pressure from atoms hitting a wall at an angle
@@ -230,14 +231,14 @@ Features to know:
 
 ## Worked example 2: two gases at the same temperature
 
-**Question.** A container holds a mixture of helium (atom mass 6.64 × 10⁻²⁷ kg) and argon (atom mass 6.63 × 10⁻²⁶ kg) at 300 K. (a) Find the average kinetic energy of a helium atom and of an argon atom. (b) Find the rms speed of each. (c) The mixture is heated to 450 K. By what factor does each rms speed increase?
+**Question.** A container holds a mixture of helium (atom mass 6.65 × 10⁻²⁷ kg) and argon (atom mass 6.63 × 10⁻²⁶ kg) at 300 K. (a) Find the average kinetic energy of a helium atom and of an argon atom. (b) Find the rms speed of each. (c) The mixture is heated to 450 K. By what factor does each rms speed increase?
 
 1. (a) K_avg depends only on T: K_avg = (3/2)k_B T = 1.5 × (1.38 × 10⁻²³ J/K)(300 K) = 6.21 × 10⁻²¹ J. This is the **same** for both gases.
 2. (b) From ½m v_rms² = (3/2)k_B T, v_rms = √(3k_B T/m).
-   - Helium: v_rms = √[3(1.38 × 10⁻²³)(300) ÷ (6.64 × 10⁻²⁷)] = 1368 m/s ≈ 1.37 × 10³ m/s.
+   - Helium: v_rms = √[3(1.38 × 10⁻²³)(300) ÷ (6.65 × 10⁻²⁷)] = 1367 m/s ≈ 1.37 × 10³ m/s.
    - Argon: v_rms = √[3(1.38 × 10⁻²³)(300) ÷ (6.63 × 10⁻²⁶)] = 433 m/s.
-3. Check the ratio: 1368 ÷ 433 = 3.16, which equals √(m_Ar/m_He) = √9.98 = 3.16. Argon atoms are about 10 times heavier, so they move about √10 times slower.
-4. (c) v_rms ∝ √T, so the factor is √(450/300) = √1.5 = 1.22 for **both** gases. Helium rises to 1675 m/s and argon to 530 m/s.
+3. Check the ratio: 1367 ÷ 433 = 3.16, which equals √(m_Ar/m_He) = √9.97 = 3.16. Argon atoms are about 10 times heavier, so they move about √10 times slower.
+4. (c) v_rms ∝ √T, so the factor is √(450/300) = √1.5 = 1.22 for **both** gases. Helium rises to 1674 m/s and argon to 530 m/s.
 
 **Answer.** (a) 6.21 × 10⁻²¹ J for both. (b) Helium 1.37 × 10³ m/s, argon 433 m/s. (c) Both increase by a factor of 1.22.
 

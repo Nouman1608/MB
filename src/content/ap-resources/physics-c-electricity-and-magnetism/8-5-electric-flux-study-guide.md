@@ -222,7 +222,7 @@ This gives a useful shortcut. If an open curved surface and a flat surface share
 
 ## Worked example 3: a dome in a tilted field
 
-**Question.** A hemispherical dome of radius 0.12 m sits on a flat floor. A uniform field of 3.0 × 10³ N/C points upward and away from the dome's axis at 30° to the vertical. Find the flux through the curved surface of the dome, with A pointing outward (away from the centre).
+**Question.** A hemispherical dome of radius 0.12 m sits on a flat floor. A uniform field of 3.0 × 10³ N/C points upward, tilted at 30° to the vertical. (Because the field is uniform, it has this same direction at every point.) Find the flux through the curved surface of the dome, with A pointing outward (away from the centre).
 
 1. Close the surface with the flat floor disc under the dome. The dome plus disc is a closed surface in a uniform field, so the net flux is zero.
 2. The disc's outward area vector points **down**, at 180° − 30° = 150° to E. Its area is πR² = π(0.12 m)² = 0.04524 m².

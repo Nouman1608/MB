@@ -75,5 +75,6 @@ Short on time? This page is the recap. For the explanations, the figures and the
 2. You move three times farther from a point charge. What happens to E? *(It becomes 1/9 as large)*
 3. Find the force on a −3.0 nC charge in a field of 2.0 × 10⁴ N/C pointing east. *(6.0 × 10⁻⁵ N, west)*
 4. Where is the excess charge on a charged metal block in equilibrium? *(On its surface; E = 0 inside the metal)*
+5. On a field-line diagram, lines are twice as close together at point X as at point Y. Where is E stronger, and which way does it point at X? *(At X; along the tangent to the line through X, in the arrow direction)*
 
 Next: [practice questions](/advanced-course-resources/physics-c-electricity-and-magnetism/8-3-electric-fields-practice/).

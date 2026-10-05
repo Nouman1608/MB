@@ -156,7 +156,7 @@ Plot a graph of T against t, draw a best-fit line and use its slope to find the 
 
 **(a)** Measure the mass of the liquid with the balance (weigh the empty beaker, then the beaker with liquid). Wrap the beaker in insulation and add a lid. Put the heater and thermometer in the liquid. Record the starting temperature, switch on the heater and start the stopwatch. Stir gently and record the temperature every 60 s for about 5 minutes. The energy supplied is Q = PΔt.
 
-**(b)** Plot T (vertical, °C) against t (horizontal, s) with even scales that use most of the grid. The points lie close to a straight line. A best-fit line through them has slope ≈ (35.0 − 20.0) ÷ 300 = 0.0500 K/s (a least-squares fit gives 0.0500 K/s to 3 significant figures). Since T rises at a rate P/(mc):
+**(b)** Plot T (vertical, °C) against t (horizontal, s) with even scales that use most of the grid. The points lie close to a straight line. A best-fit line through them passes very close to (0 s, 20.0 °C) and (300 s, 35.0 °C), so its slope ≈ 15.0 K ÷ 300 s = 0.0500 K/s (a least-squares fit gives 0.0500 K/s to 3 significant figures). Since T rises at a rate P/(mc):
 
 c = P ÷ (m × slope) = 50 W ÷ (0.40 kg × 0.0500 K/s) = **2.50 × 10³ J/(kg·K)**.
 

@@ -66,14 +66,14 @@ So charge is never created or destroyed in a charging process. It only moves. If
 
 (In liquids and gases, whole ions can also move. For the solid objects in this topic, think "electrons".)
 
-**Charge comes in whole electrons.** Any net charge is a whole number of elementary charges: q = Ne. One nanocoulomb is 10⁻⁹ ÷ (1.60 × 10⁻¹⁹) ≈ 6.24 × 10⁹ electrons. Everyday charging moves billions of electrons, but their mass is tiny, so the mass of the object does not change measurably.
+**Charge comes in whole electrons.** Any net charge is a whole number of elementary charges: q = Ne. One nanocoulomb is 10⁻⁹ ÷ (1.60 × 10⁻¹⁹) = 6.25 × 10⁹ electrons. Everyday charging moves billions of electrons, but their mass is tiny, so the mass of the object does not change measurably.
 
 ## Three ways to charge an object
 
 | Method | What happens | Final charges |
 |---|---|---|
 | **Friction** (rubbing) | Close contact lets electrons move from one material to the other | Opposite signs, equal sizes |
-| **Contact** (touching a charged object) | Electrons move between the objects while they touch | Same sign on both; total unchanged |
+| **Contact** (touching a charged object) | Electrons move between the objects while they touch | Same sign on both (for conductors, the sign of the total); total unchanged |
 | **Induction** (charged object near, plus grounding) | The nearby charge pushes or pulls electrons inside the object; a ground path lets some leave or enter | Opposite sign to the inducing object |
 
 **Friction.** When two different materials are rubbed together, electrons move from one surface to the other. Which material gains electrons depends on the pair of materials. In every case the two objects end with equal and opposite charges. If the rod and the cloth form your system, its net charge is zero before and after rubbing.

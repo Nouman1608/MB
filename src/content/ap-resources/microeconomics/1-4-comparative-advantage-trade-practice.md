@@ -188,7 +188,7 @@ Before trade, Halvar produces and consumes 20 thousand sweaters and 80 thousand 
 
 **(d)**
 
-| Country | Before | After | Gain |
+| Country | Before (thousands) | After (thousands) | Gain |
 |---|---|---|---|
 | Isola | 10 sweaters, 30 bags | 16 sweaters, 36 bags | +6 thousand sweaters, +6 thousand bags |
 | Halvar | 20 sweaters, 80 bags | 24 sweaters, 84 bags | +4 thousand sweaters, +4 thousand bags |

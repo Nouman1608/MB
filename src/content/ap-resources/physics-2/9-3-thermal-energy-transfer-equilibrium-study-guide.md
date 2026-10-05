@@ -52,8 +52,8 @@ Two systems are in **thermal contact** when energy can move between them by ther
 
 The words for the direction of the transfer matter:
 
-- **Heating** is the transfer of energy **into** a system by thermal processes.
-- **Cooling** is the transfer of energy **out of** a system by thermal processes.
+- **Heating**: energy enters a system **through** a thermal process (conduction, convection or radiation).
+- **Cooling**: energy leaves a system **through** a thermal process.
 
 So when hot soup and a cold spoon touch, the spoon is heated and the soup is cooled. It is the same energy transfer, described from each system's point of view. If the two systems are isolated from everything else, the energy the soup loses equals the energy the spoon gains.
 
@@ -199,7 +199,7 @@ When the two samples reach equilibrium, both end up with the **same** distributi
 
 **Answer (b).** About 4.6 × 10⁻²¹ J passes from B (lower energy) to A (higher energy).
 
-**Interpretation.** Both collisions obey the same conservation laws. Part (b) shows that energy *can* pass from a lower-energy atom to a higher-energy one. So the hot-to-cold rule is not a rule about each collision. It is about what happens most often. Collisions like (a) are more likely than collisions like (b), and when trillions of collisions happen every second, the hot system loses energy overall.
+**Interpretation.** Both collisions obey the same conservation laws. Part (b) shows that energy *can* pass from a lower-energy atom to a higher-energy one. So the hot-to-cold rule is not a rule about each collision. It is about what happens most often. Collisions that move energy from the higher-energy atom to the lower-energy one, like (a), happen more often than collisions like (b). With an enormous number of collisions every second, the hot system loses energy overall.
 
 ## Worked example 2: two gas samples reach equilibrium
 
@@ -235,7 +235,7 @@ When the two samples reach equilibrium, both end up with the **same** distributi
 - **"The metal feels colder, so it is at a lower temperature."** Objects left in the same room reach the same temperature. Metal feels colder because it conducts energy away from your hand faster.
 - **"Only hot objects radiate."** All objects emit radiation. The net transfer by radiation goes from hotter to colder.
 - **"Convection happens in solids."** Convection needs a moving fluid. Solids transfer energy by conduction (and their surfaces by radiation).
-- **Taking the simple average for the final temperature.** That only works when the two systems are identical in amount and material.
+- **Taking the simple average for the final temperature.** For two monatomic ideal gas samples, the simple average works only when they hold equal numbers of atoms. Otherwise, weight each starting temperature by its number of atoms.
 
 ## Where this leads
 

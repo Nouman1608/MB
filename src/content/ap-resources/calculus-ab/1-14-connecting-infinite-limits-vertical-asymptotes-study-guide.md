@@ -10,7 +10,7 @@ calculusScope: "ab-and-bc"
 prerequisites:
   - "One-sided limits and the ways a limit can fail to exist (Topics 1.2 to 1.4)"
   - "Factoring and cancelling in 0/0 limits (Topic 1.6)"
-  - "Types of discontinuity: removable, jump and vertical asymptote (Topics 1.11 and 1.13)"
+  - "Types of discontinuity: removable, jump and vertical asymptote (Topic 1.10)"
   - "Graphs of ln x, eˣ and tan x"
 prerequisiteResources: ["mb-ap-calcab-1.13-study-guide"]
 learningObjectives:
@@ -143,7 +143,7 @@ Vertical asymptotes are not only for fractions:
 
 The last row shows why the definition says "at least one". The left-hand limit is a finite number, yet x = 0 is still a vertical asymptote.
 
-A vertical asymptote at x = a always means f is **not continuous** at a. This is the third type of discontinuity from Topic 1.11, and unlike a hole it cannot be removed by redefining one value (Topic 1.13): no single number can fill a gap that runs off to infinity.
+A vertical asymptote at x = a always means f is **not continuous** at a. This is the third type of discontinuity from Topic 1.10, and unlike a hole it cannot be removed by redefining one value (Topic 1.13): no single number can fill a gap that runs off to infinity.
 
 ## Finding one-sided infinite limits: the sign check
 

@@ -109,9 +109,9 @@ You can draw both countries' PPCs on the same axes. With shoes on the horizontal
 <line x1="70" y1="90" x2="406" y2="330" stroke="#1d2b44" stroke-width="3"/>
 <line x1="70" y1="210" x2="322" y2="330" stroke="#1d2b44" stroke-width="3" stroke-dasharray="9 6"/>
 <text x="250" y="190" font-size="13" font-weight="600" fill="#1d2b44">Corvania (solid)</text>
-<text x="250" y="206" font-size="12" fill="#1d2b44">slope 3: 3 sacks per pair</text>
+<text x="250" y="206" font-size="12" fill="#1d2b44">slope −3: 3 sacks per pair</text>
 <text x="78" y="300" font-size="13" font-weight="600" fill="#1d2b44">Delmora (dashed)</text>
-<text x="78" y="316" font-size="12" fill="#1d2b44">slope 2: 2 sacks per pair</text>
+<text x="78" y="316" font-size="12" fill="#1d2b44">slope −2: 2 sacks per pair</text>
 </svg>
 <figcaption>Figure 1. Corvania's solid PPC lies outside Delmora's dashed PPC on both axes: absolute advantage in both goods. Delmora's line is flatter, so its opportunity cost of shoes is lower: comparative advantage in shoes.</figcaption>
 </figure>

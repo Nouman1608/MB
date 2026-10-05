@@ -70,7 +70,7 @@ A tray of water is placed in a freezer and turns to ice. Which statement is corr
 **Answer: (A).** The water is a closed system. Energy leaves it by cooling, and its entropy can fall. The freezer passes this energy, plus the work from its motor, to the room. The room's entropy rises by more than the water's falls, so the total entropy of the larger isolated system increases.
 
 - (B) gets the direction wrong for the water. Energy leaves the water, and freezing it into a regular solid lowers its entropy.
-- (C) applies the second law to the wrong thing. The total entropy of an isolated system cannot fall, so a working freezer cannot lower it.
+- (C) has the water right but the total wrong. The total entropy of an isolated system cannot fall, so a working freezer does not lower it and does not break the second law.
 - (D) uses energy conservation to reason about entropy. A real freezer runs irreversible processes, so the total entropy increases.
 </details>
 

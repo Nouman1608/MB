@@ -74,7 +74,7 @@ Short on time? This page is the recap. For explanations, Figures 1 and 2 and the
 
 ## Quick self-check
 
-1. A helium atom (6.64 × 10⁻²⁷ kg) hits a wall head-on at 1200 m/s and rebounds elastically. What is the magnitude of its momentum change? *(1.59 × 10⁻²³ kg·m/s, which is 2mv)*
+1. A helium atom (6.65 × 10⁻²⁷ kg) hits a wall head-on at 1200 m/s and rebounds elastically. What is the magnitude of its momentum change? *(1.60 × 10⁻²³ kg·m/s, which is 2mv)*
 2. What is the average kinetic energy of an atom in a gas at 400 K? *(8.28 × 10⁻²¹ J)*
 3. A gas is heated from 100 K to 900 K. By what factor does v_rms change? *(×3, since √9 = 3)*
 

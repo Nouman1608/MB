@@ -70,7 +70,7 @@ A point charge Q produces a field of magnitude E₀ at a point 0.20 m away. A sm
 
 **Answer: (A).** E = kQ/r². Doubling Q doubles E; doubling r divides E by 4. So E = 2/4 × E₀ = E₀/2. The force is F = (2q)(E₀/2) = qE₀ = F₀.
 
-- (B) lets the test charge change the field. It does not.
+- (B) treats E as ∝ 1/r. In fact E ∝ 1/r².
 - (C) has the correct field but forgets that the force is proportional to the test charge, which doubled.
 - (D) forgets that Q was doubled. Its force, 2q × E₀/4 = F₀/2, follows correctly from that wrong field.
 </details>
@@ -112,7 +112,7 @@ Two charges, each +6.0 nC, are fixed at (−0.20 m, 0) and (+0.20 m, 0). Point P
 
 Suggested mark points (4): 1 for 0.25 m and 863 N/C from each charge; 1 for cancelling x-components and 1036 N/C in +y; 1 for the force with its −y direction; 1 for 1381 N/C in +x in (c).
 
-Common error: adding 863 + 863 = 1726 N/C in (a). Only the y-components add.
+Common error: adding 863 + 863 = 1726 N/C in (a).
 </details>
 
 ## Question 5 (calculation · core)

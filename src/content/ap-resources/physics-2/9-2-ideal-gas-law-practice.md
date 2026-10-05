@@ -152,7 +152,7 @@ A student seals some gas in a rigid flask of volume 2.00 × 10⁻³ m³ and reco
 
 **(c)** At constant volume, P = (nR/V)T, so the gradient is nR/V. A 1 °C step equals a 1 K step, so the gradient is 334 Pa/K. n = (334 Pa/K)(2.00 × 10⁻³ m³) ÷ 8.31 J/(mol·K) = **0.0804 mol** (accept 0.076 to 0.084 mol).
 
-**(d)** With twice as much gas, nR/V doubles, so the gradient doubles (about 0.668 kPa/°C) and every pressure is twice as large. The line is **steeper** but still meets the temperature axis at the **same** point, about −273 °C, because P = 0 only when T = 0 K whatever the amount of gas.
+**(d)** With twice as much gas, nR/V doubles, so the gradient doubles (about 0.668 kPa/°C) and every pressure is twice as large. The line is **steeper** but still meets the temperature axis at the **same** point as the first line (about −271 °C from these data; ideally −273 °C), because P = 0 only when T = 0 K whatever the amount of gas.
 
 | Point | What earns it |
 |---|---|

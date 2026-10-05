@@ -14,7 +14,7 @@ studyMinutes: 10
 difficulty: "core"
 related: ["mb-ap-calcab-1.16-study-guide", "mb-ap-calcab-1.16-practice", "mb-ap-calcab-1.16-revision-notes"]
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-calculus-ab-bc"]
+sources: ["ced-calculus-ab-bc", "page-calculus-ab", "page-calculus-bc"]
 keyPoints:
   - "Tick a statement only when you can do it without notes or a calculator."
   - "Each statement names the practice question that tests it."

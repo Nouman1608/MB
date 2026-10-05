@@ -35,7 +35,7 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-These are **original Marlbridge practice questions**, not past exam questions. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Assumptions for every question: **no calculator** and exact answers unless stated. The tank in Question 6 is invented for practice. Notation: lim (x → ∞) f(x) means "the limit as x increases without bound of f(x)". This set is for both Calculus AB and Calculus BC students.
+These are **original Marlbridge practice questions**, not past exam questions. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Assumptions for every question: **no calculator** and exact answers unless stated. The training model in Question 6 is invented for practice. Notation: lim (x → ∞) f(x) means "the limit as x increases without bound of f(x)". This set is for both Calculus AB and Calculus BC students.
 
 ## Question 1 (multiple choice · foundation)
 
@@ -145,34 +145,34 @@ Acceptable alternative for (a): quoting "equal degrees, so the limit is the rati
 
 ## Question 6 (constructed response · core)
 
-A large tank holds 500 litres of pure water. Starting at time t = 0, salt water containing 12 grams of salt per litre is pumped in at 5 litres per minute. Nothing leaves the tank, and the tank never fills during the times considered. The concentration of salt in the tank after t minutes is
+A warehouse trains new staff to pack parcels. For one invented trainee, the packing rate after t hours of training is modelled by
 
-**C(t) = 60t/(500 + 5t)** grams per litre.
+**R(t) = (45t + 30)/(t + 5)** parcels per hour, for t ≥ 0.
 
-(a) Find lim (t → ∞) C(t). Show your algebra.
+(a) Find lim (t → ∞) R(t). Show your algebra.
 (b) Interpret your answer to (a) in context, with units.
-(c) Find the time when the concentration is 9 grams per litre.
-(d) Show that C(t) < 12 for every t ≥ 0.
+(c) Find the time when the packing rate is 40 parcels per hour.
+(d) Show that R(t) < 45 for every t ≥ 0.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Divide top and bottom by t: C(t) = 60/(500/t + 5). As t → ∞, 500/t → 0, so lim (t → ∞) C(t) = 60/5 = **12**.
+**(a)** Divide top and bottom by t: R(t) = (45 + 30/t)/(1 + 5/t). As t → ∞, 30/t → 0 and 5/t → 0, so lim (t → ∞) R(t) = 45/1 = **45**.
 
-**(b)** Over a long time, the salt concentration in the tank gets closer and closer to 12 grams per litre, the concentration of the incoming salt water. The line C = 12 is a horizontal asymptote of the graph of C.
+**(b)** As the trainee's training time grows without bound, the model's packing rate gets closer and closer to 45 parcels per hour. The line R = 45 is a horizontal asymptote of the graph of R. (At the start the rate is R(0) = 6 parcels per hour.)
 
-**(c)** 60t/(500 + 5t) = 9 gives 60t = 4500 + 45t, so 15t = 4500 and **t = 300 minutes**.
+**(c)** (45t + 30)/(t + 5) = 40 gives 45t + 30 = 40t + 200, so 5t = 170 and **t = 34 hours**.
 
-**(d)** 12 − C(t) = (12(500 + 5t) − 60t)/(500 + 5t) = 6000/(500 + 5t). For t ≥ 0 the top and bottom are both positive, so 12 − C(t) > 0, which means C(t) < 12. The concentration approaches 12 g/L but never reaches it.
+**(d)** 45 − R(t) = (45(t + 5) − (45t + 30))/(t + 5) = 195/(t + 5). For t ≥ 0 the top and bottom are both positive, so 45 − R(t) > 0, which means R(t) < 45. The rate approaches 45 parcels per hour but never reaches it.
 
 | Point | What earns it |
 |---|---|
-| 1 | Correct algebra (dividing by t or an equivalent method) and the limit 12 |
-| 1 | Interpretation in context: concentration approaches 12 grams per litre over a long time |
-| 1 | t = 300 minutes, with units |
-| 1 | A valid argument that C(t) < 12 for all t ≥ 0 (for example, 12 − C(t) = 6000/(500 + 5t) > 0) |
+| 1 | Correct algebra (dividing by t or an equivalent method) and the limit 45 |
+| 1 | Interpretation in context: the packing rate approaches 45 parcels per hour as training time increases |
+| 1 | t = 34 hours, with units |
+| 1 | A valid argument that R(t) < 45 for all t ≥ 0 (for example, 45 − R(t) = 195/(t + 5) > 0) |
 
-Acceptable alternative for (d): showing that C(t) = 12 leads to 0 = 6000, which is impossible, and adding that C(0) = 0 < 12 and C is continuous for t ≥ 0. A value check such as C(1000) ≈ 10.9 alone does not earn the point.
+Acceptable alternative for (d): showing that R(t) = 45 leads to 30 = 225, which is impossible, and adding that R(0) = 6 < 45 and R is continuous for t ≥ 0. A value check such as R(100) ≈ 43.1 alone does not earn the point.
 </details>
 
 ## Question 7 (constructed response · stretch)

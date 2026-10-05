@@ -101,7 +101,7 @@ Kai, a fictional student, is at a party where pizza is free. His utility is:
 <figure>
 <svg viewBox="0 0 600 380" role="img" aria-labelledby="mu1-title mu1-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="mu1-title">Total utility and marginal utility of pizza slices</title>
-<desc id="mu1-desc">Two graphs side by side, both with slices of pizza, 0 to 7, on the horizontal axis. Left graph: total utility in utils, 0 to 70, rises from 20 at 1 slice to 36, 48, 56 and 60 at 5 slices, stays at 60 at 6 slices, then falls to 56 at 7 slices. The rises get smaller each time. Right graph: marginal utility in utils, from minus 10 to 25, falls in equal steps from 20 at the first slice to 16, 12, 8, 4, then 0 at the sixth slice and minus 4 at the seventh. Total utility is highest where marginal utility reaches zero.</desc>
+<desc id="mu1-desc">Two graphs side by side, both with slices of pizza, 0 to 7, on the horizontal axis. Left graph: total utility in utils, 0 to 70, rises from 20 at 1 slice to 36, 48, 56 and 60 at 5 slices, stays at 60 at 6 slices, then falls to 56 at 7 slices. The rises get smaller each time. Right graph: marginal utility in utils, labelled from minus 10 to 20, falls in equal steps from 20 at the first slice to 16, 12, 8, 4, then 0 at the sixth slice and minus 4 at the seventh. Total utility is highest where marginal utility reaches zero.</desc>
 <rect x="0" y="0" width="600" height="380" fill="#ffffff"/>
 <line x1="60" y1="300" x2="285" y2="300" stroke="#1d2b44" stroke-width="2"/>
 <line x1="60" y1="300" x2="60" y2="80" stroke="#1d2b44" stroke-width="2"/>

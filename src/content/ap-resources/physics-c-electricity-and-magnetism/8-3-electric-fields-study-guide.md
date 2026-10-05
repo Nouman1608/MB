@@ -332,7 +332,7 @@ You can design an experiment straight from the definition E = F/q₀. One possib
 ## Common misconceptions
 
 - **"The field depends on the test charge."** The force does; the field does not. E is set by the source charges.
-- **"Field lines are paths that charges follow."** A field line gives the direction of the force, which is the direction of the acceleration, not of the velocity. A moving charge usually does not follow a curved line.
+- **"Field lines are paths that charges follow."** A field line gives the direction of the force, which is the direction of the acceleration, not of the velocity. A charge released on a curved field line does not, in general, follow that line.
 - **"No line drawn means no field."** Lines are only a sample. The field exists between them.
 - **Adding magnitudes instead of vectors.** Two fields of 300 N/C and 140 N/C can give anything from 160 N/C to 440 N/C, depending on direction. Use components.
 - **Using the wrong distance.** Each kq/r² uses the distance from **that** charge to the point, not the distance between the charges.

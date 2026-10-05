@@ -18,7 +18,7 @@ skills: ["1", "2", "3"]
 studyMinutes: 40
 difficulty: "mixed"
 calculator: "four-function"
-calculatorNote: "All data are fictional. Only multiplication, subtraction and division are needed"
+calculatorNote: "All data are fictional. Only addition, subtraction, multiplication and division are needed"
 related: ["mb-ap-micro-1.1-study-guide", "mb-ap-micro-1.1-revision-notes", "mb-ap-micro-1.1-checklist"]
 next: "mb-ap-micro-1.1-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
@@ -34,7 +34,7 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. All people, firms, places and data are fictional. Only multiplication, subtraction and division are needed, so a four-function calculator is enough.
+These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. All people, firms, places and data are fictional. Only addition, subtraction, multiplication and division are needed, so a four-function calculator is enough.
 
 ## Question 1 (multiple choice · foundation)
 
@@ -89,7 +89,7 @@ Which of these resources is **least** likely to be scarce, because of its non-ri
 **Answer: (C).** A known rule is established knowledge. Any number of farmers can use it at the same time, and using it does not use it up, so it is non-rival and may not be scarce.
 
 - (A) Farmland is rival: a field used for one crop cannot be used for another crop, or for housing, at the same time.
-- (B) A surgeon's hours are rival and limited: an hour spent on one patient cannot be spent on another. Skilled labour is one of the scarcest resources.
+- (B) A surgeon's hours are rival and limited: an hour spent on one patient cannot be spent on another.
 - (D) Tractors are rival capital: one tractor can work only one field at a time.
 </details>
 

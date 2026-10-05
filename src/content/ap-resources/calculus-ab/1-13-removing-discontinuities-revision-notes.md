@@ -56,7 +56,7 @@ Notation: **lim (x â†’ c) f(x)** means "the limit as x approaches c of f(x)"; câ
 
 ## Assumptions behind the method
 
-- Each piece must be continuous on its own interval (polynomials, roots on their domain, exponentials, trig).
+- Each piece must be continuous on its own interval (polynomials, and roots, exponentials and trig functions on their domains).
 - A limit uses values near c only, so the value of f(c) never changes the limit.
 - The equation may have one solution, two, or none. All three are possible answers.
 

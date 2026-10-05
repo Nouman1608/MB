@@ -115,7 +115,7 @@ There are two versions of a removable discontinuity.
 
 F is continuous at 2. Notice that F is simply x + 2 for every x. Filling the hole gives back the whole line.
 
-**The value is in the wrong place.** In Topic 1.6 you met a function with f(x) = (x² − x − 6)/(x − 3) for x ≠ 3 and f(3) = 2. The limit at 3 is 5, but f(3) = 2. Condition 3 fails. Redefine f(3) = 5 and the function becomes continuous at 3. Nothing else changes.
+**The value is in the wrong place.** In the Topic 1.6 practice questions you met a function with f(x) = (x² − x − 6)/(x − 3) for x ≠ 3 and f(3) = 2. The limit at 3 is 5, but f(3) = 2. Condition 3 fails. Redefine f(3) = 5 and the function becomes continuous at 3. Nothing else changes.
 
 The same idea works for any limit you can find, including limits from earlier topics. For example, g(x) = (sin 3x)/x is undefined at 0, and the result from Topic 1.8 gives lim (x → 0) g(x) = 3. Setting g(0) = 3 removes the discontinuity.
 
@@ -155,7 +155,7 @@ At a boundary x = c, three numbers must agree:
 - the value the **right expression** gives at c (this is the limit from the right);
 - **f(c)**, given by whichever piece includes c (the one with ≤ or ≥).
 
-If the left and right values match, the limit exists. Since f(c) comes from one of those two expressions, it matches as well. So in practice you write **one equation: left expression at c = right expression at c**. Then confirm f(c) agrees.
+If the left and right values match, the limit exists. Since f(c) comes from one of those two expressions, it matches as well. So in practice you write **one equation: left expression at c = right expression at c**. Then confirm f(c) agrees. If f(c) is given on a separate line, such as f(2) = m, it must equal that common value too.
 
 If the function contains an unknown constant (a parameter), this equation lets you solve for it.
 

@@ -36,7 +36,7 @@ Short on time? This page is the recap. For explanations, graphs and worked examp
 - **Absolute advantage:** a producer can make more of a good than another producer with the same resources (or the same amount with fewer resources).
 - **Comparative advantage:** a producer can make a good at a lower opportunity cost than another producer.
 - With two goods and two producers, each has the comparative advantage in a different good, unless their opportunity costs are equal (then no one does).
-- **Specialisation** by comparative advantage raises total output of both goods. **Trade** shares the extra output.
+- **Specialisation** by comparative advantage gets more total output from the same resources (in typical question data, more of both goods). **Trade** shares the extra output.
 - After trade, each side can **consume** outside its own PPC. The PPC itself does not move.
 
 ## Key relationships

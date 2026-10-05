@@ -125,9 +125,9 @@ The course expects force calculations with **four or fewer** charged objects, or
 <text x="108" y="70" font-size="13" fill="#1d2b44">F₁₃ = 0.169 N (repulsion)</text>
 <line x1="108" y1="170" x2="158" y2="237" stroke="#1d2b44" stroke-width="2.5" stroke-dasharray="7 4" marker-end="url(#ct-arr)"/>
 <text x="166" y="240" font-size="13" fill="#1d2b44">F₂₃ = 0.162 N (attraction)</text>
-<line x1="112" y1="155" x2="158" y2="137" stroke="#1d2b44" stroke-width="5"/>
-<line x1="112" y1="155" x2="158" y2="137" stroke="#ffffff" stroke-width="1.5"/>
-<path d="M156 131 L166 134 L159 142 z" fill="#1d2b44"/>
+<line x1="112" y1="155" x2="154" y2="138" stroke="#1d2b44" stroke-width="5"/>
+<line x1="112" y1="155" x2="154" y2="138" stroke="#ffffff" stroke-width="1.5"/>
+<path d="M152.4 133.5 L162.6 134.7 L156.2 142.7 z" fill="#1d2b44"/>
 <text x="172" y="135" font-size="13" fill="#1d2b44">F_net = 0.105 N at 21.9°</text>
 </svg>
 <figcaption>Figure 1. The set-up for Worked example 1. Force arrows start at q₃ and are drawn to one scale. The solid arrow is the repulsion from q₁, the dashed arrow is the attraction towards q₂, and the double-line arrow is their vector sum.</figcaption>
@@ -193,7 +193,7 @@ The r² cancels, so this ratio is the same at every separation. (Masses used: m_
 **Permittivity** measures how strongly a material or medium polarises in an electric field. It depends on how easily the electrons in the material can change their arrangement, which depends on what the material is made of and how its particles are arranged.
 
 - Empty space has a fixed permittivity, **ε₀ = 8.85 × 10⁻¹² C²/(N·m²)**. It is the ε₀ in Coulomb's law.
-- Every material has a permittivity that differs from ε₀. You will meet the ratio of the two, the dielectric constant κ, in Topic 10.4, when a material fills the gap of a capacitor.
+- Every material has a permittivity that differs from ε₀. You will meet the ratio of the two, the dielectric constant κ, in Topics 10.3 and 10.4, when a material fills the gap of a capacitor.
 
 **Conductors and insulators.**
 

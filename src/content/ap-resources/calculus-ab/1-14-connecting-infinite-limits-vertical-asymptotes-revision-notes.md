@@ -36,8 +36,8 @@ Notation: **lim (x → a) f(x)** means "the limit as x approaches a of f(x)". **
 
 ## Recap
 
-- An **infinite limit** describes values that grow without bound near x = a. "= ∞" means large and positive; "= −∞" means large and negative.
-- ∞ is not a number. A limit that equals ±∞ **does not exist**; the symbol says how it fails.
+- An **infinite limit** describes values that grow without bound near x = a: "= ∞" if positive, "= −∞" if negative.
+- ∞ is not a number, so such a limit **does not exist**; the symbol says how it fails.
 - Write a two-sided "lim (x → a) f(x) = ∞" only when **both** sides go to +∞ (or both to −∞). Otherwise give the one-sided limits.
 - **Vertical asymptote:** x = a is one if at least one one-sided limit at a is ±∞.
 - Justify it in words: "Because lim (x → a⁺) f(x) = ∞, x = a is a vertical asymptote."
@@ -67,8 +67,7 @@ Standard infinite limits: lim (x → 0⁺) ln x = −∞; lim (x → π/2⁻) ta
 2. **"Nonzero/0 = 0".** A fixed number over something tiny is huge.
 3. **Guessing +∞.** Check the signs of the top and the bottom on each side.
 4. **Writing "lim = ∞" when the sides disagree.** Use one-sided limits.
-5. **Saying the limit "exists and equals ∞".** It does not exist; "= ∞" describes the way.
-6. **Thinking both sides must be infinite.** One side is enough (ln x at 0).
+5. **Thinking both sides must be infinite.** One side is enough (ln x at 0).
 
 ## Quick self-check
 

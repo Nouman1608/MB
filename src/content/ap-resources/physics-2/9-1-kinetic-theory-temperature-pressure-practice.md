@@ -35,7 +35,7 @@ editorialStatus: "drafted"
 author: "marlbridge-academic-team"
 ---
 
-These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data and assumptions for every question: k_B = 1.38 × 10⁻²³ J/K; mass of a helium atom = 6.64 × 10⁻²⁷ kg; mass of an argon atom = 6.63 × 10⁻²⁶ kg; every gas is ideal and every collision with a wall is elastic; K_avg = (3/2)k_B T = ½m v_rms² with T in kelvin. A scientific calculator is assumed. Round only at the end.
+These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data and assumptions for every question: k_B = 1.38 × 10⁻²³ J/K; mass of a helium atom = 6.65 × 10⁻²⁷ kg; mass of an argon atom = 6.63 × 10⁻²⁶ kg; every gas is ideal and every collision with a wall is elastic; K_avg = (3/2)k_B T = ½m v_rms² with T in kelvin. A scientific calculator is assumed. Round only at the end.
 
 ## Question 1 (multiple choice · foundation)
 
@@ -147,17 +147,17 @@ A single helium atom moves back and forth along a straight line between two para
 
 **(a)** Between two hits on the same wall the atom travels to the other wall and back: 2 × 0.10 m = 0.20 m. Δt = 0.20 m ÷ 1500 m/s = **1.33 × 10⁻⁴ s** (7500 hits per second on each wall).
 
-**(b)** Impulse per hit: Δp = 2mv = 2(6.64 × 10⁻²⁷ kg)(1500 m/s) = 1.992 × 10⁻²³ kg·m/s. Average force: F = Δp/Δt = 1.992 × 10⁻²³ ÷ 1.333 × 10⁻⁴ = **1.49 × 10⁻¹⁹ N**. (Equivalent form: F = mv²/L.)
+**(b)** Impulse per hit: Δp = 2mv = 2(6.65 × 10⁻²⁷ kg)(1500 m/s) = 1.995 × 10⁻²³ kg·m/s. Average force: F = Δp/Δt = 1.995 × 10⁻²³ ÷ 1.333 × 10⁻⁴ = **1.50 × 10⁻¹⁹ N**. (Equivalent form: F = mv²/L.)
 
-**(c)** The force increases by a factor of 1.5 × 1.5 = **2.25** (to 3.36 × 10⁻¹⁹ N). Reason 1: each hit gives 1.5 times the impulse, because Δp = 2mv. Reason 2: the atom crosses the box faster, so it hits each wall 1.5 times as often.
+**(c)** The force increases by a factor of 1.5 × 1.5 = **2.25** (to 3.37 × 10⁻¹⁹ N). Reason 1: each hit gives 1.5 times the impulse, because Δp = 2mv. Reason 2: the atom crosses the box faster, so it hits each wall 1.5 times as often.
 
 **(d)** A real container holds an enormous number of atoms. The wall receives so many hits each second that the individual impulses merge into a steady average force. For example, about 7 × 10¹⁸ atoms like this one would be needed to give an average force of 1 N. The fluctuations from single hits are far too small to notice.
 
 | Point | What earns it |
 |---|---|
 | 1 | Δt = 2L/v = 1.33 × 10⁻⁴ s, using the round-trip distance 2L |
-| 1 | Impulse per hit 2mv = 1.99 × 10⁻²³ kg·m/s |
-| 1 | F = 1.49 × 10⁻¹⁹ N (carry forward from (a) if consistent) |
+| 1 | Impulse per hit 2mv = 1.995 × 10⁻²³ kg·m/s (allow 2.0 × 10⁻²³) |
+| 1 | F = 1.50 × 10⁻¹⁹ N (carry forward from (a) if consistent) |
 | 1 | Factor 2.25 **with** both reasons: larger impulse per hit **and** more frequent hits |
 | 1 | (d) Very large number of atoms → many collisions per second → impulses average to a steady force (pressure = this force per area) |
 
@@ -189,7 +189,7 @@ Three sealed containers hold ideal gases:
 | Container | T (K) | m (kg) | v_rms (m/s) |
 |---|---|---|---|
 | X (argon) | 300 | 6.63 × 10⁻²⁶ | 433 |
-| Y (helium) | 300 | 6.64 × 10⁻²⁷ | 1.37 × 10³ |
+| Y (helium) | 300 | 6.65 × 10⁻²⁷ | 1.37 × 10³ |
 | Z (argon) | 600 | 6.63 × 10⁻²⁶ | 612 |
 
 Ranking: **Y > Z > X**. Helium has the same average kinetic energy as argon at 300 K but about one-tenth of the mass, so it is about √10 ≈ 3.16 times faster.

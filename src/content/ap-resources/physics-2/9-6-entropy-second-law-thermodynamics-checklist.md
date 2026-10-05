@@ -46,6 +46,6 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can explain how a closed system's entropy can decrease without breaking the second law. *(Guide: "Isolated systems and closed systems"; Practice Q2, Q6d)*
 - I can compare two paths between the same states: same ΔS for the system, different effects on the surroundings. *(Guide: Worked example 2; Practice Q3, Q4)*
 - I can use the second law to explain why a process that conserves energy still never happens in reverse. *(Practice Q5d)*
-- I can explain why no engine can turn all of the energy it takes in by heating into work. *(Guide: background note on engines; Practice Q7d)*
+- Stretch (background): I can explain why no engine can turn all of the energy it takes in by heating into work. *(Guide: background note on engines; Practice Q7d)*
 
 All ticked? You have finished Unit 9. Move on to Unit 10, Electric Force, Field, and Potential, from the [course roadmap](/advanced-course-resources/physics-2/#roadmap).

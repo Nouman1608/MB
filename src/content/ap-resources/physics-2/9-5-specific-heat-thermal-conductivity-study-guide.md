@@ -253,7 +253,7 @@ Do not mix up c and k. Water has a high c but a low k; copper has a low c but a 
 3. (b) Q = (384 W)(3600 s) = 1.38 × 10⁶ J, about 1.4 MJ.
 4. (c) ΔT goes up by a factor 3.0/2.0 = 1.5. L goes up by a factor 6.0/4.0 = 1.5, which divides the rate by 1.5. The two factors cancel, so the rate is still **384 W**.
 
-**Interpretation.** In a real window, thin layers of still air on each side of the glass take most of the temperature difference between room and outside, so the glass surfaces are only a few kelvin apart.
+**Interpretation.** In a real window, thin layers of still air on each side of the glass take most of the temperature difference between room and outside, so the two glass surfaces are much closer in temperature than the room air and the outside air.
 
 ## Common misconceptions
 

@@ -135,36 +135,36 @@ Common error: swapping the models. The infinite-line model at 3.0 m gives 30 N/C
 
 ## Question 6 (constructed response · core)
 
-A thin rod is bent into a semicircle of radius R, centred on point O. The semicircle lies to the right of O: it runs from the point (0, R) through (R, 0) to (0, −R). The upper quarter carries +Q and the lower quarter carries −Q, each spread uniformly.
+A thin rod is bent into a semicircle of radius R, centred on point O. It lies to the right of O, running from (0, R) through (R, 0) to (0, −R). The upper quarter carries +Q and the lower quarter carries +3Q, each spread uniformly along its own quarter.
 
-(a) Use symmetry to state the direction of E at O, with a reason.
-(b) Derive the magnitude of E at O in terms of Q, R and k.
-(c) The same semicircle instead carries +2Q spread uniformly over its whole length. Compare the field at O with your answer to (b).
-(d) Evaluate (b) for Q = 3.0 × 10⁻⁹ C and R = 0.15 m.
+(a) Show by integration that the upper quarter alone gives field components E_x = E_y = −2kQ/(πR²) at O.
+(b) Use symmetry to write down the components of the field at O due to the lower quarter, without a new integral. Give your reason.
+(c) Find the magnitude and direction of the total field at O.
+(d) Evaluate (c) for Q = 3.0 × 10⁻⁹ C and R = 0.15 m.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Take a piece of the upper quarter at angle θ above the x-axis and its mirror image in the lower quarter at −θ. The positive piece pushes a test charge at O away from itself: down and to the left. The negative piece pulls it towards itself: down and to the right. The x-components cancel and the y-components add. So **E points in the −y direction**, from the positive quarter towards the negative quarter.
+**(a)** The upper quarter has length πR/2, so λ₁ = Q/(πR/2) = 2Q/(πR). A piece at angle θ (0 to π/2) has dq = λ₁R dθ, is a distance R from O, and pushes a positive test charge at O in the direction (−cos θ, −sin θ). So:
+E_x = −(kλ₁/R) ∫₀^(π/2) cos θ dθ = −kλ₁/R and E_y = −(kλ₁/R) ∫₀^(π/2) sin θ dθ = −kλ₁/R.
+With λ₁ = 2Q/(πR), **E_x = E_y = −2kQ/(πR²)**.
 
-**(b)** Each quarter has length πR/2, so λ = Q/(πR/2) = 2Q/(πR). A piece at angle θ has dq = λR dθ and is a distance R from O.
-For the upper quarter, dE_y = −(kλR dθ/R²) sin θ. Integrating from 0 to π/2 gives E_y = −kλ/R.
-The lower quarter gives the same, −kλ/R, by the symmetry in (a).
-Total: **E = 2kλ/R = 4kQ/(πR²)**, in the −y direction.
+**(b)** The lower quarter is the mirror image of the upper quarter in the x-axis. Reflecting the charge reflects its field: E_x stays the same and E_y changes sign. With 3 times the charge, each component is 3 times larger: **E_x = −6kQ/(πR²) and E_y = +6kQ/(πR²)**.
 
-**(c)** With +2Q over the whole length πR, λ = 2Q/(πR), the same as before. The field is 2kλ/R = 4kQ/(πR²) again, so **the magnitude is the same**, but it points in the **−x direction**, away from the middle of the arc. The direction has turned through 90°.
+**(c)** Add the components: E_x = −8kQ/(πR²) and E_y = +4kQ/(πR²). The magnitude is √(8² + 4²) kQ/(πR²) = **4√5 kQ/(πR²) ≈ 2.85kQ/R²**. The direction is tan⁻¹(4/8) = **26.6° above the −x direction**, tilted away from the more heavily charged lower quarter.
+Check: if both quarters carried +Q, the y-components would cancel and E = 4kQ/(πR²) along −x, which is the semicircle result 2kλ/R.
 
-**(d)** E = 4(8.99 × 10⁹)(3.0 × 10⁻⁹) ÷ [π(0.15)²] = **1.5 × 10³ N/C** (1526 N/C), in the −y direction.
+**(d)** kQ/(πR²) = (8.99 × 10⁹)(3.0 × 10⁻⁹) ÷ [π(0.15)²] = 381.5 N/C, so E = 4√5 × 381.5 = **3.4 × 10³ N/C** (3413 N/C), at 26.6° above the −x direction.
 
 | Point | What earns it |
 |---|---|
-| 1 | Direction −y, with the reason that the x-components of mirror-image pieces cancel and the y-components add |
-| 1 | Correct λ = 2Q/(πR) and dq = λR dθ |
-| 1 | Correct integral for one quarter giving kλ/R in the y-direction |
-| 1 | Total 4kQ/(πR²) (or 2kλ/R) with direction |
-| 1 | (c) Same magnitude, direction −x, with a reason |
+| 1 | λ₁ = 2Q/(πR), dq = λ₁R dθ and distance R for every piece |
+| 1 | Both integrals for the upper quarter, giving −2kQ/(πR²) for each component |
+| 1 | (b) E_x unchanged, E_y reversed and both tripled, with the mirror-symmetry reason |
+| 1 | (c) Magnitude 4√5 kQ/(πR²) with direction 26.6° above −x |
+| 1 | (d) 3.4 × 10³ N/C with direction |
 
-Accept an answer that integrates both quarters directly with limits −π/2 to π/2, provided the sign of the lower quarter's charge is handled correctly.
+Accept a direct integral over the lower quarter (θ from −π/2 to 0, λ₂ = 6Q/(πR)) in (b).
 </details>
 
 ## Question 7 (constructed response · stretch)
