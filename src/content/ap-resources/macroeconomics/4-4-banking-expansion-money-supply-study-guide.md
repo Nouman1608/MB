@@ -163,7 +163,7 @@ This process stops when all the original excess reserves have become required re
 
 ## The money multiplier
 
-The **money multiplier** is the ratio of the money supply to the monetary base:
+The **money multiplier** compares the money supply with the monetary base:
 
 **Money multiplier = money supply ÷ monetary base**
 
@@ -222,7 +222,7 @@ The formula 1 ÷ rr gives the **largest possible** expansion. The real expansion
 1. **Banks hold excess reserves.** If banks keep some excess reserves, for safety or because few borrowers want loans, less is lent in each round (Worked example 2(c)).
 2. **The public holds more currency.** If a borrower keeps part of a loan as cash instead of depositing it, that cash leaves the banking system. It cannot support further loans, so each round shrinks faster.
 
-You can see this in Valdoria's data from Topic 4.3. M1 was VD 420 billion and the monetary base was VD 190 billion, so the actual money multiplier (using M1) was 420 ÷ 190 = **2.21**. With a 10% required reserve ratio the simple maximum would be 10. The gap shows how much the leakages matter.
+You can see this in Valdoria's data from Topic 4.3. M1 was VD 420 billion and the monetary base was VD 190 billion, so the actual money multiplier (using M1) was 420 ÷ 190 = **2.21**. If Valdoria's required reserve ratio were 10%, the simple maximum would be 10. The gap shows how much the leakages matter.
 
 **Out of scope here.** How the central bank changes reserves on purpose, through open market operations and other tools, is in Topic 4.6, Monetary Policy.
 

@@ -90,7 +90,7 @@ A Valdorian household transfers VD 2,000 from its checking account into a retail
 
 - (A) forgets that retail money market funds are part of M2, so the money does not leave M2.
 - (C) forgets that the money left a demand deposit, which is part of M1.
-- (D) would be true only if the money moved between two items in the same category, such as from one checking account to another.
+- (D) would be true only if the money moved between two items that are both in M1 (such as two checking accounts), or both in M2 but not M1 (such as a savings account and a time deposit).
 </details>
 
 ## Question 4 (multiple choice · core)

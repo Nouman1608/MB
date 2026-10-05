@@ -26,7 +26,7 @@ next: "mb-ap-macro-4.3-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-macroeconomics", "page-macroeconomics", "clar-macroeconomics"]
 keyPoints:
-  - "Money is any asset that is accepted as a means of payment."
+  - "Money is any asset people accept as a means of payment."
   - "Money has three functions: medium of exchange, unit of account and store of value."
   - "M1 = currency in circulation + demand (checkable) deposits."
   - "M2 = M1 + savings deposits + small time deposits + retail money market funds."

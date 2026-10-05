@@ -52,7 +52,7 @@ Valdoria's required reserve ratio is 12.5%. What is the maximum value of the mon
 
 - (A) is the reserve ratio itself, not its reciprocal.
 - (B) subtracts 1 from the multiplier (8 − 1). The multiplier is simply 1 ÷ rr.
-- (D) treats the percentage figure as the multiplier. The multiplier falls as the ratio rises, so it cannot equal the ratio written as a percentage.
+- (D) uses the ratio written as a percentage (12.5%) as the multiplier. The multiplier is the reciprocal of the ratio written as a decimal: 1 ÷ 0.125 = 8.
 </details>
 
 ## Question 2 (multiple choice · core)
