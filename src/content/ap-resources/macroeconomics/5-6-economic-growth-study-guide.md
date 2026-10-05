@@ -37,7 +37,7 @@ faqs:
   - question: "Why per capita and not just real GDP?"
     answer: "Real GDP can rise simply because there are more people. Dividing by the population shows whether the average person has more goods and services, which is what growth in living standards means."
   - question: "Is a recovery from a recession economic growth?"
-    answer: "Not in the long-run sense used here. A recovery moves output back towards full employment, inside to on the PPC. Long-run growth means full-employment output itself rises, so the PPC and LRAS shift."
+    answer: "Not in the long-run sense used here. A recovery moves output back towards full employment, from a point inside the PPC towards the curve. Long-run growth means full-employment output itself rises, so the PPC and LRAS shift."
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
@@ -178,7 +178,7 @@ Growth is an increase in the economy's capacity, so it shows up in both capacity
 - On a **production possibilities curve (PPC)**, growth is an **outward shift** of the curve.
 - In the **AD–AS model**, growth is a **rightward shift of the LRAS curve**, from Yf₁ to a higher Yf₂.
 
-The two shifts are the same event drawn in two ways. Both show that full-employment output has increased. Anything that raises productivity or the quantity of resources, such as more physical capital, more human capital, better technology or a larger labour force, shifts both. A shift of the business-cycle trend line upward over time (Topic 2.7) tells the same story.
+The two shifts are the same event drawn in two ways. Both show that full-employment output has increased. Anything that raises productivity or the quantity of resources, such as more physical capital, more human capital, better technology or a larger labour force, shifts both. The upward-sloping long-run trend line on a business-cycle graph (Topic 2.7) tells the same story.
 
 <figure>
 <svg viewBox="0 0 640 320" role="img" aria-labelledby="gr2-title gr2-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">

@@ -23,7 +23,7 @@ calculatorNote: "Round percentages to 2 decimal places and money to the nearest 
 related: ["mb-ap-macro-5.7-study-guide", "mb-ap-macro-5.7-revision-notes", "mb-ap-macro-5.7-checklist"]
 next: "mb-ap-macro-5.7-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-macroeconomics", "page-macroeconomics", "exam-macroeconomics"]
+sources: ["ced-macroeconomics", "page-macroeconomics", "clar-macroeconomics"]
 keyPoints:
   - "Questions 1–4 are multiple choice; 5–7 need written working or graphs."
   - "For every policy, ask what it does to AD in the short run and to LRAS in the long run."
@@ -96,21 +96,21 @@ A fictional country has a population of 10 million, of whom 8 million are of wor
 
 ## Question 4 (multiple choice · core)
 
-Valdoria decides to produce more capital goods and fewer consumer goods this year. Assuming its resources are fully employed, which outcome is most likely?
+Valdoria is at full employment. Its government raises a tax on household spending and uses all the revenue to build new ports and power stations. Which outcome is most likely?
 
-- (A) Valdoria's PPC shifts outward immediately, so it can have more of both goods this year.
-- (B) Valdoria gives up some consumer goods now, and its PPC shifts out further in future years than it would otherwise.
-- (C) There is no opportunity cost, because capital goods raise future output.
-- (D) Valdoria's LRAS shifts left in the long run, because consumption is lower.
+- (A) Valdoria's PPC shifts outward as soon as construction starts, so it can produce more consumer goods this year.
+- (B) Valdoria moves along its PPC towards capital goods now, and its PPC shifts outward in later years.
+- (C) Valdoria moves from a point inside its PPC to a point on it, so no consumer goods are given up.
+- (D) Valdoria's PPC shifts inward, because households buy fewer consumer goods.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** At full employment, Valdoria is on its PPC, so more capital goods means fewer consumer goods now. The extra capital raises productivity later, so the PPC (and LRAS) shift out further than they would have.
+**Answer: (B).** At full employment, Valdoria is on its PPC. Resources used to build ports and power stations (public capital) cannot also make consumer goods, so the economy moves along its PPC towards capital goods. Once the new capital is in use, productivity rises and the PPC (and LRAS) shift outward.
 
-- (A) gets the timing wrong. New capital adds to capacity only once it is built and in use; this year Valdoria moves along its existing PPC.
-- (C) ignores the trade-off. The consumer goods given up now are the opportunity cost of faster growth.
-- (D) confuses a fall in consumption (a component of AD) with a fall in capacity. More capital shifts LRAS right, not left.
+- (A) gets the timing wrong. New capital adds to capacity only once it is built and working; this year Valdoria moves along its existing PPC.
+- (C) describes an economy with idle resources. At full employment Valdoria is already on its PPC, so the consumer goods given up are the opportunity cost of the policy.
+- (D) confuses a fall in consumption (a component of AD) with a fall in capacity. More public capital shifts the PPC outward, not inward.
 </details>
 
 ## Question 5 (calculation · core)

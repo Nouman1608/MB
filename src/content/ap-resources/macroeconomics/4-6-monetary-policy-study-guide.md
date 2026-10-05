@@ -63,7 +63,7 @@ How a central bank moves its policy rate depends on how many reserves the bankin
 - **Limited reserves.** Banks hold little more than their required reserves. Reserves are scarce, so if the central bank adds or removes even a small amount, the overnight rate changes. The central bank works by changing the **quantity of reserves**, which changes the **money supply** and so the interest rate.
 - **Ample reserves.** Banks hold far more reserves than they need. A small change in the quantity of reserves does **not** change the overnight rate, because no bank is short of reserves. Instead the central bank changes the interest rates it sets itself, its **administered rates**, especially the **interest on reserves**.
 
-The banking system in the United States has ample reserves, and the Federal Reserve's key policy tool is interest on reserves.
+The United States is an example of the second kind of system. Its banks hold ample reserves, so the Federal Reserve steers its policy rate mainly by setting the interest it pays on reserves.
 
 ## The tools
 

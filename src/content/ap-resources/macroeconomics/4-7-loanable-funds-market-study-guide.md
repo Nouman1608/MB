@@ -192,7 +192,7 @@ Both raise the equilibrium real interest rate and reduce the amount private borr
 
 **Step 3: who borrows the funds?** The government takes 30 of the 110. Private borrowers take the rest: 110 − 30 = **VD 80 billion**. You can read this from the original demand curve: at 6%, private borrowers want 80. Private investment has fallen from 100 to 80, a fall of **VD 20 billion**.
 
-**Check with the supply-side view.** Treat the extra deficit as 30 less national saving at every rate. The supply at 6% would then be 110 − 30 = 80, which equals the original demand at 6%. The real rate is again **6%** and private investment is again **VD 80 billion**. Only the label on the quantity axis changes.
+**Check with the supply-side view.** Treat the extra deficit as 30 less national saving at every rate. The supply at 6% would then be 110 − 30 = 80, which equals the original demand at 6%. The real rate is again **6%** and private investment is again **VD 80 billion**. The rate and private investment are the same; only the equilibrium quantity on the graph differs (80, private borrowing, instead of 110, total borrowing).
 
 <figure>
 <svg viewBox="0 0 640 330" role="img" aria-labelledby="lf2-title lf2-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">

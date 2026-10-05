@@ -21,7 +21,7 @@ sources: ["ced-macroeconomics", "page-macroeconomics", "clar-macroeconomics"]
 keyPoints:
   - "Recessionary gap → expansionary policy; inflationary gap → contractionary policy."
   - "Limited reserves: change the quantity of reserves. Ample reserves: change administered rates."
-  - "Max change in money supply = change in excess reserves × (1 ÷ required reserve ratio)."
+  - "With limited reserves, max change in money supply from an open market operation = size of the operation × (1 ÷ required reserve ratio)."
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
@@ -69,7 +69,7 @@ Short on time? This page is the recap. For explanations, graphs and worked examp
 VD is the valda, the currency of the fictional country Valdoria used in the study guide.
 
 1. The central bank buys VD 12 bn of bonds from banks; the required reserve ratio is 25% and reserves are limited. What are the changes in the monetary base and the maximum change in the money supply? *(+VD 12 bn; +VD 48 bn)*
-2. The central bank sells VD 3 bn of bonds to banks; the ratio is 10%. Maximum change in the money supply? *(−VD 30 bn)*
+2. The central bank sells VD 3 bn of bonds to banks; reserves are limited and the ratio is 10%. Maximum change in the money supply? *(−VD 30 bn)*
 3. An economy with ample reserves has high inflation. Which tool should the central bank use, and in which direction? *(Raise the interest on reserves.)*
 
 Next: [practice questions](/advanced-course-resources/macroeconomics/4-6-monetary-policy-practice/).

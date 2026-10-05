@@ -17,7 +17,7 @@ calculator: "none-needed"
 related: ["mb-ap-macro-5.2-study-guide", "mb-ap-macro-5.2-practice", "mb-ap-macro-5.2-checklist"]
 next: "mb-ap-macro-5.2-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-macroeconomics"]
+sources: ["ced-macroeconomics", "page-macroeconomics", "clar-macroeconomics"]
 keyPoints:
   - "SRPC slopes down; LRPC is vertical at the natural rate."
   - "Demand shock: move along the SRPC. Supply shock: the SRPC shifts."

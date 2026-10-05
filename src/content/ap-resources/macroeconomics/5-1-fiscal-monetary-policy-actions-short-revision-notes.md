@@ -17,7 +17,7 @@ calculator: "four-function"
 related: ["mb-ap-macro-5.1-study-guide", "mb-ap-macro-5.1-practice", "mb-ap-macro-5.1-checklist"]
 next: "mb-ap-macro-5.1-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-macroeconomics"]
+sources: ["ced-macroeconomics", "page-macroeconomics", "clar-macroeconomics"]
 keyPoints:
   - "Recessionary gap: both policies expansionary. Inflationary gap: both contractionary."
   - "Same direction: AD effect certain, interest rate uncertain. Opposite directions: interest rate certain, AD uncertain."
@@ -69,7 +69,7 @@ Short on time? This page is the recap. For explanations, graphs and worked examp
 1. Saying two expansionary policies **must** lower interest rates.
 2. Adding the actions (VD 6 billion + VD 4 billion) instead of their **multiplied** effects.
 3. Using the spending multiplier for a **tax** change.
-4. Treating equal-sized opposite actions as cancelling out.
+4. Assuming equal-sized opposite actions cancel out. They cancel only if they use the same multiplier (a tax cut and an investment fall do not).
 5. Calling a policy "recessionary"; gaps are recessionary or inflationary, policies are expansionary or contractionary.
 
 ## Quick self-check

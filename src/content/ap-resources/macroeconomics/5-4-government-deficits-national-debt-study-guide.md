@@ -224,7 +224,7 @@ A government must pay interest on everything it has borrowed and not yet repaid.
 | 2 | 530.00 | 31.80 | 561.80 |
 | 3 | 561.80 | 33.71 | 595.51 |
 
-The debt rises by **VD 95.51 billion** in three years, even though the government never spent more than its tax revenue on anything except interest. The interest grows each year because the government pays interest on the interest it borrowed before. Over three years this costs VD 5.51 billion more than three payments of VD 30 billion.
+The debt rises by **VD 95.51 billion** in three years, even though, apart from interest, the government never spends more than it collects in taxes. The interest grows each year because the government pays interest on the interest it borrowed before. Over three years this costs VD 5.51 billion more than three payments of VD 30 billion.
 
 **(b)** Interest at 5%: 677 × 0.05 = VD 33.85 billion. At 7%: 677 × 0.07 = VD 47.39 billion. The interest bill rises by **VD 13.54 billion** a year.
 

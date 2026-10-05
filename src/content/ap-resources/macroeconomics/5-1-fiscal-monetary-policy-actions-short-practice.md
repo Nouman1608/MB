@@ -23,7 +23,7 @@ calculatorNote: "Keep multipliers exact. Give answers in billions of valdas (VD)
 related: ["mb-ap-macro-5.1-study-guide", "mb-ap-macro-5.1-revision-notes", "mb-ap-macro-5.1-checklist"]
 next: "mb-ap-macro-5.1-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-macroeconomics", "page-macroeconomics", "exam-macroeconomics"]
+sources: ["ced-macroeconomics", "page-macroeconomics", "clar-macroeconomics"]
 keyPoints:
   - "Questions 1–4 are multiple choice; 5–7 need written working or graphs."
   - "Multiply each action by its own multiplier before adding."
@@ -96,7 +96,7 @@ Valdoria's MPC is 0.8. The government increases spending by VD 6 billion. At the
 
 ## Question 4 (multiple choice · core)
 
-Valdoria has an inflationary gap. The government raises taxes and the central bank raises its policy rate. Which row correctly describes the short-run effects on the price level and the nominal interest rate?
+Valdoria has an inflationary gap. The government raises taxes and the central bank raises its policy rate. Which option correctly describes the short-run effects on the price level and the nominal interest rate?
 
 - (A) Price level decreases; interest rate increases
 - (B) Price level decreases; interest rate is uncertain

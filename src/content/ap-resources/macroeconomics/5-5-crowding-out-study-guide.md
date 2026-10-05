@@ -180,7 +180,7 @@ This is a simplified estimate. It treats the fall in investment as a single chan
 <line x1="370" y1="50" x2="370" y2="240" stroke="#1d2b44" stroke-width="2.5" stroke-dasharray="2 5"/>
 <line x1="450" y1="50" x2="450" y2="240" stroke="#1d2b44" stroke-width="2.5" stroke-dasharray="9 5"/>
 <g font-size="14" font-weight="bold" fill="#1d2b44" text-anchor="middle">
-<text x="230" y="42">LRAS₀ (today)</text><text x="352" y="42">LRAS-CO</text><text x="478" y="42">LRAS-N</text>
+<text x="230" y="42">LRAS₀ (today)</text><text x="370" y="42">LRAS-CO</text><text x="452" y="42">LRAS-N</text>
 </g>
 <g font-size="13" fill="#1d2b44" text-anchor="middle">
 <text x="230" y="258">Y₀</text><text x="370" y="258">Y-CO</text><text x="450" y="258">Y-N</text>

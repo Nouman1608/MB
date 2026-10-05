@@ -101,7 +101,7 @@ The **quantity theory of money** adds two assumptions to the equation of exchang
 
 If V and Y do not change, the equation leaves only one way for M × V = P × Y to stay true when M changes: **P must change by the same percentage as M.**
 
-**Quantity theory: in the long run, the growth rate of the money supply determines the inflation rate.**
+**Quantity theory: over many years, the speed at which money grows sets the inflation rate.**
 
 When the economy is at full employment, a change in the money supply has **no effect on real output in the long run**. Economists call this the **long-run neutrality of money**. Money changes nominal values (prices, nominal wages, nominal GDP), not real ones.
 

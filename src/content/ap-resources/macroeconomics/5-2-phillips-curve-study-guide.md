@@ -12,7 +12,7 @@ prerequisites:
   - "Short-run and long-run equilibrium and output gaps in the AD–AS model (Topics 3.4–3.7)"
 prerequisiteResources: ["mb-ap-macro-5.1-study-guide"]
 learningObjectives:
-  - "Draw and label the short-run Phillips curve (SRPC) and the long-run Phillips curve (LRPC), with the LRPC vertical at the natural rate of unemployment"
+  - "Draw and label a downward-sloping SRPC and a vertical LRPC placed at the natural rate of unemployment"
   - "Locate long-run equilibrium, inflationary gaps and recessionary gaps on a Phillips curve graph"
   - "Explain why a demand shock moves the economy along the SRPC and a supply shock shifts the SRPC"
   - "Explain how the economy returns to the LRPC in the long run after a shock"
@@ -110,7 +110,7 @@ In the long run, wages and prices fully adjust, output returns to full-employmen
 
 **(c)** B is to the **left** of the LRPC, so it is an **inflationary gap**. Unemployment is 1 percentage point below the natural rate: 0.01 × 25.0 million = **0.25 million** fewer people unemployed.
 
-**(d)** At B, workers and firms find that prices are rising faster than they expected. When contracts are renewed, nominal wages rise. In the AD–AS model, SRAS shifts left; in the Phillips curve model, the **SRPC shifts right**. Output falls back to full employment and unemployment returns to **5%**. Because people now expect inflation of about 4%, the new curve SRPC₃ crosses the LRPC at **point E: unemployment 5%, inflation 4%**. The short-run gain in employment has gone, and inflation is higher than at the start.
+**(d)** At B, workers and firms find that prices are rising faster than they expected. When contracts are renewed, nominal wages rise. In the AD–AS model, SRAS shifts left; in the Phillips curve model, the **SRPC shifts right**. Output falls back to full employment and unemployment returns to **5%**. Because people now expect inflation of about 4%, the new curve SRPC₂ crosses the LRPC at **point E: unemployment 5%, inflation 4%**. The short-run gain in employment has gone, and inflation is higher than at the start.
 
 **(e)** From the table, unemployment of 6% on SRPC₁ means **inflation of 0%**. The point is to the **right** of the LRPC: a **recessionary gap**.
 
@@ -119,7 +119,7 @@ In the long run, wages and prices fully adjust, output returns to full-employmen
 <figure>
 <svg viewBox="0 0 640 320" role="img" aria-labelledby="pc1-title pc1-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="pc1-title">Valdoria's Phillips curves: a demand shock in the short run and the long run</title>
-<desc id="pc1-desc">A graph with the unemployment rate on the horizontal axis from 2 to 8 percent and the inflation rate on the vertical axis from minus 2 to 8 percent. A vertical line labelled LRPC stands at 5 percent unemployment. A downward-sloping line SRPC1 passes through point B at 4 percent unemployment and 4 percent inflation, point A at 5 percent and 2 percent, and point C at 6 percent and 0 percent. A dashed horizontal reference line marks 0 percent inflation. A second, dashed downward-sloping line SRPC3 lies to the right of SRPC1 and crosses the LRPC at point E, at 5 percent unemployment and 4 percent inflation. An arrow runs from B to E.</desc>
+<desc id="pc1-desc">A graph with the unemployment rate on the horizontal axis from 2 to 8 percent and the inflation rate on the vertical axis from minus 2 to 8 percent. A vertical line labelled LRPC stands at 5 percent unemployment. A downward-sloping line SRPC1 passes through point B at 4 percent unemployment and 4 percent inflation, point A at 5 percent and 2 percent, and point C at 6 percent and 0 percent. A dashed horizontal reference line marks 0 percent inflation. A second, dashed downward-sloping line SRPC2 lies to the right of SRPC1 and crosses the LRPC at point E, at 5 percent unemployment and 4 percent inflation. An arrow runs from B to E.</desc>
 <rect x="0" y="0" width="640" height="320" fill="#ffffff"/>
 <line x1="80" y1="270" x2="600" y2="270" stroke="#1d2b44" stroke-width="2"/>
 <line x1="80" y1="25" x2="80" y2="270" stroke="#1d2b44" stroke-width="2"/>
@@ -139,7 +139,7 @@ In the long run, wages and prices fully adjust, output returns to full-employmen
 <line x1="120" y1="60" x2="520" y2="260" stroke="#1d2b44" stroke-width="2.5"/>
 <text x="524" y="258" font-size="15" font-weight="bold" fill="#1d2b44">SRPC₁</text>
 <line x1="200" y1="60" x2="560" y2="240" stroke="#1d2b44" stroke-width="2.5" stroke-dasharray="9 5"/>
-<text x="564" y="238" font-size="15" font-weight="bold" fill="#1d2b44">SRPC₃</text>
+<text x="564" y="238" font-size="15" font-weight="bold" fill="#1d2b44">SRPC₂</text>
 <g fill="#fdf6e3" stroke="#1d2b44" stroke-width="2">
 <circle cx="320" cy="160" r="5"/><circle cx="240" cy="120" r="5"/><circle cx="400" cy="200" r="5"/><circle cx="320" cy="120" r="5"/>
 </g>
@@ -150,7 +150,7 @@ In the long run, wages and prices fully adjust, output returns to full-employmen
 <line x1="248" y1="120" x2="304" y2="120" stroke="#1d2b44" stroke-width="1.5"/>
 <polygon points="304,115 314,120 304,125" fill="#1d2b44"/>
 </svg>
-<figcaption>Figure 1. Valdoria's Phillips curves (fictional data). The horizontal axis is drawn at −3.5% inflation, so a dashed line marks 0%. A demand shock moves the economy along SRPC₁ from A to B. In the long run the SRPC shifts right to the dashed SRPC₃, and the economy moves from B to E: back at the natural rate, with higher inflation. Point C (6%, 0%) is a recessionary gap.</figcaption>
+<figcaption>Figure 1. Valdoria's Phillips curves (fictional data). The horizontal axis is drawn at −3.5% inflation, so a dashed line marks 0%. A demand shock moves the economy along SRPC₁ from A to B. In the long run the SRPC shifts right to the dashed SRPC₂, and the economy moves from B to E: back at the natural rate, with higher inflation. Point C (6%, 0%) is a recessionary gap.</figcaption>
 </figure>
 
 ## Supply shocks shift the SRPC
@@ -162,7 +162,7 @@ A **supply shock** shifts SRAS, so it changes inflation and unemployment in the 
 
 ## Worked example 2: an adverse supply shock
 
-**Question.** Valdoria is back at A (5%, 2%) on SRPC₁. The world price of oil, a key input, jumps. The new SRPC₂ passes through these points:
+**Question.** Valdoria is back at A (5%, 2%) on SRPC₁. The world price of oil, a key input, jumps. The new SRPC₃ passes through these points:
 
 | Unemployment rate | 4% | 5% | 6% | 7% |
 |---|---|---|---|---|
@@ -173,20 +173,20 @@ A **supply shock** shifts SRAS, so it changes inflation and unemployment in the 
 (c) If policymakers use expansionary demand policy to bring unemployment back to 5%, what inflation rate results in the short run? If they use contractionary demand policy to bring inflation back to 2%, what unemployment rate results?
 (d) What happens in the long run if there is no policy response and oil prices return to normal?
 
-**(a)** **D: unemployment 6%, inflation 4%** on SRPC₂. Compared with A, unemployment is **1 percentage point higher** and inflation is **2 percentage points higher**: stagflation.
+**(a)** **D: unemployment 6%, inflation 4%** on SRPC₃. Compared with A, unemployment is **1 percentage point higher** and inflation is **2 percentage points higher**: stagflation.
 
 **(b)** Both inflation and unemployment rose. On SRPC₁, higher unemployment comes with **lower** inflation, so D cannot lie on SRPC₁. The higher input cost shifted SRAS left, which shifts the SRPC right.
 
-**(c)** Demand policy moves the economy **along SRPC₂**. Expansionary policy to 5% unemployment gives **inflation of 6%**. Contractionary policy to 2% inflation gives **unemployment of 7%**. A supply shock leaves policymakers with a hard choice: fixing one problem makes the other worse in the short run.
+**(c)** Demand policy moves the economy **along SRPC₃**. Expansionary policy to 5% unemployment gives **inflation of 6%**. Contractionary policy to 2% inflation gives **unemployment of 7%**. A supply shock leaves policymakers with a hard choice: fixing one problem makes the other worse in the short run.
 
 **(d)** As the oil price returns to normal (and, with high unemployment, nominal wages stop rising so fast), SRAS shifts back right. The **SRPC shifts back left** to SRPC₁, and the economy returns towards **A** (5%, 2%).
 
-**Check.** At 2% inflation, SRPC₁ is at 5% unemployment and SRPC₂ is at 7%. The whole curve has moved; the LRPC has **not** moved, because the oil shock did not change the natural rate.
+**Check.** At 2% inflation, SRPC₁ is at 5% unemployment and SRPC₃ is at 7%. The whole curve has moved; the LRPC has **not** moved, because the oil shock did not change the natural rate.
 
 <figure>
 <svg viewBox="0 0 640 320" role="img" aria-labelledby="pc2-title pc2-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="pc2-title">An adverse supply shock shifts Valdoria's short-run Phillips curve to the right</title>
-<desc id="pc2-desc">A graph with the unemployment rate on the horizontal axis from 2 to 8 percent and the inflation rate on the vertical axis from minus 2 to 8 percent. A vertical LRPC stands at 5 percent unemployment. SRPC1 passes through point A at 5 percent unemployment and 2 percent inflation. A dashed curve SRPC2 lies to the right and passes through point D at 6 percent unemployment and 4 percent inflation, point F at 5 percent and 6 percent, and point G at 7 percent and 2 percent. An arrow runs from A to D.</desc>
+<desc id="pc2-desc">A graph with the unemployment rate on the horizontal axis from 2 to 8 percent and the inflation rate on the vertical axis from minus 2 to 8 percent. A vertical LRPC stands at 5 percent unemployment. SRPC1 passes through point A at 5 percent unemployment and 2 percent inflation. A dashed curve SRPC3 lies to the right and passes through point D at 6 percent unemployment and 4 percent inflation, point F at 5 percent and 6 percent, and point G at 7 percent and 2 percent. An arrow runs from A to D.</desc>
 <rect x="0" y="0" width="640" height="320" fill="#ffffff"/>
 <line x1="80" y1="270" x2="600" y2="270" stroke="#1d2b44" stroke-width="2"/>
 <line x1="80" y1="25" x2="80" y2="270" stroke="#1d2b44" stroke-width="2"/>
@@ -206,7 +206,7 @@ A **supply shock** shifts SRAS, so it changes inflation and unemployment in the 
 <line x1="120" y1="60" x2="520" y2="260" stroke="#1d2b44" stroke-width="2.5"/>
 <text x="524" y="258" font-size="15" font-weight="bold" fill="#1d2b44">SRPC₁</text>
 <line x1="280" y1="60" x2="560" y2="200" stroke="#1d2b44" stroke-width="2.5" stroke-dasharray="9 5"/>
-<text x="564" y="204" font-size="15" font-weight="bold" fill="#1d2b44">SRPC₂</text>
+<text x="564" y="204" font-size="15" font-weight="bold" fill="#1d2b44">SRPC₃</text>
 <g fill="#fdf6e3" stroke="#1d2b44" stroke-width="2">
 <circle cx="320" cy="160" r="5"/><circle cx="400" cy="120" r="5"/><circle cx="320" cy="80" r="5"/><circle cx="480" cy="160" r="5"/>
 </g>
@@ -217,7 +217,7 @@ A **supply shock** shifts SRAS, so it changes inflation and unemployment in the 
 <line x1="326" y1="157" x2="388" y2="126" stroke="#1d2b44" stroke-width="1.5"/>
 <polygon points="384,121 396,122 389,131" fill="#1d2b44"/>
 </svg>
-<figcaption>Figure 2. An adverse supply shock (fictional data; as in Figure 1, the dashed horizontal line marks 0% inflation). The SRPC shifts right from SRPC₁ to the dashed SRPC₂ and the economy moves from A to D (6%, 4%). On SRPC₂, demand policy can reach F (5%, 6%) or G (7%, 2%), but not A. The LRPC does not move.</figcaption>
+<figcaption>Figure 2. An adverse supply shock (fictional data; as in Figure 1, the dashed horizontal line marks 0% inflation). The SRPC shifts right from SRPC₁ to the dashed SRPC₃ and the economy moves from A to D (6%, 4%). On SRPC₃, demand policy can reach F (5%, 6%) or G (7%, 2%), but not A. The LRPC does not move.</figcaption>
 </figure>
 
 ## What shifts the LRPC

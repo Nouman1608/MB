@@ -135,7 +135,7 @@ In real published statistics the recorded credits and debits never match exactly
 <g font-size="14" fill="#1d2b44" text-anchor="middle" font-weight="bold">
 <text x="340" y="40">Balance of payments (BOP)</text>
 <text x="170" y="115">Current account (CA)</text>
-<text x="510" y="115">Capital and financial account (CFA)</text>
+<text x="510" y="115" font-size="13">Capital and financial account (CFA)</text>
 </g>
 <g font-size="13" fill="#1d2b44" text-anchor="middle">
 <text x="185" y="178">Net exports (balance of trade)</text>

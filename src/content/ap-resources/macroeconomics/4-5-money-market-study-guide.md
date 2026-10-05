@@ -52,7 +52,7 @@ The **money market** brings together the people who want to **hold** money and t
 
 Every market has a price. In the money market the "price" is the **nominal interest rate**.
 
-Why? Holding money has a cost. Cash in your wallet and money in a current account earn little or no interest. If you held a bond instead, you would earn interest. So the nominal interest rate is the **opportunity cost of holding money**: it is what you give up for the convenience of having money ready to spend.
+Why? Holding money has a cost. Cash in your wallet and money in a checking (current) account earn little or no interest. If you held a bond instead, you would earn interest. So the nominal interest rate is the **opportunity cost of holding money**: it is what you give up for the convenience of having money ready to spend.
 
 Key definitions:
 

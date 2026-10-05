@@ -33,7 +33,7 @@ keyPoints:
   - "Deficit-financed expansionary fiscal policy raises the real interest rate, which increases demand for the currency, so it appreciates."
 faqs:
   - question: "Should I shift demand or supply when interest rates change?"
-    answer: "Either is accepted in most explanations if your reasoning is right. A higher Valdorian interest rate raises foreign demand for valdas and also cuts Valdorians' supply of valdas for foreign assets. Both make the valda appreciate. Showing the demand shift alone is the usual answer."
+    answer: "Either shift gives the right direction if your reasoning is right. A higher Valdorian interest rate raises foreign demand for valdas and also cuts Valdorians' supply of valdas for foreign assets. Both make the valda appreciate. Showing the demand shift alone is the usual answer."
   - question: "Does this topic cover the effect on net exports and aggregate demand?"
     answer: "No. Here you find the change in the exchange rate. How appreciation or depreciation then changes net exports and aggregate demand is Topic 6.5."
 version: "1.0"

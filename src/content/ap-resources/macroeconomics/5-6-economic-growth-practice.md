@@ -157,7 +157,7 @@ Valdoria produces capital goods and consumer goods. It is at full employment at 
 
 **(c)** Price level on the vertical axis, real GDP on the horizontal axis. LRAS₁ vertical at Yf₁ and LRAS₂ vertical at a higher Yf₂, to the right.
 
-**(d)** Producing more capital goods adds to the stock of physical capital, so each worker has more capital per worker. Each worker can produce more output, so labour productivity rises. Higher productivity raises full-employment output, which shifts the PPC outward and LRAS to the right.
+**(d)** Producing more capital goods adds to the stock of physical capital, so physical capital per worker rises. Each worker can produce more output, so labour productivity rises. Higher productivity raises full-employment output, which shifts the PPC outward and LRAS to the right.
 
 | Point | What earns it |
 |---|---|

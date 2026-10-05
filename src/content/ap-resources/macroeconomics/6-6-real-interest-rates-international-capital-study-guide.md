@@ -164,7 +164,7 @@ A difference in real interest rates can open up for several reasons. Topic 6.4 t
 
 **(a)** Before: 3% − 2% = **1%**. After: 5% − 2% = **3%**.
 
-**(b)** Before the change Valdoria's real rate (1%) was below Kestria's (2%), so funds tended to flow out, which is why the CFA showed an outflow. After it, Valdoria's real rate (3%) is above Kestria's (2%), so **net capital inflow rises**. Kestrians demand more valdas, so the **valda appreciates**.
+**(b)** Before the change Valdoria's real rate (1%) was below Kestria's (2%), so funds tended to flow out, consistent with the net outflow shown in the CFA. After it, Valdoria's real rate (3%) is above Kestria's (2%), so **net capital inflow rises**. Kestrians demand more valdas, so the **valda appreciates**.
 
 **(c)** CA = −CFA. Before: CA = **+VD 5 billion**. After: CA = **−VD 7 billion**. The current account balance falls by VD 12 billion.
 

@@ -161,7 +161,7 @@ Valdoria is in a recession. Its government increases purchases of goods and serv
 | 1 | Lower investment, a component of AD, offsets part of the rise in government purchases |
 | 1 | Lower investment → less physical capital → slower growth (LRAS shifts right by less) |
 
-A graph with "interest rate" on the axis is accepted only in this loanable funds context; a graph labelled "money" or "nominal interest rate" does not earn the first point. Shifting both curves loses the second point.
+Accept "interest rate" or "r" on the vertical axis of a loanable funds graph. A money market graph, or an axis labelled "nominal interest rate", does not earn the first point. Shifting both curves loses the second point.
 </details>
 
 ## Question 7 (constructed response · stretch)

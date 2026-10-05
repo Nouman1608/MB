@@ -17,7 +17,7 @@ calculator: "four-function"
 related: ["mb-ap-macro-5.7-study-guide", "mb-ap-macro-5.7-practice", "mb-ap-macro-5.7-checklist"]
 next: "mb-ap-macro-5.7-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-macroeconomics"]
+sources: ["ced-macroeconomics", "page-macroeconomics", "clar-macroeconomics"]
 keyPoints:
   - "Real GDP per capita = output per worker × employed share of the population."
   - "Growth policy shifts LRAS right and the PPC out; stabilization policy mainly shifts AD."

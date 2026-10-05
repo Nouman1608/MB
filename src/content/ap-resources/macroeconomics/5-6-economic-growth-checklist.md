@@ -30,7 +30,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 ## Understanding
 
 - I can define economic growth as a long-run rise in capacity and say why it is measured with real GDP per capita. *(Guide: "What economic growth means", "Measuring growth"; Practice Q1)*
-- I can explain the aggregate production function and why output rises with employment, other things equal. *(Guide: "The aggregate production function")*
+- I can explain the aggregate production function and why output rises with employment, other things equal. *(Guide: "The aggregate production function", Worked example 2(c))*
 - I can define labour productivity as output per employed worker and name its three determinants. *(Guide: "Labour productivity"; Practice Q3)*
 
 ## Calculation

@@ -14,7 +14,7 @@ difficulty: "core"
 related: ["mb-ap-macro-5.7-study-guide", "mb-ap-macro-5.7-practice", "mb-ap-macro-5.7-revision-notes"]
 next: "mb-ap-macro-6.1-study-guide"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-macroeconomics"]
+sources: ["ced-macroeconomics", "page-macroeconomics", "clar-macroeconomics"]
 keyPoints:
   - "Tick a statement only when you can do it without notes."
   - "Each statement names the guide section or practice question that tests it."

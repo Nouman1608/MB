@@ -23,7 +23,7 @@ calculatorNote: "Read values from the tables; give rates to 1 decimal place and 
 related: ["mb-ap-macro-5.2-study-guide", "mb-ap-macro-5.2-revision-notes", "mb-ap-macro-5.2-checklist"]
 next: "mb-ap-macro-5.2-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-macroeconomics", "page-macroeconomics", "exam-macroeconomics"]
+sources: ["ced-macroeconomics", "page-macroeconomics", "clar-macroeconomics"]
 keyPoints:
   - "Questions 1–4 are multiple choice; 5–7 need written working or graphs."
   - "Decide first: is it a demand shock (move along) or a supply shock (shift)?"
