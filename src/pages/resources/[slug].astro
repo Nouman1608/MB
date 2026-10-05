@@ -591,6 +591,16 @@ const jsonLd = [articleNode({
       };
       set(crumbs[2], active.dataset.crumbCourseLabel, active.dataset.crumbCourseHref);
       set(crumbs[3], active.dataset.crumbTopicLabel, active.dataset.crumbTopicHref);
+      // D-396: the revision-email box pre-ticks the same course.
+      document.querySelectorAll<HTMLElement>('[data-subscribe-box]').forEach((box) => {
+        box.dataset.presetCourse = id;
+        const q = box.querySelector<HTMLSelectElement>('select[name="qualification"]');
+        const qs = id.split('/')[1];
+        if (q && [...q.options].some((o) => o.value === qs)) {
+          q.value = qs;
+          q.dispatchEvent(new Event('change'));
+        }
+      });
     }
   }
 </script>

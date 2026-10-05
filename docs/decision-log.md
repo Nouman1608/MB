@@ -15405,3 +15405,18 @@ Three more problems turned up:
 - The newsletter box on a shared 0620/5070 page is still preset to the primary course.
 - `resourcesForCombination()` does not compare syllabus codes. No two published courses share board, qualification and subject today, so nothing leaks, but adding it would need care for Pearson IAL unit codes.
 - Playwright is not a project dependency, so the journey script is not in CI.
+
+## D-396 - D-395 follow-ups: email box follows the course, syllabus-code rule, browser journeys in CI (2026-10-06)
+
+**Owner instruction (6 Oct 2026, 02:59 PKT):** "fix all", meaning the three open items left by D-395.
+
+- **Revision-email box.** On a resource page shared by two courses (e.g. 0620 and 5070), the box now switches its qualification and pre-ticked subject to the student's chosen course, together with the course bar and the links. It reads its preset when it draws, and only the latest draw is kept, so a subject is never listed twice.
+- **Course rule.** `resourcesForCombination()` now also requires a resource's declared syllabus code(s) to match one of the course's codes:
+  - The course's codes are every Syllabus record for the combination, plus its assessment-record codes, which cover an announced replacement specification.
+  - Codes are compared without a "/01"-style component suffix or an IB edition year.
+  - A Pearson IAL unit code (W..) counts as part of the qualification with the same subject letters (X../Y..).
+  - The pure helpers are in `src/utils/academic/syllabus-codes.ts`, with a unit test.
+  - Before and after the change, every one of the 160 course pages lists exactly the same resources, so this is a guard against future mixing and changes nothing today.
+  - `sameCourse()` now compares the same normalised codes.
+- **CI.** The CI gate now also runs `npm run test:tools` (119 tests), and the D-395 browser journeys run in Chromium against the built site (Playwright is installed for that step only).
+- **Tests (6 Oct 2026):** build, `audit:all` (including `audit:course-isolation`), test:api 88, test:tools 119, practice-analytics 32, negative suite 45, cross-board regression OK, astro check 0 errors, and the browser journeys 11/11, including the new email-box check.
