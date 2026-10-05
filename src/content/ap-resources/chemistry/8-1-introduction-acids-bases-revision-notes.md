@@ -63,7 +63,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 1. **"Neutral = pH 7" at every temperature.** Check the temperature first.
 2. **Thinking acidic solutions have no OH⁻.** Find it with K_w.
 3. **Reading the scale backwards.** Lower pH means higher [H₃O⁺].
-4. **Treating pH as linear.** pH 3 is 100 times more acidic than pH 5, not "a bit more".
+4. **Treating pH as linear.** A solution at pH 3 has 100 times the [H₃O⁺] of one at pH 5, not "a bit more".
 5. **Using ln instead of log.**
 6. **Significant figures.** Decimal places in pH = significant figures in [H₃O⁺].
 

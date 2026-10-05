@@ -32,7 +32,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can define buffer capacity and explain how it differs from buffer pH. *(Guide: "What buffer capacity means"; Practice Q1)*
 - I can write the reaction that uses up added strong acid, and the one that uses up added strong base, in a buffer. *(Guide: "What buffer capacity means"; Practice Q5(b))*
 - I can explain why raising both concentrations at a fixed ratio keeps the pH the same but increases the capacity. *(Guide: "Same ratio, more concentrated"; Practice Q1, Q7(a))*
-- I can explain why diluting a buffer keeps its pH but lowers its capacity. *(Practice Q6(d))*
+- I can explain why diluting a buffer keeps its pH but lowers its capacity per litre (or per sample). *(Practice Q6(d))*
 
 ## Calculation
 
@@ -43,7 +43,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 ## Reasoning
 
 - I can predict whether a buffer with unequal amounts resists added acid or added base better. *(Guide: "Unequal amounts"; Practice Q4, Q7(c))*
-- I can compare buffers of different volumes by converting to moles first. *(Guide: "How to compare capacities"; Practice Q3)*
+- I can convert volumes and concentrations to moles before judging capacity, including for buffers of different volumes. *(Guide: "How to compare capacities"; Practice Q3)*
 - I can explain how an error in a titrant concentration, a dilution or a pH-meter offset affects measured pH and measured capacity. *(Guide: Worked example 3; Practice Q6)*
 - I can evaluate a claim that two buffers with the same pH are equally effective. *(Practice Q7(a))*
 

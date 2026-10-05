@@ -29,7 +29,7 @@ keyPoints:
   - "A salt's solubility depends on pH when one of its ions is a weak base, a weak acid or OH⁻."
   - "Acid removes a basic anion (such as F⁻, CO₃²⁻, PO₄³⁻) or OH⁻ by turning it into its conjugate acid; Q falls below K_sp and more solid dissolves."
   - "Base removes a weakly acidic cation (such as a BH⁺ ion) by turning it into its conjugate base, so that salt dissolves more in base."
-  - "Salts of the conjugate bases of strong acids (Cl⁻, Br⁻, I⁻) are not pH-sensitive in this course's model."
+  - "Salts such as AgCl, AgBr and AgI, whose anion comes from a strong acid and whose cation is not acidic, are not pH-sensitive in this course's model."
   - "K_sp does not change with pH; the solubility does. Computations of solubility versus pH are not assessed."
 faqs:
   - question: "Why does silver chloride not dissolve in nitric acid?"
@@ -170,7 +170,7 @@ The CO₂ bubbles out of the solution, so the carbonate cannot come back. That i
 | R | 0.018 g | 0.018 g | 0.181 g |
 
 **(b)** *P:* the three values differ by only 0.001 g, which is the precision of the balance. There is no real change with pH, so **neither** ion of P is acidic or basic.
-*Q:* about ten times as much dissolves at pH 3 as at pH 7, and pH 7 and pH 11 give the same result. Acid removes one of Q's ions, so Q has a **basic anion**. Because nothing changes between pH 7 and 11, the anion is a base whose conjugate acid has a pK_a well below 7.
+*Q:* about ten times as much dissolves at pH 3 as at pH 7, and pH 7 and pH 11 give the same result. Acid removes one of Q's ions, so Q has a **basic anion**. Because nothing changes between pH 7 and 11, the anion is a base whose conjugate acid has a pK_a below 7.
 *R:* the mass dissolved is unchanged from pH 3 to pH 7 but about ten times larger at pH 11. Base removes one of R's ions, so R has a **weakly acidic cation**.
 
 **(c)** Dissolving Q uses up H₃O⁺, and dissolving R uses up OH⁻. In plain acid or base, the pH would drift as the solid dissolved. A buffer with enough capacity ([Topic 8.10](/advanced-course-resources/chemistry/8-10-buffer-capacity-study-guide/)) keeps the pH nearly constant, so each result belongs to one pH value. A common ion from the buffer would lower the solubility (Topic 7.12) and hide the pH effect.

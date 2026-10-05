@@ -29,7 +29,7 @@ sources: ["ced-chemistry", "page-chemistry"]
 keyPoints:
   - "An acid is strong when its conjugate base is very stable (very weak). Ask: how well can A⁻ hold the negative charge?"
   - "Acidic hydrogens are usually bonded to an electronegative atom such as O or a halogen; C–H hydrogens are not acidic in water."
-  - "Strong acids to know: HCl, HBr, HI, HClO₄, H₂SO₄, HNO₃. Strong bases: group 1 and group 2 hydroxides."
+  - "Strong acids to know: HCl, HBr, HI, HClO₄, H₂SO₄, HNO₃. Strong bases: group 1 and heavier group 2 hydroxides."
   - "Electronegative atoms near the acidic O–H pull electron density away (inductive effect) and make the acid stronger."
   - "Resonance that spreads the negative charge over several atoms stabilises A⁻: that is why carboxylic acids are acids and alcohols barely are."
 faqs:
@@ -150,7 +150,7 @@ Compare acetic acid with ethanol, CH₃CH₂OH. Both have an O–H group, but ac
 <marker id="larr" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M10 0 L0 5 L10 10 z" fill="#1d2b44"/></marker>
 </defs>
 <text x="215" y="215" text-anchor="middle" font-size="13" fill="#1d2b44">acetate: charge shared by two O atoms</text>
-<text x="545" y="215" text-anchor="middle" font-size="13" fill="#1d2b44">ethoxide: charge on one O atom</text>
+<text x="543" y="215" text-anchor="middle" font-size="12" fill="#1d2b44">ethoxide: charge on one O atom</text>
 </svg>
 <figcaption>Figure 1. The two resonance structures of acetate are equivalent, so the real ion has the negative charge spread equally over both oxygen atoms. Ethoxide has no such resonance; its whole charge sits on one oxygen atom, making it far less stable and a much stronger base.</figcaption>
 </figure>

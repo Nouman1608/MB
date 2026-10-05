@@ -56,7 +56,7 @@ This topic gives you the numbers. Chemists have measured the entropy of thousand
 
 Enthalpy has no natural zero, so in Topic 6.8 you measured it **relative** to the elements. Entropy is different: it has a true starting point.
 
-- **Background (the third law of thermodynamics):** a perfect crystal at absolute zero, 0 K, has zero entropy. Its particles are perfectly ordered and have no energy to spread out.
+- **Background (the third law of thermodynamics):** a perfect crystal at absolute zero, 0 K, has zero entropy. Its particles are perfectly ordered and all in their lowest energy state, so there is only one way to arrange them and their energy.
 - As a substance is warmed from 0 K, its energy becomes more dispersed, and it melts and boils on the way. Each step adds entropy.
 - So every substance at 298 K has a **positive absolute entropy**. Because it is measured from a true zero, it is called *absolute*.
 
@@ -97,7 +97,7 @@ What the chart shows, and how it links to Topic 9.1:
 
 - **Gases have much larger S° values than liquids and solids.** Compare H₂O(l), 70.0, with H₂O(g), 188.8. This is why moles of gas dominate ΔS for reactions.
 - **For one substance, S°(gas) > S°(liquid) > S°(solid).** Matter is more dispersed in each later phase.
-- *Background:* among substances in the same phase, molecules with more atoms usually have larger S°. Propane, C₃H₈, has more ways to store and spread out energy (more bonds that can vibrate and rotate) than H₂.
+- *Background:* among substances in the same phase, molecules with more atoms usually have larger S°. Propane, C₃H₈, has more ways to store and spread out energy than H₂: it has more atoms and bonds, so more ways to vibrate, bend and rotate.
 - *Background:* hard, strongly bonded solids such as graphite have very low S°.
 
 ## Calculating ΔS° for a process

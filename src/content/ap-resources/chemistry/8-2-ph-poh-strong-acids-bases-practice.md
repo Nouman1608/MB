@@ -88,7 +88,7 @@ Which row correctly gives the concentrations of the species in 0.10 M nitric aci
 
 **Answer: (C).** HNO₃ ionises completely, so almost no HNO₃ molecules remain, and [H₃O⁺] = [NO₃⁻] = 0.10 M. [OH⁻] = K_w ÷ 0.10 = 1.0 × 10⁻¹³ M.
 
-- (A) keeps all the HNO₃ as molecules as well as making the ions. That counts the acid twice and describes a weak acid that has not ionised at all.
+- (A) keeps all the HNO₃ as molecules as well as listing the ions, which counts the acid twice. In a strong acid solution, [HNO₃] ≈ 0.
 - (B) uses the [OH⁻] of pure water. The added acid shifts the water equilibrium left, lowering [OH⁻].
 - (D) says there is no OH⁻. K_w means a small amount is always present.
 </details>

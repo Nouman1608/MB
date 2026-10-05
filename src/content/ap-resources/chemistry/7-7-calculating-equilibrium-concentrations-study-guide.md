@@ -65,8 +65,8 @@ The reaction quotient Q has exactly the same form as K, but you fill it with the
 
 | Comparison | What happens next | Why |
 |---|---|---|
-| **Q < K** | Net **forward** reaction: reactants are used up, products form | Q has too small a numerator, so products must increase until Q = K |
-| **Q > K** | Net **reverse** reaction: products are used up, reactants form | Q has too large a numerator, so products must decrease until Q = K |
+| **Q < K** | Net **forward** reaction: reactants are used up, products form | The ratio of products to reactants is too small, so products must increase (and reactants decrease) until Q = K |
+| **Q > K** | Net **reverse** reaction: products are used up, reactants form | The ratio of products to reactants is too large, so products must decrease (and reactants increase) until Q = K |
 | **Q = K** | No net change: the mixture is already at equilibrium | Forward and reverse rates are already equal |
 
 Two special cases come up often:
@@ -169,7 +169,7 @@ When you sketch a graph like this, check four things:
 
 4. **Substitute.** Kc = (2x)² / (0.500 − x) = 4.0 × 10⁻⁶.
 5. **Small-x shortcut.** K is tiny, so very little A₂ splits (Topic 7.5). Assume x is so small that 0.500 − x ≈ 0.500. Then 4x² = 4.0 × 10⁻⁶ × 0.500 = 2.0 × 10⁻⁶, so x² = 5.0 × 10⁻⁷ and x = 7.07 × 10⁻⁴ mol L⁻¹.
-6. **Answer.** [A] = 2x = **1.4 × 10⁻³ mol L⁻¹** (2 significant figures, matching K). [A₂] stays at 0.499 mol L⁻¹.
+6. **Answer.** [A] = 2x = **1.4 × 10⁻³ mol L⁻¹** (2 significant figures, matching K). [A₂] = 0.500 − 0.000707 = 0.499 mol L⁻¹, almost unchanged.
 
 **Check the shortcut.** x is 7.07 × 10⁻⁴ ÷ 0.500 × 100 = 0.14% of the starting value, far below 5%. Solving the full quadratic gives x = 7.066 × 10⁻⁴, a difference of under 0.1%. The shortcut is safe here. If x had come out larger than about 5% of the starting value, you would need to solve the quadratic instead.
 

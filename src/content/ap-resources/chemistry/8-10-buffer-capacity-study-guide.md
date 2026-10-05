@@ -29,7 +29,7 @@ sources: ["ced-chemistry", "page-chemistry"]
 keyPoints:
   - "Buffer capacity is how much strong acid or strong base a buffer can neutralise before its pH starts to change sharply."
   - "The conjugate base A⁻ uses up added acid; the weak acid HA uses up added base. Each one can neutralise at most its own number of moles."
-  - "Same ratio, higher concentrations: same pH, greater capacity. Diluting a buffer keeps its pH but lowers its capacity."
+  - "Same ratio, higher concentrations: same pH, greater capacity. Diluting a buffer keeps its pH but lowers its capacity per litre."
   - "More HA than A⁻: greater capacity for added base. More A⁻ than HA: greater capacity for added acid."
 faqs:
   - question: "Is buffer capacity the same as buffer pH?"
@@ -49,7 +49,7 @@ author: "marlbridge-academic-team"
 
 In [Topic 8.9](/advanced-course-resources/chemistry/8-9-henderson-hasselbalch-equation-study-guide/) you found the pH of a buffer from its pKa and the ratio [A⁻]/[HA]. That tells you **where** the pH sits. It does not tell you **how much** acid or base the buffer can take before it stops working. That second idea is **buffer capacity**.
 
-**Buffer capacity** is the amount of strong acid or strong base a buffer can neutralise while its pH stays nearly constant. Each component handles one direction:
+**Buffer capacity** is the amount of strong acid or strong base a buffer can neutralise while its pH stays nearly constant. To compare buffers fairly, compare the same volume of each (for example, one litre). Each component handles one direction:
 
 - Added acid is used up by the conjugate base: A⁻ + H₃O⁺ → HA + H₂O
 - Added base is used up by the weak acid: HA + OH⁻ → A⁻ + H₂O
@@ -72,7 +72,7 @@ Compare two acetic acid/acetate buffers, each 1.00 L:
 
 The ratio is the same, so the Henderson-Hasselbalch equation gives the same pH. But P holds ten times as many moles of each component, so its capacity is ten times larger.
 
-This is the first big idea of the topic: **raising the concentrations of both components, while keeping their ratio fixed, leaves the pH unchanged and increases the capacity.** The reverse is also true. Diluting a buffer with water keeps the ratio, and so the pH, but each millilitre now holds fewer moles to react with added acid or base, so its capacity falls.
+This is the first big idea of the topic: **raising the concentrations of both components, while keeping their ratio fixed, leaves the pH unchanged and increases the capacity.** The reverse is also true. Diluting a buffer with water keeps the ratio, and so the pH, but each millilitre now holds fewer moles to react with added acid or base, so its capacity per litre (or per sample) falls.
 
 ## Unequal amounts: capacity is lopsided
 
@@ -183,7 +183,7 @@ A common way to compare buffers is to titrate a measured sample with a standard 
 ## Common misconceptions
 
 - **"A more concentrated buffer has a lower pH."** Not if the ratio is the same. pH depends on the ratio; capacity depends on the amounts.
-- **"Diluting a buffer does not change it at all."** The pH stays the same, but the capacity falls.
+- **"Diluting a buffer does not change it at all."** The pH stays the same, but the capacity of each litre (or each sample) falls.
 - **"The total amount decides capacity in both directions."** For added acid, only the conjugate base counts; for added base, only the weak acid counts.
 - **Mixing up the directions.** A buffer rich in HA is good against added **base**, not added acid.
 - **Comparing concentrations when the volumes differ.** Capacity is about moles. 100 mL of 0.50 M holds the same moles as 1.00 L of 0.050 M.

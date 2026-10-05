@@ -200,7 +200,7 @@ You cannot rank them by K_sp alone, because the expressions have different forms
 
 **Answer.** Most soluble QY₂ > QX > Q₃W₂ least soluble.
 
-**Interpretation.** QY₂ has a K_sp almost 100 times *smaller* than QX, yet it is about 4 times *more* soluble. A small number raised to a higher power gives a much smaller product, so K_sp values only compare directly when the salts release ions in the same ratio. For two 1:1 salts, the smaller K_sp is always the less soluble salt; for a 1:1 salt against a 1:2 salt, you must calculate.
+**Interpretation.** QY₂ has a K_sp about 60 times *smaller* than QX, yet it is about 4.5 times *more* soluble. A small number raised to a higher power gives a much smaller product, so K_sp values only compare directly when the salts release ions in the same ratio. For two 1:1 salts, the smaller K_sp is always the less soluble salt; for a 1:1 salt against a 1:2 salt, you must calculate.
 
 ## Connecting K_sp to the solubility rules
 

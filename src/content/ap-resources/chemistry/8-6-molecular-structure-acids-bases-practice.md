@@ -67,7 +67,7 @@ Phosphorous acid has the formula H₃PO₃. Its structure has a central phosphor
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** Only hydrogens bonded to oxygen are acidic. H₃PO₃ has two O–H groups, so it is diprotic. The H bonded directly to P is not acidic: the P–H bond is barely polar and a negative charge on P would not be stabilised.
+**Answer: (C).** In this molecule, only the hydrogens bonded to oxygen are acidic. H₃PO₃ has two O–H groups, so it is diprotic. The H bonded directly to P is not acidic: the P–H bond is barely polar and a negative charge on P would not be stabilised.
 
 - (A) ignores the O–H groups, which behave like those in other oxoacids.
 - (B) counts only one O–H group.

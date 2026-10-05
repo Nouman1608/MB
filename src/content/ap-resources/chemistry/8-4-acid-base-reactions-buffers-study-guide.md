@@ -81,7 +81,7 @@ So every mixing problem has the same shape. First do the **stoichiometry** in mo
 <text x="258" y="196" font-weight="600">Weak acid + its</text>
 <text x="258" y="212" font-weight="600">conjugate base left</text>
 <text x="258" y="228">(or B + HB⁺)</text>
-<text x="258" y="252">Buffer: pH from pKₐ</text>
+<text x="258" y="252">Buffer: pH from pK_a</text>
 <text x="258" y="268">and the ratio</text>
 <rect x="348" y="176" width="160" height="112" rx="6" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <text x="428" y="196" font-weight="600">Only A⁻ left</text>
@@ -97,7 +97,7 @@ So every mixing problem has the same shape. First do the **stoichiometry** in mo
 <text x="598" y="268">pH below 7</text>
 </g>
 </svg>
-<figcaption>Figure 1. The "react first" routine. Steps 1 and 2 are stoichiometry; step 3 picks the equilibrium calculation. The buffer box has a dashed border because it is the only outcome with two members of a conjugate pair present in similar amounts.</figcaption>
+<figcaption>Figure 1. The "react first" routine. Steps 1 and 2 are stoichiometry; step 3 picks the equilibrium calculation. The buffer box has a dashed border because it is the only outcome in which both members of a conjugate pair are left in solution.</figcaption>
 </figure>
 
 Two habits make the stoichiometry safe. Work in **moles** (n = c × V, with V in litres), not in concentrations, because mixing changes the volume. And when you need a concentration at the end, divide by the **total** volume.

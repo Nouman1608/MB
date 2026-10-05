@@ -36,7 +36,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 ## Calculation
 
-- I can calculate pH and pOH from [H₃O⁺] or [OH⁻], and give the pH to the right number of decimal places. *(Guide: Figure 1; Practice Q5)*
+- I can calculate pH and pOH from [H₃O⁺] or [OH⁻], and give the pH to the right number of decimal places. *(Guide: "pH and pOH: a log scale for tiny numbers"; Practice Q3, Q6(a))*
 - I can convert a pH or pOH back into a concentration. *(Guide: Worked example 1; Practice Q5)*
 - I can find [OH⁻] from [H₃O⁺] (or the reverse) using K_w. *(Practice Q1, Q7(a))*
 - I can use pH + pOH = pK_w, including at temperatures other than 25 °C. *(Guide: Worked example 2; Practice Q3)*

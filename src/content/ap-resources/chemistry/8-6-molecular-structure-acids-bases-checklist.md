@@ -31,7 +31,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 - I can explain that acid strength depends on how stable the conjugate base is with its negative charge. *(Guide: "The one question to ask")*
 - I can name the six common strong acids and the strong bases (group 1 and heavier group 2 hydroxides). *(Guide: "The common strong acids and strong bases"; Practice Q1)*
-- I can recognise carboxylic acids as weak acids, and nitrogen bases and carboxylate ions as weak bases. *(Guide; Practice Q4)*
+- I can recognise carboxylic acids as weak acids, and nitrogen bases and carboxylate ions as weak bases. *(Guide: "The common strong acids and strong bases"; Practice Q4)*
 - I can explain why a stronger acid has a weaker conjugate base. *(Guide: Worked example 2; Practice Q6)*
 
 ## Skills

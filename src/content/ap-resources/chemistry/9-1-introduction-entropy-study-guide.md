@@ -113,7 +113,7 @@ For a gas at constant temperature, **a larger volume means higher entropy**. If 
 
 The reverse is also true: compressing a gas into a smaller volume at constant temperature gives ΔS < 0.
 
-*Background: at a fixed temperature, a lower pressure of the same amount of gas means a larger volume, so a gas at lower pressure has higher entropy. This is why tables of standard entropies always state the pressure (1 bar).*
+*Background: at a fixed temperature, a lower pressure of the same amount of gas means a larger volume, so a gas at lower pressure has higher entropy. This is why tables of standard entropies state a standard pressure, usually 1 bar.*
 
 ### Matter dispersal in reactions: count the moles of gas
 

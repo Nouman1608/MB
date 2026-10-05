@@ -34,7 +34,7 @@ keyPoints:
   - "Strong means fully ionised, not concentrated: a dilute strong acid is still strong."
 faqs:
   - question: "Is H₂SO₄ diprotic, so should I double its concentration?"
-    answer: "Only its first proton ionises completely. The ion left behind, HSO₄⁻, is a weak acid, so the true [H₃O⁺] is a little more than the H₂SO₄ concentration but less than double it. In this topic, take [H₃O⁺] as equal to the H₂SO₄ concentration unless a question tells you otherwise."
+    answer: "Only its first proton ionises completely. The ion left behind, HSO₄⁻, is a weak acid, so the true [H₃O⁺] is more than the H₂SO₄ concentration but less than double it (how much more depends on the concentration, and the extra share is largest in dilute solutions). In this topic, take [H₃O⁺] as equal to the H₂SO₄ concentration unless a question tells you otherwise."
   - question: "Is a strong acid always more dangerous than a weak acid?"
     answer: "Not necessarily. Hazard depends heavily on concentration. A very dilute strong acid can be milder than a concentrated weak acid. 'Strong' describes how completely the acid ionises, not how much of it there is."
 version: "1.0"
@@ -67,9 +67,9 @@ The six strong acids to know are:
 | nitric acid | HNO₃ | NO₃⁻ |
 | sulfuric acid | H₂SO₄ | HSO₄⁻ |
 
-Sulfuric acid needs one comment. Its **first** proton ionises completely. The HSO₄⁻ ion left behind is itself a weak acid, so it gives up only part of its second proton. In this topic, treat [H₃O⁺] as equal to the H₂SO₄ concentration; just remember that the true value is slightly higher. Most calculations use the five monoprotic acids for this reason.
+Sulfuric acid needs one comment. Its **first** proton ionises completely. The HSO₄⁻ ion left behind is itself a weak acid, so it gives up only part of its second proton. In this topic, treat [H₃O⁺] as equal to the H₂SO₄ concentration unless told otherwise; just remember that the true value is higher, by an amount that depends on the concentration. Most calculations use the five monoprotic acids for this reason.
 
-Any acid not on the list, such as HF or ethanoic acid, should be treated as **weak** (Topic 8.3).
+In this course, treat an acid that is not on the list, such as HF or ethanoic acid, as **weak** unless a question says otherwise (Topic 8.3).
 
 ### Strong bases
 

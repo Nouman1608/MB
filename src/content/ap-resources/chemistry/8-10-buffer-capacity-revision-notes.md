@@ -44,7 +44,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 | Change to the buffer | pH | Capacity |
 |---|---|---|
 | Both concentrations ×10, same ratio | same | ×10 (both directions) |
-| Dilute with water | same | lower |
+| Dilute with water | same | lower per litre |
 | More HA than A⁻ | below pKa | greater for added **base** |
 | More A⁻ than HA | above pKa | greater for added **acid** |
 | Equal HA and A⁻ | = pKa | equal both ways |
@@ -52,7 +52,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 ## Assumptions behind the reasoning
 
 - The added acid or base is **strong** and reacts completely with the buffer component.
-- Capacity comparisons use **moles**, not concentrations, when volumes differ.
+- Capacity comparisons use **moles**, not concentrations, when volumes differ. Concentration comparisons assume equal volumes.
 - In this model, dilution does not change the ratio, so it does not change the pH.
 
 ## Mistakes to avoid

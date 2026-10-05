@@ -129,7 +129,7 @@ CH₃CH₂COOH: 0.150 + 0.030 = **0.180 mol**. CH₃CH₂COO⁻: 0.100 − 0.030
 **(b)** CH₃CH₂COOH(aq) + OH⁻(aq) → CH₃CH₂COO⁻(aq) + H₂O(l)
 CH₃CH₂COOH: 0.150 − 0.030 = **0.120 mol**. CH₃CH₂COO⁻: 0.100 + 0.030 = **0.130 mol**.
 
-**(c)** Added acid is removed by propanoate, of which there is **0.100 mol**. After that, no base member is left. Any further HCl stays as free H₃O⁺, so the pH falls sharply, just as it would in water with only a weak acid present.
+**(c)** Added acid is removed by propanoate, of which there is **0.100 mol**. After that, no base member is left. Any further HCl stays as free H₃O⁺, because nothing is left to remove it, so the pH falls sharply.
 
 Suggested mark points (5): 1 for each correct equation in (a) and (b) (2 total); 1 for both sets of amounts correct; 1 for 0.100 mol in (c); 1 for explaining that extra H₃O⁺ is no longer removed, so the pH drops sharply.
 
@@ -158,7 +158,7 @@ After: CH₃COOH + OH⁻ → CH₃COO⁻ + H₂O, so CH₃COOH = **4.9 × 10⁻�
 
 **(b)** In water nothing reacts with the added OH⁻, so all 1.0 × 10⁻⁴ mol stays free in about 51 mL. [OH⁻] jumps from 10⁻⁷ M to about 2 × 10⁻³ M, so the pH rises sharply. In the buffer, the acetic acid molecules react with the OH⁻ ions and remove them, forming acetate ions and water. The strong base is replaced by acetate, a weak base. Only 2% of the acetic acid is used, so both members remain in large and nearly equal amounts. The ratio [CH₃COO⁻]/[CH₃COOH] changes only from 1.00 to about 1.04, so the pH changes very little.
 
-**(c)** The pH falls only slightly (to about 4.73). Acetate removes the added acid: CH₃COO⁻(aq) + H₃O⁺(aq) → CH₃COOH(aq) + H₂O(l).
+**(c)** The pH falls only slightly (to about 4.73; calculating this value is not required in this course). Acetate removes the added acid: CH₃COO⁻(aq) + H₃O⁺(aq) → CH₃COOH(aq) + H₂O(l).
 
 | Point | What earns it |
 |---|---|

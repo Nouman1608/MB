@@ -70,7 +70,7 @@ A buffer contains 0.040 mol HA and 0.010 mol A⁻. Which addition will cause the
 **Answer: (B).** Added HCl is used up by A⁻, and there is only 0.010 mol of A⁻. Adding 0.020 mol HCl uses all of it and leaves 0.010 mol of excess H₃O⁺, so the pH falls sharply.
 
 - (A) is less than the 0.010 mol of A⁻, so it is neutralised. The pH falls, but much less.
-- (C) and (D) are both less than the 0.040 mol of HA, so the buffer neutralises them. This HA-rich buffer has a large capacity for added base.
+- (C) and (D) are both less than the 0.040 mol of HA, so the buffer neutralises them. (D) shifts the ratio noticeably, but HA is not used up and no excess OH⁻ remains, so the change is much smaller than in (B). This HA-rich buffer has a large capacity for added base.
 </details>
 
 ## Question 3 (multiple choice · core)

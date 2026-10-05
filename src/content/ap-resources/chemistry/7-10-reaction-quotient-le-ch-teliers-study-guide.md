@@ -60,7 +60,7 @@ Here is the key idea of this topic:
 2. The stress makes **Q ≠ K**. The system is no longer at equilibrium.
 3. The system reacts (forward or in reverse) until **Q = K** again. This is the new equilibrium.
 
-A stress can upset the balance in one of two ways. Most stresses change the **concentrations** in Q but leave K alone. A change in **temperature** changes the value of **K**, while the concentrations at that instant stay the same. Either way, Q and K no longer match, and the concentrations or partial pressures redistribute until they do.
+A stress can upset the balance in one of two ways. Most stresses change the **concentrations** in Q but leave K alone. A change in **temperature** changes the value of **K**, while the concentrations at that instant stay the same (in a rigid container). Either way, Q and K no longer match, and the concentrations or partial pressures redistribute until they do.
 
 ## Comparing Q with K
 
@@ -104,7 +104,7 @@ A stress can upset the balance in one of two ways. Most stresses change the **co
 | Remove a reactant or product | Yes | No | Opposite of adding it |
 | Change the volume of a gas mixture | Yes, if gas coefficients differ | No | See the factor rule below |
 | Dilute a solution | Yes, if dissolved-particle coefficients differ | No | See the factor rule below |
-| Change the temperature | Not at that instant | **Yes** | K moves away from Q |
+| Change the temperature (rigid container) | Not at that instant | **Yes** | K moves away from Q |
 | Add a catalyst, extra solid or pure liquid | No | No | Still Q = K |
 
 ### The factor rule for volume and dilution

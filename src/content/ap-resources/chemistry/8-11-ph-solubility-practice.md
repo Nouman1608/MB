@@ -127,7 +127,7 @@ A student studies the fictional salt GT₂, which dissolves as GT₂(s) ⇌ G²�
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Mass dissolved = 1.000 g − mass recovered: 0.102 g at pH 3.0, 0.012 g at pH 5.0, 0.010 g at pH 7.0 and 0.009 g at pH 9.0. The mass dissolved is about the same at pH 7.0 and 9.0, rises slightly at pH 5.0, and is about ten times larger at pH 3.0. GT₂ is more soluble in more acidic solutions.
+**(a)** Mass dissolved = 1.000 g − mass recovered: 0.102 g at pH 3.0, 0.012 g at pH 5.0, 0.010 g at pH 7.0 and 0.009 g at pH 9.0. The mass dissolved is about the same at pH 7.0 and 9.0 and perhaps slightly higher at pH 5.0 (that 0.002 g difference is close to the precision of the balance, so it is weak evidence). At pH 3.0 it is about ten times larger. Overall, GT₂ is more soluble in more acidic solutions.
 
 **(b)** The weak base is **T⁻** (G²⁺ is a metal cation). T⁻(aq) + H₃O⁺(aq) → HT(aq) + H₂O(l). At low pH, H₃O⁺ converts T⁻ into HT, lowering [T⁻]. Q = [G²⁺][T⁻]² falls below K_sp, so the dissolving equilibrium shifts to the right and more GT₂ dissolves. The lower the pH, the more T⁻ is removed.
 

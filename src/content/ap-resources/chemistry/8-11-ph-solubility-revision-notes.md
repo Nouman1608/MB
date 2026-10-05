@@ -21,7 +21,7 @@ sources: ["ced-chemistry", "page-chemistry"]
 keyPoints:
   - "Basic anion or OH⁻ in the salt: more soluble in acid."
   - "Weakly acidic cation in the salt: more soluble in base."
-  - "Anion of a strong acid (Cl⁻, Br⁻, I⁻): no pH effect."
+  - "Anion of a strong acid (Cl⁻, Br⁻, I⁻) with a non-acidic cation: no pH effect."
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05

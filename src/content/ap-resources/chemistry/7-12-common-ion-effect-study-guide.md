@@ -35,7 +35,7 @@ faqs:
   - question: "Does adding sodium nitrate to saturated silver chloride lower its solubility?"
     answer: "Not through the common-ion effect: neither Na⁺ nor NO₃⁻ appears in the K_sp expression of AgCl, so Q does not change. In the model used in this course, the solubility stays the same."
   - question: "When can I use the approximation c + s ≈ c?"
-    answer: "When the amount the salt adds is tiny compared with the common ion already there. Check after solving: if xs (or ys) is less than about 5% of c, the approximation is fine. With K_sp values well below 10⁻⁵ and c around 0.01 M or more, it almost always is."
+    answer: "When the amount the salt adds is tiny compared with the common ion already there. Check after solving: if xs (or ys) is less than about 5% of c, the approximation is fine. It is most likely to fail when the common ion is squared or cubed in K_sp and c is small, so never skip the check."
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05

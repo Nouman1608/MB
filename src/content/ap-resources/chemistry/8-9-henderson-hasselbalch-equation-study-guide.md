@@ -137,7 +137,7 @@ When a little strong acid is added, the A⁻ in the buffer reacts with it: A⁻ 
 
 The pH depends on **log of the ratio**. If both amounts are large, a small shift changes the ratio only slightly, and the log of a number close to 1 is close to 0. So the pH moves very little. Without the buffer, the same amount of acid would change the pH by several units.
 
-**Background illustration (this calculation is not assessed).** One litre of buffer holds 0.100 mol HA and 0.100 mol A⁻. Adding 0.0010 mol of H₃O⁺ turns the amounts into 0.099 mol HA and 0.101 mol A⁻. The ratio falls from 1.000 to 0.980, and the pH falls by only 0.009. The same 0.0010 mol of H₃O⁺ in one litre of pure water takes the pH from 7.00 to 3.00, a change of 4 units. You need the reasoning in the paragraph above, not this arithmetic.
+**Background illustration (this calculation is not assessed).** One litre of buffer holds 0.100 mol HA and 0.100 mol A⁻. Adding 0.0010 mol of H₃O⁺ turns the amounts into 0.101 mol HA and 0.099 mol A⁻ (A⁻ + H₃O⁺ → HA + H₂O). The ratio falls from 1.000 to 0.980, and the pH falls by only 0.009. The same 0.0010 mol of H₃O⁺ in one litre of pure water takes the pH from 7.00 to 3.00, a change of 4 units. You need the reasoning in the paragraph above, not this arithmetic.
 
 ## Worked example 1: pH from concentrations
 
@@ -189,7 +189,7 @@ The pH depends on **log of the ratio**. If both amounts are large, a small shift
 - **Using molarities from before mixing.** When different volumes are mixed, use moles (or the new concentrations).
 - **"A buffer always has pH 7."** A buffer holds its pH near its own pKa. An acetate buffer sits near 4.76; an ammonia buffer near 9.25.
 - **"Adding acid to a buffer does nothing at all."** The pH does fall, but only slightly, because the ratio changes only slightly.
-- **"Diluting a buffer changes its pH."** The ratio, and so the pH, stays the same in this model. What dilution does change is how much acid or base the buffer can absorb; that is Topic 8.10.
+- **"Diluting a buffer changes its pH."** The ratio, and so the pH, stays the same in this model. What dilution does change is how much acid or base each litre of buffer can absorb; that is Topic 8.10.
 - **Using the equation for a weak acid on its own.** With no added A⁻ there is no meaningful ratio. Use the weak-acid method from Topic 8.3 instead.
 
 ## Where this leads

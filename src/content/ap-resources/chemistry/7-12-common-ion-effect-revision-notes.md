@@ -48,7 +48,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 | MX in c M of X⁻ | K_sp = s(c + s) | s ≈ K_sp ÷ c |
 | MX₂ in c M of X⁻ | K_sp = s(c + 2s)² | s ≈ K_sp ÷ c² |
 | MX₂ in c M of M²⁺ | K_sp = (c + s)(2s)² | s ≈ √(K_sp ÷ 4c) |
-| K_sp from common-ion data | K_sp = [measured ion] × [common ion]ⁿ | use the common-ion concentration, not s, for that ion |
+| K_sp from common-ion data | K_sp = [measured ion]ᵐ × [common ion]ⁿ (powers from the formula) | use the common-ion concentration, not s, for that ion |
 
 ## Assumptions
 

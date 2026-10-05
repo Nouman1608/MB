@@ -58,7 +58,7 @@ K_w is tiny, so the equilibrium lies very far to the left. In pure water at 25 �
 
 [H₃O⁺] = [OH⁻] = 1.0 × 10⁻⁷ M in pure water at 25 °C.
 
-To see how small that is, pure water is about 55.5 M in H₂O molecules. Only about 2 in every billion water molecules are ionised at any moment.
+To see how small that is, pure water is about 55.5 M in H₂O molecules. So at any moment there are only about 2 hydronium ions for every billion water molecules (1.0 × 10⁻⁷ ÷ 55.5 ≈ 1.8 × 10⁻⁹).
 
 ### The K_w relationship holds in every aqueous solution
 

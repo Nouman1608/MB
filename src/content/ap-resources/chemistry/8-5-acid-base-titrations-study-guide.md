@@ -13,7 +13,7 @@ prerequisites:
 prerequisiteResources: ["mb-ap-chem-8.4-study-guide"]
 learningObjectives:
   - "Describe the regions of a pH titration curve and the major species present in each"
-  - "Use the volume of titrant at the equivalence point to find the concentration of a mono-protic analyte"
+  - "Use the volume of titrant at the equivalence point to find the concentration of a monoprotic analyte"
   - "Explain why pH = pKa at the half-equivalence point and use it to find Ka or Kb from a curve"
   - "Explain whether the pH at the equivalence point is acidic, neutral or basic from the species present"
   - "Use a polyprotic titration curve to find the number of acidic protons, each pKa and the major species at any point"
@@ -88,11 +88,11 @@ Figure 1 shows two titrations with the same amounts. Each flask holds 30.00 mL o
 <circle cx="230" cy="181" r="5" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <circle cx="380" cy="120.6" r="5" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
 <rect x="374.5" y="139.5" width="11" height="11" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
-<text x="238" y="168" font-size="12" fill="#1d2b44">half-equivalence: pH = pKa = 4.60</text>
+<text x="130" y="158" font-size="12" fill="#1d2b44">half-equivalence: pH = pKa = 4.60</text>
 <text x="390" y="118" font-size="12" fill="#1d2b44">weak acid equivalence: pH 8.62</text>
 <text x="390" y="150" font-size="12" fill="#1d2b44">strong acid equivalence: pH 7.00</text>
 <text x="120" y="244" font-size="12" fill="#1d2b44">HCl (dashed)</text>
-<text x="120" y="200" font-size="12" fill="#1d2b44">HQ (solid)</text>
+<text x="120" y="214" font-size="12" fill="#1d2b44">HQ (solid)</text>
 </svg>
 <figcaption>Figure 1. Same moles of acid, same equivalence volume (24.00 mL). The weak acid (solid line) starts at a higher pH, has a flat buffer region with pH = pKa at the half-equivalence point (circle), and a basic equivalence point (shaded circle). The strong acid (dashed line) has its equivalence point at pH 7.00 (square).</figcaption>
 </figure>
@@ -110,7 +110,7 @@ For an acid or base that gives or takes **one** proton (monoprotic), the equival
 
 > moles of titrant added = moles of analyte present at the start.
 
-This is true for strong and weak acids and bases alike. If HQ is only 2% ionised at the start, how can all of it react? Each OH⁻ removes H⁺ or HQ; the equilibrium HQ ⇌ H⁺ + Q⁻ keeps shifting to the right, and hydroxide reacts with HQ directly. By the equivalence point every HQ molecule has been used.
+This is true for strong and weak acids and bases alike. If HQ is only 2% ionised at the start, how can all of it react? Each OH⁻ reacts either with H₃O⁺ or directly with an HQ molecule. As H₃O⁺ is removed, the equilibrium HQ ⇌ H⁺ + Q⁻ keeps shifting to the right. By the equivalence point every HQ molecule has been used.
 
 On a curve, the equivalence point is the **middle of the steepest part** (the point of inflection), not the top of the jump. Read its volume off the x-axis, then use n = M × V.
 
@@ -221,13 +221,13 @@ You need to reason about which species are present in **large** or **small** amo
 
 ## Worked example 3: identifying species on a diprotic curve
 
-**Question.** Use Figure 2. (a) How many moles of H₂X were titrated? (b) Name the two most abundant acid-containing species at 30.00 mL and say how their amounts compare. (c) At 20.00 mL, is H₂X or X²⁻ present in larger amount?
+**Question.** Use Figure 2. (a) How many moles of H₂X were titrated? (b) Name the two most abundant acid-containing species at 30.00 mL and say how their amounts compare. (c) At 20.00 mL, which acid-containing species dominates, and how do the amounts of H₂X and X²⁻ compare?
 
 **(a)** First equivalence at 20.00 mL: 20.00 mL × 0.100 M = **2.00 mmol** of H₂X. (Using 40.00 mL would double-count: that volume removes both protons.)
 
 **(b)** 30.00 mL is halfway between 20.00 and 40.00 mL. All the H₂X has become HX⁻, and half of that HX⁻ has become X²⁻. So **HX⁻ and X²⁻ are present in equal amounts**, which is why the pH there equals pKa₂.
 
-**(c)** At the first equivalence point HX⁻ dominates. A little HX⁻ gives up a proton (making X²⁻) and a little accepts one (making H₂X). Their amounts are both small and close to each other, which is why the pH there, about 6.0, lies roughly midway between pKa₁ and pKa₂. Neither is a major species. This qualitative answer is all the course asks for.
+**(c)** At the first equivalence point **HX⁻ dominates**. A little HX⁻ gives up a proton (making X²⁻) and a little accepts one (making H₂X). So H₂X and X²⁻ are both present only in small, roughly equal amounts, which is why the pH there, about 6.0, lies roughly midway between pKa₁ and pKa₂. Neither is a major species. This qualitative answer is all the course asks for.
 
 ## Common misconceptions
 
