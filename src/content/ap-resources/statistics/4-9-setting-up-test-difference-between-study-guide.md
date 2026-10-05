@@ -222,7 +222,7 @@ All three conditions are met, so a two-sample t-test is appropriate.
 <figure>
 <svg viewBox="0 0 640 230" role="img" aria-labelledby="jump-title jump-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="jump-title">Dot plots of jump heights after two warm-ups</title>
-<desc id="jump-desc">Two dot plots share a horizontal axis from 30 to 50 centimetres. The top row, labelled Dynamic, shows eleven filled circles at 36, 38, 39, 40, 41, 42, 43, 44, 45, 46 and 47 centimetres, with a short dashed line marking the mean at about 41.9. The bottom row, labelled Static, shows eleven open circles at 33, 34, 35, 36, 37, 38, 39, 40, 41, 42 and 44 centimetres, with a short dashed line marking the mean at about 38.1. Both rows are spread fairly evenly with no gaps or isolated values.</desc>
+<desc id="jump-desc">Two dot plots share a horizontal axis from 30 to 50 centimetres. The top row, labelled Dynamic, shows eleven filled circles at 36, 38, 39, 40, 41, 42, 43, 44, 45, 46 and 47 centimetres, with a short dashed line marking the mean at about 41.9. The bottom row, labelled Static, shows eleven open circles at 33, 34, 35, 36, 37, 38, 39, 40, 41, 42 and 44 centimetres, with a short dashed line marking the mean at about 38.1. Both rows are spread fairly evenly, with no large gaps and no isolated values.</desc>
 <rect x="0" y="0" width="640" height="230" fill="#ffffff"/>
 <text x="10" y="75" font-size="13" fill="#1d2b44">Dynamic</text>
 <text x="10" y="135" font-size="13" fill="#1d2b44">Static</text>

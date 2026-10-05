@@ -56,7 +56,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 ## Assumptions and conventions
 
 - Residuals come from a stated model, ŷ = a + bx. Calculate ŷ first, then subtract it from y.
-- With one explanatory variable, plotting residuals against x or against ŷ shows the same pattern.
+- With one explanatory variable, plotting residuals against x or against ŷ shows the same pattern (mirrored if the slope is negative).
 - A high r does not replace the residual plot: curved data can have r close to −1 or 1.
 
 ## Mistakes to avoid

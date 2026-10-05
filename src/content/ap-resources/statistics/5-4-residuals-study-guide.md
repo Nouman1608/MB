@@ -36,7 +36,7 @@ faqs:
   - question: "Is it observed minus predicted, or predicted minus observed?"
     answer: "Always observed minus predicted: y − ŷ. Getting the order wrong flips the sign and reverses your interpretation."
   - question: "Should I plot residuals against x or against ŷ?"
-    answer: "Either is acceptable. With one explanatory variable, both plots show the same pattern, so use whichever you are given or whichever your calculator makes easiest."
+    answer: "Either is acceptable. With one explanatory variable, ŷ is just a linear function of x, so both plots show the same pattern (mirrored left to right if the slope is negative). Use whichever you are given or whichever your calculator makes easiest."
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
@@ -153,6 +153,21 @@ A residual question can also run the other way: you know the residual and must f
 2. Residual = 15.80 − 14.63 = **+$1.17**.
 3. The model **underpredicted** this fare by $1.17. Perhaps the taxi waited in traffic.
 
+## Writing a residual interpretation
+
+A full interpretation of a residual has four parts. Use this frame and fill in the context:
+
+"The actual **[response, with units]** for **[this individual, with its x-value]** was **[size of residual]** **more / less** than the model predicted, so the model **underpredicted / overpredicted**."
+
+For example: "The actual fare for the 9.9 km ride was $1.55 more than the model predicted, so the model underpredicted it."
+
+Check each part before you move on:
+
+- **Size:** give the residual without its sign; the words "more" or "less" carry the direction.
+- **Direction:** positive means more than predicted; negative means less.
+- **Context:** name the response variable and the individual, not just "y".
+- **Units:** the residual is in the units of the response.
+
 ## Residual plots
 
 A **residual plot** is a scatterplot of the **residuals** (vertical axis) against the **explanatory variable x** or the **predicted values ŷ** (horizontal axis). A horizontal line at residual = 0 marks where the model is exactly right.
@@ -164,7 +179,7 @@ A residual plot takes away the overall upward or downward trend, so any pattern 
 | **Random scatter** above and below 0, with no clear pattern | The form is linear. A linear model is appropriate. |
 | **Curvature**: a U-shape or an arch (residuals positive, then negative, then positive, or the reverse) | The form is not linear. A linear model is not the most appropriate model. |
 
-With one explanatory variable, a plot against ŷ shows the same pattern as a plot against x, so either is fine.
+With one explanatory variable, a plot against ŷ shows the same pattern as a plot against x (mirrored left to right if the slope b is negative), so either is fine.
 
 <figure>
 <svg viewBox="0 0 640 260" role="img" aria-labelledby="rp-title rp-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">

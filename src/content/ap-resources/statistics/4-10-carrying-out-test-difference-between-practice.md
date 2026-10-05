@@ -196,7 +196,7 @@ Random samples of 30 students at fictional School X and 28 at School Y recorded 
 <details>
 <summary>Model answer and suggested Marlbridge rubric</summary>
 
-**(a)** Any two of:
+**(a)** The two errors are below. ("Accept H₀" and "proves … equal" are the same error, so they count once.)
 
 1. "Accept H₀" and "proves … are equal" are wrong. Failing to reject H₀ only means the data do not give convincing evidence of a difference; the means might still differ.
 2. The p-value is **not** the probability that H₀ is true. It is the probability, **assuming** H₀ is true, of a difference in sample means at least as extreme as the one observed.

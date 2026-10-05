@@ -13,7 +13,7 @@ studyMinutes: 10
 difficulty: "core"
 related: ["mb-ap-stats-5.5-study-guide", "mb-ap-stats-5.5-practice", "mb-ap-stats-5.5-revision-notes"]
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-statistics"]
+sources: ["ced-statistics", "page-statistics", "cb-statistics-revisions"]
 keyPoints:
   - "Tick a statement only when you can do it without notes."
   - "Each statement names the guide section or practice question that tests it."

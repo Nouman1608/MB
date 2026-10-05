@@ -120,29 +120,29 @@ Common error: swapping sine and cosine gives 138 N down the slope. Check with a 
 
 ## Question 5 (diagram · core)
 
-A 0.040 kg fridge magnet is held at rest on a vertical steel fridge door. The magnetic attraction between the magnet and the door is 3.0 N.
+A student holds a 0.040 kg board eraser at rest against a vertical whiteboard by pressing on it with one finger. The finger pushes horizontally, straight towards the board, with a force of 3.0 N.
 
-(a) Draw the magnet's free-body diagram, with arrow lengths that show which forces are larger.
+(a) Draw the eraser's free-body diagram, with arrow lengths that show which forces are larger.
 (b) Classify each force as contact or long-range, and explain what causes the contact forces at the atomic scale.
-(c) The magnet stays at rest, so the forces balance in each direction. Find the size of the friction force and of the normal force.
+(c) The eraser stays at rest, so the forces balance in each direction. Find the size of the friction force and of the normal force.
 
 <details>
 <summary>Worked solution</summary>
 
-**(a)** Four forces from one dot (take the door to the magnet's left):
-- F_g, Earth on magnet: down, short;
-- F_f, door on magnet: up, the same short length as F_g;
-- F_M, magnetic force of the door on the magnet: towards the door (left), long;
-- F_N, door on magnet: away from the door (right), the same long length as F_M.
+**(a)** Four forces from one dot (take the board to the eraser's left):
+- F_g, Earth on eraser: down, short;
+- F_f, board on eraser: up, the same short length as F_g;
+- F_A, finger on eraser: towards the board (left), long;
+- F_N, board on eraser: away from the board (right), the same long length as F_A.
 
-**(b)** Long-range: gravity and the magnetic force (both act without touching; the magnet is pulled towards steel before it touches it). Contact: the normal force and friction. These are the large-scale result of electric forces between atoms at the two touching surfaces: the magnet is pulled against the door, the surface atoms are squeezed together, and their repulsion pushes the magnet away from the door.
+**(b)** Long-range: gravity only (Earth pulls on the eraser without touching it). Contact: the finger's push, the normal force and friction. These are the large-scale result of electric forces between atoms at the touching surfaces: the finger presses the eraser against the board, the surface atoms are squeezed together, and their repulsion pushes back.
 
 **(c)** Vertical: F_f = F_g = (0.040 kg)(9.8 N/kg) = **0.39 N**, upward.
-Horizontal: F_N = F_M = **3.0 N**, away from the door.
+Horizontal: F_N = F_A = **3.0 N**, away from the board.
 
-Suggested mark points (5): 1 for all four forces with correct directions; 1 for relative lengths (F_N = F_M, both much longer than F_g = F_f); 1 for correct classification; 1 for the electric origin of contact forces; 1 for both values in (c).
+Suggested mark points (5): 1 for all four forces with correct directions; 1 for relative lengths (F_N = F_A, both much longer than F_g = F_f); 1 for correct classification; 1 for the electric origin of contact forces; 1 for both values in (c).
 
-Common error: drawing the friction force downward or leaving it out. Without upward friction from the door, nothing would hold the magnet up against gravity.
+Common error: drawing the friction force downward or leaving it out. Without upward friction from the board, nothing would hold the eraser up against gravity.
 </details>
 
 ## Question 6 (constructed response · stretch)

@@ -193,7 +193,7 @@ A fictional sleep study recorded the hours of sleep the night before and the rea
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** There is a strong, negative, linear association between hours of sleep and reaction time: students who slept longer tended to have lower (faster) reaction times. One student (8.0 hours, 312 ms) reacted more slowly than others with similar sleep, but not far from the pattern. There are no clusters.
+**(a)** There is a strong, negative, linear association between hours of sleep and reaction time: students who slept longer tended to have lower (faster) reaction times. One student (8.0 hours, 312 ms) reacted more slowly than others with similar sleep and sits above the pattern, but not far enough to change the overall description. There are no clusters.
 
 **(b)** **Supported.** The association is negative. The four students with 6 hours or less had a mean reaction time of 335.25 ms; the four with 8 hours or more had a mean of 286.25 ms. So more sleep went with faster reactions in this sample.
 

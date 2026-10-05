@@ -18,7 +18,7 @@ calculatorNote: "Find a, b, r and r² with linear regression (a + bx), diagnosti
 related: ["mb-ap-stats-5.5-study-guide", "mb-ap-stats-5.5-practice", "mb-ap-stats-5.5-checklist"]
 next: "mb-ap-stats-5.5-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
-sources: ["ced-statistics"]
+sources: ["ced-statistics", "page-statistics", "cb-statistics-revisions"]
 keyPoints:
   - "The LSRL minimises the sum of squared residuals and passes through (x̄, ȳ)."
   - "Slope and intercept are predictions: say 'predicted' and use context and units."

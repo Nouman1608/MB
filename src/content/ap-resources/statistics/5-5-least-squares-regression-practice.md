@@ -125,7 +125,7 @@ r = −0.9839 ≈ −0.98 and r² = 0.9681 ≈ 0.97.
 
 **(c)** ŷ = 32.2163 − 0.2045(28) = **26.49 minutes**. This is interpolation, since 28 km lies inside 12 to 40 km.
 
-**(d)** ŷ = 32.2163 − 0.2045(25) = 27.10 minutes. Residual = 27.3 − 27.10 = **0.20 minutes**. The residual is positive, so the line **underpredicts** this member's time: they ran about 0.20 minutes slower than predicted.
+**(d)** ŷ = 32.2163 − 0.2045(25) = 27.10 minutes. Residual = 27.3 − 27.10 = **0.20 minutes**. The residual is positive, so the line **underpredicts** this member's time: they ran about 0.20 minutes slower than predicted. (The rounded equation gives 0.21; accept either.)
 
 | Point | What earns it |
 |---|---|

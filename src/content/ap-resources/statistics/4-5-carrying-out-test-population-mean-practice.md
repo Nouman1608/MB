@@ -188,7 +188,7 @@ Checking the two rows for skewness instead of the differences does not earn the 
 
 A fictional e-reader is advertised to last 30 hours on one charge. A product tester checks a random sample of 12 e-readers from a large shipment. The battery lives show no strong skewness and no outliers; x̄ = 28.7 hours and s = 2.9 hours. A student tests H₀: μ = 30 against Hₐ: μ < 30 at α = 0.05 and writes:
 
-> z = (28.7 − 30) / (2.9 / √12) = −1.55. p-value = P(Z ≤ −1.55) = 0.0602. Since 0.0602 > 0.05, we accept H₀. The e-readers last 30 hours on average.
+> z = (28.7 − 30) / (2.9 / √12) = −1.55. p-value = P(Z ≤ −1.55) = 0.0606. Since 0.0606 > 0.05, we accept H₀. The e-readers last 30 hours on average.
 
 (a) Identify the error in the calculation and find the correct p-value.
 (b) Identify two problems with the conclusion, then write a correct conclusion.

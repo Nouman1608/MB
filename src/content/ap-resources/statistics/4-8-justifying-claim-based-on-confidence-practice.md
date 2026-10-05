@@ -105,7 +105,7 @@ A 95% confidence interval for μ_A − μ_B is (3.1, 7.9) seconds. What is the 9
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** Reversing the order changes the sign of every plausible value: (a, b) becomes (−b, −a). Both intervals say the same thing: μ_A is between 3.1 and 7.9 seconds larger than μ_B.
+**Answer: (B).** Reversing the order changes the sign of every plausible value: (a, b) becomes (−b, −a). Both intervals say the same thing: μ_A is plausibly between 3.1 and 7.9 seconds larger than μ_B.
 
 - (A) ignores the change of sign.
 - (C) changes the sign of only one limit.

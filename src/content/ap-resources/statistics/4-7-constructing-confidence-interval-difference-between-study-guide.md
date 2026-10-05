@@ -157,16 +157,16 @@ On a graphing calculator, use the two-sample t-interval function and choose **no
 <text x="330" y="162" text-anchor="middle" font-size="13" fill="#1d2b44">Difference in mean delivery time, North − South (hours)</text>
 <line x1="120" y1="30" x2="120" y2="120" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="5 4"/>
 <text x="126" y="40" font-size="12" fill="#1d2b44">0</text>
-<line x1="165" y1="90" x2="435" y2="90" stroke="#1d2b44" stroke-width="5"/>
+<line x1="165" y1="90" x2="495" y2="90" stroke="#1d2b44" stroke-width="5"/>
 <line x1="165" y1="80" x2="165" y2="100" stroke="#1d2b44" stroke-width="2"/>
-<line x1="435" y1="80" x2="435" y2="100" stroke="#1d2b44" stroke-width="2"/>
+<line x1="495" y1="80" x2="495" y2="100" stroke="#1d2b44" stroke-width="2"/>
 <circle cx="330" cy="90" r="6" fill="#ffffff" stroke="#1d2b44" stroke-width="2.5"/>
 <text x="165" y="112" text-anchor="middle" font-size="12" fill="#1d2b44">0.75</text>
-<text x="435" y="112" text-anchor="middle" font-size="12" fill="#1d2b44">6.25</text>
+<text x="495" y="112" text-anchor="middle" font-size="12" fill="#1d2b44">6.25</text>
 <path d="M167 66 V58 H328 V66" fill="none" stroke="#1d2b44" stroke-width="1.5"/>
-<path d="M332 66 V58 H433 V66" fill="none" stroke="#1d2b44" stroke-width="1.5"/>
+<path d="M332 66 V58 H493 V66" fill="none" stroke="#1d2b44" stroke-width="1.5"/>
 <text x="247" y="52" text-anchor="middle" font-size="12" fill="#1d2b44">margin of error 2.75</text>
-<text x="383" y="52" text-anchor="middle" font-size="12" fill="#1d2b44">margin of error 2.75</text>
+<text x="413" y="52" text-anchor="middle" font-size="12" fill="#1d2b44">margin of error 2.75</text>
 <text x="330" y="24" text-anchor="middle" font-size="13" fill="#1d2b44">point estimate x̄_N − x̄_S = 3.5</text>
 <line x1="330" y1="28" x2="330" y2="82" stroke="#1d2b44" stroke-width="1" stroke-dasharray="2 3"/>
 </svg>
@@ -225,7 +225,7 @@ What the interval tells you about the claim "North is slower" is the job of Topi
 
 1. Means: x̄_new = 514 ÷ 10 = 51.4 g; x̄_std = 450 ÷ 10 = 45.0 g. Point estimate = **6.4 g**.
 2. Standard deviations (calculator, Sx): s_new = 4.326 g; s_std = 4.082 g.
-3. Variance terms: 4.326²/10 = 1.8711 and 4.082²/10 = 1.6667. SE = √3.5378 = **1.8809 g**.
+3. Variance terms (using the unrounded s values): s_new²/10 = 1.8711 and s_std²/10 = 1.6667. SE = √3.5378 = **1.8809 g**.
 4. Technology: df = 17.94 (between 9 and 18), t* for 90% = **1.7344**.
 5. Margin of error = 1.7344 × 1.8809 = **3.2622 g**.
 6. Interval: 6.4 ± 3.2622 = **(3.14, 9.66) grams**.

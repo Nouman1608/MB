@@ -68,6 +68,6 @@ Short on time? This page is the recap. For explanations and worked examples, use
 
 1. A fictional brand says its dishwashers use "at most 9.0 litres of water per cycle" on average, and a tester suspects more. Write the hypotheses. *(H₀: μ = 9.0, Hₐ: μ > 9.0, where μ is the true mean water use, in litres per cycle, of all the brand’s dishwashers.)*
 2. Each of 25 workers is timed doing a task with an old tool and a new tool. Which procedure? *(One-sample t-test for a population mean difference, on the 25 differences.)*
-3. A random sample of 18 values has an outlier. Is the sample data condition met? *(No: with n < 30 the data must be free from outliers.)*
+3. A random sample of 18 values has an outlier, and nothing says the population is normal. Is the sample data condition met? *(No: with n < 30 the data must be free from outliers.)*
 
 Next: [practice questions](/advanced-course-resources/statistics/4-4-setting-up-test-population-mean-practice/).

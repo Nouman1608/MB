@@ -173,7 +173,7 @@ Direction only makes sense for a pattern that keeps going one way. A curve that 
 <text x="18" y="140" text-anchor="middle" font-size="14" fill="#1d2b44" transform="rotate(-90 18 140)">Price ($ thousands)</text>
 <line x1="122" y1="42.2" x2="590" y2="223.1" stroke="#1d2b44" stroke-width="1.5" stroke-dasharray="6 4"/>
 <g fill="#1d2b44">
-<circle cx="122" cy="42.2" r="5"/><circle cx="174" cy="91.1" r="5"/><circle cx="226" cy="127.8" r="5"/><circle cx="226" cy="120.4" r="5"/><circle cx="278" cy="157.1" r="5"/><circle cx="330" cy="179.1" r="5"/><circle cx="382" cy="196.2" r="5"/><circle cx="434" cy="207.2" r="5"/><circle cx="486" cy="214.6" r="5"/><circle cx="590" cy="223.1" r="5"/>
+<circle cx="122" cy="42.2" r="5"/><circle cx="174" cy="91.1" r="5"/><circle cx="226" cy="127.8" r="5"/><circle cx="226" cy="120.4" r="5"/><circle cx="278" cy="157.1" r="5"/><circle cx="330" cy="179.1" r="5"/><circle cx="382" cy="196.2" r="5"/><circle cx="434" cy="207.2" r="5"/><circle cx="486" cy="214.5" r="5"/><circle cx="590" cy="223.1" r="5"/>
 </g>
 <text x="400" y="120" font-size="12" fill="#1d2b44">dashed: straight line from first to last car</text>
 </svg>

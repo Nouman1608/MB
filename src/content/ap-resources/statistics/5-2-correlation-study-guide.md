@@ -165,7 +165,7 @@ If a point is above average on both variables, or below average on both, the pro
 
 ## When r misleads (2): unusual points
 
-r is **not resistant**. One unusual point can change it a lot. Eight fictional lizards had lengths 10 to 17 cm and masses 21 to 40 g, lying almost on a straight line: r = 0.997. A ninth record, length 11 cm and mass 62 g (probably a typing error for 26 g), drops r to **0.18**. A ninth point that fits the pattern, such as 25 cm and 62 g, leaves r at about 0.999. So report any unusual points alongside r, and check whether they are errors.
+r is **not resistant**. One unusual point can change it a lot. Eight fictional lizards had lengths 10, 11, 12, …, 17 cm and masses 21, 24, 26, 30, 31, 35, 37 and 40 g, lying almost on a straight line: r = 0.997. A ninth record, length 11 cm and mass 62 g (probably a typing error for 26 g), drops r to **0.18**. A ninth point that fits the pattern, such as 25 cm and 62 g, leaves r at about 0.999. So report any unusual points alongside r, and check whether they are errors.
 
 ## When r misleads (3): correlation is not causation
 

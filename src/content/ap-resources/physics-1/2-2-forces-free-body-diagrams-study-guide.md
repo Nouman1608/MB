@@ -33,7 +33,7 @@ keyPoints:
   - "Draw whole forces on the diagram, never components. Do the components separately, with one axis along the acceleration."
 faqs:
   - question: "Should I draw the velocity or the net force on a free-body diagram?"
-    answer: "No. A free-body diagram shows only the individual forces exerted on the system by other objects. Velocity, acceleration and the net force are not forces exerted by anything, so they do not belong on it."
+    answer: "Neither. A free-body diagram shows only the individual forces exerted on the system by other objects. Velocity, acceleration and the net force are not forces exerted by anything, so they do not belong on it."
   - question: "Do I have to draw arrows to scale?"
     answer: "Make the relative lengths sensible: a bigger force gets a longer arrow, and forces that balance get equal lengths. Exact scale drawing is not needed unless a question asks for it."
 version: "1.0"
@@ -63,9 +63,9 @@ An object or system **cannot exert a net force on itself**. Picture a child sitt
 
 ## Contact forces and long-range forces
 
-**Contact forces** act only while two objects touch. Normal forces, friction, tension and the push of your hand are all contact forces. They look simple, but at the scale of atoms they are **electric** forces. When a book rests on a table, the atoms at the two surfaces are squeezed slightly closer. The charged particles in them repel, and the total of billions of these tiny repulsions is the upward normal force.
+**Contact forces** act only while two objects touch. Normal forces, friction, tension and the push of your hand are all contact forces. They look simple, but at the scale of atoms they are **electric** forces. When a book rests on a table, the atoms at the two surfaces are squeezed slightly closer. The charged particles in them repel, and the combined effect of enormous numbers of these tiny repulsions is the upward normal force.
 
-**Long-range forces** act across a distance, with no touching needed. In this course the main one is gravity. Earth pulls on a falling apple while nothing touches it. Magnetic and electric attractions also act at a distance.
+**Long-range forces** act across a distance, with no touching needed. In this course the only one you will use is gravity. Earth pulls on a falling apple while nothing touches it. Magnetic and electric attractions also act at a distance, but they are outside this course.
 
 ### Forces you will meet in Unit 2
 

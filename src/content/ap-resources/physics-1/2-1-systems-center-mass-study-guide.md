@@ -7,7 +7,7 @@ unit: 2
 topics: ["2.1"]
 resourceType: "study-guide"
 prerequisites:
-  - "The object model and choosing a coordinate system (Topic 1.1)"
+  - "Choosing a positive direction and an origin (Topic 1.1)"
   - "Reading positions on x and y axes in two dimensions (Topic 1.5)"
 prerequisiteResources: ["mb-ap-phys1-1.5-study-guide"]
 learningObjectives:

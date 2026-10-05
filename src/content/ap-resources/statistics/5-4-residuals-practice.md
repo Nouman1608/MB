@@ -124,7 +124,7 @@ Four linear models were fitted to four different fictional data sets. Their resi
 
 ## Question 4 (calculation · core)
 
-A fictional bus company models journey time (minutes) from route distance (km) with ŷ = 4.5 + 2.6x. Five journeys were:
+A fictional bus company models journey time (minutes) from route distance (km) with ŷ = 4.5 + 2.6x. Five of the journeys in its data were:
 
 | Distance (km) | 3 | 5 | 8 | 10 | 12 |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@ For each student, explain the mistake and give a correct statement.
 <details>
 <summary>Model answer and suggested Marlbridge rubric</summary>
 
-**Ali.** A residual of −6 kcal means Ali's actual calories were 6 kcal **below** the prediction (observed − predicted = −6). The model **overestimated** (overpredicted) the calories he burned.
+**Ali.** A residual of −6 kcal means Ali's actual calories were 6 kcal **below** the prediction (observed − predicted = −6). The model **overestimated** (overpredicted) the calories Ali burned.
 
 **Bea.** A residual of 0 means only that Bea's own point lies exactly on the line: the model predicted her calories exactly. Other people can have large positive or negative residuals, so it says nothing about how well the model fits everyone.
 

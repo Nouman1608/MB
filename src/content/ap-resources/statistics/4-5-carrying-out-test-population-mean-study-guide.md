@@ -183,7 +183,7 @@ Use non-definitive language. A test never **proves** Hₐ, and failing to reject
 **Check.**
 
 - A t-table with no row for df = 35 should be read at df = 30. There, 2.43 lies between 2.147 (tail area 0.02) and 2.457 (tail area 0.01), so 0.01 < p-value < 0.02. This agrees with 0.0103.
-- The standard normal curve would give P(Z ≤ −2.43) ≈ 0.0076. That is too small: it ignores the extra variability from using s.
+- The standard normal curve would give P(Z ≤ −2.43) ≈ 0.0075. That is too small: it ignores the extra variability from using s.
 - At α = 0.01 the decision would change: 0.0103 > 0.01, so you would fail to reject H₀. This is why α must be chosen before you see the data.
 
 ## Worked example 2: a matched-pairs test that fails to reject H₀

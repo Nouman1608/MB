@@ -72,7 +72,7 @@ Ask three questions.
 </defs>
 <rect x="0" y="0" width="640" height="300" fill="#ffffff"/>
 <g fill="#ffffff" stroke="#1d2b44" stroke-width="2">
-<rect x="170" y="12" width="300" height="40" rx="6"/>
+<rect x="120" y="12" width="400" height="40" rx="6"/>
 <rect x="210" y="84" width="220" height="36" rx="6"/>
 <rect x="12" y="196" width="196" height="88" rx="6"/>
 <rect x="222" y="196" width="196" height="88" rx="6"/>
@@ -149,7 +149,7 @@ The same rules as Topic 3.5 apply:
 |---|---|---|
 | Random | Data from a random sample, or from a randomized experiment (for pairs: random order of treatments, or a random sample of pairs) | Without randomness the t-distribution does not describe how x̄ varies |
 | 10% | When sampling without replacement, n ≤ 10% of N | Keeps the observations close to independent. Not needed for a randomized experiment with no sampling |
-| Sample data | The population is said to be approximately normal; **or** n ≥ 30; **or**, if n < 30, the sample data show no strong skewness and no outliers | Makes the sampling distribution of x̄ close enough to normal for the t-procedure |
+| Sample data | You are told the population is roughly normal; **or** n ≥ 30; **or**, when n is below 30, a graph of the sample shows no strong skewness and no outliers | Makes the sampling distribution of x̄ close enough to normal for the t-procedure |
 
 For matched pairs, apply the sample data condition to the **differences**: at least 30 differences, or fewer than 30 with no strong skew or outliers.
 
@@ -223,7 +223,7 @@ All conditions are met, so the t-test is appropriate.
 
 With fewer than 30 differences and a clear outlier, the t-test is **not** appropriate as it stands. The outlier would have a large effect: the mean difference is 9.64 ms with it and 5.15 ms without it.
 
-**What could the student do?** First, investigate the 68 ms value. If it was a recording error (for example, the volunteer was distracted), correct or remove it and say so. If it is genuine, collect more pairs: with at least 30 differences the sample data condition is met.
+**What could the student do?** First, investigate the 68 ms value. If it was a recording error, correct it. If that trial was spoiled (for example, the volunteer was distracted), the student could repeat or remove it, and must report this. If it is genuine, collect more pairs: with at least 30 differences the sample data condition is met.
 
 ## Worked example 3: which procedure?
 

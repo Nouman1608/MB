@@ -129,7 +129,7 @@ Points that cost marks:
 
 **Question.** Two fictional factories fill bags of rice labelled 1 kg. At Factory P, fill weights are normally distributed with mean 1,004 g and standard deviation 6 g. At Factory Q, they are normally distributed with mean 1,000 g and standard deviation 8 g. An inspector selects a random sample of 10 of the 5,000 bags Factory P filled on one day and, independently, a random sample of 12 of the 8,000 bags Factory Q filled that day.
 
-(a) Find the mean and standard deviation of the sampling distribution of x̄P − x̄Q. (b) Check the conditions for a normal model. (c) Interpret the standard deviation. (d) Find the probability that the Factory Q sample mean is greater than the Factory P sample mean.
+(a) Find the mean and standard deviation of the sampling distribution of x̄P − x̄Q. (b) Check the conditions for a normal model. (c) Interpret the mean and the standard deviation. (d) Find the probability that the Factory Q sample mean is greater than the Factory P sample mean.
 
 **(a)**
 
@@ -144,7 +144,7 @@ Points that cost marks:
 2. **10%:** 10 ≤ 10% of 5,000 = 500 and 12 ≤ 10% of 8,000 = 800. ✓
 3. **Shape:** both populations of fill weights are normal, so the sampling distribution of x̄P − x̄Q is normal, even though both samples are small. ✓
 
-**(c)** In repeated pairs of random samples (10 bags from P, 12 from Q), the difference in sample mean fill weights (P − Q) typically varies from the true difference of 4 g by about 2.99 g.
+**(c)** Mean: over all possible pairs of random samples (10 bags from P, 12 from Q), the difference in sample mean fill weights (P − Q) averages 4 g, the true difference between the two factories' mean fill weights. Standard deviation: the difference in sample means (P − Q) typically varies from 4 g by about 2.99 g.
 
 **(d)** "Q greater than P" means x̄P − x̄Q < 0.
 

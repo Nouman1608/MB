@@ -70,7 +70,7 @@ The late-payment fees paid by customers of a fictional phone company are strongl
 **Answer: (C).** μx̄ = μ for any n, so the centre is right. But the population is strongly skewed and n = 12 < 30, so the sampling distribution keeps some of the right skew. A normal model is not justified.
 
 - (A) confuses the randomization condition (independence, no bias) with the shape condition.
-- (B) uses the large-counts number from proportions. For means, the guideline is n ≥ 30, and strong skew may need more.
+- (B) borrows the number 10 from the large-counts condition for proportions, which is about expected counts, not n. For means, the guideline is n ≥ 30, and strong skew may need more.
 - (D) is false: σx̄ = σ/√12 whatever the shape. The n ≥ 30 guideline is about shape, not about the standard deviation.
 </details>
 

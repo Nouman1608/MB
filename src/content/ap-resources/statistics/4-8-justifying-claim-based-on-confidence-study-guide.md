@@ -168,7 +168,7 @@ A 95% two-sample t-interval for μ_A − μ_F (Ashgrove minus Fenmoor) is **(−
 | Spaced | 32 | 36.8 | 6.2 |
 | Block | 32 | 31.5 | 7.0 |
 
-A 99% two-sample t-interval for μ_S − μ_B is **(0.91, 9.69) points**. (Point estimate 5.3, SE 1.653, df 61.1, t* 2.659, margin of error 4.39.)
+The schedules were randomly assigned and both groups have 32 ≥ 30 students, so the conditions are met (the 10% condition is not needed in an experiment). A 99% two-sample t-interval for μ_S − μ_B is **(0.91, 9.69) points**. (Point estimate 5.3, SE 1.653, df 61.1, t* 2.659, margin of error 4.39.)
 
 **(a) Interpret the interval.** We are 99% confident that the interval from 0.91 to 9.69 points captures the true difference (spaced minus block) in the mean quiz score for students like these who use the spaced schedule and who use the block schedule.
 

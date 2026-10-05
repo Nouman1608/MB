@@ -132,7 +132,7 @@ The eye-line hits three points exactly, yet its sum of squared residuals (2.00) 
 |---|---|
 | Found with technology | Enter x and y as two lists and run linear regression (form a + bx). Read off a, b, r and r². |
 | Passes through (x̄, ȳ) | Put x = x̄ into the equation and you get ȳ. Car wash: 0.7 + 2.1(3) = 7 = ȳ. |
-| Residuals add to 0 | Positive and negative residuals balance: 0.2 − 0.9 + 1.0 − 0.1 − 0.2 = 0. |
+| Residuals add to 0 | Positive and negative residuals balance: 0.2 − 0.9 + 1.0 − 0.1 − 0.2 = 0. Any line through (x̄, ȳ) has this property (the eye-line above does too), so a zero sum does not make a line the LSRL. |
 | Order of variables matters | The line for predicting y from x is not the same as the line for predicting x from y. Put the explanatory variable in the x list. |
 | a and b are statistics | They come from one sample. Another sample from the same population would give a slightly different slope and intercept. |
 
@@ -176,7 +176,7 @@ In those cases, say so. The intercept is still needed to position the line; it j
 
 Technology also gives **r²**, the square of the correlation coefficient. It is called the **coefficient of determination**.
 
-**r² is the proportion of the variation in the response variable that is explained by the linear relationship with the explanatory variable.**
+**r² tells you what fraction of the variation in the response (y) the linear relationship with the explanatory variable (x) accounts for.**
 
 Template:
 

@@ -191,7 +191,7 @@ A student wrote three statements about correlation. Explain the error in each, a
 
 | Point | What earns it |
 |---|---|
-| 1 | Statement 1: strength from |r|, so −0.85 is stronger |
+| 1 | Statement 1: strength from \|r\|, so −0.85 is stronger |
 | 1 | Statement 2: r is unit-free, corrected statement given |
 | 1 | Statement 3: r measures closeness to a line, not slope |
 </details>

@@ -130,7 +130,7 @@ Small samples pay a price: a larger t* and a wider interval. t-distributions are
 |---|---|---|
 | Randomization | The data come from a random sample **or** a randomized experiment. | Makes the values independent and the estimate unbiased. |
 | 10% | When sampling without replacement, n ≤ 10% of N. | Keeps the values close enough to independent for s/√n to be the right standard error. |
-| Sample data | The population is stated to be approximately normal, **or** n ≥ 30, **or**, if n < 30, the sample data show no strong skewness and no outliers. | Makes the sampling distribution of x̄ close enough to normal for t* to be accurate. |
+| Sample data | You are told the population is approximately normal; **or** the sample size is at least 30; **or**, for a smaller sample, a graph of the data shows no strong skewness and no outliers. | Makes the sampling distribution of x̄ close enough to normal for t* to be accurate. |
 
 For **matched pairs**, apply the sample data condition to the **differences**: the number of differences is at least 30, or the differences show no strong skewness or outliers. The two original columns do not need to pass on their own.
 
@@ -200,7 +200,7 @@ Keep unrounded values until the final step. Check with the one-sample t-interval
 4. ME = 1.833 × 0.0646 ≈ **0.1185 km/L**.
 5. Interval: 0.42 ± 0.1185 = **(0.30, 0.54) km/L**.
 
-**Check.** The two columns each have a standard deviation of about 0.76 km/L, because vans differ a lot. A two-sample method would wrongly give a standard error of about 0.3427 km/L. Pairing removes the van-to-van variation, which is why the paired interval is so much narrower.
+**Check.** The two columns have standard deviations of about 0.77 and 0.76 km/L, because vans differ a lot. A two-sample method would wrongly give a standard error of about 0.3427 km/L. Pairing removes the van-to-van variation, which is why the paired interval is so much narrower.
 
 ## Worked example 3: summary statistics and a large sample
 

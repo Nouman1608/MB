@@ -76,7 +76,7 @@ From the same sample of 12 measurements, a researcher builds a 95% t-interval an
 
 ## Question 3 (multiple choice · core)
 
-Eighteen volunteers had their resting heart rate measured before and after a ten-minute breathing exercise. With d = after − before, a 95% interval for the true mean difference is (−3.1, 1.4) beats per minute. Which conclusion is best?
+A random sample of 18 members of a fictional sports club had their resting heart rate measured before and after a ten-minute breathing exercise. With d = after − before, a 95% interval for the true mean difference is (−3.1, 1.4) beats per minute. Which conclusion is best?
 
 - (A) There is convincing evidence that the exercise lowers mean heart rate, because most of the interval is negative.
 - (B) There is no convincing evidence of a change in mean heart rate, because 0 is a plausible value for the mean difference.
